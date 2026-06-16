@@ -1,0 +1,45 @@
+# Catenda Help Center
+
+> Product documentation for Catenda — BIM collaboration for the built environment.
+
+## Sette i gang
+
+Blir invitert til Catenda eller har laget en konto for første gang er denne samlingen god å lese
+
+- [Trinn 1 - Oppsett av konto](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9030303-trinn-1-oppsett-av-konto.md): Opprett konto og bli invitert til et prosjekt
+
+## Kontobehandling
+
+Konfigurer innstillinger for ditt prosjekt eller din konto
+
+- [Multi Factor Autentisering](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4969891-multi-factor-autentisering.md)
+
+## Produkt Funksjoner
+
+Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funksjoner
+
+- [Catenda Hub Archicad plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5519276-catenda-hub-archicad-plugin.md)
+- [Catenda Hub Navisworks plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5085987-catenda-hub-navisworks-plugin.md)
+- [Catenda Plugins og Integrasjoner](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8396532-catenda-plugins-og-integrasjoner.md): Koble Catenda på dine favoritt verktøy
+- [Catenda Revit plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670334-catenda-revit-plugin.md)
+- [Formatering av innlegg](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8430847-formatering-av-innlegg.md)
+- [Modellersiden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670286-modellersiden.md)
+- [Opplasting av zip / filstruktur](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7945410-opplasting-av-zip-filstruktur.md)
+- [Punktskyer i Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5606625-punktskyer-i-catenda-hub.md): Oppdag hvordan du kan dra nytte av laserskanninger og LIDAR-teknologier i Catenda Hub.
+- [QR-Koder på PDFer i Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9360508-qr-koder-pa-pdfer-i-catenda.md)
+- [Saksbrødteksten - Innholdet i en sak](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8053352-saksbrodteksten-innholdet-i-en-sak.md)
+- [Skrivebordstilkoblingen (Desktop Connector)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8358861-skrivebordstilkoblingen-desktop-connector.md)
+
+## Vanlige spørsmål
+
+Her finner du svar på spørsmål som mange brukere har
+
+- [Er det en størrelsebegrensning for ifc filer?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670324-er-det-en-storrelsebegrensning-for-ifc-filer.md)
+- [Hvilke filtyper er støttet i Catenda?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670320-hvilke-filtyper-er-stottet-i-catenda.md)
+- [System anbefalinger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6921941-system-anbefalinger.md)
+
+## Siste oppdateringer 🎉
+
+Finn de siste Catenda oppdateringene
+
+- [Modeller som dokumenter](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8064548-modeller-som-dokumenter.md)

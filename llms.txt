@@ -1,0 +1,58 @@
+# Catenda Help Center
+
+> Product documentation for Catenda — BIM collaboration for the built environment.
+
+## Getting started
+
+Read this section if you get invited to Catenda or sign up for the first time.
+
+- [Step 1 - Account setup](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9030303-step-1-account-setup.md): Create your account and get invited to a project
+
+## Account management
+
+Get an overview of your projects or configure your account or organization
+
+- [Creating a team](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670264-creating-a-team.md)
+- [Multi Factor Authentication](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4969891-multi-factor-authentication.md): Describes how to set up MFA on your account
+
+## Product Features
+
+The basic features of Catenda Hub. Look here if you are looking for help for a specific feature.
+
+- [3D viewer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8227211-3d-viewer.md)
+- [Catenda Archicad plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5519276-catenda-archicad-plugin.md)
+- [Catenda Desktop connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8358861-catenda-desktop-connector.md)
+- [Catenda Navisworks plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5085987-catenda-navisworks-plugin.md)
+- [Catenda Plugins & Integrations](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8396532-catenda-plugins-integrations.md): Connect Catenda to your favorite tool
+- [Catenda Revit plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670334-catenda-revit-plugin.md)
+- [Check Lists within Issues](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5036461-check-lists-within-issues.md): An easy way to track progress on site.
+- [Filtering on the topics page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8370693-filtering-on-the-topics-page.md)
+- [IFC Export Archicad Manual](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670338-ifc-export-archicad-manual.md)
+- [Models page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670286-models-page.md)
+- [New status workflow - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9874698-new-status-workflow-iso-19650.md)
+- [Point Clouds in Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5606625-point-clouds-in-catenda-hub.md): Discover how to benefit from laser scans and LIDAR technologies in Catenda Hub.
+- [Post formatting toolbox](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8430847-post-formatting-toolbox.md): How fields where posts can be made can be formatted
+- [QR-Code on PDFs in Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9360508-qr-code-on-pdfs-in-catenda.md)
+- [Revit IFC Export Manual](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670341-revit-ifc-export-manual.md)
+- [Topic body - The content of a topic](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8053352-topic-body-the-content-of-a-topic.md)
+- [Upload a zip / file structure](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7945410-upload-a-zip-file-structure.md)
+
+## Frequently Asked Questions
+
+Here you find answers to questions that many users run into
+
+- [3D DWG export manual](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7887999-3d-dwg-export-manual.md)
+- [Hardware recommendation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6921941-hardware-recommendation.md): Find recommended hardware specifications and optimisation tips for the best experience with Catenda Hub.
+- [Previewing file types on Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670320-previewing-file-types-on-catenda-hub.md)
+- [What file size can I upload?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670324-what-file-size-can-i-upload.md)
+
+## Recent Updates 🎉
+
+Find the latest Catenda updates
+
+- [Models as Documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8064548-models-as-documents.md)
+
+## Other
+
+- [Create, assign and manage topics](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12231056-mmrex0mx.md)
+- [Report templates page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12380837-report-templates-page.md)

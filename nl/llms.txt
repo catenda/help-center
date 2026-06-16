@@ -1,0 +1,46 @@
+# Catenda Help Center
+
+> Product documentation for Catenda — BIM collaboration for the built environment.
+
+## Aan de slag
+
+Als u voor Catenda uitgenodigd word, of voor het eerst aanmeld bent, is deze bundel goed om te lezen
+
+- [Stap 1 - Account instellen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9030303-stap-1-account-instellen.md): Maak je account en word uitgenodigd voor een project
+
+## Accountbeheer
+
+Configureer de instellingen van uw project of account
+
+- [Een team maken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670264-een-team-maken.md)
+- [Multi Factor Authenticatie](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4969891-multi-factor-authenticatie.md)
+
+## Product Functies
+
+De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een specifieke functie.
+
+- [Bureaubladverbinding (Desktop Connector)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8358861-bureaubladverbinding-desktop-connector.md)
+- [Catenda Hub Navisworks plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5085987-catenda-hub-navisworks-plugin.md)
+- [Catenda Hub Plugin voor Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5519276-catenda-hub-plugin-voor-archicad.md)
+- [Catenda Plugins en Integraties](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8396532-catenda-plugins-en-integraties.md): Koppel Catenda met uw favorite tools
+- [Catenda Revit plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670334-catenda-revit-plugin.md)
+- [Handleiding Revit IFC exporteren](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670341-handleiding-revit-ifc-exporteren.md)
+- [Het publiceren van revisies - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9874698-het-publiceren-van-revisies-iso-19650.md)
+- [IFC Archicad exporteren handleiding](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670338-ifc-archicad-exporteren-handleiding.md)
+- [Opmaak van berichten](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8430847-opmaak-van-berichten.md)
+- [Pagina Modellen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670286-pagina-modellen.md)
+- [QR-Code op PDFs in Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9360508-qr-code-op-pdfs-in-catenda.md)
+- [Upload een zip / bestandsstructuur](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7945410-upload-een-zip-bestandsstructuur.md)
+
+## Veelgestelde vragen
+
+Hier vind u antwoorden voor vragen die veel gebruikers hebben
+
+- [Is er een beperking voor de bestandsgrootte van IFC bestanden?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670324-is-er-een-beperking-voor-de-bestandsgrootte-van-ifc-bestanden.md)
+- [Welke bestandstypen ondersteunt Catenda?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670320-welke-bestandstypen-ondersteunt-catenda.md)
+
+## Recente updates 🎉
+
+Vind de laatste Catenda updates
+
+- [Modellen als documenten](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8064548-modellen-als-documenten.md)

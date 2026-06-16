@@ -1,0 +1,2705 @@
+# Catenda Help Center
+
+> Product documentation for Catenda — BIM collaboration for the built environment.
+
+# Stap 1 - Account instellen
+
+> Maak je account en word uitgenodigd voor een project
+
+Catenda stuurt je een uitnodiging per e-mail met een link naar de volgende stappen van registratie. Via deze link kunt u een account aanmaken met uw persoonlijke gegevens.
+
+![](https://downloads.intercomcdn.com/i/o/981880493/1e42cd4f7fc6d79022df3e51/image.png?expires=1781092800&signature=46043e24706033d74f5935193bc2fc8f46f34d8d30544e6ba87a1a91ec107c55&req=fSgmHsF%2BmYhcFb4V1XW4gQT3FVIF1Y9uXhF5l%2FBFxxgJA7C6d6QOtBGZK7OC%0ANApHoVUK5GtCpAXOnuYm2psKGw%3D%3D%0A)
+
+Nadat uw registratie is voltooid, kunt u uw projecten op Catenda Hub benaderen vanuit elke webbrowser.
+
+[https://hub.catenda.com/signin](https://hub.catenda.com/signin)
+
+> **Note:** Vind stap 2 in Aan de slag op het helpcentrum of in het helpmenu.
+
+# Een team maken
+
+Een nieuw team kan worden aangemaakt op de [ledenpagina](https://support.catenda.com/en/articles/4670291-members-page). In een bouwproject kunnen teams waardevol zijn omdat er vaak mensen binnenkomen, van rol wisselen of verschillende werkgroepen verlaten. Het opzetten van teams kan miscommunicatie voorkomen na een rolwisseling in het project
+
+![](https://downloads.intercomcdn.com/i/o/720413983/d513ccf51166b04c39bb7717/image.png?expires=1781092800&signature=1c667d7956932e83d9ac22f1a619108c93b1beeea53cc959bcdfead059743787&req=cyInEsh9lIlcFb4V1XW4gUVb0JCyDpJ%2B8OaEAffFc14QhwbefiLhLbxfDIYw%0ABpXkcMRdNvt7BjWgXgI97drBvg%3D%3D%0A)
+
+## Wanneer een team opzetten?
+
+Catenda teams kunnen op elke gewenste manier worden ingedeeld.
+
+Een gebruikelijke manier om de leden in teams te verdelen is per vak.
+
+Ook binnen een vak kunnen verschillende werkgroepen worden gemaakt.
+
+Onderwerpen kunnen worden aangevraagd en toegewezen aan teams waardoor het makkelijk is om bij te houden wat de verantwoordelijkheden en aanvragen van een team zijn.
+
+Binnen een onderwerp kan een team ook genoemd worden om het hele team ergens van op de hoogte te stellen.
+
+Toegangsbeheer kan gedelegeerd worden aan teams.
+
+Dit kan gebruikt worden om toegang in te stellen voordat gebruikers deel uitmaken van een team. Als de toegang dan klaar is om gebruikt te worden, kunnen de juiste gebruikers aan het team toegevoegd worden.
+
+Een goed gebruik hiervan is het instellen van een team wanneer een lid wordt uitgenodigd, zodat ze de juiste toegang krijgen zodra ze deel uitmaken van het project.
+
+## Team aanmaken
+
+Om een nieuw team aan te maken ga je naar de ledenpagina en in de rechterbovenhoek is er een knop "Nieuw team". Daar kies je de naam van het team en of het team de rol van lid of beheerder moet krijgen.
+
+> **Note:** **Opmerking:** Als het team de rol van beheerder krijgt, zal elk lid van dat team beheerderstoegang hebben.
+
+Als het team is aangemaakt, wordt de [teampagina](https://support.catenda.com/en/articles/7891755-team-page) geopend en kun je leden aan het team toevoegen.
+
+# Multi Factor Authenticatie
+
+U zal de **Multi Factor Authenticatie** (MFA) instellingen op de [authenticatie pagina](https://support.catenda.com/en/articles/6880968-account-page#h_e04d63351f) die een onderpagina van de [account pagina](https://support.catenda.com/en/articles/6880968-account-page) is kunnen vinden.
+
+Als **Multi Factor Authenticatie** (MFA) geactiveerd is wordt er grevraagt om een code die u via uw mobile eenheid ontvangen heeft in te voeren, samen met uw gebruikersnaam en wachtwoord, bij het inloggen in Catenda Hub. Wanneer een organizatie MFA vereist zal dit op het organizatieniveau toegepast zijn. Alle projecten die tot die organizatie behoren eisen dan om MFA te activeren en deze code in te voeren om hun projecten binnen te komen. Dit maakt het zo dat alle gebruikers die toegang willen hebben tot the projecten van een organizatie MFA moeten activeren.
+
+Deze pagina houd informatie over de volgende themas in:
+
+[Activeren](#h_bda390ecdc) - [Veranderen](#h_155dbc3883) - [Overhevelen](#h_b78fb8abbd) - [Deactiveren](#h_27afed91d6) - [Vereisen](#h_ee25eb713b)
+
+## **MFA activeren**
+
+Log in bij Catenda Hub en ga naar det **[Account](https://hub.catenda.com/account/profile)** pagina:
+
+![](https://downloads.intercomcdn.com/i/o/710942054/f2239e2186f2107afadd66a3/image.png?expires=1781092800&signature=f38bc42351fd302ec7396fa6cf12192e80e28a0d7f3432cf1ef011332c36b874&req=cyEnH818nYRbFb4V1XW4gc7BaZEBKtWdCLphfgCiOK%2Bew%2FThhA88vrm%2FPJq5%0APAs7mDo6nKHLBwYjCUY3Kyp9%2Bg%3D%3D%0A)
+
+1. Klik op de **[Authenticatie](https://hub.catenda.com/account/authentication)** tab:
+1. Scroll naar beneden naar het MFA gedeelte:
+1. Klik op **Schakel MFA in**
+
+![](https://downloads.intercomcdn.com/i/o/710944230/ebe37c5fb2379afe1d58d515/image.png?expires=1781092800&signature=bb1b215bf932a3da6fd9efd65031aa089830c4fa92090872b305802d5370aa61&req=cyEnH816n4JfFb4V1XW4gTVsh%2FWNq4RWV4OD%2BiH2LjOrUp6WWcpjxhq9folB%0A%2BuwHJKhvj1SGgt1qEKhqKE8VEQ%3D%3D%0A)
+
+### **Authentication app**
+
+U zal een authenticatie app due u op uw mobiele eenheid vertrouwt nodig hebben.
+
+Wij raden de [Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en) en de [Microsoft Authenticator](https://www.microsoft.com/en-us/account/authenticator) aan, maar u kunt theoretisch alle applicaties die het koppelen van MFA / Two factor authentication steunen gebruiken.
+
+**App toegang**
+
+Om u de QR code te kunnen laten scannen met uw camera zal u de authenticatie app toegang tot uw camera moeten geven. Wanneer u de applicatie installert kan u gevraaagd worden om de app toegang tot de camera te geven, alleen gedurende het gebruik van de app of dat er elke keer gevraagd moet worden of dat je geen toegang verleent.
+
+Als u selecteert dat er elke keer gevraagt moet worden zal u elke keer om toegang gevraagt worden wanneer de app de camera wilt gebruiken. Hier zal u nogmaals de keuzen hebben om deze toegang te weigeren waarna deze vanaf dan geheel voor de app uit zal staan en er niet meer om gevraagt wordt. De app heeft dan geen toegang tot de camera.
+
+**Google Authenticator**
+
+Klik op de plus rechtsonder en scan een QR code.
+
+Hier zal u de QR code scannen die de Catenda [authenticatie](https://hub.catenda.com/account/authentication) pagina u geeft.
+
+Als alternatief kunt u uw camera gebruiken om de code te scannen waarna de setup key die in the URL staat ingevoerd kan worden.
+
+**Microsoft Authenticator**
+
+Pas op dat u in het authenticatie menu onderaan bent.
+
+![](https://downloads.intercomcdn.com/i/o/825376957/d0ca2f4ff3122f26c2dd335e/image.png?expires=1781092800&signature=be1fcb59fb1bfa4b45e2cd97b6ea4639f51a97ac61ba103a8b19816235d2ee72&req=fCIiFc54lIRYFb4V1XW4gStU4QZFJuspH3Amx6IfbI1PH8Ta9AUUSD4f5PCO%0AAP4KnLWAE5JAwe0UK5S1t71eeA%3D%3D%0A)
+
+> **Note:** **Merk:** Pas op dat u nit in het Verified IDs menu bent omdat u hier ook een qr code kunt scannen maar deze zal niet werken.
+
+Klik verder op de plus in de blauwe balk rechtsboven.
+
+Selecteer Other account (Google, Facebook, etc.)
+
+Als uw app geen toegang heeft tot uw camera kan u wel of niet gevraagt worden om toegang te geven tot uw camera.
+
+Als u w app toegang tot uw camera heeft kan u de QR code die zich op de [authenticatie](https://hub.catenda.com/account/authentication) pagina bevind.
+
+Als uw app geen toegang tot uw camera heeft zal u gevraagd worden om met de hand een account aan te maken.
+
+![](https://downloads.intercomcdn.com/i/o/1073587443/5a6dda006a38943a4c11fc28/image.png?expires=1781092800&signature=6859b1a2a4081eacf5fe3e3b2cbc8cbc20fe23ba599c13b94523c6aef1a0d697&req=dSAgFcx2moVbWvMW3nq%2BgQ2uGk1EdfhU4hASnzRRD%2FCNPzlrB1T21b5PfCNs%0AoaOKhDzf4%2BW06huquS6IL07Iqqg%3D%0A)
+
+Account name: De naam die u aan de account geeft. Secret key: Dit is de sleutel die u gekregen zou moeten hebben als u de QR code met de app had gescant. U kunt de QR code ook met de camera app scannen. De URL die dan opent kan er zo uit zien: `otpauth://totp/\<Catenda account email address>?secret=\<Secret key>&issuer=Catenda&algorithm=SHA1&digits=6&period=30`
+
+Als u de code na "`secret=`" die u in de URL die geopent is ziet kan deze in het secret key gedeelte ingevoert worden. Het maakt niet uit wat je in het account name veld invoert.
+
+> **Note:** **Merk:** Als u en accout met de verkeerde secret key aanmaakt zal de app een one-time code toch aanmaken. Het kan dan zo zijn dat Catenda deze code niet accepteerd.
+
+### **Success or fail**
+
+**Success**
+
+Na het succesvol koppelen van MFA zal u dit bericht zien.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1278984783/550dc84e6c139543a0c228cb373c/image.png?expires=1781092800&signature=7fed7cda4d3a088aec375a3b8ffa14e4d47c301b38889c6a47720dcc8c89ec2a&req=dSIgHsB2mYZXWvMW3nq%2BgRzwWwxdVEP3raE2TkKALU9uKnULF7lc6rffERNQ%0AzJyivj5FME%2BS3astKTkqIY9u8Mc%3D%0A)
+
+Na het kopelen zal u elke keer bij het inloggen in Catenda uw mobiele eenheid bij de hand moeten hebben.
+
+De MFA kan gedeactiveerd worden door op deactiveer MFA te klikken.
+
+**Incorrect code**
+
+Foute code
+
+If you did not insert the right code, you will get the message incorrrect code.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1278986910/fcf1dbb07ae982b15c655966b724/image.png?expires=1781092800&signature=b82460509b0074191d2a688692119b66fe0f3d7d25f887e359c7c701efc1a706&req=dSIgHsB2m4heWfMW3nq%2BgR6FUMmT2YJm5kXqqdp81bdgJjZuhxAXRoYDkUpp%0A%2By1CkiG5Pi56MWTUTQ7quR7FYqM%3D%0A)
+
+> **Note:** **Merk:** Als u de QR-Code heeft gescant kut u deze opniew proberen in te voeren binnen de gegeven tijd voor de code terwijl dit menu open is. Alsu u dit menu afsluit zal u de code die in uw authenticator app gegenereerd wordt moeten verwijderen en de QR-Code op nieuw scannen om een nieuwe code kopppeling aan te maken.
+
+## **MFA veranderen**
+
+Na het koppelen van een MFA code kan u met zekerheid de account naam van de code veranderen. Dit kan op de volgende manieren gedaan worden:
+
+**Google authenticator**
+
+1. Hou de code ingedrukt
+1. Klik op het potlood rechtsboven om de naam te veranderen.
+
+**Microsoft authenticator**
+
+1. Klik op de code.
+1. Klik op het tandwiel rechtsbovenaan
+1. Klik op het podlood om de naam te veranderen
+
+## **MFA overhevelen**
+
+**De-activeren en re-activeren**
+
+Het is alleen mogelijk om een MFA app code tegelijkertijd te koppelen.
+
+Als u wenst om naar een verschillende code koppeling te veranderen, misschien omdat de geldende code is gecompromitteerd, kunt u de volgende stappen volgen:
+
+U zal ook deze methode gebruiken als u van app wenst te veranderen voor gebruik van MFA.
+
+Deactiveer MFA op de [authentication page](https://hub.catenda.com/account/authentication).
+
+1. Bereid de app die u wenst te gebruiken om de MFA te her-koppelen voor.
+1. Genereer een nieuwe code-paring door de QR code te scannen zoals in het [activeren gedeelte](#h_bda390ecdc).
+
+> **Note:** **Merk:** Pas op met deze methode omdat uw account tijdelijk kwetsbaar is terwijl deze gedeactiveerd is. Gedurende deze tijd zal u ook geen toegang hebben tot projecten waar MFA vereist is.
+
+**Overhevelen door backup**
+
+Als u wenst om een nieuwe eenheid te gebruiken zonder dat uw code tijdelijk gedeactiveerd is kunt u de code naar een andere installatie van dezelfde MFA app overhevelen van de oude installatie naar de nieuwe installatie.
+
+**Google authenticator**
+
+Oude eenheid:
+
+1. Tap op het hamburger menu rechtsboven
+1. Tap op Export accounts
+1. Selecteer de accounts die u wenst te expoteren
+
+Nieuwe eenheid:
+
+1. Tap op het hamburger menu rechtsboven.
+1. Tap op import accounts
+1. Tap op scan QR code
+1. Scan de QR code die getoond is op de oude eenheid waar u door het export process bent gegaan.
+
+**Microsoft authenticator**
+
+Oude eenheid:
+
+1. Tap op het hamburgermenu rechtsboven
+1. Activeer de backup
+
+Nieuwe eenheid:
+
+1. Installeer en open de Microsoft Authenticator app op uw nieuwe eenheid
+1. Tap "Begin Recovery."
+
+> **Note:** **Mer 1:** Stel geen andere accounts met de Microsoft Authenticator in tot na u de Recovery tool gebruikt hebt omdat accounts met dezelfde naam overschreven kunnen worden.
+
+> **Note:** **Merk 2:** Deze methode eist dat u een backup van uw MFA codes maakt wat betekend dat deze in de leverancier van uw apps cloud service opgeslagen zijn. Gebruik daarom alleen deze methode als u deze cloud service vertrouwt. Als niet dan kunt u de code beter deactiveren en heractiveren.
+
+## **MFA deactiveren**
+
+U kunt MFA deactiveren door op de deactiveer knop te kliken als hierboven aangeduid waarna u uw wachtwoord in moet typen om te bevestigen. Na het deactiveren zal geen toegang meer hebben tot projecten waar MFA vereist is.
+
+Na het deactiveren van de code op Catenda Hub zal de code op uw applicatie waarmee u gekoppeld had blijven. Deze code zal nu geen nut meer hebben en kan met zekerheid verwijdered worden.
+
+### **Hoe de oude code verwijdert kan worden:**
+
+**Google authenticator**
+
+1. Houd de code ingedrukt
+1. Klik op de afvalbak rechtsboven.
+
+**Microsoft authenticator**
+
+1. Klik op de code.
+1. Klik op de tandwiel knop rechtsboven
+1. Klik op verwijder account
+
+## **MFA op niet-mobile eenheden**
+
+Authenticatie apps zijn zekerder dan SMS/Email code oplossingen omdat er geen communicatie die onderschept kan worden plaats vindt tussen de twee systemen na de originele configuratie.
+
+Terwijl het beter is om een app op een mobiele eenheid te gebruiken, zie notaat hier onder, is het mogelijk om MFA codes op andere systemen dan alleen mobiele eenheden te installeren. De aanbevolden desktop applicatie hiervoor is [Authy](https://authy.com/).
+
+Kwa functionaliteid gebruiken deze soort applicaties dezelfde TOTP protocol als de app op uw mobiele eeneid en zoude net zo zeker moeten zijn.
+
+> **Note:** **Merk:** Desktop applicaties kunnen minder zeker zijn en makkelijker om toegang tot te krijgen. Dit kan zijn omdat desktop systemen vaak, als niet altijd, tot het locale netwekr verbonden zijn wat geinficeerd kan zijn. Mobiele eenheden die niet alteid verbonden zijn tot het netwerk kunnen daarom moeilijker zijn om binnen in te komen.
+
+## **Wie kan MFA in projecten afdwingen?**
+
+Enterprise klanten kunnen aanvragen om een [organization optie](https://support.catenda.com/en/articles/8224886-organization-options#h_d6710faf75) te activeren die het zo maakt dat alle gebruikers die deel zijn van hun projecten MFA gekoppelt moeten hebben om het project binnen te komen.
+
+Kontakt graag Catenda support om MFA te activeren voor uw organizaties porjecten. Wanneer MFA vereist is voor uw organizatie's projeten zal u dit bericht zien wanner er geprobeert wordt om een project te openen zonder dat MFA gekoppeld is.
+
+![](https://downloads.intercomcdn.com/i/o/710237963/cc33c301cac2faaeaf8abb7e/image.png?expires=1781092800&signature=0a241c1b7d754dac6ac7f3fbfb908a97d6aad26a98db0773434988edd6c61515&req=cyEnFMp5lIdcFb4V1XW4geDBTPE7FEI38r7z7CIHG0OMPqmboH9ClY59uD%2F2%0APKhzmnNJ76NXpaOhL%2BVeRBzIhw%3D%3D%0A)
+
+# Bureaubladverbinding (Desktop Connector)
+
+> **Note:** **Let op:** Het installatie bestand voor deze applicatie kan [hier](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) gevonden worden.
+
+Met de bureaubladverbinding, Catenda Desktop Connector, kunt u up- en downlaods van de laatste versies van documenten plannen.
+
+Deze artikel bevat informatie over de volgende themas:
+
+**[Onmiddelijk](#h_4e5fc5b72f) - [Synchronisatie](#h_e8bd50df84) - [Inloggen](#h_d199572765) - [Start](#h_4bb6982a58) - [Projecten](#h_579d82006f) - [Upload](#h_74c6622c07) - [Download](#h_738adfc2e6) - [Taken](#h_82beab0d9c) - [Logs](#h_31ff4694a2)**
+
+## **Onmiddelijke up/downloads**
+
+De bureaubladverbinding laat u uw bestanden van uw locale systeem tot een bepaalde map op Catenda uploaden. U kunt ook een reeks mappen op Catenda kiezen om tot een bepaalde plek op uw locale system te downloaden.
+
+### **Uploadsnelheid**
+
+Bestanden met de bureaobladverbinding uplaoden is sneller met bestandsovervoering dan het standaard uploadproces want bestanden zijn geïmporteerd via de API in plaats van via de browser. Het is daarom de beste manier om uw bestanden te uploaden als u grote hoeveelheden data in een keer wilt uploaden.
+
+### **Voltooide uploads**
+
+Als u meerdere bestanden of de zip-upload functie op CAtenda Hub gebruikt wordt een grote reeks met data geüpload.
+
+Hoe groter de upload is, hoe langer u moest wachten voordat u uw bestanden in kunt dienen tot de Catenda Hub documentenstructuur.
+
+**Één voor één bestand**
+
+Door bestanden één voor één tot een mappenstructuur te uplaoden met de bureaobladverbinding kunt u de upload pauseren en er later mee verder gaan.
+
+**Risico fan fouten minimeren**
+
+Hoe groter de upload hoe groter de kans dat er een fout voorkomt. Misschien gaat de electricitijd in het gebouw uit, misschien valt uw netwerkskoppeling een seconde uit. Dan zou u de gehele reeks met data opnieuwe moeten uploaden.
+
+## **Synchronisatie**
+
+U kunt op regelmatige intervallen plannen wanneer u wenst dat uw bestanden geüpload of gedownlaod worden.
+
+### **Locaal systeem -> Catenda Hub**
+
+De bureaobladverbinding verzekert dat het bestand in uw Catenda Hub prosjekt even recentelijk is als het bestand op uw locale systeem.
+
+### **Catenda Hub -> Locaal system**
+
+De bureaobladverbinding verzekert dat het bestand op uw locale systeem even recentelijk is als het bestand in uw Catenda Project.
+
+## **Inloggen**
+
+Wanneer u de bureaobladverbinding voor het eerst opent wordt u gevraagd in te loggen. Wanneer u op de inlog knop klikt zal de standaardbrowsser openen met een pagina die vraagt om met uw Catenda Hub account in te loggen.
+
+Na het inloggen of als u al ingelogd was wordt u gevraagt om toegang te verlenen tot uw Catenda Account.
+
+Na op geef toegang geklikt te hebben wordt u gevraagd om de bureaobladverbinding te openen.
+
+U zal dan terug verwezen worden tot de bureaobladverbinding.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454481859/8cc3c029ca50e4ef5ea47908d8cc/image.png?expires=1781092800&signature=661a0d48aa3f75378c788b514d22cc8687d1643d8131e2c62c115ea61f886eaf&req=dSQiEs12nIlaUPMW3nq%2Bgaouh7pso833%2FKOcZGxxZq%2BTXE5YX%2FmZAMleeAuW%0A3FcXJmXttegH%2B1FySM8zUCVe7kU%3D%0A)
+
+## **Startpagina**
+
+Zodra u de bureaobladverbinding start zal deze er zo uitzien:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454481860/f9ad67b51ff49765c66cd47cdb16/image.png?expires=1781092800&signature=b0afa85bc8bff32e234bdf6692335198e3f2a034f978cabe6498d968a05adfe5&req=dSQiEs12nIlZWfMW3nq%2BgTAZSEDIR84rp8cEDiiidZtDfRbHGI7lCfI4L6x0%0A8ZdeKL8EcZlVt9%2BD9Ue0rZb5wx8%3D%0A)
+
+### **Maak PC wakker**
+
+Maak de PC wakker vanuit slaap modus als een takk gepland is om op die tijd te uitgevoerd te worden.
+
+### **Uitvoeren bij opstart**
+
+Om de bureaobladverbinding bij startup te starten, kies deze keuze.
+
+### **Uitloggen**
+
+Klik op de uitlogknop rechtsonderaan om uit te loggen.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454481855/a75920784b971d8e3baf27258431/image.png?expires=1781092800&signature=6f65eb5b1010b37afe8100b2da9ef77ed394e5ea5608b36048ce31cce65e9f90&req=dSQiEs12nIlaXPMW3nq%2Bgeqz9I5mtUUMAOQDLBPApXb2Bwt7P2PoIhVxqjvb%0AuzLHiE3LwdNTzSGkE2tHw9N6TFU%3D%0A)
+
+## **Projectenlijst**
+
+Hier ziet u een overzicht over uw projecten en het nummer up- en download taken die u voor elk project hebt ingesteld.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454481858/6276b55358a47d5d2b93e202c7d3/image.png?expires=1781092800&signature=6f1e73cb93e4d99ca8894b758562bcde008c993eb081e0f6ea6e51a501ffbf9f&req=dSQiEs12nIlaUfMW3nq%2BgRWwDZ5n%2Bpb8cqHbM2qyTpm0EdWxZHgr3%2BVp2VJj%0AyuU2%2B3zPxtxeZUkz3CpwU9QCS%2B0%3D%0A)
+
+### **Synchroniseringsknop**
+
+Als u recentelijk deel van een nieuw project bent geworden kunt u de synchronisatie knop klikken om de nieuwe lijst met project waar u deel van bent aan te vragen.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454481865/14118dbbcd772d0c912040973114/image.png?expires=1781092800&signature=f2c9eb1bf540a83160ed27859f468c7303a9293a7849c27f7bea3f2363be6409&req=dSQiEs12nIlZXPMW3nq%2BgW54atMZAAHlnWolarNNqlA8hZOcZ0%2B%2BJQK3CzyW%0AGLRq9RJGv70J0l%2Bby7LoM07sBfg%3D%0A)
+
+### **Naam**
+
+Klik op de naam van een project om uw huidige up- en download taken te zien of om een nieuwe taak te plannen.
+
+### **Upload taken**
+
+Het aantal upload taken die actief zijn voor dit project.
+
+### **Download taken**
+
+Het aantal download taken die actief zijn voor dit project.
+
+## **Upload taak**
+
+Met deze taak kunt u periodisch een upload van uw bestanden van uw systeem tot Catenda Hub plannen.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454481863/b26b3fc70712232848413957cd5e/image.png?expires=1781092800&signature=9a68b9f19b76c4456a0f679f6731dd384f61a65f84d7d60acafe50f04a3f6878&req=dSQiEs12nIlZWvMW3nq%2BgbEU7SvUDrydfz56UjoMd7wyphCRNP6QLpUvbEfc%0AKorKtgo9XKiB%2FshJsXJW5shcKkY%3D%0A)
+
+### **Titel** - Vereist
+
+De upload taak moet minstens een titel hebben om opgeslagen te kunnen worden.
+
+### **Planningskalender** - Vereist
+
+De upload taak moet minstens een dag gekozen hebben om opgeslagen te kunnen worden.
+
+### **Project locatie**
+
+**Server**
+
+Kies de plek op Catenda Hub tot welke u bestanden wilt synchroniseren.
+
+**Local**
+
+Kies de plek op uw systeem tot wlke u bestanden wilt synchroniseren.
+
+### **Onmiddelijk**
+
+Klik op het upload nu vlak om uw taak onmiddelijk te starten.
+
+U moet de taak niet per se op te slaan om te beginnen met uploaden.
+
+Als u de taak opslaat zal deze periodisch uitgevoert worden op het ingestelde tijdstip.
+
+## **Download taak**
+
+Met deze taak kunt u periodisch een downlaod van uw bestanden van Catenda Hub tot uw systeem plannen.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454481866/7fc66ec8047505f8eab760e8725d/image.png?expires=1781092800&signature=521ac468a8b6ad326280316cc9a8c1493c72aad725765d354c247eaacf144b8e&req=dSQiEs12nIlZX%2FMW3nq%2BgdcsuQuzW6mi3U7Psz%2BOOmXGp1gF%2FHiYkpFzvymR%0AIVFtzRiKcYHp8GInlX0jgAlWZCw%3D%0A)
+
+### **Titel** - Vereist
+
+De upload taak moet minstens een titel hebben om opgeslagen te kunnen worden.
+
+### **Planningskalender** - Vereist
+
+De upload taak moet minstens een dag gekozen hebben om opgeslagen te kunnen worden.
+
+### **Project locatie**
+
+**Server**
+
+Kies de plek op Catenda Hub tot welke u bestanden wilt synchroniseren.
+
+**Local**
+
+Kies de plek op uw systeem tot wlke u bestanden wilt synchroniseren.
+
+### **Onmiddelijk**
+
+Klik op het upload nu vlak om uw taak onmiddelijk te starten.
+
+U moet de taak niet per se op te slaan om te beginnen met uploaden.
+
+Als u de taak opslaat zal deze periodisch uitgevoert worden op het ingestelde tijdstip.
+
+De gedownloade documenten zullen op uw system ongezipt opgeslagen worden.
+
+### **Terugknop**
+
+Klik op de terug knop om terug naar de [startpagina](#h_4bb6982a58) te gaan.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454481867/4aa0f865f070c640dff5c4d3dba0/image.png?expires=1781092800&signature=0e61221faeaa529785cf6fff4ebe37130942609ea5c83030ba488b662c328bcc&req=dSQiEs12nIlZXvMW3nq%2BgXkKQdoHmM1oZ2r0XSh4l8eeHix4dU%2BK3x8jSzrT%0A1M4NyA%2FaRlxt99%2BL36wn1TzUvc4%3D%0A)
+
+## **Takenlijst**
+
+Hier kunt u uw huidige up- en download taken zien.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454481864/a557a19cc1732f77bc12b73da641/image.png?expires=1781092800&signature=ed3761af69b684034753308670d516abc883a7afdb9d8f3e04cec3f1aafae3da&req=dSQiEs12nIlZXfMW3nq%2BgSdkVs%2FJ1Y3KvGrT8mRsuiiVV7%2FDAjoSa0vNfjOe%0AxsxhjkHFI3gg%2BRxXI4OhmmwcRMM%3D%0A)
+
+### **Naam**
+
+De naam van de taak.
+
+### **Taak**
+
+De geplande tijd dat een taak uitgevoerd zal worden.
+
+### **Project**
+
+De naam van het project waar deze taak uitgevoerd zal worden.
+
+### **Status**
+
+De status van deze taak.
+
+### **Terugknop**
+
+Klik op de terug knop om terug naar de [startpagina](#h_4bb6982a58) te gaan.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454481861/7cf2145789bd58d0a4e4d529fe11/image.png?expires=1781092800&signature=f29ab390eec0118854cf19f41376cc49e52d6fbf38b285814eff9dc82c5556ac&req=dSQiEs12nIlZWPMW3nq%2BgW1TVzymK3Zn%2BQJSuBxKEWgr2OXPafU5N2snZMYZ%0AFmWxM%2FOU1V7sCA8yqeek4gcKZLo%3D%0A)
+
+## **Log Map**
+
+Deze knop opent de map waar de bureaobladverbinding op uw systeem logs opslaat.
+
+# Catenda Hub Navisworks plugin
+
+> **Note:** **Merk:** Het installatie bestand voor de plugin is in [deze hulpartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+
+De Catenda Hub add-in voor Autodesk® NavisWorks®  is het perfecte hulpmiddel voor projecten die in Catenda Hub samenwerken. Al u issues zijn gesynchroniseerd in real-time tussen NavisWorks en Catenda Hub, waardoor u issues kan maken, toegang tot krijgen, delen en communiceren. Het issue formaat is BCF zo dat de issues gedeeld kunnen worden over elke BCF geactiveerde BIM software of platform.
+
+Deze add-in laat je naadloos issues visualiseren, maken, en bewerken van binnenin NavisWorks. U kan ook IFC modellen die in Catenda Hub opgeslagen zijn downloaden en verbinden met u lokale client.
+
+**Functies bevatten:**
+
+- Toegang tot al u Catenda Hub projecten
+- Filter en beheer issues op issue boards
+- Maak nieuwe issues direct vanuit NavisWorks
+- Vind issues in u NavisWorks model
+- Maak een nieuwe 3D-weergave voor elk commentaar
+- Maak BCF issues van clashes die gevonden zijn met de Clash detective
+- Wijs issues toe aan leden van een project
+- Verander de status van een issue en andere eigenschappen
+
+## Cloud-gebaseerde Samenwerking
+
+Catenda Hub brengt u constructie data tot leven in een cloud-gebaseerd samenwerk platform die over de hele levenscyclus van een gebouw spant. Catenda Hub beheert u project informatie vanaf het begin van een bouwproject tot de overdracht en verder, wat verzekert dat data kennis is behouden over alle project fasen.
+
+## Open Standaarden
+
+Catenda Hub is een BIM samenwerk hulpmiddel dat alle buildingSMART standaarden ondersteunt (IFC, bSDD, BCF, COBie). Het komt met een reeks van API's voor eenvoudige implementatie in u eigen software.
+
+[YouTube-video](https://www.youtube.com/embed/osHul8oKysE?rel=0)
+
+# Catenda Hub Plugin voor Archicad
+
+> **Note:** **Merk:** Het installatie bestand voor de plugin is in [deze hulpartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+
+Meer informatie over de Catenda Archicad plugin kan [hier](https://intercom.help/bimsync-arena/en/articles/5519276-catenda-archicad-plugin) gevonden worden.
+
+# Catenda Plugins en Integraties
+
+> Koppel Catenda met uw favorite tools
+
+> **Note:** **Merk:** Catenda-plug-ins en -integraties zijn **[hier](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)** beschikbaar.
+
+# Catenda Revit plugin
+
+### **Werk samen met BCF issues rechtstreeks vanuit Revit**
+
+---
+
+### Inhoud
+
+[Download link](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)
+
+## Aan de slag
+
+Na het installeren van de plugin, open een Revit model en klik op de Catenda knop in de Add-Ins.
+
+Log in met uw email adres en Catenda wachtwoord.
+
+![login.png](https://catenda-as.intercom-attachments-1.com/i/o/271057372/a5781e85ed63f78ab47da7a1/login.png?expires=1781092800&signature=297f465010efda5dad09950ecaf7f553ce6e5da5e27ca522d452d9d8d0b3892f&req=dicmFsx5noZdFb4V1XW4gf5EiA%2F8YtXOG8Yvdddsx0WvL6DM74M0%2FTFCNlKv%0AKFEvnmK2hUA0TQIjxpqLqmMJ5Q%3D%3D%0A)
+
+Klik op "Allow access" om de Revit add-in toegang tot uw Catend account te geven. Dit zal het hoofdmenu van de Catenda add-in openen.
+
+![allowAccess.png](https://catenda-as.intercom-attachments-1.com/i/o/271057381/5ae64f89ca371f7ef59c22e1/allowAccess.png?expires=1781092800&signature=0ff7c8ce7485ae1138263fb8b30d477b65173e4e8c8f758734cf7cde9f7fe4c7&req=dicmFsx5noleFb4V1XW4gTeOTqM%2F9aNlKYM7gPNaYUZHxS6%2BFfy2A8fOXh9o%0AysO1wp6YNTHettEe9QjmRrbIEw%3D%3D%0A)
+
+U kunt de toegang tot uw Catenda account op elk moment verwijderen door naar uw Catenda Applicatie menu te gaan en op "Trek toegang terug" bij "Revit plugin for Catenda Hub" te klikken.
+
+## Issue Lijst
+
+Op dit menu zult u het hoofdmenu vinden. Hiermee kunt u uw Catenda project, Issueboards en issues navigeren.
+
+### Interface
+
+![Header.png](https://catenda-as.intercom-attachments-1.com/i/o/271057390/4c89286cb715f52e3d783b6c/Header.png?expires=1781092800&signature=398d9921638cb23a9d50c7799d1535c1416647367ab528baff78db4609a2db32&req=dicmFsx5nohfFb4V1XW4gdJZzGffSByllQENCKlZyob%2BST4NNuZ5cUksJz12%0AkCAA%2F3Kfd2Td0zxjhk75Iy1JGg%3D%3D%0A)
+
+1. Selecteer uw Catenda project
+1. Selecteer een issueboard in dit project
+1. Maak een nieuw issue in het momenteel geselecteerde issueboard
+1. Sorteer momenteel weergave issues
+1. Open het Catend add-in menu
+1. Zoek en filter de weergave issues
+1. De lijst van momenteel gefilterde issues in het issueboard
+
+### Project en issue board selectie
+
+Als een Catenda project geselecteerd is zal de lijst van isssueboards in dit project worden weergaven, wat het mogelijk maakt om er een te selecteren en de overeenkomstige issues te weergeven. Het zal ook het Catenda project en issueboard in uw Revit model opslaan en deze automatisch openen bij de volgende keer dat u dit model opent.
+
+![ProjectInfo.png](https://catenda-as.intercom-attachments-1.com/i/o/271057405/d5c967a0ac3f187ed30e592e/ProjectInfo.png?expires=1781092800&signature=386793ccce6b13fc42734e390919e84f4deae21c7108c6295a15d81514bf3e62&req=dicmFsx5mYFaFb4V1XW4gRm1PmqxAGtl3%2B%2FHwntEbjzXIM38AKKVyKa%2F6w2%2B%0AYYuDnmzT7GAy081dJNb9XwINjA%3D%3D%0A)
+
+### Catend Add-in Menu
+
+![Menu.png](https://catenda-as.intercom-attachments-1.com/i/o/271057418/ee944c802a6309a74f33db9b/Menu.png?expires=1781092800&signature=c89e8311ef022c706f61f0e57803e273c0ac358066e60f8784ba96c7f2a0e9e4&req=dicmFsx5mYBXFb4V1XW4gQzKBuzsr2CyN%2Fnh2PIwIqVLxc0xU6FqznGgZL7M%0AuAbb1OQ1WNOyULgSw5XMNMLTRA%3D%3D%0A)
+
+1. Ga naar het Upload menu
+1. Open het Settings menu
+1. Open uw [Catenda account](https://bimsync.com/account/profile) pagina in uw standaardbrowser
+1. Log uit uw Catenda account uit
+
+### Issue selectie
+
+In de issue lijst zal u alle hoofdinformatie over een issue vinden:
+
+![IssueInformation.png](https://catenda-as.intercom-attachments-1.com/i/o/271057430/b7ff7c9fbe84070886d3a8d1/IssueInformation.png?expires=1781092800&signature=c53aae35527c7007ce3eb50a8a24711f2b691768f50bc8d79fd9ea84574f8d2d&req=dicmFsx5mYJfFb4V1XW4gdR4asNMTREAa9XFso04p8lcYoFr%2FwHL3NLRTInv%0A1jWG0ezJZBCXENEXQ%2BgiIXt12w%3D%3D%0A)
+
+1. De titel van een issue
+1. Zijn status (Open, Closed, …), Zijn type (Info, Error, …) en zijn labels
+1. Het lid dat het issue aanvraagt
+1. Het lid aan wie het issue is toegegeven
+1. De vervaldatum van het issue
+1. Wanneer het issue laats was geüpdatet. U kunt over de datum bewegen om de volledige datum en tijd van de update te weergeven.
+1. Het aantal commentaren in het issue
+1. De foto van het eerste commentaar van het issue
+1. Catenda issue nummer
+
+U kunt op elk issue klikken om naar de issue detail menu te gaan.
+
+### Sorteer issues
+
+I kunt de weergaven issues sorteren om het meest relevante issue naar voren te brengen.
+
+![sort.png](https://catenda-as.intercom-attachments-1.com/i/o/271057451/fb357bec83c8956704deae79/sort.png?expires=1781092800&signature=ea425764742d9930a95300ee8e5f6d0c9e0fa256b003f474914c0741b18fdb50&req=dicmFsx5mYReFb4V1XW4gT%2B13LsRxEUPmlQfZv3sjEb%2BML9mU9vFTnz5kkfm%0A0k9uZ1VT5wjYYYZclHUqfEmqgA%3D%3D%0A)
+
+1. Breng het meest recentelijk gemaakte issue naar voren
+1. Breng het oudste issue naar voren
+1. Breng het meest recentelijk geüpdatet issue naar voren. Het updaten van een issue kan gebruik maken van het veranderen van een van zijn eigenschappen, titel, commentaren, ...
+1. Breng het minst recentelijk geüpdatet issue naar voren
+1. Breng het meest recentelijk geüpdatet issue naar voren
+1. Breng de meest recentelijke einddatum naar voren
+1. Breng de oudste einddatum naar voren
+
+### Filter issues
+
+Bij het gebruik maken van de filter bar kunt u elk type filter combineren om de meest relevante issues te weergeven.
+
+Huidige filters zijn weergaven as kleine chips in de filter balk. Hier zijn allen issues met de "Open" status weergaven. Klik in de filter balk om alle toegankelijke filters te weergeven **(1)**.
+
+![AvailableFilters.png](https://catenda-as.intercom-attachments-1.com/i/o/271057465/dca0f372d3079b533e97f07d/AvailableFilters.png?expires=1781092800&signature=2937dd748d88ea532d09f3f9e426c1b9008821cfec83580ec2370d8002f81d94&req=dicmFsx5mYdaFb4V1XW4geFY5BRsvWPSg9usF7qX6fIC4uXR7L%2FUG6sF4YSg%0AyTcPCOqtOOdaLMiNz50OKuZ4nw%3D%3D%0A)
+
+Aan de linkerkant (2) is de naam van het filter, elk filter hoort toe aan een type dat weergaven is aan de rechterkant (3).
+
+Toegankelijke filter types omvatten:
+
+- Aangevraagd door: Krijg alle issues die aangevraagd zijn door een bepaalde gebruiker
+- Toegewezen aan: Krijg alle issues die toegewezen zijn aan een bepaalde gebruiker
+- Vervaldatum: Krijg alle issues die na lopen of issues met een einddatum die minder dan een maand, twee weken, een week of een dag is.
+- Status: Krijg alle issues met een bepaalde status (Open, Closed, …)
+- Type: Krijg alle issues met een bepaald type (Error, Warning, Info, …)
+- Label: Krijg alle issues met een bepaalde label.
+- Mijn issues: Krijg alle issues die toegewezen of aangevraagd zijn door u zelf
+
+U kunt deze filters zoeken door tekst in de zoek bar te typen (1). U kunt hier ook gebruik van maken bij het maken van een tekst filter om met een specifieke tekst in de issue titel of de beschrijving te zoeken (2).
+
+![TextFilter.png](https://catenda-as.intercom-attachments-1.com/i/o/271057480/2be177ecffac2997cc141fdc/TextFilter.png?expires=1781092800&signature=2386db399784ae98ddb528d6cd0deaa45a2398b14e54910c611fb93379e55396&req=dicmFsx5mYlfFb4V1XW4gSM6SuMG1ZK5apozzDNWfyuC3uP1OUqEeVPZ69RH%0AGj5bgz6enFyjJ7wxdITVLa0wMg%3D%3D%0A)
+
+## Issue Details
+
+In dit menu kunt u een specifiek issue beoordelen en bewerken.
+
+### Interface
+
+![IssueDetailView.png](https://catenda-as.intercom-attachments-1.com/i/o/271057491/79afbc3ef7ce0c15873df501/IssueDetailView.png?expires=1781092800&signature=f2e7442fee9ae413f8eb95409559531f1aaca167f4eabb699a9e9d56246fff4b&req=dicmFsx5mYheFb4V1XW4gSFXI3%2BvDPw6wgPRIZvJKvxvthS00%2FyXss67f8M9%0ARYrGyKVnqF6eLS9gS7AXZUqrfg%3D%3D%0A)
+
+1. Ga terug naar de issue lijst
+1. Laad de inhoud van dit issue opnieuw
+1. Navigeer tussen issues
+1. Stel de status van het issue in (Open, Closed, …)
+1. Stel de type van het issue in (Error, Warning, Info, …)
+1. Stel de vervaldatum van het issue in
+1. Stel het lid tot wie het issue is toegegeven in. U kunt een issue toewijzen aan een individueel lid of een team.
+1. Stel het lid die dit issue aanvraagt in. U kunt een individueel lid of team instellen.
+1. Bewerk de issue labels
+1. De lijst van commentaren in het issue
+
+### Issue eigenschappen
+
+U kunt elke eigenschap van het issue veranderen: Status, type, toegewezen aan, aangevraagd door, vervaldatum, labels. Elk menu zal een lijst met toegankelijke eigenschappen weergeven. U kunt echter geen nieuwer status, type of label rechtstreeks vanuit de plugin aanmaken. Hier voor zult u de webpagina interface van Catenda Hub moeten gebruiken.
+
+U kunt op de titel klikken om het te wijzigen:
+
+![editTitle.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057512/21c141c1541f63690631da29/editTitle.gif?expires=1781092800&signature=965177505386e37ead1d52eb4368e03042120dea9818ea66f34d242f34fb52b0&req=dicmFsx5mIBdFb4V1XW4gdsm2hWG%2Fwl8kOb0IoyGp7Lb6FQpthhfDM1DAgUe%0AjAGScMF0eOrJHXq6o1FQ5EVqkA%3D%3D%0A)
+
+U kunt op het pen icoon klikken om de beschrijving te bewerken:
+
+![editDescription.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057517/2d1ce4d4cc037867ee4e35ab/editDescription.gif?expires=1781092800&signature=c2e7caac9ab7a00a5eca6bdccab082fe55212ccc8beb3a8e5177f44b9c234ad3&req=dicmFsx5mIBYFb4V1XW4gXDKqbWOBWJPzIRVhgUj0dBio0IRqutKKGgQ5ejS%0AwYIIKG%2BGXDiwPAXjvA81kttWYA%3D%3D%0A)
+
+U kunt ook tekst in de label balk typen om de lijst met filters te filtreren:
+
+![editLabels.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057525/66fb261901258f426d78ed07/editLabels.gif?expires=1781092800&signature=ece9633dc25d334ac0861298acf82cfa9f639d524271e942f7905ceec3da5655&req=dicmFsx5mINaFb4V1XW4ga5g5rPdNhQoS6XvU%2BWN1wgNas4OMzwmmPHNXaA4%0A3vf35gsrXfVMDKaYVqGZAAbLyQ%3D%3D%0A)
+
+### Commentaren
+
+Alle commentaren zijn weergaven onder het issue. Een commentaar kan tekst, een foto, een snapshot van uw Revit current view of een viewpoint bevatten.
+
+![CommentDetail.png](https://catenda-as.intercom-attachments-1.com/i/o/271057536/9325f079fe14f96f00705e9e/CommentDetail.png?expires=1781092800&signature=91dde4304c6e0dc4fd2bf414887c20572e4d8ffddcb763ed7926075ae08bf3be&req=dicmFsx5mIJZFb4V1XW4ga6SjKf%2B620sxyBzLTXhvue9HFKqijUsKUkCKBYN%0ADy46gCv5S8At3KCqm%2FmXUbS3ug%3D%3D%0A)
+
+1. De eigenaar van het commentaar
+1. Wanneer het commentaar was gemaakt. U kunt over de datum bewegen om de volledige tijd en datum te weergeven.
+1. De [zoom knop](#h_e210e8a1e5)
+1. De foto die bij het commentaar hoort.
+1. De tekst van het commentaar
+
+### Zoom
+
+Als het commentaar een viewpoint inhoud kunt u naar dit viewpoint zoomen. Zoom in zal een nieuw 3D view in uw Revit model maken dat gefocust is op het zelfde viewpoint.
+
+![zoom.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057548/9d9fe9919df91218a67da3c0/zoom.gif?expires=1781092800&signature=5463c5f22fbaf2672307d762ec830b32e5cee1863221ba22cf90f86d66681896&req=dicmFsx5mIVXFb4V1XW4gaqoxrS2VdKTOwPK4luQw0J1Fl%2BV6KX18FrZrbH1%0AEjbssd%2Buq4zSkffXF7ShOJsr1Q%3D%3D%0A)
+
+Om het viewpoint relevant te laten zijn moet u het zelfde model geopend hebben als het model waar het commentaar was gemaakt. De plugin neemt aan dat Shared Coordinates waren gebruikt bij het exporteren naar IFC van het model.
+
+Als het viewpoint van een perspectief view gemaakt is zal het nieuwe 3D view zijn projectie modus op "Perspective" hebben. Anders zal de projectie modus "Orthographic" zijn.
+
+De add-in zal alleen een perspectief view en een orthografisch view aanmaken. Na deze aangemaakt te hebben zal het deze views hergebruiken voor elk vervolgend gebruik van de zoom functie. U kunt dit veranderen in het [settings menu](#h_d8f68b7047).U kunt ook het settings menu gebruiken om de naam van deze views te veranderen.
+
+### Gerelateerde elementen
+
+Als het issue gerelateerde elementen bevat zal de add-in die selecteren in Revit als u naar een viewpoint zoomt.
+
+![relatedElements.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057554/6bd0da3738f53dabb2d7d8a1/relatedElements.gif?expires=1781092800&signature=fdb950a485e5b5382eccc17168479a59b0a84a1cf1dbd584fd2c7c2645087e11&req=dicmFsx5mIRbFb4V1XW4gVuI28nvUFVKaeEDIAWirSctywr3R%2BPdf00tJdh%2F%0A4bCEn51Ofi2XTF0eB0z8gwdCng%3D%3D%0A)
+
+Om deze functie te laten werken moet uw Revit model zijn exporteert ge zijn via IFC met de “Store the IFC GUID in an element parameter after export” setting. Dit legt de IFCGuid parameter toe tot elk object wat er voor zorgt dat de plugin gerelateerde elementen kan selecteren.
+
+### Commentaar toevoegen
+
+U kunt commentaren toevoegen bij een issue door tekst in de tekstbalk te schrijven en op Submit te klikken.
+
+U kunt ook een foto van uw computer toevoegen door op de "Plus" knop te drukken. U kunt deze foto annoteren door op de vertoonde foto te klikken na het geselecteerd te hebben.
+
+![createComment.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057571/f8f1dc5e036c662975947091/createComment.gif?expires=1781092800&signature=68bce4ffbe99bef48e57e2f1fd1b9bf9bde107721eb4a337726692cec11c8bdb&req=dicmFsx5mIZeFb4V1XW4gZKf2ehIb4n%2FwGDxr6nuV%2F6fsbU1Y1R3tv6shUx9%0ATTe5DUj7214%2BrSRyVUcIT6Wz1w%3D%3D%0A)
+
+### Een 3D snapshot toevoegen
+
+U kunt uw huidige Revit view ook als viewpoint toevoegen en als snapshot als bijlage bij uw commentaar. Net zoals het bijleggen van een foto kunt u deze annoteren door op de vertoonde foto te klikken.
+
+Als de IFCGuid parameter aanwezig is zullen geselecteerde elementen in Revit tot uw issue worden toegevoegd als gerelateerde elementen.
+
+## Uploaden naar Catenda Hub
+
+U kunt uw huidige Revit model direct naar Catenda Hub uploaden als een IFC bestand.
+
+Na het openen van het upload menu:
+
+1. Selecteer het Catenda Hub model waar u een nieuwe revisie wilt aanmaken.
+1. Typ een commentaar dat te maken heeft met de upload.
+1. Selecteer een IFC configuratie. Een nieuwe configuratie kan aangemaakt worden in het IFC export menu in Revit. U kunt ook de \<Catenda setup> selecteeren voor een configuratie die makkelijk te gebruiken is en goed voor Catenda geschikt is.
+1. Klik op Upload
+
+![Upload.png](https://catenda-as.intercom-attachments-1.com/i/o/271057594/f30c8ec7bd7dcee7981335be/Upload.png?expires=1781092800&signature=cc88c8d4ad9c2be9021a1874c63e5a851dcac6e8f5e83b1cf056336ee91e85b8&req=dicmFsx5mIhbFb4V1XW4gUMolMmmCG3Scopf5A65ZAuQiZFH%2BYsrZM3v6lXg%0AjOA4DEd6Zl00piOpAaFnWJec7Q%3D%3D%0A)
+
+```
+selectedConfig.Name = "<catenda Setup>"; selectedConfig.IFCVersion = IFCVersion.IFC2x3CV2; selectedConfig.SpaceBoundaries = 1; selectedConfig.ActivePhaseId = ElementId.InvalidElementId; selectedConfig.ExportBaseQuantities = true; selectedConfig.SplitWallsAndColumns = false; selectedConfig.VisibleElementsOfCurrentView = false; selectedConfig.Use2DRoomBoundaryForVolume = false; selectedConfig.UseFamilyAndTypeNameForReference = true; selectedConfig.ExportInternalRevitPropertySets = true; selectedConfig.ExportIFCCommonPropertySets = true; selectedConfig.Export2DElements = false; selectedConfig.ExportPartsAsBuildingElements = true; selectedConfig.ExportBoundingBox = false; selectedConfig.ExportSolidModelRep = false; selectedConfig.ExportSchedulesAsPsets = false; selectedConfig.ExportUserDefinedPsets = false; selectedConfig.ExportUserDefinedPsetsFileName = ""; selectedConfig.ExportLinkedFiles = false; selectedConfig.IncludeSiteElevation = true; selectedConfig.UseActiveViewGeometry = false; selectedConfig.ExportSpecificSchedules = false; selectedConfig.TessellationLevelOfDetail = 0; selectedConfig.StoreIFCGUID = true; selectedConfig.ExportRoomsInView = true;
+```
+
+## Settings
+
+Het settings menu laat u veranderen hoe de plugin een 3D view aanmaakt bij gebruik van de [Zoom functie](#h_e210e8a1e5).
+
+![settings.png](https://catenda-as.intercom-attachments-1.com/i/o/271057604/1cee82a8f305a0d35f7f853d/settings.png?expires=1781092800&signature=432f109f76327ae1de8e61c9d5b0120651d34c03d57417b0179c4d531aef90b9&req=dicmFsx5m4FbFb4V1XW4gcRriCynrvHqrP%2FRjaaOXokDYU3Acq2y94SVQoch%0AlhokgwuEAuLBoS4fbslafxBxaA%3D%3D%0A)
+
+1. Behoud het 3D in Orthografie. Deze optie zal het Revit 3D view dwingen om orthografisch te zijn zelfs als het bijhorende viewpoint met een perspectief view gemaakt is.
+1. Maak een nieuw view voor elk issue. In plaats van het hergebruiken van het zelfde 3D view elke keer dat u de zoom functie gebruikt zal deze optie een nieuw 3D view voor elk issue aanmaken per keer dat u de zoom functie gebruikt.
+1. 3D view name achtervoegsel. Deze tekst zal toegevoegd worden tot de naam van het 3D view dat aangemaakt word wanneer de zoom functie gebruikt wordt.
+
+# Revit IFC Export Handleiding
+
+Met deze IFC export handleiding is het doel om de gebruiker een gids te geven over het exporteren van de IFC voor de juiste doeleinden. Een IFC-bestand kan snel zwaar en groot worden wanneer u veel informatie uit het model wilt halen. Daarom moet u bij het exporteren van een IFC onnodige informatie uitvinken. Bij het uploaden van een model naar Catenda is het niet altijd nodig om veel informatie en een hoog detailniveau in het model te hebben. Later in deze handleiding gaan we terug naar welke instellingen we aanbevelen om het model iets kleiner en iets gemakkelijker te maken om mee te werken. Hier gaan we stap voor stap langs de meest geschikte manier om een IFC van Revit naar Catenda te exporteren.
+
+In dit artikel vindt u informatie over:
+
+_[IFC exporteren](#h_38cc715c02) - [Instellingen wijzigen](#h_85d4335aad) - [IFC Opties](#h_487f3aa176) - [Kleuren en materialen](#h_f458b56011)_
+
+## **Projectinstellingen**
+
+Voor het exporteren is het belangrijk om ervoor te zorgen dat de GUID's van uw Revit-project correct zijn.
+
+`Beheren -> Instellingen -> Projectinformatie -> IFC Parameters`
+
+![Project information IFC Parameters IfcSite GUID IfcBuilding GUID IfcProject GUID](https://downloads.intercomcdn.com/i/o/975614819/ee92de6f2477949e208dac45/image.png?expires=1779991200&signature=488a733e6dce35b3f9f765548a38ebcbb902309625bfa1827447b3e10ff5d1ca&req=fSciEMh6lYBWFb4V1XW4gW4DZHJ8Y%2FMyB4KsohYxe9JI9upp%2BSOrcthV9MYf%0AU5M5bUP8q8Ck5XUUcK86OtHqKw%3D%3D%0A)
+
+Als de GUID verschilt van een vorige export, zullen de objecten van nieuwere exports niet correct worden gekoppeld aan de GUID's in BCF-onderwerpen.
+
+Wanneer u een nieuw project maakt, krijgt het een unieke id.
+
+## **IFC exporteren wijzigen**
+
+Wanneer Revit open is en u klaar bent om te exporteren, kunt u het volgende doen.
+
+![Druk linksboven op het scherm op bestand](https://catenda-as.intercom-attachments-1.com/i/o/271057108/395387d7cf0cc2eb7d9928e9/image-0.png?expires=1779991200&signature=29709f4df2bf2e93a7f49e265c84ad240cb9e1ca9f0d647626ae988df2a5ce2c&req=dicmFsx5nIFXFb4V1XW4gWhxfMNYwk%2FrATxtIQ9WjWxRlpEJI1psfy%2F4XuaV%0ANtKM3bS8PgmX5bN8%2Buoj%2FLUGDQ%3D%3D%0A)
+
+Linksboven vinden we het tabblad "Bestand".
+
+-----------------------------------------------------------
+
+> **Onthouden:**_ Misschien wilt u een speciale map voor uw IFC-bestanden maken, zodat u altijd weet waar uw bestand zich bevindt!_ Het IFC export menu kunt u hier vinden: `Bestand -> Exporteren -> IFC` ![](https://downloads.intercomcdn.com/i/o/areracg3/1892251735/1f06f6821d79b19642af1b81ebe6/image.png?expires=1779991200&signature=f77ab31d228b76bdf13529fee00caae4d6d42ccf86705e6e6788b4103ef18ea5&req=dSguFMt7nIZcXPMW3nq%2BgYeYtz5lfambMm12jWodCPeBvHXniyUmgGYciDwf%0AYXW5CLORtPkNnSMKCCj0IG5c3qs%3D%0A) Het IFC export menu kan er als volgt uitzien: ![IFC exporteren](https://downloads.intercomcdn.com/i/o/areracg3/1798387143/866e2fe7cec7589a87073fcc0c82/image.png?expires=1779991200&signature=4bfa202fb3004eec5587f9ccff80d9ad260c643ce24349d84a233dd0f1b00abf&req=dScuHsp2moBbWvMW3nq%2BgZPn43QJg8WVVc0ZVd8M6r96eVKW%2BS8G1RavyNB3%0A6vNrKhgPoxi%2FkGAPFMy7%2BWg0BfM%3D%0A) Bestandsnaam Voer de naam en locatie in die het geëxporteerde bestand in het systeem zal hebben Export instellingen Kies uit de volgende vooraf ingestelde instellingen: \<In-Session Setup> IFC 2x3 Coordination View 2.0 IFC 2x3 Coordination View IFC 2x3 GSA Concept Design BIM 2010 IFC 2x3 Basic FM Handover View IFC 2x3 Coordination View IFC 2x3 COBie 2.4 Design Deliverable View IFC4 Reference View [Architecture] IFC4 Reference View [Structural] IFC4 Reference View [BuildingService] IFC4 Reference View [Unofficial] IFC4x3 IFC-SG Regulatory Requirements View Wanneer de Catenda Plugin voor Revit wordt gebruikt, wordt er een extra vooraf ingestelde export instellingen voor gebruik met Catenda aan de lijst met opties toegevoegd.
+
+## **Instellingen wijzigen**
+
+Klik op Instellingen wijzigen in het onderdeel Export instellingen van de export IFC-dialoog.
+
+Dit is waar de noodzakelijke instellingen voor IFC-export kunnen worden gewijzigd en aangepaste instellingen kunnen worden gemaakt.
+
+Dit kan het instellingenmenu wijzigen zien:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892255169/dc9485955be8e9d289ef7b133e42/image.png?expires=1779991200&signature=fdb3c6d8b891f2db5a5d46d63d24dabdeb1eb90d7e823e58f8076ad2e015e125&req=dSguFMt7mIBZUPMW3nq%2BgU4rCzwBivDLfsHeLviWOkIR%2BVu9c41EQE6LWfpQ%0AnFh5xdUdS7zkwB57Eqs2k6s5uMw%3D%0A)
+
+Dit venster bevat de volgende tabbladen:
+
+[Algemeen](#h_fb41b895ea) - [Aanvullende inhoud](#h_ed48fc4387) - [Eigenschappensets](#h_04dd25ffef) - [Detailniveau](#h_11ae63fb7f) - [Geavanceerd](#h_f7b35f27cd) - [Geografische referentie](#h_de5067b34b)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### **Algemeen**
+
+![Algemeen](https://downloads.intercomcdn.com/i/o/areracg3/1892229977/5b41cf313ce744a76d57707e7156/image.png?expires=1779991200&signature=de7a76fac9b01f590c83303ae40078c1584ff8b4876ef0b169519d39e6d9c20a&req=dSguFMt8lIhYXvMW3nq%2BgaV%2FCQixLdXaNeZ7QyQ0axWAyNp02PCsj0gdc2if%0Ad1tMevbVyEJSRIO7%2Bjxmt6fUIRM%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892261475/b091b92e7662bd96f93d12bf7f53/image.png?expires=1779991200&signature=9c06e8d7af983ce6a940f923b9ef8727f8c61d9e26ef8e352988fa36b62bd281&req=dSguFMt4nIVYXPMW3nq%2BgXBEgWjeQPHCGpBWTw2Nw1Jy05ppTRgbw1VTpLZH%0At1eqbpZDOUcMRs4z%2FBI%2Fnj41rJ0%3D%0A)
+
+We nemen u door de verschillende instellingen.
+
+_IFC versie_
+
+Selectie van IFC versie.
+
+_Uitwisselingsvereiste_
+
+Deze opties kunnen verschillen afhankelijk van de geselecteerde IFC-versie.
+
+IFC 2x3 Coordination View 2.0
+
+- Bouwkundige referentie-uitwisseling
+- MEP-referentie-uitwisseling
+- Structurele referentie-uitwisseling
+  _Categoriemapping_
+  Voor Revit 2026 was deze optie beschikbaar in Bestand -> Exporteren -> Opties -> IFC Export Opties.
+  Dit is hoe het menu Instellingen voor IFC Export Mapping beheren eruit kan zien:
+  ![](https://downloads.intercomcdn.com/i/o/areracg3/1892362444/0291c2b037d32fe0a4808e9fe7f7/image.png?expires=1779991200&signature=528dc3b6bcb4d9399320d85087b57a2e29ed93341169cec06ce9cb8ed5c84fb7&req=dSguFMp4n4VbXfMW3nq%2BgZ7axO8%2FlFRz4FYwOCciizXyG4lDOXEisrBlsk4c%0AAoRXuiRV9UdddmK2UwD%2FBi7AM7g%3D%0A)
+  _Bestandstype_
+  IFC type selectie.
+  _Fase om te exporteren_
+  Als u het fasetool in Revit hebt gebruikt, kunt u hier kiezen en alleen
+  nieuwe of bestaande structuren exporteren.
+  _Ruimtegrenzen_
+  Deze gaan allemaal over hoe ruimte-informatie verder kan worden gebruikt.
+  a. 1e niveau - Voorbeeld: Hoeveelheidswittokkingen, beheer, bedrijf en onderhoud (FDVU).
+  b. 2e niveau - Voorbeeld: Energieanalyse, lichtanalyse.
+  _Faciliteit Type_
+  Deze optie is alleen beschikbaar voor IFC 4x3
+  Kies uit een van de volgende:
+  Brug (IfcBridge)
+  Gebouw (IfcBuilding)
+  Maritime Faciliteit (IfcMarineFacility)
+  Spoorwegen (IfcRailway)
+  Weg (IfcRoad)
+  _Muren, kolommen, kanalen per niveau splitsen_
+  Hier kunt u bijvoorbeeld muren horizontaal verdelen als ze over meerdere verdiepingen zijn gemodelleerd. Bijv. scheidingsmuren horizontaal als deze over meerdere verdiepingen zijn gemodelleerd.
+  _Bestandskoppelinginformatie..._
+  Projectadres..._
+  In deze kunt u informatie plaatsen over wie de IFC heeft geleverd, projectadres enz.
+  _Projectoorsprong_
+  Projectoorsprong, dit zetten we op Huidige gedeelde coördinaten - Aanwezige gedeelde coördinaten.
+
+> **Opmerking:** Dit is verplaatst naar Geografische referentie vanaf Revit 2025 _Stalen elementen opnemen_ Neemt stalen componenten op als deze zijn gemodelleerd. **Opmerking:** Dit is verplaatst naar Aanvullende inhoud vanaf Revit 2025
+
+---
+
+### **Aanvullende inhoud**
+
+![Aanvullende inhoud](https://downloads.intercomcdn.com/i/o/areracg3/1892231518/1438a720e7d2d083f16e999b248d/image.png?expires=1779991200&signature=14ae8e037db758f837b33fce3426217ec13a1be4bdae21d9021a6c6e2adef1ed&req=dSguFMt9nIReUfMW3nq%2BgUrmoL4SQTHbWqp11fsyPaNkkVHU8HTI2%2F7M7%2BzB%0ABmowPSLQu3ATd2%2F2iUivb83tBuQ%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892263880/c2a3aa2c87b0e2798aa352e8e939/image.png?expires=1779991200&signature=d34f7286a508b4628d39a8280c078fb7fab54fd9c269d8f5f4b9bdb4b2f506cc&req=dSguFMt4nolXWfMW3nq%2BgZuMl2%2B0ocCSxdsSWUVwjc07TZne90pVVQ20GLrW%0AXKEA4G7s2qjM4xmQ4ob3bLJz%2Fzg%3D%0A)
+
+Gekoppelde bestanden als afzonderlijke IFC's exporteren
+
+Als u de gekoppelde bestanden in de IFC wilt opnemen, kunt u deze optie inschakelen.
+
+Het wordt aanbevolen dat u elk bestand afzonderlijk exporteert en elk naar hun eigen model importeert.
+
+Alleen zichtbare objecten zichtbaar in IFC-bestand exporteren.
+
+- Ruimten, oppervlakken en spaties in 3D-weergaven exporteren
+  Deze optie kan nuttig zijn voor het selecteren van gebieden in de 2D-viewer.
+  Stalen elementen opnemen, _gevuld_
+  Exporteert 2D plattegrond elementen, _gevuld, regio's_ (krassen).
+  Plafondnetwerken exporteren
+  Plafondnetwerken zijn 2D-elementen en worden daarom niet weergegeven in de Catenda 3D-viewer.
+
+---
+
+### **Eigenschappensets**
+
+![Eigenschappensets](https://downloads.intercomcdn.com/i/o/areracg3/1892232792/135fdbf14ece65c88f19bd1d226a/image.png?expires=1779991200&signature=08f85973ddc0828e1bce6019eed0e2ca144295420ac48e4d9b236988f3109720&req=dSguFMt9n4ZWW%2FMW3nq%2BgaY8ra%2BUm5L2ZjmJcmldhCuBAdrt45HA7HZqKLol%0AtoA76daMbGTClWLlzEA9uLIe9yA%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892275051/2ed64b1590f2714d62846de4f92f/image.png?expires=1779991200&signature=72c737d699d3e9d1d54ab3270ebf9a6416e597a6f32ba4fc860fd242e2c1abcd&req=dSguFMt5mIFaWPMW3nq%2BgZi725RhkXN5IeQuWPtKkGbxpRk%2Bl9O8njkEN8R8%0AV3y8MdRThA7Jgy%2FpcsTiX3Qr%2Bo0%3D%0A)
+
+Exporteert alle Revit Property sets (pset / eigenschappen)
+
+Hier is een voorbeeld van een muur geëxporteerd met deze optie:
+
+Revit (_Links_) --- Catenda (_Rechts_) <img alt="Eigenschappen" src="https://downloads.intercomcdn.com/i/o/1143733823/5843705d0d8e18fad06a2d26/image.png?expires=1766188800&amp;signature=e683738cab58632050b7cafa92c034f12a46f70dfe3155d1cf4d911252b4d5cc&amp;req=dSEjFc59noldWvMW3nq%2Bgf%2FEabfHtQiF4KaxSmsaQLmis0sQMPMY4FRacuZa%0Az3YPfah7rm21SlIs85aLL8uLrZY%3D%0A" width="208.60495436766624"/>  ---  <img alt="Eigenschappen" src="https://downloads.intercomcdn.com/i/o/1143736276/8e2cd444c3cb4bb85a54a8eb/image.png?expires=1766188800&amp;signature=10633b362c0901da616a360cdbf654306792d62af04cc4f3501c3bda51769102&amp;req=dSEjFc59m4NYX%2FMW3nq%2BgT9zLO7Skq%2BTFld2KtbnaRMzDGwWjYF5Mm1itI8z%0AVIQLHf%2B4YSGFII1x5k%2BObZqVuGo%3D%0A" width="190.21739130434784"/>
+
+Typische eigenschappen die in het eigendomsmenu worden weergegeven zijn:
+
+Beperkingen, Dwarsprofielbepaling, Afmetingen, Structureel, Identiteitsgegevens, Overige
+
+Typische eigenschappen die in het identificatiemenu worden weergegeven zijn:
+
+IFC-parameters
+
+Standaard IFC-eigenschappen exporteren.
+
+Exporteert berekende hoeveelheden van objecten.
+
+Batchlijsten exporteren
+
+Eenmalige eigenschap set exporteren
+
+_Classificatie-instellingen_
+
+Hier is een voorbeeld van wat classificatie-instellingen kunnen uitzien met omniclass.
+
+![Classificatie-instellingen](https://downloads.intercomcdn.com/i/o/1143721778/529f91196d1161bc0f7fc191/image.png?expires=1779991200&signature=f13d4621978f597e4d0c968364da4bd522527c7f374efda94be6a0be7575c6ca&req=dSEjFc58nIZYUfMW3nq%2BgTdoFEUepwZW6XnZ2V0i6WQvADjlF%2BLhRY6OJkFP%0AiNN3Uof7HbJp4u6Gl9XBlQAU8Ss%3D%0A)
+
+_Naam_
+
+De naam van de classificatie
+
+_Bron (Uitgever)_
+
+De uitgever van de classificatie
+
+_Editie_
+
+De classificatie-editie
+
+_Editiedatum_
+
+De datum van de classificatie
+
+_Documentatielocatie_
+
+Dit moet een geldige documentatielocatie zijn
+
+_Classificatieveldnaam_
+
+De classificatieveldnaam is de naam van de parameter in uw objecten die de classificatiewaarde bevat. Deze parameter kan vaak op familieniveau worden gevonden.
+
+Een familie bewerken om de eigenschappen ervan te zien
+
+![Familie bewerken](https://downloads.intercomcdn.com/i/o/1143724998/b22b5f6c87f49ea7c42381bf/image.png?expires=1779991200&signature=8590e78ce69a0d98961dc796b658ba4bf72cf03c45dba1890900a214bafbb117&req=dSEjFc58mYhWUfMW3nq%2BgSZUcWo6HOAqXXhYpyvCdnZ5nwKOSt5eRyx6qPHd%0AgRRUvOdjNZu11Av4vkAmqN6p0o4%3D%0A)
+
+Hier ziet u hoe de parameter in de eigenschappen kan uitzien
+
+![Eigenschappen OmniClass Nummer](https://downloads.intercomcdn.com/i/o/1143726246/d4edad8d1fd6912e74ac1dfd/image.png?expires=1779991200&signature=25a111f49176bbcd4a4eca8317c7d6020339ad9635734a6fdd66b808adc91213&req=dSEjFc58m4NbX%2FMW3nq%2Bge0lDZh%2F80lWgG1V9tT6cxgr0M7xLIsZrNn2i2Tj%0Ar3LmBV%2BDKYl2bfCvCkuordzTxII%3D%0A)
+
+Als u uw IFC met een classificatie hebt geëxporteerd en deze als model naar Catenda hebt geïmporteerd, wordt de classificatie ervan voorgesteld als een [voorgestelde bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page#h_c03d50a9ca) wanneer u een nieuwe bibliotheek maakt op de [bibliotheken pagina](https://support.catenda.com/en/articles/8065645-libraries-page).
+
+Als een waarde in de eigenschap die u hebt opgegeven, overeenkomt met een waarde in de verstrekte documentatie, wordt deze gevonden en kan deze worden gebruikt om objecten met deze waarde te selecteren via de classificatie bibliotheek die u hebt gemaakt.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### **Detailniveau**
+
+![Detailniveau](https://downloads.intercomcdn.com/i/o/areracg3/1892234477/a9bbe7f93df2e1f86dd77e0d8595/image.png?expires=1779991200&signature=51855781c86ef0d04cb75ec5abe362af236e216618b33ecddea36190c8ece55b&req=dSguFMt9mYVYXvMW3nq%2BgcGzWTbpx%2B5haiavdWYct%2BeRmFV0zbmfiG0oTuny%0ATNdlYRRUrCJXUVJUnpte5c9DwEg%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892279715/fc5d54cc402a319c1f102802fc97/image.png?expires=1779991200&signature=a04b7a621f85578fedddab7f9829e2da3a5a0d67f2226d40d826a5ff56e0f063&req=dSguFMt5lIZeXPMW3nq%2BgUWqnn%2FqIvGkfS0SdjfSGKflUy63XmjaojOfoQju%0ADW71Q%2BhgwZX1JLzynRJK3wz6z%2BQ%3D%0A)
+
+Dit gaat erom hoe gedetailleerd we bijvoorbeeld hebben. kopjes of leuningen of misschien fietswheels. Er zijn 4 verschillende detailniveaus.
+
+Extra laag
+
+Laag
+
+Middel
+
+Hoog
+
+Wanneer hoog, wordt het meest gedetailleerd zoals weergegeven in de onderstaande afbeelding.
+
+![Detailniveau extra laag en hoog](https://catenda-as.intercom-attachments-1.com/i/o/271057169/c6cea2aa0003f1c409488aae/image-7.png?expires=1779991200&signature=61fe3f4006900fd1d34c251c062b3db03fc2fd91f19e16a776870e31c9aebfab&req=dicmFsx5nIdWFb4V1XW4gbUv%2FgfutyCFZjDb1AFfiWvoJKOpzILR0DxPJCm8%0AyB%2BxbX0DAGzFhIfWt2vGYTMOHg%3D%3D%0A)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bij het exporteren van IFC's van Revit voor gebruik in Catenda Hub, raden we aan het detailniveau niet hoog in te stellen. Er zijn veel details en extra polygonen in modellen wanneer geëxporteerd met een hoger detailniveau en dit is niet altijd nodig en zal de modelnavigatie langzamer maken. Dit is een voorbeeld van het verschil tussen exporteren met de instelling Extra laag en Hoog.
+
+![Dit is een trapuiting geëxporteerd met de instelling Hoog. 900k polygonen](https://catenda-as.intercom-attachments-1.com/i/o/271057176/4d23600fddf517fa8afa68b3/image-8.png?expires=1779991200&signature=b40c5225839df08ff3cb63abba8707242a1b1485aea1a1349b7432050ae583ee&req=dicmFsx5nIZZFb4V1XW4gXDdgIisYwJtT%2FPcu87o1zP5fAUc4VXkBDnRaDr8%0A2T6aJEaBkIYupUl7unZmH%2FzFdA%3D%3D%0A)
+
+![Dit is dezelfde model geëxporteerd met de instelling Extra laag. 33k polygonen.](https://catenda-as.intercom-attachments-1.com/i/o/271057186/de52cec6e75ba1d44c01d9fb/image-9.png?expires=1779991200&signature=d8d2ced2202f3b52ae3b4585ea65977a74ee4709caed275abfc8d460d88a29db&req=dicmFsx5nIlZFb4V1XW4ga5Y09oq5DnlsKxhZ3TBUX7ENpGZnXWMCoB3Pz9w%0AYeiCXqLvdMUXo7BSPFFWU5lI1Q%3D%3D%0A)
+
+De verschijning van het model zal bijna hetzelfde zijn, maar het aantal polygonen zal drastisch afnemen en de navigatie in Catenda Hub zal veel sneller zijn.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### **Geavanceerd**
+
+![Geavanceerd](https://downloads.intercomcdn.com/i/o/areracg3/1892235835/c5a537efaad511b257aa34fd9393/image.png?expires=1779991200&signature=9ef54911a2b76d39f4e3c23df0f85f171699dd8a363ab3cf3cb37349a603544d&req=dSguFMt9mIlcXPMW3nq%2Bgej6EvTV%2BJ5RKvpYf%2BwKvvA%2BZUGNGSO9ksC63ytf%0AVqsnDeqhyykw%2B4ATqbgGWKSALMs%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892285324/5ee98db642dda09e9ef2e32f89f3/image.png?expires=1779991200&signature=a1105615a979210c8668e250b9ba318c89bc4fbd6335483a32692b3f7a71552f&req=dSguFMt2mIJdXfMW3nq%2BgeyMDiMPhq7Q85wgYm3Xh1XpOK5XvxcASYTyhduW%0AsLQ%2B1rJyZBFN%2FAQvoW31uHOg%2F7A%3D%0A)
+
+_Delen als bouwelementen exporteren_
+
+Exporteer delen als standaard IFC-element.
+
+_Gebruik van gemengde "Solid Model" representatie toestaan_
+
+Selecteer deze optie om het mengen van BRep en extrusiegeometrie voor een eenheid toe te staan.
+
+_Actieve weergave gebruiken bij het maken van geometrie_
+
+Selecteer deze optie om de actieve weergave te gebruiken om de geometrie te genereren. Houd er rekening mee dat dit onverwachte resultaten kan hebben als het op een niet-3D-weergave wordt gebruikt.
+
+_Familie- en typenaam voor referentie gebruiken_
+
+Selecteer deze optie om de familie- en typenamen voor referenties te gebruiken.
+
+_2D ruimtegrenzen voor ruimtevolume gebruiken_
+
+Selecteer deze optie om een vereenvoudigde benadering te gebruiken voor het berekenen van het ruimtevolume (gebaseerd op extrusie van 2D-ruimtegrenzen), wat ook standaard is bij het exporteren naar IFC 2x2.
+
+_Verheffing van IfcSite in de lokale plaatsingoorsprong opnemen_
+
+Selecteer deze optie om de hoogte van de Z-offset op te nemen voor lokale positie in IfcSite. Verwijder de optie om deze uit te sluiten.
+
+_Sla de IFC GUID na het exporteren op in een elementparameter_
+
+Selecteer deze optie om de gegenereerde IFC GUID's na het exporteren op te slaan in het projectbestand. Dit voegt "IFC GUID" parameters toe aan items en hun types en projectinformatie voor project, website en bouwgidsen.
+
+_Begrenzingsvak exporteren_
+
+Selecteer deze optie om "Begrenzingsvak" representaties te exporteren. Deze optie blijft automatisch geselecteerd voor GSA export.
+
+_Tessellated Geometry als triangulatie behouden_
+
+Als u complexe gebogen elementen of schelpen hebt en deze na de IFC export niet correct worden weergegeven, kunt u deze optie selecteren. Houd er rekening mee dat u mogelijk een zeer zwaar IFC-bestand kunt produceren.
+
+_Alleen typenaam gebruiken voor IfcType-naam_
+
+Selecteer deze optie als u wilt dat de BAT-ID of de ID van het object als de naam van de entiteit verschijnt.
+
+_Zichtbare Revit-naam gebruiken als IfcEntity-naam_
+
+Selecteer deze optie als u wilt dat de Revit-objectnaam de naam van de entiteit is
+
+_Altijd gefacetteerde vloeren en daken als één IFC-entiteit exporteren_
+
+Selecteer deze optie om vlakken van vloeren en daken met meerdere vlakken tot één entiteit te combineren.
+
+_Stel "Laatst gewijzigd" gebruiker in op Auteur in Projectinformatie_
+
+Selecteer deze optie als u de auteur van de wijzigingen in deze export bent
+
+_Entiteiten om te exporteren_
+
+Hier ziet u hoe het menu IFC Entity Selection dat opent er kan uitzien:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892286935/be99502f0dd70ec946f55438c390/image.png?expires=1779991200&signature=799dca9446d3b00d4ca06944add4e6d6f47d8fd33c8a778c5d2557ab8437c12e&req=dSguFMt2m4hcXPMW3nq%2BgcADQUPx2PSQHDp0RWxq5dUnOJgx%2ByBdwcstuqRL%0AJLIzsYDQIIYPtAIY1dFKFpLkOAE%3D%0A)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### **Geografische referentie**
+
+Het is belangrijk dat uw Revit-coördinaten zijn gesynchroniseerd met de andere modellen in uw project zodat ze op dezelfde plaats eindigen.
+
+Daarom meet u de coördinaten in Catenda Hub met een puntmeting en geeft u een coördinatenbasis op in Revit op een punt dat op dezelfde plaats ligt als het gemeten punt in Catenda Hub.
+
+![Coördinaat op punt opgeven](https://downloads.intercomcdn.com/i/o/969764101/0c12135b4cfe78982de2d2c9/image.png?expires=1779991200&signature=060be8f8a603fc0b1a1df40a9afcb314add9da447d344221a97c1a482e645427&req=fSYuEc96nIFeFb4V1XW4gXGcH65AQ%2BvBsmsiUzSJvpOZcWtpsV6NEtp3COB%2B%0AaAl33RB7R1SlFNStV1N44yOhtw%3D%3D%0A)
+
+U kunt deze optie vinden in het tabblad Beheren -> Coördinaten -> Coördinatenbasis opgeven.
+
+_Coördinaten op punt opgeven_
+
+Verplaatst een model en roteert het model naar Ware Noorden door coördinaten voor Noord/Zuid, Oost/West en Verheffing op te geven.
+
+In Revit is het vaak gemakkelijker om in 90-graden hoeken te modelleren en u wilt het hele model niet roteren.
+
+In dit geval kunt u in plaats daarvan Ware Noorden roteren.
+
+U vindt de optie in de vervolgkeuzelijst Positie onder Coördinaten in het tabblad Beheren.
+
+![Geografische referentie](https://downloads.intercomcdn.com/i/o/areracg3/1892237064/dbd69633fadc1d5fe77cbbf10ad1/image.png?expires=1779991200&signature=a0fa45620598f4ea49637c071c3642c3e09a750a27b3c437d265926073e9efee&req=dSguFMt9moFZXfMW3nq%2BgWz5kavwajm2Q89QCw7rQngImO5dALYR%2F3X935bY%0ALRKgoqo1rT6VHyQCuYBc%2FWMRiDE%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892312196/3e117bb428e5bade5ced558f9bf3/image.png?expires=1779991200&signature=42aea4804b1dd4c21c0c6c4b6ed80d944086564e35b9902d1720c87903230719&req=dSguFMp%2Fn4BWX%2FMW3nq%2Bgak09I%2BhVIo7RxVv6rvgFchwhCbwffygGJDj6sXo%0AQDbWBuoUwVnnATNMwVm1SBR0YXM%3D%0A)
+
+_Projectlocatie_
+
+Intern
+
+_Coördinatenbasis_
+
+U kunt deze instelling wijzigen om ervoor te zorgen dat uw project naar het Noorden is gericht
+
+Gedeelde coördinaten - Standaard
+
+Opmeetpunt
+
+Projectbasis Punt
+
+Interne oorsprong
+
+Projectbasis Punt gericht naar Ware Noorden
+
+Interne oorsprong gericht naar Ware Noorden
+
+> **Opmerking:** Als u IFC in het tabblad Invoegen koppelt, wordt uw gekoppelde bestand dicht bij uw objecten geplaatst en bevindt het zich niet op de locatie die in de IFC wordt beschreven. Als u een IFC op de juiste locatie wilt importeren, klikt u in plaats daarvan op Bestand -> Openen -> IFC. _Negeren_ Hier kunt u de geprojecteerde coördinatensysteemreferentie negeren
+
+---
+
+### **Bedrijfsgegevens**
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892339968/a88c70cdc3d15ec1e87a1e966b46/image.png?expires=1779991200&signature=f68f221eb9ab0afd91c637e525a5d0057b3307e8e6530d5198dd90d3b144f8e5&req=dSguFMp9lIhZUfMW3nq%2BgRXRtZV646CzbhYCDTM1GZGXZIjmattZX5CDm0VJ%0ALOUcKRLlH3C9wmRrDi%2FTOy04v%2Bs%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892341695/f8aef094c7a84c8664cb6db386bc/image.png?expires=1779991200&signature=a174a5fdf3b7af5e95c5d1ed03b7d3edb1cacd026417765fdd6e0ec39c25cf03&req=dSguFMp6nIdWXPMW3nq%2BgSpJnU2%2FxbcY6345g60I7jviXU4X7ABgbjwoKuc7%0AcMRBSRyfbTm2vWp7Oys9oBkK7kw%3D%0A)
+
+Dit menu is alleen beschikbaar wanneer de IFC2x3 COBie 2.4 Design Deliverable View Setup in het linkermenu is geselecteerd.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### **Projectgegevens**
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892356241/5a9153e5328e33ef5732be86af07/image.png?expires=1779991200&signature=24762c0ace7ebe4478d2b2713cd6017d4832352f6043104b1cc30ae373ab08f7&req=dSguFMp7m4NbWPMW3nq%2BgdDcqeJjXwra65LLEws6tCTU0wICq0oh9qpS9%2FJn%0Aqm4kmvwf4QEYAICFX8bkvDuQ7PE%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892357722/97a31374ae328eff814a977ff3ec/image.png?expires=1779991200&signature=003f4e0f69fc7180132651ec2a4ffb712c3fd3dde1440a29ae2fc4dc2a0573bb&req=dSguFMp7moZdW%2FMW3nq%2BgaYH1F4G60q4NivzbwFWQfKx5c%2BITWNaFVEP55gD%0AWJoucJnbsl2gDq1dZBIrmkyfeVs%3D%0A)
+
+Dit menu is alleen beschikbaar wanneer de IFC2x3 COBie 2.4 Design Deliverable View Setup in het linkermenu is geselecteerd.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **IFC Opties**
+
+De IFC Opties van een Revit project kunt u vinden in:
+
+`Bestand -> Exporteren -> Opties -> IFC Opties`
+
+![Exporteren -> Opties -> IFC opties](https://catenda-as.intercom-attachments-1.com/i/o/271057200/45a1257c55b1828c71e969a4/image-11.png?expires=1779991200&signature=19ba7f1f06c737fd1570f0a06070ad9db96d0694ad820be88fb17bb60ed41856&req=dicmFsx5n4FfFb4V1XW4gakKrGXQvzEGkCAUJOtaQtRh3HZCglVgstn6e2Ch%0AaxVYb3DMOLXIpE8hXgvg%2F%2FKfNg%3D%3D%0A)
+
+> **Opmerking:** Vanaf Revit 2026 is deze optie nu beschikbaar in: `Exporteren -> IFC -> Algemeen -> Categoriemapping -> Actiemenu rechts van vervolgkeuzelijst` Binnen de _IFC opties_ stellen we de instellingen voor het exporteren van een model naar een IFC-bestand. Hier kunt u aangepaste eigenschappen voor het exporteren van een model naar IFC. Wat aan het begin van deze handleiding werd vermeld, is dat het niet nodig is om te veel informatie uit het model te halen. Voel je vrij om onnodige informatie voor het exporteren uit te vinken. ![IFC export klassen](https://catenda-as.intercom-attachments-1.com/i/o/271057211/d475dd84fb2efef9d7bf4c1d/image-12.png?expires=1779991200&signature=ceb04d005a9687945fd4c5efc680f142fa8f71ab5daddaf6ef11c8828c6103ea&req=dicmFsx5n4BeFb4V1XW4gdpd3cvRJhUNG2sGxDwDCuCNDMBg6YsRp7MEvaGe%0Ao0oBh68YB8CtIWlb%2Bwt%2Fl%2BbXug%3D%3D%0A) Het is mogelijk om rasters in Catenda Hub weer te geven en als u deze in uw Revit model hebt, kunt u in IFC Opties instellen dat rasters in de IFC worden geëxporteerd. Deze worden standaard niet vanuit Revit geëxporteerd.
+
+## **Kleuren en materialen**
+
+De kleuren die in Catenda worden weergegeven, worden gelezen uit het IFC-bestand dat wordt geïmporteerd.
+
+Wanneer de materiaaleigenschap van een familie wordt toegevoegd aan de IFC-parameters, wordt de kleur van het materiaal in de materiaaleigenschap aan de IFC toegevoegd en dus weergegeven in Catenda.
+
+In Revit kunnen materialen in de materiaalweergave worden gevonden:
+
+`Beheer tabblad -> Instellingen sectie -> Materialen`
+
+In de materiaalweergave kunt u de instelling voor kleur vinden in het tabblad Afbeeldingen van het materiaal:
+
+![Beheren -> Materialen -> Materiaalweergave -> Nieuw materiaal maken](https://downloads.intercomcdn.com/i/o/areracg3/1798363404/1016d10e61dcd4bbf3969dd97a39/image.png?expires=1779991200&signature=6538f237377a045f7b7f567244f4fdefd99bc74142dc54780c79610f54b88159&req=dScuHsp4noVfXfMW3nq%2BgRHARe%2BQbSvVJU1tDswOuiSVbxNsRYJibJHNSy4a%0ADvZyAbDR4cFQbN%2FOUhLbnJ9ZKrw%3D%0A)
+
+Het is ook mogelijk om de arcering aan de weergave-instellingen vast te zetten.
+
+![Weergave](https://downloads.intercomcdn.com/i/o/areracg3/1798375002/9394922e0e04c7beffd701083d45/image.png?expires=1779991200&signature=d9d2670f75a1006a4b4d3d03f3e9c19bcfffcafb0d76728976f55be340ebe2c6&req=dScuHsp5mIFfW%2FMW3nq%2BgczmUc51w6Slra%2FB5MdIivv2AVzb0Puu5CECSt7u%0AvMA6oVuMcEZW9opaPvxvO6x6HrE%3D%0A)
+
+Oppervlakken in de Catenda 3D-viewer hebben platte arcering zonder een aanwezige lichtbron.
+
+De volgende waarden worden door Catenda geïnterpreteerd bij het weergeven van het oppervlak in de 3D-viewer:
+
+Generiek
+
+- Kleur
+- Afbeelding vervagen
+  Transparantie
+- Bedrag
+- Afbeelding vervagen
+- Doorschijnendheid
+  Tint
+- Tintkleur
+
+# Het publiceren van revisies - ISO 19650
+
+De ISO 19650 series is een internationale standaard van goede praktijk die het informatie managment proces difinieert binnen de bredere context van digitale transformatie in de bouwsector.
+
+Veel belanghebbende in de bouwsector hebben de ISO-19650 aangenomen als de norm om het proces rondt het beoordelen en indienen van documenten in projecten te handhaven.
+
+Deze artikel bevat informatie over de volgende themas:
+
+**[Lifecycle](#h_df11c20404) - [Configuration](#h_4c1abfc510) - [Document tabs](#h_bfed4daf2c) - [Approval settings](#h_058046c316) - [Approval workflow](#h_01c3894c62) - [Disabling](#h_facc7dcaf1) - [Advantages](#h_8a5dec6f25)**
+
+## **Levensgang van een document**
+
+Volgens de ISO-standaard kan een document vier verschillende statussen hebben;
+
+### 🏗️ **In uitvoering**
+
+Bestanden waar aan gewerkt worden constant overschreven worden in de locale omgeving van de gebruiker. Deze bestanden zijn typisch alleen tot Catenda geüplaod zodat andere gebruikers met de vooruitgang mee kunnen volgen.
+
+### 👥 **Gedeeld**
+
+Bestanden die klaar zijn om met andre projectleden gedeeld te worden zodat coordinatie en laatste beoordelingen van verschillende vakgebieden en/of specialisten plaats kan nemen. Deze bestanden worden vaak tot Catenda geüpload en naar de respectiefe parteien gestuurd voor beoordeling en goedkeuring.
+
+### 📰 **Gepubliceerd**
+
+Bestanden die gecoordineerd, definitief en geaccepteerd zijn als deel van een contractuele overenkomst. Deze bestanden hebbe een beoordelingsprocess begaan en worden geact om 'klaar voor de volgenda fase' (constructie, overdracht, hoeveelheidsopname, vergunningssafgifte) te zijn.
+
+### 📦 **Gearchiveerd**
+
+De informatie is gebruikt en kan gearchiveerd worden om toegankelijk om daarna nog beschikbaar te blijven indien nodig blijkt te zijn (controle, aanmak van een bestand van uitgevoerde werken, enz.)
+
+### **Documentenstaten - ISO 19650**
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1457954761/09d3f67e8726bc72491f3c44c282/AD_4nXdxhgqhSMUAx3mvWCp_YY0Reke_AusmPHugivHaunwEyvVFnaC5Qs_xDThI3kiGPWYw6psdrUzS2Xa7U4k-HqQGc1ALlZpZyVTpzUivHHj4fvjLWAy_yq7cIvFkz20WsBfLvGcIqQUafYgdYxnVl6hQDpsV?expires=1781092800&signature=67538a17a1214b144879137232c95acddfc5c79c2a0c6b9385f7ece3f3035219&req=dSQiEcB7mYZZWPMW3nq%2BgWc6Am5ozpz%2BHWhrN8Q5T60Lz1OfiEnFagCMhOa%2B%0AUYwwqLzWekwwE%2BZEfzlyeoznaYE%3D%0A)
+
+### **Workflow op Catenda Hub**
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1457954760/06e15df77601ba3b8be456ce35d3/AD_4nXc-sz_yq5zZbwOV4LCV4zitdSXG7nBIg4EFbjXAXjAINfj0aDYDH27PINzlD-2NnwvpyM2H0mc28NMqEoaURHouvFXQGTdiWnr56HSyfTZGgs98NZVETiEfakzwcWQsQdMq7MIXGppFOe9rF4KaYscZB-U_?expires=1781092800&signature=7120a03415b546b9692150901233df5279805d477c22d5fe0b3c4404211cca27&req=dSQiEcB7mYZZWfMW3nq%2BgS1XyPgjYQqZT3%2BO6oImDDCWDE8w2WUAZDmYCzlh%0AaBb7wlo2cErsEfcr%2BgBwDc8thMI%3D%0A)
+
+## **Status Workflow Configuratie**
+
+De gedeelde status workflow can in documenteninstellingen geactiveerd en geconfigureerd worden.
+
+**Toegang vereist**
+
+Document status configuratie op de [projectinstellingen pagina](https://support.catenda.com/en/articles/4670273-project-settings-page)
+
+Leden met deze toegang zullen slechts toegang tot het statusconfiguratie menu in documentinstellingen hebben.
+
+Zij zullen geen van de andere menus in documenteninstellingen zien.
+
+Onder [documenteninstellingen](https://support.catenda.com/en/articles/7831371-document-settings) kan er naar de [status workflow](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) genavigeerd worden en gedeelde statussen kunnen geactiveerd worden.
+
+![](https://downloads.intercomcdn.com/i/o/1178797115/8f4c7d83c220e1a8fe3528b2/image.png?expires=1781092800&signature=14a7e338baf9119a8b2209541cf08076e04864d5c71047025a7ece8914ee5313&req=dSEgHs53moBeXPMW3nq%2Bgf5xkZWPxPTjOEqSMsnokvN63PTnVEnAWMOWrcAy%0AiX9F0ODa5gjnq3GZY%2FNIt5svJ2s%3D%0A)
+
+Stel de gedeelde en gepubliceerde statuseen die in het project gebuikt zullen worden in.
+
+![](https://downloads.intercomcdn.com/i/o/1178802846/1302b0cd9163957bcfc9426d/image.png?expires=1781092800&signature=8ba097f2269684ac5b7c25a00a52dd924bb587c4b72db3e01e4911e3b84f2b6b&req=dSEgHsF%2Bn4lbX%2FMW3nq%2Bge%2FsFVcwAuYrCcfyzUUEfuoc4thu%2FCmpHxO99z%2B6%0AJ9cGBR9L99XqOxcqmQwo%2FKyA0%2F8%3D%0A)
+
+Stel de standaardstatus voor nieuwe revisies in.
+
+Nieuwe revisies zullen altijd eerst als gedeelde revisies geupload worden en kunnen later gepubliceerd worden.
+
+De standaardstatus moet dus een gedeelde revisiestatus zijn.
+
+Deze status zal geselecteerd zijn in het uploadvenster voor elke documentenuplod en  kan veranderd worden naar een andere gedeelde status gedurende het uploadproces.
+
+![](https://downloads.intercomcdn.com/i/o/1178803801/1747b7b8c7d76f3dddbbfe88/image.png?expires=1781092800&signature=e799c7e6ff3facf036b3bc0b95b77a2499257a73273d5e9a8636ea7de9981a68&req=dSEgHsF%2BnolfWPMW3nq%2BgdaXG6x1PMxGkb8PvocbWQ8iVKGQavbXWek5XHyG%0AJozdIomWpNe7xP2s3B0Skh8GVtc%3D%0A)
+
+## **Vertrouwd maar anders**
+
+Na het activeren van de status worflow zult u twee tabbladen bovenaan de documenten en modellen tabels tevoorschijn zien komen.
+
+<img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/1464917266/e776245afbb7264736808e7c7caf/image.png?expires=1744254000&amp;signature=ef282d41c4c863ae5d85ac411f0eb164e49758b4b674642c8c4b5ada447bdc7c&amp;req=dSQhEsB%2FmoNZX%2FMW3Hu4gQN441QB%2BHqMpCnG2c4ri0EBqJHTxmwXvufR7kKC%0AbQ%3D%3D%0A" width="300"/> ----<img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/1464923130/25a7a0dc38bab95b9b4fd8dd802e/image.png?expires=1744254000&amp;signature=e556662bbf8f0f6690e61860446cba25a3dd113341ad73097b2bbdfbcb0669f9&amp;req=dSQhEsB8noBcWfMW3Hu4geR75bdjLlb1FQ2XXsdlWNZd%2FAAOABsVFXLujcke%0A%2FA%3D%3D%0A" width="300"/>
+
+### **Werkruimte**
+
+Alle uploads van nieuwe revisies zullen hier plaatsnemen.
+
+De laatste gedeelde revisie is hier voor elk document en model getoond.
+
+### **Geupbliceerd**
+
+Een gespiegelde versie van het werkruimte tabblad. Hier is dezelfde mappenstructuur als in de werkruimte te zien.
+
+Alleen documenten en modellen met gepubliceerde revisies zijn hier zichtbaar.
+
+> **Note:** **Let op:** Zie gedeelde revisies in het revisieoverzicht van de documentenpreview, zelfs als u het document vanuit het gepubliceerde tabblad geopend heeft. _Minimumstoegang:_ Gedeelde revisies
+
+### **Nieuwe gedeelde revisies uplaoden**
+
+Een revisiestatus zal in het uploadvenster voor elk geuploade bestand zichbaar zijn.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1462398884/97f9890e440d42b005567e98299f/image.png?expires=1781092800&signature=6ffd51d353d6805c2db8056386af51be4433d44853dbda16805b6b32d96ed795&req=dSQhFMp3lYlXXfMW3nq%2BgVjdRQ6zuec8FmzbjVwSMk1mtGYWUAscH4LPKHk4%0Ay7Ww6aaXa8Z7BAMbFl5WpzlWTCM%3D%0A)
+
+Een revisiestatus zal voor elk bsetnad dat vanuit een gezipt bestand uitgepakt wordt toegevoegd worden.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1462398882/26b3027e4465352032feef5b178e/image.png?expires=1781092800&signature=4658f41ef952bb00b62ec66231dfc91fd8524b900c6cd9c0208946e4cf80ce2b&req=dSQhFMp3lYlXW%2FMW3nq%2BgXwFmlZY73mIuW0M8s6imQEoSGO7ZxVrbPhjOLrN%0A5gH7zkjCLz0JOyn1%2FLgRBRB7VDo%3D%0A)
+
+### **Gedeelde revisies publiceren**
+
+**Meerdere documenten in de documetnenstructuur**
+
+En publiceer actie zal toegankelijk zijn in het bestaande element actiemenu van een of meerdre geselecteerde documenten met gedeelde revisies.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1462398889/4dd8cde02c317d95a6f5f6acaff7/image.png?expires=1781092800&signature=68eaa606cb33648b9dc785d56e2401c268d5290f05a996b877cfbc16159b737f&req=dSQhFMp3lYlXUPMW3nq%2BgWIXSXRwO4ByPcH9Dr7s9iId2Gy0hN1j3PdnhmNg%0ABalYXzbdnUylXUU6xExeqo54yYo%3D%0A)
+
+**Enkele revisies in de documenten preview en documenten structuur**
+
+Een publiceer actie zal toegankelijk zijn als icoon en in het actiemenu van de revisie info van een gedeelde revisie in het rechter informatie menu.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1462398890/d8d9e71384ecd6a92063bf62cb12/image.png?expires=1781092800&signature=27a009c71d873f574c6db0bc2c8b92d517bbb0b9677a9e6ef737b91a76dc0f16&req=dSQhFMp3lYlWWfMW3nq%2Bgbr3keqRABMPiJvLJ5VehVjdTpEU9u567%2Btn3E6a%0AgMwSWa2CFx0VNovZ%2B4WhHVKZt7s%3D%0A)
+
+**Een of Meerdere modellen**
+
+Een publiceer actie zal toegankelijk zijn in het bestaande element actiemenu van een of meerdere modellen met gedeelde revisies.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1462398891/4d7612616f9a168a19a6b08182fc/image.png?expires=1781092800&signature=7908e2a40e29b5dd27066b102a3f9dc0691e255041e5fcf701d595034757df3e&req=dSQhFMp3lYlWWPMW3nq%2BgUp9bvkBxgjA9sULgmOjblnoydC84D5P7AR1Rfuv%0AXyqHSYM6ZmzjeflBYXaNQBRb25w%3D%0A)
+
+_Minimumstoegang:_ Gedeelde revisies
+
+### **Toegangscontrole**
+
+Na het activeren van de statusworkflow zullen rechts van de toegangskolom in het toegangscontrolevenster van een map of document twee nieuwe kolommen zichtbaar worden.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1464839643/97b5831c05fc4fdda4717b1c48bc/image.png?expires=1781092800&signature=45ef08c394c95b9fcda11a5ea44efa1b50015ac22dfb4daeb76d2f04de644f81&req=dSQhEsF9lIdbWvMW3nq%2BgcqbG6q%2BvHKHMtqiuQWH5%2BTNxJcCxt3f6E%2Fnwl2P%0AkQidN%2FZy4Rh00ZFWDfx2H9HYfU4%3D%0A)
+
+In de onderstaande tabel wordt uitgelegd hoe de vinkjes de gebruikerservaring voor elk toegangsniveau beïnvloeden.
+
+- Check "can publish" for a member or team with write access to allow them to publish shared revisions and edit published revision statuses.
+- Uncheck"view shared revisions" for a member or team with read access to so they only see official, published, revisions.
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa; width: 227px;"><h1 id="h_be433920ed"><b>Gedeelde en gepubliceerde toegang</b></h1></td><td style="background-color: #e3e7fa; width: 209px;"><p></p><h2 class="intercom-align-center" id="h_face4740a8"><b>Lees</b></h2></td><td style="background-color: #e3e7fa;"><p></p><h2 class="intercom-align-center" id="h_70770f0a17"><b>Schrijf</b></h2></td></tr><tr><td style="width: 227px;"><h2 id="h_66bc51d437">Kan "Bekijk gedeelde revisies" aanvinken</h2></td><td style="width: 209px;"><p class="intercom-align-center">Kan aanvinken. Niet aangevinkt als standaard.</p></td><td><p class="intercom-align-center">Altijd aangevinkt</p></td></tr><tr><td style="background-color: #e8e8e8; width: 227px;"><h2 id="h_0eae4cca03">Kan "Kan publiceren" aanvinken</h2></td><td style="background-color: #e8e8e8; width: 209px;"><p class="intercom-align-center">Nooit aangevinkt</p></td><td style="background-color: #e8e8e8;"><p class="intercom-align-center">Kan gewijzigd worden. Standaard aangevinkt </p></td></tr><tr><td style="width: 227px;"><h2 id="h_d74a4b645b">Documenten bekijken</h2></td><td style="width: 209px;"><p class="intercom-align-center">Documenten met alleen gedeelde revisies zullen zichtbaar zijn als "Bekijk gedeelde revisies" aangevinkt is</p></td><td><p class="intercom-align-center">Beide docmenten met gedeelde en documeten met gepubliceerd revisies zijn zichtbaar.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 227px;"><h2 id="h_9a05589a4f">Bekijk gedeelde revisies in documenteninfo</h2></td><td style="background-color: #e8e8e8; width: 209px;"><p class="intercom-align-center">Gedeelde revisies zijn alleen zichtbaar als "bekijk gedeelde revisies" aangevinkt is</p></td><td style="background-color: #e8e8e8;"><p class="intercom-align-center">Beide gedeelde en gepubliceerde revisies zijn zichtbaar</p></td></tr><tr><td style="width: 227px;"><h2 id="h_f3b0396a29">Wijzig en bekijk gedeelde revisie statussen</h2></td><td style="width: 209px;"><p class="intercom-align-center">Kunnen bekeken worden als "bekijk gedeelde revisie" aangevinkt is maar kunne niet gewijzigd worden</p></td><td><p class="intercom-align-center">x</p></td></tr><tr><td style="background-color: #e8e8e8; width: 227px;"><h2 id="h_332c50e2eb">Wijzig en bekijk gedeelde revisie statussen</h2></td><td style="background-color: #e8e8e8; width: 209px;"><p class="intercom-align-center">Kunnen alleen bekeken worden</p></td><td style="background-color: #e8e8e8;"><p class="intercom-align-center">Kunnen gewijzigd worden als "Kan publiceren" aangevinkt is. Kunnen ander allen bekeken worden.</p></td></tr><tr><td style="width: 227px;"><h2 id="h_2e170af730">Documenten pubiceren</h2></td><td style="width: 209px;"><p class="intercom-align-center">-</p></td><td><p class="intercom-align-center">Kan publicren als "Kan publiceren" is aangevinkt</p></td></tr></tbody></table></div>
+
+### **Grote en kleine revisienummers**
+
+Gedeelde revisies hebben een kleine revisienummer (bijv. #0.1, #2.3, #4.1)
+
+Gepubliceerde revisies hebben een grote revisienummer ( #1, #2, #3, enz.)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1462398887/79dede1e4d36952772d30611cbf4/image.png?expires=1781092800&signature=672419276d62b3affc06789e9ec91e63e2d4d95fcc132e720cb7a66f82784315&req=dSQhFMp3lYlXXvMW3nq%2BgQVgEthNoXuZZUftSeAsbG4UIZYQPl72cIEl%2FKyp%0AJBnvuTbYXaAqZiQFvrwmUh5qcDw%3D%0A)
+
+### **Dcumentenweergave openen**
+
+In de documentenstructuur zult u de meest recentelijke revisie waar u toegang tot hebt zien. Klik op de naam van een document om de documentenweergave van de getoonde revisie te openen.
+
+**Werkruimte tabblad**
+
+De meest recentlijke revisie in het werkruimte tabblad kan zijn:
+
+Gedeelde revisie -         _Minimumstoegang:_ Gedeelde revisies Gepubliceerde revisie - _Minimumstoegang:_ Lees
+
+**Gepubliceerde tabblad**
+
+De meest recentlijke revisie in het gepubliceerde tabblad kan zijn:
+
+Gepubliceerde revisie - _Minimumstoegang:_ Lees
+
+> **Note:** **Let op:** Gedeelde revisies kunnen zichtbaar zijn het revisieoverzicht van de documetnenweergave, zelfds als de meest recentelijke revisie in het gepubliceerde tabblad geopend is. _Minimumstoegang:_ Gedeelde revisies
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1462398892/0d70d5c5f54ec607f74437c42cb9/image.png?expires=1781092800&signature=14c80a152f32ea13a5b8d30385e86d6bd334fc7bf555a1debd23cda7bf4ec946&req=dSQhFMp3lYlWW%2FMW3nq%2BgftEApPZ%2BEvxt4G6NVukANxbEBU7QNTOp%2BE0ABrn%0AV8qMFva7E08xchfqQtTLVkw0avs%3D%0A)
+
+### 
+
+### **Revisie informatie**
+
+Kies één document of open de documentenweergave door op de naam van het document te klikken. Informatie over de huidige revisie zal in het [rechter informatiemenu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision) zichtbaar zijn.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1462398883/6a2b6b888bc533785de0cb2ac4f7/image.png?expires=1781092800&signature=c9783ab0e50a433a1ae7fefbe6693a3d4a02a0d7355c2ad311de1e13c87b5c45&req=dSQhFMp3lYlXWvMW3nq%2BgaDRs4BWOne27lSVVmY7yKNuneb%2Bt3rbKQ82XpEX%0At0Qrl7cNRyhwbEDuoUIiw1fDnzk%3D%0A)
+
+- Publiceer de huidige revisie met de publiceer actie.
+
+_Minimumstoegang:_ Gedeelde revisies
+
+- Wijzig een gedeelde revisiestatus tot een andere gedeelde revisiestatus.
+
+_Minimumstoegang:_ Lees toegang en gedeelde revisies
+
+**Revisie informatievenster**
+
+Klik op het revisievlak om een overzicht van alle revisies in het document in het [revisie informatievenster](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision#h_6838c6ad71) te zien.
+
+Een groene link tussen een gepubliceerde en gedeelde revisie duid aan welke gedeelde revisie gepubliceerd is.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1462398888/a464d8d49300554a028016718d65/image.png?expires=1781092800&signature=242e72fdf3a2504bbfce523b074764f0afaa159b0d65de78443be83dba849353&req=dSQhFMp3lYlXUfMW3nq%2BgbAeDhJLUllw%2F8Z0sAvRcKX7UdY9RPGwZtC2Fmxw%0ApjqIG65GNMnElaKJ4qiTY5gACOQ%3D%0A)
+
+### **Gedeelde en gepubliceerde revisies in Catenda site**
+
+Alleen gepubliceerde revisies zijn in Catenda Site zichtbaar.
+
+## **Toegang tot het instellen van statussen**
+
+1. Toegang tot het wijzigen van de documentenstatus instellingen kan vanuit de [projectinstellingen pagina](https://support.catenda.com/en/articles/4670273-project-settings-page) ingesteld wroden:
+
+    <div class="intercom-container"><img height="678" src="https://downloads.intercomcdn.com/i/o/areracg3/1211347568/082eb05dc3b18bf896b0aa148431/image.png?expires=1781092800&amp;signature=d7f11d11f4522d76f1afc39c4fa3c1abcf07d65ea6866337afc4f9aec43ea4a9&amp;req=dSImF8p6moRZUfMW3nq%2BgWPlnxx3jrC6fMrF99grkWaNrp00TWDQdpt0O4gd%0AVlMGdQrCecjFzy0uRBOfB7Z9eqY%3D%0A" style="height: auto;" width="1918"/></div>
+
+1. Documentenstatussen kunnen daarna [ingesteld](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) worden vanuit instellingen in het documentengedeelte.
+
+    <div class="intercom-container"><img height="852" src="https://downloads.intercomcdn.com/i/o/areracg3/1211364420/5d6103d8c487ef0b43f8275be5e3/image.png?expires=1781092800&amp;signature=284c9ac52ff4057d8c2333ea2f752321f7ac99e4db9fe32cf5b00a50a2ab7aa1&amp;req=dSImF8p4mYVdWfMW3nq%2BgSPBqKtQx3mDN2RUxAGHVK4Zm%2BCeuCGeKk2Kpqj6%0Ao7QTpegJSCq1qQ64o2dJOULG6GY%3D%0A" style="height: auto;" width="1918"/></div>
+
+1. Tenslotte kunnen deze documentenstatussen toegewezen worden tot bestandsbeoordeling rechtsbovenaan in het actiemenu in op de [beoordelingspagina](https://support.catenda.com/en/articles/8349340-approvals-page). Het is ook mogelijk om hier een topic sjabloon in te stellen.
+
+    <div class="intercom-container"><img height="532" src="https://downloads.intercomcdn.com/i/o/areracg3/1211362235/ff7ea475a572749cba4247518058/image.png?expires=1781092800&amp;signature=ed641b32ce2b29ed26475385e36b8015832ce0fcc27dc7dd50942cd3942ef84f&amp;req=dSImF8p4n4NcXPMW3nq%2Bgcv5xnTzfFrfmLPu%2Fh%2FbaP0DptD%2Bm8oeC8vRpvPF%0AzFKQmL79JK7RcPLygqoKQ0CoqM4%3D%0A" style="height: auto;" width="1905"/></div><div class="intercom-container"><img height="620" src="https://downloads.intercomcdn.com/i/o/areracg3/1211362345/59c0a70c13879eacc2b08c0db623/image.png?expires=1781092800&amp;signature=9c4b2b7d82aee40c7c1baccfdf0c17735a34889d51b5680e5824f7502d8f4289&amp;req=dSImF8p4n4JbXPMW3nq%2BgQL5wc3pBXVaAiE%2FNNg7wwK7Y9rNWq0G7M1E0M6c%0AgGNJ2NG26plHpZW4oC7Y%2F2YpO2M%3D%0A" style="height: auto;" width="945"/></div>
+
+## **Beoordelingsworkflow**
+
+1. Een beoordelingsaanvraag nomineert een uitgever (persoon die verantwoordelijk is voor het nemen van de uiteindelijke beslissing over de publicatie), en een of meerdere doornemers die verantwoordelijk zijn voor het valideren (of niet) van de reeks met documenten.
+1. Elke doornemener zal beslissen of het gedeelde document goedgekeurt, goedgekeurt met commentaar of afgewezen is.
+1. Aan het einde van de beoordeling zal de uitgever kiezen wat de uitkomst van een goedkeuring is door te kiezen welke documenten gepubliceerd zullen worden.
+1. Vanuit de goedkeuringsinstellingen kunnen topics die met de documenten te maken hebben aangemaakt worden om het proces later bij te houden.
+
+Een gedetaileerde demonstratie van deze stappen zijn in de volgende hanleiding te zien:
+
+[YouTube-video](https://www.youtube.com/embed/lDWKXWTtegU?rel=0)
+
+## **De status workflow deactiveren**
+
+Als u de staus worflow uit wilt zetten kunt u dit doen door de schakelaar in [documenteninstellingen](https://support.catenda.com/en/articles/7831371-document-settings) uit te schakelen. De gepubliceerde en gedeelde tabbladen in het documenten gedeelte zullen dan verdwijnen.
+
+Revisies die geüpload zijn zonder dat de status workflow aan staat zullen als gepubliceerde revisies worden geüpload (alhoewel dit niet zichtbaar is) Bij het activeren van de status workflow zal je deze revisies dan als gepubliceerde revisies zien.
+
+## **Voordelen met het gebruiken van de status workflow**
+
+- Het gepubliceerde tabblad dient als een aangewezen gebied vor contractuele documenten. Projectleden kunnen makkelijk goedgekeurde documenten vinden.
+- Bestanden zijn gevalideerd voor ze gepubliceerd worden.
+- U kunt makkelijker uw indieningsproces op basis van ISO 19650 instellen
+- Coordineren/samenweren op documenten is gescheiden van contractuele documenten.
+- Meerdere gedeelde revisies kunnen gekozen worden en gedownload, in de vorige versie konden concept documenten alleen één voor één gedownload worden.
+- Beperk wat leden in de mobiele app Catenda Site zien.
+
+# IFC Archicad exporteren handleiding
+
+Houd bij het exporteren van een IFC rekening met wat relevant is voor je IFC-export. Het IFC-bestand kan groot zijn en moeilijk om mee te werken als er veel informatie in staat. Daarom is het belangrijk om geen onnodige informatie te exporteren. In dit rapport krijg je verschillende tips om je IFC-export in Archicad te filteren.
+
+Dit artikel bevat informatie over de volgende onderwerpen
+
+**[Project info](#h_8264460e0b) - [Export instellingen](#h_9922ee314c) - [Model filter](#h_138e653078) - [Type mapping](#h_2155aba7d7) - [Geometrie conversie](#h_db084b5d6b) - [Eigenschappen mapping](#h_d48644eb35) - [Gegevens conversie](#h_7f1df4ecb9) - [Eenheid conversie](#h_36caead1cd)**
+
+## Projectinformatie
+
+Voordat je een IFC van je project exporteert, moet je ervoor zorgen dat de projectinfo is geconfigureerd.
+
+De project info kan hier gevonden worden:
+
+`Bestand -> Info -> Project info`
+
+Zo kan de project info eruit zien:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1836931119/c925f37fc292cccb9d4107147316/image.png?expires=1781092800&signature=0b33e6636409e0c7af0a87efe5da4bdbf512ce90156238fc021ccff08d8d7d99&req=dSgkEMB9nIBeUPMW3nq%2BgS%2FUIeMwWK1stokhyX7eRpqqUQMufFYF2Q7QdZpr%0AUjpkCYOiPTEqla620Ilf2CiWFhU%3D%0A)
+
+Standaard zijn de verschillende velden leeg.
+
+Ook al zijn ze leeg, er wordt een unieke id aangemaakt voor elk project, site en gebouw dat in de lijst staat.
+
+In sommige situaties worden meerdere IFC-bestanden geëxporteerd vanuit hetzelfde Archicad-project.
+
+Voorbeelden hiervan zijn:
+
+IFC-bestanden met objecten uit verschillende vakgebieden.
+
+Een MEP-model met leidingen, een architectuurmodel met wanden en een constructiemodel met alle platen.
+
+Meerdere gebouwen
+
+Soms worden meerdere gebouwen samen gemodelleerd binnen hetzelfde Archicad-bestand en wordt voor elk gebouw een aparte IFC geëxporteerd.
+
+Verschillende ontwerpkeuzes.
+
+Wanneer verschillende varianten van een gebouw worden gemodelleerd in hetzelfde Archicad-bestand, wordt elke variant vaak geëxporteerd naar een eigen IFC-bestand.
+
+### De projectinformatie configureren
+
+Of er nu plannen zijn om meerdere IFC-bestanden te exporteren of niet, het is vaak een goed idee om waarden in te voeren in de projectinfo zodat deze later niet hoeven te worden gewijzigd.
+
+De projectinfo is belangrijk om in te vullen omdat het effect heeft op de GUID's van het bestand.
+
+Elk type IFC dat wordt geëxporteerd moet zijn eigen projectinstellingen hebben.
+
+De projectinstellingen kunnen rechtsonder worden geïmporteerd en geëxporteerd.
+
+Op deze manier kunnen meerdere profielen worden ondersteund voor de export van het bestand.
+
+Voor Catenda is het belangrijk dat de IFC's in verschillende modellen verschillende informatie hebben terwijl IFC's die in hetzelfde model komen dezelfde informatie hebben.
+
+## IFC-export instellingen
+
+Om het hele project te exporteren. U moet in 3D-weergave staan. Zorg ervoor dat u de juiste vertaler gebruikt.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271056907/3ed1a2d39b9276705eca2953/image-0.png?expires=1781092800&signature=727a3898f989f68df24662a23ff14957bf59781f3bc27d84f57a5035967a4361&req=dicmFsx4lIFYFb4V1XW4gSsqFAIns%2BLVOCRTS1jsXxQqqssEUzUY2qHudMas%0AwiXzkKrZCxh05B46OxMksUBk8A%3D%3D%0A)
+
+Klik op de knop Opties voor een overzicht van uw IFC-exportinstellingen. Onder model filter kunt u ook kiezen om meer uit te filteren.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271056913/07e3a491c52e1af168324efe/image-1.png?expires=1781092800&signature=5003112051c8e8137b5bd8a0b7928b9d95227b2fe1f992494c057307472e3fe0&req=dicmFsx4lIBcFb4V1XW4gbS3lr63ymIv%2Bs4YYj8FOwEC8e03LRJ%2F1CBZuT%2F3%0A3q1TIGFHJXIvB8QkpSEHWMf08w%3D%3D%0A)
+
+In het vak IFC translators kunt u de instellingen van Translators bekijken of wijzigen, of nieuwe Translators maken.
+
+Als u uw IFC-export wilt aanpassen, is het aan te raden om een van de vooraf gemaakte vertalers te dupliceren, zodat u niet een van de standaardvertalers verknoeit. Dupliceer hier een vertaler:
+
+Klik op nieuw > Dupliceren van > selecteer de vertaler die je wilt dupliceren.
+
+Als je de IFC wilt samenvoegen kun je dat onder dezelfde banner doen.
+
+![image-2.png](https://catenda-as.intercom-attachments-1.com/i/o/271056923/31605f86d13eb419fbb6b898/image-2.png?expires=1781092800&signature=a48f835dcf19dd3d20fafae1efca1ed8b731d7bbda7652f171b36ce73a05c3bb&req=dicmFsx4lINcFb4V1XW4gQA38htLLYIQOAE6xdxWgLSyC37l6Z8dKATf2fdr%0Ae0nMCShTSpN%2BRiDkcmZGbegXzQ%3D%3D%0A)
+
+---
+
+### Verschillende instellingen in de export
+
+1. Met [model filter](#h_138e653078) kun je filteren op wat je wilt exporteren aan de hand van verschillende voorinstellingen.
+
+2. Met [Type mapping](#h_a34c1332a3) kun je kiezen als welk IFC-type elk element wordt geëxporteerd.
+
+3. [Geometrieconversie](#h_db084b5d6b) laat u kiezen wat voor soort geometrie u wilt exporteren.
+
+4. Met [Property mapping](#h_d48644eb35) kunt u criteria instellen op basis van types.
+
+5. Met [gegevensconversie](#h_7f1df4ecb9) kunt u kiezen welke gegevens u wilt exporteren uit het model.
+
+6. Met [eenheidsconversie](#h_36caead1cd) kunt u kiezen welke maateenheden u wilt exporteren in uw IFC.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271056934/9c3eded88c73ec7e25ba4f4c/image-3.png?expires=1781092800&signature=4254158355f2ae65d52a4d2bf021496d0121849c85ee0ea279f94b6244161f56&req=dicmFsx4lIJbFb4V1XW4gfe0uzqiQldsKSXT2h%2FU0X1wYWMro6zFlyz8PDvw%0AQqWqqhwtmS%2BuEGqYeUXFypF0ZA%3D%3D%0A)
+
+---
+
+## 1. Model filter
+
+### Roosters exporteren in de IFC
+
+Soms wil je de rasters ook geëxporteerd hebben om ze in Catenda Hub te kunnen zien.
+
+Ga naar het model filter voor IFC Export en zorg ervoor dat het selectievakje "Grid system and Elements" is aangevinkt.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271056967/a5906d5103e06c85f450f730/image-9.png?expires=1781092800&signature=3a57123c1e36ed368dda2ace93eedada56dfdcdf15dc0758d05956a4b252e149&req=dicmFsx4lIdYFb4V1XW4gdOixTR1uP%2BLnKVfHKCnuIne5TpHJDkHqYAkaNdU%0ASCC8qRvvbFCiGISg7JnUXeSwcw%3D%3D%0A)
+
+---
+
+## 2. Type mapping
+
+Wanneer een IFC wordt geëxporteerd krijgen alle elementen in het model een IFC-type toegewezen.
+
+Als u de IFC-vertaler selecteert die u wilt gebruiken, kunt u vervolgens naar Type mapping gaan en op Map IFC Types for import klikken om te beheren wat voor type mapping u wilt voor uw geëxporteerde IFC.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271056940/57204561a8ccd3176e04d381/image-4.png?expires=1781092800&signature=8b2550d1949b9bcf2166050a67b0157d580cbf7308ffb90554f3424dd1d003dd&req=dicmFsx4lIVfFb4V1XW4gRT3Fi9%2FTyVfVfmhSH8DRamqc%2FFvbJuyRfAk7nhc%0AqQSucfuCAs4ih7jWnNIOcahFzg%3D%3D%0A)
+
+Type mapping heeft voornamelijk verschillende opties om uw IFC-typen op te sorteren.
+
+### Type element
+
+Aan elk element wordt automatisch een IFC-basistype toegewezen. U kunt het toegewezen IFC-type van elk element bekijken in de projectmanager en in de elementinstellingen.
+
+### Classificatie
+
+Deze methode maakt een flexibelere en meer gedetailleerde toewijzing van IFC-typen mogelijk volgens specifieke classificatienormen. Zone- en openingselementen worden ingesteld op een vast IFC-type. IFCSpace en IFCOpeningElements.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271056943/3731267714f7fa4930235354/image-5.png?expires=1781092800&signature=4ac137b61b9aaca454a4d031b64b1b3aaa697ae7457151121487d7eb18d4a218&req=dicmFsx4lIVcFb4V1XW4gaWRyW4wYZJh5THfO3CBEboYzzFw%2Fd1eDlkOJ%2FYT%0AeiJvrhqWfZiO2GWM0q56Mt8alg%3D%3D%0A)
+
+---
+
+## 3. Geometrieconversie
+
+Met Geometry Conversion for IFC Export kunt u uw geometrie op verschillende manieren converteren.
+
+![](https://downloads.intercomcdn.com/i/o/852256533/6acaa196d2acf7499d9aaafa/image.png?expires=1781092800&signature=477ab462c03abaca08a3a1bb95231c979a16c909f98d569a6e25e90855732436&req=fCUlFMx4mIJcFb4V1XW4gbFA7WWR17Jl6uaRn16tGKO80nJZcAqI0Q8myZSQ%0AUi30%2BZpM7YkT%2Bi5%2FWjhulkJmiA%3D%3D%0A)
+
+### Conversie van Archicad-elementen
+
+**Exporteer de geometrie van alle modelelementen als:**
+
+_Parametrisch met uitzonderingen_ - standaard
+
+_BREP_ - Precieze geometrie - als deze optie is geselecteerd, zijn de volgende twee opties ook BREP
+
+**Elementen in Solid Element Operations:**
+
+_Extruded/revolved_ - standaard
+
+_BREP_ - precieze geometrie
+
+Elementen met kruisingen
+
+Sommige elementen kunnen snijden met andere elementen die delen van de extrusie kunnen afsnijden.
+
+_Extruded/revolved_ - Hoeken van elementen verbinden Dit voegt knooppunten toe aan je geëxtrudeerde elementen.
+
+Met deze optie zul je zien dat elementen zoals muren of daken, vooral schuine, mooi zullen aansluiten.
+
+_Extruded/revolved zonder verbindingen_ - standaard - Hierdoor verloopt het exporteren sneller
+
+Als je elementen hebt met een hoek van 90 graden, zoals muren of daken, zul je waarschijnlijk geen verschil merken met deze optie. Als u schuine wanden hebt, zult u merken dat in de hoek waar de wanden op elkaar aansluiten, in plaats van het overschot van de rechte extrusie weg te snijden, de wanden gewoon recht langs elkaar gaan en niet mooi op elkaar aansluiten.
+
+_BREP_ - Precieze geometrie
+
+Parametrische elementen
+
+Archicad elementen kunnen worden geëxporteerd als parametrische geometrie, vaak in de vorm van hulplijnen die op afstand worden geëxtrudeerd. Parametrische geometrie maakt het eenvoudig om het object te bewerken nadat het gemaakt is. Hoewel deze optie de bewerkbaarheid behoudt, kan de geometrie vaak wat onnauwkeurig zijn omdat de definitie een benadering is van de geometrie.
+
+Deze optie wordt aanbevolen als u van plan bent de IFC terug te importeren in Archicad of een ander bewerkingsprogramma om verdere bewerkingen uit te voeren.
+
+BREP Exporteer geometrie als afzonderlijke BREP-vlakken. In plaats van de objecten te beschrijven aan de hand van parameters zoals lengte/diepte/hoogte met surfaces als resultaat, wordt elk surface beschreven als een afzonderlijk surface met een locatie in 3D. Objecten kunnen nog steeds meerdere surfaces bevatten, maar dit zullen losse surfaces zijn. Na het exporteren van BREP moeten surfaces individueel worden bewerkt omdat parameters niet langer worden toegepast op de surface.
+
+Met de BREP-optie worden exacte surfaces geëxporteerd, zodat er geen ruimte is voor verschillen in interpretatie van parameters tussen authoring tools.
+
+Oppervlakken worden individueel gekleurd en zullen in Catenda Hub dezelfde kleur hebben als in Archicad.
+
+Oppervlaktekleuren kunnen worden geconfigureerd in het volgende menu:
+
+`Opties -> Element attributen -> Oppervlakken`
+
+Het kan goed zijn om alle instellingen voor een surface te configureren omdat ze in de IFC worden geschreven.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1656700908/3bd28cde47ebdf76d515377ffdac/image.png?expires=1781092800&signature=a79042b2f4388244568ed5fc0b5591c6af0739ee814d8864881215920abc97d5&req=dSYiEM5%2BnYhfUfMW3nq%2BgUVMy2t5vk1CGatFRCfRSjmO%2FC38srSbEn9T1AdV%0AXvQXaA2M4J78l%2FW%2BbOgOVoSJo5s%3D%0A)
+
+Oppervlakken in de Catenda 3D viewer hebben een vlakke arcering zonder dat er een lichtbron aanwezig is. Dit betekent dat waarden als Ambient, Attenuation, Shinyness, Emission en Specular niet worden geïnterpreteerd wanneer het oppervlak in de Catenda 3D viewer wordt bekeken. De volgende waarden worden door Catenda geïnterpreteerd wanneer het oppervlak in de 3D viewer wordt weergegeven:
+
+Kleur oppervlak
+
+De kleur van het oppervlak
+
+Overbrenging
+
+Hoeveel je door het object kunt zien (Overruled de doorschijnende opaciteit instelling)
+
+Diffuus
+
+Hoe donker of helder de kleur van het oppervlak is
+
+**IFC-modelpositie definiëren door:**
+
+Deze optie bepaalt de projectlocatie.
+
+Het is belangrijk om al in het begin een gemeenschappelijk coördinaatpunt overeen te komen als referentiepunt voor het project, omdat dit kan betekenen dat meerdere consultants hun objecten moeten verplaatsen, wat tegen het einde van een project vaak niet haalbaar is.
+
+Meetpunt en project oorsprong - standaard
+
+Met deze optie is de afstand van (0,0,0) tot uw model in Archicad gelijk aan de afstand van (0,0,0 + coördinaten van uw meetpunt) tot uw model in Catenda Hub + de afstand van (0,0,0 + coördinaten van uw meetpunt) tot uw model in Catenda Hub
+
+Als je een projectlocatie hebt ingesteld zal je model op die coördinaten in Catenda Hub terechtkomen
+
+Alleen project oorsprong
+
+Met deze optie wordt de afstand van (0,0,0) tot uw model in Archicad de afstand van (0,0,0) tot uw model in Catenda Hub.
+
+Alleen landmeetpunt
+
+Met deze optie wordt de afstand van het landmeetpunt in Archicad tot uw model gelijk aan de afstand van (0,0,0) tot uw model in Catenda Hub
+
+### IFC Schema gerelateerde opties
+
+**Modus materiaalbehoud (alleen IFC2x3)**
+
+- Explodeer nooit elementen, behoud is niet gegarandeerd
+
+Met deze optie exporteer je het hele object als één object
+
+- Explodeer alleen als het nodig is om materialen te behouden - Standaard
+
+Met deze optie exporteert u alleen aparte objecten voor elk samengesteld materiaal indien nodig
+
+- Explodeer alle elementen in delen, behoud materialen
+
+Met deze optie worden alle objecten geëxporteerd als afzonderlijke objecten voor elk materiaal
+
+Als je een samengesteld wandmateriaal hebt, betekent dit dat er voor elk materiaal een apart object wordt geëxporteerd.
+
+Vaak heb je een dampscherm van 1-5 mm, wat resulteert in een zeer dun object.
+
+Wanneer objecten zo dun zijn, kan de geometrie onnauwkeurig zijn.
+
+Problematische wandmaterialen kunnen er ongeveer zo uitzien:
+
+![](https://downloads.intercomcdn.com/i/o/1081851011/f299a5efe75792604e232f1e/image.png?expires=1781092800&signature=4e5bd2fc5b5a425217c5a10336a579578dbeb66300d566bb3a1904e44fbe7fd0&req=dSAvF8F7nIFeWPMW3nq%2BgQHJk%2FcTXuZhurrDgjjRlo8WQINdlX%2Fot4EpHXfb%0AHq%2B946vaAfTcPCXm3FcsVCYgn0E%3D%0A)
+
+Dit kan het voor software moeilijk maken om gaten door het oppervlak te snijden, omdat de onnauwkeurigheid het moeilijk maakt om precies vast te stellen waar het gat moet komen.
+
+Als je daarom merkt dat je openingen niet worden doorgesneden, kan het helpen om deze optie aan te zetten.
+
+Als je deze optie inschakelt, wordt de wand geëxporteerd als één enkel object in plaats van vele dunne samengestelde objecten.
+
+### Samengestelde constructies en complexe profielen
+
+**Complexe bouwelementen opsplitsen in delen**
+
+Hier kun je kiezen voor welke type elementen je wilt dat het samengestelde element wordt opgesplitst en voor welke niet.
+
+Als je deze optie kiest, kun je geen keuze maken voor de modus voor materiaalbehoud.
+
+---
+
+## 4. Eigenschappen toewijzen
+
+Binnen property mapping (File > IFC > Interoperability > Property Mapping) kun je kiezen wat voor soort versie van IFC je wilt exporteren. je hebt de standaard IFC2x3 en de standaard IFC4. Je kunt ook psets toevoegen om te exporteren met je IFC. Als u dit doet, moet u een duplicaat maken van het IFC-schema dat u kiest.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271056948/23de75ed67ebb8120f9ef63d/image-6.png?expires=1781092800&signature=2314c41343dba2f942862c4fb165cc070dcfa98658050e223df6a2fe8cecd606&req=dicmFsx4lIVXFb4V1XW4gX0eUSHQutujQy5PjUI1pttrN6jFy0gn5Wmw5l2r%0AvnVe595gd%2F5OcH05ksfM1MFdjA%3D%3D%0A)
+
+Nadat je een duplicaat hebt gemaakt van je standaard IFC kun je de gewenste eigenschappen toevoegen aan die nieuwe preset door het IFC schema te selecteren en te klikken op _Map IFC Properties for Export_.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271056955/8fd00cf142ae8d45a0fb7df1/image-7.png?expires=1781092800&signature=e66c9d5f53bbfae153da829dffb45bc582bc112cc3198628772d8798ecf6aabf&req=dicmFsx4lIRaFb4V1XW4gct4hmNJw3Cxmyiu4iXSGkjI8COu4X1sCPk6Gl1D%0AoF5KclTEvV0MOwQ%2BOYYH9OHrDw%3D%3D%0A)
+
+---
+
+## 5. Gegevensconversie
+
+Onder gegevensconversie selecteert u wat voor soort gegevens naast geometrie u uit uw IFC-export wilt halen. vink de vakjes aan van wat u wilt exporteren.
+
+Element parameters leest de Archicad elementparameter en converteert deze naar IFC grootheden of IFC eigenschappen. Afhankelijk van hun type. Door deze optie te kiezen neemt de bestandsgrootte aanzienlijk toe.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271056963/bf0e775372c6fc6418e2727a/image-8.png?expires=1781092800&signature=7ae773823614711d50cdd4f7780fab8d8cc35ab2e7acad5a5c0474d4a31c0b92&req=dicmFsx4lIdcFb4V1XW4geoCNQZckbiMZP52Jc8%2BroBx3DCAZ7qhaLrtGOkQ%0AFPsbhSQya9mPEkHsU%2FfnXUXAaA%3D%3D%0A)
+
+IFC Base Quantities leest de parameters van grootte, oppervlakte en volume. Als je dit vakje niet aanvinkt kan het zijn dat je problemen krijgt met het importeren van je IFC in Catenda Hub.
+
+## 6. Eenheid Conversie
+
+Stel de eenheden Lengte, Hoek, Oppervlakte, Volume, Valuta en Tijd in voor je export.
+
+# Gereedschapskist voor berichtopmaak
+
+> Hoe velden waarin berichten kunnen worden geplaatst kunnen worden opgemaakt
+
+Dezelfde opmaakregels gelden voor de verschillende berichten in Catenda Hub.
+
+Berichten kunnen onderwerpbeschrijvingen, opmerkingen, goedkeuringsbeschrijvingen en goedkeuringscommentaren bevatten.
+
+Variaties kunnen van toepassing zijn met de verschillende toegang tot wie het bericht kan bewerken.
+
+Catenda gebruikt markdown om tekst op te maken.
+
+Dit betekent dat bepaalde tekens voor en na zinnen de opmaak van de tekst beïnvloeden.
+
+Dit is hoe een onderwerkop en beschrijving er uit kunnen zien nadat ze zijn ingediend:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142853925/ac356cf8aa82ab2d579f021fbb5a/image.png?expires=1779991200&signature=db379701aa782a795d0715249d2e131838f324a1adc1df5c4f091de05493201d&req=diEjFMF7nohdXPMW3nq%2BgeO5Gu4QTVbwiyiagSAGJYRM3jg%2FjBE06qW2yxJo%0Ah8KhRqQ6FpjyJBQAessFwOYLWgY%3D%0A)
+
+De volgende onderwerpen zullen in dit artikel worden beschreven:
+
+_[Beschikbaarheid](#h_59aa7a2e3d) - [Bijlage](#h_d1bcf0c9b0) - [Tekst opmaken](#h_b3cf161d9b) - [Tekst opsplitsen en structureren](#h_b0799ba17b) - [Leden/teams vermelden](#h_2481ad1c8c) - [Onderwerpen labelen](#h_282be07cfd)_
+
+## Beschikbaarheid van opmaak
+
+Het is vaak mogelijk om te zien dat ingediende velden kunnen worden opgemaakt door de gereedschapskist die onder het veld verschijnt wanneer het veld wordt bewerkt.
+
+> **Opmerking:** Zoom ver genoeg uit met de browserzoombalk om alle gereedschappen te zien. Opmaak is beschikbaar in de volgende velden:
+
+### **Onderwerpbeschrijving en opmerking**
+
+Bewerk de beschrijving of opmerking van een bestaand onderwerp of dien een nieuw onderwerp in om de gereedschapskist te zien:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142716774/e00776f86b3e5961148459c33a7b/image.png?expires=1779991200&signature=0e22d9a262f6ec8cc9ffd59b884be7ed21d8b5d927709293d35243a523fd2783&req=diEjFM5%2Fm4ZYXfMW3nq%2BgbCbYvmyhkqzs2jDl1gilk2Cc6xR6QmhVhC4KlhS%0ACdo6DkIGE0Ixwn%2FSMNbyKzybwrM%3D%0A)
+
+### **Goedkeuringsverzoeking beschrijving**
+
+Hoewel de gereedschapskist niet verschijnt in de beschrijving van het nieuwe goedkeuringsverzoekdialoogvenster, wordt opmaak wel op deze beschrijving toegepast.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142756009/c685a2145d819c521e9b89301e28/image.png?expires=1779991200&signature=a1394fe4b4d02e17d42e3e01c374d3f6632eb7073f1ffaaf21967e4f1f1de396&req=diEjFM57m4FfUPMW3nq%2BgXv%2FXso50VfU4OEek4DqeluKvN6IUb%2Fs7og0Rhc8%0A48b%2B0%2BiwKq5dFttZGJQJHxTwIPc%3D%0A)
+
+> **Opmerking:** Dit veld kan niet worden bewerkt nadat het goedkeuringsverzoek is ingediend.
+
+### Onderwerpbord beschrijving
+
+Hoewel de gereedschapskist verschijnt in de beschrijving van het nieuwe onderwerpbord, is het belangrijk op te merken dat de beschrijving niet wordt opgemaakt wanneer het bord wordt ingediend.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142743765/402182e2f1338dc3fb1929bba3cb/image.png?expires=1779991200&signature=d602bee7f2778397607b0ba3230f11c8c54bd3d37fc0c145263106ffbf43ccdd&req=diEjFM56noZZXPMW3nq%2BgWTJvB12fwkzGWwhaz5DPXa%2BsBXBYBDmT0SxeF%2Fe%0ASdziSiIf%2B5qLx8pvhZlyvl%2BRq40%3D%0A)
+
+## **Onderwerpopmerking bijlage**
+
+In onderweropopmerkingen is een bijlagegereedschap zichtbaar.
+
+Klik de +-knop in een onderwerp om een bijlage toe te voegen.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142827695/c7a30545e080d9d0bd9ee89cb50f/image.png?expires=1779991200&signature=f5f9fdcc7584b990c376a7c8977c5073d5bfff6da9fcd6b1a4dacb22367b612a&req=diEjFMF8modWXPMW3nq%2BgfoJa9V%2FF6CobGabe6rQFCVQI2kDswJq%2FdteSPD8%0Amh%2B8dJM45JEwNUzv7TnCV76TSTo%3D%0A)
+
+Klik [hier](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae) voor meer informatie over opmerking bijlagen.
+
+## **Tekst opmaken**
+
+De volgende methoden stellen u in staat uw tekst op te maken:
+
+_[Vet, cursief, doorgehaald](#h_c33379258a) - [Koppen](#h_ffb58d98de) - [Koppelingen](#h_4e7260972a) - [Opmaak voorkomen](#h_2ec17c688b)_
+
+### **Vet, cursief, doorgehaald**
+
+Vet, cursief en doorgehaalde opmaak kunnen overal op een regel worden gedaan en werken goed samen met andere opmaakopdrachten die aan het begin van een regel moeten staan. <img alt="**Dit wordt vet** **Dit wordt ook vet** _Dit wordt cursief_ _Dit wordt ook cursief_ **Dit wordt vet _gecombineerd met cursief_** ~~Deze tekst wordt doorgehaald~~" src="https://downloads.intercomcdn.com/i/o/areracg3/2142792258/413abae1f84003541985e219ba6a/image.png?expires=1774980000&amp;signature=2d6fe37d7b6194387af9777ef3fff90661568c1f4c9c671432a579a2eb3326f5&amp;req=diEjFM53n4NaUfMW3Hu4gT%2BWlpelLC%2FZyeDdX1yNHeLbkkEA7t04WYWBkBTX%0A2w%3D%3D%0A" width="290"/>   \<->   <img alt="Dit wordt vetDit wordt ook vetDit wordt cursievDit wordt ook cursievDit wordt vet gecombineerd met cursievDeze tekst wordt doorgehaald" src="https://downloads.intercomcdn.com/i/o/areracg3/2142795125/2e54ab8ee52b65dc4705ce317a46/image.png?expires=1774980000&amp;signature=49a7d42096c9d732940db393c57d4c7f51d3675b98a4bc93ba2e4d2977de9468&amp;req=diEjFM53mIBdXPMW3Hu4gZqcrM4jhw7heqMaiz7UXJrKgwDtxdXRZOmHVQh5%0A%2Bw%3D%3D%0A" width="290"/>
+
+### **Koppen**
+
+Het kopgereedschap voegt hashtags/poundtekens toe aan het begin van de regel.
+
+Er worden 5 niveaus van koppen ondersteund:
+
+De opmaak die de kop ontvangt, is afhankelijk van het aantal hashtags/poundtekens (`#`) aan het begin van de regel. <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/2142774211/4d966269824f2314e3685bf574d2/image.png?expires=1774980000&amp;signature=deb6ed14712f57d0d4b0c53ec1279375556850bf32c8840e20badb8d373516f3&amp;req=diEjFM55mYNeWPMW3Hu4gYpCJPwCMzegJvhdZHHTxaYqo1q9T5nZ7c27Xhfd%0A9g%3D%3D%0A" width="290"/>   \<->   <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/2142782676/88eae0f146164d95cf6bc94bb9d9/image.png?expires=1774980000&amp;signature=41447ae0185c19ef09c816795ecb067042f94fcc6a970d0590590458ea2848e5&amp;req=diEjFM52n4dYX%2FMW3Hu4gXMRNm2JOBxeB8KI3qP4itWZAkDmJ%2BtQeqYn168Q%0AwQ%3D%3D%0A" width="290"/>
+
+### **Koppelingen**
+
+Koppelingsopmaak kan overal op een regel worden gedaan en werkt goed samen met andere opmaakopdrachten die aan het begin van een regel moeten staan.
+
+Koppelingen in beschrijvingen zijn groen en onderstreept.
+
+Hun tekst kan anders zijn dan de URL waarnaar de koppeling verwijst.
+
+URL's worden automatisch in klikbare koppelingen omgezet
+
+```
+https://hub.catenda.com
+```
+
+wordt
+
+[https://hub.catenda.com](https://hub.catenda.com)
+
+en
+
+```
+[Catenda Hub](https://hub.catenda.com)
+```
+
+wordt:
+
+[Catenda Hub](https://hub.catenda.com)
+
+> **Opmerking:** Wees voorzichtig met het klikken op koppelingen, want hoewel de tekst [uit de vierkante haakjes] misschien een koppeling toont, kan de werkelijke koppeling (uit de ronde haakjes) anders zijn. Het is aanbevolen om over een koppeling te zweven en te kijken waar de browser naartoe zal doorsturen voordat u op een koppeling klikt.
+
+### **Opmaak voorkomen**
+
+Door woorden in niet-letter- of getal tekens in te pakken, kunt u ze anders laten zien.
+
+Dit is niet altijd gewenst.
+
+Als u een `\\` voor zo'n teken zet, verdwijnt de `\\`.
+
+Alle opmaakopdrachten die voor deze tekens zouden zijn toegepast, werken dan niet meer.
+
+Als u een `\\` op een lege regel plaatst die niet onderdeel is van een [lijst](#h_6da4949f8c), blijft het resultaat ook een lege regel.
+
+## **Tekst opsplitsen en structuur toevoegen**
+
+Met de volgende methoden kunt u uw tekst verbeteren door deze op te splitsen en structuur toe te voegen:
+
+_[Afbeeldingen](#h_addf8ad509) - [Lijsten](#h_6b17294b71) - [Scheidingslijnen](#h_fdecb8577b) - [Selectievakjes](#h_d0007452e5) - [Tabellen](#h_20306a720d) - [Codeblokken](#h_0ca602daeb) - [Markdown](#h_750fef10e8)_
+
+### **Afbeeldingen**
+
+Afbeeldingen in beschrijvingen kunnen een koppeling aan zich hebben.
+
+Om afbeeldingen in te voegen kunt u deze syntaxis gebruiken
+
+```
+![text](https://bimsync.com/img/favicon/dark-mode/favicon-32x32.png)
+```
+
+om deze afbeelding met het woord text erachter te krijgen.
+
+![text](https://downloads.intercomcdn.com/i/o/771763976/bbed60dfcfa022fd26770bb1/faviconV2.png?expires=1779991200&signature=9b05330d32d2ade5b70422cc84942dffa276d43efb8a48972f30cc0278d591fe&req=cycmEc99lIZZFb4V1XW4gaTV8ABi7RF2xk92u6a%2BtkN3rtUWh3uSMnp1R6NF%0ASJXjyML2HaJAl9pSz4Covc8%2Bew%3D%3D%0A)
+
+Opdat de afbeelding correct wordt weergegeven, moet Catenda toegang hebben tot de opgegeven koppeling.
+
+> \+ De afbeelding kan aan een beschrijving worden toegevoegd \+ De afbeelding kan met tekst worden gemengd zodat u zowel voor als na de afbeelding in dezelfde opmerking of beschrijving tekst kunt hebben. \+ Afbeeldingen zoals deze kunnen worden gecombineerd met tabellen en lijsten. U kunt bijvoorbeeld een vinkje-afbeelding in het midden van een zin/tabel toevoegen in plaats van het opmaakselectievakje dat alleen aan het begin van een zin werkt \- U kunt niet garanderen dat de koppeling naar de afbeelding in de toekomst beschikbaar blijft. _Catenda-afbeeldingsdocumentkoppeling verkrijgen_ Als u met de rechtermuisknop op de [downloadactiebun klikt nadat u een document hebt geselecteerd](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) of met de rechtermuisknop op de [nieuwste revisie-downloadactieknop klikt nadat u een document hebt geopend](https://support.catenda.com/en/articles/9323521-actions-in-a-document), kunt u de downloadkoppeling van het document kopiëren. Als u deze koppeling in uw onderwerp gebruikt zoals hierboven, kunt u Catenda-documenten in onderwerpen gebruiken. \+ Als u een koppeling naar een Catenda-afbeeldingsdocument toevoegt, kunt u afbeeldingen toevoegen die alleen op Catenda worden weergegeven en niet beschikbaar zijn op andere platforms waar het onderwerp mee kan worden uitgewisseld. \+ Door koppelingen naar een Catenda-afbeeldingsdocument toe te voegen, kunnen alleen personen met toegang tot het document de afbeelding zien. \- Als u een koppeling naar een Catenda-afbeeldingsdocument toevoegt, is dit niet zichtbaar op andere platforms waarmee het onderwerp mogelijk is gesynchroniseerd en voor personen die geen toegang tot het document hebben.
+
+### **Lijsten**
+
+_Ongeordende lijsten _
+
+Start een ongeordende lijst met een lege regel erboven, gevolgd door een koppelteken (`-`), plus (`+`) of sterretje (`\*`) gevolgd door een spatie.
+
+Voeg 4 spaties of een tabteken aan het begin van de regel in om een sublijst te maken.
+
+```
+ - Eerste element - Tweede element     - Voeg 4 spaties aan het begin van de regel in om een sublijst te maken.
+```
+
+Of
+
+```
+ + Eerste element + Tweede element     + Voeg 4 spaties aan het begin van de regel in om een sublijst te maken.
+```
+
+Of
+
+```
+ * Eerste element * Tweede element     * Voeg 4 spaties aan het begin van de regel in om een sublijst te maken.
+```
+
+Dit zal allemaal in het volgende veranderen:
+
+- Eerste element
+- Tweede element
+  - Voeg 4 spaties aan het begin van de regel in om een sublijst te maken.
+
+> \_\*Opmerking: \_\*Opdat een ongeordende lijst correct kan worden opgemaakt, moet er een lege nieuwe regel boven de lijst staan. _Geordende lijsten _ Start een geordende lijst met een lege regel erboven, een getal, een punt en een spatie (`1. `) Wat het getal ervoor is, doet er niet toe, als het maar een getal is gevolgd door een punt. Voeg 4 spaties of een tabteken aan het begin van de regel in om een sublijst te maken.
+
+```
+1. item een 2. item twee 3. item drie     4. item vier
+```
+
+Of
+
+```
+1. item een 1. item twee 1. item drie     1. item vier
+```
+
+Of
+
+```
+1. item een 10. item twee 1. item drie     1000. item vier
+```
+
+Dit zal allemaal in het volgende veranderen:
+
+1. item een
+2. item twee
+3. item drie
+   4. Item vier
+
+> \_\*Opmerking: \_\*Opdat een geordende lijst correct kan worden opgemaakt, moet er een lege nieuwe regel boven de lijst staan. Het getal waarmee u begint, heeft geen invloed op waar de nummering begint
+
+```
+23. drieëntwintig 1. vierentwintig 1. vijfentwintig     1. zesentwintig
+```
+
+Dit zal veranderen in:
+
+1. drieëntwintig
+2. vierentwintig
+3. vijfentwintig
+   4. zesentwintig
+   Als u de nummering opnieuw wilt instellen en op een tweede lijst binnen hetzelfde bericht vanaf één wilt beginnen, kunt u een lege regel of een [scheidingslijn](#h_3a36cfbc61) ertussen plaatsen.
+   Om [ervoor te zorgen dat de lijst niet wordt opgemaakt](#h_2ec17c688b) zodat u uw eigen nummering kunt gebruiken:
+   Plaats een teken op de regel boven de lijst. Een goede keuze is `\\` omdat deze zal verdwijnen.
+
+```
+\23. drieëntwintig 24. vierentwintig 25. vijfentwintig     26. zesentwintig
+```
+
+Plaats een backslash (`\\`) voor de punt (`.`):
+
+```
+23\. drieëntwintig 24\. vierentwintig 25\. vijfentwintig     26\. zesentwintig
+```
+
+Dit zal allemaal veranderen in:
+
+23. drieëntwintig
+24. vierentwintig
+25. vijfentwintig
+26. zesentwintig
+
+### **Scheidingslijnen**
+
+## Drie streepjes `---` of meer op hun eigen regel maken een scheidingslijn:
+
+### **Selectievakjes**
+
+Deze kunnen worden gecontroleerd in de beschrijving van een onderwerp.
+
+_Vereiste toegang:_ Schrijftoegang tot het onderwerpbord.
+
+```
+- [ ] eerste item - [x] tweede item     - [ ] sublijstiteem
+```
+
+Dit zal veranderen in:
+
+![](https://downloads.intercomcdn.com/i/o/771723650/68ecca535a3773ab421c8ee7/image.png?expires=1779991200&signature=d23a7a806497626ab4118fb6bb2fd6d2d7d924651c7b83e3b0f63dc59f6999da&req=cycmEct9m4RfFb4V1XW4gYbX9iNJlq8uvamOj0lm8O%2BSpB%2FOvxnFm%2BlJkvq2%0AR1uxxveWd8ZBGh4U6IBmZc0a%2FQ%3D%3D%0A)
+
+Klik [hier](https://support.catenda.com/en/articles/5036461-check-lists-within-issues) om een snelle video te kijken over hoe selectievakjes kunnen worden gebruikt in het project.
+
+Als u ` - [ ]` of `- [x]` schrijft, blijft het vak ongecontroleerd en gecontroleerd wanneer de opmerking wordt ingediend of na bewerking wordt opgeslagen.
+
+_Selectievakjes in opmerkingen_
+
+In opmerkingen kunnen selectievakjes alleen door opmaak worden gecontroleerd.
+
+Selectievakjes in opmerkingen kunnen niet worden aangeklikt om te worden gecontroleerd.
+
+_Vereiste toegang -_ De opmerking-maker heeft toegang tot het bewerken van de gemaakte opmerking
+
+### **Tabellen**
+
+Tekst in beschrijvingen kan in tabellen worden georganiseerd.
+
+```
+|            | Windows            ||             | |            | Type 1   | Type 2   | Sum totaal   | |----------- | -------- | -------- | ----------- | | **Prijs**  | 500,-    | 400,-    |             | | **Hoeveelheid** | 10       | 4        |             | | **Som**    | 5 000,-  | 1 600,-  | **6 600,-** |
+```
+
+resulteert in dit
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p class="no-margin"></p>
+</td><td><p class="intercom-align-right no-margin">Win</p></td><td><p class="no-margin">dows</p></td><td><p class="no-margin"></p>
+</td></tr><tr><td><p class="no-margin"></p>
+</td><td><p class="no-margin">Type 1</p></td><td><p class="no-margin">Type 2</p></td><td><p class="no-margin">Sum totaal</p></td></tr><tr><td><p class="no-margin"><b>Prijs</b></p></td><td><p class="no-margin">500,-</p></td><td><p class="no-margin">400,-</p></td><td><p class="no-margin"></p>
+</td></tr><tr><td><p class="no-margin"><b>Hoeveelheid</b></p></td><td><p class="no-margin">10</p></td><td><p class="no-margin">4</p></td><td><p class="no-margin"></p>
+</td></tr><tr><td><p class="no-margin"><b>Som</b></p></td><td><p class="no-margin">5 000,-</p></td><td><p class="no-margin">1 600,-</p></td><td><p class="no-margin"><b>6 600,-</b></p></td></tr></tbody></table></div>
+
+### **Codeblokken**
+
+U kunt als volgt enkele coderregels invoegen:
+
+Twee `\`` omringende tekst ziet er als volgt uit:
+
+![](https://downloads.intercomcdn.com/i/o/771793825/fd17ce2b39f52f9d01f04e3c/image.png?expires=1779991200&signature=25e222958c350bf2b7205a8ff753aeb9905b00d38e3fe2bebfe3e7b253f7e372&req=cycmEcB9lYNaFb4V1XW4ga945tc2cSgx7AwGMqNa4RYE5ngLVI0srv3KI1sb%0Anc%2B9snPi07Ah5Cq4T7IsDwcf4Q%3D%3D%0A)
+
+Drie backticks `\`\`\`` boven en onder een stuk tekst ziet er als volgt uit:
+
+![](https://downloads.intercomcdn.com/i/o/771797280/ee27c00beca127bdbb17fe31/image.png?expires=1779991200&signature=8a5803984027930c02cf74d937068874ce0e3c42486dd1b44471fd8d8c5c8e21&req=cycmEcB5n4lfFb4V1XW4gRbAB%2FlKj74sF5Ju%2Bfd8vDzdBPr6Lkw5CuUdhrZR%0AkT1tBG%2Fu8ZVbYmzQ96APqjkT5g%3D%3D%0A)
+
+Het is niet mogelijk tabellen in codeblokken toe te voegen
+
+### **Markdown dialect**
+
+Als u meer wilt weten over hoe tekst in opmerkingen en beschrijvingen wordt opgemaakt, gebruiken we het markdown dialect "flexmark" om deze tekst op te maken.
+
+Meer informatie over flexmark vindt u op hun [github-pagina](https://github.com/vsch/flexmark-java).
+
+## **@ Vermelde leden en teams**
+
+Klik op het `@`-gereedschap of schrijf `@` in een beschrijving of opmerking om een lid te vermelden.
+
+Na het typen van `@` wordt een vervolgkeuzelijst met leden en teams weergegeven.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2102724602/dfd63733158f932a304596decf84/image.png?expires=1779991200&signature=266a7840bf95b8b253ec385b2f655a8f49bdec2f03f681715a2184b5321bc158&req=diEnFM58mYdfW%2FMW3nq%2BgQgVJSLkSxRSadTEPadiZdNpnB391hNKmHZ5LqXx%0AJCj3xsiGglM4P1a7sLfHtZH61EM%3D%0A)
+
+Door te beginnen met het e-mailadres, lidnaam of teamnaam te typen, kunt u door de lijst zoeken.
+
+Ga omhoog en omlaag in de lijst met de pijltoetsen en klik of druk op Enter om een lid of team te selecteren.
+
+Opdat een lid of team in deze lijst wordt weergegeven, moet het lid of team minstens leestoegang tot het onderwerpbord hebben.
+
+Na het selecteren van een lid of team in de lijst krijgt de `@` extra tekst die er als volgt uit kan zien:
+
+`@[\<email address of member>]` of `@[\<Team name>]`
+
+### **Het opslaan of indienen van een vermelding in een onderwerp**
+
+Wanneer de beschrijving wordt opgeslagen of de opmerking wordt ingediend, ontvangen gerelateerde leden met toegang tot het onderwerpbord een melding.
+
+Als het e-mailadres van het lid of de naam van het team bekend is, kan het ook handmatig worden geschreven, maar als ze geen onderdeel zijn van het onderwerpbord, worden gerelateerde leden niet op de hoogte gesteld dat ze worden vermeld.
+
+_Melding bij vermelding van lid_
+
+Leden met toegang tot het onderwerpbord die worden vermeld, ontvangen een melding dat ze in een onderwerp worden vermeld.
+
+_Melding bij vermelding van team_
+
+Leden met toegang tot het onderwerpbord die deel uitmaken van een team dat wordt vermeld, ontvangen een melding dat een team waarvan zij deel uitmaken in een onderwerp wordt vermeld.
+
+_Meldingen over toekomstige onderwerpgebeurtenissen_
+
+Leden van teams die in onderwerpen beschrijvingen en opmerkingen worden vermeld, ontvangen alleen de ene melding na de opgeslagen beschrijving of ingediende opmerking.
+
+Naast de melding dat zij worden vermeld, worden leden die in berichten worden vermeld automatisch ingesteld op [volgen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) het onderwerp en ontvangen zij meldingen over onderwerpgebeurtenissen zoals nieuwe opmerkingen en statuswijzigingen.
+
+Dit is een geweldige manier om ervoor te zorgen dat niet alleen de [toegewezen persoon](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) en [aanvrager](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7) meldingen krijgen over toekomstige wijzigingen een onderwerp.
+
+Als een lid het onderwerp niet meer wil volgen, moet het dit handmatig niet volgen.
+
+### **Vermelding in bericht**
+
+Vermeldingen in berichten kunnen worden herkend aan de groene tekstkleur.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2102770866/23a219c6303ae2c3ea3167ea8839/image.png?expires=1779991200&signature=dc54372f275beb9d6b9f58eef6364046025ccb05f18518fc1e8b56576f8e78ec&req=diEnFM55nYlZX%2FMW3nq%2Bgc6BCXnvU1Bkq3F79VNCulbUfUkNi0%2FhK1QXHGmC%0AYCoFipDW17p1vsYnR4usRrYZ%2FUo%3D%0A)
+
+In de achtergrond wordt de unieke ID van de vermelde projectdeelnemer opgeslagen.
+
+Het is de naam van de deelnemer die in deze groene tekst wordt weergegeven.
+
+Zelfs als het lid of team van naam verandert, blijven ze in het bericht genoemd, maar onder hun nieuwe naam.
+
+Vermelde leden hebben een klikbare koppeling die naar de [ledenpagina](https://support.catenda.com/en/articles/8228836-member-page) van dat lid verwijst.
+
+Vermelde teams hebben een klikbare koppeling die naar de [teampagina](https://support.catenda.com/en/articles/7891755-team-page) van dat team verwijst.
+
+_Niet-bestaand lid_
+
+Als er geen lid in het project is met het e-mailadres dat wordt vermeld, ziet het bericht er als volgt uit:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2102805445/b2e3443410ea96885a2d85676dee/image.png?expires=1779991200&signature=d64e4fdacb46dba5067b67f2b53dcb3371157a4c792de007bdcd5790b6455038&req=diEnFMF%2BmIVbXPMW3nq%2BgV2%2BX4QvdVlKUmPY0wchlEm3gW%2FQgNf9nrFfqLi1%0ASRk1H9bn2Dppn%2B4cO%2F3q%2Bp1QwFE%3D%0A)
+
+Dit kan gebeurd zijn omdat het e-mailadres onjuist is opgemaakt of omdat het lid niet langer deel uitmaakt van het project.
+
+Als een lid met dit e-mailadres in de toekomst deel gaat uitmaken van het project, verandert het bericht om de naam van dat lid weer te geven.
+
+_Niet-bestaand team_
+
+Als een team uit het project is verwijderd en er wordt een nieuw team aangemaakt, wordt dit nieuwe team niet vermeld.
+
+Om het nieuwe team te vermelden, moet het bericht opnieuw worden ingediend.
+
+## **# Gelabelde onderwerpen**
+
+Klik op het `#`-gereedschap of schrijf `#` in een beschrijving of opmerking om een onderwerp te labelen.
+
+Na het typen van `#` wordt een vervolgkeuzelijst met onderwerpen van alle onderwerpborden weergegeven.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2102803413/752177c9a293de34a6bd9c7c4d36/image.png?expires=1779991200&signature=2e3d8eaa05e4d86071987625f7277fe7bd34ade7ba287ffe84d17863c5b1e2fd&req=diEnFMF%2BnoVeWvMW3nq%2BgQslLQuJRz%2F96TrjXxebVMDqy6wbx57JHhESfLh5%0Aq4PCAx7ujDa%2BJIEGQaJVDZ%2BZpiU%3D%0A)
+
+Door te beginnen met het onderwerptitel of onderwerpnummer te typen, kunt u door de lijst zoeken.
+
+Ga omhoog en omlaag in de lijst met de pijltoetsen en klik of druk op Enter om een onderwerp te selecteren.
+
+Opdat een onderwerp in deze lijst wordt weergegeven, moet het lid dat het onderwerp labelt, toegang hebben tot het bord waarin het onderwerp zich bevindt.
+
+Na het selecteren van een onderwerp in de lijst krijgt de `#` extra tekst die er als volgt uit kan zien:
+
+`#[\<topic number>]`
+
+### **Opslaan of indienen van een gelabeld onderwerp**
+
+Wanneer de beschrijving wordt opgeslagen of de opmerking wordt ingediend, wordt een onderwerprelatie gemaakt.
+
+Het gekoppelde onderwerp wordt vervolgens toegevoegd aan de lijst met [gekoppelde onderwerpen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [het rechtermenu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) van het onderwerp.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2103668127/63b222278014acedd5e109eaa00f/image.png?expires=1779991200&signature=2149815ea61b5a424e16434a30602bf0ad7bdfac5716a9be69b7fc5329c0ca7c&req=diEnFc94lYBdXvMW3nq%2BgUcCxcZ9fv6bg1pEo4juADZYfI3MQkCannAOnEBB%0AleI3JRHXDIbKQfJ1rhkXj6yPxJo%3D%0A)
+
+Naast het onderwerp waar een ander onderwerp is gelabeld, ontvangt het gelabelde onderwerp zelf een koppeling terug naar het onderwerp waar het aan de lijst met [gekoppelde onderwerpen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [het rechtermenu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) is toegevoegd.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2103660685/9068edb07ddc704d58d821a0aa4c/image.png?expires=1779991200&signature=b3cb88b489a1e13e91119acb5a1e65869e6137d08aa613a34673a44e9d6145d3&req=diEnFc94nYdXXPMW3nq%2BgZtQFZ6%2FadIHexDqOuXukfxVutzxFMdv4Csh2%2BBJ%0AJ4PgbRdgBEqA%2F0O6%2Bv%2FB4%2BrLgiA%3D%3D%0A)
+
+De onderwerkoppeling kan later uit het onderwerp met het gelabelde onderwerp in de beschrijving of uit het gelabelde onderwerp worden verwijderd door naar elk onderwerp te gaan en de lijst met [gekoppelde onderwerpen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [het rechtermenu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) te bewerken.
+
+### **Gelabeld onderwerp in bericht**
+
+Gelabelde onderwerpen kunnen worden herkend doordat ze eerst een cirkel hebben met de kleur van de huidige status van het gelabelde onderwerp, samen met de naam van die status.
+
+Daarna wordt de onderwerkitel gevolgd door het onderwerpnummer weergegeven.
+
+Samen met de selectievakjes tellen gelabelde onderwerpen die zijn gesloten mee naar de voortgang in de voortgangsbalk die aan de bovenkant wordt weergegeven, terwijl gelabelde onderwerpen die geopend zijn tellen naar het totaal aantal items waarvoor de voortgang wordt berekend.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2103628989/5fbf0cd8c9301753582aea8950e9/image.png?expires=1779991200&signature=ca04d06ea11db334d5d09d8015a562933dff76c96ee77f0067fcc66830a84137&req=diEnFc98lYhXUPMW3nq%2BgW6UTt%2FkO1pC00sooBVCn30sIjAm6dD8c3fkOEkR%0ArVc8ifPy8Jud7vIGWaSPdO6o7iY%3D%0A)
+
+Gelabelde onderwerpen hebben een klikbare koppeling waarmee het gelabelde onderwerp in het onderwerpbord wordt geopend.
+
+# Modellenpagina
+
+Op de modellenpagina kunnen alle IFC-documenten die aan een model zijn gekoppeld, worden weergegeven.
+
+Meestal kunt u hier voor elke discipline een model vinden.
+
+Dit is hoe de modellenpagina eruit kan zien:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2203323683/82b10239e244add177a8bb2ecaf2/image.png?expires=1779991200&signature=112f66a4c5fdcd9d6632994f20feef4b5d7b3cf039d5c3357676546feebcf81d&req=diInFcp8nodXWvMW3nq%2BgePkqh8vttJuPHq%2BMTzSrlPzf1umP6Fb8o4codg8%0ADblgeYLIxh%2B5Sj5gH9wZexTpxD4%3D%0A)
+
+De modellenpagina als de tweede pagina in het navigatiemenu aan de linkerkant van een project.
+
+Deze pagina maakt deel uit van het [inhoudspaneel](https://support.catenda.com/en/articles/13141464-project-panels#h_74710f7a33).
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2203330265/60c65eaafc1fe9c98d0b014ea0aa/image.png?expires=1779991200&signature=60ea6cff27fdcf17b08461d5151323b964a0b8ea989c307fc99f378d30d31214&req=diInFcp9nYNZXPMW3nq%2BgStsWwQs4heuYwJav0Xdgn52pMkdUyvcWMbbKx9o%0AifRAPzYK695%2FggCVJcgOi7qE7jI%3D%0A)
+
+De volgende onderwerpen worden in dit artikel beschreven:
+
+_[Nieuwe item-acties](#h_5dc7dabe3a) - [Zoeken of filtermogelijkheden](#h_330a5c2a91) - [Rechtermenu](#h_ac840d5d23) - [Modellentabel](#h_bbc42c56bb) - [Subpagina's](#h_f549b192ca)_
+
+## **Nieuwe item-acties**
+
+De nieuwe item-acties kunt u rechtsbovenaan op de pagina vinden.
+
+![](https://downloads.intercomcdn.com/i/o/1073698722/6af87f1f6e6ea72898acb52c/image.png?expires=1779991200&signature=50bf70be1296344f658a03208de1e403f32fb1946b3b1aedb30b23db24b34879&req=dSAgFc93lYZdW%2FMW3nq%2BgagieBq6DzUAhbudhYsZTBOAag80bA6ZoPRilQ1q%0A2cTeuV31GfQVHkIZ%2ByJU15YiKJ8%3D%0A)
+
+Zie [hier](https://support.catenda.com/en/articles/9431936-actions-on-the-models-page) voor meer informatie over wat de verschillende acties doen.
+
+## **Zoeken of filtermogelijkheden**
+
+Zie [hier](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page) voor meer informatie over de beste manier om op de modellenpagina te zoeken of te filteren:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1702848368/4c99fc064c7351e524831d7686e6/image.png?expires=1779991200&signature=1ade06ead1a0b9ca23aaac2f4ae2a0fd9ce8f0cfcba69fe0403a44220b7f6076&req=dScnFMF6lYJZUfMW3nq%2BgVPl8vbHmkmDhmOZUW1XEw2rSFTXXevw1%2FKGTqXi%0A4VSeYcm72PXgAVmZzTKYrvr7cV8%3D%0A)
+
+## **Rechtermenu**
+
+Als rijen van modellen in de modellentabel zijn geselecteerd, verschijnt een informatieknop rechts van de zoek- of filterbalk.
+
+De informatieknop kan er als volgt uitzien:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1648971372/9fd3240d0c44670ff04aee9db307/image.png?expires=1779991200&signature=9c50ae28073d1e9b8da1cb4c67d2fc02722c9cdc518484238e3f54585d574cd4&req=dSYjHsB5nIJYW%2FMW3nq%2BgV2khwPU8bJuVI5FqnZi3GpYUNxb7OEDivpTRdhB%0AklV3QpfH7kWTCBJD2IHsFV0CqXw%3D%0A)
+
+In het rechtermenu kunt u de volgende informatie zien:
+
+- _Afbeelding _
+- _Documentkoppeling_
+- _Status_
+- _Labels_
+- _Bijdragers_
+- _Modeltransformatie_
+  Klik [hier](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page) voor meer informatie over het rechtermenu op de modellenpagina.
+
+## **Modellentabel**
+
+De modellentabel kan er als volgt uitzien:
+
+![](https://downloads.intercomcdn.com/i/o/1084148163/771ca24e30021b9f81818b16/image.png?expires=1779991200&signature=3cf2c4f7ae1a482e44c15b4381a46e0aeb2c7a634623f052a151cd20a897529d&req=dSAvEsh6lYBZWvMW3nq%2BgbOE%2BbrbIIUSPjn7pAh%2FlmkRLZ3siZDisvDqtyQv%0A6kRf7QJtz%2BwT4qATXkSHsO7y8m8%3D%0A)
+
+Zodra een model is gemaakt, verschijnt het als een rij in de modellentabel.
+
+Klik [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) voor meer informatie over het werken met tabellen in Catenda.
+
+### **Geselecteerde item-acties**
+
+Nadat u een modelrij hebt geselecteerd, verschijnen geselecteerde item-acties bovenaan de modellentabel.
+
+Dit is hoe het menu met geselecteerde item-acties eruit kan zien:
+
+![](https://downloads.intercomcdn.com/i/o/1073737628/f84fc5ab3bdcfe0e17a700f7/image.png?expires=1779991200&signature=44e3647b3f00aaec20783fafe274fa7ade7c7d92f1e292e5115a0808cb980766&req=dSAgFc59moddUfMW3nq%2BgUjHsqM4rHFy%2FcdW6jmAmOTRGp6IuBrx276TD9Hq%0ANE1z7wdtviILqGIOZxJklpncTRE%3D%0A)
+
+Klik [hier](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed) voor meer informatie over wat de verschillende geselecteerde item-acties doen.
+
+### **Rij-inhoud**
+
+Wanneer de tabel voor het eerst wordt geladen, worden maximaal 100 rijen weergegeven.
+
+Als de tabel meer dan 100 rijen bevat, scroll naar beneden om de volgende 100 rijen te laden.
+
+Elke modelrij is gekoppeld aan een document op de documentenpagina.
+
+_Toegang_
+
+Modelrijen worden weergegeven op basis van de toegang tot het document dat aan het model is gekoppeld.
+
+_Toegang vereist - _Lezen
+
+De inhoud van een modelrij openen, opent de [modeloverzichtspagina](https://support.catenda.com/en/articles/4670270-model-page) van dat model.
+
+_2D- en 3D-knoppen _
+
+Bij 2D wordt het 3D-paneel geopend en wordt het eerste verhaal van de nieuwste versie van het model in de 2D-viewer geladen.
+
+Bij 3D wordt het 3D-paneel geopend en wordt de nieuwste versie van het model in 3D geladen.
+
+### **Rij-inhoud met statusworkflow - Conceptversies**
+
+_Toegang_
+
+Modelrijen van modellen met alleen conceptversies hebben geen 2D- en 3D-knoppen omdat conceptversies niet in 2D of 3D kunnen worden geladen.
+
+> **Opmerking:** Conceptversies worden niet weergegeven op de [modeloverzichtspagina](https://support.catenda.com/en/articles/4670270-model-page). _2D- en 3D-knoppen_ De 2D- en 3D-weergaven van de nieuwste gepubliceerde versie worden geopend, zelfs als er nieuwere conceptversies zijn.
+
+### **Rij-inhoud met statusworkflow - Werkbladtabblad**
+
+_Toegang_
+
+Modelrijen worden weergegeven op basis van de toegang tot het document dat aan het model is gekoppeld.
+
+Met toegang tot het weergeven van gedeelde versies, wordt de nieuwste versie weergegeven.
+
+_Toegang vereist_ - Toegang tot het weergeven van gedeelde versies in het document
+
+Zonder toegang tot het weergeven van gedeelde versies, wordt de nieuwste gepubliceerde versie weergegeven. Zelfs als er nieuwere gedeelde versies zijn.
+
+_Toegang vereist - _Leesbevoegdheid voor het document
+
+_2D- en 3D-knoppen_
+
+De 2D- en 3D-weergaven van de nieuwste versie waartoe een gebruiker toegang heeft, worden geopend.
+
+### **Rij-inhoud met statusworkflow - Gepubliceerd tabblad**
+
+_Toegang_
+
+Modelrijen worden weergegeven op basis van de toegang tot het document dat aan het model is gekoppeld.
+
+_Toegang vereist - _Lezen
+
+_2D- en 3D-knoppen_
+
+De 2D- en 3D-weergaven van de nieuwste gepubliceerde versie worden geopend, zelfs als er nieuwere gedeelde versies zijn.
+
+### **Kolommen**
+
+Afhankelijk van of één paneel of meerdere panelen zijn geopend, kunnen verschillende informatie worden weergegeven.
+
+Sommige kolommen in de tabelweergave van de onderwerppagina zijn standaard ingeschakeld, terwijl andere kunnen worden verborgen en moeten worden ingeschakeld.
+
+Op basis van de geconfigureerde kolomvolgorde worden de eerste kolommen weergegeven.
+
+Op basis van de geconfigureerde kolombreedte kunnen minder of meer kolommen worden weergegeven.
+
+U moet de tabel mogelijk zijwaarts schuiven om andere ingeschakelde kolommen weer te geven.
+
+Klik [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) voor meer informatie over het werken met tabellen.
+
+De standaardvolgorde en zichtbaarheidsinstelling van de kolommen op de modellenpagina zijn als volgt:
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80;"><h3 id="h_ec767816e6"><b>Modellentabelkolommen</b></h3></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Selectievakje</i> - Standaard</p></td></tr><tr><td><p class="no-margin">Modellen selecteren</p></td></tr><tr><td><p class="no-margin">Klik op deze kolom om een model aan uw selectie toe te voegen.</p><p class="no-margin">Klik <a class="intercom-content-link" href="https://support.catenda.com/en/articles/11748020-tables-on-catenda" target="_blank">hier</a> voor meer informatie over het selecteren van rijen in een tabel.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Viewer - </i>Standaard</p></td></tr><tr><td><p class="no-margin">Laadknoppen</p></td></tr><tr><td><p class="no-margin">Als dit een nieuw model is en er nog geen openbare versies zijn, is deze kolom leeg.
+Nadat u een model hebt geïmporteerd, wordt het verwerkt. U ziet een grijs uitroepteken.
+​ </p><p class="intercom-align-center no-margin"><img alt="Processing" src="https://downloads.intercomcdn.com/i/o/1128820332/6439f9053578575ccfb0da71/image.png?expires=1775952000&amp;signature=d2d5730cff9ef0e4f5464ce075b9fb183c725c0dea10d37422bc6a936e64eac3&amp;req=dSElHsF8nYJcW%2FMW3Hu4gawWDOtZAjnxXc5RcM%2BYJyOQMppOb7OjFRATiTdO%0AHA%3D%3D%0A" width="229.375"/>    /    <img alt="" src="https://downloads.intercomcdn.com/i/o/1128822000/24966190ab877efd53a395f7/image.png?expires=1775952000&amp;signature=01c9a60d8a0e702b0fef66a995ed054f87ce2a99edefe00a40cef9730f30fb61&amp;req=dSElHsF8n4FfWfMW3Hu4gRp3B%2FaY1i%2FAjI5Vqwq68Zs5AuWQ4GJG%2FeSZ9F13%0Apg%3D%3D%0A" width="40"/></p><p class="no-margin">
+Als de nieuwste modelversie is verwerkt zonder succes, ziet u een rood uitroepteken.</p><p class="no-margin"></p>
+<p class="intercom-align-center no-margin"><img alt="Failed" src="https://downloads.intercomcdn.com/i/o/1128818838/685853c34add580b5d8b79ab/image.png?expires=1775952000&amp;signature=9b1e8643ef4de33e8305caf8aa5cfefaafaa1f3e92eb05e28c8c7ebbb6dfc163&amp;req=dSElHsF%2FlYlcUfMW3Hu4gclVforUPGKFV5YEOKsbNlHs3ivdc35j5phODe8m%0A9A%3D%3D%0A" width="148.57142857142858"/>    /   <img alt="" src="https://downloads.intercomcdn.com/i/o/1128813631/d16bb86de7aca1c8ca7ccb80/image.png?expires=1775952000&amp;signature=c333c15082b31af4fb269e1fc4c06a60e373e3e5b4e66e4674033129e63c55e6&amp;req=dSElHsF%2FnodcWPMW3Hu4gdlodHnyyafYkFUlJf6UCOwP1mk%2FF14gXNf3hfPL%0AVw%3D%3D%0A" width="39.583333333333336"/></p><p class="no-margin"></p>
+<p class="no-margin">Wijs over het uitroepteken om te zien welk model is mislukt. Klik op 3D om de nieuwste geldige versie in plaats van de nieuwste versie te laden.
+Als er openbare versies zijn, ziet u hier knoppen voor 2D, 3D en zoomen om uit te breiden, die u samen met de <a class="intercom-content-link" href="https://support.catenda.com/en/articles/4854537-2d-viewer" target="_blank">2D-viewer</a> en <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8227211-3d-viewer" target="_blank">3D-viewer</a> kunt gebruiken.</p><p class="no-margin"></p>
+<div class="intercom-container intercom-align-center"><img alt="2D 3D" src="https://downloads.intercomcdn.com/i/o/1082115963/a53e8f74473c0b5b0c22fc6b/image.png?expires=1779991200&amp;signature=e947eb25325ae494beb3b906fb78d6d51e54046022a1b665a1d4419db3619705&amp;req=dSAvFMh%2FmIhZWvMW3nq%2BgQBR4yJc1QMifJ2Xkg0rEHuxA0F7SLdJWIWNTv2c%0Ao1MDihxPmxuxMQ8pXyt5KZ6uv4k%3D%0A" width="131"/></div><p class="no-margin"></p>
+<p class="no-margin"><i>Toegang vereist:</i> Leesbevoegdheid voor het documentmodel</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Opmerking1:</b> De knop voor zoomen om uit te breiden wordt grijs totdat u het model in 3D laadt.</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Opmerking2:</b> Als het uitroepteken op de 3D-knop staat en de 2D- en 3D-knoppen grijs zijn, wijs dan over het uitroepteken om te zien wat er niet klopt.</p><p class="no-margin">U kunt nog steeds eerdere versies openen door op de modelnaam te klikken.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Korte naam</i> - Standaard</p></td></tr><tr><td><p class="no-margin">De naam van het model</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Opmerking1:</b> De modelnaam van het model kan verschillen van de naam van het document dat aan het model is gekoppeld of de naam van de versie.</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Opmerking2:</b> Als u geen toegang hebt tot het document waaraan het model is gekoppeld, wordt de rij ervan niet weergegeven in de modellentabel. U kunt de modelnaam nog wel in de versiekiezer zien.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Documentnaam</i></p></td></tr><tr><td><p class="no-margin">De naam van het document-model dat aan het model-document is gekoppeld.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Versie </i>- Standaard</p></td></tr><tr><td><p class="no-margin">Het aantal openbare versies in het document-model</p></td></tr><tr><td><p class="no-margin">Als u een model van de modellenpagina hebt toegevoegd, heeft het nog geen versies.
+In plaats van een versienummer ziet u het volgende pictogram dat u kunt klikken om de eerste versie te uploaden.</p><p class="no-margin"></p>
+<div class="intercom-container intercom-align-center"><img src="https://downloads.intercomcdn.com/i/o/1128796790/433007f5c08e12a46a1cf72e/image.png?expires=1779991200&amp;signature=6d2769c236522b8add72ad1459efbfd3edea361596758a5e4a0fdaead6fb31f9&amp;req=dSElHs53m4ZWWfMW3nq%2BgUJAq5%2Fne8p%2FnydcowhE3pLyS2kmGK2JVLf86cKP%0A9OyFoh%2BA1DcSJq8Gbrr%2BZWcg9Q8%3D%0A" width="47"/></div><p class="no-margin"></p>
+</td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Versie-opmerking</i></p></td></tr><tr><td><p class="no-margin">De opmerking die met de versie is geüpload (alleen verouderd)</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Versienaam</i></p></td></tr><tr><td><p class="no-margin">De naam van de nieuwste openbare document-modelversie. Kan niet worden gewijzigd na uploaden.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Status</i> - Standaard</p></td></tr><tr><td><p class="no-margin">De status van de nieuwste openbare document-modelversie. Openbare statussen kunnen worden ingeschakeld in <a class="intercom-content-link" href="https://support.catenda.com/en/articles/7831371-document-settings" target="_blank">documentinstellingen</a>.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Grootte</i> - Standaard</p></td></tr><tr><td><p class="no-margin">De bestandsgrootte van de laatste openbare document-modelversie</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Labels</i> - Standaard</p></td></tr><tr><td><p class="no-margin">De labels die aan het model-document zijn gekoppeld.</p></td></tr><tr><td><p class="no-margin">Een label kan worden toegepast nadat u de eerste versie hebt geüpload.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Document aangemaakt</i></p></td></tr><tr><td><p class="no-margin">De persoon die het document-model heeft gemaakt en de datum en tijd waarop het is gemaakt.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Gepubliceerd</i> - Standaard</p></td></tr><tr><td><p class="no-margin">De persoon die de laatste gepubliceerde versie in het document-model heeft gepubliceerd en de datum en tijd waarop het is gepubliceerd.</p></td></tr></tbody></table></div>
+
+## **Subpagina's**
+
+Als subpagina's op de modellenpagina vindt u de volgende pagina's:
+
+- [Bladwijzers](https://support.catenda.com/en/articles/4670281-bookmarks)
+- [Objecten](https://support.catenda.com/en/articles/12352750-objects-page)
+- [Verdiepingsconfiguratie](https://support.catenda.com/en/articles/6921756-storey-configurator-page)
+
+# QR-Code op PDFs in Catenda
+
+In Catenda Hub kunnen QR-codes op mapniveau worden geconfigureerd. Met deze functie kunnen gebruikers direct controleren of ze de meest recente revisie van een document in handen hebben. Door de QR-code op de fysieke of digitale PDF te scannen, ziet de gebruiker onmiddellijk of het document nog actueel is.
+
+Dit artikel behandelt de volgende onderwerpen:
+
+1. **Plaatsen:** De placeholder in uw document verwerken.
+1. **Configureren:** Instellingen in Catenda Hub aanpassen.
+1. **Publiceren:** Hoe en wanneer de code wordt gegenereerd (Update: Status-workflows).
+1. **Controle:** Het scannen en verifiëren van revisies.
+
+---
+
+### 1. De QR-Code Placeholder Plaatsen
+
+Voordat u een document uploadt naar Catenda Hub, moet er een specifieke 'placeholder' (plaatsvervanger/marker) op het document staan. Catenda herkent deze afbeelding en vervangt deze tijdens het publicatieproces door een unieke, actieve QR-code.
+
+Het maakt niet uit of je placeholder in Catenda of in een ander PDF programma plaatst. Als je deze maar opslaat in het document.
+
+In catenda kan dat door 'save-as' en deze opnieuw te uploaden.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2352188601/e843eb06fb99ef49d782ed60aaa9/image.png?expires=1781092800&signature=71bb34f59d455b90fa9204f38458bd88705187398575b6e9da3f566b4aa147e9&req=diMiFMh2lYdfWPMW3nq%2BgegloklRe%2BXnbOFMc3n0lnvOnRUhhHKrkYa6Aw2K%0AM3MsbnLVN0RPR76Zu0I68IPw5Lg%3D%0A)
+
+### Technische Vereisten
+
+- **Afmetingen:** De placeholder moet minimaal **2cm bij 2cm** groot zijn.
+- **Bestandstype:** De placeholder moet als een **afbeelding** worden toegevoegd, niet als een vector of annotatie.
+- **Byte-vereiste:** De exacte byte-volgorde van de zwart-wit pixels in de originele Catenda-placeholder moet behouden blijven.
+- **Positie:** Het maakt niet uit of hij in de annotatielaag zit of in de geprinte laag, let wel op dat bij het integreren in stempels soms het volledig stempel wordt vervangen.
+
+### PDF-Optimalisatie & DPI
+
+Sommige software comprimeert afbeeldingen bij het opslaan, wat de herkenning kan verstoren. Gebruik de volgende instellingen voor het beste resultaat:
+
+- **Pixeldichtheid:** 144 DPI.
+- **Compressie:** ZIP-compressie.
+- **Geheel:** De afbeelding moet één geheel blijven. Sommige optimalisaties splitsen afbeeldingen op in segmenten; zorg dat dit niet gebeurt.
+
+> **Note:** Gebruik altijd het originele marker bestand! **Download link:** [[Download hier de officiële QR-Code Placeholder](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)]
+
+### 2. Configureren in Catenda Hub
+
+De toewijzing van QR-codes gebeurt per map. Dit geeft projectbeheerders de vrijheid om de functie alleen te activeren waar dit relevant is (bijv. voor definitieve bouwtekeningen).
+
+**Toegang vereist:** Projectbeheerder
+
+### Stappen voor configuratie:
+
+1. Ga naar de **Documentinstellingen**.
+1. Navigeer naar **Mappenconfiguratie**.
+1. Klik op het **plus-icoon (+)** naast de gewenste map.
+1. Zet de optie **Wijs QR-code toe** op "Ja".
+
+**Let op: Zodra een hoofdmap is geactiveerd, erven alle submappen deze instelling automatisch over. U kunt QR-codes alleen handmatig toewijzen aan een map als de bovenliggende map nog niet is geactiveerd.**
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2352188600/a638ede9483e26523af4d5b42fdd/image.png?expires=1781092800&signature=b8d83e82b286518729bda273c337c8d09d5d4893cc27e5c8a434fde307ae38b9&req=diMiFMh2lYdfWfMW3nq%2BgchEjV%2FU8I%2BpDClBd%2FtG6E3lHu2jP9oA2G9DXIc5%0ADjDjN6cNFChKr9gyjbsuFBxiuFs%3D%0A)
+
+### 3. Publiceren en Genereren (Update)
+
+Het proces van het scannen van de placeholder en het genereren van de werkelijke QR-code vindt plaats tijdens het uploaden en publiceren.
+
+### Status-workflow: Gedeelde vs. Gepubliceerde documenten
+
+Dit is een cruciaal onderscheid bij het gebruik van revisiestatussen:
+
+- **Concepten & Gedeelde revisies:** Wanneer u een revisie uploadt als 'gedeeld' (_shared_), wordt de QR-code nog **niet** gegenereerd. U ziet dan nog steeds de originele placeholder.
+- **Publicatie:** De placeholder wordt pas definitief vervangen door de gegenereerde QR-code op het moment dat de revisie wordt **gepubliceerd**.
+- **Zonder workflow:** Als uw project geen status-workflow gebruikt, worden documenten direct bij upload gepubliceerd en wordt de code direct gegenereerd.
+
+### Controleren van de verwerking
+
+In de **geschiedenis** van het document (rechtermenu) kunt u zien of het proces succesvol is afgerond. Als het genereren mislukt, controleer dan of de afbeelding kleiner is dan 2x2cm of dat deze per ongeluk op de annotatielaag staat.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2352188603/0ca068e54eb5ae1461ea6933c2e9/image.png?expires=1781092800&signature=30ff05372b42d41306411037a80ce40b1614455cddb1f67a30ba2fb7880787d1&req=diMiFMh2lYdfWvMW3nq%2Bgf2zEBxMvW1WqknLF5I1fUesPiNvdZPtUlNs0s%2Fa%0AeWG3NSl4dGdQN5mBT8Kok%2BUAfbk%3D%0A)
+
+### 4. Controle van de Laatste Revisie
+
+Wanneer een gebruiker de gegenereerde QR-code op een bouwplaats of kantoor scant met een mobiel apparaat, verschijnt er een verificatiepagina met één van de volgende statussen:
+
+- **Document geldig:** U heeft de laatste versie van het document in handen.
+- **Document ongeldig:** Er is inmiddels een nieuwere revisie beschikbaar in Catenda Hub.
+- **Nog niet gepubliceerd:** U scant een placeholder; dit document is nog niet officieel gepubliceerd in een geconfigureerde map.
+
+# Upload een zip / bestandsstructuur
+
+Vergeleken met het uploaden van een standaard zip bstand zal de upload een zip functie het zip bestand uitpakken.
+
+Op deze manier kunnen bestandsstructuren tot de [documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page) geüpload worden zonder dat mappen handmatig aangemaakt hoeven te worden.
+
+De volgende themas zullen in deze artikel beschreven worden:
+
+**[Selecteren](#h_3477aba8fe) - [Instellingen](#h_e1c253d4b8) - [Uploaden](#h_1c4333e445) - [Uitpakken](#h_33cd0c764b) - [Grootte beperking](#h_27be6f71a4) - [Mijn uploads](#h_d789b4d8ed)**
+
+De upload zip functie kan gevonden worden in het actiemenu ter rechts van de groene + knop rechtsbovenaan de documentenpagina.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454067765/bdd1b806a876ccbc53c4e300c371/image.png?expires=1781092800&signature=e408feaa3b60aa97190a26eb7f3234a3e41014f699f9dee72c86e720855e1610&req=dSQiEsl4moZZXPMW3nq%2BgR2dSDgxOv3BOtvqNNwXutHtQ9xbPHFtnqbUZH1x%0ApRTiZm3xAjY4pFo8Lf6atiB0cfE%3D%0A)
+
+### 
+
+## **Een zip bestand selecteren**
+
+Na op het upload zip menu itme geklikt te hebben zal het volgende dialoog openen:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454067753/27fcefce1a97199b31ebbf60f471/image.png?expires=1781092800&signature=4fcf7630265709a326332872a135f0369cac87c10ccdd46aba2ca90b18e9bbe8&req=dSQiEsl4moZaWvMW3nq%2BgYskRkfYtYPgjuPuJgYirkLn7VvXuMBzS1%2Bmh5jQ%0Aa%2FG%2FSicSLIWVtnuahGFjDk3VbS8%3D%0A)
+
+De bestandsverkenner van uw systeem zal automatisch openen.
+
+Als de bestandsverkenner niet geopend werdt of als deze gesloten was zonder een zip bestand geselecteerd the heben zal u deze altijd weer kunnen heropenen door op de selecteer zip knop te klikken.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454067754/a9a01d28f69c4dea178b9ca69983/image.png?expires=1781092800&signature=04289271e145f846ad6e7ac391e584f91884db40f932169e35b73cc146133da0&req=dSQiEsl4moZaXfMW3nq%2Bgel8VjEE7sYz5IExU9JxaSZsRE4ToJwqDUzbdAW%2F%0AaJ1uDE3yXkppYKlLFDJa11Xxul4%3D%0A)
+
+Na geslaagd te zijn om een zip bestand op uw locale systeem te selecteren zal u de naam van de zip als hieronder zien en de upload zip knop zal donker groen worden.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454067755/54f8a6713606673af918e70e3af3/image.png?expires=1781092800&signature=e5aec71e9b8d0c4150ba3477d0a687ba6e9927115e62496d0f0f24211d33014e&req=dSQiEsl4moZaXPMW3nq%2BgUYc5WQFtuT1puV85%2Fnm6ZmAym6QS4WtyC%2BEVQ%2Bq%0AJO6%2FQMFO5bQdO5DApK6OKY1bY0w%3D%0A)
+
+Als u niet tot een map in het documentengedeelte genavigeerd heeft zal de inhoud tot de hoofdmap geëxtraheerd worden. Dit betekend dat u de inhoud zodra u het documenten gedeelte opent ziet. Het is ook mogelijk om tot een map in Catenda te navigeren en hier upw zip te uploaden als u wilt dat de bestandsstrudctuur daar tevoorschijn komt.
+
+## **Upload instellingen**
+
+Als de map al beastaat zal het bestand in de bestaande map terecht komen.
+
+Als het document al bestaat zal een nieuwe revisie van dat document aangemaakt worden.
+
+Het is mogelijk om verschillend gedrag te configureren dat de zip upload zal hebben bij het extraheren van een bestand of map van de zip structuur waar er al een element bestaat met dezelfde naam in de Catenda documentenstructuur.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454084012/93ee35aef696d53c120e4da61ec9/image.png?expires=1781092800&signature=04172b9213b708c98cd0cdf366417cbb868b74b35bb191cb769693090117fbcb&req=dSQiEsl2mYFeW%2FMW3nq%2BgfU01WsrUOMTcCW1P1To3i7zSZLWrkRxSu5xsQkj%0A0v9cXK7oXLGFaoHxjMLF9pLT7ec%3D%0A)
+
+### **Maak nieuwe revisie aan** - Standaard
+
+Als een document met dezelfde naam bestaat op de plek tot welke de zip poogt een document te extraheren zal een nieuwe revisie tot dat document toegevoegd worden.
+
+Geen nieuwe map zal aangemaakt worden als de map al bestaat.
+
+### **Overslaan en doorgaan**
+
+Als een document met dezelfde naam al bestaat op dezelfde plek als tot welke de zip een document poogt te extraheren zal het bestand overgeslagen geworden en geen nieuwe revisie zal in het document aangemaakt worden.
+
+Geen nie
+
+Geen nieuwe map zal aangemaakt worden als de map al bestaat.
+
+### **Status toevoegen**
+
+Als de status workflow in uw project geactiveerd is in uw project zult u in kunnen stellen wat de status van het nieuwe document zal worden.
+
+Als u voor de maak nieuwe revisie aan optie kiest zullen de statussen van documenten die revisies ontvangen automatisch veranderd worden.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1453955103/4cf0b5069b87733fe3e1031484b9/image.png?expires=1781092800&signature=5ac456c52b3124bcf17b70748b88df1833af550719ff9b7a4fc4e9f05862886f&req=dSQiFcB7mIBfWvMW3nq%2BgdXluwX1hc9VgtYvsiz0S560R36TTQdja194Iyl7%0A4yILYJa0cnkAW1a6Inl2jSnLEss%3D%0A)
+
+Het is slechts mogelijk om tussen de verschillende gedeelde revisie statussen te kiezen en niet de gepubliceerde statussen.
+
+Na het uploaden van gedeelde revisies zullen deze in de werkruimte tab gevonden kunnen worden en later gepubliceerd kunnen worden.
+
+## **Uploaden**
+
+Na op upload geklikt te hebben zal uw zip beginnen met uploaden.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454084019/e91e6d8cf511dbf65d65a762af7f/image.png?expires=1781092800&signature=5b8b1daf46beb6859dc5e5e2984b3815fb447e724c2845b70c997aa1667a68bb&req=dSQiEsl2mYFeUPMW3nq%2BgWCbXJt%2BQcXsEBF5lESau7lRvvbso7S%2F5OICXtJV%0AF78t%2BGBcO0b9Udrb5fHjJ%2B8ZdEk%3D%0A)
+
+U kunt gerust in een andere tab verder gaan met het werken in Catenda terwijl u wacht tot de upload klaar is.
+
+**Toegang vereist:**
+
+Schrijf toegang tot elke van de plekken waar mappen en documenten aangemaakt zullen worden.
+
+Schrijf toegang tot de documentent waar revisies toegevoegd zulen worden.
+
+## **Uitpakken**
+
+Nadat uw zip tot Catenda is geupload zal het uitpakken van uw zip beginnen.
+
+Gedurende het uitpakken zult u het volgende menu links onderaan zien:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454084016/c8f7bcfe9ccef4c437bebfc1a329/image.png?expires=1781092800&signature=0ee3cd6ff6eea6939f4813dbb779adf9f67b4817200c22b8e40bc85bf9369e82&req=dSQiEsl2mYFeX%2FMW3nq%2BgbNOrLGZe77VzQwi8arZWbUP9MpGW8Jkd9NtLhbm%0AFb84aQHtfYlkg4NTRCDVCjRMSNo%3D%0A)
+
+U kunt dit menu open houden en doorgaan met het gebruiken van Catenda.
+
+Ook kunt u de browser geheel afsluiten.
+
+Het uitpakken van de zip zal in de achtergrond doorgaan.
+
+Als u Catenda in een verschillende tab gebruikt tijdens het uitpakken zult u de mappe, documenten en revisies tevoorschijn beginnen te zien komen op de plekkeen waar ze worden uitgepakt door de pagina te herladen.
+
+### **Uitpakken voltooid**
+
+Zodra de zip klaar is met het uitpakken zult u zien dat er voltooid staat.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454084014/b2ce7ea6c208fadcaacb67acf7c8/image.png?expires=1781092800&signature=96f20154f45598b6951cb1b328b6146a2c32cd67c6e8e2e3f57224c007e4e3de&req=dSQiEsl2mYFeXfMW3nq%2BgYB%2FgqYUJrgyrGIvTdYxcjT96UT32oDUTsVrzl%2Bx%0AP1iieA15JvDTtw1fWNbPoPSpfp8%3D%0A)
+
+Klik op de bekijk details om te zien welke bestanden uitgepakt zijn.
+
+U zult deze details later kunnen vinden in "Mijn zip uploads" zoals hieronder beschreven.
+
+Herlaad de pagina om alle bestanden die geupload zijn te zien.
+
+### **Zip import vooltooid notificatie**
+
+Als u het uitpakkingsdialoog of de browser gesloten heeft of de pagina heeft herladen zult het dialoog niet meer zien.
+
+U zult ook een notificatie krijgen dat uw zip uitpakking voltooid is.
+
+Op diemanier zult u kunnen weten wanneer uw zip upload voltooid is. Zelfs als u het uitpakkingsdialoog niet meer ziet.
+
+## **Bestandsgrootte beperking omzeilen**
+
+Bij het uploaden van een zip zult u bestanden die groter dan 7gB kunnen uploaden omdat de zip het bestand comprimeerd.
+
+## **Mijn zip uploads**
+
+De keuze onder de zip upload actie in het actiemenu laat u een overzicht zien over uw zip uploads.
+
+## **Desktop connector**
+
+Met de [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) kunt u automatisch, periodisch de laatste versies van documenten van uw locale systeem tot Catenda Hub uploaden.
+
+De Desktop Connector is beide sneller in het uploaden dan het standaard upload proces en maakt het risico dat er een fout voorkomt bij de upload kleiner omdat documenten bestand voor bestand geüpload wirden in plaats van een grote drag and drop of zip upload batch.
+
+# Is er een beperking voor de bestandsgrootte van IFC bestanden?
+
+De tabel hieronder bevat groottes tot welke bestanden geüpload kunnen worden:
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa; width: 173px;"><h1 id="h_15234453f2"><b>Upload grootte</b></h1></td><td style="background-color: #e3e7fa; width: 108px;"><h3 id="h_5a0d0a537b"><b>Extentie</b></h3></td><td style="background-color: #e3e7fa;"><h3 class="intercom-align-center" id="h_5737074b84"><b>Bestands grootte</b></h3></td></tr><tr><td style="width: 173px;"><h3 id="h_aede0a0d59">Documenten gedeelte</h3></td><td style="width: 108px;"><p>Alles</p></td><td><p class="intercom-align-center">7 GB</p></td></tr><tr><td style="background-color: #e8e8e8; width: 173px;"><h3 id="h_cc8a1cd378">Ifc bestand</h3></td><td style="background-color: #e8e8e8; width: 108px;"><p><code>.ifc</code></p></td><td style="background-color: #e8e8e8;"><p class="intercom-align-center">750 MB</p></td></tr><tr><td style="width: 173px;"><h3 id="h_0b4461d5b8">IfcZIP bestand</h3></td><td style="width: 108px;"><p><code>.ifczip</code></p></td><td><p class="intercom-align-center">750 MB</p></td></tr><tr><td style="background-color: #e8e8e8; width: 173px;"><h3 id="h_c9470204ec">Puntwolk</h3></td><td style="background-color: #e8e8e8; width: 108px;"><p><code>.e57</code>, <code>.las</code></p></td><td style="background-color: #e8e8e8;"><p class="intercom-align-center">25 GB</p></td></tr></tbody></table></div>
+
+## **Verdelen over meerdere kleine bestanden**
+
+Grote .ifc en .ifczip bestanden worden aangeraad om in kleinere bestanden te splitsen. Door meerdere kleine bestanden te uploaden wordt het beide makkelijker voor projectleden om gedeeltes aan en uit te kunnen zetten en het wordt makkelijker om gedeeltes van het bestand individueel te downloaden.
+
+## **Exporteren tot IfcZip**
+
+Sommige bewerkingsprogrammas steunen IfcZIP als een methode bij het exporteren van IFC bestanden.
+
+> **Note:** **Voorbeeld:** `3D-model.ifczip`
+
+## **IfcZip aanmaken**
+
+Als de grootte van uw  `.ifc` groter is dan wat geüpload kan worden kan het bestand tot een `.ifczip` veranderd worden. Om een IfcZIP aan te maken:
+
+- Comprimeer uw `.ifc` bestand tot een `.zip` bestand.
+- Verander de naam van uw bestandsextentie van `.zip` tot `.ifczip`
+
+> **Note:** **Voorbeeld:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip ​`
+
+## **Kontakt support**
+
+Als u geen mogelijheid heeft om uw bestand aan te passen en deze is groter dan wat er geüplaod kan worden, laat het ons weten op [support@catenda.com](mailto:support@catenda.com) zodat wij naar uw bestand kunnen kijken om te zien of we deze toch geïmporteerd kunnen krijgen.
+
+# Welke bestandstypen ondersteunt Catenda?
+
+Voor onze model viewer ondersteunen we alleen IFCs.
+
+Voor ons documenten gedeelte ondersteunen we alle bestandstypen maar we ondersteunen geen documentenvoorbeelden van types ander dan:
+
+- PDF
+- Fotos
+- DWG
+- DXF
+- Office Foormaten
+- Point Clouds (Alleen .e57 en .las)
+- IFC
+
+# Modellen als documenten
+
+In het verleden is het mogelijk geweest om IFC bestanden op twee verschillende plekken op Catenda Hub te uplaoden.
+
+Met de _modellen als documenten_ functie zullen deze twee plekken voor modelbestanden samengevoegd worden tot een somlosse functie.
+
+Als u een model aanmaakt in het modellengedeelte zal een document aangemaakt en gelinkt worden in het documenten gedeelte. Als u een IFC docment upload kunt u de "Maak een model aan" actie knop om deen model te linken en aanmaken in het modellengedeelte. Met deze functie zullen modellen in het modellengedeelte als documenten behandeld kunnen worden terwijl documenten in het documenten gedeelte als modellen behandeld kunnen worden.
+
+Deze artikel bevat informatie over de volgende themas:
+
+**[Voor/Na migratie](#h_3fcf83a75f) - [Vertrouwd maar anders](#h_0b68206ac9) - [Modellen gedeelte veranderingen](#h_5aefd379f3) - [Documenten gedeelte verandringen](#h_7672ebddef)**
+
+## **Voor/Na migratie - Hoofdverschillen**
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e8e8e8; width: 155px;"><h1 id="h_0177768769"></h1></td><td style="background-color: #e8e8e8; width: 262px;"><h2 class="intercom-align-center" id="h_412592b23e"><b>Voor</b></h2></td><td style="background-color: #e8e8e8; width: 248px;"><h2 class="intercom-align-center" id="h_d3824b63e6"><b>Na</b></h2></td></tr><tr><td style="background-color: #e8e8e8; width: 155px;"><p class="intercom-align-right"><b>Hoofdgedrag</b></p></td><td style="width: 262px;"><p>Modellen bestonden alleen in het modellen gedeelte. De gebruiker moest hetzelfde tot beide het documenten en modellen gedeelte uploaden.</p></td><td style="width: 248px;"><p>Modellen zijn aangemakt van IFC bestanden die tot het documenten gedeelte geupload wroden. Het IFC bestand kan tot hun beihorende model gerelateerd en gelinkt worden.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 155px;"><p class="intercom-align-right"><b>Interface</b></p></td><td style="width: 262px;"><p><b>Verschillend</b> van het documentengedeelte en toont minder informatie. Alleen een lijst met modellen.</p></td><td style="width: 248px;"><p><b>Gelijk </b>met het documentengedeleelte: Een tabel met gerelateerde metadata die aanpasbaar is.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 155px;"><p class="intercom-align-right"><b>Toegangsrechten</b></p></td><td style="width: 262px;"><p><b>Kon niet</b> tot modellen toegepast worden.</p></td><td style="width: 248px;"><p><b>Kan</b> tot modellen vanuit hun gerelateerde document in het documenten gedeelte toegepast worden.</p></td></tr></tbody></table></div>
+
+## **Vertrouwd maar anders**
+
+Nu dat de twee gedeeltes gelinkt zijn is het belangrijk om op te letten dat er nog steeds verschillen zijn tussen de modellen en documenten gedeeltes.
+
+In het modellen gedeelte zult u alle model-documenten in den lijst verzameld zien.
+
+Hier ziet u model-documenten op een manier die lijkt op hoe deze in de 3D viewe getoond wordt.
+
+In het documentengedeelte zult u nu document-modellen in uw documentenstructuur zien. Hier zult u uw document-modellen op een manier zien die lijkt op hoe deze in uw common data environment getoond worden.
+
+Alle modellen zijn nu aan elk hun eigen document gelinkt en functies van beide gedeeltes kunnen gebruikt worden beide in het modellen gedeelte en in het documentengedeelte.
+
+## **Veranderingen in het modellengedeelte**
+
+Met modellen als documenten zal het modellengedeelte van uiterlijk verander zijn.
+
+Un plaats van menu elementen voor elk model zullen deze nu een een doorzoekbare tabel getoond worden.
+
+In het modellen gedeelte zult u de volgende veranderingen kunnen vinden:
+
+[Tabel](#h_cbf15299bf) - [Kolommen](#h_49da57d851) - [Elementkeuze](#h_a32100babf) - [Actieknoppen](#h_128bac5644) - [Toegang](#h_c122f5b70d) - [Informatiemenu](#h_4c71e3e504)
+
+### **Modellen tabel**
+
+De nieuwe modellentabel kan er als volgt uitzien:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1444238060/654c1fa2f91c52b6988382dc149d/image.png?expires=1781092800&signature=65efba76162b0bd5fa6c040f8e9396dc8496eee935f146402b067ffaecd02ea1&req=dSQjEst9lYFZWfMW3nq%2BgXzNN8yctq38%2B%2FfnJYKxI8%2BxtnYhvnNwfW77K8kk%0AHkYwtHCqPgEzlE2wMVw%2FRWNLmmQ%3D%0A)
+
+### **Kolommen**
+
+De modellenlijst heeft kolommen die het meeste van de informatie die u over uw modellen moet weten laten zien.
+
+_Naam_ De naam van het model-document.
+
+De naam is ook de naam die u in de revisie kiezer in het 3D view ziet.
+
+**Documentennaam**
+
+De naam van het document waar het model an gelinkt kan worden in het documentengedeelte.
+
+**Revisienaam**
+
+De naam van de laatste revisie.
+
+Dit is de naam van dat het bestand had wanneer het geüpload werdt. De revisienaam kan voor elke revisie anders zijn terwijl de documentennaam de verzamelnaam voor al de revisies is.
+
+### **Toegangsbeheer**
+
+Als een model voor u beperkt is in het documenten gedeelte zult u deze noch in het documenten gedeelte, de modellen tabel noch in de revisie kiezer zien.
+
+### **Elementkeuze in de tabel**
+
+Met de modellentabel kunt u nu een reeks modellen selecteren door shift ingedrukt te houden.
+
+U kunt ook modellen tot uw keuze toevoegen en verwijderen door control ingedukt te houden.
+
+### **Actieknoppen**
+
+In het verleden was de enige actie die op gekozen modellen werkte het openen van deze modellen in 3D. Nu kunt u uw gekozen modellen downloaden, verwijderen en in 3D openen.
+
+Als u een model dat aan een document gekoppeld is verwijderd zal het document de koppeling tot het model verliezen, maar het documetn zal in het documenten gedeelte behouden blijven.
+
+### **Toegangsbeheer van document-modellen**
+
+**Aanmaken van een model-document**
+
+Als u een model met de maak model aan knop in het modellengedeete aanmakt zult u gevraagd worden om waar u het gekoppelde document-model in het documentengedelet wilt bewaren.
+
+In het modellen aanmaak dialoog zult u ook het model een naam kunnen geven.'
+
+Het gekoppelde document-model dat hier het resultaat van is zal dezelfde naame hebben als de naam dat het model had bij aanmaak.
+
+Catenda Hub zal de map die u het laatst koos onthoude en deze outomatisch selecteren bij de volgende keer dat u een model-document aamaakt.
+
+Als uw project begon voor de modellen als documenten functie geactiveerd was zal een map 'Models' tevoorschijn gekomen zijn in uw mappenstructur.
+
+De 'Models' map bevat dan alle document-modellen die tot uw model-documenten gelinkt izjn.
+
+Document-modellen kunnen uit deze map naar een willekeurige plek in het documenten gedeelte waar u toegang tot hebt verplaatst worden. Document-modellen kunnen hier ook verwijderd (en hersteld) worden.
+
+De document-modellen hoeven zich niet in de map te bevinden en de modellen map kan verwijderd worden als dat gewenst is.
+
+**Model-revisie aanmaken**
+
+Om nieuwe revisies tot een model te kunnen uploaden zult u ten minste schrijf rechten tot het document model nodig moeten hebben. Nieuwe revisies tot het model kunnen tot het document-model toegevoegd worden en vica versa.
+
+> **Note:** **Merk:** Revisiecommentaren staan nu als standaard uit en kunnen bij behoefde geactiveerd worden via [metadata op revisies](https://support.catenda.com/nl/articles/9531080-metadata-op-documenten).
+
+**Model-revisie downloaden**
+
+U zult ten minste lees toegang tot het document-model nodig hebben om het model te downloaden.
+
+### **Rechter informatie menu**
+
+Een rechter informatiemenu zal toegankelijk worden als een model geselecteerd is.
+
+**Documentenveld**
+
+In dit menu zult u uw modelleninformatie zien met een grijs vlak met informatie odat tot het document-model in het documenten gedeelte is gelinkt
+
+In this panel you will see your model information as well as a gray field that links to the document-model in the document section that is linked to this model-document.
+
+Click on the document field to open the document-model that is linked to this model.
+
+**Labels op modellen**
+
+U kunt nu ook labels to modellen in dit menu toevoegen.
+
+**Modellen statussen**
+
+Als statussen in documenteninstellingen geconfigureerd zijn zal u in dit menu de status van uw model in kunnen stellen.
+
+**Modeltransformatie**
+
+Als u een model in 3D geopent hebt zal u de modellentransformatie in dit menu kunnen bewerken.
+
+## **Veranderingen in het documentengedeelte**
+
+Terwijl de visuele veranderingen niet als klaarblijkelijk zijn als in het modellengedeelte zullen er een paar functies op een andere manier werken.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1444523409/f00b3c4298a51ee01cc2e44a62f4/image.png?expires=1781092800&signature=91a36e53931c2f57078308ffab651a5f5b5b2c3b6fe3ec9a854427a79a12a7bb&req=dSQjEsx8noVfUPMW3nq%2BgQtlKD%2Fq0MJ8Z8z1212tKpdvN2s03%2BKmVr2K0Jmd%0Ab83eIfq1xw1jiGHU9IHKSsab5x0%3D%0A)
+
+In het documentengedeelte zult u de volgende veranderingen kunnen zien:
+
+**[Filter](#h_1f1dbd96a7) - [Kolonnen](#h_2fb2d0ad29) - [Acties](#h_011066e896) - [Toegang](#h_1b2fdab493) - [Hervindbaarheid](#h_1e7a1fdf5a) - [Beoordeling](#h_cd449caa59) - [Naamgeving](#h_fcc581acf5)**
+
+### **Modellenfilter**
+
+Zo snel er modell in in het modellen gedeelte aangemaakt worden zult u het modellen filter tevoorschijn zien komen in het filtermenu van het documenten gedeelte.
+
+Met deze filteroptie kunt u enige document-modellen die aangemaakt zijn tonen/verbergen.
+
+### **Kolonnen**
+
+**Icoon**
+
+U zult document-modellen van normale documenten apart kunnen houden door het modellen kenteken rechtsonderaan het icoon van het document te zien.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1444523407/bf30ca6da484f96b0c9e79f042c8/image.png?expires=1781092800&signature=d338c68cf7f810c632a70a9607816cde3a151e79d5e9ab969b5ead2678dcd235&req=dSQjEsx8noVfXvMW3nq%2BgVjvltCu2lUiRMa6sZN%2FrzTrKqfugkA90sD6J92g%0A5Dr80s42EEXzZJDMabvYzwf6zVY%3D%0A)
+
+**Naam**
+
+De naam van het document
+
+**Modellennaam**
+
+De naam van het model
+
+Als uw ifc document nog niet aan een model gekoppeld is zult u hier een maak model aan knop zien.
+
+**Revisienaam**
+
+De naam van de laatste revisie in het document-model
+
+**Viewer**
+
+Een kolom met knoppen om elk individuele document-model in de 2D/3D viewer te openen. Document-modellen kunnen alleen in de 3D viewer geopend worden als het document tot een model gelinkt is.
+
+### **Actieknoppen**
+
+Download, verwijder of laad de 2D/3D views van gekozen modellen in de respectiefe viewer door een of meerdere document-modellen te selecteren.
+
+<img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/1444472073/4a5d62987a173603bfc50826a54e/image.png?expires=1743174000&amp;signature=e473aad540c34bdea622ff938c7d3387dcf3fb5191fe74da2e812a0220503808&amp;req=dSQjEs15n4FYWvMW3Hu4gRIYyWwnFD80rJcTivpE97hTdX7r%2BIJrQePOhbxg%0AOA%3D%3D%0A" width="310"/>    <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/1444476210/5d03429401f489c2f68540b604ab/image.png?expires=1743174000&amp;signature=5471295ce456e51b1061a3049633ed97d4e607ab4f9aa42703250f98a26a4836&amp;req=dSQjEs15m4NeWfMW3Hu4gRy0TuhGQJSoYokVUVJAmlIAOa3c8LwX05a1oNpM%0Alw%3D%3D%0A" width="310"/>
+
+Dit betekent dat u meerdere modellen tegelijkertijd kunt verwijderen in plaats van een-voor-een zoal voorheen.
+
+Als u deen document verwijderd dat aan een model gekoppeld is zult u een waarschuwing moeten goedkeuren dat het model waar uw document aan verbonden is ook verwijderd zal worden.
+
+> **Note:** **Merk:** Dit betekend dt u een model kunt verwijderen zonder de data te verliezen. (verwijderde documenten kunnen hersteld worden)
+
+### **Toegangsbeheer tot model-documenten**
+
+**Aanmaken van document-modellen**
+
+Om nieuwe revisies tot een model te kunnen uploden heeft u nu ten minste toegnag tot het document-model nodig.
+
+U kunt dit doen door een model aan te maken in het actiemenu van het document.
+
+Na het document-model op deze manier aangemaakt te hebben zult u het model-document in het modellen gedeelte zien. Het model-document in het modellen gedeelte zal dezelfde naam als het document-model hebben. De naam van het document en de naam van het model kunnen later apart bewerkt worden.
+
+Nieuwe revisies tot het model kunen als revisies tot het document en vica versa toegevoegd worden.
+
+> **Note:** **Merk:** Dit betekend dat u modellen van meerdere IFC bestanden tegelijkerteid kunt uploaden in plaats ven de modellen één voor één te uploaden.
+
+**Revisies tot document-modellen uplaoden**
+
+U heeft ten minste schrijf toegang tot het document-model nodig p, moeiwe revosoes tot het model te uploaden.
+
+Dit betekend dat u de multi-upload functie kunt gebruiken om ifc bestanden tot meerdere document-modellen tegelijketijd te uploaden.
+
+**Document-modellen downloaden**
+
+U heeft minstens leestoegang nodig om document-modellen te kunnen downloaden.
+
+Dit beekent dat u toegang in kunt stellen om toe te staan om enkele modellen te downloaden in plaats van alleen alle of geen modellen.
+
+### **Hervindbaarheid**
+
+Document-modellen kunnen nu in het documentengedeelte gevonden worden zoals enig ander document.
+
+- Labels kunnen tot uw document-model toegevoegd worden om alle document-modellen die tot een type behoren te vinden.
+- Document-modellen kunnen in mappen gestructureeerd worden om het makkelijker te maken om naar de juiste reeks modellen te navigeren.
+- [Metadata velden kunnen tot mappen toegevoegd worden](https://support.catenda.com/nl/articles/9531080-metadata-op-documenten) zodat er op de metadata-waardes die bij de upload toegevoegd wroden gezocht kunnen worden.
+- [Metadata velden kunnen tot mappen toegevoegd worden](https://support.catenda.com/nl/articles/9531080-metadata-op-documenten) om informatie tot elke revisie toe te voegen in elk document-model
+
+Kijk [hier](https://support.catenda.com/en/articles/8542598-structuring-documents#h_7838a63c73) voor suggesties voor ho u uw document-modellen kunt stuctureren om deze makkelijke hervindbaar te maken.
+
+### **Gedeelde IFC documenten met beoordelingen goedkeuren**
+
+IFC bestanden kunnen nu als gedeeld bestand geüpload worden zodat deze door een beoordelingsproces gehaald kunnen worden voordat ze gepubliceerd worden.
+
+### **Naamgevingsafspraken met document-modellen**
+
+Namen in het documentengedeelten bevatten vaak gecomprimeerde afkortingen om de documentennaam kort te behouden en tegelijkergeijd zoveel mogelijk informatie over het document te bevatten. De naam van het document-model kan daarom een verschillende naam van de naam van het model document zijn. Op die manier kan de naam van het document in lijn zijn met de rest van de documenten in het documenten gedeelte terwijl de naam van het model een makkelijke te leze alias gegeven kan worden zodat deze makkelijk te gebruiken is in de 3D viewer en in het modellen gedeelte.
+
+De documentennaam van het document-model zal de naam zijn die herkend wordt bij het uploden van documenten tot het documenten gedeelte. Als de naam op de naam van het document lijkt of hetzelfde is zal een een neiuwe revisie automatisch tot dat document-model toegevoegd worden net als met andere documenten.
+
+Omdat document-modellen zich hetzelfde als normal documenten opvoeren is het nu mogelijk om naamgevings afspraken met document-modellen te gebruiken om te verzekeren dat de deelnemers van uw project de juiste naam opvoeren voor het document gedurende het uplaodproces.

@@ -1,0 +1,52 @@
+# Catenda Help Center
+
+> Product documentation for Catenda — BIM collaboration for the built environment.
+
+## スタートガ イド
+
+Catendaに招待された場合、または初めて登録する場合は、このセクションをお読みください
+
+- [ステップ 1 - アカウントの設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9030303-ステップ-1-アカウントの設定.md): アカウントを作成し、プロジェクトに招待される
+
+## アカウント管理
+
+プロジェクトの概要、アカウントや組織の設定について
+
+- [チームの作成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670264-チームの作成.md)
+- [多要素認証 (MFA)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4969891-多要素認証-mfa.md): アカウントにMFAを設定する方法
+
+## 基本的な機能
+
+Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場合はこちらをご覧ください。
+
+- [3Dビューア](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8227211-3dビューア.md)
+- [ArchicadからのIFCエクスポート](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670338-archicadからのifcエクスポート.md): ArchicadからのIFCエキスポートの方法について詳しく説明します。
+- [Catenda Archicad プラグイン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5519276-catenda-archicad-プラグイン.md)
+- [Catenda Desktop connector (デスクトップ コネクタ)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8358861-catenda-desktop-connector-デスクトップ-コネクタ.md): PCとCatendaプラットフォーム間のファイル管理を簡素化し、効率的な一括アップロード、ダウンロード、スケジュール同期を可能にします。
+- [Catenda Navisworks プラグイン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5085987-catenda-navisworks-プラグイン.md)
+- [Catenda Revit 製品](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670334-catenda-revit-製品.md)
+- [Catenda の PDF 上の QR コード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9360508-catenda-の-pdf-上の-qr-コード.md)
+- [Catendaプラグインと連携](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8396532-catendaプラグインと連携.md): プラグイン、統合、アドオンでお気に入りのツールに連携・統合しましょう
+- [Revit IFC エクスポート マニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670341-k2nekg1n.md)
+- [zip / ファイル構造をアップロードする](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7945410-q3fxr4yj.md)
+- [トピックの本文 - トピックの内容](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8053352-トピックの本文-トピックの内容.md)
+- [トピック内のチェックリスト](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5036461-786npbn6.md)
+- [モデル一覧ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670286-モデル一覧ページ.md)
+- [投稿フォーマットツールボックス](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8430847-投稿フォーマットツールボックス.md): 投稿可能なフィールドの書式設定方法
+- [新しいステータスのワークフロー - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9874698-新しいステータスのワークフロー-iso-19650.md)
+- [点群データ(ポイントクラウド)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5606625-点群データ-ポイントクラウド.md)
+
+## よくある質問
+
+ここでは、多くのユーザーが遭遇する質問に対する答えを見つけることができます
+
+- [3D DWGエクスポートマニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7887999-3d-dwg-export-manual.md)
+- [Catenda Hubでのファイル形式のプレビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670320-catenda-hubでのファイル形式のプレビュー.md)
+- [アップロードするファイルのサイズの制限について](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670324-アップロードするファイルのサイズの制限について.md): アップロード・インポートする様々なファイルサイズの制限について説明します。
+- [推奨ハードウェア](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6921941-推奨ハードウェア.md): Catenda Hubで最高の体験をするための推奨ハードウェア仕様と最適化のヒント
+
+## 最新情報 🎉
+
+Catenda Hubの最新情報はこちら
+
+- [モデルアズドキュメント(Models as Documents)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8064548-モデルアズドキュメント-models-as-documents.md)

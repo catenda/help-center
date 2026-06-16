@@ -1,0 +1,7 @@
+# Gibt es eine Größenbeschränkung für IFC-Dateien?
+
+Es gibt eine Größenbeschränkung von 700 MB für IFC-Dateien, die in Catenda Hub hochgeladen werden. Wenn Sie eine Datei hochladen möchten, die größer als 700 MB ist, können Sie versuchen, sie vor dem Hochladen zu zippen. Bitte verwenden Sie das Standard-Zip-Format und stellen Sie sicher, dass die gezippte Datei nur die IFC-Datei enthält. Ändern Sie dann die Dateierweiterung von .zip in .ifczip. Einige Autorentools unterstützen Ifczip als Option beim Exportieren von IFC-Dateien. Beispiel abc.ifczip
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Upload Limit</p></td><td><p class="intercom-align-center">7 GB</p></td></tr><tr><td><p>Ifc file</p></td><td><p class="intercom-align-center">750 MB</p></td></tr><tr><td><p>Ifczip file</p></td><td><p class="intercom-align-center">750 MB</p></td></tr><tr><td><p>Point Cloud e57 - las</p></td><td><p class="intercom-align-center">25 GB</p></td></tr></tbody></table></div>
+
+Wir raten davon ab, den [Solibri Optimizer](https://support.bimsync.com/hc/en-us/articles/360010176360) für große Ifc-Dateien zu verwenden, da diese während des Optimierungsprozesses beschädigt werden könnten. Es ist besser, die Kacheldatei wie beschrieben zu zippen. Alle in Catenda Hub hochgeladenen Informationen werden ohnehin stark optimiert, so dass Sie durch das Hochladen einer optimierten Datei im Vergleich zum Original keinen Vorteil haben.

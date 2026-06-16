@@ -1,0 +1,3355 @@
+# Catenda Help Center
+
+> Product documentation for Catenda — BIM collaboration for the built environment.
+
+# ステップ 1 - アカウントの設定
+
+> アカウントを作成し、プロジェクトに招待される
+
+登録の次のステップへのリンクが記載された招待状がCatendaからEメールで送信されます。このリンクを使用して、個人認証情報を使ってアカウントを作成することができます。
+
+![](https://downloads.intercomcdn.com/i/o/981880493/1e42cd4f7fc6d79022df3e51/image.png?expires=1781092800&signature=46043e24706033d74f5935193bc2fc8f46f34d8d30544e6ba87a1a91ec107c55&req=fSgmHsF%2BmYhcFb4V1XW4gQT3FVIF1Y9uXhF5l%2FBFxxgJA7C6d6QOtBGZK7OC%0ANApHoVUK5GtCpAXOnuYm2psKGw%3D%3D%0A)
+
+登録完了後、どのウェブブラウザからでもCatenda Hub上のプロジェクトにアクセスすることができます。
+
+[https://hub.catenda.com/signin](https://hub.catenda.com/signin)
+
+> **Note:** ヘルプセンターまたはヘルプメニューで、開始の[ステップ2](https://support.catenda.com/ja/articles/10576075-%E3%82%B9%E3%83%86%E3%83%83%E3%83%97-2-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9)を見つけてください。
+
+# チームの作成
+
+[新しいチームはメンバーページ](https://support.catenda.com/en/articles/4670291-members-page)で登録できます。 チームは任意の方法で分割できます。メンバーをチームに分ける通常の方法はトレードです。チーム単位でもトピックの担当者に割り当てることができます。
+
+![](https://downloads.intercomcdn.com/i/o/720413983/d513ccf51166b04c39bb7717/image.png?expires=1781092800&signature=1c667d7956932e83d9ac22f1a619108c93b1beeea53cc959bcdfead059743787&req=cyInEsh9lIlcFb4V1XW4gUVb0JCyDpJ%2B8OaEAffFc14QhwbefiLhLbxfDIYw%0ABpXkcMRdNvt7BjWgXgI97drBvg%3D%3D%0A)
+
+新しいチームを作成するには、メンバーページに移動し、右上隅に「新しいチーム」ボタンがあります。 そこでチームの名前を選択し、チームにメンバーまたは管理者の役割を与えるかを選択します。
+
+> **Note:** **注:**チームが管理者の役割を取得すると、そのチームのすべてのメンバーが管理者アクセス権を持つようになります。
+
+チームが作成されると、[チーム ページ](https://support.catenda.com/en/articles/7891755-team-page)が開き、このチームにメンバーを追加できるようになります。
+
+# 多要素認証 (MFA)
+
+> アカウントにMFAを設定する方法
+
+**多要素認証**（MFA）では、CatendaHubにログインする際に、ユーザー名とパスワードに加え、モバイル端末で受信したコードを入力する必要があります。組織がMFAを義務化する場合、組織レベルで適用されます。その組織に属するプロジェクトにアクセスするためにはMFAが必要になります。つまり、ユーザーはその組織に属するプロジェクトにアクセスするためにMFAを有効にする必要があります。
+
+## 多要素認証 (MFA)**の有効化**
+
+CatendaHubにログインし、アカウントページに移動します：
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1342644735/168eb2c6d51af4be438ee35c6271/image.png?expires=1781092800&signature=892dac5a9bb142e6147334bb9867d41c669d40557513d67ff50f50836fe2feaf&req=dSMjFM96mYZcXPMW3nq%2BgfJKwigHUOjIQTHgx11O1DBEBkRSQeoVyi8lMRMz%0Ao%2F6emwbnbSHaOx4WgdROmZ%2FmPEw%3D%0A)
+
+1. **[認証]**をクリック
+1. MFAのセクションまでスクロールダウン
+1. **「MFAを有効にする」**をクリック
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1342647403/773cf519cf617cdaa8e59e014550/image.png?expires=1781092800&signature=8ed65f01f20bab6ba2b4ed57e3f7794b0dd06013458728cf9234547c7bd80cc1&req=dSMjFM96moVfWvMW3nq%2BgW1Jp4PvjQiF18nlc4fUGGzAhlAhpJquv7XoexLu%0AjUws7EiJTfBlCktCUo%2B8JJ9GuJg%3D%0A)
+
+上記手順に従ってください。
+
+モバイル端末に信頼できる認証アプリをインストールする必要があります。
+
+[Google Authenticator](https://support.google.com/accounts/answer/1066447)と[Microsoft Authenticator](https://www.microsoft.com/ja-JP/security/mobile-authenticator-app)をお勧めしますが、MFAまたは二要素認証をサポートするアプリケーションであれば、理論的にはどのアプリケーションでも使用できます。
+
+[Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=ja&sjid=17189755917248419401-AP)の場合
+
+右下のプラスをクリックして、QRコードをスキャンします。
+
+読み取り画面で、認証ページに表示されるQRコードをスキャンします。
+
+[Microsoft Authenticator](https://www.microsoft.com/ja-JP/security/mobile-authenticator-app)の場合
+
+下図の[認証システム]メニューが表示されていることを確認します。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1342651294/5619b7bcb7a21bf5162e2785eb95/image.png?expires=1781092800&signature=7c1758edf1610ca60581160f21246545022e55161991fb67c759e6e635be62ed&req=dSMjFM97nINWXfMW3nq%2BgZKyLVnwrGGjEPzm2dYJPZjJ2CliUoRjaYm3cWrS%0AExCw5jpJQ1%2BI6Q3riQzvCLSf2Mg%3D%0A)
+
+> **Note:** 注意！Microsoft Authenticatorアプリでは、必ず Authenticatorタブの右上にあるプラスを使用してください。検証済み IDタブのQRコードはスキャンしないでください。これはMicrosoftでのみ有効な別タイプの認証です。
+
+次に、右上の青いバーに表示されているプラス（＋）アイコンをクリックします。
+
+[その他のアカウント(Google,Facebookなど)]を選択します。
+
+読み取り画面で、認証ページに表示されるQRコードをスキャンします。
+
+### 成功および失敗のケース
+
+**成功のケース**
+
+MFAを有効にすると、CatendaHubにログインするにはモバイル端末が手元に必要です。
+
+正常に有効化が行われると、次のメッセージが表示されます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1342653667/1a6706ed4e9b3f411a1a39559314/image.png?expires=1781092800&signature=ba1dce81c30e288bc5613e8d60fb9fd93029e288f62d90cc3f3196daaee26b8e&req=dSMjFM97nodZXvMW3nq%2BgSfCmnSHo3K3ZnmwxfslrCUO97VolnTUB9D4MhM7%0AA3ZXKfAJfV%2FVMJpilnw2%2BTG8o%2FA%3D%0A)
+
+上記の「MFAを無効にする」をクリックし、確認のためパスワードを入力すれば、MFAを無効にすることができます。無効にすると、MFAを必要とするプロジェクトにはアクセスできなくなります。
+
+**失敗のケース：コードが正しくありません**
+
+正しいコードを入力しなかった場合は、「コードが間違っている」というメッセージが表示されます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1342654048/c4d9edefa8fa4b22f356b7395d60/image.png?expires=1781092800&signature=d26bb31a2b79737147e8fca56bf1611d32165cd03267920f742e6811444e850a&req=dSMjFM97mYFbUfMW3nq%2BgednYX%2BZqldW%2B9Wz0NmocELtsFDTfruBJB6MAjJ3%0AorvTKZc4XP9Oi7tiSZZpjl8UM2Q%3D%0A)
+
+> **Note:** **注意:** QR コードをスキャンした場合は、このメニューを開いたまま、そのコードの指定された時間内にコードの入力を試みることができます。このメニューを閉じると、認証アプリで生成されているコードを削除し、QR コードを再度スキャンして新しいコード ペアリングを設定する必要があります。
+
+## MFAアカウント名の変更
+
+MFAコードを登録した後で、アカウント名を安全に編集できます。
+
+これは、次の方法で行うことができます。
+
+[Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=ja&sjid=17189755917248419401-AP)の場合
+
+１．コードを長押しします。
+
+２．コード横に表示される「鉛筆」マークをクリックしてアカウント名を変更します。
+
+[Microsoft Authenticator](https://www.microsoft.com/ja-JP/security/mobile-authenticator-app)の場合
+
+１．コードをクリックします。
+
+２．右上の歯車ボタンをクリックします。
+
+３．アカウント名を変更します。
+
+## MFAの転送
+
+一度に使用できるデバイスは１つだけです。新しいデバイスの利用をする場合は、新しいデバイスで同じMFAアプリを使用し、古いデバイスからコードを転送できます。
+
+[Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=ja&sjid=17189755917248419401-AP)の場合
+
+### 古いデバイスの操作
+
+１．左上のハンバーガーメニューをタップします。
+
+２．[アカウントを移行]をタップします。
+
+３．エクスポートするアカウントを選択し、エクスポートします。
+
+４．QRコードが表示されたら新しいデバイスでスキャンを行います。
+
+５．新しいデバイスへ移行が完了したら、「次へ」を選択し、エクスポートしたアカウントを削除します。
+
+### 新しいデバイスの操作
+
+１．右下の「プラス（＋）」アイコンをタップします。
+
+２．古いデバイスのエクスポート用QRコードをスキャンします。
+
+[Microsoft Authenticator](https://www.microsoft.com/ja-JP/security/mobile-authenticator-app)の場合
+
+### 古いデバイスの操作
+
+１．左上のハンバーガーメニューをタップします。
+
+２．「設定」をタップします。
+
+３．iCloudバックアップを有効にします。
+
+### 新しいデバイスの操作
+
+１．新しいデバイスに[Microsoft Authenticator](https://www.microsoft.com/ja-JP/security/mobile-authenticator-app)アプリをインストールして開きます。
+
+２．「回復を開始」をタップします。
+
+**注：[Microsoft Authenticator](https://www.microsoft.com/ja-JP/security/mobile-authenticator-app)では、一致する各サイトアカウントが上書きされるため、新しいデバイスで、「回復ツール」を実行するまで、[Microsoft Authenticator](https://www.microsoft.com/ja-JP/security/mobile-authenticator-app)を使用してアカウントを設定しないでください。**
+
+## MFAの無効化
+
+MFAを無効にするには、認証ページに表示されている無効化ボタンをクリックし、パスワードを入力して確認します。無効にすると、MFAを必要とするプロジェクトにアクセスできなくなります。
+
+CatendaHubでコードを無効にした後も、コードは接続したアプリケーションに残ります。
+
+このコードは使用できなくなるため、デバイスより削除をします。
+
+## 古いコードを削除する方法
+
+[Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=ja&sjid=17189755917248419401-AP)の場合
+
+１．コードを長押しします。
+
+２．コード横に表示される「鉛筆」マークを選択します。
+
+３．右上の「ゴミ箱」をタップします。
+
+[Microsoft Authenticator](https://www.microsoft.com/ja-JP/security/mobile-authenticator-app)の場合
+
+１．コードをタップします。
+
+２．右上の歯車ボタンをタップします。
+
+３．[アカウントの削除]をタップします。
+
+## **プロジェクトへのMFA適用**
+
+組織レベルでのMFAの適用は、エンタープライズのお客様に提供するサービスです。一度適用されると、その組織に属するプロジェクトのユーザーは、ログインするためにMFAを使用する必要があります。組織のプロジェクトでMFAを有効にするには、CatendaHubサポートにお問い合わせください。MFAが必要なプロジェクトを開こうとすると、次のようなメッセージが表示されます。
+
+![](https://downloads.intercomcdn.com/i/o/710237963/cc33c301cac2faaeaf8abb7e/image.png?expires=1781092800&signature=0a241c1b7d754dac6ac7f3fbfb908a97d6aad26a98db0773434988edd6c61515&req=cyEnFMp5lIdcFb4V1XW4geDBTPE7FEI38r7z7CIHG0OMPqmboH9ClY59uD%2F2%0APKhzmnNJ76NXpaOhL%2BVeRBzIhw%3D%3D%0A)
+
+# 3Dビューアー
+
+3Dビューアーは、画面の右上にある4つのメインパネルの1つとして見つけることができます。 3Dアイコンを押してこのパネルを開くか、[Shift+2](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=3D%20viewer-,Shift%20%2B%202,-Trees%20panel)を押すことができます。
+
+![](https://downloads.intercomcdn.com/i/o/802707569/82a165005ce86838e7956728/image.png?expires=1779991200&signature=c6079791547b93e3f25bb3692999a443e49c599da78a4057c1c6b61041123dc3&req=fCAlEcl5mIdWFb4V1XW4gYcLDbwNoNsUHDb6cTzwYe0S0o3FujpO8AoZJCI7%0AIuUj5cC37agmjtRs6sHPbUhy6A%3D%3D%0A)
+
+モデルが読み込まれた状態では、3Dビューアーは以下のように見えます。
+
+![](https://downloads.intercomcdn.com/i/o/845930227/b1fafb0ae5a597cebd08216b/image.png?expires=1779991200&signature=9193685e518760a5bf21bd4253b8495487059634bd52be5dd0f156f80040dbdc&req=fCQiH8p%2Bn4NYFb4V1XW4gU18AwjBo6R2JCjPFqI2LRiuYUxHxASjgSjQEOfC%0AOwihmhiS3Wkw78xvfZvQ1RSIWA%3D%3D%0A)
+
+この記事で説明する以下のトピック：
+
+_[モデルの読み込み](#h_888b256977) - [表示](#h_0a094b396a) - [カメラ](#h_02072804a5) - [ツール](#h_003a4c0a62) - [ジョイスティック](#h_aec58b88ac) - [設定](#h_4d0e873c56) - [2D](#h_2529b0b9b9) - [フッター](#h_cc1579b00c) - [右クリック](#h_be448c6806) - [エクスポート](#h_a1594324c8)_
+
+## **モデルの読み込み**
+
+モデルは複数の方法で3Dビューアーに読み込むことができます。
+
+モデルページで、開くモデルの横の3Dをクリックするか、複数のモデルを選択してリストの上部の3Dをクリックします。
+
+ドキュメントセクションで、ドキュメントリストビューまたは右側の情報パネルで3Dをクリックすることで、IFCファイルとポイントクラウドドキュメントのプレビューを開くことができます。
+
+右上の3Dをクリックして3Dビューアーパネルを開くことで、モデルを読み込まずに3Dビューアーを開くこともできます。
+
+### **リビジョンセレクター**
+
+まだモデルを読み込んでいない場合は、リビジョンセレクタードロップダウンリストを開くことでモデルを読み込みおよびアンロードできます。
+
+[こちら](https://support.catenda.com/en/articles/4670279-revision-selector)をクリックしてリビジョンセレクターの詳細をご覧ください。
+
+![](https://downloads.intercomcdn.com/i/o/845932443/61498edae0561e5178452829/image.png?expires=1779991200&signature=81b2a46f0f2140700048ba3704dcd7da5a239f4dd876711d44ad60ea799cc041&req=fCQiH8p8mYVcFb4V1XW4gWHzJT%2FRVZlD%2BXL9zeYyuF3fSLbWGwZo5M2Gg46C%0AEWJ5T3AogcBqURfyrXx2jCjGTA%3D%3D%0A)
+
+### **グリッドドロップダウン**
+
+プロジェクトにグリッドを含むモデルがある場合は、このドロップダウンリストを使用してビューアーに読み込むことができます。
+
+[こちら](https://support.catenda.com/en/articles/4670327-showing-grids)をクリックして、3Dビューアーのグリッドの詳細をご覧ください。
+
+![](https://downloads.intercomcdn.com/i/o/845933603/0e12c7587087e5d61dad9b32/image.png?expires=1779991200&signature=51fa8a92b2c07992a68b5e341e42700ea2636d29d3a977edbd6ee5ad7bc4dcc7&req=fCQiH8p9m4FcFb4V1XW4gR4Cd26%2Bf8YbwgKVl5VcQbkVb%2F043c1nNwIkYn1u%0APUa%2FQxjYsDKZAyWaCp%2F7e63eNw%3D%3D%0A)
+
+## **表示**
+
+表示ドロップダウンを使用すると、オブジェクトを表示、非表示、または半透明にすることができます。
+
+![](https://downloads.intercomcdn.com/i/o/845934711/3df6af991ef5772735f8781c/image.png?expires=1779991200&signature=dca171ed06454fcd8d7e7ae056dfe9f6ff328c59c6edd069312f61b0bd7b607f&req=fCQiH8p6moBeFb4V1XW4gS5O5h2LhmYU%2BwpNf5%2BZRiY1HXXO%2BXzhIhz4bZKf%0AhtYo4yEqD5k2v%2BWTqTEa%2FGl8LA%3D%3D%0A)
+
+表示ドロップダウンを開くと、以下のようになります：
+
+![](https://downloads.intercomcdn.com/i/o/845941119/e9b39bbe5d117a597aca78df/image.png?expires=1779991200&signature=d8e169d8dfae1ba577f9755f336083babd3c76936c4099e3cd6401d90004a8bd&req=fCQiH81%2FnIBWFb4V1XW4ga%2F7qvKmHR8Z%2FIHcK78bQ1jxtNshfpGDFHFdVN%2BK%0AM6FAYnFYNp95MdveC%2FB69GoGAA%3D%3D%0A)
+
+ここでは、以下のアクションを実行できます：
+
+### **オブジェクトを表示**
+
+_すべて表示_
+
+すべてのオブジェクトを表示します
+
+スナップショットまたはブックマークを再生後、非表示ジオメトリを表示したい場合に便利です。
+
+_選択したものを表示_
+
+選択されたオブジェクトを表示します
+
+選択されたオブジェクトを非表示にした場合、他のものを選択して選択から削除するまで、選択されたままですが非表示のままです。
+
+情報パネルでは、オブジェクトツリーから非表示オブジェクトを選択し、選択を経由して選択できます。
+
+コンテンツパネルでは、プロパティライブラリからオブジェクトを選択し、問題またはドキュメントにリンクされているオブジェクトを選択できます。
+
+### **オブジェクトの透明性**
+
+3Dビューアー内で半透明のオブジェクトをクリックして選択することはできません。
+
+_半透明にする_
+
+選択されたオブジェクトを半透明にします
+
+情報パネルでは、オブジェクトツリーから非表示オブジェクトを選択し、選択を経由して選択できます。
+
+コンテンツパネルでは、プロパティライブラリからオブジェクトを選択し、問題またはドキュメントにリンクされているオブジェクトを選択できます。
+
+選択した半透明オブジェクトは、選択したものを表示するか、すべて表示することでデフォルトの表示に戻すことができます。
+
+_その他を半透明にする_
+
+選択されたオブジェクト以外のすべてのものを半透明にします
+
+すべて表示してオブジェクトをデフォルトの表示に戻します。
+
+### **オブジェクトを非表示**
+
+非表示のオブジェクトはシステムメモリに読み込まれたままになります。
+
+_非表示_
+
+オブジェクトをビューアーから非表示にします
+
+_その他を非表示_
+
+選択されたオブジェクト以外のすべてのオブジェクトを非表示にします
+
+これはオブジェクトの分離に似ています。
+
+非表示のオブジェクトはメモリに読み込まれたままになります。
+
+## **カメラオプション**
+
+カメラオプションドロップダウンを使用して、ビューポイント、カメラタイプ、およびビューを選択できます。
+
+![](https://downloads.intercomcdn.com/i/o/845935508/86e4c1b7d88fdfb40f0f7d07/image.png?expires=1779991200&signature=655bcc8d656c09657a117ee9904072f9106343fd1f89869b348bf435372450d9&req=fCQiH8p7mIFXFb4V1XW4gcQqT9ryKz6oLSdV%2B%2BkwDfG1rtI0Yn7svdPKuiLS%0A8%2FWmd4I9OOLjySqW4UhTJwTGng%3D%3D%0A)
+
+### **ビューポイント**
+
+これがビューポイントメニューの例です：
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1771080880/dcb903a0ced6103edee4a7a70f09/image.png?expires=1779991200&signature=2d0cfa0a9136315c4c0f296914d199c797975aa583dbb5264516ae7c292c5e58&req=dScgF8l2nYlXWfMW3nq%2BgXNoVJbAJnEbE7CtbOrtYWJEngS3p%2BZDBinvjBn%2B%0A52Q1B7FyPfj86S1BPir3iP%2FDFok%3D%0A)
+
+_ホーム_ - ビューアーをデフォルト位置にリセットします
+
+これはビューアーに読み込まれているすべてのモデルの概要を取得するのに役立ちます。
+
+次のビューを使用すると、異なる側からモデルを見ることができます：
+
+_背面_
+
+モデルの背面から表示します
+
+_左_
+
+モデルの左側から表示します
+
+_前面_
+
+モデルの前面から表示します
+
+_右_
+
+モデルの右側から表示します
+
+これらのビューは、垂直クリッピング平面を作成してセクションを作成するのに最適です。
+
+_上面_
+
+モデルの上部から表示します
+
+このビューは、水平クリッピング平面を作成してフロアプランを作成するのに最適です。
+
+### **カメラタイプ**
+
+これがカメラタイプメニューの例です：
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1771082517/baca855e6cf24a2ece1f5cdb6355/image.png?expires=1779991200&signature=b50dd2ea23844eed61faa7667cb2e61e232fc5cc638b07724736cabf3cd5d5c9&req=dScgF8l2n4ReXvMW3nq%2Bgej5Tr4cvKVsBE5RMsJphVTXCMHJRhT9OHUadSBz%0AhrOa5Z0k77CsA6X%2BDGAR6CPdyCI%3D%0A)
+
+_透視図_ - デフォルト
+
+人間が見たのと同じようにモデルを見ることができます。
+
+このカメラタイプは、モデル内にいることがどのようなものかを理解するのに最適です。
+
+カメラは人間の目にあるため、壁を通じてクリップできます。
+
+透視図カメラタイプの視野角はビューアー設定で調整できます。
+
+_正投影_
+
+無限遠くにいるかのようにモデルを見ることができます。
+
+このカメラタイプは計画に最適です。距離の判断がより簡単です。
+
+カメラは無限遠にあるため、オブジェクトを通じてクリップできず、その背後を見るにはオブジェクトを非表示にするか、半透明にする必要があります。
+
+### **ビュー**
+
+これがビューメニューの例です：
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1771070836/c99549c61bdff83b634ac7c1addb/image.png?expires=1779991200&signature=bc7738d0ef3fba7e109e49bb5a52165342272379d2c960b4395d6602c804a3e8&req=dScgF8l5nYlcX%2FMW3nq%2BgV5k%2BjE8lqrg2Qder8K9xU5P%2B%2FLeBLNTweCaU1Q3%0A%2BdqNRO3kX96vxummdwdK4M4g4T0%3D%0A)
+
+> **注意：** Catendaが開かれているハードウェアとソフトウェアが[推奨通り](https://support.catenda.com/en/articles/6921941-hardware-recommendation)に設定されていることを確認してください。これはビューアーの表示方法に影響を与える可能性があります。 _通常_ デフォルトでは通常のビューが選択されます。 正確なオブジェクト表示の細い線。 測定に最適です。 IFCでオブジェクトの色が定義されていない場合、そのオブジェクトに設定されているエンティティに基づいて色が割り当てられます。 エンティティは情報パネルの検査メニューにあります。 Catendaビューアーには太陽光または人工光がないため、オブジェクトは互いに影を落としません。 表面は平らな色で描画され、カメラが直接見ているか、表面がカメラから離れて角度を付けているかに応じて暗くなります。 _等高線_ セルシェーディングは、あなたから離れた角度を持つコーナーの線をより太い線に変え、あなたに向かい合うコーナーの線をより細い線にします。 これは奥行きの追加レイヤーを作成しますが、太い線が正確な測定をカバーする可能性があります。 等高線は画像をエクスポートするのに最適なビューです。 **注意：** Catendaが開かれているハードウェアとソフトウェアが[推奨通り](https://support.catenda.com/en/articles/6921941-hardware-recommendation)に設定されていることを確認してください。これは線がどのように見えるかに影響を与える可能性があります。 _スケッチ_ 外部の関係者とのミーティングでモデルのシンプルな表示が必要な場合に最適です。 IFCで色が指定されていないオブジェクトはグレートーンとテクスチャで着色されるため、表面が完全にフラットに見えません。 窓は通常の透明な青色のままです。 **注意：** Catendaが開かれているハードウェアとソフトウェアが[推奨通り](https://support.catenda.com/en/articles/6921941-hardware-recommendation)に設定されていることを確認してください。これは線がどのように見えるかに影響を与える可能性があります。
+
+## **ツールドロップダウン**
+
+3Dビューアーの右上に、3Dビューアーツールドロップダウンがあります。
+
+![](https://downloads.intercomcdn.com/i/o/845937060/1ca7b5ac77516dc51c3a93c3/image.png?expires=1779991200&signature=bdf3904d5dc7ec2f6cf0a0da25d46f2004ea61824835a4e9e9b547b434ffc206&req=fCQiH8p5nYdfFb4V1XW4gTzoO0VNmMZ8B7%2BbQNbtpirS9xEmRPSwJaC%2F13Xm%0AIwTw97T%2BYgmMG55ESpaQaY9tBA%3D%3D%0A)
+
+> **注意：** ツールボタンは通常このように見えますが、選択したツールに応じて表示が変わることがあります。 ツールドロップダウンはこのように見えます： ![](https://downloads.intercomcdn.com/i/o/804653444/20efed171c9fe98b4e7f39fd/image.png?expires=1779991200&signature=bb7be770ab7884d09fd0246aee5fc9684433c241198a266e822cba96e628fb23&req=fCAjEMx9mYVbFb4V1XW4gc4hHZcDerhmo5Sk4SZRhd0JGqPPkgFJxeoDqI9t%0Atnt6dYCyv%2Bvy0ePbnV2LNdZf%2Fw%3D%3D%0A) [こちら](https://support.catenda.com/en/articles/4670294-measuring-features)をクリックしてツールドロップダウンの詳細を参照してください。
+
+## **ジョイスティック**
+
+このボタンをクリックすると、ジョイスティックが画面に表示されます。
+
+ジョイスティックを使用すると、透視モードでモデルを滑らかに飛行したり、正投影モードで中心点の周りを回転したりできます。
+
+![](https://downloads.intercomcdn.com/i/o/845937867/7f3876457beffb1c74bf31dc/image.png?expires=1779991200&signature=c941660b7b1a8d29eeff733e75923377edd37b73c8a551a82bc1f3b7c6f3b5a3&req=fCQiH8p5lYdYFb4V1XW4gb310BHAHQXujgk%2BOUECL3Z77ikkmxo0OoA18rDq%0AmkIWIfQTTYnJZsWjyMve0gWfUQ%3D%3D%0A)
+
+ジョイスティックをオンにすると、ボタンが変わり、ドロップダウンが表示されます。
+
+![](https://downloads.intercomcdn.com/i/o/804644706/1dca3934de6bdfc69808682c/image.png?expires=1779991200&signature=f36dbb2dfa174a88f1103d92de6b275d710fad3f17c93b173a377b8936d99aad&req=fCAjEM16moFZFb4V1XW4gbIbqQgQFEqc9t1y44y2D8%2BO08FRrwTlTATwEwqo%0A4iaFas0kG0TbPM2HsomIToA25w%3D%3D%0A)
+
+ジョイスティックの横にあるドロップダウンでジョイスティックの位置を設定できます：
+
+- 左中央
+- 左下
+- 下中央
+- 右下
+- 右中央
+
+## **3Dビューアー設定**
+
+このボタンをクリックして[3Dビューアー設定](https://support.catenda.com/en/articles/5784718-3d-viewer-settings)ドロップダウンを開きます
+
+![](https://downloads.intercomcdn.com/i/o/845938367/9e9984bbd7105bf8537bb8b3/image.png?expires=1779991200&signature=ff9d26a0b7f6c6695590422ef648eb4e35ca47d81dd0b5db380f56f302cd7908&req=fCQiH8p2nodYFb4V1XW4gYLR0mH6h3zB4WkkRKe%2FiBpgCRETUFt%2BXlU%2Fm9Kp%0AuLggDurs6XsLYiLG9CfMDPfvvw%3D%3D%0A)
+
+## **2Dボタン**
+
+このボタンをクリックして[2Dビューアー](https://support.catenda.com/en/articles/4854537-2d-viewer)を開きます
+
+![](https://downloads.intercomcdn.com/i/o/845939667/1e322c693efb051d5c3ec7ea/image.png?expires=1779991200&signature=62b9bab9c7ceb9ac1ca7a12487e323485f6b868ae69a20cfc68fb5fdd573e51e&req=fCQiH8p3m4dYFb4V1XW4gVxq5sIds2lSzb4lkW7HbUS8dWBVIFQOgS%2F4FDA2%0AGy7XtmCwkMdv%2FeprubNqaysYCg%3D%3D%0A)
+
+## **オブジェクト情報フッター**
+
+デフォルトでは、オブジェクトを選択するとビューアーの下部にフッターが表示されます。
+
+![](https://downloads.intercomcdn.com/i/o/1019401439/4d388129fa2d03729dc31e76/image.png?expires=1779991200&signature=1e2d5d45ea86b0f1def0eb6a8971448b722b63f290a425a481abb2c141ee540d&req=dSAmH81%2BnIVcUPMW3nq%2BgexpaN7X8l172Nva71O74Sd38%2BeLDn9nwcCn9rt4%0AVVFDa%2BxynIdig3UVk3DaJMm28ts%3D%0A)
+
+このフッターには、トピックおよびオブジェクトにリンクされているライブラリアイテムに関する情報が含まれることがあります。
+
+### **識別**
+
+オブジェクト名 - オブジェクトエンティティ - オブジェクトタイプ
+
+複数のオブジェクトが選択されている場合、これは「未定義」と表示されます。
+
+### **トピック情報**
+
+_オープン_
+
+オープンな問題の数（赤）
+
+「オープン」をクリックしてこのオブジェクトがリンクされているすべてのオープンな問題を右側のパネルで確認します。
+
+_クローズ_
+
+クローズされた問題の数（緑）
+
+「クローズ」をクリックしてこのオブジェクトがリンクされているすべてのクローズされた問題を右側のパネルで確認します。
+
+### **ライブラリ**
+
+選択したオブジェクトをCatenda Hubのライブラリにリンクした場合、情報フッターでリンク数とともにライブラリを表示できます。
+
+_SharePoint_
+
+選択したオブジェクトをSharePointドキュメントにリンクした場合、SharePointライブラリの名前とリンクされたドキュメント数がここに表示されます
+
+_ドキュメント_
+
+選択したオブジェクトをドキュメントページのドキュメントにリンクした場合、ドキュメントの下にそれらを表示でき、リンクされたドキュメント数が表示されます。
+
+_分類_
+
+選択したオブジェクトを分類にリンクした場合、分類の名前とリンクされた分類の数がここに表示されます。
+
+_リンク_
+
+選択したオブジェクトをリンクライブラリのリンクにリンクした場合、「リンク」と、リンクされたリンク数が表示されます。
+
+_Dropbox_
+
+選択したオブジェクトをDropboxドキュメントにリンクした場合、Dropboxライブラリの名前とリンクされたドキュメント数がここに表示されます。
+
+### **オブジェクト情報フッターの非表示**
+
+xをクリックして、3Dビューアーからオブジェクト情報フッターを非表示にします。
+
+### **オブジェクト情報フッターの表示**
+
+情報フッターを閉じた場合は、2Dビューアーまたは2Dボタンの下のiボタンで再度開くことができます。
+
+![](https://downloads.intercomcdn.com/i/o/845975138/79609e6f5263c78b91a8152f/image.png?expires=1779991200&signature=b10a41f57a75c5be173d2718ffc42a1509247af2ac1cd03ba18b5a2962a65ac2&req=fCQiH857nIJXFb4V1XW4gXsOoCeuZTb0ZfYItxH8K2AcssoIeV2XCJbKjZ9L%0AGjwh8rDyqB8VhGaiVygcSyjHjA%3D%3D%0A)
+
+## **オプションメニュー**
+
+3Dビューアーを右クリックすると、[オプションメニュー](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Double%20click-,Options%20menu,-Show%20all)が表示されます。
+
+## **画像をエクスポート**
+
+3Dビューアーから画像をエクスポートする最善の方法は、[3Dスナップショット](https://support.catenda.com/en/articles/8053352-issue-body#h_1ba7f8873f)を作成することです。
+
+# ArchicadからのIFCエクスポート
+
+> ArchicadからのIFCエキスポートの方法について詳しく説明します。
+
+IFCをエクスポートする際は、IFCエクスポートに関連する内容を考慮してください。
+
+IFCファイルは、情報が多く含まれているとサイズが大きくなり、扱いにくくなることがあります。そのため、不必要な情報をエクスポートしないことが重要です。この記事では、ArchicadでのIFCエクスポートをフィルタリングするためのヒントを紹介します。
+
+### **この記事のトピック:**
+
+- プロジェクト情報
+- エクスポート設定
+- モデルフィルター
+- タイプマッピング
+- 形状変換
+- プロパティマッピング
+- データ変換
+- 単位変換
+
+## プロジェクト情報
+
+プロジェクトからIFCをエクスポートする前に、プロジェクト情報が設定されていることを確認してください。
+
+プロジェクト情報はメニューのこちらにございます：
+
+[ファイル] → [情報] → [プロジェクト情報]
+
+プロジェクト情報は以下のような表示になります：
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1859966811/76f88e3135972fe2ece4d7283ed0/image.png?expires=1781092800&signature=498ebfbe1a98b42e3a89895200e6b236a46838029efab3e6e735c163c8a06a46&req=dSgiH8B4m4leWPMW3nq%2BgTAysu9fqofIc2ooucxA9u3rsSNoWOx7uwixWDfc%0ApbWW0fJfvl7UaWwbsJUSRNNtkW8%3D%0A)
+
+デフォルトでは、異なるフィールドは空欄になっています。 それらが空欄であっても、リストに記載されている各プロジェクト、敷地、建物に対して一意のIDが作成されます。 場合によっては、同じArchicadプロジェクトから複数のIFCファイルがエクスポートされることがあります。 その例としては、以下のものが挙げられます。
+
+- **異なる分野のオブジェクトを含むIFCファイル。** ダクトを含むMEPモデル、壁を含む建築モデル、全てのスラブを含む構造モデルなど。
+- **複数の建物** 時として、同じArchicadファイル内で複数の建物が一緒にモデリングされ、その各々について個別のIFCがエクスポートされます。
+- **異なる設計の選択肢** 建物の異なるバリエーションが同じArchicadファイル内でモデリングされている場合、各バリエーションはしばしばそれ自身のIFCファイルにエクスポートされます。
+
+### プロジェクト情報の構成
+
+複数のIFCファイルをエクスポートする計画があるかどうかに関わらず、後で変更する必要がないように、プロジェクト情報に値を入力しておくことはしばしば良い考えです。 プロジェクト情報は、ファイル内の**GUID**に影響を与えるため、入力することが重要です。 エクスポートされるIFCのタイプごとに、独自のプロジェクト設定を持つべきです。 プロジェクト設定は、右下でインポートおよびエクスポートできます。 これにより、ファイルからのエクスポートに対し、複数のプロファイルがサポートされるようになります。 Catendaにとって重要なのは、異なるモデルに含めるIFCは異なる情報が設定されていること、そして同じモデルに含めるIFCは同じ情報が設定されていることです。
+
+### **IFCエクスポート設定**
+
+IFC変換設定ダイアログでは、変換設定の表示、変更、または新しい変換設定の作成ができます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1691008732/23c884c6de1f43f6664f03225c81/image.png?expires=1781092800&signature=6e2208311d8dc5c03a7385939bcc4cfc65f6c62ddc6bde7d70ea224349dd996e&req=dSYuF8l%2BlYZcW%2FMW3nq%2BgdMzAkeFnj6Ip4WnVQ0KKC1ClxtGPkSI8hyU0DJ2%0A4uysq8GH%2BbPSy1hduE5ork4hqdc%3D%0A)
+
+IFCエクスポートを変更したい場合は、既存の変換設定を複製して、デフォルトの変換設定をいじらないようにすることをお勧めします。[新規]→[複製]を選択し、複製したい変換設定を選択してください。IFCをマージしたい場合は、同じバナーの下で行うことができます。
+
+プロジェクト全体をエクスポートするには、3Dビューから実行する必要があります。また、適切な変換設定を使用していることを確認してください。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1691010402/158f2f2331c1cc16af1199415bb5/image.png?expires=1781092800&signature=ff47b6f12629994963e2dcc48a9adeb7400213c70991f95b05d4bfe4b46dd1c6&req=dSYuF8l%2FnYVfW%2FMW3nq%2BgcgueXYbYgLc%2Bwb%2FS4rBtwvSYvQ7JC8%2FlVzSkZoC%0A7sF0NjyFmDdPDAXHKC3gDRcOyTM%3D%0A)
+
+### 
+
+オプションボタンをクリックすると、IFCエクスポート設定の概要を確認できます。「モデルフィルター」の下で、さらにフィルタリングすることもできます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1691023692/28bbf226596173c971262a060bd7/image.png?expires=1781092800&signature=0d58878026e31c9642e8e554e1415cc653d7cb4b353971992a2ebb83fe31c722&req=dSYuF8l8nodWW%2FMW3nq%2Bgd2xdlAUER37h15W5M8zYTzJbRweviD7gp7KJyA7%0AHiRyjW5MoO%2B%2F440NBPL8xxpqb9Q%3D%0A)
+
+---
+
+### **エクスポートにおけるさまざまな設定**
+
+1. **モデルフィルタ:** 事前設定に基づいてエクスポートしたいものをフィルタリングできます。
+1. **タイプマッピング:** 各要素がどのようなIFCタイプとしてエクスポートされるかを選択できます。
+1. **形状変換:** どのような種類の形状をエクスポートするかを選択できます。
+1. **プロパティマッピング:** タイプに基づいて基準を設定できます。
+1. **データ変換:** モデルからどのような種類のデータをエクスポートするかを選択できます。
+1. **単位変換:** IFCでエクスポートする測定単位を選択できます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1691039392/cc83505501a5eac3d341dae8fb0f/image.png?expires=1781092800&signature=6db39c4b610329cb4453a226ca23b80a22c92234efb2a8d5815eefb0b046e81e&req=dSYuF8l9lIJWW%2FMW3nq%2BgWgS%2BNlHN4OHL9R44K6mV1FSDT%2By%2Ff%2BNvCFZLobn%0AgtZGzfEYLz6KWtiU%2FT826Rzop7I%3D%0A)
+
+---
+
+### **1. モデルフィルタ**
+
+**IFCグリッド(通り芯)のエクスポート**
+
+Catenda Hubでグリッドを見ることができるように、グリッドもエクスポートしたい場合があります。IFCエクスポートのモデルフィルターに移動し、[**通り芯設定と要素**]のチェックボックスがチェックされていることを確認してください。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1691052790/39bc45f4ddbd6f0a2606ad104546/image.png?expires=1781092800&signature=3edc664def375c8a2c5226afcda1efbda08f4a4b54d66719f5555d0179457f37&req=dSYuF8l7n4ZWWfMW3nq%2Bgd%2Fdg3uOA1p%2BYgW0JkjfWaXvALHaqk2Rdz27%2FYT5%0A%2FcWi0YcxeyzTizp%2FKe5VPwzBYJQ%3D%0A)
+
+---
+
+### **2. タイプマッピング**
+
+IFCがエクスポートされると、モデル内のすべての要素にIFCタイプが割り当てられます。
+
+使用したいIFC変換設定を選択し、「タイプマッピング」に進み、「IFCインポート用タイプのマッピング」をクリックして、エクスポートされたIFCにどのようなタイプマッピングを適用したいかを管理できます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1691063610/8b6f7fffad2fd2a061c0850a348d/image.png?expires=1781092800&signature=9864038687aaae53f296382d90cfefd68920c9879b5f91403999ca4fb657d946&req=dSYuF8l4nodeWfMW3nq%2BgS5IlIz8wDo%2FqNthZUsoaIzlxcau2LG8Ro2OSoAd%0AE8o39T%2FBre8ss2qen19L5pAXj1g%3D%0A)
+
+タイプマッピングには、主に2つのIFCタイプを並べ替えるオプションがあります。
+
+- **要素タイプ:** 各要素には、基本的なIFCタイプが自動的に割り当てられます。各要素に割り当てられたIFCタイプは、プロジェクトマネージャーと要素設定で確認できます。
+- **分類:** この方法では、指定された分類基準に従って、より柔軟で詳細なIFCタイプマッピングが可能です。ゾーンと開口部要素は、IFCSpaceおよびIFCOpeningElementsとして固定のIFCタイプに設定されます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1691095463/d1578db8a8e005e9d3e08e605126/image.png?expires=1781092800&signature=68739c26ca210e0aa96d90a299c703c4d5d52a859ec08279264a8570ac41ea9f&req=dSYuF8l3mIVZWvMW3nq%2BgTVhq3UF1LbNbgoGZbr5qsbFV%2FNqkSybyaRTeWQ3%0AudDgKkAFnlUBW01xGkZCXLNJzG0%3D%0A)
+
+---
+
+### **3. 形状変換**
+
+IFCエクスポートの形状変換では、さまざまな方法で形状を変換できます。
+
+**Archicad要素の変換**
+
+すべてのモデル要素の形状を次のようにエクスポートします:
+
+- **パラメトリックな押し出し形状（可能な範囲） (デフォルト)**
+- **正確なBREP形状:** これを選択すると、次の2つのオプションもBREPになります。
+- **ソリッド編集編集中の要素:**
+
+    押出/回転 - デフォルト
+
+    BREP - 正確な形状
+
+**接合部を含む要素**
+
+一部の要素は他の要素と交差し、押し出しの一部をトリミングすることができます。
+
+- **押出/回転 - 要素のコーナーを接続:** これにより、押し出し要素に接合部が追加されます。このオプションを使用すると、壁や屋根のような要素、特に傾斜したものがきれいに接続されていることがわかります。
+- **接合部なしの押出/回転 - デフォルト:** これにより、エクスポートが高速になります。壁や屋根のような90度の要素がある場合、このオプションでは違いに気づかないでしょう。傾斜した壁がある場合、壁が接続するコーナーで、まっすぐな押し出しの余分な部分をトリミングする代わりに、壁がお互いをまっすぐ通り過ぎてしまい、きれいに接続しないことに気づくでしょう。
+- **BREP - 正確な形状**
+
+**パラメトリック要素**
+
+Archicad要素は、多くの場合、距離まで押し出されるガイドラインの形でパラメトリック形状としてエクスポートできます。パラメトリック形状を使用すると、作成後にオブジェクトを簡単に編集できます。このオプションは編集可能性を維持しますが、形状の定義が形状の近似値であるため、不正確になることがよくあります。IFCをArchicadや他の編集プログラムに再度インポートしてさらに編集する予定がある場合は、このオプションをお勧めします。
+
+**BREP**
+
+形状を個別のBREPサーフェスとしてエクスポートします。
+
+オブジェクトを、長さ/幅/高さなどのパラメーターとその結果として生成されるサーフェスで記述する代わりに、各サーフェスは3D内の位置を持つ個別のサーフェスとして記述されます。オブジェクトは複数のサーフェスを含むことができますが、これらは緩いサーフェスになります。BREPをエクスポートした後、パラメーターはサーフェスに適用されなくなるため、個別に編集する必要があります。
+
+BREPオプションを使用すると、正確なサーフェスがエクスポートされ、オーサリングツール間でのパラメーターの解釈に違いが生じる余地がなくなります。サーフェスは個別に色付けされ、Archicadと同じ色がCatenda Hubにも表示されます。
+
+材質の色は、以下のメニューで設定できます: [オプション]→[属性設定]→[材質]
+
+材質のすべての設定を構成しておくと、IFCに書き込まれるため推奨します。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1691184743/e51eec6ba974403a44aa44c61444/image.png?expires=1781092800&signature=783ca4c9731557adb0c07500b9895217d428d40d7543e85dbf575483b828b697&req=dSYuF8h2mYZbWvMW3nq%2BgSl4CLhxba6Uq8oyGExcXDZGuW9CZ%2FDwgQ%2FDzT4p%0AQxNzHwh5czJosgdngijMX3%2FGK%2BM%3D%0A)
+
+Catenda 3Dビューアの材質は、光源がない状態でフラットシェーディング(単一の明るさ)されています。これは、材質がCatenda 3Dビューアで表示される際、環境、減衰量、光沢、放射、鏡面などの値が解釈されないことを意味します。
+
+**Catendaが3Dビューアで材質を表示する際に解釈する値は以下になります:**
+
+- **表面カラー：**材質の色
+- **透過率:** オブジェクトをどれだけ透かして見ることができるか（半透明の不透明度設定を上書きします）
+- **拡散：**材質の色がどれだけ暗いか、または明るいか
+
+> **Note:** 例： [金属 - アルミニウム]の拡散のデフォルト値は**14**と低い数値に設定されており、3Dビューアでは黒く表示されます。上の画像のように拡散の値を**70**に設定することをお勧めします。
+
+**IFCモデルの位置を以下で定義します:**
+
+このオプションは、プロジェクトの位置を決定します。
+
+プロジェクトの早い段階で共通の座標点を決めておくことが重要です。後で変更すると、複数のコンサルタントがオブジェクトを移動しなければならなくなり、プロジェクトの終わりには実現不可能になることがよくあります。
+
+- **測量点とプロジェクト原点 (デフォルト):** このオプションを使用すると、Archicadでのモデルから(0,0,0)までの距離が、Catenda Hubでのモデルから(0,0,0 + 測量点の座標)までの距離になります。プロジェクトの位置を設定している場合、モデルはCatenda Hubのその座標に配置されます。
+​
+- **プロジェクト原点のみ:** このオプションを使用すると、Archicadでのモデルから(0,0,0)までの距離が、Catenda Hubでのモデルから(0,0,0)までの距離になります。
+​
+- **測量点のみ:** このオプションを使用すると、Archicadでの測量点からモデルまでの距離が、Catenda Hubでのモデルから(0,0,0)までの距離になります。
+
+### **IFCスキーマ関連のオプション**
+
+**マテリアル保存モード（IFC2x3のみ）:**
+
+- **要素を絶対に分解しない、マテリアルの保持は保証されません:** このオプションを使用すると、オブジェクト全体を1つのオブジェクトとしてエクスポートします。
+- **マテリアルを保存する場合のみ分解 - デフォルト:** このオプションを使用すると、必要な場合にのみ、各複合マテリアルに対して個別のオブジェクトをエクスポートします。
+- **すべての要素を部品に分解し、マテリアルを保持します:** このオプションを使用すると、すべてのオブジェクトが各マテリアルに対して個別のオブジェクトとしてエクスポートされます。
+
+複合構造マテリアルがある場合、これは各マテリアルに対して個別のオブジェクトがエクスポートされることを意味します。エアギャップは1〜5mmと非常に薄く、非常に薄いオブジェクトになります。オブジェクトがそれほど薄い場合、形状が不正確になる可能性があります。問題のある壁のマテリアルは次のように見えることがあります:
+
+これは、穴が開けられるべき場所を正確に特定するのが難しいため、ソフトウェアがサーフェスに穴を開けるのを困難にする可能性があります。開口部がうまく開けられないことに気づいた場合、このオプションをオンにすると役立つことがあります。このオプションをオンにすると、壁は多くの薄い複合オブジェクトではなく、単一のオブジェクトとしてエクスポートされます。
+
+**複合構造および断面形状:**
+
+- **複雑な建築要素を部品に分割:** ここでは、複合要素を分割したい要素のタイプと、分割したくない要素のタイプを選択できます。このオプションを選択すると、マテリアル保存モードの選択ができなくなります。
+
+---
+
+### **4. プロパティマッピング**
+
+プロパティマッピング（ファイル > IFC > 相互運用性 > プロパティマッピング）では、エクスポートしたいIFCのバージョンを選択できます。標準のIFC2x3と標準のIFC4があります。IFCにエクスポートするプリセットを追加することもできます。これを行う場合は、選択したIFCスキーマを複製する必要があります。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1691263992/c717130b9d4a8aeeffb2f8df16ea/image.png?expires=1781092800&signature=5ed072921625fedbae7f1b21d70666f0543b80172ddcaab60650511c19b0130d&req=dSYuF8t4nohWW%2FMW3nq%2Bgec74ir1uDGBRfrG7%2FXrq9LxtTypwT4L%2FvbtyTCI%0AkkdAzAqafNy9YxMXut5a4ZA%2Brfs%3D%0A)
+
+標準IFCを複製したら、IFCスキーマを選択し、「エクスポート用IFCプロパティのマッピング」をクリックして、新しいプリセットに追加したいプロパティを追加できます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1691267026/19e42cdf98fcb8e53ce77e1ea963/image.png?expires=1781092800&signature=d90a137aa04c466cae55e12bbfc11b167ff94f9bba5509bae053ff4366447cf4&req=dSYuF8t4moFdX%2FMW3nq%2BgSS%2Bg5EsIuAO%2Fl27V%2F6oa30QmoRurp6YCitbgYUp%0AFDmpAj5V7FEOX7j1jdiXKzHqBjQ%3D%0A)
+
+---
+
+### **5. データ変換**
+
+データ変換では、形状に加えて、IFCエクスポートからどのような種類のデータを取得するかを選択します。エクスポートしたいもののチェックボックスをチェックしてください。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1691282830/5494d8731fc51cfdb8648706565a/image.png?expires=1764774000&signature=6664772a577cd710a5d1a1abb2675e54f2f2cd1dcbc6049be6ec4959812f3cfd&req=dSYuF8t2n4lcWfMW3Hu4gSQLlCWQRCyV7pG2uUrtMl21MZhZhn5pfrb5m13S%0ASQ%3D%3D%0A)
+
+- **要素パラメーター:** Archicadの要素パラメーターを読み取り、そのタイプに応じてIFC数量またはIFCプロパティに変換します。このオプションを選択すると、ファイルサイズが大幅に増加します。
+- **IFCベース数量:** サイズ、面積、体積のパラメーターを読み取ります。このチェックボックスをオフにすると、IFCをCatenda Hubにインポートする際に問題が発生する可能性があります。
+
+---
+
+### **6. 単位変換**
+
+エクスポートする際の長さ、角度、面積、体積、通貨、時間の単位を設定します。
+
+# Catenda Archicad プラグイン
+
+> **Note:** **注:**プラグインのインストール ファイルは、[このヘルプ記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
+
+この記事には次の情報が含まれています。
+
+**[インストール](#h_e385b268de)-[Catendaパレット](#h_8f1a4c7878)-[サインイン](#h_1c0212d551)-[プロジェクトリスト](#h_f708fc0419)-[トピックボード](#h_321a0e596b)-[トピック](#h_37dceffce4)**
+
+## **インストール**
+
+Catenda ArchicadプラグインをWindowsにインストールすると、インストールファイルが「C:\\Program Files\\Catenda\\Catenda Archicad Connection\\\<Archicad Version>\\Add-On」フォルダに表示され、次回Archicadを開いたとき、のアドオンマネージャで有効になります。
+
+これは、「C:\\Program Files\\Graphisoft\\\<Archicad Version>\\Add-Ons」にあるデフォルトのアドオンフォルダーとは異なることに注意してください。
+
+## **Catendaパレット**
+
+プラグインをインストールすると、上部バーに Catenda メニュー タブが表示されるようになります。
+
+このメニューには、「Catenda Hub Issue Manager パレット」を含む「Catenda Hub Issue Manager」ウィンドウがあります。 このパレットの使用を開始するには、平面図または 3D ビューを開く必要があります。
+
+パレットでは次のことが可能になります。
+
+- Catenda Hub プロジェクトに移動
+- トピックを確認・作成する
+- モデルとリビジョンをダウンロード・アップロードする
+
+## **サインイン**
+
+Catenda パレットを開くと、最初にサインイン ページが表示されます。
+
+サインイン ページは次のようになります。
+
+![](https://downloads.intercomcdn.com/i/o/954674252/087223d36db0710549d0e1a4/image.png?expires=1781092800&signature=d37b25886b0caa898666f2a76bf3fee18edf85dc28dfbd5e03f1d1983d24b150&req=fSUjEM56n4RdFb4V1XW4gdKdAr6wsDWM%2BEx%2B94iXEJvwGY%2BsdN3sXxDUIB3U%0AOS7tVjGc5lLCaC0o6G9Q2jXUVw%3D%3D%0A)
+
+Catenda アカウントをお持ちでない場合は、右上で無料でサインアップできます。
+
+すでに Catenda アカウントをお持ちの場合は、電子メールとパスワードを入力して、「サインイン」をクリックします。
+
+サインインした後、Catenda アカウントへのアクセスを許可するように求められます。
+
+このアクセスを許可すると、Archicad プラグインがCatenda アカウントの[アプリケーション ページ](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a)にアプリケーションとして表示されます。
+
+アクセスを許可したくない場合は、ここでいつでもアクセスを取り消すことができます。
+
+### **パスワードのリセット**
+
+パスワードを忘れた場合は、「パスワードを忘れました」をクリックしてリセットできます。
+
+パスワード リセット ページは次のようになります。
+
+![](https://downloads.intercomcdn.com/i/o/954682377/c823da16f37adde39b89cc90/image.png?expires=1781092800&signature=c4ee66a384718ed6fa31b7182942a99452cf40586604a7ad8b8b3e6d8afd0b3d&req=fSUjEMF8noZYFb4V1XW4gX3vJHXYueNw2Gh%2FbwNFY2ioSwCvESxm5X8EXzgv%0AgI8DjUzLOcahxLN2e%2B6AWVfBKg%3D%3D%0A)
+
+メールアドレスを入力して「確認メールを送信」をクリックすると、パスワードのリセット手順を案内するメールが送信されます。
+
+このメールは 5 分以内に受信していることを確認してください。
+
+受信箱にメールが表示されない場合は、スパムまたは迷惑メールの受信箱を試してみてください。
+
+5 分以上かかる場合は、サポート ( [support@catenda.com)までご連絡ください。](mailto:support@catenda.com)
+
+サインインに戻るには、右上のサインインをクリックします。
+
+## **プロジェクト一覧**
+
+Archicad プラグインを開くと、次のようなプロジェクトのリストが表示されます。
+
+![](https://downloads.intercomcdn.com/i/o/954655043/5046855c263d8f134ba102ce/image.png?expires=1781092800&signature=55874591c0ce9f51550a72cccdc0d007b48af708fc4e431ed5f310d077858491&req=fSUjEMx7nYVcFb4V1XW4gbyYsL82na2N68r08XRtbqZl%2Bf8eTROeLgH6x0SO%0Ax4MBP1XZdqUMtGhwkPiy9HpW0w%3D%3D%0A)
+
+### **ハンバーガーメニュー**
+
+プロフィール写真の横にあるハンバーガー メニューをクリックすると、次のドロップダウンが開きます。
+
+![](https://downloads.intercomcdn.com/i/o/954662222/77df96f41e3efd9b4121b555/image.png?expires=1781092800&signature=0a9b5aa77899b88ed2d1d6414538864febbadd4a058d9c994ffe1379810833e1&req=fSUjEM98n4NdFb4V1XW4gcwXWEI%2BxUQghghIW8o1A9dztNSW6LV606lEWj7Q%0Ay79i6H7ASmvuy%2FLNQ0jQl7FUlQ%3D%3D%0A)
+
+**モデルとリビジョン**
+
+Catenda プロジェクトからモデルとリビジョンを開く
+
+**IFCをアップロードする**
+
+現在のArchicadプロジェクトからIFCをアップロードします
+
+**バージョン**
+
+プラグインのバージョン番号。
+
+**ログアウト**
+
+Catenda アカウントからログアウトします
+
+## **トピックボード**
+
+プロジェクトをクリックして開くと、プロジェクト内の最初のトピック ボードが開きます。
+
+トピックボードは次のようになります。
+
+![](https://downloads.intercomcdn.com/i/o/954653730/57169ac7a8502bf318f020ac/image.png?expires=1781092800&signature=7026a437cc97f9e35dcf974c09a819ace7128b9a553f271f55600c564331f085&req=fSUjEMx9moJfFb4V1XW4gR23y%2BSEep5dGm%2FI1DEbwUZCzqmwCTzRkDiEEQDO%0AouuguzdNNNeXp3bE0dflkITLjQ%3D%3D%0A)
+
+## **トピック**
+
+トピックボード内のトピックをクリックすると、トピックボードが開きます。
+
+トピックは次のようになります。
+
+![](https://downloads.intercomcdn.com/i/o/954701465/fb87b20a96e95c19f9695baf/image.png?expires=1781092800&signature=519669bc1e20fd4bbeed1f5e9b23f93d554141995fb3f37883408a2dd21d4cb0&req=fSUjEcl%2FmYdaFb4V1XW4gXg%2Fc62BNdpAvPbGEjPFF7iSl7zM5Tc02QzBBMOy%0AdRCMqiHP9XZ5pgWBfAUHyZIl3Q%3D%3D%0A)
+
+# Catenda Desktop connector (デスクトップ コネクタ)
+
+> PCとCatendaプラットフォーム間のファイル管理を簡素化し、効率的な一括アップロード、ダウンロード、スケジュール同期を可能にします。
+
+> **Note:** **注:**プラグインのインストール ファイルは、[このヘルプ記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
+
+この記事では、次の情報について説明します。
+
+[インスタントアップ/ダウンロード](#h_d60b5729b2) - [同期](#h_b0c80f3b56) - [ホームページ](#h_097078145d) - [トラブルシューティング](#h_91d43d0610)
+
+## **インスタントアップ/ダウンロード**
+
+Desktop Connector を使用すると、ローカル システムから Catenda Hub の指定したフォルダにファイルをアップロードできます。Catenda Hub上のいくつかのフォルダを選択して、ローカルマシン上の場所にダウンロードすることもできます。
+
+### **アップロード速度**
+
+Desktop Connector を使用したファイルのアップロードは、ブラウザ経由ではなく API 経由でインポートされるため、通常のアップロード プロセスよりもファイル転送が高速です。
+
+したがって、一度に大量のデータをアップロードする場合は、ファイルをアップロードするのに最適な方法です。
+
+### **安定したアップロード**
+
+複数のファイルをドラッグアンドドロップしたり、Catenda Hubのzipアップロード機能を使用したりすると、1つの大きなデータセットがアップロードされることになり、アップロードのサイズが大きいほど、Catenda Hubのドキュメント構造にファイルを送信するまでの待ち時間が長くなります。
+
+アップロードファイルサイズが大きければ大きいほど、失敗するリスクも高くなります。インターネット接続が途中で切断される可能せもあり、アップロードを繰り返すことになりかねません。
+
+一度に 1 つのファイル
+
+Desktop Connector では、フォルダ構造から一度に 1 つのファイルをアップロードすることで、この障害のリスクを最小限に抑え、時間を大幅に節約できます。
+
+## **同期**
+
+ファイルが定期的にアップロードまたはダウンロードされるタイミングをスケジュールできます。
+
+### **ローカルシステム - > Catenda Hub**
+
+Desktop Connector は、ローカルシステム上のファイルがCatenda Hubプロジェクトで最新であることを確認します。
+
+### **Catenda Hub -> ローカルシステム**
+
+また、Desktop Connector がローカル システム上に常に最新バージョンの Catenda Hub ドキュメントを保持するという逆の方法も機能します。
+
+## **サインイン**
+
+Desktop Connector を初めて開くと、サインインするように求められます。
+
+サインインボタンをクリックすると、デフォルトのブラウザが開き、Catenda Hubアカウントへのログインを求めるページが表示されます。
+
+ログイン後、またはすでにログインしていた場合は、Catendaアカウントへのアクセスを許可するように求められます。
+
+[アクセスを許可] をクリックすると、デスクトップ コネクタ アプリを開くように求められます。
+
+その後、Desktop Connector [のホーム ページ](#h_097078145d)にリダイレクトされます。
+
+![](https://downloads.intercomcdn.com/i/o/950031540/36cd0ebbd558689393707668/image.png?expires=1781092800&signature=0e4b881b5ad87ef25b75105e7a7e8ecd494477dfaa34d1d4278e9b4fa5b20dff&req=fSUnFsp%2FmIVfFb4V1XW4gfDY9EEgr1R66lyc8%2Fis2Xr%2FzXcao8SXlcGPq7zG%0ADZpSrheuhiUYwCibiwZ1deljSg%3D%3D%0A)
+
+## **ホームページ**
+
+デスクトップコネクタを起動すると、次のようになります。
+
+![](https://downloads.intercomcdn.com/i/o/949987194/4ea79b327a432d2fbe6ddd0c/image.png?expires=1781092800&signature=4d94f80aa64fef1e3c1a73bf2deff039ac0475207a39783a19617c3e92a8ae5d&req=fSQuH8F5nIhbFb4V1XW4gTcWjiViXzLHPjg0U6HS3fsJi7aRbTkCAMiMYSfa%0ASUgK3XjJ8oymzuQQNs7TggJgJg%3D%3D%0A)
+
+### **起動時に実行（スタートアップアプリ）**
+
+起動時にデスクトップコネクタを実行するには、このオプションを選択します
+
+### **ログアウト**
+
+右下のログアウトボタンをクリックしてログアウトします。
+
+![](https://downloads.intercomcdn.com/i/o/950021316/0053ee8a768a5188e6313c57/image.png?expires=1781092800&signature=43a10ad461d99e318a20b35ee132a99b1abed0e726ac4e1fdb3c57928b439578&req=fSUnFst%2FnoBZFb4V1XW4gThqJOWIUgCvL1w4D%2FD00hZl%2BjSWkhBzu0AfrfCB%0At7yYs0Cvm2OWN4cYaarP2Iu8jw%3D%3D%0A)
+
+## **プロジェクト一覧**
+
+ここには、プロジェクトの概要と、各プロジェクトに設定したアップロードタスクとダウンロードタスクの数が表示されます。
+
+プロジェクトの名前をクリックすると、現在のアップタスクとダウンロードタスクを表示したり、新しいタスクをスケジュールしたりできます。
+
+### **「同期」ボタン**
+
+新しいプロジェクトに最近参加した場合は、この同期ボタンをクリックして、参加しているプロジェクトの新しいリストにロードできます。
+
+![](https://downloads.intercomcdn.com/i/o/950025424/2f27581570051bde063c7246/image.png?expires=1781092800&signature=ef6298b070111ca73c8e594595b72887bd2b9b9cac65cea8e800e7af69f4ec2d&req=fSUnFst7mYNbFb4V1XW4geobuS5sg5oKpjFhFVSCA3gu2MlbQTC4KuaGF1EC%0A3NuFgqd7xXl8O8cJztQFnUVDow%3D%3D%0A)
+
+### **アップロードタスク**
+
+このタスクを使用すると、システムから Catenda Hub へのファイルの定期的なアップロードをスケジュールできます。
+
+### **ダウンロードタスク**
+
+このタスクを使用すると、Catenda Hubからシステムへのファイルの定期的なダウンロードをスケジュールできます。
+
+ダウンロードしたドキュメントは、解凍された状態でシステムに保存されます。
+
+### **戻るボタン**
+
+このボタンをクリックすると、[ホームページ](#h_097078145d)に戻ります
+
+![](https://downloads.intercomcdn.com/i/o/950023253/d65643c0a2f97d7bc7d2319e/image.png?expires=1781092800&signature=a5c07c2bae2a7ad2cb375cfc7b58e84de093d43a89c6106dadabc2204c59e04e&req=fSUnFst9n4RcFb4V1XW4ga0YsQM1%2FTQcJiZjnQF4y8vosAgaXDzX%2Bu%2BJTnPP%0ArEpZpux7zmL2kXm%2Fj27ea4%2FJnQ%3D%3D%0A)
+
+## **タスク一覧**
+
+ここでは、現在のアップタスクとダウンロードタスクを確認できます
+
+### **戻るボタン**
+
+このボタンをクリックすると、[ホームページ](#h_097078145d)に戻ります
+
+![](https://downloads.intercomcdn.com/i/o/950023253/d65643c0a2f97d7bc7d2319e/image.png?expires=1781092800&signature=a5c07c2bae2a7ad2cb375cfc7b58e84de093d43a89c6106dadabc2204c59e04e&req=fSUnFst9n4RcFb4V1XW4ga0YsQM1%2FTQcJiZjnQF4y8vosAgaXDzX%2Bu%2BJTnPP%0ArEpZpux7zmL2kXm%2Fj27ea4%2FJnQ%3D%3D%0A)
+
+## **ログフォルダ**
+
+このボタンは、システム上のDesktop Connectorログのフォルダの場所を開きます。
+
+## **トラブルシューティング**
+
+### **ドキュメント名**
+
+ドキュメント名にその文字が含まれていないことを確認してください。`\\`
+
+この文字は、Windowsのファイルパス階層の一部であり、ドキュメントが間違った場所に配置される原因となります。
+
+### **サーバー プロジェクトの場所が空です**
+
+ローカルファイルをプロジェクトに同期するには、Catenda Hubのプロジェクトのドキュメントセクションに少なくとも1つのフォルダが必要です。
+
+### **フォルダの権限**
+
+フォルダに対する適切な権限がない場合、エラーが発生する可能性があります。 ダウンロードしようとしているフォルダを右クリックして、適切な権限を許可します。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1373014007/de25ee387219641a228498f4ac53/image.png?expires=1781092800&signature=64b8cd24d56f3e0580e09bdb9d645763cedbc428796cb07f17a8c6323dc2ea1a&req=dSMgFcl%2FmYFfXvMW3nq%2BgZc5Y84qY4uRCZuDVwfwRgy6b70NOUqyyzImBAK8%0AJqsdNUQZzAnuahXe74VbjSVe6wc%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1373023427/6ecce5bcacc82597271780eb25d3/image.png?expires=1781092800&signature=7dc5b8845aa0ed55bee837454bbe4721b0227fa331cbac7e0260fcb130e55a8d&req=dSMgFcl8noVdXvMW3nq%2BgavEOFqOQk9RKx%2Flkpajr98q6QPJnXWqde%2BO1fgd%0A%2BprOu4vps6w6%2F%2FETQaYJC7sUjaY%3D%0A)
+
+# Catenda Navisworks プラグイン
+
+> **Note:** **注:**プラグインのインストール ファイルは、[このヘルプ記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
+
+# Catenda Revit 製品
+
+Catenda Revit製品の詳細については、[こちら](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)をご覧ください。
+
+# Catenda の PDF 上の QR コード
+
+[ドキュメント設定](https://support.catenda.com/en/articles/7831371-document-settings)の[フォルダー構成](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90)で、フォルダーごとに QR コードを設定できます。
+
+この機能は、Catenda のユーザーに、PDF に印刷された QR コードをスキャンして、使用しているドキュメントが最新バージョンであるかどうかを確認する機能を提供します。
+
+この記事には、次のトピックに関する情報が含まれています。
+
+_[配置](#h_ea221d5cae)-[構成](#h_e66cc03a0e)-[公開](#h_c7f0685c1c)-_検証
+
+## **ドキュメントにプレースホルダーを配置する**
+
+この機能を使用するには、 Catenda が提供する**[QR コード プレースホルダー](https://drive.google.com/file/d/1SbGcp8hC8l7854HOCZuI8o-WIBMWrsyF/view)**をドキュメントに配置し、Catenda Hub にアップロードする必要があります。最小サイズは 2cm x 2cm である必要があります。
+
+![](https://downloads.intercomcdn.com/i/o/1129210747/3afe134405c9c151b8ed9936/image.png?expires=1781092800&signature=c2ea1933f269989980b29fa6c815f2115ec45196d7a904078bb197360e86fddf&req=dSElH8t%2FnYZbXvMW3nq%2BgZCIR8olrrgqRy31Ne2%2BudU3rI2Jb6gXfXlYW6X%2F%0AXNTNl9vBqIGhWJFcubOVyA7Cdis%3D%0A)
+
+QRコード プレースホルダーのダウンロード リンクは次の場所にあります:
+
+**[ダウンロードリンク](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)**
+
+**ファイル作成者はQRコードを配置する**
+
+ドキュメントは Catenda にアップロードされた後は変更できないため、ドキュメントを Catenda にアップロードする前にプレースホルダー QR コードをドキュメントに配置する必要があります。
+
+プレースホルダーは、注釈レイヤーを除く任意のレイヤーに配置できます。
+
+Catenda が プレースホルダーを認識するには、レースホルダーをファイルに画像として追加する必要があります。 公開されたドキュメント内の画像は、プレースホルダー画像とまったく同じ画像である必要があります。
+
+**PDFの最適化**
+
+多くのプログラムは、表示を改善し、ファイル サイズを縮小するために最適化手順を実行します。これらの手順により、画像内のバイト数が変わる可能性があり、Catenda が画像を認識できなくなります。
+
+最適化なプレースホルダーの仕様は次の通りです。
+
+ピクセル密度: 144 dpi
+
+画像圧縮: ZIP
+
+画像は 1 つの完全な画像である必要があります。一部のオプティマイザーは最適化として画像を分割する場合があります。最適化後に画像が完全であることを確認してください。
+
+### **既存のドキュメントに**プレースホルダー**を配置する**
+
+自分で作成していないドキュメントがあり、それを Catenda Hub にアップロードする前に プレースホルダーを追加する場合は、必ずドキュメントを編集し、プレースホルダーを画像として追加してください。
+
+### **Catendaドキュメントに**プレースホルダー**を配置する**
+
+ドキュメントがすでに Catenda にある場合は、QR プレースホルダーを追加して新しいリビジョンをアップロードする必要があります。PDF 編集プログラムにアクセスできない場合は、[画像スタンプ注釈ツールを](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations#h_6e3ac983b6)使用してドキュメントに QR プレースホルダーを追加できます。
+
+![](https://downloads.intercomcdn.com/i/o/1197761140/e407aac8f89086efab976453/image.png?expires=1781092800&signature=93f547f371aaf2a67b931459774de9867e16dbd304b42df02d28762b615b70f2&req=dSEuEc54nIBbWfMW3nq%2BgT3wFjma59LIi2iWgcMB8GOKC1mffLOFVBr8k4Wd%0ApaGW5%2BMUQxjnHU0wA0d8aNKTxk4%3D%0A)
+
+QR プレースホルダーが認識されるようにドキュメントを保存するには、ドキュメント プレビューの左上にある[印刷ボタンを使用してドキュメントを印刷します。](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations#h_709cb0ed70)
+
+![](https://downloads.intercomcdn.com/i/o/1197761142/3284ae620e6aea1d0e1aeddb/image.png?expires=1781092800&signature=630614b8db499ad4f639229ddee012861f8aa7fd52e80f9d81fd9b01472e5433&req=dSEuEc54nIBbW%2FMW3nq%2Bgbr%2BMp2r0QdQ50i1PZxpD2Tq17MNM16gKK1OL7l7%0AP21d7IzgsDWpLp%2FqGqsJv9mhn9w%3D%0A)
+
+これにより、ブラウザの印刷ダイアログが開きます。
+
+Google Chrome の場合は次のようになります。
+
+![](https://downloads.intercomcdn.com/i/o/1197761143/ca0008220471ff674553aade/image.png?expires=1781092800&signature=a23409288a684e9fd3a41bde12b8341fe53b56948aa2b2ccfc3b0152f0a5a0cb&req=dSEuEc54nIBbWvMW3nq%2BgWKV6EiKi9ltLcS%2FCClj%2FLrCXOIXiAUd1TfvHdg4%0A6mlGzpsFLJGOOOmmJKVG01CRu5w%3D%0A)
+
+印刷ダイアログで、ドキュメントを PDF に印刷します。
+
+> **Note:** **注 1:**ドキュメントを印刷した場合にのみ、QR コードはコンテンツ レイヤーに表示されます。 ドキュメントをダウンロードすると、注釈レイヤー上に表示されます。 注**2:** PDF に印刷すると、ドキュメントのコンテンツがラスタライズされます。つまり、Catenda にリビジョンとしてアップロードすると、テキストは検索できなくなります。
+
+プレースホルダーを含む印刷された PDF を、Catenda に新しいリビジョンとしてアップロードできるようになりました。
+
+リビジョン履歴をきれいに保つには、QR コードなしで以前のリビジョンを取り消すことをお勧めします。
+
+## **Catenda HubでQRコードを設定する**
+
+QR コードの割り当てはフォルダーを介して行われるため、各プロジェクト管理者はこの機能を有効にするフォルダーのセットを選択できます。
+
+プロジェクト内のフォルダーに QR コード機能を割り当てる手順は次のとおりです。
+
+1. ドキュメント -> 設定で、**「フォルダ構成」に移動します**
+
+![](https://downloads.intercomcdn.com/i/o/1197761141/6b97d62f02f42c42aaf665c0/image.png?expires=1781092800&signature=924ccc92088fc8933195458f1d1a6bc636a1ee16d537e233b9e3729fda0d5c95&req=dSEuEc54nIBbWPMW3nq%2BgaOQ1GP5AkmZ4OfZCro1mXa8MA%2FBqkTlX9vDTF6%2B%0A7ITRrlmBB4Nl0a3RhOsikgtlbpc%3D%0A)
+
+2. 目的のフォルダの横にあるプラスをクリックしてフォルダ設定を開き、「QRコードの割り当て」で**「はい」を選択します。**
+
+![](https://downloads.intercomcdn.com/i/o/1197761134/809fb58ba028f520f148e603/image.png?expires=1781092800&signature=eff827d87d1eacbbc51f18238b368e7414d2c63c56920d8aa77c9ed3695c2191&req=dSEuEc54nIBcXfMW3nq%2BgSNJIN5XosURXVP5hDOiDhhu8wZ2H0nxf7cR0r%2BX%0A4WY1t%2Fn2Tk%2FZ%2FgjYAItxeSdvCw8%3D%0A)
+
+プレースホルダーのスキャンと QR コードの配置は、QR コード割り当て設定がされたフォルダーでのみ実行されます。
+
+> **Note:** **注意:**親フォルダが割り当てられると、すべてのサブフォルダにこの割り当てが適用されます。 親フォルダーがまだ割り当てられていない場合は、任意のフォルダーに QR コードを割り当てることができます。
+
+### **QRコードによる公開**
+
+1. プレースホルダー付きのPDFの新しいリビジョンをQRコード割り当てのフォルダーにアップロードします。
+1. 公開時にPDFがスキャンされ、プレースホルダーがQRコードに置き換えられます（このリビジョン用に生成されます）。
+1. 新しく生成された QR コードは PDF の一部となり、Catenda Hub で表示/スキャンしたり、ダウンロードしたりできるようになります。
+
+![](https://downloads.intercomcdn.com/i/o/1197761137/d4fe68cdae3e1e6912f05ebd/image.png?expires=1781092800&signature=760312f6a658a84fc74d98fa163e4efab45b0fbc92373f818bda714e59170b99&req=dSEuEc54nIBcXvMW3nq%2BgW1aty82oT4iOBD%2FUN26fKcqFj08iFzNFY6tw6%2Fa%0AYWSE7mCt2AgYp7Xg%2Fa9sfT9a%2BNk%3D%0A)
+
+QR コード プレースホルダーの配置と Catenda Hub にアップロードした後の結果の例を次に示します。1 . 図面のタイトル ブロック内のプレースホルダー。**アップロードの準備完了。**
+
+![](https://downloads.intercomcdn.com/i/o/1197761145/720ae3e9a14be7e04ac3ee1e/image.png?expires=1781092800&signature=93a4ba0d9e3747ce678bbb34b10b89170bc76f80f8d34df832a48e34a7a8207b&req=dSEuEc54nIBbXPMW3nq%2BgbkuiC%2BoLYrY3YA5J5B6PLQYQ3cLISmhJGltcALE%0AwVVZQfK87vuf0xg87f%2FYF42645w%3D%0A)
+
+2. タイトル ブロックのプレースホルダーが生成された QR コードに置き換えられます。**検証の準備が整いました。**
+
+![](https://downloads.intercomcdn.com/i/o/1197761152/ab328cff3eeb80655f3a8799/image.png?expires=1781092800&signature=ca4007688886d007b5e9705202e4f443898f2c527d16bbdb55e19c8149102357&req=dSEuEc54nIBaW%2FMW3nq%2BgUMbgk%2BH%2BiP0ahWPHMr4Z%2B%2FvKPL4rmFSr5rzJ%2FhI%0Ala6EH0k22F1nvsVgXuBcMVjotkQ%3D%0A)
+
+### **ドキュメント履歴**
+
+[プレースホルダー QR コード付きのドキュメントをアップロードすると、右側の情報メニュー](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision)のドキュメント履歴で、そのドキュメントが正常に処理されたことを確認できます。
+
+![](https://downloads.intercomcdn.com/i/o/1197761150/57df9a4c5fb5ff8f4a40f26f/image.png?expires=1781092800&signature=4ccafc42c0cff3027e4014ec9b36e579702eb0f9d944f4aae94e10a10e75f2f6&req=dSEuEc54nIBaWfMW3nq%2BgW3liAzCEWMdtswnZ8b%2FdsIYDk6vs7AY0VuAISOM%0A5zL%2BB82QB3Mm7%2BXoD1a68ByVaGg%3D%0A)
+
+QR コードの生成に失敗した場合は、QR コードが 2cm x 2cm より小さかったか、画像ではなく注釈として配置されたことが原因である可能性があります。
+
+**注釈のフラット化**
+
+一部のソフトウェアでは、注釈をフラット化してプレースホルダーを処理できるようになります。
+
+以下にいくつか例を挙げます。
+
+**PDF X-change**
+
+![](https://downloads.intercomcdn.com/i/o/1197761149/8d566402da7012e2b6b4a4b9/image.png?expires=1781092800&signature=98be9ea0914a51ad88e615bf2fae261fef4e18333f9d971f1d4ceb6379689a06&req=dSEuEc54nIBbUPMW3nq%2BgfKKbYtvUa7p5lMBTSgJXX3hB86Ed2szTCH0Nr81%0A5VRJm%2B%2FkUS4gBZA1PuEdQr90W3k%3D%0A)
+
+**Adobe acrobat**
+
+_BlueBeam Revu_ BlueBeam Revu にプレースホルダーを配置してドキュメントを保存すると、注釈として追加されます。QR コードをフラット化してドキュメントのコンテンツ レイヤーの一部にすることは可能ですが、定期的に保存したり、ファイル サイズを縮小するオプションを使用したりしても、QR コードが変更され、Catenda では機能しなくなります。
+
+QR コードを catenda で動作させるには、代わりに次の操作を行います。
+
+BlueBeam ドライバーを使用してドキュメントを印刷します。
+
+![](https://downloads.intercomcdn.com/i/o/1197761151/3b28ec460449386de8ca9915/image.png?expires=1781092800&signature=d666f4c0f5bf61d45d012eb85fe101f80a7d33c82d165244d3a8291da111023f&req=dSEuEc54nIBaWPMW3nq%2BgaXfV2mXghoFW3la9uKo2cVa7MFbievAqlrZIeLL%0APcLWL%2FoPNXBEPpwMfowQl6qsx08%3D%0A)
+
+[名前を付けて保存] ダイアログで、ZIP グラフィックを選択し、後処理を有効にします。 これは、プレースホルダーに使用される圧縮アルゴリズムが ZIP であるためです。
+
+![](https://downloads.intercomcdn.com/i/o/1197761156/c4e4e324452c0fd5c312df21/image.png?expires=1781092800&signature=5daa1cb46bb56728595267423bd70589aea4d7175210d8aabc0d97711889216a&req=dSEuEc54nIBaX%2FMW3nq%2BgbRxiWqqg2m%2FDPxBVMjyCUzuRLH3wYRl4AelhdXy%0AD2kjTvtIAwGLO6KWyqgzG91MFCA%3D%0A)
+
+後処理メニューで、「隣接する画像を結合」オプションを選択します。 これは、画像が通常 2 つに分割され、再び結合されるためです。 ページ サイズが既定のオプションとして存在しない場合は、ここで独自のカスタム サイズを追加できます。
+
+![](https://downloads.intercomcdn.com/i/o/1197761158/c76df2e570d45262685756f4/image.png?expires=1781092800&signature=06d07328128bcee3e58f179546e795032b8bc5d3493ab452d6ce2e665faf8c96&req=dSEuEc54nIBaUfMW3nq%2BgSTmqRIvQWZwM7avDBHJOLbE4ZJ%2BZzIlrwe0qrbY%0A9kuVRhezfu5Yp7m0fY8FgimMJ7I%3D%0A)
+
+## **最新版の検証**
+
+スマートフォンで QR コードをスキャンすると検証ページに移動し、PDF のバージョンに応じて次の結果が表示されます。
+
+1. あなたのリビジョンはPDFの最新バージョンです:**ドキュメントは有効です**
+1. このリビジョンは PDF の古いバージョンです:**ドキュメントが無効です**
+1. プレースホルダーをスキャンしました:**プレースホルダーをスキャンしました。このドキュメントは公開されていません**
+
+    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/1128836302/b5ed664002c909cad1388c1c/image.png?expires=1781092800&amp;signature=e32a0bc159c2fe53c0580cf78540908f18b726e36d6e988f6fd07bba7b2f7069&amp;req=dSElHsF9m4JfW%2FMW3nq%2BgRAbWSa0uwekHXdmw0dniPvD%2F48H6GJmWGPMPCrC%0AngeKuBJW%2FPMavpOc%2Btwvf9PFqVY%3D%0A"/></div>
+
+# Catendaプラグインと連携
+
+> プラグイン、統合、アドオンでお気に入りのツールに連携・統合しましょう
+
+Catendaでは、さまざまなアプリケーションとのプラグインや連携が可能です。詳しくは、以下のページでご確認ください。
+
+### [Catenda Plugins and Integrations (英語)](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
+
+※接続後、これらのアプリケーションは[アプリケーションページ](https://hub.catenda.com/account/apps)に表示されます。
+
+# Revit IFCエクスポートマニュアル
+
+このIFCエクスポートマニュアルの目的は、適切な目的でIFCをエクスポートする方法についてのガイドをユーザーに提供することです。 IFCファイルは、モデルから多くの情報を取得する必要がある場合、すぐに重く、大きくなる可能性があります。 このため、IFCをエクスポートする場合は、不要な情報をチェック解除する必要があります。 Catendaにモデルをアップロードする場合、モデルに多くの情報と高い詳細度が常に必要とは限りません。 このマニュアルの後半では、モデルをより小さく、操作しやすくするために推奨される設定について説明します。 ここでは、RevitからCatendaへのIFCエクスポートの最も適切な方法をステップバイステップで説明します。
+
+この記事では、以下の情報をご確認いただけます：
+
+_[IFCエクスポート](#h_38cc715c02) - [セットアップの変更](#h_85d4335aad) - [IFCオプション](#h_487f3aa176) - [色と素材](#h_f458b56011)_
+
+## **プロジェクト設定**
+
+エクスポートする前に、Revitプロジェクトのグローバル一意識別子（GUID）が正しいことを確認することが重要です。
+
+`管理 -> 設定 -> プロジェクト情報 -> IFCパラメータ`
+
+![プロジェクト情報 IFCパラメータ IfcSite GUID IfcBuilding GUID IfcProject GUID](https://downloads.intercomcdn.com/i/o/975614819/ee92de6f2477949e208dac45/image.png?expires=1779991200&signature=488a733e6dce35b3f9f765548a38ebcbb902309625bfa1827447b3e10ff5d1ca&req=fSciEMh6lYBWFb4V1XW4gW4DZHJ8Y%2FMyB4KsohYxe9JI9upp%2BSOrcthV9MYf%0AU5M5bUP8q8Ck5XUUcK86OtHqKw%3D%3D%0A)
+
+GUIDが前のエクスポートと異なる場合、新しいエクスポートのオブジェクトがBCFトピックのGUIDに正しくリンクされません。
+
+新しいプロジェクトを作成すると、一意のIDが割り当てられます。
+
+## **IFCエクスポートの変更**
+
+Revitが開かれており、エクスポートの準備ができたら、以下の手順を実行することをお勧めします。
+
+![画面の左上にあるファイルを押します](https://catenda-as.intercom-attachments-1.com/i/o/271057108/395387d7cf0cc2eb7d9928e9/image-0.png?expires=1779991200&signature=29709f4df2bf2e93a7f49e265c84ad240cb9e1ca9f0d647626ae988df2a5ce2c&req=dicmFsx5nIFXFb4V1XW4gWhxfMNYwk%2FrATxtIQ9WjWxRlpEJI1psfy%2F4XuaV%0ANtKM3bS8PgmX5bN8%2Buoj%2FLUGDQ%3D%3D%0A)
+
+左上に「ファイル」タブが表示されます。
+
+-------------------
+
+> **注意：** IFCファイル用の専用フォルダを用意することをお勧めします。そうすることで、ファイルの場所を常に把握できます。 IFCエクスポートメニューは以下の場所にあります： `ファイル -> エクスポート -> IFC` ![](https://downloads.intercomcdn.com/i/o/areracg3/1892251735/1f06f6821d79b19642af1b81ebe6/image.png?expires=1779991200&signature=f77ab31d228b76bdf13529fee00caae4d6d42ccf86705e6e6788b4103ef18ea5&req=dSguFMt7nIZcXPMW3nq%2BgYeYtz5lfambMm12jWodCPeBvHXniyUmgGYciDwf%0AYXW5CLORtPkNnSMKCCj0IG5c3qs%3D%0A) IFCエクスポートメニューは以下のように見える場合があります： ![IFCエクスポート](https://downloads.intercomcdn.com/i/o/areracg3/1798387143/866e2fe7cec7589a87073fcc0c82/image.png?expires=1779991200&signature=4bfa202fb3004eec5587f9ccff80d9ad260c643ce24349d84a233dd0f1b00abf&req=dScuHsp2moBbWvMW3nq%2BgZPn43QJg8WVVc0ZVd8M6r96eVKW%2BS8G1RavyNB3%0A6vNrKhgPoxi%2FkGAPFMy7%2BWg0BfM%3D%0A) ファイル名 エクスポートされたファイルがシステムに持つ名前と場所を入力します エクスポート設定 以下の事前定義されたセットアップから選択します： \<セッション内セットアップ> IFC 2x3 調整ビュー 2.0 IFC 2x3 調整ビュー IFC 2x3 GSA概念設計BIM 2010 IFC 2x3基本FM引き継ぎビュー IFC 2x3 調整ビュー IFC 2x3 COBie 2.4デザイン成果物ビュー IFC4参照ビュー [アーキテクチャ] IFC4参照ビュー [構造] IFC4参照ビュー [BuildingService] IFC4参照ビュー [非公式] IFC4x3 IFC-SG規制要件ビュー Catenda Plugin for Revitを使用する場合、Catendaで使用するための追加の事前定義されたエクスポート設定がオプションのリストに追加されます。
+
+## **セットアップの変更**
+
+エクスポート設定のエクスポート設定部分で「セットアップを変更」をクリックします。
+
+IFCエクスポートの必要な設定を変更し、カスタムセットアップを作成できます。
+
+セットアップの変更メニューは以下のように見える場合があります：
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892255169/dc9485955be8e9d289ef7b133e42/image.png?expires=1779991200&signature=fdb3c6d8b891f2db5a5d46d63d24dabdeb1eb90d7e823e58f8076ad2e015e125&req=dSguFMt7mIBZUPMW3nq%2BgU4rCzwBivDLfsHeLviWOkIR%2BVu9c41EQE6LWfpQ%0AnFh5xdUdS7zkwB57Eqs2k6s5uMw%3D%0A)
+
+このウィンドウには次のタブが含まれています：
+
+[一般](#h_fb41b895ea) - [追加コンテンツ](#h_ed48fc4387) - [プロパティセット](#h_04dd25ffef) - [詳細度](#h_11ae63fb7f) - [詳細](#h_f7b35f27cd) - [地理参照](#h_de5067b34b)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+### **一般**
+
+![一般](https://downloads.intercomcdn.com/i/o/areracg3/1892229977/5b41cf313ce744a76d57707e7156/image.png?expires=1779991200&signature=de7a76fac9b01f590c83303ae40078c1584ff8b4876ef0b169519d39e6d9c20a&req=dSguFMt8lIhYXvMW3nq%2BgaV%2FCQixLdXaNeZ7QyQ0axWAyNp02PCsj0gdc2if%0Ad1tMevbVyEJSRIO7%2Bjxmt6fUIRM%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892261475/b091b92e7662bd96f93d12bf7f53/image.png?expires=1779991200&signature=9c06e8d7af983ce6a940f923b9ef8727f8c61d9e26ef8e352988fa36b62bd281&req=dSguFMt4nIVYXPMW3nq%2BgXBEgWjeQPHCGpBWTw2Nw1Jy05ppTRgbw1VTpLZH%0At1eqbpZDOUcMRs4z%2FBI%2Fnj41rJ0%3D%0A)
+
+さまざまな設定についてご説明します。
+
+_IFCバージョン_
+
+IFCバージョンの選択。
+
+_交換要件_
+
+これらのオプションは、選択したIFCバージョンによって異なる場合があります。
+
+IFC 2x3 調整ビュー 2.0
+
+- アーキテクチャ参照交換
+- MEP参照交換
+- 構造参照交換
+  _カテゴリマッピング_
+  Revit 2026より前では、このオプションは「ファイル -> エクスポート -> オプション -> IFCエクスポートオプション」で使用できました。
+  IFCエクスポートマッピング設定を管理するメニューは以下のように見える場合があります：
+  ![](https://downloads.intercomcdn.com/i/o/areracg3/1892362444/0291c2b037d32fe0a4808e9fe7f7/image.png?expires=1779991200&signature=528dc3b6bcb4d9399320d85087b57a2e29ed93341169cec06ce9cb8ed5c84fb7&req=dSguFMp4n4VbXfMW3nq%2BgZ7axO8%2FlFRz4FYwOCciizXyG4lDOXEisrBlsk4c%0AAoRXuiRV9UdddmK2UwD%2FBi7AM7g%3D%0A)
+  _ファイルタイプ_
+  IFCタイプの選択。
+  _エクスポートするフェーズ_
+  Revitでフェーズツールを使用している場合、ここで新しい構造または既存の構造のみを選択してエクスポートできます。
+  _スペース境界_
+  これらはすべて、ルーム情報をさらに使用する方法に関するものです。
+  a. 第1レベル - 使用例：数量引き出し、管理、運用・保全（FDVU）。
+  b. 第2レベル - 使用例：エネルギー分析、光分析。
+  _施設タイプ_
+  このオプションはIFC 4x3でのみ利用可能です
+  次のいずれかから選択します：
+  橋（IfcBridge）
+  建物（IfcBuilding）
+  海事施設（IfcMarineFacility）
+  鉄道（IfcRailway）
+  道路（IfcRoad）
+  _レベル別に壁、柱、ダクトを分割_
+  ここでは、例えば複数の階にモデル化されている壁を水平に分割できます。 複数の階にモデル化されている場合は、壁を水平に分割できます。
+  _ファイルヘッダー情報..._
+  プロジェクトアドレス..._
+  これらでは、IFCを提供した人、プロジェクトアドレスなどの情報を入力できます。
+  _プロジェクト原点_
+  プロジェクト原点、これを現在の共有座標から配置する共有座標。
+
+> **注意：** これはRevit 2025以降、地理参照に移動されました _鋼要素を含める_ モデル化されている場合、鋼要素が含まれます。 **注意：** これはRevit 2025以降、追加コンテンツに移動されました
+
+---
+
+### **追加コンテンツ**
+
+![追加コンテンツ](https://downloads.intercomcdn.com/i/o/areracg3/1892231518/1438a720e7d2d083f16e999b248d/image.png?expires=1779991200&signature=14ae8e037db758f837b33fce3426217ec13a1be4bdae21d9021a6c6e2adef1ed&req=dSguFMt9nIReUfMW3nq%2BgUrmoL4SQTHbWqp11fsyPaNkkVHU8HTI2%2F7M7%2BzB%0ABmowPSLQu3ATd2%2F2iUivb83tBuQ%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892263880/c2a3aa2c87b0e2798aa352e8e939/image.png?expires=1779991200&signature=d34f7286a508b4628d39a8280c078fb7fab54fd9c269d8f5f4b9bdb4b2f506cc&req=dSguFMt4nolXWfMW3nq%2BgZuMl2%2B0ocCSxdsSWUVwjc07TZne90pVVQ20GLrW%0AXKEA4G7s2qjM4xmQ4ob3bLJz%2Fzg%3D%0A)
+
+リンクされたファイルを個別のIFCとしてエクスポート
+
+IFCにリンクされたファイルを含めたい場合は、このオプションをオンにして実行できます。
+
+各ファイルを個別にエクスポートし、各ファイルを独自のモデルにインポートすることをお勧めします。
+
+ビューで表示されている目に見えるオブジェクトのみをIFCファイルにエクスポート
+
+- 3Dビューでルーム、エリア、スペースをエクスポート
+  このオプションは、2Dビューアでエリアを選択する場合に役立ちます。
+  鋼要素を含める、_塗りつぶし_
+  2Dプランビュー要素、_塗りつぶし、地域_（スクラッチ）をエクスポート
+  天井グリッドをエクスポート
+  天井グリッドは2D要素であるため、Catenda 3Dビューアには表示されません。
+
+---
+
+### **プロパティセット**
+
+![プロパティセット](https://downloads.intercomcdn.com/i/o/areracg3/1892232792/135fdbf14ece65c88f19bd1d226a/image.png?expires=1779991200&signature=08f85973ddc0828e1bce6019eed0e2ca144295420ac48e4d9b236988f3109720&req=dSguFMt9n4ZWW%2FMW3nq%2BgaY8ra%2BUm5L2ZjmJcmldhCuBAdrt45HA7HZqKLol%0AtoA76daMbGTClWLlzEA9uLIe9yA%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892275051/2ed64b1590f2714d62846de4f92f/image.png?expires=1779991200&signature=72c737d699d3e9d1d54ab3270ebf9a6416e597a6f32ba4fc860fd242e2c1abcd&req=dSguFMt5mIFaWPMW3nq%2BgZi725RhkXN5IeQuWPtKkGbxpRk%2Bl9O8njkEN8R8%0AV3y8MdRThA7Jgy%2FpcsTiX3Qr%2Bo0%3D%0A)
+
+すべてのRevitプロパティセット（pset / properties）をエクスポート
+
+このオプションでエクスポートされた壁の例は次のとおりです：
+
+Revit（_左_）--- Catenda（_右_） <img alt="プロパティ" src="https://downloads.intercomcdn.com/i/o/1143733823/5843705d0d8e18fad06a2d26/image.png?expires=1766188800&amp;signature=e683738cab58632050b7cafa92c034f12a46f70dfe3155d1cf4d911252b4d5cc&amp;req=dSEjFc59noldWvMW3nq%2Bgf%2FEabfHtQiF4KaxSmsaQLmis0sQMPMY4FRacuZa%0Az3YPfah7rm21SlIs85aLL8uLrZY%3D%0A" width="208.60495436766624"/>  ---  <img alt="プロパティ" src="https://downloads.intercomcdn.com/i/o/1143736276/8e2cd444c3cb4bb85a54a8eb/image.png?expires=1766188800&amp;signature=10633b362c0901da616a360cdbf654306792d62af04cc4f3501c3bda51769102&amp;req=dSEjFc59m4NYX%2FMW3nq%2BgT9zLO7Skq%2BTFld2KtbnaRMzDGwWjYF5Mm1itI8z%0AVIQLHf%2B4YSGFII1x5k%2BObZqVuGo%3D%0A" width="190.21739130434784"/>
+
+プロパティメニューに表示される典型的なプロパティは次のとおりです：
+
+制約、断面定義、寸法、構造、ID データ、その他
+
+[識別]メニューに表示される典型的なプロパティは次のとおりです：
+
+IFCパラメータ
+
+標準IFCプロパティをエクスポート
+
+オブジェクトの計算された量をエクスポート
+
+バッチリストをエクスポート
+
+1回限りのプロパティセットをエクスポート
+
+_分類設定_
+
+Omnclassでの分類設定の例は次のとおりです。
+
+![分類設定](https://downloads.intercomcdn.com/i/o/1143721778/529f91196d1161bc0f7fc191/image.png?expires=1779991200&signature=f13d4621978f597e4d0c968364da4bd522527c7f374efda94be6a0be7575c6ca&req=dSEjFc58nIZYUfMW3nq%2BgTdoFEUepwZW6XnZ2V0i6WQvADjlF%2BLhRY6OJkFP%0AiNN3Uof7HbJp4u6Gl9XBlQAU8Ss%3D%0A)
+
+_名前_
+
+分類の名前
+
+_ソース（出版社）_
+
+分類の出版社
+
+_版_
+
+分類版
+
+_版の日付_
+
+分類の日付
+
+_ドキュメンテーションの場所_
+
+これは有効なドキュメンテーション場所である必要があります
+
+_分類フィールド名_
+
+分類フィールド名は、分類値を保持するオブジェクトのパラメータの名前です。 このパラメータはファミリレベルにあることが多いです。
+
+ファミリを編集してそのプロパティを確認する
+
+![ファミリを編集](https://downloads.intercomcdn.com/i/o/1143724998/b22b5f6c87f49ea7c42381bf/image.png?expires=1779991200&signature=8590e78ce69a0d98961dc796b658ba4bf72cf03c45dba1890900a214bafbb117&req=dSEjFc58mYhWUfMW3nq%2BgSZUcWo6HOAqXXhYpyvCdnZ5nwKOSt5eRyx6qPHd%0AgRRUvOdjNZu11Av4vkAmqN6p0o4%3D%0A)
+
+パラメータがプロパティに表示される方法は以下の通りです
+
+![プロパティ OmniClass番号](https://downloads.intercomcdn.com/i/o/1143726246/d4edad8d1fd6912e74ac1dfd/image.png?expires=1779991200&signature=25a111f49176bbcd4a4eca8317c7d6020339ad9635734a6fdd66b808adc91213&req=dSEjFc58m4NbX%2FMW3nq%2Bge0lDZh%2F80lWgG1V9tT6cxgr0M7xLIsZrNn2i2Tj%0Ar3LmBV%2BDKYl2bfCvCkuordzTxII%3D%0A)
+
+分類でIFCをエクスポートしてCatendaにモデルとしてインポートした場合、その分類は[ライブラリページ](https://support.catenda.com/en/articles/8065645-libraries-page)で新しいライブラリを作成するときに[提案されるライブラリ](https://support.catenda.com/en/articles/8065645-libraries-page#h_c03d50a9ca)として提案されます。
+
+指定した属性の値が提供されたドキュメントの値と一致する場合、それが見つかり、作成した分類ライブラリを通じてこの値を持つオブジェクトを選択するために使用できます。
+
+--------------------------------------------------------------------------------
+
+### **詳細度レベル**
+
+![詳細度](https://downloads.intercomcdn.com/i/o/areracg3/1892234477/a9bbe7f93df2e1f86dd77e0d8595/image.png?expires=1779991200&signature=51855781c86ef0d04cb75ec5abe362af236e216618b33ecddea36190c8ece55b&req=dSguFMt9mYVYXvMW3nq%2BgcGzWTbpx%2B5haiavdWYct%2BeRmFV0zbmfiG0oTuny%0ATNdlYRRUrCJXUVJUnpte5c9DwEg%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892279715/fc5d54cc402a319c1f102802fc97/image.png?expires=1779991200&signature=a04b7a621f85578fedddab7f9829e2da3a5a0d67f2226d40d826a5ff56e0f063&req=dSguFMt5lIZeXPMW3nq%2BgUWqnn%2FqIvGkfS0SdjfSGKflUy63XmjaojOfoQju%0ADW71Q%2BhgwZX1JLzynRJK3wz6z%2BQ%3D%0A)
+
+これは、例えば、カップやハンドレールがどの程度詳細であるか、または多分自転車の車輪に関するものです。 カップ、手すり、または自転車の車輪。 詳細度レベルは4つあります。
+
+超低
+
+低
+
+中
+
+高
+
+高の場合、以下の画像に示すように最も詳細に表示されます。
+
+![詳細度レベル超低および高](https://catenda-as.intercom-attachments-1.com/i/o/271057169/c6cea2aa0003f1c409488aae/image-7.png?expires=1779991200&signature=61fe3f4006900fd1d34c251c062b3db03fc2fd91f19e16a776870e31c9aebfab&req=dicmFsx5nIdWFb4V1XW4gbUv%2FgfutyCFZjDb1AFfiWvoJKOpzILR0DxPJCm8%0AyB%2BxbX0DAGzFhIfWt2vGYTMOHg%3D%3D%0A)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Catenda Hubで使用するためにRevitからIFCをエクスポートする場合、詳細度を高に設定しないことをお勧めします。 高い詳細度レベルでエクスポートされたモデルに多くの詳細と追加のポリゴンが含まれ、これが常に必要とは限らず、モデルナビゲーションが遅くなります。 これは、超低と高の設定間のエクスポート差の例です。
+
+![これは、「高」の設定でエクスポートされた階段の手すりです。 900kポリゴン](https://catenda-as.intercom-attachments-1.com/i/o/271057176/4d23600fddf517fa8afa68b3/image-8.png?expires=1779991200&signature=b40c5225839df08ff3cb63abba8707242a1b1485aea1a1349b7432050ae583ee&req=dicmFsx5nIZZFb4V1XW4gXDdgIisYwJtT%2FPcu87o1zP5fAUc4VXkBDnRaDr8%0A2T6aJEaBkIYupUl7unZmH%2FzFdA%3D%3D%0A)
+
+![これは、「超低」の設定でエクスポートされた同じモデルです。 33kポリゴン。](https://catenda-as.intercom-attachments-1.com/i/o/271057186/de52cec6e75ba1d44c01d9fb/image-9.png?expires=1779991200&signature=d8d2ced2202f3b52ae3b4585ea65977a74ee4709caed275abfc8d460d88a29db&req=dicmFsx5nIlZFb4V1XW4ga5Y09oq5DnlsKxhZ3TBUX7ENpGZnXWMCoB3Pz9w%0AYeiCXqLvdMUXo7BSPFFWU5lI1Q%3D%3D%0A)
+
+モデルの外観はほぼ同じですが、ポリゴン数は大幅に減少し、Catenda Hubでのナビゲーションが大幅に高速化されます。
+
+------------------------------------------------------------
+
+### **詳細**
+
+![詳細](https://downloads.intercomcdn.com/i/o/areracg3/1892235835/c5a537efaad511b257aa34fd9393/image.png?expires=1779991200&signature=9ef54911a2b76d39f4e3c23df0f85f171699dd8a363ab3cf3cb37349a603544d&req=dSguFMt9mIlcXPMW3nq%2Bgej6EvTV%2BJ5RKvpYf%2BwKvvA%2BZUGNGSO9ksC63ytf%0AVqsnDeqhyykw%2B4ATqbgGWKSALMs%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892285324/5ee98db642dda09e9ef2e32f89f3/image.png?expires=1779991200&signature=a1105615a979210c8668e250b9ba318c89bc4fbd6335483a32692b3f7a71552f&req=dSguFMt2mIJdXfMW3nq%2BgeyMDiMPhq7Q85wgYm3Xh1XpOK5XvxcASYTyhduW%0AsLQ%2B1rJyZBFN%2FAQvoW31uHOg%2F7A%3D%0A)
+
+_パーツを建築要素としてエクスポート_
+
+標準IFC要素のようにパーツをエクスポート
+
+_混合「ソリッドモデル」表現の使用を許可_
+
+ユニットに対してBRepと抽出幾何学の混在を許可するにはこのオプションを選択します。
+
+_幾何学を作成する際にアクティブビューを使用_
+
+幾何学を生成するアクティブビューを使用するにはこのオプションを選択します。 これを3Dビュー以外で使用すると予期しない結果が生じる可能性があることに注意してください。
+
+_参照用のファミリとタイプ名を使用_
+
+参照のためにファミリとタイプ名を使用するにはこのオプションを選択します。
+
+_ルームボリュームに2Dルーム境界を使用_
+
+IFC 2x2にエクスポートする場合も標準である、簡略計算法（2Dスペース境界の抽出に基づく）を使用してルームボリュームを計算するにはこのオプションを選択します。
+
+_IfcSiteの高度をサイトのローカルプレースメント原点に含める_
+
+Z-オフセットの高さをIfcSiteのローカル位置に含めるにはこのオプションを選択します。 オプションを削除して除外します。
+
+_エクスポート後にエレメントパラメータにIFC GUIDを保存_
+
+エクスポート後にプロジェクトファイルに生成されたIFC GUIDを保存するにはこのオプションを選択します。 これにより、プロジェクト、ウェブサイト、ビルディングガイドのアイテムとそのタイプ、プロジェクト情報に「IFC GUID」パラメータが追加されます。
+
+_バウンディングボックスをエクスポート_
+
+「バウンディングボックス」表現をエクスポートするにはこのオプションを選択します。 このオプションはGSAエクスポートでは自動的に選択されたままです。
+
+_テッセレーション幾何学を三角形分割として保持_
+
+複雑な曲線要素または殻がIFCエクスポート後に正しく表示されない場合は、このオプションを選択できます。 非常に重いIFCファイルが生成される可能性があることに注意してください。
+
+_IFCTypeネームのタイプネームのみを使用_
+
+オブジェクトのBAT-IDまたはIDをエンティティの名前として表示する場合は、このオプションを選択します。
+
+_表示されているRevit名をIFCエンティティ名として使用_
+
+Revitオブジェクト名をエンティティの名前にする場合は、このオプションを選択します
+
+_常に面取りされた床と屋根を単一のIFCエンティティとしてエクスポート_
+
+複数の面を持つ床と屋根の面を単一のエンティティに統合するにはこのオプションを選択します。
+
+_プロジェクト情報で「最後に変更」ユーザーを作成者に設定_
+
+このエクスポートの変更の作成者である場合は、このオプションを選択します
+
+_エクスポートするエンティティ_
+
+これは開かれるIFCエンティティ選択メニューのようなものです：
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892286935/be99502f0dd70ec946f55438c390/image.png?expires=1779991200&signature=799dca9446d3b00d4ca06944add4e6d6f47d8fd33c8a778c5d2557ab8437c12e&req=dSguFMt2m4hcXPMW3nq%2BgcADQUPx2PSQHDp0RWxq5dUnOJgx%2ByBdwcstuqRL%0AJLIzsYDQIIYPtAIY1dFKFpLkOAE%3D%0A)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### **地理参照**
+
+Revit座標がプロジェクト内の他のモデルと同期され、同じ場所に配置されるようにすることが重要です。
+
+したがって、Catenda Hubでポイント測定を使用して座標を測定し、Catenda Hubで測定されたポイントと同じ場所にあるRevitのポイントに座標ベースを指定します。
+
+![ポイントで座標を指定](https://downloads.intercomcdn.com/i/o/969764101/0c12135b4cfe78982de2d2c9/image.png?expires=1779991200&signature=060be8f8a603fc0b1a1df40a9afcb314add9da447d344221a97c1a482e645427&req=fSYuEc96nIFeFb4V1XW4gXGcH65AQ%2BvBsmsiUzSJvpOZcWtpsV6NEtp3COB%2B%0AaAl33RB7R1SlFNStV1N44yOhtw%3D%3D%0A)
+
+[管理]タブ -> [座標] -> [座標ベースを指定]でこのオプションを見つけることができます。
+
+_ポイントで座標を指定_
+
+北/南、東/西、および高度の座標を指定することにより、モデルを再配置し、モデルを北に向けて回転させます。
+
+Revitでは90度の角度でモデル化する方が簡単なことが多く、モデル全体を回転させたくない場合があります。
+
+この場合、代わりに北を回転させることができます。
+
+[管理]タブの[座標]の下のドロップダウンオプションで、このオプションを見つけることができます。
+
+![地理参照](https://downloads.intercomcdn.com/i/o/areracg3/1892237064/dbd69633fadc1d5fe77cbbf10ad1/image.png?expires=1779991200&signature=a0fa45620598f4ea49637c071c3642c3e09a750a27b3c437d265926073e9efee&req=dSguFMt9moFZXfMW3nq%2BgWz5kavwajm2Q89QCw7rQngImO5dALYR%2F3X935bY%0ALRKgoqo1rT6VHyQCuYBc%2FWMRiDE%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892312196/3e117bb428e5bade5ced558f9bf3/image.png?expires=1779991200&signature=42aea4804b1dd4c21c0c6c4b6ed80d944086564e35b9902d1720c87903230719&req=dSguFMp%2Fn4BWX%2FMW3nq%2Bgak09I%2BhVIo7RxVv6rvgFchwhCbwffygGJDj6sXo%0AQDbWBuoUwVnnATNMwVm1SBR0YXM%3D%0A)
+
+_プロジェクトサイト_
+
+内部
+
+_座標ベース_
+
+この設定を変更して、プロジェクトが北に向いていることを確認できます
+
+共有座標 - デフォルト
+
+測量点
+
+プロジェクトベースポイント
+
+内部原点
+
+プロジェクトベースポイント（真北に向いている）
+
+内部原点（真北に向いている）
+
+> **注意：** [挿入]タブでIFCをリンクする場合、リンクされたファイルはオブジェクトの近くに配置され、IFCで記述されている場所にはありません。 IFCを正しい場所にインポートするには、[ファイル] -> [開く] -> [IFC]をクリックします。 _オーバーライド_ ここで投影座標システムリファレンスをオーバーライドできます
+
+---
+
+### **会社情報**
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892339968/a88c70cdc3d15ec1e87a1e966b46/image.png?expires=1779991200&signature=f68f221eb9ab0afd91c637e525a5d0057b3307e8e6530d5198dd90d3b144f8e5&req=dSguFMp9lIhZUfMW3nq%2BgRXRtZV646CzbhYCDTM1GZGXZIjmattZX5CDm0VJ%0ALOUcKRLlH3C9wmRrDi%2FTOy04v%2Bs%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892341695/f8aef094c7a84c8664cb6db386bc/image.png?expires=1779991200&signature=a174a5fdf3b7af5e95c5d1ed03b7d3edb1cacd026417765fdd6e0ec39c25cf03&req=dSguFMp6nIdWXPMW3nq%2BgSpJnU2%2FxbcY6345g60I7jviXU4X7ABgbjwoKuc7%0AcMRBSRyfbTm2vWp7Oys9oBkK7kw%3D%0A)
+
+このメニューはIFC2x3 COBie 2.4デザイン成果物ビューセットアップが左メニューで選択されている場合にのみ利用可能です。
+
+---------------------------------------------------------------------------------
+
+### **プロジェクト情報**
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892356241/5a9153e5328e33ef5732be86af07/image.png?expires=1779991200&signature=24762c0ace7ebe4478d2b2713cd6017d4832352f6043104b1cc30ae373ab08f7&req=dSguFMp7m4NbWPMW3nq%2BgdDcqeJjXwra65LLEws6tCTU0wICq0oh9qpS9%2FJn%0Aqm4kmvwf4QEYAICFX8bkvDuQ7PE%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1892357722/97a31374ae328eff814a977ff3ec/image.png?expires=1779991200&signature=003f4e0f69fc7180132651ec2a4ffb712c3fd3dde1440a29ae2fc4dc2a0573bb&req=dSguFMp7moZdW%2FMW3nq%2BgaYH1F4G60q4NivzbwFWQfKx5c%2BITWNaFVEP55gD%0AWJoucJnbsl2gDq1dZBIrmkyfeVs%3D%0A)
+
+このメニューはIFC2x3 COBie 2.4デザイン成果物ビューセットアップが左メニューで選択されている場合にのみ利用可能です。
+
+---------------------------------------------------------------------------------
+
+## **IFCオプション**
+
+Revitプロジェクトの[IFCオプション]は以下の場所にあります：
+
+`ファイル -> エクスポート -> オプション -> IFCオプション`
+
+![エクスポート -> オプション -> IFCオプション](https://catenda-as.intercom-attachments-1.com/i/o/271057200/45a1257c55b1828c71e969a4/image-11.png?expires=1779991200&signature=19ba7f1f06c737fd1570f0a06070ad9db96d0694ad820be88fb17bb60ed41856&req=dicmFsx5n4FfFb4V1XW4gakKrGXQvzEGkCAUJOtaQtRh3HZCglVgstn6e2Ch%0AaxVYb3DMOLXIpE8hXgvg%2F%2FKfNg%3D%3D%0A)
+
+> **注意：** Revit 2026以降、このオプションは以下で利用可能になりました： `エクスポート -> IFC -> 一般 -> カテゴリマッピング -> ドロップダウンの右側にあるアクションメニュー` ここで、_IFCオプション_内にモデルをIFCファイルにエクスポートするための設定を行います。 ここでは、モデルをIFCにエクスポートするための セットアップ プロパティをカスタマイズできます。 このマニュアルの開始時に述べたように、モデルから不要な情報をすべて取り出す必要はありません。 エクスポート前に不要な情報をチェック解除してください。 ![IFCエクスポートクラス](https://catenda-as.intercom-attachments-1.com/i/o/271057211/d475dd84fb2efef9d7bf4c1d/image-12.png?expires=1779991200&signature=ceb04d005a9687945fd4c5efc680f142fa8f71ab5daddaf6ef11c8828c6103ea&req=dicmFsx5n4BeFb4V1XW4gdpd3cvRJhUNG2sGxDwDCuCNDMBg6YsRp7MEvaGe%0Ao0oBh68YB8CtIWlb%2Bwt%2Fl%2BbXug%3D%3D%0A) Catenda Hubでグリッドを表示することが可能であり、Revitモデルにこれらがある場合、IFCオプションでグリッドをIFCでエクスポートするように設定できます。 デフォルトでは、これらはRevitからエクスポートされません。
+
+## **色と素材**
+
+Catendaに表示される色は、インポートされたIFCファイルから読み込まれます。
+
+ファミリのマテリアルプロパティがIFCパラメータに追加されると、マテリアルプロパティのマテリアルの色がIFCに追加され、Catendaに表示されます。
+
+Revitのマテリアルはマテリアルブラウザにあります：
+
+`[管理]タブ -> [設定]セクション -> [マテリアル]`
+
+マテリアルブラウザでは、色の設定はマテリアルのグラフィックスタブにあります：
+
+![管理 -> マテリアル -> マテリアルブラウザ -> 新しいマテリアルを作成](https://downloads.intercomcdn.com/i/o/areracg3/1798363404/1016d10e61dcd4bbf3969dd97a39/image.png?expires=1779991200&signature=6538f237377a045f7b7f567244f4fdefd99bc74142dc54780c79610f54b88159&req=dScuHsp4noVfXfMW3nq%2BgRHARe%2BQbSvVJU1tDswOuiSVbxNsRYJibJHNSy4a%0ADvZyAbDR4cFQbN%2FOUhLbnJ9ZKrw%3D%0A)
+
+シェーディングをレンダリング設定にロックすることも可能です。
+
+![外観](https://downloads.intercomcdn.com/i/o/areracg3/1798375002/9394922e0e04c7beffd701083d45/image.png?expires=1779991200&signature=d9d2670f75a1006a4b4d3d03f3e9c19bcfffcafb0d76728976f55be340ebe2c6&req=dScuHsp5mIFfW%2FMW3nq%2BgczmUc51w6Slra%2FB5MdIivv2AVzb0Puu5CECSt7u%0AvMA6oVuMcEZW9opaPvxvO6x6HrE%3D%0A)
+
+Catenda 3Dビューアの表面はフラットシェーディングで、光源がありません。
+
+3Dビューアで表面を表示する場合、Catendaが解釈する値は次のとおりです：
+
+汎用
+
+- 色
+- 画像フェード
+  透明度
+- 金額
+- 画像フェード
+- 透光性
+  色合い
+- 色合いの色
+
+# zip / ファイル構造をアップロードする
+
+通常の zip ファイルのアップロードと比較して、upload a zip 関数は zip を解凍します。この方法により、手動でフォルダーを作成しなくても、ファイル構造を[ドキュメント ページ](https://support.catenda.com/en/articles/8204673-documents-page#h_28610e1d21) にインポートできます。フォルダーがすでに存在する場合、ファイルは既存のフォルダーに保存されます。
+
+ドキュメントがすでに存在する場合、ファイルはそのドキュメントの新しいリビジョンになります。
+
+この記事では次のトピックについて説明します。
+
+[zip のアップロード](#h_54ace27f24)-[ファイル サイズ制限の回避](#h_e43a342de9)-[私の zip アップロード](#h_90dab69441)-[デスクトップ コネクタ](#h_b2c0aeaa11)
+
+## **zip のアップロード**
+
+ZIP フォルダーをアップロードする場合は、次の手順を実行してください。
+
+1. フォルダ構造内の「ハンバーガーメニュー」をクリックします
+
+    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/824841517/314a1777e3072cace8eea508/image.png?expires=1781092800&amp;signature=4d2af7191a1a3866b86144c05aa3f5a1834df9bfa909e160fec58ac6e9500c89&amp;req=fCIjHs1%2FmIBYFb4V1XW4gbaJ%2B5cwqiqaRZaOz5v%2BNFL5MEsqUT6MpHCCALXm%0AHvl6GxMQu9LXRQN2Kt6KEl68vA%3D%3D%0A"/></div>
+
+1. 次に「zipをアップロード」をクリックします。
+
+    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/797819684/f56c09ec7d910b4c49b1e0de/image.png?expires=1781092800&amp;signature=de599bc312f07ebcb335499ccc6d9bcfca57e6ff14f3e4085d3c8227a5ce500e&amp;req=cykgHsh3m4lbFb4V1XW4geAj1IzoQrsUCFl27JhycEzcd7xy%2BjAr9TnypZn7%0AJFF0D56wYox9%2FYg2Oupp1bYopA%3D%3D%0A"/></div>
+
+1. 今すぐ適切な zip フォルダーを選択してください
+
+    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/797822907/ba4b82b1faa83deecd64ec28/image.png?expires=1781092800&amp;signature=327c4dab9cc1cb61caae111afc2765697a9d1b0821469eaa339cc8754cf64203&amp;req=cykgHst8lIFYFb4V1XW4gR28Xyf3BETWzundTo%2BfNkgFspaWW8OUkqleovsI%0AQlM%2F9Aoj%2FOBRDfluxlZbsJpAhA%3D%3D%0A"/></div>
+
+1. 必要な設定を行ってフォルダーをアップロードします。
+
+    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/797824367/67457824e45799c49700c502/image.png?expires=1781092800&amp;signature=6aacdc716479303abb709e549c46caf56bdf5ecebe9c130825430d5788c5c971&amp;req=cykgHst6nodYFb4V1XW4gem%2FZM%2FksT94NGH3x6ppNS1%2FP%2FUM96exho2o09GW%0AJcJ%2FmqjYLHXoYiAc%2BeAL6BAAZA%3D%3D%0A"/></div>
+
+1. 数秒後、フォルダーがアップロードされるので、ページを更新する必要があります。これは画面の左下隅にあります。
+
+![](https://downloads.intercomcdn.com/i/o/797827023/a8a65ed9c161b4756c6d9538/image.png?expires=1781092800&signature=b17080303d3104fe7a0d85c5c4b39f95640afa1a23ed25c7b4d1b3a5f275cbfb&req=cykgHst5nYNcFb4V1XW4gT%2FA99MT5CqQkd%2Fan7g3vUkrjEEPLNuXIUVSI9uq%0AUf1YULdOtXkaE6W8h2mjvPl9dg%3D%3D%0A)
+
+## **ファイルサイズ制限の回避**
+
+zip をアップロードすると、zip によってファイルが圧縮されるため、7 GB を超えるファイルをアップロードできます。
+
+## **私のzipアップロード**
+
+ハンバーガー メニューの zip アップロードの下にあるオプションを使用すると、次の概要を確認できます。
+
+## **デスクトップコネクタ**
+
+[Catenda Desktop Connector を](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)使用すると、ドキュメントの最新バージョンをローカル システムから Catenda Hub に自動的かつ定期的にアップロードできます。
+
+Desktop Connector は、ドキュメントを 1 回の大きなドラッグ アンド ドロップや zip アップロード バッチでアップロードするのではなく、ファイルごとにアップロードするため、通常のアップロード プロセスよりも処理が速く、失敗のリスクも最小限に抑えられます。
+
+# トピックの本文 - トピックの内容
+
+[トピックボード](https://support.catenda.com/ja/articles/4670271-issues-page#h_6a5895256b)からトピックを選択すると、そのトピックのページが開きます。
+
+トピックページの[トピックバナー](https://support.catenda.com/ja/articles/7986346-topic-banner-navigating-topics)は、次のような表示になります：
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1779178125/c268ec750c4b40493a0a7a82729c/image.png?expires=1781092800&signature=5544eb74a16dd53b22ec557c9de5fcb74d6e5dbd38e46f23e0b2b53607a5169e&req=dScgH8h5lYBdXPMW3nq%2BgVrrzy5Ru4MjupIQCWEeHmV4nV1eClOdzyHWifab%0AkkU0OLY4OLhSJSCOWdSdq5nx0mo%3D%0A)
+
+[トピックヘッダー](https://support.catenda.com/ja/articles/8400566-topic-header-the-subject-of-a-topic)は次のような表示になります：
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1779190159/4e2da70538914e5ef61d0207c0d6/image.png?expires=1781092800&signature=61a042b3f3b3bed8c0eef9b1773dcc8e7a9c86c4cf5a11647de61bb2fbcccc21&req=dScgH8h3nYBaUPMW3nq%2Bgb%2FgSWPjBv6DF6DRlYdrRdn8DBEmkZXIEv2KZx4F%0AaEd3%2FvBQ6iCnmCU2KNSGEOAXbeE%3D%0A)
+
+トピックヘッダーの下には、説明やコメントを含むトピック本文が表示されます。 トピック本文については、この記事で説明しています。
+
+トピック本文とヘッダーの右側には[、右側の情報パネル](https://support.catenda.com/ja/articles/8053299-issue-right-panel)があります。
+
+トピックバナー内の情報アイコンをクリックすると、右側の情報パネルが展開されます。
+
+この記事で説明しているトピック本文は、ヘッダーの下、右側の情報パネルの左側にあります：
+
+**[進行状況バー](#h_7b73deaf7d) - [説明](#h_952e4743da) - [トピック情報](#h_15569a8464) - [コメント欄](#h_0e3c0059ae)**
+
+トピックの主要部分は、次のような構成になっています：
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142856423/669cad2e1e063e1691e5f5311cf0/image.png?expires=1781092800&signature=1cec5b37e523e80392b0b675c09991cd8cb259d0c60fb920a857d20cebb58e8d&req=diEjFMF7m4VdWvMW3nq%2BgbIzS0Qfr7r1LoRKDjXZtg%2FtWFWOWfLvNSUBGhV4%0AqRB8DQ%2FfAaaftjbFkpI34AJxRHo%3D%0A)
+
+## 進行状況バー
+
+トピックの説明にチェックボックスやリンクされたトピックが追加されている場合、トピック本文の上部に進行状況バーが表示されます。
+
+トピック上部の進捗バーは、次のような表示になります：
+
+![](https://downloads.intercomcdn.com/i/o/758246452/67a377b6d341034e4bf14e81/image.png?expires=1781092800&signature=8168623fe96cc5a20c48938698acc9a4578891177786878306c06356a19bc16b&req=cyUvFM14mYRdFb4V1XW4gTBKssd%2BaDSjA9W%2BVvgEMH1yXIv2yWBqzXVoAix%2F%0AcDJixTSctB9wq54FMl%2FPazuQZg%3D%3D%0A)
+
+進捗バーには、トピックの説明文内でチェックされたチェックボックスや解決済みのトピックの進捗状況が表示されます。
+
+チェックリストに関する短い動画チュートリアル[はこちら](https://support.catenda.com/ja/articles/5036461-check-lists-within-issues)をご覧ください
+
+## 説明
+
+トピックの説明文は、[投稿の一般的な書式ルール](https://support.catenda.com/ja/articles/8430847-formatting-of-posts)に従います。
+
+### 説明の編集
+
+トピックコンテンツの右上にある鉛筆アイコンをクリックして、説明を編集します
+
+![](https://downloads.intercomcdn.com/i/o/758319680/018064f73f9ad677e31d85f3/image.png?expires=1781092800&signature=20e17b1e60f9898da372ca7bc5ac425905b459a93aaf7312c5cb0baaac6078a0&req=cyUvFch3m4lfFb4V1XW4gVAepRGJdayUSrmdkuPCAFr8AVtd0AQlB87Hk3rO%0AUlngPsXK6s8xjNG9pzJACdL2oQ%3D%3D%0A)
+
+_必要な権限：_トピック掲示板への書き込み権限
+
+編集中の説明文は、次のような表示になります：
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1779206802/c4c2f9fafb6cd0b3b91d121ef4a4/image.png?expires=1781092800&signature=88f6951b890853a1012cd55eaaed617fba345414cd312e9e0b13a83c258df222&req=dScgH8t%2Bm4lfW%2FMW3nq%2BgQGn2b9EaWqtqAVGBGfZ705Ykqw%2FkxTK6nfy%2B3XY%0A19JTghv9691wFVRA1bKqP0rB0oY%3D%0A)
+
+書式設定オプションの詳細については、説明を編集し、疑問符をクリックしてください。
+
+説明文の[書式設定](https://support.catenda.com/ja/articles/8430847-formatting-of-posts)は、Catendaの[投稿に関する](https://support.catenda.com/ja/articles/8430847-formatting-of-posts)一般的なルールに従います。
+
+## トピック情報
+
+トピック情報は説明文の下に表示されます。
+
+トピック情報は、次のような表示になります：
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1779226675/64443cbbfc36a5e20393921eb635/image.png?expires=1781092800&signature=88cc9ce4f52b219e05e73f9ea3acccfb9509d8dc3ba04a7c9c83d1922279e416&req=dScgH8t8m4dYXPMW3nq%2BgdRyqHRjjOGQmALbXDqcNx3r2XEvh7QO9uB1WfGU%0A%2Fx46Ud%2Baf%2BppM8SLch7qaOZtM1Y%3D%0A)
+
+### 作成者
+
+トピックの作成者と作成日時。
+
+より詳細な日時を確認するには、[アカウント設定](https://support.catenda.com/ja/articles/6880968-account-page#h_4aa257b72f)へ移動してください。
+
+### 履歴を表示
+
+トピックの履歴は、トピック説明の右下にある「履歴を表示」ボタンをクリックすると確認できます。
+
+Catenda Hubで閲覧可能なトピックの履歴については[、こちらの記事](https://support.catenda.com/ja/articles/8613038-issue-history)をご覧ください。
+
+### 並べ替え
+
+古いコメントから表示 - デフォルト
+
+最新のコメントを先頭に表示
+
+## コメント欄
+
+トピックのコメントセクションは、次のような表示になります：
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1779228178/87a4828d2e29323e4c990e62719f/image.png?expires=1781092800&signature=c57a1f5511156852146b9ba0a3f030f5cc58aa12130bd18912e4917aef1e0faf&req=dScgH8t8lYBYUfMW3nq%2BgcReYwmEHKyn9u1mDhQEqcFqdtrevE6mPUWS3cY0%0AhLMNXhP73aoyNLahUqWktr96em4%3D%0A)
+
+### 既存のコメントのアクションメニュー
+
+コメントのアクションメニューは、既存のコメントの右上にある3つのドットから表示できます。
+
+_アクセス権限：_コメント作成者
+
+**コメントの編集**
+
+コメントの作成者本人がのみ、自身のコメントを編集できます。
+
+編集できるのはコメント内のテキストのみです
+
+コメントから画像を削除するには、コメント全体を削除する必要があります。
+
+コメントを編集すると、最後に編集された日時がコメントに表示されます。
+
+**コメントを削除する**
+
+「コメントを削除」をクリックしてコメントを削除します
+
+### コメント
+
+コメント内のテキストは[、投稿の書式設定に関する一般的なルール](https://support.catenda.com/ja/articles/8430847-formatting-of-posts)に従いますが、チェックリストに関しては若干の違いがあります。
+
+**添付ファイルのポップアウト**
+
+添付ファイルの画像を左クリックすると、画像ポップアウトが開きます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1255860400/30a9e02ba1c5535c2f5b3806d04b/image.png?expires=1781092800&signature=9a5533b88d9de1861a1dfb32275164a7624ce98430abf734b17fba19b1569515&req=dSIiE8F4nYVfWfMW3nq%2BgbxttvO2TTcBCEG9WTGO7oGtb4Lj9VlZ9%2BThRr13%0AWviTOFTI%2Fr1YNKZN0mGZ4UT%2Frh8%3D%0A)
+
+左/右のナビゲーション矢印を使用して、このトピック内の異なるコメントにある画像間を移動します
+
+投稿された元の画像をダウンロードする最良の方法は、ダウンロードアイコンをクリックして画像をダウンロードすることです
+
+ブラウザのアクションメニューにある「名前を付けて保存」を選択すると、画像ではなくHTMLが保存されます。
+
+右上のピンアイコンをクリックして画像ポップアウトを固定すると、Catenda Hubの他のページに移動しても画像ポップアウトを開いたままにできます。
+
+右上の「×」をクリックするか、右下の「閉じる」をクリックするか、キーボードのEscキーを押すと、画像ポップアウトを閉じることができます。
+
+コメントには、以下の3種類の添付ファイルのいずれかを追加できます：
+
+**[画像](#h_fb43bacd99) - [2Dおよび3Dスナップショット](#h_1ba7f8873f) - [注釈](#h_e98c0964d4)**
+
+### 画像
+
+**コメントへの画像の追加**
+
+コメントボックスの横にある「＋」をクリックして、画像を追加できます。
+
+ローカルハードドライブから画像を選択して、コメントに追加します。
+
+コメントのテキストボックスを選択し、クリップボードから画像を貼り付けることも可能です。
+
+**画像を3Dに接続**
+
+コメントに画像が追加されると、3Dビューアにモデルが読み込まれていない限り、画像の下に「ビューア接続なし」と表示されます。
+
+「3D ビューポイントに接続」というテキストが表示されます。
+
+これで、画像をビューア内のオブジェクトや位置に接続できるようになります。このコメントを送信し 、再生ボタンをクリックしてビューポイントを再生します。画像の追加後、コメント を送信する前に、画像に注釈を追加することができます。
+
+**画像のポップアウト**
+
+コメントの送信後、コメントに添付された画像は[ポップアウト](#h_e36d14edc8)して内容を拡大表示したり、送信後にダウンロードしたりすることができます。
+
+**コメントから画像を削除する**
+
+コメントに添付された画像は、コメント内から編集または削除することはできません。
+
+トピックから画像を削除するには、コメント全体を削除してください。
+
+### 2Dまたは3Dスナップショット
+
+コメントフィールドの横にあるプラスボタンをクリックして、2Dまたは3Dスナップショットを追加します
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1296349701/653a93844e5f920ce24f2ad34abb/image.png?expires=1781092800&signature=f34b9fed049c4b9cca1dbd5c3065da0fb44602a821bdf89ff67916f4619731b0&req=dSIuEMp6lIZfWPMW3nq%2BgcQHy6XwWWtGx7LuvD8ug2eoUiDBPWNgzzS38xdO%0Ai2SzezCpkzqHIU0pGRRuuf1oNyE%3D%0A)
+
+**コメントへの2Dまたは3Dスナップショットの追加**
+
+3D ビューアでモデルを読み込み、コメントに 3D スナップショットを添付します。
+
+2Dビューアでモデルの階を読み込み、コメントに2Dスナップショットを添付します。
+
+3Dスナップショットは、次のような表示になります。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1277457885/6d48655dd3aab36902694c19e7fb/image.png?expires=1781092800&signature=30bb8ab7e3d4985b052af3f64fa053fee3421f9b65b131422fde51b2518c9881&req=dSIgEc17molXXPMW3nq%2BgQPa%2B2H%2Fr%2FX1jnCef14mbahez6WTw0UCN6uB1f0G%0AjZerQdiQeFVNz7SumEFmnPIuUGU%3D%0A)
+
+2Dスナップショットには同じボタンがありますが、2Dビューアの画像が添付されています。
+
+スナップショットの設定について詳しく[はこちら](https://support.catenda.com/ja/articles/10345863-snapshots)をクリック
+
+### マークアップ
+
+マークアップを作成して、ドキュメント上の注釈を追跡します。
+
+マークアップが保存されると、既存のトピックのコメントに追加されるか、マークアップを含む新しいトピックが作成されます。
+
+マークアップを含むトピックのコメントは、次のような形式になります。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1779096915/f9c3957e9d18bc6a60ba14722479/image.png?expires=1781092800&signature=921f9acf03a981161f362a18540d2624f3eb0c716a984a6e1a7fc8436b880f10&req=dScgH8l3m4heXPMW3nq%2BgXZhB%2FTo4tZhstDe36psl%2FLYaJSwh2v0izGc%2BpYF%0ARL2z07IvrSONNni500rsFgA%2BkEY%3D%0A)
+
+トピックにマークアップが追加されると、注釈が作成されたドキュメントは[「関連ドキュメント」](https://support.catenda.com/ja/articles/7986346-issue-content#h_be2f2bcf3b)に自動的にリンクされます。
+
+**マークアップコメント**
+
+注釈コメントは[、投稿の書式設定に関する一般的なルール](https://support.catenda.com/ja/articles/8430847-formatting-of-posts)に従いますが、チェックリストに関しては若干の違いがあります。
+
+**マークアップのスナップショット**
+
+マークアップスナップショットには、以下の情報が表示されます:
+
+- 注釈が作成されたドキュメント領域のスクリーンショット。
+- 再生ボタン
+    - 再生ボタンをクリックすると、ドキュメントページ上で、そのマークアップの注釈が含まれるリビジョンのドキュメントプレビューを開くことができます。
+    - _必要なアクセス権限：_
+        - マークアップが適用されているドキュメントへの読み取り権限。
+        - マークアップが共有リビジョンにある場合、そのドキュメントの共有リビジョンを表示する権限。
+    - 以下の場合は、ドキュメントプレビューにドキュメントが表示されません:
+        - ドキュメントの改訂版が取り消されている場合
+        - ドキュメントが削除されている場合。
+- ドキュメントの改訂版内で注釈が付けられているページ
+- ドキュメントの改訂版における、そのページ上の注釈の数
+- 注釈が付けられたドキュメントの名前とリビジョン
+    - 注釈が PDF 比較に対して行われている場合、比較されている 2 つのリビジョンが表示されます。
+
+**画像のポップアウト**
+
+コメントの送信後、コメントに添付された画像を[ポップアウト](#h_e36d14edc8)して、その内容をより大きなサイズで表示したり、送信後にダウンロードしたりすることができます。
+
+### 新しいコメント
+
+コメントを送信する前の、新しいコメントの下書きはこのような表示になります
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1779325890/72654b14e676790d60f8eeb2977b/image.png?expires=1781092800&signature=4e53e4b6aeab20ec39706b29d3257c7eee9b76b7ce4f7e60785bb880f5dd2d6d&req=dScgH8p8mIlWWfMW3nq%2BgQo16XJIUq8zT%2F%2Bbo7crhBSSuJ1LoIxhiFN0i8nO%0AcCy2nU6pfTLwXG6kCtjFcTVMCE0%3D%0A)
+
+**テキストボックス**
+
+プラスボタンの横にあるテキストボックスにコメントを入力してください。
+
+@name と入力してメンバーをメンションしたり、#link と入力して他のトピックにリンクしたりできます。
+
+コメントのテキストボックスに入力された内容は、Catendaの[投稿における一般的な書式](https://support.catenda.com/ja/articles/8430847-formatting-of-posts)設定[ルール](https://support.catenda.com/ja/articles/8430847-formatting-of-posts)に従います。
+
+クリップボードからテキストや画像を貼り付けて、新しいコメントに添付することができます。
+
+**プラスボタン**
+
+プラスボタンをクリックして、新しいコメントの下書きに 3D スナップショット、2D スナップショット、または画像を追加します。
+
+**3Dスナップショット**
+
+3Dビューアパネルに現在の状況のスナップショットを追加します。
+
+変更を行った後、この添付ファイルを再度クリックすると、3D ビューが更新されます。
+
+**2Dスナップショット**
+
+3Dビューアの右下にある現在の2Dビューのスナップショットを追加します。
+
+変更を行った後、この添付ファイルをもう一度クリックして 3D ビューを更新してください。
+
+**画像**
+
+ローカルハードドライブから画像を添付します。
+
+**添付画像**
+
+各添付ファイルには画像が添付されています。
+
+添付ファイルの画像を左クリックすると、添付ファイルのポップアウトが開きます。
+
+添付ファイルのポップアウトウィンドウでは、添付ファイルの画像に注釈を付けることができます。
+
+画像の下には、トピックの特定のポイントをより詳細に描画するためのツールバーが表示されます。
+
+**送信**
+
+「送信」をクリックすると、テキストボックスに入力した内容と追加された添付ファイルを含む、新しいコメントの下書きが送信されます。
+
+一度に送信できる添付ファイルは1つだけです。
+
+# トピック内のチェックリスト
+
+[YouTube ビデオ](https://www.youtube.com/embed/Ee3BXGWXcVA?rel=0)
+
+# モデルページ
+
+モデルページでは、モデルにリンクされているすべてのIFCドキュメントを確認できます。
+
+通常、各分野ごとに1つのモデルが見つかります。
+
+モデルページは次のような外観です:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2203323683/82b10239e244add177a8bb2ecaf2/image.png?expires=1779991200&signature=112f66a4c5fdcd9d6632994f20feef4b5d7b3cf039d5c3357676546feebcf81d&req=diInFcp8nodXWvMW3nq%2BgePkqh8vttJuPHq%2BMTzSrlPzf1umP6Fb8o4codg8%0ADblgeYLIxh%2B5Sj5gH9wZexTpxD4%3D%0A)
+
+モデルページはプロジェクトの左側ナビゲーションメニューの2番目のページです。
+
+このページは[コンテンツパネル](https://support.catenda.com/en/articles/13141464-project-panels#h_74710f7a33)の一部です。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2203330265/60c65eaafc1fe9c98d0b014ea0aa/image.png?expires=1779991200&signature=60ea6cff27fdcf17b08461d5151323b964a0b8ea989c307fc99f378d30d31214&req=diInFcp9nYNZXPMW3nq%2BgStsWwQs4heuYwJav0Xdgn52pMkdUyvcWMbbKx9o%0AifRAPzYK695%2FggCVJcgOi7qE7jI%3D%0A)
+
+この記事で説明するトピックは以下の通りです:
+
+_[新規項目アクション](#h_5dc7dabe3a) - [検索またはフィルタオプション](#h_330a5c2a91) - [右メニュー](#h_ac840d5d23) - [モデルテーブル](#h_bbc42c56bb) - [サブページ](#h_f549b192ca)_
+
+## **新規項目アクション**
+
+新規項目アクションはページの右上にあります。
+
+![](https://downloads.intercomcdn.com/i/o/1073698722/6af87f1f6e6ea72898acb52c/image.png?expires=1779991200&signature=50bf70be1296344f658a03208de1e403f32fb1946b3b1aedb30b23db24b34879&req=dSAgFc93lYZdW%2FMW3nq%2BgagieBq6DzUAhbudhYsZTBOAag80bA6ZoPRilQ1q%0A2cTeuV31GfQVHkIZ%2ByJU15YiKJ8%3D%0A)
+
+異なるアクションの詳細については[こちら](https://support.catenda.com/en/articles/9431936-actions-on-the-models-page)を参照してください。
+
+## **検索またはフィルタオプション**
+
+モデルページで最適に検索またはフィルタする方法については[こちら](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)を参照してください:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1702848368/4c99fc064c7351e524831d7686e6/image.png?expires=1779991200&signature=1ade06ead1a0b9ca23aaac2f4ae2a0fd9ce8f0cfcba69fe0403a44220b7f6076&req=dScnFMF6lYJZUfMW3nq%2BgVPl8vbHmkmDhmOZUW1XEw2rSFTXXevw1%2FKGTqXi%0A4VSeYcm72PXgAVmZzTKYrvr7cV8%3D%0A)
+
+## **右メニュー**
+
+モデルテーブルでモデル行が選択されている場合、検索またはフィルタバーの右側に情報ボタンが表示されます。
+
+情報ボタンは次のような外観です:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1648971372/9fd3240d0c44670ff04aee9db307/image.png?expires=1779991200&signature=9c50ae28073d1e9b8da1cb4c67d2fc02722c9cdc518484238e3f54585d574cd4&req=dSYjHsB5nIJYW%2FMW3nq%2BgV2khwPU8bJuVI5FqnZi3GpYUNxb7OEDivpTRdhB%0AklV3QpfH7kWTCBJD2IHsFV0CqXw%3D%0A)
+
+右メニューでは、以下の情報を確認できます:
+
+- _画像_
+- _ドキュメントリンク_
+- _ステータス_
+- _ラベル_
+- _投稿者_
+- _モデル変換_
+  モデルページの右メニューの詳細については[こちら](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)を参照してください。
+
+## **モデルテーブル**
+
+モデルテーブルは次のような外観です:
+
+![](https://downloads.intercomcdn.com/i/o/1084148163/771ca24e30021b9f81818b16/image.png?expires=1779991200&signature=3cf2c4f7ae1a482e44c15b4381a46e0aeb2c7a634623f052a151cd20a897529d&req=dSAvEsh6lYBZWvMW3nq%2BgbOE%2BbrbIIUSPjn7pAh%2FlmkRLZ3siZDisvDqtyQv%0A6kRf7QJtz%2BwT4qATXkSHsO7y8m8%3D%0A)
+
+モデルが作成されると、すぐにモデルテーブルの行として表示されます。
+
+Catendaでテーブルを操作する方法について詳しくは[こちら](https://support.catenda.com/en/articles/11748020-tables-on-catenda)を参照してください。
+
+### **選択項目アクション**
+
+モデル行を選択すると、選択項目アクションがモデルテーブルの上部に表示されます。
+
+選択項目アクションメニューは次のような外観です:
+
+![](https://downloads.intercomcdn.com/i/o/1073737628/f84fc5ab3bdcfe0e17a700f7/image.png?expires=1779991200&signature=44e3647b3f00aaec20783fafe274fa7ade7c7d92f1e292e5115a0808cb980766&req=dSAgFc59moddUfMW3nq%2BgUjHsqM4rHFy%2FcdW6jmAmOTRGp6IuBrx276TD9Hq%0ANE1z7wdtviILqGIOZxJklpncTRE%3D%0A)
+
+異なる選択項目アクションの詳細については[こちら](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed)を参照してください。
+
+### **行の内容**
+
+テーブルが最初に読み込まれるときは、最大100行が表示されます。
+
+テーブルに100行を超える行がある場合は、下部までスクロールして次の100行を読み込みます。
+
+各モデル行はドキュメントページのドキュメントにリンクされています。
+
+_アクセス_
+
+モデル行は、モデルにリンクされているドキュメントへのアクセスに基づいて表示されます。
+
+_必要なアクセス - _読み取り
+
+モデル行の内容を開くと、そのモデルの[モデル概要ページ](https://support.catenda.com/en/articles/4670270-model-page)が開きます。
+
+_2D および 3D ボタン_
+
+2Dの場合、3Dパネルが開き、モデルの最新リビジョンの最初のストーリーが2Dビューアに読み込まれます。
+
+3Dの場合、3Dパネルが開き、モデルの最新リビジョンが3Dに読み込まれます。
+
+### **行の内容 ステータスワークフロー - ドラフトリビジョン**
+
+_アクセス_
+
+ドラフトリビジョンのみを持つモデルのモデル行には、ドラフトリビジョンを2Dまたは3Dに読み込むことができないため、2Dおよび3Dボタンがありません。
+
+> **注記:** ドラフトリビジョンは[モデル概要ページ](https://support.catenda.com/en/articles/4670270-model-page)に表示されません。 _2D および 3D ボタン_ 最新の公開リビジョンの2Dおよび3Dビューは、より新しいドラフトリビジョンが存在しても開きます。
+
+### **行の内容 ステータスワークフロー - ワークスペースタブ**
+
+_アクセス_
+
+モデル行は、モデルにリンクされているドキュメントへのアクセスに基づいて表示されます。
+
+共有リビジョンを表示するアクセス権がある場合、最新リビジョンが表示されます。
+
+_必要なアクセス_ - ドキュメント内の共有リビジョンを表示するアクセス
+
+共有リビジョンを表示するアクセス権がない場合、最新の公開リビジョンが表示されます。 より新しい共有リビジョンが存在しても。
+
+_必要なアクセス - _ドキュメントへの読み取りアクセス
+
+_2D および 3D ボタン_
+
+2Dおよび3Dビューは、ユーザーがアクセスできる最新リビジョンで開きます。
+
+### **行の内容 ステータスワークフロー - 公開タブ**
+
+_アクセス_
+
+モデル行は、モデルにリンクされているドキュメントへのアクセスに基づいて表示されます。
+
+_必要なアクセス - _読み取り
+
+_2D および 3D ボタン_
+
+最新の公開リビジョンの2Dおよび3Dビューは、より新しい共有リビジョンが存在しても開きます。
+
+### **列**
+
+単一パネルが開いているか、複数パネルが開いているかによって、異なる情報が表示されます。
+
+トピックページのテーブルビューの一部の列はデフォルトで有効になっていますが、他の列は非表示にでき、有効にする必要があります。
+
+構成された列の順序に基づいて、最初の列が表示されます。
+
+構成された列の幅に基づいて、より少ないまたは追加の列を表示できます。
+
+テーブルを横にスクロールして、有効にされた他の列を表示する必要があるかもしれません。
+
+テーブルの使用方法について詳しくは[こちら](https://support.catenda.com/en/articles/11748020-tables-on-catenda)を参照してください。
+
+モデルページの列のデフォルトの順序と表示設定は以下の通りです:
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80;"><h3 id="h_ec767816e6"><b>モデルテーブル列</b></h3></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>チェックボックス</i> - デフォルト</p></td></tr><tr><td><p class="no-margin">モデルの選択</p></td></tr><tr><td><p class="no-margin">この列をクリックして、選択にモデルを追加します。</p><p class="no-margin"><a class="intercom-content-link" href="https://support.catenda.com/en/articles/11748020-tables-on-catenda" target="_blank">ここ</a>をクリックすると、テーブルで行を選択する方法について詳しく学ぶことができます。</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>ビューア - </i>デフォルト</p></td></tr><tr><td><p class="no-margin">読み込みボタン</p></td></tr><tr><td><p class="no-margin">これが新しいモデルで、公開リビジョンがまだない場合、この列は空になります。
+モデルをインポートすると、処理が開始されます。 グレーの感嘆符が表示されます。
+​ </p><p class="intercom-align-center no-margin"><img alt="Processing" src="https://downloads.intercomcdn.com/i/o/1128820332/6439f9053578575ccfb0da71/image.png?expires=1775952000&amp;signature=d2d5730cff9ef0e4f5464ce075b9fb183c725c0dea10d37422bc6a936e64eac3&amp;req=dSElHsF8nYJcW%2FMW3Hu4gawWDOtZAjnxXc5RcM%2BYJyOQMppOb7OjFRATiTdO%0AHA%3D%3D%0A" width="229.375"/>    /    <img alt="" src="https://downloads.intercomcdn.com/i/o/1128822000/24966190ab877efd53a395f7/image.png?expires=1775952000&amp;signature=01c9a60d8a0e702b0fef66a995ed054f87ce2a99edefe00a40cef9730f30fb61&amp;req=dSElHsF8n4FfWfMW3Hu4gRp3B%2FaY1i%2FAjI5Vqwq68Zs5AuWQ4GJG%2FeSZ9F13%0Apg%3D%3D%0A" width="40"/></p><p class="no-margin">
+最新のモデルリビジョンが処理に失敗した場合、赤い感嘆符が表示されます。</p><p class="no-margin"></p>
+<p class="intercom-align-center no-margin"><img alt="Failed" src="https://downloads.intercomcdn.com/i/o/1128818838/685853c34add580b5d8b79ab/image.png?expires=1775952000&amp;signature=9b1e8643ef4de33e8305caf8aa5cfefaafaa1f3e92eb05e28c8c7ebbb6dfc163&amp;req=dSElHsF%2FlYlcUfMW3Hu4gclVforUPGKFV5YEOKsbNlHs3ivdc35j5phODe8m%0A9A%3D%3D%0A" width="148.57142857142858"/>    /   <img alt="" src="https://downloads.intercomcdn.com/i/o/1128813631/d16bb86de7aca1c8ca7ccb80/image.png?expires=1775952000&amp;signature=c333c15082b31af4fb269e1fc4c06a60e373e3e5b4e66e4674033129e63c55e6&amp;req=dSElHsF%2FnodcWPMW3Hu4gdlodHnyyafYkFUlJf6UCOwP1mk%2FF14gXNf3hfPL%0AVw%3D%3D%0A" width="39.583333333333336"/></p><p class="no-margin"></p>
+<p class="no-margin">説明マークの上にマウスを移動して、どのモデルが失敗したかを確認します。 3Dをクリックすると、最新のリビジョンではなく最新の有効なリビジョンが読み込まれます。
+公開リビジョンがある場合、2D、3D、およびズーム拡張ボタンがここに表示され、<a class="intercom-content-link" href="https://support.catenda.com/en/articles/4854537-2d-viewer" target="_blank">2Dビューア</a>および<a class="intercom-content-link" href="https://support.catenda.com/en/articles/8227211-3d-viewer" target="_blank">3Dビューア</a>と一緒に使用できます。</p><p class="no-margin"></p>
+<div class="intercom-container intercom-align-center"><img alt="2D 3D" src="https://downloads.intercomcdn.com/i/o/1082115963/a53e8f74473c0b5b0c22fc6b/image.png?expires=1779991200&amp;signature=e947eb25325ae494beb3b906fb78d6d51e54046022a1b665a1d4419db3619705&amp;req=dSAvFMh%2FmIhZWvMW3nq%2BgQBR4yJc1QMifJ2Xkg0rEHuxA0F7SLdJWIWNTv2c%0Ao1MDihxPmxuxMQ8pXyt5KZ6uv4k%3D%0A" width="131"/></div><p class="no-margin"></p>
+<p class="no-margin"><i>必要なアクセス:</i> ドキュメントモデルへの読み取りアクセス</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>注記1:</b> ズーム拡張ボタンは、3Dでモデルを読み込むまでグレーになります。</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>注記2:</b> 3Dボタンに説明マークがあり、2Dおよび3Dボタンがグレー表示されている場合は、説明マークの上にマウスを移動して何が問題かを確認します。</p><p class="no-margin">モデル名をクリックして、前のリビジョンを開くことができます。</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>短い名前</i> - デフォルト</p></td></tr><tr><td><p class="no-margin">モデルの名前</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>注記1:</b> モデルのモデル名は、モデルにリンクされているドキュメントの名前またはリビジョンの名前と異なる場合があります。</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>注記2:</b> モデルがリンクされているドキュメントへのアクセス権がない場合、モデルテーブルにその行は表示されません。 リビジョンセレクターでモデル名を確認できます。</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>ドキュメント名</i></p></td></tr><tr><td><p class="no-margin">モデルドキュメントにリンクされているドキュメントモデルの名前。</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>リビジョン</i> - デフォルト</p></td></tr><tr><td><p class="no-margin">ドキュメントモデルの公開リビジョン数</p></td></tr><tr><td><p class="no-margin">モデルがモデルページから追加されている場合、リビジョンはまだありません。
+リビジョン番号の代わりに、クリックして最初のリビジョンをアップロードできるアイコンが表示されます。</p><p class="no-margin"></p>
+<div class="intercom-container intercom-align-center"><img src="https://downloads.intercomcdn.com/i/o/1128796790/433007f5c08e12a46a1cf72e/image.png?expires=1779991200&amp;signature=6d2769c236522b8add72ad1459efbfd3edea361596758a5e4a0fdaead6fb31f9&amp;req=dSElHs53m4ZWWfMW3nq%2BgUJAq5%2Fne8p%2FnydcowhE3pLyS2kmGK2JVLf86cKP%0A9OyFoh%2BA1DcSJq8Gbrr%2BZWcg9Q8%3D%0A" width="47"/></div><p class="no-margin"></p>
+</td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>リビジョンコメント</i></p></td></tr><tr><td><p class="no-margin">リビジョンがアップロードされたコメント(レガシーのみ)</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>リビジョン名</i></p></td></tr><tr><td><p class="no-margin">最新の公開ドキュメントモデルリビジョンの名前。 アップロード後は変更できません。</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>ステータス</i> - デフォルト</p></td></tr><tr><td><p class="no-margin">最新の公開ドキュメントモデルリビジョンのステータス。 公開ステータスは<a class="intercom-content-link" href="https://support.catenda.com/en/articles/7831371-document-settings" target="_blank">ドキュメント設定</a>で有効にできます。</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>サイズ</i> - デフォルト</p></td></tr><tr><td><p class="no-margin">最後の公開ドキュメントモデルリビジョンのファイルサイズ</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>ラベル</i> - デフォルト</p></td></tr><tr><td><p class="no-margin">モデルドキュメントに接続されているラベル。</p></td></tr><tr><td><p class="no-margin">ラベルは最初のリビジョンをアップロードした後に適用できます。</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>ドキュメント作成日</i></p></td></tr><tr><td><p class="no-margin">ドキュメントモデルを作成した人物および作成日時。</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>公開済み</i> - デフォルト</p></td></tr><tr><td><p class="no-margin">ドキュメントモデルの最後の公開リビジョンを公開した人物および公開日時。</p></td></tr></tbody></table></div>
+
+## **サブページ**
+
+モデルページのサブページとして、以下のページが見つかります:
+
+- [ブックマーク](https://support.catenda.com/en/articles/4670281-bookmarks)
+- [オブジェクト](https://support.catenda.com/en/articles/12352750-objects-page)
+- [階層コンフィギュレータ](https://support.catenda.com/en/articles/6921756-storey-configurator-page)
+
+# 投稿フォーマットツールボックス
+
+> 投稿を作成できるフィールドをフォーマットする方法
+
+同じフォーマットルールがCatenda Hub全体のさまざまな投稿に適用されます。
+
+投稿には、topic説明、コメント、承認説明、および承認コメントを含めることができます。
+
+投稿を編集できるユーザーへのアクセス権によって異なる場合があります。
+
+Catendaはマークダウンを使用してテキストをフォーマットします。
+
+つまり、文の前後の特定の文字がテキストのスタイルに影響を与えます。
+
+これがtopicヘッダーと説明の送信後の見た目です:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142853925/ac356cf8aa82ab2d579f021fbb5a/image.png?expires=1779991200&signature=db379701aa782a795d0715249d2e131838f324a1adc1df5c4f091de05493201d&req=diEjFMF7nohdXPMW3nq%2BgeO5Gu4QTVbwiyiagSAGJYRM3jg%2FjBE06qW2yxJo%0Ah8KhRqQ6FpjyJBQAessFwOYLWgY%3D%0A)
+
+この記事では、以下のtopicについて説明します:
+
+_[利用可能性](#h_59aa7a2e3d) - [添付](#h_d1bcf0c9b0) - [テキストのスタイル設定](#h_b3cf161d9b) - [テキストの分割と構造化](#h_b0799ba17b) - [メンバー/チームへのメンション](#h_2481ad1c8c) - [topicのタグ付け](#h_282be07cfd)_
+
+## フォーマット利用可能性
+
+フィールドが編集されるときにフィールドの下に表示されるツールボックスにより、送信されたフィールドがフォーマット可能であることがわかることが多くあります。
+
+> \_\_注:\_\_ブラウザのズームスケールを十分に縮小して、すべてのツールを確認してください。 フォーマットは以下のフィールドで利用可能です:
+
+### **Topic説明とコメント**
+
+既存のtopicのコメントを編集するか、新しいtopicを送信するときのいずれかで、ツールボックスを表示するために説明またはコメントを編集します:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142716774/e00776f86b3e5961148459c33a7b/image.png?expires=1779991200&signature=0e22d9a262f6ec8cc9ffd59b884be7ed21d8b5d927709293d35243a523fd2783&req=diEjFM5%2Fm4ZYXfMW3nq%2BgbCbYvmyhkqzs2jDl1gilk2Cc6xR6QmhVhC4KlhS%0ACdo6DkIGE0Ixwn%2FSMNbyKzybwrM%3D%0A)
+
+### **承認リクエスト説明**
+
+新しい承認リクエストダイアログの説明にはツールボックスが表示されませんが、フォーマットはこの説明に適用されます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142756009/c685a2145d819c521e9b89301e28/image.png?expires=1779991200&signature=a1394fe4b4d02e17d42e3e01c374d3f6632eb7073f1ffaaf21967e4f1f1de396&req=diEjFM57m4FfUPMW3nq%2BgXv%2FXso50VfU4OEek4DqeluKvN6IUb%2Fs7og0Rhc8%0A48b%2B0%2BiwKq5dFttZGJQJHxTwIPc%3D%0A)
+
+> \_\_注:\_\_このフィールドは、承認リクエストを送信した後は編集できません。
+
+### Topic board説明
+
+新しいtopic board説明にツールボックスが表示されますが、ボードが送信されるとき説明がフォーマットされないことに注意することが重要です。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142743765/402182e2f1338dc3fb1929bba3cb/image.png?expires=1779991200&signature=d602bee7f2778397607b0ba3230f11c8c54bd3d37fc0c145263106ffbf43ccdd&req=diEjFM56noZZXPMW3nq%2BgWTJvB12fwkzGWwhaz5DPXa%2BsBXBYBDmT0SxeF%2Fe%0ASdziSiIf%2B5qLx8pvhZlyvl%2BRq40%3D%0A)
+
+## **Topic コメント添付**
+
+topicコメントでは、添付ツールが表示されます。
+
+topicの+ボタンをクリックして、添付ファイルを追加します。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142827695/c7a30545e080d9d0bd9ee89cb50f/image.png?expires=1779991200&signature=f5f9fdcc7584b990c376a7c8977c5073d5bfff6da9fcd6b1a4dacb22367b612a&req=diEjFMF8modWXPMW3nq%2BgfoJa9V%2FF6CobGabe6rQFCVQI2kDswJq%2FdteSPD8%0Amh%2B8dJM45JEwNUzv7TnCV76TSTo%3D%0A)
+
+コメント添付の詳細については、[こちら](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae)を参照してください。
+
+## **テキストのスタイル設定**
+
+テキストをスタイル設定するために次の方法を使用できます:
+
+_[太字、斜体、取り消し線](#h_c33379258a) - [ヘッダー](#h_ffb58d98de) - [リンク](#h_4e7260972a) - [フォーマット設定を防止](#h_2ec17c688b)_
+
+### **太字、斜体、取り消し線**
+
+太字、斜体、および取り消し線のスタイル設定は、行の任意の部分で実行でき、行の開始時に実行する必要がある他のスタイル設定と一緒に効果的に機能します。 <img alt="**これは太字になります** **これも太字になります** _これは斜体になります_ _これも斜体になります_ **これは太字_で斜体と組み合わせられます_** ~~このテキストは取り消し線が引かれます~~" src="https://downloads.intercomcdn.com/i/o/areracg3/2142792258/413abae1f84003541985e219ba6a/image.png?expires=1774980000&amp;signature=2d6fe37d7b6194387af9777ef3fff90661568c1f4c9c671432a579a2eb3326f5&amp;req=diEjFM53n4NaUfMW3Hu4gT%2BWlpelLC%2FZyeDdX1yNHeLbkkEA7t04WYWBkBTX%0A2w%3D%3D%0A" width="290"/>   \<->   <img alt="これは太字になりますこれも太字になります斜体になりますこれも斜体になります太字で斜体と組み合わせられますこのテキストは取り消し線が引かれます" src="https://downloads.intercomcdn.com/i/o/areracg3/2142795125/2e54ab8ee52b65dc4705ce317a46/image.png?expires=1774980000&amp;signature=49a7d42096c9d732940db393c57d4c7f51d3675b98a4bc93ba2e4d2977de9468&amp;req=diEjFM53mIBdXPMW3Hu4gZqcrM4jhw7heqMaiz7UXJrKgwDtxdXRZOmHVQh5%0A%2Bw%3D%3D%0A" width="290"/>
+
+### **ヘッダー**
+
+ヘッダーツールはハッシュタグ/ポンド記号を行の開始に適用します。
+
+サポートされているヘッダーのレベルは5つあります:
+
+ヘッダーが受け取るフォーマット設定は、行の開始時のハッシュタグ/ポンド記号(`#`)の数によって異なります。 <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/2142774211/4d966269824f2314e3685bf574d2/image.png?expires=1774980000&amp;signature=deb6ed14712f57d0d4b0c53ec1279375556850bf32c8840e20badb8d373516f3&amp;req=diEjFM55mYNeWPMW3Hu4gYpCJPwCMzegJvhdZHHTxaYqo1q9T5nZ7c27Xhfd%0A9g%3D%3D%0A" width="290"/>   \<->   <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/2142782676/88eae0f146164d95cf6bc94bb9d9/image.png?expires=1774980000&amp;signature=41447ae0185c19ef09c816795ecb067042f94fcc6a970d0590590458ea2848e5&amp;req=diEjFM52n4dYX%2FMW3Hu4gXMRNm2JOBxeB8KI3qP4itWZAkDmJ%2BtQeqYn168Q%0AwQ%3D%3D%0A" width="290"/>
+
+### **リンク**
+
+リンクスタイル設定は、行の任意の部分で実行でき、行の開始時に実行する必要がある他のスタイル設定と一緒に効果的に機能します。
+
+説明内のリンクは緑色で下線が引かれます。
+
+リンクのテキストは、リンクが指すurlと異なる場合があります。
+
+URLは自動的にクリック可能なリンクに変換されます
+
+```
+https://hub.catenda.com
+```
+
+になります
+
+[https://hub.catenda.com](https://hub.catenda.com)
+
+そして
+
+```
+[Catenda Hub](https://hub.catenda.com)
+```
+
+になります:
+
+[Catenda Hub](https://hub.catenda.com)
+
+> \_\_注:\_\_リンクをクリックするときは、[括弧内の]テキストは1つのリンクを示しているかもしれませんが、(括弧内の)実際のリンクが異なる場合がある可能性があるため、注意してください。 リンクをクリックする前に、リンク上でマウスをかざして、ブラウザがどこにリダイレクトするかを確認することをお勧めします。
+
+### **フォーマット設定を防止**
+
+文字列以外の文字を単語で囲むことで、単語を別の外観にすることができます。
+
+これは常に望ましいわけではありません。
+
+`\\`をそのような文字の前に置くと、`\\`は消えます。
+
+これらの文字に適用されたフォーマット設定は機能しなくなります。
+
+`\\`を[リスト](#h_6da4949f8c)の一部ではない空行に置くと、結果は空行のままになります。
+
+## **テキストの分割と構造の追加**
+
+テキストを分割して構造を追加するための次の方法を使用できます:
+
+_[画像](#h_addf8ad509) - [リスト](#h_6b17294b71) - [区切り線](#h_fdecb8577b) - [チェックリスト](#h_d0007452e5) - [表](#h_20306a720d) - [コードブロック](#h_0ca602daeb) - [マークダウン](#h_750fef10e8)_
+
+### **画像**
+
+説明内の画像には、リンクが添付されます。
+
+画像を埋め込むには、このシンタックスを使用します
+
+```
+![text](https://bimsync.com/img/favicon/dark-mode/favicon-32x32.png)
+```
+
+この画像を、その背後にある単語「text」で取得します。
+
+![text](https://downloads.intercomcdn.com/i/o/771763976/bbed60dfcfa022fd26770bb1/faviconV2.png?expires=1779991200&signature=9b05330d32d2ade5b70422cc84942dffa276d43efb8a48972f30cc0278d591fe&req=cycmEc99lIZZFb4V1XW4gaTV8ABi7RF2xk92u6a%2BtkN3rtUWh3uSMnp1R6NF%0ASJXjyML2HaJAl9pSz4Covc8%2Bew%3D%3D%0A)
+
+画像が正しく表示されるには、Catendaは提供されるリンクにアクセスする必要があります。
+
+> \+ 画像を説明に追加できます \+ 画像をテキストと混在させることができるため、同じコメントまたは説明内で画像の前後にテキストを配置できます。 \+ これらの画像は、テーブルとリストと組み合わせることができます。 たとえば、行の開始時にのみ機能するフォーマットチェックボックスの代わりに、文/テーブルの中央にチェックマーク画像を追加することができます \- 画像へのリンクが将来も利用可能であることを保証することはできません。 _Catenda画像ドキュメントリンクの取得_ ドキュメントを選択した後の[ダウンロードアクションボタン](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_133e2bcc57)を右クリックするか、ドキュメントを開いた後の[最新リビジョンダウンロードアクションボタン](https://support.catenda.com/en/articles/9323521-actions-in-a-document)を右クリックすると、ドキュメントのダウンロードリンクをコピーできます。 このリンクを上記のようにtopicで使用すると、Catendaドキュメントをtopicで使用できます。 \+ Catenda画像ドキュメントへのリンクを追加すると、Catendaにのみ表示され、topicが交換される可能性がある他のプラットフォームでは利用できない画像を追加できます。 \+ Catenda画像ドキュメントへのリンクを追加することで、ドキュメントへのアクセス権がある人だけが画像を見ることができます。 \- Catenda画像ドキュメントへのリンクを追加する場合、topicが同期された可能性のある他のプラットフォームでは表示されず、ドキュメントへのアクセス権のない人には表示されません。
+
+### **リスト**
+
+_順序なしリスト_
+
+順序なしリストは、その上に空行で始まり、その後、ハイフン(`-`)、プラス(`+`)、またはアスターリスク(`\*`)を入力した後にスペースを入力します。
+
+行の開始時に4つのスペースまたはタブスペースを挿入して、サブリストを作成します。
+
+```
+ - 最初の要素 - 2番目の要素     - 行の開始時に4つのスペースを挿入してサブリストを作成します。
+```
+
+または
+
+```
+ + 最初の要素 + 2番目の要素     + 行の開始時に4つのスペースを挿入してサブリストを作成します。
+```
+
+または
+
+```
+ * 最初の要素 * 2番目の要素     * 行の開始時に4つのスペースを挿入してサブリストを作成します。
+```
+
+すべてがこれになります:
+
+- 最初の要素
+- 2番目の要素
+  - 行の開始時に4つのスペースを挿入してサブリストを作成します。
+
+> \_\_注:\_\_順序なしリストが正しくフォーマットされるには、リストの上の行に空の改行が必要です。 _順序付きリスト_ 空行を上に置いた順序付きリストを開始し、数字、ピリオド、スペース（`1. `） 前の数字が何であるかは重要ではなく、数字の後にピリオドが続くことが重要です。 行の最初に4つのスペースまたはタブスペースを挿入してサブリストを作成します。
+
+```
+1. アイテム1
+2. アイテム2
+3. アイテム3
+    4. アイテム4
+```
+
+または
+
+```
+1. アイテム1
+1. アイテム2
+1. アイテム3
+    1. アイテム4
+```
+
+または
+
+```
+1. アイテム1
+10. アイテム2
+1. アイテム3
+    1000. アイテム4
+```
+
+すべてこのようになります：
+
+1. アイテム1
+2. アイテム2
+3. アイテム3
+   4. アイテム4
+
+> **注：** 順序付きリストが正しくフォーマットされるには、リストの上の行に空行が必要です。 開始する数字は番号付けが始まる場所に影響しません
+
+```
+23. 23
+1. 24
+1. 25
+    1. 26
+```
+
+このようになります：
+
+1. 23
+2. 24
+3. 25
+   4. 26
+   同じ投稿内の2番目のリストで番号をリセットして1から開始したい場合は、その間に空行または[区切り](#h_3a36cfbc61)を入れることができます。
+   [リストがフォーマットされないようにする](#h_2ec17c688b)には、独自の番号付けを使用できます：
+   リストの上の行に文字を配置します。 良い選択は`\\`です。消えるからです。
+
+```
+\23. 23
+24. 24
+25. 25
+    26. 26
+```
+
+ピリオド（`.`）の前にバックスラッシュ（`\\`）を付けます：
+
+```
+23\. 23
+24\. 24
+25\. 25
+    26\. 26
+```
+
+すべてこのようになります：
+
+23. 23
+24. 24
+25. 25
+26. 26
+
+### **区切り線**
+
+## 3つ以上のダッシュ`---`が独立した行に区切り線を作成します：
+
+### **チェックリスト**
+
+これらはトピックの説明でチェックできます。
+
+_必要なアクセス：_ トピックボードへの書き込みアクセス。
+
+```
+- [ ] 最初のアイテム
+- [x] 2番目のアイテム
+    - [ ] サブリストアイテム
+```
+
+このようになります：
+
+![](https://downloads.intercomcdn.com/i/o/771723650/68ecca535a3773ab421c8ee7/image.png?expires=1779991200&signature=d23a7a806497626ab4118fb6bb2fd6d2d7d924651c7b83e3b0f63dc59f6999da&req=cycmEct9m4RfFb4V1XW4gYbX9iNJlq8uvamOj0lm8O%2BSpB%2FOvxnFm%2BlJkvq2%0AR1uxxveWd8ZBGh4U6IBmZc0a%2FQ%3D%3D%0A)
+
+[ここ](https://support.catenda.com/en/articles/5036461-check-lists-within-issues)をクリックして、プロジェクトでチェックリストを使用する方法に関するクイックビデオを視聴してください。
+
+`- [ ]`または`- [x]`を書く場合、ボックスはコメント送信時または編集後の保存時にチェックなしおよびチェック状態のままです。
+
+_コメント内のチェックボックス_
+
+コメント内のチェックボックスはフォーマットを通じてのみチェックできます。
+
+コメント内のチェックボックスをクリックしてチェックすることはできません。
+
+_必要なアクセス -_ コメント作成者は、作成されたコメントの編集にアクセスできます
+
+### **表**
+
+説明内のテキストをテーブルで整理できます。
+
+```
+|            | Windows            ||             | |            | タイプ1   | タイプ2   | 合計   | |----------- | -------- | -------- | ----------- | | **価格**  | 500,-    | 400,-    |             | | **数量** | 10       | 4        |             | | **合計**    | 5 000,-  | 1 600,-  | **6 600,-** |
+```
+
+この結果になります
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p class="no-margin"></p>
+</td><td><p class="intercom-align-right no-margin">Windows</p></td><td><p class="no-margin">dows</p></td><td><p class="no-margin"></p>
+</td></tr><tr><td><p class="no-margin"></p>
+</td><td><p class="no-margin">タイプ1</p></td><td><p class="no-margin">タイプ2</p></td><td><p class="no-margin">合計</p></td></tr><tr><td><p class="no-margin"><b>価格</b></p></td><td><p class="no-margin">500,-</p></td><td><p class="no-margin">400,-</p></td><td><p class="no-margin"></p>
+</td></tr><tr><td><p class="no-margin"><b>数量</b></p></td><td><p class="no-margin">10</p></td><td><p class="no-margin">4</p></td><td><p class="no-margin"></p>
+</td></tr><tr><td><p class="no-margin"><b>合計</b></p></td><td><p class="no-margin">5 000,-</p></td><td><p class="no-margin">1 600,-</p></td><td><p class="no-margin"><b>6 600,-</b></p></td></tr></tbody></table></div>
+
+### **コードブロック**
+
+次のようにコードの単一行を挿入できます：
+
+2つの`\``がテキストを囲むと、次のようになります：
+
+![](https://downloads.intercomcdn.com/i/o/771793825/fd17ce2b39f52f9d01f04e3c/image.png?expires=1779991200&signature=25e222958c350bf2b7205a8ff753aeb9905b00d38e3fe2bebfe3e7b253f7e372&req=cycmEcB9lYNaFb4V1XW4ga945tc2cSgx7AwGMqNa4RYE5ngLVI0srv3KI1sb%0Anc%2B9snPi07Ah5Cq4T7IsDwcf4Q%3D%3D%0A)
+
+3つのバッククォート`\`\`\``がテキストの上下にあると、次のようになります：
+
+![](https://downloads.intercomcdn.com/i/o/771797280/ee27c00beca127bdbb17fe31/image.png?expires=1779991200&signature=8a5803984027930c02cf74d937068874ce0e3c42486dd1b44471fd8d8c5c8e21&req=cycmEcB5n4lfFb4V1XW4gRbAB%2FlKj74sF5Ju%2Bfd8vDzdBPr6Lkw5CuUdhrZR%0AkT1tBG%2Fu8ZVbYmzQ96APqjkT5g%3D%3D%0A)
+
+コードブロック内にテーブルを追加することはできません
+
+### **マークダウン方言**
+
+コメントと説明でテキストがどのようにフォーマットされるかについて詳しく知りたい場合は、マークダウン方言「flexmark」を使用してこのテキストをフォーマットしています。
+
+[Flexmarkについてもっと知る](https://github.com/vsch/flexmark-java)。
+
+## **@ メンバーとチームを言及する**
+
+`@`ツールをクリックするか、説明またはコメント内に`@`を書いて、メンバーを言及します。
+
+`@`を入力すると、メンバーとチームのドロップダウンリストが表示されます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2102724602/dfd63733158f932a304596decf84/image.png?expires=1779991200&signature=266a7840bf95b8b253ec385b2f655a8f49bdec2f03f681715a2184b5321bc158&req=diEnFM58mYdfW%2FMW3nq%2BgQgVJSLkSxRSadTEPadiZdNpnB391hNKmHZ5LqXx%0AJCj3xsiGglM4P1a7sLfHtZH61EM%3D%0A)
+
+メールアドレス、メンバー名、またはチーム名を入力してリストを検索します。
+
+矢印キーでリストを上下に移動し、クリックするか、Enterキーを押してメンバーまたはチームを選択します。
+
+メンバーまたはチームがこのリストに表示されるには、メンバーまたはチームが少なくともトピックボードへの読み取りアクセス権を持っている必要があります。
+
+リストでメンバーまたはチームを選択した後、`@`は次のようなテキストを取得します：
+
+`@[\<email address of member>]`または`@[\<Team name>]`
+
+### **トピックの言及を保存または送信する**
+
+説明が保存されるか、コメントが送信されると、トピックボードへのアクセス権を持つ関連メンバーが通知を受け取ります。
+
+メンバーのメールアドレスまたはチームの名前が既知の場合、手動で書くこともできますが、トピックボードの一部でない場合、関連メンバーは彼らが言及されていることを通知されません。
+
+_メンバー言及時の通知_
+
+トピックボードへのアクセス権を持ち、言及されているメンバーは、トピックで言及されていることを通知します。
+
+_チーム言及時の通知_
+
+トピックボードへのアクセス権を持ち、言及されているチームの一部であるメンバーは、彼らが属するチームが言及されていることを通知します。
+
+_将来のトピックイベントについての通知_
+
+トピック説明とコメント内で言及されているチームのメンバーは、保存された説明または送信されたコメントで1つの通知のみを受け取ります。
+
+言及されていることの通知に加えて、投稿で言及されているメンバーは、自動的に[フォロー](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e)に設定されます。トピックは新しいコメントとステータス変更などのトピックイベントについて通知を受け取ります。
+
+これは、[担当者](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9)と[リクエスト者](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7)だけでなく、トピックの将来の変更について通知を受け取るようにするための優れた方法です。
+
+メンバーがトピックのフォローを希望しなくなった場合、手動でフォロー解除する必要があります。
+
+### **投稿での言及**
+
+投稿での言及は、緑色のテキスト色を持つことで識別できます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2102770866/23a219c6303ae2c3ea3167ea8839/image.png?expires=1779991200&signature=dc54372f275beb9d6b9f58eef6364046025ccb05f18518fc1e8b56576f8e78ec&req=diEnFM55nYlZX%2FMW3nq%2Bgc6BCXnvU1Bkq3F79VNCulbUfUkNi0%2FhK1QXHGmC%0AYCoFipDW17p1vsYnR4usRrYZ%2FUo%3D%0A)
+
+バックグラウンドでは、言及されたプロジェクト参加者の一意のIDが保存されます。
+
+この緑色のテキストに表示されるのは参加者の名前です。
+
+メンバーまたはチームが名前を変更しても、投稿で言及されたままですが、新しい名前です。
+
+言及されているメンバーには、そのメンバーの[メンバーページ](https://support.catenda.com/en/articles/8228836-member-page)に向かうクリック可能なリンクがあります。
+
+言及されているチームには、そのチームの[チームページ](https://support.catenda.com/en/articles/7891755-team-page)に向かうクリック可能なリンクがあります。
+
+_存在しないメンバー_
+
+言及されているメールアドレスを持つプロジェクト内のメンバーがない場合、投稿は代わりに次のようになります：
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2102805445/b2e3443410ea96885a2d85676dee/image.png?expires=1779991200&signature=d64e4fdacb46dba5067b67f2b53dcb3371157a4c792de007bdcd5790b6455038&req=diEnFMF%2BmIVbXPMW3nq%2BgV2%2BX4QvdVlKUmPY0wchlEm3gW%2FQgNf9nrFfqLi1%0ASRk1H9bn2Dppn%2B4cO%2F3q%2Bp1QwFE%3D%0A)
+
+これは、メールが間違ってフォーマットされているか、メンバーがプロジェクトの一部ではなくなったことが原因である可能性があります。
+
+このメールアドレスを持つメンバーが将来プロジェクトの一部になる場合、投稿はそのメンバーの名前を表示するように変更されます。
+
+_存在しないチーム_
+
+チームがプロジェクトから削除され、新しいチームが作成された場合、この新しいチームは言及されません。
+
+新しいチームを言及するには、投稿を再提出する必要があります。
+
+## **# タグ付きトピック**
+
+`#`ツールをクリックするか、説明またはコメント内に`#`を書いてトピックをタグ付けします。
+
+`#`を入力すると、すべてのトピックボードからのトピックのドロップダウンリストが表示されます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2102803413/752177c9a293de34a6bd9c7c4d36/image.png?expires=1779991200&signature=2e3d8eaa05e4d86071987625f7277fe7bd34ade7ba287ffe84d17863c5b1e2fd&req=diEnFMF%2BnoVeWvMW3nq%2BgQslLQuJRz%2F96TrjXxebVMDqy6wbx57JHhESfLh5%0Aq4PCAx7ujDa%2BJIEGQaJVDZ%2BZpiU%3D%0A)
+
+タイトルまたはトピック番号を入力してリストを検索します。
+
+矢印キーでリストを上下に移動し、クリックするか、Enterキーを押してトピックを選択します。
+
+トピックがこのリストに表示されるには、タグ付けするメンバーが、トピックがあるボードにアクセスできる必要があります。
+
+リストでトピックを選択した後、`#`は次のようなテキストを取得します：
+
+`#[\<topic number>]`
+
+### **タグ付きトピックを保存または送信する**
+
+説明が保存されるか、コメントが送信されると、トピック関係が作成されます。
+
+リンクされたトピックは、トピックの[右側のメニュー](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue)の[リンクされたトピック](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8)のリストに追加されます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2103668127/63b222278014acedd5e109eaa00f/image.png?expires=1779991200&signature=2149815ea61b5a424e16434a30602bf0ad7bdfac5716a9be69b7fc5329c0ca7c&req=diEnFc94lYBdXvMW3nq%2BgUcCxcZ9fv6bg1pEo4juADZYfI3MQkCannAOnEBB%0AleI3JRHXDIbKQfJ1rhkXj6yPxJo%3D%0A)
+
+別のトピックがタグ付けされたトピックに加えて、タグ付けされたトピック自体が、それが追加された[右側のメニュー](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue)の[リンクされたトピック](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8)のリストにトピックへのリンクを受け取ります。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2103660685/9068edb07ddc704d58d821a0aa4c/image.png?expires=1779991200&signature=b3cb88b489a1e13e91119acb5a1e65869e6137d08aa613a34673a44e9d6145d3&req=diEnFc94nYdXXPMW3nq%2BgZtQFZ6%2FadIHexDqOuXukfxVutzxFMdv4Csh2%2BBJ%0AJ4PgbRdgBEqA%2F0O6%2Bv%2FB4%2BrLgiA%3D%3D%0A)
+
+トピックリンクは、説明にタグ付きトピックがあるトピックから、またはタグ付けされたトピックから、各トピックにアクセスして[右側のメニュー](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue)の[リンクされたトピック](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8)のリストを編集することで、後で削除できます。
+
+### **投稿でのタグ付きトピック**
+
+タグ付きトピックは、最初にそのステータスの名前とともにタグ付きトピックの現在のステータスの色の円を持つことで識別できます。
+
+その後、トピックタイトルが表示され、その後にトピック番号が続きます。
+
+チェックボックスとともに、閉じられたタグ付きトピックは上部に表示されるプログレスバーのプログレスに向かってカウントされ、開いているタグ付きトピックはプログレスがカウントされる総アイテムに向かってカウントされます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2103628989/5fbf0cd8c9301753582aea8950e9/image.png?expires=1779991200&signature=ca04d06ea11db334d5d09d8015a562933dff76c96ee77f0067fcc66830a84137&req=diEnFc98lYhXUPMW3nq%2BgW6UTt%2FkO1pC00sooBVCn30sIjAm6dD8c3fkOEkR%0ArVc8ifPy8Jud7vIGWaSPdO6o7iY%3D%0A)
+
+タグ付きトピックには、タグ付きトピックをそのトピックボードで開くクリック可能なリンクがあります。
+
+# 新しいステータスのワークフロー - ISO 19650
+
+新しいステータスのワークフローはオンデマンド機能で、進行中のプロジェクトに対して有効にするようリクエストできます。
+
+この機能が有効になっているテンプレート・プロジェクトに基づいて作成された新規プロジェクトでは、この機能が有効になっています。
+
+ISO 19650 シリーズは、グッドプラクティスの国際規格である。
+
+ISO 19650 シリーズは、建設業界におけるデジタルトランスフォーメーションをより広範な文脈でとらえ、情報管理プロセスを定義した国際的なグッドプラクティス規格である。
+
+建設業界の多くのステークホルダーが、プロジェクトにおける文書の受け渡しと承認プロセスを管理するための標準として、ISO-19650を採用している。
+
+この記事には、以下のトピックに関する情報が含まれています：
+
+**[ライフサイクル](#h_df11c20404)-[設定](#h_4c1abfc510)-[ドキュメントタブ](#h_bfed4daf2c)-[承認設定](#h_058046c316)-[承認ワークフロー](#h_01c3894c62)-[無効化](#h_facc7dcaf1)-[メリット](#h_8a5dec6f25)**
+
+## ドキュメントのライフサイクル
+
+ISO規格によると、ドキュメントは4つの異なる状態を持つことができます；
+
+### 作業中 (WiP)
+
+ユーザーのローカル環境で作業され、常に上書きされるファイル。これらのファイルは一般的にcatendaにのみアップロードされ、ユーザーの進捗状況を見ることができる。
+
+### 共有
+
+様々なトレードやスペシャリストの調整と最終レビューを行うために、他のプロジェクトメンバーと共有する準備ができたファイル。これらのファイルはキャテンダにアップロードされ、各関係者に送信され、レビューと承認を受けます。
+
+### 発行
+
+契約上の成果物として調整され、最終的に承認されたファイル。これらのファイルは、レビュープロセスを経て、「次のステージ（建設、引渡し、積算、許可発行など）の準備ができた」とみなされます。
+
+### アーカイブ済み
+
+情報は使用済みであり、その後必要な場合（監査、実施された作業のファイルの作成など）に利用できるようにアーカイブすることができる。
+
+### ドキュメントステータス - ISO 19650
+
+![](https://catenda-9ff08d2b7616.intercom-attachments-7.com/i/o/1125547634/531f10f76e13b003ed4fa274/AD_4nXdxhgqhSMUAx3mvWCp_YY0Reke_AusmPHugivHaunwEyvVFnaC5Qs_xDThI3kiGPWYw6psdrUzS2Xa7U4k-HqQGc1ALlZpZyVTpzUivHHj4fvjLWAy_yq7cIvFkz20WsBfLvGcIqQUafYgdYxnVl6hQDpsV?expires=1781092800&signature=0fa596cdd86b42968d07122412a29df9e579100b0e4029565fbb1aaf5d07df7c&req=dSElE8x6modcXfMW3nq%2BgcVe%2BzGL%2Bh7HCiLZutgLTa8ozQ2SFy2kx6jTPKFn%0AYVbu%2Fylfjm3I7jS2xDb83hc1tRw%3D%0A)
+
+### Catenda Hubのワークフロー
+
+![](https://catenda-9ff08d2b7616.intercom-attachments-7.com/i/o/1178680856/0aa1a0415a8cf8f6215d5e88/AD_4nXc-sz_yq5zZbwOV4LCV4zitdSXG7nBIg4EFbjXAXjAINfj0aDYDH27PINzlD-2NnwvpyM2H0mc28NMqEoaURHouvFXQGTdiWnr56HSyfTZGgs98NZVETiEfakzwcWQsQdMq7MIXGppFOe9rF4KaYscZB-U_?expires=1781092800&signature=e6daff4776145ef4254b847b786faaff9a2640842b164a5980e081388060766b&req=dSEgHs92nYlaX%2FMW3nq%2BgdfQZC8nYJYdXMbLLeiiSBFyDws1eQUosONNI9zw%0A6jQIiBS6vtbHgpWuQjE9zzdvWkE%3D%0A)
+
+## ステータスワークフローの設定
+
+共有ステータスワークフローの有効化と設定は、プロジェクト管理者のみ設定が可能です。 _必要なアクセス_
+
+[プロジェクト設定ページの](https://support.catenda.com/en/articles/4670273-project-settings-page) [アクセスコントロールエリアに](https://support.catenda.com/en/articles/4670273-project-settings-page#h_3b98ced32a)あるドキュメントステータス設定アクセス権。
+
+このアクセス権を持つメンバーは、ドキュメント設定のステータス設定メニューにのみアクセスできます。
+
+ドキュメント設定の他のメニューを見たり変更したりすることはできません。
+
+[ドキュメント設定の](https://support.catenda.com/en/articles/7831371-document-settings)「[ステータスワークフロー](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff)」を開き、共有ステータスを有効にします。
+
+![](https://downloads.intercomcdn.com/i/o/1178797115/8f4c7d83c220e1a8fe3528b2/image.png?expires=1781092800&signature=14a7e338baf9119a8b2209541cf08076e04864d5c71047025a7ece8914ee5313&req=dSEgHs53moBeXPMW3nq%2Bgf5xkZWPxPTjOEqSMsnokvN63PTnVEnAWMOWrcAy%0AiX9F0ODa5gjnq3GZY%2FNIt5svJ2s%3D%0A)
+
+プロジェクトで使用する共有ステータスと公開ステータスを定義します。
+
+![](https://downloads.intercomcdn.com/i/o/1178802846/1302b0cd9163957bcfc9426d/image.png?expires=1781092800&signature=8ba097f2269684ac5b7c25a00a52dd924bb587c4b72db3e01e4911e3b84f2b6b&req=dSEgHsF%2Bn4lbX%2FMW3nq%2Bge%2FsFVcwAuYrCcfyzUUEfuoc4thu%2FCmpHxO99z%2B6%0AJ9cGBR9L99XqOxcqmQwo%2FKyA0%2F8%3D%0A)
+
+新しいリビジョンのデフォルトの共有ステータスを設定します。
+
+新しいリビジョンは、最初に共有リビジョンとしてアップロードされ、その後公開されます。
+
+そのため、デフォルトのステータスは共有リビジョン・ステータスでなければなりません。
+
+このステータスは、ドキュメントのアップロードごとにアップロードダイアログで選択され、アップロード処理で別の共有ステータスに変更できます。
+
+![](https://downloads.intercomcdn.com/i/o/1178803801/1747b7b8c7d76f3dddbbfe88/image.png?expires=1781092800&signature=e799c7e6ff3facf036b3bc0b95b77a2499257a73273d5e9a8636ea7de9981a68&req=dSEgHsF%2BnolfWPMW3nq%2BgdaXG6x1PMxGkb8PvocbWQ8iVKGQavbXWek5XHyG%0AJozdIomWpNe7xP2s3B0Skh8GVtc%3D%0A)
+
+## アップデートの変更点
+
+ステータスのワークフローを有効にすると、ドキュメントとモデルのテーブルの上に2つのタブが表示されます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1766865252/40243a153c870e1be8b15f25e45e/image.png?expires=1781092800&signature=c7d6eb5426de35f15f517d839ca491542da5acf8f4930ee8b2557bfa43ceb265&req=dSchEMF4mINaW%2FMW3nq%2BgfLC%2B%2BgRpjcgD3JyBbLcVcMIz1R4Br21AGnYB9NG%0AOSurun6jEdtLUtQfd9mZy7fgVgE%3D%0A)
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1766865158/05cfb43e7d7dc72d26afc6b4daf9/image.png?expires=1781092800&signature=911532a2a11a31c3e56d2eca3075b627448233094cf0fab75c0116056caf6be0&req=dSchEMF4mIBaUfMW3nq%2BgUDcdpxJiYiVOiP7mGjPJsFHAuVw%2BVsLL8NK9X2s%0AUv7cHP2o7w%2Bb9JNdpdM84O0E9nM%3D%0A)
+
+### ワークスペース
+
+新しいリビジョンのアップロードはすべてここで行われます。
+
+最新の共有リビジョンは、各ドキュメントとモデルに対して表示されます。
+
+### 公開
+
+ワークスペース タブのミラー版です。
+
+ワークスペースと同じフォルダ構造が表示されます。
+
+公開リビジョンを持つドキュメントとモデルのみが表示されます。
+
+> **Note:** **注:**ドキュメントを公開タブから開いた場合でも、ドキュメント プレビューのリビジョン概要に共有リビジョンが表示されます。 _アクセスが必要です：_共有リビジョン
+
+### 新しい共有リビジョンをアップロードする
+
+アップロード ダイアログで、アップロードされた各ファイルにリビジョン ステータスが表示されます。
+
+![](https://downloads.intercomcdn.com/i/o/1178813626/b700d6f0f545826c6c94be54/image.png?expires=1781092800&signature=eef60b7d24f9b9f88c69725d99c1f2d8b3476f1cffbb2ffea91324ad7b6dcc04&req=dSEgHsF%2FnoddX%2FMW3nq%2BgaVPz8JiE%2BqSXKDYmlMzR0BgtKLOHM2dmmEArf%2F0%0A2BYRvokNO2dtY5sk%2BtFAvslFUQY%3D%0A)
+
+リビジョンステータスは、zip ファイルから展開された各ファイルに適用されます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1458168055/48816b34365d0f04294cb42d46b4/image.png?expires=1781092800&signature=525acd1c13cf3a92d4d44858e865d0d9a67156ea4c4c9830ee96a2ca2c510f5f&req=dSQiHsh4lYFaXPMW3nq%2BgRW3tYLhoHMBvNhsyqNXGJjLPUWfzkCFVwgiLvx2%0APeV%2FRnHeqpmsTrazHvQxtppZkT4%3D%0A)
+
+### 共有リビジョンの公開
+
+**文書構造内の複数の文書**
+
+共有リビジョンを持つ1つ以上の選択された文書の既存の要素アクションメニューで、公開アクションが利用できるようになります。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1458182311/d58a4d27a905520512a4ba020bab/image.png?expires=1781092800&signature=1ea42ac8b7ab7bf9b3766d7b1d41cf7cf1d196ffcbfa9d2e27c668797093bf07&req=dSQiHsh2n4JeWPMW3nq%2BgT7R4rxIvgwDHO3Ppd2rsycHn6Lr6MSJyGFKFyLs%0AKgJkP3qAxBxVz88tGW68cETiKDg%3D%0A)
+
+**文書プレビューまたは文書構造内の単一リビジョン**
+
+公開アクションは、右側の情報メニューの共有リビジョンのリビジョン情報のアクションメニューで、アイコンとして利用できるようになります。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1458210031/49812d1e243be9c0fc5038cebbca/image.png?expires=1781092800&signature=e10883c341626594a3fb081e86c177d94c4333572e760c29f83a71873e7ee449&req=dSQiHst%2FnYFcWPMW3nq%2BgXvSSUXa8TOnQtxfr5Xif2yMHE%2BD9T7Ig%2BOZeq2N%0AtaCQ99V31falGHaEREFJd8u0Rmg%3D%0A)
+
+**複数のモデル**
+
+公開アクションは、文書構造および文書プレビューの右の情報メニューにある、共有リビジョンを持つ文書のリビジョン情報で利用できるようになります。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1458192306/1b0defefb761561a88cc728984b1/image.png?expires=1781092800&signature=76e62637c32b890786e0dc040c04d5f8b020d82b487ab6b0d3d19c8bee2a4da1&req=dSQiHsh3n4JfX%2FMW3nq%2BgV7BfT0huNnp6v5Ml2aJWhV4%2FbfIPvjCPDWj75xM%0An3S7a8cqe1s9z6umt0EuWxPIo3s%3D%0A)
+
+_アクセスが必要です：_ 共有リビジョン
+
+### アクセス制御
+
+ステータスワークフローが有効になると、フォルダや文書のアクセス制御ダイアログのアクセス列の右側に、2つの新しい列が表示されます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1463073770/0447981f1153d6ed33cb9d55ae13/image.png?expires=1781092800&signature=a3f52258394b9db1e21dda916b904116036b4dc5e02bc3735d577497df612dcf&req=dSQhFcl5noZYWfMW3nq%2BgSDbWRrYyPjhvW50JXY%2FpdLzjJw3SXEcQpjL6FTw%0ANoZFTc2DZbNrHW1O%2BUuIDRkx1yo%3D%0A)
+
+以下の表は、チェックマークが各アクセスレベルのユーザーエクスペリエンスにどのように影響するかを説明しています。
+
+- 書き込みアクセス権を持つメンバーまたはチームに対して、共有リビジョンの公開と公開リビジョン ステータスの編集を許可するために、「公開できる」にチェックを入れます。
+- 共有リビジョンを表示する」のチェックを外すと、読み取りアクセス権を持つメンバーやチームは、正式な公開リビジョンのみを表示できるようになります。
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><h1 id="h_1689c1f6d8">共有公開アクセス</h1></td><td><p><br/>​</p><p></p><h3 class="intercom-align-center" id="h_335421fd97">読む</h3></td><td><p><br/>​</p><p></p><h3 class="intercom-align-center" id="h_5aa516d4db">閲覧</h3></td></tr><tr><td><h3 id="h_a33339c27e">チェックできる "共有リビジョンを見る"</h3></td><td><p class="intercom-align-center">チェックできます。デフォルトではチェックなし。</p></td><td><p class="intercom-align-center">常にチェック</p></td></tr><tr><td><h3 id="h_e909b5dc48">チェックする "公開できる"</h3></td><td><p class="intercom-align-center">チェックしない</p></td><td><p class="intercom-align-center">チェックを外すことができるデフォルト</p></td></tr><tr><td><h3 id="h_95374b8adf">ドキュメントの表示</h3></td><td><p class="intercom-align-center">共有リビジョンのみを含む文書は、「共有リビジョンを表示する」にチェックが入っている場合のみ表示されます。</p></td><td><p class="intercom-align-center">共有リビジョンの文書と公開リビジョンの文書の両方が表示される</p></td></tr><tr><td><h3 id="h_e401f7a37f">共有リビジョンをドキュメント情報で表示する</h3></td><td><p class="intercom-align-center">共有リビジョンは、「共有リビジョンを表示」がチェックされている場合のみ表示されます。</p></td><td><p class="intercom-align-center">共有リビジョンと公開リビジョンの両方が表示されます。</p></td></tr><tr><td><h3 id="h_13cbc969df">共有リビジョンのステータスの編集と表示</h3></td><td><p class="intercom-align-center">共有リビジョンを表示」がチェックされている場合に表示されるが、編集はできない</p></td><td><p class="intercom-align-center">x</p></td></tr><tr><td><h3 id="h_b228d7c432">公開リビジョンステータスの編集と表示</h3></td><td><p class="intercom-align-center">公開リビジョンのステータスのみ表示可能</p></td><td><p class="intercom-align-center">公開できる」にチェックが入っていれば編集可能、そうでなければ閲覧のみ可能</p></td></tr><tr><td><h3 id="h_13248acfd2">ドキュメントの公開</h3></td><td><p class="intercom-align-center">-</p></td><td><p class="intercom-align-center">公開できる」にチェックが入っていれば公開できる</p></td></tr></tbody></table></div>
+
+### メジャーリビジョン番号とマイナーリビジョン番号
+
+共有リビジョンには、マイナーリビジョン番号が付きます（#0.1、#2.3、#4.1など）。
+
+公開されたリビジョンにはメジャーリビジョン番号が付きます（#1、#2、#3など）。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1211309185/49686b385e2f6a493e13f3aabe6b/image.png?expires=1781092800&signature=5a09d59eaeac13e4e484a0d3e6279d6c12cf4e6a61b6369673531156070bd077&req=dSImF8p%2BlIBXXPMW3nq%2Bgbf%2BES0e9Dj461WeGfPK1FWJ2vo6MPwNNyjqYmt6%0A5dxmUX8y56A5qLmi4vqMjfkbGUk%3D%0A)
+
+### ドキュメントのプレビューを開く
+
+ドキュメントの構造では、あなたがアクセスできる最新のリビジョンが表示されます。
+
+表示されているリビジョンのドキュメントプレビューを開くには、ドキュメント名をクリックしてください。
+
+**ワークスペース タブ**
+
+ワークスペース] タブの最新リビジョンには、次のものがあります：
+
+共有リビジョン -_アクセス権が必要です：_共有リビジョン - アクセス必須: 共有リビジョン 公開リビジョン -_アクセス権が必要です：_閲覧
+
+**公開タブ**
+
+公開されたタブの最新リビジョンを指定できます：
+
+公開リビジョン -_アクセスが必要です：_要アクセス：読み取り
+
+> **Note:** **注：**共有リビジョンは、公開タブから文書を開いた場合でも、文書プレビューのリビジョン概要に表示できます。 _アクセス権が必要です：_共有リビジョン
+
+![](https://downloads.intercomcdn.com/i/o/1178825201/afe0228a33f10610c791af57/image.png?expires=1781092800&signature=7e64dadbb5adcc5228d04c8eb8e61034ce3f449c75cbb98e1f3030895ff381a8&req=dSEgHsF8mINfWPMW3nq%2BgVEMHZwrInPrEBw7XsaSZ10L8o%2FlrmgzxDd3Y%2BEd%0AfDLrO9ZLzp6XU95uZ%2BykGZmdwyA%3D%0A)
+
+### リビジョン情報
+
+1つの文書を選択するか、文書をクリックして文書プレビューを開きます。
+
+現在のリビジョンに関する情報が、[右側の情報メニューに](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision)表示されます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1208325230/a69cd3dc7b192806885d25ea59a8/image.png?expires=1781092800&signature=d0bb215e4281e111e5762d9820e60b94c9743dd6c8b7c11d42279676e8140813&req=dSInHsp8mINcWfMW3nq%2BgRfWyEfYxHzmMFbBU0EmK2FN%2F6wLMDw9bbGDpjxH%0APqOrpMc0nLlsZi%2FCuDFQn9wblPI%3D%0A)
+
+- 発行アクションで現在のリビジョンを発行します。
+
+_アクセスが必要です：_ 共有リビジョン
+
+- 共有リビジョンのステータスを別の共有リビジョンのステータスに変更します。
+
+_アクセス権が必要です：_ 読み取りアクセスおよび共有リビジョン
+
+- 公開リビジョンのステータスを別の公開リビジョンのステータスに変更します。
+
+_アクセス権が必要です：_ 書き込みアクセスと公開リビジョン
+
+**リビジョン情報ダイアログ**
+
+リビジョン[情報](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision#h_6838c6ad71)ダイアログで文書内のすべてのリビジョンの概要を表示するには、リビジョンボックスをクリックしてください。
+
+公開リビジョンと共有リビジョン間の緑色のリンクは、どの共有リビジョンが公開されたかを示します。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1208322023/8b79e66b02a67d950bb54d33c1aa/image.png?expires=1781092800&signature=d1ac5ca86ed243a0c6b58515ed9a4aec47dff2591e0d971816e3dd0857c6a04d&req=dSInHsp8n4FdWvMW3nq%2BgZjvSDSuFOoja3Qs11%2BNqTI8cg50Atj40px8T1f8%0A86dioGDi7K3lFmXkKfsyGBUWj8I%3D%0A)
+
+### Catenda サイトでの共有リビジョンと公開リビジョン
+
+カテンダサイトでは、公開されたリビジョンのみが表示されます。
+
+## ステータス構成へのアクセス
+
+1. ドキュメントステータス設定への編集アクセスは、[プロジェクト設定](https://support.catenda.com/en/articles/4670273-project-settings-page)ページから設定できます：
+
+    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/areracg3/1211347568/082eb05dc3b18bf896b0aa148431/image.png?expires=1781092800&amp;signature=d7f11d11f4522d76f1afc39c4fa3c1abcf07d65ea6866337afc4f9aec43ea4a9&amp;req=dSImF8p6moRZUfMW3nq%2BgWPlnxx3jrC6fMrF99grkWaNrp00TWDQdpt0O4gd%0AVlMGdQrCecjFzy0uRBOfB7Z9eqY%3D%0A"/></div>
+
+1. ドキュメントのステータスは、ドキュメントセクションの設定から[設定する](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff)ことができます：
+
+    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/areracg3/1211364420/5d6103d8c487ef0b43f8275be5e3/image.png?expires=1781092800&amp;signature=284c9ac52ff4057d8c2333ea2f752321f7ac99e4db9fe32cf5b00a50a2ab7aa1&amp;req=dSImF8p4mYVdWfMW3nq%2BgSPBqKtQx3mDN2RUxAGHVK4Zm%2BCeuCGeKk2Kpqj6%0Ao7QTpegJSCq1qQ64o2dJOULG6GY%3D%0A"/></div>
+
+1. 最後に、これらのドキュメントステータスは、[承認セクションの](https://support.catenda.com/en/articles/8349340-approvals-page)右上の3つの点のボタンからアクセスできるファイルレビューステータスに割り当てることができます。また、ここでトピックテンプレートを設定することも可能です。
+
+    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/areracg3/1211362235/ff7ea475a572749cba4247518058/image.png?expires=1781092800&amp;signature=ed641b32ce2b29ed26475385e36b8015832ce0fcc27dc7dd50942cd3942ef84f&amp;req=dSImF8p4n4NcXPMW3nq%2Bgcv5xnTzfFrfmLPu%2Fh%2FbaP0DptD%2Bm8oeC8vRpvPF%0AzFKQmL79JK7RcPLygqoKQ0CoqM4%3D%0A"/></div><div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/areracg3/1211362345/59c0a70c13879eacc2b08c0db623/image.png?expires=1781092800&amp;signature=9c4b2b7d82aee40c7c1baccfdf0c17735a34889d51b5680e5824f7502d8f4289&amp;req=dSImF8p4n4JbXPMW3nq%2BgQL5wc3pBXVaAiE%2FNNg7wwK7Y9rNWq0G7M1E0M6c%0AgGNJ2NG26plHpZW4oC7Y%2F2YpO2M%3D%0A"/></div>
+
+## 承認ワークフロー
+
+1. 承認リクエストは、発行者（出版物に関する最終決定を行う担当者）、および一連の文書を検証する（または検証しない）1人または複数のレビュアーを指名します。
+1. 各レビューアは、共有された文書を承認するか、コメント付きで承認するか、却下するかを決定します。
+1. レビューの最後に、発行者は公開するドキュメントを選択することで、承認の結果を選択します。
+1. 承認設定から、後でプロセスを追跡するために、ドキュメントに関連するトピックを作成できます。
+
+これらのステップの詳細なデモは、次のチュートリアルに示されています：
+
+[YouTube ビデオ](https://www.youtube.com/embed/lDWKXWTtegU?rel=0)
+
+## ステータスワークフローの無効化
+
+ステータスワークフローのフローをオフにしたい場合は、[ドキュメント設定の](https://support.catenda.com/en/articles/7831371-document-settings)ラジオボタンをクリックしてください。 ドキュメントセクションの公開・共有タブが消えます。
+
+ステータスワークフローが有効になっていない状態でアップロードされたドキュメントは、公開済みとしてアップロードされ、ステータスワークフローが有効になると公開済みタブに表示されます。
+
+## ステータス・ワークフローを使用する利点
+
+- 公開タブは、契約文書の指定エリアとして機能する。プロジェクトメンバーは、検証済みのドキュメントを簡単に見つけることができます。
+- 文書は公開前に検証されます。
+- ISO 19650 に基づく納品プロセスをより簡単に設定できます。
+- 調整/共同作業文書は契約文書から分離されます。
+- 複数の共有リビジョンを選択してダウンロードすることができます（旧バージョンでは、ドラフトは1つずつしかダウンロードできませんでした）。
+- モバイルアプリCatenda Siteで閲覧できる内容を制限することができます。
+
+# Catenda Hubのポイントクラウド
+
+> Catenda Hubでレーザースキャンとライダー技術の利点を活用する方法を学びましょう。
+
+> **注:** サンプルファイルを[ここから](https://drive.google.com/file/d/1G8U916oihDl5qHrTfQaVHxDeLsbq1ulG/view?usp=sharing)ダウンロードしてください。 ポイントクラウドデータセット(PC)をCatenda Hub内で視覚化できます 個別のPCをドキュメント領域内でプレビューできます。 複数のPCを[3Dビューア](https://support.catenda.com/en/articles/8227211-3d-viewer)に読み込むことができます。 3Dビューアでは、PCをIFCモデルやGMLファイルなどの他の3Dドキュメント形式と一緒に表示できます。 この記事には以下のトピックに関する情報が含まれています: _[ドキュメントプレビュー](#h_bb5e5b9840) - [3Dビューアプレビュー](#h_076189f481) - [3Dビューア設定](#h_9c02ade6a6)_ データを表示するためのさまざまな設定を以下に示します:
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p class="no-margin">適応型 - スパース - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609416415/d63b03e835b7de05a34bc464a67c/image.png?expires=1779991200&amp;signature=bb5f495209f2f06bdc3de410d4d7e1c422d3d8ea9034524db714f9077f73c45d&amp;req=dSYnH81%2Fm4VeXPMW3nq%2BgQpCsmyZG1KSFFVbUYNJ2UiYdd3J7TGDppb8CTJW%0Aa1wWWTAtvyWfrJEfDrlcNFHoTrU%3D%0A" style="height: auto;" width="3839"/></div></td><td><p class="no-margin">適応型 - 高密度 - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609416931/9c357c3e7bd94ba44368bf2e0476/image.png?expires=1779991200&amp;signature=85b6343cd7f91e12a9dc3356debe39dfdeac86db7f2b5c7794fca75e721585ae&amp;req=dSYnH81%2Fm4hcWPMW3nq%2BgdwfTofqQ7RvylQ%2FH6UFuY67uWWyGoYVG%2FSNG%2FvW%0AeXpHm2lN07PYjclbv0fHJIa1%2BZ8%3D%0A" style="height: auto;" width="3839"/></div></td></tr><tr><td><p class="no-margin">固定 - 高密度 - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609415523/d5626faba40b5c3551361c832b5b/image.png?expires=1779991200&amp;signature=adeb85b52cd8280463402acd243b7a6e1a811fae38a7f61f3e9aaa83cc90ee30&amp;req=dSYnH81%2FmIRdWvMW3nq%2BgYHi7%2FbQTl49HAjgtDsdSFh6QfdbdKda7GA55QfR%0AY65xOQbKB50egoMF75QUYo9dG0g%3D%0A" style="height: auto;" width="3834"/></div></td><td><p class="no-margin">固定 - スパース - 強度</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609415755/5d2aac51f6caea382c5d762b2dae/image.png?expires=1779991200&amp;signature=90c35496c076f66c2ff4cf8d42c759c0caaf01082168a2f7933e606aadc1d7ff&amp;req=dSYnH81%2FmIZaXPMW3nq%2BgUep5M5qKq9J8fpRvp8MeVoccLBBRVRiajRONyGy%0A8DqsOdPDMVir8z8%2Fzh6OjjIL57s%3D%0A" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
+
+## **ドキュメントセクションプレビュー**
+
+次の2つのファイル形式のPCデータはCatendaでプレビューできます。
+
+- `\*.e57`
+- `\*.las`
+
+PCはドキュメントセクション内の他のドキュメントと同様にアップロードできます。
+
+これら2つのファイル形式では、最大25GBのファイルをドキュメントセクションにアップロードできます。
+
+複数のファイルをドキュメントセクションに読み込み、3Dビューアで一緒に表示できます。
+
+### **PCデータのアップロード**
+
+[Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)を使用するか、PCファイルを圧縮フォルダにして[zipインポート](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)を使用してPCをアップロードすることをお勧めします。
+
+これらの方法は、アップロードファイルサイズが小さくなり、ファイルがより速くアップロードされるため、ネットワークエラーのリスクを最小化するのに役立ちます。
+
+PCをドキュメントセクションにアップロードすると、ドキュメントプレビューの処理が開始されます。
+
+プレビューが処理されている間、ドキュメントプレビューの上部に灰色のバーが表示されます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609421389/8e3f5ca035ebe50fb83c034ddaab/image.png?expires=1779991200&signature=bb8ee3de6805462c7033ed7a21c7afe915b1e9f9be7485aaed67465a8e6f5111&req=dSYnH818nIJXUPMW3nq%2BgdqJu4eRld6dpYdfOUiFyseZZ%2B%2FU4uaAS%2FgMiPjc%0A54hxfMtyyoZMY7F%2BBX5OrgUE5TM%3D%0A)
+
+プレビューの処理時間はPCのサイズによって異なります。
+
+処理にはGB当たり1時間かかりますが、ポイントクラウドに応じてそれ以上またはそれ以下の場合があります。
+
+プレビューの処理が完了したら、ドキュメントをクリックしてドキュメントプレビューでPCを表示します:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609450891/70ce69784cedc730f37a34143f5c/image.png?expires=1779991200&signature=5b7dbb39946e2db64183d99b228cbffeea7b6236ac21ff91e565d6afb5a17bd9&req=dSYnH817nYlWWPMW3nq%2BgZjDFCu8k%2BqFmMj85V29ajp0dOPxv6on1BnnRR3a%0AhmdXl9cF4RVn02yDdXwAJFhR1FQ%3D%0A)
+
+### **共有PC revision**
+
+プロジェクトに対して[revision公開](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650)が有効になっている場合、ポイントクラウドは共有revisionとしてアップロードされます。
+
+共有PCのrevisionはドキュメントセクションでのみプレビューできます。
+
+PCを3Dビューアに読み込むには、revisionを公開する必要があります。
+
+個別の共有revisionは、ドキュメントプレビューの右メニューの公開アクションで公開できます。 複数の共有revisionは、ドキュメント構造内の選択された項目アクションで公開できます。
+
+revisionを公開すると、公開されたrevisionのプレビューの処理が開始されます。
+
+### **公開されたPC revision**
+
+公開されたPCrevisionのプレビューが処理された後、3Dボタンがドキュメントテーブルのビューアー列に表示されます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609421833/99aa8dc6542b0fa5fff525ee0096/image.png?expires=1779991200&signature=a405649349f8f629e3da97c4d615b03ee35f54d67fdbfdba0842e0b16ba36abe&req=dSYnH818nIlcWvMW3nq%2BgW4P%2BGZNpG4%2Fjw6CfuQveZcBKehIzCa31VmOLufe%0A%2F9%2B%2BAhqB5usT08rMNgslBIDu7mQ%3D%0A)
+
+3Dボタンは、ドキュメントの最新の公開されたrevisionを3Dビューアに読み込みます。
+
+PC、IFC、またはGMLドキュメントなどの3Dドキュメントを1つ以上選択した場合、ドキュメントテーブル内の選択された項目アクションメニューに3Dドキュメントアクションも表示されます。
+
+この方法で、複数の3Dドキュメントの最新のrevisionを一度に3Dビューアに読み込むことができます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609422276/427b34fa8a17a3256f7885283fb9/image.png?expires=1779991200&signature=e957465f7c8737a6a5876f01838693655da92d5576071e5001f4759777378344&req=dSYnH818n4NYX%2FMW3nq%2BgS5oxHbz%2BVjDB0MLdYU%2FAfBHw6EYiHVet%2B7UhYgM%0ADvaURkwVqPxDlkm2wGpTZuqsxsg%3D%0A)
+
+処理が完了した公開されたPCrevisionが少なくとも1つある場合、右上のアクションメニューで3Dアクションが表示されます。
+
+> **注: **3Dアクションは、ドキュメントの最新の公開されたrevisionを3Dビューアに読み込みます。 以前のrevisionを見ている場合でも同様です。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609467515/0f3244b065fb5bdbe46ad198ff98/image.png?expires=1779991200&signature=07151c3d91cad4cde6b077d6c93c35830876bd08dbcc55a3e120339c618e71ba&req=dSYnH814moReXPMW3nq%2BgZMc0Sbv6WPU8NqbTNkVjHj9fz%2FxQ0ZKfr3y0XoR%0Add4eA5xmPeB8ZpBjJyONyr7AiDo%3D%0A)
+
+## **3Dビューアプレビュー**
+
+3Dボタンをクリックすると、PCのポイントが3Dビューアへの読み込みを開始します。
+
+PCの3Dビューは次のようなものになります:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609423520/54537802e257cabf02a7e31773b3/image.png?expires=1779991200&signature=38819792169cb3030d41390f4a38f96c49ba752f16e6767c80658492d00e7b49&req=dSYnH818noRdWfMW3nq%2BgYkVc%2Bi0sao1bTLiV7WfFvJfkGUmK2opnDfoSCAb%0A%2B7NFC1hTE5OF4IfSJnas3coJQQA%3D%0A)
+
+3Dビューアの上部に緑色の読み込みバーが表示されます。
+
+この読み込みバーは、現在のカメラの位置と角度のために3Dビューアに読み込まれたポイントの数を示します。
+
+回転すると読み込みバーが変わる可能性があります。ビューから消えるポイントがメモリから読み込まれたり、より多くのポイントが範囲内に入ると読み込みが開始されたりします。
+
+ズームと位置調整後、PCプレビューは次のようなものになります:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609531299/fdd952082ae44fec28ab2e1aa9ce/image.png?expires=1779991200&signature=932aa16b2db0b62bb18616cd349273d2651d5f0cfb65ddce51279364b27b14b1&req=dSYnH8x9nINWUPMW3nq%2Bgf0Z9P9tBxpV2awJEQpPIFx4Gnzi9h%2FQTFYUWF5z%0AVhX11npDyPLn%2BdtHgXazB97Po6U%3D%0A)
+
+## **3Dビューア設定**
+
+このセクションでは、PCで最適なエクスペリエンスを得るためにCatenda Hub内で使用できる設定を見ていきます。
+
+> **注:** 3Dビューアを構成する前に、Catendaアプリケーションが[推奨](https://support.catenda.com/en/articles/6921941-hardware-recommendation)されているように構成されていることを確認してください。
+
+ポイントクラウドを構成するために使用できる設定は2つの場所にあります。
+
+### **1. ポイント予算:**
+
+ポイント予算は、3Dビューアの右上のギアアイコンで見つけることができる[3Dビューア設定](https://support.catenda.com/en/articles/5784718-3d-viewer-settings)で構成できます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609545463/7cbc97711d4b61b542c7a402b5bf/image.png?expires=1779991200&signature=517977c7a3cf3411492469e999e980925db2ed07a4a049fb62c4ae4548ec3c66&req=dSYnH8x6mIVZWvMW3nq%2BgYowLhbAOrdEOFMDqAlQQwe7%2FZ8mtUSr3mrzJnbE%0ANcENhTLpWfdEZrctvIozPxiEmk8%3D%0A)
+
+3Dビューア設定メニューで、ポイント予算は100,000から10,000,000に調整できます。
+
+より多くのポイントを読み込むには、より多くの時間がかかり、システムからより多くのリソースが必要になります。
+
+より多くのポイントを読み込むことで、ポイントクラウドをより高い忠実度で表示できます。
+
+同じビューを以下で確認してください:
+
+100,000ポイント
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609571739/d748e276eb87dc27a0aa7db8db07/image.png?expires=1779991200&signature=8d608db65ee68b9c7ed1d795b6b5345150f1339f1b7c2bd7818bdc1a5d9e3cd8&req=dSYnH8x5nIZcUPMW3nq%2BgdxOA5%2BTzjItrNh%2BK8v%2F4uVPmEk6bPwaZygwdlb0%0AAkIkaoRkk7rNnozUdf3g038zDSg%3D%0A)
+
+1,000,000ポイント
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609571931/9586d0dbfe6e5504391c42478670/image.png?expires=1779991200&signature=594770a0e63419b134c01aecb98386b394e136703d9c304f236f322536172e3e&req=dSYnH8x5nIhcWPMW3nq%2BgdiGPj9UQOIMgKtrPLXgoEBAGFpn7w3fxifCwceD%0AYbUkDOtKvEbBRg23Pbz8eqYXtIQ%3D%0A)
+
+10,000,000ポイント
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609572103/5812057c81b819d94f90f11bc5ce/image.png?expires=1779991200&signature=73bdb9c4763f969dc58057465bcc4401da595e2e7b12735d4d673142020dfd99&req=dSYnH8x5n4BfWvMW3nq%2BgaW7W936heNUiQ55yD2ziU8dx7c4d8PGzDxPoD2o%0ACl%2FKBMEP9%2BWHBBR9SM6E4DN%2BkB8%3D%0A)
+
+### **2. Revision セレクタと個別のPC設定:**
+
+3Dビューアの左上に、[Revision セレクタ](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project)があります。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1541300106/af53e4c7d67a1b60647226c9682a/image.png?expires=1779991200&signature=3298942dda159f9a1377b241c8857541ca2969a60ce204063cc77099b4c5680d&req=dSUjF8p%2BnYBfX%2FMW3nq%2BgXL4o5%2BmNwOPnbEVzIeYwU0bxJgUWoge1RqP9gYi%0APvPadPyMmnCkXHG4wgW6LWYYnHU%3D%0A)
+
+[モデルメニュー](https://support.catenda.com/en/articles/4670279-revision-selector#h_180a64490d)では、3Dビューアに読み込んだ個別の[3Dドキュメント](https://support.catenda.com/en/articles/4670279-revision-selector#h_fce60074ef)を見つけることができます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1541305754/29b5954c54c437f5ea85b76877ca/image.png?expires=1779991200&signature=d610bcb8573541ed79ec47c2e4ad5ee8b281c5afc8fe469016d6b0e4b76a103c&req=dSUjF8p%2BmIZaXfMW3nq%2BgdbK8s%2BNqKV0vAI%2Fkvq3pfcZyKnfHgTINdFDcuQh%0A%2Fl7VYRuoPrvH14zoJpHpQWpa5Cs%3D%0A)
+
+Revision セレクタのギアアイコンをクリックして、ポイントクラウドを構成できます。
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1541308196/e45ef76ec9ef3c6653cb13e708a7/image.png?expires=1779991200&signature=d5fe1a56ce0abe12b3ad114e746b67ee4d89d3627a52790b614dc27fc31eb6ca&req=dSUjF8p%2BlYBWX%2FMW3nq%2BgT43D8MqTNy9N97BIaZoo3ng1XhL8h0%2F8dM79BQN%0AD9kSxrLC7GMqP1M0BYErXMIYCRA%3D%0A)
+
+設定メニューは次のようなものです:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1541308195/8be3fe5976c1bc56aaedc1fd78fe/image.png?expires=1779991200&signature=6a1d3c12f83eff2a36d2cf1ce6455b989cc51fe365be655b870cd46fd021923e&req=dSUjF8p%2BlYBWXPMW3nq%2BgRw4zg3gSdIIbqpU1RpvsgP2UPwYfdGp3FBRm8Eo%0A%2BrTiPYgmzJsCswTEnhHKJ%2BgX6sQ%3D%0A)
+
+_属性_ _RGBA _- デフォルト
+
+PC のポイントを色で表示します
+
+_属性強度_
+
+強度オプションは、ポイントに色が含まれていない場合に使用できます。
+
+例えば、ポイントクラウドがトンネルや暗い部屋でキャプチャされた場合です。
+
+_不透明度_
+
+モデルがポイントクラウドと一緒に表示される場合、視点をより深く理解するためにポイントを薄くする必要がある場合があります。
+
+_ポイントサイズ_ _適応型_ - デフォルト
+
+ポイントがカメラに近いほど、大きくなります。
+
+ビュー内にあるポイントはメモリに読み込まれます。
+
+ビューから外れたポイントはメモリから読み込み解除されます。
+
+> **注:** Catendaが開かれているハードウェアとソフトウェアが[推奨](https://support.catenda.com/en/articles/6921941-hardware-recommendation)されているように構成されていることを確認してください。これはデバイスが処理できるポイントサイズ読み込みのタイプに影響を与える可能性があります。
+
+_ポイントサイズ 固定サイズ_
+
+読み込まれたポイントはこのオプションでメモリに留まります。
+
+多くのポイントを使用する場合、回転が遅延し、システムが処理できるポイント数に近づき始めると移動が遅くなることに気付くでしょう。
+
+また、デバイスの制限に近づくにつれて、新しいポイントを読み込むのに時間がかかることに気付く場合があります。
+
+ポイントはカメラに最も近い順に読み込まれます。
+
+ドキュメントセクションからポイントクラウドを読み込む前に、ポイントを読み込みたい場所にカメラをセットアップするようにしてください。
+
+このカメラの位置を使用する予定がこのポイントクラウドでもっと多い場合は、トピック内でブックマークまたはスナップショットを作成することを検討してください。これにより、この位置に戻るために再生できます。
+
+_ポイント密度スライダー_
+
+密度スライダーは最終設定を行うのに役立ちます。
+
+正しい値に対する規則はありません。アップロードしたデータ(データセットのサイズ、ポイント密度、スキャンのタイプなど)に依存します。
+
+アドバイス: ポイントクラウドを読み込み、少しの間待ってから、十分なポイントが表示されたら、必要に応じて設定を調整してください。
+
+[YouTubeビデオ](https://www.youtube.com/embed/n9pztkRPxoc?rel=0)
+
+# 3D DWGエクスポートマニュアル
+
+3D DWG を IFC にエクスポートできるプログラムは次のとおりです。
+
+### AutoCAD アーキテクチャ
+
+[エクスポートメニュー](#h_9ac38304dd)
+
+### AutoCAD MEP
+
+[エクスポートメニュー](#h_9ac38304dd)
+
+### AutoCAD Civil 3D
+
+[エクスポートメニュー](#h_9ac38304dd)
+
+### AutoCAD プラント 3D:
+
+AutoCAD Plant 3D を使用している場合は、使用している Plant 3D のバージョンのオブジェクト イネーブラをインストールできます。 Object Enabler がインストールされていると、上記のプログラムのいずれかでファイルを開いて IFC にエクスポートできます。
+
+上記のソフトウェアのいずれにもアクセスできない場合は、次のようなサードパーティのプラグインを使用してみてください。
+
+Autodesk® AutoCAD® Plant3D 用の Codemill IFC エクスポート
+
+このプラグインは、オブジェクト イネーブラーでは不可能な IFC 4 もエクスポートすると主張していますが、これは公式のエクスポーターではないため、インポートで問題が発生する可能性があることに注意してください。
+
+### Revit
+
+3D DWG を Revit にインポートすることができます。 Revit には IFC へのエクスポートに関してさらに多くのオプションがありますが、インポートされた 3D DWG を IFC にエクスポートすることは理想的ではありません。 これを実行したい場合、DWG をファミリにインポートするのが最善の方法です。 DWG をプロジェクトにインポートしようとすると、DWG を分解すると一部のオブジェクトが消えることがわかります。
+
+DWG をファミリにインポートした後、DWG が作成したファミリを展開します。
+
+これは、IFC 内に 1 つの大きなオブジェクトではなく個別のオブジェクトを確実に含めることができるようにするためです。
+
+次に、ファミリをプロジェクトにロードして配置します。
+
+家族を選択できない場合があります。 これは、変更のドロップダウン メニューで [アンダーレイ要素の選択] がチェックされていないことが原因である可能性があります。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3baydpf4/01-revit.png)
+
+配置したファミリを選択した状態で、上部のリボンで [パーツの作成] をクリックします。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3baydpf4/02-revit.png)
+
+プロジェクト内でファミリーの各部分を個別に選択できることがわかります。
+
+これで、左上のメニューで [エクスポート] -> [IFC] をクリックして、ifc をエクスポートする準備が整いました。
+
+IFC エクスポート ダイアログで、設定の変更をクリックします。
+
+セットアップの変更ダイアログで、詳細タブに移動します。
+
+ここでは必ず「パーツを建築要素としてエクスポート」にチェックを入れてください。
+
+### ナビスワークス
+
+現時点では、Navisworks から IFC にエクスポートする正式な方法はありません。
+
+これを行うプラグインをインストールすると、さまざまな結果が得られます。 Codemill IFC Exporter CellBIM for Excel および IFC Exporter
+
+これは正式な輸出業者ではないため、輸入時に問題が発生する可能性があることに注意してください。
+
+## エクスポートメニュー
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3baydpf4/03-export-menu.png)
+
+1. プロジェクト番号
+1. プロジェクト名
+1. 保存場所 - ファイルへのパスを書き込むか、参照をクリックして IFC を保存するフォルダーを見つけます。
+1. IFC にエクスポートする図面ファイルを選択します
+1. オプション
+    1. ヘッダー - 著者、組織など
+        1. エクスポート先の IFC スキーマを選択 - IFC 2x3 および IFC 4
+    1. オブジェクト - すべて
+    1. 表示 - すべてを含める
+
+**注:** Ifc 4x1 は BuildingSMART によって描画されるため、Catenda Hub によってもサポートされません。Catenda Hub でサポートされているファイル タイプを[ここで](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support)確認してください
+
+6. リソースと割り当て
+
+1. リソース - 右クリックしてリソース担当者と組織を追加します
+1. 割り当て - 右クリックして割り当てられた個人と組織を追加します
+1. IfcBuilding - プロパティを選択してください
+
+エクスポート - ファイルをエクスポートする準備ができたら、このボタンをクリックします。
+
+# Catenda Hubでのファイル形式のプレビュー
+
+当社のモデルビューアでは、IFC形式のみをサポートしています。その他のファイル 形式はすべて、ドキュメントセクションにアップロード可能です。
+
+> **Note:** **注：**IFC、点群データ（e57、las）、およびGMLのプレビューは、3Dビューアで読み込むことができます。
+
+この記事には、以下のファイル形式のプレビューに関する情報が含まれています：
+
+**[オープン](#h_ee6b36a698) - [Open 3D](#h_2edd1d4e9c) - [Open 2D](#h_76964134d3) - [独自形式](#h_da902d0f10) - [有害](#h_f5a76051d8)**
+
+## ベンダー中立形式
+
+Catendaでは、所有するソフトウェアに関係なく誰もが共同作業を行えるよう、オープンスタンダードの採用を重視しています。
+
+**一般的に、オープン規格は本質的にオープンな性質を持つため、誰でもその開発に参加することができます（[Wikipedia](https://en.wikipedia.org/wiki/Open_standard#:~:text=Typically%2C%20anybody%20can%20participate%20in%20their%20development%20due%20to%20their%20inherently%20open%20nature.)）。**
+
+つまり、開発内容を支配しているのは単一の組織だけではないということです。
+
+## ベンダー中立な3Dファイル形式
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><h3 id="h_93e7e652f9">ベンダー中立な3Dフォーマット</h3></td><td><h3 id="h_03a18fa1a4">拡張機能</h3></td><td><h3 id="h_d177a24399">標準タイプ、ガバナンス</h3></td><td><h3 id="h_2fa4c253b7">コメント</h3></td></tr><tr><td><h3 id="h_b6937afd78">ポイントクラウド文書</h3></td><td><p>e57、las</p></td><td><p>オープン、ASTM、ASPRS</p></td><td><p>ポイントクラウド内のカラーデータを含むポイントの3Dプレビューを表示できます。</p></td></tr><tr><td><h3 id="h_87aca485de">点群の3Dビュー</h3></td><td><p>e57, las</p></td><td><p>Open、ASTM、ASPRS</p></td><td><p>3D ビューアで、他の 3D ファイルと一緒に点群を表示できます。</p></td></tr><tr><td><h3 id="h_1ef242bb5e">GMLドキュメント</h3></td><td><p>gml (CityGML)、city.json (CityJSON)、gmlzip (CityGML zip)</p></td><td><p>Open、IGC</p></td><td><p>CityGML ファイル内のソリッドおよびサーフェスの 3D プレビューを表示できます。</p></td></tr><tr><td><h3 id="h_8ec126c704">GML3D ビュー</h3></td><td><p>gml (CityGML), city.json (CityJSON), gmlzip (CityGML zip)</p></td><td><p>Open、IGC</p></td><td><p>GML ファイルは、3D ビューアで他の 3D ファイルと一緒に表示できます。</p></td></tr><tr><td><h3 id="h_a52b9c3500">IFCドキュメント</h3></td><td><p>ifc (任意)、ifczip (任意)</p></td><td><p>Open、BuildingSMART</p></td><td><p>ドキュメントセクションにアップロードされた IFC ファイルは、IFC 3D ビューのプレビューが表示されます。ドキュメントからモデルが作成された場合、プロパティや GUID などのオブジェクトに関する情報を確認できるため、トピックにリンクさせることができます。</p></td></tr><tr><td><h2 id="h_500f6e5f3a">IFC モデル</h2></td><td><p>ifc, ifczip</p></td><td><p>Open, BuildingSMART</p></td><td><p>以下のバージョンを参照</p></td></tr></tbody></table></div>
+
+以下の表に、当社がサポートするIFCの全バージョンを記載しています。
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p><b>バージョン</b></p></td><td><p>ドキュメント</p></td><td><p>ステータス</p></td><td><p>備考</p></td></tr><tr><td><p><b>IFC 4.3</b></p></td><td><p><a class="intercom-content-link" href="https://github.com/buildingSMART/IFC4.3-html/releases/tag/sep-13-release">IFC 4.3 TC1 (zip)</a>、<a class="intercom-content-link" href="https://standards.buildingsmart.org/IFC/RELEASE/IFC4_3/">IFC 4.3 ADD2</a></p></td><td><p>最新公式バージョン</p></td><td><p>最新の公式バージョン。</p></td></tr><tr><td><p><b>IFC 4.2</b></p></td><td><p><a class="intercom-content-link" href="https://standards.buildingsmart.org/IFC/DEV/IFC4_2/FINAL/HTML/">IFC4.2</a></p></td><td><p>廃止</p></td><td><p>IFC 4.0として処理</p></td></tr><tr><td><p><b>IFC 4.1</b></p></td><td><p><a class="intercom-content-link" href="https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/">IFC4.1</a></p></td><td><p>取り下げ</p></td><td><p>IFC 4.0 として処理</p></td></tr><tr><td><p><b>IFC 4.0</b></p></td><td><p><a class="intercom-content-link" href="https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/">IFC4 ADD2 TC1</a></p></td><td><p>公式</p></td><td></td></tr><tr><td><p><b>IFC 2.3</b></p></td><td><p><a class="intercom-content-link" href="https://standards.buildingsmart.org/IFC/RELEASE/IFC2x3/FINAL/HTML/">IFC2x3</a>, <a class="intercom-content-link" href="https://standards.buildingsmart.org/IFC/RELEASE/IFC2x3/TC1/HTML/">IFC2x3 TC1</a></p></td><td><p>廃止</p></td><td><p>これは2005年に作成されたIFC 2の最後の公式バージョンです。現在は廃止されていますが、依然として多くの人々に使用されています。</p></td></tr><tr><td><p><b>IFC 2.2</b></p></td><td><p><a class="intercom-content-link" href="https://standards.buildingsmart.org/IFC/RELEASE/IFC2x2/FINAL/HTML/">IFC2x2</a>、<a class="intercom-content-link" href="https://standards.buildingsmart.org/IFC/RELEASE/IFC2x2/ADD1/HTML/">IFC2x2 ADD1</a></p></td><td><p>廃止</p></td><td></td></tr><tr><td><p><b>IFC 2.1</b></p></td><td><p><a class="intercom-content-link" href="https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/">IFC2x</a>、<a class="intercom-content-link" href="https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/ADD1/HTML/">IFC2x ADD1</a></p></td><td><p>廃止</p></td><td></td></tr><tr><td><p><b>IFC 2.0</b></p></td><td><p>IFC2.0</p></td><td><p>廃止</p></td><td></td></tr></tbody></table></div>
+
+### IFCのバージョン
+
+IFCバージョンのステータスに応じて、以下の方法でサポートを提供しています：
+
+_公式、廃止_ - 完全サポート。すべての公式および廃止されたIFCバージョンがサポートされます。
+
+_取り下げ済み_ - 部分的なサポート。モデルは最新の公式バージョンに基づいて処理されます。
+
+_開発中_ - サポートなし。公開前に変更される可能性があります。
+
+公式なIFCリリースについては[、こちら](https://technical.buildingsmart.org/standards/ifc/ifc-schema-specifications/)をご覧ください
+
+公式のBuildingSMARTサンプルIFCファイル[はこちら](https://github.com/buildingSMART/Sample-Test-Files)
+
+### 点群
+
+点群の点は、色または強度でプレビューできます。
+
+## ベンダー中立の2Dファイル形式
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><h3 id="h_f088d12b78">ベンダーがサポートする2D形式</h3></td><td><h3 id="h_1d9756f3b7">拡張機能</h3></td><td><h3 id="h_bdc9af8cde">標準タイプ、ガバナンス</h3></td><td><h3 id="h_d4e534e9b6">コメント</h3></td></tr><tr><td><h3 id="h_bb0f2e623a">アーカイブ用PDF：PDF/A</h3></td><td><p>.pdf <br/>(PDF/A 1,2,3)</p></td><td><p>PDF Association</p></td><td><p>ベンダー中立なのは PDF/A 形式のみです。</p></td></tr><tr><td><h3 id="h_e4f099375e">ベンダーが支援するPDF</h3></td><td></td><td></td><td></td></tr><tr><td><h3 id="h_1e81a5f6b7">BCFトピック</h3></td><td><p>bcfzip <br/>(bcf 2.0)<br/>bcf <br/>(bcf 2.1, bcf 3.0)</p></td><td><p>Open<br/>BuildingSMART</p></td><td></td></tr><tr><td><h3 id="h_58cd989eb2">画像ドキュメント</h3></td><td><p>png、<br/>gif（静止画像）</p></td><td><p>Open, W3C</p></td><td><p>360 度画像はパノラマとして表示されます。</p></td></tr><tr><td><h3 id="h_628ab890c5">トピックの説明やコメント内の画像</h3></td><td><p>png, <br/>gif (アニメーション), <br/>jpg, jpeg</p></td><td><p>Open<br/>W3C<br/>JPEG Group</p></td><td><p>トピックの<a class="intercom-content-link" href="https://support.catenda.com/ja/articles/8053352-issue-body#h_952e4743da">説明文</a>や<a class="intercom-content-link" href="https://support.catenda.com/ja/articles/8053352-issue-body#h_f76b44d3ca">コメント</a>内のテキストに、公開画像への<a class="intercom-content-link" href="https://support.catenda.com/ja/articles/8430847-formatting-of-posts#h_65e9775fd0">リンクを追加します</a>。<br/>360度画像はパノラマとして表示されます。</p></td></tr><tr><td><h3 id="h_e0eb6be055">トピックの視点にある画像</h3></td><td><p>png、<br/>gif（静止画）、<br/>jpg、jpeg</p></td><td><p>W3C<br/>JPEG<br/>グループを開く</p></td><td><p>トピックのコメントに<a class="intercom-content-link" href="https://support.catenda.com/ja/articles/8053352-issue-body#h_fb43bacd99">画像を添付できます</a>。<br/>360度画像はパノラマとして表示されます。</p></td></tr><tr><td><h3 id="h_d4cf4ca53b">画像ベンダーサポート</h3></td><td></td><td></td><td></td></tr><tr><td><h3 id="h_a03f696bba">OpenOfficeドキュメント</h3></td><td><p>odt, ods</p></td><td><p>Open<br/>OASIS</p></td><td></td></tr><tr><td><h3 id="h_9ac9be8d9f">Officeベンダー対応</h3></td><td></td><td></td><td></td></tr><tr><td><h3 id="h_d51369e720">リッチテキスト文書</h3></td><td><p>XML</p></td><td><p>Open<br/>W3C</p></td><td></td></tr><tr><td><h3 id="h_dda4050762">プレーンテキスト文書</h3></td><td><p>txt</p></td><td><p>W3C<br/>で開く</p></td><td></td></tr></tbody></table></div>
+
+## ベンダー中立のマルチメディアファイル形式
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><h3 id="h_df4a2bf564">ベンダーが支援するマルチメディア形式</h3></td><td><h3 id="h_e8919260c8">拡張子</h3></td><td><h3 id="h_7b016eb385">標準の種類、ガバナンス</h3></td><td><h3 id="h_527bed2c0c">コメント</h3></td></tr><tr><td><h3 id="h_6ac728b57e">Xiphマルチメディアドキュメント</h3></td><td><p>ogg</p></td><td><p>Xiph.Org<br/>を開く</p></td><td><p>ビデオ、オーディオ、その他のマルチメディア</p></td></tr><tr><td><h3 id="h_265bfc961c">マルチメディアベンダーがサポートする</h3></td><td></td><td></td><td></td></tr></tbody></table></div>
+
+## ベンダーが支援するファイル形式
+
+多くの組織によって開発され、広く利用されているファイル形式の標準は数多く存在します。
+
+Catendaを簡単に使えるようにすることは、私たちにとって重要です。そのため、広く使用されている一般的なファイル形式を可能な限りサポートするよう努めています。
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><h3 id="h_9d1dae63fd">ベンダーがサポートする形式</h3></td><td><h3 id="h_96ef4bad49">拡張子</h3></td><td><h3 id="h_3819a0781c">標準タイプ、ガバナンス</h3></td><td><h3 id="h_1c4db2987d">コメント</h3></td></tr><tr><td><h3 id="h_353b8d88e6">PDFベンダー中立</h3></td><td></td><td></td><td></td></tr><tr><td><h2 id="h_f99f16e4e8">PDF ドキュメント</h2></td><td><p>PDF <br/>(1.x～2.0)<br/>xfdf</p></td><td><p>Adobe<br/>を開く</p></td><td><p>PDFをアップロードすると、PDFのコメントが表示されます。PDFポートフォリオの場合は、表紙のみが表示されます。</p></td></tr><tr><td><h3 id="h_d0a7e72a6b">PDF ドキュメント</h3></td><td><p>fdf</p></td><td><p>Adobe<br/>独自の</p></td><td></td></tr><tr><td><h3 id="h_e9cbbf1a4d">画像ベンダー中立</h3></td><td></td><td></td><td></td></tr><tr><td><h3 id="h_92afc0e808">画像ドキュメント</h3></td><td><p>bmp、wmf、emf</p></td><td><p>Microsoft<br/>独自</p></td><td></td></tr><tr><td><h3 id="h_858be27ccd">画像ドキュメント</h3></td><td><p>tif, tiff</p></td><td><p>Adobe<br/>独自形式</p></td><td></td></tr><tr><td><h3 id="h_b2b5a34fd2">トピックの説明やコメント内の画像</h3></td><td><p>bmp</p></td><td><p>Microsoft<br/>独自の形式</p></td><td><p>トピックの<a class="intercom-content-link" href="https://support.catenda.com/ja/articles/8053352-issue-body#h_952e4743da">説明</a>や<a class="intercom-content-link" href="https://support.catenda.com/ja/articles/8053352-issue-body#h_f76b44d3ca">コメント</a>に画像への<a class="intercom-content-link" href="https://support.catenda.com/ja/articles/8430847-formatting-of-posts#h_65e9775fd0">リンクを追加します</a>。<br/>360 度の画像はパノラマとして表示されます。</p></td></tr><tr><td><h3 id="h_b9ef0d3ee7">マルチメディアベンダー中立</h3></td><td></td><td></td><td></td></tr><tr><td><h3 id="h_c95f29d638">Moving Picture Expert Group マルチメディア文書</h3></td><td><p>mp4</p></td><td><p>独自規格<br/>MPEGグループ</p></td><td><p>動画、音声、その他のマルチメディア</p></td></tr><tr><td><h3 id="h_be30009917">Webムービー</h3></td><td><p>webm</p></td><td><p>Google<br/>Open</p></td><td><p>動画、音声、その他のマルチメディア</p></td></tr><tr><td><h3 id="h_c34b264447">建設業界 - ベンダー中立</h3></td><td></td><td></td><td></td></tr><tr><td><h3 id="h_6ede7be0f8">Autodeskドキュメント</h3></td><td><p>dwg, dxf, dwf</p></td><td><p>オートデスク<br/>独自の形式</p></td><td><p>ベクターグラフィックスはCAD形式で表示されます</p></td></tr><tr><td><h3 id="h_d7857a1066">Bentley ドキュメント</h3></td><td><p>dgn</p></td><td><p>Bentley<br/>独自</p></td><td><p>ベクターグラフィックスは CAD 形式で表示されます</p></td></tr><tr><td><h3 id="h_9e01ed9f53">Office ドキュメントベンダー中立</h3></td><td></td><td></td><td></td></tr><tr><td><h3 id="h_537a80bfe8">Microsoft ドキュメント</h3></td><td><p>doc、xls、ppt、pub</p></td><td><p>Microsoft<br/>独自の形式</p></td><td></td></tr><tr><td><h3 id="h_1218a400a9">Microsoft Office Open XML</h3></td><td><p>docx、pptx、xlsx、xlsm</p></td><td><p>Microsoft<br/>オープン</p></td><td><p>xlsm にマクロが含まれている場合、コンテンツをプレビューすることはできません。</p></td></tr><tr><td><h3 id="h_2026341a73">レポートテンプレート</h3></td><td><p>mrt</p></td><td><p>Stimulsoft<br/>独自の</p></td><td><p>テンプレートは XML や JSON などのオープンな技術を使用して保存されていますが、特定のスキーマ、コンポーネント定義、およびスクリプトロジックは Stimulsoft エコシステムに固有のものです。</p></td></tr></tbody></table></div>
+
+## 危険なファイル形式
+
+以下の形式のファイルは、ダブルクリックするだけで開いた際に有害となる可能性があります。 これらのファイルタイプは、単一ドキュメントのアップロードやZIPインポート機能ではアップロードできません。
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><h1 id="h_a12d12c72d">有害な形式</h1></td><td><h1 id="h_4b07086761">拡張子</h1></td><td><h1 id="h_5ce7154479">コメント</h1></td></tr><tr><td><h3 id="h_bd332a1f35">Windows実行ファイル</h3></td><td><p>exe</p></td><td></td></tr><tr><td><h3 id="h_fad7bbd1ca">Windows インストーラーパッケージ</h3></td><td><p>msi</p></td><td></td></tr><tr><td><h3 id="h_967ead787b">バッチスクリプト</h3></td><td><p>bat</p></td><td></td></tr><tr><td><h3 id="h_2d743a6fe1">コマンドスクリプト</h3></td><td><p>cmd</p></td><td></td></tr><tr><td><h3 id="h_72ee4fd225">DOS実行ファイル</h3></td><td><p>com</p></td><td></td></tr><tr><td><h3 id="h_63c0a1e86b">スクリーンセーバー実行ファイル</h3></td><td><p>scr</p></td><td><p>プログラムとして実行すると有害となる可能性があります。</p></td></tr><tr><td><h3 id="h_7143353393">PowerShell スクリプト</h3></td><td><p>ps1</p></td><td><p>スクリプトホストで開くと有害となる可能性があります。</p></td></tr><tr><td><h3 id="h_a9a3166afc">Windows ショートカット</h3></td><td><p>lnk</p></td><td><p>実行ファイルのように見えない状態で実行ファイルにリンクすると、有害となる可能性があります。</p></td></tr><tr><td><h3 id="h_61c6aaa719">Java実行ファイル</h3></td><td><p>jar</p></td><td><p>Javaがインストールされている場合、有害となる可能性があります。</p></td></tr><tr><td><h3 id="h_59547abe10">PHPスクリプト</h3></td><td><p>php</p></td><td></td></tr></tbody></table></div>
+
+# アップロードするファイルのサイズの制限について
+
+> アップロード・インポートする様々なファイルサイズの制限について説明します。
+
+以下の表は、アップロード可能なファイルサイズの上限をまとめたものです。これらの制限を超えるファイルについては、別の方法でアップロードする必要があります。
+
+表に記載されているファイルサイズは、個別のファイル1つあたりに適用されます。プロジェクト内の合計ファイル数に制限はありません。
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa; width: 315px;"><h2 id="h_beed965ba9"><b>アップロードサイズ</b></h2></td><td style="background-color: #e3e7fa; width: 132px;"><h2 id="h_1373e4df90"><b>拡張子</b></h2></td><td style="background-color: #e3e7fa;"><h2 class="intercom-align-center" id="h_1703a174b3"><b>ファイルサイズ</b></h2></td></tr><tr><td style="width: 315px;"><h2 id="h_f44480e95e">ファイル（ドキュメント内）</h2></td><td style="width: 132px;"><p>任意</p></td><td><p class="intercom-align-center">7 GB</p></td></tr><tr><td style="background-color: #e8e8e8; width: 315px;"><h2 id="h_f3a12a0b83">Ifcファイル</h2></td><td style="background-color: #e8e8e8; width: 132px;"><p><code>.ifc</code></p></td><td style="background-color: #e8e8e8;"><p class="intercom-align-center">750 MB</p></td></tr><tr><td style="width: 315px;"><h2 id="h_37818c4bcc">IfcZIPファイル</h2></td><td style="width: 132px;"><p><code>.ifczip</code></p></td><td><p class="intercom-align-center">750 MB</p></td></tr><tr><td style="background-color: #e8e8e8; width: 315px;"><h2 id="h_49e1984d4e">点群データ</h2></td><td style="background-color: #e8e8e8; width: 132px;"><p><code>.e57</code> </p></td><td style="background-color: #e8e8e8;"><p class="intercom-align-center">25 GB</p></td></tr><tr><td style="width: 315px;"><h2 id="h_a8397902a6">点群データ</h2></td><td style="width: 132px;"><p><code>.las</code></p></td><td><p class="intercom-align-center">25 GB</p></td></tr><tr><td style="background-color: #e8e8e8; width: 315px;"><h2 id="h_4200d1a4ed">BCFインポート</h2></td><td style="background-color: #e8e8e8; width: 132px;"><p><code>.bcf</code></p></td><td style="background-color: #e8e8e8;"><p class="intercom-align-center">500 MB</p></td></tr><tr><td style="width: 315px;"><h2 id="h_55130e94fa">BCFZIPインポート</h2></td><td style="width: 132px;"><p><code>.bcfzip</code></p></td><td><p class="intercom-align-center">500 MB</p></td></tr></tbody></table></div>
+
+## **ファイルの分割**
+
+サイズの大きい .ifc および .ifczip ファイルは、小さなファイルに分割して運用することをお勧めします。分割することで、750 MB のアップロード制限を遵守できるだけでなく、プロジェクト内でのファイル操作をよりスムーズに行えるようになります。
+
+複数の小さなファイルをアップロードすることで、プロジェクトメンバーが必要な箇所のみを表示・非表示にしたり、特定のパーツを個別にダウンロードしたりすることが容易になります。
+
+## **IfcZip 形式での書き出し**
+
+一部の設計・モデリングツール（Authoring tools）では、IFC ファイルの書き出しオプションとして「IfcZIP」を選択できます。
+
+> **Note:** **例:** `3D-model.ifczip`
+
+## **IfcZip ファイルの作成**
+
+.ifc ファイルのサイズが上限を超えている場合、.ifczip ファイルを作成することでアップロードが可能になります。.ifc を .ifczip に変換するには、以下の手順に従ってください。
+
+1. **.ifc ファイルを圧縮して .zip ファイルを作成します。**
+1. **ファイルの拡張子を .zip から .ifczip に変更します。**
+​
+
+> **Note:** **例:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip ​`
+
+## サポートへのお問い合わせ
+
+ファイルの改修が困難で、かつアップロード上限を超えている場合は、サポートまでご連絡ください。状況に応じて個別に個別対応を検討いたします。なお、お問い合わせの前に、.ifczip 形式の作成、Desktop Connector の利用、またはファイルの分割といった代替手段をあらかじめお試しいただくことをお勧めします。
+
+# 推奨ハードウェア
+
+> Catenda Hubで最高の体験をするための推奨ハードウェア仕様と最適化のヒント
+
+この記事には、Catenda Hubを使用するための推奨システム要件に関する情報が含まれています。Catenda Hubはブラウザからアクセスでき、インストールする必要はありません。
+
+この記事では以下のトピックについて説明します：
+
+[推奨ハードウェア](#h_d8eed29205) - [最適化](#h_9cb2f365ea) - [プロキシとファイアウォール](#h_09061c1003) - [ポート](#h_b2b7d22dc5)
+
+## 推奨ハードウェア：
+
+**（2023年6月）**
+
+通常のプロジェクト（LOD 300まで）：
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p class="intercom-align-center"><b>プロセッサ</b></p></td><td><p class="intercom-align-center"><b>RAM</b></p></td><td><p class="intercom-align-center"><b>GPU</b></p></td></tr><tr><td><p class="intercom-align-center">Intel Core i5 または同等</p></td><td><p class="intercom-align-center">8～16 GB</p></td><td><p class="intercom-align-center">統合型 / 4GB</p></td></tr></tbody></table></div>
+
+ジオメトリの密度が高いプロジェクト （LOD 400以上）：
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p class="intercom-align-center"><b>プロセッサ</b></p></td><td><p class="intercom-align-center"><b>RAM</b></p></td><td><p class="intercom-align-center"><b>GPU</b></p></td></tr><tr><td><p class="intercom-align-center">Intel Core i7 または同等</p></td><td><p class="intercom-align-center">32GB</p></td><td><p class="intercom-align-center">8GB</p></td></tr></tbody></table></div>
+
+[LODの定義](https://www.gsa.gov/real-estate/design-and-construction/3d4d-building-information-modeling/bim-software-guidelines/document-guides/level-of-detail)
+
+## **専用 GPU と統合 GPU**
+
+システムの統合 GPU ではなく、専用 GPU を使用していることを確認してください。Windows 10 では、[次の](https://superuser.com/questions/1439471/how-can-i-force-my-dedicated-gpu-to-handle-all-applications-or-disable-my-integr#:~:text=use%20these%20steps%3A-,Open%20Settings.,-Click%20on%20System)手順に従って専用 GPU を使用していることを確認できます。
+
+## **3D ビューアの最適化:**
+
+Catenda Hub は十分に最適化されており、ほとんどのモデルを実行できますが、成功するためにできる限り最善の設定をしたいユーザーもいるかもしれません。そこで、Catenda Hub でワークフローを最適化するために使用できる戦略をいくつか紹介します。
+
+### **多くのオブジェクト:**
+
+もちろん、モデルを少なくロードするとオブジェクトも少なくなり、パフォーマンスが向上します。
+
+[インクリメンタル レンダリング](https://intercom.help/bimsync-arena/en/articles/5784718-3d-viewer-settings#:~:text=Incremental%20rendering%3A)をオンにすると、回転時にすべてのオブジェクトをロードする必要がないため、ジオメトリの多いモデルの回転が高速化されます。
+
+最後のステップとして、作業中のセクションの[クエリ](https://intercom.help/bimsync-arena/en/articles/4854514-queries)を作成できます。通常、モデルの一部をセクションに分割すると、オブジェクトはまだメモリ内にあり、非表示になっているだけです。クエリを使用すると、これらのオブジェクトは完全に削除されるため、モデルでの作業が容易になります。すべてのオブジェクトがロードされるわけではないため、クエリではプロパティ ライブラリを使用できないことに注意してください。
+
+### **点群**
+
+[固定ポイント サイズを](https://intercom.help/bimsync-arena/en/articles/5606625-point-clouds-in-bimsync#:~:text=Adaptive%20(default)%2C%20or-,Fixed%20size,-.%20The%20slider%20below)使用している場合、多数のポイントが読み込まれると fps が低下する可能性があります。また、システムの予算メモリに達すると、点の読み込みに時間がかかることがあります。カメラに最も近いポイントが最初に読み込まれるため、特定の場所のポイントを読み込む場合は、その位置に移動してからポイント クラウドをオンにして、最初にその場所のポイントの読み込みを開始するのが適切です。
+
+メモリ制限に達して fps が低下するのを防ぐには、ポイント バジェットを下げて、ロードされる点の[数を減らすことができます。](https://intercom.help/bimsync-arena/en/articles/5606625-point-clouds-in-bimsync#:~:text=with%20your%20PC.-,Point%20Budget%3A,-Using%20the%20viewer)
+
+## **ブラウザ設定**
+
+### **システム要件:**
+
+Catenda Hub はさまざまなブラウザから利用できます。
+
+Catenda Hub にアクセスするために使用できるブラウザの要件
+
+_Chrome: _[​https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU)
+
+**Firefox:**
+
+[​https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/](https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/) _Microsoft Edge:_
+
+Windows 11 のシステム要件:
+
+[​https://www.microsoft.com/en-in/windows/windows-11-specifications](https://www.microsoft.com/en-in/windows/windows-11-specifications)
+
+**Safari:**
+
+[https://support.apple.com/en-us/112653](https://support.apple.com/en-us/112653)
+
+**Opera:**
+
+[https://www.opera.com/download/requirements](https://www.opera.com/download/requirements) _Vivaldi:_
+
+[https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
+
+### **ハードウェアアクセラレーション**
+
+ハードウェア アクセラレーションを使用していることを確認してください。 さまざまなブラウザのハードウェア アクセラレーション オプションは、次の場所にあります。
+
+**Chrome:**
+
+[chrome://settings/?search=hardware+acceleration](chrome://settings/?search=hardware+acceleration) _Firefox:_
+
+[​https://support.mozilla.org/en-US/kb/performance-settings?as=u&utm\_source=inproduct](https://support.mozilla.org/en-US/kb/performance-settings?as=u&utm_source=inproduct) _Microsoft Edge: ​_
+
+[edge://settings/?search=hardware%20acceleration](edge://settings/?search=hardware%20acceleration) _Safari:_
+
+[https://support.apple.com/en-us/102894](https://support.apple.com/en-us/102894)​
+
+**Opera:**
+
+[​https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/](https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/)
+
+**Vivaldi:**
+
+[https://forum.vivaldi.net/topic/1207/hardware-acceleration](https://forum.vivaldi.net/topic/1207/hardware-acceleration)
+
+### 外部**要因**
+
+Catenda Hub のエクスペリエンスを遅くする可能性のあるブラウザ拡張機能やその他のプログラムがあるかどうかを確認してください。
+
+_メモリ使用量による_ベスト
+
+1. ファイアフォックス
+1. クロム
+1. マイクロソフトエッジ
+
+### **クッキー**
+
+クッキーに保存されたデータにより、ブラウザは、あなたがログインしているかどうか、および Catenda プロジェクトにおけるあなたの設定の一部を知ることができます。設定にはプロジェクトごとに異なるものもあれば、すべてのプロジェクトで同じものもあります。たとえばメニューを閉じるなどして設定を変更すると、ブラウザのウィンドウやタブ全体でその設定が記憶されます。 たとえば、あるタブでフィルター メニューを閉じてから、別のタブで同じページを更新すると、そのタブでもフィルター メニューが閉じられます。
+
+この方法により、ブラウザはログインしていたかどうかも記憶します。 たとえば、あるタブでログアウトして別のアカウントにログインし、別のタブのページを更新すると、別のアカウントでログインしていることに気付くでしょう。そのアカウントは、参加していたプロジェクトにアクセスできない可能性があります 。
+
+Chromeでは、以下のようにCookieを管理できます。Cookie とサイトデータをクリックします。
+
+![](https://downloads.intercomcdn.com/i/o/1143829455/e1b8867e01930b24ef529e47/image.png?expires=1781092800&signature=e2930701f16f0bb3a0bf73c281e38f6f67c644391db6ed32ee93ea59a6d53707&req=dSEjFcF8lIVaXPMW3nq%2BgUEUCAtZlI0OymkGwvXwPbIdriySEnhYe5MnX9rH%0AEYoxZWV%2FwN%2FD9WGf%2BN6T8rLpu6U%3D%0A)
+
+「デバイス上のサイトデータの管理」をクリックします
+
+![](https://downloads.intercomcdn.com/i/o/1143829543/42d74782920e4a35a660e546/image.png?expires=1781092800&signature=772bcce3cf9b467dbc597b9d51e83558d486f87ddb35ea6b96af416fc21e8b5a&req=dSEjFcF8lIRbWvMW3nq%2BgURf0KbK%2BNuvBfcmFwNBFGl1BsOYkzIeKVHfYp9q%0Ax43X05BUHahlsi1ikzCV75TMgJk%3D%0A)
+
+サイトデータ設定は次のようになります。
+
+![](https://downloads.intercomcdn.com/i/o/1143829607/ca12dcb2003b5cb363d40567/image.png?expires=1781092800&signature=f3a187e05e4ba985f1ae0ec66d8fb2a99a1057a2881e8a657ddac3758f562e70&req=dSEjFcF8lIdfXvMW3nq%2BgckeVuXJSA5nST8uRqQYtlpUuNArxqJhicAjHiaF%0APs4KS9lyB2p5JX1IIKTovtvmSMA%3D%0A)
+
+Catenda Hub を使用するには、セッション中に少なくとも hub.catenda.com のデータの保存を許可する必要があります。 すべてのウィンドウを閉じるときにデータを削除することを選択した場合、Catenda を使用するたびにデータがリセットされます。すべてのウィンドウを閉じるたびにデータを削除すると、ブラウザーのすべてのウィンドウを閉じるたびに設定がリセットされます 。
+
+## **ネットワーク速度**
+
+ネットワークの品質を制御し、ダウンロードとアップロードの比率が
+
+1:10前後かそれ以上。
+
+![](https://downloads.intercomcdn.com/i/o/748569163/86b6c411513b1d918f971664/5e52d40f-4227-418f-b23b-20fa30a307e2?expires=1781092800&signature=1ba0773f7dc7c9af736408f4089c2adccac66a67a0b7737730ea980132976063&req=cyQvE893nIdcFb4V1XW4gbNVrM1pna2WNERr2HdEoh49FtF8K3i%2F%2BKq6uCKu%0AYfEqJDh3SgD2pd%2FhWLATN81jAg%3D%3D%0A)
+
+(これは例であり、実際の要件ではありません)
+
+## **プロキシとファイアウォール:**
+
+ファイアウォール、プロキシ、またはその他の仲介者の背後で Catenda Hub にアクセスするユーザーは、アプリケーションが適切に機能するために、次のドメインとポートにアクセスする必要があります。
+
+### **ドメイン:**
+
+(`\*`は DNS ワイルドカードを意味し、`.`ドメイン レベルの区切り文字です。以下を正規表現として扱わないでください)。
+
+- Catenda ドメイン:
+    - `catenda.com`
+    - `\*.catenda.com`
+        - `webviewer.catenda.com`
+    - `\*.\*.catenda.com`
+
+この新しいドメイン名を使用することをお勧めします。
+
+サブドメインが複数あっても問題は発生しないはずです`\*.\*.\*.catenda.com`が、もし発生した場合は、すべてを許可する方が簡単かもしれません。`catenda.com`
+
+**維持ドメイン**
+
+以下のドメインは近い将来も維持されますが、技術文献では参照されません。
+
+- `bimsync.com`
+- `\*.bimsync.com`
+- `\*.\*.bimsync.com`
+
+**サービス**
+
+Catenda Hub は次のサービスを使用します。
+
+- `\*.google-analytics.com`
+- `\*.googletagmanager.com`
+- `\*.intercom.io`
+- `\*.intercomcdn.com`
+- `\*.sentry.io`
+
+**プラグイン**
+
+Catenda Hub を弊社のプラグインのいずれかを通じてのみ使用する場合は、ファイアウォールで許可する必要があるドメインはこれらだけです。
+
+- プラグインと統合の認証用
+    - `hub.catenda.com`
+    - `api.catenda.com`
+    - `bimsync.com`
+    - `api.bimsync.com`
+- プラグインの使用について
+    - Revitプラグイン
+        - `https://revit.plugins.catenda.com`
+        - `https://revit.plugins.bimsync.com`
+    - Archicadプラグイン
+        - `https://archicad.plugins.catenda.com`
+        - `https://archicad.plugins.bimsync.com`
+    - Navisworksプラグイン
+        - `https://navisworks.plugins.catenda.com`
+        - `https://navisworks.plugins.bimsync.com`
+    - Teklaプラグイン
+        - `https://tekla.plugins.catenda.com`
+        - `https://tekla.plugins.bimsync.com`
+- 統合の使用について
+    - Solibri BCF Live コネクタ
+        - `https://bcf.bimsync.com/`
+        - `https://opencde.bimsync.com/`
+
+## **ポート:**
+
+**80:** このポートはオプションですが、ブラウザ内でのユーザーエクスペリエンスを最適にするために推奨されます。 プロトコル: TCP (hub.catenda.com および[www.hub.catenda.com](http://www.hub.catenda.com/)のみ)
+
+80 でリクエストを試みるクライアントは、ポート 443 で同等の暗号化された呼び出しを行うようにリダイレクトされます。
+
+**443:**
+
+プロトコル: TCP + UDP このポートでは、すべての Catenda Hub トラフィックが TLS で暗号化されます。
+
+UDP はオプションですが、互換性のあるブラウザやその他のクライアントが、プラットフォーム全体に展開している HTTP/3 (旧称 QUIC) などの HTTP プロトコルの高度な機能を活用できるため、最高のユーザー エクスペリエンスを実現するために推奨されます。
+
+# モデルアズドキュメント(Models as Documents)
+
+> **Note:** **移行のお知らせ：** この機能は2023年11月16日に完全にリリースされ、2025年2月24日からすべての新規プロジェクトおよび既存プロジェクトから有効になります。
+
+これまでは、IFCファイルをCatenda Hubの2つの別々の場所にアップロードすることが可能でした。
+
+ドキュメントとしてのモデル機能では、モデルファイルのためのこれら2つの場所が1つのシームレスな機能に統合されます。
+
+モデルセクションでモデルを作成すると、ドキュメントセクションにドキュメントがリンクされ作成されます。IFCドキュメントをアップロードした場合、「モデルの作成 」アクションボタンを使って、モデルセクションにモデルをリンクし、作成することができます。
+
+この機能により、モデルセクションのモデルはドキュメントのように扱うことができ、ドキュメントセクションのモデルはモデルのように扱うことができます。
+
+この記事では、次のトピックについて説明します。
+
+[リンク](#h_d0205797b7) - [モデルの作成](#h_e114ffceb6) - [アイコンバッジ](#h_40f14b7e01) - [削除](#h_eb4bcb7389) - [利点](#h_c2ab781496)
+
+**リンク**
+
+モデルとドキュメントは相互にリンクされます。
+
+これは、AutoCAD の xRef ドキュメントや InDesign のハイパーリンクドキュメントのようなものと考えることができます。
+
+**ドキュメントにリンクされたモデル**
+
+モデルを作成すると分かるかと思いますが、ドキュメントセクションのモデルフォルダにもドキュメントが作成されます。
+
+モデルを作成して生成された新しいドキュメントがプロジェクト設定のどこに置かれるかを指定できます。
+
+**モデルにリンクされたドキュメント**
+
+同様に、IFCをフォルダにアップロードし、右側のパネルのハンバーガーメニューで「3Dにプロモート」すると、
+
+IFCがモデルにリンクされ、モデルセクションにアップロードされたかのように処理されます。
+
+**モデルの作成**
+
+モデルは 2 つの方法で作成できます。
+
+**①モデルセクションからモデルを作成**
+
+モデルセクションのcreate modelボタンでモデルを作ると、documentsセクションの「models」というフォルダに空のドキュメントが追加されます。
+
+ドキュメントモデルは、このフォルダからアクセスできるドキュメントセクションの任意の場所に移動でき、必要に応じてモデルフォルダを削除できます。
+
+新しいドキュメントを別の名前のフォルダに入れたい場合は、[support@catenda.com](mailto:support@catenda.com) に問い合わせるか、右下の黒いチャットバブルからお問い合わせください。
+
+**②ドキュメントセクションからモデルを作成**
+
+これを行うには、ドキュメントのハンバーガーメニューからモデルを作成します。
+
+![](https://downloads.intercomcdn.com/i/o/860970534/7d3302670d3ad785d38efdce/image.png?expires=1781092800&signature=31844ac2f561a1789417c2888b545e9997afaf71eecd0498a10af5f97146edb7&req=fCYnH85%2BmIJbFb4V1XW4gfte99Ryx8luPmFQsgt3iE51qa9x%2Bf1VeYrnvxvW%0AroepgI%2Bmq8nMoC9AJQu9m82s2w%3D%3D%0A)
+
+これを行うと、モデルセクションにドキュメントがモデルとして表示されます。
+
+代わりに、モデルに対する新しいリビジョンをリビジョンとしてドキュメントに追加できます。
+
+**手記：**つまり、モデルを1つずつアップロードする代わりに、複数のIFCファイルから同時にモデルを作成できます。
+
+**ドキュメント モデル アイコン バッジ**
+
+ドキュメントモデルには、アイコンにモデルバッジが付きます。
+
+![](https://downloads.intercomcdn.com/i/o/811879911/aaf93b647d7a0d7fc7ed6a97/image.png?expires=1781092800&signature=d85d765520058c1439e55163e2fea82d540890b90710aefaed4d0147309ee130&req=fCEmHs53lIBeFb4V1XW4gccdxCQn6BnPwtMJ4ulKi%2Bha5TuhRRWaS4b3SwSd%0Ae5lEzyJ0AdLKyME26LS0NqHi4w%3D%3D%0A)
+
+**削除**
+
+モデルとドキュメントは、次の 2 つの方法で削除できるようになりました
+
+**モデルドキュメントの削除**
+
+ドキュメントに接続されているモデルを削除すると、ドキュメントはモデル接続を失いますが、ドキュメントはドキュメントセクションに残ります。
+
+**ドキュメントモデルの削除**
+
+モデルに接続されているドキュメントを削除する場合は、ドキュメントに接続されているモデルも削除されるという警告を承認する必要があります。
+
+**手記：**つまり、データを失わずにモデルを削除できます。(削除したドキュメントは復元可能)
+
+**利点**
+
+この機能の利点は、次のことができることです。
+
+- 複数のモデルを2Dで開くには、ドキュメントセクションでモデルを選択し、上部の2Dボタンをクリックします。
+- 1 つずつではなく、一度に複数のモデルを削除する
+- IFCモデルをフォルダ構造で構造化します。
+- モデルにラベルを追加する
+- モデルセクションでモデルを表示できるユーザーのACLを構成する
+- モデルドキュメントを表示するには、少なくともドキュメントモデルへの読み取りアクセス権が必要です。
+- すべてのモデルまたはモデルなしではなく、誰がどのモデルにリビジョンをアップロードできるかのACLを構成します。
+- 新しいリビジョンをモデルにアップロードするには、少なくともドキュメントモデルへの書き込みアクセス権が必要です。
+- 誰がどのモデルをダウンロード／アップロードできるかのACLを構成する
+- モデルをダウンロードするには、少なくともドキュメントモデルへの読み取りアクセス権が必要です。
+- IFCファイルを下書きとしてアップロードして、公開前に承認プロセスを実行できるようにします。
+- 命名規則機能は、モデル名に使用できます。
+- モデルは、ドキュメントセクションから直接3Dビューアで開くことができます。

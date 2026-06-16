@@ -1,0 +1,2415 @@
+# Catenda Help Center
+
+> Product documentation for Catenda — BIM collaboration for the built environment.
+
+# Trinn 1 - Oppsett av konto
+
+> Opprett konto og bli invitert til et prosjekt
+
+Catenda sender deg en invitasjon via e-post med en lenke til de neste trinnene i registreringen. Ved hjelp av denne lenken kan du opprette en konto med din personlige legitimasjon.
+
+![](https://downloads.intercomcdn.com/i/o/981880493/1e42cd4f7fc6d79022df3e51/image.png?expires=1781092800&signature=46043e24706033d74f5935193bc2fc8f46f34d8d30544e6ba87a1a91ec107c55&req=fSgmHsF%2BmYhcFb4V1XW4gQT3FVIF1Y9uXhF5l%2FBFxxgJA7C6d6QOtBGZK7OC%0ANApHoVUK5GtCpAXOnuYm2psKGw%3D%3D%0A)
+
+Etter at registreringen er fullført, kan du få tilgang til prosjektene dine på Catenda Hub fra hvilken som helst nettleser.
+
+[https://hub.catenda.com/signin](https://hub.catenda.com/signin)
+
+> **Note:** Finn trinn 2 i å komme i gang på hjelpesenteret eller i hjelpemenyen.
+
+# Multi Factor Autentisering
+
+Du vil kunne finne **Multi Factor autentisering** (MFA) innstillinger på [autentiserings siden](https://support.catenda.com/nb/articles/6880968-konto-siden#h_76f92e4ed6) som er en underside til konto [konto siden](https://support.catenda.com/nb/articles/6880968-konto-siden).
+
+**Multi Factor autentisering** (MFA) kerver at en kode føres inn som du mottar via din mobile enhet i tillegg til ditt brukernavn og passord ved pålogging til Catenda Hub. Når en organisasjon påkrever MFA er det dette påført på et organisasjonsnivå. Alle prosjekter som tilhører organisasjonen vil da kreve MFA tilgang til deres prosjekt. Dette vil tvinge alle brukere til å koble på MFA for å få tilgang til prosjektene som tilhører organisasjonen.
+
+Denne siden inneholder informasjon om følgende temaer:
+
+**[Koblle på](#h_213609947a) - [Endre](#h_a16919fe4f) - [Overføre](#h_c713e78e85) - [Koble av](#h_904d6dabed) - [MFA på PC](#h_647325db79) - [Påkreve](#h_f85000e386)**
+
+## **Koble på MFA**
+
+Logg på Catenda Hub og gå til [konto siden](https://hub.catenda.com/account/profile):
+
+![](https://downloads.intercomcdn.com/i/o/710942054/f2239e2186f2107afadd66a3/image.png?expires=1781092800&signature=f38bc42351fd302ec7396fa6cf12192e80e28a0d7f3432cf1ef011332c36b874&req=cyEnH818nYRbFb4V1XW4gc7BaZEBKtWdCLphfgCiOK%2Bew%2FThhA88vrm%2FPJq5%0APAs7mDo6nKHLBwYjCUY3Kyp9%2Bg%3D%3D%0A)
+
+1. Klikk på [Autentiserings undersiden](https://support.catenda.com/nb/articles/6880968-konto-siden#h_76f92e4ed6):
+1. Scroll ned til MFA dalen
+1. Klikk på **Aktiver MFA**
+
+![](https://downloads.intercomcdn.com/i/o/710944230/ebe37c5fb2379afe1d58d515/image.png?expires=1781092800&signature=bb1b215bf932a3da6fd9efd65031aa089830c4fa92090872b305802d5370aa61&req=cyEnH816n4JfFb4V1XW4gTVsh%2FWNq4RWV4OD%2BiH2LjOrUp6WWcpjxhq9folB%0A%2BuwHJKhvj1SGgt1qEKhqKE8VEQ%3D%3D%0A)
+
+### **Autentiseringsapp**
+
+Du vil måtte installere en autentiseringspapp som du stoler på på din mobile enhet.
+
+Vi anbefaler [Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en) og [Microsoft Authenticator](https://www.microsoft.com/en-us/account/authenticator) appene men du kan teoretisk bruke enhver applikasjon som støtter påkobling av MFA / Two factor authentication
+
+**App tilganger**
+
+For å kunne scanne QR koden med ditt kamera vil du måtte gi din autentiseringsapp tilgang til kameraet op din enhet.
+
+Når du installerer applikasjonen vil du bli spurt om du ønsker å gi kameratilganger bare når du bruker appen, spør hver gang eller ikke tillat.
+
+Hvis du valgte spør hver gang vil du bli spurt for tilgang hver gang hvor du kan si ikke tillat som skrur av tilgangen for appen.
+
+**Google Authenticator**
+
+Klikk på pluss knappen nederst til høyre og Scan en QR code.
+
+Her vil du scanne QR konden som [autentiseringssiden](https://support.catenda.com/nb/articles/6880968-konto-siden#h_76f92e4ed6) gir deg.
+
+Alternativt kan du bruke kameraet for å scanne koden og skrive inn setup key som du ser i URL som åpnes.
+
+**Microsoft Authenticator**
+
+Pass på at du er på Authenticator menyen nederst.
+
+![](https://downloads.intercomcdn.com/i/o/825376957/d0ca2f4ff3122f26c2dd335e/image.png?expires=1781092800&signature=be1fcb59fb1bfa4b45e2cd97b6ea4639f51a97ac61ba103a8b19816235d2ee72&req=fCIiFc54lIRYFb4V1XW4gStU4QZFJuspH3Amx6IfbI1PH8Ta9AUUSD4f5PCO%0AAP4KnLWAE5JAwe0UK5S1t71eeA%3D%3D%0A)
+
+> **Note:** **Merk:** Pass på at du ikke er i Verified IDs menyen etter som du kan scanne en qr kode her men dette vil ikke fungere.
+
+Videre, klikk på pluss knappen i den blåe bjelken øverst til høyre.
+
+Selecter Other account (Google, Facebook, etc.)
+
+Hvis din app ikke har tilganger til ditt kamera kan det hende at du blir spurt om å gi tilgang til ditt kamera.
+
+Hvis din app har tilgang til ditt kamera kan du scanne QR koden som [autentiseringssiden](https://support.catenda.com/nb/articles/6880968-konto-siden#h_76f92e4ed6) gir deg.
+
+Hvis appen ikke har tilgang til ditt kamera vil du bli spurt om å manuelt lage en konto.
+
+![](https://downloads.intercomcdn.com/i/o/1073587443/5a6dda006a38943a4c11fc28/image.png?expires=1781092800&signature=6859b1a2a4081eacf5fe3e3b2cbc8cbc20fe23ba599c13b94523c6aef1a0d697&req=dSAgFcx2moVbWvMW3nq%2BgQ2uGk1EdfhU4hASnzRRD%2FCNPzlrB1T21b5PfCNs%0AoaOKhDzf4%2BW06huquS6IL07Iqqg%3D%0A)
+
+Account name: Navnet du gir til kontoen
+
+Secret key: Dette er nøkkelen di ville ha fårtt hvis du hadde scannet QR koden. Du kan bruke din kamera app for å scanne koden.
+
+URL som åpner opp når du scanner koden kan se ut noe som dette: `otpauth://totp/\<Catenda konto epost addresse>?secret=\<hemmelig næøkkel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30`
+
+Skriver inn koden etter "`secret=`" i URL som åpnes i secret key feltet.
+
+Kontonavn kan være hva du ønsker.
+
+> **Note:** **Merk:** Hvis du oppretter konto med feil hemmelig nøkkel vil appen lage engangspassord uansett så det kan hende Catenda ikke godtar koden hvis feil hemmelig nøkkel var brukt.
+
+### **Suksess eller feil**
+
+**Suksess**
+
+Etter at MFA koblingen er vellykket vil du se denne meldingen.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1278990979/c59adcb79ff50b83d8033567012f/image.png?expires=1781092800&signature=182c90e3d25c9d878c8438ca7666966d4526d30e07f659db14a7b04c70bbd115&req=dSIgHsB3nYhYUPMW3nq%2BgUqszxpod5dyIKfEaYTXklFljinW%2FXJpI%2BKOEkSH%0ARboyWe4asviqZJzxnej60YXmMNg%3D%0A)
+
+Så snart den er koblet vil du måtte ha din mobile enhet tilgjengelig hver gang du ønsker å logge inn på Catenda Hub.
+
+MFA kan skrus av igjen ved å klikke på Deaktiver MFA.
+
+**Feil kode**
+
+Om du ikke la inn riktig kode vil du få meldingen feil kode.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1278990977/a32126255de11e5dd081dbb2cd14/image.png?expires=1781092800&signature=399eb9649bed8ecc9bcc0dbb74ca49b0e0e17f80b348b27e156e93dd4e770a53&req=dSIgHsB3nYhYXvMW3nq%2BgXKvkZmZ9xp11h1Ky4RZuL2n58N9AFZ3OwKMnsJT%0ARn0aT7hlHvyeH%2F%2FKkbwScV4CNro%3D%0A)
+
+> **Note:** **Merk:** Om du har scannet QR-Koden kan du forsøke å skrive inn koden innen det gitte tidsrammet for koden igjen mens du har denne menyen åpent. Hvis du lukker menyen vil du måtte fjerne koden som genereres i din autentiseringsapp og scanne QR-Koden på nytt for å sette opp en ny kode kobling.
+
+## **Endre MFA**
+
+Etter å ha koblet på en MFA kode kan du på en sikker måte rediger kontonavn til koen.
+
+Du kan gjøre dette på følgende måter:
+
+**Google authenticator**
+
+1. Hold inn koden
+1. Klikk på blyanten øverst til høyre for å endre navnet.
+
+**Microsoft authenticator**
+
+1. Klikk på koden.
+1. Klikk på tannhjulknappen øverst til høyre.
+1. Klikk på blyanten for å endre navnet.
+
+## **Overføre MFA**
+
+**Deaktivere og reaktivere**
+
+Det er bare mulig å bruke en MFA app kode kobling av gangen.
+
+Hvis du ønsker å bytte til en forskjellige kode kobling, kanskjer fordi din gjeldende er kompromittert, kan du følge disse steg:
+
+Du kan også bruke denne metoden hvis du ønsker å endre appen du bruker for MFA.
+
+1. Deaktiver din MFA på [autentiseringssiden](https://support.catenda.com/nb/articles/6880968-konto-siden#h_76f92e4ed6)
+1. Gjør klar appen du ønsker å bruke for å koble på din MFA
+1. Generer en ny kode-kobling ved å scanne QR koden som i [påkoblingsavsnittet](#h_213609947a).
+
+> **Note:** **Merk:** Være forsiktig med denne metoden etter som din konto midlertidig vil være sårbar mens den er deaktivert og du vil ikke ha tilgang til prosjekter hvor MFA er påkrevd under denne tiden.
+
+**Overføre gjennom backup**
+
+Hvis du ønsker å starte å bruke en ny enhet uten at din kode midlertidig blir frakoblit kan du buke en annen installasjon til MFA appen og overføre koden fra den gamle installasjonen til den nye installasjonen.
+
+**Google authenticator**
+
+Gammel enhet:
+
+1. Tapp på aksjonsmenyen øverst til høyre
+1. Tapp på Export accounts
+1. Selekter kontoene du ønsker å eksportere
+
+Ny enhet:
+
+1. Tapp på aksjonsmenyen øverst til høyre
+1. Tapp på importer kontoer
+1. Tapp på scan QR kode
+1. Scan QR koden som er vist på den ganle enheten hvor du gikk gjennom eksporteringsprosessen.
+
+**Microsoft authenticator**
+
+Gammel enhet:
+
+1. Tapp aksjonsmenyen øverst til høyre
+1. Skru på backup
+
+Ny enhet:
+
+1. Installer og åpne Microsoft Autentiseringsappen på din nye enhet.
+1. Tapp "Begin Recovery."
+
+> **Note:** **Merk 1:** Still ikke inn noen konto ved å bruke Microsoft Authenticator til etter at du har brukt Recovery tool siden det bare vil overskrive eksisterende kontoer.
+
+> **Note:** **Merk 2:** Denne metoden krever at du lager en backup av dine MFA koder som betyr at de er lagre ti din app leverandørs skytjeneste. Bare bruk denne metoden hvis du stoler på din app leverandørs skytjeneste. Hvis ikke er det bedre å deaktivere og reaktivere.
+
+## **Koble av MFA**
+
+Du kan koble av MFA ved å klikke på Deaktiver kanppen vist over, for å så skrive inn ditt passord og godta. Etter å ha koblet av vil du ikke lenger ha tilgang til prosjekter som krever MFA.
+
+Etter å ha koblet av koden på Catenda Hub vil koden bli igjen på applikasjonen du koblet med. Denne koden vil nå være ubrukelig og kan slettes med sikkerhet.
+
+### **Hvordan å slette den gamle koden:**
+
+**Google authenticator**
+
+1. Hold inn koden
+1. Klikk på søppelikonet øverst til høyre.
+
+**Microsoft authenticator**
+
+1. Klikk på koden.
+1. Klikk på tannhjulsknappen øverst til høyre.
+1. Klikk på fjern konto
+
+## **MFA på ikke-mobile enheger**
+
+Autentiseringskonto er mer sikre enn SMS/E-post kode løsninger siden det ikke er kommunikasjon som kan lekke ut i kommunikasjonen mellom to systemer etter den originale konfigurasjonen.
+
+Siden det er bedre å bruke en app på en mobil applikasjon, se notatet under, er det mulig å få MFA koder på andre system enn bare mobile enheter.
+
+Den anbefalte desktop applikasjonen for dette er [Authy](https://authy.com/).
+
+Funksjonsmessig bruker disse typer applikasjoner samme TOTP protokoll som appen på din mobile enhet og bør være like sikre.
+
+> **Note:** **Merk:** Desktop applikasjoner kan være mindre sikkert ettter som de kan være letter å hacke eller få tilgang til. Dette er fordi dekstop systemer ofte, hvis ikke alltid, er koblet på det lokale nettverket som kan være infisert. Mobile enheter som ikke llatid er koblet på nettverket kan derfor være vanskeligere å komme inn på.
+
+## **Hvem kan påkreve MFA på prosjekt?**
+
+Enterprise kunder kan be om at [organisasjonsvalget](https://support.catenda.com/nb/articles/8224886-organisasjonsvalg#h_aab0a5f0fa) for MFA skrus på. Dette valget gjør at alle brukere som er del av deres prosjekt må bruke MFA for å komme inn på prosjektet.
+
+For å skru på MFA for din organisasjon sine prosjekter, kontakt Catenda support. Når MFA er påkrevd for prosjektene til en organisasjon vil du se denne meldingen ved et forsøk på å åpne prosjektet.
+
+![](https://downloads.intercomcdn.com/i/o/710237963/cc33c301cac2faaeaf8abb7e/image.png?expires=1781092800&signature=0a241c1b7d754dac6ac7f3fbfb908a97d6aad26a98db0773434988edd6c61515&req=cyEnFMp5lIdcFb4V1XW4geDBTPE7FEI38r7z7CIHG0OMPqmboH9ClY59uD%2F2%0APKhzmnNJ76NXpaOhL%2BVeRBzIhw%3D%3D%0A)
+
+# Catenda Hub Archicad plugin
+
+> **Note:** **Merk:** Installasjonsfil for pluginnen er i denne [hjelpeartikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+
+Mer informasjon om denne pluginen kan bli funnet [her](https://intercom.help/bimsync-arena/en/articles/5519276-catenda-archicad-plugin).
+
+# Catenda Hub Navisworks plugin
+
+> **Note:** **Merk:** Installasjonsfil for pluginnen er i denne [hjelpeartikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+
+Catenda Hub add-in for Autodesk® NavisWorks® er det perfekte verktøyet for prosjekter som samarbeides i Catenda Hub. Alle dine saker er synkroniserte i samtid mellom NavisWorks og Catenda Hub, som lar deg lage, få tilgang til, dele, og kommunisere saker. Saksformatet er BCF slik at sakene kan bli delt på tvers av hvilket som helst BCF aktivert BIM programvare eller platform. Denne add-innen lar deg visualisere, skape, og redigere saker sømløst uten å forlate NavisWorks. Det er også mulig å laste ned og forbinde IFC modellen lagret i Catenda Hub  til din lokale klient.
+
+**Funksjoner inkluderer:**
+
+- Tilgang til alle dine Catenda Hub prosjekter
+- Filtrer og administrer saker på tvers av sakslister
+- Lag nye saker rett fra NavisWorks
+- Plasser saker i din NavisWorks modell
+- Lag et nytt 3D view for hver kommentar
+- Lag BCF saker fra konflikter funnet ved bruk av Clash detective
+- Tilordne saker til andre prosjekt medlemmer
+- Endre sak status og andre egenskaper
+
+## Cloud-based Collaboration
+
+Catenda Hub gir din konstruksjonsdata liv i et cloud-basert samarbeids platform som strekker seg over hele bygningens livssyklus. Catenda Hub behandler din prosjekt informasjon fra oppstart av prosjektering til overlevering og utover, forsikrer data og kunnskapsbevaring på tvers av alle prosjekt faser.
+
+## Åpne standarder
+
+Catenda Hub er et BIM samarbeidsverktøy som støtter alle buildingSMART standarder (IFC, bSDD, BCF, COBie). Det kommer med en rekke APIer for lett implementering av ditt eget programvare.
+
+[YouTube-video](https://www.youtube.com/embed/osHul8oKysE?rel=0)
+
+# Catenda Plugins og Integrasjoner
+
+> Koble Catenda på dine favoritt verktøy
+
+> **Note:** **Merk:** Catenda plugins og integrasjoner er tilgjengelig **[her](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)**.
+
+# Catenda Revit plugin
+
+### Samarbeid med BCF saker direkte fra Revit
+
+---
+
+### Innholdsfortegnelse
+
+[Nedlastingslenke](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)
+
+## Sette i gang
+
+Etter installeringen av pluginen, åpne opp en Revit modell og klikk på Catenda knappen i Add-ins.
+
+Logg inn med din epost-adresse og Catenda passord.
+
+![login.png](https://catenda-as.intercom-attachments-1.com/i/o/271057372/a5781e85ed63f78ab47da7a1/login.png?expires=1781092800&signature=297f465010efda5dad09950ecaf7f553ce6e5da5e27ca522d452d9d8d0b3892f&req=dicmFsx5noZdFb4V1XW4gf5EiA%2F8YtXOG8Yvdddsx0WvL6DM74M0%2FTFCNlKv%0AKFEvnmK2hUA0TQIjxpqLqmMJ5Q%3D%3D%0A)
+
+Klikk på "Allow access" for å gi Revit add-innen tillatelse til din Catenda konto. Dette kommer til å åpne hovedmenyen  av Catenda add-innen.
+
+![allowAccess.png](https://catenda-as.intercom-attachments-1.com/i/o/271057381/5ae64f89ca371f7ef59c22e1/allowAccess.png?expires=1781092800&signature=0ff7c8ce7485ae1138263fb8b30d477b65173e4e8c8f758734cf7cde9f7fe4c7&req=dicmFsx5noleFb4V1XW4gTeOTqM%2F9aNlKYM7gPNaYUZHxS6%2BFfy2A8fOXh9o%0AysO1wp6YNTHettEe9QjmRrbIEw%3D%3D%0A)
+
+Du kan oppheve tilgang til din Catenda konto når som helst ved å gå til din [Catenda applikasjoner](https://bimsync.com/account/apps) side og klikk på "opphev tilgang" nærme "Revit plugin for Catenda Hub".
+
+## Saksliste
+
+På denne siden finner du hovedmenyen for å navigere ditt Catenda prosjekt, saksliste og saker.
+
+### Grensesnitt
+
+![Header.png](https://catenda-as.intercom-attachments-1.com/i/o/271057390/4c89286cb715f52e3d783b6c/Header.png?expires=1781092800&signature=398d9921638cb23a9d50c7799d1535c1416647367ab528baff78db4609a2db32&req=dicmFsx5nohfFb4V1XW4gdJZzGffSByllQENCKlZyob%2BST4NNuZ5cUksJz12%0AkCAA%2F3Kfd2Td0zxjhk75Iy1JGg%3D%3D%0A)
+
+1. Selekter ditt Catenda prosjekt
+1. Selekter en saksliste i dette prosjektet
+1. Lag en ny sak i sakslisten som nå er selektert
+1. Sorter sakene som nå vises
+1. Åpne Catenda add-in menyen
+1. Søk og filtrer sakene som vises
+1. Listen av sakene som nå er filtrert i sakslisten
+
+### Prosjekt og saksliste seleksjon
+
+Når et Catenda prosjekt selekteres vises listen av sakslister i dette prosjektet. Her kan du selektere en saksliste og vise tilsvarende saker. Det vil også lagre Catenda prosjektet og sakslisten i din Revit modell og åpne de automatisk neste gang du åpner denne modellen.
+
+![ProjectInfo.png](https://catenda-as.intercom-attachments-1.com/i/o/271057405/d5c967a0ac3f187ed30e592e/ProjectInfo.png?expires=1781092800&signature=386793ccce6b13fc42734e390919e84f4deae21c7108c6295a15d81514bf3e62&req=dicmFsx5mYFaFb4V1XW4gRm1PmqxAGtl3%2B%2FHwntEbjzXIM38AKKVyKa%2F6w2%2B%0AYYuDnmzT7GAy081dJNb9XwINjA%3D%3D%0A)
+
+### Catenda Add-in Meny
+
+![Menu.png](https://catenda-as.intercom-attachments-1.com/i/o/271057418/ee944c802a6309a74f33db9b/Menu.png?expires=1781092800&signature=c89e8311ef022c706f61f0e57803e273c0ac358066e60f8784ba96c7f2a0e9e4&req=dicmFsx5mYBXFb4V1XW4gQzKBuzsr2CyN%2Fnh2PIwIqVLxc0xU6FqznGgZL7M%0AuAbb1OQ1WNOyULgSw5XMNMLTRA%3D%3D%0A)
+
+1. Gå til [Upload page](https://support.bimsync.com/settings/)
+1. Åpne [Settings page](https://support.bimsync.com/upload/) siden
+1. Åpne din [Catenda konto](https://bimsync.com/account/profile) i din standardnettleser
+1. Logg ut av din Catenda konto
+
+### Sak seleksjon
+
+I sakslisten finner du all hovedinformasjon om en sak.
+
+![IssueInformation.png](https://catenda-as.intercom-attachments-1.com/i/o/271057430/b7ff7c9fbe84070886d3a8d1/IssueInformation.png?expires=1781092800&signature=c53aae35527c7007ce3eb50a8a24711f2b691768f50bc8d79fd9ea84574f8d2d&req=dicmFsx5mYJfFb4V1XW4gdR4asNMTREAa9XFso04p8lcYoFr%2FwHL3NLRTInv%0A1jWG0ezJZBCXENEXQ%2BgiIXt12w%3D%3D%0A)
+
+1. Overskriften av saken
+1. Sakens Status (Åpen, Lukket, ...), sakens type (Info, Error, ...) og sakens merkelapper
+1. Medlemmet som har etterspurt saken
+1. Medlemmet saken er tildelt til
+1. Tidsfristen til saken
+1. Når saken var oppdatert sist. Musen kan holdes over datoen for å vise hele datoen og tiden saken ble oppdatert på.
+1. Antall kommentarer i saken.
+1. Bildet av den første kommentaren i saken.
+1. Catenda saksnummer
+
+Du kan klikke på enhver sak og gå til [saksdetalj siden](https://support.bimsync.com/details/).
+
+### Sorter saker
+
+Du kan sortere sakene som vises for å vise den mest relevante saken først.
+
+![sort.png](https://catenda-as.intercom-attachments-1.com/i/o/271057451/fb357bec83c8956704deae79/sort.png?expires=1781092800&signature=ea425764742d9930a95300ee8e5f6d0c9e0fa256b003f474914c0741b18fdb50&req=dicmFsx5mYReFb4V1XW4gT%2B13LsRxEUPmlQfZv3sjEb%2BML9mU9vFTnz5kkfm%0A0k9uZ1VT5wjYYYZclHUqfEmqgA%3D%3D%0A)
+
+1. Ta frem saken som er laget mest nylig først
+1. Ta frem den eldste saken først
+1. Ta frem den saken som er mest nylig oppdatert først. Oppdatering av en sak kan involvere endring av dets egenskaper, tittel, kommentar, ...
+1. Ta frem den minst nylige oppdaterte saken først
+1. Ta frem saken som har den nyeste fristen først
+1. Ta frem saken som har den eldste fristen først
+
+### Filtrer saker
+
+Ved bruk av søk eller filter søkefeltet kan du kombinere enhver type filter for å bare vise de mest relevante sakene.
+
+Nåværende filtre er vist som små biter i søk eller filter feltet. Bare saker med statusen "Open" vises her. Klikk på søk eller filter feltet for å vise alle tilgjengelige filtre (**1**).
+
+![AvailableFilters.png](https://catenda-as.intercom-attachments-1.com/i/o/271057465/dca0f372d3079b533e97f07d/AvailableFilters.png?expires=1781092800&signature=2937dd748d88ea532d09f3f9e426c1b9008821cfec83580ec2370d8002f81d94&req=dicmFsx5mYdaFb4V1XW4geFY5BRsvWPSg9usF7qX6fIC4uXR7L%2FUG6sF4YSg%0AyTcPCOqtOOdaLMiNz50OKuZ4nw%3D%3D%0A)
+
+På venstre side (**2**) er navnet til filteret, hvert filter tilhører en type vist på høyre side (**3**).
+
+Tilgjengelige filter typer inkluderer:
+
+- Requested By:  Få alle saker etterspurt av en gitt person
+- Assigned To: Få alle saker tilordnet til en gitt person
+- Due Date: Få alle forfalte saker eller saker som har sin frist i mindre enn en måned, to uker, en uke eller en dag.
+- Status: Få alle saker av en gitt status (Open, Closed, ...)
+- Type: Få alle saker av en gitt type (Error, Warning, Info, ...)
+- Label: Få alle saker med en gitt merkelapp
+- My issues: Få alle saker tilordnet eller etterspurt av deg
+
+Du kan søke på disse filtrene ved å skrive tekst i filter feltet (1). Du kan også bruke dette til å lage et tekst filter for å søke på en spesifikk tekst i sakstittelen eller beskrivelsen (2).
+
+![TextFilter.png](https://catenda-as.intercom-attachments-1.com/i/o/271057480/2be177ecffac2997cc141fdc/TextFilter.png?expires=1781092800&signature=2386db399784ae98ddb528d6cd0deaa45a2398b14e54910c611fb93379e55396&req=dicmFsx5mYlfFb4V1XW4gSM6SuMG1ZK5apozzDNWfyuC3uP1OUqEeVPZ69RH%0AGj5bgz6enFyjJ7wxdITVLa0wMg%3D%3D%0A)
+
+## Saksdetaljer
+
+I denne menyen kan du se over og redigere en spesifikk sak
+
+### Grensesnitt
+
+![IssueDetailView.png](https://catenda-as.intercom-attachments-1.com/i/o/271057491/79afbc3ef7ce0c15873df501/IssueDetailView.png?expires=1781092800&signature=f2e7442fee9ae413f8eb95409559531f1aaca167f4eabb699a9e9d56246fff4b&req=dicmFsx5mYheFb4V1XW4gSFXI3%2BvDPw6wgPRIZvJKvxvthS00%2FyXss67f8M9%0ARYrGyKVnqF6eLS9gS7AXZUqrfg%3D%3D%0A)
+
+1. Gå tilbake til sakslisten
+1. Last inn innholdet til denne saken på nytt
+1. Naviger mellom saker
+1. Angi saksstatusen (Open, Closed, ...)
+1. Angi sakstypen (Open, Closed, ...)
+1. Angi sakens tidsfrist
+1. Angi medlemmet som saken er tilordnet til. Du kan tilordne en sak til en individuell bruker eller et team.
+1. Angi medlemmet som etterspør denne saken. Du kan angi en individuell bruker eller et team.
+1. Endre på saksmerkelapper
+1. Listen av kommentarer til saken
+
+### Saksegenskaper
+
+Du kan endre enhver egenskap av saken: Status, type, tilordnet medlem, medlemmet som etterpør saken, tidsfristen, merkelapper. Hvert meny kommer til å vise en liste av mulige egenskaper. Du kan imidlertid ikke lage en ny status, type eller merkelapp fra pluginen direkte. For å gjøre det kommer du til å måtte bruke nettlesergrensesnittet i Catenda Hub
+
+Du kan klikke på tittelen for å redigere den:
+
+![editTitle.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057512/21c141c1541f63690631da29/editTitle.gif?expires=1781092800&signature=965177505386e37ead1d52eb4368e03042120dea9818ea66f34d242f34fb52b0&req=dicmFsx5mIBdFb4V1XW4gdsm2hWG%2Fwl8kOb0IoyGp7Lb6FQpthhfDM1DAgUe%0AjAGScMF0eOrJHXq6o1FQ5EVqkA%3D%3D%0A)
+
+Du kan klikke på penn ikonen for å endre beskrivelsen:
+
+![editDescription.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057517/2d1ce4d4cc037867ee4e35ab/editDescription.gif?expires=1781092800&signature=c2e7caac9ab7a00a5eca6bdccab082fe55212ccc8beb3a8e5177f44b9c234ad3&req=dicmFsx5mIBYFb4V1XW4gXDKqbWOBWJPzIRVhgUj0dBio0IRqutKKGgQ5ejS%0AwYIIKG%2BGXDiwPAXjvA81kttWYA%3D%3D%0A)
+
+Du kan også skrive tekst i merkelappfeltet for å skranke inn antall merkelapper som angis
+
+![editLabels.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057525/66fb261901258f426d78ed07/editLabels.gif?expires=1781092800&signature=ece9633dc25d334ac0861298acf82cfa9f639d524271e942f7905ceec3da5655&req=dicmFsx5mINaFb4V1XW4ga5g5rPdNhQoS6XvU%2BWN1wgNas4OMzwmmPHNXaA4%0A3vf35gsrXfVMDKaYVqGZAAbLyQ%3D%3D%0A)
+
+### Kommentarer
+
+Alle kommentarer er vist under saken.En kommentar kan inneholde tekst, et bilde, en snapshot fra din Revit current view eller fra et viewpoint.
+
+![CommentDetail.png](https://catenda-as.intercom-attachments-1.com/i/o/271057536/9325f079fe14f96f00705e9e/CommentDetail.png?expires=1781092800&signature=91dde4304c6e0dc4fd2bf414887c20572e4d8ffddcb763ed7926075ae08bf3be&req=dicmFsx5mIJZFb4V1XW4ga6SjKf%2B620sxyBzLTXhvue9HFKqijUsKUkCKBYN%0ADy46gCv5S8At3KCqm%2FmXUbS3ug%3D%3D%0A)
+
+1. Skriveren av en kommentar.
+1. Når kommentaren var laget. Du kan holde over datoen for å vise hele datoen og tiden av oppdateringen.
+1. [Zoom knappen](#h_2d7ced41b1)
+1. Bildet som er tilknyttet kommentaren.
+1. Kommentarens tekst
+
+### Zoom
+
+Hvis kommentaren inneholder et viewpoint kan du zoome til dette viewpointet. Zoom inn lager et nytt 3D view i din Revit modell fokusert på samme viewpoint.
+
+![zoom.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057548/9d9fe9919df91218a67da3c0/zoom.gif?expires=1781092800&signature=5463c5f22fbaf2672307d762ec830b32e5cee1863221ba22cf90f86d66681896&req=dicmFsx5mIVXFb4V1XW4gaqoxrS2VdKTOwPK4luQw0J1Fl%2BV6KX18FrZrbH1%0AEjbssd%2Buq4zSkffXF7ShOJsr1Q%3D%3D%0A)
+
+For at viewpointet skal være relevant må du ha åpnet den samme modellen som modellen hvor kommentaren var laget. Pluginen antar at delte koordinater var brukt ved eksport av modellen til IFC.
+
+Hvis viewpointet er laget fra et perspektiv vil det nye 3D viewet ha sin projection mode satt på "Perspective". Ellers vil projection mode være "Orthographic".
+
+Add-innen vil bare lage ett perspektiv view og ett ortografisk view. Etter å ha laget de vil det gjenbruke de for noen senere bruk av zoom funksjonen. Du kan endre det i Setting menyen. Du kan også bruke setting menyen for å endre navnene til disse viewene.
+
+### Relaterte elementer
+
+Hvis saken inneholder relaterte elementer vil add-innen selektere de i Revit når du zoomer til et viewpoint.
+
+![relatedElements.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057554/6bd0da3738f53dabb2d7d8a1/relatedElements.gif?expires=1781092800&signature=fdb950a485e5b5382eccc17168479a59b0a84a1cf1dbd584fd2c7c2645087e11&req=dicmFsx5mIRbFb4V1XW4gVuI28nvUFVKaeEDIAWirSctywr3R%2BPdf00tJdh%2F%0A4bCEn51Ofi2XTF0eB0z8gwdCng%3D%3D%0A)
+
+For at denne funksjonen skal fungere må din Revit modell ha vært eksportert til IFC med "Store the IFC GUID in an element parameter after export". Dette legger til IFCGuid parameteren på hvert objekt som lar plug-innen selektere relaterte elementer.
+
+### Legg til kommentar
+
+Du kan legge til kommenterer ved å skrive i tekst boksen og klikke på Submit.
+
+Du kan også legge til et bilde fra din pc ved å klikke på "pluss" knappen. Du kan annotere dette bildet ved å klikke på det forhåndsviste bildet etter å selektere det.
+
+![createComment.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057571/f8f1dc5e036c662975947091/createComment.gif?expires=1781092800&signature=68bce4ffbe99bef48e57e2f1fd1b9bf9bde107721eb4a337726692cec11c8bdb&req=dicmFsx5mIZeFb4V1XW4gZKf2ehIb4n%2FwGDxr6nuV%2F6fsbU1Y1R3tv6shUx9%0ATTe5DUj7214%2BrSRyVUcIT6Wz1w%3D%3D%0A)
+
+### Legg til 3D snapshot
+
+Du kan også legge til ditt nåværende Revit view som et viewpoint og en snapshot vedlagt til din kommentar. Akkurat som ethvert bilde kan du annotere snapshottet ved å klikke på det forhåndsviste bildet.
+
+Hvis IFCGuid parameteren finnes vil selekterte elementer i Revit bli lagt til på din sak som releterte elementer.
+
+## Last opp til Catenda Hub
+
+Du kan laste opp din nåværende Revit modell direkte til Catenda Hub som en IFC fil.
+
+Etter å ha åpnet siden for opplasting:
+
+1. Selekter Catenda Hub modellen hvor du kommer til å lage en ny revisjon
+1. Skriv en kommentar som er tilknyttet opplastingen
+1. Selekter en IFC konfigurasjon. En ny konfigurasjon kan bli laget i IFC export menyen i Revit. Du kan også selektere \<Catenda setup> for en konfigurasjon som er lett å bruke og som passer egner seg bra til Catenda Hub.
+1. Klikk på Last opp.
+
+![Upload.png](https://catenda-as.intercom-attachments-1.com/i/o/271057594/f30c8ec7bd7dcee7981335be/Upload.png?expires=1781092800&signature=cc88c8d4ad9c2be9021a1874c63e5a851dcac6e8f5e83b1cf056336ee91e85b8&req=dicmFsx5mIhbFb4V1XW4gUMolMmmCG3Scopf5A65ZAuQiZFH%2BYsrZM3v6lXg%0AjOA4DEd6Zl00piOpAaFnWJec7Q%3D%3D%0A)
+
+```
+selectedConfig.Name = "<catenda Setup>"; selectedConfig.IFCVersion = IFCVersion.IFC2x3CV2; selectedConfig.SpaceBoundaries = 1; selectedConfig.ActivePhaseId = ElementId.InvalidElementId; selectedConfig.ExportBaseQuantities = true; selectedConfig.SplitWallsAndColumns = false; selectedConfig.VisibleElementsOfCurrentView = false; selectedConfig.Use2DRoomBoundaryForVolume = false; selectedConfig.UseFamilyAndTypeNameForReference = true; selectedConfig.ExportInternalRevitPropertySets = true; selectedConfig.ExportIFCCommonPropertySets = true; selectedConfig.Export2DElements = false; selectedConfig.ExportPartsAsBuildingElements = true; selectedConfig.ExportBoundingBox = false; selectedConfig.ExportSolidModelRep = false; selectedConfig.ExportSchedulesAsPsets = false; selectedConfig.ExportUserDefinedPsets = false; selectedConfig.ExportUserDefinedPsetsFileName = ""; selectedConfig.ExportLinkedFiles = false; selectedConfig.IncludeSiteElevation = true; selectedConfig.UseActiveViewGeometry = false; selectedConfig.ExportSpecificSchedules = false; selectedConfig.TessellationLevelOfDetail = 0; selectedConfig.StoreIFCGUID = true; selectedConfig.ExportRoomsInView = true;
+```
+
+## Egenskaper
+
+Egenskap siden lar deg endre hvordan plug-innen vil lage 3D view ved bruk av Zoom funksjonen.
+
+![settings.png](https://catenda-as.intercom-attachments-1.com/i/o/271057604/1cee82a8f305a0d35f7f853d/settings.png?expires=1781092800&signature=432f109f76327ae1de8e61c9d5b0120651d34c03d57417b0179c4d531aef90b9&req=dicmFsx5m4FbFb4V1XW4gcRriCynrvHqrP%2FRjaaOXokDYU3Acq2y94SVQoch%0AlhokgwuEAuLBoS4fbslafxBxaA%3D%3D%0A)
+
+1. Hold 3D viewet ortografisk. Dette valget vill tvinge Revit 3D viewet til å bli ortografisk selv om det tilsvarende viewpointet har blitt laget med et perspektiv view.
+1. Lag et nytt view for hver sak. Istedet for å gjenbruke det same 3D viewet hver gang du bruker zoom funksjonen vil dette valget lage et nytt 3D view for hver sak hver gang du bruker zoom funksjonen.
+1. 3D view navn endelse. Denne teksten blir lagt til navnet av 3D viewet laget når zoom funksjonen blir brukt.
+
+# Verktøy for innleggformatering
+
+> Slik formaterer du felt der innlegg kan opprettes
+
+De samme formateringsreglene gjelder for de ulike innleggene rundt omkring Catenda Hub.
+
+Innlegg kan inkludere emne beskrivelser, kommentarer godkjenning beskrivelser og godkjenning kommentarer.
+
+Variasjoner kan oppstå med den ulike tilgangen til hvem som kan redigere innlegget.
+
+Catenda bruker markdown til å formatere tekst.
+
+Dette betyr at visse tegn før og etter setninger vil påvirke stilen på teksten.
+
+Slik kan en emne overskrift og beskrivelse se ut etter at de er sendt inn:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142853925/ac356cf8aa82ab2d579f021fbb5a/image.png?expires=1779991200&signature=db379701aa782a795d0715249d2e131838f324a1adc1df5c4f091de05493201d&req=diEjFMF7nohdXPMW3nq%2BgeO5Gu4QTVbwiyiagSAGJYRM3jg%2FjBE06qW2yxJo%0Ah8KhRqQ6FpjyJBQAessFwOYLWgY%3D%0A)
+
+De følgende emnene vil bli beskrevet i denne artikkelen i denne artikkelen:
+
+_[Tilgjengelighet](#h_59aa7a2e3d) - [Vedlegg](#h_d1bcf0c9b0) - [Formatering av tekst](#h_b3cf161d9b) - [Dele opp og strukturere tekst](#h_b0799ba17b) - [Nevne medlemmer/team](#h_2481ad1c8c) - [Merking av emner](#h_282be07cfd)_
+
+## Tilgjengelighet for formatering
+
+Det er ofte mulig å se at innsendte felt kan formateres ved hjelp av verktøykassen som vises under feltet når feltet redigeres.
+
+> **Merk:** Zoom ut langt nok i nettleseren for å se alle verktøy. Formatering er tilgjengelig i følgende felt:
+
+### **Emne Beskrivelse og kommentar**
+
+Rediger beskrivelsen eller kommentaren til et eksisterende emne eller når du sender inn et nytt emne for å se verktøykassen:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142716774/e00776f86b3e5961148459c33a7b/image.png?expires=1779991200&signature=0e22d9a262f6ec8cc9ffd59b884be7ed21d8b5d927709293d35243a523fd2783&req=diEjFM5%2Fm4ZYXfMW3nq%2BgbCbYvmyhkqzs2jDl1gilk2Cc6xR6QmhVhC4KlhS%0ACdo6DkIGE0Ixwn%2FSMNbyKzybwrM%3D%0A)
+
+### **Beskrivelse av godkjenningsforespørsel**
+
+Selv om verktøykassen ikke vises i beskrivelsen av den nye godkjenningsforespørselsdialogen, blir formatering brukt på denne beskrivelsen.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142756009/c685a2145d819c521e9b89301e28/image.png?expires=1779991200&signature=a1394fe4b4d02e17d42e3e01c374d3f6632eb7073f1ffaaf21967e4f1f1de396&req=diEjFM57m4FfUPMW3nq%2BgXv%2FXso50VfU4OEek4DqeluKvN6IUb%2Fs7og0Rhc8%0A48b%2B0%2BiwKq5dFttZGJQJHxTwIPc%3D%0A)
+
+> **Merk:** Dette feltet kan ikke redigeres etter at godkjenningsforespørselen er sendt inn.
+
+### Beskrivelse av emnetavle
+
+Selv om verktøykassen vises i den nye beskrivelsen av emnetavlen, er det viktig å merke seg at beskrivelsen ikke formateres når tavlen sendes inn.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142743765/402182e2f1338dc3fb1929bba3cb/image.png?expires=1779991200&signature=d602bee7f2778397607b0ba3230f11c8c54bd3d37fc0c145263106ffbf43ccdd&req=diEjFM56noZZXPMW3nq%2BgWTJvB12fwkzGWwhaz5DPXa%2BsBXBYBDmT0SxeF%2Fe%0ASdziSiIf%2B5qLx8pvhZlyvl%2BRq40%3D%0A)
+
+## **Vedlegg i emnekommentar**
+
+I emnekommentarer er et vedleggsverktøy synlig.
+
+Klikk på +-knappen i et emne for å legge til et vedlegg.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2142827695/c7a30545e080d9d0bd9ee89cb50f/image.png?expires=1779991200&signature=f5f9fdcc7584b990c376a7c8977c5073d5bfff6da9fcd6b1a4dacb22367b612a&req=diEjFMF8modWXPMW3nq%2BgfoJa9V%2FF6CobGabe6rQFCVQI2kDswJq%2FdteSPD8%0Amh%2B8dJM45JEwNUzv7TnCV76TSTo%3D%0A)
+
+Klikk [her](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae) for å lese mer om kommentarvedlegg.
+
+## **Formatering av tekst**
+
+Følgende metoder lar deg formatere teksten din:
+
+_[Fet, kursiv, gjennomstreket](#h_c33379258a) - [Overskrifter](#h_ffb58d98de) - [Lenker](#h_4e7260972a) - [Forhindre formatering](#h_2ec17c688b)_
+
+### **Fet, kursiv, gjennomstreket**
+
+Fet, kursiv og gjennomstreket formatering kan gjøres hvor som helst på en linje og fungerer godt sammen med annen formatering som må være i begynnelsen av en linje. <img alt="**Dette vil være fet** **Dette vil også være fet** _Dette vil være kursiv_ _Dette vil også være kursiv_ **Dette vil være fet _kombinert med kursiv_** ~~Denne teksten vil være gjennomstreket~~" src="https://downloads.intercomcdn.com/i/o/areracg3/2142792258/413abae1f84003541985e219ba6a/image.png?expires=1774980000&amp;signature=2d6fe37d7b6194387af9777ef3fff90661568c1f4c9c671432a579a2eb3326f5&amp;req=diEjFM53n4NaUfMW3Hu4gT%2BWlpelLC%2FZyeDdX1yNHeLbkkEA7t04WYWBkBTX%0A2w%3D%3D%0A" width="290"/>   \<->   <img alt="Dette vil være fet​Dette vil også være fet​Dette vil være kursiv​Dette vil også være kursiv​Dette vil være fet kombinert med kursivDenne teksten vil være gjennomstreket" src="https://downloads.intercomcdn.com/i/o/areracg3/2142795125/2e54ab8ee52b65dc4705ce317a46/image.png?expires=1774980000&amp;signature=49a7d42096c9d732940db393c57d4c7f51d3675b98a4bc93ba2e4d2977de9468&amp;req=diEjFM53mIBdXPMW3Hu4gZqcrM4jhw7heqMaiz7UXJrKgwDtxdXRZOmHVQh5%0A%2Bw%3D%3D%0A" width="290"/>
+
+### **Overskrifter**
+
+Overskriftsverktøyet legger til hastags/kryss til begynnelsen av linjen.
+
+Det er 5 nivåer av overskrifter som støttes:
+
+Formateringen som overskriften får, er avhengig av antallet hastags/kryss (`#`) som er i begynnelsen av linjen. <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/2142774211/4d966269824f2314e3685bf574d2/image.png?expires=1774980000&amp;signature=deb6ed14712f57d0d4b0c53ec1279375556850bf32c8840e20badb8d373516f3&amp;req=diEjFM55mYNeWPMW3Hu4gYpCJPwCMzegJvhdZHHTxaYqo1q9T5nZ7c27Xhfd%0A9g%3D%3D%0A" width="290"/>   \<->   <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/2142782676/88eae0f146164d95cf6bc94bb9d9/image.png?expires=1774980000&amp;signature=41447ae0185c19ef09c816795ecb067042f94fcc6a970d0590590458ea2848e5&amp;req=diEjFM52n4dYX%2FMW3Hu4gXMRNm2JOBxeB8KI3qP4itWZAkDmJ%2BtQeqYn168Q%0AwQ%3D%3D%0A" width="290"/>
+
+### **Lenker**
+
+Lenkestil kan gjøres hvor som helst på en linje og fungerer godt sammen med annen formatering som må være i begynnelsen av en linje.
+
+Lenker i beskrivelser vil være grønne og understreket.
+
+Teksten deres kan være annerledes enn URL-en som lenken peker til.
+
+URLer blir automatisk gjort om til klikk bar lenker
+
+```
+https://hub.catenda.com
+```
+
+vil bli
+
+[https://hub.catenda.com](https://hub.catenda.com)
+
+og
+
+```
+[Catenda Hub](https://hub.catenda.com)
+```
+
+vil bli:
+
+[Catenda Hub](https://hub.catenda.com)
+
+> **Merk:** Vær forsiktig når du klikker på lenker fordi selv om teksten [fra parentesene] kan vise en lenke, kan den faktiske lenken (fra parentesene) være annerledes. Det anbefales å holde musen over en lenke og se hvor nettleseren vil omdirigere til før du klikker på en lenke.
+
+### **Forhindre formatering**
+
+Ved å pakke ord i tegn som ikke er bokstaver eller tall, kan du få dem til å se annerledes ut.
+
+Dette er ikke alltid ønsket.
+
+Hvis du setter en `\\` foran et slikt tegn, vil `\\` forsvinne.
+
+All formatering som ville ha blitt brukt på disse tegnene vil da slutte å fungere.
+
+Hvis du setter en `\\` på en tom linje som ikke er del av en [liste](#h_6da4949f8c), vil resultatet fortsatt være en tom linje.
+
+## **Dele opp tekst og legge til struktur**
+
+Følgende metoder lar deg forbedre teksten din ved å dele den opp og legge til struktur:
+
+_[Bilder](#h_addf8ad509) - [Lister](#h_6b17294b71) - [Skillelinjer](#h_fdecb8577b) - [Sjekklister](#h_d0007452e5) - [Tabeller](#h_20306a720d) - [Kodeblokker](#h_0ca602daeb) - [Markdown](#h_750fef10e8)_
+
+### **Bilder**
+
+Bilder i beskrivelser kan ha en lenke knyttet til seg.
+
+For å bygge inn bilder kan du bruke denne syntaksen
+
+```
+![tekst](https://bimsync.com/img/favicon/dark-mode/favicon-32x32.png)
+```
+
+for å få dette bildet med ordet tekst bak det.
+
+![tekst](https://downloads.intercomcdn.com/i/o/771763976/bbed60dfcfa022fd26770bb1/faviconV2.png?expires=1779991200&signature=9b05330d32d2ade5b70422cc84942dffa276d43efb8a48972f30cc0278d591fe&req=cycmEc99lIZZFb4V1XW4gaTV8ABi7RF2xk92u6a%2BtkN3rtUWh3uSMnp1R6NF%0ASJXjyML2HaJAl9pSz4Covc8%2Bew%3D%3D%0A)
+
+For at bildet skal vises korrekt, må Catenda ha tilgang til lenken som er angitt.
+
+> \+ Bildet kan legges til en beskrivelse \+ Bildet kan blandes med tekst slik at du kan ha tekst både før og etter bildet i de samme kommentarene eller beskrivelser. \+ Bilder som disse kan kombineres med tabeller og lister. For eksempel kan du legge til et hakemerkesbilde midt i en setning/tabell i stedet for formaterings avkrysningsfeltet som bare fungerer i begynnelsen av en setning \- Du kan ikke garantere at lenken til bildet forblir tilgjengelig i fremtiden. _Hente en Catenda bildedokumentlenke_ Hvis du høyreklikker på [nedlastingshandlingsknappen etter valg av et dokument](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) eller høyreklikker på [nedlastings siste revisjon handlingsknappen etter åpning av et dokument](https://support.catenda.com/en/articles/9323521-actions-in-a-document) kan du kopiere nedlastingslenken til dokumentet. Hvis du bruker denne lenken i emnet ditt som ovenfor, vil du kunne bruke Catenda dokumenter i emner. \+ Hvis du legger til en lenke til et Catenda bildedokument, kan du legge til bilder som bare vises på Catenda og ikke er tilgjengelig på andre plattformer som emnet kan utveksles med. \+ Ved å legge til lenker til et Catenda bildedokument kan bare personer med tilgang til dokumentet se bildet. \- Hvis du legger til en lenke til et Catenda bildedokument, vil det ikke være synlig på andre plattformer som emnet kan ha blitt synkronisert med og for personer som ikke har tilgang til dokumentet.
+
+### **Lister**
+
+_Uordnede lister _
+
+Start en uordnet liste med en tom linje over den, deretter enten bindestrek (`-`), pluss (`+`), eller en asterisk (`\*`) fulgt av et mellomrom.
+
+Sett inn 4 mellomrom eller et tabulatortegn i begynnelsen av linjen for å opprette en underliste.
+
+```
+ - Første element - Andre element     - Sett inn 4 mellomrom i begynnelsen av linjen for å opprette en underliste.
+```
+
+Eller
+
+```
+ + Første element + Andre element     + Sett inn 4 mellomrom i begynnelsen av linjen for å opprette en underliste.
+```
+
+Eller
+
+```
+ * Første element * Andre element     * Sett inn 4 mellomrom i begynnelsen av linjen for å opprette en underliste.
+```
+
+Vil alt bli til dette:
+
+- Første element
+- Andre element
+  - Sett inn 4 mellomrom i begynnelsen av linjen for å opprette en underliste.
+
+> \_\*Merk: \_\*For at en uordnet liste skal formateres korrekt, må det være en tom newline på linjen over listen. _Ordnede lister _ Start en ordnet liste med en tom linje over den, et tall, en periode og et mellomrom (`1. `) Hva tallet foran er, spiller ingen rolle, bare at det er et tall fulgt av en periode. Sett inn 4 mellomrom eller et tabulatortegn i begynnelsen av linjen for å opprette en underliste.
+
+```
+1. element en 2. element to 3. element tre     4. element fire
+```
+
+Eller
+
+```
+1. element en 1. element to 1. element tre     1. element fire
+```
+
+Eller
+
+```
+1. element en 10. element to 1. element tre     1000. element fire
+```
+
+Vil alt bli til dette:
+
+1. element en
+2. element to
+3. element tre
+   4. Element fire
+
+> \_\*Merk: \_\*For at en ordnet liste skal formateres korrekt, må det være en tom newline på linjen over listen. Tallet du starter med påvirker ikke hvor nummereringen begynner
+
+```
+23. tjuetre 1. tjuefire 1. tjuefem     1. tjueseks
+```
+
+Vil bli til:
+
+1. tjuetre
+2. tjuefire
+3. tjuefem
+   4. tjueseks
+   Hvis du ønsker å tilbakestille nummereringen og starte fra en igjen på en andre liste innenfor samme innlegg, kan du legge en tom eller en [skillelinje](#h_3a36cfbc61) i mellom.
+   For å [sikre at listen ikke blir formatert](#h_2ec17c688b) slik at du kan bruke din egen nummerering:
+   Legg et tegn på linjen over listen. Et godt valg er `\\` fordi det vil forsvinne.
+
+```
+\23. tjuetre 24. tjuefire 25. tjuefem     26. tjueseks
+```
+
+Legg en backslash (`\\`) før perioden (`.`):
+
+```
+23\. tjuetre 24\. tjuefire 25\. tjuefem     26\. tjueseks
+```
+
+Vil alt bli til:
+
+23. tjuetre
+24. tjuefire
+25. tjuefem
+26. tjueseks
+
+### **Skillelinjer**
+
+## Tre bindestreker `---` eller flere på sin egen linje vil opprette en skillelinje:
+
+### **Sjekklister**
+
+Disse kan krysses av i beskrivelsen av et emne.
+
+_Tilgang kreves:_ Skrivetilgang til emnetavlen.
+
+```
+- [ ] første element - [x] andre element     - [ ] underlisteelement
+```
+
+Vil bli til dette:
+
+![](https://downloads.intercomcdn.com/i/o/771723650/68ecca535a3773ab421c8ee7/image.png?expires=1779991200&signature=d23a7a806497626ab4118fb6bb2fd6d2d7d924651c7b83e3b0f63dc59f6999da&req=cycmEct9m4RfFb4V1XW4gYbX9iNJlq8uvamOj0lm8O%2BSpB%2FOvxnFm%2BlJkvq2%0AR1uxxveWd8ZBGh4U6IBmZc0a%2FQ%3D%3D%0A)
+
+Klikk [her](https://support.catenda.com/en/articles/5036461-check-lists-within-issues) for å se en rask video om hvordan sjekklister kan brukes i prosjektet.
+
+Hvis du skriver` - [ ]` eller `- [x]` vil boksen fortsatt vises ukrysset og krysset når kommentaren sendes inn eller lagres etter redigering.
+
+_Avmerkingsbokser i kommentarer_
+
+I kommentarer kan avmerkingsbokser bare merkes gjennom formatering.
+
+Avmerkingsbokser i kommentarer kan ikke klikkes for å merkes.
+
+_Tilgang kreves -_ Kommentarskripribenten har tilgang til redigering av den opprettede kommentaren
+
+### **Tabeller**
+
+Tekst i beskrivelser kan organiseres i tabeller.
+
+```
+|            | Windows            ||             | |            | Type 1   | Type 2   | Sum total   | |----------- | -------- | -------- | ----------- | | **Price**  | 500,-    | 400,-    |             | | **Amount** | 10       | 4        |             | | **Sum**    | 5 000,-  | 1 600,-  | **6 600,-** |
+```
+
+vil resultere i dette
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p class="no-margin"></p>
+</td><td><p class="intercom-align-right no-margin">Vin</p></td><td><p class="no-margin">duer</p></td><td><p class="no-margin"></p>
+</td></tr><tr><td><p class="no-margin"></p>
+</td><td><p class="no-margin">Type 1</p></td><td><p class="no-margin">Type 2</p></td><td><p class="no-margin">Sum totalt</p></td></tr><tr><td><p class="no-margin"><b>Pris</b></p></td><td><p class="no-margin">500,-</p></td><td><p class="no-margin">400,-</p></td><td><p class="no-margin"></p>
+</td></tr><tr><td><p class="no-margin"><b>Beløp</b></p></td><td><p class="no-margin">10</p></td><td><p class="no-margin">4</p></td><td><p class="no-margin"></p>
+</td></tr><tr><td><p class="no-margin"><b>Sum</b></p></td><td><p class="no-margin">5 000,-</p></td><td><p class="no-margin">1 600,-</p></td><td><p class="no-margin"><b>6 600,-</b></p></td></tr></tbody></table></div>
+
+### **Kodeblokker**
+
+Du kan sette inn enkelte linjer med kode slik:
+
+To `\`` omgir teksten som vil se slik ut:
+
+![](https://downloads.intercomcdn.com/i/o/771793825/fd17ce2b39f52f9d01f04e3c/image.png?expires=1779991200&signature=25e222958c350bf2b7205a8ff753aeb9905b00d38e3fe2bebfe3e7b253f7e372&req=cycmEcB9lYNaFb4V1XW4ga945tc2cSgx7AwGMqNa4RYE5ngLVI0srv3KI1sb%0Anc%2B9snPi07Ah5Cq4T7IsDwcf4Q%3D%3D%0A)
+
+Tre backticks `\`\`\`` over og under litt tekst vil se slik ut:
+
+![](https://downloads.intercomcdn.com/i/o/771797280/ee27c00beca127bdbb17fe31/image.png?expires=1779991200&signature=8a5803984027930c02cf74d937068874ce0e3c42486dd1b44471fd8d8c5c8e21&req=cycmEcB5n4lfFb4V1XW4gRbAB%2FlKj74sF5Ju%2Bfd8vDzdBPr6Lkw5CuUdhrZR%0AkT1tBG%2Fu8ZVbYmzQ96APqjkT5g%3D%3D%0A)
+
+Det er ikke mulig å legge til tabeller i kodeblokker
+
+### **Markdown dialekt**
+
+Hvis du ønsker å vite mer om hvordan tekst formateres i kommentarer og beskrivelser, bruker vi markdown dialekten "flexmark" til å formatere denne teksten.
+
+Finn ut mer om flexmark på [github siden deres](https://github.com/vsch/flexmark-java).
+
+## **@ Nevnte medlemmer og team**
+
+Klikk på `@` verktøyet eller skriv `@` i en beskrivelse eller kommentar for å nevne et medlem.
+
+Etter å ha skrevet `@` vises en rullegardinliste over medlemmer og team.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2102724602/dfd63733158f932a304596decf84/image.png?expires=1779991200&signature=266a7840bf95b8b253ec385b2f655a8f49bdec2f03f681715a2184b5321bc158&req=diEnFM58mYdfW%2FMW3nq%2BgQgVJSLkSxRSadTEPadiZdNpnB391hNKmHZ5LqXx%0AJCj3xsiGglM4P1a7sLfHtZH61EM%3D%0A)
+
+Gå gjennom listen ved å begynne å skrive e-postadressen, medlemsnavnet eller teamnavnet.
+
+Gå opp og ned på listen med piltastene og klikk eller trykk Enter for å velge et medlem eller team.
+
+For at et medlem eller team skal vises i denne listen, må medlemmet eller teamet ha minst lesestilgang til emnetavlen.
+
+Etter at du har valgt et medlem eller team i listen, får `@` litt ekstra tekst som kan se slik ut:
+
+`@[\<email address of member>]` eller `@[\<Team name>]`
+
+### **Lagring eller innsending av en omtale i et emne**
+
+Når beskrivelsen lagres eller kommentaren sendes inn, mottar relaterte medlemmer med tilgang til emnetavlen en varsel.
+
+Hvis medlemmets e-postadresse eller teamets navn er kjent, kan det også skrives manuelt, men hvis de ikke er en del av emnetavlen, blir de relaterte medlemmene ikke varslet om at de er omtalt.
+
+_Varsel ved medlemsomtale_
+
+Medlemmer med tilgang til emnetavlen som er omtalt mottar et varsel om at de er omtalt i et emne.
+
+_Varsel ved teamomtale_
+
+Medlemmer med tilgang til emnetavlen som er del av et team som er omtalt, mottar et varsel om at et team de er del av, er omtalt i et emne.
+
+_Varsler om fremtidige emne hendelser_
+
+Medlemmer av team som er omtalt i emnebeskrivelser og kommentarer mottar bare det ene varselet ved den lagrede beskrivelsen eller innsendte kommentaren.
+
+I tillegg til varselet om at de er omtalt, settes medlemmer som er omtalt i innlegg automatisk til å [følge](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) emnet og vil få varsler om emnehendelser som nye kommentarer og statusendringer.
+
+Dette er en flott måte å sikre at mer enn bare [tilordnet person](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) og [anmoder](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7) får varsler om fremtidige endringer av et emne.
+
+Hvis et medlem ikke lenger ønsker å følge emnet, må de manuelt slutte å følge det.
+
+### **Omtale i innlegg**
+
+Omtaler i innlegg kan identifiseres ved å ha grønn tekstfarge.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2102770866/23a219c6303ae2c3ea3167ea8839/image.png?expires=1779991200&signature=dc54372f275beb9d6b9f58eef6364046025ccb05f18518fc1e8b56576f8e78ec&req=diEnFM55nYlZX%2FMW3nq%2Bgc6BCXnvU1Bkq3F79VNCulbUfUkNi0%2FhK1QXHGmC%0AYCoFipDW17p1vsYnR4usRrYZ%2FUo%3D%0A)
+
+I bakgrunnen lagres den unike ID-en til det nevnte prosjektdeltakeren.
+
+Det er navnet på deltakeren som vises i denne grønne teksten.
+
+Selv om medlemmet eller teamet endrer navn, vil det forbli omtalt i innlegget, men under sitt nye navn.
+
+Nevnte medlemmer har en klikkbar lenke som dirigerer til [medlemssiden](https://support.catenda.com/en/articles/8228836-member-page) til det medlemmet.
+
+Nevnte team har klikkbar lenke som dirigerer til [teamsiden](https://support.catenda.com/en/articles/7891755-team-page) til det teamet.
+
+_Ikke-eksisterende medlem_
+
+Hvis det ikke er noen medlem i prosjektet som har e-postadressen som er omtalt, ser innlegget slik ut i stedet:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2102805445/b2e3443410ea96885a2d85676dee/image.png?expires=1779991200&signature=d64e4fdacb46dba5067b67f2b53dcb3371157a4c792de007bdcd5790b6455038&req=diEnFMF%2BmIVbXPMW3nq%2BgV2%2BX4QvdVlKUmPY0wchlEm3gW%2FQgNf9nrFfqLi1%0ASRk1H9bn2Dppn%2B4cO%2F3q%2Bp1QwFE%3D%0A)
+
+Dette kan enten skyldes at e-posten ble formatert feil eller fordi medlemmet ikke lenger er del av prosjektet.
+
+Skulle et medlem med denne e-postadressen bli del av prosjektet i fremtiden, endres innlegget for å vise navnet til det medlemmet.
+
+_Ikke-eksisterende team_
+
+Hvis et team har blitt fjernet fra prosjektet og et nytt team opprettes, vil dette nye teamet ikke bli omtalt.
+
+For å omtale det nye teamet, må innlegget sendes inn på nytt.
+
+## **# Merkede emner**
+
+Klikk på `#` verktøyet eller skriv `#` i en beskrivelse eller kommentar for å merke et emne.
+
+Etter å ha skrevet `#` vises en rullegardinliste over emner fra alle emnetavler.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2102803413/752177c9a293de34a6bd9c7c4d36/image.png?expires=1779991200&signature=2e3d8eaa05e4d86071987625f7277fe7bd34ade7ba287ffe84d17863c5b1e2fd&req=diEnFMF%2BnoVeWvMW3nq%2BgQslLQuJRz%2F96TrjXxebVMDqy6wbx57JHhESfLh5%0Aq4PCAx7ujDa%2BJIEGQaJVDZ%2BZpiU%3D%0A)
+
+Gå gjennom listen ved å begynne å skrive tittel eller emnenummer.
+
+Gå opp og ned på listen med piltastene og klikk eller trykk Enter for å velge et emne.
+
+For at et emne skal vises i denne listen, må medlemmet som merker, ha tilgang til tavlen som emnet er på.
+
+Etter at du har valgt et emne i listen, får `#` litt ekstra tekst som kan se slik ut:
+
+`#[\<topic number>]`
+
+### **Lagring eller innsending av et merket emne**
+
+Når beskrivelsen lagres eller kommentaren sendes inn, opprettes en emne relasjon.
+
+Det merkede emnet legges deretter til listen over [merkede emner](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) i [høyre meny](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) av emnet.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2103668127/63b222278014acedd5e109eaa00f/image.png?expires=1779991200&signature=2149815ea61b5a424e16434a30602bf0ad7bdfac5716a9be69b7fc5329c0ca7c&req=diEnFc94lYBdXvMW3nq%2BgUcCxcZ9fv6bg1pEo4juADZYfI3MQkCannAOnEBB%0AleI3JRHXDIbKQfJ1rhkXj6yPxJo%3D%0A)
+
+I tillegg til emnet der et annet emne ble merket, mottar det merkede emnet selv en lenke tilbake til emnet der det ble lagt til listen over [merkede emner](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) i [høyre meny](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue).
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2103660685/9068edb07ddc704d58d821a0aa4c/image.png?expires=1779991200&signature=b3cb88b489a1e13e91119acb5a1e65869e6137d08aa613a34673a44e9d6145d3&req=diEnFc94nYdXXPMW3nq%2BgZtQFZ6%2FadIHexDqOuXukfxVutzxFMdv4Csh2%2BBJ%0AJ4PgbRdgBEqA%2F0O6%2Bv%2FB4%2BrLgiA%3D%3D%0A)
+
+Emnelenken kan senere fjernes fra enten emnet med det merkede emnet i beskrivelsen eller fra emnet som ble merket ved å gå til hvert emne og redigere listen over [merkede emner](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) i [høyre meny](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue).
+
+### **Merket emne i innlegg**
+
+Merkede emner kan identifiseres ved først å ha en sirkel med fargen på gjeldende status til det merkede emnet sammen med navnet på den statusen.
+
+Etter det vises emnets tittel fulgt av emnenummeret.
+
+Sammen med avmerkingsboksene teller merkede emner som er lukket mot fremdriften i fremdriftslinjen som vises mot toppen, mens merkede emner som er åpne teller mot totalt antall elementer som fremdriften telles mot.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2103628989/5fbf0cd8c9301753582aea8950e9/image.png?expires=1779991200&signature=ca04d06ea11db334d5d09d8015a562933dff76c96ee77f0067fcc66830a84137&req=diEnFc98lYhXUPMW3nq%2BgW6UTt%2FkO1pC00sooBVCn30sIjAm6dD8c3fkOEkR%0ArVc8ifPy8Jud7vIGWaSPdO6o7iY%3D%0A)
+
+Merkede emner har en klikkbar lenke som åpner det merkede emnet i sin emnetavle.
+
+# Modellside
+
+På modellsiden kan alle IFC-dokumenter som er koblet til en modell sees.
+
+Typisk kan man finne en modell for hver disiplin her.
+
+Slik kan modellsiden se ut:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2203323683/82b10239e244add177a8bb2ecaf2/image.png?expires=1779991200&signature=112f66a4c5fdcd9d6632994f20feef4b5d7b3cf039d5c3357676546feebcf81d&req=diInFcp8nodXWvMW3nq%2BgePkqh8vttJuPHq%2BMTzSrlPzf1umP6Fb8o4codg8%0ADblgeYLIxh%2B5Sj5gH9wZexTpxD4%3D%0A)
+
+Modellsiden som den andre siden i venstre navigasjonsmeny i et prosjekt.
+
+Denne siden er del av [innholdspanelet](https://support.catenda.com/en/articles/13141464-project-panels#h_74710f7a33).
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2203330265/60c65eaafc1fe9c98d0b014ea0aa/image.png?expires=1779991200&signature=60ea6cff27fdcf17b08461d5151323b964a0b8ea989c307fc99f378d30d31214&req=diInFcp9nYNZXPMW3nq%2BgStsWwQs4heuYwJav0Xdgn52pMkdUyvcWMbbKx9o%0AifRAPzYK695%2FggCVJcgOi7qE7jI%3D%0A)
+
+De følgende emnene vil bli beskrevet i denne artikkelen:
+
+_[Nye elementhandlinger](#h_5dc7dabe3a) - [Søk- eller filteralternativer](#h_330a5c2a91) - [Høyre meny](#h_ac840d5d23) - [Modelltabell](#h_bbc42c56bb) - [Undersider](#h_f549b192ca)_
+
+## **Nye elementhandlinger**
+
+De nye elementhandlingene finner du øverst til høyre på siden.
+
+![](https://downloads.intercomcdn.com/i/o/1073698722/6af87f1f6e6ea72898acb52c/image.png?expires=1779991200&signature=50bf70be1296344f658a03208de1e403f32fb1946b3b1aedb30b23db24b34879&req=dSAgFc93lYZdW%2FMW3nq%2BgagieBq6DzUAhbudhYsZTBOAag80bA6ZoPRilQ1q%0A2cTeuV31GfQVHkIZ%2ByJU15YiKJ8%3D%0A)
+
+Se [her](https://support.catenda.com/en/articles/9431936-actions-on-the-models-page) for hva de ulike handlingene gjør.
+
+## **Søk- eller filteralternativer**
+
+Se [her](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page) for å finne ut hvordan du best søker eller filtrerer på modellsiden:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1702848368/4c99fc064c7351e524831d7686e6/image.png?expires=1779991200&signature=1ade06ead1a0b9ca23aaac2f4ae2a0fd9ce8f0cfcba69fe0403a44220b7f6076&req=dScnFMF6lYJZUfMW3nq%2BgVPl8vbHmkmDhmOZUW1XEw2rSFTXXevw1%2FKGTqXi%0A4VSeYcm72PXgAVmZzTKYrvr7cV8%3D%0A)
+
+## **Høyre meny**
+
+Hvis noen modellrader er valgt i modelltabellen, vil en infoknapp vises til høyre for søk- eller filterlinjen.
+
+Infoknappen kan se slik ut:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1648971372/9fd3240d0c44670ff04aee9db307/image.png?expires=1779991200&signature=9c50ae28073d1e9b8da1cb4c67d2fc02722c9cdc518484238e3f54585d574cd4&req=dSYjHsB5nIJYW%2FMW3nq%2BgV2khwPU8bJuVI5FqnZi3GpYUNxb7OEDivpTRdhB%0AklV3QpfH7kWTCBJD2IHsFV0CqXw%3D%0A)
+
+I høyre meny vil du kunne se informasjon om:
+
+- _Bilde_
+- _Dokumentkobling_
+- _Status_
+- _Etiketter_
+- _Bidragsytere_
+- _Modelltransformering_
+  Klikk [her](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page) for å lese mer om høyre meny på modellsiden.
+
+## **Modelltabell**
+
+Modelltabellen kan se slik ut:
+
+![](https://downloads.intercomcdn.com/i/o/1084148163/771ca24e30021b9f81818b16/image.png?expires=1779991200&signature=3cf2c4f7ae1a482e44c15b4381a46e0aeb2c7a634623f052a151cd20a897529d&req=dSAvEsh6lYBZWvMW3nq%2BgbOE%2BbrbIIUSPjn7pAh%2FlmkRLZ3siZDisvDqtyQv%0A6kRf7QJtz%2BwT4qATXkSHsO7y8m8%3D%0A)
+
+Så snart en modell er opprettet, vises den som en rad i modelltabellen.
+
+Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda.
+
+### **Valgte elementhandlinger**
+
+Etter å ha valgt en modellrad, vises valgte elementhandlinger øverst i modelltabellen.
+
+Slik kan menyen for valgte elementhandlinger se ut:
+
+![](https://downloads.intercomcdn.com/i/o/1073737628/f84fc5ab3bdcfe0e17a700f7/image.png?expires=1779991200&signature=44e3647b3f00aaec20783fafe274fa7ade7c7d92f1e292e5115a0808cb980766&req=dSAgFc59moddUfMW3nq%2BgUjHsqM4rHFy%2FcdW6jmAmOTRGp6IuBrx276TD9Hq%0ANE1z7wdtviILqGIOZxJklpncTRE%3D%0A)
+
+Klikk [her](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed) for å se hva de ulike valgene elementhandlinger gjør.
+
+### **Radinnhold**
+
+Når tabellen først lastes inn, vises opptil 100 rader.
+
+Hvis det er mer enn 100 rader i tabellen, ruller du ned til bunnen for å laste inn de neste 100 radene.
+
+Hver modellrad er koblet til et dokument på dokumentsiden.
+
+_Tilgang_
+
+Modellrader vises basert på tilgang til dokumentet som er koblet til modellen.
+
+_Tilgang påkrevd - _Lese
+
+Åpning av innholdet i en modellrad åpner [modelløversiktssiden](https://support.catenda.com/en/articles/4670270-model-page) for den modellen.
+
+_2D- og 3D-knapper_
+
+For 2D åpnes 3D-panelet og det første etasjen til den nyeste revisjonen av modellen lastes inn i 2D-visningen.
+
+For 3D åpnes 3D-panelet og den nyeste revisjonen av modellen lastes inn i 3D.
+
+### **Radinnhold med statusarbeidsflyt - Utkastrevisjoner**
+
+_Tilgang_
+
+Modellrader av modeller som kun har utkastrevisjoner, har ingen 2D- og 3D-knapper fordi utkastrevisjoner ikke kan lastes inn i 2D eller 3D.
+
+> **Merk:** Utkastrevisjoner vises ikke på [modelløversiktssiden](https://support.catenda.com/en/articles/4670270-model-page). _2D- og 3D-knapper_ 2D- og 3D-visningene av den nyeste publiserte revisjonen åpnes selv om det finnes nyere utkastrevisjoner.
+
+### **Radinnhold med statusarbeidsflyt - Arbeidsflate-fane**
+
+_Tilgang_
+
+Modellrader vises basert på tilgang til dokumentet som er koblet til modellen.
+
+Med tilgang til visning av delte revisjoner, vises den nyeste revisjonen.
+
+_Tilgang påkrevd_ - Tilgang til visning av delte revisjoner i dokumentet
+
+Uten tilgang til visning av delte revisjoner, vises den nyeste publiserte revisjonen. Selv om det finnes nyere delte revisjoner.
+
+_Tilgang påkrevd - _Lesetilgang til dokumentet
+
+_2D- og 3D-knapper_
+
+2D- og 3D-visningene av den nyeste revisjonen som en bruker har tilgang til, åpnes.
+
+### **Radinnhold med statusarbeidsflyt - Publisert fane**
+
+_Tilgang_
+
+Modellrader vises basert på tilgang til dokumentet som er koblet til modellen.
+
+_Tilgang påkrevd - _Lese
+
+_2D- og 3D-knapper_
+
+2D- og 3D-visningene av den nyeste publiserte revisjonen åpnes selv om det finnes nyere delte revisjoner.
+
+### **Kolonner**
+
+Avhengig av om et enkelt panel er åpnet eller flere paneler er åpnet, kan ulik informasjon vises.
+
+Noen kolonner i tabelvisningen på emnessiden er aktivert som standard, mens andre kan skjules og må aktiveres.
+
+Basert på den konfigurerte kolonneordenen vises de første kolonnene.
+
+Basert på den konfigurerte kolonnebredden kan færre eller flere kolonner vises.
+
+Tabellen må kanskje rulles sideveis for å vise andre aktiverte kolonner.
+
+Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller.
+
+Standardrekkefølgen og synlighetsinnstillingen for kolonnene på modellsiden er som følger:
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80;"><h3 id="h_ec767816e6"><b>Modelltabellkolonner</b></h3></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Avmerkingsboks</i> - Standard</p></td></tr><tr><td><p class="no-margin">Valg av modeller</p></td></tr><tr><td><p class="no-margin">Klikk på denne kolonnen for å legge til en modell i utvalget ditt.</p><p class="no-margin">Klikk <a class="intercom-content-link" href="https://support.catenda.com/en/articles/11748020-tables-on-catenda" target="_blank">her</a> for å lese mer om hvordan du velger rader i en tabell.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Seer - </i>Standard</p></td></tr><tr><td><p class="no-margin">Lastingsknapper</p></td></tr><tr><td><p class="no-margin">Hvis dette er en ny modell og det ikke er noen offentlige revisjoner ennå, vil denne kolonnen være tom.
+Etter import av en modell begynner den å behandles. Du vil se et grått utropstegn.
+​ </p><p class="intercom-align-center no-margin"><img alt="Processing" src="https://downloads.intercomcdn.com/i/o/1128820332/6439f9053578575ccfb0da71/image.png?expires=1775952000&amp;signature=d2d5730cff9ef0e4f5464ce075b9fb183c725c0dea10d37422bc6a936e64eac3&amp;req=dSElHsF8nYJcW%2FMW3Hu4gawWDOtZAjnxXc5RcM%2BYJyOQMppOb7OjFRATiTdO%0AHA%3D%3D%0A" width="229.375"/>    /    <img alt="" src="https://downloads.intercomcdn.com/i/o/1128822000/24966190ab877efd53a395f7/image.png?expires=1775952000&amp;signature=01c9a60d8a0e702b0fef66a995ed054f87ce2a99edefe00a40cef9730f30fb61&amp;req=dSElHsF8n4FfWfMW3Hu4gRp3B%2FaY1i%2FAjI5Vqwq68Zs5AuWQ4GJG%2FeSZ9F13%0Apg%3D%3D%0A" width="40"/></p><p class="no-margin">
+Hvis den nyeste modellrevisjonen mislyktes behandlingen, vil du se et rødt utropstegn.</p><p class="no-margin"></p>
+<p class="intercom-align-center no-margin"><img alt="Failed" src="https://downloads.intercomcdn.com/i/o/1128818838/685853c34add580b5d8b79ab/image.png?expires=1775952000&amp;signature=9b1e8643ef4de33e8305caf8aa5cfefaafaa1f3e92eb05e28c8c7ebbb6dfc163&amp;req=dSElHsF%2FlYlcUfMW3Hu4gclVforUPGKFV5YEOKsbNlHs3ivdc35j5phODe8m%0A9A%3D%3D%0A" width="148.57142857142858"/>    /   <img alt="" src="https://downloads.intercomcdn.com/i/o/1128813631/d16bb86de7aca1c8ca7ccb80/image.png?expires=1775952000&amp;signature=c333c15082b31af4fb269e1fc4c06a60e373e3e5b4e66e4674033129e63c55e6&amp;req=dSElHsF%2FnodcWPMW3Hu4gdlodHnyyafYkFUlJf6UCOwP1mk%2FF14gXNf3hfPL%0AVw%3D%3D%0A" width="39.583333333333336"/></p><p class="no-margin"></p>
+<p class="no-margin">Hold musen over forklaringstegnet for å se hvilken modell som mislyktes. Hvis du klikker på 3D, lastes den siste gyldige revisjonen i stedet for den siste revisjonen.
+Hvis det finnes offentlige revisjoner, vil du se en 2D-, 3D- og zoom til extent-knapp her som kan brukes sammen med <a class="intercom-content-link" href="https://support.catenda.com/en/articles/4854537-2d-viewer" target="_blank">2D-visningen</a> og <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8227211-3d-viewer" target="_blank">3D-visningen</a>.</p><p class="no-margin"></p>
+<div class="intercom-container intercom-align-center"><img alt="2D 3D" src="https://downloads.intercomcdn.com/i/o/1082115963/a53e8f74473c0b5b0c22fc6b/image.png?expires=1779991200&amp;signature=e947eb25325ae494beb3b906fb78d6d51e54046022a1b665a1d4419db3619705&amp;req=dSAvFMh%2FmIhZWvMW3nq%2BgQBR4yJc1QMifJ2Xkg0rEHuxA0F7SLdJWIWNTv2c%0Ao1MDihxPmxuxMQ8pXyt5KZ6uv4k%3D%0A" width="131"/></div><p class="no-margin"></p>
+<p class="no-margin"><i>Tilgang påkrevd:</i> Lesetilgang til dokumentmodellen</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Merk 1:</b> Zoom til extent-knappen vil være grå til du laster modellen inn i 3D.</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Merk 2:</b> Hvis det er et forklaringstegn på 3D-knappen og 2D- og 3D-knappene er nedtonet, holder du musen over forklaringstegnet for å se hva som er galt.</p><p class="no-margin">Du vil fortsatt kunne åpne forrige revisjon ved å klikke på modellnavnet.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Kort navn</i> - Standard</p></td></tr><tr><td><p class="no-margin">Modellens navn</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Merk 1:</b> Modellnavnet på modellen kan være annerledes enn navnet på dokumentet som er koblet til modellen eller navn på revisjonen.</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Merk 2:</b> Hvis du ikke har tilgang til dokumentet som modellen er koblet til, vil du ikke se raden i modelltabellen. Du vil likevel kunne se modellnavnet i revisjonsvalgeren.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Dokumentnavn</i></p></td></tr><tr><td><p class="no-margin">Navnet på dokument-modellen som er koblet til modell-dokumentet.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Revisjon </i>- Standard</p></td></tr><tr><td><p class="no-margin">Antall offentlige revisjoner i dokument-modellen</p></td></tr><tr><td><p class="no-margin">Hvis en modell er lagt til fra modellsiden, vil den ikke ha noen revisjoner ennå.
+I stedet for et revisjonsnummer vil du se følgende ikon som du kan klikke på for å laste opp den første revisjonen.</p><p class="no-margin"></p>
+<div class="intercom-container intercom-align-center"><img src="https://downloads.intercomcdn.com/i/o/1128796790/433007f5c08e12a46a1cf72e/image.png?expires=1779991200&amp;signature=6d2769c236522b8add72ad1459efbfd3edea361596758a5e4a0fdaead6fb31f9&amp;req=dSElHs53m4ZWWfMW3nq%2BgUJAq5%2Fne8p%2FnydcowhE3pLyS2kmGK2JVLf86cKP%0A9OyFoh%2BA1DcSJq8Gbrr%2BZWcg9Q8%3D%0A" width="47"/></div><p class="no-margin"></p>
+</td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Revisjonskommentar</i></p></td></tr><tr><td><p class="no-margin">Kommentaren revisjonen ble lastet opp med (kun eldre)</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Revisjonsnavn</i></p></td></tr><tr><td><p class="no-margin">Navnet på den siste offentlige dokument-modellrevisjonen. Kan ikke endres etter opplasting.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Status</i> - Standard</p></td></tr><tr><td><p class="no-margin">Statusen for den siste offentlige dokument-modellrevisjonen. Offentlige statuser kan aktiveres i <a class="intercom-content-link" href="https://support.catenda.com/en/articles/7831371-document-settings" target="_blank">dokumentinnstillinger</a>.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Størrelse</i> - Standard</p></td></tr><tr><td><p class="no-margin">Filstørrelsen på den siste offentlige dokument-modellrevisjonen</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Etiketter</i> - Standard</p></td></tr><tr><td><p class="no-margin">Etikettene som er tilknyttet modell-dokumentet.</p></td></tr><tr><td><p class="no-margin">En etikett kan brukes etter opplasting av den første revisjonen.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Dokument opprettet</i></p></td></tr><tr><td><p class="no-margin">Personen som opprettet dokument-modellen og dato og klokkeslett for når den ble opprettet.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Publisert</i> - Standard</p></td></tr><tr><td><p class="no-margin">Personen som publiserte den siste publiserte revisjonen i dokument-modellen og dato og klokkeslett for når den ble publisert.</p></td></tr></tbody></table></div>
+
+## **Undersider**
+
+Som undersider til modellsiden kan du finne følgende sider:
+
+- [Bokmerker](https://support.catenda.com/en/articles/4670281-bookmarks)
+- [Objekter](https://support.catenda.com/en/articles/12352750-objects-page)
+- [Etasje-konfigurator](https://support.catenda.com/en/articles/6921756-storey-configurator-page)
+
+# Opplasting av zip / filstruktur
+
+I motsetning til opplasting av en vanlig zip fil, pakker zip-opplastingsfunksjonen ut mappestrukturen som ligger i zip filen. På denne måten kan du importere en filstruktur i dokumentdelen uten å måtte lage mapper én for én.
+
+I denne artikkelen vil du finne informasjon om følgende temaer:
+
+**[Opplasting av zip](#h_6f8b38c288) - [Filstørrelse](#h_9d2339dc1c) - [Mine zip opplastinger](#h_a28d0de150)**
+
+Følg de neste steg for å laste opp en zippet mappe:
+
+## **1. Aksjons menyen**
+
+Klikk aksjonsmenyen øverst til høyre ved siden av Ny mappe knappen.
+
+![](https://downloads.intercomcdn.com/i/o/848967626/89dda65f523ee7d3ee0f18f2/image.png?expires=1781092800&signature=7c6fb82186e2e3cf606860d2342d5d423a0fd2cf9f3961a72ce763b2ae3d6b9c&req=fCQvH895m4NZFb4V1XW4gf2RFsq60NUPQ%2BiRSEvgQk0t37Mgc1AWouPjyJRA%0AzBDdqT0XeODaGDhspXJR6fA%2BGA%3D%3D%0A)
+
+## **2. Klikk så på "Last opp zip"**
+
+![](https://downloads.intercomcdn.com/i/o/848977844/58497c6d589b05aac876be29/image.png?expires=1781092800&signature=32052d120c8bd22a54117dbb0807bbab4baa4b507d108d8e111da20a835605fc&req=fCQvH855lYVbFb4V1XW4gTdkUvoD974dYp4Tk41enXzrDSki8wP%2BH7k983Vn%0ArXflXsDb%2BuoKNTKYYg2c0qVloA%3D%3D%0A)
+
+## **3. Velg riktig zip mappe**
+
+![](https://downloads.intercomcdn.com/i/o/797822907/ba4b82b1faa83deecd64ec28/image.png?expires=1781092800&signature=327c4dab9cc1cb61caae111afc2765697a9d1b0821469eaa339cc8754cf64203&req=cykgHst8lIFYFb4V1XW4gR28Xyf3BETWzundTo%2BfNkgFspaWW8OUkqleovsI%0AQlM%2F9Aoj%2FOBRDfluxlZbsJpAhA%3D%3D%0A)
+
+## **4. Last opp zip**
+
+Still inn hvordan du har lyst å laste opp mappen.
+
+![](https://downloads.intercomcdn.com/i/o/848991678/7be0f86a7defc2d95ce1211d/image.png?expires=1781092800&signature=b3c580c0b533bdb1bdcd5a304b63e897fd47b980f471aab61e6532b691d6eb4e&req=fCQvH8B%2Fm4ZXFb4V1XW4gcmqDDHz6MXlk33%2BKYVe18tafhVdjSkInfManLA7%0Abhm%2BVHNo8%2FNn5aktM5vf9p8Abg%3D%3D%0A)
+
+### **Last opp som utkast**
+
+Hvis du har lagt til utkast status i dokumentinnstillinger vil du se dette valget.
+
+### **Gjør dette om filen eksisterer:**
+
+**Opprett ny revisjon**
+
+Hvis en mappe i zip filen ender opp på samme sted som en mappe med samme navn som allerede finnes på det nivået i dokumentstrukturen, vil dens undermapper og filer ende opp i den eksisterende mappen.
+
+Hvis en fil ender opp på samme sted som et dokument med samme navn som allerede finnes på det nivået i dokumentsrukturen, vil filen bli til en ny revisjon for dokumentet.
+
+**Hopp over og fortsett**
+
+Hvis en mappe i zip filen ender opp på samme sted som en mappe med samme navn som allerede finnes på det nivået i dokumentstrukturen, vil dens undermapper og filer ende opp i den eksisterende mappen.
+
+Hvis en fil ender opp på samme sted som et dokument med samme navn som allerede finnes på det nivået i dokumentsrukturen, vil filen bli til en ny revisjon for dokumentet.
+
+### **Sett denne statusen på utpakkede filer:**
+
+Hvis du har dokumentstatus stilt inn i dokumentinnstillinger vil du kunne velge mellom dokumentstatus her.
+
+Velger du å laste opp som utkast vil du kun kunne velge en utkast status
+
+Velger du å laste opp som publisert dokument vil du kun kunne velge en publisert status.
+
+### **Pakk ut innholdet av en zip-fil inn i gjeldende mappe:**
+
+Zip filen vil pakkes ut og ende opp i denne mappen.
+
+Mappen som zip filen lastes opp til er mappen du er i når du trykker på last opp zip.
+
+### **Lukk**
+
+Lukk zip opplastingen uten å laste opp noe.
+
+### **Velg en zip fil**
+
+Velg en zip fil fra ditt lokale system.
+
+### **Last opp zip**
+
+Klikk på "Last opp zip" for å pakke ut zip filen.
+
+Zip filen vil så lastes opp og du kan se fremgang i linjen under.
+
+## 5. Pakk ut zip
+
+Etter å ha lastet opp zip filen begynner zip filen å pakkes ut. Du finner fremgang i utpakningen nederst til venstre på skjermen.
+
+![](https://downloads.intercomcdn.com/i/o/849006673/1a1eed3b66d8ef7df11524d2/image.png?expires=1781092800&signature=955fdca3a036c291b86bfe28795081bdfe14f08533e4e7303c85116bab8c49a1&req=fCQuFsl4m4ZcFb4V1XW4gTEWYsvXLNeSOlHfC2Uc4GyFldQznX6WM6xKQv0f%0AV94%2FttHaKBkI%2FyFtoFEYhHkKXg%3D%3D%0A)
+
+Etter en kort stund er zip filen pakket ut.
+
+Utpakningen vil fortsette selv hvis du forlater Catenda Hub. Du kan klikke på Se detaljer for å gå til mine zip opplastinger hvor du kan altid finne igjen tidligere zip opplastinger. Hvis utpakningen tar mer enn 2 minutter kan det hende at det er noe som er feil og support burde kontaktes gjennom snakkeboblen nederst til høyre eller på [support@catenda.com](mailto:support@catenda.com)
+
+![](https://downloads.intercomcdn.com/i/o/849013817/23f4a5ad4be54448ee4fa756/image.png?expires=1781092800&signature=2e81c42e406ebe52d85a325e21cb7d64651e37e2c64578ca6ef8fefac50ac6bb&req=fCQuFsh9lYBYFb4V1XW4gRlMATi%2Fhkt9tYkKY%2BtYyRiOw0RJeWG7zXk7tGTg%0AvezHgGbbPGjhMt0Ion4eGwrUvA%3D%3D%0A)
+
+Etter at utpakningen er fullført kan du laste inn siden på nytt for å se innholdet til zip filen i dokumentstrukturen.
+
+## **Overskre filstørrelse begrensningen**
+
+Uploading a zip will let you upload files that are larger than 7gb as the zip compresses the file.
+
+## **Mine zip opplastinger**
+
+Valget under last opp zip i hamburger menyen lar deg se en overstik over dine zip opplasitnger.
+
+![](https://downloads.intercomcdn.com/i/o/849029916/1ca3bc5276834f0533fcc2a4/image.png?expires=1781092800&signature=2de5b1191560aef74ecc49c70dcc24f5ed36cdbfa5011615e90b0e5f95d1fb25&req=fCQuFst3lIBZFb4V1XW4gdkumZCp3TwHocvN6wD2OXGF8FD%2FxXqxC%2FP8ueT1%0AIz7G5fujZPyThmEQ12o0xwL5VQ%3D%3D%0A)
+
+# Punktskyer i Catenda Hub
+
+> Finn ut hvordan du kan dra nytte av laserskanning og LIDAR-teknologi i Catenda Hub.
+
+> **Merk:** Last ned en eksempelfil fra [her](https://drive.google.com/file/d/1G8U916oihDl5qHrTfQaVHxDeLsbq1ulG/view?usp=sharing). Punktskydatasett (PC) kan visualiseres i Catenda Hub Individuelle PC kan forhåndsvises i dokumentområdet. Flere PC kan lastes inn i [3D-visningen](https://support.catenda.com/en/articles/8227211-3d-viewer). I 3D-visningen kan PC vises sammen med andre 3D-dokumentformater som IFC model og GML-filer. Denne artikkelen inneholder informasjon om følgende emner: _[Dokumentforhåndsvisning](#h_bb5e5b9840) - [3D-visningsforhåndsvisning](#h_076189f481) - [3D-visningsinnstillinger](#h_9c02ade6a6)_ Se nedenfor ulike innstillinger for å vise dataene dine:
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p class="no-margin">Adaptiv - Sparsom - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609416415/d63b03e835b7de05a34bc464a67c/image.png?expires=1779991200&amp;signature=bb5f495209f2f06bdc3de410d4d7e1c422d3d8ea9034524db714f9077f73c45d&amp;req=dSYnH81%2Fm4VeXPMW3nq%2BgQpCsmyZG1KSFFVbUYNJ2UiYdd3J7TGDppb8CTJW%0Aa1wWWTAtvyWfrJEfDrlcNFHoTrU%3D%0A" style="height: auto;" width="3839"/></div></td><td><p class="no-margin">Adaptiv - Tett - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609416931/9c357c3e7bd94ba44368bf2e0476/image.png?expires=1779991200&amp;signature=85b6343cd7f91e12a9dc3356debe39dfdeac86db7f2b5c7794fca75e721585ae&amp;req=dSYnH81%2Fm4hcWPMW3nq%2BgdwfTofqQ7RvylQ%2FH6UFuY67uWWyGoYVG%2FSNG%2FvW%0AeXpHm2lN07PYjclbv0fHJIa1%2BZ8%3D%0A" style="height: auto;" width="3839"/></div></td></tr><tr><td><p class="no-margin">Fast - Tett - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609415523/d5626faba40b5c3551361c832b5b/image.png?expires=1779991200&amp;signature=adeb85b52cd8280463402acd243b7a6e1a811fae38a7f61f3e9aaa83cc90ee30&amp;req=dSYnH81%2FmIRdWvMW3nq%2BgYHi7%2FbQTl49HAjgtDsdSFh6QfdbdKda7GA55QfR%0AY65xOQbKB50egoMF75QUYo9dG0g%3D%0A" style="height: auto;" width="3834"/></div></td><td><p class="no-margin">Fast - Sparsom - Intensitet</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609415755/5d2aac51f6caea382c5d762b2dae/image.png?expires=1779991200&amp;signature=90c35496c076f66c2ff4cf8d42c759c0caaf01082168a2f7933e606aadc1d7ff&amp;req=dSYnH81%2FmIZaXPMW3nq%2BgUep5M5qKq9J8fpRvp8MeVoccLBBRVRiajRONyGy%0A8DqsOdPDMVir8z8%2Fzh6OjjIL57s%3D%0A" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
+
+## **Dokumentseksjonens forhåndsvisning**
+
+PC-data med følgende to filformater kan forhåndsvises på Catenda.
+
+- `\*.e57`
+- `\*.las`
+
+PC kan lastes opp som ethvert annet dokument i dokumentseksjonen.
+
+For disse to filformatene kan filer opp til 25 GB lastes opp til dokumentseksjonen.
+
+Flere filer kan lastes inn i dokumentseksjonen og vises sammen i 3D-visningen.
+
+### **Lasting av PC-data**
+
+Det anbefales å bruke [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) eller å komprimere PC-filen din til en zippet mappe og bruke [zip-importen](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) for å laste opp PC-en din.
+
+Disse metodene vil hjelpe deg med å spare tid da opplastingsfilstørrelsen blir mindre, og vil også minimere risikoen for nettverksfeil da filen blir lastet opp raskere
+
+Etter at du laster opp en PC til dokumentseksjonen, begynner forhåndsvisningen av dokumentet å behandles.
+
+Mens forhåndsvisningen behandles, vil du se en grå stolpe mot toppen av dokumentforhåndsvisningen din.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609421389/8e3f5ca035ebe50fb83c034ddaab/image.png?expires=1779991200&signature=bb8ee3de6805462c7033ed7a21c7afe915b1e9f9be7485aaed67465a8e6f5111&req=dSYnH818nIJXUPMW3nq%2BgdqJu4eRld6dpYdfOUiFyseZZ%2B%2FU4uaAS%2FgMiPjc%0A54hxfMtyyoZMY7F%2BBX5OrgUE5TM%3D%0A)
+
+Varigheten av behandlingen av forhåndsvisningen avhenger av størrelsen på PC-en.
+
+Behandlingen tar 1 time per GB, men det kan være mer eller mindre avhengig av punktskyen.
+
+Når forhåndsvisningen er ferdig behandlet, klikker du på dokumentet for å vise PC-en din i dokumentforhåndsvisningen:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609450891/70ce69784cedc730f37a34143f5c/image.png?expires=1779991200&signature=5b7dbb39946e2db64183d99b228cbffeea7b6236ac21ff91e565d6afb5a17bd9&req=dSYnH817nYlWWPMW3nq%2BgZjDFCu8k%2BqFmMj85V29ajp0dOPxv6on1BnnRR3a%0AhmdXl9cF4RVn02yDdXwAJFhR1FQ%3D%0A)
+
+### **Delte PC-revisjoner**
+
+Hvis [revisjonspublisering](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650) har blitt aktivert for prosjektet, vil punktskyen ha blitt lastet opp som en delt revisjon.
+
+Delte PC-revisjoner kan bare forhåndsvises i dokumentseksjonen.
+
+For å kunne laste inn PC-en din i 3D-visningen må revisjonen publiseres.
+
+Individuelle delte revisjoner kan publiseres med publiseringshandlingen i høyremenyen i dokumentforhåndsvisningen. Flere delte revisjoner kan publiseres med handlingen for valgte elementer i dokumentstrukturen.
+
+Når du publiserer en revisjon, begynner forhåndsvisningen for den publiserte revisjonen å behandles.
+
+### **Publiserte PC-revisjoner**
+
+Etter at forhåndsvisningen av en publisert PC-revisjon er behandlet, vil en 3D-knapp vises i visningskolonnen i dokumenttabellen.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609421833/99aa8dc6542b0fa5fff525ee0096/image.png?expires=1779991200&signature=a405649349f8f629e3da97c4d615b03ee35f54d67fdbfdba0842e0b16ba36abe&req=dSYnH818nIlcWvMW3nq%2BgW4P%2BGZNpG4%2Fjw6CfuQveZcBKehIzCa31VmOLufe%0A%2F9%2B%2BAhqB5usT08rMNgslBIDu7mQ%3D%0A)
+
+3D-knappen vil laste den nyeste publiserte revisjonen av dokumentet inn i 3D-visningen.
+
+Hvis du har valgt ett eller flere dokumenter med 3D-dokumenter som PC, IFC eller GML-dokumenter, vil du også se 3D-dokumenthandlingen i handlingsmenyens valgte elementer i dokumenttabellen.
+
+På denne måten kan du laste de nyeste revisjonene av flere 3D-dokumenter inn i 3D-visningen på en gang.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609422276/427b34fa8a17a3256f7885283fb9/image.png?expires=1779991200&signature=e957465f7c8737a6a5876f01838693655da92d5576071e5001f4759777378344&req=dSYnH818n4NYX%2FMW3nq%2BgS5oxHbz%2BVjDB0MLdYU%2FAfBHw6EYiHVet%2B7UhYgM%0ADvaURkwVqPxDlkm2wGpTZuqsxsg%3D%0A)
+
+I et dokument med minst en publisert PC-revisjon som er ferdig behandlet, vil du kunne se 3D-handlingen i handlingsmenyens hjørne øverst til høyre.
+
+> **Merk: **3D-handlingen vil laste den nyeste publiserte revisjonen av dokumentet inn i 3D-visningen. Selv om du ser på en tidligere revisjon.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609467515/0f3244b065fb5bdbe46ad198ff98/image.png?expires=1779991200&signature=07151c3d91cad4cde6b077d6c93c35830876bd08dbcc55a3e120339c618e71ba&req=dSYnH814moReXPMW3nq%2BgZMc0Sbv6WPU8NqbTNkVjHj9fz%2FxQ0ZKfr3y0XoR%0Add4eA5xmPeB8ZpBjJyONyr7AiDo%3D%0A)
+
+## **3D-visningsforhåndsvisning**
+
+Etter at du klikker på 3D-knappen, begynner PC-punktene å lastes inn i 3D-visningen.
+
+3D-visningen av en PC kan se slik ut:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609423520/54537802e257cabf02a7e31773b3/image.png?expires=1779991200&signature=38819792169cb3030d41390f4a38f96c49ba752f16e6767c80658492d00e7b49&req=dSYnH818noRdWfMW3nq%2BgYkVc%2Bi0sao1bTLiV7WfFvJfkGUmK2opnDfoSCAb%0A%2B7NFC1hTE5OF4IfSJnas3coJQQA%3D%0A)
+
+Mot toppen av 3D-visningen kan du se en grønn lastekurve.
+
+Denne lastekurven viser hvor mange punkter som har blitt lastet inn i 3D-visningen for gjeldende kameraposisjon og -vinkel.
+
+Lastekurven kan endres hvis du roterer rundt, ettersom punkter kan forsvinne fra visningen og lastes ut av hukommelsen, eller flere punkter kommer innenfor rekkevidde og begynner å lastes inn.
+
+Og etter noen justeringer med zoom og posisjonering kan PC-forhåndsvisningen se slik ut:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609531299/fdd952082ae44fec28ab2e1aa9ce/image.png?expires=1779991200&signature=932aa16b2db0b62bb18616cd349273d2651d5f0cfb65ddce51279364b27b14b1&req=dSYnH8x9nINWUPMW3nq%2Bgf0Z9P9tBxpV2awJEQpPIFx4Gnzi9h%2FQTFYUWF5z%0AVhX11npDyPLn%2BdtHgXazB97Po6U%3D%0A)
+
+## **3D-visningsinnstillinger**
+
+I denne delen skal vi se på innstillingene i Catenda Hub som gjør det mulig for deg å få den beste opplevelsen med PC-en din.
+
+> **Merk:** Før du konfigurerer 3D-visningen, må du sørge for at applikasjonen Catenda er åpnet i, er konfigurert [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation).
+
+Innstillinger som kan brukes til å konfigurere punktskyer, befinner seg på to steder.
+
+### **1. Punktbudsjett:**
+
+Punktbudsjett kan konfigureres i [3D-visningsinnstillingene](https://support.catenda.com/en/articles/5784718-3d-viewer-settings) som finnes i girkonet mot øverst til høyre i 3D-visningen.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609545463/7cbc97711d4b61b542c7a402b5bf/image.png?expires=1779991200&signature=517977c7a3cf3411492469e999e980925db2ed07a4a049fb62c4ae4548ec3c66&req=dSYnH8x6mIVZWvMW3nq%2BgYowLhbAOrdEOFMDqAlQQwe7%2FZ8mtUSr3mrzJnbE%0ANcENhTLpWfdEZrctvIozPxiEmk8%3D%0A)
+
+I 3D-visningsinnstillingsmenyene kan punktbudsjett justeres fra 100 000 opp til 10 000 000.
+
+Lasting av flere punkter kan ta mer tid og kan kreve flere ressurser fra systemet ditt.
+
+Ved å laste inn flere punkter kan punktskyen vises med høyere troskap.
+
+Se samme visning med:
+
+100 000 punkter
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609571739/d748e276eb87dc27a0aa7db8db07/image.png?expires=1779991200&signature=8d608db65ee68b9c7ed1d795b6b5345150f1339f1b7c2bd7818bdc1a5d9e3cd8&req=dSYnH8x5nIZcUPMW3nq%2BgdxOA5%2BTzjItrNh%2BK8v%2F4uVPmEk6bPwaZygwdlb0%0AAkIkaoRkk7rNnozUdf3g038zDSg%3D%0A)
+
+1 000 000 punkter
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609571931/9586d0dbfe6e5504391c42478670/image.png?expires=1779991200&signature=594770a0e63419b134c01aecb98386b394e136703d9c304f236f322536172e3e&req=dSYnH8x5nIhcWPMW3nq%2BgdiGPj9UQOIMgKtrPLXgoEBAGFpn7w3fxifCwceD%0AYbUkDOtKvEbBRg23Pbz8eqYXtIQ%3D%0A)
+
+10 000 000 punkter
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1609572103/5812057c81b819d94f90f11bc5ce/image.png?expires=1779991200&signature=73bdb9c4763f969dc58057465bcc4401da595e2e7b12735d4d673142020dfd99&req=dSYnH8x5n4BfWvMW3nq%2BgaW7W936heNUiQ55yD2ziU8dx7c4d8PGzDxPoD2o%0ACl%2FKBMEP9%2BWHBBR9SM6E4DN%2BkB8%3D%0A)
+
+### **2. Revisjonvelger, og individuelle PC-innstillinger:**
+
+Øverst til venstre i 3D-visningen finner du [Revisjonsvelgeren](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project).
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1541300106/af53e4c7d67a1b60647226c9682a/image.png?expires=1779991200&signature=3298942dda159f9a1377b241c8857541ca2969a60ce204063cc77099b4c5680d&req=dSUjF8p%2BnYBfX%2FMW3nq%2BgXL4o5%2BmNwOPnbEVzIeYwU0bxJgUWoge1RqP9gYi%0APvPadPyMmnCkXHG4wgW6LWYYnHU%3D%0A)
+
+I [modellermenyen](https://support.catenda.com/en/articles/4670279-revision-selector#h_180a64490d) vil du kunne finne de individuelle [3D-dokumentene](https://support.catenda.com/en/articles/4670279-revision-selector#h_fce60074ef) som du har lastet inn i 3D-visningen.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1541305754/29b5954c54c437f5ea85b76877ca/image.png?expires=1779991200&signature=d610bcb8573541ed79ec47c2e4ad5ee8b281c5afc8fe469016d6b0e4b76a103c&req=dSUjF8p%2BmIZaXfMW3nq%2BgdbK8s%2BNqKV0vAI%2Fkvq3pfcZyKnfHgTINdFDcuQh%0A%2Fl7VYRuoPrvH14zoJpHpQWpa5Cs%3D%0A)
+
+Punktskyer kan konfigureres i revisjonsvelgeren ved å klikke på girkonet.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1541308196/e45ef76ec9ef3c6653cb13e708a7/image.png?expires=1779991200&signature=d5fe1a56ce0abe12b3ad114e746b67ee4d89d3627a52790b614dc27fc31eb6ca&req=dSUjF8p%2BlYBWX%2FMW3nq%2BgT43D8MqTNy9N97BIaZoo3ng1XhL8h0%2F8dM79BQN%0AD9kSxrLC7GMqP1M0BYErXMIYCRA%3D%0A)
+
+Dette er hvordan innstillingsmenyene kan se ut:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1541308195/8be3fe5976c1bc56aaedc1fd78fe/image.png?expires=1779991200&signature=6a1d3c12f83eff2a36d2cf1ce6455b989cc51fe365be655b870cd46fd021923e&req=dSUjF8p%2BlYBWXPMW3nq%2BgRw4zg3gSdIIbqpU1RpvsgP2UPwYfdGp3FBRm8Eo%0A%2BrTiPYgmzJsCswTEnhHKJ%2BgX6sQ%3D%0A)
+
+_Attributt_ _RGBA _- Standard
+
+Vis PC-punkter med deres farger
+
+_Attributt Intensitet_
+
+Intensitetsalternativet kan brukes når punktene ikke inneholder farger.
+
+For eksempel når punktskyen ble fanget opp i en tunnel eller et mørkt rom.
+
+_Dekkgrad_
+
+Når model vises sammen med punktskyer, kan det være nødvendig å dempe punktene for å få en bedre forståelse av synsvinkelen.
+
+_Punktstørrelse_ _Adaptiv_ - Standard
+
+Jo nærmere et punkt er kameraet, desto større er det.
+
+Punkter som er i visningen lastes inn i hukommelsen.
+
+Punkter som beveger seg ut av visningen, lastes ut av hukommelsen.
+
+> **Merk:** Pass på at maskinvaren og programvaren Catenda er åpnet på, er konfigurert [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation) ettersom dette kan påvirke typen punktstørrelsesinlasting som enheten din kan håndtere.
+
+_Punktstørrelse Fast størrelse_
+
+Punkter som har blitt lastet inn, vil holde seg i hukommelsen med dette alternativet.
+
+Med mange punkter vil du legge merke til at rotasjon kan bli forsinket og bevegelse kan bli tregere når du begynner å komme nærmere antallet punkter som systemet ditt kan håndtere.
+
+Du merker kanskje også at det tar lengre og lengre tid å laste inn nye punkter når du kommer nærmere grensen på enheten din.
+
+Punkter lastes først nærmest kameraet.
+
+Før du laster inn punktskyen fra dokumentseksjonen, må du sørge for å plassere kameraet der du vil at punktene skal lastes inn.
+
+Hvis dette er en kameraposisjon du planlegger å bruke oftere med denne punktskyen, bør du vurdere å lage et bokmerke eller et øyeblikksbilder i et emne som du kan avspille for å returnere til denne posisjonen.
+
+_Tettheitsglider for punkter_
+
+Tetthetsgliden hjelper deg å foreta den endelige innstillingen.
+
+Det er ingen regel for riktig verdi, det avhenger av dataene du laster opp (størrelse på datasettet, punkttetthet, type skanning osv...).
+
+Vårt råd: Last inn punktskyen, og vent et kort øyeblikk, når nok punkter vises, justerer du innstillingene hvis nødvendig.
+
+[YouTube-video](https://www.youtube.com/embed/n9pztkRPxoc?rel=0)
+
+# QR-Koder på PDFer i Catenda
+
+Denne funksjonen gir brukere til Caenda en funksjon for å sjekke om dokumentet de bruker er den siste versjonen ved å scanne QR-koden printet på PDFen.
+
+For å kunne ta i bruk denne funksjonen vil du måtte plassere en **[placeholder QR-kode](https://drive.google.com/file/d/1SbGcp8hC8l7854HOCZuI8o-WIBMWrsyF/view)** levert av Catenda på ditt dokument for å så laste opp dokumentet til Catenda Hub. Koden må ha minstestørrelse av 2cm ved 2cm.
+
+![](https://downloads.intercomcdn.com/i/o/1129210747/3afe134405c9c151b8ed9936/image.png?expires=1781092800&signature=c2ea1933f269989980b29fa6c815f2115ec45196d7a904078bb197360e86fddf&req=dSElH8t%2FnYZbXvMW3nq%2BgZCIR8olrrgqRy31Ne2%2BudU3rI2Jb6gXfXlYW6X%2F%0AXNTNl9vBqIGhWJFcubOVyA7Cdis%3D%0A)
+
+**[Placeholder QR-kode](https://drive.google.com/file/d/1SbGcp8hC8l7854HOCZuI8o-WIBMWrsyF/view)**
+
+### Still inn QR-kode på Catenda Hub
+
+QR-kode tildelingen er satt opp via mapper som betyr du kan bestemme at funksjonen skal være aktivert for en bestemt rekke med mapper.
+
+_Tilgang påkrevd:_ Prosjektadministrator.
+
+Under finner du steg for å aktivere QR-kode funksjonen til mapper i ditt prosjekt.
+
+1. På dokumentinnstillinger siden, gå til **[mappekonfigurasjon](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90)**
+
+![](https://downloads.intercomcdn.com/i/o/1058260520/dddd82c067f7b46accb5b32c/image.png?expires=1781092800&signature=e7941acca8aedcea4e848c67e0007a4e09578fab49b5e5c9a824b181ac99454a&req=dSAiHst4nYRdWfMW3nq%2BgRkR2h4rS0XQNc9lbtEQewqJ6NZ6VLakXmSCbXYB%0AVxWNDann97ZsWaqAzYsRKbOcTVk%3D%0A)
+
+2. Klikk på pluss knappen ved siden av mappen du ønsker å aktivere funksjonen for for å åpne mappekonfigurasjonen. Under tildel QR kode si **ja**.
+
+![](https://downloads.intercomcdn.com/i/o/1058261375/a52f5da19606885304d919f1/image.png?expires=1781092800&signature=4c64a3d24c6c5463ebe93bbe1059a2dbb1bb4338b4ad72cfa53803d88d531b46&req=dSAiHst4nIJYXPMW3nq%2BgSrY7yhARKJj3Bos80hgsCYYWj1IyWqj837ROIDg%0ADGVbmygamuvFA2FrHAL5c1SXMPw%3D%0A)
+
+Scanningen av placeholdere og plasseringen av QR-koder vil bare foregå i mapper med QR-kode tildelingen.
+
+> **Note:** **Merk:** Så snart en foreldermappe er tildelt vil alle under-mapper ha denne tildelingen. QR-koder kan tildeles til enhver mappe så lenge forelder mappen ikke allere er tildelt.
+
+### Publisering med QR-koder
+
+1. Last opp en ny revisjon av en PDF med placeholder i en mappe med QR-kode tildeling
+1. Under publiseringen vil PDFen scannes for placeholder og erstattes med en QR-kode (generert for denne revisjonen)
+1. Den nylig genererte QR-koden vil være del av PDFen som kan vises/scannes på Catenda Hub og/eller lastes ned.
+
+![](https://downloads.intercomcdn.com/i/o/1058270845/bbf3025f7cf4ce2c44e5ff3a/image.png?expires=1781092800&signature=87316e36cd478d482c98ab3fde729320404c1178d31708e40ca8cb797844e67a&req=dSAiHst5nYlbXPMW3nq%2BgcetveFGeYCsO6kaiNDTAeDsrR86FZzvPBsliNcU%0AoJizxECcx70jjX9lsLKDjBubHOo%3D%0A)
+
+Her er et eksempel på plasseringen av placeholderen til QR-koden og resultatet etter å ha lastet den opp til Catenda Hub. 1. Placeholder i tittel delen av tegningen. **Klar for opplasting**.
+
+![](https://downloads.intercomcdn.com/i/o/1128898386/b042fd79d7595f8d12a0159c/image.png?expires=1781092800&signature=7b305493e3afeef99f797c6bde7577f9ee147be9259ffd5234d136ceb18b19a5&req=dSElHsF3lYJXX%2FMW3nq%2BgcCYNHtVa2O6MpBCTIpzHdyIjlAArQsK42e3eW8C%0ARJ8ENFmJfkyirg6BcnLQ%2FlGVRgM%3D%0A)
+
+2. Placeholder i tittel delen er erstattet med den genererte QR koden. **Klar for bekreftelse**.
+
+![](https://downloads.intercomcdn.com/i/o/1129687828/6fba8f5b78f9f26b6c0e5b25/image.png?expires=1781092800&signature=55a085321bf04009ffc5682bedfb937e1a8a745978110ea5fa2e653c230c60eb&req=dSElH892moldUfMW3nq%2BgZOaMeorej4wNegl5eWFN3XW6bJCLqd8omIpfqDg%0AO6V0qLi3tjmDOiAbb2n%2BOrLzNCo%3D%0A)
+
+### Bekreftelse av siste revisjon
+
+Scanning av QR-koden med din mobile enhet vil ta deg til bekreftelse siden hvor følgende resultater sukker opp angående på versjonen til PDFen.
+
+1. Din revisjon er siste versjon til PDFen: **Dokument gjeldende**
+1. Din revisjon er en eldre versjon av PDFen: **Dokument ugyldig**
+1. Du scannet en placeholder: **Du scannet en placeholder, dette dokumentet er ikke publisert.**
+
+    <div class="intercom-container"><img height="684" src="https://downloads.intercomcdn.com/i/o/1128836302/b5ed664002c909cad1388c1c/image.png?expires=1781092800&amp;signature=e32a0bc159c2fe53c0580cf78540908f18b726e36d6e988f6fd07bba7b2f7069&amp;req=dSElHsF9m4JfW%2FMW3nq%2BgRAbWSa0uwekHXdmw0dniPvD%2F48H6GJmWGPMPCrC%0AngeKuBJW%2FPMavpOc%2Btwvf9PFqVY%3D%0A" style="height: auto;" width="1079"/></div>
+
+# Saksbrødteksten - Innholdet i en sak
+
+Velg en sak fra en [saksliste](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) for å åpne sakens innholdsside.
+
+Dette er hvordan [saksbanneret](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) kan se ut som:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2316227376/2fcd2749d5c2f37beba432f3f703/image.png?expires=1781092800&signature=f8cef996067a2e715458ffb9f83b13ec4854d324e85b8ba45459e279e5e3b08a&req=diMmEMt8moJYX%2FMW3nq%2Bgd186s34rYETejoslBJAHmVizCjO5y3bqxjHewBk%0AhJjHqmUGJWeFE%2BM66K7lGanqiew%3D%0A)
+
+Dette er hvordan [hovedfeltet](https://support.catenda.com/nb/articles/8400566-sakshovedfelt-metadataen-til-en-sak) i en sak kan se ut som:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2316227375/ac4a96268310537373fa5b2c2f86/image.png?expires=1781092800&signature=95243bd5bcb286defc715ca630f099fc0f1d5dc03ed5293fb112dae5cf8920e5&req=diMmEMt8moJYXPMW3nq%2BgZWopNksTFRTp4QRLZEMmeuyIB0RSWsKN%2FlZUoZg%0AahZe21zN9fCZe54aFb0N6VNChrM%3D%0A)
+
+Under hovedfeltet finnes sakskroppen med beskrivelse og kommentarer.
+
+Sakskroppen beskrives i denne artikkelen.
+
+Til høyre for saksbrødteskten og hovedfeltene vil du finne [høyre informasjonsmeny](https://support.catenda.com/en/articles/8053299-issue-right-panel).
+
+Klikke på informasjonsikonet til i saksbanneret for å utvidde høyre informasjonspanel.
+
+Sakskroppen beskrevet i denne artikkelen finnes under saksbanneret og til venstre for informasjonspanelet.
+
+Denne artikkelen inneholder informasjon om følgende temaer:
+
+**[Fremdriftslinje](#h_4ad2e6e719) - [Beskrivelse](#h_3fd5e42ba2) - [Vis historikk](#h_c6af9b6536) - [Sortering](#h_8804455a91) - [Kommenter](#h_8197738e21)**
+
+Dette er hvordan sakskroppen kan se ut som:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2316252889/47a1caebe7af96d4a7cf2889a3df/image.png?expires=1781092800&signature=04f14479f6c886ddd53a1b65ffdde27f609152c6f7e666188e53fb97765a8961&req=diMmEMt7n4lXUPMW3nq%2BgR5xCwxYmammp2IayEiuEfonYESAFlf%2FFKl5X5YQ%0A4GQAH9a0XaRKnttHaK8nLER3VrA%3D%0A)
+
+## **Fremdriftslinje**
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1277387429/854b594aa1667c300a8934319dac/image.png?expires=1781092800&signature=d492339d0bb7412223de9f52879a938fc6eb1cdd0509be8a1c8fde8c4584e317&req=dSIgEcp2moVdUPMW3nq%2BgQHKdxcdSiJl%2BHa%2FLhwpuNxlnlmfBAcEdz68morY%0AOnmJLu75iOmbLBHejOJDQzVKv88%3D%0A)
+
+Fremdrifts linjen viser fremgang av de avsjekkede boksene og fremgang på avklaring av de relaterte sakene fra beskrivelsen til saken.
+
+For et kort videokurs om om sjekklister, se [her](https://support.catenda.com/en/articles/5036461-check-lists-within-issues).
+
+## **Beskrivelse**
+
+Saksbeskrivelsen følger generelle [formateringsregler for innlegg](https://support.catenda.com/nb/articles/8430847-formatering-av-innlegg).
+
+### **Rediger beskrivelse**
+
+Klikk på blyanten øverst til høyre av saksinnholdet for å redigere beskrivelsen.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1277387431/0271299becec9181f76d74346249/image.png?expires=1781092800&signature=e44b16756dfb07432509850c04cf37669870a0e2d6559df22e3699f52b3e4a48&req=dSIgEcp2moVcWPMW3nq%2Bgcyx2W3t03BpNkMEP9Fk00roKH8t3vJiUUiYRWbT%0ABT1KYwHB1ujmiwUhAb%2Fpo9sfT6s%3D%0A)
+
+For mer informasjon om formateringsvalg rediger beskrivelsen og klikk på spørsmålstegnet. Du vil også kunne finne formateringsinformasjon i [denne artikkelen](https://support.catenda.com/nb/articles/8430847-formatering-av-innlegg).
+
+_Tilgang påkrevd:_ Skrivetilgang til sakslisten
+
+### **Opprettet av**
+
+Oppretteren til saken og tidspunktet den ble opprettet. For å få et mer spesifikt tidspunkt, gå til [kontoinnstillinger](https://support.catenda.com/nb/articles/6880968-konto-siden#h_c5967b65d3).
+
+## **Vis historikk**
+
+Hvis du noen gang lurer på om en sak har endret seg kan du vise historikken til saken ved å klikke på vis historikk knappen nederst til høyre av saksbeskrivelsen.
+
+Se [denne artikkelen](https://support.catenda.com/en/articles/8613038-topic-history) for hvilke typer historikk som er mulig å finne igjen på Catenda Hub.
+
+## **Sorter kommentarer**
+
+Vis eldste kommentar først - _Standard_
+
+Vis nyeste kommentar først
+
+## **Kommentar**
+
+Tekst i kommentarer følger [generelle regler for formatering av innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts) men er litt forskjellig når det kommer til sjekklister.
+
+### **Uthev vedlegg**
+
+Om du klikker på bildet til et vedlegg uthever du ut bildet.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1277387440/414982396bdd1137d530b24bad44/image.png?expires=1781092800&signature=1df97e4cedc145b8b002313279686e05cc6bc330e975fb42970f06e129ba1db0&req=dSIgEcp2moVbWfMW3nq%2BgXO3dsvyjTEHulSAAsT9ba5XzBc0tbI%2B3TwD9LdF%0AsKCjutTTRWD5t45aMV4kF%2FXbjCo%3D%0A)
+
+Naviger mellom bilder fra forskjellige kommentarer i denne visningen ved å bruke venstre/høyre navigasjonspilene som er oppe til venstre.
+
+Klikk på "last ned" for å laste ned bildet (du kan ikke høyreklikke på bildet for å lagre det).
+
+Fest det uthevede bildet med tegnestift-ikonet øverst til høyre for å beholde det uthevede bildet åpnet mens du navigerer rundt andre områder av Catenda Hub.
+
+Lukk det uthevede bildet ved å klikke på x øverst til høyre, klikk på lukk knappen nederst til høyre eller trykk ESC-knappen på tastaturet.
+
+Du vil finne følgende innhold i et kommentar:
+
+**[Vedlegg/Bilde](#h_a4a5754163) - [Vedlegg/2D-3D](#h_4ba127273d) - [Vedlegg/Anmerkning](#h_0f7d140b8e) - [Nytt kommentar](#h_c5367730bc) - [Aksjonsmeny](#h_f120f6d971)**
+
+### **Legge ved et bilde**
+
+**Legge til et bilde i en kommentar**
+
+Du kan enten klikke på pluss ved siden av kommentarboksen og klikke på bilde for å velge et bilde fra din lokale disk eller klipp-lim et bildet for å legge det ved som kommentar.
+
+**Koble bilde til 3D**
+
+Når du legger et bilde til en kommentar vil det si "Ingen viser kobling" under bildet med mindre du laster en modell inn i 3D viser. Denne teksten vil da si "koble til 3D visning".
+
+Du kan nå koble det til objekter og en posisjon i viseren.
+
+Hvis du sender inn denne kommentaren vil du alltid kunne spille av visningen ved å klikke på spill av knappen. Pass derfor på å legge til dine bilder etter å ha åpnet en modell i 3D.
+
+**Uthev bilde**
+
+Bildet som er et vedlegg til kommentaren etter at den er sendt inn kan [utheves](#h_e3937ff414).
+
+Du kan da se innholdet til bilde i et større format og laste det ned etter innsending.
+
+**Slette et bilde fra en kommentar**
+
+Det er bare mulig å slette bildet som ligger vedlagt i en kommentar ved å slette hele kommentaren.
+
+### **Legge ved et 2D- eller 3D-øyeblikksbilde**
+
+Ved å klikke på pluss knappen ved siden av kommentarfletet kan du legge til et 2D eller 3D snapshot.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1296352903/229d012afbab44adfd77befb8db4/image.png?expires=1781092800&signature=6e763a9cc924e19db250aebe626686797a6b139d3fe795ff3bcea006fbe1f255&req=dSIuEMp7n4hfWvMW3nq%2BgXbqcr%2B4Iti0rL7w4co2%2BWELCGqwNQSB%2FZUPm9Oi%0A%2B3LKmzyvHW9aeb7xi6OtrtXu0L0%3D%0A)
+
+_Legge ved et 2D- eller 3D-_øyeblikksbilde _i en kommentar_
+
+Om du har en modell som er lastet inn i 3D viser kan du legge ved et 3D øyeblikksbilde i en kommentar.
+
+Om du har 3D viser åpnet opp kan du også legge ved et 3D øyeblikksbilde i kommentaren.
+
+Dette er hva et 3D-øyeblikksbilde kan se ut som.  2D-øyeblikksbilde vil ha samme knapper, men med et bilde fra 2D-viser lagt ved.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1277460044/30b2e98b1391c4bb18243637a960/image.png?expires=1781092800&signature=341d8b8f1b4e41defe30603c65854479059ff5fcdfc17f9b4fae8061483a601f&req=dSIgEc14nYFbXfMW3nq%2Bgf3%2FnEMh1dZRKFLJmThxxuXs5z3g5DFoz548RPiP%0AfGOenwIdDRnI%2BY49Ia5lI7B2IXE%3D%0A)
+
+_Gjenskap_ øyeblikksbilde
+
+Øyeblikksbilder kan inneholde informasjon om tidspunktet da det var opprettet.
+
+Om et objekt var gjemt de øyeblikksbildet ble opprettet vil objektet med den IDen være gjemt når øyeblikksbildet er gjenskapt.
+
+Om et objekt var isolert vil objektet med den IDen være vist mens andre objekter som var isolert ved opprettelsestidpunkt vil være gjemt.
+
+Dette gjenspeiler også alle objekter med nye id'er som kan være lagt til i nyere revisjoner til modellen.
+
+_Gjenskap_ øyeblikksbilde _med siste revisjoner_
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1277460655/359adaf7c48f4b01d5cfdda511f7/image.png?expires=1781092800&signature=5950893dd47c83c61e353d58397791aa67ae0e698634b4711eaf03c8795aac10&req=dSIgEc14nYdaXPMW3nq%2BgZjorU4jNJ%2BLT%2FXSZ23QP1H2rxMl5CE%2FWO%2F0PByD%0AAWsnrWFr9qi%2F%2FIXuifOd7eUXKqo%3D%0A)
+
+Øyeblikksbilder kan brukes til å vise hva du ser på etter som de som spiller av vil kunne gjenopprette same fremvisning, ikke bare i Catenda Hub, men også i deres modelleringsmiljø. Øyeblikksbilder kan gjenskapes ved å spille de av både i Catenda Hub i nettleser og gjennom våre plugins i diverse redigeringsverktøy.
+
+I Catenda Hub vil øyeblikksbildet flytte kameraet til det rette stedet i viseren.
+
+I våre plugins vil 3D-visningen vises i 3D-viseren til dette verktøyet.
+
+Når denne knappen klikkes vil øyeblikksbildet gjenskapes med følgende innstillinger:
+
+- Siste revisjon av modellene som er stilt inn lastes inn i 3D viser.
+- Kameraet i 3D viseren vil flytte til stedet og synsvinkel som er definert i øyeblikksbildet.
+- Selekterte objekter vil gjenskapes som selekterte.
+- Gjemte objekter vil gjemmes.
+- Klippeplan fra øyeblikksbilde vil gjenskapes.
+- Seleksjoner som er gitt farge/gjennomsiktighet vil gjenskapes.
+
+**Gjenskap øyeblikksbilde med opprinnelige revisjoner**
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1277462448/6e7d5dff10384502a3d7e6a7d5c9/image.png?expires=1781092800&signature=770008c32742c802779825255900ebc2beae030e9744caacea0f3ca655871848&req=dSIgEc14n4VbUfMW3nq%2BgbjbrqWH9r0GJsnG%2F9k%2FMiqblzEPJC1NFzSFw3Wl%0AUJ3tRgvJDgorwqxJZEekDSv9aN4%3D%0A)
+
+- Ved å klikke på denne knappen vil øyeblikksbildet gjenopprettes med samme modell og originale revisjoner vil lastes inn i 3D viser.
+
+**Modeller**
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1277387436/f1b46db92f43d932a5e1a74bc18d/image.png?expires=1781092800&signature=f4d7321fb2bd0dd0a7641672bb52a7bd3f6c0d3497e988d7eacc4e6694ed0e7f&req=dSIgEcp2moVcX%2FMW3nq%2BgXBDJc9Rs%2F9yIi08cJ1w8phu%2BayJUaX6f1XDmSqV%0A5lVbZ1gHDUl4IA%2BD4nDm6EHs9OQ%3D%0A)
+
+Viser hvor mange Catenda Modeller som er lenket til øyeblikksbildet.
+
+Klikk denne knappen for å åpne modellselekteringsdialogen.
+
+Modellvalgdialogen kan se ut noe som dette:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1277387438/b109ec69fda065e44df6b5cc6772/image.png?expires=1781092800&signature=2e4aef3436824ff25e0a3e880a2c0e6a1fc523596985db006ac72351bde7e248&req=dSIgEcp2moVcUfMW3nq%2BgZePso3rpUz3U0tOhPrIjRyMycULnM7BYQUsOrcC%0AR%2BBV%2BgtN7frGV0U0f6jFHmnMxD4%3D%0A)
+
+- De lenkede modellene vil lastes inn nå øyeblikksbildet spilles av.
+- Legg til eller fjern modeller ved å huke de av/på og trykke på lagre.
+
+> **Note:** **Merk:** I denne menyen kan du bare lenke øyeblikksbilder fra Catenda modeller. Det endres ikke in innholdet til BCFen.
+
+- Angående på objektfremvisningsinnstillingene til øyeblikksbildet kan modeller som legges ved være gjemte. Selv hvis de ikke er visbare skal du kunne se at de lastes inn når øyeblikksbildet gjenskapes.
+- Modeller som er på når dette menyen er åpnet gjenspeiler de gjeldende modellene som er lastet inn i 3D viser. For å lett legge til/fjerne et sett med modeller kan du lage en bokmerke, spille av bokmerket og gå til øyeblikksbildet for å klikke på modell menyen og lagre det nye oppsettet.
+- Om en modell i din øyeblikksbilde har samme IFCProject GUID som en modell i modeller delen vil modellen automatisk bli lenket.
+
+    Her er en artikkel fra BuildingSMART som beskeriver hvordan IFCProject GUIDen kan påvirkes i Revit: [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
+
+- Last modeller - Last modellene til øyeblikksbildet i tillegg til modellene som allerede finnes i viseren.
+
+**Selekterte objekter**
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1277387439/92d88e7a98d13825fba55fe00478/image.png?expires=1781092800&signature=d6f12df08f28191abb5d9687f62593cb409a793bfa6c08c7c9501ff48b00667f&req=dSIgEcp2moVcUPMW3nq%2BgXVhOeXGyj%2Fe13SnY2kkyGnTNT5A96cociOQdHZ8%0AqhV%2Fq66YVJBjltJbQbqZOeNHKX8%3D%0A)
+
+Denne knappen viser hvor mange objekter som er valgt i øyeblikksbildet.
+
+Klikk knappen for å velge objektene som er stilt inn for øyeblikksbildet i 3D viseren.
+
+Om du har 3D viseren åpne vil denne knappen være i aksjonsmenyen.
+
+**Still inn kamera posisjon**
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1277387437/dedf83d1979a8ff692154db70c6a/image.png?expires=1781092800&signature=b10ebdee0e5f8227d6b0f38cb310b5f65f7df03ec2d78c176bcc7092c3951b45&req=dSIgEcp2moVcXvMW3nq%2BgWV0M76qiZgxl9X7moVcyKFdOZ33kNp6oQzoYB%2B3%0A9F%2Fg90MmufZyPoI57QUbAw9dFcs%3D%0A)
+
+Flytt kameraet til stedet som er stilt inn for øyeblikksbildet i 3D viser.
+
+Om du har 3D viseren åpne vil denne knappen være i aksjonsmenyen.
+
+**Uthev bildet**
+
+Bildet som er lagt ved kommentaren etter at kommentaren er sendt inn kan [utheves](#h_e3937ff414) for å se innholdet i et større format og laste det ned.
+
+**Slette et øyeblikksbilde**
+
+Det er kun mulig å slette hele kommentaren så om du ønsker å slette øyeblikksbildet må hele kommentaren slettes.
+
+_Øyeblikksbilde_ _bilde vedlegg_
+
+Størrelsen til bildet som legges ved angår på størrelsen til viseren og nettleser zoom nivået.
+
+Øyeblikksbilder er den beste måten of lage høye kvalitets bilder fra Catenda Hub viseren for av følgende grunner:
+
+- Øyeblikksbilder kan lastes ned gjennom [vedlegg uthevelse menyen](#h_e3937ff414).
+- Øyeblikksbilder kan ha høyre oppløsninger enn ved å bare ta et skjermbilde av viseren.
+- Øyeblikksbilder har transparent bakgrunn. Med 3D øyeblikksbilder vil bildet bare inneholde piksler hvor det er objekter i 3D. Med 2D øyeblikksbilder vil bildet bare inneholde avbilding der det er linjer i 2D.
+
+Antall bildepunkter til et øyeblikksbilde avhenger av størrelsen av viseren, nettleser zoom nivået og ditt operativsystems visningsskala (dpi).
+
+Det største bildet vi har sett generert hittil har vært 6417 bildepunkt ved 11113 bildepunkt. For å lage et øyeblikksbilde så stort var følgende innstillinger brukt:
+
+- 4K skjermvisning.
+- Innholdspanelet og 3D panelet var åpnet.
+- Innholdspanelet var så liten som mulig.
+- Nettleser i fullskjerm.
+- Nettleser zoom nivå 10%
+- Visningsskala i Windows 100
+
+Disse innstillinger kan være tunge på systemet og det kan hende sitt system ikke takler det. Det er mulig du vil måtte justere disse innstillinger for å få det meste ut av ditt system.
+
+### **Merknad**
+
+Hold kontroll på anmerkninger på dokumenter ved å opprette en merknad.
+
+Når en merknad lagres blir den endten lagt til i kommentaren til en eksisterende sak eller i en ny sak der merknaden er opprettet.
+
+En sakskommentar med en merknad kan se ut noe som dette:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/2316179387/baee9736503bcbc563422e89fc78/image.png?expires=1781092800&signature=b4538dd92520f6e4eaa78978a98429f8a9758bd6589722fec16345818a8ede6a&req=diMmEMh5lIJXXvMW3nq%2BgfSc08qf%2BL74gUJmeb9ByrYo6eImOB0%2FuSMXWayh%0AwdLvxkGsIqlksGoJvC6R%2F9%2Fx%2FP8%3D%0A)
+
+Når en merknad legges til i saken vil dok
+
+Når en merknadsskommentar er lagt til i en sak vil det annoterte dokumentet automatisk lenkes i [relaterte dokuementer](https://support.catenda.com/en/articles/7986346-issue-content#h_be2f2bcf3b).
+
+**Markup kommentar**
+
+Merknadskommentaren følger de [genereller reglene for formatering av innlegg](https://support.catenda.com/nb/articles/8430847-formatering-av-innlegg) med en liten endring når det kommer till sjekklister.
+
+**Merknad øyeblikksbilde**
+
+Sen følgende informasjonen vises i øyeblikksbildet til en merknad:
+
+- Et skjermbilde av området der dokumentanmerkningene ble opprettet.
+- En avspillingsknapp
+    - Dokumentforhåndsvisningen til revisjonen der anmerkningene til merknaden er og kan åpnes på dokumenter siden når avspillingsknappen er klikket.
+    - _Minstetilgang:_
+        - Lesetilgang til dokumentet merknaden er på.
+        - Tilgang til å vise delte revisjoner i dokumentet dersom merknaden er på en delt revisjonen.
+    - Dokumentforhåndsvisningen til dokumentet vil ikke vises dersom:
+        - Dokumentrevisjonen der trukket tilbake.
+        - Dokumentet er slettet.
+- Sidetallet til siden som anmerkingene er på i dokumentet.
+- Antall anmerkninger på siden i dokumentrevisjonen.
+- Navn og revisjon til dokumentet med amnerkninger
+    - Dersom anmerkningen er laget på en PDF sammenligning vises revisjonsnumrene til de to revisjonen som er sammenlignet.
+
+**Uthevet bilde**
+
+Bildet som er lagt ved kommentaren etter at kommentaren er sendt inn kan [utheves](#h_e3937ff414) for å se dets innhold i et større format og for å laste det ned etter at det er sendt inn.
+
+### **Nytt kommentar**
+
+Om du legger til et vedlegg i din kommentar og uthever vedlegget før du sender den inn vil du se at du kan annotere bildet i vedlegget.
+
+1. 2D/3D øyeblikksbilder kommer fra din siste kameravinkel i 3D/2D viser. Ves å åpne 3D knappen i navigasjonsviseren kan du navigere gjennom modellen og klikke på legg til knappen for å velge 2D/3D øyeblikksbilder. Øyeblikksbilder vises da som vedlegg i kommentaren.
+1. Hvis du venstre klikker på øyeblikksbildet vil du ha valget til å legge til anmerkninger i bildet. Under bildet vil du se en verktøy linje med verktøy for å legge til anmerkninger på et sted i bildet​
+1. Tekst boksen ved siden av legg til knappen er for å skrive en kommentar. Denne følger [generelle regler for formatering av inlegg](https://support.catenda.com/nb/articles/8430847-formatering-av-innlegg).
+
+### **Aksjonsmenyen til en kommentar**
+
+**Redigere en kommentar**
+
+Bare oppretteren av en kommentar kan redigere sin egen kommentar. Det er bare mulig å redigere teksten i en kommentar.
+
+Om du ønsker å fjerne vedlegget til en kommentar vil hele kommentaren måtte slettes.
+
+**Slette en kommentar**
+
+Bare oppretteren av en kommentar kan slette sin egen kommentar.
+
+# Skrivebordstilkoblingen (Desktop Connector)
+
+> **Note:** **Merk:** Installasjonsfil for pluginnen er i denne [hjelpeartikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+
+Med skrivebordstilkoblingen, Catenda Desktop Connector, kan du planlegge opp-/nedlastinger til de siste versjonene av dokumenter.
+
+Denne artikkelen inneholder informasjon om følgende temaer:
+
+**[Umiddelbare opp/nedlastinger](#h_5f16c6b221) - [Synkronisering](#h_09a38be44f) - [Hjemmeside](#h_f1e6129450) - [Feilsøking](#h_74544deb31)**
+
+## **Umiddelbare opp-/nedlastinger**
+
+Skrivebordstilkoblingen lar deg laste opp filer fra ditt lokale system til en spesifisert mappe på Catenda Hub. Du kan også selektere en rekke med mapper på Catenda Hub for å laste de ned til et sted på din lokale maskin.
+
+### **Opplastingshastighet**
+
+Opplasting av filer med skrivebordstilkoblingen er raskere på filoverføring enn den standard opplastingsprosessesen ettersom filene er importert via APIet i stedet for via nettleseren.
+
+Det er derfor den beste måten å laste opp dine filer hvis du laster opp store mengder med data på en gang.
+
+### **Vellykkede opplastinger**
+
+Hvis du drar og slipper flere filer eller bruker zip-opplastingsfunksjonen på Catenda Hub laster du opp ett stort sett med data.
+
+Jo større opplastingen er, jo lengre tar det å sende inn dine filer til dokumentstrukturen i Catenda Hub.
+
+**En fil av gangen**
+
+Ved å laste opp filer fra en mappestruktur en fil av gangen med skrivebordstilkoblingen kan du pausere opplastingsjobben og fortsette den senere.
+
+**Mindre sjanse for feilmeldinger**
+
+Jo større opplastingen, jo høyere risiko for at den feiler. Kanskje strømmen går, kanskje internetttilkoblingen feiler for et millisekund. Da ville du måttet starte opplastingen på nytt.
+
+## **Synkronisering**
+
+Du kan planlegge når dine filer lastes opp eller ned med jevne intervall.
+
+### **Lokalt system -> Catenda Hub**
+
+Skrivebordstilkoblingen forsikrer at filene på ditt lokale system er oppdatert med filene i ditt Catenda prosjekt.
+
+### **Catenda Hub -> Local system**
+
+Det kan også fungere den andre veien der skrivebordstilkoblingen forsikrer at du alltid har siste versjon av dine Catenda Hub dokumenter på ditt lokale system.
+
+## **Logg inn**
+
+Når du først åpner skrivebordstilkoblingen vil du bli spurt om å logge inn.
+
+Hvis du klikker på logg inn knappen vil din standardnettleser åpnes med en side som ber deg om å logge inn.
+
+Etter å ha logget inn, eller hvis du allerede var logget inn, vil du bli spurt om å gi tilgang til din Catenda konto.
+
+Etter å klikke på tillat adgang vil du bli spurt om å åpne skrivebordstilkobling appen.
+
+Du vil da bli sendt tilbake til skrivebordstilkobling startsiden.
+
+![](https://downloads.intercomcdn.com/i/o/950031540/36cd0ebbd558689393707668/image.png?expires=1781092800&signature=0e4b881b5ad87ef25b75105e7a7e8ecd494477dfaa34d1d4278e9b4fa5b20dff&req=fSUnFsp%2FmIVfFb4V1XW4gfDY9EEgr1R66lyc8%2Fis2Xr%2FzXcao8SXlcGPq7zG%0ADZpSrheuhiUYwCibiwZ1deljSg%3D%3D%0A)
+
+## **Starteside**
+
+Når du starter opp skrivebordstilkoblingen vil det se ut som dette:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454512207/d65fcc6b794f804bc8685db81e96/image.png?expires=1781092800&signature=a30aafb60d433473bd80ba811a32716afc3a684b2492aebd4b7b5a2281376e65&req=dSQiEsx%2Fn4NfXvMW3nq%2BgXYDEwmHCjjJCZlMUcEhnRH9Uw%2Bk4ToZ2NMOTtXU%0A8loqgvNquDud5WDSTa%2FdD2NmtaU%3D%0A)
+
+### **Vekke PC**
+
+Vekke PC fra sovemodus hvis en oppgave er planlagt til å kjøre på et bestemt tidspunkt.
+
+### **Kjør på oppstart**
+
+For å kjøre skrivebordstilkoblingen ved oppstart, velg dette valget.
+
+### **Logg ut**
+
+Klikk på logg ut knappen nederst til høyre for å logge ut.
+
+![](https://downloads.intercomcdn.com/i/o/950021316/0053ee8a768a5188e6313c57/image.png?expires=1781092800&signature=43a10ad461d99e318a20b35ee132a99b1abed0e726ac4e1fdb3c57928b439578&req=fSUnFst%2FnoBZFb4V1XW4gThqJOWIUgCvL1w4D%2FD00hZl%2BjSWkhBzu0AfrfCB%0At7yYs0Cvm2OWN4cYaarP2Iu8jw%3D%3D%0A)
+
+## **Prosjekter listen**
+
+Her kan du se en oversikt over dine prosjekter og antall opp- og nedlastingsoppgaver du har satt for hvert prosjekt.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454511391/3dec673019e79d576a9fbbdf74fd/image.png?expires=1781092800&signature=c0d13f050c3787d8f4bc601621571aac4a16afa95bf753707c74fb6b0b6a5f66&req=dSQiEsx%2FnIJWWPMW3nq%2BgVIDujC5hAxXP6WwoXzVLWMtbCVf4iDdThaQOtcr%0ABqxSXRH4oYKU9d%2FXCPm3OuiEFpY%3D%0A)
+
+Klikk på navnet til et prosjekt for å se dine gjeldende opp- og nedlastingsoppgaver eller for å planlegge en ny oppgave.
+
+### **Synkroniseringsknappen**
+
+Hvis du har nylig blitt medlem av et prosjekt kan du klikke på synkroniseringsknappen for å laste inn din liste av prosjekter på nytt.
+
+![](https://downloads.intercomcdn.com/i/o/950025424/2f27581570051bde063c7246/image.png?expires=1781092800&signature=ef6298b070111ca73c8e594595b72887bd2b9b9cac65cea8e800e7af69f4ec2d&req=fSUnFst7mYNbFb4V1XW4geobuS5sg5oKpjFhFVSCA3gu2MlbQTC4KuaGF1EC%0A3NuFgqd7xXl8O8cJztQFnUVDow%3D%3D%0A)
+
+### Navn
+
+Klikk på navnet til et prosjekt for å se din gjeldende opp- og nedlastingsoppgaver eller for å planlegge en ny oppgave.
+
+### **Opplastingsoppgaver**
+
+Antall opplastingsoppgaver som er aktive for dette proesjektet.
+
+### **Nedlastingsoppgaver**
+
+Antall nedlastings oppgaver som er aktive for dette prosjektet
+
+## **Opplastingsoppgave**
+
+Med denne oppgaven kan du planlegge en periodisk opplasting av filer fra ditt system til Catenda Hub.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454513666/58c444d8f0a3aecedf9451a37e4c/image.png?expires=1781092800&signature=c5d6b85087167630e951b0e14e1f445287c73d00b8cc7d055e570305224bd2c9&req=dSQiEsx%2FnodZX%2FMW3nq%2Bgb5BulI8ZsQj1X9ePYqJQTxAn3msLP9dQCitIb1z%0AhLi8gV1V4QcmeUU3yricrviMAC0%3D%0A)
+
+### **Tittel** - Minstekrav
+
+Opplastingsoppgaven må minst ha en tittel for å kunne lagres.
+
+### **Planleggisnskalender -** Minstekrav
+
+Minst en dag må være valgt i Opplastingsoppgaven for at den skal kunne lagres.
+
+### **Prosjektlokasjon**
+
+_Server_ - Velg stedet på Catenda Hub som du ønsker å synkronisere filer til.
+
+_Lokal_ - Velg stedet på ditt system som du ønsker å synkronisere filer fra.
+
+### **Øyeblikkelig**
+
+Klikk på opplastingsboksen for å sett i gang denne oppgaven øyeblikkelig.
+
+Du må ikke lagre oppgaven for å sette i gang opplastingen.
+
+Om du lagrer oppgaven vil den kjøre periodisk til den gitte tiden.
+
+## **Nedlastingsoppgave**
+
+Med denne opggaven kan du planlegge en periodisk nedlasting av filer fra Catenda Hub til ditt system.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454513030/be3e55bc88d82f2aa759e1c39a92/image.png?expires=1781092800&signature=b27f3771733073b6c11411f7ac518ba010426e6ee8582020a32836bb8d110f84&req=dSQiEsx%2FnoFcWfMW3nq%2BgbrTnbPUqZVcwVwAkhCa5inmIvrYv4%2FrOUjdnPQd%0ATBBrENbK%2F7boD89P5TjSL1bTu14%3D%0A)
+
+### **Tittel** - Minstekrav
+
+Opplastingsoppgaven må minst ha en tittel for å kunne lagres.
+
+### **Planleggisnskalender -** Minstekrav
+
+Minst en dag må være valgt i Opplastingsoppgaven for at den skal kunne lagres.
+
+### **Prosjektlokasjon**
+
+_Server_ - Velg stedet på Catenda Hub som du ønsker å synkronisere filer til.
+
+_Lokal_ - Velg stedet på ditt system som du ønsker å synkronisere filer fra.
+
+### **Øyeblikkelig**
+
+Klikk på opplastingsboksen for å sett i gang denne oppgaven øyeblikkelig.
+
+Du må ikke lagre oppgaven for å sette i gang opplastingen.
+
+Om du lagrer oppgaven vil den kjøre periodisk til den gitte tiden.
+
+De nedlastede dokumenter ender opp på ditt system pakket ut.
+
+Om filene var lastet ned gjennom nettleser hadde du fått de i en zippet fil.
+
+### **Tilbakeknappen**
+
+Klikk denne knappen for å gå tilbake til [hjemmesiden](#h_f1e6129450).
+
+![](https://downloads.intercomcdn.com/i/o/950023253/d65643c0a2f97d7bc7d2319e/image.png?expires=1781092800&signature=a5c07c2bae2a7ad2cb375cfc7b58e84de093d43a89c6106dadabc2204c59e04e&req=fSUnFst9n4RcFb4V1XW4ga0YsQM1%2FTQcJiZjnQF4y8vosAgaXDzX%2Bu%2BJTnPP%0ArEpZpux7zmL2kXm%2Fj27ea4%2FJnQ%3D%3D%0A)
+
+## **Oppgavelisten**
+
+Her kan du se dine gjeldende opp- og nedlastingsoppgaver.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1454511852/89de9904677e01ac378e31744f71/image.png?expires=1781092800&signature=133a88ae87d91f7696626481bd3c5f271e32e24c536d431cef99a95991a003bc&req=dSQiEsx%2FnIlaW%2FMW3nq%2BgbmyGBGmkfA25sLswXiTltQYOHlvraGzToIU9VlX%0AG6vHVa1Yfx2UuL2p6TkvIK84W5U%3D%0A)
+
+### **Navn**
+
+Navnet til oppgaven.
+
+### **Oppgave**
+
+Den planlagte tiden oppgaven kører til.
+
+### **Prosjekt**
+
+Navnet til prosjektet der oppgaven kjøres.
+
+### **Status**
+
+Statussen til denne oppgaven.
+
+### **Tilbakeknappen**
+
+Klikk denneknappen for å gå tilbake til [hjemmesiden](#h_f1e6129450).
+
+![](https://downloads.intercomcdn.com/i/o/950023253/d65643c0a2f97d7bc7d2319e/image.png?expires=1781092800&signature=a5c07c2bae2a7ad2cb375cfc7b58e84de093d43a89c6106dadabc2204c59e04e&req=fSUnFst9n4RcFb4V1XW4ga0YsQM1%2FTQcJiZjnQF4y8vosAgaXDzX%2Bu%2BJTnPP%0ArEpZpux7zmL2kXm%2Fj27ea4%2FJnQ%3D%3D%0A)
+
+## **Loggmappen**
+
+Denne knappen åpner mappeområdet der loggene til skrivebordstilkoblingen ligger på ditt system.
+
+# Er det en størrelsebegrensning for ifc filer?
+
+Tabellen under inneholder størrelser opp til hvilket filer kan lastes opp:
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80; width: 173px;"><h1 id="h_fb3b68549a"><b>Opplasting størrelse</b></h1></td><td style="background-color: #e3e7fa80; width: 108px;"><h2 id="h_8a96e14304"><b>Utvidelse</b></h2></td><td style="background-color: #e3e7fa80;"><h3 class="intercom-align-center" id="h_9e6b7173a2"><b>Filstørrelse</b></h3></td></tr><tr><td style="width: 173px;"><h3 id="h_435515e86d">Dokument del</h3></td><td style="width: 108px;"><p>Alle</p></td><td><p class="intercom-align-center">7 GB</p></td></tr><tr><td style="background-color: #e8e8e880; width: 173px;"><h3 id="h_f995757cb7">Ifc fil</h3></td><td style="background-color: #e8e8e880; width: 108px;"><p><code>.ifc</code></p></td><td style="background-color: #e8e8e880;"><p class="intercom-align-center">750 MB</p></td></tr><tr><td style="width: 173px;"><h3 id="h_a5cebd9162">IfcZIP fil</h3></td><td style="width: 108px;"><p><code>.ifczip</code></p></td><td><p class="intercom-align-center">750 MB</p></td></tr><tr><td style="background-color: #e8e8e880; width: 173px;"><h3 id="h_0d044ed1cf">Punktsky</h3></td><td style="background-color: #e8e8e880; width: 108px;"><p><code>.e57</code>, <code>.las</code></p></td><td style="background-color: #e8e8e880;"><p class="intercom-align-center">25 GB</p></td></tr></tbody></table></div>
+
+## **Fordeling over flere mindre filer**
+
+Store .ifc og .ifczip filer anbefales å deles i flere mindre filer.
+
+Ved opplasting av flere mindre filer blir det både lettere for prosjektmedlemmer å skru av og på forskjellige deler og laste ned forskjellige deler av filen individuelt.
+
+## **Eksport til IfcZip**
+
+Noen redigeringsverktøy støtter IfcZIP som et valg ved eksport av IFC filer.
+
+> **Note:** **Eksempel:** `3D-modell.ifczip`
+
+## **Opprette en IfcZip**
+
+Om størrelsen til din `.ifc` fil er større enn hva som kan lastes opp kan filen gjøres om til en `.ifczip` For å lage en IfcZIP:
+
+- Komprimer din `.ifc` fil til en `.zip` fil.
+- Endre filutvidelsen fra `.zip` til `.ifczip`
+
+> **Note:** **Eksempel:** `3D-modell.ifc` v `3D-modell.zip` v `3D-modell.ifczip ​`
+
+## **Kontakt brukerstøtte**
+
+Om du ikke har mulighet til å redigere filen og den er større enn hva som kan lastes opp, la oss gjerne vite på [support@catenda.com](mailto:support@catenda.com) og vil se nærmere på din fil for å se om vi kan få den importert.
+
+# Hvilke filtyper er støttet i Catenda?
+
+For vår modell viser støtter vi bare IFC filer. Alle filtyper kan lastes opp i dokument delen. De følgende filtypene kan forhåndsvises i dokument delen:
+
+> **Note:** **NB:** IFC og Point cloud forhåndsvisninger kan lastes inn i 3D viser.
+
+- _PDF_ - pdf, fdf, xfdf
+- _Bilder_ - bmp, wmf, emf, gif (static image only), hdp, jpg, jp2, png, tif, tiff
+- _CAD_ - dwg, dxf, dgn, dwf
+- _Office_ - doc, docx, xls, xlsx, xlsm, ppt, pptx, pub
+- _Web_ - html, htm, mht, svg
+- _Epost_ - msg
+- _Open XML_ - txt, xps, oxps, xml, xod, xaml
+- _Point Cloud -_ e57, las
+- _IFC_
+
+    _Akseptert_ (Offentlig og avviklede slipp av BuildingSMART)
+    - IFC 4
+        - IFC 4.3 - [IFC4.3 TC1 (zip)](https://github.com/buildingSMART/IFC4.3-html/releases/tag/sep-13-release)
+        - IFC 4.0 - [IFC4 ADD2 TC1](https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/)
+    - IFC 2
+        - IFC 2.3 - [IFC2x3](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x3/FINAL/HTML/), [IFC2x3 TC1](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x3/TC1/HTML/)
+        - IFC 2.2 - [IFC2x2](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x2/FINAL/HTML/), [IFC2x2 ADD1](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x2/ADD1/HTML/)
+        - IFC 2.1 - [IFC2x](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/FINAL/HTML/), [IFC2x ADD1](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x/ADD1/HTML/)
+        - IFC 2.0 - IFC2.0
+
+    _Ikke akseptert_ (Dratt inn av BuildingSMART)
+    - IFC 4
+        - IFC 4.2 - [IFC4.2](https://standards.buildingsmart.org/IFC/DEV/IFC4_2/FINAL/HTML/)
+        - IFC 4.1 - [IFC4.1](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/)
+
+    Du kan finne hvilke versjoner av IFC er offentlig sluppet [her](https://technical.buildingsmart.org/standards/ifc/ifc-schema-specifications/)
+
+    Offentlige BuildingSMART prøve IFC filer kan bli funnet [her](https://github.com/buildingSMART/Sample-Test-Files)
+
+# System anbefalinger
+
+Denne artikkelen inneholder information om anbefalte system krav for bruk av Catenda Hub. Catenda Hub er tilgjengelig gjennom nettleseren og det er ingen behov for installasjon.
+
+Denne artikkelen inneholder informasjon om følgende temaer:
+
+**[System anbefalinger](#h_635eb6138d) - [Optimalisering](#h_d5aa0a3232) - [Nettleser](#h_36e3ce3a14) - [Nettverk](#h_46ad0a2b18) - [Proxyer og brannmur](#h_6cbd0fccb9) - [Porter](#h_bb33c61f6f)**
+
+## **System anbefalinger:**
+
+**(Juni 2024)**
+
+For vanlige prosjekt (opp til LOD 300):
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p class="intercom-align-center"><b>Prosessor</b></p></td><td><p class="intercom-align-center"><b>RAM</b></p></td><td><p class="intercom-align-center"><b>GPU</b></p></td></tr><tr><td><p class="intercom-align-center">Intel Core i5 eller liknende</p></td><td><p class="intercom-align-center">8 til 16 GB</p></td><td><p class="intercom-align-center">integrert / 4GB</p></td></tr></tbody></table></div>
+
+For tette geometri prosjekter (LOD 400 og over):
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p class="intercom-align-center"><b>Processor</b></p></td><td><p class="intercom-align-center"><b>RAM</b></p></td><td><p class="intercom-align-center"><b>GPU</b></p></td></tr><tr><td><p class="intercom-align-center">Intel Core i7 eller liknende</p></td><td><p class="intercom-align-center">32GB</p></td><td><p class="intercom-align-center">8GB</p></td></tr></tbody></table></div>
+
+[LOD Definisjon](https://www.gsa.gov/real-estate/design-and-construction/3d4d-building-information-modeling/bim-software-guidelines/document-guides/level-of-detail)
+
+### **Dedikert GPU vs integrert GPU**
+
+Pass på at du bruker den dedikerte GPUen til ditt system og ikke den integrerte GPUen.
+
+På Windows 10 kan du forsikre at du bruker den dedikerte GPUen ved å følge [disse](https://superuser.com/questions/1439471/how-can-i-force-my-dedicated-gpu-to-handle-all-applications-or-disable-my-integr#:~:text=use%20these%20steps%3A-,Open%20Settings.,-Click%20on%20System) steg.
+
+## **3D viser optimalisering:**
+
+Selv om Catenda Hub kan fremvise de fleste modeller på en optimert måte kan det hende at noen brukere ønsker å komme så langt de kan med det de har. Her er derfor noen strategier som kan brukes til å optimalisere dine arbeidsflyt i Catenda Hub:
+
+### **Mange objekter:**
+
+Å bruke færre modeller og dermed færre objekter kan være en løsning for å få bedre ytelse. Andre måter du kan øke ytelsen for å fremvise mange objekter av gangen er:
+
+**Skru på inkrementell tegning**
+
+[Inkrementell tegning](https://support.catenda.com/nb/articles/5784718-3d-viser-innstillinger#h_3d1b7c0b7f) innstillingen øker hastigheten du kan rotere rundt modeller med mye geometri med siden ikke alle objekter må fremvises mens du roterer.
+
+**Lag Spørringer**
+
+Som et siste steg kan du lage en [spørring](https://intercom.help/bimsync-arena/en/articles/4854514-queries) av utsnittet du jobber med. Vanligvis når tar ut en del av modellen ved å begrense den med klippeplan er objektene fortsatt lastet i minnet og bare skjult.
+
+Med en spørring vil disse objekte være helt lastet ut og det vil dermed være lettere å jobbe med modellen. Husk at du ikk vil kunne bruke egenskapsbibliotek med spørringer for ikke alle objekter er lastet inn.
+
+### **Punktsky**
+
+Bruker du [fast punktstørrelse](https://intercom.help/bimsync-arena/en/articles/5606625-point-clouds-in-bimsync#:~:text=Adaptive%20(default)%2C%20or-,Fixed%20size,-.%20The%20slider%20below) kan det hende at du ender opp med lav bildefrekvens  når mange punkt er lastet inn. Du kan også erfare at punkt tar lenger å laste inn når du når minnebuddsjettet til ditt system. Punkt nærmest kameraet er lastet inn først så hvis du ønsker å laste punkt på et spesifikt sted er det bedre å først navigere til det stedet for å så skru på punksky så det starter å laste punkt som er der først.
+
+For å unngå å nå minnebegrensningen og få lavere bildefrekvens kan du senke [punktbudsjettet](https://intercom.help/bimsync-arena/en/articles/5606625-point-clouds-in-bimsync#:~:text=with%20your%20PC.-,Point%20Budget%3A,-Using%20the%20viewer) så færre punkt lastes inn.
+
+## **Nettleserinnstillinger**
+
+### **Systemkrav:**
+
+Catenda Hub er tilgjengelig gjennom forskjellige nettlesere.
+
+Krav for nettlesere som kan brukes til å nå Catenda Hub:
+
+_Chrome: _[https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU) _Firefox:_ [https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/](https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/) _Microsoft Edge:_ Windows 11 systemkrav: [https://www.microsoft.com/en-in/windows/windows-11-specifications](https://www.microsoft.com/en-in/windows/windows-11-specifications)
+
+Safari:
+
+[https://support.apple.com/en-us/112653](https://support.apple.com/en-us/112653)
+
+_Opera:_ [https://www.opera.com/download/requirements](https://www.opera.com/download/requirements) _Vivaldi:_ [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
+
+### **Maskinvareakselerasjon**
+
+Pass på at du bruker maskinvareaksellerasjon.
+
+Maskinvareaksellerasjonsvalg for de forskjellige nettlesere kan bli funnet her:
+
+**Chrome:**
+
+[chrome://settings/?search=hardware+acceleration](chrome://settings/?search=hardware+acceleration) _Firefox:_ [https://support.mozilla.org/en-US/kb/performance-settings?as=u&utm\_source=inproduct](https://support.mozilla.org/en-US/kb/performance-settings?as=u&utm_source=inproduct) _Microsoft Edge:_ [edge://settings/?search=hardware%20acceleration](edge://settings/?search=hardware%20acceleration)
+
+**Safari:**
+
+[https://support.apple.com/en-us/102894](https://support.apple.com/en-us/102894)
+
+_Opera:_ [https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/](https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/)
+
+_Vivaldi:_ [https://forum.vivaldi.net/topic/1207/hardware-acceleration](https://forum.vivaldi.net/topic/1207/hardware-acceleration)
+
+### ​**Ytre faktorer**
+
+Sjekk om du nar noen nettleser utvidelser eller andre program på ditt system som kan gjøre din Catenda Hub erfaring tregere.
+
+**De beste nettlesere etter minnebruk:**
+
+1. Firefox
+1. Chrome
+1. Microsoft Edge
+
+### **Informasjonskapsler**
+
+Med dataen lagret i informasjonskapsler i din nettleser vil den kunne vite om du er logget inn og noen av dine preferanser i Catenda prosjekter. Noen preferanser kan være forskjellige fra prosjekt til prosjekt mens andre kan være like for alle prosjekt. Hvis du ender dinne innstillinger gjennom å for eksempel lukke en meny vil dette være husket i alle nettleservindu og faner.
+
+Hvis du for eksempel lukker filtermenyen i en fane og laster inn den samme siden i en annen fane vil filter menyen også være lukket i den fanen.
+
+På denne måten husker også nettleseren om du er logget inn eller ikke.
+
+Si at du har logget ut i en fane og har logget inn med en annen konto, hvis du da laster inn siden til en annen fane på nytt vil du finne deg selv logget inn med en andre kontoen som ikke nødvendigivis har tilgang til prosjektet du var del av.
+
+På chrome vil du kunne koble på og redigere dine informasjonskapsler som under:
+
+Klikk på Cookies and site data
+
+![](https://downloads.intercomcdn.com/i/o/1143829455/e1b8867e01930b24ef529e47/image.png?expires=1781092800&signature=e2930701f16f0bb3a0bf73c281e38f6f67c644391db6ed32ee93ea59a6d53707&req=dSEjFcF8lIVaXPMW3nq%2BgUEUCAtZlI0OymkGwvXwPbIdriySEnhYe5MnX9rH%0AEYoxZWV%2FwN%2FD9WGf%2BN6T8rLpu6U%3D%0A)
+
+Klikk på Manage on-device site data
+
+![](https://downloads.intercomcdn.com/i/o/1143829543/42d74782920e4a35a660e546/image.png?expires=1781092800&signature=772bcce3cf9b467dbc597b9d51e83558d486f87ddb35ea6b96af416fc21e8b5a&req=dSEjFcF8lIRbWvMW3nq%2BgURf0KbK%2BNuvBfcmFwNBFGl1BsOYkzIeKVHfYp9q%0Ax43X05BUHahlsi1ikzCV75TMgJk%3D%0A)
+
+Dette er hva dine nettleser datainnstillinger ser ut som:
+
+![](https://downloads.intercomcdn.com/i/o/1143829607/ca12dcb2003b5cb363d40567/image.png?expires=1781092800&signature=f3a187e05e4ba985f1ae0ec66d8fb2a99a1057a2881e8a657ddac3758f562e70&req=dSEjFcF8lIdfXvMW3nq%2BgckeVuXJSA5nST8uRqQYtlpUuNArxqJhicAjHiaF%0APs4KS9lyB2p5JX1IIKTovtvmSMA%3D%0A)
+
+For å bruke Catenda Hub måt du minst tillate lagringen av data for hub.catenda.com under din sesjon.
+
+Hvis du velger å slette data når alle nettleservindu lukkes vil din data være tilbakestilt hver gang du bruker Catenda.
+
+## **Nettverkshastighet**
+
+Kontroller kvaliteten til ditt nettverk å forholdet mellom Ned- og opplasting er rundt 1:10 eller over.
+
+![](https://downloads.intercomcdn.com/i/o/748569163/86b6c411513b1d918f971664/5e52d40f-4227-418f-b23b-20fa30a307e2?expires=1781092800&signature=1ba0773f7dc7c9af736408f4089c2adccac66a67a0b7737730ea980132976063&req=cyQvE893nIdcFb4V1XW4gbNVrM1pna2WNERr2HdEoh49FtF8K3i%2F%2BKq6uCKu%0AYfEqJDh3SgD2pd%2FhWLATN81jAg%3D%3D%0A)
+
+(dette er et eksempel, ikke et krav)
+
+## **Proxyer og brannmur:**
+
+Brukere som kobler på Catenda Hub gjennom en brannmur, proxy eller annen mellom tjeneste nå gi tilgang til følgende domener og porter for at applikasjonen skal fungere ordentlig.
+
+### **Domener:**
+
+(`\*` betyr DNS wildcard og `.` er domenenivåseparator, disse må ikke behandles som regexer)
+
+- Catenda domener:
+    - `catenda.com`
+    - `\*.catenda.com`
+        - `webviewer.catenda.com`
+    - `\*.\*.catenda.com`
+
+Vi anbvefaker at dy vryjer dette nye domene navnet.
+
+Du burde ikke komme bort i problemer me flere under-domener som `\*.\*.\*.catenda.com` men hvis du gjør det kan det være letter å tillate alt fra `catenda.com`
+
+**Vedlikeholdte domener**
+
+De følgende domenene vil vedlikeholdes i nær framtid men vil ikke referes til i teknisk literatur.
+
+- `bimsync.com`
+- `\*.bimsync.com`
+- `\*.\*.bimsync.com`
+
+**Tjenester**
+
+Catenda Hub bruker følgende tjenester:
+
+- `\*.google-analytics.com`
+- `\*.googletagmanager.com`
+- `\*.intercom.io`
+- `\*.intercomcdn.com`
+- `\*.sentry.io`
+
+**Pluginner**
+
+Hvis du ønsker å bruke Catenda Hub gjennom en av våre pluginner er disse de eneste domenene du trenger å tillate gjennom brannmuren.
+
+- For autentisering av pluginner og integrasjoner
+    - `hub.catenda.com`
+    - `api.catenda.com `
+    - `bimsync.com`
+    - `api.bimsync.com`
+- For bruk av plugin
+    - Revit plugin
+        - `https://revit.plugins.catenda.com`
+        - `https://revit.plugins.bimsync.com`
+    - Archicad plugin
+        - `https://archicad.plugins.catenda.com`
+        - `https://archicad.plugins.bimsync.com`
+    - Navisworks plugin
+        - `https://navisworks.plugins.catenda.com`
+        - `https://navisworks.plugins.bimsync.com`
+    - Tekla plugin
+        - `https://tekla.plugins.catenda.com`
+        - `https://tekla.plugins.bimsync.com`
+- For bruk av integration
+    - Solibri BCF Live connector
+        - `https://bcf.bimsync.com/`
+        - `https://opencde.bimsync.com/`
+
+## **Porter:**
+
+**80:** Denne porten er valgfri men anbvefalt for best i-nettleser brukeropplevelse.
+
+Protokoll: TCP (Bare for hub.catenda.com og [www.hub.catenda.com](http://www.hub.catenda.com))
+
+Tjenester som forsøker å gjøre et forespørsel på 80 blir henvist til å gjøre det samme krypterete forespørselet på port 443.
+
+**443:**
+
+Protokoll: TCP + UDP All Catenda Hub trafikk er TLS-kryptert på denne porten.
+
+UDP er valgfri men anbefalt for best brukeropplevelse etter som det tillater støttede nettlesere og andre tjenester til å ta i bruke fremskritt i HTTP-protokollen som HTTP/3 (tidligere QUIC) som vi ruller ut over hele platformen.
+
+# Modeller som dokumenter
+
+Tidligere har det vært mulig å laste opp ifc filer på to forskjellige sted på Catenda Hub. Med _modeller som dokumenter_ funksojonen legges disse to stedene sammen til en sømløs funksjon.
+
+Hvis du lager en modell i modelldelen vil et dokument bli lenket og opprettet i dokumenter delen. Hvis du laster opp et IFC dokument i dokumentdelen kan du bruke lag modell aksjonsknappen for å lenke og opprette en modell i modelldelen.
+
+Med denne funksjonen kan modeller i modelldelen håndteres som dokumenter mens modeller i dokumentdelen kan håndteres som modeller.
+
+Denne artikkelen inneholder informasjon om følgende temaer:
+
+**[Før/Etter migrering](#h_18fad3afc1) - [Kjent, men annerledes](#h_0af4325907) - [Modell side endringer](#h_37253e8879) - [Dokumenter side endringer](#h_ffc77518ad)**
+
+## **Før/Etter migrering - Hovedforskjell**
+
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e8e8e8; width: 168px;"><h1 id="h_8b37580f81"></h1></td><td style="background-color: #e8e8e8; width: 262px;"><h2 id="h_b7f579faf9"><b>Før</b></h2></td><td style="background-color: #e8e8e8; width: 248px;"><h2 id="h_bf2a4611cb"><b>Etter</b></h2></td></tr><tr><td style="background-color: #e8e8e8; width: 168px;"><p class="intercom-align-right"><b>Hovedoppførsel</b></p></td><td style="width: 262px;"><p>Modeler fantes kun i modeller delen. Brukeren måtte laste opp samme IFC fil til både dokumenter og modeller delene.</p></td><td style="width: 248px;"><p>Modeller er opprettet som IFC filer og lastet opp til dokumentdelen. Om brukere ber om det blir en modell som hører til IFC filen opprettet.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 168px;"><p class="intercom-align-right"><b>Grensesnitt</b></p></td><td style="width: 262px;"><p><b>Forskjellig </b>fra dokumentdelen og vist med mindre informasjon, bare en liste med modeller.</p></td><td style="width: 248px;"><p><b>Likt</b> som i dokumentdelen. En redigerbar tabell med relatert metadata.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 168px;"><p class="intercom-align-right"><b>Tilgangsrettigheter</b></p></td><td style="width: 262px;"><p><b>Kunne ikke settes </b>på modeller</p></td><td style="width: 248px;"><p><b>Kan settes</b> på modeller fra deres relaterte dokument i dokumentdelen.</p></td></tr></tbody></table></div>
+
+## **Kjent, men annerledes**
+
+Nå som de to delene er lenket er det viktig å merke at det fortsatt er hovedforskjell mellom modeller og dokumenter delene.
+
+I modellerdelen vil du kunne se alle modell-dokumenter samlet i en liste.
+
+Her vil du kunne se dine modell-dokumenter på en måte som likner på hvordan de vil brukes i 3D viseren.
+
+I dokumenter delen vil du kunne se dokumnet-modellene i din dokumentstruktur. Her vil du kunne se dokument-modellere på en måte som likner på hvordan de brukes i ditt felles datamiljø (CDE).
+
+Alle modeller er lenket til hvert sitt dokument og funksjoner fra begge deler kan brukes, både i modeller delen og i dokumenter delen.
+
+## **Endringer på modellersiden**
+
+Mode modeller som dokumenter vil modeller siden ha endret i utseende. Istedet for å se meny enheter for hver modell vil de nå dukke opp i en søkbar tabell.
+
+På modeller siden vil du nå dukke finne følgende endringer:
+
+**[Model table](#h_f66ecc0714) - [Action buttons](#h_c4f7a4d51e) - [Access control](#h_a78c720998) - [Right information panel](#h_a29e6558d7)**
+
+### **Modeller tabellen**
+
+Den nye modeller tabellen kan se ut noe some dette:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1444226365/44372549a3253c3844972ac34220/image.png?expires=1781092800&signature=2b4a1bd1d5596223c3dc53db0355da88cb8061216152e137c34787350948af5d&req=dSQjEst8m4JZXPMW3nq%2BgcMYUUGSeENGBi4OuP8AaGhHMkzeNF%2BCgSKgX8B5%0AzB%2F4sfX95CZ9g97yhuDHUO6cgBA%3D%0A)
+
+### **Kolonner**
+
+Listen over modellene har kolonner som viser mesteparten av informasjon du trenger å vite om dine modeller.
+
+**Navn**
+
+Navnet til modell-dokumentet vises her.
+
+Modellnavnet er også navnet du vil se i revisjonselektoren i 3D viseren.
+
+**Dokumentnavn**
+
+Navnet til dokument-modellen i dokumenterdelen.
+
+**Revisjonsnavn**
+
+Navnet til den nyeste revisjonen.
+
+### **Tilgangskontroll**
+
+Hvis en modell er begrenset for deg i dokumenter delen vil modellen verken vises i dokumentdelen, modeller tabellen eller i revisjonsvelger.
+
+### **Modellvalg**
+
+Med modelltabellen kan du nå selektere et sett med modeller ved å holde shift og legge til eller fjerne modeller fra ditt utvalg med kontroll.
+
+### **Aksjonsknapper**
+
+Før var den eneste handlingen du kunne utføre på valgte modeller at du kunne åpne de i 3D. Nå vil du kunne laste ned, fjerne og åpne 2D visningen til dine valgte modeller i tillegg.
+
+Hvis du sletter en modell som er koblet til et dokument vil dokumentet miste koblingen til modellen men dokumentet vil beholdes i dokumentdelen.
+
+### **Tilgangskontroll for dokument-modeller**
+
+**Opprette et dokumentmodell**
+
+Hvis du lager en modell med ny modell kanppen i modelldelen vil du bli spurt om å selektere hvor du ønsker at den lenkede dokument-modellen ender opp i dokumentdelen.
+
+I ny modell dialogen vil du også kunne gi modellen et navn.
+
+Den resulterende lenkede dokument-modellen vil ha samme navn som modellen når den er opprettet. Catenda Hub vil huske mappen du valgte sist og automatisk selektere den neste gang du lager en ny modell.
+
+Hvis modeller som dokumenter er koblet på for et prosjekt som ikke startet med denne funksjonen vil en mappe kalt 'Models' dukke opp i din mappestruktur. Denne mappen vil inneholde alle dokument-modellene som er lenket til dine modell-dokumenter i modelldelen.
+
+Dokument-modeller kan flyttes ut av denne mappen til ethvert sted i dokumentdelen du har tilgang til. Dokument-modeller kan også fjernes (og gjenopprettes) fra Models mappen. Dokument-modellene må ikke ligge i models mappen og mappen kan fjernes uten at det påvirker prosjektet.
+
+**Opprette en modell-revisjon**
+
+For å kunne laste opp nye revisjoner til en modell vil du nå trenge minst skrivetilgang til dokument-modellen. Nye revisjoner til modellen kan legges til i dokumentet og omventdt.
+
+> **Note:** **Merk:** Revisjonskommentarer er koblet av og kan valgfritt kobles på igjen med [egne felt på revisjoner](https://support.catenda.com/nb/articles/9531080-egne-felt-pa-dokumenter).
+
+**Nedlastning av modell-revisjoner**
+
+Du trenger minst lese-tilgang til dokument-modellen for å kunne laste ned modeller.
+
+### **Høyre informasjonspanel**
+
+En høyre informasjonspanel vil være tilgjengelig hvis modeller er selektert.
+
+**Dokumentfelt**
+
+I dette panelet vil du se modellinformasjon i tilleg til et grått felt som lenker til dokument-modellen i dokumentdelen som er lenket til dette modell-dokumentet.
+
+Klikk på dokumentfeltet for å bli tatt til det koblede dokumentet i dokumentdelen.
+
+**Modellmerkelapper**
+
+Det er nå mulig å legge merkelapper på modellen her.
+
+**Modellstatus**
+
+Om statuser er konfigurert i dokumentinnstillinger vil du kunne stille inn en status for din modell her.
+
+**Model transformasjon**
+
+Hvis du har åpnet denne modellen i 3D vil du kunne stille inn modelltransformasjon her.
+
+## **Endringer på dokumentersiden**
+
+Selv om de visbare endringen ikke er like tilsynelatende som i modeller delen er det noen få ting som vil endres for dokumenter delne når modeller som dokumenter er koblet på.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1444501318/59cfe37d2e72723792c54e3f48e4/image.png?expires=1781092800&signature=0c904b4a8b3a3d001f365f1089d39fbb2a72500914dbb5d6dedd97dec54e1605&req=dSQjEsx%2BnIJeUfMW3nq%2BgQVHoqHR%2BtZmOjukh0758JkCBHPOngsupoEeel2c%0Ari%2B93zrgNY%2FLOKFZImfv5nOEnHE%3D%0A)
+
+I dokumenter delen vil du kunne finne følgende endringer:
+
+_[Filter](#h_7f310c37cb) - [Kolommer](#h_107bbd7cec) - [Handlinger](#h_0481366d28) -_ _[Tilgang](#h_8c9c8be27c) -_ _[Gjenfinnbarhet](#h_8b0fcdb033) - [Godkjenninger](#h_02a1d1e287) - [Navnekonvensjonen](#h_81253da41d)_
+
+### **Modellfilter**
+
+Så snart som du har noen modeller i modelldelen vil du kunne se et modellfilter dukke opp i filtermenyen. Med dette filteret kan du vise/gjemme dokument-modeller som er opprettet.
+
+### **Kolommer**
+
+**Ikon**
+
+Du vil kunne se forskjell på dokument-modell fra vanlige dokument ved modellskiltet nederst til høyre av dokumentets ikon.
+
+![](https://downloads.intercomcdn.com/i/o/811879911/aaf93b647d7a0d7fc7ed6a97/image.png?expires=1781092800&signature=d85d765520058c1439e55163e2fea82d540890b90710aefaed4d0147309ee130&req=fCEmHs53lIBeFb4V1XW4gccdxCQn6BnPwtMJ4ulKi%2Bha5TuhRRWaS4b3SwSd%0Ae5lEzyJ0AdLKyME26LS0NqHi4w%3D%3D%0A)
+
+**Navn**
+
+Navnet til dokumentet
+
+**Modellnavn**
+
+Navnet til modellen
+
+Om ditt ifc dokument ikke er lenket til en modell vil du se en opprett-modell knapp her.
+
+**Revisjonsnavn**
+
+Navnet til den siste revisjonen i dokument-modellen.
+
+**Viser**
+
+En kolonne med knapper til å åpner hvert individuelle dokument-modell i 3D viser.
+
+Dokument-modeller kan bare åpnes i 3D viser hvis dokumentet er lenket til en modell.
+
+### **Handlingsknapper**
+
+Last ned, slett er last 2D/3D visningen valgte modeller i den respektive viseren ved å velge ett eller flere modeller.
+
+<img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/1444472073/4a5d62987a173603bfc50826a54e/image.png?expires=1743174000&amp;signature=e473aad540c34bdea622ff938c7d3387dcf3fb5191fe74da2e812a0220503808&amp;req=dSQjEs15n4FYWvMW3Hu4gRIYyWwnFD80rJcTivpE97hTdX7r%2BIJrQePOhbxg%0AOA%3D%3D%0A" width="310"/>    <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/1444476210/5d03429401f489c2f68540b604ab/image.png?expires=1743174000&amp;signature=5471295ce456e51b1061a3049633ed97d4e607ab4f9aa42703250f98a26a4836&amp;req=dSQjEs15m4NeWfMW3Hu4gRy0TuhGQJSoYokVUVJAmlIAOa3c8LwX05a1oNpM%0Alw%3D%3D%0A" width="310"/>
+
+Dette betyr at du kan slette flere modeller av gangen fremfor en-for-en som før.
+
+Om du sletter et dokument som er koblet til en modell vil du måtte godkjenne et varsel om at modellen som er koblet til dokumentet også slettes.
+
+> **Note:** **Merk:** Dette betyr at du kan slette en modell uten å miste data. (Slettede dokumenter kan gjenopprettes)
+
+### **Tilgangskontroll for dokument-modeller**
+
+**Opprette dokument-modeller**
+
+For å kunne laste opp nye revisjoner til en modell vil du nå trenge minst skrive tilgang til dokument-modellen.
+
+Du kan gjøre dette ved å opprette en modell med opprett modell aksjonsknappen over modelllisten etter å ha selektert din ifc fill.
+
+Etter å ha gjort dette vil du se dokumentet som modell på modeller siden.
+
+Modell-dokumentet i modeller delen vil ha samme navn som dokument-modellen selv om disse kan hver bli endret senere mens lenken ivaretas.
+
+Nye revisjoner til modellen kan legges til som revisjoner til dokumentet og omvendt.
+
+> **Note:** **Merk:** Dette betyr at du kan opprette modeller fra flere IFC filter samtidig istedet for å måtte laste de opp en og en.
+
+**Laste opp revisjoner til dokument-modeller**
+
+Du vil minst måtte ha skrivetilgang til dokument-modellen for å kunne laste opp nye revisjoner til modellen.
+
+Dette betyr at du kan bruke multi-opplastingsfunksjonen for å laste opp ifc filer til flere dokument-modeller på en gang.
+
+**Laste ned dokument-modller**
+
+Du vil minst måtte ha lesetilgang til dokument-modellen for å kunne laste ned modeller.
+
+Dette betyr at du kan konfigurere tilgang for å tillate nedlastning av separater modeller istedet for bare alle eller ingen modeller.
+
+### **Gjenfinnnbarhet**
+
+Det er mulig å finne Dokument-modeller dokumentdelen på samme måte som vanlige dokumenter.
+
+- Merkelapper kan legges på dine dokument-modeller for å finne alle dokument-modeller som tilhører en type.
+- Dokument-modeller kan struktureres i mapper for å gjøre det lettere å navigere til de rette modellene.
+- [Egne felt kan legges på mapper](https://support.catenda.com/nb/articles/9531080-egne-felt-pa-dokumenter) der dokumenter lastes opp for å søke på metadata-verdier som relateres til hvert dokument ved opplasting
+- [Egne felt kan legges på mapper](https://support.catenda.com/nb/articles/9531080-egne-felt-pa-dokumenter) der dokumenter lastes opp for å kunne legge til informasjon på hver revisjon til hvert dokument-modell.
+
+Se [her](https://support.catenda.com/en/articles/8542598-structuring-documents#h_7838a63c73) for anbefalinger for hvordan å strukturere dine dokument-modeller så de blir lettere å finne.
+
+### **Godkjenne utkast IFC filer**
+
+IFC filer kan nå lastes opp som utkast så de kan tas gjennom en godkjenningsprosess før de publiseres.
+
+### **Navngingingsavtaler med dokumentmodeller**
+
+Navn på dokument siden ofte inkluderer sammenføde avkortinger for å holde dokumentnavnet kort men allikevel vise noe informasjon om hva dokumentet handler om.
+
+Navnet til dokument-modellen kan der fæver forskjellig fra navnet til modell-dokumentet for å holde det oversiktlig med de andre dokumentete i dokumentdelen men allekevel heholde et lettleslig navn til bruk i 3D viser og på modeller siden.
+
+Dokumentnavnet til dokument-modellen vil være navnet som er gjenkjent når dokumenter lastes opp på dokumenter siden.
+
+HVse navnet er linknende eller likt som dokumentet vil en ny revisjon automatisk bli opprettet akkurat som med andre dokumenter.
+
+Fordi dokument-modeller oppfører seg det samme som valige modeller er det nå mulig å bruke navngivningsavtaler med dokument-modeller for å forsikre at deltagere til dine prosjekt gir riktige navn til dokumenter ved opplasting.
