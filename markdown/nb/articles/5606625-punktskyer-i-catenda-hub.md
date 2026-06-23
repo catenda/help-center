@@ -6,7 +6,7 @@
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p class="no-margin">Adaptiv - Sparsom - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609416415/d63b03e835b7de05a34bc464a67c/image.png?expires=1779991200&amp;signature=bb5f495209f2f06bdc3de410d4d7e1c422d3d8ea9034524db714f9077f73c45d&amp;req=dSYnH81%2Fm4VeXPMW3nq%2BgQpCsmyZG1KSFFVbUYNJ2UiYdd3J7TGDppb8CTJW%0Aa1wWWTAtvyWfrJEfDrlcNFHoTrU%3D%0A" style="height: auto;" width="3839"/></div></td><td><p class="no-margin">Adaptiv - Tett - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609416931/9c357c3e7bd94ba44368bf2e0476/image.png?expires=1779991200&amp;signature=85b6343cd7f91e12a9dc3356debe39dfdeac86db7f2b5c7794fca75e721585ae&amp;req=dSYnH81%2Fm4hcWPMW3nq%2BgdwfTofqQ7RvylQ%2FH6UFuY67uWWyGoYVG%2FSNG%2FvW%0AeXpHm2lN07PYjclbv0fHJIa1%2BZ8%3D%0A" style="height: auto;" width="3839"/></div></td></tr><tr><td><p class="no-margin">Fast - Tett - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609415523/d5626faba40b5c3551361c832b5b/image.png?expires=1779991200&amp;signature=adeb85b52cd8280463402acd243b7a6e1a811fae38a7f61f3e9aaa83cc90ee30&amp;req=dSYnH81%2FmIRdWvMW3nq%2BgYHi7%2FbQTl49HAjgtDsdSFh6QfdbdKda7GA55QfR%0AY65xOQbKB50egoMF75QUYo9dG0g%3D%0A" style="height: auto;" width="3834"/></div></td><td><p class="no-margin">Fast - Sparsom - Intensitet</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609415755/5d2aac51f6caea382c5d762b2dae/image.png?expires=1779991200&amp;signature=90c35496c076f66c2ff4cf8d42c759c0caaf01082168a2f7933e606aadc1d7ff&amp;req=dSYnH81%2FmIZaXPMW3nq%2BgUep5M5qKq9J8fpRvp8MeVoccLBBRVRiajRONyGy%0A8DqsOdPDMVir8z8%2Fzh6OjjIL57s%3D%0A" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
 
-## **Dokumentseksjonens forhåndsvisning**
+## 1. **Dokumentseksjonens forhåndsvisning**
 
 PC-data med følgende to filformater kan forhåndsvises på Catenda.
 
@@ -19,7 +19,7 @@ For disse to filformatene kan filer opp til 25 GB lastes opp til dokumentseksjon
 
 Flere filer kan lastes inn i dokumentseksjonen og vises sammen i 3D-visningen.
 
-### **Lasting av PC-data**
+### 1.1 **Lasting av PC-data**
 
 Det anbefales å bruke [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) eller å komprimere PC-filen din til en zippet mappe og bruke [zip-importen](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) for å laste opp PC-en din.
 
@@ -39,7 +39,7 @@ Når forhåndsvisningen er ferdig behandlet, klikker du på dokumentet for å vi
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1609450891/70ce69784cedc730f37a34143f5c/image.png?expires=1779991200&signature=5b7dbb39946e2db64183d99b228cbffeea7b6236ac21ff91e565d6afb5a17bd9&req=dSYnH817nYlWWPMW3nq%2BgZjDFCu8k%2BqFmMj85V29ajp0dOPxv6on1BnnRR3a%0AhmdXl9cF4RVn02yDdXwAJFhR1FQ%3D%0A)
 
-### **Delte PC-revisjoner**
+### 1.2 **Delte PC-revisjoner**
 
 Hvis [revisjonspublisering](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650) har blitt aktivert for prosjektet, vil punktskyen ha blitt lastet opp som en delt revisjon.
 
@@ -51,7 +51,7 @@ Individuelle delte revisjoner kan publiseres med publiseringshandlingen i høyre
 
 Når du publiserer en revisjon, begynner forhåndsvisningen for den publiserte revisjonen å behandles.
 
-### **Publiserte PC-revisjoner**
+### 1.3 **Publiserte PC-revisjoner**
 
 Etter at forhåndsvisningen av en publisert PC-revisjon er behandlet, vil en 3D-knapp vises i visningskolonnen i dokumenttabellen.
 
@@ -71,7 +71,7 @@ I et dokument med minst en publisert PC-revisjon som er ferdig behandlet, vil du
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1609467515/0f3244b065fb5bdbe46ad198ff98/image.png?expires=1779991200&signature=07151c3d91cad4cde6b077d6c93c35830876bd08dbcc55a3e120339c618e71ba&req=dSYnH814moReXPMW3nq%2BgZMc0Sbv6WPU8NqbTNkVjHj9fz%2FxQ0ZKfr3y0XoR%0Add4eA5xmPeB8ZpBjJyONyr7AiDo%3D%0A)
 
-## **3D-visningsforhåndsvisning**
+## 2. **3D-visningsforhåndsvisning**
 
 Etter at du klikker på 3D-knappen, begynner PC-punktene å lastes inn i 3D-visningen.
 
@@ -89,7 +89,7 @@ Og etter noen justeringer med zoom og posisjonering kan PC-forhåndsvisningen se
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1609531299/fdd952082ae44fec28ab2e1aa9ce/image.png?expires=1779991200&signature=932aa16b2db0b62bb18616cd349273d2651d5f0cfb65ddce51279364b27b14b1&req=dSYnH8x9nINWUPMW3nq%2Bgf0Z9P9tBxpV2awJEQpPIFx4Gnzi9h%2FQTFYUWF5z%0AVhX11npDyPLn%2BdtHgXazB97Po6U%3D%0A)
 
-## **3D-visningsinnstillinger**
+## 3. **3D-visningsinnstillinger**
 
 I denne delen skal vi se på innstillingene i Catenda Hub som gjør det mulig for deg å få den beste opplevelsen med PC-en din.
 
@@ -97,7 +97,7 @@ I denne delen skal vi se på innstillingene i Catenda Hub som gjør det mulig fo
 
 Innstillinger som kan brukes til å konfigurere punktskyer, befinner seg på to steder.
 
-### **1. Punktbudsjett:**
+### 3.1 **1. Punktbudsjett:**
 
 Punktbudsjett kan konfigureres i [3D-visningsinnstillingene](https://support.catenda.com/en/articles/5784718-3d-viewer-settings) som finnes i girkonet mot øverst til høyre i 3D-visningen.
 
@@ -123,7 +123,7 @@ Se samme visning med:
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1609572103/5812057c81b819d94f90f11bc5ce/image.png?expires=1779991200&signature=73bdb9c4763f969dc58057465bcc4401da595e2e7b12735d4d673142020dfd99&req=dSYnH8x5n4BfWvMW3nq%2BgaW7W936heNUiQ55yD2ziU8dx7c4d8PGzDxPoD2o%0ACl%2FKBMEP9%2BWHBBR9SM6E4DN%2BkB8%3D%0A)
 
-### **2. Revisjonvelger, og individuelle PC-innstillinger:**
+### 3.2 **2. Revisjonvelger, og individuelle PC-innstillinger:**
 
 Øverst til venstre i 3D-visningen finner du [Revisjonsvelgeren](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project).
 

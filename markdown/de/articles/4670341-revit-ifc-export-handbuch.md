@@ -2,11 +2,7 @@
 
 Mit diesem IFC-Export-Handbuch soll der Benutzer eine Anleitung zum Export von IFC für die richtigen Zwecke erhalten. Eine IFC-Datei kann schnell groß und schwer werden, wenn Sie viele Informationen aus dem Modell exportieren müssen. Deshalb müssen Sie beim Export einer IFC unnötige Informationen deaktivieren. Beim Hochladen eines Modells zu Catenda ist es nicht immer erforderlich, viele Informationen und ein hohes Detaillierungsniveau im Modell zu haben. Später in diesem Handbuch werden wir auf die Einstellungen zurückgreifen, die wir empfehlen, um das Modell etwas kleiner und etwas einfacher zu handhaben. Hier gehen wir Schritt für Schritt durch den am meisten geeigneten Weg zum Export einer IFC von Revit zu Catenda.
 
-In diesem Artikel finden Sie Informationen zu:
-
-_[IFC-Export](#h_38cc715c02) - [Setup ändern](#h_85d4335aad) - [IFC-Optionen](#h_487f3aa176) - [Farben und Materialien](#h_f458b56011)_
-
-## **Projekteinstellungen**
+## 1. **Projekteinstellungen**
 
 Bevor Sie exportieren, ist es wichtig, sicherzustellen, dass die GUIDs Ihres Revit-Projekts korrekt sind.
 
@@ -18,7 +14,7 @@ Wenn die GUID anders ist als bei einem vorherigen Export, werden die Objekte neu
 
 Wenn Sie ein neues Projekt erstellen, erhält es eine eindeutige ID.
 
-## **IFC-Export ändern**
+## 2. **IFC-Export ändern**
 
 Wenn Revit offen ist und Sie bereit sind zum Exportieren, können Sie folgende Schritte ausführen.
 
@@ -30,7 +26,7 @@ Oben links finden wir die Registerkarte "Datei".
 
 > **Denken Sie daran:**_ Sie möchten möglicherweise einen dedizierten Ordner für Ihre IFCs haben, damit Sie immer die Kontrolle darüber haben, wo sich Ihre Datei befindet!_ Das IFC-Export-Menü finden Sie hier: `Datei -> Exportieren -> IFC` ![](https://downloads.intercomcdn.com/i/o/areracg3/1892251735/1f06f6821d79b19642af1b81ebe6/image.png?expires=1779991200&signature=f77ab31d228b76bdf13529fee00caae4d6d42ccf86705e6e6788b4103ef18ea5&req=dSguFMt7nIZcXPMW3nq%2BgYeYtz5lfambMm12jWodCPeBvHXniyUmgGYciDwf%0AYXW5CLORtPkNnSMKCCj0IG5c3qs%3D%0A) So sieht das Export-IFC-Menü aus: ![Export IFC](https://downloads.intercomcdn.com/i/o/areracg3/1798387143/866e2fe7cec7589a87073fcc0c82/image.png?expires=1779991200&signature=4bfa202fb3004eec5587f9ccff80d9ad260c643ce24349d84a233dd0f1b00abf&req=dScuHsp2moBbWvMW3nq%2BgZPn43QJg8WVVc0ZVd8M6r96eVKW%2BS8G1RavyNB3%0A6vNrKhgPoxi%2FkGAPFMy7%2BWg0BfM%3D%0A) Dateiname Geben Sie den Namen und den Speicherort ein, den die exportierte Datei im System haben wird Export-Setup Wählen Sie zwischen folgenden vordefinierten Setups: \<In-Session Setup> IFC 2x3 Coordination View 2.0 IFC 2x3 Coordination View IFC 2x3 GSA Concept Design BIM 2010 IFC 2x3 Basic FM Handover View IFC 2x3 Coordination View IFC 2x3 COBie 2.4 Design Deliverable View IFC4 Reference View [Architecture] IFC4 Reference View [Structural] IFC4 Reference View [BuildingService] IFC4 Reference View [Unofficial] IFC4x3 IFC-SG Regulatory Requirements View Wenn das Catenda Plugin für Revit verwendet wird, wird ein zusätzliches vordefiniertes Export-Setup zur Verwendung mit Catenda zur Liste der Optionen hinzugefügt.
 
-## **Setup ändern**
+## 3. **Setup ändern**
 
 Klicken Sie auf "Setup ändern" im Export-Setup-Teil des Export-IFC-Dialogs.
 
@@ -46,7 +42,7 @@ Dieses Fenster enthält die folgenden Registerkarten:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Allgemein**
+### 3.1 **Allgemein**
 
 ![General](https://downloads.intercomcdn.com/i/o/areracg3/1892229977/5b41cf313ce744a76d57707e7156/image.png?expires=1779991200&signature=de7a76fac9b01f590c83303ae40078c1584ff8b4876ef0b169519d39e6d9c20a&req=dSguFMt8lIhYXvMW3nq%2BgaV%2FCQixLdXaNeZ7QyQ0axWAyNp02PCsj0gdc2if%0Ad1tMevbVyEJSRIO7%2Bjxmt6fUIRM%3D%0A)
 
@@ -99,7 +95,7 @@ IFC 2x3 Coordination View 2.0
 
 ---
 
-### **Zusätzlicher Inhalt**
+### 3.2 **Zusätzlicher Inhalt**
 
 ![Additional Content](https://downloads.intercomcdn.com/i/o/areracg3/1892231518/1438a720e7d2d083f16e999b248d/image.png?expires=1779991200&signature=14ae8e037db758f837b33fce3426217ec13a1be4bdae21d9021a6c6e2adef1ed&req=dSguFMt9nIReUfMW3nq%2BgUrmoL4SQTHbWqp11fsyPaNkkVHU8HTI2%2F7M7%2BzB%0ABmowPSLQu3ATd2%2F2iUivb83tBuQ%3D%0A)
 
@@ -122,7 +118,7 @@ Nur sichtbare Objekte in der Ansicht IFC-Datei exportieren.
 
 ---
 
-### **Property Sets**
+### 3.3 **Property Sets**
 
 ![Property Sets](https://downloads.intercomcdn.com/i/o/areracg3/1892232792/135fdbf14ece65c88f19bd1d226a/image.png?expires=1779991200&signature=08f85973ddc0828e1bce6019eed0e2ca144295420ac48e4d9b236988f3109720&req=dSguFMt9n4ZWW%2FMW3nq%2BgaY8ra%2BUm5L2ZjmJcmldhCuBAdrt45HA7HZqKLol%0AtoA76daMbGTClWLlzEA9uLIe9yA%3D%0A)
 
@@ -194,7 +190,7 @@ Wenn ein Wert in der angegebenen Eigenschaft mit einem Wert in der bereitgestell
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Level der Details**
+### 3.4 **Level der Details**
 
 ![Level of Detail](https://downloads.intercomcdn.com/i/o/areracg3/1892234477/a9bbe7f93df2e1f86dd77e0d8595/image.png?expires=1779991200&signature=51855781c86ef0d04cb75ec5abe362af236e216618b33ecddea36190c8ece55b&req=dSguFMt9mYVYXvMW3nq%2BgcGzWTbpx%2B5haiavdWYct%2BeRmFV0zbmfiG0oTuny%0ATNdlYRRUrCJXUVJUnpte5c9DwEg%3D%0A)
 
@@ -226,7 +222,7 @@ Das Aussehen des Modells ist ähnlich, aber die Anzahl der Polygone nimmt drasti
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Erweitert**
+### 3.5 **Erweitert**
 
 ![Advanced](https://downloads.intercomcdn.com/i/o/areracg3/1892235835/c5a537efaad511b257aa34fd9393/image.png?expires=1779991200&signature=9ef54911a2b76d39f4e3c23df0f85f171699dd8a363ab3cf3cb37349a603544d&req=dSguFMt9mIlcXPMW3nq%2Bgej6EvTV%2BJ5RKvpYf%2BwKvvA%2BZUGNGSO9ksC63ytf%0AVqsnDeqhyykw%2B4ATqbgGWKSALMs%3D%0A)
 
@@ -292,7 +288,7 @@ So sieht das IFC-Entity-Selection-Menü aus, das geöffnet wird:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Geografische Referenz**
+### 3.6 **Geografische Referenz**
 
 Es ist wichtig, dass Ihre Revit-Koordinaten mit den anderen Modellen in Ihrem Projekt synchronisiert sind, damit sie am selben Ort landen.
 
@@ -340,7 +336,7 @@ Interner Ursprung nach Wahrer Norden ausgerichtet
 
 ---
 
-### **Unternehmensinfo**
+### 3.7 **Unternehmensinfo**
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1892339968/a88c70cdc3d15ec1e87a1e966b46/image.png?expires=1779991200&signature=f68f221eb9ab0afd91c637e525a5d0057b3307e8e6530d5198dd90d3b144f8e5&req=dSguFMp9lIhZUfMW3nq%2BgRXRtZV646CzbhYCDTM1GZGXZIjmattZX5CDm0VJ%0ALOUcKRLlH3C9wmRrDi%2FTOy04v%2Bs%3D%0A)
 
@@ -350,7 +346,7 @@ Dieses Menü ist nur verfügbar, wenn das Setup "IFC2x3 COBie 2.4 Design Deliver
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Projektinformation**
+### 3.8 **Projektinformation**
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1892356241/5a9153e5328e33ef5732be86af07/image.png?expires=1779991200&signature=24762c0ace7ebe4478d2b2713cd6017d4832352f6043104b1cc30ae373ab08f7&req=dSguFMp7m4NbWPMW3nq%2BgdDcqeJjXwra65LLEws6tCTU0wICq0oh9qpS9%2FJn%0Aqm4kmvwf4QEYAICFX8bkvDuQ7PE%3D%0A)
 
@@ -360,7 +356,7 @@ Dieses Menü ist nur verfügbar, wenn das Setup "IFC2x3 COBie 2.4 Design Deliver
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## **IFC-Optionen**
+## 4. **IFC-Optionen**
 
 Die IFC-Optionen eines Revit-Projekts finden Sie unter:
 
@@ -370,7 +366,7 @@ Die IFC-Optionen eines Revit-Projekts finden Sie unter:
 
 > **Hinweis:** Ab Revit 2026 ist diese Option jetzt unter folgender Adresse verfügbar: `Export -> IFC -> Allgemein -> Kategoriezuordnung -> Aktionsmenü rechts neben Dropdown` Hier innerhalb der _IFC-Optionen_ nehmen wir die Einstellungen zum Exportieren eines Modells in eine IFC-Datei vor. Hier können Sie Einstellungseigenschaften zum Exportieren eines Modells in IFC anpassen. Was zu Beginn dieses Handbuchs erwähnt wurde, ist, dass es nicht erforderlich ist, zu viele Informationen aus dem Modell herauszubringen. Sie können gerne vor dem Export auf unnötige Informationen verzichten. ![IFC-Export-Klassen](https://catenda-as.intercom-attachments-1.com/i/o/271057211/d475dd84fb2efef9d7bf4c1d/image-12.png?expires=1779991200&signature=ceb04d005a9687945fd4c5efc680f142fa8f71ab5daddaf6ef11c8828c6103ea&req=dicmFsx5n4BeFb4V1XW4gdpd3cvRJhUNG2sGxDwDCuCNDMBg6YsRp7MEvaGe%0Ao0oBh68YB8CtIWlb%2Bwt%2Fl%2BbXug%3D%3D%0A) Es ist möglich, Raster in Catenda Hub anzuzeigen, und wenn Sie diese in Ihrem Revit-Modell haben, können Sie in IFC-Optionen Raster so einstellen, dass sie in der IFC exportiert werden. Standardmäßig werden diese nicht aus Revit exportiert.
 
-## **Farben und Materialien**
+## 5. **Farben und Materialien**
 
 Die Farben, die in Catenda angezeigt werden, werden aus der importierten IFC-Datei gelesen.
 

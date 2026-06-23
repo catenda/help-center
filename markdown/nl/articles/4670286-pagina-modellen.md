@@ -14,11 +14,7 @@ Deze pagina maakt deel uit van het [inhoudspaneel](https://support.catenda.com/e
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/2203330265/60c65eaafc1fe9c98d0b014ea0aa/image.png?expires=1779991200&signature=60ea6cff27fdcf17b08461d5151323b964a0b8ea989c307fc99f378d30d31214&req=diInFcp9nYNZXPMW3nq%2BgStsWwQs4heuYwJav0Xdgn52pMkdUyvcWMbbKx9o%0AifRAPzYK695%2FggCVJcgOi7qE7jI%3D%0A)
 
-De volgende onderwerpen worden in dit artikel beschreven:
-
-_[Nieuwe item-acties](#h_5dc7dabe3a) - [Zoeken of filtermogelijkheden](#h_330a5c2a91) - [Rechtermenu](#h_ac840d5d23) - [Modellentabel](#h_bbc42c56bb) - [Subpagina's](#h_f549b192ca)_
-
-## **Nieuwe item-acties**
+## 1. **Nieuwe item-acties**
 
 De nieuwe item-acties kunt u rechtsbovenaan op de pagina vinden.
 
@@ -26,13 +22,13 @@ De nieuwe item-acties kunt u rechtsbovenaan op de pagina vinden.
 
 Zie [hier](https://support.catenda.com/en/articles/9431936-actions-on-the-models-page) voor meer informatie over wat de verschillende acties doen.
 
-## **Zoeken of filtermogelijkheden**
+## 2. **Zoeken of filtermogelijkheden**
 
 Zie [hier](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page) voor meer informatie over de beste manier om op de modellenpagina te zoeken of te filteren:
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1702848368/4c99fc064c7351e524831d7686e6/image.png?expires=1779991200&signature=1ade06ead1a0b9ca23aaac2f4ae2a0fd9ce8f0cfcba69fe0403a44220b7f6076&req=dScnFMF6lYJZUfMW3nq%2BgVPl8vbHmkmDhmOZUW1XEw2rSFTXXevw1%2FKGTqXi%0A4VSeYcm72PXgAVmZzTKYrvr7cV8%3D%0A)
 
-## **Rechtermenu**
+## 3. **Rechtermenu**
 
 Als rijen van modellen in de modellentabel zijn geselecteerd, verschijnt een informatieknop rechts van de zoek- of filterbalk.
 
@@ -50,7 +46,7 @@ In het rechtermenu kunt u de volgende informatie zien:
 - _Modeltransformatie_
   Klik [hier](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page) voor meer informatie over het rechtermenu op de modellenpagina.
 
-## **Modellentabel**
+## 4. **Modellentabel**
 
 De modellentabel kan er als volgt uitzien:
 
@@ -60,7 +56,7 @@ Zodra een model is gemaakt, verschijnt het als een rij in de modellentabel.
 
 Klik [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) voor meer informatie over het werken met tabellen in Catenda.
 
-### **Geselecteerde item-acties**
+### 4.1 **Geselecteerde item-acties**
 
 Nadat u een modelrij hebt geselecteerd, verschijnen geselecteerde item-acties bovenaan de modellentabel.
 
@@ -70,7 +66,7 @@ Dit is hoe het menu met geselecteerde item-acties eruit kan zien:
 
 Klik [hier](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed) voor meer informatie over wat de verschillende geselecteerde item-acties doen.
 
-### **Rij-inhoud**
+### 4.2 **Rij-inhoud**
 
 Wanneer de tabel voor het eerst wordt geladen, worden maximaal 100 rijen weergegeven.
 
@@ -92,7 +88,7 @@ Bij 2D wordt het 3D-paneel geopend en wordt het eerste verhaal van de nieuwste v
 
 Bij 3D wordt het 3D-paneel geopend en wordt de nieuwste versie van het model in 3D geladen.
 
-### **Rij-inhoud met statusworkflow - Conceptversies**
+### 4.3 **Rij-inhoud met statusworkflow - Conceptversies**
 
 _Toegang_
 
@@ -100,7 +96,7 @@ Modelrijen van modellen met alleen conceptversies hebben geen 2D- en 3D-knoppen 
 
 > **Opmerking:** Conceptversies worden niet weergegeven op de [modeloverzichtspagina](https://support.catenda.com/en/articles/4670270-model-page). _2D- en 3D-knoppen_ De 2D- en 3D-weergaven van de nieuwste gepubliceerde versie worden geopend, zelfs als er nieuwere conceptversies zijn.
 
-### **Rij-inhoud met statusworkflow - Werkbladtabblad**
+### 4.4 **Rij-inhoud met statusworkflow - Werkbladtabblad**
 
 _Toegang_
 
@@ -118,7 +114,7 @@ _2D- en 3D-knoppen_
 
 De 2D- en 3D-weergaven van de nieuwste versie waartoe een gebruiker toegang heeft, worden geopend.
 
-### **Rij-inhoud met statusworkflow - Gepubliceerd tabblad**
+### 4.5 **Rij-inhoud met statusworkflow - Gepubliceerd tabblad**
 
 _Toegang_
 
@@ -130,7 +126,7 @@ _2D- en 3D-knoppen_
 
 De 2D- en 3D-weergaven van de nieuwste gepubliceerde versie worden geopend, zelfs als er nieuwere gedeelde versies zijn.
 
-### **Kolommen**
+### 4.6 **Kolommen**
 
 Afhankelijk van of één paneel of meerdere panelen zijn geopend, kunnen verschillende informatie worden weergegeven.
 
@@ -159,7 +155,7 @@ In plaats van een versienummer ziet u het volgende pictogram dat u kunt klikken 
 <div class="intercom-container intercom-align-center"><img src="https://downloads.intercomcdn.com/i/o/1128796790/433007f5c08e12a46a1cf72e/image.png?expires=1779991200&amp;signature=6d2769c236522b8add72ad1459efbfd3edea361596758a5e4a0fdaead6fb31f9&amp;req=dSElHs53m4ZWWfMW3nq%2BgUJAq5%2Fne8p%2FnydcowhE3pLyS2kmGK2JVLf86cKP%0A9OyFoh%2BA1DcSJq8Gbrr%2BZWcg9Q8%3D%0A" width="47"/></div><p class="no-margin"></p>
 </td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Versie-opmerking</i></p></td></tr><tr><td><p class="no-margin">De opmerking die met de versie is geüpload (alleen verouderd)</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Versienaam</i></p></td></tr><tr><td><p class="no-margin">De naam van de nieuwste openbare document-modelversie. Kan niet worden gewijzigd na uploaden.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Status</i> - Standaard</p></td></tr><tr><td><p class="no-margin">De status van de nieuwste openbare document-modelversie. Openbare statussen kunnen worden ingeschakeld in <a class="intercom-content-link" href="https://support.catenda.com/en/articles/7831371-document-settings" target="_blank">documentinstellingen</a>.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Grootte</i> - Standaard</p></td></tr><tr><td><p class="no-margin">De bestandsgrootte van de laatste openbare document-modelversie</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Labels</i> - Standaard</p></td></tr><tr><td><p class="no-margin">De labels die aan het model-document zijn gekoppeld.</p></td></tr><tr><td><p class="no-margin">Een label kan worden toegepast nadat u de eerste versie hebt geüpload.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Document aangemaakt</i></p></td></tr><tr><td><p class="no-margin">De persoon die het document-model heeft gemaakt en de datum en tijd waarop het is gemaakt.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Gepubliceerd</i> - Standaard</p></td></tr><tr><td><p class="no-margin">De persoon die de laatste gepubliceerde versie in het document-model heeft gepubliceerd en de datum en tijd waarop het is gepubliceerd.</p></td></tr></tbody></table></div>
 
-## **Subpagina's**
+## 5. **Subpagina's**
 
 Als subpagina's op de modellenpagina vindt u de volgende pagina's:
 

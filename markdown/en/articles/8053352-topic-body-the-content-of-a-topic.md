@@ -1,8 +1,6 @@
 # Topic body - The content of a topic
 
-Select a topic from an [topic board](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) a to open the topic page of the topic.
-
-This is what the [topic banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) on the topic page can look like:
+Select a topic from an [topic board](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) a to open the topic page of the topic. This is what the [topic banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) on the topic page can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/01-intro.png)
 
@@ -10,37 +8,27 @@ This is what the [topic header](https://support.catenda.com/en/articles/8400566-
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/02-intro.png)
 
-Below the topic header the topic body can be found with description and comments. The topic body is described in this article.
-
-To the right of the topic body and header the [right information panel](https://support.catenda.com/en/articles/8053299-issue-right-panel) can be found.
-
-Click on th information icon in the topic banner to expand the right infomraiton panel.
+Below the topic header the topic body can be found with description and comments. The topic body is described in this article. To the right of the topic body and header the [right information panel](https://support.catenda.com/en/articles/8053299-issue-right-panel) can be found. Click on th information icon in the topic banner to expand the right infomraiton panel.
 
 The topic body described in this article is below the header and to the left of the right information panel:
-
-**[Progress bar](#h_7b73deaf7d) - [Description](#h_952e4743da) - [Topic information](#h_15569a8464) - [Comment section](#h_0e3c0059ae)**
 
 This is what the main part of a topic can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/03-intro.png)
 
-## **Progress bar**
+## 1. **Progress bar**
 
-The progress bar appears towards the top of the topic body if checkboxes or linked topics have been added to the topic description.
-
-This is what the progress bar towards the top of a topic can look like:
+The progress bar appears towards the top of the topic body if checkboxes or linked topics have been added to the topic description. This is what the progress bar towards the top of a topic can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/04-progress-bar.png)
 
-The progress bar shows the progress of checked checkboxes and resolved topics in the description of the topic.
+The progress bar shows the progress of checked checkboxes and resolved topics in the description of the topic. For a short video tutorial about check lists see [here](https://support.catenda.com/en/articles/5036461-check-lists-within-issues)
 
-For a short video tutorial about check lists see [here](https://support.catenda.com/en/articles/5036461-check-lists-within-issues)
-
-## **Description**
+## 2. **Description**
 
 The topic description follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
 
-### **Edit description**
+### 2.1 **Edit description**
 
 Click on the pencil on the top right of the topic content to edit the description
 
@@ -52,65 +40,47 @@ This is what a description can look like when it is being edited:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/06-edit-description.png)
 
-For more information about formatting options edit the description and click on the question mark.
+For more information about formatting options edit the description and click on the question mark. Descriptions follow the general rules of [formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda.
 
-Descriptions follow the general rules of [formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda.
+## 3. **Topic information**
 
-## **Topic information**
-
-The topic information can be found below the description.
-
-This is what the topic information can look like:
+The topic information can be found below the description. This is what the topic information can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/07-topic-information.png)
 
-## 
+## 4. 
 
-### **Created by**
+### 4.1 **Created by**
 
-The creator of the topic and the time it was created.
+The creator of the topic and the time it was created. To get a more specific time go to [account settings](https://support.catenda.com/en/articles/6880968-account-page#h_4aa257b72f).
 
-To get a more specific time go to [account settings](https://support.catenda.com/en/articles/6880968-account-page#h_4aa257b72f).
+### 4.2 **Show history**
 
-### **Show history**
+The history of the topic can be seen by clicking on the show history button towards the bottom right of the topic description. See [this article](https://support.catenda.com/en/articles/8613038-issue-history) for what topic history is possible to see on Catenda Hub.
 
-The history of the topic can be seen by clicking on the show history button towards the bottom right of the topic description.
+### 4.3 **Sort**
 
-See [this article](https://support.catenda.com/en/articles/8613038-issue-history) for what topic history is possible to see on Catenda Hub.
+Show oldest comments first - Default Show newest comments first
 
-### **Sort**
-
-Show oldest comments first - Default
-
-Show newest comments first
-
-## **Comment section**
+## 5. **Comment section**
 
 The is what the comment section in a topic can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/08-comment-section.png)
 
-### **Existing comment action menu**
+### 5.1 **Existing comment action menu**
 
-The action menu of a comment can be found with the three dots towards the top right of an existing comment.
-
-_Access required:_ comment creator
+The action menu of a comment can be found with the three dots towards the top right of an existing comment. _Access required:_ comment creator
 
 **Edit a comment**
 
-Only the author of a comment can edit their own comment.
-
-It is only possible to edit the text in a comment
-
-To remove a picture from a comment the whole comment has to be deleted.
-
-After editing the comment the date and time of when it was last edited are displayed on the comment.
+Only the author of a comment can edit their own comment. It is only possible to edit the text in a comment To remove a picture from a comment the whole comment has to be deleted. After editing the comment the date and time of when it was last edited are displayed on the comment.
 
 **Delete a comment**
 
 Click on delete comment to delete a comment
 
-### **Comment**
+### 5.2 **Comment**
 
 Text in comments follow the [general rules for formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) with a minor difference when it comes to checklists.
 
@@ -120,37 +90,21 @@ Left click on the image of an attachment to open the image pop-out.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/09-comment.png)
 
-Navigate between images from different comments in this topic with the left/right navigation arrows
-
-The best way to download the original image that was submitted is by clicking on the  download icon to download the image
-
-The save as in the action menu of the browser saves html instead of the image.
-
-Pin the image pop-out on with the pin icon on the top right to keep the image pop-out open while navigating to other parts of Catenda Hub.
-
-Close the image pop-out by clicking on the x top right, clicking on close bottom right or pressing esc on the keyboard.
+Navigate between images from different comments in this topic with the left/right navigation arrows The best way to download the original image that was submitted is by clicking on the  download icon to download the image The save as in the action menu of the browser saves html instead of the image. Pin the image pop-out on with the pin icon on the top right to keep the image pop-out open while navigating to other parts of Catenda Hub. Close the image pop-out by clicking on the x top right, clicking on close bottom right or pressing esc on the keyboard.
 
 A comment can have one of the following 3 attachments:
 
-**[Image](#h_fb43bacd99) - [2D and 3D snapshots](#h_1ba7f8873f) - [Annotation](#h_e98c0964d4)**
-
-### **Image**
+### 5.3 **Image**
 
 **Adding an image to a comment**
 
-The plus next to the comment box can ble clicked to add an image.
-
-Choose an image from a local hard drive to add it to the comment.
+The plus next to the comment box can ble clicked to add an image. Choose an image from a local hard drive to add it to the comment.
 
 It is also possible to highlight the text box of the comment and paste an image from the clipboard.
 
 **Connect image to 3D**
 
-When an image is added to a comment it will say "No viewer connection" under the image unless a model is loaded in the 3D viewer.
-
-The text "Connect to 3D viewpoint" is displayed.
-
-The image can now connect it to objects and a position in the viewer. Submit this comment to play back the viewpoint by clicking on the play button. Annotations can be added to the image after adding the image and before submitting the comment.
+When an image is added to a comment it will say "No viewer connection" under the image unless a model is loaded in the 3D viewer. The text "Connect to 3D viewpoint" is displayed. The image can now connect it to objects and a position in the viewer. Submit this comment to play back the viewpoint by clicking on the play button. Annotations can be added to the image after adding the image and before submitting the comment.
 
 **Image pop-out**
 
@@ -158,11 +112,9 @@ The image that is attached to the comment after the comment is submitted can be 
 
 **Deleting an image from a comment**
 
-Images that are attached to comments cannot be edited or deleted from the comment.
+Images that are attached to comments cannot be edited or deleted from the comment. Delete the whole comment to remove the image from the topic.
 
-Delete the whole comment to remove the image from the topic.
-
-### **2D or 3D snapshots**
+### 5.4 **2D or 3D snapshots**
 
 Click on the plus button next to the comment field to add a 2D or 3D snapshot
 
@@ -170,25 +122,15 @@ Click on the plus button next to the comment field to add a 2D or 3D snapshot
 
 **Adding a 2D or 3D snapshot to a comment**
 
-Load a model in the 3D viewer to attach a 3D snapshot to a comment.
-
-Load a storey of a model in the 2D viewer to attach a 2D snapshot to a comment.
-
-A 3D snapshot can look somehting like this.
+Load a model in the 3D viewer to attach a 3D snapshot to a comment. Load a storey of a model in the 2D viewer to attach a 2D snapshot to a comment. A 3D snapshot can look somehting like this.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/11-2d-or-3d-snapshots.png)
 
-2D snapshots have the same buttons but with an image of the 2D viewer attached.
+2D snapshots have the same buttons but with an image of the 2D viewer attached. Click [here](https://support.catenda.com/en/articles/10345863-snapshots) to read more about snapshot configuration
 
-Click [here](https://support.catenda.com/en/articles/10345863-snapshots) to read more about snapshot configuration
+### 5.5 **Markup**
 
-### **Markup**
-
-Keep track of annotations on documents by creating a markup.
-
-When a markup is saved, it is either added to the comment of an existing topic or a new topic with the markup is created.
-
-A topic comment with a markup can look something like this:
+Keep track of annotations on documents by creating a markup. When a markup is saved, it is either added to the comment of an existing topic or a new topic with the markup is created. A topic comment with a markup can look something like this:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/12-markup.png)
 
@@ -220,7 +162,7 @@ The following information can be seen in a markup snapshot:
 
 The image that is attached to the comment after the comment is submitted can be [popped-out](#h_e36d14edc8) to see a its contents in a larger format and download it after it has been submitted.
 
-### **New comment**
+### 5.6 **New comment**
 
 This is what a draft of a new comment can look like before the comment is submitted
 
@@ -228,13 +170,7 @@ This is what a draft of a new comment can look like before the comment is submit
 
 **Text box**
 
-Write a comment in the text box next to the plus button.
-
-Mention members by typing @name or link to other topics by typing #link.
-
-Text submitted in the text box of a comment follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda.
-
-Paste both text and images from the clipboard to attach them to the new comment.
+Write a comment in the text box next to the plus button. Mention members by typing @name or link to other topics by typing #link. Text submitted in the text box of a comment follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda. Paste both text and images from the clipboard to attach them to the new comment.
 
 **Plus button**
 
@@ -242,15 +178,11 @@ Click on the plus button to add a 3D snapshot, a 2D snapshot or an image to the 
 
 **3D snapshot**
 
-Add a snapshot of the current situation in the 3D viewer panel.
-
-Click on this attachment again to update the 3D view after making changes.
+Add a snapshot of the current situation in the 3D viewer panel. Click on this attachment again to update the 3D view after making changes.
 
 **2D snapshot**
 
-Add a snapshot of the current 2D view that can be found towards the bottom right of the 3D viewer.
-
-Click on this attachment again to update the 3D view after making changes.
+Add a snapshot of the current 2D view that can be found towards the bottom right of the 3D viewer. Click on this attachment again to update the 3D view after making changes.
 
 **Image**
 
@@ -258,16 +190,8 @@ Attach an image from the local hard drive.
 
 **Attachment image**
 
-Each attachment comes along with an image.
-
-Left click on the image of the attachment to open the attachment pop-out.
-
-In the attachment pop-out the image of the attachment can be annotated.
-
-Under the image a toolbar appears with the tools to draw the specific point of the topic in more detail.​
+Each attachment comes along with an image. Left click on the image of the attachment to open the attachment pop-out. In the attachment pop-out the image of the attachment can be annotated. Under the image a toolbar appears with the tools to draw the specific point of the topic in more detail.​
 
 **Submit**
 
-Click on submit to submit the draft of new comment including the text written in the text box as well as any attachment that has been added.
-
-It is only possible to submit comments with one attachment at a time.
+Click on submit to submit the draft of new comment including the text written in the text box as well as any attachment that has been added. It is only possible to submit comments with one attachment at a time.

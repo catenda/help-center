@@ -4,7 +4,7 @@ Die Einstellungen für die Multi-Faktor-Authentifizierung (MFA) finden Sie auf d
 
 Die Multi-Faktor-Authentifizierung (MFA) erfordert die Eingabe eines Codes, den Sie über Ihr mobiles Gerät erhalten haben, sowie die Eingabe Ihres Benutzernamens und Passworts, wenn Sie sich bei Catenda Hub anmelden. Wenn eine Organisation MFA verlangt, wird sie auf Organisationsebene angewendet. Alle Projekte, die zu dieser Organisation gehören, benötigen dann MFA, um auf ihre Projekte zuzugreifen. Dadurch werden alle Benutzer gezwungen, MFA zu aktivieren, um auf Projekte dieser Organisation zuzugreifen.
 
-## Aktivieren von MFA
+## 1. Aktivieren von MFA
 
 Loggen Sie sich in Catenda Hub ein und gehen Sie auf die Seite Konto:
 
@@ -16,7 +16,7 @@ Loggen Sie sich in Catenda Hub ein und gehen Sie auf die Seite Konto:
 
 ![](https://downloads.intercomcdn.com/i/o/710944230/ebe37c5fb2379afe1d58d515/image.png?expires=1781092800&signature=bb1b215bf932a3da6fd9efd65031aa089830c4fa92090872b305802d5370aa61&req=cyEnH816n4JfFb4V1XW4gTVsh%2FWNq4RWV4OD%2BiH2LjOrUp6WWcpjxhq9folB%0A%2BuwHJKhvj1SGgt1qEKhqKE8VEQ%3D%3D%0A)
 
-### Authentifizierungs **App**
+### 1.1 Authentifizierungs **App**
 
 Sie müssen eine Authentifizierungsanwendung, der Sie vertrauen, auf Ihrem Mobilgerät installieren.
 
@@ -66,7 +66,7 @@ Nach der Aktivierung müssen Sie Ihr Mobilgerät bei jeder Anmeldung bei Catenda
 
 Die MFA kann wieder deaktiviert werden, indem Sie auf MFA deaktivieren klicken.
 
-## Ändern von **MFA**
+## 2. Ändern von **MFA**
 
 Nachdem Sie einen MFA-Code verbunden haben, können Sie den Kontonamen des Codes sicher bearbeiten.
 
@@ -83,7 +83,7 @@ _Microsoft_ Authentifikator
 1. Klicken Sie oben rechts auf die Schaltfläche "Zahnrad
 1. Klicken Sie auf den Bleistift, um den Namen zu ändern
 
-## Übertragende MFA
+## 3. Übertragende MFA
 
 Es kann immer nur ein Gerät gleichzeitig verwendet werden. Wenn Sie ein neues Gerät verwenden möchten, können Sie die gleiche MFA-App auf dem neuen Gerät verwenden und den Code vom alten Gerät übertragen.
 
@@ -116,13 +116,13 @@ Neues Gerät:
 
 > **Note:** **Hinweis**: Richten Sie keine Konten mit Microsoft Authenticator ein, bevor Sie das Wiederherstellungstool verwendet haben, da es passende Website-Konten überschreibt.
 
-## Deaktivieren von MFA
+## 4. Deaktivieren von MFA
 
 Sie können MFA deaktivieren, indem Sie auf die oben gezeigte Schaltfläche "Deaktivieren" klicken und dann Ihr Passwort zur Bestätigung eingeben. Nach der Deaktivierung können Sie nicht mehr auf Projekte zugreifen, die MFA erfordern.
 
 Nach der Deaktivierung des Codes auf Catenda Hub verbleibt der Code in der Anwendung, mit der Sie sich verbunden haben. Dieser Code ist nun nutzlos und kann sicher gelöscht werden.
 
-### So löschen Sie den alten Code:
+### 4.1 So löschen Sie den alten Code:
 
 _Google_ Authentifikator
 
@@ -135,7 +135,7 @@ _Microsoft_ Authentifikator
 1. Klicken Sie oben rechts auf die Schaltfläche "Zahnrad
 1. Klicken Sie auf Konto entfernen
 
-## MFA auf nicht-mobilen Geräten
+## 5. MFA auf nicht-mobilen Geräten
 
 Authenticator-Apps sind sicherer als SMS-/E-Mail-Code-Lösungen, da es keine Kommunikation gibt, die nach der ursprünglichen Konfiguration zwischen den beiden Systemen abgefangen werden kann.
 
@@ -147,7 +147,7 @@ Diese Art von Anwendungen verwendet das gleiche TOTP-Protokoll wie die App auf I
 
 > **Note:** **Hinweis**: Desktop-Anwendungen können weniger sicher sein, da sie leichter zu hacken sind oder man sich Zugang zu ihnen verschaffen kann. Das liegt daran, dass Desktop-Systeme oft, wenn auch nicht immer, mit dem lokalen Netzwerk verbunden sind, das infiziert sein könnte. Mobile Geräte, die nicht immer mit dem Netzwerk verbunden sind, können daher schwerer zu knacken sein.
 
-## Wer kann die MFH bei Projekten durchsetzen?
+## 6. Wer kann die MFH bei Projekten durchsetzen?
 
 Unternehmenskunden können die Aktivierung einer Organisationsoption beantragen, die dafür sorgt, dass alle Benutzer, die Teil ihrer Projekte sind, MFA verwenden müssen, um das Projekt zu betreten.
 

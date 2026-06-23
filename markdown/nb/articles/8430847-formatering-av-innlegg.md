@@ -16,23 +16,19 @@ Slik kan en emne overskrift og beskrivelse se ut etter at de er sendt inn:
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/2142853925/ac356cf8aa82ab2d579f021fbb5a/image.png?expires=1779991200&signature=db379701aa782a795d0715249d2e131838f324a1adc1df5c4f091de05493201d&req=diEjFMF7nohdXPMW3nq%2BgeO5Gu4QTVbwiyiagSAGJYRM3jg%2FjBE06qW2yxJo%0Ah8KhRqQ6FpjyJBQAessFwOYLWgY%3D%0A)
 
-De følgende emnene vil bli beskrevet i denne artikkelen i denne artikkelen:
-
-_[Tilgjengelighet](#h_59aa7a2e3d) - [Vedlegg](#h_d1bcf0c9b0) - [Formatering av tekst](#h_b3cf161d9b) - [Dele opp og strukturere tekst](#h_b0799ba17b) - [Nevne medlemmer/team](#h_2481ad1c8c) - [Merking av emner](#h_282be07cfd)_
-
-## Tilgjengelighet for formatering
+## 1. Tilgjengelighet for formatering
 
 Det er ofte mulig å se at innsendte felt kan formateres ved hjelp av verktøykassen som vises under feltet når feltet redigeres.
 
 > **Merk:** Zoom ut langt nok i nettleseren for å se alle verktøy. Formatering er tilgjengelig i følgende felt:
 
-### **Emne Beskrivelse og kommentar**
+### 1.1 **Emne Beskrivelse og kommentar**
 
 Rediger beskrivelsen eller kommentaren til et eksisterende emne eller når du sender inn et nytt emne for å se verktøykassen:
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/2142716774/e00776f86b3e5961148459c33a7b/image.png?expires=1779991200&signature=0e22d9a262f6ec8cc9ffd59b884be7ed21d8b5d927709293d35243a523fd2783&req=diEjFM5%2Fm4ZYXfMW3nq%2BgbCbYvmyhkqzs2jDl1gilk2Cc6xR6QmhVhC4KlhS%0ACdo6DkIGE0Ixwn%2FSMNbyKzybwrM%3D%0A)
 
-### **Beskrivelse av godkjenningsforespørsel**
+### 1.2 **Beskrivelse av godkjenningsforespørsel**
 
 Selv om verktøykassen ikke vises i beskrivelsen av den nye godkjenningsforespørselsdialogen, blir formatering brukt på denne beskrivelsen.
 
@@ -40,13 +36,13 @@ Selv om verktøykassen ikke vises i beskrivelsen av den nye godkjenningsforespø
 
 > **Merk:** Dette feltet kan ikke redigeres etter at godkjenningsforespørselen er sendt inn.
 
-### Beskrivelse av emnetavle
+### 1.3 Beskrivelse av emnetavle
 
 Selv om verktøykassen vises i den nye beskrivelsen av emnetavlen, er det viktig å merke seg at beskrivelsen ikke formateres når tavlen sendes inn.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/2142743765/402182e2f1338dc3fb1929bba3cb/image.png?expires=1779991200&signature=d602bee7f2778397607b0ba3230f11c8c54bd3d37fc0c145263106ffbf43ccdd&req=diEjFM56noZZXPMW3nq%2BgWTJvB12fwkzGWwhaz5DPXa%2BsBXBYBDmT0SxeF%2Fe%0ASdziSiIf%2B5qLx8pvhZlyvl%2BRq40%3D%0A)
 
-## **Vedlegg i emnekommentar**
+## 2. **Vedlegg i emnekommentar**
 
 I emnekommentarer er et vedleggsverktøy synlig.
 
@@ -56,17 +52,13 @@ Klikk på +-knappen i et emne for å legge til et vedlegg.
 
 Klikk [her](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae) for å lese mer om kommentarvedlegg.
 
-## **Formatering av tekst**
+## 3. **Formatering av tekst**
 
-Følgende metoder lar deg formatere teksten din:
-
-_[Fet, kursiv, gjennomstreket](#h_c33379258a) - [Overskrifter](#h_ffb58d98de) - [Lenker](#h_4e7260972a) - [Forhindre formatering](#h_2ec17c688b)_
-
-### **Fet, kursiv, gjennomstreket**
+### 3.1 **Fet, kursiv, gjennomstreket**
 
 Fet, kursiv og gjennomstreket formatering kan gjøres hvor som helst på en linje og fungerer godt sammen med annen formatering som må være i begynnelsen av en linje. <img alt="**Dette vil være fet** **Dette vil også være fet** _Dette vil være kursiv_ _Dette vil også være kursiv_ **Dette vil være fet _kombinert med kursiv_** ~~Denne teksten vil være gjennomstreket~~" src="https://downloads.intercomcdn.com/i/o/areracg3/2142792258/413abae1f84003541985e219ba6a/image.png?expires=1774980000&amp;signature=2d6fe37d7b6194387af9777ef3fff90661568c1f4c9c671432a579a2eb3326f5&amp;req=diEjFM53n4NaUfMW3Hu4gT%2BWlpelLC%2FZyeDdX1yNHeLbkkEA7t04WYWBkBTX%0A2w%3D%3D%0A" width="290"/>   \<->   <img alt="Dette vil være fet​Dette vil også være fet​Dette vil være kursiv​Dette vil også være kursiv​Dette vil være fet kombinert med kursivDenne teksten vil være gjennomstreket" src="https://downloads.intercomcdn.com/i/o/areracg3/2142795125/2e54ab8ee52b65dc4705ce317a46/image.png?expires=1774980000&amp;signature=49a7d42096c9d732940db393c57d4c7f51d3675b98a4bc93ba2e4d2977de9468&amp;req=diEjFM53mIBdXPMW3Hu4gZqcrM4jhw7heqMaiz7UXJrKgwDtxdXRZOmHVQh5%0A%2Bw%3D%3D%0A" width="290"/>
 
-### **Overskrifter**
+### 3.2 **Overskrifter**
 
 Overskriftsverktøyet legger til hastags/kryss til begynnelsen av linjen.
 
@@ -74,7 +66,7 @@ Det er 5 nivåer av overskrifter som støttes:
 
 Formateringen som overskriften får, er avhengig av antallet hastags/kryss (`#`) som er i begynnelsen av linjen. <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/2142774211/4d966269824f2314e3685bf574d2/image.png?expires=1774980000&amp;signature=deb6ed14712f57d0d4b0c53ec1279375556850bf32c8840e20badb8d373516f3&amp;req=diEjFM55mYNeWPMW3Hu4gYpCJPwCMzegJvhdZHHTxaYqo1q9T5nZ7c27Xhfd%0A9g%3D%3D%0A" width="290"/>   \<->   <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/2142782676/88eae0f146164d95cf6bc94bb9d9/image.png?expires=1774980000&amp;signature=41447ae0185c19ef09c816795ecb067042f94fcc6a970d0590590458ea2848e5&amp;req=diEjFM52n4dYX%2FMW3Hu4gXMRNm2JOBxeB8KI3qP4itWZAkDmJ%2BtQeqYn168Q%0AwQ%3D%3D%0A" width="290"/>
 
-### **Lenker**
+### 3.3 **Lenker**
 
 Lenkestil kan gjøres hvor som helst på en linje og fungerer godt sammen med annen formatering som må være i begynnelsen av en linje.
 
@@ -104,7 +96,7 @@ vil bli:
 
 > **Merk:** Vær forsiktig når du klikker på lenker fordi selv om teksten [fra parentesene] kan vise en lenke, kan den faktiske lenken (fra parentesene) være annerledes. Det anbefales å holde musen over en lenke og se hvor nettleseren vil omdirigere til før du klikker på en lenke.
 
-### **Forhindre formatering**
+### 3.4 **Forhindre formatering**
 
 Ved å pakke ord i tegn som ikke er bokstaver eller tall, kan du få dem til å se annerledes ut.
 
@@ -116,13 +108,9 @@ All formatering som ville ha blitt brukt på disse tegnene vil da slutte å fung
 
 Hvis du setter en `\\` på en tom linje som ikke er del av en [liste](#h_6da4949f8c), vil resultatet fortsatt være en tom linje.
 
-## **Dele opp tekst og legge til struktur**
+## 4. **Dele opp tekst og legge til struktur**
 
-Følgende metoder lar deg forbedre teksten din ved å dele den opp og legge til struktur:
-
-_[Bilder](#h_addf8ad509) - [Lister](#h_6b17294b71) - [Skillelinjer](#h_fdecb8577b) - [Sjekklister](#h_d0007452e5) - [Tabeller](#h_20306a720d) - [Kodeblokker](#h_0ca602daeb) - [Markdown](#h_750fef10e8)_
-
-### **Bilder**
+### 4.1 **Bilder**
 
 Bilder i beskrivelser kan ha en lenke knyttet til seg.
 
@@ -140,7 +128,7 @@ For at bildet skal vises korrekt, må Catenda ha tilgang til lenken som er angit
 
 > \+ Bildet kan legges til en beskrivelse \+ Bildet kan blandes med tekst slik at du kan ha tekst både før og etter bildet i de samme kommentarene eller beskrivelser. \+ Bilder som disse kan kombineres med tabeller og lister. For eksempel kan du legge til et hakemerkesbilde midt i en setning/tabell i stedet for formaterings avkrysningsfeltet som bare fungerer i begynnelsen av en setning \- Du kan ikke garantere at lenken til bildet forblir tilgjengelig i fremtiden. _Hente en Catenda bildedokumentlenke_ Hvis du høyreklikker på [nedlastingshandlingsknappen etter valg av et dokument](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) eller høyreklikker på [nedlastings siste revisjon handlingsknappen etter åpning av et dokument](https://support.catenda.com/en/articles/9323521-actions-in-a-document) kan du kopiere nedlastingslenken til dokumentet. Hvis du bruker denne lenken i emnet ditt som ovenfor, vil du kunne bruke Catenda dokumenter i emner. \+ Hvis du legger til en lenke til et Catenda bildedokument, kan du legge til bilder som bare vises på Catenda og ikke er tilgjengelig på andre plattformer som emnet kan utveksles med. \+ Ved å legge til lenker til et Catenda bildedokument kan bare personer med tilgang til dokumentet se bildet. \- Hvis du legger til en lenke til et Catenda bildedokument, vil det ikke være synlig på andre plattformer som emnet kan ha blitt synkronisert med og for personer som ikke har tilgang til dokumentet.
 
-### **Lister**
+### 4.2 **Lister**
 
 _Uordnede lister _
 
@@ -228,11 +216,11 @@ Vil alt bli til:
 25. tjuefem
 26. tjueseks
 
-### **Skillelinjer**
+### 4.3 **Skillelinjer**
 
-## Tre bindestreker `---` eller flere på sin egen linje vil opprette en skillelinje:
+## 5. Tre bindestreker `---` eller flere på sin egen linje vil opprette en skillelinje:
 
-### **Sjekklister**
+### 5.1 **Sjekklister**
 
 Disse kan krysses av i beskrivelsen av et emne.
 
@@ -258,7 +246,7 @@ Avmerkingsbokser i kommentarer kan ikke klikkes for å merkes.
 
 _Tilgang kreves -_ Kommentarskripribenten har tilgang til redigering av den opprettede kommentaren
 
-### **Tabeller**
+### 5.2 **Tabeller**
 
 Tekst i beskrivelser kan organiseres i tabeller.
 
@@ -275,7 +263,7 @@ vil resultere i dette
 </td></tr><tr><td><p class="no-margin"><b>Beløp</b></p></td><td><p class="no-margin">10</p></td><td><p class="no-margin">4</p></td><td><p class="no-margin"></p>
 </td></tr><tr><td><p class="no-margin"><b>Sum</b></p></td><td><p class="no-margin">5 000,-</p></td><td><p class="no-margin">1 600,-</p></td><td><p class="no-margin"><b>6 600,-</b></p></td></tr></tbody></table></div>
 
-### **Kodeblokker**
+### 5.3 **Kodeblokker**
 
 Du kan sette inn enkelte linjer med kode slik:
 
@@ -289,13 +277,13 @@ Tre backticks `\`\`\`` over og under litt tekst vil se slik ut:
 
 Det er ikke mulig å legge til tabeller i kodeblokker
 
-### **Markdown dialekt**
+### 5.4 **Markdown dialekt**
 
 Hvis du ønsker å vite mer om hvordan tekst formateres i kommentarer og beskrivelser, bruker vi markdown dialekten "flexmark" til å formatere denne teksten.
 
 Finn ut mer om flexmark på [github siden deres](https://github.com/vsch/flexmark-java).
 
-## **@ Nevnte medlemmer og team**
+## 6. **@ Nevnte medlemmer og team**
 
 Klikk på `@` verktøyet eller skriv `@` i en beskrivelse eller kommentar for å nevne et medlem.
 
@@ -313,7 +301,7 @@ Etter at du har valgt et medlem eller team i listen, får `@` litt ekstra tekst 
 
 `@[\<email address of member>]` eller `@[\<Team name>]`
 
-### **Lagring eller innsending av en omtale i et emne**
+### 6.1 **Lagring eller innsending av en omtale i et emne**
 
 Når beskrivelsen lagres eller kommentaren sendes inn, mottar relaterte medlemmer med tilgang til emnetavlen en varsel.
 
@@ -337,7 +325,7 @@ Dette er en flott måte å sikre at mer enn bare [tilordnet person](https://supp
 
 Hvis et medlem ikke lenger ønsker å følge emnet, må de manuelt slutte å følge det.
 
-### **Omtale i innlegg**
+### 6.2 **Omtale i innlegg**
 
 Omtaler i innlegg kan identifiseres ved å ha grønn tekstfarge.
 
@@ -369,7 +357,7 @@ Hvis et team har blitt fjernet fra prosjektet og et nytt team opprettes, vil det
 
 For å omtale det nye teamet, må innlegget sendes inn på nytt.
 
-## **# Merkede emner**
+## 7. **# Merkede emner**
 
 Klikk på `#` verktøyet eller skriv `#` i en beskrivelse eller kommentar for å merke et emne.
 
@@ -387,7 +375,7 @@ Etter at du har valgt et emne i listen, får `#` litt ekstra tekst som kan se sl
 
 `#[\<topic number>]`
 
-### **Lagring eller innsending av et merket emne**
+### 7.1 **Lagring eller innsending av et merket emne**
 
 Når beskrivelsen lagres eller kommentaren sendes inn, opprettes en emne relasjon.
 
@@ -401,7 +389,7 @@ I tillegg til emnet der et annet emne ble merket, mottar det merkede emnet selv 
 
 Emnelenken kan senere fjernes fra enten emnet med det merkede emnet i beskrivelsen eller fra emnet som ble merket ved å gå til hvert emne og redigere listen over [merkede emner](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) i [høyre meny](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue).
 
-### **Merket emne i innlegg**
+### 7.2 **Merket emne i innlegg**
 
 Merkede emner kan identifiseres ved først å ha en sirkel med fargen på gjeldende status til det merkede emnet sammen med navnet på den statusen.
 

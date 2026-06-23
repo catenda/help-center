@@ -4,17 +4,13 @@ Vergeleken met het uploaden van een standaard zip bstand zal de upload een zip f
 
 Op deze manier kunnen bestandsstructuren tot de [documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page) geüpload worden zonder dat mappen handmatig aangemaakt hoeven te worden.
 
-De volgende themas zullen in deze artikel beschreven worden:
-
-**[Selecteren](#h_3477aba8fe) - [Instellingen](#h_e1c253d4b8) - [Uploaden](#h_1c4333e445) - [Uitpakken](#h_33cd0c764b) - [Grootte beperking](#h_27be6f71a4) - [Mijn uploads](#h_d789b4d8ed)**
-
 De upload zip functie kan gevonden worden in het actiemenu ter rechts van de groene + knop rechtsbovenaan de documentenpagina.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1454067765/bdd1b806a876ccbc53c4e300c371/image.png?expires=1781092800&signature=e408feaa3b60aa97190a26eb7f3234a3e41014f699f9dee72c86e720855e1610&req=dSQiEsl4moZZXPMW3nq%2BgR2dSDgxOv3BOtvqNNwXutHtQ9xbPHFtnqbUZH1x%0ApRTiZm3xAjY4pFo8Lf6atiB0cfE%3D%0A)
 
 ### 
 
-## **Een zip bestand selecteren**
+## 1. **Een zip bestand selecteren**
 
 Na op het upload zip menu itme geklikt te hebben zal het volgende dialoog openen:
 
@@ -32,7 +28,7 @@ Na geslaagd te zijn om een zip bestand op uw locale systeem te selecteren zal u 
 
 Als u niet tot een map in het documentengedeelte genavigeerd heeft zal de inhoud tot de hoofdmap geëxtraheerd worden. Dit betekend dat u de inhoud zodra u het documenten gedeelte opent ziet. Het is ook mogelijk om tot een map in Catenda te navigeren en hier upw zip te uploaden als u wilt dat de bestandsstrudctuur daar tevoorschijn komt.
 
-## **Upload instellingen**
+## 2. **Upload instellingen**
 
 Als de map al beastaat zal het bestand in de bestaande map terecht komen.
 
@@ -42,13 +38,13 @@ Het is mogelijk om verschillend gedrag te configureren dat de zip upload zal heb
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1454084012/93ee35aef696d53c120e4da61ec9/image.png?expires=1781092800&signature=04172b9213b708c98cd0cdf366417cbb868b74b35bb191cb769693090117fbcb&req=dSQiEsl2mYFeW%2FMW3nq%2BgfU01WsrUOMTcCW1P1To3i7zSZLWrkRxSu5xsQkj%0A0v9cXK7oXLGFaoHxjMLF9pLT7ec%3D%0A)
 
-### **Maak nieuwe revisie aan** - Standaard
+### 2.1 **Maak nieuwe revisie aan** - Standaard
 
 Als een document met dezelfde naam bestaat op de plek tot welke de zip poogt een document te extraheren zal een nieuwe revisie tot dat document toegevoegd worden.
 
 Geen nieuwe map zal aangemaakt worden als de map al bestaat.
 
-### **Overslaan en doorgaan**
+### 2.2 **Overslaan en doorgaan**
 
 Als een document met dezelfde naam al bestaat op dezelfde plek als tot welke de zip een document poogt te extraheren zal het bestand overgeslagen geworden en geen nieuwe revisie zal in het document aangemaakt worden.
 
@@ -56,7 +52,7 @@ Geen nie
 
 Geen nieuwe map zal aangemaakt worden als de map al bestaat.
 
-### **Status toevoegen**
+### 2.3 **Status toevoegen**
 
 Als de status workflow in uw project geactiveerd is in uw project zult u in kunnen stellen wat de status van het nieuwe document zal worden.
 
@@ -68,7 +64,7 @@ Het is slechts mogelijk om tussen de verschillende gedeelde revisie statussen te
 
 Na het uploaden van gedeelde revisies zullen deze in de werkruimte tab gevonden kunnen worden en later gepubliceerd kunnen worden.
 
-## **Uploaden**
+## 3. **Uploaden**
 
 Na op upload geklikt te hebben zal uw zip beginnen met uploaden.
 
@@ -82,7 +78,7 @@ Schrijf toegang tot elke van de plekken waar mappen en documenten aangemaakt zul
 
 Schrijf toegang tot de documentent waar revisies toegevoegd zulen worden.
 
-## **Uitpakken**
+## 4. **Uitpakken**
 
 Nadat uw zip tot Catenda is geupload zal het uitpakken van uw zip beginnen.
 
@@ -98,7 +94,7 @@ Het uitpakken van de zip zal in de achtergrond doorgaan.
 
 Als u Catenda in een verschillende tab gebruikt tijdens het uitpakken zult u de mappe, documenten en revisies tevoorschijn beginnen te zien komen op de plekkeen waar ze worden uitgepakt door de pagina te herladen.
 
-### **Uitpakken voltooid**
+### 4.1 **Uitpakken voltooid**
 
 Zodra de zip klaar is met het uitpakken zult u zien dat er voltooid staat.
 
@@ -110,7 +106,7 @@ U zult deze details later kunnen vinden in "Mijn zip uploads" zoals hieronder be
 
 Herlaad de pagina om alle bestanden die geupload zijn te zien.
 
-### **Zip import vooltooid notificatie**
+### 4.2 **Zip import vooltooid notificatie**
 
 Als u het uitpakkingsdialoog of de browser gesloten heeft of de pagina heeft herladen zult het dialoog niet meer zien.
 
@@ -118,15 +114,15 @@ U zult ook een notificatie krijgen dat uw zip uitpakking voltooid is.
 
 Op diemanier zult u kunnen weten wanneer uw zip upload voltooid is. Zelfs als u het uitpakkingsdialoog niet meer ziet.
 
-## **Bestandsgrootte beperking omzeilen**
+## 5. **Bestandsgrootte beperking omzeilen**
 
 Bij het uploaden van een zip zult u bestanden die groter dan 7gB kunnen uploaden omdat de zip het bestand comprimeerd.
 
-## **Mijn zip uploads**
+## 6. **Mijn zip uploads**
 
 De keuze onder de zip upload actie in het actiemenu laat u een overzicht zien over uw zip uploads.
 
-## **Desktop connector**
+## 7. **Desktop connector**
 
 Met de [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) kunt u automatisch, periodisch de laatste versies van documenten van uw locale systeem tot Catenda Hub uploaden.
 

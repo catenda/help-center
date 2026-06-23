@@ -13,11 +13,7 @@ So kann ein Thema aussehen:
 
 4. Der Hauptteil des Themas wird in diesem Artikel behandelt.
 
-Die folgenden Themen werden in diesem Artikel beschrieben:
-
-**[Fortschrittsbalken](#h_7b73deaf7d) - [Beschreibung](#h_952e4743da) - [Verlauf anzeigen](#h_4c159e3ed6) - [Sortieren](#h_4ac0274f86) - [Kommentar](#h_f76b44d3ca)**
-
-## Fortschrittsbalken
+## 1. Fortschrittsbalken
 
 ![](https://downloads.intercomcdn.com/i/o/758246452/67a377b6d341034e4bf14e81/image.png?expires=1781092800&signature=8168623fe96cc5a20c48938698acc9a4578891177786878306c06356a19bc16b&req=cyUvFM14mYRdFb4V1XW4gTBKssd%2BaDSjA9W%2BVvgEMH1yXIv2yWBqzXVoAix%2F%0AcDJixTSctB9wq54FMl%2FPazuQZg%3D%3D%0A)
 
@@ -25,11 +21,11 @@ Der Fortschrittsbalken zeigt den Fortschritt von angekreuzten Checkboxen und gel
 
 Für ein kurzes Video-Tutorial über Checklisten siehe [hier](https://support.catenda.com/en/articles/5036461-check-lists-within-issues)
 
-## Beschreibung
+## 2. Beschreibung
 
 Die Beschreibung des Themas folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
 
-## Beschreibung bearbeiten
+## 3. Beschreibung bearbeiten
 
 Klicken Sie auf den Bleistift oben rechts neben dem Inhalt des Themas, um die Beschreibung zu bearbeiten
 
@@ -39,27 +35,27 @@ Für weitere Informationen über Formatierungsoptionen bearbeiten Sie die Beschr
 
 _Zugang erforderlich:_ Schreibzugriff auf das Themenboard
 
-## Erstellt von
+## 4. Erstellt von
 
 Der Ersteller des Themas und die Zeit, zu der es erstellt wurde. Um eine genauere Zeitangabe zu erhalten, gehen Sie zu den [Kontoeinstellungen](https://support.catenda.com/en/articles/6880968-account-page#h_4aa257b72f).
 
-## Verlauf anzeigen
+## 5. Verlauf anzeigen
 
 Wenn Sie wissen möchten, ob sich ein Thema geändert hat, können Sie sich die Historie des Themas anzeigen lassen, indem Sie auf den Button Historie anzeigen rechts unten in der Themenbeschreibung klicken.
 
 In [diesem Artikel](https://support.catenda.com/en/articles/8613038-issue-history) erfahren Sie, welche Themenhistorie Sie in Catenda Hub sehen können.
 
-## Sortieren
+## 6. Sortieren
 
 Älteste Kommentare zuerst anzeigen - Standard
 
 Neueste Kommentare zuerst anzeigen
 
-## Kommentar
+## 7. Kommentar
 
 Text in Kommentaren folgt den [allgemeinen Regeln für die Formatierung von Beiträgen](https://support.catenda.com/en/articles/8430847-formatting-of-posts) mit einem kleinen Unterschied, wenn es um Checklisten geht.
 
-### Pop-Out für Anhänge
+### 7.1 Pop-Out für Anhänge
 
 Wenn Sie mit der linken Maustaste auf das Bild eines Anhangs klicken, öffnet sich das Bild-Pop-Out
 
@@ -73,11 +69,7 @@ Verankern Sie das Bild-Pop-Out mit dem Pin-Symbol oben rechts, um das Bild-Pop-O
 
 Schließen Sie das Bild-Pop-Out, indem Sie oben rechts auf das x klicken, unten rechts auf schließen klicken oder die Taste esc auf der Tastatur drücken.
 
-Ein Kommentar kann einen der folgenden 3 Anhänge haben:
-
-**[Bild](#h_fb43bacd99) - [2D- und 3D-Schnappschüsse](#h_1ba7f8873f) - [Anmerkung](#h_e98c0964d4)**
-
-### Bild
+### 7.2 Bild
 
 **Hinzufügen eines Bildes zu einem Kommentar**
 
@@ -95,7 +87,7 @@ Das Bild, das nach dem Absenden des Kommentars an den Kommentar angehängt wird,
 
 Sie können ein Bild, das an einen Kommentar angehängt ist, nicht bearbeiten oder löschen. Wenn Sie das Bild aus dem Thema entfernen möchten, müssen Sie den gesamten Kommentar löschen.
 
-### 2D- oder 3D-Schnappschüsse
+### 7.3 2D- oder 3D-Schnappschüsse
 
 Mit einem Klick auf die Plus-Schaltfläche neben dem Kommentarfeld können Sie einen 2D- oder 3D-Schnappschuss hinzufügen
 
@@ -113,7 +105,7 @@ So kann ein 3D-Schnappschuss aussehen. 2D-Schnappschüsse haben die gleichen Sch
 
 Klicken Sie [hier](https://support.catenda.com/en/articles/10345863-snapshots), um mehr über die Schnappschuss-Konfiguration zu erfahren
 
-### Anmerkung
+### 7.4 Anmerkung
 
 ![](https://downloads.intercomcdn.com/i/o/768543632/3a4f96125c834bc84e579116/image.png?expires=1781092800&signature=6ef8a2efab5bfb1ba3fb5c5a57d32af5c9648902f1fb684d4caadc78ef4b0587&req=cyYvE819m4JdFb4V1XW4gUkKIkZEIiBxGi9KsvmUacjmlyhZMSk%2BXul9y1gn%0ACsnk0EoJsZVwD8VpIxof%2BrhJZg%3D%3D%0A)
 
@@ -138,7 +130,7 @@ Der Kommentar folgt den [allgemeinen Regeln für die Formatierung von Beiträgen
 
 Das Bild, das nach dem Absenden des Kommentars an den Kommentar angehängt wird, kann [ausgeklappt](#h_e36d14edc8) werden, um seinen Inhalt in einem größeren Format zu sehen und es nach dem Absenden herunterzuladen.
 
-### Neuer Kommentar
+### 7.5 Neuer Kommentar
 
 Wenn Sie einen Anhang zu einem Kommentar hinzufügen und das Pop-Out für den Anhang öffnen, bevor Sie ihn abschicken, sehen Sie, dass Sie das Bild, das mit dem Anhang verbunden ist, mit Anmerkungen versehen können.
 
@@ -149,7 +141,7 @@ Der 2D/3D-Schnappschuss stammt aus dem aktuellen Kamerawinkel im 3D/2D-Viewer. D
 ​
 1. Das Textfeld neben der Schaltfläche "Hinzufügen" dient dazu, einen Kommentar zu schreiben, Personen zu erwähnen, indem Sie @name eingeben, oder auf andere Themen zu verlinken, indem Sie #link eingeben.
 
-### Hamburger-Menü für Kommentare
+### 7.6 Hamburger-Menü für Kommentare
 
 **Bearbeiten eines Kommentars**
 

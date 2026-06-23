@@ -8,7 +8,7 @@
 
 [Nedlastingslenke](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)
 
-## Sette i gang
+## 1. Sette i gang
 
 Etter installeringen av pluginen, åpne opp en Revit modell og klikk på Catenda knappen i Add-ins.
 
@@ -22,11 +22,11 @@ Klikk på "Allow access" for å gi Revit add-innen tillatelse til din Catenda ko
 
 Du kan oppheve tilgang til din Catenda konto når som helst ved å gå til din [Catenda applikasjoner](https://bimsync.com/account/apps) side og klikk på "opphev tilgang" nærme "Revit plugin for Catenda Hub".
 
-## Saksliste
+## 2. Saksliste
 
 På denne siden finner du hovedmenyen for å navigere ditt Catenda prosjekt, saksliste og saker.
 
-### Grensesnitt
+### 2.1 Grensesnitt
 
 ![Header.png](https://catenda-as.intercom-attachments-1.com/i/o/271057390/4c89286cb715f52e3d783b6c/Header.png?expires=1781092800&signature=398d9921638cb23a9d50c7799d1535c1416647367ab528baff78db4609a2db32&req=dicmFsx5nohfFb4V1XW4gdJZzGffSByllQENCKlZyob%2BST4NNuZ5cUksJz12%0AkCAA%2F3Kfd2Td0zxjhk75Iy1JGg%3D%3D%0A)
 
@@ -38,13 +38,13 @@ På denne siden finner du hovedmenyen for å navigere ditt Catenda prosjekt, sak
 1. Søk og filtrer sakene som vises
 1. Listen av sakene som nå er filtrert i sakslisten
 
-### Prosjekt og saksliste seleksjon
+### 2.2 Prosjekt og saksliste seleksjon
 
 Når et Catenda prosjekt selekteres vises listen av sakslister i dette prosjektet. Her kan du selektere en saksliste og vise tilsvarende saker. Det vil også lagre Catenda prosjektet og sakslisten i din Revit modell og åpne de automatisk neste gang du åpner denne modellen.
 
 ![ProjectInfo.png](https://catenda-as.intercom-attachments-1.com/i/o/271057405/d5c967a0ac3f187ed30e592e/ProjectInfo.png?expires=1781092800&signature=386793ccce6b13fc42734e390919e84f4deae21c7108c6295a15d81514bf3e62&req=dicmFsx5mYFaFb4V1XW4gRm1PmqxAGtl3%2B%2FHwntEbjzXIM38AKKVyKa%2F6w2%2B%0AYYuDnmzT7GAy081dJNb9XwINjA%3D%3D%0A)
 
-### Catenda Add-in Meny
+### 2.3 Catenda Add-in Meny
 
 ![Menu.png](https://catenda-as.intercom-attachments-1.com/i/o/271057418/ee944c802a6309a74f33db9b/Menu.png?expires=1781092800&signature=c89e8311ef022c706f61f0e57803e273c0ac358066e60f8784ba96c7f2a0e9e4&req=dicmFsx5mYBXFb4V1XW4gQzKBuzsr2CyN%2Fnh2PIwIqVLxc0xU6FqznGgZL7M%0AuAbb1OQ1WNOyULgSw5XMNMLTRA%3D%3D%0A)
 
@@ -53,7 +53,7 @@ Når et Catenda prosjekt selekteres vises listen av sakslister i dette prosjekte
 1. Åpne din [Catenda konto](https://bimsync.com/account/profile) i din standardnettleser
 1. Logg ut av din Catenda konto
 
-### Sak seleksjon
+### 2.4 Sak seleksjon
 
 I sakslisten finner du all hovedinformasjon om en sak.
 
@@ -71,7 +71,7 @@ I sakslisten finner du all hovedinformasjon om en sak.
 
 Du kan klikke på enhver sak og gå til [saksdetalj siden](https://support.bimsync.com/details/).
 
-### Sorter saker
+### 2.5 Sorter saker
 
 Du kan sortere sakene som vises for å vise den mest relevante saken først.
 
@@ -84,7 +84,7 @@ Du kan sortere sakene som vises for å vise den mest relevante saken først.
 1. Ta frem saken som har den nyeste fristen først
 1. Ta frem saken som har den eldste fristen først
 
-### Filtrer saker
+### 2.6 Filtrer saker
 
 Ved bruk av søk eller filter søkefeltet kan du kombinere enhver type filter for å bare vise de mest relevante sakene.
 
@@ -108,11 +108,11 @@ Du kan søke på disse filtrene ved å skrive tekst i filter feltet (1). Du kan 
 
 ![TextFilter.png](https://catenda-as.intercom-attachments-1.com/i/o/271057480/2be177ecffac2997cc141fdc/TextFilter.png?expires=1781092800&signature=2386db399784ae98ddb528d6cd0deaa45a2398b14e54910c611fb93379e55396&req=dicmFsx5mYlfFb4V1XW4gSM6SuMG1ZK5apozzDNWfyuC3uP1OUqEeVPZ69RH%0AGj5bgz6enFyjJ7wxdITVLa0wMg%3D%3D%0A)
 
-## Saksdetaljer
+## 3. Saksdetaljer
 
 I denne menyen kan du se over og redigere en spesifikk sak
 
-### Grensesnitt
+### 3.1 Grensesnitt
 
 ![IssueDetailView.png](https://catenda-as.intercom-attachments-1.com/i/o/271057491/79afbc3ef7ce0c15873df501/IssueDetailView.png?expires=1781092800&signature=f2e7442fee9ae413f8eb95409559531f1aaca167f4eabb699a9e9d56246fff4b&req=dicmFsx5mYheFb4V1XW4gSFXI3%2BvDPw6wgPRIZvJKvxvthS00%2FyXss67f8M9%0ARYrGyKVnqF6eLS9gS7AXZUqrfg%3D%3D%0A)
 
@@ -127,7 +127,7 @@ I denne menyen kan du se over og redigere en spesifikk sak
 1. Endre på saksmerkelapper
 1. Listen av kommentarer til saken
 
-### Saksegenskaper
+### 3.2 Saksegenskaper
 
 Du kan endre enhver egenskap av saken: Status, type, tilordnet medlem, medlemmet som etterpør saken, tidsfristen, merkelapper. Hvert meny kommer til å vise en liste av mulige egenskaper. Du kan imidlertid ikke lage en ny status, type eller merkelapp fra pluginen direkte. For å gjøre det kommer du til å måtte bruke nettlesergrensesnittet i Catenda Hub
 
@@ -143,7 +143,7 @@ Du kan også skrive tekst i merkelappfeltet for å skranke inn antall merkelappe
 
 ![editLabels.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057525/66fb261901258f426d78ed07/editLabels.gif?expires=1781092800&signature=ece9633dc25d334ac0861298acf82cfa9f639d524271e942f7905ceec3da5655&req=dicmFsx5mINaFb4V1XW4ga5g5rPdNhQoS6XvU%2BWN1wgNas4OMzwmmPHNXaA4%0A3vf35gsrXfVMDKaYVqGZAAbLyQ%3D%3D%0A)
 
-### Kommentarer
+### 3.3 Kommentarer
 
 Alle kommentarer er vist under saken.En kommentar kan inneholde tekst, et bilde, en snapshot fra din Revit current view eller fra et viewpoint.
 
@@ -155,7 +155,7 @@ Alle kommentarer er vist under saken.En kommentar kan inneholde tekst, et bilde,
 1. Bildet som er tilknyttet kommentaren.
 1. Kommentarens tekst
 
-### Zoom
+### 3.4 Zoom
 
 Hvis kommentaren inneholder et viewpoint kan du zoome til dette viewpointet. Zoom inn lager et nytt 3D view i din Revit modell fokusert på samme viewpoint.
 
@@ -167,7 +167,7 @@ Hvis viewpointet er laget fra et perspektiv vil det nye 3D viewet ha sin project
 
 Add-innen vil bare lage ett perspektiv view og ett ortografisk view. Etter å ha laget de vil det gjenbruke de for noen senere bruk av zoom funksjonen. Du kan endre det i Setting menyen. Du kan også bruke setting menyen for å endre navnene til disse viewene.
 
-### Relaterte elementer
+### 3.5 Relaterte elementer
 
 Hvis saken inneholder relaterte elementer vil add-innen selektere de i Revit når du zoomer til et viewpoint.
 
@@ -175,7 +175,7 @@ Hvis saken inneholder relaterte elementer vil add-innen selektere de i Revit nå
 
 For at denne funksjonen skal fungere må din Revit modell ha vært eksportert til IFC med "Store the IFC GUID in an element parameter after export". Dette legger til IFCGuid parameteren på hvert objekt som lar plug-innen selektere relaterte elementer.
 
-### Legg til kommentar
+### 3.6 Legg til kommentar
 
 Du kan legge til kommenterer ved å skrive i tekst boksen og klikke på Submit.
 
@@ -183,13 +183,13 @@ Du kan også legge til et bilde fra din pc ved å klikke på "pluss" knappen. Du
 
 ![createComment.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057571/f8f1dc5e036c662975947091/createComment.gif?expires=1781092800&signature=68bce4ffbe99bef48e57e2f1fd1b9bf9bde107721eb4a337726692cec11c8bdb&req=dicmFsx5mIZeFb4V1XW4gZKf2ehIb4n%2FwGDxr6nuV%2F6fsbU1Y1R3tv6shUx9%0ATTe5DUj7214%2BrSRyVUcIT6Wz1w%3D%3D%0A)
 
-### Legg til 3D snapshot
+### 3.7 Legg til 3D snapshot
 
 Du kan også legge til ditt nåværende Revit view som et viewpoint og en snapshot vedlagt til din kommentar. Akkurat som ethvert bilde kan du annotere snapshottet ved å klikke på det forhåndsviste bildet.
 
 Hvis IFCGuid parameteren finnes vil selekterte elementer i Revit bli lagt til på din sak som releterte elementer.
 
-## Last opp til Catenda Hub
+## 4. Last opp til Catenda Hub
 
 Du kan laste opp din nåværende Revit modell direkte til Catenda Hub som en IFC fil.
 
@@ -206,7 +206,7 @@ Etter å ha åpnet siden for opplasting:
 selectedConfig.Name = "<catenda Setup>"; selectedConfig.IFCVersion = IFCVersion.IFC2x3CV2; selectedConfig.SpaceBoundaries = 1; selectedConfig.ActivePhaseId = ElementId.InvalidElementId; selectedConfig.ExportBaseQuantities = true; selectedConfig.SplitWallsAndColumns = false; selectedConfig.VisibleElementsOfCurrentView = false; selectedConfig.Use2DRoomBoundaryForVolume = false; selectedConfig.UseFamilyAndTypeNameForReference = true; selectedConfig.ExportInternalRevitPropertySets = true; selectedConfig.ExportIFCCommonPropertySets = true; selectedConfig.Export2DElements = false; selectedConfig.ExportPartsAsBuildingElements = true; selectedConfig.ExportBoundingBox = false; selectedConfig.ExportSolidModelRep = false; selectedConfig.ExportSchedulesAsPsets = false; selectedConfig.ExportUserDefinedPsets = false; selectedConfig.ExportUserDefinedPsetsFileName = ""; selectedConfig.ExportLinkedFiles = false; selectedConfig.IncludeSiteElevation = true; selectedConfig.UseActiveViewGeometry = false; selectedConfig.ExportSpecificSchedules = false; selectedConfig.TessellationLevelOfDetail = 0; selectedConfig.StoreIFCGUID = true; selectedConfig.ExportRoomsInView = true;
 ```
 
-## Egenskaper
+## 5. Egenskaper
 
 Egenskap siden lar deg endre hvordan plug-innen vil lage 3D view ved bruk av Zoom funksjonen.
 

@@ -4,36 +4,24 @@
 
 > **Note:** Download a sample file from [here](https://drive.google.com/file/d/1G8U916oihDl5qHrTfQaVHxDeLsbq1ulG/view?usp=sharing).
 
-Pointcloud datasets (PC) can be visualiszed inside Catenda Hub
-
-Individual PC can be previewed inside the document area.
-
-Multiple PC can be loaded into the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer).
-
-In the 3D viewer, PC can be viewed together with other 3D documents formats like IFC models and GML files.
+Pointcloud datasets (PC) can be visualiszed inside Catenda Hub Individual PC can be previewed inside the document area. Multiple PC can be loaded into the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer). In the 3D viewer, PC can be viewed together with other 3D documents formats like IFC models and GML files.
 
 This article contains information about the following topics:
 
-**[Document preview](#h_bb5e5b9840) - [3D viewer preview](#h_076189f481) - [3D viewer settings](#h_9c02ade6a6)**
-
 See below various settings to display your data:
 
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptive - Sparse - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609416415/d63b03e835b7de05a34bc464a67c/image.png?expires=1781092800&amp;signature=1fe282b355381582460ff9c0d1c24833fb727338c889e6c04750516cb2caa41e&amp;req=dSYnH81%2Fm4VeXPMW3nq%2BgQpCsmyWE1uSF19bUYNJ2UhyFKhgWq8Q%2Bggoeh8l%0AZ6naIFFQms2F8dP7lBIFEzVlac8%3D%0A" style="height: auto;" width="3839"/></div></td><td><p>Adaptive - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609416931/9c357c3e7bd94ba44368bf2e0476/image.png?expires=1781092800&amp;signature=b256cf496acaa539259ef48ec9dfbfdd1aedfb4dbab227e4813946c72bc5abd9&amp;req=dSYnH81%2Fm4hcWPMW3nq%2BgdwfToflS71vyV4%2FH6UFuY47ZlG8U3Sk2Y7fC%2B%2Fa%0AeDFOHiYzwaBRT6J9Br4w1JhfSGA%3D%0A" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Fixed - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609415523/d5626faba40b5c3551361c832b5b/image.png?expires=1781092800&amp;signature=d6a5405c61b45da2e5b5a510dad3b97aeee6802be5ad3cb5a9490b8d51bd8673&amp;req=dSYnH81%2FmIRdWvMW3nq%2BgYHi7%2FbfRlc9HwLgtDsdSFj%2BDVcX9c6KE7K8VEq1%0AvaSShYZeZDHzFJHCwxkbjUCzK48%3D%0A" style="height: auto;" width="3834"/></div></td><td><p>Fixed - Sparse - Intensity</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609415755/5d2aac51f6caea382c5d762b2dae/image.png?expires=1781092800&amp;signature=3aa18bc4464b0460b68eaa94ae3b6af862d9d3178e79a31c5a3631d89f8913c0&amp;req=dSYnH81%2FmIZaXPMW3nq%2BgUep5M5lIqZJ8vBRvp8MeVopaJ2iEbIYZF5%2FMv%2BC%0AT8wVKUbmL35dmcb9J13vwtWGCxQ%3D%0A" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptive - Sparse - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609416415/d63b03e835b7de05a34bc464a67c/image.png?expires=1782259200&amp;signature=06150357c5bba8bad89b4948b03fd9694a7685b65bd644a174a3809149e4bdfd&amp;req=dSYnH81%2Fm4VeXPMW3nq%2BgQpCsmyWEFmeHFVbUYNJ2Uj65NDBsyGwEtjdYHaT%0AEvqjXW3ng2oZmoYHwROxFpkF704%3D%0A" style="height: auto;" width="3839"/></div></td><td><p>Adaptive - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609416931/9c357c3e7bd94ba44368bf2e0476/image.png?expires=1782259200&amp;signature=0a4e08ffe6a453c3f0060bf5b2bc2182210f1d04ee43da324cd70607ff89cd76&amp;req=dSYnH81%2Fm4hcWPMW3nq%2BgdwfToflSL9jwlQ%2FH6UFuY5or3c1jxPEyvRgBJ4X%0ABG%2F1JUKDVro%2FvQbt1dvw3DP%2FXpg%3D%0A" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Fixed - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609415523/d5626faba40b5c3551361c832b5b/image.png?expires=1782259200&amp;signature=4b60f34c97220e321010cef1c64b105491b2742b2b7eb3c6675a011aeac89555&amp;req=dSYnH81%2FmIRdWvMW3nq%2BgYHi7%2FbfRVUxFAjgtDsdSFgSZmiEcQtnhs38Pg2U%0AXWL7yZftqwJ%2FdX7eVH4GZ%2F9ivd8%3D%0A" style="height: auto;" width="3834"/></div></td><td><p>Fixed - Sparse - Intensity</p><div class="intercom-container"><img height="2159" src="https://downloads.intercomcdn.com/i/o/areracg3/1609415755/5d2aac51f6caea382c5d762b2dae/image.png?expires=1782259200&amp;signature=ecdc4850c97cb91002f415dbfc43f21a0749efb2d3498886f26f444e41985ea5&amp;req=dSYnH81%2FmIZaXPMW3nq%2BgUep5M5lIaRF%2BfpRvp8MeVpJlCXzCht%2BXeUbLvU2%0AcT9ckcga0pgOb3bDwJB%2FZYUESDs%3D%0A" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
 
-## **Document section preview**
+## 1. **Document section preview**
 
 PC data of the following two file formats can be previewed on Catenda.
 
 - `\*.e57`
 - `\*.las`
 
-PC can be uploaded like any other document in the document section.
+PC can be uploaded like any other document in the document section. For these two file formats files up to 25 GB files can be uploaded to the document section. Multiple files can be loaded in the document section and displayed together in the 3D viewer.
 
-For these two file formats files up to 25 GB files can be uploaded to the document section.
-
-Multiple files can be loaded in the document section and displayed together in the 3D viewer.
-
-### **Uploading PC data**
+### 1.1 **Uploading PC data**
 
 It is recommended to use the [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) or to compress your PC file to a zipped folder and use the [zip import](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) to upload your PC. These methods will help you save time as the upload file size will be smaller as well as minimise the risk of a network error as the file will be uploaded faster
 
@@ -47,19 +35,11 @@ Once the preview has finished processing, click on the document to view your PC 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/02-uploading-pc-data.png)
 
-### **Shared PC revisions**
+### 1.2 **Shared PC revisions**
 
-If [revision publishing](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650) has been activated for the project the point cloud will have been uploaded as a shared revision.
+If [revision publishing](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650) has been activated for the project the point cloud will have been uploaded as a shared revision. Shared PC revisions can only be previewed in the documents section. To be able to load your PC in the 3D viewer the revision has to be published. Individual shared revisions can be published with the publish action in the right menu of the document preview. Multiple shared revisions can be published with the selected items action in the document structure. When you publish a revision, the preview for the published revision will start processing.
 
-Shared PC revisions can only be previewed in the documents section.
-
-To be able to load your PC in the 3D viewer the revision has to be published.
-
-Individual shared revisions can be published with the publish action in the right menu of the document preview. Multiple shared revisions can be published with the selected items action in the document structure.
-
-When you publish a revision, the preview for the published revision will start processing.
-
-### **Published PC revisions**
+### 1.3 **Published PC revisions**
 
 After the preview of a published PC revision has processed a 3D button will appear in the viewer column of the the documents table.
 
@@ -77,7 +57,7 @@ In a document with at least one published PC revision that has finished processi
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/05-br-published-pc-revisions.png)
 
-## **3D viewer preview**
+## 2. **3D viewer preview**
 
 After clicking the 3D button the PC points will start loading into the 3D viewer. The 3D view of a PC can look something like this:
 
@@ -89,7 +69,7 @@ And after some adjustments with zoom and positioning the PC preview can look som
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/07-3d-viewer-preview.png)
 
-## **3D viewer settings**
+## 3. **3D viewer settings**
 
 In this section, we will look at the settings inside Catenda Hub that will allow you to get the best experience with your PC.
 
@@ -97,19 +77,13 @@ In this section, we will look at the settings inside Catenda Hub that will allow
 
 Settings that can be used to configure point clouds are located in two places.
 
-### **1. Point Budget:**
+### 3.1 **1. Point Budget:**
 
 The point budget can be configured in the [3D viewer settings](https://support.catenda.com/en/articles/5784718-3d-viewer-settings) which can be found in the gear icon towards the top right of the 3D Viewer.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/08-1-point-budget.png)
 
-The the 3D viewer settings menu, the point budget can be adjusted from 100,000 up to 10,000,000. Loading in more points can take more time and can demand more resourses from your system.
-
-By loading in more points the point cloud can be displayed in higher fidelity.
-
-See the same view with:
-
-100,000 points
+The the 3D viewer settings menu, the point budget can be adjusted from 100,000 up to 10,000,000. Loading in more points can take more time and can demand more resourses from your system. By loading in more points the point cloud can be displayed in higher fidelity. See the same view with: 100,000 points
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/09-1-point-budget.png)
 
@@ -121,7 +95,7 @@ See the same view with:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/11-1-point-budget.png)
 
-### **2. Revision Selector, and individual PC settings:**
+### 3.2 **2. Revision Selector, and individual PC settings:**
 
 On the top left of the 3D viewer you will find the [Revision selector](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project).
 
@@ -139,42 +113,24 @@ This is what the settings menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/15-2-revision-selector-and-individual-pc-settings.png)
 
-_Attribute_ _RGBA_ - Default
+_Attribute_ _RGBA_ - Default Display PC points with their colors
 
-Display PC points with their colors
-
-_Attribute Intensity_ The intensity option can be used when the points do not include colors.
-
-For example when the point cloud was captured in a tunnel or a dark room.
+_Attribute Intensity_ The intensity option can be used when the points do not include colors. For example when the point cloud was captured in a tunnel or a dark room.
 
 **Opacity**
 
 When models are displayed together with point clouds, it can be necessary to dim the points to have a better understanding of the viewpoint.
 
-_Point size_ _Adaptive_ - Default
-
-The closer a point is to the camera, the larger it is.
-
-Points that are in view are loaded into memory. Points that move out of view are loaded out of memory.
+_Point size_ _Adaptive_ - Default The closer a point is to the camera, the larger it is. Points that are in view are loaded into memory. Points that move out of view are loaded out of memory.
 
 > **Note:** Be sure the hardware and sofware Catenda is opened on are configured [as recommended](https://support.catenda.com/en/articles/6921941-hardware-recommendation) as this can have an effect on the type of point size loading your device is able to handle.
 
 **Point size Fixed size**
 
-Points that have been loaded will stay in memory with this option.
-
-With many points you will notice that rotating might be delayed and movement can be slowed down as you start getting close to the amount of points that your system can handle.
-
-You might also notice that it will take longer and longer to load in new points as you get closer to the limit of your device. Points load closest to the camera first.
-
-Before loading the point cloud from the document section, be sure to therfore position the camera to where you want the points to load. If this is a camera position you plan to use more often with this point cloud consider making a bookmark or a snapshot in a topic which you can play to return to this position.
+Points that have been loaded will stay in memory with this option. With many points you will notice that rotating might be delayed and movement can be slowed down as you start getting close to the amount of points that your system can handle. You might also notice that it will take longer and longer to load in new points as you get closer to the limit of your device. Points load closest to the camera first. Before loading the point cloud from the document section, be sure to therfore position the camera to where you want the points to load. If this is a camera position you plan to use more often with this point cloud consider making a bookmark or a snapshot in a topic which you can play to return to this position.
 
 **Point density slider**
 
-The density slider helps you make the final setting.
-
-There is no rule for the correct value, it will depend on the data you upload (size of the dataset, point density, type of scan, etc...).
-
-Our advice: Load the point cloud, and after a brief moment, when enough points are displayed, adjust the settings if necessary.
+The density slider helps you make the final setting. There is no rule for the correct value, it will depend on the data you upload (size of the dataset, point density, type of scan, etc...). Our advice: Load the point cloud, and after a brief moment, when enough points are displayed, adjust the settings if necessary.
 
 [YouTube video](https://www.youtube.com/embed/n9pztkRPxoc?rel=0)

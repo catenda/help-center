@@ -2,11 +2,7 @@
 
 Denne artikkelen inneholder information om anbefalte system krav for bruk av Catenda Hub. Catenda Hub er tilgjengelig gjennom nettleseren og det er ingen behov for installasjon.
 
-Denne artikkelen inneholder informasjon om følgende temaer:
-
-**[System anbefalinger](#h_635eb6138d) - [Optimalisering](#h_d5aa0a3232) - [Nettleser](#h_36e3ce3a14) - [Nettverk](#h_46ad0a2b18) - [Proxyer og brannmur](#h_6cbd0fccb9) - [Porter](#h_bb33c61f6f)**
-
-## **System anbefalinger:**
+## 1. **System anbefalinger:**
 
 **(Juni 2024)**
 
@@ -20,17 +16,17 @@ For tette geometri prosjekter (LOD 400 og over):
 
 [LOD Definisjon](https://www.gsa.gov/real-estate/design-and-construction/3d4d-building-information-modeling/bim-software-guidelines/document-guides/level-of-detail)
 
-### **Dedikert GPU vs integrert GPU**
+### 1.1 **Dedikert GPU vs integrert GPU**
 
 Pass på at du bruker den dedikerte GPUen til ditt system og ikke den integrerte GPUen.
 
 På Windows 10 kan du forsikre at du bruker den dedikerte GPUen ved å følge [disse](https://superuser.com/questions/1439471/how-can-i-force-my-dedicated-gpu-to-handle-all-applications-or-disable-my-integr#:~:text=use%20these%20steps%3A-,Open%20Settings.,-Click%20on%20System) steg.
 
-## **3D viser optimalisering:**
+## 2. **3D viser optimalisering:**
 
 Selv om Catenda Hub kan fremvise de fleste modeller på en optimert måte kan det hende at noen brukere ønsker å komme så langt de kan med det de har. Her er derfor noen strategier som kan brukes til å optimalisere dine arbeidsflyt i Catenda Hub:
 
-### **Mange objekter:**
+### 2.1 **Mange objekter:**
 
 Å bruke færre modeller og dermed færre objekter kan være en løsning for å få bedre ytelse. Andre måter du kan øke ytelsen for å fremvise mange objekter av gangen er:
 
@@ -44,15 +40,15 @@ Som et siste steg kan du lage en [spørring](https://intercom.help/bimsync-arena
 
 Med en spørring vil disse objekte være helt lastet ut og det vil dermed være lettere å jobbe med modellen. Husk at du ikk vil kunne bruke egenskapsbibliotek med spørringer for ikke alle objekter er lastet inn.
 
-### **Punktsky**
+### 2.2 **Punktsky**
 
 Bruker du [fast punktstørrelse](https://intercom.help/bimsync-arena/en/articles/5606625-point-clouds-in-bimsync#:~:text=Adaptive%20(default)%2C%20or-,Fixed%20size,-.%20The%20slider%20below) kan det hende at du ender opp med lav bildefrekvens  når mange punkt er lastet inn. Du kan også erfare at punkt tar lenger å laste inn når du når minnebuddsjettet til ditt system. Punkt nærmest kameraet er lastet inn først så hvis du ønsker å laste punkt på et spesifikt sted er det bedre å først navigere til det stedet for å så skru på punksky så det starter å laste punkt som er der først.
 
 For å unngå å nå minnebegrensningen og få lavere bildefrekvens kan du senke [punktbudsjettet](https://intercom.help/bimsync-arena/en/articles/5606625-point-clouds-in-bimsync#:~:text=with%20your%20PC.-,Point%20Budget%3A,-Using%20the%20viewer) så færre punkt lastes inn.
 
-## **Nettleserinnstillinger**
+## 3. **Nettleserinnstillinger**
 
-### **Systemkrav:**
+### 3.1 **Systemkrav:**
 
 Catenda Hub er tilgjengelig gjennom forskjellige nettlesere.
 
@@ -66,7 +62,7 @@ Safari:
 
 _Opera:_ [https://www.opera.com/download/requirements](https://www.opera.com/download/requirements) _Vivaldi:_ [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
 
-### **Maskinvareakselerasjon**
+### 3.2 **Maskinvareakselerasjon**
 
 Pass på at du bruker maskinvareaksellerasjon.
 
@@ -84,7 +80,7 @@ _Opera:_ [https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/](http
 
 _Vivaldi:_ [https://forum.vivaldi.net/topic/1207/hardware-acceleration](https://forum.vivaldi.net/topic/1207/hardware-acceleration)
 
-### ​**Ytre faktorer**
+### 3.3 ​**Ytre faktorer**
 
 Sjekk om du nar noen nettleser utvidelser eller andre program på ditt system som kan gjøre din Catenda Hub erfaring tregere.
 
@@ -94,7 +90,7 @@ Sjekk om du nar noen nettleser utvidelser eller andre program på ditt system so
 1. Chrome
 1. Microsoft Edge
 
-### **Informasjonskapsler**
+### 3.4 **Informasjonskapsler**
 
 Med dataen lagret i informasjonskapsler i din nettleser vil den kunne vite om du er logget inn og noen av dine preferanser i Catenda prosjekter. Noen preferanser kan være forskjellige fra prosjekt til prosjekt mens andre kan være like for alle prosjekt. Hvis du ender dinne innstillinger gjennom å for eksempel lukke en meny vil dette være husket i alle nettleservindu og faner.
 
@@ -122,7 +118,7 @@ For å bruke Catenda Hub måt du minst tillate lagringen av data for hub.catenda
 
 Hvis du velger å slette data når alle nettleservindu lukkes vil din data være tilbakestilt hver gang du bruker Catenda.
 
-## **Nettverkshastighet**
+## 4. **Nettverkshastighet**
 
 Kontroller kvaliteten til ditt nettverk å forholdet mellom Ned- og opplasting er rundt 1:10 eller over.
 
@@ -130,11 +126,11 @@ Kontroller kvaliteten til ditt nettverk å forholdet mellom Ned- og opplasting e
 
 (dette er et eksempel, ikke et krav)
 
-## **Proxyer og brannmur:**
+## 5. **Proxyer og brannmur:**
 
 Brukere som kobler på Catenda Hub gjennom en brannmur, proxy eller annen mellom tjeneste nå gi tilgang til følgende domener og porter for at applikasjonen skal fungere ordentlig.
 
-### **Domener:**
+### 5.1 **Domener:**
 
 (`\*` betyr DNS wildcard og `.` er domenenivåseparator, disse må ikke behandles som regexer)
 
@@ -193,7 +189,7 @@ Hvis du ønsker å bruke Catenda Hub gjennom en av våre pluginner er disse de e
         - `https://bcf.bimsync.com/`
         - `https://opencde.bimsync.com/`
 
-## **Porter:**
+## 6. **Porter:**
 
 **80:** Denne porten er valgfri men anbvefalt for best i-nettleser brukeropplevelse.
 

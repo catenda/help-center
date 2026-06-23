@@ -4,25 +4,15 @@ A new team can be made on the [members page](https://support.catenda.com/en/arti
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/01-intro.png)
 
-## When to set up a team?
+## 1. When to set up a team?
 
-Catenda teams can be divided in any way you want.
+Catenda teams can be divided in any way you want. A usual way to divide the members into teams is by trade. Also within a trade different work groups can be made.
 
-A usual way to divide the members into teams is by trade.
+Topics can be requested and assigned to teams making it easy to keep track of what the responsibilities and requests of a team are. Within a topic, a team can also be mentioned to let the whole team know about something.
 
-Also within a trade different work groups can be made.
+Access control can be delegated to teams. This can be used to set up access before users are part of a team. Then, when the access is ready to be used, the right users can be added to the team. A good use of this is by setting a team when a member is invited so they get the right access as soon as they become part of the project.
 
-Topics can be requested and assigned to teams making it easy to keep track of what the responsibilities and requests of a team are.
-
-Within a topic, a team can also be mentioned to let the whole team know about something.
-
-Access control can be delegated to teams.
-
-This can be used to set up access before users are part of a team. Then, when the access is ready to be used, the right users can be added to the team.
-
-A good use of this is by setting a team when a member is invited so they get the right access as soon as they become part of the project.
-
-## Create team
+## 2. Create team
 
 To create a new team go to the members page and in the top right corner there is a "New team" button. There you choose the name of the team and if the team should have the role as a member or administrator.
 

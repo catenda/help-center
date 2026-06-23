@@ -16,23 +16,19 @@ Dit is hoe een onderwerkop en beschrijving er uit kunnen zien nadat ze zijn inge
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/2142853925/ac356cf8aa82ab2d579f021fbb5a/image.png?expires=1779991200&signature=db379701aa782a795d0715249d2e131838f324a1adc1df5c4f091de05493201d&req=diEjFMF7nohdXPMW3nq%2BgeO5Gu4QTVbwiyiagSAGJYRM3jg%2FjBE06qW2yxJo%0Ah8KhRqQ6FpjyJBQAessFwOYLWgY%3D%0A)
 
-De volgende onderwerpen zullen in dit artikel worden beschreven:
-
-_[Beschikbaarheid](#h_59aa7a2e3d) - [Bijlage](#h_d1bcf0c9b0) - [Tekst opmaken](#h_b3cf161d9b) - [Tekst opsplitsen en structureren](#h_b0799ba17b) - [Leden/teams vermelden](#h_2481ad1c8c) - [Onderwerpen labelen](#h_282be07cfd)_
-
-## Beschikbaarheid van opmaak
+## 1. Beschikbaarheid van opmaak
 
 Het is vaak mogelijk om te zien dat ingediende velden kunnen worden opgemaakt door de gereedschapskist die onder het veld verschijnt wanneer het veld wordt bewerkt.
 
 > **Opmerking:** Zoom ver genoeg uit met de browserzoombalk om alle gereedschappen te zien. Opmaak is beschikbaar in de volgende velden:
 
-### **Onderwerpbeschrijving en opmerking**
+### 1.1 **Onderwerpbeschrijving en opmerking**
 
 Bewerk de beschrijving of opmerking van een bestaand onderwerp of dien een nieuw onderwerp in om de gereedschapskist te zien:
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/2142716774/e00776f86b3e5961148459c33a7b/image.png?expires=1779991200&signature=0e22d9a262f6ec8cc9ffd59b884be7ed21d8b5d927709293d35243a523fd2783&req=diEjFM5%2Fm4ZYXfMW3nq%2BgbCbYvmyhkqzs2jDl1gilk2Cc6xR6QmhVhC4KlhS%0ACdo6DkIGE0Ixwn%2FSMNbyKzybwrM%3D%0A)
 
-### **Goedkeuringsverzoeking beschrijving**
+### 1.2 **Goedkeuringsverzoeking beschrijving**
 
 Hoewel de gereedschapskist niet verschijnt in de beschrijving van het nieuwe goedkeuringsverzoekdialoogvenster, wordt opmaak wel op deze beschrijving toegepast.
 
@@ -40,13 +36,13 @@ Hoewel de gereedschapskist niet verschijnt in de beschrijving van het nieuwe goe
 
 > **Opmerking:** Dit veld kan niet worden bewerkt nadat het goedkeuringsverzoek is ingediend.
 
-### Onderwerpbord beschrijving
+### 1.3 Onderwerpbord beschrijving
 
 Hoewel de gereedschapskist verschijnt in de beschrijving van het nieuwe onderwerpbord, is het belangrijk op te merken dat de beschrijving niet wordt opgemaakt wanneer het bord wordt ingediend.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/2142743765/402182e2f1338dc3fb1929bba3cb/image.png?expires=1779991200&signature=d602bee7f2778397607b0ba3230f11c8c54bd3d37fc0c145263106ffbf43ccdd&req=diEjFM56noZZXPMW3nq%2BgWTJvB12fwkzGWwhaz5DPXa%2BsBXBYBDmT0SxeF%2Fe%0ASdziSiIf%2B5qLx8pvhZlyvl%2BRq40%3D%0A)
 
-## **Onderwerpopmerking bijlage**
+## 2. **Onderwerpopmerking bijlage**
 
 In onderweropopmerkingen is een bijlagegereedschap zichtbaar.
 
@@ -56,17 +52,13 @@ Klik de +-knop in een onderwerp om een bijlage toe te voegen.
 
 Klik [hier](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae) voor meer informatie over opmerking bijlagen.
 
-## **Tekst opmaken**
+## 3. **Tekst opmaken**
 
-De volgende methoden stellen u in staat uw tekst op te maken:
-
-_[Vet, cursief, doorgehaald](#h_c33379258a) - [Koppen](#h_ffb58d98de) - [Koppelingen](#h_4e7260972a) - [Opmaak voorkomen](#h_2ec17c688b)_
-
-### **Vet, cursief, doorgehaald**
+### 3.1 **Vet, cursief, doorgehaald**
 
 Vet, cursief en doorgehaalde opmaak kunnen overal op een regel worden gedaan en werken goed samen met andere opmaakopdrachten die aan het begin van een regel moeten staan. <img alt="**Dit wordt vet** **Dit wordt ook vet** _Dit wordt cursief_ _Dit wordt ook cursief_ **Dit wordt vet _gecombineerd met cursief_** ~~Deze tekst wordt doorgehaald~~" src="https://downloads.intercomcdn.com/i/o/areracg3/2142792258/413abae1f84003541985e219ba6a/image.png?expires=1774980000&amp;signature=2d6fe37d7b6194387af9777ef3fff90661568c1f4c9c671432a579a2eb3326f5&amp;req=diEjFM53n4NaUfMW3Hu4gT%2BWlpelLC%2FZyeDdX1yNHeLbkkEA7t04WYWBkBTX%0A2w%3D%3D%0A" width="290"/>   \<->   <img alt="Dit wordt vetDit wordt ook vetDit wordt cursievDit wordt ook cursievDit wordt vet gecombineerd met cursievDeze tekst wordt doorgehaald" src="https://downloads.intercomcdn.com/i/o/areracg3/2142795125/2e54ab8ee52b65dc4705ce317a46/image.png?expires=1774980000&amp;signature=49a7d42096c9d732940db393c57d4c7f51d3675b98a4bc93ba2e4d2977de9468&amp;req=diEjFM53mIBdXPMW3Hu4gZqcrM4jhw7heqMaiz7UXJrKgwDtxdXRZOmHVQh5%0A%2Bw%3D%3D%0A" width="290"/>
 
-### **Koppen**
+### 3.2 **Koppen**
 
 Het kopgereedschap voegt hashtags/poundtekens toe aan het begin van de regel.
 
@@ -74,7 +66,7 @@ Er worden 5 niveaus van koppen ondersteund:
 
 De opmaak die de kop ontvangt, is afhankelijk van het aantal hashtags/poundtekens (`#`) aan het begin van de regel. <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/2142774211/4d966269824f2314e3685bf574d2/image.png?expires=1774980000&amp;signature=deb6ed14712f57d0d4b0c53ec1279375556850bf32c8840e20badb8d373516f3&amp;req=diEjFM55mYNeWPMW3Hu4gYpCJPwCMzegJvhdZHHTxaYqo1q9T5nZ7c27Xhfd%0A9g%3D%3D%0A" width="290"/>   \<->   <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/2142782676/88eae0f146164d95cf6bc94bb9d9/image.png?expires=1774980000&amp;signature=41447ae0185c19ef09c816795ecb067042f94fcc6a970d0590590458ea2848e5&amp;req=diEjFM52n4dYX%2FMW3Hu4gXMRNm2JOBxeB8KI3qP4itWZAkDmJ%2BtQeqYn168Q%0AwQ%3D%3D%0A" width="290"/>
 
-### **Koppelingen**
+### 3.3 **Koppelingen**
 
 Koppelingsopmaak kan overal op een regel worden gedaan en werkt goed samen met andere opmaakopdrachten die aan het begin van een regel moeten staan.
 
@@ -104,7 +96,7 @@ wordt:
 
 > **Opmerking:** Wees voorzichtig met het klikken op koppelingen, want hoewel de tekst [uit de vierkante haakjes] misschien een koppeling toont, kan de werkelijke koppeling (uit de ronde haakjes) anders zijn. Het is aanbevolen om over een koppeling te zweven en te kijken waar de browser naartoe zal doorsturen voordat u op een koppeling klikt.
 
-### **Opmaak voorkomen**
+### 3.4 **Opmaak voorkomen**
 
 Door woorden in niet-letter- of getal tekens in te pakken, kunt u ze anders laten zien.
 
@@ -116,13 +108,9 @@ Alle opmaakopdrachten die voor deze tekens zouden zijn toegepast, werken dan nie
 
 Als u een `\\` op een lege regel plaatst die niet onderdeel is van een [lijst](#h_6da4949f8c), blijft het resultaat ook een lege regel.
 
-## **Tekst opsplitsen en structuur toevoegen**
+## 4. **Tekst opsplitsen en structuur toevoegen**
 
-Met de volgende methoden kunt u uw tekst verbeteren door deze op te splitsen en structuur toe te voegen:
-
-_[Afbeeldingen](#h_addf8ad509) - [Lijsten](#h_6b17294b71) - [Scheidingslijnen](#h_fdecb8577b) - [Selectievakjes](#h_d0007452e5) - [Tabellen](#h_20306a720d) - [Codeblokken](#h_0ca602daeb) - [Markdown](#h_750fef10e8)_
-
-### **Afbeeldingen**
+### 4.1 **Afbeeldingen**
 
 Afbeeldingen in beschrijvingen kunnen een koppeling aan zich hebben.
 
@@ -140,7 +128,7 @@ Opdat de afbeelding correct wordt weergegeven, moet Catenda toegang hebben tot d
 
 > \+ De afbeelding kan aan een beschrijving worden toegevoegd \+ De afbeelding kan met tekst worden gemengd zodat u zowel voor als na de afbeelding in dezelfde opmerking of beschrijving tekst kunt hebben. \+ Afbeeldingen zoals deze kunnen worden gecombineerd met tabellen en lijsten. U kunt bijvoorbeeld een vinkje-afbeelding in het midden van een zin/tabel toevoegen in plaats van het opmaakselectievakje dat alleen aan het begin van een zin werkt \- U kunt niet garanderen dat de koppeling naar de afbeelding in de toekomst beschikbaar blijft. _Catenda-afbeeldingsdocumentkoppeling verkrijgen_ Als u met de rechtermuisknop op de [downloadactiebun klikt nadat u een document hebt geselecteerd](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) of met de rechtermuisknop op de [nieuwste revisie-downloadactieknop klikt nadat u een document hebt geopend](https://support.catenda.com/en/articles/9323521-actions-in-a-document), kunt u de downloadkoppeling van het document kopiëren. Als u deze koppeling in uw onderwerp gebruikt zoals hierboven, kunt u Catenda-documenten in onderwerpen gebruiken. \+ Als u een koppeling naar een Catenda-afbeeldingsdocument toevoegt, kunt u afbeeldingen toevoegen die alleen op Catenda worden weergegeven en niet beschikbaar zijn op andere platforms waar het onderwerp mee kan worden uitgewisseld. \+ Door koppelingen naar een Catenda-afbeeldingsdocument toe te voegen, kunnen alleen personen met toegang tot het document de afbeelding zien. \- Als u een koppeling naar een Catenda-afbeeldingsdocument toevoegt, is dit niet zichtbaar op andere platforms waarmee het onderwerp mogelijk is gesynchroniseerd en voor personen die geen toegang tot het document hebben.
 
-### **Lijsten**
+### 4.2 **Lijsten**
 
 _Ongeordende lijsten _
 
@@ -228,11 +216,11 @@ Dit zal allemaal veranderen in:
 25. vijfentwintig
 26. zesentwintig
 
-### **Scheidingslijnen**
+### 4.3 **Scheidingslijnen**
 
-## Drie streepjes `---` of meer op hun eigen regel maken een scheidingslijn:
+## 5. Drie streepjes `---` of meer op hun eigen regel maken een scheidingslijn:
 
-### **Selectievakjes**
+### 5.1 **Selectievakjes**
 
 Deze kunnen worden gecontroleerd in de beschrijving van een onderwerp.
 
@@ -258,7 +246,7 @@ Selectievakjes in opmerkingen kunnen niet worden aangeklikt om te worden gecontr
 
 _Vereiste toegang -_ De opmerking-maker heeft toegang tot het bewerken van de gemaakte opmerking
 
-### **Tabellen**
+### 5.2 **Tabellen**
 
 Tekst in beschrijvingen kan in tabellen worden georganiseerd.
 
@@ -275,7 +263,7 @@ resulteert in dit
 </td></tr><tr><td><p class="no-margin"><b>Hoeveelheid</b></p></td><td><p class="no-margin">10</p></td><td><p class="no-margin">4</p></td><td><p class="no-margin"></p>
 </td></tr><tr><td><p class="no-margin"><b>Som</b></p></td><td><p class="no-margin">5 000,-</p></td><td><p class="no-margin">1 600,-</p></td><td><p class="no-margin"><b>6 600,-</b></p></td></tr></tbody></table></div>
 
-### **Codeblokken**
+### 5.3 **Codeblokken**
 
 U kunt als volgt enkele coderregels invoegen:
 
@@ -289,13 +277,13 @@ Drie backticks `\`\`\`` boven en onder een stuk tekst ziet er als volgt uit:
 
 Het is niet mogelijk tabellen in codeblokken toe te voegen
 
-### **Markdown dialect**
+### 5.4 **Markdown dialect**
 
 Als u meer wilt weten over hoe tekst in opmerkingen en beschrijvingen wordt opgemaakt, gebruiken we het markdown dialect "flexmark" om deze tekst op te maken.
 
 Meer informatie over flexmark vindt u op hun [github-pagina](https://github.com/vsch/flexmark-java).
 
-## **@ Vermelde leden en teams**
+## 6. **@ Vermelde leden en teams**
 
 Klik op het `@`-gereedschap of schrijf `@` in een beschrijving of opmerking om een lid te vermelden.
 
@@ -313,7 +301,7 @@ Na het selecteren van een lid of team in de lijst krijgt de `@` extra tekst die 
 
 `@[\<email address of member>]` of `@[\<Team name>]`
 
-### **Het opslaan of indienen van een vermelding in een onderwerp**
+### 6.1 **Het opslaan of indienen van een vermelding in een onderwerp**
 
 Wanneer de beschrijving wordt opgeslagen of de opmerking wordt ingediend, ontvangen gerelateerde leden met toegang tot het onderwerpbord een melding.
 
@@ -337,7 +325,7 @@ Dit is een geweldige manier om ervoor te zorgen dat niet alleen de [toegewezen p
 
 Als een lid het onderwerp niet meer wil volgen, moet het dit handmatig niet volgen.
 
-### **Vermelding in bericht**
+### 6.2 **Vermelding in bericht**
 
 Vermeldingen in berichten kunnen worden herkend aan de groene tekstkleur.
 
@@ -369,7 +357,7 @@ Als een team uit het project is verwijderd en er wordt een nieuw team aangemaakt
 
 Om het nieuwe team te vermelden, moet het bericht opnieuw worden ingediend.
 
-## **# Gelabelde onderwerpen**
+## 7. **# Gelabelde onderwerpen**
 
 Klik op het `#`-gereedschap of schrijf `#` in een beschrijving of opmerking om een onderwerp te labelen.
 
@@ -387,7 +375,7 @@ Na het selecteren van een onderwerp in de lijst krijgt de `#` extra tekst die er
 
 `#[\<topic number>]`
 
-### **Opslaan of indienen van een gelabeld onderwerp**
+### 7.1 **Opslaan of indienen van een gelabeld onderwerp**
 
 Wanneer de beschrijving wordt opgeslagen of de opmerking wordt ingediend, wordt een onderwerprelatie gemaakt.
 
@@ -401,7 +389,7 @@ Naast het onderwerp waar een ander onderwerp is gelabeld, ontvangt het gelabelde
 
 De onderwerkoppeling kan later uit het onderwerp met het gelabelde onderwerp in de beschrijving of uit het gelabelde onderwerp worden verwijderd door naar elk onderwerp te gaan en de lijst met [gekoppelde onderwerpen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [het rechtermenu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) te bewerken.
 
-### **Gelabeld onderwerp in bericht**
+### 7.2 **Gelabeld onderwerp in bericht**
 
 Gelabelde onderwerpen kunnen worden herkend doordat ze eerst een cirkel hebben met de kleur van de huidige status van het gelabelde onderwerp, samen met de naam van die status.
 

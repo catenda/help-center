@@ -2,21 +2,13 @@
 
 > **Note:** The install file for the plugin can be found in [this article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
-The Catenda Navisworks plugin is a plugin that can be installed for Nemetchek Archicad.
+The Catenda Navisworks plugin is a plugin that can be installed for Nemetchek Archicad. With this plugin you will be able to collaborate on 3D viewpoints, topics and documents with the other members of the construction project.
 
-With this plugin you will be able to collaborate on 3D viewpoints, topics and documents with the other members of the construction project.
+## 1. **About the plugin**
 
-The following topics will be described in this article:
+The Catenda Hub add-in for Autodesk® Navisworks® is the perfect tool for projects collaborating in Catenda Hub. All your topics are synchronized in real-time between Navisworks and Catenda Hub, letting you create, access, share, and communicate topics. The topic format is BCF so that the topics can be shared across any BCF enabled BIM software or platform. This add-in allows you to visualize, create, and edit topics seamlessly from within Navisworks. You can also download and federate the IFC model stored in Catenda Hub to your local client.
 
-**[About the plugin](#h_8a72136f58) - [Cloud-based Collaboration](#h_1af0b770a7) - [Open standards](#h_2d8c53dc33) - [Installation](#h_6eca1bb38f) - [Catenda Tab](#h_1d2922dba1) - [Settings](#h_f09dd864e2) - [Topic boards](#h_f09dd864e2) - [Topic](#h_f09dd864e2) - [Clashes](#h_f09dd864e2) - [Models](#h_f09dd864e2)**
-
-## **About the plugin**
-
-The Catenda Hub add-in for Autodesk® Navisworks® is the perfect tool for projects collaborating in Catenda Hub. All your topics are synchronized in real-time between Navisworks and Catenda Hub, letting you create, access, share, and communicate topics. The topic format is BCF so that the topics can be shared across any BCF enabled BIM software or platform.
-
-This add-in allows you to visualize, create, and edit topics seamlessly from within Navisworks. You can also download and federate the IFC model stored in Catenda Hub to your local client.
-
-### **Features include:**
+### 1.1 **Features include:**
 
 - Access to all your Catenda projects
 - Filter and manage topics across topic boards
@@ -27,17 +19,17 @@ This add-in allows you to visualize, create, and edit topics seamlessly from wit
 - Assign topics to other project members
 - Change topic status and other properties
 
-## **Cloud-based Collaboration**
+## 2. **Cloud-based Collaboration**
 
 Catenda Hub brings your construction data to life in a cloud-based collaboration platform spanning the full building life cycle. Catenda manages your project information from the outset to handover and beyond, ensuring data and knowledge retention across all project phases.
 
-## **Open standards**
+## 3. **Open standards**
 
 Catenda Hub is a BIM collaboration tool with support for all of the buildingSMART standards (IFC, bSDD, BCF). It comes with a range of APIs for easy implementation into your own software.
 
 [YouTube video](https://www.youtube.com/embed/osHul8oKysE?rel=0)
 
-## **Installation**
+## 4. **Installation**
 
 When the Catenda Navisworks plugin is installed on Windows its installation files will appear in the following folder.
 
@@ -47,7 +39,7 @@ The settings configured in the plugin can be found here:
 
 `C:\\Users\\\<Username>\\AppData\\Local\\Autodesk\_Inc\\Roamer.exe\_Url\_\<GUID>\\\<Version>`
 
-### **Uninstalling**
+### 4.1 **Uninstalling**
 
 To uninstll the plugin go to the following Windows menu:
 
@@ -55,13 +47,9 @@ To uninstll the plugin go to the following Windows menu:
 
 Find Catenda Navisworks BCF plugin version \<version> in the list and click on the action menu on the right hand side to uninstall.
 
-## **Catenda tab**
+## 5. **Catenda tab**
 
-After having installed the plugin the Catenda tab will appear.
-
-Navisworks might have to be restarted for the tab to appear.
-
-On the home page of Navisworks, the tab will initially be grayed out.
+After having installed the plugin the Catenda tab will appear. Navisworks might have to be restarted for the tab to appear. On the home page of Navisworks, the tab will initially be grayed out.
 
 Start a new or open a Navisworks project to get started.
 
@@ -71,15 +59,13 @@ This is what the Catenda tab can look like when selected
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/02-catenda-tab.png)
 
-### **Catenda**
+### 5.1 **Catenda**
 
 The Catenda button in the Catenda Plugins menu of the Catenda tab will open the default browser with the [sign in page](https://support.catenda.com/en/articles/7891486-sign-in-page) of Catenda Hub.
 
-### **BCF Plugin**
+### 5.2 **BCF Plugin**
 
-The BCF Plugin button in the Catenda Plugins menu of the Catenda tab will open the Catenda Navisworks plugin with the settings menu activated.
-
-The settings menu of the Catenda Navisworks plugin can look something like this:
+The BCF Plugin button in the Catenda Plugins menu of the Catenda tab will open the Catenda Navisworks plugin with the settings menu activated. The settings menu of the Catenda Navisworks plugin can look something like this:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/03-bcf-plugin.png)
 
@@ -93,15 +79,13 @@ This is what the application can look like when docked on the right.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/05-bcf-plugin.png)
 
-## **Settings**
+## 6. **Settings**
 
 This is what the settings menu can look like after clicking on Login towards the top left.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/06-settings.png)
 
-On the left side the signin page of Catenda is displayed.
-
-Follow the stepd described in the [sign in article](https://support.catenda.com/en/articles/7891486-sign-in-page) to sign in.
+On the left side the signin page of Catenda is displayed. Follow the stepd described in the [sign in article](https://support.catenda.com/en/articles/7891486-sign-in-page) to sign in.
 
 This is what the setting menu can look like after succesfully having logged in.
 
@@ -109,63 +93,45 @@ This is what the setting menu can look like after succesfully having logged in.
 
 If the login session has timed out the refresh button can be used to refresh the login session.
 
-### **Authenticate**
+### 6.1 **Authenticate**
 
 **Token**
 
 Here you will see your Catenda authentication token after signing in.
 
-### **IFCGuid**
+### 6.2 **IFCGuid**
 
 **Category and property**
 
-Cateogory default: Element
-
-Property default: IfcGUID
+Cateogory default: Element Property default: IfcGUID
 
 **Property mapping**
 
-The Catenda Navisworks plugin attaches objects to viewpoints in topics based on the GUID of the IfcProject in the IFC.
-
-In Navisworks this GUID can be found in the properties of the object.
-
-Here is an example with an object selected:
+The Catenda Navisworks plugin attaches objects to viewpoints in topics based on the GUID of the IfcProject in the IFC. In Navisworks this GUID can be found in the properties of the object. Here is an example with an object selected:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/08-ifcguid.png)
 
-Depending on the content of your IFC, the IfcProject GUID might be found in one or more other properties or categories.
+Depending on the content of your IFC, the IfcProject GUID might be found in one or more other properties or categories. Especially if Navisworks has been launched with a language setting other than English name of the Element category will the word for Element in that language while the default word is still English in the Catenda Navisworks plugin. To resolve this, change the Category to to the word for Element in the language Navisworks is launched in.
 
-Especially if Navisworks has been launched with a language setting other than English name of the Element category will the word for Element in that language while the default word is still English in the Catenda Navisworks plugin.
+2nd, 3rd, 4th Category and Property If there are mulgiple categories and properites that could include the IFCProject GUID they can also be added.
 
-To resolve this, change the Category to to the word for Element in the language Navisworks is launched in.
-
-2nd, 3rd, 4th Category and Property
-
-If there are mulgiple categories and properites that could include the IFCProject GUID they can also be added.
-
-### **Paths**
+### 6.3 **Paths**
 
 **DownloadPath**
 
 The file location that models and documents downloaded through the plugin end up at.
 
-### **Snapshots**
+### 6.4 **Snapshots**
 
 **Placement**
 
-Right - default
+Right - default Snapshots are displayed to the right
 
-Snapshots are displayed to the right
+Below Snapshots are displayed below
 
-Below
+## 7. **Topic Boards**
 
-Snapshots are displayed below
-
-## **Topic Boards**
-
-In the Topic Boards menu an overview topics in the topic boards of different projects can be seen.
-
-Thisis what the Topic Boards menu can look like.
+In the Topic Boards menu an overview topics in the topic boards of different projects can be seen. Thisis what the Topic Boards menu can look like.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/09-topic-boards.png)
 
@@ -173,55 +139,51 @@ Click on the projects tab to load the list of topic boards in that project in th
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/10-topic-boards.png)
 
-### **New topic**
+### 7.1 **New topic**
 
 Click on the New Topic button to create a new topic.
 
-## **Topic**
+## 8. **Topic**
 
-In the topic menu selected topics can be edited and new topics can be submitted.
-
-This is what the topic menu can look like:
+In the topic menu selected topics can be edited and new topics can be submitted. This is what the topic menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/11-topic.png)
 
-### **Navigation arrows**
+### 8.1 **Navigation arrows**
 
 Use the navigation arros in the menu to move between different topics in the topic board.
 
-### **New Topic**
+### 8.2 **New Topic**
 
 Create a new topic
 
-### **Add Viewpoint**
+### 8.3 **Add Viewpoint**
 
 Add a viewpoint of the current camera position to the current topic.
 
-### **Update**
+### 8.4 **Update**
 
 Update the topic on Catenda with the information that has been added in the plugin.
 
-### **Topic number**
+### 8.5 **Topic number**
 
 The number of the topic in the project.
 
-### **Refresh**
+### 8.6 **Refresh**
 
 Load the latest information in the topic from Catenda.
 
-### **Clear clipping planes**
+### 8.7 **Clear clipping planes**
 
 Click the clear clipping planes button to clear the clipping planes in the viewer.
 
-## **Clashes**
+## 9. **Clashes**
 
-In the clashes menu topics can be submitted as a result of clash detective findings.
-
-This is what the clashes menu can look like.
+In the clashes menu topics can be submitted as a result of clash detective findings. This is what the clashes menu can look like.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/12-clashes.png)
 
-### **Running a clash detective test**
+### 9.1 **Running a clash detective test**
 
 To get started with the clashes menu find the Clash detective in the ribbon:
 
@@ -229,9 +191,7 @@ To get started with the clashes menu find the Clash detective in the ribbon:
 
 **Test overview**
 
-Add a new test.
-
-This is what your test overview can look like:
+Add a new test. This is what your test overview can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/13-running-a-clash-detective-test.png)
 
@@ -259,43 +219,23 @@ Right click on a clash row to open the following context menu:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/17-running-a-clash-detective-test.png)
 
-Group
+Group Group together clahses of similar type.
 
-Group together clahses of similar type.
+Viewpoint Adjust the viewpoint with Focus on clash and then open the viewpoint menu of the context menu again to save the viewpoint to the clash. This is the viewpoint that will end up in the topic on Catenda.
 
-Viewpoint
+Display settings Click on display settings on the right to open the display settings.
 
-Adjust the viewpoint with Focus on clash and then open the viewpoint menu of the context menu again to save the viewpoint to the clash.
+Highlighting Change the colors of the the objects from either model that are clashing with each other.
 
-This is the viewpoint that will end up in the topic on Catenda.
+Isolation Transparency settings
 
-Display settings
+Viewpoints Set viewpoints to either auto-update, auto-load or manually load.
 
-Click on display settings on the right to open the display settings.
+Simulation Show simulation or not
 
-Highlighting
+View in context All, file or home.
 
-Change the colors of the the objects from either model that are clashing with each other.
-
-Isolation
-
-Transparency settings
-
-Viewpoints
-
-Set viewpoints to either auto-update, auto-load or manually load.
-
-Simulation
-
-Show simulation or not
-
-View in context
-
-All, file or home.
-
-Items
-
-Here you see the objects that are related to the selected clash.
+Items Here you see the objects that are related to the selected clash.
 
 **Report**
 
@@ -303,35 +243,23 @@ this is what the report menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/18-running-a-clash-detective-test.png)
 
-Contents
+Contents Select the contents of your report
 
-Select the contents of your report
+Include clahses Select which clashes to include
 
-Include clahses
+Output settings Select either the current test for the test that is selected in the test overview or all tests for all tests in the test overview combined or separate.
 
-Select which clashes to include
+Report format Use the as viewpoints option and check the Preserve result highlighting box.
 
-Output settings
-
-Select either the current test for the test that is selected in the test overview or all tests for all tests in the test overview combined or separate.
-
-Report format
-
-Use the as viewpoints option and check the Preserve result highlighting box.
-
-### **Clashes in Catenda plugin**
+### 9.2 **Clashes in Catenda plugin**
 
 After a clash test has ran the viewpoints appear in the clashes tab.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/19-clashes-in-catenda-plugin.png)
 
-### **Add topic**
+### 9.3 **Add topic**
 
-Create topic by selecting one or more clash
-
-Give topic a title
-
-Click add topic.
+Create topic by selecting one or more clash Give topic a title Click add topic.
 
 **Add topic dropdown**
 
@@ -355,7 +283,7 @@ Create multiple topics
 - Create one topic for each ungrouped clash
     - Create a topic for each ungrouped clash that is selected in the Catenda Navisworks plugin
 
-### **Change status**
+### 9.4 **Change status**
 
 Change the status of the clashes that are selected in the Catenda Navisworks plugin to one of the following statuses in the Navisworks test results.
 
@@ -365,41 +293,35 @@ Change the status of the clashes that are selected in the Catenda Navisworks plu
 - Approved
 - Resolved
 
-## **Models**
+## 10. **Models**
 
-Download, open and append model revisions from the Catenda project selected in the Topic Boards menu to the Navisworks project.
-
-This is what the models menu can look like:
+Download, open and append model revisions from the Catenda project selected in the Topic Boards menu to the Navisworks project. This is what the models menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/20-models.png)
 
-### **Search**
+### 10.1 **Search**
 
 Search thorugh the models in the Catenda project
 
-### **Refresh**
+### 10.2 **Refresh**
 
 Refresh the models list from the Catenda project
 
-### **Download selected**
+### 10.3 **Download selected**
 
 Download the selected model(s) from Catenda to your local system
 
-### **Open selected**
+### 10.4 **Open selected**
 
 Open the selected model(s) in a new Navisworks project
 
-### **Append selected**
+### 10.5 **Append selected**
 
-Append the selected model(s) to the current Navisworks project.
+Append the selected model(s) to the current Navisworks project. To be able to append a model to the current Navisworks project it has to be downloaded first.
 
-To be able to append a model to the current Navisworks project it has to be downloaded first.
+### 10.6 **Catenda document library**
 
-### **Catenda document library**
-
-Open the Catenda Document library window.
-
-This is what the Document library window can look like.
+Open the Catenda Document library window. This is what the Document library window can look like.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/21-catenda-document-library.png)
 
@@ -421,27 +343,17 @@ Upload the latest revision of the selcted Catenda document to your local system.
 
 **Columns**
 
-Navigation
+Navigation Doubleclick on the navigation arrow or anywhere else on the row of a folder to open that folder.
 
-Doubleclick on the navigation arrow or anywhere else on the row of a folder to open that folder.
+Name The name of the folder or document
 
-Name
+Document name The name of the document
 
-The name of the folder or document
+Image The image of the document
 
-Document name
+Revision The revision number for the document
 
-The name of the document
-
-Image
-
-The image of the document
-
-Revision
-
-The revision number for the document
-
-### **Columns**
+### 10.7 **Columns**
 
 **Selection box**
 
@@ -463,9 +375,7 @@ The latest revision number in the Catenda project
 
 **Download**
 
-Click on the download icon to download the latest model revision.
-
-When the revision number appears in the Revision navisworks column the model is Downloaded.
+Click on the download icon to download the latest model revision. When the revision number appears in the Revision navisworks column the model is Downloaded.
 
 **Open**
 
@@ -475,34 +385,12 @@ Click on the open icon to open the model in a new Navisworks project.
 
 Click on the append icon to append the model to the current Navisworks project.
 
-### **Downloading models from Catenda Hub**
+### 10.8 **Downloading models from Catenda Hub**
 
-You can easily download the IFC models from your Catenda project using this plugin and the actions in the Models tab.
-
-To download to your local device:
-
-Click the download button for each model you want to download.
-
-The models will be saved in a new folder with the project name under the download path specified under the settings tab.
-
-For example:
+You can easily download the IFC models from your Catenda project using this plugin and the actions in the Models tab. To download to your local device: Click the download button for each model you want to download. The models will be saved in a new folder with the project name under the download path specified under the settings tab. For example:
 
 `C:\\...\\Documents\\Catenda project name`
 
-### **Create a merged .nwf file using IFCs from Catenda Hub**
+### 10.9 **Create a merged .nwf file using IFCs from Catenda Hub**
 
-In order to be able to use the BCF viewpoints from your Catenda project in the Catenda plugin, you need a merged NavisWorks file containing the IFCs from Catenda.
-
-Download the IFC models you want to merge following the steps above.
-
-Open one of the files you have downloaded in NavisWorks.
-
-Merge more models from the same project into the NavisWorks model using “Append”.
-
-Once you have all the files you want to merge appended, save the file as a .nwf file.
-
-Save the file in the same folder as your downloaded IFC files.
-
-Use this merged file when viewing BCF viewpoints in Navisworks.
-
-You can also use this merged file for running collision tests in NavisWorks.
+In order to be able to use the BCF viewpoints from your Catenda project in the Catenda plugin, you need a merged NavisWorks file containing the IFCs from Catenda. Download the IFC models you want to merge following the steps above. Open one of the files you have downloaded in NavisWorks. Merge more models from the same project into the NavisWorks model using “Append”. Once you have all the files you want to merge appended, save the file as a .nwf file. Save the file in the same folder as your downloaded IFC files. Use this merged file when viewing BCF viewpoints in Navisworks. You can also use this merged file for running collision tests in NavisWorks.

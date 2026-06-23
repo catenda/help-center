@@ -1,6 +1,6 @@
 # Catenda Help Center
 
-> Product documentation for Catenda — BIM collaboration for the built environment.
+> Documentation for Catenda — the open BIM collaboration platform for the construction industry.
 
 ## Getting started
 
@@ -20,7 +20,7 @@ Get an overview of your projects or configure your account or organization
 The basic features of Catenda Hub. Look here if you are looking for help for a specific feature.
 
 - [3D viewer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8227211-3d-viewer.md)
-- [Catenda Archicad plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5519276-catenda-archicad-plugin.md)
+- [Catenda Archicad plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5519276-catenda-archicad-plugin.md): test
 - [Catenda Desktop connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8358861-catenda-desktop-connector.md)
 - [Catenda Navisworks plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5085987-catenda-navisworks-plugin.md)
 - [Catenda Plugins & Integrations](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8396532-catenda-plugins-integrations.md): Connect Catenda to your favorite tool

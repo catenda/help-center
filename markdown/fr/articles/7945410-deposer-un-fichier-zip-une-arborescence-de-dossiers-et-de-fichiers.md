@@ -10,7 +10,7 @@ Les thèmes suivants sont abordés dans cet article :
 
 [Déposer un fichier ZIP](#h_5b148952e1) - [Caractères spéciaux](#h_80fc1e08a5) - [Contourner la limite de taille de fichier](#h_022b1d3b12) - [Mes chargements ZIP](#h_5e683a9be3) - [Connecteur Desktop](#h_03059f0adb)
 
-## **Déposer un fichier ZIP**
+## 1. **Déposer un fichier ZIP**
 
 Si vous souhaitez déposer un fichier ZIP, veuillez procéder comme suit :
 
@@ -33,7 +33,7 @@ Si vous souhaitez déposer un fichier ZIP, veuillez procéder comme suit :
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1305738822/3034d5574914854ccc466f6a740c/image.png?expires=1781092800&signature=60e0cb1d80488050d90b992aed3ad579d9e77662d2c06a7fb60dc266dbc7c0cd&req=dSMnE859lYldW%2FMW3nq%2BgbqU9TvsagjsPAeDPE%2F%2FaYAJK9KaHc7PHPprfhkh%0AYjo281E2XmuAtcji%2FAsuVNmiPbw%3D%0A)
 
-## **Chargements ZIP avec caractères spéciaux**
+## 2. **Chargements ZIP avec caractères spéciaux**
 
 Catenda détecte l'encodage du fichier ZIP lors de son extraction. Si le fichier ZIP contient des caractères spéciaux, ils seront interprétés correctement lors de l'extraction. Si les caractères spéciaux n'ont pas été encodés correctement, ils ne pourront pas être extraits par Catenda et auront l'air brouillés.
 
@@ -43,23 +43,23 @@ Si vos caractères spéciaux sont brouillés, regardez dans le fichier ZIP pour 
 
 Si vous pensez que vos caractères ont été correctement encodés et qu'ils ne sont pas correctement extraits par Catenda, nous pouvons examiner votre fichier ZIP et de voir si nous pouvons faire quelque chose. Dans ce cas, veuillez contacter [support@catenda.com](mailto:support@catenda.com) en indiquant comment vous avez créé votre fichier ZIP.
 
-### **Encodage ZIP sur Windows**
+### 2.1 **Encodage ZIP sur Windows**
 
 Les différentes versions de Windows utilisent des encodages de ZIP différents.
 
 Par exemple, la version anglaise utilise la norme d'encodage IBM-437 et la version pt-BR utilise IBM-850. Si votre installation Windows n'encode pas correctement vos fichiers ZIP, vous aurez peut-être plus de chance en utilisant un service tiers comme [7zip](https://7-zip.org/download.html) or [WinRAR](https://www.win-rar.com/download.html?&L=0) pour créer vos fichiers ZIP avec le bon encodage.
 
-## **Contourner la limite de taille de fichier**
+## 3. **Contourner la limite de taille de fichier**
 
 Le chargement d'un ZIP vous permettra de charger des fichiers de plus de 7 Go car le ZIP compresse le fichier.
 
-## **Mes chargements ZIP**
+## 4. **Mes chargements ZIP**
 
 L'option "Mes chargements ZIP" dans le menu déroulant vous permettra de voir un aperçu de vos précédents téléchargements ZIP.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1305761472/7a9ce5b081abff2fe091f4bb007c/image.png?expires=1781092800&signature=b75c5b1d93cbf854300c095ad67ddba0debc9ad9061ae4ec3678a9f6e6e400d8&req=dSMnE854nIVYW%2FMW3nq%2BgXJcSurIcnVrBjjgY1%2B194BbLvxGBY9K8iM8f4N%2F%0AC2bi76O44ffOXOKkwkzERxeSH%2Fo%3D%0A)
 
-## **Connecteur Desktop**
+## 5. **Connecteur Desktop**
 
 Avec le [Connecteur Desktop pour Catenda](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) vous pouvez automatiquement et périodiquement charger les dernières versions des documents depuis votre système local vers Catenda Hub.
 

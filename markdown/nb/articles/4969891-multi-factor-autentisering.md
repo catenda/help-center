@@ -4,11 +4,7 @@ Du vil kunne finne **Multi Factor autentisering** (MFA) innstillinger på [auten
 
 **Multi Factor autentisering** (MFA) kerver at en kode føres inn som du mottar via din mobile enhet i tillegg til ditt brukernavn og passord ved pålogging til Catenda Hub. Når en organisasjon påkrever MFA er det dette påført på et organisasjonsnivå. Alle prosjekter som tilhører organisasjonen vil da kreve MFA tilgang til deres prosjekt. Dette vil tvinge alle brukere til å koble på MFA for å få tilgang til prosjektene som tilhører organisasjonen.
 
-Denne siden inneholder informasjon om følgende temaer:
-
-**[Koblle på](#h_213609947a) - [Endre](#h_a16919fe4f) - [Overføre](#h_c713e78e85) - [Koble av](#h_904d6dabed) - [MFA på PC](#h_647325db79) - [Påkreve](#h_f85000e386)**
-
-## **Koble på MFA**
+## 1. **Koble på MFA**
 
 Logg på Catenda Hub og gå til [konto siden](https://hub.catenda.com/account/profile):
 
@@ -20,7 +16,7 @@ Logg på Catenda Hub og gå til [konto siden](https://hub.catenda.com/account/pr
 
 ![](https://downloads.intercomcdn.com/i/o/710944230/ebe37c5fb2379afe1d58d515/image.png?expires=1781092800&signature=bb1b215bf932a3da6fd9efd65031aa089830c4fa92090872b305802d5370aa61&req=cyEnH816n4JfFb4V1XW4gTVsh%2FWNq4RWV4OD%2BiH2LjOrUp6WWcpjxhq9folB%0A%2BuwHJKhvj1SGgt1qEKhqKE8VEQ%3D%3D%0A)
 
-### **Autentiseringsapp**
+### 1.1 **Autentiseringsapp**
 
 Du vil måtte installere en autentiseringspapp som du stoler på på din mobile enhet.
 
@@ -74,7 +70,7 @@ Kontonavn kan være hva du ønsker.
 
 > **Note:** **Merk:** Hvis du oppretter konto med feil hemmelig nøkkel vil appen lage engangspassord uansett så det kan hende Catenda ikke godtar koden hvis feil hemmelig nøkkel var brukt.
 
-### **Suksess eller feil**
+### 1.2 **Suksess eller feil**
 
 **Suksess**
 
@@ -94,7 +90,7 @@ Om du ikke la inn riktig kode vil du få meldingen feil kode.
 
 > **Note:** **Merk:** Om du har scannet QR-Koden kan du forsøke å skrive inn koden innen det gitte tidsrammet for koden igjen mens du har denne menyen åpent. Hvis du lukker menyen vil du måtte fjerne koden som genereres i din autentiseringsapp og scanne QR-Koden på nytt for å sette opp en ny kode kobling.
 
-## **Endre MFA**
+## 2. **Endre MFA**
 
 Etter å ha koblet på en MFA kode kan du på en sikker måte rediger kontonavn til koen.
 
@@ -111,7 +107,7 @@ Du kan gjøre dette på følgende måter:
 1. Klikk på tannhjulknappen øverst til høyre.
 1. Klikk på blyanten for å endre navnet.
 
-## **Overføre MFA**
+## 3. **Overføre MFA**
 
 **Deaktivere og reaktivere**
 
@@ -162,13 +158,13 @@ Ny enhet:
 
 > **Note:** **Merk 2:** Denne metoden krever at du lager en backup av dine MFA koder som betyr at de er lagre ti din app leverandørs skytjeneste. Bare bruk denne metoden hvis du stoler på din app leverandørs skytjeneste. Hvis ikke er det bedre å deaktivere og reaktivere.
 
-## **Koble av MFA**
+## 4. **Koble av MFA**
 
 Du kan koble av MFA ved å klikke på Deaktiver kanppen vist over, for å så skrive inn ditt passord og godta. Etter å ha koblet av vil du ikke lenger ha tilgang til prosjekter som krever MFA.
 
 Etter å ha koblet av koden på Catenda Hub vil koden bli igjen på applikasjonen du koblet med. Denne koden vil nå være ubrukelig og kan slettes med sikkerhet.
 
-### **Hvordan å slette den gamle koden:**
+### 4.1 **Hvordan å slette den gamle koden:**
 
 **Google authenticator**
 
@@ -181,7 +177,7 @@ Etter å ha koblet av koden på Catenda Hub vil koden bli igjen på applikasjone
 1. Klikk på tannhjulsknappen øverst til høyre.
 1. Klikk på fjern konto
 
-## **MFA på ikke-mobile enheger**
+## 5. **MFA på ikke-mobile enheger**
 
 Autentiseringskonto er mer sikre enn SMS/E-post kode løsninger siden det ikke er kommunikasjon som kan lekke ut i kommunikasjonen mellom to systemer etter den originale konfigurasjonen.
 
@@ -193,7 +189,7 @@ Funksjonsmessig bruker disse typer applikasjoner samme TOTP protokoll som appen 
 
 > **Note:** **Merk:** Desktop applikasjoner kan være mindre sikkert ettter som de kan være letter å hacke eller få tilgang til. Dette er fordi dekstop systemer ofte, hvis ikke alltid, er koblet på det lokale nettverket som kan være infisert. Mobile enheter som ikke llatid er koblet på nettverket kan derfor være vanskeligere å komme inn på.
 
-## **Hvem kan påkreve MFA på prosjekt?**
+## 6. **Hvem kan påkreve MFA på prosjekt?**
 
 Enterprise kunder kan be om at [organisasjonsvalget](https://support.catenda.com/nb/articles/8224886-organisasjonsvalg#h_aab0a5f0fa) for MFA skrus på. Dette valget gjør at alle brukere som er del av deres prosjekt må bruke MFA for å komme inn på prosjektet.
 

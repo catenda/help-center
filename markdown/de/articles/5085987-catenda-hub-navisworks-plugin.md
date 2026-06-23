@@ -8,7 +8,7 @@ Die folgenden Themen werden in diesem Artikel beschrieben:
 
 [Über das Plugin ](#h_dd43492fc3)- [Cloud-basierte Zusammenarbeit ](#h_93e4db7827)- [Offene Standards](#h_28b75ecd97)
 
-## Über das Plugin
+## 1. Über das Plugin
 
 Das Catenda Hub Add-In für Autodesk® NavisWorks® ist das perfekte Werkzeug für Projekte, die in Catenda Hub zusammenarbeiten. Alle Ihre Issues werden in Echtzeit zwischen NavisWorks und Catenda Hub synchronisiert, so dass Sie Issues erstellen, darauf zugreifen, teilen und kommunizieren können. Das Issue-Format ist BCF, so dass die Issues über jede BCF-fähige BIM-Software oder -Plattform ausgetauscht werden können.
 
@@ -25,11 +25,11 @@ Mit diesem Add-In können Sie Probleme nahtlos von NavisWorks aus visualisieren,
 - Zuweisen von Issues an andere Projektmitglieder
 - Ändern des Problemstatus und anderer Eigenschaften
 
-## Cloud-basierte Kollaboration
+## 2. Cloud-basierte Kollaboration
 
 Catenda Hub erweckt Ihre Baudaten in einer cloudbasierten Plattform für die Zusammenarbeit über den gesamten Lebenszyklus eines Gebäudes hinweg zum Leben. Catenda Hub verwaltet Ihre Projektinformationen von Anfang an bis zur Übergabe und darüber hinaus und stellt sicher, dass Daten und Wissen über alle Projektphasen hinweg erhalten bleiben.
 
-## Offene Standards
+## 3. Offene Standards
 
 Catenda Hub ist ein BIM-Kollaborationstool mit Unterstützung für alle buildingSMART-Standards (IFC, bSDD, BCF, COBie). Es wird mit einer Reihe von APIs für die einfache Implementierung in Ihre eigene Software geliefert.
 

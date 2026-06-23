@@ -1,6 +1,6 @@
 # Catenda Help Center
 
-> Product documentation for Catenda — BIM collaboration for the built environment.
+> Documentation for Catenda — the open BIM collaboration platform for the construction industry.
 
 ## Sette i gang
 

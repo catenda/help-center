@@ -4,11 +4,7 @@ Les codes QR peuvent être configurés par dossier dans la [configuration des do
 
 Cette fonction permet aux utilisateurs de Catenda de vérifier si le document qu'ils utilisent est la dernière version, en scannant le code QR imprimé sur le PDF.
 
-Cet article contient des informations sur les sujets suivants :
-
-**[Placement](#h_ea221d5cae) - [Configuration](#h_e66cc03a0e) - [Publication](#h_c7f0685c1c) - [Vérification](#h_8e9c27030b)**
-
-## Placer le Placeholder dans votre document
+## 1. Placer le Placeholder dans votre document
 
 Pour utiliser cette fonction, vous devez placer le **[code QR](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)** fourni par Catenda dans votre document et le télécharger ensuite dans Catenda Hub.
 
@@ -20,7 +16,7 @@ Le lien de téléchargement du QR-Code se trouve ici :
 
 **[Lien de téléchargement](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)**
 
-### Placer le code QR en tant qu'auteur du fichier
+### 1.1 Placer le code QR en tant qu'auteur du fichier
 
 Comme les documents ne peuvent pas être modifiés après avoir été téléchargés sur Catenda, il est important que le QR-Code soit placé sur le document avant qu'il ne soit téléchargé sur Catenda.
 
@@ -44,11 +40,11 @@ Importation > interpolation > fusion à partir d'un fichier > importation et ouv
 
 Si vous ouvrez la feuille de travail et que vous glissez-déposez le PNG, la résolution changera et cela ne fonctionnera pas.
 
-### Placer le QR-code sur un document existant
+### 1.2 Placer le QR-code sur un document existant
 
 Si vous avez un document que vous n'avez pas créé et que vous souhaitez ajouter le QR-Placeholder avant de le télécharger sur Catenda Hub, assurez-vous d'éditer le document et d'ajouter le QR-Placeholder en tant qu'image.
 
-### Placer le QR-code sur un document Catenda
+### 1.3 Placer le QR-code sur un document Catenda
 
 Si votre document est déjà sur Catenda, vous devrez ajouter le QR-Placeholder et télécharger une nouvelle révision. Si vous n'avez pas accès à un programme d'édition de PDF, vous pouvez utiliser l'[outil d'annotation de timbre-image](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations#h_6e3ac983b6) pour ajouter le QR-placeholder à votre document.
 
@@ -72,7 +68,7 @@ Le PDF imprimé avec l'espace réservé peut maintenant être téléchargé en t
 
 Pour garder votre historique de révision propre, vous pouvez retirer la révision précédente sans le code QR.
 
-## Configuration du QR-Code sur Catenda Hub
+## 2. Configuration du QR-Code sur Catenda Hub
 
 L'attribution du code QR se fait par le biais des dossiers, ce qui signifie que chaque administrateur de projet peut décider d'un ensemble de dossiers sélectionnés pour cette fonction.
 
@@ -90,7 +86,7 @@ La numérisation des espaces réservés et le placement des codes QR n'auront li
 
 > **Note:** **Remarque :** une fois qu'un dossier parent est attribué, tous les sous-dossiers recevront cette attribution Les codes QR peuvent être attribués à n'importe quel dossier dès lors qu'un dossier parent n'a pas encore été attribué.
 
-### Publication avec des codes QR
+### 2.1 Publication avec des codes QR
 
 1. Téléchargez une nouvelle révision d'un PDF avec le caractère générique dans un dossier auquel un code QR a été attribué
 1. Lors de la publication, le PDF sera scanné à la recherche de l'espace réservé et remplacé par un code QR (généré pour cette révision)
@@ -106,7 +102,7 @@ Voici un exemple de l'emplacement du code QR et des résultats après le téléc
 
 ![](https://downloads.intercomcdn.com/i/o/1129687828/6fba8f5b78f9f26b6c0e5b25/image.png?expires=1781092800&signature=55a085321bf04009ffc5682bedfb937e1a8a745978110ea5fa2e653c230c60eb&req=dSElH892moldUfMW3nq%2BgZOaMeorej4wNegl5eWFN3XW6bJCLqd8omIpfqDg%0AO6V0qLi3tjmDOiAbb2n%2BOrLzNCo%3D%0A)
 
-### Historique du document
+### 2.2 Historique du document
 
 Après avoir téléchargé un document avec un code QR, vous pourrez voir qu'il a été traité avec succès dans l'historique du document dans le [menu d'information de droite](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision).
 
@@ -146,7 +142,7 @@ Dans le menu de post-traitement, choisissez l'option Combiner les images adjacen
 
 ![](https://downloads.intercomcdn.com/i/o/1159572236/695f90c63c88bc45e6be27ae/image.png?expires=1781092800&signature=fbf5d6383e17d8ddbea0e397999413fdc10e4ab2b1096f998c4003bad5c37afd&req=dSEiH8x5n4NcX%2FMW3nq%2BgW32aqFEwBD2XBCw3n0xGmY%2FjAhzSZOKeLycCrcG%0AdOGFYSZ3RWYwpj4SYUPInsxn1Mg%3D%0A)
 
-## Vérification de la dernière révision
+## 3. Vérification de la dernière révision
 
 En scannant le code QR avec votre smartphone, vous accéderez à une page de vérification où les résultats suivants apparaîtront en fonction de la version du PDF ;
 

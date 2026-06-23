@@ -6,23 +6,17 @@ With the Catenda desktop connector you can schedule up- and downloads of the lat
 
 This article contains information about the following:
 
-**[Instant up/downloads](#h_d60b5729b2) - [Synchronization](#h_b0c80f3b56) - [Installation](#h_0c87d90519) - [Sign in](#h_01cbbb9b28) - [Home page](#h_097078145d) - [Projects](#h_f43567fd77) - [Upload](#h_49c54fb395) - [Download](#h_50975ada20) - [Logs](#h_248a560fc7)**
-
-## **Instant up/downloads**
+## 1. **Instant up/downloads**
 
 The Desktop Connector lets you upload files from your local system to a specified folder on Catenda Hub. You can also select a number of folders on Catenda Hub to download to a location on your local machine.
 
 **Uploading speed**
 
-Uploading files with the Desktop connector is faster at file transfer than the regular upload process as the files are imported via the API instead of via the browser.
+Uploading files with the Desktop connector is faster at file transfer than the regular upload process as the files are imported via the API instead of via the browser. It is therefore the best way to upload your files if you are uploading a large amount of data at once.
 
-It is therefore the best way to upload your files if you are uploading a large amount of data at once.
+### 1.1 **Successful uploads**
 
-### **Successful uploads**
-
-If you drag-and-drop multiple files or use the zip-upload feature on Catenda Hub you are uploading one big set of data.
-
-The larger the upload the longer you have to wait before you can submit your files into the Catenda Hub document structure.
+If you drag-and-drop multiple files or use the zip-upload feature on Catenda Hub you are uploading one big set of data. The larger the upload the longer you have to wait before you can submit your files into the Catenda Hub document structure.
 
 **One file at a time**
 
@@ -32,25 +26,25 @@ By uploading files from a folder structure one file at a time the Desktop Connec
 
 The larger the upload the higher the risk that it fails as well. Maybe your power goes out, maybe your internet connection breaks for a split second. Then you would have to start the upload all over again.
 
-## **Synchronization**
+## 2. **Synchronization**
 
 You can schedule when your files are uploaded or downloaded at regular intervals.
 
-### **Local system -> Catenda Hub**
+### 2.1 **Local system -> Catenda Hub**
 
 The desktop connector will make sure that either the file on your local system are up-to-date with your Catenda Hub project.
 
-### **Catenda Hub -> Local system**
+### 2.2 **Catenda Hub -> Local system**
 
 It can also work the other way where the connector ensures you always have the latest version of your Catenda Hub documents on your local system.
 
-## **Installation**
+## 3. **Installation**
 
 When the Catenda Desktop Connector is installed on Windows its installation files will appear in the following folder.
 
 `C:\\Program Files\\Catenda Hub Desktop Connector`
 
-### **Uninstalling**
+### 3.1 **Uninstalling**
 
 To uninstll the plugin go to the following Windows menu:
 
@@ -58,79 +52,71 @@ To uninstll the plugin go to the following Windows menu:
 
 Find Desktop Connector in the list and click on the action menu on the right hand side to uninstall.
 
-## **Sign in**
+## 4. **Sign in**
 
-When you first open the Desktop connector you will be asked to sign in.
-
-If you click on the sign in button your default browser will open with a page that asks you to log in to your Catenda Hub account.
-
-After logging in or if you were already logged in you will be asked to grant access to your Catenda account.
-
-After clicking on allow access you will be asked to open the desktop connector app.
-
-You will then be redirected back to the Desktop Connector [home page](#h_097078145d).
+When you first open the Desktop connector you will be asked to sign in. If you click on the sign in button your default browser will open with a page that asks you to log in to your Catenda Hub account. After logging in or if you were already logged in you will be asked to grant access to your Catenda account. After clicking on allow access you will be asked to open the desktop connector app. You will then be redirected back to the Desktop Connector [home page](#h_097078145d).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/01-sign-in.png)
 
-## **Home page**
+## 5. **Home page**
 
 When you start up the Desktop connector it will look like this:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/02-home-page.png)
 
-### **Wake up PC**
+### 5.1 **Wake up PC**
 
 Wake up the PC from sleep mode if a task is scheduled to run at that time.
 
-### **Run on startup**
+### 5.2 **Run on startup**
 
 To run the desktop connector on startup, select this option
 
-### **Log out**
+### 5.3 **Log out**
 
 Click on the log out button on the bottom right to log out.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/03-log-out.png)
 
-## **Project list**
+## 6. **Project list**
 
 Here you see an overview of your projects and the number of up- and download tasks you have set for each project.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/04-project-list.png)
 
-### **Synchronize button**
+### 6.1 **Synchronize button**
 
 If you have recently joined a new project you can click this synchronize button to load in the new list of projects you are part of.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/05-synchronize-button.png)
 
-### **Name**
+### 6.2 **Name**
 
 Click on the name of a project to see your current up- and download tasks or to schedule a new task.
 
-### **Upload tasks**
+### 6.3 **Upload tasks**
 
 The amount of uplaod tasks that are active for this project
 
-### **Download tasks**
+### 6.4 **Download tasks**
 
 The amount of download tasks that are active for this project
 
-## **Upload task**
+## 7. **Upload task**
 
 With this task you can schedule a periodic upload of files from your system to Catenda Hub
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/06-upload-task.png)
 
-### **Title - Required**
+### 7.1 **Title - Required**
 
 The upload task has to at least have a title to be saved
 
-### **Schedule calendar - Required**
+### 7.2 **Schedule calendar - Required**
 
 The task has to at least have one day selected to be saved
 
-### **Project location**
+### 7.3 **Project location**
 
 **Server**
 
@@ -140,29 +126,25 @@ Select the location on Catenda Hub you want to synchronize your files to.
 
 Select the location on your system you want to sychronize the files from.
 
-### **Instant**
+### 7.4 **Instant**
 
-Click on the upload now square to start this task immediately.
+Click on the upload now square to start this task immediately. You do not have to save the task to start uploading. If you save the task it will run periodically at the configured time.
 
-You do not have to save the task to start uploading.
-
-If you save the task it will run periodically at the configured time.
-
-## **Download task**
+## 8. **Download task**
 
 With this task you can schedule a periodic download of files from Catenda Hub to your system.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/07-download-task.png)
 
-### **Title - Required**
+### 8.1 **Title - Required**
 
 The upload task has to at least have a title to be saved
 
-### **Schedule calendar - Required**
+### 8.2 **Schedule calendar - Required**
 
 The task has to at least have one day selected to be saved​
 
-### **Project location**
+### 8.3 **Project location**
 
 **Server**
 
@@ -172,50 +154,44 @@ Select the location on Catenda Hub you want to download your files from.
 
 Select the location on your system you want to download the files to.
 
-### **Instant**
+### 8.4 **Instant**
 
-Click on the upload now square to start this task immediately.
+Click on the upload now square to start this task immediately. You do not have to save the task to start uploading. If you save the task it will run periodically at the configured time. The downloaded documents will end up on your system unzipped.
 
-You do not have to save the task to start uploading.
-
-If you save the task it will run periodically at the configured time. The downloaded documents will end up on your system unzipped.
-
-### Back button
+### 8.5 Back button
 
 Click this button to go back to the [home page](#h_097078145d)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
-## **Task List**
+## 9. **Task List**
 
 Here you can see your current up- and download tasks
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/09-task-list.png)
 
-### **Name**
+### 9.1 **Name**
 
 The name of the task.
 
-### **Task**
+### 9.2 **Task**
 
 The scheduled time of that the task will run.
 
-### **Project**
+### 9.3 **Project**
 
 The name of the project where this task will run.
 
-### **Status**
+### 9.4 **Status**
 
 The status of this task.
 
-### **Back button**
+### 9.5 **Back button**
 
 Click this button to go back to the [home page](#h_097078145d)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
-## **Log Folder**
+## 10. **Log Folder**
 
-This button opens the folder location of the Desktop Connector logs on your system.
-
-The default location of these logs is: C:\\Users\\\<Windows account name>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp
+This button opens the folder location of the Desktop Connector logs on your system. The default location of these logs is: C:\\Users\\\<Windows account name>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp

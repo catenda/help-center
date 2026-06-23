@@ -11,7 +11,7 @@ Dit artikel behandelt de volgende onderwerpen:
 
 ---
 
-### 1. De QR-Code Placeholder Plaatsen
+### De QR-Code Placeholder Plaatsen
 
 Voordat u een document uploadt naar Catenda Hub, moet er een specifieke 'placeholder' (plaatsvervanger/marker) op het document staan. Catenda herkent deze afbeelding en vervangt deze tijdens het publicatieproces door een unieke, actieve QR-code.
 
@@ -38,7 +38,7 @@ Sommige software comprimeert afbeeldingen bij het opslaan, wat de herkenning kan
 
 > **Note:** Gebruik altijd het originele marker bestand! **Download link:** [[Download hier de officiële QR-Code Placeholder](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)]
 
-### 2. Configureren in Catenda Hub
+### Configureren in Catenda Hub
 
 De toewijzing van QR-codes gebeurt per map. Dit geeft projectbeheerders de vrijheid om de functie alleen te activeren waar dit relevant is (bijv. voor definitieve bouwtekeningen).
 
@@ -55,7 +55,7 @@ De toewijzing van QR-codes gebeurt per map. Dit geeft projectbeheerders de vrijh
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/2352188600/a638ede9483e26523af4d5b42fdd/image.png?expires=1781092800&signature=b8d83e82b286518729bda273c337c8d09d5d4893cc27e5c8a434fde307ae38b9&req=diMiFMh2lYdfWfMW3nq%2BgchEjV%2FU8I%2BpDClBd%2FtG6E3lHu2jP9oA2G9DXIc5%0ADjDjN6cNFChKr9gyjbsuFBxiuFs%3D%0A)
 
-### 3. Publiceren en Genereren (Update)
+### Publiceren en Genereren (Update)
 
 Het proces van het scannen van de placeholder en het genereren van de werkelijke QR-code vindt plaats tijdens het uploaden en publiceren.
 
@@ -73,7 +73,7 @@ In de **geschiedenis** van het document (rechtermenu) kunt u zien of het proces 
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/2352188603/0ca068e54eb5ae1461ea6933c2e9/image.png?expires=1781092800&signature=30ff05372b42d41306411037a80ce40b1614455cddb1f67a30ba2fb7880787d1&req=diMiFMh2lYdfWvMW3nq%2Bgf2zEBxMvW1WqknLF5I1fUesPiNvdZPtUlNs0s%2Fa%0AeWG3NSl4dGdQN5mBT8Kok%2BUAfbk%3D%0A)
 
-### 4. Controle van de Laatste Revisie
+### Controle van de Laatste Revisie
 
 Wanneer een gebruiker de gegenereerde QR-code op een bouwplaats of kantoor scant met een mobiel apparaat, verschijnt er een verificatiepagina met één van de volgende statussen:
 

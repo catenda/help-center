@@ -4,27 +4,27 @@
 
 Mit dem Catenda-Desktop-Connector können Sie Up- und Downloads der neuesten Versionen von Dokumenten von Ihrem lokalen System zu Ihrem Catenda-Hub-Projekt planen. Sie können dies sofort oder in regelmäßigen Abständen tun. Der Desktop Connector ist sowohl schneller bei der Dateiübertragung als der reguläre Upload-Prozess und minimiert das Risiko von Fehlern, da er die Dokumente Datei für Datei hochlädt, anstatt in einem großen Drag & Drop oder Zip-Batch-Upload.
 
-## **Upload Aufgaben**
+## 1. **Upload Aufgaben**
 
 Mit dieser Aufgabe können Sie ein regelmäßiges Hochladen von Dateien von Ihrem System zu Catenda Hub planen
 
-## **Download Aufgaben**
+## 2. **Download Aufgaben**
 
 Mit dieser Aufgabe können Sie einen regelmäßigen Download von Dateien aus Catenda Hub auf Ihr System planen.
 
 Die Dokumente landen ungezippt auf Ihrem System.
 
-## **Fehlersuche**
+## 3. **Fehlersuche**
 
-### **Dokumentenname**
+### 3.1 **Dokumentenname**
 
 Vergewissern Sie sich, dass Sie das Zeichen \\ nicht in Ihrem Dokumentnamen haben, da Dateien unter Windows dieses Zeichen nicht in ihrem Namen haben können.
 
-### **Server-Projektstandort leer**
+### 3.2 **Server-Projektstandort leer**
 
 Um Ihre lokalen Dateien mit einem Projekt zu synchronisieren, müssen Sie mindestens einen Ordner im Dokumentenbereich des Projekts haben.
 
-### **Berechtigungen für Ordner**
+### 3.3 **Berechtigungen für Ordner**
 
 Klicken Sie mit der rechten Maustaste auf den Ordner, in den Sie herunterladen möchten, und geben Sie die entsprechenden Berechtigungen ein.
 

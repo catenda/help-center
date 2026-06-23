@@ -8,11 +8,7 @@ Avec un modèle chargé, la visionneuse 3D peut ressembler à ceci :
 
 ![](https://downloads.intercomcdn.com/i/o/845930227/b1fafb0ae5a597cebd08216b/image.png?expires=1779991200&signature=9193685e518760a5bf21bd4253b8495487059634bd52be5dd0f156f80040dbdc&req=fCQiH8p%2Bn4NYFb4V1XW4gU18AwjBo6R2JCjPFqI2LRiuYUxHxASjgSjQEOfC%0AOwihmhiS3Wkw78xvfZvQ1RSIWA%3D%3D%0A)
 
-Les sujets suivants seront décrits dans cet article :
-
-_[Chargement de modèles](#h_888b256977) - [Visibilité](#h_0a094b396a) - [Appareil photo](#h_02072804a5) - [Outils](#h_003a4c0a62) - [Joystick](#h_aec58b88ac) - [Paramètres](#h_4d0e873c56) - [2D](#h_2529b0b9b9) - [Pied de page](#h_cc1579b00c) - [Clic droit](#h_be448c6806) - [Exporter](#h_a1594324c8)_
-
-## **Chargement de modèles**
+## 1. **Chargement de modèles**
 
 Les modèles peuvent être chargés dans la visionneuse 3D de plusieurs façons.
 
@@ -22,7 +18,7 @@ Dans la section des documents, vous pouvez ouvrir des aperçus de fichiers IFC e
 
 Vous pouvez également ouvrir la visionneuse 3D sans charger de modèles en cliquant sur 3D en haut à droite pour ouvrir le panneau de la visionneuse 3D.
 
-### **Sélecteur de révision**
+### 1.1 **Sélecteur de révision**
 
 Si vous n'avez pas encore chargé de modèles, vous pourrez charger et décharger des modèles en ouvrant la liste déroulante du sélecteur de révision.
 
@@ -30,7 +26,7 @@ Cliquez [ici](https://support.catenda.com/en/articles/4670279-revision-selector)
 
 ![](https://downloads.intercomcdn.com/i/o/845932443/61498edae0561e5178452829/image.png?expires=1779991200&signature=81b2a46f0f2140700048ba3704dcd7da5a239f4dd876711d44ad60ea799cc041&req=fCQiH8p8mYVcFb4V1XW4gWHzJT%2FRVZlD%2BXL9zeYyuF3fSLbWGwZo5M2Gg46C%0AEWJ5T3AogcBqURfyrXx2jCjGTA%3D%3D%0A)
 
-### **Liste déroulante de grille**
+### 1.2 **Liste déroulante de grille**
 
 S'il y a des modèles dans vos projets qui contiennent des grilles, vous pourrez les charger dans la visionneuse avec cette liste déroulante.
 
@@ -38,7 +34,7 @@ Cliquez [ici](https://support.catenda.com/en/articles/4670327-showing-grids) pou
 
 ![](https://downloads.intercomcdn.com/i/o/845933603/0e12c7587087e5d61dad9b32/image.png?expires=1779991200&signature=51fa8a92b2c07992a68b5e341e42700ea2636d29d3a977edbd6ee5ad7bc4dcc7&req=fCQiH8p9m4FcFb4V1XW4gR4Cd26%2Bf8YbwgKVl5VcQbkVb%2F043c1nNwIkYn1u%0APUa%2FQxjYsDKZAyWaCp%2F7e63eNw%3D%3D%0A)
 
-## **Visibilité**
+## 2. **Visibilité**
 
 La liste déroulante de visibilité vous permet d'afficher, de masquer et de rendre les objets translucides.
 
@@ -50,7 +46,7 @@ Quand vous ouvrez la liste déroulante de visibilité, cela peut ressembler à c
 
 Voici les actions que vous pouvez effectuer :
 
-### **Affichage des objets**
+### 2.1 **Affichage des objets**
 
 _Afficher tout_
 
@@ -68,7 +64,7 @@ Dans le panneau d'informations, vous pourrez sélectionner les objets masqués d
 
 Dans le panneau de contenu, vous pourrez sélectionner les objets des bibliothèques de propriétés et les objets liés à des problèmes ou à des documents.
 
-### **Translucidité des objets**
+### 2.2 **Translucidité des objets**
 
 Il n'est pas possible de sélectionner des objets translucides en cliquant sur eux dans la visionneuse 3D.
 
@@ -88,7 +84,7 @@ Rend tout translucide sauf le(s) objet(s) sélectionné(s)
 
 Afficher tout pour que les objets retournent à la visibilité par défaut.
 
-### **Masquage des objets**
+### 2.3 **Masquage des objets**
 
 Le(s) objet(s) masqué(s) seront toujours chargé(s) dans la mémoire de votre système.
 
@@ -104,13 +100,13 @@ Ceci est similaire à l'isolement des objets.
 
 Les objets masqués seront toujours chargés en mémoire.
 
-## **Options de l'appareil photo**
+## 3. **Options de l'appareil photo**
 
 La liste déroulante des options d'appareil photo vous permet de choisir des points de vue, des types d'appareil photo et des vues.
 
 ![](https://downloads.intercomcdn.com/i/o/845935508/86e4c1b7d88fdfb40f0f7d07/image.png?expires=1779991200&signature=655bcc8d656c09657a117ee9904072f9106343fd1f89869b348bf435372450d9&req=fCQiH8p7mIFXFb4V1XW4gcQqT9ryKz6oLSdV%2B%2BkwDfG1rtI0Yn7svdPKuiLS%0A8%2FWmd4I9OOLjySqW4UhTJwTGng%3D%3D%0A)
 
-### **Point de vue**
+### 3.1 **Point de vue**
 
 Voici à quoi peut ressembler le menu du point de vue :
 
@@ -146,7 +142,7 @@ Affiche le modèle par le haut
 
 Cette vue peut être intéressante pour produire des plans d'étage en créant un plan de coupe horizontal.
 
-### **Type d'appareil photo**
+### 3.2 **Type d'appareil photo**
 
 Voici à quoi peut ressembler le menu du type d'appareil photo :
 
@@ -170,7 +166,7 @@ Ce type d'appareil photo est excellent pour la planification car il est plus fac
 
 Comme l'appareil photo est infiniment loin, il ne peut pas passer à travers les objets et vous devrez masquer ou rendre les objets translucides pour voir ce qui se trouve derrière eux.
 
-### **Affichage**
+### 3.3 **Affichage**
 
 Voici à quoi peut ressembler le menu d'affichage :
 
@@ -178,7 +174,7 @@ Voici à quoi peut ressembler le menu d'affichage :
 
 > **Remarque :** Assurez-vous que le matériel et les logiciels sur lesquels Catenda est ouvert sont configurés [comme recommandé](https://support.catenda.com/en/articles/6921941-hardware-recommendation) car cela peut affecter le mode d'affichage de la visionneuse. _Régulier_ Par défaut, l'affichage régulier est sélectionné. Lignes fines d'affichage d'objets précis. Idéal pour les mesures. Lorsqu'aucune couleur n'est définie pour un objet dans l'IFC, l'objet reçoit une couleur basée sur l'entité configurée pour cet objet. L'entité se trouve dans le menu d'inspection du panneau d'informations. Comme il n'y a pas de lumière solaire ou artificielle dans la visionneuse Catenda, les objets ne projettent pas d'ombre les uns sur les autres. Les surfaces sont rendues par leur couleur plate assombries selon que l'appareil photo regarde directement vers eux ou si la surface est inclinée par rapport à l'appareil photo. _Contour_ Le Cell Shading transforme les lignes sur les coins avec des angles orientés vers vous en lignes plus épaisses, tandis que les lignes sur les coins orientés vers vous deviennent des lignes plus fines. Cela crée une couche supplémentaire de profondeur, mais les lignes épaisses pourraient masquer les mesures précises. Contour est une excellente vue pour exporter des images. **Remarque :** Assurez-vous que le matériel et les logiciels sur lesquels Catenda est ouvert sont configurés [comme recommandé](https://support.catenda.com/en/articles/6921941-hardware-recommendation) car cela peut affecter la netteté des lignes. _Esquisse_ Idéal pour les réunions avec des parties externes qui ont besoin d'un affichage simple du modèle. Les objets sans couleur spécifiée dans l'IFC seront coloriés avec des nuances grises et une texture afin que les surfaces ne semblent pas si parfaitement plates. Les fenêtres resteront leur couleur bleue habituelle. **Remarque :** Assurez-vous que le matériel et les logiciels sur lesquels Catenda est ouvert sont configurés [comme recommandé](https://support.catenda.com/en/articles/6921941-hardware-recommendation) car cela peut affecter la netteté des lignes.
 
-## **Liste déroulante d'outils**
+## 4. **Liste déroulante d'outils**
 
 Vers le haut à droite de la visionneuse 3D, vous pourrez trouver la liste déroulante des outils de la visionneuse 3D.
 
@@ -186,7 +182,7 @@ Vers le haut à droite de la visionneuse 3D, vous pourrez trouver la liste déro
 
 > **Remarque :** Le bouton d'outil ressemble généralement à ceci mais peut changer d'apparence selon l'outil que vous avez sélectionné. La liste déroulante des outils peut ressembler à ceci : ![](https://downloads.intercomcdn.com/i/o/804653444/20efed171c9fe98b4e7f39fd/image.png?expires=1779991200&signature=bb7be770ab7884d09fd0246aee5fc9684433c241198a266e822cba96e628fb23&req=fCAjEMx9mYVbFb4V1XW4gc4hHZcDerhmo5Sk4SZRhd0JGqPPkgFJxeoDqI9t%0Atnt6dYCyv%2Bvy0ePbnV2LNdZf%2Fw%3D%3D%0A) Cliquez [ici](https://support.catenda.com/en/articles/4670294-measuring-features) pour en savoir plus sur la liste déroulante des outils.
 
-## **Joystick**
+## 5. **Joystick**
 
 Le clic sur ce bouton affiche le joystick à l'écran.
 
@@ -206,19 +202,19 @@ Avec la liste déroulante à côté du joystick, vous pouvez configurer l'emplac
 - Bas droit
 - Milieu droit
 
-## **Paramètres de la visionneuse 3D**
+## 6. **Paramètres de la visionneuse 3D**
 
 Cliquez sur ce bouton pour ouvrir la liste déroulante des [paramètres de la visionneuse 3D](https://support.catenda.com/en/articles/5784718-3d-viewer-settings)
 
 ![](https://downloads.intercomcdn.com/i/o/845938367/9e9984bbd7105bf8537bb8b3/image.png?expires=1779991200&signature=ff9d26a0b7f6c6695590422ef648eb4e35ca47d81dd0b5db380f56f302cd7908&req=fCQiH8p2nodYFb4V1XW4gYLR0mH6h3zB4WkkRKe%2FiBpgCRETUFt%2BXlU%2Fm9Kp%0AuLggDurs6XsLYiLG9CfMDPfvvw%3D%3D%0A)
 
-## **Bouton 2D**
+## 7. **Bouton 2D**
 
 Cliquez sur ce bouton pour ouvrir la [visionneuse 2D](https://support.catenda.com/en/articles/4854537-2d-viewer)
 
 ![](https://downloads.intercomcdn.com/i/o/845939667/1e322c693efb051d5c3ec7ea/image.png?expires=1779991200&signature=62b9bab9c7ceb9ac1ca7a12487e323485f6b868ae69a20cfc68fb5fdd573e51e&req=fCQiH8p3m4dYFb4V1XW4gVxq5sIds2lSzb4lkW7HbUS8dWBVIFQOgS%2F4FDA2%0AGy7XtmCwkMdv%2FeprubNqaysYCg%3D%3D%0A)
 
-## **Pied de page d'informations sur les objets**
+## 8. **Pied de page d'informations sur les objets**
 
 Par défaut, un pied de page s'affichera en bas de la visionneuse lorsque vous sélectionnez un objet.
 
@@ -226,13 +222,13 @@ Par défaut, un pied de page s'affichera en bas de la visionneuse lorsque vous s
 
 Ce pied de page peut contenir des informations sur les sujets et les éléments de bibliothèque liés à l'objet.
 
-### **Identification**
+### 8.1 **Identification**
 
 Nom de l'objet - Entité d'objet - Type d'objet
 
 Si plusieurs objets sont sélectionnés, cela indiquera indéfini.
 
-### **Informations sur le sujet**
+### 8.2 **Informations sur le sujet**
 
 _Ouvert_
 
@@ -246,7 +242,7 @@ Nombre de problèmes fermés (Vert)
 
 Cliquez sur "Fermé" pour voir tous les problèmes fermés où cet objet est lié dans le panneau de droite.
 
-### **Bibliothèques**
+### 8.3 **Bibliothèques**
 
 Si vous avez lié votre objet sélectionné à des bibliothèques sur Catenda Hub, vous pourrez voir la bibliothèque avec le nombre de liens dans le pied de page d'informations.
 
@@ -270,20 +266,20 @@ _Dropbox_
 
 Si vous avez lié votre objet sélectionné à des documents Dropbox, vous verrez le nom de la bibliothèque Dropbox avec le nombre de documents liés ici.
 
-### **Masquage du pied de page d'informations sur les objets**
+### 8.4 **Masquage du pied de page d'informations sur les objets**
 
 Cliquez sur le x pour masquer le pied de page d'informations sur les objets de la visionneuse 3D.
 
-### **Affichage du pied de page d'informations sur les objets**
+### 8.5 **Affichage du pied de page d'informations sur les objets**
 
 Si vous avez choisi de fermer le pied de page d'informations, vous pouvez le rouvrir avec le bouton i sous la visionneuse 2D ou le bouton 2D.
 
 ![](https://downloads.intercomcdn.com/i/o/845975138/79609e6f5263c78b91a8152f/image.png?expires=1779991200&signature=b10a41f57a75c5be173d2718ffc42a1509247af2ac1cd03ba18b5a2962a65ac2&req=fCQiH857nIJXFb4V1XW4gXsOoCeuZTb0ZfYItxH8K2AcssoIeV2XCJbKjZ9L%0AGjwh8rDyqB8VhGaiVygcSyjHjA%3D%3D%0A)
 
-## **Menu Options**
+## 9. **Menu Options**
 
 Si vous cliquez avec le bouton droit dans la visionneuse 3D, le [menu options](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Double%20click-,Options%20menu,-Show%20all) s'affichera.
 
-## **Exporter une image**
+## 10. **Exporter une image**
 
 La meilleure façon d'exporter une image de la visionneuse 3D est de créer un [instantané 3D](https://support.catenda.com/en/articles/8053352-issue-body#h_1ba7f8873f).

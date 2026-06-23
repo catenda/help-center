@@ -4,7 +4,7 @@ Een nieuw team kan worden aangemaakt op de [ledenpagina](https://support.catenda
 
 ![](https://downloads.intercomcdn.com/i/o/720413983/d513ccf51166b04c39bb7717/image.png?expires=1781092800&signature=1c667d7956932e83d9ac22f1a619108c93b1beeea53cc959bcdfead059743787&req=cyInEsh9lIlcFb4V1XW4gUVb0JCyDpJ%2B8OaEAffFc14QhwbefiLhLbxfDIYw%0ABpXkcMRdNvt7BjWgXgI97drBvg%3D%3D%0A)
 
-## Wanneer een team opzetten?
+## 1. Wanneer een team opzetten?
 
 Catenda teams kunnen op elke gewenste manier worden ingedeeld.
 
@@ -22,7 +22,7 @@ Dit kan gebruikt worden om toegang in te stellen voordat gebruikers deel uitmake
 
 Een goed gebruik hiervan is het instellen van een team wanneer een lid wordt uitgenodigd, zodat ze de juiste toegang krijgen zodra ze deel uitmaken van het project.
 
-## Team aanmaken
+## 2. Team aanmaken
 
 Om een nieuw team aan te maken ga je naar de ledenpagina en in de rechterbovenhoek is er een knop "Nieuw team". Daar kies je de naam van het team en of het team de rol van lid of beheerder moet krijgen.
 

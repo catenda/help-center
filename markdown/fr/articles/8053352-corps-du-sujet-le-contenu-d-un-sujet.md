@@ -13,11 +13,7 @@ Voici à quoi peut ressembler un sujet :
 
 4. Le corps du sujet sera abordé dans cet article.
 
-Les sujets suivants seront décrits dans cet article :
-
-**[Barre de progression](#h_7b73deaf7d) - [Description](#h_952e4743da) - [Afficher l'historique](#h_4c159e3ed6) - [Trier](#h_4ac0274f86) - [Commentaire](#h_f76b44d3ca)**
-
-## Barre de progression
+## 1. Barre de progression
 
 ![](https://downloads.intercomcdn.com/i/o/758246452/67a377b6d341034e4bf14e81/image.png?expires=1781092800&signature=8168623fe96cc5a20c48938698acc9a4578891177786878306c06356a19bc16b&req=cyUvFM14mYRdFb4V1XW4gTBKssd%2BaDSjA9W%2BVvgEMH1yXIv2yWBqzXVoAix%2F%0AcDJixTSctB9wq54FMl%2FPazuQZg%3D%3D%0A)
 
@@ -25,11 +21,11 @@ La barre de progression indique la progression des cases cochées et des sujets 
 
 Pour un court tutoriel vidéo sur les listes de contrôle, voir [ici](https://support.catenda.com/en/articles/5036461-check-lists-within-issues)
 
-## Description
+## 2. Description
 
 La description du sujet suit les [règles générales de formatage des messages](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
 
-## Modifier la description
+## 3. Modifier la description
 
 Cliquez sur le crayon en haut à droite du contenu du sujet pour modifier la description
 
@@ -39,27 +35,27 @@ Pour plus d'informations sur les options de formatage, éditez la description et
 
 _Accès requis :_ Accès en écriture au tableau des sujets
 
-## Créé par
+## 4. Créé par
 
 Le créateur du sujet et l'heure à laquelle il a été créé. Pour obtenir une date plus précise, allez dans les [paramètres du compte](https://support.catenda.com/en/articles/6880968-account-page#h_4aa257b72f).
 
-## Afficher l'historique
+## 5. Afficher l'historique
 
 Si vous êtes curieux de savoir si un sujet a changé, vous pouvez afficher l'historique du sujet en cliquant sur le bouton "Afficher l'historique" en bas à droite de la description du sujet.
 
 Voir [cet article](https://support.catenda.com/en/articles/8613038-issue-history) pour savoir ce qu'il est possible de voir dans l'historique d'un sujet sur Catenda Hub.
 
-## Trier
+## 6. Trier
 
 Afficher les commentaires les plus anciens en premier - Par défaut
 
 Afficher les commentaires les plus récents en premier
 
-## Commentaire
+## 7. Commentaire
 
 Le texte dans les commentaires suit les [règles générales de formatage des articles](https://support.catenda.com/en/articles/8430847-formatting-of-posts), avec une différence mineure en ce qui concerne les listes de contrôle.
 
-### Fenêtre contextuelle des pièces jointes
+### 7.1 Fenêtre contextuelle des pièces jointes
 
 Si vous faites un clic gauche sur l'image d'une pièce jointe, vous ouvrez la fenêtre contextuelle de l'image
 
@@ -73,11 +69,7 @@ Cliquez sur télécharger pour télécharger l'image (vous ne pouvez pas faire u
 
 Fermer l'image pop-out en cliquant sur le x en haut à droite, en cliquant sur fermer en bas à droite ou en appuyant sur esc sur le clavier.
 
-Un commentaire peut avoir l'une des 3 pièces jointes suivantes :
-
-**[Image](#h_fb43bacd99) - [Instantanés 2D et 3D](#h_1ba7f8873f) - [Annotation](#h_e98c0964d4)**
-
-### Image
+### 7.2 Image
 
 **Ajouter une image à un commentaire**
 
@@ -95,7 +87,7 @@ L'image qui est jointe au commentaire après que celui-ci a été soumis peut ê
 
 Vous ne pouvez pas modifier ou supprimer une image jointe à un commentaire. Si vous souhaitez supprimer l'image du sujet, vous devez supprimer l'ensemble du commentaire.
 
-### instantanés 2D ou 3D
+### 7.3 instantanés 2D ou 3D
 
 En cliquant sur le bouton plus à côté du champ de commentaire, vous pouvez ajouter un instantané en 2D ou en 3D
 
@@ -113,7 +105,7 @@ Voici à quoi peut ressembler une capture d'écran en 3D. les instantanés 2D co
 
 Cliquez [ici](https://support.catenda.com/en/articles/10345863-snapshots) pour en savoir plus sur la configuration des instantanés
 
-### Annotation
+### 7.4 Annotation
 
 ![](https://downloads.intercomcdn.com/i/o/768543632/3a4f96125c834bc84e579116/image.png?expires=1781092800&signature=6ef8a2efab5bfb1ba3fb5c5a57d32af5c9648902f1fb684d4caadc78ef4b0587&req=cyYvE819m4JdFb4V1XW4gUkKIkZEIiBxGi9KsvmUacjmlyhZMSk%2BXul9y1gn%0ACsnk0EoJsZVwD8VpIxof%2BrhJZg%3D%3D%0A)
 
@@ -138,7 +130,7 @@ Le commentaire d'annotation suit les [règles générales de formatage des messa
 
 L'image qui est jointe au commentaire après que celui-ci a été soumis peut être [extraite](#h_e36d14edc8) pour voir son contenu dans un format plus grand et le télécharger après qu'il a été soumis.
 
-### Nouveau commentaire
+### 7.5 Nouveau commentaire
 
 Si vous ajoutez une pièce jointe à un commentaire et que vous ouvrez la fenêtre de la pièce jointe avant de la soumettre, vous verrez que vous pouvez annoter l'image liée à la pièce jointe.
 
@@ -149,7 +141,7 @@ L'instantané 2D/3D provient du dernier angle de caméra dans la visionneuse 3D/
 ​
 1. La zone de texte située à côté du bouton d'ajout permet d'écrire un commentaire, de mentionner des personnes en tapant @nom ou de créer un lien vers d'autres sujets en tapant #lien.
 
-### Menu hamburger des commentaires
+### 7.6 Menu hamburger des commentaires
 
 **Édition d'un commentaire**
 

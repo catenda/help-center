@@ -2,21 +2,15 @@
 
 > **Note:** The install file for the plugin can be found in [this article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
-The Catenda Revit plugin is a plugin that can be installed for Autodesk Revit.
+The Catenda Revit plugin is a plugin that can be installed for Autodesk Revit. With this plugin you will be able to collaborate on 3D viewpoints, topics and documents with the other members of the construction project
 
-With this plugin you will be able to collaborate on 3D viewpoints, topics and documents with the other members of the construction project
-
-The following topics will be described in this article:
-
-**[Getting started](#h_521a735ab0) - [Topic list](#h_642fa61854) - [Topic details](#h_445d3efa52) - [Upload to Catenda Hub](#h_1e09af8c8f) - [Settings](#h_b02502c589)**
-
-## **Installation**
+## 1. **Installation**
 
 When the Catenda Revit plugin is installed on Windows its installation files will appear in the following folder.
 
 `C:\\ProgramData\\Autodesk\\ApplicationPlugins\\CatendaHub.bundle`
 
-### **Uninstalling**
+### 1.1 **Uninstalling**
 
 To uninstll the plugin go to the following Windows menu:
 
@@ -24,11 +18,9 @@ To uninstll the plugin go to the following Windows menu:
 
 Find Catenda for Autodesk® Revit®  in the list and click on the action menu on the right hand side to uninstall.
 
-## **Opening the plugin window**
+## 2. **Opening the plugin window**
 
-After installing, the Catenda panel can be found in the Add-ins ribbon.
-
-Depending on your ribbon settings the Catenda panel can look somethign like this:
+After installing, the Catenda panel can be found in the Add-ins ribbon. Depending on your ribbon settings the Catenda panel can look somethign like this:
 
 **Full ribbon - Default**
 
@@ -46,49 +38,39 @@ Depending on your ribbon settings the Catenda panel can look somethign like this
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/04-opening-the-plugin-window.png)
 
-### **Topics**
+### 2.1 **Topics**
 
-Click on Topics to open the Catenda Plugin Window to the topics page.
+Click on Topics to open the Catenda Plugin Window to the topics page. If no user is signed in the sign in page is displayed instead.
 
-If no user is signed in the sign in page is displayed instead.
+### 2.2 **Upload IFC**
 
-### **Upload IFC**
+Click on Upload IFC to open the Catenda Plugin Window to the IFC Upload page. If no user is signed in the sign in page is displayed instead.
 
-Click on Upload IFC to open the Catenda Plugin Window to the IFC Upload page.
-
-If no user is signed in the sign in page is displayed instead.
-
-### **Catenda**
+### 2.3 **Catenda**
 
 Click on Catenda to be redirected to [https://hub.catenda.com/](https://hub.catenda.com/) in the default system browser.
 
-## **Signing in**
+## 3. **Signing in**
 
 This is what the plugin window can look like when docked on the right:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/05-signing-in.png)
 
-Log in with your Catenda email address and password.
+Log in with your Catenda email address and password. <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/21-inline-group-a.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/22-inline-group-b.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/23-inline-group-c.png" width="180"/>
 
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/21-inline-group-a.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/22-inline-group-b.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/23-inline-group-c.png" width="180"/>
-
-If you have MFA enabled for your account you will be asked to fill in your MFA code.
-
-Click [here](https://support.catenda.com/en/articles/7891486-sign-in-page) to read more about the sign in page.
+If you have MFA enabled for your account you will be asked to fill in your MFA code. Click [here](https://support.catenda.com/en/articles/7891486-sign-in-page) to read more about the sign in page.
 
 Click on “Allow access” to allow the Revit plugin for Bimsync Arena access your Catenda Hub account.
 
-### **Revoke access**
+### 3.1 **Revoke access**
 
 Access to your Catenda Hub account can be revoked at any time by going to your Catenda Hub [application page](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a) and click on “Revoke access” near “Revit plugin for Bimsync Arena”.
 
-## **Topic List**
+## 4. **Topic List**
 
-After signing in, the main view of the Catenda Hub plugin is opened up.
+After signing in, the main view of the Catenda Hub plugin is opened up. On this page, the main menu to navigate in your Catenda Hub project, topic boards and topics can be found.
 
-On this page, the main menu to navigate in your Catenda Hub project, topic boards and topics can be found.
-
-### **Interface**
+### 4.1 **Interface**
 
 ![Header.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/06-interface.png)
 
@@ -100,13 +82,13 @@ On this page, the main menu to navigate in your Catenda Hub project, topic board
 1. Search and filter the displayed topics
 1. The list of currently filtered topics in the topic board
 
-### **Project and topic board selection**
+### 4.2 **Project and topic board selection**
 
 Selecting a Catenda Hub project will display the list of topic board in this project, allowing you to selected one to display the corresponding topics. It will also save the Catenda Hub project and topic board in your Revit model and open them automatically the next time you open this model.
 
 ![ProjectInfo.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/07-project-and-topic-board-selection.png)
 
-### **Actions**
+### 4.3 **Actions**
 
 The plugin actions can be found towards the top right:
 
@@ -114,7 +96,7 @@ The plugin actions can be found towards the top right:
 
 Click [here](https://support.catenda.com/en/articles/13168755-actions-in-the-catenda-revit-plugin) to read more about the different actions in the Catenda Revit Plugin.
 
-### **Topic selection**
+### 4.4 **Topic selection**
 
 In the topic list, you will find all the main information about an topic:
 
@@ -132,7 +114,7 @@ In the topic list, you will find all the main information about an topic:
 
 You can click on any topic to go to the [topic detail page](#h_445d3efa52).
 
-### **Sort topics**
+### 4.5 **Sort topics**
 
 You can sort the displayed topics to bring he most relevant to you first.
 
@@ -145,7 +127,7 @@ You can sort the displayed topics to bring he most relevant to you first.
 1. Bring the most recent due date first
 1. Bring the oldest due date first
 
-### **Filter topics**
+### 4.6 **Filter topics**
 
 Using the filter bar, you can combine any type of filter to display only the most relevant topics.
 
@@ -169,11 +151,11 @@ You can search for these filters by typing text in the filter bar (1). You can a
 
 ![TextFilter.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/12-filter-topics.png)
 
-## **Topic Details**
+## 5. **Topic Details**
 
 In this view, you can review and edit a specific topic.
 
-### **Interface**
+### 5.1 **Interface**
 
 ![IssueDetailView.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/13-interface.png)
 
@@ -188,7 +170,7 @@ In this view, you can review and edit a specific topic.
 1. Edit the topic labels
 1. The list of comments in the topic
 
-### **Topic properties**
+### 5.2 **Topic properties**
 
 You can edit any property of the topic: Status, type, assignee, requester, due date, labels. Every menu will display a list of available properties. However, you cannot create a new status, type or label directly in the plugin, you will have to use the web interface of Catenda Hub to do that.
 
@@ -204,7 +186,7 @@ You can also type text in the label bar to filter down the list of filters:
 
 ![editLabels.gif](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/16-topic-properties.gif)
 
-### **Comments**
+### 5.3 **Comments**
 
 All comments are displayed below the topic. A comment can contains text, a picture, a snapshot from your Revit current view or a viewpoint.
 
@@ -216,7 +198,7 @@ All comments are displayed below the topic. A comment can contains text, a pictu
 1. The image associated with the comment
 1. The text of the comment
 
-### **Zoom**
+### 5.4 **Zoom**
 
 If the comment contains a viewpoint, you can zoom to this viewpoint. Zoom in will create a new 3D view in your Revit model focused on the same viewpoint.
 
@@ -228,7 +210,7 @@ If the viewpoint has been created from a perspective view, the new 3D view will 
 
 The add-in will create only one perspective view and one orthographic view. After having created them, it will reuse them for any subsequent use of the zoom function. You can change that in the [settings menu](#h_b02502c589). You can also use the settings menu to change the name of these view.
 
-### **Related elements**
+### 5.5 **Related elements**
 
 If the topic contains related elements, the add-in will select them in Revit when you zoom to a viewpoint.
 
@@ -236,7 +218,7 @@ If the topic contains related elements, the add-in will select them in Revit whe
 
 For this function to work, you Revit model must have been exported to IFC with the “Store the IFC GUID in an element parameter after export”. This add the IFCGuid parameter on every object, allowing the plugin to select the related elements.
 
-### **Add comment**
+### 5.6 **Add comment**
 
 You can add comments to an topic by writing in the text box and clicking on Submit.
 
@@ -244,7 +226,7 @@ You can also add a picture from your computer by clicking on the “Plus” butt
 
 ![createComment.gif](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/20-add-comment.gif)
 
-### **Add 3D snapshot**
+### 5.7 **Add 3D snapshot**
 
 You can also add your current Revit view as a viewpoint and a snapshot attached to your comment. Just like any picture, you can annotate the snapshot by clicking on the preview image.
 

@@ -42,9 +42,9 @@ Verschiedene Einstellungen beim Export
 
 ---
 
-## **1. Model Filter**
+## 1. **1. Model Filter**
 
-### Exportieren von Achsen in der IFC
+### 1.1 Exportieren von Achsen in der IFC
 
 Manchmal möchte man die Raster auch exportieren, um sie in Catenda Hub sehen zu können.
 
@@ -54,7 +54,7 @@ Navigieren Sie zum Modellfilter für den IFC-Export und stellen Sie sicher, dass
 
 ---
 
-## **2. Type Mapping**
+## 2. **2. Type Mapping**
 
 Wenn eine IFC exportiert wird, wird allen Elementen des Modells ein IFC-Typ zugewiesen.
 
@@ -64,11 +64,11 @@ Wenn Sie den IFC-Übersetzer ausgewählt haben, den Sie verwenden möchten, kön
 
 Bei der Typzuordnung gibt es hauptsächlich zwei verschiedene Optionen, nach denen Sie Ihre IFC-Typen sortieren können.
 
-### **Element type**
+### 2.1 **Element type**
 
 Jedem Element wird automatisch ein grundlegender IFC-Typ zugewiesen. Sie können den jedem Element zugewiesenen IFC-Typ im Projektmanager und in den Elementeinstellungen auswählen.
 
-### Klassifizierung
+### 2.2 Klassifizierung
 
 Diese Methode ermöglicht eine flexiblere und detailliertere IFC-Typenzuordnung, entsprechend den spezifizierten Klassifizierungsstandards. Zone und Öffnungselemente werden auf einen festen IFC-Typ festgelegt. IFCSpace und IFCOpeningElements.
 
@@ -82,7 +82,7 @@ Mit Geometriekonvertierung für IFC-Export können Sie Ihre Geometrie auf versch
 
 ![](https://downloads.intercomcdn.com/i/o/852256533/6acaa196d2acf7499d9aaafa/image.png?expires=1781092800&signature=477ab462c03abaca08a3a1bb95231c979a16c909f98d569a6e25e90855732436&req=fCUlFMx4mIJcFb4V1XW4gbFA7WWR17Jl6uaRn16tGKO80nJZcAqI0Q8myZSQ%0AUi30%2BZpM7YkT%2Bi5%2FWjhulkJmiA%3D%3D%0A)
 
-### Konvertierung von Archicad-Elementen
+### 3.1 Konvertierung von Archicad-Elementen
 
 Exportieren Sie die Geometrie aller Modellelemente als:
 
@@ -142,7 +142,7 @@ Nur Vermessungspunkt
 
 Mit dieser Option wird der Abstand vom Vermessungspunkt in Archicad zu Ihrem Modell der Abstand von (0,0,0) zu Ihrem Modell in Catenda Hub sein.
 
-### IFC-Schema-bezogene Optionen
+### 3.2 IFC-Schema-bezogene Optionen
 
 Materialerhaltungsmodus (nur IFC2x3)
 
@@ -174,7 +174,7 @@ Wenn Sie also feststellen, dass Ihre Öffnungen nicht durchgeschnitten werden, k
 
 Wenn Sie diese Option aktivieren, wird die Wand als ein einziges Objekt exportiert und nicht als viele dünne zusammengesetzte Objekte.
 
-### Zusammengesetzte Strukturen und komplexe Profile
+### 3.3 Zusammengesetzte Strukturen und komplexe Profile
 
 Komplexe Bauelemente in Teile aufteilen
 
@@ -184,7 +184,7 @@ Wenn Sie diese Option wählen, können Sie keine Auswahl für den Materialerhalt
 
 ---
 
-## **4.** Eigenschaftszuordnung
+## 4. **4.** Eigenschaftszuordnung
 
 In der Eigenschaftszuordnung (Datei > IFC > Interoperabilität > Eigenschaftszuordnung) können Sie wählen, welche Art von IFC-Version Sie exportieren möchten. Es gibt die Standardversion IFC2x3 und die Standardversion IFC4. Sie können auch P-Sets zum Export mit Ihrer IFC hinzufügen. Wenn Sie dies tun, sollten Sie ein Duplikat des von Ihnen gewählten IFC-Schemas erstellen.
 

@@ -2,21 +2,17 @@
 
 > **Note:** **注:**プラグインのインストール ファイルは、[このヘルプ記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
 
-この記事には次の情報が含まれています。
-
-**[インストール](#h_e385b268de)-[Catendaパレット](#h_8f1a4c7878)-[サインイン](#h_1c0212d551)-[プロジェクトリスト](#h_f708fc0419)-[トピックボード](#h_321a0e596b)-[トピック](#h_37dceffce4)**
-
-## **インストール**
+## 1. **インストール**
 
 Catenda ArchicadプラグインをWindowsにインストールすると、インストールファイルが「C:\\Program Files\\Catenda\\Catenda Archicad Connection\\\<Archicad Version>\\Add-On」フォルダに表示され、次回Archicadを開いたとき、のアドオンマネージャで有効になります。
 
 これは、「C:\\Program Files\\Graphisoft\\\<Archicad Version>\\Add-Ons」にあるデフォルトのアドオンフォルダーとは異なることに注意してください。
 
-## **Catendaパレット**
+## 2. **Catendaパレット**
 
 プラグインをインストールすると、上部バーに Catenda メニュー タブが表示されるようになります。
 
-このメニューには、「Catenda Hub Issue Manager パレット」を含む「Catenda Hub Issue Manager」ウィンドウがあります。 このパレットの使用を開始するには、平面図または 3D ビューを開く必要があります。
+このメニューには、「Catenda Hub Issue Manager パレット」を含む「Catenda Hub Issue Manager」ウィンドウがあります。このパレットの使用を開始するには、平面図または 3D ビューを開く必要があります。
 
 パレットでは次のことが可能になります。
 
@@ -24,7 +20,7 @@ Catenda ArchicadプラグインをWindowsにインストールすると、イン
 - トピックを確認・作成する
 - モデルとリビジョンをダウンロード・アップロードする
 
-## **サインイン**
+## 3. **サインイン**
 
 Catenda パレットを開くと、最初にサインイン ページが表示されます。
 
@@ -42,7 +38,7 @@ Catenda アカウントをお持ちでない場合は、右上で無料でサイ
 
 アクセスを許可したくない場合は、ここでいつでもアクセスを取り消すことができます。
 
-### **パスワードのリセット**
+### 3.1 **パスワードのリセット**
 
 パスワードを忘れた場合は、「パスワードを忘れました」をクリックしてリセットできます。
 
@@ -60,13 +56,13 @@ Catenda アカウントをお持ちでない場合は、右上で無料でサイ
 
 サインインに戻るには、右上のサインインをクリックします。
 
-## **プロジェクト一覧**
+## 4. **プロジェクト一覧**
 
 Archicad プラグインを開くと、次のようなプロジェクトのリストが表示されます。
 
 ![](https://downloads.intercomcdn.com/i/o/954655043/5046855c263d8f134ba102ce/image.png?expires=1781092800&signature=55874591c0ce9f51550a72cccdc0d007b48af708fc4e431ed5f310d077858491&req=fSUjEMx7nYVcFb4V1XW4gbyYsL82na2N68r08XRtbqZl%2Bf8eTROeLgH6x0SO%0Ax4MBP1XZdqUMtGhwkPiy9HpW0w%3D%3D%0A)
 
-### **ハンバーガーメニュー**
+### 4.1 **ハンバーガーメニュー**
 
 プロフィール写真の横にあるハンバーガー メニューをクリックすると、次のドロップダウンが開きます。
 
@@ -88,7 +84,7 @@ Catenda プロジェクトからモデルとリビジョンを開く
 
 Catenda アカウントからログアウトします
 
-## **トピックボード**
+## 5. **トピックボード**
 
 プロジェクトをクリックして開くと、プロジェクト内の最初のトピック ボードが開きます。
 
@@ -96,7 +92,7 @@ Catenda アカウントからログアウトします
 
 ![](https://downloads.intercomcdn.com/i/o/954653730/57169ac7a8502bf318f020ac/image.png?expires=1781092800&signature=7026a437cc97f9e35dcf974c09a819ace7128b9a553f271f55600c564331f085&req=fSUjEMx9moJfFb4V1XW4gR23y%2BSEep5dGm%2FI1DEbwUZCzqmwCTzRkDiEEQDO%0AouuguzdNNNeXp3bE0dflkITLjQ%3D%3D%0A)
 
-## **トピック**
+## 6. **トピック**
 
 トピックボード内のトピックをクリックすると、トピックボードが開きます。
 

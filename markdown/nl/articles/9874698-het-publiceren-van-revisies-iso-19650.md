@@ -4,39 +4,35 @@ De ISO 19650 series is een internationale standaard van goede praktijk die het i
 
 Veel belanghebbende in de bouwsector hebben de ISO-19650 aangenomen als de norm om het proces rondt het beoordelen en indienen van documenten in projecten te handhaven.
 
-Deze artikel bevat informatie over de volgende themas:
-
-**[Lifecycle](#h_df11c20404) - [Configuration](#h_4c1abfc510) - [Document tabs](#h_bfed4daf2c) - [Approval settings](#h_058046c316) - [Approval workflow](#h_01c3894c62) - [Disabling](#h_facc7dcaf1) - [Advantages](#h_8a5dec6f25)**
-
-## **Levensgang van een document**
+## 1. **Levensgang van een document**
 
 Volgens de ISO-standaard kan een document vier verschillende statussen hebben;
 
-### 🏗️ **In uitvoering**
+### 1.1 🏗️ **In uitvoering**
 
 Bestanden waar aan gewerkt worden constant overschreven worden in de locale omgeving van de gebruiker. Deze bestanden zijn typisch alleen tot Catenda geüplaod zodat andere gebruikers met de vooruitgang mee kunnen volgen.
 
-### 👥 **Gedeeld**
+### 1.2 👥 **Gedeeld**
 
 Bestanden die klaar zijn om met andre projectleden gedeeld te worden zodat coordinatie en laatste beoordelingen van verschillende vakgebieden en/of specialisten plaats kan nemen. Deze bestanden worden vaak tot Catenda geüpload en naar de respectiefe parteien gestuurd voor beoordeling en goedkeuring.
 
-### 📰 **Gepubliceerd**
+### 1.3 📰 **Gepubliceerd**
 
 Bestanden die gecoordineerd, definitief en geaccepteerd zijn als deel van een contractuele overenkomst. Deze bestanden hebbe een beoordelingsprocess begaan en worden geact om 'klaar voor de volgenda fase' (constructie, overdracht, hoeveelheidsopname, vergunningssafgifte) te zijn.
 
-### 📦 **Gearchiveerd**
+### 1.4 📦 **Gearchiveerd**
 
 De informatie is gebruikt en kan gearchiveerd worden om toegankelijk om daarna nog beschikbaar te blijven indien nodig blijkt te zijn (controle, aanmak van een bestand van uitgevoerde werken, enz.)
 
-### **Documentenstaten - ISO 19650**
+### 1.5 **Documentenstaten - ISO 19650**
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1457954761/09d3f67e8726bc72491f3c44c282/AD_4nXdxhgqhSMUAx3mvWCp_YY0Reke_AusmPHugivHaunwEyvVFnaC5Qs_xDThI3kiGPWYw6psdrUzS2Xa7U4k-HqQGc1ALlZpZyVTpzUivHHj4fvjLWAy_yq7cIvFkz20WsBfLvGcIqQUafYgdYxnVl6hQDpsV?expires=1781092800&signature=67538a17a1214b144879137232c95acddfc5c79c2a0c6b9385f7ece3f3035219&req=dSQiEcB7mYZZWPMW3nq%2BgWc6Am5ozpz%2BHWhrN8Q5T60Lz1OfiEnFagCMhOa%2B%0AUYwwqLzWekwwE%2BZEfzlyeoznaYE%3D%0A)
 
-### **Workflow op Catenda Hub**
+### 1.6 **Workflow op Catenda Hub**
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1457954760/06e15df77601ba3b8be456ce35d3/AD_4nXc-sz_yq5zZbwOV4LCV4zitdSXG7nBIg4EFbjXAXjAINfj0aDYDH27PINzlD-2NnwvpyM2H0mc28NMqEoaURHouvFXQGTdiWnr56HSyfTZGgs98NZVETiEfakzwcWQsQdMq7MIXGppFOe9rF4KaYscZB-U_?expires=1781092800&signature=7120a03415b546b9692150901233df5279805d477c22d5fe0b3c4404211cca27&req=dSQiEcB7mYZZWfMW3nq%2BgS1XyPgjYQqZT3%2BO6oImDDCWDE8w2WUAZDmYCzlh%0AaBb7wlo2cErsEfcr%2BgBwDc8thMI%3D%0A)
 
-## **Status Workflow Configuratie**
+## 2. **Status Workflow Configuratie**
 
 De gedeelde status workflow can in documenteninstellingen geactiveerd en geconfigureerd worden.
 
@@ -66,19 +62,19 @@ Deze status zal geselecteerd zijn in het uploadvenster voor elke documentenuplod
 
 ![](https://downloads.intercomcdn.com/i/o/1178803801/1747b7b8c7d76f3dddbbfe88/image.png?expires=1781092800&signature=e799c7e6ff3facf036b3bc0b95b77a2499257a73273d5e9a8636ea7de9981a68&req=dSEgHsF%2BnolfWPMW3nq%2BgdaXG6x1PMxGkb8PvocbWQ8iVKGQavbXWek5XHyG%0AJozdIomWpNe7xP2s3B0Skh8GVtc%3D%0A)
 
-## **Vertrouwd maar anders**
+## 3. **Vertrouwd maar anders**
 
 Na het activeren van de status worflow zult u twee tabbladen bovenaan de documenten en modellen tabels tevoorschijn zien komen.
 
 <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/1464917266/e776245afbb7264736808e7c7caf/image.png?expires=1744254000&amp;signature=ef282d41c4c863ae5d85ac411f0eb164e49758b4b674642c8c4b5ada447bdc7c&amp;req=dSQhEsB%2FmoNZX%2FMW3Hu4gQN441QB%2BHqMpCnG2c4ri0EBqJHTxmwXvufR7kKC%0AbQ%3D%3D%0A" width="300"/> ----<img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/1464923130/25a7a0dc38bab95b9b4fd8dd802e/image.png?expires=1744254000&amp;signature=e556662bbf8f0f6690e61860446cba25a3dd113341ad73097b2bbdfbcb0669f9&amp;req=dSQhEsB8noBcWfMW3Hu4geR75bdjLlb1FQ2XXsdlWNZd%2FAAOABsVFXLujcke%0A%2FA%3D%3D%0A" width="300"/>
 
-### **Werkruimte**
+### 3.1 **Werkruimte**
 
 Alle uploads van nieuwe revisies zullen hier plaatsnemen.
 
 De laatste gedeelde revisie is hier voor elk document en model getoond.
 
-### **Geupbliceerd**
+### 3.2 **Geupbliceerd**
 
 Een gespiegelde versie van het werkruimte tabblad. Hier is dezelfde mappenstructuur als in de werkruimte te zien.
 
@@ -86,7 +82,7 @@ Alleen documenten en modellen met gepubliceerde revisies zijn hier zichtbaar.
 
 > **Note:** **Let op:** Zie gedeelde revisies in het revisieoverzicht van de documentenpreview, zelfs als u het document vanuit het gepubliceerde tabblad geopend heeft. _Minimumstoegang:_ Gedeelde revisies
 
-### **Nieuwe gedeelde revisies uplaoden**
+### 3.3 **Nieuwe gedeelde revisies uplaoden**
 
 Een revisiestatus zal in het uploadvenster voor elk geuploade bestand zichbaar zijn.
 
@@ -96,7 +92,7 @@ Een revisiestatus zal voor elk bsetnad dat vanuit een gezipt bestand uitgepakt w
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1462398882/26b3027e4465352032feef5b178e/image.png?expires=1781092800&signature=4658f41ef952bb00b62ec66231dfc91fd8524b900c6cd9c0208946e4cf80ce2b&req=dSQhFMp3lYlXW%2FMW3nq%2BgXwFmlZY73mIuW0M8s6imQEoSGO7ZxVrbPhjOLrN%0A5gH7zkjCLz0JOyn1%2FLgRBRB7VDo%3D%0A)
 
-### **Gedeelde revisies publiceren**
+### 3.4 **Gedeelde revisies publiceren**
 
 **Meerdere documenten in de documetnenstructuur**
 
@@ -118,7 +114,7 @@ Een publiceer actie zal toegankelijk zijn in het bestaande element actiemenu van
 
 _Minimumstoegang:_ Gedeelde revisies
 
-### **Toegangscontrole**
+### 3.5 **Toegangscontrole**
 
 Na het activeren van de statusworkflow zullen rechts van de toegangskolom in het toegangscontrolevenster van een map of document twee nieuwe kolommen zichtbaar worden.
 
@@ -131,7 +127,7 @@ In de onderstaande tabel wordt uitgelegd hoe de vinkjes de gebruikerservaring vo
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa; width: 227px;"><h1 id="h_be433920ed"><b>Gedeelde en gepubliceerde toegang</b></h1></td><td style="background-color: #e3e7fa; width: 209px;"><p></p><h2 class="intercom-align-center" id="h_face4740a8"><b>Lees</b></h2></td><td style="background-color: #e3e7fa;"><p></p><h2 class="intercom-align-center" id="h_70770f0a17"><b>Schrijf</b></h2></td></tr><tr><td style="width: 227px;"><h2 id="h_66bc51d437">Kan "Bekijk gedeelde revisies" aanvinken</h2></td><td style="width: 209px;"><p class="intercom-align-center">Kan aanvinken. Niet aangevinkt als standaard.</p></td><td><p class="intercom-align-center">Altijd aangevinkt</p></td></tr><tr><td style="background-color: #e8e8e8; width: 227px;"><h2 id="h_0eae4cca03">Kan "Kan publiceren" aanvinken</h2></td><td style="background-color: #e8e8e8; width: 209px;"><p class="intercom-align-center">Nooit aangevinkt</p></td><td style="background-color: #e8e8e8;"><p class="intercom-align-center">Kan gewijzigd worden. Standaard aangevinkt </p></td></tr><tr><td style="width: 227px;"><h2 id="h_d74a4b645b">Documenten bekijken</h2></td><td style="width: 209px;"><p class="intercom-align-center">Documenten met alleen gedeelde revisies zullen zichtbaar zijn als "Bekijk gedeelde revisies" aangevinkt is</p></td><td><p class="intercom-align-center">Beide docmenten met gedeelde en documeten met gepubliceerd revisies zijn zichtbaar.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 227px;"><h2 id="h_9a05589a4f">Bekijk gedeelde revisies in documenteninfo</h2></td><td style="background-color: #e8e8e8; width: 209px;"><p class="intercom-align-center">Gedeelde revisies zijn alleen zichtbaar als "bekijk gedeelde revisies" aangevinkt is</p></td><td style="background-color: #e8e8e8;"><p class="intercom-align-center">Beide gedeelde en gepubliceerde revisies zijn zichtbaar</p></td></tr><tr><td style="width: 227px;"><h2 id="h_f3b0396a29">Wijzig en bekijk gedeelde revisie statussen</h2></td><td style="width: 209px;"><p class="intercom-align-center">Kunnen bekeken worden als "bekijk gedeelde revisie" aangevinkt is maar kunne niet gewijzigd worden</p></td><td><p class="intercom-align-center">x</p></td></tr><tr><td style="background-color: #e8e8e8; width: 227px;"><h2 id="h_332c50e2eb">Wijzig en bekijk gedeelde revisie statussen</h2></td><td style="background-color: #e8e8e8; width: 209px;"><p class="intercom-align-center">Kunnen alleen bekeken worden</p></td><td style="background-color: #e8e8e8;"><p class="intercom-align-center">Kunnen gewijzigd worden als "Kan publiceren" aangevinkt is. Kunnen ander allen bekeken worden.</p></td></tr><tr><td style="width: 227px;"><h2 id="h_2e170af730">Documenten pubiceren</h2></td><td style="width: 209px;"><p class="intercom-align-center">-</p></td><td><p class="intercom-align-center">Kan publicren als "Kan publiceren" is aangevinkt</p></td></tr></tbody></table></div>
 
-### **Grote en kleine revisienummers**
+### 3.6 **Grote en kleine revisienummers**
 
 Gedeelde revisies hebben een kleine revisienummer (bijv. #0.1, #2.3, #4.1)
 
@@ -139,7 +135,7 @@ Gepubliceerde revisies hebben een grote revisienummer ( #1, #2, #3, enz.)
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1462398887/79dede1e4d36952772d30611cbf4/image.png?expires=1781092800&signature=672419276d62b3affc06789e9ec91e63e2d4d95fcc132e720cb7a66f82784315&req=dSQhFMp3lYlXXvMW3nq%2BgQVgEthNoXuZZUftSeAsbG4UIZYQPl72cIEl%2FKyp%0AJBnvuTbYXaAqZiQFvrwmUh5qcDw%3D%0A)
 
-### **Dcumentenweergave openen**
+### 3.7 **Dcumentenweergave openen**
 
 In de documentenstructuur zult u de meest recentelijke revisie waar u toegang tot hebt zien. Klik op de naam van een document om de documentenweergave van de getoonde revisie te openen.
 
@@ -159,9 +155,9 @@ Gepubliceerde revisie - _Minimumstoegang:_ Lees
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1462398892/0d70d5c5f54ec607f74437c42cb9/image.png?expires=1781092800&signature=14c80a152f32ea13a5b8d30385e86d6bd334fc7bf555a1debd23cda7bf4ec946&req=dSQhFMp3lYlWW%2FMW3nq%2BgftEApPZ%2BEvxt4G6NVukANxbEBU7QNTOp%2BE0ABrn%0AV8qMFva7E08xchfqQtTLVkw0avs%3D%0A)
 
-### 
+### 3.8 
 
-### **Revisie informatie**
+### 3.9 **Revisie informatie**
 
 Kies één document of open de documentenweergave door op de naam van het document te klikken. Informatie over de huidige revisie zal in het [rechter informatiemenu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision) zichtbaar zijn.
 
@@ -183,11 +179,11 @@ Een groene link tussen een gepubliceerde en gedeelde revisie duid aan welke gede
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1462398888/a464d8d49300554a028016718d65/image.png?expires=1781092800&signature=242e72fdf3a2504bbfce523b074764f0afaa159b0d65de78443be83dba849353&req=dSQhFMp3lYlXUfMW3nq%2BgbAeDhJLUllw%2F8Z0sAvRcKX7UdY9RPGwZtC2Fmxw%0ApjqIG65GNMnElaKJ4qiTY5gACOQ%3D%0A)
 
-### **Gedeelde en gepubliceerde revisies in Catenda site**
+### 3.10 **Gedeelde en gepubliceerde revisies in Catenda site**
 
 Alleen gepubliceerde revisies zijn in Catenda Site zichtbaar.
 
-## **Toegang tot het instellen van statussen**
+## 4. **Toegang tot het instellen van statussen**
 
 1. Toegang tot het wijzigen van de documentenstatus instellingen kan vanuit de [projectinstellingen pagina](https://support.catenda.com/en/articles/4670273-project-settings-page) ingesteld wroden:
 
@@ -201,7 +197,7 @@ Alleen gepubliceerde revisies zijn in Catenda Site zichtbaar.
 
     <div class="intercom-container"><img height="532" src="https://downloads.intercomcdn.com/i/o/areracg3/1211362235/ff7ea475a572749cba4247518058/image.png?expires=1781092800&amp;signature=ed641b32ce2b29ed26475385e36b8015832ce0fcc27dc7dd50942cd3942ef84f&amp;req=dSImF8p4n4NcXPMW3nq%2Bgcv5xnTzfFrfmLPu%2Fh%2FbaP0DptD%2Bm8oeC8vRpvPF%0AzFKQmL79JK7RcPLygqoKQ0CoqM4%3D%0A" style="height: auto;" width="1905"/></div><div class="intercom-container"><img height="620" src="https://downloads.intercomcdn.com/i/o/areracg3/1211362345/59c0a70c13879eacc2b08c0db623/image.png?expires=1781092800&amp;signature=9c4b2b7d82aee40c7c1baccfdf0c17735a34889d51b5680e5824f7502d8f4289&amp;req=dSImF8p4n4JbXPMW3nq%2BgQL5wc3pBXVaAiE%2FNNg7wwK7Y9rNWq0G7M1E0M6c%0AgGNJ2NG26plHpZW4oC7Y%2F2YpO2M%3D%0A" style="height: auto;" width="945"/></div>
 
-## **Beoordelingsworkflow**
+## 5. **Beoordelingsworkflow**
 
 1. Een beoordelingsaanvraag nomineert een uitgever (persoon die verantwoordelijk is voor het nemen van de uiteindelijke beslissing over de publicatie), en een of meerdere doornemers die verantwoordelijk zijn voor het valideren (of niet) van de reeks met documenten.
 1. Elke doornemener zal beslissen of het gedeelde document goedgekeurt, goedgekeurt met commentaar of afgewezen is.
@@ -212,13 +208,13 @@ Een gedetaileerde demonstratie van deze stappen zijn in de volgende hanleiding t
 
 [YouTube-video](https://www.youtube.com/embed/lDWKXWTtegU?rel=0)
 
-## **De status workflow deactiveren**
+## 6. **De status workflow deactiveren**
 
 Als u de staus worflow uit wilt zetten kunt u dit doen door de schakelaar in [documenteninstellingen](https://support.catenda.com/en/articles/7831371-document-settings) uit te schakelen. De gepubliceerde en gedeelde tabbladen in het documenten gedeelte zullen dan verdwijnen.
 
 Revisies die geüpload zijn zonder dat de status workflow aan staat zullen als gepubliceerde revisies worden geüpload (alhoewel dit niet zichtbaar is) Bij het activeren van de status workflow zal je deze revisies dan als gepubliceerde revisies zien.
 
-## **Voordelen met het gebruiken van de status workflow**
+## 7. **Voordelen met het gebruiken van de status workflow**
 
 - Het gepubliceerde tabblad dient als een aangewezen gebied vor contractuele documenten. Projectleden kunnen makkelijk goedgekeurde documenten vinden.
 - Bestanden zijn gevalideerd voor ze gepubliceerd worden.

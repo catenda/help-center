@@ -6,7 +6,7 @@ Die folgenden Themen werden in diesem Artikel beschrieben:
 
 Optimierung - Proxies and firewall - Ports
 
-## Hardware-Empfehlung:
+## 1. Hardware-Empfehlung:
 
 Für reguläre Projekte (bis zu LOD 300):
 
@@ -18,15 +18,15 @@ For Dense Geometry projects (LOD 400 and above):
 
 [LOD Definition](https://www.gsa.gov/real-estate/design-and-construction/3d4d-building-information-modeling/bim-software-guidelines/document-guides/level-of-detail)
 
-### Dedizierter Grafikprozessor vs. integrierter Grafikprozessor
+### 1.1 Dedizierter Grafikprozessor vs. integrierter Grafikprozessor
 
 Vergewissern Sie sich, dass Sie den dedizierten Grafikprozessor Ihres Systems und nicht den integrierten Grafikprozessor verwenden. Unter Windows 10 können Sie sicherstellen, dass Sie den dedizierten Grafikprozessor verwenden, indem Sie [diese](https://superuser.com/questions/1439471/how-can-i-force-my-dedicated-gpu-to-handle-all-applications-or-disable-my-integr#:~:text=use%20these%20steps%3A-,Open%20Settings.,-Click%20on%20System) Schritte ausführen.
 
-## Optimierung des 3D-Viewers:
+## 2. Optimierung des 3D-Viewers:
 
 Obwohl Catenda Hub gut optimiert ist und die meisten Modelle ausführen kann, möchten sich einige Benutzer so gut wie möglich auf den Erfolg vorbereiten. Im Folgenden finden Sie daher einige Strategien, mit denen Sie Ihren Arbeitsablauf in Catenda Hub optimieren können:
 
-### Viele Objekte:
+### 2.1 Viele Objekte:
 
 Wenn weniger Modelle geladen werden, bedeutet dies natürlich auch weniger Objekte und damit eine bessere Leistung.
 
@@ -34,15 +34,15 @@ Die Aktivierung des inkrementellen Renderings beschleunigt das Drehen um Modelle
 
 Als letzten Schritt können Sie eine Abfrage des Bereichs machen, in dem Sie arbeiten. Wenn Sie einen Teil des Modells abtrennen, befinden sich die Objekte normalerweise noch im Speicher und sind nur ausgeblendet; mit einer Abfrage werden diese Objekte vollständig entfernt, was die Arbeit mit dem Modell erleichtert. Beachten Sie, dass Sie bei Abfragen keine Eigenschaftsbibliotheken verwenden können, da nicht alle Objekte geladen werden.
 
-### Punktwolken
+### 2.2 Punktwolken
 
 Wenn Sie eine feste Punktgröße verwenden, kann es sein, dass Sie eine niedrige Bildwiederholrate haben, wenn viele Punkte geladen wurden. Es kann auch vorkommen, dass das Laden von Punkten länger dauert, wenn das Speicherbudget Ihres Systems erreicht ist. Die Punkte, die sich am nächsten zur Kamera befinden, werden zuerst geladen. Wenn Sie also Punkte an einer bestimmten Stelle laden möchten, ist es besser, zu dieser Position zu navigieren und dann die Punktwolke zu aktivieren, damit die Punkte dort zuerst geladen werden.
 
 Um zu verhindern, dass das Speicherlimit erreicht wird und die Bildwiederholrate sinkt, können Sie das Punktbudget verringern, damit weniger Punkte geladen werden.
 
-## Browser-Einstellungen
+## 3. Browser-Einstellungen
 
-### Systemanforderungen:
+### 3.1 Systemanforderungen:
 
 Catenda Hub ist in verschiedenen Browsern verfügbar.
 
@@ -56,7 +56,7 @@ Safari:
 
 _Opera:_ [https://www.opera.com/download/requirements](https://www.opera.com/download/requirements) _Vivaldi:_ [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
 
-### Hardware-Beschleunigung
+### 3.2 Hardware-Beschleunigung
 
 Vergewissern Sie sich, dass Sie die Hardware-Beschleunigung für die verschiedenen Browser verwenden, die Sie hier finden:
 
@@ -70,7 +70,7 @@ _Opera:_ [https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/](http
 
 _Vivaldi:_ [https://forum.vivaldi.net/topic/1207/hardware-acceleration](https://forum.vivaldi.net/topic/1207/hardware-acceleration)
 
-### Externe Faktoren
+### 3.3 Externe Faktoren
 
 Bitte prüfen Sie, ob Sie Browser-Erweiterungen oder andere Programme verwenden, die Ihre Catenda Hub-Erfahrung verlangsamen könnten.
 
@@ -80,7 +80,7 @@ Bester Browser nach Speicherverbrauch unter Windows:
 1. Chrome
 1. Microsoft Edge
 
-### **Cookies**
+### 3.4 **Cookies**
 
 Anhand der in den Cookies gespeicherten Daten kann Ihr Browser erkennen, ob Sie angemeldet sind und welche Präferenzen Sie in den Catenda-Projekten haben. Einige Einstellungen können sich von Projekt zu Projekt unterscheiden, während andere für alle Projekte gleich sind. Wenn Sie z.B. das Filtermenü in einem Tab schließen und dann dieselbe Seite in einem anderen Tab aktualisieren, wird das Filtermenü auch in diesem Tab geschlossen.
 
@@ -100,7 +100,7 @@ So können Ihre Standortdateneinstellungen aussehen:
 
 Um Catenda Hub zu nutzen, müssen Sie zumindest die Speicherung von Daten für hub.catenda.com während Ihrer Sitzung zulassen. Wenn Sie sich dafür entscheiden, Daten beim Schließen aller Fenster zu löschen, werden Ihre Daten bei jeder Nutzung von Catenda zurückgesetzt. Wenn Sie Ihre Daten bei jedem Schließen aller Fenster löschen, werden Ihre Einstellungen jedes Mal nach dem Schließen aller Fenster Ihres Browsers zurückgesetzt.
 
-## Geschwindigkeit des Netzes
+## 4. Geschwindigkeit des Netzes
 
 Kontrollieren Sie die Qualität Ihres Netzwerks, so dass das Verhältnis zwischen Download und Upload
 
@@ -110,11 +110,11 @@ etwa 1:10 oder mehr beträgt.
 
 (dies ist ein Beispiel, keine tatsächliche Anforderung)
 
-## Proxies und Firewall:
+## 5. Proxies und Firewall:
 
 Benutzer, die auf Catenda Hub hinter einer Firewall, einem Proxy oder einem anderen Vermittler zugreifen, benötigen Zugang zu den folgenden Domänen und Ports, damit die Anwendung ordnungsgemäß funktioniert.
 
-### Domains:
+### 5.1 Domains:
 
 (`\*` means DNS wildcard and `.` is a domain level separator, don't treat the below as regexes).
 
@@ -171,7 +171,7 @@ Wenn Sie Catenda Hub nur über eines unserer Plugins nutzen wollen, sind dies di
         - `https://bcf.bimsync.com/`
         - `https://opencde.bimsync.com/`
 
-## **Ports:**
+## 6. **Ports:**
 
 **80:** Dieser Port ist optional, wird aber für eine optimale Benutzerfreundlichkeit im Browser empfohlen. Protokoll: TCP (nur für hub.catenda.com und www.hub.catenda.com)
 

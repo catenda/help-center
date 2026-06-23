@@ -15,11 +15,11 @@ Catenda Hub add-in for Autodesk® NavisWorks® er det perfekte verktøyet for pr
 - Tilordne saker til andre prosjekt medlemmer
 - Endre sak status og andre egenskaper
 
-## Cloud-based Collaboration
+## 1. Cloud-based Collaboration
 
 Catenda Hub gir din konstruksjonsdata liv i et cloud-basert samarbeids platform som strekker seg over hele bygningens livssyklus. Catenda Hub behandler din prosjekt informasjon fra oppstart av prosjektering til overlevering og utover, forsikrer data og kunnskapsbevaring på tvers av alle prosjekt faser.
 
-## Åpne standarder
+## 2. Åpne standarder
 
 Catenda Hub er et BIM samarbeidsverktøy som støtter alle buildingSMART standarder (IFC, bSDD, BCF, COBie). Det kommer med en rekke APIer for lett implementering av ditt eget programvare.
 

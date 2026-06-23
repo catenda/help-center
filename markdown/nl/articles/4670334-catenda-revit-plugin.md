@@ -8,7 +8,7 @@
 
 [Download link](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)
 
-## Aan de slag
+## 1. Aan de slag
 
 Na het installeren van de plugin, open een Revit model en klik op de Catenda knop in de Add-Ins.
 
@@ -22,11 +22,11 @@ Klik op "Allow access" om de Revit add-in toegang tot uw Catend account te geven
 
 U kunt de toegang tot uw Catenda account op elk moment verwijderen door naar uw Catenda Applicatie menu te gaan en op "Trek toegang terug" bij "Revit plugin for Catenda Hub" te klikken.
 
-## Issue Lijst
+## 2. Issue Lijst
 
 Op dit menu zult u het hoofdmenu vinden. Hiermee kunt u uw Catenda project, Issueboards en issues navigeren.
 
-### Interface
+### 2.1 Interface
 
 ![Header.png](https://catenda-as.intercom-attachments-1.com/i/o/271057390/4c89286cb715f52e3d783b6c/Header.png?expires=1781092800&signature=398d9921638cb23a9d50c7799d1535c1416647367ab528baff78db4609a2db32&req=dicmFsx5nohfFb4V1XW4gdJZzGffSByllQENCKlZyob%2BST4NNuZ5cUksJz12%0AkCAA%2F3Kfd2Td0zxjhk75Iy1JGg%3D%3D%0A)
 
@@ -38,13 +38,13 @@ Op dit menu zult u het hoofdmenu vinden. Hiermee kunt u uw Catenda project, Issu
 1. Zoek en filter de weergave issues
 1. De lijst van momenteel gefilterde issues in het issueboard
 
-### Project en issue board selectie
+### 2.2 Project en issue board selectie
 
 Als een Catenda project geselecteerd is zal de lijst van isssueboards in dit project worden weergaven, wat het mogelijk maakt om er een te selecteren en de overeenkomstige issues te weergeven. Het zal ook het Catenda project en issueboard in uw Revit model opslaan en deze automatisch openen bij de volgende keer dat u dit model opent.
 
 ![ProjectInfo.png](https://catenda-as.intercom-attachments-1.com/i/o/271057405/d5c967a0ac3f187ed30e592e/ProjectInfo.png?expires=1781092800&signature=386793ccce6b13fc42734e390919e84f4deae21c7108c6295a15d81514bf3e62&req=dicmFsx5mYFaFb4V1XW4gRm1PmqxAGtl3%2B%2FHwntEbjzXIM38AKKVyKa%2F6w2%2B%0AYYuDnmzT7GAy081dJNb9XwINjA%3D%3D%0A)
 
-### Catend Add-in Menu
+### 2.3 Catend Add-in Menu
 
 ![Menu.png](https://catenda-as.intercom-attachments-1.com/i/o/271057418/ee944c802a6309a74f33db9b/Menu.png?expires=1781092800&signature=c89e8311ef022c706f61f0e57803e273c0ac358066e60f8784ba96c7f2a0e9e4&req=dicmFsx5mYBXFb4V1XW4gQzKBuzsr2CyN%2Fnh2PIwIqVLxc0xU6FqznGgZL7M%0AuAbb1OQ1WNOyULgSw5XMNMLTRA%3D%3D%0A)
 
@@ -53,7 +53,7 @@ Als een Catenda project geselecteerd is zal de lijst van isssueboards in dit pro
 1. Open uw [Catenda account](https://bimsync.com/account/profile) pagina in uw standaardbrowser
 1. Log uit uw Catenda account uit
 
-### Issue selectie
+### 2.4 Issue selectie
 
 In de issue lijst zal u alle hoofdinformatie over een issue vinden:
 
@@ -71,7 +71,7 @@ In de issue lijst zal u alle hoofdinformatie over een issue vinden:
 
 U kunt op elk issue klikken om naar de issue detail menu te gaan.
 
-### Sorteer issues
+### 2.5 Sorteer issues
 
 I kunt de weergaven issues sorteren om het meest relevante issue naar voren te brengen.
 
@@ -85,7 +85,7 @@ I kunt de weergaven issues sorteren om het meest relevante issue naar voren te b
 1. Breng de meest recentelijke einddatum naar voren
 1. Breng de oudste einddatum naar voren
 
-### Filter issues
+### 2.6 Filter issues
 
 Bij het gebruik maken van de filter bar kunt u elk type filter combineren om de meest relevante issues te weergeven.
 
@@ -109,11 +109,11 @@ U kunt deze filters zoeken door tekst in de zoek bar te typen (1). U kunt hier o
 
 ![TextFilter.png](https://catenda-as.intercom-attachments-1.com/i/o/271057480/2be177ecffac2997cc141fdc/TextFilter.png?expires=1781092800&signature=2386db399784ae98ddb528d6cd0deaa45a2398b14e54910c611fb93379e55396&req=dicmFsx5mYlfFb4V1XW4gSM6SuMG1ZK5apozzDNWfyuC3uP1OUqEeVPZ69RH%0AGj5bgz6enFyjJ7wxdITVLa0wMg%3D%3D%0A)
 
-## Issue Details
+## 3. Issue Details
 
 In dit menu kunt u een specifiek issue beoordelen en bewerken.
 
-### Interface
+### 3.1 Interface
 
 ![IssueDetailView.png](https://catenda-as.intercom-attachments-1.com/i/o/271057491/79afbc3ef7ce0c15873df501/IssueDetailView.png?expires=1781092800&signature=f2e7442fee9ae413f8eb95409559531f1aaca167f4eabb699a9e9d56246fff4b&req=dicmFsx5mYheFb4V1XW4gSFXI3%2BvDPw6wgPRIZvJKvxvthS00%2FyXss67f8M9%0ARYrGyKVnqF6eLS9gS7AXZUqrfg%3D%3D%0A)
 
@@ -128,7 +128,7 @@ In dit menu kunt u een specifiek issue beoordelen en bewerken.
 1. Bewerk de issue labels
 1. De lijst van commentaren in het issue
 
-### Issue eigenschappen
+### 3.2 Issue eigenschappen
 
 U kunt elke eigenschap van het issue veranderen: Status, type, toegewezen aan, aangevraagd door, vervaldatum, labels. Elk menu zal een lijst met toegankelijke eigenschappen weergeven. U kunt echter geen nieuwer status, type of label rechtstreeks vanuit de plugin aanmaken. Hier voor zult u de webpagina interface van Catenda Hub moeten gebruiken.
 
@@ -144,7 +144,7 @@ U kunt ook tekst in de label balk typen om de lijst met filters te filtreren:
 
 ![editLabels.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057525/66fb261901258f426d78ed07/editLabels.gif?expires=1781092800&signature=ece9633dc25d334ac0861298acf82cfa9f639d524271e942f7905ceec3da5655&req=dicmFsx5mINaFb4V1XW4ga5g5rPdNhQoS6XvU%2BWN1wgNas4OMzwmmPHNXaA4%0A3vf35gsrXfVMDKaYVqGZAAbLyQ%3D%3D%0A)
 
-### Commentaren
+### 3.3 Commentaren
 
 Alle commentaren zijn weergaven onder het issue. Een commentaar kan tekst, een foto, een snapshot van uw Revit current view of een viewpoint bevatten.
 
@@ -156,7 +156,7 @@ Alle commentaren zijn weergaven onder het issue. Een commentaar kan tekst, een f
 1. De foto die bij het commentaar hoort.
 1. De tekst van het commentaar
 
-### Zoom
+### 3.4 Zoom
 
 Als het commentaar een viewpoint inhoud kunt u naar dit viewpoint zoomen. Zoom in zal een nieuw 3D view in uw Revit model maken dat gefocust is op het zelfde viewpoint.
 
@@ -168,7 +168,7 @@ Als het viewpoint van een perspectief view gemaakt is zal het nieuwe 3D view zij
 
 De add-in zal alleen een perspectief view en een orthografisch view aanmaken. Na deze aangemaakt te hebben zal het deze views hergebruiken voor elk vervolgend gebruik van de zoom functie. U kunt dit veranderen in het [settings menu](#h_d8f68b7047).U kunt ook het settings menu gebruiken om de naam van deze views te veranderen.
 
-### Gerelateerde elementen
+### 3.5 Gerelateerde elementen
 
 Als het issue gerelateerde elementen bevat zal de add-in die selecteren in Revit als u naar een viewpoint zoomt.
 
@@ -176,7 +176,7 @@ Als het issue gerelateerde elementen bevat zal de add-in die selecteren in Revit
 
 Om deze functie te laten werken moet uw Revit model zijn exporteert ge zijn via IFC met de “Store the IFC GUID in an element parameter after export” setting. Dit legt de IFCGuid parameter toe tot elk object wat er voor zorgt dat de plugin gerelateerde elementen kan selecteren.
 
-### Commentaar toevoegen
+### 3.6 Commentaar toevoegen
 
 U kunt commentaren toevoegen bij een issue door tekst in de tekstbalk te schrijven en op Submit te klikken.
 
@@ -184,13 +184,13 @@ U kunt ook een foto van uw computer toevoegen door op de "Plus" knop te drukken.
 
 ![createComment.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057571/f8f1dc5e036c662975947091/createComment.gif?expires=1781092800&signature=68bce4ffbe99bef48e57e2f1fd1b9bf9bde107721eb4a337726692cec11c8bdb&req=dicmFsx5mIZeFb4V1XW4gZKf2ehIb4n%2FwGDxr6nuV%2F6fsbU1Y1R3tv6shUx9%0ATTe5DUj7214%2BrSRyVUcIT6Wz1w%3D%3D%0A)
 
-### Een 3D snapshot toevoegen
+### 3.7 Een 3D snapshot toevoegen
 
 U kunt uw huidige Revit view ook als viewpoint toevoegen en als snapshot als bijlage bij uw commentaar. Net zoals het bijleggen van een foto kunt u deze annoteren door op de vertoonde foto te klikken.
 
 Als de IFCGuid parameter aanwezig is zullen geselecteerde elementen in Revit tot uw issue worden toegevoegd als gerelateerde elementen.
 
-## Uploaden naar Catenda Hub
+## 4. Uploaden naar Catenda Hub
 
 U kunt uw huidige Revit model direct naar Catenda Hub uploaden als een IFC bestand.
 
@@ -207,7 +207,7 @@ Na het openen van het upload menu:
 selectedConfig.Name = "<catenda Setup>"; selectedConfig.IFCVersion = IFCVersion.IFC2x3CV2; selectedConfig.SpaceBoundaries = 1; selectedConfig.ActivePhaseId = ElementId.InvalidElementId; selectedConfig.ExportBaseQuantities = true; selectedConfig.SplitWallsAndColumns = false; selectedConfig.VisibleElementsOfCurrentView = false; selectedConfig.Use2DRoomBoundaryForVolume = false; selectedConfig.UseFamilyAndTypeNameForReference = true; selectedConfig.ExportInternalRevitPropertySets = true; selectedConfig.ExportIFCCommonPropertySets = true; selectedConfig.Export2DElements = false; selectedConfig.ExportPartsAsBuildingElements = true; selectedConfig.ExportBoundingBox = false; selectedConfig.ExportSolidModelRep = false; selectedConfig.ExportSchedulesAsPsets = false; selectedConfig.ExportUserDefinedPsets = false; selectedConfig.ExportUserDefinedPsetsFileName = ""; selectedConfig.ExportLinkedFiles = false; selectedConfig.IncludeSiteElevation = true; selectedConfig.UseActiveViewGeometry = false; selectedConfig.ExportSpecificSchedules = false; selectedConfig.TessellationLevelOfDetail = 0; selectedConfig.StoreIFCGUID = true; selectedConfig.ExportRoomsInView = true;
 ```
 
-## Settings
+## 5. Settings
 
 Het settings menu laat u veranderen hoe de plugin een 3D view aanmaakt bij gebruik van de [Zoom functie](#h_e210e8a1e5).
 

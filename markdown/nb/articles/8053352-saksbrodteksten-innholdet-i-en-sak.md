@@ -20,15 +20,11 @@ Klikke på informasjonsikonet til i saksbanneret for å utvidde høyre informasj
 
 Sakskroppen beskrevet i denne artikkelen finnes under saksbanneret og til venstre for informasjonspanelet.
 
-Denne artikkelen inneholder informasjon om følgende temaer:
-
-**[Fremdriftslinje](#h_4ad2e6e719) - [Beskrivelse](#h_3fd5e42ba2) - [Vis historikk](#h_c6af9b6536) - [Sortering](#h_8804455a91) - [Kommenter](#h_8197738e21)**
-
 Dette er hvordan sakskroppen kan se ut som:
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/2316252889/47a1caebe7af96d4a7cf2889a3df/image.png?expires=1781092800&signature=04f14479f6c886ddd53a1b65ffdde27f609152c6f7e666188e53fb97765a8961&req=diMmEMt7n4lXUPMW3nq%2BgR5xCwxYmammp2IayEiuEfonYESAFlf%2FFKl5X5YQ%0A4GQAH9a0XaRKnttHaK8nLER3VrA%3D%0A)
 
-## **Fremdriftslinje**
+## 1. **Fremdriftslinje**
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1277387429/854b594aa1667c300a8934319dac/image.png?expires=1781092800&signature=d492339d0bb7412223de9f52879a938fc6eb1cdd0509be8a1c8fde8c4584e317&req=dSIgEcp2moVdUPMW3nq%2BgQHKdxcdSiJl%2BHa%2FLhwpuNxlnlmfBAcEdz68morY%0AOnmJLu75iOmbLBHejOJDQzVKv88%3D%0A)
 
@@ -36,11 +32,11 @@ Fremdrifts linjen viser fremgang av de avsjekkede boksene og fremgang på avklar
 
 For et kort videokurs om om sjekklister, se [her](https://support.catenda.com/en/articles/5036461-check-lists-within-issues).
 
-## **Beskrivelse**
+## 2. **Beskrivelse**
 
 Saksbeskrivelsen følger generelle [formateringsregler for innlegg](https://support.catenda.com/nb/articles/8430847-formatering-av-innlegg).
 
-### **Rediger beskrivelse**
+### 2.1 **Rediger beskrivelse**
 
 Klikk på blyanten øverst til høyre av saksinnholdet for å redigere beskrivelsen.
 
@@ -50,27 +46,27 @@ For mer informasjon om formateringsvalg rediger beskrivelsen og klikk på spørs
 
 _Tilgang påkrevd:_ Skrivetilgang til sakslisten
 
-### **Opprettet av**
+### 2.2 **Opprettet av**
 
 Oppretteren til saken og tidspunktet den ble opprettet. For å få et mer spesifikt tidspunkt, gå til [kontoinnstillinger](https://support.catenda.com/nb/articles/6880968-konto-siden#h_c5967b65d3).
 
-## **Vis historikk**
+## 3. **Vis historikk**
 
 Hvis du noen gang lurer på om en sak har endret seg kan du vise historikken til saken ved å klikke på vis historikk knappen nederst til høyre av saksbeskrivelsen.
 
 Se [denne artikkelen](https://support.catenda.com/en/articles/8613038-topic-history) for hvilke typer historikk som er mulig å finne igjen på Catenda Hub.
 
-## **Sorter kommentarer**
+## 4. **Sorter kommentarer**
 
 Vis eldste kommentar først - _Standard_
 
 Vis nyeste kommentar først
 
-## **Kommentar**
+## 5. **Kommentar**
 
 Tekst i kommentarer følger [generelle regler for formatering av innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts) men er litt forskjellig når det kommer til sjekklister.
 
-### **Uthev vedlegg**
+### 5.1 **Uthev vedlegg**
 
 Om du klikker på bildet til et vedlegg uthever du ut bildet.
 
@@ -84,11 +80,7 @@ Fest det uthevede bildet med tegnestift-ikonet øverst til høyre for å beholde
 
 Lukk det uthevede bildet ved å klikke på x øverst til høyre, klikk på lukk knappen nederst til høyre eller trykk ESC-knappen på tastaturet.
 
-Du vil finne følgende innhold i et kommentar:
-
-**[Vedlegg/Bilde](#h_a4a5754163) - [Vedlegg/2D-3D](#h_4ba127273d) - [Vedlegg/Anmerkning](#h_0f7d140b8e) - [Nytt kommentar](#h_c5367730bc) - [Aksjonsmeny](#h_f120f6d971)**
-
-### **Legge ved et bilde**
+### 5.2 **Legge ved et bilde**
 
 **Legge til et bilde i en kommentar**
 
@@ -112,7 +104,7 @@ Du kan da se innholdet til bilde i et større format og laste det ned etter inns
 
 Det er bare mulig å slette bildet som ligger vedlagt i en kommentar ved å slette hele kommentaren.
 
-### **Legge ved et 2D- eller 3D-øyeblikksbilde**
+### 5.3 **Legge ved et 2D- eller 3D-øyeblikksbilde**
 
 Ved å klikke på pluss knappen ved siden av kommentarfletet kan du legge til et 2D eller 3D snapshot.
 
@@ -237,7 +229,7 @@ Det største bildet vi har sett generert hittil har vært 6417 bildepunkt ved 11
 
 Disse innstillinger kan være tunge på systemet og det kan hende sitt system ikke takler det. Det er mulig du vil måtte justere disse innstillinger for å få det meste ut av ditt system.
 
-### **Merknad**
+### 5.4 **Merknad**
 
 Hold kontroll på anmerkninger på dokumenter ved å opprette en merknad.
 
@@ -277,7 +269,7 @@ Sen følgende informasjonen vises i øyeblikksbildet til en merknad:
 
 Bildet som er lagt ved kommentaren etter at kommentaren er sendt inn kan [utheves](#h_e3937ff414) for å se dets innhold i et større format og for å laste det ned etter at det er sendt inn.
 
-### **Nytt kommentar**
+### 5.5 **Nytt kommentar**
 
 Om du legger til et vedlegg i din kommentar og uthever vedlegget før du sender den inn vil du se at du kan annotere bildet i vedlegget.
 
@@ -285,7 +277,7 @@ Om du legger til et vedlegg i din kommentar og uthever vedlegget før du sender 
 1. Hvis du venstre klikker på øyeblikksbildet vil du ha valget til å legge til anmerkninger i bildet. Under bildet vil du se en verktøy linje med verktøy for å legge til anmerkninger på et sted i bildet​
 1. Tekst boksen ved siden av legg til knappen er for å skrive en kommentar. Denne følger [generelle regler for formatering av inlegg](https://support.catenda.com/nb/articles/8430847-formatering-av-innlegg).
 
-### **Aksjonsmenyen til en kommentar**
+### 5.6 **Aksjonsmenyen til en kommentar**
 
 **Redigere en kommentar**
 

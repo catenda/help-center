@@ -8,7 +8,7 @@ Deze pagina houd informatie over de volgende themas in:
 
 [Activeren](#h_bda390ecdc) - [Veranderen](#h_155dbc3883) - [Overhevelen](#h_b78fb8abbd) - [Deactiveren](#h_27afed91d6) - [Vereisen](#h_ee25eb713b)
 
-## **MFA activeren**
+## 1. **MFA activeren**
 
 Log in bij Catenda Hub en ga naar det **[Account](https://hub.catenda.com/account/profile)** pagina:
 
@@ -20,7 +20,7 @@ Log in bij Catenda Hub en ga naar det **[Account](https://hub.catenda.com/accoun
 
 ![](https://downloads.intercomcdn.com/i/o/710944230/ebe37c5fb2379afe1d58d515/image.png?expires=1781092800&signature=bb1b215bf932a3da6fd9efd65031aa089830c4fa92090872b305802d5370aa61&req=cyEnH816n4JfFb4V1XW4gTVsh%2FWNq4RWV4OD%2BiH2LjOrUp6WWcpjxhq9folB%0A%2BuwHJKhvj1SGgt1qEKhqKE8VEQ%3D%3D%0A)
 
-### **Authentication app**
+### 1.1 **Authentication app**
 
 U zal een authenticatie app due u op uw mobiele eenheid vertrouwt nodig hebben.
 
@@ -66,7 +66,7 @@ Als u de code na "`secret=`" die u in de URL die geopent is ziet kan deze in het
 
 > **Note:** **Merk:** Als u en accout met de verkeerde secret key aanmaakt zal de app een one-time code toch aanmaken. Het kan dan zo zijn dat Catenda deze code niet accepteerd.
 
-### **Success or fail**
+### 1.2 **Success or fail**
 
 **Success**
 
@@ -88,7 +88,7 @@ If you did not insert the right code, you will get the message incorrrect code.
 
 > **Note:** **Merk:** Als u de QR-Code heeft gescant kut u deze opniew proberen in te voeren binnen de gegeven tijd voor de code terwijl dit menu open is. Alsu u dit menu afsluit zal u de code die in uw authenticator app gegenereerd wordt moeten verwijderen en de QR-Code op nieuw scannen om een nieuwe code kopppeling aan te maken.
 
-## **MFA veranderen**
+## 2. **MFA veranderen**
 
 Na het koppelen van een MFA code kan u met zekerheid de account naam van de code veranderen. Dit kan op de volgende manieren gedaan worden:
 
@@ -103,7 +103,7 @@ Na het koppelen van een MFA code kan u met zekerheid de account naam van de code
 1. Klik op het tandwiel rechtsbovenaan
 1. Klik op het podlood om de naam te veranderen
 
-## **MFA overhevelen**
+## 3. **MFA overhevelen**
 
 **De-activeren en re-activeren**
 
@@ -155,13 +155,13 @@ Nieuwe eenheid:
 
 > **Note:** **Merk 2:** Deze methode eist dat u een backup van uw MFA codes maakt wat betekend dat deze in de leverancier van uw apps cloud service opgeslagen zijn. Gebruik daarom alleen deze methode als u deze cloud service vertrouwt. Als niet dan kunt u de code beter deactiveren en heractiveren.
 
-## **MFA deactiveren**
+## 4. **MFA deactiveren**
 
 U kunt MFA deactiveren door op de deactiveer knop te kliken als hierboven aangeduid waarna u uw wachtwoord in moet typen om te bevestigen. Na het deactiveren zal geen toegang meer hebben tot projecten waar MFA vereist is.
 
 Na het deactiveren van de code op Catenda Hub zal de code op uw applicatie waarmee u gekoppeld had blijven. Deze code zal nu geen nut meer hebben en kan met zekerheid verwijdered worden.
 
-### **Hoe de oude code verwijdert kan worden:**
+### 4.1 **Hoe de oude code verwijdert kan worden:**
 
 **Google authenticator**
 
@@ -174,7 +174,7 @@ Na het deactiveren van de code op Catenda Hub zal de code op uw applicatie waarm
 1. Klik op de tandwiel knop rechtsboven
 1. Klik op verwijder account
 
-## **MFA op niet-mobile eenheden**
+## 5. **MFA op niet-mobile eenheden**
 
 Authenticatie apps zijn zekerder dan SMS/Email code oplossingen omdat er geen communicatie die onderschept kan worden plaats vindt tussen de twee systemen na de originele configuratie.
 
@@ -184,7 +184,7 @@ Kwa functionaliteid gebruiken deze soort applicaties dezelfde TOTP protocol als 
 
 > **Note:** **Merk:** Desktop applicaties kunnen minder zeker zijn en makkelijker om toegang tot te krijgen. Dit kan zijn omdat desktop systemen vaak, als niet altijd, tot het locale netwekr verbonden zijn wat geinficeerd kan zijn. Mobiele eenheden die niet alteid verbonden zijn tot het netwerk kunnen daarom moeilijker zijn om binnen in te komen.
 
-## **Wie kan MFA in projecten afdwingen?**
+## 6. **Wie kan MFA in projecten afdwingen?**
 
 Enterprise klanten kunnen aanvragen om een [organization optie](https://support.catenda.com/en/articles/8224886-organization-options#h_d6710faf75) te activeren die het zo maakt dat alle gebruikers die deel zijn van hun projecten MFA gekoppelt moeten hebben om het project binnen te komen.
 

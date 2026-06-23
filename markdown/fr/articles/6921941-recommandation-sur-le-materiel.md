@@ -4,11 +4,7 @@
 
 Cet article contient des informations sur la configuration recommandée pour l'utilisation de Catenda Hub. Catenda Hub est accessible via le navigateur et ne doit pas être installé.
 
-Cet article contient des informations sur les sujets suivants :
-
-**[Recommandation matérielle](#h_d880f149a2) - [Optimisation](#h_882501abfd) - [Navigateur](#h_1ce4bfc696) - [Réseau](#h_55b7c2c262) - [Proxies et firewall](#h_336cce2c5f) - [Ports](#h_ab1395cba2)**
-
-## Recommandation matérielle :
+## 1. Recommandation matérielle :
 
 **(juin 2024)**
 
@@ -22,15 +18,15 @@ Pour les projets de géométrie dense (LOD 400 et plus) :
 
 [Définition LOD](https://www.gsa.gov/real-estate/design-and-construction/3d4d-building-information-modeling/bim-software-guidelines/document-guides/level-of-detail)
 
-### GPU dédié vs GPU intégré
+### 1.1 GPU dédié vs GPU intégré
 
 Assurez-vous d'utiliser le GPU dédié de votre système et non le GPU intégré. Sous Windows 10, vous pouvez vous assurer que vous utilisez le GPU dédié en suivant [ces](https://superuser.com/questions/1439471/how-can-i-force-my-dedicated-gpu-to-handle-all-applications-or-disable-my-integr#:~:text=use%20these%20steps%3A-,Open%20Settings.,-Click%20on%20System) étapes
 
-## optimisation de la visionneuse 3D :
+## 2. optimisation de la visionneuse 3D :
 
 Bien que Catenda Hub soit bien optimisé et puisse faire fonctionner la plupart des modèles, certains utilisateurs voudront peut-être se préparer au mieux pour réussir. Voici donc quelques stratégies qui peuvent être utilisées pour optimiser votre flux de travail dans Catenda Hub :
 
-### Beaucoup d'objets :
+### 2.1 Beaucoup d'objets :
 
 Bien sûr, charger moins de modèles signifie moins d'objets et donc de meilleures performances
 
@@ -38,15 +34,15 @@ Activer le [rendu incrémental](https://intercom.help/bimsync-arena/en/articles/
 
 La dernière étape consiste à [interroger](https://intercom.help/bimsync-arena/en/articles/4854514-queries) la section dans laquelle vous travaillez. Habituellement, lorsque vous découpez une partie du modèle, les objets sont toujours en mémoire et simplement cachés. Avec une requête, ces objets sont complètement supprimés et il sera donc plus facile de travailler avec le modèle. Gardez à l'esprit que vous ne pourrez pas utiliser les bibliothèques de propriétés avec les requêtes car tous les objets ne sont pas chargés.
 
-### Nuages de points
+### 2.2 Nuages de points
 
 Si vous utilisez une [taille de point fixe](https://intercom.help/bimsync-arena/en/articles/5606625-point-clouds-in-bimsync#:~:text=Adaptive%20(default)%2C%20or-,Fixed%20size,-.%20The%20slider%20below), vous risquez d'obtenir un faible taux d'images par seconde lorsqu'un grand nombre de points a été chargé. Il se peut également que le chargement des points prenne plus de temps lorsque le budget mémoire de votre système est atteint. Les points les plus proches de la caméra sont chargés en premier. Si vous souhaitez charger des points à un endroit spécifique, il est préférable de naviguer jusqu'à cette position, puis d'activer le nuage de points afin qu'il commence à charger les points à cet endroit en premier.
 
 Pour éviter d'atteindre la limite de mémoire et de réduire le nombre d'images par seconde, vous pouvez réduire le [budget de points de](https://intercom.help/bimsync-arena/en/articles/5606625-point-clouds-in-bimsync#:~:text=with%20your%20PC.-,Point%20Budget%3A,-Using%20the%20viewer) manière à ce que moins de points soient chargés.
 
-## Paramètres du navigateur
+## 3. Paramètres du navigateur
 
-### Configuration requise :
+### 3.1 Configuration requise :
 
 Catenda Hub est disponible sur différents navigateurs.
 
@@ -60,7 +56,7 @@ Safari :
 
 _Opera :_ h[ttps://](https://www.opera.com/download/requirements)www.opera.com/download/requirements _vivaldi :_ h[ttps://](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/
 
-### Accélération matérielle
+### 3.2 Accélération matérielle
 
 Veuillez vous assurer que vous utilisez l'accélération matérielle. Les options d'accélération matérielle pour les différents navigateurs sont disponibles ici :
 
@@ -79,7 +75,7 @@ _Opera :_ h[ttps://](https://blogs.opera.com/news/2015/07/advanced-settings-in-o
 
 _Vivaldi :_ h[ttps://](https://forum.vivaldi.net/topic/1207/hardware-acceleration)forum.vivaldi.net/topic/1207/hardware-acceleration
 
-### facteurs externes
+### 3.3 facteurs externes
 
 Veuillez vérifier si vous avez des extensions de navigateur ou d'autres programmes qui pourraient ralentir votre expérience du Catenda Hub.
 
@@ -89,7 +85,7 @@ Veuillez vérifier si vous avez des extensions de navigateur ou d'autres program
 1. Chrome
 1. Microsoft Edge
 
-### Cookies
+### 3.4 Cookies
 
 Les données stockées dans les cookies permettent à votre navigateur de savoir si vous êtes connecté et de connaître certaines de vos préférences pour les projets Catenda. Certaines préférences peuvent varier d'un projet à l'autre, tandis que d'autres seront identiques pour tous les projets. Si vous modifiez vos préférences, par exemple en fermant un menu, elles seront conservées dans toutes les fenêtres et tous les onglets du navigateur. Si, par exemple, vous fermez le menu de filtrage dans un onglet, puis actualisez la même page dans un autre onglet, le menu de filtrage sera également fermé dans cet onglet.
 
@@ -119,7 +115,7 @@ _Suppression des cookies_ les données des cookies peuvent être supprimées man
 
 Il vous sera alors demandé de recharger la page. Après avoir rechargé la page, vous devrez vous reconnecter à Catenda car vous avez supprimé vos informations de connexion.
 
-## Vitesse du réseau
+## 4. Vitesse du réseau
 
 Contrôlez la qualité de votre réseau, de manière à ce que le rapport entre le téléchargement et l'envoi soit d'au moins 1:10
 
@@ -129,11 +125,11 @@ soit d'environ 1:10 ou plus.
 
 (il s'agit d'un exemple et non d'une exigence réelle)
 
-## Proxy et pare-feu :
+## 5. Proxy et pare-feu :
 
 Les utilisateurs qui accèdent à Catenda Hub derrière un pare-feu, un proxy ou un autre intermédiaire doivent avoir accès aux domaines et aux ports suivants pour que l'application fonctionne correctement.
 
-### Domaines :
+### 5.1 Domaines :
 
 `(\*` signifie un joker DNS et `.` est un séparateur de niveau de domaine, ne traitez pas les éléments ci-dessous comme des expressions rationnelles).
 
@@ -192,7 +188,7 @@ Si vous n'avez l'intention d'utiliser Catenda Hub qu'à travers l'un de nos plug
         - `https://bcf.bimsync.com/`
         - h`ttps://` opencde.bimsync.com/
 
-## Ports :
+## 6. Ports :
 
 **80 :** Ce port est optionnel mais recommandé pour une meilleure expérience utilisateur dans le navigateur. Protocole : TCP (uniquement pour hub.catenda.com et [www.hub.catenda.com](http://www.hub.catenda.com) )
 

@@ -4,13 +4,13 @@
 
 > **Note:** **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Hilfeartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
-## Installation
+## 1. Installation
 
 Wenn Sie das Catenda Archicad Plugin unter Windows installieren, erscheinen die Installationsdateien im Ordner "C:\\Programme\\Catenda\\Catenda Archicad Connection\\\<Archicad Version>\\Add-On" und werden beim nächsten Öffnen von Archicad im Add-On Manager aktiviert.
 
 Beachten Sie, dass dies ein anderer Ordner ist als der Standard-Add-On-Ordner, der sich unter "C:\\Programme\\Graphisoft\\\<Archicad Version>\\Add-Ons" befindet.
 
-## **Catenda Palette**
+## 2. **Catenda Palette**
 
 Nach der Installation des Plugins wird in der oberen Leiste ein Catenda-Menüreiter angezeigt.
 
@@ -22,7 +22,7 @@ In diesem Menü finden Sie das Fenster "Catenda Hub Issue Manager", das die "Cat
 
 - Probleme sehen und erstellen
 
-## Einloggen
+## 3. Einloggen
 
 Wenn Sie die Catenda-Palette öffnen, sehen Sie als erstes die Anmeldeseite.
 
@@ -40,7 +40,7 @@ Nachdem Sie diesen Zugang gewährt haben, wird das Archicad Plugin als Anwendung
 
 Hier können Sie den Zugriff jederzeit widerrufen, wenn Sie ihn nicht mehr gewähren möchten.
 
-### Passwort zurücksetzen
+### 3.1 Passwort zurücksetzen
 
 Wenn Sie Ihr Passwort vergessen haben, können Sie auf Ich habe mein Passwort vergessen klicken, um es zurückzusetzen.
 
@@ -58,7 +58,7 @@ Wenn es länger als 5 Minuten dauert, wenden Sie sich bitte an den Support unter
 
 Um sich wieder anzumelden, klicken Sie oben rechts auf "Anmelden".
 
-## Projektliste
+## 4. Projektliste
 
 Wenn Sie das Archicad-Plugin öffnen, sehen Sie Ihre Projektliste, die etwa so aussehen kann:
 
@@ -114,7 +114,7 @@ Die Versionsnummer des Plugins.
 
 Melden Sie sich von Ihrem Catenda-Konto ab
 
-## Themenboard
+## 5. Themenboard
 
 Wenn Sie auf ein Projekt klicken, um es zu öffnen, wird die erste Thementafel des Projekts geöffnet.
 
@@ -122,7 +122,7 @@ Eine Thementafel kann etwa so aussehen:
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1587423613/a883e31c27774b185d9487b06eb3/image.png?expires=1781092800&signature=eeaa78bf14e936268bd986ba09d3ad9019bece3329b5f3a5049f06040d0d65cf&req=dSUvEc18nodeWvMW3nq%2BgXSMzVT0PhMXgv5Cn55tRIZs9TzdfSvovnkV88Pp%0AyGvldtwtYHJmq1VsVHRqw4Ql4j4%3D%0A)
 
-## Thema
+## 6. Thema
 
 Wenn Sie auf ein Thema in der Themenübersicht klicken, wird es geöffnet.
 

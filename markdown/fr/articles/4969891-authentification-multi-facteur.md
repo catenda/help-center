@@ -4,7 +4,7 @@
 
 **L'authentification Multi Facteur** (AMF / MFA) commprend la réception, en plus de l'identifiant et du mot de passe, d'un code via SMS qu'on va réçevoir le moment de la connexion à Catenda Hub. Quand une structure active l'authentification multi-facteur, elle s'applique à l'échelle de l'entité. Tous les projets y appartennant, et par conséquent tous les utilisateurs,  vont s'y soumettre aussi.
 
-## **L'activation de l'authentification Multi Facteur :**
+## 1. **L'activation de l'authentification Multi Facteur :**
 
 Connectez-vous à Catenda Hub et allez dans l'espace **Mon Compte** :
 

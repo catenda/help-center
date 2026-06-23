@@ -2,11 +2,7 @@
 
 Met deze IFC export handleiding is het doel om de gebruiker een gids te geven over het exporteren van de IFC voor de juiste doeleinden. Een IFC-bestand kan snel zwaar en groot worden wanneer u veel informatie uit het model wilt halen. Daarom moet u bij het exporteren van een IFC onnodige informatie uitvinken. Bij het uploaden van een model naar Catenda is het niet altijd nodig om veel informatie en een hoog detailniveau in het model te hebben. Later in deze handleiding gaan we terug naar welke instellingen we aanbevelen om het model iets kleiner en iets gemakkelijker te maken om mee te werken. Hier gaan we stap voor stap langs de meest geschikte manier om een IFC van Revit naar Catenda te exporteren.
 
-In dit artikel vindt u informatie over:
-
-_[IFC exporteren](#h_38cc715c02) - [Instellingen wijzigen](#h_85d4335aad) - [IFC Opties](#h_487f3aa176) - [Kleuren en materialen](#h_f458b56011)_
-
-## **Projectinstellingen**
+## 1. **Projectinstellingen**
 
 Voor het exporteren is het belangrijk om ervoor te zorgen dat de GUID's van uw Revit-project correct zijn.
 
@@ -18,7 +14,7 @@ Als de GUID verschilt van een vorige export, zullen de objecten van nieuwere exp
 
 Wanneer u een nieuw project maakt, krijgt het een unieke id.
 
-## **IFC exporteren wijzigen**
+## 2. **IFC exporteren wijzigen**
 
 Wanneer Revit open is en u klaar bent om te exporteren, kunt u het volgende doen.
 
@@ -30,7 +26,7 @@ Linksboven vinden we het tabblad "Bestand".
 
 > **Onthouden:**_ Misschien wilt u een speciale map voor uw IFC-bestanden maken, zodat u altijd weet waar uw bestand zich bevindt!_ Het IFC export menu kunt u hier vinden: `Bestand -> Exporteren -> IFC` ![](https://downloads.intercomcdn.com/i/o/areracg3/1892251735/1f06f6821d79b19642af1b81ebe6/image.png?expires=1779991200&signature=f77ab31d228b76bdf13529fee00caae4d6d42ccf86705e6e6788b4103ef18ea5&req=dSguFMt7nIZcXPMW3nq%2BgYeYtz5lfambMm12jWodCPeBvHXniyUmgGYciDwf%0AYXW5CLORtPkNnSMKCCj0IG5c3qs%3D%0A) Het IFC export menu kan er als volgt uitzien: ![IFC exporteren](https://downloads.intercomcdn.com/i/o/areracg3/1798387143/866e2fe7cec7589a87073fcc0c82/image.png?expires=1779991200&signature=4bfa202fb3004eec5587f9ccff80d9ad260c643ce24349d84a233dd0f1b00abf&req=dScuHsp2moBbWvMW3nq%2BgZPn43QJg8WVVc0ZVd8M6r96eVKW%2BS8G1RavyNB3%0A6vNrKhgPoxi%2FkGAPFMy7%2BWg0BfM%3D%0A) Bestandsnaam Voer de naam en locatie in die het geëxporteerde bestand in het systeem zal hebben Export instellingen Kies uit de volgende vooraf ingestelde instellingen: \<In-Session Setup> IFC 2x3 Coordination View 2.0 IFC 2x3 Coordination View IFC 2x3 GSA Concept Design BIM 2010 IFC 2x3 Basic FM Handover View IFC 2x3 Coordination View IFC 2x3 COBie 2.4 Design Deliverable View IFC4 Reference View [Architecture] IFC4 Reference View [Structural] IFC4 Reference View [BuildingService] IFC4 Reference View [Unofficial] IFC4x3 IFC-SG Regulatory Requirements View Wanneer de Catenda Plugin voor Revit wordt gebruikt, wordt er een extra vooraf ingestelde export instellingen voor gebruik met Catenda aan de lijst met opties toegevoegd.
 
-## **Instellingen wijzigen**
+## 3. **Instellingen wijzigen**
 
 Klik op Instellingen wijzigen in het onderdeel Export instellingen van de export IFC-dialoog.
 
@@ -46,7 +42,7 @@ Dit venster bevat de volgende tabbladen:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Algemeen**
+### 3.1 **Algemeen**
 
 ![Algemeen](https://downloads.intercomcdn.com/i/o/areracg3/1892229977/5b41cf313ce744a76d57707e7156/image.png?expires=1779991200&signature=de7a76fac9b01f590c83303ae40078c1584ff8b4876ef0b169519d39e6d9c20a&req=dSguFMt8lIhYXvMW3nq%2BgaV%2FCQixLdXaNeZ7QyQ0axWAyNp02PCsj0gdc2if%0Ad1tMevbVyEJSRIO7%2Bjxmt6fUIRM%3D%0A)
 
@@ -100,7 +96,7 @@ IFC 2x3 Coordination View 2.0
 
 ---
 
-### **Aanvullende inhoud**
+### 3.2 **Aanvullende inhoud**
 
 ![Aanvullende inhoud](https://downloads.intercomcdn.com/i/o/areracg3/1892231518/1438a720e7d2d083f16e999b248d/image.png?expires=1779991200&signature=14ae8e037db758f837b33fce3426217ec13a1be4bdae21d9021a6c6e2adef1ed&req=dSguFMt9nIReUfMW3nq%2BgUrmoL4SQTHbWqp11fsyPaNkkVHU8HTI2%2F7M7%2BzB%0ABmowPSLQu3ATd2%2F2iUivb83tBuQ%3D%0A)
 
@@ -123,7 +119,7 @@ Alleen zichtbare objecten zichtbaar in IFC-bestand exporteren.
 
 ---
 
-### **Eigenschappensets**
+### 3.3 **Eigenschappensets**
 
 ![Eigenschappensets](https://downloads.intercomcdn.com/i/o/areracg3/1892232792/135fdbf14ece65c88f19bd1d226a/image.png?expires=1779991200&signature=08f85973ddc0828e1bce6019eed0e2ca144295420ac48e4d9b236988f3109720&req=dSguFMt9n4ZWW%2FMW3nq%2BgaY8ra%2BUm5L2ZjmJcmldhCuBAdrt45HA7HZqKLol%0AtoA76daMbGTClWLlzEA9uLIe9yA%3D%0A)
 
@@ -195,7 +191,7 @@ Als een waarde in de eigenschap die u hebt opgegeven, overeenkomt met een waarde
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Detailniveau**
+### 3.4 **Detailniveau**
 
 ![Detailniveau](https://downloads.intercomcdn.com/i/o/areracg3/1892234477/a9bbe7f93df2e1f86dd77e0d8595/image.png?expires=1779991200&signature=51855781c86ef0d04cb75ec5abe362af236e216618b33ecddea36190c8ece55b&req=dSguFMt9mYVYXvMW3nq%2BgcGzWTbpx%2B5haiavdWYct%2BeRmFV0zbmfiG0oTuny%0ATNdlYRRUrCJXUVJUnpte5c9DwEg%3D%0A)
 
@@ -227,7 +223,7 @@ De verschijning van het model zal bijna hetzelfde zijn, maar het aantal polygone
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Geavanceerd**
+### 3.5 **Geavanceerd**
 
 ![Geavanceerd](https://downloads.intercomcdn.com/i/o/areracg3/1892235835/c5a537efaad511b257aa34fd9393/image.png?expires=1779991200&signature=9ef54911a2b76d39f4e3c23df0f85f171699dd8a363ab3cf3cb37349a603544d&req=dSguFMt9mIlcXPMW3nq%2Bgej6EvTV%2BJ5RKvpYf%2BwKvvA%2BZUGNGSO9ksC63ytf%0AVqsnDeqhyykw%2B4ATqbgGWKSALMs%3D%0A)
 
@@ -293,7 +289,7 @@ Hier ziet u hoe het menu IFC Entity Selection dat opent er kan uitzien:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Geografische referentie**
+### 3.6 **Geografische referentie**
 
 Het is belangrijk dat uw Revit-coördinaten zijn gesynchroniseerd met de andere modellen in uw project zodat ze op dezelfde plaats eindigen.
 
@@ -341,7 +337,7 @@ Interne oorsprong gericht naar Ware Noorden
 
 ---
 
-### **Bedrijfsgegevens**
+### 3.7 **Bedrijfsgegevens**
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1892339968/a88c70cdc3d15ec1e87a1e966b46/image.png?expires=1779991200&signature=f68f221eb9ab0afd91c637e525a5d0057b3307e8e6530d5198dd90d3b144f8e5&req=dSguFMp9lIhZUfMW3nq%2BgRXRtZV646CzbhYCDTM1GZGXZIjmattZX5CDm0VJ%0ALOUcKRLlH3C9wmRrDi%2FTOy04v%2Bs%3D%0A)
 
@@ -351,7 +347,7 @@ Dit menu is alleen beschikbaar wanneer de IFC2x3 COBie 2.4 Design Deliverable Vi
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Projectgegevens**
+### 3.8 **Projectgegevens**
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1892356241/5a9153e5328e33ef5732be86af07/image.png?expires=1779991200&signature=24762c0ace7ebe4478d2b2713cd6017d4832352f6043104b1cc30ae373ab08f7&req=dSguFMp7m4NbWPMW3nq%2BgdDcqeJjXwra65LLEws6tCTU0wICq0oh9qpS9%2FJn%0Aqm4kmvwf4QEYAICFX8bkvDuQ7PE%3D%0A)
 
@@ -361,7 +357,7 @@ Dit menu is alleen beschikbaar wanneer de IFC2x3 COBie 2.4 Design Deliverable Vi
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## **IFC Opties**
+## 4. **IFC Opties**
 
 De IFC Opties van een Revit project kunt u vinden in:
 
@@ -371,7 +367,7 @@ De IFC Opties van een Revit project kunt u vinden in:
 
 > **Opmerking:** Vanaf Revit 2026 is deze optie nu beschikbaar in: `Exporteren -> IFC -> Algemeen -> Categoriemapping -> Actiemenu rechts van vervolgkeuzelijst` Binnen de _IFC opties_ stellen we de instellingen voor het exporteren van een model naar een IFC-bestand. Hier kunt u aangepaste eigenschappen voor het exporteren van een model naar IFC. Wat aan het begin van deze handleiding werd vermeld, is dat het niet nodig is om te veel informatie uit het model te halen. Voel je vrij om onnodige informatie voor het exporteren uit te vinken. ![IFC export klassen](https://catenda-as.intercom-attachments-1.com/i/o/271057211/d475dd84fb2efef9d7bf4c1d/image-12.png?expires=1779991200&signature=ceb04d005a9687945fd4c5efc680f142fa8f71ab5daddaf6ef11c8828c6103ea&req=dicmFsx5n4BeFb4V1XW4gdpd3cvRJhUNG2sGxDwDCuCNDMBg6YsRp7MEvaGe%0Ao0oBh68YB8CtIWlb%2Bwt%2Fl%2BbXug%3D%3D%0A) Het is mogelijk om rasters in Catenda Hub weer te geven en als u deze in uw Revit model hebt, kunt u in IFC Opties instellen dat rasters in de IFC worden geëxporteerd. Deze worden standaard niet vanuit Revit geëxporteerd.
 
-## **Kleuren en materialen**
+## 5. **Kleuren en materialen**
 
 De kleuren die in Catenda worden weergegeven, worden gelezen uit het IFC-bestand dat wordt geïmporteerd.
 

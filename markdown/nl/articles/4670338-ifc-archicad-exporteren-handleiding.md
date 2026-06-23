@@ -2,11 +2,7 @@
 
 Houd bij het exporteren van een IFC rekening met wat relevant is voor je IFC-export. Het IFC-bestand kan groot zijn en moeilijk om mee te werken als er veel informatie in staat. Daarom is het belangrijk om geen onnodige informatie te exporteren. In dit rapport krijg je verschillende tips om je IFC-export in Archicad te filteren.
 
-Dit artikel bevat informatie over de volgende onderwerpen
-
-**[Project info](#h_8264460e0b) - [Export instellingen](#h_9922ee314c) - [Model filter](#h_138e653078) - [Type mapping](#h_2155aba7d7) - [Geometrie conversie](#h_db084b5d6b) - [Eigenschappen mapping](#h_d48644eb35) - [Gegevens conversie](#h_7f1df4ecb9) - [Eenheid conversie](#h_36caead1cd)**
-
-## Projectinformatie
+## 1. Projectinformatie
 
 Voordat je een IFC van je project exporteert, moet je ervoor zorgen dat de projectinfo is geconfigureerd.
 
@@ -38,7 +34,7 @@ Verschillende ontwerpkeuzes.
 
 Wanneer verschillende varianten van een gebouw worden gemodelleerd in hetzelfde Archicad-bestand, wordt elke variant vaak geëxporteerd naar een eigen IFC-bestand.
 
-### De projectinformatie configureren
+### 1.1 De projectinformatie configureren
 
 Of er nu plannen zijn om meerdere IFC-bestanden te exporteren of niet, het is vaak een goed idee om waarden in te voeren in de projectinfo zodat deze later niet hoeven te worden gewijzigd.
 
@@ -52,7 +48,7 @@ Op deze manier kunnen meerdere profielen worden ondersteund voor de export van h
 
 Voor Catenda is het belangrijk dat de IFC's in verschillende modellen verschillende informatie hebben terwijl IFC's die in hetzelfde model komen dezelfde informatie hebben.
 
-## IFC-export instellingen
+## 2. IFC-export instellingen
 
 Om het hele project te exporteren. U moet in 3D-weergave staan. Zorg ervoor dat u de juiste vertaler gebruikt.
 
@@ -74,7 +70,7 @@ Als je de IFC wilt samenvoegen kun je dat onder dezelfde banner doen.
 
 ---
 
-### Verschillende instellingen in de export
+### 2.1 Verschillende instellingen in de export
 
 1. Met [model filter](#h_138e653078) kun je filteren op wat je wilt exporteren aan de hand van verschillende voorinstellingen.
 
@@ -92,9 +88,9 @@ Als je de IFC wilt samenvoegen kun je dat onder dezelfde banner doen.
 
 ---
 
-## 1. Model filter
+## 3. Model filter
 
-### Roosters exporteren in de IFC
+### 3.1 Roosters exporteren in de IFC
 
 Soms wil je de rasters ook geëxporteerd hebben om ze in Catenda Hub te kunnen zien.
 
@@ -104,7 +100,7 @@ Ga naar het model filter voor IFC Export en zorg ervoor dat het selectievakje "G
 
 ---
 
-## 2. Type mapping
+## 4. Type mapping
 
 Wanneer een IFC wordt geëxporteerd krijgen alle elementen in het model een IFC-type toegewezen.
 
@@ -114,11 +110,11 @@ Als u de IFC-vertaler selecteert die u wilt gebruiken, kunt u vervolgens naar Ty
 
 Type mapping heeft voornamelijk verschillende opties om uw IFC-typen op te sorteren.
 
-### Type element
+### 4.1 Type element
 
 Aan elk element wordt automatisch een IFC-basistype toegewezen. U kunt het toegewezen IFC-type van elk element bekijken in de projectmanager en in de elementinstellingen.
 
-### Classificatie
+### 4.2 Classificatie
 
 Deze methode maakt een flexibelere en meer gedetailleerde toewijzing van IFC-typen mogelijk volgens specifieke classificatienormen. Zone- en openingselementen worden ingesteld op een vast IFC-type. IFCSpace en IFCOpeningElements.
 
@@ -126,13 +122,13 @@ Deze methode maakt een flexibelere en meer gedetailleerde toewijzing van IFC-typ
 
 ---
 
-## 3. Geometrieconversie
+## 5. Geometrieconversie
 
 Met Geometry Conversion for IFC Export kunt u uw geometrie op verschillende manieren converteren.
 
 ![](https://downloads.intercomcdn.com/i/o/852256533/6acaa196d2acf7499d9aaafa/image.png?expires=1781092800&signature=477ab462c03abaca08a3a1bb95231c979a16c909f98d569a6e25e90855732436&req=fCUlFMx4mIJcFb4V1XW4gbFA7WWR17Jl6uaRn16tGKO80nJZcAqI0Q8myZSQ%0AUi30%2BZpM7YkT%2Bi5%2FWjhulkJmiA%3D%3D%0A)
 
-### Conversie van Archicad-elementen
+### 5.1 Conversie van Archicad-elementen
 
 **Exporteer de geometrie van alle modelelementen als:**
 
@@ -214,7 +210,7 @@ Alleen landmeetpunt
 
 Met deze optie wordt de afstand van het landmeetpunt in Archicad tot uw model gelijk aan de afstand van (0,0,0) tot uw model in Catenda Hub
 
-### IFC Schema gerelateerde opties
+### 5.2 IFC Schema gerelateerde opties
 
 **Modus materiaalbehoud (alleen IFC2x3)**
 
@@ -246,7 +242,7 @@ Als je daarom merkt dat je openingen niet worden doorgesneden, kan het helpen om
 
 Als je deze optie inschakelt, wordt de wand geëxporteerd als één enkel object in plaats van vele dunne samengestelde objecten.
 
-### Samengestelde constructies en complexe profielen
+### 5.3 Samengestelde constructies en complexe profielen
 
 **Complexe bouwelementen opsplitsen in delen**
 
@@ -256,7 +252,7 @@ Als je deze optie kiest, kun je geen keuze maken voor de modus voor materiaalbeh
 
 ---
 
-## 4. Eigenschappen toewijzen
+## 6. Eigenschappen toewijzen
 
 Binnen property mapping (File > IFC > Interoperability > Property Mapping) kun je kiezen wat voor soort versie van IFC je wilt exporteren. je hebt de standaard IFC2x3 en de standaard IFC4. Je kunt ook psets toevoegen om te exporteren met je IFC. Als u dit doet, moet u een duplicaat maken van het IFC-schema dat u kiest.
 
@@ -268,7 +264,7 @@ Nadat je een duplicaat hebt gemaakt van je standaard IFC kun je de gewenste eige
 
 ---
 
-## 5. Gegevensconversie
+## 7. Gegevensconversie
 
 Onder gegevensconversie selecteert u wat voor soort gegevens naast geometrie u uit uw IFC-export wilt halen. vink de vakjes aan van wat u wilt exporteren.
 
@@ -278,6 +274,6 @@ Element parameters leest de Archicad elementparameter en converteert deze naar I
 
 IFC Base Quantities leest de parameters van grootte, oppervlakte en volume. Als je dit vakje niet aanvinkt kan het zijn dat je problemen krijgt met het importeren van je IFC in Catenda Hub.
 
-## 6. Eenheid Conversie
+## 8. Eenheid Conversie
 
 Stel de eenheden Lengte, Hoek, Oppervlakte, Volume, Valuta en Tijd in voor je export.

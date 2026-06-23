@@ -8,7 +8,7 @@ Collaborez sur les sujets BCF directement à partir de Revit.
 
 [Lien de téléchargement](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)
 
-## Pour commencer
+## 1. Pour commencer
 
 Après avoir installé le plugin, ouvrez un modèle Revit et cliquez sur le bouton Catenda Hub dans l'add-in.
 
@@ -22,11 +22,11 @@ Cliquez sur "Autoriser l'accès" pour permettre à l'add-in Revit d'accéder à 
 
 Vous pouvez supprimer l'accès à votre compte Catenda Hub à tout moment en allant sur votre [page d'application](https://bimsync.com/account/apps) Catenda Hub et en cliquant sur "Supprimer l'accès" près de "Revit plugin pour Catenda Hub".
 
-## Liste de sujets
+## 2. Liste de sujets
 
 Dans cette page, vous trouverez le menu principal pour naviguer dans votre projet Catenda Hub, les revues de modèles et les sujets.
 
-### Interface
+### 2.1 Interface
 
 ![Header.png](https://catenda-as.intercom-attachments-1.com/i/o/271057390/4c89286cb715f52e3d783b6c/Header.png?expires=1781092800&signature=398d9921638cb23a9d50c7799d1535c1416647367ab528baff78db4609a2db32&req=dicmFsx5nohfFb4V1XW4gdJZzGffSByllQENCKlZyob%2BST4NNuZ5cUksJz12%0AkCAA%2F3Kfd2Td0zxjhk75Iy1JGg%3D%3D%0A)
 
@@ -38,13 +38,13 @@ Dans cette page, vous trouverez le menu principal pour naviguer dans votre proje
 1. Rechercher et filtrer les sujets affichés
 1. La liste des sujets actuellement filtrés dans la liste de sujet
 
-### Projet et liste de sujet
+### 2.2 Projet et liste de sujet
 
 En sélectionnant un projet Catenda Hub, la liste des sujet de ce projet s'affiche, ce qui vous permet d'en sélectionner un pour afficher les sujets correspondants. Il enregistrera également le projet Catenda Hub et la liste de sujet dans votre modèle Revit et les ouvrira automatiquement la prochaine fois que vous ouvrirez ce modèle.
 
 ![ProjectInfo.png](https://catenda-as.intercom-attachments-1.com/i/o/271057405/d5c967a0ac3f187ed30e592e/ProjectInfo.png?expires=1781092800&signature=386793ccce6b13fc42734e390919e84f4deae21c7108c6295a15d81514bf3e62&req=dicmFsx5mYFaFb4V1XW4gRm1PmqxAGtl3%2B%2FHwntEbjzXIM38AKKVyKa%2F6w2%2B%0AYYuDnmzT7GAy081dJNb9XwINjA%3D%3D%0A)
 
-### Menu Bimsymc "Add-in "
+### 2.3 Menu Bimsymc "Add-in "
 
 ![Menu.png](https://catenda-as.intercom-attachments-1.com/i/o/271057418/ee944c802a6309a74f33db9b/Menu.png?expires=1781092800&signature=c89e8311ef022c706f61f0e57803e273c0ac358066e60f8784ba96c7f2a0e9e4&req=dicmFsx5mYBXFb4V1XW4gQzKBuzsr2CyN%2Fnh2PIwIqVLxc0xU6FqznGgZL7M%0AuAbb1OQ1WNOyULgSw5XMNMLTRA%3D%3D%0A)
 
@@ -53,7 +53,7 @@ En sélectionnant un projet Catenda Hub, la liste des sujet de ce projet s'affic
 1. Ouvrer votre page [Profil Catenda Hub](https://bimsync.com/account/profile) dans votre navigateur par défaut
 1. Déconnectez-vous de votre compte Catenda Hub
 
-### Sélection des sujets
+### 2.4 Sélection des sujets
 
 Dans la liste des sujets, vous trouverez toutes les informations principales sur un sujet :
 
@@ -71,7 +71,7 @@ Dans la liste des sujets, vous trouverez toutes les informations principales sur
 
 Vous pouvez cliquer sur n'importe quel sujet pour accéder à la [page détaillée du sujet](https://support.bimsync.com/details/).
 
-### Trier les sujets
+### 2.5 Trier les sujets
 
 Vous pouvez trier les sujets affichés pour faire apparaître en premier ceux qui vous concernent le plus.
 
@@ -84,7 +84,7 @@ Vous pouvez trier les sujets affichés pour faire apparaître en premier ceux qu
 1. Faites passer la date d'échéance la plus récente en premier
 1. Faire passer la date d'échéance la plus ancienne en premier
 
-### Filter les sujets
+### 2.6 Filter les sujets
 
 À l'aide de la barre de filtre, vous pouvez combiner n'importe quel type de filtre pour n'afficher que les sujets les plus pertinents.
 
@@ -108,11 +108,11 @@ Vous pouvez rechercher ces filtres en tapant dans la barre de filtre (1). Vous p
 
 ![TextFilter.png](https://catenda-as.intercom-attachments-1.com/i/o/271057480/2be177ecffac2997cc141fdc/TextFilter.png?expires=1781092800&signature=2386db399784ae98ddb528d6cd0deaa45a2398b14e54910c611fb93379e55396&req=dicmFsx5mYlfFb4V1XW4gSM6SuMG1ZK5apozzDNWfyuC3uP1OUqEeVPZ69RH%0AGj5bgz6enFyjJ7wxdITVLa0wMg%3D%3D%0A)
 
-## Details du sujet
+## 3. Details du sujet
 
 Dans cette vue, vous pouvez examiner et modifier un sujet spécifique.
 
-### Interface
+### 3.1 Interface
 
 ![IssueDetailView.png](https://catenda-as.intercom-attachments-1.com/i/o/271057491/79afbc3ef7ce0c15873df501/IssueDetailView.png?expires=1781092800&signature=f2e7442fee9ae413f8eb95409559531f1aaca167f4eabb699a9e9d56246fff4b&req=dicmFsx5mYheFb4V1XW4gSFXI3%2BvDPw6wgPRIZvJKvxvthS00%2FyXss67f8M9%0ARYrGyKVnqF6eLS9gS7AXZUqrfg%3D%3D%0A)
 
@@ -127,7 +127,7 @@ Dans cette vue, vous pouvez examiner et modifier un sujet spécifique.
 1. Modifier les étiquettes du sujet
 1. La liste des commentaires dans du sujet
 
-### Propriétés du sujet
+### 3.2 Propriétés du sujet
 
 Vous pouvez modifier n'importe quelle propriété du sujet : Statut, type, destinataire, demandeur, date d'échéance, étiquettes. Chaque menu affiche une liste des propriétés disponibles. Cependant, vous ne pouvez pas créer un nouveau statut, type ou étiquette directement dans le plugin, vous devrez utiliser l'interface web de Catenda Hub pour le faire.
 
@@ -143,7 +143,7 @@ Vous pouvez également taper du texte dans la barre d'étiquettes pour réduire 
 
 ![editLabels.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057525/66fb261901258f426d78ed07/editLabels.gif?expires=1781092800&signature=ece9633dc25d334ac0861298acf82cfa9f639d524271e942f7905ceec3da5655&req=dicmFsx5mINaFb4V1XW4ga5g5rPdNhQoS6XvU%2BWN1wgNas4OMzwmmPHNXaA4%0A3vf35gsrXfVMDKaYVqGZAAbLyQ%3D%3D%0A)
 
-### Commentaires
+### 3.3 Commentaires
 
 Tous les commentaires sont affichés en dessous de la question. Un commentaire peut contenir du texte, une image, un instantané de votre vue actuelle Revit ou un point de vue.
 
@@ -155,7 +155,7 @@ Tous les commentaires sont affichés en dessous de la question. Un commentaire p
 1. L'image associée au commentaire
 1. Le texte du commentaire
 
-### Zoom
+### 3.4 Zoom
 
 Si le commentaire contient un point de vue, vous pouvez zoomer sur ce point de vue. Un zoom avant créera une nouvelle vue 3D dans votre modèle Revit, centrée sur le même point de vue.
 
@@ -167,7 +167,7 @@ Si le point de vue a été créé à partir d'une vue en perspective, la nouvell
 
 L'add-in ne créera qu'une seule vue en perspective et une seule vue orthographique. Après les avoir créées, il les réutilisera pour toute utilisation ultérieure de la fonction de zoom. Vous pouvez changer cela dans le menu de configuration. Vous pouvez également utiliser le menu de configuration pour changer le nom de ces vues.
 
-### Éléments connexes
+### 3.5 Éléments connexes
 
 Si le sujet contient des éléments connexes, le module complémentaire les sélectionne dans Revit lorsque vous effectuez un zoom sur un point de vue.
 
@@ -175,7 +175,7 @@ Si le sujet contient des éléments connexes, le module complémentaire les sél
 
 Pour que cette fonctionnalité fonctionne, votre modèle Revit doit avoir été exporté vers IFC avec l'option "Store the IFC GUID in an element parameter after export". Cela ajoute le paramètre IFCGuid sur chaque objet, permettant au plugin de sélectionner les éléments liés.
 
-### Ajouter un commentaire
+### 3.6 Ajouter un commentaire
 
 Vous pouvez ajouter des commentaires à une question en écrivant dans la zone de texte et en cliquant sur "Soumettre".
 
@@ -183,13 +183,13 @@ Vous pouvez également ajouter une image depuis votre ordinateur en cliquant sur
 
 ![createComment.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057571/f8f1dc5e036c662975947091/createComment.gif?expires=1781092800&signature=68bce4ffbe99bef48e57e2f1fd1b9bf9bde107721eb4a337726692cec11c8bdb&req=dicmFsx5mIZeFb4V1XW4gZKf2ehIb4n%2FwGDxr6nuV%2F6fsbU1Y1R3tv6shUx9%0ATTe5DUj7214%2BrSRyVUcIT6Wz1w%3D%3D%0A)
 
-### Ajouter la capture 3D
+### 3.7 Ajouter la capture 3D
 
 Vous pouvez également ajouter votre vue Revit actuelle comme point de vue et un instantané joint à votre commentaire. Comme pour toute image, vous pouvez annoter l'instantané en cliquant sur l'image d'aperçu.
 
 Si le paramètre IFCGUID est présent, les éléments sélectionnés dans Revit seront ajoutés à votre question en tant qu'éléments connexes.
 
-## Télécharger sur Catenda Hub
+## 4. Télécharger sur Catenda Hub
 
 Vous pouvez télécharger votre modèle Revit actuel directement vers Catenda Hub en tant que fichier IFC.
 
@@ -206,7 +206,7 @@ Après avoir ouvert la page de téléchargement :
 selectedConfig.Name = "<bimsync Setup>"; selectedConfig.IFCVersion = IFCVersion.IFC2x3CV2; selectedConfig.SpaceBoundaries = 1; selectedConfig.ActivePhaseId = ElementId.InvalidElementId; selectedConfig.ExportBaseQuantities = true; selectedConfig.SplitWallsAndColumns = false; selectedConfig.VisibleElementsOfCurrentView = false; selectedConfig.Use2DRoomBoundaryForVolume = false; selectedConfig.UseFamilyAndTypeNameForReference = true; selectedConfig.ExportInternalRevitPropertySets = true; selectedConfig.ExportIFCCommonPropertySets = true; selectedConfig.Export2DElements = false; selectedConfig.ExportPartsAsBuildingElements = true; selectedConfig.ExportBoundingBox = false; selectedConfig.ExportSolidModelRep = false; selectedConfig.ExportSchedulesAsPsets = false; selectedConfig.ExportUserDefinedPsets = false; selectedConfig.ExportUserDefinedPsetsFileName = ""; selectedConfig.ExportLinkedFiles = false; selectedConfig.IncludeSiteElevation = true; selectedConfig.UseActiveViewGeometry = false; selectedConfig.ExportSpecificSchedules = false; selectedConfig.TessellationLevelOfDetail = 0; selectedConfig.StoreIFCGUID = true; selectedConfig.ExportRoomsInView = true;
 ```
 
-## Settings
+## 5. Settings
 
 La page des paramètres vous permet de modifier la façon dont le plugin créera une vue 3D lorsque vous utilisez [La fonction Zoom](https://support.bimsync.com/details/#zoom).
 

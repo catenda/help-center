@@ -6,15 +6,11 @@ Met de _modellen als documenten_ functie zullen deze twee plekken voor modelbest
 
 Als u een model aanmaakt in het modellengedeelte zal een document aangemaakt en gelinkt worden in het documenten gedeelte. Als u een IFC docment upload kunt u de "Maak een model aan" actie knop om deen model te linken en aanmaken in het modellengedeelte. Met deze functie zullen modellen in het modellengedeelte als documenten behandeld kunnen worden terwijl documenten in het documenten gedeelte als modellen behandeld kunnen worden.
 
-Deze artikel bevat informatie over de volgende themas:
-
-**[Voor/Na migratie](#h_3fcf83a75f) - [Vertrouwd maar anders](#h_0b68206ac9) - [Modellen gedeelte veranderingen](#h_5aefd379f3) - [Documenten gedeelte verandringen](#h_7672ebddef)**
-
-## **Voor/Na migratie - Hoofdverschillen**
+## 1. **Voor/Na migratie - Hoofdverschillen**
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e8e8e8; width: 155px;"><h1 id="h_0177768769"></h1></td><td style="background-color: #e8e8e8; width: 262px;"><h2 class="intercom-align-center" id="h_412592b23e"><b>Voor</b></h2></td><td style="background-color: #e8e8e8; width: 248px;"><h2 class="intercom-align-center" id="h_d3824b63e6"><b>Na</b></h2></td></tr><tr><td style="background-color: #e8e8e8; width: 155px;"><p class="intercom-align-right"><b>Hoofdgedrag</b></p></td><td style="width: 262px;"><p>Modellen bestonden alleen in het modellen gedeelte. De gebruiker moest hetzelfde tot beide het documenten en modellen gedeelte uploaden.</p></td><td style="width: 248px;"><p>Modellen zijn aangemakt van IFC bestanden die tot het documenten gedeelte geupload wroden. Het IFC bestand kan tot hun beihorende model gerelateerd en gelinkt worden.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 155px;"><p class="intercom-align-right"><b>Interface</b></p></td><td style="width: 262px;"><p><b>Verschillend</b> van het documentengedeelte en toont minder informatie. Alleen een lijst met modellen.</p></td><td style="width: 248px;"><p><b>Gelijk </b>met het documentengedeleelte: Een tabel met gerelateerde metadata die aanpasbaar is.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 155px;"><p class="intercom-align-right"><b>Toegangsrechten</b></p></td><td style="width: 262px;"><p><b>Kon niet</b> tot modellen toegepast worden.</p></td><td style="width: 248px;"><p><b>Kan</b> tot modellen vanuit hun gerelateerde document in het documenten gedeelte toegepast worden.</p></td></tr></tbody></table></div>
 
-## **Vertrouwd maar anders**
+## 2. **Vertrouwd maar anders**
 
 Nu dat de twee gedeeltes gelinkt zijn is het belangrijk om op te letten dat er nog steeds verschillen zijn tussen de modellen en documenten gedeeltes.
 
@@ -26,7 +22,7 @@ In het documentengedeelte zult u nu document-modellen in uw documentenstructuur 
 
 Alle modellen zijn nu aan elk hun eigen document gelinkt en functies van beide gedeeltes kunnen gebruikt worden beide in het modellen gedeelte en in het documentengedeelte.
 
-## **Veranderingen in het modellengedeelte**
+## 3. **Veranderingen in het modellengedeelte**
 
 Met modellen als documenten zal het modellengedeelte van uiterlijk verander zijn.
 
@@ -36,13 +32,13 @@ In het modellen gedeelte zult u de volgende veranderingen kunnen vinden:
 
 [Tabel](#h_cbf15299bf) - [Kolommen](#h_49da57d851) - [Elementkeuze](#h_a32100babf) - [Actieknoppen](#h_128bac5644) - [Toegang](#h_c122f5b70d) - [Informatiemenu](#h_4c71e3e504)
 
-### **Modellen tabel**
+### 3.1 **Modellen tabel**
 
 De nieuwe modellentabel kan er als volgt uitzien:
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1444238060/654c1fa2f91c52b6988382dc149d/image.png?expires=1781092800&signature=65efba76162b0bd5fa6c040f8e9396dc8496eee935f146402b067ffaecd02ea1&req=dSQjEst9lYFZWfMW3nq%2BgXzNN8yctq38%2B%2FfnJYKxI8%2BxtnYhvnNwfW77K8kk%0AHkYwtHCqPgEzlE2wMVw%2FRWNLmmQ%3D%0A)
 
-### **Kolommen**
+### 3.2 **Kolommen**
 
 De modellenlijst heeft kolommen die het meeste van de informatie die u over uw modellen moet weten laten zien.
 
@@ -60,23 +56,23 @@ De naam van de laatste revisie.
 
 Dit is de naam van dat het bestand had wanneer het geüpload werdt. De revisienaam kan voor elke revisie anders zijn terwijl de documentennaam de verzamelnaam voor al de revisies is.
 
-### **Toegangsbeheer**
+### 3.3 **Toegangsbeheer**
 
 Als een model voor u beperkt is in het documenten gedeelte zult u deze noch in het documenten gedeelte, de modellen tabel noch in de revisie kiezer zien.
 
-### **Elementkeuze in de tabel**
+### 3.4 **Elementkeuze in de tabel**
 
 Met de modellentabel kunt u nu een reeks modellen selecteren door shift ingedrukt te houden.
 
 U kunt ook modellen tot uw keuze toevoegen en verwijderen door control ingedukt te houden.
 
-### **Actieknoppen**
+### 3.5 **Actieknoppen**
 
 In het verleden was de enige actie die op gekozen modellen werkte het openen van deze modellen in 3D. Nu kunt u uw gekozen modellen downloaden, verwijderen en in 3D openen.
 
 Als u een model dat aan een document gekoppeld is verwijderd zal het document de koppeling tot het model verliezen, maar het documetn zal in het documenten gedeelte behouden blijven.
 
-### **Toegangsbeheer van document-modellen**
+### 3.6 **Toegangsbeheer van document-modellen**
 
 **Aanmaken van een model-document**
 
@@ -106,7 +102,7 @@ Om nieuwe revisies tot een model te kunnen uploaden zult u ten minste schrijf re
 
 U zult ten minste lees toegang tot het document-model nodig hebben om het model te downloaden.
 
-### **Rechter informatie menu**
+### 3.7 **Rechter informatie menu**
 
 Een rechter informatiemenu zal toegankelijk worden als een model geselecteerd is.
 
@@ -130,23 +126,19 @@ Als statussen in documenteninstellingen geconfigureerd zijn zal u in dit menu de
 
 Als u een model in 3D geopent hebt zal u de modellentransformatie in dit menu kunnen bewerken.
 
-## **Veranderingen in het documentengedeelte**
+## 4. **Veranderingen in het documentengedeelte**
 
 Terwijl de visuele veranderingen niet als klaarblijkelijk zijn als in het modellengedeelte zullen er een paar functies op een andere manier werken.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1444523409/f00b3c4298a51ee01cc2e44a62f4/image.png?expires=1781092800&signature=91a36e53931c2f57078308ffab651a5f5b5b2c3b6fe3ec9a854427a79a12a7bb&req=dSQjEsx8noVfUPMW3nq%2BgQtlKD%2Fq0MJ8Z8z1212tKpdvN2s03%2BKmVr2K0Jmd%0Ab83eIfq1xw1jiGHU9IHKSsab5x0%3D%0A)
 
-In het documentengedeelte zult u de volgende veranderingen kunnen zien:
-
-**[Filter](#h_1f1dbd96a7) - [Kolonnen](#h_2fb2d0ad29) - [Acties](#h_011066e896) - [Toegang](#h_1b2fdab493) - [Hervindbaarheid](#h_1e7a1fdf5a) - [Beoordeling](#h_cd449caa59) - [Naamgeving](#h_fcc581acf5)**
-
-### **Modellenfilter**
+### 4.1 **Modellenfilter**
 
 Zo snel er modell in in het modellen gedeelte aangemaakt worden zult u het modellen filter tevoorschijn zien komen in het filtermenu van het documenten gedeelte.
 
 Met deze filteroptie kunt u enige document-modellen die aangemaakt zijn tonen/verbergen.
 
-### **Kolonnen**
+### 4.2 **Kolonnen**
 
 **Icoon**
 
@@ -172,7 +164,7 @@ De naam van de laatste revisie in het document-model
 
 Een kolom met knoppen om elk individuele document-model in de 2D/3D viewer te openen. Document-modellen kunnen alleen in de 3D viewer geopend worden als het document tot een model gelinkt is.
 
-### **Actieknoppen**
+### 4.3 **Actieknoppen**
 
 Download, verwijder of laad de 2D/3D views van gekozen modellen in de respectiefe viewer door een of meerdere document-modellen te selecteren.
 
@@ -184,7 +176,7 @@ Als u deen document verwijderd dat aan een model gekoppeld is zult u een waarsch
 
 > **Note:** **Merk:** Dit betekend dt u een model kunt verwijderen zonder de data te verliezen. (verwijderde documenten kunnen hersteld worden)
 
-### **Toegangsbeheer tot model-documenten**
+### 4.4 **Toegangsbeheer tot model-documenten**
 
 **Aanmaken van document-modellen**
 
@@ -210,7 +202,7 @@ U heeft minstens leestoegang nodig om document-modellen te kunnen downloaden.
 
 Dit beekent dat u toegang in kunt stellen om toe te staan om enkele modellen te downloaden in plaats van alleen alle of geen modellen.
 
-### **Hervindbaarheid**
+### 4.5 **Hervindbaarheid**
 
 Document-modellen kunnen nu in het documentengedeelte gevonden worden zoals enig ander document.
 
@@ -221,11 +213,11 @@ Document-modellen kunnen nu in het documentengedeelte gevonden worden zoals enig
 
 Kijk [hier](https://support.catenda.com/en/articles/8542598-structuring-documents#h_7838a63c73) voor suggesties voor ho u uw document-modellen kunt stuctureren om deze makkelijke hervindbaar te maken.
 
-### **Gedeelde IFC documenten met beoordelingen goedkeuren**
+### 4.6 **Gedeelde IFC documenten met beoordelingen goedkeuren**
 
 IFC bestanden kunnen nu als gedeeld bestand geüpload worden zodat deze door een beoordelingsproces gehaald kunnen worden voordat ze gepubliceerd worden.
 
-### **Naamgevingsafspraken met document-modellen**
+### 4.7 **Naamgevingsafspraken met document-modellen**
 
 Namen in het documentengedeelten bevatten vaak gecomprimeerde afkortingen om de documentennaam kort te behouden en tegelijkergeijd zoveel mogelijk informatie over het document te bevatten. De naam van het document-model kan daarom een verschillende naam van de naam van het model document zijn. Op die manier kan de naam van het document in lijn zijn met de rest van de documenten in het documenten gedeelte terwijl de naam van het model een makkelijke te leze alias gegeven kan worden zodat deze makkelijk te gebruiken is in de 3D viewer en in het modellen gedeelte.
 

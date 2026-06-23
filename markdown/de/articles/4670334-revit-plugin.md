@@ -4,7 +4,7 @@
 
 [Erste Schritte](#h_8b2f64d83e) - [Issue list](#h_642fa61854) - [Issue details](#h_445d3efa52) - [Upload to Catenda Hub](#h_1e09af8c8f) - [Settings](#h_b02502c589)
 
-## Erste Schritte
+## 1. Erste Schritte
 
 Nachdem Sie das Plugin installiert haben, öffnen Sie ein Revit-Modell und klicken Sie auf die Schaltfläche Catenda Hub in den Add-Ins.
 
@@ -18,11 +18,11 @@ Klicken Sie auf "Zugriff zulassen", um dem Revit-Add-In den Zugriff auf Ihr Cate
 
 Sie können den Zugang zu Ihrem Catenda Hub-Konto jederzeit löschen, indem Sie zu Ihrer [Catenda Applikations](https://bimsync.com/account/apps) Seite gehen und auf "Zugriff widerrufen" neben "Revit Plugin für Catenda Hub" klicken.
 
-## Aufgaben-Board
+## 2. Aufgaben-Board
 
 Auf dieser Seite finden Sie das Hauptmenü für die Navigation in Ihrem Catenda Hub-Projekt, in den Aufgaben-Boards und in den Aufgaben.
 
-### Oberfläche
+### 2.1 Oberfläche
 
 ![Header.png](https://catenda-as.intercom-attachments-1.com/i/o/271057390/4c89286cb715f52e3d783b6c/Header.png?expires=1781092800&signature=398d9921638cb23a9d50c7799d1535c1416647367ab528baff78db4609a2db32&req=dicmFsx5nohfFb4V1XW4gdJZzGffSByllQENCKlZyob%2BST4NNuZ5cUksJz12%0AkCAA%2F3Kfd2Td0zxjhk75Iy1JGg%3D%3D%0A)
 
@@ -34,13 +34,13 @@ Auf dieser Seite finden Sie das Hauptmenü für die Navigation in Ihrem Catenda 
 1. Suchen und filtern Sie die angezeigten Aufgaben
 1. Die Liste der aktuell gefilterten Aufgaben in der Aufgaben-Datenbank
 
-### Auswahl von Projekten und Aufgaben-Boards
+### 2.2 Auswahl von Projekten und Aufgaben-Boards
 
 Wenn Sie ein Catenda-Projekt auswählen, wird die Liste der Aufgaben-Boards in diesem Projekt angezeigt, so dass Sie eins auswählen können, um die entsprechenden Aufgaben anzuzeigen. Außerdem werden das Catenda-Projekt und das Aufgaben-Board in Ihrem Revit-Modell gespeichert und automatisch geöffnet, wenn Sie dieses Modell das nächste Mal öffnen.
 
 ![ProjectInfo.png](https://catenda-as.intercom-attachments-1.com/i/o/271057405/d5c967a0ac3f187ed30e592e/ProjectInfo.png?expires=1781092800&signature=386793ccce6b13fc42734e390919e84f4deae21c7108c6295a15d81514bf3e62&req=dicmFsx5mYFaFb4V1XW4gRm1PmqxAGtl3%2B%2FHwntEbjzXIM38AKKVyKa%2F6w2%2B%0AYYuDnmzT7GAy081dJNb9XwINjA%3D%3D%0A)
 
-### Catenda Add-in Menu
+### 2.3 Catenda Add-in Menu
 
 ![Menu.png](https://catenda-as.intercom-attachments-1.com/i/o/271057418/ee944c802a6309a74f33db9b/Menu.png?expires=1781092800&signature=c89e8311ef022c706f61f0e57803e273c0ac358066e60f8784ba96c7f2a0e9e4&req=dicmFsx5mYBXFb4V1XW4gQzKBuzsr2CyN%2Fnh2PIwIqVLxc0xU6FqznGgZL7M%0AuAbb1OQ1WNOyULgSw5XMNMLTRA%3D%3D%0A)
 
@@ -49,7 +49,7 @@ Wenn Sie ein Catenda-Projekt auswählen, wird die Liste der Aufgaben-Boards in d
 1. Öffnen Sie Ihre Catenda-Kontoseite in Ihrem Standardbrowser
 1. Melden Sie sich von Ihrem Catenda-Konto ab
 
-### Aufgaben Auswahl
+### 2.4 Aufgaben Auswahl
 
 In der Aufgabenliste finden Sie alle wichtigen Informationen zu einer Aufgabe:
 
@@ -67,7 +67,7 @@ In der Aufgabenliste finden Sie alle wichtigen Informationen zu einer Aufgabe:
 
 Sie können auf eine beliebige Aufgabe klicken, um die Detailseite der Aufgabe aufzurufen.
 
-### Aufgaben sortieren
+### 2.5 Aufgaben sortieren
 
 Sie können die angezeigten Themen so sortieren, dass die für Sie wichtigsten zuerst angezeigt werden.
 
@@ -80,7 +80,7 @@ Sie können die angezeigten Themen so sortieren, dass die für Sie wichtigsten z
 1. Bringen Sie das jüngste Fälligkeitsdatum zuerst
 1. Bringen Sie das älteste Fälligkeitsdatum zuerst
 
-### Aufgaben filtern
+### 2.6 Aufgaben filtern
 
 Mit der Filterleiste können Sie jede Art von Filter kombinieren, um nur die wichtigsten Aufgaben anzuzeigen.
 
@@ -104,11 +104,11 @@ Sie können nach diesen Filtern suchen, indem Sie Text in die Filterleiste einge
 
 ![TextFilter.png](https://catenda-as.intercom-attachments-1.com/i/o/271057480/2be177ecffac2997cc141fdc/TextFilter.png?expires=1781092800&signature=2386db399784ae98ddb528d6cd0deaa45a2398b14e54910c611fb93379e55396&req=dicmFsx5mYlfFb4V1XW4gSM6SuMG1ZK5apozzDNWfyuC3uP1OUqEeVPZ69RH%0AGj5bgz6enFyjJ7wxdITVLa0wMg%3D%3D%0A)
 
-## Aufgaben Details
+## 3. Aufgaben Details
 
 In dieser Ansicht können Sie eine bestimmte Aufgabe überprüfen und bearbeiten.
 
-### Oberfläche
+### 3.1 Oberfläche
 
 ![IssueDetailView.png](https://catenda-as.intercom-attachments-1.com/i/o/271057491/79afbc3ef7ce0c15873df501/IssueDetailView.png?expires=1781092800&signature=f2e7442fee9ae413f8eb95409559531f1aaca167f4eabb699a9e9d56246fff4b&req=dicmFsx5mYheFb4V1XW4gSFXI3%2BvDPw6wgPRIZvJKvxvthS00%2FyXss67f8M9%0ARYrGyKVnqF6eLS9gS7AXZUqrfg%3D%3D%0A)
 
@@ -123,7 +123,7 @@ In dieser Ansicht können Sie eine bestimmte Aufgabe überprüfen und bearbeiten
 1. Die Beschriftung der Aufgabe bearbeiten
 1. Die Liste der Kommentare in der Aufgabe
 
-### Aufgaben Einstellungen
+### 3.2 Aufgaben Einstellungen
 
 Sie können jede Eigenschaft der Ausgabe bearbeiten: Status, Typ, Zuweiser, Antragsteller, Fälligkeitsdatum, Etiketten. In jedem Menü wird eine Liste der verfügbaren Eigenschaften angezeigt. Sie können jedoch nicht direkt im Plugin einen neuen Status, Typ oder eine neue Beschriftung erstellen. Dazu müssen Sie die Webschnittstelle von Catenda Hub verwenden.
 
@@ -139,7 +139,7 @@ Sie können auch Text in die Beschriftungsleiste eingeben, um die Liste der Filt
 
 ![editLabels.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057525/66fb261901258f426d78ed07/editLabels.gif?expires=1781092800&signature=ece9633dc25d334ac0861298acf82cfa9f639d524271e942f7905ceec3da5655&req=dicmFsx5mINaFb4V1XW4ga5g5rPdNhQoS6XvU%2BWN1wgNas4OMzwmmPHNXaA4%0A3vf35gsrXfVMDKaYVqGZAAbLyQ%3D%3D%0A)
 
-### Kommentare
+### 3.3 Kommentare
 
 Alle Kommentare werden unterhalb der Aufgabe angezeigt. Ein Kommentar kann Text, ein Bild, einen Schnappschuss aus Ihrer aktuellen Revit-Ansicht oder einen Standpunkt enthalten.
 
@@ -151,7 +151,7 @@ Alle Kommentare werden unterhalb der Aufgabe angezeigt. Ein Kommentar kann Text,
 1. Das mit dem Kommentar verbundene Bild
 1. Der Text des Kommentars
 
-### Zoom
+### 3.4 Zoom
 
 Wenn der Kommentar einen Blickpunkt enthält, können Sie zu diesem Blickpunkt zoomen. Wenn Sie hineinzoomen, wird eine neue 3D-Ansicht in Ihrem Revit-Modell erstellt, die auf denselben Blickpunkt ausgerichtet ist.
 
@@ -163,7 +163,7 @@ Wenn der Aussichtspunkt aus einer perspektivischen Ansicht erstellt wurde, wird 
 
 Das Add-In erstellt nur eine perspektivische Ansicht und eine orthografische Ansicht. Nachdem es diese beiden Ansichten erstellt hat, werden sie für jede weitere Verwendung der Zoomfunktion wiederverwendet. Sie können dies im Einstellungsmenü ändern. Über das Einstellungsmenü können Sie auch den Namen dieser Ansichten ändern.
 
-### Markierte Elemente
+### 3.5 Markierte Elemente
 
 Wenn das Thema verwandte Elemente enthält, wählt das Add-In diese in Revit aus, wenn Sie auf einen Standpunkt zoomen.
 
@@ -171,7 +171,7 @@ Wenn das Thema verwandte Elemente enthält, wählt das Add-In diese in Revit aus
 
 Damit diese Funktion funktioniert, muss Ihr Revit-Modell mit der Option "IFC-GUID nach dem Export in einem Elementparameter speichern" in IFC exportiert worden sein. Dadurch wird der Parameter IFCGuid zu jedem Objekt hinzugefügt, so dass das Plugin die zugehörigen Elemente auswählen kann.
 
-### Kommentar hinzufügen
+### 3.6 Kommentar hinzufügen
 
 Sie können Kommentare zu einer Aufgabe hinzufügen, indem Sie in das Textfeld schreiben und auf "Senden" klicken.
 
@@ -179,13 +179,13 @@ Sie können auch ein Bild von Ihrem Computer hinzufügen, indem Sie auf die Scha
 
 ![createComment.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057571/f8f1dc5e036c662975947091/createComment.gif?expires=1781092800&signature=68bce4ffbe99bef48e57e2f1fd1b9bf9bde107721eb4a337726692cec11c8bdb&req=dicmFsx5mIZeFb4V1XW4gZKf2ehIb4n%2FwGDxr6nuV%2F6fsbU1Y1R3tv6shUx9%0ATTe5DUj7214%2BrSRyVUcIT6Wz1w%3D%3D%0A)
 
-### 3D Schnappschuss hinzufügen
+### 3.7 3D Schnappschuss hinzufügen
 
 Sie können auch Ihre aktuelle Revit-Ansicht als Blickpunkt und einen Schnappschuss an Ihren Kommentar anhängen. Wie bei jedem Bild können Sie den Snapshot mit Anmerkungen versehen, indem Sie auf das Vorschaubild klicken.
 
 Wenn der Parameter IFCGUID vorhanden ist, werden ausgewählte Elemente in Revit als verwandte Elemente zu Ihrer Ausgabe hinzugefügt.
 
-## Hochladen auf Catenda Hub
+## 4. Hochladen auf Catenda Hub
 
 Sie können Ihr aktuelles Revit-Modell direkt als IFC-Datei zu Catenda Hub hochladen.
 
@@ -202,7 +202,7 @@ Nachdem Sie die Upload-Seite geöffnet haben:
 selectedConfig.Name = "<Catenda Hub Setup>"; selectedConfig.IFCVersion = IFCVersion.IFC2x3CV2; selectedConfig.SpaceBoundaries = 1; selectedConfig.ActivePhaseId = ElementId.InvalidElementId; selectedConfig.ExportBaseQuantities = true; selectedConfig.SplitWallsAndColumns = false; selectedConfig.VisibleElementsOfCurrentView = false; selectedConfig.Use2DRoomBoundaryForVolume = false; selectedConfig.UseFamilyAndTypeNameForReference = true; selectedConfig.ExportInternalRevitPropertySets = true; selectedConfig.ExportIFCCommonPropertySets = true; selectedConfig.Export2DElements = false; selectedConfig.ExportPartsAsBuildingElements = true; selectedConfig.ExportBoundingBox = false; selectedConfig.ExportSolidModelRep = false; selectedConfig.ExportSchedulesAsPsets = false; selectedConfig.ExportUserDefinedPsets = false; selectedConfig.ExportUserDefinedPsetsFileName = ""; selectedConfig.ExportLinkedFiles = false; selectedConfig.IncludeSiteElevation = true; selectedConfig.UseActiveViewGeometry = false; selectedConfig.ExportSpecificSchedules = false; selectedConfig.TessellationLevelOfDetail = 0; selectedConfig.StoreIFCGUID = true; selectedConfig.ExportRoomsInView = true;
 ```
 
-## Einstellungen
+## 5. Einstellungen
 
 Auf der Einstellungsseite können Sie festlegen, wie das Plugin die 3D-Ansicht erstellt, wenn Sie die [Zoom Funktion](#h_36392f671a) verwenden.
 

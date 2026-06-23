@@ -4,11 +4,7 @@ La série ISO 19650 est une norme internationale de bonnes pratiques qui défini
 
 De nombreux acteurs du secteur de la construction ont adopté la norme ISO 19650 pour gérer les processus de livraison et d'approbation des documents dans les projets.
 
-Cet article contient des informations sur les sujets suivants :
-
-_[Cycle de vie d'un document](#h_5fd5f206e5) - [Configuration](#h_a29d778284) - [Onglets des documents](#h_6380765edc) - [Paramètres de validation](#h_76c8842f25) - [Étapes du flux de validation](#h_d62f911af7) -_ _[Désactivation du flux de validation](#h_9a2d33d0ed) -_ _[Avantages](#h_a74182326e)_
-
-## **Cycle de vie d'un document**
+## 1. **Cycle de vie d'un document**
 
 Selon la norme ISO, un document peut avoir quatre états différents :
 
@@ -20,19 +16,19 @@ Selon la norme ISO, un document peut avoir quatre états différents :
 
 📦 **Archivé :** L'information a été utilisée et peut être archivée afin de rester disponible si nécessaire par la suite (audit, création du dossier des travaux réalisés, etc.).
 
-### 
+### 1.1 
 
 **États d'un document (ISO 19650):**
 
 ![](https://downloads.intercomcdn.com/i/o/1201587102/dd062cd6f0668da781204f25/AD_4nXdxhgqhSMUAx3mvWCp_YY0Reke_AusmPHugivHaunwEyvVFnaC5Qs_xDThI3kiGPWYw6psdrUzS2Xa7U4k-HqQGc1ALlZpZyVTpzUivHHj4fvjLWAy_yq7cIvFkz20WsBfLvGcIqQUafYgdYxnVl6hQDpsV?expires=1781092800&signature=b1263852427165b95b01ed0ac6278321a1a6f5c6f05b850db8b7833c221ee726&req=dSInF8x2moBfW%2FMW3nq%2BgTdx%2Fx%2BBm8NOJ7dpGXwJ9oHGVHo%2FO1Wcfwjwn9Zi%0ABi0eej2vS%2BNB%2Ftw%2FIrNVk0HhsVQ%3D%0A)
 
-### **Flux de Validation sur Catenda Hub:**
+### 1.2 **Flux de Validation sur Catenda Hub:**
 
 ![](https://downloads.intercomcdn.com/i/o/1201587097/e18091509f2f186328797838/AD_4nXc-sz_yq5zZbwOV4LCV4zitdSXG7nBIg4EFbjXAXjAINfj0aDYDH27PINzlD-2NnwvpyM2H0mc28NMqEoaURHouvFXQGTdiWnr56HSyfTZGgs98NZVETiEfakzwcWQsQdMq7MIXGppFOe9rF4KaYscZB-U_?expires=1781092800&signature=2ea83e75b9d39096ef9fe7cbe5b644ee031898df6d091c2d842346b7ec6a6db0&req=dSInF8x2moFWXvMW3nq%2Bgb13oFC6bdUU7DqX5Nw8CVsBTF5thY%2FY2qj%2BiEDe%0AH1CjpWA2oemJq4bfHVSkqhPfEFo%3D%0A)
 
-### 
+### 1.3 
 
-## **Configuration du Flux de Validation**
+## 2. **Configuration du Flux de Validation**
 
 L'activation et la configuration du flux de validation est réservée aux administrateurs de projet.
 
@@ -48,7 +44,7 @@ L'activation et la configuration du flux de validation est réservée aux admini
 
     <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/1178803801/1747b7b8c7d76f3dddbbfe88/image.png?expires=1781092800&amp;signature=e799c7e6ff3facf036b3bc0b95b77a2499257a73273d5e9a8636ea7de9981a68&amp;req=dSEgHsF%2BnolfWPMW3nq%2BgdaXG6x1PMxGkb8PvocbWQ8iVKGQavbXWek5XHyG%0AJozdIomWpNe7xP2s3B0Skh8GVtc%3D%0A"/></div>
 
-## **Onglets des documents**
+## 3. **Onglets des documents**
 
 L'onglet "Espace de travail" est l'endroit où tous les chargements de nouvelles révisions ont lieu et l'onglet "Publié" est l'endroit où les révisions publiées sont exclusivement affichées.
 
@@ -105,7 +101,7 @@ Vous trouverez ici une vue d'ensemble de toutes les révisions du document. Vous
 
     <div class="intercom-container"><img height="1146" src="https://downloads.intercomcdn.com/i/o/areracg3/1208322023/8b79e66b02a67d950bb54d33c1aa/image.png?expires=1781092800&amp;signature=d1ac5ca86ed243a0c6b58515ed9a4aec47dff2591e0d971816e3dd0857c6a04d&amp;req=dSInHsp8n4FdWvMW3nq%2BgZjvSDSuFOoja3Qs11%2BNqTI8cg50Atj40px8T1f8%0A86dioGDi7K3lFmXkKfsyGBUWj8I%3D%0A" style="height: auto;" width="2396"/></div>
 
-## **Paramètres du flux de validation**
+## 4. **Paramètres du flux de validation**
 
 1. Les droits d'accès à la configuration des statuts des documents peuvent être configurés depuis [l'onglet des paramètres du projet](https://support.catenda.com/en/articles/4670273-project-settings-page) :
 
@@ -119,7 +115,7 @@ Vous trouverez ici une vue d'ensemble de toutes les révisions du document. Vous
 
     <div class="intercom-container"><img height="532" src="https://downloads.intercomcdn.com/i/o/areracg3/1211362235/ff7ea475a572749cba4247518058/image.png?expires=1781092800&amp;signature=ed641b32ce2b29ed26475385e36b8015832ce0fcc27dc7dd50942cd3942ef84f&amp;req=dSImF8p4n4NcXPMW3nq%2Bgcv5xnTzfFrfmLPu%2Fh%2FbaP0DptD%2Bm8oeC8vRpvPF%0AzFKQmL79JK7RcPLygqoKQ0CoqM4%3D%0A" style="height: auto;" width="1905"/></div><div class="intercom-container"><img height="620" src="https://downloads.intercomcdn.com/i/o/areracg3/1211362345/59c0a70c13879eacc2b08c0db623/image.png?expires=1781092800&amp;signature=9c4b2b7d82aee40c7c1baccfdf0c17735a34889d51b5680e5824f7502d8f4289&amp;req=dSImF8p4n4JbXPMW3nq%2BgQL5wc3pBXVaAiE%2FNNg7wwK7Y9rNWq0G7M1E0M6c%0AgGNJ2NG26plHpZW4oC7Y%2F2YpO2M%3D%0A" style="height: auto;" width="945"/></div>
 
-## **Étapes du flux de validation**
+## 5. **Étapes du flux de validation**
 
 1. Une demande d'approbation nomine un "Éditeur" (personne responsable de prendre la décision finale concernant the publication), et un ou plusieurs "Examinateur(s)", responsables de valider (ou non) une série de documents.
 1. Chaque examinateur décide si un document partagé est "Approuvé", "Approuvé avec commentaires", ou "Rejeté".
@@ -130,7 +126,7 @@ Une démonstration détaillée de ces étapes est présentée dans ce tutoriel :
 
 [Vidéo YouTube](https://www.youtube.com/embed/lDWKXWTtegU?rel=0)
 
-## **Désactivation du flux de validation**
+## 6. **Désactivation du flux de validation**
 
 Si vous voulez désactiver le flux de validation, vous pouvez le faire en cliquant sur le bouton radio dans les [paramètres des documents](https://support.catenda.com/en/articles/7831371-document-settings).
 
@@ -140,7 +136,7 @@ Les onglets "Publié" et "Espace de travail" dans la section des documents dispa
 
 Les documents déposés pendant que le flux de validation n'est pas activé while the status seront déposés se trouveront dans l'onglet "Publié" une fois que le flux de validation est activé.
 
-## **Avantages**
+## 7. **Avantages**
 
 - L'onglet publié sert de zone désignée pour les documents contractuels. Les membres du projet peuvent facilement trouver des documents vérifiés.
 - Les documents sont validés avant d'être publiés

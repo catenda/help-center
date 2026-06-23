@@ -17,11 +17,11 @@ Deze add-in laat je naadloos issues visualiseren, maken, en bewerken van binneni
 - Wijs issues toe aan leden van een project
 - Verander de status van een issue en andere eigenschappen
 
-## Cloud-gebaseerde Samenwerking
+## 1. Cloud-gebaseerde Samenwerking
 
 Catenda Hub brengt u constructie data tot leven in een cloud-gebaseerd samenwerk platform die over de hele levenscyclus van een gebouw spant. Catenda Hub beheert u project informatie vanaf het begin van een bouwproject tot de overdracht en verder, wat verzekert dat data kennis is behouden over alle project fasen.
 
-## Open Standaarden
+## 2. Open Standaarden
 
 Catenda Hub is een BIM samenwerk hulpmiddel dat alle buildingSMART standaarden ondersteunt (IFC, bSDD, BCF, COBie). Het komt met een reeks van API's voor eenvoudige implementatie in u eigen software.
 

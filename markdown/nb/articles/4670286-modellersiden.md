@@ -14,11 +14,7 @@ Denne siden er del av [innholdspanelet](https://support.catenda.com/en/articles/
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/2203330265/60c65eaafc1fe9c98d0b014ea0aa/image.png?expires=1779991200&signature=60ea6cff27fdcf17b08461d5151323b964a0b8ea989c307fc99f378d30d31214&req=diInFcp9nYNZXPMW3nq%2BgStsWwQs4heuYwJav0Xdgn52pMkdUyvcWMbbKx9o%0AifRAPzYK695%2FggCVJcgOi7qE7jI%3D%0A)
 
-De følgende emnene vil bli beskrevet i denne artikkelen:
-
-_[Nye elementhandlinger](#h_5dc7dabe3a) - [Søk- eller filteralternativer](#h_330a5c2a91) - [Høyre meny](#h_ac840d5d23) - [Modelltabell](#h_bbc42c56bb) - [Undersider](#h_f549b192ca)_
-
-## **Nye elementhandlinger**
+## 1. **Nye elementhandlinger**
 
 De nye elementhandlingene finner du øverst til høyre på siden.
 
@@ -26,13 +22,13 @@ De nye elementhandlingene finner du øverst til høyre på siden.
 
 Se [her](https://support.catenda.com/en/articles/9431936-actions-on-the-models-page) for hva de ulike handlingene gjør.
 
-## **Søk- eller filteralternativer**
+## 2. **Søk- eller filteralternativer**
 
 Se [her](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page) for å finne ut hvordan du best søker eller filtrerer på modellsiden:
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1702848368/4c99fc064c7351e524831d7686e6/image.png?expires=1779991200&signature=1ade06ead1a0b9ca23aaac2f4ae2a0fd9ce8f0cfcba69fe0403a44220b7f6076&req=dScnFMF6lYJZUfMW3nq%2BgVPl8vbHmkmDhmOZUW1XEw2rSFTXXevw1%2FKGTqXi%0A4VSeYcm72PXgAVmZzTKYrvr7cV8%3D%0A)
 
-## **Høyre meny**
+## 3. **Høyre meny**
 
 Hvis noen modellrader er valgt i modelltabellen, vil en infoknapp vises til høyre for søk- eller filterlinjen.
 
@@ -50,7 +46,7 @@ I høyre meny vil du kunne se informasjon om:
 - _Modelltransformering_
   Klikk [her](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page) for å lese mer om høyre meny på modellsiden.
 
-## **Modelltabell**
+## 4. **Modelltabell**
 
 Modelltabellen kan se slik ut:
 
@@ -60,7 +56,7 @@ Så snart en modell er opprettet, vises den som en rad i modelltabellen.
 
 Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda.
 
-### **Valgte elementhandlinger**
+### 4.1 **Valgte elementhandlinger**
 
 Etter å ha valgt en modellrad, vises valgte elementhandlinger øverst i modelltabellen.
 
@@ -70,7 +66,7 @@ Slik kan menyen for valgte elementhandlinger se ut:
 
 Klikk [her](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed) for å se hva de ulike valgene elementhandlinger gjør.
 
-### **Radinnhold**
+### 4.2 **Radinnhold**
 
 Når tabellen først lastes inn, vises opptil 100 rader.
 
@@ -92,7 +88,7 @@ For 2D åpnes 3D-panelet og det første etasjen til den nyeste revisjonen av mod
 
 For 3D åpnes 3D-panelet og den nyeste revisjonen av modellen lastes inn i 3D.
 
-### **Radinnhold med statusarbeidsflyt - Utkastrevisjoner**
+### 4.3 **Radinnhold med statusarbeidsflyt - Utkastrevisjoner**
 
 _Tilgang_
 
@@ -100,7 +96,7 @@ Modellrader av modeller som kun har utkastrevisjoner, har ingen 2D- og 3D-knappe
 
 > **Merk:** Utkastrevisjoner vises ikke på [modelløversiktssiden](https://support.catenda.com/en/articles/4670270-model-page). _2D- og 3D-knapper_ 2D- og 3D-visningene av den nyeste publiserte revisjonen åpnes selv om det finnes nyere utkastrevisjoner.
 
-### **Radinnhold med statusarbeidsflyt - Arbeidsflate-fane**
+### 4.4 **Radinnhold med statusarbeidsflyt - Arbeidsflate-fane**
 
 _Tilgang_
 
@@ -118,7 +114,7 @@ _2D- og 3D-knapper_
 
 2D- og 3D-visningene av den nyeste revisjonen som en bruker har tilgang til, åpnes.
 
-### **Radinnhold med statusarbeidsflyt - Publisert fane**
+### 4.5 **Radinnhold med statusarbeidsflyt - Publisert fane**
 
 _Tilgang_
 
@@ -130,7 +126,7 @@ _2D- og 3D-knapper_
 
 2D- og 3D-visningene av den nyeste publiserte revisjonen åpnes selv om det finnes nyere delte revisjoner.
 
-### **Kolonner**
+### 4.6 **Kolonner**
 
 Avhengig av om et enkelt panel er åpnet eller flere paneler er åpnet, kan ulik informasjon vises.
 
@@ -159,7 +155,7 @@ I stedet for et revisjonsnummer vil du se følgende ikon som du kan klikke på f
 <div class="intercom-container intercom-align-center"><img src="https://downloads.intercomcdn.com/i/o/1128796790/433007f5c08e12a46a1cf72e/image.png?expires=1779991200&amp;signature=6d2769c236522b8add72ad1459efbfd3edea361596758a5e4a0fdaead6fb31f9&amp;req=dSElHs53m4ZWWfMW3nq%2BgUJAq5%2Fne8p%2FnydcowhE3pLyS2kmGK2JVLf86cKP%0A9OyFoh%2BA1DcSJq8Gbrr%2BZWcg9Q8%3D%0A" width="47"/></div><p class="no-margin"></p>
 </td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Revisjonskommentar</i></p></td></tr><tr><td><p class="no-margin">Kommentaren revisjonen ble lastet opp med (kun eldre)</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Revisjonsnavn</i></p></td></tr><tr><td><p class="no-margin">Navnet på den siste offentlige dokument-modellrevisjonen. Kan ikke endres etter opplasting.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Status</i> - Standard</p></td></tr><tr><td><p class="no-margin">Statusen for den siste offentlige dokument-modellrevisjonen. Offentlige statuser kan aktiveres i <a class="intercom-content-link" href="https://support.catenda.com/en/articles/7831371-document-settings" target="_blank">dokumentinnstillinger</a>.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Størrelse</i> - Standard</p></td></tr><tr><td><p class="no-margin">Filstørrelsen på den siste offentlige dokument-modellrevisjonen</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Etiketter</i> - Standard</p></td></tr><tr><td><p class="no-margin">Etikettene som er tilknyttet modell-dokumentet.</p></td></tr><tr><td><p class="no-margin">En etikett kan brukes etter opplasting av den første revisjonen.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Dokument opprettet</i></p></td></tr><tr><td><p class="no-margin">Personen som opprettet dokument-modellen og dato og klokkeslett for når den ble opprettet.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Publisert</i> - Standard</p></td></tr><tr><td><p class="no-margin">Personen som publiserte den siste publiserte revisjonen i dokument-modellen og dato og klokkeslett for når den ble publisert.</p></td></tr></tbody></table></div>
 
-## **Undersider**
+## 5. **Undersider**
 
 Som undersider til modellsiden kan du finne følgende sider:
 

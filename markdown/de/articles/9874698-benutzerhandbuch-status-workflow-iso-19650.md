@@ -10,7 +10,7 @@ Dieser Artikel enthält Informationen zu den folgenden Themen:
 
 Lifecycle - Konfiguration - Dokumentenreiter -  Vorteile
 
-## Lebenszyklus eines Dokuments
+## 1. Lebenszyklus eines Dokuments
 
 Nach der ISO-Norm kann ein Dokument vier verschiedene Zustände haben;
 
@@ -22,19 +22,19 @@ Nach der ISO-Norm kann ein Dokument vier verschiedene Zustände haben;
 
 📦 **Archiviert:** Die Informationen wurden verwendet und können archiviert werden, um bei Bedarf später wieder zur Verfügung zu stehen (Audit, Erstellung der Datei der durchgeführten Arbeiten usw.)
 
-### 
+### 1.1 
 
 **Dokumentenstatus (ISO 19650):**
 
 ![](https://downloads.intercomcdn.com/i/o/1192645659/afed193a4a6eb464b9806623/AD_4nXdxhgqhSMUAx3mvWCp_YY0Reke_AusmPHugivHaunwEyvVFnaC5Qs_xDThI3kiGPWYw6psdrUzS2Xa7U4k-HqQGc1ALlZpZyVTpzUivHHj4fvjLWAy_yq7cIvFkz20WsBfLvGcIqQUafYgdYxnVl6hQDpsV?expires=1781092800&signature=2ec799ba926f3585ab464c6ef85f5cf78eaf31b2be19de6c513df14bb2316c7f&req=dSEuFM96mIdaUPMW3nq%2BgXLGAGoOYls3qt1CxHO1RnOpY92um%2F999Jsn7SGk%0ARCw2ZRodMiwg59XiBcCnxWSzaOY%3D%0A)
 
-### Arbeitsablauf im Catenda Hub:
+### 1.2 Arbeitsablauf im Catenda Hub:
 
 ![](https://downloads.intercomcdn.com/i/o/1192645644/ef149205437637a57ffd6947/AD_4nXc-sz_yq5zZbwOV4LCV4zitdSXG7nBIg4EFbjXAXjAINfj0aDYDH27PINzlD-2NnwvpyM2H0mc28NMqEoaURHouvFXQGTdiWnr56HSyfTZGgs98NZVETiEfakzwcWQsQdMq7MIXGppFOe9rF4KaYscZB-U_?expires=1781092800&signature=5287e780f6dee795db875293f33d25f192f771ef7cd2f2ad702780c73f4b37bb&req=dSEuFM96mIdbXfMW3nq%2BgXz0ikBOuI3nKwOy9CRa5CMsU9kaNDn5Oi%2B8qRrp%0AG6t70C4yV2vRMmZ6yXHA2N5s0E0%3D%0A)
 
-### 
+### 1.3 
 
-## Status-Workflow konfigurieren
+## 2. Status-Workflow konfigurieren
 
 Das Aktivieren und Konfigurieren des gemeinsamen Status-Workflows ist den Projektadministratoren vorbehalten.
 
@@ -50,11 +50,11 @@ Das Aktivieren und Konfigurieren des gemeinsamen Status-Workflows ist den Projek
 
     <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/1178803801/1747b7b8c7d76f3dddbbfe88/image.png?expires=1781092800&amp;signature=e799c7e6ff3facf036b3bc0b95b77a2499257a73273d5e9a8636ea7de9981a68&amp;req=dSEgHsF%2BnolfWPMW3nq%2BgdaXG6x1PMxGkb8PvocbWQ8iVKGQavbXWek5XHyG%0AJozdIomWpNe7xP2s3B0Skh8GVtc%3D%0A"/></div>
 
-## 
+## 3. 
 
-## 
+## 4. 
 
-## **Dokumentenreiter**
+## 5. **Dokumentenreiter**
 
 Auf der Registerkarte "Arbeitsbereich" werden alle neuen Revisionen hochgeladen und auf der Registerkarte "Veröffentlicht" werden ausschließlich veröffentlichte Revisionen angezeigt.
 
@@ -82,7 +82,7 @@ Hier sind einige der verfügbaren Funktionen;
 
     <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/1178825201/afe0228a33f10610c791af57/image.png?expires=1781092800&amp;signature=7e64dadbb5adcc5228d04c8eb8e61034ce3f449c75cbb98e1f3030895ff381a8&amp;req=dSEgHsF8mINfWPMW3nq%2BgVEMHZwrInPrEBw7XsaSZ10L8o%2FlrmgzxDd3Y%2BEd%0AfDLrO9ZLzp6XU95uZ%2BykGZmdwyA%3D%0A"/></div>
 
-## Vorteile
+## 6. Vorteile
 
 - Die Registerkarte "Veröffentlicht" dient als ausgewiesener Bereich für Vertragsdokumente. Projektmitglieder können geprüfte Dokumente leicht finden.
 - Dokumente werden vor ihrer Veröffentlichung validiert
