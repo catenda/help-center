@@ -1,6 +1,6 @@
 # Report templates page
 
-> **Note:** **Note 1:** The reports page is an opt-in feature that can be requested to be enabled for ongoing projects. **Note 2:** New projects that are created based on a template project where this feature is enabled do not have this feature enabled.
+> **Note 1:** The reports page is an opt-in feature that can be requested to be enabled for ongoing projects. **Note 2:** New projects that are created based on a template project where this feature is enabled do not have this feature enabled.
 
 The report templates page can be found as a sub-page of the [reports page](https://support.catenda.com/en/articles/12303098-reports-page) in the left navigation menu. On the report templates page document and topic templates that are available to the project can be managed. _Access required:_ Administrator
 

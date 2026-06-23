@@ -1387,7 +1387,7 @@ Voici à quoi cela peut ressembler pour Google Chrome :
 
 Dans la boîte de dialogue d'impression, imprimez le document au format PDF.
 
-> **Note:** **Note 1 :** Le code QR n'apparaîtra sur la couche de contenu que si vous imprimez le document. Si vous téléchargez le document, il se trouvera sur la couche d'annotation. **note 2 :** En imprimant au format PDF, vous rastérisez le contenu du document. Cela signifie que le texte ne pourra pas être recherché lorsque vous le téléchargerez en tant que révision dans Catenda.
+> **Note 1 :** Le code QR n'apparaîtra sur la couche de contenu que si vous imprimez le document. Si vous téléchargez le document, il se trouvera sur la couche d'annotation. **note 2 :** En imprimant au format PDF, vous rastérisez le contenu du document. Cela signifie que le texte ne pourra pas être recherché lorsque vous le téléchargerez en tant que révision dans Catenda.
 
 Le PDF imprimé avec l'espace réservé peut maintenant être téléchargé en tant que nouvelle révision dans Catenda.
 

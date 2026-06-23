@@ -62,7 +62,7 @@ This will open the print dialogue of your browser. Here is what that can look li
 
 In the print dialogue, print the document to PDF.
 
-> **Note:** **Note 1:** The QR code will only end up on the content layer if you print the document. If you download the document it will be on the annotation layer. **Note 2:** By printing to PDF you rasterize the content of the document. This means that the text will not be searchable when you upload it as a revision to Catenda.
+> **Note 1:** The QR code will only end up on the content layer if you print the document. If you download the document it will be on the annotation layer. **Note 2:** By printing to PDF you rasterize the content of the document. This means that the text will not be searchable when you upload it as a revision to Catenda.
 
 The printed PDF with the placeholder can now be uploaded as a new revision to Catenda. To keep your revision history clean you might want to withdraw the previous revision without the QR code.
 
