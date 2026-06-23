@@ -128,7 +128,7 @@ A column with buttons to open each individual document-model in the 3D viewer. O
 
 Download, delete or load the 2D/3D views of selected models in the respective viewer by selecting one or more models.
 
-<img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/1444472073/4a5d62987a173603bfc50826a54e/image.png?expires=1782216000&amp;signature=20ad93776933d00a2448c32f68e4dbc766120043cf7e52558c2d23b877fdc575&amp;req=dSQjEs15n4FYWvMW3Hu4gRIYyWwrFTwyrpcTivpE97jNz4QNTcVB2Uc6mfoq%0A%2FQ%3D%3D%0A" width="310"/>    <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/1444476210/5d03429401f489c2f68540b604ab/image.png?expires=1782216000&amp;signature=01df7a989f20e325f411a5e47987fda7699dc8f846c37fc305b090a0aac7bd2e&amp;req=dSQjEs15m4NeWfMW3Hu4gRy0TuhKQZeuYIkVUVJAmlKa0%2FsAUadTUuD4ATTY%0Atw%3D%3D%0A" width="310"/>
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/04-inline-group-a.png" width="310"/>    <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/05-inline-group-b.png" width="310"/>
 
 This means that you can delete multiple models at once instead of one-by-one like before. If you delete a document that is connected to a model you will have to approve a warning that the model connected to the document will also be deleted.
 
