@@ -162,17 +162,17 @@ Only published revisions are visible in Catenda Site.
 
 1. Edit access to the document status configuration can be configured from the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page):
 
-    <div class="intercom-container intercom-align-center"><img src="https://downloads.intercomcdn.com/i/o/areracg3/1211347568/082eb05dc3b18bf896b0aa148431/image.png?expires=1782259200&amp;signature=b1957d8a38e838fe1bc332362bf4c14c1a93b9a7805c16d938703306efbf42f1&amp;req=dSImF8p6moRZUfMW3nq%2BgWPlnxx3jbK2d8DF99grkWZjqBHeVUIBuTOYGsB3%0AQRUMPrtOAYA%2B%2FeLn2L%2Fue%2BbR9I0%3D%0A" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-1310a15e9f09.png" width="500"/></div>
 
 1. Documents status can be then [configured](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) from the settings in the documents section:
 
-    <div class="intercom-container intercom-align-center"><img src="https://downloads.intercomcdn.com/i/o/areracg3/1211364420/5d6103d8c487ef0b43f8275be5e3/image.png?expires=1782259200&amp;signature=2df5d96731e0e82d4a6c4df8d4816a11b527ad7b7ff7c21086df7cc25b6caf1c&amp;req=dSImF8p4mYVdWfMW3nq%2BgSPBqKtQxHuPPG5UxAGHVK7LO9utCKGpFJT7KiN6%0AIeXrndjhAcq3Q4kIomf7VG5wP%2Fk%3D%0A" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-97a799ddb935.png" width="500"/></div>
 
 1. Finally, these document status can be assigned to file review status accessible from the top-right three dots button in the [Approvals section](https://support.catenda.com/en/articles/8349340-approvals-page). It is also possible to configure here a Topic template.
 
-    <div class="intercom-container intercom-align-center"><img src="https://downloads.intercomcdn.com/i/o/areracg3/1211362235/ff7ea475a572749cba4247518058/image.png?expires=1782259200&amp;signature=23109a28b8f377ccc29ea120f6f9b2350ea2756fa7c5bdbc95326079b77076e3&amp;req=dSImF8p4n4NcXPMW3nq%2Bgcv5xnTzf1jTk7nu%2Fh%2FbaP1xAHFsdK1y4SupJWsK%0ADRbtxNpaN%2FlNXYSnYG9oVqYBpsI%3D%0A" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-37e299566a42.png" width="500"/></div>
 
-    <div class="intercom-container intercom-align-center"><img src="https://downloads.intercomcdn.com/i/o/areracg3/1211362345/59c0a70c13879eacc2b08c0db623/image.png?expires=1782259200&amp;signature=c87b7fd3b4be335aea7bb322812e265b360893cceb06b8c1eaff9533709995d4&amp;req=dSImF8p4n4JbXPMW3nq%2BgQL5wc3pBndWCSs%2FNNg7wwLg8B0BXH1NDq1rILBC%0AFhO%2BqcZcrGSOu6kFqLfnRB%2FKkGg%3D%0A" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-0fe381f74d65.png" width="300"/></div>
 
 ## 5. **Approval workflow**
 

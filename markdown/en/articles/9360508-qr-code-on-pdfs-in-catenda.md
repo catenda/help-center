@@ -100,7 +100,7 @@ Some software allow you to flatten annotations which will allow the placeholder 
 
 **Adobe Acrobat**
 
-<img alt="" src="https://downloads.intercomcdn.com/i/o/1158321222/a0ef6a62a1446027ae555371/image.png?expires=1757592000&amp;signature=1d4f260246eca3ac256e9871032d22df645a272f57f5bcc86eed52acded7f97c&amp;req=dSEiHsp8nINdW%2FMW3Hu4gbRfObc4KWUZdr8kvWwdPxRSa7NicEHBTE5qEXE1%0AzQ%3D%3D%0A" width="300"/> --> <img alt="" src="https://downloads.intercomcdn.com/i/o/1158321809/3012a1e60769cac4c4c66927/image.png?expires=1757592000&amp;signature=4d782131cd1c3932991d5049cc574658397c6a4e66b31d54b102b5a933a5133b&amp;req=dSEiHsp8nIlfUPMW3Hu4gUYSnWoRXWBO1d8vAeH%2Fkjzg%2BFpzDJoY2DRj1T8q%0AEQ%3D%3D%0A" width="300"/>
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-9a263e31a1a0.png" width="300"/> --> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-e47c4802a00b.png" width="300"/>
 
 _BlueBeam Revu_ When you place the placeholder in BlueBeam Revu and save the document it will be added as an annotation. It is possible to flatten the QR-code to make it part of the content layer of the document, but even when saving it regularly or by using the reduced file size option the QR-code will be changed and will not work with Catenda. To make the QR-code work with catenda, instead: Print the document with the BlueBeam driver:
 
