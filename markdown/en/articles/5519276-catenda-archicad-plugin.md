@@ -62,9 +62,7 @@ As soon as you have accepted the invitation to a project you will see your proje
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/04-project-list.png)
 
-**Models & revisions**
-
-This is what the models & revisions page can look like. Here you will be able to see all the models you have access to in your Catenda Project.
+**Models & revisions** This is what the models & revisions page can look like. Here you will be able to see all the models you have access to in your Catenda Project.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/05-project-list.png)
 
@@ -72,29 +70,21 @@ On this page you will be able to download and import ifc files from your Catenda
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/06-project-list.png)
 
-**Upload IFC**
-
-Upload an IFC from your current Archicad project This is what the upload IFC page can look like:
+**Upload IFC** Upload an IFC from your current Archicad project This is what the upload IFC page can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/07-project-list.png)
 
 By default the file name will be the name of the Archicad project. This will become the name of the revision in Catenda Select to which model you would like to upload your file. Click on settings to open the Archicad IFC export dialogue. Here you can configure what settings you would like to use to export your IFC to Catenda. When you are ready, click the upload button to upload a model.
 
-**Coordinates**
-
-Hover over the coordinates option to expand the coordinates menu. This is what the coordinates menu can look like:
+**Coordinates** Hover over the coordinates option to expand the coordinates menu. This is what the coordinates menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/08-project-list.png)
 
 In the coordinates menu coordinates can be chosen to be relative to: Survey Point - Default Project origin
 
-**Version**
+**Version** The version number of the plugin.
 
-The version number of the plugin.
-
-**Logout**
-
-Log out of your Catenda account
+**Logout** Log out of your Catenda account
 
 ## 5. **Topic board**
 
@@ -118,41 +108,23 @@ Click on the Show filter button to open the filter menu. This is what the filter
 
 Depending on the configured settings in the topic board and the topics that are submitted different filters can be  available:
 
-**My topics**
+**My topics** Assigned to me Requested by me Created by me
 
-Assigned to me Requested by me Created by me
+**Status** The different statuses in the topic board are listed here
 
-**Status**
+**Type** The different types in the topic board are listed here
 
-The different statuses in the topic board are listed here
+**Due date** Overdue Less than a day Less than a week Less than two weeks Less than a month All with a due date
 
-**Type**
+**Assigned to** The entries starting with an `@` are assigned teams that are listed first. After that assigned project members are listed.
 
-The different types in the topic board are listed here
+**Requested by** The entries starting with an `@` are teams requesting topics that are listed first. After that project members requesting topics are listed.
 
-**Due date**
+**Milestone** Any milestones applied to topics are listed.
 
-Overdue Less than a day Less than a week Less than two weeks Less than a month All with a due date
+**Label** Lables applied to topics are listed here.
 
-**Assigned to**
-
-The entries starting with an `@` are assigned teams that are listed first. After that assigned project members are listed.
-
-**Requested by**
-
-The entries starting with an `@` are teams requesting topics that are listed first. After that project members requesting topics are listed.
-
-**Milestone**
-
-Any milestones applied to topics are listed.
-
-**Label**
-
-Lables applied to topics are listed here.
-
-**Filters that are not mentioned in the filter menu**
-
-Text search Text can be searched on by typing in the serach bar.
+**Filters that are not mentioned in the filter menu** Text search Text can be searched on by typing in the serach bar.
 
 Content that can be searched on Topic title Topic description Topic comment
 
@@ -168,17 +140,11 @@ Click on Sort to open the sort menu. This is what the sort menu can look like:
 
 Click on any of the options to sort the topics list by: _Newest_ - Default Topics with the newest creation date
 
-**Oldest**
+**Oldest** Topics with the oldest creation date
 
-Topics with the oldest creation date
+**Recently updated** Topics that are most recently updated
 
-**Recently updated**
-
-Topics that are most recently updated
-
-**Least recently updated**
-
-Topics that are least recently updated
+**Least recently updated** Topics that are least recently updated
 
 ## 6. **Topic**
 

@@ -28,17 +28,11 @@ To get started install an application on a mobile device that supports the TOTP 
 
 Theoretically any application that supports MFA / Two factor authentication via the TOTP protocol can be used. There are even Desktop applications out there however these are not recommended due to the fact that Desktop applications are often always connected to the same network which often has multiple devices on it increasing the risk of a bad actor getting access to the code.
 
-**App permissions**
+**App permissions** In order for you to be able to scan the QR code with the camera of the device. The authentication app will need camera permissions to be able to scan the code. The application may ask to receive permission to use the camera of the device. Permission options may include: "Only while using the app" - The app has permission while in use. "Ask every time" - Permission has to be granted with each use of the app. "Don't allow" - Permission is not given or revoked from the app.
 
-In order for you to be able to scan the QR code with the camera of the device. The authentication app will need camera permissions to be able to scan the code. The application may ask to receive permission to use the camera of the device. Permission options may include: "Only while using the app" - The app has permission while in use. "Ask every time" - Permission has to be granted with each use of the app. "Don't allow" - Permission is not given or revoked from the app.
+**Google Authenticator** Click on the plus on the bottom right and Scan a QR code. Here you will scan the QR code that the [authentication](https://hub.catenda.com/account/authentication) page gives you. Alternatively you can use your camera to scan the code and type in the setup key that you see in the URL that is opened.
 
-**Google Authenticator**
-
-Click on the plus on the bottom right and Scan a QR code. Here you will scan the QR code that the [authentication](https://hub.catenda.com/account/authentication) page gives you. Alternatively you can use your camera to scan the code and type in the setup key that you see in the URL that is opened.
-
-**Microsoft Authenticator**
-
-Make sure you are in the Authenticator menu on the bottom.
+**Microsoft Authenticator** Make sure you are in the Authenticator menu on the bottom.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/03-authentication-app.png)
 
@@ -58,17 +52,13 @@ Account name: The name you give to your account Secret key: This is the key you 
 
 ### 1.2 **Success or fail**
 
-**Success**
-
-After successfully enabling MFA you will see this message.
+**Success** After successfully enabling MFA you will see this message.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/05-success-or-fail.png)
 
 Once enabled you will need to have your mobile device at hand every time you log onto Catenda Hub. The MFA can be disabled again by clicking on Disable MFA.
 
-**Incorrect code**
-
-If you did not insert the right code, you will get the message incorrrect code.
+**Incorrect code** If you did not insert the right code, you will get the message incorrrect code.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/06-success-or-fail.png)
 
@@ -91,9 +81,7 @@ After connecting an MFA code you can safely edit the account name of the code. Y
 
 ## 3. **Transferring MFA**
 
-**Deactivating and reactivating**
-
-It is only possible to use MFA app code pairing at a time. If you wish to switch to a different code pairing, perhaps because your current one has been compromised, you follow these steps: You should also use this method if you wish to change the app you use for MFA.
+**Deactivating and reactivating** It is only possible to use MFA app code pairing at a time. If you wish to switch to a different code pairing, perhaps because your current one has been compromised, you follow these steps: You should also use this method if you wish to change the app you use for MFA.
 
 1. Disable your MFA on the [authentication page](https://hub.catenda.com/account/authentication)
 1. Prepare the app you want to use to re-connect your MFA
@@ -101,13 +89,9 @@ It is only possible to use MFA app code pairing at a time. If you wish to switch
 
 > **Note:** Be careful with this method as your account will temporarily be vulnerable while it is deactivated and you will not be able to access projects where MFA is required during this time.
 
-**Transferring through backup**
+**Transferring through backup** If you wish to start using a new device without your code temporarily being disable you can use a different installation of the same MFA app and transfer the code from the old installation to the new installation.
 
-If you wish to start using a new device without your code temporarily being disable you can use a different installation of the same MFA app and transfer the code from the old installation to the new installation.
-
-**Google authenticator**
-
-Old device:
+**Google authenticator** Old device:
 
 1. Tap on the hamburger menu top right
 1. Tap on Export accounts
@@ -120,9 +104,7 @@ New device:
 1. Tap on scan QR code
 1. Scan the QR code that is displayed on the old device when you went through the export process.
 
-**Microsoft authenticator**
-
-Old device:
+**Microsoft authenticator** Old device:
 
 1. Tap the hamburger menu top right
 1. Turn on backup

@@ -101,13 +101,9 @@ Geometry Conversion for IFC Export will let you convert your geometry in differe
 
 ### 5.1 Conversions of Archicad elements
 
-**Export all model elements' geometry as:**
+**Export all model elements' geometry as:** _Parametric with exceptions_ - default _BREP_ - Precise geometry - If this is selected the next two options will also be BREP
 
-_Parametric with exceptions_ - default _BREP_ - Precise geometry - If this is selected the next two options will also be BREP
-
-**Elements in Solid Element Operations:**
-
-_Extruded/revolved_ - default _BREP_ - Precise geometry
+**Elements in Solid Element Operations:** _Extruded/revolved_ - default _BREP_ - Precise geometry
 
 Elements with Junctions Some elements can intersect with other elements which can trim parts of the extrusion. _Extruded/revolved_ - Connect corners of elements This adds junctions to your extruded elements. With this option you will see that elements like walls or roofs, especially slanted ones will connect nicely.
 
@@ -131,9 +127,7 @@ Surface color The color of the surface Transmittance How much you can see throug
 
 Diffuse How dark or bright the surface color is
 
-**Define IFC model position by:**
-
-This option decides project location. It is important to agree on a common coordinate point to reference in the project already in the beginning changing it might mean that multiple consultants have to move their objects which is often not feasible towards the end of a project.
+**Define IFC model position by:** This option decides project location. It is important to agree on a common coordinate point to reference in the project already in the beginning changing it might mean that multiple consultants have to move their objects which is often not feasible towards the end of a project.
 
 Survey Point and Project Origin - default With this option the distance from (0,0,0) to your model in Archicad will be the distance from (0,0,0 + coordinates of your survey point) to your model in Catenda Hub + the If you have set a project location your model will end up at those coordinates in Catenda Hub
 
@@ -143,10 +137,7 @@ Survey Point only With this option the distance from the survey point in Archica
 
 ### 5.2 IFC Schema related options
 
-**Material preservation mode (IFC2x3 only)**
-
-- Never explode elements, preservation is not guaranteed
-With this option you will export the whole object as one object
+**Material preservation mode (IFC2x3 only)** - Never explode elements, preservation is not guaranteed With this option you will export the whole object as one object
 
 - Explode only when necessary to preserve materials - Default
 With this option you only export separate objects for each composite material if necessary
@@ -162,9 +153,7 @@ This can make it hard for software to cut holes through the surface as the inacc
 
 ### 5.3 Composite structures and Complex Profiles
 
-**Split complex Building Elements into parts**
-
-Here you can chose for what type of elements you want the composite element to be split and for which you do not want them to be split. If you choose this option you will not be able to make a choice for the material preservation mode.
+**Split complex Building Elements into parts** Here you can chose for what type of elements you want the composite element to be split and for which you do not want them to be split. If you choose this option you will not be able to make a choice for the material preservation mode.
 
 ---
 

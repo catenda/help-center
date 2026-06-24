@@ -10,21 +10,15 @@ This article contains information about the following:
 
 The Desktop Connector lets you upload files from your local system to a specified folder on Catenda Hub. You can also select a number of folders on Catenda Hub to download to a location on your local machine.
 
-**Uploading speed**
-
-Uploading files with the Desktop connector is faster at file transfer than the regular upload process as the files are imported via the API instead of via the browser. It is therefore the best way to upload your files if you are uploading a large amount of data at once.
+**Uploading speed** Uploading files with the Desktop connector is faster at file transfer than the regular upload process as the files are imported via the API instead of via the browser. It is therefore the best way to upload your files if you are uploading a large amount of data at once.
 
 ### 1.1 **Successful uploads**
 
 If you drag-and-drop multiple files or use the zip-upload feature on Catenda Hub you are uploading one big set of data. The larger the upload the longer you have to wait before you can submit your files into the Catenda Hub document structure.
 
-**One file at a time**
+**One file at a time** By uploading files from a folder structure one file at a time the Desktop Connector you can pause the upload jon and continue it later.
 
-By uploading files from a folder structure one file at a time the Desktop Connector you can pause the upload jon and continue it later.
-
-**Lower the risk for upload failures**
-
-The larger the upload the higher the risk that it fails as well. Maybe your power goes out, maybe your internet connection breaks for a split second. Then you would have to start the upload all over again.
+**Lower the risk for upload failures** The larger the upload the higher the risk that it fails as well. Maybe your power goes out, maybe your internet connection breaks for a split second. Then you would have to start the upload all over again.
 
 ## 2. **Synchronization**
 
@@ -118,13 +112,9 @@ The task has to at least have one day selected to be saved
 
 ### 7.3 **Project location**
 
-**Server**
+**Server** Select the location on Catenda Hub you want to synchronize your files to.
 
-Select the location on Catenda Hub you want to synchronize your files to.
-
-**Local**
-
-Select the location on your system you want to sychronize the files from.
+**Local** Select the location on your system you want to sychronize the files from.
 
 ### 7.4 **Instant**
 
@@ -146,13 +136,9 @@ The task has to at least have one day selected to be saved​
 
 ### 8.3 **Project location**
 
-**Server**
+**Server** Select the location on Catenda Hub you want to download your files from.
 
-Select the location on Catenda Hub you want to download your files from.
-
-**Local**
-
-Select the location on your system you want to download the files to.
+**Local** Select the location on your system you want to download the files to.
 
 ### 8.4 **Instant**
 

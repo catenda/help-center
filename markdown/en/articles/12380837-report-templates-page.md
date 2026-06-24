@@ -42,9 +42,7 @@ Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
 
 ### 3.1 **Row content**
 
-**Report row**
-
-While it is possible to click on a row to select it and highlight it in green there are no actions that can be performed by selecting a row. The row will be selected when the row action menu in the right column is selected.
+**Report row** While it is possible to click on a row to select it and highlight it in green there are no actions that can be performed by selecting a row. The row will be selected when the row action menu in the right column is selected.
 
 ### 3.2 **Columns**
 

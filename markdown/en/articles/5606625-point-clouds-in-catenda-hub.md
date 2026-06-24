@@ -10,7 +10,7 @@ This article contains information about the following topics:
 
 See below various settings to display your data:
 
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptive - Sparse - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-4ab6e3c989e7.png" style="height: auto;" width="3839"/></div></td><td><p>Adaptive - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-ec54270dfcb7.png" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Fixed - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-f0d93189257d.png" style="height: auto;" width="3834"/></div></td><td><p>Fixed - Sparse - Intensity</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-961a536ed014.png" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptive - Sparse - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-05a450dc777f.png" style="height: auto;" width="3839"/></div></td><td><p>Adaptive - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-196a1135014a.png" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Fixed - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-66e21551bbef.png" style="height: auto;" width="3834"/></div></td><td><p>Fixed - Sparse - Intensity</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-4a2046c8eaf1.png" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
 
 ## 1. **Document section preview**
 
@@ -117,20 +117,14 @@ _Attribute_ _RGBA_ - Default Display PC points with their colors
 
 _Attribute Intensity_ The intensity option can be used when the points do not include colors. For example when the point cloud was captured in a tunnel or a dark room.
 
-**Opacity**
-
-When models are displayed together with point clouds, it can be necessary to dim the points to have a better understanding of the viewpoint.
+**Opacity** When models are displayed together with point clouds, it can be necessary to dim the points to have a better understanding of the viewpoint.
 
 _Point size_ _Adaptive_ - Default The closer a point is to the camera, the larger it is. Points that are in view are loaded into memory. Points that move out of view are loaded out of memory.
 
 > **Note:** Be sure the hardware and sofware Catenda is opened on are configured [as recommended](https://support.catenda.com/en/articles/6921941-hardware-recommendation) as this can have an effect on the type of point size loading your device is able to handle.
 
-**Point size Fixed size**
+**Point size Fixed size** Points that have been loaded will stay in memory with this option. With many points you will notice that rotating might be delayed and movement can be slowed down as you start getting close to the amount of points that your system can handle. You might also notice that it will take longer and longer to load in new points as you get closer to the limit of your device. Points load closest to the camera first. Before loading the point cloud from the document section, be sure to therfore position the camera to where you want the points to load. If this is a camera position you plan to use more often with this point cloud consider making a bookmark or a snapshot in a topic which you can play to return to this position.
 
-Points that have been loaded will stay in memory with this option. With many points you will notice that rotating might be delayed and movement can be slowed down as you start getting close to the amount of points that your system can handle. You might also notice that it will take longer and longer to load in new points as you get closer to the limit of your device. Points load closest to the camera first. Before loading the point cloud from the document section, be sure to therfore position the camera to where you want the points to load. If this is a camera position you plan to use more often with this point cloud consider making a bookmark or a snapshot in a topic which you can play to return to this position.
-
-**Point density slider**
-
-The density slider helps you make the final setting. There is no rule for the correct value, it will depend on the data you upload (size of the dataset, point density, type of scan, etc...). Our advice: Load the point cloud, and after a brief moment, when enough points are displayed, adjust the settings if necessary.
+**Point density slider** The density slider helps you make the final setting. There is no rule for the correct value, it will depend on the data you upload (size of the dataset, point density, type of scan, etc...). Our advice: Load the point cloud, and after a brief moment, when enough points are displayed, adjust the settings if necessary.
 
 [YouTube video](https://www.youtube.com/embed/n9pztkRPxoc?rel=0)

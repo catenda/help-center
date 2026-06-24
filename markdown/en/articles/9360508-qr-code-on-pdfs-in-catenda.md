@@ -38,9 +38,7 @@ _[Download link](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j
 
 Since documents cannot be changed after they are uploaded to Catenda it is important that the placeholder QR-Code is placed on the document before it is uploaded to Catenda. The placeholder can be placed on any layer except the annotation layer. For Catenda to recognize the QR-Code, it has to be added as an image. The image in the published document has to be the exact same image as the placeholder image.
 
-**PDF optimization**
-
-Many programs perform optimization steps for better viewing and reducing file size. These steps might change the amount of bytes in the image which will make it so Catenda does not recognize it anymore. Here is some information about the placeholder that can help with optimization. Pixel density: 144 dpi Image compression: ZIP The image has to be one whole image. Some optimizers might split the image as an optimization. Please make sure the image is whole after optimizing. _Archicad_ When placing the qr code, please use: Import > interpobility > merge from file > import and open worksheet > drag en drop If you open the worksheet and drag and drop the PNG it will change the resolution and not work.
+**PDF optimization** Many programs perform optimization steps for better viewing and reducing file size. These steps might change the amount of bytes in the image which will make it so Catenda does not recognize it anymore. Here is some information about the placeholder that can help with optimization. Pixel density: 144 dpi Image compression: ZIP The image has to be one whole image. Some optimizers might split the image as an optimization. Please make sure the image is whole after optimizing. _Archicad_ When placing the qr code, please use: Import > interpobility > merge from file > import and open worksheet > drag en drop If you open the worksheet and drag and drop the PNG it will change the resolution and not work.
 
 ### 2.2 Placing the QR-code on an existing document
 
@@ -90,9 +88,7 @@ After uploading a document with a placeholder QR code you will be able to see it
 
 If the generation of your QR code has failed, this can be because your QR-code was smaller than 2cm x 2cm or it was placed as an annotation instead of an image.
 
-**Flattening annotations**
-
-Some software allow you to flatten annotations which will allow the placeholder to be processed. Here are some examples:
+**Flattening annotations** Some software allow you to flatten annotations which will allow the placeholder to be processed. Here are some examples:
 
 **PDF X-change**
 
@@ -100,7 +96,7 @@ Some software allow you to flatten annotations which will allow the placeholder 
 
 **Adobe Acrobat**
 
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-9a263e31a1a0.png" width="300"/> --> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-e47c4802a00b.png" width="300"/>
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-3d7d02c461d3.png" width="300"/> --> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-3398dc9eef22.png" width="300"/>
 
 _BlueBeam Revu_ When you place the placeholder in BlueBeam Revu and save the document it will be added as an annotation. It is possible to flatten the QR-code to make it part of the content layer of the document, but even when saving it regularly or by using the reduced file size option the QR-code will be changed and will not work with Catenda. To make the QR-code work with catenda, instead: Print the document with the BlueBeam driver:
 

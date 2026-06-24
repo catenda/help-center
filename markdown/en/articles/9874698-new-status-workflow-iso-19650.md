@@ -78,21 +78,15 @@ A revision status will be applied for each file extracted from a zipped file.​
 
 ### 3.4 Publish shared revisions
 
-**Multiple documents in document structure**
-
-A publish action will be available in the existing element action menu of one or more selected documents with shared revisions.
+**Multiple documents in document structure** A publish action will be available in the existing element action menu of one or more selected documents with shared revisions.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/10-publish-shared-revisions.png)
 
-**Single revision in document preview or document structure**
-
-A publish action will be available as an icon and in the action menu of the revision info of a shared revision in the right information menu.
+**Single revision in document preview or document structure** A publish action will be available as an icon and in the action menu of the revision info of a shared revision in the right information menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/11-publish-shared-revisions.png)
 
-**Multiple models**
-
-A publish action will be available in the revision info of a document with a shared revision in the right information menu in the document structure and in the document preview.
+**Multiple models** A publish action will be available in the revision info of a document with a shared revision in the right information menu in the document structure and in the document preview.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/12-publish-shared-revisions.png)
 
@@ -121,13 +115,9 @@ Shared revisions have a minor revision number (e.g. #0.1, #2.3, #4.1) Published 
 
 In the document structure you will see the latest revision you have access to. Click on the name of a document to open the document preview of the displayed revision.
 
-**Workspace tab**
+**Workspace tab** The latest revision in the workspace tab can be: Shared revision - _Access required:_ Shared revisions Published revision - ​_Access required:_ Read
 
-The latest revision in the workspace tab can be: Shared revision - _Access required:_ Shared revisions Published revision - ​_Access required:_ Read
-
-**Published tab**
-
-The latest revision in the published tab can be: Published revision - _Access required:_ Read
+**Published tab** The latest revision in the published tab can be: Published revision - _Access required:_ Read
 
 > **Note:** Shared revisions can be visible in the revision overview of the document preview, even if you opened the document from the published tab. _Access required:_ Shared revisions
 
@@ -148,9 +138,7 @@ _Access required:_ Read access and shared revisions
 - Change a published revision status to a different published revision status.
 _Access required:_ Write access and published revisions
 
-**Revision information dialogue**
-
-Click on the revision box to see an overview of all the revisions in the document in the [revision information dialogue](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision#h_6838c6ad71). A green link between a published and a shared revision indicates which shared revision was published.
+**Revision information dialogue** Click on the revision box to see an overview of all the revisions in the document in the [revision information dialogue](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision#h_6838c6ad71). A green link between a published and a shared revision indicates which shared revision was published.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/17-revision-information.png)
 
@@ -162,17 +150,17 @@ Only published revisions are visible in Catenda Site.
 
 1. Edit access to the document status configuration can be configured from the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page):
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-1310a15e9f09.png" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-868820a898ba.png" width="500"/></div>
 
 1. Documents status can be then [configured](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) from the settings in the documents section:
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-97a799ddb935.png" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-931418a5fab1.png" width="500"/></div>
 
 1. Finally, these document status can be assigned to file review status accessible from the top-right three dots button in the [Approvals section](https://support.catenda.com/en/articles/8349340-approvals-page). It is also possible to configure here a Topic template.
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-37e299566a42.png" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-3cdbebefca38.png" width="500"/></div>
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-0fe381f74d65.png" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-f8ab7f3194ff.png" width="300"/></div>
 
 ## 5. **Approval workflow**
 

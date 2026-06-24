@@ -38,13 +38,9 @@ Different behaviors can be configured for how the extraction of the zip file beh
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/05-documents.png)
 
-**Create new revision - Default**
+**Create new revision - Default** If a document with the same name exists in the same location as the zip attempts to extract a file to, a new revision will be created in that document.
 
-If a document with the same name exists in the same location as the zip attempts to extract a file to, a new revision will be created in that document.
-
-**Skip and continue**
-
-If a document with the same name exists in the same location as the zip attempts to extract a file to, the file will be skipped and no new revision will be created in the document.
+**Skip and continue** If a document with the same name exists in the same location as the zip attempts to extract a file to, the file will be skipped and no new revision will be created in the document.
 
 ### 2.3 **Apply status**
 
@@ -62,9 +58,7 @@ After clicking on upload zip your zip will start uploading
 
 You can continue working with Catenda on another tab while you wait for the upload to finish.
 
-**Access required:**
-
-Write access to each of the locations where folders and documents will be created Write access to documents revisions will be added to.
+**Access required:** Write access to each of the locations where folders and documents will be created Write access to documents revisions will be added to.
 
 ## 4. **Extracting**
 
@@ -100,9 +94,7 @@ While the zip is extracting the extracted files start to appear as rows in the d
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/10-extracting.png)
 
-**Completed**
-
-When the zip import has completed all files are extracted.
+**Completed** When the zip import has completed all files are extracted.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/11-extracting.png)
 

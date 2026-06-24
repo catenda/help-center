@@ -69,9 +69,7 @@ The BCF Plugin button in the Catenda Plugins menu of the Catenda tab will open t
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/03-bcf-plugin.png)
 
-**Docking the plugin**
-
-Drag the title bar of the window to any of the sides of the application to dock it.
+**Docking the plugin** Drag the title bar of the window to any of the sides of the application to dock it.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/04-bcf-plugin.png)
 
@@ -95,19 +93,13 @@ If the login session has timed out the refresh button can be used to refresh the
 
 ### 6.1 **Authenticate**
 
-**Token**
-
-Here you will see your Catenda authentication token after signing in.
+**Token** Here you will see your Catenda authentication token after signing in.
 
 ### 6.2 **IFCGuid**
 
-**Category and property**
+**Category and property** Cateogory default: Element Property default: IfcGUID
 
-Cateogory default: Element Property default: IfcGUID
-
-**Property mapping**
-
-The Catenda Navisworks plugin attaches objects to viewpoints in topics based on the GUID of the IfcProject in the IFC. In Navisworks this GUID can be found in the properties of the object. Here is an example with an object selected:
+**Property mapping** The Catenda Navisworks plugin attaches objects to viewpoints in topics based on the GUID of the IfcProject in the IFC. In Navisworks this GUID can be found in the properties of the object. Here is an example with an object selected:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/08-ifcguid.png)
 
@@ -117,15 +109,11 @@ Depending on the content of your IFC, the IfcProject GUID might be found in one 
 
 ### 6.3 **Paths**
 
-**DownloadPath**
-
-The file location that models and documents downloaded through the plugin end up at.
+**DownloadPath** The file location that models and documents downloaded through the plugin end up at.
 
 ### 6.4 **Snapshots**
 
-**Placement**
-
-Right - default Snapshots are displayed to the right
+**Placement** Right - default Snapshots are displayed to the right
 
 Below Snapshots are displayed below
 
@@ -189,33 +177,23 @@ To get started with the clashes menu find the Clash detective in the ribbon:
 
 `Home tab -> Tools menu -> Clash Detective`
 
-**Test overview**
-
-Add a new test. This is what your test overview can look like:
+**Test overview** Add a new test. This is what your test overview can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/13-running-a-clash-detective-test.png)
 
-**Rules**
-
-Select rules or create new ones.
+**Rules** Select rules or create new ones.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/14-running-a-clash-detective-test.png)
 
-**Select**
-
-Select models that you want to check against each other for clashes and run the test.
+**Select** Select models that you want to check against each other for clashes and run the test.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/15-running-a-clash-detective-test.png)
 
-**Results**
-
-Go through the result and name your clashes.
+**Results** Go through the result and name your clashes.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/16-running-a-clash-detective-test.png)
 
-**Context menu**
-
-Right click on a clash row to open the following context menu:
+**Context menu** Right click on a clash row to open the following context menu:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/17-running-a-clash-detective-test.png)
 
@@ -237,9 +215,7 @@ View in context All, file or home.
 
 Items Here you see the objects that are related to the selected clash.
 
-**Report**
-
-this is what the report menu can look like:
+**Report** this is what the report menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/18-running-a-clash-detective-test.png)
 
@@ -261,9 +237,7 @@ After a clash test has ran the viewpoints appear in the clashes tab.
 
 Create topic by selecting one or more clash Give topic a title Click add topic.
 
-**Add topic dropdown**
-
-Topics can be made in the following ways:
+**Add topic dropdown** Topics can be made in the following ways:
 
 Create one combined topic
 
@@ -325,25 +299,15 @@ Open the Catenda Document library window. This is what the Document library wind
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/21-catenda-document-library.png)
 
-**Navigation arrow**
+**Navigation arrow** Move up a level in the folder structure.
 
-Move up a level in the folder structure.
+**Refresh** Refresh the documents in the document library.
 
-**Refresh**
+**Download** Download the latest revision of the selcted Catenda document to your local system.
 
-Refresh the documents in the document library.
+**Upload** Upload the latest revision of the selcted Catenda document to your local system.
 
-**Download**
-
-Download the latest revision of the selcted Catenda document to your local system.
-
-**Upload**
-
-Upload the latest revision of the selcted Catenda document to your local system.
-
-**Columns**
-
-Navigation Doubleclick on the navigation arrow or anywhere else on the row of a folder to open that folder.
+**Columns** Navigation Doubleclick on the navigation arrow or anywhere else on the row of a folder to open that folder.
 
 Name The name of the folder or document
 
@@ -355,35 +319,21 @@ Revision The revision number for the document
 
 ### 10.7 **Columns**
 
-**Selection box**
+**Selection box** The selection box of the model
 
-The selection box of the model
+**Model icon** The ifon of the model
 
-**Model icon**
+**Name** The name of the model
 
-The ifon of the model
-
-**Name**
-
-The name of the model
-
-**Revision Catenda**
-
-The latest revision number in the Catenda project
+**Revision Catenda** The latest revision number in the Catenda project
 
 **Revision Navisworks**
 
-**Download**
+**Download** Click on the download icon to download the latest model revision. When the revision number appears in the Revision navisworks column the model is Downloaded.
 
-Click on the download icon to download the latest model revision. When the revision number appears in the Revision navisworks column the model is Downloaded.
+**Open** Click on the open icon to open the model in a new Navisworks project.
 
-**Open**
-
-Click on the open icon to open the model in a new Navisworks project.
-
-**Append**
-
-Click on the append icon to append the model to the current Navisworks project.
+**Append** Click on the append icon to append the model to the current Navisworks project.
 
 ### 10.8 **Downloading models from Catenda Hub**
 

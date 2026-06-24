@@ -66,17 +66,11 @@ To get started install an application on a mobile device that supports the TOTP 
 
 Theoretically any application that supports MFA / Two factor authentication via the TOTP protocol can be used. There are even Desktop applications out there however these are not recommended due to the fact that Desktop applications are often always connected to the same network which often has multiple devices on it increasing the risk of a bad actor getting access to the code.
 
-**App permissions**
+**App permissions** In order for you to be able to scan the QR code with the camera of the device. The authentication app will need camera permissions to be able to scan the code. The application may ask to receive permission to use the camera of the device. Permission options may include: "Only while using the app" - The app has permission while in use. "Ask every time" - Permission has to be granted with each use of the app. "Don't allow" - Permission is not given or revoked from the app.
 
-In order for you to be able to scan the QR code with the camera of the device. The authentication app will need camera permissions to be able to scan the code. The application may ask to receive permission to use the camera of the device. Permission options may include: "Only while using the app" - The app has permission while in use. "Ask every time" - Permission has to be granted with each use of the app. "Don't allow" - Permission is not given or revoked from the app.
+**Google Authenticator** Click on the plus on the bottom right and Scan a QR code. Here you will scan the QR code that the [authentication](https://hub.catenda.com/account/authentication) page gives you. Alternatively you can use your camera to scan the code and type in the setup key that you see in the URL that is opened.
 
-**Google Authenticator**
-
-Click on the plus on the bottom right and Scan a QR code. Here you will scan the QR code that the [authentication](https://hub.catenda.com/account/authentication) page gives you. Alternatively you can use your camera to scan the code and type in the setup key that you see in the URL that is opened.
-
-**Microsoft Authenticator**
-
-Make sure you are in the Authenticator menu on the bottom.
+**Microsoft Authenticator** Make sure you are in the Authenticator menu on the bottom.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/03-authentication-app.png)
 
@@ -96,17 +90,13 @@ Account name: The name you give to your account Secret key: This is the key you 
 
 ### 1.2 **Success or fail**
 
-**Success**
-
-After successfully enabling MFA you will see this message.
+**Success** After successfully enabling MFA you will see this message.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/05-success-or-fail.png)
 
 Once enabled you will need to have your mobile device at hand every time you log onto Catenda Hub. The MFA can be disabled again by clicking on Disable MFA.
 
-**Incorrect code**
-
-If you did not insert the right code, you will get the message incorrrect code.
+**Incorrect code** If you did not insert the right code, you will get the message incorrrect code.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/06-success-or-fail.png)
 
@@ -129,9 +119,7 @@ After connecting an MFA code you can safely edit the account name of the code. Y
 
 ## 3. **Transferring MFA**
 
-**Deactivating and reactivating**
-
-It is only possible to use MFA app code pairing at a time. If you wish to switch to a different code pairing, perhaps because your current one has been compromised, you follow these steps: You should also use this method if you wish to change the app you use for MFA.
+**Deactivating and reactivating** It is only possible to use MFA app code pairing at a time. If you wish to switch to a different code pairing, perhaps because your current one has been compromised, you follow these steps: You should also use this method if you wish to change the app you use for MFA.
 
 1. Disable your MFA on the [authentication page](https://hub.catenda.com/account/authentication)
 1. Prepare the app you want to use to re-connect your MFA
@@ -139,13 +127,9 @@ It is only possible to use MFA app code pairing at a time. If you wish to switch
 
 > **Note:** Be careful with this method as your account will temporarily be vulnerable while it is deactivated and you will not be able to access projects where MFA is required during this time.
 
-**Transferring through backup**
+**Transferring through backup** If you wish to start using a new device without your code temporarily being disable you can use a different installation of the same MFA app and transfer the code from the old installation to the new installation.
 
-If you wish to start using a new device without your code temporarily being disable you can use a different installation of the same MFA app and transfer the code from the old installation to the new installation.
-
-**Google authenticator**
-
-Old device:
+**Google authenticator** Old device:
 
 1. Tap on the hamburger menu top right
 1. Tap on Export accounts
@@ -158,9 +142,7 @@ New device:
 1. Tap on scan QR code
 1. Scan the QR code that is displayed on the old device when you went through the export process.
 
-**Microsoft authenticator**
-
-Old device:
+**Microsoft authenticator** Old device:
 
 1. Tap the hamburger menu top right
 1. Turn on backup
@@ -245,37 +227,25 @@ Here you will be able to perform the following actions:
 
 ### 2.1 **Showing objects**
 
-**Show all**
+**Show all** Show all object(s) This can be useful after playing a snapshot or bookmark that has hidden geometry you would like to see.
 
-Show all object(s) This can be useful after playing a snapshot or bookmark that has hidden geometry you would like to see.
-
-**Show selected**
-
-Show the selected object(s) If you hid a selected object it is still selected but hidden until you select something else and remove it from your selection. In the information panel you will be able to select hidden objects from the object tree and the via selections. In the content panel you will be able to select objects from property libraries and objects that are linked to either issues or documents.
+**Show selected** Show the selected object(s) If you hid a selected object it is still selected but hidden until you select something else and remove it from your selection. In the information panel you will be able to select hidden objects from the object tree and the via selections. In the content panel you will be able to select objects from property libraries and objects that are linked to either issues or documents.
 
 ### 2.2 **Object translucency**
 
 It is not possible to select translucent objects by clicking on them in the 3D viewer.
 
-**Make translucent**
+**Make translucent** Make the selected object(s) translucent In the information panel you will be able to select hidden objects from the object tree and the via selections. In the content panel you will be able to select objects from property libraries and objects that are linked to either issues or documents. Selected translucent objects can be turned back to default visibility by showing selected  or showing all.
 
-Make the selected object(s) translucent In the information panel you will be able to select hidden objects from the object tree and the via selections. In the content panel you will be able to select objects from property libraries and objects that are linked to either issues or documents. Selected translucent objects can be turned back to default visibility by showing selected  or showing all.
-
-**Make others translucent**
-
-Make everything but the selected object(s) translucent Show all to get the objects back to default visibility.
+**Make others translucent** Make everything but the selected object(s) translucent Show all to get the objects back to default visibility.
 
 ### 2.3 **Hiding objects**
 
 Hidden object(s) will still be loaded in your systems memory.
 
-**Hide**
+**Hide** Hides an object from the viewer
 
-Hides an object from the viewer
-
-**Hide others**
-
-Hide all objects but the selected object This is similar to isolating objects. The hidden objects will still be loaded in memory.
+**Hide others** Hide all objects but the selected object This is similar to isolating objects. The hidden objects will still be loaded in memory.
 
 ## 3. **Camera options**
 
@@ -293,25 +263,15 @@ _Home_ - Reset the viewer to the default position This can help get an overview 
 
 The following views let you see the model from different sides:
 
-**Back**
+**Back** View the model from the back
 
-View the model from the back
+**Left** View the model from the left
 
-**Left**
+**Front** View the model from the front
 
-View the model from the left
+**Right** View the model from the right These views can be great for making sections by making vertical clipping planes.
 
-**Front**
-
-View the model from the front
-
-**Right**
-
-View the model from the right These views can be great for making sections by making vertical clipping planes.
-
-**Top**
-
-View the model from the top This view can be great for producing floor plans by making a horizontal clipping plane.
+**Top** View the model from the top This view can be great for producing floor plans by making a horizontal clipping plane.
 
 ### 3.2 **Camera Type**
 
@@ -321,9 +281,7 @@ This is what the camera type menu can look like:
 
 _Perspective_ - Default Lets you see the model as a human does. This camera type is great for understanding what it can be like to be in the model. Because the camera is in the human's eye you can clip through walls. The field of view for the perspective camera type can be adjusted in viewer settings.
 
-**Orthographic**
-
-Lets you see the model as if you were infinitely far away. This camera type is great for planning as distances are easier to judge. Because the camera is infinitely far away it cannot clip through objects and you will have to hide or make objects translucent to see what is behind them.
+**Orthographic** Lets you see the model as if you were infinitely far away. This camera type is great for planning as distances are easier to judge. Because the camera is infinitely far away it cannot clip through objects and you will have to hide or make objects translucent to see what is behind them.
 
 ### 3.3 **View**
 
@@ -333,23 +291,17 @@ This is what the view menu can look like:
 
 > **Note:** Be sure the hardware and sofware Catenda is opened on are configured [as recommended](https://support.catenda.com/en/articles/6921941-hardware-recommendation) as this can have an effect on how the viewer is displayed.
 
-**Regular**
-
-By defualt the regular view is selected. Thin lines of accurate object display. Great for measurements.
+**Regular** By defualt the regular view is selected. Thin lines of accurate object display. Great for measurements.
 
 When no color is defined for an object in the IFC, the object will get assigned a color based on the entity that is configured for the object. The entity can be found in the inspect menu of the information panel.
 
 As there is no sun or artificial light in the Catenda viewer objects do not cast a shadow on one another. Surfaces are rended by their flat color darkened depending on if the camera is looking straight at them or if the surface is angled away from the Camera.
 
-**Contour**
-
-Cell Shading turns lines on corners with angles facing away from you into thicker lines while lines on on corners facing towards you become thinner lines. This creates an extra layer of depth but the thick lines might cover precise measurements. Contour is a great view for exporting images.
+**Contour** Cell Shading turns lines on corners with angles facing away from you into thicker lines while lines on on corners facing towards you become thinner lines. This creates an extra layer of depth but the thick lines might cover precise measurements. Contour is a great view for exporting images.
 
 > **Note:** Be sure the hardware and sofware Catenda is opened on are configured [as recommended](https://support.catenda.com/en/articles/6921941-hardware-recommendation) as this can have an affect on how sharp the lines look.
 
-**Sketch**
-
-Great for meetings with external parties that need a simple display of the model. Objects without color specified in the IFC will be colored with a gray tones and a texture so the surfaces do not look so perfectly flat. Windows will stay their usual see-through blue color.
+**Sketch** Great for meetings with external parties that need a simple display of the model. Objects without color specified in the IFC will be colored with a gray tones and a texture so the surfaces do not look so perfectly flat. Windows will stay their usual see-through blue color.
 
 > **Note:** Be sure the hardware and sofware Catenda is opened on are configured [as recommended](https://support.catenda.com/en/articles/6921941-hardware-recommendation) as this can have an affect on how sharp the lines look.
 
@@ -411,37 +363,23 @@ Object name - Object entity - Object type If multiple objects are selected this 
 
 ### 8.2 **Topic information**
 
-**Open**
+**Open** Amount of open issues (Red) Click "Open" to see all open issues where this object is linked in the right panel.
 
-Amount of open issues (Red) Click "Open" to see all open issues where this object is linked in the right panel.
-
-**Closed**
-
-Amount of closed issues (Green) Click "Closed" to see all closed issues where this object is linked in the right panel.
+**Closed** Amount of closed issues (Green) Click "Closed" to see all closed issues where this object is linked in the right panel.
 
 ### 8.3 **Libraries**
 
 If you have linked your selected object to any libraries on Catenda Hub, you will be able to see the library with the amount of links in the information footer.
 
-**SharePoint**
+**SharePoint** If you have linked your selected object to any SharePoint documents you will see the name of the SharePoint library with the amount of linked documents here
 
-If you have linked your selected object to any SharePoint documents you will see the name of the SharePoint library with the amount of linked documents here
+**Documents** If you have linked your selected object to any documents on the documents page you will be able to see them under documents and with the amount of linked documents here.
 
-**Documents**
+**Classification** If you have linked your selected object to any classifications you will be able to see the name of the classification and the amount of linked classifications here.
 
-If you have linked your selected object to any documents on the documents page you will be able to see them under documents and with the amount of linked documents here.
+**Links** If you have linked your selected object to any links from the links library you will be able to see "Links" and the amount of linked links here.
 
-**Classification**
-
-If you have linked your selected object to any classifications you will be able to see the name of the classification and the amount of linked classifications here.
-
-**Links**
-
-If you have linked your selected object to any links from the links library you will be able to see "Links" and the amount of linked links here.
-
-**Dropbox**
-
-If you have linked your selected object to any Dropbox documents you will see the name of the Dropbox library with the amount of linked documents here.
+**Dropbox** If you have linked your selected object to any Dropbox documents you will see the name of the Dropbox library with the amount of linked documents here.
 
 ### 8.4 **Hiding the object information footer**
 
@@ -525,9 +463,7 @@ As soon as you have accepted the invitation to a project you will see your proje
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/04-project-list.png)
 
-**Models & revisions**
-
-This is what the models & revisions page can look like. Here you will be able to see all the models you have access to in your Catenda Project.
+**Models & revisions** This is what the models & revisions page can look like. Here you will be able to see all the models you have access to in your Catenda Project.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/05-project-list.png)
 
@@ -535,29 +471,21 @@ On this page you will be able to download and import ifc files from your Catenda
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/06-project-list.png)
 
-**Upload IFC**
-
-Upload an IFC from your current Archicad project This is what the upload IFC page can look like:
+**Upload IFC** Upload an IFC from your current Archicad project This is what the upload IFC page can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/07-project-list.png)
 
 By default the file name will be the name of the Archicad project. This will become the name of the revision in Catenda Select to which model you would like to upload your file. Click on settings to open the Archicad IFC export dialogue. Here you can configure what settings you would like to use to export your IFC to Catenda. When you are ready, click the upload button to upload a model.
 
-**Coordinates**
-
-Hover over the coordinates option to expand the coordinates menu. This is what the coordinates menu can look like:
+**Coordinates** Hover over the coordinates option to expand the coordinates menu. This is what the coordinates menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/08-project-list.png)
 
 In the coordinates menu coordinates can be chosen to be relative to: Survey Point - Default Project origin
 
-**Version**
+**Version** The version number of the plugin.
 
-The version number of the plugin.
-
-**Logout**
-
-Log out of your Catenda account
+**Logout** Log out of your Catenda account
 
 ## 5. **Topic board**
 
@@ -581,41 +509,23 @@ Click on the Show filter button to open the filter menu. This is what the filter
 
 Depending on the configured settings in the topic board and the topics that are submitted different filters can be  available:
 
-**My topics**
+**My topics** Assigned to me Requested by me Created by me
 
-Assigned to me Requested by me Created by me
+**Status** The different statuses in the topic board are listed here
 
-**Status**
+**Type** The different types in the topic board are listed here
 
-The different statuses in the topic board are listed here
+**Due date** Overdue Less than a day Less than a week Less than two weeks Less than a month All with a due date
 
-**Type**
+**Assigned to** The entries starting with an `@` are assigned teams that are listed first. After that assigned project members are listed.
 
-The different types in the topic board are listed here
+**Requested by** The entries starting with an `@` are teams requesting topics that are listed first. After that project members requesting topics are listed.
 
-**Due date**
+**Milestone** Any milestones applied to topics are listed.
 
-Overdue Less than a day Less than a week Less than two weeks Less than a month All with a due date
+**Label** Lables applied to topics are listed here.
 
-**Assigned to**
-
-The entries starting with an `@` are assigned teams that are listed first. After that assigned project members are listed.
-
-**Requested by**
-
-The entries starting with an `@` are teams requesting topics that are listed first. After that project members requesting topics are listed.
-
-**Milestone**
-
-Any milestones applied to topics are listed.
-
-**Label**
-
-Lables applied to topics are listed here.
-
-**Filters that are not mentioned in the filter menu**
-
-Text search Text can be searched on by typing in the serach bar.
+**Filters that are not mentioned in the filter menu** Text search Text can be searched on by typing in the serach bar.
 
 Content that can be searched on Topic title Topic description Topic comment
 
@@ -631,17 +541,11 @@ Click on Sort to open the sort menu. This is what the sort menu can look like:
 
 Click on any of the options to sort the topics list by: _Newest_ - Default Topics with the newest creation date
 
-**Oldest**
+**Oldest** Topics with the oldest creation date
 
-Topics with the oldest creation date
+**Recently updated** Topics that are most recently updated
 
-**Recently updated**
-
-Topics that are most recently updated
-
-**Least recently updated**
-
-Topics that are least recently updated
+**Least recently updated** Topics that are least recently updated
 
 ## 6. **Topic**
 
@@ -661,21 +565,15 @@ This article contains information about the following:
 
 The Desktop Connector lets you upload files from your local system to a specified folder on Catenda Hub. You can also select a number of folders on Catenda Hub to download to a location on your local machine.
 
-**Uploading speed**
-
-Uploading files with the Desktop connector is faster at file transfer than the regular upload process as the files are imported via the API instead of via the browser. It is therefore the best way to upload your files if you are uploading a large amount of data at once.
+**Uploading speed** Uploading files with the Desktop connector is faster at file transfer than the regular upload process as the files are imported via the API instead of via the browser. It is therefore the best way to upload your files if you are uploading a large amount of data at once.
 
 ### 1.1 **Successful uploads**
 
 If you drag-and-drop multiple files or use the zip-upload feature on Catenda Hub you are uploading one big set of data. The larger the upload the longer you have to wait before you can submit your files into the Catenda Hub document structure.
 
-**One file at a time**
+**One file at a time** By uploading files from a folder structure one file at a time the Desktop Connector you can pause the upload jon and continue it later.
 
-By uploading files from a folder structure one file at a time the Desktop Connector you can pause the upload jon and continue it later.
-
-**Lower the risk for upload failures**
-
-The larger the upload the higher the risk that it fails as well. Maybe your power goes out, maybe your internet connection breaks for a split second. Then you would have to start the upload all over again.
+**Lower the risk for upload failures** The larger the upload the higher the risk that it fails as well. Maybe your power goes out, maybe your internet connection breaks for a split second. Then you would have to start the upload all over again.
 
 ## 2. **Synchronization**
 
@@ -769,13 +667,9 @@ The task has to at least have one day selected to be saved
 
 ### 7.3 **Project location**
 
-**Server**
+**Server** Select the location on Catenda Hub you want to synchronize your files to.
 
-Select the location on Catenda Hub you want to synchronize your files to.
-
-**Local**
-
-Select the location on your system you want to sychronize the files from.
+**Local** Select the location on your system you want to sychronize the files from.
 
 ### 7.4 **Instant**
 
@@ -797,13 +691,9 @@ The task has to at least have one day selected to be saved​
 
 ### 8.3 **Project location**
 
-**Server**
+**Server** Select the location on Catenda Hub you want to download your files from.
 
-Select the location on Catenda Hub you want to download your files from.
-
-**Local**
-
-Select the location on your system you want to download the files to.
+**Local** Select the location on your system you want to download the files to.
 
 ### 8.4 **Instant**
 
@@ -918,9 +808,7 @@ The BCF Plugin button in the Catenda Plugins menu of the Catenda tab will open t
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/03-bcf-plugin.png)
 
-**Docking the plugin**
-
-Drag the title bar of the window to any of the sides of the application to dock it.
+**Docking the plugin** Drag the title bar of the window to any of the sides of the application to dock it.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/04-bcf-plugin.png)
 
@@ -944,19 +832,13 @@ If the login session has timed out the refresh button can be used to refresh the
 
 ### 6.1 **Authenticate**
 
-**Token**
-
-Here you will see your Catenda authentication token after signing in.
+**Token** Here you will see your Catenda authentication token after signing in.
 
 ### 6.2 **IFCGuid**
 
-**Category and property**
+**Category and property** Cateogory default: Element Property default: IfcGUID
 
-Cateogory default: Element Property default: IfcGUID
-
-**Property mapping**
-
-The Catenda Navisworks plugin attaches objects to viewpoints in topics based on the GUID of the IfcProject in the IFC. In Navisworks this GUID can be found in the properties of the object. Here is an example with an object selected:
+**Property mapping** The Catenda Navisworks plugin attaches objects to viewpoints in topics based on the GUID of the IfcProject in the IFC. In Navisworks this GUID can be found in the properties of the object. Here is an example with an object selected:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/08-ifcguid.png)
 
@@ -966,15 +848,11 @@ Depending on the content of your IFC, the IfcProject GUID might be found in one 
 
 ### 6.3 **Paths**
 
-**DownloadPath**
-
-The file location that models and documents downloaded through the plugin end up at.
+**DownloadPath** The file location that models and documents downloaded through the plugin end up at.
 
 ### 6.4 **Snapshots**
 
-**Placement**
-
-Right - default Snapshots are displayed to the right
+**Placement** Right - default Snapshots are displayed to the right
 
 Below Snapshots are displayed below
 
@@ -1038,33 +916,23 @@ To get started with the clashes menu find the Clash detective in the ribbon:
 
 `Home tab -> Tools menu -> Clash Detective`
 
-**Test overview**
-
-Add a new test. This is what your test overview can look like:
+**Test overview** Add a new test. This is what your test overview can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/13-running-a-clash-detective-test.png)
 
-**Rules**
-
-Select rules or create new ones.
+**Rules** Select rules or create new ones.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/14-running-a-clash-detective-test.png)
 
-**Select**
-
-Select models that you want to check against each other for clashes and run the test.
+**Select** Select models that you want to check against each other for clashes and run the test.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/15-running-a-clash-detective-test.png)
 
-**Results**
-
-Go through the result and name your clashes.
+**Results** Go through the result and name your clashes.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/16-running-a-clash-detective-test.png)
 
-**Context menu**
-
-Right click on a clash row to open the following context menu:
+**Context menu** Right click on a clash row to open the following context menu:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/17-running-a-clash-detective-test.png)
 
@@ -1086,9 +954,7 @@ View in context All, file or home.
 
 Items Here you see the objects that are related to the selected clash.
 
-**Report**
-
-this is what the report menu can look like:
+**Report** this is what the report menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/18-running-a-clash-detective-test.png)
 
@@ -1110,9 +976,7 @@ After a clash test has ran the viewpoints appear in the clashes tab.
 
 Create topic by selecting one or more clash Give topic a title Click add topic.
 
-**Add topic dropdown**
-
-Topics can be made in the following ways:
+**Add topic dropdown** Topics can be made in the following ways:
 
 Create one combined topic
 
@@ -1174,25 +1038,15 @@ Open the Catenda Document library window. This is what the Document library wind
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/21-catenda-document-library.png)
 
-**Navigation arrow**
+**Navigation arrow** Move up a level in the folder structure.
 
-Move up a level in the folder structure.
+**Refresh** Refresh the documents in the document library.
 
-**Refresh**
+**Download** Download the latest revision of the selcted Catenda document to your local system.
 
-Refresh the documents in the document library.
+**Upload** Upload the latest revision of the selcted Catenda document to your local system.
 
-**Download**
-
-Download the latest revision of the selcted Catenda document to your local system.
-
-**Upload**
-
-Upload the latest revision of the selcted Catenda document to your local system.
-
-**Columns**
-
-Navigation Doubleclick on the navigation arrow or anywhere else on the row of a folder to open that folder.
+**Columns** Navigation Doubleclick on the navigation arrow or anywhere else on the row of a folder to open that folder.
 
 Name The name of the folder or document
 
@@ -1204,35 +1058,21 @@ Revision The revision number for the document
 
 ### 10.7 **Columns**
 
-**Selection box**
+**Selection box** The selection box of the model
 
-The selection box of the model
+**Model icon** The ifon of the model
 
-**Model icon**
+**Name** The name of the model
 
-The ifon of the model
-
-**Name**
-
-The name of the model
-
-**Revision Catenda**
-
-The latest revision number in the Catenda project
+**Revision Catenda** The latest revision number in the Catenda project
 
 **Revision Navisworks**
 
-**Download**
+**Download** Click on the download icon to download the latest model revision. When the revision number appears in the Revision navisworks column the model is Downloaded.
 
-Click on the download icon to download the latest model revision. When the revision number appears in the Revision navisworks column the model is Downloaded.
+**Open** Click on the open icon to open the model in a new Navisworks project.
 
-**Open**
-
-Click on the open icon to open the model in a new Navisworks project.
-
-**Append**
-
-Click on the append icon to append the model to the current Navisworks project.
+**Append** Click on the append icon to append the model to the current Navisworks project.
 
 ### 10.8 **Downloading models from Catenda Hub**
 
@@ -1504,9 +1344,7 @@ This article contains information about the following topics
 
 Click the filter button on the top left for a panel to appear on the left side. When a filter is applied, the URL visible in the browser changes with it. In this article filters are displayed like so: _Filter name in menu_ - `Filter name in URL=Filter option in URL`
 
-**Default filter**
-
-The default filter is initially not visible in the URL. When the page is navigated to for the first time the following filter is applied. _No filter_ - `status-type=all`
+**Default filter** The default filter is initially not visible in the URL. When the page is navigated to for the first time the following filter is applied. _No filter_ - `status-type=all`
 
 ### 1.1 **Save and share the current filter**
 
@@ -1602,29 +1440,19 @@ _Text search -_ `search=\<Search phrase>` After entering characters in the searc
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/04-text-search.png)
 
-**Content that can be searched on**
+**Content that can be searched on** Topic title Topic description Topic comments
 
-Topic title Topic description Topic comments
+**Capitalization** The text search is not sensitive to upper or lowercase characters.
 
-**Capitalization**
-
-The text search is not sensitive to upper or lowercase characters.
-
-**Character amounts**
-
-Single character Content that includes the searched character is matched unless it is a unicode letter with a value that is 58 or higher at the start of the content.
+**Character amounts** Single character Content that includes the searched character is matched unless it is a unicode letter with a value that is 58 or higher at the start of the content.
 
 Two characters Content that has a single word, separated by a separator character like a space, that matches the search phrase is included in the results.
 
 Three or more characters Content that matches the search phrase in any part of the content is included int he results.
 
-**Whitespace**
+**Whitespace** Whitespace characters at the beginning of a search phrase are removed.
 
-Whitespace characters at the beginning of a search phrase are removed.
-
-**Searching for mentioned members or teams**
-
-Topics where a member or team has been mentioned in a comment or description can be found using the text search: Member or team name Search on the name of the member or team to find all plain text occurrences of that member or team name. Mentioned member Search on the email of a member to find all plain text occurrences of that members email. This includes where they have been mentioned. Search on `#[\<Email of member>]` to find only the occurrences where that member is mentioned. Mentioned team Mentioned teams can be searched on by searching the GUID of that team. To find the GUID of a team, go to the [content page of that team](https://support.catenda.com/en/articles/7891755-team-page) by clicking on its name on the [teams tab of the members and teams page](https://support.catenda.com/en/articles/4670291-members-and-teams-page). The URL should look something like: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
+**Searching for mentioned members or teams** Topics where a member or team has been mentioned in a comment or description can be found using the text search: Member or team name Search on the name of the member or team to find all plain text occurrences of that member or team name. Mentioned member Search on the email of a member to find all plain text occurrences of that members email. This includes where they have been mentioned. Search on `#[\<Email of member>]` to find only the occurrences where that member is mentioned. Mentioned team Mentioned teams can be searched on by searching the GUID of that team. To find the GUID of a team, go to the [content page of that team](https://support.catenda.com/en/articles/7891755-team-page) by clicking on its name on the [teams tab of the members and teams page](https://support.catenda.com/en/articles/4670291-members-and-teams-page). The URL should look something like: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 
@@ -1765,13 +1593,9 @@ Geometry Conversion for IFC Export will let you convert your geometry in differe
 
 ### 5.1 Conversions of Archicad elements
 
-**Export all model elements' geometry as:**
+**Export all model elements' geometry as:** _Parametric with exceptions_ - default _BREP_ - Precise geometry - If this is selected the next two options will also be BREP
 
-_Parametric with exceptions_ - default _BREP_ - Precise geometry - If this is selected the next two options will also be BREP
-
-**Elements in Solid Element Operations:**
-
-_Extruded/revolved_ - default _BREP_ - Precise geometry
+**Elements in Solid Element Operations:** _Extruded/revolved_ - default _BREP_ - Precise geometry
 
 Elements with Junctions Some elements can intersect with other elements which can trim parts of the extrusion. _Extruded/revolved_ - Connect corners of elements This adds junctions to your extruded elements. With this option you will see that elements like walls or roofs, especially slanted ones will connect nicely.
 
@@ -1795,9 +1619,7 @@ Surface color The color of the surface Transmittance How much you can see throug
 
 Diffuse How dark or bright the surface color is
 
-**Define IFC model position by:**
-
-This option decides project location. It is important to agree on a common coordinate point to reference in the project already in the beginning changing it might mean that multiple consultants have to move their objects which is often not feasible towards the end of a project.
+**Define IFC model position by:** This option decides project location. It is important to agree on a common coordinate point to reference in the project already in the beginning changing it might mean that multiple consultants have to move their objects which is often not feasible towards the end of a project.
 
 Survey Point and Project Origin - default With this option the distance from (0,0,0) to your model in Archicad will be the distance from (0,0,0 + coordinates of your survey point) to your model in Catenda Hub + the If you have set a project location your model will end up at those coordinates in Catenda Hub
 
@@ -1807,10 +1629,7 @@ Survey Point only With this option the distance from the survey point in Archica
 
 ### 5.2 IFC Schema related options
 
-**Material preservation mode (IFC2x3 only)**
-
-- Never explode elements, preservation is not guaranteed
-With this option you will export the whole object as one object
+**Material preservation mode (IFC2x3 only)** - Never explode elements, preservation is not guaranteed With this option you will export the whole object as one object
 
 - Explode only when necessary to preserve materials - Default
 With this option you only export separate objects for each composite material if necessary
@@ -1826,9 +1645,7 @@ This can make it hard for software to cut holes through the surface as the inacc
 
 ### 5.3 Composite structures and Complex Profiles
 
-**Split complex Building Elements into parts**
-
-Here you can chose for what type of elements you want the composite element to be split and for which you do not want them to be split. If you choose this option you will not be able to make a choice for the material preservation mode.
+**Split complex Building Elements into parts** Here you can chose for what type of elements you want the composite element to be split and for which you do not want them to be split. If you choose this option you will not be able to make a choice for the material preservation mode.
 
 ---
 
@@ -1919,47 +1736,31 @@ Click [here](https://support.catenda.com/en/articles/9431936-models-page-actions
 
 When the table is first loaded in, up to 100 rows are displayed. If more than 100 rows are in the table scroll down to the bottom to load in the next 100 rows. Each model row is linked to a document on the documents page.
 
-**Access**
+**Access** Model rows are displayed based on the access to the document that is linked to the model. _Access required -_ Read Opening the content of a model row opens the [model overview page](https://support.catenda.com/en/articles/4670270-model-page) of that model.
 
-Model rows are displayed based on the access to the document that is linked to the model. _Access required -_ Read Opening the content of a model row opens the [model overview page](https://support.catenda.com/en/articles/4670270-model-page) of that model.
-
-**2D and 3D buttons**
-
-For 2D, the 3D panel opens up and the first story of the latest revision of the model is loaded into the 2D viewer. For 3D, the 3D panel opens up and the latest revision of the model is loaded into 3D.
+**2D and 3D buttons** For 2D, the 3D panel opens up and the first story of the latest revision of the model is loaded into the 2D viewer. For 3D, the 3D panel opens up and the latest revision of the model is loaded into 3D.
 
 ### 4.3 **Row content with status workflow - Draft revisions**
 
-**Access**
-
-Model rows of models with only draft revisions have no 2D and 3D buttons as draft revisions cannot be loaded in 2D or 3D.
+**Access** Model rows of models with only draft revisions have no 2D and 3D buttons as draft revisions cannot be loaded in 2D or 3D.
 
 > **Note:** Draft revisions are not displayed on the [model overview page](https://support.catenda.com/en/articles/4670270-model-page).
 
-**2D and 3D buttons**
-
-The 2D and 3D views of the latest published revision are opened even if there are more recent draft revisions.
+**2D and 3D buttons** The 2D and 3D views of the latest published revision are opened even if there are more recent draft revisions.
 
 ### 4.4 **Row content with status workflow - Workspace tab**
 
-**Access**
-
-Model rows are displayed based on the access to the document that is linked to the model. With access to viewing shared revisions, the latest revision is displayed. _Access required_ - Access to viewing shared revisions in the document
+**Access** Model rows are displayed based on the access to the document that is linked to the model. With access to viewing shared revisions, the latest revision is displayed. _Access required_ - Access to viewing shared revisions in the document
 
 Without access to viewing shared revisions, the latest published revision is displayed. Even if there are more recent shared revisions. _Access required -_ Read access to the document
 
-**2D and 3D buttons**
-
-The 2D and 3D views of the latest revision a user has access to is opened.
+**2D and 3D buttons** The 2D and 3D views of the latest revision a user has access to is opened.
 
 ### 4.5 **Row content with status workflow - Published tab**
 
-**Access**
+**Access** Model rows are displayed based on the access to the document that is linked to the model. _Access required -_ Read
 
-Model rows are displayed based on the access to the document that is linked to the model. _Access required -_ Read
-
-**2D and 3D buttons**
-
-The 2D and 3D views of the latest published revision are opened even if there are more recent shared revisions.
+**2D and 3D buttons** The 2D and 3D views of the latest published revision are opened even if there are more recent shared revisions.
 
 ### 4.6 **Columns**
 
@@ -1967,7 +1768,7 @@ Depending on if a single panel is opened or if multiple panels are opened differ
 
 The default order and visibility setting of the columns on the models page is as follows:
 
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80;"><h3 id="h_ec767816e6"><b>Models table columns</b></h3></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Checkbox</i> - Default</p></td></tr><tr><td><p>Selecting models</p></td></tr><tr><td><p>Click on this column to add a model to your selection.</p><p>Click <a class="intercom-content-link" href="https://support.catenda.com/en/articles/11748020-tables-on-catenda">here</a> to learn more about how to select rows in a table.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Viewer - </i>Default</p></td></tr><tr><td><p>Loading buttons</p></td></tr><tr><td><p>If this is a new model and there are no public revisions yet this column will be empty.<br/>After importing a model it will start processing. You will see a gray exclamation mark.<br/>​ </p><p class="intercom-align-center"><img alt="Processing" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-372d4bd1db9f.png" width="229.375"/> / <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-8b3486c7b390.png" width="40"/></p><p><br/>If the latest model revision has failed processing you will see a red exclamation mark.</p><p></p><p class="intercom-align-center"><img alt="Failed" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-e966693c5257.png" width="148.57142857142858"/> / <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-4e91c43615e4.png" width="39.583333333333336"/></p><p></p><p>Hover over the explanation mark to see which model has failed. Clicking on 3D will load the latest valid revision instead of the latest revision.<br/>If there are any public revisions you will see a 2D, 3D and zoom to extents button here to be used together with the <a class="intercom-content-link" href="https://support.catenda.com/en/articles/4854537-2d-viewer">2D viewer</a> and <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8227211-3d-viewer">3D viewer</a>.</p><p></p><div class="intercom-container intercom-align-center"><img alt="2D 3D" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-484ed38ce192.png" width="131"/></div><p></p><p><i>Access required:</i> Read access to the document model</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note1:</b> The zoom to extents button will be gray until you load the model in 3D.</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note2:</b> If there is an explanation mark on the 3D button and the 2D and 3D buttons are grayed out, hover over the explanation mark to see what is wrong.</p><p>You will still be able to open previous revision by clicking on the model name.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Short name</i> - Default</p></td></tr><tr><td><p>The name of the model</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note1:</b> The model name of the model can be different from the name of the document that is linked to the model or name of the revision.</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note2:</b> If you do not have access to the document that the model is linked to, you will not see its row in the models table. You will still be able to see its model name in the revision selector.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Document name</i></p></td></tr><tr><td><p>The name of the document-model linked to the model-document.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Revision </i>- Default</p></td></tr><tr><td><p>The amount of public revisions in the document-model</p></td></tr><tr><td><p>If a model has been added from the models page it will not have any revisions yet.<br/>Instead of a revision number you will see the following icon which you can click to upload the first revision.</p><p></p><div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-bb42837798d7.png" width="47"/></div><p></p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Revision comment</i></p></td></tr><tr><td><p>The comment the revision was uploaded with (legacy only)</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Revision name</i></p></td></tr><tr><td><p>The name of the latest public document-model revision. Cannot be changed after upload.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Status</i> - Default</p></td></tr><tr><td><p>The status of the latest public document-model revision. Public statuses can be turned on in <a class="intercom-content-link" href="https://support.catenda.com/en/articles/7831371-document-settings">document settings</a>.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Size</i> - Default</p></td></tr><tr><td><p>The file size of the last public document-model revision</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Labels</i> - Default</p></td></tr><tr><td><p>The labels connected to the model-document.</p></td></tr><tr><td><p>A label can be applied after uploading the first revision.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Document created</i></p></td></tr><tr><td><p>The person that created the document-model and the date and time it was created.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Published</i> - Default</p></td></tr><tr><td><p>The person that published the last published revision in the document-model and the date and time it was published.</p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80;"><h3 id="h_ec767816e6"><b>Models table columns</b></h3></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Checkbox</i> - Default</p></td></tr><tr><td><p>Selecting models</p></td></tr><tr><td><p>Click on this column to add a model to your selection.</p><p>Click <a class="intercom-content-link" href="https://support.catenda.com/en/articles/11748020-tables-on-catenda">here</a> to learn more about how to select rows in a table.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Viewer - </i>Default</p></td></tr><tr><td><p>Loading buttons</p></td></tr><tr><td><p>If this is a new model and there are no public revisions yet this column will be empty.<br/>After importing a model it will start processing. You will see a gray exclamation mark.<br/>​ </p><p class="intercom-align-center"><img alt="Processing" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-3e6946f641f0.png" width="229.375"/> / <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-674792760c64.png" width="40"/></p><p><br/>If the latest model revision has failed processing you will see a red exclamation mark.</p><p></p><p class="intercom-align-center"><img alt="Failed" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-c21b804d9253.png" width="148.57142857142858"/> / <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-9c4222a08d15.png" width="39.583333333333336"/></p><p></p><p>Hover over the explanation mark to see which model has failed. Clicking on 3D will load the latest valid revision instead of the latest revision.<br/>If there are any public revisions you will see a 2D, 3D and zoom to extents button here to be used together with the <a class="intercom-content-link" href="https://support.catenda.com/en/articles/4854537-2d-viewer">2D viewer</a> and <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8227211-3d-viewer">3D viewer</a>.</p><p></p><div class="intercom-container intercom-align-center"><img alt="2D 3D" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-fe323db3ad4e.png" width="131"/></div><p></p><p><i>Access required:</i> Read access to the document model</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note1:</b> The zoom to extents button will be gray until you load the model in 3D.</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note2:</b> If there is an explanation mark on the 3D button and the 2D and 3D buttons are grayed out, hover over the explanation mark to see what is wrong.</p><p>You will still be able to open previous revision by clicking on the model name.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Short name</i> - Default</p></td></tr><tr><td><p>The name of the model</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note1:</b> The model name of the model can be different from the name of the document that is linked to the model or name of the revision.</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note2:</b> If you do not have access to the document that the model is linked to, you will not see its row in the models table. You will still be able to see its model name in the revision selector.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Document name</i></p></td></tr><tr><td><p>The name of the document-model linked to the model-document.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Revision </i>- Default</p></td></tr><tr><td><p>The amount of public revisions in the document-model</p></td></tr><tr><td><p>If a model has been added from the models page it will not have any revisions yet.<br/>Instead of a revision number you will see the following icon which you can click to upload the first revision.</p><p></p><div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-b5a2ae50489d.png" width="47"/></div><p></p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Revision comment</i></p></td></tr><tr><td><p>The comment the revision was uploaded with (legacy only)</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Revision name</i></p></td></tr><tr><td><p>The name of the latest public document-model revision. Cannot be changed after upload.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Status</i> - Default</p></td></tr><tr><td><p>The status of the latest public document-model revision. Public statuses can be turned on in <a class="intercom-content-link" href="https://support.catenda.com/en/articles/7831371-document-settings">document settings</a>.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Size</i> - Default</p></td></tr><tr><td><p>The file size of the last public document-model revision</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Labels</i> - Default</p></td></tr><tr><td><p>The labels connected to the model-document.</p></td></tr><tr><td><p>A label can be applied after uploading the first revision.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Document created</i></p></td></tr><tr><td><p>The person that created the document-model and the date and time it was created.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Published</i> - Default</p></td></tr><tr><td><p>The person that published the last published revision in the document-model and the date and time it was published.</p></td></tr></tbody></table></div>
 
 ## 5. **Sub pages**
 
@@ -2057,21 +1858,15 @@ A revision status will be applied for each file extracted from a zipped file.​
 
 ### 3.4 Publish shared revisions
 
-**Multiple documents in document structure**
-
-A publish action will be available in the existing element action menu of one or more selected documents with shared revisions.
+**Multiple documents in document structure** A publish action will be available in the existing element action menu of one or more selected documents with shared revisions.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/10-publish-shared-revisions.png)
 
-**Single revision in document preview or document structure**
-
-A publish action will be available as an icon and in the action menu of the revision info of a shared revision in the right information menu.
+**Single revision in document preview or document structure** A publish action will be available as an icon and in the action menu of the revision info of a shared revision in the right information menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/11-publish-shared-revisions.png)
 
-**Multiple models**
-
-A publish action will be available in the revision info of a document with a shared revision in the right information menu in the document structure and in the document preview.
+**Multiple models** A publish action will be available in the revision info of a document with a shared revision in the right information menu in the document structure and in the document preview.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/12-publish-shared-revisions.png)
 
@@ -2100,13 +1895,9 @@ Shared revisions have a minor revision number (e.g. #0.1, #2.3, #4.1) Published 
 
 In the document structure you will see the latest revision you have access to. Click on the name of a document to open the document preview of the displayed revision.
 
-**Workspace tab**
+**Workspace tab** The latest revision in the workspace tab can be: Shared revision - _Access required:_ Shared revisions Published revision - ​_Access required:_ Read
 
-The latest revision in the workspace tab can be: Shared revision - _Access required:_ Shared revisions Published revision - ​_Access required:_ Read
-
-**Published tab**
-
-The latest revision in the published tab can be: Published revision - _Access required:_ Read
+**Published tab** The latest revision in the published tab can be: Published revision - _Access required:_ Read
 
 > **Note:** Shared revisions can be visible in the revision overview of the document preview, even if you opened the document from the published tab. _Access required:_ Shared revisions
 
@@ -2127,9 +1918,7 @@ _Access required:_ Read access and shared revisions
 - Change a published revision status to a different published revision status.
 _Access required:_ Write access and published revisions
 
-**Revision information dialogue**
-
-Click on the revision box to see an overview of all the revisions in the document in the [revision information dialogue](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision#h_6838c6ad71). A green link between a published and a shared revision indicates which shared revision was published.
+**Revision information dialogue** Click on the revision box to see an overview of all the revisions in the document in the [revision information dialogue](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision#h_6838c6ad71). A green link between a published and a shared revision indicates which shared revision was published.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/17-revision-information.png)
 
@@ -2141,17 +1930,17 @@ Only published revisions are visible in Catenda Site.
 
 1. Edit access to the document status configuration can be configured from the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page):
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-1310a15e9f09.png" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-868820a898ba.png" width="500"/></div>
 
 1. Documents status can be then [configured](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) from the settings in the documents section:
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-97a799ddb935.png" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-931418a5fab1.png" width="500"/></div>
 
 1. Finally, these document status can be assigned to file review status accessible from the top-right three dots button in the [Approvals section](https://support.catenda.com/en/articles/8349340-approvals-page). It is also possible to configure here a Topic template.
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-37e299566a42.png" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-3cdbebefca38.png" width="500"/></div>
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-0fe381f74d65.png" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-f8ab7f3194ff.png" width="300"/></div>
 
 ## 5. **Approval workflow**
 
@@ -2200,7 +1989,7 @@ This article contains information about the following topics:
 
 See below various settings to display your data:
 
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptive - Sparse - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-4ab6e3c989e7.png" style="height: auto;" width="3839"/></div></td><td><p>Adaptive - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-ec54270dfcb7.png" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Fixed - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-f0d93189257d.png" style="height: auto;" width="3834"/></div></td><td><p>Fixed - Sparse - Intensity</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-961a536ed014.png" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptive - Sparse - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-05a450dc777f.png" style="height: auto;" width="3839"/></div></td><td><p>Adaptive - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-196a1135014a.png" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Fixed - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-66e21551bbef.png" style="height: auto;" width="3834"/></div></td><td><p>Fixed - Sparse - Intensity</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-4a2046c8eaf1.png" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
 
 ## 1. **Document section preview**
 
@@ -2307,21 +2096,15 @@ _Attribute_ _RGBA_ - Default Display PC points with their colors
 
 _Attribute Intensity_ The intensity option can be used when the points do not include colors. For example when the point cloud was captured in a tunnel or a dark room.
 
-**Opacity**
-
-When models are displayed together with point clouds, it can be necessary to dim the points to have a better understanding of the viewpoint.
+**Opacity** When models are displayed together with point clouds, it can be necessary to dim the points to have a better understanding of the viewpoint.
 
 _Point size_ _Adaptive_ - Default The closer a point is to the camera, the larger it is. Points that are in view are loaded into memory. Points that move out of view are loaded out of memory.
 
 > **Note:** Be sure the hardware and sofware Catenda is opened on are configured [as recommended](https://support.catenda.com/en/articles/6921941-hardware-recommendation) as this can have an effect on the type of point size loading your device is able to handle.
 
-**Point size Fixed size**
+**Point size Fixed size** Points that have been loaded will stay in memory with this option. With many points you will notice that rotating might be delayed and movement can be slowed down as you start getting close to the amount of points that your system can handle. You might also notice that it will take longer and longer to load in new points as you get closer to the limit of your device. Points load closest to the camera first. Before loading the point cloud from the document section, be sure to therfore position the camera to where you want the points to load. If this is a camera position you plan to use more often with this point cloud consider making a bookmark or a snapshot in a topic which you can play to return to this position.
 
-Points that have been loaded will stay in memory with this option. With many points you will notice that rotating might be delayed and movement can be slowed down as you start getting close to the amount of points that your system can handle. You might also notice that it will take longer and longer to load in new points as you get closer to the limit of your device. Points load closest to the camera first. Before loading the point cloud from the document section, be sure to therfore position the camera to where you want the points to load. If this is a camera position you plan to use more often with this point cloud consider making a bookmark or a snapshot in a topic which you can play to return to this position.
-
-**Point density slider**
-
-The density slider helps you make the final setting. There is no rule for the correct value, it will depend on the data you upload (size of the dataset, point density, type of scan, etc...). Our advice: Load the point cloud, and after a brief moment, when enough points are displayed, adjust the settings if necessary.
+**Point density slider** The density slider helps you make the final setting. There is no rule for the correct value, it will depend on the data you upload (size of the dataset, point density, type of scan, etc...). Our advice: Load the point cloud, and after a brief moment, when enough points are displayed, adjust the settings if necessary.
 
 [YouTube video](https://www.youtube.com/embed/n9pztkRPxoc?rel=0)
 
@@ -2375,13 +2158,13 @@ The following methods allow you to style your text:
 
 ### 3.1 **Bold, italics, strikethrough**
 
-Bold italics and strikethrough styling can be done in any part of a line and works well together with other styling that has to be at the start of a line. <img alt="**This will be bold** __This will also be bold__ *This will be italics* _This will also be italics_ **This will be bold _combined with italics_** ~~This text will be struck through~~" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-b0239a5c77f9.png" width="290"/>   \<->   <img alt="This will be bold​This will also be bold​This will be italics​This will also be italics​This will be bold combined with italicsThis text will be struck through" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-b3aaded9174f.png" width="290"/>
+Bold italics and strikethrough styling can be done in any part of a line and works well together with other styling that has to be at the start of a line. <img alt="**This will be bold** __This will also be bold__ *This will be italics* _This will also be italics_ **This will be bold _combined with italics_** ~~This text will be struck through~~" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-b49c2f10b2de.png" width="290"/>   \<->   <img alt="This will be bold​This will also be bold​This will be italics​This will also be italics​This will be bold combined with italicsThis text will be struck through" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-ea38fb93f8ee.png" width="290"/>
 
 ### 3.2 **Headers**
 
 The header tool applies hastags/pound signs to the beginning of the line. There are 5 levels of headers that are supported: The formatting that the header receives is dependent on the amount of hashtags/pound signs (`#`) that are at the beginning of the line.
 
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-e892079dbf93.png" width="290"/>   \<->   <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-1c7e5cdba2b5.png" width="290"/>
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-c21079ec7efb.png" width="290"/>   \<->   <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-557784a5d702.png" width="290"/>
 
 ### 3.3 **Links**
 
@@ -2431,9 +2214,7 @@ _Getting a Catenda image document link_ If you right click the [download action 
 
 ### 4.2 **Lists**
 
-**Unordered lists**
-
-Start an unordered list with a blank line above it, then either hyphen (`-`), plus (`+`), or an asterix (`\*`) followed by a space. Insert 4 spaces or a tab space at the start of the line to create a sublist.
+**Unordered lists** Start an unordered list with a blank line above it, then either hyphen (`-`), plus (`+`), or an asterix (`\*`) followed by a space. Insert 4 spaces or a tab space at the start of the line to create a sublist.
 
 ```
  - First element - Second element     - Insert 4 spaces at the start of the line to create a sublist.
@@ -2459,9 +2240,7 @@ Will all turn into this:
 
 > **Note:** In order for an unordered list to be formatted correctly there needs to be  a blank newline on the line above the list.
 
-**Ordered lists**
-
-Start an ordered list with a blank line above it, a number, a period and a space (`1. `) What the number in front is, does not matter, just that it’s a number followed by a period. Insert 4 spaces or a tab space at the start of the line to create a sublist.
+**Ordered lists** Start an ordered list with a blank line above it, a number, a period and a space (`1. `) What the number in front is, does not matter, just that it’s a number followed by a period. Insert 4 spaces or a tab space at the start of the line to create a sublist.
 
 ```
 1. item one 2. item two 3. item three     4. item four
@@ -2544,9 +2323,7 @@ Will turn into this:
 
 Click [here](https://support.catenda.com/en/articles/5036461-check-lists-within-issues) to watch a quick video on how checklists can be used in the project. If you write` - [ ]` or `- [x]` the box will still appear unchecked and checked when the comment is submitted or saved after editing.
 
-**Checkboxes in comments**
-
-In comments checkboxes can only be checked through formatting. Checkboxes in comments cannot be clicked to be checked. _Access required -_ The comment creator has access to the editing of the created comment
+**Checkboxes in comments** In comments checkboxes can only be checked through formatting. Checkboxes in comments cannot be clicked to be checked. _Access required -_ The comment creator has access to the editing of the created comment
 
 ### 4.5 **Tables**
 
@@ -2590,17 +2367,11 @@ Search through the list by starting to type the email, member name or team name.
 
 When the description is saved or the comment is submitted related members with access to the topic board recieve a notification. If the member email or the name of the team is known it can also be written manually but if they are not part of the topic board the related members will not be notified that they are mentioned.
 
-**Notification upon member mention**
+**Notification upon member mention** Members with access to the topic board that are mentioned receive a notification that they are mentioned in a topic.
 
-Members with access to the topic board that are mentioned receive a notification that they are mentioned in a topic.
+**Notification upon team mention** Members with access to the topic board that are part of a team that is mentioned receive a notification that a team they are part of is mentioned in a topic.
 
-**Notification upon team mention**
-
-Members with access to the topic board that are part of a team that is mentioned receive a notification that a team they are part of is mentioned in a topic.
-
-**Notifications about future topic events**
-
-Members of teams that are mentioned in topic descriptions and comments only receive the one notification upon the saved description or submitted comment.
+**Notifications about future topic events** Members of teams that are mentioned in topic descriptions and comments only receive the one notification upon the saved description or submitted comment.
 
 In addition to the notification that they are mentioned, members that are mentioned in posts are automatically set to [follow](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic and will get notifications about topic events like new comments and status changes. This is a great way to ensure that more than just the [assignee](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) and [requestee](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7) get notifications about future changes an topic. If a member no longer wishes to follow the topic they have to manualy unfollow it.
 
@@ -2614,17 +2385,13 @@ In the background the unique id of the mentioned project participant is saved. I
 
 Mentioned members have a clickable link that directs to the [member page](https://support.catenda.com/en/articles/8228836-member-page) of that member. Mentioned teams have clickable link that directs to the [team page](https://support.catenda.com/en/articles/7891755-team-page) of that team.
 
-**Non-existing member**
-
-If there is no member in the project that has the email address that is mentioned the post looks like this instead:
+**Non-existing member** If there is no member in the project that has the email address that is mentioned the post looks like this instead:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/12-mention-in-post.png)
 
 This can either be because the email was formatted wrongly of because the member is no longer part of the project. Should a member with this email address become part of the project in the future, the post changes to displaye the name of that member.
 
-**Non-existing team**
-
-If a team has been removed from the project and a new team is created, this new team will not be mentioned. To mention the new team the post has to be re-submitted.
+**Non-existing team** If a team has been removed from the project and a new team is created, this new team will not be mentioned. To mention the new team the post has to be re-submitted.
 
 ## 6. **# Tagged topics**
 
@@ -2698,9 +2465,7 @@ _[Download link](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j
 
 Since documents cannot be changed after they are uploaded to Catenda it is important that the placeholder QR-Code is placed on the document before it is uploaded to Catenda. The placeholder can be placed on any layer except the annotation layer. For Catenda to recognize the QR-Code, it has to be added as an image. The image in the published document has to be the exact same image as the placeholder image.
 
-**PDF optimization**
-
-Many programs perform optimization steps for better viewing and reducing file size. These steps might change the amount of bytes in the image which will make it so Catenda does not recognize it anymore. Here is some information about the placeholder that can help with optimization. Pixel density: 144 dpi Image compression: ZIP The image has to be one whole image. Some optimizers might split the image as an optimization. Please make sure the image is whole after optimizing. _Archicad_ When placing the qr code, please use: Import > interpobility > merge from file > import and open worksheet > drag en drop If you open the worksheet and drag and drop the PNG it will change the resolution and not work.
+**PDF optimization** Many programs perform optimization steps for better viewing and reducing file size. These steps might change the amount of bytes in the image which will make it so Catenda does not recognize it anymore. Here is some information about the placeholder that can help with optimization. Pixel density: 144 dpi Image compression: ZIP The image has to be one whole image. Some optimizers might split the image as an optimization. Please make sure the image is whole after optimizing. _Archicad_ When placing the qr code, please use: Import > interpobility > merge from file > import and open worksheet > drag en drop If you open the worksheet and drag and drop the PNG it will change the resolution and not work.
 
 ### 2.2 Placing the QR-code on an existing document
 
@@ -2750,9 +2515,7 @@ After uploading a document with a placeholder QR code you will be able to see it
 
 If the generation of your QR code has failed, this can be because your QR-code was smaller than 2cm x 2cm or it was placed as an annotation instead of an image.
 
-**Flattening annotations**
-
-Some software allow you to flatten annotations which will allow the placeholder to be processed. Here are some examples:
+**Flattening annotations** Some software allow you to flatten annotations which will allow the placeholder to be processed. Here are some examples:
 
 **PDF X-change**
 
@@ -2760,7 +2523,7 @@ Some software allow you to flatten annotations which will allow the placeholder 
 
 **Adobe Acrobat**
 
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-9a263e31a1a0.png" width="300"/> --> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-e47c4802a00b.png" width="300"/>
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-3d7d02c461d3.png" width="300"/> --> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-3398dc9eef22.png" width="300"/>
 
 _BlueBeam Revu_ When you place the placeholder in BlueBeam Revu and save the document it will be added as an annotation. It is possible to flatten the QR-code to make it part of the content layer of the document, but even when saving it regularly or by using the reduced file size option the QR-code will be changed and will not work with Catenda. To make the QR-code work with catenda, instead: Print the document with the BlueBeam driver:
 
@@ -2836,55 +2599,35 @@ This window contains the following tabs: [General](#h_fb41b895ea) - [Additional 
 
 We'll take you through the various settings.
 
-**IFC version**
+**IFC version** Selection of IFC version.
 
-Selection of IFC version.
-
-**Exchange Requirement**
-
-These options can change depending on the IFC version that is selected. IFC 2x3 Coordination View 2.0
+**Exchange Requirement** These options can change depending on the IFC version that is selected. IFC 2x3 Coordination View 2.0
 
 - Architectural Reference Exchange
 - MEP Reference Exchange
 - Structural Reference Exchange
 
-**Category mapping**
-
-Before Revit 2026 this option was available in File -> Export -> Options -> IFC Export Options. This is what the Manage IFC Export Mapping Settings menu can look like:
+**Category mapping** Before Revit 2026 this option was available in File -> Export -> Options -> IFC Export Options. This is what the Manage IFC Export Mapping Settings menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/08-general.png)
 
-**File type**
+**File type** IFC type selection.
 
-IFC type selection.
+**Phase to export** If you have used the phase tool in Revit, here you can choose and only export new or existing structures.
 
-**Phase to export**
+**Space boundaries** These are all about how room information can be used further. a. 1st Level - Ex on use: Quantity withdrawals, management, operation and maintenance (FDVU). b. 2st Level - Ex on use: Energy analysis, light analysis.
 
-If you have used the phase tool in Revit, here you can choose and only export new or existing structures.
+**Facility Type** This option is only available for IFC 4x3 Choose between one of the following: Bridge (IfcBridge) Building (IfcBuilding) Marine Facility (IfcMarineFacility) Railway (IfcRailway) Road (IfcRoad)
 
-**Space boundaries**
-
-These are all about how room information can be used further. a. 1st Level - Ex on use: Quantity withdrawals, management, operation and maintenance (FDVU). b. 2st Level - Ex on use: Energy analysis, light analysis.
-
-**Facility Type**
-
-This option is only available for IFC 4x3 Choose between one of the following: Bridge (IfcBridge) Building (IfcBuilding) Marine Facility (IfcMarineFacility) Railway (IfcRailway) Road (IfcRoad)
-
-**Split Walls, Columns, Ducts by level**
-
-Here you can f. Ex dividing walls horizontal if modeled over several floors.
+**Split Walls, Columns, Ducts by level** Here you can f. Ex dividing walls horizontal if modeled over several floors.
 
 _File Header information... Project Address..._ In these you can put information on who has delivered the IFC, project address etc.
 
-**Project Origin**
-
-Project origin, this we put on Current shared coordinates- Present shared coordinates.
+**Project Origin** Project origin, this we put on Current shared coordinates- Present shared coordinates.
 
 > **Note:** This is moved to Geographic reference as of Revit 2025
 
-**Include Steel Elements**
-
-Includes steel components if modeled.
+**Include Steel Elements** Includes steel components if modeled.
 
 > **Note:** This is moved to Additional content as of Revit 2025
 
@@ -2919,41 +2662,27 @@ Export Ceiling Grids Ceiling grids are 2D elements and thus not displayed in the
 
 Exports all Revit Property sets (pset / properties) Here is an example of a wall exported with this option: Revit (_Left_) --- Catenda (_Right_)
 
-<img alt="Properties" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-724f96954df4.png" width="208.60495436766624"/>  ---  <img alt="Properties" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-cd328802d265.png" width="190.21739130434784"/>
+<img alt="Properties" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-4f4aab46be4e.png" width="208.60495436766624"/>  ---  <img alt="Properties" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-7c05fd3c2c4a.png" width="190.21739130434784"/>
 
 Typical properties that show in the properties menu are: Constraints, Cross-Section Definition, Dimensions, Structural, Identity Data, Other
 
 Typical properties that show in the Identification menu are: IFC Parameters Export standard IFC properties. Exports calculated quantities of objects. Export batch lists Export one-off Property Set
 
-**Classification settings**
-
-Here is an example of what classification settings can look like with omniclass.
+**Classification settings** Here is an example of what classification settings can look like with omniclass.
 
 ![Classification Settings](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/13-property-sets.png)
 
-**Name**
+**Name** The name of the classification
 
-The name of the classification
+**Source (Publisher)** The publisher of the classification
 
-**Source (Publisher)**
+**Edition** The classification edition
 
-The publisher of the classification
+**Edition date** The date of the classification
 
-**Edition**
+**Documentation location** This has to be a valid documentation location
 
-The classification edition
-
-**Edition date**
-
-The date of the classification
-
-**Documentation location**
-
-This has to be a valid documentation location
-
-**Classification field name**
-
-The classification field name is the name of the parameter in your objects that will hold the classification value. This parameter can often be found on the family level. Edit a family to see its properties
+**Classification field name** The classification field name is the name of the parameter in your objects that will hold the classification value. This parameter can often be found on the family level. Edit a family to see its properties
 
 ![Edit Family](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/14-property-sets.png)
 
@@ -2997,61 +2726,33 @@ The appearance of the model will be close to the same, but the number of polygon
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/22-advanced.png)
 
-**Export parts as building elements**
+**Export parts as building elements** Export parts like standard IFC element.
 
-Export parts like standard IFC element.
+**Allow use of mixed "Solid Model" representation** Select this option to allow mixing of BRep and extrusion geometries for a unit.
 
-**Allow use of mixed "Solid Model" representation**
+**Use active view when creating geometry** Select this option to use the active view to generate the geometry. Note that this may have unexpected results if used on a non-3D view.
 
-Select this option to allow mixing of BRep and extrusion geometries for a unit.
+**Use family and type name for reference** Select this option to use the family and type namesfor references.
 
-**Use active view when creating geometry**
+**Use 2D room boundaries for room volume** Select this option to use a simplified approach for calculating room volume (based on extrusion of 2D space boundaries) which is also standard when exporting to IFC 2x2.
 
-Select this option to use the active view to generate the geometry. Note that this may have unexpected results if used on a non-3D view.
+**Include IFCSite elevation in the site local placement origin** Select this option to include the height from the Z-offset for local position in IfcSite. Remove the option to exclude it.
 
-**Use family and type name for reference**
+**Store the IFC GUID in an element parameter after export** Select this option to save the generated IFC GUIDs to the project file after export. This will add "IFC GUID" parameters to items and their types and Project information for project, website and building guides.
 
-Select this option to use the family and type namesfor references.
+**Export bounding box** Select this option to export "Bounding box" representations. This option remains automatically selected for GSA export.
 
-**Use 2D room boundaries for room volume**
+**Keep Tessellated Geometry as Triangulation** If you have complex curved elements or shells and they do not display correctly after the IFC export you can select this option. Keep in mind yo that you might produce a very heavy IFC file.
 
-Select this option to use a simplified approach for calculating room volume (based on extrusion of 2D space boundaries) which is also standard when exporting to IFC 2x2.
+**Use Type name only for IFCType name** Select this option if you want the BAT-ID or the ID of the object to appear as the name of the entity.
 
-**Include IFCSite elevation in the site local placement origin**
+**Use Visilble Revit name as the IFCEntity name** Select this option if you want the Revit object name to be the name of the entity
 
-Select this option to include the height from the Z-offset for local position in IfcSite. Remove the option to exclude it.
+**Always export faceted floors and roofs as a single IFC enitity** Select this option to combine faces of floors and roofs with multiple faces to a single entity.
 
-**Store the IFC GUID in an element parameter after export**
+**Set "Last Modified" user to the Author in Project Information** Select this option if you are the author of the changes in this export
 
-Select this option to save the generated IFC GUIDs to the project file after export. This will add "IFC GUID" parameters to items and their types and Project information for project, website and building guides.
-
-**Export bounding box**
-
-Select this option to export "Bounding box" representations. This option remains automatically selected for GSA export.
-
-**Keep Tessellated Geometry as Triangulation**
-
-If you have complex curved elements or shells and they do not display correctly after the IFC export you can select this option. Keep in mind yo that you might produce a very heavy IFC file.
-
-**Use Type name only for IFCType name**
-
-Select this option if you want the BAT-ID or the ID of the object to appear as the name of the entity.
-
-**Use Visilble Revit name as the IFCEntity name**
-
-Select this option if you want the Revit object name to be the name of the entity
-
-**Always export faceted floors and roofs as a single IFC enitity**
-
-Select this option to combine faces of floors and roofs with multiple faces to a single entity.
-
-**Set "Last Modified" user to the Author in Project Information**
-
-Select this option if you are the author of the changes in this export
-
-**Entities to export**
-
-This is what the IFC Entity Selection menu that opens upcan look like:
+**Entities to export** This is what the IFC Entity Selection menu that opens upcan look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/23-advanced.png)
 
@@ -3069,19 +2770,13 @@ You can find this option in the Manage tab -> Coordinates -> Specify Coordinate 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/26-geographic-reference.png)
 
-**Project site**
+**Project site** Internal
 
-Internal
-
-**Coordinate base**
-
-You can change this setting to make sure your project is oriented towards North Shared Coordinates - Default Survey point Project Base Point Internal Origin Project Base Point Oriented in True North Internal origin Oriented in True North
+**Coordinate base** You can change this setting to make sure your project is oriented towards North Shared Coordinates - Default Survey point Project Base Point Internal Origin Project Base Point Oriented in True North Internal origin Oriented in True North
 
 > **Note:** If you Link IFC in the Insert tab your linked file will be placed close to your objects and will not be in the location described in the IFC. To import an IFC to the right location click File -> Open -> IFC instead.
 
-**Override**
-
-Here you can override the projected Coordinate System Reference
+**Override** Here you can override the projected Coordinate System Reference
 
 ---
 
@@ -3225,21 +2920,15 @@ The is what the comment section in a topic can look like:
 
 The action menu of a comment can be found with the three dots towards the top right of an existing comment. _Access required:_ comment creator
 
-**Edit a comment**
+**Edit a comment** Only the author of a comment can edit their own comment. It is only possible to edit the text in a comment To remove a picture from a comment the whole comment has to be deleted. After editing the comment the date and time of when it was last edited are displayed on the comment.
 
-Only the author of a comment can edit their own comment. It is only possible to edit the text in a comment To remove a picture from a comment the whole comment has to be deleted. After editing the comment the date and time of when it was last edited are displayed on the comment.
-
-**Delete a comment**
-
-Click on delete comment to delete a comment
+**Delete a comment** Click on delete comment to delete a comment
 
 ### 5.2 **Comment**
 
 Text in comments follow the [general rules for formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) with a minor difference when it comes to checklists.
 
-**Attachment pop-out**
-
-Left click on the image of an attachment to open the image pop-out.
+**Attachment pop-out** Left click on the image of an attachment to open the image pop-out.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/09-comment.png)
 
@@ -3249,23 +2938,15 @@ A comment can have one of the following 3 attachments:
 
 ### 5.3 **Image**
 
-**Adding an image to a comment**
-
-The plus next to the comment box can ble clicked to add an image. Choose an image from a local hard drive to add it to the comment.
+**Adding an image to a comment** The plus next to the comment box can ble clicked to add an image. Choose an image from a local hard drive to add it to the comment.
 
 It is also possible to highlight the text box of the comment and paste an image from the clipboard.
 
-**Connect image to 3D**
+**Connect image to 3D** When an image is added to a comment it will say "No viewer connection" under the image unless a model is loaded in the 3D viewer. The text "Connect to 3D viewpoint" is displayed. The image can now connect it to objects and a position in the viewer. Submit this comment to play back the viewpoint by clicking on the play button. Annotations can be added to the image after adding the image and before submitting the comment.
 
-When an image is added to a comment it will say "No viewer connection" under the image unless a model is loaded in the 3D viewer. The text "Connect to 3D viewpoint" is displayed. The image can now connect it to objects and a position in the viewer. Submit this comment to play back the viewpoint by clicking on the play button. Annotations can be added to the image after adding the image and before submitting the comment.
+**Image pop-out** The image that is attached to the comment after the comment is submitted can be [popped-out](#h_e36d14edc8) to see a its contents in a larger format and download it after it has been submitted.
 
-**Image pop-out**
-
-The image that is attached to the comment after the comment is submitted can be [popped-out](#h_e36d14edc8) to see a its contents in a larger format and download it after it has been submitted.
-
-**Deleting an image from a comment**
-
-Images that are attached to comments cannot be edited or deleted from the comment. Delete the whole comment to remove the image from the topic.
+**Deleting an image from a comment** Images that are attached to comments cannot be edited or deleted from the comment. Delete the whole comment to remove the image from the topic.
 
 ### 5.4 **2D or 3D snapshots**
 
@@ -3273,9 +2954,7 @@ Click on the plus button next to the comment field to add a 2D or 3D snapshot
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/10-2d-or-3d-snapshots.png)
 
-**Adding a 2D or 3D snapshot to a comment**
-
-Load a model in the 3D viewer to attach a 3D snapshot to a comment. Load a storey of a model in the 2D viewer to attach a 2D snapshot to a comment. A 3D snapshot can look somehting like this.
+**Adding a 2D or 3D snapshot to a comment** Load a model in the 3D viewer to attach a 3D snapshot to a comment. Load a storey of a model in the 2D viewer to attach a 2D snapshot to a comment. A 3D snapshot can look somehting like this.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/11-2d-or-3d-snapshots.png)
 
@@ -3289,13 +2968,9 @@ Keep track of annotations on documents by creating a markup. When a markup is sa
 
 When a markup is added to a topic the document that the annotations were created on is automatically be linked in the [related documents](https://support.catenda.com/en/articles/7986346-issue-content#h_be2f2bcf3b).
 
-**Markup comment**
+**Markup comment** The annotation comment follows the [general rules for formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) with a minor difference when it comes to checklists.
 
-The annotation comment follows the [general rules for formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) with a minor difference when it comes to checklists.
-
-**Markup snapshot**
-
-The following information can be seen in a markup snapshot:
+**Markup snapshot** The following information can be seen in a markup snapshot:
 
 - A screenshot of the area of the document where the annotations were created.
 - A play button
@@ -3311,9 +2986,7 @@ The following information can be seen in a markup snapshot:
 - Name and revision of the annotated document
     - If the annotation is made on a PDF comparison the two revisions that are compared are displayed.
 
-**Image pop-out**
-
-The image that is attached to the comment after the comment is submitted can be [popped-out](#h_e36d14edc8) to see a its contents in a larger format and download it after it has been submitted.
+**Image pop-out** The image that is attached to the comment after the comment is submitted can be [popped-out](#h_e36d14edc8) to see a its contents in a larger format and download it after it has been submitted.
 
 ### 5.6 **New comment**
 
@@ -3321,33 +2994,19 @@ This is what a draft of a new comment can look like before the comment is submit
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/13-new-comment.png)
 
-**Text box**
+**Text box** Write a comment in the text box next to the plus button. Mention members by typing @name or link to other topics by typing #link. Text submitted in the text box of a comment follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda. Paste both text and images from the clipboard to attach them to the new comment.
 
-Write a comment in the text box next to the plus button. Mention members by typing @name or link to other topics by typing #link. Text submitted in the text box of a comment follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda. Paste both text and images from the clipboard to attach them to the new comment.
+**Plus button** Click on the plus button to add a 3D snapshot, a 2D snapshot or an image to the draft of a new comment.
 
-**Plus button**
+**3D snapshot** Add a snapshot of the current situation in the 3D viewer panel. Click on this attachment again to update the 3D view after making changes.
 
-Click on the plus button to add a 3D snapshot, a 2D snapshot or an image to the draft of a new comment.
+**2D snapshot** Add a snapshot of the current 2D view that can be found towards the bottom right of the 3D viewer. Click on this attachment again to update the 3D view after making changes.
 
-**3D snapshot**
+**Image** Attach an image from the local hard drive.
 
-Add a snapshot of the current situation in the 3D viewer panel. Click on this attachment again to update the 3D view after making changes.
+**Attachment image** Each attachment comes along with an image. Left click on the image of the attachment to open the attachment pop-out. In the attachment pop-out the image of the attachment can be annotated. Under the image a toolbar appears with the tools to draw the specific point of the topic in more detail.​
 
-**2D snapshot**
-
-Add a snapshot of the current 2D view that can be found towards the bottom right of the 3D viewer. Click on this attachment again to update the 3D view after making changes.
-
-**Image**
-
-Attach an image from the local hard drive.
-
-**Attachment image**
-
-Each attachment comes along with an image. Left click on the image of the attachment to open the attachment pop-out. In the attachment pop-out the image of the attachment can be annotated. Under the image a toolbar appears with the tools to draw the specific point of the topic in more detail.​
-
-**Submit**
-
-Click on submit to submit the draft of new comment including the text written in the text box as well as any attachment that has been added. It is only possible to submit comments with one attachment at a time.
+**Submit** Click on submit to submit the draft of new comment including the text written in the text box as well as any attachment that has been added. It is only possible to submit comments with one attachment at a time.
 
 # Upload a zip / file structure
 
@@ -3389,13 +3048,9 @@ Different behaviors can be configured for how the extraction of the zip file beh
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/05-documents.png)
 
-**Create new revision - Default**
+**Create new revision - Default** If a document with the same name exists in the same location as the zip attempts to extract a file to, a new revision will be created in that document.
 
-If a document with the same name exists in the same location as the zip attempts to extract a file to, a new revision will be created in that document.
-
-**Skip and continue**
-
-If a document with the same name exists in the same location as the zip attempts to extract a file to, the file will be skipped and no new revision will be created in the document.
+**Skip and continue** If a document with the same name exists in the same location as the zip attempts to extract a file to, the file will be skipped and no new revision will be created in the document.
 
 ### 2.3 **Apply status**
 
@@ -3413,9 +3068,7 @@ After clicking on upload zip your zip will start uploading
 
 You can continue working with Catenda on another tab while you wait for the upload to finish.
 
-**Access required:**
-
-Write access to each of the locations where folders and documents will be created Write access to documents revisions will be added to.
+**Access required:** Write access to each of the locations where folders and documents will be created Write access to documents revisions will be added to.
 
 ## 4. **Extracting**
 
@@ -3451,9 +3104,7 @@ While the zip is extracting the extracted files start to appear as rows in the d
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/10-extracting.png)
 
-**Completed**
-
-When the zip import has completed all files are extracted.
+**Completed** When the zip import has completed all files are extracted.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/11-extracting.png)
 
@@ -3581,9 +3232,7 @@ This article contains information about the previewing of the following file for
 
 At Catenda we like to work with Open Standards so that everyone can work together regardless of the software they own.
 
-_Typically, anybody can participate in their development due to their inherently open nature ([Wikipedia](https://en.wikipedia.org/wiki/Open_standard#:~:text=Typically%2C%20anybody%20can%20participate%20in%20their%20development%20due%20to%20their%20inherently%20open%20nature.))_
-
-This means that it is not just one organization controlling what gets developed.
+_Typically, anybody can participate in their development due to their inherently open nature ([Wikipedia](https://en.wikipedia.org/wiki/Open_standard#:~:text=Typically%2C%20anybody%20can%20participate%20in%20their%20development%20due%20to%20their%20inherently%20open%20nature.))_ This means that it is not just one organization controlling what gets developed.
 
 ## 2. **Vendor neutral 3D file formats**
 
@@ -3688,13 +3337,9 @@ The model list has columns which display most of the information you need to kno
 
 _Name_ The name of the model-document The model name is also the name you will see in the revision selector in the 3D view.
 
-**Document name**
+**Document name** The name of the document-model in the documents section
 
-The name of the document-model in the documents section
-
-**Revision name**
-
-The name of the latest revision
+**Revision name** The name of the latest revision
 
 ### 3.3 **Access control**
 
@@ -3710,41 +3355,27 @@ In the past, the only action that you could perform on selected models was the o
 
 ### 3.6 **Control access to document-models**
 
-**Creating a model-document**
-
-If you make a model with the create model button in the models section you will be asked to select where you want the linked document-model to end up in the documents-section. In the create model dialogue you will also be able to give the model a name. The resulting linked document-model will have the same as the model when it is created. Catenda Hub will remember the folder you chose last and will automatically select it the next time you create a model-document.
+**Creating a model-document** If you make a model with the create model button in the models section you will be asked to select where you want the linked document-model to end up in the documents-section. In the create model dialogue you will also be able to give the model a name. The resulting linked document-model will have the same as the model when it is created. Catenda Hub will remember the folder you chose last and will automatically select it the next time you create a model-document.
 
 If your project began without models as documents, a folder called 'Models' will have appeared in your folder structure. The models folder that appears contains all document-models that are linked to model-documents in the model section. Document-models can be moved out of this folder to anywhere in the documents section you have access. Document-models in the Models folder can also be deleted (and restored) if desired. The document-models do not have to be in the folder and the models folder can be deleted if needed.
 
-**Creating a model-revision**
-
-To be able to upload new revisions to a model you now need at least write access to the document model. New revisions to the model can be added to the document and vice versa.
+**Creating a model-revision** To be able to upload new revisions to a model you now need at least write access to the document model. New revisions to the model can be added to the document and vice versa.
 
 > **Note:** Revision comments have been disabled and can now optionally be enabled with [custom fields on revisions](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents).
 
-**Downloading a model-revision**
-
-You need at least read access to the document-model to be able to download the model.
+**Downloading a model-revision** You need at least read access to the document-model to be able to download the model.
 
 ### 3.7 **Right information menu**
 
 A right information menu will be available if a model is selected.
 
-**Document field**
+**Document field** In this menu you will see your model information as well as a gray field that links to the document-model in the document section that is linked to this model-document. Click on the document field to open the document-model that is linked to this model.
 
-In this menu you will see your model information as well as a gray field that links to the document-model in the document section that is linked to this model-document. Click on the document field to open the document-model that is linked to this model.
+**Model labels** You can now also add labels to your models here.
 
-**Model labels**
+**Model status** If statuses have been configured in document settings you will be able to configure a status for your model here.
 
-You can now also add labels to your models here.
-
-**Model status**
-
-If statuses have been configured in document settings you will be able to configure a status for your model here.
-
-**Model transformation**
-
-If you have opened this model in 3D, you will be able to configure model transformation here.
+**Model transformation** If you have opened this model in 3D, you will be able to configure model transformation here.
 
 ## 4. **Documents section changes**
 
@@ -3760,27 +3391,17 @@ As soon as you have any models in the models section you will see a model filter
 
 ### 4.2 **Columns**
 
-**Icon**
-
-You will be able to tell apart a document-model from a regular document by the model badge on the bottom right of the document-model icon.
+**Icon** You will be able to tell apart a document-model from a regular document by the model badge on the bottom right of the document-model icon.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/03-columns.png)
 
-**Name**
+**Name** The name of the document
 
-The name of the document
+**Model name** The name of the model If your ifc document has not been linked to a model you you will see a create model button here.
 
-**Model name**
+**Revision name** The name of the latest revision in the model
 
-The name of the model If your ifc document has not been linked to a model you you will see a create model button here.
-
-**Revision name**
-
-The name of the latest revision in the model
-
-**Viewer**
-
-A column with buttons to open each individual document-model in the 3D viewer. Opening document-models in the 3D viewer is only possible if the document has been linked to a model.
+**Viewer** A column with buttons to open each individual document-model in the 3D viewer. Opening document-models in the 3D viewer is only possible if the document has been linked to a model.
 
 ### 4.3 **Action buttons**
 
@@ -3794,19 +3415,13 @@ This means that you can delete multiple models at once instead of one-by-one lik
 
 ### 4.4 **Control access to model-documents**
 
-**Creating document-models**
-
-To be able to upload new revisions to a model you now need at least write access to the document model. You do this by creating a model in the action menu of a document. After you do this you will see the document as a model in the models section. The model-document in the models section will have the same name as the document model although these can each be changed later while they stay linked. New revisions to the model can be added as revisions to the document and vice versa.
+**Creating document-models** To be able to upload new revisions to a model you now need at least write access to the document model. You do this by creating a model in the action menu of a document. After you do this you will see the document as a model in the models section. The model-document in the models section will have the same name as the document model although these can each be changed later while they stay linked. New revisions to the model can be added as revisions to the document and vice versa.
 
 > **Note:** This means you can create models from multiple IFC files at the same time instead of having to upload them one by one
 
-**Uploading revisions to document-models**
+**Uploading revisions to document-models** You need at least write access to the document-model to be able to upload new revisions to the model. This means you can use the multi-upload feature to upload ifc files to multiple document-models at once
 
-You need at least write access to the document-model to be able to upload new revisions to the model. This means you can use the multi-upload feature to upload ifc files to multiple document-models at once
-
-**Downloading document-models**
-
-You need at least read access to the document-model to be able to download the model. This means that you can configure access to allow the downloading of separate models instead of just all or no models.
+**Downloading document-models** You need at least read access to the document-model to be able to download the model. This means that you can configure access to allow the downloading of separate models instead of just all or no models.
 
 ### 4.5 **Discoverability**
 
@@ -3995,9 +3610,7 @@ Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
 
 ### 3.1 **Row content**
 
-**Report row**
-
-While it is possible to click on a row to select it and highlight it in green there are no actions that can be performed by selecting a row. The row will be selected when the row action menu in the right column is selected.
+**Report row** While it is possible to click on a row to select it and highlight it in green there are no actions that can be performed by selecting a row. The row will be selected when the row action menu in the right column is selected.
 
 ### 3.2 **Columns**
 

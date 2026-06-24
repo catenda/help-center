@@ -48,13 +48,13 @@ The following methods allow you to style your text:
 
 ### 3.1 **Bold, italics, strikethrough**
 
-Bold italics and strikethrough styling can be done in any part of a line and works well together with other styling that has to be at the start of a line. <img alt="**This will be bold** __This will also be bold__ *This will be italics* _This will also be italics_ **This will be bold _combined with italics_** ~~This text will be struck through~~" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-b0239a5c77f9.png" width="290"/>   \<->   <img alt="This will be bold​This will also be bold​This will be italics​This will also be italics​This will be bold combined with italicsThis text will be struck through" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-b3aaded9174f.png" width="290"/>
+Bold italics and strikethrough styling can be done in any part of a line and works well together with other styling that has to be at the start of a line. <img alt="**This will be bold** __This will also be bold__ *This will be italics* _This will also be italics_ **This will be bold _combined with italics_** ~~This text will be struck through~~" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-b49c2f10b2de.png" width="290"/>   \<->   <img alt="This will be bold​This will also be bold​This will be italics​This will also be italics​This will be bold combined with italicsThis text will be struck through" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-ea38fb93f8ee.png" width="290"/>
 
 ### 3.2 **Headers**
 
 The header tool applies hastags/pound signs to the beginning of the line. There are 5 levels of headers that are supported: The formatting that the header receives is dependent on the amount of hashtags/pound signs (`#`) that are at the beginning of the line.
 
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-e892079dbf93.png" width="290"/>   \<->   <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-1c7e5cdba2b5.png" width="290"/>
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-c21079ec7efb.png" width="290"/>   \<->   <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-557784a5d702.png" width="290"/>
 
 ### 3.3 **Links**
 
@@ -104,9 +104,7 @@ _Getting a Catenda image document link_ If you right click the [download action 
 
 ### 4.2 **Lists**
 
-**Unordered lists**
-
-Start an unordered list with a blank line above it, then either hyphen (`-`), plus (`+`), or an asterix (`\*`) followed by a space. Insert 4 spaces or a tab space at the start of the line to create a sublist.
+**Unordered lists** Start an unordered list with a blank line above it, then either hyphen (`-`), plus (`+`), or an asterix (`\*`) followed by a space. Insert 4 spaces or a tab space at the start of the line to create a sublist.
 
 ```
  - First element - Second element     - Insert 4 spaces at the start of the line to create a sublist.
@@ -132,9 +130,7 @@ Will all turn into this:
 
 > **Note:** In order for an unordered list to be formatted correctly there needs to be  a blank newline on the line above the list.
 
-**Ordered lists**
-
-Start an ordered list with a blank line above it, a number, a period and a space (`1. `) What the number in front is, does not matter, just that it’s a number followed by a period. Insert 4 spaces or a tab space at the start of the line to create a sublist.
+**Ordered lists** Start an ordered list with a blank line above it, a number, a period and a space (`1. `) What the number in front is, does not matter, just that it’s a number followed by a period. Insert 4 spaces or a tab space at the start of the line to create a sublist.
 
 ```
 1. item one 2. item two 3. item three     4. item four
@@ -217,9 +213,7 @@ Will turn into this:
 
 Click [here](https://support.catenda.com/en/articles/5036461-check-lists-within-issues) to watch a quick video on how checklists can be used in the project. If you write` - [ ]` or `- [x]` the box will still appear unchecked and checked when the comment is submitted or saved after editing.
 
-**Checkboxes in comments**
-
-In comments checkboxes can only be checked through formatting. Checkboxes in comments cannot be clicked to be checked. _Access required -_ The comment creator has access to the editing of the created comment
+**Checkboxes in comments** In comments checkboxes can only be checked through formatting. Checkboxes in comments cannot be clicked to be checked. _Access required -_ The comment creator has access to the editing of the created comment
 
 ### 4.5 **Tables**
 
@@ -263,17 +257,11 @@ Search through the list by starting to type the email, member name or team name.
 
 When the description is saved or the comment is submitted related members with access to the topic board recieve a notification. If the member email or the name of the team is known it can also be written manually but if they are not part of the topic board the related members will not be notified that they are mentioned.
 
-**Notification upon member mention**
+**Notification upon member mention** Members with access to the topic board that are mentioned receive a notification that they are mentioned in a topic.
 
-Members with access to the topic board that are mentioned receive a notification that they are mentioned in a topic.
+**Notification upon team mention** Members with access to the topic board that are part of a team that is mentioned receive a notification that a team they are part of is mentioned in a topic.
 
-**Notification upon team mention**
-
-Members with access to the topic board that are part of a team that is mentioned receive a notification that a team they are part of is mentioned in a topic.
-
-**Notifications about future topic events**
-
-Members of teams that are mentioned in topic descriptions and comments only receive the one notification upon the saved description or submitted comment.
+**Notifications about future topic events** Members of teams that are mentioned in topic descriptions and comments only receive the one notification upon the saved description or submitted comment.
 
 In addition to the notification that they are mentioned, members that are mentioned in posts are automatically set to [follow](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic and will get notifications about topic events like new comments and status changes. This is a great way to ensure that more than just the [assignee](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) and [requestee](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7) get notifications about future changes an topic. If a member no longer wishes to follow the topic they have to manualy unfollow it.
 
@@ -287,17 +275,13 @@ In the background the unique id of the mentioned project participant is saved. I
 
 Mentioned members have a clickable link that directs to the [member page](https://support.catenda.com/en/articles/8228836-member-page) of that member. Mentioned teams have clickable link that directs to the [team page](https://support.catenda.com/en/articles/7891755-team-page) of that team.
 
-**Non-existing member**
-
-If there is no member in the project that has the email address that is mentioned the post looks like this instead:
+**Non-existing member** If there is no member in the project that has the email address that is mentioned the post looks like this instead:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/12-mention-in-post.png)
 
 This can either be because the email was formatted wrongly of because the member is no longer part of the project. Should a member with this email address become part of the project in the future, the post changes to displaye the name of that member.
 
-**Non-existing team**
-
-If a team has been removed from the project and a new team is created, this new team will not be mentioned. To mention the new team the post has to be re-submitted.
+**Non-existing team** If a team has been removed from the project and a new team is created, this new team will not be mentioned. To mention the new team the post has to be re-submitted.
 
 ## 6. **# Tagged topics**
 

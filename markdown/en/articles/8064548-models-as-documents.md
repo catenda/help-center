@@ -30,13 +30,9 @@ The model list has columns which display most of the information you need to kno
 
 _Name_ The name of the model-document The model name is also the name you will see in the revision selector in the 3D view.
 
-**Document name**
+**Document name** The name of the document-model in the documents section
 
-The name of the document-model in the documents section
-
-**Revision name**
-
-The name of the latest revision
+**Revision name** The name of the latest revision
 
 ### 3.3 **Access control**
 
@@ -52,41 +48,27 @@ In the past, the only action that you could perform on selected models was the o
 
 ### 3.6 **Control access to document-models**
 
-**Creating a model-document**
-
-If you make a model with the create model button in the models section you will be asked to select where you want the linked document-model to end up in the documents-section. In the create model dialogue you will also be able to give the model a name. The resulting linked document-model will have the same as the model when it is created. Catenda Hub will remember the folder you chose last and will automatically select it the next time you create a model-document.
+**Creating a model-document** If you make a model with the create model button in the models section you will be asked to select where you want the linked document-model to end up in the documents-section. In the create model dialogue you will also be able to give the model a name. The resulting linked document-model will have the same as the model when it is created. Catenda Hub will remember the folder you chose last and will automatically select it the next time you create a model-document.
 
 If your project began without models as documents, a folder called 'Models' will have appeared in your folder structure. The models folder that appears contains all document-models that are linked to model-documents in the model section. Document-models can be moved out of this folder to anywhere in the documents section you have access. Document-models in the Models folder can also be deleted (and restored) if desired. The document-models do not have to be in the folder and the models folder can be deleted if needed.
 
-**Creating a model-revision**
-
-To be able to upload new revisions to a model you now need at least write access to the document model. New revisions to the model can be added to the document and vice versa.
+**Creating a model-revision** To be able to upload new revisions to a model you now need at least write access to the document model. New revisions to the model can be added to the document and vice versa.
 
 > **Note:** Revision comments have been disabled and can now optionally be enabled with [custom fields on revisions](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents).
 
-**Downloading a model-revision**
-
-You need at least read access to the document-model to be able to download the model.
+**Downloading a model-revision** You need at least read access to the document-model to be able to download the model.
 
 ### 3.7 **Right information menu**
 
 A right information menu will be available if a model is selected.
 
-**Document field**
+**Document field** In this menu you will see your model information as well as a gray field that links to the document-model in the document section that is linked to this model-document. Click on the document field to open the document-model that is linked to this model.
 
-In this menu you will see your model information as well as a gray field that links to the document-model in the document section that is linked to this model-document. Click on the document field to open the document-model that is linked to this model.
+**Model labels** You can now also add labels to your models here.
 
-**Model labels**
+**Model status** If statuses have been configured in document settings you will be able to configure a status for your model here.
 
-You can now also add labels to your models here.
-
-**Model status**
-
-If statuses have been configured in document settings you will be able to configure a status for your model here.
-
-**Model transformation**
-
-If you have opened this model in 3D, you will be able to configure model transformation here.
+**Model transformation** If you have opened this model in 3D, you will be able to configure model transformation here.
 
 ## 4. **Documents section changes**
 
@@ -102,27 +84,17 @@ As soon as you have any models in the models section you will see a model filter
 
 ### 4.2 **Columns**
 
-**Icon**
-
-You will be able to tell apart a document-model from a regular document by the model badge on the bottom right of the document-model icon.
+**Icon** You will be able to tell apart a document-model from a regular document by the model badge on the bottom right of the document-model icon.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/03-columns.png)
 
-**Name**
+**Name** The name of the document
 
-The name of the document
+**Model name** The name of the model If your ifc document has not been linked to a model you you will see a create model button here.
 
-**Model name**
+**Revision name** The name of the latest revision in the model
 
-The name of the model If your ifc document has not been linked to a model you you will see a create model button here.
-
-**Revision name**
-
-The name of the latest revision in the model
-
-**Viewer**
-
-A column with buttons to open each individual document-model in the 3D viewer. Opening document-models in the 3D viewer is only possible if the document has been linked to a model.
+**Viewer** A column with buttons to open each individual document-model in the 3D viewer. Opening document-models in the 3D viewer is only possible if the document has been linked to a model.
 
 ### 4.3 **Action buttons**
 
@@ -136,19 +108,13 @@ This means that you can delete multiple models at once instead of one-by-one lik
 
 ### 4.4 **Control access to model-documents**
 
-**Creating document-models**
-
-To be able to upload new revisions to a model you now need at least write access to the document model. You do this by creating a model in the action menu of a document. After you do this you will see the document as a model in the models section. The model-document in the models section will have the same name as the document model although these can each be changed later while they stay linked. New revisions to the model can be added as revisions to the document and vice versa.
+**Creating document-models** To be able to upload new revisions to a model you now need at least write access to the document model. You do this by creating a model in the action menu of a document. After you do this you will see the document as a model in the models section. The model-document in the models section will have the same name as the document model although these can each be changed later while they stay linked. New revisions to the model can be added as revisions to the document and vice versa.
 
 > **Note:** This means you can create models from multiple IFC files at the same time instead of having to upload them one by one
 
-**Uploading revisions to document-models**
+**Uploading revisions to document-models** You need at least write access to the document-model to be able to upload new revisions to the model. This means you can use the multi-upload feature to upload ifc files to multiple document-models at once
 
-You need at least write access to the document-model to be able to upload new revisions to the model. This means you can use the multi-upload feature to upload ifc files to multiple document-models at once
-
-**Downloading document-models**
-
-You need at least read access to the document-model to be able to download the model. This means that you can configure access to allow the downloading of separate models instead of just all or no models.
+**Downloading document-models** You need at least read access to the document-model to be able to download the model. This means that you can configure access to allow the downloading of separate models instead of just all or no models.
 
 ### 4.5 **Discoverability**
 

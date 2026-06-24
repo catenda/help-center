@@ -60,55 +60,35 @@ This window contains the following tabs: [General](#h_fb41b895ea) - [Additional 
 
 We'll take you through the various settings.
 
-**IFC version**
+**IFC version** Selection of IFC version.
 
-Selection of IFC version.
-
-**Exchange Requirement**
-
-These options can change depending on the IFC version that is selected. IFC 2x3 Coordination View 2.0
+**Exchange Requirement** These options can change depending on the IFC version that is selected. IFC 2x3 Coordination View 2.0
 
 - Architectural Reference Exchange
 - MEP Reference Exchange
 - Structural Reference Exchange
 
-**Category mapping**
-
-Before Revit 2026 this option was available in File -> Export -> Options -> IFC Export Options. This is what the Manage IFC Export Mapping Settings menu can look like:
+**Category mapping** Before Revit 2026 this option was available in File -> Export -> Options -> IFC Export Options. This is what the Manage IFC Export Mapping Settings menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/08-general.png)
 
-**File type**
+**File type** IFC type selection.
 
-IFC type selection.
+**Phase to export** If you have used the phase tool in Revit, here you can choose and only export new or existing structures.
 
-**Phase to export**
+**Space boundaries** These are all about how room information can be used further. a. 1st Level - Ex on use: Quantity withdrawals, management, operation and maintenance (FDVU). b. 2st Level - Ex on use: Energy analysis, light analysis.
 
-If you have used the phase tool in Revit, here you can choose and only export new or existing structures.
+**Facility Type** This option is only available for IFC 4x3 Choose between one of the following: Bridge (IfcBridge) Building (IfcBuilding) Marine Facility (IfcMarineFacility) Railway (IfcRailway) Road (IfcRoad)
 
-**Space boundaries**
-
-These are all about how room information can be used further. a. 1st Level - Ex on use: Quantity withdrawals, management, operation and maintenance (FDVU). b. 2st Level - Ex on use: Energy analysis, light analysis.
-
-**Facility Type**
-
-This option is only available for IFC 4x3 Choose between one of the following: Bridge (IfcBridge) Building (IfcBuilding) Marine Facility (IfcMarineFacility) Railway (IfcRailway) Road (IfcRoad)
-
-**Split Walls, Columns, Ducts by level**
-
-Here you can f. Ex dividing walls horizontal if modeled over several floors.
+**Split Walls, Columns, Ducts by level** Here you can f. Ex dividing walls horizontal if modeled over several floors.
 
 _File Header information... Project Address..._ In these you can put information on who has delivered the IFC, project address etc.
 
-**Project Origin**
-
-Project origin, this we put on Current shared coordinates- Present shared coordinates.
+**Project Origin** Project origin, this we put on Current shared coordinates- Present shared coordinates.
 
 > **Note:** This is moved to Geographic reference as of Revit 2025
 
-**Include Steel Elements**
-
-Includes steel components if modeled.
+**Include Steel Elements** Includes steel components if modeled.
 
 > **Note:** This is moved to Additional content as of Revit 2025
 
@@ -143,41 +123,27 @@ Export Ceiling Grids Ceiling grids are 2D elements and thus not displayed in the
 
 Exports all Revit Property sets (pset / properties) Here is an example of a wall exported with this option: Revit (_Left_) --- Catenda (_Right_)
 
-<img alt="Properties" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-724f96954df4.png" width="208.60495436766624"/>  ---  <img alt="Properties" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-cd328802d265.png" width="190.21739130434784"/>
+<img alt="Properties" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-4f4aab46be4e.png" width="208.60495436766624"/>  ---  <img alt="Properties" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-7c05fd3c2c4a.png" width="190.21739130434784"/>
 
 Typical properties that show in the properties menu are: Constraints, Cross-Section Definition, Dimensions, Structural, Identity Data, Other
 
 Typical properties that show in the Identification menu are: IFC Parameters Export standard IFC properties. Exports calculated quantities of objects. Export batch lists Export one-off Property Set
 
-**Classification settings**
-
-Here is an example of what classification settings can look like with omniclass.
+**Classification settings** Here is an example of what classification settings can look like with omniclass.
 
 ![Classification Settings](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/13-property-sets.png)
 
-**Name**
+**Name** The name of the classification
 
-The name of the classification
+**Source (Publisher)** The publisher of the classification
 
-**Source (Publisher)**
+**Edition** The classification edition
 
-The publisher of the classification
+**Edition date** The date of the classification
 
-**Edition**
+**Documentation location** This has to be a valid documentation location
 
-The classification edition
-
-**Edition date**
-
-The date of the classification
-
-**Documentation location**
-
-This has to be a valid documentation location
-
-**Classification field name**
-
-The classification field name is the name of the parameter in your objects that will hold the classification value. This parameter can often be found on the family level. Edit a family to see its properties
+**Classification field name** The classification field name is the name of the parameter in your objects that will hold the classification value. This parameter can often be found on the family level. Edit a family to see its properties
 
 ![Edit Family](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/14-property-sets.png)
 
@@ -221,61 +187,33 @@ The appearance of the model will be close to the same, but the number of polygon
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/22-advanced.png)
 
-**Export parts as building elements**
+**Export parts as building elements** Export parts like standard IFC element.
 
-Export parts like standard IFC element.
+**Allow use of mixed "Solid Model" representation** Select this option to allow mixing of BRep and extrusion geometries for a unit.
 
-**Allow use of mixed "Solid Model" representation**
+**Use active view when creating geometry** Select this option to use the active view to generate the geometry. Note that this may have unexpected results if used on a non-3D view.
 
-Select this option to allow mixing of BRep and extrusion geometries for a unit.
+**Use family and type name for reference** Select this option to use the family and type namesfor references.
 
-**Use active view when creating geometry**
+**Use 2D room boundaries for room volume** Select this option to use a simplified approach for calculating room volume (based on extrusion of 2D space boundaries) which is also standard when exporting to IFC 2x2.
 
-Select this option to use the active view to generate the geometry. Note that this may have unexpected results if used on a non-3D view.
+**Include IFCSite elevation in the site local placement origin** Select this option to include the height from the Z-offset for local position in IfcSite. Remove the option to exclude it.
 
-**Use family and type name for reference**
+**Store the IFC GUID in an element parameter after export** Select this option to save the generated IFC GUIDs to the project file after export. This will add "IFC GUID" parameters to items and their types and Project information for project, website and building guides.
 
-Select this option to use the family and type namesfor references.
+**Export bounding box** Select this option to export "Bounding box" representations. This option remains automatically selected for GSA export.
 
-**Use 2D room boundaries for room volume**
+**Keep Tessellated Geometry as Triangulation** If you have complex curved elements or shells and they do not display correctly after the IFC export you can select this option. Keep in mind yo that you might produce a very heavy IFC file.
 
-Select this option to use a simplified approach for calculating room volume (based on extrusion of 2D space boundaries) which is also standard when exporting to IFC 2x2.
+**Use Type name only for IFCType name** Select this option if you want the BAT-ID or the ID of the object to appear as the name of the entity.
 
-**Include IFCSite elevation in the site local placement origin**
+**Use Visilble Revit name as the IFCEntity name** Select this option if you want the Revit object name to be the name of the entity
 
-Select this option to include the height from the Z-offset for local position in IfcSite. Remove the option to exclude it.
+**Always export faceted floors and roofs as a single IFC enitity** Select this option to combine faces of floors and roofs with multiple faces to a single entity.
 
-**Store the IFC GUID in an element parameter after export**
+**Set "Last Modified" user to the Author in Project Information** Select this option if you are the author of the changes in this export
 
-Select this option to save the generated IFC GUIDs to the project file after export. This will add "IFC GUID" parameters to items and their types and Project information for project, website and building guides.
-
-**Export bounding box**
-
-Select this option to export "Bounding box" representations. This option remains automatically selected for GSA export.
-
-**Keep Tessellated Geometry as Triangulation**
-
-If you have complex curved elements or shells and they do not display correctly after the IFC export you can select this option. Keep in mind yo that you might produce a very heavy IFC file.
-
-**Use Type name only for IFCType name**
-
-Select this option if you want the BAT-ID or the ID of the object to appear as the name of the entity.
-
-**Use Visilble Revit name as the IFCEntity name**
-
-Select this option if you want the Revit object name to be the name of the entity
-
-**Always export faceted floors and roofs as a single IFC enitity**
-
-Select this option to combine faces of floors and roofs with multiple faces to a single entity.
-
-**Set "Last Modified" user to the Author in Project Information**
-
-Select this option if you are the author of the changes in this export
-
-**Entities to export**
-
-This is what the IFC Entity Selection menu that opens upcan look like:
+**Entities to export** This is what the IFC Entity Selection menu that opens upcan look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/23-advanced.png)
 
@@ -293,19 +231,13 @@ You can find this option in the Manage tab -> Coordinates -> Specify Coordinate 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/26-geographic-reference.png)
 
-**Project site**
+**Project site** Internal
 
-Internal
-
-**Coordinate base**
-
-You can change this setting to make sure your project is oriented towards North Shared Coordinates - Default Survey point Project Base Point Internal Origin Project Base Point Oriented in True North Internal origin Oriented in True North
+**Coordinate base** You can change this setting to make sure your project is oriented towards North Shared Coordinates - Default Survey point Project Base Point Internal Origin Project Base Point Oriented in True North Internal origin Oriented in True North
 
 > **Note:** If you Link IFC in the Insert tab your linked file will be placed close to your objects and will not be in the location described in the IFC. To import an IFC to the right location click File -> Open -> IFC instead.
 
-**Override**
-
-Here you can override the projected Coordinate System Reference
+**Override** Here you can override the projected Coordinate System Reference
 
 ---
 
