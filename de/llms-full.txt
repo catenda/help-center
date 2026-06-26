@@ -2274,7 +2274,7 @@ Beachten Sie, dass es sich hierbei nicht um ein offizielles Exportprogramm hande
 
 > **Note:** **Hinweis:** Ifc 4x1 wird von BuildingSMART mit gezeichnet und daher auch nicht von Catenda Hub unterstützt. Siehe [hier](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support), welche Dateitypen in Catenda Hub unterstützt werden
 
-6. Ressource und Zuweisung
+6\. Ressource und Zuweisung
 
 1. Ressource - Rechtsklick zum Hinzufügen der Ressource Person und Organisation
 1. Zuweisung - Rechtsklick zum Hinzufügen der zugewiesenen Person und Organisation

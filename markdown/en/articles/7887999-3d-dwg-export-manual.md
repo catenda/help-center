@@ -76,7 +76,7 @@ IFC エクスポート ダイアログで、設定の変更をクリックしま
 
 **注:** Ifc 4x1 は BuildingSMART によって描画されるため、Catenda Hub によってもサポートされません。Catenda Hub でサポートされているファイル タイプを[ここで](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support)確認してください
 
-6. リソースと割り当て
+6\. リソースと割り当て
 
 1. リソース - 右クリックしてリソース担当者と組織を追加します
 1. 割り当て - 右クリックして割り当てられた個人と組織を追加します

@@ -3174,7 +3174,7 @@ At the moment there is no official way to export to IFC from Navisworks. It is p
 
 > **Note:** Ifc 4x1 is with drawn by BuildingSMART and therefore also not supported by Catenda Hub. See [here](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support) what file types are supported in Catenda Hub
 
-6. Resource and Assignment
+6\. Resource and Assignment
 
 1. Resource - Right click to add resource person and organization
 1. Assignment - Right click to add assigned person and organization
