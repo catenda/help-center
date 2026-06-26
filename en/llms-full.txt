@@ -1482,7 +1482,9 @@ _Topic -_ `issues=\<issue number>` When a search phrase starts with a number the
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/07-number-search-phrase.png)
 
-While it is possible to filter a board for topic numbers with more than just numbers topics can only be found with their number with this filter. If more than just numbers are provided the filter will disappear from the menu but the board will still be filtered on the entered phrase. Filtering on one or more topics by number It is only possible to search on one topic at a time from the search or filter bar. If the topic with the Catenda topic number 123 exists in the board the url will have `&issues=123` in it when it is filtered on topic number 123. It is possible to enter more topic numbers in the url, for example: `&issues123,124,125` would result in all three topics being displayed if they exist in the board. Filtering on multiple topics like this is only possible by editing the URL.
+While it is possible to filter a board for topic numbers with more than just numbers topics can only be found with their number with this filter. If more than just numbers are provided the filter will disappear from the menu but the board will still be filtered on the entered phrase.
+
+Filtering on one or more topics by number It is only possible to search on one topic at a time from the search or filter bar. If the topic with the Catenda topic number 123 exists in the board the url will have `&issues=123` in it when it is filtered on topic number 123. It is possible to enter more topic numbers in the url, for example: `&issues123,124,125` would result in all three topics being displayed if they exist in the board. Filtering on multiple topics like this is only possible by editing the URL.
 
 ### 3.5 **Custom fields - Number**
 
