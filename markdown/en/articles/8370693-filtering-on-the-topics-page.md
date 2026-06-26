@@ -118,7 +118,13 @@ Three or more characters Content that matches the search phrase in any part of t
 
 **Whitespace** Whitespace characters at the beginning of a search phrase are removed.
 
-**Searching for mentioned members or teams** Topics where a member or team has been mentioned in a comment or description can be found using the text search: Member or team name Search on the name of the member or team to find all plain text occurrences of that member or team name. Mentioned member Search on the email of a member to find all plain text occurrences of that members email. This includes where they have been mentioned. Search on `#[\<Email of member>]` to find only the occurrences where that member is mentioned. Mentioned team Mentioned teams can be searched on by searching the GUID of that team. To find the GUID of a team, go to the [content page of that team](https://support.catenda.com/en/articles/7891755-team-page) by clicking on its name on the [teams tab of the members and teams page](https://support.catenda.com/en/articles/4670291-members-and-teams-page). The URL should look something like: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
+**Searching for mentioned members or teams** Topics where a member or team has been mentioned in a comment or description can be found using the text search:
+
+Member or team name Search on the name of the member or team to find all plain text occurrences of that member or team name.
+
+Mentioned member Search on the email of a member to find all plain text occurrences of that members email. This includes where they have been mentioned. Search on `#[\<Email of member>]` to find only the occurrences where that member is mentioned.
+
+Mentioned team Mentioned teams can be searched on by searching the GUID of that team. To find the GUID of a team, go to the [content page of that team](https://support.catenda.com/en/articles/7891755-team-page) by clicking on its name on the [teams tab of the members and teams page](https://support.catenda.com/en/articles/4670291-members-and-teams-page). The URL should look something like: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 
