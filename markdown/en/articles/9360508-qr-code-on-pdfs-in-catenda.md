@@ -4,8 +4,6 @@ QR-Codes can be configured per folder in the [folder configuration](https://supp
 
 This function provides users of Catenda a function to check, if the document they are using is the latest version, by scanning the QR-code printed on the PDF.
 
-This article contains information about the following topics:
-
 ## 1. **Setup QR-Code on Catenda Hub**
 
 The QR-code assignment is done via folders, which means that each project administrator can decide on a selected set of folders to have this function on.

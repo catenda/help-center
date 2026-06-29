@@ -4,8 +4,6 @@ The filter menu in an topic board can be opened by clicking on the filter button
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/01-intro.png)
 
-This article contains information about the following topics
-
 ## 1. **Filters**
 
 Click the filter button on the top left for a panel to appear on the left side. When a filter is applied, the URL visible in the browser changes with it. In this article filters are displayed like so: _Filter name in menu_ - `Filter name in URL=Filter option in URL`

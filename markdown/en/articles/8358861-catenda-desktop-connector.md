@@ -4,8 +4,6 @@
 
 With the Catenda desktop connector you can schedule up- and downloads of the latest versions of documents.
 
-This article contains information about the following:
-
 ## 1. **Instant up/downloads**
 
 The Desktop Connector lets you upload files from your local system to a specified folder on Catenda Hub. You can also select a number of folders on Catenda Hub to download to a location on your local machine.

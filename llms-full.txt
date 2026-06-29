@@ -407,8 +407,6 @@ The best way to export an image from the 3D viewer is to make a [3D snapshot](ht
 
 The Catenda Archicad plugin is a plugin that can be installed for Nemetchek Archicad. With this plugin you will be able to collaborate on 3D viewpoints, topics and documents with the other members of the construction project.
 
-This article contains information about the following:
-
 ## 1. **Installation**
 
 When the Catenda Archicad plugin is installed on Windows its installation files will appear in the following folder.
@@ -558,8 +556,6 @@ When you click on a topic in the topic board you open it up. A topic can look so
 > **Note:** The installation file for this application can be found [here](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
 
 With the Catenda desktop connector you can schedule up- and downloads of the latest versions of documents.
-
-This article contains information about the following:
 
 ## 1. **Instant up/downloads**
 
@@ -1338,8 +1334,6 @@ The filter menu in an topic board can be opened by clicking on the filter button
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/01-intro.png)
 
-This article contains information about the following topics
-
 ## 1. **Filters**
 
 Click the filter button on the top left for a panel to appear on the left side. When a filter is applied, the URL visible in the browser changes with it. In this article filters are displayed like so: _Filter name in menu_ - `Filter name in URL=Filter option in URL`
@@ -1501,8 +1495,6 @@ _Dropdown custom field_ _-_ `custom-field-item-\<Custom field GUID>=\<Dropdown v
 # IFC Export Archicad Manual
 
 When you export an IFC keep in mind what is relevant to your IFC export. The IFC file can be big and difficult to work with if it has a lot of information in it. Therefore it is important to not export unnecessary information. In this report you will get different tips to filter your IFC export in Archicad.
-
-This article contains information about the following topics
 
 ## 1. Project info
 
@@ -1789,8 +1781,6 @@ As sub pages to the models page you will be able to find the following pages:
 # New status workflow - ISO 19650
 
 The new status workflow is an on-demand feature that can be requested to be enabled for ongoing projects. New projects that are created based on a template project where this feature is enabled have this feature enabled. The ISO 19650 series is an international standard of good practice which defines information management processes within a broader context of digital transformation in the construction industry. Many stakeholders in the construction industry have adopted the ISO-19650 as the standard to manage document delivery and approval processes in projects.
-
-This article contains information about the following topics:
 
 ## 1. **Lifecycle of a Document**
 
@@ -2439,8 +2429,6 @@ QR-Codes can be configured per folder in the [folder configuration](https://supp
 
 This function provides users of Catenda a function to check, if the document they are using is the latest version, by scanning the QR-code printed on the PDF.
 
-This article contains information about the following topics:
-
 ## 1. **Setup QR-Code on Catenda Hub**
 
 The QR-code assignment is done via folders, which means that each project administrator can decide on a selected set of folders to have this function on.
@@ -2548,8 +2536,6 @@ In the post processing menu, choose the Combine Adjacent Images option. This is 
 # Revit IFC Export Manual
 
 With this IFC export manual, the goal is to give the user a guide on how to export the IFC for the right purposes. An IFC file can quickly become heavy and large when you have a lot of information to get out of the model. That is why when exporting an IFC, you need to uncheck unnecessary information. When uploading a model to Catenda, it is not always necessary to have a lot of information and a high level of detail in the model. A little later in this manual we will return to what settings we recommend to make the model a little smaller and a little easier to work with. Here we will go through step by step the most appropriate way to export an IFC from Revit to Catenda.
-
-In this article you will be able to find information about:
 
 ## 1. **Project settings**
 
@@ -3196,8 +3182,6 @@ Export - Click this button when you are ready to export your files
 
 This article contains information about the recommended system requirement to use Catenda Hub. Catenda hub can be accessed through the browser and does not need to be installed.
 
-This article contains information about the following topics:
-
 ## 1. **Hardware recommendation:**
 
 This hardware recommendation is only intended for Catenda Hub in a browser application. There can be different requirements depending on the detail level of your 3D objects. Levels of detail (LOD) are defined by AIA in document G202 as LOD 100, 200, 300, 400, 500 and 600. The LOD definition can be seen [here](https://assets.aiacontracts.com/ctrzdweb02/zdpdfs/aia-g202-2013-free-sample-preview.pdf).
@@ -3233,8 +3217,6 @@ _Opera:_ [https://www.opera.com/download/requirements](https://www.opera.com/dow
 For our model viewer we only support IFCs. All file types can be uploaded to our document section.
 
 > **Note:** IFC, Point cloud (e57, las) and GML previews can be loaded in the 3D viewer.
-
-This article contains information about the previewing of the following file formats:
 
 ## 1. **Vendor neutral formats**
 
@@ -3316,8 +3298,6 @@ If altering the file is not an option, and the file is larger than what can be u
 # Models as Documents
 
 Previously it has been possible to upload IFC files to two separate places on Catenda Hub. With the _models as documents_ function these two locations for model files will be merged into one seamless function. If you make a model in the models section, a document will be linked and created in the documents section. If you upload an IFC document you can use the "make model" action button to link and create a model in the models section. With this function models in the models section can be handled like documents while models in the documents section can be handled just like models.
-
-This article contains information about the following topics:
 
 ## 1. **Before/After migration - Main differences**
 

@@ -4,8 +4,6 @@ For our model viewer we only support IFCs. All file types can be uploaded to our
 
 > **Note:** IFC, Point cloud (e57, las) and GML previews can be loaded in the 3D viewer.
 
-This article contains information about the previewing of the following file formats:
-
 ## 1. **Vendor neutral formats**
 
 At Catenda we like to work with Open Standards so that everyone can work together regardless of the software they own.

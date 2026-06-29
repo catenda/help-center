@@ -2,8 +2,6 @@
 
 The new status workflow is an on-demand feature that can be requested to be enabled for ongoing projects. New projects that are created based on a template project where this feature is enabled have this feature enabled. The ISO 19650 series is an international standard of good practice which defines information management processes within a broader context of digital transformation in the construction industry. Many stakeholders in the construction industry have adopted the ISO-19650 as the standard to manage document delivery and approval processes in projects.
 
-This article contains information about the following topics:
-
 ## 1. **Lifecycle of a Document**
 
 According to the ISO standard a document can have four different states;
