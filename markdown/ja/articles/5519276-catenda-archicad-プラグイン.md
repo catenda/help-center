@@ -2,6 +2,8 @@
 
 > **Note:** **注:**プラグインのインストール ファイルは、[このヘルプ記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
 
+この記事には次の情報が含まれています。
+
 ## 1. **インストール**
 
 Catenda ArchicadプラグインをWindowsにインストールすると、インストールファイルが「C:\\Program Files\\Catenda\\Catenda Archicad Connection\\\<Archicad Version>\\Add-On」フォルダに表示され、次回Archicadを開いたとき、のアドオンマネージャで有効になります。

@@ -8,7 +8,7 @@ Si le document existe déjà, le fichier deviendra une nouvelle révision de ce 
 
 Les thèmes suivants sont abordés dans cet article :
 
-[Déposer un fichier ZIP](#h_5b148952e1) - [Caractères spéciaux](#h_80fc1e08a5) - [Contourner la limite de taille de fichier](#h_022b1d3b12) - [Mes chargements ZIP](#h_5e683a9be3) - [Connecteur Desktop](#h_03059f0adb)
+[Déposer un fichier ZIP](#h_5b148952e1) - [Caractères spéciaux](#h_80fc1e08a5) - [Contourner la limite de taille de fichier](#h_022b1d3b12) -
 
 ## 1. **Déposer un fichier ZIP**
 

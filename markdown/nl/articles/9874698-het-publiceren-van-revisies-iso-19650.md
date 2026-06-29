@@ -4,6 +4,8 @@ De ISO 19650 series is een internationale standaard van goede praktijk die het i
 
 Veel belanghebbende in de bouwsector hebben de ISO-19650 aangenomen als de norm om het proces rondt het beoordelen en indienen van documenten in projecten te handhaven.
 
+Deze artikel bevat informatie over de volgende themas:
+
 ## 1. **Levensgang van een document**
 
 Volgens de ISO-standaard kan een document vier verschillende statussen hebben;

@@ -20,6 +20,8 @@ Klikke på informasjonsikonet til i saksbanneret for å utvidde høyre informasj
 
 Sakskroppen beskrevet i denne artikkelen finnes under saksbanneret og til venstre for informasjonspanelet.
 
+Denne artikkelen inneholder informasjon om følgende temaer:
+
 Dette er hvordan sakskroppen kan se ut som:
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/2316252889/47a1caebe7af96d4a7cf2889a3df/image.png?expires=1781092800&signature=04f14479f6c886ddd53a1b65ffdde27f609152c6f7e666188e53fb97765a8961&req=diMmEMt7n4lXUPMW3nq%2BgR5xCwxYmammp2IayEiuEfonYESAFlf%2FFKl5X5YQ%0A4GQAH9a0XaRKnttHaK8nLER3VrA%3D%0A)
@@ -79,6 +81,8 @@ Klikk på "last ned" for å laste ned bildet (du kan ikke høyreklikke på bilde
 Fest det uthevede bildet med tegnestift-ikonet øverst til høyre for å beholde det uthevede bildet åpnet mens du navigerer rundt andre områder av Catenda Hub.
 
 Lukk det uthevede bildet ved å klikke på x øverst til høyre, klikk på lukk knappen nederst til høyre eller trykk ESC-knappen på tastaturet.
+
+Du vil finne følgende innhold i et kommentar:
 
 ### 5.2 **Legge ved et bilde**
 

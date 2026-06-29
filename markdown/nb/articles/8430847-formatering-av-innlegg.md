@@ -1,80 +1,40 @@
-# Verktøy for innleggformatering
+# Formatering av innlegg
 
-> Slik formaterer du felt der innlegg kan opprettes
+De samme formateringsreglene gjeler for forskjellige typer innlegg rundt Catenda Hub.
 
-De samme formateringsreglene gjelder for de ulike innleggene rundt omkring Catenda Hub.
+Inlegg kan inneholde beskrivelser i saker, kommenterer godkjenningsbeskrivelser og godkjenningskommentarer. Varisasjoner kan gjelde med forskjellig tilgang for hvem som kan redigere innlegget.
 
-Innlegg kan inkludere emne beskrivelser, kommentarer godkjenning beskrivelser og godkjenning kommentarer.
+Catenda bruker markdown for å formatere tekst.
 
-Variasjoner kan oppstå med den ulike tilgangen til hvem som kan redigere innlegget.
+Dette betyr at visse karakter før og etter setninger vil påvirke utformingen av teksten.
 
-Catenda bruker markdown til å formatere tekst.
+> **Note:** **Merk:** Mange av metodene krever en blank ny linje før den
 
-Dette betyr at visse tegn før og etter setninger vil påvirke stilen på teksten.
+I denne artikkelen vil du kunne finne informasjon om følgende temaer:
 
-Slik kan en emne overskrift og beskrivelse se ut etter at de er sendt inn:
+## 1. **Utforming av tekst**
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/2142853925/ac356cf8aa82ab2d579f021fbb5a/image.png?expires=1779991200&signature=db379701aa782a795d0715249d2e131838f324a1adc1df5c4f091de05493201d&req=diEjFMF7nohdXPMW3nq%2BgeO5Gu4QTVbwiyiagSAGJYRM3jg%2FjBE06qW2yxJo%0Ah8KhRqQ6FpjyJBQAessFwOYLWgY%3D%0A)
+Følgende metoder tillater deg å utforme din tekst i innlegg:
 
-## 1. Tilgjengelighet for formatering
+### 1.1 **Fet skrift, kursiv, gjennomstreking**
 
-Det er ofte mulig å se at innsendte felt kan formateres ved hjelp av verktøykassen som vises under feltet når feltet redigeres.
+```
+**Dette vil ha fet skrift** __Dette vil også ha fet skrift__ *Dette vil være i kursiv* _Dette vil også være i kursiv_ **Dette vil være i fet skrift _Kombinert med kursiv_** ~~Denne teksten vil være gjennomstreket~~
+```
 
-> **Merk:** Zoom ut langt nok i nettleseren for å se alle verktøy. Formatering er tilgjengelig i følgende felt:
+**Dette vil ha fet skrift** **Dette vil også ha fet skrift** _Dette vil være i kursiv_ _Dette vil også være i kursiv_ **Dette vil være i fet skrift _Kombinert med kursiv_** Denne teksten vil være streket gjennom
 
-### 1.1 **Emne Beskrivelse og kommentar**
+### 1.2 **Overskrifter**
 
-Rediger beskrivelsen eller kommentaren til et eksisterende emne eller når du sender inn et nytt emne for å se verktøykassen:
+`##` Før tekst vil lage en overskrift
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/2142716774/e00776f86b3e5961148459c33a7b/image.png?expires=1779991200&signature=0e22d9a262f6ec8cc9ffd59b884be7ed21d8b5d927709293d35243a523fd2783&req=diEjFM5%2Fm4ZYXfMW3nq%2BgbCbYvmyhkqzs2jDl1gilk2Cc6xR6QmhVhC4KlhS%0ACdo6DkIGE0Ixwn%2FSMNbyKzybwrM%3D%0A)
+### 1.3 **Lenker**
 
-### 1.2 **Beskrivelse av godkjenningsforespørsel**
+Lenker i beskerivelser vil være grønn og understreket.
 
-Selv om verktøykassen ikke vises i beskrivelsen av den nye godkjenningsforespørselsdialogen, blir formatering brukt på denne beskrivelsen.
+Deres tekst kan være forskjellig fra urlen som lenken peker på.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/2142756009/c685a2145d819c521e9b89301e28/image.png?expires=1779991200&signature=a1394fe4b4d02e17d42e3e01c374d3f6632eb7073f1ffaaf21967e4f1f1de396&req=diEjFM57m4FfUPMW3nq%2BgXv%2FXso50VfU4OEek4DqeluKvN6IUb%2Fs7og0Rhc8%0A48b%2B0%2BiwKq5dFttZGJQJHxTwIPc%3D%0A)
-
-> **Merk:** Dette feltet kan ikke redigeres etter at godkjenningsforespørselen er sendt inn.
-
-### 1.3 Beskrivelse av emnetavle
-
-Selv om verktøykassen vises i den nye beskrivelsen av emnetavlen, er det viktig å merke seg at beskrivelsen ikke formateres når tavlen sendes inn.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2142743765/402182e2f1338dc3fb1929bba3cb/image.png?expires=1779991200&signature=d602bee7f2778397607b0ba3230f11c8c54bd3d37fc0c145263106ffbf43ccdd&req=diEjFM56noZZXPMW3nq%2BgWTJvB12fwkzGWwhaz5DPXa%2BsBXBYBDmT0SxeF%2Fe%0ASdziSiIf%2B5qLx8pvhZlyvl%2BRq40%3D%0A)
-
-## 2. **Vedlegg i emnekommentar**
-
-I emnekommentarer er et vedleggsverktøy synlig.
-
-Klikk på +-knappen i et emne for å legge til et vedlegg.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2142827695/c7a30545e080d9d0bd9ee89cb50f/image.png?expires=1779991200&signature=f5f9fdcc7584b990c376a7c8977c5073d5bfff6da9fcd6b1a4dacb22367b612a&req=diEjFMF8modWXPMW3nq%2BgfoJa9V%2FF6CobGabe6rQFCVQI2kDswJq%2FdteSPD8%0Amh%2B8dJM45JEwNUzv7TnCV76TSTo%3D%0A)
-
-Klikk [her](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae) for å lese mer om kommentarvedlegg.
-
-## 3. **Formatering av tekst**
-
-### 3.1 **Fet, kursiv, gjennomstreket**
-
-Fet, kursiv og gjennomstreket formatering kan gjøres hvor som helst på en linje og fungerer godt sammen med annen formatering som må være i begynnelsen av en linje. <img alt="**Dette vil være fet** **Dette vil også være fet** _Dette vil være kursiv_ _Dette vil også være kursiv_ **Dette vil være fet _kombinert med kursiv_** ~~Denne teksten vil være gjennomstreket~~" src="https://downloads.intercomcdn.com/i/o/areracg3/2142792258/413abae1f84003541985e219ba6a/image.png?expires=1774980000&amp;signature=2d6fe37d7b6194387af9777ef3fff90661568c1f4c9c671432a579a2eb3326f5&amp;req=diEjFM53n4NaUfMW3Hu4gT%2BWlpelLC%2FZyeDdX1yNHeLbkkEA7t04WYWBkBTX%0A2w%3D%3D%0A" width="290"/>   \<->   <img alt="Dette vil være fet​Dette vil også være fet​Dette vil være kursiv​Dette vil også være kursiv​Dette vil være fet kombinert med kursivDenne teksten vil være gjennomstreket" src="https://downloads.intercomcdn.com/i/o/areracg3/2142795125/2e54ab8ee52b65dc4705ce317a46/image.png?expires=1774980000&amp;signature=49a7d42096c9d732940db393c57d4c7f51d3675b98a4bc93ba2e4d2977de9468&amp;req=diEjFM53mIBdXPMW3Hu4gZqcrM4jhw7heqMaiz7UXJrKgwDtxdXRZOmHVQh5%0A%2Bw%3D%3D%0A" width="290"/>
-
-### 3.2 **Overskrifter**
-
-Overskriftsverktøyet legger til hastags/kryss til begynnelsen av linjen.
-
-Det er 5 nivåer av overskrifter som støttes:
-
-Formateringen som overskriften får, er avhengig av antallet hastags/kryss (`#`) som er i begynnelsen av linjen. <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/2142774211/4d966269824f2314e3685bf574d2/image.png?expires=1774980000&amp;signature=deb6ed14712f57d0d4b0c53ec1279375556850bf32c8840e20badb8d373516f3&amp;req=diEjFM55mYNeWPMW3Hu4gYpCJPwCMzegJvhdZHHTxaYqo1q9T5nZ7c27Xhfd%0A9g%3D%3D%0A" width="290"/>   \<->   <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/2142782676/88eae0f146164d95cf6bc94bb9d9/image.png?expires=1774980000&amp;signature=41447ae0185c19ef09c816795ecb067042f94fcc6a970d0590590458ea2848e5&amp;req=diEjFM52n4dYX%2FMW3Hu4gXMRNm2JOBxeB8KI3qP4itWZAkDmJ%2BtQeqYn168Q%0AwQ%3D%3D%0A" width="290"/>
-
-### 3.3 **Lenker**
-
-Lenkestil kan gjøres hvor som helst på en linje og fungerer godt sammen med annen formatering som må være i begynnelsen av en linje.
-
-Lenker i beskrivelser vil være grønne og understreket.
-
-Teksten deres kan være annerledes enn URL-en som lenken peker til.
-
-URLer blir automatisk gjort om til klikk bar lenker
+Urler vil automatisk endres til klikkbare lenker
 
 ```
 https://hub.catenda.com
@@ -94,309 +54,224 @@ vil bli:
 
 [Catenda Hub](https://hub.catenda.com)
 
-> **Merk:** Vær forsiktig når du klikker på lenker fordi selv om teksten [fra parentesene] kan vise en lenke, kan den faktiske lenken (fra parentesene) være annerledes. Det anbefales å holde musen over en lenke og se hvor nettleseren vil omdirigere til før du klikker på en lenke.
+### 1.4 **Forhindring av formatering**
 
-### 3.4 **Forhindre formatering**
+Ved å flette ord i ikke bokstav eller nummer teg kan deres utforming endres.
 
-Ved å pakke ord i tegn som ikke er bokstaver eller tall, kan du få dem til å se annerledes ut.
+Dette er er ikke alltid ønsket.
 
-Dette er ikke alltid ønsket.
+Hvis du legger in en `\\` før et utformingskarakter vil `\\` forsvinne.
 
-Hvis du setter en `\\` foran et slikt tegn, vil `\\` forsvinne.
+All utforming som burda ha vært gjeldende for disse karakter vil da slutte å fungere.
 
-All formatering som ville ha blitt brukt på disse tegnene vil da slutte å fungere.
+Hvis du legger en `\\` på en tom linje som ikke er del av en [liste](#h_9bc5734bac) vil resultatet fortsatt være en tom linje.
 
-Hvis du setter en `\\` på en tom linje som ikke er del av en [liste](#h_6da4949f8c), vil resultatet fortsatt være en tom linje.
+## 2. **Dele opp tekst og legge til struktur**
 
-## 4. **Dele opp tekst og legge til struktur**
+Følgende metoder lar deg forbedre teksten din ved å dele den opp og legge til struktur:
 
-### 4.1 **Bilder**
+### 2.1 **Bilder**
 
-Bilder i beskrivelser kan ha en lenke knyttet til seg.
-
-For å bygge inn bilder kan du bruke denne syntaksen
+Bilder i beskrivelser kan ha lenker koblet til de. For å legge bilder sammen med tekst kan denne syntaksen brukes
 
 ```
 ![tekst](https://bimsync.com/img/favicon/dark-mode/favicon-32x32.png)
 ```
 
-for å få dette bildet med ordet tekst bak det.
+for å få dette bildet med ordet tekst koblet til det.
 
-![tekst](https://downloads.intercomcdn.com/i/o/771763976/bbed60dfcfa022fd26770bb1/faviconV2.png?expires=1779991200&signature=9b05330d32d2ade5b70422cc84942dffa276d43efb8a48972f30cc0278d591fe&req=cycmEc99lIZZFb4V1XW4gaTV8ABi7RF2xk92u6a%2BtkN3rtUWh3uSMnp1R6NF%0ASJXjyML2HaJAl9pSz4Covc8%2Bew%3D%3D%0A)
+![text](https://downloads.intercomcdn.com/i/o/areracg3/1211345313/723bbdb579d6cb4d624d6ab1bcd8/faviconV2.png?expires=1781092800&signature=2300b51195b1b224b546a3e77d552303c1f99fe72cef64d391058523ff748c17&req=dSImF8p6mIJeWvMW3nq%2Bgehp%2BeBcEphmItpXGG60XCqLXLBk4rIvJ8Xy7Fsc%0ALUgLvCD1%2BVShqkNoXIuB9DvTnpY%3D%0A)
 
-For at bildet skal vises korrekt, må Catenda ha tilgang til lenken som er angitt.
+For at bildet skal vises på riktig måte må Catenda ha tilgang til lenken som er lagt ved.
 
-> \+ Bildet kan legges til en beskrivelse \+ Bildet kan blandes med tekst slik at du kan ha tekst både før og etter bildet i de samme kommentarene eller beskrivelser. \+ Bilder som disse kan kombineres med tabeller og lister. For eksempel kan du legge til et hakemerkesbilde midt i en setning/tabell i stedet for formaterings avkrysningsfeltet som bare fungerer i begynnelsen av en setning \- Du kan ikke garantere at lenken til bildet forblir tilgjengelig i fremtiden. _Hente en Catenda bildedokumentlenke_ Hvis du høyreklikker på [nedlastingshandlingsknappen etter valg av et dokument](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) eller høyreklikker på [nedlastings siste revisjon handlingsknappen etter åpning av et dokument](https://support.catenda.com/en/articles/9323521-actions-in-a-document) kan du kopiere nedlastingslenken til dokumentet. Hvis du bruker denne lenken i emnet ditt som ovenfor, vil du kunne bruke Catenda dokumenter i emner. \+ Hvis du legger til en lenke til et Catenda bildedokument, kan du legge til bilder som bare vises på Catenda og ikke er tilgjengelig på andre plattformer som emnet kan utveksles med. \+ Ved å legge til lenker til et Catenda bildedokument kan bare personer med tilgang til dokumentet se bildet. \- Hvis du legger til en lenke til et Catenda bildedokument, vil det ikke være synlig på andre plattformer som emnet kan ha blitt synkronisert med og for personer som ikke har tilgang til dokumentet.
+> **Note:** \+ Bildet kan legges til i beskrivelse \+ Bildet kan legges sammen med tekst som gjør at du kan ha tekst både før og etter bildet i samme kommentar eller beskrivelse. \+ Bilder som disse kan kombines med tabeller og lister. For eksempel kan du legge til et avhukings bilde i midten av setningen/tabellen fremfor formatterings avhukingsboksen som bare fungerer på starten av en setning. \- Du kan ikke garantere at lenken til bildet fortsetter å være tilgjengelig i fremtiden.
 
-### 4.2 **Lister**
+_Få tak i lenken til et bilde dokument i Catenda_ Hvis du høyre klikker på [nedlastings aksjonsknappen etter å ha selektert et dokument](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) eller høyre klikker på [last ned siste revisjon aksjonsknappen etter å ha åpnet opp et dokument](https://support.catenda.com/en/articles/9323521-actions-in-a-document) kan du kopiere nedlastingslenken til dokumenet. Hvis du bruker denne lenken i din sak som over vil du kubbe bruke Catenda dokumenter i saker.
 
-_Uordnede lister _
+> **Note:** \+ Hvis du legger til en lenke til et Catenda bilde dokument kan du legge til bilder som bare vises på Catenda og ikke er tilgjengelige i andre plattform som saken kan være utvekslet med. \+ Ved legge til lenken til et Catenda bilde dokument vil bare brukere med tilgang til dokumentet kunne se bildet. \- Hvis du legger til lenken til et Catenda bilde dokument vil du ikke kunne vise bildet på andre plattform som saken kan være synkronisert med eller til andre brukere i prosjektet som ikke har tilgang til bildet.
 
-Start en uordnet liste med en tom linje over den, deretter enten bindestrek (`-`), pluss (`+`), eller en asterisk (`\*`) fulgt av et mellomrom.
+### 2.2 **Lister**
 
-Sett inn 4 mellomrom eller et tabulatortegn i begynnelsen av linjen for å opprette en underliste.
+**Uordnede lister**
 
-```
- - Første element - Andre element     - Sett inn 4 mellomrom i begynnelsen av linjen for å opprette en underliste.
-```
+Start en uordnet liste med en tom linje over den, så endten med en (`-`), plus (`+`), eller et stjernetegn (`\*`) etterfulgt av et mellomrom.
 
-Eller
+Legg inn 4 mellomrom eller et tab mellomrom på starten av linjen for å lage en underliste.
 
 ```
- + Første element + Andre element     + Sett inn 4 mellomrom i begynnelsen av linjen for å opprette en underliste.
+- Første element- Andre element     - Legg inn 4 mellomrom på starten av linjen for å lage en underliste.
 ```
 
 Eller
 
 ```
- * Første element * Andre element     * Sett inn 4 mellomrom i begynnelsen av linjen for å opprette en underliste.
++ Første element + Andre element     + Legg inn 4 mellomrom på starten av linjen for å lage en underliste.
 ```
 
-Vil alt bli til dette:
+Eller
+
+```
+* Første element * Andre element     * Legg inn 4 mellomrom på starten av linjen for å lage en underliste.
+```
+
+Vil alle bli til dette:
 
 - Første element
 - Andre element
-  - Sett inn 4 mellomrom i begynnelsen av linjen for å opprette en underliste.
+    - Legg inn 4 mellomrom på starten av linjen for å lage en underliste.
 
-> \_\*Merk: \_\*For at en uordnet liste skal formateres korrekt, må det være en tom newline på linjen over listen. _Ordnede lister _ Start en ordnet liste med en tom linje over den, et tall, en periode og et mellomrom (`1. `) Hva tallet foran er, spiller ingen rolle, bare at det er et tall fulgt av en periode. Sett inn 4 mellomrom eller et tabulatortegn i begynnelsen av linjen for å opprette en underliste.
+**Ordnede lister**
 
-```
-1. element en 2. element to 3. element tre     4. element fire
-```
+Start en ordnet liste me en tom linje over den, et nummer, et punktum og et mellomrom (`1. `) Hva enn nummeret foran er har ingenting å si, bare at det er et nummer fulgt av et punktum.
 
-Eller
+Legg inn 4 mellomrom eller et tab mellomrom på starten av linjen for å lage en underliste.
 
 ```
-1. element en 1. element to 1. element tre     1. element fire
+1. Element ett2. Element to3. Element tre     4. Element fire
 ```
 
-Eller
+Or
 
 ```
-1. element en 10. element to 1. element tre     1000. element fire
+1. Element ett1. Element to1. Element tre     1. Element fire
 ```
 
-Vil alt bli til dette:
-
-1. element en
-2. element to
-3. element tre
-   4. Element fire
-
-> \_\*Merk: \_\*For at en ordnet liste skal formateres korrekt, må det være en tom newline på linjen over listen. Tallet du starter med påvirker ikke hvor nummereringen begynner
+Or
 
 ```
-23. tjuetre 1. tjuefire 1. tjuefem     1. tjueseks
+1. Element ett10. Element to1. Element tre     1000. Element fire
+```
+
+Will all turn into this:
+
+1. Element ett
+1. Element to
+1. Element tre
+
+    4. Element fire
+
+Nummeret du starter med påvirker ikke hvor nummreringen begynner
+
+```
+23. Tjue-tre1. Tjue-fire1. Tjue-fem    1. Tjue-seks
 ```
 
 Vil bli til:
 
-1. tjuetre
-2. tjuefire
-3. tjuefem
-   4. tjueseks
-   Hvis du ønsker å tilbakestille nummereringen og starte fra en igjen på en andre liste innenfor samme innlegg, kan du legge en tom eller en [skillelinje](#h_3a36cfbc61) i mellom.
-   For å [sikre at listen ikke blir formatert](#h_2ec17c688b) slik at du kan bruke din egen nummerering:
-   Legg et tegn på linjen over listen. Et godt valg er `\\` fordi det vil forsvinne.
+1. Tjue-tre
+1. Tjue-fire
+1. Tjue-fem
+
+    4. Tjue-seks
+
+Hvis du ønsker å nullstille nummreringen og starte på nytt i en ny liste innenfor samme inlegg kan du legge inn en tom linje eller en [skillelinje](#h_a36ba89456) imellom.
+
+For å [forsikre at listen ikke formateres](#h_e1cdd01a87) kan du bruke din egen numrering:
+
+Legg til et karakter på linjen over listen. Et godt valg er `\\` for den vil forsvinne og se ut som en blank linje.
 
 ```
-\23. tjuetre 24. tjuefire 25. tjuefem     26. tjueseks
+\23. Tjue-tre24. Tjue-fire25. Tjue-fem    26. Tjue-seks
 ```
 
-Legg en backslash (`\\`) før perioden (`.`):
+Legg til en backslash (`\\`) før punktum (`.`):
 
 ```
-23\. tjuetre 24\. tjuefire 25\. tjuefem     26\. tjueseks
+23\. Tjue-tre24\. Tjue-fire25\. Tjue-fem    26\. Tjue-seks
 ```
 
-Vil alt bli til:
+Vil alle bli til:
 
-23. tjuetre
-24. tjuefire
-25. tjuefem
-26. tjueseks
+23. Tjue-tre
 
-### 4.3 **Skillelinjer**
+24. Tjue-fire
 
-## 5. Tre bindestreker `---` eller flere på sin egen linje vil opprette en skillelinje:
+25. Tjue-fem
 
-### 5.1 **Sjekklister**
+26. Tjue-seks
 
-Disse kan krysses av i beskrivelsen av et emne.
+### 2.3 **Skillelinje**
 
-_Tilgang kreves:_ Skrivetilgang til emnetavlen.
+Tre bindestrek `---` eller mer på deres egen linje vil bli til en skillelinje:
+
+---
+
+### 2.4 **Sjekklister**
+
+Disse kan sjekkes i beskrivelsen til en sak. _Tilgang påkrevd -_ Skrive tilgang til sakslisten.
 
 ```
-- [ ] første element - [x] andre element     - [ ] underlisteelement
+- [ ] Første element- [x] Andre element    - [ ] Underliste element
 ```
 
 Vil bli til dette:
 
-![](https://downloads.intercomcdn.com/i/o/771723650/68ecca535a3773ab421c8ee7/image.png?expires=1779991200&signature=d23a7a806497626ab4118fb6bb2fd6d2d7d924651c7b83e3b0f63dc59f6999da&req=cycmEct9m4RfFb4V1XW4gYbX9iNJlq8uvamOj0lm8O%2BSpB%2FOvxnFm%2BlJkvq2%0AR1uxxveWd8ZBGh4U6IBmZc0a%2FQ%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/areracg3/1211345317/e318989361e33674f3c0605f404b/image.png?expires=1781092800&signature=e5d1ec8d77092682eaad7c3e6ea1db98b66e6c9a3758e880778e2cd13aaaa970&req=dSImF8p6mIJeXvMW3nq%2BgSPARjCfpSAgbeRM0dvZvwY8M%2F5KM0VqYxKUkHyc%0AiUBJlMcar7w%2ByPqzHdgOa3akORY%3D%0A)
 
-Klikk [her](https://support.catenda.com/en/articles/5036461-check-lists-within-issues) for å se en rask video om hvordan sjekklister kan brukes i prosjektet.
+Klikk [her](https://support.catenda.com/en/articles/5036461-check-lists-within-issues) for å se en kort video om hvordan sjekklister kan brukes i prosjektet. Hvis du skriver `- [ ]` eller `- [x]` vil boksen vises som sjekket eller usjekket når kommentaren sendes inn eller lagres etter redigering.
 
-Hvis du skriver` - [ ]` eller `- [x]` vil boksen fortsatt vises ukrysset og krysset når kommentaren sendes inn eller lagres etter redigering.
+**Sjekkbokser i kommentarer**
 
-_Avmerkingsbokser i kommentarer_
+I kommentarer kan sjekkbokser bare sjekkes gjennom formatering.
 
-I kommentarer kan avmerkingsbokser bare merkes gjennom formatering.
+Sjekklister i kommentarer kan ikke klikkes på for å sjekkes. _Tilgang påkrevd -_ Kommentar oppretter har tilgang redigering av oprettet kommentar
 
-Avmerkingsbokser i kommentarer kan ikke klikkes for å merkes.
-
-_Tilgang kreves -_ Kommentarskripribenten har tilgang til redigering av den opprettede kommentaren
-
-### 5.2 **Tabeller**
+### 2.5 **Tables**
 
 Tekst i beskrivelser kan organiseres i tabeller.
 
 ```
-|            | Windows            ||             | |            | Type 1   | Type 2   | Sum total   | |----------- | -------- | -------- | ----------- | | **Price**  | 500,-    | 400,-    |             | | **Amount** | 10       | 4        |             | | **Sum**    | 5 000,-  | 1 600,-  | **6 600,-** |
+|            | Vinduer            ||             | |            | Type 1   | Type 2   | Sum totalt  | |----------- | -------- | -------- | ----------- | | **Pris**   | 500,-    | 400,-    |             | | **Mengde** | 10       | 4        |             | | **Sum**    | 5 000,-  | 1 600,-  | **6 600,-** |
 ```
 
-vil resultere i dette
+Vil resultere i
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p class="no-margin"></p>
-</td><td><p class="intercom-align-right no-margin">Vin</p></td><td><p class="no-margin">duer</p></td><td><p class="no-margin"></p>
+</td><td><p class="no-margin"></p>
+</td><td><p class="no-margin">Vinduer</p></td><td><p class="no-margin"></p>
 </td></tr><tr><td><p class="no-margin"></p>
 </td><td><p class="no-margin">Type 1</p></td><td><p class="no-margin">Type 2</p></td><td><p class="no-margin">Sum totalt</p></td></tr><tr><td><p class="no-margin"><b>Pris</b></p></td><td><p class="no-margin">500,-</p></td><td><p class="no-margin">400,-</p></td><td><p class="no-margin"></p>
-</td></tr><tr><td><p class="no-margin"><b>Beløp</b></p></td><td><p class="no-margin">10</p></td><td><p class="no-margin">4</p></td><td><p class="no-margin"></p>
+</td></tr><tr><td><p class="no-margin"><b>Mengde</b></p></td><td><p class="no-margin">10</p></td><td><p class="no-margin">4</p></td><td><p class="no-margin"></p>
 </td></tr><tr><td><p class="no-margin"><b>Sum</b></p></td><td><p class="no-margin">5 000,-</p></td><td><p class="no-margin">1 600,-</p></td><td><p class="no-margin"><b>6 600,-</b></p></td></tr></tbody></table></div>
 
-### 5.3 **Kodeblokker**
+### 2.6 **Kodesstykke**
 
-Du kan sette inn enkelte linjer med kode slik:
+Du kan legge inn enkeltlinjer av kode på denne måten:
 
-To `\`` omgir teksten som vil se slik ut:
+To `\`` på hver side av tekst vil se ut som:
 
-![](https://downloads.intercomcdn.com/i/o/771793825/fd17ce2b39f52f9d01f04e3c/image.png?expires=1779991200&signature=25e222958c350bf2b7205a8ff753aeb9905b00d38e3fe2bebfe3e7b253f7e372&req=cycmEcB9lYNaFb4V1XW4ga945tc2cSgx7AwGMqNa4RYE5ngLVI0srv3KI1sb%0Anc%2B9snPi07Ah5Cq4T7IsDwcf4Q%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/areracg3/1211345315/d4a961e95ed6f5fdc839ff7a2f79/image.png?expires=1781092800&signature=f54d228d68521b66a3b08de32b0d50f3ea61222d245a707d86e57277db02b20e&req=dSImF8p6mIJeXPMW3nq%2BgTvzb6PjrcnVmjKEK5gPyDBn37T0C2M2p6aa5SCU%0Amd95aFH14ShRw6NelEoHOBCmjJU%3D%0A)
 
-Tre backticks `\`\`\`` over og under litt tekst vil se slik ut:
+Tre backticker `\`\`\`` over og under et stykke tekst vil se ut som dette:
 
-![](https://downloads.intercomcdn.com/i/o/771797280/ee27c00beca127bdbb17fe31/image.png?expires=1779991200&signature=8a5803984027930c02cf74d937068874ce0e3c42486dd1b44471fd8d8c5c8e21&req=cycmEcB5n4lfFb4V1XW4gRbAB%2FlKj74sF5Ju%2Bfd8vDzdBPr6Lkw5CuUdhrZR%0AkT1tBG%2Fu8ZVbYmzQ96APqjkT5g%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/areracg3/1211345318/4dced6408d0494aef941dc329074/image.png?expires=1781092800&signature=10d990dd2fd28526765567dd236db7c095c823ef487ddfc2bedf1053a57fe15c&req=dSImF8p6mIJeUfMW3nq%2BgUvqZsqTcCKyHqIIOzWMsbdnKV9nCYKFY71H86No%0AbOGd4bayb6vzxZ9GmqqrzX91xn0%3D%0A)
 
-Det er ikke mulig å legge til tabeller i kodeblokker
+Det er ikke mulig å legge inn tabeller i kodestykker
 
-### 5.4 **Markdown dialekt**
+### 2.7 **Markdown dialekt**
 
-Hvis du ønsker å vite mer om hvordan tekst formateres i kommentarer og beskrivelser, bruker vi markdown dialekten "flexmark" til å formatere denne teksten.
+Hvis du ønsker å vite mer om hvordan tekst er formatert i kommentarer og beskrivelser bruker vi markdown dialekten "flexmark" for å formatere denne teksten. Finn ut mer om flexmark på deres [github side](https://github.com/vsch/flexmark-java).
 
-Finn ut mer om flexmark på [github siden deres](https://github.com/vsch/flexmark-java).
+## 3. **@ Nevnede medlemmer og teams**
 
-## 6. **@ Nevnte medlemmer og team**
+Du kan nevne brukere ved å skrive `@` og skrive kontonavnet til brukeren.
 
-Klikk på `@` verktøyet eller skriv `@` i en beskrivelse eller kommentar for å nevne et medlem.
+Ønsker du å legge inn nevnet bruker manuelt kan du skrive `@[konto@domene.no]`
 
-Etter å ha skrevet `@` vises en rullegardinliste over medlemmer og team.
+Ved å klikke på navnet bruker eller team vil du bli tatt til [medlemmer siden](https://support.catenda.com/en/articles/8228836-member-page) til den brukeren eller [team siden](https://support.catenda.com/en/articles/7891755-team-page) til det teamet.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/2102724602/dfd63733158f932a304596decf84/image.png?expires=1779991200&signature=266a7840bf95b8b253ec385b2f655a8f49bdec2f03f681715a2184b5321bc158&req=diEnFM58mYdfW%2FMW3nq%2BgQgVJSLkSxRSadTEPadiZdNpnB391hNKmHZ5LqXx%0AJCj3xsiGglM4P1a7sLfHtZH61EM%3D%0A)
+Brukere og teams nevnet i beskrivelsen til en sak vil automatisk [følge](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken og dermed får varsel om fremtidige hendelser til saken.
 
-Gå gjennom listen ved å begynne å skrive e-postadressen, medlemsnavnet eller teamnavnet.
+Dette er en god måte å forsikre at mer enn bare den [tilordnede](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) brukeren og [etterspurte](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7) brukeren får varsel om fremtidige hendelser som endringer av felt eller nye kommentarer.
 
-Gå opp og ned på listen med piltastene og klikk eller trykk Enter for å velge et medlem eller team.
+## 4. **# Taggede saker**
 
-For at et medlem eller team skal vises i denne listen, må medlemmet eller teamet ha minst lesestilgang til emnetavlen.
+Du kan tagge saker ved å skrive `#` og skrive nummeret til en sak. Etter å ha sendt inn eller lagret innlegget vil det se ut som `#[123]` i den redigerte teksten. Onsker du å legge til tagget sak manuelt kan du skrive `#[Saksnummer]`
 
-Etter at du har valgt et medlem eller team i listen, får `@` litt ekstra tekst som kan se slik ut:
+Etter å ha sendt inn eller lagret innlegget vil lenken dynamisk vise farge, status, tittel og saksnummer til saken i tillegg til å være en klikkbar lenke til saken.
 
-`@[\<email address of member>]` eller `@[\<Team name>]`
+Når du tagger en sak vil den saken bli lagt til i [relaterte saker](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) i høyre [informasjonsmeny](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) til saken den er tagget i.
 
-### 6.1 **Lagring eller innsending av en omtale i et emne**
+Saken som var tagget vil også ha saken hvor den var tagget i dens liste av relaterte saker.
 
-Når beskrivelsen lagres eller kommentaren sendes inn, mottar relaterte medlemmer med tilgang til emnetavlen en varsel.
-
-Hvis medlemmets e-postadresse eller teamets navn er kjent, kan det også skrives manuelt, men hvis de ikke er en del av emnetavlen, blir de relaterte medlemmene ikke varslet om at de er omtalt.
-
-_Varsel ved medlemsomtale_
-
-Medlemmer med tilgang til emnetavlen som er omtalt mottar et varsel om at de er omtalt i et emne.
-
-_Varsel ved teamomtale_
-
-Medlemmer med tilgang til emnetavlen som er del av et team som er omtalt, mottar et varsel om at et team de er del av, er omtalt i et emne.
-
-_Varsler om fremtidige emne hendelser_
-
-Medlemmer av team som er omtalt i emnebeskrivelser og kommentarer mottar bare det ene varselet ved den lagrede beskrivelsen eller innsendte kommentaren.
-
-I tillegg til varselet om at de er omtalt, settes medlemmer som er omtalt i innlegg automatisk til å [følge](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) emnet og vil få varsler om emnehendelser som nye kommentarer og statusendringer.
-
-Dette er en flott måte å sikre at mer enn bare [tilordnet person](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) og [anmoder](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7) får varsler om fremtidige endringer av et emne.
-
-Hvis et medlem ikke lenger ønsker å følge emnet, må de manuelt slutte å følge det.
-
-### 6.2 **Omtale i innlegg**
-
-Omtaler i innlegg kan identifiseres ved å ha grønn tekstfarge.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2102770866/23a219c6303ae2c3ea3167ea8839/image.png?expires=1779991200&signature=dc54372f275beb9d6b9f58eef6364046025ccb05f18518fc1e8b56576f8e78ec&req=diEnFM55nYlZX%2FMW3nq%2Bgc6BCXnvU1Bkq3F79VNCulbUfUkNi0%2FhK1QXHGmC%0AYCoFipDW17p1vsYnR4usRrYZ%2FUo%3D%0A)
-
-I bakgrunnen lagres den unike ID-en til det nevnte prosjektdeltakeren.
-
-Det er navnet på deltakeren som vises i denne grønne teksten.
-
-Selv om medlemmet eller teamet endrer navn, vil det forbli omtalt i innlegget, men under sitt nye navn.
-
-Nevnte medlemmer har en klikkbar lenke som dirigerer til [medlemssiden](https://support.catenda.com/en/articles/8228836-member-page) til det medlemmet.
-
-Nevnte team har klikkbar lenke som dirigerer til [teamsiden](https://support.catenda.com/en/articles/7891755-team-page) til det teamet.
-
-_Ikke-eksisterende medlem_
-
-Hvis det ikke er noen medlem i prosjektet som har e-postadressen som er omtalt, ser innlegget slik ut i stedet:
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2102805445/b2e3443410ea96885a2d85676dee/image.png?expires=1779991200&signature=d64e4fdacb46dba5067b67f2b53dcb3371157a4c792de007bdcd5790b6455038&req=diEnFMF%2BmIVbXPMW3nq%2BgV2%2BX4QvdVlKUmPY0wchlEm3gW%2FQgNf9nrFfqLi1%0ASRk1H9bn2Dppn%2B4cO%2F3q%2Bp1QwFE%3D%0A)
-
-Dette kan enten skyldes at e-posten ble formatert feil eller fordi medlemmet ikke lenger er del av prosjektet.
-
-Skulle et medlem med denne e-postadressen bli del av prosjektet i fremtiden, endres innlegget for å vise navnet til det medlemmet.
-
-_Ikke-eksisterende team_
-
-Hvis et team har blitt fjernet fra prosjektet og et nytt team opprettes, vil dette nye teamet ikke bli omtalt.
-
-For å omtale det nye teamet, må innlegget sendes inn på nytt.
-
-## 7. **# Merkede emner**
-
-Klikk på `#` verktøyet eller skriv `#` i en beskrivelse eller kommentar for å merke et emne.
-
-Etter å ha skrevet `#` vises en rullegardinliste over emner fra alle emnetavler.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2102803413/752177c9a293de34a6bd9c7c4d36/image.png?expires=1779991200&signature=2e3d8eaa05e4d86071987625f7277fe7bd34ade7ba287ffe84d17863c5b1e2fd&req=diEnFMF%2BnoVeWvMW3nq%2BgQslLQuJRz%2F96TrjXxebVMDqy6wbx57JHhESfLh5%0Aq4PCAx7ujDa%2BJIEGQaJVDZ%2BZpiU%3D%0A)
-
-Gå gjennom listen ved å begynne å skrive tittel eller emnenummer.
-
-Gå opp og ned på listen med piltastene og klikk eller trykk Enter for å velge et emne.
-
-For at et emne skal vises i denne listen, må medlemmet som merker, ha tilgang til tavlen som emnet er på.
-
-Etter at du har valgt et emne i listen, får `#` litt ekstra tekst som kan se slik ut:
-
-`#[\<topic number>]`
-
-### 7.1 **Lagring eller innsending av et merket emne**
-
-Når beskrivelsen lagres eller kommentaren sendes inn, opprettes en emne relasjon.
-
-Det merkede emnet legges deretter til listen over [merkede emner](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) i [høyre meny](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) av emnet.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2103668127/63b222278014acedd5e109eaa00f/image.png?expires=1779991200&signature=2149815ea61b5a424e16434a30602bf0ad7bdfac5716a9be69b7fc5329c0ca7c&req=diEnFc94lYBdXvMW3nq%2BgUcCxcZ9fv6bg1pEo4juADZYfI3MQkCannAOnEBB%0AleI3JRHXDIbKQfJ1rhkXj6yPxJo%3D%0A)
-
-I tillegg til emnet der et annet emne ble merket, mottar det merkede emnet selv en lenke tilbake til emnet der det ble lagt til listen over [merkede emner](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) i [høyre meny](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue).
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2103660685/9068edb07ddc704d58d821a0aa4c/image.png?expires=1779991200&signature=b3cb88b489a1e13e91119acb5a1e65869e6137d08aa613a34673a44e9d6145d3&req=diEnFc94nYdXXPMW3nq%2BgZtQFZ6%2FadIHexDqOuXukfxVutzxFMdv4Csh2%2BBJ%0AJ4PgbRdgBEqA%2F0O6%2Bv%2FB4%2BrLgiA%3D%3D%0A)
-
-Emnelenken kan senere fjernes fra enten emnet med det merkede emnet i beskrivelsen eller fra emnet som ble merket ved å gå til hvert emne og redigere listen over [merkede emner](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) i [høyre meny](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue).
-
-### 7.2 **Merket emne i innlegg**
-
-Merkede emner kan identifiseres ved først å ha en sirkel med fargen på gjeldende status til det merkede emnet sammen med navnet på den statusen.
-
-Etter det vises emnets tittel fulgt av emnenummeret.
-
-Sammen med avmerkingsboksene teller merkede emner som er lukket mot fremdriften i fremdriftslinjen som vises mot toppen, mens merkede emner som er åpne teller mot totalt antall elementer som fremdriften telles mot.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2103628989/5fbf0cd8c9301753582aea8950e9/image.png?expires=1779991200&signature=ca04d06ea11db334d5d09d8015a562933dff76c96ee77f0067fcc66830a84137&req=diEnFc98lYhXUPMW3nq%2BgW6UTt%2FkO1pC00sooBVCn30sIjAm6dD8c3fkOEkR%0ArVc8ifPy8Jud7vIGWaSPdO6o7iY%3D%0A)
-
-Merkede emner har en klikkbar lenke som åpner det merkede emnet i sin emnetavle.
+Saken kan manuelt fjernes fra [relaterte saker](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8).

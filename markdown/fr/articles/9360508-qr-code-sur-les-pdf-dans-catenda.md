@@ -4,6 +4,8 @@ Les codes QR peuvent être configurés par dossier dans la [configuration des do
 
 Cette fonction permet aux utilisateurs de Catenda de vérifier si le document qu'ils utilisent est la dernière version, en scannant le code QR imprimé sur le PDF.
 
+Cet article contient des informations sur les sujets suivants :
+
 ## 1. Placer le Placeholder dans votre document
 
 Pour utiliser cette fonction, vous devez placer le **[code QR](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)** fourni par Catenda dans votre document et le télécharger ensuite dans Catenda Hub.

@@ -4,6 +4,8 @@
 
 Avec le connecteur de bureau Catenda, vous pouvez planifier les mises à jour et les téléchargements des dernières versions des documents.
 
+Cet article contient des informations sur les points suivants
+
 ## 1. Téléchargement instantané
 
 Le Desktop Connector vous permet de télécharger des fichiers de votre système local vers un dossier spécifié sur Catenda Hub. Vous pouvez également sélectionner un certain nombre de dossiers sur Catenda Hub pour les télécharger vers un emplacement sur votre machine locale.

@@ -6,8 +6,6 @@ Als **Multi Factor Authenticatie** (MFA) geactiveerd is wordt er grevraagt om ee
 
 Deze pagina houd informatie over de volgende themas in:
 
-[Activeren](#h_bda390ecdc) - [Veranderen](#h_155dbc3883) - [Overhevelen](#h_b78fb8abbd) - [Deactiveren](#h_27afed91d6) - [Vereisen](#h_ee25eb713b)
-
 ## 1. **MFA activeren**
 
 Log in bij Catenda Hub en ga naar det **[Account](https://hub.catenda.com/account/profile)** pagina:

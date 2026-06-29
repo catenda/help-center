@@ -2,8 +2,6 @@
 
 > **Note:** **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations).
 
-[Erste Schritte](#h_8b2f64d83e) - [Issue list](#h_642fa61854) - [Issue details](#h_445d3efa52) - [Upload to Catenda Hub](#h_1e09af8c8f) - [Settings](#h_b02502c589)
-
 ## 1. Erste Schritte
 
 Nachdem Sie das Plugin installiert haben, öffnen Sie ein Revit-Modell und klicken Sie auf die Schaltfläche Catenda Hub in den Add-Ins.

@@ -4,6 +4,8 @@ Du vil kunne finne **Multi Factor autentisering** (MFA) innstillinger på [auten
 
 **Multi Factor autentisering** (MFA) kerver at en kode føres inn som du mottar via din mobile enhet i tillegg til ditt brukernavn og passord ved pålogging til Catenda Hub. Når en organisasjon påkrever MFA er det dette påført på et organisasjonsnivå. Alle prosjekter som tilhører organisasjonen vil da kreve MFA tilgang til deres prosjekt. Dette vil tvinge alle brukere til å koble på MFA for å få tilgang til prosjektene som tilhører organisasjonen.
 
+Denne siden inneholder informasjon om følgende temaer:
+
 ## 1. **Koble på MFA**
 
 Logg på Catenda Hub og gå til [konto siden](https://hub.catenda.com/account/profile):

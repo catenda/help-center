@@ -6,6 +6,8 @@ Met de _modellen als documenten_ functie zullen deze twee plekken voor modelbest
 
 Als u een model aanmaakt in het modellengedeelte zal een document aangemaakt en gelinkt worden in het documenten gedeelte. Als u een IFC docment upload kunt u de "Maak een model aan" actie knop om deen model te linken en aanmaken in het modellengedeelte. Met deze functie zullen modellen in het modellengedeelte als documenten behandeld kunnen worden terwijl documenten in het documenten gedeelte als modellen behandeld kunnen worden.
 
+Deze artikel bevat informatie over de volgende themas:
+
 ## 1. **Voor/Na migratie - Hoofdverschillen**
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e8e8e8; width: 155px;"><h1 id="h_0177768769"></h1></td><td style="background-color: #e8e8e8; width: 262px;"><h2 class="intercom-align-center" id="h_412592b23e"><b>Voor</b></h2></td><td style="background-color: #e8e8e8; width: 248px;"><h2 class="intercom-align-center" id="h_d3824b63e6"><b>Na</b></h2></td></tr><tr><td style="background-color: #e8e8e8; width: 155px;"><p class="intercom-align-right"><b>Hoofdgedrag</b></p></td><td style="width: 262px;"><p>Modellen bestonden alleen in het modellen gedeelte. De gebruiker moest hetzelfde tot beide het documenten en modellen gedeelte uploaden.</p></td><td style="width: 248px;"><p>Modellen zijn aangemakt van IFC bestanden die tot het documenten gedeelte geupload wroden. Het IFC bestand kan tot hun beihorende model gerelateerd en gelinkt worden.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 155px;"><p class="intercom-align-right"><b>Interface</b></p></td><td style="width: 262px;"><p><b>Verschillend</b> van het documentengedeelte en toont minder informatie. Alleen een lijst met modellen.</p></td><td style="width: 248px;"><p><b>Gelijk </b>met het documentengedeleelte: Een tabel met gerelateerde metadata die aanpasbaar is.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 155px;"><p class="intercom-align-right"><b>Toegangsrechten</b></p></td><td style="width: 262px;"><p><b>Kon niet</b> tot modellen toegepast worden.</p></td><td style="width: 248px;"><p><b>Kan</b> tot modellen vanuit hun gerelateerde document in het documenten gedeelte toegepast worden.</p></td></tr></tbody></table></div>
@@ -29,8 +31,6 @@ Met modellen als documenten zal het modellengedeelte van uiterlijk verander zijn
 Un plaats van menu elementen voor elk model zullen deze nu een een doorzoekbare tabel getoond worden.
 
 In het modellen gedeelte zult u de volgende veranderingen kunnen vinden:
-
-[Tabel](#h_cbf15299bf) - [Kolommen](#h_49da57d851) - [Elementkeuze](#h_a32100babf) - [Actieknoppen](#h_128bac5644) - [Toegang](#h_c122f5b70d) - [Informatiemenu](#h_4c71e3e504)
 
 ### 3.1 **Modellen tabel**
 
@@ -131,6 +131,8 @@ Als u een model in 3D geopent hebt zal u de modellentransformatie in dit menu ku
 Terwijl de visuele veranderingen niet als klaarblijkelijk zijn als in het modellengedeelte zullen er een paar functies op een andere manier werken.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1444523409/f00b3c4298a51ee01cc2e44a62f4/image.png?expires=1781092800&signature=91a36e53931c2f57078308ffab651a5f5b5b2c3b6fe3ec9a854427a79a12a7bb&req=dSQjEsx8noVfUPMW3nq%2BgQtlKD%2Fq0MJ8Z8z1212tKpdvN2s03%2BKmVr2K0Jmd%0Ab83eIfq1xw1jiGHU9IHKSsab5x0%3D%0A)
+
+In het documentengedeelte zult u de volgende veranderingen kunnen zien:
 
 ### 4.1 **Modellenfilter**
 

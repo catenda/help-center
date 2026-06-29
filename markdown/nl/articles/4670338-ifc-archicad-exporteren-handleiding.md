@@ -2,6 +2,8 @@
 
 Houd bij het exporteren van een IFC rekening met wat relevant is voor je IFC-export. Het IFC-bestand kan groot zijn en moeilijk om mee te werken als er veel informatie in staat. Daarom is het belangrijk om geen onnodige informatie te exporteren. In dit rapport krijg je verschillende tips om je IFC-export in Archicad te filteren.
 
+Dit artikel bevat informatie over de volgende onderwerpen
+
 ## 1. Projectinformatie
 
 Voordat je een IFC van je project exporteert, moet je ervoor zorgen dat de projectinfo is geconfigureerd.

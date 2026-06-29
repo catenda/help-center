@@ -69,6 +69,8 @@ Verankern Sie das Bild-Pop-Out mit dem Pin-Symbol oben rechts, um das Bild-Pop-O
 
 Schließen Sie das Bild-Pop-Out, indem Sie oben rechts auf das x klicken, unten rechts auf schließen klicken oder die Taste esc auf der Tastatur drücken.
 
+Ein Kommentar kann einen der folgenden 3 Anhänge haben:
+
 ### 7.2 Bild
 
 **Hinzufügen eines Bildes zu einem Kommentar**

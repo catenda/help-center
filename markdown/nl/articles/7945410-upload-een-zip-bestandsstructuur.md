@@ -4,6 +4,8 @@ Vergeleken met het uploaden van een standaard zip bstand zal de upload een zip f
 
 Op deze manier kunnen bestandsstructuren tot de [documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page) geüpload worden zonder dat mappen handmatig aangemaakt hoeven te worden.
 
+De volgende themas zullen in deze artikel beschreven worden:
+
 De upload zip functie kan gevonden worden in het actiemenu ter rechts van de groene + knop rechtsbovenaan de documentenpagina.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1454067765/bdd1b806a876ccbc53c4e300c371/image.png?expires=1781092800&signature=e408feaa3b60aa97190a26eb7f3234a3e41014f699f9dee72c86e720855e1610&req=dSQiEsl4moZZXPMW3nq%2BgR2dSDgxOv3BOtvqNNwXutHtQ9xbPHFtnqbUZH1x%0ApRTiZm3xAjY4pFo8Lf6atiB0cfE%3D%0A)

@@ -36,10 +36,6 @@ So sieht das Menü "Setup ändern" aus:
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1892255169/dc9485955be8e9d289ef7b133e42/image.png?expires=1779991200&signature=fdb3c6d8b891f2db5a5d46d63d24dabdeb1eb90d7e823e58f8076ad2e015e125&req=dSguFMt7mIBZUPMW3nq%2BgU4rCzwBivDLfsHeLviWOkIR%2BVu9c41EQE6LWfpQ%0AnFh5xdUdS7zkwB57Eqs2k6s5uMw%3D%0A)
 
-Dieses Fenster enthält die folgenden Registerkarten:
-
-[Allgemein](#h_fb41b895ea) - [Zusätzlicher Inhalt](#h_ed48fc4387) - [Property Sets](#h_04dd25ffef) - [LoD](#h_11ae63fb7f) - [Erweitert](#h_f7b35f27cd) - [Geografische Referenz](#h_de5067b34b)
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 3.1 **Allgemein**

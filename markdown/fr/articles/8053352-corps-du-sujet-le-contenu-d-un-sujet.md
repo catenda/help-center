@@ -69,6 +69,8 @@ Cliquez sur télécharger pour télécharger l'image (vous ne pouvez pas faire u
 
 Fermer l'image pop-out en cliquant sur le x en haut à droite, en cliquant sur fermer en bas à droite ou en appuyant sur esc sur le clavier.
 
+Un commentaire peut avoir l'une des 3 pièces jointes suivantes :
+
 ### 7.2 Image
 
 **Ajouter une image à un commentaire**

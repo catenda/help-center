@@ -1,401 +1,354 @@
-# Revit IFC Export Handleiding
+# Handleiding Revit IFC exporteren
 
-Met deze IFC export handleiding is het doel om de gebruiker een gids te geven over het exporteren van de IFC voor de juiste doeleinden. Een IFC-bestand kan snel zwaar en groot worden wanneer u veel informatie uit het model wilt halen. Daarom moet u bij het exporteren van een IFC onnodige informatie uitvinken. Bij het uploaden van een model naar Catenda is het niet altijd nodig om veel informatie en een hoog detailniveau in het model te hebben. Later in deze handleiding gaan we terug naar welke instellingen we aanbevelen om het model iets kleiner en iets gemakkelijker te maken om mee te werken. Hier gaan we stap voor stap langs de meest geschikte manier om een IFC van Revit naar Catenda te exporteren.
+Het doel van deze handleiding voor IFC-export is om de gebruiker een handleiding te geven voor het exporteren van IFC voor de juiste doeleinden. Een IFC-bestand kan snel zwaar en groot worden als je veel informatie uit het model wilt halen. Daarom moet je bij het exporteren van een IFC overbodige informatie uitvinken. Bij het uploaden van een model naar Catenda is het niet altijd nodig om veel informatie en een hoog detailniveau in het model te hebben. Iets later in deze handleiding komen we terug op de instellingen die we aanraden om het model wat kleiner te maken en wat makkelijker om mee te werken. Hier overlopen we stap voor stap de meest geschikte manier om een IFC te exporteren van Revit naar Catenda.
 
-## 1. **Projectinstellingen**
+In dit artikel vind je informatie over:
 
-Voor het exporteren is het belangrijk om ervoor te zorgen dat de GUID's van uw Revit-project correct zijn.
+## 1. Project instellingen
 
-`Beheren -> Instellingen -> Projectinformatie -> IFC Parameters`
+Voordat je gaat exporteren is het belangrijk om ervoor te zorgen dat de GUID's van je Revit project correct zijn.
 
-![Project information IFC Parameters IfcSite GUID IfcBuilding GUID IfcProject GUID](https://downloads.intercomcdn.com/i/o/975614819/ee92de6f2477949e208dac45/image.png?expires=1779991200&signature=488a733e6dce35b3f9f765548a38ebcbb902309625bfa1827447b3e10ff5d1ca&req=fSciEMh6lYBWFb4V1XW4gW4DZHJ8Y%2FMyB4KsohYxe9JI9upp%2BSOrcthV9MYf%0AU5M5bUP8q8Ck5XUUcK86OtHqKw%3D%3D%0A)
+`Beheer -> Instellingen -> Projectinformatie -> IFC-parameters`
 
-Als de GUID verschilt van een vorige export, zullen de objecten van nieuwere exports niet correct worden gekoppeld aan de GUID's in BCF-onderwerpen.
+![](https://downloads.intercomcdn.com/i/o/975614819/ee92de6f2477949e208dac45/image.png?expires=1781092800&signature=22f30bf8576125786b12846d90b997dc615c409ba5b678d6000df45a4322cbc4&req=fSciEMh6lYBWFb4V1XW4gW4DZH10avMxDYKsohYxe9KujcH1hF5joErcbHET%0A0sr%2FfaH31EQykHBEENZXfifdHA%3D%3D%0A)
 
-Wanneer u een nieuw project maakt, krijgt het een unieke id.
+Als de GUID afwijkt van een eerdere export zullen de objecten van nieuwere exports niet goed gekoppeld worden aan de GUID's in BCF topics.
 
-## 2. **IFC exporteren wijzigen**
+Wanneer je een nieuw project maakt zal het een unieke id hebben.
 
-Wanneer Revit open is en u klaar bent om te exporteren, kunt u het volgende doen.
+## 2. IFC-export wijzigen
 
-![Druk linksboven op het scherm op bestand](https://catenda-as.intercom-attachments-1.com/i/o/271057108/395387d7cf0cc2eb7d9928e9/image-0.png?expires=1779991200&signature=29709f4df2bf2e93a7f49e265c84ad240cb9e1ca9f0d647626ae988df2a5ce2c&req=dicmFsx5nIFXFb4V1XW4gWhxfMNYwk%2FrATxtIQ9WjWxRlpEJI1psfy%2F4XuaV%0ANtKM3bS8PgmX5bN8%2Buoj%2FLUGDQ%3D%3D%0A)
+Wanneer Revit is geopend en je klaar bent om te exporteren, kun je het volgende doen.
 
-Linksboven vinden we het tabblad "Bestand".
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057108/395387d7cf0cc2eb7d9928e9/image-0.png?expires=1781092800&signature=66ced81e2e597e9b48425be1a65d934ab7235385d6e0e5a938cdafc666887585&req=dicmFsx5nIFXFb4V1XW4gWhxfMxQy0%2FoCzxtIQ9WjWzXJ2qGW1KIpav9gweN%0AonDGgBmVBIbI7vLjHWq7AItBPg%3D%3D%0A)
 
------------------------------------------------------------
+Linksboven vinden we de tab "File".
 
-> **Onthouden:**_ Misschien wilt u een speciale map voor uw IFC-bestanden maken, zodat u altijd weet waar uw bestand zich bevindt!_ Het IFC export menu kunt u hier vinden: `Bestand -> Exporteren -> IFC` ![](https://downloads.intercomcdn.com/i/o/areracg3/1892251735/1f06f6821d79b19642af1b81ebe6/image.png?expires=1779991200&signature=f77ab31d228b76bdf13529fee00caae4d6d42ccf86705e6e6788b4103ef18ea5&req=dSguFMt7nIZcXPMW3nq%2BgYeYtz5lfambMm12jWodCPeBvHXniyUmgGYciDwf%0AYXW5CLORtPkNnSMKCCj0IG5c3qs%3D%0A) Het IFC export menu kan er als volgt uitzien: ![IFC exporteren](https://downloads.intercomcdn.com/i/o/areracg3/1798387143/866e2fe7cec7589a87073fcc0c82/image.png?expires=1779991200&signature=4bfa202fb3004eec5587f9ccff80d9ad260c643ce24349d84a233dd0f1b00abf&req=dScuHsp2moBbWvMW3nq%2BgZPn43QJg8WVVc0ZVd8M6r96eVKW%2BS8G1RavyNB3%0A6vNrKhgPoxi%2FkGAPFMy7%2BWg0BfM%3D%0A) Bestandsnaam Voer de naam en locatie in die het geëxporteerde bestand in het systeem zal hebben Export instellingen Kies uit de volgende vooraf ingestelde instellingen: \<In-Session Setup> IFC 2x3 Coordination View 2.0 IFC 2x3 Coordination View IFC 2x3 GSA Concept Design BIM 2010 IFC 2x3 Basic FM Handover View IFC 2x3 Coordination View IFC 2x3 COBie 2.4 Design Deliverable View IFC4 Reference View [Architecture] IFC4 Reference View [Structural] IFC4 Reference View [BuildingService] IFC4 Reference View [Unofficial] IFC4x3 IFC-SG Regulatory Requirements View Wanneer de Catenda Plugin voor Revit wordt gebruikt, wordt er een extra vooraf ingestelde export instellingen voor gebruik met Catenda aan de lijst met opties toegevoegd.
+---
 
-## 3. **Instellingen wijzigen**
+> **Tip:** **Onthoud:** _het kan handig zijn om een speciale map te hebben voor je IFC's, zodat je altijd controle hebt over waar je bestand zich bevindt!_
 
-Klik op Instellingen wijzigen in het onderdeel Export instellingen van de export IFC-dialoog.
+Het menu voor IFC-export vindt u hier:
 
-Dit is waar de noodzakelijke instellingen voor IFC-export kunnen worden gewijzigd en aangepaste instellingen kunnen worden gemaakt.
+`Bestand -> Exporteren -> IFC`
 
-Dit kan het instellingenmenu wijzigen zien:
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057123/d49b5bef059523291ef5968e/image-1.png?expires=1781092800&signature=9f0b6c0d43b1d4c094640d83b73902cb6a596458e8c4e35ec64eb1a612535902&req=dicmFsx5nINcFb4V1XW4gdQLpPviLwVRilNrONBuLrAR1lQN87K%2FewpPYGIf%0ApA5oYxtykInFq55yLnltOkBdMQ%3D%3D%0A)
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892255169/dc9485955be8e9d289ef7b133e42/image.png?expires=1779991200&signature=fdb3c6d8b891f2db5a5d46d63d24dabdeb1eb90d7e823e58f8076ad2e015e125&req=dSguFMt7mIBZUPMW3nq%2BgU4rCzwBivDLfsHeLviWOkIR%2BVu9c41EQE6LWfpQ%0AnFh5xdUdS7zkwB57Eqs2k6s5uMw%3D%0A)
+Zo kan het menu IFC exporteren eruit zien:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1798387143/866e2fe7cec7589a87073fcc0c82/image.png?expires=1781092800&signature=b00f163464f440b53eaa0479ab42d92a3fa385b5297d2b470ae6148fa367c2cc&req=dScuHsp2moBbWvMW3nq%2BgZPn43QGi8yVVscZVd8M6r%2BuczDby8hxctqQL2Pq%0AKK8uip8yArxG8Qxw7xGGhxrOXxw%3D%0A)
+
+Bestandsnaam
+
+Voer de naam en locatie in die het geëxporteerde bestand in het systeem krijgt
+
+Exportinstelling
+
+Kies uit de volgende voorgedefinieerde setups:
+
+\<In-Sessie Setup>
+
+IFC 2x3 Coördinatieweergave 2.0
+
+IFC 2x3 Coördinatieweergave
+
+IFC 2x3 GSA Concept Ontwerp BIM 2010
+
+IFC 2x3 Basisweergave FM-overdracht
+
+IFC 2x3 Coördinatieweergave
+
+IFC 2x3 COBie 2.4 Ontwerp Deliverable View
+
+IFC4 Referentieweergave [Architectuur]
+
+IFC4 Referentieweergave [Bouwkundig]
+
+IFC4 Referentie View [GebouwService]
+
+IFC4-Referentiebeeld [Niet-officieel]
+
+IFC4x3
+
+IFC-SG Aanzicht Regelgeving
+
+Wanneer de Catenda Plugin voor Revit wordt gebruikt, wordt een extra voorgedefinieerde exportinstelling voor gebruik met Catenda toegevoegd aan de lijst met opties.
+
+## 3. Setup wijzigen
+
+Klik op Modify setup in het export setup gedeelte van het export ifc dialoogvenster.
+
+Hier kunnen de noodzakelijke instellingen voor IFC-export worden gewijzigd en aangepaste setups worden gemaakt.
 
 Dit venster bevat de volgende tabbladen:
 
-[Algemeen](#h_fb41b895ea) - [Aanvullende inhoud](#h_ed48fc4387) - [Eigenschappensets](#h_04dd25ffef) - [Detailniveau](#h_11ae63fb7f) - [Geavanceerd](#h_f7b35f27cd) - [Geografische referentie](#h_de5067b34b)
+---
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 3.1 Algemeen
 
-### 3.1 **Algemeen**
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057133/8051aa4e84045a36936e4477/image-3.png?expires=1781092800&signature=9f0a1f37473db0103a09176158876ad07eeab653053f2491beef7109d9351f0b&req=dicmFsx5nIJcFb4V1XW4gRAeo%2FbbqY%2Bjy4yNVm7GGROIxz%2FOuB4aiieTxEhO%0Avx2MPY9pl2MHmH7m5TgbRi5FkA%3D%3D%0A)
 
-![Algemeen](https://downloads.intercomcdn.com/i/o/areracg3/1892229977/5b41cf313ce744a76d57707e7156/image.png?expires=1779991200&signature=de7a76fac9b01f590c83303ae40078c1584ff8b4876ef0b169519d39e6d9c20a&req=dSguFMt8lIhYXvMW3nq%2BgaV%2FCQixLdXaNeZ7QyQ0axWAyNp02PCsj0gdc2if%0Ad1tMevbVyEJSRIO7%2Bjxmt6fUIRM%3D%0A)
+We nemen de verschillende instellingen met je door.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892261475/b091b92e7662bd96f93d12bf7f53/image.png?expires=1779991200&signature=9c06e8d7af983ce6a940f923b9ef8727f8c61d9e26ef8e352988fa36b62bd281&req=dSguFMt4nIVYXPMW3nq%2BgXBEgWjeQPHCGpBWTw2Nw1Jy05ppTRgbw1VTpLZH%0At1eqbpZDOUcMRs4z%2FBI%2Fnj41rJ0%3D%0A)
+_1. IFC-versie_ - Selectie van IFC-versie.
 
-We nemen u door de verschillende instellingen.
+_2. Bestandstype_ - Selectie van het IFC-type.
 
-_IFC versie_
+**3. Fase exporteren**
 
-Selectie van IFC versie.
+Als je de fasetool
 
-_Uitwisselingsvereiste_
+in Revit hebt gebruikt, kun je hier kiezen en alleen
 
-Deze opties kunnen verschillen afhankelijk van de geselecteerde IFC-versie.
+nieuwe of bestaande structuren exporteren.
 
-IFC 2x3 Coordination View 2.0
+_4. Ruimtegrenzen -_ gaan over hoe ruimte-informatie verder kan worden gebruikt.
 
-- Bouwkundige referentie-uitwisseling
-- MEP-referentie-uitwisseling
-- Structurele referentie-uitwisseling
-  _Categoriemapping_
-  Voor Revit 2026 was deze optie beschikbaar in Bestand -> Exporteren -> Opties -> IFC Export Opties.
-  Dit is hoe het menu Instellingen voor IFC Export Mapping beheren eruit kan zien:
-  ![](https://downloads.intercomcdn.com/i/o/areracg3/1892362444/0291c2b037d32fe0a4808e9fe7f7/image.png?expires=1779991200&signature=528dc3b6bcb4d9399320d85087b57a2e29ed93341169cec06ce9cb8ed5c84fb7&req=dSguFMp4n4VbXfMW3nq%2BgZ7axO8%2FlFRz4FYwOCciizXyG4lDOXEisrBlsk4c%0AAoRXuiRV9UdddmK2UwD%2FBi7AM7g%3D%0A)
-  _Bestandstype_
-  IFC type selectie.
-  _Fase om te exporteren_
-  Als u het fasetool in Revit hebt gebruikt, kunt u hier kiezen en alleen
-  nieuwe of bestaande structuren exporteren.
-  _Ruimtegrenzen_
-  Deze gaan allemaal over hoe ruimte-informatie verder kan worden gebruikt.
-  a. 1e niveau - Voorbeeld: Hoeveelheidswittokkingen, beheer, bedrijf en onderhoud (FDVU).
-  b. 2e niveau - Voorbeeld: Energieanalyse, lichtanalyse.
-  _Faciliteit Type_
-  Deze optie is alleen beschikbaar voor IFC 4x3
-  Kies uit een van de volgende:
-  Brug (IfcBridge)
-  Gebouw (IfcBuilding)
-  Maritime Faciliteit (IfcMarineFacility)
-  Spoorwegen (IfcRailway)
-  Weg (IfcRoad)
-  _Muren, kolommen, kanalen per niveau splitsen_
-  Hier kunt u bijvoorbeeld muren horizontaal verdelen als ze over meerdere verdiepingen zijn gemodelleerd. Bijv. scheidingsmuren horizontaal als deze over meerdere verdiepingen zijn gemodelleerd.
-  _Bestandskoppelinginformatie..._
-  Projectadres..._
-  In deze kunt u informatie plaatsen over wie de IFC heeft geleverd, projectadres enz.
-  _Projectoorsprong_
-  Projectoorsprong, dit zetten we op Huidige gedeelde coördinaten - Aanwezige gedeelde coördinaten.
+a. 1e niveau - Ex bij gebruik: Hoeveelheid onttrekkingen, FDVU.
 
-> **Opmerking:** Dit is verplaatst naar Geografische referentie vanaf Revit 2025 _Stalen elementen opnemen_ Neemt stalen componenten op als deze zijn gemodelleerd. **Opmerking:** Dit is verplaatst naar Aanvullende inhoud vanaf Revit 2025
+b. 2e niveau - Ex bij gebruik: Energieanalyse, lichtanalyse.
+
+5. _Project oorsprong_ - Project oorsprong, dit zetten we op Huidige gedeelde coördinaten- Huidige gedeelde coördinaten.
+
+_6. Wanden, kolommen, kanalen splitsen per niveau_ - Hier kun je bijv. wanden horizontaal splitsen als het model over meerdere verdiepingen loopt.
+
+_7. Inclusief stalen elementen_ - Inclusief stalen componenten indien gemodelleerd.
 
 ---
 
-### 3.2 **Aanvullende inhoud**
+### 3.2 Extra inhoud
 
-![Aanvullende inhoud](https://downloads.intercomcdn.com/i/o/areracg3/1892231518/1438a720e7d2d083f16e999b248d/image.png?expires=1779991200&signature=14ae8e037db758f837b33fce3426217ec13a1be4bdae21d9021a6c6e2adef1ed&req=dSguFMt9nIReUfMW3nq%2BgUrmoL4SQTHbWqp11fsyPaNkkVHU8HTI2%2F7M7%2BzB%0ABmowPSLQu3ATd2%2F2iUivb83tBuQ%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/801770461/27837862bbe48d592f7e7022/image.png?expires=1781092800&signature=8cd2dcb34c91a4681de54484c89b80fc85c9e387c46fe0d7fe25959e6d2ad3f4&req=fCAmEc5%2BmYdeFb4V1XW4gbPpvGgDiiJxUCyzpW1EyLOn2KvzrrihU2fq0vsf%0Ar2EFRx41WWPsrmjelOaw0Eg2mA%3D%3D%0A)
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892263880/c2a3aa2c87b0e2798aa352e8e939/image.png?expires=1779991200&signature=d34f7286a508b4628d39a8280c078fb7fab54fd9c269d8f5f4b9bdb4b2f506cc&req=dSguFMt4nolXWfMW3nq%2BgZuMl2%2B0ocCSxdsSWUVwjc07TZne90pVVQ20GLrW%0AXKEA4G7s2qjM4xmQ4ob3bLJz%2Fzg%3D%0A)
+1. Gelinkte bestanden exporteren als afzonderlijke IFC's
 
-Gekoppelde bestanden als afzonderlijke IFC's exporteren
+Als u de gekoppelde bestanden wilt opnemen in de IFC, kunt u deze optie aanvinken om dat te doen.
 
-Als u de gekoppelde bestanden in de IFC wilt opnemen, kunt u deze optie inschakelen.
+Het is aan te raden om elk bestand apart te exporteren en te importeren in hun eigen model.
 
-Het wordt aanbevolen dat u elk bestand afzonderlijk exporteert en elk naar hun eigen model importeert.
+2. Exporteer alleen zichtbare objecten die zichtbaar zijn in het
 
-Alleen zichtbare objecten zichtbaar in IFC-bestand exporteren.
+IFC-bestand.
 
-- Ruimten, oppervlakken en spaties in 3D-weergaven exporteren
-  Deze optie kan nuttig zijn voor het selecteren van gebieden in de 2D-viewer.
-  Stalen elementen opnemen, _gevuld_
-  Exporteert 2D plattegrond elementen, _gevuld, regio's_ (krassen).
-  Plafondnetwerken exporteren
-  Plafondnetwerken zijn 2D-elementen en worden daarom niet weergegeven in de Catenda 3D-viewer.
+3. Exporteer ruimten, gebieden en ruimtes in 3D-aanzichten
+
+Deze optie kan handig zijn voor het selecteren van ruimtes in de 2D viewer.
+
+4. Stalen elementen opnemen, _gevuld_
+
+5. Exporteert 2D-planweergaven, _gevulde_
+
+_gebieden_ (krassen).
 
 ---
 
-### 3.3 **Eigenschappensets**
+### 3.3 Eigenschappenreeksen
 
-![Eigenschappensets](https://downloads.intercomcdn.com/i/o/areracg3/1892232792/135fdbf14ece65c88f19bd1d226a/image.png?expires=1779991200&signature=08f85973ddc0828e1bce6019eed0e2ca144295420ac48e4d9b236988f3109720&req=dSguFMt9n4ZWW%2FMW3nq%2BgaY8ra%2BUm5L2ZjmJcmldhCuBAdrt45HA7HZqKLol%0AtoA76daMbGTClWLlzEA9uLIe9yA%3D%0A)
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057152/2f2ad2b699248505b991d502/image-5.png?expires=1781092800&signature=1295e7fd9c9490631dcdf0bedcae41c07df94a7d985577d4401878d131085b11&req=dicmFsx5nIRdFb4V1XW4gTc5yyntzCu%2BMV4hR%2BqGrisix0tJTLs3z3DA%2BcXf%0AlS%2BsKN9VEtUFIRqaaB%2FMGP00Hw%3D%3D%0A)
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892275051/2ed64b1590f2714d62846de4f92f/image.png?expires=1779991200&signature=72c737d699d3e9d1d54ab3270ebf9a6416e597a6f32ba4fc860fd242e2c1abcd&req=dSguFMt5mIFaWPMW3nq%2BgZi725RhkXN5IeQuWPtKkGbxpRk%2Bl9O8njkEN8R8%0AV3y8MdRThA7Jgy%2FpcsTiX3Qr%2Bo0%3D%0A)
-
-Exporteert alle Revit Property sets (pset / eigenschappen)
+1. Exporteert alle Revit eigenschappensets (pset / properties)
 
 Hier is een voorbeeld van een muur geëxporteerd met deze optie:
 
-Revit (_Links_) --- Catenda (_Rechts_) <img alt="Eigenschappen" src="https://downloads.intercomcdn.com/i/o/1143733823/5843705d0d8e18fad06a2d26/image.png?expires=1766188800&amp;signature=e683738cab58632050b7cafa92c034f12a46f70dfe3155d1cf4d911252b4d5cc&amp;req=dSEjFc59noldWvMW3nq%2Bgf%2FEabfHtQiF4KaxSmsaQLmis0sQMPMY4FRacuZa%0Az3YPfah7rm21SlIs85aLL8uLrZY%3D%0A" width="208.60495436766624"/>  ---  <img alt="Eigenschappen" src="https://downloads.intercomcdn.com/i/o/1143736276/8e2cd444c3cb4bb85a54a8eb/image.png?expires=1766188800&amp;signature=10633b362c0901da616a360cdbf654306792d62af04cc4f3501c3bda51769102&amp;req=dSEjFc59m4NYX%2FMW3nq%2BgT9zLO7Skq%2BTFld2KtbnaRMzDGwWjYF5Mm1itI8z%0AVIQLHf%2B4YSGFII1x5k%2BObZqVuGo%3D%0A" width="190.21739130434784"/>
+Revit_(Links_) --- Catenda_(Rechts_)
 
-Typische eigenschappen die in het eigendomsmenu worden weergegeven zijn:
-
-Beperkingen, Dwarsprofielbepaling, Afmetingen, Structureel, Identiteitsgegevens, Overige
-
-Typische eigenschappen die in het identificatiemenu worden weergegeven zijn:
-
-IFC-parameters
-
-Standaard IFC-eigenschappen exporteren.
-
-Exporteert berekende hoeveelheden van objecten.
-
-Batchlijsten exporteren
-
-Eenmalige eigenschap set exporteren
-
-_Classificatie-instellingen_
-
-Hier is een voorbeeld van wat classificatie-instellingen kunnen uitzien met omniclass.
-
-![Classificatie-instellingen](https://downloads.intercomcdn.com/i/o/1143721778/529f91196d1161bc0f7fc191/image.png?expires=1779991200&signature=f13d4621978f597e4d0c968364da4bd522527c7f374efda94be6a0be7575c6ca&req=dSEjFc58nIZYUfMW3nq%2BgTdoFEUepwZW6XnZ2V0i6WQvADjlF%2BLhRY6OJkFP%0AiNN3Uof7HbJp4u6Gl9XBlQAU8Ss%3D%0A)
-
-_Naam_
-
-De naam van de classificatie
-
-_Bron (Uitgever)_
-
-De uitgever van de classificatie
-
-_Editie_
-
-De classificatie-editie
-
-_Editiedatum_
-
-De datum van de classificatie
-
-_Documentatielocatie_
-
-Dit moet een geldige documentatielocatie zijn
-
-_Classificatieveldnaam_
-
-De classificatieveldnaam is de naam van de parameter in uw objecten die de classificatiewaarde bevat. Deze parameter kan vaak op familieniveau worden gevonden.
-
-Een familie bewerken om de eigenschappen ervan te zien
-
-![Familie bewerken](https://downloads.intercomcdn.com/i/o/1143724998/b22b5f6c87f49ea7c42381bf/image.png?expires=1779991200&signature=8590e78ce69a0d98961dc796b658ba4bf72cf03c45dba1890900a214bafbb117&req=dSEjFc58mYhWUfMW3nq%2BgSZUcWo6HOAqXXhYpyvCdnZ5nwKOSt5eRyx6qPHd%0AgRRUvOdjNZu11Av4vkAmqN6p0o4%3D%0A)
-
-Hier ziet u hoe de parameter in de eigenschappen kan uitzien
-
-![Eigenschappen OmniClass Nummer](https://downloads.intercomcdn.com/i/o/1143726246/d4edad8d1fd6912e74ac1dfd/image.png?expires=1779991200&signature=25a111f49176bbcd4a4eca8317c7d6020339ad9635734a6fdd66b808adc91213&req=dSEjFc58m4NbX%2FMW3nq%2Bge0lDZh%2F80lWgG1V9tT6cxgr0M7xLIsZrNn2i2Tj%0Ar3LmBV%2BDKYl2bfCvCkuordzTxII%3D%0A)
-
-Als u uw IFC met een classificatie hebt geëxporteerd en deze als model naar Catenda hebt geïmporteerd, wordt de classificatie ervan voorgesteld als een [voorgestelde bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page#h_c03d50a9ca) wanneer u een nieuwe bibliotheek maakt op de [bibliotheken pagina](https://support.catenda.com/en/articles/8065645-libraries-page).
-
-Als een waarde in de eigenschap die u hebt opgegeven, overeenkomt met een waarde in de verstrekte documentatie, wordt deze gevonden en kan deze worden gebruikt om objecten met deze waarde te selecteren via de classificatie bibliotheek die u hebt gemaakt.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 3.4 **Detailniveau**
-
-![Detailniveau](https://downloads.intercomcdn.com/i/o/areracg3/1892234477/a9bbe7f93df2e1f86dd77e0d8595/image.png?expires=1779991200&signature=51855781c86ef0d04cb75ec5abe362af236e216618b33ecddea36190c8ece55b&req=dSguFMt9mYVYXvMW3nq%2BgcGzWTbpx%2B5haiavdWYct%2BeRmFV0zbmfiG0oTuny%0ATNdlYRRUrCJXUVJUnpte5c9DwEg%3D%0A)
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892279715/fc5d54cc402a319c1f102802fc97/image.png?expires=1779991200&signature=a04b7a621f85578fedddab7f9829e2da3a5a0d67f2226d40d826a5ff56e0f063&req=dSguFMt5lIZeXPMW3nq%2BgUWqnn%2FqIvGkfS0SdjfSGKflUy63XmjaojOfoQju%0ADW71Q%2BhgwZX1JLzynRJK3wz6z%2BQ%3D%0A)
-
-Dit gaat erom hoe gedetailleerd we bijvoorbeeld hebben. kopjes of leuningen of misschien fietswheels. Er zijn 4 verschillende detailniveaus.
-
-Extra laag
-
-Laag
-
-Middel
-
-Hoog
-
-Wanneer hoog, wordt het meest gedetailleerd zoals weergegeven in de onderstaande afbeelding.
-
-![Detailniveau extra laag en hoog](https://catenda-as.intercom-attachments-1.com/i/o/271057169/c6cea2aa0003f1c409488aae/image-7.png?expires=1779991200&signature=61fe3f4006900fd1d34c251c062b3db03fc2fd91f19e16a776870e31c9aebfab&req=dicmFsx5nIdWFb4V1XW4gbUv%2FgfutyCFZjDb1AFfiWvoJKOpzILR0DxPJCm8%0AyB%2BxbX0DAGzFhIfWt2vGYTMOHg%3D%3D%0A)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Bij het exporteren van IFC's van Revit voor gebruik in Catenda Hub, raden we aan het detailniveau niet hoog in te stellen. Er zijn veel details en extra polygonen in modellen wanneer geëxporteerd met een hoger detailniveau en dit is niet altijd nodig en zal de modelnavigatie langzamer maken. Dit is een voorbeeld van het verschil tussen exporteren met de instelling Extra laag en Hoog.
-
-![Dit is een trapuiting geëxporteerd met de instelling Hoog. 900k polygonen](https://catenda-as.intercom-attachments-1.com/i/o/271057176/4d23600fddf517fa8afa68b3/image-8.png?expires=1779991200&signature=b40c5225839df08ff3cb63abba8707242a1b1485aea1a1349b7432050ae583ee&req=dicmFsx5nIZZFb4V1XW4gXDdgIisYwJtT%2FPcu87o1zP5fAUc4VXkBDnRaDr8%0A2T6aJEaBkIYupUl7unZmH%2FzFdA%3D%3D%0A)
-
-![Dit is dezelfde model geëxporteerd met de instelling Extra laag. 33k polygonen.](https://catenda-as.intercom-attachments-1.com/i/o/271057186/de52cec6e75ba1d44c01d9fb/image-9.png?expires=1779991200&signature=d8d2ced2202f3b52ae3b4585ea65977a74ee4709caed275abfc8d460d88a29db&req=dicmFsx5nIlZFb4V1XW4ga5Y09oq5DnlsKxhZ3TBUX7ENpGZnXWMCoB3Pz9w%0AYeiCXqLvdMUXo7BSPFFWU5lI1Q%3D%3D%0A)
-
-De verschijning van het model zal bijna hetzelfde zijn, maar het aantal polygonen zal drastisch afnemen en de navigatie in Catenda Hub zal veel sneller zijn.
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 3.5 **Geavanceerd**
-
-![Geavanceerd](https://downloads.intercomcdn.com/i/o/areracg3/1892235835/c5a537efaad511b257aa34fd9393/image.png?expires=1779991200&signature=9ef54911a2b76d39f4e3c23df0f85f171699dd8a363ab3cf3cb37349a603544d&req=dSguFMt9mIlcXPMW3nq%2Bgej6EvTV%2BJ5RKvpYf%2BwKvvA%2BZUGNGSO9ksC63ytf%0AVqsnDeqhyykw%2B4ATqbgGWKSALMs%3D%0A)
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892285324/5ee98db642dda09e9ef2e32f89f3/image.png?expires=1779991200&signature=a1105615a979210c8668e250b9ba318c89bc4fbd6335483a32692b3f7a71552f&req=dSguFMt2mIJdXfMW3nq%2BgeyMDiMPhq7Q85wgYm3Xh1XpOK5XvxcASYTyhduW%0AsLQ%2B1rJyZBFN%2FAQvoW31uHOg%2F7A%3D%0A)
-
-_Delen als bouwelementen exporteren_
-
-Exporteer delen als standaard IFC-element.
-
-_Gebruik van gemengde "Solid Model" representatie toestaan_
-
-Selecteer deze optie om het mengen van BRep en extrusiegeometrie voor een eenheid toe te staan.
-
-_Actieve weergave gebruiken bij het maken van geometrie_
-
-Selecteer deze optie om de actieve weergave te gebruiken om de geometrie te genereren. Houd er rekening mee dat dit onverwachte resultaten kan hebben als het op een niet-3D-weergave wordt gebruikt.
-
-_Familie- en typenaam voor referentie gebruiken_
-
-Selecteer deze optie om de familie- en typenamen voor referenties te gebruiken.
-
-_2D ruimtegrenzen voor ruimtevolume gebruiken_
-
-Selecteer deze optie om een vereenvoudigde benadering te gebruiken voor het berekenen van het ruimtevolume (gebaseerd op extrusie van 2D-ruimtegrenzen), wat ook standaard is bij het exporteren naar IFC 2x2.
-
-_Verheffing van IfcSite in de lokale plaatsingoorsprong opnemen_
-
-Selecteer deze optie om de hoogte van de Z-offset op te nemen voor lokale positie in IfcSite. Verwijder de optie om deze uit te sluiten.
-
-_Sla de IFC GUID na het exporteren op in een elementparameter_
-
-Selecteer deze optie om de gegenereerde IFC GUID's na het exporteren op te slaan in het projectbestand. Dit voegt "IFC GUID" parameters toe aan items en hun types en projectinformatie voor project, website en bouwgidsen.
-
-_Begrenzingsvak exporteren_
-
-Selecteer deze optie om "Begrenzingsvak" representaties te exporteren. Deze optie blijft automatisch geselecteerd voor GSA export.
-
-_Tessellated Geometry als triangulatie behouden_
-
-Als u complexe gebogen elementen of schelpen hebt en deze na de IFC export niet correct worden weergegeven, kunt u deze optie selecteren. Houd er rekening mee dat u mogelijk een zeer zwaar IFC-bestand kunt produceren.
-
-_Alleen typenaam gebruiken voor IfcType-naam_
-
-Selecteer deze optie als u wilt dat de BAT-ID of de ID van het object als de naam van de entiteit verschijnt.
-
-_Zichtbare Revit-naam gebruiken als IfcEntity-naam_
-
-Selecteer deze optie als u wilt dat de Revit-objectnaam de naam van de entiteit is
-
-_Altijd gefacetteerde vloeren en daken als één IFC-entiteit exporteren_
-
-Selecteer deze optie om vlakken van vloeren en daken met meerdere vlakken tot één entiteit te combineren.
-
-_Stel "Laatst gewijzigd" gebruiker in op Auteur in Projectinformatie_
-
-Selecteer deze optie als u de auteur van de wijzigingen in deze export bent
-
-_Entiteiten om te exporteren_
-
-Hier ziet u hoe het menu IFC Entity Selection dat opent er kan uitzien:
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892286935/be99502f0dd70ec946f55438c390/image.png?expires=1779991200&signature=799dca9446d3b00d4ca06944add4e6d6f47d8fd33c8a778c5d2557ab8437c12e&req=dSguFMt2m4hcXPMW3nq%2BgcADQUPx2PSQHDp0RWxq5dUnOJgx%2ByBdwcstuqRL%0AJLIzsYDQIIYPtAIY1dFKFpLkOAE%3D%0A)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 3.6 **Geografische referentie**
-
-Het is belangrijk dat uw Revit-coördinaten zijn gesynchroniseerd met de andere modellen in uw project zodat ze op dezelfde plaats eindigen.
-
-Daarom meet u de coördinaten in Catenda Hub met een puntmeting en geeft u een coördinatenbasis op in Revit op een punt dat op dezelfde plaats ligt als het gemeten punt in Catenda Hub.
-
-![Coördinaat op punt opgeven](https://downloads.intercomcdn.com/i/o/969764101/0c12135b4cfe78982de2d2c9/image.png?expires=1779991200&signature=060be8f8a603fc0b1a1df40a9afcb314add9da447d344221a97c1a482e645427&req=fSYuEc96nIFeFb4V1XW4gXGcH65AQ%2BvBsmsiUzSJvpOZcWtpsV6NEtp3COB%2B%0AaAl33RB7R1SlFNStV1N44yOhtw%3D%3D%0A)
-
-U kunt deze optie vinden in het tabblad Beheren -> Coördinaten -> Coördinatenbasis opgeven.
-
-_Coördinaten op punt opgeven_
-
-Verplaatst een model en roteert het model naar Ware Noorden door coördinaten voor Noord/Zuid, Oost/West en Verheffing op te geven.
-
-In Revit is het vaak gemakkelijker om in 90-graden hoeken te modelleren en u wilt het hele model niet roteren.
-
-In dit geval kunt u in plaats daarvan Ware Noorden roteren.
-
-U vindt de optie in de vervolgkeuzelijst Positie onder Coördinaten in het tabblad Beheren.
-
-![Geografische referentie](https://downloads.intercomcdn.com/i/o/areracg3/1892237064/dbd69633fadc1d5fe77cbbf10ad1/image.png?expires=1779991200&signature=a0fa45620598f4ea49637c071c3642c3e09a750a27b3c437d265926073e9efee&req=dSguFMt9moFZXfMW3nq%2BgWz5kavwajm2Q89QCw7rQngImO5dALYR%2F3X935bY%0ALRKgoqo1rT6VHyQCuYBc%2FWMRiDE%3D%0A)
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892312196/3e117bb428e5bade5ced558f9bf3/image.png?expires=1779991200&signature=42aea4804b1dd4c21c0c6c4b6ed80d944086564e35b9902d1720c87903230719&req=dSguFMp%2Fn4BWX%2FMW3nq%2Bgak09I%2BhVIo7RxVv6rvgFchwhCbwffygGJDj6sXo%0AQDbWBuoUwVnnATNMwVm1SBR0YXM%3D%0A)
-
-_Projectlocatie_
-
-Intern
-
-_Coördinatenbasis_
-
-U kunt deze instelling wijzigen om ervoor te zorgen dat uw project naar het Noorden is gericht
-
-Gedeelde coördinaten - Standaard
-
-Opmeetpunt
-
-Projectbasis Punt
-
-Interne oorsprong
-
-Projectbasis Punt gericht naar Ware Noorden
-
-Interne oorsprong gericht naar Ware Noorden
-
-> **Opmerking:** Als u IFC in het tabblad Invoegen koppelt, wordt uw gekoppelde bestand dicht bij uw objecten geplaatst en bevindt het zich niet op de locatie die in de IFC wordt beschreven. Als u een IFC op de juiste locatie wilt importeren, klikt u in plaats daarvan op Bestand -> Openen -> IFC. _Negeren_ Hier kunt u de geprojecteerde coördinatensysteemreferentie negeren
+![](https://downloads.intercomcdn.com/i/o/1143733823/5843705d0d8e18fad06a2d26/image.png?expires=1781092800&signature=d3c8f5f2e89496672a009244a29666882a4d5ed850a3ada5baf282996984dfeb&req=dSEjFc59noldWvMW3nq%2Bgf%2FEabfJsgmE6qaxSmsaQLnOEcrEWUDecLdGPLDS%0AX6Acg6q8YRRWmemsm%2FJmP5NeU8E%3D%0A)
 
 ---
 
-### 3.7 **Bedrijfsgegevens**
+![](https://downloads.intercomcdn.com/i/o/1143736276/8e2cd444c3cb4bb85a54a8eb/image.png?expires=1781092800&signature=34625dadd77a0f74aaec93d0b07441024225117a6f56cb9b084b88eec322f53f&req=dSEjFc59m4NYX%2FMW3nq%2BgT9zLO7cla6SHFd2KtbnaRMX5aTVuOC8ph9XiCgR%0Ap3b0qpPvprlRm3jAHMRpeWbClos%3D%0A)
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892339968/a88c70cdc3d15ec1e87a1e966b46/image.png?expires=1779991200&signature=f68f221eb9ab0afd91c637e525a5d0057b3307e8e6530d5198dd90d3b144f8e5&req=dSguFMp9lIhZUfMW3nq%2BgRXRtZV646CzbhYCDTM1GZGXZIjmattZX5CDm0VJ%0ALOUcKRLlH3C9wmRrDi%2FTOy04v%2Bs%3D%0A)
+Typische eigenschappen die worden weergegeven in het eigenschappenmenu zijn:
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892341695/f8aef094c7a84c8664cb6db386bc/image.png?expires=1779991200&signature=a174a5fdf3b7af5e95c5d1ed03b7d3edb1cacd026417765fdd6e0ec39c25cf03&req=dSguFMp6nIdWXPMW3nq%2BgSpJnU2%2FxbcY6345g60I7jviXU4X7ABgbjwoKuc7%0AcMRBSRyfbTm2vWp7Oys9oBkK7kw%3D%0A)
+Constraints, Cross-Section Definition, Dimensions, Structural, Identity Data, Other
 
-Dit menu is alleen beschikbaar wanneer de IFC2x3 COBie 2.4 Design Deliverable View Setup in het linkermenu is geselecteerd.
+Typische eigenschappen die in het menu Identification verschijnen zijn:
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+IFC Parameters
 
-### 3.8 **Projectgegevens**
+2. Standaard IFC-eigenschappen exporteren.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892356241/5a9153e5328e33ef5732be86af07/image.png?expires=1779991200&signature=24762c0ace7ebe4478d2b2713cd6017d4832352f6043104b1cc30ae373ab08f7&req=dSguFMp7m4NbWPMW3nq%2BgdDcqeJjXwra65LLEws6tCTU0wICq0oh9qpS9%2FJn%0Aqm4kmvwf4QEYAICFX8bkvDuQ7PE%3D%0A)
+3. Exporteert berekende hoeveelheden van objecten.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892357722/97a31374ae328eff814a977ff3ec/image.png?expires=1779991200&signature=003f4e0f69fc7180132651ec2a4ffb712c3fd3dde1440a29ae2fc4dc2a0573bb&req=dSguFMp7moZdW%2FMW3nq%2BgaYH1F4G60q4NivzbwFWQfKx5c%2BITWNaFVEP55gD%0AWJoucJnbsl2gDq1dZBIrmkyfeVs%3D%0A)
+4. Batchlijsten exporteren
 
-Dit menu is alleen beschikbaar wanneer de IFC2x3 COBie 2.4 Design Deliverable View Setup in het linkermenu is geselecteerd.
+5. Eenmalige eigenschappenset exporteren
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Classificatie-instellingen**
 
-## 4. **IFC Opties**
+Hier is een voorbeeld van hoe classificatie-instellingen eruit kunnen zien met omniclass.
 
-De IFC Opties van een Revit project kunt u vinden in:
+![](https://downloads.intercomcdn.com/i/o/1143721778/529f91196d1161bc0f7fc191/image.png?expires=1781092800&signature=b3623c0892be237d82fba4fd3289cee68e07e3a84a2d2797ad7163af05252618&req=dSEjFc58nIZYUfMW3nq%2BgTdoFEURrw9W6nPZ2V0i6WSE%2Bx8YqK3Yiesvs8ip%0AuCL0zXGlHVIIGXOxdTP5mQJKNUU%3D%0A)
 
-`Bestand -> Exporteren -> Opties -> IFC Opties`
+_Naam_ - De naam van de classificatie
 
-![Exporteren -> Opties -> IFC opties](https://catenda-as.intercom-attachments-1.com/i/o/271057200/45a1257c55b1828c71e969a4/image-11.png?expires=1779991200&signature=19ba7f1f06c737fd1570f0a06070ad9db96d0694ad820be88fb17bb60ed41856&req=dicmFsx5n4FfFb4V1XW4gakKrGXQvzEGkCAUJOtaQtRh3HZCglVgstn6e2Ch%0AaxVYb3DMOLXIpE8hXgvg%2F%2FKfNg%3D%3D%0A)
+_Bron (Uitgever)_ - De uitgever van de classificatie
 
-> **Opmerking:** Vanaf Revit 2026 is deze optie nu beschikbaar in: `Exporteren -> IFC -> Algemeen -> Categoriemapping -> Actiemenu rechts van vervolgkeuzelijst` Binnen de _IFC opties_ stellen we de instellingen voor het exporteren van een model naar een IFC-bestand. Hier kunt u aangepaste eigenschappen voor het exporteren van een model naar IFC. Wat aan het begin van deze handleiding werd vermeld, is dat het niet nodig is om te veel informatie uit het model te halen. Voel je vrij om onnodige informatie voor het exporteren uit te vinken. ![IFC export klassen](https://catenda-as.intercom-attachments-1.com/i/o/271057211/d475dd84fb2efef9d7bf4c1d/image-12.png?expires=1779991200&signature=ceb04d005a9687945fd4c5efc680f142fa8f71ab5daddaf6ef11c8828c6103ea&req=dicmFsx5n4BeFb4V1XW4gdpd3cvRJhUNG2sGxDwDCuCNDMBg6YsRp7MEvaGe%0Ao0oBh68YB8CtIWlb%2Bwt%2Fl%2BbXug%3D%3D%0A) Het is mogelijk om rasters in Catenda Hub weer te geven en als u deze in uw Revit model hebt, kunt u in IFC Opties instellen dat rasters in de IFC worden geëxporteerd. Deze worden standaard niet vanuit Revit geëxporteerd.
+_Editie_ - De editie van de classificatie
 
-## 5. **Kleuren en materialen**
+_Editie datum_ - De datum van de classificatie
 
-De kleuren die in Catenda worden weergegeven, worden gelezen uit het IFC-bestand dat wordt geïmporteerd.
+_Documentatielocatie_ - Dit moet een geldige documentatielocatie zijn
 
-Wanneer de materiaaleigenschap van een familie wordt toegevoegd aan de IFC-parameters, wordt de kleur van het materiaal in de materiaaleigenschap aan de IFC toegevoegd en dus weergegeven in Catenda.
+**Rubriceringsveldnaam**
 
-In Revit kunnen materialen in de materiaalweergave worden gevonden:
+De classificatieveldnaam is de naam van de parameter in uw objecten die de classificatiewaarde zal bevatten. Deze parameter kan vaak gevonden worden op familieniveau. Bewerk een familie om de eigenschappen te zien
 
-`Beheer tabblad -> Instellingen sectie -> Materialen`
+![](https://downloads.intercomcdn.com/i/o/1143724998/b22b5f6c87f49ea7c42381bf/image.png?expires=1781092800&signature=c388476d8a7f22081f4e436b94a5d840a0750177cf0f6ad6739e1e54253547f8&req=dSEjFc58mYhWUfMW3nq%2BgSZUcWo1FOkqXnJYpyvCdnb6akMbGZmK3rHBEWm%2F%0AkCht%2FRfgbXxIQeXGFlaUFhVNrO4%3D%0A)
 
-In de materiaalweergave kunt u de instelling voor kleur vinden in het tabblad Afbeeldingen van het materiaal:
+Zo kan de parameter eruit zien in de eigenschappen
 
-![Beheren -> Materialen -> Materiaalweergave -> Nieuw materiaal maken](https://downloads.intercomcdn.com/i/o/areracg3/1798363404/1016d10e61dcd4bbf3969dd97a39/image.png?expires=1779991200&signature=6538f237377a045f7b7f567244f4fdefd99bc74142dc54780c79610f54b88159&req=dScuHsp4noVfXfMW3nq%2BgRHARe%2BQbSvVJU1tDswOuiSVbxNsRYJibJHNSy4a%0ADvZyAbDR4cFQbN%2FOUhLbnJ9ZKrw%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/1143726246/d4edad8d1fd6912e74ac1dfd/image.png?expires=1781092800&signature=da76ee8ae6aee3def558368e9e0cc64f86c4af32a5d0ba61270886a9feb49cf0&req=dSEjFc58m4NbX%2FMW3nq%2Bge0lDZhw%2B0BWg2dV9tT6cxhge33Di%2F%2BPWzHn113Y%0AQge%2Ft4ynqCOaoPdB7r8xnmbbWbw%3D%0A)
 
-Het is ook mogelijk om de arcering aan de weergave-instellingen vast te zetten.
+Als je een ifc met classificatie hebt geëxporteerd en als model in Catenda hebt geïmporteerd, zie je de classificatie voorgesteld als een [voorgestelde bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page#h_c03d50a9ca) bij het aanmaken van een nieuwe bibliotheek op de [pagina Bibliotheken](https://support.catenda.com/en/articles/8065645-libraries-page). Als een waarde in de door jou gespecificeerde eigenschap overeenkomt met een waarde in de bijgeleverde documentatie, dan wordt deze gevonden en kan deze gebruikt worden om objecten met deze waarde te selecteren via de classificatiebibliotheek die je hebt aangemaakt.
 
-![Weergave](https://downloads.intercomcdn.com/i/o/areracg3/1798375002/9394922e0e04c7beffd701083d45/image.png?expires=1779991200&signature=d9d2670f75a1006a4b4d3d03f3e9c19bcfffcafb0d76728976f55be340ebe2c6&req=dScuHsp5mIFfW%2FMW3nq%2BgczmUc51w6Slra%2FB5MdIivv2AVzb0Puu5CECSt7u%0AvMA6oVuMcEZW9opaPvxvO6x6HrE%3D%0A)
+---
 
-Oppervlakken in de Catenda 3D-viewer hebben platte arcering zonder een aanwezige lichtbron.
+### 3.4 Detailniveau
 
-De volgende waarden worden door Catenda geïnterpreteerd bij het weergeven van het oppervlak in de 3D-viewer:
+Dit gaat over hoe gedetailleerd we bijvoorbeeld kopjes of leuningen of misschien fietswielen hebben. Er zijn 4 verschillende detailniveaus.
 
-Generiek
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057162/4c417102be6cfa626da9dcc2/image-6.png?expires=1781092800&signature=b496ed0861b8f7c7d5e67e94fcb8dc8518af70b0d7ab947a81e68402d1ece343&req=dicmFsx5nIddFb4V1XW4gbW5GTgHoPkHYqjS0sDGHyHxPH9rVJZlXnUnKIQc%0AsBifrSVyeViMfZIhArIW%2B1zwgw%3D%3D%0A)
+
+Extra Laag, Laag, Gemiddeld en Hoog.
+
+Bij High wordt het het meest gedetailleerd, zoals te zien is in onderstaande afbeelding.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057169/c6cea2aa0003f1c409488aae/image-7.png?expires=1781092800&signature=163ca81e8090cd8111015b87422fb1c763363cbe441a98de5e2d5addb4160e73&req=dicmFsx5nIdWFb4V1XW4gbUv%2FgjmviCGbDDb1AFfiWu1GWDJMFykpWYqnBSt%0A8wHmdEkuf9lNiFmOD%2B7116w%2BWg%3D%3D%0A)
+
+---
+
+Bij het exporteren van IFC's uit Revit voor gebruik in Catenda Hub raden we aan om het detailniveau niet te hoog in te stellen. Er zullen veel details en extra polygonen in modellen zitten wanneer deze met een hoger detailniveau worden geëxporteerd en dit is niet altijd nodig en zal het navigeren door het model langzamer maken. Dit is een voorbeeld van het verschil tussen exporteren met de instelling Extra laag en Hoog.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057176/4d23600fddf517fa8afa68b3/image-8.png?expires=1781092800&signature=687538a2f51390d1c2496a56ac501a0047a7f2084be29544df3e1c72d2620abd&req=dicmFsx5nIZZFb4V1XW4gXDdgIekagJuRfPcu87o1zP4ve6r3oLBUX0acm25%0ApnerAD5N5Dm6YEoW8hoPiWEcHA%3D%3D%0A)
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057186/de52cec6e75ba1d44c01d9fb/image-9.png?expires=1781092800&signature=4ad8acf5a209d1300b89be36e46854cabc2df68ff8986d80a78a52da834391d0&req=dicmFsx5nIlZFb4V1XW4ga5Y09Ui7TnmuqxhZ3TBUX5W45nlGIxZj38QI3aA%0AEXg8VjMtFsN7DRIWWtmxivtd4w%3D%3D%0A)
+
+Het uiterlijk van het model zal vrijwel hetzelfde zijn, maar het aantal polygonen zal drastisch afnemen en de navigatie in Catenda Hub zal een stuk sneller gaan.
+
+---
+
+### 3.5 Geavanceerd
+
+![](https://downloads.intercomcdn.com/i/o/762436110/53060f6623c03636599afd65/image.png?expires=1781092800&signature=7e5d4c6fc5774a25daed486302bd750786e163677394b3c3810c18beb6217c18&req=cyYlEsp4nIBfFb4V1XW4gZKfAMjUpLLEaBScAMYPcrxl294b7UlsvqYiSVoJ%0AHIfxZOmNpNke9SGMFFIaXhgXRA%3D%3D%0A)
+
+1. Exporteer onderdelen als een standaard IFC element.
+
+2. Selecteer deze optie om het mengen van BRep en extrusie geometrieën voor een unit toe te staan.
+
+3. Selecteer deze optie om de actieve view te gebruiken om de geometrie te genereren. Merk op dat dit onverwachte resultaten kan hebben als het wordt gebruikt in een niet-3D aanzicht.
+
+4. Selecteer deze optie om de familie- en typenamen te gebruiken voor referenties.
+
+5. Selecteer deze optie om een vereenvoudigde benadering te gebruiken voor het berekenen van het kamervolume (gebaseerd op
+
+extrusie van 2D-ruimtedelimieten) die ook standaard is bij het exporteren naar IFC 2x2.
+
+6. Selecteer deze optie om de hoogte vanaf de Z-offset op te nemen voor de lokale positie in IfcSite. Verwijder de optie om deze uit te sluiten.
+
+7. Selecteer deze optie om de gegenereerde IFC GUID's op te slaan in het projectbestand na export. Dit voegt "IFC GUID" parameters toe aan items en hun types en Projectinformatie voor project, website en bouwgidsen.
+
+8. Selecteer deze optie om "Bounding box" representaties te exporteren. Deze optie blijft automatisch geselecteerd voor GSA-export.
+
+9. Als je complexe gebogen elementen of schalen hebt en ze worden niet correct weergegeven na de IFC-export, kun je deze optie selecteren. Houd er wel rekening mee dat het IFC-bestand dan erg zwaar kan worden.
+
+10. Selecteer deze optie als u wilt dat de BAT-ID of de ID van het object wordt weergegeven als de naam van de entiteit.
+
+11. Selecteer deze optie als u wilt dat de Revit objectnaam de naam van de entiteit is
+
+---
+
+### 3.6 Geografische referentie
+
+Het is belangrijk dat je Revit coördinaten gesynchroniseerd zijn met de andere modellen in je project zodat ze op dezelfde plaats terecht komen.
+
+Meet daarom de coördinaten in Catenda Hub op met een puntmaat en specificeer een coördinatenbasis in Revit op een punt dat op dezelfde plaats ligt als het opgemeten punt in Catenda Hub.
+
+![](https://downloads.intercomcdn.com/i/o/969764101/0c12135b4cfe78982de2d2c9/image.png?expires=1781092800&signature=84d865b4e05cd94c652262461fda5186cf3f7d946257cdddba401888aea06abd&req=fSYuEc96nIFeFb4V1XW4gXGcH6FISuvCuGsiUzSJvpN%2B2gT%2BbnAigyT02RI%2F%0AlYpLb4rMYF4tiqRbu5bmBqCC2g%3D%3D%0A)
+
+Je vindt deze optie in de Manage tab -> Coordinates -> Specify Coordinate Base. _coördinaten opgeven bij punt_
+
+Verplaatst een model en roteert het model naar het ware noorden door coördinaten op te geven voor Noord/Zuid, Oost/West en Elevatie.
+
+In Revit is het vaak eenvoudiger om te modelleren onder hoeken van 90 graden en wil je niet het hele model roteren. In dit geval kun je het ware noorden roteren. Je vindt de optie in het vervolgkeuzemenu Positie onder Coördinaten op het tabblad Beheren.
+
+![](https://downloads.intercomcdn.com/i/o/817756541/b53247c4381eb5c35bb9d18b/image.png?expires=1781092800&signature=051311eba043e9a123f63ff0a14ecbb7fa67b292e6e8cb26d9edacab0e00035c&req=fCEgEcx4mIVeFb4V1XW4gZnws9NKcGTDL8o1YS3JtbOTYY7g8BEv%2FiVm1pI9%0AxRm47OnwnfXB466DOBVkk6MV1w%3D%3D%0A)
+
+_1. Projectlocatie_ - Intern
+
+_2. Coördinaat basis_ -
+
+Je kunt deze instelling wijzigen om ervoor te zorgen dat je project op het noorden is georiënteerd
+
+Gedeelde coördinaten - Standaard
+
+Enquête punt
+
+Project Basispunt
+
+Interne oorsprong
+
+Projectbasispunt Georiënteerd in het Ware Noorden
+
+Interne oorsprong Georiënteerd in het Ware Noorden
+
+> **Note:** **Opmerking:** Als u IFC koppelt in het tabblad Invoegen, wordt uw gekoppelde bestand dicht bij uw objecten geplaatst en niet op de locatie die in de IFC wordt beschreven. Om een IFC naar de juiste locatie te importeren, klikt u in plaats daarvan op Bestand -> Openen -> IFC.
+
+**3. Overschrijven**
+
+Hier kunt u de referentie van het geprojecteerde coördinatensysteem overschrijven
+
+---
+
+## 4. IFC opties
+
+De IFC Options van een Revit project kunnen gevonden worden in:
+
+`Bestand -> Exporteren -> Opties -> IFC-opties`
+
+![C:\Users\Kristian\AppData\Local\Temp\SNAGHTML4b61da.PNG](https://catenda-as.intercom-attachments-1.com/i/o/271057200/45a1257c55b1828c71e969a4/image-11.png?expires=1781092800&signature=d18decf494bb4cc9b436ce50608d52e1b2c80f133a56f17d4f9a8256a149b85b&req=dicmFsx5n4FfFb4V1XW4gakKrGrYtjEFmiAUJOtaQtSPFXcdjJtB8agolGCg%0AE4MaP533t6t4YBplk4iE%2FrXM3g%3D%3D%0A)
+
+Hier binnen de _IFC opties_ maken we de instellingen voor het exporteren van een model naar een IFC bestand. Hier kunt u
+
+eigenschappen aanpassen voor het exporteren van een model naar IFC. Wat aan het begin van deze handleiding is vermeld, is
+
+het is niet nodig om te veel informatie uit het model te halen. Vink gerust onnodige
+
+informatie voor het exporteren.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057211/d475dd84fb2efef9d7bf4c1d/image-12.png?expires=1781092800&signature=7212818cd7e7225a6bee95cc202498ff6f83b0de62997b9de764a0ab64ab1a4c&req=dicmFsx5n4BeFb4V1XW4gdpd3cTZLxUOEWsGxDwDCuBU3P2AUy%2Fk33mdcExY%0AtenxeVhs5GN20o7gm4uSxYFP1g%3D%3D%0A)
+
+Het is mogelijk om rasters te bekijken in Catenda Hub, en als je deze in je Revit model hebt is het in IFC Options mogelijk om in te stellen dat rasters worden geëxporteerd in de IFC. Standaard worden deze niet geëxporteerd vanuit Revit.
+
+## 5. Kleuren en materialen
+
+De kleuren die worden weergegeven in Catenda worden gelezen uit het IFC-bestand dat wordt geïmporteerd. Wanneer de materiaaleigenschap van een familie wordt toegevoegd aan de IFC-parameters, wordt de kleur van het materiaal in de materiaaleigenschap toegevoegd aan de IFC en dus weergegeven in Catenda.
+
+In Revit kan je materialen terugvinden in de materiaalbrowser:
+
+`Tabblad Beheer -> sectie Instellingen -> Materialen`
+
+In de materiaalbrowser kan de instelling voor kleur gevonden worden in het grafische tabblad van het materiaal:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1798363404/1016d10e61dcd4bbf3969dd97a39/image.png?expires=1781092800&signature=5ee7272efd7647b8a9544e41af6747a6259a5438ad8ff39d55016bee9b50a88f&req=dScuHsp4noVfXfMW3nq%2BgRHARe%2BfZSLVJkdtDswOuiR0dOcupZAmVKkRpdhZ%0Aq028kr6QAfKB0snku2VNQsJ52sA%3D%0A)
+
+Het is ook mogelijk om de schaduw te vergrendelen naar de renderinstellingen.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1798375002/9394922e0e04c7beffd701083d45/image.png?expires=1781092800&signature=afe10bc65a063a09c01aa68726995ee41147f91d3ca6e1a64bde1df90d47dbe0&req=dScuHsp5mIFfW%2FMW3nq%2BgczmUc56y62lrqXB5MdIivv23x5JUgzFoFlwBcpp%0Aq8%2FwGq0OF9ww%2Bt1vOJqBMxsgUao%3D%0A)
+
+Oppervlakken in de Catenda 3D viewer hebben een vlakke arcering zonder dat er een lichtbron aanwezig is. De volgende waarden worden door Catenda geïnterpreteerd bij het weergeven van het oppervlak in de 3D viewer:
+
+Algemeen
 
 - Kleur
-- Afbeelding vervagen
-  Transparantie
-- Bedrag
-- Afbeelding vervagen
+- Beeld vervaging
+
+Transparantie
+
+- Hoeveelheid
+- Beeld vervagen
 - Doorschijnendheid
-  Tint
-- Tintkleur
+
+Tint
+
+- Kleur tint

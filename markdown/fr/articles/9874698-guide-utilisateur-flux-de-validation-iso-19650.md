@@ -4,6 +4,8 @@ La série ISO 19650 est une norme internationale de bonnes pratiques qui défini
 
 De nombreux acteurs du secteur de la construction ont adopté la norme ISO 19650 pour gérer les processus de livraison et d'approbation des documents dans les projets.
 
+Cet article contient des informations sur les sujets suivants :
+
 ## 1. **Cycle de vie d'un document**
 
 Selon la norme ISO, un document peut avoir quatre états différents :

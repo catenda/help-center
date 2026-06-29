@@ -189,291 +189,311 @@ Um MFA für die Projekte Ihrer Organisation zu aktivieren, kontaktieren Sie den 
 
 ![](https://downloads.intercomcdn.com/i/o/710237963/cc33c301cac2faaeaf8abb7e/image.png?expires=1781092800&signature=0a241c1b7d754dac6ac7f3fbfb908a97d6aad26a98db0773434988edd6c61515&req=cyEnFMp5lIdcFb4V1XW4geDBTPE7FEI38r7z7CIHG0OMPqmboH9ClY59uD%2F2%0APKhzmnNJ76NXpaOhL%2BVeRBzIhw%3D%3D%0A)
 
-# 3D-Viewer
+# 3D viewer
 
-Der 3D-Viewer befindet sich als eines der vier Hauptfenster, das oben rechts auf Ihrem Bildschirm geöffnet werden kann. Sie können entweder das 3D-Symbol drücken, um dieses Fenster zu öffnen, oder Sie können [Shift+2](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=3D%20viewer-,Shift%20%2B%202,-Trees%20panel) drücken.
+Sie finden den 3D-Viewer als eines der vier Hauptfenster, die oben rechts auf Ihrem Bildschirm geöffnet werden können. Sie können entweder auf das 3D-Symbol drücken, um dieses Panel zu öffnen, oder Sie können Umschalt+2 drücken.
 
-![](https://downloads.intercomcdn.com/i/o/802707569/82a165005ce86838e7956728/image.png?expires=1779991200&signature=c6079791547b93e3f25bb3692999a443e49c599da78a4057c1c6b61041123dc3&req=fCAlEcl5mIdWFb4V1XW4gYcLDbwNoNsUHDb6cTzwYe0S0o3FujpO8AoZJCI7%0AIuUj5cC37agmjtRs6sHPbUhy6A%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/802707569/82a165005ce86838e7956728/image.png?expires=1781092800&signature=4a81ab43d71148cd7aa554797d0ca9dbeeca61b1663c057ba6c0fa02b094669e&req=fCAlEcl5mIdWFb4V1XW4gYcLDbMFqdsXFjb6cTzwYe0F2cNlOWoDCWk6eX9L%0A5eerSZlc%2FkNaGSRkYj5lZYxkhw%3D%3D%0A)
 
 Wenn ein Modell geladen ist, kann der 3D-Viewer wie folgt aussehen:
 
-![](https://downloads.intercomcdn.com/i/o/845930227/b1fafb0ae5a597cebd08216b/image.png?expires=1779991200&signature=9193685e518760a5bf21bd4253b8495487059634bd52be5dd0f156f80040dbdc&req=fCQiH8p%2Bn4NYFb4V1XW4gU18AwjBo6R2JCjPFqI2LRiuYUxHxASjgSjQEOfC%0AOwihmhiS3Wkw78xvfZvQ1RSIWA%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/845930227/b1fafb0ae5a597cebd08216b/image.png?expires=1781092800&signature=9b3cd012f132401f64160b9eb5942337fe96c59031175a2f5f839e6a932436d2&req=fCQiH8p%2Bn4NYFb4V1XW4gU18AwfJqqR1LijPFqI2LRgiTXWoG5XMTZvwMrRf%0A%2BpuQcmSlsgJS5Co0PpiSs9HH2g%3D%3D%0A)
+
+Die folgenden Themen werden in diesem Artikel beschrieben:
+
+Modell laden - Sichtbarkeit - Kamera - Werkzeuge - Joystick - Einstellungen - 2D - Fußzeile - Rechtsklick - Export
 
 ## 1. **Modelle laden**
 
-Modelle können auf mehrere Arten in den 3D-Viewer geladen werden.
+Sie können Modelle auf verschiedene Weise in den 3D-Viewer laden: Klicken Sie auf 3D neben dem Modell, das Sie öffnen möchten, oder wählen Sie mehrere Modelle aus und klicken Sie auf 3D am Anfang der Liste.
 
-Auf der Modellseite kann neben dem zu öffnenden Modell auf 3D geklickt werden oder es können mehrere Modelle ausgewählt werden und oben in der Liste auf 3D geklickt werden.
+Im Dokumentenbereich können Sie Vorschauen von ifc-Dateien und Punktwolkendokumenten öffnen, indem Sie auf 3D in der Dokumentenlistenansicht oder im rechten Informationsbereich klicken. Sie können den 3D-Viewer auch öffnen, ohne Modelle zu laden, indem Sie oben rechts auf 3D klicken, um das 3D-Viewer-Panel zu öffnen.
 
-Im Abschnitt Dokumente können Sie Vorschaubilder von IFC-Dateien und Punktwolkendokumenten anzeigen, indem Sie in der Dokumentenliste oder im rechten Informationsfenster auf 3D klicken.
+### 1.1 **Revision Bereich**
 
-Sie können den 3D-Viewer auch ohne geladene Modelle öffnen, indem Sie oben rechts auf 3D klicken, um das 3D-Viewer-Fenster zu öffnen.
+Wenn Sie noch keine Modelle geladen haben, können Sie Modelle laden und entladen, indem Sie die Dropdown-Liste für die Revisionsauswahl öffnen.
 
-### 1.1 **Revisions-Auswahl**
+![](https://downloads.intercomcdn.com/i/o/845932443/61498edae0561e5178452829/image.png?expires=1781092800&signature=746a2339224356f1897cdff22c00f52761c05b6a83dc1393a7603ecd3735a33d&req=fCQiH8p8mYVcFb4V1XW4gWHzJTDZXJlA83L9zeYyuF3vYErvQl09lkR90eNz%0AskxouKpYlDPaezmDkXVo%2Fm1fyA%3D%3D%0A)
 
-Wenn Sie noch keine Modelle geladen haben, können Sie Modelle laden und entladen, indem Sie die Revisions-Auswahl-Dropdown-Liste öffnen.
+### 1.2 **Raster dropdown**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/4670279-revision-selector), um mehr über die Revisions-Auswahl zu erfahren
+Wenn es in Ihren Projekten Modelle gibt, die Gitter enthalten, können Sie diese mit dieser Dropdown-Liste in den Viewer laden.
 
-![](https://downloads.intercomcdn.com/i/o/845932443/61498edae0561e5178452829/image.png?expires=1779991200&signature=81b2a46f0f2140700048ba3704dcd7da5a239f4dd876711d44ad60ea799cc041&req=fCQiH8p8mYVcFb4V1XW4gWHzJT%2FRVZlD%2BXL9zeYyuF3fSLbWGwZo5M2Gg46C%0AEWJ5T3AogcBqURfyrXx2jCjGTA%3D%3D%0A)
+Klicken Sie hier, um mehr über Gitter im 3D-Viewer zu erfahren.
 
-### 1.2 **Gitter-Dropdown**
-
-Wenn in Ihren Projekten Modelle mit Gittern vorhanden sind, können Sie diese mit dieser Dropdown-Liste im Viewer laden.
-
-Klicken Sie [hier](https://support.catenda.com/en/articles/4670327-showing-grids), um mehr über Gitter im 3D-Viewer zu erfahren.
-
-![](https://downloads.intercomcdn.com/i/o/845933603/0e12c7587087e5d61dad9b32/image.png?expires=1779991200&signature=51fa8a92b2c07992a68b5e341e42700ea2636d29d3a977edbd6ee5ad7bc4dcc7&req=fCQiH8p9m4FcFb4V1XW4gR4Cd26%2Bf8YbwgKVl5VcQbkVb%2F043c1nNwIkYn1u%0APUa%2FQxjYsDKZAyWaCp%2F7e63eNw%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/845933603/0e12c7587087e5d61dad9b32/image.png?expires=1781092800&signature=efb1a36f8d3d426debc668e8ff94ac260fb0d3d30462e5dfe7d5476e65088f5c&req=fCQiH8p9m4FcFb4V1XW4gR4Cd2G2dsYYyAKVl5VcQbla3X1k9DqxZPf5Ik5L%0AosTCSXVEVmJK3YwlSvA6EQ2XOw%3D%3D%0A)
 
 ## 2. **Sichtbarkeit**
 
-Das Sichtbarkeitsdropdown ermöglicht es Ihnen, Objekte anzuzeigen, auszublenden und halbtransparent zu machen.
+Mit dem Dropdown-Menü für die Sichtbarkeit können Sie Objekte ein- und ausblenden oder durchsichtig machen.
 
-![](https://downloads.intercomcdn.com/i/o/845934711/3df6af991ef5772735f8781c/image.png?expires=1779991200&signature=dca171ed06454fcd8d7e7ae056dfe9f6ff328c59c6edd069312f61b0bd7b607f&req=fCQiH8p6moBeFb4V1XW4gS5O5h2LhmYU%2BwpNf5%2BZRiY1HXXO%2BXzhIhz4bZKf%0AhtYo4yEqD5k2v%2BWTqTEa%2FGl8LA%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/845934711/3df6af991ef5772735f8781c/image.png?expires=1781092800&signature=c343712527384d70f9e512092c20509d9b4fb20452c3561983b0a5c4c1dca3ee&req=fCQiH8p6moBeFb4V1XW4gS5O5hKDj2YX8QpNf5%2BZRiaP0JlQrcY2%2BlcWew99%0Aqp8orkyPIqtABZLXVMgqkKvECA%3D%3D%0A)
 
-Wenn Sie das Sichtbarkeitsdropdown öffnen, kann es wie folgt aussehen:
+Wenn Sie das Dropdown-Menü für die Sichtbarkeit öffnen, kann es wie folgt aussehen:
 
-![](https://downloads.intercomcdn.com/i/o/845941119/e9b39bbe5d117a597aca78df/image.png?expires=1779991200&signature=d8e169d8dfae1ba577f9755f336083babd3c76936c4099e3cd6401d90004a8bd&req=fCQiH81%2FnIBWFb4V1XW4ga%2F7qvKmHR8Z%2FIHcK78bQ1jxtNshfpGDFHFdVN%2BK%0AM6FAYnFYNp95MdveC%2FB69GoGAA%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/845941119/e9b39bbe5d117a597aca78df/image.png?expires=1781092800&signature=70aaa76c8712872d8f7f2bb263d4b9c82fcd7697320f0673170d77b0fdea6b58&req=fCQiH81%2FnIBWFb4V1XW4ga%2F7qv2uFB8a9oHcK78bQ1isgKVewjNOlOZLM7m5%0A6e6jSNgjDxwv7tIBW58poEu39Q%3D%3D%0A)
 
-Hier können Sie die folgenden Aktionen ausführen:
+Hier können Sie die folgenden Aktionen durchführen:
 
-### 2.1 **Objekte anzeigen**
+### 2.1 **Anzeigen von Objekten**
 
-_Alle anzeigen_
+Alles anzeigen - Alle Objekte anzeigen
 
-Alle Objekt(e) anzeigen
+Dies kann nützlich sein, wenn Sie einen Schnappschuss oder ein Lesezeichen mit versteckter Geometrie abspielen, die Sie gerne sehen möchten.
 
-Dies kann nützlich sein, nachdem Sie einen Snapshot oder ein Lesezeichen abgespielt haben, das Geometrie enthält, die Sie sehen möchten.
+Ausgewählte anzeigen - Ausgewählte(s) Objekt(e) anzeigen
 
-_Ausgewählte anzeigen_
+Wenn Sie ein ausgewähltes Objekt ausgeblendet haben, ist es weiterhin ausgewählt, aber ausgeblendet, bis Sie etwas anderes auswählen und es aus Ihrer Auswahl entfernen.
 
-Die ausgewählten Objekt(e) anzeigen
+Im Informationspanel können Sie ausgeblendete Objekte aus dem Objektbaum und der Via-Selektion auswählen.
 
-Wenn Sie ein ausgewähltes Objekt versteckt haben, ist es immer noch ausgewählt, aber verborgen, bis Sie etwas anderes auswählen und es aus Ihrer Auswahl entfernen.
+Im Inhaltsbereich können Sie Objekte aus Eigenschaftsbibliotheken und Objekte, die entweder mit Ausgaben oder Dokumenten verknüpft sind, auswählen.
 
-Im Informationsfenster können Sie versteckte Objekte aus dem Objektbaum und über Auswahlen auswählen.
+### 2.2 **Object Transluzenz**
 
-Im Inhalts-Panel können Sie Objekte aus Eigenschaftsbibliotheken und Objekte auswählen, die mit Problemen oder Dokumenten verknüpft sind.
+Es ist nicht möglich, durchsichtige Objekte auszuwählen, indem man sie im 3D-Viewer anklickt.
 
-### 2.2 **Objekttransparenz**
+Transluzent machen - macht das/die ausgewählte(n) Objekt(e) transluzent
 
-Es ist nicht möglich, halbtransparente Objekte durch Anklicken im 3D-Viewer auszuwählen.
+Im Informationspanel können Sie ausgeblendete Objekte aus dem Objektbaum und der Via-Selektion auswählen.
 
-_Halbtransparent machen_
+Im Inhaltsbereich können Sie Objekte aus Eigenschaftsbibliotheken und Objekte auswählen, die entweder mit Ausgaben oder Dokumenten verknüpft sind.
 
-Die ausgewählten Objekt(e) halbtransparent machen
+Ausgewählte durchsichtige Objekte können durch Einblenden ausgewählter oder Einblenden aller Objekte wieder auf die Standardsichtbarkeit zurückgesetzt werden.
 
-Im Informationsfenster können Sie versteckte Objekte aus dem Objektbaum und über Auswahlen auswählen.
+Make others translucent - macht alles außer den ausgewählten Objekten durchsichtig
 
-Im Inhalts-Panel können Sie Objekte aus Eigenschaftsbibliotheken und Objekte auswählen, die mit Problemen oder Dokumenten verknüpft sind.
-
-Ausgewählte halbtransparente Objekte können zur Standardsichtbarkeit zurückgebracht werden, indem Sie Ausgewählte anzeigen oder Alle anzeigen.
-
-_Andere halbtransparent machen_
-
-Alles außer den ausgewählten Objekten halbtransparent machen
-
-Wählen Sie Alle anzeigen, um die Objekte zur Standardsichtbarkeit zurückzubringen.
+Alles einblenden, um die Standard-Sichtbarkeit der Objekte wiederherzustellen.
 
 ### 2.3 **Objekte ausblenden**
 
-Ausgeblendete Objekt(e) werden immer noch in Ihrem Systemspeicher geladen.
+Ausgeblendete Objekte werden weiterhin in den Speicher Ihres Systems geladen.
 
-_Ausblenden_
+Ausblenden - Verbirgt ein Objekt vor dem Betrachter
 
-Blendet ein Objekt aus dem Viewer aus
+Andere ausblenden - Blendet alle Objekte außer dem ausgewählten Objekt aus.
 
-_Andere ausblenden_
+Dies ist vergleichbar mit dem Isolieren von Objekten.
 
-Blenden Sie alle Objekte außer dem ausgewählten aus
+Die ausgeblendeten Objekte werden weiterhin in den Speicher geladen.
 
-Dies ist ähnlich wie das Isolieren von Objekten.
+## 3. **Kamera Optionen**
 
-Die ausgeblendeten Objekte werden immer noch im Speicher geladen.
+Im Dropdown-Menü für die Kameraoptionen können Sie Aussichtspunkte, Kameratypen und Ansichten auswählen.
 
-## 3. **Kameraoptionen**
+![](https://downloads.intercomcdn.com/i/o/845935508/86e4c1b7d88fdfb40f0f7d07/image.png?expires=1781092800&signature=aac651f948db272f37968ef90a2c772d653e666c740a3a8cb4d3a83373c34b79&req=fCQiH8p7mIFXFb4V1XW4gcQqT9X6Ij6rJydV%2B%2BkwDfFJa5PX0UUQQQVHgtkT%0AEeKRZ6TkapdGhy8kIB8YnQESWQ%3D%3D%0A)
 
-Das Dropdown-Menü für Kameraoptionen ermöglicht es Ihnen, Ansichtspunkte, Kameratypen und Ansichten auszuwählen.
+Wenn Sie das Dropdown-Menü der Kameraoptionen öffnen, kann es wie folgt aussehen:
 
-![](https://downloads.intercomcdn.com/i/o/845935508/86e4c1b7d88fdfb40f0f7d07/image.png?expires=1779991200&signature=655bcc8d656c09657a117ee9904072f9106343fd1f89869b348bf435372450d9&req=fCQiH8p7mIFXFb4V1XW4gcQqT9ryKz6oLSdV%2B%2BkwDfG1rtI0Yn7svdPKuiLS%0A8%2FWmd4I9OOLjySqW4UhTJwTGng%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/845954922/a6c46d974a660aa74ea4924e/image.png?expires=1781092800&signature=b1f756ae6870ea7dcda15427e2943b461c6635a603259b80ed084a39b184dbc6&req=fCQiH8x6lINdFb4V1XW4gdMHKO6aO8V%2BLK3pFWll8aEkosfsEQdiVJfZkSOs%0AxO6Py1ztc7lG2DU2KQ3P96H5gA%3D%3D%0A)
 
 ### 3.1 **Ansichtspunkt**
 
-So kann das Ansichtspunkt-Menü aussehen:
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1771080880/dcb903a0ced6103edee4a7a70f09/image.png?expires=1779991200&signature=2d0cfa0a9136315c4c0f296914d199c797975aa583dbb5264516ae7c292c5e58&req=dScgF8l2nYlXWfMW3nq%2BgXNoVJbAJnEbE7CtbOrtYWJEngS3p%2BZDBinvjBn%2B%0A52Q1B7FyPfj86S1BPir3iP%2FDFok%3D%0A)
-
-_Startseite_ - Setzen Sie den Viewer auf die Standardposition zurück
+Home - Zurücksetzen des Viewers auf die Standardposition
 
 Dies kann helfen, einen Überblick über alle im Viewer geladenen Modelle zu erhalten.
 
-Die folgenden Ansichten ermöglichen es Ihnen, das Modell von verschiedenen Seiten zu sehen:
+Mit den folgenden Ansichten können Sie das Modell von verschiedenen Seiten betrachten:
 
-_Hinten_
+Hinten - Betrachten des Modells von hinten
 
-Betrachten Sie das Modell von hinten
+Links - Betrachten Sie das Modell von der linken Seite
 
-_Links_
+Vorderseite - Betrachten Sie das Modell von der Vorderseite
 
-Betrachten Sie das Modell von links
+Rechts - Ansicht des Modells von der rechten Seite
 
-_Vorne_
+Diese Ansichten eignen sich hervorragend für die Erstellung von Schnitten durch vertikale Schnittebenen.
 
-Betrachten Sie das Modell von vorne
+Oben - Ansicht des Modells von oben
 
-_Rechts_
+Diese Ansicht eignet sich hervorragend für die Erstellung von Grundrissen, indem eine horizontale Schnittebene erstellt wird.
 
-Betrachten Sie das Modell von rechts
+### 3.2 **Kamera Type**
 
-Diese Ansichten eignen sich hervorragend zum Erstellen von Schnitten durch vertikale Schnittebenen.
+Perspektive - Standard - Lässt Sie das Modell wie einen Menschen sehen.
 
-_Oben_
+Dieser Kameratyp eignet sich hervorragend, um zu verstehen, wie es sein kann, im Modell zu sein.
 
-Betrachten Sie das Modell von oben
+Da sich die Kamera im Auge des Menschen befindet, können Sie durch Wände hindurchschauen.
 
-Diese Ansicht eignet sich hervorragend zum Erstellen von Grundrissen durch horizontale Schnittebenen.
+Das Sichtfeld für den Kameratyp Perspektive kann in den Betrachtereinstellungen angepasst werden.
 
-### 3.2 **Kameratyp**
+Orthografisch - Sie sehen das Modell, als ob Sie unendlich weit entfernt wären.
 
-So kann das Kameratypmenü aussehen:
+Dieser Kameratyp eignet sich hervorragend für die Planung, da Entfernungen leichter zu beurteilen sind.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1771082517/baca855e6cf24a2ece1f5cdb6355/image.png?expires=1779991200&signature=b50dd2ea23844eed61faa7667cb2e61e232fc5cc638b07724736cabf3cd5d5c9&req=dScgF8l2n4ReXvMW3nq%2Bgej5Tr4cvKVsBE5RMsJphVTXCMHJRhT9OHUadSBz%0AhrOa5Z0k77CsA6X%2BDGAR6CPdyCI%3D%0A)
-
-_Perspektive_ - Standard
-
-Ermöglicht es Ihnen, das Modell so zu sehen, wie es ein Mensch tut.
-
-Dieser Kameratyp eignet sich hervorragend zum Verständnis, wie es sein kann, sich im Modell zu befinden.
-
-Da sich die Kamera im menschlichen Auge befindet, können Sie durch Wände dringen.
-
-Das Sichtfeld für den Perspektiv-Kameratyp kann in den Viewer-Einstellungen angepasst werden.
-
-_Orthographisch_
-
-Ermöglicht es Ihnen, das Modell so zu sehen, als wären Sie unendlich weit entfernt.
-
-Dieser Kameratyp eignet sich hervorragend für die Planung, da Abstände leichter zu beurteilen sind.
-
-Da sich die Kamera unendlich weit entfernt befindet, kann sie nicht durch Objekte dringen und Sie müssen Objekte ausblenden oder halbtransparent machen, um zu sehen, was dahinter liegt.
+Da die Kamera unendlich weit entfernt ist, kann sie nicht durch Objekte hindurchschneiden, und Sie müssen Objekte ausblenden oder durchsichtig machen, um zu sehen, was sich hinter ihnen befindet.
 
 ### 3.3 **Ansicht**
 
-So kann das Ansichtsmenü aussehen:
+Regulär - Dünne Linien zur genauen Anzeige von Objekten. Ideal für Messungen.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1771070836/c99549c61bdff83b634ac7c1addb/image.png?expires=1779991200&signature=bc7738d0ef3fba7e109e49bb5a52165342272379d2c960b4395d6602c804a3e8&req=dScgF8l5nYlcX%2FMW3nq%2BgV5k%2BjE8lqrg2Qder8K9xU5P%2B%2FLeBLNTweCaU1Q3%0A%2BdqNRO3kX96vxummdwdK4M4g4T0%3D%0A)
+Kontur - In dieser Ansicht macht Cell Shading Linien an Ecken, deren Winkel von Ihnen weg zeigen, zu dickeren Linien, während Linien an Ecken, die Ihnen zugewandt sind, zu dünneren Linien werden.
 
-> **Hinweis:** Stellen Sie sicher, dass die Hardware und Software, auf der Catenda geöffnet ist, [wie empfohlen](https://support.catenda.com/en/articles/6921941-hardware-recommendation) konfiguriert sind, da dies Auswirkungen auf die Anzeige des Viewers haben kann. _Regulär_ Standardmäßig ist die reguläre Ansicht ausgewählt. Dünne Linien der genauen Objektanzeige. Großartig zum Messen. Wenn für ein Objekt in der IFC keine Farbe definiert ist, erhält das Objekt eine Farbe basierend auf der Entität, die für das Objekt konfiguriert ist. Die Entität finden Sie im Inspektionsmenü des Informationsfensters. Da es im Catenda Viewer keine Sonne oder künstliches Licht gibt, werfen Objekte keinen Schatten auf eine andere. Oberflächen werden nach ihrer flachen Farbe dargestellt und je nachdem abgedunkelt, ob die Kamera direkt auf sie schaut oder ob die Oberfläche von der Kamera abgewinkelt ist. _Kontur_ Cell Shading verwandelt Linien an Ecken mit Winkeln, die von Ihnen wegweisen, in dickere Linien, während Linien an Ecken, die zu Ihnen hin weisen, zu dünneren Linien werden. Dies erzeugt eine zusätzliche Tiefenschicht, aber die dicken Linien können genaue Messungen verdecken. Die Konturansicht eignet sich hervorragend zum Exportieren von Bildern. **Hinweis:** Stellen Sie sicher, dass die Hardware und Software, auf der Catenda geöffnet ist, [wie empfohlen](https://support.catenda.com/en/articles/6921941-hardware-recommendation) konfiguriert sind, da dies Auswirkungen auf die Schärfe der Linien haben kann. _Skizze_ Geeignet für Treffen mit externen Parteien, die eine einfache Anzeige des Modells benötigen. Objekte ohne in der IFC angegebene Farbe werden mit Grautönen und einer Textur gefärbt, damit die Oberflächen nicht so vollkommen flach aussehen. Fenster behalten ihre übliche transparente blaue Farbe bei. **Hinweis:** Stellen Sie sicher, dass die Hardware und Software, auf der Catenda geöffnet ist, [wie empfohlen](https://support.catenda.com/en/articles/6921941-hardware-recommendation) konfiguriert sind, da dies Auswirkungen auf die Schärfe der Linien haben kann.
+Dadurch entsteht eine zusätzliche Tiefenebene, aber die dicken Linien können präzise Messungen verdecken.
 
-## 4. **Werkzeug-Dropdown**
+Skizze - Diese Ansicht eignet sich hervorragend für Besprechungen mit externen Parteien, die eine einfache Darstellung des Modells benötigen.
 
-Oben rechts im 3D-Viewer finden Sie das 3D-Viewer-Werkzeug-Dropdown.
+Objekte, für die in der IFC keine Farbe angegeben ist, werden mit Grautönen und einer Textur eingefärbt, damit die Oberflächen nicht so perfekt flach aussehen.
 
-![](https://downloads.intercomcdn.com/i/o/845937060/1ca7b5ac77516dc51c3a93c3/image.png?expires=1779991200&signature=bdf3904d5dc7ec2f6cf0a0da25d46f2004ea61824835a4e9e9b547b434ffc206&req=fCQiH8p5nYdfFb4V1XW4gTzoO0VNmMZ8B7%2BbQNbtpirS9xEmRPSwJaC%2F13Xm%0AIwTw97T%2BYgmMG55ESpaQaY9tBA%3D%3D%0A)
+Fenster bleiben in ihrer üblichen durchsichtigen blauen Farbe.
 
-> **Hinweis:** Die Werkzeugtaste sieht normalerweise so aus, kann aber je nach ausgewähltem Werkzeug das Aussehen ändern. Das Werkzeug-Dropdown kann so aussehen: ![](https://downloads.intercomcdn.com/i/o/804653444/20efed171c9fe98b4e7f39fd/image.png?expires=1779991200&signature=bb7be770ab7884d09fd0246aee5fc9684433c241198a266e822cba96e628fb23&req=fCAjEMx9mYVbFb4V1XW4gc4hHZcDerhmo5Sk4SZRhd0JGqPPkgFJxeoDqI9t%0Atnt6dYCyv%2Bvy0ePbnV2LNdZf%2Fw%3D%3D%0A) Klicken Sie [hier](https://support.catenda.com/en/articles/4670294-measuring-features), um mehr über das Werkzeug-Dropdown zu erfahren.
+## 4. **Werkzeug Dropdown**
+
+Klicken Sie auf die dritte Schaltfläche oben rechts im 3D-Viewer, um die Werkzeuge des 3D-Viewers zu öffnen.
+
+Beachten Sie, dass diese Schaltfläche in der Regel wie folgt aussieht, aber je nachdem, welches Werkzeug Sie ausgewählt haben, ihr Aussehen ändern kann.
+
+![](https://downloads.intercomcdn.com/i/o/845937060/1ca7b5ac77516dc51c3a93c3/image.png?expires=1781092800&signature=427e4ffb9c19128ef735c3cda4048a450ef851944614dc9bf5adad1480f71e29&req=fCQiH8p5nYdfFb4V1XW4gTzoO0pFkcZ%2FDb%2BbQNbtpirSnEdU8dcf4wLokDE6%0Avaovwlsv%2Fh%2BC0dUzeK%2BmnOAfsw%3D%3D%0A)
+
+Wenn Sie dieses Menü öffnen, können Sie zwischen den folgenden Tools wählen.
+
+![](https://downloads.intercomcdn.com/i/o/804653444/20efed171c9fe98b4e7f39fd/image.png?expires=1781092800&signature=7c4399438d20397a4e8b2b6db29881b88e57b2fbe1fa8eb714b4ad976c2d0c9b&req=fCAjEMx9mYVbFb4V1XW4gc4hHZgLc7hlqZSk4SZRhd0dBa1kER8I0MU2LhE3%0AaagA5P6rA1o8toTpVhJKPvGQ9w%3D%3D%0A)
+
+### 4.1 **Objektwähler - Standard**
+
+Mit diesem Werkzeug können Sie Objekte auswählen
+
+Die Tastenkombination dafür ist die Leertaste
+
+### 4.2 **Schnittebene erstellen**
+
+Klicken Sie hier, um eine Schnittebene zu erstellen, die parallel zu dem Objekt verläuft, über das Sie den Mauszeiger halten.
+
+Klicken Sie hier, um mehr darüber zu erfahren, wie man Schnittebenen erstellt.
+
+### 4.3 **Messebene einstellen**
+
+Klicken Sie hier, um eine Messebene zu erstellen, die parallel zu dem Objekt verläuft, über dem Sie schweben.
+
+### 4.4 **Laser Messung**
+
+Messen Sie die Höhe zwischen Objekten.
+
+Klicken Sie hier, um mehr über das Lasermaß zu erfahren.
+
+Die Tastenkombination dafür ist m
+
+### 4.5 **Maßband**
+
+Entfernungen messen.
+
+Klicken Sie hier, um mehr über das Maßband zu erfahren
+
+Die Tastenkombination dafür ist Umschalt+m
+
+### 4.6 **Punktmessung**
+
+Koordinaten messen
+
+Die Tastenkombination hierfür ist ctrl+m
+
+### 4.7 **Messung löschen**
+
+Klicken Sie hier, um etwaige Messungen im Viewer zu löschen.
 
 ## 5. **Joystick**
 
 Wenn Sie auf diese Schaltfläche klicken, wird der Joystick auf dem Bildschirm angezeigt.
 
-Mit dem Joystick können Sie reibungslos durch das Modell im Perspektivenmodus fliegen und im orthografischen Modus um einen Mittelpunkt rotieren.
+Mit dem Joystick können Sie im perspektivischen Modus sanft durch das Modell fliegen und im orthografischen Modus um einen zentralen Punkt rotieren.
 
-![](https://downloads.intercomcdn.com/i/o/845937867/7f3876457beffb1c74bf31dc/image.png?expires=1779991200&signature=c941660b7b1a8d29eeff733e75923377edd37b73c8a551a82bc1f3b7c6f3b5a3&req=fCQiH8p5lYdYFb4V1XW4gb310BHAHQXujgk%2BOUECL3Z77ikkmxo0OoA18rDq%0AmkIWIfQTTYnJZsWjyMve0gWfUQ%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/845937867/7f3876457beffb1c74bf31dc/image.png?expires=1781092800&signature=540a4f152b9a5a4f5240ffaa4f8635c250b2f2b3bd67823103133f20433708b1&req=fCQiH8p5lYdYFb4V1XW4gb310B7IFAXthAk%2BOUECL3bUGE42a412wyDvJz97%0AV86LP7FZkDPJ6Qb6jXpHFKKLaA%3D%3D%0A)
 
-Wenn Sie den Joystick einschalten, ändert sich die Schaltfläche und erhält ein Dropdown.
+Wenn Sie den Joystick einschalten, werden Sie sehen, dass sich die Schaltfläche ändert und ein Dropdown erscheint.
 
-![](https://downloads.intercomcdn.com/i/o/804644706/1dca3934de6bdfc69808682c/image.png?expires=1779991200&signature=f36dbb2dfa174a88f1103d92de6b275d710fad3f17c93b173a377b8936d99aad&req=fCAjEM16moFZFb4V1XW4gbIbqQgQFEqc9t1y44y2D8%2BO08FRrwTlTATwEwqo%0A4iaFas0kG0TbPM2HsomIToA25w%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/804644706/1dca3934de6bdfc69808682c/image.png?expires=1781092800&signature=6c04ce14f64d3550dd638ce4b8661ba2f95e44bedbbd6498460a707c85e16723&req=fCAjEM16moFZFb4V1XW4gbIbqQcYHUqf%2FN1y44y2D89PsZCCOkLAlbBvjy2g%0AC71R7hmR0IR77B1hdmGXHcCMuw%3D%3D%0A)
 
-Mit dem Dropdown neben dem Joystick können Sie den Joystick-Standort konfigurieren:
+Mit der Dropdown-Liste neben dem Joystick können Sie die Position des Joysticks konfigurieren:
 
-- Mittelllinks
+- Mitte links
 - Unten links
-- Unten in der Mitte
+- Unten Mitte
 - Unten rechts
 - Mitte rechts
 
-## 6. **3D-Viewer-Einstellungen**
+## 6. **3D viewer Einstellungen**
 
-Klicken Sie auf diese Schaltfläche, um das Dropdown-Menü [3D-Viewer-Einstellungen](https://support.catenda.com/en/articles/5784718-3d-viewer-settings) zu öffnen
+Klicken Sie auf diese Schaltfläche, um die Dropdown-Liste der 3D-Viewer-Einstellungen zu öffnen
 
-![](https://downloads.intercomcdn.com/i/o/845938367/9e9984bbd7105bf8537bb8b3/image.png?expires=1779991200&signature=ff9d26a0b7f6c6695590422ef648eb4e35ca47d81dd0b5db380f56f302cd7908&req=fCQiH8p2nodYFb4V1XW4gYLR0mH6h3zB4WkkRKe%2FiBpgCRETUFt%2BXlU%2Fm9Kp%0AuLggDurs6XsLYiLG9CfMDPfvvw%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/845938367/9e9984bbd7105bf8537bb8b3/image.png?expires=1781092800&signature=c3da126235ae709ba657d95dec18a102759b2d176671ead07e3c6459df601800&req=fCQiH8p2nodYFb4V1XW4gYLR0m7yjnzC62kkRKe%2FiBqK1X%2B907yrYYkC0gij%0A2m%2F5LkD100N0clujzf8bFe6qSg%3D%3D%0A)
 
-## 7. **2D-Schaltfläche**
+## 7. **2D button**
 
-Klicken Sie auf diese Schaltfläche, um den [2D-Viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) zu öffnen
+Klicken Sie auf diese Schaltfläche, um den 2D-Viewer zu öffnen
 
-![](https://downloads.intercomcdn.com/i/o/845939667/1e322c693efb051d5c3ec7ea/image.png?expires=1779991200&signature=62b9bab9c7ceb9ac1ca7a12487e323485f6b868ae69a20cfc68fb5fdd573e51e&req=fCQiH8p3m4dYFb4V1XW4gVxq5sIds2lSzb4lkW7HbUS8dWBVIFQOgS%2F4FDA2%0AGy7XtmCwkMdv%2FeprubNqaysYCg%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/845939667/1e322c693efb051d5c3ec7ea/image.png?expires=1781092800&signature=cfb54617cf4b3cc98780cf4771ea2f278edf95890dc9e387bf74d656932cae6a&req=fCQiH8p3m4dYFb4V1XW4gVxq5s0VumlRx74lkW7HbURpLJ8HNTsTsb7UV7Y5%0ALNeq4VLEuwXqVgpOjp%2BR6pbCAw%3D%3D%0A)
 
-## 8. **Objektinformationsfußzeile**
+## 8. **Fußzeile mit Objektinformationen**
 
-Standardmäßig wird unten im Viewer eine Fußzeile angezeigt, wenn Sie ein Objekt auswählen.
+Standardmäßig wird eine Fußzeile am unteren Rand des Viewers angezeigt, wenn Sie ein Objekt auswählen.
 
-![](https://downloads.intercomcdn.com/i/o/1019401439/4d388129fa2d03729dc31e76/image.png?expires=1779991200&signature=1e2d5d45ea86b0f1def0eb6a8971448b722b63f290a425a481abb2c141ee540d&req=dSAmH81%2BnIVcUPMW3nq%2BgexpaN7X8l172Nva71O74Sd38%2BeLDn9nwcCn9rt4%0AVVFDa%2BxynIdig3UVk3DaJMm28ts%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/1019401439/4d388129fa2d03729dc31e76/image.png?expires=1781092800&signature=8226e828d98cdd31b599b394fba4e2ec59e8c1e3c126645dab15dbf6b331ac18&req=dSAmH81%2BnIVcUPMW3nq%2BgexpaN7Y%2BlR729Ha71O74SeM86iwuqs0ePlwTMH3%0A2%2BihTr%2FwOFbdxLvQ6DuD8l79lAg%3D%0A)
 
-Diese Fußzeile kann Informationen zu Themen und Bibliothekselementen enthalten, die mit dem Objekt verknüpft sind.
+Diese Fußzeile kann Informationen über Themen und Bibliothekselemente enthalten, die mit dem Objekt verknüpft sind.
 
 ### 8.1 **Identifikation**
 
-Objektname - Objektentität - Objekttyp
+Objektname - Objekteinheit - Objekttyp
 
-Wenn mehrere Objekte ausgewählt sind, wird dies als undefiniert angezeigt.
+Wenn mehrere Objekte ausgewählt sind, wird hier undefiniert angezeigt.
 
-### 8.2 **Themeninformationen**
+### 8.2 **Themen Information**
 
-_Offen_
+Offen
 
-Anzahl der offenen Probleme (Rot)
+Anzahl der offenen Fragen (rot)
 
-Klicken Sie auf "Offen", um alle offenen Probleme anzuzeigen, bei denen dieses Objekt im rechten Fenster verknüpft ist.
+Klicken Sie auf "Offen", um alle offenen Fragen, mit denen dieses Objekt verknüpft ist, im rechten Fenster anzuzeigen.
 
-_Geschlossen_
+Geschlossen
 
-Anzahl der geschlossenen Probleme (Grün)
+Anzahl der abgeschlossenen Vorgänge (Grün)
 
-Klicken Sie auf "Geschlossen", um alle geschlossenen Probleme anzuzeigen, bei denen dieses Objekt im rechten Fenster verknüpft ist.
+Klicken Sie auf "Abgeschlossen", um alle abgeschlossenen Vorgänge zu sehen, mit denen dieses Objekt im rechten Bereich verknüpft ist.
 
-### 8.3 **Bibliotheken**
+### 8.3 **Bibliothek**
 
 Wenn Sie Ihr ausgewähltes Objekt mit Bibliotheken auf Catenda Hub verknüpft haben, können Sie die Bibliothek mit der Anzahl der Verknüpfungen in der Informationsfußzeile sehen.
 
-_SharePoint_
+SharePoint
 
 Wenn Sie Ihr ausgewähltes Objekt mit SharePoint-Dokumenten verknüpft haben, sehen Sie hier den Namen der SharePoint-Bibliothek mit der Anzahl der verknüpften Dokumente
 
-_Dokumente_
+Dokumente
 
-Wenn Sie Ihr ausgewähltes Objekt mit Dokumenten auf der Dokumentenseite verknüpft haben, können Sie diese unter Dokumente anzeigen und mit der Anzahl der verknüpften Dokumente.
+Wenn Sie Ihr ausgewähltes Objekt mit Dokumenten auf der Seite Dokumente verknüpft haben, sehen Sie diese unter Dokumente und die Anzahl der verknüpften Dokumente hier.
 
-_Klassifizierung_
+Klassifizierung
 
 Wenn Sie Ihr ausgewähltes Objekt mit Klassifizierungen verknüpft haben, können Sie hier den Namen der Klassifizierung und die Anzahl der verknüpften Klassifizierungen sehen.
 
-_Links_
+Verknüpfungen
 
-Wenn Sie Ihr ausgewähltes Objekt mit Links aus der Link-Bibliothek verknüpft haben, können Sie hier "Links" und die Anzahl der verknüpften Links sehen.
+Wenn Sie Ihr ausgewähltes Objekt mit Links aus der Linksammlung verknüpft haben, sehen Sie hier "Links" und die Anzahl der verknüpften Links.
 
-_Dropbox_
+Dropbox
 
-Wenn Sie Ihr ausgewähltes Objekt mit Dropbox-Dokumenten verknüpft haben, sehen Sie hier den Namen der Dropbox-Bibliothek mit der Anzahl der verknüpften Dokumente.
+Wenn Sie Ihr ausgewähltes Objekt mit irgendwelchen Dropbox-Dokumenten verknüpft haben, sehen Sie hier den Namen der Dropbox-Bibliothek mit der Anzahl der verknüpften Dokumente.
 
-### 8.4 **Ausblenden der Objektinformationsfußzeile**
+### 8.4 Ausblenden der Fußzeile mit den Objektinformationen
 
-Klicken Sie auf das x, um die Objektinformationsfußzeile aus dem 3D-Viewer auszublenden.
+Klicken Sie auf das x, um die Fußzeile mit den Objektinformationen aus dem 3D-Viewer auszublenden.
 
-### 8.5 **Anzeigen der Objektinformationsfußzeile**
+### 8.5 Anzeigen der Fußzeile mit den Objektinformationen
 
-Wenn Sie die Informationsfußzeile geschlossen haben, können Sie sie mit der i-Schaltfläche unten im 2D-Viewer oder der 2D-Schaltfläche wieder öffnen.
+Wenn Sie sich entschieden haben, die Fußzeile zu schließen, können Sie sie mit der Schaltfläche i unter dem 2D-Viewer oder der Schaltfläche 2D wieder öffnen.
 
-![](https://downloads.intercomcdn.com/i/o/845975138/79609e6f5263c78b91a8152f/image.png?expires=1779991200&signature=b10a41f57a75c5be173d2718ffc42a1509247af2ac1cd03ba18b5a2962a65ac2&req=fCQiH857nIJXFb4V1XW4gXsOoCeuZTb0ZfYItxH8K2AcssoIeV2XCJbKjZ9L%0AGjwh8rDyqB8VhGaiVygcSyjHjA%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/845975138/79609e6f5263c78b91a8152f/image.png?expires=1781092800&signature=68f8a6450380eb7558f430d0c1d8fadd506499954081939452648624a715b0e4&req=fCQiH857nIJXFb4V1XW4gXsOoCimbDb3b%2FYItxH8K2AAZSL%2FZ%2BDM8Omi9hPu%0A%2FnGAdl5QEaZU1sR%2B%2BnUJl7nQaw%3D%3D%0A)
 
-## 9. **Optionsmenü**
+## 9. **Optionen Menü**
 
-Wenn Sie im 3D-Viewer mit der rechten Maustaste klicken, wird das [Optionsmenü](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Double%20click-,Options%20menu,-Show%20all) angezeigt.
+Wenn Sie mit der rechten Maustaste in den 3D-Viewer klicken, wird das Optionsmenü angezeigt.
 
 ## 10. **Exportieren eines Bildes**
 
-Die beste Möglichkeit, ein Bild aus dem 3D-Viewer zu exportieren, ist die Erstellung eines [3D-Snapshots](https://support.catenda.com/en/articles/8053352-issue-body#h_1ba7f8873f).
+Der beste Weg, ein Bild aus dem 3D-Viewer zu exportieren, ist die Erstellung eines 3D-Schnappschusses.
 
 # Benutzerhandbuch - Status Workflow (ISO 19650)
 
@@ -739,10 +759,6 @@ Klicken Sie mit der rechten Maustaste auf den Ordner, in den Sie herunterladen m
 
 > **Note:** **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Hilfeartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
-Die folgenden Themen werden in diesem Artikel beschrieben:
-
-[Über das Plugin ](#h_dd43492fc3)- [Cloud-basierte Zusammenarbeit ](#h_93e4db7827)- [Offene Standards](#h_28b75ecd97)
-
 ## 1. Über das Plugin
 
 Das Catenda Hub Add-In für Autodesk® NavisWorks® ist das perfekte Werkzeug für Projekte, die in Catenda Hub zusammenarbeiten. Alle Ihre Issues werden in Echtzeit zwischen NavisWorks und Catenda Hub synchronisiert, so dass Sie Issues erstellen, darauf zugreifen, teilen und kommunizieren können. Das Issue-Format ist BCF, so dass die Issues über jede BCF-fähige BIM-Software oder -Plattform ausgetauscht werden können.
@@ -848,6 +864,8 @@ Klicken Sie auf Download, um das Bild herunterzuladen (Sie können nicht mit der
 Verankern Sie das Bild-Pop-Out mit dem Pin-Symbol oben rechts, um das Bild-Pop-Out geöffnet zu lassen, während Sie zu anderen Bereichen von Catenda Hub navigieren.
 
 Schließen Sie das Bild-Pop-Out, indem Sie oben rechts auf das x klicken, unten rechts auf schließen klicken oder die Taste esc auf der Tastatur drücken.
+
+Ein Kommentar kann einen der folgenden 3 Anhänge haben:
 
 ### 7.2 Bild
 
@@ -1171,170 +1189,52 @@ Wenn Sie einen ZIP-Ordner hochladen möchten, gehen Sie bitte wie folgt vor:
 
 ![](https://downloads.intercomcdn.com/i/o/797827023/a8a65ed9c161b4756c6d9538/image.png?expires=1781092800&signature=b17080303d3104fe7a0d85c5c4b39f95640afa1a23ed25c7b4d1b3a5f275cbfb&req=cykgHst5nYNcFb4V1XW4gT%2FA99MT5CqQkd%2Fan7g3vUkrjEEPLNuXIUVSI9uq%0AUf1YULdOtXkaE6W8h2mjvPl9dg%3D%3D%0A)
 
-# Modellseite
+# Modelle
 
-Auf der Modellseite können alle IFC-Dokumente angezeigt werden, die mit einem Modell verknüpft sind.
+Die Seite Modelle enthält die Modelle für jede Disziplin.
 
-Typischerweise findet sich hier für jede Disziplin ein Modell.
+![](https://downloads.intercomcdn.com/i/o/780870199/9cac2e02966c9aabc9a3c751/image.png?expires=1780444800&signature=a591a0dbfe13a188b98264f99437f3936f8e9ef3bdf6c1530257d7aabba5a19e&req=cygnHs5%2BnIhWFb4V1XW4gUPuuS848GA3Rlvc%2FKmdN0wBzhfyWRkSGs6WUa6c%0AzPz7tmu9f8v7rHKkHEacYPbB3Q%3D%3D%0A)
+Auf der Seite Modelle sehen Sie eine Liste aller Modelle.
 
-So kann die Modellseite aussehen:
+![](https://downloads.intercomcdn.com/i/o/780870632/d891ab7ca5f3bc950b19f58f/image.png?expires=1780444800&signature=ee3c12e611b1da25f105d864bc45c8077b4987542323c9691a906904225a0db7&req=cygnHs5%2Bm4JdFb4V1XW4gTZYhhWTlFl4PqOvJGFiTySEipGt187ku0Vtq%2Br9%0Aum6oap5UgHvH9u4GEfzKD%2BTrkA%3D%3D%0A)
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/2203323683/82b10239e244add177a8bb2ecaf2/image.png?expires=1779991200&signature=112f66a4c5fdcd9d6632994f20feef4b5d7b3cf039d5c3357676546feebcf81d&req=diInFcp8nodXWvMW3nq%2BgePkqh8vttJuPHq%2BMTzSrlPzf1umP6Fb8o4codg8%0ADblgeYLIxh%2B5Sj5gH9wZexTpxD4%3D%0A)
+## 1. Modelle im Viewer öffnen
+Es ist möglich, alle ausgewählten Modelle zu laden, indem Sie auf die Schaltfläche 3D oben neben den ausgewählten Modellen klicken.
 
-Die Modellseite ist die zweite Seite im linken Navigationsmenü eines Projekts.
+![](https://downloads.intercomcdn.com/i/o/780871114/88ee16510b82a2b99230ff05/image.png?expires=1780444800&signature=8e87b649363487754072d12fa67fabe4741ccda87a3bae7ac5858a46b536ef12&req=cygnHs5%2FnIBbFb4V1XW4gd13wHGyfZn2%2BK%2Bg6X7M8OD%2FgYDWw4hP8OQNUvVZ%0Ak7UvOLGXskES3cexleIPD8gelw%3D%3D%0A)
 
-Diese Seite ist Teil des [Inhaltsbereichs](https://support.catenda.com/en/articles/13141464-project-panels#h_74710f7a33).
+Es ist möglich, bestimmte Modelle in 2D und 3D zu öffnen, indem Sie auf die entsprechenden Schaltflächen klicken.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/2203330265/60c65eaafc1fe9c98d0b014ea0aa/image.png?expires=1779991200&signature=60ea6cff27fdcf17b08461d5151323b964a0b8ea989c307fc99f378d30d31214&req=diInFcp9nYNZXPMW3nq%2BgStsWwQs4heuYwJav0Xdgn52pMkdUyvcWMbbKx9o%0AifRAPzYK695%2FggCVJcgOi7qE7jI%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/753287059/8975e19f85e6e142200ab3cb/image.png?expires=1780444800&signature=8cb4a95bd9609403b80b22414f12db06597a71e9ce4b5e2274a48b9e12fa0ccd&req=cyUkFMF5nYRWFb4V1XW4gX2jt6Vgl9qSfjT24VXDb64APzpQdjj0R8Envv6i%0A8MIBd3MLpy%2BkuENZOt9VYcjFfA%3D%3D%0A)
 
-## 1. **Neue Elementaktionen**
+Wenn Sie Zugang zum Herunterladen von Modellen haben, können Sie auf die Schaltfläche Download klicken, um die neueste Revision eines Modells als ifc-Datei herunterzuladen.
 
-Die neuen Elementaktionen finden Sie oben rechts auf der Seite.
+![](https://downloads.intercomcdn.com/i/o/753302330/c3f919e6fdb4c309d8dc153c/image.png?expires=1780444800&signature=68364e89ca512cf8944974867b426888b7b8745b7679bbb060cd78414fe90c82&req=cyUkFcl8noJfFb4V1XW4gYrvct9N55WI18qOS6Dcqn1TREQlwrTdKC%2Fupdi%2F%0AjDnBFssfEKPwxsDENkISQp9IBA%3D%3D%0A)
 
-![](https://downloads.intercomcdn.com/i/o/1073698722/6af87f1f6e6ea72898acb52c/image.png?expires=1779991200&signature=50bf70be1296344f658a03208de1e403f32fb1946b3b1aedb30b23db24b34879&req=dSAgFc93lYZdW%2FMW3nq%2BgagieBq6DzUAhbudhYsZTBOAag80bA6ZoPRilQ1q%0A2cTeuV31GfQVHkIZ%2ByJU15YiKJ8%3D%0A)
+## 2. Modelle oberste Tasten
+Wenn Sie Zugang zum Erstellen oder Herunterladen von Modellen haben, sehen Sie die entsprechenden Schaltflächen oben rechts.
 
-Siehe [hier](https://support.catenda.com/en/articles/9431936-actions-on-the-models-page) für weitere Informationen zu den verschiedenen Aktionen.
+![](https://downloads.intercomcdn.com/i/o/780871412/32f0254d9344b386eadb2548/image.png?expires=1780444800&signature=5b598a3ad96c6f16f534b05a152acbb9a2a62e8aaf6748b830add6716d50a1ca&req=cygnHs5%2FmYBdFb4V1XW4gYJruUiOhPEB91QuPs4N0k2%2BnkbG9Q5Xt%2FlivdCa%0ALgrKbt0ly5C%2BbNyqmnRb8513qg%3D%3D%0A)
 
-## 2. **Such- oder Filteroptionen**
+- Neues Modell - Erstellen Sie ein neues Modell
+- Exporte - Exportieren Sie eine Gruppe von Modellen
 
-Siehe [hier](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page) für weitere Informationen zum Suchen und Filtern auf der Modellseite:
+## 3. Modell Seite
+Für jedes Modell ist die letzte Revision des Modells die Standardauswahl. Wenn Sie auf ein Modell klicken, werden Sie auf die Modellseite weitergeleitet, die zu diesem Modell gehört.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1702848368/4c99fc064c7351e524831d7686e6/image.png?expires=1779991200&signature=1ade06ead1a0b9ca23aaac2f4ae2a0fd9ce8f0cfcba69fe0403a44220b7f6076&req=dScnFMF6lYJZUfMW3nq%2BgVPl8vbHmkmDhmOZUW1XEw2rSFTXXevw1%2FKGTqXi%0A4VSeYcm72PXgAVmZzTKYrvr7cV8%3D%0A)
+## 4. Unterseiten
+Als Unterseiten der Seite Modelle können Sie die folgenden Seiten finden:
 
-## 3. **Menü rechts**
+- [Lesezeichen](https://support.catenda.com/de/articles/4670281-lesezeichen)
+- [Geschoss-Konfigurator](https://support.catenda.com/de/articles/6921756-geschosskonfigurator-seite)
 
-Wenn Modellzeilen in der Modelltabelle ausgewählt sind, wird rechts neben der Such- oder Filterleiste eine Infotaste angezeigt.
+## 5. Tipp:
+In der Schnellauswahl im 3D-Viewer können Sie  jederzeit Modelle weiterer Fachdisziplinen dazuladen, ohne den Kontext verlassen zu müssen:
 
-Die Infotaste kann so aussehen:
+![](https://downloads.intercomcdn.com/i/o/780873230/03f2d9d66ce1e368b51e0d9d/image.png?expires=1780444800&signature=505b36dc18b05fc26d735dfd33aecc48a758166ae28b544df81080ec44a0e9d9&req=cygnHs59n4JfFb4V1XW4gU4z0NSOKO6UJXF68WfxYMpJdVnfu5JO0zdCvtwC%0AEwysaVSnsaslQMqMh5hbeZsIbA%3D%3D%0A)
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1648971372/9fd3240d0c44670ff04aee9db307/image.png?expires=1779991200&signature=9c50ae28073d1e9b8da1cb4c67d2fc02722c9cdc518484238e3f54585d574cd4&req=dSYjHsB5nIJYW%2FMW3nq%2BgV2khwPU8bJuVI5FqnZi3GpYUNxb7OEDivpTRdhB%0AklV3QpfH7kWTCBJD2IHsFV0CqXw%3D%0A)
-
-Im rechten Menü können Sie folgende Informationen sehen:
-
-- _Bild_
-- _Dokumentverknüpfung_
-- _Status_
-- _Beschriftungen_
-- _Mitwirkende_
-- _Modelltransformation_
-  Klicken Sie [hier](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page) für weitere Informationen zum Menü rechts auf der Modellseite.
-
-## 4. **Modelltabelle**
-
-Die Modelltabelle kann so aussehen:
-
-![](https://downloads.intercomcdn.com/i/o/1084148163/771ca24e30021b9f81818b16/image.png?expires=1779991200&signature=3cf2c4f7ae1a482e44c15b4381a46e0aeb2c7a634623f052a151cd20a897529d&req=dSAvEsh6lYBZWvMW3nq%2BgbOE%2BbrbIIUSPjn7pAh%2FlmkRLZ3siZDisvDqtyQv%0A6kRf7QJtz%2BwT4qATXkSHsO7y8m8%3D%0A)
-
-Sobald ein Modell erstellt wird, wird es als Zeile in der Modelltabelle angezeigt.
-
-Klicken Sie [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) für weitere Informationen zum Arbeiten mit Tabellen in Catenda.
-
-### 4.1 **Aktionen für ausgewählte Elemente**
-
-Nach der Auswahl einer Modellzeile werden Aktionen für ausgewählte Elemente oben in der Modelltabelle angezeigt.
-
-So kann das Menü für Aktionen ausgewählter Elemente aussehen:
-
-![](https://downloads.intercomcdn.com/i/o/1073737628/f84fc5ab3bdcfe0e17a700f7/image.png?expires=1779991200&signature=44e3647b3f00aaec20783fafe274fa7ade7c7d92f1e292e5115a0808cb980766&req=dSAgFc59moddUfMW3nq%2BgUjHsqM4rHFy%2FcdW6jmAmOTRGp6IuBrx276TD9Hq%0ANE1z7wdtviILqGIOZxJklpncTRE%3D%0A)
-
-Klicken Sie [hier](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed) für weitere Informationen zu den verschiedenen Aktionen für ausgewählte Elemente.
-
-### 4.2 **Zeileninhalt**
-
-Wenn die Tabelle zum ersten Mal geladen wird, werden bis zu 100 Zeilen angezeigt.
-
-Wenn die Tabelle mehr als 100 Zeilen enthält, scrollen Sie nach unten zum Ende, um die nächsten 100 Zeilen zu laden.
-
-Jede Modellzeile ist mit einem Dokument auf der Seite "Dokumente" verknüpft.
-
-_Zugriff_
-
-Modellzeilen werden basierend auf dem Zugriff auf das Dokument angezeigt, das mit dem Modell verknüpft ist.
-
-_Erforderlicher Zugriff - _Lesen
-
-Durch Öffnen des Inhalts einer Modellzeile wird die [Modellübersichtsseite](https://support.catenda.com/en/articles/4670270-model-page) dieses Modells geöffnet.
-
-_2D- und 3D-Schaltflächen_
-
-Bei 2D wird das 3D-Fenster geöffnet und die erste Geschichte der neuesten Revision des Modells wird in den 2D-Viewer geladen.
-
-Bei 3D wird das 3D-Fenster geöffnet und die neueste Revision des Modells wird in 3D geladen.
-
-### 4.3 **Zeileninhalt mit Status-Workflow - Entwurfsrevisionen**
-
-_Zugriff_
-
-Modellzeilen von Modellen mit nur Entwurfsrevisionen haben keine 2D- und 3D-Schaltflächen, da Entwurfsrevisionen nicht in 2D oder 3D geladen werden können.
-
-> **Hinweis:** Entwurfsrevisionen werden nicht auf der [Modellübersichtsseite](https://support.catenda.com/en/articles/4670270-model-page) angezeigt. _2D- und 3D-Schaltflächen_ Die 2D- und 3D-Ansichten der neuesten veröffentlichten Revision werden geöffnet, auch wenn neuere Entwurfsrevisionen vorhanden sind.
-
-### 4.4 **Zeileninhalt mit Status-Workflow - Arbeitsbereich-Registerkarte**
-
-_Zugriff_
-
-Modellzeilen werden basierend auf dem Zugriff auf das Dokument angezeigt, das mit dem Modell verknüpft ist.
-
-Mit Zugriff auf das Anzeigen gemeinsam genutzter Revisionen wird die neueste Revision angezeigt.
-
-_Erforderlicher Zugriff_ - Zugriff auf das Anzeigen gemeinsam genutzter Revisionen im Dokument
-
-Ohne Zugriff auf das Anzeigen gemeinsam genutzter Revisionen wird die neueste veröffentlichte Revision angezeigt. Auch wenn neuere gemeinsam genutzte Revisionen vorhanden sind.
-
-_Erforderlicher Zugriff - _Lesezugriff auf das Dokument
-
-_2D- und 3D-Schaltflächen_
-
-Die 2D- und 3D-Ansichten der neuesten Revision, auf die ein Benutzer Zugriff hat, werden geöffnet.
-
-### 4.5 **Zeileninhalt mit Status-Workflow - Registerkarte "Veröffentlicht"**
-
-_Zugriff_
-
-Modellzeilen werden basierend auf dem Zugriff auf das Dokument angezeigt, das mit dem Modell verknüpft ist.
-
-_Erforderlicher Zugriff - _Lesen
-
-_2D- und 3D-Schaltflächen_
-
-Die 2D- und 3D-Ansichten der neuesten veröffentlichten Revision werden geöffnet, auch wenn neuere gemeinsam genutzte Revisionen vorhanden sind.
-
-### 4.6 **Spalten**
-
-Abhängig davon, ob ein einzelnes Fenster oder mehrere Fenster geöffnet sind, können unterschiedliche Informationen angezeigt werden.
-
-Einige Spalten in der Tabellenansicht der Themen-Seite sind standardmäßig aktiviert, während andere ausgeblendet und aktiviert werden müssen.
-
-Basierend auf der konfigurierten Spaltenreihenfolge werden die ersten Spalten angezeigt.
-
-Basierend auf der konfigurierten Spaltenbreite können weniger oder zusätzliche Spalten angezeigt werden.
-
-Die Tabelle muss möglicherweise seitwärts gescrollt werden, um andere aktivierte Spalten anzuzeigen.
-
-Klicken Sie [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) für weitere Informationen zum Arbeiten mit Tabellen.
-
-Die standardmäßige Spaltenreihenfolge und -sichtbarkeitseinstellung auf der Modellseite ist wie folgt:
-
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80;"><h3 id="h_ec767816e6"><b>Modelltabellenspalten</b></h3></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Kontrollkästchen</i> - Standard</p></td></tr><tr><td><p class="no-margin">Auswählen von Modellen</p></td></tr><tr><td><p class="no-margin">Klicken Sie auf diese Spalte, um ein Modell zu Ihrer Auswahl hinzuzufügen.</p><p class="no-margin">Klicken Sie <a class="intercom-content-link" href="https://support.catenda.com/en/articles/11748020-tables-on-catenda" target="_blank">hier</a> für weitere Informationen zum Auswählen von Zeilen in einer Tabelle.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Viewer - </i>Standard</p></td></tr><tr><td><p class="no-margin">Lade-Schaltflächen</p></td></tr><tr><td><p class="no-margin">Wenn dies ein neues Modell ist und es noch keine öffentlichen Revisionen gibt, ist diese Spalte leer.
-Nach dem Importieren eines Modells wird mit der Verarbeitung begonnen. Sie sehen ein graues Ausrufezeichen.
-​ </p><p class="intercom-align-center no-margin"><img alt="Processing" src="https://downloads.intercomcdn.com/i/o/1128820332/6439f9053578575ccfb0da71/image.png?expires=1775952000&amp;signature=d2d5730cff9ef0e4f5464ce075b9fb183c725c0dea10d37422bc6a936e64eac3&amp;req=dSElHsF8nYJcW%2FMW3Hu4gawWDOtZAjnxXc5RcM%2BYJyOQMppOb7OjFRATiTdO%0AHA%3D%3D%0A" width="229.375"/>    /    <img alt="" src="https://downloads.intercomcdn.com/i/o/1128822000/24966190ab877efd53a395f7/image.png?expires=1775952000&amp;signature=01c9a60d8a0e702b0fef66a995ed054f87ce2a99edefe00a40cef9730f30fb61&amp;req=dSElHsF8n4FfWfMW3Hu4gRp3B%2FaY1i%2FAjI5Vqwq68Zs5AuWQ4GJG%2FeSZ9F13%0Apg%3D%3D%0A" width="40"/></p><p class="no-margin">
-Wenn die Verarbeitung der neuesten Modellrevision fehlgeschlagen ist, wird ein rotes Ausrufezeichen angezeigt.</p><p class="no-margin"></p>
-<p class="intercom-align-center no-margin"><img alt="Failed" src="https://downloads.intercomcdn.com/i/o/1128818838/685853c34add580b5d8b79ab/image.png?expires=1775952000&amp;signature=9b1e8643ef4de33e8305caf8aa5cfefaafaa1f3e92eb05e28c8c7ebbb6dfc163&amp;req=dSElHsF%2FlYlcUfMW3Hu4gclVforUPGKFV5YEOKsbNlHs3ivdc35j5phODe8m%0A9A%3D%3D%0A" width="148.57142857142858"/>    /   <img alt="" src="https://downloads.intercomcdn.com/i/o/1128813631/d16bb86de7aca1c8ca7ccb80/image.png?expires=1775952000&amp;signature=c333c15082b31af4fb269e1fc4c06a60e373e3e5b4e66e4674033129e63c55e6&amp;req=dSElHsF%2FnodcWPMW3Hu4gdlodHnyyafYkFUlJf6UCOwP1mk%2FF14gXNf3hfPL%0AVw%3D%3D%0A" width="39.583333333333336"/></p><p class="no-margin"></p>
-<p class="no-margin">Fahren Sie mit der Maus über das Ausrufezeichen, um zu sehen, welches Modell fehlgeschlagen ist. Wenn Sie auf 3D klicken, wird die neueste gültige Revision statt der neuesten Revision geladen.
-Wenn es öffentliche Revisionen gibt, sehen Sie hier eine 2D-, 3D- und Zoom-auf-Ausdehnung-Schaltfläche, die zusammen mit dem <a class="intercom-content-link" href="https://support.catenda.com/en/articles/4854537-2d-viewer" target="_blank">2D-Viewer</a> und dem <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8227211-3d-viewer" target="_blank">3D-Viewer</a> verwendet wird.</p><p class="no-margin"></p>
-<div class="intercom-container intercom-align-center"><img alt="2D 3D" src="https://downloads.intercomcdn.com/i/o/1082115963/a53e8f74473c0b5b0c22fc6b/image.png?expires=1779991200&amp;signature=e947eb25325ae494beb3b906fb78d6d51e54046022a1b665a1d4419db3619705&amp;req=dSAvFMh%2FmIhZWvMW3nq%2BgQBR4yJc1QMifJ2Xkg0rEHuxA0F7SLdJWIWNTv2c%0Ao1MDihxPmxuxMQ8pXyt5KZ6uv4k%3D%0A" width="131"/></div><p class="no-margin"></p>
-<p class="no-margin"><i>Erforderlicher Zugriff:</i> Lesezugriff auf das Modell-Dokument</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Hinweis 1:</b> Die Zoom-auf-Ausdehnung-Schaltfläche wird grau angezeigt, bis Sie das Modell in 3D laden.</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Hinweis 2:</b> Wenn sich ein Ausrufezeichen auf der 3D-Schaltfläche befindet und die 2D- und 3D-Schaltflächen ausgegraut sind, fahren Sie mit der Maus über das Ausrufezeichen, um zu sehen, was nicht stimmt.</p><p class="no-margin">Sie können die vorherige Revision trotzdem öffnen, indem Sie auf den Modellnamen klicken.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Kurzname</i> - Standard</p></td></tr><tr><td><p class="no-margin">Der Name des Modells</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Hinweis 1:</b> Der Modellname des Modells kann sich vom Namen des mit dem Modell verknüpften Dokuments oder dem Namen der Revision unterscheiden.</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Hinweis 2:</b> Wenn Sie keinen Zugriff auf das Dokument haben, mit dem das Modell verknüpft ist, wird seine Zeile in der Modelltabelle nicht angezeigt. Sie können seinen Modellnamen jedoch noch in der Revisionsauswahl sehen.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Dokumentname</i></p></td></tr><tr><td><p class="no-margin">Der Name des mit dem Modell-Dokument verknüpften Dokument-Modells.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Revision </i>- Standard</p></td></tr><tr><td><p class="no-margin">Die Anzahl der öffentlichen Revisionen im Dokument-Modell</p></td></tr><tr><td><p class="no-margin">Wenn ein Modell von der Modellseite hinzugefügt wurde, hat es noch keine Revisionen.
-Statt einer Revisionsnummer wird das folgende Symbol angezeigt, auf das Sie klicken können, um die erste Revision hochzuladen.</p><p class="no-margin"></p>
-<div class="intercom-container intercom-align-center"><img src="https://downloads.intercomcdn.com/i/o/1128796790/433007f5c08e12a46a1cf72e/image.png?expires=1779991200&amp;signature=6d2769c236522b8add72ad1459efbfd3edea361596758a5e4a0fdaead6fb31f9&amp;req=dSElHs53m4ZWWfMW3nq%2BgUJAq5%2Fne8p%2FnydcowhE3pLyS2kmGK2JVLf86cKP%0A9OyFoh%2BA1DcSJq8Gbrr%2BZWcg9Q8%3D%0A" width="47"/></div><p class="no-margin"></p>
-</td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Revisionskommentar</i></p></td></tr><tr><td><p class="no-margin">Der Kommentar, mit dem die Revision hochgeladen wurde (nur Legacy)</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Revisionsname</i></p></td></tr><tr><td><p class="no-margin">Der Name der neuesten öffentlich zugänglichen Dokument-Modell-Revision. Kann nach dem Hochladen nicht geändert werden.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Status</i> - Standard</p></td></tr><tr><td><p class="no-margin">Der Status der neuesten öffentlich zugänglichen Dokument-Modell-Revision. Öffentliche Status können in <a class="intercom-content-link" href="https://support.catenda.com/en/articles/7831371-document-settings" target="_blank">Dokumenteinstellungen</a> aktiviert werden.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Größe</i> - Standard</p></td></tr><tr><td><p class="no-margin">Die Dateigröße der neuesten öffentlich zugänglichen Dokument-Modell-Revision</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Beschriftungen</i> - Standard</p></td></tr><tr><td><p class="no-margin">Die mit dem Modell-Dokument verbundenen Beschriftungen.</p></td></tr><tr><td><p class="no-margin">Eine Beschriftung kann nach dem Hochladen der ersten Revision angewendet werden.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Dokument erstellt</i></p></td></tr><tr><td><p class="no-margin">Die Person, die das Dokument-Modell erstellt hat, sowie Datum und Uhrzeit der Erstellung.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Veröffentlicht</i> - Standard</p></td></tr><tr><td><p class="no-margin">Die Person, die die zuletzt veröffentlichte Revision im Dokument-Modell veröffentlicht hat, sowie Datum und Uhrzeit der Veröffentlichung.</p></td></tr></tbody></table></div>
-
-## 5. **Unterskripts**
-
-Als Unterskripts zur Modellseite werden Sie die folgenden Seiten finden:
-
-- [Lesezeichen](https://support.catenda.com/en/articles/4670281-bookmarks)
-- [Objekte](https://support.catenda.com/en/articles/12352750-objects-page)
-- [Storey Configurator](https://support.catenda.com/en/articles/6921756-storey-configurator-page)
+- Öffnen Sie das Modell Flyout (1)
+- Wählen Sie weitere Modelle aus (2)
 
 # Punktwolken in Catenda Hub
 
@@ -1618,10 +1518,6 @@ Hier können die erforderlichen Einstellungen für IFC-Exporte geändert und ben
 So sieht das Menü "Setup ändern" aus:
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1892255169/dc9485955be8e9d289ef7b133e42/image.png?expires=1779991200&signature=fdb3c6d8b891f2db5a5d46d63d24dabdeb1eb90d7e823e58f8076ad2e015e125&req=dSguFMt7mIBZUPMW3nq%2BgU4rCzwBivDLfsHeLviWOkIR%2BVu9c41EQE6LWfpQ%0AnFh5xdUdS7zkwB57Eqs2k6s5uMw%3D%0A)
-
-Dieses Fenster enthält die folgenden Registerkarten:
-
-[Allgemein](#h_fb41b895ea) - [Zusätzlicher Inhalt](#h_ed48fc4387) - [Property Sets](#h_04dd25ffef) - [LoD](#h_11ae63fb7f) - [Erweitert](#h_f7b35f27cd) - [Geografische Referenz](#h_de5067b34b)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1985,8 +1881,6 @@ Allgemein
 # Revit plugin
 
 > **Note:** **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations).
-
-[Erste Schritte](#h_8b2f64d83e) - [Issue list](#h_642fa61854) - [Issue details](#h_445d3efa52) - [Upload to Catenda Hub](#h_1e09af8c8f) - [Settings](#h_b02502c589)
 
 ## 1. Erste Schritte
 

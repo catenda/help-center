@@ -4,6 +4,8 @@
 
 Cet article contient des informations sur la configuration recommandée pour l'utilisation de Catenda Hub. Catenda Hub est accessible via le navigateur et ne doit pas être installé.
 
+Cet article contient des informations sur les sujets suivants :
+
 ## 1. Recommandation matérielle :
 
 **(juin 2024)**

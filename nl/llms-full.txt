@@ -56,8 +56,6 @@ Als **Multi Factor Authenticatie** (MFA) geactiveerd is wordt er grevraagt om ee
 
 Deze pagina houd informatie over de volgende themas in:
 
-[Activeren](#h_bda390ecdc) - [Veranderen](#h_155dbc3883) - [Overhevelen](#h_b78fb8abbd) - [Deactiveren](#h_27afed91d6) - [Vereisen](#h_ee25eb713b)
-
 ## 1. **MFA activeren**
 
 Log in bij Catenda Hub en ga naar det **[Account](https://hub.catenda.com/account/profile)** pagina:
@@ -247,6 +245,8 @@ Kontakt graag Catenda support om MFA te activeren voor uw organizaties porjecten
 > **Note:** **Let op:** Het installatie bestand voor deze applicatie kan [hier](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) gevonden worden.
 
 Met de bureaubladverbinding, Catenda Desktop Connector, kunt u up- en downlaods van de laatste versies van documenten plannen.
+
+Deze artikel bevat informatie over de volgende themas:
 
 ## 1. **Onmiddelijke up/downloads**
 
@@ -702,413 +702,368 @@ Het settings menu laat u veranderen hoe de plugin een 3D view aanmaakt bij gebru
 1. Maak een nieuw view voor elk issue. In plaats van het hergebruiken van het zelfde 3D view elke keer dat u de zoom functie gebruikt zal deze optie een nieuw 3D view voor elk issue aanmaken per keer dat u de zoom functie gebruikt.
 1. 3D view name achtervoegsel. Deze tekst zal toegevoegd worden tot de naam van het 3D view dat aangemaakt word wanneer de zoom functie gebruikt wordt.
 
-# Revit IFC Export Handleiding
+# Handleiding Revit IFC exporteren
 
-Met deze IFC export handleiding is het doel om de gebruiker een gids te geven over het exporteren van de IFC voor de juiste doeleinden. Een IFC-bestand kan snel zwaar en groot worden wanneer u veel informatie uit het model wilt halen. Daarom moet u bij het exporteren van een IFC onnodige informatie uitvinken. Bij het uploaden van een model naar Catenda is het niet altijd nodig om veel informatie en een hoog detailniveau in het model te hebben. Later in deze handleiding gaan we terug naar welke instellingen we aanbevelen om het model iets kleiner en iets gemakkelijker te maken om mee te werken. Hier gaan we stap voor stap langs de meest geschikte manier om een IFC van Revit naar Catenda te exporteren.
+Het doel van deze handleiding voor IFC-export is om de gebruiker een handleiding te geven voor het exporteren van IFC voor de juiste doeleinden. Een IFC-bestand kan snel zwaar en groot worden als je veel informatie uit het model wilt halen. Daarom moet je bij het exporteren van een IFC overbodige informatie uitvinken. Bij het uploaden van een model naar Catenda is het niet altijd nodig om veel informatie en een hoog detailniveau in het model te hebben. Iets later in deze handleiding komen we terug op de instellingen die we aanraden om het model wat kleiner te maken en wat makkelijker om mee te werken. Hier overlopen we stap voor stap de meest geschikte manier om een IFC te exporteren van Revit naar Catenda.
 
-## 1. **Projectinstellingen**
+In dit artikel vind je informatie over:
 
-Voor het exporteren is het belangrijk om ervoor te zorgen dat de GUID's van uw Revit-project correct zijn.
+## 1. Project instellingen
 
-`Beheren -> Instellingen -> Projectinformatie -> IFC Parameters`
+Voordat je gaat exporteren is het belangrijk om ervoor te zorgen dat de GUID's van je Revit project correct zijn.
 
-![Project information IFC Parameters IfcSite GUID IfcBuilding GUID IfcProject GUID](https://downloads.intercomcdn.com/i/o/975614819/ee92de6f2477949e208dac45/image.png?expires=1779991200&signature=488a733e6dce35b3f9f765548a38ebcbb902309625bfa1827447b3e10ff5d1ca&req=fSciEMh6lYBWFb4V1XW4gW4DZHJ8Y%2FMyB4KsohYxe9JI9upp%2BSOrcthV9MYf%0AU5M5bUP8q8Ck5XUUcK86OtHqKw%3D%3D%0A)
+`Beheer -> Instellingen -> Projectinformatie -> IFC-parameters`
 
-Als de GUID verschilt van een vorige export, zullen de objecten van nieuwere exports niet correct worden gekoppeld aan de GUID's in BCF-onderwerpen.
+![](https://downloads.intercomcdn.com/i/o/975614819/ee92de6f2477949e208dac45/image.png?expires=1781092800&signature=22f30bf8576125786b12846d90b997dc615c409ba5b678d6000df45a4322cbc4&req=fSciEMh6lYBWFb4V1XW4gW4DZH10avMxDYKsohYxe9KujcH1hF5joErcbHET%0A0sr%2FfaH31EQykHBEENZXfifdHA%3D%3D%0A)
 
-Wanneer u een nieuw project maakt, krijgt het een unieke id.
+Als de GUID afwijkt van een eerdere export zullen de objecten van nieuwere exports niet goed gekoppeld worden aan de GUID's in BCF topics.
 
-## 2. **IFC exporteren wijzigen**
+Wanneer je een nieuw project maakt zal het een unieke id hebben.
 
-Wanneer Revit open is en u klaar bent om te exporteren, kunt u het volgende doen.
+## 2. IFC-export wijzigen
 
-![Druk linksboven op het scherm op bestand](https://catenda-as.intercom-attachments-1.com/i/o/271057108/395387d7cf0cc2eb7d9928e9/image-0.png?expires=1779991200&signature=29709f4df2bf2e93a7f49e265c84ad240cb9e1ca9f0d647626ae988df2a5ce2c&req=dicmFsx5nIFXFb4V1XW4gWhxfMNYwk%2FrATxtIQ9WjWxRlpEJI1psfy%2F4XuaV%0ANtKM3bS8PgmX5bN8%2Buoj%2FLUGDQ%3D%3D%0A)
+Wanneer Revit is geopend en je klaar bent om te exporteren, kun je het volgende doen.
 
-Linksboven vinden we het tabblad "Bestand".
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057108/395387d7cf0cc2eb7d9928e9/image-0.png?expires=1781092800&signature=66ced81e2e597e9b48425be1a65d934ab7235385d6e0e5a938cdafc666887585&req=dicmFsx5nIFXFb4V1XW4gWhxfMxQy0%2FoCzxtIQ9WjWzXJ2qGW1KIpav9gweN%0AonDGgBmVBIbI7vLjHWq7AItBPg%3D%3D%0A)
 
------------------------------------------------------------
+Linksboven vinden we de tab "File".
 
-> **Onthouden:**_ Misschien wilt u een speciale map voor uw IFC-bestanden maken, zodat u altijd weet waar uw bestand zich bevindt!_ Het IFC export menu kunt u hier vinden: `Bestand -> Exporteren -> IFC` ![](https://downloads.intercomcdn.com/i/o/areracg3/1892251735/1f06f6821d79b19642af1b81ebe6/image.png?expires=1779991200&signature=f77ab31d228b76bdf13529fee00caae4d6d42ccf86705e6e6788b4103ef18ea5&req=dSguFMt7nIZcXPMW3nq%2BgYeYtz5lfambMm12jWodCPeBvHXniyUmgGYciDwf%0AYXW5CLORtPkNnSMKCCj0IG5c3qs%3D%0A) Het IFC export menu kan er als volgt uitzien: ![IFC exporteren](https://downloads.intercomcdn.com/i/o/areracg3/1798387143/866e2fe7cec7589a87073fcc0c82/image.png?expires=1779991200&signature=4bfa202fb3004eec5587f9ccff80d9ad260c643ce24349d84a233dd0f1b00abf&req=dScuHsp2moBbWvMW3nq%2BgZPn43QJg8WVVc0ZVd8M6r96eVKW%2BS8G1RavyNB3%0A6vNrKhgPoxi%2FkGAPFMy7%2BWg0BfM%3D%0A) Bestandsnaam Voer de naam en locatie in die het geëxporteerde bestand in het systeem zal hebben Export instellingen Kies uit de volgende vooraf ingestelde instellingen: \<In-Session Setup> IFC 2x3 Coordination View 2.0 IFC 2x3 Coordination View IFC 2x3 GSA Concept Design BIM 2010 IFC 2x3 Basic FM Handover View IFC 2x3 Coordination View IFC 2x3 COBie 2.4 Design Deliverable View IFC4 Reference View [Architecture] IFC4 Reference View [Structural] IFC4 Reference View [BuildingService] IFC4 Reference View [Unofficial] IFC4x3 IFC-SG Regulatory Requirements View Wanneer de Catenda Plugin voor Revit wordt gebruikt, wordt er een extra vooraf ingestelde export instellingen voor gebruik met Catenda aan de lijst met opties toegevoegd.
+---
 
-## 3. **Instellingen wijzigen**
+> **Tip:** **Onthoud:** _het kan handig zijn om een speciale map te hebben voor je IFC's, zodat je altijd controle hebt over waar je bestand zich bevindt!_
 
-Klik op Instellingen wijzigen in het onderdeel Export instellingen van de export IFC-dialoog.
+Het menu voor IFC-export vindt u hier:
 
-Dit is waar de noodzakelijke instellingen voor IFC-export kunnen worden gewijzigd en aangepaste instellingen kunnen worden gemaakt.
+`Bestand -> Exporteren -> IFC`
 
-Dit kan het instellingenmenu wijzigen zien:
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057123/d49b5bef059523291ef5968e/image-1.png?expires=1781092800&signature=9f0b6c0d43b1d4c094640d83b73902cb6a596458e8c4e35ec64eb1a612535902&req=dicmFsx5nINcFb4V1XW4gdQLpPviLwVRilNrONBuLrAR1lQN87K%2FewpPYGIf%0ApA5oYxtykInFq55yLnltOkBdMQ%3D%3D%0A)
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892255169/dc9485955be8e9d289ef7b133e42/image.png?expires=1779991200&signature=fdb3c6d8b891f2db5a5d46d63d24dabdeb1eb90d7e823e58f8076ad2e015e125&req=dSguFMt7mIBZUPMW3nq%2BgU4rCzwBivDLfsHeLviWOkIR%2BVu9c41EQE6LWfpQ%0AnFh5xdUdS7zkwB57Eqs2k6s5uMw%3D%0A)
+Zo kan het menu IFC exporteren eruit zien:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1798387143/866e2fe7cec7589a87073fcc0c82/image.png?expires=1781092800&signature=b00f163464f440b53eaa0479ab42d92a3fa385b5297d2b470ae6148fa367c2cc&req=dScuHsp2moBbWvMW3nq%2BgZPn43QGi8yVVscZVd8M6r%2BuczDby8hxctqQL2Pq%0AKK8uip8yArxG8Qxw7xGGhxrOXxw%3D%0A)
+
+Bestandsnaam
+
+Voer de naam en locatie in die het geëxporteerde bestand in het systeem krijgt
+
+Exportinstelling
+
+Kies uit de volgende voorgedefinieerde setups:
+
+\<In-Sessie Setup>
+
+IFC 2x3 Coördinatieweergave 2.0
+
+IFC 2x3 Coördinatieweergave
+
+IFC 2x3 GSA Concept Ontwerp BIM 2010
+
+IFC 2x3 Basisweergave FM-overdracht
+
+IFC 2x3 Coördinatieweergave
+
+IFC 2x3 COBie 2.4 Ontwerp Deliverable View
+
+IFC4 Referentieweergave [Architectuur]
+
+IFC4 Referentieweergave [Bouwkundig]
+
+IFC4 Referentie View [GebouwService]
+
+IFC4-Referentiebeeld [Niet-officieel]
+
+IFC4x3
+
+IFC-SG Aanzicht Regelgeving
+
+Wanneer de Catenda Plugin voor Revit wordt gebruikt, wordt een extra voorgedefinieerde exportinstelling voor gebruik met Catenda toegevoegd aan de lijst met opties.
+
+## 3. Setup wijzigen
+
+Klik op Modify setup in het export setup gedeelte van het export ifc dialoogvenster.
+
+Hier kunnen de noodzakelijke instellingen voor IFC-export worden gewijzigd en aangepaste setups worden gemaakt.
 
 Dit venster bevat de volgende tabbladen:
 
-[Algemeen](#h_fb41b895ea) - [Aanvullende inhoud](#h_ed48fc4387) - [Eigenschappensets](#h_04dd25ffef) - [Detailniveau](#h_11ae63fb7f) - [Geavanceerd](#h_f7b35f27cd) - [Geografische referentie](#h_de5067b34b)
+---
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 3.1 Algemeen
 
-### 3.1 **Algemeen**
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057133/8051aa4e84045a36936e4477/image-3.png?expires=1781092800&signature=9f0a1f37473db0103a09176158876ad07eeab653053f2491beef7109d9351f0b&req=dicmFsx5nIJcFb4V1XW4gRAeo%2FbbqY%2Bjy4yNVm7GGROIxz%2FOuB4aiieTxEhO%0Avx2MPY9pl2MHmH7m5TgbRi5FkA%3D%3D%0A)
 
-![Algemeen](https://downloads.intercomcdn.com/i/o/areracg3/1892229977/5b41cf313ce744a76d57707e7156/image.png?expires=1779991200&signature=de7a76fac9b01f590c83303ae40078c1584ff8b4876ef0b169519d39e6d9c20a&req=dSguFMt8lIhYXvMW3nq%2BgaV%2FCQixLdXaNeZ7QyQ0axWAyNp02PCsj0gdc2if%0Ad1tMevbVyEJSRIO7%2Bjxmt6fUIRM%3D%0A)
+We nemen de verschillende instellingen met je door.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892261475/b091b92e7662bd96f93d12bf7f53/image.png?expires=1779991200&signature=9c06e8d7af983ce6a940f923b9ef8727f8c61d9e26ef8e352988fa36b62bd281&req=dSguFMt4nIVYXPMW3nq%2BgXBEgWjeQPHCGpBWTw2Nw1Jy05ppTRgbw1VTpLZH%0At1eqbpZDOUcMRs4z%2FBI%2Fnj41rJ0%3D%0A)
+_1. IFC-versie_ - Selectie van IFC-versie.
 
-We nemen u door de verschillende instellingen.
+_2. Bestandstype_ - Selectie van het IFC-type.
 
-_IFC versie_
+**3. Fase exporteren**
 
-Selectie van IFC versie.
+Als je de fasetool
 
-_Uitwisselingsvereiste_
+in Revit hebt gebruikt, kun je hier kiezen en alleen
 
-Deze opties kunnen verschillen afhankelijk van de geselecteerde IFC-versie.
+nieuwe of bestaande structuren exporteren.
 
-IFC 2x3 Coordination View 2.0
+_4. Ruimtegrenzen -_ gaan over hoe ruimte-informatie verder kan worden gebruikt.
 
-- Bouwkundige referentie-uitwisseling
-- MEP-referentie-uitwisseling
-- Structurele referentie-uitwisseling
-  _Categoriemapping_
-  Voor Revit 2026 was deze optie beschikbaar in Bestand -> Exporteren -> Opties -> IFC Export Opties.
-  Dit is hoe het menu Instellingen voor IFC Export Mapping beheren eruit kan zien:
-  ![](https://downloads.intercomcdn.com/i/o/areracg3/1892362444/0291c2b037d32fe0a4808e9fe7f7/image.png?expires=1779991200&signature=528dc3b6bcb4d9399320d85087b57a2e29ed93341169cec06ce9cb8ed5c84fb7&req=dSguFMp4n4VbXfMW3nq%2BgZ7axO8%2FlFRz4FYwOCciizXyG4lDOXEisrBlsk4c%0AAoRXuiRV9UdddmK2UwD%2FBi7AM7g%3D%0A)
-  _Bestandstype_
-  IFC type selectie.
-  _Fase om te exporteren_
-  Als u het fasetool in Revit hebt gebruikt, kunt u hier kiezen en alleen
-  nieuwe of bestaande structuren exporteren.
-  _Ruimtegrenzen_
-  Deze gaan allemaal over hoe ruimte-informatie verder kan worden gebruikt.
-  a. 1e niveau - Voorbeeld: Hoeveelheidswittokkingen, beheer, bedrijf en onderhoud (FDVU).
-  b. 2e niveau - Voorbeeld: Energieanalyse, lichtanalyse.
-  _Faciliteit Type_
-  Deze optie is alleen beschikbaar voor IFC 4x3
-  Kies uit een van de volgende:
-  Brug (IfcBridge)
-  Gebouw (IfcBuilding)
-  Maritime Faciliteit (IfcMarineFacility)
-  Spoorwegen (IfcRailway)
-  Weg (IfcRoad)
-  _Muren, kolommen, kanalen per niveau splitsen_
-  Hier kunt u bijvoorbeeld muren horizontaal verdelen als ze over meerdere verdiepingen zijn gemodelleerd. Bijv. scheidingsmuren horizontaal als deze over meerdere verdiepingen zijn gemodelleerd.
-  _Bestandskoppelinginformatie..._
-  Projectadres..._
-  In deze kunt u informatie plaatsen over wie de IFC heeft geleverd, projectadres enz.
-  _Projectoorsprong_
-  Projectoorsprong, dit zetten we op Huidige gedeelde coördinaten - Aanwezige gedeelde coördinaten.
+a. 1e niveau - Ex bij gebruik: Hoeveelheid onttrekkingen, FDVU.
 
-> **Opmerking:** Dit is verplaatst naar Geografische referentie vanaf Revit 2025 _Stalen elementen opnemen_ Neemt stalen componenten op als deze zijn gemodelleerd. **Opmerking:** Dit is verplaatst naar Aanvullende inhoud vanaf Revit 2025
+b. 2e niveau - Ex bij gebruik: Energieanalyse, lichtanalyse.
+
+5. _Project oorsprong_ - Project oorsprong, dit zetten we op Huidige gedeelde coördinaten- Huidige gedeelde coördinaten.
+
+_6. Wanden, kolommen, kanalen splitsen per niveau_ - Hier kun je bijv. wanden horizontaal splitsen als het model over meerdere verdiepingen loopt.
+
+_7. Inclusief stalen elementen_ - Inclusief stalen componenten indien gemodelleerd.
 
 ---
 
-### 3.2 **Aanvullende inhoud**
+### 3.2 Extra inhoud
 
-![Aanvullende inhoud](https://downloads.intercomcdn.com/i/o/areracg3/1892231518/1438a720e7d2d083f16e999b248d/image.png?expires=1779991200&signature=14ae8e037db758f837b33fce3426217ec13a1be4bdae21d9021a6c6e2adef1ed&req=dSguFMt9nIReUfMW3nq%2BgUrmoL4SQTHbWqp11fsyPaNkkVHU8HTI2%2F7M7%2BzB%0ABmowPSLQu3ATd2%2F2iUivb83tBuQ%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/801770461/27837862bbe48d592f7e7022/image.png?expires=1781092800&signature=8cd2dcb34c91a4681de54484c89b80fc85c9e387c46fe0d7fe25959e6d2ad3f4&req=fCAmEc5%2BmYdeFb4V1XW4gbPpvGgDiiJxUCyzpW1EyLOn2KvzrrihU2fq0vsf%0Ar2EFRx41WWPsrmjelOaw0Eg2mA%3D%3D%0A)
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892263880/c2a3aa2c87b0e2798aa352e8e939/image.png?expires=1779991200&signature=d34f7286a508b4628d39a8280c078fb7fab54fd9c269d8f5f4b9bdb4b2f506cc&req=dSguFMt4nolXWfMW3nq%2BgZuMl2%2B0ocCSxdsSWUVwjc07TZne90pVVQ20GLrW%0AXKEA4G7s2qjM4xmQ4ob3bLJz%2Fzg%3D%0A)
+1. Gelinkte bestanden exporteren als afzonderlijke IFC's
 
-Gekoppelde bestanden als afzonderlijke IFC's exporteren
+Als u de gekoppelde bestanden wilt opnemen in de IFC, kunt u deze optie aanvinken om dat te doen.
 
-Als u de gekoppelde bestanden in de IFC wilt opnemen, kunt u deze optie inschakelen.
+Het is aan te raden om elk bestand apart te exporteren en te importeren in hun eigen model.
 
-Het wordt aanbevolen dat u elk bestand afzonderlijk exporteert en elk naar hun eigen model importeert.
+2. Exporteer alleen zichtbare objecten die zichtbaar zijn in het
 
-Alleen zichtbare objecten zichtbaar in IFC-bestand exporteren.
+IFC-bestand.
 
-- Ruimten, oppervlakken en spaties in 3D-weergaven exporteren
-  Deze optie kan nuttig zijn voor het selecteren van gebieden in de 2D-viewer.
-  Stalen elementen opnemen, _gevuld_
-  Exporteert 2D plattegrond elementen, _gevuld, regio's_ (krassen).
-  Plafondnetwerken exporteren
-  Plafondnetwerken zijn 2D-elementen en worden daarom niet weergegeven in de Catenda 3D-viewer.
+3. Exporteer ruimten, gebieden en ruimtes in 3D-aanzichten
+
+Deze optie kan handig zijn voor het selecteren van ruimtes in de 2D viewer.
+
+4. Stalen elementen opnemen, _gevuld_
+
+5. Exporteert 2D-planweergaven, _gevulde_
+
+_gebieden_ (krassen).
 
 ---
 
-### 3.3 **Eigenschappensets**
+### 3.3 Eigenschappenreeksen
 
-![Eigenschappensets](https://downloads.intercomcdn.com/i/o/areracg3/1892232792/135fdbf14ece65c88f19bd1d226a/image.png?expires=1779991200&signature=08f85973ddc0828e1bce6019eed0e2ca144295420ac48e4d9b236988f3109720&req=dSguFMt9n4ZWW%2FMW3nq%2BgaY8ra%2BUm5L2ZjmJcmldhCuBAdrt45HA7HZqKLol%0AtoA76daMbGTClWLlzEA9uLIe9yA%3D%0A)
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057152/2f2ad2b699248505b991d502/image-5.png?expires=1781092800&signature=1295e7fd9c9490631dcdf0bedcae41c07df94a7d985577d4401878d131085b11&req=dicmFsx5nIRdFb4V1XW4gTc5yyntzCu%2BMV4hR%2BqGrisix0tJTLs3z3DA%2BcXf%0AlS%2BsKN9VEtUFIRqaaB%2FMGP00Hw%3D%3D%0A)
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892275051/2ed64b1590f2714d62846de4f92f/image.png?expires=1779991200&signature=72c737d699d3e9d1d54ab3270ebf9a6416e597a6f32ba4fc860fd242e2c1abcd&req=dSguFMt5mIFaWPMW3nq%2BgZi725RhkXN5IeQuWPtKkGbxpRk%2Bl9O8njkEN8R8%0AV3y8MdRThA7Jgy%2FpcsTiX3Qr%2Bo0%3D%0A)
-
-Exporteert alle Revit Property sets (pset / eigenschappen)
+1. Exporteert alle Revit eigenschappensets (pset / properties)
 
 Hier is een voorbeeld van een muur geëxporteerd met deze optie:
 
-Revit (_Links_) --- Catenda (_Rechts_) <img alt="Eigenschappen" src="https://downloads.intercomcdn.com/i/o/1143733823/5843705d0d8e18fad06a2d26/image.png?expires=1766188800&amp;signature=e683738cab58632050b7cafa92c034f12a46f70dfe3155d1cf4d911252b4d5cc&amp;req=dSEjFc59noldWvMW3nq%2Bgf%2FEabfHtQiF4KaxSmsaQLmis0sQMPMY4FRacuZa%0Az3YPfah7rm21SlIs85aLL8uLrZY%3D%0A" width="208.60495436766624"/>  ---  <img alt="Eigenschappen" src="https://downloads.intercomcdn.com/i/o/1143736276/8e2cd444c3cb4bb85a54a8eb/image.png?expires=1766188800&amp;signature=10633b362c0901da616a360cdbf654306792d62af04cc4f3501c3bda51769102&amp;req=dSEjFc59m4NYX%2FMW3nq%2BgT9zLO7Skq%2BTFld2KtbnaRMzDGwWjYF5Mm1itI8z%0AVIQLHf%2B4YSGFII1x5k%2BObZqVuGo%3D%0A" width="190.21739130434784"/>
+Revit_(Links_) --- Catenda_(Rechts_)
 
-Typische eigenschappen die in het eigendomsmenu worden weergegeven zijn:
-
-Beperkingen, Dwarsprofielbepaling, Afmetingen, Structureel, Identiteitsgegevens, Overige
-
-Typische eigenschappen die in het identificatiemenu worden weergegeven zijn:
-
-IFC-parameters
-
-Standaard IFC-eigenschappen exporteren.
-
-Exporteert berekende hoeveelheden van objecten.
-
-Batchlijsten exporteren
-
-Eenmalige eigenschap set exporteren
-
-_Classificatie-instellingen_
-
-Hier is een voorbeeld van wat classificatie-instellingen kunnen uitzien met omniclass.
-
-![Classificatie-instellingen](https://downloads.intercomcdn.com/i/o/1143721778/529f91196d1161bc0f7fc191/image.png?expires=1779991200&signature=f13d4621978f597e4d0c968364da4bd522527c7f374efda94be6a0be7575c6ca&req=dSEjFc58nIZYUfMW3nq%2BgTdoFEUepwZW6XnZ2V0i6WQvADjlF%2BLhRY6OJkFP%0AiNN3Uof7HbJp4u6Gl9XBlQAU8Ss%3D%0A)
-
-_Naam_
-
-De naam van de classificatie
-
-_Bron (Uitgever)_
-
-De uitgever van de classificatie
-
-_Editie_
-
-De classificatie-editie
-
-_Editiedatum_
-
-De datum van de classificatie
-
-_Documentatielocatie_
-
-Dit moet een geldige documentatielocatie zijn
-
-_Classificatieveldnaam_
-
-De classificatieveldnaam is de naam van de parameter in uw objecten die de classificatiewaarde bevat. Deze parameter kan vaak op familieniveau worden gevonden.
-
-Een familie bewerken om de eigenschappen ervan te zien
-
-![Familie bewerken](https://downloads.intercomcdn.com/i/o/1143724998/b22b5f6c87f49ea7c42381bf/image.png?expires=1779991200&signature=8590e78ce69a0d98961dc796b658ba4bf72cf03c45dba1890900a214bafbb117&req=dSEjFc58mYhWUfMW3nq%2BgSZUcWo6HOAqXXhYpyvCdnZ5nwKOSt5eRyx6qPHd%0AgRRUvOdjNZu11Av4vkAmqN6p0o4%3D%0A)
-
-Hier ziet u hoe de parameter in de eigenschappen kan uitzien
-
-![Eigenschappen OmniClass Nummer](https://downloads.intercomcdn.com/i/o/1143726246/d4edad8d1fd6912e74ac1dfd/image.png?expires=1779991200&signature=25a111f49176bbcd4a4eca8317c7d6020339ad9635734a6fdd66b808adc91213&req=dSEjFc58m4NbX%2FMW3nq%2Bge0lDZh%2F80lWgG1V9tT6cxgr0M7xLIsZrNn2i2Tj%0Ar3LmBV%2BDKYl2bfCvCkuordzTxII%3D%0A)
-
-Als u uw IFC met een classificatie hebt geëxporteerd en deze als model naar Catenda hebt geïmporteerd, wordt de classificatie ervan voorgesteld als een [voorgestelde bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page#h_c03d50a9ca) wanneer u een nieuwe bibliotheek maakt op de [bibliotheken pagina](https://support.catenda.com/en/articles/8065645-libraries-page).
-
-Als een waarde in de eigenschap die u hebt opgegeven, overeenkomt met een waarde in de verstrekte documentatie, wordt deze gevonden en kan deze worden gebruikt om objecten met deze waarde te selecteren via de classificatie bibliotheek die u hebt gemaakt.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 3.4 **Detailniveau**
-
-![Detailniveau](https://downloads.intercomcdn.com/i/o/areracg3/1892234477/a9bbe7f93df2e1f86dd77e0d8595/image.png?expires=1779991200&signature=51855781c86ef0d04cb75ec5abe362af236e216618b33ecddea36190c8ece55b&req=dSguFMt9mYVYXvMW3nq%2BgcGzWTbpx%2B5haiavdWYct%2BeRmFV0zbmfiG0oTuny%0ATNdlYRRUrCJXUVJUnpte5c9DwEg%3D%0A)
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892279715/fc5d54cc402a319c1f102802fc97/image.png?expires=1779991200&signature=a04b7a621f85578fedddab7f9829e2da3a5a0d67f2226d40d826a5ff56e0f063&req=dSguFMt5lIZeXPMW3nq%2BgUWqnn%2FqIvGkfS0SdjfSGKflUy63XmjaojOfoQju%0ADW71Q%2BhgwZX1JLzynRJK3wz6z%2BQ%3D%0A)
-
-Dit gaat erom hoe gedetailleerd we bijvoorbeeld hebben. kopjes of leuningen of misschien fietswheels. Er zijn 4 verschillende detailniveaus.
-
-Extra laag
-
-Laag
-
-Middel
-
-Hoog
-
-Wanneer hoog, wordt het meest gedetailleerd zoals weergegeven in de onderstaande afbeelding.
-
-![Detailniveau extra laag en hoog](https://catenda-as.intercom-attachments-1.com/i/o/271057169/c6cea2aa0003f1c409488aae/image-7.png?expires=1779991200&signature=61fe3f4006900fd1d34c251c062b3db03fc2fd91f19e16a776870e31c9aebfab&req=dicmFsx5nIdWFb4V1XW4gbUv%2FgfutyCFZjDb1AFfiWvoJKOpzILR0DxPJCm8%0AyB%2BxbX0DAGzFhIfWt2vGYTMOHg%3D%3D%0A)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Bij het exporteren van IFC's van Revit voor gebruik in Catenda Hub, raden we aan het detailniveau niet hoog in te stellen. Er zijn veel details en extra polygonen in modellen wanneer geëxporteerd met een hoger detailniveau en dit is niet altijd nodig en zal de modelnavigatie langzamer maken. Dit is een voorbeeld van het verschil tussen exporteren met de instelling Extra laag en Hoog.
-
-![Dit is een trapuiting geëxporteerd met de instelling Hoog. 900k polygonen](https://catenda-as.intercom-attachments-1.com/i/o/271057176/4d23600fddf517fa8afa68b3/image-8.png?expires=1779991200&signature=b40c5225839df08ff3cb63abba8707242a1b1485aea1a1349b7432050ae583ee&req=dicmFsx5nIZZFb4V1XW4gXDdgIisYwJtT%2FPcu87o1zP5fAUc4VXkBDnRaDr8%0A2T6aJEaBkIYupUl7unZmH%2FzFdA%3D%3D%0A)
-
-![Dit is dezelfde model geëxporteerd met de instelling Extra laag. 33k polygonen.](https://catenda-as.intercom-attachments-1.com/i/o/271057186/de52cec6e75ba1d44c01d9fb/image-9.png?expires=1779991200&signature=d8d2ced2202f3b52ae3b4585ea65977a74ee4709caed275abfc8d460d88a29db&req=dicmFsx5nIlZFb4V1XW4ga5Y09oq5DnlsKxhZ3TBUX7ENpGZnXWMCoB3Pz9w%0AYeiCXqLvdMUXo7BSPFFWU5lI1Q%3D%3D%0A)
-
-De verschijning van het model zal bijna hetzelfde zijn, maar het aantal polygonen zal drastisch afnemen en de navigatie in Catenda Hub zal veel sneller zijn.
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 3.5 **Geavanceerd**
-
-![Geavanceerd](https://downloads.intercomcdn.com/i/o/areracg3/1892235835/c5a537efaad511b257aa34fd9393/image.png?expires=1779991200&signature=9ef54911a2b76d39f4e3c23df0f85f171699dd8a363ab3cf3cb37349a603544d&req=dSguFMt9mIlcXPMW3nq%2Bgej6EvTV%2BJ5RKvpYf%2BwKvvA%2BZUGNGSO9ksC63ytf%0AVqsnDeqhyykw%2B4ATqbgGWKSALMs%3D%0A)
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892285324/5ee98db642dda09e9ef2e32f89f3/image.png?expires=1779991200&signature=a1105615a979210c8668e250b9ba318c89bc4fbd6335483a32692b3f7a71552f&req=dSguFMt2mIJdXfMW3nq%2BgeyMDiMPhq7Q85wgYm3Xh1XpOK5XvxcASYTyhduW%0AsLQ%2B1rJyZBFN%2FAQvoW31uHOg%2F7A%3D%0A)
-
-_Delen als bouwelementen exporteren_
-
-Exporteer delen als standaard IFC-element.
-
-_Gebruik van gemengde "Solid Model" representatie toestaan_
-
-Selecteer deze optie om het mengen van BRep en extrusiegeometrie voor een eenheid toe te staan.
-
-_Actieve weergave gebruiken bij het maken van geometrie_
-
-Selecteer deze optie om de actieve weergave te gebruiken om de geometrie te genereren. Houd er rekening mee dat dit onverwachte resultaten kan hebben als het op een niet-3D-weergave wordt gebruikt.
-
-_Familie- en typenaam voor referentie gebruiken_
-
-Selecteer deze optie om de familie- en typenamen voor referenties te gebruiken.
-
-_2D ruimtegrenzen voor ruimtevolume gebruiken_
-
-Selecteer deze optie om een vereenvoudigde benadering te gebruiken voor het berekenen van het ruimtevolume (gebaseerd op extrusie van 2D-ruimtegrenzen), wat ook standaard is bij het exporteren naar IFC 2x2.
-
-_Verheffing van IfcSite in de lokale plaatsingoorsprong opnemen_
-
-Selecteer deze optie om de hoogte van de Z-offset op te nemen voor lokale positie in IfcSite. Verwijder de optie om deze uit te sluiten.
-
-_Sla de IFC GUID na het exporteren op in een elementparameter_
-
-Selecteer deze optie om de gegenereerde IFC GUID's na het exporteren op te slaan in het projectbestand. Dit voegt "IFC GUID" parameters toe aan items en hun types en projectinformatie voor project, website en bouwgidsen.
-
-_Begrenzingsvak exporteren_
-
-Selecteer deze optie om "Begrenzingsvak" representaties te exporteren. Deze optie blijft automatisch geselecteerd voor GSA export.
-
-_Tessellated Geometry als triangulatie behouden_
-
-Als u complexe gebogen elementen of schelpen hebt en deze na de IFC export niet correct worden weergegeven, kunt u deze optie selecteren. Houd er rekening mee dat u mogelijk een zeer zwaar IFC-bestand kunt produceren.
-
-_Alleen typenaam gebruiken voor IfcType-naam_
-
-Selecteer deze optie als u wilt dat de BAT-ID of de ID van het object als de naam van de entiteit verschijnt.
-
-_Zichtbare Revit-naam gebruiken als IfcEntity-naam_
-
-Selecteer deze optie als u wilt dat de Revit-objectnaam de naam van de entiteit is
-
-_Altijd gefacetteerde vloeren en daken als één IFC-entiteit exporteren_
-
-Selecteer deze optie om vlakken van vloeren en daken met meerdere vlakken tot één entiteit te combineren.
-
-_Stel "Laatst gewijzigd" gebruiker in op Auteur in Projectinformatie_
-
-Selecteer deze optie als u de auteur van de wijzigingen in deze export bent
-
-_Entiteiten om te exporteren_
-
-Hier ziet u hoe het menu IFC Entity Selection dat opent er kan uitzien:
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892286935/be99502f0dd70ec946f55438c390/image.png?expires=1779991200&signature=799dca9446d3b00d4ca06944add4e6d6f47d8fd33c8a778c5d2557ab8437c12e&req=dSguFMt2m4hcXPMW3nq%2BgcADQUPx2PSQHDp0RWxq5dUnOJgx%2ByBdwcstuqRL%0AJLIzsYDQIIYPtAIY1dFKFpLkOAE%3D%0A)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 3.6 **Geografische referentie**
-
-Het is belangrijk dat uw Revit-coördinaten zijn gesynchroniseerd met de andere modellen in uw project zodat ze op dezelfde plaats eindigen.
-
-Daarom meet u de coördinaten in Catenda Hub met een puntmeting en geeft u een coördinatenbasis op in Revit op een punt dat op dezelfde plaats ligt als het gemeten punt in Catenda Hub.
-
-![Coördinaat op punt opgeven](https://downloads.intercomcdn.com/i/o/969764101/0c12135b4cfe78982de2d2c9/image.png?expires=1779991200&signature=060be8f8a603fc0b1a1df40a9afcb314add9da447d344221a97c1a482e645427&req=fSYuEc96nIFeFb4V1XW4gXGcH65AQ%2BvBsmsiUzSJvpOZcWtpsV6NEtp3COB%2B%0AaAl33RB7R1SlFNStV1N44yOhtw%3D%3D%0A)
-
-U kunt deze optie vinden in het tabblad Beheren -> Coördinaten -> Coördinatenbasis opgeven.
-
-_Coördinaten op punt opgeven_
-
-Verplaatst een model en roteert het model naar Ware Noorden door coördinaten voor Noord/Zuid, Oost/West en Verheffing op te geven.
-
-In Revit is het vaak gemakkelijker om in 90-graden hoeken te modelleren en u wilt het hele model niet roteren.
-
-In dit geval kunt u in plaats daarvan Ware Noorden roteren.
-
-U vindt de optie in de vervolgkeuzelijst Positie onder Coördinaten in het tabblad Beheren.
-
-![Geografische referentie](https://downloads.intercomcdn.com/i/o/areracg3/1892237064/dbd69633fadc1d5fe77cbbf10ad1/image.png?expires=1779991200&signature=a0fa45620598f4ea49637c071c3642c3e09a750a27b3c437d265926073e9efee&req=dSguFMt9moFZXfMW3nq%2BgWz5kavwajm2Q89QCw7rQngImO5dALYR%2F3X935bY%0ALRKgoqo1rT6VHyQCuYBc%2FWMRiDE%3D%0A)
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892312196/3e117bb428e5bade5ced558f9bf3/image.png?expires=1779991200&signature=42aea4804b1dd4c21c0c6c4b6ed80d944086564e35b9902d1720c87903230719&req=dSguFMp%2Fn4BWX%2FMW3nq%2Bgak09I%2BhVIo7RxVv6rvgFchwhCbwffygGJDj6sXo%0AQDbWBuoUwVnnATNMwVm1SBR0YXM%3D%0A)
-
-_Projectlocatie_
-
-Intern
-
-_Coördinatenbasis_
-
-U kunt deze instelling wijzigen om ervoor te zorgen dat uw project naar het Noorden is gericht
-
-Gedeelde coördinaten - Standaard
-
-Opmeetpunt
-
-Projectbasis Punt
-
-Interne oorsprong
-
-Projectbasis Punt gericht naar Ware Noorden
-
-Interne oorsprong gericht naar Ware Noorden
-
-> **Opmerking:** Als u IFC in het tabblad Invoegen koppelt, wordt uw gekoppelde bestand dicht bij uw objecten geplaatst en bevindt het zich niet op de locatie die in de IFC wordt beschreven. Als u een IFC op de juiste locatie wilt importeren, klikt u in plaats daarvan op Bestand -> Openen -> IFC. _Negeren_ Hier kunt u de geprojecteerde coördinatensysteemreferentie negeren
+![](https://downloads.intercomcdn.com/i/o/1143733823/5843705d0d8e18fad06a2d26/image.png?expires=1781092800&signature=d3c8f5f2e89496672a009244a29666882a4d5ed850a3ada5baf282996984dfeb&req=dSEjFc59noldWvMW3nq%2Bgf%2FEabfJsgmE6qaxSmsaQLnOEcrEWUDecLdGPLDS%0AX6Acg6q8YRRWmemsm%2FJmP5NeU8E%3D%0A)
 
 ---
 
-### 3.7 **Bedrijfsgegevens**
+![](https://downloads.intercomcdn.com/i/o/1143736276/8e2cd444c3cb4bb85a54a8eb/image.png?expires=1781092800&signature=34625dadd77a0f74aaec93d0b07441024225117a6f56cb9b084b88eec322f53f&req=dSEjFc59m4NYX%2FMW3nq%2BgT9zLO7cla6SHFd2KtbnaRMX5aTVuOC8ph9XiCgR%0Ap3b0qpPvprlRm3jAHMRpeWbClos%3D%0A)
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892339968/a88c70cdc3d15ec1e87a1e966b46/image.png?expires=1779991200&signature=f68f221eb9ab0afd91c637e525a5d0057b3307e8e6530d5198dd90d3b144f8e5&req=dSguFMp9lIhZUfMW3nq%2BgRXRtZV646CzbhYCDTM1GZGXZIjmattZX5CDm0VJ%0ALOUcKRLlH3C9wmRrDi%2FTOy04v%2Bs%3D%0A)
+Typische eigenschappen die worden weergegeven in het eigenschappenmenu zijn:
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892341695/f8aef094c7a84c8664cb6db386bc/image.png?expires=1779991200&signature=a174a5fdf3b7af5e95c5d1ed03b7d3edb1cacd026417765fdd6e0ec39c25cf03&req=dSguFMp6nIdWXPMW3nq%2BgSpJnU2%2FxbcY6345g60I7jviXU4X7ABgbjwoKuc7%0AcMRBSRyfbTm2vWp7Oys9oBkK7kw%3D%0A)
+Constraints, Cross-Section Definition, Dimensions, Structural, Identity Data, Other
 
-Dit menu is alleen beschikbaar wanneer de IFC2x3 COBie 2.4 Design Deliverable View Setup in het linkermenu is geselecteerd.
+Typische eigenschappen die in het menu Identification verschijnen zijn:
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+IFC Parameters
 
-### 3.8 **Projectgegevens**
+2. Standaard IFC-eigenschappen exporteren.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892356241/5a9153e5328e33ef5732be86af07/image.png?expires=1779991200&signature=24762c0ace7ebe4478d2b2713cd6017d4832352f6043104b1cc30ae373ab08f7&req=dSguFMp7m4NbWPMW3nq%2BgdDcqeJjXwra65LLEws6tCTU0wICq0oh9qpS9%2FJn%0Aqm4kmvwf4QEYAICFX8bkvDuQ7PE%3D%0A)
+3. Exporteert berekende hoeveelheden van objecten.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1892357722/97a31374ae328eff814a977ff3ec/image.png?expires=1779991200&signature=003f4e0f69fc7180132651ec2a4ffb712c3fd3dde1440a29ae2fc4dc2a0573bb&req=dSguFMp7moZdW%2FMW3nq%2BgaYH1F4G60q4NivzbwFWQfKx5c%2BITWNaFVEP55gD%0AWJoucJnbsl2gDq1dZBIrmkyfeVs%3D%0A)
+4. Batchlijsten exporteren
 
-Dit menu is alleen beschikbaar wanneer de IFC2x3 COBie 2.4 Design Deliverable View Setup in het linkermenu is geselecteerd.
+5. Eenmalige eigenschappenset exporteren
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Classificatie-instellingen**
 
-## 4. **IFC Opties**
+Hier is een voorbeeld van hoe classificatie-instellingen eruit kunnen zien met omniclass.
 
-De IFC Opties van een Revit project kunt u vinden in:
+![](https://downloads.intercomcdn.com/i/o/1143721778/529f91196d1161bc0f7fc191/image.png?expires=1781092800&signature=b3623c0892be237d82fba4fd3289cee68e07e3a84a2d2797ad7163af05252618&req=dSEjFc58nIZYUfMW3nq%2BgTdoFEURrw9W6nPZ2V0i6WSE%2Bx8YqK3Yiesvs8ip%0AuCL0zXGlHVIIGXOxdTP5mQJKNUU%3D%0A)
 
-`Bestand -> Exporteren -> Opties -> IFC Opties`
+_Naam_ - De naam van de classificatie
 
-![Exporteren -> Opties -> IFC opties](https://catenda-as.intercom-attachments-1.com/i/o/271057200/45a1257c55b1828c71e969a4/image-11.png?expires=1779991200&signature=19ba7f1f06c737fd1570f0a06070ad9db96d0694ad820be88fb17bb60ed41856&req=dicmFsx5n4FfFb4V1XW4gakKrGXQvzEGkCAUJOtaQtRh3HZCglVgstn6e2Ch%0AaxVYb3DMOLXIpE8hXgvg%2F%2FKfNg%3D%3D%0A)
+_Bron (Uitgever)_ - De uitgever van de classificatie
 
-> **Opmerking:** Vanaf Revit 2026 is deze optie nu beschikbaar in: `Exporteren -> IFC -> Algemeen -> Categoriemapping -> Actiemenu rechts van vervolgkeuzelijst` Binnen de _IFC opties_ stellen we de instellingen voor het exporteren van een model naar een IFC-bestand. Hier kunt u aangepaste eigenschappen voor het exporteren van een model naar IFC. Wat aan het begin van deze handleiding werd vermeld, is dat het niet nodig is om te veel informatie uit het model te halen. Voel je vrij om onnodige informatie voor het exporteren uit te vinken. ![IFC export klassen](https://catenda-as.intercom-attachments-1.com/i/o/271057211/d475dd84fb2efef9d7bf4c1d/image-12.png?expires=1779991200&signature=ceb04d005a9687945fd4c5efc680f142fa8f71ab5daddaf6ef11c8828c6103ea&req=dicmFsx5n4BeFb4V1XW4gdpd3cvRJhUNG2sGxDwDCuCNDMBg6YsRp7MEvaGe%0Ao0oBh68YB8CtIWlb%2Bwt%2Fl%2BbXug%3D%3D%0A) Het is mogelijk om rasters in Catenda Hub weer te geven en als u deze in uw Revit model hebt, kunt u in IFC Opties instellen dat rasters in de IFC worden geëxporteerd. Deze worden standaard niet vanuit Revit geëxporteerd.
+_Editie_ - De editie van de classificatie
 
-## 5. **Kleuren en materialen**
+_Editie datum_ - De datum van de classificatie
 
-De kleuren die in Catenda worden weergegeven, worden gelezen uit het IFC-bestand dat wordt geïmporteerd.
+_Documentatielocatie_ - Dit moet een geldige documentatielocatie zijn
 
-Wanneer de materiaaleigenschap van een familie wordt toegevoegd aan de IFC-parameters, wordt de kleur van het materiaal in de materiaaleigenschap aan de IFC toegevoegd en dus weergegeven in Catenda.
+**Rubriceringsveldnaam**
 
-In Revit kunnen materialen in de materiaalweergave worden gevonden:
+De classificatieveldnaam is de naam van de parameter in uw objecten die de classificatiewaarde zal bevatten. Deze parameter kan vaak gevonden worden op familieniveau. Bewerk een familie om de eigenschappen te zien
 
-`Beheer tabblad -> Instellingen sectie -> Materialen`
+![](https://downloads.intercomcdn.com/i/o/1143724998/b22b5f6c87f49ea7c42381bf/image.png?expires=1781092800&signature=c388476d8a7f22081f4e436b94a5d840a0750177cf0f6ad6739e1e54253547f8&req=dSEjFc58mYhWUfMW3nq%2BgSZUcWo1FOkqXnJYpyvCdnb6akMbGZmK3rHBEWm%2F%0AkCht%2FRfgbXxIQeXGFlaUFhVNrO4%3D%0A)
 
-In de materiaalweergave kunt u de instelling voor kleur vinden in het tabblad Afbeeldingen van het materiaal:
+Zo kan de parameter eruit zien in de eigenschappen
 
-![Beheren -> Materialen -> Materiaalweergave -> Nieuw materiaal maken](https://downloads.intercomcdn.com/i/o/areracg3/1798363404/1016d10e61dcd4bbf3969dd97a39/image.png?expires=1779991200&signature=6538f237377a045f7b7f567244f4fdefd99bc74142dc54780c79610f54b88159&req=dScuHsp4noVfXfMW3nq%2BgRHARe%2BQbSvVJU1tDswOuiSVbxNsRYJibJHNSy4a%0ADvZyAbDR4cFQbN%2FOUhLbnJ9ZKrw%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/1143726246/d4edad8d1fd6912e74ac1dfd/image.png?expires=1781092800&signature=da76ee8ae6aee3def558368e9e0cc64f86c4af32a5d0ba61270886a9feb49cf0&req=dSEjFc58m4NbX%2FMW3nq%2Bge0lDZhw%2B0BWg2dV9tT6cxhge33Di%2F%2BPWzHn113Y%0AQge%2Ft4ynqCOaoPdB7r8xnmbbWbw%3D%0A)
 
-Het is ook mogelijk om de arcering aan de weergave-instellingen vast te zetten.
+Als je een ifc met classificatie hebt geëxporteerd en als model in Catenda hebt geïmporteerd, zie je de classificatie voorgesteld als een [voorgestelde bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page#h_c03d50a9ca) bij het aanmaken van een nieuwe bibliotheek op de [pagina Bibliotheken](https://support.catenda.com/en/articles/8065645-libraries-page). Als een waarde in de door jou gespecificeerde eigenschap overeenkomt met een waarde in de bijgeleverde documentatie, dan wordt deze gevonden en kan deze gebruikt worden om objecten met deze waarde te selecteren via de classificatiebibliotheek die je hebt aangemaakt.
 
-![Weergave](https://downloads.intercomcdn.com/i/o/areracg3/1798375002/9394922e0e04c7beffd701083d45/image.png?expires=1779991200&signature=d9d2670f75a1006a4b4d3d03f3e9c19bcfffcafb0d76728976f55be340ebe2c6&req=dScuHsp5mIFfW%2FMW3nq%2BgczmUc51w6Slra%2FB5MdIivv2AVzb0Puu5CECSt7u%0AvMA6oVuMcEZW9opaPvxvO6x6HrE%3D%0A)
+---
 
-Oppervlakken in de Catenda 3D-viewer hebben platte arcering zonder een aanwezige lichtbron.
+### 3.4 Detailniveau
 
-De volgende waarden worden door Catenda geïnterpreteerd bij het weergeven van het oppervlak in de 3D-viewer:
+Dit gaat over hoe gedetailleerd we bijvoorbeeld kopjes of leuningen of misschien fietswielen hebben. Er zijn 4 verschillende detailniveaus.
 
-Generiek
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057162/4c417102be6cfa626da9dcc2/image-6.png?expires=1781092800&signature=b496ed0861b8f7c7d5e67e94fcb8dc8518af70b0d7ab947a81e68402d1ece343&req=dicmFsx5nIddFb4V1XW4gbW5GTgHoPkHYqjS0sDGHyHxPH9rVJZlXnUnKIQc%0AsBifrSVyeViMfZIhArIW%2B1zwgw%3D%3D%0A)
+
+Extra Laag, Laag, Gemiddeld en Hoog.
+
+Bij High wordt het het meest gedetailleerd, zoals te zien is in onderstaande afbeelding.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057169/c6cea2aa0003f1c409488aae/image-7.png?expires=1781092800&signature=163ca81e8090cd8111015b87422fb1c763363cbe441a98de5e2d5addb4160e73&req=dicmFsx5nIdWFb4V1XW4gbUv%2FgjmviCGbDDb1AFfiWu1GWDJMFykpWYqnBSt%0A8wHmdEkuf9lNiFmOD%2B7116w%2BWg%3D%3D%0A)
+
+---
+
+Bij het exporteren van IFC's uit Revit voor gebruik in Catenda Hub raden we aan om het detailniveau niet te hoog in te stellen. Er zullen veel details en extra polygonen in modellen zitten wanneer deze met een hoger detailniveau worden geëxporteerd en dit is niet altijd nodig en zal het navigeren door het model langzamer maken. Dit is een voorbeeld van het verschil tussen exporteren met de instelling Extra laag en Hoog.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057176/4d23600fddf517fa8afa68b3/image-8.png?expires=1781092800&signature=687538a2f51390d1c2496a56ac501a0047a7f2084be29544df3e1c72d2620abd&req=dicmFsx5nIZZFb4V1XW4gXDdgIekagJuRfPcu87o1zP4ve6r3oLBUX0acm25%0ApnerAD5N5Dm6YEoW8hoPiWEcHA%3D%3D%0A)
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057186/de52cec6e75ba1d44c01d9fb/image-9.png?expires=1781092800&signature=4ad8acf5a209d1300b89be36e46854cabc2df68ff8986d80a78a52da834391d0&req=dicmFsx5nIlZFb4V1XW4ga5Y09Ui7TnmuqxhZ3TBUX5W45nlGIxZj38QI3aA%0AEXg8VjMtFsN7DRIWWtmxivtd4w%3D%3D%0A)
+
+Het uiterlijk van het model zal vrijwel hetzelfde zijn, maar het aantal polygonen zal drastisch afnemen en de navigatie in Catenda Hub zal een stuk sneller gaan.
+
+---
+
+### 3.5 Geavanceerd
+
+![](https://downloads.intercomcdn.com/i/o/762436110/53060f6623c03636599afd65/image.png?expires=1781092800&signature=7e5d4c6fc5774a25daed486302bd750786e163677394b3c3810c18beb6217c18&req=cyYlEsp4nIBfFb4V1XW4gZKfAMjUpLLEaBScAMYPcrxl294b7UlsvqYiSVoJ%0AHIfxZOmNpNke9SGMFFIaXhgXRA%3D%3D%0A)
+
+1. Exporteer onderdelen als een standaard IFC element.
+
+2. Selecteer deze optie om het mengen van BRep en extrusie geometrieën voor een unit toe te staan.
+
+3. Selecteer deze optie om de actieve view te gebruiken om de geometrie te genereren. Merk op dat dit onverwachte resultaten kan hebben als het wordt gebruikt in een niet-3D aanzicht.
+
+4. Selecteer deze optie om de familie- en typenamen te gebruiken voor referenties.
+
+5. Selecteer deze optie om een vereenvoudigde benadering te gebruiken voor het berekenen van het kamervolume (gebaseerd op
+
+extrusie van 2D-ruimtedelimieten) die ook standaard is bij het exporteren naar IFC 2x2.
+
+6. Selecteer deze optie om de hoogte vanaf de Z-offset op te nemen voor de lokale positie in IfcSite. Verwijder de optie om deze uit te sluiten.
+
+7. Selecteer deze optie om de gegenereerde IFC GUID's op te slaan in het projectbestand na export. Dit voegt "IFC GUID" parameters toe aan items en hun types en Projectinformatie voor project, website en bouwgidsen.
+
+8. Selecteer deze optie om "Bounding box" representaties te exporteren. Deze optie blijft automatisch geselecteerd voor GSA-export.
+
+9. Als je complexe gebogen elementen of schalen hebt en ze worden niet correct weergegeven na de IFC-export, kun je deze optie selecteren. Houd er wel rekening mee dat het IFC-bestand dan erg zwaar kan worden.
+
+10. Selecteer deze optie als u wilt dat de BAT-ID of de ID van het object wordt weergegeven als de naam van de entiteit.
+
+11. Selecteer deze optie als u wilt dat de Revit objectnaam de naam van de entiteit is
+
+---
+
+### 3.6 Geografische referentie
+
+Het is belangrijk dat je Revit coördinaten gesynchroniseerd zijn met de andere modellen in je project zodat ze op dezelfde plaats terecht komen.
+
+Meet daarom de coördinaten in Catenda Hub op met een puntmaat en specificeer een coördinatenbasis in Revit op een punt dat op dezelfde plaats ligt als het opgemeten punt in Catenda Hub.
+
+![](https://downloads.intercomcdn.com/i/o/969764101/0c12135b4cfe78982de2d2c9/image.png?expires=1781092800&signature=84d865b4e05cd94c652262461fda5186cf3f7d946257cdddba401888aea06abd&req=fSYuEc96nIFeFb4V1XW4gXGcH6FISuvCuGsiUzSJvpN%2B2gT%2BbnAigyT02RI%2F%0AlYpLb4rMYF4tiqRbu5bmBqCC2g%3D%3D%0A)
+
+Je vindt deze optie in de Manage tab -> Coordinates -> Specify Coordinate Base. _coördinaten opgeven bij punt_
+
+Verplaatst een model en roteert het model naar het ware noorden door coördinaten op te geven voor Noord/Zuid, Oost/West en Elevatie.
+
+In Revit is het vaak eenvoudiger om te modelleren onder hoeken van 90 graden en wil je niet het hele model roteren. In dit geval kun je het ware noorden roteren. Je vindt de optie in het vervolgkeuzemenu Positie onder Coördinaten op het tabblad Beheren.
+
+![](https://downloads.intercomcdn.com/i/o/817756541/b53247c4381eb5c35bb9d18b/image.png?expires=1781092800&signature=051311eba043e9a123f63ff0a14ecbb7fa67b292e6e8cb26d9edacab0e00035c&req=fCEgEcx4mIVeFb4V1XW4gZnws9NKcGTDL8o1YS3JtbOTYY7g8BEv%2FiVm1pI9%0AxRm47OnwnfXB466DOBVkk6MV1w%3D%3D%0A)
+
+_1. Projectlocatie_ - Intern
+
+_2. Coördinaat basis_ -
+
+Je kunt deze instelling wijzigen om ervoor te zorgen dat je project op het noorden is georiënteerd
+
+Gedeelde coördinaten - Standaard
+
+Enquête punt
+
+Project Basispunt
+
+Interne oorsprong
+
+Projectbasispunt Georiënteerd in het Ware Noorden
+
+Interne oorsprong Georiënteerd in het Ware Noorden
+
+> **Note:** **Opmerking:** Als u IFC koppelt in het tabblad Invoegen, wordt uw gekoppelde bestand dicht bij uw objecten geplaatst en niet op de locatie die in de IFC wordt beschreven. Om een IFC naar de juiste locatie te importeren, klikt u in plaats daarvan op Bestand -> Openen -> IFC.
+
+**3. Overschrijven**
+
+Hier kunt u de referentie van het geprojecteerde coördinatensysteem overschrijven
+
+---
+
+## 4. IFC opties
+
+De IFC Options van een Revit project kunnen gevonden worden in:
+
+`Bestand -> Exporteren -> Opties -> IFC-opties`
+
+![C:\Users\Kristian\AppData\Local\Temp\SNAGHTML4b61da.PNG](https://catenda-as.intercom-attachments-1.com/i/o/271057200/45a1257c55b1828c71e969a4/image-11.png?expires=1781092800&signature=d18decf494bb4cc9b436ce50608d52e1b2c80f133a56f17d4f9a8256a149b85b&req=dicmFsx5n4FfFb4V1XW4gakKrGrYtjEFmiAUJOtaQtSPFXcdjJtB8agolGCg%0AE4MaP533t6t4YBplk4iE%2FrXM3g%3D%3D%0A)
+
+Hier binnen de _IFC opties_ maken we de instellingen voor het exporteren van een model naar een IFC bestand. Hier kunt u
+
+eigenschappen aanpassen voor het exporteren van een model naar IFC. Wat aan het begin van deze handleiding is vermeld, is
+
+het is niet nodig om te veel informatie uit het model te halen. Vink gerust onnodige
+
+informatie voor het exporteren.
+
+![](https://catenda-as.intercom-attachments-1.com/i/o/271057211/d475dd84fb2efef9d7bf4c1d/image-12.png?expires=1781092800&signature=7212818cd7e7225a6bee95cc202498ff6f83b0de62997b9de764a0ab64ab1a4c&req=dicmFsx5n4BeFb4V1XW4gdpd3cTZLxUOEWsGxDwDCuBU3P2AUy%2Fk33mdcExY%0AtenxeVhs5GN20o7gm4uSxYFP1g%3D%3D%0A)
+
+Het is mogelijk om rasters te bekijken in Catenda Hub, en als je deze in je Revit model hebt is het in IFC Options mogelijk om in te stellen dat rasters worden geëxporteerd in de IFC. Standaard worden deze niet geëxporteerd vanuit Revit.
+
+## 5. Kleuren en materialen
+
+De kleuren die worden weergegeven in Catenda worden gelezen uit het IFC-bestand dat wordt geïmporteerd. Wanneer de materiaaleigenschap van een familie wordt toegevoegd aan de IFC-parameters, wordt de kleur van het materiaal in de materiaaleigenschap toegevoegd aan de IFC en dus weergegeven in Catenda.
+
+In Revit kan je materialen terugvinden in de materiaalbrowser:
+
+`Tabblad Beheer -> sectie Instellingen -> Materialen`
+
+In de materiaalbrowser kan de instelling voor kleur gevonden worden in het grafische tabblad van het materiaal:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1798363404/1016d10e61dcd4bbf3969dd97a39/image.png?expires=1781092800&signature=5ee7272efd7647b8a9544e41af6747a6259a5438ad8ff39d55016bee9b50a88f&req=dScuHsp4noVfXfMW3nq%2BgRHARe%2BfZSLVJkdtDswOuiR0dOcupZAmVKkRpdhZ%0Aq028kr6QAfKB0snku2VNQsJ52sA%3D%0A)
+
+Het is ook mogelijk om de schaduw te vergrendelen naar de renderinstellingen.
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1798375002/9394922e0e04c7beffd701083d45/image.png?expires=1781092800&signature=afe10bc65a063a09c01aa68726995ee41147f91d3ca6e1a64bde1df90d47dbe0&req=dScuHsp5mIFfW%2FMW3nq%2BgczmUc56y62lrqXB5MdIivv23x5JUgzFoFlwBcpp%0Aq8%2FwGq0OF9ww%2Bt1vOJqBMxsgUao%3D%0A)
+
+Oppervlakken in de Catenda 3D viewer hebben een vlakke arcering zonder dat er een lichtbron aanwezig is. De volgende waarden worden door Catenda geïnterpreteerd bij het weergeven van het oppervlak in de 3D viewer:
+
+Algemeen
 
 - Kleur
-- Afbeelding vervagen
-  Transparantie
-- Bedrag
-- Afbeelding vervagen
+- Beeld vervaging
+
+Transparantie
+
+- Hoeveelheid
+- Beeld vervagen
 - Doorschijnendheid
-  Tint
-- Tintkleur
+
+Tint
+
+- Kleur tint
 
 # Het publiceren van revisies - ISO 19650
 
 De ISO 19650 series is een internationale standaard van goede praktijk die het informatie managment proces difinieert binnen de bredere context van digitale transformatie in de bouwsector.
 
 Veel belanghebbende in de bouwsector hebben de ISO-19650 aangenomen als de norm om het proces rondt het beoordelen en indienen van documenten in projecten te handhaven.
+
+Deze artikel bevat informatie over de volgende themas:
 
 ## 1. **Levensgang van een document**
 
@@ -1332,6 +1287,8 @@ Revisies die geüpload zijn zonder dat de status workflow aan staat zullen als g
 # IFC Archicad exporteren handleiding
 
 Houd bij het exporteren van een IFC rekening met wat relevant is voor je IFC-export. Het IFC-bestand kan groot zijn en moeilijk om mee te werken als er veel informatie in staat. Daarom is het belangrijk om geen onnodige informatie te exporteren. In dit rapport krijg je verschillende tips om je IFC-export in Archicad te filteren.
+
+Dit artikel bevat informatie over de volgende onderwerpen
 
 ## 1. Projectinformatie
 
@@ -1609,573 +1566,387 @@ IFC Base Quantities leest de parameters van grootte, oppervlakte en volume. Als 
 
 Stel de eenheden Lengte, Hoek, Oppervlakte, Volume, Valuta en Tijd in voor je export.
 
-# Gereedschapskist voor berichtopmaak
+# Opmaak van berichten
 
-> Hoe velden waarin berichten kunnen worden geplaatst kunnen worden opgemaakt
+Dezelfde opmaakregels gelden voor verschillende berichten m.b.t. Catenda Hub.
 
-Dezelfde opmaakregels gelden voor de verschillende berichten in Catenda Hub.
+Berichten kunnen topic omschrijvingen, commentaren en beoordelingen zijn.
 
-Berichten kunnen onderwerpbeschrijvingen, opmerkingen, goedkeuringsbeschrijvingen en goedkeuringscommentaren bevatten.
-
-Variaties kunnen van toepassing zijn met de verschillende toegang tot wie het bericht kan bewerken.
+Wie het bericht kan bewerken is afhankelijk van de autorisatie.
 
 Catenda gebruikt markdown om tekst op te maken.
 
-Dit betekent dat bepaalde tekens voor en na zinnen de opmaak van de tekst beïnvloeden.
+Dit betekent dat bepaalde tekens voor en na de regels de stijl van de tekst beïnvloeden.
 
-Dit is hoe een onderwerkop en beschrijving er uit kunnen zien nadat ze zijn ingediend:
+> **Note:** **Merk:** Vele methodes vergen een lege lijn ervoor om de stijl toe te passen.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/2142853925/ac356cf8aa82ab2d579f021fbb5a/image.png?expires=1779991200&signature=db379701aa782a795d0715249d2e131838f324a1adc1df5c4f091de05493201d&req=diEjFMF7nohdXPMW3nq%2BgeO5Gu4QTVbwiyiagSAGJYRM3jg%2FjBE06qW2yxJo%0Ah8KhRqQ6FpjyJBQAessFwOYLWgY%3D%0A)
+De volgende thema's zullen beschreven worden in dit artikel:
 
-## 1. Beschikbaarheid van opmaak
+## 1. **Het toepassen van stijl aan tekst**
 
-Het is vaak mogelijk om te zien dat ingediende velden kunnen worden opgemaakt door de gereedschapskist die onder het veld verschijnt wanneer het veld wordt bewerkt.
+Met de volgende opties heeft u diverse tekst stijlen:
 
-> **Opmerking:** Zoom ver genoeg uit met de browserzoombalk om alle gereedschappen te zien. Opmaak is beschikbaar in de volgende velden:
+### 1.1 **Vette, cursieve en doorgestreepte tekst**
 
-### 1.1 **Onderwerpbeschrijving en opmerking**
+```
+**Dit zal vette tekst worden** __Dit zal ook vette tekst worden__ *Dit zal cursief worden* _Dit zal ook cursief worden_ **Dit zal vette tekst _gecombineerd met cursief_ worden**~~Deze tekst zal doorgestreept worden~~
+```
 
-Bewerk de beschrijving of opmerking van een bestaand onderwerp of dien een nieuw onderwerp in om de gereedschapskist te zien:
+**Dit zal vette tekst worden** **Dit zal ook vette tekst worden** _Dit zal cursief worden_ _Dit zal ook cursief worden_ **Dit zal vette tekst _gecombineerd met cursief_ worden** Deze tekst zal doorgestreept worden
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/2142716774/e00776f86b3e5961148459c33a7b/image.png?expires=1779991200&signature=0e22d9a262f6ec8cc9ffd59b884be7ed21d8b5d927709293d35243a523fd2783&req=diEjFM5%2Fm4ZYXfMW3nq%2BgbCbYvmyhkqzs2jDl1gilk2Cc6xR6QmhVhC4KlhS%0ACdo6DkIGE0Ixwn%2FSMNbyKzybwrM%3D%0A)
+### 1.2 **Kop tekst**
 
-### 1.2 **Goedkeuringsverzoeking beschrijving**
+`##` aan het begin van tekst zal een kop tekst gemaakt worden
 
-Hoewel de gereedschapskist niet verschijnt in de beschrijving van het nieuwe goedkeuringsverzoekdialoogvenster, wordt opmaak wel op deze beschrijving toegepast.
+### 1.3 **Links**
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/2142756009/c685a2145d819c521e9b89301e28/image.png?expires=1779991200&signature=a1394fe4b4d02e17d42e3e01c374d3f6632eb7073f1ffaaf21967e4f1f1de396&req=diEjFM57m4FfUPMW3nq%2BgXv%2FXso50VfU4OEek4DqeluKvN6IUb%2Fs7og0Rhc8%0A48b%2B0%2BiwKq5dFttZGJQJHxTwIPc%3D%0A)
+Links in berichten zullen groen en onderstreept zijn.
 
-> **Opmerking:** Dit veld kan niet worden bewerkt nadat het goedkeuringsverzoek is ingediend.
+De tekst kan verschillen van de url waar de link naar verwijst.
 
-### 1.3 Onderwerpbord beschrijving
-
-Hoewel de gereedschapskist verschijnt in de beschrijving van het nieuwe onderwerpbord, is het belangrijk op te merken dat de beschrijving niet wordt opgemaakt wanneer het bord wordt ingediend.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2142743765/402182e2f1338dc3fb1929bba3cb/image.png?expires=1779991200&signature=d602bee7f2778397607b0ba3230f11c8c54bd3d37fc0c145263106ffbf43ccdd&req=diEjFM56noZZXPMW3nq%2BgWTJvB12fwkzGWwhaz5DPXa%2BsBXBYBDmT0SxeF%2Fe%0ASdziSiIf%2B5qLx8pvhZlyvl%2BRq40%3D%0A)
-
-## 2. **Onderwerpopmerking bijlage**
-
-In onderweropopmerkingen is een bijlagegereedschap zichtbaar.
-
-Klik de +-knop in een onderwerp om een bijlage toe te voegen.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2142827695/c7a30545e080d9d0bd9ee89cb50f/image.png?expires=1779991200&signature=f5f9fdcc7584b990c376a7c8977c5073d5bfff6da9fcd6b1a4dacb22367b612a&req=diEjFMF8modWXPMW3nq%2BgfoJa9V%2FF6CobGabe6rQFCVQI2kDswJq%2FdteSPD8%0Amh%2B8dJM45JEwNUzv7TnCV76TSTo%3D%0A)
-
-Klik [hier](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae) voor meer informatie over opmerking bijlagen.
-
-## 3. **Tekst opmaken**
-
-### 3.1 **Vet, cursief, doorgehaald**
-
-Vet, cursief en doorgehaalde opmaak kunnen overal op een regel worden gedaan en werken goed samen met andere opmaakopdrachten die aan het begin van een regel moeten staan. <img alt="**Dit wordt vet** **Dit wordt ook vet** _Dit wordt cursief_ _Dit wordt ook cursief_ **Dit wordt vet _gecombineerd met cursief_** ~~Deze tekst wordt doorgehaald~~" src="https://downloads.intercomcdn.com/i/o/areracg3/2142792258/413abae1f84003541985e219ba6a/image.png?expires=1774980000&amp;signature=2d6fe37d7b6194387af9777ef3fff90661568c1f4c9c671432a579a2eb3326f5&amp;req=diEjFM53n4NaUfMW3Hu4gT%2BWlpelLC%2FZyeDdX1yNHeLbkkEA7t04WYWBkBTX%0A2w%3D%3D%0A" width="290"/>   \<->   <img alt="Dit wordt vetDit wordt ook vetDit wordt cursievDit wordt ook cursievDit wordt vet gecombineerd met cursievDeze tekst wordt doorgehaald" src="https://downloads.intercomcdn.com/i/o/areracg3/2142795125/2e54ab8ee52b65dc4705ce317a46/image.png?expires=1774980000&amp;signature=49a7d42096c9d732940db393c57d4c7f51d3675b98a4bc93ba2e4d2977de9468&amp;req=diEjFM53mIBdXPMW3Hu4gZqcrM4jhw7heqMaiz7UXJrKgwDtxdXRZOmHVQh5%0A%2Bw%3D%3D%0A" width="290"/>
-
-### 3.2 **Koppen**
-
-Het kopgereedschap voegt hashtags/poundtekens toe aan het begin van de regel.
-
-Er worden 5 niveaus van koppen ondersteund:
-
-De opmaak die de kop ontvangt, is afhankelijk van het aantal hashtags/poundtekens (`#`) aan het begin van de regel. <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/2142774211/4d966269824f2314e3685bf574d2/image.png?expires=1774980000&amp;signature=deb6ed14712f57d0d4b0c53ec1279375556850bf32c8840e20badb8d373516f3&amp;req=diEjFM55mYNeWPMW3Hu4gYpCJPwCMzegJvhdZHHTxaYqo1q9T5nZ7c27Xhfd%0A9g%3D%3D%0A" width="290"/>   \<->   <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/2142782676/88eae0f146164d95cf6bc94bb9d9/image.png?expires=1774980000&amp;signature=41447ae0185c19ef09c816795ecb067042f94fcc6a970d0590590458ea2848e5&amp;req=diEjFM52n4dYX%2FMW3Hu4gXMRNm2JOBxeB8KI3qP4itWZAkDmJ%2BtQeqYn168Q%0AwQ%3D%3D%0A" width="290"/>
-
-### 3.3 **Koppelingen**
-
-Koppelingsopmaak kan overal op een regel worden gedaan en werkt goed samen met andere opmaakopdrachten die aan het begin van een regel moeten staan.
-
-Koppelingen in beschrijvingen zijn groen en onderstreept.
-
-Hun tekst kan anders zijn dan de URL waarnaar de koppeling verwijst.
-
-URL's worden automatisch in klikbare koppelingen omgezet
+Urls zullen automatisch tot klikbare links veranderd worden.
 
 ```
 https://hub.catenda.com
 ```
 
-wordt
+Zal het volgende worden:
 
 [https://hub.catenda.com](https://hub.catenda.com)
 
-en
+En
 
 ```
 [Catenda Hub](https://hub.catenda.com)
 ```
 
-wordt:
+Zal het volgende worden:
 
 [Catenda Hub](https://hub.catenda.com)
 
-> **Opmerking:** Wees voorzichtig met het klikken op koppelingen, want hoewel de tekst [uit de vierkante haakjes] misschien een koppeling toont, kan de werkelijke koppeling (uit de ronde haakjes) anders zijn. Het is aanbevolen om over een koppeling te zweven en te kijken waar de browser naartoe zal doorsturen voordat u op een koppeling klikt.
+### 1.4 **Opmaak voorkomen**
 
-### 3.4 **Opmaak voorkomen**
-
-Door woorden in niet-letter- of getal tekens in te pakken, kunt u ze anders laten zien.
+Door woorden te plaatsen in niet-letter- of cijfertekens kun je ze er anders uit laten zien.
 
 Dit is niet altijd gewenst.
 
-Als u een `\\` voor zo'n teken zet, verdwijnt de `\\`.
+Als je een י voor zo'n teken zet, verdwijnt de י.
 
-Alle opmaakopdrachten die voor deze tekens zouden zijn toegepast, werken dan niet meer.
+De opmaak die voor deze tekens zou zijn toegepast, werkt dan niet meer.
 
-Als u een `\\` op een lege regel plaatst die niet onderdeel is van een [lijst](#h_6da4949f8c), blijft het resultaat ook een lege regel.
+Als je een ▶ op een lege regel zet die geen deel uitmaakt van een lijst, zal het resultaat ook een lege regel zijn.
 
-## 4. **Tekst opsplitsen en structuur toevoegen**
+## 2. **Tekst opsplitsen en structuur toevoegen**
 
-### 4.1 **Afbeeldingen**
+Met de volgende methoden kun je je tekst verbeteren door hem op te splitsen en structuur toe te voegen:
 
-Afbeeldingen in beschrijvingen kunnen een koppeling aan zich hebben.
+### 2.1 **Foto's**
 
-Om afbeeldingen in te voegen kunt u deze syntaxis gebruiken
+Foto's in berichten kunnen een gekoppelde link hebben.
+
+Volg deze syntax om foto's in berichten in te sluiten.
 
 ```
 ![text](https://bimsync.com/img/favicon/dark-mode/favicon-32x32.png)
 ```
 
-om deze afbeelding met het woord text erachter te krijgen.
+Om de volgende foto met het woord tekst er achter te krijgen.
 
-![text](https://downloads.intercomcdn.com/i/o/771763976/bbed60dfcfa022fd26770bb1/faviconV2.png?expires=1779991200&signature=9b05330d32d2ade5b70422cc84942dffa276d43efb8a48972f30cc0278d591fe&req=cycmEc99lIZZFb4V1XW4gaTV8ABi7RF2xk92u6a%2BtkN3rtUWh3uSMnp1R6NF%0ASJXjyML2HaJAl9pSz4Covc8%2Bew%3D%3D%0A)
+![text](https://downloads.intercomcdn.com/i/o/areracg3/1211345724/faf70b08f3819dbb120fe1de4cb9/faviconV2.png?expires=1781092800&signature=548832312799b4ee2fb4f38df3219c970246643cb2f2c64dfdd6fdf425893a0f&req=dSImF8p6mIZdXfMW3nq%2BgY6nTsiIpE1wj0Itr3wpRi2Ru5%2BxSQb%2FMMbJONWB%0Af9S2DQSTCHJdsYiI8601Ah1rJe8%3D%0A)
 
-Opdat de afbeelding correct wordt weergegeven, moet Catenda toegang hebben tot de opgegeven koppeling.
+Om een foto op de juiste manier tevoorschijn te laten komen moet Catenda toegang hebben tot de ingevoerde link.
 
-> \+ De afbeelding kan aan een beschrijving worden toegevoegd \+ De afbeelding kan met tekst worden gemengd zodat u zowel voor als na de afbeelding in dezelfde opmerking of beschrijving tekst kunt hebben. \+ Afbeeldingen zoals deze kunnen worden gecombineerd met tabellen en lijsten. U kunt bijvoorbeeld een vinkje-afbeelding in het midden van een zin/tabel toevoegen in plaats van het opmaakselectievakje dat alleen aan het begin van een zin werkt \- U kunt niet garanderen dat de koppeling naar de afbeelding in de toekomst beschikbaar blijft. _Catenda-afbeeldingsdocumentkoppeling verkrijgen_ Als u met de rechtermuisknop op de [downloadactiebun klikt nadat u een document hebt geselecteerd](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) of met de rechtermuisknop op de [nieuwste revisie-downloadactieknop klikt nadat u een document hebt geopend](https://support.catenda.com/en/articles/9323521-actions-in-a-document), kunt u de downloadkoppeling van het document kopiëren. Als u deze koppeling in uw onderwerp gebruikt zoals hierboven, kunt u Catenda-documenten in onderwerpen gebruiken. \+ Als u een koppeling naar een Catenda-afbeeldingsdocument toevoegt, kunt u afbeeldingen toevoegen die alleen op Catenda worden weergegeven en niet beschikbaar zijn op andere platforms waar het onderwerp mee kan worden uitgewisseld. \+ Door koppelingen naar een Catenda-afbeeldingsdocument toe te voegen, kunnen alleen personen met toegang tot het document de afbeelding zien. \- Als u een koppeling naar een Catenda-afbeeldingsdocument toevoegt, is dit niet zichtbaar op andere platforms waarmee het onderwerp mogelijk is gesynchroniseerd en voor personen die geen toegang tot het document hebben.
+> **Note:** \+ De foto kan tot de omschrijving toegevoegd worden \+ De foto kan worden gemengd met tekst, zodat je tekst zowel voor als na de foto kunt hebben in dezelfde opmerking of beschrijving. \+ Foto's als deze kunnen gecombineerd worden met tabellen en lijsten. Bijvoorbeeld kunt u een checkmark foto in het midden van een zin/tabel toevoegen in plaats van een opmaak selectievakje die alleen aan het begin van een zin werkt. \- Het kan niet gegarandeerd worden dat de link naar de foto in de toekomst toegankelijk blijft.
 
-### 4.2 **Lijsten**
+_Een Catenda foto documentenlink verkrijgen_ Als u met de rechtermuisknop op [de download actieknop na een document geselecteerd te hebben](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) klikt of met de rechtermuisknop op [de download laatste revisie actieknop klikt na een document geopend te hebben](https://support.catenda.com/en/articles/9323521-actions-in-a-document) zal u de download link van het document kunnen kopiëren. Als u deze link in uw topic gebruikt als hier boven, zal Catenda documenten in topics kunnen gebruiken.
 
-_Ongeordende lijsten _
+> **Note:** \+ Als u een link tot een Catenda foto document toevoegt zal u fotos zien die alleen op Catenda, en niet op andere platforms waar de topic mee uitgewisseld wordt, zichtbaar zijn \+ Door links tot een Catenda foto document toe te voegen zullen alleen leden met toegang tot het document de foto zien. \- Als u een link tot een Catenda foto document toevoegt zal deze niet zichtbaar zijn in andere platforms waar de topic mee gesynchroniseerd kan zijn en met andere leden die geen toegang tot het document hebben.
 
-Start een ongeordende lijst met een lege regel erboven, gevolgd door een koppelteken (`-`), plus (`+`) of sterretje (`\*`) gevolgd door een spatie.
+### 2.2 **Lijsten**
 
-Voeg 4 spaties of een tabteken aan het begin van de regel in om een sublijst te maken.
+**Niet-gerangschikte lijsten**
 
-```
- - Eerste element - Tweede element     - Voeg 4 spaties aan het begin van de regel in om een sublijst te maken.
-```
+Start een niet-gerangschikte lijst met een lege lijn erboven en daarna een koppelteken (`-`), plus (`+`), of een sterretje (`\*`) gevolgd door een spatie.
 
-Of
+Voeg 4 spaties of een tab spatie in aan het begin van de lijn om een sublijst aan te maken.
 
 ```
- + Eerste element + Tweede element     + Voeg 4 spaties aan het begin van de regel in om een sublijst te maken.
+- Eerste element- Tweede element     - Voeg 4 spaties aan het begin van de lijn toe en maak een sublijst.
 ```
 
 Of
 
 ```
- * Eerste element * Tweede element     * Voeg 4 spaties aan het begin van de regel in om een sublijst te maken.
++ Eerste element+ Tweede element     + Voeg 4 spaties aan het begin van de lijn toe en maak een sublijst.
 ```
 
-Dit zal allemaal in het volgende veranderen:
+Of
+
+```
+* Eerste element* Tweede element     * Voeg 4 spaties aan het begin van de lijn toe en maak een sublijst.
+```
+
+Zal allemaal in dit veranderen:
 
 - Eerste element
 - Tweede element
-  - Voeg 4 spaties aan het begin van de regel in om een sublijst te maken.
+    - Voeg 4 spaties aan het begin van de lijn toe en maak een sublijst.
 
-> \_\*Opmerking: \_\*Opdat een ongeordende lijst correct kan worden opgemaakt, moet er een lege nieuwe regel boven de lijst staan. _Geordende lijsten _ Start een geordende lijst met een lege regel erboven, een getal, een punt en een spatie (`1. `) Wat het getal ervoor is, doet er niet toe, als het maar een getal is gevolgd door een punt. Voeg 4 spaties of een tabteken aan het begin van de regel in om een sublijst te maken.
+**Gerangschikte lijst**
 
-```
-1. item een 2. item twee 3. item drie     4. item vier
-```
+Start een gerangschikte lijst met een lege lijn er boven, een nummer, een punt en een spatie (`1. `)
 
-Of
+Het maakt niet uit wat het nummer aan het begin van de lijn is. Alleen dat het een nummer is dat door een punt gevolgd wordt. Voeg 4 spaties of een tab spatie toe an het begin van de lijn om een sublijst te maken.
 
 ```
-1. item een 1. item twee 1. item drie     1. item vier
+1. Punt één2. Punt twee3. Punt drie     4. Punt vier
 ```
 
-Of
+Or
 
 ```
-1. item een 10. item twee 1. item drie     1000. item vier
+1. Punt één1. Punt twee1. item three     1. Punt vier
 ```
 
-Dit zal allemaal in het volgende veranderen:
-
-1. item een
-2. item twee
-3. item drie
-   4. Item vier
-
-> \_\*Opmerking: \_\*Opdat een geordende lijst correct kan worden opgemaakt, moet er een lege nieuwe regel boven de lijst staan. Het getal waarmee u begint, heeft geen invloed op waar de nummering begint
+Or
 
 ```
-23. drieëntwintig 1. vierentwintig 1. vijfentwintig     1. zesentwintig
+1. Punt één10. Punt twee1. item three     1000. Punt vier
 ```
 
-Dit zal veranderen in:
+Zal allemaal hierin veranderen:
 
-1. drieëntwintig
-2. vierentwintig
-3. vijfentwintig
-   4. zesentwintig
-   Als u de nummering opnieuw wilt instellen en op een tweede lijst binnen hetzelfde bericht vanaf één wilt beginnen, kunt u een lege regel of een [scheidingslijn](#h_3a36cfbc61) ertussen plaatsen.
-   Om [ervoor te zorgen dat de lijst niet wordt opgemaakt](#h_2ec17c688b) zodat u uw eigen nummering kunt gebruiken:
-   Plaats een teken op de regel boven de lijst. Een goede keuze is `\\` omdat deze zal verdwijnen.
+1. Punt één
+1. Punt twee
+1. Punt drie
 
-```
-\23. drieëntwintig 24. vierentwintig 25. vijfentwintig     26. zesentwintig
-```
+    4. Punt vier
 
-Plaats een backslash (`\\`) voor de punt (`.`):
+Het nummer waar u mee begint heeft geen invloed op waar de nummering begint.
 
 ```
-23\. drieëntwintig 24\. vierentwintig 25\. vijfentwintig     26\. zesentwintig
+23. Drie-en-twintig1. Vier-en-twintig1. Vijf-en-twintig    1. Zes-en-twintig
 ```
 
-Dit zal allemaal veranderen in:
+Zal hierin veranderen:
 
-23. drieëntwintig
-24. vierentwintig
-25. vijfentwintig
-26. zesentwintig
+1. Drie-en-twintig
+1. Vier-en-twintig
+1. Vijf-en-twintig
 
-### 4.3 **Scheidingslijnen**
+    4. Zes-en-twintig
 
-## 5. Drie streepjes `---` of meer op hun eigen regel maken een scheidingslijn:
+Als u wenst om het nummeren te resetten en weer vanaf één in een tweede lijst binnen hetzelfde bericht te beginnen kunt u een lege lijn of een [scheiding](#h_37339488ba) er tussen zetten.
 
-### 5.1 **Selectievakjes**
-
-Deze kunnen worden gecontroleerd in de beschrijving van een onderwerp.
-
-_Vereiste toegang:_ Schrijftoegang tot het onderwerpbord.
+Als u wilt [verzekeren dat de lijn niet opgemaakt wordt](#h_001385e47a) dan kan u uw eigen nummering maken: Zet een teken op de lijn boven de lijst. Een goede keuze is `\\` omdat deze zal verdwijnen
 
 ```
-- [ ] eerste item - [x] tweede item     - [ ] sublijstiteem
+\23. Drie-en-twintig24. Vier-en-twintig25. Vijf-en-twintig    26. Zes-en-twintig
 ```
 
-Dit zal veranderen in:
-
-![](https://downloads.intercomcdn.com/i/o/771723650/68ecca535a3773ab421c8ee7/image.png?expires=1779991200&signature=d23a7a806497626ab4118fb6bb2fd6d2d7d924651c7b83e3b0f63dc59f6999da&req=cycmEct9m4RfFb4V1XW4gYbX9iNJlq8uvamOj0lm8O%2BSpB%2FOvxnFm%2BlJkvq2%0AR1uxxveWd8ZBGh4U6IBmZc0a%2FQ%3D%3D%0A)
-
-Klik [hier](https://support.catenda.com/en/articles/5036461-check-lists-within-issues) om een snelle video te kijken over hoe selectievakjes kunnen worden gebruikt in het project.
-
-Als u ` - [ ]` of `- [x]` schrijft, blijft het vak ongecontroleerd en gecontroleerd wanneer de opmerking wordt ingediend of na bewerking wordt opgeslagen.
-
-_Selectievakjes in opmerkingen_
-
-In opmerkingen kunnen selectievakjes alleen door opmaak worden gecontroleerd.
-
-Selectievakjes in opmerkingen kunnen niet worden aangeklikt om te worden gecontroleerd.
-
-_Vereiste toegang -_ De opmerking-maker heeft toegang tot het bewerken van de gemaakte opmerking
-
-### 5.2 **Tabellen**
-
-Tekst in beschrijvingen kan in tabellen worden georganiseerd.
+Zet een achterwaardse schuine streep (`\\`) voor de punt (`.`):
 
 ```
-|            | Windows            ||             | |            | Type 1   | Type 2   | Sum totaal   | |----------- | -------- | -------- | ----------- | | **Prijs**  | 500,-    | 400,-    |             | | **Hoeveelheid** | 10       | 4        |             | | **Som**    | 5 000,-  | 1 600,-  | **6 600,-** |
+23\. Drie-en-twintig24\. Vier-en-twintig25\. Vijf-en-twintig    26\. Zes-en-twintig
 ```
 
-resulteert in dit
+Zal allemaal hierin veranderen:
+
+23. Drie-en-twintig
+
+24. Vier-en-twintig
+
+25. Vijf-en-twintig
+
+26. Zes-en-twintig
+
+### 2.3 **Scheidingen**
+
+Drie of meer koppeltekens `---` op hun eigen lijn zal een scheiding aanmaken:
+
+---
+
+### 2.4 **Checklijsten**
+
+Deze kunnen gecheckt worden in de omschrijving van een topic.
+
+_Toegang vereist:_ Schrijf toegang tot het topic board.
+
+```
+- [ ] Eerste punt- [x] Tweede punt     - [ ] Sublijst punt
+```
+
+Zal hierin veranderen:
+
+![](https://downloads.intercomcdn.com/i/o/areracg3/1211345723/7a1585bccd8fa66e052333b606b3/image.png?expires=1781092800&signature=721222657a0c4c0d8536b51faf76c1aa77e36a95a9fbba3b1d110b47890c6f87&req=dSImF8p6mIZdWvMW3nq%2BgQykGtCVso3G%2FJ3a9oafC8JfDimpvcqSTY3Lv68B%0A8wzPIOzOY36CTQVS7JehWPDZsEU%3D%0A)
+
+Klik [hier](https://support.catenda.com/en/articles/5036461-check-lists-within-issues) om een korte video te kijken over hoe checklijsten in een project gebruikt kunnen worden. Als u `- [ ]` of `- [x]` schrijft zal de box er nog steeds wel of niet gevinkt uitzien wanneer het commentaar ingediend wordt of opgeslagen wordt na bewerkt te zijn.
+
+**Selectievakjes in commentaren**
+
+In commentaren kunnen selectievakjes alleen gevinkt worden door opmaak.
+
+Selctievakjes in commentaren kunnen niet geklikt worden om gevinkt te worden. _Toegang vereist -_ De aanmaker van het commentaar heeft toegang om het commentaar te bewerken.
+
+### 2.5 **Tabellen**
+
+Tekst in berichten kan in tabellen opgemaakt worden.
+
+```
+|            | Ramen              ||             | |            | Type 1   | Type 2   | Totaalbedrag| |----------- | -------- | -------- | ----------- | | **Prijs**  | 500,-    | 400,-    |             | | **Aantal** | 10       | 4        |             | | **Bedrag** | 5 000,-  | 1 600,-  | **6 600,-** |
+```
+
+Zal hierin veranderen:
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p class="no-margin"></p>
-</td><td><p class="intercom-align-right no-margin">Win</p></td><td><p class="no-margin">dows</p></td><td><p class="no-margin"></p>
+</td><td><p class="no-margin"></p>
+</td><td><p class="no-margin">Ramen</p></td><td><p class="no-margin"></p>
 </td></tr><tr><td><p class="no-margin"></p>
-</td><td><p class="no-margin">Type 1</p></td><td><p class="no-margin">Type 2</p></td><td><p class="no-margin">Sum totaal</p></td></tr><tr><td><p class="no-margin"><b>Prijs</b></p></td><td><p class="no-margin">500,-</p></td><td><p class="no-margin">400,-</p></td><td><p class="no-margin"></p>
-</td></tr><tr><td><p class="no-margin"><b>Hoeveelheid</b></p></td><td><p class="no-margin">10</p></td><td><p class="no-margin">4</p></td><td><p class="no-margin"></p>
-</td></tr><tr><td><p class="no-margin"><b>Som</b></p></td><td><p class="no-margin">5 000,-</p></td><td><p class="no-margin">1 600,-</p></td><td><p class="no-margin"><b>6 600,-</b></p></td></tr></tbody></table></div>
+</td><td><p class="no-margin">Type 1</p></td><td><p class="no-margin">Type 2</p></td><td><p class="no-margin">Totaalbedrag</p></td></tr><tr><td><p class="no-margin"><b>Prijs</b></p></td><td><p class="no-margin">500,-</p></td><td><p class="no-margin">400,-</p></td><td><p class="no-margin"></p>
+</td></tr><tr><td><p class="no-margin"><b>Aantal</b></p></td><td><p class="no-margin">10</p></td><td><p class="no-margin">4</p></td><td><p class="no-margin"></p>
+</td></tr><tr><td><p class="no-margin"><b>Bedrag</b></p></td><td><p class="no-margin">5 000,-</p></td><td><p class="no-margin">1 600,-</p></td><td><p class="no-margin"><b>6 600,-</b></p></td></tr></tbody></table></div>
 
-### 5.3 **Codeblokken**
+### 2.6 **Code stukken**
 
-U kunt als volgt enkele coderregels invoegen:
+U kunt enkele lijnen met code op deze manier indienen:
 
-Twee `\`` omringende tekst ziet er als volgt uit:
+Twee backtick-tekens `\`` rondtom tekst zal er zo uit zien:
 
-![](https://downloads.intercomcdn.com/i/o/771793825/fd17ce2b39f52f9d01f04e3c/image.png?expires=1779991200&signature=25e222958c350bf2b7205a8ff753aeb9905b00d38e3fe2bebfe3e7b253f7e372&req=cycmEcB9lYNaFb4V1XW4ga945tc2cSgx7AwGMqNa4RYE5ngLVI0srv3KI1sb%0Anc%2B9snPi07Ah5Cq4T7IsDwcf4Q%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/areracg3/1211345725/26a36da68a911a6aecdcdc21ca46/image.png?expires=1781092800&signature=74952851a37195d710ec4e507e77b15724167755801d24a9c2853e8faff3577b&req=dSImF8p6mIZdXPMW3nq%2BgYtB72jqcm9AqMmXlQw%2BqstgRp%2FPe4%2FdOjB8M20w%0AiwiJAzU4%2FbcRZiAiw%2BKcbhMVfoM%3D%0A)
 
-Drie backticks `\`\`\`` boven en onder een stuk tekst ziet er als volgt uit:
+Drie backtick-tekens `\`\`\`` boven en onder een stuk tekst zal er zo uit zien:
 
-![](https://downloads.intercomcdn.com/i/o/771797280/ee27c00beca127bdbb17fe31/image.png?expires=1779991200&signature=8a5803984027930c02cf74d937068874ce0e3c42486dd1b44471fd8d8c5c8e21&req=cycmEcB5n4lfFb4V1XW4gRbAB%2FlKj74sF5Ju%2Bfd8vDzdBPr6Lkw5CuUdhrZR%0AkT1tBG%2Fu8ZVbYmzQ96APqjkT5g%3D%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/areracg3/1211345727/e5d3c5f6c700ab4b1bcb6e7c113f/image.png?expires=1781092800&signature=b511a5eb28ef42a80b59872c21ed8fdc370d18b3dbebf67ca7e67550fc06127a&req=dSImF8p6mIZdXvMW3nq%2BgWfkW2HJaVA0dJ%2BCPAIuyxvgTuiQBcgoph5E3jVq%0A6nODZuPinphTMCcaH13%2Bpd9PyQc%3D%0A)
 
-Het is niet mogelijk tabellen in codeblokken toe te voegen
+Het is niet mogelijk om tabellen in code stukken toe te voegen
 
-### 5.4 **Markdown dialect**
+### 2.7 **Markdown dialect**
 
-Als u meer wilt weten over hoe tekst in opmerkingen en beschrijvingen wordt opgemaakt, gebruiken we het markdown dialect "flexmark" om deze tekst op te maken.
+Als u zou willen weten hoe de tekst in commentaren en omschrijvingen opgemaakt wordt gebruiken wij het markdown dialect "flexmark" om de tekst op te maken. Vind meer uit over flexmark op hun [github pagina](https://github.com/vsch/flexmark-java).
 
-Meer informatie over flexmark vindt u op hun [github-pagina](https://github.com/vsch/flexmark-java).
+## 3. **@ Leden en teams vernoemen**
 
-## 6. **@ Vermelde leden en teams**
+U kunt een gebruiker vernoemen door `@` te typen en de account naam van de gebruiker die u wilt vernoemen te typen.
 
-Klik op het `@`-gereedschap of schrijf `@` in een beschrijving of opmerking om een lid te vermelden.
+Door op een vernoemde gebruiker of team te klikken zal u naar te [ledenpagina](https://support.catenda.com/en/articles/8228836-member-page) van die gebruiker of [team pagina](https://support.catenda.com/en/articles/7891755-team-page) van dat team genomen worden.
 
-Na het typen van `@` wordt een vervolgkeuzelijst met leden en teams weergegeven.
+Gebruikers en teams die vernoemd zijn in berichten van een topic zullen het topic automatisch [volgen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) en zullen daarmee notificaties over toekomstelijke veranderingen in het topic krijgen.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/2102724602/dfd63733158f932a304596decf84/image.png?expires=1779991200&signature=266a7840bf95b8b253ec385b2f655a8f49bdec2f03f681715a2184b5321bc158&req=diEnFM58mYdfW%2FMW3nq%2BgQgVJSLkSxRSadTEPadiZdNpnB391hNKmHZ5LqXx%0AJCj3xsiGglM4P1a7sLfHtZH61EM%3D%0A)
+Dit is een goede manier om te verzekeren dat meer dan aleen de toegewezen en aangevraagde in het topic notificaties over toekomstelijke veranderingen uit een topic krijgen.
 
-Door te beginnen met het e-mailadres, lidnaam of teamnaam te typen, kunt u door de lijst zoeken.
+## 4. **# Getagde topics**
 
-Ga omhoog en omlaag in de lijst met de pijltoetsen en klik of druk op Enter om een lid of team te selecteren.
+U kunt topics taggen door `#` te typen en het nummer van het topic te schrijven.
 
-Opdat een lid of team in deze lijst wordt weergegeven, moet het lid of team minstens leestoegang tot het onderwerpbord hebben.
+Na enter gedrukt te hebben zullen getagde topics er uit zien als `#[123]` in de bewerkte tekst. U kunt dit ook met de hand schrijven op deze manier.
 
-Na het selecteren van een lid of team in de lijst krijgt de `@` extra tekst die er als volgt uit kan zien:
+Na een bericht verzonden te hebben zal de tekst van de link dynamisch de kleur, status, titel en topic nummer van de topic samen met een klikbare link van deze topic bevatten.
 
-`@[\<email address of member>]` of `@[\<Team name>]`
+Wanneer u een topic tagt zal die topic tot de [gerelateerde topics](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in het [rechter zij menu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) toegevoegd worden.
 
-### 6.1 **Het opslaan of indienen van een vermelding in een onderwerp**
+Topics kunnen met de hand verwijderd worden uit [gerelateerde topics](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8).
 
-Wanneer de beschrijving wordt opgeslagen of de opmerking wordt ingediend, ontvangen gerelateerde leden met toegang tot het onderwerpbord een melding.
+# Pagina Modellen
 
-Als het e-mailadres van het lid of de naam van het team bekend is, kan het ook handmatig worden geschreven, maar als ze geen onderdeel zijn van het onderwerpbord, worden gerelateerde leden niet op de hoogte gesteld dat ze worden vermeld.
+Je vindt de modellenpagina als tweede pagina in het linker navigatiemenu van een project. Deze pagina maakt deel uit van het inhoudspaneel. De modellenpagina bevat de modellen voor elke discipline.
 
-_Melding bij vermelding van lid_
+![](https://downloads.intercomcdn.com/i/o/753282128/fb5c8f2d9e12a421c708ba94/image.png?expires=1780444800&signature=a2682613d2faa62308055419f5d39253764cb8f232f7823d7c5f48eadec93783&req=cyUkFMF8nINXFb4V1XW4gb7fmM%2BQmEHrGp7bBzEzB1S%2FjYUqHOypBHdGTG%2Bq%0A3WPouqeSIZWMvlVEOyRouQR5RQ%3D%3D%0A)
 
-Leden met toegang tot het onderwerpbord die worden vermeld, ontvangen een melding dat ze in een onderwerp worden vermeld.
+## 1. Nieuwe item acties
+De nieuwe item acties kun je rechtsboven op de pagina vinden.
 
-_Melding bij vermelding van team_
+![](https://downloads.intercomcdn.com/i/o/1073698722/6af87f1f6e6ea72898acb52c/image.png?expires=1780444800&signature=786aa0e61f267abfc9195707dd65f9de5e2bccd68a29d1bffbeb0af55cc99e30&req=dSAgFc93lYZdW%2FMW3nq%2BgagieBq1BjgNgLGdhYsZTBOnFQB2VkFvXzTnfiux%0AUFoXSEfJ8LjOSlI4s6Bm2%2BdXy%2FI%3D%0A)
 
-Leden met toegang tot het onderwerpbord die deel uitmaken van een team dat wordt vermeld, ontvangen een melding dat een team waarvan zij deel uitmaken in een onderwerp wordt vermeld.
+Bekijk [hier](https://support.catenda.com/en/articles/9431936-actions-on-the-models-page) wat de verschillende acties doen.
 
-_Meldingen over toekomstige onderwerpgebeurtenissen_
+## 2. Zoek- of filteropties
+Bekijk [hier](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page) hoe je het beste kunt zoeken of filteren op de modellenpagina:
 
-Leden van teams die in onderwerpen beschrijvingen en opmerkingen worden vermeld, ontvangen alleen de ene melding na de opgeslagen beschrijving of ingediende opmerking.
+![](https://downloads.intercomcdn.com/i/o/areracg3/1702848368/4c99fc064c7351e524831d7686e6/image.png?expires=1780444800&signature=de7aea876484e642560d1e90ba1d94c9217caec83427f7701092ae2d5e29cb0b&req=dScnFMF6lYJZUfMW3nq%2BgVPl8vbIk0SOg2mZUW1XEw2vh%2FyLyALP9d4MtnBT%0A%2BRO6oWFpKfGnK7vdJ6YZRuD162U%3D%0A)
 
-Naast de melding dat zij worden vermeld, worden leden die in berichten worden vermeld automatisch ingesteld op [volgen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) het onderwerp en ontvangen zij meldingen over onderwerpgebeurtenissen zoals nieuwe opmerkingen en statuswijzigingen.
+## 3. Rechter menu
+Als er modelrijen zijn geselecteerd in de modellentabel, verschijnt er een infoknop rechts van de zoek- of filterbalk.
+De infoknop kan er ongeveer zo uitzien:
 
-Dit is een geweldige manier om ervoor te zorgen dat niet alleen de [toegewezen persoon](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) en [aanvrager](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7) meldingen krijgen over toekomstige wijzigingen een onderwerp.
+![](https://downloads.intercomcdn.com/i/o/areracg3/1648971372/9fd3240d0c44670ff04aee9db307/image.png?expires=1780444800&signature=294955b1a391c0dbd48faca7027e5bf1fc07606bef1f377d155c3d15a3ad5cff&req=dSYjHsB5nIJYW%2FMW3nq%2BgV2khwPb%2BL9jUYRFqnZi3GrnMdxaj%2BRCs1hvnHo%2B%0AU42tGziNJHG1p29RhhIVaWYBA8Q%3D%0A)
 
-Als een lid het onderwerp niet meer wil volgen, moet het dit handmatig niet volgen.
+In het rechtermenu kun je informatie zien over:
 
-### 6.2 **Vermelding in bericht**
-
-Vermeldingen in berichten kunnen worden herkend aan de groene tekstkleur.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2102770866/23a219c6303ae2c3ea3167ea8839/image.png?expires=1779991200&signature=dc54372f275beb9d6b9f58eef6364046025ccb05f18518fc1e8b56576f8e78ec&req=diEnFM55nYlZX%2FMW3nq%2Bgc6BCXnvU1Bkq3F79VNCulbUfUkNi0%2FhK1QXHGmC%0AYCoFipDW17p1vsYnR4usRrYZ%2FUo%3D%0A)
-
-In de achtergrond wordt de unieke ID van de vermelde projectdeelnemer opgeslagen.
-
-Het is de naam van de deelnemer die in deze groene tekst wordt weergegeven.
-
-Zelfs als het lid of team van naam verandert, blijven ze in het bericht genoemd, maar onder hun nieuwe naam.
-
-Vermelde leden hebben een klikbare koppeling die naar de [ledenpagina](https://support.catenda.com/en/articles/8228836-member-page) van dat lid verwijst.
-
-Vermelde teams hebben een klikbare koppeling die naar de [teampagina](https://support.catenda.com/en/articles/7891755-team-page) van dat team verwijst.
-
-_Niet-bestaand lid_
-
-Als er geen lid in het project is met het e-mailadres dat wordt vermeld, ziet het bericht er als volgt uit:
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2102805445/b2e3443410ea96885a2d85676dee/image.png?expires=1779991200&signature=d64e4fdacb46dba5067b67f2b53dcb3371157a4c792de007bdcd5790b6455038&req=diEnFMF%2BmIVbXPMW3nq%2BgV2%2BX4QvdVlKUmPY0wchlEm3gW%2FQgNf9nrFfqLi1%0ASRk1H9bn2Dppn%2B4cO%2F3q%2Bp1QwFE%3D%0A)
-
-Dit kan gebeurd zijn omdat het e-mailadres onjuist is opgemaakt of omdat het lid niet langer deel uitmaakt van het project.
-
-Als een lid met dit e-mailadres in de toekomst deel gaat uitmaken van het project, verandert het bericht om de naam van dat lid weer te geven.
-
-_Niet-bestaand team_
-
-Als een team uit het project is verwijderd en er wordt een nieuw team aangemaakt, wordt dit nieuwe team niet vermeld.
-
-Om het nieuwe team te vermelden, moet het bericht opnieuw worden ingediend.
-
-## 7. **# Gelabelde onderwerpen**
-
-Klik op het `#`-gereedschap of schrijf `#` in een beschrijving of opmerking om een onderwerp te labelen.
-
-Na het typen van `#` wordt een vervolgkeuzelijst met onderwerpen van alle onderwerpborden weergegeven.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2102803413/752177c9a293de34a6bd9c7c4d36/image.png?expires=1779991200&signature=2e3d8eaa05e4d86071987625f7277fe7bd34ade7ba287ffe84d17863c5b1e2fd&req=diEnFMF%2BnoVeWvMW3nq%2BgQslLQuJRz%2F96TrjXxebVMDqy6wbx57JHhESfLh5%0Aq4PCAx7ujDa%2BJIEGQaJVDZ%2BZpiU%3D%0A)
-
-Door te beginnen met het onderwerptitel of onderwerpnummer te typen, kunt u door de lijst zoeken.
-
-Ga omhoog en omlaag in de lijst met de pijltoetsen en klik of druk op Enter om een onderwerp te selecteren.
-
-Opdat een onderwerp in deze lijst wordt weergegeven, moet het lid dat het onderwerp labelt, toegang hebben tot het bord waarin het onderwerp zich bevindt.
-
-Na het selecteren van een onderwerp in de lijst krijgt de `#` extra tekst die er als volgt uit kan zien:
-
-`#[\<topic number>]`
-
-### 7.1 **Opslaan of indienen van een gelabeld onderwerp**
-
-Wanneer de beschrijving wordt opgeslagen of de opmerking wordt ingediend, wordt een onderwerprelatie gemaakt.
-
-Het gekoppelde onderwerp wordt vervolgens toegevoegd aan de lijst met [gekoppelde onderwerpen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [het rechtermenu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) van het onderwerp.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2103668127/63b222278014acedd5e109eaa00f/image.png?expires=1779991200&signature=2149815ea61b5a424e16434a30602bf0ad7bdfac5716a9be69b7fc5329c0ca7c&req=diEnFc94lYBdXvMW3nq%2BgUcCxcZ9fv6bg1pEo4juADZYfI3MQkCannAOnEBB%0AleI3JRHXDIbKQfJ1rhkXj6yPxJo%3D%0A)
-
-Naast het onderwerp waar een ander onderwerp is gelabeld, ontvangt het gelabelde onderwerp zelf een koppeling terug naar het onderwerp waar het aan de lijst met [gekoppelde onderwerpen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [het rechtermenu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) is toegevoegd.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2103660685/9068edb07ddc704d58d821a0aa4c/image.png?expires=1779991200&signature=b3cb88b489a1e13e91119acb5a1e65869e6137d08aa613a34673a44e9d6145d3&req=diEnFc94nYdXXPMW3nq%2BgZtQFZ6%2FadIHexDqOuXukfxVutzxFMdv4Csh2%2BBJ%0AJ4PgbRdgBEqA%2F0O6%2Bv%2FB4%2BrLgiA%3D%3D%0A)
-
-De onderwerkoppeling kan later uit het onderwerp met het gelabelde onderwerp in de beschrijving of uit het gelabelde onderwerp worden verwijderd door naar elk onderwerp te gaan en de lijst met [gekoppelde onderwerpen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [het rechtermenu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) te bewerken.
-
-### 7.2 **Gelabeld onderwerp in bericht**
-
-Gelabelde onderwerpen kunnen worden herkend doordat ze eerst een cirkel hebben met de kleur van de huidige status van het gelabelde onderwerp, samen met de naam van die status.
-
-Daarna wordt de onderwerkitel gevolgd door het onderwerpnummer weergegeven.
-
-Samen met de selectievakjes tellen gelabelde onderwerpen die zijn gesloten mee naar de voortgang in de voortgangsbalk die aan de bovenkant wordt weergegeven, terwijl gelabelde onderwerpen die geopend zijn tellen naar het totaal aantal items waarvoor de voortgang wordt berekend.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2103628989/5fbf0cd8c9301753582aea8950e9/image.png?expires=1779991200&signature=ca04d06ea11db334d5d09d8015a562933dff76c96ee77f0067fcc66830a84137&req=diEnFc98lYhXUPMW3nq%2BgW6UTt%2FkO1pC00sooBVCn30sIjAm6dD8c3fkOEkR%0ArVc8ifPy8Jud7vIGWaSPdO6o7iY%3D%0A)
-
-Gelabelde onderwerpen hebben een klikbare koppeling waarmee het gelabelde onderwerp in het onderwerpbord wordt geopend.
-
-# Modellenpagina
-
-Op de modellenpagina kunnen alle IFC-documenten die aan een model zijn gekoppeld, worden weergegeven.
-
-Meestal kunt u hier voor elke discipline een model vinden.
-
-Dit is hoe de modellenpagina eruit kan zien:
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2203323683/82b10239e244add177a8bb2ecaf2/image.png?expires=1779991200&signature=112f66a4c5fdcd9d6632994f20feef4b5d7b3cf039d5c3357676546feebcf81d&req=diInFcp8nodXWvMW3nq%2BgePkqh8vttJuPHq%2BMTzSrlPzf1umP6Fb8o4codg8%0ADblgeYLIxh%2B5Sj5gH9wZexTpxD4%3D%0A)
-
-De modellenpagina als de tweede pagina in het navigatiemenu aan de linkerkant van een project.
-
-Deze pagina maakt deel uit van het [inhoudspaneel](https://support.catenda.com/en/articles/13141464-project-panels#h_74710f7a33).
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/2203330265/60c65eaafc1fe9c98d0b014ea0aa/image.png?expires=1779991200&signature=60ea6cff27fdcf17b08461d5151323b964a0b8ea989c307fc99f378d30d31214&req=diInFcp9nYNZXPMW3nq%2BgStsWwQs4heuYwJav0Xdgn52pMkdUyvcWMbbKx9o%0AifRAPzYK695%2FggCVJcgOi7qE7jI%3D%0A)
-
-## 1. **Nieuwe item-acties**
-
-De nieuwe item-acties kunt u rechtsbovenaan op de pagina vinden.
-
-![](https://downloads.intercomcdn.com/i/o/1073698722/6af87f1f6e6ea72898acb52c/image.png?expires=1779991200&signature=50bf70be1296344f658a03208de1e403f32fb1946b3b1aedb30b23db24b34879&req=dSAgFc93lYZdW%2FMW3nq%2BgagieBq6DzUAhbudhYsZTBOAag80bA6ZoPRilQ1q%0A2cTeuV31GfQVHkIZ%2ByJU15YiKJ8%3D%0A)
-
-Zie [hier](https://support.catenda.com/en/articles/9431936-actions-on-the-models-page) voor meer informatie over wat de verschillende acties doen.
-
-## 2. **Zoeken of filtermogelijkheden**
-
-Zie [hier](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page) voor meer informatie over de beste manier om op de modellenpagina te zoeken of te filteren:
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1702848368/4c99fc064c7351e524831d7686e6/image.png?expires=1779991200&signature=1ade06ead1a0b9ca23aaac2f4ae2a0fd9ce8f0cfcba69fe0403a44220b7f6076&req=dScnFMF6lYJZUfMW3nq%2BgVPl8vbHmkmDhmOZUW1XEw2rSFTXXevw1%2FKGTqXi%0A4VSeYcm72PXgAVmZzTKYrvr7cV8%3D%0A)
-
-## 3. **Rechtermenu**
-
-Als rijen van modellen in de modellentabel zijn geselecteerd, verschijnt een informatieknop rechts van de zoek- of filterbalk.
-
-De informatieknop kan er als volgt uitzien:
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1648971372/9fd3240d0c44670ff04aee9db307/image.png?expires=1779991200&signature=9c50ae28073d1e9b8da1cb4c67d2fc02722c9cdc518484238e3f54585d574cd4&req=dSYjHsB5nIJYW%2FMW3nq%2BgV2khwPU8bJuVI5FqnZi3GpYUNxb7OEDivpTRdhB%0AklV3QpfH7kWTCBJD2IHsFV0CqXw%3D%0A)
-
-In het rechtermenu kunt u de volgende informatie zien:
-
-- _Afbeelding _
-- _Documentkoppeling_
+- _Afbeelding_
+- _Link naar document_
 - _Status_
 - _Labels_
-- _Bijdragers_
-- _Modeltransformatie_
-  Klik [hier](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page) voor meer informatie over het rechtermenu op de modellenpagina.
+- _Medewerkers_
+- _Model transformatie_
 
-## 4. **Modellentabel**
+Klik [hier](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page) om meer te lezen over het rechtermenu op de modellenpagina.
 
-De modellentabel kan er als volgt uitzien:
+## 4. Modellentabel
+De modellentabel kan er ongeveer zo uitzien:
 
-![](https://downloads.intercomcdn.com/i/o/1084148163/771ca24e30021b9f81818b16/image.png?expires=1779991200&signature=3cf2c4f7ae1a482e44c15b4381a46e0aeb2c7a634623f052a151cd20a897529d&req=dSAvEsh6lYBZWvMW3nq%2BgbOE%2BbrbIIUSPjn7pAh%2FlmkRLZ3siZDisvDqtyQv%0A6kRf7QJtz%2BwT4qATXkSHsO7y8m8%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/1084148163/771ca24e30021b9f81818b16/image.png?expires=1780444800&signature=1556f1b3d5ebdb640fcc6294ae4be83d5f051762c69617658936b12559d4e359&req=dSAvEsh6lYBZWvMW3nq%2BgbOE%2BbrUKYgfOzP7pAh%2Flmnk4eUE6DokufFaiPLI%0A7sapzkICjzPQUgKXpb8fCz269QA%3D%0A)
 
-Zodra een model is gemaakt, verschijnt het als een rij in de modellentabel.
+Zodra een model is aangemaakt, verschijnt het als een rij in de modellentabel. Klik [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) om meer te lezen over het werken met tabellen in Catenda.
 
-Klik [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) voor meer informatie over het werken met tabellen in Catenda.
+### 4.1 Geselecteerde item acties
+Na het selecteren van een rij modellen verschijnen de geselecteerde items bovenaan de modellentabel.
+Zo kan het menu met geselecteerde items eruit zien:
 
-### 4.1 **Geselecteerde item-acties**
+![](https://downloads.intercomcdn.com/i/o/1073737628/f84fc5ab3bdcfe0e17a700f7/image.png?expires=1780444800&signature=cd7930d98eaf621ddbe3f6afc34794722f8e0d0df8e11848e2aa57336a2c5a9d&req=dSAgFc59moddUfMW3nq%2BgUjHsqM3pXx%2F%2BM1W6jmAmOSyGBgWCofSRpt%2B8ZcG%0AGX7tpaYXhnNuYjFlS%2FANhu4AFls%3D%0A)
 
-Nadat u een modelrij hebt geselecteerd, verschijnen geselecteerde item-acties bovenaan de modellentabel.
+Klik [hier](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed) om te zien wat de verschillende geselecteerde item acties doen.
 
-Dit is hoe het menu met geselecteerde item-acties eruit kan zien:
+### 4.2 Rij-inhoud
+Elk model is gekoppeld aan een document op de documentenpagina.
 
-![](https://downloads.intercomcdn.com/i/o/1073737628/f84fc5ab3bdcfe0e17a700f7/image.png?expires=1779991200&signature=44e3647b3f00aaec20783fafe274fa7ade7c7d92f1e292e5115a0808cb980766&req=dSAgFc59moddUfMW3nq%2BgUjHsqM4rHFy%2FcdW6jmAmOTRGp6IuBrx276TD9Hq%0ANE1z7wdtviILqGIOZxJklpncTRE%3D%0A)
+**Toegang** Modelrijen worden weergegeven op basis van de toegang tot het document dat aan het model is gekoppeld. _Toegang vereist -_ Lezen Het openen van de inhoud van een modelrij opent de [overzichtspagina](https://support.catenda.com/en/articles/4670270-model-page) van dat [model](https://support.catenda.com/en/articles/4670270-model-page).
 
-Klik [hier](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed) voor meer informatie over wat de verschillende geselecteerde item-acties doen.
+**2D en 3D knoppen** Voor 2D wordt het 3D-paneel geopend en wordt het eerste verhaal van de laatste revisie van het model in de 2D-viewer geladen. Voor 3D wordt het 3D-paneel geopend en wordt de laatste revisie van het model in 3D geladen.
 
-### 4.2 **Rij-inhoud**
+### 4.3 Rij-inhoud met status workflow - Concept revisies
+**Toegang**
+Modelrijen van modellen met alleen conceptrevisies hebben geen 2D- en 3D-knoppen omdat conceptrevisies niet in 2D of 3D kunnen worden geladen.
 
-Wanneer de tabel voor het eerst wordt geladen, worden maximaal 100 rijen weergegeven.
+> **Note:** **Opmerking:** Conceptrevisies worden niet weergegeven op de [overzichtspagina van het model](https://support.catenda.com/en/articles/4670270-model-page).
 
-Als de tabel meer dan 100 rijen bevat, scroll naar beneden om de volgende 100 rijen te laden.
+**2D- en 3D-knoppen** De 2D- en 3D-weergaven van de laatst gepubliceerde revisie worden geopend, zelfs als er recentere conceptrevisies zijn.
 
-Elke modelrij is gekoppeld aan een document op de documentenpagina.
+### 4.4 Rij-inhoud met status workflow - tabblad Werkruimte
+**Toegang**
+Modelrijen worden weergegeven op basis van de toegang tot het document dat aan het model gekoppeld is.
+Met toegang tot het bekijken van gedeelde revisies wordt de laatste revisie weergegeven.
+_Toegang vereist_ - Toegang tot het bekijken van gedeelde revisies in het document
+Zonder toegang tot het bekijken van gedeelde revisies, wordt de laatst gepubliceerde revisie getoond. Zelfs als er meer recente gedeelde revisies zijn.
+_Toegang vereist -_ Leestoegang tot het document
 
-_Toegang_
+**2D en 3D knoppen** De 2D en 3D weergave van de laatste revisie waartoe een gebruiker toegang heeft wordt geopend.
 
-Modelrijen worden weergegeven op basis van de toegang tot het document dat aan het model is gekoppeld.
+### 4.5 Rij-inhoud met status workflow - tabblad Gepubliceerd
+**Toegang**
+Modelrijen worden weergegeven op basis van de toegang tot het document dat aan het model gekoppeld is.
+_Toegang vereist -_ Lezen
 
-_Toegang vereist - _Lezen
+**2D en 3D knoppen** De 2D en 3D weergaven van de laatst gepubliceerde revisie worden geopend, zelfs als er recentere gedeelde revisies zijn.
 
-De inhoud van een modelrij openen, opent de [modeloverzichtspagina](https://support.catenda.com/en/articles/4670270-model-page) van dat model.
-
-_2D- en 3D-knoppen _
-
-Bij 2D wordt het 3D-paneel geopend en wordt het eerste verhaal van de nieuwste versie van het model in de 2D-viewer geladen.
-
-Bij 3D wordt het 3D-paneel geopend en wordt de nieuwste versie van het model in 3D geladen.
-
-### 4.3 **Rij-inhoud met statusworkflow - Conceptversies**
-
-_Toegang_
-
-Modelrijen van modellen met alleen conceptversies hebben geen 2D- en 3D-knoppen omdat conceptversies niet in 2D of 3D kunnen worden geladen.
-
-> **Opmerking:** Conceptversies worden niet weergegeven op de [modeloverzichtspagina](https://support.catenda.com/en/articles/4670270-model-page). _2D- en 3D-knoppen_ De 2D- en 3D-weergaven van de nieuwste gepubliceerde versie worden geopend, zelfs als er nieuwere conceptversies zijn.
-
-### 4.4 **Rij-inhoud met statusworkflow - Werkbladtabblad**
-
-_Toegang_
-
-Modelrijen worden weergegeven op basis van de toegang tot het document dat aan het model is gekoppeld.
-
-Met toegang tot het weergeven van gedeelde versies, wordt de nieuwste versie weergegeven.
-
-_Toegang vereist_ - Toegang tot het weergeven van gedeelde versies in het document
-
-Zonder toegang tot het weergeven van gedeelde versies, wordt de nieuwste gepubliceerde versie weergegeven. Zelfs als er nieuwere gedeelde versies zijn.
-
-_Toegang vereist - _Leesbevoegdheid voor het document
-
-_2D- en 3D-knoppen_
-
-De 2D- en 3D-weergaven van de nieuwste versie waartoe een gebruiker toegang heeft, worden geopend.
-
-### 4.5 **Rij-inhoud met statusworkflow - Gepubliceerd tabblad**
-
-_Toegang_
-
-Modelrijen worden weergegeven op basis van de toegang tot het document dat aan het model is gekoppeld.
-
-_Toegang vereist - _Lezen
-
-_2D- en 3D-knoppen_
-
-De 2D- en 3D-weergaven van de nieuwste gepubliceerde versie worden geopend, zelfs als er nieuwere gedeelde versies zijn.
-
-### 4.6 **Kolommen**
-
-Afhankelijk van of één paneel of meerdere panelen zijn geopend, kunnen verschillende informatie worden weergegeven.
-
-Sommige kolommen in de tabelweergave van de onderwerppagina zijn standaard ingeschakeld, terwijl andere kunnen worden verborgen en moeten worden ingeschakeld.
-
+### 4.6 Kolommen
+Afhankelijk van of er een enkel paneel wordt geopend of dat er meerdere panelen worden geopend, kan er verschillende informatie worden weergegeven.
+Sommige kolommen in de tabelweergave van de onderwerpenpagina zijn standaard ingeschakeld, terwijl andere kolommen verborgen kunnen zijn en ingeschakeld moeten worden.
 Op basis van de geconfigureerde kolomvolgorde worden de eerste kolommen weergegeven.
-
-Op basis van de geconfigureerde kolombreedte kunnen minder of meer kolommen worden weergegeven.
-
-U moet de tabel mogelijk zijwaarts schuiven om andere ingeschakelde kolommen weer te geven.
-
+Op basis van de geconfigureerde kolombreedte kunnen er minder of meer kolommen worden weergegeven.
+De tabel moet mogelijk zijwaarts worden gescrolld om andere ingeschakelde kolommen weer te geven.
 Klik [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) voor meer informatie over het werken met tabellen.
+De standaard volgorde en zichtbaarheid van de kolommen op de modellenpagina is als volgt:
 
-De standaardvolgorde en zichtbaarheidsinstelling van de kolommen op de modellenpagina zijn als volgt:
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p class="no-margin"><i>Selectievakje</i> - Standaard - Modellen selecteren</p></td></tr><tr><td><p class="no-margin">Klik op deze kolom om een model toe te voegen aan je selectie.</p><p class="no-margin">Klik <a class="intercom-content-link" href="https://support.catenda.com/en/articles/11748020-tables-on-catenda" target="_blank">hier</a> voor meer informatie over het selecteren van rijen in een tabel.</p></td></tr><tr><td><p class="no-margin"><i>Viewer - </i>Standaard - Laadknoppen</p></td></tr><tr><td><p class="no-margin">Als dit een nieuw model is en er nog geen publieke revisies zijn, zal deze kolom leeg zijn.<br/>Na het importeren van een model zal het beginnen met verwerken. U ziet een grijs uitroepteken.<br/>​</p><div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/1128820332/6439f9053578575ccfb0da71/image.png?expires=1780444800&amp;signature=0f69bc29ff2a2a9a2b7d0dc89fbed76b4fb9368a6bdbbd8826d630bba968b580&amp;req=dSElHsF8nYJcW%2FMW3nq%2BgZiK1%2F1umZvSgc01D1NJwrWLIk%2Fnsh%2BSQWO0nYYc%0ACMGm7S3uebCtJN7jQ79ZsNRJhs0%3D%0A"/></div><p class="no-margin">/</p><div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/1128822000/24966190ab877efd53a395f7/image.png?expires=1780444800&amp;signature=3be36c08ab505108fe0a7506dbd549ce630ab367689a3ed4fd4100d6c55bca31&amp;req=dSElHsF8n4FfWfMW3nq%2BgROxTPeDTRLu6R2vDPwTtMm1WBHDA0wdTJlcppfg%0AobYsjjtBMafqALO%2FtPh%2BpLW1BpA%3D%0A"/></div><p class="no-margin"><br/>Als de laatste modelrevisie niet verwerkt is, zie je een rood uitroepteken.</p><div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/1128818838/685853c34add580b5d8b79ab/image.png?expires=1780444800&amp;signature=af49608a6fb0d4ea52ca87195585dab4446f6081032b081a714733c0fa5c74d1&amp;req=dSElHsF%2FlYlcUfMW3nq%2BgWfuzdK6GfHo7M0bDCxlcF%2FYfPLzNUHat89C9VG8%0AHMCKVIJ1ixNTcrCrUfOq8MUEVKE%3D%0A"/></div><p class="no-margin">/</p><div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/1128813631/d16bb86de7aca1c8ca7ccb80/image.png?expires=1780444800&amp;signature=cef0527bb416ee8a3621ab62ebd01fa44e4404020765446a7184b65a4939bf1a&amp;req=dSElHsF%2FnodcWPMW3nq%2BgT1ip1iyqmoo3P4xqYp%2FjFOUV43F2sW18mqlJxmn%0A6tIhnWJgKEYG3ygBrZkbP351uPw%3D%0A"/></div><p class="no-margin">Beweeg de muis over het uitroepteken om te zien welk model is mislukt. Als je op 3D klikt, wordt de laatste geldige revisie geladen in plaats van de laatste revisie.<br/>Als er openbare revisies zijn, zie je hier een 2D, 3D en zoom naar uitvergrotingen knop voor gebruik in combinatie met de <a class="intercom-content-link" href="https://support.catenda.com/en/articles/4854537-2d-viewer" target="_blank">2D viewer</a> en <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8227211-3d-viewer" target="_blank">3D viewer</a>.</p><div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/1082115963/a53e8f74473c0b5b0c22fc6b/image.png?expires=1780444800&amp;signature=08b85a1cd8a4c91c2522ee583249165ec46e6016a60df8a36d4bc319e4db8b03&amp;req=dSAvFMh%2FmIhZWvMW3nq%2BgQBR4yJT3A4veZeXkg0rEHuc8omsl0SC1yFF9IlG%0AGiDpEbPTBpD%2FRYvkYsTRVKgwwOU%3D%0A"/></div><p class="no-margin"><i>Toegang vereist:</i> Leestoegang tot het documentmodel</p><div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;"><p class="no-margin"><b>Opmerking1:</b> De zoomknop is grijs totdat u het model in 3D laadt.</p><p class="no-margin"><b>Opmerking2:</b> Als er een uitlegmarkering staat op de 3D-knop en de 2D- en 3D-knoppen grijs zijn, beweeg dan met de muis over de uitlegmarkering om te zien wat er mis is.</p><p class="no-margin">U kunt nog steeds de vorige revisie openen door op de modelnaam te klikken.</p></div></td></tr><tr><td><p class="no-margin"><i>Naam</i> - Standaard - De naam van het model</p></td></tr><tr><td><p class="no-margin">Zo kan de naamkolom van een model eruit zien:</p><p class="no-margin"><br/>​</p><p class="no-margin"></p>
+<div class="intercom-container intercom-align-center"><img src="https://downloads.intercomcdn.com/i/o/1128805507/b49b694c14a9e50ff89e677f/image.png?expires=1780444800&amp;signature=8fe128133a918fd4c0a59f11444f107d7e78b08e26d391cb17b1f7f7203d97c4&amp;req=dSElHsF%2BmIRfXvMW3nq%2BgenlEVpysF8wBAUY5s6qXIy8x%2Fmv7ibw0DmyGUCF%0AAo6TM3GsAhDFu3OzxclBtsRgHF8%3D%0A"/></div><p class="no-margin"><br/>​</p><p class="no-margin"></p>
+<p class="no-margin">Standaard staat er een blokje voor de modelnaam in deze kolom.</p><p class="no-margin">In het rechter informatiemenu kan een afbeelding van het model worden geüpload.</p><p class="no-margin">Als het model een afbeelding heeft, wordt deze weergegeven in plaats van de standaard kubus. Klik op de afbeelding om het voorbeelddialoogvenster van de afbeelding te openen.</p><p class="no-margin">De naam die u in deze kolom ziet is de modelnaam van het model.</p><p class="no-margin">Dit is ook de naam die je ziet in de <a class="intercom-content-link" href="https://support.catenda.com/en/articles/4670279-revision-selector" target="_blank">revisieselector</a>.</p><p class="no-margin">Het wordt aanbevolen om een nummer voor de modelnaam te zetten zodat de modellen in volgorde van belangrijkheid worden weergegeven in de revisieselector. Zie sorteervolgorde <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8487788-sorting-order-of-lists" target="_blank">hier</a>.</p><p class="no-margin">Je kunt de <a class="intercom-content-link" href="https://support.catenda.com/en/articles/4670270-model-page" target="_blank">model overzichtspagina</a> met eerdere revisies die bij een model horen openen door:</p><ol><li><p class="no-margin">Op de naam van het model te klikken</p></li><li><p class="no-margin">Dubbel te klikken op een wit vlak in de rij.</p></li></ol><div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;"><p class="no-margin"><b>Opmerking1:</b> De naam van het model kan verschillen van de naam van het document dat aan het model is gekoppeld of de naam van de revisie.</p><p class="no-margin"><b>Opmerking2:</b> Als je geen toegang hebt tot het document waar het model aan gekoppeld is, dan zie je de bijbehorende rij niet in de modellentabel. Je kunt wel de modelnaam zien in de revisie selector.</p></div></td></tr><tr><td><p class="no-margin"><i>Documentnaam</i> - De naam van het document-model dat gekoppeld is aan het model-document.</p></td></tr><tr><td><p class="no-margin"><i>Revisie</i> - Standaard - Het aantal openbare revisies van het document-model</p></td></tr><tr><td><p class="no-margin">Als een model is toegevoegd vanaf de modellen pagina dan heeft het nog geen revisies.<br/>In plaats van een revisienummer zie je dan het volgende pictogram waarop je kunt klikken om de eerste revisie te uploaden.</p><div class="intercom-container intercom-align-center"><img src="https://downloads.intercomcdn.com/i/o/1128796790/433007f5c08e12a46a1cf72e/image.png?expires=1780444800&amp;signature=046f9aa32bc491b257a9fc09cfe6d9cbb505d93c6d0fa6417d1ebd1cf8e39243&amp;req=dSElHs53m4ZWWfMW3nq%2BgUJAq5%2Focsdymi1cowhE3pL6SYVZyGuUy5dbGoRi%0A0r%2BfAgWkRpzDuv4aJDRG9yaM8X8%3D%0A"/></div></td></tr><tr><td><p class="no-margin"><i>Revisie commentaar </i>- Het commentaar waarmee de revisie is geüpload (alleen legacy)</p></td></tr><tr><td><p class="no-margin"><i>Revisienaam</i> - De naam van de laatste openbare revisie van het documentmodel. Kan niet gewijzigd worden na het uploaden.</p></td></tr><tr><td><p class="no-margin"><i>Status</i> - Standaard - De status van de laatste openbare document-model revisie. Openbare statussen kunnen worden aangezet in <a class="intercom-content-link" href="https://support.catenda.com/en/articles/7831371-document-settings" target="_blank">de documentinstellingen</a>.</p></td></tr><tr><td><p class="no-margin"><i>Grootte</i> - Standaard - De bestandsgrootte van de laatste openbare revisie van het documentmodel</p></td></tr><tr><td><p class="no-margin"><i>Labels</i> - Standaard - De labels die zijn gekoppeld aan het model-document.</p></td></tr><tr><td><p class="no-margin">Je kunt een label toepassen na het uploaden van de eerste revisie.</p></td></tr><tr><td><p class="no-margin"><i>Document aangemaakt - </i>De persoon die het document-model heeft aangemaakt en de datum en tijd waarop het is aangemaakt.</p></td></tr><tr><td><p class="no-margin"><i>Gepubliceerd</i> - Standaard - De persoon die de laatst gepubliceerde revisie in het document-model heeft gepubliceerd en de datum en tijd waarop dit is gebeurd.</p></td></tr></tbody></table></div>
 
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80;"><h3 id="h_ec767816e6"><b>Modellentabelkolommen</b></h3></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Selectievakje</i> - Standaard</p></td></tr><tr><td><p class="no-margin">Modellen selecteren</p></td></tr><tr><td><p class="no-margin">Klik op deze kolom om een model aan uw selectie toe te voegen.</p><p class="no-margin">Klik <a class="intercom-content-link" href="https://support.catenda.com/en/articles/11748020-tables-on-catenda" target="_blank">hier</a> voor meer informatie over het selecteren van rijen in een tabel.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Viewer - </i>Standaard</p></td></tr><tr><td><p class="no-margin">Laadknoppen</p></td></tr><tr><td><p class="no-margin">Als dit een nieuw model is en er nog geen openbare versies zijn, is deze kolom leeg.
-Nadat u een model hebt geïmporteerd, wordt het verwerkt. U ziet een grijs uitroepteken.
-​ </p><p class="intercom-align-center no-margin"><img alt="Processing" src="https://downloads.intercomcdn.com/i/o/1128820332/6439f9053578575ccfb0da71/image.png?expires=1775952000&amp;signature=d2d5730cff9ef0e4f5464ce075b9fb183c725c0dea10d37422bc6a936e64eac3&amp;req=dSElHsF8nYJcW%2FMW3Hu4gawWDOtZAjnxXc5RcM%2BYJyOQMppOb7OjFRATiTdO%0AHA%3D%3D%0A" width="229.375"/>    /    <img alt="" src="https://downloads.intercomcdn.com/i/o/1128822000/24966190ab877efd53a395f7/image.png?expires=1775952000&amp;signature=01c9a60d8a0e702b0fef66a995ed054f87ce2a99edefe00a40cef9730f30fb61&amp;req=dSElHsF8n4FfWfMW3Hu4gRp3B%2FaY1i%2FAjI5Vqwq68Zs5AuWQ4GJG%2FeSZ9F13%0Apg%3D%3D%0A" width="40"/></p><p class="no-margin">
-Als de nieuwste modelversie is verwerkt zonder succes, ziet u een rood uitroepteken.</p><p class="no-margin"></p>
-<p class="intercom-align-center no-margin"><img alt="Failed" src="https://downloads.intercomcdn.com/i/o/1128818838/685853c34add580b5d8b79ab/image.png?expires=1775952000&amp;signature=9b1e8643ef4de33e8305caf8aa5cfefaafaa1f3e92eb05e28c8c7ebbb6dfc163&amp;req=dSElHsF%2FlYlcUfMW3Hu4gclVforUPGKFV5YEOKsbNlHs3ivdc35j5phODe8m%0A9A%3D%3D%0A" width="148.57142857142858"/>    /   <img alt="" src="https://downloads.intercomcdn.com/i/o/1128813631/d16bb86de7aca1c8ca7ccb80/image.png?expires=1775952000&amp;signature=c333c15082b31af4fb269e1fc4c06a60e373e3e5b4e66e4674033129e63c55e6&amp;req=dSElHsF%2FnodcWPMW3Hu4gdlodHnyyafYkFUlJf6UCOwP1mk%2FF14gXNf3hfPL%0AVw%3D%3D%0A" width="39.583333333333336"/></p><p class="no-margin"></p>
-<p class="no-margin">Wijs over het uitroepteken om te zien welk model is mislukt. Klik op 3D om de nieuwste geldige versie in plaats van de nieuwste versie te laden.
-Als er openbare versies zijn, ziet u hier knoppen voor 2D, 3D en zoomen om uit te breiden, die u samen met de <a class="intercom-content-link" href="https://support.catenda.com/en/articles/4854537-2d-viewer" target="_blank">2D-viewer</a> en <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8227211-3d-viewer" target="_blank">3D-viewer</a> kunt gebruiken.</p><p class="no-margin"></p>
-<div class="intercom-container intercom-align-center"><img alt="2D 3D" src="https://downloads.intercomcdn.com/i/o/1082115963/a53e8f74473c0b5b0c22fc6b/image.png?expires=1779991200&amp;signature=e947eb25325ae494beb3b906fb78d6d51e54046022a1b665a1d4419db3619705&amp;req=dSAvFMh%2FmIhZWvMW3nq%2BgQBR4yJc1QMifJ2Xkg0rEHuxA0F7SLdJWIWNTv2c%0Ao1MDihxPmxuxMQ8pXyt5KZ6uv4k%3D%0A" width="131"/></div><p class="no-margin"></p>
-<p class="no-margin"><i>Toegang vereist:</i> Leesbevoegdheid voor het documentmodel</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Opmerking1:</b> De knop voor zoomen om uit te breiden wordt grijs totdat u het model in 3D laadt.</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Opmerking2:</b> Als het uitroepteken op de 3D-knop staat en de 2D- en 3D-knoppen grijs zijn, wijs dan over het uitroepteken om te zien wat er niet klopt.</p><p class="no-margin">U kunt nog steeds eerdere versies openen door op de modelnaam te klikken.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Korte naam</i> - Standaard</p></td></tr><tr><td><p class="no-margin">De naam van het model</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Opmerking1:</b> De modelnaam van het model kan verschillen van de naam van het document dat aan het model is gekoppeld of de naam van de versie.</p></td></tr><tr><td style="background-color: #feedaf80;"><p class="no-margin"><b>Opmerking2:</b> Als u geen toegang hebt tot het document waaraan het model is gekoppeld, wordt de rij ervan niet weergegeven in de modellentabel. U kunt de modelnaam nog wel in de versiekiezer zien.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Documentnaam</i></p></td></tr><tr><td><p class="no-margin">De naam van het document-model dat aan het model-document is gekoppeld.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Versie </i>- Standaard</p></td></tr><tr><td><p class="no-margin">Het aantal openbare versies in het document-model</p></td></tr><tr><td><p class="no-margin">Als u een model van de modellenpagina hebt toegevoegd, heeft het nog geen versies.
-In plaats van een versienummer ziet u het volgende pictogram dat u kunt klikken om de eerste versie te uploaden.</p><p class="no-margin"></p>
-<div class="intercom-container intercom-align-center"><img src="https://downloads.intercomcdn.com/i/o/1128796790/433007f5c08e12a46a1cf72e/image.png?expires=1779991200&amp;signature=6d2769c236522b8add72ad1459efbfd3edea361596758a5e4a0fdaead6fb31f9&amp;req=dSElHs53m4ZWWfMW3nq%2BgUJAq5%2Fne8p%2FnydcowhE3pLyS2kmGK2JVLf86cKP%0A9OyFoh%2BA1DcSJq8Gbrr%2BZWcg9Q8%3D%0A" width="47"/></div><p class="no-margin"></p>
-</td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Versie-opmerking</i></p></td></tr><tr><td><p class="no-margin">De opmerking die met de versie is geüpload (alleen verouderd)</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Versienaam</i></p></td></tr><tr><td><p class="no-margin">De naam van de nieuwste openbare document-modelversie. Kan niet worden gewijzigd na uploaden.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Status</i> - Standaard</p></td></tr><tr><td><p class="no-margin">De status van de nieuwste openbare document-modelversie. Openbare statussen kunnen worden ingeschakeld in <a class="intercom-content-link" href="https://support.catenda.com/en/articles/7831371-document-settings" target="_blank">documentinstellingen</a>.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Grootte</i> - Standaard</p></td></tr><tr><td><p class="no-margin">De bestandsgrootte van de laatste openbare document-modelversie</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Labels</i> - Standaard</p></td></tr><tr><td><p class="no-margin">De labels die aan het model-document zijn gekoppeld.</p></td></tr><tr><td><p class="no-margin">Een label kan worden toegepast nadat u de eerste versie hebt geüpload.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Document aangemaakt</i></p></td></tr><tr><td><p class="no-margin">De persoon die het document-model heeft gemaakt en de datum en tijd waarop het is gemaakt.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p class="no-margin"><i>Gepubliceerd</i> - Standaard</p></td></tr><tr><td><p class="no-margin">De persoon die de laatste gepubliceerde versie in het document-model heeft gepubliceerd en de datum en tijd waarop het is gepubliceerd.</p></td></tr></tbody></table></div>
-
-## 5. **Subpagina's**
-
-Als subpagina's op de modellenpagina vindt u de volgende pagina's:
+## 5. Subpagina's
+Als subpagina's van de modellenpagina vind je de volgende pagina's:
 
 - [Bladwijzers](https://support.catenda.com/en/articles/4670281-bookmarks)
-- [Objecten](https://support.catenda.com/en/articles/12352750-objects-page)
-- [Verdiepingsconfiguratie](https://support.catenda.com/en/articles/6921756-storey-configurator-page)
+- Objecten
+- [Verdieping Configurator](https://support.catenda.com/en/articles/6921756-storey-configurator-page)
 
 # QR-Code op PDFs in Catenda
 
@@ -2265,6 +2036,8 @@ Wanneer een gebruiker de gegenereerde QR-code op een bouwplaats of kantoor scant
 Vergeleken met het uploaden van een standaard zip bstand zal de upload een zip functie het zip bestand uitpakken.
 
 Op deze manier kunnen bestandsstructuren tot de [documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page) geüpload worden zonder dat mappen handmatig aangemaakt hoeven te worden.
+
+De volgende themas zullen in deze artikel beschreven worden:
 
 De upload zip functie kan gevonden worden in het actiemenu ter rechts van de groene + knop rechtsbovenaan de documentenpagina.
 
@@ -2441,6 +2214,8 @@ Met de _modellen als documenten_ functie zullen deze twee plekken voor modelbest
 
 Als u een model aanmaakt in het modellengedeelte zal een document aangemaakt en gelinkt worden in het documenten gedeelte. Als u een IFC docment upload kunt u de "Maak een model aan" actie knop om deen model te linken en aanmaken in het modellengedeelte. Met deze functie zullen modellen in het modellengedeelte als documenten behandeld kunnen worden terwijl documenten in het documenten gedeelte als modellen behandeld kunnen worden.
 
+Deze artikel bevat informatie over de volgende themas:
+
 ## 1. **Voor/Na migratie - Hoofdverschillen**
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e8e8e8; width: 155px;"><h1 id="h_0177768769"></h1></td><td style="background-color: #e8e8e8; width: 262px;"><h2 class="intercom-align-center" id="h_412592b23e"><b>Voor</b></h2></td><td style="background-color: #e8e8e8; width: 248px;"><h2 class="intercom-align-center" id="h_d3824b63e6"><b>Na</b></h2></td></tr><tr><td style="background-color: #e8e8e8; width: 155px;"><p class="intercom-align-right"><b>Hoofdgedrag</b></p></td><td style="width: 262px;"><p>Modellen bestonden alleen in het modellen gedeelte. De gebruiker moest hetzelfde tot beide het documenten en modellen gedeelte uploaden.</p></td><td style="width: 248px;"><p>Modellen zijn aangemakt van IFC bestanden die tot het documenten gedeelte geupload wroden. Het IFC bestand kan tot hun beihorende model gerelateerd en gelinkt worden.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 155px;"><p class="intercom-align-right"><b>Interface</b></p></td><td style="width: 262px;"><p><b>Verschillend</b> van het documentengedeelte en toont minder informatie. Alleen een lijst met modellen.</p></td><td style="width: 248px;"><p><b>Gelijk </b>met het documentengedeleelte: Een tabel met gerelateerde metadata die aanpasbaar is.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 155px;"><p class="intercom-align-right"><b>Toegangsrechten</b></p></td><td style="width: 262px;"><p><b>Kon niet</b> tot modellen toegepast worden.</p></td><td style="width: 248px;"><p><b>Kan</b> tot modellen vanuit hun gerelateerde document in het documenten gedeelte toegepast worden.</p></td></tr></tbody></table></div>
@@ -2464,8 +2239,6 @@ Met modellen als documenten zal het modellengedeelte van uiterlijk verander zijn
 Un plaats van menu elementen voor elk model zullen deze nu een een doorzoekbare tabel getoond worden.
 
 In het modellen gedeelte zult u de volgende veranderingen kunnen vinden:
-
-[Tabel](#h_cbf15299bf) - [Kolommen](#h_49da57d851) - [Elementkeuze](#h_a32100babf) - [Actieknoppen](#h_128bac5644) - [Toegang](#h_c122f5b70d) - [Informatiemenu](#h_4c71e3e504)
 
 ### 3.1 **Modellen tabel**
 
@@ -2566,6 +2339,8 @@ Als u een model in 3D geopent hebt zal u de modellentransformatie in dit menu ku
 Terwijl de visuele veranderingen niet als klaarblijkelijk zijn als in het modellengedeelte zullen er een paar functies op een andere manier werken.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1444523409/f00b3c4298a51ee01cc2e44a62f4/image.png?expires=1781092800&signature=91a36e53931c2f57078308ffab651a5f5b5b2c3b6fe3ec9a854427a79a12a7bb&req=dSQjEsx8noVfUPMW3nq%2BgQtlKD%2Fq0MJ8Z8z1212tKpdvN2s03%2BKmVr2K0Jmd%0Ab83eIfq1xw1jiGHU9IHKSsab5x0%3D%0A)
+
+In het documentengedeelte zult u de volgende veranderingen kunnen zien:
 
 ### 4.1 **Modellenfilter**
 

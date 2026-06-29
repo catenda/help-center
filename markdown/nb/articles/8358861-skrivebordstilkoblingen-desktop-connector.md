@@ -4,6 +4,8 @@
 
 Med skrivebordstilkoblingen, Catenda Desktop Connector, kan du planlegge opp-/nedlastinger til de siste versjonene av dokumenter.
 
+Denne artikkelen inneholder informasjon om følgende temaer:
+
 ## 1. **Umiddelbare opp-/nedlastinger**
 
 Skrivebordstilkoblingen lar deg laste opp filer fra ditt lokale system til en spesifisert mappe på Catenda Hub. Du kan også selektere en rekke med mapper på Catenda Hub for å laste de ned til et sted på din lokale maskin.

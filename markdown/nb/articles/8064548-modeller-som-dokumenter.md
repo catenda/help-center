@@ -6,6 +6,8 @@ Hvis du lager en modell i modelldelen vil et dokument bli lenket og opprettet i 
 
 Med denne funksjonen kan modeller i modelldelen håndteres som dokumenter mens modeller i dokumentdelen kan håndteres som modeller.
 
+Denne artikkelen inneholder informasjon om følgende temaer:
+
 ## 1. **Før/Etter migrering - Hovedforskjell**
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e8e8e8; width: 168px;"><h1 id="h_8b37580f81"></h1></td><td style="background-color: #e8e8e8; width: 262px;"><h2 id="h_b7f579faf9"><b>Før</b></h2></td><td style="background-color: #e8e8e8; width: 248px;"><h2 id="h_bf2a4611cb"><b>Etter</b></h2></td></tr><tr><td style="background-color: #e8e8e8; width: 168px;"><p class="intercom-align-right"><b>Hovedoppførsel</b></p></td><td style="width: 262px;"><p>Modeler fantes kun i modeller delen. Brukeren måtte laste opp samme IFC fil til både dokumenter og modeller delene.</p></td><td style="width: 248px;"><p>Modeller er opprettet som IFC filer og lastet opp til dokumentdelen. Om brukere ber om det blir en modell som hører til IFC filen opprettet.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 168px;"><p class="intercom-align-right"><b>Grensesnitt</b></p></td><td style="width: 262px;"><p><b>Forskjellig </b>fra dokumentdelen og vist med mindre informasjon, bare en liste med modeller.</p></td><td style="width: 248px;"><p><b>Likt</b> som i dokumentdelen. En redigerbar tabell med relatert metadata.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 168px;"><p class="intercom-align-right"><b>Tilgangsrettigheter</b></p></td><td style="width: 262px;"><p><b>Kunne ikke settes </b>på modeller</p></td><td style="width: 248px;"><p><b>Kan settes</b> på modeller fra deres relaterte dokument i dokumentdelen.</p></td></tr></tbody></table></div>
@@ -25,6 +27,8 @@ Alle modeller er lenket til hvert sitt dokument og funksjoner fra begge deler ka
 ## 3. **Endringer på modellersiden**
 
 Mode modeller som dokumenter vil modeller siden ha endret i utseende. Istedet for å se meny enheter for hver modell vil de nå dukke opp i en søkbar tabell.
+
+På modeller siden vil du nå dukke finne følgende endringer:
 
 ### 3.1 **Modeller tabellen**
 
@@ -115,6 +119,8 @@ Hvis du har åpnet denne modellen i 3D vil du kunne stille inn modelltransformas
 Selv om de visbare endringen ikke er like tilsynelatende som i modeller delen er det noen få ting som vil endres for dokumenter delne når modeller som dokumenter er koblet på.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1444501318/59cfe37d2e72723792c54e3f48e4/image.png?expires=1781092800&signature=0c904b4a8b3a3d001f365f1089d39fbb2a72500914dbb5d6dedd97dec54e1605&req=dSQjEsx%2BnIJeUfMW3nq%2BgQVHoqHR%2BtZmOjukh0758JkCBHPOngsupoEeel2c%0Ari%2B93zrgNY%2FLOKFZImfv5nOEnHE%3D%0A)
+
+I dokumenter delen vil du kunne finne følgende endringer:
 
 ### 4.1 **Modellfilter**
 

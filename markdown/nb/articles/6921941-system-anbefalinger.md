@@ -2,6 +2,8 @@
 
 Denne artikkelen inneholder information om anbefalte system krav for bruk av Catenda Hub. Catenda Hub er tilgjengelig gjennom nettleseren og det er ingen behov for installasjon.
 
+Denne artikkelen inneholder informasjon om følgende temaer:
+
 ## 1. **System anbefalinger:**
 
 **(Juni 2024)**

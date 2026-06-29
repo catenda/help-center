@@ -4,6 +4,8 @@
 
 Met de bureaubladverbinding, Catenda Desktop Connector, kunt u up- en downlaods van de laatste versies van documenten plannen.
 
+Deze artikel bevat informatie over de volgende themas:
+
 ## 1. **Onmiddelijke up/downloads**
 
 De bureaubladverbinding laat u uw bestanden van uw locale systeem tot een bepaalde map op Catenda uploaden. U kunt ook een reeks mappen op Catenda kiezen om tot een bepaalde plek op uw locale system te downloaden.

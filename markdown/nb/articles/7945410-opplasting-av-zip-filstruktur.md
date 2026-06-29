@@ -2,6 +2,8 @@
 
 I motsetning til opplasting av en vanlig zip fil, pakker zip-opplastingsfunksjonen ut mappestrukturen som ligger i zip filen. På denne måten kan du importere en filstruktur i dokumentdelen uten å måtte lage mapper én for én.
 
+I denne artikkelen vil du finne informasjon om følgende temaer:
+
 Følg de neste steg for å laste opp en zippet mappe:
 
 ## 1. **1. Aksjons menyen**
