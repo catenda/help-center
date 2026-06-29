@@ -32,12 +32,10 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Plugins et Intégrations Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8396532-plugins-et-integrations-catenda.md)
 - [QR-Code sur les PDF dans Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9360508-qr-code-sur-les-pdf-dans-catenda.md)
 - [Traitement des Sujets à travers l'outil check-list](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5036461-traitement-des-sujets-a-travers-l-outil-check-list.md): un outil supplémentaire pour vous faciliter le suivi des modifications
-- [Untitled article](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670341-k2nekg1n.md): IFC export depuis Revit
 - [Visionneuse 3D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8227211-visionneuse-3d.md)
 
 ## FAQ
 
-- [](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7887999-3baydpf4.md)
 - [Quels formats sont compatibles avec Catenda?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670320-quels-formats-sont-compatibles-avec-catenda.md): formats lecturés par Catenda Hub; formats disponibles; formats acceptés;
 - [Recommandation sur le matériel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6921941-recommandation-sur-le-materiel.md): Découvrez les spécifications matérielles recommandées et les conseils d'optimisation pour une expérience optimale avec Catenda Hub.
 - [Taille limite des fichiers IFC](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670324-taille-limite-des-fichiers-ifc.md): taille limitée IFC; quelle taille maximale par fichier;
