@@ -14,7 +14,7 @@ As new features roll out and bugs are fixed articles are updated with the change
 
 **Getting started and FAQ** [Sorting order of lists](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) [Structuring documents](https://support.catenda.com/en/articles/8542598-structuring-documents)
 
-**Main page** [Organizations page](https://support.catenda.com/en/articles/8442343-organizations-page)
+**Main page** Organizations page
 
 **Topics** [Topic history](https://support.catenda.com/en/articles/8613038-issue-history)
 

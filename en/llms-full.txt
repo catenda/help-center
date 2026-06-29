@@ -1547,7 +1547,7 @@ In the left menu you will be able see the following menus:
 - Projects page - Current article
 - [Notifications](https://support.catenda.com/en/articles/7439223-notifications-page)
 - [Account](https://support.catenda.com/en/articles/6880968-account-page)
-- [Organizations](https://support.catenda.com/en/articles/8442343-organizations-page)
+- Organizations
 
 ## 3. **New item action buttons**
 
@@ -6541,7 +6541,7 @@ A detailed demonstration of those steps are shown in the following tutorial:
 
 ## 2. Only using public document statuses by disabling drafts
 
-Access can be given and restricted to the [uploading of drafts.](https://support.catenda.com/en/articles/7202038-project-settings#:~:text=Document%20status%20configuration-,Document%20drafts,-Create%20models) Also for users who are not allowed to upload regular files! If you want to turn approval flow off completely you can do so by [archiving all the draft statuses](https://support.catenda.com/en/articles/7831371-document-settings#h_21da15bf47) in the [document library settings](https://support.catenda.com/en/articles/7831371-document-settings). The option to upload as draft in the document upload menu will then also disappear. It is possible to keep published statuses even if there are no draft statuses in the project.
+Access can be given and restricted to the uploading of drafts. Also for users who are not allowed to upload regular files! If you want to turn approval flow off completely you can do so by [archiving all the draft statuses](https://support.catenda.com/en/articles/7831371-document-settings#h_21da15bf47) in the [document library settings](https://support.catenda.com/en/articles/7831371-document-settings). The option to upload as draft in the document upload menu will then also disappear. It is possible to keep published statuses even if there are no draft statuses in the project.
 
 # Document banner - Navigation
 
@@ -18741,7 +18741,7 @@ Storeys of models that are exactly on 0m height are now properly displayed in th
 
 ## 1. Articles
 
-_New articles:_ Catenda Hub [Bimsync is now Catenda Hub](https://support.catenda.com/en/articles/7890769-bimsync-is-now-catenda-hub) [Landing page](https://support.catenda.com/en/articles/7891366-landing-page) [Side panel in an issue board](https://support.catenda.com/en/articles/6941224-side-panel-in-an-issue-board) [Exporting all project data](https://support.catenda.com/en/articles/7946690-exporting-all-project-data) [Naming conventions page](https://support.catenda.com/en/articles/7832559-naming-conventions-page) [Simplest naming convention](https://support.catenda.com/en/articles/7845360-simplest-naming-convention) [Medium naming convention](https://support.catenda.com/en/articles/7936943-medium-naming-convention) [Advanced naming convention](https://support.catenda.com/en/articles/7936947-advanced-naming-convention) Catenda Site [Download your mobile app Catenda Site 📲](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site) [Documents - Catenda Site](https://support.catenda.com/en/articles/7774637-documents-catenda-site) [Dashboard - Catenda Site](https://support.catenda.com/en/articles/7213817-dashboard-catenda-site) [Navigation menu - Catenda Site](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) [Projects page - Catenda Site](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) [Settings - Catenda Site](https://support.catenda.com/en/articles/7733833-settings-catenda-site) [Issues page - Catenda Site](https://support.catenda.com/en/articles/7734073-issues-page-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site) [Offline mode in Catenda Site](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site) [3D viewer - Catenda Site](https://support.catenda.com/en/articles/7744403-3d-viewer-catenda-site) [2D viewer - Catenda Site](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site) [Label filter - Catenda Site](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site) _Articles that have changed:_ [Project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page) [System requirements and optimization](https://support.catenda.com/en/articles/6921941-system-requirements-and-optimization) [Models page](https://support.catenda.com/en/articles/4670286-models-page) [Model page](https://support.catenda.com/en/articles/4670270-model-page)
+_New articles:_ Catenda Hub [Bimsync is now Catenda Hub](https://support.catenda.com/en/articles/7890769-bimsync-is-now-catenda-hub) Landing page [Side panel in an issue board](https://support.catenda.com/en/articles/6941224-side-panel-in-an-issue-board) [Exporting all project data](https://support.catenda.com/en/articles/7946690-exporting-all-project-data) [Naming conventions page](https://support.catenda.com/en/articles/7832559-naming-conventions-page) [Simplest naming convention](https://support.catenda.com/en/articles/7845360-simplest-naming-convention) [Medium naming convention](https://support.catenda.com/en/articles/7936943-medium-naming-convention) [Advanced naming convention](https://support.catenda.com/en/articles/7936947-advanced-naming-convention) Catenda Site [Download your mobile app Catenda Site 📲](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site) [Documents - Catenda Site](https://support.catenda.com/en/articles/7774637-documents-catenda-site) [Dashboard - Catenda Site](https://support.catenda.com/en/articles/7213817-dashboard-catenda-site) [Navigation menu - Catenda Site](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) [Projects page - Catenda Site](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) [Settings - Catenda Site](https://support.catenda.com/en/articles/7733833-settings-catenda-site) [Issues page - Catenda Site](https://support.catenda.com/en/articles/7734073-issues-page-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site) [Offline mode in Catenda Site](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site) [3D viewer - Catenda Site](https://support.catenda.com/en/articles/7744403-3d-viewer-catenda-site) [2D viewer - Catenda Site](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site) [Label filter - Catenda Site](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site) _Articles that have changed:_ [Project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page) [System requirements and optimization](https://support.catenda.com/en/articles/6921941-system-requirements-and-optimization) [Models page](https://support.catenda.com/en/articles/4670286-models-page) [Model page](https://support.catenda.com/en/articles/4670270-model-page)
 
 ## 2. Issues resolved
 
@@ -18909,7 +18909,7 @@ As new features roll out and bugs are fixed articles are updated with the change
 
 **Getting started and FAQ** [Sorting order of lists](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) [Structuring documents](https://support.catenda.com/en/articles/8542598-structuring-documents)
 
-**Main page** [Organizations page](https://support.catenda.com/en/articles/8442343-organizations-page)
+**Main page** Organizations page
 
 **Topics** [Topic history](https://support.catenda.com/en/articles/8613038-issue-history)
 
@@ -24680,7 +24680,7 @@ Systematic topic board setup, comprehensive labeling, and milestone integration 
 - [Topic board settings page](https://support.catenda.com/en/articles/4670277-topic-board-settings-page)
 - [Catenda Archicad plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
 - [Catenda Revit plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
-- [Catenda Navisworks plugin](https://support.catenda.com/en/articles/4587973-catenda-navisworks-plugin)
+- Catenda Navisworks plugin
 - [Step 5 - Topics](https://support.catenda.com/en/articles/10576182-step-5-topics)
 
 ## 6. Prompt

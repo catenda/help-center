@@ -79,7 +79,7 @@ Systematic topic board setup, comprehensive labeling, and milestone integration 
 - [Topic board settings page](https://support.catenda.com/en/articles/4670277-topic-board-settings-page)
 - [Catenda Archicad plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
 - [Catenda Revit plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
-- [Catenda Navisworks plugin](https://support.catenda.com/en/articles/4587973-catenda-navisworks-plugin)
+- Catenda Navisworks plugin
 - [Step 5 - Topics](https://support.catenda.com/en/articles/10576182-step-5-topics)
 
 ## 6. Prompt

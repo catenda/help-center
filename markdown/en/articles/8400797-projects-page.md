@@ -19,7 +19,7 @@ In the left menu you will be able see the following menus:
 - Projects page - Current article
 - [Notifications](https://support.catenda.com/en/articles/7439223-notifications-page)
 - [Account](https://support.catenda.com/en/articles/6880968-account-page)
-- [Organizations](https://support.catenda.com/en/articles/8442343-organizations-page)
+- Organizations
 
 ## 3. **New item action buttons**
 
