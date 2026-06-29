@@ -36,7 +36,7 @@ After installing the plugin you will be able to see a Catenda menu tab on the to
 
 When you open up the Catenda palette, the first thing you will see is the sign in page. The sign in page can look something like this:
 
-![](images/01-sign-in.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/01-sign-in.png)
 
 If you do not have a Catenda account you can Sign up for free on the top right. If you already have a Catenda account you can input your email and password and click on sign in. After signing in you will be asked to grant access to your Catenda account. After granting this access the Archicad plugin will show up as an application on the [applications page](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a) of your Catenda account. Here you can always revoke the access should you no longer wish to grant it.
 
@@ -44,7 +44,7 @@ If you do not have a Catenda account you can Sign up for free on the top right. 
 
 If you forgot your password you can click on I forgot my password to reset it. The password reset page can look something like this:
 
-![](images/02-password-reset.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/02-password-reset.png)
 
 If you enter your email address and click on "send a verification email" you will be sent an email that will guide you through resetting your password. Please make sure you have received this email within 5 minutes. If you do not see it in your inbox you could try your spam or junk inbox. If it takes longer 5 minutes please contact support at [support@catenda.com](mailto:support@catenda.com)
 
@@ -54,31 +54,31 @@ To go back to sign in click on sign in on the top right.
 
 When you open up the Archicad plugin you will see your list of projects which can look something like this:
 
-![](images/03-project-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/03-project-list.png)
 
 As soon as you have accepted the invitation to a project you will see your project appear in the list of your projects in the plugin and on the [projects page](https://support.catenda.com/en/articles/8400797-projects-page).
 
 **Action menu** Click on the three dots next to your profile picture to open the action menu dropdown:
 
-![](images/04-project-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/04-project-list.png)
 
 **Models & revisions** This is what the models & revisions page can look like. Here you will be able to see all the models you have access to in your Catenda Project.
 
-![](images/05-project-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/05-project-list.png)
 
 On this page you will be able to download and import ifc files from your Catenda Project to you Archicad model. The timestamp of the model will be relative. Hover over the timestamp to get accurate information about when the revision was published. Click on the arrow button next to one of the model revisions to import the IFC file that was uploaded as a revision. If you do not have access to any models in your Catenda project you will see the following:
 
-![](images/06-project-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/06-project-list.png)
 
 **Upload IFC** Upload an IFC from your current Archicad project This is what the upload IFC page can look like:
 
-![](images/07-project-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/07-project-list.png)
 
 By default the file name will be the name of the Archicad project. This will become the name of the revision in Catenda Select to which model you would like to upload your file. Click on settings to open the Archicad IFC export dialogue. Here you can configure what settings you would like to use to export your IFC to Catenda. When you are ready, click the upload button to upload a model.
 
 **Coordinates** Hover over the coordinates option to expand the coordinates menu. This is what the coordinates menu can look like:
 
-![](images/08-project-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/08-project-list.png)
 
 In the coordinates menu coordinates can be chosen to be relative to: Survey Point - Default Project origin
 
@@ -90,13 +90,13 @@ In the coordinates menu coordinates can be chosen to be relative to: Survey Poin
 
 When you click on a project to open it up the first topic board in the project will open. A topic board can look something like this:
 
-![](images/09-topic-board.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/09-topic-board.png)
 
 ### 5.1 **Search**
 
 Click in the search bar to highlight it. This is what the hightlighted searchbar can look like:
 
-![](images/10-search.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/10-search.png)
 
 After clicking in the searchbar a dropdown with suggested filters opens up. Select any of the filters to apply them. Click on the x next to the filer to remove it again. Start typing to narrow down the suggested filters or perform a text search.
 
@@ -104,7 +104,7 @@ After clicking in the searchbar a dropdown with suggested filters opens up. Sele
 
 Click on the Show filter button to open the filter menu. This is what the filter menu can look like:
 
-![](images/11-show-filter.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/11-show-filter.png)
 
 Depending on the configured settings in the topic board and the topics that are submitted different filters can be  available:
 
@@ -136,7 +136,7 @@ Character amounts Single character - No results. At least two characters are req
 
 Click on Sort to open the sort menu. This is what the sort menu can look like:
 
-![](images/12-sort.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/12-sort.png)
 
 Click on any of the options to sort the topics list by: _Newest_ - Default Topics with the newest creation date
 
@@ -150,4 +150,4 @@ Click on any of the options to sort the topics list by: _Newest_ - Default Topic
 
 When you click on a topic in the topic board you open it up. A topic can look something like this:
 
-![](images/13-topic.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/13-topic.png)

@@ -6,13 +6,13 @@ The report templates page can be found as a sub-page of the [reports page](https
 
 This is what the report templates page can look something like this:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/01-intro.png)
 
 ## 1. **Actions on the report templates page**
 
 The report templates page actions can be found by clicking on the action menu on the top right of the report templates page. This is what the report templates page actions can look like:
 
-![](images/02-actions-on-the-report-templates-page.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-actions-on-the-report-templates-page.png)
 
 ### 1.1 **New topic template**
 
@@ -26,7 +26,7 @@ Use the new document template action to create a new document template
 
 Write in the search bar to filter the reports template table by the names of the reports.
 
-![](images/03-filter-by-name.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/03-filter-by-name.png)
 
 Text searc - `search=test`
 
@@ -34,7 +34,7 @@ Text searc - `search=test`
 
 As soon as a report template is created it will show up as a row in the report templates table. This is what the report templates table can look like:
 
-![](images/04-report-templates-table.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/04-report-templates-table.png)
 
 Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read more about how to work with tables in Catenda.
 
@@ -56,7 +56,7 @@ Type - Default The type of report template, either Documents or Topics.
 
 Action menu - Default Click on the action menu in the action menu column to open the row action menu. This is what the report template row action menu can look like:
 
-![](images/05-columns.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/05-columns.png)
 
 Edit Use the edit action to edit the selected report template.
 

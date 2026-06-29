@@ -4,11 +4,11 @@ In a construction project teams can be valuable as people are often coming in, c
 
 Create a team by opening the action menu to the right of the green plus button on the [members and teams page](https://support.catenda.com/en/articles/4670291-members-and-teams-page) reagardless of the tab that is selected.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/01-intro.png)
 
 Teams can also be created from the members and teams content pages respectively:
 
-<img alt="" src="images/inline-f431970e0ec1.png" width="290"/>    ---    <img alt="" src="images/inline-fa9689ce5cd0.png" width="290"/>
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/inline-f431970e0ec1.png" width="290"/>    ---    <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/inline-fa9689ce5cd0.png" width="290"/>
 
 ## 1. **When to set up a team?**
 
@@ -28,7 +28,7 @@ Access control can be delegated to teams. This can be used to set up access befo
 
 This is what the create a new team page can look like:
 
-![](images/02-create-a-new-team.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/02-create-a-new-team.png)
 
 ### 2.1 **Name**
 

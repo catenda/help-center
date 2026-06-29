@@ -2,6 +2,8 @@
 
 > Find recommended hardware specifications and optimisation tips for the best experience with Catenda Hub.
 
+This article contains information about the recommended system requirement to use Catenda Hub. Catenda hub can be accessed through the browser and does not need to be installed.
+
 ## 1. **Hardware recommendation:**
 
 This hardware recommendation is only intended for Catenda Hub in a browser application. There can be different requirements depending on the detail level of your 3D objects. Levels of detail (LOD) are defined by AIA in document G202 as LOD 100, 200, 300, 400, 500 and 600. The LOD definition can be seen [here](https://assets.aiacontracts.com/ctrzdweb02/zdpdfs/aia-g202-2013-free-sample-preview.pdf).

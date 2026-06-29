@@ -4,7 +4,7 @@ Compared to uploading a regular zip file, the upload a zip function will unpack 
 
 The Upload zip function can be found in the action menu to the right of the green + button on the top right of the documents page.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/01-intro.png)
 
 ### 
 
@@ -12,15 +12,15 @@ The Upload zip function can be found in the action menu to the right of the gree
 
 After clicking the Upload zip menu item, the following dialogue will open up:
 
-![](images/02-selecting-a-zip-file.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/02-selecting-a-zip-file.png)
 
 your system file browser of your system should open automatically. If the file browser did not open up or if it was closed without selecting a zip file, you can open it back up by clicking on the Select zip file button.
 
-![](images/03-selecting-a-zip-file.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/03-selecting-a-zip-file.png)
 
 After successfully selecting a zip file on your local system you should see the name of the zip file as below and the upload zip button will be highlighted in deep green.
 
-![](images/04-selecting-a-zip-file.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/04-selecting-a-zip-file.png)
 
 If you did not enter a folder in the document section, it will say that the contents will be extracted to the Root folder. This means that you will see the contents right when you enter the documents section. It is also possible to navigate to a folder in Catenda and upload your zip there if you want the file structure to appear there.
 
@@ -36,7 +36,7 @@ New folders will only be created if a folder with that name does not exist at th
 
 Different behaviors can be configured for how the extraction of the zip file behaves when a document with the same name as the file in the zip file already exists at the same location as where the zip file is trying to extact it to in the Catenda project.
 
-![](images/05-documents.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/05-documents.png)
 
 **Create new revision - Default** If a document with the same name exists in the same location as the zip attempts to extract a file to, a new revision will be created in that document.
 
@@ -46,7 +46,7 @@ Different behaviors can be configured for how the extraction of the zip file beh
 
 If the status workflow has been enabled in your project, you will be able to configure what the status of new documents will be. If you chose the create new revision option, the status of documents that receive new revision will automatically be changed.
 
-![](images/06-apply-status.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/06-apply-status.png)
 
 It is only possible to choose between shared revision statuses. After upload the shared revisions can be found in the workspace tab and can later be published.
 
@@ -54,7 +54,7 @@ It is only possible to choose between shared revision statuses. After upload the
 
 After clicking on upload zip your zip will start uploading
 
-![](images/07-uploading.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/07-uploading.png)
 
 You can continue working with Catenda on another tab while you wait for the upload to finish.
 
@@ -64,7 +64,7 @@ You can continue working with Catenda on another tab while you wait for the uplo
 
 After your zip has uploaded Catenda will start extracting your zip. During the extraction, you will see the following menu on the bottom left:
 
-![](images/08-extracting.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/08-extracting.png)
 
 You can keep this menu open while browsing Catenda, or close it if you want. You could even close the browser completely during the extaction process. The zip will continue extracting in the background. If you used Catenda in a different tab while the zip is extracting, you will see the folders, documents and revisions start to appear in the location you extracted to by refreshing the page.
 
@@ -72,7 +72,7 @@ You can keep this menu open while browsing Catenda, or close it if you want. You
 
 When the zip is done extracting it will say completed in the dialogue.
 
-![](images/09-extraction-completed.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/09-extraction-completed.png)
 
 Click on view details to see which files were extracted. You will later be able to find these details in "My zip uploads" as explained below. Refresh the page to see all the files that have been uploaded.
 
@@ -92,21 +92,21 @@ The option under the zip upload in the action menu will let you see an overview 
 
 While the zip is extracting the extracted files start to appear as rows in the documents table.
 
-![](images/10-extracting.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/10-extracting.png)
 
 **Completed** When the zip import has completed all files are extracted.
 
-![](images/11-extracting.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/11-extracting.png)
 
 ### 6.2 **Zip import page**
 
 Click on a zip import to see more information about the import process. This is what the zip import page of a completed zip import can look like:
 
-![](images/12-zip-import-page.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/12-zip-import-page.png)
 
 This is what right menu of the zip import page of a completed zip import can look like:
 
-![](images/13-zip-import-page.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/13-zip-import-page.png)
 
 ## 7. **Desktop connector**
 

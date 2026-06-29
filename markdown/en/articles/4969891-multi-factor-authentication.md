@@ -10,13 +10,13 @@ You will be able to find the **Multi Factor Authentication** (MFA) settings on t
 
 Log onto Catenda Hub and go to the **[Account](https://hub.catenda.com/account/profile)** page:
 
-![](images/01-enabling-mfa.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/01-enabling-mfa.png)
 
 1. Click on the **[Authentication](https://hub.catenda.com/account/authentication)** tab:
 1. Scroll down to the section for MFA:
 1. Click on **Enable MFA**
 
-![](images/02-enabling-mfa.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/02-enabling-mfa.png)
 
 ### 1.1 **Authentication app**
 
@@ -34,7 +34,7 @@ Theoretically any application that supports MFA / Two factor authentication via 
 
 **Microsoft Authenticator** Make sure you are in the Authenticator menu on the bottom.
 
-![](images/03-authentication-app.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/03-authentication-app.png)
 
 > **Note:** make sure you are not in the Verified IDs menu as you can scan a qr code here but this will not work.
 
@@ -44,7 +44,7 @@ If your app has access to your camera you can scan the QR code that the [authent
 
 If your app does not have access to your camera you will be asked to manually create an account.
 
-![](images/04-authentication-app.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/04-authentication-app.png)
 
 Account name: The name you give to your account Secret key: This is the key you would have gotten if you had been able to scan the qr code. You can use your camera app to scan the code. The URL that opens when you scan the code can look something like this: `otpauth://totp/\<Catenda account email address>?secret=\<Secret key>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` If you type in the code after "`secret=`" in the secret key that you see in the URL that is opened, Account name can be anything.
 
@@ -54,13 +54,13 @@ Account name: The name you give to your account Secret key: This is the key you 
 
 **Success** After successfully enabling MFA you will see this message.
 
-![](images/05-success-or-fail.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/05-success-or-fail.png)
 
 Once enabled you will need to have your mobile device at hand every time you log onto Catenda Hub. The MFA can be disabled again by clicking on Disable MFA.
 
 **Incorrect code** If you did not insert the right code, you will get the message incorrrect code.
 
-![](images/06-success-or-fail.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/06-success-or-fail.png)
 
 > **Note:** If you have scanned the QR-Code you can try inputting the code within the given timeframe for that code while you have this menu open. If you close this menu, you will have to remove the code that is being generated in your authenticator app and scan the QR-Code again to set up a new code pairing.
 
@@ -147,4 +147,4 @@ Authenticator apps are more secure than SMS/Email code solutions as there is no 
 
 Enterprise customers can request an [organization option](https://support.catenda.com/en/articles/8224886-organization-options#h_d6710faf75) to be turned on which makes it so that all users that are part of their projects have to use MFA to enter the project. To enable MFA on your organization's projects, contact Catenda support. When MFA is required on an organization's projects you will see this message when attempting to open the project.
 
-![](images/07-who-can-enforce-mfa-on-projects.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/07-who-can-enforce-mfa-on-projects.png)
