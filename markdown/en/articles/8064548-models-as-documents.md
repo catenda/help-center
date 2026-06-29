@@ -20,7 +20,7 @@ In the models section you will be able to find the following changes:
 
 The new models table can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/01-model-table.png)
+![](images/01-model-table.png)
 
 ### 3.2 **Columns**
 
@@ -72,7 +72,7 @@ A right information menu will be available if a model is selected.
 
 While the visual changes are not as apparent as in the models section there are a few things that will change to the documents section when models as documents is activated. This is what the document-models can look like in the doucments section.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/02-documents-section-changes.png)
+![](images/02-documents-section-changes.png)
 
 In the documents section you will be able to find the following changes:
 
@@ -84,7 +84,7 @@ As soon as you have any models in the models section you will see a model filter
 
 **Icon** You will be able to tell apart a document-model from a regular document by the model badge on the bottom right of the document-model icon.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/03-columns.png)
+![](images/03-columns.png)
 
 **Name** The name of the document
 
@@ -98,7 +98,7 @@ As soon as you have any models in the models section you will see a model filter
 
 Download, delete or load the 2D/3D views of selected models in the respective viewer by selecting one or more models.
 
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/04-inline-group-a.png" width="310"/>    <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/05-inline-group-b.png" width="310"/>
+<img alt="" src="images/inline-9e345595c719.png" width="310"/>    <img alt="" src="images/inline-959af958f499.png" width="310"/>
 
 This means that you can delete multiple models at once instead of one-by-one like before. If you delete a document that is connected to a model you will have to approve a warning that the model connected to the document will also be deleted.
 
