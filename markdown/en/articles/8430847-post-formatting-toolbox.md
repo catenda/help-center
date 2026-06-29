@@ -4,7 +4,7 @@
 
 The same formatting rules apply for the different posts around Catenda Hub. Posts can include topic descriptions, comments approval descriptions and approval comments. Variations can apply with the different access to who can edit the post. Catenda uses markdown to format text. This means that certain characters before and after sentences will affect the styling of the text. This is what a topic header and descriptino can look like after they are submitted:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. Formatting availability
 
@@ -18,13 +18,13 @@ Formatting is available in the following fields:
 
 Edit the description or comment of an existing topic or when submitting a new topic to see the toolbox:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/02-topic-description-and-comment.png)
+![](images/02-topic-description-and-comment.png)
 
 ### 1.2 **Approval request description**
 
 While the toolbox does not apppear in the description of the new approval request dialogue formatting does get applied to this description.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/03-approval-request-description.png)
+![](images/03-approval-request-description.png)
 
 > **Note:** This field cannot be edited after submitting the approval request.
 
@@ -32,13 +32,13 @@ While the toolbox does not apppear in the description of the new approval reques
 
 While the toolbox appears in the new topic board description it is important to note that the description is not formatted when the board is submitted.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/04-topic-board-description.png)
+![](images/04-topic-board-description.png)
 
 ## 2. **Topic comment attachment**
 
 In topic comments the an attachment tool is visible. Click the + button in a topic to add an attachment.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/05-topic-comment-attachment.png)
+![](images/05-topic-comment-attachment.png)
 
 Click [here](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae) to read more about comment attachments.
 
@@ -48,13 +48,15 @@ The following methods allow you to style your text:
 
 ### 3.1 **Bold, italics, strikethrough**
 
-Bold italics and strikethrough styling can be done in any part of a line and works well together with other styling that has to be at the start of a line. <img alt="**This will be bold** __This will also be bold__ *This will be italics* _This will also be italics_ **This will be bold _combined with italics_** ~~This text will be struck through~~" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-b49c2f10b2de.png" width="290"/>   \<->   <img alt="This will be bold​This will also be bold​This will be italics​This will also be italics​This will be bold combined with italicsThis text will be struck through" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-ea38fb93f8ee.png" width="290"/>
+Bold italics and strikethrough styling can be done in any part of a line and works well together with other styling that has to be at the start of a line.
+
+<img alt="**This will be bold** __This will also be bold__ *This will be italics* _This will also be italics_ **This will be bold _combined with italics_** ~~This text will be struck through~~" src="images/inline-b49c2f10b2de.png" width="290"/>   \<->   <img alt="This will be bold​This will also be bold​This will be italics​This will also be italics​This will be bold combined with italicsThis text will be struck through" src="images/inline-ea38fb93f8ee.png" width="290"/>
 
 ### 3.2 **Headers**
 
 The header tool applies hastags/pound signs to the beginning of the line. There are 5 levels of headers that are supported: The formatting that the header receives is dependent on the amount of hashtags/pound signs (`#`) that are at the beginning of the line.
 
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-c21079ec7efb.png" width="290"/>   \<->   <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-557784a5d702.png" width="290"/>
+<img alt="" src="images/inline-c21079ec7efb.png" width="290"/>   \<->   <img alt="" src="images/inline-557784a5d702.png" width="290"/>
 
 ### 3.3 **Links**
 
@@ -92,7 +94,7 @@ Images in descriptions can have a link attached to them. To embed images you can
 
 to get this image with the word text behind it.
 
-![text](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/06-images.png)
+![text](images/06-images.png)
 
 In order for the image to properly show up, Catenda has to have access the link that is provided.
 
@@ -188,10 +190,7 @@ Put a backslash (`\\`) before the period (`.`):
 
 Will all turn into:
 
-23. twenty-three
-24. twenty-four
-25. twenty-five
-26. twenty-six
+23\. twenty-three 24\. twenty-four 25\. twenty-five 26\. twenty-six
 
 ### 4.3 **Dividers**
 
@@ -209,7 +208,7 @@ These can be checked in the description of a topic. _Access required:_ Write acc
 
 Will turn into this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/07-checklists.png)
+![](images/07-checklists.png)
 
 Click [here](https://support.catenda.com/en/articles/5036461-check-lists-within-issues) to watch a quick video on how checklists can be used in the project. If you write` - [ ]` or `- [x]` the box will still appear unchecked and checked when the comment is submitted or saved after editing.
 
@@ -231,11 +230,11 @@ will result in this
 
 You can insert single lines of code like this: Two `\`` surrounding text will look like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/08-code-blocks.png)
+![](images/08-code-blocks.png)
 
 Three backticks `\`\`\`` above and below a bit of text will look like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/09-code-blocks.png)
+![](images/09-code-blocks.png)
 
 It is not possible to add tables in code blocks
 
@@ -247,7 +246,7 @@ If you would like to know more about how text is formatted in comments and descr
 
 Click the `@` tool or write `@` in a description or comment to mention a member. After typing `@` a dropdown list of members and teams is displayed.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/10-mentioned-members-and-teams.png)
+![](images/10-mentioned-members-and-teams.png)
 
 Search through the list by starting to type the email, member name or team name. Go up and down the list with the arrow keys and click or press enter to select a member or team. For a member or team to appear in this list the member or team has to at least have read access to the topic board. After selecting a member or team in the list the `@` will get some extra text that can look like:
 
@@ -269,7 +268,7 @@ In addition to the notification that they are mentioned, members that are mentio
 
 Mentions in posts can be identified by having green text color.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/11-mention-in-post.png)
+![](images/11-mention-in-post.png)
 
 In the background the unique id of the mentioned project participant is saved. It is the name of the participant that is displayed in this green text. Even if the member or team changes name, they will stay mentioned in the post but under their new name.
 
@@ -277,7 +276,7 @@ Mentioned members have a clickable link that directs to the [member page](https:
 
 **Non-existing member** If there is no member in the project that has the email address that is mentioned the post looks like this instead:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/12-mention-in-post.png)
+![](images/12-mention-in-post.png)
 
 This can either be because the email was formatted wrongly of because the member is no longer part of the project. Should a member with this email address become part of the project in the future, the post changes to displaye the name of that member.
 
@@ -287,7 +286,7 @@ This can either be because the email was formatted wrongly of because the member
 
 Click the `#` tool or write `#` in a description or comment to tag a topic. After typing `#` a dropdown list of topics from all topic boards is displayed.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/13-tagged-topics.png)
+![](images/13-tagged-topics.png)
 
 Search through the list by starting to type the title or topic number. Go up and down the list with the arrow keys and click or press enter to select a topic. For a topic to appear in this list the member that is tagging has to have access to the board that the topic is in. After selecting a topic in the list the `#` will get some extra text that can look like:
 
@@ -297,11 +296,11 @@ Search through the list by starting to type the title or topic number. Go up and
 
 When the description is saved or the comment is submitted a topic relation is created. The linked topic is then added to the list of [linked topics](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [the right menu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) of the topic.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/14-saving-or-submitting-a-tagged-topic.png)
+![](images/14-saving-or-submitting-a-tagged-topic.png)
 
 In addition to the topic where anohter topic was tagged, the tagged topic itself recevieves a link back to the topic where it was added to the list of [linked topics](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [the right menu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/15-saving-or-submitting-a-tagged-topic.png)
+![](images/15-saving-or-submitting-a-tagged-topic.png)
 
 The topic link can later be removed from either the topic with the tagged topic in the description or form the topic that was tagged by going to each topic and editing the list of [linked topics](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [the right menu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue).
 
@@ -311,6 +310,6 @@ Tagged topics can be identified by first having a circle with the color of the c
 
 Together with the checkboxes, tagged topics that are closed count towards the progress in the progress bar that is displayed towards the top while tagged topics that are open count towards the total items the progress is counted towards.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/16-tagged-topic-in-post.png)
+![](images/16-tagged-topic-in-post.png)
 
 Tagged topics have a clickable link that opens the tagged topic in its topic board.

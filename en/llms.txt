@@ -21,7 +21,7 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 
 - [3D viewer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8227211-3d-viewer.md)
 - [Catenda Archicad plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5519276-catenda-archicad-plugin.md): test
-- [Catenda Desktop connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8358861-catenda-desktop-connector.md)
+- [Catenda Desktop Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8358861-catenda-desktop-connector.md)
 - [Catenda Navisworks plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5085987-catenda-navisworks-plugin.md)
 - [Catenda Plugins & Integrations](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8396532-catenda-plugins-integrations.md): Connect Catenda to your favorite tool
 - [Catenda Revit plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670334-catenda-revit-plugin.md)

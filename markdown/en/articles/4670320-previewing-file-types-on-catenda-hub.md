@@ -8,7 +8,9 @@ For our model viewer we only support IFCs. All file types can be uploaded to our
 
 At Catenda we like to work with Open Standards so that everyone can work together regardless of the software they own.
 
-_Typically, anybody can participate in their development due to their inherently open nature ([Wikipedia](https://en.wikipedia.org/wiki/Open_standard#:~:text=Typically%2C%20anybody%20can%20participate%20in%20their%20development%20due%20to%20their%20inherently%20open%20nature.))_ This means that it is not just one organization controlling what gets developed.
+_Typically, anybody can participate in their development due to their inherently open nature ([Wikipedia](https://en.wikipedia.org/wiki/Open_standard#:~:text=Typically%2C%20anybody%20can%20participate%20in%20their%20development%20due%20to%20their%20inherently%20open%20nature.))_
+
+This means that it is not just one organization controlling what gets developed.
 
 ## 2. **Vendor neutral 3D file formats**
 

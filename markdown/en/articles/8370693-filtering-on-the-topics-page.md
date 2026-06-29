@@ -2,7 +2,7 @@
 
 The filter menu in an topic board can be opened by clicking on the filter button to the left of the search bar in a [topic board](https://support.catenda.com/en/articles/4670271-issues-page).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **Filters**
 
@@ -86,7 +86,7 @@ Linked to selected objects - `link=backlink` If it is not already open, the 3D p
 
 In addition to the filter menu on the left there is some functionality that is only available through the search or filter bar. This is what the search or filter bar can look like when it is highlighted:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/02-filtering-in-the-search-or-filter-bar.png)
+![](images/02-filtering-in-the-search-or-filter-bar.png)
 
 Below the search or filter bar a menu with suggested filters opens up. The first filter in the filter menu is suggested after highlighting the search or filter menu. Press enter to apply this filter or use the arrow keys to navigate between the different filters.
 
@@ -94,7 +94,7 @@ Below the search or filter bar a menu with suggested filters opens up. The first
 
 If you have any saved filters in a topic board those will be the first available filter in the filter menu and will be suggested as soon as the search or filter box is higlighted:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/03-saved-filters.png)
+![](images/03-saved-filters.png)
 
 Click on the filter to open filter the board on the saved set of filters that have been given a name. Click [here](https://support.catenda.com/en/articles/8551755-saving-filters) to read more about how to save a set of filters.
 
@@ -102,7 +102,7 @@ Click on the filter to open filter the board on the saved set of filters that ha
 
 _Text search -_ `search=\<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/04-text-search.png)
+![](images/04-text-search.png)
 
 **Content that can be searched on** Topic title Topic description Topic comments
 
@@ -124,7 +124,7 @@ Mentioned member Search on the email of a member to find all plain text occurren
 
 Mentioned team Mentioned teams can be searched on by searching the GUID of that team. To find the GUID of a team, go to the [content page of that team](https://support.catenda.com/en/articles/7891755-team-page) by clicking on its name on the [teams tab of the members and teams page](https://support.catenda.com/en/articles/4670291-members-and-teams-page). The URL should look something like: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
+![](images/05-text-search.png)
 
 Search on the team GUID to find all plain text occurrences of that team GUID. This includes where they have been mentioned. Search on `#[\<team GUID>]` to find only the occurrences where that team is mentioned.
 
@@ -138,13 +138,13 @@ _Text custom field -_ `custom-field-\<Custom field GUID>=\<Search phrase>` If a 
 
 If a search pharse starts with a unicode character with a unicode value that is between 33 and 57 the following filters will appear towards the bottom of the list of suggested filters.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/06-number-search-phrase.png)
+![](images/06-number-search-phrase.png)
 
 This includes the following characters: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`\*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
 
 _Topic -_ `issues=\<issue number>` When a search phrase starts with a number the topic number search appears as a suggestion in the search or filter bar. The suggested filter can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/07-number-search-phrase.png)
+![](images/07-number-search-phrase.png)
 
 While it is possible to filter a board for topic numbers with more than just numbers topics can only be found with their number with this filter. If more than just numbers are provided the filter will disappear from the menu but the board will still be filtered on the entered phrase.
 

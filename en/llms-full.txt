@@ -8,9 +8,11 @@
 
 An invitation is sent to you via email by Catenda with a link to the next steps of registration. Using this link you can create an account with your personal credentials.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m6qttvze/01-intro.png)
+![](images/01-intro.png)
 
-After your registration is complete, you can access your projects on Catenda Hub from any web browser. [https://hub.catenda.com/signin](https://hub.catenda.com/signin) Further reading: [Sign in page](https://support.catenda.com/en/articles/7891486-sign-in-page), [Creating an account](https://support.catenda.com/en/articles/8412895-creating-an-account), [Landing page](https://support.catenda.com/en/articles/4670260-landing-page)
+After your registration is complete, you can access your projects on Catenda Hub from any web browser. [https://hub.catenda.com/signin](https://hub.catenda.com/signin)
+
+Further reading: [Sign in page](https://support.catenda.com/en/articles/7891486-sign-in-page), [Creating an account](https://support.catenda.com/en/articles/8412895-creating-an-account), [Landing page](https://support.catenda.com/en/articles/4670260-landing-page)
 
 > **Note:** Find [step 2](https://support.catenda.com/en/articles/10576075-step-2-interface) in [getting started](https://support.catenda.com/en/collections/2657208-getting-started) on the help center or in the help menu.
 
@@ -48,13 +50,13 @@ You will be able to find the **Multi Factor Authentication** (MFA) settings on t
 
 Log onto Catenda Hub and go to the **[Account](https://hub.catenda.com/account/profile)** page:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/01-enabling-mfa.png)
+![](images/01-enabling-mfa.png)
 
 1. Click on the **[Authentication](https://hub.catenda.com/account/authentication)** tab:
 1. Scroll down to the section for MFA:
 1. Click on **Enable MFA**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/02-enabling-mfa.png)
+![](images/02-enabling-mfa.png)
 
 ### 1.1 **Authentication app**
 
@@ -72,7 +74,7 @@ Theoretically any application that supports MFA / Two factor authentication via 
 
 **Microsoft Authenticator** Make sure you are in the Authenticator menu on the bottom.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/03-authentication-app.png)
+![](images/03-authentication-app.png)
 
 > **Note:** make sure you are not in the Verified IDs menu as you can scan a qr code here but this will not work.
 
@@ -82,7 +84,7 @@ If your app has access to your camera you can scan the QR code that the [authent
 
 If your app does not have access to your camera you will be asked to manually create an account.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/04-authentication-app.png)
+![](images/04-authentication-app.png)
 
 Account name: The name you give to your account Secret key: This is the key you would have gotten if you had been able to scan the qr code. You can use your camera app to scan the code. The URL that opens when you scan the code can look something like this: `otpauth://totp/\<Catenda account email address>?secret=\<Secret key>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` If you type in the code after "`secret=`" in the secret key that you see in the URL that is opened, Account name can be anything.
 
@@ -92,13 +94,13 @@ Account name: The name you give to your account Secret key: This is the key you 
 
 **Success** After successfully enabling MFA you will see this message.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/05-success-or-fail.png)
+![](images/05-success-or-fail.png)
 
 Once enabled you will need to have your mobile device at hand every time you log onto Catenda Hub. The MFA can be disabled again by clicking on Disable MFA.
 
 **Incorrect code** If you did not insert the right code, you will get the message incorrrect code.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/06-success-or-fail.png)
+![](images/06-success-or-fail.png)
 
 > **Note:** If you have scanned the QR-Code you can try inputting the code within the given timeframe for that code while you have this menu open. If you close this menu, you will have to remove the code that is being generated in your authenticator app and scan the QR-Code again to set up a new code pairing.
 
@@ -185,17 +187,17 @@ Authenticator apps are more secure than SMS/Email code solutions as there is no 
 
 Enterprise customers can request an [organization option](https://support.catenda.com/en/articles/8224886-organization-options#h_d6710faf75) to be turned on which makes it so that all users that are part of their projects have to use MFA to enter the project. To enable MFA on your organization's projects, contact Catenda support. When MFA is required on an organization's projects you will see this message when attempting to open the project.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/07-who-can-enforce-mfa-on-projects.png)
+![](images/07-who-can-enforce-mfa-on-projects.png)
 
 # 3D viewer
 
 You will be able to find the 3D viewer as one of the four main panels that can be opened on the top right of your screen. You can either press the 3D-icon to open this panel or you can press [shift+2](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=3D%20viewer-,Shift%20%2B%202,-Trees%20panel).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/01-intro.png)
+![](images/01-intro.png)
 
 With a model loaded the 3D viewer can look like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/02-intro.png)
+![](images/02-intro.png)
 
 ## 1. **Loading in models**
 
@@ -205,23 +207,23 @@ Models can be loaded into the 3D viewer in several ways. On the models page 3D n
 
 If you have not loaded any models yet you will be able to load and unload models by opening the revision selector dropdown list. Click [here](https://support.catenda.com/en/articles/4670279-revision-selector) to read more about the revision selector
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/03-revision-selector.png)
+![](images/03-revision-selector.png)
 
 ### 1.2 **Grid dropdown**
 
 If there are models in your projects that contain grids you will be able to load them in the viewer with this dropdown list. Click [here](https://support.catenda.com/en/articles/4670327-showing-grids) to read more about grids in the 3D viewer.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/04-grid-dropdown.png)
+![](images/04-grid-dropdown.png)
 
 ## 2. **Visibility**
 
 The visibility dropdown lets you show, hide and make objects translucent.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/05-visibility.png)
+![](images/05-visibility.png)
 
 When you open the visibility dropdown it can look like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/06-visibility.png)
+![](images/06-visibility.png)
 
 Here you will be able to perform the following actions:
 
@@ -251,13 +253,13 @@ Hidden object(s) will still be loaded in your systems memory.
 
 The camera options dropdown lets you choose Viewpoints, Camera types and views.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/07-br-camera-options.png)
+![](images/07-br-camera-options.png)
 
 ### 3.1 **Viewpoint**
 
 This is what the viewpoint menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/08-viewpoint.png)
+![](images/08-viewpoint.png)
 
 _Home_ - Reset the viewer to the default position This can help get an overview of all the models loaded in the viewer.
 
@@ -277,7 +279,7 @@ The following views let you see the model from different sides:
 
 This is what the camera type menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/09-camera-type.png)
+![](images/09-camera-type.png)
 
 _Perspective_ - Default Lets you see the model as a human does. This camera type is great for understanding what it can be like to be in the model. Because the camera is in the human's eye you can clip through walls. The field of view for the perspective camera type can be adjusted in viewer settings.
 
@@ -287,7 +289,7 @@ _Perspective_ - Default Lets you see the model as a human does. This camera type
 
 This is what the view menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/10-view.png)
+![](images/10-view.png)
 
 > **Note:** Be sure the hardware and sofware Catenda is opened on are configured [as recommended](https://support.catenda.com/en/articles/6921941-hardware-recommendation) as this can have an effect on how the viewer is displayed.
 
@@ -309,13 +311,13 @@ As there is no sun or artificial light in the Catenda viewer objects do not cast
 
 Towards the top right of the 3D viewer you will be able to find the 3D viewer tool dropdown.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/11-tool-dropdown.png)
+![](images/11-tool-dropdown.png)
 
 > **Note:** The tool button usually looks like this but might change appearance depending on which tool you have selected.
 
 The tool dropdown can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/12-tool-dropdown.png)
+![](images/12-tool-dropdown.png)
 
 Click [here](https://support.catenda.com/en/articles/4670294-measuring-features) to learn more about the tool dropdown.
 
@@ -323,11 +325,11 @@ Click [here](https://support.catenda.com/en/articles/4670294-measuring-features)
 
 Clicking this button shows the joystick on the screen. The joystick lets you smoothly fly through the model in perspective mode and rotate around a central point in orthographic mode.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/13-joystick.png)
+![](images/13-joystick.png)
 
 If you turn the joystick on you will see that the button changes and gets a dropdown.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/14-joystick.png)
+![](images/14-joystick.png)
 
 With the dropdown next to the joystick you can configure the joystick location:
 
@@ -341,19 +343,19 @@ With the dropdown next to the joystick you can configure the joystick location:
 
 Click this button to open the [3D viewer settings](https://support.catenda.com/en/articles/5784718-3d-viewer-settings) dropdown
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/15-br-3d-viewer-settings.png)
+![](images/15-br-3d-viewer-settings.png)
 
 ## 7. **2D button**
 
 Click this button to open the [2D viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/16-2d-button.png)
+![](images/16-2d-button.png)
 
 ## 8. **Object information footer**
 
 By default a footer will show on the bottom of the viewer when you select an object.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/17-object-information-footer.png)
+![](images/17-object-information-footer.png)
 
 This footer can contains information about topics and library items that are linked to the object.
 
@@ -389,7 +391,7 @@ Click the x to hide the object information footer from the 3D viewer.
 
 If you have chosen to close the information footer you can open it back up again with the i button below the 2D viewer or 2D button.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/18-showing-the-object-information-footer.png)
+![](images/18-showing-the-object-information-footer.png)
 
 ## 9. **Options menu**
 
@@ -437,7 +439,7 @@ After installing the plugin you will be able to see a Catenda menu tab on the to
 
 When you open up the Catenda palette, the first thing you will see is the sign in page. The sign in page can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/01-sign-in.png)
+![](images/01-sign-in.png)
 
 If you do not have a Catenda account you can Sign up for free on the top right. If you already have a Catenda account you can input your email and password and click on sign in. After signing in you will be asked to grant access to your Catenda account. After granting this access the Archicad plugin will show up as an application on the [applications page](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a) of your Catenda account. Here you can always revoke the access should you no longer wish to grant it.
 
@@ -445,7 +447,7 @@ If you do not have a Catenda account you can Sign up for free on the top right. 
 
 If you forgot your password you can click on I forgot my password to reset it. The password reset page can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/02-password-reset.png)
+![](images/02-password-reset.png)
 
 If you enter your email address and click on "send a verification email" you will be sent an email that will guide you through resetting your password. Please make sure you have received this email within 5 minutes. If you do not see it in your inbox you could try your spam or junk inbox. If it takes longer 5 minutes please contact support at [support@catenda.com](mailto:support@catenda.com)
 
@@ -455,29 +457,31 @@ To go back to sign in click on sign in on the top right.
 
 When you open up the Archicad plugin you will see your list of projects which can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/03-project-list.png)
+![](images/03-project-list.png)
 
-As soon as you have accepted the invitation to a project you will see your project appear in the list of your projects in the plugin and on the [projects page](https://support.catenda.com/en/articles/8400797-projects-page). **Action menu** Click on the three dots next to your profile picture to open the action menu dropdown:
+As soon as you have accepted the invitation to a project you will see your project appear in the list of your projects in the plugin and on the [projects page](https://support.catenda.com/en/articles/8400797-projects-page).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/04-project-list.png)
+**Action menu** Click on the three dots next to your profile picture to open the action menu dropdown:
+
+![](images/04-project-list.png)
 
 **Models & revisions** This is what the models & revisions page can look like. Here you will be able to see all the models you have access to in your Catenda Project.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/05-project-list.png)
+![](images/05-project-list.png)
 
 On this page you will be able to download and import ifc files from your Catenda Project to you Archicad model. The timestamp of the model will be relative. Hover over the timestamp to get accurate information about when the revision was published. Click on the arrow button next to one of the model revisions to import the IFC file that was uploaded as a revision. If you do not have access to any models in your Catenda project you will see the following:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/06-project-list.png)
+![](images/06-project-list.png)
 
 **Upload IFC** Upload an IFC from your current Archicad project This is what the upload IFC page can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/07-project-list.png)
+![](images/07-project-list.png)
 
 By default the file name will be the name of the Archicad project. This will become the name of the revision in Catenda Select to which model you would like to upload your file. Click on settings to open the Archicad IFC export dialogue. Here you can configure what settings you would like to use to export your IFC to Catenda. When you are ready, click the upload button to upload a model.
 
 **Coordinates** Hover over the coordinates option to expand the coordinates menu. This is what the coordinates menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/08-project-list.png)
+![](images/08-project-list.png)
 
 In the coordinates menu coordinates can be chosen to be relative to: Survey Point - Default Project origin
 
@@ -489,13 +493,13 @@ In the coordinates menu coordinates can be chosen to be relative to: Survey Poin
 
 When you click on a project to open it up the first topic board in the project will open. A topic board can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/09-topic-board.png)
+![](images/09-topic-board.png)
 
 ### 5.1 **Search**
 
 Click in the search bar to highlight it. This is what the hightlighted searchbar can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/10-search.png)
+![](images/10-search.png)
 
 After clicking in the searchbar a dropdown with suggested filters opens up. Select any of the filters to apply them. Click on the x next to the filer to remove it again. Start typing to narrow down the suggested filters or perform a text search.
 
@@ -503,7 +507,7 @@ After clicking in the searchbar a dropdown with suggested filters opens up. Sele
 
 Click on the Show filter button to open the filter menu. This is what the filter menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/11-show-filter.png)
+![](images/11-show-filter.png)
 
 Depending on the configured settings in the topic board and the topics that are submitted different filters can be  available:
 
@@ -535,7 +539,7 @@ Character amounts Single character - No results. At least two characters are req
 
 Click on Sort to open the sort menu. This is what the sort menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/12-sort.png)
+![](images/12-sort.png)
 
 Click on any of the options to sort the topics list by: _Newest_ - Default Topics with the newest creation date
 
@@ -549,9 +553,9 @@ Click on any of the options to sort the topics list by: _Newest_ - Default Topic
 
 When you click on a topic in the topic board you open it up. A topic can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/13-topic.png)
+![](images/13-topic.png)
 
-# Catenda Desktop connector
+# Catenda Desktop Connector
 
 > **Note:** The installation file for this application can be found [here](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
 
@@ -559,29 +563,39 @@ With the Catenda desktop connector you can schedule up- and downloads of the lat
 
 ## 1. **Instant up/downloads**
 
-The Desktop Connector lets you upload files from your local system to a specified folder on Catenda Hub. You can also select a number of folders on Catenda Hub to download to a location on your local machine.
+### 1.1 **Upload**
 
-**Uploading speed** Uploading files with the Desktop connector is faster at file transfer than the regular upload process as the files are imported via the API instead of via the browser. It is therefore the best way to upload your files if you are uploading a large amount of data at once.
+Select a folder on a local system to upload all folder content, including files within subfolders of the selected folder, with the Desktop Connector to a specified folder on Catenda Hub.
 
-### 1.1 **Successful uploads**
+**Successful uploads** If you drag-and-drop multiple files or use the zip-upload feature on Catenda Hub you are uploading one big set of data. The larger the upload the longer you have to wait before you can submit your files into the Catenda Hub document structure.
 
-If you drag-and-drop multiple files or use the zip-upload feature on Catenda Hub you are uploading one big set of data. The larger the upload the longer you have to wait before you can submit your files into the Catenda Hub document structure.
-
-**One file at a time** By uploading files from a folder structure one file at a time the Desktop Connector you can pause the upload jon and continue it later.
+**One file at a time** By uploading files from a folder structure one file at a time the Desktop Connector you can pause the upload and continue it later.
 
 **Lower the risk for upload failures** The larger the upload the higher the risk that it fails as well. Maybe your power goes out, maybe your internet connection breaks for a split second. Then you would have to start the upload all over again.
 
+### 1.2 **Download**
+
+Select either one or more single documents or select a folder on Catenda Hub to download the selection, including documents within subfolders of selected folders to a location on your local machine.
+
+### 1.3 **Transfer speed**
+
+Both up- and downloading files with the Desktop connector is faster at file transfer than the regular upload process as the files are imported via the API without requiring the overhead of a running a browser or other browser limitations. For transferring a single file a drag or drop with a browser is recommended because of its ease of use, but for transferring large amounts of data in one go or for those who wish to save time during uploads of large single files the Desktop Connector is the recommended way for transferring.
+
+### 1.4 **Access**
+
+Access control that is configured on Catenda Hub is maintained. Users can upload to locations in the Catenda Document structure where they have at least write access and can only download documents they have at least read access to.
+
 ## 2. **Synchronization**
 
-You can schedule when your files are uploaded or downloaded at regular intervals.
+Files can be scheduled to be up- or downloaded at regular intervals.
 
 ### 2.1 **Local system -> Catenda Hub**
 
-The desktop connector will make sure that either the file on your local system are up-to-date with your Catenda Hub project.
+The Desktop Connector can ensure that files in a Catenda Hub project are kept current with the latest save state of a file on the local system.
 
 ### 2.2 **Catenda Hub -> Local system**
 
-It can also work the other way where the connector ensures you always have the latest version of your Catenda Hub documents on your local system.
+The Desktop Connector can ensure that files on a local system are kept current with the latest revision of a document in a Catenda Hub project.
 
 ## 3. **Installation**
 
@@ -599,15 +613,15 @@ Find Desktop Connector in the list and click on the action menu on the right han
 
 ## 4. **Sign in**
 
-When you first open the Desktop connector you will be asked to sign in. If you click on the sign in button your default browser will open with a page that asks you to log in to your Catenda Hub account. After logging in or if you were already logged in you will be asked to grant access to your Catenda account. After clicking on allow access you will be asked to open the desktop connector app. You will then be redirected back to the Desktop Connector [home page](#h_097078145d).
+When the Desktop Connector is first opened a sign in request is displayed. Click on the Sign-in button to open the default browser on the system on the Catenda Sign-in page. After logging in or if already logged in click on allow access to grant access to Catenda account that is logged in. After clicking on allow access the browser will prompt the user to open the Desktop Connector application. Giving permisison to opening the application redirects back to the Desktop Connector [home page](#h_097078145d).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/01-sign-in.png)
+![](images/01-sign-in.png)
 
 ## 5. **Home page**
 
-When you start up the Desktop connector it will look like this:
+This is wht the Desktop Connector can look like when it is started up with a valid login:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/02-home-page.png)
+![](images/02-home-page.png)
 
 ### 5.1 **Wake up PC**
 
@@ -621,23 +635,23 @@ To run the desktop connector on startup, select this option
 
 Click on the log out button on the bottom right to log out.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/03-log-out.png)
+![](images/03-log-out.png)
 
 ## 6. **Project list**
 
-Here you see an overview of your projects and the number of up- and download tasks you have set for each project.
+An overview of the projects that the account had access to the last time the projects list was loaded in is displayed. For each project the number of up- and download tasks that are configured are shown.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/04-project-list.png)
+![](images/04-project-list.png)
 
 ### 6.1 **Synchronize button**
 
-If you have recently joined a new project you can click this synchronize button to load in the new list of projects you are part of.
+If a project was recently joined, click click this synchronize button to load in the new list of projects that the logged-in account is part of.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/05-synchronize-button.png)
+![](images/05-synchronize-button.png)
 
 ### 6.2 **Name**
 
-Click on the name of a project to see your current up- and download tasks or to schedule a new task.
+Click on the name of a project to see the current up- and download tasks or to schedule a new task.
 
 ### 6.3 **Upload tasks**
 
@@ -649,9 +663,9 @@ The amount of download tasks that are active for this project
 
 ## 7. **Upload task**
 
-With this task you can schedule a periodic upload of files from your system to Catenda Hub
+Schedule a periodic uplaod of files from your system to Catenda Hub with this task.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/06-upload-task.png)
+![](images/06-upload-task.png)
 
 ### 7.1 **Title - Required**
 
@@ -663,19 +677,19 @@ The task has to at least have one day selected to be saved
 
 ### 7.3 **Project location**
 
-**Server** Select the location on Catenda Hub you want to synchronize your files to.
+**Server** Click on browse to select the destination on the Documents page in Catenda Hub  where files should be synchronized to. Click [here](#h_4446f1b663) to read more about selecting the server directory path
 
-**Local** Select the location on your system you want to sychronize the files from.
+**Local** Select the location on the local system from where files should be sychronizes.
 
 ### 7.4 **Instant**
 
-Click on the upload now square to start this task immediately. You do not have to save the task to start uploading. If you save the task it will run periodically at the configured time.
+Tasks do not have to be saved to start the upload process. Click on the upload now square to start this task immediately. Saved taks run periodically at the configured time.
 
 ## 8. **Download task**
 
-With this task you can schedule a periodic download of files from Catenda Hub to your system.
+Schedule a periodic download of files from Catenda Hub to the local system.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/07-download-task.png)
+![](images/07-download-task.png)
 
 ### 8.1 **Title - Required**
 
@@ -683,55 +697,91 @@ The upload task has to at least have a title to be saved
 
 ### 8.2 **Schedule calendar - Required**
 
-The task has to at least have one day selected to be saved​
+The task has to at least have one day selected to be saved
 
 ### 8.3 **Project location**
 
-**Server** Select the location on Catenda Hub you want to download your files from.
+**Server** Select the location on Catenda Hub from where documents should be downloaded. Click [here](#h_4446f1b663) to read more about selecting the server directory path
 
-**Local** Select the location on your system you want to download the files to.
+**Local** Select the destination on the local system where files should be downloaded to.
 
 ### 8.4 **Instant**
 
-Click on the upload now square to start this task immediately. You do not have to save the task to start uploading. If you save the task it will run periodically at the configured time. The downloaded documents will end up on your system unzipped.
+A task does nto have to be saved to start downloading. Click on the Download now square to start this task immediately. Save the task to periodically run the download at the configured time. The downloaded documents will end up on your system unzipped.
 
 ### 8.5 Back button
 
-Click this button to go back to the [home page](#h_097078145d)
+Click on the arrow button to go back to the [home page](#h_097078145d)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
+![](images/08-back-button.png)
 
-## 9. **Task List**
+## 9. **Server location**
 
-Here you can see your current up- and download tasks
+Click on browse in the project location are of an upload or download task to start browsing the directory path of the Catenda project. The Choose directory path dialogue will open up. Once opened it will start downloading all folder names in the project and their heirarchy. For download tasks document names are downloaded as well. While the downloading is onging the dialogue can look like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/09-task-list.png)
+![](images/09-server-location.png)
 
-### 9.1 **Name**
+Especially for download tasks, if there are many folders and documents it can take a couple of minutes for this process to finish. Please make sure enough memory is available on the local system for this step.
+
+**Dialogue size** Click on Min or Max towards the top right to minimize or maximize the Choose directory path dialogue.
+
+**Directory actions** After the folders have loaded in the dialogue can look something like this:
+
+![](images/10-server-location.png)
+
+Click on the arrow next to a folder to expand it. Documents are only available in this view for download tasks.
+
+**Folder select** Click on a folder to select it. For download tasks multiple folders can be selected while for upload tasks only one folder can be selected at a time.
+
+![](images/11-server-location.png)
+
+After a folder is selected it appears as whilte with a checkmark. Any subfolders to the selected folder will appear struck through as it is only possible to select folders at the same level. Towards the top the amount of selected items are displayed.
+
+**Download task** If there are documents in the selected folder or its subfolders all folders in the path between the selected folder and the document will be created. The document is then downloaded to that folder. If a subfolder does not contain and documents the subfolder will not be created even though it may be checked in this dialogue. It is not possible to uncheck a subfolder to not download part of a folder structure. To only download some folders, select them individually like in the image below:
+
+![](images/12-server-location.png)
+
+Document select Click on a document to select it
+
+![](images/13-server-location.png)
+
+When individual documents are selected the documents will be downloaded as a flat list directly to the selected local path without the hierarchy of the folders those documents are in.
+
+**Upload task** Documents are uploaded to the selected folder. If the folder name matches documents are uploaded to subfolders of the selected folder.
+
+## 10. **Task List**
+
+Here the up- and download tasks that are configured in this installation for the logged-in user can be seen.
+
+![](images/14-task-list.png)
+
+### 10.1 **Name**
 
 The name of the task.
 
-### 9.2 **Task**
+### 10.2 **Task**
 
 The scheduled time of that the task will run.
 
-### 9.3 **Project**
+### 10.3 **Project**
 
 The name of the project where this task will run.
 
-### 9.4 **Status**
+### 10.4 **Status**
 
 The status of this task.
 
-### 9.5 **Back button**
+### 10.5 **Back button**
 
 Click this button to go back to the [home page](#h_097078145d)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
+![](images/08-back-button.png)
 
-## 10. **Log Folder**
+## 11. **Log Folder**
 
-This button opens the folder location of the Desktop Connector logs on your system. The default location of these logs is: C:\\Users\\\<Windows account name>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp
+This button opens the folder location of the Desktop Connector logs on the local system. The default location of these logs is:
+
+`C:\\Users\\\<Windows account name>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp`
 
 # Catenda Navisworks plugin
 
@@ -788,11 +838,11 @@ After having installed the plugin the Catenda tab will appear. Navisworks might 
 
 Start a new or open a Navisworks project to get started.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/01-catenda-tab.png)
+![](images/01-catenda-tab.png)
 
 This is what the Catenda tab can look like when selected
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/02-catenda-tab.png)
+![](images/02-catenda-tab.png)
 
 ### 5.1 **Catenda**
 
@@ -802,27 +852,27 @@ The Catenda button in the Catenda Plugins menu of the Catenda tab will open the 
 
 The BCF Plugin button in the Catenda Plugins menu of the Catenda tab will open the Catenda Navisworks plugin with the settings menu activated. The settings menu of the Catenda Navisworks plugin can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/03-bcf-plugin.png)
+![](images/03-bcf-plugin.png)
 
 **Docking the plugin** Drag the title bar of the window to any of the sides of the application to dock it.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/04-bcf-plugin.png)
+![](images/04-bcf-plugin.png)
 
 This is what the application can look like when docked on the right.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/05-bcf-plugin.png)
+![](images/05-bcf-plugin.png)
 
 ## 6. **Settings**
 
 This is what the settings menu can look like after clicking on Login towards the top left.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/06-settings.png)
+![](images/06-settings.png)
 
 On the left side the signin page of Catenda is displayed. Follow the stepd described in the [sign in article](https://support.catenda.com/en/articles/7891486-sign-in-page) to sign in.
 
 This is what the setting menu can look like after succesfully having logged in.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/07-settings.png)
+![](images/07-settings.png)
 
 If the login session has timed out the refresh button can be used to refresh the login session.
 
@@ -836,7 +886,7 @@ If the login session has timed out the refresh button can be used to refresh the
 
 **Property mapping** The Catenda Navisworks plugin attaches objects to viewpoints in topics based on the GUID of the IfcProject in the IFC. In Navisworks this GUID can be found in the properties of the object. Here is an example with an object selected:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/08-ifcguid.png)
+![](images/08-ifcguid.png)
 
 Depending on the content of your IFC, the IfcProject GUID might be found in one or more other properties or categories. Especially if Navisworks has been launched with a language setting other than English name of the Element category will the word for Element in that language while the default word is still English in the Catenda Navisworks plugin. To resolve this, change the Category to to the word for Element in the language Navisworks is launched in.
 
@@ -856,11 +906,11 @@ Below Snapshots are displayed below
 
 In the Topic Boards menu an overview topics in the topic boards of different projects can be seen. Thisis what the Topic Boards menu can look like.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/09-topic-boards.png)
+![](images/09-topic-boards.png)
 
 Click on the projects tab to load the list of topic boards in that project in the topic boards tab.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/10-topic-boards.png)
+![](images/10-topic-boards.png)
 
 ### 7.1 **New topic**
 
@@ -870,7 +920,7 @@ Click on the New Topic button to create a new topic.
 
 In the topic menu selected topics can be edited and new topics can be submitted. This is what the topic menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/11-topic.png)
+![](images/11-topic.png)
 
 ### 8.1 **Navigation arrows**
 
@@ -904,7 +954,7 @@ Click the clear clipping planes button to clear the clipping planes in the viewe
 
 In the clashes menu topics can be submitted as a result of clash detective findings. This is what the clashes menu can look like.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/12-clashes.png)
+![](images/12-clashes.png)
 
 ### 9.1 **Running a clash detective test**
 
@@ -914,23 +964,23 @@ To get started with the clashes menu find the Clash detective in the ribbon:
 
 **Test overview** Add a new test. This is what your test overview can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/13-running-a-clash-detective-test.png)
+![](images/13-running-a-clash-detective-test.png)
 
 **Rules** Select rules or create new ones.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/14-running-a-clash-detective-test.png)
+![](images/14-running-a-clash-detective-test.png)
 
 **Select** Select models that you want to check against each other for clashes and run the test.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/15-running-a-clash-detective-test.png)
+![](images/15-running-a-clash-detective-test.png)
 
 **Results** Go through the result and name your clashes.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/16-running-a-clash-detective-test.png)
+![](images/16-running-a-clash-detective-test.png)
 
 **Context menu** Right click on a clash row to open the following context menu:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/17-running-a-clash-detective-test.png)
+![](images/17-running-a-clash-detective-test.png)
 
 Group Group together clahses of similar type.
 
@@ -952,7 +1002,7 @@ Items Here you see the objects that are related to the selected clash.
 
 **Report** this is what the report menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/18-running-a-clash-detective-test.png)
+![](images/18-running-a-clash-detective-test.png)
 
 Contents Select the contents of your report
 
@@ -966,7 +1016,7 @@ Report format Use the as viewpoints option and check the Preserve result highlig
 
 After a clash test has ran the viewpoints appear in the clashes tab.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/19-clashes-in-catenda-plugin.png)
+![](images/19-clashes-in-catenda-plugin.png)
 
 ### 9.3 **Add topic**
 
@@ -1006,7 +1056,7 @@ Change the status of the clashes that are selected in the Catenda Navisworks plu
 
 Download, open and append model revisions from the Catenda project selected in the Topic Boards menu to the Navisworks project. This is what the models menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/20-models.png)
+![](images/20-models.png)
 
 ### 10.1 **Search**
 
@@ -1032,7 +1082,7 @@ Append the selected model(s) to the current Navisworks project. To be able to ap
 
 Open the Catenda Document library window. This is what the Document library window can look like.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/21-catenda-document-library.png)
+![](images/21-catenda-document-library.png)
 
 **Navigation arrow** Move up a level in the folder structure.
 
@@ -1084,7 +1134,7 @@ In order to be able to use the BCF viewpoints from your Catenda project in the C
 
 > Connect Catenda to your favorite tool
 
-The following applications allow you to log in with Catenda from within the tool. After connecting you will find these applications listed on your [applications page](https://hub.catenda.com/account/apps).​
+The following applications allow you to log in with Catenda from within the tool. After connecting you will find these applications listed on your [applications page](https://hub.catenda.com/account/apps).
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80; width: 203px;"><h1 id="h_b26bc0d247">Catenda</h1></td><td style="background-color: #e3e7fa80; width: 107px;"><h3 id="h_b4c564ea3f"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px;"><h3 id="h_6f3aaeddbf"><b>Link type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px;"><h3 id="h_d2798abab2"><b>Filetype</b></h3></td><td style="background-color: #e3e7fa80;"><h3 id="h_4878236011"><b>Article</b></h3></td></tr><tr><td style="width: 203px;"><h3 id="h_ab0da079df"><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/10741601-add-to-home-screen">Add to home screen</a></i></h3><p>Computer, Android, iPhone &amp; iPad</p></td><td style="width: 107px;"><p>Same as browser experience </p></td><td style="width: 131px;"><p>Catenda help article</p></td><td style="width: 108px;"><p>Webpage</p></td><td><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/10741601-add-to-home-screen">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px;"><h3 id="h_3ec891a7da"><i><a class="intercom-content-link" href="https://apps.apple.com/us/app/catenda-site/id1449579790">Catenda Site</a></i></h3><p>Android</p></td><td style="background-color: #e8e8e880; width: 107px;"><p><i>v3.5.1</i></p></td><td style="background-color: #e8e8e880; width: 131px;"><p>Apple App Store</p></td><td style="background-color: #e8e8e880; width: 108px;"><p>Webpage</p></td><td style="background-color: #e8e8e880;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site">Article</a></i></p></td></tr><tr><td style="width: 203px;"><h3 id="h_81aa6fa006"><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile">Catenda Site</a></i></h3><p>iPhone &amp; iPad</p></td><td style="width: 107px;"><p><i>v3.5.1</i></p></td><td style="width: 131px;"><p>Google Play Store</p></td><td style="width: 108px;"><p>Webpage</p></td><td><p><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site">Article</a></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px;"><h3 id="h_a8d741acc5">​<i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/utS0DhQGTpDhRDKGZ996qmoflx3pvQV5SVfU0xGv2Mfv">Desktop Connector</a></i></h3><p>Windows</p></td><td style="background-color: #e8e8e880; width: 107px;"><p><i>v1.0.8.0</i></p></td><td style="background-color: #e8e8e880; width: 131px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px;"><p>.msix</p></td><td style="background-color: #e8e8e880;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/8358861-catenda-desktop-connector">Article</a></i></p></td></tr><tr><td style="width: 203px;"><h3 id="h_3cd7437986"><i>Desktop Connector</i></h3><p>For golden images</p></td><td style="width: 107px;"><p><i>v1.0.8.0 (Beta)</i></p></td><td style="width: 131px;"><p>Available per request</p></td><td style="width: 108px;"><p>.msi/.exe</p></td><td><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/8358861-catenda-desktop-connector">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px;"><h1 id="h_e793164bce">Autodesk</h1></td><td style="background-color: #e3e7fa80; width: 107px;"><h3 id="h_31004c63d8"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px;"><h3 id="h_5ce0f8be3f"><b>Link type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px;"><h3 id="h_169dc77881"><b>Filetype</b></h3></td><td style="background-color: #e3e7fa80;"><h3 id="h_8106539230"><b>Article</b></h3></td></tr><tr><td style="width: 203px;"><h3 id="h_70b0582208"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/rUVzns3zKHLyShlcMXXGc3xkYslHfJKoShbnWYxhm6cD">Revit Plugin</a></i></h3><p>From: Revit 2022 <br/>To: Revit 2026</p></td><td style="width: 107px;"><p>v1.0.15</p></td><td style="width: 131px;"><p>Catenda Collection</p></td><td style="width: 108px;"><p>.msi</p></td><td><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/4670334-catenda-revit-plugin">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px;"><h3 id="h_a9dd339be4"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/f06xbqqrr0gND3amtMMNDetaSxScQ0W8s0DkEDd8Anih">Navisworks Plugin</a></i></h3><p>All Navisworks versions</p></td><td style="background-color: #e8e8e880; width: 107px;"><p>v1.6.0</p></td><td style="background-color: #e8e8e880; width: 131px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px;"><p>.exe</p></td><td style="background-color: #e8e8e880;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/5085987-catenda-hub-navisworks-plugin">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px;"><h1 id="h_779ed65172">Nemetschek</h1></td><td style="background-color: #e3e7fa80; width: 107px;"><h3 id="h_b7e4b38efd"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px;"><h3 id="h_c79c8e29ad"><b>Link type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px;"><h3 id="h_357b652053"><b>Filetype</b></h3></td><td style="background-color: #e3e7fa80;"><h3 id="h_07b38dbb2b"><b>Article</b></h3></td></tr><tr><td style="width: 203px;"><h3 id="h_f229803e80"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7JItYFSfZavXxFnUEnhlFlR5fQ19VzOQE0CADd52HvkE">Archicad Plugin</a></i></h3><p>Windows version, <br/>From: Archicad 23<br/>To: Archicad 29</p></td><td style="width: 107px;"><p><i>1.0.1.17</i></p></td><td style="width: 131px;"><p>Catenda Collection</p></td><td style="width: 108px;"><p>.exe</p></td><td><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px;"><h3 id="h_b99682ebca"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SDSxROsDGfAwTSJ0PVsSqZT8NuipjJbcOwfhPhPli4Ny">Archicad Plugin</a></i></h3><p>MacOS version, <br/>From: Archicad 23 <br/>To: Archicad 29 </p></td><td style="background-color: #e8e8e880; width: 107px;"><p><i>1.0.1.17</i></p></td><td style="background-color: #e8e8e880; width: 131px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px;"><p>.pkg</p></td><td style="background-color: #e8e8e880;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin">Article</a></i></p></td></tr><tr><td style="width: 203px;"><h3 id="h_d780c5e605"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/en/articles/6988148-solibri-models-and-documents-integration">Solibri integration</a></i></h3><p>OpenCDE Documents</p></td><td style="width: 107px;"><p></p></td><td style="width: 131px;"><p>Catenda help article</p></td><td style="width: 108px;"><p>Webpage</p></td><td><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6988148-solibri-models-and-documents-integration">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px;"><h3 id="h_daa662000f"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/en/articles/4670340-solibri-issues-integration">Solibri integration</a></i></h3><p>BCF Live Connector</p></td><td style="background-color: #e8e8e880; width: 107px;"><p></p></td><td style="background-color: #e8e8e880; width: 131px;"><p>Catenda help article</p></td><td style="background-color: #e8e8e880; width: 108px;"><p>Webpage</p></td><td style="background-color: #e8e8e880;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/4670340-solibri-issues-integration">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px;"><h1 id="h_f992bd97b3">Trimble</h1></td><td style="background-color: #e3e7fa80; width: 107px;"><h3 id="h_3891575c63"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px;"><h3 id="h_b89832736c"><b>Link type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px;"><h3 id="h_b78b005f74"><b>Filetype</b></h3></td><td style="background-color: #e3e7fa80;"><h3 id="h_fa34a2fbef"><b>Article</b></h3></td></tr><tr><td style="width: 203px;"><h2 id="h_b94a406051"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/nwugQqVTOQoPVpH8JwIPyCulWUn7vqOcajZZBbno9g3g">Tekla Plugin</a></i></h2><p>Tekla 2026</p></td><td style="width: 107px;"><p>v1.5.0</p></td><td style="width: 131px;"><p>Catenda Collection</p></td><td style="width: 108px;"><p>.exe</p></td><td><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Article</a></i></p></td></tr><tr><td style="width: 203px;"><h2 id="h_b33a50e5b5"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Og5LKde1lxhOH99ClCFDJmf7hjEdb0Xbd7llaAUBzDm6">Tekla Plugin</a></i></h2><p>Tekla 2025</p></td><td style="width: 107px;"><p>v1.4.0</p></td><td style="width: 131px;"><p>Catenda Collection</p></td><td style="width: 108px;"><p>.exe</p></td><td><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Article</a></i></p></td></tr><tr><td style="width: 203px;"><h2 id="h_fc9d6fa9b1"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Ej8wr3KjQLJqc0SwzGkYSsJEIv7vIGRmzsgTNuAVVC6s">Tekla Plugin</a></i></h2><p>Tekla 2024</p></td><td style="width: 107px;"><p>v1.4.0</p></td><td style="width: 131px;"><p>Catenda Collection</p></td><td style="width: 108px;"><p>.exe</p></td><td><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Article</a></i></p></td></tr><tr><td style="width: 203px;"><h3 id="h_0e1f7db784"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SOynwGkPMjXsTvgWtMBPhxDGamcrkYySRqRBJgU8mVJc">Tekla Plugin</a></i></h3><p>Tekla 2023</p></td><td style="width: 107px;"><p><i>v1.4.0</i></p></td><td style="width: 131px;"><p>Catenda Collection</p></td><td style="width: 108px;"><p>.exe</p></td><td><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px;"><h3 id="h_8d634ac8fb"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd">Tekla Plugin</a></i></h3><p>Tekla 2022</p></td><td style="background-color: #e8e8e880; width: 107px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px;"><p>.exe</p></td><td style="background-color: #e8e8e880;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Article</a></i></p></td></tr><tr><td style="width: 203px;"><h3 id="h_b4832576e8"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL">Tekla Plugin</a></i></h3><p>Tekla 2021</p></td><td style="width: 107px;"><p><i>v1.1.2</i></p></td><td style="width: 131px;"><p>Catenda Collection</p></td><td style="width: 108px;"><p>.exe</p></td><td><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px;"><h3 id="h_192e680211"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy">Tekla Plugin</a></i></h3><p>Tekla 2020</p></td><td style="background-color: #e8e8e880; width: 107px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px;"><p>Catenda Collection</p></td><td style="background-color: #e8e8e880; width: 108px;"><p>.exe</p></td><td style="background-color: #e8e8e880;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px;"><h1 id="h_27fdc5fda6"><b>Microsoft</b></h1></td><td style="background-color: #e3e7fa80; width: 107px;"><h3 id="h_587fa9f51a"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px;"><h3 id="h_b320dc47be"><b>Link type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px;"><h3 id="h_990fcd4d5d"><b>Filetype</b></h3></td><td style="background-color: #e3e7fa80;"><h3 id="h_7188141d98"><b>Article</b></h3></td></tr><tr><td style="width: 203px;"><h3 id="h_c711a5c74b"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/4io1Pw1ygOMqWjhPnLOboYtmSU783IsOglGAJrhct4vu">PowerBI Connector</a></i></h3></td><td style="width: 107px;"><p>v1.0.0</p></td><td style="width: 131px;"><p>Catenda Collection</p></td><td style="width: 108px;"><p>.exe</p></td><td><p><i> <a class="intercom-content-link" href="https://support.catenda.com/de/articles/5784721-integration-power-bi">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px;"><h3 id="h_fd338df316"><i><a class="intercom-content-link" href="https://appsource.microsoft.com/en-us/product/office/WA200005981">SharePoint App</a></i></h3></td><td style="background-color: #e8e8e880; width: 107px;"><p>v1.1.0.0</p></td><td style="background-color: #e8e8e880; width: 131px;"><p>Microsoft Appsource</p></td><td style="background-color: #e8e8e880; width: 108px;"><p>Webpage<br/>.pkx</p></td><td style="background-color: #e8e8e880;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px;"><h1 id="h_0cd8f009f8">SimpleBIM</h1></td><td style="background-color: #e3e7fa80; width: 107px;"><h2 id="h_525aec57f8"><b>Version</b></h2></td><td style="background-color: #e3e7fa80; width: 131px;"><h2 id="h_a624e9a7f5"><b>Link type</b></h2></td><td style="background-color: #e3e7fa80; width: 108px;"><h2 id="h_88ed17edf2"><b>Filetype</b></h2></td><td style="background-color: #e3e7fa80;"><h2 id="h_7f78109e44"><b>Article</b></h2></td></tr><tr><td style="width: 203px;"><h3 id="h_fa79838047"><i><a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">SimpleBIM Add-on</a></i></h3></td><td style="width: 107px;"><p>v11.0</p></td><td style="width: 131px;"><p>SimpleBIM Support pages</p></td><td style="width: 108px;"><p>Webpage</p><p>-&gt; .exe</p></td><td><p><i> <a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px;"><h1 id="h_74b2d2ca9e"><b>VREX</b></h1></td><td style="background-color: #e3e7fa80; width: 107px;"><h3 id="h_2f4ff908c0"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px;"><h3 id="h_c57bb5ecf7"><b>Link type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px;"><h3 id="h_9401a3f00f"><b>Filetype</b></h3></td><td style="background-color: #e3e7fa80;"><h3 id="h_33112159d7"><b>Article</b></h3></td></tr><tr><td style="width: 203px;"><h3 id="h_8c731251bc"><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">VREX</a></h3></td><td style="width: 107px;"><p></p></td><td style="width: 131px;"><p>VREX Integrations</p></td><td style="width: 108px;"><p>Webpage</p></td><td><p><i><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px;"><h1 id="h_ae35fa7bb8"><b>12Build</b></h1></td><td style="background-color: #e3e7fa80; width: 107px;"><h3 id="h_0c7d2dcc29"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px;"><h3 id="h_35f44b2f33"><b>Link type</b></h3></td><td style="background-color: #e3e7fa80; width: 108px;"><h3 id="h_c7ea788c95"><b>Filetype</b></h3></td><td style="background-color: #e3e7fa80;"><h3 id="h_5c5c0bdbe3"><b>Article</b></h3></td></tr><tr><td style="width: 203px;"><h3 id="h_be5086c82b"><i><a class="intercom-content-link" href="https://12build.com/en/">12Build</a></i></h3></td><td style="width: 107px;"><p></p></td><td style="width: 131px;"><p>12Build <br/>Support pages</p></td><td style="width: 108px;"><p>Webpage</p></td><td><p><a class="intercom-content-link" href="https://support.12build.com/en/">Article</a></p></td></tr><tr><td style="background-color: #e3e7fa; width: 203px;"><h1 id="h_5d4548e65e"><b>Rebro</b></h1></td><td style="background-color: #e3e7fa; width: 107px;"><h2 id="h_c37aa3af9f"><b>Version</b></h2></td><td style="background-color: #e3e7fa; width: 131px;"><h2 id="h_3c677abfa0"><b>Link type</b></h2></td><td style="background-color: #e3e7fa; width: 108px;"><h2 id="h_305501cb46"><b>Filetype</b></h2></td><td style="background-color: #e3e7fa;"><h2 id="h_f4735ad593"><b>Article</b></h2></td></tr><tr><td style="width: 203px;"><h2 id="h_7f2b5a0709"><i><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Rebro</a></i></h2></td><td style="width: 107px;"><p></p></td><td style="width: 131px;"><p>NYK Systems <br/>Support pages</p></td><td style="width: 108px;"><p>Webpage</p></td><td><p><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Article</a><br/>​</p></td></tr></tbody></table></div>
 
@@ -1332,7 +1382,7 @@ If the IFCGUID parameter is present, selected elements in Revit will be added to
 
 The filter menu in an topic board can be opened by clicking on the filter button to the left of the search bar in a [topic board](https://support.catenda.com/en/articles/4670271-issues-page).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **Filters**
 
@@ -1416,7 +1466,7 @@ Linked to selected objects - `link=backlink` If it is not already open, the 3D p
 
 In addition to the filter menu on the left there is some functionality that is only available through the search or filter bar. This is what the search or filter bar can look like when it is highlighted:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/02-filtering-in-the-search-or-filter-bar.png)
+![](images/02-filtering-in-the-search-or-filter-bar.png)
 
 Below the search or filter bar a menu with suggested filters opens up. The first filter in the filter menu is suggested after highlighting the search or filter menu. Press enter to apply this filter or use the arrow keys to navigate between the different filters.
 
@@ -1424,7 +1474,7 @@ Below the search or filter bar a menu with suggested filters opens up. The first
 
 If you have any saved filters in a topic board those will be the first available filter in the filter menu and will be suggested as soon as the search or filter box is higlighted:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/03-saved-filters.png)
+![](images/03-saved-filters.png)
 
 Click on the filter to open filter the board on the saved set of filters that have been given a name. Click [here](https://support.catenda.com/en/articles/8551755-saving-filters) to read more about how to save a set of filters.
 
@@ -1432,7 +1482,7 @@ Click on the filter to open filter the board on the saved set of filters that ha
 
 _Text search -_ `search=\<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/04-text-search.png)
+![](images/04-text-search.png)
 
 **Content that can be searched on** Topic title Topic description Topic comments
 
@@ -1454,7 +1504,7 @@ Mentioned member Search on the email of a member to find all plain text occurren
 
 Mentioned team Mentioned teams can be searched on by searching the GUID of that team. To find the GUID of a team, go to the [content page of that team](https://support.catenda.com/en/articles/7891755-team-page) by clicking on its name on the [teams tab of the members and teams page](https://support.catenda.com/en/articles/4670291-members-and-teams-page). The URL should look something like: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
+![](images/05-text-search.png)
 
 Search on the team GUID to find all plain text occurrences of that team GUID. This includes where they have been mentioned. Search on `#[\<team GUID>]` to find only the occurrences where that team is mentioned.
 
@@ -1468,13 +1518,13 @@ _Text custom field -_ `custom-field-\<Custom field GUID>=\<Search phrase>` If a 
 
 If a search pharse starts with a unicode character with a unicode value that is between 33 and 57 the following filters will appear towards the bottom of the list of suggested filters.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/06-number-search-phrase.png)
+![](images/06-number-search-phrase.png)
 
 This includes the following characters: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`\*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
 
 _Topic -_ `issues=\<issue number>` When a search phrase starts with a number the topic number search appears as a suggestion in the search or filter bar. The suggested filter can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/07-number-search-phrase.png)
+![](images/07-number-search-phrase.png)
 
 While it is possible to filter a board for topic numbers with more than just numbers topics can only be found with their number with this filter. If more than just numbers are provided the filter will disappear from the menu but the board will still be filtered on the entered phrase.
 
@@ -1504,7 +1554,7 @@ Before exporting an IFC from your project make sure the project info is configur
 
 This is what the project info can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/01-project-info.png)
+![](images/01-project-info.png)
 
 By default the different fields will be empty. Even though they are empty a unique id is created for each project, site and building that is listed. In some situations multiple IFC files are exported from the same Archicad project. Examples of this are:
 
@@ -1522,32 +1572,29 @@ Whether there are plans to export multiple IFC files or not it is often a good i
 
 To export the entire project. You must stand in 3D view. Make sure you use the correct translator.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/02-ifc-export-settings.png)
+![](images/02-ifc-export-settings.png)
 
 Click the options button to see a summary of your IFC export settings. Under model filter you can also choose to filter out more.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/03-ifc-export-settings.png)
+![](images/03-ifc-export-settings.png)
 
 The IFC translators box allows you to view or modify Translator settings, or to create new Translators.
 
-If you want to modify your IFC export there is recommended that you duplicate one of the premade translators so you don’t mess up one of the default translators. Duplicate a translator here: Click new > Duplicate of > select the translator you want to duplicate.
+If you want to modify your IFC export there is recommended that you duplicate one of the premade translators so you don’t mess up one of the default translators. Duplicate a translator here:
+
+Click new > Duplicate of > select the translator you want to duplicate.
 
 If you want to merge the IFC you can do that under the same banner.
 
-![image-2.png](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/04-ifc-export-settings.png)
+![image-2.png](images/04-ifc-export-settings.png)
 
 ---
 
 ### 2.1 Different settings in the export
 
-1. [Model filter](#h_138e653078) lets you filter out what you want to export by different pre-sets.
-2. [Type mapping](#h_a34c1332a3) lets you choose what kind of IFC type each element is exported as.
-3. [Geometry conversion](#h_db084b5d6b) lets you choose what kind of geometry you want to export.
-4. [Property mapping](#h_d48644eb35) lets you set up criteria based on types.
-5. [Data conversion](#h_7f1df4ecb9) lets you choose what kind of data you want to export from the model.
-6. [Unit conversion](#h_36caead1cd) lets you choose what measuring units you want to export in your IFC.
+1\. [Model filter](#h_138e653078) lets you filter out what you want to export by different pre-sets. 2\. [Type mapping](#h_a34c1332a3) lets you choose what kind of IFC type each element is exported as. 3\. [Geometry conversion](#h_db084b5d6b) lets you choose what kind of geometry you want to export. 4\. [Property mapping](#h_d48644eb35) lets you set up criteria based on types. 5\. [Data conversion](#h_7f1df4ecb9) lets you choose what kind of data you want to export from the model. 6\. [Unit conversion](#h_36caead1cd) lets you choose what measuring units you want to export in your IFC.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-different-settings-in-the-export.png)
+![](images/05-different-settings-in-the-export.png)
 
 ---
 
@@ -1559,7 +1606,7 @@ Sometimes you want the grids exported as well to be able to see them in Catenda 
 
 Go to the model filter for IFC Export and make sure the checkbox “Grid system and Elements” are checked.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/06-exporting-grids-in-the-ifc.png)
+![](images/06-exporting-grids-in-the-ifc.png)
 
 ---
 
@@ -1569,7 +1616,7 @@ When an IFC is exported all the elements in the model gets assigned an IFC type.
 
 If you select the IFC translator you want to use you can then go to type mapping and click on the Map IFC Types for import to manage what kind of type mapping you want on your exported IFC.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/07-2-type-mapping.png)
+![](images/07-2-type-mapping.png)
 
 Type mapping mainly have to different options to sort your IFC types by.
 
@@ -1581,7 +1628,7 @@ Each element is automatically assigned a basic IFC type. You can se each element
 
 This method allows more flexible and detailed IFC type mapping, according to specify classification standards. Zone and opening elements are set to a fixed IFC type. IFCSpace and IFCOpeningElements.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/08-classification.png)
+![](images/08-classification.png)
 
 ---
 
@@ -1589,7 +1636,7 @@ This method allows more flexible and detailed IFC type mapping, according to spe
 
 Geometry Conversion for IFC Export will let you convert your geometry in different ways.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/09-3-geometry-conversion.png)
+![](images/09-3-geometry-conversion.png)
 
 ### 5.1 Conversions of Archicad elements
 
@@ -1611,11 +1658,13 @@ BREP Export geometry as separate BREP surfaces. Instead of describing the object
 
 It can be good to configure all settings for a surface as they will be written into the IFC.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/10-conversions-of-archicad-elements.png)
+![](images/10-conversions-of-archicad-elements.png)
 
 Surfaces in the Catenda 3D viewer have flat shading without a light source present. This means that values like Ambient, Attenuation, Shinyness, Emission and Specular are not interpreted when the surface is viewed in the Catenda 3D viewer. The following values are interpreted by Catenda when displaying the surface in the 3D viewer:
 
-Surface color The color of the surface Transmittance How much you can see through the object (Overrides the translucent opacity setting)
+Surface color The color of the surface
+
+Transmittance How much you can see through the object (Overrides the translucent opacity setting)
 
 Diffuse How dark or bright the surface color is
 
@@ -1639,7 +1688,7 @@ With this option all objects are exported as separate objects for each material
 
 If you have a composite wall material this means that a separate object will be exported for each material. You often have a vapor barrier that is 1-5mm which will result in a very thin object. When objects are that thin geometry can be inaccurate. Problematic wall materials can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/11-ifc-schema-related-options.png)
+![](images/11-ifc-schema-related-options.png)
 
 This can make it hard for software to cut holes through the surface as the inaccuracy makes it hard to pin down exactly where the hole is supposed to be. If you therefore notice that your openings are not being cut through it can help to turn this option on. Turning this option on will export the wall as one single object instead of many thin composite objects.
 
@@ -1653,11 +1702,11 @@ This can make it hard for software to cut holes through the surface as the inacc
 
 Inside property mapping (File > IFC > Interoperability > Property Mapping) you can choose what kind of version of IFC you want to export. you have the standard IFC2x3 and the standard IFC4. You can also add psets to export with your IFC. If you do this you should make a duplicate of the IFC schema you choose.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/12-4-property-mapping.png)
+![](images/12-4-property-mapping.png)
 
 After you’ve made a duplicate of your standard IFC you can add the properties you want to that new preset by selecting the IFC schema and clicking on _Map IFC Properties for Export_.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/13-4-property-mapping.png)
+![](images/13-4-property-mapping.png)
 
 ---
 
@@ -1667,7 +1716,7 @@ Under data conversion you select what kind of data in addition to geometry you w
 
 Element parameters reads the Archicad element parameter and converts it to IFC quantities or IFC properties. Depending on their type. By choosing this option you significantly increase the file size.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/14-5-data-conversion.png)
+![](images/14-5-data-conversion.png)
 
 IFC Base Quantities reads the parameters of size, area and volume. If you don’t check this box off you may have trouble importing your IFC to Catenda Hub.
 
@@ -1679,17 +1728,17 @@ Set the Length, Angle, Area, Volume, Currency and Time units for your export.
 
 On the models page all IFC documents that are linked to a model can be seen. Typically a model for each discipline can be found here. This is what the models page can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/01-intro.png)
+![](images/01-intro.png)
 
 The models page as the second page in the left navigation menu of a project. This page is part of the [content panel](https://support.catenda.com/en/articles/13141464-project-panels#h_74710f7a33).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/02-intro.png)
+![](images/02-intro.png)
 
 ## 1. **New item actions**
 
 The new item actions can be found on the top right of the page.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/03-new-item-actions.png)
+![](images/03-new-item-actions.png)
 
 See [here](https://support.catenda.com/en/articles/9431936-actions-on-the-models-page) for what the different actions do.
 
@@ -1697,13 +1746,13 @@ See [here](https://support.catenda.com/en/articles/9431936-actions-on-the-models
 
 See [here](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page) to find out how best to search or filter on the models page:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/04-search-or-filter-options.png)
+![](images/04-search-or-filter-options.png)
 
 ## 3. **Right menu**
 
 If any model rows are selected in the models table, an info button will appear to the right of the search or filter bar. The info button can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/05-right-menu.png)
+![](images/05-right-menu.png)
 
 In the right menu you will be able to see information about:
 
@@ -1720,7 +1769,7 @@ Click [here](https://support.catenda.com/en/articles/9673735-right-menu-on-the-m
 
 The models table can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/06-models-table.png)
+![](images/06-models-table.png)
 
 As soon as a model is created it will show up as a row in the models table. Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read more about how to work with tables in Catenda.
 
@@ -1728,7 +1777,7 @@ As soon as a model is created it will show up as a row in the models table. Clic
 
 After selecting a model row selected item actions appear towards the top of the models table. This is what the selected item actions menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/07-selected-item-actions.png)
+![](images/07-selected-item-actions.png)
 
 Click [here](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed) to see what the different selected item actions do.
 
@@ -1768,7 +1817,7 @@ Depending on if a single panel is opened or if multiple panels are opened differ
 
 The default order and visibility setting of the columns on the models page is as follows:
 
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80;"><h3 id="h_ec767816e6"><b>Models table columns</b></h3></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Checkbox</i> - Default</p></td></tr><tr><td><p>Selecting models</p></td></tr><tr><td><p>Click on this column to add a model to your selection.</p><p>Click <a class="intercom-content-link" href="https://support.catenda.com/en/articles/11748020-tables-on-catenda">here</a> to learn more about how to select rows in a table.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Viewer - </i>Default</p></td></tr><tr><td><p>Loading buttons</p></td></tr><tr><td><p>If this is a new model and there are no public revisions yet this column will be empty.<br/>After importing a model it will start processing. You will see a gray exclamation mark.<br/>​ </p><p class="intercom-align-center"><img alt="Processing" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-3e6946f641f0.png" width="229.375"/> / <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-674792760c64.png" width="40"/></p><p><br/>If the latest model revision has failed processing you will see a red exclamation mark.</p><p></p><p class="intercom-align-center"><img alt="Failed" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-c21b804d9253.png" width="148.57142857142858"/> / <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-9c4222a08d15.png" width="39.583333333333336"/></p><p></p><p>Hover over the explanation mark to see which model has failed. Clicking on 3D will load the latest valid revision instead of the latest revision.<br/>If there are any public revisions you will see a 2D, 3D and zoom to extents button here to be used together with the <a class="intercom-content-link" href="https://support.catenda.com/en/articles/4854537-2d-viewer">2D viewer</a> and <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8227211-3d-viewer">3D viewer</a>.</p><p></p><div class="intercom-container intercom-align-center"><img alt="2D 3D" src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-fe323db3ad4e.png" width="131"/></div><p></p><p><i>Access required:</i> Read access to the document model</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note1:</b> The zoom to extents button will be gray until you load the model in 3D.</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note2:</b> If there is an explanation mark on the 3D button and the 2D and 3D buttons are grayed out, hover over the explanation mark to see what is wrong.</p><p>You will still be able to open previous revision by clicking on the model name.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Short name</i> - Default</p></td></tr><tr><td><p>The name of the model</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note1:</b> The model name of the model can be different from the name of the document that is linked to the model or name of the revision.</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note2:</b> If you do not have access to the document that the model is linked to, you will not see its row in the models table. You will still be able to see its model name in the revision selector.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Document name</i></p></td></tr><tr><td><p>The name of the document-model linked to the model-document.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Revision </i>- Default</p></td></tr><tr><td><p>The amount of public revisions in the document-model</p></td></tr><tr><td><p>If a model has been added from the models page it will not have any revisions yet.<br/>Instead of a revision number you will see the following icon which you can click to upload the first revision.</p><p></p><div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/inline-b5a2ae50489d.png" width="47"/></div><p></p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Revision comment</i></p></td></tr><tr><td><p>The comment the revision was uploaded with (legacy only)</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Revision name</i></p></td></tr><tr><td><p>The name of the latest public document-model revision. Cannot be changed after upload.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Status</i> - Default</p></td></tr><tr><td><p>The status of the latest public document-model revision. Public statuses can be turned on in <a class="intercom-content-link" href="https://support.catenda.com/en/articles/7831371-document-settings">document settings</a>.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Size</i> - Default</p></td></tr><tr><td><p>The file size of the last public document-model revision</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Labels</i> - Default</p></td></tr><tr><td><p>The labels connected to the model-document.</p></td></tr><tr><td><p>A label can be applied after uploading the first revision.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Document created</i></p></td></tr><tr><td><p>The person that created the document-model and the date and time it was created.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Published</i> - Default</p></td></tr><tr><td><p>The person that published the last published revision in the document-model and the date and time it was published.</p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80;"><h3 id="h_ec767816e6"><b>Models table columns</b></h3></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Checkbox</i> - Default</p></td></tr><tr><td><p>Selecting models</p></td></tr><tr><td><p>Click on this column to add a model to your selection.</p><p>Click <a class="intercom-content-link" href="https://support.catenda.com/en/articles/11748020-tables-on-catenda">here</a> to learn more about how to select rows in a table.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Viewer - </i>Default</p></td></tr><tr><td><p>Loading buttons</p></td></tr><tr><td><p>If this is a new model and there are no public revisions yet this column will be empty.<br/>After importing a model it will start processing. You will see a gray exclamation mark.<br/>​ </p><p class="intercom-align-center"><img alt="Processing" src="images/inline-3e6946f641f0.png" width="229.375"/> / <img alt="" src="images/inline-674792760c64.png" width="40"/></p><p><br/>If the latest model revision has failed processing you will see a red exclamation mark.</p><p></p><p class="intercom-align-center"><img alt="Failed" src="images/inline-c21b804d9253.png" width="148.57142857142858"/> / <img alt="" src="images/inline-9c4222a08d15.png" width="39.583333333333336"/></p><p></p><p>Hover over the explanation mark to see which model has failed. Clicking on 3D will load the latest valid revision instead of the latest revision.<br/>If there are any public revisions you will see a 2D, 3D and zoom to extents button here to be used together with the <a class="intercom-content-link" href="https://support.catenda.com/en/articles/4854537-2d-viewer">2D viewer</a> and <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8227211-3d-viewer">3D viewer</a>.</p><p></p><div class="intercom-container intercom-align-center"><img alt="2D 3D" src="images/inline-fe323db3ad4e.png" width="131"/></div><p></p><p><i>Access required:</i> Read access to the document model</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note1:</b> The zoom to extents button will be gray until you load the model in 3D.</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note2:</b> If there is an explanation mark on the 3D button and the 2D and 3D buttons are grayed out, hover over the explanation mark to see what is wrong.</p><p>You will still be able to open previous revision by clicking on the model name.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Short name</i> - Default</p></td></tr><tr><td><p>The name of the model</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note1:</b> The model name of the model can be different from the name of the document that is linked to the model or name of the revision.</p></td></tr><tr><td style="background-color: #feedaf80;"><p><b>Note2:</b> If you do not have access to the document that the model is linked to, you will not see its row in the models table. You will still be able to see its model name in the revision selector.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Document name</i></p></td></tr><tr><td><p>The name of the document-model linked to the model-document.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Revision </i>- Default</p></td></tr><tr><td><p>The amount of public revisions in the document-model</p></td></tr><tr><td><p>If a model has been added from the models page it will not have any revisions yet.<br/>Instead of a revision number you will see the following icon which you can click to upload the first revision.</p><p></p><div class="intercom-container intercom-align-center"><img src="images/inline-b5a2ae50489d.png" width="47"/></div><p></p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Revision comment</i></p></td></tr><tr><td><p>The comment the revision was uploaded with (legacy only)</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Revision name</i></p></td></tr><tr><td><p>The name of the latest public document-model revision. Cannot be changed after upload.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Status</i> - Default</p></td></tr><tr><td><p>The status of the latest public document-model revision. Public statuses can be turned on in <a class="intercom-content-link" href="https://support.catenda.com/en/articles/7831371-document-settings">document settings</a>.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Size</i> - Default</p></td></tr><tr><td><p>The file size of the last public document-model revision</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Labels</i> - Default</p></td></tr><tr><td><p>The labels connected to the model-document.</p></td></tr><tr><td><p>A label can be applied after uploading the first revision.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Document created</i></p></td></tr><tr><td><p>The person that created the document-model and the date and time it was created.</p></td></tr><tr><td style="background-color: #e8e8e880;"><p><i>Published</i> - Default</p></td></tr><tr><td><p>The person that published the last published revision in the document-model and the date and time it was published.</p></td></tr></tbody></table></div>
 
 ## 5. **Sub pages**
 
@@ -1804,35 +1853,37 @@ The information has been used and can be archived in order to remain available i
 
 ### 1.5 **Document states - ISO 19650**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/01-document-states-iso-19650.png)
+![](images/01-document-states-iso-19650.png)
 
 ### 1.6 **Workflow on Catenda Hub**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/02-workflow-on-catenda-hub.png)
+![](images/02-workflow-on-catenda-hub.png)
 
 ## 2. **Configuring Status Workflow**
 
-Activating and configuring the shared status workflow are reserved for project administrators. _Access required_ Document status configuration access in the [access control area](https://support.catenda.com/en/articles/4670273-project-settings-page#h_3b98ced32a) of the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page). Members with this access will only have access to the status configuration menu in document settings. They will not be able to see or change the other menus in document settings.
+Activating and configuring the shared status workflow are reserved for project administrators.
+
+_Access required_ Document status configuration access in the [access control area](https://support.catenda.com/en/articles/4670273-project-settings-page#h_3b98ced32a) of the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page). Members with this access will only have access to the status configuration menu in document settings. They will not be able to see or change the other menus in document settings.
 
 Under [document settings](https://support.catenda.com/en/articles/7831371-document-settings) navigate to [Status Workflow](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) and enable shared statuses
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/03-configuring-status-workflow.png)
+![](images/03-configuring-status-workflow.png)
 
 Define the shared and published statuses to be used in the project.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/04-configuring-status-workflow.png)
+![](images/04-configuring-status-workflow.png)
 
 Set default shared status for new revisions. New revisions will initially be uploaded as shared revisions that can late be published. The default status therefore has to be a shared revision status. This status will be selected in the upload dialogue for every document upload and can be changed to a different shared status in the upload process.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/05-configuring-status-workflow.png)
+![](images/05-configuring-status-workflow.png)
 
 ## 3. **Familiar but different**
 
 After activating the status workflow you will see two tabs appear above the documents and models tables.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/06-familiar-but-different.png)
+![](images/06-familiar-but-different.png)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/07-familiar-but-different.png)
+![](images/07-familiar-but-different.png)
 
 ### 3.1 **Workspace**
 
@@ -1848,25 +1899,25 @@ A mirrored version of the workspace tab. The same folder structure as in the wor
 
 A revision status will be visible for each uploaded file in the upload dialogue.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/08-upload-new-shared-revisions.png)
+![](images/08-upload-new-shared-revisions.png)
 
-A revision status will be applied for each file extracted from a zipped file.​
+A revision status will be applied for each file extracted from a zipped file.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/09-upload-new-shared-revisions.png)
+![](images/09-upload-new-shared-revisions.png)
 
 ### 3.4 Publish shared revisions
 
 **Multiple documents in document structure** A publish action will be available in the existing element action menu of one or more selected documents with shared revisions.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/10-publish-shared-revisions.png)
+![](images/10-publish-shared-revisions.png)
 
 **Single revision in document preview or document structure** A publish action will be available as an icon and in the action menu of the revision info of a shared revision in the right information menu.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/11-publish-shared-revisions.png)
+![](images/11-publish-shared-revisions.png)
 
 **Multiple models** A publish action will be available in the revision info of a document with a shared revision in the right information menu in the document structure and in the document preview.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/12-publish-shared-revisions.png)
+![](images/12-publish-shared-revisions.png)
 
 _Access required:_ Shared revisions
 
@@ -1874,7 +1925,7 @@ _Access required:_ Shared revisions
 
 After the status workflow is enabled you will see two new columns appear to the right of the access column in the acces control dialogue of a folder or document.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/13-access-control.png)
+![](images/13-access-control.png)
 
 The table below explains how the checkmarks affect the users experience for each access level.
 
@@ -1887,7 +1938,7 @@ The table below explains how the checkmarks affect the users experience for each
 
 Shared revisions have a minor revision number (e.g. #0.1, #2.3, #4.1) Published revisions have a major revision number ( #1, #2, #3 and so on)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/14-major-and-minor-revision-numbers.png)
+![](images/14-major-and-minor-revision-numbers.png)
 
 ### 3.7 Opening the document preview
 
@@ -1899,13 +1950,13 @@ In the document structure you will see the latest revision you have access to. C
 
 > **Note:** Shared revisions can be visible in the revision overview of the document preview, even if you opened the document from the published tab. _Access required:_ Shared revisions
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/15-opening-the-document-preview.png)
+![](images/15-opening-the-document-preview.png)
 
 ### 3.8 **Revision information**
 
 Select a single document or open the document preview by clicking the document. Information about the current revision will be visible in the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/16-revision-information.png)
+![](images/16-revision-information.png)
 
 - Publish the current revision with the publish action.
 _Access required:_ Shared revisions
@@ -1918,7 +1969,7 @@ _Access required:_ Write access and published revisions
 
 **Revision information dialogue** Click on the revision box to see an overview of all the revisions in the document in the [revision information dialogue](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision#h_6838c6ad71). A green link between a published and a shared revision indicates which shared revision was published.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/17-revision-information.png)
+![](images/17-revision-information.png)
 
 ### 3.9 Shared and published revisions in Catenda Site
 
@@ -1928,17 +1979,17 @@ Only published revisions are visible in Catenda Site.
 
 1. Edit access to the document status configuration can be configured from the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page):
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-868820a898ba.png" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="images/inline-868820a898ba.png" width="500"/></div>
 
 1. Documents status can be then [configured](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) from the settings in the documents section:
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-931418a5fab1.png" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="images/inline-931418a5fab1.png" width="500"/></div>
 
 1. Finally, these document status can be assigned to file review status accessible from the top-right three dots button in the [Approvals section](https://support.catenda.com/en/articles/8349340-approvals-page). It is also possible to configure here a Topic template.
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-3cdbebefca38.png" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="images/inline-3cdbebefca38.png" width="500"/></div>
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-f8ab7f3194ff.png" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img src="images/inline-f8ab7f3194ff.png" width="300"/></div>
 
 ## 5. **Approval workflow**
 
@@ -1983,11 +2034,9 @@ If you want to turn status workflow flow off you can do so by clicking on the ra
 
 Pointcloud datasets (PC) can be visualiszed inside Catenda Hub Individual PC can be previewed inside the document area. Multiple PC can be loaded into the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer). In the 3D viewer, PC can be viewed together with other 3D documents formats like IFC models and GML files.
 
-This article contains information about the following topics:
-
 See below various settings to display your data:
 
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptive - Sparse - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-05a450dc777f.png" style="height: auto;" width="3839"/></div></td><td><p>Adaptive - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-196a1135014a.png" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Fixed - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-66e21551bbef.png" style="height: auto;" width="3834"/></div></td><td><p>Fixed - Sparse - Intensity</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-4a2046c8eaf1.png" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptive - Sparse - RGB</p><div class="intercom-container"><img height="2159" src="images/inline-05a450dc777f.png" style="height: auto;" width="3839"/></div></td><td><p>Adaptive - Dense - RGB</p><div class="intercom-container"><img height="2159" src="images/inline-196a1135014a.png" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Fixed - Dense - RGB</p><div class="intercom-container"><img height="2159" src="images/inline-66e21551bbef.png" style="height: auto;" width="3834"/></div></td><td><p>Fixed - Sparse - Intensity</p><div class="intercom-container"><img height="2159" src="images/inline-4a2046c8eaf1.png" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
 
 ## 1. **Document section preview**
 
@@ -2004,13 +2053,13 @@ It is recommended to use the [Catenda Desktop Connector](https://support.catenda
 
 After you upload a PC to the document section, the document preview will start processing. While the preview is processing you will see a gray bar towards the top of your document preview.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/01-uploading-pc-data.png)
+![](images/01-uploading-pc-data.png)
 
 The preview processing duration depends on the size of the PC. Processing takes 1 hour per GB but it might be more/less depending on the point cloud.
 
 Once the preview has finished processing, click on the document to view your PC in the document preview:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/02-uploading-pc-data.png)
+![](images/02-uploading-pc-data.png)
 
 ### 1.2 **Shared PC revisions**
 
@@ -2020,31 +2069,31 @@ If [revision publishing](https://support.catenda.com/en/articles/9874698-revisio
 
 After the preview of a published PC revision has processed a 3D button will appear in the viewer column of the the documents table.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/03-br-published-pc-revisions.png)
+![](images/03-br-published-pc-revisions.png)
 
 The 3D button will load the latest published revision of the document in the 3D viewer.
 
 If you have selected one or more documents with 3D documents like PC, IFC or GML documents you will also see the 3D documents action in the selected item action menu in the documents table. This way you can load the latest revisions of multiple 3D documents in the 3D viewer at once.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/04-br-published-pc-revisions.png)
+![](images/04-br-published-pc-revisions.png)
 
 In a document with at least one published PC revision that has finished processing you will be able to see the 3D action in the action menu towards the top right.
 
 > **Note:** The 3D action will load the latest published revision of the document in the 3D viewer. Even if you are looking at a previous revision.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/05-br-published-pc-revisions.png)
+![](images/05-br-published-pc-revisions.png)
 
 ## 2. **3D viewer preview**
 
 After clicking the 3D button the PC points will start loading into the 3D viewer. The 3D view of a PC can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/06-3d-viewer-preview.png)
+![](images/06-3d-viewer-preview.png)
 
 Towards the top of the 3D viewer a green loading bar can be seen. This loading bar indicates how many points have been loaded into the 3D viewer for the current camera position and angle. The loading bar might change if you rotate around as points might disappear from the view and get loaded out or more points come within range and start loading in.
 
 And after some adjustments with zoom and positioning the PC preview can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/07-3d-viewer-preview.png)
+![](images/07-3d-viewer-preview.png)
 
 ## 3. **3D viewer settings**
 
@@ -2058,37 +2107,37 @@ Settings that can be used to configure point clouds are located in two places.
 
 The point budget can be configured in the [3D viewer settings](https://support.catenda.com/en/articles/5784718-3d-viewer-settings) which can be found in the gear icon towards the top right of the 3D Viewer.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/08-1-point-budget.png)
+![](images/08-1-point-budget.png)
 
 The the 3D viewer settings menu, the point budget can be adjusted from 100,000 up to 10,000,000. Loading in more points can take more time and can demand more resourses from your system. By loading in more points the point cloud can be displayed in higher fidelity. See the same view with: 100,000 points
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/09-1-point-budget.png)
+![](images/09-1-point-budget.png)
 
 1,000,000 points
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/10-1-point-budget.png)
+![](images/10-1-point-budget.png)
 
 10,000,000 points
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/11-1-point-budget.png)
+![](images/11-1-point-budget.png)
 
 ### 3.2 **2. Revision Selector, and individual PC settings:**
 
 On the top left of the 3D viewer you will find the [Revision selector](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/12-2-revision-selector-and-individual-pc-settings.png)
+![](images/12-2-revision-selector-and-individual-pc-settings.png)
 
 In [the models menu](https://support.catenda.com/en/articles/4670279-revision-selector#h_180a64490d) you will be able to find the individual [3D documents](https://support.catenda.com/en/articles/4670279-revision-selector#h_fce60074ef) that you have loaded into the 3D viewer.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/13-2-revision-selector-and-individual-pc-settings.png)
+![](images/13-2-revision-selector-and-individual-pc-settings.png)
 
 Point clouds can be configured in the revision selector by clicking the gear icon.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/14-2-revision-selector-and-individual-pc-settings.png)
+![](images/14-2-revision-selector-and-individual-pc-settings.png)
 
 This is what the settings menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/15-2-revision-selector-and-individual-pc-settings.png)
+![](images/15-2-revision-selector-and-individual-pc-settings.png)
 
 _Attribute_ _RGBA_ - Default Display PC points with their colors
 
@@ -2112,7 +2161,7 @@ _Point size_ _Adaptive_ - Default The closer a point is to the camera, the large
 
 The same formatting rules apply for the different posts around Catenda Hub. Posts can include topic descriptions, comments approval descriptions and approval comments. Variations can apply with the different access to who can edit the post. Catenda uses markdown to format text. This means that certain characters before and after sentences will affect the styling of the text. This is what a topic header and descriptino can look like after they are submitted:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. Formatting availability
 
@@ -2126,13 +2175,13 @@ Formatting is available in the following fields:
 
 Edit the description or comment of an existing topic or when submitting a new topic to see the toolbox:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/02-topic-description-and-comment.png)
+![](images/02-topic-description-and-comment.png)
 
 ### 1.2 **Approval request description**
 
 While the toolbox does not apppear in the description of the new approval request dialogue formatting does get applied to this description.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/03-approval-request-description.png)
+![](images/03-approval-request-description.png)
 
 > **Note:** This field cannot be edited after submitting the approval request.
 
@@ -2140,13 +2189,13 @@ While the toolbox does not apppear in the description of the new approval reques
 
 While the toolbox appears in the new topic board description it is important to note that the description is not formatted when the board is submitted.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/04-topic-board-description.png)
+![](images/04-topic-board-description.png)
 
 ## 2. **Topic comment attachment**
 
 In topic comments the an attachment tool is visible. Click the + button in a topic to add an attachment.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/05-topic-comment-attachment.png)
+![](images/05-topic-comment-attachment.png)
 
 Click [here](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae) to read more about comment attachments.
 
@@ -2156,13 +2205,15 @@ The following methods allow you to style your text:
 
 ### 3.1 **Bold, italics, strikethrough**
 
-Bold italics and strikethrough styling can be done in any part of a line and works well together with other styling that has to be at the start of a line. <img alt="**This will be bold** __This will also be bold__ *This will be italics* _This will also be italics_ **This will be bold _combined with italics_** ~~This text will be struck through~~" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-b49c2f10b2de.png" width="290"/>   \<->   <img alt="This will be bold​This will also be bold​This will be italics​This will also be italics​This will be bold combined with italicsThis text will be struck through" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-ea38fb93f8ee.png" width="290"/>
+Bold italics and strikethrough styling can be done in any part of a line and works well together with other styling that has to be at the start of a line.
+
+<img alt="**This will be bold** __This will also be bold__ *This will be italics* _This will also be italics_ **This will be bold _combined with italics_** ~~This text will be struck through~~" src="images/inline-b49c2f10b2de.png" width="290"/>   \<->   <img alt="This will be bold​This will also be bold​This will be italics​This will also be italics​This will be bold combined with italicsThis text will be struck through" src="images/inline-ea38fb93f8ee.png" width="290"/>
 
 ### 3.2 **Headers**
 
 The header tool applies hastags/pound signs to the beginning of the line. There are 5 levels of headers that are supported: The formatting that the header receives is dependent on the amount of hashtags/pound signs (`#`) that are at the beginning of the line.
 
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-c21079ec7efb.png" width="290"/>   \<->   <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/inline-557784a5d702.png" width="290"/>
+<img alt="" src="images/inline-c21079ec7efb.png" width="290"/>   \<->   <img alt="" src="images/inline-557784a5d702.png" width="290"/>
 
 ### 3.3 **Links**
 
@@ -2200,7 +2251,7 @@ Images in descriptions can have a link attached to them. To embed images you can
 
 to get this image with the word text behind it.
 
-![text](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/06-images.png)
+![text](images/06-images.png)
 
 In order for the image to properly show up, Catenda has to have access the link that is provided.
 
@@ -2296,10 +2347,7 @@ Put a backslash (`\\`) before the period (`.`):
 
 Will all turn into:
 
-23. twenty-three
-24. twenty-four
-25. twenty-five
-26. twenty-six
+23\. twenty-three 24\. twenty-four 25\. twenty-five 26\. twenty-six
 
 ### 4.3 **Dividers**
 
@@ -2317,7 +2365,7 @@ These can be checked in the description of a topic. _Access required:_ Write acc
 
 Will turn into this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/07-checklists.png)
+![](images/07-checklists.png)
 
 Click [here](https://support.catenda.com/en/articles/5036461-check-lists-within-issues) to watch a quick video on how checklists can be used in the project. If you write` - [ ]` or `- [x]` the box will still appear unchecked and checked when the comment is submitted or saved after editing.
 
@@ -2339,11 +2387,11 @@ will result in this
 
 You can insert single lines of code like this: Two `\`` surrounding text will look like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/08-code-blocks.png)
+![](images/08-code-blocks.png)
 
 Three backticks `\`\`\`` above and below a bit of text will look like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/09-code-blocks.png)
+![](images/09-code-blocks.png)
 
 It is not possible to add tables in code blocks
 
@@ -2355,7 +2403,7 @@ If you would like to know more about how text is formatted in comments and descr
 
 Click the `@` tool or write `@` in a description or comment to mention a member. After typing `@` a dropdown list of members and teams is displayed.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/10-mentioned-members-and-teams.png)
+![](images/10-mentioned-members-and-teams.png)
 
 Search through the list by starting to type the email, member name or team name. Go up and down the list with the arrow keys and click or press enter to select a member or team. For a member or team to appear in this list the member or team has to at least have read access to the topic board. After selecting a member or team in the list the `@` will get some extra text that can look like:
 
@@ -2377,7 +2425,7 @@ In addition to the notification that they are mentioned, members that are mentio
 
 Mentions in posts can be identified by having green text color.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/11-mention-in-post.png)
+![](images/11-mention-in-post.png)
 
 In the background the unique id of the mentioned project participant is saved. It is the name of the participant that is displayed in this green text. Even if the member or team changes name, they will stay mentioned in the post but under their new name.
 
@@ -2385,7 +2433,7 @@ Mentioned members have a clickable link that directs to the [member page](https:
 
 **Non-existing member** If there is no member in the project that has the email address that is mentioned the post looks like this instead:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/12-mention-in-post.png)
+![](images/12-mention-in-post.png)
 
 This can either be because the email was formatted wrongly of because the member is no longer part of the project. Should a member with this email address become part of the project in the future, the post changes to displaye the name of that member.
 
@@ -2395,7 +2443,7 @@ This can either be because the email was formatted wrongly of because the member
 
 Click the `#` tool or write `#` in a description or comment to tag a topic. After typing `#` a dropdown list of topics from all topic boards is displayed.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/13-tagged-topics.png)
+![](images/13-tagged-topics.png)
 
 Search through the list by starting to type the title or topic number. Go up and down the list with the arrow keys and click or press enter to select a topic. For a topic to appear in this list the member that is tagging has to have access to the board that the topic is in. After selecting a topic in the list the `#` will get some extra text that can look like:
 
@@ -2405,11 +2453,11 @@ Search through the list by starting to type the title or topic number. Go up and
 
 When the description is saved or the comment is submitted a topic relation is created. The linked topic is then added to the list of [linked topics](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [the right menu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) of the topic.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/14-saving-or-submitting-a-tagged-topic.png)
+![](images/14-saving-or-submitting-a-tagged-topic.png)
 
 In addition to the topic where anohter topic was tagged, the tagged topic itself recevieves a link back to the topic where it was added to the list of [linked topics](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [the right menu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/15-saving-or-submitting-a-tagged-topic.png)
+![](images/15-saving-or-submitting-a-tagged-topic.png)
 
 The topic link can later be removed from either the topic with the tagged topic in the description or form the topic that was tagged by going to each topic and editing the list of [linked topics](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [the right menu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue).
 
@@ -2419,7 +2467,7 @@ Tagged topics can be identified by first having a circle with the color of the c
 
 Together with the checkboxes, tagged topics that are closed count towards the progress in the progress bar that is displayed towards the top while tagged topics that are open count towards the total items the progress is counted towards.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/16-tagged-topic-in-post.png)
+![](images/16-tagged-topic-in-post.png)
 
 Tagged topics have a clickable link that opens the tagged topic in its topic board.
 
@@ -2437,11 +2485,11 @@ These are the steps to assign the QR-code function to folders in your project;
 
 1. Under the document —> settings, go to **‘folder configuration’**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/01-setup-qr-code-on-catenda-hub.png)
+![](images/01-setup-qr-code-on-catenda-hub.png)
 
-2. Click on the plus next to your desired folder to open the folder configuration and under ‘assign QR Code’ say **‘yes’**
+2\. Click on the plus next to your desired folder to open the folder configuration and under ‘assign QR Code’ say **‘yes’**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/02-setup-qr-code-on-catenda-hub.png)
+![](images/02-setup-qr-code-on-catenda-hub.png)
 
 The scanning of placeholders and placement of QR-codes will only take place on folders with QR-code assignment;
 
@@ -2451,7 +2499,7 @@ The scanning of placeholders and placement of QR-codes will only take place on f
 
 In order to use this function, you would need to place the **[QR-code placeholder](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)**, provided by Catenda, onto your document and then upload to Catenda Hub. _Dimension requirement:_ This must have a minimum size of 2cm by 2cm.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/03-placing-the-placeholder-in-your-document.png)
+![](images/03-placing-the-placeholder-in-your-document.png)
 
 The download link for the QR-Code can be found here:
 
@@ -2461,7 +2509,9 @@ _[Download link](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j
 
 Since documents cannot be changed after they are uploaded to Catenda it is important that the placeholder QR-Code is placed on the document before it is uploaded to Catenda. The placeholder can be placed on any layer except the annotation layer. For Catenda to recognize the QR-Code, it has to be added as an image. The image in the published document has to be the exact same image as the placeholder image.
 
-**PDF optimization** Many programs perform optimization steps for better viewing and reducing file size. These steps might change the amount of bytes in the image which will make it so Catenda does not recognize it anymore. Here is some information about the placeholder that can help with optimization. Pixel density: 144 dpi Image compression: ZIP The image has to be one whole image. Some optimizers might split the image as an optimization. Please make sure the image is whole after optimizing. _Archicad_ When placing the qr code, please use: Import > interpobility > merge from file > import and open worksheet > drag en drop If you open the worksheet and drag and drop the PNG it will change the resolution and not work.
+**PDF optimization** Many programs perform optimization steps for better viewing and reducing file size. These steps might change the amount of bytes in the image which will make it so Catenda does not recognize it anymore. Here is some information about the placeholder that can help with optimization. Pixel density: 144 dpi Image compression: ZIP The image has to be one whole image. Some optimizers might split the image as an optimization. Please make sure the image is whole after optimizing.
+
+_Archicad_ When placing the qr code, please use: Import > interpobility > merge from file > import and open worksheet > drag en drop If you open the worksheet and drag and drop the PNG it will change the resolution and not work.
 
 ### 2.2 Placing the QR-code on an existing document
 
@@ -2471,15 +2521,15 @@ If you have a document that you did not create and you would like to add the QR-
 
 If your document is already on Catenda you will have to add the QR-placeholder and upload a new revision. If you do not have access to a PDF editing program you can use the [image stamp annotation tool](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations#h_6e3ac983b6) to add the QR-placeholder to your document.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/04-placing-the-qr-code-a-catenda-document.png)
+![](images/04-placing-the-qr-code-a-catenda-document.png)
 
 To save the document so the QR-placeholder will be recognized, print the document with [the pint button](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations#h_709cb0ed70) that can be found on the top left of your document preview.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/05-placing-the-qr-code-a-catenda-document.png)
+![](images/05-placing-the-qr-code-a-catenda-document.png)
 
 This will open the print dialogue of your browser. Here is what that can look like for Google Chrome:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/06-placing-the-qr-code-a-catenda-document.png)
+![](images/06-placing-the-qr-code-a-catenda-document.png)
 
 In the print dialogue, print the document to PDF.
 
@@ -2493,21 +2543,21 @@ The printed PDF with the placeholder can now be uploaded as a new revision to Ca
 1. While publishing the PDF will be scanned for the placeholder and replaced with a QR-code (generated for this revision)
 1. The newly generated QR-code will become part of the PDF, which can be viewed/scanned on Catenda Hub and/or downloaded.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/07-publishing-with-qr-codes.png)
+![](images/07-publishing-with-qr-codes.png)
 
-Here is an example on the placement of the QR-code placeholder and the results after uploading to Catenda Hub. 1. Placeholder in the title block of a drawing. **Ready for uploading.**
+Here is an example on the placement of the QR-code placeholder and the results after uploading to Catenda Hub. 1\. Placeholder in the title block of a drawing. **Ready for uploading.**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/08-publishing-with-qr-codes.png)
+![](images/08-publishing-with-qr-codes.png)
 
-2. Placeholder in title block is replaced with then generated QR code. **Ready for verification.**
+2\. Placeholder in title block is replaced with then generated QR code. **Ready for verification.**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/09-publishing-with-qr-codes.png)
+![](images/09-publishing-with-qr-codes.png)
 
 ### 3.1 **Document history**
 
 After uploading a document with a placeholder QR code you will be able to see it has successfully been processed in the document history of the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/10-document-history.png)
+![](images/10-document-history.png)
 
 If the generation of your QR code has failed, this can be because your QR-code was smaller than 2cm x 2cm or it was placed as an annotation instead of an image.
 
@@ -2515,23 +2565,23 @@ If the generation of your QR code has failed, this can be because your QR-code w
 
 **PDF X-change**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/11-document-history.png)
+![](images/11-document-history.png)
 
 **Adobe Acrobat**
 
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-3d7d02c461d3.png" width="300"/> --> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-3398dc9eef22.png" width="300"/>
+<img alt="" src="images/inline-3d7d02c461d3.png" width="300"/> --> <img alt="" src="images/inline-3398dc9eef22.png" width="300"/>
 
 _BlueBeam Revu_ When you place the placeholder in BlueBeam Revu and save the document it will be added as an annotation. It is possible to flatten the QR-code to make it part of the content layer of the document, but even when saving it regularly or by using the reduced file size option the QR-code will be changed and will not work with Catenda. To make the QR-code work with catenda, instead: Print the document with the BlueBeam driver:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/12-document-history.png)
+![](images/12-document-history.png)
 
 In the Save As dialogue, select ZIP graphics and enable post processing. This is because the compression algorythm used for the placeholder is ZIP.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/13-document-history.png)
+![](images/13-document-history.png)
 
 In the post processing menu, choose the Combine Adjacent Images option. This is because the image normally will be split in two so it combines it back together. If your page size does not exist as a default option, you can add your own custom one here:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/14-document-history.png)
+![](images/14-document-history.png)
 
 # Revit IFC Export Manual
 
@@ -2543,7 +2593,7 @@ Before exporting it is important to make sure that the GUID's of your Revit proj
 
 `Manage -> Settings -> Project Information -> IFC Parameters`
 
-![Project information IFC Parameters IfcSite GUID IfcBuilding GUID IfcProject GUID](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/01-project-settings.png)
+![Project information IFC Parameters IfcSite GUID IfcBuilding GUID IfcProject GUID](images/01-project-settings.png)
 
 If the GUID is different from a previous export the objects of newer exports will not be properly linked to the GUIDs in BCF topics. When you make a new project it will have a unique id.
 
@@ -2551,7 +2601,7 @@ If the GUID is different from a previous export the objects of newer exports wil
 
 When Revit is open and you are ready to export, you may want to do the following.
 
-![On th top left of the screen, press file](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/02-modify-ifc-export.png)
+![On th top left of the screen, press file](images/02-modify-ifc-export.png)
 
 Top left we find "File" tab.
 
@@ -2563,11 +2613,11 @@ The IFC export menu can be found here:
 
 `File -> Export -> IFC`
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/03-modify-ifc-export.png)
+![](images/03-modify-ifc-export.png)
 
 This is what the Export IFC menu can look like:
 
-![Export IFC](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/04-modify-ifc-export.png)
+![Export IFC](images/04-modify-ifc-export.png)
 
 File name Enter the name and location that the exported file will have in the system
 
@@ -2579,17 +2629,17 @@ When the Catenda Plugin for Revit is used, an extra pre-defined export setup for
 
 Click on Modify setup in the export setup part of the export ifc dialogue. This is where the necessary settings for IFC exports can be changed and custom setups can be created. This is what the modify setup menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/05-modify-setup.png)
+![](images/05-modify-setup.png)
 
-This window contains the following tabs: [General](#h_fb41b895ea) - [Additional Content](#h_ed48fc4387) - [Property Sets](#h_04dd25ffef) - [LoD](#h_11ae63fb7f) - [Advanced](#h_f7b35f27cd) - [Geographic Reference](#h_de5067b34b)
+This window contains the following tabs:
 
 ---
 
 ### 3.1 **General**
 
-![General](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/06-general.png)
+![General](images/06-general.png)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/07-general.png)
+![](images/07-general.png)
 
 We'll take you through the various settings.
 
@@ -2603,7 +2653,7 @@ We'll take you through the various settings.
 
 **Category mapping** Before Revit 2026 this option was available in File -> Export -> Options -> IFC Export Options. This is what the Manage IFC Export Mapping Settings menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/08-general.png)
+![](images/08-general.png)
 
 **File type** IFC type selection.
 
@@ -2629,9 +2679,9 @@ _File Header information... Project Address..._ In these you can put information
 
 ### 3.2 **Additional Content**
 
-![Additional Content](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/09-additional-content.png)
+![Additional Content](images/09-additional-content.png)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/10-additional-content.png)
+![](images/10-additional-content.png)
 
 Export linked files as separate IFC's If you want to include the linked files in the IFC you can check this option to do so. It is recommended that you export each file separately and import each to their own model.
 
@@ -2650,13 +2700,13 @@ Export Ceiling Grids Ceiling grids are 2D elements and thus not displayed in the
 
 ### 3.3 **Property Sets**
 
-![Property Sets](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/11-property-sets.png)
+![Property Sets](images/11-property-sets.png)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/12-property-sets.png)
+![](images/12-property-sets.png)
 
 Exports all Revit Property sets (pset / properties) Here is an example of a wall exported with this option: Revit (_Left_) --- Catenda (_Right_)
 
-<img alt="Properties" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-4f4aab46be4e.png" width="208.60495436766624"/>  ---  <img alt="Properties" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-7c05fd3c2c4a.png" width="190.21739130434784"/>
+<img alt="Properties" src="images/inline-4f4aab46be4e.png" width="208.60495436766624"/>  ---  <img alt="Properties" src="images/inline-7c05fd3c2c4a.png" width="190.21739130434784"/>
 
 Typical properties that show in the properties menu are: Constraints, Cross-Section Definition, Dimensions, Structural, Identity Data, Other
 
@@ -2664,7 +2714,7 @@ Typical properties that show in the Identification menu are: IFC Parameters Expo
 
 **Classification settings** Here is an example of what classification settings can look like with omniclass.
 
-![Classification Settings](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/13-property-sets.png)
+![Classification Settings](images/13-property-sets.png)
 
 **Name** The name of the classification
 
@@ -2678,11 +2728,11 @@ Typical properties that show in the Identification menu are: IFC Parameters Expo
 
 **Classification field name** The classification field name is the name of the parameter in your objects that will hold the classification value. This parameter can often be found on the family level. Edit a family to see its properties
 
-![Edit Family](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/14-property-sets.png)
+![Edit Family](images/14-property-sets.png)
 
 This is what the parameter can look like in the properties
 
-![Properties OmniClass Number](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/15-property-sets.png)
+![Properties OmniClass Number](images/15-property-sets.png)
 
 If you have exported your ifc with a classification and imported it as a model to Catenda you will see its classification suggested as a [suggested library](https://support.catenda.com/en/articles/8065645-libraries-page#h_c03d50a9ca) when creating a new library on the [libraries page](https://support.catenda.com/en/articles/8065645-libraries-page). If a value in the property you specified matches with a value in the documentation provided it will be found and can be used to select objects with this value through the classification library you created.
 
@@ -2690,9 +2740,9 @@ If you have exported your ifc with a classification and imported it as a model t
 
 ### 3.4 **Level Of Detail**
 
-![Level of Detail](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/16-level-of-detail.png)
+![Level of Detail](images/16-level-of-detail.png)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/17-level-of-detail.png)
+![](images/17-level-of-detail.png)
 
 This is about how detailed we have for example. cups or handrails or maybe bicycle wheels. There are 4 different levels of detail.
 
@@ -2700,15 +2750,15 @@ Extra Low Low Medium High
 
 When high, it gets the most detailed as shown in the picture below.
 
-![Level of detail extra low and high](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/18-level-of-detail.png)
+![Level of detail extra low and high](images/18-level-of-detail.png)
 
 ---
 
 When exporting IFCs from Revit to be used in Catenda Hub, we recommend not to set the level of detail to high. There will be a lot of details and extra polygons in models when exported with higher level of detail and this is not always necessary and will make the model navigation slower. This is an example of the difference between exporting with the Extra low and High setting.
 
-![This is a stair railing exported with the setting High. 900k polygons](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/19-level-of-detail.png)
+![This is a stair railing exported with the setting High. 900k polygons](images/19-level-of-detail.png)
 
-![This is the same model exported with the setting Extra Low. 33k polygons.](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/20-level-of-detail.png)
+![This is the same model exported with the setting Extra Low. 33k polygons.](images/20-level-of-detail.png)
 
 The appearance of the model will be close to the same, but the number of polygons will decrease drastically and the navigation in Catenda Hub will be a lot faster.
 
@@ -2716,9 +2766,9 @@ The appearance of the model will be close to the same, but the number of polygon
 
 ### 3.5 **Advanced**
 
-![Advanced](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/21-advanced.png)
+![Advanced](images/21-advanced.png)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/22-advanced.png)
+![](images/22-advanced.png)
 
 **Export parts as building elements** Export parts like standard IFC element.
 
@@ -2748,7 +2798,7 @@ The appearance of the model will be close to the same, but the number of polygon
 
 **Entities to export** This is what the IFC Entity Selection menu that opens upcan look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/23-advanced.png)
+![](images/23-advanced.png)
 
 ---
 
@@ -2756,13 +2806,13 @@ The appearance of the model will be close to the same, but the number of polygon
 
 It is important that your Revit coordinates are synchronized with the other models in your project so that they end up on the same place. Therefore measure the coordinates in Catenda Hub with a point measure and specify a coordinate base in Revit at a point that is on the same place as the measured point in Catenda Hub.
 
-![Specify Coordinate at POint](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/24-geographic-reference.png)
+![Specify Coordinate at POint](images/24-geographic-reference.png)
 
 You can find this option in the Manage tab -> Coordinates -> Specify Coordinate Base. _Specify Coordinates at Point_ Relocates a model and rotates the model to True North by specifying coordinates for North/South, East/West, and Elevation. In Revit it is often easier to model on 90 degree angles and you don't want to rotate the whole model. In this case you can rotate True North instead. You will find the option in the Position dropdown below Coordinates in the Manage tab.
 
-![Geographic Reference](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/25-geographic-reference.png)
+![Geographic Reference](images/25-geographic-reference.png)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/26-geographic-reference.png)
+![](images/26-geographic-reference.png)
 
 **Project site** Internal
 
@@ -2776,9 +2826,9 @@ You can find this option in the Manage tab -> Coordinates -> Specify Coordinate 
 
 ### 3.7 **Company Info**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/27-company-info.png)
+![](images/27-company-info.png)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/28-company-info.png)
+![](images/28-company-info.png)
 
 This menu is only available when the IFC2x3 COBie 2.4 Design Deliverable View Setup is selected in the left menu.
 
@@ -2786,9 +2836,9 @@ This menu is only available when the IFC2x3 COBie 2.4 Design Deliverable View Se
 
 ### 3.8 **Project info**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/29-project-info.png)
+![](images/29-project-info.png)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/30-project-info.png)
+![](images/30-project-info.png)
 
 This menu is only available when the IFC2x3 COBie 2.4 Design Deliverable View Setup is selected in the left menu.
 
@@ -2800,13 +2850,13 @@ The IFC Options of a Revit project can be found in:
 
 `File -> Export -> Options -> IFC Options`
 
-![Export -> Options -> IFC options](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/31-ifc-options.png)
+![Export -> Options -> IFC options](images/31-ifc-options.png)
 
 > **Note:** From Revit 2026 this option is now available in: `Export -> IFC -> General -> Category Mapping -> Action menu right of dropdown`
 
 Here within the _IFC options_ we make the settings for exporting a model to an IFC file. Here you can customize setup properties for exporting a model to IFC. What was mentioned at the start of this manual is it is not necessary to bring too much information out of the model. Feel free to tick off unnecessarily information before export.
 
-![IFC export classes](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/32-ifc-options.png)
+![IFC export classes](images/32-ifc-options.png)
 
 It is possible to view grids in Catenda Hub, and if you have these in your Revit model it is in IFC Options you can set grids to be exported in the IFC. By default these are not exported from Revit.
 
@@ -2817,11 +2867,11 @@ The colors that are displayed in Catenda are read from the IFC file that is impo
 `Manage tab -> Settings section -> Materials`
 In the Material browser the setting for color can be found in the graphics tab of the material:
 
-![Manage -> Materials -> Material browser -> Create new material](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/33-colors-and-materials.png)
+![Manage -> Materials -> Material browser -> Create new material](images/33-colors-and-materials.png)
 
 It is also possible to lock the shading to the render settings.
 
-![Appearance](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/34-colors-and-materials.png)
+![Appearance](images/34-colors-and-materials.png)
 
 Surfaces in the Catenda 3D viewer have flat shading without a light source present. The following values are interpreted by Catenda when displaying the surface in the 3D viewer:
 
@@ -2844,11 +2894,11 @@ Tint
 
 Select a topic from an [topic board](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) a to open the topic page of the topic. This is what the [topic banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) on the topic page can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/01-intro.png)
+![](images/01-intro.png)
 
 This is what the [topic header](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/02-intro.png)
+![](images/02-intro.png)
 
 Below the topic header the topic body can be found with description and comments. The topic body is described in this article. To the right of the topic body and header the [right information panel](https://support.catenda.com/en/articles/8053299-issue-right-panel) can be found. Click on th information icon in the topic banner to expand the right infomraiton panel.
 
@@ -2856,13 +2906,13 @@ The topic body described in this article is below the header and to the left of 
 
 This is what the main part of a topic can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/03-intro.png)
+![](images/03-intro.png)
 
 ## 1. **Progress bar**
 
 The progress bar appears towards the top of the topic body if checkboxes or linked topics have been added to the topic description. This is what the progress bar towards the top of a topic can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/04-progress-bar.png)
+![](images/04-progress-bar.png)
 
 The progress bar shows the progress of checked checkboxes and resolved topics in the description of the topic. For a short video tutorial about check lists see [here](https://support.catenda.com/en/articles/5036461-check-lists-within-issues)
 
@@ -2874,13 +2924,13 @@ The topic description follows the [general formatting rules of posts](https://su
 
 Click on the pencil on the top right of the topic content to edit the description
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/05-edit-description.png)
+![](images/05-edit-description.png)
 
 _Access required:_ Write access to the topic board
 
 This is what a description can look like when it is being edited:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/06-edit-description.png)
+![](images/06-edit-description.png)
 
 For more information about formatting options edit the description and click on the question mark. Descriptions follow the general rules of [formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda.
 
@@ -2888,7 +2938,7 @@ For more information about formatting options edit the description and click on 
 
 The topic information can be found below the description. This is what the topic information can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/07-topic-information.png)
+![](images/07-topic-information.png)
 
 ## 4. 
 
@@ -2898,7 +2948,7 @@ The creator of the topic and the time it was created. To get a more specific tim
 
 ### 4.2 **Show history**
 
-The history of the topic can be seen by clicking on the show history button towards the bottom right of the topic description. See [this article](https://support.catenda.com/en/articles/8613038-issue-history) for what topic history is possible to see on Catenda Hub.
+The history of the topic can be seen by clicking on the show history button towards the bottom right of the topic description. See [this article](https://support.catenda.com/en/articles/8613038-topic-history) for what topic history is possible to see on Catenda Hub.
 
 ### 4.3 **Sort**
 
@@ -2908,15 +2958,29 @@ Show oldest comments first - Default Show newest comments first
 
 The is what the comment section in a topic can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/08-comment-section.png)
+![](images/08-comment-section.png)
 
 ### 5.1 **Existing comment action menu**
 
-The action menu of a comment can be found with the three dots towards the top right of an existing comment. _Access required:_ comment creator
+The action menu of a comment can be found with the three dots towards the top right of an existing comment. This is what the action menu of a comment can look like:
 
-**Edit a comment** Only the author of a comment can edit their own comment. It is only possible to edit the text in a comment To remove a picture from a comment the whole comment has to be deleted. After editing the comment the date and time of when it was last edited are displayed on the comment.
+![](images/09-existing-comment-action-menu.png)
 
-**Delete a comment** Click on delete comment to delete a comment
+**Edit a comment** Open the comment action menu and click on Edit to edit a comment. _Access required:_ Comment creator
+
+Only the text of a comment can be edited. The only way to remove a comment attachment from a topic is to delete the comment. After editing the comment the date and time of when the comment was last edited are displayed below the username of the comment author.
+
+**View changes** Open the comment action menu for an edited topic and click on View changes to see a history of the changes on this comment. Access required: Comment creator or administrator
+
+![](images/10-existing-comment-action-menu.png)
+
+Click on Hide changes towards the bottom right to hide the changes again.
+
+**Delete new comment** Click on Delete in the comment action menu to delete a comment. _Access required:_ Comment creator
+
+**Delete edited comment** After a comment is edited the Delete action also becomes available to administors. _Access required:_ Comment creator or administrator
+
+> **Note:** The latest content of a deleted comment can be seen in the topic history by clicking on the deleted field.
 
 ### 5.2 **Comment**
 
@@ -2924,7 +2988,7 @@ Text in comments follow the [general rules for formatting of posts](https://supp
 
 **Attachment pop-out** Left click on the image of an attachment to open the image pop-out.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/09-comment.png)
+![](images/11-comment.png)
 
 Navigate between images from different comments in this topic with the left/right navigation arrows The best way to download the original image that was submitted is by clicking on the  download icon to download the image The save as in the action menu of the browser saves html instead of the image. Pin the image pop-out on with the pin icon on the top right to keep the image pop-out open while navigating to other parts of Catenda Hub. Close the image pop-out by clicking on the x top right, clicking on close bottom right or pressing esc on the keyboard.
 
@@ -2946,11 +3010,11 @@ It is also possible to highlight the text box of the comment and paste an image 
 
 Click on the plus button next to the comment field to add a 2D or 3D snapshot
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/10-2d-or-3d-snapshots.png)
+![](images/12-2d-or-3d-snapshots.png)
 
 **Adding a 2D or 3D snapshot to a comment** Load a model in the 3D viewer to attach a 3D snapshot to a comment. Load a storey of a model in the 2D viewer to attach a 2D snapshot to a comment. A 3D snapshot can look somehting like this.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/11-2d-or-3d-snapshots.png)
+![](images/13-2d-or-3d-snapshots.png)
 
 2D snapshots have the same buttons but with an image of the 2D viewer attached. Click [here](https://support.catenda.com/en/articles/10345863-snapshots) to read more about snapshot configuration
 
@@ -2958,27 +3022,28 @@ Click on the plus button next to the comment field to add a 2D or 3D snapshot
 
 Keep track of annotations on documents by creating a markup. When a markup is saved, it is either added to the comment of an existing topic or a new topic with the markup is created. A topic comment with a markup can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/12-markup.png)
+![](images/14-markup.png)
 
 When a markup is added to a topic the document that the annotations were created on is automatically be linked in the [related documents](https://support.catenda.com/en/articles/7986346-issue-content#h_be2f2bcf3b).
 
 **Markup comment** The annotation comment follows the [general rules for formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) with a minor difference when it comes to checklists.
 
-**Markup snapshot** The following information can be seen in a markup snapshot:
+**Markup snapshot** The following information can be seen in a markup snapshot: A screenshot of the area of the document where the annotations were created. _Access required:_ Read access to the topic board
 
-- A screenshot of the area of the document where the annotations were created.
-- A play button
-    - The document preview of the revision that the annotations of the markup are on can be opened on the documents page when the play button is clicked.
-    - _Access required:_
-        - Read access to the document that the markup is on.
-        - Access to viewing shared revisions in the document if the markup is on a shared revision.
-    - The document preview will not show the document if:
-        - The document revision has been withdrawn
-        - The document has been deleted.
-- The page that the annotations are on in the document revision
-- The amount of annotations on the page in the document revision
-- Name and revision of the annotated document
-    - If the annotation is made on a PDF comparison the two revisions that are compared are displayed.
+Document information _Access required:_ Read access to the document that the markup is on and access to viewing shared revisions in the document if the markup is on a shared revision.
+
+Document information can include:
+
+- Play button
+
+Click the play button to go to open the document that the markup is on. When pressed, a preview of the document will open up. In the document the revision that annotations are made on is shown. The preview shows the page of the document that annotations are made on.
+
+The document preview will not show the document if: The document revision has been withdrawn The document has been deleted.
+
+- Document name
+- Revision number
+
+If the annotation is made on a PDF comparison the revision numbers of the two revisions that are compared are displayed.
 
 **Image pop-out** The image that is attached to the comment after the comment is submitted can be [popped-out](#h_e36d14edc8) to see a its contents in a larger format and download it after it has been submitted.
 
@@ -2986,7 +3051,7 @@ When a markup is added to a topic the document that the annotations were created
 
 This is what a draft of a new comment can look like before the comment is submitted
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/13-new-comment.png)
+![](images/15-new-comment.png)
 
 **Text box** Write a comment in the text box next to the plus button. Mention members by typing @name or link to other topics by typing #link. Text submitted in the text box of a comment follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda. Paste both text and images from the clipboard to attach them to the new comment.
 
@@ -2998,7 +3063,7 @@ This is what a draft of a new comment can look like before the comment is submit
 
 **Image** Attach an image from the local hard drive.
 
-**Attachment image** Each attachment comes along with an image. Left click on the image of the attachment to open the attachment pop-out. In the attachment pop-out the image of the attachment can be annotated. Under the image a toolbar appears with the tools to draw the specific point of the topic in more detail.​
+**Attachment image** Each attachment comes along with an image. Left click on the image of the attachment to open the attachment pop-out. In the attachment pop-out the image of the attachment can be annotated. Under the image a toolbar appears with the tools to draw the specific point of the topic in more detail.
 
 **Submit** Click on submit to submit the draft of new comment including the text written in the text box as well as any attachment that has been added. It is only possible to submit comments with one attachment at a time.
 
@@ -3008,7 +3073,7 @@ Compared to uploading a regular zip file, the upload a zip function will unpack 
 
 The Upload zip function can be found in the action menu to the right of the green + button on the top right of the documents page.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/01-intro.png)
+![](images/01-intro.png)
 
 ### 
 
@@ -3016,15 +3081,15 @@ The Upload zip function can be found in the action menu to the right of the gree
 
 After clicking the Upload zip menu item, the following dialogue will open up:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/02-selecting-a-zip-file.png)
+![](images/02-selecting-a-zip-file.png)
 
 your system file browser of your system should open automatically. If the file browser did not open up or if it was closed without selecting a zip file, you can open it back up by clicking on the Select zip file button.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/03-selecting-a-zip-file.png)
+![](images/03-selecting-a-zip-file.png)
 
 After successfully selecting a zip file on your local system you should see the name of the zip file as below and the upload zip button will be highlighted in deep green.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/04-selecting-a-zip-file.png)
+![](images/04-selecting-a-zip-file.png)
 
 If you did not enter a folder in the document section, it will say that the contents will be extracted to the Root folder. This means that you will see the contents right when you enter the documents section. It is also possible to navigate to a folder in Catenda and upload your zip there if you want the file structure to appear there.
 
@@ -3040,7 +3105,7 @@ New folders will only be created if a folder with that name does not exist at th
 
 Different behaviors can be configured for how the extraction of the zip file behaves when a document with the same name as the file in the zip file already exists at the same location as where the zip file is trying to extact it to in the Catenda project.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/05-documents.png)
+![](images/05-documents.png)
 
 **Create new revision - Default** If a document with the same name exists in the same location as the zip attempts to extract a file to, a new revision will be created in that document.
 
@@ -3050,7 +3115,7 @@ Different behaviors can be configured for how the extraction of the zip file beh
 
 If the status workflow has been enabled in your project, you will be able to configure what the status of new documents will be. If you chose the create new revision option, the status of documents that receive new revision will automatically be changed.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/06-apply-status.png)
+![](images/06-apply-status.png)
 
 It is only possible to choose between shared revision statuses. After upload the shared revisions can be found in the workspace tab and can later be published.
 
@@ -3058,7 +3123,7 @@ It is only possible to choose between shared revision statuses. After upload the
 
 After clicking on upload zip your zip will start uploading
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/07-uploading.png)
+![](images/07-uploading.png)
 
 You can continue working with Catenda on another tab while you wait for the upload to finish.
 
@@ -3068,7 +3133,7 @@ You can continue working with Catenda on another tab while you wait for the uplo
 
 After your zip has uploaded Catenda will start extracting your zip. During the extraction, you will see the following menu on the bottom left:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/08-extracting.png)
+![](images/08-extracting.png)
 
 You can keep this menu open while browsing Catenda, or close it if you want. You could even close the browser completely during the extaction process. The zip will continue extracting in the background. If you used Catenda in a different tab while the zip is extracting, you will see the folders, documents and revisions start to appear in the location you extracted to by refreshing the page.
 
@@ -3076,7 +3141,7 @@ You can keep this menu open while browsing Catenda, or close it if you want. You
 
 When the zip is done extracting it will say completed in the dialogue.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/09-extraction-completed.png)
+![](images/09-extraction-completed.png)
 
 Click on view details to see which files were extracted. You will later be able to find these details in "My zip uploads" as explained below. Refresh the page to see all the files that have been uploaded.
 
@@ -3096,21 +3161,21 @@ The option under the zip upload in the action menu will let you see an overview 
 
 While the zip is extracting the extracted files start to appear as rows in the documents table.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/10-extracting.png)
+![](images/10-extracting.png)
 
 **Completed** When the zip import has completed all files are extracted.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/11-extracting.png)
+![](images/11-extracting.png)
 
 ### 6.2 **Zip import page**
 
 Click on a zip import to see more information about the import process. This is what the zip import page of a completed zip import can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/12-zip-import-page.png)
+![](images/12-zip-import-page.png)
 
 This is what right menu of the zip import page of a completed zip import can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/13-zip-import-page.png)
+![](images/13-zip-import-page.png)
 
 ## 7. **Desktop connector**
 
@@ -3140,11 +3205,11 @@ If you are using AutoCAD Plant 3D you can install the object enabler for the ver
 
 It is possible to import a 3D DWG to Revit. Although Revit has a lot more options when it comes to exporting to IFC it is not ideal to export an imported 3D DWG to IFC. If you want to try to do this, the best way to do it is by importing the DWG to a family. If you try to import the DWG to a project you will see that some objects disappear if you explode the DWG. After importing the DWG to the family explode the family that the DWG has created. This is to make sure you can have separated objects in the IFC instead of one big object. Next load the family in a project and place it. You might not be able to select the family. This can be because you do not have the Select underlay elements checked in the dropdown menu under modify.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3baydpf4/01-revit.png)
+![](images/01-revit.png)
 
 With your placed family selected click on create parts in the top ribbon.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3baydpf4/02-revit.png)
+![](images/02-revit.png)
 
 You will now see that you are able to to select each part of the family individually in the project. Now you are ready to export your ifc by clicking on the export -> IFC in the top left menu. In the IFC export dialogue click on modify setup. In the modify setup dialogue navigate to the advanced tab. Here be sure to have Export parts as building elements checked.
 
@@ -3154,7 +3219,7 @@ At the moment there is no official way to export to IFC from Navisworks. It is p
 
 ## 1. **Export menu**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3baydpf4/03-export-menu.png)
+![](images/03-export-menu.png)
 
 1. Project Number
 1. Project Name
@@ -3179,8 +3244,6 @@ Export - Click this button when you are ready to export your files
 # Hardware recommendation
 
 > Find recommended hardware specifications and optimisation tips for the best experience with Catenda Hub.
-
-This article contains information about the recommended system requirement to use Catenda Hub. Catenda hub can be accessed through the browser and does not need to be installed.
 
 ## 1. **Hardware recommendation:**
 
@@ -3208,9 +3271,15 @@ Linux Ubuntu [https://help.ubuntu.com/community/Installation/SystemRequirements]
 
 ### 3.2 **Browsers**
 
-_Chrome: _[https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU) _Firefox:_ [https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/](https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/) _Microsoft Edge:_ Windows 11 system requirements: [https://www.microsoft.com/en-in/windows/windows-11-specifications](https://www.microsoft.com/en-in/windows/windows-11-specifications) Safari: [https://support.apple.com/en-us/112653](https://support.apple.com/en-us/112653)
+_Chrome: _[https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU)
 
-_Opera:_ [https://www.opera.com/download/requirements](https://www.opera.com/download/requirements) _Vivaldi:_ [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
+_Firefox:_ [https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/](https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/)
+
+_Microsoft Edge:_ Windows 11 system requirements: [https://www.microsoft.com/en-in/windows/windows-11-specifications](https://www.microsoft.com/en-in/windows/windows-11-specifications) Safari: [https://support.apple.com/en-us/112653](https://support.apple.com/en-us/112653)
+
+_Opera:_ [https://www.opera.com/download/requirements](https://www.opera.com/download/requirements)
+
+_Vivaldi:_ [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
 
 # Previewing file types on Catenda Hub
 
@@ -3222,7 +3291,9 @@ For our model viewer we only support IFCs. All file types can be uploaded to our
 
 At Catenda we like to work with Open Standards so that everyone can work together regardless of the software they own.
 
-_Typically, anybody can participate in their development due to their inherently open nature ([Wikipedia](https://en.wikipedia.org/wiki/Open_standard#:~:text=Typically%2C%20anybody%20can%20participate%20in%20their%20development%20due%20to%20their%20inherently%20open%20nature.))_ This means that it is not just one organization controlling what gets developed.
+_Typically, anybody can participate in their development due to their inherently open nature ([Wikipedia](https://en.wikipedia.org/wiki/Open_standard#:~:text=Typically%2C%20anybody%20can%20participate%20in%20their%20development%20due%20to%20their%20inherently%20open%20nature.))_
+
+This means that it is not just one organization controlling what gets developed.
 
 ## 2. **Vendor neutral 3D file formats**
 
@@ -3448,109 +3519,109 @@ Learn how to create, assign, and manage topics on Catenda Hub.
 
 From the list of topics of your choice, create a new Topic by clicking on the "+" button at the top right.
 
-![Create a topic via the '+' button at the top right](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/01-1-create-a-topic-via-the-button-at-the-top-right.png)
+![Create a topic via the '+' button at the top right](images/01-1-create-a-topic-via-the-button-at-the-top-right.png)
 
 ### 1.3 Enter the title of your topic here.
 
 Enter the title of your Subject here.
 
-![Enter the title of your topic here.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/02-2-enter-the-title-of-your-topic-here.png)
+![Enter the title of your topic here.](images/02-2-enter-the-title-of-your-topic-here.png)
 
 ### 1.4 Set the status and type of the subject via the drop-down menus.
 
 Set the status and type of the Subject via the drop-down menus.
 
-![Set the status and type of the subject via the drop-down menus.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/03-3-set-the-status-and-type-of-the-subject-via-the-drop-down-menus.png)
+![Set the status and type of the subject via the drop-down menus.](images/03-3-set-the-status-and-type-of-the-subject-via-the-drop-down-menus.png)
 
 ### 1.5 Enter a due date here.
 
 Enter a due date here.
 
-![Enter a due date here.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/04-4-enter-a-due-date-here.png)
+![Enter a due date here.](images/04-4-enter-a-due-date-here.png)
 
 ### 1.6 Assign the topic to a user or team here.
 
 Assign the Topic to a user or team here.
 
-![Assign the topic to a user or team here.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/05-5-assign-the-topic-to-a-user-or-team-here.png)
+![Assign the topic to a user or team here.](images/05-5-assign-the-topic-to-a-user-or-team-here.png)
 
 ### 1.7 Add tags here that will allow you to filter and easily find your topic.
 
 Add tags here that will allow you to filter and easily find your Topic.
 
-![Add tags here that will allow you to filter and easily find your topic.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/06-6-add-tags-here-that-will-allow-you-to-filter-and-easily-find-your-topic.png)
+![Add tags here that will allow you to filter and easily find your topic.](images/06-6-add-tags-here-that-will-allow-you-to-filter-and-easily-find-your-topic.png)
 
 ### 1.8 Fill in custom fields set up by your project administrator here.
 
 Fill in custom fields set up by your project administrator here.
 
-![Fill in custom fields set up by your project administrator here.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/07-7-fill-in-custom-fields-set-up-by-your-project-administrator-here.png)
+![Fill in custom fields set up by your project administrator here.](images/07-7-fill-in-custom-fields-set-up-by-your-project-administrator-here.png)
 
 ### 1.9 Add a description here.
 
 Add a description here.
 
-![Add a description here.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/08-8-add-a-description-here.png)
+![Add a description here.](images/08-8-add-a-description-here.png)
 
 ### 1.10 Add a comment here.
 
 Add a comment here.
 
-![Add a comment here.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/09-9-add-a-comment-here.png)
+![Add a comment here.](images/09-9-add-a-comment-here.png)
 
 ### 1.11 You can now create your Topic by clicking on the send button.
 
 You can now create your Topic by clicking on the Send button
 
-![You can now create your Topic by clicking on the send button.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/10-10-you-can-now-create-your-topic-by-clicking-on-the-send-button.png)
+![You can now create your Topic by clicking on the send button.](images/10-10-you-can-now-create-your-topic-by-clicking-on-the-send-button.png)
 
 ### 1.12 Find your topic in its list.
 
 Then find your saved Topic in the previously selected list.
 
-![Find your topic in its list.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/11-11-find-your-topic-in-its-list.png)
+![Find your topic in its list.](images/11-11-find-your-topic-in-its-list.png)
 
 ### 1.13 Manage, sort and filter topics in your list.
 
 You now have the ability to filter and sort the different topics in your list. They can be sorted using the fully configurable table: by type, status, label, due date, last topic created, assigned person, etc. You can also filter topics from the filter panel that can be activated on the left. Here you can filter topics in the same way as for sorting topics, and thus isolate for example topics with a specific status.
 
-![Manage, sort and filter topics in your list.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/12-12-manage-sort-and-filter-topics-in-your-list.png)
+![Manage, sort and filter topics in your list.](images/12-12-manage-sort-and-filter-topics-in-your-list.png)
 
 ### 1.14 You can also create a topic directly from a 3D view.
 
 You can also create a Topic directly from a 3D view. To do this, keep the 3D window open, then create a Topic via the "+" button.
 
-![You can also create a topic directly from a 3D view.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/13-13-you-can-also-create-a-topic-directly-from-a-3d-view.png)
+![You can also create a topic directly from a 3D view.](images/13-13-you-can-also-create-a-topic-directly-from-a-3d-view.png)
 
 ### 1.15 Fill in the various fields.
 
 Fill in the different fields here, in the same way as seen previously.
 
-![Fill in the various fields.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/14-14-fill-in-the-various-fields.png)
+![Fill in the various fields.](images/14-14-fill-in-the-various-fields.png)
 
 ### 1.16 From a 3D view, you also have the possibility to add a marker on the associated 2D view.
 
 From a 3D view, you also have the possibility to add a marker on the associated 2-D view.
 
-![From a 3D view, you also have the possibility to add a marker on the associated 2D view.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/15-15-from-a-3d-view-you-also-have-the-possibility-to-add-a-marker-on-the-associated-2d-view.png)
+![From a 3D view, you also have the possibility to add a marker on the associated 2D view.](images/15-15-from-a-3d-view-you-also-have-the-possibility-to-add-a-marker-on-the-associated-2d-view.png)
 
 ### 1.17 Select the location of the Subject on the 2D view.
 
 Select the location of the Subject on the 2D view.
 
-![Select the location of the Subject on the 2D view.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/16-16-select-the-location-of-the-subject-on-the-2d-view.png)
+![Select the location of the Subject on the 2D view.](images/16-16-select-the-location-of-the-subject-on-the-2d-view.png)
 
 ### 1.18 Finally, you also have the option to associate the current view with the Subject being created.
 
 Finally, you also have the option to associate the current view with the Subject being created.
 
-![Finally, you also have the option to associate the current view with the Subject being created.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/17-17-finally-you-also-have-the-option-to-associate-the-current-view-with-the-subject-being-created.png)
+![Finally, you also have the option to associate the current view with the Subject being created.](images/17-17-finally-you-also-have-the-option-to-associate-the-current-view-with-the-subject-being-created.png)
 
 ### 1.19 To complete the creation of the Subject, click on send.
 
 To complete the Topic creation, click Submit. You will always have the option to return to this saved view attached to this Topic.
 
-![To complete the creation of the Subject, click on send.](https://raw.githubusercontent.com/catenda/help-center/main/images/mmrex0mx/18-18-to-complete-the-creation-of-the-subject-click-on-send.png)
+![To complete the creation of the Subject, click on send.](images/18-18-to-complete-the-creation-of-the-subject-click-on-send.png)
 
 This guide showed you how to create, assign and manage Topics in Catenda Hub, from a Topic list or a 3D view.
 
@@ -3562,15 +3633,13 @@ The report templates page can be found as a sub-page of the [reports page](https
 
 This is what the report templates page can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/01-intro.png)
-
-This article contains information about the following topics [Actions](#h_56ff8f93e0) - [Filter by name](#h_b78962b6dc) - [Report templates table](#h_4a5c2d4a75)
+![](images/01-intro.png)
 
 ## 1. **Actions on the report templates page**
 
 The report templates page actions can be found by clicking on the action menu on the top right of the report templates page. This is what the report templates page actions can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-actions-on-the-report-templates-page.png)
+![](images/02-actions-on-the-report-templates-page.png)
 
 ### 1.1 **New topic template**
 
@@ -3584,7 +3653,7 @@ Use the new document template action to create a new document template
 
 Write in the search bar to filter the reports template table by the names of the reports.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/03-filter-by-name.png)
+![](images/03-filter-by-name.png)
 
 Text searc - `search=test`
 
@@ -3592,7 +3661,7 @@ Text searc - `search=test`
 
 As soon as a report template is created it will show up as a row in the report templates table. This is what the report templates table can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/04-report-templates-table.png)
+![](images/04-report-templates-table.png)
 
 Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read more about how to work with tables in Catenda.
 
@@ -3614,7 +3683,7 @@ Type - Default The type of report template, either Documents or Topics.
 
 Action menu - Default Click on the action menu in the action menu column to open the row action menu. This is what the report template row action menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/05-columns.png)
+![](images/05-columns.png)
 
 Edit Use the edit action to edit the selected report template.
 

@@ -2,8 +2,6 @@
 
 > Find recommended hardware specifications and optimisation tips for the best experience with Catenda Hub.
 
-This article contains information about the recommended system requirement to use Catenda Hub. Catenda hub can be accessed through the browser and does not need to be installed.
-
 ## 1. **Hardware recommendation:**
 
 This hardware recommendation is only intended for Catenda Hub in a browser application. There can be different requirements depending on the detail level of your 3D objects. Levels of detail (LOD) are defined by AIA in document G202 as LOD 100, 200, 300, 400, 500 and 600. The LOD definition can be seen [here](https://assets.aiacontracts.com/ctrzdweb02/zdpdfs/aia-g202-2013-free-sample-preview.pdf).
@@ -30,6 +28,12 @@ Linux Ubuntu [https://help.ubuntu.com/community/Installation/SystemRequirements]
 
 ### 3.2 **Browsers**
 
-_Chrome: _[https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU) _Firefox:_ [https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/](https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/) _Microsoft Edge:_ Windows 11 system requirements: [https://www.microsoft.com/en-in/windows/windows-11-specifications](https://www.microsoft.com/en-in/windows/windows-11-specifications) Safari: [https://support.apple.com/en-us/112653](https://support.apple.com/en-us/112653)
+_Chrome: _[https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop&sjid=15879972061287151057-EU)
 
-_Opera:_ [https://www.opera.com/download/requirements](https://www.opera.com/download/requirements) _Vivaldi:_ [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
+_Firefox:_ [https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/](https://www.mozilla.org/en-US/firefox/114.0.2/system-requirements/)
+
+_Microsoft Edge:_ Windows 11 system requirements: [https://www.microsoft.com/en-in/windows/windows-11-specifications](https://www.microsoft.com/en-in/windows/windows-11-specifications) Safari: [https://support.apple.com/en-us/112653](https://support.apple.com/en-us/112653)
+
+_Opera:_ [https://www.opera.com/download/requirements](https://www.opera.com/download/requirements)
+
+_Vivaldi:_ [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/](https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-browser/)
