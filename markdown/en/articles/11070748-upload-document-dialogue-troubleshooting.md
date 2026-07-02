@@ -1,5 +1,7 @@
 # Upload document dialogue troubleshooting
 
+In this article you will find information about the errors that can occur when [uploading single documents](https://support.catenda.com/en/articles/4670278-uploading-a-document).
+
 ## 1. **Document exists in folder**
 
 If you have write access to a folder, but read access to a document you will not be able to add revisions to that document.

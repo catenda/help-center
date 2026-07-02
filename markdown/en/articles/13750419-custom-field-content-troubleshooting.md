@@ -1,5 +1,7 @@
 # Custom field content troubleshooting
 
+This article contains information regarding the resolution of errors and logical conflicts that can occur when managing custom field content.
+
 ## 1. **Unable to restore archived dropdown option**
 
 A logical deadlock occurs if an attempt is made to restore an archived option while the associated **Name** is currently in use by an active option. Because it is only possible for a name to be assigned to one option, the restoration is blocked. _Access required:_ Administrator access

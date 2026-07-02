@@ -1,5 +1,7 @@
 # Approvals page troubleshooting
 
+In this article you will find information about the errors that can occur on the [approvals page](https://support.catenda.com/en/articles/12495047-approvals-page).
+
 ## 1. **Submitting a new approval request**
 
 When a new approval request is submitted for review where more than 1000 documents are added with the add documents button the following error will appear:

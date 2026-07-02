@@ -1,5 +1,7 @@
 # 3D Snapshots - Troubleshooting
 
+In this article you will find information about the errors that can occur when working with [3D snapshots](https://support.catenda.com/en/articles/10345863-snapshots).
+
 ## 1. **Viewpoint settings**
 
 ### 1.1 **Objects**
