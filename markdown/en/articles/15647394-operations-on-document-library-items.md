@@ -1,7 +1,5 @@
 # Operations on document library items
 
-In this article the different actions and operations that can be performed on items in the documents area depending on which access a user has are explained.
-
 ## 1. **1. Folder operations**
 
 These are the different operations that can be performed on a folder according to the access levels.

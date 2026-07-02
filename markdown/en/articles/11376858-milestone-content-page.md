@@ -4,8 +4,6 @@ The page of a milestone can be opened by clicking on a milestone on the [milesto
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yx2925b3/01-intro.png)
 
-This article contains information about the following topics:
-
 ## 1. **Actions**
 
 You will be able to find the following actions towards the top right of the page of a milestone:

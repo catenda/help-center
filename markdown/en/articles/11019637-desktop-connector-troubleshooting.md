@@ -1,7 +1,5 @@
 # Desktop Connector troubleshooting
 
-In this article you will find information about the errors that can occur when using the [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector).
-
 ## 1. **Naming convnention**
 
 If a naming convention is enabled on the upload folder or a parent folder to the upload folder the local filename has to conform to the convention in order for the uplaod to go thorugh. If the filename does not follow the convention the following error is displayed.

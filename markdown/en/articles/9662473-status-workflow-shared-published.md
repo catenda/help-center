@@ -1,7 +1,5 @@
 # Status Workflow Shared -> Published
 
-In this article you will be able to read about how your Catenda experience will change with the upgrade of Status Workflow. **[Click here](https://support.catenda.com/en/articles/9874698-user-guide-status-workflow-iso-19650)** to read more about how you can best follow the ISO 19650 standard with this workflow.
-
 ## 1. **Availability on Projects**
 
 The new status workflow is an on-demand feature that can be requested to be enabled for ongoing projects. New projects that are created based on a template project where the new status workflow is enabled will also have the new status workflow enabled.

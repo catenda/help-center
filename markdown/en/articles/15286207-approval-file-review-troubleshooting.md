@@ -1,7 +1,5 @@
 # Approval file review troubleshooting
 
-In this article you will find information about the errors that can occur on the [file review in an approval](https://support.catenda.com/en/articles/12507002-file-review-in-an-approval-request).
-
 ## 1. **Withdrawn document**
 
 Document revisions that are part of approval requests can can be withdrawn in the documents area. This is what it looks like when the page is loaded for a document revision that is withdrawn after it is added to an approval request.

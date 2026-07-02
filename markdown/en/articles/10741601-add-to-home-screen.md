@@ -1,6 +1,6 @@
 # Add to home screen
 
-The full functionality of Catenda Hub is always available through the browser. Catenda supports being added to the home screen, dashboard or dock by installing it via a browser. This is otherwise known as a progressive web app (PWA). Click [here](https://support.catenda.com/en/articles/10774300-home-screen-system-browser-support) to see which browsers support PWA on your system. This article contains recommended suggestions for installing Catenda as a PWA on different systems.
+The full functionality of Catenda Hub is always available through the browser. Catenda supports being added to the home screen, dashboard or dock by installing it via a browser. This is otherwise known as a progressive web app (PWA). Click [here](https://support.catenda.com/en/articles/10774300-home-screen-system-browser-support) to see which browsers support PWA on your system.
 
 ## 1. **Benefits**
 

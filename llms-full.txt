@@ -3134,7 +3134,7 @@ The full functionality of Catenda Hub is always available through the browser. C
 
 # Add to home screen
 
-The full functionality of Catenda Hub is always available through the browser. Catenda supports being added to the home screen, dashboard or dock by installing it via a browser. This is otherwise known as a progressive web app (PWA). Click [here](https://support.catenda.com/en/articles/10774300-home-screen-system-browser-support) to see which browsers support PWA on your system. This article contains recommended suggestions for installing Catenda as a PWA on different systems.
+The full functionality of Catenda Hub is always available through the browser. Catenda supports being added to the home screen, dashboard or dock by installing it via a browser. This is otherwise known as a progressive web app (PWA). Click [here](https://support.catenda.com/en/articles/10774300-home-screen-system-browser-support) to see which browsers support PWA on your system.
 
 ## 1. **Benefits**
 
@@ -9512,8 +9512,6 @@ The page of a milestone can be opened by clicking on a milestone on the [milesto
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yx2925b3/01-intro.png)
 
-This article contains information about the following topics:
-
 ## 1. **Actions**
 
 You will be able to find the following actions towards the top right of the page of a milestone:
@@ -14040,7 +14038,7 @@ The storey configurator will always show the latest revision of the aligned draw
 
 > Shortcuts and keybinds
 
-In this article keybinds to the most important shortcuts and basic controls can be found. This article contains infromation about the following topics:
+In this article keybinds to the most important shortcuts and basic controls can be found.
 
 ## 1. **Project panel interactions**
 
@@ -16604,8 +16602,6 @@ When the Desktop Connector attempts to upload a document like this it will attem
 
 # Catenda SharePoint FAQ
 
-This article contains frequently asked questions about SharePoint integrations in Catenda.
-
 ## 1. **How can SharePoint be integrated with Catenda?**
 
 There are two ways to integrate with Catenda.
@@ -16908,8 +16904,6 @@ You can then add the user to a team and give the team (or the user but team is e
 # Hardware recommendation
 
 > Find recommended hardware specifications and optimisation tips for the best experience with Catenda Hub.
-
-This article contains information about the recommended system requirement to use Catenda Hub. Catenda hub can be accessed through the browser and does not need to be installed.
 
 ## 1. **Hardware recommendation:**
 
@@ -20033,8 +20027,6 @@ Selected items work for topics as well as documents.
 
 # Status Workflow Shared -> Published
 
-In this article you will be able to read about how your Catenda experience will change with the upgrade of Status Workflow. **[Click here](https://support.catenda.com/en/articles/9874698-user-guide-status-workflow-iso-19650)** to read more about how you can best follow the ISO 19650 standard with this workflow.
-
 ## 1. **Availability on Projects**
 
 The new status workflow is an on-demand feature that can be requested to be enabled for ongoing projects. New projects that are created based on a template project where the new status workflow is enabled will also have the new status workflow enabled.
@@ -20287,8 +20279,6 @@ If you see the following message telling you that Multi-Factor Authentication is
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8pwddg4t/02-mfa-code-required.png)
 
 # Desktop Connector troubleshooting
-
-In this article you will find information about the errors that can occur when using the [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector).
 
 ## 1. **Naming convnention**
 
@@ -21057,8 +21047,6 @@ The room labels displayed in the center of rooms within the 2D viewer are determ
 
 # 3D Snapshots - Troubleshooting
 
-In this article you will find information about the errors that can occur when working with [3D snapshots](https://support.catenda.com/en/articles/10345863-snapshots).
-
 ## 1. **Viewpoint settings**
 
 ### 1.1 **Objects**
@@ -21601,8 +21589,6 @@ After clicking on add, requests will be sent from the system to Catenda to add t
 
 # Approval file review troubleshooting
 
-In this article you will find information about the errors that can occur on the [file review in an approval](https://support.catenda.com/en/articles/12507002-file-review-in-an-approval-request).
-
 ## 1. **Withdrawn document**
 
 Document revisions that are part of approval requests can can be withdrawn in the documents area. This is what it looks like when the page is loaded for a document revision that is withdrawn after it is added to an approval request.
@@ -21918,8 +21904,6 @@ Click on save to save the changes
 The approvals settings page is not available for projects starting out with the new validation workflow
 
 # Approvals page troubleshooting
-
-In this article you will find information about the errors that can occur on the [approvals page](https://support.catenda.com/en/articles/12495047-approvals-page).
 
 ## 1. **Submitting a new approval request**
 
@@ -22786,15 +22770,6 @@ You have successfully created a new approval workflow template with multiple rev
 
 # Create a report from topics
 
-## 1. Create a report from topics
-_No description provided. You can add one here._
-
-_Created 9 March 2026 · Updated 9 March 2026_
-
-_Status: Published_
-
----
-
 # Create report action
 
 The create report action is made available for projects where the opt-in reports feature has been requested to be enabled. When the reports feature is enabled on a project the Create report action becomes available in the documents and topics table actions. Select one or more elements in the documents table and open up the [documents table action menu](https://support.catenda.com/en/articles/4670288-documents-table-actions). Select one or more elements in the topics table and open up the [topics table action menu](https://support.catenda.com/en/articles/4670284-topics-table-actions). This is what the create report action can look like:
@@ -23446,8 +23421,6 @@ It is not possible to create a topic template for projects starting out with the
 
 # Custom field content troubleshooting
 
-This article contains information regarding the resolution of errors and logical conflicts that can occur when managing custom field content.
-
 ## 1. **Unable to restore archived dropdown option**
 
 A logical deadlock occurs if an attempt is made to restore an archived option while the associated **Name** is currently in use by an active option. Because it is only possible for a name to be assigned to one option, the restoration is blocked. _Access required:_ Administrator access
@@ -23798,8 +23771,6 @@ By leveraging the Models and Bookmarks pages, David transformed a potentially ch
 The entire discovery, communication, and resolution process is documented in a single issue, creating a clear audit trail for the project record.
 
 # Document Preview Troubleshooting
-
-In this article you will find information about the errors that can occur in the [document preview](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
 
 ## 1. **1. Cannot Connect to Server**
 
@@ -25059,8 +25030,6 @@ In the documents tab of an approval an overview of each of the documents that is
 Click [here](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request) to read more about the documents tab in an approval
 
 # Operations on document library items
-
-In this article the different actions and operations that can be performed on items in the documents area depending on which access a user has are explained.
 
 ## 1. **1. Folder operations**
 
@@ -26915,8 +26884,6 @@ The topic templates page is not available for projects starting out with the new
 
 # Upload document dialogue troubleshooting
 
-In this article you will find information about the errors that can occur when [uploading single documents](https://support.catenda.com/en/articles/4670278-uploading-a-document).
-
 ## 1. **Document exists in folder**
 
 If you have write access to a folder, but read access to a document you will not be able to add revisions to that document.
@@ -27191,8 +27158,6 @@ If anything goes wrong in preparing this zipped file the following error can app
 If you see this screen, please contact support.
 
 # Zip upload troubleshooting
-
-In this article you will find information about the errors that can occur when [uploading a zip / file structure](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure).
 
 ## 1. **Upload failed**
 

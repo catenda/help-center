@@ -1,7 +1,5 @@
 # Document Preview Troubleshooting
 
-In this article you will find information about the errors that can occur in the [document preview](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
-
 ## 1. **1. Cannot Connect to Server**
 
 When a document is opened, the document preview can be grayed out with a centered message that says:

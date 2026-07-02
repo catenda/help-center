@@ -1,7 +1,5 @@
 # Zip upload troubleshooting
 
-In this article you will find information about the errors that can occur when [uploading a zip / file structure](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure).
-
 ## 1. **Upload failed**
 
 It is recommended to use a wired connection for uploading the zips to Catenda. Many wifi routers do a great job at making sure they receive the right data, but even the best routers can struggle with a weak signal if you are far away from the router.

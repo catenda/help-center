@@ -2,7 +2,7 @@
 
 > Shortcuts and keybinds
 
-In this article keybinds to the most important shortcuts and basic controls can be found. This article contains infromation about the following topics:
+In this article keybinds to the most important shortcuts and basic controls can be found.
 
 ## 1. **Project panel interactions**
 
