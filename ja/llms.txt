@@ -28,6 +28,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [Catenda の PDF 上の QR コード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9360508-catenda-の-pdf-上の-qr-コード.md)
 - [Catendaプラグインと連携](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8396532-catendaプラグインと連携.md): プラグイン、統合、アドオンでお気に入りのツールに連携・統合しましょう
 - [トピックの本文 - トピックの内容](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8053352-トピックの本文-トピックの内容.md)
+- [トピックボード設定ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670277-topic-board-settings-page.md)
 - [モデル一覧ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670286-モデル一覧ページ.md)
 - [投稿フォーマットツールボックス](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8430847-投稿フォーマットツールボックス.md): 投稿可能なフィールドの書式設定方法
 - [新しいステータスのワークフロー - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9874698-新しいステータスのワークフロー-iso-19650.md)

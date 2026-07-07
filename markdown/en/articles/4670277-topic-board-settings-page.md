@@ -1,169 +1,169 @@
-# Topic board settings page
+# トピックボード設定ページ
 
-To open the topic board settings page, first open the [topics page](https://support.catenda.com/en/articles/4670271-topics-page).
+トピックボード設定ページを開くには、まず[トピックページ](https://support.catenda.com/en/articles/4670271-topics-page)を開きます。
 
-The settings page of a topic board can be found by clicking on settings of a topic board on the [boards page](https://support.catenda.com/en/articles/9413644-boards-page) which can look something like this:
+トピックボードの設定ページは、[ボードページ](https://support.catenda.com/en/articles/9413644-boards-page)でトピックボードの設定をクリックすると開くことができ、次のような画面になります：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/01-intro.png)
 
-The topic board settings page of the last visited topic board can also be found by going to the [topic settings page](https://support.catenda.com/en/articles/14183429-topic-settings-page) and clicking on topic board settings.
+最後に表示したトピックボードのトピックボード設定ページは、[トピック設定ページ](https://support.catenda.com/en/articles/14183429-topic-settings-page)に移動してトピックボード設定をクリックすることでも開けます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/02-intro.png)
 
-You can find the topic board settings page as a sub page to the [topics page](https://support.catenda.com/en/articles/4670271-topics-page) or by clicking on settings for the respective topic board on the [boards page](https://support.catenda.com/en/articles/9413644-boards-page#h_e0fc8beec6). _Access required:_ Full access to the [topic board](https://support.catenda.com/en/articles/4670271-topics-page)
+トピックボード設定ページは、[トピックページ](https://support.catenda.com/en/articles/4670271-topics-page)のサブページとして、または[ボードページ](https://support.catenda.com/en/articles/9413644-boards-page#h_e0fc8beec6)で各トピックボードの設定をクリックすることで見つけられます。_必要なアクセス権：_ [トピックボード](https://support.catenda.com/en/articles/4670271-topics-page)へのフルアクセス
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/03-intro.png)
 
-This is what the topic board settings page could look like with all its menus closed.
+すべてのメニューを閉じた状態のトピックボード設定ページは、次のようになります。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/04-intro.png)
 
-## 1. **Action menu**
+## 1. **アクションメニュー**
 
-This is what the action menu towards the top righ in a topic board can look like:
+トピックボードの右上にあるアクションメニューは、次のようになります：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/05-action-menu.png)
 
-### 1.1 **New topic**
+### 1.1 **新規トピック**
 
-Click on the green plus button or click on the new topic action in the action menu to createa a [new topic](https://support.catenda.com/en/articles/4670268-creating-a-new-issue) in the current topic board. _Access required:_ Read access to the current topic board.
+緑色のプラスボタンをクリックするか、アクションメニューの新規トピックアクションをクリックすると、現在のトピックボードに[新しいトピック](https://support.catenda.com/en/articles/4670268-creating-a-new-issue)を作成できます。_必要なアクセス権：_ 現在のトピックボードへの読み取りアクセス。
 
-### 1.2 **Exchange topics**
+### 1.2 **トピックの交換**
 
-Click this button to [exchange topics](https://support.catenda.com/en/articles/4670289-exchange-issues)
+このボタンをクリックすると、[トピックを交換](https://support.catenda.com/en/articles/4670289-exchange-issues)できます。
 
-### 1.3 **New topic board**
+### 1.3 **新規トピックボード**
 
-Click this button to make a [new topic board](https://support.catenda.com/en/articles/6379614-topic-board-from-an-existing-topic-board).
+このボタンをクリックすると、[新しいトピックボード](https://support.catenda.com/en/articles/6379614-topic-board-from-an-existing-topic-board)を作成できます。
 
-### 1.4 **History**
+### 1.4 **履歴**
 
-_Import history_ - See the topic import history of the project _Export history_ - See the topic export history of the project _Move history_ - See the topic move history of the project
+_インポート履歴_ - プロジェクトのトピックのインポート履歴を表示します _エクスポート履歴_ - プロジェクトのトピックのエクスポート履歴を表示します _移動履歴_ - プロジェクトのトピックの移動履歴を表示します
 
-### 1.5 **Archive topic board**
+### 1.5 **トピックボードのアーカイブ**
 
-You can not delete an topic board in Catenda Hub Instead you can “archive” it so that it does not show anymore. Links to topics in archived topic boards will not be visible in documents or objects. Archived topic boards can be restored by going to the settings of the archived board on the [boards page](https://support.catenda.com/en/articles/9413644-boards-page). After restoring a board the links will be visible again.
+Catenda Hubではトピックボードを削除することはできません。代わりに「アーカイブ」することで、表示されないようにできます。アーカイブされたトピックボード内のトピックへのリンクは、ドキュメントやオブジェクトに表示されなくなります。アーカイブされたトピックボードは、[ボードページ](https://support.catenda.com/en/articles/9413644-boards-page)でアーカイブされたボードの設定に移動することで復元できます。ボードを復元すると、リンクは再び表示されます。
 
-> **Note:** You can see the topics in an archived topic board by clicking on “topic boards”. At the bottom of that list you can select “View archived”.
+> **Note:** **注：**「トピックボード」をクリックすると、アーカイブされたトピックボード内のトピックを確認できます。リストの一番下で「アーカイブを表示」を選択できます。
 
-## 2. **Topic board information**
+## 2. **トピックボード情報**
 
-_Topic board name_ - Change the name of the topic board _Owner_ - See who made the topic board
+_トピックボード名_ - トピックボードの名前を変更します _所有者_ - トピックボードの作成者を確認します
 
-**Description** Short description that will only be seen here so you and others that are configuring the board know what it is used for.
+**説明**ここにのみ表示される短い説明です。あなたやボードを設定する他のユーザーが、そのボードの用途を把握できるようにするためのものです。
 
-## 3. **Statuses and types**
+## 3. **ステータスとタイプ**
 
-### 3.1 **Lock statuses and types for BCF 1.0 compatibility**
+### 3.1 **BCF 1.0互換性のためにステータスとタイプをロック**
 
-BCF 1.0 only supports 2 statuses ("Open" and "Closed") and 4 types ("Error", "Warning", "Info" and "Unknown"). It is not possible to modify statuses or types on topic boards where this option is selected.
+BCF 1.0は2つのステータス（「Open」と「Closed」）と4つのタイプ（「Error」「Warning」「Info」「Unknown」）のみをサポートしています。このオプションが選択されているトピックボードでは、ステータスやタイプを変更することはできません。
 
-### 3.2 **Status**
+### 3.2 **ステータス**
 
-When you create a topic board you will have the following default statuses:
+トピックボードを作成すると、次のデフォルトステータスが設定されています：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/06-status.png)
 
-A status has a _Name, Color, and Meta-status._ By default there are three statuses that have an open and two that have a closed meta-status.
+ステータスには_名前、色、メタステータス_があります。デフォルトでは、オープンのメタステータスを持つステータスが3つ、クローズのメタステータスを持つステータスが2つあります。
 
-_Add status_ - Click the add status text at the bottom of the status list to add a new status.
+_ステータスを追加_ - ステータスリストの下部にあるステータスを追加テキストをクリックすると、新しいステータスを追加できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/07-status.png)
 
-**Edit status** Upon editing a status you will notice that you can assign a third meta-status called Candidate.
+**ステータスの編集**ステータスを編集すると、「候補（Candidate）」という3つ目のメタステータスを割り当てられることがわかります。
 
-_Color_ - Change the color of the status.
+_色_ - ステータスの色を変更します。
 
-**Arrows** Change the order of a status by using the arrows to move it up or down the list. The top status will be the default status when you make a new topic. The order of the statuses will also be the order the statuses will appear in the dropdown list when changing the status of an topic.
+**矢印**矢印を使ってステータスをリストの上下に移動することで、ステータスの順序を変更できます。一番上のステータスが、新しいトピックを作成したときのデフォルトのステータスになります。ステータスの順序は、トピックのステータスを変更する際にドロップダウンリストに表示される順序にもなります。
 
-**Delete** You can also delete statuses here down to a minimum of 1 open and 1 closed status.
+**削除**ここでステータスを削除することもできます。ただし、最低でもオープンのステータス1つとクローズのステータス1つは必要です。
 
-### 3.3 **Meta-status**
+### 3.3 **メタステータス**
 
-Meta-statuses give a general idea of where in the workflow the status of a topic is. _Open_ - Topics with this meta-status are shown by default when you open an topic board. _Closed -_ Topics with this meta-status are hidden by default when you open an topic board.
+メタステータスは、トピックのステータスがワークフローのどの段階にあるかの大まかな目安になります。_オープン_ - このメタステータスを持つトピックは、トピックボードを開いたときにデフォルトで表示されます。_クローズ -_ このメタステータスを持つトピックは、トピックボードを開いたときにデフォルトで非表示になります。
 
-> **Note:** You can configure who is allowed to change the status of a topic with an open meta-status to a status with a closed meta-status in the [access control section](#h_82063f7a79).
+> **Note:** **注：**オープンのメタステータスを持つトピックのステータスを、クローズのメタステータスを持つステータスへ変更できるユーザーは、[アクセス制御セクション](#h_82063f7a79)で設定できます。
 
-**Candidate** Topics with a candidate meta-status are also hidden by default This status is supposed to be for Topics that are neither open nor closed. The candidate meta-status is meant to be for letting people know an topic is not completely finished drafting yet so it is not open yet. In the flow it is therefore meant to come before open. However, people also use this status for topics that have fallen outside of the regular flow. Like an topic that is not finished and therefore closed but just no longer relevant. People do not want to see it in the list by default and therefore use this meta status.
+**候補**候補のメタステータスを持つトピックも、デフォルトでは非表示になります。このステータスは、オープンでもクローズでもないトピックのためのものです。候補のメタステータスは、トピックの下書きがまだ完全には仕上がっておらず、まだオープンではないことを周知するためのものです。したがって、フローの中ではオープンの前に位置づけられています。ただし、通常のフローから外れたトピックにこのステータスを使う場合もあります。たとえば、未完成のためクローズにはできないものの、もう関連性がなくなったトピックなどです。こうしたトピックをデフォルトでリストに表示したくないため、このメタステータスが使われます。
 
-The minimum amount of statuses is one open status and one closed status.
+最低限必要なステータスは、オープンのステータス1つとクローズのステータス1つです。
 
-### 3.4 **Type**
+### 3.4 **タイプ**
 
-When you create a topic board you will have the following default types:
+トピックボードを作成すると、次のデフォルトタイプが設定されています：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/08-type.png)
 
-Types are configured similarly to statuses except they do not have meta-statuses and you can delete up to a minimum of 1 type.
+タイプはステータスと同様に設定できますが、メタステータスはなく、最低1つのタイプまで削除できます。
 
-## 4. **Custom Fields**
+## 4. **カスタムフィールド**
 
-In this menu you will be able to add and modify custom fields in this topic board. _Access required:_ Full access to the topic board Custom fields can be configured on the [custom fields page](https://support.catenda.com/en/articles/6550459-custom-fields-setup). _Access required:_ Project administrator
+このメニューでは、このトピックボードのカスタムフィールドを追加・変更できます。_必要なアクセス権：_ トピックボードへのフルアクセス カスタムフィールドは[カスタムフィールドページ](https://support.catenda.com/en/articles/6550459-custom-fields-setup)で設定できます。_必要なアクセス権：_ プロジェクト管理者
 
-### 4.1 **Add custom field**
+### 4.1 **カスタムフィールドの追加**
 
-You can add a custom field by clicking on the green Add a custom field button.
+緑色のカスタムフィールドを追加ボタンをクリックすると、カスタムフィールドを追加できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/09-add-custom-field.png)
 
-After clicking on the button you will be able to select your custom field in the add a custom field dialogue.
+ボタンをクリックすると、カスタムフィールドを追加ダイアログでカスタムフィールドを選択できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/10-add-custom-field.png)
 
-**Select a custom field** The following types of custom fields can be made available for a topic board: Date Decimal Dropdown Integer Text
+**カスタムフィールドを選択**トピックボードでは、次のタイプのカスタムフィールドを利用できます：日付 小数 ドロップダウン 整数 テキスト
 
-**Mark as required** Yes or no If the custom field is set as required users will not be able to submit an topic without filling out this custom field.
+**必須にする**はい/いいえ カスタムフィールドが必須に設定されている場合、ユーザーはこのカスタムフィールドに入力しないとトピックを送信できません。
 
-**Set default value** Default value for your custom field type The default value is mandatory when the custom field is marked as required.
+**デフォルト値を設定**カスタムフィールドタイプのデフォルト値です。カスタムフィールドが必須になっている場合、デフォルト値の設定は必須です。
 
-Remember to click add when you are done.
+完了したら、必ず追加をクリックしてください。
 
-> **Note:** It is possible to add up to 30 custom fields per topic board.
+> **Note:** **注：**1つのトピックボードにつき、最大30個のカスタムフィールドを追加できます。
 
-### 4.2 **Modifying custom fields**
+### 4.2 **カスタムフィールドの変更**
 
-By clicking on a custom field that has been added you will be able to configure its settings.
+追加済みのカスタムフィールドをクリックすると、その設定を変更できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/11-modifying-custom-fields.png)
 
-**Mark as required** Yes or no If the custom field is set as required users will not be able to submit an topic without filling out this custom field.
+**必須にする**はい/いいえ カスタムフィールドが必須に設定されている場合、ユーザーはこのカスタムフィールドに入力しないとトピックを送信できません。
 
-**Set default value** Default value for your custom field type The default value is mandatory when the custom field is marked as required.
+**デフォルト値を設定**カスタムフィールドタイプのデフォルト値です。カスタムフィールドが必須になっている場合、デフォルト値の設定は必須です。
 
-**Remove from topic board** Click the remove from topic board button to remove this custom field from the topic board.
+**トピックボードから削除**トピックボードから削除ボタンをクリックすると、このカスタムフィールドをトピックボードから削除できます。
 
-Remember to click submit.
+最後に必ず送信をクリックしてください。
 
-## 5. **Access control**
+## 5. **アクセス制御**
 
-Users will be able to see an overview of what teams and users have which access to this topic  board. If all users have access to creating topic boards the lock will be green. If access has been set for the creation of topic boards in project settings the lock will be orange.
+どのチームやユーザーがこのトピックボードにどのようなアクセス権を持っているかの概要を確認できます。すべてのユーザーがトピックボードの作成権限を持っている場合、ロックは緑色で表示されます。プロジェクト設定でトピックボードの作成にアクセス制限が設定されている場合、ロックはオレンジ色で表示されます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/12-access-control.png)
 
-### 5.1 **Edit access**
+### 5.1 **アクセス権の編集**
 
-Click on "edit access" to configure access the access for this topic board. You can read more about editing access [here](https://support.catenda.com/en/articles/4670296-issue-boards-acl). _Access required:_ Full access to the topic board.
+「アクセス権を編集」をクリックすると、このトピックボードのアクセス権を設定できます。アクセス権の編集の詳細については、[こちら](https://support.catenda.com/en/articles/4670296-issue-boards-acl)をご覧ください。_必要なアクセス権：_ トピックボードへのフルアクセス。
 
-## 6. **Unlinked fields**
+## 6. **未リンクのフィールド**
 
-Topics that are entered into a topic board with fields that do not exist in the topic board are hidden in the topics table by default.
+トピックボードに存在しないフィールドを持つトピックがトピックボードに登録されると、そのトピックはデフォルトでトピックテーブルに表示されません。
 
-An orange bar is then displayed towards the top of the topics table that says that there are unliked fields in the topic board. _Access required:_ administrator
+その場合、トピックボードに未リンクのフィールドがあることを示すオレンジ色のバーがトピックテーブルの上部に表示されます。_必要なアクセス権：_ 管理者
 
-For the topics containing fields with values that do not exist in the topic board to be displayed in the topics table, the fields need to be linked to something that does exist in the topic board.
+トピックボードに存在しない値を持つフィールドを含むトピックをトピックテーブルに表示するには、それらのフィールドをトピックボードに存在するものにリンクする必要があります。
 
-### 6.1 **Fields with non-existing values**
+### 6.1 **存在しない値を持つフィールド**
 
-Examples of fields with values that might not exist in a topic board are:
+トピックボードに存在しない可能性のある値を持つフィールドの例は次のとおりです：
 
-**Status or type** For a topic to be displayed in the topics table it has to have a status and type with a GUID that matches with a GUID of a status and type that is configured for a topic board. Even if the names of the statuses and types are the same in different topic boards, if the topic is moved from one board to another, the status/type will be unlinked as the GUID of a status/type is unique to each topic board.
+**ステータスまたはタイプ**トピックをトピックテーブルに表示するには、トピックボードに設定されているステータスおよびタイプのGUIDと一致するGUIDを持つステータスとタイプが必要です。異なるトピックボード間でステータスやタイプの名前が同じであっても、トピックをあるボードから別のボードへ移動すると、ステータス/タイプのGUIDは各トピックボードに固有のため、ステータス/タイプは未リンクになります。
 
-**Members** For a topic to be displayed in the topics table all members that are part of the topic have to exist in the project. The following fields can contain members in a topic: Assigned user Requesting user Commenting user
+**メンバー**トピックをトピックテーブルに表示するには、トピックに含まれるすべてのメンバーがプロジェクトに存在している必要があります。トピックでは次のフィールドにメンバーが含まれることがあります：担当ユーザー リクエストユーザー コメントユーザー
 
-### 6.2 **Linking fields**
+### 6.2 **フィールドのリンク**
 
-Often multiple topics are imported at a time. To make it so not each individual field has to be changed to an existing value it is possible to mapp all fields of one time to an existing value in the topic board.
+多くの場合、複数のトピックが一度にインポートされます。個々のフィールドを1つずつ既存の値に変更しなくて済むように、同じ種類のフィールドをまとめてトピックボードの既存の値にマッピングすることができます。
 
-**Status or type** For each status and type that does not exist in the topic board, select an existing status or type. The unlinked status or type can have the same name as an existing status or type but might still be unlinked as it has a different GUID in the background. In this case the mapping is simple, just select the status or type with the same name. If a status or type with the same name does not exist in the board the topic was imported to, a status or type with a different name that does exist in the board will have to be selected. If none of them fit, consider adding another status to the list of types or statuses in the topic board.
+**ステータスまたはタイプ**トピックボードに存在しないステータスとタイプごとに、既存のステータスまたはタイプを選択します。未リンクのステータスやタイプは、既存のステータスやタイプと同じ名前であっても、背後で異なるGUIDを持つため未リンクのままの場合があります。この場合のマッピングは簡単で、同じ名前のステータスまたはタイプを選択するだけです。インポート先のボードに同じ名前のステータスやタイプが存在しない場合は、ボードに存在する別の名前のステータスまたはタイプを選択する必要があります。どれも合わない場合は、トピックボードのタイプまたはステータスのリストに新しいステータスを追加することを検討してください。
 
-**Users** Each user in imported topics that does not exist in the project has to be mapped to either a user or team in the project. After mapping, the topics will be be requested by or assigned to this user and any comments will look like they have been made by the mapped user. If the user has changed email addresses the mapping is simple, just select the user by their name with the account that they are using with their new email address. If there is no similar user that can be mapped in the project a good stategy is to create a team that will act as this user. That way it is possible to find all actions from imported topics made by this user by filtering on the mapped team.
+**ユーザー**インポートされたトピックに含まれる、プロジェクトに存在しない各ユーザーは、プロジェクト内のユーザーまたはチームにマッピングする必要があります。マッピング後、トピックはこのユーザーによってリクエストされた、またはこのユーザーに割り当てられたものとなり、コメントはマッピングされたユーザーが作成したように表示されます。ユーザーがメールアドレスを変更した場合のマッピングは簡単で、新しいメールアドレスで使用しているアカウントのユーザーを名前で選択するだけです。プロジェクト内にマッピングできる類似のユーザーがいない場合は、このユーザーの代わりとなるチームを作成するのが良い方法です。そうすることで、マッピングされたチームでフィルタリングすれば、このユーザーが行ったインポートされたトピックのすべてのアクションを見つけることができます。
