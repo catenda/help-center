@@ -56,7 +56,7 @@ You can find out what a topic is linked to in the [right panel](https://support.
 
 ### 3.2 **Linking documents to objects**
 
-You can only add objects to documents and not the other way around see [here](#h_41401e4836).
+You can only add objects to documents and not the other way around see [here](#linking-objects-to-documents).
 
 ## 4. **Linking as much as possible as easily as possible**
 

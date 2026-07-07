@@ -78,7 +78,7 @@ will become: [Catenda Hub](https://hub.catenda.com)
 
 ### 3.4 **Preventing formatting**
 
-By wrapping words in non letter of number characters you can make them look different. This is not always desired. If you put a `\\` in front of such a character, the `\\` will disappear. Any formatting that would have been applied for these characters will then stop working. If you put a `\\` on an empty line that is not part of a [list](#h_6da4949f8c) the result will still be an empty line as well.
+By wrapping words in non letter of number characters you can make them look different. This is not always desired. If you put a `\\` in front of such a character, the `\\` will disappear. Any formatting that would have been applied for these characters will then stop working. If you put a `\\` on an empty line that is not part of a [list](#lists) the result will still be an empty line as well.
 
 ## 4. **Breaking up text and adding structure**
 
@@ -174,9 +174,9 @@ Will turn into:
 
     4. twenty-six
 
-If you wish to reset the numbering and start from one again on a second list within the same post you can put a blank or a [divider](#h_3a36cfbc61) in between.
+If you wish to reset the numbering and start from one again on a second list within the same post you can put a blank or a [divider](#dividers) in between.
 
-To [make sure the list does not get formatted](#h_2ec17c688b) so you can use your own numbering: Put a character on the line above the list. A good choice is `\\` because it will disappear.
+To [make sure the list does not get formatted](#preventing-formatting) so you can use your own numbering: Put a character on the line above the list. A good choice is `\\` because it will disappear.
 
 ```
 \23. twenty-three 24. twenty-four 25. twenty-five     26. twenty-six

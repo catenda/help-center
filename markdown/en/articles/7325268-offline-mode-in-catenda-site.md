@@ -66,7 +66,7 @@ The following information can be added to a new topic that is created without co
 **Editing and submitting new topics**
 
 - You will know you are looking at a new offline topic if you see the gray bar above highest up in the topic.
-- It is possible to edit topics in offline mode that have not been submitted through the [outbox](#h_ff2a47f221) yet
+- It is possible to edit topics in offline mode that have not been submitted through the [outbox](#outbox) yet
 
 ### 1.5 **Outbox**
 

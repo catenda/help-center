@@ -30,7 +30,7 @@ When selected the topic number and title are displayed. Tap on the arrow to open
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/05-toolbar.png)
 
-a. Zoom to extents of the storey - Get an overview b. [3D query](#h_8a2c752641) - Load a section of the 2D view in 3D c. 2D viewer [settings](#h_63e1728758)
+a. Zoom to extents of the storey - Get an overview b. 3D query - Load a section of the 2D view in 3D c. 2D viewer settings
 
 **3D query** If you get an error when loading 3D models it is often because your mobile device cannot handle all the data from one or more models.
 

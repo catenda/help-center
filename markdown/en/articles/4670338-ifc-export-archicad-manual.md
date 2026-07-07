@@ -48,7 +48,7 @@ If you want to merge the IFC you can do that under the same banner.
 
 ### 2.1 Different settings in the export
 
-1\. [Model filter](#h_138e653078) lets you filter out what you want to export by different pre-sets. 2\. [Type mapping](#h_a34c1332a3) lets you choose what kind of IFC type each element is exported as. 3\. [Geometry conversion](#h_db084b5d6b) lets you choose what kind of geometry you want to export. 4\. [Property mapping](#h_d48644eb35) lets you set up criteria based on types. 5\. [Data conversion](#h_7f1df4ecb9) lets you choose what kind of data you want to export from the model. 6\. [Unit conversion](#h_36caead1cd) lets you choose what measuring units you want to export in your IFC.
+1\. [Model filter](#model-filter) lets you filter out what you want to export by different pre-sets. 2\. [Type mapping](#type-mapping) lets you choose what kind of IFC type each element is exported as. 3\. [Geometry conversion](#geometry-conversion) lets you choose what kind of geometry you want to export. 4\. [Property mapping](#property-mapping) lets you set up criteria based on types. 5\. [Data conversion](#data-conversion) lets you choose what kind of data you want to export from the model. 6\. [Unit conversion](#unit-conversion) lets you choose what measuring units you want to export in your IFC.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-different-settings-in-the-export.png)
 

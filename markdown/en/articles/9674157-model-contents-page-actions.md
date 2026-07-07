@@ -18,7 +18,7 @@ As soon as you have uploaded a revision you can download it here
 
 ### 1.2 **New revision**
 
-Click the new revision action or drop a file in the model content list to upload a new revision. Click [here](#h_118c049d47) to read more about uploading a new revision.
+Click the new revision action or drop a file in the model content list to upload a new revision. Click [here](#new-revision) to read more about uploading a new revision.
 
 ### 1.3 **Exports**
 

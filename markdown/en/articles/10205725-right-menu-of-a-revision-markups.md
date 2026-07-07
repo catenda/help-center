@@ -44,15 +44,15 @@ Towards the top of the markup tab you will see the topics dropdown. The topics d
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/04-topic-selection-dropdown.png)
 
-By default [New topics](#h_e79077cdfd) will be selected.
+By default [New topics](#new-topics) will be selected.
 
-_Selecting a topic_ Below that you will see any open or closed topics that are related to your current document. In these topics you will find the document in the related documents in the right menu of the topic. If any markups created on the current revision have been added to a topic you will see an icon with the number to the right of the topic title. This number displays the number of annotations that are part of markups that have been made on the current revision. Click on one of the topics to [select the topic](#h_233bbefe34).
+_Selecting a topic_ Below that you will see any open or closed topics that are related to your current document. In these topics you will find the document in the related documents in the right menu of the topic. If any markups created on the current revision have been added to a topic you will see an icon with the number to the right of the topic title. This number displays the number of annotations that are part of markups that have been made on the current revision. Click on one of the topics to [select the topic](#selected-topic).
 
 **Select another topic** If you would like to select a topic where the current document has not been linked yet you can do so clicking on Select another topic towards the bottom of the list. After clicking on select another topic in the Topic selection dropdown you will be able to navigate to your topic of choice by selecting the topic board on the top left and using the filters on the top right.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/05-topic-selection-dropdown.png)
 
-When you have found the topic want to start adding markups to you can click on select and link. This will make that topic your [currently selected topic](#h_233bbefe34). This will also link your current document to the topic. The link can later be removed again in the right information menu of the topic on the topics page.
+When you have found the topic want to start adding markups to you can click on select and link. This will make that topic your [currently selected topic](#selected-topic). This will also link your current document to the topic. The link can later be removed again in the right information menu of the topic on the topics page.
 
 > **Note:** If you would like to add a markup to a new topic, you can do so by adding an annotation in the document preview and clicking on save markup.
 

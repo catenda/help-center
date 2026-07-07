@@ -16,13 +16,13 @@ The user voice pyramid consists of 6 stages that topics can move up and down in
 
 ### 1.1 **Implementation**
 
-When there is time between bigger assignments developers will be able to start work on any of the topics from the [short list](#h_72d21b37fa).
+When there is time between bigger assignments developers will be able to start work on any of the topics from the [short list](#short-list).
 
 ### 1.2 **Short list**
 
-Topics that have been [qualified](#h_7c19a7e0e3) by the customer success team will be looked at by developers. They will look at the topic and discuss the feasibility of this change.
+Topics that have been [qualified](#customer-success-qualification) by the customer success team will be looked at by developers. They will look at the topic and discuss the feasibility of this change.
 
-The developers keep a short list of topics that are clearly defined and scoped. Whether a [topic gets chosen](#h_fab9c7fb3a) to be worked on or not can depend on a variety of factors:
+The developers keep a short list of topics that are clearly defined and scoped. Whether a topic gets chosen to be worked on or not can depend on a variety of factors:
 
 - Available time and resources
 - Topic priority
@@ -30,11 +30,11 @@ The developers keep a short list of topics that are clearly defined and scoped. 
 
 ### 1.3 **Product qualification**
 
-Before each development period developers will look through the user voice topics that have been qualified by the customer success team. They will discuss the topic to get a sense of how long it might take to make this change and describe any unforeseen technical challenges that could arise during the development of this change. If a topic is qualified by the product team and its timeframe allows for the change to be made in the timeframe between bigger tasks it can be added to the [short list](#h_61cf4dbdbd). If a user voice topic is expected to take one ore more full development periods the topic will be assigned to the [road map](#h_de051c0252).
+Before each development period developers will look through the user voice topics that have been qualified by the customer success team. They will discuss the topic to get a sense of how long it might take to make this change and describe any unforeseen technical challenges that could arise during the development of this change. If a topic is qualified by the product team and its timeframe allows for the change to be made in the timeframe between bigger tasks it can be added to the [short list](#short-list). If a user voice topic is expected to take one ore more full development periods the topic will be assigned to the [road map](#road-map).
 
 ### 1.4 **Customer Success qualification**
 
-Every 3 months new topics are qualified. The status of topics that are unclear will be changed to clarification. Topics that have enough information and have been qualified go on to be [qualified by the product team](#h_e996ac7362).
+Every 3 months new topics are qualified. The status of topics that are unclear will be changed to clarification. Topics that have enough information and have been qualified go on to be [qualified by the product team](#product-qualification).
 
 ### 1.5 **Topic clarification**
 
@@ -42,7 +42,7 @@ If a topic needs more information it can be marked for clarification upon which 
 
 ### 1.6 **Submitting an request**
 
-A user voice topic starts out as a question to one of our employees by a user. Questions can be asked in person, via email or through our the black chat button next to your profile picture on the top right of the page. They are best asked by clicking on the bubble, clicking on the messages menu and then clicking on the "feedback form 🎫" option. a topic will then be made explaining the situation. If a topic already exists the user will be added to the list of people asking about this specific topic. Customer success representatives will then state their priority given to this topic through the use of custom fields which will influence how likely it is that a topic gets [qualified](#h_15e2288bf8).
+A user voice topic starts out as a question to one of our employees by a user. Questions can be asked in person, via email or through our the black chat button next to your profile picture on the top right of the page. They are best asked by clicking on the bubble, clicking on the messages menu and then clicking on the "feedback form 🎫" option. a topic will then be made explaining the situation. If a topic already exists the user will be added to the list of people asking about this specific topic. Customer success representatives will then state their priority given to this topic through the use of custom fields which will influence how likely it is that a topic gets [qualified](#customer-success-qualification).
 
 ## 2. **Large or unfeasible requests**
 

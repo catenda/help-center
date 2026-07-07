@@ -28,7 +28,7 @@ The different filters in the filter menu will only show up if there are topics w
 
 Assigned to me - `assigned-user=\<User GUID>&assigned-team=\<Team GUID>` _Assigned User_ - `assigned-user=\<User GUID>` _My teams_ - `assigned-team=\<Team GUID>` _Requested by me_ - `requester-user=\<Your GUID>` Topics _I follow_ - `followed-by=me` _mentioning me_ - `mentioned=me`
 
-> **Note:** If you share a link with the "Topic I follow" or the "mentioning me" filters active the user opening the link will have their topic board filtered for topic  they follow and topics they have been mentioned in and not topics you follow and topics you are mentioned in. To share topics you have been mentioned in please use [text search](#h_7fc30a16f0)
+> **Note:** If you share a link with the "Topic I follow" or the "mentioning me" filters active the user opening the link will have their topic board filtered for topic  they follow and topics they have been mentioned in and not topics you follow and topics you are mentioned in. To share topics you have been mentioned in please use [text search](#text-search)
 
 _Created by me_ - `created-by=\<User GUID>`
 

@@ -10,7 +10,7 @@ The plus button and hamburger menu items can be found towards the top right of t
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/01-new-item-actions.png)
 
-The actions you are able to find here all have to do with creating new information. [Selected item actions](#h_fb4e9ef375) that have to do with existing items on the page can also be found towards the top of the list after making a selection.
+The actions you are able to find here all have to do with creating new information. [Selected item actions](#selected-item-actions) that have to do with existing items on the page can also be found towards the top of the list after making a selection.
 
 ### 1.1 **Upload**
 

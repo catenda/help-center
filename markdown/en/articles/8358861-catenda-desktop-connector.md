@@ -56,7 +56,7 @@ Find Desktop Connector in the list and click on the action menu on the right han
 
 ## 4. **Sign in**
 
-When the Desktop Connector is first opened a sign in request is displayed. Click on the Sign-in button to open the default browser on the system on the Catenda Sign-in page. After logging in or if already logged in click on allow access to grant access to Catenda account that is logged in. After clicking on allow access the browser will prompt the user to open the Desktop Connector application. Giving permisison to opening the application redirects back to the Desktop Connector [home page](#h_097078145d).
+When the Desktop Connector is first opened a sign in request is displayed. Click on the Sign-in button to open the default browser on the system on the Catenda Sign-in page. After logging in or if already logged in click on allow access to grant access to Catenda account that is logged in. After clicking on allow access the browser will prompt the user to open the Desktop Connector application. Giving permisison to opening the application redirects back to the Desktop Connector [home page](#home-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/01-sign-in.png)
 
@@ -120,7 +120,7 @@ The task has to at least have one day selected to be saved
 
 ### 7.3 **Project location**
 
-**Server** Click on browse to select the destination on the Documents page in Catenda Hub  where files should be synchronized to. Click [here](#h_4446f1b663) to read more about selecting the server directory path
+**Server** Click on browse to select the destination on the Documents page in Catenda Hub  where files should be synchronized to. Click [here](#server-location) to read more about selecting the server directory path
 
 **Local** Select the location on the local system from where files should be sychronizes.
 
@@ -144,7 +144,7 @@ The task has to at least have one day selected to be saved
 
 ### 8.3 **Project location**
 
-**Server** Select the location on Catenda Hub from where documents should be downloaded. Click [here](#h_4446f1b663) to read more about selecting the server directory path
+**Server** Select the location on Catenda Hub from where documents should be downloaded. Click [here](#server-location) to read more about selecting the server directory path
 
 **Local** Select the destination on the local system where files should be downloaded to.
 
@@ -154,7 +154,7 @@ A task does nto have to be saved to start downloading. Click on the Download now
 
 ### 8.5 Back button
 
-Click on the arrow button to go back to the [home page](#h_097078145d)
+Click on the arrow button to go back to the [home page](#home-page)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
@@ -216,7 +216,7 @@ The status of this task.
 
 ### 10.5 **Back button**
 
-Click this button to go back to the [home page](#h_097078145d)
+Click this button to go back to the [home page](#home-page)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 

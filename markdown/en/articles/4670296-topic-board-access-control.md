@@ -14,7 +14,7 @@ Here the name and the owner of the topic board are displayed
 
 ## 2. **Extensions - Close topics**
 
-Limit who can close and reopen topics by limiting who can change the status of a topic to a status with an open meta-status and a status with a closed meta-status. When you enable this feature you will see a [close topics column](#h_3e36186c6f) appear next to the access column.
+Limit who can close and reopen topics by limiting who can change the status of a topic to a status with an open meta-status and a status with a closed meta-status. When you enable this feature you will see a [close topics column](#close-topics-column) appear next to the access column.
 
 ## 3. **Define access for**
 

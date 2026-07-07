@@ -8,15 +8,15 @@ The highest access in Catenda is organization access. This is usually given to o
 
 ## 2. **Administrator access**
 
-Administrator always has full access to everything in a project. It is therefore important to be careful when giving the administrator role to project members. There are [some parts of a project](#h_eeea52ad11) where only administrators have access.
+Administrator always has full access to everything in a project. It is therefore important to be careful when giving the administrator role to project members. There are [some parts of a project](#administrator-access-2) where only administrators have access.
 
 ## 3. **Member access**
 
-Regular members can be given access to different [parts of a project](#h_5e8171c200) either by team or per member.
+Regular members can be given access to different [parts of a project](#project-areas-where-access-can-be-configured) either by team or per member.
 
 ### 3.1 **Specific member**
 
-Each member can be given their own access in [different parts of a project](#h_5e8171c200).
+Each member can be given their own access in [different parts of a project](#project-areas-where-access-can-be-configured).
 
 > **Note:** that a member might have access through one of their teams if they have not been given specific access.
 
@@ -30,7 +30,7 @@ Each member can be given their own access in [different parts of a project](#h_5
 
 ### 3.2 **Team**
 
-Members that are part of teams always get the highest access in [different parts of a project](#h_5e8171c200) that is given to any of the teams they are part of.
+Members that are part of teams always get the highest access in [different parts of a project](#project-areas-where-access-can-be-configured) that is given to any of the teams they are part of.
 
 > **Note:** that this can be overwritten by specific member access.
 

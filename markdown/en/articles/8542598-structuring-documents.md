@@ -102,7 +102,7 @@ After working with a document structure for a bit you will notice that you start
 
 **Or maybe even simpler:** 010101\_Models\_ARC\_Window 010102\_Models\_ARC\_Wall 010201\_Models\_MEP\_Ducts 010202\_Models\_MEP\_Vents 010301\_Models\_\_STR 020101\_Drawings
 
-As you can see, adding multiple folders that are similar on the same level can help reduce the amount of clicks it takes to get down to the folder containing the documents you are looking for. Another thing you might notice is that the more you simply the folder structure, the longer the file names become. When filenames become too long they become hard to read. It is therefore important to keep a balance between [file name length](#h_7549bd95d9) and [folder depth](#h_e27bb794b2).
+As you can see, adding multiple folders that are similar on the same level can help reduce the amount of clicks it takes to get down to the folder containing the documents you are looking for. Another thing you might notice is that the more you simply the folder structure, the longer the file names become. When filenames become too long they become hard to read. It is therefore important to keep a balance between [file name length](#naming-length) and [folder depth](#subfolders).
 
 ## 3. **Folder structure**
 

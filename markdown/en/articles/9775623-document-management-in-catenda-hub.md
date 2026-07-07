@@ -2,7 +2,7 @@
 
 An essential part of the Common Data Environment Catenda HUB is the document area. This article explains how you can structure this area and use the individual features for better organization. There are 3 approaches to organizing the document area.
 
-1\. [A classic folder structure](#h_62e4c2f0f2) in which documents and files are stored in an organized manner 2\. [The use of metadata](#h_90254e727f) to enable the organization of documents and files, as well as the retrieval of files. 3\. [Combination](#h_ca9aca4218) of folder structure and metadata
+1\. [A classic folder structure](#classic-folder-structure) in which documents and files are stored in an organized manner 2\. [The use of metadata](#document-structure-based-on-metadata) to enable the organization of documents and files, as well as the retrieval of files. 3\. [Combination](#combination-of-both-variants) of folder structure and metadata
 
 > **Note:** A combination of these two variants often makes sense and offers many advantages.
 

@@ -24,14 +24,14 @@ Click on Open to import documents or models that you have access to in Catenda H
 
 After clicking on open, your default browser will open up.
 
-- [Cancel your browser session](#h_e921d649ed) if you wish to cancel this process and keep working with Solibri
-- If you have not done so already, [grant access to your account](#h_55ca1d4d10).
-- If you have not yet selected a project, select a project on the [projects page](#h_343870704c).
-- After selecting a project, or if you have previously selected a project, you can select the [documents page](#h_b7ac757915) (_default_) or the [models page](#h_617a3f8bf6).
+- [Cancel your browser session](#cancel-browser-session) if you wish to cancel this process and keep working with Solibri
+- If you have not done so already, [grant access to your account](#granting-access-to-your-catenda-account).
+- If you have not yet selected a project, select a project on the [projects page](#solibri-document-integration-projects-page).
+- After selecting a project, or if you have previously selected a project, you can select the [documents page](#solibri-document-integration-documents-page) (_default_) or the [models page](#solibri-document-integration-models-page).
 
 ## 3. **Exporting Solibri session to Catenda**
 
-For the Upload model button to become available you have to have [connected your Catenda account](#h_457cbf4e9d) and have at least one file in your Solibri session. Click on Upload model to export your Solibri session a part of your Catenda project that you have access to.
+For the Upload model button to become available you have to have [connected your Catenda account](#granting-access-to-your-catenda-account) and have at least one file in your Solibri session. Click on Upload model to export your Solibri session a part of your Catenda project that you have access to.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/05-exporting-solibri-session-to-catenda.png)
 
@@ -43,10 +43,10 @@ The .smc that has been saved can now be exported as a new revision to Catenda an
 
 After clicking on Upload Model, your default browser will open up.
 
-- [Cancel your browser session](#h_e921d649ed) if you wish to cancel this process and keep working with Solibri
-- If you have not done so already, [grant access to your account](#h_55ca1d4d10).
-- If you have not yet selected a project, select a project on the [projects page](#h_343870704c).
-- After selecting a project, or if you have previously selected a project, you will be presented with the [documents page](#h_b7ac757915).
+- [Cancel your browser session](#cancel-browser-session) if you wish to cancel this process and keep working with Solibri
+- If you have not done so already, [grant access to your account](#granting-access-to-your-catenda-account).
+- If you have not yet selected a project, select a project on the [projects page](#solibri-document-integration-projects-page).
+- After selecting a project, or if you have previously selected a project, you will be presented with the [documents page](#solibri-document-integration-documents-page).
 
 ## 4. **Solibri document integration -** Projects page
 

@@ -10,7 +10,7 @@ The plus button and action menu items can be found towards the top right of the 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/02-new-item-actions.png)
 
-The actions you are able to find here all have to do with creating new information. [Selected item actions](#h_b5c00c149b) that have to do with existing items on the page can also be found towards the top of the table after making a selection.
+The actions you are able to find here all have to do with creating new information. [Selected item actions](#selected-item-actions) that have to do with existing items on the page can also be found towards the top of the table after making a selection.
 
 ### 1.1 **New topic**
 

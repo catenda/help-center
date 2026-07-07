@@ -56,7 +56,7 @@ It is recommended to have the Information panel and Measure menu open while doin
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/08-measurement-menu.png)
 
-**Clear measures** Click [here](#h_7b050901dd) to see how to clear measures
+**Clear measures** Click [here](#clear-measures) to see how to clear measures
 
 **Units** By default you will see the measurement unit configured by your administrator in project settings. Choose different measuring units, Millimeters, Centimeters and Meters.
 

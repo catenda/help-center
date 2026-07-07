@@ -85,7 +85,7 @@ After connecting an MFA code you can safely edit the account name of the code. Y
 
 1. Disable your MFA on the [authentication page](https://hub.catenda.com/account/authentication)
 1. Prepare the app you want to use to re-connect your MFA
-1. Generate a new code-pair by scanning the QR code like in the [enabling section](#h_9e13fd06f5)
+1. Generate a new code-pair by scanning the QR code like in the [enabling section](#enabling-mfa)
 
 > **Note:** Be careful with this method as your account will temporarily be vulnerable while it is deactivated and you will not be able to access projects where MFA is required during this time.
 

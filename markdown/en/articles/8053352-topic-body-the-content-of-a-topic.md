@@ -110,7 +110,7 @@ It is also possible to highlight the text box of the comment and paste an image 
 
 **Connect image to 3D** When an image is added to a comment it will say "No viewer connection" under the image unless a model is loaded in the 3D viewer. The text "Connect to 3D viewpoint" is displayed. The image can now connect it to objects and a position in the viewer. Submit this comment to play back the viewpoint by clicking on the play button. Annotations can be added to the image after adding the image and before submitting the comment.
 
-**Image pop-out** The image that is attached to the comment after the comment is submitted can be [popped-out](#h_e36d14edc8) to see a its contents in a larger format and download it after it has been submitted.
+**Image pop-out** The image that is attached to the comment after the comment is submitted can be popped-out to see a its contents in a larger format and download it after it has been submitted.
 
 **Deleting an image from a comment** Images that are attached to comments cannot be edited or deleted from the comment. Delete the whole comment to remove the image from the topic.
 
@@ -153,7 +153,7 @@ The document preview will not show the document if: The document revision has be
 
 If the annotation is made on a PDF comparison the revision numbers of the two revisions that are compared are displayed.
 
-**Image pop-out** The image that is attached to the comment after the comment is submitted can be [popped-out](#h_e36d14edc8) to see a its contents in a larger format and download it after it has been submitted.
+**Image pop-out** The image that is attached to the comment after the comment is submitted can be popped-out to see a its contents in a larger format and download it after it has been submitted.
 
 ### 5.6 **New comment**
 

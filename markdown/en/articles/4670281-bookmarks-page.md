@@ -26,7 +26,7 @@ _All_ - `type=all` All bookmarks you have access to
 
 My bookmarks - `type=my` - Default Your private bookmarks
 
-_Starred bookmarks_ - `type=starred` If you have any starred bookmarks you will be able to see all bookmarks you have [starred](#h_a2d5caf18c) with this filter.
+_Starred bookmarks_ - `type=starred` If you have any starred bookmarks you will be able to see all bookmarks you have [starred](#top-left-icon) with this filter.
 
 _Shared bookmarks_ - `type=shared` All bookmarks you have shared with the projects
 

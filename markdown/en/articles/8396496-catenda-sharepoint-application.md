@@ -35,7 +35,7 @@ After clicking on Publish to Catenda the following menu will open that can look 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/04-publishing-the-file.png)
 
-If you have not given SharePoint access to your Catenda account you will be asked to authorize it. [See below](#h_788fe15988) for how to authorize your account.
+If you have not given SharePoint access to your Catenda account you will be asked to authorize it. [See below](#authorizing-your-catenda-account) for how to authorize your account.
 
 **Selecting a folder** If you have granted access to your Catenda account you can select the project, library and the destination folder on Catenda, and publish.
 

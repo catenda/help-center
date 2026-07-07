@@ -34,7 +34,7 @@ The Catenda Hub tab will allow you to configure what notifications you receive i
 
 ## 4. **Email notifications**
 
-The email tab will allow you to configure what notifications you receive via email. By default you get sent one email per notification on Catenda Hub. If you change your email notifications you will still get all the notifications on Catenda Hub as you configured [above](#h_e4a9ba5c0c)
+The email tab will allow you to configure what notifications you receive via email. By default you get sent one email per notification on Catenda Hub. If you change your email notifications you will still get all the notifications on Catenda Hub as you configured [above](#email-notifications)
 
 ### 4.1 **Email summary**
 

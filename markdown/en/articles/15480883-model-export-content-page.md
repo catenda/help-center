@@ -34,7 +34,7 @@ The revisions list contains a list of all model revisions in the export. This is
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3ajw00qp/02-revisions-included-in-this-export.png)
 
-Click on the included revision card to open the [included revisions contents page](#h_e68c2c044b).
+Click on the included revision card to open the [included revisions contents page](#included-revision-content-page).
 
 > **Note:** Revisions from models that have since been removed are not displayed in this list.
 

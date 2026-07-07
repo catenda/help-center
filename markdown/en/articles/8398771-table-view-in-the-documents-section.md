@@ -58,7 +58,7 @@ On the top right of the documents table you will find a very powerful new featur
 
 ### 2.2 **Column header row**
 
-**Dragging columns** You can drag on the header of the column in the header row to move it left and right. If you drag the header outside of the table it will be hidden. To get the header back you will have to enable it again in the [column drop down](#h_5f5f6862d0).
+**Dragging columns** You can drag on the header of the column in the header row to move it left and right. If you drag the header outside of the table it will be hidden. To get the header back you will have to enable it again in the [column drop down](#column-dropdown).
 
 **Auto resize** Double click the divider between columns to auto resize to the content of the column. This is useful viewing long document names. The widths you change will only change for the user and not all users in the project.
 

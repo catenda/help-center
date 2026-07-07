@@ -26,7 +26,7 @@ When you make a new collection you will be asked to fill out the following dialo
 
 **Name** To make a collection it has to at least have a name. The description and documents can be configured before submitting but can also be edited after the collection is submitted.
 
-**Add documents** To add documents click on the [add documents button](#h_b94d108342).
+**Add documents** To add documents click on the [add documents button](#adding-documents-to-collections).
 
 **Submit** When you submit your collection you will be taken to the collections [collection page](https://support.catenda.com/en/articles/8999764-collection-page). The collection will be a [private collection](https://support.catenda.com/en/articles/8999764-collection-page#h_0b76040299) that only you can see. You will still be able to edit this collection before sharing it with the rest of the project.
 

@@ -7,7 +7,7 @@ Your [account settings](https://bimsync.com/account/profile) can be found in two
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/01-intro.png)
 
-The [account page](#h_38e4a79227) has three sub pages.
+The [account page](#account-page) has three sub pages.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/02-intro.png)
 

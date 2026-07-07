@@ -286,7 +286,7 @@ The Catenda Hub tab will allow you to configure what notifications you receive i
 
 ## 4. **Email notifications**
 
-The email tab will allow you to configure what notifications you receive via email. By default you get sent one email per notification on Catenda Hub. If you change your email notifications you will still get all the notifications on Catenda Hub as you configured [above](#h_e4a9ba5c0c)
+The email tab will allow you to configure what notifications you receive via email. By default you get sent one email per notification on Catenda Hub. If you change your email notifications you will still get all the notifications on Catenda Hub as you configured [above](#email-notifications)
 
 ### 4.1 **Email summary**
 
@@ -349,7 +349,7 @@ Your [account settings](https://bimsync.com/account/profile) can be found in two
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/01-intro.png)
 
-The [account page](#h_38e4a79227) has three sub pages.
+The [account page](#account-page) has three sub pages.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/02-intro.png)
 
@@ -1403,7 +1403,7 @@ After connecting an MFA code you can safely edit the account name of the code. Y
 
 1. Disable your MFA on the [authentication page](https://hub.catenda.com/account/authentication)
 1. Prepare the app you want to use to re-connect your MFA
-1. Generate a new code-pair by scanning the QR code like in the [enabling section](#h_9e13fd06f5)
+1. Generate a new code-pair by scanning the QR code like in the [enabling section](#enabling-mfa)
 
 > **Note:** Be careful with this method as your account will temporarily be vulnerable while it is deactivated and you will not be able to access projects where MFA is required during this time.
 
@@ -1876,7 +1876,7 @@ This is what the projects page can look like:
 
 ## 1. **Open a project**
 
-Click on the [project thumbnail](#h_303c7e9962) or chosen project in the [projects list](#h_1285a6d343). You will then be taken to the [Dashboard](https://support.catenda.com/en/articles/8212646-dashboard-page) of the project.
+Click on the project thumbnail or chosen project in the [projects list](#projects-list). You will then be taken to the [Dashboard](https://support.catenda.com/en/articles/8212646-dashboard-page) of the project.
 
 ## 2. **Left navigation menu**
 
@@ -2646,7 +2646,7 @@ When selected the topic number and title are displayed. Tap on the arrow to open
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/05-toolbar.png)
 
-a. Zoom to extents of the storey - Get an overview b. [3D query](#h_8a2c752641) - Load a section of the 2D view in 3D c. 2D viewer [settings](#h_63e1728758)
+a. Zoom to extents of the storey - Get an overview b. 3D query - Load a section of the 2D view in 3D c. 2D viewer settings
 
 **3D query** If you get an error when loading 3D models it is often because your mobile device cannot handle all the data from one or more models.
 
@@ -3484,7 +3484,7 @@ It is recommended to have the Information panel and Measure menu open while doin
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/08-measurement-menu.png)
 
-**Clear measures** Click [here](#h_7b050901dd) to see how to clear measures
+**Clear measures** Click [here](#clear-measures) to see how to clear measures
 
 **Units** By default you will see the measurement unit configured by your administrator in project settings. Choose different measuring units, Millimeters, Centimeters and Meters.
 
@@ -3648,15 +3648,15 @@ The highest access in Catenda is organization access. This is usually given to o
 
 ## 2. **Administrator access**
 
-Administrator always has full access to everything in a project. It is therefore important to be careful when giving the administrator role to project members. There are [some parts of a project](#h_eeea52ad11) where only administrators have access.
+Administrator always has full access to everything in a project. It is therefore important to be careful when giving the administrator role to project members. There are [some parts of a project](#administrator-access-2) where only administrators have access.
 
 ## 3. **Member access**
 
-Regular members can be given access to different [parts of a project](#h_5e8171c200) either by team or per member.
+Regular members can be given access to different [parts of a project](#project-areas-where-access-can-be-configured) either by team or per member.
 
 ### 3.1 **Specific member**
 
-Each member can be given their own access in [different parts of a project](#h_5e8171c200).
+Each member can be given their own access in [different parts of a project](#project-areas-where-access-can-be-configured).
 
 > **Note:** that a member might have access through one of their teams if they have not been given specific access.
 
@@ -3670,7 +3670,7 @@ Each member can be given their own access in [different parts of a project](#h_5
 
 ### 3.2 **Team**
 
-Members that are part of teams always get the highest access in [different parts of a project](#h_5e8171c200) that is given to any of the teams they are part of.
+Members that are part of teams always get the highest access in [different parts of a project](#project-areas-where-access-can-be-configured) that is given to any of the teams they are part of.
 
 > **Note:** that this can be overwritten by specific member access.
 
@@ -5031,7 +5031,7 @@ In the public URL sharing part of a bookmark you can create a public URL. Public
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/04-public-url-sharing.png)
 
-To create a public URL the bookmark first has to be [shared with the project](#h_5c9944a45e).
+To create a public URL the bookmark first has to be [shared with the project](#share-with-project).
 
 **Enable public url** To enable a public bookmark click on Edit sharing and check the "Enable public url" checkbox. _Access required:_ Project administrator
 
@@ -5113,7 +5113,7 @@ _All_ - `type=all` All bookmarks you have access to
 
 My bookmarks - `type=my` - Default Your private bookmarks
 
-_Starred bookmarks_ - `type=starred` If you have any starred bookmarks you will be able to see all bookmarks you have [starred](#h_a2d5caf18c) with this filter.
+_Starred bookmarks_ - `type=starred` If you have any starred bookmarks you will be able to see all bookmarks you have [starred](#top-left-icon) with this filter.
 
 _Shared bookmarks_ - `type=shared` All bookmarks you have shared with the projects
 
@@ -5349,7 +5349,7 @@ Find Desktop Connector in the list and click on the action menu on the right han
 
 ## 4. **Sign in**
 
-When the Desktop Connector is first opened a sign in request is displayed. Click on the Sign-in button to open the default browser on the system on the Catenda Sign-in page. After logging in or if already logged in click on allow access to grant access to Catenda account that is logged in. After clicking on allow access the browser will prompt the user to open the Desktop Connector application. Giving permisison to opening the application redirects back to the Desktop Connector [home page](#h_097078145d).
+When the Desktop Connector is first opened a sign in request is displayed. Click on the Sign-in button to open the default browser on the system on the Catenda Sign-in page. After logging in or if already logged in click on allow access to grant access to Catenda account that is logged in. After clicking on allow access the browser will prompt the user to open the Desktop Connector application. Giving permisison to opening the application redirects back to the Desktop Connector [home page](#home-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/01-sign-in.png)
 
@@ -5413,7 +5413,7 @@ The task has to at least have one day selected to be saved
 
 ### 7.3 **Project location**
 
-**Server** Click on browse to select the destination on the Documents page in Catenda Hub  where files should be synchronized to. Click [here](#h_4446f1b663) to read more about selecting the server directory path
+**Server** Click on browse to select the destination on the Documents page in Catenda Hub  where files should be synchronized to. Click [here](#server-location) to read more about selecting the server directory path
 
 **Local** Select the location on the local system from where files should be sychronizes.
 
@@ -5437,7 +5437,7 @@ The task has to at least have one day selected to be saved
 
 ### 8.3 **Project location**
 
-**Server** Select the location on Catenda Hub from where documents should be downloaded. Click [here](#h_4446f1b663) to read more about selecting the server directory path
+**Server** Select the location on Catenda Hub from where documents should be downloaded. Click [here](#server-location) to read more about selecting the server directory path
 
 **Local** Select the destination on the local system where files should be downloaded to.
 
@@ -5447,7 +5447,7 @@ A task does nto have to be saved to start downloading. Click on the Download now
 
 ### 8.5 Back button
 
-Click on the arrow button to go back to the [home page](#h_097078145d)
+Click on the arrow button to go back to the [home page](#home-page)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
@@ -5509,7 +5509,7 @@ The status of this task.
 
 ### 10.5 **Back button**
 
-Click this button to go back to the [home page](#h_097078145d)
+Click this button to go back to the [home page](#home-page)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
@@ -6090,7 +6090,7 @@ In the topic list, you will find all the main information about an topic:
 1. The image of the first comment in the topic
 1. Catenda Hub topic number
 
-You can click on any topic to go to the [topic detail page](#h_445d3efa52).
+You can click on any topic to go to the [topic detail page](#topic-details).
 
 ### 4.5 **Sort topics**
 
@@ -6137,7 +6137,7 @@ In this view, you can review and edit a specific topic.
 
 ![IssueDetailView.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/13-interface.png)
 
-1. Go back to the [Topic List](#h_642fa61854)
+1. Go back to the [Topic List](#topic-list)
 1. Refresh the content of this topic
 1. Navigate between topics
 1. Set the topic status (Open, Closed, …)
@@ -6172,7 +6172,7 @@ All comments are displayed below the topic. A comment can contains text, a pictu
 
 1. The author of the comment
 1. When the comment was created. You can hover over the date to display the full date and time of update.
-1. The [zoom button](#h_d873968c27) (see chapter below)
+1. The [zoom button](#zoom) (see chapter below)
 1. The image associated with the comment
 1. The text of the comment
 
@@ -6186,7 +6186,7 @@ For the viewpoint to be relevant, you must have opened the same model than the o
 
 If the viewpoint has been created from a perspective view, the new 3D view will have its projection mode set to “Perspective”. Otherwise, the projection mode will be “Orthographic”.
 
-The add-in will create only one perspective view and one orthographic view. After having created them, it will reuse them for any subsequent use of the zoom function. You can change that in the [settings menu](#h_b02502c589). You can also use the settings menu to change the name of these view.
+The add-in will create only one perspective view and one orthographic view. After having created them, it will reuse them for any subsequent use of the zoom function. You can change that in the settings menu. You can also use the settings menu to change the name of these view.
 
 ### 5.5 **Related elements**
 
@@ -6247,7 +6247,7 @@ After clicking on Publish to Catenda the following menu will open that can look 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/04-publishing-the-file.png)
 
-If you have not given SharePoint access to your Catenda account you will be asked to authorize it. [See below](#h_788fe15988) for how to authorize your account.
+If you have not given SharePoint access to your Catenda account you will be asked to authorize it. [See below](#authorizing-your-catenda-account) for how to authorize your account.
 
 **Selecting a folder** If you have granted access to your Catenda account you can select the project, library and the destination folder on Catenda, and publish.
 
@@ -6651,7 +6651,7 @@ When you make a new collection you will be asked to fill out the following dialo
 
 **Name** To make a collection it has to at least have a name. The description and documents can be configured before submitting but can also be edited after the collection is submitted.
 
-**Add documents** To add documents click on the [add documents button](#h_b94d108342).
+**Add documents** To add documents click on the [add documents button](#adding-documents-to-collections).
 
 **Submit** When you submit your collection you will be taken to the collections [collection page](https://support.catenda.com/en/articles/8999764-collection-page). The collection will be a [private collection](https://support.catenda.com/en/articles/8999764-collection-page#h_0b76040299) that only you can see. You will still be able to edit this collection before sharing it with the rest of the project.
 
@@ -8972,7 +8972,7 @@ See more about withdrawing revisions [here](https://support.catenda.com/en/artic
 
 # Document settings page
 
-The documents library settings can be found as a sub page to the [Documents page](https://support.catenda.com/en/articles/8204673-documents-page). On this page access to the top level of the documents page can be configured and and access oveview can be generated. The status workflow can be enabled allowing project members to keep track of how far along in a workflow a revision has gotten. Workflows for approving a revision to go to the next stage can be configured. Default metadata, naming conventions or QR code stamping can be configured for folders and documents. _Access required:_ Administrator or access to [document status configuration](#h_e6f3ffdbff) in [project settings](https://support.catenda.com/en/articles/4670273-project-settings-page).
+The documents library settings can be found as a sub page to the [Documents page](https://support.catenda.com/en/articles/8204673-documents-page). On this page access to the top level of the documents page can be configured and and access oveview can be generated. The status workflow can be enabled allowing project members to keep track of how far along in a workflow a revision has gotten. Workflows for approving a revision to go to the next stage can be configured. Default metadata, naming conventions or QR code stamping can be configured for folders and documents. _Access required:_ Administrator or access to document status configuration in [project settings](https://support.catenda.com/en/articles/4670273-project-settings-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zae8a0s9/01-intro.png)
 
@@ -9267,7 +9267,7 @@ The plus button and hamburger menu items can be found towards the top right of t
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/01-new-item-actions.png)
 
-The actions you are able to find here all have to do with creating new information. [Selected item actions](#h_fb4e9ef375) that have to do with existing items on the page can also be found towards the top of the list after making a selection.
+The actions you are able to find here all have to do with creating new information. [Selected item actions](#selected-item-actions) that have to do with existing items on the page can also be found towards the top of the list after making a selection.
 
 ### 1.1 **Upload**
 
@@ -10495,7 +10495,7 @@ The different filters in the filter menu will only show up if there are topics w
 
 Assigned to me - `assigned-user=\<User GUID>&assigned-team=\<Team GUID>` _Assigned User_ - `assigned-user=\<User GUID>` _My teams_ - `assigned-team=\<Team GUID>` _Requested by me_ - `requester-user=\<Your GUID>` Topics _I follow_ - `followed-by=me` _mentioning me_ - `mentioned=me`
 
-> **Note:** If you share a link with the "Topic I follow" or the "mentioning me" filters active the user opening the link will have their topic board filtered for topic  they follow and topics they have been mentioned in and not topics you follow and topics you are mentioned in. To share topics you have been mentioned in please use [text search](#h_7fc30a16f0)
+> **Note:** If you share a link with the "Topic I follow" or the "mentioning me" filters active the user opening the link will have their topic board filtered for topic  they follow and topics they have been mentioned in and not topics you follow and topics you are mentioned in. To share topics you have been mentioned in please use [text search](#text-search)
 
 _Created by me_ - `created-by=\<User GUID>`
 
@@ -10657,7 +10657,7 @@ Here you see all the folders in the project. Clicking on the arrow or anywhere o
 
 This can help a lot with seeing the results of the configured folder after configuring it.
 
-**Add configuration** Click the + button to the right of a folder to open the [folder configuration dialogue](#h_96b6c91fe4). If there are configurations in sub folders you will not be able to make a configuration for the folder.
+**Add configuration** Click the + button to the right of a folder to open the [folder configuration dialogue](#folder-configuration-dialogue). If there are configurations in sub folders you will not be able to make a configuration for the folder.
 
 **Preview configuration** If a configuration is set for a folder you will be able to quickly see what configuration has been set by clicking on the eye icon. The configuration preview can look something like this:
 
@@ -10942,7 +10942,7 @@ If you want to merge the IFC you can do that under the same banner.
 
 ### 2.1 Different settings in the export
 
-1\. [Model filter](#h_138e653078) lets you filter out what you want to export by different pre-sets. 2\. [Type mapping](#h_a34c1332a3) lets you choose what kind of IFC type each element is exported as. 3\. [Geometry conversion](#h_db084b5d6b) lets you choose what kind of geometry you want to export. 4\. [Property mapping](#h_d48644eb35) lets you set up criteria based on types. 5\. [Data conversion](#h_7f1df4ecb9) lets you choose what kind of data you want to export from the model. 6\. [Unit conversion](#h_36caead1cd) lets you choose what measuring units you want to export in your IFC.
+1\. [Model filter](#model-filter) lets you filter out what you want to export by different pre-sets. 2\. [Type mapping](#type-mapping) lets you choose what kind of IFC type each element is exported as. 3\. [Geometry conversion](#geometry-conversion) lets you choose what kind of geometry you want to export. 4\. [Property mapping](#property-mapping) lets you set up criteria based on types. 5\. [Data conversion](#data-conversion) lets you choose what kind of data you want to export from the model. 6\. [Unit conversion](#unit-conversion) lets you choose what measuring units you want to export in your IFC.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-different-settings-in-the-export.png)
 
@@ -12135,7 +12135,7 @@ As soon as you have uploaded a revision you can download it here
 
 ### 1.2 **New revision**
 
-Click the new revision action or drop a file in the model content list to upload a new revision. Click [here](#h_118c049d47) to read more about uploading a new revision.
+Click the new revision action or drop a file in the model content list to upload a new revision. Click [here](#new-revision) to read more about uploading a new revision.
 
 ### 1.3 **Exports**
 
@@ -12213,7 +12213,7 @@ The revisions list contains a list of all model revisions in the export. This is
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3ajw00qp/02-revisions-included-in-this-export.png)
 
-Click on the included revision card to open the [included revisions contents page](#h_e68c2c044b).
+Click on the included revision card to open the [included revisions contents page](#included-revision-content-page).
 
 > **Note:** Revisions from models that have since been removed are not displayed in this list.
 
@@ -12298,7 +12298,7 @@ The model export card includes:
 
 **Export name** The name of the export
 
-**Export models** Each model that is currently included in this export. Behind each model is the nth revision that the specified revision is in the model. Click on the nth revision number to go directly to the [included revision content page](#h_d5c85d5359) of that revision.
+**Export models** Each model that is currently included in this export. Behind each model is the nth revision that the specified revision is in the model. Click on the nth revision number to go directly to the [included revision content page](https://support.catenda.com/en/articles/15480883-model-export-content-page#included-revision-content-page) of that revision.
 
 > **Note:** The nth revision number can be different from the major/minor revision number the revision might have if shared statuses are enabled.
 
@@ -13077,7 +13077,7 @@ The following information can be added to a new topic that is created without co
 **Editing and submitting new topics**
 
 - You will know you are looking at a new offline topic if you see the gray bar above highest up in the topic.
-- It is possible to edit topics in offline mode that have not been submitted through the [outbox](#h_ff2a47f221) yet
+- It is possible to edit topics in offline mode that have not been submitted through the [outbox](#outbox) yet
 
 ### 1.5 **Outbox**
 
@@ -13856,7 +13856,7 @@ will become: [Catenda Hub](https://hub.catenda.com)
 
 ### 3.4 **Preventing formatting**
 
-By wrapping words in non letter of number characters you can make them look different. This is not always desired. If you put a `\\` in front of such a character, the `\\` will disappear. Any formatting that would have been applied for these characters will then stop working. If you put a `\\` on an empty line that is not part of a [list](#h_6da4949f8c) the result will still be an empty line as well.
+By wrapping words in non letter of number characters you can make them look different. This is not always desired. If you put a `\\` in front of such a character, the `\\` will disappear. Any formatting that would have been applied for these characters will then stop working. If you put a `\\` on an empty line that is not part of a [list](#lists) the result will still be an empty line as well.
 
 ## 4. **Breaking up text and adding structure**
 
@@ -13952,9 +13952,9 @@ Will turn into:
 
     4. twenty-six
 
-If you wish to reset the numbering and start from one again on a second list within the same post you can put a blank or a [divider](#h_3a36cfbc61) in between.
+If you wish to reset the numbering and start from one again on a second list within the same post you can put a blank or a [divider](#dividers) in between.
 
-To [make sure the list does not get formatted](#h_2ec17c688b) so you can use your own numbering: Put a character on the line above the list. A good choice is `\\` because it will disappear.
+To [make sure the list does not get formatted](#preventing-formatting) so you can use your own numbering: Put a character on the line above the list. A good choice is `\\` because it will disappear.
 
 ```
 \23. twenty-three 24. twenty-four 25. twenty-five     26. twenty-six
@@ -14566,7 +14566,7 @@ To create a query from the [2D viewer](https://support.catenda.com/en/articles/4
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/01-2d-viewer-query.png)
 
-This will help you understand from what location in the project your objects will be selected. There are three different ways to make queries in the 2D viewer. If you right click in the 2D viewer, the [2D viewer interactions menu](https://support.catenda.com/en/articles/4854537-2d-viewer#h_bfa30db456) will open up. Here you will be able to either select the following queries: [Intersecting space](#h_bade07829c) [Intersecting storey](#h_6127f099ac) The third query can be made with the [2D viewer selection dropdown menu](https://support.catenda.com/en/articles/4854537-2d-viewer#h_042dc145fa) Here you will be able to choose select: rectangular selection which lets you create the following query: [Rectangular selection](#h_33afc95ee3)
+This will help you understand from what location in the project your objects will be selected. There are three different ways to make queries in the 2D viewer. If you right click in the 2D viewer, the [2D viewer interactions menu](https://support.catenda.com/en/articles/4854537-2d-viewer#h_bfa30db456) will open up. Here you will be able to either select the following queries: [Intersecting space](#intersecting-space-query) [Intersecting storey](#intersecting-storey-query) The third query can be made with the [2D viewer selection dropdown menu](https://support.catenda.com/en/articles/4854537-2d-viewer#h_042dc145fa) Here you will be able to choose select: rectangular selection which lets you create the following query: [Rectangular selection](#rectangle-selection)
 
 ### 3.1 **Intersecting space query**
 
@@ -14697,8 +14697,6 @@ Delete Use the delete action to delete the selected report template.
 The reports page can be found as the sixth item in the navigation menu. This page is part of the content panel. With the reports page template reports can be created in a report editor. Separate templates can be created for topics and documents. When a template is available in a project the report action can be used with selected topics and documents to generate a report based on the selected template.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
-
-This article contains information about the following topics: [Search or filter](https://With%20the%20reports%20page%20template%20reports%20can%20be%20created%20in%20a%20report%20editor.Separate%20templates%20can%20be%20created%20for%20topics%20and%20documents.%20%20When%20a%20template%20is%20available%20in%20a%20project%20the%20report%20action%20can%20be%20used%20with%20selected%20topics%20and%20documents%20to%20generate%20a%20report%20based%20on%20the%20selected%20template.) - [Right menu](#h_418e23701b)
 
 ## 1. **Search or filter options**
 
@@ -15579,15 +15577,15 @@ Towards the top of the markup tab you will see the topics dropdown. The topics d
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/04-topic-selection-dropdown.png)
 
-By default [New topics](#h_e79077cdfd) will be selected.
+By default [New topics](#new-topics) will be selected.
 
-_Selecting a topic_ Below that you will see any open or closed topics that are related to your current document. In these topics you will find the document in the related documents in the right menu of the topic. If any markups created on the current revision have been added to a topic you will see an icon with the number to the right of the topic title. This number displays the number of annotations that are part of markups that have been made on the current revision. Click on one of the topics to [select the topic](#h_233bbefe34).
+_Selecting a topic_ Below that you will see any open or closed topics that are related to your current document. In these topics you will find the document in the related documents in the right menu of the topic. If any markups created on the current revision have been added to a topic you will see an icon with the number to the right of the topic title. This number displays the number of annotations that are part of markups that have been made on the current revision. Click on one of the topics to [select the topic](#selected-topic).
 
 **Select another topic** If you would like to select a topic where the current document has not been linked yet you can do so clicking on Select another topic towards the bottom of the list. After clicking on select another topic in the Topic selection dropdown you will be able to navigate to your topic of choice by selecting the topic board on the top left and using the filters on the top right.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/05-topic-selection-dropdown.png)
 
-When you have found the topic want to start adding markups to you can click on select and link. This will make that topic your [currently selected topic](#h_233bbefe34). This will also link your current document to the topic. The link can later be removed again in the right information menu of the topic on the topics page.
+When you have found the topic want to start adding markups to you can click on select and link. This will make that topic your [currently selected topic](#selected-topic). This will also link your current document to the topic. The link can later be removed again in the right information menu of the topic on the topics page.
 
 > **Note:** If you would like to add a markup to a new topic, you can do so by adding an annotation in the document preview and clicking on save markup.
 
@@ -16586,11 +16584,7 @@ When documents are uploaded from a SharePoint document-library to Catenda the sh
 
 # Simplest naming convention
 
-This article will show what a [naming convention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) can look like in the [documents section](https://support.catenda.com/en/articles/4670292-documents-page). Before you start reading through this article it is important that you understand the basics of [naming conventions](https://support.catenda.com/en/articles/7832559-naming-conventions-page). You can find out how to use [custom fields](https://support.catenda.com/en/articles/6550459-custom-fields-setup), [set up a naming convention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) and [assign the convention](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90) to a folder. First I would like to start out with the [simplest convention possible](#h_667e7d43ef) to explain what this [naming convention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) does when applied to a folder. Later in the article we can work our way to more complex conventions.
-
-The following topics will be described in this article:
-
-[Folders and conventions](http://Folders%20and%20conventions) - [Uploading a document](#h_5a4a3f35ef) - [Documents and conventions](#h_eb4ed69f2b)
+This article will show what a [naming convention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) can look like in the [documents section](https://support.catenda.com/en/articles/4670292-documents-page). Before you start reading through this article it is important that you understand the basics of [naming conventions](https://support.catenda.com/en/articles/7832559-naming-conventions-page). You can find out how to use [custom fields](https://support.catenda.com/en/articles/6550459-custom-fields-setup), [set up a naming convention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) and [assign the convention](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90) to a folder. First I would like to start out with the [simplest convention possible](#filename-extension) to explain what this [naming convention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) does when applied to a folder. Later in the article we can work our way to more complex conventions.
 
 ## 1. **Filename.Extension**
 
@@ -16737,14 +16731,14 @@ Click on Open to import documents or models that you have access to in Catenda H
 
 After clicking on open, your default browser will open up.
 
-- [Cancel your browser session](#h_e921d649ed) if you wish to cancel this process and keep working with Solibri
-- If you have not done so already, [grant access to your account](#h_55ca1d4d10).
-- If you have not yet selected a project, select a project on the [projects page](#h_343870704c).
-- After selecting a project, or if you have previously selected a project, you can select the [documents page](#h_b7ac757915) (_default_) or the [models page](#h_617a3f8bf6).
+- [Cancel your browser session](#cancel-browser-session) if you wish to cancel this process and keep working with Solibri
+- If you have not done so already, [grant access to your account](#granting-access-to-your-catenda-account).
+- If you have not yet selected a project, select a project on the [projects page](#solibri-document-integration-projects-page).
+- After selecting a project, or if you have previously selected a project, you can select the [documents page](#solibri-document-integration-documents-page) (_default_) or the [models page](#solibri-document-integration-models-page).
 
 ## 3. **Exporting Solibri session to Catenda**
 
-For the Upload model button to become available you have to have [connected your Catenda account](#h_457cbf4e9d) and have at least one file in your Solibri session. Click on Upload model to export your Solibri session a part of your Catenda project that you have access to.
+For the Upload model button to become available you have to have [connected your Catenda account](#granting-access-to-your-catenda-account) and have at least one file in your Solibri session. Click on Upload model to export your Solibri session a part of your Catenda project that you have access to.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/05-exporting-solibri-session-to-catenda.png)
 
@@ -16756,10 +16750,10 @@ The .smc that has been saved can now be exported as a new revision to Catenda an
 
 After clicking on Upload Model, your default browser will open up.
 
-- [Cancel your browser session](#h_e921d649ed) if you wish to cancel this process and keep working with Solibri
-- If you have not done so already, [grant access to your account](#h_55ca1d4d10).
-- If you have not yet selected a project, select a project on the [projects page](#h_343870704c).
-- After selecting a project, or if you have previously selected a project, you will be presented with the [documents page](#h_b7ac757915).
+- [Cancel your browser session](#cancel-browser-session) if you wish to cancel this process and keep working with Solibri
+- If you have not done so already, [grant access to your account](#granting-access-to-your-catenda-account).
+- If you have not yet selected a project, select a project on the [projects page](#solibri-document-integration-projects-page).
+- After selecting a project, or if you have previously selected a project, you will be presented with the [documents page](#solibri-document-integration-documents-page).
 
 ## 4. **Solibri document integration -** Projects page
 
@@ -17549,7 +17543,7 @@ By clicking on the header of a column it is possible to sort by that column. Cli
 
 ### 4.2 **Dragging column headers**
 
-Column headers can be dragged left and right to be rearranged. You can drag the column header out of the table to disable the column. You can enable the column again in the [column dropdown](#h_9e88dec7ef) on the top right.
+Column headers can be dragged left and right to be rearranged. You can drag the column header out of the table to disable the column. You can enable the column again in the [column dropdown](#6-columns-dropdown) on the top right.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/06-dragging-column-headers.png)
 
@@ -17674,7 +17668,7 @@ Here the name and the owner of the topic board are displayed
 
 ## 2. **Extensions - Close topics**
 
-Limit who can close and reopen topics by limiting who can change the status of a topic to a status with an open meta-status and a status with a closed meta-status. When you enable this feature you will see a [close topics column](#h_3e36186c6f) appear next to the access column.
+Limit who can close and reopen topics by limiting who can change the status of a topic to a status with an open meta-status and a status with a closed meta-status. When you enable this feature you will see a [close topics column](#close-topics-column) appear next to the access column.
 
 ## 3. **Define access for**
 
@@ -17926,7 +17920,7 @@ _Color_ - Change the color of the status.
 
 Meta-statuses give a general idea of where in the workflow the status of a topic is. _Open_ - Topics with this meta-status are shown by default when you open an topic board. _Closed -_ Topics with this meta-status are hidden by default when you open an topic board.
 
-> **Note:** You can configure who is allowed to change the status of a topic with an open meta-status to a status with a closed meta-status in the [access control section](#h_82063f7a79).
+> **Note:** You can configure who is allowed to change the status of a topic with an open meta-status to a status with a closed meta-status in the [access control section](#access-control).
 
 **Candidate** Topics with a candidate meta-status are also hidden by default This status is supposed to be for Topics that are neither open nor closed. The candidate meta-status is meant to be for letting people know an topic is not completely finished drafting yet so it is not open yet. In the flow it is therefore meant to come before open. However, people also use this status for topics that have fallen outside of the regular flow. Like an topic that is not finished and therefore closed but just no longer relevant. People do not want to see it in the list by default and therefore use this meta status.
 
@@ -18124,7 +18118,7 @@ It is also possible to highlight the text box of the comment and paste an image 
 
 **Connect image to 3D** When an image is added to a comment it will say "No viewer connection" under the image unless a model is loaded in the 3D viewer. The text "Connect to 3D viewpoint" is displayed. The image can now connect it to objects and a position in the viewer. Submit this comment to play back the viewpoint by clicking on the play button. Annotations can be added to the image after adding the image and before submitting the comment.
 
-**Image pop-out** The image that is attached to the comment after the comment is submitted can be [popped-out](#h_e36d14edc8) to see a its contents in a larger format and download it after it has been submitted.
+**Image pop-out** The image that is attached to the comment after the comment is submitted can be popped-out to see a its contents in a larger format and download it after it has been submitted.
 
 **Deleting an image from a comment** Images that are attached to comments cannot be edited or deleted from the comment. Delete the whole comment to remove the image from the topic.
 
@@ -18167,7 +18161,7 @@ The document preview will not show the document if: The document revision has be
 
 If the annotation is made on a PDF comparison the revision numbers of the two revisions that are compared are displayed.
 
-**Image pop-out** The image that is attached to the comment after the comment is submitted can be [popped-out](#h_e36d14edc8) to see a its contents in a larger format and download it after it has been submitted.
+**Image pop-out** The image that is attached to the comment after the comment is submitted can be popped-out to see a its contents in a larger format and download it after it has been submitted.
 
 ### 5.6 **New comment**
 
@@ -18936,7 +18930,7 @@ The plus button and action menu items can be found towards the top right of the 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/02-new-item-actions.png)
 
-The actions you are able to find here all have to do with creating new information. [Selected item actions](#h_b5c00c149b) that have to do with existing items on the page can also be found towards the top of the table after making a selection.
+The actions you are able to find here all have to do with creating new information. [Selected item actions](#selected-item-actions) that have to do with existing items on the page can also be found towards the top of the table after making a selection.
 
 ### 1.1 **New topic**
 
@@ -19096,7 +19090,7 @@ You can find out what a topic is linked to in the [right panel](https://support.
 
 ### 3.2 **Linking documents to objects**
 
-You can only add objects to documents and not the other way around see [here](#h_41401e4836).
+You can only add objects to documents and not the other way around see [here](#linking-objects-to-documents).
 
 ## 4. **Linking as much as possible as easily as possible**
 
@@ -19246,7 +19240,7 @@ Files can be uploaded in four different ways. The file will end up in the folder
 
 ### 1.1 **1. Upload button**
 
-To upload a new document or revision press the [+ button](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_7c8e07223e) on the top right. This will open the [upload document menu](#h_00fa77db3e).
+To upload a new document or revision press the [+ button](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_7c8e07223e) on the top right. This will open the [upload document menu](#upload-document-menu).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y90qfgry/01-1-upload-button.png)
 
@@ -19262,7 +19256,7 @@ To upload a file simply navigate to the folder where you want to upload it and d
 
 ### 1.4 **4. Browse button in an empty folder**
 
-Click on the browse button in an empty folder to open the [Upload document menu](#h_00fa77db3e). Choose to create a new revision or a new document when uploading like this.
+Click on the browse button in an empty folder to open the [Upload document menu](#upload-document-menu). Choose to create a new revision or a new document when uploading like this.
 
 ## 2. **Upload document menu**
 
@@ -19270,13 +19264,13 @@ After uploading files they will appear in the current folder when uploading.
 
 ### 2.1 **Browse**
 
-By clicking the "Browse" button the systems file explorer opens and from here the file(s) to be uploaded can be chosen. Up to 100 files can be selected, [each up to 7GB\*](#h_09bc8fbe94), by holding shift or control.
+By clicking the "Browse" button the systems file explorer opens and from here the file(s) to be uploaded can be chosen. Up to 100 files can be selected, [each up to 7GB\*](#upload-limit), by holding shift or control.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y90qfgry/02-browse.png)
 
 ### 2.2 **Drag & drop**
 
-Up to 100 files can be drag & dropped, [each up to 7GB\*](#h_09bc8fbe94), from the file explorer on your system.
+Up to 100 files can be drag & dropped, [each up to 7GB\*](#upload-limit), from the file explorer on your system.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y90qfgry/03-drag-drop.png)
 
@@ -21242,15 +21236,15 @@ Programs that are able to export 3D DWGs to IFC are:
 
 ### **AutoCAD Architecture**
 
-[Export menu](#h_9ac38304dd)
+[Export menu](#export-menu)
 
 ### **AutoCAD MEP**
 
-[Export menu](#h_9ac38304dd)
+[Export menu](#export-menu)
 
 ### **AutoCAD Civil 3D**
 
-[Export menu](#h_9ac38304dd)
+[Export menu](#export-menu)
 
 ### **AutoCAD Plant 3D:**
 
@@ -21578,7 +21572,7 @@ You will be able to paste these emails in an email recipient box and be able to 
 
 An essential part of the Common Data Environment Catenda HUB is the document area. This article explains how you can structure this area and use the individual features for better organization. There are 3 approaches to organizing the document area.
 
-1\. [A classic folder structure](#h_62e4c2f0f2) in which documents and files are stored in an organized manner 2\. [The use of metadata](#h_90254e727f) to enable the organization of documents and files, as well as the retrieval of files. 3\. [Combination](#h_ca9aca4218) of folder structure and metadata
+1\. [A classic folder structure](#classic-folder-structure) in which documents and files are stored in an organized manner 2\. [The use of metadata](#document-structure-based-on-metadata) to enable the organization of documents and files, as well as the retrieval of files. 3\. [Combination](#combination-of-both-variants) of folder structure and metadata
 
 > **Note:** A combination of these two variants often makes sense and offers many advantages.
 
@@ -22548,7 +22542,7 @@ After working with a document structure for a bit you will notice that you start
 
 **Or maybe even simpler:** 010101\_Models\_ARC\_Window 010102\_Models\_ARC\_Wall 010201\_Models\_MEP\_Ducts 010202\_Models\_MEP\_Vents 010301\_Models\_\_STR 020101\_Drawings
 
-As you can see, adding multiple folders that are similar on the same level can help reduce the amount of clicks it takes to get down to the folder containing the documents you are looking for. Another thing you might notice is that the more you simply the folder structure, the longer the file names become. When filenames become too long they become hard to read. It is therefore important to keep a balance between [file name length](#h_7549bd95d9) and [folder depth](#h_e27bb794b2).
+As you can see, adding multiple folders that are similar on the same level can help reduce the amount of clicks it takes to get down to the folder containing the documents you are looking for. Another thing you might notice is that the more you simply the folder structure, the longer the file names become. When filenames become too long they become hard to read. It is therefore important to keep a balance between [file name length](#naming-length) and [folder depth](#subfolders).
 
 ## 3. **Folder structure**
 
@@ -23038,7 +23032,7 @@ Some companies do not allow their employees to create aliases for their emails. 
 
 ### 2.3 **External users**
 
-If you are not able to create separate users for each tender submitter, you can also use your Catenda project as a place to share your tendering information from without inviting the submitters. As seen in the [tendering information base](#h_9ab97bdd71) section, [documents collections](https://support.catenda.com/en/articles/6344318-collections-page) and [3D bookmarks](https://support.catenda.com/en/articles/4670281-bookmarks-page) can be prepared and shared with external parties to use as a base for submittal. This way external users can have access to documents and 3D views in the project ​without being part of it themselves. As the users are not part of the project, document delivery will have to be submitted elsewhere. The submitted documents can be uploaded to the project by the tenderer after they have been submitted.
+If you are not able to create separate users for each tender submitter, you can also use your Catenda project as a place to share your tendering information from without inviting the submitters. As seen in the [tendering information base](#tendering-information-base) section, [documents collections](https://support.catenda.com/en/articles/6344318-collections-page) and [3D bookmarks](https://support.catenda.com/en/articles/4670281-bookmarks-page) can be prepared and shared with external parties to use as a base for submittal. This way external users can have access to documents and 3D views in the project ​without being part of it themselves. As the users are not part of the project, document delivery will have to be submitted elsewhere. The submitted documents can be uploaded to the project by the tenderer after they have been submitted.
 
 ## 3. **Tendering information base**
 
@@ -23078,13 +23072,13 @@ The user voice pyramid consists of 6 stages that topics can move up and down in
 
 ### 1.1 **Implementation**
 
-When there is time between bigger assignments developers will be able to start work on any of the topics from the [short list](#h_72d21b37fa).
+When there is time between bigger assignments developers will be able to start work on any of the topics from the [short list](#short-list).
 
 ### 1.2 **Short list**
 
-Topics that have been [qualified](#h_7c19a7e0e3) by the customer success team will be looked at by developers. They will look at the topic and discuss the feasibility of this change.
+Topics that have been [qualified](#customer-success-qualification) by the customer success team will be looked at by developers. They will look at the topic and discuss the feasibility of this change.
 
-The developers keep a short list of topics that are clearly defined and scoped. Whether a [topic gets chosen](#h_fab9c7fb3a) to be worked on or not can depend on a variety of factors:
+The developers keep a short list of topics that are clearly defined and scoped. Whether a topic gets chosen to be worked on or not can depend on a variety of factors:
 
 - Available time and resources
 - Topic priority
@@ -23092,11 +23086,11 @@ The developers keep a short list of topics that are clearly defined and scoped. 
 
 ### 1.3 **Product qualification**
 
-Before each development period developers will look through the user voice topics that have been qualified by the customer success team. They will discuss the topic to get a sense of how long it might take to make this change and describe any unforeseen technical challenges that could arise during the development of this change. If a topic is qualified by the product team and its timeframe allows for the change to be made in the timeframe between bigger tasks it can be added to the [short list](#h_61cf4dbdbd). If a user voice topic is expected to take one ore more full development periods the topic will be assigned to the [road map](#h_de051c0252).
+Before each development period developers will look through the user voice topics that have been qualified by the customer success team. They will discuss the topic to get a sense of how long it might take to make this change and describe any unforeseen technical challenges that could arise during the development of this change. If a topic is qualified by the product team and its timeframe allows for the change to be made in the timeframe between bigger tasks it can be added to the [short list](#short-list). If a user voice topic is expected to take one ore more full development periods the topic will be assigned to the [road map](#road-map).
 
 ### 1.4 **Customer Success qualification**
 
-Every 3 months new topics are qualified. The status of topics that are unclear will be changed to clarification. Topics that have enough information and have been qualified go on to be [qualified by the product team](#h_e996ac7362).
+Every 3 months new topics are qualified. The status of topics that are unclear will be changed to clarification. Topics that have enough information and have been qualified go on to be [qualified by the product team](#product-qualification).
 
 ### 1.5 **Topic clarification**
 
@@ -23104,7 +23098,7 @@ If a topic needs more information it can be marked for clarification upon which 
 
 ### 1.6 **Submitting an request**
 
-A user voice topic starts out as a question to one of our employees by a user. Questions can be asked in person, via email or through our the black chat button next to your profile picture on the top right of the page. They are best asked by clicking on the bubble, clicking on the messages menu and then clicking on the "feedback form 🎫" option. a topic will then be made explaining the situation. If a topic already exists the user will be added to the list of people asking about this specific topic. Customer success representatives will then state their priority given to this topic through the use of custom fields which will influence how likely it is that a topic gets [qualified](#h_15e2288bf8).
+A user voice topic starts out as a question to one of our employees by a user. Questions can be asked in person, via email or through our the black chat button next to your profile picture on the top right of the page. They are best asked by clicking on the bubble, clicking on the messages menu and then clicking on the "feedback form 🎫" option. a topic will then be made explaining the situation. If a topic already exists the user will be added to the list of people asking about this specific topic. Customer success representatives will then state their priority given to this topic through the use of custom fields which will influence how likely it is that a topic gets [qualified](#customer-success-qualification).
 
 ## 2. **Large or unfeasible requests**
 
@@ -25554,7 +25548,7 @@ On the top right of the documents table you will find a very powerful new featur
 
 ### 2.2 **Column header row**
 
-**Dragging columns** You can drag on the header of the column in the header row to move it left and right. If you drag the header outside of the table it will be hidden. To get the header back you will have to enable it again in the [column drop down](#h_5f5f6862d0).
+**Dragging columns** You can drag on the header of the column in the header row to move it left and right. If you drag the header outside of the table it will be hidden. To get the header back you will have to enable it again in the [column drop down](#column-dropdown).
 
 **Auto resize** Double click the divider between columns to auto resize to the content of the column. This is useful viewing long document names. The widths you change will only change for the user and not all users in the project.
 
@@ -26869,7 +26863,7 @@ If you are trying to upload documents you could see the message that no files ar
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/08-button-not-available.png)
 
-This can be the case when you have granted Solibri access to Catenda with one account, but are attempting to upload a .smc file with another account. To give access to a different account see [here](#h_0ef63a37db).
+This can be the case when you have granted Solibri access to Catenda with one account, but are attempting to upload a .smc file with another account. To give access to a different account see [here](#connect-with-a-new-account).
 
 ## 3. **Download**
 
@@ -26879,7 +26873,7 @@ If you have selected a document, you could see an error in the right menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/09-error.png)
 
-This can be the case when you have granted Solibri access to Catenda with one account, but are attempting to download the document with another account. To give access to a different account see [here](#h_0ef63a37db).
+This can be the case when you have granted Solibri access to Catenda with one account, but are attempting to download the document with another account. To give access to a different account see [here](#connect-with-a-new-account).
 
 ### 3.2 **Filetype not supported**
 

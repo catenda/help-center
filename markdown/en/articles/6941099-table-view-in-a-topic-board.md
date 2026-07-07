@@ -68,7 +68,7 @@ By clicking on the header of a column it is possible to sort by that column. Cli
 
 ### 4.2 **Dragging column headers**
 
-Column headers can be dragged left and right to be rearranged. You can drag the column header out of the table to disable the column. You can enable the column again in the [column dropdown](#h_9e88dec7ef) on the top right.
+Column headers can be dragged left and right to be rearranged. You can drag the column header out of the table to disable the column. You can enable the column again in the [column dropdown](#6-columns-dropdown) on the top right.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/06-dragging-column-headers.png)
 

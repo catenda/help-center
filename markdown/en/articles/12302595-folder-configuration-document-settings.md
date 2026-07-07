@@ -26,7 +26,7 @@ Here you see all the folders in the project. Clicking on the arrow or anywhere o
 
 This can help a lot with seeing the results of the configured folder after configuring it.
 
-**Add configuration** Click the + button to the right of a folder to open the [folder configuration dialogue](#h_96b6c91fe4). If there are configurations in sub folders you will not be able to make a configuration for the folder.
+**Add configuration** Click the + button to the right of a folder to open the [folder configuration dialogue](#folder-configuration-dialogue). If there are configurations in sub folders you will not be able to make a configuration for the folder.
 
 **Preview configuration** If a configuration is set for a folder you will be able to quickly see what configuration has been set by clicking on the eye icon. The configuration preview can look something like this:
 

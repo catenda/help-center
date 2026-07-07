@@ -43,7 +43,7 @@ The model export card includes:
 
 **Export name** The name of the export
 
-**Export models** Each model that is currently included in this export. Behind each model is the nth revision that the specified revision is in the model. Click on the nth revision number to go directly to the [included revision content page](#h_d5c85d5359) of that revision.
+**Export models** Each model that is currently included in this export. Behind each model is the nth revision that the specified revision is in the model. Click on the nth revision number to go directly to the [included revision content page](https://support.catenda.com/en/articles/15480883-model-export-content-page#included-revision-content-page) of that revision.
 
 > **Note:** The nth revision number can be different from the major/minor revision number the revision might have if shared statuses are enabled.
 

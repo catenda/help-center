@@ -114,7 +114,7 @@ In the topic list, you will find all the main information about an topic:
 1. The image of the first comment in the topic
 1. Catenda Hub topic number
 
-You can click on any topic to go to the [topic detail page](#h_445d3efa52).
+You can click on any topic to go to the [topic detail page](#topic-details).
 
 ### 4.5 **Sort topics**
 
@@ -161,7 +161,7 @@ In this view, you can review and edit a specific topic.
 
 ![IssueDetailView.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/13-interface.png)
 
-1. Go back to the [Topic List](#h_642fa61854)
+1. Go back to the [Topic List](#topic-list)
 1. Refresh the content of this topic
 1. Navigate between topics
 1. Set the topic status (Open, Closed, …)
@@ -196,7 +196,7 @@ All comments are displayed below the topic. A comment can contains text, a pictu
 
 1. The author of the comment
 1. When the comment was created. You can hover over the date to display the full date and time of update.
-1. The [zoom button](#h_d873968c27) (see chapter below)
+1. The [zoom button](#zoom) (see chapter below)
 1. The image associated with the comment
 1. The text of the comment
 
@@ -210,7 +210,7 @@ For the viewpoint to be relevant, you must have opened the same model than the o
 
 If the viewpoint has been created from a perspective view, the new 3D view will have its projection mode set to “Perspective”. Otherwise, the projection mode will be “Orthographic”.
 
-The add-in will create only one perspective view and one orthographic view. After having created them, it will reuse them for any subsequent use of the zoom function. You can change that in the [settings menu](#h_b02502c589). You can also use the settings menu to change the name of these view.
+The add-in will create only one perspective view and one orthographic view. After having created them, it will reuse them for any subsequent use of the zoom function. You can change that in the settings menu. You can also use the settings menu to change the name of these view.
 
 ### 5.5 **Related elements**
 

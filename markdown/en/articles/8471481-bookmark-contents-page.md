@@ -56,7 +56,7 @@ In the public URL sharing part of a bookmark you can create a public URL. Public
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/04-public-url-sharing.png)
 
-To create a public URL the bookmark first has to be [shared with the project](#h_5c9944a45e).
+To create a public URL the bookmark first has to be [shared with the project](#share-with-project).
 
 **Enable public url** To enable a public bookmark click on Edit sharing and check the "Enable public url" checkbox. _Access required:_ Project administrator
 

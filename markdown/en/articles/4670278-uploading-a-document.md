@@ -8,7 +8,7 @@ Files can be uploaded in four different ways. The file will end up in the folder
 
 ### 1.1 **1. Upload button**
 
-To upload a new document or revision press the [+ button](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_7c8e07223e) on the top right. This will open the [upload document menu](#h_00fa77db3e).
+To upload a new document or revision press the [+ button](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_7c8e07223e) on the top right. This will open the [upload document menu](#upload-document-menu).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y90qfgry/01-1-upload-button.png)
 
@@ -24,7 +24,7 @@ To upload a file simply navigate to the folder where you want to upload it and d
 
 ### 1.4 **4. Browse button in an empty folder**
 
-Click on the browse button in an empty folder to open the [Upload document menu](#h_00fa77db3e). Choose to create a new revision or a new document when uploading like this.
+Click on the browse button in an empty folder to open the [Upload document menu](#upload-document-menu). Choose to create a new revision or a new document when uploading like this.
 
 ## 2. **Upload document menu**
 
@@ -32,13 +32,13 @@ After uploading files they will appear in the current folder when uploading.
 
 ### 2.1 **Browse**
 
-By clicking the "Browse" button the systems file explorer opens and from here the file(s) to be uploaded can be chosen. Up to 100 files can be selected, [each up to 7GB\*](#h_09bc8fbe94), by holding shift or control.
+By clicking the "Browse" button the systems file explorer opens and from here the file(s) to be uploaded can be chosen. Up to 100 files can be selected, [each up to 7GB\*](#upload-limit), by holding shift or control.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y90qfgry/02-browse.png)
 
 ### 2.2 **Drag & drop**
 
-Up to 100 files can be drag & dropped, [each up to 7GB\*](#h_09bc8fbe94), from the file explorer on your system.
+Up to 100 files can be drag & dropped, [each up to 7GB\*](#upload-limit), from the file explorer on your system.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y90qfgry/03-drag-drop.png)
 

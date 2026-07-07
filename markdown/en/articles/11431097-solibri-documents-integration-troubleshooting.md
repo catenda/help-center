@@ -94,7 +94,7 @@ If you are trying to upload documents you could see the message that no files ar
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/08-button-not-available.png)
 
-This can be the case when you have granted Solibri access to Catenda with one account, but are attempting to upload a .smc file with another account. To give access to a different account see [here](#h_0ef63a37db).
+This can be the case when you have granted Solibri access to Catenda with one account, but are attempting to upload a .smc file with another account. To give access to a different account see [here](#connect-with-a-new-account).
 
 ## 3. **Download**
 
@@ -104,7 +104,7 @@ If you have selected a document, you could see an error in the right menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/09-error.png)
 
-This can be the case when you have granted Solibri access to Catenda with one account, but are attempting to download the document with another account. To give access to a different account see [here](#h_0ef63a37db).
+This can be the case when you have granted Solibri access to Catenda with one account, but are attempting to download the document with another account. To give access to a different account see [here](#connect-with-a-new-account).
 
 ### 3.2 **Filetype not supported**
 

@@ -10,7 +10,7 @@ This is what the projects page can look like:
 
 ## 1. **Open a project**
 
-Click on the [project thumbnail](#h_303c7e9962) or chosen project in the [projects list](#h_1285a6d343). You will then be taken to the [Dashboard](https://support.catenda.com/en/articles/8212646-dashboard-page) of the project.
+Click on the project thumbnail or chosen project in the [projects list](#projects-list). You will then be taken to the [Dashboard](https://support.catenda.com/en/articles/8212646-dashboard-page) of the project.
 
 ## 2. **Left navigation menu**
 
