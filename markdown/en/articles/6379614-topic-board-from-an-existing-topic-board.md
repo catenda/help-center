@@ -1,37 +1,65 @@
-# Topic board from an existing topic board
+# 既存のトピックボードからのトピックボード
 
-When creating your topic board you have the possibility to copy the settings of an existing topic board, so you copy the :
+新しいトピックボードは、[ボードページ](https://support.catenda.com/en/articles/9413644-boards-page)で「新しいトピックボード」アクションをクリックして作成できます。このアクションは、右上の緑色のプラスボタン、またはその隣にあるアクションメニューから利用できます。必要なアクセス権：[プロジェクト設定ページ](https://support.catenda.com/en/articles/4670273-project-settings-page)のアクセスメニューで、新しいトピックボードを作成するための書き込みアクセス権が必要です。
 
-- Status
-- Types
-- Access rights
+「新しいトピックボード」ページは、次のような画面になります：
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/01-intro.gif)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/01-intro.png)
 
-Here are the steps to follow: 👇
+## 1. **名前**
 
-You are in the "**Topics**" section
+トピックボードを追加するための最低条件として、トピックボードに名前を付けます。トピックボードのリストは、Catendaの一般的な[リストの並び順](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists)に従ってトピックボード名で並べ替えられます。そのため、トピックボードの名前には命名規則を使うことをお勧めします。トピックボード名の例を次に示します：
 
-1. Click on the **burger menu**
+![トピックボードリスト 導入 文書レビュー 承認済み コメント付き承認 却下 文書 BREEAMスコア 調整 コスト プロジェクト](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/02-name.png)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/02-intro.png)
+## 2. **説明**
 
-2\. And on " **New topic board**"
+トピックボードの説明は任意です。追加後は、トピックボードへのフルアクセスを持つユーザーのみが、トピックボード設定で説明を確認できます。トピックボードの説明には、Catendaの[投稿の書式設定](https://support.catenda.com/en/articles/8430847-formatting-of-posts)に関する一般的なルールが適用されます。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/03-intro.png)
+## 3. **既存のトピックボードから設定をコピー**
 
-4\. Click on the drop-down menu
+トピックボードの作成時に既存のトピックボードから設定をコピーするには、「既存のトピックボードから設定をコピー」メニューをクリックし、設定のコピー元となるプロジェクト内の既存のトピックボードを選択します。
 
-5\. Select the topic board to copy
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/03-copy-settings-from-an-existing-topic-board.png)
 
-You must of course enter a name for your topic board **(A)** and an optional description **(B)**
+トピックボードを選択すると、どの設定をコピーするかを選べます。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/04-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/04-copy-settings-from-an-existing-topic-board.png)
 
-You also have the possibility to copy the **statuses and types** and/or the **permission settings**.
+### 3.1 **ステータスとタイプをコピー**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/05-intro.png)
+「ステータスとタイプをコピー」ラジオボタンを有効にすると、作成するトピックボードに、ステータス名・色・メタステータスのタイプを含む同じステータスが引き継がれます。
 
-Do not forget to click on "**Add**" to validate your choice.
+### 3.2 **権限設定をコピー**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/06-intro.png)
+「権限設定をコピー」ラジオボタンを有効にすると、作成するトピックボードに同じステータスが色とともに引き継がれます。
+
+## 4. **BCF 1.0互換性**
+
+BCF 1.0までしか対応していない他のトピック管理ツールにトピックをエクスポートするために使用するトピックボードは、互換性のためにロックしておくことをお勧めします。こうすることで、Catendaで作成したトピックがエラーなく相手側に届きます。他のツールで作成されたBCF 1.0トピックは、ボードが互換性のためにロックされているかどうかにかかわらず、どのトピックボードにもインポートできます。
+
+### 4.1 **ステータスとタイプは編集不可**
+
+トピックボードを互換性のためにロックすると、そのトピックボードで利用できるステータスとタイプは編集できなくなります。互換性のためのロックが有効な間は、BCF 1.0で規定された既定のステータスとタイプが提供され、編集できません。_ステータス：_「Open」と「Closed」 _タイプ：_「Error」「Warning」「Info」「Unknown」
+
+### 4.2 **作成後のBCF 1.0互換性のロックとロック解除**
+
+BCF 1.0互換性のチェックボックスは、トピックボード設定でいつでもオフにでき、ボードで使用できるステータスの数を増やせます。トピックボードのステータスがBCF 1.0と互換性がなくなった場合でも、互換性のないステータスを削除すれば、作成後いつでもボードを再びBCF 1.0互換性にロックできます。
+
+### 4.3 **ロックされたボードからの設定のコピー**
+
+「既存のトピックボードから設定をコピー」メニューでトピックボードを選択すると、BCF 1.0互換性のチェックボックスはロックされ、コピー元として選択したトピックボードがBCF 1.0互換性にロックされているかどうかに応じて、チェックの有無が決まります。
+
+## 5. **追加**
+
+「追加」をクリックして、新しいトピックボードを追加します。
+
+> **注：** トピックボードを追加するには、少なくとも名前を付ける必要があります
+
+トピックボードが作成されても通知は表示されません。
+
+## 6. **プロジェクト作成時のトピックボード作成**
+
+新しいプロジェクトを作成すると、プロジェクトには「課題」という名前のデフォルトのトピックボードが用意されています。プロジェクト作成時に「テンプレートプロジェクトのトピックボード」チェックボックスをオンにすると、選択したテンプレートプロジェクトのトピックボードとトピックボード設定を引き継いだ状態でプロジェクトが始まります。
+
+> **注：** これらの新しいトピックボードの設定はテンプレートのトピックボードと同じですが、トピックボード、ステータス、タイプのGUIDは、それぞれのプロジェクトに固有のものです。

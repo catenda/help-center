@@ -32,6 +32,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [モデル一覧ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670286-モデル一覧ページ.md)
 - [投稿フォーマットツールボックス](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8430847-投稿フォーマットツールボックス.md): 投稿可能なフィールドの書式設定方法
 - [新しいステータスのワークフロー - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9874698-新しいステータスのワークフロー-iso-19650.md)
+- [既存のトピックボードからのトピックボード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6379614-topic-board-from-an-existing-topic-board.md)
 - [点群データ(ポイントクラウド)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5606625-点群データ-ポイントクラウド.md)
 
 ## よくある質問
