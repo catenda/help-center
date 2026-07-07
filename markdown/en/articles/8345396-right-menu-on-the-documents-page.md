@@ -4,7 +4,7 @@ After selecting one or more document(s) you will see the info icon appear toward
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/01-intro.png)
 
-This expanded panel can look different depending on what you have selected [​_One folder_ ](#h_cad792004b) _- [One document](#h_2fac53531d) - [Multiple folder(s) and/or document(s)](#h_58d67056f7)_
+This expanded panel can look different depending on what you have selected
 
 ## 1. One folder
 

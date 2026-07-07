@@ -4,8 +4,6 @@ It can be challenging to manage your users as an organization owner.
 
 Here are some tips and tricks for how to best manage your organization.
 
-In this article you will find information about the following topics: - _[Add all organization members to a project](#h_5bb1932cbd)_
-
 ## 1. Add all organization members to a project
 
 1\. Go to the [users page](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)

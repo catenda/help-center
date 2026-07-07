@@ -2,8 +2,6 @@
 
 In this article information about the errors that can occur when configuring Microsoft Teams notifications with Catenda via Microsoft Teams Workflows can be found.
 
-This article contains information about the following topics: [No notifications](#h_42fb432d1c)
-
 ## 1. **No notifications in Microsoft Teams channel**
 
 If a Microsoft Teams Workflow URL has been configured in Catenda and a Catenda notification for one of the notification boxes that are checked in the Microsoft Teams tab of notificaiton settings has been received but there is no message in the Microsoft Teams channel that has been configured there is likely a problem with the Microsoft Teams Workflow.
