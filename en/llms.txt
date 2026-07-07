@@ -65,6 +65,7 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [2D viewer - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7748370-2d-viewer-catenda-site.md)
 - [2D viewer appearance](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13615984-2d-viewer-appearance.md)
 - [2D viewer buildings and storeys](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/10901703-2d-viewer-buildings-and-storeys.md)
+- [2D viewer interactions](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12699525-2d-viewer-interactions.md): Interacting with the 2D viewer
 - [3D Snapshots](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/10345863-3d-snapshots.md)
 - [3D viewer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8227211-3d-viewer.md)
 - [3D viewer - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7744403-3d-viewer-catenda-site.md)
