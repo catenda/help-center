@@ -10,7 +10,7 @@ Catenda gebruikt markdown om tekst op te maken.
 
 Dit betekent dat bepaalde tekens voor en na de regels de stijl van de tekst beïnvloeden.
 
-> **Note:** **Merk:** Vele methodes vergen een lege lijn ervoor om de stijl toe te passen.
+> **Merk:** Vele methodes vergen een lege lijn ervoor om de stijl toe te passen.
 
 De volgende thema's zullen beschreven worden in dit artikel:
 

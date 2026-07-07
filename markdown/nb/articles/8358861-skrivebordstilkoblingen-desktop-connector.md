@@ -1,6 +1,6 @@
 # Skrivebordstilkoblingen (Desktop Connector)
 
-> **Note:** **Merk:** Installasjonsfil for pluginnen er i denne [hjelpeartikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Merk:** Installasjonsfil for pluginnen er i denne [hjelpeartikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
 Med skrivebordstilkoblingen, Catenda Desktop Connector, kan du planlegge opp-/nedlastinger til de siste versjonene av dokumenter.
 

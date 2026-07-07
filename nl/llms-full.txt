@@ -44,7 +44,7 @@ Een goed gebruik hiervan is het instellen van een team wanneer een lid wordt uit
 
 Om een nieuw team aan te maken ga je naar de ledenpagina en in de rechterbovenhoek is er een knop "Nieuw team". Daar kies je de naam van het team en of het team de rol van lid of beheerder moet krijgen.
 
-> **Note:** **Opmerking:** Als het team de rol van beheerder krijgt, zal elk lid van dat team beheerderstoegang hebben.
+> **Opmerking:** Als het team de rol van beheerder krijgt, zal elk lid van dat team beheerderstoegang hebben.
 
 Als het team is aangemaakt, wordt de [teampagina](https://support.catenda.com/en/articles/7891755-team-page) geopend en kun je leden aan het team toevoegen.
 
@@ -94,7 +94,7 @@ Pas op dat u in het authenticatie menu onderaan bent.
 
 ![](https://downloads.intercomcdn.com/i/o/825376957/d0ca2f4ff3122f26c2dd335e/image.png?expires=1781092800&signature=be1fcb59fb1bfa4b45e2cd97b6ea4639f51a97ac61ba103a8b19816235d2ee72&req=fCIiFc54lIRYFb4V1XW4gStU4QZFJuspH3Amx6IfbI1PH8Ta9AUUSD4f5PCO%0AAP4KnLWAE5JAwe0UK5S1t71eeA%3D%3D%0A)
 
-> **Note:** **Merk:** Pas op dat u nit in het Verified IDs menu bent omdat u hier ook een qr code kunt scannen maar deze zal niet werken.
+> **Merk:** Pas op dat u nit in het Verified IDs menu bent omdat u hier ook een qr code kunt scannen maar deze zal niet werken.
 
 Klik verder op de plus in de blauwe balk rechtsboven.
 
@@ -112,7 +112,7 @@ Account name: De naam die u aan de account geeft. Secret key: Dit is de sleutel 
 
 Als u de code na "`secret=`" die u in de URL die geopent is ziet kan deze in het secret key gedeelte ingevoert worden. Het maakt niet uit wat je in het account name veld invoert.
 
-> **Note:** **Merk:** Als u en accout met de verkeerde secret key aanmaakt zal de app een one-time code toch aanmaken. Het kan dan zo zijn dat Catenda deze code niet accepteerd.
+> **Merk:** Als u en accout met de verkeerde secret key aanmaakt zal de app een one-time code toch aanmaken. Het kan dan zo zijn dat Catenda deze code niet accepteerd.
 
 ### 1.2 **Success or fail**
 
@@ -134,7 +134,7 @@ If you did not insert the right code, you will get the message incorrrect code.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1278986910/fcf1dbb07ae982b15c655966b724/image.png?expires=1781092800&signature=b82460509b0074191d2a688692119b66fe0f3d7d25f887e359c7c701efc1a706&req=dSIgHsB2m4heWfMW3nq%2BgR6FUMmT2YJm5kXqqdp81bdgJjZuhxAXRoYDkUpp%0A%2By1CkiG5Pi56MWTUTQ7quR7FYqM%3D%0A)
 
-> **Note:** **Merk:** Als u de QR-Code heeft gescant kut u deze opniew proberen in te voeren binnen de gegeven tijd voor de code terwijl dit menu open is. Alsu u dit menu afsluit zal u de code die in uw authenticator app gegenereerd wordt moeten verwijderen en de QR-Code op nieuw scannen om een nieuwe code kopppeling aan te maken.
+> **Merk:** Als u de QR-Code heeft gescant kut u deze opniew proberen in te voeren binnen de gegeven tijd voor de code terwijl dit menu open is. Alsu u dit menu afsluit zal u de code die in uw authenticator app gegenereerd wordt moeten verwijderen en de QR-Code op nieuw scannen om een nieuwe code kopppeling aan te maken.
 
 ## 2. **MFA veranderen**
 
@@ -166,7 +166,7 @@ Deactiveer MFA op de [authentication page](https://hub.catenda.com/account/authe
 1. Bereid de app die u wenst te gebruiken om de MFA te her-koppelen voor.
 1. Genereer een nieuwe code-paring door de QR code te scannen zoals in het [activeren gedeelte](#h_bda390ecdc).
 
-> **Note:** **Merk:** Pas op met deze methode omdat uw account tijdelijk kwetsbaar is terwijl deze gedeactiveerd is. Gedurende deze tijd zal u ook geen toegang hebben tot projecten waar MFA vereist is.
+> **Merk:** Pas op met deze methode omdat uw account tijdelijk kwetsbaar is terwijl deze gedeactiveerd is. Gedurende deze tijd zal u ook geen toegang hebben tot projecten waar MFA vereist is.
 
 **Overhevelen door backup**
 
@@ -199,9 +199,9 @@ Nieuwe eenheid:
 1. Installeer en open de Microsoft Authenticator app op uw nieuwe eenheid
 1. Tap "Begin Recovery."
 
-> **Note:** **Mer 1:** Stel geen andere accounts met de Microsoft Authenticator in tot na u de Recovery tool gebruikt hebt omdat accounts met dezelfde naam overschreven kunnen worden.
+> **Mer 1:** Stel geen andere accounts met de Microsoft Authenticator in tot na u de Recovery tool gebruikt hebt omdat accounts met dezelfde naam overschreven kunnen worden.
 
-> **Note:** **Merk 2:** Deze methode eist dat u een backup van uw MFA codes maakt wat betekend dat deze in de leverancier van uw apps cloud service opgeslagen zijn. Gebruik daarom alleen deze methode als u deze cloud service vertrouwt. Als niet dan kunt u de code beter deactiveren en heractiveren.
+> **Merk 2:** Deze methode eist dat u een backup van uw MFA codes maakt wat betekend dat deze in de leverancier van uw apps cloud service opgeslagen zijn. Gebruik daarom alleen deze methode als u deze cloud service vertrouwt. Als niet dan kunt u de code beter deactiveren en heractiveren.
 
 ## 4. **MFA deactiveren**
 
@@ -230,7 +230,7 @@ Terwijl het beter is om een app op een mobiele eenheid te gebruiken, zie notaat 
 
 Kwa functionaliteid gebruiken deze soort applicaties dezelfde TOTP protocol als de app op uw mobiele eeneid en zoude net zo zeker moeten zijn.
 
-> **Note:** **Merk:** Desktop applicaties kunnen minder zeker zijn en makkelijker om toegang tot te krijgen. Dit kan zijn omdat desktop systemen vaak, als niet altijd, tot het locale netwekr verbonden zijn wat geinficeerd kan zijn. Mobiele eenheden die niet alteid verbonden zijn tot het netwerk kunnen daarom moeilijker zijn om binnen in te komen.
+> **Merk:** Desktop applicaties kunnen minder zeker zijn en makkelijker om toegang tot te krijgen. Dit kan zijn omdat desktop systemen vaak, als niet altijd, tot het locale netwekr verbonden zijn wat geinficeerd kan zijn. Mobiele eenheden die niet alteid verbonden zijn tot het netwerk kunnen daarom moeilijker zijn om binnen in te komen.
 
 ## 6. **Wie kan MFA in projecten afdwingen?**
 
@@ -242,7 +242,7 @@ Kontakt graag Catenda support om MFA te activeren voor uw organizaties porjecten
 
 # Bureaubladverbinding (Desktop Connector)
 
-> **Note:** **Let op:** Het installatie bestand voor deze applicatie kan [hier](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) gevonden worden.
+> **Let op:** Het installatie bestand voor deze applicatie kan [hier](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) gevonden worden.
 
 Met de bureaubladverbinding, Catenda Desktop Connector, kunt u up- en downlaods van de laatste versies van documenten plannen.
 
@@ -444,7 +444,7 @@ Deze knop opent de map waar de bureaobladverbinding op uw systeem logs opslaat.
 
 # Catenda Hub Navisworks plugin
 
-> **Note:** **Merk:** Het installatie bestand voor de plugin is in [deze hulpartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Merk:** Het installatie bestand voor de plugin is in [deze hulpartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
 De Catenda Hub add-in voor Autodesk® NavisWorks®  is het perfecte hulpmiddel voor projecten die in Catenda Hub samenwerken. Al u issues zijn gesynchroniseerd in real-time tussen NavisWorks en Catenda Hub, waardoor u issues kan maken, toegang tot krijgen, delen en communiceren. Het issue formaat is BCF zo dat de issues gedeeld kunnen worden over elke BCF geactiveerde BIM software of platform.
 
@@ -473,7 +473,7 @@ Catenda Hub is een BIM samenwerk hulpmiddel dat alle buildingSMART standaarden o
 
 # Catenda Hub Plugin voor Archicad
 
-> **Note:** **Merk:** Het installatie bestand voor de plugin is in [deze hulpartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Merk:** Het installatie bestand voor de plugin is in [deze hulpartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
 Meer informatie over de Catenda Archicad plugin kan [hier](https://intercom.help/bimsync-arena/en/articles/5519276-catenda-archicad-plugin) gevonden worden.
 
@@ -481,7 +481,7 @@ Meer informatie over de Catenda Archicad plugin kan [hier](https://intercom.help
 
 > Koppel Catenda met uw favorite tools
 
-> **Note:** **Merk:** Catenda-plug-ins en -integraties zijn **[hier](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)** beschikbaar.
+> **Merk:** Catenda-plug-ins en -integraties zijn **[hier](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)** beschikbaar.
 
 # Catenda Revit plugin
 
@@ -730,7 +730,7 @@ Linksboven vinden we de tab "File".
 
 ---
 
-> **Tip:** **Onthoud:** _het kan handig zijn om een speciale map te hebben voor je IFC's, zodat je altijd controle hebt over waar je bestand zich bevindt!_
+> **Onthoud:** _het kan handig zijn om een speciale map te hebben voor je IFC's, zodat je altijd controle hebt over waar je bestand zich bevindt!_
 
 Het menu voor IFC-export vindt u hier:
 
@@ -996,7 +996,7 @@ Projectbasispunt Georiënteerd in het Ware Noorden
 
 Interne oorsprong Georiënteerd in het Ware Noorden
 
-> **Note:** **Opmerking:** Als u IFC koppelt in het tabblad Invoegen, wordt uw gekoppelde bestand dicht bij uw objecten geplaatst en niet op de locatie die in de IFC wordt beschreven. Om een IFC naar de juiste locatie te importeren, klikt u in plaats daarvan op Bestand -> Openen -> IFC.
+> **Opmerking:** Als u IFC koppelt in het tabblad Invoegen, wordt uw gekoppelde bestand dicht bij uw objecten geplaatst en niet op de locatie die in de IFC wordt beschreven. Om een IFC naar de juiste locatie te importeren, klikt u in plaats daarvan op Bestand -> Openen -> IFC.
 
 **3. Overschrijven**
 
@@ -1141,7 +1141,7 @@ Een gespiegelde versie van het werkruimte tabblad. Hier is dezelfde mappenstruct
 
 Alleen documenten en modellen met gepubliceerde revisies zijn hier zichtbaar.
 
-> **Note:** **Let op:** Zie gedeelde revisies in het revisieoverzicht van de documentenpreview, zelfs als u het document vanuit het gepubliceerde tabblad geopend heeft. _Minimumstoegang:_ Gedeelde revisies
+> **Let op:** Zie gedeelde revisies in het revisieoverzicht van de documentenpreview, zelfs als u het document vanuit het gepubliceerde tabblad geopend heeft. _Minimumstoegang:_ Gedeelde revisies
 
 ### 3.3 **Nieuwe gedeelde revisies uplaoden**
 
@@ -1212,7 +1212,7 @@ De meest recentlijke revisie in het gepubliceerde tabblad kan zijn:
 
 Gepubliceerde revisie - _Minimumstoegang:_ Lees
 
-> **Note:** **Let op:** Gedeelde revisies kunnen zichtbaar zijn het revisieoverzicht van de documetnenweergave, zelfds als de meest recentelijke revisie in het gepubliceerde tabblad geopend is. _Minimumstoegang:_ Gedeelde revisies
+> **Let op:** Gedeelde revisies kunnen zichtbaar zijn het revisieoverzicht van de documetnenweergave, zelfds als de meest recentelijke revisie in het gepubliceerde tabblad geopend is. _Minimumstoegang:_ Gedeelde revisies
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1462398892/0d70d5c5f54ec607f74437c42cb9/image.png?expires=1781092800&signature=14c80a152f32ea13a5b8d30385e86d6bd334fc7bf555a1debd23cda7bf4ec946&req=dSQhFMp3lYlWW%2FMW3nq%2BgftEApPZ%2BEvxt4G6NVukANxbEBU7QNTOp%2BE0ABrn%0AV8qMFva7E08xchfqQtTLVkw0avs%3D%0A)
 
@@ -1578,7 +1578,7 @@ Catenda gebruikt markdown om tekst op te maken.
 
 Dit betekent dat bepaalde tekens voor en na de regels de stijl van de tekst beïnvloeden.
 
-> **Note:** **Merk:** Vele methodes vergen een lege lijn ervoor om de stijl toe te passen.
+> **Merk:** Vele methodes vergen een lege lijn ervoor om de stijl toe te passen.
 
 De volgende thema's zullen beschreven worden in dit artikel:
 
@@ -1907,7 +1907,7 @@ Elk model is gekoppeld aan een document op de documentenpagina.
 **Toegang**
 Modelrijen van modellen met alleen conceptrevisies hebben geen 2D- en 3D-knoppen omdat conceptrevisies niet in 2D of 3D kunnen worden geladen.
 
-> **Note:** **Opmerking:** Conceptrevisies worden niet weergegeven op de [overzichtspagina van het model](https://support.catenda.com/en/articles/4670270-model-page).
+> **Opmerking:** Conceptrevisies worden niet weergegeven op de [overzichtspagina van het model](https://support.catenda.com/en/articles/4670270-model-page).
 
 **2D- en 3D-knoppen** De 2D- en 3D-weergaven van de laatst gepubliceerde revisie worden geopend, zelfs als er recentere conceptrevisies zijn.
 
@@ -2177,7 +2177,7 @@ Grote .ifc en .ifczip bestanden worden aangeraad om in kleinere bestanden te spl
 
 Sommige bewerkingsprogrammas steunen IfcZIP als een methode bij het exporteren van IFC bestanden.
 
-> **Note:** **Voorbeeld:** `3D-model.ifczip`
+> **Voorbeeld:** `3D-model.ifczip`
 
 ## 3. **IfcZip aanmaken**
 
@@ -2186,7 +2186,7 @@ Als de grootte van uw  `.ifc` groter is dan wat geüpload kan worden kan het bes
 - Comprimeer uw `.ifc` bestand tot een `.zip` bestand.
 - Verander de naam van uw bestandsextentie van `.zip` tot `.ifczip`
 
-> **Note:** **Voorbeeld:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip ​`
+> **Voorbeeld:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip ​`
 
 ## 4. **Kontakt support**
 
@@ -2304,7 +2304,7 @@ De document-modellen hoeven zich niet in de map te bevinden en de modellen map k
 
 Om nieuwe revisies tot een model te kunnen uploaden zult u ten minste schrijf rechten tot het document model nodig moeten hebben. Nieuwe revisies tot het model kunnen tot het document-model toegevoegd worden en vica versa.
 
-> **Note:** **Merk:** Revisiecommentaren staan nu als standaard uit en kunnen bij behoefde geactiveerd worden via [metadata op revisies](https://support.catenda.com/nl/articles/9531080-metadata-op-documenten).
+> **Merk:** Revisiecommentaren staan nu als standaard uit en kunnen bij behoefde geactiveerd worden via [metadata op revisies](https://support.catenda.com/nl/articles/9531080-metadata-op-documenten).
 
 **Model-revisie downloaden**
 
@@ -2384,7 +2384,7 @@ Dit betekent dat u meerdere modellen tegelijkertijd kunt verwijderen in plaats v
 
 Als u deen document verwijderd dat aan een model gekoppeld is zult u een waarschuwing moeten goedkeuren dat het model waar uw document aan verbonden is ook verwijderd zal worden.
 
-> **Note:** **Merk:** Dit betekend dt u een model kunt verwijderen zonder de data te verliezen. (verwijderde documenten kunnen hersteld worden)
+> **Merk:** Dit betekend dt u een model kunt verwijderen zonder de data te verliezen. (verwijderde documenten kunnen hersteld worden)
 
 ### 4.4 **Toegangsbeheer tot model-documenten**
 
@@ -2398,7 +2398,7 @@ Na het document-model op deze manier aangemaakt te hebben zult u het model-docum
 
 Nieuwe revisies tot het model kunen als revisies tot het document en vica versa toegevoegd worden.
 
-> **Note:** **Merk:** Dit betekend dat u modellen van meerdere IFC bestanden tegelijkerteid kunt uploaden in plaats ven de modellen één voor één te uploaden.
+> **Merk:** Dit betekend dat u modellen van meerdere IFC bestanden tegelijkerteid kunt uploaden in plaats ven de modellen één voor één te uploaden.
 
 **Revisies tot document-modellen uplaoden**
 

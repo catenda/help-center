@@ -26,7 +26,7 @@ Under finner du steg for å aktivere QR-kode funksjonen til mapper i ditt prosje
 
 Scanningen av placeholdere og plasseringen av QR-koder vil bare foregå i mapper med QR-kode tildelingen.
 
-> **Note:** **Merk:** Så snart en foreldermappe er tildelt vil alle under-mapper ha denne tildelingen. QR-koder kan tildeles til enhver mappe så lenge forelder mappen ikke allere er tildelt.
+> **Merk:** Så snart en foreldermappe er tildelt vil alle under-mapper ha denne tildelingen. QR-koder kan tildeles til enhver mappe så lenge forelder mappen ikke allere er tildelt.
 
 ### Publisering med QR-koder
 

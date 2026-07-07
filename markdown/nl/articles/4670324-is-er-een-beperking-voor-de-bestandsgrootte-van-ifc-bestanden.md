@@ -12,7 +12,7 @@ Grote .ifc en .ifczip bestanden worden aangeraad om in kleinere bestanden te spl
 
 Sommige bewerkingsprogrammas steunen IfcZIP als een methode bij het exporteren van IFC bestanden.
 
-> **Note:** **Voorbeeld:** `3D-model.ifczip`
+> **Voorbeeld:** `3D-model.ifczip`
 
 ## 3. **IfcZip aanmaken**
 
@@ -21,7 +21,7 @@ Als de grootte van uw  `.ifc` groter is dan wat geüpload kan worden kan het bes
 - Comprimeer uw `.ifc` bestand tot een `.zip` bestand.
 - Verander de naam van uw bestandsextentie van `.zip` tot `.ifczip`
 
-> **Note:** **Voorbeeld:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip ​`
+> **Voorbeeld:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip ​`
 
 ## 4. **Kontakt support**
 

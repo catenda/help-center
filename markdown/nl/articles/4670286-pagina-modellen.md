@@ -59,7 +59,7 @@ Elk model is gekoppeld aan een document op de documentenpagina.
 **Toegang**
 Modelrijen van modellen met alleen conceptrevisies hebben geen 2D- en 3D-knoppen omdat conceptrevisies niet in 2D of 3D kunnen worden geladen.
 
-> **Note:** **Opmerking:** Conceptrevisies worden niet weergegeven op de [overzichtspagina van het model](https://support.catenda.com/en/articles/4670270-model-page).
+> **Opmerking:** Conceptrevisies worden niet weergegeven op de [overzichtspagina van het model](https://support.catenda.com/en/articles/4670270-model-page).
 
 **2D- en 3D-knoppen** De 2D- en 3D-weergaven van de laatst gepubliceerde revisie worden geopend, zelfs als er recentere conceptrevisies zijn.
 

@@ -46,7 +46,7 @@ Pass på at du er på Authenticator menyen nederst.
 
 ![](https://downloads.intercomcdn.com/i/o/825376957/d0ca2f4ff3122f26c2dd335e/image.png?expires=1781092800&signature=be1fcb59fb1bfa4b45e2cd97b6ea4639f51a97ac61ba103a8b19816235d2ee72&req=fCIiFc54lIRYFb4V1XW4gStU4QZFJuspH3Amx6IfbI1PH8Ta9AUUSD4f5PCO%0AAP4KnLWAE5JAwe0UK5S1t71eeA%3D%3D%0A)
 
-> **Note:** **Merk:** Pass på at du ikke er i Verified IDs menyen etter som du kan scanne en qr kode her men dette vil ikke fungere.
+> **Merk:** Pass på at du ikke er i Verified IDs menyen etter som du kan scanne en qr kode her men dette vil ikke fungere.
 
 Videre, klikk på pluss knappen i den blåe bjelken øverst til høyre.
 
@@ -70,7 +70,7 @@ Skriver inn koden etter "`secret=`" i URL som åpnes i secret key feltet.
 
 Kontonavn kan være hva du ønsker.
 
-> **Note:** **Merk:** Hvis du oppretter konto med feil hemmelig nøkkel vil appen lage engangspassord uansett så det kan hende Catenda ikke godtar koden hvis feil hemmelig nøkkel var brukt.
+> **Merk:** Hvis du oppretter konto med feil hemmelig nøkkel vil appen lage engangspassord uansett så det kan hende Catenda ikke godtar koden hvis feil hemmelig nøkkel var brukt.
 
 ### 1.2 **Suksess eller feil**
 
@@ -90,7 +90,7 @@ Om du ikke la inn riktig kode vil du få meldingen feil kode.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1278990977/a32126255de11e5dd081dbb2cd14/image.png?expires=1781092800&signature=399eb9649bed8ecc9bcc0dbb74ca49b0e0e17f80b348b27e156e93dd4e770a53&req=dSIgHsB3nYhYXvMW3nq%2BgXKvkZmZ9xp11h1Ky4RZuL2n58N9AFZ3OwKMnsJT%0ARn0aT7hlHvyeH%2F%2FKkbwScV4CNro%3D%0A)
 
-> **Note:** **Merk:** Om du har scannet QR-Koden kan du forsøke å skrive inn koden innen det gitte tidsrammet for koden igjen mens du har denne menyen åpent. Hvis du lukker menyen vil du måtte fjerne koden som genereres i din autentiseringsapp og scanne QR-Koden på nytt for å sette opp en ny kode kobling.
+> **Merk:** Om du har scannet QR-Koden kan du forsøke å skrive inn koden innen det gitte tidsrammet for koden igjen mens du har denne menyen åpent. Hvis du lukker menyen vil du måtte fjerne koden som genereres i din autentiseringsapp og scanne QR-Koden på nytt for å sette opp en ny kode kobling.
 
 ## 2. **Endre MFA**
 
@@ -123,7 +123,7 @@ Du kan også bruke denne metoden hvis du ønsker å endre appen du bruker for MF
 1. Gjør klar appen du ønsker å bruke for å koble på din MFA
 1. Generer en ny kode-kobling ved å scanne QR koden som i [påkoblingsavsnittet](#h_213609947a).
 
-> **Note:** **Merk:** Være forsiktig med denne metoden etter som din konto midlertidig vil være sårbar mens den er deaktivert og du vil ikke ha tilgang til prosjekter hvor MFA er påkrevd under denne tiden.
+> **Merk:** Være forsiktig med denne metoden etter som din konto midlertidig vil være sårbar mens den er deaktivert og du vil ikke ha tilgang til prosjekter hvor MFA er påkrevd under denne tiden.
 
 **Overføre gjennom backup**
 
@@ -156,9 +156,9 @@ Ny enhet:
 1. Installer og åpne Microsoft Autentiseringsappen på din nye enhet.
 1. Tapp "Begin Recovery."
 
-> **Note:** **Merk 1:** Still ikke inn noen konto ved å bruke Microsoft Authenticator til etter at du har brukt Recovery tool siden det bare vil overskrive eksisterende kontoer.
+> **Merk 1:** Still ikke inn noen konto ved å bruke Microsoft Authenticator til etter at du har brukt Recovery tool siden det bare vil overskrive eksisterende kontoer.
 
-> **Note:** **Merk 2:** Denne metoden krever at du lager en backup av dine MFA koder som betyr at de er lagre ti din app leverandørs skytjeneste. Bare bruk denne metoden hvis du stoler på din app leverandørs skytjeneste. Hvis ikke er det bedre å deaktivere og reaktivere.
+> **Merk 2:** Denne metoden krever at du lager en backup av dine MFA koder som betyr at de er lagre ti din app leverandørs skytjeneste. Bare bruk denne metoden hvis du stoler på din app leverandørs skytjeneste. Hvis ikke er det bedre å deaktivere og reaktivere.
 
 ## 4. **Koble av MFA**
 
@@ -189,7 +189,7 @@ Den anbefalte desktop applikasjonen for dette er [Authy](https://authy.com/).
 
 Funksjonsmessig bruker disse typer applikasjoner samme TOTP protokoll som appen på din mobile enhet og bør være like sikre.
 
-> **Note:** **Merk:** Desktop applikasjoner kan være mindre sikkert ettter som de kan være letter å hacke eller få tilgang til. Dette er fordi dekstop systemer ofte, hvis ikke alltid, er koblet på det lokale nettverket som kan være infisert. Mobile enheter som ikke llatid er koblet på nettverket kan derfor være vanskeligere å komme inn på.
+> **Merk:** Desktop applikasjoner kan være mindre sikkert ettter som de kan være letter å hacke eller få tilgang til. Dette er fordi dekstop systemer ofte, hvis ikke alltid, er koblet på det lokale nettverket som kan være infisert. Mobile enheter som ikke llatid er koblet på nettverket kan derfor være vanskeligere å komme inn på.
 
 ## 6. **Hvem kan påkreve MFA på prosjekt?**
 

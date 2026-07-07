@@ -2,7 +2,7 @@
 
 > PCとCatendaプラットフォーム間のファイル管理を簡素化し、効率的な一括アップロード、ダウンロード、スケジュール同期を可能にします。
 
-> **Note:** **注:**プラグインのインストール ファイルは、[このヘルプ記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
+> **注:**プラグインのインストール ファイルは、[このヘルプ記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
 
 この記事では、次の情報について説明します。
 

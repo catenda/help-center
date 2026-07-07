@@ -2,7 +2,7 @@
 
 Für unseren Modellbetrachter unterstützen wir nur IFCs. Die folgenden Dateitypen können in den Dokumentenbereich hochgeladen und dort in der Vorschau angezeigt werden:
 
-> **Note:** **Anmerkung:** Die IFC- und Punktwolkenvorschau (e57 und las) kann in den 3D-Viewer geladen werden.
+> **Anmerkung:** Die IFC- und Punktwolkenvorschau (e57 und las) kann in den 3D-Viewer geladen werden.
 
 ### Offene Dateiformate
 

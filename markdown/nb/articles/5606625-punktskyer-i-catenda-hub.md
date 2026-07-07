@@ -2,7 +2,7 @@
 
 > Oppdag hvordan du kan dra nytte av laserskanninger og LIDAR-teknologier i Catenda Hub.
 
-> **Note:** **Merk:** Last ned en eksempelfil [her](https://drive.google.com/file/d/1G8U916oihDl5qHrTfQaVHxDeLsbq1ulG/view?usp=sharing).
+> **Merk:** Last ned en eksempelfil [her](https://drive.google.com/file/d/1G8U916oihDl5qHrTfQaVHxDeLsbq1ulG/view?usp=sharing).
 
 Punktsky datasett kan visualiseres i Catenda Hub. Individuelle punktskyer kan forhåndsvises i dokumentområdet. Flere punktskyer kan lastes inn i [3D viseren](https://support.catenda.com/en/articles/8227211-3d-viewer). I 3D viseren kan flere punktsky vises sammen med andre 3D dokumentformater som IFC modeller og GML filer. Denne arktikkelen inneholder informasjon om følgende temaer: Se ulike innstillinger for å fremvise din data under:
 
@@ -46,7 +46,7 @@ Etter forhåndsvisningen til en publisert punktsky revisjon er prosessert vil en
 
 I et dokument med minst en publisert punktsky revisjon som har fullført prosessering vil det være mulig å se 3D handlingen i handlingsmenyet øverst til høyre.
 
-> **Note:** **Merk:** 3D handlingen laster inn den sist publiserte revisjonen til dokumentet i 3D viseren. Selv om det er en tidligere revisjon som vises i forhåndsvisningen.
+> **Merk:** 3D handlingen laster inn den sist publiserte revisjonen til dokumentet i 3D viseren. Selv om det er en tidligere revisjon som vises i forhåndsvisningen.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/2363994311/c49eeb7bc4626cd3f8d62f8531ae/image.png?expires=1780444800&signature=aa0258fda87a6a7795f52f1b1d4231f8978efbfb9ee2c41c6a66fa23a1c10c99&req=diMhFcB3mYJeWPMW3nq%2BgTumCrpFyyn4Fi6tnkxFtsCLHqWL5e3fQZLwE2Do%0AwXtBr7zNaC%2FHBHxIZMwRz34529Y%3D%0A)
 
@@ -63,7 +63,7 @@ Mot toppen av 3D viseren vises en grønn lastebjelke. Denne lastebjelken tyder p
 ## 3. **3D viser innstillinger**
 I denne delen ser vi på innstillingene i Catenda Hub som lar deg få den beste opplevelsen med din punktsky.
 
-> **Note:** **Merk:** For å kunne konfigurere 3D viseren, pass på at applikasjonen Catenda er åpnet i ser [konfigurert som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation).
+> **Merk:** For å kunne konfigurere 3D viseren, pass på at applikasjonen Catenda er åpnet i ser [konfigurert som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation).
 
 Innstillinger som kan brukes for å stille inn punktskyer er plassert på to steder.
 
@@ -105,7 +105,7 @@ _Egenskap_ _RGBA_ - Standard Vis punktsky med punktenes farge. _Egenskap Intensi
 
 **Ugjennomsiktighetsgrad** Når modellene vises sammen med punktskyer kan det være behov for å dimme punktene for å ha en bedre forståelse av synspunktet. _Punktstørrelse Tilpasset_ - Standard Jo nærmere et punkt er til kammeraet, jo større punktet er. Punkter som er i visninger er lastet inn i minnet. Punkter som flyttes ut av visningen lastes ut av minnet.
 
-> **Note:** **Merk:** Pass på at maskinvare og programvaren Catenda er åpnet i er stilt inn [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation) etter som dette kan ha effekt på punkt størrelse lastingen som din enhet takler.
+> **Merk:** Pass på at maskinvare og programvaren Catenda er åpnet i er stilt inn [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation) etter som dette kan ha effekt på punkt størrelse lastingen som din enhet takler.
 
 **Punktstørrelse Fast størrselse** Punkter som har vært lastet inn beholdes i minnet med dette valget. Med mange punkter vil det merkest at roteringen kan fortreges og bevegelse kan senkes etter antall punkter som systemet takler begynner å nås. Det kan også hende at det tar lenger og lenger tid å laste inn nye punkter etter punktbegrensningen til systemet nås. Punkter nærmest kameraet lastes inn først. Før innlasting av punktskyen fra dokumentdelen, pass derfor på å stille kameraposisjonen på stedet der punkt ønskes å lastes inn. Om kameraposisjonen er et sted som brukes oftere med denne punktskyen kan det vurderes å opprette en bokmerke eller øyeblikksbilde i en sak som kan spilles av for å komme tilbake til dette stedet ved en senere anledning. _Punkttetthets_ _glidebryter_ Tetthetsglidebryteren hjeler med å finjustere den siste innstillingen. Det er ingen regel for hva som er en riktig verdi, det vil gå an på dataen som lastes opp (størelse på datasettet, punkttetthet, type scan, etc...). Vårt forslag: Last inn punktskyen, etter et lite øyeblikk, der nokk punkter vises, juster innstillingen etter behov.
 

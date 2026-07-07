@@ -2,7 +2,7 @@
 
 > Wie Sie mit dem Navisworks Plugin Open BIM erleben können
 
-> **Note:** **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Hilfeartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Hilfeartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
 ## 1. Über das Plugin
 

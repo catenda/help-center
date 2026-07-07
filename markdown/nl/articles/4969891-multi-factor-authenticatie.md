@@ -44,7 +44,7 @@ Pas op dat u in het authenticatie menu onderaan bent.
 
 ![](https://downloads.intercomcdn.com/i/o/825376957/d0ca2f4ff3122f26c2dd335e/image.png?expires=1781092800&signature=be1fcb59fb1bfa4b45e2cd97b6ea4639f51a97ac61ba103a8b19816235d2ee72&req=fCIiFc54lIRYFb4V1XW4gStU4QZFJuspH3Amx6IfbI1PH8Ta9AUUSD4f5PCO%0AAP4KnLWAE5JAwe0UK5S1t71eeA%3D%3D%0A)
 
-> **Note:** **Merk:** Pas op dat u nit in het Verified IDs menu bent omdat u hier ook een qr code kunt scannen maar deze zal niet werken.
+> **Merk:** Pas op dat u nit in het Verified IDs menu bent omdat u hier ook een qr code kunt scannen maar deze zal niet werken.
 
 Klik verder op de plus in de blauwe balk rechtsboven.
 
@@ -62,7 +62,7 @@ Account name: De naam die u aan de account geeft. Secret key: Dit is de sleutel 
 
 Als u de code na "`secret=`" die u in de URL die geopent is ziet kan deze in het secret key gedeelte ingevoert worden. Het maakt niet uit wat je in het account name veld invoert.
 
-> **Note:** **Merk:** Als u en accout met de verkeerde secret key aanmaakt zal de app een one-time code toch aanmaken. Het kan dan zo zijn dat Catenda deze code niet accepteerd.
+> **Merk:** Als u en accout met de verkeerde secret key aanmaakt zal de app een one-time code toch aanmaken. Het kan dan zo zijn dat Catenda deze code niet accepteerd.
 
 ### 1.2 **Success or fail**
 
@@ -84,7 +84,7 @@ If you did not insert the right code, you will get the message incorrrect code.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1278986910/fcf1dbb07ae982b15c655966b724/image.png?expires=1781092800&signature=b82460509b0074191d2a688692119b66fe0f3d7d25f887e359c7c701efc1a706&req=dSIgHsB2m4heWfMW3nq%2BgR6FUMmT2YJm5kXqqdp81bdgJjZuhxAXRoYDkUpp%0A%2By1CkiG5Pi56MWTUTQ7quR7FYqM%3D%0A)
 
-> **Note:** **Merk:** Als u de QR-Code heeft gescant kut u deze opniew proberen in te voeren binnen de gegeven tijd voor de code terwijl dit menu open is. Alsu u dit menu afsluit zal u de code die in uw authenticator app gegenereerd wordt moeten verwijderen en de QR-Code op nieuw scannen om een nieuwe code kopppeling aan te maken.
+> **Merk:** Als u de QR-Code heeft gescant kut u deze opniew proberen in te voeren binnen de gegeven tijd voor de code terwijl dit menu open is. Alsu u dit menu afsluit zal u de code die in uw authenticator app gegenereerd wordt moeten verwijderen en de QR-Code op nieuw scannen om een nieuwe code kopppeling aan te maken.
 
 ## 2. **MFA veranderen**
 
@@ -116,7 +116,7 @@ Deactiveer MFA op de [authentication page](https://hub.catenda.com/account/authe
 1. Bereid de app die u wenst te gebruiken om de MFA te her-koppelen voor.
 1. Genereer een nieuwe code-paring door de QR code te scannen zoals in het [activeren gedeelte](#h_bda390ecdc).
 
-> **Note:** **Merk:** Pas op met deze methode omdat uw account tijdelijk kwetsbaar is terwijl deze gedeactiveerd is. Gedurende deze tijd zal u ook geen toegang hebben tot projecten waar MFA vereist is.
+> **Merk:** Pas op met deze methode omdat uw account tijdelijk kwetsbaar is terwijl deze gedeactiveerd is. Gedurende deze tijd zal u ook geen toegang hebben tot projecten waar MFA vereist is.
 
 **Overhevelen door backup**
 
@@ -149,9 +149,9 @@ Nieuwe eenheid:
 1. Installeer en open de Microsoft Authenticator app op uw nieuwe eenheid
 1. Tap "Begin Recovery."
 
-> **Note:** **Mer 1:** Stel geen andere accounts met de Microsoft Authenticator in tot na u de Recovery tool gebruikt hebt omdat accounts met dezelfde naam overschreven kunnen worden.
+> **Mer 1:** Stel geen andere accounts met de Microsoft Authenticator in tot na u de Recovery tool gebruikt hebt omdat accounts met dezelfde naam overschreven kunnen worden.
 
-> **Note:** **Merk 2:** Deze methode eist dat u een backup van uw MFA codes maakt wat betekend dat deze in de leverancier van uw apps cloud service opgeslagen zijn. Gebruik daarom alleen deze methode als u deze cloud service vertrouwt. Als niet dan kunt u de code beter deactiveren en heractiveren.
+> **Merk 2:** Deze methode eist dat u een backup van uw MFA codes maakt wat betekend dat deze in de leverancier van uw apps cloud service opgeslagen zijn. Gebruik daarom alleen deze methode als u deze cloud service vertrouwt. Als niet dan kunt u de code beter deactiveren en heractiveren.
 
 ## 4. **MFA deactiveren**
 
@@ -180,7 +180,7 @@ Terwijl het beter is om een app op een mobiele eenheid te gebruiken, zie notaat 
 
 Kwa functionaliteid gebruiken deze soort applicaties dezelfde TOTP protocol als de app op uw mobiele eeneid en zoude net zo zeker moeten zijn.
 
-> **Note:** **Merk:** Desktop applicaties kunnen minder zeker zijn en makkelijker om toegang tot te krijgen. Dit kan zijn omdat desktop systemen vaak, als niet altijd, tot het locale netwekr verbonden zijn wat geinficeerd kan zijn. Mobiele eenheden die niet alteid verbonden zijn tot het netwerk kunnen daarom moeilijker zijn om binnen in te komen.
+> **Merk:** Desktop applicaties kunnen minder zeker zijn en makkelijker om toegang tot te krijgen. Dit kan zijn omdat desktop systemen vaak, als niet altijd, tot het locale netwekr verbonden zijn wat geinficeerd kan zijn. Mobiele eenheden die niet alteid verbonden zijn tot het netwerk kunnen daarom moeilijker zijn om binnen in te komen.
 
 ## 6. **Wie kan MFA in projecten afdwingen?**
 

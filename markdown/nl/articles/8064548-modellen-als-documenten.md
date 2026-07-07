@@ -96,7 +96,7 @@ De document-modellen hoeven zich niet in de map te bevinden en de modellen map k
 
 Om nieuwe revisies tot een model te kunnen uploaden zult u ten minste schrijf rechten tot het document model nodig moeten hebben. Nieuwe revisies tot het model kunnen tot het document-model toegevoegd worden en vica versa.
 
-> **Note:** **Merk:** Revisiecommentaren staan nu als standaard uit en kunnen bij behoefde geactiveerd worden via [metadata op revisies](https://support.catenda.com/nl/articles/9531080-metadata-op-documenten).
+> **Merk:** Revisiecommentaren staan nu als standaard uit en kunnen bij behoefde geactiveerd worden via [metadata op revisies](https://support.catenda.com/nl/articles/9531080-metadata-op-documenten).
 
 **Model-revisie downloaden**
 
@@ -176,7 +176,7 @@ Dit betekent dat u meerdere modellen tegelijkertijd kunt verwijderen in plaats v
 
 Als u deen document verwijderd dat aan een model gekoppeld is zult u een waarschuwing moeten goedkeuren dat het model waar uw document aan verbonden is ook verwijderd zal worden.
 
-> **Note:** **Merk:** Dit betekend dt u een model kunt verwijderen zonder de data te verliezen. (verwijderde documenten kunnen hersteld worden)
+> **Merk:** Dit betekend dt u een model kunt verwijderen zonder de data te verliezen. (verwijderde documenten kunnen hersteld worden)
 
 ### 4.4 **Toegangsbeheer tot model-documenten**
 
@@ -190,7 +190,7 @@ Na het document-model op deze manier aangemaakt te hebben zult u het model-docum
 
 Nieuwe revisies tot het model kunen als revisies tot het document en vica versa toegevoegd worden.
 
-> **Note:** **Merk:** Dit betekend dat u modellen van meerdere IFC bestanden tegelijkerteid kunt uploaden in plaats ven de modellen één voor één te uploaden.
+> **Merk:** Dit betekend dat u modellen van meerdere IFC bestanden tegelijkerteid kunt uploaden in plaats ven de modellen één voor één te uploaden.
 
 **Revisies tot document-modellen uplaoden**
 

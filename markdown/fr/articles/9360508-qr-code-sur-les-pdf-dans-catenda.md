@@ -86,7 +86,7 @@ Voici les étapes pour assigner la fonction QR-code aux dossiers de votre projet
 
 La numérisation des espaces réservés et le placement des codes QR n'auront lieu que dans les dossiers auxquels un code QR a été attribué ;
 
-> **Note:** **Remarque :** une fois qu'un dossier parent est attribué, tous les sous-dossiers recevront cette attribution Les codes QR peuvent être attribués à n'importe quel dossier dès lors qu'un dossier parent n'a pas encore été attribué.
+> **Remarque :** une fois qu'un dossier parent est attribué, tous les sous-dossiers recevront cette attribution Les codes QR peuvent être attribués à n'importe quel dossier dès lors qu'un dossier parent n'a pas encore été attribué.
 
 ### 2.1 Publication avec des codes QR
 

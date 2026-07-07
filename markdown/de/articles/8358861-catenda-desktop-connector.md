@@ -1,6 +1,6 @@
 # Catenda Desktop connector
 
-> **Note:** **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Hilfeartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Hilfeartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
 Mit dem Catenda-Desktop-Connector können Sie Up- und Downloads der neuesten Versionen von Dokumenten von Ihrem lokalen System zu Ihrem Catenda-Hub-Projekt planen. Sie können dies sofort oder in regelmäßigen Abständen tun. Der Desktop Connector ist sowohl schneller bei der Dateiübertragung als der reguläre Upload-Prozess und minimiert das Risiko von Fehlern, da er die Dokumente Datei für Datei hochlädt, anstatt in einem großen Drag & Drop oder Zip-Batch-Upload.
 

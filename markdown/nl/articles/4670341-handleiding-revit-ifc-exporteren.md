@@ -26,7 +26,7 @@ Linksboven vinden we de tab "File".
 
 ---
 
-> **Tip:** **Onthoud:** _het kan handig zijn om een speciale map te hebben voor je IFC's, zodat je altijd controle hebt over waar je bestand zich bevindt!_
+> **Onthoud:** _het kan handig zijn om een speciale map te hebben voor je IFC's, zodat je altijd controle hebt over waar je bestand zich bevindt!_
 
 Het menu voor IFC-export vindt u hier:
 
@@ -292,7 +292,7 @@ Projectbasispunt Georiënteerd in het Ware Noorden
 
 Interne oorsprong Georiënteerd in het Ware Noorden
 
-> **Note:** **Opmerking:** Als u IFC koppelt in het tabblad Invoegen, wordt uw gekoppelde bestand dicht bij uw objecten geplaatst en niet op de locatie die in de IFC wordt beschreven. Om een IFC naar de juiste locatie te importeren, klikt u in plaats daarvan op Bestand -> Openen -> IFC.
+> **Opmerking:** Als u IFC koppelt in het tabblad Invoegen, wordt uw gekoppelde bestand dicht bij uw objecten geplaatst en niet op de locatie die in de IFC wordt beschreven. Om een IFC naar de juiste locatie te importeren, klikt u in plaats daarvan op Bestand -> Openen -> IFC.
 
 **3. Overschrijven**
 

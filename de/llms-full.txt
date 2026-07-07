@@ -28,7 +28,7 @@ Um ein neues Team zu erstellen, gehen Sie auf die Mitgliederseite und wählen Si
 
 ![](https://downloads.intercomcdn.com/i/o/770997966/e20d19ac3929bc1e14097948/image.png?expires=1781092800&signature=2d2669ed37fcb0c3a93f20413e516b3d3e2f8f84e371452a223a63f738244136&req=cycnH8B5lIdZFb4V1XW4gSOavavzS%2FUX8XyvOjbpDAAVoDwxMqkM8jYPdCyI%0AhRGHJBSJcePgpMjc8si1Skkb4g%3D%3D%0A)
 
-> **Note:** **Hinweis:** Wenn das Team die Administratorrolle erhält, hat jedes Mitglied dieses Teams Administratorzugriff.
+> **Hinweis:** Wenn das Team die Administratorrolle erhält, hat jedes Mitglied dieses Teams Administratorzugriff.
 
 Wenn das Team erstellt ist, wird die Teamseite geöffnet und Sie können Mitglieder zu diesem Team hinzufügen.
 
@@ -591,7 +591,7 @@ Hier sind einige der verfügbaren Funktionen;
 
 > Installation des Catenda Archicad Plugins
 
-> **Note:** **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Hilfeartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Hilfeartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
 ## 1. Installation
 
@@ -721,7 +721,7 @@ Ein Thema kann etwa so aussehen:
 
 # Catenda Desktop connector
 
-> **Note:** **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Hilfeartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Hilfeartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
 Mit dem Catenda-Desktop-Connector können Sie Up- und Downloads der neuesten Versionen von Dokumenten von Ihrem lokalen System zu Ihrem Catenda-Hub-Projekt planen. Sie können dies sofort oder in regelmäßigen Abständen tun. Der Desktop Connector ist sowohl schneller bei der Dateiübertragung als der reguläre Upload-Prozess und minimiert das Risiko von Fehlern, da er die Dokumente Datei für Datei hochlädt, anstatt in einem großen Drag & Drop oder Zip-Batch-Upload.
 
@@ -757,7 +757,7 @@ Klicken Sie mit der rechten Maustaste auf den Ordner, in den Sie herunterladen m
 
 > Wie Sie mit dem Navisworks Plugin Open BIM erleben können
 
-> **Note:** **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Hilfeartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Hilfeartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
 ## 1. Über das Plugin
 
@@ -1880,7 +1880,7 @@ Allgemein
 
 # Revit plugin
 
-> **Note:** **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations).
 
 ## 1. Erste Schritte
 
@@ -2166,7 +2166,7 @@ Beachten Sie, dass es sich hierbei nicht um ein offizielles Exportprogramm hande
     1. Objekte - Alle
     1. Ansicht - Alle einbeziehen
 
-> **Note:** **Hinweis:** Ifc 4x1 wird von BuildingSMART mit gezeichnet und daher auch nicht von Catenda Hub unterstützt. Siehe [hier](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support), welche Dateitypen in Catenda Hub unterstützt werden
+> **Hinweis:** Ifc 4x1 wird von BuildingSMART mit gezeichnet und daher auch nicht von Catenda Hub unterstützt. Siehe [hier](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support), welche Dateitypen in Catenda Hub unterstützt werden
 
 6\. Ressource und Zuweisung
 
@@ -2373,7 +2373,7 @@ UDP ist optional, wird aber für ein optimales Benutzererlebnis empfohlen, da es
 
 Für unseren Modellbetrachter unterstützen wir nur IFCs. Die folgenden Dateitypen können in den Dokumentenbereich hochgeladen und dort in der Vorschau angezeigt werden:
 
-> **Note:** **Anmerkung:** Die IFC- und Punktwolkenvorschau (e57 und las) kann in den 3D-Viewer geladen werden.
+> **Anmerkung:** Die IFC- und Punktwolkenvorschau (e57 und las) kann in den 3D-Viewer geladen werden.
 
 ### Offene Dateiformate
 

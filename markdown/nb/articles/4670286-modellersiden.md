@@ -30,7 +30,7 @@ Hvis du klikker på tomrommet to ganger raskt etter hverandre vil du åpne model
 
 **Velge en rekke** Holder du shift kan du selektere alle modellene mellom den sist selekterte modellen og modellen du velger.
 
-> **Note:** **Merk 1:** Om du velger en rad vil du se høyre informasjonsmeny dukke opp på høyre side. **Merk 2:** Om du ikke har tilgang til dokumentet som modellen er lenket til, vil du ikke se rad for den modellen i modeller tabellen.
+> **Merk 1:** Om du velger en rad vil du se høyre informasjonsmeny dukke opp på høyre side. **Merk 2:** Om du ikke har tilgang til dokumentet som modellen er lenket til, vil du ikke se rad for den modellen i modeller tabellen.
 
 ### 2.2 **2. Velg alt**
 Velg alle modellene i modeller tabellen.

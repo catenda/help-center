@@ -8,7 +8,7 @@ Catenda bruker markdown for å formatere tekst.
 
 Dette betyr at visse karakter før og etter setninger vil påvirke utformingen av teksten.
 
-> **Note:** **Merk:** Mange av metodene krever en blank ny linje før den
+> **Merk:** Mange av metodene krever en blank ny linje før den
 
 I denne artikkelen vil du kunne finne informasjon om følgende temaer:
 

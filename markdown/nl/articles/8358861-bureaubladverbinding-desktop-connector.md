@@ -1,6 +1,6 @@
 # Bureaubladverbinding (Desktop Connector)
 
-> **Note:** **Let op:** Het installatie bestand voor deze applicatie kan [hier](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) gevonden worden.
+> **Let op:** Het installatie bestand voor deze applicatie kan [hier](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) gevonden worden.
 
 Met de bureaubladverbinding, Catenda Desktop Connector, kunt u up- en downlaods van de laatste versies van documenten plannen.
 

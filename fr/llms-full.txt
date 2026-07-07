@@ -1103,7 +1103,7 @@ Notre conseil : Chargez le nuage de points, et après un moment, lorsque suffisa
 
 # Plugin Catenda Hub Archicad
 
-> **Note:** **Remarque :** le fichier d’installation du plugin se trouve dans cet [article d’aide](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Remarque :** le fichier d’installation du plugin se trouve dans cet [article d’aide](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
 Plus d'informations sur le plugin Catenda Archicad peuvent être trouvées [ici](https://intercom.help/bimsync-arena/en/articles/5519276-catenda-archicad-plugin).
 
@@ -1417,7 +1417,7 @@ Voici les étapes pour assigner la fonction QR-code aux dossiers de votre projet
 
 La numérisation des espaces réservés et le placement des codes QR n'auront lieu que dans les dossiers auxquels un code QR a été attribué ;
 
-> **Note:** **Remarque :** une fois qu'un dossier parent est attribué, tous les sous-dossiers recevront cette attribution Les codes QR peuvent être attribués à n'importe quel dossier dès lors qu'un dossier parent n'a pas encore été attribué.
+> **Remarque :** une fois qu'un dossier parent est attribué, tous les sous-dossiers recevront cette attribution Les codes QR peuvent être attribués à n'importe quel dossier dès lors qu'un dossier parent n'a pas encore été attribué.
 
 ### 2.1 Publication avec des codes QR
 

@@ -1,6 +1,6 @@
 # Revit plugin
 
-> **Note:** **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations).
 
 ## 1. Erste Schritte
 

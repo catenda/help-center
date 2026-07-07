@@ -14,7 +14,7 @@ Ved opplasting av flere mindre filer blir det både lettere for prosjektmedlemme
 
 Noen redigeringsverktøy støtter IfcZIP som et valg ved eksport av IFC filer.
 
-> **Note:** **Eksempel:** `3D-modell.ifczip`
+> **Eksempel:** `3D-modell.ifczip`
 
 ## 3. **Opprette en IfcZip**
 
@@ -23,7 +23,7 @@ Om størrelsen til din `.ifc` fil er større enn hva som kan lastes opp kan file
 - Komprimer din `.ifc` fil til en `.zip` fil.
 - Endre filutvidelsen fra `.zip` til `.ifczip`
 
-> **Note:** **Eksempel:** `3D-modell.ifc` v `3D-modell.zip` v `3D-modell.ifczip ​`
+> **Eksempel:** `3D-modell.ifc` v `3D-modell.zip` v `3D-modell.ifczip ​`
 
 ## 4. **Kontakt brukerstøtte**
 

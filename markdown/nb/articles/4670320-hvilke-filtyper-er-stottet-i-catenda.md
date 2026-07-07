@@ -2,7 +2,7 @@
 
 For vår modell viser støtter vi bare IFC filer. Alle filtyper kan lastes opp i dokument delen. De følgende filtypene kan forhåndsvises i dokument delen:
 
-> **Note:** **NB:** IFC og Point cloud forhåndsvisninger kan lastes inn i 3D viser.
+> **NB:** IFC og Point cloud forhåndsvisninger kan lastes inn i 3D viser.
 
 - _PDF_ - pdf, fdf, xfdf
 - _Bilder_ - bmp, wmf, emf, gif (static image only), hdp, jpg, jp2, png, tif, tiff

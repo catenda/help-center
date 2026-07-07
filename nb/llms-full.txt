@@ -64,7 +64,7 @@ Pass på at du er på Authenticator menyen nederst.
 
 ![](https://downloads.intercomcdn.com/i/o/825376957/d0ca2f4ff3122f26c2dd335e/image.png?expires=1781092800&signature=be1fcb59fb1bfa4b45e2cd97b6ea4639f51a97ac61ba103a8b19816235d2ee72&req=fCIiFc54lIRYFb4V1XW4gStU4QZFJuspH3Amx6IfbI1PH8Ta9AUUSD4f5PCO%0AAP4KnLWAE5JAwe0UK5S1t71eeA%3D%3D%0A)
 
-> **Note:** **Merk:** Pass på at du ikke er i Verified IDs menyen etter som du kan scanne en qr kode her men dette vil ikke fungere.
+> **Merk:** Pass på at du ikke er i Verified IDs menyen etter som du kan scanne en qr kode her men dette vil ikke fungere.
 
 Videre, klikk på pluss knappen i den blåe bjelken øverst til høyre.
 
@@ -88,7 +88,7 @@ Skriver inn koden etter "`secret=`" i URL som åpnes i secret key feltet.
 
 Kontonavn kan være hva du ønsker.
 
-> **Note:** **Merk:** Hvis du oppretter konto med feil hemmelig nøkkel vil appen lage engangspassord uansett så det kan hende Catenda ikke godtar koden hvis feil hemmelig nøkkel var brukt.
+> **Merk:** Hvis du oppretter konto med feil hemmelig nøkkel vil appen lage engangspassord uansett så det kan hende Catenda ikke godtar koden hvis feil hemmelig nøkkel var brukt.
 
 ### 1.2 **Suksess eller feil**
 
@@ -108,7 +108,7 @@ Om du ikke la inn riktig kode vil du få meldingen feil kode.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1278990977/a32126255de11e5dd081dbb2cd14/image.png?expires=1781092800&signature=399eb9649bed8ecc9bcc0dbb74ca49b0e0e17f80b348b27e156e93dd4e770a53&req=dSIgHsB3nYhYXvMW3nq%2BgXKvkZmZ9xp11h1Ky4RZuL2n58N9AFZ3OwKMnsJT%0ARn0aT7hlHvyeH%2F%2FKkbwScV4CNro%3D%0A)
 
-> **Note:** **Merk:** Om du har scannet QR-Koden kan du forsøke å skrive inn koden innen det gitte tidsrammet for koden igjen mens du har denne menyen åpent. Hvis du lukker menyen vil du måtte fjerne koden som genereres i din autentiseringsapp og scanne QR-Koden på nytt for å sette opp en ny kode kobling.
+> **Merk:** Om du har scannet QR-Koden kan du forsøke å skrive inn koden innen det gitte tidsrammet for koden igjen mens du har denne menyen åpent. Hvis du lukker menyen vil du måtte fjerne koden som genereres i din autentiseringsapp og scanne QR-Koden på nytt for å sette opp en ny kode kobling.
 
 ## 2. **Endre MFA**
 
@@ -141,7 +141,7 @@ Du kan også bruke denne metoden hvis du ønsker å endre appen du bruker for MF
 1. Gjør klar appen du ønsker å bruke for å koble på din MFA
 1. Generer en ny kode-kobling ved å scanne QR koden som i [påkoblingsavsnittet](#h_213609947a).
 
-> **Note:** **Merk:** Være forsiktig med denne metoden etter som din konto midlertidig vil være sårbar mens den er deaktivert og du vil ikke ha tilgang til prosjekter hvor MFA er påkrevd under denne tiden.
+> **Merk:** Være forsiktig med denne metoden etter som din konto midlertidig vil være sårbar mens den er deaktivert og du vil ikke ha tilgang til prosjekter hvor MFA er påkrevd under denne tiden.
 
 **Overføre gjennom backup**
 
@@ -174,9 +174,9 @@ Ny enhet:
 1. Installer og åpne Microsoft Autentiseringsappen på din nye enhet.
 1. Tapp "Begin Recovery."
 
-> **Note:** **Merk 1:** Still ikke inn noen konto ved å bruke Microsoft Authenticator til etter at du har brukt Recovery tool siden det bare vil overskrive eksisterende kontoer.
+> **Merk 1:** Still ikke inn noen konto ved å bruke Microsoft Authenticator til etter at du har brukt Recovery tool siden det bare vil overskrive eksisterende kontoer.
 
-> **Note:** **Merk 2:** Denne metoden krever at du lager en backup av dine MFA koder som betyr at de er lagre ti din app leverandørs skytjeneste. Bare bruk denne metoden hvis du stoler på din app leverandørs skytjeneste. Hvis ikke er det bedre å deaktivere og reaktivere.
+> **Merk 2:** Denne metoden krever at du lager en backup av dine MFA koder som betyr at de er lagre ti din app leverandørs skytjeneste. Bare bruk denne metoden hvis du stoler på din app leverandørs skytjeneste. Hvis ikke er det bedre å deaktivere og reaktivere.
 
 ## 4. **Koble av MFA**
 
@@ -207,7 +207,7 @@ Den anbefalte desktop applikasjonen for dette er [Authy](https://authy.com/).
 
 Funksjonsmessig bruker disse typer applikasjoner samme TOTP protokoll som appen på din mobile enhet og bør være like sikre.
 
-> **Note:** **Merk:** Desktop applikasjoner kan være mindre sikkert ettter som de kan være letter å hacke eller få tilgang til. Dette er fordi dekstop systemer ofte, hvis ikke alltid, er koblet på det lokale nettverket som kan være infisert. Mobile enheter som ikke llatid er koblet på nettverket kan derfor være vanskeligere å komme inn på.
+> **Merk:** Desktop applikasjoner kan være mindre sikkert ettter som de kan være letter å hacke eller få tilgang til. Dette er fordi dekstop systemer ofte, hvis ikke alltid, er koblet på det lokale nettverket som kan være infisert. Mobile enheter som ikke llatid er koblet på nettverket kan derfor være vanskeligere å komme inn på.
 
 ## 6. **Hvem kan påkreve MFA på prosjekt?**
 
@@ -219,13 +219,13 @@ For å skru på MFA for din organisasjon sine prosjekter, kontakt Catenda suppor
 
 # Catenda Hub Archicad plugin
 
-> **Note:** **Merk:** Installasjonsfil for pluginnen er i denne [hjelpeartikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Merk:** Installasjonsfil for pluginnen er i denne [hjelpeartikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
 Mer informasjon om denne pluginen kan bli funnet [her](https://intercom.help/bimsync-arena/en/articles/5519276-catenda-archicad-plugin).
 
 # Catenda Hub Navisworks plugin
 
-> **Note:** **Merk:** Installasjonsfil for pluginnen er i denne [hjelpeartikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Merk:** Installasjonsfil for pluginnen er i denne [hjelpeartikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
 Catenda Hub add-in for Autodesk® NavisWorks® er det perfekte verktøyet for prosjekter som samarbeides i Catenda Hub. Alle dine saker er synkroniserte i samtid mellom NavisWorks og Catenda Hub, som lar deg lage, få tilgang til, dele, og kommunisere saker. Saksformatet er BCF slik at sakene kan bli delt på tvers av hvilket som helst BCF aktivert BIM programvare eller platform. Denne add-innen lar deg visualisere, skape, og redigere saker sømløst uten å forlate NavisWorks. Det er også mulig å laste ned og forbinde IFC modellen lagret i Catenda Hub  til din lokale klient.
 
@@ -254,7 +254,7 @@ Catenda Hub er et BIM samarbeidsverktøy som støtter alle buildingSMART standar
 
 > Koble Catenda på dine favoritt verktøy
 
-> **Note:** **Merk:** Catenda plugins og integrasjoner er tilgjengelig **[her](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)**.
+> **Merk:** Catenda plugins og integrasjoner er tilgjengelig **[her](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)**.
 
 # Catenda Revit plugin
 
@@ -484,7 +484,7 @@ Catenda bruker markdown for å formatere tekst.
 
 Dette betyr at visse karakter før og etter setninger vil påvirke utformingen av teksten.
 
-> **Note:** **Merk:** Mange av metodene krever en blank ny linje før den
+> **Merk:** Mange av metodene krever en blank ny linje før den
 
 I denne artikkelen vil du kunne finne informasjon om følgende temaer:
 
@@ -784,7 +784,7 @@ Hvis du klikker på tomrommet to ganger raskt etter hverandre vil du åpne model
 
 **Velge en rekke** Holder du shift kan du selektere alle modellene mellom den sist selekterte modellen og modellen du velger.
 
-> **Note:** **Merk 1:** Om du velger en rad vil du se høyre informasjonsmeny dukke opp på høyre side. **Merk 2:** Om du ikke har tilgang til dokumentet som modellen er lenket til, vil du ikke se rad for den modellen i modeller tabellen.
+> **Merk 1:** Om du velger en rad vil du se høyre informasjonsmeny dukke opp på høyre side. **Merk 2:** Om du ikke har tilgang til dokumentet som modellen er lenket til, vil du ikke se rad for den modellen i modeller tabellen.
 
 ### 2.2 **2. Velg alt**
 Velg alle modellene i modeller tabellen.
@@ -934,7 +934,7 @@ Valget under last opp zip i hamburger menyen lar deg se en overstik over dine zi
 
 > Oppdag hvordan du kan dra nytte av laserskanninger og LIDAR-teknologier i Catenda Hub.
 
-> **Note:** **Merk:** Last ned en eksempelfil [her](https://drive.google.com/file/d/1G8U916oihDl5qHrTfQaVHxDeLsbq1ulG/view?usp=sharing).
+> **Merk:** Last ned en eksempelfil [her](https://drive.google.com/file/d/1G8U916oihDl5qHrTfQaVHxDeLsbq1ulG/view?usp=sharing).
 
 Punktsky datasett kan visualiseres i Catenda Hub. Individuelle punktskyer kan forhåndsvises i dokumentområdet. Flere punktskyer kan lastes inn i [3D viseren](https://support.catenda.com/en/articles/8227211-3d-viewer). I 3D viseren kan flere punktsky vises sammen med andre 3D dokumentformater som IFC modeller og GML filer. Denne arktikkelen inneholder informasjon om følgende temaer: Se ulike innstillinger for å fremvise din data under:
 
@@ -978,7 +978,7 @@ Etter forhåndsvisningen til en publisert punktsky revisjon er prosessert vil en
 
 I et dokument med minst en publisert punktsky revisjon som har fullført prosessering vil det være mulig å se 3D handlingen i handlingsmenyet øverst til høyre.
 
-> **Note:** **Merk:** 3D handlingen laster inn den sist publiserte revisjonen til dokumentet i 3D viseren. Selv om det er en tidligere revisjon som vises i forhåndsvisningen.
+> **Merk:** 3D handlingen laster inn den sist publiserte revisjonen til dokumentet i 3D viseren. Selv om det er en tidligere revisjon som vises i forhåndsvisningen.
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/2363994311/c49eeb7bc4626cd3f8d62f8531ae/image.png?expires=1780444800&signature=aa0258fda87a6a7795f52f1b1d4231f8978efbfb9ee2c41c6a66fa23a1c10c99&req=diMhFcB3mYJeWPMW3nq%2BgTumCrpFyyn4Fi6tnkxFtsCLHqWL5e3fQZLwE2Do%0AwXtBr7zNaC%2FHBHxIZMwRz34529Y%3D%0A)
 
@@ -995,7 +995,7 @@ Mot toppen av 3D viseren vises en grønn lastebjelke. Denne lastebjelken tyder p
 ## 3. **3D viser innstillinger**
 I denne delen ser vi på innstillingene i Catenda Hub som lar deg få den beste opplevelsen med din punktsky.
 
-> **Note:** **Merk:** For å kunne konfigurere 3D viseren, pass på at applikasjonen Catenda er åpnet i ser [konfigurert som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation).
+> **Merk:** For å kunne konfigurere 3D viseren, pass på at applikasjonen Catenda er åpnet i ser [konfigurert som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation).
 
 Innstillinger som kan brukes for å stille inn punktskyer er plassert på to steder.
 
@@ -1037,7 +1037,7 @@ _Egenskap_ _RGBA_ - Standard Vis punktsky med punktenes farge. _Egenskap Intensi
 
 **Ugjennomsiktighetsgrad** Når modellene vises sammen med punktskyer kan det være behov for å dimme punktene for å ha en bedre forståelse av synspunktet. _Punktstørrelse Tilpasset_ - Standard Jo nærmere et punkt er til kammeraet, jo større punktet er. Punkter som er i visninger er lastet inn i minnet. Punkter som flyttes ut av visningen lastes ut av minnet.
 
-> **Note:** **Merk:** Pass på at maskinvare og programvaren Catenda er åpnet i er stilt inn [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation) etter som dette kan ha effekt på punkt størrelse lastingen som din enhet takler.
+> **Merk:** Pass på at maskinvare og programvaren Catenda er åpnet i er stilt inn [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation) etter som dette kan ha effekt på punkt størrelse lastingen som din enhet takler.
 
 **Punktstørrelse Fast størrselse** Punkter som har vært lastet inn beholdes i minnet med dette valget. Med mange punkter vil det merkest at roteringen kan fortreges og bevegelse kan senkes etter antall punkter som systemet takler begynner å nås. Det kan også hende at det tar lenger og lenger tid å laste inn nye punkter etter punktbegrensningen til systemet nås. Punkter nærmest kameraet lastes inn først. Før innlasting av punktskyen fra dokumentdelen, pass derfor på å stille kameraposisjonen på stedet der punkt ønskes å lastes inn. Om kameraposisjonen er et sted som brukes oftere med denne punktskyen kan det vurderes å opprette en bokmerke eller øyeblikksbilde i en sak som kan spilles av for å komme tilbake til dette stedet ved en senere anledning. _Punkttetthets_ _glidebryter_ Tetthetsglidebryteren hjeler med å finjustere den siste innstillingen. Det er ingen regel for hva som er en riktig verdi, det vil gå an på dataen som lastes opp (størelse på datasettet, punkttetthet, type scan, etc...). Vårt forslag: Last inn punktskyen, etter et lite øyeblikk, der nokk punkter vises, juster innstillingen etter behov.
 
@@ -1071,7 +1071,7 @@ Under finner du steg for å aktivere QR-kode funksjonen til mapper i ditt prosje
 
 Scanningen av placeholdere og plasseringen av QR-koder vil bare foregå i mapper med QR-kode tildelingen.
 
-> **Note:** **Merk:** Så snart en foreldermappe er tildelt vil alle under-mapper ha denne tildelingen. QR-koder kan tildeles til enhver mappe så lenge forelder mappen ikke allere er tildelt.
+> **Merk:** Så snart en foreldermappe er tildelt vil alle under-mapper ha denne tildelingen. QR-koder kan tildeles til enhver mappe så lenge forelder mappen ikke allere er tildelt.
 
 ### Publisering med QR-koder
 
@@ -1275,7 +1275,7 @@ Modellvalgdialogen kan se ut noe som dette:
 - De lenkede modellene vil lastes inn nå øyeblikksbildet spilles av.
 - Legg til eller fjern modeller ved å huke de av/på og trykke på lagre.
 
-> **Note:** **Merk:** I denne menyen kan du bare lenke øyeblikksbilder fra Catenda modeller. Det endres ikke in innholdet til BCFen.
+> **Merk:** I denne menyen kan du bare lenke øyeblikksbilder fra Catenda modeller. Det endres ikke in innholdet til BCFen.
 
 - Angående på objektfremvisningsinnstillingene til øyeblikksbildet kan modeller som legges ved være gjemte. Selv hvis de ikke er visbare skal du kunne se at de lastes inn når øyeblikksbildet gjenskapes.
 - Modeller som er på når dette menyen er åpnet gjenspeiler de gjeldende modellene som er lastet inn i 3D viser. For å lett legge til/fjerne et sett med modeller kan du lage en bokmerke, spille av bokmerket og gå til øyeblikksbildet for å klikke på modell menyen og lagre det nye oppsettet.
@@ -1396,7 +1396,7 @@ Bare oppretteren av en kommentar kan slette sin egen kommentar.
 
 # Skrivebordstilkoblingen (Desktop Connector)
 
-> **Note:** **Merk:** Installasjonsfil for pluginnen er i denne [hjelpeartikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Merk:** Installasjonsfil for pluginnen er i denne [hjelpeartikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
 Med skrivebordstilkoblingen, Catenda Desktop Connector, kan du planlegge opp-/nedlastinger til de siste versjonene av dokumenter.
 
@@ -1612,7 +1612,7 @@ Ved opplasting av flere mindre filer blir det både lettere for prosjektmedlemme
 
 Noen redigeringsverktøy støtter IfcZIP som et valg ved eksport av IFC filer.
 
-> **Note:** **Eksempel:** `3D-modell.ifczip`
+> **Eksempel:** `3D-modell.ifczip`
 
 ## 3. **Opprette en IfcZip**
 
@@ -1621,7 +1621,7 @@ Om størrelsen til din `.ifc` fil er større enn hva som kan lastes opp kan file
 - Komprimer din `.ifc` fil til en `.zip` fil.
 - Endre filutvidelsen fra `.zip` til `.ifczip`
 
-> **Note:** **Eksempel:** `3D-modell.ifc` v `3D-modell.zip` v `3D-modell.ifczip ​`
+> **Eksempel:** `3D-modell.ifc` v `3D-modell.zip` v `3D-modell.ifczip ​`
 
 ## 4. **Kontakt brukerstøtte**
 
@@ -1631,7 +1631,7 @@ Om du ikke har mulighet til å redigere filen og den er større enn hva som kan 
 
 For vår modell viser støtter vi bare IFC filer. Alle filtyper kan lastes opp i dokument delen. De følgende filtypene kan forhåndsvises i dokument delen:
 
-> **Note:** **NB:** IFC og Point cloud forhåndsvisninger kan lastes inn i 3D viser.
+> **NB:** IFC og Point cloud forhåndsvisninger kan lastes inn i 3D viser.
 
 - _PDF_ - pdf, fdf, xfdf
 - _Bilder_ - bmp, wmf, emf, gif (static image only), hdp, jpg, jp2, png, tif, tiff
@@ -1957,7 +1957,7 @@ Dokument-modeller kan flyttes ut av denne mappen til ethvert sted i dokumentdele
 
 For å kunne laste opp nye revisjoner til en modell vil du nå trenge minst skrivetilgang til dokument-modellen. Nye revisjoner til modellen kan legges til i dokumentet og omventdt.
 
-> **Note:** **Merk:** Revisjonskommentarer er koblet av og kan valgfritt kobles på igjen med [egne felt på revisjoner](https://support.catenda.com/nb/articles/9531080-egne-felt-pa-dokumenter).
+> **Merk:** Revisjonskommentarer er koblet av og kan valgfritt kobles på igjen med [egne felt på revisjoner](https://support.catenda.com/nb/articles/9531080-egne-felt-pa-dokumenter).
 
 **Nedlastning av modell-revisjoner**
 
@@ -2035,7 +2035,7 @@ Dette betyr at du kan slette flere modeller av gangen fremfor en-for-en som før
 
 Om du sletter et dokument som er koblet til en modell vil du måtte godkjenne et varsel om at modellen som er koblet til dokumentet også slettes.
 
-> **Note:** **Merk:** Dette betyr at du kan slette en modell uten å miste data. (Slettede dokumenter kan gjenopprettes)
+> **Merk:** Dette betyr at du kan slette en modell uten å miste data. (Slettede dokumenter kan gjenopprettes)
 
 ### 4.4 **Tilgangskontroll for dokument-modeller**
 
@@ -2051,7 +2051,7 @@ Modell-dokumentet i modeller delen vil ha samme navn som dokument-modellen selv 
 
 Nye revisjoner til modellen kan legges til som revisjoner til dokumentet og omvendt.
 
-> **Note:** **Merk:** Dette betyr at du kan opprette modeller fra flere IFC filter samtidig istedet for å måtte laste de opp en og en.
+> **Merk:** Dette betyr at du kan opprette modeller fra flere IFC filter samtidig istedet for å måtte laste de opp en og en.
 
 **Laste opp revisjoner til dokument-modeller**
 

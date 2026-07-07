@@ -26,6 +26,6 @@ Een goed gebruik hiervan is het instellen van een team wanneer een lid wordt uit
 
 Om een nieuw team aan te maken ga je naar de ledenpagina en in de rechterbovenhoek is er een knop "Nieuw team". Daar kies je de naam van het team en of het team de rol van lid of beheerder moet krijgen.
 
-> **Note:** **Opmerking:** Als het team de rol van beheerder krijgt, zal elk lid van dat team beheerderstoegang hebben.
+> **Opmerking:** Als het team de rol van beheerder krijgt, zal elk lid van dat team beheerderstoegang hebben.
 
 Als het team is aangemaakt, wordt de [teampagina](https://support.catenda.com/en/articles/7891755-team-page) geopend en kun je leden aan het team toevoegen.

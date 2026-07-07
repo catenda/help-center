@@ -174,7 +174,7 @@ Modellvalgdialogen kan se ut noe som dette:
 - De lenkede modellene vil lastes inn nå øyeblikksbildet spilles av.
 - Legg til eller fjern modeller ved å huke de av/på og trykke på lagre.
 
-> **Note:** **Merk:** I denne menyen kan du bare lenke øyeblikksbilder fra Catenda modeller. Det endres ikke in innholdet til BCFen.
+> **Merk:** I denne menyen kan du bare lenke øyeblikksbilder fra Catenda modeller. Det endres ikke in innholdet til BCFen.
 
 - Angående på objektfremvisningsinnstillingene til øyeblikksbildet kan modeller som legges ved være gjemte. Selv hvis de ikke er visbare skal du kunne se at de lastes inn når øyeblikksbildet gjenskapes.
 - Modeller som er på når dette menyen er åpnet gjenspeiler de gjeldende modellene som er lastet inn i 3D viser. For å lett legge til/fjerne et sett med modeller kan du lage en bokmerke, spille av bokmerket og gå til øyeblikksbildet for å klikke på modell menyen og lagre det nye oppsettet.

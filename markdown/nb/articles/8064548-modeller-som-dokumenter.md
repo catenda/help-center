@@ -86,7 +86,7 @@ Dokument-modeller kan flyttes ut av denne mappen til ethvert sted i dokumentdele
 
 For å kunne laste opp nye revisjoner til en modell vil du nå trenge minst skrivetilgang til dokument-modellen. Nye revisjoner til modellen kan legges til i dokumentet og omventdt.
 
-> **Note:** **Merk:** Revisjonskommentarer er koblet av og kan valgfritt kobles på igjen med [egne felt på revisjoner](https://support.catenda.com/nb/articles/9531080-egne-felt-pa-dokumenter).
+> **Merk:** Revisjonskommentarer er koblet av og kan valgfritt kobles på igjen med [egne felt på revisjoner](https://support.catenda.com/nb/articles/9531080-egne-felt-pa-dokumenter).
 
 **Nedlastning av modell-revisjoner**
 
@@ -164,7 +164,7 @@ Dette betyr at du kan slette flere modeller av gangen fremfor en-for-en som før
 
 Om du sletter et dokument som er koblet til en modell vil du måtte godkjenne et varsel om at modellen som er koblet til dokumentet også slettes.
 
-> **Note:** **Merk:** Dette betyr at du kan slette en modell uten å miste data. (Slettede dokumenter kan gjenopprettes)
+> **Merk:** Dette betyr at du kan slette en modell uten å miste data. (Slettede dokumenter kan gjenopprettes)
 
 ### 4.4 **Tilgangskontroll for dokument-modeller**
 
@@ -180,7 +180,7 @@ Modell-dokumentet i modeller delen vil ha samme navn som dokument-modellen selv 
 
 Nye revisjoner til modellen kan legges til som revisjoner til dokumentet og omvendt.
 
-> **Note:** **Merk:** Dette betyr at du kan opprette modeller fra flere IFC filter samtidig istedet for å måtte laste de opp en og en.
+> **Merk:** Dette betyr at du kan opprette modeller fra flere IFC filter samtidig istedet for å måtte laste de opp en og en.
 
 **Laste opp revisjoner til dokument-modeller**
 

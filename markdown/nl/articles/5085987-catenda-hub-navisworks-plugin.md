@@ -1,6 +1,6 @@
 # Catenda Hub Navisworks plugin
 
-> **Note:** **Merk:** Het installatie bestand voor de plugin is in [deze hulpartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Merk:** Het installatie bestand voor de plugin is in [deze hulpartikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
 De Catenda Hub add-in voor Autodesk® NavisWorks®  is het perfecte hulpmiddel voor projecten die in Catenda Hub samenwerken. Al u issues zijn gesynchroniseerd in real-time tussen NavisWorks en Catenda Hub, waardoor u issues kan maken, toegang tot krijgen, delen en communiceren. Het issue formaat is BCF zo dat de issues gedeeld kunnen worden over elke BCF geactiveerde BIM software of platform.
 

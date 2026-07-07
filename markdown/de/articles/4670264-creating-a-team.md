@@ -10,6 +10,6 @@ Um ein neues Team zu erstellen, gehen Sie auf die Mitgliederseite und wählen Si
 
 ![](https://downloads.intercomcdn.com/i/o/770997966/e20d19ac3929bc1e14097948/image.png?expires=1781092800&signature=2d2669ed37fcb0c3a93f20413e516b3d3e2f8f84e371452a223a63f738244136&req=cycnH8B5lIdZFb4V1XW4gSOavavzS%2FUX8XyvOjbpDAAVoDwxMqkM8jYPdCyI%0AhRGHJBSJcePgpMjc8si1Skkb4g%3D%3D%0A)
 
-> **Note:** **Hinweis:** Wenn das Team die Administratorrolle erhält, hat jedes Mitglied dieses Teams Administratorzugriff.
+> **Hinweis:** Wenn das Team die Administratorrolle erhält, hat jedes Mitglied dieses Teams Administratorzugriff.
 
 Wenn das Team erstellt ist, wird die Teamseite geöffnet und Sie können Mitglieder zu diesem Team hinzufügen.

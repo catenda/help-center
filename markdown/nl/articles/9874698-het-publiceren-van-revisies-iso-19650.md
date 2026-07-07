@@ -82,7 +82,7 @@ Een gespiegelde versie van het werkruimte tabblad. Hier is dezelfde mappenstruct
 
 Alleen documenten en modellen met gepubliceerde revisies zijn hier zichtbaar.
 
-> **Note:** **Let op:** Zie gedeelde revisies in het revisieoverzicht van de documentenpreview, zelfs als u het document vanuit het gepubliceerde tabblad geopend heeft. _Minimumstoegang:_ Gedeelde revisies
+> **Let op:** Zie gedeelde revisies in het revisieoverzicht van de documentenpreview, zelfs als u het document vanuit het gepubliceerde tabblad geopend heeft. _Minimumstoegang:_ Gedeelde revisies
 
 ### 3.3 **Nieuwe gedeelde revisies uplaoden**
 
@@ -153,7 +153,7 @@ De meest recentlijke revisie in het gepubliceerde tabblad kan zijn:
 
 Gepubliceerde revisie - _Minimumstoegang:_ Lees
 
-> **Note:** **Let op:** Gedeelde revisies kunnen zichtbaar zijn het revisieoverzicht van de documetnenweergave, zelfds als de meest recentelijke revisie in het gepubliceerde tabblad geopend is. _Minimumstoegang:_ Gedeelde revisies
+> **Let op:** Gedeelde revisies kunnen zichtbaar zijn het revisieoverzicht van de documetnenweergave, zelfds als de meest recentelijke revisie in het gepubliceerde tabblad geopend is. _Minimumstoegang:_ Gedeelde revisies
 
 ![](https://downloads.intercomcdn.com/i/o/areracg3/1462398892/0d70d5c5f54ec607f74437c42cb9/image.png?expires=1781092800&signature=14c80a152f32ea13a5b8d30385e86d6bd334fc7bf555a1debd23cda7bf4ec946&req=dSQhFMp3lYlWW%2FMW3nq%2BgftEApPZ%2BEvxt4G6NVukANxbEBU7QNTOp%2BE0ABrn%0AV8qMFva7E08xchfqQtTLVkw0avs%3D%0A)
 
