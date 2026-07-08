@@ -1,163 +1,163 @@
-# トピックページでのフィルタリング
+# Filtering on the topics page
 
-トピックボード内のフィルターメニューは、[トピックボード](https://support.catenda.com/en/articles/4670271-issues-page)の検索バーの左側にあるフィルターボタンをクリックして開くことができます。
+The filter menu in an topic board can be opened by clicking on the filter button to the left of the search bar in a [topic board](https://support.catenda.com/en/articles/4670271-issues-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/01-intro.png)
 
-## 1. **フィルター**
+## 1. **Filters**
 
-左上のフィルターボタンをクリックすると、左側にパネルが表示されます。フィルターが適用されると、ブラウザに表示されるURLがそれに応じて変更されます。この記事では、フィルターは次のように表示されます。_メニュー内のフィルター名_ - `URL内のフィルター名=URL内のフィルターオプション`
+Click the filter button on the top left for a panel to appear on the left side. When a filter is applied, the URL visible in the browser changes with it. In this article filters are displayed like so: _Filter name in menu_ - `Filter name in URL=Filter option in URL`
 
-**デフォルトフィルター**デフォルトフィルターは最初、URLに表示されません。ページに初めて移動するときは、以下のフィルターが適用されます。_フィルターなし_ - `status-type=all`
+**Default filter** The default filter is initially not visible in the URL. When the page is navigated to for the first time the following filter is applied. _No filter_ - `status-type=all`
 
-### 1.1 **現在のフィルターを保存して共有**
+### 1.1 **Save and share the current filter**
 
-フィルターされたページのURLに移動して、フィルターが適用されたそのページを読み込みます。適用されたフィルターはフィルターメニューの上部に保存できます。[こちら](https://support.catenda.com/en/articles/11401493-saving-a-filter-link)をクリックして、フィルターの保存と共有方法の詳細をご覧ください。
+Go to the URL of a filtered page to load that page with the filter applied. The applied filters can be saved towards the top of the filter menu. Click [here](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) to read more about how to save and share filters
 
-### 1.2 **空のフィルターを非表示**
+### 1.2 **Hide empty filters**
 
-[こちら](https://support.catenda.com/en/articles/8551755-saving-filters)をクリックして、フィルター結果の制限方法についての詳細をご覧ください。
+Click [here](https://support.catenda.com/en/articles/8551755-saving-filters) to read more about limiting filter results.
 
-## 2. **フィルターメニューでのフィルタリング**
+## 2. **Filtering in the filter menu**
 
-ここで、以下のフィルターが見つかります。
+Here the following filters can be found:
 
-フィルターメニュー内の異なるフィルターは、フィルター対象のアイテムが設定されたトピックが存在する場合にのみ表示されます。
+The different filters in the filter menu will only show up if there are topics where the item that is filtered for has been configured.
 
-### 2.1 **マイトピック**
+### 2.1 **My topics**
 
-自分に割り当て - `assigned-user=\<User GUID>&assigned-team=\<Team GUID>` _割り当てられたユーザー_ - `assigned-user=\<User GUID>` _マイチーム_ - `assigned-team=\<Team GUID>` _自分からのリクエスト_ - `requester-user=\<Your GUID>` トピック _フォローしているもの_ - `followed-by=me` _言及されているもの_ - `mentioned=me`
+Assigned to me - `assigned-user=\<User GUID>&assigned-team=\<Team GUID>` _Assigned User_ - `assigned-user=\<User GUID>` _My teams_ - `assigned-team=\<Team GUID>` _Requested by me_ - `requester-user=\<Your GUID>` Topics _I follow_ - `followed-by=me` _mentioning me_ - `mentioned=me`
 
-> **注記:** 「フォローしているトピック」または「言及されているもの」フィルターがアクティブなリンクを共有した場合、リンクを開いたユーザーは、自分がフォローしたトピック、および言及されたトピックでフィルタリングされたトピックボードを持つため、あなたがフォローしたトピック、および言及されたトピックではありません。 言及されたトピックを共有するには、[テキスト検索](#text-search)を使用してください。
+> **Note:** If you share a link with the "Topic I follow" or the "mentioning me" filters active the user opening the link will have their topic board filtered for topic  they follow and topics they have been mentioned in and not topics you follow and topics you are mentioned in. To share topics you have been mentioned in please use [text search](#text-search)
 
-_自分が作成_ - `created-by=\<User GUID>`
+_Created by me_ - `created-by=\<User GUID>`
 
-### 2.2 **ステータス/タイプ**
+### 2.2 **Status / Type**
 
-_すべてのオープンステータス_ - `status-type=open` _特定のオープンステータス_ - `status-type=\<Status GUID>` _すべてのクローズステータス_ - `status-type=closed` _特定のクローズステータス_ - `status-type=\<Status GUID>` _タイプ_ - `type=\<Type GUID>`
+_All open status_ - `status-type=open` _Specific open status_ - `status-type=\<Status GUID>` _All closed status_ - `status-type=closed` _Specific closed status_ - `status-type=\<Status GUID>` _Type_ - `type=\<Type GUID>`
 
-### 2.3 **期日**
+### 2.3 **Due date**
 
-_期限切れ_ - `due=overdue` _期日があるすべて_ - `due=present` _期日なし_ - `due=none`
+_Overdue_ - `due=overdue` _All with a due date_ - `due=present` _No due date_ - `due=none`
 
-### 2.4 **更新**
+### 2.4 **Updated**
 
-日付フィルターを使用すると、トピックが最後に更新された時間枠を選択できます。_更新_ - `updated-from=\<Epoch Unix Timestamp>&updated-to=\<Epoch Unix Timestamp>` [この](https://support.catenda.com/en/articles/6511685-date-filter)記事を読んで、ページで日付を簡単に選択する方法を学びます。
+With the date filter you can select a timeframe for when the topics were last updated. _Updated_ - `updated-from=\<Epoch Unix Timestamp>&updated-to=\<Epoch Unix Timestamp>` Read [this](https://support.catenda.com/en/articles/6511685-date-filter) article to learn how to easily select dates on the page.
 
-### 2.5 **担当者/依頼者**
+### 2.5 **Assigned to / Requested by**
 
-_誰にも割り当てられていない_ - `assigned=unassigned` _チームが割り当てられていない_ - `assigned-team=unassigned` _チームに割り当て_ - `assigned-team=\<Team GUID>` _ユーザーに割り当てられていない_ - `assigned-user=unassigned` _ユーザーに割り当て_ - `assigned-user=\<User GUID>` 割り当てオペレーター - `assigned-op=and` デフォルトでは、割り当てられたユーザーまたは割り当てられたチームのみを検索できます。Catenda Hubでは、user@teamとして譲受人を設定できます。このタイプのすべてのトピックを見つけるには、チームとユーザーでフィルタリングし、URLの最後に&assigned-op=andを追加します。
+_Assigned to no-one_ - `assigned=unassigned` _No team assigned_ - `assigned-team=unassigned` _Assigned to team_ - `assigned-team=\<Team GUID>` _Not assigned to user_ - `assigned-user=unassigned` _Assigned to user_ - `assigned-user=\<User GUID>` Assigned operator - `assigned-op=and` By default you can only search for the assigned user OR the assigned team. In Catenda Hub you can set an assignee as user@team To find all topics of this type**,** filter by the team and the user, and add &assigned-op=and to the end of the URL.
 
-_リクエストなし_ - `requester=unassigned` _チームからのリクエストなし_ - `requester-team=unassigned` _ユーザーからのリクエストなし_ - `requester-user=unassigned` _ユーザーからのリクエスト_ - `requester-user=\<User GUID>`
+_Not requested_ - `requester=unassigned` _Not requested by team_ - `requester-team=unassigned` _Not requested by user_ - `requester-user=unassigned` _Requested by user_ - `requester-user=\<User GUID>`
 
-### 2.6 **作成者**
+### 2.6 **Created by**
 
-_ユーザーが作成_ - `created-by=\<User GUID>`
+_Created by user_ - `created-by=\<User GUID>`
 
-### 2.7 **マイルストーン**
+### 2.7 **Milestone**
 
-_マイルストーン_ - `milestone=\<Milestone GUID>`
+_Milestone_ - `milestone=\<Milestone GUID>`
 
-### 2.8 **カスタムフィールド**
+### 2.8 **Custom field**
 
-_カスタムフィールドに値がある_ - `custom-field-has-value-\<Custom field GUID>=true` フィルターメニューの「値がある」オプションを使用すると、そのカスタムフィールドに値が設定されているすべてのトピックをフィルタリングできます。値を持つでフィルタリングできるカスタムフィールドの種類：日付 小数 ドロップダウン 整数 テキスト
+_Custom field has value_ - `custom-field-has-value-\<Custom field GUID>=true` With the "has value" option in the filter menu all topics with that have a value configured for that custom field can be filtered. Custom field types that can be filtered on has value: Date Decimal Dropdown Integer Text
 
-_カスタムフィールド固有値_ - `custom-field-item-\<Custom field GUID>=\<Value GUID>` フィルターメニューから特定の値でフィルタリングできるカスタムフィールドの種類：ドロップダウン
+_Custom field specific value_ - `custom-field-item-\<Custom field GUID>=\<Value GUID>` Custom field types that can be filtered on specific value from the filter menu: Dropdown
 
-値を構成できるカスタムフィールド内のいくつかの値はフィルタリングできます。検索またはフィルターバーに検索句を入力して、対応するカスタムフィールドを選択することで、値をフィルタリングします。検索またはフィルターバーに入力してフィルタリングできるカスタムフィールドの種類：小数 ドロップダウン 整数 テキスト
+Some values in custom fields where values can be configured can be filtered. Filter for values by writing a search phrase in the search or filter bar and select the corresponding custom field. Custom field types that can be filtered by typing in the search or filter bar: Decimal Dropdown Integer Text
 
-_カスタムフィールドに値がない_ - `custom-field-has-value-\<Custom field GUID>=false` カスタムフィールドに値がないすべてのトピックをフィルタリングします。値を持たないでフィルタリングできるカスタムフィールドの種類：日付 小数 ドロップダウン 整数 テキスト
+_Custom field has no value_ - `custom-field-has-value-\<Custom field GUID>=false` Filter on all topics where a custom fields does not have any value. Custom field types that can be filtered on no value: Date Decimal Dropdown Integer Text
 
-> **注記:** 必須に設定されたカスタムフィールドには常に値があります。 そのため、必須に設定されたカスタムフィールドについては、「値がある」または「値がない」を検索することはできません。
+> **Note:** Custom fields that are set as required will always have a value. You will therefore not be able to search for "has value" or "has no value" can therefore not be searched for a custom field that is set as required.
 
-### 2.9 **ラベル**
+### 2.9 **Label**
 
-_ラベル_ - `label=\<Label GUID>` 独自のラベルグループ内のラベルは、別個のリストに表示されます。
+_Label_ - `label=\<Label GUID>` Labels in their own label group are shown in a separated list.
 
-### 2.10 **リンク**
+### 2.10 **Links**
 
-リンク - `associations=exists` 3Dビューアのモデルオブジェクトにリンクされたトピックをフィルタリングします。
+Linked - `associations=exists` Filter on topics linked to model objects in the 3D viewer.
 
-リンク解除 - `associations=does-not-exist` 3Dビューアのモデルオブジェクトにリンクされていないトピックをフィルタリングします。
+Unlinked - `associations=does-not-exist` Filter on topics that are not linked to model objects in the 3D viewer.
 
-選択したオブジェクトにリンク - `link=backlink` 3Dパネルがまだ開いていない場合は、開きます。3Dビューアのモデルからオブジェクトを選択して、選択したオブジェクトにリンクされたトピックをフィルタリングします。
+Linked to selected objects - `link=backlink` If it is not already open, the 3D panel will open up. Select objects from a model in the 3D viewer to filter on topics linked to the selected objects.
 
-## 3. **検索またはフィルターバーでのフィルタリング**
+## 3. **Filtering in the search or filter bar**
 
-左側のフィルターメニューに加えて、検索またはフィルターバーを通じてのみ利用可能な機能がいくつかあります。強調表示されるときの検索またはフィルターバーの外観は次のとおりです。
+In addition to the filter menu on the left there is some functionality that is only available through the search or filter bar. This is what the search or filter bar can look like when it is highlighted:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/02-filtering-in-the-search-or-filter-bar.png)
 
-検索またはフィルターバーの下に、提案されたフィルターのメニューが開きます。フィルターメニュー内の最初のフィルターは、検索またはフィルターメニューをハイライトした後に提案されます。Enterキーを押してこのフィルターを適用するか、矢印キーを使用して異なるフィルター間を移動します。
+Below the search or filter bar a menu with suggested filters opens up. The first filter in the filter menu is suggested after highlighting the search or filter menu. Press enter to apply this filter or use the arrow keys to navigate between the different filters.
 
-### 3.1 **保存されたフィルター**
+### 3.1 **Saved filters**
 
-トピックボードに保存されたフィルターがある場合、それらはフィルターメニューで最初に利用可能なフィルターになり、検索またはフィルターボックスがハイライトされるとすぐに提案されます。
+If you have any saved filters in a topic board those will be the first available filter in the filter menu and will be suggested as soon as the search or filter box is higlighted:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/03-saved-filters.png)
 
-フィルターをクリックして、ボードを名前が付けられた保存されたフィルターのセットでフィルタリングします。[こちら](https://support.catenda.com/en/articles/8551755-saving-filters)をクリックして、フィルターのセットを保存する方法についての詳細をご覧ください。
+Click on the filter to open filter the board on the saved set of filters that have been given a name. Click [here](https://support.catenda.com/en/articles/8551755-saving-filters) to read more about how to save a set of filters.
 
-### 3.2 **テキスト検索**
+### 3.2 **Text search**
 
-_テキスト検索-_ `search=\<Search phrase>` 検索またはフィルターバーに文字を入力した後、最初の提案されたフィルターがテキスト検索に変わります。
+_Text search -_ `search=\<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/04-text-search.png)
 
-**検索可能なコンテンツ**トピックタイトル トピックの説明 トピックのコメント
+**Content that can be searched on** Topic title Topic description Topic comments
 
-**大文字小文字の区別**テキスト検索は大文字と小文字を区別しません。
+**Capitalization** The text search is not sensitive to upper or lowercase characters.
 
-**文字数** 1文字 検索された文字を含むコンテンツは、コンテンツの開始時の値が58以上のunicode文字でない限り、マッチします。
+**Character amounts** Single character Content that includes the searched character is matched unless it is a unicode letter with a value that is 58 or higher at the start of the content.
 
-2文字 スペースなどのセパレーター文字で区切られた単一の単語を持ち、検索句に一致するコンテンツが結果に含まれます。
+Two characters Content that has a single word, separated by a separator character like a space, that matches the search phrase is included in the results.
 
-3文字以上 検索句に一致するコンテンツはコンテンツのどの部分でも結果に含まれます。
+Three or more characters Content that matches the search phrase in any part of the content is included int he results.
 
-**空白**検索句の開始時の空白文字は削除されます。
+**Whitespace** Whitespace characters at the beginning of a search phrase are removed.
 
-**メンションされたメンバーまたはチームの検索**コメントまたは説明でメンバーまたはチームが言及されたトピックは、テキスト検索を使用して見つけることができます。
+**Searching for mentioned members or teams** Topics where a member or team has been mentioned in a comment or description can be found using the text search:
 
-メンバーまたはチーム名 メンバーまたはチームの名前を検索して、そのメンバーまたはチーム名のすべてのプレーンテキストの出現を見つけます。
+Member or team name Search on the name of the member or team to find all plain text occurrences of that member or team name.
 
-メンションされたメンバー メンバーのメールアドレスを検索して、そのメンバーのメールアドレスのすべてのプレーンテキストの出現を見つけます。これは、彼らが言及された場所を含みます。`#[\<Email of member>]`で検索して、そのメンバーが言及されている出現箇所のみを見つけます。
+Mentioned member Search on the email of a member to find all plain text occurrences of that members email. This includes where they have been mentioned. Search on `#[\<Email of member>]` to find only the occurrences where that member is mentioned.
 
-メンションされたチーム メンションされたチームは、そのチームのGUIDを検索することで検索できます。チームのGUIDを見つけるには、[メンバーとチームページのチームタブで](https://support.catenda.com/en/articles/4670291-members-and-teams-page)チームの名前をクリックして、[そのチームのコンテンツページ](https://support.catenda.com/en/articles/7891755-team-page)に移動します。URLは次のようになります。[https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
+Mentioned team Mentioned teams can be searched on by searching the GUID of that team. To find the GUID of a team, go to the [content page of that team](https://support.catenda.com/en/articles/7891755-team-page) by clicking on its name on the [teams tab of the members and teams page](https://support.catenda.com/en/articles/4670291-members-and-teams-page). The URL should look something like: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 
-チームGUIDで検索して、そのチームGUIDのすべてのプレーンテキストの出現を見つけます。これは、彼らが言及された場所を含みます。`#[\<team GUID>]`で検索して、そのチームが言及されている出現箇所のみを見つけます。
+Search on the team GUID to find all plain text occurrences of that team GUID. This includes where they have been mentioned. Search on `#[\<team GUID>]` to find only the occurrences where that team is mentioned.
 
-### 3.3 **カスタムフィールド-テキスト**
+### 3.3 **Custom fields - Text**
 
-検索句が値が58以上のunicode値を持つunicode文字で始まる場合、次のフィルターが提案されたフィルターのリストの下部に表示されます。
+If a search pharse starts with a unicode character with a unicode value that is 58 or higher the following filters will appear towards the bottom of the list of suggested filters.
 
-_テキストカスタムフィールド-_ `custom-field-\<Custom field GUID>=\<Search phrase>` テキストカスタムフィールドがトピックボードで有効な場合、ボード内のすべてのトピックのテキストカスタムフィールドのコンテンツはこのフィルターでフィルタリングできます。
+_Text custom field -_ `custom-field-\<Custom field GUID>=\<Search phrase>` If a text custom field is enabled in the topic board the content of text custom fields in all topics in the board can be filtered with this filter.
 
-### 3.4 **数値検索句**
+### 3.4 **Number search phrase**
 
-検索句が値が33〜57の間のunicode値を持つunicode文字で始まる場合、次のフィルターが提案されたフィルターのリストの下部に表示されます。
+If a search pharse starts with a unicode character with a unicode value that is between 33 and 57 the following filters will appear towards the bottom of the list of suggested filters.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/06-number-search-phrase.png)
 
-これには、以下の文字が含まれます。`!`,`\"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`\*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
+This includes the following characters: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`\*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
 
-_トピック-_ `issues=\<issue number>` 検索句が数字で始まる場合、トピック番号検索が検索またはフィルターバーの提案として表示されます。提案されたフィルターは次のようになります。
+_Topic -_ `issues=\<issue number>` When a search phrase starts with a number the topic number search appears as a suggestion in the search or filter bar. The suggested filter can look something like this:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/07-number-search-phrase.png)
 
-ボードをトピック番号だけでなくトピック番号でフィルタリングすることは可能ですが、トピックはこのフィルターで番号でのみ見つけられます。数字だけ以上のものが提供されている場合、フィルターはメニューから消えますが、ボードは引き続き入力された句でフィルタリングされます。
+While it is possible to filter a board for topic numbers with more than just numbers topics can only be found with their number with this filter. If more than just numbers are provided the filter will disappear from the menu but the board will still be filtered on the entered phrase.
 
-番号でフィルタリング1つ以上のトピック 検索またはフィルターバーからは、一度に1つのトピックで検索することのみが可能です。Catendaトピック番号123を持つトピックがボード内に存在する場合、トピック番号123でフィルタリングされているときにurlは`&issues=123`を含みます。urlにより多くのトピック番号を入力することが可能です。例えば：`&issues123,124,125`は、3つのトピックすべてがボード内に存在する場合、すべてが表示されます。このような複数のトピックでフィルタリングすることは、URLを編集することによってのみ可能です。
+Filtering on one or more topics by number It is only possible to search on one topic at a time from the search or filter bar. If the topic with the Catenda topic number 123 exists in the board the url will have `&issues=123` in it when it is filtered on topic number 123. It is possible to enter more topic numbers in the url, for example: `&issues123,124,125` would result in all three topics being displayed if they exist in the board. Filtering on multiple topics like this is only possible by editing the URL.
 
-### 3.5 **カスタムフィールド-数値**
+### 3.5 **Custom fields - Number**
 
-_整数カスタムフィールド-_ `custom-field-\<Custom field GUID>=\<Search phrase>` 整数カスタムフィールドがトピックボードで有効な場合、ボード内のすべてのトピックの整数カスタムフィールドのコンテンツはこのフィルターでフィルタリングできます。
+_Integer custom field -_ `custom-field-\<Custom field GUID>=\<Search phrase>` If an integer custom field is enabled in the topic board the content of integer custom fields in all topics in the board can be filtered with this filter.
 
-_小数カスタムフィールド-_ `custom-field-\<Custom field GUID>=\<Search phrase>` 小数カスタムフィールドがトピックボードで有効な場合、ボード内のすべてのトピックの小数カスタムフィールドのコンテンツはこのフィルターでフィルタリングできます。
+_Decimal custom field -_ `custom-field-\<Custom field GUID>=\<Search phrase>` If a decimal custom field is enabled in the topic board the content of decimal custom fields in all topics in the board can be filtered with this filter.
 
-### 3.6 **カスタムフィールド-ドロップダウン**
+### 3.6 **Custom fields - Dropdown**
 
-検索句がフィルター内の値の名前に一致する場合、最も一致するフィルターが提案ボックスで提案されます。
+If a search pharse matches the name of a value in a filter, the filter that matches the best will be suggested in the suggestion box.
 
-_ドロップダウンカスタムフィールド_ _-_ `custom-field-item-\<Custom field GUID>=\<Dropdown value GUID>` 検索句が最大10個の値を持つドロップダウンカスタムフィールド内の値に一致する場合、そのドロップダウン値で検索することが提案されます。
+_Dropdown custom field_ _-_ `custom-field-item-\<Custom field GUID>=\<Dropdown value GUID>` If the search phrase matches a value in a dropdown custom field with up to 10 values it will be suggested to search on that dropdown value.

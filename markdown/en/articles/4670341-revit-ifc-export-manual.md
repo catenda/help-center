@@ -1,306 +1,306 @@
-# Revit IFC-eksportmanual
+# Revit IFC Export Manual
 
-Målet med denne IFC-eksportmanualen er å gi brukeren en veiledning om hvordan du eksporterer IFC for riktig formål. En IFC-fil kan raskt bli stor og tung når du har mye informasjon som skal tas ut av modellen. Derfor må du fjerne merkingen for unødvendig informasjon når du eksporterer en IFC. Når du laster opp en modell til Catenda, er det ikke alltid nødvendig å ha mye informasjon og et høyt detaljnivå i modellen. Senere i denne manualen kommer vi tilbake til hvilke innstillinger vi anbefaler for å gjøre modellen litt mindre og litt enklere å arbeide med. Her går vi gjennom steg for steg den mest hensiktsmessige måten å eksportere en IFC fra Revit til Catenda.
+With this IFC export manual, the goal is to give the user a guide on how to export the IFC for the right purposes. An IFC file can quickly become heavy and large when you have a lot of information to get out of the model. That is why when exporting an IFC, you need to uncheck unnecessary information. When uploading a model to Catenda, it is not always necessary to have a lot of information and a high level of detail in the model. A little later in this manual we will return to what settings we recommend to make the model a little smaller and a little easier to work with. Here we will go through step by step the most appropriate way to export an IFC from Revit to Catenda.
 
-## 1. **Prosjektinnstillinger**
+## 1. **Project settings**
 
-Før eksport er det viktig å kontrollere at GUID-ene i Revit-prosjektet ditt er korrekte.
+Before exporting it is important to make sure that the GUID's of your Revit project are correct.
 
-`Administrer -> Innstillinger -> Prosjektinformasjon -> IFC-parametere`
+`Manage -> Settings -> Project Information -> IFC Parameters`
 
-![Prosjektinformasjon IFC-parametere IfcSite GUID IfcBuilding GUID IfcProject GUID](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/01-project-settings.png)
+![Project information IFC Parameters IfcSite GUID IfcBuilding GUID IfcProject GUID](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/01-project-settings.png)
 
-Hvis GUID-en er ulik fra en tidligere eksport, vil objektene i nyere eksporter ikke være riktig koblet til GUID-ene i BCF-emner. Når du oppretter et nytt prosjekt, får det en unik ID.
+If the GUID is different from a previous export the objects of newer exports will not be properly linked to the GUIDs in BCF topics. When you make a new project it will have a unique id.
 
-## 2. **Endre IFC-eksport**
+## 2. **Modify IFC export**
 
-Når Revit er åpent og du er klar til å eksportere, kan du gjøre følgende.
+When Revit is open and you are ready to export, you may want to do the following.
 
-![På toppen til venstre på skjermen trykker du på Fil](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/02-modify-ifc-export.png)
+![On th top left of the screen, press file](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/02-modify-ifc-export.png)
 
-Øverst til venstre finner vi fanen "Fil".
+Top left we find "File" tab.
 
 ---
 
-> **Tips:** **Husk:** _Du kan ha en dedikert mappe for dine IFC-filer, slik at du alltid har kontroll over hvor filen din er lagret!_
+> **Tip:** **Remember:** _You may want to have a dedicated folder for your IFCs, so you always have control over where your file is located!_
 
-IFC-eksportmenyen finner du her:
+The IFC export menu can be found here:
 
-`Fil -> Eksporter -> IFC`
+`File -> Export -> IFC`
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/03-modify-ifc-export.png)
 
-Slik kan eksport-menyen for IFC se ut:
+This is what the Export IFC menu can look like:
 
-![Eksporter IFC](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/04-modify-ifc-export.png)
+![Export IFC](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/04-modify-ifc-export.png)
 
-Filnavn Angi navn og plassering som den eksporterte filen skal ha i systemet
+File name Enter the name and location that the exported file will have in the system
 
-Eksportoppsett Velg mellom følgende forhåndsdefinerte oppsett: \<In-Session Setup> IFC 2x3 Coordination View 2.0 IFC 2x3 Coordination View IFC 2x3 GSA Concept Design BIM 2010 IFC 2x3 Basic FM Handover View IFC 2x3 Coordination View IFC 2x3 COBie 2.4 Design Deliverable View IFC4 Reference View [Architecture] IFC4 Reference View [Structural] IFC4 Reference View [BuildingService] IFC4 Reference View [Unofficial] IFC4x3 IFC-SG Regulatory Requirements View
+Export setup Choose between the following pre-defined setups: \<In-Session Setup> IFC 2x3 Coordination View 2.0 IFC 2x3 Coordination View IFC 2x3 GSA Concept Design BIM 2010 IFC 2x3 Basic FM Handover View IFC 2x3 Coordination View IFC 2x3 COBie 2.4 Design Deliverable View IFC4 Reference View [Architecture] IFC4 Reference View [Structural] IFC4 Reference View [BuildingService] IFC4 Reference View [Unofficial] IFC4x3 IFC-SG Regulatory Requirements View
 
-Når Catenda-plugin for Revit brukes, legges det til et ekstra forhåndsdefinert eksportoppsett for bruk med Catenda i listen over alternativer.
+When the Catenda Plugin for Revit is used, an extra pre-defined export setup for use with Catenda is added to the list of options.
 
-## 3. **Endre oppsett**
+## 3. **Modify Setup**
 
-Klikk på Endre oppsett i eksportoppsettet i IFC-eksportdialogen. Her kan du endre nødvendige innstillinger for IFC-eksporter og opprette egendefinerte oppsett. Slik kan menyen for endring av oppsett se ut:
+Click on Modify setup in the export setup part of the export ifc dialogue. This is where the necessary settings for IFC exports can be changed and custom setups can be created. This is what the modify setup menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/05-modify-setup.png)
 
-Dette vinduet inneholder følgende faner:
+This window contains the following tabs:
 
 ---
 
-### 3.1 **Generelt**
+### 3.1 **General**
 
-![Generelt](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/06-general.png)
+![General](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/06-general.png)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/07-general.png)
 
-Vi tar deg gjennom de ulike innstillingene.
+We'll take you through the various settings.
 
-_IFC-versjon_ Valg av IFC-versjon.
+**IFC version** Selection of IFC version.
 
-_Utvekslingskrav_ Disse alternativene kan variere avhengig av IFC-versjonen som er valgt. IFC 2x3 Coordination View 2.0
+**Exchange Requirement** These options can change depending on the IFC version that is selected. IFC 2x3 Coordination View 2.0
 
-- Arkitektonisk referanseutveksling
-- MEP-referanseutveksling
-- Strukturell referanseutveksling
+- Architectural Reference Exchange
+- MEP Reference Exchange
+- Structural Reference Exchange
 
-_Kategoritilordning_ Før Revit 2026 var dette alternativet tilgjengelig i File -> Export -> Options -> IFC Export Options. Slik kan menyen Administrer IFC-eksportilordningsinnstillinger se ut:
+**Category mapping** Before Revit 2026 this option was available in File -> Export -> Options -> IFC Export Options. This is what the Manage IFC Export Mapping Settings menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/08-general.png)
 
-_Filtype_ IFC-typevalg.
+**File type** IFC type selection.
 
-_Fase for eksport_ Hvis du har brukt faseverktøyet i Revit, kan du her velge og bare eksportere nye eller eksisterende strukturer.
+**Phase to export** If you have used the phase tool in Revit, here you can choose and only export new or existing structures.
 
-_Romgrenser_ Dette handler om hvordan roominformasjon kan brukes videre. a. 1. nivå - Eksempel på bruk: Mengdeuttak, administrasjon, drift og vedlikehold (FDVU). b. 2. nivå - Eksempel på bruk: Energianalyse, lysanalyse.
+**Space boundaries** These are all about how room information can be used further. a. 1st Level - Ex on use: Quantity withdrawals, management, operation and maintenance (FDVU). b. 2st Level - Ex on use: Energy analysis, light analysis.
 
-_Anleggstype_ Dette alternativet er bare tilgjengelig for IFC 4x3 Velg mellom ett av følgende: Bru (IfcBridge) Bygning (IfcBuilding) Marineanlegg (IfcMarineFacility) Jernbane (IfcRailway) Vei (IfcRoad)
+**Facility Type** This option is only available for IFC 4x3 Choose between one of the following: Bridge (IfcBridge) Building (IfcBuilding) Marine Facility (IfcMarineFacility) Railway (IfcRailway) Road (IfcRoad)
 
-_Del vegger, søyler, kanaler etter nivå_ Her kan du f. eks. dele vegger horisontalt hvis de er modellert over flere etasjer.
+**Split Walls, Columns, Ducts by level** Here you can f. Ex dividing walls horizontal if modeled over several floors.
 
-_Filoverskriftsinformasjon... Prosjektadresse..._ I disse kan du legge inn informasjon om hvem som har levert IFC-en, prosjektadresse osv.
+_File Header information... Project Address..._ In these you can put information on who has delivered the IFC, project address etc.
 
-_Prosjekturspung_ Prosjekturspung, dette setter vi på Gjeldende delte koordinater - Presentere delte koordinater.
+**Project Origin** Project origin, this we put on Current shared coordinates- Present shared coordinates.
 
-> **Merknad:** Dette ble flyttet til Geografisk referanse fra og med Revit 2025
+> **Note:** This is moved to Geographic reference as of Revit 2025
 
-_Inkluder stålelementer_ Inkluderer stålkomponenter hvis modellert.
+**Include Steel Elements** Includes steel components if modeled.
 
-> **Merknad:** Dette ble flyttet til Tilleggsinnhold fra og med Revit 2025
+> **Note:** This is moved to Additional content as of Revit 2025
 
 ---
 
-### 3.2 **Tilleggsinnhold**
+### 3.2 **Additional Content**
 
-![Tilleggsinnhold](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/09-additional-content.png)
+![Additional Content](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/09-additional-content.png)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/10-additional-content.png)
 
-Eksporter koblede filer som separate IFC-er Hvis du vil inkludere de koblede filene i IFC-en, kan du merke av dette alternativet for å gjøre det. Det anbefales at du eksporterer hver fil separat og importerer hver til sin egen modell.
+Export linked files as separate IFC's If you want to include the linked files in the IFC you can check this option to do so. It is recommended that you export each file separately and import each to their own model.
 
-Eksporter bare synlige objekter synlige i visning IFC-fil.
+Export only visible objects visible in view IFC file.
 
-- Eksporter rom, områder og mellomrom i 3D-visninger
-  Dette alternativet kan være nyttig for å velge områder i 2D-viseren.
+- Export rooms, areas and spaces in 3D views 
+This option can be useful for selecting areas in the 2D viewer.
 
-Inkluder stålelementer, _fylt_
+Include Steel elements, _filled_
 
-Eksporterer 2D planvisningselementer, _fylt, regioner_ (riper).
+Exports 2D plan view elements, _filled, regions_ (scratches).
 
-Eksportoppillarnettet Pillarnettet er 2D-elementer og vises derfor ikke i Catenda 3D-viseren.
+Export Ceiling Grids Ceiling grids are 2D elements and thus not displayed in the Catenda 3D viewer.
 
 ---
 
-### 3.3 **Egenskapsett**
+### 3.3 **Property Sets**
 
-![Egenskapsett](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/11-property-sets.png)
+![Property Sets](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/11-property-sets.png)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/12-property-sets.png)
 
-Eksporterer alle Revit-egenskapsett (pset / egenskaper) Her er et eksempel på en vegg eksportert med dette alternativet: Revit (_Venstre_) --- Catenda (_Høyre_)
+Exports all Revit Property sets (pset / properties) Here is an example of a wall exported with this option: Revit (_Left_) --- Catenda (_Right_)
 
-<img alt="Egenskaper" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-4f4aab46be4e.png" width="208.60495436766624"/>  ---  <img alt="Egenskaper" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-7c05fd3c2c4a.png" width="190.21739130434784"/>
+<img alt="Properties" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-4f4aab46be4e.png" width="208.60495436766624"/>  ---  <img alt="Properties" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-7c05fd3c2c4a.png" width="190.21739130434784"/>
 
-Typiske egenskaper som vises i egenskapsmenyen er: Constraints, Cross-Section Definition, Dimensions, Structural, Identity Data, Other
+Typical properties that show in the properties menu are: Constraints, Cross-Section Definition, Dimensions, Structural, Identity Data, Other
 
-Typiske egenskaper som vises i Identifikasjonsmenyen er: IFC-parametere Eksporter standard IFC-egenskaper. Eksporterer beregnede mengder av objekter. Eksportbatchlister Eksporter engangseiendomsett
+Typical properties that show in the Identification menu are: IFC Parameters Export standard IFC properties. Exports calculated quantities of objects. Export batch lists Export one-off Property Set
 
-_Klassifikasjonsinnstillinger_ Her er et eksempel på hvordan klassifikasjonsinnstillinger kan se ut med omniclass.
+**Classification settings** Here is an example of what classification settings can look like with omniclass.
 
-![Klassifikasjonsinnstillinger](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/13-property-sets.png)
+![Classification Settings](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/13-property-sets.png)
 
-_Navn_ Navn på klassifikasjonen
+**Name** The name of the classification
 
-_Kilde (Utgiver)_ Utgiver av klassifikasjonen
+**Source (Publisher)** The publisher of the classification
 
-_Utgave_ Klassifikasjonsutgaven
+**Edition** The classification edition
 
-_Utgavedato_ Datoen for klassifikasjonen
+**Edition date** The date of the classification
 
-_Dokumentasjonslokasjon_ Dette må være en gyldig dokumentasjonslokasjon
+**Documentation location** This has to be a valid documentation location
 
-_Klassifikasjonsfeltname_ Klassifikasjonsfeltnavnet er navnet på parameteren i objektene dine som skal inneholde klassifikasjonsverdien. Denne parameteren finnes ofte på familienivå. Rediger en familie for å se dens egenskaper
+**Classification field name** The classification field name is the name of the parameter in your objects that will hold the classification value. This parameter can often be found on the family level. Edit a family to see its properties
 
-![Rediger familie](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/14-property-sets.png)
+![Edit Family](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/14-property-sets.png)
 
-Slik kan parameteren se ut i egenskapene
+This is what the parameter can look like in the properties
 
 ![Properties OmniClass Number](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/15-property-sets.png)
 
-Hvis du har eksportert ifc-en din med en klassifikasjon og importert den som en modell til Catenda, vil du se klassifikasjonen foreslått som et [foreslått bibliotek](https://support.catenda.com/en/articles/8065645-libraries-page#h_c03d50a9ca) når du oppretter et nytt bibliotek på [biblioteksiden](https://support.catenda.com/en/articles/8065645-libraries-page). Hvis en verdi i egenskapen du spesifiserte stemmer overens med en verdi i dokumentasjonen som er gitt, vil den bli funnet og kan brukes til å velge objekter med denne verdien gjennom klassifikasjonsbiblioteket du opprettet.
+If you have exported your ifc with a classification and imported it as a model to Catenda you will see its classification suggested as a [suggested library](https://support.catenda.com/en/articles/8065645-libraries-page#h_c03d50a9ca) when creating a new library on the [libraries page](https://support.catenda.com/en/articles/8065645-libraries-page). If a value in the property you specified matches with a value in the documentation provided it will be found and can be used to select objects with this value through the classification library you created.
 
 ---
 
-### 3.4 **Detaljnivå**
+### 3.4 **Level Of Detail**
 
-![Detaljnivå](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/16-level-of-detail.png)
+![Level of Detail](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/16-level-of-detail.png)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/17-level-of-detail.png)
 
-Dette handler om hvor detaljert vi har for eksempel. kopper eller rekkverk eller kanskje sykkelhjul. Det er 4 forskjellige detaljnivåer.
+This is about how detailed we have for example. cups or handrails or maybe bicycle wheels. There are 4 different levels of detail.
 
-Ekstra lavt Lavt Medium Høyt
+Extra Low Low Medium High
 
-Når høy, får det mest detaljert som vist på bildet nedenfor.
+When high, it gets the most detailed as shown in the picture below.
 
-![Detaljnivå ekstra lavt og høyt](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/18-level-of-detail.png)
-
----
-
-Når du eksporterer IFC-er fra Revit for bruk i Catenda Hub, anbefaler vi ikke å sette detaljnivået til høyt. Det vil være mange detaljer og ekstra polygoner i modeller når de eksporteres med høyere detaljnivå, og dette er ikke alltid nødvendig og vil gjøre modellnavigasjonen langsommere. Dette er et eksempel på forskjellen mellom eksportering med innstillingen Ekstra lavt og Høyt.
-
-![Dette er en trapperekkverk eksportert med innstillingen Høy. 900k polygoner](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/19-level-of-detail.png)
-
-![Dette er den samme modellen eksportert med innstillingen Ekstra lavt. 33k polygoner.](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/20-level-of-detail.png)
-
-Utseendet på modellen vil være nesten det samme, men antallet polygoner vil reduseres drastisk og navigasjonen i Catenda Hub vil være mye raskere.
+![Level of detail extra low and high](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/18-level-of-detail.png)
 
 ---
 
-### 3.5 **Avansert**
+When exporting IFCs from Revit to be used in Catenda Hub, we recommend not to set the level of detail to high. There will be a lot of details and extra polygons in models when exported with higher level of detail and this is not always necessary and will make the model navigation slower. This is an example of the difference between exporting with the Extra low and High setting.
 
-![Avansert](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/21-advanced.png)
+![This is a stair railing exported with the setting High. 900k polygons](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/19-level-of-detail.png)
+
+![This is the same model exported with the setting Extra Low. 33k polygons.](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/20-level-of-detail.png)
+
+The appearance of the model will be close to the same, but the number of polygons will decrease drastically and the navigation in Catenda Hub will be a lot faster.
+
+---
+
+### 3.5 **Advanced**
+
+![Advanced](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/21-advanced.png)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/22-advanced.png)
 
-_Eksporter deler som bygningselementer_ Eksporter deler som standard IFC-element.
+**Export parts as building elements** Export parts like standard IFC element.
 
-_Tillat bruk av blandet "Solid Model"-representasjon_ Velg dette alternativet for å tillate blanding av BRep og ekstrumeringsgeometrier for en enhet.
+**Allow use of mixed "Solid Model" representation** Select this option to allow mixing of BRep and extrusion geometries for a unit.
 
-_Bruk aktiv visning ved oppretting av geometri_ Velg dette alternativet for å bruke den aktive visuingen til å generere geometrien. Merk at dette kan ha uventede resultater hvis det brukes på en ikke-3D-visning.
+**Use active view when creating geometry** Select this option to use the active view to generate the geometry. Note that this may have unexpected results if used on a non-3D view.
 
-_Bruk familie- og typnavn for referanse_ Velg dette alternativet for å bruke familie- og typenavnene for referanser.
+**Use family and type name for reference** Select this option to use the family and type namesfor references.
 
-_Bruk 2D-romgrenser for romvolum_ Velg dette alternativet for å bruke en forenklet tilnærming til beregning av romvolum (basert på ekstrudering av 2D-romgrenser) som også er standard ved eksportering til IFC 2x2.
+**Use 2D room boundaries for room volume** Select this option to use a simplified approach for calculating room volume (based on extrusion of 2D space boundaries) which is also standard when exporting to IFC 2x2.
 
-_Inkluder IFCSite-høyde i plasseringsopprinnelsen på stedet_ Velg dette alternativet for å inkludere høyden fra Z-offset for lokal posisjon i IfcSite. Fjern alternativet for å utelukke det.
+**Include IFCSite elevation in the site local placement origin** Select this option to include the height from the Z-offset for local position in IfcSite. Remove the option to exclude it.
 
-_Lagre IFC GUID i en elementparameter etter eksport_ Velg dette alternativet for å lagre de genererte IFC GUID-ene til prosjektfilen etter eksport. Dette vil legge til "IFC GUID"-parametere til elementer og deres typer og prosjektinformasjon for prosjekt-, nettsted- og bygningsveiledninger.
+**Store the IFC GUID in an element parameter after export** Select this option to save the generated IFC GUIDs to the project file after export. This will add "IFC GUID" parameters to items and their types and Project information for project, website and building guides.
 
-_Eksporterer avgrensningsboks_ Velg dette alternativet for å eksportere "Bounding box"-representasjoner. Dette alternativet forblir automatisk valgt for GSA-eksport.
+**Export bounding box** Select this option to export "Bounding box" representations. This option remains automatically selected for GSA export.
 
-_Behold tesselert geometri som triangulering_ Hvis du har komplekse buede elementer eller skall og de ikke vises riktig etter IFC-eksporten, kan du velge dette alternativet. Husk at du kanskje produserer en veldig tung IFC-fil.
+**Keep Tessellated Geometry as Triangulation** If you have complex curved elements or shells and they do not display correctly after the IFC export you can select this option. Keep in mind yo that you might produce a very heavy IFC file.
 
-_Bruk bare typnavn for IFCType-navn_ Velg dette alternativet hvis du vil at BAT-ID-en eller ID-en til objektet skal vises som navnet på enheten.
+**Use Type name only for IFCType name** Select this option if you want the BAT-ID or the ID of the object to appear as the name of the entity.
 
-_Bruk synlig Revit-navn som IFCEntity-navn_ Velg dette alternativet hvis du vil at Revit-objektets navn skal være navnet på enheten
+**Use Visilble Revit name as the IFCEntity name** Select this option if you want the Revit object name to be the name of the entity
 
-_Eksporter alltid fasetterte gulv og tak som en enkelt IFC-enhet_ Velg dette alternativet for å kombinere flater av gulv og tak med flere flater til en enkelt enhet.
+**Always export faceted floors and roofs as a single IFC enitity** Select this option to combine faces of floors and roofs with multiple faces to a single entity.
 
-_Angi "Sist endret" bruker til forfatteren i prosjektinformasjon_ Velg dette alternativet hvis du er forfatteren av endringene i denne eksporten
+**Set "Last Modified" user to the Author in Project Information** Select this option if you are the author of the changes in this export
 
-_Enheter for eksport_ Slik kan menyen IFC Entity Selection som åpnes se ut:
+**Entities to export** This is what the IFC Entity Selection menu that opens upcan look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/23-advanced.png)
 
 ---
 
-### 3.6 **Geografisk referanse**
+### 3.6 **Geographic Reference**
 
-Det er viktig at Revit-koordinatene dine er synkronisert med de andre modellene i prosjektet ditt slik at de ender opp på samme sted. Mål derfor koordinatene i Catenda Hub med en punktmåling og spesifiser en koordinatbase i Revit på et punkt som er på samme sted som det målte punktet i Catenda Hub.
+It is important that your Revit coordinates are synchronized with the other models in your project so that they end up on the same place. Therefore measure the coordinates in Catenda Hub with a point measure and specify a coordinate base in Revit at a point that is on the same place as the measured point in Catenda Hub.
 
-![Spesifiser koordinat på punkt](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/24-geographic-reference.png)
+![Specify Coordinate at POint](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/24-geographic-reference.png)
 
-Du finner dette alternativet i Administrer-fanen -> Koordinater -> Spesifiser koordinatbase. _Spesifiser koordinater på punkt_ Omflytter en modell og roterer modellen til ekte nord ved å spesifisere koordinater for nord/sør, øst/vest og høyde. I Revit er det ofte lettere å modellere i 90-graders vinkler og du ønsker ikke å rotere hele modellen. I dette tilfellet kan du rotere True North i stedet. Du finner alternativet i rullegardinmenyen Posisjon under Koordinater i Administrer-fanen.
+You can find this option in the Manage tab -> Coordinates -> Specify Coordinate Base. _Specify Coordinates at Point_ Relocates a model and rotates the model to True North by specifying coordinates for North/South, East/West, and Elevation. In Revit it is often easier to model on 90 degree angles and you don't want to rotate the whole model. In this case you can rotate True North instead. You will find the option in the Position dropdown below Coordinates in the Manage tab.
 
-![Geografisk referanse](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/25-geographic-reference.png)
+![Geographic Reference](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/25-geographic-reference.png)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/26-geographic-reference.png)
 
-_Prosjektsted_ Internt
+**Project site** Internal
 
-_Koordinatbase_ Du kan endre denne innstillingen for å sikre at prosjektet ditt er orientert mot nord Delte koordinater - Standardundersøkelsespunkt Prosjektbasispunkt Internt opphav Prosjektbasispunkt orientert mot ekte nord Internt opphav orientert mot ekte nord
+**Coordinate base** You can change this setting to make sure your project is oriented towards North Shared Coordinates - Default Survey point Project Base Point Internal Origin Project Base Point Oriented in True North Internal origin Oriented in True North
 
-> **Merknad:** Hvis du kobler IFC i Sett inn-fanen, vil den koblede filen bli plassert nær objektene dine og vil ikke være på stedet som er beskrevet i IFC-en. For å importere en IFC til riktig sted, klikker du File -> Open -> IFC i stedet.
+> **Note:** If you Link IFC in the Insert tab your linked file will be placed close to your objects and will not be in the location described in the IFC. To import an IFC to the right location click File -> Open -> IFC instead.
 
-_Overstyring_ Her kan du overstyre den projiserte koordinatsystemreferansen
+**Override** Here you can override the projected Coordinate System Reference
 
 ---
 
-### 3.7 **Selskapsinformasjon**
+### 3.7 **Company Info**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/27-company-info.png)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/28-company-info.png)
 
-Denne menyen er bare tilgjengelig når IFC2x3 COBie 2.4 Design Deliverable View Setup er valgt i menyen til venstre.
+This menu is only available when the IFC2x3 COBie 2.4 Design Deliverable View Setup is selected in the left menu.
 
 ---
 
-### 3.8 **Prosjektinfo**
+### 3.8 **Project info**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/29-project-info.png)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/30-project-info.png)
 
-Denne menyen er bare tilgjengelig når IFC2x3 COBie 2.4 Design Deliverable View Setup er valgt i menyen til venstre.
+This menu is only available when the IFC2x3 COBie 2.4 Design Deliverable View Setup is selected in the left menu.
 
 ---
 
-## 4. **IFC-alternativer**
+## 4. **IFC Options**
 
-IFC-alternativene for et Revit-prosjekt finnes i:
+The IFC Options of a Revit project can be found in:
 
 `File -> Export -> Options -> IFC Options`
 
 ![Export -> Options -> IFC options](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/31-ifc-options.png)
 
-> **Merknad:** Fra Revit 2026 er dette alternativet nå tilgjengelig i: `Export -> IFC -> General -> Category Mapping -> Action menu right of dropdown`
+> **Note:** From Revit 2026 this option is now available in: `Export -> IFC -> General -> Category Mapping -> Action menu right of dropdown`
 
-Her i _IFC-alternativene_ gjør vi innstillingene for eksportering av en modell til en IFC-fil. Her kan du tilpasse oppsettegenskaper for eksportering av en modell til IFC. Det som ble nevnt i starten av denne manualen, er at det ikke er nødvendig å få ut for mye informasjon fra modellen. Vær gjerne med på å merke av for unødvendig informasjon før eksport.
+Here within the _IFC options_ we make the settings for exporting a model to an IFC file. Here you can customize setup properties for exporting a model to IFC. What was mentioned at the start of this manual is it is not necessary to bring too much information out of the model. Feel free to tick off unnecessarily information before export.
 
-![IFC-eksportklasser](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/32-ifc-options.png)
+![IFC export classes](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/32-ifc-options.png)
 
-Det er mulig å vise rutenett i Catenda Hub, og hvis du har disse i Revit-modellen din, kan du i IFC-alternativene angi at rutenett skal eksporteres i IFC-en. Som standard eksporteres disse ikke fra Revit.
+It is possible to view grids in Catenda Hub, and if you have these in your Revit model it is in IFC Options you can set grids to be exported in the IFC. By default these are not exported from Revit.
 
-## 5. **Farger og materialer**
+## 5. **Colors and materials**
 
-Fargene som vises i Catenda blir lest fra IFC-filen som importeres. Når materialegenskapen til en familie legges til IFC-parameterne, legges fargen på materialet i materialegenskapen til IFC-en og vises således i Catenda. I Revit finnes materialer i materialleseren:
+The colors that are displayed in Catenda are read from the IFC file that is imported. When the material property of a family is added to the IFC parameters, the color of the material in the material property is added to the IFC and thus displayed in Catenda. In Revit materials can be found in the material browser:
 
-`Administrer-fanen -> Innstillinger-seksjon -> Materialer`
-I materialleseren finnes innstillingen for farge i grafikkfanen til materialet:
+`Manage tab -> Settings section -> Materials`
+In the Material browser the setting for color can be found in the graphics tab of the material:
 
-![Administrer -> Materialer -> Materialleser -> Opprett nytt material](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/33-colors-and-materials.png)
+![Manage -> Materials -> Material browser -> Create new material](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/33-colors-and-materials.png)
 
-Det er også mulig å låse skyggingen til renderingsinnstillingene.
+It is also possible to lock the shading to the render settings.
 
-![Utseende](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/34-colors-and-materials.png)
+![Appearance](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/34-colors-and-materials.png)
 
-Flater i Catenda 3D-viseren har flat skygging uten en lyskilde til stede. Følgende verdier tolkes av Catenda når overflaten vises i 3D-viseren:
+Surfaces in the Catenda 3D viewer have flat shading without a light source present. The following values are interpreted by Catenda when displaying the surface in the 3D viewer:
 
-Generisk
+Generic
 
-- Farge
-- Bildeavfading
+- Color
+- Image fade
 
-Gjennomsiktighet
+Transparency
 
-- Beløp
-- Bildeavfading
-- Lysgjennomtrengelighet
+- Amount
+- Image Fade
+- Translucency
 
 Tint
 
-- Tintfarge
+- Tint Color

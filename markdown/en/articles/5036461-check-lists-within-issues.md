@@ -1,5 +1,5 @@
-# Sjekklister innen problemer
+# Check Lists within Issues
 
-> En enkel måte å spore framgang på nettstedet.
+> An easy way to track progress on site.
 
-[YouTube-video](https://www.youtube.com/embed/AGwhy-I1oPg?rel=0)
+[YouTube video](https://www.youtube.com/embed/AGwhy-I1oPg?rel=0)
