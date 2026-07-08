@@ -28,14 +28,14 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [Catenda の PDF 上の QR コード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9360508-catenda-の-pdf-上の-qr-コード.md)
 - [Catendaプラグイン＆統合](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8396532-catendaプラグインと連携.md): Catendaをお気に入りのツールに接続
 - [IFC Export Archicad マニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670338-archicadからのifcエクスポート.md)
-- [Revit IFCエクスポートマニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670341-k2nekg1n.md)
-- [Zipファイル/ファイル構造をアップロードする](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7945410-q3fxr4yj.md)
-- [トピックページでのフィルタリング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8370693-filtering-on-the-topics-page.md)
+- [Revit IFCエクスポートマニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670341-revit-ifcエクスポートマニュアル.md)
+- [Zipファイル/ファイル構造をアップロードする](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7945410-zipファイル-ファイル構造をアップロードする.md)
+- [トピックページでのフィルタリング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8370693-トピックページでのフィルタリング.md)
 - [トピックボード設定ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670277-topic-board-settings-page.md)
 - [トピック本体 - トピックのコンテンツ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8053352-トピックの本文-トピックの内容.md)
 - [モデルページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670286-モデル一覧ページ.md)
-- [レポートテンプレートページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12380837-report-templates-page.md)
-- [問題内のチェックリスト](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5036461-786npbn6.md): サイト上の進捗を追跡する簡単な方法。
+- [レポートテンプレートページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12380837-レポートテンプレートページ.md)
+- [問題内のチェックリスト](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5036461-問題内のチェックリスト.md): サイト上の進捗を追跡する簡単な方法。
 - [投稿フォーマットツールボックス](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8430847-投稿フォーマットツールボックス.md): 投稿を作成できるフィールドをフォーマットする方法
 - [新しいステータスワークフロー - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9874698-新しいステータスのワークフロー-iso-19650.md)
 - [既存のトピックボードからのトピックボード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6379614-topic-board-from-an-existing-topic-board.md)
@@ -44,7 +44,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 
 ここでは、多くのユーザーが遭遇する質問に対する答えを見つけることができます
 
-- [3D DWGエクスポートマニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7887999-3d-dwg-export-manual.md)
+- [3D DWGエクスポートマニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7887999-3d-dwgエクスポートマニュアル.md)
 - [Catenda Hubでのファイルタイプのプレビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670320-catenda-hubでのファイル形式のプレビュー.md)
 - [アップロードできるファイルサイズはどのくらいですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670324-アップロードするファイルのサイズの制限について.md)
 - [ハードウェア推奨仕様](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6921941-推奨ハードウェア.md): Catenda Hubで最適なエクスペリエンスを得るための推奨ハードウェア仕様と最適化のヒントを確認してください。

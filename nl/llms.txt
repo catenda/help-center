@@ -19,32 +19,32 @@ Configureer de instellingen van uw project of account
 
 De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een specifieke functie.
 
-- [3D Viewer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8227211-3d-viewer.md)
+- [3D Viewer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8227211-3d-viewer.md)
 - [Catenda Archicad-plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5519276-catenda-hub-plugin-voor-archicad.md): test
 - [Catenda Desktop Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8358861-bureaubladverbinding-desktop-connector.md)
 - [Catenda Navisworks plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5085987-catenda-hub-navisworks-plugin.md)
 - [Catenda Revit plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670334-catenda-revit-plugin.md)
 - [Catenda-plugins en -integraties](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8396532-catenda-plugins-en-integraties.md): Verbind Catenda met uw favoriete tool
-- [Controlelijsten binnen problemen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5036461-check-lists-within-issues.md): Een eenvoudige manier om voortgang op de site bij te houden.
+- [Controlelijsten binnen problemen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5036461-controlelijsten-binnen-problemen.md): Een eenvoudige manier om voortgang op de site bij te houden.
 - [Een zip / bestandsstructuur uploaden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7945410-upload-een-zip-bestandsstructuur.md)
-- [Filteren op de onderwerpen pagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8370693-filtering-on-the-topics-page.md)
+- [Filteren op de onderwerpen pagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8370693-filteren-op-de-onderwerpen-pagina.md)
 - [IFC Export Archicad Handleiding](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670338-ifc-archicad-exporteren-handleiding.md)
 - [Nieuwe statuswerkstroom - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9874698-het-publiceren-van-revisies-iso-19650.md)
 - [Pagina Models](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670286-pagina-modellen.md)
-- [Pagina Rapportsjablonen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12380837-report-templates-page.md)
-- [Puntenwolken in Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5606625-point-clouds-in-catenda-hub.md): Ontdek hoe u kunt profiteren van laserscanningen en LIDAR-technologieën in Catenda Hub.
+- [Pagina Rapportsjablonen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12380837-pagina-rapportsjablonen.md)
+- [Puntenwolken in Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5606625-puntenwolken-in-catenda-hub.md): Ontdek hoe u kunt profiteren van laserscanningen en LIDAR-technologieën in Catenda Hub.
 - [QR-Code op PDF's in Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9360508-qr-code-op-pdfs-in-catenda.md)
 - [Revit IFC Export Handleiding](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670341-handleiding-revit-ifc-exporteren.md)
 - [Toolbox voor postvormgeving](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8430847-opmaak-van-berichten.md): Hoe velden waar berichten kunnen worden gemaakt, kunnen worden opgemaakt
-- [Topicbody - De inhoud van een topic](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8053352-topic-body-the-content-of-a-topic.md)
+- [Topicbody - De inhoud van een topic](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8053352-topicbody-de-inhoud-van-een-topic.md)
 
 ## Veelgestelde vragen
 
 Hier vind u antwoorden voor vragen die veel gebruikers hebben
 
-- [3D DWG-exporthandleiding](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7887999-3d-dwg-export-manual.md)
+- [3D DWG-exporthandleiding](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7887999-3d-dwg-exporthandleiding.md)
 - [Bestandstypen bekijken op Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670320-welke-bestandstypen-ondersteunt-catenda.md)
-- [Hardwareaanbeveling](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6921941-hardware-recommendation.md): Vind aanbevolen hardwarespecificaties en optimisatietips voor de beste ervaring met Catenda Hub.
+- [Hardwareaanbeveling](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/6921941-hardwareaanbeveling.md): Vind aanbevolen hardwarespecificaties en optimisatietips voor de beste ervaring met Catenda Hub.
 - [Welke bestandsgrootte kan ik uploaden?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670324-is-er-een-beperking-voor-de-bestandsgrootte-van-ifc-bestanden.md)
 
 ## Recente updates 🎉

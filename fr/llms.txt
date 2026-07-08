@@ -23,13 +23,13 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Connecteur de bureau Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8358861-connecteur-de-bureau-catenda.md)
 - [Corps du topic - Le contenu d'un topic](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet.md)
 - [Extension Catenda Navisworks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5085987-catenda-hub-navisworks-plugin-description-lien-telechargement.md)
-- [Filtrage sur la page des topics](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8370693-filtering-on-the-topics-page.md)
+- [Filtrage sur la page des topics](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8370693-filtrage-sur-la-page-des-topics.md)
 - [Listes de contrôle dans les problèmes](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5036461-traitement-des-sujets-a-travers-l-outil-check-list.md): Un moyen facile de suivre la progression sur le site.
-- [Manuel d'export IFC Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670341-k2nekg1n.md)
+- [Manuel d'export IFC Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670341-manuel-d-export-ifc-revit.md)
 - [Manuel d'exportation IFC Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670338-manuel-d-export-ifc-archicad.md)
 - [Nouveau flux de travail de statut - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9874698-guide-utilisateur-flux-de-validation-iso-19650.md)
 - [Nuages de points dans Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5606625-nuages-de-points-dans-catenda-hub.md): Découvrez comment bénéficier des technologies de balayage laser et LIDAR dans Catenda Hub.
-- [Page des modèles de rapport](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12380837-report-templates-page.md)
+- [Page des modèles de rapport](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12380837-page-des-modèles-de-rapport.md)
 - [Page Models](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670286-modeles.md)
 - [Plugin Catenda Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5519276-plugin-catenda-hub-archicad.md): test
 - [Plugin Catenda Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670334-plugin-revit-catenda-hub.md)
@@ -40,7 +40,7 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 ## FAQ
 
 - [Aperçu des types de fichiers sur Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670320-quels-formats-sont-compatibles-avec-catenda.md)
-- [Manuel d'export 3D DWG](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7887999-3baydpf4.md)
+- [Manuel d'export 3D DWG](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7887999-manuel-d-export-3d-dwg.md)
 - [Quelle est la taille de fichier que je peux télécharger ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670324-taille-limite-des-fichiers-ifc.md)
 - [Recommandation matérielle](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6921941-recommandation-sur-le-materiel.md): Trouvez les spécifications matérielles recommandées et les conseils d'optimisation pour la meilleure expérience avec Catenda Hub.
 
