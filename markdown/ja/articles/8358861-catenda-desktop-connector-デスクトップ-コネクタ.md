@@ -1,131 +1,227 @@
-# Catenda Desktop connector (デスクトップ コネクタ)
+# Catenda Desktop Connector
 
-> PCとCatendaプラットフォーム間のファイル管理を簡素化し、効率的な一括アップロード、ダウンロード、スケジュール同期を可能にします。
+> **注意:** このアプリケーションのインストールファイルは[ここ](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)にあります
 
-> **注:**プラグインのインストール ファイルは、[このヘルプ記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
-
-この記事では、次の情報について説明します。
+Catenda Desktop Connectorを使用すると、ドキュメントの最新バージョンのアップロードとダウンロードをスケジュールできます。
 
 ## 1. **インスタントアップ/ダウンロード**
 
-Desktop Connector を使用すると、ローカル システムから Catenda Hub の指定したフォルダにファイルをアップロードできます。Catenda Hub上のいくつかのフォルダを選択して、ローカルマシン上の場所にダウンロードすることもできます。
+### 1.1 **アップロード**
 
-### 1.1 **アップロード速度**
+ローカルシステム上のフォルダを選択して、Desktop Connectorを使用して、選択したフォルダのサブフォルダ内のファイルを含むすべてのフォルダコンテンツを、Catenda Hub上の指定されたフォルダにアップロードします。
 
-Desktop Connector を使用したファイルのアップロードは、ブラウザ経由ではなく API 経由でインポートされるため、通常のアップロード プロセスよりもファイル転送が高速です。
+**アップロード成功**複数のファイルをドラッグアンドドロップするか、Catenda Hubのzip-upload機能を使用する場合、1つの大きなデータセットをアップロードしています。アップロードが大きいほど、ファイルをCatenda Hubドキュメント構造に送信する前に待つ必要があります。
 
-したがって、一度に大量のデータをアップロードする場合は、ファイルをアップロードするのに最適な方法です。
+**一度に1つのファイル** Desktop Connectorを使用してフォルダ構造から一度に1つのファイルをアップロードすることで、アップロードを一時停止して後で続行できます。
 
-### 1.2 **安定したアップロード**
+**アップロード失敗のリスクを低下させる**アップロードが大きいほど、失敗するリスクが高くなります。電源が切れるか、インターネット接続が一瞬途切れるかもしれません。その場合、アップロードをもう一度始める必要があります。
 
-複数のファイルをドラッグアンドドロップしたり、Catenda Hubのzipアップロード機能を使用したりすると、1つの大きなデータセットがアップロードされることになり、アップロードのサイズが大きいほど、Catenda Hubのドキュメント構造にファイルを送信するまでの待ち時間が長くなります。
+### 1.2 **ダウンロード**
 
-アップロードファイルサイズが大きければ大きいほど、失敗するリスクも高くなります。インターネット接続が途中で切断される可能せもあり、アップロードを繰り返すことになりかねません。
+Catenda Hub上の1つ以上の単一ドキュメントを選択するか、フォルダを選択して、選択したフォルダのサブフォルダ内のドキュメントを含む選択をローカルマシン上の場所にダウンロードします。
 
-一度に 1 つのファイル
+### 1.3 **転送速度**
 
-Desktop Connector では、フォルダ構造から一度に 1 つのファイルをアップロードすることで、この障害のリスクを最小限に抑え、時間を大幅に節約できます。
+Desktop Connectorでファイルをアップロード/ダウンロードする場合、通常のアップロードプロセスよりもファイル転送が高速です。ファイルはブラウザの実行またはその他のブラウザの制限の追加負荷を必要とせずにAPIを介してインポートされます。単一ファイルを転送する場合は、使いやすさのためブラウザでドラッグまたはドロップすることをお勧めします。ただし、大量のデータを一度に転送したり、大きな単一ファイルのアップロード中に時間を節約したい場合は、Desktop Connectorが推奨される転送方法です。
+
+### 1.4 **アクセス**
+
+Catenda Hubで構成されたアクセス制御は維持されます。ユーザーは、少なくとも書き込みアクセス権を持つCatendaドキュメント構造内の場所にアップロードできます。また、少なくとも読み取りアクセス権を持つドキュメントのみをダウンロードできます。
 
 ## 2. **同期**
 
-ファイルが定期的にアップロードまたはダウンロードされるタイミングをスケジュールできます。
+ファイルを定期的な間隔でアップロード/ダウンロードするようにスケジュールできます。
 
-### 2.1 **ローカルシステム - > Catenda Hub**
+### 2.1 **ローカルシステム -> Catenda Hub**
 
-Desktop Connector は、ローカルシステム上のファイルがCatenda Hubプロジェクトで最新であることを確認します。
+Desktop Connectorは、Catenda Hubプロジェクト内のファイルがローカルシステム上のファイルの最新の保存状態に最新に保たれるようにすることができます。
 
 ### 2.2 **Catenda Hub -> ローカルシステム**
 
-また、Desktop Connector がローカル システム上に常に最新バージョンの Catenda Hub ドキュメントを保持するという逆の方法も機能します。
+Desktop Connectorは、ローカルシステム上のファイルがCatenda Hubプロジェクト内のドキュメントの最新のリビジョンに最新に保たれるようにすることができます。
 
-## 3. **サインイン**
+## 3. **インストール**
 
-Desktop Connector を初めて開くと、サインインするように求められます。
+Catenda Desktop ConnectorがWindowsにインストールされると、インストールファイルは以下のフォルダに表示されます。
 
-サインインボタンをクリックすると、デフォルトのブラウザが開き、Catenda Hubアカウントへのログインを求めるページが表示されます。
+`C:\\Program Files\\Catenda Hub Desktop Connector`
 
-ログイン後、またはすでにログインしていた場合は、Catendaアカウントへのアクセスを許可するように求められます。
+### 3.1 **アンインストール**
 
-[アクセスを許可] をクリックすると、デスクトップ コネクタ アプリを開くように求められます。
+プラグインをアンインストールするには、次のWindowsメニューに移動してください：
 
-その後、Desktop Connector [のホーム ページ](#h_097078145d)にリダイレクトされます。
+`Windows設定 -> アプリ -> インストール済みアプリ`
 
-![](https://downloads.intercomcdn.com/i/o/950031540/36cd0ebbd558689393707668/image.png?expires=1781092800&signature=0e4b881b5ad87ef25b75105e7a7e8ecd494477dfaa34d1d4278e9b4fa5b20dff&req=fSUnFsp%2FmIVfFb4V1XW4gfDY9EEgr1R66lyc8%2Fis2Xr%2FzXcao8SXlcGPq7zG%0ADZpSrheuhiUYwCibiwZ1deljSg%3D%3D%0A)
+リストからDesktop Connectorを見つけ、右側のアクションメニューをクリックしてアンインストールしてください。
 
-## 4. **ホームページ**
+## 4. **サインイン**
 
-デスクトップコネクタを起動すると、次のようになります。
+Desktop Connectorが最初に開かれると、サインイン要求が表示されます。[サインイン]ボタンをクリックして、システムのデフォルトブラウザーをCatendaサインインページで開きます。ログイン後、またはすでにログインしている場合は、ログインしているCatendaアカウントへのアクセスを許可するために[アクセスを許可]をクリックします。[アクセスを許可]をクリックした後、ブラウザーはDesktop Connectorアプリケーションを開くようにユーザーに促します。アプリケーションを開く許可を与えると、Desktop Connector [ホームページ](#home-page)にリダイレクトされます。
 
-![](https://downloads.intercomcdn.com/i/o/949987194/4ea79b327a432d2fbe6ddd0c/image.png?expires=1781092800&signature=4d94f80aa64fef1e3c1a73bf2deff039ac0475207a39783a19617c3e92a8ae5d&req=fSQuH8F5nIhbFb4V1XW4gTcWjiViXzLHPjg0U6HS3fsJi7aRbTkCAMiMYSfa%0ASUgK3XjJ8oymzuQQNs7TggJgJg%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/01-sign-in.png)
 
-### 4.1 **起動時に実行（スタートアップアプリ）**
+## 5. **ホームページ**
 
-起動時にデスクトップコネクタを実行するには、このオプションを選択します
+これはDesktop Connectorが有効なログインで起動するときのように見えることができます：
 
-### 4.2 **ログアウト**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/02-home-page.png)
+
+### 5.1 **PCをウェイクアップ**
+
+タスクがその時間に実行されるようにスケジュールされている場合、スリープモードからPCをウェイクアップします。
+
+### 5.2 **スタートアップ時に実行**
+
+デスクトップコネクタをスタートアップで実行するには、このオプションを選択してください
+
+### 5.3 **ログアウト**
 
 右下のログアウトボタンをクリックしてログアウトします。
 
-![](https://downloads.intercomcdn.com/i/o/950021316/0053ee8a768a5188e6313c57/image.png?expires=1781092800&signature=43a10ad461d99e318a20b35ee132a99b1abed0e726ac4e1fdb3c57928b439578&req=fSUnFst%2FnoBZFb4V1XW4gThqJOWIUgCvL1w4D%2FD00hZl%2BjSWkhBzu0AfrfCB%0At7yYs0Cvm2OWN4cYaarP2Iu8jw%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/03-log-out.png)
 
-## 5. **プロジェクト一覧**
+## 6. **プロジェクトリスト**
 
-ここには、プロジェクトの概要と、各プロジェクトに設定したアップロードタスクとダウンロードタスクの数が表示されます。
+プロジェクトリストが最後に読み込まれた時点でアカウントがアクセス権を持っていたプロジェクトの概要が表示されます。各プロジェクトについて、構成されているアップロードとダウンロードタスクの数が表示されます。
 
-プロジェクトの名前をクリックすると、現在のアップタスクとダウンロードタスクを表示したり、新しいタスクをスケジュールしたりできます。
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/04-project-list.png)
 
-### 5.1 **「同期」ボタン**
+### 6.1 **同期ボタン**
 
-新しいプロジェクトに最近参加した場合は、この同期ボタンをクリックして、参加しているプロジェクトの新しいリストにロードできます。
+最近プロジェクトに参加した場合、この同期ボタンをクリックして、ログインしているアカウントが属する新しいプロジェクトのリストを読み込みます。
 
-![](https://downloads.intercomcdn.com/i/o/950025424/2f27581570051bde063c7246/image.png?expires=1781092800&signature=ef6298b070111ca73c8e594595b72887bd2b9b9cac65cea8e800e7af69f4ec2d&req=fSUnFst7mYNbFb4V1XW4geobuS5sg5oKpjFhFVSCA3gu2MlbQTC4KuaGF1EC%0A3NuFgqd7xXl8O8cJztQFnUVDow%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/05-synchronize-button.png)
 
-### 5.2 **アップロードタスク**
+### 6.2 **名前**
 
-このタスクを使用すると、システムから Catenda Hub へのファイルの定期的なアップロードをスケジュールできます。
+プロジェクトの名前をクリックして、現在のアップロードおよびダウンロードタスクを表示するか、新しいタスクをスケジュールします。
 
-### 5.3 **ダウンロードタスク**
+### 6.3 **アップロードタスク**
 
-このタスクを使用すると、Catenda Hubからシステムへのファイルの定期的なダウンロードをスケジュールできます。
+このプロジェクトでアクティブなアップロードタスクの数
 
-ダウンロードしたドキュメントは、解凍された状態でシステムに保存されます。
+### 6.4 **ダウンロードタスク**
 
-### 5.4 **戻るボタン**
+このプロジェクトでアクティブなダウンロードタスクの数
 
-このボタンをクリックすると、[ホームページ](#h_097078145d)に戻ります
+## 7. **アップロードタスク**
 
-![](https://downloads.intercomcdn.com/i/o/950023253/d65643c0a2f97d7bc7d2319e/image.png?expires=1781092800&signature=a5c07c2bae2a7ad2cb375cfc7b58e84de093d43a89c6106dadabc2204c59e04e&req=fSUnFst9n4RcFb4V1XW4ga0YsQM1%2FTQcJiZjnQF4y8vosAgaXDzX%2Bu%2BJTnPP%0ArEpZpux7zmL2kXm%2Fj27ea4%2FJnQ%3D%3D%0A)
+このタスクでシステムからCatenda Hubへのファイルの定期的なアップロードをスケジュールします。
 
-## 6. **タスク一覧**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/06-upload-task.png)
 
-ここでは、現在のアップタスクとダウンロードタスクを確認できます
+### 7.1 **タイトル - 必須**
 
-### 6.1 **戻るボタン**
+アップロードタスクを保存するには、少なくともタイトルが必要です
 
-このボタンをクリックすると、[ホームページ](#h_097078145d)に戻ります
+### 7.2 **スケジュールカレンダー - 必須**
 
-![](https://downloads.intercomcdn.com/i/o/950023253/d65643c0a2f97d7bc7d2319e/image.png?expires=1781092800&signature=a5c07c2bae2a7ad2cb375cfc7b58e84de093d43a89c6106dadabc2204c59e04e&req=fSUnFst9n4RcFb4V1XW4ga0YsQM1%2FTQcJiZjnQF4y8vosAgaXDzX%2Bu%2BJTnPP%0ArEpZpux7zmL2kXm%2Fj27ea4%2FJnQ%3D%3D%0A)
+タスクを保存するには、少なくとも1日選択する必要があります
 
-## 7. **ログフォルダ**
+### 7.3 **プロジェクトの場所**
 
-このボタンは、システム上のDesktop Connectorログのフォルダの場所を開きます。
+**サーバー** [参照]をクリックして、Catenda Hubのドキュメントページ上で、ファイルを同期する宛先を選択します。サーバーディレクトリパスの選択についてさらに詳しくは、[ここ](#server-location)をクリックしてください
 
-## 8. **トラブルシューティング**
+**ローカル**ファイルを同期する必要があるローカルシステム上の場所を選択してください。
 
-### 8.1 **ドキュメント名**
+### 7.4 **インスタント**
 
-ドキュメント名にその文字が含まれていないことを確認してください。`\\`
+タスクはアップロードプロセスを開始するために保存する必要はありません。[今すぐアップロード]の四角形をクリックして、このタスクをすぐに開始します。保存されたタスクは、構成された時刻に定期的に実行されます。
 
-この文字は、Windowsのファイルパス階層の一部であり、ドキュメントが間違った場所に配置される原因となります。
+## 8. **ダウンロードタスク**
 
-### 8.2 **サーバー プロジェクトの場所が空です**
+Catenda Hubからローカルシステムへのファイルの定期的なダウンロードをスケジュールします。
 
-ローカルファイルをプロジェクトに同期するには、Catenda Hubのプロジェクトのドキュメントセクションに少なくとも1つのフォルダが必要です。
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/07-download-task.png)
 
-### 8.3 **フォルダの権限**
+### 8.1 **タイトル - 必須**
 
-フォルダに対する適切な権限がない場合、エラーが発生する可能性があります。ダウンロードしようとしているフォルダを右クリックして、適切な権限を許可します。
+アップロードタスクを保存するには、少なくともタイトルが必要です
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1373014007/de25ee387219641a228498f4ac53/image.png?expires=1781092800&signature=64b8cd24d56f3e0580e09bdb9d645763cedbc428796cb07f17a8c6323dc2ea1a&req=dSMgFcl%2FmYFfXvMW3nq%2BgZc5Y84qY4uRCZuDVwfwRgy6b70NOUqyyzImBAK8%0AJqsdNUQZzAnuahXe74VbjSVe6wc%3D%0A)
+### 8.2 **スケジュールカレンダー - 必須**
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1373023427/6ecce5bcacc82597271780eb25d3/image.png?expires=1781092800&signature=7dc5b8845aa0ed55bee837454bbe4721b0227fa331cbac7e0260fcb130e55a8d&req=dSMgFcl8noVdXvMW3nq%2BgavEOFqOQk9RKx%2Flkpajr98q6QPJnXWqde%2BO1fgd%0A%2BprOu4vps6w6%2F%2FETQaYJC7sUjaY%3D%0A)
+タスクを保存するには、少なくとも1日選択する必要があります
+
+### 8.3 **プロジェクトの場所**
+
+**サーバー**ドキュメントをダウンロードする必要があるCatenda Hub上の場所を選択します。サーバーディレクトリパスの選択についてさらに詳しくは、[ここ](#server-location)をクリックしてください
+
+**ローカル**ファイルをダウンロードする必要があるローカルシステム上の宛先を選択します。
+
+### 8.4 **インスタント**
+
+タスクはダウンロードを開始するために保存する必要はありません。[今すぐダウンロード]の四角形をクリックして、このタスクをすぐに開始します。タスクを保存して、構成された時刻にダウンロードを定期的に実行します。ダウンロードされたドキュメントはシステムに解凍された状態で終了します。
+
+### 8.5 戻るボタン
+
+矢印ボタンをクリックして[ホームページ](#home-page)に戻ります
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
+
+## 9. **サーバーの場所**
+
+アップロードまたはダウンロードタスクのプロジェクトの場所領域の[参照]をクリックして、Catendaプロジェクトのディレクトリパスの閲覧を開始します。[ディレクトリパスを選択]ダイアログが開きます。開いたら、プロジェクト内のすべてのフォルダ名とその階層をダウンロードし始めます。ダウンロードタスクの場合、ドキュメント名もダウンロードされます。ダウンロードが進行中の場合、ダイアログはこのように見えます：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/09-server-location.png)
+
+特にダウンロードタスクの場合、多くのフォルダとドキュメントがある場合、このプロセスが完了するのに数分かかることがあります。このステップのためにローカルシステムで十分なメモリが利用可能であることを確認してください。
+
+**ダイアログサイズ**右上の[最小化]または[最大化]をクリックして、[ディレクトリパスを選択]ダイアログを最小化または最大化します。
+
+**ディレクトリアクション**フォルダが読み込まれた後、ダイアログは次のようになります：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/10-server-location.png)
+
+フォルダの横の矢印をクリックして展開します。ドキュメントはこのビューではダウンロードタスクにのみ利用可能です。
+
+**フォルダ選択**フォルダをクリックして選択します。ダウンロードタスクの場合、複数のフォルダを選択できますが、アップロードタスクの場合は一度に1つのフォルダのみを選択できます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/11-server-location.png)
+
+フォルダを選択した後、チェックマークが付いた白色で表示されます。選択したフォルダのサブフォルダは、同じレベルのフォルダのみを選択することが可能であるため、取り消し線で表示されます。上部には、選択されたアイテムの数が表示されます。
+
+**ダウンロードタスク**選択したフォルダまたはそのサブフォルダにドキュメントがある場合、選択したフォルダとドキュメント間のパス内のすべてのフォルダが作成されます。その後、ドキュメントはそのフォルダにダウンロードされます。サブフォルダにドキュメントが含まれていない場合、このダイアログでチェックされている可能性がありますが、サブフォルダは作成されません。サブフォルダをチェック解除してフォルダ構造の一部をダウンロードしないことはできません。一部のフォルダのみをダウンロードするには、以下の画像のように個別に選択します：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/12-server-location.png)
+
+ドキュメント選択 ドキュメントをクリックして選択します
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/13-server-location.png)
+
+個別のドキュメントを選択する場合、ドキュメントはフラットリストとして選択されたローカルパスに直接ダウンロードされ、それらのドキュメントが含まれるフォルダの階層はありません。
+
+**アップロードタスク**ドキュメントは選択したフォルダにアップロードされます。フォルダ名が一致する場合、ドキュメントは選択したフォルダのサブフォルダにアップロードされます。
+
+## 10. **タスクリスト**
+
+ここで、このインストールでログインユーザーに対して構成されているアップロードおよびダウンロードタスクが表示されます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/14-task-list.png)
+
+### 10.1 **名前**
+
+タスクの名前。
+
+### 10.2 **タスク**
+
+タスクが実行される予定時刻。
+
+### 10.3 **プロジェクト**
+
+このタスクが実行されるプロジェクトの名前。
+
+### 10.4 **ステータス**
+
+このタスクのステータス。
+
+### 10.5 **戻るボタン**
+
+このボタンをクリックして[ホームページ](#home-page)に戻ります
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
+
+## 11. **ログフォルダ**
+
+このボタンをクリックすると、ローカルシステム上のDesktop Connectorログのフォルダの場所が開きます。これらのログの既定の場所は：
+
+`C:\\Users\\\<Windows account name>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp`

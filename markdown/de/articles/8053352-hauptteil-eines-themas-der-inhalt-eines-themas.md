@@ -1,158 +1,174 @@
-# Hauptteil eines Themas - Der Inhalt eines Themas
+# Topic Body – Der Inhalt eines Topics
 
-Wenn Sie ein Thema aus einem [Themenboard](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) auswählen, wird ein neues Fenster für dieses Thema angezeigt.
+Wählen Sie ein Topic aus einem [Topic Board](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) aus, um die Topic-Seite des Topics zu öffnen. So kann das [Topic Banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) auf der Topic-Seite aussehen:
 
-So kann ein Thema aussehen:
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/01-intro.png)
 
-![](https://downloads.intercomcdn.com/i/o/891728106/4f173b0c0d62fae49130807a/image.png?expires=1781092800&signature=c7b27f5527718dc1d8778f4f0dcde29b6433fb1f00931fe0063773dd30e22049&req=fCkmEct2nIFZFb4V1XW4gZdY5axD8uQqwceiOqbrxH7dBNIS5Ju6s%2BZDgBVj%0AQydOOZhqOcwC1ZqE1ouEwZXtcQ%3D%3D%0A)
+So kann der [Topic Header](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) aussehen:
 
-1. Am oberen Rand der Seite eines Themas finden Sie das [Themenbanner](https://support.catenda.com/en/articles/7986346-issue-banner).
-2. Der Hauptteil des Themas befindet sich unterhalb der [Themenüberschrift](https://support.catenda.com/en/articles/8400566-issue-header).
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/02-intro.png)
 
-3. Rechts neben dem Hauptteil und der Kopfzeile des Themas finden Sie das [rechte Informationsfeld](https://support.catenda.com/en/articles/8053299-issue-right-panel).
+Unter dem Topic Header befindet sich der Topic Body mit Beschreibung und Kommentaren. Der Topic Body wird in diesem Artikel beschrieben. Rechts neben dem Topic Body und Header befindet sich das [rechte Informationsfenster](https://support.catenda.com/en/articles/8053299-issue-right-panel). Klicken Sie auf das Informationssymbol im Topic Banner, um das rechte Informationsfenster zu erweitern.
 
-4. Der Hauptteil des Themas wird in diesem Artikel behandelt.
+Der in diesem Artikel beschriebene Topic Body befindet sich unter dem Header und links neben dem rechten Informationsfenster:
 
-## 1. Fortschrittsbalken
+So kann der Hauptteil eines Topics aussehen:
 
-![](https://downloads.intercomcdn.com/i/o/758246452/67a377b6d341034e4bf14e81/image.png?expires=1781092800&signature=8168623fe96cc5a20c48938698acc9a4578891177786878306c06356a19bc16b&req=cyUvFM14mYRdFb4V1XW4gTBKssd%2BaDSjA9W%2BVvgEMH1yXIv2yWBqzXVoAix%2F%0AcDJixTSctB9wq54FMl%2FPazuQZg%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/03-intro.png)
 
-Der Fortschrittsbalken zeigt den Fortschritt von angekreuzten Checkboxen und gelösten Themen in der Beschreibung des Themas an.
+## 1. **Fortschrittsbalken**
 
-Für ein kurzes Video-Tutorial über Checklisten siehe [hier](https://support.catenda.com/en/articles/5036461-check-lists-within-issues)
+Der Fortschrittsbalken wird oben im Topic Body angezeigt, wenn Kontrollkästchen oder verlinkte Topics zur Topic-Beschreibung hinzugefügt wurden. So kann der Fortschrittsbalken oben im Topic aussehen:
 
-## 2. Beschreibung
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/04-progress-bar.png)
 
-Die Beschreibung des Themas folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+Der Fortschrittsbalken zeigt den Fortschritt der aktivierten Kontrollkästchen und aufgelösten Topics in der Beschreibung des Topics. Ein kurzes Video-Tutorial zu Checklisten finden Sie [hier](https://support.catenda.com/en/articles/5036461-check-lists-within-issues)
 
-## 3. Beschreibung bearbeiten
+## 2. **Beschreibung**
 
-Klicken Sie auf den Bleistift oben rechts neben dem Inhalt des Themas, um die Beschreibung zu bearbeiten
+Die Topic-Beschreibung folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
 
-![](https://downloads.intercomcdn.com/i/o/758319680/018064f73f9ad677e31d85f3/image.png?expires=1781092800&signature=20e17b1e60f9898da372ca7bc5ac425905b459a93aaf7312c5cb0baaac6078a0&req=cyUvFch3m4lfFb4V1XW4gVAepRGJdayUSrmdkuPCAFr8AVtd0AQlB87Hk3rO%0AUlngPsXK6s8xjNG9pzJACdL2oQ%3D%3D%0A)
+### 2.1 **Beschreibung bearbeiten**
 
-Für weitere Informationen über Formatierungsoptionen bearbeiten Sie die Beschreibung und klicken Sie auf das Fragezeichen. Informationen zur Formatierung finden Sie auch in [diesem Artikel](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+Klicken Sie auf den Bleistift oben rechts des Topic-Inhalts, um die Beschreibung zu bearbeiten
 
-_Zugang erforderlich:_ Schreibzugriff auf das Themenboard
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/05-edit-description.png)
 
-## 4. Erstellt von
+_Erforderlicher Zugriff:_ Schreibzugriff auf das Topic Board
 
-Der Ersteller des Themas und die Zeit, zu der es erstellt wurde. Um eine genauere Zeitangabe zu erhalten, gehen Sie zu den [Kontoeinstellungen](https://support.catenda.com/en/articles/6880968-account-page#h_4aa257b72f).
+So kann eine Beschreibung aussehen, wenn sie bearbeitet wird:
 
-## 5. Verlauf anzeigen
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/06-edit-description.png)
 
-Wenn Sie wissen möchten, ob sich ein Thema geändert hat, können Sie sich die Historie des Themas anzeigen lassen, indem Sie auf den Button Historie anzeigen rechts unten in der Themenbeschreibung klicken.
+Weitere Informationen zu Formatierungsoptionen erhalten Sie, wenn Sie die Beschreibung bearbeiten und auf das Fragezeichen klicken. Beschreibungen folgen den allgemeinen Regeln der [Formatierung von Beiträgen](https://support.catenda.com/en/articles/8430847-formatting-of-posts) auf Catenda.
 
-In [diesem Artikel](https://support.catenda.com/en/articles/8613038-issue-history) erfahren Sie, welche Themenhistorie Sie in Catenda Hub sehen können.
+## 3. **Topic-Informationen**
 
-## 6. Sortieren
+Die Topic-Informationen befinden sich unter der Beschreibung. So können die Topic-Informationen aussehen:
 
-Älteste Kommentare zuerst anzeigen - Standard
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/07-topic-information.png)
 
-Neueste Kommentare zuerst anzeigen
+### 3.1 **Erstellt von**
 
-## 7. Kommentar
+Der Ersteller des Topics und der Zeitpunkt der Erstellung. Um eine genauere Zeit zu erhalten, wechseln Sie zu [Kontoeinstellungen](https://support.catenda.com/en/articles/6880968-account-page#h_4aa257b72f).
 
-Text in Kommentaren folgt den [allgemeinen Regeln für die Formatierung von Beiträgen](https://support.catenda.com/en/articles/8430847-formatting-of-posts) mit einem kleinen Unterschied, wenn es um Checklisten geht.
+### 3.2 **Historie anzeigen**
 
-### 7.1 Pop-Out für Anhänge
+Die Historie des Topics können Sie durch Klicken auf die Schaltfläche "Historie anzeigen" unten rechts in der Topic-Beschreibung anzeigen. Weitere Informationen zur Topic-Historie finden Sie in [diesem Artikel](https://support.catenda.com/en/articles/8613038-topic-history).
 
-Wenn Sie mit der linken Maustaste auf das Bild eines Anhangs klicken, öffnet sich das Bild-Pop-Out
+### 3.3 **Sortieren**
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1255860400/30a9e02ba1c5535c2f5b3806d04b/image.png?expires=1781092800&signature=9a5533b88d9de1861a1dfb32275164a7624ce98430abf734b17fba19b1569515&req=dSIiE8F4nYVfWfMW3nq%2BgbxttvO2TTcBCEG9WTGO7oGtb4Lj9VlZ9%2BThRr13%0AWviTOFTI%2Fr1YNKZN0mGZ4UT%2Frh8%3D%0A)
+Älteste Kommentare zuerst - Standard. Neueste Kommentare zuerst
 
-Navigieren Sie zwischen den Bildern verschiedener Kommentare in diesem Thema mit den Navigationspfeilen links/rechts
+## 4. **Kommentarbereich**
 
-Klicken Sie auf Download, um das Bild herunterzuladen (Sie können nicht mit der rechten Maustaste auf das Bild klicken, um es zu speichern)
+Der Kommentarbereich in einem Topic kann so aussehen:
 
-Verankern Sie das Bild-Pop-Out mit dem Pin-Symbol oben rechts, um das Bild-Pop-Out geöffnet zu lassen, während Sie zu anderen Bereichen von Catenda Hub navigieren.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/08-comment-section.png)
 
-Schließen Sie das Bild-Pop-Out, indem Sie oben rechts auf das x klicken, unten rechts auf schließen klicken oder die Taste esc auf der Tastatur drücken.
+### 4.1 **Menü für vorhandene Kommentare**
 
-Ein Kommentar kann einen der folgenden 3 Anhänge haben:
+Das Menü eines Kommentars befindet sich bei den drei Punkten oben rechts eines vorhandenen Kommentars. So kann das Menü eines Kommentars aussehen:
 
-### 7.2 Bild
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/09-existing-comment-action-menu.png)
 
-**Hinzufügen eines Bildes zu einem Kommentar**
+**Einen Kommentar bearbeiten** Öffnen Sie das Kommentarmenü und klicken Sie auf "Bearbeiten", um einen Kommentar zu bearbeiten. _Erforderlicher Zugriff:_ Kommentarersteller
 
-Sie können entweder auf das Pluszeichen neben dem Kommentarfeld und dem Bild klicken, um ein Bild von Ihrer lokalen Festplatte auszuwählen, oder ein Bild per Copy-Paste einfügen, um es dem Kommentar hinzuzufügen. Diese Option ist immer verfügbar.
+Es kann nur der Text eines Kommentars bearbeitet werden. Die einzige Möglichkeit, eine Kommentaranlage aus einem Topic zu entfernen, besteht darin, den Kommentar zu löschen. Nach der Bearbeitung des Kommentars werden Datum und Zeit der letzten Änderung unter dem Benutzernamen des Kommentarautors angezeigt.
 
-**Bild mit 3D verbinden**
+**Änderungen anzeigen** Öffnen Sie das Aktionsmenü für einen bearbeiteten Topic und klicken Sie auf "Änderungen anzeigen", um den Verlauf der Änderungen in diesem Kommentar anzuzeigen. Erforderlicher Zugriff: Kommentarersteller oder Administrator
 
-Wenn Sie ein Bild zu einem Kommentar hinzufügen, wird unter dem Bild "Keine Viewer-Verbindung" angezeigt, es sei denn, Sie laden ein Modell in den 3D-Viewer. Dann steht in diesem Text "Mit 3D-Ansichtspunkt verbinden". Sie können das Bild nun mit Objekten und einer Position im Viewer verbinden. Wenn Sie diesen Kommentar abschicken, können Sie den Aussichtspunkt abspielen, indem Sie auf die Schaltfläche "Abspielen" klicken. Bitte stellen Sie sicher, dass Sie Ihre Anmerkungen nach dem Verbinden mit 3D hinzufügen.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/10-existing-comment-action-menu.png)
 
-**Bild-Pop-Out**
+Klicken Sie auf "Änderungen ausblenden" unten rechts, um die Änderungen erneut auszublenden.
 
-Das Bild, das nach dem Absenden des Kommentars an den Kommentar angehängt wird, kann [ausgeklappt](#h_e36d14edc8) werden, um seinen Inhalt in einem größeren Format zu sehen und es nach dem Absenden herunterzuladen.
+**Neuen Kommentar löschen** Klicken Sie auf "Löschen" im Kommentarmenü, um einen Kommentar zu löschen. _Erforderlicher Zugriff:_ Kommentarersteller
 
-**Löschen eines Bildes aus einem Kommentar**
+**Bearbeiteten Kommentar löschen** Nach der Bearbeitung eines Kommentars wird die Aktion "Löschen" auch für Administratoren verfügbar. _Erforderlicher Zugriff:_ Kommentarersteller oder Administrator
 
-Sie können ein Bild, das an einen Kommentar angehängt ist, nicht bearbeiten oder löschen. Wenn Sie das Bild aus dem Thema entfernen möchten, müssen Sie den gesamten Kommentar löschen.
+> **Hinweis:** Der aktuelle Inhalt eines gelöschten Kommentars kann in der Topic-Historie durch Klicken auf das Feld "gelöscht" angezeigt werden.
 
-### 7.3 2D- oder 3D-Schnappschüsse
+### 4.2 **Kommentar**
 
-Mit einem Klick auf die Plus-Schaltfläche neben dem Kommentarfeld können Sie einen 2D- oder 3D-Schnappschuss hinzufügen
+Text in Kommentaren folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/en/articles/8430847-formatting-of-posts) mit einem geringfügigen Unterschied bei Checklisten.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1296349701/653a93844e5f920ce24f2ad34abb/image.png?expires=1781092800&signature=f34b9fed049c4b9cca1dbd5c3065da0fb44602a821bdf89ff67916f4619731b0&req=dSIuEMp6lIZfWPMW3nq%2BgcQHy6XwWWtGx7LuvD8ug2eoUiDBPWNgzzS38xdO%0Ai2SzezCpkzqHIU0pGRRuuf1oNyE%3D%0A)
+**Pop-out-Anlage** Klicken Sie mit der linken Maustaste auf das Bild einer Anlage, um das Bild-Pop-out zu öffnen.
 
-**Hinzufügen eines 2D- oder 3D-Schnappschusses zu einem Kommentar**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/11-comment.png)
 
-Wenn Sie ein Modell in 3D geladen haben, können Sie einen 3D-Schnappschuss an Ihren Kommentar anhängen.
+Navigieren Sie zwischen Bildern aus verschiedenen Kommentaren in diesem Topic mit den linken/rechten Navigationspfeilen. Die beste Möglichkeit, das ursprüngliche eingereichte Bild herunterzuladen, besteht darin, auf das Symbol "Herunterladen" zu klicken, um das Bild herunterzuladen. "Speichern unter" im Menü des Browsers speichert HTML statt des Bildes. Fixieren Sie das Bild-Pop-out mit dem Stift-Symbol oben rechts, um das Bild-Pop-out beim Navigieren zu anderen Teilen von Catenda Hub offen zu halten. Schließen Sie das Bild-Pop-out durch Klicken auf das X oben rechts, Klicken auf "Schließen" unten rechts oder Drücken von Esc auf der Tastatur.
 
-Wenn Sie den 2D-Viewer geöffnet haben, können Sie einen 2D-Schnappschuss an Ihren Kommentar anhängen.
+Ein Kommentar kann eine der folgenden 3 Anlagen haben:
 
-So kann ein 3D-Schnappschuss aussehen. 2D-Schnappschüsse haben die gleichen Schaltflächen, sind aber mit einem Bild des 2D-Viewers versehen.
+### 4.3 **Bild**
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1277457885/6d48655dd3aab36902694c19e7fb/image.png?expires=1781092800&signature=30bb8ab7e3d4985b052af3f64fa053fee3421f9b65b131422fde51b2518c9881&req=dSIgEc17molXXPMW3nq%2BgQPa%2B2H%2Fr%2FX1jnCef14mbahez6WTw0UCN6uB1f0G%0AjZerQdiQeFVNz7SumEFmnPIuUGU%3D%0A)
+**Ein Bild zu einem Kommentar hinzufügen** Klicken Sie auf das Plus-Symbol neben dem Kommentarfeld, um ein Bild hinzuzufügen. Wählen Sie ein Bild von einer lokalen Festplatte aus, um es dem Kommentar hinzuzufügen.
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/10345863-snapshots), um mehr über die Schnappschuss-Konfiguration zu erfahren
+Sie können auch das Textfeld des Kommentars markieren und ein Bild aus der Zwischenablage einfügen.
 
-### 7.4 Anmerkung
+**Bild mit 3D verbinden** Wenn ein Bild zu einem Kommentar hinzugefügt wird, wird "Keine Viewer-Verbindung" unter dem Bild angezeigt, es sei denn, ein Modell ist im 3D-Viewer geladen. Der Text "Mit 3D-Ansichtspunkt verbinden" wird angezeigt. Das Bild kann jetzt mit Objekten und einer Position im Viewer verbunden werden. Speichern Sie diesen Kommentar, um den Ansichtspunkt wiederzugeben, indem Sie auf die Wiedergabeschaltfläche klicken. Anmerkungen können dem Bild hinzugefügt werden, nachdem das Bild hinzugefügt und bevor der Kommentar gesendet wurde.
 
-![](https://downloads.intercomcdn.com/i/o/768543632/3a4f96125c834bc84e579116/image.png?expires=1781092800&signature=6ef8a2efab5bfb1ba3fb5c5a57d32af5c9648902f1fb684d4caadc78ef4b0587&req=cyYvE819m4JdFb4V1XW4gUkKIkZEIiBxGi9KsvmUacjmlyhZMSk%2BXul9y1gn%0ACsnk0EoJsZVwD8VpIxof%2BrhJZg%3D%3D%0A)
+**Bild-Pop-out** Das Bild, das dem Kommentar nach dem Absenden des Kommentars angehängt ist, kann vergrößert werden, um seinen Inhalt in einem größeren Format anzuzeigen und es nach dem Absenden herunterzuladen.
 
-Wenn ein Kommentar zu einem Thema hinzugefügt wird, wird das kommentierte Dokument automatisch mit den [zugehörigen Dokumenten](https://support.catenda.com/en/articles/7986346-issue-content#h_be2f2bcf3b) verknüpft.
+**Ein Bild aus einem Kommentar löschen** Bilder, die an Kommentare angehängt sind, können nicht aus dem Kommentar bearbeitet oder gelöscht werden. Löschen Sie den gesamten Kommentar, um das Bild aus dem Topic zu entfernen.
 
-Ein Kommentar mit einer Anmerkung hat:
+### 4.4 **2D- oder 3D-Schnappschüsse**
 
-**Graue Kopfzeile des Kommentars**
+Klicken Sie auf die Plus-Schaltfläche neben dem Kommentarfeld, um einen 2D- oder 3D-Schnappschuss hinzuzufügen
 
-- Name und Revision des kommentierten Dokuments
-    - Wenn die Anmerkung zu einem PDF-Vergleich gemacht wird, sehen Sie hier, welche zwei Revisionen verglichen werden.
-- Die Seite, auf der sich die Anmerkungen befinden
-- Die Anzahl der Anmerkungen auf der Seite
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/12-2d-or-3d-snapshots.png)
 
-Bild mit einer Vorschau der Anmerkung im Dokument
+**Einen 2D- oder 3D-Schnappschuss zu einem Kommentar hinzufügen** Laden Sie ein Modell im 3D-Viewer, um einen 3D-Schnappschuss zu einem Kommentar hinzuzufügen. Laden Sie ein Geschoss eines Modells im 2D-Viewer, um einen 2D-Schnappschuss zu einem Kommentar hinzuzufügen. Ein 3D-Schnappschuss kann so aussehen.
 
-**Kommentar zur Anmerkung**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/13-2d-or-3d-snapshots.png)
 
-Der Kommentar folgt den [allgemeinen Regeln für die Formatierung von Beiträgen](https://support.catenda.com/en/articles/8430847-formatting-of-posts) mit einem kleinen Unterschied, wenn es um Checklisten geht.
+2D-Schnappschüsse haben die gleichen Schaltflächen, aber mit einem Bild des 2D-Viewers angehängt. Klicken Sie [hier](https://support.catenda.com/en/articles/10345863-snapshots), um mehr über die Schnappschuss-Konfiguration zu erfahren
 
-**Bild-Pop-Out**
+### 4.5 **Markup**
 
-Das Bild, das nach dem Absenden des Kommentars an den Kommentar angehängt wird, kann [ausgeklappt](#h_e36d14edc8) werden, um seinen Inhalt in einem größeren Format zu sehen und es nach dem Absenden herunterzuladen.
+Verwalten Sie Anmerkungen zu Dokumenten, indem Sie ein Markup erstellen. Wenn ein Markup gespeichert wird, wird es entweder zu dem Kommentar eines vorhandenen Topics hinzugefügt oder es wird ein neues Topic mit dem Markup erstellt. Ein Topic-Kommentar mit Markup kann so aussehen:
 
-### 7.5 Neuer Kommentar
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/14-markup.png)
 
-Wenn Sie einen Anhang zu einem Kommentar hinzufügen und das Pop-Out für den Anhang öffnen, bevor Sie ihn abschicken, sehen Sie, dass Sie das Bild, das mit dem Anhang verbunden ist, mit Anmerkungen versehen können.
+Wenn ein Markup zu einem Topic hinzugefügt wird, wird das Dokument, auf dem die Anmerkungen erstellt wurden, automatisch in den [verwandten Dokumenten](https://support.catenda.com/en/articles/7986346-issue-content#h_be2f2bcf3b) verlinkt.
 
-1. Wenn Sie auf die Schaltfläche Hinzufügen klicken, können Sie einen 2D/3D-Schnappschuss oder ein Bild von Ihrer Festplatte hinzufügen. 
-Der 2D/3D-Schnappschuss stammt aus dem aktuellen Kamerawinkel im 3D/2D-Viewer. Durch Öffnen der Schaltfläche 3D im Navigationsviewer. Sie können durch das Modell zu dem betreffenden Thema navigieren und durch Drücken der Schaltfläche Hinzufügen den 2D/3D-Schnappschuss auswählen, der dann erscheint. 
-​
-1. Wenn Sie mit der linken Maustaste auf den Schnappschuss klicken, haben Sie die Möglichkeit, dem Bild Anmerkungen hinzuzufügen. Unter dem Bild wird eine Symbolleiste mit Werkzeugen angezeigt, mit denen Sie den betreffenden Punkt des Themas detaillierter zeichnen können.
-​
-1. Das Textfeld neben der Schaltfläche "Hinzufügen" dient dazu, einen Kommentar zu schreiben, Personen zu erwähnen, indem Sie @name eingeben, oder auf andere Themen zu verlinken, indem Sie #link eingeben.
+**Markup-Kommentar** Der Anmerkungskommentar folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/en/articles/8430847-formatting-of-posts) mit einem geringfügigen Unterschied bei Checklisten.
 
-### 7.6 Hamburger-Menü für Kommentare
+**Markup-Schnappschuss** In einem Markup-Schnappschuss können folgende Informationen angezeigt werden: Ein Screenshot des Dokumentbereichs, in dem die Anmerkungen erstellt wurden. _Erforderlicher Zugriff:_ Lesezugriff auf das Topic Board
 
-**Bearbeiten eines Kommentars**
+Dokumentinformation _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument, auf dem sich das Markup befindet, sowie Zugriff zum Anzeigen gemeinsamer Überarbeitungen im Dokument, wenn sich das Markup auf eine gemeinsame Überarbeitung befindet.
 
-Nur der Autor eines Kommentars kann seinen eigenen Kommentar bearbeiten.
+Die Dokumentinformation kann Folgendes enthalten:
 
-Es ist nur möglich, den Text eines Kommentars zu bearbeiten
+- Wiedergabeschaltfläche
 
-Wenn Sie das Bild aus einem Kommentar entfernen möchten, muss der gesamte Kommentar gelöscht werden
+Klicken Sie auf die Wiedergabeschaltfläche, um das Dokument zu öffnen, auf dem sich das Markup befindet. Wenn Sie darauf klicken, wird eine Vorschau des Dokuments geöffnet. Im Dokument wird die Überarbeitung angezeigt, auf der Anmerkungen angebracht sind. Die Vorschau zeigt die Seite des Dokuments an, auf der Anmerkungen angebracht sind.
 
-**Löschen eines Kommentars**
+Die Dokumentvorschau zeigt das Dokument nicht an, wenn: Die Dokumentüberarbeitung zurückgezogen wurde. Das Dokument wurde gelöscht.
 
-Nur der Autor eines Kommentars kann seinen eigenen Kommentar löschen
+- Dokumentname
+- Revisionsnummer
+
+Wenn die Anmerkung auf einem PDF-Vergleich erfolgt, werden die Überarbeitungsnummern der beiden verglichenen Überarbeitungen angezeigt.
+
+**Bild-Pop-out** Das Bild, das dem Kommentar nach dem Absenden des Kommentars angehängt ist, kann vergrößert werden, um seinen Inhalt in einem größeren Format anzuzeigen und es nach dem Absenden herunterzuladen.
+
+### 4.6 **Neuer Kommentar**
+
+So kann der Entwurf eines neuen Kommentars aussehen, bevor der Kommentar gesendet wird
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/15-new-comment.png)
+
+**Textfeld** Schreiben Sie einen Kommentar in das Textfeld neben der Plus-Schaltfläche. Erwähnen Sie Mitglieder durch Eingabe von @name oder verlinken Sie andere Topics durch Eingabe von #link. Der in das Textfeld eines Kommentars eingefügte Text folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/en/articles/8430847-formatting-of-posts) auf Catenda. Fügen Sie sowohl Text als auch Bilder aus der Zwischenablage ein, um sie dem neuen Kommentar anzuhängen.
+
+**Plus-Schaltfläche** Klicken Sie auf die Plus-Schaltfläche, um einen 3D-Schnappschuss, einen 2D-Schnappschuss oder ein Bild zu einem Entwurf eines neuen Kommentars hinzuzufügen.
+
+**3D-Schnappschuss** Fügen Sie einen Schnappschuss der aktuellen Situation im 3D-Viewer-Fenster hinzu. Klicken Sie auf diese Anlage erneut, um die 3D-Ansicht nach Änderungen zu aktualisieren.
+
+**2D-Schnappschuss** Fügen Sie einen Schnappschuss der aktuellen 2D-Ansicht hinzu, die unten rechts im 3D-Viewer zu finden ist. Klicken Sie auf diese Anlage erneut, um die 3D-Ansicht nach Änderungen zu aktualisieren.
+
+**Bild** Fügen Sie ein Bild von einer lokalen Festplatte an.
+
+**Anlage-Bild** Jeder Anlage ist ein Bild beigefügt. Klicken Sie mit der linken Maustaste auf das Bild der Anlage, um das Anlage-Pop-out zu öffnen. Im Anlage-Pop-out kann das Bild der Anlage mit Anmerkungen versehen werden. Unter dem Bild wird eine Symbolleiste angezeigt, mit der Sie den spezifischen Punkt des Topics noch detaillierter darstellen können.
+
+**Senden** Klicken Sie auf "Senden", um den Entwurf des neuen Kommentars zu senden, einschließlich des im Textfeld geschriebenen Texts sowie aller hinzugefügten Anlagen. Es ist nur möglich, Kommentare mit einer Anlage gleichzeitig zu senden.

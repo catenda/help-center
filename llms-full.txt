@@ -4424,9 +4424,7 @@ _https://\<Tenant>.sharepoint.com/sites/\<Sitename>/\_layouts/15/storefront.aspx
 
 Clicking on Request it on this page will add the app to your site.
 
-## 2. 
-
-## 3. **Installing the app**
+## 2. **Installing the app**
 
 Right after adding the Catenda Sharepoint app it will appear as a grayed out element in site contents. It can take some time to install before it becomes available. This is what it can look like when the app is installing:
 
@@ -4434,9 +4432,9 @@ Right after adding the Catenda Sharepoint app it will appear as a grayed out ele
 
 https://_\<Tenant>_.sharepoint.com/sites/\<_Sitename_>/\_layouts/15/viewlsts.aspx?view=14
 
-## 4. **Removing the app**
+## 3. **Removing the app**
 
-### 4.1 **New experience**
+### 3.1 **New experience**
 
 In the future it will be possible to remove the app from a site from its hamburger menu on the site contents section of your page.
 
@@ -4452,7 +4450,7 @@ Click on 'Return to classic SharePoint' or find the older experience towards the
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vw41y5jc/10-new-experience.png)
 
-### 4.2 **Old experience**
+### 3.2 **Old experience**
 
 To remove the Catenda app, hover over the app item on the Site contents page. Click on the three dots that appear towards the top right of the app.
 
@@ -8640,13 +8638,11 @@ Documents can be downloaded with the action button on the top right, with the do
 
 You can read about the different columns that a document can have in the table view of the documents page [here](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
 
-### 6.3 
-
-### 6.4 **Document revisions**
+### 6.3 **Document revisions**
 
 Documents can be empty but will usually have at least one revision. A revision can be seen as a version of the document. When you open a document you will see its latest revision. Previous revisions can also be found The standard revision is a public revision. If document statuses have been enabled in document settings the document may contain draft revisions.
 
-### 6.5 **Linking a document**
+### 6.4 **Linking a document**
 
 A document can be linked to many different places around Catenda Hub.
 
@@ -11063,9 +11059,7 @@ Documents uploaded to a folder where this naming convention is configured will n
 
 ### 4.1 👉 **[How to setup my custom fields ?](https://intercom.help/bimsync-arena/en/articles/6550459-custom-fields-setup)**
 
-### 4.2 
-
-### 4.3 👉 **[How to setup my naming convention ?](https://support.catenda.com/en/articles/7832559-naming-conventions-page)**
+### 4.2 👉 **[How to setup my naming convention ?](https://support.catenda.com/en/articles/7832559-naming-conventions-page)**
 
 # IFC Export Archicad Manual
 
@@ -15876,9 +15870,7 @@ If a document is not in a naming convention folder it will be possible to click 
 
 _Access required:_ Write access to the document.
 
-### 2.3 
-
-### 2.4 **Filling out fields**
+### 2.3 **Filling out fields**
 
 This is what the fields that can be filled out for the whole document can look like:
 
@@ -18231,27 +18223,25 @@ The topic information can be found below the description. This is what the topic
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/07-topic-information.png)
 
-## 4. 
-
-### 4.1 **Created by**
+### 3.1 **Created by**
 
 The creator of the topic and the time it was created. To get a more specific time go to [account settings](https://support.catenda.com/en/articles/6880968-account-page#h_4aa257b72f).
 
-### 4.2 **Show history**
+### 3.2 **Show history**
 
 The history of the topic can be seen by clicking on the show history button towards the bottom right of the topic description. See [this article](https://support.catenda.com/en/articles/8613038-topic-history) for what topic history is possible to see on Catenda Hub.
 
-### 4.3 **Sort**
+### 3.3 **Sort**
 
 Show oldest comments first - Default Show newest comments first
 
-## 5. **Comment section**
+## 4. **Comment section**
 
 The is what the comment section in a topic can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/08-comment-section.png)
 
-### 5.1 **Existing comment action menu**
+### 4.1 **Existing comment action menu**
 
 The action menu of a comment can be found with the three dots towards the top right of an existing comment. This is what the action menu of a comment can look like:
 
@@ -18273,7 +18263,7 @@ Click on Hide changes towards the bottom right to hide the changes again.
 
 > **Note:** The latest content of a deleted comment can be seen in the topic history by clicking on the deleted field.
 
-### 5.2 **Comment**
+### 4.2 **Comment**
 
 Text in comments follow the [general rules for formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) with a minor difference when it comes to checklists.
 
@@ -18285,7 +18275,7 @@ Navigate between images from different comments in this topic with the left/righ
 
 A comment can have one of the following 3 attachments:
 
-### 5.3 **Image**
+### 4.3 **Image**
 
 **Adding an image to a comment** The plus next to the comment box can ble clicked to add an image. Choose an image from a local hard drive to add it to the comment.
 
@@ -18297,7 +18287,7 @@ It is also possible to highlight the text box of the comment and paste an image 
 
 **Deleting an image from a comment** Images that are attached to comments cannot be edited or deleted from the comment. Delete the whole comment to remove the image from the topic.
 
-### 5.4 **2D or 3D snapshots**
+### 4.4 **2D or 3D snapshots**
 
 Click on the plus button next to the comment field to add a 2D or 3D snapshot
 
@@ -18309,7 +18299,7 @@ Click on the plus button next to the comment field to add a 2D or 3D snapshot
 
 2D snapshots have the same buttons but with an image of the 2D viewer attached. Click [here](https://support.catenda.com/en/articles/10345863-snapshots) to read more about snapshot configuration
 
-### 5.5 **Markup**
+### 4.5 **Markup**
 
 Keep track of annotations on documents by creating a markup. When a markup is saved, it is either added to the comment of an existing topic or a new topic with the markup is created. A topic comment with a markup can look something like this:
 
@@ -18338,7 +18328,7 @@ If the annotation is made on a PDF comparison the revision numbers of the two re
 
 **Image pop-out** The image that is attached to the comment after the comment is submitted can be popped-out to see a its contents in a larger format and download it after it has been submitted.
 
-### 5.6 **New comment**
+### 4.6 **New comment**
 
 This is what a draft of a new comment can look like before the comment is submitted
 
@@ -19298,8 +19288,6 @@ Compared to uploading a regular zip file, the upload a zip function will unpack 
 The Upload zip function can be found in the action menu to the right of the green + button on the top right of the documents page.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/01-intro.png)
-
-### 
 
 ## 1. **Selecting a zip file**
 
@@ -20943,9 +20931,7 @@ When importing BCF reports from Solibri, Sarah ensures they land in the appropri
 
 Systematic topic board setup, comprehensive labeling, and milestone integration create accountability and transparency in coordination processes.
 
-## 4. 
-
-## 5. **Further reading:**
+## 4. **Further reading:**
 
 - [Topic board settings page](https://support.catenda.com/en/articles/4670277-topic-board-settings-page)
 - [Catenda Archicad plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
@@ -20953,17 +20939,17 @@ Systematic topic board setup, comprehensive labeling, and milestone integration 
 - Catenda Navisworks plugin
 - [Step 5 - Topics](https://support.catenda.com/en/articles/10576182-step-5-topics)
 
-## 6. Prompt
+## 5. Prompt
 
-### 6.1 **Character**
+### 5.1 **Character**
 
 You are a BIM Manager for a General Contractor on a high-intensity infrastructure project. You are the architect of the BIM Execution Plan (BEP) and the primary authority for digital quality control and coordination milestones.
 
-### 6.2 **Experience**
+### 5.2 **Experience**
 
 You are a master of digital coordination who thrives during high-pressure weeks where thousands of technical and geometric clashes are identified. You understand that managing these at scale requires moving away from static PDF reports toward a centralized, live coordination hub. You know how to leverage the natural "find-and-fix" instincts of a project team by providing them with a professional, structured environment for their work.
 
-### 6.3 **Goal**
+### 5.3 **Goal**
 
 Your objective is to transform a massive dataset into an actionable workflow by:
 
@@ -20975,7 +20961,7 @@ Your objective is to transform a massive dataset into an actionable workflow by:
 
 **Providing Transparency:** Creating a bulletproof audit trail for every decision, revision, and approval.
 
-### 6.4 **Situation**
+### 5.4 **Situation**
 
 The project is entering a critical coordination phase, and your clash detection software has just identified thousands of issues. To manage this in Catenda Hub, you implement the following system:
 
@@ -20989,7 +20975,7 @@ The project is entering a critical coordination phase, and your clash detection 
 
 **Workload Distribution:** You divide responsibilities by assigning Topics to specific members or multidisciplinary teams. By linking Topics directly to BIM objects and 3D views, you ensure that the Structural or MEP lead can find, discuss, and resolve the issue without ever leaving their native authoring environment.
 
-### 6.5 **Incentive**
+### 5.5 **Incentive**
 
 Your success is measured by hitting contractual milestones on time with zero manual data re-entry. You know that a decision not documented in context is a decision that didn't happen. Your goal is to provide a "clash-free" report that serves as an unalterable insurance policy for the project's history.
 
@@ -21233,9 +21219,7 @@ Hover over a [marker in the 2D viewer](https://support.catenda.com/en/articles/4
 
 Click on the marker to open the topic in the corresponding topic board in the content panel.
 
-### 2.1 
-
-### 2.2 **Marker configuration in browser**
+### 2.1 **Marker configuration in browser**
 
 Marker visibility can be configured in the following locations:
 
@@ -26824,11 +26808,9 @@ The title of a withdrawn revision will be struck through and you will not be abl
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/21-model-revision-withdrawn.png)
 
-## 6. 
+## 6. **Project settings**
 
-## 7. **Project settings**
-
-### 7.1 Teams that no longer exist
+### 6.1 Teams that no longer exist
 
 [https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/members/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/members/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
 

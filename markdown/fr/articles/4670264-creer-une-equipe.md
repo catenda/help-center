@@ -1,11 +1,47 @@
 # Créer une équipe
 
-Les équipes peuvent être divisées de la manière que vous souhaitez. Une façon habituelle de diviser les membres en équipes est par métier. Les équipes peuvent être affectées à des questions tout comme les membres.
+Dans un projet de construction, les équipes peuvent être précieuses car les personnes arrivent souvent, changent de rôle ou quittent différents groupes de travail. La mise en place d'équipes peut prévenir les malentendus après un changement de rôles dans le projet.
 
-![mceclip0.png](https://catenda-as.intercom-attachments-1.com/i/o/271057617/3263944f58ef36b3d13b8b15/mceclip0.png?expires=1781092800&signature=4040692623e48bf9c8e7bc43276b0e5c66af39280cc736fe8b350e7aafa0203a&req=dicmFsx5m4BYFb4V1XW4gcSHwklAX%2BET4q4rrt2FAZbJTp7ZwrZw7Wcyj4Tp%0AjqmUzV4c9N8VLTw2%2BEoyXn921A%3D%3D%0A)
+Créez une équipe en ouvrant le menu d'action à droite du bouton plus vert sur la [page Membres et équipes](https://support.catenda.com/en/articles/4670291-members-and-teams-page) quel que soit l'onglet sélectionné.
 
-Pour créer une nouvelle équipe, allez sur la page des membres et dans le coin supérieur droit il y a un bouton "Nouvelle équipe". Choisissez le nom de l'équipe et si l'équipe doit avoir le rôle de membre ou d'administrateur. Notez que si l'équipe obtient le rôle d'administrateur, chaque membre de cette équipe aura un accès d'administrateur.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/01-intro.png)
 
-Lorsque l'équipe est créée, la page de l'équipe s'ouvre et vous pouvez ajouter des membres à cette équipe. Ici, vous pouvez également voir les problèmes qui sont attribués à cette équipe et les révisions de modèle téléchargées par les membres de cette équipe.
+Les équipes peuvent également être créées à partir des pages de contenu Membres et Équipes respectivement :
 
-![mceclip1.png](https://catenda-as.intercom-attachments-1.com/i/o/271057624/0d13bc8af190a6020e550c2f/mceclip1.png?expires=1781092800&signature=560278fd2330880a235a97ad5102d645872e84641b51905724a7613d38f41232&req=dicmFsx5m4NbFb4V1XW4gVaC4aXys6EjWbT1RX4qHHvj0rjKN4HJr2PDkDlI%0ASpMDVRJliG5dG9ETnZL7TWpXdQ%3D%3D%0A)
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/inline-f431970e0ec1.png" width="290"/>    ---    <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/inline-fa9689ce5cd0.png" width="290"/>
+
+## 1. **Quand mettre en place une équipe ?**
+
+Les équipes Catenda peuvent être divisées de la manière que vous souhaitez. En règle générale, une équipe est constituée par chaque domaine d'études auquel appartiennent les participants du projet. Des équipes distinctes peuvent être constituées pour des groupes de travail individuels, soit au sein de ce domaine d'études, soit de manière interdisciplinaire. Les Membres peuvent faire partie de plusieurs équipes, de sorte que les équipes dont ils font partie finissent par décrire les différents rôles qu'ils ont dans le projet.
+
+### 1.1 **Équipes pour la gestion des sujets**
+
+Les sujets peuvent être demandés et assignés aux équipes, ce qui facilite le suivi des responsabilités et des demandes d'une équipe. Les nouveaux sujets qui sont créés sont souvent d'abord assignés à une équipe, après quoi un examen des sujets ouverts pour l'équipe est effectué et les sujets sont ensuite assignés aux Membres individuels pour le suivi.
+
+### 1.2 **Équipes pour les notifications de sujets**
+
+Dans un sujet, une équipe peut également être mentionnée pour informer toute l'équipe de quelque chose.
+
+Le contrôle d'accès peut être délégué aux équipes. Ceci peut être utilisé pour configurer l'accès avant que les utilisateurs ne fassent partie d'une équipe. Ensuite, lorsque l'accès est prêt à être utilisé, les bons utilisateurs peuvent être ajoutés à l'équipe. Une bonne utilisation de ceci est de configurer une équipe lorsqu'un Membre est invité afin qu'il obtienne l'accès approprié dès qu'il devient partie du projet.
+
+## 2. **Créer une nouvelle équipe**
+
+Voici à quoi peut ressembler la page de création d'une nouvelle équipe :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/02-create-a-new-team.png)
+
+### 2.1 **Nom**
+
+Entrez ici le nom de l'équipe. Les noms d'équipes doivent être uniques par projet.
+
+### 2.2 **Rôle**
+
+Dans la zone de rôle, le rôle que les Membres faisant partie de cette équipe doivent avoir peut être configuré.
+
+**Administrateur** Si l'équipe reçoit le rôle d'administrateur, chaque Membre de cette équipe aura accès administrateur quel que soit le fait qu'il soit administrateur en tant que Membre ou non. Les administrateurs ont un accès complet au projet à quelques exceptions près : - Suppression du projet, seuls les propriétaires du projet peuvent le faire. - Certaines vues spécifiques à l'utilisateur telles que les Signets privés, les collections et les paramètres privés de Bibliothèque.
+
+_Membre_ - Par défaut, les Membres auront par défaut un accès en lecture et en écriture à la plupart des fonctionnalités, et un accès en suppression à leur propre contenu. Les Membres peuvent être davantage limités par les règles de contrôle d'accès dans différentes sections de l'application, telles que les Documents, les tableaux de sujets, et bien d'autres.
+
+### 2.3 **Créer**
+
+Lorsque l'équipe est créée, la [page de contenu de l'équipe](https://support.catenda.com/en/articles/7891755-team-page) s'ouvre. À partir de là, les Membres peuvent être ajoutés à l'équipe.

@@ -1,13 +1,13 @@
-# Stap 1 - Account instellen
+# Stap 1 - Accountinstelling
 
-> Maak je account en word uitgenodigd voor een project
+> Maak uw account aan en ontvang een uitnodiging voor een project
 
-Catenda stuurt je een uitnodiging per e-mail met een link naar de volgende stappen van registratie. Via deze link kunt u een account aanmaken met uw persoonlijke gegevens.
+U ontvangt een uitnodiging per e-mail van Catenda met een koppeling naar de volgende stappen van de registratie. Met behulp van deze koppeling kunt u een account aanmaken met uw persoonlijke gegevens.
 
-![](https://downloads.intercomcdn.com/i/o/981880493/1e42cd4f7fc6d79022df3e51/image.png?expires=1781092800&signature=46043e24706033d74f5935193bc2fc8f46f34d8d30544e6ba87a1a91ec107c55&req=fSgmHsF%2BmYhcFb4V1XW4gQT3FVIF1Y9uXhF5l%2FBFxxgJA7C6d6QOtBGZK7OC%0ANApHoVUK5GtCpAXOnuYm2psKGw%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/m6qttvze/01-intro.png)
 
-Nadat uw registratie is voltooid, kunt u uw projecten op Catenda Hub benaderen vanuit elke webbrowser.
+Nadat uw registratie is voltooid, kunt u uw projecten op Catenda Hub vanaf elke webbrowser openen. [https://hub.catenda.com/signin](https://hub.catenda.com/signin)
 
-[https://hub.catenda.com/signin](https://hub.catenda.com/signin)
+Verder lezen: [Aanmeldingspagina](https://support.catenda.com/en/articles/7891486-sign-in-page), [Een account aanmaken](https://support.catenda.com/en/articles/8412895-creating-an-account), [Landingspagina](https://support.catenda.com/en/articles/4670260-landing-page)
 
-> **Note:** Vind stap 2 in Aan de slag op het helpcentrum of in het helpmenu.
+> **Opmerking:** Zoek [stap 2](https://support.catenda.com/en/articles/10576075-step-2-interface) in [Aan de slag](https://support.catenda.com/en/collections/2657208-getting-started) in het helpopmerkingen of in het helpmenu.

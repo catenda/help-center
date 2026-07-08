@@ -6,8 +6,6 @@ The Upload zip function can be found in the action menu to the right of the gree
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/01-intro.png)
 
-### 
-
 ## 1. **Selecting a zip file**
 
 After clicking the Upload zip menu item, the following dialogue will open up:

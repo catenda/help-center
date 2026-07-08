@@ -46,9 +46,7 @@ _https://\<Tenant>.sharepoint.com/sites/\<Sitename>/\_layouts/15/storefront.aspx
 
 Clicking on Request it on this page will add the app to your site.
 
-## 2. 
-
-## 3. **Installing the app**
+## 2. **Installing the app**
 
 Right after adding the Catenda Sharepoint app it will appear as a grayed out element in site contents. It can take some time to install before it becomes available. This is what it can look like when the app is installing:
 
@@ -56,9 +54,9 @@ Right after adding the Catenda Sharepoint app it will appear as a grayed out ele
 
 https://_\<Tenant>_.sharepoint.com/sites/\<_Sitename_>/\_layouts/15/viewlsts.aspx?view=14
 
-## 4. **Removing the app**
+## 3. **Removing the app**
 
-### 4.1 **New experience**
+### 3.1 **New experience**
 
 In the future it will be possible to remove the app from a site from its hamburger menu on the site contents section of your page.
 
@@ -74,7 +72,7 @@ Click on 'Return to classic SharePoint' or find the older experience towards the
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vw41y5jc/10-new-experience.png)
 
-### 4.2 **Old experience**
+### 3.2 **Old experience**
 
 To remove the Catenda app, hover over the app item on the Site contents page. Click on the three dots that appear towards the top right of the app.
 

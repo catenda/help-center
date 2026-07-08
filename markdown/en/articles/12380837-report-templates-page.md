@@ -1,65 +1,65 @@
-# Report templates page
+# レポートテンプレートページ
 
-> **Note 1:** The reports page is an opt-in feature that can be requested to be enabled for ongoing projects. **Note 2:** New projects that are created based on a template project where this feature is enabled do not have this feature enabled.
+> **注1：** レポートページはオプトイン機能で、進行中のプロジェクトに対して有効にするようリクエストできます。 **注2：** このフィーチャーが有効になっているテンプレートプロジェクトを基に作成された新しいプロジェクトでは、このフィーチャーは有効になりません。
 
-The report templates page can be found as a sub-page of the [reports page](https://support.catenda.com/en/articles/12303098-reports-page) in the left navigation menu. On the report templates page document and topic templates that are available to the project can be managed. _Access required:_ Administrator
+レポートテンプレートページは、左側のナビゲーションメニューで[レポートページ](https://support.catenda.com/en/articles/12303098-reports-page)のサブページとして見つけることができます。レポートテンプレートページでは、プロジェクトで利用可能なドキュメントテンプレートとトピックテンプレートを管理できます。_必要なアクセス権：_ 管理者
 
-This is what the report templates page can look something like this:
+レポートテンプレートページは以下のようになります：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/01-intro.png)
 
-## 1. **Actions on the report templates page**
+## 1. **レポートテンプレートページのアクション**
 
-The report templates page actions can be found by clicking on the action menu on the top right of the report templates page. This is what the report templates page actions can look like:
+レポートテンプレートページのアクションは、レポートテンプレートページの右上にあるアクションメニューをクリックすることで見つけることができます。レポートテンプレートページのアクションは以下のようになります：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/02-actions-on-the-report-templates-page.png)
 
-### 1.1 **New topic template**
+### 1.1 **新しいトピックテンプレート**
 
-Use the new topic template action to create a new topic template
+新しいトピックテンプレートアクションを使用して、新しいトピックテンプレートを作成します。
 
-### 1.2 **New document template**
+### 1.2 **新しいドキュメントテンプレート**
 
-Use the new document template action to create a new document template
+新しいドキュメントテンプレートアクションを使用して、新しいドキュメントテンプレートを作成します。
 
-## 2. **Filter by name**
+## 2. **名前でフィルター**
 
-Write in the search bar to filter the reports template table by the names of the reports.
+検索バーに入力して、レポート名でレポートテンプレートテーブルをフィルターします。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/03-filter-by-name.png)
 
-Text searc - `search=test`
+テキスト検索 - `search=test`
 
-## 3. **Report templates table**
+## 3. **レポートテンプレートテーブル**
 
-As soon as a report template is created it will show up as a row in the report templates table. This is what the report templates table can look like:
+レポートテンプレートが作成されると、レポートテンプレートテーブルの行として表示されます。レポートテンプレートテーブルは以下のようになります：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/04-report-templates-table.png)
 
-Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read more about how to work with tables in Catenda.
+[こちら](https://support.catenda.com/en/articles/11748020-tables-on-catenda)をクリックして、Catendaでテーブルを操作する方法について詳しく読んでください。
 
-### 3.1 **Row content**
+### 3.1 **行の内容**
 
-**Report row** While it is possible to click on a row to select it and highlight it in green there are no actions that can be performed by selecting a row. The row will be selected when the row action menu in the right column is selected.
+**レポート行**行をクリックして選択し、緑色でハイライトすることは可能ですが、行の選択によって実行できるアクションはありません。右側の列にある行アクションメニューが選択されると、行が選択されます。
 
-### 3.2 **Columns**
+### 3.2 **列**
 
-Based on the configured column order the first columns are displayed while the table might have to be scrolled sideways to show other enabled columns. The default order and visibility setting of the columns on the report templates page is as follows:
+設定された列の順序に基づいて最初の列が表示され、他の有効な列を表示するためにテーブルを横にスクロールする必要がある場合があります。レポートテンプレートページの列のデフォルトの順序と可視性設定は以下の通りです：
 
-Name - _Default_ The name of the report template
+名前 - _デフォルト_ レポートテンプレートの名前
 
-_Created by_ - _Default_ The creator of the report template
+_作成者_ - _デフォルト_ レポートテンプレートの作成者
 
-Created - _Default_ The time and date of when the topic template was created
+作成 - _デフォルト_ トピックテンプレートが作成された時刻と日付
 
-Type - Default The type of report template, either Documents or Topics.
+種類 - デフォルト レポートテンプレートのタイプ。ドキュメントまたはトピックです。
 
-Action menu - Default Click on the action menu in the action menu column to open the row action menu. This is what the report template row action menu can look like:
+アクションメニュー - デフォルト アクションメニュー列のアクションメニューをクリックして、行アクションメニューを開きます。レポートテンプレート行アクションメニューは以下のようになります：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/05-columns.png)
 
-Edit Use the edit action to edit the selected report template.
+編集 編集アクションを使用して、選択したレポートテンプレートを編集します。
 
-Download Use the download action to download the selected report template with the `.mrt` file format that can be imported again in any other project.
+ダウンロード ダウンロードアクションを使用して、選択したレポートテンプレートを`.mrt`ファイル形式でダウンロードし、他のプロジェクトで再度インポートできます。
 
-Delete Use the delete action to delete the selected report template.
+削除 削除アクションを使用して、選択したレポートテンプレートを削除します。

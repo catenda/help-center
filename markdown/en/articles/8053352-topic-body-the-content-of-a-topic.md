@@ -1,176 +1,174 @@
-# Topic body - The content of a topic
+# Topicbody - De inhoud van een topic
 
-Select a topic from an [topic board](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) a to open the topic page of the topic. This is what the [topic banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) on the topic page can look like:
+Selecteer een topic uit een [topic board](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) om de topicpagina van de topic te openen. Dit is hoe de [topicbanner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) op de topicpagina eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/01-intro.png)
 
-This is what the [topic header](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) can look like:
+Dit is hoe de [topicheader](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/02-intro.png)
 
-Below the topic header the topic body can be found with description and comments. The topic body is described in this article. To the right of the topic body and header the [right information panel](https://support.catenda.com/en/articles/8053299-issue-right-panel) can be found. Click on th information icon in the topic banner to expand the right infomraiton panel.
+Onder de topicheader vindt u de topicbody met beschrijving en opmerkingen. De topicbody wordt beschreven in dit artikel. Rechts van de topicbody en header is het [rechter informatievenster](https://support.catenda.com/en/articles/8053299-issue-right-panel) te vinden. Klik op het informatiepictogram in de topicbanner om het rechter informatievenster uit te klappen.
 
-The topic body described in this article is below the header and to the left of the right information panel:
+De topicbody beschreven in dit artikel bevindt zich onder de header en links van het rechter informatievenster:
 
-This is what the main part of a topic can look like:
+Dit is hoe het hoofdgedeelte van een topic eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/03-intro.png)
 
-## 1. **Progress bar**
+## 1. **Voortgangsbalk**
 
-The progress bar appears towards the top of the topic body if checkboxes or linked topics have been added to the topic description. This is what the progress bar towards the top of a topic can look like:
+De voortgangsbalk verschijnt bovenaan de topicbody als selectievakjes of gekoppelde topics aan de topicbeschrijving zijn toegevoegd. Dit is hoe de voortgangsbalk bovenaan een topic eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/04-progress-bar.png)
 
-The progress bar shows the progress of checked checkboxes and resolved topics in the description of the topic. For a short video tutorial about check lists see [here](https://support.catenda.com/en/articles/5036461-check-lists-within-issues)
+De voortgangsbalk toont de voortgang van aangevinkte selectievakjes en opgeloste topics in de beschrijving van de topic. Voor een korte videotutorial over checklisten zie [hier](https://support.catenda.com/en/articles/5036461-check-lists-within-issues)
 
-## 2. **Description**
+## 2. **Beschrijving**
 
-The topic description follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+De topicbeschrijving volgt de [algemene opmaakregels voor berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
 
-### 2.1 **Edit description**
+### 2.1 **Beschrijving bewerken**
 
-Click on the pencil on the top right of the topic content to edit the description
+Klik op het potlood rechtsboven in de topicinhoud om de beschrijving te bewerken
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/05-edit-description.png)
 
-_Access required:_ Write access to the topic board
+_Vereiste toegang:_ Schrijftoegang tot het topic board
 
-This is what a description can look like when it is being edited:
+Dit is hoe een beschrijving eruit kan zien als deze wordt bewerkt:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/06-edit-description.png)
 
-For more information about formatting options edit the description and click on the question mark. Descriptions follow the general rules of [formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda.
+Voor meer informatie over opmaakopties kunt u de beschrijving bewerken en op het vraagteken klikken. Beschrijvingen volgen de algemene regels voor [opmaak van berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts) op Catenda.
 
-## 3. **Topic information**
+## 3. **Topicgegevens**
 
-The topic information can be found below the description. This is what the topic information can look like:
+De topicgegevens zijn te vinden onder de beschrijving. Dit is hoe de topicgegevens eruit kunnen zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/07-topic-information.png)
 
-## 4. 
+### 3.1 **Gemaakt door**
 
-### 4.1 **Created by**
+De maker van de topic en het moment waarop deze is gemaakt. Voor een nauwkeuriger moment gaat u naar [accountinstellingen](https://support.catenda.com/en/articles/6880968-account-page#h_4aa257b72f).
 
-The creator of the topic and the time it was created. To get a more specific time go to [account settings](https://support.catenda.com/en/articles/6880968-account-page#h_4aa257b72f).
+### 3.2 **Geschiedenis weergeven**
 
-### 4.2 **Show history**
+De geschiedenis van de topic kan worden bekeken door op de knop geschiedenis weergeven rechtsonder in de topicbeschrijving te klikken. Zie [dit artikel](https://support.catenda.com/en/articles/8613038-topic-history) voor informatie over welke topicgeschiedenis op Catenda Hub kan worden weergegeven.
 
-The history of the topic can be seen by clicking on the show history button towards the bottom right of the topic description. See [this article](https://support.catenda.com/en/articles/8613038-topic-history) for what topic history is possible to see on Catenda Hub.
+### 3.3 **Sorteren**
 
-### 4.3 **Sort**
+Ouderste opmerkingen eerst weergeven - Standaard Nieuwste opmerkingen eerst weergeven
 
-Show oldest comments first - Default Show newest comments first
+## 4. **Opmerkingengedeelte**
 
-## 5. **Comment section**
-
-The is what the comment section in a topic can look like:
+Dit is hoe het opmerkingengedeelte in een topic eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/08-comment-section.png)
 
-### 5.1 **Existing comment action menu**
+### 4.1 **Menu Bestaande opmerkingsactie**
 
-The action menu of a comment can be found with the three dots towards the top right of an existing comment. This is what the action menu of a comment can look like:
+Het actiemenu van een opmerking is terug te vinden met de drie puntjes rechtsboven in een bestaande opmerking. Dit is hoe het actiemenu van een opmerking eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/09-existing-comment-action-menu.png)
 
-**Edit a comment** Open the comment action menu and click on Edit to edit a comment. _Access required:_ Comment creator
+**Een opmerking bewerken** Open het actiemenu van de opmerking en klik op Bewerken om een opmerking te bewerken. _Vereiste toegang:_ Maker van opmerking
 
-Only the text of a comment can be edited. The only way to remove a comment attachment from a topic is to delete the comment. After editing the comment the date and time of when the comment was last edited are displayed below the username of the comment author.
+Alleen de tekst van een opmerking kan worden bewerkt. De enige manier om een opmerkingsbijlage uit een topic te verwijderen is de opmerking te verwijderen. Na het bewerken van de opmerking worden de datum en tijd waarop de opmerking voor het laatst is bewerkt, weergegeven onder de gebruikersnaam van de opmerkingsauteur.
 
-**View changes** Open the comment action menu for an edited topic and click on View changes to see a history of the changes on this comment. Access required: Comment creator or administrator
+**Wijzigingen weergeven** Open het actiemenu van de opmerking voor een bewerkte topic en klik op Wijzigingen weergeven om de geschiedenis van de wijzigingen voor deze opmerking te zien. Vereiste toegang: Maker van opmerking of beheerder
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/10-existing-comment-action-menu.png)
 
-Click on Hide changes towards the bottom right to hide the changes again.
+Klik op Wijzigingen verbergen rechtsonder om de wijzigingen opnieuw te verbergen.
 
-**Delete new comment** Click on Delete in the comment action menu to delete a comment. _Access required:_ Comment creator
+**Nieuwe opmerking verwijderen** Klik op Verwijderen in het actiemenu van de opmerking om een opmerking te verwijderen. _Vereiste toegang:_ Maker van opmerking
 
-**Delete edited comment** After a comment is edited the Delete action also becomes available to administors. _Access required:_ Comment creator or administrator
+**Bewerkte opmerking verwijderen** Nadat een opmerking is bewerkt, wordt de actie Verwijderen ook beschikbaar voor beheerders. _Vereiste toegang:_ Maker van opmerking of beheerder
 
-> **Note:** The latest content of a deleted comment can be seen in the topic history by clicking on the deleted field.
+> **Opmerking:** De nieuwste inhoud van een verwijderde opmerking kan in de topicgeschiedenis worden bekeken door op het verwijderde veld te klikken.
 
-### 5.2 **Comment**
+### 4.2 **Opmerking**
 
-Text in comments follow the [general rules for formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) with a minor difference when it comes to checklists.
+Tekst in opmerkingen volgt de [algemene regels voor opmaak van berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts) met een klein verschil als het gaat om checklisten.
 
-**Attachment pop-out** Left click on the image of an attachment to open the image pop-out.
+**Pop-out bijlage** Klik met de linkermuisknop op de afbeelding van een bijlage om de afbeeldingspop-out te openen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/11-comment.png)
 
-Navigate between images from different comments in this topic with the left/right navigation arrows The best way to download the original image that was submitted is by clicking on the  download icon to download the image The save as in the action menu of the browser saves html instead of the image. Pin the image pop-out on with the pin icon on the top right to keep the image pop-out open while navigating to other parts of Catenda Hub. Close the image pop-out by clicking on the x top right, clicking on close bottom right or pressing esc on the keyboard.
+Navigeer tussen afbeeldingen van verschillende opmerkingen in deze topic met behulp van de navigatiepijlen naar links/rechts. De beste manier om de originele afbeelding te downloaden is op het downloadpictogram te klikken om de afbeelding te downloaden. De optie Opslaan onder in het actiemenu van de browser slaat HTML op in plaats van de afbeelding. Zet de afbeeldingspop-out vast met het speldpictogram rechtsboven om de afbeeldingspop-out open te houden terwijl u naar andere onderdelen van Catenda Hub navigeert. Sluit de afbeeldingspop-out door op de x rechtsboven te klikken, op Sluiten rechtsonder te klikken of op het toetsenbord op Esc te drukken.
 
-A comment can have one of the following 3 attachments:
+Een opmerking kan één van de volgende 3 bijlagen hebben:
 
-### 5.3 **Image**
+### 4.3 **Afbeelding**
 
-**Adding an image to a comment** The plus next to the comment box can ble clicked to add an image. Choose an image from a local hard drive to add it to the comment.
+**Een afbeelding aan een opmerking toevoegen** Op de plus naast het opmerkingenvenster kan worden geklikt om een afbeelding toe te voegen. Kies een afbeelding van een lokale schijf om deze aan de opmerking toe te voegen.
 
-It is also possible to highlight the text box of the comment and paste an image from the clipboard.
+Het is ook mogelijk om het tekstvak van de opmerking te markeren en een afbeelding van het klembord in te plakken.
 
-**Connect image to 3D** When an image is added to a comment it will say "No viewer connection" under the image unless a model is loaded in the 3D viewer. The text "Connect to 3D viewpoint" is displayed. The image can now connect it to objects and a position in the viewer. Submit this comment to play back the viewpoint by clicking on the play button. Annotations can be added to the image after adding the image and before submitting the comment.
+**Afbeelding aan 3D koppelen** Wanneer een afbeelding aan een opmerking wordt toegevoegd, staat eronder "Geen viewerverbinding" tenzij een model in de 3D-viewer is geladen. De tekst "Verbinden met 3D-gezichtspunt" wordt weergegeven. De afbeelding kan nu worden verbonden met objecten en een positie in de viewer. Dien deze opmerking in om het gezichtspunt af te spelen door op de afspeelknop te klikken. Annotaties kunnen aan de afbeelding worden toegevoegd nadat de afbeelding is toegevoegd en voordat de opmerking wordt ingediend.
 
-**Image pop-out** The image that is attached to the comment after the comment is submitted can be popped-out to see a its contents in a larger format and download it after it has been submitted.
+**Pop-out afbeelding** De afbeelding die aan de opmerking is gekoppeld nadat de opmerking is ingediend, kan pop-out worden geplaatst om deze in een groter formaat te zien en na het indienen te downloaden.
 
-**Deleting an image from a comment** Images that are attached to comments cannot be edited or deleted from the comment. Delete the whole comment to remove the image from the topic.
+**Een afbeelding uit een opmerking verwijderen** Afbeeldingen die aan opmerkingen zijn gekoppeld, kunnen niet uit de opmerking worden bewerkt of verwijderd. Verwijder de volledige opmerking om de afbeelding uit de topic te verwijderen.
 
-### 5.4 **2D or 3D snapshots**
+### 4.4 **2D- of 3D-snapshots**
 
-Click on the plus button next to the comment field to add a 2D or 3D snapshot
+Klik op de plusknop naast het opmerkingenvenster om een 2D- of 3D-snapshot toe te voegen
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/12-2d-or-3d-snapshots.png)
 
-**Adding a 2D or 3D snapshot to a comment** Load a model in the 3D viewer to attach a 3D snapshot to a comment. Load a storey of a model in the 2D viewer to attach a 2D snapshot to a comment. A 3D snapshot can look somehting like this.
+**Een 2D- of 3D-snapshot aan een opmerking toevoegen** Laad een model in de 3D-viewer om een 3D-snapshot aan een opmerking toe te voegen. Laad een verdieping van een model in de 2D-viewer om een 2D-snapshot aan een opmerking toe te voegen. Een 3D-snapshot kan er ongeveer zo uitzien.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/13-2d-or-3d-snapshots.png)
 
-2D snapshots have the same buttons but with an image of the 2D viewer attached. Click [here](https://support.catenda.com/en/articles/10345863-snapshots) to read more about snapshot configuration
+2D-snapshots hebben dezelfde knoppen maar met een afbeelding van de 2D-viewer eraan gekoppeld. Klik [hier](https://support.catenda.com/en/articles/10345863-snapshots) om meer te lezen over snapshots configuratie
 
-### 5.5 **Markup**
+### 4.5 **Markup**
 
-Keep track of annotations on documents by creating a markup. When a markup is saved, it is either added to the comment of an existing topic or a new topic with the markup is created. A topic comment with a markup can look something like this:
+Houd aantekeningen op documenten bij door een markup te maken. Wanneer een markup wordt opgeslagen, wordt deze toegevoegd aan de opmerking van een bestaande topic of wordt een nieuwe topic met de markup gemaakt. Een topicopmerking met markup kan er ongeveer zo uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/14-markup.png)
 
-When a markup is added to a topic the document that the annotations were created on is automatically be linked in the [related documents](https://support.catenda.com/en/articles/7986346-issue-content#h_be2f2bcf3b).
+Wanneer een markup aan een topic wordt toegevoegd, wordt het document waarop de aantekeningen zijn gemaakt, automatisch gekoppeld in de [gerelateerde documenten](https://support.catenda.com/en/articles/7986346-issue-content#h_be2f2bcf3b).
 
-**Markup comment** The annotation comment follows the [general rules for formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) with a minor difference when it comes to checklists.
+**Markup-opmerking** De aantekeningsopmerking volgt de [algemene regels voor opmaak van berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts) met een klein verschil als het gaat om checklisten.
 
-**Markup snapshot** The following information can be seen in a markup snapshot: A screenshot of the area of the document where the annotations were created. _Access required:_ Read access to the topic board
+**Markup-snapshot** De volgende informatie is zichtbaar in een markup-snapshot: Een schermafbeelding van het gebied van het document waar de aantekeningen zijn gemaakt. _Vereiste toegang:_ Leestoegang tot het topic board
 
-Document information _Access required:_ Read access to the document that the markup is on and access to viewing shared revisions in the document if the markup is on a shared revision.
+Documentgegevens _Vereiste toegang:_ Leestoegang tot het document waarop de markup staat en toegang tot het bekijken van gedeelde revisies in het document als de markup op een gedeelde revisie staat.
 
-Document information can include:
+Documentgegevens kunnen het volgende omvatten:
 
-- Play button
+- Afspeelknop
 
-Click the play button to go to open the document that the markup is on. When pressed, a preview of the document will open up. In the document the revision that annotations are made on is shown. The preview shows the page of the document that annotations are made on.
+Klik op de afspeelknop om het document waarop de markup staat, te openen. Wanneer u erop klikt, wordt een voorbeeld van het document geopend. In het document wordt de revisie waarop aantekeningen zijn gemaakt, weergegeven. Het voorbeeld toont de pagina van het document waarop aantekeningen zijn gemaakt.
 
-The document preview will not show the document if: The document revision has been withdrawn The document has been deleted.
+Het documentvoorbeeld wordt niet weergegeven als: De documentrevisie is ingetrokken Het document is verwijderd.
 
-- Document name
-- Revision number
+- Documentnaam
+- Revisienummer
 
-If the annotation is made on a PDF comparison the revision numbers of the two revisions that are compared are displayed.
+Als de aantekening op een PDF-vergelijking is gemaakt, worden de revisienummers van de twee revisies die worden vergeleken, weergegeven.
 
-**Image pop-out** The image that is attached to the comment after the comment is submitted can be popped-out to see a its contents in a larger format and download it after it has been submitted.
+**Pop-out afbeelding** De afbeelding die aan de opmerking is gekoppeld nadat de opmerking is ingediend, kan pop-out worden geplaatst om deze in een groter formaat te zien en na het indienen te downloaden.
 
-### 5.6 **New comment**
+### 4.6 **Nieuwe opmerking**
 
-This is what a draft of a new comment can look like before the comment is submitted
+Dit is hoe een concept van een nieuwe opmerking eruit kan zien voordat de opmerking wordt ingediend
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/15-new-comment.png)
 
-**Text box** Write a comment in the text box next to the plus button. Mention members by typing @name or link to other topics by typing #link. Text submitted in the text box of a comment follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda. Paste both text and images from the clipboard to attach them to the new comment.
+**Tekstvak** Schrijf een opmerking in het tekstvak naast de plusknop. Vermeld leden door @naam in te typen of link naar andere topics door #link in te typen. Tekst ingediend in het tekstvak van een opmerking volgt de [algemene opmaakregels voor berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts) op Catenda. Plak zowel tekst als afbeeldingen van het klembord om ze aan de nieuwe opmerking toe te voegen.
 
-**Plus button** Click on the plus button to add a 3D snapshot, a 2D snapshot or an image to the draft of a new comment.
+**Plusknop** Klik op de plusknop om een 3D-snapshot, een 2D-snapshot of een afbeelding aan het concept van een nieuwe opmerking toe te voegen.
 
-**3D snapshot** Add a snapshot of the current situation in the 3D viewer panel. Click on this attachment again to update the 3D view after making changes.
+**3D-snapshot** Voeg een snapshot van de huidige situatie toe in het 3D-viewerpaneel. Klik opnieuw op deze bijlage om de 3D-weergave na wijzigingen bij te werken.
 
-**2D snapshot** Add a snapshot of the current 2D view that can be found towards the bottom right of the 3D viewer. Click on this attachment again to update the 3D view after making changes.
+**2D-snapshot** Voeg een snapshot van de huidige 2D-weergave toe die u rechtsonder in het 3D-viewerpaneel kunt vinden. Klik opnieuw op deze bijlage om de 3D-weergave na wijzigingen bij te werken.
 
-**Image** Attach an image from the local hard drive.
+**Afbeelding** Voeg een afbeelding van de lokale schijf toe.
 
-**Attachment image** Each attachment comes along with an image. Left click on the image of the attachment to open the attachment pop-out. In the attachment pop-out the image of the attachment can be annotated. Under the image a toolbar appears with the tools to draw the specific point of the topic in more detail.
+**Bijlageafbeelding** Elke bijlage wordt vergezeld van een afbeelding. Klik met de linkermuisknop op de afbeelding van de bijlage om de pop-out van de bijlage te openen. In de pop-out van de bijlage kan de afbeelding van de bijlage geannoteerd worden. Onder de afbeelding wordt een werkbalk weergegeven met hulpmiddelen om het specifieke punt van de topic meer in detail te tekenen.
 
-**Submit** Click on submit to submit the draft of new comment including the text written in the text box as well as any attachment that has been added. It is only possible to submit comments with one attachment at a time.
+**Indienen** Klik op Indienen om het concept van de nieuwe opmerking in te dienen, inclusief de in het tekstvak geschreven tekst en alle toegevoegde bijlagen. Het is alleen mogelijk om opmerkingen met één bijlage tegelijk in te dienen.

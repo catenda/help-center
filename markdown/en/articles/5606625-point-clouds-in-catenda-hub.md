@@ -1,128 +1,128 @@
-# Point Clouds in Catenda Hub
+# Puntenwolken in Catenda Hub
 
-> Discover how to benefit from laser scans and LIDAR technologies in Catenda Hub.
+> Ontdek hoe u kunt profiteren van laserscanningen en LIDAR-technologieën in Catenda Hub.
 
-> **Note:** Download a sample file from [here](https://drive.google.com/file/d/1G8U916oihDl5qHrTfQaVHxDeLsbq1ulG/view?usp=sharing).
+> **Opmerking:** Download een voorbeeldbestand van [hier](https://drive.google.com/file/d/1G8U916oihDl5qHrTfQaVHxDeLsbq1ulG/view?usp=sharing).
 
-Pointcloud datasets (PC) can be visualiszed inside Catenda Hub Individual PC can be previewed inside the document area. Multiple PC can be loaded into the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer). In the 3D viewer, PC can be viewed together with other 3D documents formats like IFC models and GML files.
+Puntenwolkgegevenssets (PC) kunnen in Catenda Hub worden gevisualiseerd. Individuele PC kunnen in het documentgedeelte worden bekeken. Meerdere PC kunnen worden geladen in de [3D Viewer](https://support.catenda.com/en/articles/8227211-3d-viewer). In de 3D Viewer kunnen PC samen worden bekeken met andere 3D-documentindelingen zoals IFC-modellen en GML-bestanden.
 
-See below various settings to display your data:
+Zie hieronder verschillende instellingen voor het weergeven van uw gegevens:
 
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptive - Sparse - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-05a450dc777f.png" style="height: auto;" width="3839"/></div></td><td><p>Adaptive - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-196a1135014a.png" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Fixed - Dense - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-66e21551bbef.png" style="height: auto;" width="3834"/></div></td><td><p>Fixed - Sparse - Intensity</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-4a2046c8eaf1.png" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptief - Spars - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-05a450dc777f.png" style="height: auto;" width="3839"/></div></td><td><p>Adaptief - Dicht - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-196a1135014a.png" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Vast - Dicht - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-66e21551bbef.png" style="height: auto;" width="3834"/></div></td><td><p>Vast - Spars - Intensiteit</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-4a2046c8eaf1.png" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
 
-## 1. **Document section preview**
+## 1. **Documentgedeelte voorbeeld**
 
-PC data of the following two file formats can be previewed on Catenda.
+PC-gegevens van de volgende twee bestandsindelingen kunnen in Catenda worden bekeken.
 
 - `\*.e57`
 - `\*.las`
 
-PC can be uploaded like any other document in the document section. For these two file formats files up to 25 GB files can be uploaded to the document section. Multiple files can be loaded in the document section and displayed together in the 3D viewer.
+PC kan zoals elk ander document in het documentgedeelte worden geüpload. Voor deze twee bestandsindelingen kunnen bestanden tot 25 GB naar het documentgedeelte worden geüpload. Meerdere bestanden kunnen in het documentgedeelte worden geladen en samen in de 3D Viewer worden weergegeven.
 
-### 1.1 **Uploading PC data**
+### 1.1 **PC-gegevens uploaden**
 
-It is recommended to use the [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) or to compress your PC file to a zipped folder and use the [zip import](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) to upload your PC. These methods will help you save time as the upload file size will be smaller as well as minimise the risk of a network error as the file will be uploaded faster
+Het is aanbevolen om de [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) te gebruiken of uw PC-bestand in een gecomprimeerde map te comprimeren en de [zip-import](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) te gebruiken om uw PC te uploaden. Deze methoden helpen u tijd te besparen, omdat de bestandsgrootte voor uploaden kleiner wordt en het risico op netwerkfouten wordt geminimaliseerd, omdat het bestand sneller wordt geüpload.
 
-After you upload a PC to the document section, the document preview will start processing. While the preview is processing you will see a gray bar towards the top of your document preview.
+Nadat u een PC naar het documentgedeelte hebt geüpload, wordt de documentvoorvertoning verwerkt. Tijdens de verwerking van de voorvertoning ziet u boven uw documentvoorvertoning een grijze balk.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/01-uploading-pc-data.png)
 
-The preview processing duration depends on the size of the PC. Processing takes 1 hour per GB but it might be more/less depending on the point cloud.
+De verwerkingsduur van de voorvertoning hangt af van de grootte van de PC. De verwerking duurt 1 uur per GB, maar kan meer of minder zijn, afhankelijk van de puntenwolk.
 
-Once the preview has finished processing, click on the document to view your PC in the document preview:
+Zodra de voorvertoning is verwerkt, klikt u op het document om uw PC in de documentvoorvertoning te bekijken:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/02-uploading-pc-data.png)
 
-### 1.2 **Shared PC revisions**
+### 1.2 **Gedeelde PC-revisies**
 
-If [revision publishing](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650) has been activated for the project the point cloud will have been uploaded as a shared revision. Shared PC revisions can only be previewed in the documents section. To be able to load your PC in the 3D viewer the revision has to be published. Individual shared revisions can be published with the publish action in the right menu of the document preview. Multiple shared revisions can be published with the selected items action in the document structure. When you publish a revision, the preview for the published revision will start processing.
+Als [revision publiceren](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650) is geactiveerd voor het project, is de puntenwolk als een gedeelde revisie geüpload. Gedeelde PC-revisies kunnen alleen in het documentgedeelte worden bekeken. Om uw PC in de 3D Viewer te kunnen laden, moet de revisie worden gepubliceerd. Individuele gedeelde revisies kunnen worden gepubliceerd met de publiceeractie in het rechtermenu van de documentvoorvertoning. Meerdere gedeelde revisies kunnen worden gepubliceerd met de actie voor geselecteerde items in de documentstructuur. Wanneer u een revisie publiceert, begint de verwerking van de voorvertoning voor de gepubliceerde revisie.
 
-### 1.3 **Published PC revisions**
+### 1.3 **Gepubliceerde PC-revisies**
 
-After the preview of a published PC revision has processed a 3D button will appear in the viewer column of the the documents table.
+Nadat de voorvertoning van een gepubliceerde PC-revisie is verwerkt, verschijnt er een 3D-knop in de Viewer-kolom van de documentenentabel.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/03-br-published-pc-revisions.png)
 
-The 3D button will load the latest published revision of the document in the 3D viewer.
+De 3D-knop laadt de meest recente gepubliceerde revisie van het document in de 3D Viewer.
 
-If you have selected one or more documents with 3D documents like PC, IFC or GML documents you will also see the 3D documents action in the selected item action menu in the documents table. This way you can load the latest revisions of multiple 3D documents in the 3D viewer at once.
+Als u een of meer Documenten met 3D-Documenten hebt geselecteerd, zoals PC-, IFC- of GML-Documenten, ziet u ook de 3D-Documenten-actie in het menu met acties voor geselecteerde items in de Documenten-tabel. Op deze manier kunt u de meest recente revisies van meerdere 3D-Documenten tegelijk in de 3D Viewer laden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/04-br-published-pc-revisions.png)
 
-In a document with at least one published PC revision that has finished processing you will be able to see the 3D action in the action menu towards the top right.
+In een document met ten minste één gepubliceerde PC-revisie die is verwerkt, kunt u de 3D-actie in het actiemenu rechtsboven zien.
 
-> **Note:** The 3D action will load the latest published revision of the document in the 3D viewer. Even if you are looking at a previous revision.
+> **Opmerking:** De 3D-actie laadt de meest recente gepubliceerde revisie van het document in de 3D Viewer. Zelfs als u naar een vorige revisie kijkt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/05-br-published-pc-revisions.png)
 
-## 2. **3D viewer preview**
+## 2. **3D Viewer-voorbeeld**
 
-After clicking the 3D button the PC points will start loading into the 3D viewer. The 3D view of a PC can look something like this:
+Nadat u op de 3D-knop hebt geklikt, beginnen de PC-punten in de 3D Viewer te laden. De 3D-weergave van een PC kan er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/06-3d-viewer-preview.png)
 
-Towards the top of the 3D viewer a green loading bar can be seen. This loading bar indicates how many points have been loaded into the 3D viewer for the current camera position and angle. The loading bar might change if you rotate around as points might disappear from the view and get loaded out or more points come within range and start loading in.
+Bovenaan de 3D Viewer is een groene laadbalken te zien. Deze laadbalken geeft aan hoeveel punten voor de huidige cameraweergave en hoek in de 3D Viewer zijn geladen. De laadbalken kan veranderen wanneer u rondopdraait, omdat punten uit beeld kunnen verdwijnen en worden verwijderd, of meer punten in bereik komen en gaan laden.
 
-And after some adjustments with zoom and positioning the PC preview can look something like this:
+En na enkele aanpassingen met in- en uitzoomen en positionering kan de PC-voorvertoning er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/07-3d-viewer-preview.png)
 
-## 3. **3D viewer settings**
+## 3. **3D Viewer-instellingen**
 
-In this section, we will look at the settings inside Catenda Hub that will allow you to get the best experience with your PC.
+In dit gedeelte bekijken we de instellingen in Catenda Hub waarmee u de beste ervaring met uw PC kunt krijgen.
 
-> **Note:** Before configuring the 3D viewer, please make sure the application Catenda is opened in is configured [as recommended](https://support.catenda.com/en/articles/6921941-hardware-recommendation).
+> **Opmerking:** Voordat u de 3D Viewer configureert, moet u ervoor zorgen dat de toepassing Catenda is geconfigureerd [zoals aanbevolen](https://support.catenda.com/en/articles/6921941-hardware-recommendation).
 
-Settings that can be used to configure point clouds are located in two places.
+Instellingen die kunnen worden gebruikt om puntenwolken te configureren, bevinden zich op twee locaties.
 
-### 3.1 **1. Point Budget:**
+### 3.1 **1. Puntenbegroting:**
 
-The point budget can be configured in the [3D viewer settings](https://support.catenda.com/en/articles/5784718-3d-viewer-settings) which can be found in the gear icon towards the top right of the 3D Viewer.
+De puntenbegroting kan worden geconfigureerd in de [3D Viewer-instellingen](https://support.catenda.com/en/articles/5784718-3d-viewer-settings), die u kunt vinden in het tandwielpictogram rechtsboven in de 3D Viewer.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/08-1-point-budget.png)
 
-The the 3D viewer settings menu, the point budget can be adjusted from 100,000 up to 10,000,000. Loading in more points can take more time and can demand more resourses from your system. By loading in more points the point cloud can be displayed in higher fidelity. See the same view with: 100,000 points
+In het menu 3D Viewer-instellingen kan de puntenbegroting worden aangepast van 100.000 tot 10.000.000. Meer punten laden kan meer tijd in beslag nemen en meer middelen van uw systeem eisen. Door meer punten te laden, kan de puntenwolk met hogere getrouwheid worden weergegeven. Bekijk dezelfde weergave met: 100.000 punten
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/09-1-point-budget.png)
 
-1,000,000 points
+1.000.000 punten
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/10-1-point-budget.png)
 
-10,000,000 points
+10.000.000 punten
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/11-1-point-budget.png)
 
-### 3.2 **2. Revision Selector, and individual PC settings:**
+### 3.2 **2. Revisiekiezer en afzonderlijke PC-instellingen:**
 
-On the top left of the 3D viewer you will find the [Revision selector](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project).
+Linksboven in de 3D Viewer vindt u de [Revisiekiezer](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/12-2-revision-selector-and-individual-pc-settings.png)
 
-In [the models menu](https://support.catenda.com/en/articles/4670279-revision-selector#h_180a64490d) you will be able to find the individual [3D documents](https://support.catenda.com/en/articles/4670279-revision-selector#h_fce60074ef) that you have loaded into the 3D viewer.
+In [het menu Modellen](https://support.catenda.com/en/articles/4670279-revision-selector#h_180a64490d) kunt u de afzonderlijke [3D-Documenten](https://support.catenda.com/en/articles/4670279-revision-selector#h_fce60074ef) vinden die u in de 3D Viewer hebt geladen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/13-2-revision-selector-and-individual-pc-settings.png)
 
-Point clouds can be configured in the revision selector by clicking the gear icon.
+Puntenwolken kunnen in de revisiekiezer worden geconfigureerd door op het tandwielpictogram te klikken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/14-2-revision-selector-and-individual-pc-settings.png)
 
-This is what the settings menu can look like:
+Dit is wat het instellingenmenu eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/15-2-revision-selector-and-individual-pc-settings.png)
 
-_Attribute_ _RGBA_ - Default Display PC points with their colors
+_Kenmerk_ _RGBA_ - Standaard PC-punten weergeven met hun kleuren
 
-_Attribute Intensity_ The intensity option can be used when the points do not include colors. For example when the point cloud was captured in a tunnel or a dark room.
+_Intensiteit van kenmerk_ De intensiteitsoptie kan worden gebruikt als de punten geen kleuren bevatten. Bijvoorbeeld wanneer de puntenwolk in een tunnel of een donkere ruimte is vastgelegd.
 
-**Opacity** When models are displayed together with point clouds, it can be necessary to dim the points to have a better understanding of the viewpoint.
+**Dekking** Wanneer modellen samen met puntenwolken worden weergegeven, kan het nodig zijn om de punten te dimmen voor een beter begrip van het gezichtspunt.
 
-_Point size_ _Adaptive_ - Default The closer a point is to the camera, the larger it is. Points that are in view are loaded into memory. Points that move out of view are loaded out of memory.
+_Puntgrootte_ _Adaptief_ - Standaard Hoe dichter een punt bij de camera is, hoe groter het is. Punten die in beeld zijn, worden in het geheugen geladen. Punten die uit beeld verdwijnen, worden uit het geheugen verwijderd.
 
-> **Note:** Be sure the hardware and sofware Catenda is opened on are configured [as recommended](https://support.catenda.com/en/articles/6921941-hardware-recommendation) as this can have an effect on the type of point size loading your device is able to handle.
+> **Opmerking:** Zorg ervoor dat de hardware en software waarop Catenda is geopend, [naar aanbeveling](https://support.catenda.com/en/articles/6921941-hardware-recommendation) is geconfigureerd, omdat dit van invloed kan zijn op het soort puntgroottlading dat uw apparaat aankan.
 
-**Point size Fixed size** Points that have been loaded will stay in memory with this option. With many points you will notice that rotating might be delayed and movement can be slowed down as you start getting close to the amount of points that your system can handle. You might also notice that it will take longer and longer to load in new points as you get closer to the limit of your device. Points load closest to the camera first. Before loading the point cloud from the document section, be sure to therfore position the camera to where you want the points to load. If this is a camera position you plan to use more often with this point cloud consider making a bookmark or a snapshot in a topic which you can play to return to this position.
+**Puntgrootte Vaste grootte** Punten die zijn geladen, blijven met deze optie in het geheugen. Met veel punten merkt u dat het draaien kan worden vertraagd en de beweging kan worden vertraagd naarmate u dichterbij het aantal punten komt dat uw systeem aankan. U merkt misschien ook dat het steeds langer duurt om nieuwe punten te laden naarmate u de limiet van uw apparaat nadert. Punten worden eerst het dichtst bij de camera geladen. Voordat u de puntenwolk uit het documentgedeelte laadt, moet u daarom de camera positioneren naar waar u wilt dat de punten worden geladen. Als dit een cameraweergave is die u vaker met deze puntenwolk wilt gebruiken, kunt u overwegen om een Opgeslagen view of een Snapshot in een onderwerp te maken die u kunt afspelen om terug te keren naar deze weergave.
 
-**Point density slider** The density slider helps you make the final setting. There is no rule for the correct value, it will depend on the data you upload (size of the dataset, point density, type of scan, etc...). Our advice: Load the point cloud, and after a brief moment, when enough points are displayed, adjust the settings if necessary.
+**Dichtheidschuifregeling** De dichtheidschuifregeling helpt u de uiteindelijke instelling te maken. Er is geen regel voor de juiste waarde, dit hangt af van de gegevens die u uploadt (grootte van de gegevensset, puntdichtheid, type scan, enz...). Ons advies: Laad de puntenwolk en wacht even tot voldoende punten worden weergegeven, pas de instellingen daarna zo nodig aan.
 
-[YouTube video](https://www.youtube.com/embed/n9pztkRPxoc?rel=0)
+[YouTube-video](https://www.youtube.com/embed/n9pztkRPxoc?rel=0)

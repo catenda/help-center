@@ -1,201 +1,227 @@
-# Bureaubladverbinding (Desktop Connector)
+# Catenda Desktop Connector
 
-> **Let op:** Het installatie bestand voor deze applicatie kan [hier](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) gevonden worden.
+> **Opmerking:** Het installatiebestand voor deze applicatie vindt u [hier](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
 
-Met de bureaubladverbinding, Catenda Desktop Connector, kunt u up- en downlaods van de laatste versies van documenten plannen.
+Met de Catenda desktop connector kunt u up- en downloads van de nieuwste versies van Documenten plannen.
 
-Deze artikel bevat informatie over de volgende themas:
+## 1. **Instant up/downloads**
 
-## 1. **Onmiddelijke up/downloads**
+### 1.1 **Upload**
 
-De bureaubladverbinding laat u uw bestanden van uw locale systeem tot een bepaalde map op Catenda uploaden. U kunt ook een reeks mappen op Catenda kiezen om tot een bepaalde plek op uw locale system te downloaden.
+Selecteer een map op een lokaal systeem om alle mapinhoud, inclusief bestanden in submappen van de geselecteerde map, met de Desktop Connector naar een opgegeven map op Catenda Hub te uploaden.
 
-### 1.1 **Uploadsnelheid**
+**Geslaagde uploads** Als u meerdere bestanden sleept en neerzet of de zip-uploadfunctie op Catenda Hub gebruikt, uploadt u één grote reeks gegevens. Hoe groter de upload, hoe langer u moet wachten voordat u uw bestanden in de Catenda Hub documentstructuur kunt indienen.
 
-Bestanden met de bureaobladverbinding uplaoden is sneller met bestandsovervoering dan het standaard uploadproces want bestanden zijn geïmporteerd via de API in plaats van via de browser. Het is daarom de beste manier om uw bestanden te uploaden als u grote hoeveelheden data in een keer wilt uploaden.
+**Eén bestand tegelijk** Door bestanden van een mapstructuur één bestand tegelijk met de Desktop Connector te uploaden, kunt u de upload onderbreken en later voortzetten.
 
-### 1.2 **Voltooide uploads**
+**Verkleinen van het uploadfoutrisico** Hoe groter de upload, hoe hoger het risico dat het ook mislukt. Misschien gaat uw stroom uit, misschien breekt uw internetverbinding even. Dan zou u de upload helemaal opnieuw moeten starten.
 
-Als u meerdere bestanden of de zip-upload functie op CAtenda Hub gebruikt wordt een grote reeks met data geüpload.
+### 1.2 **Download**
 
-Hoe groter de upload is, hoe langer u moest wachten voordat u uw bestanden in kunt dienen tot de Catenda Hub documentenstructuur.
+Selecteer één of meer afzonderlijke Documenten of selecteer een map op Catenda Hub om de selectie, inclusief Documenten in submappen van geselecteerde mappen, naar een locatie op uw lokale computer te downloaden.
 
-**Één voor één bestand**
+### 1.3 **Overdrachtssnelheid**
 
-Door bestanden één voor één tot een mappenstructuur te uplaoden met de bureaobladverbinding kunt u de upload pauseren en er later mee verder gaan.
+Zowel up- als downloaden van bestanden met de Desktop connector is sneller voor bestandsoverdracht dan het normale uploadproces, omdat de bestanden via de API worden geïmporteerd zonder dat de overhead van een actieve browser of andere browserbeperkingen nodig is. Voor het overdragen van één bestand wordt het slepen of neerzetten met een browser aanbevolen vanwege het gemak van gebruik, maar voor het overdragen van grote hoeveelheden gegevens tegelijk of voor degenen die tijd willen besparen bij uploads van grote enkele bestanden, is de Desktop Connector de aanbevolen manier voor overdracht.
 
-**Risico fan fouten minimeren**
+### 1.4 **Toegang**
 
-Hoe groter de upload hoe groter de kans dat er een fout voorkomt. Misschien gaat de electricitijd in het gebouw uit, misschien valt uw netwerkskoppeling een seconde uit. Dan zou u de gehele reeks met data opnieuwe moeten uploaden.
+Toegangsbeheer dat op Catenda Hub is geconfigureerd, blijft gehandhaafd. Gebruikers kunnen uploaden naar locaties in de Catenda Documentstructuur waar zij minstens schrijftoegang hebben en kunnen alleen Documenten downloaden waar zij minstens leestoegang toe hebben.
 
 ## 2. **Synchronisatie**
 
-U kunt op regelmatige intervallen plannen wanneer u wenst dat uw bestanden geüpload of gedownlaod worden.
+Bestanden kunnen op regelmatige intervallen up- of worden gedownload.
 
-### 2.1 **Locaal systeem -> Catenda Hub**
+### 2.1 **Lokaal systeem -> Catenda Hub**
 
-De bureaobladverbinding verzekert dat het bestand in uw Catenda Hub prosjekt even recentelijk is als het bestand op uw locale systeem.
+De Desktop Connector kan ervoor zorgen dat bestanden in een Catenda Hub project actueel blijven met de nieuwste opslagstatus van een bestand op het lokale systeem.
 
-### 2.2 **Catenda Hub -> Locaal system**
+### 2.2 **Catenda Hub -> Lokaal systeem**
 
-De bureaobladverbinding verzekert dat het bestand op uw locale systeem even recentelijk is als het bestand in uw Catenda Project.
+De Desktop Connector kan ervoor zorgen dat bestanden op een lokaal systeem actueel blijven met de nieuwste versie van een Document in een Catenda Hub project.
 
-## 3. **Inloggen**
+## 3. **Installatie**
 
-Wanneer u de bureaobladverbinding voor het eerst opent wordt u gevraagd in te loggen. Wanneer u op de inlog knop klikt zal de standaardbrowsser openen met een pagina die vraagt om met uw Catenda Hub account in te loggen.
+Wanneer de Catenda Desktop Connector op Windows is geïnstalleerd, verschijnen de installatiebestanden in de volgende map.
 
-Na het inloggen of als u al ingelogd was wordt u gevraagt om toegang te verlenen tot uw Catenda Account.
+`C:\\Program Files\\Catenda Hub Desktop Connector`
 
-Na op geef toegang geklikt te hebben wordt u gevraagd om de bureaobladverbinding te openen.
+### 3.1 **Verwijderen**
 
-U zal dan terug verwezen worden tot de bureaobladverbinding.
+Ga naar het volgende Windows-menu om de plug-in te verwijderen:
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454481859/8cc3c029ca50e4ef5ea47908d8cc/image.png?expires=1781092800&signature=661a0d48aa3f75378c788b514d22cc8687d1643d8131e2c62c115ea61f886eaf&req=dSQiEs12nIlaUPMW3nq%2Bgaouh7pso833%2FKOcZGxxZq%2BTXE5YX%2FmZAMleeAuW%0A3FcXJmXttegH%2B1FySM8zUCVe7kU%3D%0A)
+`Windows-instellingen -> Apps -> Geïnstalleerde apps`
 
-## 4. **Startpagina**
+Zoek Desktop Connector in de lijst en klik op het actiemenu aan de rechterkant om te verwijderen.
 
-Zodra u de bureaobladverbinding start zal deze er zo uitzien:
+## 4. **Aanmelden**
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454481860/f9ad67b51ff49765c66cd47cdb16/image.png?expires=1781092800&signature=b0afa85bc8bff32e234bdf6692335198e3f2a034f978cabe6498d968a05adfe5&req=dSQiEs12nIlZWfMW3nq%2BgTAZSEDIR84rp8cEDiiidZtDfRbHGI7lCfI4L6x0%0A8ZdeKL8EcZlVt9%2BD9Ue0rZb5wx8%3D%0A)
+Wanneer de Desktop Connector voor het eerst wordt geopend, wordt een aanmeldingsverzoek weergegeven. Klik op de knop Aanmelden om de standaardbrowser op het systeem op de Catenda-aanmeldingspagina te openen. Nadat u bent aangemeld of als u al bent aangemeld, klikt u op Toegang toestaan om toegang te verlenen tot het aangemelde Catenda-account. Nadat u op Toegang toestaan hebt geklikt, vraagt de browser u om de Desktop Connector-toepassing te openen. Door toestemming te geven voor het openen van de toepassing keert u terug naar de Desktop Connector [startpagina](#home-page).
 
-### 4.1 **Maak PC wakker**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/01-sign-in.png)
 
-Maak de PC wakker vanuit slaap modus als een takk gepland is om op die tijd te uitgevoerd te worden.
+## 5. **Startpagina**
 
-### 4.2 **Uitvoeren bij opstart**
+Dit is hoe de Desktop Connector eruit kan zien wanneer deze wordt gestart met een geldige aanmelding:
 
-Om de bureaobladverbinding bij startup te starten, kies deze keuze.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/02-home-page.png)
 
-### 4.3 **Uitloggen**
+### 5.1 **PC uit slaapstand wekken**
 
-Klik op de uitlogknop rechtsonderaan om uit te loggen.
+Zet de PC uit de slaapstand als een taak is ingepland om op dat moment te worden uitgevoerd.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454481855/a75920784b971d8e3baf27258431/image.png?expires=1781092800&signature=6f65eb5b1010b37afe8100b2da9ef77ed394e5ea5608b36048ce31cce65e9f90&req=dSQiEs12nIlaXPMW3nq%2Bgeqz9I5mtUUMAOQDLBPApXb2Bwt7P2PoIhVxqjvb%0AuzLHiE3LwdNTzSGkE2tHw9N6TFU%3D%0A)
+### 5.2 **Uitvoeren bij opstarten**
 
-## 5. **Projectenlijst**
+Als u de desktop connector bij het opstarten wilt uitvoeren, selecteert u deze optie
 
-Hier ziet u een overzicht over uw projecten en het nummer up- en download taken die u voor elk project hebt ingesteld.
+### 5.3 **Afmelden**
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454481858/6276b55358a47d5d2b93e202c7d3/image.png?expires=1781092800&signature=6f1e73cb93e4d99ca8894b758562bcde008c993eb081e0f6ea6e51a501ffbf9f&req=dSQiEs12nIlaUfMW3nq%2BgRWwDZ5n%2Bpb8cqHbM2qyTpm0EdWxZHgr3%2BVp2VJj%0AyuU2%2B3zPxtxeZUkz3CpwU9QCS%2B0%3D%0A)
+Klik op de afmeldingsknop rechtsonder om u af te melden.
 
-### 5.1 **Synchroniseringsknop**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/03-log-out.png)
 
-Als u recentelijk deel van een nieuw project bent geworden kunt u de synchronisatie knop klikken om de nieuwe lijst met project waar u deel van bent aan te vragen.
+## 6. **Projectlijst**
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454481865/14118dbbcd772d0c912040973114/image.png?expires=1781092800&signature=f2c9eb1bf540a83160ed27859f468c7303a9293a7849c27f7bea3f2363be6409&req=dSQiEs12nIlZXPMW3nq%2BgW54atMZAAHlnWolarNNqlA8hZOcZ0%2B%2BJQK3CzyW%0AGLRq9RJGv70J0l%2Bby7LoM07sBfg%3D%0A)
+Er wordt een overzicht weergegeven van de projecten waartoe het account de laatste keer dat de projectlijst werd geladen toegang had. Voor elk project wordt het aantal geconfigureerde up- en downloadtaken weergegeven.
 
-### 5.2 **Naam**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/04-project-list.png)
 
-Klik op de naam van een project om uw huidige up- en download taken te zien of om een nieuwe taak te plannen.
+### 6.1 **Synchronisatieknop**
 
-### 5.3 **Upload taken**
+Als u onlangs bent lid van een project, klikt u op deze synchronisatieknop om de nieuwe lijst met projecten waarvan het aangemelde account lid is, in te laden.
 
-Het aantal upload taken die actief zijn voor dit project.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/05-synchronize-button.png)
 
-### 5.4 **Download taken**
+### 6.2 **Naam**
 
-Het aantal download taken die actief zijn voor dit project.
+Klik op de naam van een project om de huidige up- en downloadtaken te zien of een nieuwe taak in te plannen.
 
-## 6. **Upload taak**
+### 6.3 **Uploadtaken**
 
-Met deze taak kunt u periodisch een upload van uw bestanden van uw systeem tot Catenda Hub plannen.
+Het aantal uploadtaken dat actief is voor dit project
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454481863/b26b3fc70712232848413957cd5e/image.png?expires=1781092800&signature=9a68b9f19b76c4456a0f679f6731dd384f61a65f84d7d60acafe50f04a3f6878&req=dSQiEs12nIlZWvMW3nq%2BgbEU7SvUDrydfz56UjoMd7wyphCRNP6QLpUvbEfc%0AKorKtgo9XKiB%2FshJsXJW5shcKkY%3D%0A)
+### 6.4 **Downloadtaken**
 
-### 6.1 **Titel** - Vereist
+Het aantal downloadtaken dat actief is voor dit project
 
-De upload taak moet minstens een titel hebben om opgeslagen te kunnen worden.
+## 7. **Uploadtaak**
 
-### 6.2 **Planningskalender** - Vereist
+Plan een periodieke upload van bestanden van uw systeem naar Catenda Hub in met deze taak.
 
-De upload taak moet minstens een dag gekozen hebben om opgeslagen te kunnen worden.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/06-upload-task.png)
 
-### 6.3 **Project locatie**
+### 7.1 **Titel - Vereist**
 
-**Server**
+De uploadtaak moet minstens een titel hebben om te worden opgeslagen
 
-Kies de plek op Catenda Hub tot welke u bestanden wilt synchroniseren.
+### 7.2 **Schema kalender - Vereist**
 
-**Local**
+De taak moet minstens één dag geselecteerd hebben om te worden opgeslagen
 
-Kies de plek op uw systeem tot wlke u bestanden wilt synchroniseren.
+### 7.3 **Projectlocatie**
 
-### 6.4 **Onmiddelijk**
+**Server** Klik op bladeren om de bestemming op de Documentenpagina in Catenda Hub te selecteren waar bestanden gesynchroniseerd moeten worden. Klik [hier](#server-location) voor meer informatie over het selecteren van het servermapcpad
 
-Klik op het upload nu vlak om uw taak onmiddelijk te starten.
+**Lokaal** Selecteer de locatie op het lokale systeem van waaruit bestanden gesynchroniseerd moeten worden.
 
-U moet de taak niet per se op te slaan om te beginnen met uploaden.
+### 7.4 **Instant**
 
-Als u de taak opslaat zal deze periodisch uitgevoert worden op het ingestelde tijdstip.
+Taken hoeven niet te worden opgeslagen om het uploadproces te starten. Klik op het vak Nu uploaden om deze taak onmiddellijk te starten. Opgeslagen taken worden periodiek op het geconfigureerde moment uitgevoerd.
 
-## 7. **Download taak**
+## 8. **Downloadtaak**
 
-Met deze taak kunt u periodisch een downlaod van uw bestanden van Catenda Hub tot uw systeem plannen.
+Plan een periodieke download van bestanden van Catenda Hub naar het lokale systeem in.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454481866/7fc66ec8047505f8eab760e8725d/image.png?expires=1781092800&signature=521ac468a8b6ad326280316cc9a8c1493c72aad725765d354c247eaacf144b8e&req=dSQiEs12nIlZX%2FMW3nq%2BgdcsuQuzW6mi3U7Psz%2BOOmXGp1gF%2FHiYkpFzvymR%0AIVFtzRiKcYHp8GInlX0jgAlWZCw%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/07-download-task.png)
 
-### 7.1 **Titel** - Vereist
+### 8.1 **Titel - Vereist**
 
-De upload taak moet minstens een titel hebben om opgeslagen te kunnen worden.
+De uploadtaak moet minstens een titel hebben om te worden opgeslagen
 
-### 7.2 **Planningskalender** - Vereist
+### 8.2 **Schema kalender - Vereist**
 
-De upload taak moet minstens een dag gekozen hebben om opgeslagen te kunnen worden.
+De taak moet minstens één dag geselecteerd hebben om te worden opgeslagen
 
-### 7.3 **Project locatie**
+### 8.3 **Projectlocatie**
 
-**Server**
+**Server** Selecteer de locatie op Catenda Hub van waaruit Documenten moeten worden gedownload. Klik [hier](#server-location) voor meer informatie over het selecteren van het servermapcpad
 
-Kies de plek op Catenda Hub tot welke u bestanden wilt synchroniseren.
+**Lokaal** Selecteer de bestemming op het lokale systeem waar bestanden naar moeten worden gedownload.
 
-**Local**
+### 8.4 **Instant**
 
-Kies de plek op uw systeem tot wlke u bestanden wilt synchroniseren.
+Een taak hoeft niet te worden opgeslagen om te beginnen met downloaden. Klik op het vak Nu downloaden om deze taak onmiddellijk te starten. Sla de taak op om de download periodiek op het geconfigureerde moment uit te voeren. De gedownloade Documenten verschijnen gedecomprimeerd op uw systeem.
 
-### 7.4 **Onmiddelijk**
+### 8.5 Terug knop
 
-Klik op het upload nu vlak om uw taak onmiddelijk te starten.
+Klik op de pijlknop om terug te gaan naar de [startpagina](#home-page)
 
-U moet de taak niet per se op te slaan om te beginnen met uploaden.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
-Als u de taak opslaat zal deze periodisch uitgevoert worden op het ingestelde tijdstip.
+## 9. **Serverlocatie**
 
-De gedownloade documenten zullen op uw system ongezipt opgeslagen worden.
+Klik op bladeren in het projectlocatiegebied van een upload- of downloadtaak om het mapcpad van het Catenda-project te gaan bladeren. Het dialoogvenster Map kiezen wordt geopend. Zodra geopend, begint het alle mapnamen in het project en hun hiërarchie te downloaden. Voor downloadtaken worden ook documentnamen gedownload. Terwijl het downloaden aan de gang is, kan het dialoogvenster er zo uitzien:
 
-### 7.5 **Terugknop**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/09-server-location.png)
 
-Klik op de terug knop om terug naar de [startpagina](#h_4bb6982a58) te gaan.
+Vooral voor downloadtaken kan het enige minuten duren als er veel mappen en Documenten zijn. Zorg ervoor dat er voldoende geheugen op het lokale systeem beschikbaar is voor deze stap.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454481867/4aa0f865f070c640dff5c4d3dba0/image.png?expires=1781092800&signature=0e61221faeaa529785cf6fff4ebe37130942609ea5c83030ba488b662c328bcc&req=dSQiEs12nIlZXvMW3nq%2BgXkKQdoHmM1oZ2r0XSh4l8eeHix4dU%2BK3x8jSzrT%0A1M4NyA%2FaRlxt99%2BL36wn1TzUvc4%3D%0A)
+**Dialooggrootte** Klik op Min of Max rechtsboven om het dialoogvenster Map kiezen te minimaliseren of te maximaliseren.
 
-## 8. **Takenlijst**
+**Mapacties** Nadat de mappen zijn geladen, kan het dialoogvenster er ongeveer zo uitzien:
 
-Hier kunt u uw huidige up- en download taken zien.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/10-server-location.png)
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454481864/a557a19cc1732f77bc12b73da641/image.png?expires=1781092800&signature=ed3761af69b684034753308670d516abc883a7afdb9d8f3e04cec3f1aafae3da&req=dSQiEs12nIlZXfMW3nq%2BgSdkVs%2FJ1Y3KvGrT8mRsuiiVV7%2FDAjoSa0vNfjOe%0AxsxhjkHFI3gg%2BRxXI4OhmmwcRMM%3D%0A)
+Klik op de pijl naast een map om deze uit te vouwen. Documenten zijn alleen beschikbaar in deze weergave voor downloadtaken.
 
-### 8.1 **Naam**
+**Mapselectie** Klik op een map om deze te selecteren. Voor downloadtaken kunnen meerdere mappen worden geselecteerd, terwijl voor uploadtaken slechts één map tegelijk kan worden geselecteerd.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/11-server-location.png)
+
+Nadat een map is geselecteerd, verschijnt deze wit met een vinkje. Alle submappen van de geselecteerde map verschijnen doorgestreept, omdat het alleen mogelijk is mappen op hetzelfde niveau te selecteren. Bovenaan wordt het aantal geselecteerde items weergegeven.
+
+**Downloadtaak** Als er Documenten in de geselecteerde map of bijbehorende submappen aanwezig zijn, worden alle mappen in het pad tussen de geselecteerde map en het document gemaakt. Het Document wordt vervolgens naar die map gedownload. Als een submap geen Documenten bevat, wordt de submap niet gemaakt, ook al kan deze in dit dialoogvenster zijn ingeschakeld. Het is niet mogelijk een submap uit te schakelen om geen deel van een mapstructuur te downloaden. Als u alleen bepaalde mappen wilt downloaden, selecteert u ze afzonderlijk zoals in de afbeelding hieronder:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/12-server-location.png)
+
+Documentselectie Klik op een Document om dit te selecteren
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/13-server-location.png)
+
+Wanneer afzonderlijke Documenten worden geselecteerd, worden de Documenten gedownload als een vlakke lijst rechtstreeks naar het geselecteerde lokale pad, zonder de hiërarchie van de mappen waarin die Documenten zich bevinden.
+
+**Uploadtaak** Documenten worden naar de geselecteerde map geupload. Als de mapnaam overeenkomt, worden Documenten naar submappen van de geselecteerde map geupload.
+
+## 10. **Takenlijst**
+
+Hier kunnen de up- en downloadtaken worden gezien die in deze installatie voor de aangemelde gebruiker zijn geconfigureerd.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/14-task-list.png)
+
+### 10.1 **Naam**
 
 De naam van de taak.
 
-### 8.2 **Taak**
+### 10.2 **Taak**
 
-De geplande tijd dat een taak uitgevoerd zal worden.
+Het geplande moment waarop de taak wordt uitgevoerd.
 
-### 8.3 **Project**
+### 10.3 **Project**
 
-De naam van het project waar deze taak uitgevoerd zal worden.
+De naam van het project waarin deze taak wordt uitgevoerd.
 
-### 8.4 **Status**
+### 10.4 **Status**
 
-De status van deze taak.
+De Status van deze taak.
 
-### 8.5 **Terugknop**
+### 10.5 **Terug knop**
 
-Klik op de terug knop om terug naar de [startpagina](#h_4bb6982a58) te gaan.
+Klik op deze knop om terug te gaan naar de [startpagina](#home-page)
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454481861/7cf2145789bd58d0a4e4d529fe11/image.png?expires=1781092800&signature=f29ab390eec0118854cf19f41376cc49e52d6fbf38b285814eff9dc82c5556ac&req=dSQiEs12nIlZWPMW3nq%2BgW1TVzymK3Zn%2BQJSuBxKEWgr2OXPafU5N2snZMYZ%0AFmWxM%2FOU1V7sCA8yqeek4gcKZLo%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
-## 9. **Log Map**
+## 11. **Logmap**
 
-Deze knop opent de map waar de bureaobladverbinding op uw systeem logs opslaat.
+Met deze knop opent u de maplocatie van de Desktop Connector-logboeken op het lokale systeem. De standaardlocatie van deze logboeken is:
+
+`C:\\Users\\\<Windows account name>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp`

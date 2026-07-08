@@ -1,211 +1,235 @@
-# Revit plugin
+# Catenda Revit-Plugin
 
-> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
-## 1. Erste Schritte
+Das Catenda Revit-Plugin ist ein Plugin, das für Autodesk Revit installiert werden kann. Mit diesem Plugin können Sie an 3D-Ansichtspunkten, Themen und Dokumenten mit anderen Mitgliedern des Bauprojekts zusammenarbeiten
 
-Nachdem Sie das Plugin installiert haben, öffnen Sie ein Revit-Modell und klicken Sie auf die Schaltfläche Catenda Hub in den Add-Ins.
+## 1. **Installation**
 
-Melden Sie sich mit Ihrer E-Mail-Adresse und Ihrem Catenda Hub-Passwort an.
+Wenn das Catenda Revit-Plugin unter Windows installiert ist, werden die Installationsdateien im folgenden Ordner angezeigt.
 
-![login.png](https://catenda-as.intercom-attachments-1.com/i/o/271057372/a5781e85ed63f78ab47da7a1/login.png?expires=1781092800&signature=297f465010efda5dad09950ecaf7f553ce6e5da5e27ca522d452d9d8d0b3892f&req=dicmFsx5noZdFb4V1XW4gf5EiA%2F8YtXOG8Yvdddsx0WvL6DM74M0%2FTFCNlKv%0AKFEvnmK2hUA0TQIjxpqLqmMJ5Q%3D%3D%0A)
+`C:\\ProgramData\\Autodesk\\ApplicationPlugins\\CatendaHub.bundle`
 
-Klicken Sie auf "Zugriff zulassen", um dem Revit-Add-In den Zugriff auf Ihr Catenda Hub-Konto zu erlauben. Daraufhin öffnet sich die Hauptansicht des Catenda Hub-Add-ins.
+### 1.1 **Deinstallation**
 
-![allowAccess.png](https://catenda-as.intercom-attachments-1.com/i/o/271057381/5ae64f89ca371f7ef59c22e1/allowAccess.png?expires=1781092800&signature=0ff7c8ce7485ae1138263fb8b30d477b65173e4e8c8f758734cf7cde9f7fe4c7&req=dicmFsx5noleFb4V1XW4gTeOTqM%2F9aNlKYM7gPNaYUZHxS6%2BFfy2A8fOXh9o%0AysO1wp6YNTHettEe9QjmRrbIEw%3D%3D%0A)
+Um das Plugin zu deinstallieren, gehen Sie zum folgenden Windows-Menü:
 
-Sie können den Zugang zu Ihrem Catenda Hub-Konto jederzeit löschen, indem Sie zu Ihrer [Catenda Applikations](https://bimsync.com/account/apps) Seite gehen und auf "Zugriff widerrufen" neben "Revit Plugin für Catenda Hub" klicken.
+`Windows-Einstellungen -> Apps -> Installierte Apps`
 
-## 2. Aufgaben-Board
+Suchen Sie in der Liste nach Catenda für Autodesk® Revit® und klicken Sie auf der rechten Seite auf das Aktionsmenü, um das Plugin zu deinstallieren.
 
-Auf dieser Seite finden Sie das Hauptmenü für die Navigation in Ihrem Catenda Hub-Projekt, in den Aufgaben-Boards und in den Aufgaben.
+## 2. **Plugin-Fenster öffnen**
 
-### 2.1 Oberfläche
+Nach der Installation finden Sie das Catenda-Bedienfeld auf dem Menüband „Add-Ins". Je nach Menübandeinstellungen kann das Catenda-Bedienfeld ungefähr so aussehen:
 
-![Header.png](https://catenda-as.intercom-attachments-1.com/i/o/271057390/4c89286cb715f52e3d783b6c/Header.png?expires=1781092800&signature=398d9921638cb23a9d50c7799d1535c1416647367ab528baff78db4609a2db32&req=dicmFsx5nohfFb4V1XW4gdJZzGffSByllQENCKlZyob%2BST4NNuZ5cUksJz12%0AkCAA%2F3Kfd2Td0zxjhk75Iy1JGg%3D%3D%0A)
+**Vollständiges Menüband - Standard**
 
-1. Wählen Sie Ihr Catenda Hub-Projekt
-1. Wählen Sie einen Aufgaben-Board in diesem Projekt
-1. Erstellen Sie eine neue Aufgabe in der aktuell ausgewählten Aufgabeleiste
-1. Sortieren der aktuell angezeigten Aufgaben
-1. Öffnen Sie das Catenda Hub Add-In Menü
-1. Suchen und filtern Sie die angezeigten Aufgaben
-1. Die Liste der aktuell gefilterten Aufgaben in der Aufgaben-Datenbank
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/01-opening-the-plugin-window.png)
 
-### 2.2 Auswahl von Projekten und Aufgaben-Boards
+**Bedienfeld-Schaltflächen**
 
-Wenn Sie ein Catenda-Projekt auswählen, wird die Liste der Aufgaben-Boards in diesem Projekt angezeigt, so dass Sie eins auswählen können, um die entsprechenden Aufgaben anzuzeigen. Außerdem werden das Catenda-Projekt und das Aufgaben-Board in Ihrem Revit-Modell gespeichert und automatisch geöffnet, wenn Sie dieses Modell das nächste Mal öffnen.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/02-opening-the-plugin-window.png)
 
-![ProjectInfo.png](https://catenda-as.intercom-attachments-1.com/i/o/271057405/d5c967a0ac3f187ed30e592e/ProjectInfo.png?expires=1781092800&signature=386793ccce6b13fc42734e390919e84f4deae21c7108c6295a15d81514bf3e62&req=dicmFsx5mYFaFb4V1XW4gRm1PmqxAGtl3%2B%2FHwntEbjzXIM38AKKVyKa%2F6w2%2B%0AYYuDnmzT7GAy081dJNb9XwINjA%3D%3D%0A)
+**Bedienfeld-Titel**
 
-### 2.3 Catenda Add-in Menu
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/03-opening-the-plugin-window.png)
 
-![Menu.png](https://catenda-as.intercom-attachments-1.com/i/o/271057418/ee944c802a6309a74f33db9b/Menu.png?expires=1781092800&signature=c89e8311ef022c706f61f0e57803e273c0ac358066e60f8784ba96c7f2a0e9e4&req=dicmFsx5mYBXFb4V1XW4gQzKBuzsr2CyN%2Fnh2PIwIqVLxc0xU6FqznGgZL7M%0AuAbb1OQ1WNOyULgSw5XMNMLTRA%3D%3D%0A)
+**In Registerkarten minimieren**
 
-1. Rufen Sie die Seite "Upload IFC" auf
-1. Öffnen Sie die Seite Einstellungen
-1. Öffnen Sie Ihre Catenda-Kontoseite in Ihrem Standardbrowser
-1. Melden Sie sich von Ihrem Catenda-Konto ab
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/04-opening-the-plugin-window.png)
 
-### 2.4 Aufgaben Auswahl
+### 2.1 **Themen**
 
-In der Aufgabenliste finden Sie alle wichtigen Informationen zu einer Aufgabe:
+Klicken Sie auf "Themen", um das Catenda-Plugin-Fenster auf der Themenseite zu öffnen. Wenn kein Benutzer angemeldet ist, wird stattdessen die Anmeldungsseite angezeigt.
 
-![IssueInformation.png](https://catenda-as.intercom-attachments-1.com/i/o/271057430/b7ff7c9fbe84070886d3a8d1/IssueInformation.png?expires=1781092800&signature=c53aae35527c7007ce3eb50a8a24711f2b691768f50bc8d79fd9ea84574f8d2d&req=dicmFsx5mYJfFb4V1XW4gdR4asNMTREAa9XFso04p8lcYoFr%2FwHL3NLRTInv%0A1jWG0ezJZBCXENEXQ%2BgiIXt12w%3D%3D%0A)
+### 2.2 **IFC hochladen**
 
-1. Der Titel der Aufgabe
-1. Status (Offen, Geschlossen, ...), der Typ (Info, Fehler, ...) und die Bezeichnungen
-1. Das Mitglied, das die Aufgabe/Anfrage anfordert
-1. Das Mitglied, dem die Aufgabe zugewiesen ist
-1. Das Fälligkeitsdatum der Aufgabe
-1. Wann die Aufgabe zuletzt aktualisiert wurde. Sie können den Mauszeiger über das Datum bewegen, um das vollständige Datum und die Uhrzeit der Aktualisierung anzuzeigen.
-1. Die Anzahl der Kommentare in der Aufgabe
-1. Das Bild des ersten Kommentars in der Frage
-1. Die Nummer der Catenda-Aufgabe
+Klicken Sie auf "IFC hochladen", um das Catenda-Plugin-Fenster auf der IFC-Upload-Seite zu öffnen. Wenn kein Benutzer angemeldet ist, wird stattdessen die Anmeldungsseite angezeigt.
 
-Sie können auf eine beliebige Aufgabe klicken, um die Detailseite der Aufgabe aufzurufen.
+### 2.3 **Catenda**
 
-### 2.5 Aufgaben sortieren
+Klicken Sie auf Catenda, um im Standardsystembrowser auf [https://hub.catenda.com/](https://hub.catenda.com/) weitergeleitet zu werden.
 
-Sie können die angezeigten Themen so sortieren, dass die für Sie wichtigsten zuerst angezeigt werden.
+## 3. **Anmelden**
 
-![sort.png](https://catenda-as.intercom-attachments-1.com/i/o/271057451/fb357bec83c8956704deae79/sort.png?expires=1781092800&signature=ea425764742d9930a95300ee8e5f6d0c9e0fa256b003f474914c0741b18fdb50&req=dicmFsx5mYReFb4V1XW4gT%2B13LsRxEUPmlQfZv3sjEb%2BML9mU9vFTnz5kkfm%0A0k9uZ1VT5wjYYYZclHUqfEmqgA%3D%3D%0A)
+So kann das Plugin-Fenster aussehen, wenn es auf der rechten Seite angedockt ist:
 
-1. Bringen Sie die zuletzt erstellte Aufgabe zuerst
-1. Bringen Sie die älteste Aufgabe zuerst
-1. Bringen Sie die zuletzt aktualisierte Aufgabe zuerst. Bei der Aktualisierung einer Ausgabe können alle Eigenschaften, Titel, Kommentare, ... geändert werden.
-1. Bringen Sie die am wenigsten aktualisierte Aufgabe zuerst
-1. Bringen Sie das jüngste Fälligkeitsdatum zuerst
-1. Bringen Sie das älteste Fälligkeitsdatum zuerst
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/05-signing-in.png)
 
-### 2.6 Aufgaben filtern
+Melden Sie sich mit Ihrer Catenda-E-Mail-Adresse und Ihrem Passwort an.
 
-Mit der Filterleiste können Sie jede Art von Filter kombinieren, um nur die wichtigsten Aufgaben anzuzeigen.
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-703202eeb52b.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-3e163e70c122.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-3b6b4eaa010e.png" width="180"/>
 
-Die aktuellen Filter werden als kleine Chips in der Filterleiste angezeigt. Hier werden nur Aufgaben mit dem Status "Offen/Open" angezeigt. Klicken Sie in die Filterleiste, um alle verfügbaren Filter anzuzeigen (1).
+Wenn Sie MFA für Ihr Konto aktiviert haben, werden Sie aufgefordert, Ihren MFA-Code einzugeben. Klicken Sie [hier](https://support.catenda.com/en/articles/7891486-sign-in-page), um mehr über die Anmeldungsseite zu erfahren.
 
-![AvailableFilters.png](https://catenda-as.intercom-attachments-1.com/i/o/271057465/dca0f372d3079b533e97f07d/AvailableFilters.png?expires=1781092800&signature=2937dd748d88ea532d09f3f9e426c1b9008821cfec83580ec2370d8002f81d94&req=dicmFsx5mYdaFb4V1XW4geFY5BRsvWPSg9usF7qX6fIC4uXR7L%2FUG6sF4YSg%0AyTcPCOqtOOdaLMiNz50OKuZ4nw%3D%3D%0A)
+Klicken Sie auf "Zugriff zulassen", um dem Revit-Plugin für Bimsync Arena den Zugriff auf Ihr Catenda Hub-Konto zu gestatten.
 
-Auf der linken Seite (2) steht der Name des Filters. Jeder Filter gehört zu einem Typ, der auf der rechten Seite (3) angezeigt wird.
+### 3.1 **Zugriff widerrufen**
 
-Folgende Filtertypen sind verfügbar:
+Der Zugriff auf Ihr Catenda Hub-Konto kann jederzeit widerrufen werden, indem Sie zu Ihrer Catenda Hub-[Anwendungsseite](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a) gehen und neben "Revit-Plugin für Bimsync Arena" auf "Zugriff widerrufen" klicken.
 
-- Angefordert von: Alle Aufgaben abrufen, die von einem bestimmten Benutzer angefordert wurden
-- Zugewiesen an: Ermittelt alle Aufgaben, die einem bestimmten Benutzer zugewiesen wurden
-- Fälligkeitsdatum: Ermittelt alle überfälligen Aufgaben oder Aufgaben, die in weniger als einem Monat, zwei Wochen, einer Woche oder einem Tag fällig sind
-- Status: Ermittelt alle Aufgaben mit einem bestimmten Status (Offen, Geschlossen, ...)
-- Typ: Ermittelt alle Aufgaben mit einem bestimmten Typ (Fehler, Warnung, Info, ...)
-- Bezeichnung: Ermittelt alle Aufgaben mit einem bestimmten Label
-- Meine Aufgaben: Ermittelt alle von Ihnen selbst zugewiesenen oder angeforderten Aufgaben
+## 4. **Themenliste**
 
-Sie können nach diesen Filtern suchen, indem Sie Text in die Filterleiste eingeben (1). Sie können damit auch einen Textfilter erstellen, um nach einem bestimmten Text im Titel oder in der Beschreibung der Aufgabe zu suchen (2).
+Nach der Anmeldung wird die Hauptansicht des Catenda Hub-Plugins geöffnet. Auf dieser Seite finden Sie das Hauptmenü zur Navigation in Ihrem Catenda Hub-Projekt, den Themenbrettern und den Themen.
 
-![TextFilter.png](https://catenda-as.intercom-attachments-1.com/i/o/271057480/2be177ecffac2997cc141fdc/TextFilter.png?expires=1781092800&signature=2386db399784ae98ddb528d6cd0deaa45a2398b14e54910c611fb93379e55396&req=dicmFsx5mYlfFb4V1XW4gSM6SuMG1ZK5apozzDNWfyuC3uP1OUqEeVPZ69RH%0AGj5bgz6enFyjJ7wxdITVLa0wMg%3D%3D%0A)
+### 4.1 **Schnittstelle**
 
-## 3. Aufgaben Details
+![Header.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/06-interface.png)
 
-In dieser Ansicht können Sie eine bestimmte Aufgabe überprüfen und bearbeiten.
+1. Wählen Sie Ihr Catenda Hub-Projekt aus
+2. Wählen Sie ein Themenbrett in diesem Projekt aus
+3. Erstellen Sie ein neues Thema in dem aktuell ausgewählten Themenbrett
+4. Sortieren Sie die aktuell angezeigten Themen
+5. Öffnen Sie das Catenda Hub-Add-In-Menü
+6. Suchen und filtern Sie die angezeigten Themen
+7. Die Liste der aktuell gefilterten Themen im Themenbrett
 
-### 3.1 Oberfläche
+### 4.2 **Projekt- und Themenbrettauswahl**
 
-![IssueDetailView.png](https://catenda-as.intercom-attachments-1.com/i/o/271057491/79afbc3ef7ce0c15873df501/IssueDetailView.png?expires=1781092800&signature=f2e7442fee9ae413f8eb95409559531f1aaca167f4eabb699a9e9d56246fff4b&req=dicmFsx5mYheFb4V1XW4gSFXI3%2BvDPw6wgPRIZvJKvxvthS00%2FyXss67f8M9%0ARYrGyKVnqF6eLS9gS7AXZUqrfg%3D%3D%0A)
+Wenn Sie ein Catenda Hub-Projekt auswählen, wird die Liste der Themenbretter in diesem Projekt angezeigt, sodass Sie eines auswählen können, um die entsprechenden Themen anzuzeigen. Außerdem werden das Catenda Hub-Projekt und das Themenbrett in Ihrem Revit-Modell gespeichert und beim nächsten Öffnen dieses Modells automatisch geöffnet.
 
-1. Zurück zur Aufgabenliste
-1. Aktualisieren Sie den Inhalt dieser Aufgabe
-1. Zwischen Aufgaben navigieren
-1. Den Aufgabenstatus festlegen (Offen, Geschlossen, ...)
-1. Legen Sie den Aufgabentyp fest (Fehler, Warnung, Info, ...)
-1. Festlegen des Fälligkeitsdatums der Aufgabe
-1. Legen Sie das Mitglied fest, das dieser Aufgabe zugewiesen ist. Sie können eine Aufgabe einem einzelnen Benutzer oder einem Team zuweisen.
-1. Stellen Sie das Mitglied ein, das dieses Problem anfordert. Sie können einen einzelnen Benutzer oder ein Team festlegen.
-1. Die Beschriftung der Aufgabe bearbeiten
-1. Die Liste der Kommentare in der Aufgabe
+![ProjectInfo.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/07-project-and-topic-board-selection.png)
 
-### 3.2 Aufgaben Einstellungen
+### 4.3 **Aktionen**
 
-Sie können jede Eigenschaft der Ausgabe bearbeiten: Status, Typ, Zuweiser, Antragsteller, Fälligkeitsdatum, Etiketten. In jedem Menü wird eine Liste der verfügbaren Eigenschaften angezeigt. Sie können jedoch nicht direkt im Plugin einen neuen Status, Typ oder eine neue Beschriftung erstellen. Dazu müssen Sie die Webschnittstelle von Catenda Hub verwenden.
+Die Plugin-Aktionen befinden sich in der oberen rechten Ecke:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/08-actions.png)
+
+Klicken Sie [hier](https://support.catenda.com/en/articles/13168755-actions-in-the-catenda-revit-plugin), um mehr über die verschiedenen Aktionen im Catenda Revit-Plugin zu erfahren.
+
+### 4.4 **Themenauswahl**
+
+In der Themenliste finden Sie alle wichtigsten Informationen zu einem Thema:
+
+![IssueInformation.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/09-topic-selection.png)
+
+1. Der Titel des Themas
+2. Sein Status (Offen, Geschlossen, …), sein Typ (Info, Fehler, …) und seine Etiketten
+3. Das Mitglied, das das Thema anfordert
+4. Das Mitglied, dem das Thema zugewiesen ist
+5. Das Fälligkeitsdatum des Themas
+6. Wann das Thema zuletzt aktualisiert wurde. Sie können den Mauszeiger über das Datum halten, um das vollständige Datum und die Uhrzeit der Aktualisierung anzuzeigen.
+7. Die Anzahl der Kommentare im Thema
+8. Das Bild des ersten Kommentars im Thema
+9. Catenda Hub-Themennummer
+
+Sie können auf ein beliebiges Thema klicken, um zur [Themendetailseite](#topic-details) zu gehen.
+
+### 4.5 **Themen sortieren**
+
+Sie können die angezeigten Themen sortieren, um die für Sie relevantesten zuerst anzuzeigen.
+
+![sort.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/10-sort-topics.png)
+
+1. Zeigen Sie das zuletzt erstellte Thema zuerst an
+2. Zeigen Sie das älteste Thema zuerst an
+3. Zeigen Sie das zuletzt aktualisierte Thema zuerst an. Das Aktualisieren eines Themas kann Änderungen an beliebigen Eigenschaften, Titel, Kommentaren usw. beinhalten.
+4. Zeigen Sie das am wenigsten aktualisierte Thema zuerst an
+5. Zeigen Sie das nächste Fälligkeitsdatum zuerst an
+6. Zeigen Sie das älteste Fälligkeitsdatum zuerst an
+
+### 4.6 **Themen filtern**
+
+Mithilfe der Filterleiste können Sie verschiedene Filtertypen kombinieren, um nur die relevantesten Themen anzuzeigen.
+
+Aktuelle Filter werden als kleine Chips in der Filterleiste angezeigt. Hier werden nur Themen mit dem Status "Offen" angezeigt. Klicken Sie in die Filterleiste, um alle verfügbaren Filter anzuzeigen (1).
+
+![AvailableFilters.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/11-filter-topics.png)
+
+Links (2) befindet sich der Name des Filters, und jeder Filter gehört zu einem auf der rechten Seite (3) angezeigten Typ.
+
+Verfügbare Filtertypen sind:
+
+- Angefordert von: Rufen Sie alle Themen ab, die von einem bestimmten Benutzer angefordert wurden
+- Zugewiesen: Rufen Sie alle Themen ab, die einem bestimmten Benutzer zugewiesen sind
+- Fälligkeitsdatum: Rufen Sie alle überfälligen Themen oder Themen ab, die in weniger als einem Monat, zwei Wochen, einer Woche oder einem Tag fällig sind
+- Status: Rufen Sie alle Themen mit einem bestimmten Status ab (Offen, Geschlossen, …)
+- Typ: Rufen Sie alle Themen eines bestimmten Typs ab (Fehler, Warnung, Info, …)
+- Etikett: Rufen Sie alle Themen mit einem bestimmten Etikett ab
+- Meine Themen: Rufen Sie alle Themen ab, die Ihnen zugewiesen oder von Ihnen angefordert wurden
+
+Sie können diese Filter durchsuchen, indem Sie Text in die Filterleiste (1) eingeben. Sie können dies auch verwenden, um einen Textfilter zu erstellen und nach einem bestimmten Text im Thementitel oder in der Beschreibung (2) zu suchen.
+
+![TextFilter.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/12-filter-topics.png)
+
+## 5. **Themendetails**
+
+In dieser Ansicht können Sie ein bestimmtes Thema überprüfen und bearbeiten.
+
+### 5.1 **Schnittstelle**
+
+![IssueDetailView.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/13-interface.png)
+
+1. Gehen Sie zurück zur [Themenliste](#topic-list)
+2. Aktualisieren Sie den Inhalt dieses Themas
+3. Navigieren Sie zwischen Themen
+4. Legen Sie den Themenstatus fest (Offen, Geschlossen, …)
+5. Legen Sie den Thementyp fest (Fehler, Warnung, Info, …)
+6. Legen Sie das Fälligkeitsdatum des Themas fest
+7. Legen Sie das Mitglied fest, dem das Thema zugewiesen ist. Sie können ein Thema einem einzelnen Benutzer oder einem Team zuweisen.
+8. Legen Sie das Mitglied fest, das dieses Thema anfordert. Sie können einen einzelnen Benutzer oder ein Team festlegen.
+9. Bearbeiten Sie die Themenetiketten
+10. Die Liste der Kommentare im Thema
+
+### 5.2 **Themeneigenschaften**
+
+Sie können jede Eigenschaft des Themas bearbeiten: Status, Typ, Bevollmächtigter, Anfragender, Fälligkeitsdatum, Etiketten. Jedes Menü zeigt eine Liste der verfügbaren Eigenschaften an. Sie können jedoch keinen neuen Status, Typ oder Etikett direkt im Plugin erstellen, sondern müssen dazu die Weboberfläche von Catenda Hub verwenden.
 
 Sie können auf den Titel klicken, um ihn zu bearbeiten:
 
-![editTitle.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057512/21c141c1541f63690631da29/editTitle.gif?expires=1781092800&signature=965177505386e37ead1d52eb4368e03042120dea9818ea66f34d242f34fb52b0&req=dicmFsx5mIBdFb4V1XW4gdsm2hWG%2Fwl8kOb0IoyGp7Lb6FQpthhfDM1DAgUe%0AjAGScMF0eOrJHXq6o1FQ5EVqkA%3D%3D%0A)
+![editTitle.gif](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/14-topic-properties.gif)
 
 Sie können auf das Stiftsymbol klicken, um die Beschreibung zu bearbeiten:
 
-![editDescription.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057517/2d1ce4d4cc037867ee4e35ab/editDescription.gif?expires=1781092800&signature=c2e7caac9ab7a00a5eca6bdccab082fe55212ccc8beb3a8e5177f44b9c234ad3&req=dicmFsx5mIBYFb4V1XW4gXDKqbWOBWJPzIRVhgUj0dBio0IRqutKKGgQ5ejS%0AwYIIKG%2BGXDiwPAXjvA81kttWYA%3D%3D%0A)
+![editDescription.gif](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/15-topic-properties.gif)
 
-Sie können auch Text in die Beschriftungsleiste eingeben, um die Liste der Filter einzuschränken:
+Sie können auch Text in die Etikettleiste eingeben, um die Liste der Filter einzugrenzen:
 
-![editLabels.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057525/66fb261901258f426d78ed07/editLabels.gif?expires=1781092800&signature=ece9633dc25d334ac0861298acf82cfa9f639d524271e942f7905ceec3da5655&req=dicmFsx5mINaFb4V1XW4ga5g5rPdNhQoS6XvU%2BWN1wgNas4OMzwmmPHNXaA4%0A3vf35gsrXfVMDKaYVqGZAAbLyQ%3D%3D%0A)
+![editLabels.gif](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/16-topic-properties.gif)
 
-### 3.3 Kommentare
+### 5.3 **Kommentare**
 
-Alle Kommentare werden unterhalb der Aufgabe angezeigt. Ein Kommentar kann Text, ein Bild, einen Schnappschuss aus Ihrer aktuellen Revit-Ansicht oder einen Standpunkt enthalten.
+Alle Kommentare werden unter dem Thema angezeigt. Ein Kommentar kann Text, ein Bild, einen Schnappschuss aus Ihrer aktuellen Revit-Ansicht oder einen Ansichtspunkt enthalten.
 
-![CommentDetail.png](https://catenda-as.intercom-attachments-1.com/i/o/271057536/9325f079fe14f96f00705e9e/CommentDetail.png?expires=1781092800&signature=91dde4304c6e0dc4fd2bf414887c20572e4d8ffddcb763ed7926075ae08bf3be&req=dicmFsx5mIJZFb4V1XW4ga6SjKf%2B620sxyBzLTXhvue9HFKqijUsKUkCKBYN%0ADy46gCv5S8At3KCqm%2FmXUbS3ug%3D%3D%0A)
+![CommentDetail.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/17-comments.png)
 
 1. Der Autor des Kommentars
-1. Wann der Kommentar erstellt wurde. Sie können den Mauszeiger über das Datum bewegen, um das vollständige Datum und die Uhrzeit der Aktualisierung anzuzeigen.
-1. Die Zoom-Schaltfläche
-1. Das mit dem Kommentar verbundene Bild
-1. Der Text des Kommentars
+2. Wann der Kommentar erstellt wurde. Sie können den Mauszeiger über das Datum halten, um das vollständige Datum und die Uhrzeit der Aktualisierung anzuzeigen.
+3. Die [Zoom-Schaltfläche](#zoom) (siehe Kapitel unten)
+4. Das dem Kommentar zugeordnete Bild
+5. Der Text des Kommentars
 
-### 3.4 Zoom
+### 5.4 **Zoom**
 
-Wenn der Kommentar einen Blickpunkt enthält, können Sie zu diesem Blickpunkt zoomen. Wenn Sie hineinzoomen, wird eine neue 3D-Ansicht in Ihrem Revit-Modell erstellt, die auf denselben Blickpunkt ausgerichtet ist.
+Wenn der Kommentar einen Ansichtspunkt enthält, können Sie zu diesem Ansichtspunkt zoomen. Durch Zoomen wird eine neue 3D-Ansicht in Ihrem Revit-Modell erstellt, die auf denselben Ansichtspunkt ausgerichtet ist.
 
-![zoom.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057548/9d9fe9919df91218a67da3c0/zoom.gif?expires=1781092800&signature=5463c5f22fbaf2672307d762ec830b32e5cee1863221ba22cf90f86d66681896&req=dicmFsx5mIVXFb4V1XW4gaqoxrS2VdKTOwPK4luQw0J1Fl%2BV6KX18FrZrbH1%0AEjbssd%2Buq4zSkffXF7ShOJsr1Q%3D%3D%0A)
+![zoom.gif](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/18-zoom.gif)
 
-Damit der Standpunkt relevant ist, müssen Sie dasselbe Modell geöffnet haben wie das, in dem der Kommentar erstellt wurde. Das Plugin geht davon aus, dass beim Exportieren des Modells nach IFC gemeinsame Koordinaten verwendet wurden.
+Damit der Ansichtspunkt relevant ist, müssen Sie dasselbe Modell geöffnet haben wie das Modell, in dem der Kommentar erstellt wurde. Das Plugin setzt voraus, dass gemeinsame Koordinaten beim Exportieren des Modells in IFC verwendet wurden.
 
-Wenn der Aussichtspunkt aus einer perspektivischen Ansicht erstellt wurde, wird der Projektionsmodus der neuen 3D-Ansicht auf "Perspektive" eingestellt. Andernfalls ist der Projektionsmodus "Orthografisch".
+Wenn der Ansichtspunkt aus einer Perspektivansicht erstellt wurde, wird für die neue 3D-Ansicht der Projektionsmodus auf "Perspektive" eingestellt. Andernfalls wird der Projektionsmodus auf "Orthografisch" eingestellt.
 
-Das Add-In erstellt nur eine perspektivische Ansicht und eine orthografische Ansicht. Nachdem es diese beiden Ansichten erstellt hat, werden sie für jede weitere Verwendung der Zoomfunktion wiederverwendet. Sie können dies im Einstellungsmenü ändern. Über das Einstellungsmenü können Sie auch den Namen dieser Ansichten ändern.
+Das Add-In erstellt nur eine Perspektivansicht und eine orthografische Ansicht. Danach werden diese für jede nachfolgende Verwendung der Zoomfunktion wiederverwendet. Sie können dies im Einstellungsmenü ändern. Sie können das Einstellungsmenü auch verwenden, um den Namen dieser Ansicht zu ändern.
 
-### 3.5 Markierte Elemente
+### 5.5 **Verwandte Elemente**
 
-Wenn das Thema verwandte Elemente enthält, wählt das Add-In diese in Revit aus, wenn Sie auf einen Standpunkt zoomen.
+Wenn das Thema verwandte Elemente enthält, wählt das Add-In diese in Revit aus, wenn Sie zu einem Ansichtspunkt zoomen.
 
-![relatedElements.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057554/6bd0da3738f53dabb2d7d8a1/relatedElements.gif?expires=1781092800&signature=fdb950a485e5b5382eccc17168479a59b0a84a1cf1dbd584fd2c7c2645087e11&req=dicmFsx5mIRbFb4V1XW4gVuI28nvUFVKaeEDIAWirSctywr3R%2BPdf00tJdh%2F%0A4bCEn51Ofi2XTF0eB0z8gwdCng%3D%3D%0A)
+![relatedElements.gif](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/19-related-elements.gif)
 
-Damit diese Funktion funktioniert, muss Ihr Revit-Modell mit der Option "IFC-GUID nach dem Export in einem Elementparameter speichern" in IFC exportiert worden sein. Dadurch wird der Parameter IFCGuid zu jedem Objekt hinzugefügt, so dass das Plugin die zugehörigen Elemente auswählen kann.
+Damit diese Funktion funktioniert, muss Ihr Revit-Modell mit der Option "IFC-GUID nach dem Export in einem Elementparameter speichern" in IFC exportiert worden sein. Dadurch wird der IFCGuid-Parameter zu jedem Objekt hinzugefügt, sodass das Plugin die verwandten Elemente auswählen kann.
 
-### 3.6 Kommentar hinzufügen
+### 5.6 **Kommentar hinzufügen**
 
-Sie können Kommentare zu einer Aufgabe hinzufügen, indem Sie in das Textfeld schreiben und auf "Senden" klicken.
+Sie können einem Thema Kommentare hinzufügen, indem Sie in das Textfeld schreiben und auf "Absenden" klicken.
 
-Sie können auch ein Bild von Ihrem Computer hinzufügen, indem Sie auf die Schaltfläche "Plus" klicken. Sie können dieses Bild mit Anmerkungen versehen, indem Sie auf das Vorschaubild klicken, nachdem Sie es ausgewählt haben.
+Sie können auch ein Bild von Ihrem Computer hinzufügen, indem Sie auf die Schaltfläche "Plus" klicken. Sie können dieses Bild mit Anmerkungen versehen, indem Sie nach der Auswahl auf das Vorschaubild klicken.
 
-![createComment.gif](https://catenda-as.intercom-attachments-1.com/i/o/271057571/f8f1dc5e036c662975947091/createComment.gif?expires=1781092800&signature=68bce4ffbe99bef48e57e2f1fd1b9bf9bde107721eb4a337726692cec11c8bdb&req=dicmFsx5mIZeFb4V1XW4gZKf2ehIb4n%2FwGDxr6nuV%2F6fsbU1Y1R3tv6shUx9%0ATTe5DUj7214%2BrSRyVUcIT6Wz1w%3D%3D%0A)
+![createComment.gif](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/20-add-comment.gif)
 
-### 3.7 3D Schnappschuss hinzufügen
+### 5.7 **3D-Schnappschuss hinzufügen**
 
-Sie können auch Ihre aktuelle Revit-Ansicht als Blickpunkt und einen Schnappschuss an Ihren Kommentar anhängen. Wie bei jedem Bild können Sie den Snapshot mit Anmerkungen versehen, indem Sie auf das Vorschaubild klicken.
+Sie können auch Ihre aktuelle Revit-Ansicht als Ansichtspunkt und einen an Ihren Kommentar angehängten Schnappschuss hinzufügen. Wie bei jedem Bild können Sie den Schnappschuss mit Anmerkungen versehen, indem Sie auf das Vorschaubild klicken.
 
-Wenn der Parameter IFCGUID vorhanden ist, werden ausgewählte Elemente in Revit als verwandte Elemente zu Ihrer Ausgabe hinzugefügt.
-
-## 4. Hochladen auf Catenda Hub
-
-Sie können Ihr aktuelles Revit-Modell direkt als IFC-Datei zu Catenda Hub hochladen.
-
-Nachdem Sie die Upload-Seite geöffnet haben:
-
-1. Wählen Sie das Catenda-Modell aus, für das Sie eine neue Revision erstellen möchten.
-1. Geben Sie einen Kommentar für den Upload ein.
-1. Wählen Sie eine IFC-Konfiguration. Eine neue Konfiguration kann über das IFC-Exportmenü in Revit erstellt werden. Sie können auch die \<Catenda Hub-Einrichtung> (so hieß Catenda Hub früher) für eine einfach zu verwendende Konfiguration wählen, die sich gut für Catenda Hub eignet.
-1. Klicken Sie auf Hochladen
-
-![Upload.png](https://catenda-as.intercom-attachments-1.com/i/o/271057594/f30c8ec7bd7dcee7981335be/Upload.png?expires=1781092800&signature=cc88c8d4ad9c2be9021a1874c63e5a851dcac6e8f5e83b1cf056336ee91e85b8&req=dicmFsx5mIhbFb4V1XW4gUMolMmmCG3Scopf5A65ZAuQiZFH%2BYsrZM3v6lXg%0AjOA4DEd6Zl00piOpAaFnWJec7Q%3D%3D%0A)
-
-```
-selectedConfig.Name = "<Catenda Hub Setup>"; selectedConfig.IFCVersion = IFCVersion.IFC2x3CV2; selectedConfig.SpaceBoundaries = 1; selectedConfig.ActivePhaseId = ElementId.InvalidElementId; selectedConfig.ExportBaseQuantities = true; selectedConfig.SplitWallsAndColumns = false; selectedConfig.VisibleElementsOfCurrentView = false; selectedConfig.Use2DRoomBoundaryForVolume = false; selectedConfig.UseFamilyAndTypeNameForReference = true; selectedConfig.ExportInternalRevitPropertySets = true; selectedConfig.ExportIFCCommonPropertySets = true; selectedConfig.Export2DElements = false; selectedConfig.ExportPartsAsBuildingElements = true; selectedConfig.ExportBoundingBox = false; selectedConfig.ExportSolidModelRep = false; selectedConfig.ExportSchedulesAsPsets = false; selectedConfig.ExportUserDefinedPsets = false; selectedConfig.ExportUserDefinedPsetsFileName = ""; selectedConfig.ExportLinkedFiles = false; selectedConfig.IncludeSiteElevation = true; selectedConfig.UseActiveViewGeometry = false; selectedConfig.ExportSpecificSchedules = false; selectedConfig.TessellationLevelOfDetail = 0; selectedConfig.StoreIFCGUID = true; selectedConfig.ExportRoomsInView = true;
-```
-
-## 5. Einstellungen
-
-Auf der Einstellungsseite können Sie festlegen, wie das Plugin die 3D-Ansicht erstellt, wenn Sie die [Zoom Funktion](#h_36392f671a) verwenden.
-
-![settings.png](https://catenda-as.intercom-attachments-1.com/i/o/271057604/1cee82a8f305a0d35f7f853d/settings.png?expires=1781092800&signature=432f109f76327ae1de8e61c9d5b0120651d34c03d57417b0179c4d531aef90b9&req=dicmFsx5m4FbFb4V1XW4gcRriCynrvHqrP%2FRjaaOXokDYU3Acq2y94SVQoch%0AlhokgwuEAuLBoS4fbslafxBxaA%3D%3D%0A)
-
-1. Die 3D-Ansicht orthografisch halten. Diese Option erzwingt, dass die Revit 3D-Ansicht orthografisch ist, auch wenn der entsprechende Blickpunkt mit einer perspektivischen Ansicht erstellt wurde.
-1. Für jede Aufgabe eine neue Ansicht erstellen. Anstatt jedes Mal, wenn Sie die Zoomfunktion verwenden, dieselbe 3D-Ansicht wiederzuverwenden, wird mit dieser Option jedes Mal, wenn Sie die Zoomfunktion verwenden, eine neue 3D-Ansicht für jede Aufgabe erstellt.
-1. 3D-Ansicht Namenszusatz. Dieser Text wird dem Namen der 3D-Ansicht hinzugefügt, die bei Verwendung der Zoomfunktion erstellt wird.
+Wenn der IFCGUID-Parameter vorhanden ist, werden die in Revit ausgewählten Elemente als verwandte Elemente zu Ihrem Thema hinzugefügt.

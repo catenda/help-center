@@ -1,195 +1,227 @@
 # Connecteur de bureau Catenda
 
-> **Note:** Le fichier d'installation de cette application se trouve [ici](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
+> **Remarque :** Le fichier d'installation de cette application se trouve [ici](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
 
-Avec le connecteur de bureau Catenda, vous pouvez planifier les mises à jour et les téléchargements des dernières versions des documents.
+Avec le connecteur de bureau Catenda, vous pouvez planifier les téléchargements et les envois des dernières versions de Documents.
 
-Cet article contient des informations sur les points suivants
+## 1. **Envois/téléchargements instantanés**
 
-## 1. Téléchargement instantané
+### 1.1 **Envoi**
 
-Le Desktop Connector vous permet de télécharger des fichiers de votre système local vers un dossier spécifié sur Catenda Hub. Vous pouvez également sélectionner un certain nombre de dossiers sur Catenda Hub pour les télécharger vers un emplacement sur votre machine locale.
+Sélectionnez un dossier sur un système local pour envoyer tout le contenu du dossier, y compris les fichiers dans les sous-dossiers du dossier sélectionné, avec le connecteur de bureau vers un dossier spécifié sur Catenda Hub.
 
-### 1.1 Vitesse de téléchargement
+**Envois réussis** Si vous faites glisser-déposer plusieurs fichiers ou utilisez la fonction d'envoi ZIP sur Catenda Hub, vous envoyez un grand ensemble de données. Plus l'envoi est volumineux, plus vous devez attendre avant de pouvoir soumettre vos fichiers dans la structure de Documents de Catenda Hub.
 
-Le téléchargement de fichiers avec le connecteur Desktop est plus rapide que le processus de téléchargement normal car les fichiers sont importés via l'API et non via le navigateur.
+**Un fichier à la fois** En envoyant des fichiers à partir d'une structure de dossiers un fichier à la fois, le connecteur de bureau vous permet de suspendre l'envoi et de le continuer ultérieurement.
 
-C'est donc le meilleur moyen de télécharger vos fichiers si vous devez télécharger une grande quantité de données en une seule fois.
+**Réduire le risque d'échecs d'envoi** Plus l'envoi est volumineux, plus le risque d'échec est élevé. Peut-être que votre alimentation s'arrête, peut-être que votre connexion Internet s'interrompt une fraction de seconde. Vous devriez alors recommencer l'envoi à zéro.
 
-### 1.2 Chargements réussis
+### 1.2 **Téléchargement**
 
-Si vous glissez-déposez plusieurs fichiers ou utilisez la fonction de téléchargement zip sur Catenda Hub, vous téléchargez un grand ensemble de données.
+Sélectionnez un ou plusieurs Documents individuels ou sélectionnez un dossier sur Catenda Hub pour télécharger la sélection, y compris les Documents dans les sous-dossiers des dossiers sélectionnés vers un emplacement sur votre machine locale.
 
-Plus le téléchargement est important, plus vous devrez attendre avant de pouvoir soumettre vos fichiers dans la structure documentaire de Catenda Hub.
+### 1.3 **Vitesse de transfert**
 
-**Un fichier à la fois**
+L'envoi et le téléchargement de fichiers avec le connecteur de bureau est plus rapide au transfert de fichiers que le processus d'envoi régulier, car les fichiers sont importés via l'API sans nécessiter la surcharge d'exécution d'un navigateur ou d'autres limitations du navigateur. Pour transférer un seul fichier, le glisser-déposer avec un navigateur est recommandé en raison de sa facilité d'utilisation, mais pour transférer de grandes quantités de données d'un seul coup ou pour ceux qui souhaitent économiser du temps lors des envois de fichiers volumineux, le connecteur de bureau est le moyen recommandé de transférer.
 
-En téléchargeant les fichiers d'une structure de dossiers un fichier à la fois, le Desktop Connector vous permet d'interrompre le téléchargement et de le reprendre plus tard.
+### 1.4 **Accès**
 
-**Réduire le risque d'échec du téléchargement**
+Le contrôle d'accès configuré sur Catenda Hub est maintenu. Les utilisateurs peuvent envoyer vers des emplacements dans la structure de Documents de Catenda où ils disposent d'au moins l'accès en écriture et ne peuvent télécharger que les Documents auxquels ils ont au moins l'accès en lecture.
 
-Plus le téléchargement est volumineux, plus le risque d'échec est élevé. Il peut s'agir d'une panne d'électricité ou d'une interruption de la connexion internet pendant une fraction de seconde. Vous devrez alors recommencer le téléchargement.
+## 2. **Synchronisation**
 
-## 2. Synchronisation
+Les fichiers peuvent être planifiés pour être envoyés ou téléchargés à intervalles réguliers.
 
-Vous pouvez programmer l'envoi ou le téléchargement de vos fichiers à intervalles réguliers.
+### 2.1 **Système local -> Catenda Hub**
 
-### 2.1 Système local -> Catenda Hub
+Le connecteur de bureau peut s'assurer que les fichiers d'un projet Catenda Hub restent à jour avec l'état d'enregistrement le plus récent d'un fichier sur le système local.
 
-Le connecteur de bureau s'assurera que les fichiers de votre système local sont à jour avec votre projet Catenda Hub.
+### 2.2 **Catenda Hub -> Système local**
 
-### 2.2 Catenda Hub -> Système local
+Le connecteur de bureau peut s'assurer que les fichiers sur un système local restent à jour avec la dernière révision d'un Document dans un projet Catenda Hub.
 
-Le connecteur peut également fonctionner dans l'autre sens en s'assurant que vous avez toujours la dernière version de vos documents Catenda Hub sur votre système local.
+## 3. **Installation**
 
-## 3. S'identifier
+Quand le connecteur de bureau Catenda est installé sur Windows, ses fichiers d'installation apparaîtront dans le dossier suivant.
 
-Lorsque vous ouvrez le connecteur Desktop pour la première fois, il vous sera demandé de vous connecter.
+`C:\\Program Files\\Catenda Hub Desktop Connector`
 
-Si vous cliquez sur le bouton de connexion, votre navigateur par défaut s'ouvrira sur une page vous demandant de vous connecter à votre compte Catenda Hub.
+### 3.1 **Désinstallation**
 
-Après vous être connecté ou si vous l'étiez déjà, il vous sera demandé d'autoriser l'accès à votre compte Catenda.
+Pour désinstaller le plug-in, allez au menu Windows suivant :
 
-Après avoir cliqué sur "autoriser l'accès", il vous sera demandé d'ouvrir l'application "desktop connector".
+`Paramètres Windows -> Applications -> Applications installées`
 
-Vous serez alors redirigé vers la [page d'accueil de](#h_097078145d) Desktop Connector.
+Trouvez le connecteur de bureau dans la liste et cliquez sur le menu d'action sur le côté droit pour désinstaller.
 
-![](https://downloads.intercomcdn.com/i/o/950031540/36cd0ebbd558689393707668/image.png?expires=1781092800&signature=0e4b881b5ad87ef25b75105e7a7e8ecd494477dfaa34d1d4278e9b4fa5b20dff&req=fSUnFsp%2FmIVfFb4V1XW4gfDY9EEgr1R66lyc8%2Fis2Xr%2FzXcao8SXlcGPq7zG%0ADZpSrheuhiUYwCibiwZ1deljSg%3D%3D%0A)
+## 4. **Se connecter**
 
-## 4. Page d'accueil
+Quand le connecteur de bureau est ouvert pour la première fois, une demande de connexion est affichée. Cliquez sur le bouton Se connecter pour ouvrir le navigateur par défaut du système sur la page de connexion de Catenda. Après vous être connecté ou si vous êtes déjà connecté, cliquez sur autoriser l'accès pour accorder l'accès au compte Catenda qui est connecté. Après avoir cliqué sur autoriser l'accès, le navigateur vous invitera à ouvrir l'application du connecteur de bureau. L'octroi de la permission d'ouvrir l'application vous redirige vers la [page d'accueil](#home-page) du connecteur de bureau.
 
-Lorsque vous démarrez le Desktop Connector, il se présente comme suit :
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/01-sign-in.png)
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454447120/a0955cd41deb08993767f052c88a/image.png?expires=1781092800&signature=b4e51c0221b356f9f9dc960934fac40bd563edb152301b423ba5021b3d31ac06&req=dSQiEs16moBdWfMW3nq%2BgeGCbXBO6IjIPYoc128xCQ%2FMiWlfffjOwM6uAktP%0Ad6RwovPcVHcLXpjBY0YEbBRGqWY%3D%0A)
+## 5. **Page d'accueil**
 
-### 4.1 Réveiller le PC
+Voici ce à quoi le connecteur de bureau peut ressembler au démarrage avec une connexion valide :
 
-Réveille l'ordinateur du mode veille si une tâche est programmée pour s'exécuter à ce moment-là.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/02-home-page.png)
 
-### 4.2 Exécuter au démarrage
+### 5.1 **Réveiller le PC**
+
+Réveille le PC du mode veille si une tâche est planifiée pour s'exécuter à ce moment.
+
+### 5.2 **Exécuter au démarrage**
 
 Pour exécuter le connecteur de bureau au démarrage, sélectionnez cette option
 
-### 4.3 Déconnexion
+### 5.3 **Se déconnecter**
 
 Cliquez sur le bouton de déconnexion en bas à droite pour vous déconnecter.
 
-![](https://downloads.intercomcdn.com/i/o/950021316/0053ee8a768a5188e6313c57/image.png?expires=1781092800&signature=43a10ad461d99e318a20b35ee132a99b1abed0e726ac4e1fdb3c57928b439578&req=fSUnFst%2FnoBZFb4V1XW4gThqJOWIUgCvL1w4D%2FD00hZl%2BjSWkhBzu0AfrfCB%0At7yYs0Cvm2OWN4cYaarP2Iu8jw%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/03-log-out.png)
 
-## 5. Liste des projets
+## 6. **Liste des projets**
 
-Vous voyez ici une vue d'ensemble de vos projets et le nombre de tâches de téléchargement et de mise à jour que vous avez définies pour chaque projet.
+Un aperçu des projets auxquels le compte avait accès la dernière fois que la liste des projets a été chargée s'affiche. Pour chaque projet, le nombre de tâches d'envoi et de téléchargement qui sont configurées s'affiche.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454474591/6c86d7286ed36e3031b2d70f02aa/image.png?expires=1781092800&signature=3a0eec07dba83d0a1f39e56df6c392a315727a172ff6f9bdd7efad8f377f7e04&req=dSQiEs15mYRWWPMW3nq%2BgVpEjkjWjD8vHTyOePlovzw0rt6U85PqawNlsHKn%0A4gOpJt%2BfWTJsQm1X4OD7fbwj8AM%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/04-project-list.png)
 
-### 5.1 Bouton de synchronisation
+### 6.1 **Bouton Synchroniser**
 
-Si vous avez récemment rejoint un nouveau projet, vous pouvez cliquer sur ce bouton de synchronisation pour charger la nouvelle liste des projets dont vous faites partie.
+Si un projet a été récemment rejoint, cliquez sur ce bouton de synchronisation pour charger la nouvelle liste des projets dont le compte connecté fait partie.
 
-![](https://downloads.intercomcdn.com/i/o/950025424/2f27581570051bde063c7246/image.png?expires=1781092800&signature=ef6298b070111ca73c8e594595b72887bd2b9b9cac65cea8e800e7af69f4ec2d&req=fSUnFst7mYNbFb4V1XW4geobuS5sg5oKpjFhFVSCA3gu2MlbQTC4KuaGF1EC%0A3NuFgqd7xXl8O8cJztQFnUVDow%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/05-synchronize-button.png)
 
-### 5.2 Nom
+### 6.2 **Nom**
 
-Cliquez sur le nom d'un projet pour voir les tâches de téléchargement en cours ou pour planifier une nouvelle tâche.
+Cliquez sur le nom d'un projet pour voir les tâches d'envoi et de téléchargement actuelles ou pour planifier une nouvelle tâche.
 
-### 5.3 Tâches de téléchargement
+### 6.3 **Tâches d'envoi**
+
+Le nombre de tâches d'envoi actives pour ce projet
+
+### 6.4 **Tâches de téléchargement**
 
 Le nombre de tâches de téléchargement actives pour ce projet
 
-### 5.4 Tâches de téléchargement
+## 7. **Tâche d'envoi**
 
-Nombre de tâches de téléchargement actives pour ce projet
+Planifiez un envoi périodique de fichiers de votre système vers Catenda Hub avec cette tâche.
 
-## 6. Tâche de téléchargement
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/06-upload-task.png)
 
-Cette tâche vous permet de planifier un téléchargement périodique de fichiers de votre système vers Catenda Hub
+### 7.1 **Titre - Obligatoire**
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454398727/828bf67e349178e26445dbe9d4df/image.png?expires=1781092800&signature=2d77eb3f2e296bb65dbdd9359ead9a08dbd8142cc8828fc6a953a8ebf5630153&req=dSQiEsp3lYZdXvMW3nq%2BgZWLXkKBsyeGIYNCSb0pyk2JpSaqkNqzV%2FJhZadW%0Ap0AB8zMQjPI5yM%2BqRm1vosDeiNg%3D%0A)
+La tâche d'envoi doit avoir au moins un titre pour être sauvegardée
 
-### 6.1 Titre - Requis
+### 7.2 **Calendrier de planification - Obligatoire**
 
-La tâche de téléchargement doit au moins avoir un titre pour être sauvegardée
+La tâche doit avoir au moins un jour sélectionné pour être sauvegardée
 
-### 6.2 Calendrier - Requis
+### 7.3 **Emplacement du projet**
 
-La tâche doit au moins avoir un jour sélectionné pour être sauvegardée
+**Serveur** Cliquez sur parcourir pour sélectionner la destination sur la page Documents de Catenda Hub où les fichiers doivent être synchronisés. Cliquez [ici](#server-location) pour en savoir plus sur la sélection du chemin d'accès du répertoire du serveur
 
-### 6.3 Emplacement du projet
+**Local** Sélectionnez l'emplacement sur le système local à partir duquel les fichiers doivent être synchronisés.
 
-_Serveur_ - Sélectionnez l'emplacement sur Catenda Hub vers lequel vous souhaitez synchroniser vos fichiers.
+### 7.4 **Instantané**
 
-_Local_ - Sélectionnez l'emplacement sur votre système à partir duquel vous souhaitez synchroniser les fichiers.
+Les tâches n'ont pas besoin d'être enregistrées pour démarrer le processus d'envoi. Cliquez sur le carré d'envoi maintenant pour démarrer cette tâche immédiatement. Les tâches enregistrées s'exécutent périodiquement à l'heure configurée.
 
-### 6.4 Instantané
+## 8. **Tâche de téléchargement**
 
-Cliquez sur la case télécharger maintenant pour commencer cette tâche immédiatement.
+Planifiez un téléchargement périodique de fichiers de Catenda Hub vers le système local.
 
-Il n'est pas nécessaire d'enregistrer la tâche pour commencer le téléchargement.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/07-download-task.png)
 
-Si vous enregistrez la tâche, elle sera exécutée périodiquement à l'heure configurée.
+### 8.1 **Titre - Obligatoire**
 
-## 7. Tâche de téléchargement
+La tâche d'envoi doit avoir au moins un titre pour être sauvegardée
 
-Cette tâche vous permet de programmer un téléchargement périodique de fichiers du Catenda Hub vers votre système.
+### 8.2 **Calendrier de planification - Obligatoire**
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454439911/22c39424daa693a364fdb922fe81/image.png?expires=1781092800&signature=3ff3214338bd3c8132b8c730d86781db30f62429c86203499fa06a9cacff6adb&req=dSQiEs19lIheWPMW3nq%2BgX7mndmvSJHhtKTlMlxJFhKhMKuIB8rebe3bFFbK%0A%2FBT5QOc4mgyJZhdQXdwJvToGkcU%3D%0A)
+La tâche doit avoir au moins un jour sélectionné pour être sauvegardée
 
-### 7.1 Titre - Obligatoire
+### 8.3 **Emplacement du projet**
 
-La tâche de téléchargement doit au moins avoir un titre pour être sauvegardée
+**Serveur** Sélectionnez l'emplacement sur Catenda Hub à partir duquel les Documents doivent être téléchargés. Cliquez [ici](#server-location) pour en savoir plus sur la sélection du chemin d'accès du répertoire du serveur
 
-### 7.2 Calendrier - Requis
+**Local** Sélectionnez la destination sur le système local où les fichiers doivent être téléchargés.
 
-La tâche doit au moins avoir un jour sélectionné pour être sauvegardée
+### 8.4 **Instantané**
 
-### 7.3 Emplacement du projet
+Une tâche n'a pas besoin d'être enregistrée pour commencer à télécharger. Cliquez sur le carré Télécharger maintenant pour démarrer cette tâche immédiatement. Enregistrez la tâche pour exécuter périodiquement le téléchargement à l'heure configurée. Les Documents téléchargés se retrouveront sur votre système décompressés.
 
-_Serveur_ - Sélectionnez l'emplacement sur Catenda Hub à partir duquel vous souhaitez télécharger vos fichiers.
+### 8.5 Bouton Retour
 
-_Local_ - Sélectionnez l'emplacement sur votre système vers lequel vous souhaitez télécharger les fichiers.
+Cliquez sur le bouton de flèche pour retourner à la [page d'accueil](#home-page)
 
-### 7.4 Instantané
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
-Cliquez sur la case télécharger maintenant pour démarrer cette tâche immédiatement.
+## 9. **Emplacement du serveur**
 
-Vous ne devez pas sauvegarder la tâche pour commencer le téléchargement.
+Cliquez sur parcourir dans la zone d'emplacement du projet d'une tâche d'envoi ou de téléchargement pour commencer à parcourir le chemin d'accès du répertoire du projet Catenda. La boîte de dialogue Choisir le chemin d'accès du répertoire s'ouvrira. Une fois ouverte, elle commencera à télécharger tous les noms de dossiers du projet et leur hiérarchie. Pour les tâches de téléchargement, les noms de Documents sont également téléchargés. Pendant que le téléchargement est en cours, la boîte de dialogue peut ressembler à ceci :
 
-Si vous enregistrez la tâche, elle sera exécutée périodiquement à l'heure configurée. Les documents téléchargés arriveront sur votre système décompressés.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/09-server-location.png)
 
-### 7.5 Bouton de retour
+Particulièrement pour les tâches de téléchargement, s'il y a de nombreux dossiers et Documents, cela peut prendre quelques minutes pour que ce processus se termine. Veuillez vous assurer que suffisamment de mémoire est disponible sur le système local pour cette étape.
 
-Cliquez sur ce bouton pour revenir à la [page d'accueil](#h_097078145d)
+**Taille de la boîte de dialogue** Cliquez sur Min ou Max vers le haut à droite pour réduire ou agrandir la boîte de dialogue Choisir le chemin d'accès du répertoire.
 
-![](https://downloads.intercomcdn.com/i/o/950023253/d65643c0a2f97d7bc7d2319e/image.png?expires=1781092800&signature=a5c07c2bae2a7ad2cb375cfc7b58e84de093d43a89c6106dadabc2204c59e04e&req=fSUnFst9n4RcFb4V1XW4ga0YsQM1%2FTQcJiZjnQF4y8vosAgaXDzX%2Bu%2BJTnPP%0ArEpZpux7zmL2kXm%2Fj27ea4%2FJnQ%3D%3D%0A)
+**Actions du répertoire** Une fois les dossiers chargés, la boîte de dialogue peut ressembler à quelque chose comme ceci :
 
-## 8. Liste des tâches
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/10-server-location.png)
 
-Vous pouvez voir ici les tâches de téléchargement en cours
+Cliquez sur la flèche en regard d'un dossier pour le développer. Les Documents ne sont disponibles que dans cette vue pour les tâches de téléchargement.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454452156/f6adcc28f966d51421969084ea12/image.png?expires=1781092800&signature=e80573e189ad88f9fe29458112971e08a765068f6295e2d983db2adce5cdb184&req=dSQiEs17n4BaX%2FMW3nq%2BgfeyruWJeXtF3JUjzNlknYX901%2FIIwzEfvtm4nAw%0AMJqQ00BPkEhQdoL9gvQVzwMjn0M%3D%0A)
+**Sélection de dossier** Cliquez sur un dossier pour le sélectionner. Pour les tâches de téléchargement, plusieurs dossiers peuvent être sélectionnés, tandis que pour les tâches d'envoi, un seul dossier peut être sélectionné à la fois.
 
-### 8.1 Nom
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/11-server-location.png)
+
+Une fois qu'un dossier est sélectionné, il apparaît en blanc avec une coche. Tous les sous-dossiers du dossier sélectionné apparaîtront barrés car il n'est possible de sélectionner que des dossiers au même niveau. Vers le haut, le nombre d'éléments sélectionnés s'affiche.
+
+**Tâche de téléchargement** S'il y a des Documents dans le dossier sélectionné ou ses sous-dossiers, tous les dossiers du chemin entre le dossier sélectionné et le Document seront créés. Le Document est alors téléchargé dans ce dossier. Si un sous-dossier ne contient pas de Documents, le sous-dossier ne sera pas créé même s'il peut être coché dans cette boîte de dialogue. Il n'est pas possible de décocher un sous-dossier pour ne pas télécharger une partie d'une structure de dossiers. Pour télécharger uniquement certains dossiers, sélectionnez-les individuellement comme dans l'image ci-dessous :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/12-server-location.png)
+
+Sélection de Document Cliquez sur un Document pour le sélectionner
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/13-server-location.png)
+
+Lorsque des Documents individuels sont sélectionnés, les Documents seront téléchargés sous forme de liste plate directement vers le chemin local sélectionné sans la hiérarchie des dossiers dans lesquels ces Documents se trouvent.
+
+**Tâche d'envoi** Les Documents sont envoyés vers le dossier sélectionné. Si le nom du dossier correspond, les Documents sont envoyés aux sous-dossiers du dossier sélectionné.
+
+## 10. **Liste des tâches**
+
+Ici, les tâches d'envoi et de téléchargement qui sont configurées dans cette installation pour l'utilisateur connecté peuvent être vues.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/14-task-list.png)
+
+### 10.1 **Nom**
 
 Le nom de la tâche.
 
-### 8.2 Tâche
+### 10.2 **Tâche**
 
-L'heure à laquelle la tâche sera exécutée.
+L'heure planifiée à laquelle la tâche s'exécutera.
 
-### 8.3 Projet
+### 10.3 **Projet**
 
-Le nom du projet dans lequel cette tâche sera exécutée.
+Le nom du projet où cette tâche s'exécutera.
 
-### 8.4 Statut
+### 10.4 **Statut**
 
-Le statut de cette tâche.
+Le Statut de cette tâche.
 
-### 8.5 Bouton de retour
+### 10.5 **Bouton Retour**
 
-Cliquez sur ce bouton pour revenir à la [page d'accueil](#h_097078145d)
+Cliquez sur ce bouton pour retourner à la [page d'accueil](#home-page)
 
-![](https://downloads.intercomcdn.com/i/o/950023253/d65643c0a2f97d7bc7d2319e/image.png?expires=1781092800&signature=a5c07c2bae2a7ad2cb375cfc7b58e84de093d43a89c6106dadabc2204c59e04e&req=fSUnFst9n4RcFb4V1XW4ga0YsQM1%2FTQcJiZjnQF4y8vosAgaXDzX%2Bu%2BJTnPP%0ArEpZpux7zmL2kXm%2Fj27ea4%2FJnQ%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
-## 9. Dossier des journaux
+## 11. **Dossier de journaux**
 
-Ce bouton permet d'ouvrir le dossier dans lequel se trouvent les journaux de Desktop Connector sur votre système.
+Ce bouton ouvre l'emplacement du dossier des journaux du connecteur de bureau sur le système local. L'emplacement par défaut de ces journaux est :
+
+`C:\\Users\\\<nom du compte Windows>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp`

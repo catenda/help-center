@@ -1,103 +1,153 @@
-# Catenda Archicad プラグイン
+# Catenda Archicadプラグイン
 
-> **注:**プラグインのインストール ファイルは、[このヘルプ記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
+> テスト
 
-この記事には次の情報が含まれています。
+> \*\*注:\*\*プラグインのインストールファイルは[この記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
+
+Catenda Archicadプラグインは、Nemetchek Archicadにインストールできるプラグインです。このプラグインを使用すると、3Dビューポイント、トピック、ドキュメントについて、建設プロジェクトの他のメンバーと協力することができます。
 
 ## 1. **インストール**
 
-Catenda ArchicadプラグインをWindowsにインストールすると、インストールファイルが「C:\\Program Files\\Catenda\\Catenda Archicad Connection\\\<Archicad Version>\\Add-On」フォルダに表示され、次回Archicadを開いたとき、のアドオンマネージャで有効になります。
+Catenda ArchicadプラグインがWindowsにインストールされると、インストールファイルは次のフォルダに表示されます。
 
-これは、「C:\\Program Files\\Graphisoft\\\<Archicad Version>\\Add-Ons」にあるデフォルトのアドオンフォルダーとは異なることに注意してください。
+`C:\\Program Files\\Catenda\\Catenda Archicad Connection\\\<Archicad Version>\\Add-On`
+
+プラグインは、次にArchicadを開いたときに、アドオンマネージャーで有効として表示されます。これはデフォルトのアドオンフォルダとは異なることに注意してください。デフォルトのアドオンフォルダは次の場所にあります。
+
+`C:\\Program Files\\Graphisoft\\\<Archicad Version>\\Add-Ons`
+
+### 1.1 **アンインストール**
+
+プラグインをアンインストールするには、次のWindowsメニューに移動します:
+
+`Windows設定 -> アプリ -> インストール済みアプリ`
+
+リストからCatenda Archicad Connection \<version>を見つけ、右側のアクションメニューをクリックしてアンインストールします。
 
 ## 2. **Catendaパレット**
 
-プラグインをインストールすると、上部バーに Catenda メニュー タブが表示されるようになります。
+プラグインをインストールすると、トップバーにCatendaメニュータブが表示されます。このメニューでは、"Catenda Hub Issue Manager"ウィンドウが表示され、"Catenda Hub Issue Manager パレット"が含まれます。このパレットを使用するには、フロアプランまたは3Dビューを開く必要があります。このパレットでは、以下の操作が可能です:
 
-このメニューには、「Catenda Hub Issue Manager パレット」を含む「Catenda Hub Issue Manager」ウィンドウがあります。このパレットの使用を開始するには、平面図または 3D ビューを開く必要があります。
-
-パレットでは次のことが可能になります。
-
-- Catenda Hub プロジェクトに移動
-- トピックを確認・作成する
-- モデルとリビジョンをダウンロード・アップロードする
+- Catenda Hubプロジェクトに移動
+- 問題の確認と作成
+- モデルとrevisionのダウンロードとアップロード
 
 ## 3. **サインイン**
 
-Catenda パレットを開くと、最初にサインイン ページが表示されます。
+Catendaパレットを開くと、最初に表示されるのはサインインページです。サインインページは以下のようになります:
 
-サインイン ページは次のようになります。
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/01-sign-in.png)
 
-![](https://downloads.intercomcdn.com/i/o/954674252/087223d36db0710549d0e1a4/image.png?expires=1781092800&signature=d37b25886b0caa898666f2a76bf3fee18edf85dc28dfbd5e03f1d1983d24b150&req=fSUjEM56n4RdFb4V1XW4gdKdAr6wsDWM%2BEx%2B94iXEJvwGY%2BsdN3sXxDUIB3U%0AOS7tVjGc5lLCaC0o6G9Q2jXUVw%3D%3D%0A)
+Catendaアカウントをお持ちでない場合は、右上の「無料でサインアップ」をクリックできます。すでにCatendaアカウントをお持ちの場合は、メールアドレスとパスワードを入力してサインインをクリックします。サインイン後、Catendaアカウントへのアクセスを許可するよう求められます。このアクセスを許可すると、Archicadプラグインはあなたのcatendaアカウントの[アプリケーションページ](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a)にアプリケーションとして表示されます。必要に応じて、いつでもここからアクセスを取り消すことができます。
 
-Catenda アカウントをお持ちでない場合は、右上で無料でサインアップできます。
+### 3.1 **パスワードリセット**
 
-すでに Catenda アカウントをお持ちの場合は、電子メールとパスワードを入力して、「サインイン」をクリックします。
+パスワードを忘れた場合は、「パスワードを忘れた」をクリックしてリセットできます。パスワードリセットページは以下のようになります:
 
-サインインした後、Catenda アカウントへのアクセスを許可するように求められます。
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/02-password-reset.png)
 
-このアクセスを許可すると、Archicad プラグインがCatenda アカウントの[アプリケーション ページ](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a)にアプリケーションとして表示されます。
+メールアドレスを入力して「認証メールを送信」をクリックすると、パスワードリセットのガイダンスを含むメールが送信されます。このメールが5分以内に届いていることを確認してください。受信トレイに表示されない場合は、スパムまたは迷惑メールフォルダをご確認ください。5分以上かかった場合は、[support@catenda.com](mailto:support@catenda.com)のサポートにお問い合わせください。
 
-アクセスを許可したくない場合は、ここでいつでもアクセスを取り消すことができます。
+サインインに戻るには、右上の「サインイン」をクリックします。
 
-### 3.1 **パスワードのリセット**
+## 4. **プロジェクトリスト**
 
-パスワードを忘れた場合は、「パスワードを忘れました」をクリックしてリセットできます。
+Archicadプラグインを開くと、プロジェクトのリストが表示されます:
 
-パスワード リセット ページは次のようになります。
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/03-project-list.png)
 
-![](https://downloads.intercomcdn.com/i/o/954682377/c823da16f37adde39b89cc90/image.png?expires=1781092800&signature=c4ee66a384718ed6fa31b7182942a99452cf40586604a7ad8b8b3e6d8afd0b3d&req=fSUjEMF8noZYFb4V1XW4gX3vJHXYueNw2Gh%2FbwNFY2ioSwCvESxm5X8EXzgv%0AgI8DjUzLOcahxLN2e%2B6AWVfBKg%3D%3D%0A)
+プロジェクトへの招待を受け入れると、そのプロジェクトがプラグインのプロジェクトリストと[プロジェクトページ](https://support.catenda.com/en/articles/8400797-projects-page)に表示されます。
 
-メールアドレスを入力して「確認メールを送信」をクリックすると、パスワードのリセット手順を案内するメールが送信されます。
+**アクションメニュー**プロフィール画像の横にある3つのドットをクリックしてアクションメニュードロップダウンを開きます:
 
-このメールは 5 分以内に受信していることを確認してください。
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/04-project-list.png)
 
-受信箱にメールが表示されない場合は、スパムまたは迷惑メールの受信箱を試してみてください。
+**モデル&revision**これはモデル&revisionページのような見た目です。ここでは、Catendaプロジェクトでアクセス権のあるすべてのモデルを確認できます。
 
-5 分以上かかる場合は、サポート ( [support@catenda.com)までご連絡ください。](mailto:support@catenda.com)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/05-project-list.png)
 
-サインインに戻るには、右上のサインインをクリックします。
+このページでは、CatendaプロジェクトからifcファイルをダウンロードしてArchicadモデルにインポートできます。モデルのタイムスタンプは相対的です。タイムスタンプの上にカーソルを置くと、revisionが公開された正確な時刻を確認できます。モデルrevisionの横の矢印ボタンをクリックして、revisionとしてアップロードされたIFCファイルをインポートします。Catendaプロジェクトのモデルにアクセス権がない場合は、以下のように表示されます:
 
-## 4. **プロジェクト一覧**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/06-project-list.png)
 
-Archicad プラグインを開くと、次のようなプロジェクトのリストが表示されます。
+**IFCのアップロード**現在のArchicadプロジェクトからIFCをアップロードします。これはIFCアップロードページのような見た目です:
 
-![](https://downloads.intercomcdn.com/i/o/954655043/5046855c263d8f134ba102ce/image.png?expires=1781092800&signature=55874591c0ce9f51550a72cccdc0d007b48af708fc4e431ed5f310d077858491&req=fSUjEMx7nYVcFb4V1XW4gbyYsL82na2N68r08XRtbqZl%2Bf8eTROeLgH6x0SO%0Ax4MBP1XZdqUMtGhwkPiy9HpW0w%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/07-project-list.png)
 
-### 4.1 **ハンバーガーメニュー**
+デフォルトでは、ファイル名はArchicadプロジェクトの名前になります。これはCatendaのrevisionの名前になります。ファイルをアップロードするモデルを選択します。「設定」をクリックしてArchicad IFCエクスポートダイアログを開きます。ここで、IFCをCatendaにエクスポートするために使用する設定を構成できます。準備ができたら、アップロードボタンをクリックしてモデルをアップロードします。
 
-プロフィール写真の横にあるハンバーガー メニューをクリックすると、次のドロップダウンが開きます。
+**座標**座標オプションの上にカーソルを置いて座標メニューを展開します。座標メニューは以下のようになります:
 
-![](https://downloads.intercomcdn.com/i/o/954662222/77df96f41e3efd9b4121b555/image.png?expires=1781092800&signature=0a9b5aa77899b88ed2d1d6414538864febbadd4a058d9c994ffe1379810833e1&req=fSUjEM98n4NdFb4V1XW4gcwXWEI%2BxUQghghIW8o1A9dztNSW6LV606lEWj7Q%0Ay79i6H7ASmvuy%2FLNQ0jQl7FUlQ%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/08-project-list.png)
 
-**モデルとリビジョン**
+座標メニューでは、座標を以下に相対的に選択できます: 測量ポイント - デフォルトプロジェクト原点
 
-Catenda プロジェクトからモデルとリビジョンを開く
+**バージョン**プラグインのバージョン番号。
 
-**IFCをアップロードする**
-
-現在のArchicadプロジェクトからIFCをアップロードします
-
-**バージョン**
-
-プラグインのバージョン番号。
-
-**ログアウト**
-
-Catenda アカウントからログアウトします
+**ログアウト** Catendaアカウントからログアウト
 
 ## 5. **トピックボード**
 
-プロジェクトをクリックして開くと、プロジェクト内の最初のトピック ボードが開きます。
+プロジェクトをクリックして開くと、プロジェクトの最初のトピックボードが開きます。トピックボードは以下のようになります:
 
-トピックボードは次のようになります。
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/09-topic-board.png)
 
-![](https://downloads.intercomcdn.com/i/o/954653730/57169ac7a8502bf318f020ac/image.png?expires=1781092800&signature=7026a437cc97f9e35dcf974c09a819ace7128b9a553f271f55600c564331f085&req=fSUjEMx9moJfFb4V1XW4gR23y%2BSEep5dGm%2FI1DEbwUZCzqmwCTzRkDiEEQDO%0AouuguzdNNNeXp3bE0dflkITLjQ%3D%3D%0A)
+### 5.1 **検索**
+
+検索バーをクリックしてハイライトします。ハイライトされた検索バーは以下のようなものになります:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/10-search.png)
+
+検索バーをクリックすると、推奨フィルター付きのドロップダウンが開きます。フィルターのいずれかを選択して適用します。フィルターの横のxをクリックして削除します。入力を開始して推奨フィルターを絞り込むか、テキスト検索を実行します。
+
+### 5.2 **フィルター表示**
+
+「フィルター表示」ボタンをクリックしてフィルターメニューを開きます。フィルターメニューは以下のようなものになります:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/11-show-filter.png)
+
+トピックボードとサブミットされたトピックの設定によっては、様々なフィルターが利用できます:
+
+**マイトピック**自分に担当されている 自分がリクエストした 自分が作成した
+
+**ステータス**トピックボードの異なるステータスがここにリストされています
+
+**タイプ**トピックボードの異なるタイプがここにリストされています
+
+**期日**期限切れ 1日未満 1週間未満 2週間未満 1ヶ月未満 期日のあるすべてのもの
+
+**担当者** `@`で始まるエントリは、最初にリストされた担当チームです。その後、割り当てられたプロジェクトメンバーがリストされます。
+
+**依頼者** `@`で始まるエントリは、最初にリストされたトピックをリクエストするチームです。その後、トピックをリクエストするプロジェクトメンバーがリストされます。
+
+**マイルストーン**トピックに適用されたマイルストーンがリストされます。
+
+**ラベル**トピックに適用されたラベルがここにリストされます。
+
+**フィルターメニューに記載されていないフィルター**テキスト検索 テキスト検索バーに入力して検索できます。
+
+検索できるコンテンツ トピックタイトル トピック説明 トピックコメント
+
+大文字と小文字の区別 テキスト検索は大文字と小文字の区別に敏感ではありません。
+
+文字数 1文字 - 結果なし。テキスト検索には少なくとも2文字が必要です。2文字 - スペースで区切られた検索フレーズに一致する完全な単語が結果に含まれます。
+
+### 5.3 **並べ替え**
+
+「並べ替え」をクリックしてソートメニューを開きます。ソートメニューは以下のようなものになります:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/12-sort.png)
+
+オプションのいずれかをクリックしてトピックリストを以下の順に並べ替えます: _最新_ - デフォルト 最新の作成日のトピック
+
+**最古**最古の作成日のトピック
+
+**最近更新**最近更新されたトピック
+
+**最も更新が古い**最も更新が古いトピック
 
 ## 6. **トピック**
 
-トピックボード内のトピックをクリックすると、トピックボードが開きます。
+トピックボードのトピックをクリックして開きます。トピックは以下のようなものになります:
 
-トピックは次のようになります。
-
-![](https://downloads.intercomcdn.com/i/o/954701465/fb87b20a96e95c19f9695baf/image.png?expires=1781092800&signature=519669bc1e20fd4bbeed1f5e9b23f93d554141995fb3f37883408a2dd21d4cb0&req=fSUjEcl%2FmYdaFb4V1XW4gXg%2Fc62BNdpAvPbGEjPFF7iSl7zM5Tc02QzBBMOy%0AdRCMqiHP9XZ5pgWBfAUHyZIl3Q%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/13-topic.png)

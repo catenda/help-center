@@ -158,11 +158,9 @@ The title of a withdrawn revision will be struck through and you will not be abl
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/21-model-revision-withdrawn.png)
 
-## 6. 
+## 6. **Project settings**
 
-## 7. **Project settings**
-
-### 7.1 Teams that no longer exist
+### 6.1 Teams that no longer exist
 
 [https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/members/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/members/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
 

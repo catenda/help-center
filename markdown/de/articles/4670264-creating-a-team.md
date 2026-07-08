@@ -1,15 +1,47 @@
-# Creating a team
+# Ein Team erstellen
 
-> Lernen Sie in diese Artikel, wie Sie ein Team anlegen
+In einem Bauprojekt können Teams wertvoll sein, da Personen häufig hinzukommen, Rollen wechseln oder verschiedene Arbeitsgruppen verlassen. Die Einrichtung von Teams kann Missverständnisse nach einem Rollenwechsel im Projekt verhindern.
 
-Neue Teams können auf der Mitgliederseite erstellt werden, wobei Sie die Teams beliebig aufteilen können. Ein üblicher Weg, die Mitglieder in Teams aufzuteilen, ist der Handel. Teams können genauso wie Mitglieder Ausgaben zugewiesen werden.
+Erstellen Sie ein Team, indem Sie das Aktionsmenü rechts neben der grünen Plus-Schaltfläche auf der [Seite "Mitglieder und Teams"](https://support.catenda.com/en/articles/4670291-members-and-teams-page) öffnen, unabhängig davon, welcher Tab ausgewählt ist.
 
-![](https://downloads.intercomcdn.com/i/o/720413983/d513ccf51166b04c39bb7717/image.png?expires=1781092800&signature=1c667d7956932e83d9ac22f1a619108c93b1beeea53cc959bcdfead059743787&req=cyInEsh9lIlcFb4V1XW4gUVb0JCyDpJ%2B8OaEAffFc14QhwbefiLhLbxfDIYw%0ABpXkcMRdNvt7BjWgXgI97drBvg%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/01-intro.png)
 
-Um ein neues Team zu erstellen, gehen Sie auf die Mitgliederseite und wählen Sie in der oberen rechten Ecke die Schaltfläche "Neues Team", um den Namen des Teams zu bestimmen und festzulegen, ob das Team die Rolle eines Mitglieds oder eines Administrators haben soll.
+Teams können auch auf den Inhaltsseiten "Mitglieder" und "Teams" erstellt werden:
 
-![](https://downloads.intercomcdn.com/i/o/770997966/e20d19ac3929bc1e14097948/image.png?expires=1781092800&signature=2d2669ed37fcb0c3a93f20413e516b3d3e2f8f84e371452a223a63f738244136&req=cycnH8B5lIdZFb4V1XW4gSOavavzS%2FUX8XyvOjbpDAAVoDwxMqkM8jYPdCyI%0AhRGHJBSJcePgpMjc8si1Skkb4g%3D%3D%0A)
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/inline-f431970e0ec1.png" width="290"/>    ---    <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/inline-fa9689ce5cd0.png" width="290"/>
 
-> **Hinweis:** Wenn das Team die Administratorrolle erhält, hat jedes Mitglied dieses Teams Administratorzugriff.
+## 1. **Wann sollte ich ein Team einrichten?**
 
-Wenn das Team erstellt ist, wird die Teamseite geöffnet und Sie können Mitglieder zu diesem Team hinzufügen.
+Catenda Teams können auf jede gewünschte Weise eingeteilt werden. Normalerweise wird ein Team für jede Fachrichtung gebildet, der Projektbeteiligte angehören. Separate Teams können für einzelne Arbeitsgruppen entweder innerhalb dieser Fachrichtung oder interdisziplinär gebildet werden. Mitglieder können Teil mehrerer Teams sein, so dass die Teams, denen sie angehören, die verschiedenen Rollen beschreiben, die sie im Projekt haben.
+
+### 1.1 **Teams für Themenverwaltung**
+
+Themen können angefordert und Teams Zugewiesen werden, was es einfach macht, den Überblick über die Verantwortlichkeiten und Anforderungen eines Teams zu behalten. Neu erstellte Themen werden häufig zunächst einem Team Zugewiesen, woraufhin eine Überprüfung offener Themen für das Team durchgeführt wird und Themen anschließend einzelnen Mitgliedern zur Verfolgung Zugewiesen werden.
+
+### 1.2 **Teams für Themenbenachrichtigungen**
+
+Innerhalb eines Themas kann ein Team auch erwähnt werden, um das ganze Team über etwas zu informieren.
+
+Die Zugriffskontrolle kann an Teams delegiert werden. Dies kann verwendet werden, um den Zugriff einzurichten, bevor Benutzer Teil eines Teams sind. Wenn der Zugriff dann bereit ist, können die richtigen Benutzer zum Team hinzugefügt werden. Eine gute Verwendung ist das Einrichten eines Teams, wenn ein Mitglied eingeladen wird, damit es den richtigen Zugriff erhält, sobald es Teil des Projekts wird.
+
+## 2. **Erstellen Sie ein neues Team**
+
+So kann die Seite "Neues Team erstellen" aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/02-create-a-new-team.png)
+
+### 2.1 **Name**
+
+Geben Sie hier den Namen des Teams ein. Teamnamen müssen pro Projekt eindeutig sein.
+
+### 2.2 **Rolle**
+
+Im Rollenbereich kann die Rolle konfiguriert werden, die Mitglieder dieses Teams haben sollen.
+
+**Administrator** Wenn das Team die Administratorrolle erhält, haben alle Mitglieder dieses Teams Administratorzugriff, unabhängig davon, ob sie selbst als Mitglied Administrator sind oder nicht. Administratoren haben vollständigen Zugriff auf das Projekt mit einigen Ausnahmen: - Das Löschen des Projekts können nur Projektbesitzer durchführen. - Einige benutzerspezifische Ansichten wie private Lesezeichen, Sammlungen und private Bibliothekseinstellungen.
+
+_Mitglied_ - Standard Mitglieder haben standardmäßig Lese- und Schreibzugriff auf die meisten Funktionen sowie Löschzugriff auf ihre eigenen Inhalte. Mitglieder können durch Zugriffskontrollregeln in verschiedenen Bereichen der App weiter eingeschränkt werden, z. B. in Dokumenten, Themenbereichen und mehr.
+
+### 2.3 **Erstellen**
+
+Wenn das Team erstellt wird, wird die [Teaminhaltseite](https://support.catenda.com/en/articles/7891755-team-page) geöffnet. Von dort können Mitglieder zum Team hinzugefügt werden.

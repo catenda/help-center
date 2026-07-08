@@ -36,9 +36,7 @@ Hover over a [marker in the 2D viewer](https://support.catenda.com/en/articles/4
 
 Click on the marker to open the topic in the corresponding topic board in the content panel.
 
-### 2.1 
-
-### 2.2 **Marker configuration in browser**
+### 2.1 **Marker configuration in browser**
 
 Marker visibility can be configured in the following locations:
 

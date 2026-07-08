@@ -1,66 +1,111 @@
-# Déposer un fichier ZIP / une arborescence de dossiers et de fichiers
+# Télécharger un fichier zip / structure de fichiers
 
-Par rapport au simple chargement d'un fichier ZIP, la fonction de chargement "Déposer un fichier ZIP" permet de "déballer" le contenu du fichier ZIP. Ceci vous permet d'importer une structure de dossiers et de fichiers dans la [partie documentaire](https://support.catenda.com/en/articles/8204673-documents-page#h_28610e1d21) sans avoir à créer des dossiers manuellement.
+Contrairement au téléchargement d'un fichier zip ordinaire, la fonction de téléchargement de fichier zip décompressera un fichier zip. De cette façon, vous pouvez importer une structure de fichiers dans la [page Documents](https://support.catenda.com/en/articles/8204673-documents-page#h_28610e1d21) sans avoir à créer manuellement des dossiers.
 
-Si le dossier existe déjà, le fichier se retrouvera dans le dossier existant
+La fonction Télécharger un fichier zip se trouve dans le menu d'actions à droite du bouton + vert en haut à droite de la page Documents.
 
-Si le document existe déjà, le fichier deviendra une nouvelle révision de ce document.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/01-intro.png)
 
-Les thèmes suivants sont abordés dans cet article :
+## 1. **Sélection d'un fichier zip**
 
-[Déposer un fichier ZIP](#h_5b148952e1) - [Caractères spéciaux](#h_80fc1e08a5) - [Contourner la limite de taille de fichier](#h_022b1d3b12) -
+Après avoir cliqué sur l'élément de menu Télécharger un fichier zip, la boîte de dialogue suivante s'ouvrira :
 
-## 1. **Déposer un fichier ZIP**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/02-selecting-a-zip-file.png)
 
-Si vous souhaitez déposer un fichier ZIP, veuillez procéder comme suit :
+L'explorateur de fichiers de votre système doit s'ouvrir automatiquement. Si l'explorateur de fichiers ne s'est pas ouvert ou s'il a été fermé sans sélectionner de fichier zip, vous pouvez l'ouvrir à nouveau en cliquant sur le bouton Sélectionner un fichier zip.
 
-1. Cliquez sur les 3 points en haut à droite de la partie documentaire, puis sur "Déposer un fichier ZIP" dans le menu déroulant :
-​
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/03-selecting-a-zip-file.png)
 
-    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/areracg3/1305749502/d48726d4cb44420e106589edb662/image.png?expires=1781092800&amp;signature=1185e922cda9daaadd5b6a3c0367210bd6afe081134caf8c95e852e27e435926&amp;req=dSMnE856lIRfW%2FMW3nq%2Bgeh7aw4Dy7adlydgp83%2B27KOcXbZt0K59WP04cXs%0A9Im6Y5OiWUI%2F8JomErXdRgIGGlg%3D%0A"/></div>
+Après avoir sélectionné avec succès un fichier zip sur votre système local, vous devriez voir le nom du fichier zip ci-dessous et le bouton de téléchargement du fichier zip sera surligné en vert foncé.
 
-1. Choisissez à présent le fichier ZIP en question sur votre ordinateur :
-​
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/04-selecting-a-zip-file.png)
 
-    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/797822907/ba4b82b1faa83deecd64ec28/image.png?expires=1781092800&amp;signature=327c4dab9cc1cb61caae111afc2765697a9d1b0821469eaa339cc8754cf64203&amp;req=cykgHst8lIFYFb4V1XW4gR28Xyf3BETWzundTo%2BfNkgFspaWW8OUkqleovsI%0AQlM%2F9Aoj%2FOBRDfluxlZbsJpAhA%3D%3D%0A"/></div>
+Si vous n'avez pas entré de dossier dans la section des documents, il indiquera que le contenu sera extrait au dossier Racine. Cela signifie que vous verrez le contenu dès que vous entrerez dans la section Documents. Il est également possible de naviguer vers un dossier dans Catenda et de télécharger votre fichier zip là-bas si vous souhaitez que la structure de fichiers y apparaisse.
 
-1. Paramétrez les réglages souhaités et déposer le fichier ZIP :
-​
+## 2. **Configuration du téléchargement**
 
-    <div class="intercom-container"><img height="260" src="https://downloads.intercomcdn.com/i/o/areracg3/1305763362/45eb8e49b32c574ce44a46c13d43/image.png?expires=1781092800&amp;signature=f7e79c6212f228a96cf87cadd9cc751db8aa0de58bfa75eab99ae780866d580d&amp;req=dSMnE854noJZW%2FMW3nq%2Bgb60NQ6qI27wS6P82D6JbTAB136aFRVU1oo%2BeLiK%0AyT%2BmsyutDLPOwVICN9DNW3HQdjU%3D%0A" style="height: auto;" width="703"/></div>
+Les paramètres peuvent être configurés pour les éléments dont les noms dans le fichier zip existent déjà à l'emplacement où l'extraction du fichier zip tente de les placer dans le projet Catenda.
 
-1. Après quelques secondes, le dossier est chargé et Catenda Hub vous demande d'actualiser la page depuis le coin inférieur gauche de l'écran.
+### 2.1 **Dossiers**
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1305738822/3034d5574914854ccc466f6a740c/image.png?expires=1781092800&signature=60e0cb1d80488050d90b992aed3ad579d9e77662d2c06a7fb60dc266dbc7c0cd&req=dSMnE859lYldW%2FMW3nq%2BgbqU9TvsagjsPAeDPE%2F%2FaYAJK9KaHc7PHPprfhkh%0AYjo281E2XmuAtcji%2FAsuVNmiPbw%3D%0A)
+Les nouveaux dossiers ne seront créés que si un dossier portant ce nom n'existe pas encore à l'emplacement où le fichier zip tente d'extraire un dossier. Tous les éléments contenus dans un dossier où un dossier portant le même nom existe déjà seront placés dans le dossier existant portant le même nom dans le projet Catenda.
 
-## 2. **Chargements ZIP avec caractères spéciaux**
+### 2.2 **Documents**
 
-Catenda détecte l'encodage du fichier ZIP lors de son extraction. Si le fichier ZIP contient des caractères spéciaux, ils seront interprétés correctement lors de l'extraction. Si les caractères spéciaux n'ont pas été encodés correctement, ils ne pourront pas être extraits par Catenda et auront l'air brouillés.
+Différents comportements peuvent être configurés pour la façon dont l'extraction du fichier zip se comporte lorsqu'un document portant le même nom que le fichier dans le fichier zip existe déjà au même emplacement où le fichier zip tente de l'extraire dans le projet Catenda.
 
-Selon le service que vous utilisez pour créer votre fichier ZIP, vos caractères peuvent ou non être encodés correctement.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/05-documents.png)
 
-Si vos caractères spéciaux sont brouillés, regardez dans le fichier ZIP pour voir s'ils sont corrects.
+**Créer une nouvelle révision - Par défaut** Si un document portant le même nom existe au même emplacement où le fichier zip tente d'extraire un fichier, une nouvelle révision sera créée dans ce document.
 
-Si vous pensez que vos caractères ont été correctement encodés et qu'ils ne sont pas correctement extraits par Catenda, nous pouvons examiner votre fichier ZIP et de voir si nous pouvons faire quelque chose. Dans ce cas, veuillez contacter [support@catenda.com](mailto:support@catenda.com) en indiquant comment vous avez créé votre fichier ZIP.
+**Ignorer et continuer** Si un document portant le même nom existe au même emplacement où le fichier zip tente d'extraire un fichier, le fichier sera ignoré et aucune nouvelle révision ne sera créée dans le document.
 
-### 2.1 **Encodage ZIP sur Windows**
+### 2.3 **Appliquer le statut**
 
-Les différentes versions de Windows utilisent des encodages de ZIP différents.
+Si le flux de statut a été activé dans votre projet, vous serez en mesure de configurer le statut que les nouveaux documents auront. Si vous avez choisi l'option de création d'une nouvelle révision, le statut des documents qui recevront une nouvelle révision sera automatiquement modifié.
 
-Par exemple, la version anglaise utilise la norme d'encodage IBM-437 et la version pt-BR utilise IBM-850. Si votre installation Windows n'encode pas correctement vos fichiers ZIP, vous aurez peut-être plus de chance en utilisant un service tiers comme [7zip](https://7-zip.org/download.html) or [WinRAR](https://www.win-rar.com/download.html?&L=0) pour créer vos fichiers ZIP avec le bon encodage.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/06-apply-status.png)
 
-## 3. **Contourner la limite de taille de fichier**
+Il n'est possible de choisir que parmi les statuts de révisions partagées. Après le téléchargement, les révisions partagées peuvent être trouvées dans l'onglet espace de travail et peuvent être publiées ultérieurement.
 
-Le chargement d'un ZIP vous permettra de charger des fichiers de plus de 7 Go car le ZIP compresse le fichier.
+## 3. **Téléchargement**
 
-## 4. **Mes chargements ZIP**
+Après avoir cliqué sur télécharger un fichier zip, votre fichier zip commencera à être téléchargé
 
-L'option "Mes chargements ZIP" dans le menu déroulant vous permettra de voir un aperçu de vos précédents téléchargements ZIP.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/07-uploading.png)
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1305761472/7a9ce5b081abff2fe091f4bb007c/image.png?expires=1781092800&signature=b75c5b1d93cbf854300c095ad67ddba0debc9ad9061ae4ec3678a9f6e6e400d8&req=dSMnE854nIVYW%2FMW3nq%2BgXJcSurIcnVrBjjgY1%2B194BbLvxGBY9K8iM8f4N%2F%0AC2bi76O44ffOXOKkwkzERxeSH%2Fo%3D%0A)
+Vous pouvez continuer à travailler avec Catenda dans un autre onglet pendant que vous attendez la fin du téléchargement.
 
-## 5. **Connecteur Desktop**
+**Accès requis :** Accès en écriture à chacun des emplacements où les dossiers et les documents seront créés Accès en écriture aux révisions de documents qui seront ajoutées.
 
-Avec le [Connecteur Desktop pour Catenda](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) vous pouvez automatiquement et périodiquement charger les dernières versions des documents depuis votre système local vers Catenda Hub.
+## 4. **Extraction**
 
-Le Connecteur Desktop est plus rapide que le processus de chargement habituel et minimise le risque d'échec car il charge les documents fichier par fichier au lieu d'un gros lot de chargement d'un seul coup par glisser-déposer.
+Après le téléchargement de votre fichier zip, Catenda commencera à extraire votre fichier zip. Lors de l'extraction, vous verrez le menu suivant en bas à gauche :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/08-extracting.png)
+
+Vous pouvez garder ce menu ouvert en explorant Catenda, ou le fermer si vous le souhaitez. Vous pouviez même fermer complètement le navigateur pendant le processus d'extraction. Le fichier zip continuera à s'extraire en arrière-plan. Si vous avez utilisé Catenda dans un onglet différent pendant que le fichier zip s'extrayait, vous verrez les dossiers, documents et révisions commencer à apparaître à l'emplacement où vous avez extrait en actualisant la page.
+
+### 4.1 **Extraction terminée**
+
+Lorsque le fichier zip aura fini d'être extrait, il affichera "terminé" dans la boîte de dialogue.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/09-extraction-completed.png)
+
+Cliquez sur afficher les détails pour voir les fichiers qui ont été extraits. Vous pourrez trouver ces détails ultérieurement dans "Mes téléchargements de fichiers zip" comme expliqué ci-dessous. Actualisez la page pour voir tous les fichiers qui ont été téléchargés.
+
+### 4.2 **Notification d'importation de fichier zip terminée**
+
+Si vous avez fermé la boîte de dialogue, le navigateur ou actualisé la page, vous ne verrez plus la boîte de dialogue. Vous recevrez également une notification indiquant que votre extraction de fichier zip est terminée. De cette façon, vous saurez quand votre téléchargement de fichier zip est terminé, même si vous ne voyez plus la boîte de dialogue d'extraction.
+
+## 5. **Contourner la limite de taille de fichier**
+
+Le téléchargement d'un fichier zip vous permettra de télécharger des fichiers plus volumineux que 7 Go, car le fichier zip compresse le fichier.
+
+## 6. **Mes téléchargements de fichiers zip**
+
+L'option sous le téléchargement du fichier zip dans le menu d'actions vous permettra de voir un aperçu de vos téléchargements de fichiers zip précédents. Voici à quoi peuvent ressembler les importations de fichiers zip avec les différents statuts possibles :
+
+### 6.1 **Extraction**
+
+Pendant que le fichier zip s'extrait, les fichiers extraits commencent à apparaître sous forme de lignes dans le tableau des Documents.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/10-extracting.png)
+
+**Terminé** Lorsque l'importation du fichier zip est terminée, tous les fichiers sont extraits.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/11-extracting.png)
+
+### 6.2 **Page d'importation de fichier zip**
+
+Cliquez sur une importation de fichier zip pour voir plus d'informations sur le processus d'importation. Voici à quoi peut ressembler la page d'importation de fichier zip d'une importation de fichier zip terminée :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/12-zip-import-page.png)
+
+Voici à quoi peut ressembler le menu droit de la page d'importation de fichier zip d'une importation de fichier zip terminée :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/13-zip-import-page.png)
+
+## 7. **Connecteur de bureau**
+
+Avec le [Connecteur de bureau Catenda](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector), vous pouvez automatiquement et périodiquement télécharger les dernières versions de documents de votre système local vers Catenda Hub. Le Connecteur de bureau est à la fois plus rapide que le processus de téléchargement régulier et minimise le risque d'échec en téléchargeant les documents fichier par fichier au lieu d'un lot de téléchargement ou de fichier zip unique volumineux.

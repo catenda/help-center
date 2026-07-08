@@ -1,200 +1,150 @@
-# Multi Factor Autentisering
+# Flerfaktorgodkjenning
 
-Du vil kunne finne **Multi Factor autentisering** (MFA) innstillinger på [autentiserings siden](https://support.catenda.com/nb/articles/6880968-konto-siden#h_76f92e4ed6) som er en underside til konto [konto siden](https://support.catenda.com/nb/articles/6880968-konto-siden).
+> Beskriver hvordan du setter opp MFA på kontoen din
 
-**Multi Factor autentisering** (MFA) kerver at en kode føres inn som du mottar via din mobile enhet i tillegg til ditt brukernavn og passord ved pålogging til Catenda Hub. Når en organisasjon påkrever MFA er det dette påført på et organisasjonsnivå. Alle prosjekter som tilhører organisasjonen vil da kreve MFA tilgang til deres prosjekt. Dette vil tvinge alle brukere til å koble på MFA for å få tilgang til prosjektene som tilhører organisasjonen.
+Du finner innstillingene for **Flerfaktorgodkjenning** (MFA) på [godkjenningssiden](https://support.catenda.com/en/articles/6880968-account-page#h_e04d63351f), som er en underside til [kontosiden](https://support.catenda.com/en/articles/6880968-account-page).
 
-Denne siden inneholder informasjon om følgende temaer:
+**Flerfaktorgodkjenning** (MFA) krever at du skriver inn en kode du mottar på mobilenheten din, samt brukernavnet og passordet ditt når du logger på Catenda Hub. Når en organisasjon krever MFA, blir det brukt på organisasjonsnivå. Alle prosjekter som tilhører denne organisasjonen vil deretter kreve MFA for å få tilgang til deres prosjekter. Dette vil tvinge alle brukere til å aktivere MFA for å få tilgang til prosjekter som tilhører denne organisasjonen.
 
-## 1. **Koble på MFA**
+## 1. **Aktivering av MFA**
 
-Logg på Catenda Hub og gå til [konto siden](https://hub.catenda.com/account/profile):
+Logg på Catenda Hub og gå til siden for **[Konto](https://hub.catenda.com/account/profile)**:
 
-![](https://downloads.intercomcdn.com/i/o/710942054/f2239e2186f2107afadd66a3/image.png?expires=1781092800&signature=f38bc42351fd302ec7396fa6cf12192e80e28a0d7f3432cf1ef011332c36b874&req=cyEnH818nYRbFb4V1XW4gc7BaZEBKtWdCLphfgCiOK%2Bew%2FThhA88vrm%2FPJq5%0APAs7mDo6nKHLBwYjCUY3Kyp9%2Bg%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/01-enabling-mfa.png)
 
-1. Klikk på [Autentiserings undersiden](https://support.catenda.com/nb/articles/6880968-konto-siden#h_76f92e4ed6):
-1. Scroll ned til MFA dalen
-1. Klikk på **Aktiver MFA**
+1. Klikk på fanen **[Godkjenning](https://hub.catenda.com/account/authentication)**:
+2. Rull ned til delen for MFA:
+3. Klikk på **Aktivere MFA**
 
-![](https://downloads.intercomcdn.com/i/o/710944230/ebe37c5fb2379afe1d58d515/image.png?expires=1781092800&signature=bb1b215bf932a3da6fd9efd65031aa089830c4fa92090872b305802d5370aa61&req=cyEnH816n4JfFb4V1XW4gTVsh%2FWNq4RWV4OD%2BiH2LjOrUp6WWcpjxhq9folB%0A%2BuwHJKhvj1SGgt1qEKhqKE8VEQ%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/02-enabling-mfa.png)
 
-### 1.1 **Autentiseringsapp**
+### 1.1 **Godkjenningsapp**
 
-Du vil måtte installere en autentiseringspapp som du stoler på på din mobile enhet.
+For å komme i gang, installer en applikasjon på en mobilenhet som støtter TOTP-protokollen (Time-based one-time password). Installer en pålitelig godkjenningsapp på en mobilenhet for å komme i gang. Hvor lenge en godkjenningsapplikasjon har vært i bruk og jurisdiksjonen der selskapet som eier den er basert, er ofte gode ting å vurdere. Her er noen eksempler på anbefalte godkjenningsapplikasjoner:
 
-Vi anbefaler [Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en) og [Microsoft Authenticator](https://www.microsoft.com/en-us/account/authenticator) appene men du kan teoretisk bruke enhver applikasjon som støtter påkobling av MFA / Two factor authentication
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80; width: 139px;"><h3 id="h_b56161ee38"><b>Godkjenningsappens sikkerhetslover</b></h3></td><td style="background-color: #e3e7fa80; width: 101px;"><h3 id="h_49bc31efe9">Selskap</h3></td><td style="background-color: #e3e7fa80; width: 119px;"><h3 id="h_46b679c81c">Jurisdiksjon</h3></td><td style="background-color: #e3e7fa80;"><h3 id="h_7699fa4ab6">Sikkerhetslover som gjelder</h3></td></tr><tr><td style="width: 139px;"><h3 id="h_ae65255403">Aegis</h3></td><td style="width: 101px;"><p>Beem</p></td><td style="width: 119px;"><p>Nederland<br/>(Dordrecht)</p></td><td><p>GDPR<br/>Avtale med 9 øyne</p></td></tr><tr><td style="background-color: #e8e8e880; width: 139px;"><h3 id="h_42b556ff02">OTP Auth</h3></td><td style="background-color: #e8e8e880; width: 101px;"><p>Roland Moers</p></td><td style="background-color: #e8e8e880; width: 119px;"><p>Tyskland</p></td><td style="background-color: #e8e8e880;"><p>GDPR<br/>Bundesdatenschutzgesetz - BDSG <br/>Avtale med 14 øyne</p></td></tr><tr><td style="width: 139px;"><h3 id="h_5e0c03d260">Godkjenner</h3></td><td style="width: 101px;"><p>Google</p></td><td style="width: 119px;"><p>USA<br/>(California)</p></td><td><p>Clarifying Lawful Overseas Use of Data Act <i>(</i>CLOUD) Act</p></td></tr><tr><td style="background-color: #e8e8e880; width: 139px;"><h3 id="h_918c12706e">Microsoft Authenticator</h3></td><td style="background-color: #e8e8e880; width: 101px;"><p>Microsoft</p></td><td style="background-color: #e8e8e880; width: 119px;"><p>USA<br/>(Washington)</p></td><td style="background-color: #e8e8e880;"><p>Clarifying Lawful Overseas Use of Data Act <i>(</i>CLOUD) Act</p></td></tr><tr><td style="width: 139px;"><h3 id="h_b3a055f26d">Ente Auth</h3></td><td style="width: 101px;"><p>Ente</p></td><td style="width: 119px;"><p>USA (Delaware)</p></td><td><p>Clarifying Lawful Overseas Use of Data Act <i>(</i>CLOUD) Act</p></td></tr><tr><td style="background-color: #e8e8e880; width: 139px;"><h3 id="h_63d03979d2">IIJ SmartKey</h3></td><td style="background-color: #e8e8e880; width: 101px;"><p>Internet Initiative Japan</p></td><td style="background-color: #e8e8e880; width: 119px;"><p>Japan</p></td><td style="background-color: #e8e8e880;"><p>Lov om beskyttelse av personopplysninger (APPI)</p></td></tr><tr><td style="width: 139px;"><h3 id="h_848afb2dfa">HENNGE Lock</h3></td><td style="width: 101px;"><p>HENNGE K.K.</p></td><td style="width: 119px;"><p>Japan</p></td><td><p>Lov om beskyttelse av personopplysninger (APPI)</p></td></tr></tbody></table></div>
 
-**App tilganger**
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80; width: 138px;"><h3 id="h_5e28bb0eb3"><b>Godkjenningsappens funksjonalitet</b></h3></td><td style="background-color: #e3e7fa80; width: 88px;"><h3 id="h_6ed7d3e230">Utgivelsesdato</h3></td><td style="background-color: #e3e7fa80; width: 180px;"><h3 id="h_f652151c66">Operativsystem</h3></td><td style="background-color: #e3e7fa80;"><h3 id="h_824368384e">Kodeekstraksjon</h3></td></tr><tr><td style="width: 138px;"><h3 id="h_218c61c8b2">Aegis</h3></td><td style="width: 88px;"><p>2019</p></td><td style="width: 180px;"><p>Android</p></td><td><p>Eksporter til Full Plaintext eller Encrypted file. JSON / TXT / QR</p></td></tr><tr><td style="background-color: #e8e8e880; width: 138px;"><h3 id="h_0274ada2cb">OTP Auth</h3></td><td style="background-color: #e8e8e880; width: 88px;"><p>2020</p></td><td style="background-color: #e8e8e880; width: 180px;"><p>iOS</p></td><td style="background-color: #e8e8e880;"><p>Eksporter til proprietær fil / Vis hemmelighet</p></td></tr><tr><td style="width: 138px;"><h3 id="h_cc8ae8a27d">Godkjenner</h3></td><td style="width: 88px;"><p>2010</p></td><td style="width: 180px;"><p>iOS<br/>Android</p></td><td><p>Overføring til annen Google Authenticator-app med Google-konto</p></td></tr><tr><td style="background-color: #e8e8e880; width: 138px;"><h3 id="h_6d595cbd69">Microsoft Authenticator</h3></td><td style="background-color: #e8e8e880; width: 88px;"><p>2015</p></td><td style="background-color: #e8e8e880; width: 180px;"><p>iOS<br/>Android</p></td><td style="background-color: #e8e8e880;"><p>Overføring til annen Microsoft Authenticator-app med Microsoft-konto.</p></td></tr><tr><td style="width: 138px;"><h3 id="h_9cbe3f20d2">Ente Auth</h3></td><td style="width: 88px;"><p>2020</p></td><td style="width: 180px;"><p>iOS<br/>Android</p></td><td><p>JSON / TXT</p></td></tr><tr><td style="background-color: #e8e8e880; width: 138px;"><h3 id="h_425ee9cdba">IIJ SmartKey</h3></td><td style="background-color: #e8e8e880; width: 88px;"><p>2015</p></td><td style="background-color: #e8e8e880; width: 180px;"><p>iOS - 8.1+<br/>Android - 4.0+</p></td><td style="background-color: #e8e8e880;"><p>QR-kodeeksport per kode.</p></td></tr><tr><td style="width: 138px;"><h3 id="h_10c8930b4e">HENNGE Lock</h3></td><td style="width: 88px;"><p>2020</p></td><td style="width: 180px;"><p>iOS - Siste 2 hovedversjoner <br/>Android - siste 4 kodestykker</p></td><td><p>Ingen</p></td></tr></tbody></table></div>
 
-For å kunne scanne QR koden med ditt kamera vil du måtte gi din autentiseringsapp tilgang til kameraet op din enhet.
+Teoretisk sett kan enhver applikasjon som støtter MFA / Tofaktorgodkjenning via TOTP-protokollen brukes. Det finnes til og med stasjonærapplikasjoner, men disse anbefales ikke fordi stasjonærapplikasjoner ofte alltid er koblet til det samme nettverket, som ofte har flere enheter på seg, noe som øker risikoen for at en dårlig aktør får tilgang til koden.
 
-Når du installerer applikasjonen vil du bli spurt om du ønsker å gi kameratilganger bare når du bruker appen, spør hver gang eller ikke tillat.
+_Apptillatelser_ For at du skal kunne skanne QR-koden med kameraet på enheten. Godkjenningsappen trenger kameratillatelser for å kunne skanne koden. Applikasjonen kan be om tillatelse til å bruke kameraet på enheten. Tillatselsesalternativer kan omfatte: "Bare mens du bruker appen" - Appen har tillatelse mens den er i bruk. "Spør hver gang" - Tillatelse må gis ved hver bruk av appen. "Tillat ikke" - Tillatelse er ikke gitt eller tilbakekalt fra appen.
 
-Hvis du valgte spør hver gang vil du bli spurt for tilgang hver gang hvor du kan si ikke tillat som skrur av tilgangen for appen.
+_Google Authenticator_ Klikk på plusstegnet nederst til høyre og Scan en QR-kode. Her skal du skanne QR-koden som [godkjenningssiden](https://hub.catenda.com/account/authentication) gir deg. Alternativt kan du bruke kameraet ditt til å skanne koden og skrive inn oppsettnøkkelen som du ser i URL-en som åpnes.
 
-**Google Authenticator**
+_Microsoft Authenticator_ Kontroller at du er i Authenticator-menyen nederst.
 
-Klikk på pluss knappen nederst til høyre og Scan en QR code.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/03-authentication-app.png)
 
-Her vil du scanne QR konden som [autentiseringssiden](https://support.catenda.com/nb/articles/6880968-konto-siden#h_76f92e4ed6) gir deg.
+> **Merk:** forsikre deg om at du ikke er i Verified IDs-menyen da du kan skanne en QR-kode her, men dette vil ikke fungere.
 
-Alternativt kan du bruke kameraet for å scanne koden og skrive inn setup key som du ser i URL som åpnes.
+Klikk deretter på plusstegnet i den blå linjen øverst til høyre. Velg Annen konto (Google, Facebook, osv.) Hvis appen din ikke har tillatelse til kameraet ditt, kan du bli spurt om å gi tillatelse til kameraet ditt.
 
-**Microsoft Authenticator**
+Hvis appen din har tilgang til kameraet ditt, kan du skanne QR-koden som [autentiseringssiden](https://hub.catenda.com/account/authentication) gir deg.
 
-Pass på at du er på Authenticator menyen nederst.
+Hvis appen din ikke har tilgang til kameraet ditt, blir du bedt om å opprette en konto manuelt.
 
-![](https://downloads.intercomcdn.com/i/o/825376957/d0ca2f4ff3122f26c2dd335e/image.png?expires=1781092800&signature=be1fcb59fb1bfa4b45e2cd97b6ea4639f51a97ac61ba103a8b19816235d2ee72&req=fCIiFc54lIRYFb4V1XW4gStU4QZFJuspH3Amx6IfbI1PH8Ta9AUUSD4f5PCO%0AAP4KnLWAE5JAwe0UK5S1t71eeA%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/04-authentication-app.png)
 
-> **Merk:** Pass på at du ikke er i Verified IDs menyen etter som du kan scanne en qr kode her men dette vil ikke fungere.
+Kontonavn: Navnet du gir til kontoen din Hemmelig nøkkel: Dette er nøkkelen du ville ha fått hvis du hadde kunnet skanne QR-koden. Du kan bruke kameraappen din til å skanne koden. URLen som åpnes når du skanner koden kan se omtrent slik ut: `otpauth://totp/\<Catenda-kontoens e-postadresse>?secret=\<Hemmelig nøkkel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Hvis du skriver inn koden etter "`secret=`" i den hemmelige nøkkelen som du ser i URLen som åpnes, kan kontonavnet være hva som helst.
 
-Videre, klikk på pluss knappen i den blåe bjelken øverst til høyre.
+> **Merk:** Hvis du oppretter en konto med feil hemmelig nøkkel, vil appen fortsatt generere engangspasskoder, så Catenda godtar kanskje ikke koden hvis feil hemmelig nøkkel ble brukt.
 
-Selecter Other account (Google, Facebook, etc.)
+### 1.2 **Suksess eller mislykking**
 
-Hvis din app ikke har tilganger til ditt kamera kan det hende at du blir spurt om å gi tilgang til ditt kamera.
+_Suksess_ Etter å ha aktivert MFA vil du se denne meldingen.
 
-Hvis din app har tilgang til ditt kamera kan du scanne QR koden som [autentiseringssiden](https://support.catenda.com/nb/articles/6880968-konto-siden#h_76f92e4ed6) gir deg.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/05-success-or-fail.png)
 
-Hvis appen ikke har tilgang til ditt kamera vil du bli spurt om å manuelt lage en konto.
+Når det er aktivert, må du ha mobilenheten din ved hånden hver gang du logger på Catenda Hub. MFA kan deaktiveres igjen ved å klikke på Deaktiver MFA.
 
-![](https://downloads.intercomcdn.com/i/o/1073587443/5a6dda006a38943a4c11fc28/image.png?expires=1781092800&signature=6859b1a2a4081eacf5fe3e3b2cbc8cbc20fe23ba599c13b94523c6aef1a0d697&req=dSAgFcx2moVbWvMW3nq%2BgQ2uGk1EdfhU4hASnzRRD%2FCNPzlrB1T21b5PfCNs%0AoaOKhDzf4%2BW06huquS6IL07Iqqg%3D%0A)
+_Feil kode_ Hvis du ikke skrev inn riktig kode, får du meldingen feil kode.
 
-Account name: Navnet du gir til kontoen
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/06-success-or-fail.png)
 
-Secret key: Dette er nøkkelen di ville ha fårtt hvis du hadde scannet QR koden. Du kan bruke din kamera app for å scanne koden.
+> **Merk:** Hvis du har skannet QR-koden, kan du prøve å skrive inn koden innenfor tidsvinduet for denne koden mens du har denne menyen åpen. Hvis du lukker denne menyen, må du fjerne koden som genereres i autentiseringsappen din og skanne QR-koden igjen for å sette opp en ny kodekombinasjon.
 
-URL som åpner opp når du scanner koden kan se ut noe som dette: `otpauth://totp/\<Catenda konto epost addresse>?secret=\<hemmelig næøkkel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30`
+## 2. **Modifisering av MFA**
 
-Skriver inn koden etter "`secret=`" i URL som åpnes i secret key feltet.
+Etter å ha koblet til en MFA-kode kan du trygt redigere kontonavnet på koden. Du kan gjøre dette på følgende måter:
 
-Kontonavn kan være hva du ønsker.
+_Google Authenticator_
 
-> **Merk:** Hvis du oppretter konto med feil hemmelig nøkkel vil appen lage engangspassord uansett så det kan hende Catenda ikke godtar koden hvis feil hemmelig nøkkel var brukt.
+1. Trykk lenge på koden
+2. Klikk på blyanten øverst til høyre for å endre navn.
 
-### 1.2 **Suksess eller feil**
-
-**Suksess**
-
-Etter at MFA koblingen er vellykket vil du se denne meldingen.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1278990979/c59adcb79ff50b83d8033567012f/image.png?expires=1781092800&signature=182c90e3d25c9d878c8438ca7666966d4526d30e07f659db14a7b04c70bbd115&req=dSIgHsB3nYhYUPMW3nq%2BgUqszxpod5dyIKfEaYTXklFljinW%2FXJpI%2BKOEkSH%0ARboyWe4asviqZJzxnej60YXmMNg%3D%0A)
-
-Så snart den er koblet vil du måtte ha din mobile enhet tilgjengelig hver gang du ønsker å logge inn på Catenda Hub.
-
-MFA kan skrus av igjen ved å klikke på Deaktiver MFA.
-
-**Feil kode**
-
-Om du ikke la inn riktig kode vil du få meldingen feil kode.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1278990977/a32126255de11e5dd081dbb2cd14/image.png?expires=1781092800&signature=399eb9649bed8ecc9bcc0dbb74ca49b0e0e17f80b348b27e156e93dd4e770a53&req=dSIgHsB3nYhYXvMW3nq%2BgXKvkZmZ9xp11h1Ky4RZuL2n58N9AFZ3OwKMnsJT%0ARn0aT7hlHvyeH%2F%2FKkbwScV4CNro%3D%0A)
-
-> **Merk:** Om du har scannet QR-Koden kan du forsøke å skrive inn koden innen det gitte tidsrammet for koden igjen mens du har denne menyen åpent. Hvis du lukker menyen vil du måtte fjerne koden som genereres i din autentiseringsapp og scanne QR-Koden på nytt for å sette opp en ny kode kobling.
-
-## 2. **Endre MFA**
-
-Etter å ha koblet på en MFA kode kan du på en sikker måte rediger kontonavn til koen.
-
-Du kan gjøre dette på følgende måter:
-
-**Google authenticator**
-
-1. Hold inn koden
-1. Klikk på blyanten øverst til høyre for å endre navnet.
-
-**Microsoft authenticator**
+_Microsoft Authenticator_
 
 1. Klikk på koden.
-1. Klikk på tannhjulknappen øverst til høyre.
-1. Klikk på blyanten for å endre navnet.
+2. Klikk på tannhjulet øverst til høyre
+3. Klikk på blyanten for å endre navn
 
-## 3. **Overføre MFA**
+## 3. **Overføring av MFA**
 
-**Deaktivere og reaktivere**
+_Deaktivering og reaktivering_ Det er bare mulig å bruke én MFA-app-kodekombinasjon om gangen. Hvis du ønsker å bytte til en annen kodekombinasjon, kanskje fordi den nåværende har blitt kompromittert, følger du disse trinnene: Du bør også bruke denne metoden hvis du ønsker å endre appen du bruker for MFA.
 
-Det er bare mulig å bruke en MFA app kode kobling av gangen.
+1. Deaktiver MFA på [autentiseringssiden](https://hub.catenda.com/account/authentication)
+2. Forbered appen du vil bruke for å koble til MFA på nytt
+3. Generer en ny kodekombinasjon ved å skanne QR-koden som i [aktiveringsavsnittet](#enabling-mfa)
 
-Hvis du ønsker å bytte til en forskjellige kode kobling, kanskjer fordi din gjeldende er kompromittert, kan du følge disse steg:
+> **Merk:** Vær forsiktig med denne metoden da kontoen din vil være midlertidig sårbar mens den er deaktivert, og du vil ikke kunne få tilgang til prosjekter der MFA er påkrevd i løpet av denne tiden.
 
-Du kan også bruke denne metoden hvis du ønsker å endre appen du bruker for MFA.
+_Overføring via sikkerhetskopi_ Hvis du ønsker å begynne å bruke en ny enhet uten at koden din midlertidig blir deaktivert, kan du bruke en annen installasjon av samme MFA-app og overføre koden fra den gamle installasjonen til den nye installasjonen.
 
-1. Deaktiver din MFA på [autentiseringssiden](https://support.catenda.com/nb/articles/6880968-konto-siden#h_76f92e4ed6)
-1. Gjør klar appen du ønsker å bruke for å koble på din MFA
-1. Generer en ny kode-kobling ved å scanne QR koden som i [påkoblingsavsnittet](#h_213609947a).
+_Google Authenticator_ Gammel enhet:
 
-> **Merk:** Være forsiktig med denne metoden etter som din konto midlertidig vil være sårbar mens den er deaktivert og du vil ikke ha tilgang til prosjekter hvor MFA er påkrevd under denne tiden.
-
-**Overføre gjennom backup**
-
-Hvis du ønsker å starte å bruke en ny enhet uten at din kode midlertidig blir frakoblit kan du buke en annen installasjon til MFA appen og overføre koden fra den gamle installasjonen til den nye installasjonen.
-
-**Google authenticator**
-
-Gammel enhet:
-
-1. Tapp på aksjonsmenyen øverst til høyre
-1. Tapp på Export accounts
-1. Selekter kontoene du ønsker å eksportere
+1. Trykk på hamburgermenyene øverst til høyre
+2. Trykk på Eksporter kontoer
+3. Velg kontiene du vil eksportere
 
 Ny enhet:
 
-1. Tapp på aksjonsmenyen øverst til høyre
-1. Tapp på importer kontoer
-1. Tapp på scan QR kode
-1. Scan QR koden som er vist på den ganle enheten hvor du gikk gjennom eksporteringsprosessen.
+1. Trykk på hamburgermenyene øverst til høyre
+2. Trykk på Importer kontoer
+3. Trykk på Skann QR-kode
+4. Skann QR-koden som vises på den gamle enheten når du gikk gjennom eksportprosessen.
 
-**Microsoft authenticator**
+_Microsoft Authenticator_ Gammel enhet:
 
-Gammel enhet:
-
-1. Tapp aksjonsmenyen øverst til høyre
-1. Skru på backup
+1. Trykk på hamburgermenyene øverst til høyre
+2. Slå på sikkerhetskopi
 
 Ny enhet:
 
-1. Installer og åpne Microsoft Autentiseringsappen på din nye enhet.
-1. Tapp "Begin Recovery."
+1. Installer og åpne Microsoft Authenticator-appen på den nye enheten din
+2. Trykk på "Begin Recovery."
 
-> **Merk 1:** Still ikke inn noen konto ved å bruke Microsoft Authenticator til etter at du har brukt Recovery tool siden det bare vil overskrive eksisterende kontoer.
+> **Merk 1:** Ikke sett opp noen kontoer ved hjelp av Microsoft Authenticator før du har brukt Gjenoppretting-verktøyet fordi det vil overskrive samsvarende nettstedkontoer.
 
-> **Merk 2:** Denne metoden krever at du lager en backup av dine MFA koder som betyr at de er lagre ti din app leverandørs skytjeneste. Bare bruk denne metoden hvis du stoler på din app leverandørs skytjeneste. Hvis ikke er det bedre å deaktivere og reaktivere.
+> **Merk 2:** Denne metoden krever at du sikkerhetskopierer MFA-kodene dine, noe som betyr at de lagres i skyservice fra appleverandøren din. Bruk denne metoden bare hvis du stoler på sikkerhetskopiservicen til appleverandøren din. Hvis ikke er det bedre å deaktivere og reaktivere.
 
-## 4. **Koble av MFA**
+## 4. **Deaktivering av MFA**
 
-Du kan koble av MFA ved å klikke på Deaktiver kanppen vist over, for å så skrive inn ditt passord og godta. Etter å ha koblet av vil du ikke lenger ha tilgang til prosjekter som krever MFA.
+Du kan deaktivere MFA ved å klikke på deaktiveringsknappen vist ovenfor, deretter skriver du inn passordet ditt for å bekrefte. Etter deaktivering vil du ikke lenger være i stand til å få tilgang til prosjekter som krever MFA.
 
-Etter å ha koblet av koden på Catenda Hub vil koden bli igjen på applikasjonen du koblet med. Denne koden vil nå være ubrukelig og kan slettes med sikkerhet.
+Etter å ha deaktivert koden på Catenda Hub, vil koden forbli på applikasjonen du koblet til. Denne koden vil nå være ubrukelig og kan trygt slettes.
 
-### 4.1 **Hvordan å slette den gamle koden:**
+### 4.1 **Slik sletter du den gamle koden:**
 
-**Google authenticator**
+_Google Authenticator_
 
-1. Hold inn koden
-1. Klikk på søppelikonet øverst til høyre.
+1. Trykk lenge på koden
+2. Klikk på søppelkassen øverst til høyre.
 
-**Microsoft authenticator**
+_Microsoft Authenticator_
 
 1. Klikk på koden.
-1. Klikk på tannhjulsknappen øverst til høyre.
-1. Klikk på fjern konto
+2. Klikk på tannhjulet øverst til høyre
+3. Klikk på Fjern konto
 
-## 5. **MFA på ikke-mobile enheger**
+## 5. **MFA på ikke-mobile enheter**
 
-Autentiseringskonto er mer sikre enn SMS/E-post kode løsninger siden det ikke er kommunikasjon som kan lekke ut i kommunikasjonen mellom to systemer etter den originale konfigurasjonen.
+Autentiseringsapper er tryggere enn SMS/e-postkodelløsninger fordi det ikke er noen kommunikasjon som kan avskjæres mellom de to systemene etter den opprinnelige konfigurasjonen. Selv om det er bedre å bruke en app på en mobilapplikasjon, se merknaden nedenfor, det er mulig å få MFA-koder på andre systemer enn bare mobilenheter. Det anbefalte skrivebordsprogrammet for dette er [Authy](https://authy.com/). Funksjonelt bruker disse typer applikasjoner samme TOTP-protokoll som appen på mobilenheten din og bør være like sikker.
 
-Siden det er bedre å bruke en app på en mobil applikasjon, se notatet under, er det mulig å få MFA koder på andre system enn bare mobile enheter.
+> **Advarsel:** Skrivebordapper kan være mindre sikre siden de kan være lettere å hacke eller få tilgang til. Dette er fordi skrivebordssystemer ofte, hvis ikke alltid, er koblet til det lokale nettverket som kan være infisert. Mobilenheter som ikke alltid er koblet til nettverket kan derfor være vanskeligere å få tilgang til.
 
-Den anbefalte desktop applikasjonen for dette er [Authy](https://authy.com/).
+## 6. **Hvem kan påtvinge MFA på prosjekter?**
 
-Funksjonsmessig bruker disse typer applikasjoner samme TOTP protokoll som appen på din mobile enhet og bør være like sikre.
+Bedriftskunder kan be om at et [organisasjonsalternativ](https://support.catenda.com/en/articles/8224886-organization-options#h_d6710faf75) slås på, slik at alle brukere som er del av prosjektene deres må bruke MFA for å få tilgang til prosjektet. For å aktivere MFA på organisasjonens prosjekter, kontakt Catenda Support. Når MFA er påkrevd på en organisasjons prosjekter, vil du se denne meldingen når du prøver å åpne prosjektet.
 
-> **Merk:** Desktop applikasjoner kan være mindre sikkert ettter som de kan være letter å hacke eller få tilgang til. Dette er fordi dekstop systemer ofte, hvis ikke alltid, er koblet på det lokale nettverket som kan være infisert. Mobile enheter som ikke llatid er koblet på nettverket kan derfor være vanskeligere å komme inn på.
-
-## 6. **Hvem kan påkreve MFA på prosjekt?**
-
-Enterprise kunder kan be om at [organisasjonsvalget](https://support.catenda.com/nb/articles/8224886-organisasjonsvalg#h_aab0a5f0fa) for MFA skrus på. Dette valget gjør at alle brukere som er del av deres prosjekt må bruke MFA for å komme inn på prosjektet.
-
-For å skru på MFA for din organisasjon sine prosjekter, kontakt Catenda support. Når MFA er påkrevd for prosjektene til en organisasjon vil du se denne meldingen ved et forsøk på å åpne prosjektet.
-
-![](https://downloads.intercomcdn.com/i/o/710237963/cc33c301cac2faaeaf8abb7e/image.png?expires=1781092800&signature=0a241c1b7d754dac6ac7f3fbfb908a97d6aad26a98db0773434988edd6c61515&req=cyEnFMp5lIdcFb4V1XW4geDBTPE7FEI38r7z7CIHG0OMPqmboH9ClY59uD%2F2%0APKhzmnNJ76NXpaOhL%2BVeRBzIhw%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/07-who-can-enforce-mfa-on-projects.png)

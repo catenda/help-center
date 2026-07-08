@@ -1,55 +1,111 @@
-# QR-Koder på PDFer i Catenda
+# QR-kode på PDF-er i Catenda
 
-Denne funksjonen gir brukere til Caenda en funksjon for å sjekke om dokumentet de bruker er den siste versjonen ved å scanne QR-koden printet på PDFen.
+QR-koder kan konfigureres per mappe i [mappen konfigurering](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90) av [dokumentinnstillinger](https://support.catenda.com/en/articles/7831371-document-settings).
 
-For å kunne ta i bruk denne funksjonen vil du måtte plassere en **[placeholder QR-kode](https://drive.google.com/file/d/1SbGcp8hC8l7854HOCZuI8o-WIBMWrsyF/view)** levert av Catenda på ditt dokument for å så laste opp dokumentet til Catenda Hub. Koden må ha minstestørrelse av 2cm ved 2cm.
+Denne funksjonen gir brukere av Catenda muligheten til å kontrollere om Dokumenter de bruker er den nyeste versjonen ved å skanne QR-koden som er skrevet ut på PDF-en.
 
-![](https://downloads.intercomcdn.com/i/o/1129210747/3afe134405c9c151b8ed9936/image.png?expires=1781092800&signature=c2ea1933f269989980b29fa6c815f2115ec45196d7a904078bb197360e86fddf&req=dSElH8t%2FnYZbXvMW3nq%2BgZCIR8olrrgqRy31Ne2%2BudU3rI2Jb6gXfXlYW6X%2F%0AXNTNl9vBqIGhWJFcubOVyA7Cdis%3D%0A)
+## 1. **Konfigurer QR-kode på Catenda Hub**
 
-**[Placeholder QR-kode](https://drive.google.com/file/d/1SbGcp8hC8l7854HOCZuI8o-WIBMWrsyF/view)**
+Tilordningen av QR-kode gjøres via mapper, noe som betyr at hver prosjektadministrator kan bestemme et utvalgt sett med mapper som skal ha denne funksjonen.
 
-### Still inn QR-kode på Catenda Hub
+Dette er trinnene for å tilordne QR-kodefunksjonen til mapper i prosjektet ditt;
 
-QR-kode tildelingen er satt opp via mapper som betyr du kan bestemme at funksjonen skal være aktivert for en bestemt rekke med mapper.
+1. Under Dokumenter —> innstillinger, gå til **'mappekonfigurering'**
 
-_Tilgang påkrevd:_ Prosjektadministrator.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/01-setup-qr-code-on-catenda-hub.png)
 
-Under finner du steg for å aktivere QR-kode funksjonen til mapper i ditt prosjekt.
+2\. Klikk på pluss-tegnet ved siden av den ønskede mappen for å åpne mappen sin konfigurering, og under 'tilordne QR-kode' sier du **'ja'**
 
-1. På dokumentinnstillinger siden, gå til **[mappekonfigurasjon](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90)**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/02-setup-qr-code-on-catenda-hub.png)
 
-![](https://downloads.intercomcdn.com/i/o/1058260520/dddd82c067f7b46accb5b32c/image.png?expires=1781092800&signature=e7941acca8aedcea4e848c67e0007a4e09578fab49b5e5c9a824b181ac99454a&req=dSAiHst4nYRdWfMW3nq%2BgRkR2h4rS0XQNc9lbtEQewqJ6NZ6VLakXmSCbXYB%0AVxWNDann97ZsWaqAzYsRKbOcTVk%3D%0A)
+Skanning av plassholdere og plassering av QR-koder vil kun finne sted i mapper med QR-kodetilordning;
 
-2. Klikk på pluss knappen ved siden av mappen du ønsker å aktivere funksjonen for for å åpne mappekonfigurasjonen. Under tildel QR kode si **ja**.
+> **Merk:** Når en overordnet mappe er Tildelt til, vil alle undermapper ha denne tilordningen. QR-koder kan Tildelt til enhver mappe når en overordnet mappe ikke allerede er Tildelt til.
 
-![](https://downloads.intercomcdn.com/i/o/1058261375/a52f5da19606885304d919f1/image.png?expires=1781092800&signature=4c64a3d24c6c5463ebe93bbe1059a2dbb1bb4338b4ad72cfa53803d88d531b46&req=dSAiHst4nIJYXPMW3nq%2BgSrY7yhARKJj3Bos80hgsCYYWj1IyWqj837ROIDg%0ADGVbmygamuvFA2FrHAL5c1SXMPw%3D%0A)
+## 2. Plassering av plassholderen i Dokumenter ditt
 
-Scanningen av placeholdere og plasseringen av QR-koder vil bare foregå i mapper med QR-kode tildelingen.
+For å bruke denne funksjonen må du plassere **[QR-kodeplassholderen](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)**, levert av Catenda, på Dokumenter ditt og deretter laste opp til Catenda Hub. _Dimensjonskrav:_ Dette må ha en minimumsstørrelse på 2 cm x 2 cm.
 
-> **Merk:** Så snart en foreldermappe er tildelt vil alle under-mapper ha denne tildelingen. QR-koder kan tildeles til enhver mappe så lenge forelder mappen ikke allere er tildelt.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/03-placing-the-placeholder-in-your-document.png)
 
-### Publisering med QR-koder
+Nedlastingslenken for QR-koden finner du her:
 
-1. Last opp en ny revisjon av en PDF med placeholder i en mappe med QR-kode tildeling
-1. Under publiseringen vil PDFen scannes for placeholder og erstattes med en QR-kode (generert for denne revisjonen)
-1. Den nylig genererte QR-koden vil være del av PDFen som kan vises/scannes på Catenda Hub og/eller lastes ned.
+_[Nedlastingslenke](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)_
 
-![](https://downloads.intercomcdn.com/i/o/1058270845/bbf3025f7cf4ce2c44e5ff3a/image.png?expires=1781092800&signature=87316e36cd478d482c98ab3fde729320404c1178d31708e40ca8cb797844e67a&req=dSAiHst5nYlbXPMW3nq%2BgcetveFGeYCsO6kaiNDTAeDsrR86FZzvPBsliNcU%0AoJizxECcx70jjX9lsLKDjBubHOo%3D%0A)
+### 2.1 Plassering av QR-koden som filforfattter
 
-Her er et eksempel på plasseringen av placeholderen til QR-koden og resultatet etter å ha lastet den opp til Catenda Hub. 1. Placeholder i tittel delen av tegningen. **Klar for opplasting**.
+Siden Dokumenter ikke kan endres etter at de er lastet opp til Catenda, er det viktig at plassholder-QR-koden plasseres på Dokumenter før den lastes opp til Catenda. Plassholderen kan plasseres på hvilket som helst lag unntatt annoteringlegt. For at Catenda skal gjenkjenne QR-koden, må den legges til som et bilde. Bildet i det publiserte Dokumenter må være nøyaktig det samme bildet som plassholder-bildet.
 
-![](https://downloads.intercomcdn.com/i/o/1128898386/b042fd79d7595f8d12a0159c/image.png?expires=1781092800&signature=7b305493e3afeef99f797c6bde7577f9ee147be9259ffd5234d136ceb18b19a5&req=dSElHsF3lYJXX%2FMW3nq%2BgcCYNHtVa2O6MpBCTIpzHdyIjlAArQsK42e3eW8C%0ARJ8ENFmJfkyirg6BcnLQ%2FlGVRgM%3D%0A)
+_PDF-optimalisering_ Mange programmer utfører optimaliseringstrinn for bedre visning og mindre filstørrelse. Disse trinnene kan endre antall byte i bildet, noe som gjør at Catenda ikke gjenkjenner det lenger. Her er noe informasjon om plassholderen som kan hjelpe med optimalisering. Pikseltettheten: 144 dpi Bildekomprimering: ZIP Bildet må være ett helt bilde. Noen optimaliserere kan dele bildet som en optimalisering. Vennligst sørg for at bildet er helt etter optimalisering.
 
-2. Placeholder i tittel delen er erstattet med den genererte QR koden. **Klar for bekreftelse**.
+_Archicad_ Når du plasserer QR-koden, bruk: Importer > interoperabilitet > flett fra fil > importer og åpne regneark > dra og slipp Hvis du åpner regnerket og drar og slipper PNG-en, endres oppløsningen og fungerer ikke.
 
-![](https://downloads.intercomcdn.com/i/o/1129687828/6fba8f5b78f9f26b6c0e5b25/image.png?expires=1781092800&signature=55a085321bf04009ffc5682bedfb937e1a8a745978110ea5fa2e653c230c60eb&req=dSElH892moldUfMW3nq%2BgZOaMeorej4wNegl5eWFN3XW6bJCLqd8omIpfqDg%0AO6V0qLi3tjmDOiAbb2n%2BOrLzNCo%3D%0A)
+### 2.2 Plassering av QR-koden på et eksisterende Dokumenter
 
-### Bekreftelse av siste revisjon
+Hvis du har et Dokumenter som du ikke opprettet, og du vil legge til QR-plassholderen før du laster det opp til Catenda Hub, må du redigere Dokumenter og legge til QR-plassholderen som et bilde.
 
-Scanning av QR-koden med din mobile enhet vil ta deg til bekreftelse siden hvor følgende resultater sukker opp angående på versjonen til PDFen.
+### 2.3 Plassering av QR-koden et Catenda-Dokumenter
 
-1. Din revisjon er siste versjon til PDFen: **Dokument gjeldende**
-1. Din revisjon er en eldre versjon av PDFen: **Dokument ugyldig**
-1. Du scannet en placeholder: **Du scannet en placeholder, dette dokumentet er ikke publisert.**
+Hvis Dokumenter ditt allerede er på Catenda, må du legge til QR-plassholderen og laste opp en ny revision. Hvis du ikke har tilgang til et PDF-redigeringsprogram, kan du bruke [merkingsverktøyet for bilder](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations#h_6e3ac983b6) til å legge til QR-plassholderen i Dokumenter ditt.
 
-    <div class="intercom-container"><img height="684" src="https://downloads.intercomcdn.com/i/o/1128836302/b5ed664002c909cad1388c1c/image.png?expires=1781092800&amp;signature=e32a0bc159c2fe53c0580cf78540908f18b726e36d6e988f6fd07bba7b2f7069&amp;req=dSElHsF9m4JfW%2FMW3nq%2BgRAbWSa0uwekHXdmw0dniPvD%2F48H6GJmWGPMPCrC%0AngeKuBJW%2FPMavpOc%2Btwvf9PFqVY%3D%0A" style="height: auto;" width="1079"/></div>
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/04-placing-the-qr-code-a-catenda-document.png)
+
+For å lagre Dokumenter så QR-plassholderen vil bli gjenkjent, skriver du ut Dokumenter med [utskriftsknappen](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations#h_709cb0ed70) som finnes øverst til venstre i forhåndsvisningen av Dokumenter ditt.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/05-placing-the-qr-code-a-catenda-document.png)
+
+Dette åpner utskriftsdialogen til nettleseren din. Her er hva det kan se ut som for Google Chrome:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/06-placing-the-qr-code-a-catenda-document.png)
+
+I utskriptsdialogen skriver du ut Dokumenter til PDF.
+
+> **Merk 1:** QR-koden vil bare ende opp på innholdslaget hvis du skriver ut Dokumenter. Hvis du laster ned Dokumenter vil det være på annoteringlegt. **Merk 2:** Ved å skrive ut til PDF rasteriserer du innholdet i Dokumenter. Dette betyr at teksten ikke er søkbar når du laster den opp som en revision til Catenda.
+
+Den utskrevne PDF-en med plassholderen kan nå lastes opp som en ny revision til Catenda. For å holde revisjonhistorikken din ren, kan det være lurt å trekke tilbake den forrige revisjonen uten QR-koden.
+
+## 3. **Publisering med QR-koder**
+
+1. Last opp en ny revision av en PDF med plassholderen til en mappe med QR-kodetilordning
+2. Under publisering vil PDF-en bli skannet for plassholderen og erstattet med en QR-kode (generert for denne revisjonen)
+3. Den nylig genererte QR-koden vil bli en del av PDF-en, som kan vises/skannes på Catenda Hub og/eller lastes ned.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/07-publishing-with-qr-codes.png)
+
+Her er et eksempel på plasseringen av QR-kodeplassholderen og resultatene etter lasting opp til Catenda Hub. 1\. Plassholderen i tittelblokken til en tegning. **Klar for lasting opp.**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/08-publishing-with-qr-codes.png)
+
+2\. Plassholderen i tittelblokken erstattes med den genererte QR-koden. **Klar for verifisering.**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/09-publishing-with-qr-codes.png)
+
+### 3.1 **Dokumenter-Historikk**
+
+Etter å ha lastet opp et Dokumenter med en plassholder-QR-kode, kan du se at den har blitt prosessert i Dokumenter-historikken til [høyremeny](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision).
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/10-document-history.png)
+
+Hvis genereringen av QR-koden din har mislyktes, kan det være fordi QR-koden din var mindre enn 2 cm x 2 cm eller den ble plassert som en merknad i stedet for et bilde.
+
+_Flatting av merknader_ Noen programvare tillater deg å flate merknader som tillater plassholderfunksjonen å bli prosessert. Her er noen eksempler:
+
+_PDF X-change_
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/11-document-history.png)
+
+_Adobe Acrobat_
+
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-3d7d02c461d3.png" width="300"/> --> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-3398dc9eef22.png" width="300"/>
+
+_BlueBeam Revu_ Når du plasserer plassholderen i BlueBeam Revu og lagrer Dokumenter, vil det bli lagt til som en merknad. Det er mulig å flate QR-koden for å gjøre den til en del av innholdslaget i Dokumenter, men selv når du lagrer det regelmessig eller bruker alternativer for redusert filstørrelse, vil QR-koden bli endret og vil ikke fungere med Catenda. For å gjøre QR-koden kompatibel med Catenda, gjør du i stedet: Skriv ut Dokumenter med BlueBeam-driveren:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/12-document-history.png)
+
+I «Lagre som»-dialogen velger du ZIP-grafikk og aktiverer etterbehandling. Dette er fordi komprimeringsalgoritmen som brukes for plassholderen er ZIP.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/13-document-history.png)
+
+I etterbehandlingsmenyen velger du alternativet Kombinere tilstøtende bilder. Dette er fordi bildet vanligvis vil bli delt i to, så det kombinerer det igjen. Hvis sidestørrelsen din ikke finnes som et standardalternativ, kan du legge til din egen tilpassede her:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/14-document-history.png)

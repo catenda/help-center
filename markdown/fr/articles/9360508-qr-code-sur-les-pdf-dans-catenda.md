@@ -1,155 +1,111 @@
-# QR-Code sur les PDF dans Catenda
+# Code QR sur les fichiers PDF dans Catenda
 
-Les codes QR peuvent être configurés par dossier dans la [configuration des dossiers](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90) des [paramètres du document](https://support.catenda.com/en/articles/7831371-document-settings).
+Les codes QR peuvent être configurés par dossier dans la [configuration de dossier](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90) des [paramètres de Documents](https://support.catenda.com/en/articles/7831371-document-settings).
 
-Cette fonction permet aux utilisateurs de Catenda de vérifier si le document qu'ils utilisent est la dernière version, en scannant le code QR imprimé sur le PDF.
+Cette fonction fournit aux utilisateurs de Catenda la possibilité de vérifier si le Documents qu'ils utilisent est la version la plus récente, en scannant le code QR imprimé sur le fichier PDF.
 
-Cet article contient des informations sur les sujets suivants :
+## 1. **Configuration du code QR sur Catenda Hub**
 
-## 1. Placer le Placeholder dans votre document
+L'assignation du code QR s'effectue via des dossiers, ce qui signifie que chaque administrateur de projet peut décider d'un ensemble sélectionné de dossiers pour activer cette fonction.
 
-Pour utiliser cette fonction, vous devez placer le **[code QR](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)** fourni par Catenda dans votre document et le télécharger ensuite dans Catenda Hub.
+Voici les étapes pour assigné la fonction de code QR aux dossiers de votre projet ;
 
-_Dimensions requises :_ Le code doit avoir une taille minimale de 2 cm sur 2 cm.
+1. Sous le Documents —> paramètres, accédez à **'configuration de dossier'**
 
-![](https://downloads.intercomcdn.com/i/o/1129210747/3afe134405c9c151b8ed9936/image.png?expires=1781092800&signature=c2ea1933f269989980b29fa6c815f2115ec45196d7a904078bb197360e86fddf&req=dSElH8t%2FnYZbXvMW3nq%2BgZCIR8olrrgqRy31Ne2%2BudU3rI2Jb6gXfXlYW6X%2F%0AXNTNl9vBqIGhWJFcubOVyA7Cdis%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/01-setup-qr-code-on-catenda-hub.png)
 
-Le lien de téléchargement du QR-Code se trouve ici :
+2\. Cliquez sur le plus à côté de votre dossier souhaité pour ouvrir la configuration du dossier et sous 'assigné un code QR' dites **'oui'**
 
-**[Lien de téléchargement](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/02-setup-qr-code-on-catenda-hub.png)
 
-### 1.1 Placer le code QR en tant qu'auteur du fichier
+La numérisation des espaces réservés et le placement des codes QR ne s'effectueront que sur les dossiers avec assignation de code QR ;
 
-Comme les documents ne peuvent pas être modifiés après avoir été téléchargés sur Catenda, il est important que le QR-Code soit placé sur le document avant qu'il ne soit téléchargé sur Catenda.
+> **Remarque :** Une fois qu'un dossier parent est assigné, tous les sous-dossiers auront cette assignation. Les codes QR peuvent être assignés à n'importe quel dossier une fois qu'un dossier parent n'a pas déjà été assigné.
 
-Le placeholder peut être placé sur n'importe quelle couche, à l'exception de la couche d'annotation.
+## 2. Placement de l'espace réservé dans votre Documents
 
-Pour que Catenda reconnaisse le QR-Code, il doit être ajouté en tant qu'image. L'image dans le document publié doit être exactement la même que celle de l'espace réservé.
+Pour utiliser cette fonction, vous devez placer l'**[espace réservé du code QR](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)**, fourni par Catenda, sur votre Documents, puis le télécharger sur Catenda Hub. _Exigence de dimension :_ Cela doit avoir une taille minimale de 2 cm sur 2 cm.
 
-**Optimisation des PDF**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/03-placing-the-placeholder-in-your-document.png)
 
-De nombreux programmes effectuent des étapes d'optimisation afin d'améliorer l'affichage et de réduire la taille du fichier. Ces étapes peuvent modifier le nombre d'octets de l'image, ce qui fait que Catenda ne la reconnaît plus.
+Le lien de téléchargement du code QR peut être trouvé ici :
 
-Voici quelques informations sur l'image de remplacement qui peuvent aider à l'optimisation.
+_[Lien de téléchargement](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)_
 
-Densité de pixels : 144 dpi
+### 2.1 Placement du code QR en tant qu'auteur de fichier
 
-Compression de l'image : ZIP
+Comme les Documents ne peuvent pas être modifiés après leur téléchargement sur Catenda, il est important que l'espace réservé du code QR soit placé sur le Documents avant qu'il ne soit téléchargé sur Catenda. L'espace réservé peut être placé sur n'importe quelle couche sauf la couche d'annotation. Pour que Catenda reconnaisse le code QR, il doit être ajouté en tant qu'image. L'image dans le Documents publié doit être exactement la même image que l'image de l'espace réservé.
 
-L'image doit être une image entière. Certains optimiseurs peuvent diviser l'image pour l'optimiser. Veuillez vous assurer que l'image est entière après l'optimisation. _Archicad_ Lorsque vous placez le code qr, veuillez utiliser :
+**Optimisation des fichiers PDF** De nombreux programmes effectuent des étapes d'optimisation pour une meilleure visualisation et une réduction de la taille des fichiers. Ces étapes pourraient modifier la quantité d'octets dans l'image, ce qui ferait que Catenda ne la reconnaîtrait plus. Voici quelques informations sur l'espace réservé qui peuvent aider à l'optimisation. Densité de pixels : 144 dpi Compression d'image : ZIP L'image doit être une seule image complète. Certains optimiseurs pourraient diviser l'image en tant qu'optimisation. Veuillez vous assurer que l'image est complète après optimisation.
 
-Importation > interpolation > fusion à partir d'un fichier > importation et ouverture d'une feuille de calcul > glisser-déposer
+_Archicad_ Lors du placement du code qr, veuillez utiliser : Importer > interopérabilité > fusionner à partir du fichier > importer et ouvrir feuille de calcul > glisser-déposer Si vous ouvrez la feuille de calcul et glissez-déposez le PNG, la résolution changera et ne fonctionnera pas.
 
-Si vous ouvrez la feuille de travail et que vous glissez-déposez le PNG, la résolution changera et cela ne fonctionnera pas.
+### 2.2 Placement du code QR sur un Documents existant
 
-### 1.2 Placer le QR-code sur un document existant
+Si vous avez un Documents que vous n'avez pas créé et que vous souhaitez ajouter l'espace réservé du code QR avant de le télécharger sur Catenda Hub, assurez-vous d'éditer le Documents et d'ajouter l'espace réservé du code QR en tant qu'image.
 
-Si vous avez un document que vous n'avez pas créé et que vous souhaitez ajouter le QR-Placeholder avant de le télécharger sur Catenda Hub, assurez-vous d'éditer le document et d'ajouter le QR-Placeholder en tant qu'image.
+### 2.3 Placement du code QR sur un Documents Catenda
 
-### 1.3 Placer le QR-code sur un document Catenda
+Si votre Documents est déjà sur Catenda, vous devrez ajouter l'espace réservé du code QR et télécharger une nouvelle révision. Si vous n'avez pas accès à un programme d'édition PDF, vous pouvez utiliser l'[outil d'annotation de tampon d'image](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations#h_6e3ac983b6) pour ajouter l'espace réservé du code QR à votre Documents.
 
-Si votre document est déjà sur Catenda, vous devrez ajouter le QR-Placeholder et télécharger une nouvelle révision. Si vous n'avez pas accès à un programme d'édition de PDF, vous pouvez utiliser l'[outil d'annotation de timbre-image](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations#h_6e3ac983b6) pour ajouter le QR-placeholder à votre document.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/04-placing-the-qr-code-a-catenda-document.png)
 
-![](https://downloads.intercomcdn.com/i/o/1165885061/ae025a55c35d673b26d3b3ec/image.png?expires=1781092800&signature=f469acea7eb841bcc95627902b16ee5ed109ab644f6afc371231b6d465916809&req=dSEhE8F2mIFZWPMW3nq%2Bga02mppt6hBCA90R4m71PN0kw8C4zyvbvgGu9rh3%0ADTOcjhPIJS2btWeIeuUssChmLaY%3D%0A)
+Pour enregistrer le Documents afin que l'espace réservé du code QR soit reconnu, imprimez le Documents avec [le bouton d'impression](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations#h_709cb0ed70) que vous pouvez trouver en haut à gauche de votre aperçu de Documents.
 
-Pour enregistrer le document de manière à ce que le marqueur QR soit reconnu, imprimez le document à l'aide du [bouton d'impression](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations#h_709cb0ed70) qui se trouve en haut à gauche de l'aperçu du document.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/05-placing-the-qr-code-a-catenda-document.png)
 
-![](https://downloads.intercomcdn.com/i/o/1165883068/4a74577bed69bc1c9d03fb70/image.png?expires=1781092800&signature=6bed605d6f4023da5dd176c37e0bcb02c2260da48b745b166ca9180ffd2634be&req=dSEhE8F2noFZUfMW3nq%2BgbP8OSnIbWHHuDUSH4RtEiAwcPStemLi4y8ICBXM%0AnUVMJVgMAm3izg74YLei43u1ZF8%3D%0A)
+Cela ouvrira la boîte de dialogue d'impression de votre navigateur. Voici à quoi cela peut ressembler pour Google Chrome :
 
-Cela ouvrira la boîte de dialogue d'impression de votre navigateur.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/06-placing-the-qr-code-a-catenda-document.png)
 
-Voici à quoi cela peut ressembler pour Google Chrome :
+Dans la boîte de dialogue d'impression, imprimez le Documents au format PDF.
 
-![](https://downloads.intercomcdn.com/i/o/1165888827/f660b2af47c24e1514b73c70/image.png?expires=1781092800&signature=3244fada036415f24b00afb5bf9f81dbc5115b934b4f3afcede9a8e30a446fb5&req=dSEhE8F2lYldXvMW3nq%2BgUlKoXiLbDdj4BFNUGbByCq8Sapme9Px1qV28zGd%0AMlM6KNMxS%2B0SwM2qf7lUMNxvA60%3D%0A)
+> **Remarque 1 :** Le code QR ne finira que sur la couche de contenu si vous imprimez le Documents. Si vous téléchargez le Documents, il sera sur la couche d'annotation. **Remarque 2 :** En imprimant au format PDF, vous rastérisez le contenu du Documents. Cela signifie que le texte ne sera pas consultable lorsque vous le téléchargez en tant que révision sur Catenda.
 
-Dans la boîte de dialogue d'impression, imprimez le document au format PDF.
+Le fichier PDF imprimé avec l'espace réservé peut maintenant être téléchargé en tant que nouvelle révision sur Catenda. Pour garder votre Historique des révisions propre, vous pourriez vouloir retirer la révision précédente sans le code QR.
 
-> **Note 1 :** Le code QR n'apparaîtra sur la couche de contenu que si vous imprimez le document. Si vous téléchargez le document, il se trouvera sur la couche d'annotation. **note 2 :** En imprimant au format PDF, vous rastérisez le contenu du document. Cela signifie que le texte ne pourra pas être recherché lorsque vous le téléchargerez en tant que révision dans Catenda.
+## 3. **Publication avec codes QR**
 
-Le PDF imprimé avec l'espace réservé peut maintenant être téléchargé en tant que nouvelle révision dans Catenda.
+1. Téléchargez une nouvelle révision d'un fichier PDF avec l'espace réservé dans un dossier avec assignation de code QR
+2. Lors de la publication, le fichier PDF sera scanné pour l'espace réservé et remplacé par un code QR (généré pour cette révision)
+3. Le code QR nouvellement généré fera partie du fichier PDF, qui peut être consulté/scanné sur Catenda Hub et/ou téléchargé.
 
-Pour garder votre historique de révision propre, vous pouvez retirer la révision précédente sans le code QR.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/07-publishing-with-qr-codes.png)
 
-## 2. Configuration du QR-Code sur Catenda Hub
+Voici un exemple du placement de l'espace réservé du code QR et des résultats après le téléchargement sur Catenda Hub. 1\. Espace réservé dans le bloc titre d'un dessin. **Prêt pour le téléchargement.**
 
-L'attribution du code QR se fait par le biais des dossiers, ce qui signifie que chaque administrateur de projet peut décider d'un ensemble de dossiers sélectionnés pour cette fonction.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/08-publishing-with-qr-codes.png)
 
-Voici les étapes pour assigner la fonction QR-code aux dossiers de votre projet ;
+2\. L'espace réservé dans le bloc titre est remplacé par le code QR généré. **Prêt pour la vérification.**
 
-1. Dans le document -> paramètres, allez à **"configuration des dossiers"**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/09-publishing-with-qr-codes.png)
 
-![](https://downloads.intercomcdn.com/i/o/1058260520/dddd82c067f7b46accb5b32c/image.png?expires=1781092800&signature=e7941acca8aedcea4e848c67e0007a4e09578fab49b5e5c9a824b181ac99454a&req=dSAiHst4nYRdWfMW3nq%2BgRkR2h4rS0XQNc9lbtEQewqJ6NZ6VLakXmSCbXYB%0AVxWNDann97ZsWaqAzYsRKbOcTVk%3D%0A)
+### 3.1 **Historique du Documents**
 
-2. Cliquez sur le plus à côté du dossier souhaité pour ouvrir la configuration du dossier et sous "assigner le code QR", dites **"oui** "
+Après avoir téléchargé un Documents avec un code QR d'espace réservé, vous pourrez le voir a été traité avec succès dans l'Historique du Documents du [menu d'informations de droite](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision).
 
-![](https://downloads.intercomcdn.com/i/o/1058261375/a52f5da19606885304d919f1/image.png?expires=1781092800&signature=4c64a3d24c6c5463ebe93bbe1059a2dbb1bb4338b4ad72cfa53803d88d531b46&req=dSAiHst4nIJYXPMW3nq%2BgSrY7yhARKJj3Bos80hgsCYYWj1IyWqj837ROIDg%0ADGVbmygamuvFA2FrHAL5c1SXMPw%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/10-document-history.png)
 
-La numérisation des espaces réservés et le placement des codes QR n'auront lieu que dans les dossiers auxquels un code QR a été attribué ;
+Si la génération de votre code QR a échoué, cela peut être parce que votre code QR était plus petit que 2 cm x 2 cm ou qu'il a été placé en tant qu'annotation au lieu d'image.
 
-> **Remarque :** une fois qu'un dossier parent est attribué, tous les sous-dossiers recevront cette attribution Les codes QR peuvent être attribués à n'importe quel dossier dès lors qu'un dossier parent n'a pas encore été attribué.
-
-### 2.1 Publication avec des codes QR
-
-1. Téléchargez une nouvelle révision d'un PDF avec le caractère générique dans un dossier auquel un code QR a été attribué
-1. Lors de la publication, le PDF sera scanné à la recherche de l'espace réservé et remplacé par un code QR (généré pour cette révision)
-1. Le code QR nouvellement généré fera partie du PDF, qui pourra être visualisé/scanné sur Catenda Hub et/ou téléchargé.
-
-![](https://downloads.intercomcdn.com/i/o/1058270845/bbf3025f7cf4ce2c44e5ff3a/image.png?expires=1781092800&signature=87316e36cd478d482c98ab3fde729320404c1178d31708e40ca8cb797844e67a&req=dSAiHst5nYlbXPMW3nq%2BgcetveFGeYCsO6kaiNDTAeDsrR86FZzvPBsliNcU%0AoJizxECcx70jjX9lsLKDjBubHOo%3D%0A)
-
-Voici un exemple de l'emplacement du code QR et des résultats après le téléchargement sur Catenda Hub. 1. Placeholder dans le bloc de titre d'un dessin. **Prêt à être téléchargé.**
-
-![](https://downloads.intercomcdn.com/i/o/1128898386/b042fd79d7595f8d12a0159c/image.png?expires=1781092800&signature=7b305493e3afeef99f797c6bde7577f9ee147be9259ffd5234d136ceb18b19a5&req=dSElHsF3lYJXX%2FMW3nq%2BgcCYNHtVa2O6MpBCTIpzHdyIjlAArQsK42e3eW8C%0ARJ8ENFmJfkyirg6BcnLQ%2FlGVRgM%3D%0A)
-
-2. L'espace réservé dans le cartouche est remplacé par le code QR généré. **Prêt pour la vérification.**
-
-![](https://downloads.intercomcdn.com/i/o/1129687828/6fba8f5b78f9f26b6c0e5b25/image.png?expires=1781092800&signature=55a085321bf04009ffc5682bedfb937e1a8a745978110ea5fa2e653c230c60eb&req=dSElH892moldUfMW3nq%2BgZOaMeorej4wNegl5eWFN3XW6bJCLqd8omIpfqDg%0AO6V0qLi3tjmDOiAbb2n%2BOrLzNCo%3D%0A)
-
-### 2.2 Historique du document
-
-Après avoir téléchargé un document avec un code QR, vous pourrez voir qu'il a été traité avec succès dans l'historique du document dans le [menu d'information de droite](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision).
-
-![](https://downloads.intercomcdn.com/i/o/1158296344/8501b8c6f0f7482ddb0c7197/image.png?expires=1781092800&signature=1e5deaa95185367a07c23d5631171b26024e8b89c794c5efe22feaa680d9b0ca&req=dSEiHst3m4JbXfMW3nq%2BgewPTFkD53NGqyS8JRv2yXNIp5f6r7f4i1A6fjMn%0A%2Fz4hmqzWLABpzCZJ%2Fg6mvXrdJyI%3D%0A)
-
-Si la génération de votre code QR a échoué, cela peut être dû au fait que votre code QR était plus petit que 2cm x 2cm ou qu'il a été placé en tant qu'annotation au lieu d'une image.
-
-**Aplatir les annotations**
-
-Certains logiciels permettent d'aplatir les annotations, ce qui permet de traiter l'espace réservé.
-
-Voici quelques exemples :
+**Aplatissement des annotations** Certains logiciels vous permettent d'aplatir les annotations ce qui permettra à l'espace réservé d'être traité. Voici quelques exemples :
 
 **PDF X-change**
 
-![](https://downloads.intercomcdn.com/i/o/1158320081/b9774d23bf69244a53c6677c/image.png?expires=1781092800&signature=aee14a2b2de51226325ef2fd47deac0b6a7e31a185455f7ef6732fb438418455&req=dSEiHsp8nYFXWPMW3nq%2Bga6WZ0m2TsLc5vpEJEy3apY1DWFS5YUEXwWcGHrD%0A%2FRUu%2FVy7gDNxref2%2FtxTh835Rgc%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/11-document-history.png)
 
 **Adobe Acrobat**
 
-![](https://downloads.intercomcdn.com/i/o/1158321222/a0ef6a62a1446027ae555371/image.png?expires=1781092800&signature=170ea2c989478be21e642c31ce3b024172f2a85fa046b32d8f6dd48d0e4d0059&req=dSEiHsp8nINdW%2FMW3nq%2BgYbe1cpY6%2B%2Bqbx2jeLpWOp5WQ1EnJG8EKT3zgybU%0A2cuw3Hj3W2xHQJaGmkv81Ac9Dno%3D%0A)
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-3d7d02c461d3.png" width="300"/> --> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-3398dc9eef22.png" width="300"/>
 
-![](https://downloads.intercomcdn.com/i/o/1158321809/3012a1e60769cac4c4c66927/image.png?expires=1781092800&signature=fa12a072f48bb25045331ec0b732be3aa4733327bd1314825f4b019de5b7cac2&req=dSEiHsp8nIlfUPMW3nq%2Bgae%2B94TJ3Blas4eGR7qsCoN1m7TVPYwpQiH4X1RA%0AK7557p4HpFp%2Bo8CSDc2fx%2BOlpI0%3D%0A)
+_BlueBeam Revu_ Lorsque vous placez l'espace réservé dans BlueBeam Revu et enregistrez le Documents, il sera ajouté en tant qu'annotation. Il est possible d'aplatir le code QR pour en faire partie de la couche de contenu du Documents, mais même lors de son enregistrement régulièrement ou en utilisant l'option de taille de fichier réduite, le code QR sera modifié et ne fonctionnera pas avec Catenda. Pour que le code QR fonctionne avec catenda, à la place : Imprimez le Documents avec le pilote BlueBeam :
 
-_BlueBeam Revu_ Lorsque vous placez l'espace réservé dans BlueBeam Revu et que vous enregistrez le document, il est ajouté en tant qu'annotation. Il est possible d'aplatir le code QR pour qu'il fasse partie de la couche de contenu du document, mais même en l'enregistrant régulièrement ou en utilisant l'option de réduction de la taille du fichier, le code QR sera modifié et ne fonctionnera pas avec Catenda.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/12-document-history.png)
 
-Pour que le QR-code fonctionne avec Catenda, il faut plutôt
+Dans la boîte de dialogue Enregistrer sous, sélectionnez les graphiques ZIP et activez le post-traitement. C'est parce que l'algorithme de compression utilisé pour l'espace réservé est ZIP.
 
-Imprimez le document avec le pilote BlueBeam :
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/13-document-history.png)
 
-![](https://downloads.intercomcdn.com/i/o/1158701866/cdb3dad8520ad9922fc83b80/image.png?expires=1781092800&signature=bf9fc4876c441d15de14a343431d2b87d940fefb32fce6972e65c9c0a97eb752&req=dSEiHs5%2BnIlZX%2FMW3nq%2BgbggalZVq%2BITFpjjrTB1u9B%2F%2Bh4zRLT%2Fobt7Jze1%0AAkpOYt1kSbjWdyiPq%2F3wh6fKumU%3D%0A)
+Dans le menu post-traitement, choisissez l'option Combiner les images adjacentes. C'est parce que l'image sera normalement divisée en deux, elle les recombine ensemble. Si la taille de votre page n'existe pas en tant qu'option par défaut, vous pouvez en ajouter une personnalisée ici :
 
-Dans la boîte de dialogue Enregistrer sous, sélectionnez ZIP graphics et activez le post-traitement. En effet, l'algorithme de compression utilisé pour l'espace réservé est ZIP.
-
-![](https://downloads.intercomcdn.com/i/o/1158706510/20d6307f60ff541da3591698/image.png?expires=1781092800&signature=6c9c52da176e71d33a937ceb3e0b18b277326f1841bd7079ba5431be7b196bb5&req=dSEiHs5%2Bm4ReWfMW3nq%2BgZ2NDBVmQLRv8ONaLnaJJ5qkQIAKJ9MF%2FTOhkUY6%0Afi0WqOywf3njxKsmY6mHN7yBEWk%3D%0A)
-
-Dans le menu de post-traitement, choisissez l'option Combiner les images adjacentes. En effet, l'image est normalement divisée en deux et le post-traitement la combine à nouveau. Si votre taille de page n'existe pas en tant qu'option par défaut, vous pouvez en ajouter une personnalisée ici :
-
-![](https://downloads.intercomcdn.com/i/o/1159572236/695f90c63c88bc45e6be27ae/image.png?expires=1781092800&signature=fbf5d6383e17d8ddbea0e397999413fdc10e4ab2b1096f998c4003bad5c37afd&req=dSEiH8x5n4NcX%2FMW3nq%2BgW32aqFEwBD2XBCw3n0xGmY%2FjAhzSZOKeLycCrcG%0AdOGFYSZ3RWYwpj4SYUPInsxn1Mg%3D%0A)
-
-## 3. Vérification de la dernière révision
-
-En scannant le code QR avec votre smartphone, vous accéderez à une page de vérification où les résultats suivants apparaîtront en fonction de la version du PDF ;
-
-1. Votre révision est la dernière version du PDF : **Document valide**
-1. Votre révision est une ancienne version du PDF : **Document non valide**
-1. Vous avez numérisé un espace réservé : **Vous avez numérisé un espace réservé, ce document n'est pas publié**
-
-    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/1128836302/b5ed664002c909cad1388c1c/image.png?expires=1781092800&amp;signature=e32a0bc159c2fe53c0580cf78540908f18b726e36d6e988f6fd07bba7b2f7069&amp;req=dSElHsF9m4JfW%2FMW3nq%2BgRAbWSa0uwekHXdmw0dniPvD%2F48H6GJmWGPMPCrC%0AngeKuBJW%2FPMavpOc%2Btwvf9PFqVY%3D%0A"/></div>
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/14-document-history.png)

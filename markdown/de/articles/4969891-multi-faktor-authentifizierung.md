@@ -1,156 +1,150 @@
 # Multi-Faktor-Authentifizierung
 
-Die Einstellungen für die Multi-Faktor-Authentifizierung (MFA) finden Sie auf der Authentifizierungsseite, die eine Unterseite der Kontoseite ist.
+> Beschreibt, wie Sie MFA auf Ihrem Konto einrichten
 
-Die Multi-Faktor-Authentifizierung (MFA) erfordert die Eingabe eines Codes, den Sie über Ihr mobiles Gerät erhalten haben, sowie die Eingabe Ihres Benutzernamens und Passworts, wenn Sie sich bei Catenda Hub anmelden. Wenn eine Organisation MFA verlangt, wird sie auf Organisationsebene angewendet. Alle Projekte, die zu dieser Organisation gehören, benötigen dann MFA, um auf ihre Projekte zuzugreifen. Dadurch werden alle Benutzer gezwungen, MFA zu aktivieren, um auf Projekte dieser Organisation zuzugreifen.
+Die Einstellungen für **Multi-Faktor-Authentifizierung** (MFA) finden Sie auf der [Authentifizierungsseite](https://support.catenda.com/en/articles/6880968-account-page#h_e04d63351f), die eine Unterseite der [Kontoseite](https://support.catenda.com/en/articles/6880968-account-page) ist.
 
-## 1. Aktivieren von MFA
+Die **Multi-Faktor-Authentifizierung** (MFA) erfordert die Eingabe eines Codes, den Sie über Ihr Mobilgerät erhalten, sowie Ihren Benutzernamen und Ihr Passwort beim Anmelden bei Catenda Hub. Wenn eine Organisation MFA erfordert, wird sie auf Organisationsebene angewendet. Alle Projekte, die zu dieser Organisation gehören, erfordern dann MFA, um auf ihre Projekte zuzugreifen. Dies erzwingt, dass alle Benutzer MFA aktivieren müssen, um auf Projekte zuzugreifen, die zu dieser Organisation gehören.
 
-Loggen Sie sich in Catenda Hub ein und gehen Sie auf die Seite Konto:
+## 1. **MFA aktivieren**
 
-![](https://downloads.intercomcdn.com/i/o/710942054/f2239e2186f2107afadd66a3/image.png?expires=1781092800&signature=f38bc42351fd302ec7396fa6cf12192e80e28a0d7f3432cf1ef011332c36b874&req=cyEnH818nYRbFb4V1XW4gc7BaZEBKtWdCLphfgCiOK%2Bew%2FThhA88vrm%2FPJq5%0APAs7mDo6nKHLBwYjCUY3Kyp9%2Bg%3D%3D%0A)
+Melden Sie sich bei Catenda Hub an und gehen Sie zur **[Konto](https://hub.catenda.com/account/profile)**-Seite:
 
-1. Klicken Sie auf die Registerkarte Authentifizierung:
-1. Blättern Sie nach unten zum Abschnitt für MFA:
-1. Klicken Sie auf MFA aktivieren
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/01-enabling-mfa.png)
 
-![](https://downloads.intercomcdn.com/i/o/710944230/ebe37c5fb2379afe1d58d515/image.png?expires=1781092800&signature=bb1b215bf932a3da6fd9efd65031aa089830c4fa92090872b305802d5370aa61&req=cyEnH816n4JfFb4V1XW4gTVsh%2FWNq4RWV4OD%2BiH2LjOrUp6WWcpjxhq9folB%0A%2BuwHJKhvj1SGgt1qEKhqKE8VEQ%3D%3D%0A)
+1. Klicken Sie auf die Registerkarte **[Authentifizierung](https://hub.catenda.com/account/authentication)**:
+2. Scrollen Sie nach unten zum Abschnitt für MFA:
+3. Klicken Sie auf **MFA aktivieren**
 
-### 1.1 Authentifizierungs **App**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/02-enabling-mfa.png)
 
-Sie müssen eine Authentifizierungsanwendung, der Sie vertrauen, auf Ihrem Mobilgerät installieren.
+### 1.1 **Authentifizierungs-App**
 
-Wir empfehlen den Google Authenticator und den Microsoft Authenticator, aber Sie können theoretisch jede Anwendung verwenden, die die Verbindung von MFA/Zwei-Faktor-Authentifizierung unterstützt.
+Installieren Sie zunächst eine Anwendung auf einem Mobilgerät, das das TOTP-Protokoll (Time-based one-time password) unterstützt. Installieren Sie eine vertrauenswürdige Authentifizierungs-App auf einem Mobilgerät, um zu beginnen. Die Zeit, die eine Authentifizierungsanwendung schon existiert, und die Gerichtsbarkeit, in der sich das Unternehmen, dem sie gehört, ansässig ist, sind oft gute Anhaltspunkte. Hier sind einige Beispiele von empfehlenswerten Authentifizierungsanwendungen:
 
-App-Berechtigungen
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80; width: 139px;"><h3 id="h_b56161ee38"><b>Sicherheitsgesetze für Auth-Apps</b></h3></td><td style="background-color: #e3e7fa80; width: 101px;"><h3 id="h_49bc31efe9">Unternehmen</h3></td><td style="background-color: #e3e7fa80; width: 119px;"><h3 id="h_46b679c81c">Gerichtsbarkeit</h3></td><td style="background-color: #e3e7fa80;"><h3 id="h_7699fa4ab6">Geltende Sicherheitsgesetze</h3></td></tr><tr><td style="width: 139px;"><h3 id="h_ae65255403">Aegis</h3></td><td style="width: 101px;"><p>Beem</p></td><td style="width: 119px;"><p>Niederlande<br/>(Dordrecht)</p></td><td><p>DSGVO<br/>9-Augen-Abkommen</p></td></tr><tr><td style="background-color: #e8e8e880; width: 139px;"><h3 id="h_42b556ff02">OTP Auth</h3></td><td style="background-color: #e8e8e880; width: 101px;"><p>Roland Moers</p></td><td style="background-color: #e8e8e880; width: 119px;"><p>Deutschland</p></td><td style="background-color: #e8e8e880;"><p>DSGVO<br/>Bundesdatenschutzgesetz - BDSG <br/>14-Augen-Abkommen</p></td></tr><tr><td style="width: 139px;"><h3 id="h_5e0c03d260">Authenticator</h3></td><td style="width: 101px;"><p>Google</p></td><td style="width: 119px;"><p>Vereinigte Staaten<br/>(Kalifornien)</p></td><td><p>Clarifying Lawful Overseas Use of Data Act <i>(</i>CLOUD) Act</p></td></tr><tr><td style="background-color: #e8e8e880; width: 139px;"><h3 id="h_918c12706e">Microsoft Authenticator</h3></td><td style="background-color: #e8e8e880; width: 101px;"><p>Microsoft</p></td><td style="background-color: #e8e8e880; width: 119px;"><p>Vereinigte Staaten<br/>(Washington)</p></td><td style="background-color: #e8e8e880;"><p>Clarifying Lawful Overseas Use of Data Act <i>(</i>CLOUD) Act</p></td></tr><tr><td style="width: 139px;"><h3 id="h_b3a055f26d">Ente Auth</h3></td><td style="width: 101px;"><p>Ente</p></td><td style="width: 119px;"><p>Vereinigte Staaten (Delaware)</p></td><td><p>Clarifying Lawful Overseas Use of Data Act <i>(</i>CLOUD) Act</p></td></tr><tr><td style="background-color: #e8e8e880; width: 139px;"><h3 id="h_63d03979d2">IIJ SmartKey</h3></td><td style="background-color: #e8e8e880; width: 101px;"><p>Internet Initiative Japan</p></td><td style="background-color: #e8e8e880; width: 119px;"><p>Japan</p></td><td style="background-color: #e8e8e880;"><p>Gesetz zum Schutz personenbezogener Daten (APPI)</p></td></tr><tr><td style="width: 139px;"><h3 id="h_848afb2dfa">HENNGE Lock</h3></td><td style="width: 101px;"><p>HENNGE K.K.</p></td><td style="width: 119px;"><p>Japan</p></td><td><p>Gesetz zum Schutz personenbezogener Daten (APPI)</p></td></tr></tbody></table></div>
 
-Damit Sie den QR-Code mit Ihrer Kamera scannen können, müssen Sie Ihrer Authentifizierungs-App die Berechtigung für Ihre Kamera erteilen.
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80; width: 138px;"><h3 id="h_5e28bb0eb3"><b>Funktionalität der Auth-App</b></h3></td><td style="background-color: #e3e7fa80; width: 88px;"><h3 id="h_6ed7d3e230">Veröffentlichungsdatum</h3></td><td style="background-color: #e3e7fa80; width: 180px;"><h3 id="h_f652151c66">Betriebssystem</h3></td><td style="background-color: #e3e7fa80;"><h3 id="h_824368384e">Code-Extraktion</h3></td></tr><tr><td style="width: 138px;"><h3 id="h_218c61c8b2">Aegis</h3></td><td style="width: 88px;"><p>2019</p></td><td style="width: 180px;"><p>Android</p></td><td><p>In vollständige Textdatei oder verschlüsselte Datei exportieren. JSON / TXT / QR</p></td></tr><tr><td style="background-color: #e8e8e880; width: 138px;"><h3 id="h_0274ada2cb">OTP Auth</h3></td><td style="background-color: #e8e8e880; width: 88px;"><p>2020</p></td><td style="background-color: #e8e8e880; width: 180px;"><p>iOS</p></td><td style="background-color: #e8e8e880;"><p>In proprietäre Datei exportieren / Geheimnis anzeigen</p></td></tr><tr><td style="width: 138px;"><h3 id="h_cc8ae8a27d">Authenticator</h3></td><td style="width: 88px;"><p>2010</p></td><td style="width: 180px;"><p>iOS<br/>Android</p></td><td><p>Auf andere Google Authenticator-App mit Google-Konto übertragen</p></td></tr><tr><td style="background-color: #e8e8e880; width: 138px;"><h3 id="h_6d595cbd69">Microsoft Authenticator</h3></td><td style="background-color: #e8e8e880; width: 88px;"><p>2015</p></td><td style="background-color: #e8e8e880; width: 180px;"><p>iOS<br/>Android</p></td><td style="background-color: #e8e8e880;"><p>Auf andere Microsoft Authenticator-App mit Microsoft-Konto übertragen.</p></td></tr><tr><td style="width: 138px;"><h3 id="h_9cbe3f20d2">Ente Auth</h3></td><td style="width: 88px;"><p>2020</p></td><td style="width: 180px;"><p>iOS<br/>Android</p></td><td><p>JSON / TXT</p></td></tr><tr><td style="background-color: #e8e8e880; width: 138px;"><h3 id="h_425ee9cdba">IIJ SmartKey</h3></td><td style="background-color: #e8e8e880; width: 88px;"><p>2015</p></td><td style="background-color: #e8e8e880; width: 180px;"><p>iOS - 8.1+<br/>Android - 4.0+</p></td><td style="background-color: #e8e8e880;"><p>QR-Code-Export pro Code.</p></td></tr><tr><td style="width: 138px;"><h3 id="h_10c8930b4e">HENNGE Lock</h3></td><td style="width: 88px;"><p>2020</p></td><td style="width: 180px;"><p>iOS - Neueste 2 Hauptversionen <br/>Android - Neueste 4 benannte Versionen</p></td><td><p>Keine</p></td></tr></tbody></table></div>
 
-Wenn Sie die Anwendung installieren, werden Sie möglicherweise gefragt, ob Sie der Kamera nur während der Verwendung der App die Erlaubnis erteilen möchten, jedes Mal fragen oder nicht zulassen. Wenn Sie "jedes Mal fragen" auswählen, werden Sie jedes Mal um Erlaubnis gebeten, wobei Sie "nicht zulassen" wählen können, wodurch die Erlaubnis für die App deaktiviert wird.
+Theoretisch kann jede Anwendung verwendet werden, die MFA / Zwei-Faktor-Authentifizierung über das TOTP-Protokoll unterstützt. Es gibt auch Desktop-Anwendungen, diese werden jedoch nicht empfohlen, da Desktop-Anwendungen oft immer mit demselben Netzwerk verbunden sind, auf dem sich oft mehrere Geräte befinden, was das Risiko erhöht, dass ein Angreifer Zugriff auf den Code erhält.
 
-Google-Authentifikator
+**App-Berechtigungen** Um den QR-Code mit der Kamera des Geräts scannen zu können. Die Authentifizierungs-App benötigt Kameraberechtigung, um den Code scannen zu können. Die Anwendung kann Sie auffordern, die Berechtigung zur Verwendung der Gerätekamera zu erteilen. Berechtigungsoptionen können folgende sein: "Nur während der App-Nutzung" - Die App hat Berechtigung während der Nutzung. "Jedes Mal fragen" - Die Berechtigung muss bei jeder Verwendung der App erteilt werden. "Nicht zulassen" - Die Berechtigung wird der App nicht erteilt oder widerrufen.
 
-Klicken Sie auf das Plus unten rechts und scannen Sie einen QR-Code.
+**Google Authenticator** Klicken Sie auf das Pluszeichen unten rechts und scannen Sie einen QR-Code. Hier scannen Sie den QR-Code, den die [Authentifizierungsseite](https://hub.catenda.com/account/authentication) bereitstellt. Alternativ können Sie Ihre Kamera verwenden, um den Code zu scannen, und den Setup-Schlüssel eingeben, den Sie in der geöffneten URL sehen.
 
-Hier scannen Sie den QR-Code, den Sie auf der Authentifizierungsseite erhalten.
+**Microsoft Authenticator** Stellen Sie sicher, dass Sie sich im Authenticator-Menü unten befinden.
 
-Alternativ können Sie den Code auch mit Ihrer Kamera scannen und den Einrichtungsschlüssel eingeben, den Sie in der geöffneten URL sehen.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/03-authentication-app.png)
 
-_Microsoft_ Authentifikator
+> **Hinweis:** Stellen Sie sicher, dass Sie sich nicht im Menü "Verified IDs" befinden, da Sie hier zwar einen QR-Code scannen können, dies jedoch nicht funktioniert.
 
-Vergewissern Sie sich, dass Sie sich im Authenticator-Menü am unteren Rand befinden.
+Klicken Sie als Nächstes auf das Pluszeichen in der blauen Leiste oben rechts. Wählen Sie Anderes Konto (Google, Facebook, usw.) Wenn Ihre App keine Berechtigung für Ihre Kamera hat, werden Sie möglicherweise aufgefordert, die Berechtigung für Ihre Kamera zu erteilen.
 
-![](https://downloads.intercomcdn.com/i/o/825376957/d0ca2f4ff3122f26c2dd335e/image.png?expires=1781092800&signature=be1fcb59fb1bfa4b45e2cd97b6ea4639f51a97ac61ba103a8b19816235d2ee72&req=fCIiFc54lIRYFb4V1XW4gStU4QZFJuspH3Amx6IfbI1PH8Ta9AUUSD4f5PCO%0AAP4KnLWAE5JAwe0UK5S1t71eeA%3D%3D%0A)
-
-> **Note:** **Hinweis**: Vergewissern Sie sich, dass Sie sich nicht im Menü "Verifizierte IDs" befinden, da Sie hier zwar einen QR-Code scannen können, dieser aber nicht funktioniert. Klicken Sie anschließend auf das Plus in der blauen Leiste oben rechts. Wählen Sie Anderes Konto (Google, Facebook, etc.) Wenn Ihre App keine Berechtigung für Ihre Kamera hat, werden Sie möglicherweise nicht dazu aufgefordert, Ihre Kamera freizugeben.
-
-Wenn Ihre App Zugriff auf Ihre Kamera hat, können Sie den QR-Code scannen, den Sie auf der Authentifizierungsseite erhalten.
+Wenn Ihre App Zugriff auf Ihre Kamera hat, können Sie den QR-Code scannen, den die [Authentifizierungsseite](https://hub.catenda.com/account/authentication) bereitstellt.
 
 Wenn Ihre App keinen Zugriff auf Ihre Kamera hat, werden Sie aufgefordert, manuell ein Konto zu erstellen.
 
-![](https://downloads.intercomcdn.com/i/o/1073587443/5a6dda006a38943a4c11fc28/image.png?expires=1781092800&signature=6859b1a2a4081eacf5fe3e3b2cbc8cbc20fe23ba599c13b94523c6aef1a0d697&req=dSAgFcx2moVbWvMW3nq%2BgQ2uGk1EdfhU4hASnzRRD%2FCNPzlrB1T21b5PfCNs%0AoaOKhDzf4%2BW06huquS6IL07Iqqg%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/04-authentication-app.png)
 
-Kontoname: Der Name, den Sie Ihrem Konto gebenGeheimer Schlüssel: Dies ist der Schlüssel, den Sie erhalten hätten, wenn Sie den QR-Code hätten scannen können.
+Kontoname: Der Name, den Sie Ihrem Konto geben Geheimer Schlüssel: Dies ist der Schlüssel, den Sie erhalten hätten, wenn Sie den QR-Code hätten scannen können. Sie können Ihre Kamera-App verwenden, um den Code zu scannen. Die URL, die beim Scannen des Codes geöffnet wird, kann etwa so aussehen: `otpauth://totp/\<Catenda-Konto-E-Mail-Adresse>?secret=\<Geheimer Schlüssel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Wenn Sie den Code nach "`secret=`" in den geheimen Schlüssel eingeben, den Sie in der geöffneten URL sehen, kann der Kontoname alles sein.
 
-Die URL, die sich beim Scannen des Codes öffnet, kann etwa so aussehen: `otpauth://totp/\<Catenda account email address>?secret=\<Secret key>&issuer=Catenda&algorithm=SHA1&digits=6&period=30`
+> **Hinweis:** Wenn Sie ein Konto mit dem falschen geheimen Schlüssel erstellen, generiert die App trotzdem Einmalcodes. Catenda akzeptiert den Code jedoch möglicherweise nicht, wenn der falsche geheime Schlüssel verwendet wurde.
 
-If you type in the code after "`secret=`" in den geheimen Schlüssel, den Sie in der geöffneten URL sehen, kann der Kontoname beliebig sein.
+### 1.2 **Erfolg oder Fehler**
 
-> **Note:** **Hinweis**: Wenn Sie ein Konto mit dem falschen geheimen Schlüssel erstellen, generiert die App trotzdem einmalige Codes, so dass Catenda den Code möglicherweise nicht akzeptiert, wenn der falsche geheime Schlüssel verwendet wurde.
+**Erfolg** Nach erfolgreichem Aktivieren von MFA wird die folgende Meldung angezeigt.
 
-Nach erfolgreicher Aktivierung von MFA sehen Sie diese Meldung.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/05-success-or-fail.png)
 
-![](https://downloads.intercomcdn.com/i/o/710945944/2427619ae9caca4960e1a387/image.png?expires=1781092800&signature=637d0ef63b4155743ee6d632d2567b662b28783b6fcea173963ba6bf19a0f4bf&req=cyEnH817lIVbFb4V1XW4gQAh7zS29CfgBClTPyOHvLzyOrF2cnqmwXqeBNFn%0AvIKMxKQUufVZJ2jjzM9m6U1pww%3D%3D%0A)
+Nach der Aktivierung müssen Sie jedes Mal, wenn Sie sich bei Catenda Hub anmelden, Ihr Mobilgerät zur Hand haben. Die MFA kann durch Klicken auf "MFA deaktivieren" wieder deaktiviert werden.
 
-Nach der Aktivierung müssen Sie Ihr Mobilgerät bei jeder Anmeldung bei Catenda Hub zur Hand haben.
+**Falscher Code** Wenn Sie nicht den richtigen Code eingegeben haben, erhalten Sie die Meldung "Falscher Code".
 
-Die MFA kann wieder deaktiviert werden, indem Sie auf MFA deaktivieren klicken.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/06-success-or-fail.png)
 
-## 2. Ändern von **MFA**
+> **Hinweis:** Wenn Sie den QR-Code gescannt haben, können Sie versuchen, den Code innerhalb des vorgesehenen Zeitraums einzugeben, während dieses Menü offen ist. Wenn Sie dieses Menü schließen, müssen Sie den Code, der in Ihrer Authentifizierungs-App generiert wird, entfernen und den QR-Code erneut scannen, um eine neue Code-Pairing einzurichten.
 
-Nachdem Sie einen MFA-Code verbunden haben, können Sie den Kontonamen des Codes sicher bearbeiten.
+## 2. **MFA ändern**
 
-Sie können dies auf die folgenden Arten tun:
+Nach dem Verbinden eines MFA-Codes können Sie den Kontonamen des Codes sicher bearbeiten. Dies können Sie auf folgende Weise tun:
 
-Google-Authentifikator
+**Google Authenticator**
 
-1. Langes Drücken des Codes
-1. Klicken Sie auf den Bleistift oben rechts, um den Namen zu ändern.
+1. Halten Sie den Code lange gedrückt
+2. Klicken Sie auf das Stiftsymbol oben rechts, um den Namen zu ändern.
 
-_Microsoft_ Authentifikator
+**Microsoft Authenticator**
 
 1. Klicken Sie auf den Code.
-1. Klicken Sie oben rechts auf die Schaltfläche "Zahnrad
-1. Klicken Sie auf den Bleistift, um den Namen zu ändern
+2. Klicken Sie auf das Zahnradsymbol oben rechts
+3. Klicken Sie auf das Stiftsymbol, um den Namen zu ändern
 
-## 3. Übertragende MFA
+## 3. **MFA übertragen**
 
-Es kann immer nur ein Gerät gleichzeitig verwendet werden. Wenn Sie ein neues Gerät verwenden möchten, können Sie die gleiche MFA-App auf dem neuen Gerät verwenden und den Code vom alten Gerät übertragen.
+**Deaktivieren und neu aktivieren** Es ist jeweils nur möglich, eine MFA-App-Code-Pairing zu verwenden. Wenn Sie zu einer anderen Code-Pairing wechseln möchten, vielleicht weil Ihre aktuelle kompromittiert wurde, folgen Sie diesen Schritten: Sie sollten diese Methode auch verwenden, wenn Sie die App, die Sie für MFA verwenden, ändern möchten.
 
-_Google_ Authentifikator
+1. Deaktivieren Sie Ihre MFA auf der [Authentifizierungsseite](https://hub.catenda.com/account/authentication)
+2. Bereiten Sie die App vor, die Sie verwenden möchten, um Ihre MFA erneut zu verbinden
+3. Generieren Sie eine neue Code-Pairing, indem Sie den QR-Code wie im [Aktivierungsabschnitt](#enabling-mfa) scannen
 
-Altes Gerät:
+> **Hinweis:** Seien Sie vorsichtig mit dieser Methode, da Ihr Konto während der Deaktivierung vorübergehend anfällig ist und Sie während dieser Zeit nicht auf Projekte zugreifen können, die MFA erfordern.
+
+**Übertragung durch Sicherung** Wenn Sie ein neues Gerät verwenden möchten, ohne dass Ihr Code vorübergehend deaktiviert wird, können Sie eine andere Installation derselben MFA-App verwenden und den Code von der alten Installation zur neuen Installation übertragen.
+
+**Google Authenticator** Altes Gerät:
 
 1. Tippen Sie auf das Hamburger-Menü oben rechts
-1. Tippen Sie auf Konten exportieren
-1. Wählen Sie die Konten aus, die Sie exportieren möchten
+2. Tippen Sie auf "Konten exportieren"
+3. Wählen Sie die Konten aus, die Sie exportieren möchten
 
 Neues Gerät:
 
 1. Tippen Sie auf das Hamburger-Menü oben rechts
-1. Tippen Sie auf Konten importieren
-1. Tippen Sie auf QR-Code scannen
-1. Scannen Sie den QR-Code, der auf dem alten Gerät angezeigt wird, wenn Sie den Exportvorgang durchlaufen haben.
+2. Tippen Sie auf "Konten importieren"
+3. Tippen Sie auf "QR-Code scannen"
+4. Scannen Sie den QR-Code, der auf dem alten Gerät angezeigt wird, wenn Sie den Exportvorgang durchgeführt haben.
 
-_Microsoft_ Authentifikator
-
-Altes Gerät:
+**Microsoft Authenticator** Altes Gerät:
 
 1. Tippen Sie auf das Hamburger-Menü oben rechts
-1. Backup einschalten
+2. Sicherung aktivieren
 
 Neues Gerät:
 
 1. Installieren und öffnen Sie die Microsoft Authenticator-App auf Ihrem neuen Gerät
-1. Tippen Sie auf "Wiederherstellung beginnen".
+2. Tippen Sie auf "Wiederherstellung starten."
 
-> **Note:** **Hinweis**: Richten Sie keine Konten mit Microsoft Authenticator ein, bevor Sie das Wiederherstellungstool verwendet haben, da es passende Website-Konten überschreibt.
+> **Hinweis 1:** Richten Sie keine Konten mit Microsoft Authenticator ein, bis Sie das Wiederherstellungstool verwendet haben, da dies übereinstimmende Site-Konten überschreibt.
 
-## 4. Deaktivieren von MFA
+> **Hinweis 2:** Diese Methode erfordert, dass Sie Ihre MFA-Codes sichern, was bedeutet, dass sie im Cloud-Service Ihres App-Anbieters gespeichert werden. Verwenden Sie diese Methode nur, wenn Sie dem Sicherungsdienst Ihres App-Anbieters vertrauen. Falls nicht, ist es besser, die Deaktivierung und Wiederaktivierung zu verwenden.
 
-Sie können MFA deaktivieren, indem Sie auf die oben gezeigte Schaltfläche "Deaktivieren" klicken und dann Ihr Passwort zur Bestätigung eingeben. Nach der Deaktivierung können Sie nicht mehr auf Projekte zugreifen, die MFA erfordern.
+## 4. **MFA deaktivieren**
 
-Nach der Deaktivierung des Codes auf Catenda Hub verbleibt der Code in der Anwendung, mit der Sie sich verbunden haben. Dieser Code ist nun nutzlos und kann sicher gelöscht werden.
+Sie können MFA deaktivieren, indem Sie auf die oben gezeigte Schaltfläche "Deaktivieren" klicken und Ihr Passwort eingeben, um zu bestätigen. Nach dem Deaktivieren können Sie nicht mehr auf Projekte zugreifen, die MFA erfordern.
 
-### 4.1 So löschen Sie den alten Code:
+Nach dem Deaktivieren des Codes in Catenda Hub bleibt der Code in der Anwendung, mit der Sie eine Verbindung hergestellt haben. Dieser Code ist jetzt nutzlos und kann sicher gelöscht werden.
 
-_Google_ Authentifikator
+### 4.1 **So löschen Sie den alten Code:**
 
-1. Langes Drücken des Codes
-1. Klicken Sie auf den Mülleimer oben rechts.
+**Google Authenticator**
 
-_Microsoft_ Authentifikator
+1. Halten Sie den Code lange gedrückt
+2. Klicken Sie auf das Papierkorbsymbol oben rechts.
+
+**Microsoft Authenticator**
 
 1. Klicken Sie auf den Code.
-1. Klicken Sie oben rechts auf die Schaltfläche "Zahnrad
-1. Klicken Sie auf Konto entfernen
+2. Klicken Sie auf das Zahnradsymbol oben rechts
+3. Klicken Sie auf "Konto entfernen"
 
-## 5. MFA auf nicht-mobilen Geräten
+## 5. **MFA auf Nicht-Mobilgeräten**
 
-Authenticator-Apps sind sicherer als SMS-/E-Mail-Code-Lösungen, da es keine Kommunikation gibt, die nach der ursprünglichen Konfiguration zwischen den beiden Systemen abgefangen werden kann.
+Authentifizierungs-Apps sind sicherer als SMS/E-Mail-Code-Lösungen, da es nach der ursprünglichen Konfiguration keine Kommunikation gibt, die zwischen den beiden Systemen abgefangen werden kann. Obwohl es besser ist, eine App auf einem Mobilgerät zu verwenden, siehe Hinweis unten, ist es möglich, MFA-Codes auf anderen Systemen als nur Mobilgeräten zu erhalten. Die empfohlene Desktop-Anwendung hierfür ist [Authy](https://authy.com/). Funktionell verwenden diese Arten von Anwendungen dasselbe TOTP-Protokoll wie die App auf Ihrem Mobilgerät und sollten genauso sicher sein.
 
-Es ist zwar besser, eine App auf einer mobilen Anwendung zu verwenden (siehe Hinweis unten), aber es ist auch möglich, MFA-Codes auf anderen Systemen als nur mobilen Geräten zu erhalten.
+> **Warnung:** Desktop-Apps können weniger sicher sein, da sie leichter gehackt oder darauf zugegriffen werden können. Dies liegt daran, dass Desktop-Systeme oft immer mit dem lokalen Netzwerk verbunden sind, das infiziert sein könnte. Mobilgeräte, die nicht immer mit dem Netzwerk verbunden sind, können daher schwerer zu knacken sein.
 
-Die empfohlene Desktop-Anwendung für diesen Zweck ist Authy.
+## 6. **Wer kann MFA auf Projekten durchsetzen?**
 
-Diese Art von Anwendungen verwendet das gleiche TOTP-Protokoll wie die App auf Ihrem mobilen Gerät und sollte genauso sicher sein.
+Enterprise-Kunden können eine [Organisationsoption](https://support.catenda.com/en/articles/8224886-organization-options#h_d6710faf75) anfordern, die aktiviert werden kann, damit alle Benutzer, die zu ihren Projekten gehören, MFA verwenden müssen, um auf das Projekt zuzugreifen. Um MFA auf den Projekten Ihrer Organisation zu aktivieren, kontaktieren Sie den Catenda-Support. Wenn MFA auf den Projekten einer Organisation erforderlich ist, wird beim Öffnen des Projekts die folgende Meldung angezeigt.
 
-> **Note:** **Hinweis**: Desktop-Anwendungen können weniger sicher sein, da sie leichter zu hacken sind oder man sich Zugang zu ihnen verschaffen kann. Das liegt daran, dass Desktop-Systeme oft, wenn auch nicht immer, mit dem lokalen Netzwerk verbunden sind, das infiziert sein könnte. Mobile Geräte, die nicht immer mit dem Netzwerk verbunden sind, können daher schwerer zu knacken sein.
-
-## 6. Wer kann die MFH bei Projekten durchsetzen?
-
-Unternehmenskunden können die Aktivierung einer Organisationsoption beantragen, die dafür sorgt, dass alle Benutzer, die Teil ihrer Projekte sind, MFA verwenden müssen, um das Projekt zu betreten.
-
-Um MFA für die Projekte Ihrer Organisation zu aktivieren, kontaktieren Sie den Catenda-Support. Wenn MFA für die Projekte einer Organisation erforderlich ist, wird diese Meldung angezeigt, wenn Sie versuchen, das Projekt zu öffnen.
-
-![](https://downloads.intercomcdn.com/i/o/710237963/cc33c301cac2faaeaf8abb7e/image.png?expires=1781092800&signature=0a241c1b7d754dac6ac7f3fbfb908a97d6aad26a98db0773434988edd6c61515&req=cyEnFMp5lIdcFb4V1XW4geDBTPE7FEI38r7z7CIHG0OMPqmboH9ClY59uD%2F2%0APKhzmnNJ76NXpaOhL%2BVeRBzIhw%3D%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/07-who-can-enforce-mfa-on-projects.png)

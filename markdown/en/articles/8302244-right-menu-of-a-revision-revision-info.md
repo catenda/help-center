@@ -48,9 +48,7 @@ If a document is not in a naming convention folder it will be possible to click 
 
 _Access required:_ Write access to the document.
 
-### 2.3 
-
-### 2.4 **Filling out fields**
+### 2.3 **Filling out fields**
 
 This is what the fields that can be filled out for the whole document can look like:
 

@@ -1,222 +1,136 @@
 # Modeller som dokumenter
 
-Tidligere har det vært mulig å laste opp ifc filer på to forskjellige sted på Catenda Hub. Med _modeller som dokumenter_ funksojonen legges disse to stedene sammen til en sømløs funksjon.
+Tidligere har det vært mulig å laste opp IFC-filer til to separate steder på Catenda Hub. Med funksjonen _modeller som dokumenter_ blir disse to plasseringene for modellfiler slått sammen til én smidig funksjon. Hvis du lager en modell i modellseksjonen, blir et dokument lenket og opprettet i dokumentseksjonen. Hvis du laster opp et IFC-dokument, kan du bruke handlingsknappen "lag modell" for å lenke og opprette en modell i modellseksjonen. Med denne funksjonen kan modeller i modellseksjonen håndteres som dokumenter, mens modeller i dokumentseksjonen kan håndteres akkurat som modeller.
 
-Hvis du lager en modell i modelldelen vil et dokument bli lenket og opprettet i dokumenter delen. Hvis du laster opp et IFC dokument i dokumentdelen kan du bruke lag modell aksjonsknappen for å lenke og opprette en modell i modelldelen.
+## 1. **Før/Etter migrering - Hovedforskjeller**
 
-Med denne funksjonen kan modeller i modelldelen håndteres som dokumenter mens modeller i dokumentdelen kan håndteres som modeller.
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e8e8e880; width: 126px;"><h1 id="h_3632d3cc1b"></h1></td><td style="background-color: #e8e8e880; width: 262px;"><h2 class="intercom-align-center" id="h_2093155130"><b>Før</b></h2></td><td style="background-color: #e8e8e880; width: 248px;"><h2 class="intercom-align-center" id="h_d5cfcbcb2d"><b>Etter</b></h2></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Hovedatferd</b></p></td><td style="width: 262px;"><p>Modeller fantes kun i modellseksjonen. Brukeren måtte laste opp den samme IFC-filen til både dokumentseksjonen og modellseksjonen.</p></td><td style="width: 248px;"><p>Modeller blir opprettet fra IFC-filer lastet opp til dokumentseksjonen, hvis brukeren ber om det. IFC-filen og dens relaterte modell blir deretter lenket.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Brukergrensesnitt</b></p></td><td style="width: 262px;"><p><b>Annerledes</b> fra dokumentseksjonen og viser mindre informasjon, i hovedsak kun en liste over modeller.</p></td><td style="width: 248px;"><p><b>Det samme</b> som dokumentseksjonen: en tilpassbar tabell med relaterte metadata.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Tilgangsrettigheter</b></p></td><td style="width: 262px;"><p><b>Kunne ikke brukes</b> på modeller</p></td><td style="width: 248px;"><p><b>Kan brukes</b> på modeller fra deres tilknyttede dokument i dokumentseksjonen</p></td></tr></tbody></table></div>
 
-Denne artikkelen inneholder informasjon om følgende temaer:
+## 2. **Kjent men annerledes**
 
-## 1. **Før/Etter migrering - Hovedforskjell**
+Nå som de to seksjonen har blitt lenket, er det viktig å merke seg at det fortsatt er noen viktige forskjeller mellom modell- og dokumentseksjonene. I modellseksjonen kan du se alle modell-dokumenter samlet i en liste. Her vil du se dine modell-dokumenter på en måte som ligner hvordan de vil bli brukt i 3D-viseren. I dokumentseksjonen kan du se dokument-modeller i dokumentstrukturen din. Her vil du se dine dokument-modeller på en måte som ligner hvordan de vil bli brukt i ditt felles datamiljø. Alle modeller er lenket til hver sitt eget dokument, og funksjoner fra begge seksjoner kan brukes i både modell- og dokumentseksjonen.
 
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e8e8e8; width: 168px;"><h1 id="h_8b37580f81"></h1></td><td style="background-color: #e8e8e8; width: 262px;"><h2 id="h_b7f579faf9"><b>Før</b></h2></td><td style="background-color: #e8e8e8; width: 248px;"><h2 id="h_bf2a4611cb"><b>Etter</b></h2></td></tr><tr><td style="background-color: #e8e8e8; width: 168px;"><p class="intercom-align-right"><b>Hovedoppførsel</b></p></td><td style="width: 262px;"><p>Modeler fantes kun i modeller delen. Brukeren måtte laste opp samme IFC fil til både dokumenter og modeller delene.</p></td><td style="width: 248px;"><p>Modeller er opprettet som IFC filer og lastet opp til dokumentdelen. Om brukere ber om det blir en modell som hører til IFC filen opprettet.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 168px;"><p class="intercom-align-right"><b>Grensesnitt</b></p></td><td style="width: 262px;"><p><b>Forskjellig </b>fra dokumentdelen og vist med mindre informasjon, bare en liste med modeller.</p></td><td style="width: 248px;"><p><b>Likt</b> som i dokumentdelen. En redigerbar tabell med relatert metadata.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 168px;"><p class="intercom-align-right"><b>Tilgangsrettigheter</b></p></td><td style="width: 262px;"><p><b>Kunne ikke settes </b>på modeller</p></td><td style="width: 248px;"><p><b>Kan settes</b> på modeller fra deres relaterte dokument i dokumentdelen.</p></td></tr></tbody></table></div>
+## 3. **Endringer i modellseksjonen**
 
-## 2. **Kjent, men annerledes**
+Med modeller som dokumenter har modellseksjonen endret utseende. I stedet for å se menyoppføringer for hver modell, vil de nå vises i en søkbar tabell.
 
-Nå som de to delene er lenket er det viktig å merke at det fortsatt er hovedforskjell mellom modeller og dokumenter delene.
+I modellseksjonen kan du finne følgende endringer:
 
-I modellerdelen vil du kunne se alle modell-dokumenter samlet i en liste.
+### 3.1 **Modelltabell**
 
-Her vil du kunne se dine modell-dokumenter på en måte som likner på hvordan de vil brukes i 3D viseren.
+Den nye modelltabellen kan se omtrent slik ut:
 
-I dokumenter delen vil du kunne se dokumnet-modellene i din dokumentstruktur. Her vil du kunne se dokument-modellere på en måte som likner på hvordan de brukes i ditt felles datamiljø (CDE).
-
-Alle modeller er lenket til hvert sitt dokument og funksjoner fra begge deler kan brukes, både i modeller delen og i dokumenter delen.
-
-## 3. **Endringer på modellersiden**
-
-Mode modeller som dokumenter vil modeller siden ha endret i utseende. Istedet for å se meny enheter for hver modell vil de nå dukke opp i en søkbar tabell.
-
-På modeller siden vil du nå dukke finne følgende endringer:
-
-### 3.1 **Modeller tabellen**
-
-Den nye modeller tabellen kan se ut noe some dette:
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1444226365/44372549a3253c3844972ac34220/image.png?expires=1781092800&signature=2b4a1bd1d5596223c3dc53db0355da88cb8061216152e137c34787350948af5d&req=dSQjEst8m4JZXPMW3nq%2BgcMYUUGSeENGBi4OuP8AaGhHMkzeNF%2BCgSKgX8B5%0AzB%2F4sfX95CZ9g97yhuDHUO6cgBA%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/01-model-table.png)
 
 ### 3.2 **Kolonner**
 
-Listen over modellene har kolonner som viser mesteparten av informasjon du trenger å vite om dine modeller.
+Modelllisten har kolonner som viser det meste av informasjonen du trenger å vite om modellene dine.
 
-**Navn**
+_Navn_ Navnet på modell-dokumentet Modellnavnet er også navnet du vil se i revisjonsvelgeren i 3D-visningen.
 
-Navnet til modell-dokumentet vises her.
+_Dokumentnavn_ Navnet på dokument-modellen i dokumentseksjonen
 
-Modellnavnet er også navnet du vil se i revisjonselektoren i 3D viseren.
-
-**Dokumentnavn**
-
-Navnet til dokument-modellen i dokumenterdelen.
-
-**Revisjonsnavn**
-
-Navnet til den nyeste revisjonen.
+_Revisjonnavn_ Navnet på den siste revisjonen
 
 ### 3.3 **Tilgangskontroll**
 
-Hvis en modell er begrenset for deg i dokumenter delen vil modellen verken vises i dokumentdelen, modeller tabellen eller i revisjonsvelger.
+Hvis en modell har blitt begrenset for deg i dokumentseksjonen, ser du den ikke i dokumentseksjonen, modelltabellen eller i revisjonsvelgeren.
 
-### 3.4 **Modellvalg**
+### 3.4 **Velge tabellelementer**
 
-Med modelltabellen kan du nå selektere et sett med modeller ved å holde shift og legge til eller fjerne modeller fra ditt utvalg med kontroll.
+Med modelltabellen kan du nå velge en rekke modeller ved å holde shift. Du kan også legge til eller fjerne modeller fra valget ditt ved å holde Ctrl.
 
-### 3.5 **Aksjonsknapper**
+### 3.5 **Handlingsknapper**
 
-Før var den eneste handlingen du kunne utføre på valgte modeller at du kunne åpne de i 3D. Nå vil du kunne laste ned, fjerne og åpne 2D visningen til dine valgte modeller i tillegg.
+Tidligere var den eneste handlingen du kunne utføre på valgte modeller å åpne dem i 3D. Nå kan du laste ned, fjerne og åpne 2D-visningen av de valgte modellene dine. Hvis du sletter en modell som er tilkoblet et dokument, mister dokumentet modeltilkoblingen, men dokumentet forblir i dokumentseksjonen.
 
-Hvis du sletter en modell som er koblet til et dokument vil dokumentet miste koblingen til modellen men dokumentet vil beholdes i dokumentdelen.
+### 3.6 **Kontroller tilgang til dokument-modeller**
 
-### 3.6 **Tilgangskontroll for dokument-modeller**
+_Oppretter en modell-dokument_ Hvis du lager en modell med knappen Opprett modell i modellseksjonen, blir du bedt om å velge hvor du ønsker at det linkede dokument-modellen skal havne i dokumentseksjonen. I dialogboksen Opprett modell kan du også gi modellen et navn. Det resulterende linkede dokument-modellen vil ha det samme som modellen når den blir opprettet. Catenda Hub vil huske mappen du valgte sist og velger den automatisk neste gang du oppretter en modell-dokument.
 
-**Opprette et dokumentmodell**
+Hvis prosjektet ditt ble påbegynt uten modeller som dokumenter, har en mappe kalt "Modeller" dukket opp i mappstrukturen din. Modelsmappen som vises inneholder alle dokument-modeller som er lenket til modell-dokumenter i modellseksjonen. Dokument-modeller kan flyttes ut av denne mappen til hvor som helst i dokumentseksjonen du har tilgang. Dokument-modeller i Modeller-mappen kan også slettes (og gjenopprettes) hvis ønsket. Dokument-modellene trenger ikke å være i mappen, og modelsmappen kan slettes hvis det er nødvendig.
 
-Hvis du lager en modell med ny modell kanppen i modelldelen vil du bli spurt om å selektere hvor du ønsker at den lenkede dokument-modellen ender opp i dokumentdelen.
+_Oppretter en modell-revisjon_ For å kunne laste opp nye revisjoner til en modell trenger du nå minst skrivetilgang til dokumentmodellen. Nye revisjoner til modellen kan legges til dokumentet og omvendt.
 
-I ny modell dialogen vil du også kunne gi modellen et navn.
+> **Merknad:** Revisjonskommentarer har blitt deaktivert og kan nå eventuelt aktiveres med [egendefinerte felt på revisjoner](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents).
 
-Den resulterende lenkede dokument-modellen vil ha samme navn som modellen når den er opprettet. Catenda Hub vil huske mappen du valgte sist og automatisk selektere den neste gang du lager en ny modell.
+_Laster ned en modell-revisjon_ Du må ha minst lesetilgang til dokument-modellen for å kunne laste ned modellen.
 
-Hvis modeller som dokumenter er koblet på for et prosjekt som ikke startet med denne funksjonen vil en mappe kalt 'Models' dukke opp i din mappestruktur. Denne mappen vil inneholde alle dokument-modellene som er lenket til dine modell-dokumenter i modelldelen.
+### 3.7 **Informasjonsmeny til høyre**
 
-Dokument-modeller kan flyttes ut av denne mappen til ethvert sted i dokumentdelen du har tilgang til. Dokument-modeller kan også fjernes (og gjenopprettes) fra Models mappen. Dokument-modellene må ikke ligge i models mappen og mappen kan fjernes uten at det påvirker prosjektet.
+En informasjonsmeny til høyre er tilgjengelig hvis en modell er valgt.
 
-**Opprette en modell-revisjon**
+_Dokumentfelt_ I denne menyen vil du se modellinformasjonen din samt et grått felt som lenkes til dokument-modellen i dokumentseksjonen som er lenket til denne modell-dokumentet. Klikk på dokumentfeltet for å åpne dokument-modellen som er lenket til denne modellen.
 
-For å kunne laste opp nye revisjoner til en modell vil du nå trenge minst skrivetilgang til dokument-modellen. Nye revisjoner til modellen kan legges til i dokumentet og omventdt.
+_Modelletiketter_ Du kan nå også legge til etiketter til modellene dine her.
 
-> **Merk:** Revisjonskommentarer er koblet av og kan valgfritt kobles på igjen med [egne felt på revisjoner](https://support.catenda.com/nb/articles/9531080-egne-felt-pa-dokumenter).
+_Modellstatus_ Hvis statuser har blitt konfigurert i dokumentinnstillinger, kan du konfigurere en status for modellen din her.
 
-**Nedlastning av modell-revisjoner**
+_Modelltransformasjon_ Hvis du har åpnet denne modellen i 3D, kan du konfigurere modelltransformasjon her.
 
-Du trenger minst lese-tilgang til dokument-modellen for å kunne laste ned modeller.
+## 4. **Endringer i dokumentseksjonen**
 
-### 3.7 **Høyre informasjonspanel**
+Selv om de visuelle endringene ikke er like tydelige som i modellseksjonen, er det noen få ting som vil endres i dokumentseksjonen når modeller som dokumenter aktiveres. Slik kan dokument-modellene se ut i dokumentseksjonen.
 
-En høyre informasjonspanel vil være tilgjengelig hvis modeller er selektert.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/02-documents-section-changes.png)
 
-**Dokumentfelt**
+I dokumentseksjonen kan du finne følgende endringer:
 
-I dette panelet vil du se modellinformasjon i tilleg til et grått felt som lenker til dokument-modellen i dokumentdelen som er lenket til dette modell-dokumentet.
+### 4.1 **Modelfilter**
 
-Klikk på dokumentfeltet for å bli tatt til det koblede dokumentet i dokumentdelen.
+Så snart du har noen modeller i modellseksjonen, vil du se et modelfilter dukke opp i filtermenyen din. Med dette filteret kan du vise/skjule dokument-modeller som har blitt opprettet.
 
-**Modellmerkelapper**
+### 4.2 **Kolonner**
 
-Det er nå mulig å legge merkelapper på modellen her.
+_Ikon_ Du vil kunne skille et dokument-modell fra et vanlig dokument ved modellbadgen i nederste høyre hjørne av dokument-modellikon.
 
-**Modellstatus**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/03-columns.png)
 
-Om statuser er konfigurert i dokumentinnstillinger vil du kunne stille inn en status for din modell her.
+_Navn_ Navnet på dokumentet
 
-**Model transformasjon**
+_Modellnavn_ Navnet på modellen. Hvis IFC-dokumentet ditt ikke har blitt lenket til en modell, vil du se en opprettingsmodellknapp her.
 
-Hvis du har åpnet denne modellen i 3D vil du kunne stille inn modelltransformasjon her.
+_Revisjonnavn_ Navnet på den siste revisjonen i modellen
 
-## 4. **Endringer på dokumentersiden**
-
-Selv om de visbare endringen ikke er like tilsynelatende som i modeller delen er det noen få ting som vil endres for dokumenter delne når modeller som dokumenter er koblet på.
-
-![](https://downloads.intercomcdn.com/i/o/areracg3/1444501318/59cfe37d2e72723792c54e3f48e4/image.png?expires=1781092800&signature=0c904b4a8b3a3d001f365f1089d39fbb2a72500914dbb5d6dedd97dec54e1605&req=dSQjEsx%2BnIJeUfMW3nq%2BgQVHoqHR%2BtZmOjukh0758JkCBHPOngsupoEeel2c%0Ari%2B93zrgNY%2FLOKFZImfv5nOEnHE%3D%0A)
-
-I dokumenter delen vil du kunne finne følgende endringer:
-
-### 4.1 **Modellfilter**
-
-Så snart som du har noen modeller i modelldelen vil du kunne se et modellfilter dukke opp i filtermenyen. Med dette filteret kan du vise/gjemme dokument-modeller som er opprettet.
-
-### 4.2 **Kolommer**
-
-**Ikon**
-
-Du vil kunne se forskjell på dokument-modell fra vanlige dokument ved modellskiltet nederst til høyre av dokumentets ikon.
-
-![](https://downloads.intercomcdn.com/i/o/811879911/aaf93b647d7a0d7fc7ed6a97/image.png?expires=1781092800&signature=d85d765520058c1439e55163e2fea82d540890b90710aefaed4d0147309ee130&req=fCEmHs53lIBeFb4V1XW4gccdxCQn6BnPwtMJ4ulKi%2Bha5TuhRRWaS4b3SwSd%0Ae5lEzyJ0AdLKyME26LS0NqHi4w%3D%3D%0A)
-
-**Navn**
-
-Navnet til dokumentet
-
-**Modellnavn**
-
-Navnet til modellen
-
-Om ditt ifc dokument ikke er lenket til en modell vil du se en opprett-modell knapp her.
-
-**Revisjonsnavn**
-
-Navnet til den siste revisjonen i dokument-modellen.
-
-**Viser**
-
-En kolonne med knapper til å åpner hvert individuelle dokument-modell i 3D viser.
-
-Dokument-modeller kan bare åpnes i 3D viser hvis dokumentet er lenket til en modell.
+_Viser_ En kolonne med knapper for å åpne hver enkelt dokument-modell i 3D-viseren. Det er bare mulig å åpne dokument-modeller i 3D-viseren hvis dokumentet har blitt lenket til en modell.
 
 ### 4.3 **Handlingsknapper**
 
-Last ned, slett er last 2D/3D visningen valgte modeller i den respektive viseren ved å velge ett eller flere modeller.
+Last ned, slett eller last 2D/3D-visninger av valgte modeller i den respektive viseren ved å velge en eller flere modeller.
 
-<img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/1444472073/4a5d62987a173603bfc50826a54e/image.png?expires=1743174000&amp;signature=e473aad540c34bdea622ff938c7d3387dcf3fb5191fe74da2e812a0220503808&amp;req=dSQjEs15n4FYWvMW3Hu4gRIYyWwnFD80rJcTivpE97hTdX7r%2BIJrQePOhbxg%0AOA%3D%3D%0A" width="310"/>    <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/1444476210/5d03429401f489c2f68540b604ab/image.png?expires=1743174000&amp;signature=5471295ce456e51b1061a3049633ed97d4e607ab4f9aa42703250f98a26a4836&amp;req=dSQjEs15m4NeWfMW3Hu4gRy0TuhGQJSoYokVUVJAmlIAOa3c8LwX05a1oNpM%0Alw%3D%3D%0A" width="310"/>
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/inline-9e345595c719.png" width="310"/>    <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/inline-959af958f499.png" width="310"/>
 
-Dette betyr at du kan slette flere modeller av gangen fremfor en-for-en som før.
+Dette betyr at du kan slette flere modeller på en gang i stedet for en om gangen som før. Hvis du sletter et dokument som er tilkoblet en modell, må du godkjenne en advarsel om at modellen som er tilkoblet dokumentet også blir slettet.
 
-Om du sletter et dokument som er koblet til en modell vil du måtte godkjenne et varsel om at modellen som er koblet til dokumentet også slettes.
+> **Merknad:** Dette betyr at du kan slette en modell uten å miste dataene. (Slettede dokumenter kan gjenopprettes)
 
-> **Merk:** Dette betyr at du kan slette en modell uten å miste data. (Slettede dokumenter kan gjenopprettes)
+### 4.4 **Kontroller tilgang til modell-dokumenter**
 
-### 4.4 **Tilgangskontroll for dokument-modeller**
+_Oppretter dokument-modeller_ For å kunne laste opp nye revisjoner til en modell trenger du nå minst skrivetilgang til dokumentmodellen. Du gjør dette ved å opprette en modell i handlingsmenyen for et dokument. Etter at du gjør dette, vil du se dokumentet som en modell i modellseksjonen. Modell-dokumentet i modellseksjonen vil ha samme navn som dokument-modellen, selv om disse kan endres separat senere mens de forblir lenket. Nye revisjoner til modellen kan legges til som revisjoner til dokumentet og omvendt.
 
-**Opprette dokument-modeller**
+> **Merknad:** Dette betyr at du kan opprette modeller fra flere IFC-filer samtidig i stedet for å måtte laste dem opp en om gangen
 
-For å kunne laste opp nye revisjoner til en modell vil du nå trenge minst skrive tilgang til dokument-modellen.
+_Laster opp revisjoner til dokument-modeller_ Du må ha minst skrivetilgang til dokument-modellen for å kunne laste opp nye revisjoner til modellen. Dette betyr at du kan bruke multopplastingsfunksjonen til å laste opp IFC-filer til flere dokument-modeller samtidig
 
-Du kan gjøre dette ved å opprette en modell med opprett modell aksjonsknappen over modelllisten etter å ha selektert din ifc fill.
+_Laster ned dokument-modeller_ Du må ha minst lesetilgang til dokument-modellen for å kunne laste ned modellen. Dette betyr at du kan konfigurere tilgang for å tillate nedlasting av separate modeller i stedet for bare alle eller ingen modeller.
 
-Etter å ha gjort dette vil du se dokumentet som modell på modeller siden.
+### 4.5 **Oppdagbarhet**
 
-Modell-dokumentet i modeller delen vil ha samme navn som dokument-modellen selv om disse kan hver bli endret senere mens lenken ivaretas.
+Dokument-modeller kan nå finnes i dokumentseksjonen som alle andre dokumenter.
 
-Nye revisjoner til modellen kan legges til som revisjoner til dokumentet og omvendt.
+- Dokument-modeller kan struktureres i mapper for å gjøre det enklere å navigere til riktig sett med modeller.
+- Etiketter kan legges til dokument-modeller for å finne alle dokument-modeller som tilhører en type.
+- [Egendefinerte felt kan legges til mapper](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents) der dokumenter lastes opp for å søke på metadataverdier knyttet til hver dokument-modell
+- [Egendefinerte felt kan legges til mapper](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents) der dokumenter lastes opp for å kunne legge til informasjon i hver revisjon i hver dokument-modell.
 
-> **Merk:** Dette betyr at du kan opprette modeller fra flere IFC filter samtidig istedet for å måtte laste de opp en og en.
+Se [her](https://support.catenda.com/en/articles/8542598-structuring-documents#h_7838a63c73) for forslag på hvordan du strukturerer dokument-modellene dine slik at de er enkle å finne.
 
-**Laste opp revisjoner til dokument-modeller**
+### 4.6 **Godkjenn delte IFC-filer**
 
-Du vil minst måtte ha skrivetilgang til dokument-modellen for å kunne laste opp nye revisjoner til modellen.
+IFC-filer kan nå lastes opp som delte revisjoner slik at de kan gå gjennom en godkjenningsprosess før de blir publisert.
 
-Dette betyr at du kan bruke multi-opplastingsfunksjonen for å laste opp ifc filer til flere dokument-modeller på en gang.
+### 4.7 **Navnekonvensjon med dokument-modeller**
 
-**Laste ned dokument-modller**
+Navn i dokumentseksjonen inkluderer ofte komprimerte forkortelser for å holde dokumentnavnet kort mens det vises noe informasjon om hva dokumentet handler om. Navnet på dokument-modellen kan derfor være annerledes fra navnet på modell-dokumentet for å holde det i tråd med de andre dokumentene i dokumentseksjonen, mens det samtidig opprettholder et leselig navn å bruke i 3D-viseren i modellseksjonen. Dokumentnavnet på dokument-modellen er det navnet som blir gjenkjent når du laster opp dokumenter til dokumentseksjonen. Hvis navnet er likt eller det samme som dokumentet, blir en ny revisjon automatisk opprettet akkurat som med andre dokumenter.
 
-Du vil minst måtte ha lesetilgang til dokument-modellen for å kunne laste ned modeller.
-
-Dette betyr at du kan konfigurere tilgang for å tillate nedlastning av separater modeller istedet for bare alle eller ingen modeller.
-
-### 4.5 **Gjenfinnnbarhet**
-
-Det er mulig å finne Dokument-modeller dokumentdelen på samme måte som vanlige dokumenter.
-
-- Merkelapper kan legges på dine dokument-modeller for å finne alle dokument-modeller som tilhører en type.
-- Dokument-modeller kan struktureres i mapper for å gjøre det lettere å navigere til de rette modellene.
-- [Egne felt kan legges på mapper](https://support.catenda.com/nb/articles/9531080-egne-felt-pa-dokumenter) der dokumenter lastes opp for å søke på metadata-verdier som relateres til hvert dokument ved opplasting
-- [Egne felt kan legges på mapper](https://support.catenda.com/nb/articles/9531080-egne-felt-pa-dokumenter) der dokumenter lastes opp for å kunne legge til informasjon på hver revisjon til hvert dokument-modell.
-
-Se [her](https://support.catenda.com/en/articles/8542598-structuring-documents#h_7838a63c73) for anbefalinger for hvordan å strukturere dine dokument-modeller så de blir lettere å finne.
-
-### 4.6 **Godkjenne utkast IFC filer**
-
-IFC filer kan nå lastes opp som utkast så de kan tas gjennom en godkjenningsprosess før de publiseres.
-
-### 4.7 **Navngingingsavtaler med dokumentmodeller**
-
-Navn på dokument siden ofte inkluderer sammenføde avkortinger for å holde dokumentnavnet kort men allikevel vise noe informasjon om hva dokumentet handler om.
-
-Navnet til dokument-modellen kan der fæver forskjellig fra navnet til modell-dokumentet for å holde det oversiktlig med de andre dokumentete i dokumentdelen men allekevel heholde et lettleslig navn til bruk i 3D viser og på modeller siden.
-
-Dokumentnavnet til dokument-modellen vil være navnet som er gjenkjent når dokumenter lastes opp på dokumenter siden.
-
-HVse navnet er linknende eller likt som dokumentet vil en ny revisjon automatisk bli opprettet akkurat som med andre dokumenter.
-
-Fordi dokument-modeller oppfører seg det samme som valige modeller er det nå mulig å bruke navngivningsavtaler med dokument-modeller for å forsikre at deltagere til dine prosjekt gir riktige navn til dokumenter ved opplasting.
+Fordi dokument-modeller oppfører seg på samme måte som vanlige modeller, er det nå mulig å bruke navnekonvensjonen med dokument-modeller for å sikre at deltakerne i prosjektet ditt gir dokumentet riktig navn ved opplasting.

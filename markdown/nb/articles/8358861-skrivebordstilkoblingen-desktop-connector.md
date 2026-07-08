@@ -1,201 +1,227 @@
-# Skrivebordstilkoblingen (Desktop Connector)
+# Catenda Desktop Connector
 
-> **Merk:** Installasjonsfil for pluginnen er i denne [hjelpeartikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Merk:** Installasjonfilen for dette programmet finner du [her](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
 
-Med skrivebordstilkoblingen, Catenda Desktop Connector, kan du planlegge opp-/nedlastinger til de siste versjonene av dokumenter.
+Med Catenda desktop connector kan du planlegge opplastinger og nedlastinger av de nyeste versjonene av Dokumenter.
 
-Denne artikkelen inneholder informasjon om følgende temaer:
+## 1. **Umiddelbar opp-/nedlasting**
 
-## 1. **Umiddelbare opp-/nedlastinger**
+### 1.1 **Opplasting**
 
-Skrivebordstilkoblingen lar deg laste opp filer fra ditt lokale system til en spesifisert mappe på Catenda Hub. Du kan også selektere en rekke med mapper på Catenda Hub for å laste de ned til et sted på din lokale maskin.
+Velg en mappe på et lokalt system for å laste opp alt mappeinnhold, inkludert filer i undermapper til den valgte mappen, med Desktop Connector til en angitt mappe på Catenda Hub.
 
-### 1.1 **Opplastingshastighet**
+_Vellykkede opplastinger_ Hvis du drar og slipper flere filer eller bruker zip-opplastingsfunksjonen på Catenda Hub, laster du opp ett stort datasett. Jo større opplastingen er, desto lenger må du vente før du kan sende filene dine til Catenda Hub-dokumentstrukturen.
 
-Opplasting av filer med skrivebordstilkoblingen er raskere på filoverføring enn den standard opplastingsprosessesen ettersom filene er importert via APIet i stedet for via nettleseren.
+_Én fil om gangen_ Ved å laste opp filer fra en mappestruktur én fil om gangen kan Desktop Connector-en pause opplastingen og fortsette den senere.
 
-Det er derfor den beste måten å laste opp dine filer hvis du laster opp store mengder med data på en gang.
+_Reduser risikoen for opplastingsfeil_ Jo større opplastingen er, desto høyere er risikoen for at den også mislykkes. Kanskje går strømmen ut, eller internettforbindelsen din avbrytes for en kort stund. Deretter må du starte opplastingen på nytt.
 
-### 1.2 **Vellykkede opplastinger**
+### 1.2 **Nedlasting**
 
-Hvis du drar og slipper flere filer eller bruker zip-opplastingsfunksjonen på Catenda Hub laster du opp ett stort sett med data.
+Velg enten ett eller flere enkeltdokumenter eller velg en mappe på Catenda Hub for å laste ned utvalget, inkludert Dokumenter i undermapper av valgte mapper, til et sted på den lokale maskinen.
 
-Jo større opplastingen er, jo lengre tar det å sende inn dine filer til dokumentstrukturen i Catenda Hub.
+### 1.3 **Overføringshastighet**
 
-**En fil av gangen**
+Både opplasting og nedlasting av filer med Desktop Connector er raskere ved filoverføring enn den vanlige opplastingsprosessen fordi filene importeres via API-en uten overhead fra en kjørende nettleser eller andre nettleserbegrensninger. For overføring av en enkeltfil anbefales drag eller drop med en nettleser på grunn av brukervennligheten, men for overføring av store datamengder på en gang eller for de som ønsker å spare tid under opplasting av store enkeltfiler, er Desktop Connector den anbefalte måten for overføring.
 
-Ved å laste opp filer fra en mappestruktur en fil av gangen med skrivebordstilkoblingen kan du pausere opplastingsjobben og fortsette den senere.
+### 1.4 **Tilgang**
 
-**Mindre sjanse for feilmeldinger**
-
-Jo større opplastingen, jo høyere risiko for at den feiler. Kanskje strømmen går, kanskje internetttilkoblingen feiler for et millisekund. Da ville du måttet starte opplastingen på nytt.
+Tilgangskontroll som er konfigurert på Catenda Hub, blir opprettholdt. Brukere kan laste opp til steder i Catenda-dokumentstrukturen der de har minst skriverettigheter, og kan bare laste ned Dokumenter de har minst leserettigheter til.
 
 ## 2. **Synkronisering**
 
-Du kan planlegge når dine filer lastes opp eller ned med jevne intervall.
+Filer kan planlegges til å lastes opp eller ned med jevne mellomrom.
 
 ### 2.1 **Lokalt system -> Catenda Hub**
 
-Skrivebordstilkoblingen forsikrer at filene på ditt lokale system er oppdatert med filene i ditt Catenda prosjekt.
+Desktop Connector kan sikre at filer i et Catenda Hub-prosjekt holdes oppdatert med den siste lagringsstilstanden til en fil på det lokale systemet.
 
-### 2.2 **Catenda Hub -> Local system**
+### 2.2 **Catenda Hub -> Lokalt system**
 
-Det kan også fungere den andre veien der skrivebordstilkoblingen forsikrer at du alltid har siste versjon av dine Catenda Hub dokumenter på ditt lokale system.
+Desktop Connector kan sikre at filer på et lokalt system holdes oppdatert med den siste revisjonen av et Dokument i et Catenda Hub-prosjekt.
 
-## 3. **Logg inn**
+## 3. **Installasjon**
 
-Når du først åpner skrivebordstilkoblingen vil du bli spurt om å logge inn.
+Når Catenda Desktop Connector installeres på Windows, vises installasjonsfilene i følgende mappe.
 
-Hvis du klikker på logg inn knappen vil din standardnettleser åpnes med en side som ber deg om å logge inn.
+`C:\\Program Files\\Catenda Hub Desktop Connector`
 
-Etter å ha logget inn, eller hvis du allerede var logget inn, vil du bli spurt om å gi tilgang til din Catenda konto.
+### 3.1 **Avinstallering**
 
-Etter å klikke på tillat adgang vil du bli spurt om å åpne skrivebordstilkobling appen.
+For å avinstallere programtillegget, gå til følgende Windows-meny:
 
-Du vil da bli sendt tilbake til skrivebordstilkobling startsiden.
+`Windows-innstillinger -> Apper -> Installerte apper`
 
-![](https://downloads.intercomcdn.com/i/o/950031540/36cd0ebbd558689393707668/image.png?expires=1781092800&signature=0e4b881b5ad87ef25b75105e7a7e8ecd494477dfaa34d1d4278e9b4fa5b20dff&req=fSUnFsp%2FmIVfFb4V1XW4gfDY9EEgr1R66lyc8%2Fis2Xr%2FzXcao8SXlcGPq7zG%0ADZpSrheuhiUYwCibiwZ1deljSg%3D%3D%0A)
+Finn Desktop Connector i listen og klikk på handlingsmenyen på høyre side for å avinstallere.
 
-## 4. **Starteside**
+## 4. **Logg inn**
 
-Når du starter opp skrivebordstilkoblingen vil det se ut som dette:
+Når Desktop Connector åpnes for første gang, vises en innloggingsforespørsel. Klikk på Logg inn-knappen for å åpne standardnettleseren på systemet på Catenda-innloggingssiden. Etter at du har logget inn eller hvis du allerede er logget inn, klikk på tillat tilgang for å gi tilgang til Catenda-kontoen som er logget inn. Etter at du har klikket på tillat tilgang, vil nettleseren be brukeren om å åpne Desktop Connector-programmet. Når du gir tillatelse til å åpne programmet, omdirigeres du tilbake til Desktop Connector [startside](#home-page).
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454512207/d65fcc6b794f804bc8685db81e96/image.png?expires=1781092800&signature=a30aafb60d433473bd80ba811a32716afc3a684b2492aebd4b7b5a2281376e65&req=dSQiEsx%2Fn4NfXvMW3nq%2BgXYDEwmHCjjJCZlMUcEhnRH9Uw%2Bk4ToZ2NMOTtXU%0A8loqgvNquDud5WDSTa%2FdD2NmtaU%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/01-sign-in.png)
 
-### 4.1 **Vekke PC**
+## 5. **Startside**
 
-Vekke PC fra sovemodus hvis en oppgave er planlagt til å kjøre på et bestemt tidspunkt.
+Slik kan Desktop Connector se ut når den startes opp med en gyldig innlogging:
 
-### 4.2 **Kjør på oppstart**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/02-home-page.png)
 
-For å kjøre skrivebordstilkoblingen ved oppstart, velg dette valget.
+### 5.1 **Vekk PC**
 
-### 4.3 **Logg ut**
+Vekk PC-en fra hvilemodus hvis en oppgave er planlagt til å kjøre på det tidspunktet.
 
-Klikk på logg ut knappen nederst til høyre for å logge ut.
+### 5.2 **Kjør ved oppstart**
 
-![](https://downloads.intercomcdn.com/i/o/950021316/0053ee8a768a5188e6313c57/image.png?expires=1781092800&signature=43a10ad461d99e318a20b35ee132a99b1abed0e726ac4e1fdb3c57928b439578&req=fSUnFst%2FnoBZFb4V1XW4gThqJOWIUgCvL1w4D%2FD00hZl%2BjSWkhBzu0AfrfCB%0At7yYs0Cvm2OWN4cYaarP2Iu8jw%3D%3D%0A)
+For å kjøre desktop connectorene ved oppstart, velg dette alternativet
 
-## 5. **Prosjekter listen**
+### 5.3 **Logg ut**
 
-Her kan du se en oversikt over dine prosjekter og antall opp- og nedlastingsoppgaver du har satt for hvert prosjekt.
+Klikk på logg ut-knappen nederst til høyre for å logge ut.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454511391/3dec673019e79d576a9fbbdf74fd/image.png?expires=1781092800&signature=c0d13f050c3787d8f4bc601621571aac4a16afa95bf753707c74fb6b0b6a5f66&req=dSQiEsx%2FnIJWWPMW3nq%2BgVIDujC5hAxXP6WwoXzVLWMtbCVf4iDdThaQOtcr%0ABqxSXRH4oYKU9d%2FXCPm3OuiEFpY%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/03-log-out.png)
 
-Klikk på navnet til et prosjekt for å se dine gjeldende opp- og nedlastingsoppgaver eller for å planlegge en ny oppgave.
+## 6. **Prosjektliste**
 
-### 5.1 **Synkroniseringsknappen**
+En oversikt over prosjektene som kontoen hadde tilgang til sist prosjektlisten ble lastet inn, vises. For hvert prosjekt vises antallet opp- og nedlastingsoppgaver som er konfigurert.
 
-Hvis du har nylig blitt medlem av et prosjekt kan du klikke på synkroniseringsknappen for å laste inn din liste av prosjekter på nytt.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/04-project-list.png)
 
-![](https://downloads.intercomcdn.com/i/o/950025424/2f27581570051bde063c7246/image.png?expires=1781092800&signature=ef6298b070111ca73c8e594595b72887bd2b9b9cac65cea8e800e7af69f4ec2d&req=fSUnFst7mYNbFb4V1XW4geobuS5sg5oKpjFhFVSCA3gu2MlbQTC4KuaGF1EC%0A3NuFgqd7xXl8O8cJztQFnUVDow%3D%3D%0A)
+### 6.1 **Synkroniseringsknapp**
 
-### 5.2 Navn
+Hvis du nylig har blitt med i et prosjekt, klikk på denne synkroniseringsknappen for å laste inn den nye listen over prosjekter som den innloggede kontoen er en del av.
 
-Klikk på navnet til et prosjekt for å se din gjeldende opp- og nedlastingsoppgaver eller for å planlegge en ny oppgave.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/05-synchronize-button.png)
 
-### 5.3 **Opplastingsoppgaver**
+### 6.2 **Navn**
 
-Antall opplastingsoppgaver som er aktive for dette proesjektet.
+Klikk på navnet på et prosjekt for å se gjeldende opp- og nedlastingsoppgaver eller for å planlegge en ny oppgave.
 
-### 5.4 **Nedlastingsoppgaver**
+### 6.3 **Opplastingsoppgaver**
 
-Antall nedlastings oppgaver som er aktive for dette prosjektet
+Antallet opplastingsoppgaver som er aktive for dette prosjektet
 
-## 6. **Opplastingsoppgave**
+### 6.4 **Nedlastingsoppgaver**
 
-Med denne oppgaven kan du planlegge en periodisk opplasting av filer fra ditt system til Catenda Hub.
+Antallet nedlastingsoppgaver som er aktive for dette prosjektet
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454513666/58c444d8f0a3aecedf9451a37e4c/image.png?expires=1781092800&signature=c5d6b85087167630e951b0e14e1f445287c73d00b8cc7d055e570305224bd2c9&req=dSQiEsx%2FnodZX%2FMW3nq%2Bgb5BulI8ZsQj1X9ePYqJQTxAn3msLP9dQCitIb1z%0AhLi8gV1V4QcmeUU3yricrviMAC0%3D%0A)
+## 7. **Opplastingsoppgave**
 
-### 6.1 **Tittel** - Minstekrav
+Planlegg en periodisk opplasting av filer fra systemet ditt til Catenda Hub med denne oppgaven.
 
-Opplastingsoppgaven må minst ha en tittel for å kunne lagres.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/06-upload-task.png)
 
-### 6.2 **Planleggisnskalender -** Minstekrav
+### 7.1 **Tittel - Obligatorisk**
 
-Minst en dag må være valgt i Opplastingsoppgaven for at den skal kunne lagres.
+Opplastingsoppgaven må ha minst en tittel for å bli lagret
 
-### 6.3 **Prosjektlokasjon**
+### 7.2 **Planlegg kalender - Obligatorisk**
 
-_Server_ - Velg stedet på Catenda Hub som du ønsker å synkronisere filer til.
+Oppgaven må ha minst én dag valgt for å bli lagret
 
-_Lokal_ - Velg stedet på ditt system som du ønsker å synkronisere filer fra.
+### 7.3 **Prosjektplassering**
 
-### 6.4 **Øyeblikkelig**
+_Server_ Klikk på Bla gjennom for å velge destinasjonen på siden Dokumenter i Catenda Hub der filer skal synkroniseres til. Klikk [her](#server-location) for å lese mer om valg av servermappebane
 
-Klikk på opplastingsboksen for å sett i gang denne oppgaven øyeblikkelig.
+_Lokalt_ Velg plasseringen på det lokale systemet der filer skal synkroniseres fra.
 
-Du må ikke lagre oppgaven for å sette i gang opplastingen.
+### 7.4 **Umiddelbar**
 
-Om du lagrer oppgaven vil den kjøre periodisk til den gitte tiden.
+Oppgaver trenger ikke å bli lagret for å starte opplastingsprosessen. Klikk på opplastingsfeltet nå for å starte denne oppgaven umiddelbart. Lagrede oppgaver kjøres periodisk på det konfigurerte tidspunktet.
 
-## 7. **Nedlastingsoppgave**
+## 8. **Nedlastingsoppgave**
 
-Med denne opggaven kan du planlegge en periodisk nedlasting av filer fra Catenda Hub til ditt system.
+Planlegg en periodisk nedlasting av filer fra Catenda Hub til det lokale systemet.
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454513030/be3e55bc88d82f2aa759e1c39a92/image.png?expires=1781092800&signature=b27f3771733073b6c11411f7ac518ba010426e6ee8582020a32836bb8d110f84&req=dSQiEsx%2FnoFcWfMW3nq%2BgbrTnbPUqZVcwVwAkhCa5inmIvrYv4%2FrOUjdnPQd%0ATBBrENbK%2F7boD89P5TjSL1bTu14%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/07-download-task.png)
 
-### 7.1 **Tittel** - Minstekrav
+### 8.1 **Tittel - Obligatorisk**
 
-Opplastingsoppgaven må minst ha en tittel for å kunne lagres.
+Opplastingsoppgaven må ha minst en tittel for å bli lagret
 
-### 7.2 **Planleggisnskalender -** Minstekrav
+### 8.2 **Planlegg kalender - Obligatorisk**
 
-Minst en dag må være valgt i Opplastingsoppgaven for at den skal kunne lagres.
+Oppgaven må ha minst én dag valgt for å bli lagret
 
-### 7.3 **Prosjektlokasjon**
+### 8.3 **Prosjektplassering**
 
-_Server_ - Velg stedet på Catenda Hub som du ønsker å synkronisere filer til.
+_Server_ Velg plasseringen på Catenda Hub der Dokumenter skal lastes ned fra. Klikk [her](#server-location) for å lese mer om valg av servermappebane
 
-_Lokal_ - Velg stedet på ditt system som du ønsker å synkronisere filer fra.
+_Lokalt_ Velg destinasjonen på det lokale systemet der filer skal lastes ned til.
 
-### 7.4 **Øyeblikkelig**
+### 8.4 **Umiddelbar**
 
-Klikk på opplastingsboksen for å sett i gang denne oppgaven øyeblikkelig.
+En oppgave trenger ikke å bli lagret for å starte nedlasting. Klikk på Nedlast nå-feltet for å starte denne oppgaven umiddelbart. Lagre oppgaven for å kjøre nedlastingen periodisk på det konfigurerte tidspunktet. De nedlastede Dokumentene blir pakket ut på systemet ditt.
 
-Du må ikke lagre oppgaven for å sette i gang opplastingen.
+### 8.5 Tilbake-knapp
 
-Om du lagrer oppgaven vil den kjøre periodisk til den gitte tiden.
+Klikk på pilknappen for å gå tilbake til [startsiden](#home-page)
 
-De nedlastede dokumenter ender opp på ditt system pakket ut.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
-Om filene var lastet ned gjennom nettleser hadde du fått de i en zippet fil.
+## 9. **Serverplassering**
 
-### 7.5 **Tilbakeknappen**
+Klikk på Bla gjennom i prosjektplasseringsområdet for en opp- eller nedlastingsoppgave for å begynne å bla gjennom mappebanen til Catenda-prosjektet. Dialogboksen Velg mappebane åpnes. Når den åpnes, starter den nedlastingen av alle mappenavn i prosjektet og deres hierarki. For nedlastingsoppgaver lastes også Dokumentnavn ned. Mens nedlastingen pågår, kan dialogboksen se slik ut:
 
-Klikk denne knappen for å gå tilbake til [hjemmesiden](#h_f1e6129450).
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/09-server-location.png)
 
-![](https://downloads.intercomcdn.com/i/o/950023253/d65643c0a2f97d7bc7d2319e/image.png?expires=1781092800&signature=a5c07c2bae2a7ad2cb375cfc7b58e84de093d43a89c6106dadabc2204c59e04e&req=fSUnFst9n4RcFb4V1XW4ga0YsQM1%2FTQcJiZjnQF4y8vosAgaXDzX%2Bu%2BJTnPP%0ArEpZpux7zmL2kXm%2Fj27ea4%2FJnQ%3D%3D%0A)
+Spesielt for nedlastingsoppgaver, hvis det er mange mapper og Dokumenter, kan det ta et par minutter før denne prosessen er ferdig. Kontroller at det er nok minne tilgjengelig på det lokale systemet for dette trinnet.
 
-## 8. **Oppgavelisten**
+_Dialogboksstørrelse_ Klikk på Min eller Maks øverst til høyre for å minimere eller maksimere dialogboksen Velg mappebane.
 
-Her kan du se dine gjeldende opp- og nedlastingsoppgaver.
+_Mappehandlinger_ Etter at mappene er lastet inn, kan dialogboksen se slik ut:
 
-![](https://downloads.intercomcdn.com/i/o/areracg3/1454511852/89de9904677e01ac378e31744f71/image.png?expires=1781092800&signature=133a88ae87d91f7696626481bd3c5f271e32e24c536d431cef99a95991a003bc&req=dSQiEsx%2FnIlaW%2FMW3nq%2BgbmyGBGmkfA25sLswXiTltQYOHlvraGzToIU9VlX%0AG6vHVa1Yfx2UuL2p6TkvIK84W5U%3D%0A)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/10-server-location.png)
 
-### 8.1 **Navn**
+Klikk på pilen ved siden av en mappe for å utvide den. Dokumenter er bare tilgjengelig i denne visningen for nedlastingsoppgaver.
 
-Navnet til oppgaven.
+_Mappevalg_ Klikk på en mappe for å velge den. For nedlastingsoppgaver kan flere mapper velges mens for opplastingsoppgaver kan bare én mappe velges om gangen.
 
-### 8.2 **Oppgave**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/11-server-location.png)
 
-Den planlagte tiden oppgaven kører til.
+Etter at en mappe er valgt, vises den som hvit med en hake. Alle undermapper til den valgte mappen vises gjennomstrekket fordi det bare er mulig å velge mapper på samme nivå. Øverst vises antallet valgte elementer.
 
-### 8.3 **Prosjekt**
+_Nedlastingsoppgave_ Hvis det finnes Dokumenter i den valgte mappen eller dens undermapper, vil alle mapper i banen mellom den valgte mappen og Dokumentet bli opprettet. Dokumentet lastes deretter ned til den mappen. Hvis en undermappe ikke inneholder Dokumenter, vil undermappen ikke bli opprettet selv om den kan være merket av i denne dialogboksen. Det er ikke mulig å fjerne merking fra en undermappe for ikke å laste ned en del av en mappestruktur. For å bare laste ned noen mapper, velg dem individuelt som i bildet nedenfor:
 
-Navnet til prosjektet der oppgaven kjøres.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/12-server-location.png)
 
-### 8.4 **Status**
+Dokumentvalg Klikk på et Dokument for å velge det
 
-Statussen til denne oppgaven.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/13-server-location.png)
 
-### 8.5 **Tilbakeknappen**
+Når individuelle Dokumenter er valgt, blir Dokumentene lastet ned som en flat liste direkte til den valgte lokale banen uten hierarkiet til mappene som disse Dokumentene befinner seg i.
 
-Klikk denneknappen for å gå tilbake til [hjemmesiden](#h_f1e6129450).
+_Opplastingsoppgave_ Dokumenter lastes opp til den valgte mappen. Hvis mappenavnet stemmer, lastes Dokumenter opp til undermapper til den valgte mappen.
 
-![](https://downloads.intercomcdn.com/i/o/950023253/d65643c0a2f97d7bc7d2319e/image.png?expires=1781092800&signature=a5c07c2bae2a7ad2cb375cfc7b58e84de093d43a89c6106dadabc2204c59e04e&req=fSUnFst9n4RcFb4V1XW4ga0YsQM1%2FTQcJiZjnQF4y8vosAgaXDzX%2Bu%2BJTnPP%0ArEpZpux7zmL2kXm%2Fj27ea4%2FJnQ%3D%3D%0A)
+## 10. **Oppgaveliste**
 
-## 9. **Loggmappen**
+Her kan du se opp- og nedlastingsoppgavene som er konfigurert i denne installasjonen for den innloggede brukeren.
 
-Denne knappen åpner mappeområdet der loggene til skrivebordstilkoblingen ligger på ditt system.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/14-task-list.png)
+
+### 10.1 **Navn**
+
+Navnet på oppgaven.
+
+### 10.2 **Oppgave**
+
+Det planlagte tidspunktet oppgaven skal kjøre.
+
+### 10.3 **Prosjekt**
+
+Navnet på prosjektet der denne oppgaven skal kjøres.
+
+### 10.4 **Status**
+
+Status for denne oppgaven.
+
+### 10.5 **Tilbake-knapp**
+
+Klikk på denne knappen for å gå tilbake til [startsiden](#home-page)
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
+
+## 11. **Loggmappe**
+
+Denne knappen åpner mappeplasseringen til Desktop Connector-loggene på det lokale systemet. Standardplasseringen for disse loggene er:
+
+`C:\\Users\\\<Windows account name>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp`

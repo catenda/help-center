@@ -6,42 +6,46 @@
 
 Si vous êtes invité à Catenda Hub ou si vous vous inscrivez pour la première fois, c'est la section à lire.
 
-- [Étape 1 - Configuration du compte](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9030303-etape-1-configuration-du-compte.md): Créez votre compte et soyez invité à participer à un projet
+- [Étape 1 - Configuration du compte](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9030303-etape-1-configuration-du-compte.md): Créez votre compte et recevez une invitation à un projet
 
 ## Paramètres
 
 Configurez les paramètres de votre projet ou de votre compte
 
-- [Authentification Multi Facteur](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4969891-authentification-multi-facteur.md): activer l'authentification multifacteur; connexion avec sécurité renforcée
+- [Authentification multifactorielle](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4969891-authentification-multi-facteur.md): Décrit comment configurer l'authentification multifactorielle sur votre compte
 - [Créer une équipe](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670264-creer-une-equipe.md)
 
 ## Fonctionnalités
 
 Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une fonctionnalité spécifique.
 
-- [Catenda Hub Navisworks plugin (description + lien téléchargement)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5085987-catenda-hub-navisworks-plugin-description-lien-telechargement.md): Court descriptif du plugin Catenda Hub pour NavisWorks
+- [Code QR sur les fichiers PDF dans Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9360508-qr-code-sur-les-pdf-dans-catenda.md)
 - [Connecteur de bureau Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8358861-connecteur-de-bureau-catenda.md)
-- [Corps du sujet - Le contenu d'un sujet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet.md)
-- [Déposer un fichier ZIP / une arborescence de dossiers et de fichiers](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7945410-deposer-un-fichier-zip-une-arborescence-de-dossiers-et-de-fichiers.md)
-- [Guide Utilisateur - Flux de Validation (ISO 19650)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9874698-guide-utilisateur-flux-de-validation-iso-19650.md)
-- [Manuel d'export IFC Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670338-manuel-d-export-ifc-archicad.md)
-- [Modèles](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670286-modeles.md): l'espace Modèles
-- [Nuages de points dans Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5606625-nuages-de-points-dans-catenda-hub.md): Découvrez comment utiliser des balayages laser et des technologies LiDAR dans Catenda Hub.
-- [Plugin Catenda Hub Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5519276-plugin-catenda-hub-archicad.md)
-- [Plugin Revit Catenda HUB](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670334-plugin-revit-catenda-hub.md)
-- [Plugins et Intégrations Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8396532-plugins-et-integrations-catenda.md)
-- [QR-Code sur les PDF dans Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9360508-qr-code-sur-les-pdf-dans-catenda.md)
-- [Traitement des Sujets à travers l'outil check-list](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5036461-traitement-des-sujets-a-travers-l-outil-check-list.md): un outil supplémentaire pour vous faciliter le suivi des modifications
+- [Corps du topic - Le contenu d'un topic](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet.md)
+- [Extension Catenda Navisworks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5085987-catenda-hub-navisworks-plugin-description-lien-telechargement.md)
+- [Filtrage sur la page des topics](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8370693-filtering-on-the-topics-page.md)
+- [Listes de contrôle dans les problèmes](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5036461-traitement-des-sujets-a-travers-l-outil-check-list.md): Un moyen facile de suivre la progression sur le site.
+- [Manuel d'export IFC Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670341-k2nekg1n.md)
+- [Manuel d'exportation IFC Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670338-manuel-d-export-ifc-archicad.md)
+- [Nouveau flux de travail de statut - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9874698-guide-utilisateur-flux-de-validation-iso-19650.md)
+- [Nuages de points dans Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5606625-nuages-de-points-dans-catenda-hub.md): Découvrez comment bénéficier des technologies de balayage laser et LIDAR dans Catenda Hub.
+- [Page des modèles de rapport](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12380837-report-templates-page.md)
+- [Page Models](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670286-modeles.md)
+- [Plugin Catenda Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5519276-plugin-catenda-hub-archicad.md): test
+- [Plugin Catenda Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670334-plugin-revit-catenda-hub.md)
+- [Plugins et intégrations Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8396532-plugins-et-integrations-catenda.md): Connectez Catenda à votre outil préféré
+- [Télécharger un fichier zip / structure de fichiers](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7945410-deposer-un-fichier-zip-une-arborescence-de-dossiers-et-de-fichiers.md)
 - [Visionneuse 3D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8227211-visionneuse-3d.md)
 
 ## FAQ
 
-- [Quels formats sont compatibles avec Catenda?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670320-quels-formats-sont-compatibles-avec-catenda.md): formats lecturés par Catenda Hub; formats disponibles; formats acceptés;
-- [Recommandation sur le matériel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6921941-recommandation-sur-le-materiel.md): Découvrez les spécifications matérielles recommandées et les conseils d'optimisation pour une expérience optimale avec Catenda Hub.
-- [Taille limite des fichiers IFC](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670324-taille-limite-des-fichiers-ifc.md): taille limitée IFC; quelle taille maximale par fichier;
+- [Aperçu des types de fichiers sur Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670320-quels-formats-sont-compatibles-avec-catenda.md)
+- [Manuel d'export 3D DWG](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7887999-3baydpf4.md)
+- [Quelle est la taille de fichier que je peux télécharger ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670324-taille-limite-des-fichiers-ifc.md)
+- [Recommandation matérielle](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6921941-recommandation-sur-le-materiel.md): Trouvez les spécifications matérielles recommandées et les conseils d'optimisation pour la meilleure expérience avec Catenda Hub.
 
 ## Nouvelles mises à jour 🎉
 
 Trouvez les dernières mises à jour de Catenda Hub
 
-- [Modèles-Documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8064548-modeles-documents.md)
+- [Models comme Documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8064548-modeles-documents.md)

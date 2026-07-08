@@ -6,46 +6,49 @@
 
 Wenn Sie zu Catenda Hub eingeladen werden oder sich zum ersten Mal anmelden, sollten Sie diesen Abschnitt lesen. 
 
-- [Schritt 1 - Konto einrichten](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9030303-schritt-1-konto-einrichten.md): Erstellen Sie Ihr Konto und lassen Sie sich zu einem Projekt einladen
+- [Schritt 1 - Kontoeinrichtung](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9030303-schritt-1-konto-einrichten.md): Erstellen Sie Ihr Konto und werden Sie zu einem Projekt eingeladen
 
 ## Kontoverwaltung
 
 Konfigurieren Sie die Einstellungen Ihres Projekts oder Kontos
 
-- [Creating a team](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670264-creating-a-team.md): Lernen Sie in diese Artikel, wie Sie ein Team anlegen
-- [Multi-Faktor-Authentifizierung](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4969891-multi-faktor-authentifizierung.md)
+- [Ein Team erstellen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670264-creating-a-team.md)
+- [Multi-Faktor-Authentifizierung](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4969891-multi-faktor-authentifizierung.md): Beschreibt, wie Sie MFA auf Ihrem Konto einrichten
 
 ## Funktionalitäten
 
 Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hilfe für eine bestimmte Funktion suchen.
 
-- [3D viewer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8227211-3d-viewer.md)
-- [Benutzerhandbuch - Status Workflow (ISO 19650)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9874698-benutzerhandbuch-status-workflow-iso-19650.md)
-- [Catenda Archicad Plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5519276-catenda-archicad-plugin.md): Installation des Catenda Archicad Plugins
-- [Catenda Desktop connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8358861-catenda-desktop-connector.md)
-- [Catenda Hub Navisworks plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5085987-catenda-hub-navisworks-plugin.md): Wie Sie mit dem Navisworks Plugin Open BIM erleben können
-- [Catenda-Plugins und -Integrationen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8396532-catenda-plugins-und-integrationen.md)
-- [Checkliste in Aufgaben](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5036461-checkliste-in-aufgaben.md)
-- [Hauptteil eines Themas - Der Inhalt eines Themas](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8053352-hauptteil-eines-themas-der-inhalt-eines-themas.md)
-- [IFC Export aus Archicad - eine Anleitung](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670338-ifc-export-aus-archicad-eine-anleitung.md)
-- [Lade einen Zip Ordner hoch](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7945410-lade-einen-zip-ordner-hoch.md)
-- [Modelle](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670286-modelle.md)
-- [Punktwolke in Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5606625-punktwolke-in-catenda-hub.md): Finde raus, wie Punktwolken in Bimsync funktionieren.
+- [3D-Viewer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8227211-3d-viewer.md)
+- [Catenda Archicad-Plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5519276-catenda-archicad-plugin.md): Test
+- [Catenda Desktop Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8358861-catenda-desktop-connector.md)
+- [Catenda Navisworks-Plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5085987-catenda-hub-navisworks-plugin.md)
+- [Catenda Plugins & Integrationen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8396532-catenda-plugins-und-integrationen.md): Verbinden Sie Catenda mit Ihrem bevorzugten Tool
+- [Catenda Revit-Plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670334-revit-plugin.md)
+- [Checklisten innerhalb von Problemen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5036461-checkliste-in-aufgaben.md): Eine einfache Möglichkeit, den Fortschritt auf der Website zu verfolgen.
+- [Ein Zip-Archiv / eine Dateistruktur hochladen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7945410-lade-einen-zip-ordner-hoch.md)
+- [Filterung auf der Themaseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8370693-filtering-on-the-topics-page.md)
+- [IFC Export Archicad Handbuch](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670338-ifc-export-aus-archicad-eine-anleitung.md)
+- [Modellseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670286-modelle.md)
+- [Neuer Status-Workflow - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9874698-benutzerhandbuch-status-workflow-iso-19650.md)
+- [Punktwolken in Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5606625-punktwolke-in-catenda-hub.md): Erfahren Sie, wie Sie von Laserscans und LIDAR-Technologien in Catenda Hub profitieren können.
 - [QR-Code auf PDFs in Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9360508-qr-code-auf-pdfs-in-catenda.md)
-- [Revit IFC Export Handbuch](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670341-revit-ifc-export-handbuch.md)
-- [Revit plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670334-revit-plugin.md)
+- [Revit IFC Export-Anleitung](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670341-revit-ifc-export-handbuch.md)
+- [Seite Berichtvorlagen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12380837-report-templates-page.md)
+- [Topic Body – Der Inhalt eines Topics](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8053352-hauptteil-eines-themas-der-inhalt-eines-themas.md)
+- [Werkzeugkasten zur Beitragsformatierung](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8430847-post-formatting-toolbox.md): Wie Felder, in denen Beiträge erstellt werden können, formatiert werden können
 
 ## Häufig gestellte Fragen
 
 FAQ zu Catenda
 
-- [3D-DWG-Export-Handbuch](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7887999-3d-dwg-export-manual.md)
-- [Gibt es eine Größenbeschränkung für IFC-Dateien?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670324-gibt-es-eine-grossenbeschrankung-fur-ifc-dateien.md)
-- [Systemanforderungen und -optimierung](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/6921941-systemanforderungen-und-optimierung.md)
-- [Welche Dateitypen werden von Catenda unterstützt?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670320-welche-dateitypen-werden-von-catenda-unterstutzt.md)
+- [3D-DWG-Exporthandbuch](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7887999-3d-dwg-export-manual.md)
+- [Hardwareempfehlung](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/6921941-systemanforderungen-und-optimierung.md): Finden Sie empfohlene Hardwarespezifikationen und Optimierungstipps für das beste Erlebnis mit Catenda Hub.
+- [Vorschau von Dateitypen auf Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670320-welche-dateitypen-werden-von-catenda-unterstutzt.md)
+- [Welche Dateigröße kann ich hochladen?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670324-gibt-es-eine-grossenbeschrankung-fur-ifc-dateien.md)
 
 ## Neueste Updates 🎉
 
 Finden Sie die neuesten Catenda-Updates
 
-- [Modelle in Dokumente](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8064548-modelle-in-dokumente.md)
+- [Modelle als Dokumente](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8064548-modelle-in-dokumente.md)

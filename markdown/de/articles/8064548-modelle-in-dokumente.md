@@ -1,163 +1,136 @@
-# Modelle in Dokumente
+# Modelle als Dokumente
 
-> **Note:** Hinweis: Diese Funktion wurde am 16.11.2023 vollständig freigegeben und wird für alle neuen Projekte aktiviert. Wenn Sie Ihr Projekt vorher migrieren möchten, ist dies auf Anfrage möglich. Bitte fragen Sie [support@catenda.com](mailto:support@catenda.com) oder über den schwarzen Chat-Button neben Ihrem Profilbild oben rechts, wenn Sie Ihr Projekt migrieren möchten.
+Früher war es möglich, IFC-Dateien an zwei verschiedenen Orten auf Catenda Hub hochzuladen. Mit der Funktion _Modelle als Dokumente_ werden diese beiden Orte für Modelldateien in eine nahtlose Funktion zusammengeführt. Wenn Sie ein Modell im Bereich "Modelle" erstellen, wird automatisch ein entsprechendes Dokument im Bereich "Dokumente" verlinkt und erstellt. Wenn Sie ein IFC-Dokument hochladen, können Sie die Schaltfläche "Modell erstellen" verwenden, um ein Modell im Bereich "Modelle" zu verlinken und zu erstellen. Mit dieser Funktion können Modelle im Bereich "Modelle" wie Dokumente behandelt werden, während Modelle im Bereich "Dokumente" genau wie Modelle behandelt werden können.
 
-Bisher war es möglich, ifc-Dateien an zwei verschiedenen Stellen in Catenda Hub hochzuladen.
+## 1. **Vor/Nach der Migration - Hauptunterschiede**
 
-Mit der Funktion Modelle als Dokumente werden diese beiden Orte für Modelldateien zu einer nahtlosen Funktion verschmolzen.
+<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e8e8e880; width: 126px;"><h1 id="h_3632d3cc1b"></h1></td><td style="background-color: #e8e8e880; width: 262px;"><h2 class="intercom-align-center" id="h_2093155130"><b>Vorher</b></h2></td><td style="background-color: #e8e8e880; width: 248px;"><h2 class="intercom-align-center" id="h_d5cfcbcb2d"><b>Nachher</b></h2></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Hauptverhalten</b></p></td><td style="width: 262px;"><p>Modelle existierten nur im Bereich "Modelle". Der Benutzer musste dieselbe IFC-Datei sowohl in den Bereich "Dokumente" als auch "Modelle" hochladen.</p></td><td style="width: 248px;"><p>Modelle werden auf Anfrage des Benutzers aus IFC-Dateien erstellt, die in den Bereich "Dokumente" hochgeladen wurden. Die IFC-Datei und das zugehörige Modell werden dann verlinkt.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Benutzeroberfläche</b></p></td><td style="width: 262px;"><p><b>Anders</b> als der Bereich "Dokumente" und zeigt weniger Informationen an, im Grunde nur eine Liste von Modellen.</p></td><td style="width: 248px;"><p><b>Gleich</b> wie der Bereich "Dokumente": eine anpassbare Tabelle mit zugehörigen Metadaten.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Zugriffsrechte</b></p></td><td style="width: 262px;"><p><b>Konnte nicht angewendet werden</b> auf Modelle</p></td><td style="width: 248px;"><p><b>Kann angewendet werden</b> auf Modelle aus ihrem zugehörigen Dokument im Bereich "Dokumente"</p></td></tr></tbody></table></div>
 
-Wenn Sie ein Modell im Bereich Modelle erstellen, wird ein Dokument im Bereich Dokumente verlinkt und erstellt. Wenn Sie ein IFC-Dokument hochladen, können Sie die Aktionsschaltfläche "Modell erstellen" verwenden, um ein Modell im Bereich "Modelle" zu verknüpfen und zu erstellen.
+## 2. **Bekannt, aber anders**
 
-Mit dieser Funktion können Modelle im Abschnitt "Modelle" wie Dokumente behandelt werden, während Modelle im Abschnitt "Dokumente" nur wie Modelle behandelt werden können.
+Jetzt, da die beiden Bereiche verlinkt wurden, ist es wichtig zu beachten, dass es immer noch einige Unterschiede zwischen den Bereichen "Modelle" und "Dokumente" gibt. Im Bereich "Modelle" können Sie alle Modell-Dokumente in einer Liste zusammengefasst sehen. Hier sehen Sie Ihre Modell-Dokumente so, wie sie im 3D-Viewer verwendet werden. Im Bereich "Dokumente" können Sie Dokument-Modelle in Ihrer Dokumentstruktur sehen. Hier sehen Sie Ihre Dokument-Modelle so, wie sie in Ihrer gemeinsamen Datenumgebung verwendet werden. Alle Modelle sind mit ihrem eigenen Dokument verlinkt, und Funktionen aus beiden Bereichen können sowohl im Bereich "Modelle" als auch im Bereich "Dokumente" verwendet werden.
 
-### Vertraut und doch anders
+## 3. **Änderungen im Bereich "Modelle"**
 
-​Nach der Verknüpfung der beiden Abschnitte ist es wichtig zu beachten, dass es noch einige wesentliche Unterschiede zwischen den Abschnitten "Modelle" und "Dokumente" gibt.
+Mit Modelle als Dokumente hat sich das Aussehen des Bereichs "Modelle" geändert. Anstelle von Menüelementen für jedes Modell werden diese nun in einer durchsuchbaren Tabelle angezeigt.
 
-In der Rubrik Modelle können Sie alle Modelldokumente in einer Liste sehen.
+Im Bereich "Modelle" können Sie die folgenden Änderungen finden:
 
-Hier sehen Sie Ihre Modelldokumente in einer Weise, die der Verwendung im 3D-Viewer ähnelt.
+### 3.1 **Modell-Tabelle**
 
-Im Bereich Dokumente können Sie die Dokument-Modelle in Ihrer Dokumentstruktur sehen. Hier sehen Sie Ihre Dokumentenmodelle in einer Art und Weise, die der Verwendung in Ihrer gemeinsamen Datenumgebung ähnelt.
+Die neue Modell-Tabelle könnte etwa so aussehen:
 
-Alle Modelle sind mit ihrem eigenen Dokument verknüpft, und Funktionen aus beiden Bereichen können sowohl im Modellbereich als auch im Dokumentbereich verwendet werden.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/01-model-table.png)
 
-### Änderungen im Bereich Modelle
+### 3.2 **Spalten**
 
-Mit Modellen als Dokumenten hat sich das Erscheinungsbild des Modellbereichs geändert. Anstatt Menüpunkte für jedes Modell zu sehen, werden sie nun in einer durchsuchbaren Tabelle angezeigt.
+Die Modell-Liste hat Spalten, die die meisten Informationen anzeigen, die Sie über Ihre Modelle wissen müssen.
 
-Im Bereich Modelle finden Sie die folgenden Änderungen:
+_Name_ Der Name des Modell-Dokuments. Der Modellname ist auch der Name, den Sie in der Revisionsauswahl in der 3D-Ansicht sehen.
 
-Modelltabelle - Aktionsschaltflächen - Zugriffskontrolle - Rechtes Informationsfeld
+**Dokumentname** Der Name des Dokument-Modells im Bereich "Dokumente"
 
-### Modelltabelle
+**Revisionsname** Der Name der neuesten Revision
 
-Die Modellliste enthält Spalten mit den meisten Informationen, die Sie über Ihre Modelle wissen müssen.
+### 3.3 **Zugriffskontrolle**
 
-Standardmäßig sehen Sie hier den Modellnamen des Modelldokuments.
+Wenn ein Modell für Sie im Bereich "Dokumente" eingeschränkt wurde, können Sie es weder im Bereich "Dokumente" noch in der Modell-Tabelle oder in der Revisionsauswahl sehen.
 
-Der Modellname ist auch der Name, den Sie im Revisionsselektor in der 3D-Ansicht sehen.
+### 3.4 **Tabellenelemente auswählen**
 
-Sie können auch die Spalten Dokumentname und Revisionsname sehen, um zu sehen, welchen Namen das Modell-Dokument im Dokumentenbereich hat.
+Mit der Modell-Tabelle können Sie jetzt eine Reihe von Modellen auswählen, indem Sie die Umschalttaste gedrückt halten. Sie können Modelle auch aus Ihrer Auswahl hinzufügen oder entfernen, indem Sie die Strg-Taste gedrückt halten.
 
-Wenn ein Modell im Dokumentenbereich ausgeblendet wurde, sehen Sie es wie bisher in der Modelltabelle und der Revisionsauswahl, können es aber nicht in der 3D-Ansicht öffnen.
+### 3.5 **Aktionsschaltflächen**
 
-In der Modelltabelle können Sie nun eine Reihe von Modellen auswählen, indem Sie die Umschalttaste gedrückt halten, und mit der Steuerungstaste Modelle zu Ihrer Auswahl hinzufügen oder entfernen.
+In der Vergangenheit war die einzige Aktion, die Sie mit ausgewählten Modellen durchführen konnten, das Öffnen dieser Modelle in 3D. Jetzt können Sie die 2D-Ansicht Ihrer ausgewählten Modelle herunterladen, entfernen und öffnen. Wenn Sie ein mit einem Dokument verbundenes Modell löschen, verliert das Dokument die Modellverbindung, aber das Dokument bleibt im Bereich "Dokumente".
 
-### Aktionsschaltflächen
+### 3.6 **Zugriff auf Dokument-Modelle kontrollieren**
 
-Im Gegensatz zu der Möglichkeit, die ausgewählten Modelle nur in 3D zu öffnen, ist es jetzt möglich, die 2D-Ansicht der ausgewählten Modelle herunterzuladen, zu entfernen und zu öffnen.
+**Modell-Dokument erstellen** Wenn Sie mit der Schaltfläche "Modell erstellen" im Bereich "Modelle" ein Modell erstellen, werden Sie aufgefordert auszuwählen, wo Sie das verlinkte Dokument-Modell im Bereich "Dokumente" ablegen möchten. Im Dialogfeld "Modell erstellen" können Sie dem Modell auch einen Namen geben. Das resultierende verlinkte Dokument-Modell erhält bei der Erstellung denselben Namen wie das Modell. Catenda Hub merkt sich den zuletzt gewählten Ordner und wählt ihn beim nächsten Mal automatisch aus, wenn Sie ein Modell-Dokument erstellen.
 
-Wenn Sie ein Modell löschen, das mit einem Dokument verbunden ist, verliert das Dokument die Modellverbindung, aber das Dokument bleibt im Dokumentbereich.
+Wenn Ihr Projekt ohne Modelle als Dokumente begonnen hat, ist ein Ordner namens "Modelle" in Ihrer Ordnerstruktur erschienen. Der Ordner "Modelle", der angezeigt wird, enthält alle Dokument-Modelle, die mit Modell-Dokumenten im Bereich "Modelle" verlinkt sind. Dokument-Modelle können aus diesem Ordner an eine beliebige Stelle im Bereich "Dokumente" verschoben werden, auf die Sie Zugriff haben. Dokument-Modelle im Ordner "Modelle" können auch gelöscht (und wiederhergestellt) werden, wenn gewünscht. Die Dokument-Modelle müssen nicht im Ordner sein, und der Ordner "Modelle" kann bei Bedarf gelöscht werden.
 
-### Kontrolle des Zugangs zu Dokumentenmodellen
+**Modell-Revision erstellen** Um neue Revisionen zu einem Modell hochzuladen, benötigen Sie mindestens Schreibzugriff auf das Dokument-Modell. Neue Revisionen des Modells können zum Dokument hinzugefügt werden und umgekehrt.
 
-**Erstellen eines Modell-Dokuments**
+> **Hinweis:** Revisionskommentare wurden deaktiviert und können jetzt optional mit [benutzerdefinierten Feldern auf Revisionen](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents) aktiviert werden.
 
-Wenn Sie ein Modell mit der Schaltfläche "Modell erstellen" im Bereich "Modelle" erstellen, werden Sie aufgefordert, den Ort auszuwählen, an dem das verknüpfte Dokumentmodell im Bereich "Dokumente" erscheinen soll.
+**Modell-Revision herunterladen** Um das Modell herunterladen zu können, benötigen Sie mindestens Lesezugriff auf das Dokument-Modell.
 
-Im Dialog zum Erstellen eines Modells können Sie auch einen Namen für das Modell vergeben.
+### 3.7 **Informationsmenü rechts**
 
-Das resultierende verknüpfte Dokumentenmodell hat denselben Namen wie das Modell, das Sie erstellt haben.
+Ein Informationsmenü auf der rechten Seite ist verfügbar, wenn ein Modell ausgewählt ist.
 
-Catenda Hub merkt sich den Ordner, den Sie zuletzt gewählt haben und wählt ihn automatisch aus, wenn Sie das nächste Mal ein Modell-Dokument erstellen.
+**Dokumentfeld** In diesem Menü sehen Sie Ihre Modellinformationen sowie ein graues Feld, das zum Dokument-Modell im Bereich "Dokumente" verlinkt ist, das mit diesem Modell-Dokument verlinkt ist. Klicken Sie auf das Dokumentfeld, um das Dokument-Modell zu öffnen, das mit diesem Modell verlinkt ist.
 
-Wenn Modelle als Dokumente für ein Projekt aktiviert sind, das zu Beginn nicht mit dieser Funktion ausgestattet war, erscheint in Ihrer Ordnerstruktur ein Ordner mit dem Namen "Modelle", der alle Dokumentmodelle enthält, die mit Modelldokumenten im Modellbereich verknüpft sind.
+**Modell-Etiketten** Sie können hier jetzt auch Etiketten zu Ihren Modellen hinzufügen.
 
-Dokumentmodelle können aus diesem Ordner an eine beliebige Stelle im Dokumentenbereich verschoben werden, auf die Sie Zugriff haben, und der Ordner "Modelle" kann auf Wunsch gelöscht werden.
+**Modell-Status** Wenn Statuse in den Dokumenteinstellungen konfiguriert wurden, können Sie hier einen Status für Ihr Modell konfigurieren.
 
-**Erstellen einer Modellrevision**
+**Modelltransformation** Wenn Sie dieses Modell in 3D geöffnet haben, können Sie hier die Modelltransformation konfigurieren.
 
-Um neue Revisionen zu einem Modell hochladen zu können, benötigen Sie nun zumindest Schreibzugriff auf das Dokumentenmodell. Neue Revisionen des Modells können dem Dokument hinzugefügt werden und umgekehrt.
+## 4. **Änderungen im Bereich "Dokumente"**
 
-**Herunterladen einer Modellrevision**
+Obwohl die visuellen Änderungen nicht so offensichtlich sind wie im Bereich "Modelle", gibt es einige Dinge, die sich im Bereich "Dokumente" ändern werden, wenn Modelle als Dokumente aktiviert werden. So können die Dokument-Modelle im Bereich "Dokumente" aussehen.
 
-Sie benötigen mindestens Lesezugriff auf das Dokumentenmodell, um das Modell herunterladen zu können.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/02-documents-section-changes.png)
 
-### Rechte Informationstafel
+Im Bereich "Dokumente" können Sie die folgenden Änderungen finden:
 
-Ein rechtes Informationsfeld wird verfügbar, wenn ein Modell ausgewählt wurde.
+### 4.1 **Modell-Filter**
 
-In diesem Bereich sehen Sie die Informationen zu Ihrem Modell sowie ein graues Feld, das auf das Dokumentmodell im Dokumentabschnitt verweist, das mit diesem Modelldokument verknüpft ist.
+Sobald Sie Modelle im Bereich "Modelle" haben, wird ein Modell-Filter in Ihrem Filtermenü angezeigt. Mit diesem Filter können Sie alle erstellten Dokument-Modelle anzeigen oder verbergen.
 
-Sie können nun auch Beschriftungen zu Ihren Modellen hinzufügen.
+### 4.2 **Spalten**
 
-### Änderungen im Bereich Dokumente
+**Symbol** Sie können ein Dokument-Modell von einem normalen Dokument durch das Modell-Abzeichen in der unteren rechten Ecke des Dokument-Modell-Symbols unterscheiden.
 
-Während die visuellen Änderungen nicht so offensichtlich sind wie im Bereich der Modelle, gibt es einige Dinge, die sich im Bereich der Dokumente ändern, wenn Modelle als Dokumente aktiviert sind.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/03-columns.png)
 
-Im Bereich Dokumente werden Sie die folgenden Änderungen finden:
+**Name** Der Name des Dokuments
 
-Filter - Abzeichen - Zugriff - Aktionsschaltflächen - Auffindbarkeit - Genehmigungen - Namenskonvention
+**Modellname** Der Name des Modells. Wenn Ihr IFC-Dokument nicht mit einem Modell verlinkt wurde, wird hier eine Schaltfläche "Modell erstellen" angezeigt.
 
-### Filter
+**Revisionsname** Der Name der neuesten Revision im Modell
 
-Sobald Sie Modelle im Bereich Modelle haben, erscheint ein Modellfilter in Ihrem Filtermenü. Mit diesem Filter können Sie alle erstellten Dokumentenmodelle ein-/ausblenden.
+**Viewer** Eine Spalte mit Schaltflächen zum Öffnen jedes einzelnen Dokument-Modells im 3D-Viewer. Das Öffnen von Dokument-Modellen im 3D-Viewer ist nur möglich, wenn das Dokument mit einem Modell verlinkt wurde.
 
-### Dokumentenmodell-Symbolabzeichen
+### 4.3 **Aktionsschaltflächen**
 
-Sie können ein Dokumentenmodell von einem normalen Dokument anhand des Modellabzeichens unten rechts auf dem Symbol unterscheiden.
+Laden Sie herunter, löschen Sie oder laden Sie die 2D-/3D-Ansichten ausgewählter Modelle im jeweiligen Viewer, indem Sie ein oder mehrere Modelle auswählen.
 
-![](https://downloads.intercomcdn.com/i/o/811879911/aaf93b647d7a0d7fc7ed6a97/image.png?expires=1781092800&signature=d85d765520058c1439e55163e2fea82d540890b90710aefaed4d0147309ee130&req=fCEmHs53lIBeFb4V1XW4gccdxCQn6BnPwtMJ4ulKi%2Bha5TuhRRWaS4b3SwSd%0Ae5lEzyJ0AdLKyME26LS0NqHi4w%3D%3D%0A)
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/inline-9e345595c719.png" width="310"/>    <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/inline-959af958f499.png" width="310"/>
 
-### Kontrolle des Zugangs zu Modelldokumenten
+Dies bedeutet, dass Sie mehrere Modelle auf einmal löschen können, anstatt sie wie zuvor einzeln zu löschen. Wenn Sie ein Dokument löschen, das mit einem Modell verbunden ist, müssen Sie eine Warnung bestätigen, dass auch das mit dem Dokument verbundene Modell gelöscht wird.
 
-**Erstellen von Dokumentenmodellen**
+> **Hinweis:** Dies bedeutet, dass Sie ein Modell löschen können, ohne Daten zu verlieren. (Gelöschte Dokumente können wiederhergestellt werden)
 
-Um neue Revisionen in ein Modell hochladen zu können, benötigen Sie nun zumindest Schreibzugriff auf das Dokumentenmodell.
+### 4.4 **Zugriff auf Modell-Dokumente kontrollieren**
 
-Dies erreichen Sie, indem Sie im Hamburger-Menü eines Dokuments ein Modell erstellen.
+**Dokument-Modelle erstellen** Um neue Revisionen zu einem Modell hochzuladen, benötigen Sie mindestens Schreibzugriff auf das Dokument-Modell. Sie tun dies, indem Sie ein Modell im Aktionsmenü eines Dokuments erstellen. Danach werden Sie das Dokument als Modell im Bereich "Modelle" sehen. Das Modell-Dokument im Bereich "Modelle" hat den gleichen Namen wie das Dokument-Modell, obwohl diese Namen später jeweils geändert werden können, während sie verlinkt bleiben. Neue Revisionen des Modells können als Revisionen des Dokuments hinzugefügt werden und umgekehrt.
 
-![](https://downloads.intercomcdn.com/i/o/860970534/7d3302670d3ad785d38efdce/image.png?expires=1781092800&signature=31844ac2f561a1789417c2888b545e9997afaf71eecd0498a10af5f97146edb7&req=fCYnH85%2BmIJbFb4V1XW4gfte99Ryx8luPmFQsgt3iE51qa9x%2Bf1VeYrnvxvW%0AroepgI%2Bmq8nMoC9AJQu9m82s2w%3D%3D%0A)
+> **Hinweis:** Dies bedeutet, dass Sie Modelle aus mehreren IFC-Dateien gleichzeitig erstellen können, anstatt sie einzeln hochladen zu müssen
 
-Danach sehen Sie das Dokument als Modell im Bereich Modelle.
+**Revisionen in Dokument-Modelle hochladen** Um neue Revisionen in das Modell hochzuladen, benötigen Sie mindestens Schreibzugriff auf das Dokument-Modell. Dies bedeutet, dass Sie die Mehrdatei-Upload-Funktion verwenden können, um IFC-Dateien gleichzeitig in mehrere Dokument-Modelle hochzuladen
 
-Das Modell-Dokument im Abschnitt Modelle hat denselben Namen wie das Dokumentmodell, obwohl beide später geändert werden können, während sie miteinander verbunden bleiben.
+**Dokument-Modelle herunterladen** Um das Modell herunterladen zu können, benötigen Sie mindestens Lesezugriff auf das Dokument-Modell. Dies bedeutet, dass Sie den Zugriff so konfigurieren können, dass der Download einzelner Modelle anstelle aller oder keiner Modelle zulässig ist.
 
-Neue Überarbeitungen des Modells können als Überarbeitungen des Dokuments hinzugefügt werden und andersherum.
+### 4.5 **Auffindbarkeit**
 
-> **Note:** **Hinweis**: Dies bedeutet, dass Sie Modelle aus mehreren IFC-Dateien gleichzeitig erstellen können, anstatt sie einzeln hochladen zu müssen.
+Dokument-Modelle können jetzt wie jedes andere Dokument im Bereich "Dokumente" gefunden werden.
 
-**Hochladen von Überarbeitungen in Dokumentenmodellen**
+- Dokument-Modelle können in Ordnern strukturiert werden, um die Navigation zur richtigen Gruppe von Modellen zu vereinfachen.
+- Es können Etiketten zu Dokument-Modellen hinzugefügt werden, um alle Dokument-Modelle eines bestimmten Typs zu finden.
+- [Benutzerdefinierte Felder können zu Ordnern hinzugefügt werden](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents), in die Dokumente hochgeladen werden, um nach Metadatenwerten zu suchen, die mit jedem Dokument-Modell verknüpft sind
+- [Benutzerdefinierte Felder können zu Ordnern hinzugefügt werden](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents), in die Dokumente hochgeladen werden, um Informationen zu jeder Revision in jedem Dokument-Modell hinzufügen zu können.
 
-Sie benötigen mindestens Schreibzugriff auf das Dokumentenmodell, um neue Revisionen in das Modell hochladen zu können.
+Siehe [hier](https://support.catenda.com/en/articles/8542598-structuring-documents#h_7838a63c73) für Vorschläge zur Strukturierung Ihrer Dokument-Modelle, damit sie leicht zu finden sind.
 
-Das bedeutet, dass Sie die Multi-Upload-Funktion verwenden können, um ifc-Dateien in mehrere Dokumentenmodelle gleichzeitig hochzuladen
+### 4.6 **Freigegebene IFC-Dateien genehmigen**
 
-**Herunterladen von Dokumentenmodellen**
+IFC-Dateien können jetzt als freigegebene Revisionen hochgeladen werden, damit sie einen Genehmigungsprozess durchlaufen können, bevor sie veröffentlicht werden.
 
-Sie benötigen mindestens Lesezugriff auf das Dokumentenmodell, um das Modell herunterladen zu können.
+### 4.7 **Namenskonvention mit Dokument-Modellen**
 
-Das bedeutet, dass Sie den Zugriff so konfigurieren können, dass das Herunterladen einzelner Modelle erlaubt ist und nicht nur das Herunterladen aller oder keiner Modelle.
+Namen im Bereich "Dokumente" enthalten häufig komprimierte Abkürzungen, um den Dokumentnamen kurz zu halten und gleichzeitig Informationen über den Inhalt des Dokuments anzuzeigen. Der Name des Dokument-Modells kann daher vom Namen des Modell-Dokuments abweichen, um ihn in Einklang mit den anderen Dokumenten im Bereich "Dokumente" zu bringen und gleichzeitig einen leicht zu lesenden Namen für die Verwendung im 3D-Viewer im Bereich "Modelle" beizubehalten. Der Dokumentname des Dokument-Modells ist der Name, der beim Hochladen von Dokumenten in den Bereich "Dokumente" erkannt wird. Wenn der Name dem Dokument ähnlich oder gleich ist, wird automatisch eine neue Revision erstellt, genau wie bei anderen Dokumenten.
 
-### Aktionsschaltflächen
-
-Wenn Sie ein oder mehrere Modelle ausgewählt haben, können Sie die 2D/3D-Ansichten dieser Modelle im jeweiligen Viewer herunterladen, löschen oder laden.
-
-Das bedeutet, dass Sie mehrere Modelle auf einmal löschen können, anstatt wie bisher eines nach dem anderen.
-
-Wenn Sie ein Dokument löschen, das mit einem Modell verbunden ist, müssen Sie eine Warnung akzeptieren, dass das mit dem Dokument verbundene Modell ebenfalls gelöscht wird.
-
-> **Note:** Hinweis: Das bedeutet, dass Sie ein Modell löschen können, ohne dass die Daten verloren gehen. (Gelöschte Dokumente können wiederhergestellt werden)
-
-### Auffindbarkeit
-
-Dokumentenmodelle können jetzt wie jedes andere Dokument in der Rubrik Dokumente gefunden werden.
-
-Sie können Ihren Dokumentmodellen Etiketten hinzufügen, um alle Dokumentmodelle zu finden, die zu einem Typ gehören, oder Sie können Ihre Dokumentmodelle in Ordnern strukturieren, um die Navigation zu den richtigen Modellen zu erleichtern.
-
-Hier finden Sie Vorschläge, wie Sie Ihre Dokumentenmodelle so strukturieren können, dass sie leicht zu finden sind.
-
-### Entwurf der IFC-Dateien genehmigen
-
-IFC-Dateien können jetzt als Entwürfe hochgeladen werden, damit sie vor der Veröffentlichung ein Genehmigungsverfahren durchlaufen können.
-
-### Benennungskonvention bei Dokumentenmodellen
-
-Die Namen im Dokumentenbereich enthalten oft komprimierte Abkürzungen, um den Dokumentennamen kurz zu halten und gleichzeitig Informationen darüber zu geben, worum es in diesem Dokument geht. Der Name des Dokumentenmodells kann daher anders lauten als der Name des Modelldokuments, damit er mit den anderen Dokumenten im Dokumentenbereich übereinstimmt und gleichzeitig ein leicht lesbarer Name für den 3D-Viewer im Modellbereich bleibt.
-
-Der Dokumentname des Modell-Dokuments ist der Name, der beim Hochladen von Dokumenten in den Dokumentenbereich erkannt wird.
-
-Wenn der Name dem Dokument ähnlich oder gleich ist, wird automatisch eine neue Revision erstellt, genau wie bei anderen Dokumenten.
-
-Da sich Dokumentenmodelle genauso verhalten wie reguläre Modelle, ist es nun möglich, die Namenskonvention mit Dokumentenmodellen zu verwenden, um sicherzustellen, dass die Teilnehmer Ihres Projekts dem Dokument beim Hochladen den richtigen Namen geben.
+Da sich Dokument-Modelle genauso wie normale Modelle verhalten, ist es jetzt möglich, die Namenskonvention mit Dokument-Modellen zu verwenden, um sicherzustellen, dass die Projektbeteiligten dem Dokument beim Hochladen den richtigen Namen geben.

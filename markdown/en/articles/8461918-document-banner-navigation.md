@@ -66,13 +66,11 @@ Documents can be downloaded with the action button on the top right, with the do
 
 You can read about the different columns that a document can have in the table view of the documents page [here](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
 
-### 6.3 
-
-### 6.4 **Document revisions**
+### 6.3 **Document revisions**
 
 Documents can be empty but will usually have at least one revision. A revision can be seen as a version of the document. When you open a document you will see its latest revision. Previous revisions can also be found The standard revision is a public revision. If document statuses have been enabled in document settings the document may contain draft revisions.
 
-### 6.5 **Linking a document**
+### 6.4 **Linking a document**
 
 A document can be linked to many different places around Catenda Hub.
 

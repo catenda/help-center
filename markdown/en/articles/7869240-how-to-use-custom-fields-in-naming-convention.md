@@ -32,6 +32,4 @@ Documents uploaded to a folder where this naming convention is configured will n
 
 ### 4.1 👉 **[How to setup my custom fields ?](https://intercom.help/bimsync-arena/en/articles/6550459-custom-fields-setup)**
 
-### 4.2 
-
-### 4.3 👉 **[How to setup my naming convention ?](https://support.catenda.com/en/articles/7832559-naming-conventions-page)**
+### 4.2 👉 **[How to setup my naming convention ?](https://support.catenda.com/en/articles/7832559-naming-conventions-page)**
