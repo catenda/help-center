@@ -32,7 +32,7 @@ Text - `type=text` Integer - `type=integer` Decimal number - `type=double` Dropd
 
 ### 2.2 **Text search**
 
-Search - `search=\<Text search>`
+Search - `search=<Text search>`
 
 **Content that can be searched on** Custom field title
 

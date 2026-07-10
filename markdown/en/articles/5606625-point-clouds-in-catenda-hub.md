@@ -14,8 +14,8 @@ See below various settings to display your data:
 
 PC data of the following two file formats can be previewed on Catenda.
 
-- `\*.e57`
-- `\*.las`
+- `*.e57`
+- `*.las`
 
 PC can be uploaded like any other document in the document section. For these two file formats files up to 25 GB files can be uploaded to the document section. Multiple files can be loaded in the document section and displayed together in the 3D viewer.
 

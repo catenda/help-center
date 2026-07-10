@@ -735,11 +735,11 @@ Administrator - `aggregatedRole=administrator` Member - `aggregatedRole=member`
 
 ### 1.5 **Team**
 
-Team name - `memberOfTeams=\<GUID> `
+Team name - `memberOfTeams=<GUID> `
 
 ## 2. **Text search**
 
-_Text search -_ `search=\<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
+_Text search -_ `search=<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
 
 **Content that can be searched on** Member account name Member email address Team name
 
@@ -801,7 +801,7 @@ If you navigate to the account notifications page it will be filtered by last mo
 
 Notifications from the past year.
 
-### 3.4 **Pick a date** - `date-from=\<Epoch Unix Timestamp>&date-to=\<Epoch Unix Timestamp>`
+### 3.4 **Pick a date** - `date-from=<Epoch Unix Timestamp>&date-to=<Epoch Unix Timestamp>`
 
 Read [this](https://support.catenda.com/en/articles/6511685-date-filter) article to learn how to easily select dates on the page.
 
@@ -1047,17 +1047,17 @@ The name of the downloaded zip will be _\<Download GUID>.zip_ in contrast to the
 
 ## 11. **Project**
 
-### 11.1 **Project name** - `projects=\<Project GUID>`
+### 11.1 **Project name** - `projects=<Project GUID>`
 
 ## 12. **Limit**
 
-### 12.1 **Amount of notifications per page** - `limit=\<Notification amount>`
+### 12.1 **Amount of notifications per page** - `limit=<Notification amount>`
 
 _Note:_ It might take longer for the page to load with more notifications.
 
 ## 13. **Page**
 
-### 13.1 **Current page of notifications** - `page=\<Page number>`
+### 13.1 **Current page of notifications** - `page=<Page number>`
 
 ## 14. **Obligatory notifications**
 
@@ -1364,7 +1364,7 @@ If your app does not have access to your camera you will be asked to manually cr
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/04-authentication-app.png)
 
-Account name: The name you give to your account Secret key: This is the key you would have gotten if you had been able to scan the qr code. You can use your camera app to scan the code. The URL that opens when you scan the code can look something like this: `otpauth://totp/\<Catenda account email address>?secret=\<Secret key>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` If you type in the code after "`secret=`" in the secret key that you see in the URL that is opened, Account name can be anything.
+Account name: The name you give to your account Secret key: This is the key you would have gotten if you had been able to scan the qr code. You can use your camera app to scan the code. The URL that opens when you scan the code can look something like this: `otpauth://totp/<Catenda account email address>?secret=<Secret key>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` If you type in the code after "`secret=`" in the secret key that you see in the URL that is opened, Account name can be anything.
 
 > **Note:** If you create an account with the wrong secret key the app will generate one-time codes anyway so Catenda might not accept the code if the wrong secret key was used.
 
@@ -1808,7 +1808,7 @@ On the members page you will be able to filter for the following:
 
 The "Hide empty filters" toggle is off by default which means you see all possible filters. You can turn this filter button on to hide any filters have no results.
 
-### 1.2 **Project -** `project=\<Project GUID>`
+### 1.2 **Project -** `project=<Project GUID>`
 
 With this filter you can filter for all entries of a project
 
@@ -1816,7 +1816,7 @@ With this filter you can filter for all entries of a project
 
 With this filter you can filter on if a user is an administrator or a member of a project
 
-### 1.4 **User -** `user=\<User GUID>`
+### 1.4 **User -** `user=<User GUID>`
 
 With this filter you can filter for all the entries belonging to one user
 
@@ -4076,9 +4076,9 @@ pdal translate ^ "C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69
 🤓 Let's break this command down:
 
 1. `pdal translate` is the main command for performing the transformation.
-1. `"C:\\Users\\USERNAME\\Downloads\\LHD\_FXX\_0766\_6282\_PTS\_LAMB93\_IGN69.copc.laz"` is the path to the `.laz` file downloaded from the IGN database.
-1. `"C:\\Users\\USERNAME\\Downloads\\LHD\_FXX\_0766\_6282\_PTS\_LAMB93\_IGN69.copc.laz`" is the path where the future `.las` file will be created.
-1. the reprojection command -`-filters.reprojection.in\_srs="EPSG:2154" --filters.reprojection.out\_srs="EPSG:3943"` allows you to reproject the point cloud from the Lambert-93 SCR (`EPSG:2154`) to the CC43 SCR (`3943`)
+1. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz"` is the path to the `.laz` file downloaded from the IGN database.
+1. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz`" is the path where the future `.las` file will be created.
+1. the reprojection command -`-filters.reprojection.in_srs="EPSG:2154" --filters.reprojection.out_srs="EPSG:3943"` allows you to reproject the point cloud from the Lambert-93 SCR (`EPSG:2154`) to the CC43 SCR (`3943`)
 
 Copy the command and simply replace the EPSG paths and codes in input and output. Once the command is executed, your new .las file will be generated in the location specified by the target path.
 
@@ -5322,11 +5322,11 @@ The Catenda Archicad plugin is a plugin that can be installed for Nemetchek Arch
 
 When the Catenda Archicad plugin is installed on Windows its installation files will appear in the following folder.
 
-`C:\\Program Files\\Catenda\\Catenda Archicad Connection\\\<Archicad Version>\\Add-On`
+`C:\Program Files\Catenda\Catenda Archicad Connection\<Archicad Version>\Add-On`
 
 Plugin will appear as enabled in the add on manager the next time Archicad is opened up. Note that this is different from the default add-on folder which is located at
 
-`C:\\Program Files\\Graphisoft\\\<Archicad Version>\\Add-Ons`
+`C:\Program Files\Graphisoft\<Archicad Version>\Add-Ons`
 
 ### 1.1 **Uninstalling**
 
@@ -5510,7 +5510,7 @@ The Desktop Connector can ensure that files on a local system are kept current w
 
 When the Catenda Desktop Connector is installed on Windows its installation files will appear in the following folder.
 
-`C:\\Program Files\\Catenda Hub Desktop Connector`
+`C:\Program Files\Catenda Hub Desktop Connector`
 
 ### 3.1 **Uninstalling**
 
@@ -5690,7 +5690,7 @@ Click this button to go back to the [home page](#home-page)
 
 This button opens the folder location of the Desktop Connector logs on the local system. The default location of these logs is:
 
-`C:\\Users\\\<Windows account name>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp`
+`C:\Users\<Windows account name>\AppData\Local\User Name\2b92d867-496c-47d1-ac42-fbf8fa355177\Cache\BimsyncApp`
 
 # Catenda Navisworks plugin
 
@@ -5727,11 +5727,11 @@ Catenda Hub is a BIM collaboration tool with support for all of the buildingSMAR
 
 When the Catenda Navisworks plugin is installed on Windows its installation files will appear in the following folder.
 
-`C:\\ProgramData\\Autodesk\\ApplicationPlugins\\Catenda.BCF.bundle`
+`C:\ProgramData\Autodesk\ApplicationPlugins\Catenda.BCF.bundle`
 
 The settings configured in the plugin can be found here:
 
-`C:\\Users\\\<Username>\\AppData\\Local\\Autodesk\_Inc\\Roamer.exe\_Url\_\<GUID>\\\<Version>`
+`C:\Users\<Username>\AppData\Local\Autodesk_Inc\Roamer.exe_Url_<GUID>\<Version>`
 
 ### 4.1 **Uninstalling**
 
@@ -6033,7 +6033,7 @@ Revision The revision number for the document
 
 You can easily download the IFC models from your Catenda project using this plugin and the actions in the Models tab. To download to your local device: Click the download button for each model you want to download. The models will be saved in a new folder with the project name under the download path specified under the settings tab. For example:
 
-`C:\\...\\Documents\\Catenda project name`
+`C:\...\Documents\Catenda project name`
 
 ### 10.9 **Create a merged .nwf file using IFCs from Catenda Hub**
 
@@ -6057,7 +6057,7 @@ In this article we will explain how the Catenda HUB database can be linked with 
 
 When the Catenda Desktop Connector is installed on Windows its installation files will appear in the following folder.
 
-`C:\\Users\\\<Username>\\Documents\\Power BI Desktop\\Custom connectors`
+`C:\Users\<Username>\Documents\Power BI Desktop\Custom connectors`
 
 ### 1.1 **Uninstalling**
 
@@ -6157,7 +6157,7 @@ The Catenda Revit plugin is a plugin that can be installed for Autodesk Revit. W
 
 When the Catenda Revit plugin is installed on Windows its installation files will appear in the following folder.
 
-`C:\\ProgramData\\Autodesk\\ApplicationPlugins\\CatendaHub.bundle`
+`C:\ProgramData\Autodesk\ApplicationPlugins\CatendaHub.bundle`
 
 ### 1.1 **Uninstalling**
 
@@ -6596,7 +6596,7 @@ If you do not have write access to the folder or document and try to upload a fi
 
 When the Catenda Revit plugin is installed on Windows its installation files will appear in the following folder.
 
-`C:\\Program Files\\Logic\\Catenda for Tekla 2025`
+`C:\Program Files\Logic\Catenda for Tekla 2025`
 
 ### 1.1 **Uninstalling**
 
@@ -7025,7 +7025,7 @@ Select models table elements and use the copy link action to copy a link that op
 
 In the URL the topic filter will look like:
 
-`https://hub.catenda.com/project/\<Project-GUID>/models?items=\<Model-GUID>,\<Model-GUID>,\<Model-GUID>`
+`https://hub.catenda.com/project/<Project-GUID>/models?items=<Model-GUID>,<Model-GUID>,<Model-GUID>`
 
 _Access required:_ Users opening the link will need read access to the documents that are linked to each model in the copied link.
 
@@ -7037,7 +7037,7 @@ Select elements from any topic board and use the copy link action to copy a link
 
 In the URL the topic filter will look like:
 
-[`https://hub.catenda.com/project/\<Project-GUID>/issues?issues=\<Topic-number>,\<Topic-number>&status-type=all&board=\<Topic-board-GUID>,\<Topic-board-GUID`](https://hub.catenda.com/project/<Project-GUID>/issues?issues=<Topic-number>,<Topic-number>&status-type=all&board=<Topic-board-GUID>,<Topic-board-GUID)`>`
+[`https://hub.catenda.com/project/<Project-GUID>/issues?issues=<Topic-number>,<Topic-number>&status-type=all&board=<Topic-board-GUID>,<Topic-board-GUID`](https://hub.catenda.com/project/<Project-GUID>/issues?issues=<Topic-number>,<Topic-number>&status-type=all&board=<Topic-board-GUID>,<Topic-board-GUID)`>`
 
 _Access required:_ Users opening the link will need read access to the topic boards that the linked topics are in.
 
@@ -7053,7 +7053,7 @@ Select documents table elements and use the copy link action to copy a link that
 
 In the URL the topic filter will look like:
 
-[`https://hub.catenda.com/project/\<Project-GUID>/libraries/\<Document-library-GUID>/items?items=\<Library-item-GUID>,\<Library-item-GUID`](https://hub.catenda.com/project/<Project-GUID>/libraries/<Document-library-GUID>/items?items=<Library-item-GUID>,<Library-item-GUID)`>`
+[`https://hub.catenda.com/project/<Project-GUID>/libraries/<Document-library-GUID>/items?items=<Library-item-GUID>,<Library-item-GUID`](https://hub.catenda.com/project/<Project-GUID>/libraries/<Document-library-GUID>/items?items=<Library-item-GUID>,<Library-item-GUID)`>`
 
 _Access required:_ Users opening the link will need read access to the folders/documents
 
@@ -8089,7 +8089,7 @@ An easy way to create a paste string is by copying rows and columns from a table
 
 - Comma separated string
 
-To create a string that will turn into a set of options, separate your options with a "comma"  `,` or a "newline" `\\n`. For example "Electrical,Architecture" will turn into the options `Electrical` and `Architecture`
+To create a string that will turn into a set of options, separate your options with a "comma"  `,` or a "newline" `\n`. For example "Electrical,Architecture" will turn into the options `Electrical` and `Architecture`
 
 - Names and codes in a string
 
@@ -8228,7 +8228,7 @@ Text - `type=text` Integer - `type=integer` Decimal number - `type=double` Dropd
 
 ### 2.2 **Text search**
 
-Search - `search=\<Text search>`
+Search - `search=<Text search>`
 
 **Content that can be searched on** Custom field title
 
@@ -10217,7 +10217,7 @@ Click [here](https://support.catenda.com/en/articles/8551755-saving-filters) to 
 
 ### 1.3 **My approvals**
 
-_I am publisher_ - `publisher=\<Member GUID>` _Created by me_ - `created-by=\<Member GUID>`
+_I am publisher_ - `publisher=<Member GUID>` _Created by me_ - `created-by=<Member GUID>`
 
 ### 1.4 **Status**
 
@@ -10225,7 +10225,7 @@ _Open_ - `state=pending` - Default _Published_ - `state=published` _Discarded_ -
 
 ### 1.5 **Reviewers**
 
-_Member name_ - `reviewers=\<Member GUID>`
+_Member name_ - `reviewers=<Member GUID>`
 
 ### 1.6 **Due date**
 
@@ -10233,7 +10233,7 @@ _Overdue_ - `due=overdue` _Less than a day_ - `due=2d` _Less than a week_ - `due
 
 ### 1.7 **Text search**
 
-_Text search -_ `search=\<Search phrase>`
+_Text search -_ `search=<Search phrase>`
 
 **Content that can be searched on** Approval request title
 
@@ -10281,7 +10281,7 @@ _All collections_ - `followers=all` All collections with or without follower. Th
 
 ### 3.4 **Created by me**
 
-Created by - `createdBy=\<Creator GUID>` There is no user interface button for this filter. When you filter on private or shared with project, this will automatically be set to your own user but you can change it for the GUID of another user.
+Created by - `createdBy=<Creator GUID>` There is no user interface button for this filter. When you filter on private or shared with project, this will automatically be set to your own user but you can change it for the GUID of another user.
 
 Private - `visibility=private` Shared with project - `visibility=project-members`
 
@@ -10299,7 +10299,7 @@ Not shared externally - `sharedBy=not-shared`
 
 ### 3.7 **Date filters**
 
-Published - `publishedAtFrom=\<UTC timestamp>&publishedAtTo=\<UTC timestamp>` Click on select dates to select dates in between which you would like to search Click [here](https://support.catenda.com/en/articles/6511685-date-filter) to learn more about the date filter
+Published - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Click on select dates to select dates in between which you would like to search Click [here](https://support.catenda.com/en/articles/6511685-date-filter) to learn more about the date filter
 
 ## 4. **Text search**
 
@@ -10351,11 +10351,11 @@ Linked to selected objects - `link=backlink&subFolders=true` If it is not alread
 
 ### 1.5 **Status (latest revision) - Status workflow only**
 
-Published - `documentStatus=published&subFolders=true&documentType=file` Missing status - `documentStatus=published-without-status&subFolders=true` Project published status - `documentStatus=\<GUID>&subFolders=true` Shared - `documentStatus=shared&subFolders=true&documentType=file` Shared statuses are only available in the workspace tab Project shared status - `documentStatus=\<GUID>&subFolders=true` Has no revision - `documentStatus=no-stage&subFolders=true`
+Published - `documentStatus=published&subFolders=true&documentType=file` Missing status - `documentStatus=published-without-status&subFolders=true` Project published status - `documentStatus=<GUID>&subFolders=true` Shared - `documentStatus=shared&subFolders=true&documentType=file` Shared statuses are only available in the workspace tab Project shared status - `documentStatus=<GUID>&subFolders=true` Has no revision - `documentStatus=no-stage&subFolders=true`
 
 ### 1.6 **Drafts - Status workflow only**
 
-Has new drafts - `newDrafts=exists&subFolders=true` Draft status name - `newDrafts=\<Draft status GUID>&subFolders=true` If there are multiple draft statuses each draft status can be filtered on. Has no new drafts - `newDrafts=does-not-exist&subFolders=true`
+Has new drafts - `newDrafts=exists&subFolders=true` Draft status name - `newDrafts=<Draft status GUID>&subFolders=true` If there are multiple draft statuses each draft status can be filtered on. Has no new drafts - `newDrafts=does-not-exist&subFolders=true`
 
 ### 1.7 **Models**
 
@@ -10363,49 +10363,49 @@ Is model - `model=is-model&subFolders=true` Is not model - `model=is-not-model&s
 
 ### 1.8 **Document created by**
 
-Member name - `owner=\<Member GUID>&subFolders=true`
+Member name - `owner=<Member GUID>&subFolders=true`
 
 ### 1.9 **Revision created by**
 
-Member name - `revisionCreatedBy=\<GUID>&subFolders=true`
+Member name - `revisionCreatedBy=<GUID>&subFolders=true`
 
 ### 1.10 **Published by**
 
-Member name - `publishedBy=\<Member GUID>&subFolders=true`
+Member name - `publishedBy=<Member GUID>&subFolders=true`
 
 ### 1.11 **Date filters**
 
-Published - `publishedAtFrom=\<UTC timestamp>&publishedAtTo=\<UTC timestamp>` Click on select dates to select dates in between which you would like to search Click [here](https://support.catenda.com/en/articles/6511685-date-filter) to learn more about the date filter
+Published - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Click on select dates to select dates in between which you would like to search Click [here](https://support.catenda.com/en/articles/6511685-date-filter) to learn more about the date filter
 
 ### 1.12 **Open approvals - Status workflow only**
 
-Approval name - `approval=\<Approval number>&subFolders=true`
+Approval name - `approval=<Approval number>&subFolders=true`
 
 ### 1.13 **Documents - Labels**
 
-All labels that are not part of a label group will be displayed in a menu called documents. Label name - `labels=\<Label GUID>6&subFolders=true`
+All labels that are not part of a label group will be displayed in a menu called documents. Label name - `labels=<Label GUID>6&subFolders=true`
 
 ### 1.14 **Label group name**
 
-There will be one menu per label group name Label name - `labels=\<Label GUID>6&subFolders=true`
+There will be one menu per label group name Label name - `labels=<Label GUID>6&subFolders=true`
 
 The contents of custom fields where values can be configured can be filtered by writing a search pharse in the search or filter bar and selecting the corresponding filter in the suggested filter.
 
 ### 1.15 **Custom field**
 
-_Custom field has value_ - `custom-field-has-value-\<Custom field GUID>=true` With the "has value" option in the filter menu all topics with that have a value configured for that custom field can be filtered. Custom field types that can be filtered on has value: Date Decimal Dropdown Integer Text
+_Custom field has value_ - `custom-field-has-value-<Custom field GUID>=true` With the "has value" option in the filter menu all topics with that have a value configured for that custom field can be filtered. Custom field types that can be filtered on has value: Date Decimal Dropdown Integer Text
 
-_Custom field specific value_ - `custom-field-item-\<Custom field GUID>=\<Value GUID>` Specific values in fields for fields with up to 10 values can be filtered for. Custom field types that can be filtered on specific value from the filter menu: Dropdown
+_Custom field specific value_ - `custom-field-item-<Custom field GUID>=<Value GUID>` Specific values in fields for fields with up to 10 values can be filtered for. Custom field types that can be filtered on specific value from the filter menu: Dropdown
 
 Some values in custom fields where values can be configured can be filtered. Filter for values by writing a search phrase in the search or filter bar and select the corresponding custom field. Custom field types that can be filtered by typing in the search or filter bar: Decimal Dropdown Integer Text
 
-_Custom field has no value_ - `custom-field-has-value-\<Custom field GUID>=false` Filter on all topics where a custom fields does not have any value. Custom field types that can be filtered on no value: Date Decimal Dropdown Integer Text
+_Custom field has no value_ - `custom-field-has-value-<Custom field GUID>=false` Filter on all topics where a custom fields does not have any value. Custom field types that can be filtered on no value: Date Decimal Dropdown Integer Text
 
 > **Note:** Custom fields that are set as required will always have a value. You will therefore not be able to search for "has value" or "has no value" can therefore not be searched for a custom field that is set as required.
 
 ### 1.16 **Collections**
 
-Collection name - `collections=\<GUID>&subFolders=true`
+Collection name - `collections=<GUID>&subFolders=true`
 
 ### 1.17 **Deleted**
 
@@ -10477,43 +10477,43 @@ Linked - `associations=exists&subFolders=true` Unlinked - `associations=does-not
 
 ### 3.5 **Status (latest revision) - Status workflow only**
 
-Published - `documentStatus=published&subFolders=true&documentType=file` Missing status - `documentStatus=published-without-status&subFolders=true` Project published status - `documentStatus=\<GUID>&subFolders=true` Shared - `documentStatus=shared&subFolders=true&documentType=file` Shared statuses are only available in the workspace tab Project shared status - `documentStatus=\<GUID>&subFolders=true` Has no revision - `documentStatus=no-stage&subFolders=true`
+Published - `documentStatus=published&subFolders=true&documentType=file` Missing status - `documentStatus=published-without-status&subFolders=true` Project published status - `documentStatus=<GUID>&subFolders=true` Shared - `documentStatus=shared&subFolders=true&documentType=file` Shared statuses are only available in the workspace tab Project shared status - `documentStatus=<GUID>&subFolders=true` Has no revision - `documentStatus=no-stage&subFolders=true`
 
 ### 3.6 **Drafts - Status workflow only**
 
-Has new drafts - `newDrafts=exists&subFolders=true` Draft status name - `newDrafts=\<Draft status GUID>&subFolders=true` If there are multiple draft statuses each draft status can be filtered on. Has no new drafts - `newDrafts=does-not-exist&subFolders=true`
+Has new drafts - `newDrafts=exists&subFolders=true` Draft status name - `newDrafts=<Draft status GUID>&subFolders=true` If there are multiple draft statuses each draft status can be filtered on. Has no new drafts - `newDrafts=does-not-exist&subFolders=true`
 
 ### 3.7 **Document created by**
 
-Member name - `owner=\<Member GUID>&subFolders=true`
+Member name - `owner=<Member GUID>&subFolders=true`
 
 ### 3.8 **Revision created by**
 
-Member name - `revisionCreatedBy=\<GUID>&subFolders=true`
+Member name - `revisionCreatedBy=<GUID>&subFolders=true`
 
 ### 3.9 **Published by**
 
-Member name - `publishedBy=\<Member GUID>&subFolders=true`
+Member name - `publishedBy=<Member GUID>&subFolders=true`
 
 ### 3.10 **Date filters**
 
-Published - `publishedAtFrom=\<UTC timestamp>&publishedAtTo=\<UTC timestamp>` Click on select dates to select dates in between which you would like to search Click [here](https://support.catenda.com/en/articles/6511685-date-filter) to learn more about the date filter
+Published - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Click on select dates to select dates in between which you would like to search Click [here](https://support.catenda.com/en/articles/6511685-date-filter) to learn more about the date filter
 
 ### 3.11 **Open approvals - Status workflow only**
 
-Approval name - `approval=\<Approval number>&subFolders=true`
+Approval name - `approval=<Approval number>&subFolders=true`
 
 ### 3.12 **Labels**
 
-All labels that are not part of a label group will be displayed in a menu called labels. Label name - `labels=\<Label GUID>6&subFolders=true`
+All labels that are not part of a label group will be displayed in a menu called labels. Label name - `labels=<Label GUID>6&subFolders=true`
 
 ### 3.13 **Label group name**
 
-There will be one menu per label group name Label name - `labels=\<Label GUID>6&subFolders=true`
+There will be one menu per label group name Label name - `labels=<Label GUID>6&subFolders=true`
 
 ### 3.14 **Collections**
 
-Collection name - `collections=\<GUID>&subFolders=true`
+Collection name - `collections=<GUID>&subFolders=true`
 
 ## 4. **Text search**
 
@@ -10570,7 +10570,7 @@ Click [here](https://support.catenda.com/en/articles/8551755-saving-filters) to 
 
 Click on 3D to the right of the models category in the filter menu to filter on all models that are currently loaded into the 3D viewer.
 
-Model name - `model=\<Model GUID>` Filter on a set of project models.
+Model name - `model=<Model GUID>` Filter on a set of project models.
 
 ### 1.4 **Selected**
 
@@ -10580,7 +10580,7 @@ Selected - `selected=true` Filter to only display rows for objects that are sele
 
 ### 2.1 **Query**
 
-Query search - `query=\<Product>,\<Operator>,\<Value>` Click in the Search or filter bar to configure a filter that compares two values.
+Query search - `query=<Product>,<Operator>,<Value>` Click in the Search or filter bar to configure a filter that compares two values.
 
 **Product** The first selection can be any kind of IFC product. This is what the product dropdown can look like:
 
@@ -10664,15 +10664,15 @@ The different filters in the filter menu will only show up if there are topics w
 
 ### 2.1 **My topics**
 
-Assigned to me - `assigned-user=\<User GUID>&assigned-team=\<Team GUID>` _Assigned User_ - `assigned-user=\<User GUID>` _My teams_ - `assigned-team=\<Team GUID>` _Requested by me_ - `requester-user=\<Your GUID>` Topics _I follow_ - `followed-by=me` _mentioning me_ - `mentioned=me`
+Assigned to me - `assigned-user=<User GUID>&assigned-team=<Team GUID>` _Assigned User_ - `assigned-user=<User GUID>` _My teams_ - `assigned-team=<Team GUID>` _Requested by me_ - `requester-user=<Your GUID>` Topics _I follow_ - `followed-by=me` _mentioning me_ - `mentioned=me`
 
 > **Note:** If you share a link with the "Topic I follow" or the "mentioning me" filters active the user opening the link will have their topic board filtered for topic  they follow and topics they have been mentioned in and not topics you follow and topics you are mentioned in. To share topics you have been mentioned in please use [text search](#text-search)
 
-_Created by me_ - `created-by=\<User GUID>`
+_Created by me_ - `created-by=<User GUID>`
 
 ### 2.2 **Status / Type**
 
-_All open status_ - `status-type=open` _Specific open status_ - `status-type=\<Status GUID>` _All closed status_ - `status-type=closed` _Specific closed status_ - `status-type=\<Status GUID>` _Type_ - `type=\<Type GUID>`
+_All open status_ - `status-type=open` _Specific open status_ - `status-type=<Status GUID>` _All closed status_ - `status-type=closed` _Specific closed status_ - `status-type=<Status GUID>` _Type_ - `type=<Type GUID>`
 
 ### 2.3 **Due date**
 
@@ -10680,37 +10680,37 @@ _Overdue_ - `due=overdue` _All with a due date_ - `due=present` _No due date_ - 
 
 ### 2.4 **Updated**
 
-With the date filter you can select a timeframe for when the topics were last updated. _Updated_ - `updated-from=\<Epoch Unix Timestamp>&updated-to=\<Epoch Unix Timestamp>` Read [this](https://support.catenda.com/en/articles/6511685-date-filter) article to learn how to easily select dates on the page.
+With the date filter you can select a timeframe for when the topics were last updated. _Updated_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Read [this](https://support.catenda.com/en/articles/6511685-date-filter) article to learn how to easily select dates on the page.
 
 ### 2.5 **Assigned to / Requested by**
 
-_Assigned to no-one_ - `assigned=unassigned` _No team assigned_ - `assigned-team=unassigned` _Assigned to team_ - `assigned-team=\<Team GUID>` _Not assigned to user_ - `assigned-user=unassigned` _Assigned to user_ - `assigned-user=\<User GUID>` Assigned operator - `assigned-op=and` By default you can only search for the assigned user OR the assigned team. In Catenda Hub you can set an assignee as user@team To find all topics of this type**,** filter by the team and the user, and add &assigned-op=and to the end of the URL.
+_Assigned to no-one_ - `assigned=unassigned` _No team assigned_ - `assigned-team=unassigned` _Assigned to team_ - `assigned-team=<Team GUID>` _Not assigned to user_ - `assigned-user=unassigned` _Assigned to user_ - `assigned-user=<User GUID>` Assigned operator - `assigned-op=and` By default you can only search for the assigned user OR the assigned team. In Catenda Hub you can set an assignee as user@team To find all topics of this type**,** filter by the team and the user, and add &assigned-op=and to the end of the URL.
 
-_Not requested_ - `requester=unassigned` _Not requested by team_ - `requester-team=unassigned` _Not requested by user_ - `requester-user=unassigned` _Requested by user_ - `requester-user=\<User GUID>`
+_Not requested_ - `requester=unassigned` _Not requested by team_ - `requester-team=unassigned` _Not requested by user_ - `requester-user=unassigned` _Requested by user_ - `requester-user=<User GUID>`
 
 ### 2.6 **Created by**
 
-_Created by user_ - `created-by=\<User GUID>`
+_Created by user_ - `created-by=<User GUID>`
 
 ### 2.7 **Milestone**
 
-_Milestone_ - `milestone=\<Milestone GUID>`
+_Milestone_ - `milestone=<Milestone GUID>`
 
 ### 2.8 **Custom field**
 
-_Custom field has value_ - `custom-field-has-value-\<Custom field GUID>=true` With the "has value" option in the filter menu all topics with that have a value configured for that custom field can be filtered. Custom field types that can be filtered on has value: Date Decimal Dropdown Integer Text
+_Custom field has value_ - `custom-field-has-value-<Custom field GUID>=true` With the "has value" option in the filter menu all topics with that have a value configured for that custom field can be filtered. Custom field types that can be filtered on has value: Date Decimal Dropdown Integer Text
 
-_Custom field specific value_ - `custom-field-item-\<Custom field GUID>=\<Value GUID>` Custom field types that can be filtered on specific value from the filter menu: Dropdown
+_Custom field specific value_ - `custom-field-item-<Custom field GUID>=<Value GUID>` Custom field types that can be filtered on specific value from the filter menu: Dropdown
 
 Some values in custom fields where values can be configured can be filtered. Filter for values by writing a search phrase in the search or filter bar and select the corresponding custom field. Custom field types that can be filtered by typing in the search or filter bar: Decimal Dropdown Integer Text
 
-_Custom field has no value_ - `custom-field-has-value-\<Custom field GUID>=false` Filter on all topics where a custom fields does not have any value. Custom field types that can be filtered on no value: Date Decimal Dropdown Integer Text
+_Custom field has no value_ - `custom-field-has-value-<Custom field GUID>=false` Filter on all topics where a custom fields does not have any value. Custom field types that can be filtered on no value: Date Decimal Dropdown Integer Text
 
 > **Note:** Custom fields that are set as required will always have a value. You will therefore not be able to search for "has value" or "has no value" can therefore not be searched for a custom field that is set as required.
 
 ### 2.9 **Label**
 
-_Label_ - `label=\<Label GUID>` Labels in their own label group are shown in a separated list.
+_Label_ - `label=<Label GUID>` Labels in their own label group are shown in a separated list.
 
 ### 2.10 **Links**
 
@@ -10738,7 +10738,7 @@ Click on the filter to open filter the board on the saved set of filters that ha
 
 ### 3.2 **Text search**
 
-_Text search -_ `search=\<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
+_Text search -_ `search=<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/04-text-search.png)
 
@@ -10758,19 +10758,19 @@ Three or more characters Content that matches the search phrase in any part of t
 
 Member or team name Search on the name of the member or team to find all plain text occurrences of that member or team name.
 
-Mentioned member Search on the email of a member to find all plain text occurrences of that members email. This includes where they have been mentioned. Search on `#[\<Email of member>]` to find only the occurrences where that member is mentioned.
+Mentioned member Search on the email of a member to find all plain text occurrences of that members email. This includes where they have been mentioned. Search on `#[<Email of member>]` to find only the occurrences where that member is mentioned.
 
 Mentioned team Mentioned teams can be searched on by searching the GUID of that team. To find the GUID of a team, go to the [content page of that team](https://support.catenda.com/en/articles/7891755-team-page) by clicking on its name on the [teams tab of the members and teams page](https://support.catenda.com/en/articles/4670291-members-and-teams-page). The URL should look something like: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 
-Search on the team GUID to find all plain text occurrences of that team GUID. This includes where they have been mentioned. Search on `#[\<team GUID>]` to find only the occurrences where that team is mentioned.
+Search on the team GUID to find all plain text occurrences of that team GUID. This includes where they have been mentioned. Search on `#[<team GUID>]` to find only the occurrences where that team is mentioned.
 
 ### 3.3 **Custom fields - Text**
 
 If a search pharse starts with a unicode character with a unicode value that is 58 or higher the following filters will appear towards the bottom of the list of suggested filters.
 
-_Text custom field -_ `custom-field-\<Custom field GUID>=\<Search phrase>` If a text custom field is enabled in the topic board the content of text custom fields in all topics in the board can be filtered with this filter.
+_Text custom field -_ `custom-field-<Custom field GUID>=<Search phrase>` If a text custom field is enabled in the topic board the content of text custom fields in all topics in the board can be filtered with this filter.
 
 ### 3.4 **Number search phrase**
 
@@ -10778,9 +10778,9 @@ If a search pharse starts with a unicode character with a unicode value that is 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/06-number-search-phrase.png)
 
-This includes the following characters: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`\*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
+This includes the following characters: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
 
-_Topic -_ `issues=\<issue number>` When a search phrase starts with a number the topic number search appears as a suggestion in the search or filter bar. The suggested filter can look something like this:
+_Topic -_ `issues=<issue number>` When a search phrase starts with a number the topic number search appears as a suggestion in the search or filter bar. The suggested filter can look something like this:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/07-number-search-phrase.png)
 
@@ -10790,15 +10790,15 @@ Filtering on one or more topics by number It is only possible to search on one t
 
 ### 3.5 **Custom fields - Number**
 
-_Integer custom field -_ `custom-field-\<Custom field GUID>=\<Search phrase>` If an integer custom field is enabled in the topic board the content of integer custom fields in all topics in the board can be filtered with this filter.
+_Integer custom field -_ `custom-field-<Custom field GUID>=<Search phrase>` If an integer custom field is enabled in the topic board the content of integer custom fields in all topics in the board can be filtered with this filter.
 
-_Decimal custom field -_ `custom-field-\<Custom field GUID>=\<Search phrase>` If a decimal custom field is enabled in the topic board the content of decimal custom fields in all topics in the board can be filtered with this filter.
+_Decimal custom field -_ `custom-field-<Custom field GUID>=<Search phrase>` If a decimal custom field is enabled in the topic board the content of decimal custom fields in all topics in the board can be filtered with this filter.
 
 ### 3.6 **Custom fields - Dropdown**
 
 If a search pharse matches the name of a value in a filter, the filter that matches the best will be suggested in the suggestion box.
 
-_Dropdown custom field_ _-_ `custom-field-item-\<Custom field GUID>=\<Dropdown value GUID>` If the search phrase matches a value in a dropdown custom field with up to 10 values it will be suggested to search on that dropdown value.
+_Dropdown custom field_ _-_ `custom-field-item-<Custom field GUID>=<Dropdown value GUID>` If the search phrase matches a value in a dropdown custom field with up to 10 values it will be suggested to search on that dropdown value.
 
 # Folder configuration - Document settings
 
@@ -13832,8 +13832,8 @@ See below various settings to display your data:
 
 PC data of the following two file formats can be previewed on Catenda.
 
-- `\*.e57`
-- `\*.las`
+- `*.e57`
+- `*.las`
 
 PC can be uploaded like any other document in the document section. For these two file formats files up to 25 GB files can be uploaded to the document section. Multiple files can be loaded in the document section and displayed together in the 3D viewer.
 
@@ -14025,7 +14025,7 @@ will become: [Catenda Hub](https://hub.catenda.com)
 
 ### 3.4 **Preventing formatting**
 
-By wrapping words in non letter of number characters you can make them look different. This is not always desired. If you put a `\\` in front of such a character, the `\\` will disappear. Any formatting that would have been applied for these characters will then stop working. If you put a `\\` on an empty line that is not part of a [list](#lists) the result will still be an empty line as well.
+By wrapping words in non letter of number characters you can make them look different. This is not always desired. If you put a `\` in front of such a character, the `\` will disappear. Any formatting that would have been applied for these characters will then stop working. If you put a `\` on an empty line that is not part of a [list](#lists) the result will still be an empty line as well.
 
 ## 4. **Breaking up text and adding structure**
 
@@ -14053,7 +14053,7 @@ _Getting a Catenda image document link_ If you right click the [download action 
 
 ### 4.2 **Lists**
 
-**Unordered lists** Start an unordered list with a blank line above it, then either hyphen (`-`), plus (`+`), or an asterix (`\*`) followed by a space. Insert 4 spaces or a tab space at the start of the line to create a sublist.
+**Unordered lists** Start an unordered list with a blank line above it, then either hyphen (`-`), plus (`+`), or an asterix (`*`) followed by a space. Insert 4 spaces or a tab space at the start of the line to create a sublist.
 
 ```
  - First element - Second element     - Insert 4 spaces at the start of the line to create a sublist.
@@ -14123,13 +14123,13 @@ Will turn into:
 
 If you wish to reset the numbering and start from one again on a second list within the same post you can put a blank or a [divider](#dividers) in between.
 
-To [make sure the list does not get formatted](#preventing-formatting) so you can use your own numbering: Put a character on the line above the list. A good choice is `\\` because it will disappear.
+To [make sure the list does not get formatted](#preventing-formatting) so you can use your own numbering: Put a character on the line above the list. A good choice is `\` because it will disappear.
 
 ```
 \23. twenty-three 24. twenty-four 25. twenty-five     26. twenty-six
 ```
 
-Put a backslash (`\\`) before the period (`.`):
+Put a backslash (`\`) before the period (`.`):
 
 ```
 23\. twenty-three 24\. twenty-four 25\. twenty-five     26\. twenty-six
@@ -14197,7 +14197,7 @@ Click the `@` tool or write `@` in a description or comment to mention a member.
 
 Search through the list by starting to type the email, member name or team name. Go up and down the list with the arrow keys and click or press enter to select a member or team. For a member or team to appear in this list the member or team has to at least have read access to the topic board. After selecting a member or team in the list the `@` will get some extra text that can look like:
 
-`@[\<email address of member>]` or `@[\<Team name>]`
+`@[<email address of member>]` or `@[<Team name>]`
 
 ### 5.1 **Saving or submitting a mention in a topic**
 
@@ -14237,7 +14237,7 @@ Click the `#` tool or write `#` in a description or comment to tag a topic. Afte
 
 Search through the list by starting to type the title or topic number. Go up and down the list with the arrow keys and click or press enter to select a topic. For a topic to appear in this list the member that is tagging has to have access to the board that the topic is in. After selecting a topic in the list the `#` will get some extra text that can look like:
 
-`#[\<topic number>]`
+`#[<topic number>]`
 
 ### 6.1 **Saving or submitting a tagged topic**
 
@@ -14987,7 +14987,7 @@ Find the 3D documents you are looking for by searching on part of their names.
 
 A partial match of 3 roman letters or more can be matched in the list of 3D document names. Whitespace characters like space "" are not included in this amount.
 
-**Match after separator** After a separator the three character rule is reset and only three or more characters after a separater can be matched. The three character rule is reset after each separator. Separators can be characters like underscores "`\_`" or a dashes "`-`".
+**Match after separator** After a separator the three character rule is reset and only three or more characters after a separater can be matched. The three character rule is reset after each separator. Separators can be characters like underscores "`_`" or a dashes "`-`".
 
 **Content panel** To narrow down your search further consider searching in the content panel. Here you can filter on more information than just the name of the model. In the content panel all 3D documents that have been linked to a model can be found on the [models page](https://support.catenda.com/en/articles/4670286-models-page). 3D documents that have not been linked to a document can be found on the [documents page](https://support.catenda.com/en/articles/8204673-documents-page).
 
@@ -18654,7 +18654,7 @@ A dropdown menu will give the option to create 3 distinct types of topic templat
 
 ### 2.1 **Search**
 
-_Text search -_ `search=\<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
+_Text search -_ `search=<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
 
 **Content that can be searched on** Topic template name
 
@@ -22118,30 +22118,30 @@ Users accessing Catenda Hub behind a firewall, proxy or other intermediary need 
 
 ### 2.1 **Domains:**
 
-(`\*` means DNS wildcard and `.` is a domain level separator, don't treat the below as regexes).
+(`*` means DNS wildcard and `.` is a domain level separator, don't treat the below as regexes).
 
 - Catenda domains:
     - `catenda.com`
-    - `\*.catenda.com`
+    - `*.catenda.com`
         - `webviewer.catenda.com`
 This subdomain is required to be permitted in the firewall to view the preview of documents on the document preview page.
-    - `\*.\*.catenda.com`
+    - `*.*.catenda.com`
 
-We encourage you to use this new domain name. You should not run into problems with more sub-domains like `\*.\*.\*.catenda.com` but if you do it might be easier to allow everything from `catenda.com`
+We encourage you to use this new domain name. You should not run into problems with more sub-domains like `*.*.*.catenda.com` but if you do it might be easier to allow everything from `catenda.com`
 
 **Maintained domains** The following domains will be maintained in the foreseeable future but not referenced in technical literature.
 
 - `bimsync.com`
-- `\*.bimsync.com`
-- `\*.\*.bimsync.com`
+- `*.bimsync.com`
+- `*.*.bimsync.com`
 
 **Services** Catenda Hub uses the following services:
 
-- `\*.google-analytics.com`
-- `\*.googletagmanager.com`
-- `\*.intercom.io`
-- `\*.intercomcdn.com`
-- `\*.sentry.io`
+- `*.google-analytics.com`
+- `*.googletagmanager.com`
+- `*.intercom.io`
+- `*.intercomcdn.com`
+- `*.sentry.io`
 
 **Plugins** If you only intend to use Catenda Hub through one of our plugins you these are the only domains you need to allow through your firewall.
 
@@ -22403,7 +22403,7 @@ Space is often not allowed as a first character but can be used in the models an
 
 ### 2.2 **2. ASCII Punctuation & Symbols**
 
-Half-width characters `!"#%&()\*+-/` ! is the second unicode character and is the best choice if you want to make sure your list item appears first in the list.
+Half-width characters `!"#%&()*+-/` ! is the second unicode character and is the best choice if you want to make sure your list item appears first in the list.
 
 ### 2.3 **3. ASCII Digits**
 
@@ -22413,7 +22413,7 @@ To combat this add a 0 in front of numbers that are not very long. 00001 00002 0
 
 ### 2.4 **4. ASCII Punctuation & Symbols**
 
-`\<>@`
+`<>@`
 
 ### 2.5 **5. LETTERS - CAPITAL - HALF WIDTH**
 
@@ -22421,7 +22421,7 @@ To combat this add a 0 in front of numbers that are not very long. 00001 00002 0
 
 ### 2.6 **6. ASCII Punctuation & Symbols**
 
-`[\\]\_`
+`[\]_`
 
 ### 2.7 **7. letters - lowercase - half width**
 
@@ -26094,7 +26094,7 @@ If a custom field is not visible on an issue board, the following settings are v
 
 If a naming convention is enabled on the upload folder or a parent folder to the upload folder the local filename has to conform to the convention in order for the uplaod to go thorugh. If the filename does not follow the convention the following error is displayed.
 
-**`\<Filename> not match naming convention`**
+**`<Filename> not match naming convention`**
 
 Please upload the file manually via the browser to see which parts of the filename are missing.
 
@@ -26120,7 +26120,7 @@ Please ask a project administrator for access to the project. To find out who to
 
 Document names can be limited with a naming convention in Catenda. Folders cannot be limited. Without the use of a naming convention documents with any name can be uploaded. In this case Catenda might not have been able to register the file extension of the document. Folders with any name can be created. It can therefore be that the Desktop Connector runs into problems with characters in names that are reserved for Windows functionality.
 
-Typical problems arise with the following characters: `/` - Forward Slash `\\` - Backward Slash These characters are used in the file path hierarchy in Windows which causes the document to end up in the wrong place.
+Typical problems arise with the following characters: `/` - Forward Slash `\` - Backward Slash These characters are used in the file path hierarchy in Windows which causes the document to end up in the wrong place.
 
 To find an extensive list of what is reserved in Windows see here: [https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file](https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file)
 
@@ -26172,7 +26172,7 @@ The latest revision for one of the documents has been withdrawn. In this case th
 
 In order for the Desktop Connector to be able to extract data from a document to upload or update a document with downloaded data it needs access to the document. If the document is in use by another process it cannot access the document. If the document is in use the following error can be seen:
 
-Desktop Connector `The process cannot access the file '\<File path>' because it is being used by another process.`
+Desktop Connector `The process cannot access the file '<File path>' because it is being used by another process.`
 
 Log file
 
@@ -26190,7 +26190,7 @@ If the document is in use the task will stop and not continue if it cannot acces
 
 Tasks, that were manually started by clicking on Upload/Download Now in the task, display a status of Uploading or Downloading as soon as the task has started. For both tasks that were manually started and tasks that were started per schedule a message that looks like so appears in the log file when a task starts:
 
-Log file `\<Message number>|\<Date/time>|INFO|1|LoggingExtension|start logging`
+Log file `<Message number>|<Date/time>|INFO|1|LoggingExtension|start logging`
 
 ### 7.2 **Task running**
 
@@ -26314,7 +26314,7 @@ For folders that are on drive where Windows is installed the right folder permis
 
 In this case the log file will give the following error:
 
-`Access to the path '\<Selected local folder path> subfolder \<Path within local folder>' is denied`
+`Access to the path '<Selected local folder path> subfolder <Path within local folder>' is denied`
 
 ### 10.1 **Permission denied**
 
@@ -26342,7 +26342,7 @@ Clicking on Download Anyway will download the files but they will not be able to
 
 Desktop connector `Status: Redirect, click to _view downloaded files_`
 
-Log file `Access to the path '\<Path>' is denied`
+Log file `Access to the path '<Path>' is denied`
 
 Click on view downloaded files to open the location of where the files were donwloaded to.
 
@@ -26364,7 +26364,7 @@ In this case the log file will give the following error:
 
 Document names can be limited with a naming convention in Catenda. Folders cannot be limited. Without the use of a naming convention documents with any name can be uploaded. In this case Catenda might not have been able to register the file extension of the document. Folders with any name can be created. It can therefore be that the Desktop Connector tries to create a file or folder with a character that is not allowed to be used in a path in Windows.
 
-Typical problems arise with the following characters: `\<` - less than `>` - greater than `:` - colon `"` - double quote `|` - vertical bar or pipe `?` - question mark `\*` - asterisk
+Typical problems arise with the following characters: `<` - less than `>` - greater than `:` - colon `"` - double quote `|` - vertical bar or pipe `?` - question mark `*` - asterisk
 
 To find an extensive list of what is reserved in Windows see here: [https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file](https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file)
 
@@ -26372,7 +26372,7 @@ To find an extensive list of what is reserved in Windows see here: [https://lear
 
 In this case the log file will give the following error:
 
-`Error: The network path was not found. : '\<path>'`
+`Error: The network path was not found. : '<path>'`
 
 In this situation the transfer fails immediately. This occurs because the program is trying to reach a folder that is no longer accessible. Because the "pathway" is completely broken, the program cannot even begin the download. There are three main reasons why your folder has become a "Dead End":
 
@@ -26406,11 +26406,11 @@ A standard Windows shortcut is a small file that "points" to a folder elsewhere.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/05-3-the-broken-windows-shortcut-lnk-file.png)
 
-In the General tab look at the Target field: _Local Shortcut_ The target starts with a drive letter (e.g., `C:\\Users\\...` or `D:\\Data`).
+In the General tab look at the Target field: _Local Shortcut_ The target starts with a drive letter (e.g., `C:\Users\...` or `D:\Data`).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/06-3-the-broken-windows-shortcut-lnk-file.png)
 
-_Network Shortcut_ The target starts with a server path (e.g., `\\\\ServerName\\Folder`) or a mapped network drive letter (e.g., `Z:\\ProjectData`).
+_Network Shortcut_ The target starts with a server path (e.g., `\\ServerName\Folder`) or a mapped network drive letter (e.g., `Z:\ProjectData`).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/07-3-the-broken-windows-shortcut-lnk-file.png)
 
@@ -26436,28 +26436,28 @@ If the Desktop Connector is told to use one of these shortcuts while the target 
 
 **Reconnect or Re-select** If a "Network path not found" or "Drive unavailable" error pops up confirm the connection to the network path or drive. Go to "This PC" and ensure your network drives (like `Z:`) are active. Check if any external USB drives or hard drives are properly connected. If they have a red X, double-click them to to reconnect. If the network drive is not active and you know what network the drive is on, reconnect to the network either by plugging in a cable, joining via wifi or when using a VPN, check to see if the VPN is active. If the drive is no longer available, select a different destination folder in the Desktop Connector that is available either on the local computer or on the network..
 
-**Delete/rename and Recreate** If a local folder or shortcut remains "stuck" (you see it, but can't open it) even after a reboot: Rename the problematic folder or shortcut file (e.g., rename `ProjectData` to `ProjectData\_OLD`) or delete it. Create a brand-new, standard folder with the same name. Restart the transfer. The Desktop Connector will detect the fresh, healthy folder and resume normal operation.
+**Delete/rename and Recreate** If a local folder or shortcut remains "stuck" (you see it, but can't open it) even after a reboot: Rename the problematic folder or shortcut file (e.g., rename `ProjectData` to `ProjectData_OLD`) or delete it. Create a brand-new, standard folder with the same name. Restart the transfer. The Desktop Connector will detect the fresh, healthy folder and resume normal operation.
 
-**Why was no temporary folder created in place of the missing folder?** In other situations the desktop connector creates a folder with `\_restricted` appended to the name when things go wrong. However, there is a technical difference in how Windows handles "missing" locations:
+**Why was no temporary folder created in place of the missing folder?** In other situations the desktop connector creates a folder with `_restricted` appended to the name when things go wrong. However, there is a technical difference in how Windows handles "missing" locations:
 
-The `\_restricted` Folder is only created if the folder is "physically" there but "locked" (like a doorway to a room that is bolted shut). In that case, the program can see the door and decides to build a new one (`\_restricted`) next to it.
+The `_restricted` Folder is only created if the folder is "physically" there but "locked" (like a doorway to a room that is bolted shut). In that case, the program can see the door and decides to build a new one (`_restricted`) next to it.
 
-In the case of the missing pathway it is different. The folder is no longer there or the "signpost"(symbolic link) that was selected is pointing to an empty location. To the program, it’s not just locked—the entire "room" is missing from the building. Because there is no "doorway" to start with, the program cannot create a `\_restricted` version and must stop.
+In the case of the missing pathway it is different. The folder is no longer there or the "signpost"(symbolic link) that was selected is pointing to an empty location. To the program, it’s not just locked—the entire "room" is missing from the building. Because there is no "doorway" to start with, the program cannot create a `_restricted` version and must stop.
 
 ## 3. **Missing mount point**
 
 In this case the log file will give the following error:
 
-`Error: Could not find a part of the path '\<path>'.`
+`Error: Could not find a part of the path '<path>'.`
 
 If the folder cannot be opened Windows tries to follow the "signpost" to a network location and the following error is displayed:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/10-missing-mount-point.png)
 
-`\<Path> is not accessible.`
+`<Path> is not accessible.`
 `The network path was not found`
 
-In this situation the Desktop Connector automatically creates a new folder with "\_restricted" appended to the name (e.g., `ProjectData\_restricted`).
+In this situation the Desktop Connector automatically creates a new folder with "\_restricted" appended to the name (e.g., `ProjectData_restricted`).
 
 This happens when a folder on the computer is actually a "Mount Point" (a doorway) to another drive. Examples of other drives can include:
 
@@ -26465,7 +26465,7 @@ This happens when a folder on the computer is actually a "Mount Point" (a doorwa
 - External hard drive
 - Network volume that is currently disconnected.
 
-Windows "remembers" the folder exists, but because the physical drive is missing, the folder becomes a "Ghost." The Desktop Connector detects that the folder is there but cannot write to it. To prevent your data from being lost, a Shadow Folder is created with the `\_restricted` suffix so your files have a safe place to land.
+Windows "remembers" the folder exists, but because the physical drive is missing, the folder becomes a "Ghost." The Desktop Connector detects that the folder is there but cannot write to it. To prevent your data from being lost, a Shadow Folder is created with the `_restricted` suffix so your files have a safe place to land.
 
 Here are some typical situations in which this can happen:
 
@@ -26488,19 +26488,19 @@ When the mounted folder is double-clicked, the following error is instantly disp
 
 **`Location is not avialable`** or
 
-**`The network path was not found`** `\<Path> is unavailable like so the link is broken`
+**`The network path was not found`** `<Path> is unavailable like so the link is broken`
 
 ### 3.1 **How to Fix It**
 
 Manually Recreate the Folder If the folder remains "stuck" even after a reboot:
 
-1. Rename the problematic folder (e.g., rename `ProjectData` to `ProjectData\_OLD`).
+1. Rename the problematic folder (e.g., rename `ProjectData` to `ProjectData_OLD`).
 1. Create a brand-new folder with the original name (`ProjectData`).
-1. The Desktop Connector will detect the fresh, healthy folder and resume normal operation without the `\_restricted` suffix.
+1. The Desktop Connector will detect the fresh, healthy folder and resume normal operation without the `_restricted` suffix.
 
 **Reconnect the Hardware or Network** Go to "This PC" and ensure your network drives (like `Z:`) are active. Check if any external USB drives or hard drives are properly connected. If they have a red X, double-click them to to reconnect. If the network drive is not active and you know what network the drive is on, reconnect to the network either by plugging in a cable, joining via wifi or when using a VPN, check to see if the VPN is active. If the drive is no longer available, select a different destination folder in the Desktop Connector that is available either on the local computer or on the network.
 
-**Delete/rename and Recreate** If a local folder or shortcut remains "stuck" (you see it, but can't open it) even after a reboot: Rename the problematic folder or shortcut file (e.g., rename `ProjectData` to `ProjectData\_OLD`) or delete it. Create a brand-new folder with the original name (`ProjectData`). Restart the transfer. The Desktop Connector will detect the fresh, healthy folder and resume normal operation without the `\_restricted` suffix.
+**Delete/rename and Recreate** If a local folder or shortcut remains "stuck" (you see it, but can't open it) even after a reboot: Rename the problematic folder or shortcut file (e.g., rename `ProjectData` to `ProjectData_OLD`) or delete it. Create a brand-new folder with the original name (`ProjectData`). Restart the transfer. The Desktop Connector will detect the fresh, healthy folder and resume normal operation without the `_restricted` suffix.
 
 # Document Preview Troubleshooting
 
@@ -26592,7 +26592,7 @@ Here the time and date the error occurred can be seen. Click on the time and dat
 
 The alert in Power Automate gives us some more indication about what could be wrong. In this case the following error message has appeared:
 
-`Alert: Your \<email> connection isn't working: Looks like your flow's \<email> connection needs to be signed-in again. The most common cause is a changed password or a policy set by your tenant administrator. Connections may also require reauthentication, if multi-factor authentication has been recently enabled for your account.`
+`Alert: Your <email> connection isn't working: Looks like your flow's <email> connection needs to be signed-in again. The most common cause is a changed password or a policy set by your tenant administrator. Connections may also require reauthentication, if multi-factor authentication has been recently enabled for your account.`
 
 To reauthenticate, click on the workflow in teams and open the workflow in Power Automate. It is also possible to go to the connectione page in Power Automate and establish a connection there.
 
@@ -26988,7 +26988,7 @@ To revoke the access that Solibri was granted to an account, log in with the acc
 
 Another way to remove the connection to a Catenda account is by deleting the userdata in Solibri. To do so delete the folder that is located here:
 
-`C:\\Users\\\<Username>\\.solibri`
+`C:\Users\<Username>\.solibri`
 
 > **Note:** By default this is a hidden folder on your system. Type the path directly in your file explorer or find out how to unhide hidden folders here: [https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5](https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5)
 
@@ -27196,7 +27196,7 @@ Certain software limit the amount of characters that paths to files in a zip fil
 
 Windows Home users: This limit can be increased by going to Windows Start and typing REGEDIT Open the Registry Editor and navigato to:
 
-`HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem`
+`HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem`
 
 Doubleclick `LongPathsEnabled` and change the value to 1. If it is not there, rightclick the `FileSystem` key and choose
 
@@ -27206,7 +27206,7 @@ Name the new value `LongPathsEnabled` with a value of 1.
 
 Windows Pro users This limit can be increased by going to Windows Start and typing gpedit.msc Open Edit Group Policy and navigato to:
 
-`HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem`
+`HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem`
 
 Double click on `Enable Win32 long paths` and enable it.
 

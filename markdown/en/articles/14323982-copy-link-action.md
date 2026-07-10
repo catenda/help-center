@@ -14,7 +14,7 @@ Select models table elements and use the copy link action to copy a link that op
 
 In the URL the topic filter will look like:
 
-`https://hub.catenda.com/project/\<Project-GUID>/models?items=\<Model-GUID>,\<Model-GUID>,\<Model-GUID>`
+`https://hub.catenda.com/project/<Project-GUID>/models?items=<Model-GUID>,<Model-GUID>,<Model-GUID>`
 
 _Access required:_ Users opening the link will need read access to the documents that are linked to each model in the copied link.
 
@@ -26,7 +26,7 @@ Select elements from any topic board and use the copy link action to copy a link
 
 In the URL the topic filter will look like:
 
-[`https://hub.catenda.com/project/\<Project-GUID>/issues?issues=\<Topic-number>,\<Topic-number>&status-type=all&board=\<Topic-board-GUID>,\<Topic-board-GUID`](https://hub.catenda.com/project/<Project-GUID>/issues?issues=<Topic-number>,<Topic-number>&status-type=all&board=<Topic-board-GUID>,<Topic-board-GUID)`>`
+[`https://hub.catenda.com/project/<Project-GUID>/issues?issues=<Topic-number>,<Topic-number>&status-type=all&board=<Topic-board-GUID>,<Topic-board-GUID`](https://hub.catenda.com/project/<Project-GUID>/issues?issues=<Topic-number>,<Topic-number>&status-type=all&board=<Topic-board-GUID>,<Topic-board-GUID)`>`
 
 _Access required:_ Users opening the link will need read access to the topic boards that the linked topics are in.
 
@@ -42,7 +42,7 @@ Select documents table elements and use the copy link action to copy a link that
 
 In the URL the topic filter will look like:
 
-[`https://hub.catenda.com/project/\<Project-GUID>/libraries/\<Document-library-GUID>/items?items=\<Library-item-GUID>,\<Library-item-GUID`](https://hub.catenda.com/project/<Project-GUID>/libraries/<Document-library-GUID>/items?items=<Library-item-GUID>,<Library-item-GUID)`>`
+[`https://hub.catenda.com/project/<Project-GUID>/libraries/<Document-library-GUID>/items?items=<Library-item-GUID>,<Library-item-GUID`](https://hub.catenda.com/project/<Project-GUID>/libraries/<Document-library-GUID>/items?items=<Library-item-GUID>,<Library-item-GUID)`>`
 
 _Access required:_ Users opening the link will need read access to the folders/documents
 

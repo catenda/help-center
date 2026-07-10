@@ -14,8 +14,8 @@ Zie hieronder verschillende instellingen voor het weergeven van uw gegevens:
 
 PC-gegevens van de volgende twee bestandsindelingen kunnen in Catenda worden bekeken.
 
-- `\*.e57`
-- `\*.las`
+- `*.e57`
+- `*.las`
 
 PC kan zoals elk ander document in het documentgedeelte worden geüpload. Voor deze twee bestandsindelingen kunnen bestanden tot 25 GB naar het documentgedeelte worden geüpload. Meerdere bestanden kunnen in het documentgedeelte worden geladen en samen in de 3D Viewer worden weergegeven.
 

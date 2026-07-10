@@ -78,7 +78,7 @@ wordt: [Catenda Hub](https://hub.catenda.com)
 
 ### 3.4 **Opmaak voorkomen**
 
-Door woorden in niet-letter- of nummertekens in te pakken, kunt u deze er anders uit laten zien. Dit is niet altijd gewenst. Als u `\\` voor zo'n teken plaatst, verdwijnt de `\\`. Alle opmaak die voor deze tekens zou zijn toegepast, werkt dan niet meer. Als u `\\` op een lege regel plaatst die geen onderdeel is van een [lijst](#lists), blijft het resultaat ook een lege regel.
+Door woorden in niet-letter- of nummertekens in te pakken, kunt u deze er anders uit laten zien. Dit is niet altijd gewenst. Als u `\` voor zo'n teken plaatst, verdwijnt de `\`. Alle opmaak die voor deze tekens zou zijn toegepast, werkt dan niet meer. Als u `\` op een lege regel plaatst die geen onderdeel is van een [lijst](#lists), blijft het resultaat ook een lege regel.
 
 ## 4. **Tekst opsplitsen en structuur toevoegen**
 
@@ -106,7 +106,7 @@ _Een Catenda-afbeeldingsdocumentkoppeling ophalen_ Als u met de rechtermuisknop 
 
 ### 4.2 **Lijsten**
 
-**Ongeordende lijsten** Begin een ongeordende lijst met een lege regel erboven, vervolgens een koppelteken (`-`), plus (`+`), of een asterisk (`\*`) gevolgd door een spatie. Voeg 4 spaties of een tabspatie in aan het begin van de regel om een sublijst te maken.
+**Ongeordende lijsten** Begin een ongeordende lijst met een lege regel erboven, vervolgens een koppelteken (`-`), plus (`+`), of een asterisk (`*`) gevolgd door een spatie. Voeg 4 spaties of een tabspatie in aan het begin van de regel om een sublijst te maken.
 
 ```
  - Eerste element - Tweede element     - Voeg 4 spaties toe aan het begin van de regel om een sublijst te maken.
@@ -176,13 +176,13 @@ Zal veranderen in:
 
 Als u de nummering opnieuw wilt instellen en opnieuw met één wilt beginnen op een tweede lijst in dezelfde bericht, kunt u een lege regel of een [scheidingslijn](#dividers) ertussen plaatsen.
 
-Om [ervoor te zorgen dat de lijst niet wordt opgemaakt](#preventing-formatting) zodat u uw eigen nummering kunt gebruiken: Plaats een teken op de regel boven de lijst. Een goed keuze is `\\` omdat het verdwijnt.
+Om [ervoor te zorgen dat de lijst niet wordt opgemaakt](#preventing-formatting) zodat u uw eigen nummering kunt gebruiken: Plaats een teken op de regel boven de lijst. Een goed keuze is `\` omdat het verdwijnt.
 
 ```
 \23. drieëntwintig 24. vierentwintig 25. vijfentwintig     26. zesentwintig
 ```
 
-Plaats een backslash (`\\`) voor de punt (`.`):
+Plaats een backslash (`\`) voor de punt (`.`):
 
 ```
 23\. drieëntwintig 24\. vierentwintig 25\. vijfentwintig     26\. zesentwintig
@@ -228,11 +228,11 @@ zal dit resulteren
 
 ### 4.6 **Codeblokken**
 
-U kunt als volgt enkele regels code invoegen: Twee \`\\`\` rondom tekst ziet er als volgt uit:
+U kunt als volgt enkele regels code invoegen: Twee \`\`\` rondom tekst ziet er als volgt uit:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/08-code-blocks.png)
 
-Drie backticks `\`\\`\\`\` boven en onder wat tekst ziet er als volgt uit:
+Drie backticks `\`\\`\`\` boven en onder wat tekst ziet er als volgt uit:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/09-code-blocks.png)
 
@@ -250,7 +250,7 @@ Klik het `@`-gereedschap of schrijf `@` in een beschrijving of opmerking om een 
 
 Blader door de lijst door te beginnen met het typen van het e-mailadres, lidnaam of teamnaam. Ga omhoog en omlaag in de lijst met de pijltoetsen en klik of druk op Enter om een lid of team te selecteren. Opdat een lid of team in deze lijst wordt weergegeven, moet het lid of team minstens leeztoegang tot de topic-bord hebben. Na het selecteren van een lid of team in de lijst krijgt de `@` wat extra tekst die er als volgt uit kan zien:
 
-`@[\<e-mailadres van lid>]` of `@[\<Teamnaam>]`
+`@[<e-mailadres van lid>]` of `@[<Teamnaam>]`
 
 ### 5.1 **Opslaan of indienen van een vermelding in een topic**
 
@@ -290,7 +290,7 @@ Klik het `#`-gereedschap of schrijf `#` in een beschrijving of opmerking om een 
 
 Blader door de lijst door te beginnen met het typen van de titel of topic-nummer. Ga omhoog en omlaag in de lijst met de pijltoetsen en klik of druk op Enter om een topic te selecteren. Opdat een topic in deze lijst verschijnt, moet het lid dat het topic tagt, toegang hebben tot de bord waarin het topic zich bevindt. Na het selecteren van een topic in de lijst krijgt de `#` wat extra tekst die er als volgt uit kan zien:
 
-`#[\<topic-nummer>]`
+`#[<topic-nummer>]`
 
 ### 6.1 **Opslaan of indienen van een getagd topic**
 

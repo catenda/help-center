@@ -26,15 +26,15 @@ De verschillende filters in het filtermenu worden alleen weergegeven als er onde
 
 ### 2.1 **Mijn onderwerpen**
 
-Toegewezen aan mij - `assigned-user=\<User GUID>&assigned-team=\<Team GUID>` _Toegewezen gebruiker_ - `assigned-user=\<User GUID>` _Mijn teams_ - `assigned-team=\<Team GUID>` _Aangevraagd door mij_ - `requester-user=\<Your GUID>` Onderwerpen _die ik volg_ - `followed-by=me` _die mij noemen_ - `mentioned=me`
+Toegewezen aan mij - `assigned-user=<User GUID>&assigned-team=<Team GUID>` _Toegewezen gebruiker_ - `assigned-user=<User GUID>` _Mijn teams_ - `assigned-team=<Team GUID>` _Aangevraagd door mij_ - `requester-user=<Your GUID>` Onderwerpen _die ik volg_ - `followed-by=me` _die mij noemen_ - `mentioned=me`
 
 > **Opmerking:** Als u een koppeling deelt met de filters "Onderwerp dat ik volg" of "Die mij noemen" actief, zal de gebruiker die de koppeling opent het onderwerpenbord gefilterd hebben voor onderwerpen die hij volgt en onderwerpen waarin hij is genoemd, en niet voor onderwerpen die u volgt en onderwerpen waarin u bent genoemd. Gebruik [tekstzoeken](#text-search) om onderwerpen te delen waarin u bent genoemd
 
-_Gemaakt door mij_ - `created-by=\<User GUID>`
+_Gemaakt door mij_ - `created-by=<User GUID>`
 
 ### 2.2 **Status / Type**
 
-_Alle open status_ - `status-type=open` _Specifieke open status_ - `status-type=\<Status GUID>` _Alle gesloten status_ - `status-type=closed` _Specifieke gesloten status_ - `status-type=\<Status GUID>` _Type_ - `type=\<Type GUID>`
+_Alle open status_ - `status-type=open` _Specifieke open status_ - `status-type=<Status GUID>` _Alle gesloten status_ - `status-type=closed` _Specifieke gesloten status_ - `status-type=<Status GUID>` _Type_ - `type=<Type GUID>`
 
 ### 2.3 **Einddatum**
 
@@ -42,37 +42,37 @@ _Verlopen_ - `due=overdue` _Alles met een einddatum_ - `due=present` _Geen eindd
 
 ### 2.4 **Bijgewerkt**
 
-Met het datumfilter kunt u een tijdspanne selecteren voor wanneer de onderwerpen voor het laatst zijn bijgewerkt. _Bijgewerkt_ - `updated-from=\<Epoch Unix Timestamp>&updated-to=\<Epoch Unix Timestamp>` Lees [dit](https://support.catenda.com/en/articles/6511685-date-filter) artikel om te leren hoe u eenvoudig datums op de pagina kunt selecteren.
+Met het datumfilter kunt u een tijdspanne selecteren voor wanneer de onderwerpen voor het laatst zijn bijgewerkt. _Bijgewerkt_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Lees [dit](https://support.catenda.com/en/articles/6511685-date-filter) artikel om te leren hoe u eenvoudig datums op de pagina kunt selecteren.
 
 ### 2.5 **Toegewezen aan / Aangevraagd door**
 
-_Niet toegewezen_ - `assigned=unassigned` _Geen team toegewezen_ - `assigned-team=unassigned` _Toegewezen aan team_ - `assigned-team=\<Team GUID>` _Niet toegewezen aan gebruiker_ - `assigned-user=unassigned` _Toegewezen aan gebruiker_ - `assigned-user=\<User GUID>` Operator toewijzen - `assigned-op=and` Standaard kunt u alleen zoeken naar de toegewezen gebruiker OF het toegewezen team. In Catenda Hub kunt u een toewijzing instellen als gebruiker@team Om alle onderwerpen van dit type te zoeken\*\*,\*\* filtert u op het team en de gebruiker, en voegt u &assigned-op=and toe aan het einde van de URL.
+_Niet toegewezen_ - `assigned=unassigned` _Geen team toegewezen_ - `assigned-team=unassigned` _Toegewezen aan team_ - `assigned-team=<Team GUID>` _Niet toegewezen aan gebruiker_ - `assigned-user=unassigned` _Toegewezen aan gebruiker_ - `assigned-user=<User GUID>` Operator toewijzen - `assigned-op=and` Standaard kunt u alleen zoeken naar de toegewezen gebruiker OF het toegewezen team. In Catenda Hub kunt u een toewijzing instellen als gebruiker@team Om alle onderwerpen van dit type te zoeken\*\*,\*\* filtert u op het team en de gebruiker, en voegt u &assigned-op=and toe aan het einde van de URL.
 
-_Niet aangevraagd_ - `requester=unassigned` _Niet aangevraagd door team_ - `requester-team=unassigned` _Niet aangevraagd door gebruiker_ - `requester-user=unassigned` _Aangevraagd door gebruiker_ - `requester-user=\<User GUID>`
+_Niet aangevraagd_ - `requester=unassigned` _Niet aangevraagd door team_ - `requester-team=unassigned` _Niet aangevraagd door gebruiker_ - `requester-user=unassigned` _Aangevraagd door gebruiker_ - `requester-user=<User GUID>`
 
 ### 2.6 **Gemaakt door**
 
-_Gemaakt door gebruiker_ - `created-by=\<User GUID>`
+_Gemaakt door gebruiker_ - `created-by=<User GUID>`
 
 ### 2.7 **Milestone**
 
-_Milestone_ - `milestone=\<Milestone GUID>`
+_Milestone_ - `milestone=<Milestone GUID>`
 
 ### 2.8 **Aangepast veld**
 
-_Aangepast veld heeft waarde_ - `custom-field-has-value-\<Custom field GUID>=true` Met de optie "heeft waarde" in het filtermenu kunnen alle onderwerpen met een voor dat aangepaste veld geconfigureerde waarde worden gefilterd. Aangepaste veldtypen die kunnen worden gefilterd op heeft waarde: Datum Decimaal Vervolgkeuzelijst Geheel getal Tekst
+_Aangepast veld heeft waarde_ - `custom-field-has-value-<Custom field GUID>=true` Met de optie "heeft waarde" in het filtermenu kunnen alle onderwerpen met een voor dat aangepaste veld geconfigureerde waarde worden gefilterd. Aangepaste veldtypen die kunnen worden gefilterd op heeft waarde: Datum Decimaal Vervolgkeuzelijst Geheel getal Tekst
 
-_Aangepast veld specifieke waarde_ - `custom-field-item-\<Custom field GUID>=\<Value GUID>` Aangepaste veldtypen die kunnen worden gefilterd op specifieke waarde uit het filtermenu: Vervolgkeuzelijst
+_Aangepast veld specifieke waarde_ - `custom-field-item-<Custom field GUID>=<Value GUID>` Aangepaste veldtypen die kunnen worden gefilterd op specifieke waarde uit het filtermenu: Vervolgkeuzelijst
 
 Sommige waarden in aangepaste velden waarvan waarden kunnen worden geconfigureerd, kunnen worden gefilterd. Filter op waarden door een zoekfrase in de zoek- of filterbalk in te voeren en het bijbehorende aangepaste veld te selecteren. Aangepaste veldtypen die kunnen worden gefilterd door in te voeren in de zoek- of filterbalk: Decimaal Vervolgkeuzelijst Geheel getal Tekst
 
-_Aangepast veld heeft geen waarde_ - `custom-field-has-value-\<Custom field GUID>=false` Filter op alle onderwerpen waarbij een aangepast veld geen waarde heeft. Aangepaste veldtypen die kunnen worden gefilterd op geen waarde: Datum Decimaal Vervolgkeuzelijst Geheel getal Tekst
+_Aangepast veld heeft geen waarde_ - `custom-field-has-value-<Custom field GUID>=false` Filter op alle onderwerpen waarbij een aangepast veld geen waarde heeft. Aangepaste veldtypen die kunnen worden gefilterd op geen waarde: Datum Decimaal Vervolgkeuzelijst Geheel getal Tekst
 
 > **Opmerking:** Aangepaste velden die als verplicht zijn ingesteld, hebben altijd een waarde. U kunt daarom niet zoeken naar "heeft waarde" of "heeft geen waarde" voor een aangepast veld dat als verplicht is ingesteld.
 
 ### 2.9 **Label**
 
-_Label_ - `label=\<Label GUID>` Labels in hun eigen labelgroep worden in een aparte lijst weergegeven.
+_Label_ - `label=<Label GUID>` Labels in hun eigen labelgroep worden in een aparte lijst weergegeven.
 
 ### 2.10 **Koppelingen**
 
@@ -100,7 +100,7 @@ Klik op het filter om het bord op de opgeslagen set filters die een naam hebben 
 
 ### 3.2 **Tekstzoeken**
 
-_Tekstzoeken -_ `search=\<Search phrase>` Na het invoeren van tekens in de zoek- of filterbalk verandert het eerste voorgestelde filter in tekstzoeken.
+_Tekstzoeken -_ `search=<Search phrase>` Na het invoeren van tekens in de zoek- of filterbalk verandert het eerste voorgestelde filter in tekstzoeken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/04-text-search.png)
 
@@ -120,19 +120,19 @@ Drie of meer tekens Inhoud die overeenkomt met de zoekfrase in elk deel van de i
 
 Lidnaam of teamnaam Zoek op de naam van het lid of team om alle normale tekstvoorvallen van die lidnaam of teamnaam te vinden.
 
-Vermeld lid Zoek op het e-mailadres van een lid om alle normale tekstvoorvallen van dat e-mailadres te vinden. Dit omvat waar zij zijn genoemd. Zoek op `#[\<E-mailadres van lid>]` om alleen de plaatsen te vinden waar dat lid wordt genoemd.
+Vermeld lid Zoek op het e-mailadres van een lid om alle normale tekstvoorvallen van dat e-mailadres te vinden. Dit omvat waar zij zijn genoemd. Zoek op `#[<E-mailadres van lid>]` om alleen de plaatsen te vinden waar dat lid wordt genoemd.
 
 Vermeld team Vermelde teams kunnen worden doorzocht door de GUID van dat team te zoeken. Ga naar [de inhoudspagina van dat team](https://support.catenda.com/en/articles/7891755-team-page) door op de naam ervan op het [tabblad Teams van de pagina Leden en teams](https://support.catenda.com/en/articles/4670291-members-and-teams-page) te klikken om de GUID van een team te vinden. De URL ziet er ongeveer als volgt uit: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 
-Zoek op de team GUID om alle normale tekstvoorvallen van die team GUID te vinden. Dit omvat waar zij zijn genoemd. Zoek op `#[\<team GUID>]` om alleen de plaatsen te vinden waar dat team wordt genoemd.
+Zoek op de team GUID om alle normale tekstvoorvallen van die team GUID te vinden. Dit omvat waar zij zijn genoemd. Zoek op `#[<team GUID>]` om alleen de plaatsen te vinden waar dat team wordt genoemd.
 
 ### 3.3 **Aangepaste velden - Tekst**
 
 Als een zoekfrase begint met een unicode-teken met een unicode-waarde van 58 of hoger, worden de volgende filters naar de onderkant van de lijst met voorgestelde filters weergegeven.
 
-_Aangepast tekstveld -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Als een aangepast tekstveld is ingeschakeld in het onderwerpenbord, kan de inhoud van aangepaste tekstvelden in alle onderwerpen in het bord met dit filter worden gefilterd.
+_Aangepast tekstveld -_ `custom-field-<Custom field GUID>=<Search phrase>` Als een aangepast tekstveld is ingeschakeld in het onderwerpenbord, kan de inhoud van aangepaste tekstvelden in alle onderwerpen in het bord met dit filter worden gefilterd.
 
 ### 3.4 **Zoeken op getal**
 
@@ -140,9 +140,9 @@ Als een zoekfrase begint met een unicode-teken met een unicode-waarde tussen 33 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/06-number-search-phrase.png)
 
-Dit omvat de volgende tekens: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`\*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
+Dit omvat de volgende tekens: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
 
-_Onderwerp -_ `issues=\<issue number>` Wanneer een zoekfrase met een getal begint, wordt het onderwerpcijferzoeken weergegeven als een suggestie in de zoek- of filterbalk. Het voorgestelde filter kan er als volgt uitzien:
+_Onderwerp -_ `issues=<issue number>` Wanneer een zoekfrase met een getal begint, wordt het onderwerpcijferzoeken weergegeven als een suggestie in de zoek- of filterbalk. Het voorgestelde filter kan er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/07-number-search-phrase.png)
 
@@ -152,12 +152,12 @@ Filteren op één of meer onderwerpen op nummer Het is slechts mogelijk om tegel
 
 ### 3.5 **Aangepaste velden - Getal**
 
-_Aangepast gehele getal veld -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Als een aangepast gehele getal veld is ingeschakeld in het onderwerpenbord, kan de inhoud van aangepaste gehele getal velden in alle onderwerpen in het bord met dit filter worden gefilterd.
+_Aangepast gehele getal veld -_ `custom-field-<Custom field GUID>=<Search phrase>` Als een aangepast gehele getal veld is ingeschakeld in het onderwerpenbord, kan de inhoud van aangepaste gehele getal velden in alle onderwerpen in het bord met dit filter worden gefilterd.
 
-_Aangepast decimaal veld -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Als een aangepast decimaal veld is ingeschakeld in het onderwerpenbord, kan de inhoud van aangepaste decimale velden in alle onderwerpen in het bord met dit filter worden gefilterd.
+_Aangepast decimaal veld -_ `custom-field-<Custom field GUID>=<Search phrase>` Als een aangepast decimaal veld is ingeschakeld in het onderwerpenbord, kan de inhoud van aangepaste decimale velden in alle onderwerpen in het bord met dit filter worden gefilterd.
 
 ### 3.6 **Aangepaste velden - Vervolgkeuzelijst**
 
 Als een zoekfrase overeenkomt met de naam van een waarde in een filter, wordt het best overeenkomende filter in het suggestiebox voorgesteld.
 
-_Aangepast vervolgkeuzelijstveld_ _-_ `custom-field-item-\<Custom field GUID>=\<Dropdown value GUID>` Als de zoekfrase overeenkomt met een waarde in een aangepast vervolgkeuzelijstveld met maximaal 10 waarden, wordt voorgesteld om op die vervolgkeuzelijstwaarde te zoeken.
+_Aangepast vervolgkeuzelijstveld_ _-_ `custom-field-item-<Custom field GUID>=<Dropdown value GUID>` Als de zoekfrase overeenkomt met een waarde in een aangepast vervolgkeuzelijstveld met maximaal 10 waarden, wordt voorgesteld om op die vervolgkeuzelijstwaarde te zoeken.

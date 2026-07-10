@@ -46,7 +46,7 @@ Hvis appen din ikke har tilgang til kameraet ditt, blir du bedt om å opprette e
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/04-authentication-app.png)
 
-Kontonavn: Navnet du gir til kontoen din Hemmelig nøkkel: Dette er nøkkelen du ville ha fått hvis du hadde kunnet skanne QR-koden. Du kan bruke kameraappen din til å skanne koden. URLen som åpnes når du skanner koden kan se omtrent slik ut: `otpauth://totp/\<Catenda-kontoens e-postadresse>?secret=\<Hemmelig nøkkel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Hvis du skriver inn koden etter "`secret=`" i den hemmelige nøkkelen som du ser i URLen som åpnes, kan kontonavnet være hva som helst.
+Kontonavn: Navnet du gir til kontoen din Hemmelig nøkkel: Dette er nøkkelen du ville ha fått hvis du hadde kunnet skanne QR-koden. Du kan bruke kameraappen din til å skanne koden. URLen som åpnes når du skanner koden kan se omtrent slik ut: `otpauth://totp/<Catenda-kontoens e-postadresse>?secret=<Hemmelig nøkkel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Hvis du skriver inn koden etter "`secret=`" i den hemmelige nøkkelen som du ser i URLen som åpnes, kan kontonavnet være hva som helst.
 
 > **Merk:** Hvis du oppretter en konto med feil hemmelig nøkkel, vil appen fortsatt generere engangspasskoder, så Catenda godtar kanskje ikke koden hvis feil hemmelig nøkkel ble brukt.
 

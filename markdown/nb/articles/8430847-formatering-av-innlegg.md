@@ -78,7 +78,7 @@ vil bli: [Catenda Hub](https://hub.catenda.com)
 
 ### 3.4 **Forhindring av formatering**
 
-Ved å pakke ord i tegn som ikke er bokstaver eller tall, kan du få dem til å se annerledes ut. Dette er ikke alltid ønsket. Hvis du setter en `\\` foran slik et tegn, vil `\\` forsvinne. All formatering som ville blitt brukt på disse tegnene vil da slutte å fungere. Hvis du setter en `\\` på en tom linje som ikke er del av en [liste](#lists) vil resultatet fortsatt være en tom linje.
+Ved å pakke ord i tegn som ikke er bokstaver eller tall, kan du få dem til å se annerledes ut. Dette er ikke alltid ønsket. Hvis du setter en `\` foran slik et tegn, vil `\` forsvinne. All formatering som ville blitt brukt på disse tegnene vil da slutte å fungere. Hvis du setter en `\` på en tom linje som ikke er del av en [liste](#lists) vil resultatet fortsatt være en tom linje.
 
 ## 4. **Dele opp tekst og legge til struktur**
 
@@ -106,7 +106,7 @@ _Få en Catenda-bildedokumentlenke_ Hvis du høyreklikker på [nedlastingshandli
 
 ### 4.2 **Lister**
 
-_Uordnede lister_ Start en uordnet liste med en blank linje over den, deretter enten bindestrek (`-`), pluss (`+`) eller asterisk (`\*`) fulgt av mellomrom. Sett inn 4 mellomrom eller et tabulatormelllomrom i begynnelsen av linjen for å opprette en underliste.
+_Uordnede lister_ Start en uordnet liste med en blank linje over den, deretter enten bindestrek (`-`), pluss (`+`) eller asterisk (`*`) fulgt av mellomrom. Sett inn 4 mellomrom eller et tabulatormelllomrom i begynnelsen av linjen for å opprette en underliste.
 
 ```
  - Første element - Andre element     - Sett inn 4 mellomrom i begynnelsen av linjen for å opprette en underliste.
@@ -176,13 +176,13 @@ Vil bli:
 
 Hvis du ønsker å tilbakestille nummereringen og starte fra en igjen på en andre liste innenfor det samme innlegget, kan du sette en tom eller en [skillelinje](#dividers) i mellom.
 
-For å [sikre at listen ikke formateres](#preventing-formatting) slik at du kan bruke din egen nummerering: Sett et tegn på linjen over listen. Et godt valg er `\\` fordi det vil forsvinne.
+For å [sikre at listen ikke formateres](#preventing-formatting) slik at du kan bruke din egen nummerering: Sett et tegn på linjen over listen. Et godt valg er `\` fordi det vil forsvinne.
 
 ```
 \23. tjuetrettitre 24. tjuefiretid 25. tjuefem     26. tjueseks
 ```
 
-Sett en omvendt skråstrek (`\\`) foran perioden (`.`):
+Sett en omvendt skråstrek (`\`) foran perioden (`.`):
 
 ```
 23\. tjuetrettitre 24\. tjuefiretid 25\. tjuefem     26\. tjueseks
@@ -228,11 +228,11 @@ vil resultere i dette
 
 ### 4.6 **Kodeblokker**
 
-Du kan sette inn enkeltlinjer med kode slik: To \`\\`\` omgitt av tekst vil se slik ut:
+Du kan sette inn enkeltlinjer med kode slik: To \`\`\` omgitt av tekst vil se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/08-code-blocks.png)
 
-Tre tilbakeslash `\`\\`\\`\` over og under en bit tekst vil se slik ut:
+Tre tilbakeslash `\`\\`\`\` over og under en bit tekst vil se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/09-code-blocks.png)
 
@@ -250,7 +250,7 @@ Klikk på `@`-verktøyet eller skriv `@` i en beskrivelse eller kommentar for å
 
 Søk gjennom listen ved å begynne å skrive e-posten, medlemmets navn eller teamets navn. Gå opp og ned i listen med piltastene og klikk eller trykk enter for å velge et medlem eller team. For at et medlem eller team skal vises i denne listen, må medlemmet eller teamet ha minst lese tilgang til emnebrettet. Etter å ha valgt et medlem eller team i listen, vil `@` få noe ekstra tekst som kan se ut slik:
 
-`@[\<e-postadresse for medlem>]` eller `@[\<Teamnavn>]`
+`@[<e-postadresse for medlem>]` eller `@[<Teamnavn>]`
 
 ### 5.1 **Lagring eller innsending av nevning i et emne**
 
@@ -290,7 +290,7 @@ Klikk på `#`-verktøyet eller skriv `#` i en beskrivelse eller kommentar for å
 
 Søk gjennom listen ved å begynne å skrive tittelen eller emnenummeret. Gå opp og ned i listen med piltastene og klikk eller trykk enter for å velge et emne. For at et emne skal vises i denne listen, må medlemmet som merker emnet ha tilgang til brettet som emnet befinner seg i. Etter å ha valgt et emne i listen, vil `#` få noe ekstra tekst som kan se ut slik:
 
-`#[\<emnenummer>]`
+`#[<emnenummer>]`
 
 ### 6.1 **Lagring eller innsending av merket emne**
 

@@ -64,7 +64,7 @@ Hvis appen din ikke har tilgang til kameraet ditt, blir du bedt om å opprette e
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/04-authentication-app.png)
 
-Kontonavn: Navnet du gir til kontoen din Hemmelig nøkkel: Dette er nøkkelen du ville ha fått hvis du hadde kunnet skanne QR-koden. Du kan bruke kameraappen din til å skanne koden. URLen som åpnes når du skanner koden kan se omtrent slik ut: `otpauth://totp/\<Catenda-kontoens e-postadresse>?secret=\<Hemmelig nøkkel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Hvis du skriver inn koden etter "`secret=`" i den hemmelige nøkkelen som du ser i URLen som åpnes, kan kontonavnet være hva som helst.
+Kontonavn: Navnet du gir til kontoen din Hemmelig nøkkel: Dette er nøkkelen du ville ha fått hvis du hadde kunnet skanne QR-koden. Du kan bruke kameraappen din til å skanne koden. URLen som åpnes når du skanner koden kan se omtrent slik ut: `otpauth://totp/<Catenda-kontoens e-postadresse>?secret=<Hemmelig nøkkel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Hvis du skriver inn koden etter "`secret=`" i den hemmelige nøkkelen som du ser i URLen som åpnes, kan kontonavnet være hva som helst.
 
 > **Merk:** Hvis du oppretter en konto med feil hemmelig nøkkel, vil appen fortsatt generere engangspasskoder, så Catenda godtar kanskje ikke koden hvis feil hemmelig nøkkel ble brukt.
 
@@ -439,11 +439,11 @@ Catenda Archicad plugin er en plugin som kan installeres for Nemetchek Archicad.
 
 Når Catenda Archicad plugin installeres på Windows, vises installeringsfilene i følgende mappe.
 
-`C:\\Program Files\\Catenda\\Catenda Archicad Connection\\\<Archicad Version>\\Add-On`
+`C:\Program Files\Catenda\Catenda Archicad Connection\<Archicad Version>\Add-On`
 
 Plugin-en vises som aktivert i tilleggsprogrambehandleren neste gang Archicad åpnes. Merk at dette er annerledes enn standardmappen for tilleggsprogrammer som ligger på
 
-`C:\\Program Files\\Graphisoft\\\<Archicad Version>\\Add-Ons`
+`C:\Program Files\Graphisoft\<Archicad Version>\Add-Ons`
 
 ### 1.1 **Avinstallering**
 
@@ -627,7 +627,7 @@ Desktop Connector kan sikre at filer på et lokalt system holdes oppdatert med d
 
 Når Catenda Desktop Connector installeres på Windows, vises installasjonsfilene i følgende mappe.
 
-`C:\\Program Files\\Catenda Hub Desktop Connector`
+`C:\Program Files\Catenda Hub Desktop Connector`
 
 ### 3.1 **Avinstallering**
 
@@ -807,7 +807,7 @@ Klikk på denne knappen for å gå tilbake til [startsiden](#home-page)
 
 Denne knappen åpner mappeplasseringen til Desktop Connector-loggene på det lokale systemet. Standardplasseringen for disse loggene er:
 
-`C:\\Users\\\<Windows account name>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp`
+`C:\Users\<Windows account name>\AppData\Local\User Name\2b92d867-496c-47d1-ac42-fbf8fa355177\Cache\BimsyncApp`
 
 # Catenda Navisworks-plugin
 
@@ -844,11 +844,11 @@ Catenda Hub er et BIM-samarbeidsverktøy med støtte for alle buildingSMART-stan
 
 Når Catenda Navisworks-plugin installeres på Windows, vises installasjonsfiler i følgende mappe.
 
-`C:\\ProgramData\\Autodesk\\ApplicationPlugins\\Catenda.BCF.bundle`
+`C:\ProgramData\Autodesk\ApplicationPlugins\Catenda.BCF.bundle`
 
 Innstillingene som er konfigurert i plugin-en finner du her:
 
-`C:\\Users\\\<Username>\\AppData\\Local\\Autodesk\_Inc\\Roamer.exe\_Url\_\<GUID>\\\<Version>`
+`C:\Users\<Username>\AppData\Local\Autodesk_Inc\Roamer.exe_Url_<GUID>\<Version>`
 
 ### 4.1 **Avinstallasjon**
 
@@ -1150,7 +1150,7 @@ _Legg til_ Klikk på legg til-ikonet for å legge til modellen i det gjeldende N
 
 Du kan enkelt laste ned IFC-modellene fra Catenda-prosjektet ditt ved hjelp av denne plugin-en og handlingene i modeller-fanen. For å laste ned til den lokale enheten din: Klikk på nedlastingsknappen for hver modell du vil laste ned. Modellene vil bli lagret i en ny mappe med prosjektnavnet under nedlastingsbanen som er angitt i innstillingsfanen. For eksempel:
 
-`C:\\...\\Dokumenter\\Catenda prosjektnavn`
+`C:\...\Dokumenter\Catenda prosjektnavn`
 
 ### 10.9 **Opprett en sammenslått .nwf-fil ved hjelp av IFC-er fra Catenda Hub**
 
@@ -1166,7 +1166,7 @@ Catenda Revit plugin er et programtillegg som kan installeres for Autodesk Revit
 
 Når Catenda Revit plugin er installert på Windows, vil installeringsfiler vises i følgende mappe.
 
-`C:\\ProgramData\\Autodesk\\ApplicationPlugins\\CatendaHub.bundle`
+`C:\ProgramData\Autodesk\ApplicationPlugins\CatendaHub.bundle`
 
 ### 1.1 **Avinstallasjon**
 
@@ -1603,15 +1603,15 @@ De ulike filtrene i filtermeny vises bare hvis det er emner der elementet som fi
 
 ### 2.1 **Mine emner**
 
-Tildelt til meg - `assigned-user=\<User GUID>&assigned-team=\<Team GUID>` _Tildelt bruker_ - `assigned-user=\<User GUID>` _Mine teams_ - `assigned-team=\<Team GUID>` _Etterspurt av meg_ - `requester-user=\<Your GUID>` Emner _jeg følger_ - `followed-by=me` _som nevner meg_ - `mentioned=me`
+Tildelt til meg - `assigned-user=<User GUID>&assigned-team=<Team GUID>` _Tildelt bruker_ - `assigned-user=<User GUID>` _Mine teams_ - `assigned-team=<Team GUID>` _Etterspurt av meg_ - `requester-user=<Your GUID>` Emner _jeg følger_ - `followed-by=me` _som nevner meg_ - `mentioned=me`
 
 > **Merk:** Hvis du deler en lenke med filteret "Emne jeg følger" eller "som nevner meg" aktivt, vil brukeren som åpner lenken få emnerettets sitt filtrert for emner de følger og emner de har blitt nevnt i, og ikke emner du følger og emner du har blitt nevnt i. For å dele emner du har blitt nevnt i, bruk [tekstsøk](#text-search)
 
-_Opprettet av meg_ - `created-by=\<User GUID>`
+_Opprettet av meg_ - `created-by=<User GUID>`
 
 ### 2.2 **Status / Type**
 
-_All åpne status_ - `status-type=open` _Spesifikk åpen status_ - `status-type=\<Status GUID>` _All lukket status_ - `status-type=closed` _Spesifikk lukket status_ - `status-type=\<Status GUID>` _Type_ - `type=\<Type GUID>`
+_All åpne status_ - `status-type=open` _Spesifikk åpen status_ - `status-type=<Status GUID>` _All lukket status_ - `status-type=closed` _Spesifikk lukket status_ - `status-type=<Status GUID>` _Type_ - `type=<Type GUID>`
 
 ### 2.3 **Frist**
 
@@ -1619,37 +1619,37 @@ _Forfalt_ - `due=overdue` _Alle med en frist_ - `due=present` _Ingen frist_ - `d
 
 ### 2.4 **Oppdatert**
 
-Med datofilteret kan du velge en tidsramme for når emnene ble sist oppdatert. _Oppdatert_ - `updated-from=\<Epoch Unix Timestamp>&updated-to=\<Epoch Unix Timestamp>` Les [denne](https://support.catenda.com/en/articles/6511685-date-filter) artikkelen for å lære hvordan du enkelt velger datoer på siden.
+Med datofilteret kan du velge en tidsramme for når emnene ble sist oppdatert. _Oppdatert_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Les [denne](https://support.catenda.com/en/articles/6511685-date-filter) artikkelen for å lære hvordan du enkelt velger datoer på siden.
 
 ### 2.5 **Tildelt til / Etterspurt av**
 
-_Tildelt ingen_ - `assigned=unassigned` _Ingen team tildelt_ - `assigned-team=unassigned` _Tildelt team_ - `assigned-team=\<Team GUID>` _Ikke tildelt bruker_ - `assigned-user=unassigned` _Tildelt bruker_ - `assigned-user=\<User GUID>` Tildelt operator - `assigned-op=and` Som standard kan du bare søke etter den tildelte brukeren ELLER det tildelte teamet. I Catenda Hub kan du angi en tildelng som bruker@team For å finne alle emner av denne typen\*\*,\*\* filtrer etter teamet og brukeren, og legg til &assigned-op=and på slutten av nettadressen.
+_Tildelt ingen_ - `assigned=unassigned` _Ingen team tildelt_ - `assigned-team=unassigned` _Tildelt team_ - `assigned-team=<Team GUID>` _Ikke tildelt bruker_ - `assigned-user=unassigned` _Tildelt bruker_ - `assigned-user=<User GUID>` Tildelt operator - `assigned-op=and` Som standard kan du bare søke etter den tildelte brukeren ELLER det tildelte teamet. I Catenda Hub kan du angi en tildelng som bruker@team For å finne alle emner av denne typen\*\*,\*\* filtrer etter teamet og brukeren, og legg til &assigned-op=and på slutten av nettadressen.
 
-_Ikke etterspurt_ - `requester=unassigned` _Ikke etterspurt av team_ - `requester-team=unassigned` _Ikke etterspurt av bruker_ - `requester-user=unassigned` _Etterspurt av bruker_ - `requester-user=\<User GUID>`
+_Ikke etterspurt_ - `requester=unassigned` _Ikke etterspurt av team_ - `requester-team=unassigned` _Ikke etterspurt av bruker_ - `requester-user=unassigned` _Etterspurt av bruker_ - `requester-user=<User GUID>`
 
 ### 2.6 **Opprettet av**
 
-_Opprettet av bruker_ - `created-by=\<User GUID>`
+_Opprettet av bruker_ - `created-by=<User GUID>`
 
 ### 2.7 **Milestone**
 
-_Milestone_ - `milestone=\<Milestone GUID>`
+_Milestone_ - `milestone=<Milestone GUID>`
 
 ### 2.8 **Egendefinert felt**
 
-_Egendefinert felt har verdi_ - `custom-field-has-value-\<Custom field GUID>=true` Med alternativet "har verdi" i filtermeny kan alle emner som har en verdi konfigurert for det egendefinerte feltet filtreres. Egendefinert felttyper som kan filtreres på har verdi: Dato Desimal Rullegardin Heltall Tekst
+_Egendefinert felt har verdi_ - `custom-field-has-value-<Custom field GUID>=true` Med alternativet "har verdi" i filtermeny kan alle emner som har en verdi konfigurert for det egendefinerte feltet filtreres. Egendefinert felttyper som kan filtreres på har verdi: Dato Desimal Rullegardin Heltall Tekst
 
-_Egendefinert feltspesifikk verdi_ - `custom-field-item-\<Custom field GUID>=\<Value GUID>` Egendefinert felttyper som kan filtreres på spesifikk verdi fra filtermeny: Rullegardin
+_Egendefinert feltspesifikk verdi_ - `custom-field-item-<Custom field GUID>=<Value GUID>` Egendefinert felttyper som kan filtreres på spesifikk verdi fra filtermeny: Rullegardin
 
 Noen verdier i egendefinerte felt der verdier kan konfigureres kan filtreres. Filtrer verdier ved å skrive en søkefrase i søke- eller filterfeltet og velge det tilsvarende egendefinerte feltet. Egendefinert felttyper som kan filtreres ved å skrive i søke- eller filterfeltet: Desimal Rullegardin Heltall Tekst
 
-_Egendefinert felt har ingen verdi_ - `custom-field-has-value-\<Custom field GUID>=false` Filtrer på alle emner der et egendefinert felt ikke har noen verdi. Egendefinert felttyper som kan filtreres på ingen verdi: Dato Desimal Rullegardin Heltall Tekst
+_Egendefinert felt har ingen verdi_ - `custom-field-has-value-<Custom field GUID>=false` Filtrer på alle emner der et egendefinert felt ikke har noen verdi. Egendefinert felttyper som kan filtreres på ingen verdi: Dato Desimal Rullegardin Heltall Tekst
 
 > **Merk:** Egendefinerte felt som er satt som påkrevd vil alltid ha en verdi. Du vil derfor ikke kunne søke etter "har verdi" eller "har ingen verdi" kan derfor ikke søkes etter for et egendefinert felt som er satt som påkrevd.
 
 ### 2.9 **Merkelapp**
 
-_Merkelapp_ - `label=\<Label GUID>` Merkelapper i sin egen merkelappgruppe vises i en egen liste.
+_Merkelapp_ - `label=<Label GUID>` Merkelapper i sin egen merkelappgruppe vises i en egen liste.
 
 ### 2.10 **Lenker**
 
@@ -1677,7 +1677,7 @@ Klikk på filteret for å åpne filtrer brettet på det lagrede settet med filtr
 
 ### 3.2 **Tekstsøk**
 
-_Tekstsøk -_ `search=\<Search phrase>` Etter å ha skrevet tegn i søke- eller filterfeltet endres det første foreslåtte filteret til tekstsøk.
+_Tekstsøk -_ `search=<Search phrase>` Etter å ha skrevet tegn i søke- eller filterfeltet endres det første foreslåtte filteret til tekstsøk.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/04-text-search.png)
 
@@ -1697,19 +1697,19 @@ _Søking etter nevnte medlemmer eller teams_ Emner der et medlem eller team har 
 
 Medlems- eller teamnavn Søk etter medlems- eller teamnavn for å finne alle vanlige tekstforekomster av det medlems- eller teamnavnet.
 
-Nevnt medlem Søk etter e-posten til et medlem for å finne alle vanlige tekstforekomster av det medlemmets e-post. Dette inkluderer der de har blitt nevnt. Søk etter `#[\<E-postadresse for medlem>]` for å finne bare forekomstene der det medlemmet er nevnt.
+Nevnt medlem Søk etter e-posten til et medlem for å finne alle vanlige tekstforekomster av det medlemmets e-post. Dette inkluderer der de har blitt nevnt. Søk etter `#[<E-postadresse for medlem>]` for å finne bare forekomstene der det medlemmet er nevnt.
 
 Nevnt team Nevnte teams kan søkes etter ved å søke på GUID-en til det teamet. For å finne GUID-en til et team, går du til [innholdssiden til det teamet](https://support.catenda.com/en/articles/7891755-team-page) ved å klikke på navnet hans på [teams-fanen på medlems- og teamssiden](https://support.catenda.com/en/articles/4670291-members-and-teams-page). Nettadressen bør se omtrent slik ut: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 
-Søk etter team-GUID-en for å finne alle vanlige tekstforekomster av det team-GUID-en. Dette inkluderer der de har blitt nevnt. Søk etter `#[\<team GUID>]` for å finne bare forekomstene der det teamet er nevnt.
+Søk etter team-GUID-en for å finne alle vanlige tekstforekomster av det team-GUID-en. Dette inkluderer der de har blitt nevnt. Søk etter `#[<team GUID>]` for å finne bare forekomstene der det teamet er nevnt.
 
 ### 3.3 **Egendefinert felt - Tekst**
 
 Hvis en søkefrase begynner med et unicode-tegn med en unicode-verdi som er 58 eller høyere, vil følgende filtre vises mot bunnen av listen over foreslåtte filtre.
 
-_Tekstegendefinert felt -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Hvis et tekstegendefinert felt er aktivert i emnerettet, kan innholdet i tekstegendefinerte felt i alle emner i brettet filtreres med dette filteret.
+_Tekstegendefinert felt -_ `custom-field-<Custom field GUID>=<Search phrase>` Hvis et tekstegendefinert felt er aktivert i emnerettet, kan innholdet i tekstegendefinerte felt i alle emner i brettet filtreres med dette filteret.
 
 ### 3.4 **Tallsøkefrase**
 
@@ -1717,9 +1717,9 @@ Hvis en søkefrase begynner med et unicode-tegn med en unicode-verdi mellom 33 o
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/06-number-search-phrase.png)
 
-Dette inkluderer følgende tegn: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`\*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
+Dette inkluderer følgende tegn: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
 
-_Emne -_ `issues=\<issue number>` Når en søkefrase begynner med et tall, vises emnenummersøket som en forslag i søke- eller filterfeltet. Det foreslåtte filteret kan se omtrent slik ut:
+_Emne -_ `issues=<issue number>` Når en søkefrase begynner med et tall, vises emnenummersøket som en forslag i søke- eller filterfeltet. Det foreslåtte filteret kan se omtrent slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/07-number-search-phrase.png)
 
@@ -1729,15 +1729,15 @@ Filtrering på ett eller flere emner etter nummer Det er bare mulig å søke ett
 
 ### 3.5 **Egendefinert felt - Tall**
 
-_Egendefinert heltallsfelt -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Hvis et egendefinert heltallsfelt er aktivert i emnerettet, kan innholdet i egendefinerte heltallsfelt i alle emner i brettet filtreres med dette filteret.
+_Egendefinert heltallsfelt -_ `custom-field-<Custom field GUID>=<Search phrase>` Hvis et egendefinert heltallsfelt er aktivert i emnerettet, kan innholdet i egendefinerte heltallsfelt i alle emner i brettet filtreres med dette filteret.
 
-_Egendefinert desimalfelt -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Hvis et egendefinert desimalfelt er aktivert i emnerettet, kan innholdet i egendefinerte desimalfelt i alle emner i brettet filtreres med dette filteret.
+_Egendefinert desimalfelt -_ `custom-field-<Custom field GUID>=<Search phrase>` Hvis et egendefinert desimalfelt er aktivert i emnerettet, kan innholdet i egendefinerte desimalfelt i alle emner i brettet filtreres med dette filteret.
 
 ### 3.6 **Egendefinert felt - Rullegardin**
 
 Hvis en søkefrase samsvarer med navnet på en verdi i et filter, vil filteret som passer best foreslås i forslagsboksen.
 
-_Rullegardinegendefinert felt_ _-_ `custom-field-item-\<Custom field GUID>=\<Dropdown value GUID>` Hvis søkefrasen samsvarer med en verdi i et rullegarddinegendefinert felt med opptil 10 verdier, vil det foreslås å søke på den rullegarddinverdien.
+_Rullegardinegendefinert felt_ _-_ `custom-field-item-<Custom field GUID>=<Dropdown value GUID>` Hvis søkefrasen samsvarer med en verdi i et rullegarddinegendefinert felt med opptil 10 verdier, vil det foreslås å søke på den rullegarddinverdien.
 
 # IFC Export Archicad Manual
 
@@ -2351,8 +2351,8 @@ Se nedenfor ulike innstillinger for å vise dataene dine:
 
 PC-data i følgende to filformat kan forhåndsvises på Catenda.
 
-- `\*.e57`
-- `\*.las`
+- `*.e57`
+- `*.las`
 
 PC kan lastes opp som ethvert annet dokument i dokumentomådet. For disse to filformatene kan filer opp til 25 GB lastes opp til dokumentomådet. Flere filer kan lastes inn i dokumentomådet og vises sammen i 3D-visningen.
 
@@ -3035,7 +3035,7 @@ vil bli: [Catenda Hub](https://hub.catenda.com)
 
 ### 3.4 **Forhindring av formatering**
 
-Ved å pakke ord i tegn som ikke er bokstaver eller tall, kan du få dem til å se annerledes ut. Dette er ikke alltid ønsket. Hvis du setter en `\\` foran slik et tegn, vil `\\` forsvinne. All formatering som ville blitt brukt på disse tegnene vil da slutte å fungere. Hvis du setter en `\\` på en tom linje som ikke er del av en [liste](#lists) vil resultatet fortsatt være en tom linje.
+Ved å pakke ord i tegn som ikke er bokstaver eller tall, kan du få dem til å se annerledes ut. Dette er ikke alltid ønsket. Hvis du setter en `\` foran slik et tegn, vil `\` forsvinne. All formatering som ville blitt brukt på disse tegnene vil da slutte å fungere. Hvis du setter en `\` på en tom linje som ikke er del av en [liste](#lists) vil resultatet fortsatt være en tom linje.
 
 ## 4. **Dele opp tekst og legge til struktur**
 
@@ -3063,7 +3063,7 @@ _Få en Catenda-bildedokumentlenke_ Hvis du høyreklikker på [nedlastingshandli
 
 ### 4.2 **Lister**
 
-_Uordnede lister_ Start en uordnet liste med en blank linje over den, deretter enten bindestrek (`-`), pluss (`+`) eller asterisk (`\*`) fulgt av mellomrom. Sett inn 4 mellomrom eller et tabulatormelllomrom i begynnelsen av linjen for å opprette en underliste.
+_Uordnede lister_ Start en uordnet liste med en blank linje over den, deretter enten bindestrek (`-`), pluss (`+`) eller asterisk (`*`) fulgt av mellomrom. Sett inn 4 mellomrom eller et tabulatormelllomrom i begynnelsen av linjen for å opprette en underliste.
 
 ```
  - Første element - Andre element     - Sett inn 4 mellomrom i begynnelsen av linjen for å opprette en underliste.
@@ -3133,13 +3133,13 @@ Vil bli:
 
 Hvis du ønsker å tilbakestille nummereringen og starte fra en igjen på en andre liste innenfor det samme innlegget, kan du sette en tom eller en [skillelinje](#dividers) i mellom.
 
-For å [sikre at listen ikke formateres](#preventing-formatting) slik at du kan bruke din egen nummerering: Sett et tegn på linjen over listen. Et godt valg er `\\` fordi det vil forsvinne.
+For å [sikre at listen ikke formateres](#preventing-formatting) slik at du kan bruke din egen nummerering: Sett et tegn på linjen over listen. Et godt valg er `\` fordi det vil forsvinne.
 
 ```
 \23. tjuetrettitre 24. tjuefiretid 25. tjuefem     26. tjueseks
 ```
 
-Sett en omvendt skråstrek (`\\`) foran perioden (`.`):
+Sett en omvendt skråstrek (`\`) foran perioden (`.`):
 
 ```
 23\. tjuetrettitre 24\. tjuefiretid 25\. tjuefem     26\. tjueseks
@@ -3185,11 +3185,11 @@ vil resultere i dette
 
 ### 4.6 **Kodeblokker**
 
-Du kan sette inn enkeltlinjer med kode slik: To \`\\`\` omgitt av tekst vil se slik ut:
+Du kan sette inn enkeltlinjer med kode slik: To \`\`\` omgitt av tekst vil se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/08-code-blocks.png)
 
-Tre tilbakeslash `\`\\`\\`\` over og under en bit tekst vil se slik ut:
+Tre tilbakeslash `\`\\`\`\` over og under en bit tekst vil se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/09-code-blocks.png)
 
@@ -3207,7 +3207,7 @@ Klikk på `@`-verktøyet eller skriv `@` i en beskrivelse eller kommentar for å
 
 Søk gjennom listen ved å begynne å skrive e-posten, medlemmets navn eller teamets navn. Gå opp og ned i listen med piltastene og klikk eller trykk enter for å velge et medlem eller team. For at et medlem eller team skal vises i denne listen, må medlemmet eller teamet ha minst lese tilgang til emnebrettet. Etter å ha valgt et medlem eller team i listen, vil `@` få noe ekstra tekst som kan se ut slik:
 
-`@[\<e-postadresse for medlem>]` eller `@[\<Teamnavn>]`
+`@[<e-postadresse for medlem>]` eller `@[<Teamnavn>]`
 
 ### 5.1 **Lagring eller innsending av nevning i et emne**
 
@@ -3247,7 +3247,7 @@ Klikk på `#`-verktøyet eller skriv `#` i en beskrivelse eller kommentar for å
 
 Søk gjennom listen ved å begynne å skrive tittelen eller emnenummeret. Gå opp og ned i listen med piltastene og klikk eller trykk enter for å velge et emne. For at et emne skal vises i denne listen, må medlemmet som merker emnet ha tilgang til brettet som emnet befinner seg i. Etter å ha valgt et emne i listen, vil `#` få noe ekstra tekst som kan se ut slik:
 
-`#[\<emnenummer>]`
+`#[<emnenummer>]`
 
 ### 6.1 **Lagring eller innsending av merket emne**
 

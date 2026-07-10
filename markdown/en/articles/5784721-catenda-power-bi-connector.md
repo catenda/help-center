@@ -8,7 +8,7 @@ In this article we will explain how the Catenda HUB database can be linked with 
 
 When the Catenda Desktop Connector is installed on Windows its installation files will appear in the following folder.
 
-`C:\\Users\\\<Username>\\Documents\\Power BI Desktop\\Custom connectors`
+`C:\Users\<Username>\Documents\Power BI Desktop\Custom connectors`
 
 ### 1.1 **Uninstalling**
 

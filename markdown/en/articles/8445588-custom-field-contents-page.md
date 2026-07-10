@@ -112,7 +112,7 @@ An easy way to create a paste string is by copying rows and columns from a table
 
 - Comma separated string
 
-To create a string that will turn into a set of options, separate your options with a "comma"  `,` or a "newline" `\\n`. For example "Electrical,Architecture" will turn into the options `Electrical` and `Architecture`
+To create a string that will turn into a set of options, separate your options with a "comma"  `,` or a "newline" `\n`. For example "Electrical,Architecture" will turn into the options `Electrical` and `Architecture`
 
 - Names and codes in a string
 

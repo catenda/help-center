@@ -26,15 +26,15 @@ Les différents filtres du menu de filtrage n'apparaîtront que s'il existe des 
 
 ### 2.1 **Mes topics**
 
-Assigné à moi - `assigned-user=\<User GUID>&assigned-team=\<Team GUID>` _Utilisateur assigné_ - `assigned-user=\<User GUID>` _Mes équipes_ - `assigned-team=\<Team GUID>` _Demandé par moi_ - `requester-user=\<Your GUID>` Topics _que je suis_ - `followed-by=me` _me mentionnant_ - `mentioned=me`
+Assigné à moi - `assigned-user=<User GUID>&assigned-team=<Team GUID>` _Utilisateur assigné_ - `assigned-user=<User GUID>` _Mes équipes_ - `assigned-team=<Team GUID>` _Demandé par moi_ - `requester-user=<Your GUID>` Topics _que je suis_ - `followed-by=me` _me mentionnant_ - `mentioned=me`
 
 > **Remarque :** Si vous partagez un lien avec les filtres "Topic que je suis" ou "me mentionnant" actifs, l'utilisateur qui ouvre le lien aura son tableau de topics filtré pour les topics qu'il suit et les topics dans lesquels il a été mentionné, et non les topics que vous suivez et les topics dans lesquels vous êtes mentionné. Pour partager les topics dans lesquels vous avez été mentionné, veuillez utiliser [la recherche textuelle](#text-search)
 
-_Créé par moi_ - `created-by=\<User GUID>`
+_Créé par moi_ - `created-by=<User GUID>`
 
 ### 2.2 **Statut / Type**
 
-_Tous les statuts ouverts_ - `status-type=open` _Statut ouvert spécifique_ - `status-type=\<Status GUID>` _Tous les statuts fermés_ - `status-type=closed` _Statut fermé spécifique_ - `status-type=\<Status GUID>` _Type_ - `type=\<Type GUID>`
+_Tous les statuts ouverts_ - `status-type=open` _Statut ouvert spécifique_ - `status-type=<Status GUID>` _Tous les statuts fermés_ - `status-type=closed` _Statut fermé spécifique_ - `status-type=<Status GUID>` _Type_ - `type=<Type GUID>`
 
 ### 2.3 **Échéance**
 
@@ -42,37 +42,37 @@ _En retard_ - `due=overdue` _Tous avec une échéance_ - `due=present` _Pas d'é
 
 ### 2.4 **Mise à jour**
 
-Avec le filtre de date, vous pouvez sélectionner une période pour le moment où les topics ont été mis à jour pour la dernière fois. _Mise à jour_ - `updated-from=\<Epoch Unix Timestamp>&updated-to=\<Epoch Unix Timestamp>` Lisez [cet](https://support.catenda.com/en/articles/6511685-date-filter) article pour apprendre comment sélectionner facilement les dates sur la page.
+Avec le filtre de date, vous pouvez sélectionner une période pour le moment où les topics ont été mis à jour pour la dernière fois. _Mise à jour_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Lisez [cet](https://support.catenda.com/en/articles/6511685-date-filter) article pour apprendre comment sélectionner facilement les dates sur la page.
 
 ### 2.5 **Assigné à / Demandé par**
 
-_Assigné à personne_ - `assigned=unassigned` _Aucune équipe assignée_ - `assigned-team=unassigned` _Assigné à l'équipe_ - `assigned-team=\<Team GUID>` _Non assigné à l'utilisateur_ - `assigned-user=unassigned` _Assigné à l'utilisateur_ - `assigned-user=\<User GUID>` Opérateur assigné - `assigned-op=and` Par défaut, vous ne pouvez rechercher que l'utilisateur assigné OU l'équipe assignée. Dans Catenda Hub, vous pouvez définir un assignataire comme utilisateur@équipe Pour trouver tous les topics de ce type, filtrez par l'équipe et l'utilisateur, et ajoutez &assigned-op=and à la fin de l'URL.
+_Assigné à personne_ - `assigned=unassigned` _Aucune équipe assignée_ - `assigned-team=unassigned` _Assigné à l'équipe_ - `assigned-team=<Team GUID>` _Non assigné à l'utilisateur_ - `assigned-user=unassigned` _Assigné à l'utilisateur_ - `assigned-user=<User GUID>` Opérateur assigné - `assigned-op=and` Par défaut, vous ne pouvez rechercher que l'utilisateur assigné OU l'équipe assignée. Dans Catenda Hub, vous pouvez définir un assignataire comme utilisateur@équipe Pour trouver tous les topics de ce type, filtrez par l'équipe et l'utilisateur, et ajoutez &assigned-op=and à la fin de l'URL.
 
-_Non demandé_ - `requester=unassigned` _Non demandé par équipe_ - `requester-team=unassigned` _Non demandé par utilisateur_ - `requester-user=unassigned` _Demandé par l'utilisateur_ - `requester-user=\<User GUID>`
+_Non demandé_ - `requester=unassigned` _Non demandé par équipe_ - `requester-team=unassigned` _Non demandé par utilisateur_ - `requester-user=unassigned` _Demandé par l'utilisateur_ - `requester-user=<User GUID>`
 
 ### 2.6 **Créé par**
 
-_Créé par l'utilisateur_ - `created-by=\<User GUID>`
+_Créé par l'utilisateur_ - `created-by=<User GUID>`
 
 ### 2.7 **Jalons**
 
-_Jalon_ - `milestone=\<Milestone GUID>`
+_Jalon_ - `milestone=<Milestone GUID>`
 
 ### 2.8 **Champ personnalisé**
 
-_Le champ personnalisé a une valeur_ - `custom-field-has-value-\<Custom field GUID>=true` Avec l'option "a une valeur" dans le menu de filtrage, tous les topics ayant une valeur configurée pour ce champ personnalisé peuvent être filtrés. Types de champs personnalisés qui peuvent être filtrés sur a une valeur : Date Décimal Déroulant Entier Texte
+_Le champ personnalisé a une valeur_ - `custom-field-has-value-<Custom field GUID>=true` Avec l'option "a une valeur" dans le menu de filtrage, tous les topics ayant une valeur configurée pour ce champ personnalisé peuvent être filtrés. Types de champs personnalisés qui peuvent être filtrés sur a une valeur : Date Décimal Déroulant Entier Texte
 
-_Valeur spécifique du champ personnalisé_ - `custom-field-item-\<Custom field GUID>=\<Value GUID>` Types de champs personnalisés qui peuvent être filtrés sur une valeur spécifique depuis le menu de filtrage : Déroulant
+_Valeur spécifique du champ personnalisé_ - `custom-field-item-<Custom field GUID>=<Value GUID>` Types de champs personnalisés qui peuvent être filtrés sur une valeur spécifique depuis le menu de filtrage : Déroulant
 
 Certaines valeurs dans les champs personnalisés où les valeurs peuvent être configurées peuvent être filtrées. Filtrez les valeurs en tapant une phrase de recherche dans la barre de recherche ou de filtrage et en sélectionnant le champ personnalisé correspondant. Types de champs personnalisés qui peuvent être filtrés en tapant dans la barre de recherche ou de filtrage : Décimal Déroulant Entier Texte
 
-_Le champ personnalisé n'a pas de valeur_ - `custom-field-has-value-\<Custom field GUID>=false` Filtrez tous les topics où un champ personnalisé n'a pas de valeur. Types de champs personnalisés qui peuvent être filtrés sur aucune valeur : Date Décimal Déroulant Entier Texte
+_Le champ personnalisé n'a pas de valeur_ - `custom-field-has-value-<Custom field GUID>=false` Filtrez tous les topics où un champ personnalisé n'a pas de valeur. Types de champs personnalisés qui peuvent être filtrés sur aucune valeur : Date Décimal Déroulant Entier Texte
 
 > **Remarque :** Les champs personnalisés définis comme obligatoires auront toujours une valeur. Vous ne pourrez donc pas rechercher "a une valeur" ou "n'a pas de valeur" pour un champ personnalisé défini comme obligatoire.
 
 ### 2.9 **Étiquette**
 
-_Étiquette_ - `label=\<Label GUID>` Les étiquettes dans leur propre groupe d'étiquettes sont affichées dans une liste séparée.
+_Étiquette_ - `label=<Label GUID>` Les étiquettes dans leur propre groupe d'étiquettes sont affichées dans une liste séparée.
 
 ### 2.10 **Liens**
 
@@ -100,7 +100,7 @@ Cliquez sur le filtre pour filtrer le tableau sur l'ensemble des filtres enregis
 
 ### 3.2 **Recherche textuelle**
 
-_Recherche textuelle -_ `search=\<Search phrase>` Après avoir saisi des caractères dans la barre de recherche ou de filtrage, le premier filtre suggéré change en recherche textuelle.
+_Recherche textuelle -_ `search=<Search phrase>` Après avoir saisi des caractères dans la barre de recherche ou de filtrage, le premier filtre suggéré change en recherche textuelle.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/04-text-search.png)
 
@@ -120,19 +120,19 @@ Trois caractères ou plus Le contenu qui correspond à la phrase de recherche da
 
 Nom du membre ou de l'équipe Recherchez le nom du membre ou de l'équipe pour trouver toutes les occurrences de texte brut de ce nom de membre ou d'équipe.
 
-Membre mentionné Recherchez l'email d'un membre pour trouver toutes les occurrences de texte brut de l'email de ce membre. Cela inclut les endroits où ils ont été mentionnés. Recherchez `#[\<Email du membre>]` pour trouver uniquement les occurrences où ce membre est mentionné.
+Membre mentionné Recherchez l'email d'un membre pour trouver toutes les occurrences de texte brut de l'email de ce membre. Cela inclut les endroits où ils ont été mentionnés. Recherchez `#[<Email du membre>]` pour trouver uniquement les occurrences où ce membre est mentionné.
 
 Équipe mentionnée Les équipes mentionnées peuvent être recherchées en recherchant le GUID de cette équipe. Pour trouver le GUID d'une équipe, accédez à la [page de contenu de cette équipe](https://support.catenda.com/en/articles/7891755-team-page) en cliquant sur son nom dans l'[onglet Équipes de la page Membres et équipes](https://support.catenda.com/en/articles/4670291-members-and-teams-page). L'URL devrait ressembler à ceci : [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 
-Recherchez le GUID de l'équipe pour trouver toutes les occurrences de texte brut de ce GUID d'équipe. Cela inclut les endroits où ils ont été mentionnés. Recherchez `#[\<team GUID>]` pour trouver uniquement les occurrences où cette équipe est mentionnée.
+Recherchez le GUID de l'équipe pour trouver toutes les occurrences de texte brut de ce GUID d'équipe. Cela inclut les endroits où ils ont été mentionnés. Recherchez `#[<team GUID>]` pour trouver uniquement les occurrences où cette équipe est mentionnée.
 
 ### 3.3 **Champs personnalisés - Texte**
 
 Si une phrase de recherche commence par un caractère unicode avec une valeur unicode de 58 ou plus, les filtres suivants apparaîtront vers le bas de la liste des filtres suggérés.
 
-_Champ personnalisé de texte -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Si un champ personnalisé de texte est activé dans le tableau de topics, le contenu des champs personnalisés de texte dans tous les topics du tableau peut être filtré avec ce filtre.
+_Champ personnalisé de texte -_ `custom-field-<Custom field GUID>=<Search phrase>` Si un champ personnalisé de texte est activé dans le tableau de topics, le contenu des champs personnalisés de texte dans tous les topics du tableau peut être filtré avec ce filtre.
 
 ### 3.4 **Phrase de recherche numérique**
 
@@ -140,9 +140,9 @@ Si une phrase de recherche commence par un caractère unicode avec une valeur un
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/06-number-search-phrase.png)
 
-Cela inclut les caractères suivants : `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`\*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
+Cela inclut les caractères suivants : `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
 
-_Topic -_ `issues=\<issue number>` Quand une phrase de recherche commence par un nombre, la recherche du numéro de topic apparaît comme une suggestion dans la barre de recherche ou de filtrage. Le filtre suggéré peut ressembler à ceci :
+_Topic -_ `issues=<issue number>` Quand une phrase de recherche commence par un nombre, la recherche du numéro de topic apparaît comme une suggestion dans la barre de recherche ou de filtrage. Le filtre suggéré peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/07-number-search-phrase.png)
 
@@ -152,12 +152,12 @@ Filtrage d'un ou plusieurs topics par numéro Il n'est possible de rechercher qu
 
 ### 3.5 **Champs personnalisés - Nombre**
 
-_Champ personnalisé entier -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Si un champ personnalisé entier est activé dans le tableau de topics, le contenu des champs personnalisés entiers dans tous les topics du tableau peut être filtré avec ce filtre.
+_Champ personnalisé entier -_ `custom-field-<Custom field GUID>=<Search phrase>` Si un champ personnalisé entier est activé dans le tableau de topics, le contenu des champs personnalisés entiers dans tous les topics du tableau peut être filtré avec ce filtre.
 
-_Champ personnalisé décimal -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Si un champ personnalisé décimal est activé dans le tableau de topics, le contenu des champs personnalisés décimaux dans tous les topics du tableau peut être filtré avec ce filtre.
+_Champ personnalisé décimal -_ `custom-field-<Custom field GUID>=<Search phrase>` Si un champ personnalisé décimal est activé dans le tableau de topics, le contenu des champs personnalisés décimaux dans tous les topics du tableau peut être filtré avec ce filtre.
 
 ### 3.6 **Champs personnalisés - Déroulant**
 
 Si une phrase de recherche correspond au nom d'une valeur dans un filtre, le filtre qui correspond le mieux sera suggéré dans la boîte de suggestion.
 
-_Champ personnalisé déroulant_ _-_ `custom-field-item-\<Custom field GUID>=\<Dropdown value GUID>` Si la phrase de recherche correspond à une valeur dans un champ personnalisé déroulant avec jusqu'à 10 valeurs, il sera suggéré de rechercher sur cette valeur déroulante.
+_Champ personnalisé déroulant_ _-_ `custom-field-item-<Custom field GUID>=<Dropdown value GUID>` Si la phrase de recherche correspond à une valeur dans un champ personnalisé déroulant avec jusqu'à 10 valeurs, il sera suggéré de rechercher sur cette valeur déroulante.

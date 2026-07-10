@@ -26,15 +26,15 @@ De ulike filtrene i filtermeny vises bare hvis det er emner der elementet som fi
 
 ### 2.1 **Mine emner**
 
-Tildelt til meg - `assigned-user=\<User GUID>&assigned-team=\<Team GUID>` _Tildelt bruker_ - `assigned-user=\<User GUID>` _Mine teams_ - `assigned-team=\<Team GUID>` _Etterspurt av meg_ - `requester-user=\<Your GUID>` Emner _jeg følger_ - `followed-by=me` _som nevner meg_ - `mentioned=me`
+Tildelt til meg - `assigned-user=<User GUID>&assigned-team=<Team GUID>` _Tildelt bruker_ - `assigned-user=<User GUID>` _Mine teams_ - `assigned-team=<Team GUID>` _Etterspurt av meg_ - `requester-user=<Your GUID>` Emner _jeg følger_ - `followed-by=me` _som nevner meg_ - `mentioned=me`
 
 > **Merk:** Hvis du deler en lenke med filteret "Emne jeg følger" eller "som nevner meg" aktivt, vil brukeren som åpner lenken få emnerettets sitt filtrert for emner de følger og emner de har blitt nevnt i, og ikke emner du følger og emner du har blitt nevnt i. For å dele emner du har blitt nevnt i, bruk [tekstsøk](#text-search)
 
-_Opprettet av meg_ - `created-by=\<User GUID>`
+_Opprettet av meg_ - `created-by=<User GUID>`
 
 ### 2.2 **Status / Type**
 
-_All åpne status_ - `status-type=open` _Spesifikk åpen status_ - `status-type=\<Status GUID>` _All lukket status_ - `status-type=closed` _Spesifikk lukket status_ - `status-type=\<Status GUID>` _Type_ - `type=\<Type GUID>`
+_All åpne status_ - `status-type=open` _Spesifikk åpen status_ - `status-type=<Status GUID>` _All lukket status_ - `status-type=closed` _Spesifikk lukket status_ - `status-type=<Status GUID>` _Type_ - `type=<Type GUID>`
 
 ### 2.3 **Frist**
 
@@ -42,37 +42,37 @@ _Forfalt_ - `due=overdue` _Alle med en frist_ - `due=present` _Ingen frist_ - `d
 
 ### 2.4 **Oppdatert**
 
-Med datofilteret kan du velge en tidsramme for når emnene ble sist oppdatert. _Oppdatert_ - `updated-from=\<Epoch Unix Timestamp>&updated-to=\<Epoch Unix Timestamp>` Les [denne](https://support.catenda.com/en/articles/6511685-date-filter) artikkelen for å lære hvordan du enkelt velger datoer på siden.
+Med datofilteret kan du velge en tidsramme for når emnene ble sist oppdatert. _Oppdatert_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Les [denne](https://support.catenda.com/en/articles/6511685-date-filter) artikkelen for å lære hvordan du enkelt velger datoer på siden.
 
 ### 2.5 **Tildelt til / Etterspurt av**
 
-_Tildelt ingen_ - `assigned=unassigned` _Ingen team tildelt_ - `assigned-team=unassigned` _Tildelt team_ - `assigned-team=\<Team GUID>` _Ikke tildelt bruker_ - `assigned-user=unassigned` _Tildelt bruker_ - `assigned-user=\<User GUID>` Tildelt operator - `assigned-op=and` Som standard kan du bare søke etter den tildelte brukeren ELLER det tildelte teamet. I Catenda Hub kan du angi en tildelng som bruker@team For å finne alle emner av denne typen\*\*,\*\* filtrer etter teamet og brukeren, og legg til &assigned-op=and på slutten av nettadressen.
+_Tildelt ingen_ - `assigned=unassigned` _Ingen team tildelt_ - `assigned-team=unassigned` _Tildelt team_ - `assigned-team=<Team GUID>` _Ikke tildelt bruker_ - `assigned-user=unassigned` _Tildelt bruker_ - `assigned-user=<User GUID>` Tildelt operator - `assigned-op=and` Som standard kan du bare søke etter den tildelte brukeren ELLER det tildelte teamet. I Catenda Hub kan du angi en tildelng som bruker@team For å finne alle emner av denne typen\*\*,\*\* filtrer etter teamet og brukeren, og legg til &assigned-op=and på slutten av nettadressen.
 
-_Ikke etterspurt_ - `requester=unassigned` _Ikke etterspurt av team_ - `requester-team=unassigned` _Ikke etterspurt av bruker_ - `requester-user=unassigned` _Etterspurt av bruker_ - `requester-user=\<User GUID>`
+_Ikke etterspurt_ - `requester=unassigned` _Ikke etterspurt av team_ - `requester-team=unassigned` _Ikke etterspurt av bruker_ - `requester-user=unassigned` _Etterspurt av bruker_ - `requester-user=<User GUID>`
 
 ### 2.6 **Opprettet av**
 
-_Opprettet av bruker_ - `created-by=\<User GUID>`
+_Opprettet av bruker_ - `created-by=<User GUID>`
 
 ### 2.7 **Milestone**
 
-_Milestone_ - `milestone=\<Milestone GUID>`
+_Milestone_ - `milestone=<Milestone GUID>`
 
 ### 2.8 **Egendefinert felt**
 
-_Egendefinert felt har verdi_ - `custom-field-has-value-\<Custom field GUID>=true` Med alternativet "har verdi" i filtermeny kan alle emner som har en verdi konfigurert for det egendefinerte feltet filtreres. Egendefinert felttyper som kan filtreres på har verdi: Dato Desimal Rullegardin Heltall Tekst
+_Egendefinert felt har verdi_ - `custom-field-has-value-<Custom field GUID>=true` Med alternativet "har verdi" i filtermeny kan alle emner som har en verdi konfigurert for det egendefinerte feltet filtreres. Egendefinert felttyper som kan filtreres på har verdi: Dato Desimal Rullegardin Heltall Tekst
 
-_Egendefinert feltspesifikk verdi_ - `custom-field-item-\<Custom field GUID>=\<Value GUID>` Egendefinert felttyper som kan filtreres på spesifikk verdi fra filtermeny: Rullegardin
+_Egendefinert feltspesifikk verdi_ - `custom-field-item-<Custom field GUID>=<Value GUID>` Egendefinert felttyper som kan filtreres på spesifikk verdi fra filtermeny: Rullegardin
 
 Noen verdier i egendefinerte felt der verdier kan konfigureres kan filtreres. Filtrer verdier ved å skrive en søkefrase i søke- eller filterfeltet og velge det tilsvarende egendefinerte feltet. Egendefinert felttyper som kan filtreres ved å skrive i søke- eller filterfeltet: Desimal Rullegardin Heltall Tekst
 
-_Egendefinert felt har ingen verdi_ - `custom-field-has-value-\<Custom field GUID>=false` Filtrer på alle emner der et egendefinert felt ikke har noen verdi. Egendefinert felttyper som kan filtreres på ingen verdi: Dato Desimal Rullegardin Heltall Tekst
+_Egendefinert felt har ingen verdi_ - `custom-field-has-value-<Custom field GUID>=false` Filtrer på alle emner der et egendefinert felt ikke har noen verdi. Egendefinert felttyper som kan filtreres på ingen verdi: Dato Desimal Rullegardin Heltall Tekst
 
 > **Merk:** Egendefinerte felt som er satt som påkrevd vil alltid ha en verdi. Du vil derfor ikke kunne søke etter "har verdi" eller "har ingen verdi" kan derfor ikke søkes etter for et egendefinert felt som er satt som påkrevd.
 
 ### 2.9 **Merkelapp**
 
-_Merkelapp_ - `label=\<Label GUID>` Merkelapper i sin egen merkelappgruppe vises i en egen liste.
+_Merkelapp_ - `label=<Label GUID>` Merkelapper i sin egen merkelappgruppe vises i en egen liste.
 
 ### 2.10 **Lenker**
 
@@ -100,7 +100,7 @@ Klikk på filteret for å åpne filtrer brettet på det lagrede settet med filtr
 
 ### 3.2 **Tekstsøk**
 
-_Tekstsøk -_ `search=\<Search phrase>` Etter å ha skrevet tegn i søke- eller filterfeltet endres det første foreslåtte filteret til tekstsøk.
+_Tekstsøk -_ `search=<Search phrase>` Etter å ha skrevet tegn i søke- eller filterfeltet endres det første foreslåtte filteret til tekstsøk.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/04-text-search.png)
 
@@ -120,19 +120,19 @@ _Søking etter nevnte medlemmer eller teams_ Emner der et medlem eller team har 
 
 Medlems- eller teamnavn Søk etter medlems- eller teamnavn for å finne alle vanlige tekstforekomster av det medlems- eller teamnavnet.
 
-Nevnt medlem Søk etter e-posten til et medlem for å finne alle vanlige tekstforekomster av det medlemmets e-post. Dette inkluderer der de har blitt nevnt. Søk etter `#[\<E-postadresse for medlem>]` for å finne bare forekomstene der det medlemmet er nevnt.
+Nevnt medlem Søk etter e-posten til et medlem for å finne alle vanlige tekstforekomster av det medlemmets e-post. Dette inkluderer der de har blitt nevnt. Søk etter `#[<E-postadresse for medlem>]` for å finne bare forekomstene der det medlemmet er nevnt.
 
 Nevnt team Nevnte teams kan søkes etter ved å søke på GUID-en til det teamet. For å finne GUID-en til et team, går du til [innholdssiden til det teamet](https://support.catenda.com/en/articles/7891755-team-page) ved å klikke på navnet hans på [teams-fanen på medlems- og teamssiden](https://support.catenda.com/en/articles/4670291-members-and-teams-page). Nettadressen bør se omtrent slik ut: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 
-Søk etter team-GUID-en for å finne alle vanlige tekstforekomster av det team-GUID-en. Dette inkluderer der de har blitt nevnt. Søk etter `#[\<team GUID>]` for å finne bare forekomstene der det teamet er nevnt.
+Søk etter team-GUID-en for å finne alle vanlige tekstforekomster av det team-GUID-en. Dette inkluderer der de har blitt nevnt. Søk etter `#[<team GUID>]` for å finne bare forekomstene der det teamet er nevnt.
 
 ### 3.3 **Egendefinert felt - Tekst**
 
 Hvis en søkefrase begynner med et unicode-tegn med en unicode-verdi som er 58 eller høyere, vil følgende filtre vises mot bunnen av listen over foreslåtte filtre.
 
-_Tekstegendefinert felt -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Hvis et tekstegendefinert felt er aktivert i emnerettet, kan innholdet i tekstegendefinerte felt i alle emner i brettet filtreres med dette filteret.
+_Tekstegendefinert felt -_ `custom-field-<Custom field GUID>=<Search phrase>` Hvis et tekstegendefinert felt er aktivert i emnerettet, kan innholdet i tekstegendefinerte felt i alle emner i brettet filtreres med dette filteret.
 
 ### 3.4 **Tallsøkefrase**
 
@@ -140,9 +140,9 @@ Hvis en søkefrase begynner med et unicode-tegn med en unicode-verdi mellom 33 o
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/06-number-search-phrase.png)
 
-Dette inkluderer følgende tegn: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`\*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
+Dette inkluderer følgende tegn: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
 
-_Emne -_ `issues=\<issue number>` Når en søkefrase begynner med et tall, vises emnenummersøket som en forslag i søke- eller filterfeltet. Det foreslåtte filteret kan se omtrent slik ut:
+_Emne -_ `issues=<issue number>` Når en søkefrase begynner med et tall, vises emnenummersøket som en forslag i søke- eller filterfeltet. Det foreslåtte filteret kan se omtrent slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/07-number-search-phrase.png)
 
@@ -152,12 +152,12 @@ Filtrering på ett eller flere emner etter nummer Det er bare mulig å søke ett
 
 ### 3.5 **Egendefinert felt - Tall**
 
-_Egendefinert heltallsfelt -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Hvis et egendefinert heltallsfelt er aktivert i emnerettet, kan innholdet i egendefinerte heltallsfelt i alle emner i brettet filtreres med dette filteret.
+_Egendefinert heltallsfelt -_ `custom-field-<Custom field GUID>=<Search phrase>` Hvis et egendefinert heltallsfelt er aktivert i emnerettet, kan innholdet i egendefinerte heltallsfelt i alle emner i brettet filtreres med dette filteret.
 
-_Egendefinert desimalfelt -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Hvis et egendefinert desimalfelt er aktivert i emnerettet, kan innholdet i egendefinerte desimalfelt i alle emner i brettet filtreres med dette filteret.
+_Egendefinert desimalfelt -_ `custom-field-<Custom field GUID>=<Search phrase>` Hvis et egendefinert desimalfelt er aktivert i emnerettet, kan innholdet i egendefinerte desimalfelt i alle emner i brettet filtreres med dette filteret.
 
 ### 3.6 **Egendefinert felt - Rullegardin**
 
 Hvis en søkefrase samsvarer med navnet på en verdi i et filter, vil filteret som passer best foreslås i forslagsboksen.
 
-_Rullegardinegendefinert felt_ _-_ `custom-field-item-\<Custom field GUID>=\<Dropdown value GUID>` Hvis søkefrasen samsvarer med en verdi i et rullegarddinegendefinert felt med opptil 10 verdier, vil det foreslås å søke på den rullegarddinverdien.
+_Rullegardinegendefinert felt_ _-_ `custom-field-item-<Custom field GUID>=<Dropdown value GUID>` Hvis søkefrasen samsvarer med en verdi i et rullegarddinegendefinert felt med opptil 10 verdier, vil det foreslås å søke på den rullegarddinverdien.

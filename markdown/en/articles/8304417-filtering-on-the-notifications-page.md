@@ -44,7 +44,7 @@ If you navigate to the account notifications page it will be filtered by last mo
 
 Notifications from the past year.
 
-### 3.4 **Pick a date** - `date-from=\<Epoch Unix Timestamp>&date-to=\<Epoch Unix Timestamp>`
+### 3.4 **Pick a date** - `date-from=<Epoch Unix Timestamp>&date-to=<Epoch Unix Timestamp>`
 
 Read [this](https://support.catenda.com/en/articles/6511685-date-filter) article to learn how to easily select dates on the page.
 
@@ -290,17 +290,17 @@ The name of the downloaded zip will be _\<Download GUID>.zip_ in contrast to the
 
 ## 11. **Project**
 
-### 11.1 **Project name** - `projects=\<Project GUID>`
+### 11.1 **Project name** - `projects=<Project GUID>`
 
 ## 12. **Limit**
 
-### 12.1 **Amount of notifications per page** - `limit=\<Notification amount>`
+### 12.1 **Amount of notifications per page** - `limit=<Notification amount>`
 
 _Note:_ It might take longer for the page to load with more notifications.
 
 ## 13. **Page**
 
-### 13.1 **Current page of notifications** - `page=\<Page number>`
+### 13.1 **Current page of notifications** - `page=<Page number>`
 
 ## 14. **Obligatory notifications**
 

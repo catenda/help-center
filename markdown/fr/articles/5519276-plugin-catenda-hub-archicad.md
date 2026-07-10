@@ -10,11 +10,11 @@ Le plugin Catenda Archicad est un plugin qui peut être installé pour Nemetchek
 
 Lorsque le plugin Catenda Archicad est installé sur Windows, ses fichiers d'installation apparaîtront dans le dossier suivant.
 
-`C:\\Program Files\\Catenda\\Catenda Archicad Connection\\\<Archicad Version>\\Add-On`
+`C:\Program Files\Catenda\Catenda Archicad Connection\<Archicad Version>\Add-On`
 
 Le plugin apparaîtra comme activé dans le gestionnaire de modules complémentaires la prochaine fois qu'Archicad sera ouvert. Notez que cela est différent du dossier de modules complémentaires par défaut qui se trouve à
 
-`C:\\Program Files\\Graphisoft\\\<Archicad Version>\\Add-Ons`
+`C:\Program Files\Graphisoft\<Archicad Version>\Add-Ons`
 
 ### 1.1 **Désinstallation**
 

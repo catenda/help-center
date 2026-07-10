@@ -30,11 +30,11 @@ Administrator - `aggregatedRole=administrator` Member - `aggregatedRole=member`
 
 ### 1.5 **Team**
 
-Team name - `memberOfTeams=\<GUID> `
+Team name - `memberOfTeams=<GUID> `
 
 ## 2. **Text search**
 
-_Text search -_ `search=\<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
+_Text search -_ `search=<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
 
 **Content that can be searched on** Member account name Member email address Team name
 

@@ -78,7 +78,7 @@ wird zu: [Catenda Hub](https://hub.catenda.com)
 
 ### 3.4 **Formatierung verhindern**
 
-Durch das Einwickeln von Wörtern in Nicht-Buchstaben- oder Zahlenzeichen können Sie sie unterschiedlich aussehen lassen. Dies ist nicht immer gewünscht. Wenn Sie ein `\\` vor solch ein Zeichen setzen, wird das `\\` verschwinden. Jede Formatierung, die für diese Zeichen angewendet würde, funktioniert dann nicht mehr. Wenn Sie ein `\\` auf eine leere Zeile setzen, die nicht Teil einer [Liste](#lists) ist, bleibt das Ergebnis dennoch eine leere Zeile.
+Durch das Einwickeln von Wörtern in Nicht-Buchstaben- oder Zahlenzeichen können Sie sie unterschiedlich aussehen lassen. Dies ist nicht immer gewünscht. Wenn Sie ein `\` vor solch ein Zeichen setzen, wird das `\` verschwinden. Jede Formatierung, die für diese Zeichen angewendet würde, funktioniert dann nicht mehr. Wenn Sie ein `\` auf eine leere Zeile setzen, die nicht Teil einer [Liste](#lists) ist, bleibt das Ergebnis dennoch eine leere Zeile.
 
 ## 4. **Text untergliedern und strukturieren**
 
@@ -106,7 +106,7 @@ _Catenda-Bilddokumentlink abrufen_ Wenn Sie auf die [Download-Aktionsschaltfläc
 
 ### 4.2 **Listen**
 
-**Ungeordnete Listen** Starten Sie eine ungeordnete Liste mit einer leeren Zeile darüber, dann entweder Bindestrich (`-`), Plus (`+`) oder Sternchen (`\*`) gefolgt von einem Leerzeichen. Fügen Sie 4 Leerzeichen oder ein Tabulatorzeichen am Anfang der Zeile ein, um eine Unterliste zu erstellen.
+**Ungeordnete Listen** Starten Sie eine ungeordnete Liste mit einer leeren Zeile darüber, dann entweder Bindestrich (`-`), Plus (`+`) oder Sternchen (`*`) gefolgt von einem Leerzeichen. Fügen Sie 4 Leerzeichen oder ein Tabulatorzeichen am Anfang der Zeile ein, um eine Unterliste zu erstellen.
 
 ```
  - Erstes Element - Zweites Element     - Fügen Sie 4 Leerzeichen am Anfang der Zeile ein, um eine Unterliste zu erstellen.
@@ -176,13 +176,13 @@ Wird zu:
 
 Wenn Sie die Nummerierung zurücksetzen und in einer zweiten Liste im selben Beitrag erneut von eins beginnen möchten, können Sie eine leere Zeile oder eine [Trennlinie](#dividers) einfügen.
 
-Um [sicherzustellen, dass die Liste nicht formatiert wird](#preventing-formatting), damit Sie Ihre eigene Nummerierung verwenden können: Platzieren Sie ein Zeichen über der Liste. Eine gute Wahl ist `\\`, da es verschwindet.
+Um [sicherzustellen, dass die Liste nicht formatiert wird](#preventing-formatting), damit Sie Ihre eigene Nummerierung verwenden können: Platzieren Sie ein Zeichen über der Liste. Eine gute Wahl ist `\`, da es verschwindet.
 
 ```
 \23. dreiundzwanzig 24. vierundzwanzig 25. fünfundzwanzig     26. sechsundzwanzig
 ```
 
-Setzen Sie einen Backslash (`\\`) vor den Punkt (`.`):
+Setzen Sie einen Backslash (`\`) vor den Punkt (`.`):
 
 ```
 23\. dreiundzwanzig 24\. vierundzwanzig 25\. fünfundzwanzig     26\. sechsundzwanzig
@@ -228,11 +228,11 @@ ergibt folgendes
 
 ### 4.6 **Codeblöcke**
 
-Sie können einzelne Codezeilen so einfügen: Zwei \`\\`\` umgeben Text, sehen so aus:
+Sie können einzelne Codezeilen so einfügen: Zwei \`\`\` umgeben Text, sehen so aus:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/08-code-blocks.png)
 
-Drei Backticks `\`\\`\\`\` über und unter einem bisschen Text sehen so aus:
+Drei Backticks `\`\\`\`\` über und unter einem bisschen Text sehen so aus:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/09-code-blocks.png)
 
@@ -250,7 +250,7 @@ Klicken Sie auf das `@`-Tool oder schreiben Sie `@` in einer Beschreibung oder e
 
 Suchen Sie in der Liste, indem Sie mit der E-Mail-Adresse, dem Mitgliedsnamen oder dem Teamnamen beginnen zu tippen. Navigieren Sie in der Liste mit den Pfeiltasten nach oben und unten und klicken Sie oder drücken Sie die Eingabetaste, um ein Mitglied oder ein Team auszuwählen. Damit ein Mitglied oder Team in dieser Liste angezeigt wird, muss das Mitglied oder Team mindestens Lesezugriff auf das Themabrett haben. Nach Auswahl eines Mitglieds oder eines Teams in der Liste erhält `@` zusätzlichen Text, der wie folgt aussehen kann:
 
-`@[\<E-Mail-Adresse des Mitglieds>]` oder `@[\<Teamname>]`
+`@[<E-Mail-Adresse des Mitglieds>]` oder `@[<Teamname>]`
 
 ### 5.1 **Eine Erwähnung in einem Thema speichern oder absenden**
 
@@ -290,7 +290,7 @@ Klicken Sie auf das `#`-Tool oder schreiben Sie `#` in einer Beschreibung oder e
 
 Suchen Sie in der Liste, indem Sie mit dem Titel oder der Themennummer beginnen zu tippen. Navigieren Sie in der Liste mit den Pfeiltasten nach oben und unten und klicken Sie oder drücken Sie die Eingabetaste, um ein Thema auszuwählen. Damit ein Thema in dieser Liste angezeigt wird, muss das Mitglied, das das Tag zuweist, Zugriff auf das Brett haben, auf dem sich das Thema befindet. Nach Auswahl eines Themas in der Liste erhält `#` zusätzlichen Text, der wie folgt aussehen kann:
 
-`#[\<Themennummer>]`
+`#[<Themennummer>]`
 
 ### 6.1 **Ein mit Tags versehenes Thema speichern oder absenden**
 

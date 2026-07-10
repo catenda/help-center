@@ -46,7 +46,7 @@ Als uw app geen toegang tot uw camera heeft, wordt u gevraagd om handmatig een a
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/04-authentication-app.png)
 
-Accountnaam: De naam die u aan uw account geeft Geheime sleutel: Dit is de sleutel die u zou hebben gekregen als u de QR-code zou hebben kunnen scannen. U kunt uw camera-app gebruiken om de code te scannen. De URL die opent wanneer u de code scant, kan er als volgt uitzien: `otpauth://totp/\<Catenda account e-mailadres>?secret=\<Geheime sleutel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Als u de code invoert na "`secret=`" in de geheime sleutel die u in de geopende URL ziet, kan de accountnaam alles zijn.
+Accountnaam: De naam die u aan uw account geeft Geheime sleutel: Dit is de sleutel die u zou hebben gekregen als u de QR-code zou hebben kunnen scannen. U kunt uw camera-app gebruiken om de code te scannen. De URL die opent wanneer u de code scant, kan er als volgt uitzien: `otpauth://totp/<Catenda account e-mailadres>?secret=<Geheime sleutel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Als u de code invoert na "`secret=`" in de geheime sleutel die u in de geopende URL ziet, kan de accountnaam alles zijn.
 
 > **Opmerking:** Als u een account met de verkeerde geheime sleutel aanmaakt, genereert de app toch eenmalige codes, dus Catenda accepteert de code mogelijk niet als de verkeerde geheime sleutel werd gebruikt.
 

@@ -92,9 +92,9 @@ pdal translate ^ "C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69
 🤓 Let's break this command down:
 
 1. `pdal translate` is the main command for performing the transformation.
-1. `"C:\\Users\\USERNAME\\Downloads\\LHD\_FXX\_0766\_6282\_PTS\_LAMB93\_IGN69.copc.laz"` is the path to the `.laz` file downloaded from the IGN database.
-1. `"C:\\Users\\USERNAME\\Downloads\\LHD\_FXX\_0766\_6282\_PTS\_LAMB93\_IGN69.copc.laz`" is the path where the future `.las` file will be created.
-1. the reprojection command -`-filters.reprojection.in\_srs="EPSG:2154" --filters.reprojection.out\_srs="EPSG:3943"` allows you to reproject the point cloud from the Lambert-93 SCR (`EPSG:2154`) to the CC43 SCR (`3943`)
+1. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz"` is the path to the `.laz` file downloaded from the IGN database.
+1. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz`" is the path where the future `.las` file will be created.
+1. the reprojection command -`-filters.reprojection.in_srs="EPSG:2154" --filters.reprojection.out_srs="EPSG:3943"` allows you to reproject the point cloud from the Lambert-93 SCR (`EPSG:2154`) to the CC43 SCR (`3943`)
 
 Copy the command and simply replace the EPSG paths and codes in input and output. Once the command is executed, your new .las file will be generated in the location specified by the target path.
 

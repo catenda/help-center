@@ -16,7 +16,7 @@ Space is often not allowed as a first character but can be used in the models an
 
 ### 2.2 **2. ASCII Punctuation & Symbols**
 
-Half-width characters `!"#%&()\*+-/` ! is the second unicode character and is the best choice if you want to make sure your list item appears first in the list.
+Half-width characters `!"#%&()*+-/` ! is the second unicode character and is the best choice if you want to make sure your list item appears first in the list.
 
 ### 2.3 **3. ASCII Digits**
 
@@ -26,7 +26,7 @@ To combat this add a 0 in front of numbers that are not very long. 00001 00002 0
 
 ### 2.4 **4. ASCII Punctuation & Symbols**
 
-`\<>@`
+`<>@`
 
 ### 2.5 **5. LETTERS - CAPITAL - HALF WIDTH**
 
@@ -34,7 +34,7 @@ To combat this add a 0 in front of numbers that are not very long. 00001 00002 0
 
 ### 2.6 **6. ASCII Punctuation & Symbols**
 
-`[\\]\_`
+`[\]_`
 
 ### 2.7 **7. letters - lowercase - half width**
 

@@ -27,7 +27,7 @@ Click [here](https://support.catenda.com/en/articles/8551755-saving-filters) to 
 
 Click on 3D to the right of the models category in the filter menu to filter on all models that are currently loaded into the 3D viewer.
 
-Model name - `model=\<Model GUID>` Filter on a set of project models.
+Model name - `model=<Model GUID>` Filter on a set of project models.
 
 ### 1.4 **Selected**
 
@@ -37,7 +37,7 @@ Selected - `selected=true` Filter to only display rows for objects that are sele
 
 ### 2.1 **Query**
 
-Query search - `query=\<Product>,\<Operator>,\<Value>` Click in the Search or filter bar to configure a filter that compares two values.
+Query search - `query=<Product>,<Operator>,<Value>` Click in the Search or filter bar to configure a filter that compares two values.
 
 **Product** The first selection can be any kind of IFC product. This is what the product dropdown can look like:
 

@@ -46,7 +46,7 @@ If your app does not have access to your camera you will be asked to manually cr
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/04-authentication-app.png)
 
-Account name: The name you give to your account Secret key: This is the key you would have gotten if you had been able to scan the qr code. You can use your camera app to scan the code. The URL that opens when you scan the code can look something like this: `otpauth://totp/\<Catenda account email address>?secret=\<Secret key>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` If you type in the code after "`secret=`" in the secret key that you see in the URL that is opened, Account name can be anything.
+Account name: The name you give to your account Secret key: This is the key you would have gotten if you had been able to scan the qr code. You can use your camera app to scan the code. The URL that opens when you scan the code can look something like this: `otpauth://totp/<Catenda account email address>?secret=<Secret key>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` If you type in the code after "`secret=`" in the secret key that you see in the URL that is opened, Account name can be anything.
 
 > **Note:** If you create an account with the wrong secret key the app will generate one-time codes anyway so Catenda might not accept the code if the wrong secret key was used.
 

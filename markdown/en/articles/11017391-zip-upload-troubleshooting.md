@@ -28,7 +28,7 @@ Certain software limit the amount of characters that paths to files in a zip fil
 
 Windows Home users: This limit can be increased by going to Windows Start and typing REGEDIT Open the Registry Editor and navigato to:
 
-`HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem`
+`HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem`
 
 Doubleclick `LongPathsEnabled` and change the value to 1. If it is not there, rightclick the `FileSystem` key and choose
 
@@ -38,7 +38,7 @@ Name the new value `LongPathsEnabled` with a value of 1.
 
 Windows Pro users This limit can be increased by going to Windows Start and typing gpedit.msc Open Edit Group Policy and navigato to:
 
-`HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem`
+`HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem`
 
 Double click on `Enable Win32 long paths` and enable it.
 

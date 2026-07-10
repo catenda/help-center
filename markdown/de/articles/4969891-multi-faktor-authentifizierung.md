@@ -46,7 +46,7 @@ Wenn Ihre App keinen Zugriff auf Ihre Kamera hat, werden Sie aufgefordert, manue
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/04-authentication-app.png)
 
-Kontoname: Der Name, den Sie Ihrem Konto geben Geheimer Schlüssel: Dies ist der Schlüssel, den Sie erhalten hätten, wenn Sie den QR-Code hätten scannen können. Sie können Ihre Kamera-App verwenden, um den Code zu scannen. Die URL, die beim Scannen des Codes geöffnet wird, kann etwa so aussehen: `otpauth://totp/\<Catenda-Konto-E-Mail-Adresse>?secret=\<Geheimer Schlüssel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Wenn Sie den Code nach "`secret=`" in den geheimen Schlüssel eingeben, den Sie in der geöffneten URL sehen, kann der Kontoname alles sein.
+Kontoname: Der Name, den Sie Ihrem Konto geben Geheimer Schlüssel: Dies ist der Schlüssel, den Sie erhalten hätten, wenn Sie den QR-Code hätten scannen können. Sie können Ihre Kamera-App verwenden, um den Code zu scannen. Die URL, die beim Scannen des Codes geöffnet wird, kann etwa so aussehen: `otpauth://totp/<Catenda-Konto-E-Mail-Adresse>?secret=<Geheimer Schlüssel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Wenn Sie den Code nach "`secret=`" in den geheimen Schlüssel eingeben, den Sie in der geöffneten URL sehen, kann der Kontoname alles sein.
 
 > **Hinweis:** Wenn Sie ein Konto mit dem falschen geheimen Schlüssel erstellen, generiert die App trotzdem Einmalcodes. Catenda akzeptiert den Code jedoch möglicherweise nicht, wenn der falsche geheime Schlüssel verwendet wurde.
 

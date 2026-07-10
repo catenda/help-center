@@ -16,7 +16,7 @@ In this case the log file will give the following error:
 
 Document names can be limited with a naming convention in Catenda. Folders cannot be limited. Without the use of a naming convention documents with any name can be uploaded. In this case Catenda might not have been able to register the file extension of the document. Folders with any name can be created. It can therefore be that the Desktop Connector tries to create a file or folder with a character that is not allowed to be used in a path in Windows.
 
-Typical problems arise with the following characters: `\<` - less than `>` - greater than `:` - colon `"` - double quote `|` - vertical bar or pipe `?` - question mark `\*` - asterisk
+Typical problems arise with the following characters: `<` - less than `>` - greater than `:` - colon `"` - double quote `|` - vertical bar or pipe `?` - question mark `*` - asterisk
 
 To find an extensive list of what is reserved in Windows see here: [https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file](https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file)
 
@@ -24,7 +24,7 @@ To find an extensive list of what is reserved in Windows see here: [https://lear
 
 In this case the log file will give the following error:
 
-`Error: The network path was not found. : '\<path>'`
+`Error: The network path was not found. : '<path>'`
 
 In this situation the transfer fails immediately. This occurs because the program is trying to reach a folder that is no longer accessible. Because the "pathway" is completely broken, the program cannot even begin the download. There are three main reasons why your folder has become a "Dead End":
 
@@ -58,11 +58,11 @@ A standard Windows shortcut is a small file that "points" to a folder elsewhere.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/05-3-the-broken-windows-shortcut-lnk-file.png)
 
-In the General tab look at the Target field: _Local Shortcut_ The target starts with a drive letter (e.g., `C:\\Users\\...` or `D:\\Data`).
+In the General tab look at the Target field: _Local Shortcut_ The target starts with a drive letter (e.g., `C:\Users\...` or `D:\Data`).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/06-3-the-broken-windows-shortcut-lnk-file.png)
 
-_Network Shortcut_ The target starts with a server path (e.g., `\\\\ServerName\\Folder`) or a mapped network drive letter (e.g., `Z:\\ProjectData`).
+_Network Shortcut_ The target starts with a server path (e.g., `\\ServerName\Folder`) or a mapped network drive letter (e.g., `Z:\ProjectData`).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/07-3-the-broken-windows-shortcut-lnk-file.png)
 
@@ -88,28 +88,28 @@ If the Desktop Connector is told to use one of these shortcuts while the target 
 
 **Reconnect or Re-select** If a "Network path not found" or "Drive unavailable" error pops up confirm the connection to the network path or drive. Go to "This PC" and ensure your network drives (like `Z:`) are active. Check if any external USB drives or hard drives are properly connected. If they have a red X, double-click them to to reconnect. If the network drive is not active and you know what network the drive is on, reconnect to the network either by plugging in a cable, joining via wifi or when using a VPN, check to see if the VPN is active. If the drive is no longer available, select a different destination folder in the Desktop Connector that is available either on the local computer or on the network..
 
-**Delete/rename and Recreate** If a local folder or shortcut remains "stuck" (you see it, but can't open it) even after a reboot: Rename the problematic folder or shortcut file (e.g., rename `ProjectData` to `ProjectData\_OLD`) or delete it. Create a brand-new, standard folder with the same name. Restart the transfer. The Desktop Connector will detect the fresh, healthy folder and resume normal operation.
+**Delete/rename and Recreate** If a local folder or shortcut remains "stuck" (you see it, but can't open it) even after a reboot: Rename the problematic folder or shortcut file (e.g., rename `ProjectData` to `ProjectData_OLD`) or delete it. Create a brand-new, standard folder with the same name. Restart the transfer. The Desktop Connector will detect the fresh, healthy folder and resume normal operation.
 
-**Why was no temporary folder created in place of the missing folder?** In other situations the desktop connector creates a folder with `\_restricted` appended to the name when things go wrong. However, there is a technical difference in how Windows handles "missing" locations:
+**Why was no temporary folder created in place of the missing folder?** In other situations the desktop connector creates a folder with `_restricted` appended to the name when things go wrong. However, there is a technical difference in how Windows handles "missing" locations:
 
-The `\_restricted` Folder is only created if the folder is "physically" there but "locked" (like a doorway to a room that is bolted shut). In that case, the program can see the door and decides to build a new one (`\_restricted`) next to it.
+The `_restricted` Folder is only created if the folder is "physically" there but "locked" (like a doorway to a room that is bolted shut). In that case, the program can see the door and decides to build a new one (`_restricted`) next to it.
 
-In the case of the missing pathway it is different. The folder is no longer there or the "signpost"(symbolic link) that was selected is pointing to an empty location. To the program, it’s not just locked—the entire "room" is missing from the building. Because there is no "doorway" to start with, the program cannot create a `\_restricted` version and must stop.
+In the case of the missing pathway it is different. The folder is no longer there or the "signpost"(symbolic link) that was selected is pointing to an empty location. To the program, it’s not just locked—the entire "room" is missing from the building. Because there is no "doorway" to start with, the program cannot create a `_restricted` version and must stop.
 
 ## 3. **Missing mount point**
 
 In this case the log file will give the following error:
 
-`Error: Could not find a part of the path '\<path>'.`
+`Error: Could not find a part of the path '<path>'.`
 
 If the folder cannot be opened Windows tries to follow the "signpost" to a network location and the following error is displayed:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/10-missing-mount-point.png)
 
-`\<Path> is not accessible.`
+`<Path> is not accessible.`
 `The network path was not found`
 
-In this situation the Desktop Connector automatically creates a new folder with "\_restricted" appended to the name (e.g., `ProjectData\_restricted`).
+In this situation the Desktop Connector automatically creates a new folder with "\_restricted" appended to the name (e.g., `ProjectData_restricted`).
 
 This happens when a folder on the computer is actually a "Mount Point" (a doorway) to another drive. Examples of other drives can include:
 
@@ -117,7 +117,7 @@ This happens when a folder on the computer is actually a "Mount Point" (a doorwa
 - External hard drive
 - Network volume that is currently disconnected.
 
-Windows "remembers" the folder exists, but because the physical drive is missing, the folder becomes a "Ghost." The Desktop Connector detects that the folder is there but cannot write to it. To prevent your data from being lost, a Shadow Folder is created with the `\_restricted` suffix so your files have a safe place to land.
+Windows "remembers" the folder exists, but because the physical drive is missing, the folder becomes a "Ghost." The Desktop Connector detects that the folder is there but cannot write to it. To prevent your data from being lost, a Shadow Folder is created with the `_restricted` suffix so your files have a safe place to land.
 
 Here are some typical situations in which this can happen:
 
@@ -140,16 +140,16 @@ When the mounted folder is double-clicked, the following error is instantly disp
 
 **`Location is not avialable`** or
 
-**`The network path was not found`** `\<Path> is unavailable like so the link is broken`
+**`The network path was not found`** `<Path> is unavailable like so the link is broken`
 
 ### 3.1 **How to Fix It**
 
 Manually Recreate the Folder If the folder remains "stuck" even after a reboot:
 
-1. Rename the problematic folder (e.g., rename `ProjectData` to `ProjectData\_OLD`).
+1. Rename the problematic folder (e.g., rename `ProjectData` to `ProjectData_OLD`).
 1. Create a brand-new folder with the original name (`ProjectData`).
-1. The Desktop Connector will detect the fresh, healthy folder and resume normal operation without the `\_restricted` suffix.
+1. The Desktop Connector will detect the fresh, healthy folder and resume normal operation without the `_restricted` suffix.
 
 **Reconnect the Hardware or Network** Go to "This PC" and ensure your network drives (like `Z:`) are active. Check if any external USB drives or hard drives are properly connected. If they have a red X, double-click them to to reconnect. If the network drive is not active and you know what network the drive is on, reconnect to the network either by plugging in a cable, joining via wifi or when using a VPN, check to see if the VPN is active. If the drive is no longer available, select a different destination folder in the Desktop Connector that is available either on the local computer or on the network.
 
-**Delete/rename and Recreate** If a local folder or shortcut remains "stuck" (you see it, but can't open it) even after a reboot: Rename the problematic folder or shortcut file (e.g., rename `ProjectData` to `ProjectData\_OLD`) or delete it. Create a brand-new folder with the original name (`ProjectData`). Restart the transfer. The Desktop Connector will detect the fresh, healthy folder and resume normal operation without the `\_restricted` suffix.
+**Delete/rename and Recreate** If a local folder or shortcut remains "stuck" (you see it, but can't open it) even after a reboot: Rename the problematic folder or shortcut file (e.g., rename `ProjectData` to `ProjectData_OLD`) or delete it. Create a brand-new folder with the original name (`ProjectData`). Restart the transfer. The Desktop Connector will detect the fresh, healthy folder and resume normal operation without the `_restricted` suffix.

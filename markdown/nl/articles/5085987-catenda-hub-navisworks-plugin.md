@@ -33,11 +33,11 @@ Catenda Hub is een BIM-samenwerkingshulpmiddel met ondersteuning voor alle build
 
 Wanneer de Catenda Navisworks plugin op Windows wordt geïnstalleerd, verschijnen de installatiebestanden in de volgende map.
 
-`C:\\ProgramData\\Autodesk\\ApplicationPlugins\\Catenda.BCF.bundle`
+`C:\ProgramData\Autodesk\ApplicationPlugins\Catenda.BCF.bundle`
 
 De instellingen die in de plugin zijn geconfigureerd, zijn hier te vinden:
 
-`C:\\Users\\\<Username>\\AppData\\Local\\Autodesk\_Inc\\Roamer.exe\_Url\_\<GUID>\\\<Version>`
+`C:\Users\<Username>\AppData\Local\Autodesk_Inc\Roamer.exe_Url_<GUID>\<Version>`
 
 ### 4.1 **Verwijderingen**
 
@@ -339,7 +339,7 @@ Revisie Het revisienummer voor het document
 
 U kunt eenvoudig de IFC-modellen van uw Catenda-project downloaden met behulp van deze plugin en de acties in het tabblad Modellen. Als u naar uw lokale apparaat wilt downloaden: Klik op de downloadknop voor elk model dat u wilt downloaden. De modellen worden opgeslagen in een nieuwe map met de projectnaam onder het downloadpad dat is opgegeven op het tabblad Instellingen. Bijvoorbeeld:
 
-`C:\\...\\Documenten\\Catenda projectnaam`
+`C:\...\Documenten\Catenda projectnaam`
 
 ### 10.9 **Een samengevoegd .nwf-bestand maken met IFC's van Catenda Hub**
 

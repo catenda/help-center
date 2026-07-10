@@ -26,7 +26,7 @@ Here the time and date the error occurred can be seen. Click on the time and dat
 
 The alert in Power Automate gives us some more indication about what could be wrong. In this case the following error message has appeared:
 
-`Alert: Your \<email> connection isn't working: Looks like your flow's \<email> connection needs to be signed-in again. The most common cause is a changed password or a policy set by your tenant administrator. Connections may also require reauthentication, if multi-factor authentication has been recently enabled for your account.`
+`Alert: Your <email> connection isn't working: Looks like your flow's <email> connection needs to be signed-in again. The most common cause is a changed password or a policy set by your tenant administrator. Connections may also require reauthentication, if multi-factor authentication has been recently enabled for your account.`
 
 To reauthenticate, click on the workflow in teams and open the workflow in Power Automate. It is also possible to go to the connectione page in Power Automate and establish a connection there.
 

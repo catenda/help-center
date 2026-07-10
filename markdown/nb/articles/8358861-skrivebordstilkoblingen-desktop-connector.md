@@ -44,7 +44,7 @@ Desktop Connector kan sikre at filer på et lokalt system holdes oppdatert med d
 
 Når Catenda Desktop Connector installeres på Windows, vises installasjonsfilene i følgende mappe.
 
-`C:\\Program Files\\Catenda Hub Desktop Connector`
+`C:\Program Files\Catenda Hub Desktop Connector`
 
 ### 3.1 **Avinstallering**
 
@@ -224,4 +224,4 @@ Klikk på denne knappen for å gå tilbake til [startsiden](#home-page)
 
 Denne knappen åpner mappeplasseringen til Desktop Connector-loggene på det lokale systemet. Standardplasseringen for disse loggene er:
 
-`C:\\Users\\\<Windows account name>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp`
+`C:\Users\<Windows account name>\AppData\Local\User Name\2b92d867-496c-47d1-ac42-fbf8fa355177\Cache\BimsyncApp`

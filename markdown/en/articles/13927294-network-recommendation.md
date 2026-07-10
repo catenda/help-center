@@ -16,30 +16,30 @@ Users accessing Catenda Hub behind a firewall, proxy or other intermediary need 
 
 ### 2.1 **Domains:**
 
-(`\*` means DNS wildcard and `.` is a domain level separator, don't treat the below as regexes).
+(`*` means DNS wildcard and `.` is a domain level separator, don't treat the below as regexes).
 
 - Catenda domains:
     - `catenda.com`
-    - `\*.catenda.com`
+    - `*.catenda.com`
         - `webviewer.catenda.com`
 This subdomain is required to be permitted in the firewall to view the preview of documents on the document preview page.
-    - `\*.\*.catenda.com`
+    - `*.*.catenda.com`
 
-We encourage you to use this new domain name. You should not run into problems with more sub-domains like `\*.\*.\*.catenda.com` but if you do it might be easier to allow everything from `catenda.com`
+We encourage you to use this new domain name. You should not run into problems with more sub-domains like `*.*.*.catenda.com` but if you do it might be easier to allow everything from `catenda.com`
 
 **Maintained domains** The following domains will be maintained in the foreseeable future but not referenced in technical literature.
 
 - `bimsync.com`
-- `\*.bimsync.com`
-- `\*.\*.bimsync.com`
+- `*.bimsync.com`
+- `*.*.bimsync.com`
 
 **Services** Catenda Hub uses the following services:
 
-- `\*.google-analytics.com`
-- `\*.googletagmanager.com`
-- `\*.intercom.io`
-- `\*.intercomcdn.com`
-- `\*.sentry.io`
+- `*.google-analytics.com`
+- `*.googletagmanager.com`
+- `*.intercom.io`
+- `*.intercomcdn.com`
+- `*.sentry.io`
 
 **Plugins** If you only intend to use Catenda Hub through one of our plugins you these are the only domains you need to allow through your firewall.
 

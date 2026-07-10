@@ -33,11 +33,11 @@ Catenda Hub est un outil de collaboration BIM avec support pour toutes les norme
 
 Lorsque l'extension Catenda Navisworks est installée sur Windows, ses fichiers d'installation apparaissent dans le dossier suivant.
 
-`C:\\ProgramData\\Autodesk\\ApplicationPlugins\\Catenda.BCF.bundle`
+`C:\ProgramData\Autodesk\ApplicationPlugins\Catenda.BCF.bundle`
 
 Les paramètres configurés dans l'extension se trouvent ici :
 
-`C:\\Users\\\<Username>\\AppData\\Local\\Autodesk\_Inc\\Roamer.exe\_Url\_\<GUID>\\\<Version>`
+`C:\Users\<Username>\AppData\Local\Autodesk_Inc\Roamer.exe_Url_<GUID>\<Version>`
 
 ### 4.1 **Désinstallation**
 
@@ -339,7 +339,7 @@ Révision Le numéro de révision du Document
 
 Vous pouvez facilement télécharger les modèles IFC de votre projet Catenda en utilisant cette extension et les actions de l'onglet Modèles. Pour télécharger sur votre appareil local : cliquez sur le bouton de téléchargement pour chaque modèle que vous souhaitez télécharger. Les modèles seront enregistrés dans un nouveau dossier avec le nom du projet sous le chemin de téléchargement spécifié dans l'onglet paramètres. Par exemple :
 
-`C:\\...\\Documents\\Nom du projet Catenda`
+`C:\...\Documents\Nom du projet Catenda`
 
 ### 10.9 **Créer un fichier .nwf fusionné en utilisant des IFC de Catenda Hub**
 

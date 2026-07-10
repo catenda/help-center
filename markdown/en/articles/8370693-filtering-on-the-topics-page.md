@@ -26,15 +26,15 @@ The different filters in the filter menu will only show up if there are topics w
 
 ### 2.1 **My topics**
 
-Assigned to me - `assigned-user=\<User GUID>&assigned-team=\<Team GUID>` _Assigned User_ - `assigned-user=\<User GUID>` _My teams_ - `assigned-team=\<Team GUID>` _Requested by me_ - `requester-user=\<Your GUID>` Topics _I follow_ - `followed-by=me` _mentioning me_ - `mentioned=me`
+Assigned to me - `assigned-user=<User GUID>&assigned-team=<Team GUID>` _Assigned User_ - `assigned-user=<User GUID>` _My teams_ - `assigned-team=<Team GUID>` _Requested by me_ - `requester-user=<Your GUID>` Topics _I follow_ - `followed-by=me` _mentioning me_ - `mentioned=me`
 
 > **Note:** If you share a link with the "Topic I follow" or the "mentioning me" filters active the user opening the link will have their topic board filtered for topic  they follow and topics they have been mentioned in and not topics you follow and topics you are mentioned in. To share topics you have been mentioned in please use [text search](#text-search)
 
-_Created by me_ - `created-by=\<User GUID>`
+_Created by me_ - `created-by=<User GUID>`
 
 ### 2.2 **Status / Type**
 
-_All open status_ - `status-type=open` _Specific open status_ - `status-type=\<Status GUID>` _All closed status_ - `status-type=closed` _Specific closed status_ - `status-type=\<Status GUID>` _Type_ - `type=\<Type GUID>`
+_All open status_ - `status-type=open` _Specific open status_ - `status-type=<Status GUID>` _All closed status_ - `status-type=closed` _Specific closed status_ - `status-type=<Status GUID>` _Type_ - `type=<Type GUID>`
 
 ### 2.3 **Due date**
 
@@ -42,37 +42,37 @@ _Overdue_ - `due=overdue` _All with a due date_ - `due=present` _No due date_ - 
 
 ### 2.4 **Updated**
 
-With the date filter you can select a timeframe for when the topics were last updated. _Updated_ - `updated-from=\<Epoch Unix Timestamp>&updated-to=\<Epoch Unix Timestamp>` Read [this](https://support.catenda.com/en/articles/6511685-date-filter) article to learn how to easily select dates on the page.
+With the date filter you can select a timeframe for when the topics were last updated. _Updated_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Read [this](https://support.catenda.com/en/articles/6511685-date-filter) article to learn how to easily select dates on the page.
 
 ### 2.5 **Assigned to / Requested by**
 
-_Assigned to no-one_ - `assigned=unassigned` _No team assigned_ - `assigned-team=unassigned` _Assigned to team_ - `assigned-team=\<Team GUID>` _Not assigned to user_ - `assigned-user=unassigned` _Assigned to user_ - `assigned-user=\<User GUID>` Assigned operator - `assigned-op=and` By default you can only search for the assigned user OR the assigned team. In Catenda Hub you can set an assignee as user@team To find all topics of this type**,** filter by the team and the user, and add &assigned-op=and to the end of the URL.
+_Assigned to no-one_ - `assigned=unassigned` _No team assigned_ - `assigned-team=unassigned` _Assigned to team_ - `assigned-team=<Team GUID>` _Not assigned to user_ - `assigned-user=unassigned` _Assigned to user_ - `assigned-user=<User GUID>` Assigned operator - `assigned-op=and` By default you can only search for the assigned user OR the assigned team. In Catenda Hub you can set an assignee as user@team To find all topics of this type**,** filter by the team and the user, and add &assigned-op=and to the end of the URL.
 
-_Not requested_ - `requester=unassigned` _Not requested by team_ - `requester-team=unassigned` _Not requested by user_ - `requester-user=unassigned` _Requested by user_ - `requester-user=\<User GUID>`
+_Not requested_ - `requester=unassigned` _Not requested by team_ - `requester-team=unassigned` _Not requested by user_ - `requester-user=unassigned` _Requested by user_ - `requester-user=<User GUID>`
 
 ### 2.6 **Created by**
 
-_Created by user_ - `created-by=\<User GUID>`
+_Created by user_ - `created-by=<User GUID>`
 
 ### 2.7 **Milestone**
 
-_Milestone_ - `milestone=\<Milestone GUID>`
+_Milestone_ - `milestone=<Milestone GUID>`
 
 ### 2.8 **Custom field**
 
-_Custom field has value_ - `custom-field-has-value-\<Custom field GUID>=true` With the "has value" option in the filter menu all topics with that have a value configured for that custom field can be filtered. Custom field types that can be filtered on has value: Date Decimal Dropdown Integer Text
+_Custom field has value_ - `custom-field-has-value-<Custom field GUID>=true` With the "has value" option in the filter menu all topics with that have a value configured for that custom field can be filtered. Custom field types that can be filtered on has value: Date Decimal Dropdown Integer Text
 
-_Custom field specific value_ - `custom-field-item-\<Custom field GUID>=\<Value GUID>` Custom field types that can be filtered on specific value from the filter menu: Dropdown
+_Custom field specific value_ - `custom-field-item-<Custom field GUID>=<Value GUID>` Custom field types that can be filtered on specific value from the filter menu: Dropdown
 
 Some values in custom fields where values can be configured can be filtered. Filter for values by writing a search phrase in the search or filter bar and select the corresponding custom field. Custom field types that can be filtered by typing in the search or filter bar: Decimal Dropdown Integer Text
 
-_Custom field has no value_ - `custom-field-has-value-\<Custom field GUID>=false` Filter on all topics where a custom fields does not have any value. Custom field types that can be filtered on no value: Date Decimal Dropdown Integer Text
+_Custom field has no value_ - `custom-field-has-value-<Custom field GUID>=false` Filter on all topics where a custom fields does not have any value. Custom field types that can be filtered on no value: Date Decimal Dropdown Integer Text
 
 > **Note:** Custom fields that are set as required will always have a value. You will therefore not be able to search for "has value" or "has no value" can therefore not be searched for a custom field that is set as required.
 
 ### 2.9 **Label**
 
-_Label_ - `label=\<Label GUID>` Labels in their own label group are shown in a separated list.
+_Label_ - `label=<Label GUID>` Labels in their own label group are shown in a separated list.
 
 ### 2.10 **Links**
 
@@ -100,7 +100,7 @@ Click on the filter to open filter the board on the saved set of filters that ha
 
 ### 3.2 **Text search**
 
-_Text search -_ `search=\<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
+_Text search -_ `search=<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/04-text-search.png)
 
@@ -120,19 +120,19 @@ Three or more characters Content that matches the search phrase in any part of t
 
 Member or team name Search on the name of the member or team to find all plain text occurrences of that member or team name.
 
-Mentioned member Search on the email of a member to find all plain text occurrences of that members email. This includes where they have been mentioned. Search on `#[\<Email of member>]` to find only the occurrences where that member is mentioned.
+Mentioned member Search on the email of a member to find all plain text occurrences of that members email. This includes where they have been mentioned. Search on `#[<Email of member>]` to find only the occurrences where that member is mentioned.
 
 Mentioned team Mentioned teams can be searched on by searching the GUID of that team. To find the GUID of a team, go to the [content page of that team](https://support.catenda.com/en/articles/7891755-team-page) by clicking on its name on the [teams tab of the members and teams page](https://support.catenda.com/en/articles/4670291-members-and-teams-page). The URL should look something like: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 
-Search on the team GUID to find all plain text occurrences of that team GUID. This includes where they have been mentioned. Search on `#[\<team GUID>]` to find only the occurrences where that team is mentioned.
+Search on the team GUID to find all plain text occurrences of that team GUID. This includes where they have been mentioned. Search on `#[<team GUID>]` to find only the occurrences where that team is mentioned.
 
 ### 3.3 **Custom fields - Text**
 
 If a search pharse starts with a unicode character with a unicode value that is 58 or higher the following filters will appear towards the bottom of the list of suggested filters.
 
-_Text custom field -_ `custom-field-\<Custom field GUID>=\<Search phrase>` If a text custom field is enabled in the topic board the content of text custom fields in all topics in the board can be filtered with this filter.
+_Text custom field -_ `custom-field-<Custom field GUID>=<Search phrase>` If a text custom field is enabled in the topic board the content of text custom fields in all topics in the board can be filtered with this filter.
 
 ### 3.4 **Number search phrase**
 
@@ -140,9 +140,9 @@ If a search pharse starts with a unicode character with a unicode value that is 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/06-number-search-phrase.png)
 
-This includes the following characters: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`\*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
+This includes the following characters: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
 
-_Topic -_ `issues=\<issue number>` When a search phrase starts with a number the topic number search appears as a suggestion in the search or filter bar. The suggested filter can look something like this:
+_Topic -_ `issues=<issue number>` When a search phrase starts with a number the topic number search appears as a suggestion in the search or filter bar. The suggested filter can look something like this:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/07-number-search-phrase.png)
 
@@ -152,12 +152,12 @@ Filtering on one or more topics by number It is only possible to search on one t
 
 ### 3.5 **Custom fields - Number**
 
-_Integer custom field -_ `custom-field-\<Custom field GUID>=\<Search phrase>` If an integer custom field is enabled in the topic board the content of integer custom fields in all topics in the board can be filtered with this filter.
+_Integer custom field -_ `custom-field-<Custom field GUID>=<Search phrase>` If an integer custom field is enabled in the topic board the content of integer custom fields in all topics in the board can be filtered with this filter.
 
-_Decimal custom field -_ `custom-field-\<Custom field GUID>=\<Search phrase>` If a decimal custom field is enabled in the topic board the content of decimal custom fields in all topics in the board can be filtered with this filter.
+_Decimal custom field -_ `custom-field-<Custom field GUID>=<Search phrase>` If a decimal custom field is enabled in the topic board the content of decimal custom fields in all topics in the board can be filtered with this filter.
 
 ### 3.6 **Custom fields - Dropdown**
 
 If a search pharse matches the name of a value in a filter, the filter that matches the best will be suggested in the suggestion box.
 
-_Dropdown custom field_ _-_ `custom-field-item-\<Custom field GUID>=\<Dropdown value GUID>` If the search phrase matches a value in a dropdown custom field with up to 10 values it will be suggested to search on that dropdown value.
+_Dropdown custom field_ _-_ `custom-field-item-<Custom field GUID>=<Dropdown value GUID>` If the search phrase matches a value in a dropdown custom field with up to 10 values it will be suggested to search on that dropdown value.

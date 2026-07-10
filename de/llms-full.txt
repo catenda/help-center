@@ -112,7 +112,7 @@ Wenn Ihre App keinen Zugriff auf Ihre Kamera hat, werden Sie aufgefordert, manue
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/04-authentication-app.png)
 
-Kontoname: Der Name, den Sie Ihrem Konto geben Geheimer Schlüssel: Dies ist der Schlüssel, den Sie erhalten hätten, wenn Sie den QR-Code hätten scannen können. Sie können Ihre Kamera-App verwenden, um den Code zu scannen. Die URL, die beim Scannen des Codes geöffnet wird, kann etwa so aussehen: `otpauth://totp/\<Catenda-Konto-E-Mail-Adresse>?secret=\<Geheimer Schlüssel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Wenn Sie den Code nach "`secret=`" in den geheimen Schlüssel eingeben, den Sie in der geöffneten URL sehen, kann der Kontoname alles sein.
+Kontoname: Der Name, den Sie Ihrem Konto geben Geheimer Schlüssel: Dies ist der Schlüssel, den Sie erhalten hätten, wenn Sie den QR-Code hätten scannen können. Sie können Ihre Kamera-App verwenden, um den Code zu scannen. Die URL, die beim Scannen des Codes geöffnet wird, kann etwa so aussehen: `otpauth://totp/<Catenda-Konto-E-Mail-Adresse>?secret=<Geheimer Schlüssel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Wenn Sie den Code nach "`secret=`" in den geheimen Schlüssel eingeben, den Sie in der geöffneten URL sehen, kann der Kontoname alles sein.
 
 > **Hinweis:** Wenn Sie ein Konto mit dem falschen geheimen Schlüssel erstellen, generiert die App trotzdem Einmalcodes. Catenda akzeptiert den Code jedoch möglicherweise nicht, wenn der falsche geheime Schlüssel verwendet wurde.
 
@@ -439,11 +439,11 @@ Das Catenda Archicad-Plugin ist ein Plugin, das für Nemetchek Archicad installi
 
 Wenn das Catenda Archicad-Plugin unter Windows installiert wird, erscheinen seine Installationsdateien im folgenden Ordner.
 
-`C:\\Program Files\\Catenda\\Catenda Archicad Connection\\\<Archicad Version>\\Add-On`
+`C:\Program Files\Catenda\Catenda Archicad Connection\<Archicad Version>\Add-On`
 
 Das Plugin wird beim nächsten Öffnen von Archicad als aktiviert im Add-on-Manager angezeigt. Beachten Sie, dass dies sich vom Standard-Add-on-Ordner unterscheidet, der sich unter folgender Adresse befindet
 
-`C:\\Program Files\\Graphisoft\\\<Archicad Version>\\Add-Ons`
+`C:\Program Files\Graphisoft\<Archicad Version>\Add-Ons`
 
 ### 1.1 **Deinstallation**
 
@@ -627,7 +627,7 @@ Der Desktop Connector kann sicherstellen, dass Dateien auf einem lokalen System 
 
 Wenn der Catenda Desktop Connector auf Windows installiert wird, erscheinen die Installationsdateien im folgenden Ordner.
 
-`C:\\Program Files\\Catenda Hub Desktop Connector`
+`C:\Program Files\Catenda Hub Desktop Connector`
 
 ### 3.1 **Deinstallation**
 
@@ -807,7 +807,7 @@ Klicken Sie auf diese Schaltfläche, um zur [Startseite](#home-page) zurückzuke
 
 Diese Schaltfläche öffnet den Ordnerspeicherort der Desktop Connector-Protokolle auf dem lokalen System. Der Standardspeicherort dieser Protokolle ist:
 
-`C:\\Users\\\<Windows account name>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp`
+`C:\Users\<Windows account name>\AppData\Local\User Name\2b92d867-496c-47d1-ac42-fbf8fa355177\Cache\BimsyncApp`
 
 # Catenda Navisworks-Plugin
 
@@ -844,11 +844,11 @@ Catenda Hub ist ein BIM-Kollaborationstool mit Unterstützung für alle building
 
 Wenn das Catenda Navisworks-Plugin unter Windows installiert wird, erscheinen die Installationsdateien im folgenden Ordner.
 
-`C:\\ProgramData\\Autodesk\\ApplicationPlugins\\Catenda.BCF.bundle`
+`C:\ProgramData\Autodesk\ApplicationPlugins\Catenda.BCF.bundle`
 
 Die im Plugin konfigurierten Einstellungen finden Sie hier:
 
-`C:\\Users\\\<Username>\\AppData\\Local\\Autodesk\_Inc\\Roamer.exe\_Url\_\<GUID>\\\<Version>`
+`C:\Users\<Username>\AppData\Local\Autodesk_Inc\Roamer.exe_Url_<GUID>\<Version>`
 
 ### 4.1 **Deinstallation**
 
@@ -1150,7 +1150,7 @@ Revision Die Versionsnummer für das Dokument
 
 Sie können ganz einfach IFC-Modelle aus Ihrem Catenda-Projekt mit diesem Plugin und den Aktionen auf der Registerkarte Modelle herunterladen. Um auf Ihr lokales Gerät herunterzuladen: Klicken Sie die Download-Schaltfläche für jedes Modell, das Sie herunterladen möchten. Die Modelle werden in einem neuen Ordner mit dem Projektnamen unter dem in der Registerkarte Einstellungen angegebenen Download-Pfad gespeichert. Zum Beispiel:
 
-`C:\\...\\Dokumente\\Catenda Projektname`
+`C:\...\Dokumente\Catenda Projektname`
 
 ### 10.9 **Erstellen Sie eine zusammengeführte .nwf-Datei mit IFCs von Catenda Hub**
 
@@ -1174,7 +1174,7 @@ Das Catenda Revit-Plugin ist ein Plugin, das für Autodesk Revit installiert wer
 
 Wenn das Catenda Revit-Plugin unter Windows installiert ist, werden die Installationsdateien im folgenden Ordner angezeigt.
 
-`C:\\ProgramData\\Autodesk\\ApplicationPlugins\\CatendaHub.bundle`
+`C:\ProgramData\Autodesk\ApplicationPlugins\CatendaHub.bundle`
 
 ### 1.1 **Deinstallation**
 
@@ -1546,15 +1546,15 @@ Die verschiedenen Filter im Filtermenü werden nur angezeigt, wenn es Themen gib
 
 ### 2.1 **Meine Themen**
 
-Mir zugewiesen - `assigned-user=\<User GUID>&assigned-team=\<Team GUID>` _Zugewiesener Benutzer_ - `assigned-user=\<User GUID>` _Meine Teams_ - `assigned-team=\<Team GUID>` _Angefordert von mir_ - `requester-user=\<Your GUID>` Themen _denen ich folge_ - `followed-by=me` _die mich erwähnen_ - `mentioned=me`
+Mir zugewiesen - `assigned-user=<User GUID>&assigned-team=<Team GUID>` _Zugewiesener Benutzer_ - `assigned-user=<User GUID>` _Meine Teams_ - `assigned-team=<Team GUID>` _Angefordert von mir_ - `requester-user=<Your GUID>` Themen _denen ich folge_ - `followed-by=me` _die mich erwähnen_ - `mentioned=me`
 
 > **Hinweis:** Wenn Sie einen Link mit den aktiven Filtern "Thema, dem ich folge" oder "Erwähnung von mir" freigeben, werden die Themen auf dem Thema-Board des Benutzers gefiltert, dem der Benutzer folgt, und Themen, in denen der Benutzer erwähnt wurde, und nicht auf Themen, denen Sie folgen, und Themen, in denen Sie erwähnt wurden. Um Themen freizugeben, bei denen Sie erwähnt wurden, verwenden Sie bitte [Textsuche](#text-search)
 
-_Erstellt von mir_ - `created-by=\<User GUID>`
+_Erstellt von mir_ - `created-by=<User GUID>`
 
 ### 2.2 **Status / Typ**
 
-_Alle offenen Status_ - `status-type=open` _Spezifischer offener Status_ - `status-type=\<Status GUID>` _Alle geschlossenen Status_ - `status-type=closed` _Spezifischer geschlossener Status_ - `status-type=\<Status GUID>` _Typ_ - `type=\<Type GUID>`
+_Alle offenen Status_ - `status-type=open` _Spezifischer offener Status_ - `status-type=<Status GUID>` _Alle geschlossenen Status_ - `status-type=closed` _Spezifischer geschlossener Status_ - `status-type=<Status GUID>` _Typ_ - `type=<Type GUID>`
 
 ### 2.3 **Fälligkeitsdatum**
 
@@ -1562,37 +1562,37 @@ _Überfällig_ - `due=overdue` _Alle mit Fälligkeitsdatum_ - `due=present` _Kei
 
 ### 2.4 **Aktualisiert**
 
-Mit dem Datumsfilter können Sie einen Zeitrahmen auswählen, für den die Themen zuletzt aktualisiert wurden. _Aktualisiert_ - `updated-from=\<Epoch Unix Timestamp>&updated-to=\<Epoch Unix Timestamp>` Lesen Sie [diesen](https://support.catenda.com/en/articles/6511685-date-filter) Artikel, um zu erfahren, wie Sie Datumsangaben auf der Seite leicht auswählen können.
+Mit dem Datumsfilter können Sie einen Zeitrahmen auswählen, für den die Themen zuletzt aktualisiert wurden. _Aktualisiert_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Lesen Sie [diesen](https://support.catenda.com/en/articles/6511685-date-filter) Artikel, um zu erfahren, wie Sie Datumsangaben auf der Seite leicht auswählen können.
 
 ### 2.5 **Zugewiesen an / Angefordert von**
 
-_Niemandem zugewiesen_ - `assigned=unassigned` _Keinem Team zugewiesen_ - `assigned-team=unassigned` _Dem Team zugewiesen_ - `assigned-team=\<Team GUID>` _Nicht dem Benutzer zugewiesen_ - `assigned-user=unassigned` _Dem Benutzer zugewiesen_ - `assigned-user=\<User GUID>` Zuweisungsoperator - `assigned-op=and` Standardmäßig können Sie nur nach dem zugewiesenen Benutzer ODER dem zugewiesenen Team suchen. In Catenda Hub können Sie einen Bevollmächtigten als user@team festlegen. Um alle Themen dieses Typs zu finden\*\*,\*\* filtern Sie nach dem Team und dem Benutzer und fügen Sie &assigned-op=and am Ende der URL hinzu.
+_Niemandem zugewiesen_ - `assigned=unassigned` _Keinem Team zugewiesen_ - `assigned-team=unassigned` _Dem Team zugewiesen_ - `assigned-team=<Team GUID>` _Nicht dem Benutzer zugewiesen_ - `assigned-user=unassigned` _Dem Benutzer zugewiesen_ - `assigned-user=<User GUID>` Zuweisungsoperator - `assigned-op=and` Standardmäßig können Sie nur nach dem zugewiesenen Benutzer ODER dem zugewiesenen Team suchen. In Catenda Hub können Sie einen Bevollmächtigten als user@team festlegen. Um alle Themen dieses Typs zu finden\*\*,\*\* filtern Sie nach dem Team und dem Benutzer und fügen Sie &assigned-op=and am Ende der URL hinzu.
 
-_Nicht angefordert_ - `requester=unassigned` _Nicht von Team angefordert_ - `requester-team=unassigned` _Nicht von Benutzer angefordert_ - `requester-user=unassigned` _Von Benutzer angefordert_ - `requester-user=\<User GUID>`
+_Nicht angefordert_ - `requester=unassigned` _Nicht von Team angefordert_ - `requester-team=unassigned` _Nicht von Benutzer angefordert_ - `requester-user=unassigned` _Von Benutzer angefordert_ - `requester-user=<User GUID>`
 
 ### 2.6 **Erstellt von**
 
-_Vom Benutzer erstellt_ - `created-by=\<User GUID>`
+_Vom Benutzer erstellt_ - `created-by=<User GUID>`
 
 ### 2.7 **Meilenstein**
 
-_Meilenstein_ - `milestone=\<Milestone GUID>`
+_Meilenstein_ - `milestone=<Milestone GUID>`
 
 ### 2.8 **Benutzerdefiniertes Feld**
 
-_Benutzerdefiniertes Feld hat Wert_ - `custom-field-has-value-\<Custom field GUID>=true` Mit der Option "Hat Wert" im Filtermenü können alle Themen gefiltert werden, bei denen ein Wert für dieses benutzerdefinierte Feld konfiguriert ist. Benutzerdefinierte Feldtypen, die auf "Hat Wert" gefiltert werden können: Datum Dezimal Dropdown Ganzzahl Text
+_Benutzerdefiniertes Feld hat Wert_ - `custom-field-has-value-<Custom field GUID>=true` Mit der Option "Hat Wert" im Filtermenü können alle Themen gefiltert werden, bei denen ein Wert für dieses benutzerdefinierte Feld konfiguriert ist. Benutzerdefinierte Feldtypen, die auf "Hat Wert" gefiltert werden können: Datum Dezimal Dropdown Ganzzahl Text
 
-_Benutzerdefiniertes Feld spezifischer Wert_ - `custom-field-item-\<Custom field GUID>=\<Value GUID>` Benutzerdefinierte Feldtypen, die im Filtermenü auf spezifischen Wert gefiltert werden können: Dropdown
+_Benutzerdefiniertes Feld spezifischer Wert_ - `custom-field-item-<Custom field GUID>=<Value GUID>` Benutzerdefinierte Feldtypen, die im Filtermenü auf spezifischen Wert gefiltert werden können: Dropdown
 
 Einige Werte in benutzerdefinierten Feldern, bei denen Werte konfiguriert werden können, können gefiltert werden. Filtern Sie nach Werten, indem Sie eine Suchphrase in der Such- oder Filterleiste eingeben und das entsprechende benutzerdefinierte Feld auswählen. Benutzerdefinierte Feldtypen, die durch Eingabe in der Such- oder Filterleiste gefiltert werden können: Dezimal Dropdown Ganzzahl Text
 
-_Benutzerdefiniertes Feld hat keinen Wert_ - `custom-field-has-value-\<Custom field GUID>=false` Filtern Sie alle Themen, bei denen ein benutzerdefiniertes Feld keinen Wert hat. Benutzerdefinierte Feldtypen, die auf "Kein Wert" gefiltert werden können: Datum Dezimal Dropdown Ganzzahl Text
+_Benutzerdefiniertes Feld hat keinen Wert_ - `custom-field-has-value-<Custom field GUID>=false` Filtern Sie alle Themen, bei denen ein benutzerdefiniertes Feld keinen Wert hat. Benutzerdefinierte Feldtypen, die auf "Kein Wert" gefiltert werden können: Datum Dezimal Dropdown Ganzzahl Text
 
 > **Hinweis:** Benutzerdefinierte Felder, die als erforderlich festgelegt sind, haben immer einen Wert. Sie können daher nicht nach "Hat Wert" oder "Hat keinen Wert" suchen und können daher nicht nach einem benutzerdefinierten Feld suchen, das als erforderlich festgelegt ist.
 
 ### 2.9 **Etikett**
 
-_Etikett_ - `label=\<Label GUID>` Etiketten in ihrer eigenen Etikettgruppe werden in einer separaten Liste angezeigt.
+_Etikett_ - `label=<Label GUID>` Etiketten in ihrer eigenen Etikettgruppe werden in einer separaten Liste angezeigt.
 
 ### 2.10 **Links**
 
@@ -1620,7 +1620,7 @@ Klicken Sie auf den Filter, um das Board nach dem gespeicherten Satz von Filtern
 
 ### 3.2 **Textsuche**
 
-_Textsuche -_ `search=\<Search phrase>` Nach der Eingabe von Zeichen in die Such- oder Filterleiste ändert sich der erste vorgeschlagene Filter zur Textsuche.
+_Textsuche -_ `search=<Search phrase>` Nach der Eingabe von Zeichen in die Such- oder Filterleiste ändert sich der erste vorgeschlagene Filter zur Textsuche.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/04-text-search.png)
 
@@ -1640,19 +1640,19 @@ Drei oder mehr Zeichen Inhalte, die der Suchphrase in irgendeinem Teil des Inhal
 
 Mitglieds- oder Teamname Suchen Sie nach dem Namen des Mitglieds oder Teams, um alle einfachen Textvorkommen dieses Mitglieds- oder Teamnamens zu finden.
 
-Erwähntes Mitglied Suchen Sie nach der E-Mail eines Mitglieds, um alle einfachen Textvorkommen dieser Mitglieds-E-Mail zu finden. Dies schließt Orte ein, an denen sie erwähnt wurden. Suchen Sie nach `#[\<Email of member>]`, um nur die Vorkommen zu finden, bei denen dieses Mitglied erwähnt wird.
+Erwähntes Mitglied Suchen Sie nach der E-Mail eines Mitglieds, um alle einfachen Textvorkommen dieser Mitglieds-E-Mail zu finden. Dies schließt Orte ein, an denen sie erwähnt wurden. Suchen Sie nach `#[<Email of member>]`, um nur die Vorkommen zu finden, bei denen dieses Mitglied erwähnt wird.
 
 Erwähntes Team Erwähnte Teams können durch Suche nach der GUID dieses Teams durchsucht werden. Um die GUID eines Teams zu finden, gehen Sie zur [Inhaltsseite dieses Teams](https://support.catenda.com/en/articles/7891755-team-page), indem Sie auf seinen Namen auf der [Registerkarte "Teams" der Seite "Mitglieder und Teams"](https://support.catenda.com/en/articles/4670291-members-and-teams-page) klicken. Die URL sollte ungefähr so aussehen: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 
-Suchen Sie nach der Team-GUID, um alle einfachen Textvorkommen dieser Team-GUID zu finden. Dies schließt Orte ein, an denen sie erwähnt wurden. Suchen Sie nach `#[\<team GUID>]`, um nur die Vorkommen zu finden, bei denen dieses Team erwähnt wird.
+Suchen Sie nach der Team-GUID, um alle einfachen Textvorkommen dieser Team-GUID zu finden. Dies schließt Orte ein, an denen sie erwähnt wurden. Suchen Sie nach `#[<team GUID>]`, um nur die Vorkommen zu finden, bei denen dieses Team erwähnt wird.
 
 ### 3.3 **Benutzerdefinierte Felder - Text**
 
 Wenn eine Suchphrase mit einem Unicode-Zeichen beginnt, das einen Unicode-Wert hat, der 58 oder höher ist, werden die folgenden Filter am unteren Ende der Liste der vorgeschlagenen Filter angezeigt.
 
-_Benutzerdefiniertes Textfeld -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Wenn ein benutzerdefiniertes Textfeld in dem Themabrett aktiviert ist, kann der Inhalt von benutzerdefinierten Textfeldern in allen Themen des Bretts mit diesem Filter gefiltert werden.
+_Benutzerdefiniertes Textfeld -_ `custom-field-<Custom field GUID>=<Search phrase>` Wenn ein benutzerdefiniertes Textfeld in dem Themabrett aktiviert ist, kann der Inhalt von benutzerdefinierten Textfeldern in allen Themen des Bretts mit diesem Filter gefiltert werden.
 
 ### 3.4 **Zahlensuchphrase**
 
@@ -1660,9 +1660,9 @@ Wenn eine Suchphrase mit einem Unicode-Zeichen beginnt, das einen Unicode-Wert z
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/06-number-search-phrase.png)
 
-Dies umfasst die folgenden Zeichen: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`\*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
+Dies umfasst die folgenden Zeichen: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
 
-_Thema -_ `issues=\<issue number>` Wenn eine Suchphrase mit einer Zahl beginnt, wird die Themennummernsuche als Vorschlag in der Such- oder Filterleiste angezeigt. Der vorgeschlagene Filter kann ungefähr so aussehen:
+_Thema -_ `issues=<issue number>` Wenn eine Suchphrase mit einer Zahl beginnt, wird die Themennummernsuche als Vorschlag in der Such- oder Filterleiste angezeigt. Der vorgeschlagene Filter kann ungefähr so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/07-number-search-phrase.png)
 
@@ -1672,15 +1672,15 @@ Filterung nach einer oder mehreren Themen nach Nummer Es ist nur möglich, jewei
 
 ### 3.5 **Benutzerdefinierte Felder - Zahl**
 
-_Benutzerdefiniertes Ganzzahlfeld -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Wenn ein benutzerdefiniertes Ganzzahlfeld in dem Themabrett aktiviert ist, kann der Inhalt von benutzerdefinierten Ganzzahlfeldern in allen Themen des Bretts mit diesem Filter gefiltert werden.
+_Benutzerdefiniertes Ganzzahlfeld -_ `custom-field-<Custom field GUID>=<Search phrase>` Wenn ein benutzerdefiniertes Ganzzahlfeld in dem Themabrett aktiviert ist, kann der Inhalt von benutzerdefinierten Ganzzahlfeldern in allen Themen des Bretts mit diesem Filter gefiltert werden.
 
-_Benutzerdefiniertes Dezimalfeld -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Wenn ein benutzerdefiniertes Dezimalfeld in dem Themabrett aktiviert ist, kann der Inhalt von benutzerdefinierten Dezimalfeldern in allen Themen des Bretts mit diesem Filter gefiltert werden.
+_Benutzerdefiniertes Dezimalfeld -_ `custom-field-<Custom field GUID>=<Search phrase>` Wenn ein benutzerdefiniertes Dezimalfeld in dem Themabrett aktiviert ist, kann der Inhalt von benutzerdefinierten Dezimalfeldern in allen Themen des Bretts mit diesem Filter gefiltert werden.
 
 ### 3.6 **Benutzerdefinierte Felder - Dropdown**
 
 Wenn eine Suchphrase mit dem Namen eines Wertes in einem Filter übereinstimmt, wird der beste übereinstimmende Filter im Vorschlagsfeld vorgeschlagen.
 
-_Benutzerdefiniertes Dropdown-Feld_ _-_ `custom-field-item-\<Custom field GUID>=\<Dropdown value GUID>` Wenn die Suchphrase mit einem Wert in einem benutzerdefinierten Dropdown-Feld mit bis zu 10 Werten übereinstimmt, wird vorgeschlagen, nach diesem Dropdown-Wert zu suchen.
+_Benutzerdefiniertes Dropdown-Feld_ _-_ `custom-field-item-<Custom field GUID>=<Dropdown value GUID>` Wenn die Suchphrase mit einem Wert in einem benutzerdefinierten Dropdown-Feld mit bis zu 10 Werten übereinstimmt, wird vorgeschlagen, nach diesem Dropdown-Wert zu suchen.
 
 # IFC Export Archicad Handbuch
 
@@ -2182,8 +2182,8 @@ Nachfolgend finden Sie verschiedene Einstellungen zur Anzeige Ihrer Daten:
 
 PC-Daten der folgenden zwei Dateiformate können in Catenda in der Vorschau angezeigt werden.
 
-- `\*.e57`
-- `\*.las`
+- `*.e57`
+- `*.las`
 
 PC können wie jedes andere Dokument im Dokumentenbereich hochgeladen werden. Für diese zwei Dateiformate können Dateien bis zu 25 GB in den Dokumentenbereich hochgeladen werden. Mehrere Dateien können im Dokumentenbereich geladen und zusammen im 3D Viewer angezeigt werden.
 
@@ -3035,7 +3035,7 @@ wird zu: [Catenda Hub](https://hub.catenda.com)
 
 ### 3.4 **Formatierung verhindern**
 
-Durch das Einwickeln von Wörtern in Nicht-Buchstaben- oder Zahlenzeichen können Sie sie unterschiedlich aussehen lassen. Dies ist nicht immer gewünscht. Wenn Sie ein `\\` vor solch ein Zeichen setzen, wird das `\\` verschwinden. Jede Formatierung, die für diese Zeichen angewendet würde, funktioniert dann nicht mehr. Wenn Sie ein `\\` auf eine leere Zeile setzen, die nicht Teil einer [Liste](#lists) ist, bleibt das Ergebnis dennoch eine leere Zeile.
+Durch das Einwickeln von Wörtern in Nicht-Buchstaben- oder Zahlenzeichen können Sie sie unterschiedlich aussehen lassen. Dies ist nicht immer gewünscht. Wenn Sie ein `\` vor solch ein Zeichen setzen, wird das `\` verschwinden. Jede Formatierung, die für diese Zeichen angewendet würde, funktioniert dann nicht mehr. Wenn Sie ein `\` auf eine leere Zeile setzen, die nicht Teil einer [Liste](#lists) ist, bleibt das Ergebnis dennoch eine leere Zeile.
 
 ## 4. **Text untergliedern und strukturieren**
 
@@ -3063,7 +3063,7 @@ _Catenda-Bilddokumentlink abrufen_ Wenn Sie auf die [Download-Aktionsschaltfläc
 
 ### 4.2 **Listen**
 
-**Ungeordnete Listen** Starten Sie eine ungeordnete Liste mit einer leeren Zeile darüber, dann entweder Bindestrich (`-`), Plus (`+`) oder Sternchen (`\*`) gefolgt von einem Leerzeichen. Fügen Sie 4 Leerzeichen oder ein Tabulatorzeichen am Anfang der Zeile ein, um eine Unterliste zu erstellen.
+**Ungeordnete Listen** Starten Sie eine ungeordnete Liste mit einer leeren Zeile darüber, dann entweder Bindestrich (`-`), Plus (`+`) oder Sternchen (`*`) gefolgt von einem Leerzeichen. Fügen Sie 4 Leerzeichen oder ein Tabulatorzeichen am Anfang der Zeile ein, um eine Unterliste zu erstellen.
 
 ```
  - Erstes Element - Zweites Element     - Fügen Sie 4 Leerzeichen am Anfang der Zeile ein, um eine Unterliste zu erstellen.
@@ -3133,13 +3133,13 @@ Wird zu:
 
 Wenn Sie die Nummerierung zurücksetzen und in einer zweiten Liste im selben Beitrag erneut von eins beginnen möchten, können Sie eine leere Zeile oder eine [Trennlinie](#dividers) einfügen.
 
-Um [sicherzustellen, dass die Liste nicht formatiert wird](#preventing-formatting), damit Sie Ihre eigene Nummerierung verwenden können: Platzieren Sie ein Zeichen über der Liste. Eine gute Wahl ist `\\`, da es verschwindet.
+Um [sicherzustellen, dass die Liste nicht formatiert wird](#preventing-formatting), damit Sie Ihre eigene Nummerierung verwenden können: Platzieren Sie ein Zeichen über der Liste. Eine gute Wahl ist `\`, da es verschwindet.
 
 ```
 \23. dreiundzwanzig 24. vierundzwanzig 25. fünfundzwanzig     26. sechsundzwanzig
 ```
 
-Setzen Sie einen Backslash (`\\`) vor den Punkt (`.`):
+Setzen Sie einen Backslash (`\`) vor den Punkt (`.`):
 
 ```
 23\. dreiundzwanzig 24\. vierundzwanzig 25\. fünfundzwanzig     26\. sechsundzwanzig
@@ -3185,11 +3185,11 @@ ergibt folgendes
 
 ### 4.6 **Codeblöcke**
 
-Sie können einzelne Codezeilen so einfügen: Zwei \`\\`\` umgeben Text, sehen so aus:
+Sie können einzelne Codezeilen so einfügen: Zwei \`\`\` umgeben Text, sehen so aus:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/08-code-blocks.png)
 
-Drei Backticks `\`\\`\\`\` über und unter einem bisschen Text sehen so aus:
+Drei Backticks `\`\\`\`\` über und unter einem bisschen Text sehen so aus:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/09-code-blocks.png)
 
@@ -3207,7 +3207,7 @@ Klicken Sie auf das `@`-Tool oder schreiben Sie `@` in einer Beschreibung oder e
 
 Suchen Sie in der Liste, indem Sie mit der E-Mail-Adresse, dem Mitgliedsnamen oder dem Teamnamen beginnen zu tippen. Navigieren Sie in der Liste mit den Pfeiltasten nach oben und unten und klicken Sie oder drücken Sie die Eingabetaste, um ein Mitglied oder ein Team auszuwählen. Damit ein Mitglied oder Team in dieser Liste angezeigt wird, muss das Mitglied oder Team mindestens Lesezugriff auf das Themabrett haben. Nach Auswahl eines Mitglieds oder eines Teams in der Liste erhält `@` zusätzlichen Text, der wie folgt aussehen kann:
 
-`@[\<E-Mail-Adresse des Mitglieds>]` oder `@[\<Teamname>]`
+`@[<E-Mail-Adresse des Mitglieds>]` oder `@[<Teamname>]`
 
 ### 5.1 **Eine Erwähnung in einem Thema speichern oder absenden**
 
@@ -3247,7 +3247,7 @@ Klicken Sie auf das `#`-Tool oder schreiben Sie `#` in einer Beschreibung oder e
 
 Suchen Sie in der Liste, indem Sie mit dem Titel oder der Themennummer beginnen zu tippen. Navigieren Sie in der Liste mit den Pfeiltasten nach oben und unten und klicken Sie oder drücken Sie die Eingabetaste, um ein Thema auszuwählen. Damit ein Thema in dieser Liste angezeigt wird, muss das Mitglied, das das Tag zuweist, Zugriff auf das Brett haben, auf dem sich das Thema befindet. Nach Auswahl eines Themas in der Liste erhält `#` zusätzlichen Text, der wie folgt aussehen kann:
 
-`#[\<Themennummer>]`
+`#[<Themennummer>]`
 
 ### 6.1 **Ein mit Tags versehenes Thema speichern oder absenden**
 

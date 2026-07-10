@@ -26,15 +26,15 @@ Die verschiedenen Filter im Filtermenü werden nur angezeigt, wenn es Themen gib
 
 ### 2.1 **Meine Themen**
 
-Mir zugewiesen - `assigned-user=\<User GUID>&assigned-team=\<Team GUID>` _Zugewiesener Benutzer_ - `assigned-user=\<User GUID>` _Meine Teams_ - `assigned-team=\<Team GUID>` _Angefordert von mir_ - `requester-user=\<Your GUID>` Themen _denen ich folge_ - `followed-by=me` _die mich erwähnen_ - `mentioned=me`
+Mir zugewiesen - `assigned-user=<User GUID>&assigned-team=<Team GUID>` _Zugewiesener Benutzer_ - `assigned-user=<User GUID>` _Meine Teams_ - `assigned-team=<Team GUID>` _Angefordert von mir_ - `requester-user=<Your GUID>` Themen _denen ich folge_ - `followed-by=me` _die mich erwähnen_ - `mentioned=me`
 
 > **Hinweis:** Wenn Sie einen Link mit den aktiven Filtern "Thema, dem ich folge" oder "Erwähnung von mir" freigeben, werden die Themen auf dem Thema-Board des Benutzers gefiltert, dem der Benutzer folgt, und Themen, in denen der Benutzer erwähnt wurde, und nicht auf Themen, denen Sie folgen, und Themen, in denen Sie erwähnt wurden. Um Themen freizugeben, bei denen Sie erwähnt wurden, verwenden Sie bitte [Textsuche](#text-search)
 
-_Erstellt von mir_ - `created-by=\<User GUID>`
+_Erstellt von mir_ - `created-by=<User GUID>`
 
 ### 2.2 **Status / Typ**
 
-_Alle offenen Status_ - `status-type=open` _Spezifischer offener Status_ - `status-type=\<Status GUID>` _Alle geschlossenen Status_ - `status-type=closed` _Spezifischer geschlossener Status_ - `status-type=\<Status GUID>` _Typ_ - `type=\<Type GUID>`
+_Alle offenen Status_ - `status-type=open` _Spezifischer offener Status_ - `status-type=<Status GUID>` _Alle geschlossenen Status_ - `status-type=closed` _Spezifischer geschlossener Status_ - `status-type=<Status GUID>` _Typ_ - `type=<Type GUID>`
 
 ### 2.3 **Fälligkeitsdatum**
 
@@ -42,37 +42,37 @@ _Überfällig_ - `due=overdue` _Alle mit Fälligkeitsdatum_ - `due=present` _Kei
 
 ### 2.4 **Aktualisiert**
 
-Mit dem Datumsfilter können Sie einen Zeitrahmen auswählen, für den die Themen zuletzt aktualisiert wurden. _Aktualisiert_ - `updated-from=\<Epoch Unix Timestamp>&updated-to=\<Epoch Unix Timestamp>` Lesen Sie [diesen](https://support.catenda.com/en/articles/6511685-date-filter) Artikel, um zu erfahren, wie Sie Datumsangaben auf der Seite leicht auswählen können.
+Mit dem Datumsfilter können Sie einen Zeitrahmen auswählen, für den die Themen zuletzt aktualisiert wurden. _Aktualisiert_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Lesen Sie [diesen](https://support.catenda.com/en/articles/6511685-date-filter) Artikel, um zu erfahren, wie Sie Datumsangaben auf der Seite leicht auswählen können.
 
 ### 2.5 **Zugewiesen an / Angefordert von**
 
-_Niemandem zugewiesen_ - `assigned=unassigned` _Keinem Team zugewiesen_ - `assigned-team=unassigned` _Dem Team zugewiesen_ - `assigned-team=\<Team GUID>` _Nicht dem Benutzer zugewiesen_ - `assigned-user=unassigned` _Dem Benutzer zugewiesen_ - `assigned-user=\<User GUID>` Zuweisungsoperator - `assigned-op=and` Standardmäßig können Sie nur nach dem zugewiesenen Benutzer ODER dem zugewiesenen Team suchen. In Catenda Hub können Sie einen Bevollmächtigten als user@team festlegen. Um alle Themen dieses Typs zu finden\*\*,\*\* filtern Sie nach dem Team und dem Benutzer und fügen Sie &assigned-op=and am Ende der URL hinzu.
+_Niemandem zugewiesen_ - `assigned=unassigned` _Keinem Team zugewiesen_ - `assigned-team=unassigned` _Dem Team zugewiesen_ - `assigned-team=<Team GUID>` _Nicht dem Benutzer zugewiesen_ - `assigned-user=unassigned` _Dem Benutzer zugewiesen_ - `assigned-user=<User GUID>` Zuweisungsoperator - `assigned-op=and` Standardmäßig können Sie nur nach dem zugewiesenen Benutzer ODER dem zugewiesenen Team suchen. In Catenda Hub können Sie einen Bevollmächtigten als user@team festlegen. Um alle Themen dieses Typs zu finden\*\*,\*\* filtern Sie nach dem Team und dem Benutzer und fügen Sie &assigned-op=and am Ende der URL hinzu.
 
-_Nicht angefordert_ - `requester=unassigned` _Nicht von Team angefordert_ - `requester-team=unassigned` _Nicht von Benutzer angefordert_ - `requester-user=unassigned` _Von Benutzer angefordert_ - `requester-user=\<User GUID>`
+_Nicht angefordert_ - `requester=unassigned` _Nicht von Team angefordert_ - `requester-team=unassigned` _Nicht von Benutzer angefordert_ - `requester-user=unassigned` _Von Benutzer angefordert_ - `requester-user=<User GUID>`
 
 ### 2.6 **Erstellt von**
 
-_Vom Benutzer erstellt_ - `created-by=\<User GUID>`
+_Vom Benutzer erstellt_ - `created-by=<User GUID>`
 
 ### 2.7 **Meilenstein**
 
-_Meilenstein_ - `milestone=\<Milestone GUID>`
+_Meilenstein_ - `milestone=<Milestone GUID>`
 
 ### 2.8 **Benutzerdefiniertes Feld**
 
-_Benutzerdefiniertes Feld hat Wert_ - `custom-field-has-value-\<Custom field GUID>=true` Mit der Option "Hat Wert" im Filtermenü können alle Themen gefiltert werden, bei denen ein Wert für dieses benutzerdefinierte Feld konfiguriert ist. Benutzerdefinierte Feldtypen, die auf "Hat Wert" gefiltert werden können: Datum Dezimal Dropdown Ganzzahl Text
+_Benutzerdefiniertes Feld hat Wert_ - `custom-field-has-value-<Custom field GUID>=true` Mit der Option "Hat Wert" im Filtermenü können alle Themen gefiltert werden, bei denen ein Wert für dieses benutzerdefinierte Feld konfiguriert ist. Benutzerdefinierte Feldtypen, die auf "Hat Wert" gefiltert werden können: Datum Dezimal Dropdown Ganzzahl Text
 
-_Benutzerdefiniertes Feld spezifischer Wert_ - `custom-field-item-\<Custom field GUID>=\<Value GUID>` Benutzerdefinierte Feldtypen, die im Filtermenü auf spezifischen Wert gefiltert werden können: Dropdown
+_Benutzerdefiniertes Feld spezifischer Wert_ - `custom-field-item-<Custom field GUID>=<Value GUID>` Benutzerdefinierte Feldtypen, die im Filtermenü auf spezifischen Wert gefiltert werden können: Dropdown
 
 Einige Werte in benutzerdefinierten Feldern, bei denen Werte konfiguriert werden können, können gefiltert werden. Filtern Sie nach Werten, indem Sie eine Suchphrase in der Such- oder Filterleiste eingeben und das entsprechende benutzerdefinierte Feld auswählen. Benutzerdefinierte Feldtypen, die durch Eingabe in der Such- oder Filterleiste gefiltert werden können: Dezimal Dropdown Ganzzahl Text
 
-_Benutzerdefiniertes Feld hat keinen Wert_ - `custom-field-has-value-\<Custom field GUID>=false` Filtern Sie alle Themen, bei denen ein benutzerdefiniertes Feld keinen Wert hat. Benutzerdefinierte Feldtypen, die auf "Kein Wert" gefiltert werden können: Datum Dezimal Dropdown Ganzzahl Text
+_Benutzerdefiniertes Feld hat keinen Wert_ - `custom-field-has-value-<Custom field GUID>=false` Filtern Sie alle Themen, bei denen ein benutzerdefiniertes Feld keinen Wert hat. Benutzerdefinierte Feldtypen, die auf "Kein Wert" gefiltert werden können: Datum Dezimal Dropdown Ganzzahl Text
 
 > **Hinweis:** Benutzerdefinierte Felder, die als erforderlich festgelegt sind, haben immer einen Wert. Sie können daher nicht nach "Hat Wert" oder "Hat keinen Wert" suchen und können daher nicht nach einem benutzerdefinierten Feld suchen, das als erforderlich festgelegt ist.
 
 ### 2.9 **Etikett**
 
-_Etikett_ - `label=\<Label GUID>` Etiketten in ihrer eigenen Etikettgruppe werden in einer separaten Liste angezeigt.
+_Etikett_ - `label=<Label GUID>` Etiketten in ihrer eigenen Etikettgruppe werden in einer separaten Liste angezeigt.
 
 ### 2.10 **Links**
 
@@ -100,7 +100,7 @@ Klicken Sie auf den Filter, um das Board nach dem gespeicherten Satz von Filtern
 
 ### 3.2 **Textsuche**
 
-_Textsuche -_ `search=\<Search phrase>` Nach der Eingabe von Zeichen in die Such- oder Filterleiste ändert sich der erste vorgeschlagene Filter zur Textsuche.
+_Textsuche -_ `search=<Search phrase>` Nach der Eingabe von Zeichen in die Such- oder Filterleiste ändert sich der erste vorgeschlagene Filter zur Textsuche.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/04-text-search.png)
 
@@ -120,19 +120,19 @@ Drei oder mehr Zeichen Inhalte, die der Suchphrase in irgendeinem Teil des Inhal
 
 Mitglieds- oder Teamname Suchen Sie nach dem Namen des Mitglieds oder Teams, um alle einfachen Textvorkommen dieses Mitglieds- oder Teamnamens zu finden.
 
-Erwähntes Mitglied Suchen Sie nach der E-Mail eines Mitglieds, um alle einfachen Textvorkommen dieser Mitglieds-E-Mail zu finden. Dies schließt Orte ein, an denen sie erwähnt wurden. Suchen Sie nach `#[\<Email of member>]`, um nur die Vorkommen zu finden, bei denen dieses Mitglied erwähnt wird.
+Erwähntes Mitglied Suchen Sie nach der E-Mail eines Mitglieds, um alle einfachen Textvorkommen dieser Mitglieds-E-Mail zu finden. Dies schließt Orte ein, an denen sie erwähnt wurden. Suchen Sie nach `#[<Email of member>]`, um nur die Vorkommen zu finden, bei denen dieses Mitglied erwähnt wird.
 
 Erwähntes Team Erwähnte Teams können durch Suche nach der GUID dieses Teams durchsucht werden. Um die GUID eines Teams zu finden, gehen Sie zur [Inhaltsseite dieses Teams](https://support.catenda.com/en/articles/7891755-team-page), indem Sie auf seinen Namen auf der [Registerkarte "Teams" der Seite "Mitglieder und Teams"](https://support.catenda.com/en/articles/4670291-members-and-teams-page) klicken. Die URL sollte ungefähr so aussehen: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 
-Suchen Sie nach der Team-GUID, um alle einfachen Textvorkommen dieser Team-GUID zu finden. Dies schließt Orte ein, an denen sie erwähnt wurden. Suchen Sie nach `#[\<team GUID>]`, um nur die Vorkommen zu finden, bei denen dieses Team erwähnt wird.
+Suchen Sie nach der Team-GUID, um alle einfachen Textvorkommen dieser Team-GUID zu finden. Dies schließt Orte ein, an denen sie erwähnt wurden. Suchen Sie nach `#[<team GUID>]`, um nur die Vorkommen zu finden, bei denen dieses Team erwähnt wird.
 
 ### 3.3 **Benutzerdefinierte Felder - Text**
 
 Wenn eine Suchphrase mit einem Unicode-Zeichen beginnt, das einen Unicode-Wert hat, der 58 oder höher ist, werden die folgenden Filter am unteren Ende der Liste der vorgeschlagenen Filter angezeigt.
 
-_Benutzerdefiniertes Textfeld -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Wenn ein benutzerdefiniertes Textfeld in dem Themabrett aktiviert ist, kann der Inhalt von benutzerdefinierten Textfeldern in allen Themen des Bretts mit diesem Filter gefiltert werden.
+_Benutzerdefiniertes Textfeld -_ `custom-field-<Custom field GUID>=<Search phrase>` Wenn ein benutzerdefiniertes Textfeld in dem Themabrett aktiviert ist, kann der Inhalt von benutzerdefinierten Textfeldern in allen Themen des Bretts mit diesem Filter gefiltert werden.
 
 ### 3.4 **Zahlensuchphrase**
 
@@ -140,9 +140,9 @@ Wenn eine Suchphrase mit einem Unicode-Zeichen beginnt, das einen Unicode-Wert z
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/06-number-search-phrase.png)
 
-Dies umfasst die folgenden Zeichen: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`\*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
+Dies umfasst die folgenden Zeichen: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
 
-_Thema -_ `issues=\<issue number>` Wenn eine Suchphrase mit einer Zahl beginnt, wird die Themennummernsuche als Vorschlag in der Such- oder Filterleiste angezeigt. Der vorgeschlagene Filter kann ungefähr so aussehen:
+_Thema -_ `issues=<issue number>` Wenn eine Suchphrase mit einer Zahl beginnt, wird die Themennummernsuche als Vorschlag in der Such- oder Filterleiste angezeigt. Der vorgeschlagene Filter kann ungefähr so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/07-number-search-phrase.png)
 
@@ -152,12 +152,12 @@ Filterung nach einer oder mehreren Themen nach Nummer Es ist nur möglich, jewei
 
 ### 3.5 **Benutzerdefinierte Felder - Zahl**
 
-_Benutzerdefiniertes Ganzzahlfeld -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Wenn ein benutzerdefiniertes Ganzzahlfeld in dem Themabrett aktiviert ist, kann der Inhalt von benutzerdefinierten Ganzzahlfeldern in allen Themen des Bretts mit diesem Filter gefiltert werden.
+_Benutzerdefiniertes Ganzzahlfeld -_ `custom-field-<Custom field GUID>=<Search phrase>` Wenn ein benutzerdefiniertes Ganzzahlfeld in dem Themabrett aktiviert ist, kann der Inhalt von benutzerdefinierten Ganzzahlfeldern in allen Themen des Bretts mit diesem Filter gefiltert werden.
 
-_Benutzerdefiniertes Dezimalfeld -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Wenn ein benutzerdefiniertes Dezimalfeld in dem Themabrett aktiviert ist, kann der Inhalt von benutzerdefinierten Dezimalfeldern in allen Themen des Bretts mit diesem Filter gefiltert werden.
+_Benutzerdefiniertes Dezimalfeld -_ `custom-field-<Custom field GUID>=<Search phrase>` Wenn ein benutzerdefiniertes Dezimalfeld in dem Themabrett aktiviert ist, kann der Inhalt von benutzerdefinierten Dezimalfeldern in allen Themen des Bretts mit diesem Filter gefiltert werden.
 
 ### 3.6 **Benutzerdefinierte Felder - Dropdown**
 
 Wenn eine Suchphrase mit dem Namen eines Wertes in einem Filter übereinstimmt, wird der beste übereinstimmende Filter im Vorschlagsfeld vorgeschlagen.
 
-_Benutzerdefiniertes Dropdown-Feld_ _-_ `custom-field-item-\<Custom field GUID>=\<Dropdown value GUID>` Wenn die Suchphrase mit einem Wert in einem benutzerdefinierten Dropdown-Feld mit bis zu 10 Werten übereinstimmt, wird vorgeschlagen, nach diesem Dropdown-Wert zu suchen.
+_Benutzerdefiniertes Dropdown-Feld_ _-_ `custom-field-item-<Custom field GUID>=<Dropdown value GUID>` Wenn die Suchphrase mit einem Wert in einem benutzerdefinierten Dropdown-Feld mit bis zu 10 Werten übereinstimmt, wird vorgeschlagen, nach diesem Dropdown-Wert zu suchen.

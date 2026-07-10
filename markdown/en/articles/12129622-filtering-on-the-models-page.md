@@ -38,43 +38,43 @@ Linked - `associations=exists&subFolders=true` Unlinked - `associations=does-not
 
 ### 3.5 **Status (latest revision) - Status workflow only**
 
-Published - `documentStatus=published&subFolders=true&documentType=file` Missing status - `documentStatus=published-without-status&subFolders=true` Project published status - `documentStatus=\<GUID>&subFolders=true` Shared - `documentStatus=shared&subFolders=true&documentType=file` Shared statuses are only available in the workspace tab Project shared status - `documentStatus=\<GUID>&subFolders=true` Has no revision - `documentStatus=no-stage&subFolders=true`
+Published - `documentStatus=published&subFolders=true&documentType=file` Missing status - `documentStatus=published-without-status&subFolders=true` Project published status - `documentStatus=<GUID>&subFolders=true` Shared - `documentStatus=shared&subFolders=true&documentType=file` Shared statuses are only available in the workspace tab Project shared status - `documentStatus=<GUID>&subFolders=true` Has no revision - `documentStatus=no-stage&subFolders=true`
 
 ### 3.6 **Drafts - Status workflow only**
 
-Has new drafts - `newDrafts=exists&subFolders=true` Draft status name - `newDrafts=\<Draft status GUID>&subFolders=true` If there are multiple draft statuses each draft status can be filtered on. Has no new drafts - `newDrafts=does-not-exist&subFolders=true`
+Has new drafts - `newDrafts=exists&subFolders=true` Draft status name - `newDrafts=<Draft status GUID>&subFolders=true` If there are multiple draft statuses each draft status can be filtered on. Has no new drafts - `newDrafts=does-not-exist&subFolders=true`
 
 ### 3.7 **Document created by**
 
-Member name - `owner=\<Member GUID>&subFolders=true`
+Member name - `owner=<Member GUID>&subFolders=true`
 
 ### 3.8 **Revision created by**
 
-Member name - `revisionCreatedBy=\<GUID>&subFolders=true`
+Member name - `revisionCreatedBy=<GUID>&subFolders=true`
 
 ### 3.9 **Published by**
 
-Member name - `publishedBy=\<Member GUID>&subFolders=true`
+Member name - `publishedBy=<Member GUID>&subFolders=true`
 
 ### 3.10 **Date filters**
 
-Published - `publishedAtFrom=\<UTC timestamp>&publishedAtTo=\<UTC timestamp>` Click on select dates to select dates in between which you would like to search Click [here](https://support.catenda.com/en/articles/6511685-date-filter) to learn more about the date filter
+Published - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Click on select dates to select dates in between which you would like to search Click [here](https://support.catenda.com/en/articles/6511685-date-filter) to learn more about the date filter
 
 ### 3.11 **Open approvals - Status workflow only**
 
-Approval name - `approval=\<Approval number>&subFolders=true`
+Approval name - `approval=<Approval number>&subFolders=true`
 
 ### 3.12 **Labels**
 
-All labels that are not part of a label group will be displayed in a menu called labels. Label name - `labels=\<Label GUID>6&subFolders=true`
+All labels that are not part of a label group will be displayed in a menu called labels. Label name - `labels=<Label GUID>6&subFolders=true`
 
 ### 3.13 **Label group name**
 
-There will be one menu per label group name Label name - `labels=\<Label GUID>6&subFolders=true`
+There will be one menu per label group name Label name - `labels=<Label GUID>6&subFolders=true`
 
 ### 3.14 **Collections**
 
-Collection name - `collections=\<GUID>&subFolders=true`
+Collection name - `collections=<GUID>&subFolders=true`
 
 ## 4. **Text search**
 

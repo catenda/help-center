@@ -14,8 +14,8 @@ Se nedenfor ulike innstillinger for å vise dataene dine:
 
 PC-data i følgende to filformat kan forhåndsvises på Catenda.
 
-- `\*.e57`
-- `\*.las`
+- `*.e57`
+- `*.las`
 
 PC kan lastes opp som ethvert annet dokument i dokumentomådet. For disse to filformatene kan filer opp til 25 GB lastes opp til dokumentomådet. Flere filer kan lastes inn i dokumentomådet og vises sammen i 3D-visningen.
 

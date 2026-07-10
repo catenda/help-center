@@ -14,8 +14,8 @@ Nachfolgend finden Sie verschiedene Einstellungen zur Anzeige Ihrer Daten:
 
 PC-Daten der folgenden zwei Dateiformate können in Catenda in der Vorschau angezeigt werden.
 
-- `\*.e57`
-- `\*.las`
+- `*.e57`
+- `*.las`
 
 PC können wie jedes andere Dokument im Dokumentenbereich hochgeladen werden. Für diese zwei Dateiformate können Dateien bis zu 25 GB in den Dokumentenbereich hochgeladen werden. Mehrere Dateien können im Dokumentenbereich geladen und zusammen im 3D Viewer angezeigt werden.
 

@@ -8,7 +8,7 @@
 
 When the Catenda Revit plugin is installed on Windows its installation files will appear in the following folder.
 
-`C:\\Program Files\\Logic\\Catenda for Tekla 2025`
+`C:\Program Files\Logic\Catenda for Tekla 2025`
 
 ### 1.1 **Uninstalling**
 

@@ -44,7 +44,7 @@ Der Desktop Connector kann sicherstellen, dass Dateien auf einem lokalen System 
 
 Wenn der Catenda Desktop Connector auf Windows installiert wird, erscheinen die Installationsdateien im folgenden Ordner.
 
-`C:\\Program Files\\Catenda Hub Desktop Connector`
+`C:\Program Files\Catenda Hub Desktop Connector`
 
 ### 3.1 **Deinstallation**
 
@@ -224,4 +224,4 @@ Klicken Sie auf diese Schaltfläche, um zur [Startseite](#home-page) zurückzuke
 
 Diese Schaltfläche öffnet den Ordnerspeicherort der Desktop Connector-Protokolle auf dem lokalen System. Der Standardspeicherort dieser Protokolle ist:
 
-`C:\\Users\\\<Windows account name>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp`
+`C:\Users\<Windows account name>\AppData\Local\User Name\2b92d867-496c-47d1-ac42-fbf8fa355177\Cache\BimsyncApp`

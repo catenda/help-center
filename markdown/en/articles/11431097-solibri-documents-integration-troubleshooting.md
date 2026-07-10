@@ -62,7 +62,7 @@ To revoke the access that Solibri was granted to an account, log in with the acc
 
 Another way to remove the connection to a Catenda account is by deleting the userdata in Solibri. To do so delete the folder that is located here:
 
-`C:\\Users\\\<Username>\\.solibri`
+`C:\Users\<Username>\.solibri`
 
 > **Note:** By default this is a hidden folder on your system. Type the path directly in your file explorer or find out how to unhide hidden folders here: [https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5](https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5)
 

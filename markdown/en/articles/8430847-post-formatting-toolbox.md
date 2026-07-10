@@ -78,7 +78,7 @@ will become: [Catenda Hub](https://hub.catenda.com)
 
 ### 3.4 **Preventing formatting**
 
-By wrapping words in non letter of number characters you can make them look different. This is not always desired. If you put a `\\` in front of such a character, the `\\` will disappear. Any formatting that would have been applied for these characters will then stop working. If you put a `\\` on an empty line that is not part of a [list](#lists) the result will still be an empty line as well.
+By wrapping words in non letter of number characters you can make them look different. This is not always desired. If you put a `\` in front of such a character, the `\` will disappear. Any formatting that would have been applied for these characters will then stop working. If you put a `\` on an empty line that is not part of a [list](#lists) the result will still be an empty line as well.
 
 ## 4. **Breaking up text and adding structure**
 
@@ -106,7 +106,7 @@ _Getting a Catenda image document link_ If you right click the [download action 
 
 ### 4.2 **Lists**
 
-**Unordered lists** Start an unordered list with a blank line above it, then either hyphen (`-`), plus (`+`), or an asterix (`\*`) followed by a space. Insert 4 spaces or a tab space at the start of the line to create a sublist.
+**Unordered lists** Start an unordered list with a blank line above it, then either hyphen (`-`), plus (`+`), or an asterix (`*`) followed by a space. Insert 4 spaces or a tab space at the start of the line to create a sublist.
 
 ```
  - First element - Second element     - Insert 4 spaces at the start of the line to create a sublist.
@@ -176,13 +176,13 @@ Will turn into:
 
 If you wish to reset the numbering and start from one again on a second list within the same post you can put a blank or a [divider](#dividers) in between.
 
-To [make sure the list does not get formatted](#preventing-formatting) so you can use your own numbering: Put a character on the line above the list. A good choice is `\\` because it will disappear.
+To [make sure the list does not get formatted](#preventing-formatting) so you can use your own numbering: Put a character on the line above the list. A good choice is `\` because it will disappear.
 
 ```
 \23. twenty-three 24. twenty-four 25. twenty-five     26. twenty-six
 ```
 
-Put a backslash (`\\`) before the period (`.`):
+Put a backslash (`\`) before the period (`.`):
 
 ```
 23\. twenty-three 24\. twenty-four 25\. twenty-five     26\. twenty-six
@@ -250,7 +250,7 @@ Click the `@` tool or write `@` in a description or comment to mention a member.
 
 Search through the list by starting to type the email, member name or team name. Go up and down the list with the arrow keys and click or press enter to select a member or team. For a member or team to appear in this list the member or team has to at least have read access to the topic board. After selecting a member or team in the list the `@` will get some extra text that can look like:
 
-`@[\<email address of member>]` or `@[\<Team name>]`
+`@[<email address of member>]` or `@[<Team name>]`
 
 ### 5.1 **Saving or submitting a mention in a topic**
 
@@ -290,7 +290,7 @@ Click the `#` tool or write `#` in a description or comment to tag a topic. Afte
 
 Search through the list by starting to type the title or topic number. Go up and down the list with the arrow keys and click or press enter to select a topic. For a topic to appear in this list the member that is tagging has to have access to the board that the topic is in. After selecting a topic in the list the `#` will get some extra text that can look like:
 
-`#[\<topic number>]`
+`#[<topic number>]`
 
 ### 6.1 **Saving or submitting a tagged topic**
 

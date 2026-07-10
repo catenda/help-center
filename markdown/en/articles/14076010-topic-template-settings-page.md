@@ -22,7 +22,7 @@ A dropdown menu will give the option to create 3 distinct types of topic templat
 
 ### 2.1 **Search**
 
-_Text search -_ `search=\<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
+_Text search -_ `search=<Search phrase>` After entering characters in the search or filter bar, the first suggested filter changes to the text search.
 
 **Content that can be searched on** Topic template name
 

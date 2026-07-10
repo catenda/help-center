@@ -10,11 +10,11 @@ De Catenda Archicad-plugin is een plugin die kan worden geïnstalleerd voor Neme
 
 Wanneer de Catenda Archicad-plugin op Windows wordt geïnstalleerd, verschijnen de installatiebestanden in de volgende map.
 
-`C:\\Program Files\\Catenda\\Catenda Archicad Connection\\\<Archicad Version>\\Add-On`
+`C:\Program Files\Catenda\Catenda Archicad Connection\<Archicad Version>\Add-On`
 
 De plugin verschijnt als ingeschakeld in de add-on manager wanneer Archicad de volgende keer wordt geopend. Houd er rekening mee dat dit verschilt van de standaard add-on map, die zich bevindt op
 
-`C:\\Program Files\\Graphisoft\\\<Archicad Version>\\Add-Ons`
+`C:\Program Files\Graphisoft\<Archicad Version>\Add-Ons`
 
 ### 1.1 **Verwijderen**
 

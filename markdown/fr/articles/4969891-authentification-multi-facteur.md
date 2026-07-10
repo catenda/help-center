@@ -46,7 +46,7 @@ Si votre application n'a pas accès à votre caméra, vous serez invité à cré
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/04-authentication-app.png)
 
-Nom du compte : Le nom que vous donnez à votre compte Clé secrète : C'est la clé que vous auriez obtenue si vous aviez pu scanner le code qr. Vous pouvez utiliser votre application de caméra pour scanner le code. L'URL qui s'ouvre lorsque vous scannez le code peut ressembler à ceci : `otpauth://totp/\<Adresse e-mail du compte Catenda>?secret=\<Clé secrète>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Si vous saisissez le code après "`secret=`" dans la clé secrète que vous voyez dans l'URL qui s'ouvre, le nom du compte peut être n'importe quoi.
+Nom du compte : Le nom que vous donnez à votre compte Clé secrète : C'est la clé que vous auriez obtenue si vous aviez pu scanner le code qr. Vous pouvez utiliser votre application de caméra pour scanner le code. L'URL qui s'ouvre lorsque vous scannez le code peut ressembler à ceci : `otpauth://totp/<Adresse e-mail du compte Catenda>?secret=<Clé secrète>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Si vous saisissez le code après "`secret=`" dans la clé secrète que vous voyez dans l'URL qui s'ouvre, le nom du compte peut être n'importe quoi.
 
 > **Remarque :** Si vous créez un compte avec la mauvaise clé secrète, l'application générera des codes à usage unique de toute façon, donc Catenda pourrait ne pas accepter le code si la mauvaise clé secrète a été utilisée.
 

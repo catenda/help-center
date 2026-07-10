@@ -8,7 +8,7 @@ Le plugin Catenda Revit est un plugin qui peut être installé pour Autodesk Rev
 
 Lorsque le plugin Catenda Revit est installé sur Windows, ses fichiers d'installation apparaîtront dans le dossier suivant.
 
-`C:\\ProgramData\\Autodesk\\ApplicationPlugins\\CatendaHub.bundle`
+`C:\ProgramData\Autodesk\ApplicationPlugins\CatendaHub.bundle`
 
 ### 1.1 **Désinstallation**
 

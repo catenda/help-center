@@ -14,8 +14,8 @@ Voir ci-dessous les différents paramètres pour afficher vos données :
 
 Les données PC des deux formats de fichier suivants peuvent être prévisualisées sur Catenda.
 
-- `\*.e57`
-- `\*.las`
+- `*.e57`
+- `*.las`
 
 Les PC peuvent être téléchargés comme n'importe quel autre document dans la section Documents. Pour ces deux formats de fichier, des fichiers jusqu'à 25 GB peuvent être téléchargés dans la section Documents. Plusieurs fichiers peuvent être chargés dans la section Documents et affichés ensemble dans la Visionneuse 3D.
 

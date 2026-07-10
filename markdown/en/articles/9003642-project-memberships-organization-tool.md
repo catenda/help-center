@@ -12,7 +12,7 @@ On the members page you will be able to filter for the following:
 
 The "Hide empty filters" toggle is off by default which means you see all possible filters. You can turn this filter button on to hide any filters have no results.
 
-### 1.2 **Project -** `project=\<Project GUID>`
+### 1.2 **Project -** `project=<Project GUID>`
 
 With this filter you can filter for all entries of a project
 
@@ -20,7 +20,7 @@ With this filter you can filter for all entries of a project
 
 With this filter you can filter on if a user is an administrator or a member of a project
 
-### 1.4 **User -** `user=\<User GUID>`
+### 1.4 **User -** `user=<User GUID>`
 
 With this filter you can filter for all the entries belonging to one user
 

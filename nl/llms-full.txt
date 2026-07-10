@@ -112,7 +112,7 @@ Als uw app geen toegang tot uw camera heeft, wordt u gevraagd om handmatig een a
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/04-authentication-app.png)
 
-Accountnaam: De naam die u aan uw account geeft Geheime sleutel: Dit is de sleutel die u zou hebben gekregen als u de QR-code zou hebben kunnen scannen. U kunt uw camera-app gebruiken om de code te scannen. De URL die opent wanneer u de code scant, kan er als volgt uitzien: `otpauth://totp/\<Catenda account e-mailadres>?secret=\<Geheime sleutel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Als u de code invoert na "`secret=`" in de geheime sleutel die u in de geopende URL ziet, kan de accountnaam alles zijn.
+Accountnaam: De naam die u aan uw account geeft Geheime sleutel: Dit is de sleutel die u zou hebben gekregen als u de QR-code zou hebben kunnen scannen. U kunt uw camera-app gebruiken om de code te scannen. De URL die opent wanneer u de code scant, kan er als volgt uitzien: `otpauth://totp/<Catenda account e-mailadres>?secret=<Geheime sleutel>&issuer=Catenda&algorithm=SHA1&digits=6&period=30` Als u de code invoert na "`secret=`" in de geheime sleutel die u in de geopende URL ziet, kan de accountnaam alles zijn.
 
 > **Opmerking:** Als u een account met de verkeerde geheime sleutel aanmaakt, genereert de app toch eenmalige codes, dus Catenda accepteert de code mogelijk niet als de verkeerde geheime sleutel werd gebruikt.
 
@@ -439,11 +439,11 @@ De Catenda Archicad-plugin is een plugin die kan worden geïnstalleerd voor Neme
 
 Wanneer de Catenda Archicad-plugin op Windows wordt geïnstalleerd, verschijnen de installatiebestanden in de volgende map.
 
-`C:\\Program Files\\Catenda\\Catenda Archicad Connection\\\<Archicad Version>\\Add-On`
+`C:\Program Files\Catenda\Catenda Archicad Connection\<Archicad Version>\Add-On`
 
 De plugin verschijnt als ingeschakeld in de add-on manager wanneer Archicad de volgende keer wordt geopend. Houd er rekening mee dat dit verschilt van de standaard add-on map, die zich bevindt op
 
-`C:\\Program Files\\Graphisoft\\\<Archicad Version>\\Add-Ons`
+`C:\Program Files\Graphisoft\<Archicad Version>\Add-Ons`
 
 ### 1.1 **Verwijderen**
 
@@ -627,7 +627,7 @@ De Desktop Connector kan ervoor zorgen dat bestanden op een lokaal systeem actue
 
 Wanneer de Catenda Desktop Connector op Windows is geïnstalleerd, verschijnen de installatiebestanden in de volgende map.
 
-`C:\\Program Files\\Catenda Hub Desktop Connector`
+`C:\Program Files\Catenda Hub Desktop Connector`
 
 ### 3.1 **Verwijderen**
 
@@ -807,7 +807,7 @@ Klik op deze knop om terug te gaan naar de [startpagina](#home-page)
 
 Met deze knop opent u de maplocatie van de Desktop Connector-logboeken op het lokale systeem. De standaardlocatie van deze logboeken is:
 
-`C:\\Users\\\<Windows account name>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp`
+`C:\Users\<Windows account name>\AppData\Local\User Name\2b92d867-496c-47d1-ac42-fbf8fa355177\Cache\BimsyncApp`
 
 # Catenda Navisworks plugin
 
@@ -844,11 +844,11 @@ Catenda Hub is een BIM-samenwerkingshulpmiddel met ondersteuning voor alle build
 
 Wanneer de Catenda Navisworks plugin op Windows wordt geïnstalleerd, verschijnen de installatiebestanden in de volgende map.
 
-`C:\\ProgramData\\Autodesk\\ApplicationPlugins\\Catenda.BCF.bundle`
+`C:\ProgramData\Autodesk\ApplicationPlugins\Catenda.BCF.bundle`
 
 De instellingen die in de plugin zijn geconfigureerd, zijn hier te vinden:
 
-`C:\\Users\\\<Username>\\AppData\\Local\\Autodesk\_Inc\\Roamer.exe\_Url\_\<GUID>\\\<Version>`
+`C:\Users\<Username>\AppData\Local\Autodesk_Inc\Roamer.exe_Url_<GUID>\<Version>`
 
 ### 4.1 **Verwijderingen**
 
@@ -1150,7 +1150,7 @@ Revisie Het revisienummer voor het document
 
 U kunt eenvoudig de IFC-modellen van uw Catenda-project downloaden met behulp van deze plugin en de acties in het tabblad Modellen. Als u naar uw lokale apparaat wilt downloaden: Klik op de downloadknop voor elk model dat u wilt downloaden. De modellen worden opgeslagen in een nieuwe map met de projectnaam onder het downloadpad dat is opgegeven op het tabblad Instellingen. Bijvoorbeeld:
 
-`C:\\...\\Documenten\\Catenda projectnaam`
+`C:\...\Documenten\Catenda projectnaam`
 
 ### 10.9 **Een samengevoegd .nwf-bestand maken met IFC's van Catenda Hub**
 
@@ -1166,7 +1166,7 @@ De Catenda Revit plugin is een plugin die kan worden geïnstalleerd voor Autodes
 
 Wanneer de Catenda Revit plugin op Windows wordt geïnstalleerd, worden de installatiebestanden in de volgende map weergegeven.
 
-`C:\\ProgramData\\Autodesk\\ApplicationPlugins\\CatendaHub.bundle`
+`C:\ProgramData\Autodesk\ApplicationPlugins\CatendaHub.bundle`
 
 ### 1.1 **Verwijderen**
 
@@ -1546,15 +1546,15 @@ De verschillende filters in het filtermenu worden alleen weergegeven als er onde
 
 ### 2.1 **Mijn onderwerpen**
 
-Toegewezen aan mij - `assigned-user=\<User GUID>&assigned-team=\<Team GUID>` _Toegewezen gebruiker_ - `assigned-user=\<User GUID>` _Mijn teams_ - `assigned-team=\<Team GUID>` _Aangevraagd door mij_ - `requester-user=\<Your GUID>` Onderwerpen _die ik volg_ - `followed-by=me` _die mij noemen_ - `mentioned=me`
+Toegewezen aan mij - `assigned-user=<User GUID>&assigned-team=<Team GUID>` _Toegewezen gebruiker_ - `assigned-user=<User GUID>` _Mijn teams_ - `assigned-team=<Team GUID>` _Aangevraagd door mij_ - `requester-user=<Your GUID>` Onderwerpen _die ik volg_ - `followed-by=me` _die mij noemen_ - `mentioned=me`
 
 > **Opmerking:** Als u een koppeling deelt met de filters "Onderwerp dat ik volg" of "Die mij noemen" actief, zal de gebruiker die de koppeling opent het onderwerpenbord gefilterd hebben voor onderwerpen die hij volgt en onderwerpen waarin hij is genoemd, en niet voor onderwerpen die u volgt en onderwerpen waarin u bent genoemd. Gebruik [tekstzoeken](#text-search) om onderwerpen te delen waarin u bent genoemd
 
-_Gemaakt door mij_ - `created-by=\<User GUID>`
+_Gemaakt door mij_ - `created-by=<User GUID>`
 
 ### 2.2 **Status / Type**
 
-_Alle open status_ - `status-type=open` _Specifieke open status_ - `status-type=\<Status GUID>` _Alle gesloten status_ - `status-type=closed` _Specifieke gesloten status_ - `status-type=\<Status GUID>` _Type_ - `type=\<Type GUID>`
+_Alle open status_ - `status-type=open` _Specifieke open status_ - `status-type=<Status GUID>` _Alle gesloten status_ - `status-type=closed` _Specifieke gesloten status_ - `status-type=<Status GUID>` _Type_ - `type=<Type GUID>`
 
 ### 2.3 **Einddatum**
 
@@ -1562,37 +1562,37 @@ _Verlopen_ - `due=overdue` _Alles met een einddatum_ - `due=present` _Geen eindd
 
 ### 2.4 **Bijgewerkt**
 
-Met het datumfilter kunt u een tijdspanne selecteren voor wanneer de onderwerpen voor het laatst zijn bijgewerkt. _Bijgewerkt_ - `updated-from=\<Epoch Unix Timestamp>&updated-to=\<Epoch Unix Timestamp>` Lees [dit](https://support.catenda.com/en/articles/6511685-date-filter) artikel om te leren hoe u eenvoudig datums op de pagina kunt selecteren.
+Met het datumfilter kunt u een tijdspanne selecteren voor wanneer de onderwerpen voor het laatst zijn bijgewerkt. _Bijgewerkt_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Lees [dit](https://support.catenda.com/en/articles/6511685-date-filter) artikel om te leren hoe u eenvoudig datums op de pagina kunt selecteren.
 
 ### 2.5 **Toegewezen aan / Aangevraagd door**
 
-_Niet toegewezen_ - `assigned=unassigned` _Geen team toegewezen_ - `assigned-team=unassigned` _Toegewezen aan team_ - `assigned-team=\<Team GUID>` _Niet toegewezen aan gebruiker_ - `assigned-user=unassigned` _Toegewezen aan gebruiker_ - `assigned-user=\<User GUID>` Operator toewijzen - `assigned-op=and` Standaard kunt u alleen zoeken naar de toegewezen gebruiker OF het toegewezen team. In Catenda Hub kunt u een toewijzing instellen als gebruiker@team Om alle onderwerpen van dit type te zoeken\*\*,\*\* filtert u op het team en de gebruiker, en voegt u &assigned-op=and toe aan het einde van de URL.
+_Niet toegewezen_ - `assigned=unassigned` _Geen team toegewezen_ - `assigned-team=unassigned` _Toegewezen aan team_ - `assigned-team=<Team GUID>` _Niet toegewezen aan gebruiker_ - `assigned-user=unassigned` _Toegewezen aan gebruiker_ - `assigned-user=<User GUID>` Operator toewijzen - `assigned-op=and` Standaard kunt u alleen zoeken naar de toegewezen gebruiker OF het toegewezen team. In Catenda Hub kunt u een toewijzing instellen als gebruiker@team Om alle onderwerpen van dit type te zoeken\*\*,\*\* filtert u op het team en de gebruiker, en voegt u &assigned-op=and toe aan het einde van de URL.
 
-_Niet aangevraagd_ - `requester=unassigned` _Niet aangevraagd door team_ - `requester-team=unassigned` _Niet aangevraagd door gebruiker_ - `requester-user=unassigned` _Aangevraagd door gebruiker_ - `requester-user=\<User GUID>`
+_Niet aangevraagd_ - `requester=unassigned` _Niet aangevraagd door team_ - `requester-team=unassigned` _Niet aangevraagd door gebruiker_ - `requester-user=unassigned` _Aangevraagd door gebruiker_ - `requester-user=<User GUID>`
 
 ### 2.6 **Gemaakt door**
 
-_Gemaakt door gebruiker_ - `created-by=\<User GUID>`
+_Gemaakt door gebruiker_ - `created-by=<User GUID>`
 
 ### 2.7 **Milestone**
 
-_Milestone_ - `milestone=\<Milestone GUID>`
+_Milestone_ - `milestone=<Milestone GUID>`
 
 ### 2.8 **Aangepast veld**
 
-_Aangepast veld heeft waarde_ - `custom-field-has-value-\<Custom field GUID>=true` Met de optie "heeft waarde" in het filtermenu kunnen alle onderwerpen met een voor dat aangepaste veld geconfigureerde waarde worden gefilterd. Aangepaste veldtypen die kunnen worden gefilterd op heeft waarde: Datum Decimaal Vervolgkeuzelijst Geheel getal Tekst
+_Aangepast veld heeft waarde_ - `custom-field-has-value-<Custom field GUID>=true` Met de optie "heeft waarde" in het filtermenu kunnen alle onderwerpen met een voor dat aangepaste veld geconfigureerde waarde worden gefilterd. Aangepaste veldtypen die kunnen worden gefilterd op heeft waarde: Datum Decimaal Vervolgkeuzelijst Geheel getal Tekst
 
-_Aangepast veld specifieke waarde_ - `custom-field-item-\<Custom field GUID>=\<Value GUID>` Aangepaste veldtypen die kunnen worden gefilterd op specifieke waarde uit het filtermenu: Vervolgkeuzelijst
+_Aangepast veld specifieke waarde_ - `custom-field-item-<Custom field GUID>=<Value GUID>` Aangepaste veldtypen die kunnen worden gefilterd op specifieke waarde uit het filtermenu: Vervolgkeuzelijst
 
 Sommige waarden in aangepaste velden waarvan waarden kunnen worden geconfigureerd, kunnen worden gefilterd. Filter op waarden door een zoekfrase in de zoek- of filterbalk in te voeren en het bijbehorende aangepaste veld te selecteren. Aangepaste veldtypen die kunnen worden gefilterd door in te voeren in de zoek- of filterbalk: Decimaal Vervolgkeuzelijst Geheel getal Tekst
 
-_Aangepast veld heeft geen waarde_ - `custom-field-has-value-\<Custom field GUID>=false` Filter op alle onderwerpen waarbij een aangepast veld geen waarde heeft. Aangepaste veldtypen die kunnen worden gefilterd op geen waarde: Datum Decimaal Vervolgkeuzelijst Geheel getal Tekst
+_Aangepast veld heeft geen waarde_ - `custom-field-has-value-<Custom field GUID>=false` Filter op alle onderwerpen waarbij een aangepast veld geen waarde heeft. Aangepaste veldtypen die kunnen worden gefilterd op geen waarde: Datum Decimaal Vervolgkeuzelijst Geheel getal Tekst
 
 > **Opmerking:** Aangepaste velden die als verplicht zijn ingesteld, hebben altijd een waarde. U kunt daarom niet zoeken naar "heeft waarde" of "heeft geen waarde" voor een aangepast veld dat als verplicht is ingesteld.
 
 ### 2.9 **Label**
 
-_Label_ - `label=\<Label GUID>` Labels in hun eigen labelgroep worden in een aparte lijst weergegeven.
+_Label_ - `label=<Label GUID>` Labels in hun eigen labelgroep worden in een aparte lijst weergegeven.
 
 ### 2.10 **Koppelingen**
 
@@ -1620,7 +1620,7 @@ Klik op het filter om het bord op de opgeslagen set filters die een naam hebben 
 
 ### 3.2 **Tekstzoeken**
 
-_Tekstzoeken -_ `search=\<Search phrase>` Na het invoeren van tekens in de zoek- of filterbalk verandert het eerste voorgestelde filter in tekstzoeken.
+_Tekstzoeken -_ `search=<Search phrase>` Na het invoeren van tekens in de zoek- of filterbalk verandert het eerste voorgestelde filter in tekstzoeken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/04-text-search.png)
 
@@ -1640,19 +1640,19 @@ Drie of meer tekens Inhoud die overeenkomt met de zoekfrase in elk deel van de i
 
 Lidnaam of teamnaam Zoek op de naam van het lid of team om alle normale tekstvoorvallen van die lidnaam of teamnaam te vinden.
 
-Vermeld lid Zoek op het e-mailadres van een lid om alle normale tekstvoorvallen van dat e-mailadres te vinden. Dit omvat waar zij zijn genoemd. Zoek op `#[\<E-mailadres van lid>]` om alleen de plaatsen te vinden waar dat lid wordt genoemd.
+Vermeld lid Zoek op het e-mailadres van een lid om alle normale tekstvoorvallen van dat e-mailadres te vinden. Dit omvat waar zij zijn genoemd. Zoek op `#[<E-mailadres van lid>]` om alleen de plaatsen te vinden waar dat lid wordt genoemd.
 
 Vermeld team Vermelde teams kunnen worden doorzocht door de GUID van dat team te zoeken. Ga naar [de inhoudspagina van dat team](https://support.catenda.com/en/articles/7891755-team-page) door op de naam ervan op het [tabblad Teams van de pagina Leden en teams](https://support.catenda.com/en/articles/4670291-members-and-teams-page) te klikken om de GUID van een team te vinden. De URL ziet er ongeveer als volgt uit: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 
-Zoek op de team GUID om alle normale tekstvoorvallen van die team GUID te vinden. Dit omvat waar zij zijn genoemd. Zoek op `#[\<team GUID>]` om alleen de plaatsen te vinden waar dat team wordt genoemd.
+Zoek op de team GUID om alle normale tekstvoorvallen van die team GUID te vinden. Dit omvat waar zij zijn genoemd. Zoek op `#[<team GUID>]` om alleen de plaatsen te vinden waar dat team wordt genoemd.
 
 ### 3.3 **Aangepaste velden - Tekst**
 
 Als een zoekfrase begint met een unicode-teken met een unicode-waarde van 58 of hoger, worden de volgende filters naar de onderkant van de lijst met voorgestelde filters weergegeven.
 
-_Aangepast tekstveld -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Als een aangepast tekstveld is ingeschakeld in het onderwerpenbord, kan de inhoud van aangepaste tekstvelden in alle onderwerpen in het bord met dit filter worden gefilterd.
+_Aangepast tekstveld -_ `custom-field-<Custom field GUID>=<Search phrase>` Als een aangepast tekstveld is ingeschakeld in het onderwerpenbord, kan de inhoud van aangepaste tekstvelden in alle onderwerpen in het bord met dit filter worden gefilterd.
 
 ### 3.4 **Zoeken op getal**
 
@@ -1660,9 +1660,9 @@ Als een zoekfrase begint met een unicode-teken met een unicode-waarde tussen 33 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/06-number-search-phrase.png)
 
-Dit omvat de volgende tekens: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`\*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
+Dit omvat de volgende tekens: `!`,`"`,`#`,`$`,`%`,`&`,`'`,`(`,`)`,`*`,`+`,`,`,`-`,`.`,`/`,`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`
 
-_Onderwerp -_ `issues=\<issue number>` Wanneer een zoekfrase met een getal begint, wordt het onderwerpcijferzoeken weergegeven als een suggestie in de zoek- of filterbalk. Het voorgestelde filter kan er als volgt uitzien:
+_Onderwerp -_ `issues=<issue number>` Wanneer een zoekfrase met een getal begint, wordt het onderwerpcijferzoeken weergegeven als een suggestie in de zoek- of filterbalk. Het voorgestelde filter kan er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/07-number-search-phrase.png)
 
@@ -1672,15 +1672,15 @@ Filteren op één of meer onderwerpen op nummer Het is slechts mogelijk om tegel
 
 ### 3.5 **Aangepaste velden - Getal**
 
-_Aangepast gehele getal veld -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Als een aangepast gehele getal veld is ingeschakeld in het onderwerpenbord, kan de inhoud van aangepaste gehele getal velden in alle onderwerpen in het bord met dit filter worden gefilterd.
+_Aangepast gehele getal veld -_ `custom-field-<Custom field GUID>=<Search phrase>` Als een aangepast gehele getal veld is ingeschakeld in het onderwerpenbord, kan de inhoud van aangepaste gehele getal velden in alle onderwerpen in het bord met dit filter worden gefilterd.
 
-_Aangepast decimaal veld -_ `custom-field-\<Custom field GUID>=\<Search phrase>` Als een aangepast decimaal veld is ingeschakeld in het onderwerpenbord, kan de inhoud van aangepaste decimale velden in alle onderwerpen in het bord met dit filter worden gefilterd.
+_Aangepast decimaal veld -_ `custom-field-<Custom field GUID>=<Search phrase>` Als een aangepast decimaal veld is ingeschakeld in het onderwerpenbord, kan de inhoud van aangepaste decimale velden in alle onderwerpen in het bord met dit filter worden gefilterd.
 
 ### 3.6 **Aangepaste velden - Vervolgkeuzelijst**
 
 Als een zoekfrase overeenkomt met de naam van een waarde in een filter, wordt het best overeenkomende filter in het suggestiebox voorgesteld.
 
-_Aangepast vervolgkeuzelijstveld_ _-_ `custom-field-item-\<Custom field GUID>=\<Dropdown value GUID>` Als de zoekfrase overeenkomt met een waarde in een aangepast vervolgkeuzelijstveld met maximaal 10 waarden, wordt voorgesteld om op die vervolgkeuzelijstwaarde te zoeken.
+_Aangepast vervolgkeuzelijstveld_ _-_ `custom-field-item-<Custom field GUID>=<Dropdown value GUID>` Als de zoekfrase overeenkomt met een waarde in een aangepast vervolgkeuzelijstveld met maximaal 10 waarden, wordt voorgesteld om op die vervolgkeuzelijstwaarde te zoeken.
 
 # IFC Export Archicad Handleiding
 
@@ -2248,8 +2248,8 @@ Zie hieronder verschillende instellingen voor het weergeven van uw gegevens:
 
 PC-gegevens van de volgende twee bestandsindelingen kunnen in Catenda worden bekeken.
 
-- `\*.e57`
-- `\*.las`
+- `*.e57`
+- `*.las`
 
 PC kan zoals elk ander document in het documentgedeelte worden geüpload. Voor deze twee bestandsindelingen kunnen bestanden tot 25 GB naar het documentgedeelte worden geüpload. Meerdere bestanden kunnen in het documentgedeelte worden geladen en samen in de 3D Viewer worden weergegeven.
 
@@ -2860,7 +2860,7 @@ wordt: [Catenda Hub](https://hub.catenda.com)
 
 ### 3.4 **Opmaak voorkomen**
 
-Door woorden in niet-letter- of nummertekens in te pakken, kunt u deze er anders uit laten zien. Dit is niet altijd gewenst. Als u `\\` voor zo'n teken plaatst, verdwijnt de `\\`. Alle opmaak die voor deze tekens zou zijn toegepast, werkt dan niet meer. Als u `\\` op een lege regel plaatst die geen onderdeel is van een [lijst](#lists), blijft het resultaat ook een lege regel.
+Door woorden in niet-letter- of nummertekens in te pakken, kunt u deze er anders uit laten zien. Dit is niet altijd gewenst. Als u `\` voor zo'n teken plaatst, verdwijnt de `\`. Alle opmaak die voor deze tekens zou zijn toegepast, werkt dan niet meer. Als u `\` op een lege regel plaatst die geen onderdeel is van een [lijst](#lists), blijft het resultaat ook een lege regel.
 
 ## 4. **Tekst opsplitsen en structuur toevoegen**
 
@@ -2888,7 +2888,7 @@ _Een Catenda-afbeeldingsdocumentkoppeling ophalen_ Als u met de rechtermuisknop 
 
 ### 4.2 **Lijsten**
 
-**Ongeordende lijsten** Begin een ongeordende lijst met een lege regel erboven, vervolgens een koppelteken (`-`), plus (`+`), of een asterisk (`\*`) gevolgd door een spatie. Voeg 4 spaties of een tabspatie in aan het begin van de regel om een sublijst te maken.
+**Ongeordende lijsten** Begin een ongeordende lijst met een lege regel erboven, vervolgens een koppelteken (`-`), plus (`+`), of een asterisk (`*`) gevolgd door een spatie. Voeg 4 spaties of een tabspatie in aan het begin van de regel om een sublijst te maken.
 
 ```
  - Eerste element - Tweede element     - Voeg 4 spaties toe aan het begin van de regel om een sublijst te maken.
@@ -2958,13 +2958,13 @@ Zal veranderen in:
 
 Als u de nummering opnieuw wilt instellen en opnieuw met één wilt beginnen op een tweede lijst in dezelfde bericht, kunt u een lege regel of een [scheidingslijn](#dividers) ertussen plaatsen.
 
-Om [ervoor te zorgen dat de lijst niet wordt opgemaakt](#preventing-formatting) zodat u uw eigen nummering kunt gebruiken: Plaats een teken op de regel boven de lijst. Een goed keuze is `\\` omdat het verdwijnt.
+Om [ervoor te zorgen dat de lijst niet wordt opgemaakt](#preventing-formatting) zodat u uw eigen nummering kunt gebruiken: Plaats een teken op de regel boven de lijst. Een goed keuze is `\` omdat het verdwijnt.
 
 ```
 \23. drieëntwintig 24. vierentwintig 25. vijfentwintig     26. zesentwintig
 ```
 
-Plaats een backslash (`\\`) voor de punt (`.`):
+Plaats een backslash (`\`) voor de punt (`.`):
 
 ```
 23\. drieëntwintig 24\. vierentwintig 25\. vijfentwintig     26\. zesentwintig
@@ -3010,11 +3010,11 @@ zal dit resulteren
 
 ### 4.6 **Codeblokken**
 
-U kunt als volgt enkele regels code invoegen: Twee \`\\`\` rondom tekst ziet er als volgt uit:
+U kunt als volgt enkele regels code invoegen: Twee \`\`\` rondom tekst ziet er als volgt uit:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/08-code-blocks.png)
 
-Drie backticks `\`\\`\\`\` boven en onder wat tekst ziet er als volgt uit:
+Drie backticks `\`\\`\`\` boven en onder wat tekst ziet er als volgt uit:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/09-code-blocks.png)
 
@@ -3032,7 +3032,7 @@ Klik het `@`-gereedschap of schrijf `@` in een beschrijving of opmerking om een 
 
 Blader door de lijst door te beginnen met het typen van het e-mailadres, lidnaam of teamnaam. Ga omhoog en omlaag in de lijst met de pijltoetsen en klik of druk op Enter om een lid of team te selecteren. Opdat een lid of team in deze lijst wordt weergegeven, moet het lid of team minstens leeztoegang tot de topic-bord hebben. Na het selecteren van een lid of team in de lijst krijgt de `@` wat extra tekst die er als volgt uit kan zien:
 
-`@[\<e-mailadres van lid>]` of `@[\<Teamnaam>]`
+`@[<e-mailadres van lid>]` of `@[<Teamnaam>]`
 
 ### 5.1 **Opslaan of indienen van een vermelding in een topic**
 
@@ -3072,7 +3072,7 @@ Klik het `#`-gereedschap of schrijf `#` in een beschrijving of opmerking om een 
 
 Blader door de lijst door te beginnen met het typen van de titel of topic-nummer. Ga omhoog en omlaag in de lijst met de pijltoetsen en klik of druk op Enter om een topic te selecteren. Opdat een topic in deze lijst verschijnt, moet het lid dat het topic tagt, toegang hebben tot de bord waarin het topic zich bevindt. Na het selecteren van een topic in de lijst krijgt de `#` wat extra tekst die er als volgt uit kan zien:
 
-`#[\<topic-nummer>]`
+`#[<topic-nummer>]`
 
 ### 6.1 **Opslaan of indienen van een getagd topic**
 

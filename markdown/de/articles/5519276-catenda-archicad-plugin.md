@@ -10,11 +10,11 @@ Das Catenda Archicad-Plugin ist ein Plugin, das für Nemetchek Archicad installi
 
 Wenn das Catenda Archicad-Plugin unter Windows installiert wird, erscheinen seine Installationsdateien im folgenden Ordner.
 
-`C:\\Program Files\\Catenda\\Catenda Archicad Connection\\\<Archicad Version>\\Add-On`
+`C:\Program Files\Catenda\Catenda Archicad Connection\<Archicad Version>\Add-On`
 
 Das Plugin wird beim nächsten Öffnen von Archicad als aktiviert im Add-on-Manager angezeigt. Beachten Sie, dass dies sich vom Standard-Add-on-Ordner unterscheidet, der sich unter folgender Adresse befindet
 
-`C:\\Program Files\\Graphisoft\\\<Archicad Version>\\Add-Ons`
+`C:\Program Files\Graphisoft\<Archicad Version>\Add-Ons`
 
 ### 1.1 **Deinstallation**
 

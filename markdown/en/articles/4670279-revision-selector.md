@@ -28,7 +28,7 @@ Find the 3D documents you are looking for by searching on part of their names.
 
 A partial match of 3 roman letters or more can be matched in the list of 3D document names. Whitespace characters like space "" are not included in this amount.
 
-**Match after separator** After a separator the three character rule is reset and only three or more characters after a separater can be matched. The three character rule is reset after each separator. Separators can be characters like underscores "`\_`" or a dashes "`-`".
+**Match after separator** After a separator the three character rule is reset and only three or more characters after a separater can be matched. The three character rule is reset after each separator. Separators can be characters like underscores "`_`" or a dashes "`-`".
 
 **Content panel** To narrow down your search further consider searching in the content panel. Here you can filter on more information than just the name of the model. In the content panel all 3D documents that have been linked to a model can be found on the [models page](https://support.catenda.com/en/articles/4670286-models-page). 3D documents that have not been linked to a document can be found on the [documents page](https://support.catenda.com/en/articles/8204673-documents-page).
 

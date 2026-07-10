@@ -32,11 +32,11 @@ Linked to selected objects - `link=backlink&subFolders=true` If it is not alread
 
 ### 1.5 **Status (latest revision) - Status workflow only**
 
-Published - `documentStatus=published&subFolders=true&documentType=file` Missing status - `documentStatus=published-without-status&subFolders=true` Project published status - `documentStatus=\<GUID>&subFolders=true` Shared - `documentStatus=shared&subFolders=true&documentType=file` Shared statuses are only available in the workspace tab Project shared status - `documentStatus=\<GUID>&subFolders=true` Has no revision - `documentStatus=no-stage&subFolders=true`
+Published - `documentStatus=published&subFolders=true&documentType=file` Missing status - `documentStatus=published-without-status&subFolders=true` Project published status - `documentStatus=<GUID>&subFolders=true` Shared - `documentStatus=shared&subFolders=true&documentType=file` Shared statuses are only available in the workspace tab Project shared status - `documentStatus=<GUID>&subFolders=true` Has no revision - `documentStatus=no-stage&subFolders=true`
 
 ### 1.6 **Drafts - Status workflow only**
 
-Has new drafts - `newDrafts=exists&subFolders=true` Draft status name - `newDrafts=\<Draft status GUID>&subFolders=true` If there are multiple draft statuses each draft status can be filtered on. Has no new drafts - `newDrafts=does-not-exist&subFolders=true`
+Has new drafts - `newDrafts=exists&subFolders=true` Draft status name - `newDrafts=<Draft status GUID>&subFolders=true` If there are multiple draft statuses each draft status can be filtered on. Has no new drafts - `newDrafts=does-not-exist&subFolders=true`
 
 ### 1.7 **Models**
 
@@ -44,49 +44,49 @@ Is model - `model=is-model&subFolders=true` Is not model - `model=is-not-model&s
 
 ### 1.8 **Document created by**
 
-Member name - `owner=\<Member GUID>&subFolders=true`
+Member name - `owner=<Member GUID>&subFolders=true`
 
 ### 1.9 **Revision created by**
 
-Member name - `revisionCreatedBy=\<GUID>&subFolders=true`
+Member name - `revisionCreatedBy=<GUID>&subFolders=true`
 
 ### 1.10 **Published by**
 
-Member name - `publishedBy=\<Member GUID>&subFolders=true`
+Member name - `publishedBy=<Member GUID>&subFolders=true`
 
 ### 1.11 **Date filters**
 
-Published - `publishedAtFrom=\<UTC timestamp>&publishedAtTo=\<UTC timestamp>` Click on select dates to select dates in between which you would like to search Click [here](https://support.catenda.com/en/articles/6511685-date-filter) to learn more about the date filter
+Published - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Click on select dates to select dates in between which you would like to search Click [here](https://support.catenda.com/en/articles/6511685-date-filter) to learn more about the date filter
 
 ### 1.12 **Open approvals - Status workflow only**
 
-Approval name - `approval=\<Approval number>&subFolders=true`
+Approval name - `approval=<Approval number>&subFolders=true`
 
 ### 1.13 **Documents - Labels**
 
-All labels that are not part of a label group will be displayed in a menu called documents. Label name - `labels=\<Label GUID>6&subFolders=true`
+All labels that are not part of a label group will be displayed in a menu called documents. Label name - `labels=<Label GUID>6&subFolders=true`
 
 ### 1.14 **Label group name**
 
-There will be one menu per label group name Label name - `labels=\<Label GUID>6&subFolders=true`
+There will be one menu per label group name Label name - `labels=<Label GUID>6&subFolders=true`
 
 The contents of custom fields where values can be configured can be filtered by writing a search pharse in the search or filter bar and selecting the corresponding filter in the suggested filter.
 
 ### 1.15 **Custom field**
 
-_Custom field has value_ - `custom-field-has-value-\<Custom field GUID>=true` With the "has value" option in the filter menu all topics with that have a value configured for that custom field can be filtered. Custom field types that can be filtered on has value: Date Decimal Dropdown Integer Text
+_Custom field has value_ - `custom-field-has-value-<Custom field GUID>=true` With the "has value" option in the filter menu all topics with that have a value configured for that custom field can be filtered. Custom field types that can be filtered on has value: Date Decimal Dropdown Integer Text
 
-_Custom field specific value_ - `custom-field-item-\<Custom field GUID>=\<Value GUID>` Specific values in fields for fields with up to 10 values can be filtered for. Custom field types that can be filtered on specific value from the filter menu: Dropdown
+_Custom field specific value_ - `custom-field-item-<Custom field GUID>=<Value GUID>` Specific values in fields for fields with up to 10 values can be filtered for. Custom field types that can be filtered on specific value from the filter menu: Dropdown
 
 Some values in custom fields where values can be configured can be filtered. Filter for values by writing a search phrase in the search or filter bar and select the corresponding custom field. Custom field types that can be filtered by typing in the search or filter bar: Decimal Dropdown Integer Text
 
-_Custom field has no value_ - `custom-field-has-value-\<Custom field GUID>=false` Filter on all topics where a custom fields does not have any value. Custom field types that can be filtered on no value: Date Decimal Dropdown Integer Text
+_Custom field has no value_ - `custom-field-has-value-<Custom field GUID>=false` Filter on all topics where a custom fields does not have any value. Custom field types that can be filtered on no value: Date Decimal Dropdown Integer Text
 
 > **Note:** Custom fields that are set as required will always have a value. You will therefore not be able to search for "has value" or "has no value" can therefore not be searched for a custom field that is set as required.
 
 ### 1.16 **Collections**
 
-Collection name - `collections=\<GUID>&subFolders=true`
+Collection name - `collections=<GUID>&subFolders=true`
 
 ### 1.17 **Deleted**
 

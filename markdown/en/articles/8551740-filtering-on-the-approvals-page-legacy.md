@@ -22,7 +22,7 @@ Click [here](https://support.catenda.com/en/articles/8551755-saving-filters) to 
 
 ### 1.3 **My approvals**
 
-_I am publisher_ - `publisher=\<Member GUID>` _Created by me_ - `created-by=\<Member GUID>`
+_I am publisher_ - `publisher=<Member GUID>` _Created by me_ - `created-by=<Member GUID>`
 
 ### 1.4 **Status**
 
@@ -30,7 +30,7 @@ _Open_ - `state=pending` - Default _Published_ - `state=published` _Discarded_ -
 
 ### 1.5 **Reviewers**
 
-_Member name_ - `reviewers=\<Member GUID>`
+_Member name_ - `reviewers=<Member GUID>`
 
 ### 1.6 **Due date**
 
@@ -38,7 +38,7 @@ _Overdue_ - `due=overdue` _Less than a day_ - `due=2d` _Less than a week_ - `due
 
 ### 1.7 **Text search**
 
-_Text search -_ `search=\<Search phrase>`
+_Text search -_ `search=<Search phrase>`
 
 **Content that can be searched on** Approval request title
 

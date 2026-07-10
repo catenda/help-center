@@ -44,7 +44,7 @@ Le connecteur de bureau peut s'assurer que les fichiers sur un système local re
 
 Quand le connecteur de bureau Catenda est installé sur Windows, ses fichiers d'installation apparaîtront dans le dossier suivant.
 
-`C:\\Program Files\\Catenda Hub Desktop Connector`
+`C:\Program Files\Catenda Hub Desktop Connector`
 
 ### 3.1 **Désinstallation**
 
@@ -224,4 +224,4 @@ Cliquez sur ce bouton pour retourner à la [page d'accueil](#home-page)
 
 Ce bouton ouvre l'emplacement du dossier des journaux du connecteur de bureau sur le système local. L'emplacement par défaut de ces journaux est :
 
-`C:\\Users\\\<nom du compte Windows>\\AppData\\Local\\User Name\\2b92d867-496c-47d1-ac42-fbf8fa355177\\Cache\\BimsyncApp`
+`C:\Users\<nom du compte Windows>\AppData\Local\User Name\2b92d867-496c-47d1-ac42-fbf8fa355177\Cache\BimsyncApp`

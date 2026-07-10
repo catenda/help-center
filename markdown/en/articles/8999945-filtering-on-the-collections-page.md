@@ -38,7 +38,7 @@ _All collections_ - `followers=all` All collections with or without follower. Th
 
 ### 3.4 **Created by me**
 
-Created by - `createdBy=\<Creator GUID>` There is no user interface button for this filter. When you filter on private or shared with project, this will automatically be set to your own user but you can change it for the GUID of another user.
+Created by - `createdBy=<Creator GUID>` There is no user interface button for this filter. When you filter on private or shared with project, this will automatically be set to your own user but you can change it for the GUID of another user.
 
 Private - `visibility=private` Shared with project - `visibility=project-members`
 
@@ -56,7 +56,7 @@ Not shared externally - `sharedBy=not-shared`
 
 ### 3.7 **Date filters**
 
-Published - `publishedAtFrom=\<UTC timestamp>&publishedAtTo=\<UTC timestamp>` Click on select dates to select dates in between which you would like to search Click [here](https://support.catenda.com/en/articles/6511685-date-filter) to learn more about the date filter
+Published - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Click on select dates to select dates in between which you would like to search Click [here](https://support.catenda.com/en/articles/6511685-date-filter) to learn more about the date filter
 
 ## 4. **Text search**
 

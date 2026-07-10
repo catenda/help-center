@@ -4,7 +4,7 @@
 
 If a naming convention is enabled on the upload folder or a parent folder to the upload folder the local filename has to conform to the convention in order for the uplaod to go thorugh. If the filename does not follow the convention the following error is displayed.
 
-**`\<Filename> not match naming convention`**
+**`<Filename> not match naming convention`**
 
 Please upload the file manually via the browser to see which parts of the filename are missing.
 
@@ -30,7 +30,7 @@ Please ask a project administrator for access to the project. To find out who to
 
 Document names can be limited with a naming convention in Catenda. Folders cannot be limited. Without the use of a naming convention documents with any name can be uploaded. In this case Catenda might not have been able to register the file extension of the document. Folders with any name can be created. It can therefore be that the Desktop Connector runs into problems with characters in names that are reserved for Windows functionality.
 
-Typical problems arise with the following characters: `/` - Forward Slash `\\` - Backward Slash These characters are used in the file path hierarchy in Windows which causes the document to end up in the wrong place.
+Typical problems arise with the following characters: `/` - Forward Slash `\` - Backward Slash These characters are used in the file path hierarchy in Windows which causes the document to end up in the wrong place.
 
 To find an extensive list of what is reserved in Windows see here: [https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file](https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file)
 
@@ -82,7 +82,7 @@ The latest revision for one of the documents has been withdrawn. In this case th
 
 In order for the Desktop Connector to be able to extract data from a document to upload or update a document with downloaded data it needs access to the document. If the document is in use by another process it cannot access the document. If the document is in use the following error can be seen:
 
-Desktop Connector `The process cannot access the file '\<File path>' because it is being used by another process.`
+Desktop Connector `The process cannot access the file '<File path>' because it is being used by another process.`
 
 Log file
 
@@ -100,7 +100,7 @@ If the document is in use the task will stop and not continue if it cannot acces
 
 Tasks, that were manually started by clicking on Upload/Download Now in the task, display a status of Uploading or Downloading as soon as the task has started. For both tasks that were manually started and tasks that were started per schedule a message that looks like so appears in the log file when a task starts:
 
-Log file `\<Message number>|\<Date/time>|INFO|1|LoggingExtension|start logging`
+Log file `<Message number>|<Date/time>|INFO|1|LoggingExtension|start logging`
 
 ### 7.2 **Task running**
 
@@ -224,7 +224,7 @@ For folders that are on drive where Windows is installed the right folder permis
 
 In this case the log file will give the following error:
 
-`Access to the path '\<Selected local folder path> subfolder \<Path within local folder>' is denied`
+`Access to the path '<Selected local folder path> subfolder <Path within local folder>' is denied`
 
 ### 10.1 **Permission denied**
 
@@ -252,6 +252,6 @@ Clicking on Download Anyway will download the files but they will not be able to
 
 Desktop connector `Status: Redirect, click to _view downloaded files_`
 
-Log file `Access to the path '\<Path>' is denied`
+Log file `Access to the path '<Path>' is denied`
 
 Click on view downloaded files to open the location of where the files were donwloaded to.
