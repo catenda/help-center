@@ -8,6 +8,8 @@ Voici à quoi peut ressembler la page des modèles de rapport :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/01-intro.png)
 
+Les topic suivants sont décrits dans cet article :
+
 ## 1. **Actions sur la page des modèles de rapport**
 
 Les actions de la page des modèles de rapport peuvent être trouvées en cliquant sur le menu d'actions en haut à droite de la page des modèles de rapport. Voici à quoi peuvent ressembler les actions de la page des modèles de rapport :
@@ -37,6 +39,8 @@ Dès qu'un modèle de rapport est créé, il s'affichera sous forme de ligne dan
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/04-report-templates-table.png)
 
 Cliquez [ici](https://support.catenda.com/en/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec des tableaux dans Catenda.
+
+Les topic suivants sont décrits dans cette section :
 
 ### 3.1 **Contenu de la ligne**
 

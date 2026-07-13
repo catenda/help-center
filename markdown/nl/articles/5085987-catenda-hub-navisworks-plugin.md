@@ -4,6 +4,8 @@
 
 De Catenda Navisworks plugin is een plugin die kan worden geïnstalleerd voor Nemetchek Archicad. Met deze plugin kunt u samenwerken aan 3D-viewpoints, topics en Documenten met andere leden van het bouwproject.
 
+De volgende topics worden in dit artikel beschreven:
+
 ## 1. **Over de plugin**
 
 De Catenda Hub add-in voor Autodesk® Navisworks® is het perfecte gereedschap voor projecten die samenwerken in Catenda Hub. Al uw topics worden in real-time gesynchroniseerd tussen Navisworks en Catenda Hub, zodat u topics kunt maken, openen, delen en communiceren. De topic-indeling is BCF zodat de topics kunnen worden gedeeld via elke BCF-ondersteunde BIM-software of -platform. Deze add-in stelt u in staat topics naadloos vanuit Navisworks te visualiseren, maken en bewerken. U kunt ook het IFC-model dat in Catenda Hub is opgeslagen downloaden en federeren naar uw lokale client.
@@ -59,6 +61,8 @@ Dit is wat het Catenda-tabblad er kan uitzien wanneer het is geselecteerd
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/02-catenda-tab.png)
 
+De volgende topics worden in deze sectie beschreven:
+
 ### 5.1 **Catenda**
 
 De Catenda-knop in het menu Catenda-plugins van het Catenda-tabblad opent de standaardbrowser met de [aanmeldingspagina](https://support.catenda.com/en/articles/7891486-sign-in-page) van Catenda Hub.
@@ -90,6 +94,8 @@ Dit is wat het instellingenmenu er kan uitzien nadat u zich hebt aangemeld.
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/07-settings.png)
 
 Als de aanmeldingssessie is verlopen, kan de knop Vernieuwen worden gebruikt om de aanmeldingssessie te vernieuwen.
+
+De volgende topics worden in deze sectie beschreven:
 
 ### 6.1 **Verifiëren**
 
@@ -137,6 +143,8 @@ In het topicmenu kunnen geselecteerde topics worden bewerkt en kunnen nieuwe top
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/11-topic.png)
 
+De volgende topics worden in deze sectie beschreven:
+
 ### 8.1 **Navigatiepijlen**
 
 Gebruik de navigatiepijlen in het menu om tussen verschillende topics in het topic board te bewegen.
@@ -170,6 +178,8 @@ Klik op de knop Snijvlakken wissen om de snijvlakken in de Viewer te wissen.
 In het menu Clashes kunnen topics als gevolg van bevindingen van Clash Detective worden ingediend. Dit is wat het menu Clashes er kan uitzien.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/12-clashes.png)
+
+De volgende topics worden in deze sectie beschreven:
 
 ### 9.1 **Een clash-detective test uitvoeren**
 
@@ -272,6 +282,8 @@ Wijzig de Status van de clashes die zijn geselecteerd in de Catenda Navisworks p
 Download, open en append modelrevisies van het in het menu Topic Boards geselecteerde Catenda-project naar het Navisworks-project. Dit is wat het menu Modellen er kan uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/20-models.png)
+
+De volgende topics worden in deze sectie beschreven:
 
 ### 10.1 **Zoeken**
 

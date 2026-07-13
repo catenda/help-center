@@ -4,6 +4,8 @@
 
 Catenda Revit plugin er et programtillegg som kan installeres for Autodesk Revit. Med dette programtillegget kan du samarbeide om 3D-visningspunkter, topic og Dokumenter med andre medlemmer av byggeplassteamet
 
+Følgende topic er beskrevet i denne artikkelen:
+
 ## 1. **Installasjon**
 
 Når Catenda Revit plugin er installert på Windows, vil installeringsfiler vises i følgende mappe.
@@ -71,6 +73,8 @@ Tilgang til Catenda Hub-kontoen din kan tilbakekalles når som helst ved å gå 
 ## 4. **Topic-liste**
 
 Etter pålogging åpnes hovedvisningen av Catenda Hub-programtillegget. På denne siden finner du hovedmenyen for å navigere i Catenda Hub-prosjektet, topic boards og topics dine.
+
+Følgende topics er beskrevet i denne delen:
 
 ### 4.1 **Grensesnitt**
 
@@ -156,6 +160,8 @@ Du kan søke etter disse filtrene ved å skrive tekst i filterlinjen (1). Du kan
 ## 5. **Topic-detaljer**
 
 I denne visningen kan du se og redigere et bestemt topic.
+
+Følgende topics er beskrevet i denne delen:
 
 ### 5.1 **Grensesnitt**
 

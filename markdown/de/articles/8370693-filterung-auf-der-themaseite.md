@@ -46,7 +46,7 @@ Mit dem Datumsfilter können Sie einen Zeitrahmen auswählen, für den die Theme
 
 ### 2.5 **Zugewiesen an / Angefordert von**
 
-_Niemandem zugewiesen_ - `assigned=unassigned` _Keinem Team zugewiesen_ - `assigned-team=unassigned` _Dem Team zugewiesen_ - `assigned-team=<Team GUID>` _Nicht dem Benutzer zugewiesen_ - `assigned-user=unassigned` _Dem Benutzer zugewiesen_ - `assigned-user=<User GUID>` Zuweisungsoperator - `assigned-op=and` Standardmäßig können Sie nur nach dem zugewiesenen Benutzer ODER dem zugewiesenen Team suchen. In Catenda Hub können Sie einen Bevollmächtigten als user@team festlegen. Um alle Themen dieses Typs zu finden\*\*,\*\* filtern Sie nach dem Team und dem Benutzer und fügen Sie &assigned-op=and am Ende der URL hinzu.
+_Niemandem zugewiesen_ - `assigned=unassigned` _Keinem Team zugewiesen_ - `assigned-team=unassigned` _Dem Team zugewiesen_ - `assigned-team=<Team GUID>` _Nicht dem Benutzer zugewiesen_ - `assigned-user=unassigned` _Dem Benutzer zugewiesen_ - `assigned-user=<User GUID>` Zuweisungsoperator - `assigned-op=and` Standardmäßig können Sie nur nach dem zugewiesenen Benutzer ODER dem zugewiesenen Team suchen. In Catenda Hub können Sie einen Bevollmächtigten als user@team festlegen. Um alle Themen dieses Typs zu finden**,** filtern Sie nach dem Team und dem Benutzer und fügen Sie &assigned-op=and am Ende der URL hinzu.
 
 _Nicht angefordert_ - `requester=unassigned` _Nicht von Team angefordert_ - `requester-team=unassigned` _Nicht von Benutzer angefordert_ - `requester-user=unassigned` _Von Benutzer angefordert_ - `requester-user=<User GUID>`
 

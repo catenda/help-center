@@ -4,6 +4,8 @@ Filtermeny i et emnebrett kan åpnes ved å klikke på filterknappen til venstre
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/01-intro.png)
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Filtre**
 
 Klikk filterknappen øverst til venstre for at et panel skal vises på venstre side. Når et filter er brukt, endres nettadressen som vises i nettleseren med det. I denne artikkelen vises filtre slik: _Filternavn i meny_ - `Filternavn i nettadresse=Filteralternativ i nettadresse`
@@ -23,6 +25,8 @@ Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for 
 Her finner du følgende filtre:
 
 De ulike filtrene i filtermeny vises bare hvis det er emner der elementet som filtreres på har blitt konfigurert.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 2.1 **Mine emner**
 
@@ -46,7 +50,7 @@ Med datofilteret kan du velge en tidsramme for når emnene ble sist oppdatert. _
 
 ### 2.5 **Tildelt til / Etterspurt av**
 
-_Tildelt ingen_ - `assigned=unassigned` _Ingen team tildelt_ - `assigned-team=unassigned` _Tildelt team_ - `assigned-team=<Team GUID>` _Ikke tildelt bruker_ - `assigned-user=unassigned` _Tildelt bruker_ - `assigned-user=<User GUID>` Tildelt operator - `assigned-op=and` Som standard kan du bare søke etter den tildelte brukeren ELLER det tildelte teamet. I Catenda Hub kan du angi en tildelng som bruker@team For å finne alle emner av denne typen\*\*,\*\* filtrer etter teamet og brukeren, og legg til &assigned-op=and på slutten av nettadressen.
+_Tildelt ingen_ - `assigned=unassigned` _Ingen team tildelt_ - `assigned-team=unassigned` _Tildelt team_ - `assigned-team=<Team GUID>` _Ikke tildelt bruker_ - `assigned-user=unassigned` _Tildelt bruker_ - `assigned-user=<User GUID>` Tildelt operator - `assigned-op=and` Som standard kan du bare søke etter den tildelte brukeren ELLER det tildelte teamet. I Catenda Hub kan du angi en tildelng som bruker@team For å finne alle emner av denne typen**,** filtrer etter teamet og brukeren, og legg til &assigned-op=and på slutten av nettadressen.
 
 _Ikke etterspurt_ - `requester=unassigned` _Ikke etterspurt av team_ - `requester-team=unassigned` _Ikke etterspurt av bruker_ - `requester-user=unassigned` _Etterspurt av bruker_ - `requester-user=<User GUID>`
 
@@ -89,6 +93,8 @@ I tillegg til filtermeny på venstre side er det noen funksjoner som bare er til
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/02-filtering-in-the-search-or-filter-bar.png)
 
 Under søke- eller filterfeltet åpnes en meny med foreslåtte filtre. Det første filteret i filtermeny foreslås etter uthevning av søke- eller filtermeny. Trykk Enter for å bruke dette filteret, eller bruk piltastene til å navigere mellom de ulike filtrene.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 3.1 **Lagrede filtre**
 

@@ -2,9 +2,11 @@
 
 > テスト
 
-> \*\*注:\*\*プラグインのインストールファイルは[この記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
+> **注:**プラグインのインストールファイルは[この記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
 
 Catenda Archicadプラグインは、Nemetchek Archicadにインストールできるプラグインです。このプラグインを使用すると、3Dビューポイント、トピック、ドキュメントについて、建設プロジェクトの他のメンバーと協力することができます。
+
+この記事では、以下のトピックについて説明します:
 
 ## 1. **インストール**
 

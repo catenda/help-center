@@ -6,6 +6,8 @@ De samme formateringsreglene gjelder for de ulike innleggene rundt Catenda Hub. 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/01-intro.png)
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. Formateringstilgjengelighet
 
 Det er ofte mulig å se at sendte felt kan formateres ved verktøykassen som vises under feltet når feltet redigeres.
@@ -13,6 +15,8 @@ Det er ofte mulig å se at sendte felt kan formateres ved verktøykassen som vis
 > **Merk:** Zoom langt nok ut med nettleserens zoommål for å se alle verktøy.
 
 Formatering er tilgjengelig i følgende felt:
+
+Følgende emner er beskrevet i denne delen:
 
 ### 1.1 **Emneeskrivelse og kommentar**
 
@@ -45,6 +49,8 @@ Klikk [her](https://support.catenda.com/en/articles/8053352-topic-body-the-conte
 ## 3. **Stilisering av tekst**
 
 Følgende metoder lar deg stilisere teksten din:
+
+Følgende emner er beskrevet i denne delen:
 
 ### 3.1 **Fet, kursiv, gjennomstreking**
 
@@ -83,6 +89,8 @@ Ved å pakke ord i tegn som ikke er bokstaver eller tall, kan du få dem til å 
 ## 4. **Dele opp tekst og legge til struktur**
 
 Følgende metoder lar deg forbedre teksten din ved å dele den opp og legge til struktur:
+
+Følgende emner er beskrevet i denne delen:
 
 ### 4.1 **Bilder**
 
@@ -252,6 +260,8 @@ Søk gjennom listen ved å begynne å skrive e-posten, medlemmets navn eller tea
 
 `@[<e-postadresse for medlem>]` eller `@[<Teamnavn>]`
 
+Følgende emner er beskrevet i denne delen:
+
 ### 5.1 **Lagring eller innsending av nevning i et emne**
 
 Når beskrivelsen lagres eller kommentaren sendes inn, mottar relaterte medlemmer med tilgang til emnebrettet et varsel. Hvis medlemmets e-postadresse eller teamets navn er kjent, kan det også skrives manuelt, men hvis de ikke er del av emnebrettet, vil ikke de relaterte medlemmene bli varslet om at de er nevnt.
@@ -291,6 +301,8 @@ Klikk på `#`-verktøyet eller skriv `#` i en beskrivelse eller kommentar for å
 Søk gjennom listen ved å begynne å skrive tittelen eller emnenummeret. Gå opp og ned i listen med piltastene og klikk eller trykk enter for å velge et emne. For at et emne skal vises i denne listen, må medlemmet som merker emnet ha tilgang til brettet som emnet befinner seg i. Etter å ha valgt et emne i listen, vil `#` få noe ekstra tekst som kan se ut slik:
 
 `#[<emnenummer>]`
+
+Følgende emner er beskrevet i denne delen:
 
 ### 6.1 **Lagring eller innsending av merket emne**
 

@@ -4,6 +4,8 @@ Le menu de filtrage dans un tableau de topics peut être ouvert en cliquant sur 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/01-intro.png)
 
+Les topics suivants sont décrits dans cet article :
+
 ## 1. **Filtres**
 
 Cliquez sur le bouton de filtrage en haut à gauche pour qu'un panneau apparaisse sur le côté gauche. Lorsqu'un filtre est appliqué, l'URL visible dans le navigateur change en conséquence. Dans cet article, les filtres sont affichés comme suit : _Nom du filtre dans le menu_ - `Nom du filtre dans l'URL=Option du filtre dans l'URL`
@@ -23,6 +25,8 @@ Cliquez [ici](https://support.catenda.com/en/articles/8551755-saving-filters) po
 Vous trouverez ici les filtres suivants :
 
 Les différents filtres du menu de filtrage n'apparaîtront que s'il existe des topics pour lesquels l'élément filtré a été configuré.
+
+Les topics suivants sont décrits dans cette section :
 
 ### 2.1 **Mes topics**
 
@@ -89,6 +93,8 @@ En plus du menu de filtrage sur la gauche, il existe des fonctionnalités dispon
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/02-filtering-in-the-search-or-filter-bar.png)
 
 Sous la barre de recherche ou de filtrage, un menu avec des filtres suggérés s'ouvre. Le premier filtre du menu de filtrage est suggéré après la mise en surbrillance du menu de recherche ou de filtrage. Appuyez sur Entrée pour appliquer ce filtre ou utilisez les touches fléchées pour naviguer entre les différents filtres.
+
+Les topics suivants sont décrits dans cette section :
 
 ### 3.1 **Filtres enregistrés**
 

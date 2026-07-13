@@ -10,6 +10,8 @@ Teams kan også opprettes fra medlemmer og Teams-innholdssidene henholdsvis:
 
 <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/inline-f431970e0ec1.png" width="290"/>    ---    <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/inline-fa9689ce5cd0.png" width="290"/>
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Når skal jeg opprette et team?**
 
 Catenda Teams kan deles inn på hvilken som helst måte du ønsker. Typisk opprettes et team for hver fagdisiplin som prosjektdeltakerne tilhører. Separate Teams kan opprettes for individuelle arbeidsgrupper enten innenfor den fagdisiplinen eller på tvers av faggrenser. Medlemmer kan være del av flere Teams, så Teams de er del av ender opp med å beskrive de ulike rollene de har i prosjektet.
@@ -29,6 +31,8 @@ Tilgangskontroll kan delegeres til Teams. Dette kan brukes til å konfigurere ti
 Slik kan siden for opprettelse av et nytt team se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/02-create-a-new-team.png)
+
+Følgende emner er beskrevet i denne delen:
 
 ### 2.1 **Navn**
 

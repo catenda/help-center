@@ -2,6 +2,8 @@
 
 > Finn anbefalte maskinvarespesifikasjoner og optimaliseringstips for best mulig erfaring med Catenda Hub.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Maskinvareanbefalinger:**
 
 Denne maskinvareanbefalingen er bare ment for Catenda Hub i en nettleserapplikasjon. Det kan være ulike krav avhengig av detaljnivået på 3D-objektene dine. Detaljnivåer (LOD) er definert av AIA i Dokumenter G202 som LOD 100, 200, 300, 400, 500 og 600. LOD-definisjonen kan ses [her](https://assets.aiacontracts.com/ctrzdweb02/zdpdfs/aia-g202-2013-free-sample-preview.pdf).
@@ -17,6 +19,8 @@ Hvis en eller flere eksterne skjermer er koblet til en enhet, selv om Catenda ik
 ## 3. **Programvarekrav for applikasjon**
 
 Catenda Hub kan nås gjennom ulike applikasjoner på ulike systemer. Kravene for å bruke Catenda Hub er derfor en kombinasjon av kravene fra systemsoftware og applikasjonssoftware som brukes for å få tilgang til Catenda Hub.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 3.1 **Operativsystemer**
 

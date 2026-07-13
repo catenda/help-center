@@ -2,9 +2,13 @@
 
 Den nye statusarbeidsflyten er en etterspørselsfunksjon som kan aktiveres for pågående prosjekter. Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har denne funksjonen aktivert. ISO 19650-serien er en internasjonal standard for god praksis som definerer informasjonsstyringsprocesser i en bredere sammenheng av digital transformasjon i byggeindustrien. Mange interessenter i byggeindustrien har tatt i bruk ISO-19650 som standarden for å styre dokumentleveranse- og godkjenningsprosesser i prosjekter.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Livssyklus for et dokument**
 
 I henhold til ISO-standarden kan et dokument ha fire forskjellige tilstander;
+
+Følgende emner er beskrevet i denne delen:
 
 ### 1.1 **🏗️ Arbeid pågår (WiP)**
 
@@ -55,6 +59,8 @@ Etter aktivering av statusarbeidsflyten vil du se to faner vises ovenfor dokumen
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/06-familiar-but-different.png)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/07-familiar-but-different.png)
+
+Følgende emner er beskrevet i denne delen:
 
 ### 3.1 **Arbeidsområde**
 

@@ -1566,7 +1566,7 @@ Mit dem Datumsfilter können Sie einen Zeitrahmen auswählen, für den die Theme
 
 ### 2.5 **Zugewiesen an / Angefordert von**
 
-_Niemandem zugewiesen_ - `assigned=unassigned` _Keinem Team zugewiesen_ - `assigned-team=unassigned` _Dem Team zugewiesen_ - `assigned-team=<Team GUID>` _Nicht dem Benutzer zugewiesen_ - `assigned-user=unassigned` _Dem Benutzer zugewiesen_ - `assigned-user=<User GUID>` Zuweisungsoperator - `assigned-op=and` Standardmäßig können Sie nur nach dem zugewiesenen Benutzer ODER dem zugewiesenen Team suchen. In Catenda Hub können Sie einen Bevollmächtigten als user@team festlegen. Um alle Themen dieses Typs zu finden\*\*,\*\* filtern Sie nach dem Team und dem Benutzer und fügen Sie &assigned-op=and am Ende der URL hinzu.
+_Niemandem zugewiesen_ - `assigned=unassigned` _Keinem Team zugewiesen_ - `assigned-team=unassigned` _Dem Team zugewiesen_ - `assigned-team=<Team GUID>` _Nicht dem Benutzer zugewiesen_ - `assigned-user=unassigned` _Dem Benutzer zugewiesen_ - `assigned-user=<User GUID>` Zuweisungsoperator - `assigned-op=and` Standardmäßig können Sie nur nach dem zugewiesenen Benutzer ODER dem zugewiesenen Team suchen. In Catenda Hub können Sie einen Bevollmächtigten als user@team festlegen. Um alle Themen dieses Typs zu finden**,** filtern Sie nach dem Team und dem Benutzer und fügen Sie &assigned-op=and am Ende der URL hinzu.
 
 _Nicht angefordert_ - `requester=unassigned` _Nicht von Team angefordert_ - `requester-team=unassigned` _Nicht von Benutzer angefordert_ - `requester-user=unassigned` _Von Benutzer angefordert_ - `requester-user=<User GUID>`
 
@@ -2798,6 +2798,8 @@ So kann der Hauptteil eines Topics aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/03-intro.png)
 
+Die folgenden Topics werden in diesem Artikel beschrieben:
+
 ## 1. **Fortschrittsbalken**
 
 Der Fortschrittsbalken wird oben im Topic Body angezeigt, wenn Kontrollkästchen oder verlinkte Topics zur Topic-Beschreibung hinzugefügt wurden. So kann der Fortschrittsbalken oben im Topic aussehen:
@@ -2847,6 +2849,8 @@ Die Historie des Topics können Sie durch Klicken auf die Schaltfläche "Histori
 Der Kommentarbereich in einem Topic kann so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/08-comment-section.png)
+
+Die folgenden Topics werden in diesem Bereich beschrieben:
 
 ### 4.1 **Menü für vorhandene Kommentare**
 

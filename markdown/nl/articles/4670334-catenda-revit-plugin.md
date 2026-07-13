@@ -4,6 +4,8 @@
 
 De Catenda Revit plugin is een plugin die kan worden geïnstalleerd voor Autodesk Revit. Met deze plugin kunt u samenwerken aan 3D-viewpoints, topics en Documenten met andere Leden van het constructieproject
 
+De volgende topics worden in dit artikel beschreven:
+
 ## 1. **Installatie**
 
 Wanneer de Catenda Revit plugin op Windows wordt geïnstalleerd, worden de installatiebestanden in de volgende map weergegeven.
@@ -71,6 +73,8 @@ U kunt de toegang tot uw Catenda Hub-account op elk moment intrekken door naar u
 ## 4. **Topic List**
 
 Na het aanmelden wordt de hoofdweergave van de Catenda Hub-plugin geopend. Op deze pagina is het hoofdmenu voor navigatie in uw Catenda Hub-project, topic boards en topics te vinden.
+
+De volgende topics worden in deze sectie beschreven:
 
 ### 4.1 **Interface**
 
@@ -156,6 +160,8 @@ U kunt deze Filters doorzoeken door tekst in de filterbalk (1) in te voeren. U k
 ## 5. **Topic Details**
 
 In deze weergave kunt u een specifiek topic controleren en bewerken.
+
+De volgende topics worden in deze sectie beschreven:
 
 ### 5.1 **Interface**
 

@@ -6,6 +6,8 @@ Vous trouverez les paramètres **Authentification multifactorielle** (MFA) sur l
 
 **Authentification multifactorielle** (MFA) nécessite de saisir un code reçu via votre appareil mobile ainsi que votre nom d'utilisateur et votre mot de passe, lors de la connexion à Catenda Hub. Lorsqu'une organisation exige l'authentification multifactorielle, celle-ci est appliquée au niveau de l'organisation. Tous les projets appartenant à cette organisation nécessiteront alors une authentification multifactorielle pour accéder à leurs projets. Cela obligera tous les utilisateurs à activer l'authentification multifactorielle pour accéder aux projets appartenant à cette organisation.
 
+Les thèmes suivants sont décrits dans cet article :
+
 ## 1. **Activation de l'authentification multifactorielle**
 
 Connectez-vous à Catenda Hub et accédez à la page **[Compte](https://hub.catenda.com/account/profile)** :
@@ -17,6 +19,8 @@ Connectez-vous à Catenda Hub et accédez à la page **[Compte](https://hub.cate
 3. Cliquez sur **Activer l'authentification multifactorielle**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/02-enabling-mfa.png)
+
+Les thèmes suivants sont décrits dans cette section :
 
 ### 1.1 **Application d'authentification**
 

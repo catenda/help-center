@@ -435,6 +435,8 @@ De beste manier om een afbeelding uit de 3D Viewer te exporteren is door een [3D
 
 De Catenda Archicad-plugin is een plugin die kan worden geïnstalleerd voor Nemetchek Archicad. Met deze plugin kunt u samenwerken aan 3D-standpunten, topic en Documenten met andere leden van het bouwproject.
 
+De volgende topic zijn in dit artikel beschreven:
+
 ## 1. **Installatie**
 
 Wanneer de Catenda Archicad-plugin op Windows wordt geïnstalleerd, verschijnen de installatiebestanden in de volgende map.
@@ -815,6 +817,8 @@ Met deze knop opent u de maplocatie van de Desktop Connector-logboeken op het lo
 
 De Catenda Navisworks plugin is een plugin die kan worden geïnstalleerd voor Nemetchek Archicad. Met deze plugin kunt u samenwerken aan 3D-viewpoints, topics en Documenten met andere leden van het bouwproject.
 
+De volgende topics worden in dit artikel beschreven:
+
 ## 1. **Over de plugin**
 
 De Catenda Hub add-in voor Autodesk® Navisworks® is het perfecte gereedschap voor projecten die samenwerken in Catenda Hub. Al uw topics worden in real-time gesynchroniseerd tussen Navisworks en Catenda Hub, zodat u topics kunt maken, openen, delen en communiceren. De topic-indeling is BCF zodat de topics kunnen worden gedeeld via elke BCF-ondersteunde BIM-software of -platform. Deze add-in stelt u in staat topics naadloos vanuit Navisworks te visualiseren, maken en bewerken. U kunt ook het IFC-model dat in Catenda Hub is opgeslagen downloaden en federeren naar uw lokale client.
@@ -870,6 +874,8 @@ Dit is wat het Catenda-tabblad er kan uitzien wanneer het is geselecteerd
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/02-catenda-tab.png)
 
+De volgende topics worden in deze sectie beschreven:
+
 ### 5.1 **Catenda**
 
 De Catenda-knop in het menu Catenda-plugins van het Catenda-tabblad opent de standaardbrowser met de [aanmeldingspagina](https://support.catenda.com/en/articles/7891486-sign-in-page) van Catenda Hub.
@@ -901,6 +907,8 @@ Dit is wat het instellingenmenu er kan uitzien nadat u zich hebt aangemeld.
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/07-settings.png)
 
 Als de aanmeldingssessie is verlopen, kan de knop Vernieuwen worden gebruikt om de aanmeldingssessie te vernieuwen.
+
+De volgende topics worden in deze sectie beschreven:
 
 ### 6.1 **Verifiëren**
 
@@ -948,6 +956,8 @@ In het topicmenu kunnen geselecteerde topics worden bewerkt en kunnen nieuwe top
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/11-topic.png)
 
+De volgende topics worden in deze sectie beschreven:
+
 ### 8.1 **Navigatiepijlen**
 
 Gebruik de navigatiepijlen in het menu om tussen verschillende topics in het topic board te bewegen.
@@ -981,6 +991,8 @@ Klik op de knop Snijvlakken wissen om de snijvlakken in de Viewer te wissen.
 In het menu Clashes kunnen topics als gevolg van bevindingen van Clash Detective worden ingediend. Dit is wat het menu Clashes er kan uitzien.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/12-clashes.png)
+
+De volgende topics worden in deze sectie beschreven:
 
 ### 9.1 **Een clash-detective test uitvoeren**
 
@@ -1084,6 +1096,8 @@ Download, open en append modelrevisies van het in het menu Topic Boards geselect
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/20-models.png)
 
+De volgende topics worden in deze sectie beschreven:
+
 ### 10.1 **Zoeken**
 
 Zoek modellen in het Catenda-project
@@ -1162,6 +1176,8 @@ Om de BCF-viewpoints van uw Catenda-project in de Catenda-plugin te kunnen gebru
 
 De Catenda Revit plugin is een plugin die kan worden geïnstalleerd voor Autodesk Revit. Met deze plugin kunt u samenwerken aan 3D-viewpoints, topics en Documenten met andere Leden van het constructieproject
 
+De volgende topics worden in dit artikel beschreven:
+
 ## 1. **Installatie**
 
 Wanneer de Catenda Revit plugin op Windows wordt geïnstalleerd, worden de installatiebestanden in de volgende map weergegeven.
@@ -1229,6 +1245,8 @@ U kunt de toegang tot uw Catenda Hub-account op elk moment intrekken door naar u
 ## 4. **Topic List**
 
 Na het aanmelden wordt de hoofdweergave van de Catenda Hub-plugin geopend. Op deze pagina is het hoofdmenu voor navigatie in uw Catenda Hub-project, topic boards en topics te vinden.
+
+De volgende topics worden in deze sectie beschreven:
 
 ### 4.1 **Interface**
 
@@ -1314,6 +1332,8 @@ U kunt deze Filters doorzoeken door tekst in de filterbalk (1) in te voeren. U k
 ## 5. **Topic Details**
 
 In deze weergave kunt u een specifiek topic controleren en bewerken.
+
+De volgende topics worden in deze sectie beschreven:
 
 ### 5.1 **Interface**
 
@@ -1566,7 +1586,7 @@ Met het datumfilter kunt u een tijdspanne selecteren voor wanneer de onderwerpen
 
 ### 2.5 **Toegewezen aan / Aangevraagd door**
 
-_Niet toegewezen_ - `assigned=unassigned` _Geen team toegewezen_ - `assigned-team=unassigned` _Toegewezen aan team_ - `assigned-team=<Team GUID>` _Niet toegewezen aan gebruiker_ - `assigned-user=unassigned` _Toegewezen aan gebruiker_ - `assigned-user=<User GUID>` Operator toewijzen - `assigned-op=and` Standaard kunt u alleen zoeken naar de toegewezen gebruiker OF het toegewezen team. In Catenda Hub kunt u een toewijzing instellen als gebruiker@team Om alle onderwerpen van dit type te zoeken\*\*,\*\* filtert u op het team en de gebruiker, en voegt u &assigned-op=and toe aan het einde van de URL.
+_Niet toegewezen_ - `assigned=unassigned` _Geen team toegewezen_ - `assigned-team=unassigned` _Toegewezen aan team_ - `assigned-team=<Team GUID>` _Niet toegewezen aan gebruiker_ - `assigned-user=unassigned` _Toegewezen aan gebruiker_ - `assigned-user=<User GUID>` Operator toewijzen - `assigned-op=and` Standaard kunt u alleen zoeken naar de toegewezen gebruiker OF het toegewezen team. In Catenda Hub kunt u een toewijzing instellen als gebruiker@team Om alle onderwerpen van dit type te zoeken**,** filtert u op het team en de gebruiker, en voegt u &assigned-op=and toe aan het einde van de URL.
 
 _Niet aangevraagd_ - `requester=unassigned` _Niet aangevraagd door team_ - `requester-team=unassigned` _Niet aangevraagd door gebruiker_ - `requester-user=unassigned` _Aangevraagd door gebruiker_ - `requester-user=<User GUID>`
 

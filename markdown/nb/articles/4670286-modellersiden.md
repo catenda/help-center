@@ -8,6 +8,8 @@ Modellsiden som den andre siden i venstre navigasjonsmeny for et prosjekt. Denne
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/02-intro.png)
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Nye elementhandlinger**
 
 De nye elementhandlingene finnes i øvre høyre hjørne av siden.
@@ -46,6 +48,8 @@ Modelltabellen kan se omtrent slik ut:
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/06-models-table.png)
 
 Så snart en model opprettes, vises den som en rad i modelltabellen. Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 4.1 **Valgte elementhandlinger**
 

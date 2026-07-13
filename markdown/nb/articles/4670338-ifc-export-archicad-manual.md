@@ -2,6 +2,8 @@
 
 Når du eksporterer en IFC, husk hva som er relevant for IFC-exporten din. IFC-filen kan være stor og vanskelig å arbeide med hvis den inneholder mye informasjon. Derfor er det viktig å ikke eksportere unødvendig informasjon. I denne rapporten får du ulike tips til å filtrere IFC-exporten din i Archicad.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. Prosjektinfo
 
 Før du eksporterer en IFC fra prosjektet ditt, må du kontrollere at prosjektinformasjonen er konfigurert. Prosjektinformasjonen finner du her:
@@ -93,6 +95,8 @@ Denne metoden tillater mer fleksibel og detaljert IFC-type kartlegging, i henhol
 Geometrikonvertering for IFC Export vil la deg konvertere geometrien din på ulike måter.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/09-3-geometry-conversion.png)
+
+Følgende emner er beskrevet i denne seksjonen:
 
 ### 5.1 Konvertering av Archicad-elementer
 

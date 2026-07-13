@@ -10,6 +10,8 @@ Se nedenfor ulike innstillinger for å vise dataene dine:
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptiv - Sparsom - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-05a450dc777f.png" style="height: auto;" width="3839"/></div></td><td><p>Adaptiv - Tett - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-196a1135014a.png" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Fast - Tett - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-66e21551bbef.png" style="height: auto;" width="3834"/></div></td><td><p>Fast - Sparsom - Intensitet</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-4a2046c8eaf1.png" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Dokumentomådesforhåndsvisning**
 
 PC-data i følgende to filformat kan forhåndsvises på Catenda.
@@ -18,6 +20,8 @@ PC-data i følgende to filformat kan forhåndsvises på Catenda.
 - `*.las`
 
 PC kan lastes opp som ethvert annet dokument i dokumentomådet. For disse to filformatene kan filer opp til 25 GB lastes opp til dokumentomådet. Flere filer kan lastes inn i dokumentomådet og vises sammen i 3D-visningen.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 1.1 **Opplasting av PC-data**
 
@@ -74,6 +78,8 @@ I denne delen vil vi se på innstillingene i Catenda Hub som vil tillate deg å 
 > **Merk:** Før du konfigurerer 3D-visningen, kontroller at applikasjonen Catenda er åpnet i er konfigurert [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation).
 
 Innstillinger som kan brukes til å konfigurere punktskyer er plassert på to steder.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 3.1 **1. Punktbudsjett:**
 

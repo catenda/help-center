@@ -4,6 +4,8 @@ QR-koder kan konfigureres per mappe i [mappen konfigurering](https://support.cat
 
 Denne funksjonen gir brukere av Catenda muligheten til å kontrollere om Dokumenter de bruker er den nyeste versjonen ved å skanne QR-koden som er skrevet ut på PDF-en.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Konfigurer QR-kode på Catenda Hub**
 
 Tilordningen av QR-kode gjøres via mapper, noe som betyr at hver prosjektadministrator kan bestemme et utvalgt sett med mapper som skal ha denne funksjonen.
@@ -31,6 +33,8 @@ For å bruke denne funksjonen må du plassere **[QR-kodeplassholderen](https://h
 Nedlastingslenken for QR-koden finner du her:
 
 _[Nedlastingslenke](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)_
+
+Følgende emner er beskrevet i denne delen:
 
 ### 2.1 Plassering av QR-koden som filforfattter
 

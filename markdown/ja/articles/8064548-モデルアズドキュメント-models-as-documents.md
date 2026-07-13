@@ -2,6 +2,8 @@
 
 以前は、Catenda Hubの2つの異なる場所にIFCファイルをアップロードすることが可能でした。「モデルをドキュメントとして」機能により、これら2つのモデルファイルのアップロード場所がシームレスな機能に統合されます。モデルセクションでモデルを作成すると、ドキュメントセクションにリンクされたドキュメントが自動的に作成されます。IFCドキュメントをアップロードすると、「モデルを作成」アクションボタンを使用して、モデルセクションでモデルをリンクして作成できます。この機能により、モデルセクション内のモデルはドキュメントのように処理でき、ドキュメントセクション内のモデルはモデルのように処理できます。
 
+この記事では、以下のトピックについて説明しています。
+
 ## 1. **移行前後 - 主な違い**
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e8e8e880; width: 126px;"><h1 id="h_3632d3cc1b"></h1></td><td style="background-color: #e8e8e880; width: 262px;"><h2 class="intercom-align-center" id="h_2093155130"><b>移行前</b></h2></td><td style="background-color: #e8e8e880; width: 248px;"><h2 class="intercom-align-center" id="h_d5cfcbcb2d"><b>移行後</b></h2></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>主な動作</b></p></td><td style="width: 262px;"><p>モデルはモデルセクションにのみ存在していました。 ユーザーは同じIFCファイルをドキュメントセクションとモデルセクションの両方にアップロードする必要がありました。</p></td><td style="width: 248px;"><p>モデルはドキュメントセクションにアップロードされたIFCファイルから作成され、ユーザーが要求した場合に作成されます。 IFCファイルと関連するモデルがリンクされます。</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>ユーザーインターフェース</b></p></td><td style="width: 262px;"><p><b>異なり</b>、ドキュメントセクションとは異なり、基本的にはモデルのリストのみを表示するという情報が少なくなります。</p></td><td style="width: 248px;"><p><b>ドキュメントセクションと同じ</b>: 関連するメタデータを含むカスタマイズ可能なテーブル。</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>アクセス権</b></p></td><td style="width: 262px;"><p><b>モデルに適用することはできませんでした</b></p></td><td style="width: 248px;"><p><b>ドキュメントセクションから関連ドキュメントを通じてモデルに適用できます</b></p></td></tr></tbody></table></div>

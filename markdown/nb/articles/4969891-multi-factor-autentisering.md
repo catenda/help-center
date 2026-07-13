@@ -6,6 +6,8 @@ Du finner innstillingene for **Flerfaktorgodkjenning** (MFA) på [godkjenningssi
 
 **Flerfaktorgodkjenning** (MFA) krever at du skriver inn en kode du mottar på mobilenheten din, samt brukernavnet og passordet ditt når du logger på Catenda Hub. Når en organisasjon krever MFA, blir det brukt på organisasjonsnivå. Alle prosjekter som tilhører denne organisasjonen vil deretter kreve MFA for å få tilgang til deres prosjekter. Dette vil tvinge alle brukere til å aktivere MFA for å få tilgang til prosjekter som tilhører denne organisasjonen.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Aktivering av MFA**
 
 Logg på Catenda Hub og gå til siden for **[Konto](https://hub.catenda.com/account/profile)**:
@@ -17,6 +19,8 @@ Logg på Catenda Hub og gå til siden for **[Konto](https://hub.catenda.com/acco
 3. Klikk på **Aktivere MFA**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/02-enabling-mfa.png)
+
+Følgende emner er beskrevet i denne delen:
 
 ### 1.1 **Godkjenningsapp**
 

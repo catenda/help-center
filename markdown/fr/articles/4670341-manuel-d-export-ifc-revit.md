@@ -2,6 +2,8 @@
 
 Ce manuel d'export IFC a pour objectif de fournir à l'utilisateur un guide sur la façon d'exporter l'IFC à bon escient. Un fichier IFC peut rapidement devenir lourd et volumineux lorsque vous avez beaucoup d'informations à extraire du modèle. C'est pourquoi lors de l'export d'un IFC, vous devez décocher les informations inutiles. Lors du téléchargement d'un modèle vers Catenda, il n'est pas toujours nécessaire d'avoir beaucoup d'informations et un haut niveau de détail dans le modèle. Un peu plus tard dans ce manuel, nous reviendrons sur les paramètres que nous recommandons pour rendre le modèle un peu plus petit et un peu plus facile à utiliser. Ici, nous allons parcourir étape par étape la façon la plus appropriée d'exporter un IFC de Revit vers Catenda.
 
+Les thèmes suivants sont décrits dans cet article :
+
 ## 1. **Paramètres du projet**
 
 Avant d'exporter, il est important de s'assurer que les GUID de votre projet Revit sont corrects.
@@ -49,6 +51,8 @@ Cliquez sur Modifier la configuration dans la partie configuration d'export de l
 Cette fenêtre contient les onglets suivants :
 
 ---
+
+Les thèmes suivants sont décrits dans cette section :
 
 ### 3.1 **Général**
 

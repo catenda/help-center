@@ -24,6 +24,8 @@ Vous trouverez les paramètres **Authentification multifactorielle** (MFA) sur l
 
 **Authentification multifactorielle** (MFA) nécessite de saisir un code reçu via votre appareil mobile ainsi que votre nom d'utilisateur et votre mot de passe, lors de la connexion à Catenda Hub. Lorsqu'une organisation exige l'authentification multifactorielle, celle-ci est appliquée au niveau de l'organisation. Tous les projets appartenant à cette organisation nécessiteront alors une authentification multifactorielle pour accéder à leurs projets. Cela obligera tous les utilisateurs à activer l'authentification multifactorielle pour accéder aux projets appartenant à cette organisation.
 
+Les thèmes suivants sont décrits dans cet article :
+
 ## 1. **Activation de l'authentification multifactorielle**
 
 Connectez-vous à Catenda Hub et accédez à la page **[Compte](https://hub.catenda.com/account/profile)** :
@@ -35,6 +37,8 @@ Connectez-vous à Catenda Hub et accédez à la page **[Compte](https://hub.cate
 3. Cliquez sur **Activer l'authentification multifactorielle**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/02-enabling-mfa.png)
+
+Les thèmes suivants sont décrits dans cette section :
 
 ### 1.1 **Application d'authentification**
 
@@ -573,6 +577,8 @@ Voici à quoi peut ressembler la partie principale d'un topic :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/03-intro.png)
 
+Les topics suivants sont décrits dans cet article :
+
 ## 1. **Barre de progression**
 
 La barre de progression s'affiche vers le haut du corps du topic si des cases à cocher ou des topics liés ont été ajoutés à la description du topic. Voici à quoi peut ressembler la barre de progression vers le haut d'un topic :
@@ -622,6 +628,8 @@ Afficher les commentaires les plus anciens en premier - Par défaut Afficher les
 Voici à quoi peut ressembler la section des commentaires d'un topic :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/08-comment-section.png)
+
+Les topics suivants sont décrits dans cette section :
 
 ### 4.1 **Menu d'action du commentaire existant**
 
@@ -736,6 +744,8 @@ Voici à quoi peut ressembler un brouillon d'un nouveau commentaire avant la sou
 
 L'extension Catenda Navisworks est une extension qui peut être installée pour Nemetchek Archicad. Avec cette extension, vous pourrez collaborer sur les points de vue 3D, les rubriques et les documents avec les autres Membres du projet de construction.
 
+Les rubriques suivantes sont décrites dans cet article :
+
 ## 1. **À propos de l'extension**
 
 Le complément Catenda Hub pour Autodesk® Navisworks® est l'outil idéal pour les projets collaborant dans Catenda Hub. Tous vos sujets sont synchronisés en temps réel entre Navisworks et Catenda Hub, ce qui vous permet de créer, d'accéder, de partager et de communiquer les sujets. Le format de la rubrique est BCF afin que les rubriques puissent être partagées sur n'importe quel logiciel ou plateforme BIM compatible BCF. Ce complément vous permet de visualiser, créer et modifier les rubriques de manière transparente dans Navisworks. Vous pouvez également télécharger et fédérer le modèle IFC stocké dans Catenda Hub sur votre client local.
@@ -791,6 +801,8 @@ Voici à quoi ressemble l'onglet Catenda lorsqu'il est sélectionné
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/02-catenda-tab.png)
 
+Les rubriques suivantes sont décrites dans cette section :
+
 ### 5.1 **Catenda**
 
 Le bouton Catenda dans le menu Extensions Catenda de l'onglet Catenda ouvrira le navigateur par défaut avec la [page de connexion](https://support.catenda.com/en/articles/7891486-sign-in-page) de Catenda Hub.
@@ -822,6 +834,8 @@ Voici à quoi peut ressembler le menu paramètres après s'être connecté avec 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/07-settings.png)
 
 Si la session de connexion a expiré, le bouton actualiser peut être utilisé pour actualiser la session de connexion.
+
+Les rubriques suivantes sont décrites dans cette section :
 
 ### 6.1 **Authentification**
 
@@ -869,6 +883,8 @@ Dans le menu rubrique, les rubriques sélectionnées peuvent être modifiées et
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/11-topic.png)
 
+Les rubriques suivantes sont décrites dans cette section :
+
 ### 8.1 **Flèches de navigation**
 
 Utilisez les flèches de navigation dans le menu pour vous déplacer entre les différentes rubriques du tableau de rubriques.
@@ -902,6 +918,8 @@ Cliquez sur le bouton Effacer les plans de coupe pour effacer les plans de coupe
 Dans le menu interférences, les rubriques peuvent être soumises en résultat des résultats de Clash Detective. Voici à quoi peut ressembler le menu interférences.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/12-clashes.png)
+
+Les rubriques suivantes sont décrites dans cette section :
 
 ### 9.1 **Exécution d'un test Clash Detective**
 
@@ -1005,6 +1023,8 @@ Téléchargez, ouvrez et ajoutez les révisions de modèles du projet Catenda s�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/20-models.png)
 
+Les rubriques suivantes sont décrites dans cette section :
+
 ### 10.1 **Recherche**
 
 Recherchez les modèles du projet Catenda
@@ -1083,6 +1103,8 @@ Le menu de filtrage dans un tableau de topics peut être ouvert en cliquant sur 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/01-intro.png)
 
+Les topics suivants sont décrits dans cet article :
+
 ## 1. **Filtres**
 
 Cliquez sur le bouton de filtrage en haut à gauche pour qu'un panneau apparaisse sur le côté gauche. Lorsqu'un filtre est appliqué, l'URL visible dans le navigateur change en conséquence. Dans cet article, les filtres sont affichés comme suit : _Nom du filtre dans le menu_ - `Nom du filtre dans l'URL=Option du filtre dans l'URL`
@@ -1102,6 +1124,8 @@ Cliquez [ici](https://support.catenda.com/en/articles/8551755-saving-filters) po
 Vous trouverez ici les filtres suivants :
 
 Les différents filtres du menu de filtrage n'apparaîtront que s'il existe des topics pour lesquels l'élément filtré a été configuré.
+
+Les topics suivants sont décrits dans cette section :
 
 ### 2.1 **Mes topics**
 
@@ -1168,6 +1192,8 @@ En plus du menu de filtrage sur la gauche, il existe des fonctionnalités dispon
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/02-filtering-in-the-search-or-filter-bar.png)
 
 Sous la barre de recherche ou de filtrage, un menu avec des filtres suggérés s'ouvre. Le premier filtre du menu de filtrage est suggéré après la mise en surbrillance du menu de recherche ou de filtrage. Appuyez sur Entrée pour appliquer ce filtre ou utilisez les touches fléchées pour naviguer entre les différents filtres.
+
+Les topics suivants sont décrits dans cette section :
 
 ### 3.1 **Filtres enregistrés**
 
@@ -1251,6 +1277,8 @@ _Champ personnalisé déroulant_ _-_ `custom-field-item-<Custom field GUID>=<Dro
 
 Ce manuel d'export IFC a pour objectif de fournir à l'utilisateur un guide sur la façon d'exporter l'IFC à bon escient. Un fichier IFC peut rapidement devenir lourd et volumineux lorsque vous avez beaucoup d'informations à extraire du modèle. C'est pourquoi lors de l'export d'un IFC, vous devez décocher les informations inutiles. Lors du téléchargement d'un modèle vers Catenda, il n'est pas toujours nécessaire d'avoir beaucoup d'informations et un haut niveau de détail dans le modèle. Un peu plus tard dans ce manuel, nous reviendrons sur les paramètres que nous recommandons pour rendre le modèle un peu plus petit et un peu plus facile à utiliser. Ici, nous allons parcourir étape par étape la façon la plus appropriée d'exporter un IFC de Revit vers Catenda.
 
+Les thèmes suivants sont décrits dans cet article :
+
 ## 1. **Paramètres du projet**
 
 Avant d'exporter, il est important de s'assurer que les GUID de votre projet Revit sont corrects.
@@ -1298,6 +1326,8 @@ Cliquez sur Modifier la configuration dans la partie configuration d'export de l
 Cette fenêtre contient les onglets suivants :
 
 ---
+
+Les thèmes suivants sont décrits dans cette section :
 
 ### 3.1 **Général**
 
@@ -1947,6 +1977,8 @@ Voir ci-dessous les différents paramètres pour afficher vos données :
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptatif - Clairsemé - RVB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-05a450dc777f.png" style="height: auto;" width="3839"/></div></td><td><p>Adaptatif - Dense - RVB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-196a1135014a.png" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Fixe - Dense - RVB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-66e21551bbef.png" style="height: auto;" width="3834"/></div></td><td><p>Fixe - Clairsemé - Intensité</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-4a2046c8eaf1.png" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
 
+Les rubriques suivantes sont décrites dans cet article :
+
 ## 1. **Aperçu de la section Documents**
 
 Les données PC des deux formats de fichier suivants peuvent être prévisualisées sur Catenda.
@@ -1955,6 +1987,8 @@ Les données PC des deux formats de fichier suivants peuvent être prévisualis�
 - `*.las`
 
 Les PC peuvent être téléchargés comme n'importe quel autre document dans la section Documents. Pour ces deux formats de fichier, des fichiers jusqu'à 25 GB peuvent être téléchargés dans la section Documents. Plusieurs fichiers peuvent être chargés dans la section Documents et affichés ensemble dans la Visionneuse 3D.
+
+Les rubriques suivantes sont décrites dans cette section :
 
 ### 1.1 **Téléchargement des données PC**
 
@@ -2011,6 +2045,8 @@ Dans cette section, nous verrons les paramètres dans Catenda Hub qui vous perme
 > **Remarque :** Avant de configurer la Visionneuse 3D, assurez-vous que l'application Catenda ouverte est configurée [comme recommandé](https://support.catenda.com/en/articles/6921941-hardware-recommendation).
 
 Les paramètres qui peuvent être utilisés pour configurer les nuages de points sont situés à deux endroits.
+
+Les rubriques suivantes sont décrites dans cette section :
 
 ### 3.1 **1. Budget de points :**
 
@@ -2074,6 +2110,8 @@ Voici à quoi peut ressembler la page des modèles de rapport :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/01-intro.png)
 
+Les topic suivants sont décrits dans cet article :
+
 ## 1. **Actions sur la page des modèles de rapport**
 
 Les actions de la page des modèles de rapport peuvent être trouvées en cliquant sur le menu d'actions en haut à droite de la page des modèles de rapport. Voici à quoi peuvent ressembler les actions de la page des modèles de rapport :
@@ -2103,6 +2141,8 @@ Dès qu'un modèle de rapport est créé, il s'affichera sous forme de ligne dan
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/04-report-templates-table.png)
 
 Cliquez [ici](https://support.catenda.com/en/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec des tableaux dans Catenda.
+
+Les topic suivants sont décrits dans cette section :
 
 ### 3.1 **Contenu de la ligne**
 
@@ -2139,6 +2179,8 @@ Sur la page Models, tous les documents IFC liés à un model peuvent être consu
 La page Models est la deuxième page du menu de navigation gauche d'un projet. Cette page fait partie du [panneau de contenu](https://support.catenda.com/en/articles/13141464-project-panels#h_74710f7a33).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/02-intro.png)
+
+Les rubriques suivantes sont décrites dans cet article :
 
 ## 1. **Nouvelles actions d'éléments**
 
@@ -2178,6 +2220,8 @@ Le tableau Models peut ressembler à ceci :
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/06-models-table.png)
 
 Dès qu'un model est créé, il s'affiche sous forme de ligne dans le tableau Models. Cliquez [ici](https://support.catenda.com/en/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda.
+
+Les rubriques suivantes sont décrites dans cette section :
 
 ### 4.1 **Actions d'éléments sélectionnés**
 
@@ -2393,6 +2437,8 @@ Lorsque vous cliquez sur un sujet dans le tableau de sujets, vous l'ouvrez. Un s
 
 Le plugin Catenda Revit est un plugin qui peut être installé pour Autodesk Revit. Avec ce plugin, vous pourrez collaborer sur des viewpoints 3D, des topics et des Documents avec les autres Membres du projet de construction.
 
+Les topics suivants sont décrits dans cet article :
+
 ## 1. **Installation**
 
 Lorsque le plugin Catenda Revit est installé sur Windows, ses fichiers d'installation apparaîtront dans le dossier suivant.
@@ -2460,6 +2506,8 @@ L'accès à votre compte Catenda Hub peut être révoqué à tout moment en acc�
 ## 4. **Liste des Topics**
 
 Après la connexion, la vue principale du plugin Catenda Hub s'ouvre. Sur cette page, se trouve le menu principal pour naviguer dans votre projet Catenda Hub, les topic boards et les topics.
+
+Les topics suivants sont décrits dans cette section :
 
 ### 4.1 **Interface**
 
@@ -2545,6 +2593,8 @@ Vous pouvez rechercher ces Filtres en tapant du texte dans la barre de Filtres (
 ## 5. **Détails du Topic**
 
 Dans cette vue, vous pouvez consulter et modifier un topic spécifique.
+
+Les topics suivants sont décrits dans cette section :
 
 ### 5.1 **Interface**
 

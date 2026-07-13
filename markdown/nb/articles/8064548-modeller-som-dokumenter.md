@@ -2,6 +2,8 @@
 
 Tidligere har det vært mulig å laste opp IFC-filer til to separate steder på Catenda Hub. Med funksjonen _modeller som dokumenter_ blir disse to plasseringene for modellfiler slått sammen til én smidig funksjon. Hvis du lager en modell i modellseksjonen, blir et dokument lenket og opprettet i dokumentseksjonen. Hvis du laster opp et IFC-dokument, kan du bruke handlingsknappen "lag modell" for å lenke og opprette en modell i modellseksjonen. Med denne funksjonen kan modeller i modellseksjonen håndteres som dokumenter, mens modeller i dokumentseksjonen kan håndteres akkurat som modeller.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Før/Etter migrering - Hovedforskjeller**
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e8e8e880; width: 126px;"><h1 id="h_3632d3cc1b"></h1></td><td style="background-color: #e8e8e880; width: 262px;"><h2 class="intercom-align-center" id="h_2093155130"><b>Før</b></h2></td><td style="background-color: #e8e8e880; width: 248px;"><h2 class="intercom-align-center" id="h_d5cfcbcb2d"><b>Etter</b></h2></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Hovedatferd</b></p></td><td style="width: 262px;"><p>Modeller fantes kun i modellseksjonen. Brukeren måtte laste opp den samme IFC-filen til både dokumentseksjonen og modellseksjonen.</p></td><td style="width: 248px;"><p>Modeller blir opprettet fra IFC-filer lastet opp til dokumentseksjonen, hvis brukeren ber om det. IFC-filen og dens relaterte modell blir deretter lenket.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Brukergrensesnitt</b></p></td><td style="width: 262px;"><p><b>Annerledes</b> fra dokumentseksjonen og viser mindre informasjon, i hovedsak kun en liste over modeller.</p></td><td style="width: 248px;"><p><b>Det samme</b> som dokumentseksjonen: en tilpassbar tabell med relaterte metadata.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Tilgangsrettigheter</b></p></td><td style="width: 262px;"><p><b>Kunne ikke brukes</b> på modeller</p></td><td style="width: 248px;"><p><b>Kan brukes</b> på modeller fra deres tilknyttede dokument i dokumentseksjonen</p></td></tr></tbody></table></div>
@@ -15,6 +17,8 @@ Nå som de to seksjonen har blitt lenket, er det viktig å merke seg at det fort
 Med modeller som dokumenter har modellseksjonen endret utseende. I stedet for å se menyoppføringer for hver modell, vil de nå vises i en søkbar tabell.
 
 I modellseksjonen kan du finne følgende endringer:
+
+Følgende emner er beskrevet i denne delen:
 
 ### 3.1 **Modelltabell**
 
@@ -75,6 +79,8 @@ Selv om de visuelle endringene ikke er like tydelige som i modellseksjonen, er d
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/02-documents-section-changes.png)
 
 I dokumentseksjonen kan du finne følgende endringer:
+
+Følgende emner er beskrevet i denne delen:
 
 ### 4.1 **Modelfilter**
 

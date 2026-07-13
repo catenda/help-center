@@ -16,6 +16,8 @@ Voici à quoi peut ressembler la partie principale d'un topic :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/03-intro.png)
 
+Les topics suivants sont décrits dans cet article :
+
 ## 1. **Barre de progression**
 
 La barre de progression s'affiche vers le haut du corps du topic si des cases à cocher ou des topics liés ont été ajoutés à la description du topic. Voici à quoi peut ressembler la barre de progression vers le haut d'un topic :
@@ -65,6 +67,8 @@ Afficher les commentaires les plus anciens en premier - Par défaut Afficher les
 Voici à quoi peut ressembler la section des commentaires d'un topic :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/08-comment-section.png)
+
+Les topics suivants sont décrits dans cette section :
 
 ### 4.1 **Menu d'action du commentaire existant**
 

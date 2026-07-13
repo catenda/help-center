@@ -24,6 +24,8 @@ Du finner innstillingene for **Flerfaktorgodkjenning** (MFA) på [godkjenningssi
 
 **Flerfaktorgodkjenning** (MFA) krever at du skriver inn en kode du mottar på mobilenheten din, samt brukernavnet og passordet ditt når du logger på Catenda Hub. Når en organisasjon krever MFA, blir det brukt på organisasjonsnivå. Alle prosjekter som tilhører denne organisasjonen vil deretter kreve MFA for å få tilgang til deres prosjekter. Dette vil tvinge alle brukere til å aktivere MFA for å få tilgang til prosjekter som tilhører denne organisasjonen.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Aktivering av MFA**
 
 Logg på Catenda Hub og gå til siden for **[Konto](https://hub.catenda.com/account/profile)**:
@@ -35,6 +37,8 @@ Logg på Catenda Hub og gå til siden for **[Konto](https://hub.catenda.com/acco
 3. Klikk på **Aktivere MFA**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/02-enabling-mfa.png)
+
+Følgende emner er beskrevet i denne delen:
 
 ### 1.1 **Godkjenningsapp**
 
@@ -179,6 +183,8 @@ Teams kan også opprettes fra medlemmer og Teams-innholdssidene henholdsvis:
 
 <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/inline-f431970e0ec1.png" width="290"/>    ---    <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/inline-fa9689ce5cd0.png" width="290"/>
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Når skal jeg opprette et team?**
 
 Catenda Teams kan deles inn på hvilken som helst måte du ønsker. Typisk opprettes et team for hver fagdisiplin som prosjektdeltakerne tilhører. Separate Teams kan opprettes for individuelle arbeidsgrupper enten innenfor den fagdisiplinen eller på tvers av faggrenser. Medlemmer kan være del av flere Teams, så Teams de er del av ender opp med å beskrive de ulike rollene de har i prosjektet.
@@ -198,6 +204,8 @@ Tilgangskontroll kan delegeres til Teams. Dette kan brukes til å konfigurere ti
 Slik kan siden for opprettelse av et nytt team se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/02-create-a-new-team.png)
+
+Følgende emner er beskrevet i denne delen:
 
 ### 2.1 **Navn**
 
@@ -384,6 +392,8 @@ Som standard vil en sidefot vises på bunnen av viseren når du velger et objekt
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/17-object-information-footer.png)
 
 Denne sidefoten kan inneholde informasjon om emner og bibliotekselementer som er knyttet til objektet.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 8.1 **Identifikasjon**
 
@@ -587,7 +597,11 @@ Når du klikker på et emne i emnekartoteket åpner du det. Et emne kan se slik 
 
 Med Catenda desktop connector kan du planlegge opplastinger og nedlastinger av de nyeste versjonene av Dokumenter.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Umiddelbar opp-/nedlasting**
+
+Følgende emner er beskrevet i denne delen:
 
 ### 1.1 **Opplasting**
 
@@ -693,6 +707,8 @@ Planlegg en periodisk opplasting av filer fra systemet ditt til Catenda Hub med 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/06-upload-task.png)
 
+Følgende emner er beskrevet i denne delen:
+
 ### 7.1 **Tittel - Obligatorisk**
 
 Opplastingsoppgaven må ha minst en tittel for å bli lagret
@@ -716,6 +732,8 @@ Oppgaver trenger ikke å bli lagret for å starte opplastingsprosessen. Klikk p�
 Planlegg en periodisk nedlasting av filer fra Catenda Hub til det lokale systemet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/07-download-task.png)
+
+Følgende emner er beskrevet i denne delen:
 
 ### 8.1 **Tittel - Obligatorisk**
 
@@ -815,6 +833,8 @@ Denne knappen åpner mappeplasseringen til Desktop Connector-loggene på det lok
 
 Catenda Navisworks-plugin er en plugin som kan installeres for Nemetchek Archicad. Med denne plugin-en kan du samarbeide om 3D-visninger, emner og Dokumenter med andre medlemmer av byggekonseptet.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Om plugin-en**
 
 Catenda Hub-tillegg for Autodesk® Navisworks® er det perfekte verktøyet for prosjekter som samarbeider i Catenda Hub. Alle emnene dine synkroniseres i sanntid mellom Navisworks og Catenda Hub, slik at du kan opprette, få tilgang til, dele og kommunisere emner. Emneformatet er BCF slik at emnene kan deles på tvers av enhver BCF-aktivert BIM-programvare eller -plattform. Dette tillegg lar deg visualisere, opprette og redigere emner sømløst fra Navisworks. Du kan også laste ned og sammenslå IFC-modellen som er lagret i Catenda Hub til den lokale klienten din.
@@ -870,6 +890,8 @@ Slik kan Catenda-fanen se ut når den er valgt
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/02-catenda-tab.png)
 
+Følgende emner er beskrevet i denne delen:
+
 ### 5.1 **Catenda**
 
 Catenda-knappen i Catenda Plugins-menyen på Catenda-fanen åpner standardnettleseren med [påloggingssiden](https://support.catenda.com/en/articles/7891486-sign-in-page) til Catenda Hub.
@@ -901,6 +923,8 @@ Slik kan innstillingsmenyen se ut etter å ha logget på.
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/07-settings.png)
 
 Hvis påloggingsøkten har tidsavbrudd, kan oppdateringsknappen brukes til å oppdatere påloggingsøkten.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 6.1 **Godkjenn**
 
@@ -948,6 +972,8 @@ I emne-menyen kan valgte emner redigeres og nye emner kan sendes inn. Slik kan e
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/11-topic.png)
 
+Følgende emner er beskrevet i denne delen:
+
 ### 8.1 **Navigasjonspiler**
 
 Bruk navigasjonspilene i menyen for å bevege deg mellom ulike emner i emne-tavlen.
@@ -981,6 +1007,8 @@ Klikk knappen Fjern utklippingsplan for å fjerne utklippingsplanene i viseren.
 I konfliktmenyen kan emner sendes inn som et resultat av Clash Detective-funn. Slik kan konfliktmenyen se ut.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/12-clashes.png)
+
+Følgende emner er beskrevet i denne delen:
 
 ### 9.1 **Kjører en Clash Detective-test**
 
@@ -1084,6 +1112,8 @@ Last ned, åpne og legg til modellrevisjoner fra Catenda-prosjektet som er valgt
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/20-models.png)
 
+Følgende emner er beskrevet i denne delen:
+
 ### 10.1 **Søk**
 
 Søk gjennom modellene i Catenda-prosjektet
@@ -1162,6 +1192,8 @@ For å kunne bruke BCF-visningene fra Catenda-prosjektet ditt i Catenda-plugin-e
 
 Catenda Revit plugin er et programtillegg som kan installeres for Autodesk Revit. Med dette programtillegget kan du samarbeide om 3D-visningspunkter, topic og Dokumenter med andre medlemmer av byggeplassteamet
 
+Følgende topic er beskrevet i denne artikkelen:
+
 ## 1. **Installasjon**
 
 Når Catenda Revit plugin er installert på Windows, vil installeringsfiler vises i følgende mappe.
@@ -1229,6 +1261,8 @@ Tilgang til Catenda Hub-kontoen din kan tilbakekalles når som helst ved å gå 
 ## 4. **Topic-liste**
 
 Etter pålogging åpnes hovedvisningen av Catenda Hub-programtillegget. På denne siden finner du hovedmenyen for å navigere i Catenda Hub-prosjektet, topic boards og topics dine.
+
+Følgende topics er beskrevet i denne delen:
 
 ### 4.1 **Grensesnitt**
 
@@ -1314,6 +1348,8 @@ Du kan søke etter disse filtrene ved å skrive tekst i filterlinjen (1). Du kan
 ## 5. **Topic-detaljer**
 
 I denne visningen kan du se og redigere et bestemt topic.
+
+Følgende topics er beskrevet i denne delen:
 
 ### 5.1 **Grensesnitt**
 
@@ -1581,6 +1617,8 @@ Filtermeny i et emnebrett kan åpnes ved å klikke på filterknappen til venstre
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/01-intro.png)
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Filtre**
 
 Klikk filterknappen øverst til venstre for at et panel skal vises på venstre side. Når et filter er brukt, endres nettadressen som vises i nettleseren med det. I denne artikkelen vises filtre slik: _Filternavn i meny_ - `Filternavn i nettadresse=Filteralternativ i nettadresse`
@@ -1600,6 +1638,8 @@ Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for 
 Her finner du følgende filtre:
 
 De ulike filtrene i filtermeny vises bare hvis det er emner der elementet som filtreres på har blitt konfigurert.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 2.1 **Mine emner**
 
@@ -1623,7 +1663,7 @@ Med datofilteret kan du velge en tidsramme for når emnene ble sist oppdatert. _
 
 ### 2.5 **Tildelt til / Etterspurt av**
 
-_Tildelt ingen_ - `assigned=unassigned` _Ingen team tildelt_ - `assigned-team=unassigned` _Tildelt team_ - `assigned-team=<Team GUID>` _Ikke tildelt bruker_ - `assigned-user=unassigned` _Tildelt bruker_ - `assigned-user=<User GUID>` Tildelt operator - `assigned-op=and` Som standard kan du bare søke etter den tildelte brukeren ELLER det tildelte teamet. I Catenda Hub kan du angi en tildelng som bruker@team For å finne alle emner av denne typen\*\*,\*\* filtrer etter teamet og brukeren, og legg til &assigned-op=and på slutten av nettadressen.
+_Tildelt ingen_ - `assigned=unassigned` _Ingen team tildelt_ - `assigned-team=unassigned` _Tildelt team_ - `assigned-team=<Team GUID>` _Ikke tildelt bruker_ - `assigned-user=unassigned` _Tildelt bruker_ - `assigned-user=<User GUID>` Tildelt operator - `assigned-op=and` Som standard kan du bare søke etter den tildelte brukeren ELLER det tildelte teamet. I Catenda Hub kan du angi en tildelng som bruker@team For å finne alle emner av denne typen**,** filtrer etter teamet og brukeren, og legg til &assigned-op=and på slutten av nettadressen.
 
 _Ikke etterspurt_ - `requester=unassigned` _Ikke etterspurt av team_ - `requester-team=unassigned` _Ikke etterspurt av bruker_ - `requester-user=unassigned` _Etterspurt av bruker_ - `requester-user=<User GUID>`
 
@@ -1666,6 +1706,8 @@ I tillegg til filtermeny på venstre side er det noen funksjoner som bare er til
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/02-filtering-in-the-search-or-filter-bar.png)
 
 Under søke- eller filterfeltet åpnes en meny med foreslåtte filtre. Det første filteret i filtermeny foreslås etter uthevning av søke- eller filtermeny. Trykk Enter for å bruke dette filteret, eller bruk piltastene til å navigere mellom de ulike filtrene.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 3.1 **Lagrede filtre**
 
@@ -1742,6 +1784,8 @@ _Rullegardinegendefinert felt_ _-_ `custom-field-item-<Custom field GUID>=<Dropd
 # IFC Export Archicad Manual
 
 Når du eksporterer en IFC, husk hva som er relevant for IFC-exporten din. IFC-filen kan være stor og vanskelig å arbeide med hvis den inneholder mye informasjon. Derfor er det viktig å ikke eksportere unødvendig informasjon. I denne rapporten får du ulike tips til å filtrere IFC-exporten din i Archicad.
+
+Følgende emner er beskrevet i denne artikkelen:
 
 ## 1. Prosjektinfo
 
@@ -1834,6 +1878,8 @@ Denne metoden tillater mer fleksibel og detaljert IFC-type kartlegging, i henhol
 Geometrikonvertering for IFC Export vil la deg konvertere geometrien din på ulike måter.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/09-3-geometry-conversion.png)
+
+Følgende emner er beskrevet i denne seksjonen:
 
 ### 5.1 Konvertering av Archicad-elementer
 
@@ -2043,6 +2089,8 @@ Modellsiden som den andre siden i venstre navigasjonsmeny for et prosjekt. Denne
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/02-intro.png)
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Nye elementhandlinger**
 
 De nye elementhandlingene finnes i øvre høyre hjørne av siden.
@@ -2081,6 +2129,8 @@ Modelltabellen kan se omtrent slik ut:
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/06-models-table.png)
 
 Så snart en model opprettes, vises den som en rad i modelltabellen. Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 4.1 **Valgte elementhandlinger**
 
@@ -2140,9 +2190,13 @@ Som undersider til modellsiden vil du kunne finne følgende sider:
 
 Den nye statusarbeidsflyten er en etterspørselsfunksjon som kan aktiveres for pågående prosjekter. Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har denne funksjonen aktivert. ISO 19650-serien er en internasjonal standard for god praksis som definerer informasjonsstyringsprocesser i en bredere sammenheng av digital transformasjon i byggeindustrien. Mange interessenter i byggeindustrien har tatt i bruk ISO-19650 som standarden for å styre dokumentleveranse- og godkjenningsprosesser i prosjekter.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Livssyklus for et dokument**
 
 I henhold til ISO-standarden kan et dokument ha fire forskjellige tilstander;
+
+Følgende emner er beskrevet i denne delen:
 
 ### 1.1 **🏗️ Arbeid pågår (WiP)**
 
@@ -2193,6 +2247,8 @@ Etter aktivering av statusarbeidsflyten vil du se to faner vises ovenfor dokumen
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/06-familiar-but-different.png)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/07-familiar-but-different.png)
+
+Følgende emner er beskrevet i denne delen:
 
 ### 3.1 **Arbeidsområde**
 
@@ -2347,6 +2403,8 @@ Se nedenfor ulike innstillinger for å vise dataene dine:
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptiv - Sparsom - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-05a450dc777f.png" style="height: auto;" width="3839"/></div></td><td><p>Adaptiv - Tett - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-196a1135014a.png" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Fast - Tett - RGB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-66e21551bbef.png" style="height: auto;" width="3834"/></div></td><td><p>Fast - Sparsom - Intensitet</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-4a2046c8eaf1.png" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Dokumentomådesforhåndsvisning**
 
 PC-data i følgende to filformat kan forhåndsvises på Catenda.
@@ -2355,6 +2413,8 @@ PC-data i følgende to filformat kan forhåndsvises på Catenda.
 - `*.las`
 
 PC kan lastes opp som ethvert annet dokument i dokumentomådet. For disse to filformatene kan filer opp til 25 GB lastes opp til dokumentomådet. Flere filer kan lastes inn i dokumentomådet og vises sammen i 3D-visningen.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 1.1 **Opplasting av PC-data**
 
@@ -2411,6 +2471,8 @@ I denne delen vil vi se på innstillingene i Catenda Hub som vil tillate deg å 
 > **Merk:** Før du konfigurerer 3D-visningen, kontroller at applikasjonen Catenda er åpnet i er konfigurert [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation).
 
 Innstillinger som kan brukes til å konfigurere punktskyer er plassert på to steder.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 3.1 **1. Punktbudsjett:**
 
@@ -2470,6 +2532,8 @@ QR-koder kan konfigureres per mappe i [mappen konfigurering](https://support.cat
 
 Denne funksjonen gir brukere av Catenda muligheten til å kontrollere om Dokumenter de bruker er den nyeste versjonen ved å skanne QR-koden som er skrevet ut på PDF-en.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Konfigurer QR-kode på Catenda Hub**
 
 Tilordningen av QR-kode gjøres via mapper, noe som betyr at hver prosjektadministrator kan bestemme et utvalgt sett med mapper som skal ha denne funksjonen.
@@ -2497,6 +2561,8 @@ For å bruke denne funksjonen må du plassere **[QR-kodeplassholderen](https://h
 Nedlastingslenken for QR-koden finner du her:
 
 _[Nedlastingslenke](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6WFvuf7UfIYYTkZ7SUk)_
+
+Følgende emner er beskrevet i denne delen:
 
 ### 2.1 Plassering av QR-koden som filforfattter
 
@@ -2646,6 +2712,8 @@ Slett Bruk slettingshandlingen til å slette den valgte rapportmalen.
 
 Målet med denne IFC-eksportmanualen er å gi brukeren en veiledning om hvordan du eksporterer IFC for riktig formål. En IFC-fil kan raskt bli stor og tung når du har mye informasjon som skal tas ut av modellen. Derfor må du fjerne merkingen for unødvendig informasjon når du eksporterer en IFC. Når du laster opp en modell til Catenda, er det ikke alltid nødvendig å ha mye informasjon og et høyt detaljnivå i modellen. Senere i denne manualen kommer vi tilbake til hvilke innstillinger vi anbefaler for å gjøre modellen litt mindre og litt enklere å arbeide med. Her går vi gjennom steg for steg den mest hensiktsmessige måten å eksportere en IFC fra Revit til Catenda.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Prosjektinnstillinger**
 
 Før eksport er det viktig å kontrollere at GUID-ene i Revit-prosjektet ditt er korrekte.
@@ -2693,6 +2761,8 @@ Klikk på Endre oppsett i eksportoppsettet i IFC-eksportdialogen. Her kan du end
 Dette vinduet inneholder følgende faner:
 
 ---
+
+Følgende emner er beskrevet i denne delen:
 
 ### 3.1 **Generelt**
 
@@ -2963,6 +3033,8 @@ De samme formateringsreglene gjelder for de ulike innleggene rundt Catenda Hub. 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/01-intro.png)
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. Formateringstilgjengelighet
 
 Det er ofte mulig å se at sendte felt kan formateres ved verktøykassen som vises under feltet når feltet redigeres.
@@ -2970,6 +3042,8 @@ Det er ofte mulig å se at sendte felt kan formateres ved verktøykassen som vis
 > **Merk:** Zoom langt nok ut med nettleserens zoommål for å se alle verktøy.
 
 Formatering er tilgjengelig i følgende felt:
+
+Følgende emner er beskrevet i denne delen:
 
 ### 1.1 **Emneeskrivelse og kommentar**
 
@@ -3002,6 +3076,8 @@ Klikk [her](https://support.catenda.com/en/articles/8053352-topic-body-the-conte
 ## 3. **Stilisering av tekst**
 
 Følgende metoder lar deg stilisere teksten din:
+
+Følgende emner er beskrevet i denne delen:
 
 ### 3.1 **Fet, kursiv, gjennomstreking**
 
@@ -3040,6 +3116,8 @@ Ved å pakke ord i tegn som ikke er bokstaver eller tall, kan du få dem til å 
 ## 4. **Dele opp tekst og legge til struktur**
 
 Følgende metoder lar deg forbedre teksten din ved å dele den opp og legge til struktur:
+
+Følgende emner er beskrevet i denne delen:
 
 ### 4.1 **Bilder**
 
@@ -3209,6 +3287,8 @@ Søk gjennom listen ved å begynne å skrive e-posten, medlemmets navn eller tea
 
 `@[<e-postadresse for medlem>]` eller `@[<Teamnavn>]`
 
+Følgende emner er beskrevet i denne delen:
+
 ### 5.1 **Lagring eller innsending av nevning i et emne**
 
 Når beskrivelsen lagres eller kommentaren sendes inn, mottar relaterte medlemmer med tilgang til emnebrettet et varsel. Hvis medlemmets e-postadresse eller teamets navn er kjent, kan det også skrives manuelt, men hvis de ikke er del av emnebrettet, vil ikke de relaterte medlemmene bli varslet om at de er nevnt.
@@ -3248,6 +3328,8 @@ Klikk på `#`-verktøyet eller skriv `#` i en beskrivelse eller kommentar for å
 Søk gjennom listen ved å begynne å skrive tittelen eller emnenummeret. Gå opp og ned i listen med piltastene og klikk eller trykk enter for å velge et emne. For at et emne skal vises i denne listen, må medlemmet som merker emnet ha tilgang til brettet som emnet befinner seg i. Etter å ha valgt et emne i listen, vil `#` få noe ekstra tekst som kan se ut slik:
 
 `#[<emnenummer>]`
+
+Følgende emner er beskrevet i denne delen:
 
 ### 6.1 **Lagring eller innsending av merket emne**
 
@@ -3391,6 +3473,8 @@ Filstørrelsene i tabellen nedenfor gjelder individuelle filer i seg selv. Det e
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80; width: 173px;"><h1 id="h_dee0bdcb7c"><b>Opplastingsstørrelse</b></h1></td><td style="background-color: #e3e7fa80; width: 108px;"><h3 id="h_644423a190"><b>Utvidelse</b></h3></td><td style="background-color: #e3e7fa80;"><h3 class="intercom-align-center" id="h_0cc9638cff"><b>Filstørrelse</b></h3></td></tr><tr><td style="width: 173px;"><h3 id="h_02ef636d2a">Dokumentdel</h3></td><td style="width: 108px;"><p>Alle</p></td><td><p class="intercom-align-center">7 GB</p></td></tr><tr><td style="background-color: #e8e8e880; width: 173px;"><h3 id="h_79f0da432d">IFC-prosessering</h3></td><td style="background-color: #e8e8e880; width: 108px;"><p><code>.ifc</code></p></td><td style="background-color: #e8e8e880;"><p class="intercom-align-center">750 MB</p></td></tr><tr><td style="width: 173px;"><h3 id="h_7d57516cf7">IfcZIP-prosessering</h3></td><td style="width: 108px;"><p><code>.ifczip</code></p></td><td><p class="intercom-align-center">750 MB</p></td></tr><tr><td style="background-color: #e8e8e880; width: 173px;"><h3 id="h_3c990303fb">Punktsky</h3></td><td style="background-color: #e8e8e880; width: 108px;"><p><code>.e57</code> </p></td><td style="background-color: #e8e8e880;"><p class="intercom-align-center">25 GB</p></td></tr><tr><td style="width: 173px;"><h3 id="h_0bbd014cc0">Punktsky</h3></td><td style="width: 108px;"><p><code>.las</code></p></td><td><p class="intercom-align-center">25 GB</p></td></tr><tr><td style="background-color: #e8e8e880; width: 173px;"><h3 id="h_788001d9cb">BCF-import</h3></td><td style="background-color: #e8e8e880; width: 108px;"><p><code>.bcf</code></p></td><td style="background-color: #e8e8e880;"><p class="intercom-align-center">500 MB</p></td></tr><tr><td style="width: 173px;"><h3 id="h_418d98af37">BCFZIP-import</h3></td><td style="width: 108px;"><p><code>.bcfzip</code></p></td><td><p class="intercom-align-center">500 MB</p></td></tr></tbody></table></div>
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Deling i mindre filer**
 
 Store .ifc- og .ifczip-filer anbefales å deles inn i mindre filer. Deling kan bidra til å overholde begrensningen på 750 MB opplasting og muliggjør mer håndterlig filbehandling innen prosjekter.
@@ -3420,6 +3504,8 @@ Hvis endring av filen ikke er et alternativ, og filen er større enn det som kan
 
 > Finn anbefalte maskinvarespesifikasjoner og optimaliseringstips for best mulig erfaring med Catenda Hub.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Maskinvareanbefalinger:**
 
 Denne maskinvareanbefalingen er bare ment for Catenda Hub i en nettleserapplikasjon. Det kan være ulike krav avhengig av detaljnivået på 3D-objektene dine. Detaljnivåer (LOD) er definert av AIA i Dokumenter G202 som LOD 100, 200, 300, 400, 500 og 600. LOD-definisjonen kan ses [her](https://assets.aiacontracts.com/ctrzdweb02/zdpdfs/aia-g202-2013-free-sample-preview.pdf).
@@ -3435,6 +3521,8 @@ Hvis en eller flere eksterne skjermer er koblet til en enhet, selv om Catenda ik
 ## 3. **Programvarekrav for applikasjon**
 
 Catenda Hub kan nås gjennom ulike applikasjoner på ulike systemer. Kravene for å bruke Catenda Hub er derfor en kombinasjon av kravene fra systemsoftware og applikasjonssoftware som brukes for å få tilgang til Catenda Hub.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 3.1 **Operativsystemer**
 
@@ -3460,6 +3548,8 @@ _Vivaldi:_ [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi-
 
 Tidligere har det vært mulig å laste opp IFC-filer til to separate steder på Catenda Hub. Med funksjonen _modeller som dokumenter_ blir disse to plasseringene for modellfiler slått sammen til én smidig funksjon. Hvis du lager en modell i modellseksjonen, blir et dokument lenket og opprettet i dokumentseksjonen. Hvis du laster opp et IFC-dokument, kan du bruke handlingsknappen "lag modell" for å lenke og opprette en modell i modellseksjonen. Med denne funksjonen kan modeller i modellseksjonen håndteres som dokumenter, mens modeller i dokumentseksjonen kan håndteres akkurat som modeller.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Før/Etter migrering - Hovedforskjeller**
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e8e8e880; width: 126px;"><h1 id="h_3632d3cc1b"></h1></td><td style="background-color: #e8e8e880; width: 262px;"><h2 class="intercom-align-center" id="h_2093155130"><b>Før</b></h2></td><td style="background-color: #e8e8e880; width: 248px;"><h2 class="intercom-align-center" id="h_d5cfcbcb2d"><b>Etter</b></h2></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Hovedatferd</b></p></td><td style="width: 262px;"><p>Modeller fantes kun i modellseksjonen. Brukeren måtte laste opp den samme IFC-filen til både dokumentseksjonen og modellseksjonen.</p></td><td style="width: 248px;"><p>Modeller blir opprettet fra IFC-filer lastet opp til dokumentseksjonen, hvis brukeren ber om det. IFC-filen og dens relaterte modell blir deretter lenket.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Brukergrensesnitt</b></p></td><td style="width: 262px;"><p><b>Annerledes</b> fra dokumentseksjonen og viser mindre informasjon, i hovedsak kun en liste over modeller.</p></td><td style="width: 248px;"><p><b>Det samme</b> som dokumentseksjonen: en tilpassbar tabell med relaterte metadata.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Tilgangsrettigheter</b></p></td><td style="width: 262px;"><p><b>Kunne ikke brukes</b> på modeller</p></td><td style="width: 248px;"><p><b>Kan brukes</b> på modeller fra deres tilknyttede dokument i dokumentseksjonen</p></td></tr></tbody></table></div>
@@ -3473,6 +3563,8 @@ Nå som de to seksjonen har blitt lenket, er det viktig å merke seg at det fort
 Med modeller som dokumenter har modellseksjonen endret utseende. I stedet for å se menyoppføringer for hver modell, vil de nå vises i en søkbar tabell.
 
 I modellseksjonen kan du finne følgende endringer:
+
+Følgende emner er beskrevet i denne delen:
 
 ### 3.1 **Modelltabell**
 
@@ -3533,6 +3625,8 @@ Selv om de visuelle endringene ikke er like tydelige som i modellseksjonen, er d
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/02-documents-section-changes.png)
 
 I dokumentseksjonen kan du finne følgende endringer:
+
+Følgende emner er beskrevet i denne delen:
 
 ### 4.1 **Modelfilter**
 

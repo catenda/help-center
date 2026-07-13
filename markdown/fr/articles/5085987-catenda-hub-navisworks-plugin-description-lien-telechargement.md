@@ -4,6 +4,8 @@
 
 L'extension Catenda Navisworks est une extension qui peut être installée pour Nemetchek Archicad. Avec cette extension, vous pourrez collaborer sur les points de vue 3D, les rubriques et les documents avec les autres Membres du projet de construction.
 
+Les rubriques suivantes sont décrites dans cet article :
+
 ## 1. **À propos de l'extension**
 
 Le complément Catenda Hub pour Autodesk® Navisworks® est l'outil idéal pour les projets collaborant dans Catenda Hub. Tous vos sujets sont synchronisés en temps réel entre Navisworks et Catenda Hub, ce qui vous permet de créer, d'accéder, de partager et de communiquer les sujets. Le format de la rubrique est BCF afin que les rubriques puissent être partagées sur n'importe quel logiciel ou plateforme BIM compatible BCF. Ce complément vous permet de visualiser, créer et modifier les rubriques de manière transparente dans Navisworks. Vous pouvez également télécharger et fédérer le modèle IFC stocké dans Catenda Hub sur votre client local.
@@ -59,6 +61,8 @@ Voici à quoi ressemble l'onglet Catenda lorsqu'il est sélectionné
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/02-catenda-tab.png)
 
+Les rubriques suivantes sont décrites dans cette section :
+
 ### 5.1 **Catenda**
 
 Le bouton Catenda dans le menu Extensions Catenda de l'onglet Catenda ouvrira le navigateur par défaut avec la [page de connexion](https://support.catenda.com/en/articles/7891486-sign-in-page) de Catenda Hub.
@@ -90,6 +94,8 @@ Voici à quoi peut ressembler le menu paramètres après s'être connecté avec 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/07-settings.png)
 
 Si la session de connexion a expiré, le bouton actualiser peut être utilisé pour actualiser la session de connexion.
+
+Les rubriques suivantes sont décrites dans cette section :
 
 ### 6.1 **Authentification**
 
@@ -137,6 +143,8 @@ Dans le menu rubrique, les rubriques sélectionnées peuvent être modifiées et
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/11-topic.png)
 
+Les rubriques suivantes sont décrites dans cette section :
+
 ### 8.1 **Flèches de navigation**
 
 Utilisez les flèches de navigation dans le menu pour vous déplacer entre les différentes rubriques du tableau de rubriques.
@@ -170,6 +178,8 @@ Cliquez sur le bouton Effacer les plans de coupe pour effacer les plans de coupe
 Dans le menu interférences, les rubriques peuvent être soumises en résultat des résultats de Clash Detective. Voici à quoi peut ressembler le menu interférences.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/12-clashes.png)
+
+Les rubriques suivantes sont décrites dans cette section :
 
 ### 9.1 **Exécution d'un test Clash Detective**
 
@@ -272,6 +282,8 @@ Modifier le Statut des interférences sélectionnées dans l'extension Catenda N
 Téléchargez, ouvrez et ajoutez les révisions de modèles du projet Catenda sélectionné dans le menu Tableaux de rubriques au projet Navisworks. Voici à quoi peut ressembler le menu modèles :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/20-models.png)
+
+Les rubriques suivantes sont décrites dans cette section :
 
 ### 10.1 **Recherche**
 

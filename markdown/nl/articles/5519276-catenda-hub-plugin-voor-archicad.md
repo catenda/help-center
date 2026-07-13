@@ -6,6 +6,8 @@
 
 De Catenda Archicad-plugin is een plugin die kan worden geïnstalleerd voor Nemetchek Archicad. Met deze plugin kunt u samenwerken aan 3D-standpunten, topic en Documenten met andere leden van het bouwproject.
 
+De volgende topic zijn in dit artikel beschreven:
+
 ## 1. **Installatie**
 
 Wanneer de Catenda Archicad-plugin op Windows wordt geïnstalleerd, verschijnen de installatiebestanden in de volgende map.

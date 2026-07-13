@@ -4,6 +4,8 @@
 
 Catenda Navisworks-plugin er en plugin som kan installeres for Nemetchek Archicad. Med denne plugin-en kan du samarbeide om 3D-visninger, emner og Dokumenter med andre medlemmer av byggekonseptet.
 
+Følgende emner er beskrevet i denne artikkelen:
+
 ## 1. **Om plugin-en**
 
 Catenda Hub-tillegg for Autodesk® Navisworks® er det perfekte verktøyet for prosjekter som samarbeider i Catenda Hub. Alle emnene dine synkroniseres i sanntid mellom Navisworks og Catenda Hub, slik at du kan opprette, få tilgang til, dele og kommunisere emner. Emneformatet er BCF slik at emnene kan deles på tvers av enhver BCF-aktivert BIM-programvare eller -plattform. Dette tillegg lar deg visualisere, opprette og redigere emner sømløst fra Navisworks. Du kan også laste ned og sammenslå IFC-modellen som er lagret i Catenda Hub til den lokale klienten din.
@@ -59,6 +61,8 @@ Slik kan Catenda-fanen se ut når den er valgt
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/02-catenda-tab.png)
 
+Følgende emner er beskrevet i denne delen:
+
 ### 5.1 **Catenda**
 
 Catenda-knappen i Catenda Plugins-menyen på Catenda-fanen åpner standardnettleseren med [påloggingssiden](https://support.catenda.com/en/articles/7891486-sign-in-page) til Catenda Hub.
@@ -90,6 +94,8 @@ Slik kan innstillingsmenyen se ut etter å ha logget på.
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/07-settings.png)
 
 Hvis påloggingsøkten har tidsavbrudd, kan oppdateringsknappen brukes til å oppdatere påloggingsøkten.
+
+Følgende emner er beskrevet i denne delen:
 
 ### 6.1 **Godkjenn**
 
@@ -137,6 +143,8 @@ I emne-menyen kan valgte emner redigeres og nye emner kan sendes inn. Slik kan e
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/11-topic.png)
 
+Følgende emner er beskrevet i denne delen:
+
 ### 8.1 **Navigasjonspiler**
 
 Bruk navigasjonspilene i menyen for å bevege deg mellom ulike emner i emne-tavlen.
@@ -170,6 +178,8 @@ Klikk knappen Fjern utklippingsplan for å fjerne utklippingsplanene i viseren.
 I konfliktmenyen kan emner sendes inn som et resultat av Clash Detective-funn. Slik kan konfliktmenyen se ut.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/12-clashes.png)
+
+Følgende emner er beskrevet i denne delen:
 
 ### 9.1 **Kjører en Clash Detective-test**
 
@@ -272,6 +282,8 @@ Endre statusen for konfliktene som er valgt i Catenda Navisworks-plugin til en a
 Last ned, åpne og legg til modellrevisjoner fra Catenda-prosjektet som er valgt i menyen Emne-tavler til Navisworks-prosjektet. Slik kan modellmenyen se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/20-models.png)
+
+Følgende emner er beskrevet i denne delen:
 
 ### 10.1 **Søk**
 
