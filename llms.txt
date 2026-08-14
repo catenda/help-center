@@ -23,7 +23,7 @@ Get an overview of your projects or configure your account or organization
 - [Account notifications page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7439223-account-notifications-page.md)
 - [Account page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6880968-account-page.md)
 - [Adding users without an email invitation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8434846-adding-users-without-an-email-invitation.md)
-- [Changing to your preferred language](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670248-changing-to-your-preferred-language.md)
+- [Changing the preferred language](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670248-changing-the-preferred-language.md)
 - [Creating a new project](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670245-creating-a-new-project.md)
 - [Creating a team](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670264-creating-a-team.md)
 - [Creating an account](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8412895-creating-an-account.md)
@@ -81,10 +81,12 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [Add to home screen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/10741601-add-to-home-screen.md)
 - [Adding and removing the CatendaSP app](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9453368-adding-and-removing-the-catendasp-app.md)
 - [Advanced naming convention](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7936947-advanced-naming-convention.md)
+- [Approval Operations and Actions Matrix](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/16195101-approval-operations-and-actions-matrix.md): Detailed operational guide describing permissions for viewing and executing actions across drafting, reviewing, and final approval phases, structured by pre-submission and post-submission lifecycle stages.
 - [Approval request documents right menu](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12495638-approval-request-documents-right-menu.md)
 - [Approval request file review right menu](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12507519-approval-request-file-review-right-menu.md)
 - [Approval request file review right menu - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12507914-approval-request-file-review-right-menu-legacy.md)
 - [Approval settings page - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12367293-approval-settings-page-legacy.md)
+- [Approval Workflows: Admin Rules](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/16238073-approval-workflows-admin-rules.md): Guide for administrators detailing setup rules, flexible configuration options, post-submission parameter locks, and how project configuration changes impact active approval requests.
 - [Approvals page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12495047-approvals-page.md)
 - [Approvals page - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8349340-approvals-page-legacy.md)
 - [BCF workflow using markup tool in Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670335-bcf-workflow-using-markup-tool-in-archicad.md)
@@ -93,7 +95,7 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [Boards page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9413644-boards-page.md)
 - [Bookmark contents page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8471481-bookmark-contents-page.md)
 - [Bookmarks page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670281-bookmarks-page.md)
-- [Catenda Archicad plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5519276-catenda-archicad-plugin.md): test
+- [Catenda Archicad plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5519276-catenda-archicad-plugin.md)
 - [Catenda Desktop Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8358861-catenda-desktop-connector.md)
 - [Catenda Navisworks plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5085987-catenda-navisworks-plugin.md)
 - [Catenda Plugins & Integrations](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8396532-catenda-plugins-integrations.md): Connect Catenda to your favorite tool
@@ -174,7 +176,7 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [Links library](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670254-links-library.md)
 - [List View in a topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6941232-list-view-in-a-topic-board.md)
 - [Measure plane](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8360838-measure-plane.md)
-- [Measuring to grids](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670298-measuring-to-grids.md)
+- [Measuring to sliding planes](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670298-measuring-to-sliding-planes.md)
 - [Medium naming convention](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7936943-medium-naming-convention.md)
 - [Members page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11926821-members-page.md)
 - [Merged file in Navisworks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7120416-merged-file-in-navisworks.md)
@@ -211,6 +213,8 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [Queries](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4854514-queries.md): An explanation of the query function in the 2D toolbar
 - [Report templates page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12380837-report-templates-page.md)
 - [Reports page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12303098-reports-page.md)
+- [Revision Blocks in Naming Conventions](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/15886483-revision-blocks-in-naming-conventions.md): Learn to configure dynamic blocks in folder naming conventions. 
+See how files stack as sequential revisions, where to view results, and how to use custom fields with the document identifier turned off.
 - [Revision selector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670279-revision-selector.md)
 - [Revision Verification via QR-Code on PDFs](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9330787-revision-verification-via-qr-code-on-pdfs.md)
 - [Revisions in naming convention](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9496151-revisions-in-naming-convention.md)
@@ -308,6 +312,7 @@ Persona: David, a BIM Coordinator for a large general contractor.
 - [Final Approval Decisions Made Easy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12629484-final-approval-decisions-made-easy.md)
 - [Managing Approvals as Administrator](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12620829-managing-approvals-as-administrator.md)
 - [Managing Clash Coordination at Scale](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13845605-managing-clash-coordination-at-scale.md)
+- [Revision Naming Use Cases](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/15886912-revision-naming-use-cases.md): Explore real-world revision naming examples. Learn how teams balance space and readability using version sequences, status mapping, and compact YYMMDD or clear YYYYMMDD prefixes optimized for chronological document sorting.
 - [Submit & Manage Approvals: Guide for Drafters](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12627979-submit-manage-approvals-guide-for-drafters.md)
 - [Weekly Clash Reports](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13847707-weekly-clash-reports.md)
 
@@ -390,6 +395,7 @@ Find the latest Catenda updates
 - [Feature statuses Q1 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13905428-feature-statuses-q1-2026.md)
 - [Feature statuses Q2 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/14804986-feature-statuses-q2-2026.md)
 - [Feature statuses Q3 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13905373-feature-statuses-q3-2025.md)
+- [Feature statuses Q3 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/15957767-feature-statuses-q3-2026.md)
 - [Feature statuses Q4 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13905411-feature-statuses-q4-2025.md)
 - [Massive upgrade of mobile app](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5435949-massive-upgrade-of-mobile-app.md)
 - [Mobile app update](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/5280539-mobile-app-update.md)
@@ -428,6 +434,8 @@ Login Issues, performance problems, support etc.
 - [Microsoft Teams Notifications Troubleshooting](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/14685172-microsoft-teams-notifications-troubleshooting.md)
 - [Navisworks plugin troubleshooting](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12597294-navisworks-plugin-troubleshooting.md)
 - [No access pages](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9172624-no-access-pages.md)
+- [Revision Convention Troubleshooting](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/15886850-revision-convention-troubleshooting.md): Troubleshoot file upload failures and revision stacking errors in folders with naming conventions. 
+Fix issues caused by an incorrectly enabled Document Identifier and learn to identify allowed custom field values from the preview
 - [Sign-in and Passwords](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/10798891-sign-in-and-passwords.md)
 - [Solibri BCF Live Connector troubleshooting](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/14301642-solibri-bcf-live-connector-troubleshooting.md)
 - [Solibri documents integration troubleshooting](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11431097-solibri-documents-integration-troubleshooting.md)

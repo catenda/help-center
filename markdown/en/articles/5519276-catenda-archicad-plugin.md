@@ -1,7 +1,5 @@
 # Catenda Archicad plugin
 
-> test
-
 > **Note:** The install file for the plugin can be found in [this article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
 The Catenda Archicad plugin is a plugin that can be installed for Nemetchek Archicad. With this plugin you will be able to collaborate on 3D viewpoints, topics and documents with the other members of the construction project.

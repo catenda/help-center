@@ -8,7 +8,7 @@ This is what the [topic header](https://support.catenda.com/en/articles/8400566-
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/02-intro.png)
 
-Below the topic header the topic body can be found with description and comments. The topic body is described in this article. To the right of the topic body and header the [right information panel](https://support.catenda.com/en/articles/8053299-issue-right-panel) can be found. Click on th information icon in the topic banner to expand the right infomraiton panel.
+Described in this article, the topic body with description and comments can be found below the topic header. Click the information icon towards the right in the topic banner to display the [related items menu](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic) towards the right of both the header and the body.
 
 The topic body described in this article is below the header and to the left of the right information panel:
 
@@ -108,7 +108,7 @@ It is also possible to highlight the text box of the comment and paste an image 
 
 **Connect image to 3D** When an image is added to a comment it will say "No viewer connection" under the image unless a model is loaded in the 3D viewer. The text "Connect to 3D viewpoint" is displayed. The image can now connect it to objects and a position in the viewer. Submit this comment to play back the viewpoint by clicking on the play button. Annotations can be added to the image after adding the image and before submitting the comment.
 
-**Image pop-out** The image that is attached to the comment after the comment is submitted can be popped-out to see a its contents in a larger format and download it after it has been submitted.
+**Image pop-out** The image that is attached to the comment after the comment is submitted can be [popped-out](#h_e36d14edc8) to see a its contents in a larger format and download it after it has been submitted.
 
 **Deleting an image from a comment** Images that are attached to comments cannot be edited or deleted from the comment. Delete the whole comment to remove the image from the topic.
 
@@ -151,7 +151,7 @@ The document preview will not show the document if: The document revision has be
 
 If the annotation is made on a PDF comparison the revision numbers of the two revisions that are compared are displayed.
 
-**Image pop-out** The image that is attached to the comment after the comment is submitted can be popped-out to see a its contents in a larger format and download it after it has been submitted.
+**Image pop-out** The image that is attached to the comment after the comment is submitted can be [popped-out](#h_e36d14edc8) to see a its contents in a larger format and download it after it has been submitted.
 
 ### 4.6 **New comment**
 

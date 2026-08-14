@@ -1,6 +1,8 @@
 # Overview tab in an approval request
 
-The overview tab of an approval request can be found on the approval request page of [open or closed](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page) approvals. In the overview tab an overview of a selected approval review step can be found. In the step the validations that are indicated and submitted by a member on behalf of each submitter team that is configured to review the step can be seen. For an overview of validation submissions for all the steps, see the [documents tab](https://support.catenda.com/en/articles/8349418-approval-page#h_133b2690af). This is what the overview tab in the approval content can look like for projects that enabled shared revisions after 2 October 2025:
+The overview tab of an approval request can be found on the approval request page of [open or closed](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page) approvals. In the overview tab an overview of a selected approval review step can be found. In the step the validations that are indicated and submitted by a member on behalf of each submitter team that is configured to review the step can be seen. For an overview of validation submissions for all the steps, see the [documents tab](https://support.catenda.com/en/articles/8349418-approval-page#h_133b2690af).
+
+> **Note:** **Look and feel -** This is what the overview tab in the approval content can look like for projects that enabled shared revisions after 2 October 2025:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/01-intro.png)
 
@@ -26,7 +28,9 @@ In the under review table documents that are not yet submitted can be seen. This
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/04-under-review-table.png)
 
-Members that are part of teams that are configured as reviewer teams for this approval request step will see one row per configured reviewer team they are part of. In the active approval request step, if there are still validation indications left to submit on behalf of any reviewer teams a member is part of, a yellow bar is displayed towards the top. When all documents are reviewed and validation indications have been submitted on behalf of each of the reviewer teams the bar towards the top will become green and get a checkmark.
+Members that are part of teams that are configured as reviewer teams for this approval request step will see one row per configured reviewer team they are part of. In the active approval request step, if there are still validation indications left to submit on behalf of any reviewer teams a member is part of, a yellow bar is displayed towards the top.
+
+When all documents are reviewed and validation indications have been submitted on behalf of each of the reviewer teams the bar towards the top will become green and get a checkmark.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/05-under-review-table.png)
 
@@ -50,15 +54,15 @@ When validation indications are submitted for all documents the approval request
 
 ### 4.1 Columns in the step overview table
 
-**Team** Names of reviewer teams that are configured for this approval step in the workflow selected for this approval request.
+**_Team_ —** Names of reviewer teams that are configured for this approval step in the workflow selected for this approval request.
 
-**Pending** The amount of documents where a reviewer team member has not yet submitted a validation indication on behalf of the reviewer team in this approval request step.
+**_Pending_ —** The amount of documents where a reviewer team member has not yet submitted a validation indication on behalf of the reviewer team in this approval request step.
 
-**Rejected** The amount of rejection indications that have been submitted by a reviewer team member on behalf of a reviewer team in this approval request step.
+**_Under review –_** _The amount of documents that is Approved or rejected but not yes submitted. When not not submitted but available for submitting the button ‘submit’ is darkgreen._
 
-**Approved** The amount of approved indications that have been submitted by a reviewer team member on behalf of a reviewer team in this approval request step.
+**_Sumitted_ —** The amount of approved indications that have been submitted by a reviewer team member on behalf of a reviewer team in this approval request step.
 
-**Progress** The progress of validation inducations that have been submitted by a reviewer team member on behalf of a reviewer team in this approval request step.
+**_Team Progress_ —** The progress of validation indications that have been submitted by a reviewer team member on behalf of a reviewer team in this approval request step.
 
 ## 5. Approval request result
 
@@ -78,13 +82,21 @@ Click [here](https://support.catenda.com/en/articles/12520773-approvals-troubles
 
 Click on view details to see the publishing results for each document.
 
-**Status** The status of the publishing of the document The status can be one of the following: Published For documents that were given a final approval, the revision number of the shared revision is displayed with an arrow to the published revision that was created as a result of publishing this shared revision.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/10-view-details.png)
 
-Publishing Failed For documents that were given a final approval that were not able to be published the reason they were not able to be published is displayed.
+**Status**
 
-Set status For documents that were given a final rejection the status that the revision was updated with as a result is displayed.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/11-view-details.png)
 
-**Name** The following are shown in the name column:
+The status of the publishing of the document The status can be one of the following:
+
+**Published** For documents that were given a final approval, the revision number of the shared revision is displayed with an arrow to the published revision that was created as a result of publishing this shared revision.
+
+**Publishing Failed** For documents that were given a final approval that were not able to be published the reason they were not able to be published is displayed.
+
+**Set status** For documents that were given a final rejection the status that the revision was updated with as a result is displayed.
+
+**_Name_** The following are shown in the name column:
 
 - Document file path
 - Document icon

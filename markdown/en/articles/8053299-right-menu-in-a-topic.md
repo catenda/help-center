@@ -4,7 +4,7 @@ The right menu in a topic can be found by clicking the information button to the
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/01-intro.png)
 
-In the right menu of a topic information about the related items in a topic can be found. This is what the right menu might look like when all menus are retracted:
+In the right menu of a topic information about the related items in a topic can be found. This is what the related items menu can look like when all menus are retracted:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/02-intro.png)
 

@@ -1,6 +1,6 @@
 # Documents tab in an approval request
 
-The documents tab of an approval request can be found on the approval request page of [draft](https://support.catenda.com/en/articles/12495175-draft-approval-request-page), [open or closed](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page) approvals. In the documents tab validation amounts of validation indications submitted on behalf of reviewer teams by a member in each reviewer team for each document that is part of the appoval can be seen. This is what the documents tab in the approval content can look like for projects that enabled shared revisions after 2 October 2025:
+The documents tab of an approval request can be found on the approval request page of every approvals. In the documents tab validation amounts of validation indications submitted on behalf of reviewer teams by a member in each reviewer team for each document that is part of the appoval can be seen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/01-intro.png)
 
@@ -10,11 +10,7 @@ This is what the selected item actions in the documents tab can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/02-selected-item-actions.png)
 
-### 1.1 **Discard document**
-
-Use the discard document actions to discard the selected documents from the approval request. _Access required:_ Member of the publisher team
-
-Discarded documents are removed from the entire approval request. Discarded documents are removed from the documents list.
+The table indicates the status of the documents inside this specific approval. In the last column is the _submit_ or review _button_. Depending on the status of the document in the approval.
 
 ## 2. **Right menu**
 
@@ -24,50 +20,33 @@ The right menu can be opened by clicking on the info icon towards the right of t
 
 Click [here](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu) to read more about the right menu of the documents tab.
 
+> **Note:** Select one document (by clicking title) or select multiple documents signed to you to directly start reviewing from the documents tab.
+
 ## 3. **Document approval table**
 
-The document approval table can look something like this:
+### 3.1 **Columns**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/04-document-approval-table.png)
+- **Name:** Show the name of the document and the type of document with icon.
+By clicking the title you can directly show the document in the approval environment.
+- **Revision:** Shows the revisionname of the document
+- **#:** Shows wich version/revision from document inside the approval is.
+    - When a document gets added to an approval it will show its major and minor revision number which can look something like this:
+​
 
-Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read more about how to work with tables in Catenda. As soon as a document is added to the approval request it will show up as a row in the document approval table.
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
-### 3.1 **Row content**
+    - If the selected shared revision was published to become the latest published revision in the document outside of the current approval request it can look something like this:
+​
 
-When the table is first loaded in, up to 100 rows are displayed. If more than 100 rows are in the table scroll down to the bottom to load in the next 100 rows.
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 
-**Access** Rows on the document approval table are displayed based on the access to the element. _Access required -_ Read access to the document and the checkbox for viewing shared revisions checked.
+- **Step 'x':** Shows with a bar what the status of the step is.
+- **Final approval:** This column shows the final approval when activated the icon get colorized.
 
-**Document row** When a row is selected its content can be opened by clickin on view or review in the right menu. This opens the file review page for the document.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/04-columns.png)
 
-### 3.2 **Columns**
+### 3.2 Final approval
 
-Based on the configured column order the first columns are displayed while the table might have to be scrolled sideways to show other enabled columns. The default order and visibility setting of the columns on the documents page is as follows:
+When the final approval has not been given yet this column will say 'upcoming' After a member of the final approval team has submitted the approval indication for a document the final outcome of the document will be displayed here as either approved or rejected.
 
-**Name** In the name column the following information about the document that the revision is in is displayed:
-
-- File path on the documents page
-- Document name
-- Filtype icon
-
-**Revision** The name of the revision
-
-**#** When a document gets added to an approval it will show its major and minor revision number which can look something like this:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/05-columns.png)
-
-If the selected shared revision was published to become the latest published revision in the document outside of the current approval request it can look something like this:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/06-columns.png)
-
-If a different shared revision
-
-**Step n** For each step in the approval request a column is displayed. In this column the submission states of the reviewer teams for this step are displayed. In the image below 20 reviewer teams are set to review a step.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/07-columns.png)
-
-The reviewer team members of one of the reviewer teams have yet to submit their approval indication submission. Eightteen reviewer team members of different reviewer teams have submitted a rejection on behalf of their reviewer team. One reviewer team member has submitted an approval on behalf of their reviewer team. Hover over each of the boxes to see which teams are included in each count.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/08-columns.png)
-
-Final approval When the final approval has not been given yet this column will say in review. After a member of the final approval team has submitted the approval indication for a document the final outcome of the document will be displayed here as either approved or rejected.
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/05-final-approval.png)

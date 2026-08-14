@@ -28,11 +28,27 @@ It is possible to underlay a PDF from the documents section with the [storey con
 
 ## 3. **Markers in the 2D viewer**
 
-With [markers enabled](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098) any topics that have a specified location on the story of a an IFC or a configured building are displayed. This is what a 2D view with different markers can look like in the browser.
+With [markers enabled](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098) topics with location are displayed as colored circles at an x-y coordinate. This is what a 2D view with different markers can look like in the browser:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3bzb6a32/03-markers-in-the-2d-viewer.png)
 
-Hovering over the marker will show you the topic number and title. Clicking on the marker will let you open up the topic in the topic board. Click [here](https://support.catenda.com/en/articles/4854523-2d-location-of-issues) to read more about the 2D location of topics.
+Click [here](https://support.catenda.com/en/articles/4854523-2d-location-of-issues) to read more about the 2D location of topics.
+
+### 3.1 **Topics with existing markers**
+
+**Marker interactions -** Mouse over a marker to see the number and title of the topic the marker is from. Click on the marker to open up the topic in its topic board in the content panel. A marker that belongs to an opened topic is highlighted in green.
+
+**Viewing markers -** Filter and search in a topic board. Topics from the filtered result that have markers on the prepared 2D viewer are displayed.
+
+### 3.2 **Topics with new markers**
+
+Before working with markers make sure the 2D viewer is configured.
+
+- **Storeys from Model 2D views -** Choose a storey from an enabled 2D view as the base height. Enable other 2D views to view longside that storey.
+- **Storeys from** **Buildings -** Choose a storey from a pre-configured building. 
+The base height and the enabled 2D views from configured models are enabled.
+
+**Marker placement -** Right click on canvas and create a new topic with marker Click on add location in the topic header on the content panel and click on the location where the marker should be added.
 
 ## 4. **Room Labels in the 2D Viewer**
 

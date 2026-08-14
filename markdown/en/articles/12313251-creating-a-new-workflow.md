@@ -171,13 +171,26 @@ If the start date for the approval step is on a Friday the due date will be set 
 
 ### 4.4 **Auto-approve**
 
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/20-auto-approve.png)
+
 Enable auto-approve to prevent bottlenecks - documents will automatically receive approved reviews on behalf of teams that haven't responded by the due date.
 
-### 4.5 **Delete review step**
+### 4.5 Require review from all team members
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/21-br-require-review-from-all-team-members.png)
+
+Enable Require review from all team members to require every individual member of each reviewer team in this step to submit their own validation indication before the team's review can be submitted.
+
+- **When this is off** (the current, only behavior described elsewhere in this help center), any one member of the reviewer team can submit a validation indication on behalf of the whole team, and the step can proceed as soon as they do.
+
+- **When this is on,** the team's step is not complete until every individual member has given their own indication. See the Overview tab, the file review right menu, and the documents tab right menu articles for how this shows up during review.
+​
+
+### 4.6 **Delete review step**
 
 Click on the trashcan icon on the top right of a review step to delete it.
 
-### 4.6 **Requirement**
+### 4.7 **Requirement**
 
 If there are review steps each step must have at least one submitter to be able to sumit the workflow.
 
@@ -185,7 +198,7 @@ If there are review steps each step must have at least one submitter to be able 
 
 Final approval will be given manually by a single team. This is what the final approval part of a new approval workflow can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/20-final-approval.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/22-final-approval.png)
 
 ### 5.1 **Team**
 
@@ -201,15 +214,27 @@ The final appproval team that will give the final approval based on the reviews 
 
 The amount of working days the final aproval team has to configure the final approval. _Minimum working days requried:_ 0 working days
 
-### 5.3 **Review state**
+### 5.3 Topic template
+
+In the field topic templates you can choose the template the system use wich creates a topic when the approval flow is ended. Choosing nothing means that er no topics get created!
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/23-br-topic-template.png)
+
+Choosing a template is possible from existing topic-templates. [Read more about topic templates](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)
+
+When there is no template you have ability to create one directly into the settings view.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/24-br-topic-template.png)
+
+### 5.4 **Review state**
 
 Approved or rejected
 
-### 5.4 **Final status**
+### 5.5 **Final status**
 
 Select the final status for approved and rejected documents. Approved documents will be published, Rejected documents will not be published.
 
-### 5.5 **Requirement**
+### 5.6 **Requirement**
 
 A final approval team must have been selected to be able to sumit the workflow. A final status for approved workflows must be selected to be able to sumit the workflow. A final status for rejected workflows must be selected to be able to sumit the workflow.
 
@@ -217,13 +242,13 @@ A final approval team must have been selected to be able to sumit the workflow. 
 
 Click on submit to submit the workflow.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/21-submit.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/25-submit.png)
 
 ### 6.1 **Required field warning**
 
 If the workflow is missing a required field a warning towards the top of the page will ask for the missing fields to be filled out. This is what the warning can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/22-required-field-warning.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/26-required-field-warning.png)
 
 The following are required to submit a new workflow:
 

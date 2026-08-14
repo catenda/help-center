@@ -63,3 +63,9 @@ If you are able to sign in, you can go to the [account authentication page](http
 If your are changing your password, please make sure you enter a new password that is not the same as your previous password.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zw9p4shp/07-new-password-is-the-same.png)
+
+### 2.6 500 error when using SSO
+
+If you receive a 500 error after signing in with SSO, the email address provided by your Identity Provider may be different from the email address registered on your Catenda user account. Since no matching user can be found, the sign-in fails with a 500 error. Please contact your organization's IT administrator to verify which email address is being sent through SSO.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/zw9p4shp/08-500-error-when-using-sso.png)
