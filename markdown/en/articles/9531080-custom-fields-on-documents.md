@@ -13,18 +13,18 @@ To apply user-defined fields to documents, proceed as follows:
 1. Creates the desired user-defined field
 1. Assigns the created user-defined field to one or more folders
 
-    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/1095056178/81176c86ddc4062fb64aa87f/image.png?expires=1787896800&amp;signature=9e23c1275353b2eeb8ed744f84fa72c22062c762c6c882426cab8110908e8f4e&amp;req=dSAuE8l7m4BYUfMW3nq%2BgVN4nEgEaOyojBIqdcs4%2BAtZch1Vwf%2BHHvI28uA8%0ASaMaZEggEc6NjwQGwQ8q011ioMw%3D%0A" width="496"/></div>
+    <div class="intercom-container"><img src="images/inline-ba695fa6aebd.png" width="496"/></div>
 
 1. Defines whether the user-defined field is to be assigned for a document (across revisions) or for each individual revision
 
-    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/1095057379/8b562fdd58420bfee4de4c64/image.png?expires=1787896800&amp;signature=937eacf0c7a7cfa3ebefec549dddd536ceea0980253173605fed047d6727c4f3&amp;req=dSAuE8l7moJYUPMW3nq%2BgQRRB91LEbetlhMBxxJxaQxCfHS0RL2LhHipLtzY%0A0wusinHVcq%2FMexwbMHa173Egq8M%3D%0A" width="500"/></div>
+    <div class="intercom-container"><img src="images/inline-20eab3b097ce.png" width="500"/></div>
 
 1. Sets default values, if desired
 
-    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/1095058522/70e3a8306212bc123048448a/image.png?expires=1787896800&amp;signature=5a41d137a43e7c6f8c8bd5deda76d38c0815f8feaadb3fdd005f06dda6f3ec41&amp;req=dSAuE8l7lYRdW%2FMW3nq%2BgfXh6GUNd2gZoiBIYYthbWXouqEu2iaToreQOK3A%0Az%2BvZkJx2iHTVeLMYV53pE6DDBAM%3D%0A" width="500"/></div>
+    <div class="intercom-container"><img src="images/inline-7241dd9f32dd.png" width="500"/></div>
 
 1. In the document area, you can now recognize the assigned user-defined field on the document under the folders in the document information.
 
-    <div class="intercom-container"><img src="https://downloads.intercomcdn.com/i/o/1095060186/0a0958e438d799378ec9c08b/image.png?expires=1787896800&amp;signature=fb723331dfda364d7639baf600ee5af4f0a49991cecb86bef1fd3c327d14ff04&amp;req=dSAuE8l4nYBXX%2FMW3nq%2BgWy4EWUgV%2BavuUU%2FCsdx6CxVLNz65qxDFPo78mCW%0ALZQZqkqF4uFiHs5q3ilNrqTT9ik%3D%0A" width="500"/></div>
+    <div class="intercom-container"><img src="images/inline-f4243a01e272.png" width="500"/></div>
 
 > **Note:** Custom fields are also available in the filter area or the search bar.
