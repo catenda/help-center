@@ -2,19 +2,19 @@
 
 The right information menu can be found by selecting a model on the [models page](https://support.catenda.com/en/articles/4670286-models-page) or by entering the [content page](https://support.catenda.com/en/articles/4670270-model-overview-page) of a model.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/01-intro.png)
+![](images/01-intro.png)
 
 Click the "i" icon on the top right to open the right menu.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/02-intro.png)
+![](images/02-intro.png)
 
 The menu can look something like this for a single model:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/03-intro.png)
+![](images/03-intro.png)
 
 Or like this with multiple model rows selected.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/04-intro.png)
+![](images/04-intro.png)
 
 ## 1. **Model header**
 
@@ -24,11 +24,11 @@ In the model header information about the latest revision of the model is displa
 
 Towards the top of the model header an image can be added for the model. This is what it can look like when no image is added.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/05-image.png)
+![](images/05-image.png)
 
 Either upload a local image or add a snapshot directly from the 3D viewer without uploading anything. This is what the models page when an image is configured for a model:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/06-image.png)
+![](images/06-image.png)
 
 _Model image in right menu_ When added, the image is displayed towards the top of the right menu of a model when a single model is selected or when the menu is open on the model content page. The added image is both displayed in the right menu of a model revision when one model is selected as well as in the thumbnail of the model in the name column of the models table.
 
@@ -36,11 +36,11 @@ Click [here](https://support.catenda.com/en/articles/4670257-creating-a-thumbnai
 
 **Model thumbnail** When added, the image is displayed as a thumbnail for the model in the name column of the models table on the models page.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/07-image.png)
+![](images/07-image.png)
 
 Click on the thumbnail to open a preview of the image. This is what the thumbnail preview can look like.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/08-image.png)
+![](images/08-image.png)
 
 From the navigation towards the top the image can be downloaded. If the snapshot was taken from a model the preview is a 3D preview so it is possible to navigate around the model from the starting point of the model thumbnail.
 
@@ -74,7 +74,7 @@ With model transformation model objects can be configured to be displayed at a d
 
 Load the model that is to be moved in the 3D viewer. This can either by done by clicking on the 3D button on the dashboard, on the models page, on the model content  page or in the revision selector. In the right menu on the models page the transformation settings menu will be shown towards the bottom of the menu. Dhis is what the model transformation settings can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/09-model-transformation-settings.png)
+![](images/09-model-transformation-settings.png)
 
 **Offset** Enter X, Y and/or Z coordinate to displace the model. Units - Meter
 
@@ -92,7 +92,7 @@ It is often not a problem to move a model in catenda for short periods of time o
 
 With multiple models selected the right menu can look like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/10-multi-select.png)
+![](images/10-multi-select.png)
 
 Click on the red x next to a model to remove it from the selection.
 
@@ -100,7 +100,7 @@ Click on the red x next to a model to remove it from the selection.
 
 This is what the update selected documents menu can look like
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/11-update-selected-documents.png)
+![](images/11-update-selected-documents.png)
 
 Click in the add and remove labels areas and select one or more labels.
 

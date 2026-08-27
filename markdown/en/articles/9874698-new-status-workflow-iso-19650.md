@@ -24,11 +24,11 @@ The information has been used and can be archived in order to remain available i
 
 ### 1.5 **Document states - ISO 19650**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/01-document-states-iso-19650.png)
+![](images/01-document-states-iso-19650.png)
 
 ### 1.6 **Workflow on Catenda Hub**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/02-workflow-on-catenda-hub.png)
+![](images/02-workflow-on-catenda-hub.png)
 
 ## 2. **Configuring Status Workflow**
 
@@ -38,23 +38,23 @@ _Access required_ Document status configuration access in the [access control ar
 
 Under [document settings](https://support.catenda.com/en/articles/7831371-document-settings) navigate to [Status Workflow](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) and enable shared statuses
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/03-configuring-status-workflow.png)
+![](images/03-configuring-status-workflow.png)
 
 Define the shared and published statuses to be used in the project.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/04-configuring-status-workflow.png)
+![](images/04-configuring-status-workflow.png)
 
 Set default shared status for new revisions. New revisions will initially be uploaded as shared revisions that can late be published. The default status therefore has to be a shared revision status. This status will be selected in the upload dialogue for every document upload and can be changed to a different shared status in the upload process.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/05-configuring-status-workflow.png)
+![](images/05-configuring-status-workflow.png)
 
 ## 3. **Familiar but different**
 
 After activating the status workflow you will see two tabs appear above the documents and models tables.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/06-familiar-but-different.png)
+![](images/06-familiar-but-different.png)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/07-familiar-but-different.png)
+![](images/07-familiar-but-different.png)
 
 ### 3.1 **Workspace**
 
@@ -70,25 +70,25 @@ A mirrored version of the workspace tab. The same folder structure as in the wor
 
 A revision status will be visible for each uploaded file in the upload dialogue.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/08-upload-new-shared-revisions.png)
+![](images/08-upload-new-shared-revisions.png)
 
 A revision status will be applied for each file extracted from a zipped file.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/09-upload-new-shared-revisions.png)
+![](images/09-upload-new-shared-revisions.png)
 
 ### 3.4 Publish shared revisions
 
 **Multiple documents in document structure** A publish action will be available in the existing element action menu of one or more selected documents with shared revisions.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/10-publish-shared-revisions.png)
+![](images/10-publish-shared-revisions.png)
 
 **Single revision in document preview or document structure** A publish action will be available as an icon and in the action menu of the revision info of a shared revision in the right information menu.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/11-publish-shared-revisions.png)
+![](images/11-publish-shared-revisions.png)
 
 **Multiple models** A publish action will be available in the revision info of a document with a shared revision in the right information menu in the document structure and in the document preview.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/12-publish-shared-revisions.png)
+![](images/12-publish-shared-revisions.png)
 
 _Access required:_ Shared revisions
 
@@ -96,20 +96,20 @@ _Access required:_ Shared revisions
 
 After the status workflow is enabled you will see two new columns appear to the right of the access column in the acces control dialogue of a folder or document.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/13-access-control.png)
+![](images/13-access-control.png)
 
 The table below explains how the checkmarks affect the users experience for each access level.
 
 - Check "can publish" for a member or team with write access to allow them to publish shared revisions and edit published revision statuses.
 - Uncheck"view shared revisions" for a member or team with read access to so they only see official, published, revisions.
 
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80;"><h3 id="h_e9579ad9ca"><b>Shared Published Access</b></h3></td><td style="background-color: #e3e7fa80;"><h3 class="intercom-align-center" id="h_dea1580c70">Read</h3></td><td style="background-color: #e3e7fa80;"><h3 class="intercom-align-center" id="h_3c6b6d7d28">Write</h3></td></tr><tr><td><h3 id="h_a33339c27e">Can check "View shared revisions"</h3></td><td><p class="intercom-align-center">Can check. <br/>Unchecked by default.</p></td><td><p class="intercom-align-center">Always checked</p></td></tr><tr><td style="background-color: #e8e8e880;"><h3 id="h_e909b5dc48">Can check "Can publish"</h3></td><td style="background-color: #e8e8e880;"><p class="intercom-align-center">Never checked</p></td><td style="background-color: #e8e8e880;"><p class="intercom-align-center">Can uncheck. <br/>Checked by default</p></td></tr><tr><td><h3 id="h_95374b8adf">View documents</h3></td><td><p class="intercom-align-center">Documents with only shared revisions are only visible if "view shared revisions" is checked</p></td><td><p class="intercom-align-center">Both documents with shared and documents with published revisions are visible</p></td></tr><tr><td style="background-color: #e8e8e880;"><h3 id="h_e401f7a37f">View shared revisions in document info</h3></td><td style="background-color: #e8e8e880;"><p class="intercom-align-center">Shared revisions are only visible if "view shared revisions" is checked</p></td><td style="background-color: #e8e8e880;"><p class="intercom-align-center">Both shared and published reivisions are visible</p></td></tr><tr><td><h3 id="h_13cbc969df">Edit and view shared revision statuses</h3></td><td><p class="intercom-align-center">Viewed if "view shared revisions" is checked but not edited</p></td><td><p class="intercom-align-center">x</p></td></tr><tr><td style="background-color: #e8e8e880;"><h3 id="h_b228d7c432">Edit and view published revision statuses</h3></td><td style="background-color: #e8e8e880;"><p class="intercom-align-center">Can only view published revision status</p></td><td style="background-color: #e8e8e880;"><p class="intercom-align-center">Edit if "Can publish" is checked, else only viewable</p></td></tr><tr><td><h3 id="h_13248acfd2">Publish documents</h3></td><td><p class="intercom-align-center">-</p></td><td><p class="intercom-align-center">Publish if "Can pubish" is checked</p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; padding: 8px;"><h3 id="h_e9579ad9ca"><b>Shared Published Access</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_dea1580c70">Read</h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 class="intercom-align-center" id="h_3c6b6d7d28">Write</h3></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a33339c27e">Can check "View shared revisions"</h3></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Can check. <br/>Unchecked by default.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Always checked</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_e909b5dc48">Can check "Can publish"</h3></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Never checked</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Can uncheck. <br/>Checked by default</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_95374b8adf">View documents</h3></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Documents with only shared revisions are only visible if "view shared revisions" is checked</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Both documents with shared and documents with published revisions are visible</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_e401f7a37f">View shared revisions in document info</h3></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Shared revisions are only visible if "view shared revisions" is checked</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Both shared and published reivisions are visible</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_13cbc969df">Edit and view shared revision statuses</h3></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Viewed if "view shared revisions" is checked but not edited</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">x</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b228d7c432">Edit and view published revision statuses</h3></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Can only view published revision status</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Edit if "Can publish" is checked, else only viewable</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_13248acfd2">Publish documents</h3></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">-</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">Publish if "Can pubish" is checked</p></td></tr></tbody></table></div>
 
 ### 3.6 **Major and minor revision numbers**
 
 Shared revisions have a minor revision number (e.g. #0.1, #2.3, #4.1) Published revisions have a major revision number ( #1, #2, #3 and so on)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/14-major-and-minor-revision-numbers.png)
+![](images/14-major-and-minor-revision-numbers.png)
 
 ### 3.7 Opening the document preview
 
@@ -121,13 +121,13 @@ In the document structure you will see the latest revision you have access to. C
 
 > **Note:** Shared revisions can be visible in the revision overview of the document preview, even if you opened the document from the published tab. _Access required:_ Shared revisions
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/15-opening-the-document-preview.png)
+![](images/15-opening-the-document-preview.png)
 
 ### 3.8 **Revision information**
 
 Select a single document or open the document preview by clicking the document. Information about the current revision will be visible in the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/16-revision-information.png)
+![](images/16-revision-information.png)
 
 - Publish the current revision with the publish action.
 _Access required:_ Shared revisions
@@ -140,7 +140,7 @@ _Access required:_ Write access and published revisions
 
 **Revision information dialogue** Click on the revision box to see an overview of all the revisions in the document in the [revision information dialogue](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision#h_6838c6ad71). A green link between a published and a shared revision indicates which shared revision was published.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/17-revision-information.png)
+![](images/17-revision-information.png)
 
 ### 3.9 Shared and published revisions in Catenda Site
 
@@ -150,17 +150,17 @@ Only published revisions are visible in Catenda Site.
 
 1. Edit access to the document status configuration can be configured from the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page):
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-868820a898ba.png" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="images/inline-868820a898ba.png" width="500"/></div>
 
 1. Documents status can be then [configured](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) from the settings in the documents section:
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-931418a5fab1.png" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="images/inline-931418a5fab1.png" width="500"/></div>
 
 1. Finally, these document status can be assigned to file review status accessible from the top-right three dots button in the [Approvals section](https://support.catenda.com/en/articles/8349340-approvals-page). It is also possible to configure here a Topic template.
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-3cdbebefca38.png" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img src="images/inline-3cdbebefca38.png" width="500"/></div>
 
-    <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-f8ab7f3194ff.png" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img src="images/inline-f8ab7f3194ff.png" width="300"/></div>
 
 ## 5. **Approval workflow**
 

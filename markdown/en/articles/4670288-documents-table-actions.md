@@ -8,9 +8,9 @@ Depending on your access and your selection different actions for your documents
 
 The plus button and hamburger menu items can be found towards the top right of the page and can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/01-new-item-actions.png)
+![](images/01-new-item-actions.png)
 
-The actions you are able to find here all have to do with creating new information. [Selected item actions](#selected-item-actions) that have to do with existing items on the page can also be found towards the top of the list after making a selection.
+The actions you are able to find here all have to do with creating new information. [Selected item actions](#h_fb4e9ef375) that have to do with existing items on the page can also be found towards the top of the list after making a selection.
 
 ### 1.1 **Upload**
 
@@ -20,7 +20,7 @@ Both the plus button and the upload action will open up the upload 'upload a doc
 
 To make a new folder in the document location you are currently in you can use the new folder action button. The new folder dialogue that opens up can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/02-new-folder.png)
+![](images/02-new-folder.png)
 
 When you are creating a document structure or have to make many folders at a time it can be tedious to have to click on the new folder button many times. To make many folder at once it can help to prepare the folders externally and upload them all at once with the upload zip action. _Access required:_ Write access to the folder you are currently in
 
@@ -38,39 +38,39 @@ The my zip uploads action will let you see an overview of your previous zip uplo
 
 After selecting one or more document(s) you will be able to see the following action menu appear towards the top of the documents table. The existing item actions menu can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/03-selected-item-actions.png)
+![](images/03-selected-item-actions.png)
 
 ### 2.1 **Download**
 
 With the download action selected items and their contents can be downloaded by clicking on the download icon on top or by opening the action menu and clicking on the download action in the dropdown menu.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/04-download.png)
+![](images/04-download.png)
 
 Receive a single document with one document row selected. Receive a zip file that contains the content of the selection when a folder row or multiple rows are selected. _Access required:_ full access to your selected document(s) and/or folder(s)
 
 **Discovering documents** Once the download button is pressed a dialogue opens up towards the bottom left of the page. First the system will start discovering the different files in the download. This is what the preparing download dialogue can look like:
 
-![Preparing download zipping files](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/05-download.png)
+![Preparing download zipping files](images/05-download.png)
 
 At this point it is safe to move to a different page on Catenda. The files will start downloading to the local system as soon as the download is prepared. When multiple downloads are started at the same time they will be added to the same dialogue. It is even safe to completely power off your system and come back later when the download is prepared. It is always possible to download the prepared documents from the notification that is created when the download is prepared.
 
 _Zipping files_ As soon as the total amount of files has been discovered the amount of files listed in the dialogue. Draft or withdrawn revisions are not included in this number. Catenda will then start putting the files together in a zipped file that can be downloaded once it is prepared:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/06-download.png)
+![](images/06-download.png)
 
 _Ready for download_ Once the zip file has finished preparing the file navigator of the system will open up. The navigator asks to save the zipped file somewhere on the local machine.
 
-![Preparing download files zipped](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/07-download.png)
+![Preparing download files zipped](images/07-download.png)
 
 When the zip has finished preparing a notification is sent that the zip download is ready. Click on the text in the notification that says "Click to download (...MB)" In order to download the document.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/08-download.png)
+![](images/08-download.png)
 
 ### 2.2 **Move**
 
 With the move action you will be able to move your documents to another location either by pressing the move icon on top or by clicking on the move action in the hamburger menu.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/09-move.png)
+![](images/09-move.png)
 
 After pressing the move button you will get a window that asks you where you want to move the document(s) and/or folder(s) to. _Access required:_ full access to your selected document(s) and/or folder(s) and write access to the location you are moving to.
 
@@ -78,7 +78,7 @@ After pressing the move button you will get a window that asks you where you wan
 
 When you select a document you will see the link and unlink icons next to the download icon or in the hamburger menu. These options might be grayed out if you do not have object of a model in the 3D panel selected.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/10-link-and-unlink.png)
+![](images/10-link-and-unlink.png)
 
 After both selecting document(s) in the documents section of the content panel and an object(s) of model(s) in the 3D viewer you will be able to link and unlink your object(s) to the document(s). _Access required:_ read or write access to your selected document(s) and read access to at least one document-model
 
@@ -86,7 +86,7 @@ After both selecting document(s) in the documents section of the content panel a
 
 The reporting tool can be requested to be activated on a per project basis. With the report action you will be able to create a report of your selected documents.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
+![](images/11-report.png)
 
 Click [here](https://support.catenda.com/en/articles/13973721-create-report-action) to read more about the report action. _Access required:_ Read access to the document
 
@@ -94,7 +94,7 @@ Click [here](https://support.catenda.com/en/articles/13973721-create-report-acti
 
 With [revision publishing](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650) enabled the workspace and published tabs can be seen towards the top of the models page.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/12-publish.png)
+![](images/12-publish.png)
 
 In the workspace tab shared revisions can be seen. You will be able to tell shared revisions apart from published revisions by the icon in the revision column and the fact that they have a minor revision number (0.1, 0.2, 1.1, etc...) _Access required:_ View shared revisions in document-model access settings After enabling the status workflow every new revision in a document will start out as a shared revision which can be published. Select one ore more documents where the latest revision is a shared revision to see the publish action in the action menu. _Access required:_ Can publish in document access settings With the publish action you will be able to publish the latest shared revision. If you wish to publish a previous shared revision, you can publish it from the [revision preview](https://support.catenda.com/en/articles/9323521-document-revision-actions).
 
@@ -118,7 +118,7 @@ If you have selected one document you will be able to upload a new revision by c
 
 **Remove model** The link of a document that is linked to a model can be removed with the remove model action.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/13-create-and-remove-model.png)
+![](images/13-create-and-remove-model.png)
 
 When the model-link is removed, the model will disappear from the models section while the document remains in the document section. A model-link can later be created from the same document again. _Access required:_ Write access to [create and remove models](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) in project settings
 
@@ -142,7 +142,7 @@ _Object relations_ A deleted document that was linked to an object is unlinked u
 
 If you have opened a folder, but not selected anything the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document) will show actions for the folder you are in. The right information menu might be closed and you may have to click on the arrow on the right side to open it. These actions can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/14-current-folder-actions.png)
+![](images/14-current-folder-actions.png)
 
 Because you have not selected anything the selected item actions will not show towards the top of the documents table. Instead you will be able to perform actions on the folder you are in with the icons and hamburger menu in the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document).
 

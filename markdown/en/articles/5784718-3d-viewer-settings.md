@@ -2,7 +2,7 @@
 
 The 3D viewer settings can be found in the top right of the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/01-intro.png)
+![](images/01-intro.png)
 
 > **Note:** Be sure the hardware and sofware Catenda is opened on are configured [as recommended](https://support.catenda.com/en/articles/6921941-hardware-recommendation) as this can have an effect on how the viewer is displayed.
 
@@ -10,25 +10,25 @@ The 3D viewer settings can be found in the top right of the [3D viewer](https://
 
 The 3D viewer can be opened in any of the following ways: Enable the 3D panel with the panel buttons on the top right (Shift + 2).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/02-enabling-the-3d-viewer.png)
+![](images/02-enabling-the-3d-viewer.png)
 
 Enable a 3D model from the Dashboard page.
 
 Enable a 3D model from the viewer column in the models table. (Above image)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/03-enabling-the-3d-viewer.png)
+![](images/03-enabling-the-3d-viewer.png)
 
 Select models on the models page and use the 3D action with selected models on the models page.
 
 Enable a 3D document from the viewer column in the documents table on the documents page. Click on the gear icon to show the **3D viewer settings.**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/04-enabling-the-3d-viewer.png)
+![](images/04-enabling-the-3d-viewer.png)
 
 ## 2. **Rendering**
 
 This is what the rendering menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/05-rendering.png)
+![](images/05-rendering.png)
 
 ### 2.1 **Show spaces**
 
@@ -83,7 +83,7 @@ Point budget: _1000000 Default_ - How many points of the point cloud can be disp
 
 This is what the navigation menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/06-navigation.png)
+![](images/06-navigation.png)
 
 ### 3.1 **Walk mode**
 
@@ -97,7 +97,7 @@ _3 m/s Default_ - How fast the viewer moves in walkthrough mode. For reference a
 
 _1.5 m/s Default_ - Vertical movement speed when moving up and down using X and C.
 
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa80;"><p><b>Method of travel</b></p></td><td style="background-color: #e3e7fa80;"><p><b>Typical speed (m/s)</b></p></td><td style="background-color: #e3e7fa80;"><p><b>Typical speed (mph)</b></p></td></tr><tr><td><p>Walking</p></td><td><p>1.5</p></td><td><p>3.4</p></td></tr><tr><td style="background-color: #e8e8e880;"><p>Default</p></td><td style="background-color: #e8e8e880;"><p>3</p></td><td style="background-color: #e8e8e880;"><p>6.7</p></td></tr><tr><td><p>Running</p></td><td><p>5</p></td><td><p>11</p></td></tr><tr><td style="background-color: #e8e8e880;"><p>Cycling</p></td><td style="background-color: #e8e8e880;"><p>7</p></td><td style="background-color: #e8e8e880;"><p>15</p></td></tr><tr><td><p>Car</p></td><td><p>13 - 30</p></td><td><p>29 - 67</p></td></tr><tr><td style="background-color: #e8e8e880;"><p>Train</p></td><td style="background-color: #e8e8e880;"><p>56</p></td><td style="background-color: #e8e8e880;"><p>125</p></td></tr><tr><td><p>Plane</p></td><td><p>250</p></td><td><p>560</p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; padding: 8px;"><p><b>Method of travel</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Typical speed (m/s)</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Typical speed (mph)</b></p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Walking</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>1.5</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>3.4</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Default</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>3</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>6.7</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Running</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>5</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>11</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Cycling</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>7</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>15</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Car</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>13 - 30</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>29 - 67</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Train</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>56</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>125</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Plane</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>250</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>560</p></td></tr></tbody></table></div>
 
 ### 3.4 **Rotation speed**
 
@@ -115,7 +115,7 @@ Set all navigation settings back to their default position
 
 This is what the environment menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/07-environment.png)
+![](images/07-environment.png)
 
 ### 4.1 **Environment setting**
 

@@ -12,4 +12,4 @@
 
 To move a document you need full access to the folder, not just write access.
 
-![8A5AADBB-8C11-43B0-9F86-A6D53EA19D32.GIF](https://raw.githubusercontent.com/catenda/help-center/main/images/zbj2n73j/01-access-for-moving-documents.gif)
+![8A5AADBB-8C11-43B0-9F86-A6D53EA19D32.GIF](images/01-access-for-moving-documents.gif)

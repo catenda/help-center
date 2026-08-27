@@ -4,7 +4,7 @@
 
 To create a SharePoint library, click on the [new library button](https://support.catenda.com/en/articles/8065645-libraries-page#h_c6d56f227c) on the top right of the [libraries page](https://support.catenda.com/en/articles/8065645-libraries-page). This library can be used to share documents from a users SharePoint with the other members of the Catenda project. When the SharePoint library is activated it can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/01-intro.png)
+![](images/01-intro.png)
 
 Click [here](https://support.catenda.com/en/articles/9800091-sharepoint-library-short-video) to see a short video about how to configure the SharePoint library.
 
@@ -18,11 +18,11 @@ On the left of the header you will see the name of the current library. If the l
 
 On the right of the header you will be able to see an action menu that can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/02-header-library-settings.png)
+![](images/02-header-library-settings.png)
 
 In the library settings you will be able to configure your SharePoint library. _Access required:_ Library creator
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/03-header-library-settings.png)
+![](images/03-header-library-settings.png)
 
 ### 2.1 **Connection**
 
@@ -72,7 +72,7 @@ Here you will be able to navigate all the documents and folder within the shared
 
 After selecting one or more document(s) or folder(s) you will be able to see the following action menu appear towards the top of the documents list. The existing item actions menu can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/04-actions.png)
+![](images/04-actions.png)
 
 **Link/unlink** If you select an object from a model in 3D you will be able to link/unlink it to your selected elements.
 
@@ -102,7 +102,7 @@ If any objects have been linked to your documents you will be able to see the am
 
 When you first open select a document in the document list, its right menu might be closed. You can click on the information button on the bottom right of the [document banner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) to expand this menu.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/05-right-information-menu.png)
+![](images/05-right-information-menu.png)
 
 ### 6.1 **Linked objects**
 

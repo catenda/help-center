@@ -4,11 +4,11 @@ You will be able to find the users page as a sub page to your [organizations pro
 
 Here you will see an overview of all the users that are part of this organization.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/01-intro.png)
+![](images/01-intro.png)
 
 The users page can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/02-intro.png)
+![](images/02-intro.png)
 
 ## 1. **User types**
 
@@ -39,11 +39,11 @@ Members are accounts of people that owners often move in and out of projects in 
 
 If you have registered your domain with Catenda you will be able to see this button.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/03-add-from-domain.png)
+![](images/03-add-from-domain.png)
 
 You can request to register your domain by contacting support via the black chat button next to your profile picture on the top right or by sending an email to [support@catenda.com](mailto:support@catenda.com) Clicking on this button will open the add from domain dialogue
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/04-add-from-domain.png)
+![](images/04-add-from-domain.png)
 
 In the example above the test.com domain was registered. In the list of user to choose from you will see all Catenda users that have made an account with Catenda under the registered domain name. If you are hoping to add someone that does not have a Catenda account yet you will have to wait until they have created their account before you can add them.
 
@@ -61,13 +61,13 @@ _Owner_ - The owner(s) of the organization _Member_ - Organization members
 
 After selecting one or more user(s) in the users list by clicking on their checkbox you will see the following action buttons appear towards the top of the projects list.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/05-action-buttons.png)
+![](images/05-action-buttons.png)
 
 ### 4.1 **Add to projects**
 
 Add your selected users to one or more projects. After clicking on add to projects, the add or invite members to projects dialogue will open up. This dialogue can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/06-add-to-projects.png)
+![](images/06-add-to-projects.png)
 
 **Select projects** Select which projects you would like to add the user to
 

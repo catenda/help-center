@@ -4,7 +4,7 @@ The list view in the topics table on the [topics page ](https://support.catenda.
 
 ## 1. **Sort dropdown**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/a6yf292m/01-sort-dropdown.png)
+![](images/01-sort-dropdown.png)
 
 In the list view of a topic board it is possible to sort topics by:
 
@@ -27,7 +27,7 @@ In the list view of a topic board it is possible to sort topics by:
 
 Each row in the topics list contains a topic card with visual ques about the contents of each topic. Only fields that have been configured in the topic will be displayed in its card. This is what a topic with full activity can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/a6yf292m/02-cards.png)
+![](images/02-cards.png)
 
 Title Topic title
 

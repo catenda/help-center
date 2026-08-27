@@ -2,17 +2,17 @@
 
 The rubber stamp tool can be found in the [insert menu](https://support.catenda.com/en/articles/11384618-document-preview-tools#h_34b84f09b9) of the document preview toolbar and can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/bp0tzcba/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. Preset menu
 
 After having selected you will see the default stamp in the preset menu towards the middle of the toolbar. the preset menu can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/bp0tzcba/02-preset-menu.png)
+![](images/02-preset-menu.png)
 
 Select your stamp by either clicking on the default stamp in the preset menu, or by expanding the preset menu and selecting your preferred stamp. The preset menu can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/bp0tzcba/03-preset-menu.png)
+![](images/03-preset-menu.png)
 
 ## 2. Stamp types
 
@@ -22,7 +22,7 @@ The stamp types in the preset menu can include the following information:
 
 **Username** The username of the account you are logged in with. For usernames without a half-width space in them, the a limited amount of username stamp types will be available as shown above. For usernames with a half-width space, more username stamp types will be available. All username stamps can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/bp0tzcba/04-dynamic-fields.png)
+![](images/04-dynamic-fields.png)
 
 **Date and time** The date and time of when you last loaded the document preview. The date and time for the default fields is always written like YYYY/MM/DD If you want a stamp with a different format you can create specify this in the create a new stamp menu.
 
@@ -68,7 +68,7 @@ _​_**Firstname** - Everything before the first space in the account name Date 
 
 Click Create New Stamp to open the Create New Stamp dialogue. The Create New Stamp dialogue can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/bp0tzcba/05-create-new-stamp.png)
+![](images/05-create-new-stamp.png)
 
 ### 3.1 Stamp text - Default - Draft
 

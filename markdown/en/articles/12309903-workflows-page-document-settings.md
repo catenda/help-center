@@ -4,7 +4,7 @@ The workflows page can be found by clicking on the configure workflows button in
 
 The workflows page can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/vnbxxjrb/01-intro.png)
+![](images/01-intro.png)
 
 The following topics will be described in this article:
 
@@ -16,7 +16,7 @@ While the workflows page is a sub-page to the approvals page as is apparent by t
 
 The new item actions can be found on the top right of the page.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/vnbxxjrb/02-new-item-actions.png)
+![](images/02-new-item-actions.png)
 
 See here for what the different actions do.
 
@@ -24,7 +24,7 @@ See here for what the different actions do.
 
 This is what the search or filter menu can look like on the workflows page.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/vnbxxjrb/03-search-or-filter-options.png)
+![](images/03-search-or-filter-options.png)
 
 In the search bar any workflow that is available on the workflows page can be searched.
 
@@ -48,7 +48,7 @@ If multiple of the same filters selected they are separated by a `,` or `%2C` If
 
 The workflows table can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/vnbxxjrb/04-workflows-table.png)
+![](images/04-workflows-table.png)
 
 Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read more about how to work with tables in Catenda. As soon as a workflow is created it will show up as a row in the workflows table.
 
@@ -56,7 +56,7 @@ Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
 
 **Workflow row** Opening the content of a workflow row opens the workflow page for that workflow. This is what a workflow page can look like when opened.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/vnbxxjrb/05-row-content.png)
+![](images/05-row-content.png)
 
 On the workflow page of a workflow it is possible to see how the workflowhas been configured.
 

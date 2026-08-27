@@ -1,94 +1,183 @@
 # Exporting all project data
 
-As Catenda is a place for storing, viewing and collaborating on project information, most activity that has occurred can later be extracted again so people can continue working with the information that has been submitted locally. This article explains about the different ways information can be extracted from a project.
+> An overview of export methods for project data, documents, models, and topics in Catenda Hub. Available options include Desktop Connector sync, PDF/A report creation, access permission auditing, and automated cloud backups to AWS S3 or Azure Blob storage
+
+Catenda Hub provides flexible export methods tailored to various project needs, ranging from day-to-day downloads to automated enterprise archiving. Depending on specific project requirements, it is possible to synchronize large folder structures using Desktop Connector, generate custom document delivery checklists and PDF/A archives via the Reports Page, or document project access permissions for audit trails. For organizations requiring continuous cloud-to-cloud backups, Catenda Data Export provides automated transfers directly to AWS S3 or Azure Blob storage.
 
 ## 1. **Why export**
 
-Both project owners and participants will often want to keep their data after a project ends so they can continue to access it.
+Project owners and project participants often need to maintain local copies of project documentation during and after a project's lifecycle.
 
-### 1.1 **Data submittal**
+### 1.1 **Data submittal and phase changes**
 
-Project data can be required at any point in the project.
+Project data may be needed at various project milestones:
 
-**Phase change** When a project changes phase between either the planning, design or construction phases this can be a moment when the data is required to be extracted. Pehaps the project is put on hold or perhaps a new project is created with different parties involved.
+**Phase changes** Transitioning between planning, design, and construction often requires extracting data snapshots, especially if projects are put on hold or handed off to new parties.
 
-**Reporting to governmental institutions** During the project governmental institutions may make inquiries to the project. At the end of the project, governments often require relevant project information to be submitted.
+**Government inquiries** Formal submittals to authorities are frequently required during or upon completion of a project.
 
-**Tendering** Click [here](https://support.catenda.com/en/articles/9063936-tendering-in-catenda) to read more about preparing a document submission base for a tender.
+**Tendering** Preparing document submittal packages for tenders.
 
-### 1.2 **Data archival**
+### 1.2 **Independent data retention & access protection**
 
-Laws created in collaboration with standardisation institutions often require project material to be stored by the responsible party for a period of time. The amount of time that documentation is required to be stored is often longer than the construction period and is often measured in years or decades rather than months. What project material includes is often percieved differently by different parties. An example can be product and systems documentation which in some cases is required to be stored on the owners servers, the servers of the main contractor or by a solution offered by the government all depending on the circumstance of the project.
+Exporting is not limited to project completion. Project members who do not own the main project data often require their own copies to ensure continuous access to their work.
 
-### 1.3 **Project termination**
+Project members are not always informed in advance when project access will end, and access can sometimes be revoked earlier than expected. Because access can be lost without warning, configuring **scheduled, repeating exports**, such as with **Catenda Data Export** or the **Catenda Desktop Connector**, is critical. These recurring tools ensure project members retain a local or cloud backup up to the last scheduled run prior to losing access.
 
-When a project ends the license is often kept for a period to give the different parties time to export the project data. When the license is terminated access to the project is revoked (even our access). As long as the owner of the project is a Catenda client we guarantee that the data exists on our servers, even after the project has ended and members loose access. By contract, should the project owner stop their relationship with Catenda the data is guaranteed to remain on our servers for up to three years. The project is recoverable as long as it is on our servers.
+### 1.3 **Data archival and compliance**
 
-### 1.4 **Archive**
+Regulations and industry standards frequently mandate that responsible parties store project records for long periods, often spanning years or decades. System documentation, product records, and compliance files may need to be stored on company servers or designated repositories.
 
-An archiving solution is available where the project remains available as a frozen project with only a few members that have read only access.
+### 1.4 **Project termination**
 
-## 2. **Export of models - 2 ways**
+When an active project finishes or a license period ends, Catenda ensures project data remains stored safely. Even if project access ends, data remains recoverable on Catenda servers for up to three years.
 
-1. There is an [export button](https://support.catenda.com/en/articles/4670280-model-export) for models. Here you can download the latest revisions for every model in one export. This is the easiest way to use if you only need the latest revision of the models.
-1. Enter a [model](https://app.intercom.com/a/apps/areracg3/articles/articles/4670286/show) and click on the download button for every revision. This is the easiest way to download all the revisions of all the models.
+### 1.5 **Frozen archive option**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/v6zeqqa4/01-export-of-models-2-ways.gif)
+An archiving option allows projects to remain accessible as frozen, read-only repositories for selected members.
 
-### 2.1 **Previous revisions**
+## 2. **Standard Export Options**
 
-The best way to export previous revisions of a model is to click on the model name and click on the download button for each revision in the right information panel.
+These built-in export tools are available directly within the standard interface for all authorized project participants.
 
-## 3. **Export of topics - 3 Ways**
+### 2.1 **Exporting models**
 
-1. [BCF](https://support.catenda.com/en/articles/4670289-exchange-issues) - Open standard that can be used by other programs. This option can be hard to use for those who are not used to the file format. Here you do not have proof of downloaded date but each file contains information about when the topic was made. With this format you are guaranteed to get the most information possible.
-1. Excel - I do not recommend the Excel export since it exports the least amount of information
-1. PDF - This export option can be good to use if you want an export option that is easily readable and accessible for most people. Here you also get the download date of the set of documents which can be important for reporting to authorities. BCF still has the most information and is the best to use if you want to open the topics up again in the future.
+Because every model in Catenda is linked to a document in the documents section, standard document export capabilities also apply to models. In addition, dedicated export options are available specifically for models:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/v6zeqqa4/02-export-of-topics-3-ways.gif)
+**Selected model download** Select one or more models on the [models page](https://support.catenda.com/en/articles/4670286-models-page) and use the download action to extract their latest revisions.
 
-## 4. **Export of documents**
+**Individual revision download** Select a model on the [models page](https://support.catenda.com/en/articles/4670286-models-page) and use the download button next to each revision in the right information panel. This provides an efficient way to download specific revisions directly without needing to load the full [model contents page](https://support.catenda.com/en/articles/4670270-model-contents-page). Alternatively, individual revisions can also be downloaded directly from the content page of a model.
 
-Documents can be downloaded with the [download documents](https://support.catenda.com/en/articles/4670258-download-a-folder-structure) button.
+**Advanced model export** Access the [model export page](https://support.catenda.com/en/articles/4670280-model-export-page) to package selected revisions across multiple models into a single downloadable ZIP file. This method includes advanced options to enhance the exported model files by baking in tags, user-defined properties, or library information.
 
-### 4.1 **Collections**
+### 2.2 **Exporting topics (3 ways)**
 
-If only a subset of documents needs to be exported [collections](https://support.catenda.com/en/articles/6344318-collections-page) are the best way to share information as a public link can be created so external parties can download the documents, even without a Catenda account.
+Topic data can be extracted using three primary formats via [exchange topics](https://support.catenda.com/en/articles/4670289-exchange-topics), depending on how the information will be viewed, analyzed, or stored:
 
-### 4.2 **Desktop connector**
+**BCF (BIM Collaboration Format)** An open standard designed to capture and transfer topic information that conforms strictly to the official BCF specification, including individual topic creation timestamps. This format guarantees broad cross-platform interoperability, making it ideal for reopening, editing, or exchanging topic data seamlessly with other BCF-compatible software. For general long-term document repositories where direct file previews are needed, PDF or Excel formats are typically preferred.
 
-You might want to use the [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) to expedite this process. The Desktop Connector lets you periodically download the latest project documents to your local system. It downloads documents faster and downloads them one by one minimizing the risk of download failure even further. One drawback could be that documents will end up on your system unzipped, therefore taking up more space.
+**Excel** Exports topic parameters into a spreadsheet format for filtering, sorting, and data manipulation. This format provides structured rows and columns that are ideal for selecting and copying data, and Excel files can be easily previewed within most archiving platforms. For archiving purposes, the PDF export is generally preferred over Excel because it includes more information.
 
-### 4.3 **Deleted documents**
+**PDF** Generates a clean, readable summary report in standard PDF format (v1.4) accessible without specialized software (see [exporting topics to PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)). Standard PDF exports include a consolidated download timestamp for formal authority reporting and archiving, providing more information than an Excel export. While the base export generates a standard PDF (v1.4) file, which many archiving systems automatically convert to PDF/A upon upload for long-term previewing, direct export to native PDF/A-1, PDF/A-2, and PDF/A-3 formats is also available via the opt-in [Reports Page](https://support.catenda.com/en/articles/12303098-reports-page).
 
-Be sure to also search for "deleted" so you can find all deleted documents and export these as well if desired. Keep in mind that this is language specific and might be a different search word in your language. It is recommend to download smaller numbers of documents at a time since it can take longer for large file sizes. Breaking up the downloads reduces the chance for anything going wrong in the download process.
+### 2.3 **Exporting documents and collections**
 
-### 4.4 **Previous revisions**
+**Batch & folder downloads** Select individual folders, specific document batches, or all visible table items at once to generate a downloadable ZIP archive. Downloading in manageable batches by selecting specific subfolders or targeted file groups is recommended for smooth transfers when working with large datasets.
 
-The best way to export previous revisions of a document is to select the document and click on the download button for each revision in the right information panel.
+- **Published tab**
+Extracts the latest published revision for each selected document.
+- **Workspace tab**
+Extracts the latest shared revision for each selected document (requires the "View shared revisions" permission). Note that legacy draft revisions cannot be batch-downloaded into a ZIP archive and are downloaded individually.
 
-## 5. **Export of members information**
+**Individual revision download** Select a document on the [documents page](https://support.catenda.com/en/articles/8204673-documents-page) and click the download button next to each revision listed in the right information menu. This is an easier way to download individual or historical revisions because the document preview page does not have to be loaded, allowing you to select another document in the table and download its revisions in the right menu without needing to open a new preview page.
 
-### 5.1 **Member access**
+**Public collections** Use [collections](https://support.catenda.com/en/articles/6344318-collections-page) to create public links for selected document subsets, allowing external parties to download files without requiring a Catenda account. Note that only published revisions can be added to collections.
 
-**Models** This is the same as document access
+**Deleted files** Search for "deleted" in the documents search bar to locate and export previously deleted documents. Keep in mind that this filter is language-specific and will correspond to the term for "deleted" in your current language settings.
 
-**Topics** In the settings of a topic board all members that have access to the topic board are displayed. Save a screenshot of this access to save it. _Access required:_ Full access to the topic board
+### 2.4 **Desktop connector (Automated local backup)**
 
-**Folders** Export the [access overview](https://support.catenda.com/en/articles/6660820-document-access-overview-page) to save a copy of which members and which teams have access to the different folders in the project. _Access required:_ Administrator
+The [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) enables background synchronization to periodically download new document revisions directly to a local drive. Unlike batch web exports, downloaded documents arrive directly on your system as raw, unzipped files without requiring manual archive extraction.
 
-**Documents** Specific access can be granted to documents. In the [right menu of a document revision](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info) the members that have access to the document can be seen. Take a screenshot of this menu to save it.
+**Scheduled & instant backups** Tasks can be scheduled to run automatically at regular intervals or executed on demand, ensuring project members preserve an up-to-date local copy of documents even if project access is unexpectedly revoked.
 
-### 5.2 **Account information**
+**Direct API transfers** Transfers large datasets significantly faster than web browser downloads by leveraging direct API connections without browser limitations or overhead.
 
-Click [here](https://support.catenda.com/en/articles/11769670-custom-member-information#h_c15463ee3f) to read more about exporting account information including usernames and emails.
+**Hierarchy options** Downloads select folder structures with their complete hierarchy intact, or extracts individually selected files directly as a flat list into the designated local folder.
 
-## 6. **Export of notifications - 2 ways**
+### 2.5 **Member access and activity logs**
 
-1. Take a screenshot of the [project notification page](https://support.catenda.com/en/articles/4670295-project-notifications-page) to save the notifications. 
-By default 10 notifications per page are displayed.
-With thousands of notifications it can take a long time to caputure each page. 
-The [limit filter](https://support.catenda.com/en/articles/8304417-filtering-and-functionality-on-notifications-pages#h_b9f8f0dba9) can be used to display more notifications per page so fewer screenshots are required. Potentially a single screenshot is even enough in this case.
-1. Since screenshot text cannot be searched project owners often add a dummy administrator account to the project that has [project specific emails summaries](https://support.catenda.com/en/articles/4670262-project-specific-notification-settings) enabled.
+**Topic boards** Document board access permissions using two available views:
 
-    At the end of the project these emails can then be delivered together with the rest of the project data.
+- **Per-user access view**
+View individual user access levels directly from the right information menu of a topic board or selected topic.
+​_Access required:_ read access to the topic board
+- **Full team configuration**
+Capture screenshots of the complete team-level permission settings within the topic board access settings.
+​_Access required:_ Full access to the topic board or project administrator
+
+**Document & Model access** Export the [access overview](https://support.catenda.com/en/articles/6660820-document-access-overview-page) to record permissions for members and teams. Access required: Project administrator. Because every model is linked to a document in the documents section, access permissions for models are governed by the underlying document permissions and are recorded using the same document access overview or permission menus.
+
+**Document & Model revision access** View permissions from the [right menu of a document revision](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info) and capture screenshots as needed.
+
+**Project-wide action permissions** Document project-wide permissions on the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page) (such as creating topic boards, inviting new members, configuring document statuses, and creating or removing models) using two available views:
+
+- **Per-user access view**
+Project members can expand each menu under access control to see which individual users have permission to perform each action.
+- **Full configuration**
+Administrators can open the edit access dialogue to view and manage team-level permission configurations.
+​_Access required:_ Project administrator
+
+**User profiles & member details** Information regarding project members and teams is available to extract or document, including:
+
+- Usernames and email addresses (see [custom member information](https://www.google.com/search?q=https://support.catenda.com/en/articles/11769670-custom-member-information%23h_c15463ee3f)).
+- Team memberships, assigned topics, uploaded model revisions, and permission settings (captured via the [member page](https://www.google.com/search?q=https://support.catenda.com/en/articles/4670291-members-page) or [team page](https://www.google.com/search?q=https://support.catenda.com/en/articles/4670291-members-page)).
+
+### 2.6 **Notifications**
+
+Capture notification pages via screenshots from the [project notification page](https://support.catenda.com/en/articles/4670295-project-notifications-page), using the [limit filter](https://support.catenda.com/en/articles/8304417-filtering-on-the-notifications-page) to maximize visible items per page.
+
+Configure a dedicated administrative account with [project specific notification settings](https://support.catenda.com/en/articles/4670262-project-specific-notification-settings) enabled for email summaries to maintain searchable notification logs.
+
+### 2.7 **Reports Page (Opt-In Feature)**
+
+**Opt-in activation** The reports page is an opt-in feature that can be requested to be enabled for ongoing projects. While no additional payment is required to use this tool, the project owner must agree to enable it on the project, meaning it is not active by default in many projects. Note that new projects created from template projects where reports are enabled do not automatically have this feature enabled.
+
+**Template-based management** When enabled, project administrators can use the [report templates page](https://support.catenda.com/en/articles/12380837-report-templates-page) to configure custom report templates and generate formatted exports for selected documents or topics.
+
+**Document reports** Export document metadata and revision details for all selected files, including document name, revision name, latest revision number, status, custom fields, creator, uploader, and creation/upload timestamps.
+
+- **Key use cases**
+Ideal for generating formal document delivery checklists to accompany a collection, or compiling structured document lists for data analysis.
+- **Model metadata & attributes**
+While actual document file contents are not included, model metadata can be exported through document reports as models maintain links to the document section. Custom scripts within templates can also be used to derive additional attributes, such as extracting filetypes from document names.
+
+**Topic reports** Export overall topic headers as well as complete topic body details, including descriptions, comments, and embedded comment images.
+
+**Available export formats** Reports created from any template can be exported to multiple formats depending on your workflow requirements:
+
+- **PDF / PDF/A**
+Generates clean formatted reports and directly supports native PDF/A compliance (PDF/A-1, PDF/A-2, and PDF/A-3) to meet strict long-term archiving and formal legal standards.
+- **Excel**
+Exports structured tabular data into spreadsheet rows and columns, making it ideal for data manipulation and external analysis.
+- **Additional formats**
+A wide range of additional file formats beyond PDF and Excel are also supported for export; the complete overview can be found in the [reports page](https://support.catenda.com/en/articles/12303098-reports-page) article.
+
+**Centralized storage** Generated reports are listed directly within the reports table and automatically integrated into the main documents table for easy management.
+
+## 3. **Catenda Data Export**
+
+Unlike standard user-driven downloads, Catenda Data Export is an automated, self-service solution designed to seamlessly transfer project data directly into an organization's cloud storage. If your organization is interested in enabling this feature, sales can be reached at [sales@catenda.com](mailto:sales@catenda.com). Once enabled, it provides automated backups directly between cloud environments without needing custom scripts, bypassing browser memory constraints, local drive storage limitations, and network interruptions through automated checksum verification.
+
+### 3.1 **Organization Roles & Permissions**
+
+Setting up and managing Catenda Data Export requires an **Organization Administrator**. Unlike an Organization Owner, whose administrative rights are restricted to a single organization, or standard project members, an Organization Administrator holds elevated access across all organizations belonging to an overarching account. This unique role grants the required cross-organization visibility and authority to configure and manage automated cloud exports.
+
+### 3.2 **Configuration Steps**
+
+Setting up automated data exports involves four main steps:
+
+1. **Select Destination**
+Choose a cloud storage provider, Amazon Web Services (AWS) S3 or Microsoft Azure Blob storage, and configure authentication.
+1. **Define Scope & Data Formats**
+    - **Data Types**
+Export documents, models, and topics. 
+Topic data can automatically be converted into readable PDF summary reports or standard BCF files during transfer.
+    - **Project Selection**
+Choose all projects, hand-pick specific projects, or set up dynamic matching rules using project name patterns (glob or regular expression / regex) to automatically include new projects as they are created.
+1. **Select Export Mode**
+    - **Continuous Mode**
+Ships data automatically on a daily schedule. 
+This recurring setup ensures non-owner project members maintain an updated backup up to the last daily run if project access ends unexpectedly.
+    - **Snapshot Mode**
+Performs a one-off run to export a complete dataset at a specific milestone or project handoff.
+1. **Deploy**
+Finalize and enable the export configuration by selecting Create.
+
+### 3.3 **Extracted Content & Integrity Verification**
+
+**Metadata & Custom Fields** Custom fields associated with documents and topics are exported alongside primary files as structured JSON files, ensuring full attribute retention without manual report generation.
+
+**Integrity Verification** Every export run generates a checksum file to verify that exported files match the source data in Catenda Hub and were transferred completely without network loss.
+
+**Organized Hierarchy** Exported files are automatically structured into folders organized by date, project name, and the exact folder hierarchy maintained in Catenda Hub.

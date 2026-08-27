@@ -2,17 +2,17 @@
 
 The account buttons are always available towards the top right on any Catenda Hub page. This is what the account buttons can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/01-intro.png)
+![](images/01-intro.png)
 
 The account buttons are present wherever you are on Catenda Hub. This means that the notifications and account pages are always reachable even if the left navigation menu has changed.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/02-intro.png)
+![](images/02-intro.png)
 
 ## 1. **Notifications button**
 
 If there are any new notifications a red notification indicator is displayed on the notifications button. Click on the notification button to open the notification dropdown. Upon doing so the unread notification indicator disappears. The notifications dropdown can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/03-notifications-button.png)
+![](images/03-notifications-button.png)
 
 The dropdown shows the last 5 notifications of all new information regarding the projects you are apart of. You can always see this button on the top right of the screen. Clicking on View al notifications will take you to your [account notifications page](https://support.catenda.com/en/articles/7439223-account-notifications-page)
 
@@ -30,7 +30,7 @@ Click on the black chat bubble button to open the support menu. Click [here](htt
 
 The account button shows your profile picture or the initials of your username. Clicking on the account button will open the account dropdown.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/04-account-button.png)
+![](images/04-account-button.png)
 
 ### 4.1 **Account**
 

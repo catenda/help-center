@@ -2,7 +2,7 @@
 
 When you go to [hub.catenda.com/signin](http://hub.catenda.com/signin) you will be presented with this page:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/z7whdt00/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **Email address**
 
@@ -17,7 +17,7 @@ Companies that own Catenda projects can configure SSO for Catenda users from the
 
 If the email address that is inserted is recognized as SSO-enabled account the password field will disappear and the following is displayed insted: This account uses SSO. Click on continue to sign in.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/z7whdt00/02-single-sign-on-accounts.png)
+![](images/02-single-sign-on-accounts.png)
 
 Clicking continue to be redirected to the sign-in page of the organization. SSO users do not have an MFA requirement on projects from their organization where MFA is required.
 

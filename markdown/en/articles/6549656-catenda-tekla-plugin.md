@@ -22,7 +22,7 @@ Find Catenda for Catenda for Tekla \<Tekla version>  in the list and click on th
 
 There is a view in Tekla dedicated to Catenda Hub and this view has to be used to create issues from Tekla to Catenda Hub. Failing to use this view will result in inconsistencies of the issues created (e.g. viewpoints, object selection, etc.)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/01-important-info.png)
+![](images/01-important-info.png)
 
 ## 3. **Getting started**
 
@@ -30,11 +30,11 @@ After installing the plugin, open a model in Tekla Structures and click on the C
 
 Login with your email address and Catenda Hub password.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/02-getting-started.png)
+![](images/02-getting-started.png)
 
 Click on “Allow access” to allow the Tekla plugin to access your Catenda Hub account. This will open the main view of the Catenda Hub add-in.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/03-getting-started.png)
+![](images/03-getting-started.png)
 
 You can revoke the access to your Catenda Hub account at any time by going to your Catenda Hub [application page](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a) on Catenda Hub's web application.
 
@@ -44,7 +44,7 @@ In this page, you will find the main menu to navigate in your Catenda project, i
 
 ### 4.1 **Interface**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/04-interface.png)
+![](images/04-interface.png)
 
 1. Select your Catenda project
 1. Select an issue board in this project
@@ -61,7 +61,7 @@ Selecting a Catenda project will display the list of issue board in this project
 
 ### 4.3 **Catenda Hub Add-in Menu**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/05-catenda-hub-add-in-menu.png)
+![](images/05-catenda-hub-add-in-menu.png)
 
 1. List of models and revision
 1. Export settings for IFC upload onto Catenda Hub

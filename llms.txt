@@ -332,7 +332,8 @@ Here you find answers to questions that many users run into
 - [Custom fields FAQ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11384331-custom-fields-faq.md)
 - [Custom member information](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11769670-custom-member-information.md)
 - [Document management in Catenda HUB](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9775623-document-management-in-catenda-hub.md)
-- [Exporting all project data](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7946690-exporting-all-project-data.md)
+- [Exporting all project data](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7946690-exporting-all-project-data.md): An overview of export methods for project data, documents, models, and topics in Catenda Hub. 
+Available options include Desktop Connector sync, PDF/A report creation, access permission auditing, and automated cloud backups to AWS S3 or Azure Blob storage
 - [Giving a user access to a single folder](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8009637-giving-a-user-access-to-a-single-folder.md)
 - [Hardware recommendation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6921941-hardware-recommendation.md): Find recommended hardware specifications and optimisation tips for the best experience with Catenda Hub.
 - [How can I export IFCs?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670326-how-can-i-export-ifcs.md)
@@ -382,6 +383,7 @@ Find the latest Catenda updates
 - [Changelog 10 Catenda - October, 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11582902-changelog-10-catenda-october-2025.md)
 - [Changelog 11 Catenda - January, 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12529903-changelog-11-catenda-january-2025.md)
 - [Changelog 12 Catenda, April 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13413499-changelog-12-catenda-april-2026.md)
+- [Changelog 13 Catenda - August, 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/15655135-changelog-13-catenda-august-2026.md): Catenda product updates: Explore the new Kanban view for topics, enhanced Approval Workflows, Catenda AI Connect, and Data Export. Includes resolved bugs, new tutorial videos, and updated support documentation across models, documents, and topics.
 - [Changelog 2 Catenda - July, 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7338675-changelog-2-catenda-july-2023.md)
 - [Changelog 3 Catenda - October, 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7983534-changelog-3-catenda-october-2023.md): New information and minor changes
 - [Changelog 4 Catenda - January 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8433887-changelog-4-catenda-january-2024.md): New information and minor changes

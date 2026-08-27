@@ -2,15 +2,15 @@
 
 On the project level the main panel buttons are always displayed towards the top right, no matter the project page.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/39gcn7x2/01-intro.png)
+![](images/01-intro.png)
 
 This is what the panel icons towards the top right can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/39gcn7x2/02-intro.png)
+![](images/02-intro.png)
 
 On devices with limited screen space a button called view is displayed instead. Click on view to show switch between the different panels.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/39gcn7x2/03-intro.png)
+![](images/03-intro.png)
 
 ## 1. **Opening panels**
 
@@ -32,7 +32,7 @@ To easily switch between the different panels keybinds can be used. Shift+1 for 
 
 The main content panel is the first panel and has the most information. Some users strictly work in the content panel. This panel is also referred to as the content panel.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/39gcn7x2/04-main-content-panel.png)
+![](images/04-main-content-panel.png)
 
 The content panel can contain the following main pages:
 
@@ -44,7 +44,7 @@ Click [here](https://support.catenda.com/en/articles/8212646-dashboard-page) to 
 
 The Model viewer panel is the second panel. This panel is also referred to as the 3D viewer panel.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/39gcn7x2/05-model-viewer-panel.png)
+![](images/05-model-viewer-panel.png)
 
 The model viewer panel can contain the following main pages:
 
@@ -56,7 +56,7 @@ Click [here](https://support.catenda.com/en/articles/8227211-3d-viewer) to read 
 
 The model tree panel is the third panel. This panel is also referd to as the trees panel.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/39gcn7x2/06-model-tree-panel.png)
+![](images/06-model-tree-panel.png)
 
 The trees panel can contain the following main pages:
 
@@ -68,7 +68,7 @@ Click [here](https://support.catenda.com/en/articles/4670290-trees-panel) to rea
 
 The model info panel is the fourth and last panel. This panel is also referred to as the inspect panel.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/39gcn7x2/07-model-info-panel.png)
+![](images/07-model-info-panel.png)
 
 The In panel can contain the following main pages:
 

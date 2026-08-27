@@ -6,6 +6,8 @@ Different components of the [2D viewer](https://support.catenda.com/en/articles/
 
 ![](images/01-intro.png)
 
+This article contains information about the following topics: _[2D button](#h_ddfb1f5837) - [Top bar](#h_7996dde66c) - [Canvas](#h_d564366bf9) -_ [Navigation](#h_b384896c43) - [Selection](#h_8916df6427) - [Settings](#h_f9d34c17aa) - [Bottom bar](#h_15dafd8ad4)
+
 ## 1. **2D button**
 
 If the 2D viewer is not opened, click on the 2D button on the bottom right of the 3D viewer top open the 2D viewer.

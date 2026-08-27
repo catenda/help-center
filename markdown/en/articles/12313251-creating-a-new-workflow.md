@@ -2,7 +2,7 @@
 
 The new workflow page can be opened by clicking on the green plus button on [the workflows page](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings) or clicking on the action in the new element action menu on [the approvals page](https://support.catenda.com/en/articles/8349340-approvals-page). It is only possible to create new workflows in projects where the new validation workflow has been requested to be enabled. The new validation workflow is an on-demand feature that can be requested to be enabled when starting a new project. It is only possible to create a project based on a template project when the new validation workflow is not enabled in that template project. This is what the title part of a new approval can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **Title**
 
@@ -16,13 +16,13 @@ A title must be provided to be able to sumit a workflow.
 
 This is what the contents of a new approval can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/02-approval-contents.png)
+![](images/02-approval-contents.png)
 
 ## 2. **Time settings**
 
 Team members will have a limited amount of working days to review documents in review steps where their team has been set as a reviewer team. This is what the time settings of a new approval workflow can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/03-time-settings.png)
+![](images/03-time-settings.png)
 
 The time that is configured in time settings is the time for the working day to begin and end for each of these working days. Configure the time settings to match the team members whose teams are set as reviewer teams for review steps in this workflow. Team members will be able to submit their review within the given timeframe based on the amount of working days and the time configured in this field.
 
@@ -40,11 +40,11 @@ The first part of the selected timezone list element shows can display:
 
 - A timezone abbreviation of timezones that do not have a summer or winter counterpart. These timezones stay the same all year around.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/04-selected-timezone.png)
+![](images/04-selected-timezone.png)
 
 - One or more geographical locations that follow the same timezone rules.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/05-selected-timezone.png)
+![](images/05-selected-timezone.png)
 
 ### 2.3 **GMT offset**
 
@@ -56,7 +56,7 @@ The current timezone for the timezone list element is displayed. If the GMT offs
 
 Click on the selected timezone list element to open the timezone dropdown. This is what the timezone dropdown can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/06-selecting-a-list-element-in-the-timezone-dropdown.png)
+![](images/06-selecting-a-list-element-in-the-timezone-dropdown.png)
 
 By default a list element can be seen for each thirty minute timezone offset interval that has an active timezone in the timezone dropdown.
 
@@ -64,55 +64,55 @@ By default a list element can be seen for each thirty minute timezone offset int
 
 - A timezone abbreviation
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/07-selecting-a-list-element-in-the-timezone-dropdown.png)
+![](images/07-selecting-a-list-element-in-the-timezone-dropdown.png)
 
 - One or more geographical locations that follow the same timezone rules.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/08-selecting-a-list-element-in-the-timezone-dropdown.png)
+![](images/08-selecting-a-list-element-in-the-timezone-dropdown.png)
 
 **Timezone list element name** The second part of a timezone list element can display:
 
 - A timezone name.
 For geographical locations where the timezone is the same all year around.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/09-selecting-a-list-element-in-the-timezone-dropdown.png)
+![](images/09-selecting-a-list-element-in-the-timezone-dropdown.png)
 
 - A GMT+XX:XX timezone offset
 For geographical locations where the timezone changes during the year.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/10-selecting-a-list-element-in-the-timezone-dropdown.png)
+![](images/10-selecting-a-list-element-in-the-timezone-dropdown.png)
 
 **Timezone list element type** The last part for a timezone list elements can display:
 
 - A timezone abbreviation
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/11-selecting-a-list-element-in-the-timezone-dropdown.png)
+![](images/11-selecting-a-list-element-in-the-timezone-dropdown.png)
 
 - A GMT+XX timezone offset
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/12-selecting-a-list-element-in-the-timezone-dropdown.png)
+![](images/12-selecting-a-list-element-in-the-timezone-dropdown.png)
 
 **Searching in the timezone dropdown** Search for a geographical location to find all timezone list elements for that location. If there is a match the location is included. It is not always listed as seen below.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/13-selecting-a-list-element-in-the-timezone-dropdown.png)
+![](images/13-selecting-a-list-element-in-the-timezone-dropdown.png)
 
 Some timezones can be searched by their short name in the first part of the list element.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/14-selecting-a-list-element-in-the-timezone-dropdown.png)
+![](images/14-selecting-a-list-element-in-the-timezone-dropdown.png)
 
 If a timezone is the same during the whole year it can be searched on in the second part of the list element. Search for a timezone to find all timezone list elements for that timezone.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/15-selecting-a-list-element-in-the-timezone-dropdown.png)
+![](images/15-selecting-a-list-element-in-the-timezone-dropdown.png)
 
 > **Note:** Different timezone list elements for the same timezone name can behave differently depending on the current time and date.
 
 Search for a timezone type to find all timezone list elements for that timezone type: Either search for the timezone offset:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/16-selecting-a-list-element-in-the-timezone-dropdown.png)
+![](images/16-selecting-a-list-element-in-the-timezone-dropdown.png)
 
 Or the timezone abbreviation:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/17-selecting-a-list-element-in-the-timezone-dropdown.png)
+![](images/17-selecting-a-list-element-in-the-timezone-dropdown.png)
 
 Since some timezones have a GMT offesset as type it is often better to search for the full timezone name rather than the timezone abbreviation. Only timezones that are currently active are displayed so for timezones that change for geographical locations only the timezone that is currently active for that geographical location can be found.
 
@@ -120,7 +120,7 @@ Since some timezones have a GMT offesset as type it is often better to search fo
 
 Select which teams members in the final approval team will see in the list of teams they can choose from when selecting a submitter team for an approval with this workflow. This is what the submitters part of a new approval workflow can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/18-submitters.png)
+![](images/18-submitters.png)
 
 **Selecting a team the workflow creator is part of** If the workflow creator will be the one submitting these kinds of workflows it is important that a team the workflow creator is part of is added as a submitter team.
 
@@ -138,7 +138,7 @@ At least one submitter must be selected to sumit the workflow.
 
 Build a multi-stage review process This is what the review steps part of a new approval workflow can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/19-review-steps.png)
+![](images/19-review-steps.png)
 
 ### 4.1 **Step amount**
 
@@ -171,13 +171,13 @@ If the start date for the approval step is on a Friday the due date will be set 
 
 ### 4.4 **Auto-approve**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/20-auto-approve.png)
+![](images/20-auto-approve.png)
 
 Enable auto-approve to prevent bottlenecks - documents will automatically receive approved reviews on behalf of teams that haven't responded by the due date.
 
 ### 4.5 Require review from all team members
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/21-br-require-review-from-all-team-members.png)
+![](images/21-br-require-review-from-all-team-members.png)
 
 Enable Require review from all team members to require every individual member of each reviewer team in this step to submit their own validation indication before the team's review can be submitted.
 
@@ -198,7 +198,7 @@ If there are review steps each step must have at least one submitter to be able 
 
 Final approval will be given manually by a single team. This is what the final approval part of a new approval workflow can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/22-final-approval.png)
+![](images/22-final-approval.png)
 
 ### 5.1 **Team**
 
@@ -218,13 +218,13 @@ The amount of working days the final aproval team has to configure the final app
 
 In the field topic templates you can choose the template the system use wich creates a topic when the approval flow is ended. Choosing nothing means that er no topics get created!
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/23-br-topic-template.png)
+![](images/23-br-topic-template.png)
 
 Choosing a template is possible from existing topic-templates. [Read more about topic templates](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)
 
 When there is no template you have ability to create one directly into the settings view.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/24-br-topic-template.png)
+![](images/24-br-topic-template.png)
 
 ### 5.4 **Review state**
 
@@ -242,13 +242,13 @@ A final approval team must have been selected to be able to sumit the workflow. 
 
 Click on submit to submit the workflow.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/25-submit.png)
+![](images/25-submit.png)
 
 ### 6.1 **Required field warning**
 
 If the workflow is missing a required field a warning towards the top of the page will ask for the missing fields to be filled out. This is what the warning can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/26-required-field-warning.png)
+![](images/26-required-field-warning.png)
 
 The following are required to submit a new workflow:
 

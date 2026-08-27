@@ -4,7 +4,7 @@ Previously it has been possible to upload IFC files to two separate places on Ca
 
 ## 1. **Before/After migration - Main differences**
 
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e8e8e880; width: 126px;"><h1 id="h_3632d3cc1b"></h1></td><td style="background-color: #e8e8e880; width: 262px;"><h2 class="intercom-align-center" id="h_2093155130"><b>Before</b></h2></td><td style="background-color: #e8e8e880; width: 248px;"><h2 class="intercom-align-center" id="h_d5cfcbcb2d"><b>After</b></h2></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Main behavior</b></p></td><td style="width: 262px;"><p>Models existed only in the Model section. The user had to upload the same IFC file to both the Document and Model sections.</p></td><td style="width: 248px;"><p>Models are created from IFC files uploaded to the Document section, if the user requests it. The IFC file and its related model are then linked.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>User Interface</b></p></td><td style="width: 262px;"><p><b>Different</b> from the Document section and displayed less information, basically only a list of models.</p></td><td style="width: 248px;"><p><b>The same</b> as the Document section: a customisable table with related metadata.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Access Rights</b></p></td><td style="width: 262px;"><p><b>Could not be applied</b> to models</p></td><td style="width: 248px;"><p><b>Can be applied</b> to models from their related document in the document section</p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e8e8e880; width: 126px; padding: 8px;"><h1 id="h_3632d3cc1b"></h1></td><td style="background-color: #e8e8e880; width: 262px; border-left: 1px solid #c6c9c0; padding: 8px;"><h2 class="intercom-align-center" id="h_2093155130"><b>Before</b></h2></td><td style="background-color: #e8e8e880; width: 248px; border-left: 1px solid #c6c9c0; padding: 8px;"><h2 class="intercom-align-center" id="h_d5cfcbcb2d"><b>After</b></h2></td></tr><tr><td style="background-color: #e8e8e880; width: 126px; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-right"><b>Main behavior</b></p></td><td style="width: 262px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Models existed only in the Model section. The user had to upload the same IFC file to both the Document and Model sections.</p></td><td style="width: 248px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Models are created from IFC files uploaded to the Document section, if the user requests it. The IFC file and its related model are then linked.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-right"><b>User Interface</b></p></td><td style="width: 262px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><b>Different</b> from the Document section and displayed less information, basically only a list of models.</p></td><td style="width: 248px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><b>The same</b> as the Document section: a customisable table with related metadata.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-right"><b>Access Rights</b></p></td><td style="width: 262px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><b>Could not be applied</b> to models</p></td><td style="width: 248px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><b>Can be applied</b> to models from their related document in the document section</p></td></tr></tbody></table></div>
 
 ## 2. **Familiar but different**
 
@@ -20,7 +20,7 @@ In the models section you will be able to find the following changes:
 
 The new models table can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/01-model-table.png)
+![](images/01-model-table.png)
 
 ### 3.2 **Columns**
 
@@ -72,7 +72,7 @@ A right information menu will be available if a model is selected.
 
 While the visual changes are not as apparent as in the models section there are a few things that will change to the documents section when models as documents is activated. This is what the document-models can look like in the doucments section.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/02-documents-section-changes.png)
+![](images/02-documents-section-changes.png)
 
 In the documents section you will be able to find the following changes:
 
@@ -84,7 +84,7 @@ As soon as you have any models in the models section you will see a model filter
 
 **Icon** You will be able to tell apart a document-model from a regular document by the model badge on the bottom right of the document-model icon.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/03-columns.png)
+![](images/03-columns.png)
 
 **Name** The name of the document
 
@@ -98,7 +98,7 @@ As soon as you have any models in the models section you will see a model filter
 
 Download, delete or load the 2D/3D views of selected models in the respective viewer by selecting one or more models.
 
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/inline-9e345595c719.png" width="310"/>    <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/inline-959af958f499.png" width="310"/>
+<img alt="" src="images/inline-9e345595c719.png" width="310"/>    <img alt="" src="images/inline-959af958f499.png" width="310"/>
 
 This means that you can delete multiple models at once instead of one-by-one like before. If you delete a document that is connected to a model you will have to approve a warning that the model connected to the document will also be deleted.
 

@@ -8,7 +8,7 @@ or by clicking on the action on the create new approval action in the approvals 
 
 This is what the header of a new approval can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/a5gqwxkx/01-approval-header-the-subject-of-an-approval.png)
+![](images/01-approval-header-the-subject-of-an-approval.png)
 
 ### 1.1 **Title**
 
@@ -42,7 +42,7 @@ If not enough reviewers submit their review the member set as publisher can forc
 
 This is what the body of a new approval can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/a5gqwxkx/02-approval-body-the-content-of-an-approval.png)
+![](images/02-approval-body-the-content-of-an-approval.png)
 
 ### 1.8 **Description**
 

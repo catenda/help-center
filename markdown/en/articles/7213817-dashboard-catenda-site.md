@@ -15,7 +15,7 @@ On this page you can view the status of your topics, choose or change which issu
     - Overdue topics
     - Due within 2 weeks
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/9brynk3y/01-intro.png)
+![](images/01-intro.png)
 
 You also have several tabs that you can navigate to:
 

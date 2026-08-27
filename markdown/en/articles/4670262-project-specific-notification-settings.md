@@ -2,7 +2,7 @@
 
 You can find project notification settings as a sub page to the [project notifications page](https://support.catenda.com/en/articles/4670295-project-notifications-page)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/vv27tr09/01-intro.png)
+![](images/01-intro.png)
 
 From here you can filter what notification alerts you want in Catenda Hub, Email or Slack. These chosen settings are personal from user to user.
 
@@ -26,7 +26,7 @@ The project notification settings page will have the same settings as your [acco
 
 If you would like to turn off your project specific notification settings and have it follow you account notification settings again you can click on the Use default settings button. If you would like to view what the default settings are you can click on view default settings.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/vv27tr09/02-resseting-back-to-default.png)
+![](images/02-resseting-back-to-default.png)
 
 The below video will show you how to set up different notifications per project:
 

@@ -2,13 +2,13 @@
 
 The members page can be found as a sub page to the [project settings page](https://support.catenda.com/en/articles/4670273-settings-page).
 
-![Members](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/01-intro.png)
+![Members](images/01-intro.png)
 
 ## 1. **Actions**
 
 The action menu can be found towards the top right of the page.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/02-actions.png)
+![](images/02-actions.png)
 
 ### 1.1 Invite member
 
@@ -22,13 +22,13 @@ With this action you will be able to create a [new team](https://support.catenda
 
 Click [here](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page) to find out how to best search or filter on the members page. This is what the search or filter bar can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/03-search-or-filter.png)
+![](images/03-search-or-filter.png)
 
 ## 3. **Right menu**
 
 With a selected element the info button for the right menu will be displayed towards the right of the search or filter bar. The info button can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/04-right-menu.png)
+![](images/04-right-menu.png)
 
 Click on this icon to open a menu where fields for the selected elements can be changed. Click [here](https://support.catenda.com/en/articles/11768610-right-menu-on-the-members-page) to read more about the right menu on the members page.
 
@@ -36,11 +36,11 @@ Click on this icon to open a menu where fields for the selected elements can be 
 
 In the members tab an overview of all the members that are part of the project is displayed.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/05-members-tab.png)
+![](images/05-members-tab.png)
 
 In the members tab a table with all members that are part of the project is displayed. The members table can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/06-members-tab.png)
+![](images/06-members-tab.png)
 
 Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read more about how to work with tables in Catenda. As soon as an invitation to the project is accepted, the member that accepted the inviation will appear in the members table.
 
@@ -56,7 +56,7 @@ The members table can contain the following columns:
 
 **Name** Icon - Profile pictures for members with a profile picture. Icon - Initials for members without a profile picture. Primary information - The username of the member. Secondary information - The email address of the member. Click on the email address to copy the email address of that member. In projects where multi factor authentication is required a red lock can be seen in the name column for members who have accepted the invitation tot he project but who have not configured a security code. Without the security code these memebers will not be able to access the project.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/07-columns.png)
+![](images/07-columns.png)
 
 **Role** The role of the member. Owner (Blue) Administrator (Orange) Member (Green)
 
@@ -66,11 +66,11 @@ The members table can contain the following columns:
 
 In the teams tab an overview of all the teams in the project is displayed
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/08-teams-tab.png)
+![](images/08-teams-tab.png)
 
 In the teams tab a table with all teams that are part of the project is displayed. The teams table can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/09-teams-tab.png)
+![](images/09-teams-tab.png)
 
 Click here to read more about how to work with tables in Catenda.
 

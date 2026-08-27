@@ -2,15 +2,15 @@
 
 The action buttons can be located in different places on the [topics page](https://support.catenda.com/en/articles/4670271-topics-page) depending on topic selection and on what access settings you have. All action buttons will be listed in their action menus that can look something like this:
 
-![mceclip0.png](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/01-intro.png)
+![mceclip0.png](images/01-intro.png)
 
 ## 1. **New item actions**
 
 The plus button and action menu items can be found towards the top right of the page and can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/02-new-item-actions.png)
+![](images/02-new-item-actions.png)
 
-The actions you are able to find here all have to do with creating new information. [Selected item actions](#selected-item-actions) that have to do with existing items on the page can also be found towards the top of the table after making a selection.
+The actions you are able to find here all have to do with creating new information. [Selected item actions](#h_b5c00c149b) that have to do with existing items on the page can also be found towards the top of the table after making a selection.
 
 ### 1.1 **New topic**
 
@@ -32,7 +32,7 @@ With exchange you will be able to import and export topics. _Available import fi
 
 ## 2. **Selected item actions**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/03-selected-item-actions.png)
+![](images/03-selected-item-actions.png)
 
 ### 2.1 **Copy link**
 
@@ -42,7 +42,7 @@ With the copy link action a link that displayes only the selected table rows can
 
 With the export topics action you will be able to export topic(s).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/04-export-topics.png)
+![](images/04-export-topics.png)
 
 The export topics action will open up the [export topics dialogue](https://support.catenda.com/en/articles/4670289-exchange-topics). Here you will be able to export all topics in the board, filtered topics and selected topics. _Available file formats are:_ BCF, Excel, [PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
 
@@ -52,7 +52,7 @@ The export topics action will open up the [export topics dialogue](https://suppo
 
 The reporting tool can be requested to be activated on a per project basis. With the create report action you can create a report of your selected topics. _Access required:_ Read access to the topic board
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/05-create-report.png)
+![](images/05-create-report.png)
 
 This option is available when topics from multiple boards are selected. Click [here](https://support.catenda.com/en/articles/13973721-create-report-action) to read more about creating reports.
 
@@ -60,7 +60,7 @@ This option is available when topics from multiple boards are selected. Click [h
 
 With the follow action the selected topic can be followed.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/06-follow.png)
+![](images/06-follow.png)
 
 > **Note 1:** If you were previously [assigned](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9), set as [requester](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), or [mentioned](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) in the topic you will automatically be following the topic. **Note 2:** If a topic you are following is moved to a board you do not have access to you will still be following it but will no longer get notifications about it.
 
@@ -68,7 +68,7 @@ With the follow action the selected topic can be followed.
 
 **Unfollow** Members that are following a topic can use the unfollow action to stop following the topic even if they were the ones that created the topic themselves.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/07-follow.png)
+![](images/07-follow.png)
 
 After unfollowing notifications about topic changes like new comments or topic header field changes are no longer sent out to the member that unfollowed.. _Access required:_ Read access to the board the topic is in
 
@@ -86,7 +86,7 @@ Cases where a member is not following a topic can be in topics where they have n
 
 With this action topic can be moved to a different topic board.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/08-move-topic.png)
+![](images/08-move-topic.png)
 
 _Access required:_ Project administrator
 
@@ -94,7 +94,7 @@ _Access required:_ Project administrator
 
 With a topic selected the delete action can be used to delete a selected topic.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/znfw4v54/09-delete-topic.png)
+![](images/09-delete-topic.png)
 
 _Access required:_ Full access to the topic board or topic creator
 

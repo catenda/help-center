@@ -12,7 +12,7 @@ _Access required:_ Administrator or access to inviting members on the project se
 
 If you already have an account in Catenda you will get the following notification.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/qn9t3aze/01-invite-notification.png)
+![](images/01-invite-notification.png)
 
 ### 1.2 Invite email
 
@@ -24,7 +24,7 @@ See [here](https://support.catenda.com/en/articles/8417802-why-am-i-not-receivin
 
 The name of the inviting user and the email of the user will be visible in the invitation email that can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/qn9t3aze/02-invite-email.png)
+![](images/02-invite-email.png)
 
 The email will be sent from [noreply@catenda.com](mailto:noreply@catenda.com)
 
@@ -36,17 +36,17 @@ To accept the invitation either click on the invite notification or click on the
 
 When you click on the invite you are taken to Catenda Hub where you are asked to sign in and accept the invitation.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/qn9t3aze/03-accepting-the-invitation.png)
+![](images/03-accepting-the-invitation.png)
 
 ### 2.1 Creating an account
 
 If you do not already have an account you will be asked to sign up for an account at Catenda Hub. Follow the [signup procedure](https://intercom.help/bimsync-arena/en/articles/8412895-creating-an-account).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/qn9t3aze/04-creating-an-account.png)
+![](images/04-creating-an-account.png)
 
 Next click "accept invitation"
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/qn9t3aze/05-creating-an-account.png)
+![](images/05-creating-an-account.png)
 
 > **Note:** If you notice that you are logged in with a different account than the one you intend to use in this project you will be given the option to change user before accepting the invitation.
 

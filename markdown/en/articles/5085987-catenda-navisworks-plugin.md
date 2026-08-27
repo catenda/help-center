@@ -53,11 +53,11 @@ After having installed the plugin the Catenda tab will appear. Navisworks might 
 
 Start a new or open a Navisworks project to get started.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/01-catenda-tab.png)
+![](images/01-catenda-tab.png)
 
 This is what the Catenda tab can look like when selected
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/02-catenda-tab.png)
+![](images/02-catenda-tab.png)
 
 ### 5.1 **Catenda**
 
@@ -67,27 +67,27 @@ The Catenda button in the Catenda Plugins menu of the Catenda tab will open the 
 
 The BCF Plugin button in the Catenda Plugins menu of the Catenda tab will open the Catenda Navisworks plugin with the settings menu activated. The settings menu of the Catenda Navisworks plugin can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/03-bcf-plugin.png)
+![](images/03-bcf-plugin.png)
 
 **Docking the plugin** Drag the title bar of the window to any of the sides of the application to dock it.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/04-bcf-plugin.png)
+![](images/04-bcf-plugin.png)
 
 This is what the application can look like when docked on the right.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/05-bcf-plugin.png)
+![](images/05-bcf-plugin.png)
 
 ## 6. **Settings**
 
 This is what the settings menu can look like after clicking on Login towards the top left.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/06-settings.png)
+![](images/06-settings.png)
 
 On the left side the signin page of Catenda is displayed. Follow the stepd described in the [sign in article](https://support.catenda.com/en/articles/7891486-sign-in-page) to sign in.
 
 This is what the setting menu can look like after succesfully having logged in.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/07-settings.png)
+![](images/07-settings.png)
 
 If the login session has timed out the refresh button can be used to refresh the login session.
 
@@ -101,7 +101,7 @@ If the login session has timed out the refresh button can be used to refresh the
 
 **Property mapping** The Catenda Navisworks plugin attaches objects to viewpoints in topics based on the GUID of the IfcProject in the IFC. In Navisworks this GUID can be found in the properties of the object. Here is an example with an object selected:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/08-ifcguid.png)
+![](images/08-ifcguid.png)
 
 Depending on the content of your IFC, the IfcProject GUID might be found in one or more other properties or categories. Especially if Navisworks has been launched with a language setting other than English name of the Element category will the word for Element in that language while the default word is still English in the Catenda Navisworks plugin. To resolve this, change the Category to to the word for Element in the language Navisworks is launched in.
 
@@ -121,11 +121,11 @@ Below Snapshots are displayed below
 
 In the Topic Boards menu an overview topics in the topic boards of different projects can be seen. Thisis what the Topic Boards menu can look like.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/09-topic-boards.png)
+![](images/09-topic-boards.png)
 
 Click on the projects tab to load the list of topic boards in that project in the topic boards tab.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/10-topic-boards.png)
+![](images/10-topic-boards.png)
 
 ### 7.1 **New topic**
 
@@ -135,7 +135,7 @@ Click on the New Topic button to create a new topic.
 
 In the topic menu selected topics can be edited and new topics can be submitted. This is what the topic menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/11-topic.png)
+![](images/11-topic.png)
 
 ### 8.1 **Navigation arrows**
 
@@ -169,7 +169,7 @@ Click the clear clipping planes button to clear the clipping planes in the viewe
 
 In the clashes menu topics can be submitted as a result of clash detective findings. This is what the clashes menu can look like.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/12-clashes.png)
+![](images/12-clashes.png)
 
 ### 9.1 **Running a clash detective test**
 
@@ -179,23 +179,23 @@ To get started with the clashes menu find the Clash detective in the ribbon:
 
 **Test overview** Add a new test. This is what your test overview can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/13-running-a-clash-detective-test.png)
+![](images/13-running-a-clash-detective-test.png)
 
 **Rules** Select rules or create new ones.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/14-running-a-clash-detective-test.png)
+![](images/14-running-a-clash-detective-test.png)
 
 **Select** Select models that you want to check against each other for clashes and run the test.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/15-running-a-clash-detective-test.png)
+![](images/15-running-a-clash-detective-test.png)
 
 **Results** Go through the result and name your clashes.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/16-running-a-clash-detective-test.png)
+![](images/16-running-a-clash-detective-test.png)
 
 **Context menu** Right click on a clash row to open the following context menu:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/17-running-a-clash-detective-test.png)
+![](images/17-running-a-clash-detective-test.png)
 
 Group Group together clahses of similar type.
 
@@ -217,7 +217,7 @@ Items Here you see the objects that are related to the selected clash.
 
 **Report** this is what the report menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/18-running-a-clash-detective-test.png)
+![](images/18-running-a-clash-detective-test.png)
 
 Contents Select the contents of your report
 
@@ -231,7 +231,7 @@ Report format Use the as viewpoints option and check the Preserve result highlig
 
 After a clash test has ran the viewpoints appear in the clashes tab.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/19-clashes-in-catenda-plugin.png)
+![](images/19-clashes-in-catenda-plugin.png)
 
 ### 9.3 **Add topic**
 
@@ -271,7 +271,7 @@ Change the status of the clashes that are selected in the Catenda Navisworks plu
 
 Download, open and append model revisions from the Catenda project selected in the Topic Boards menu to the Navisworks project. This is what the models menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/20-models.png)
+![](images/20-models.png)
 
 ### 10.1 **Search**
 
@@ -297,7 +297,7 @@ Append the selected model(s) to the current Navisworks project. To be able to ap
 
 Open the Catenda Document library window. This is what the Document library window can look like.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/21-catenda-document-library.png)
+![](images/21-catenda-document-library.png)
 
 **Navigation arrow** Move up a level in the folder structure.
 

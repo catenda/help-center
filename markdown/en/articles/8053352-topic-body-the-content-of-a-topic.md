@@ -2,11 +2,11 @@
 
 Select a topic from an [topic board](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) a to open the topic page of the topic. This is what the [topic banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) on the topic page can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/01-intro.png)
+![](images/01-intro.png)
 
 This is what the [topic header](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/02-intro.png)
+![](images/02-intro.png)
 
 Described in this article, the topic body with description and comments can be found below the topic header. Click the information icon towards the right in the topic banner to display the [related items menu](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic) towards the right of both the header and the body.
 
@@ -14,13 +14,13 @@ The topic body described in this article is below the header and to the left of 
 
 This is what the main part of a topic can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/03-intro.png)
+![](images/03-intro.png)
 
 ## 1. **Progress bar**
 
 The progress bar appears towards the top of the topic body if checkboxes or linked topics have been added to the topic description. This is what the progress bar towards the top of a topic can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/04-progress-bar.png)
+![](images/04-progress-bar.png)
 
 The progress bar shows the progress of checked checkboxes and resolved topics in the description of the topic. For a short video tutorial about check lists see [here](https://support.catenda.com/en/articles/5036461-check-lists-within-issues)
 
@@ -32,13 +32,13 @@ The topic description follows the [general formatting rules of posts](https://su
 
 Click on the pencil on the top right of the topic content to edit the description
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/05-edit-description.png)
+![](images/05-edit-description.png)
 
 _Access required:_ Write access to the topic board
 
 This is what a description can look like when it is being edited:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/06-edit-description.png)
+![](images/06-edit-description.png)
 
 For more information about formatting options edit the description and click on the question mark. Descriptions follow the general rules of [formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda.
 
@@ -46,7 +46,7 @@ For more information about formatting options edit the description and click on 
 
 The topic information can be found below the description. This is what the topic information can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/07-topic-information.png)
+![](images/07-topic-information.png)
 
 ### 3.1 **Created by**
 
@@ -64,13 +64,13 @@ Show oldest comments first - Default Show newest comments first
 
 The is what the comment section in a topic can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/08-comment-section.png)
+![](images/08-comment-section.png)
 
 ### 4.1 **Existing comment action menu**
 
 The action menu of a comment can be found with the three dots towards the top right of an existing comment. This is what the action menu of a comment can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/09-existing-comment-action-menu.png)
+![](images/09-existing-comment-action-menu.png)
 
 **Edit a comment** Open the comment action menu and click on Edit to edit a comment. _Access required:_ Comment creator
 
@@ -78,7 +78,7 @@ Only the text of a comment can be edited. The only way to remove a comment attac
 
 **View changes** Open the comment action menu for an edited topic and click on View changes to see a history of the changes on this comment. Access required: Comment creator or administrator
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/10-existing-comment-action-menu.png)
+![](images/10-existing-comment-action-menu.png)
 
 Click on Hide changes towards the bottom right to hide the changes again.
 
@@ -94,7 +94,7 @@ Text in comments follow the [general rules for formatting of posts](https://supp
 
 **Attachment pop-out** Left click on the image of an attachment to open the image pop-out.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/11-comment.png)
+![](images/11-comment.png)
 
 Navigate between images from different comments in this topic with the left/right navigation arrows The best way to download the original image that was submitted is by clicking on the  download icon to download the image The save as in the action menu of the browser saves html instead of the image. Pin the image pop-out on with the pin icon on the top right to keep the image pop-out open while navigating to other parts of Catenda Hub. Close the image pop-out by clicking on the x top right, clicking on close bottom right or pressing esc on the keyboard.
 
@@ -116,11 +116,11 @@ It is also possible to highlight the text box of the comment and paste an image 
 
 Click on the plus button next to the comment field to add a 2D or 3D snapshot
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/12-2d-or-3d-snapshots.png)
+![](images/12-2d-or-3d-snapshots.png)
 
 **Adding a 2D or 3D snapshot to a comment** Load a model in the 3D viewer to attach a 3D snapshot to a comment. Load a storey of a model in the 2D viewer to attach a 2D snapshot to a comment. A 3D snapshot can look somehting like this.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/13-2d-or-3d-snapshots.png)
+![](images/13-2d-or-3d-snapshots.png)
 
 2D snapshots have the same buttons but with an image of the 2D viewer attached. Click [here](https://support.catenda.com/en/articles/10345863-snapshots) to read more about snapshot configuration
 
@@ -128,7 +128,7 @@ Click on the plus button next to the comment field to add a 2D or 3D snapshot
 
 Keep track of annotations on documents by creating a markup. When a markup is saved, it is either added to the comment of an existing topic or a new topic with the markup is created. A topic comment with a markup can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/14-markup.png)
+![](images/14-markup.png)
 
 When a markup is added to a topic the document that the annotations were created on is automatically be linked in the [related documents](https://support.catenda.com/en/articles/7986346-issue-content#h_be2f2bcf3b).
 
@@ -157,7 +157,7 @@ If the annotation is made on a PDF comparison the revision numbers of the two re
 
 This is what a draft of a new comment can look like before the comment is submitted
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/15-new-comment.png)
+![](images/15-new-comment.png)
 
 **Text box** Write a comment in the text box next to the plus button. Mention members by typing @name or link to other topics by typing #link. Text submitted in the text box of a comment follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda. Paste both text and images from the clipboard to attach them to the new comment.
 

@@ -2,7 +2,7 @@
 
 New bookmarks can be made by clicking on New bookmark in the [top buttons](https://support.catenda.com/en/articles/4670281-bookmarks-page#h_e85b08bb62) on the [bookmarks page](https://support.catenda.com/en/articles/4670281-bookmarks-page) or on the page of a specific bookmark.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/ba5nvq9c/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. New bookmark
 
@@ -10,7 +10,7 @@ Open the 3D viewer from the navigation menu. Press the [new bookmark](https://su
 
 > **Note:** While it is not possible to create a bookmark with a query it is possible to make a snapshot in an issue with a query.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/ba5nvq9c/02-new-bookmark.png)
+![](images/02-new-bookmark.png)
 
 ## 2. Add a description (optional)
 
@@ -24,6 +24,6 @@ You can choose to share or not your "**private bookmark / share with the project
 
 You have two options: either to always "**follow the latest revision**" of your selected models or to permanently lock the bookmark to these current revisions "**Lock to original revisions".**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/ba5nvq9c/03-models-and-revisions.png)
+![](images/03-models-and-revisions.png)
 
 > **Note:** To finalize, remember to click on the create button.

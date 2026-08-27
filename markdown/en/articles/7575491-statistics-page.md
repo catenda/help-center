@@ -2,11 +2,11 @@
 
 The statistics page can be found as a sub page to the [topics page](https://support.catenda.com/en/articles/4670271-issues-page).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/2s7g3kx3/01-intro.png)
+![](images/01-intro.png)
 
 Here is an example of what a statistics page can look like
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/2s7g3kx3/02-intro.png)
+![](images/02-intro.png)
 
 ## 1. Overview
 

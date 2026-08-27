@@ -4,13 +4,13 @@ The topic template page can be found by clicking on a topic template card on the
 
 This is what the topics template page can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3hd924wy/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **Actions on the topic template page**
 
 The topics templates page actions can be found by clicking on the action menu to right of the green plus button on the top right of topics templates page. This is what the topics templates page actions can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3hd924wy/02-actions-on-the-topic-template-page.png)
+![](images/02-actions-on-the-topic-template-page.png)
 
 ### 1.1 **New topic template**
 
@@ -20,7 +20,7 @@ Click [here](https://support.catenda.com/en/articles/12372007-creating-a-new-top
 
 This is what a topic template can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3hd924wy/03-topic-template.png)
+![](images/03-topic-template.png)
 
 ### 2.1 **Edit**
 

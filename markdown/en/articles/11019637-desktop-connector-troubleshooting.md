@@ -20,7 +20,7 @@ In order to synchronize your local files to a project you have to have at least 
 
 When the Desktop Connector is opened for the first time all projects the user has access to are loaded in. Without refreshing these same projects are displayed next time. If the user has lost access to the project the following message will appear when attempting to set a server location in an up- or download task for the project.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0emrc0xc/01-project-not-found.png)
+![](images/01-project-not-found.png)
 
 Please ask a project administrator for access to the project. To find out who to contact for project access ask Catenda support.
 
@@ -68,7 +68,7 @@ Specifically this can happen when trying to upload a folder with the title "`A`"
 
 In the task itself the following can be seen:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0emrc0xc/02-not-all-folders-have-been-downloaded.png)
+![](images/02-not-all-folders-have-been-downloaded.png)
 
 `Not all folders have been downloaded, click to view errors.`
 
@@ -124,7 +124,7 @@ Tasks, that are manually ran by clicking on Upload/Download Now in the task, dis
 
 **Task finished** The only way to see if tasks have successfully finished is by manually running the task. Click on Upload/Download Now within the task to do so. When the task has successfully finished a message that all documents have been uploaded or downloaded is displayed in the task.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0emrc0xc/03-task-halted.png)
+![](images/03-task-halted.png)
 
 > **Note:** There are no messages in the log file for finished tasks. The only way to see if tasks that were started per schedule have halted is by checking the network usage of the application.
 
@@ -218,9 +218,9 @@ While downloading from or uplaoding to an external harddrive Windows will give a
 
 For folders that are on drive where Windows is installed the right folder permissions are required. Right click the folder you are trying to download to and allow the right permissions.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0emrc0xc/04-folder-permissions.png)
+![](images/04-folder-permissions.png)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0emrc0xc/05-folder-permissions.png)
+![](images/05-folder-permissions.png)
 
 In this case the log file will give the following error:
 
@@ -230,27 +230,27 @@ In this case the log file will give the following error:
 
 Even though a folder on Windows can be opened, Windows can enforce a "No-Write-Up" policy. The Desktop Connector will let you select this folder but when the task is ran the following message appers:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0emrc0xc/06-permission-denied.png)
+![](images/06-permission-denied.png)
 
 In this case the Desktop Connector is blocked from writing, regardless of the user's "Full Control" rights.
 
 Deleting this folder will require the user to gran administrator privileges.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0emrc0xc/07-permission-denied.png)
+![](images/07-permission-denied.png)
 
 In some situations the folder can still be opened while in others the following message can be seen:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0emrc0xc/08-permission-denied.png)
+![](images/08-permission-denied.png)
 
 Even when continuing the following message can be seen:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0emrc0xc/09-permission-denied.png)
+![](images/09-permission-denied.png)
 
 Clicking on Download Anyway will download the files but they will not be able to be downloaded to the specified folder as that folder is restricted.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0emrc0xc/10-permission-denied.png)
+![](images/10-permission-denied.png)
 
-Desktop connector `Status: Redirect, click to _view downloaded files_`
+Desktop connector `Status: Redirect, click to view downloaded files`
 
 Log file `Access to the path '<Path>' is denied`
 

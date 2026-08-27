@@ -2,15 +2,15 @@
 
 The projects screen is the first screen you encounter after [signing in](https://support.catenda.com/en/articles/7891486-sign-in-page) to Catenda Hub. On the projects page you will see a complete list of all projects you are a member of.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/zazjw3t1/01-intro.png)
+![](images/01-intro.png)
 
 This is what the projects page can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/zazjw3t1/02-intro.png)
+![](images/02-intro.png)
 
 ## 1. **Open a project**
 
-Click on the project thumbnail or chosen project in the [projects list](#projects-list). You will then be taken to the [Dashboard](https://support.catenda.com/en/articles/8212646-dashboard-page) of the project.
+Click on the [project thumbnail](#h_303c7e9962) or chosen project in the [projects list](#h_1285a6d343). You will then be taken to the [Dashboard](https://support.catenda.com/en/articles/8212646-dashboard-page) of the project.
 
 ## 2. **Left navigation menu**
 
@@ -19,13 +19,13 @@ In the left menu you will be able see the following menus:
 - Projects page - Current article
 - [Notifications](https://support.catenda.com/en/articles/7439223-notifications-page)
 - [Account](https://support.catenda.com/en/articles/6880968-account-page)
-- Organizations
+- [Organizations](https://support.catenda.com/en/articles/8442343-organizations-page)
 
 ## 3. **New item action buttons**
 
 If your current plan and access allows for it, you can [create a new project](https://support.catenda.com/en/articles/4670245-creating-a-new-project) by clicking the New project button.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/zazjw3t1/03-new-item-action-buttons.png)
+![](images/03-new-item-action-buttons.png)
 
 If you do not see the new project button towards the top right and want to create a new project, contact support by clicking on the black chat button next to your profile picture on the top right or send an email to [support@catenda.com](mailto:support@catenda.com) We will be happy to upgrade your plan and guide you through creating it.
 

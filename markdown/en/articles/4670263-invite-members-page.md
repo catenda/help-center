@@ -2,7 +2,7 @@
 
 This page can be found by clicking on the invite members button on the top right of the [members page](https://support.catenda.com/en/articles/4670291-members-page). The members page is a sub menu of the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/bejjtn6g/01-intro.png)
+![](images/01-intro.png)
 
 _Access required:_ Access to [inviting new members](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) on the project settings page.
 
@@ -10,7 +10,7 @@ _Access required:_ Access to [inviting new members](https://support.catenda.com/
 
 Follow the steps below to invite a new member.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/bejjtn6g/02-invite-one-member.png)
+![](images/02-invite-one-member.png)
 
 1\. Fill in the email address of the member you would like to invite
 

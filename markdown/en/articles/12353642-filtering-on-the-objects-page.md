@@ -2,10 +2,10 @@
 
 The filter panel on the objects page can be opened by clicking on the filter button to the left of the search bar on the objects page.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/01-intro.png)
+![](images/01-intro.png)
 This is what the search or filter menu can look like when opened:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/02-intro.png)
+![](images/02-intro.png)
 
 ## 1. **Filters**
 
@@ -41,7 +41,7 @@ Query search - `query=<Product>,<Operator>,<Value>` Click in the Search or filte
 
 **Product** The first selection can be any kind of IFC product. This is what the product dropdown can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/03-query.png)
+![](images/03-query.png)
 
 **Operator** The operator can only be selected after a product has been selected. The operator part of the query filter decides how the product is compared against the value. Depending on if the product can have any value or if the product can only have a limited set of values different operators can be chosen from:
 
@@ -55,7 +55,7 @@ Does not exist - `not-exists` When does not exist is selected, only a product ca
 
 Limited set of value operators This is what the operator dropdown can look like when the selected property has a limited set of values:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/04-query.png)
+![](images/04-query.png)
 
 Contains - `contains`
 
@@ -65,11 +65,11 @@ Has value - `has-value` When has value is selected, only a product can be select
 
 Any value operators This is what the operator dropdown can look like when the selected property can have any value:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/05-query.png)
+![](images/05-query.png)
 
 In Range - `range-inclusive` When the in range operator is selected there are two value fields. This is what it can look like when an in range filter is edited.:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/06-query.png)
+![](images/06-query.png)
 
 The range will be anything from the first value to the second value.
 
@@ -85,10 +85,10 @@ Less than - `less-than`
 
 Number value When the selected product can only have a number value arrows are displayed when the value field is clicked and only numbers can be entered.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/07-query.png)
+![](images/07-query.png)
 
 Suggested values When a product can have a text value it can be written directly in the value field. This is what the value menu can look like when the Entity product has been selected.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/08-query.png)
+![](images/08-query.png)
 
 When clicking in the value field a list of suggested elements is displayed below the field. If the selected product can only have a limited set of values, this limited set of values is displayed in the suggested elements list. If the selected product can have any value the suggested elements list shows a list of values that other products of this kind have.

@@ -24,7 +24,7 @@ Click on the icon of a document to open a preview window of the document. This i
 
 For most documents the filetype icon will be displayed. For image filetypes the image will be displayed instead. Depending on the configuration of the document you might see badges appear in the corners of the icon. A configured document can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/42c02fpr/01-document-icons.png)
+![](images/01-document-icons.png)
 
 **Model badge** Documents that are linked to a model on the models page will show a models badge on the bottom left.
 
@@ -34,11 +34,11 @@ For most documents the filetype icon will be displayed. For image filetypes the 
 
 Depending on the configuration of the folder you might see badges appear in the corners of the icon. A configured folder can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/42c02fpr/02-folder-icons.png)
+![](images/02-folder-icons.png)
 
 **Element count** If there are no elements in a folder (subfolders or documents) it will be white.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/42c02fpr/03-folder-icons.png)
+![](images/03-folder-icons.png)
 
 If there are elements in a folder (subfolders or documents) it will be green. On the bottom right you will see the amount of elements that are in this folder.
 
@@ -58,7 +58,7 @@ If you have selected a document or a folder, you will be able to change the name
 
 If you hover over the name column you will see that a grid of dots appears to the right of the document name.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/42c02fpr/04-row-anchor.png)
+![](images/04-row-anchor.png)
 
 If you mouse over this you will see you cursor change to a hand. If you drag this grid icon you will be able to move your selected files/folders to another folder.
 
@@ -120,7 +120,7 @@ Shows the amount of objects that are [linked to this document](https://support.c
 
 For IFC documents that have been linked to models, Point Clouds and GML documents you will see a 2D, 3D and zoom to extents button in this column. These buttons can be used to open the [2D view](https://support.catenda.com/en/articles/4854537-2d-viewer) or [3D view](https://support.catenda.com/en/articles/8227211-3d-viewer) of a document-model from the document structure. For 3D multiple document-models can be selected and the 3D action can be used to open them all in one go. The center button will let you center on this model if it is loaded in 3D. This is what an ifc document that is connected to a model can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/42c02fpr/05-viewer-default-1-panel.png)
+![](images/05-viewer-default-1-panel.png)
 
 ## 14. **Custom fields**
 

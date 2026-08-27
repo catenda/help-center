@@ -24,19 +24,19 @@ After installing, the Catenda panel can be found in the Add-ins ribbon. Dependin
 
 **Full ribbon - Default**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/01-opening-the-plugin-window.png)
+![](images/01-opening-the-plugin-window.png)
 
 **Panel buttons**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/02-opening-the-plugin-window.png)
+![](images/02-opening-the-plugin-window.png)
 
 **Panel titles**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/03-opening-the-plugin-window.png)
+![](images/03-opening-the-plugin-window.png)
 
 **Minimize to tabs**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/04-opening-the-plugin-window.png)
+![](images/04-opening-the-plugin-window.png)
 
 ### 2.1 **Topics**
 
@@ -54,11 +54,11 @@ Click on Catenda to be redirected to [https://hub.catenda.com/](https://hub.cate
 
 This is what the plugin window can look like when docked on the right:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/05-signing-in.png)
+![](images/05-signing-in.png)
 
 Log in with your Catenda email address and password.
 
-<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-703202eeb52b.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-3e163e70c122.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-3b6b4eaa010e.png" width="180"/>
+<img alt="" src="images/inline-703202eeb52b.png" width="180"/><img alt="" src="images/inline-3e163e70c122.png" width="180"/><img alt="" src="images/inline-3b6b4eaa010e.png" width="180"/>
 
 If you have MFA enabled for your account you will be asked to fill in your MFA code. Click [here](https://support.catenda.com/en/articles/7891486-sign-in-page) to read more about the sign in page.
 
@@ -74,7 +74,7 @@ After signing in, the main view of the Catenda Hub plugin is opened up. On this 
 
 ### 4.1 **Interface**
 
-![Header.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/06-interface.png)
+![Header.png](images/06-interface.png)
 
 1. Select your Catenda Hub project
 1. Select a topic board in this project
@@ -88,13 +88,13 @@ After signing in, the main view of the Catenda Hub plugin is opened up. On this 
 
 Selecting a Catenda Hub project will display the list of topic board in this project, allowing you to selected one to display the corresponding topics. It will also save the Catenda Hub project and topic board in your Revit model and open them automatically the next time you open this model.
 
-![ProjectInfo.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/07-project-and-topic-board-selection.png)
+![ProjectInfo.png](images/07-project-and-topic-board-selection.png)
 
 ### 4.3 **Actions**
 
 The plugin actions can be found towards the top right:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/08-actions.png)
+![](images/08-actions.png)
 
 Click [here](https://support.catenda.com/en/articles/13168755-actions-in-the-catenda-revit-plugin) to read more about the different actions in the Catenda Revit Plugin.
 
@@ -102,7 +102,7 @@ Click [here](https://support.catenda.com/en/articles/13168755-actions-in-the-cat
 
 In the topic list, you will find all the main information about an topic:
 
-![IssueInformation.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/09-topic-selection.png)
+![IssueInformation.png](images/09-topic-selection.png)
 
 1. The title of the topic
 1. Its status (Open, Closed, …), its type (Info, Error, …) and its labels
@@ -114,13 +114,13 @@ In the topic list, you will find all the main information about an topic:
 1. The image of the first comment in the topic
 1. Catenda Hub topic number
 
-You can click on any topic to go to the [topic detail page](#topic-details).
+You can click on any topic to go to the [topic detail page](#h_445d3efa52).
 
 ### 4.5 **Sort topics**
 
 You can sort the displayed topics to bring he most relevant to you first.
 
-![sort.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/10-sort-topics.png)
+![sort.png](images/10-sort-topics.png)
 
 1. Bring the most recently created topic first
 1. Bring the oldest topic first
@@ -135,7 +135,7 @@ Using the filter bar, you can combine any type of filter to display only the mos
 
 Current filters are displayed as small chips in the filter bar. Here, only topics with the “Open” status are displayed. Click in the filter bar to display all available filters (1).
 
-![AvailableFilters.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/11-filter-topics.png)
+![AvailableFilters.png](images/11-filter-topics.png)
 
 On the left (2) is the name of the filter, every filter belong to a type displayed on the right (3).
 
@@ -151,7 +151,7 @@ Available filters types includes:
 
 You can search for these filters by typing text in the filter bar (1). You can also use this to create a text filter to search for a specific text in the topic title or description (2).
 
-![TextFilter.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/12-filter-topics.png)
+![TextFilter.png](images/12-filter-topics.png)
 
 ## 5. **Topic Details**
 
@@ -159,9 +159,9 @@ In this view, you can review and edit a specific topic.
 
 ### 5.1 **Interface**
 
-![IssueDetailView.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/13-interface.png)
+![IssueDetailView.png](images/13-interface.png)
 
-1. Go back to the [Topic List](#topic-list)
+1. Go back to the [Topic List](#h_642fa61854)
 1. Refresh the content of this topic
 1. Navigate between topics
 1. Set the topic status (Open, Closed, …)
@@ -178,25 +178,25 @@ You can edit any property of the topic: Status, type, assignee, requester, due d
 
 You can click on the title to edit it:
 
-![editTitle.gif](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/14-topic-properties.gif)
+![editTitle.gif](images/14-topic-properties.gif)
 
 You can click on the pen icon to edit the description:
 
-![editDescription.gif](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/15-topic-properties.gif)
+![editDescription.gif](images/15-topic-properties.gif)
 
 You can also type text in the label bar to filter down the list of filters:
 
-![editLabels.gif](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/16-topic-properties.gif)
+![editLabels.gif](images/16-topic-properties.gif)
 
 ### 5.3 **Comments**
 
 All comments are displayed below the topic. A comment can contains text, a picture, a snapshot from your Revit current view or a viewpoint.
 
-![CommentDetail.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/17-comments.png)
+![CommentDetail.png](images/17-comments.png)
 
 1. The author of the comment
 1. When the comment was created. You can hover over the date to display the full date and time of update.
-1. The [zoom button](#zoom) (see chapter below)
+1. The [zoom button](#h_d873968c27) (see chapter below)
 1. The image associated with the comment
 1. The text of the comment
 
@@ -204,19 +204,19 @@ All comments are displayed below the topic. A comment can contains text, a pictu
 
 If the comment contains a viewpoint, you can zoom to this viewpoint. Zoom in will create a new 3D view in your Revit model focused on the same viewpoint.
 
-![zoom.gif](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/18-zoom.gif)
+![zoom.gif](images/18-zoom.gif)
 
 For the viewpoint to be relevant, you must have opened the same model than the one where the comment was created. The plugin assumed that Shared Coordinates where used while exporting the model to IFC.
 
 If the viewpoint has been created from a perspective view, the new 3D view will have its projection mode set to “Perspective”. Otherwise, the projection mode will be “Orthographic”.
 
-The add-in will create only one perspective view and one orthographic view. After having created them, it will reuse them for any subsequent use of the zoom function. You can change that in the settings menu. You can also use the settings menu to change the name of these view.
+The add-in will create only one perspective view and one orthographic view. After having created them, it will reuse them for any subsequent use of the zoom function. You can change that in the [settings menu](#h_b02502c589). You can also use the settings menu to change the name of these view.
 
 ### 5.5 **Related elements**
 
 If the topic contains related elements, the add-in will select them in Revit when you zoom to a viewpoint.
 
-![relatedElements.gif](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/19-related-elements.gif)
+![relatedElements.gif](images/19-related-elements.gif)
 
 For this function to work, you Revit model must have been exported to IFC with the “Store the IFC GUID in an element parameter after export”. This add the IFCGuid parameter on every object, allowing the plugin to select the related elements.
 
@@ -226,7 +226,7 @@ You can add comments to an topic by writing in the text box and clicking on Subm
 
 You can also add a picture from your computer by clicking on the “Plus” button. You can annotate this picture by clicking on the preview image after selecting it.
 
-![createComment.gif](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/20-add-comment.gif)
+![createComment.gif](images/20-add-comment.gif)
 
 ### 5.7 **Add 3D snapshot**
 

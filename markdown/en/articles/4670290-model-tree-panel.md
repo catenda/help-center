@@ -2,7 +2,7 @@
 
 The model tree panel can be found as one of the four [project panels](https://support.catenda.com/en/articles/13141464-project-panels) that can be opened on the top right of the screen.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5dr5qz8m/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **Opening the model tree panel**
 
@@ -60,7 +60,7 @@ Click a list element or press enter on the active element to: Select an object. 
 
 The containment tree provides a hierarchical perspective on how the different IFC objects relate to each other.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5dr5qz8m/02-containment-tree.png)
+![](images/02-containment-tree.png)
 
 When the shortcut "`p`" is pressed to select the parent node, this can visually be observed in the containment tree.
 
@@ -68,7 +68,7 @@ When the shortcut "`p`" is pressed to select the parent node, this can visually 
 
 The component tree provides a hierarchical perspective on the components that make up an object.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5dr5qz8m/03-component-tree.png)
+![](images/03-component-tree.png)
 
 In this tree menu components like the following can be found:
 
@@ -78,18 +78,18 @@ AirTerminal Annotation Beam BuildingElementPart BulidingElementproxy Coil Column
 
 The type tree shows all the objects sorted by their type.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5dr5qz8m/04-type-tree.png)
+![](images/04-type-tree.png)
 
 ## 6. Layer tree
 
 The layer tree provides a hierarchical view of the layers in the model.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5dr5qz8m/05-layer-tree.png)
+![](images/05-layer-tree.png)
 
 ## 7. System tree
 
 The system tree provides a view of the systems in the model.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/5dr5qz8m/06-system-tree.png)
+![](images/06-system-tree.png)
 
 > **Note:** The object selected in the tree and in the model are in sync. If you click on a window in the 3D mode, it is selected in the tree. And vice versa. You can also double-click on a “leaf” in the model and make the 3D camera move to that object.

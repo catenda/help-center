@@ -2,19 +2,19 @@
 
 The Libraries page can be found as the fifth page in in the left navigation menu in a project. This page is part of the content panel. Here you will be able to find libraries that contain sets of items.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/7wg8652x/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **New item actions**
 
 By clicking on the the new item button you will be able to add a new library.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/7wg8652x/02-new-item-actions.png)
+![](images/02-new-item-actions.png)
 
 ### 1.1 **Document libraries**
 
 [Documents](https://support.catenda.com/en/articles/8204673-documents-page) - The document library in the documents section [Links library](https://support.catenda.com/en/articles/4670254-links-library) - Connect links to objects and issues _Dropbox_ - Link files from Dropbox to objects in the BIM
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/7wg8652x/03-document-libraries.png)
+![](images/03-document-libraries.png)
 
 After giving your library a name, Catenda will redirect you to Dropbox to get permission to access your Dropbox account. You will then be able to browse your Dropbox and select which folder to share with the project. If you wish, you can create several Dropbox libraries, even using the same Dropbox account.
 
@@ -26,7 +26,7 @@ _[Sharepoint](https://support.catenda.com/en/articles/5744548-sharepoint-library
 
 _coBuilder Pro_ - Documents - Tag objects with doucments from coBuilder Pro This library is only available in legacy projects.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/7wg8652x/04-document-libraries.png)
+![](images/04-document-libraries.png)
 
 Enter your coBuilderPRO username and password to connect.
 

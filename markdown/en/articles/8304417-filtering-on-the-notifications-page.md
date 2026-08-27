@@ -4,7 +4,7 @@ Both in your [notification settings](https://support.catenda.com/en/articles/827
 
 In which situation a notification gets sent for the different settings will be explained in this article. After the notification is sent it can be found again on the [account notifications page](https://support.catenda.com/en/articles/7439223-account-notifications-page) and the [project notifications page](https://support.catenda.com/en/articles/4670295-project-notifications-page) by opening the filter menu button on the left.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/810mbm4a/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **Notification history**
 

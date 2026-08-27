@@ -2,11 +2,11 @@
 
 The inspect menu can be found as the first menu in the [information panel](https://support.catenda.com/en/articles/8238584-information-panel).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/01-intro.png)
+![](images/01-intro.png)
 
 Select an object in the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) or [tree panel](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) to get started. The properties and related information are displayed in the inspect menu. After selecting an object, the inspect panel can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/02-intro.png)
+![](images/02-intro.png)
 
 Selecting more than one object shows common topics, properties, quantities, materials or libraries. Your preference for which menu you have opened in the inspect menu will be remembered across projects and sessions. That means that, no matter if you have closed the browser and re-opened or which project you are in, the same menus will always be open when you select an object.
 
@@ -46,11 +46,11 @@ If your object is part of a hierarchy you will see the parent node in the hierar
 
 With an alignment selected in the trees panel, click on Display all segments to open the alignments table.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/03-alignments.png)
+![](images/03-alignments.png)
 
 This is what the alignments table can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/04-alignments.png)
+![](images/04-alignments.png)
 
 Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read more about tables on Catenda
 
@@ -58,7 +58,7 @@ Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
 
 In the topics menu you will be able to see if there are any open or closed topics that are [related to](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_758f17abbc) your selected object(s). The topics menu can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/05-topics.png)
+![](images/05-topics.png)
 
 ### 3.1 **New topic**
 
@@ -86,23 +86,23 @@ The amount of open topics that are related to your selected objects without an a
 
 Here you can find the properties the selected objects have in common. The properties menu can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/06-properties-quantities-and-materials.png)
+![](images/06-properties-quantities-and-materials.png)
 
 ### 4.1 **Filter empty values button**
 
 Click the filter icon to hide properties that do not have any values.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/07-filter-empty-values-button.png)
+![](images/07-filter-empty-values-button.png)
 
 ### 4.2 **Display type value button**
 
 If your selected object(s) have any properties inherited from the object type you will see the display type value button.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/08-display-type-value-button.png)
+![](images/08-display-type-value-button.png)
 
 Activate this button to show the properties that were inherited from the type. When this button is activated you will see the type value like so:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/09-display-type-value-button.png)
+![](images/09-display-type-value-button.png)
 
 ### 4.3 **Property values**
 
@@ -126,7 +126,7 @@ Here you can find the materials the selected objects have in common
 
 If your selected object(s) are [linked to any documents](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document#h_d0769e55eb) or library items you will be able to see them here. The libraries menu can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/10-libraries.png)
+![](images/10-libraries.png)
 
 You can click on the number to the right of these items to get the linked documents/library items shown in a view in the content panel. If you for example have a floor plan in the documents section linked to a wall object you will be able to click on documents here to find the document in the document section.
 

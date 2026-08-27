@@ -4,17 +4,17 @@ The topic templates page can be found by clicking the topic templates action in 
 
 This is what the topics templates page can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **Actions on the topics templates page**
 
 The topics templates page actions can be found by clicking on the action menu to right of the green plus button on the top right of topics templates page. This is what the topics templates page actions can look like when looking at topic templates:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/02-actions-on-the-topics-templates-page.png)
+![](images/02-actions-on-the-topics-templates-page.png)
 
 This is what the topics templates page actions can look like when looking at archived topic templates:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/03-actions-on-the-topics-templates-page.png)
+![](images/03-actions-on-the-topics-templates-page.png)
 
 ### 1.1 **New topic template**
 
@@ -28,7 +28,7 @@ Click on the topic templates and archived topic templates actions switch bteween
 
 After a topic template is created a card for the topic template appears on this page. Click on a topic template card to open the [topic template page](https://support.catenda.com/en/articles/12371549-topic-template-page) of that topic template. This is what a topic template card can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/04-topic-template-card.png)
+![](images/04-topic-template-card.png)
 
 ### 2.1 **Topic template title**
 

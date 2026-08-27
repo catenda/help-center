@@ -6,7 +6,7 @@ The configuration of the network that the system is connected to can affect ther
 
 Control the quality of your network, so that the ratio between Download and Upload is around 1:10 or above.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/4f22q5zf/01-network-speed.png)
+![](images/01-network-speed.png)
 
 (this network test is an example, not actual requirement)
 

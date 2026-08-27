@@ -2,13 +2,13 @@
 
 The objects page can be found as a sub page to the models page. A table with information about the project models is displayed. Comparison filters can be combined to extract only the information that is asked for. This page combines elements of the QTO menu in the information panel and property value libraries on the libraries page and will eventually replace both.
 
-![Dashboard Models Bookmarks Objects Storey Configurator](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/01-intro.png)
+![Dashboard Models Bookmarks Objects Storey Configurator](images/01-intro.png)
 
 ## 1. **Search or filter**
 
 This is what the search or filter menu can look like on the objects page
 
-![Search or filter Select Plus Models Selected Text search](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/02-search-or-filter.png)
+![Search or filter Select Plus Models Selected Text search](images/02-search-or-filter.png)
 
 Click [here](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page) to read more about filtering on the objects page.
 
@@ -16,7 +16,7 @@ Click [here](https://support.catenda.com/en/articles/12353642-filtering-on-the-o
 
 The products table can look something like this:
 
-![Selected 3D action menu download settings entity column GlobalId column LongName column IfcProject IfcBuildingelementProxy one row is selected in table](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/03-products-table.png)
+![Selected 3D action menu download settings entity column GlobalId column LongName column IfcProject IfcBuildingelementProxy one row is selected in table](images/03-products-table.png)
 
 Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read more about how to work with tables in Catenda.
 
@@ -32,7 +32,7 @@ As soon as the latest revision of a model has finished processing a row for each
 
 After selecting an element row selected item actions appear towards the top of the products table. This is what the selected item actions menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/04-selected-item-actions.png)
+![](images/04-selected-item-actions.png)
 
 **Viewer** Click on the 3D icon or use the viewer action to select the selected elements in the objects table in the 3D viewer.
 
@@ -52,7 +52,7 @@ After selecting an element row selected item actions appear towards the top of t
 
 Click on the download button towards the top of the products table to export it.
 
-![Download button](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/05-export.png)
+![Download button](images/05-export.png)
 
 Rows It is only possible to get all rows of the enabled models. Selecting rows does not limit the rows in the exported files. The only filter that can limit the amount of rows is the models filter. While rows may look limited in the table, the exported file will include all rows for the models that are available.
 
@@ -60,21 +60,21 @@ Columns One column for each column that is enabled in the products table is expo
 
 **Export objects** Choose to export to Excel or CSV in the export objects menu:
 
-![Export objects Excel CSV](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/06-export.png)
+![Export objects Excel CSV](images/06-export.png)
 
 **Preparing export** After clicking on export a menu can be seen that says preparing spreadsheet towards the bottom right.
 
-![Preparing export Preparing spreadsheet](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/07-export.png)
+![Preparing export Preparing spreadsheet](images/07-export.png)
 
 During this time it is safe to continue navigating around Catenda as long as the page is not refreshed. When the spreadsheet becomes available it looks like this and the file will start downloading in the browser:
 
-![Export ready Spreadsheet available](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/08-export.png)
+![Export ready Spreadsheet available](images/08-export.png)
 
 ### 2.6 **Columns**
 
 Some columns in the products table are enabled by default while others can be hidden and have to be enabled. This is what the column dropdown in the products table can look like:
 
-![Attributes Type GlobalId Name Tag Project Site Building Refresh](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/09-columns.png)
+![Attributes Type GlobalId Name Tag Project Site Building Refresh](images/09-columns.png)
 
 **Toggle** Enable or disable all columns with this toggle
 

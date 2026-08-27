@@ -25,10 +25,10 @@ We have expanded the location availability for all issues ( it used to be limite
 
 We now support German & Japanese!
 
-![BIM Anywhere Access all your project information with intuitive navigation](https://raw.githubusercontent.com/catenda/help-center/main/images/3htkwp30/01-new-languages-available.png)
+![BIM Anywhere Access all your project information with intuitive navigation](images/01-new-languages-available.png)
 
-![BIM Anywhere Access all your project information with intuitive navigation](https://raw.githubusercontent.com/catenda/help-center/main/images/3htkwp30/02-new-languages-available.png)
+![BIM Anywhere Access all your project information with intuitive navigation](images/02-new-languages-available.png)
 
-![Issue Collaboration Quickly caputre and manage issues on the go even when offline](https://raw.githubusercontent.com/catenda/help-center/main/images/3htkwp30/03-new-languages-available.png)
+![Issue Collaboration Quickly caputre and manage issues on the go even when offline](images/03-new-languages-available.png)
 
-![All boards All open issues All closed issues Requested by me All candidate issues Overdue issues Due within 2 weeks](https://raw.githubusercontent.com/catenda/help-center/main/images/3htkwp30/04-new-languages-available.png)
+![All boards All open issues All closed issues Requested by me All candidate issues Overdue issues Due within 2 weeks](images/04-new-languages-available.png)

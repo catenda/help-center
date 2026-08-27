@@ -26,11 +26,11 @@ If your company uses MailInBlack, we might need to whitelist your email manually
 
 If you are receiving project invitations, shared document collections or bookmarks but no notifications your account is most likely not verified. If you created an account on the sign-in page you will have gotten the following email.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/jw38grdf/01-only-receiving-links.png)
+![](images/01-only-receiving-links.png)
 
 If your account has been created for you or if you did not receive this email somehow your account email will not be verified. If the email of an account is not verified a gray bar will be displayed towards the top of every page. This gray bar can look somehething like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/jw38grdf/02-only-receiving-links.png)
+![](images/02-only-receiving-links.png)
 
 Please verify your email address to receive email notifications.
 
@@ -38,11 +38,11 @@ Please verify your email address to receive email notifications.
 
 If you click Verify mail address, the following email will be sent to the address connected to your account. In Catenda the Gray bar will then look like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/jw38grdf/03-verify-mail-address.png)
+![](images/03-verify-mail-address.png)
 
 The email that is sent can looks something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/jw38grdf/04-verify-mail-address.png)
+![](images/04-verify-mail-address.png)
 
 Click on the link in this email to verify your email. After successfully clicking the verification link in the email the gray bar should no longer appear in your Catenda sessions. In your current session you can once again click on verify in the gray bar to make it disappear.
 

@@ -4,15 +4,15 @@
 
 Approval topic templates can both be configured on the [topic template settings page](https://support.catenda.com/en/articles/14076010-topic-template-settings-page) and by clicking on the topic template dropdown in the final approval menu of the new approval workflow page and selecting create a new topic template. _Access required:_ Project administrator Topic template settings page
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/01-intro.png)
+![](images/01-intro.png)
 
 OR Configure workflows
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/02-intro.png)
+![](images/02-intro.png)
 
 Create a new topic template on the new workflow page.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/03-intro.png)
+![](images/03-intro.png)
 
 > **Important:** ℹ️ For a topic to get generated as the result of the closing of an approval, the approval **has to contain a markup**. After closing the configured approval, for each markup in the approval a separate topic is generated.
 
@@ -21,7 +21,7 @@ You [create a new approval workflow](https://support.catenda.com/en/articles/123
 Here, you can link an approval topic template for each review state (and associate document final status).
 ​
 
-    <div class="intercom-container intercom-align-center"><img height="254" src="https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/inline-e90e5114173a.png" style="height: auto;" width="500"/></div>
+    <div class="intercom-container intercom-align-center"><img height="254" src="images/inline-e90e5114173a.png" style="height: auto;" width="500"/></div>
 
 1. Ensure you have filled all the previous necessary fields from the approval workflow template and click the "Submit" button.
 1. Go through an approval workflow. 

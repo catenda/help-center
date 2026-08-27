@@ -2,7 +2,7 @@
 
 You will be able to find the projects page as a sub page to your [organizations profile page](https://support.catenda.com/en/articles/8497478-organization-profile-page). Here you will see an overview of all the members that are part of projects belonging to this organization.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hmv9p08/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **Search and filter**
 
@@ -28,7 +28,7 @@ With this filter you can filter for all the entries belonging to one user
 
 After selecting one or more member(s) in the project membership list by clicking on their checkbox you will see the following action buttons appear towards the top of the projects list.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hmv9p08/02-action-buttons.png)
+![](images/02-action-buttons.png)
 
 ### 2.1 **Add to projects**
 
@@ -46,7 +46,7 @@ Remove one or more users without having to be part of the project
 
 In the project membership list you will see one entry per member per project. If a member is part of many projects you might therefore see many entries for all the projects. To find that member in a specific project you can use the project filter to narrow down your search. The members list can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hmv9p08/03-project-membership-list.png)
+![](images/03-project-membership-list.png)
 
 ### 3.1 **Checkbox**
 

@@ -6,7 +6,7 @@ Creating a new topic can be done from the topics-screen, or from the dashboard t
 
 This is what the new topic creation page can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/01-intro.png)
+![](images/01-intro.png)
 
 On this page you will find information about the following:
 
@@ -18,7 +18,7 @@ Click on back to topics to go back to the topic board you were in last.
 
 This is what the topic header can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/02-2-header.png)
+![](images/02-2-header.png)
 
 ### 2.1 Title
 
@@ -66,7 +66,7 @@ If custom fields have been added to the topic board where the topic is being cre
 
 This is what the right information panel can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/03-3-right-information-panel.png)
+![](images/03-3-right-information-panel.png)
 
 ### 3.1 Documents
 
@@ -76,7 +76,7 @@ Click [here](https://support.catenda.com/en/articles/4670250-linking-a-document-
 
 This is what the body of a topic can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/04-4-body.png)
+![](images/04-4-body.png)
 
 ### 4.1 Description
 

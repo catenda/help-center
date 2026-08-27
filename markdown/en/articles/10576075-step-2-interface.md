@@ -6,11 +6,11 @@
 
 Once you login you will land on a page where a list of available projects is displayed.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/86rfck85/01-intro.png)
+![](images/01-intro.png)
 
 Select your project to land in the project environment.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/86rfck85/02-intro.png)
+![](images/02-intro.png)
 
 In left side menu you are presented with the following main function areas;
 

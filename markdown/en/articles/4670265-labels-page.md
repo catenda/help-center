@@ -2,11 +2,11 @@
 
 The label page can be found as a sub page to [project settings](https://support.catenda.com/en/articles/4670273-project-settings-page) in the left navigation menu.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/01-intro.png)
+![](images/01-intro.png)
 
 This is what the labels page can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/02-intro.png)
+![](images/02-intro.png)
 
 ## 1. **Top buttons**
 
@@ -16,7 +16,7 @@ The green top right button on the labels page either lets you make a new label o
 
 With the label tab active, If you click on the "New label" button the Add labels menu will appear.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/03-new-label.png)
+![](images/03-new-label.png)
 
 **Color** Choose the color of the new label
 
@@ -28,11 +28,11 @@ With the label tab active, If you click on the "New label" button the Add labels
 
 Example:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/04-new-label.png)
+![](images/04-new-label.png)
 
 Pasting in the following from excel will result in:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/05-new-label.png)
+![](images/05-new-label.png)
 
 > **Note:** If you do not specify a color to the labels they will get the color specified in the color dropdown.
 
@@ -42,7 +42,7 @@ Labels will be separated on "comma" or "newline". Group names per label will be 
 
 will become
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/06-new-label.png)
+![](images/06-new-label.png)
 
 ---
 
@@ -52,7 +52,7 @@ Group names per label will be split on **"tab"**, **"colon"**, **"semi-colon"** 
 
 will become
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/07-new-label.png)
+![](images/07-new-label.png)
 
 ---
 
@@ -62,13 +62,13 @@ A third argument may specify a hex color.
 
 will become
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/08-new-label.png)
+![](images/08-new-label.png)
 
 Groups and colors are optional. Set a default to overwrite blank spaces.
 
 Error If there is an error with a label it will show up as red.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/09-new-label.png)
+![](images/09-new-label.png)
 
 Hover over the label to see what is causing the error.
 
@@ -84,7 +84,7 @@ Creating new groups If the groups do not exist in the project yet you will be as
 
 With the group tab active, If you click on the "New group" button the Add label group menu will appear.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/10-new-group.png)
+![](images/10-new-group.png)
 
 **Label group** Choose a label group name
 

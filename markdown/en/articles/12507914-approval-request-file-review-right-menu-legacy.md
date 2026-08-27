@@ -2,11 +2,11 @@
 
 When the [file review of an approval](https://support.catenda.com/en/articles/12507422-file-review-in-an-approval-request-legacy) is first opened its right menu might be closed. Click on the information button to the right to expand this menu.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/zt2p953n/01-intro.png)
+![](images/01-intro.png)
 
 This is what the right menu in the file review of an approval can look like for projects that enabled shared revisions before 2 October 2025:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/zt2p953n/02-intro.png)
+![](images/02-intro.png)
 
 ## 1. **File overview**
 
@@ -34,15 +34,15 @@ The status of the validation is displayed in the priview. When not all reviewers
 
 When a reviewer has submitted a rejection, the box will change to red and say rejected.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/zt2p953n/03-validation-preview.png)
+![](images/03-validation-preview.png)
 
 When the minimum amount of members as specified in the approval have submitted approval validations the box will change to green and say approved.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/zt2p953n/04-validation-preview.png)
+![](images/04-validation-preview.png)
 
 **Hover** Hover over the validation preview box to see who which reviewer is involed in which action and if they submitted their validation, when they submitted it.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/zt2p953n/05-validation-preview.png)
+![](images/05-validation-preview.png)
 
 ## 2. **Comment**
 
@@ -68,4 +68,4 @@ Click reject to submit a rejection along with the comment that is written in the
 
 Whenever an action occurs in a file reveiw it is shown in the file review history. This is what the different actions that can happen can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/zt2p953n/06-file-review-history.png)
+![](images/06-file-review-history.png)

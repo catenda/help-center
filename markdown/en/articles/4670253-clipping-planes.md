@@ -24,4 +24,4 @@ Sectioning is using clipping planes by for instance choosing a wall that is atta
 
 This creation makes a cut plan on top of the selected object (the wall) and one beneath, which is often useful to see one storey isolated. The planes created in this way are moved and removed in the same way as conventional clipping plane.
 
-![15B3822F-24E5-416C-940D-D5E2C0D7C39F.GIF](https://raw.githubusercontent.com/catenda/help-center/main/images/cznsappf/01-sectioning-top-and-bottom.gif)
+![15B3822F-24E5-416C-940D-D5E2C0D7C39F.GIF](images/01-sectioning-top-and-bottom.gif)

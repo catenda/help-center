@@ -2,13 +2,13 @@
 
 You will be able to find the exchange topics action in the [new item action menu](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_8c642e051a) to the top right in a topic board. The exchange topics menu can look something like this:
 
-![File based exchange new topic exchange topics history import bcf export topics connect to a bcf client synchronize topics directly with any BCF-compatible client by using the URL below](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/01-intro.png)
+![File based exchange new topic exchange topics history import bcf export topics connect to a bcf client synchronize topics directly with any BCF-compatible client by using the URL below](images/01-intro.png)
 
 ## 1. **Import BCF**
 
 Use the BCF import action to import BCF files. This is what the BCF import dialogue can look like:
 
-![Import BCF upload bcf file: select file browse selct board generate new types and statuses from the BCF-file](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/02-import-bcf.png)
+![Import BCF upload bcf file: select file browse selct board generate new types and statuses from the BCF-file](images/02-import-bcf.png)
 
 Catenda is 100% committed to open standards. Based on this we have implemented import and export of BCF (BIM collaboration format). This means that the user can import and export topics from/to other software that supports this format (for instance Solibri, Navisworks and many others). You can for instance import a file with collision control data for the same model created in another software application. This way you can continue your workflow inside Catenda.
 
@@ -32,7 +32,7 @@ If your BCF file has statuses and types that do not exist in the topic board, th
 
 _Linking multiple statuses/types at once_ If there are unlinked statuses/types in a topic board you will see an orange warning message that there are unlinked fields in a topic board. _Access required:_ Project administrator
 
-![Topics there are unlinked fields in this topic board click here to link](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/03-generate-new-types-and-statuses-from-the-bcf-file.png)
+![Topics there are unlinked fields in this topic board click here to link](images/03-generate-new-types-and-statuses-from-the-bcf-file.png)
 
 Clicking on the link will take you to the [unlinked fields](https://support.catenda.com/en/articles/4670277-topic-board-settings#h_3bd7e3e759) area of the [topic board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings) where you can link all fields of one kind to an existing value in one go.
 
@@ -40,7 +40,7 @@ Clicking on the link will take you to the [unlinked fields](https://support.cate
 
 You will either be able to export topics by choosing export topics in the [new item action menu](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_8c642e051a) to the top right in a topic board or by selecting a topic in the topics list and choosing the export option in the [selected item action menu](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_b5c00c149b) above the topic board. The export topics dialogue can look something like this:
 
-![Export topics all topics from the current topic board current filter selected topics bcf excel pdf v3.0](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/04-export-topics.png)
+![Export topics all topics from the current topic board current filter selected topics bcf excel pdf v3.0](images/04-export-topics.png)
 
 > **Note:** Topics can only be exported from one topic board at a time.
 

@@ -2,7 +2,7 @@
 
 The file review for an approval request can be opened by clicking on review or view on the approval request page. This is what the review page of a file in an approval request can look like for projects that enabled shared revisions after 2 October 2025:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/zr7fa0bv/01-intro.png)
+![](images/01-intro.png)
 
 Projects where shared revisions were enabled before 2 October 2025 will see the legacy file review page instead.
 
@@ -54,7 +54,7 @@ _Previous and next buttons_ - Go to the previous or next revision in the approva
 
 The right menu can be opened by clicking on the info icon towards the right of the approval request review page. The Info icon can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/zr7fa0bv/02-right-menu.png)
+![](images/02-right-menu.png)
 
 Click here to read more about the right menu on the approval request review page.
 
@@ -62,7 +62,7 @@ Click here to read more about the right menu on the approval request review page
 
 The review fullscreen button can be found towards the top right of the approval request review page:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/zr7fa0bv/03-fullscreen.png)
+![](images/03-fullscreen.png)
 
 ## 6. Document preview
 

@@ -2,7 +2,7 @@
 
 The search and filter option you will see in the top part of the window. You can search by writing the name of the collection.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/svz5chty/01-intro.png)
+![](images/01-intro.png)
 
 In the search bar you can search for any collection you have access to.
 

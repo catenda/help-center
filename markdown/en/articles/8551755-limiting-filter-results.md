@@ -20,7 +20,7 @@ _Row results that are limited by filter_ Filter that are applied in a table narr
 
 In order to save a filter you need to at least have at least one filter enabled. With a set of filters enabled, click the Save button to save the current filter. This filter will be available to you next time you use Catenda Hub and will not be visible to other users.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/y0zwxw2k/01-saving-a-new-set-of-filters.png)
+![](images/01-saving-a-new-set-of-filters.png)
 
 Saved filters will only be visible to you and not for other members of the project.
 
@@ -28,11 +28,11 @@ Saved filters will only be visible to you and not for other members of the proje
 
 Once you have saved a filter you will be able to click on edit to edit your saved filters.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/y0zwxw2k/02-editing-saved-filters.png)
+![](images/02-editing-saved-filters.png)
 
 In edit mode you can: Edit the name of the filter - Pencil Update the filter with what is currently filtered - Refresh icon Delete the filter - Trashcan.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/y0zwxw2k/03-editing-saved-filters.png)
+![](images/03-editing-saved-filters.png)
 
 Remember to click Done on the top right when you are done.
 

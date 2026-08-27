@@ -2,7 +2,7 @@
 
 Administrators will be able to find the Naming conventions page as a sub page to [project settings](https://support.catenda.com/en/articles/4670273-project-settings-page).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **Local file naming**
 
@@ -16,15 +16,15 @@ Before you get started with this it is important to understand the difference be
 
 On the top right of the page you will see the New naming convention button.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/02-new-naming-convention.png)
+![](images/02-new-naming-convention.png)
 
 This is what a new naming convention looks like.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/03-new-naming-convention.png)
+![](images/03-new-naming-convention.png)
 
 ### 3.1 **Convention information**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/04-convention-information.png)
+![](images/04-convention-information.png)
 
 **Name** The convention name as it will appear when you apply in document settings
 
@@ -34,7 +34,7 @@ This is what a new naming convention looks like.
 
 ### 3.2 **Previews**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/05-previews.png)
+![](images/05-previews.png)
 
 Previews show the pattern of that the conventions follow on both in your local file system and in the Catenda Hub document structure. These can be different and one can be mapped to the other as you will see
 
@@ -50,11 +50,11 @@ When you hover over the different preview types you will see a detailed explanat
 
 The naming convention exists of a series of blocks. Each blocks represents a part of the name of the file/document. Click on Add block to add a new block.
 
-![Add block](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/06-blocks.png)
+![Add block](images/06-blocks.png)
 
 A convention always has at least two blocks: 1\. The name of the file/document. 2\. The name of the file/document extension.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/07-blocks.png)
+![](images/07-blocks.png)
 
 **Name** The name of the block in the naming convention setup so you can tell them apart
 
@@ -64,15 +64,15 @@ A convention always has at least two blocks: 1\. The name of the file/document. 
 
 **On** When the document identifier is toggled on this block identifies the name of the document
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/08-blocks.png)
+![](images/08-blocks.png)
 
 **Off** When the document identifier is toggled off this block identifies the name of the local file.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/09-blocks.png)
+![](images/09-blocks.png)
 
 **Disabled** The document identifier of the extension block is always off as every file has an extension.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/10-blocks.png)
+![](images/10-blocks.png)
 
 **Source** What will qualify the identification of the name of the file/document? _Default:_ Text - This block can contain any character _Custom field:_ - Limit the types of characters that your block accepts with custom fields
 
@@ -80,6 +80,6 @@ A convention always has at least two blocks: 1\. The name of the file/document. 
 
 ### 3.5 **Submitting a convention**
 
-![Cancel Submit naming convention](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/11-br-submitting-a-convention.png)
+![Cancel Submit naming convention](images/11-br-submitting-a-convention.png)
 
 After submitting a naming convention it can be [enabled per folder](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90) in [document settings](https://support.catenda.com/en/articles/7831371-document-settings).

@@ -8,11 +8,11 @@ In the filename and comment fields of the upload model dialogue only ASCII chara
 
 Non-ASCII characters can be added to the file and comment fields like so:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bx8b1nt/01-upload-ifc.png)
+![](images/01-upload-ifc.png)
 
 When clicking Upload the following error message will appear:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bx8b1nt/02-upload-ifc.png)
+![](images/02-upload-ifc.png)
 
 ```
 Unhandled exception has occurred in a component in your application. If you click Continue, the application will ignore this error and attempt to continue.Request headers must contain only ASCII characters.

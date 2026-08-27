@@ -1,6 +1,6 @@
 # Guidde videos
 
-In the title of this article it may seem like there is a type-o with an extra d but rest assured it is there for a reason. Cateda uses a service called "Guidde" to make short support videos with translations avaialable in every language of the suppor system. In this article linkes to guide videos on guidde about different topics around Catenda cab ve found.
+In the title of this article it may seem like there is a type-o with an extra d but rest assured it is there for a reason. Cateda uses a service called "Guidde" to make short support videos with translations avaialable in every language of the suppor system.
 
 ## 1. **Playlists**
 

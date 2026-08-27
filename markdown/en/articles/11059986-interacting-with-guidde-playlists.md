@@ -2,13 +2,13 @@
 
 This is what a guide playlist can look like:
 
-<div class="intercom-container"><a href="https://eu.guidde.com/share/playlists/raHoQ3qwoDbNx18S5YZtDv?track_link_name=Intercom&amp;track_link_id=rHg8xpibRQegGuksgmT5nA&amp;origin=7PqdD6oPp9QLchKHNkCwDH3opRS2" target="_blank"><img height="1350" src="https://raw.githubusercontent.com/catenda/help-center/main/images/wm2jp1mz/inline-6fc59cc67355.png" style="height: auto;" width="2556"/></a></div>
+<div class="intercom-container"><a href="https://eu.guidde.com/share/playlists/raHoQ3qwoDbNx18S5YZtDv?track_link_name=Intercom&amp;track_link_id=rHg8xpibRQegGuksgmT5nA&amp;origin=7PqdD6oPp9QLchKHNkCwDH3opRS2" target="_blank"><img height="1350" src="images/inline-6fc59cc67355.png" style="height: auto;" width="2556"/></a></div>
 
 ## 1. **Step-by-step instructions**
 
 Find a step-by-step walkthrough for each video in the playlist by selecting the video and scrolling down 👇
 
-<div class="intercom-container intercom-align-center"><a href="https://eu.guidde.com/share/playlists/raHoQ3qwoDbNx18S5YZtDv?track_link_name=Intercom&amp;track_link_id=rHg8xpibRQegGuksgmT5nA&amp;origin=7PqdD6oPp9QLchKHNkCwDH3opRS2" target="_blank"><img height="499" src="https://raw.githubusercontent.com/catenda/help-center/main/images/wm2jp1mz/inline-cd233c442a96.png" style="height: auto;" width="269"/></a></div>
+<div class="intercom-container intercom-align-center"><a href="https://eu.guidde.com/share/playlists/raHoQ3qwoDbNx18S5YZtDv?track_link_name=Intercom&amp;track_link_id=rHg8xpibRQegGuksgmT5nA&amp;origin=7PqdD6oPp9QLchKHNkCwDH3opRS2" target="_blank"><img height="499" src="images/inline-cd233c442a96.png" style="height: auto;" width="269"/></a></div>
 
 ## 2. **Export guide as document**
 
@@ -24,7 +24,7 @@ The videos in the playlist often get updated with changes on the platform. The l
 
 After opening the playlist you will be able to find the share button on the top right. This is what the share your playlist menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/wm2jp1mz/01-sharing-the-guide.png)
+![](images/01-sharing-the-guide.png)
 
 Notice that your URL changes when you click on the different videos. When you share with the share button, you will share a link to your current video as part of the playlist.
 

@@ -14,6 +14,6 @@ A new member can be added by going to:
 1. +Add
 1. Optional message=>Send invite(s)
 
-    <div class="intercom-container intercom-align-center"><img alt="mceclip0.png" src="https://raw.githubusercontent.com/catenda/help-center/main/images/2n4vhvx6/inline-f2a8c555ff22.png"/></div>
+    <div class="intercom-container intercom-align-center"><img alt="mceclip0.png" src="images/inline-f2a8c555ff22.png"/></div>
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/2n4vhvx6/01-intro.png)
+![](images/01-intro.png)

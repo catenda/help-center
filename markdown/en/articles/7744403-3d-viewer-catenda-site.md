@@ -2,23 +2,23 @@
 
 Open the [2D/3D page](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site) to see the 3D viewer towards the top of the screen on Catenda Site. This is what the 3D viewer on Catenda Site can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/01-intro.png)
+![](images/01-intro.png)
 
 3D models from the models section in a Catenda project can be enabled and disabled in the 3D viewer on Catenda Site.
 
 ## 1. **Model selector**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/02-model-selector.png)
+![](images/02-model-selector.png)
 
 Tap the model selector button to open the model selector menu. Check the boxes next to each model to enable that model in the 3D viewer. After enabling/disabling models, tap "**Done**".
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/03-model-selector.png)
+![](images/03-model-selector.png)
 
 ## 2. **Toolbar**
 
 The toolbar can be found towards the top right of the 3D viewer.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/04-toolbar.png)
+![](images/04-toolbar.png)
 
 ### 2.1 **Zoom to extents**
 
@@ -28,7 +28,7 @@ Position the 3D viewer campera position so all objects are in view.
 
 This is what the reset optins menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/05-reset-options.png)
+![](images/05-reset-options.png)
 
 In the reset options menu you can choose to:
 
@@ -42,7 +42,7 @@ Tap "**Done**" when you are finished configuring the 3D reset options
 
 This is what the 3D viewer settings menu can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/06-3d-viewer-settings.png)
+![](images/06-3d-viewer-settings.png)
 
 ### 3.1 **Navigation mode**
 
@@ -62,7 +62,7 @@ Enable or disable the joystick. The joystick can be dragged to move the camera u
 
 When an object is tapped it is selected and a context menu opens up. The context menu can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/07-3d-viewer-interaction.png)
+![](images/07-3d-viewer-interaction.png)
 
 ### 4.1 **Title**
 
@@ -84,7 +84,7 @@ Tap the point measure button to see the X, Y and Z coordinates of the tapped loc
 
 Tap the clipping plane button to create a clipping plane along the tapped surface. This is what the 3D viewer can look like after creating a clipping plane:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/08-clipping-plane.png)
+![](images/08-clipping-plane.png)
 
 After creating a clipping plane a slider will appera towards the bottom of the screen. Adjust this slider to scroll the clipping plane along its normal direction for fine adjustment. Clipping planes can be cleared with the reset button in the toolbox towards the top right.
 

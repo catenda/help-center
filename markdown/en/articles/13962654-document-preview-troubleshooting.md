@@ -1,7 +1,5 @@
 # Document Preview Troubleshooting
 
-In this article you will find information about the errors that can occur in the [document preview](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
-
 ## 1. **1. Cannot Connect to Server**
 
 When a document is opened, the document preview can be grayed out with a centered message that says:
@@ -26,7 +24,7 @@ To resolve this issue permanently, the network configuration must be updated to 
 
 When a document is opened, the webviewer that displays the document preview can display a message that says: **"Read timed out"**.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/hq07qt4s/01-2-error-loading-document-read-timed-out.png)
+![](images/01-2-error-loading-document-read-timed-out.png)
 
 `Read timed out`
 

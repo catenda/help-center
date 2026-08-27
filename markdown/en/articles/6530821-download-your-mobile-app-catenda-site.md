@@ -4,7 +4,7 @@
 
 [Book a demo](https://catenda.com/bim-solutions-open-standards/catenda-site-bim-on-site/) on our website
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/p552jtap/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **About Catenda Site**
 
@@ -34,6 +34,6 @@ Pinpoint topics with precision using models and floor plans in both [2D](https:/
 
 After downloading and installing your mobile application, insert your usual email address and password :
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/p552jtap/02-sign-in.png)
+![](images/02-sign-in.png)
 
 You are connected! 🎉 After signing in you will be taken to the [project page](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) where you can select your project.

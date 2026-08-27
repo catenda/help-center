@@ -2,13 +2,13 @@
 
 Bookmarks can be found on the [bookmarks page](https://support.catenda.com/en/articles/4670281-bookmarks-page). This is what a bookmark can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **Action menu**
 
 The action menu can be found on the top right of the page
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/02-action-menu.png)
+![](images/02-action-menu.png)
 
 ### 1.1 **New bookmark**
 
@@ -22,7 +22,7 @@ To delete a bookmark, click delete bookmark in the action menu on the top right.
 
 The image of the viewport was generated when the snapshot was last updated.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/03-snapshot.png)
+![](images/03-snapshot.png)
 
 Click [here](https://support.catenda.com/en/articles/10345863-snapshots) to read more about snapshots.
 
@@ -54,9 +54,9 @@ Project members will be able to filter for this bookmark and make copies of it. 
 
 In the public URL sharing part of a bookmark you can create a public URL. Public URLs are typically used to show a client, external contractor or a government official what people in the project are working on without having to invite them to the project.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/04-public-url-sharing.png)
+![](images/04-public-url-sharing.png)
 
-To create a public URL the bookmark first has to be [shared with the project](#share-with-project).
+To create a public URL the bookmark first has to be [shared with the project](#h_5c9944a45e).
 
 **Enable public url** To enable a public bookmark click on Edit sharing and check the "Enable public url" checkbox. _Access required:_ Project administrator
 
@@ -68,7 +68,7 @@ When a URL is created anyone in the project can share it with people outside the
 
 **After enabling a pulic URL** This is what the public URL sharing menu can look like after the public URL is enabled:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/05-public-url-sharing.png)
+![](images/05-public-url-sharing.png)
 
 Click on Edit sharing again to update the export.
 
@@ -80,7 +80,7 @@ Shared by As long as there is an active link the menu will say who shared the li
 
 **Print QR link** As long as there is an active link the menu will say have the button "Print QR link" to open the browsers print dialogue which lets you print a document with the QR code with a link to the public URL. This is what the browser print dialogue can look like in Google Chrome on Windows:
 
-![Google Chrome print QR code Microsoft Print to PDF Catenda](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/06-public-url-sharing.png)
+![Google Chrome print QR code Microsoft Print to PDF Catenda](images/06-public-url-sharing.png)
 
 The document includes the QR code itself, the date and time of printing and the title of the bookmark.'
 
@@ -88,7 +88,7 @@ The document includes the QR code itself, the date and time of printing and the 
 
 _Expiration date_ Towards the bottom of the menu the expiration date is displayed. If no expiration date is set it says Shared link does not expire. After the expiration date has passed the buttons in this menu will disappear and it will say Link has expired along with the date of when it expired. An expired link can look something like this:
 
-![Public URL sharing Edit sharing Link has expired](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/07-public-url-sharing.png)
+![Public URL sharing Edit sharing Link has expired](images/07-public-url-sharing.png)
 
 **Disabling public sharing** Organization owners can request for all public sharing features to be turned off for all their project. Some projects require this for security reasons. If you would like to turn off all public sharing features please contact support with the black chat button next to your profile picture on the top right or via [support@catenda.com](mailto:support@catenda.com)
 

@@ -4,13 +4,13 @@ The overview tab of an approval request can be found on the approval request pag
 
 > **Note:** **Look and feel -** This is what the overview tab in the approval content can look like for projects that enabled shared revisions after 2 October 2025:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. Approval request step ribbon
 
 In the step ribbon a preview of the progress of the approval request can be seen. This is what the step ribbon can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/02-approval-request-step-ribbon.png)
+![](images/02-approval-request-step-ribbon.png)
 
 Click [here](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-approval-request) to read more about the step ribbon
 
@@ -18,7 +18,7 @@ Click [here](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-
 
 This is what the approval ste dropdown can look like when an approval request has gotten to the final approval step:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/03-approval-step-dropdown.png)
+![](images/03-approval-step-dropdown.png)
 
 The current and all passed approval steps are listed in the approval step dropdown. Select an approval step in the list to see the status of the validations given by each of the teams that are configured for the step. An overview of the validations in all the steps can be found in the documents tab.
 
@@ -26,13 +26,13 @@ The current and all passed approval steps are listed in the approval step dropdo
 
 In the under review table documents that are not yet submitted can be seen. This is what the under review table can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/04-under-review-table.png)
+![](images/04-under-review-table.png)
 
 Members that are part of teams that are configured as reviewer teams for this approval request step will see one row per configured reviewer team they are part of. In the active approval request step, if there are still validation indications left to submit on behalf of any reviewer teams a member is part of, a yellow bar is displayed towards the top.
 
 When all documents are reviewed and validation indications have been submitted on behalf of each of the reviewer teams the bar towards the top will become green and get a checkmark.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/05-under-review-table.png)
+![](images/05-under-review-table.png)
 
 > **Note:** The bar being green just means there are no teams you are part of that have any actions left in this approval request step, there might be other teams that still need to submit their validation indications before the approval request can advance to the next step. These can be seen in the step overview table below.
 
@@ -48,7 +48,7 @@ When all documents are reviewed and validation indications have been submitted o
 
 In the step overview table an overview of the progress of all the reviewer teams for this step can be seen.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/06-step-overview-table.png)
+![](images/06-step-overview-table.png)
 
 When validation indications are submitted for all documents the approval request advances to the next approval request step. Auto-approve can be configured in the workflow that the approval request submitter selected for this approval request. If auto-approve is enabled for an approval request step all documents that are still pending when the approval request step is due are approved automatically and the approval request will advance to the next approval request step.
 
@@ -68,13 +68,13 @@ When validation indications are submitted for all documents the approval request
 
 After the final approver team submits the final validaiton for all documents the approval request is closed the documents will start publishing:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/07-approval-request-result.png)
+![](images/07-approval-request-result.png)
 
 The result of the approval is displayed below the step overview:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/08-approval-request-result.png)
+![](images/08-approval-request-result.png)
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/09-approval-request-result.png)
+![](images/09-approval-request-result.png)
 
 Click [here](https://support.catenda.com/en/articles/12520773-approvals-troubleshooting) to read more about why the publishing of documents might fail.
 
@@ -82,11 +82,11 @@ Click [here](https://support.catenda.com/en/articles/12520773-approvals-troubles
 
 Click on view details to see the publishing results for each document.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/10-view-details.png)
+![](images/10-view-details.png)
 
 **Status**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/11-view-details.png)
+![](images/11-view-details.png)
 
 The status of the publishing of the document The status can be one of the following:
 

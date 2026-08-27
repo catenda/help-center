@@ -30,7 +30,7 @@ Even these files are given different names in Solibri, the connector recognizes 
 
 To confirm if your models share the same identifier, check the metadata directly within Solibri:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/ym9bebpy/01-how-to-verify-the-guid-in-solibri.png)
+![](images/01-how-to-verify-the-guid-in-solibri.png)
 
 1. Select the **Model** in the Solibri Model Tree.
 1. Open the **Info Tool** or the **Identity** tab.

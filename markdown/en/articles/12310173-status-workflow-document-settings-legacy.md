@@ -4,7 +4,7 @@ The status workflow menu can be found on the [document settings page](https://su
 
 This is what the status workflow menu can look like after the status workflow has been activated.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/j19gh65w/01-intro.png)
+![](images/01-intro.png)
 
 When the status workflow is activated the following things will change in the project:
 
@@ -25,11 +25,11 @@ You can add a status by clicking on Add status. A new status can have a color, a
 
 Status can be edited by clicking on the pencil button to the right of the status.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/j19gh65w/02-changing-statuses.png)
+![](images/02-changing-statuses.png)
 
 The color and name of a status can be changed.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/j19gh65w/03-changing-statuses.png)
+![](images/03-changing-statuses.png)
 
 ### 2.1 **Sorting order**
 
@@ -51,11 +51,11 @@ When a new published revision is made either by upload or by publishing drafts a
 
 This is what the upload menu can look like when the status workflow is not yet activated.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/j19gh65w/04-upload-menu.png)
+![](images/04-upload-menu.png)
 
 This is what the upload menu can look like when the status workflow has been activated.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/j19gh65w/05-upload-menu.png)
+![](images/05-upload-menu.png)
 
 ### 4.1 **Draft by default**
 

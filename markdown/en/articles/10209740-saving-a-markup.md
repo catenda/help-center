@@ -4,7 +4,7 @@ Select an [annotation tool](https://support.catenda.com/en/articles/11384618-doc
 
 Whan a document is first opened the right menu of the revision might be closed. Click on the information button on the right side of the [document banner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) to expand this menu.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **Topics navigation for markups**
 
@@ -14,7 +14,7 @@ The unsaved markups menu can be found in different places depending on if a topi
 
 If no topic has been navigated to in the markups navigation towards the top of the tab it will say "new topics" in the dropdown. In this case unsaved markups are always seen towards the top of the markups tab.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/02-new-topics.png)
+![](images/02-new-topics.png)
 
 ### 1.2 **Selected topics**
 
@@ -24,19 +24,19 @@ Click on the topic navigation dropdown towards the top of the markups tab to sel
 
 **Oldest comments first** Topic comments that are sorted by oldest first show the new markups menu towards the bottom of the comment section. In this case you might have to scroll to the bottom of the comment section to see the new markups menu.
 
-**Oldest first                                                    Newest first** <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/inline-21aee0515492.png" width="310"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/inline-7c851e84a0ca.png" width="310"/>
+**Oldest first                                                    Newest first** <img alt="" src="images/inline-21aee0515492.png" width="310"/><img alt="" src="images/inline-7c851e84a0ca.png" width="310"/>
 
 ## 2. **Unsaved markups menu**
 
 This is what the unsaved markups menu can look like after annotations have been added to a document:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/03-unsaved-markups-menu.png)
+![](images/03-unsaved-markups-menu.png)
 
 ## 3. **New markup**
 
 Click the new markup button to start working on a new markup. This is what the unsaved markups menu can look like when mutiple markups have been created:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/04-new-markup.png)
+![](images/04-new-markup.png)
 
 Click on a markup to expand and edit it before saving.
 
@@ -54,7 +54,7 @@ Navigate to a topic with the topic navigation dropdown towards the top of the ma
 
 When no topics are selected in the topic navigation dropdown towards the top of the markups tab it will say new topics. Click on the save markups butotn to open up the save markups dialogue which can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/05-new-topics.png)
+![](images/05-new-topics.png)
 
 Click on Save as topics to create a topic for each markup that has been created.
 
@@ -70,19 +70,19 @@ Click on Save as topics to create a topic for each markup that has been created.
 
 Generate a comment for each set of annotations when a markup is saved. The text written in the markup name field is added as text to each generated comment.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/06-markup-name.png)
+![](images/06-markup-name.png)
 
 ### 5.1 **Discard markup**
 
 Click on the trashcan icon to the right of the markup name to delete it.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/07-discard-markup.png)
+![](images/07-discard-markup.png)
 
 ## 6. **Annotation sets**
 
 Each page in a document where annotations are made will have its own set of anotations. This is what it can look like when annotations are made on multiple pages in a document:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/08-annotation-sets.png)
+![](images/08-annotation-sets.png)
 
 ### 6.1 **Markup page**
 

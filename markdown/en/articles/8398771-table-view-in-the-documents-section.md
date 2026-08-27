@@ -2,7 +2,7 @@
 
 The [documents page ](https://support.catenda.com/en/articles/8204673-documents-page)has received an overhaul **🎉🎉**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3760667x/01-intro.png)
+![](images/01-intro.png)
 
 ## 1. **New columns**
 
@@ -46,7 +46,7 @@ This column will let you open ifc files and point clouds in the [3D viewer](http
 
 This column will let you know when the document was originally created. This is different from published as published is the date and time of the publishing of the latest revision in the document.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3760667x/02-created.png)
+![](images/02-created.png)
 
 ## 2. **Dynamic columns**
 
@@ -58,7 +58,7 @@ On the top right of the documents table you will find a very powerful new featur
 
 ### 2.2 **Column header row**
 
-**Dragging columns** You can drag on the header of the column in the header row to move it left and right. If you drag the header outside of the table it will be hidden. To get the header back you will have to enable it again in the [column drop down](#column-dropdown).
+**Dragging columns** You can drag on the header of the column in the header row to move it left and right. If you drag the header outside of the table it will be hidden. To get the header back you will have to enable it again in the [column drop down](#h_5f5f6862d0).
 
 **Auto resize** Double click the divider between columns to auto resize to the content of the column. This is useful viewing long document names. The widths you change will only change for the user and not all users in the project.
 

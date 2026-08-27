@@ -2,7 +2,7 @@
 
 The approvals page can be found as a sub page to the [documents page](https://support.catenda.com/en/articles/8204673-documents-page) in the left navigation menu. The approvals page is hidden by default and will be visible when the status workflow has been activated in [document settings](https://support.catenda.com/en/articles/7831371-document-settings). If all [draft statuses](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) are archived and only published statuses are removed the page will disappear again as long as no approvals were created. Here an overview of the approval requests in the project can be found.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xc0e4bsa/01-intro.png)
+![](images/01-intro.png)
 
 On the approvals page the following can be done:
 
@@ -14,7 +14,7 @@ On the approvals page the following can be done:
 
 The new item actions can be found on the top right of the page.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xc0e4bsa/02-new-item-actions.png)
+![](images/02-new-item-actions.png)
 
 ### 1.1 **New approval request**
 
@@ -32,7 +32,7 @@ Configure how topics get created as a result of approval validation. Click [here
 
 This is what the search or filter menu can look like on the approvals page.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xc0e4bsa/03-search-or-filter-options.png)
+![](images/03-search-or-filter-options.png)
 
 In the search bar any approval that is available on the approvals page can be searched. Click here to read more about filtering on the approvals page
 
@@ -40,7 +40,7 @@ In the search bar any approval that is available on the approvals page can be se
 
 The information on the approvals page is spaced out in a way that makes it easy to understand at a glance, even for someone who has never seen a topic board before. Under the search bar a list view of all the [approvals](https://support.catenda.com/en/articles/8349418-approval-content) that fit the current filter can be found. This is what the approvals list can look like:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/xc0e4bsa/04-approvals-list.png)
+![](images/04-approvals-list.png)
 
 ### 3.1 **Row content**
 

@@ -1,7 +1,5 @@
 # Zip upload troubleshooting
 
-In this article you will find information about the errors that can occur when [uploading a zip / file structure](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure).
-
 ## 1. **Upload failed**
 
 It is recommended to use a wired connection for uploading the zips to Catenda. Many wifi routers do a great job at making sure they receive the right data, but even the best routers can struggle with a weak signal if you are far away from the router.
@@ -10,7 +8,7 @@ It is recommended to use a wired connection for uploading the zips to Catenda. M
 
 During the zip upload process packets of data are being sent to the Catenda server. If there is a problem with any of the packets during the process the following message is displayed: Failed to upload! Unable to process file.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/01-unable-to-process-file.png)
+![](images/01-unable-to-process-file.png)
 
 Even when right next to a WiFi antenna with a device it is never 100% sure the packet will arrive safely through the air. This effect is amplified by being further away from the antenna or if there are objects like walls between the device and the antenna.
 
@@ -20,7 +18,7 @@ Even when right next to a WiFi antenna with a device it is never 100% sure the p
 
 Certain software limit the amount of characters that paths to files in a zip file can have. If there is a problem with the path structure in the zip file the following error will appear: Failed to upload! Network error.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/02-network-error.png)
+![](images/02-network-error.png)
 
 **Unzip/Rezip** If this zip was received from someone else it can help unzipping it and rezipping it.
 
@@ -62,11 +60,11 @@ Different versions of Windows use different zip encodings. For example the Engli
 
 Even though a zip import completes it there can be several reasons for no change to be visible in the documents table. This is what it can look like when a zip import has completed without changes being made.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/03-completed-but-nothing-happened.png)
+![](images/03-completed-but-nothing-happened.png)
 
 This is what the right menu of the zip import page can look like in this situation:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/04-completed-but-nothing-happened.png)
+![](images/04-completed-but-nothing-happened.png)
 
 ### 3.1 **Skipped folders**
 
@@ -84,15 +82,15 @@ If documents are listed under missing documents this means that the documents we
 
 When a file in the zip file has a potentially harmful filetype they will not be uploaded. This is what the zip import page can look like when harmful filetypes are attempted to be uploaded:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/05-harmful-filetypes.png)
+![](images/05-harmful-filetypes.png)
 
 This is what the right menu on the zip import page can look like when a harmfull file is attempted to beuploaded:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/06-harmful-filetypes.png)
+![](images/06-harmful-filetypes.png)
 
 The following filtypes which can potentially be harmful are not allowed.
 
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e3e7fa; width: 229px;"><h1 id="h_711fb2a104"><b>Harmful formats</b></h1></td><td style="background-color: #e3e7fa; width: 142px;"><h1 id="h_581e5e19b4">Extensions</h1></td><td style="background-color: #e3e7fa;"><h1 id="h_766841ac5d">Comments</h1></td></tr><tr><td style="width: 229px;"><p>Scripts</p></td><td style="width: 142px;"><p>php</p></td><td><p></p></td></tr><tr><td style="background-color: #e8e8e8; width: 229px;"><p>Windows executables</p></td><td style="background-color: #e8e8e8; width: 142px;"><p>exe</p></td><td style="background-color: #e8e8e8;"><p></p></td></tr><tr><td style="width: 229px;"><p>Windows installer packages</p></td><td style="width: 142px;"><p>msi</p></td><td><p></p></td></tr><tr><td style="background-color: #e8e8e8; width: 229px;"><p>Batch scripts</p></td><td style="background-color: #e8e8e8; width: 142px;"><p>bat</p></td><td style="background-color: #e8e8e8;"><p></p></td></tr><tr><td style="width: 229px;"><p>Command scripts</p></td><td style="width: 142px;"><p>cmd</p></td><td><p></p></td></tr><tr><td style="background-color: #e8e8e8; width: 229px;"><p>DOS executables</p></td><td style="background-color: #e8e8e8; width: 142px;"><p>com</p></td><td style="background-color: #e8e8e8;"><p></p></td></tr><tr><td style="width: 229px;"><p>Screensaver executables</p></td><td style="width: 142px;"><p>scr</p></td><td><p></p></td></tr><tr><td style="background-color: #e8e8e8; width: 229px;"><p>PowerShell scripts</p></td><td style="background-color: #e8e8e8; width: 142px;"><p>ps1</p></td><td style="background-color: #e8e8e8;"><p></p></td></tr><tr><td style="width: 229px;"><p>Windows shortcuts</p></td><td style="width: 142px;"><p>lnk</p></td><td><p>Clicking a downloaded link could link to an executable without looking like an executable.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 229px;"><p>Java executable files</p></td><td style="background-color: #e8e8e8; width: 142px;"><p>jar</p></td><td style="background-color: #e8e8e8;"><p></p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa; width: 229px; padding: 8px;"><h1 id="h_711fb2a104"><b>Harmful formats</b></h1></td><td style="background-color: #e3e7fa; width: 142px; border-left: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_581e5e19b4">Extensions</h1></td><td style="background-color: #e3e7fa; border-left: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_766841ac5d">Comments</h1></td></tr><tr><td style="width: 229px; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Scripts</p></td><td style="width: 142px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>php</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="background-color: #e8e8e8; width: 229px; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Windows executables</p></td><td style="background-color: #e8e8e8; width: 142px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>exe</p></td><td style="background-color: #e8e8e8; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="width: 229px; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Windows installer packages</p></td><td style="width: 142px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>msi</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="background-color: #e8e8e8; width: 229px; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Batch scripts</p></td><td style="background-color: #e8e8e8; width: 142px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>bat</p></td><td style="background-color: #e8e8e8; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="width: 229px; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Command scripts</p></td><td style="width: 142px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>cmd</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="background-color: #e8e8e8; width: 229px; border-top: 1px solid #c6c9c0; padding: 8px;"><p>DOS executables</p></td><td style="background-color: #e8e8e8; width: 142px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>com</p></td><td style="background-color: #e8e8e8; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="width: 229px; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Screensaver executables</p></td><td style="width: 142px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>scr</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="background-color: #e8e8e8; width: 229px; border-top: 1px solid #c6c9c0; padding: 8px;"><p>PowerShell scripts</p></td><td style="background-color: #e8e8e8; width: 142px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ps1</p></td><td style="background-color: #e8e8e8; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr><tr><td style="width: 229px; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Windows shortcuts</p></td><td style="width: 142px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>lnk</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Clicking a downloaded link could link to an executable without looking like an executable.</p></td></tr><tr><td style="background-color: #e8e8e8; width: 229px; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Java executable files</p></td><td style="background-color: #e8e8e8; width: 142px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>jar</p></td><td style="background-color: #e8e8e8; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr></tbody></table></div>
 
 ## 5. **Insufficient access**
 
@@ -100,8 +98,8 @@ The right access is required for the zip contents to be extracted. _Access requi
 
 This is what the zip import page can look like when there is not enough access:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/07-insufficient-access.png)
+![](images/07-insufficient-access.png)
 
 This is what the right menu on the zip import page can look like when there is not enough access:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/08-insufficient-access.png)
+![](images/08-insufficient-access.png)

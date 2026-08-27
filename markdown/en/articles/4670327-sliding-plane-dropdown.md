@@ -2,15 +2,15 @@
 
 If there are models in the project that contain grids, the sliding plane dropdown will appear towards the top left of the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer#h_2eec7c411b).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/01-intro.png)
+![](images/01-intro.png)
 
 After clicking on the the sliding plane dropdown grids and alignments that are available in each of the models in the project start loading in.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/02-intro.png)
+![](images/02-intro.png)
 
 Click on the eye icon of a grid to preview the annotation lines of each of the axes in the 3D viewer.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/03-intro.png)
+![](images/03-intro.png)
 
 This article contains information about the following topics:
 
@@ -28,7 +28,7 @@ Grids are a type of sliding plane that is often used in residential, commercial 
 
 Alignments are a type of sliding plane that is often used in the infrastructure and civil construction but have been seen to be used in residential, commercial and industrial construction as well. If any model in the project contains an IfcAlignment in its latest revision it will be displayed in the sliding plane menu. This is what alignments can look like in the sliding plane menu.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/04-1-2-alignments.png)
+![](images/04-1-2-alignments.png)
 
 For each alignment the name of the alignment is displayed along with the name of the model it is from and its revision number.
 
@@ -36,7 +36,7 @@ For each alignment the name of the alignment is displayed along with the name of
 
 Each sliding plane has a preview button that looks like an eye.
 
-![Sliding plane preview button Catend Hub for grids and alignments](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/05-2-preview-annotation-lines.png)
+![Sliding plane preview button Catend Hub for grids and alignments](images/05-2-preview-annotation-lines.png)
 
 Click on the preview icon of a sliding plane to preview the annotation lines of the sliding plane in the 3D viewer. As soon as the preview icon is highlighted green the annotation lines of the selected sliding plane are visible in the 3D viewer.
 
@@ -52,13 +52,13 @@ Grid annotation line bounds For grids the annotation line is a single straitch, 
 
 As annotation lines have a 3D representaiton, make sure that they are not covered by objects from other models or that the ground elevation of the environment is below the annotation lines so they are not obscured.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/06-2-2-finding-annotation-lines.png)
+![](images/06-2-2-finding-annotation-lines.png)
 
 ## 3. **3. Show axes**
 
 To the right of a grid in the sliding plane dropdwn a show axes menu can be expanded.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/07-3-show-axes.png)
+![](images/07-3-show-axes.png)
 
 Expand the show axes menu for better control of each of the axes. Here each axis can be seen by name and with its two sliding plane buttons.
 
@@ -70,7 +70,7 @@ After being enabled, the transparent sliding plane surface extends from the anno
 
 The first button activates the grid pane surface for that axis. This is what grids can look like when their axis surfaces are activated.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/08-4-1-grid-axis-surface.png)
+![](images/08-4-1-grid-axis-surface.png)
 
 Click on the annotation circle at the end of a grid line in the 3D viewer to enable and disable the grid axis surface.
 
@@ -88,7 +88,7 @@ The second button for a grid axis in the expand axes menu for sliding plane drop
 
 Click on the second button with the clipping plane icon to create a clipping plane along an alignment. Alignments clipping planes work similar to Grids clipping plane apart from the click and drag behavior. Instead of being dragged perpendicular to the axis, the alignment clipping plane surface follows curvature and directions of the segments in the alignment such that the plane is always at an oblique angle to the curvature at its placement along the alignment.
 
-<p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/inline-8520a612b6e1.png" width="150"/> -> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/inline-2e858207316f.png" width="150"/></p>
+<p class="intercom-align-center no-margin"><img alt="" src="images/inline-8520a612b6e1.png" width="150"/> -> <img alt="" src="images/inline-2e858207316f.png" width="150"/></p>
 
 ### 5.3 **5.3 Clipping relative to the 3D camera**
 

@@ -2,11 +2,11 @@
 
 The black message button can be found on the top right next to your profile picture after logging in to Catenda Hub:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/h6ccqbtd/01-intro.png)
+![](images/01-intro.png)
 
 On our support pages you will be able to find this button on the bottom right:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/h6ccqbtd/02-intro.png)
+![](images/02-intro.png)
 
 The following menus can be found after opening the support bubble:
 
@@ -28,7 +28,7 @@ Click here to start searching the help pages. By default it will search in the l
 
 ### 1.4 **Recommended pages**
 
-Below the search bar you will find following recommended pages: User manuals in various languages [Hardware recommendation](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Summary of most important shortcuts and basic controls](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls) [The latest changelog](https://support.catenda.com/en/collections/2683918-recent-updates)
+Below the search bar you will find following recommended pages: [User manuals in various languages](https://support.catenda.com/en/articles/4670243-user-manuals-in-various-languages) [Hardware recommendation](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Summary of most important shortcuts and basic controls](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls) [The latest changelog](https://support.catenda.com/en/collections/2683918-recent-updates)
 
 ### 1.5 **Status**
 

@@ -2,7 +2,7 @@
 
 Snapshots describe a place and time in 3D. They can be used for showing people what you are looking at as they will be able to recreate the same views not only within Catenda Hub but also within their environment. Snapshots can be recreated by playing them both in Catenda Hub and in our plugins.
 
-This is what a snapshot can look like in the [comment of a topic](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) or in a [bookmark](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e). <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-5a151da0b11e.png" width="272.72727272727275"/>
+This is what a snapshot can look like in the [comment of a topic](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) or in a [bookmark](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e). <img alt="" src="images/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="images/inline-5a151da0b11e.png" width="272.72727272727275"/>
 The topic might have an annotation on top of the image and the buttons look different.
 While snapshots are used in different ways in topic comments and bookmarks, their functionality is the same.
 
@@ -60,7 +60,7 @@ Isolated Only the objects that were isolated when the snapshot was created will 
 
 _Select objects button_ In a topic comment you will see an icon that displays how many objects are configured to be selected in a snapshot.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/01-objects.png)
+![](images/01-objects.png)
 
 Click this button to select the configured objects in the 3D viewer. If you have the 3D viewer open, this button will be in the hamburger menu.
 
@@ -94,14 +94,14 @@ In Catenda Hub the snapshot will move the camera to the right place in our viewe
 
 ### 3.1 **Recreate snapshot with latest revisions**
 
-Bookmark - Topic comment <p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-63d2b110333a.png" width="60"/> - <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a628f96ebc54.png" width="104.55445544554455"/></p>
+Bookmark - Topic comment <p class="intercom-align-center no-margin"><img alt="" src="images/inline-63d2b110333a.png" width="60"/> - <img alt="" src="images/inline-a628f96ebc54.png" width="104.55445544554455"/></p>
 Recreate the snapshot with the latest revisions of the models and documents that are configured in the snapshot.
 If new revisions of the models or files that are part of the bookmark are uploaded, the resulting view in the 3D viewer might look slightly different than on the picture.
 If the bookmark has any shared revisions, the latest published revision will be displayed.
 
 ### 3.2 **Recreate snapshot with original revisions**
 
-Bookmark - Topic comment <p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-127de38bdf57.png" width="60"/> - <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-244412c15b6d.png" width="104.72727272727272"/></p>
+Bookmark - Topic comment <p class="intercom-align-center no-margin"><img alt="" src="images/inline-127de38bdf57.png" width="60"/> - <img alt="" src="images/inline-244412c15b6d.png" width="104.72727272727272"/></p>
 The snapshot will be recreated with the model and document revisions that were configured when the snapshot was created.
 Both published and shared revisions of models and documents will be displayed with this option.
 
@@ -111,19 +111,19 @@ Both published and shared revisions of models and documents will be displayed wi
 
 **Copy bookmark to my bookmarks**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/02-copying-and-favoriting-snapshots.png)
+![](images/02-copying-and-favoriting-snapshots.png)
 
 If this bookmark was created by another member you will see a +. This allows you to create your own copy of the bookmark that you can edit and filter on. If you have already copied this bookmark this button will be grayed out and you will be able to open your version [below](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e). By copying a bookmark you can keep track of which bookmark you copied.
 
 **Favorite bookmark**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/03-copying-and-favoriting-snapshots.png)
+![](images/03-copying-and-favoriting-snapshots.png)
 
 Starring the image by clicking the star on the top left of the image will add this bookmark to your dashboard. _Access required:_ Bookmark creator
 
 ## 5. **Set camera position**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/04-set-camera-position.png)
+![](images/04-set-camera-position.png)
 
 This button sets the camera position and viewing angle that is configured in the snapshot. After playing the snapshot you might want to move around in 3D. You can then use this button to snap back to the viewing position configured in the snapshot.
 
@@ -133,7 +133,7 @@ This button sets the camera position and viewing angle that is configured in the
 
 **Updating bookmark snapshot**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/05-update-snapshot.png)
+![](images/05-update-snapshot.png)
 
 If you want to make changes to your snapshot you can play it, change the configuration, and update the snapshot with this button.
 
@@ -147,7 +147,7 @@ _Access required:_ Snapshot creator
 
 **Updating a topic comment snapshot**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/06-update-snapshot.png)
+![](images/06-update-snapshot.png)
 
 The models button shows how many Catenda models are linked to the snapshot. While it is possible to edit the text in a comment it is not possible to change or remove the image attachment from a comment without deleting the whole comment. What you can do is change which models will be enabled when the topic is re-created. _Access required:_ Project administrator
 
@@ -163,7 +163,7 @@ In some cases you might want to change the models that are loaded in the Catenda
 
 To change which models get loaded click the models button to open the model select dialogue. The model select dialogue can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/07-update-snapshot.png)
+![](images/07-update-snapshot.png)
 
 **3D** The models with the active 3D button are the models that are currently enabled in the 3D viewer. In order to easily add/remove a set of models you can make a bookmark, recreate a snapshot, go to the snapshot you want to reconfigure and click on save in the model select dialogue.
 
@@ -185,19 +185,19 @@ The [sharing](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a
 
 ### 7.3 **Private**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/08-private.png)
+![](images/08-private.png)
 
 _Bookmark visibility:_ Only you
 
 ### 7.4 **Shared**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/09-shared.png)
+![](images/09-shared.png)
 
 _Bookmark visibility:_ All project members, can be shared with external people via public link
 
 ## 8. **Public link to bookmark**
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/10-public-link-to-bookmark.png)
+![](images/10-public-link-to-bookmark.png)
 
 If a [public link](https://support.catenda.com/en/articles/8471481-bookmark#h_b148931acf) has been enabled for this bookmark you can click this button to open the public link in a new tab.
 
