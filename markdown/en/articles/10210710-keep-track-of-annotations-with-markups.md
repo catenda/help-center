@@ -46,7 +46,7 @@ After having created some anotations you will see that you have [unsaved markups
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/05-markups-tab.png)
 
-> **Note:** When you first open a document, its right menu might be closed. You can click on the information button on the bottom right of the [document banner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) to expand this menu. <div> <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/1270347792/777089db2debcc2798747abdfa9a/image.png?expires=1787896800&amp;signature=eff1a9fc93b957650f799cedf50c8dc24008c6c7b6e4ad4821bc501b64143d44&amp;req=dSIgFsp6moZWW%2FMW3nq%2BgR8G5hzwbtgkOvimwm3Uz8ebxeLFcGwLaeDU5aaj%0AgA5k43gvQwW20UAk15u1u4etgjA%3D%0A" width="400" > </div>
+> **Note:** When you first open a document, its right menu might be closed. You can click on the information button on the bottom right of the [document banner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) to expand this menu. <div> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/06-document-banner-information-button.png" width="400" > </div>
 
 ### 3.1 **Multiple markups at once**
 
