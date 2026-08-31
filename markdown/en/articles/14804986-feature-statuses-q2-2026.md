@@ -26,7 +26,7 @@ A new model revision has to be uploaded to be able to see the difference.
 
 The previous behavior with the auto-generated name, which can be useful, has been retained by clicking on the gear icon towards the top right of each model tree menu.
 
-![](images/01-object-name-in-trees-panel.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/f63pyyrc/01-object-name-in-trees-panel.png)
 
 ## 3. **Enabling on-demand features**
 

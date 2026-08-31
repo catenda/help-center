@@ -4,7 +4,7 @@
 
 You will be able to find documents collections as a sub page to the [documents page](https://support.catenda.com/en/articles/4670292-documents-page). See a short video about documents collections [here](https://support.catenda.com/en/articles/6423380-documents-collection-short-video)
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/01-intro.png)
 
 With document collections you will be able to:
 
@@ -16,13 +16,13 @@ With document collections you will be able to:
 
 You will be able to find the New collection button on the top right
 
-![](images/02-new-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/02-new-item-actions.png)
 
 ### 1.1 **​New collection**
 
 When you make a new collection you will be asked to fill out the following dialogue.
 
-![](images/03-new-collection.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/03-new-collection.png)
 
 **Name** To make a collection it has to at least have a name. The description and documents can be configured before submitting but can also be edited after the collection is submitted.
 
@@ -34,7 +34,7 @@ When you make a new collection you will be asked to fill out the following dialo
 
 You can add documents to collections before creating or finalizing the collection. The Add document to collection menu can look something like this:
 
-![](images/04-adding-documents-to-collections.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/04-adding-documents-to-collections.png)
 
 In this menu you can add documents to a collection.
 
@@ -44,7 +44,7 @@ you can either select the documents one-by-one or click on the checkbox top left
 
 ## 2. **Search and filter**
 
-![](images/05-search-and-filter.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/05-search-and-filter.png)
 
 Click [here](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page) to see what options you have when filtering on the collections page.
 
@@ -52,4 +52,4 @@ Click [here](https://support.catenda.com/en/articles/8999945-filtering-on-the-co
 
 This is what the collections list can look like:
 
-![](images/06-collections-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/06-collections-list.png)

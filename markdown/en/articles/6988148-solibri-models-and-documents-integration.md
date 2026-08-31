@@ -6,21 +6,21 @@ The Documents API integration offers an easy way to access your cloud-stored con
 
 The Documents API can be found in the integrations menu of the file tab in Solibri. To get started with the documents API you first need to give Solibri access to your Catenda account. To do so, click on Connect.
 
-![](images/01-connecting.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/01-connecting.png)
 
 The list of servers you can connect to will now start loading in.
 
-![](images/02-connecting.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/02-connecting.png)
 
 The first time you start up Solibri this list can take some time to load. After the first load the list is stored and will be faster to open up. In the resulting dropdown menu you can select Catenda or Bimsync to connect to the Catenda documents API.
 
-![](images/03-connecting.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/03-connecting.png)
 
 ## 2. **Importing documents or models**
 
 Click on Open to import documents or models that you have access to in Catenda Hub.
 
-![](images/04-importing-documents-or-models.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/04-importing-documents-or-models.png)
 
 After clicking on open, your default browser will open up.
 
@@ -33,11 +33,11 @@ After clicking on open, your default browser will open up.
 
 For the Upload model button to become available you have to have [connected your Catenda account](#h_457cbf4e9d) and have at least one file in your Solibri session. Click on Upload model to export your Solibri session a part of your Catenda project that you have access to.
 
-![](images/05-exporting-solibri-session-to-catenda.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/05-exporting-solibri-session-to-catenda.png)
 
 If you have not yet saved your Solibri session, or made any changes since your last save, you will be asked to save an .smc file so it can be uploaded.
 
-![](images/06-exporting-solibri-session-to-catenda.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/06-exporting-solibri-session-to-catenda.png)
 
 The .smc that has been saved can now be exported as a new revision to Catenda and later imported again to Solibri if you wish to continue your session with the latest revision. After having saved your .smc file click on upload model again.
 
@@ -52,7 +52,7 @@ After clicking on Upload Model, your default browser will open up.
 
 After clicking on open and signing in, if you just allowed access or have previously granted access, a page similar to the projects page of Catenda Hub will open up as a new page in your default browser. The Solibri document integration projects page can look something like this:
 
-![](images/07-solibri-document-integration-projects-page.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/07-solibri-document-integration-projects-page.png)
 
 > **Note:** This page is created by Solibri and is not the same as the regular projects page in Catenda Hub. Only the models and documents sections of Catenda can be navigated to. Catenda Hub functinality like document preview and access configuration does not work here.
 
@@ -60,7 +60,7 @@ After clicking on open and signing in, if you just allowed access or have previo
 
 See the documents you have access to with you catenda account on the documents page of the Solibri document integration. Here you can configure which documents will be synchronised with Solibri.
 
-![](images/08-solibri-document-integration-documents-page.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/08-solibri-document-integration-documents-page.png)
 
 ### 5.1 **Navigation**
 
@@ -93,7 +93,7 @@ After selecting the information menu will appear on the top right. If it is clos
 
 When importing you can configure which documents will be imported to Solibri.
 
-![](images/09-right-information-menu-download.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/09-right-information-menu-download.png)
 
 Click on download towards the bottom to import the latest shared revision of each selected document.
 
@@ -101,11 +101,11 @@ Click on download towards the bottom to import the latest shared revision of eac
 
 When exporting you can configure the .smc file that will be uploaded.
 
-![](images/10-right-information-menu-upload.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/10-right-information-menu-upload.png)
 
 **Update document name** With this option on, the name of the selected document will be updated to the name you have given to your file.
 
-![](images/11-right-information-menu-upload.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/11-right-information-menu-upload.png)
 
 This way you can make sure you can keep uploading revisions to a document while making sure it always has the same name as those revisions.
 
@@ -113,21 +113,21 @@ This way you can make sure you can keep uploading revisions to a document while 
 
 **Filename** Here you will see the name of the file that will be uploaded to Catenda.
 
-![](images/12-right-information-menu-upload.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/12-right-information-menu-upload.png)
 
 By default the name of the smc file you have saved on your system will be displayed. The name can still be changed at this moment. Configure the name of the file by clickin on the pencil to the right.
 
-![](images/13-right-information-menu-upload.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/13-right-information-menu-upload.png)
 
 **Document** Here you will see the name of the document on Catenda that will receive the file.
 
-![](images/14-right-information-menu-upload.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/14-right-information-menu-upload.png)
 
 By default it will have the same name as the filename. If there is no document with that name in your current folder yet this field will be green, indicating that a new document will be created. The name that your document will have can sitll be changed at this moment. If there are other .smc documents in this folder you will be able to click on the document name to select any of the other documents that you would like your .smc file to be uploaded to as a revision. If you have chosen a document or if there is a document in the current folder with the same name this field will be gray. You will then see a message warning you that a document with this name already exists and that your smc file will be uploaded as a new revision to that document.
 
 **Status** If the status workflow has been enabled for your project you will see the status dropdown.
 
-![](images/15-right-information-menu-upload.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/15-right-information-menu-upload.png)
 
 If you are creating a new document, or if your document does not have a status yet you will see no status. If you are adding a revision to an exisiting document you will see the status of that document and will be able to change the document status upon upload. If you wish to change the status of the document when your revision is uploaded you can select it from the list of available statuses in the project.
 
@@ -135,7 +135,7 @@ If you are creating a new document, or if your document does not have a status y
 
 When the download has started successfully you will see the following message in the browser
 
-![](images/16-documents-received.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/16-documents-received.png)
 
 If you go back to Solibri you will see that the documents have started processing. Downloaded documents will be stored in a temporary folder while your Solibri session is active. Remember to save your Solibri session or upload a new revision on Catenda if you wish to save any changes made in your file. Uploaded document revisions will be stored on Catenda. The latest revision can later be opened in Solibri again.
 
@@ -143,7 +143,7 @@ If you go back to Solibri you will see that the documents have started processin
 
 See the models you have access to with you catenda account on the models page of the Solibri document integration. Here you can configure which models will be synchronised with Solibri.
 
-![](images/17-solibri-document-integration-models-page.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/17-solibri-document-integration-models-page.png)
 
 Click on the name of the project if you wish to navigate to a different project. For each model you will see the:
 
@@ -159,7 +159,7 @@ Select a set of models by checking the boxes or check the box on top to select a
 
 While your browser session is active you will see the following message in Solibri.
 
-![](images/18-cancel-browser-session.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/18-cancel-browser-session.png)
 
 Press cancel if you wish to end the import process.
 
@@ -167,17 +167,17 @@ Press cancel if you wish to end the import process.
 
 If you are not yet logged into Catenda, you will be asked to [sign in](https://support.catenda.com/en/articles/7891486-sign-in-page). After opening for the first time, after signing in or if you were already signed in, you will be asked for permission to access your Catenda account:
 
-![](images/19-granting-access-to-your-catenda-account.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/19-granting-access-to-your-catenda-account.png)
 
 If you were already signed in, but not with the right account, you can click on your profile picture to sign out and sign into the right account. When you are sure you are signed into the right account, click Allow access to continue. If you wait to long to do this it will not work so be sure to have your password ready! After successfully granting access to your account you will see the following message:
 
-![](images/20-granting-access-to-your-catenda-account.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/20-granting-access-to-your-catenda-account.png)
 
 ## 9. **Managing linked documents**
 
 Documents that have been linked from Catenda in Solibri can look different from regular documents that have been opened from the local system. This is what documents can look like when they have been linked with documents on Catenda:
 
-![](images/21-managing-linked-documents.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/21-managing-linked-documents.png)
 
 ### 9.1 **Name column**
 
@@ -199,11 +199,11 @@ If you hover over a document that has been linked from Catenda you will see `[Do
 
 Right click a document to open the context menu. Here the document update preferences can be configured.
 
-![](images/22-context-menu-updates.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/22-context-menu-updates.png)
 
 **Update Models** This is what the update models dialogue can look like if you have selected multiple documents.
 
-![](images/23-context-menu-updates.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/23-context-menu-updates.png)
 
 Folder - Click on the folder if you wish to choose a local file for this model instead.
 
@@ -215,7 +215,7 @@ Relink Models - Relink models only works if you have selected local models in th
 
 **Model update settings**
 
-![](images/24-context-menu-updates.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/24-context-menu-updates.png)
 
 Automatic - When a new revision is available in Catenda Hub the model will automatically update.
 
@@ -227,21 +227,21 @@ Relink Models - Relink models only works if you have selected local models in th
 
 Towards the bottom of the document context menu you will see hyperlinks.
 
-![](images/25-context-menu-hyperlinks.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/25-context-menu-hyperlinks.png)
 
 For each of the selected document that has a link to Catenda, you will see "Catenda" when you open each of the hyperlinks menus.. This is what the expanded hyperlinks meny can look like:
 
-![](images/26-context-menu-hyperlinks.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/26-context-menu-hyperlinks.png)
 
 New Hyperlink - Clicking on New Hyperlink opens the Add Hyperlink meny which can look something like this:
 
-![](images/27-context-menu-hyperlinks.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/27-context-menu-hyperlinks.png)
 
 Show Click "Catenda" to open that linked document on Catenda.
 
 Edit Click "Catenda" to edit the link for that selected document. The Edit Hyperlink menu will now open up and can look something like this:
 
-![](images/28-context-menu-hyperlinks.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/28-context-menu-hyperlinks.png)
 
 The address should look something like this: [https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/revisions/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/revisions/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
 

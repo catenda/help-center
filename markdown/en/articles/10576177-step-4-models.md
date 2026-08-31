@@ -6,7 +6,7 @@
 
 In the models area, you are presented a list with all models available to you based on your access rights. These can be selected and turned on in the 3D viewer, enabling you to intuitively view and navigate through federated models.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/chgdwm3p/01-intro.png)
 
 _Further reading:_ [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer), [Revision selector](https://support.catenda.com/en/articles/4670279-revision-selector)
 

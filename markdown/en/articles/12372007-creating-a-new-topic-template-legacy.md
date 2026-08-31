@@ -4,7 +4,7 @@ The new topic template action can be found by clicking on the action menu to the
 
 This is what the new topic template dialogue can look like:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/611mtt5t/01-intro.png)
 
 ## 1. **Naming**
 
@@ -40,7 +40,7 @@ The due date and milestone that are applied to the topic that will be created.
 
 The member that is assigned to the topic that will be created. By default this is set to be the publisher of the approval. Choose between one of the following:
 
-![](images/02-assigned-to.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/611mtt5t/02-assigned-to.png)
 
 ### 4.2 **Publisher**
 
@@ -60,7 +60,7 @@ The publisher of the approval
 
 The member that is requesting the topic. By default this is set to be the uploader of the revision whose validation outcome resulted in the creation of this topic.
 
-![](images/03-requested-by.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/611mtt5t/03-requested-by.png)
 
 The requested by options are the same as in the assigned to field.
 

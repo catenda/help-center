@@ -4,7 +4,7 @@
 
 Select document(s) and/or folder(s) in the documents area to find the access control menu in the [right information menu](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page#h_cad792004b). Here the project members that have access to the document can be seen. Follow these steps to edit the access of the selected items.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/01-intro.png)
 
 1. Select the document(s) and/or folder(s) that are to be configured.
 1. Open the right information menu
@@ -14,7 +14,7 @@ Select document(s) and/or folder(s) in the documents area to find the access con
 
 The access control dialogue can look something like this:
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/02-intro.png)
 
 ## 1. **1. Configure access for project participants**
 
@@ -62,6 +62,6 @@ When the access dialogue is saved, the access on the selected elements is **over
 
 If shared statuses were enabled after 2 October 2025, two extra columns appear to the right of the access column: **View shared revisions** and **Can publish**. Which boxes can be checked depends on the access level. This is what that can look like:
 
-![](images/03-4-status-workflow.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/03-4-status-workflow.png)
 
 <div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; padding: 8px;"><p><b>Access</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>View shared revisions</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Publish</b></p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>No access</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Not available (item not shown in list)</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>No</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Read</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Can be granted (optional)</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>No</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Write</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Always able to view</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Can be granted (optional)</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Full access</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Always able to view</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Yes</p></td></tr></tbody></table></div>

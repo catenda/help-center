@@ -6,7 +6,7 @@ Depending on your access and your selection actions for your models and their la
 
 The plus button and hamburger menu items can be found towards the top right of the page and can look something like this:
 
-![](images/01-new-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/09fxhve6/01-new-item-actions.png)
 
 _Access required:_ Creating or downloading models or access to a document-model in the documents section
 
@@ -14,7 +14,7 @@ _Access required:_ Creating or downloading models or access to a document-model 
 
 Both the plus button and the new model action will open up the new model dialogue. The new model dialogue can look something like this:
 
-![](images/02-new-model.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/09fxhve6/02-new-model.png)
 
 With the new model button on the models page you will be asked to select a folder where you want the document-model to end up.
 
@@ -38,7 +38,7 @@ This action will take you to the [model export page](https://support.catenda.com
 
 After selecting one or more model(s) you will be able to see the following action menu appear towards the top of the documents table. The existing item actions menu can look something like this:
 
-![](images/03-selected-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/09fxhve6/03-selected-item-actions.png)
 
 ### 2.1 **2D viewer**
 
@@ -52,7 +52,7 @@ With the 3D viewer action you will be able to open your selected model(s) either
 
 If shared revisions are enabled in the [status workflow menu](https://support.catenda.com/en/articles/12495583-status-workflow-document-settings) of document settings in the project, any new revision that is created starts out as a shared revision that can later be published.
 
-![](images/04-publish.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/09fxhve6/04-publish.png)
 
 In the workspace tab row elements show the latest shared revision for each model. In the published tab row elements show the latest published revision for each model. Shared revisions can be differentieated from published revisions by the icon in the revision column and the fact that they have a minor revision number (0.1, 0.2, 1.1, etc...) _Access required:_ View shared revisions in document-model access settings Select one ore more models where the latest revision is a shared revision to see the publish action in the action menu. _Access required:_ Can publish in document-model access settings
 

@@ -1,3 +1,3 @@
 # Model export - Short video
 
-![](images/01-intro.gif)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/xpdg20as/01-intro.gif)

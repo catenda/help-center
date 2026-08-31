@@ -40,20 +40,20 @@ With the data stored in cookies your browser will be able to know if you are log
 
 **Finding cookies** On chrome you will be able to manage your cookies like below: Click on Cookies and site data
 
-![](images/01-cookies.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/01-cookies.png)
 
 Click on Manage on-device site data
 
-![](images/02-cookies.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/02-cookies.png)
 
 _Allowing cookies_ To use Catenda Hub you need to at least allow the storage of data for hub.catenda.com during your session.
 
-![](images/03-cookies.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/03-cookies.png)
 
 If you choose to delete data when closing all windows your data will be reset every time you use Catenda. Deleting your data each time all windows are closed will cause your preferences to be reset every time after closing all windows of your browser.
 
 _Deleting cookies_ Cookie data can manually be deleted by clicking on the trashcan icon.
 
-![](images/04-cookies.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/04-cookies.png)
 
 You will then be asked to reload the page. After reloading you will have to log back into Catenda as you have deleted your login information.

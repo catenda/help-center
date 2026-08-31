@@ -6,9 +6,9 @@ We have been using Catenda Hub for user feedback since 2021. This feedback is ma
 
 Below is the list of what our team has delivered so far. And more is coming. Stay tuned!
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4kk2dtsm/01-intro.png)
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4kk2dtsm/02-intro.png)
 
 ## 1. **User voice pyramid**
 

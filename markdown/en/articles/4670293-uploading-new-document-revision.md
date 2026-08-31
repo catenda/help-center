@@ -18,10 +18,10 @@ If documents with the same name of the files in a zip file that is imported with
 
 With a single document selected the new revision action can also be found in the [existing element action menu](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_5785139ce3) that appears when an element is selected towards the top of the documents table. A benefit of this action is that there is no confusion of what the document name is. The document is selected and the file you chose gets uploaded to the document that has been selected without having to worry about what name it has. _Access required:_ Write access to the document
 
-![](images/01-action-in-document-structure.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/amtr8hmr/01-action-in-document-structure.png)
 
 ## 5. **Action in document preview**
 
 Open the [document action menu](https://support.catenda.com/en/articles/9323521-document-revision-actions#h_ea6fb90f40) on the top right or click the new revision icon. The new revision action opens the file explorer on your system. From the file explorer the file that will be uploaded as a new revision can be chosen. A benefit of this action is that there is no confusion of what the document name is. The document is selected and the file you chose gets uploaded to the document that has been selected without having to worry about what name it has.
 
-![](images/02-action-in-document-preview.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/amtr8hmr/02-action-in-document-preview.png)

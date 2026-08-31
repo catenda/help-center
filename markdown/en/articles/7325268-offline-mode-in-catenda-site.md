@@ -8,7 +8,7 @@ This article includes information about the following topics:
 
 Without connection to the network, the topics menu will still be available.
 
-![](images/01-topics-menu-in-offline-mode.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/01-topics-menu-in-offline-mode.png)
 
 > **Note:** Without connection to the network **Changes are not submitted automatically** After connecting back to the network changes can be submitted to the project from your outbox.
 
@@ -16,7 +16,7 @@ Without connection to the network, the topics menu will still be available.
 
 This is what a topic board can look like without connection to the network:
 
-![](images/02-topic-boards-in-offline-mode.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/02-topic-boards-in-offline-mode.png)
 
 Topics that were previously loaded appear as normal topics.
 
@@ -24,7 +24,7 @@ Topics that were previously loaded appear as normal topics.
 
 Topics that are created without connection to the network will have an offline icon on them.
 
-![](images/03-offline-icon.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/03-offline-icon.png)
 
 As long as a topic has an offline icon it will not be synchronized to the project.
 
@@ -32,7 +32,7 @@ As long as a topic has an offline icon it will not be synchronized to the projec
 
 Topics that have previously been loaded can be opened without connection to the network. After opening a topic you will know you are looking at a previously loaded topic in offline mode when you see the yellow "Offline" box to the right of the topic title.
 
-![](images/04-previously-loaded-topics.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/04-previously-loaded-topics.png)
 
 > **Note:** Existing information in topics that was loaded when you lost connection to the network cannot be edited.
 
@@ -44,7 +44,7 @@ Comments created by the user that is logged in can be edited and deleted without
 
 Without connection to the network it is still possible to make a new topic. After creating it, a topic will not be synchronized to the project yet. When opening a topic that has not been synchronized to the project yet you will see a cloud icon to the left of the topic title.
 
-![](images/05-new-topics.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/05-new-topics.png)
 
 When connection to the network has been regained these topics will not automatically synchronize to the project. New information and changes made made while in offline mode can be submitted to the project in the outbox when connection to the network is regained.
 
@@ -72,7 +72,7 @@ The following information can be added to a new topic that is created without co
 
 If new information and changes have been made made in a topic board while in offline mode an outbox icon will appear towards the top right of the topic board.
 
-![](images/06-outbox.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/06-outbox.png)
 
 Tap the icon to open the outbox. After regaining access to the network new information and changes can be submitted to the project in this menu.
 
@@ -84,7 +84,7 @@ Tap the icon to open the outbox. After regaining access to the network new infor
 
 When connection to the network is lost it is possible to continue using models that have previously been loaded onto the device.
 
-![](images/07-models-in-offline-mode.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/07-models-in-offline-mode.png)
 
 ### 2.1 **Previously loaded models**
 
@@ -94,7 +94,7 @@ In the 2D view of models that were loaded before connection to the network was l
 
 When connection to the network is lost documents can continue to be used.
 
-![](images/08-documents-in-offline-mode.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/08-documents-in-offline-mode.png)
 
 ### 3.1 **Previously loaded documents**
 

@@ -6,7 +6,7 @@ Location can be applied to topics by placing a marker at an x, y coordinate in t
 
 This is what markers can look like in the 2D viewer:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/01-intro.png)
 
 ## 1. **Topics with existing markers**
 
@@ -14,7 +14,7 @@ This is what markers can look like in the 2D viewer:
 
 Hover over a [marker in the 2D viewer](https://support.catenda.com/en/articles/4854537-2d-viewer#h_d904cebf2e) in the browser to display the topic number and title of the topic that belongs to that marker. This is what a hovered marker can look like in the browser.
 
-![](images/02-interacting-with-markers.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/02-interacting-with-markers.png)
 
 Click on the marker to open the topic in the corresponding topic board in the content panel.
 
@@ -22,17 +22,17 @@ Click on the marker to open the topic in the corresponding topic board in the co
 
 To work with topics and locations, open the content and 3D panels side by side:
 
-![](images/03-displaying-markers.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/03-displaying-markers.png)
 
 **Choose the model for you 2D background**
 
-![](images/04-displaying-markers.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/04-displaying-markers.png)
 
 If a storey has been configured in the storey configurator, the first storey of the first building opens by default as soon as the 3D panel is opened.
 
 **Expand the 2D view**
 
-![](images/05-displaying-markers.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/05-displaying-markers.png)
 
 Drag on the top left corner of the 2D view or doubleclick on the title of the 2D view to expand it. Select the building and storey on which to add or view topic locations on the bottom left.
 
@@ -42,15 +42,15 @@ Drag on the top left corner of the 2D view or doubleclick on the title of the 2D
 
 **Finding a marker in the 2D viewer from a topic** To find where the marker of a topic has been placed in the 2D viewer, open the topic in its topic board and click on the "Has marker" text in the topic header.
 
-![](images/06-finding-markers.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/06-finding-markers.png)
 
 In the menu that opens up select "View marker on 2D":
 
-![](images/07-finding-markers.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/07-finding-markers.png)
 
 When a single topic is selected in the the topic board or when a topic is opened, the color of that marker is highlighted in green:
 
-![](images/08-finding-markers.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/08-finding-markers.png)
 
 ### 1.4 **Editing markers**
 
@@ -62,7 +62,7 @@ When a single topic is selected in the the topic board or when a topic is opened
 
 Marker visibility can be configured in the following locations:
 
-![](images/09-marker-configuration.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/09-marker-configuration.png)
 
 1. Show/hide markers in the 2D view with the [2D viewer settings](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098). 
 Note: Markers might still not be visible if the marker layer is disabled.
@@ -78,7 +78,7 @@ Note: Markers might still not be visible if the marker layer is disabled.
 
 Create a new topic or open a topic without a marker and click on "Add marker". If the 3D panel was not yet open it will now open and a information message is displayed towards the top of the screen.
 
-![](images/10-add-marker-from-topic.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/10-add-marker-from-topic.png)
 
 Notice that the cursor turns into a crosshairs as soon as you hover over the 2D viewer indicating that a marker will be placed at that location when it is clicked.
 
@@ -86,11 +86,11 @@ Notice that the cursor turns into a crosshairs as soon as you hover over the 2D 
 
 **Add marker** Navigate to a topic or select a single topic in the topic board. Right-click in the 2D viewer and choose "Add marker" in the context dialogue that opens up to add a marker to the selected or open topic at that location.
 
-![](images/11-add-marker-from-2d-viewer.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/11-add-marker-from-2d-viewer.png)
 
 **Create a new topic with marker** First navigate to the topic board you would like to create a topic with a marker in. Next, right-click in the 2D viewer and choose "Create a new topic with marker" in the context dialogue that opens up to initiate the [new topic creation process](https://support.catenda.com/en/articles/4670268-creating-a-new-topic) with the marker already applied.
 
-![](images/12-add-marker-from-2d-viewer.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/12-add-marker-from-2d-viewer.png)
 
 ## 3. **Exporting location to PDF**
 

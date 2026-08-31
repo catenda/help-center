@@ -30,7 +30,7 @@ _A fourth [block](https://support.catenda.com/en/articles/7832559-naming-convent
 
 **Convention setup** For this example you will use the [naming convention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) shown in the image below as a starting point.
 
-![](images/01-initial-setup.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/01-initial-setup.png)
 
 ### 1.2 **Custom fields in conventions**
 
@@ -44,7 +44,7 @@ The status can also be any word of any length so make a [text custom field](http
 
 For these two blocks you will not notice a difference in the upload process. You will be able to see that the [preview](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_c2f7e24fbc) in different places now reflects the name of the [custom field](https://support.catenda.com/en/articles/6550459-custom-fields-setup).
 
-![](images/02-custom-fields-in-conventions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/02-custom-fields-in-conventions.png)
 
 **[Dropdown custom fields](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) in [conventions](https://support.catenda.com/en/articles/7832559-naming-conventions-page)**
 
@@ -58,4 +58,4 @@ For these two blocks you will not notice a difference in the upload process. You
 
 Finally, this is what your [naming convention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) with [custom fields](https://support.catenda.com/en/articles/6550459-custom-fields-setup) and [document identifiers](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=block%20to%20do-,Document%20identifier,-%3A) should look like:
 
-![](images/03-document-identifier.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/03-document-identifier.png)

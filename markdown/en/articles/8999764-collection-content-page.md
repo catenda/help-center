@@ -4,7 +4,7 @@ Collections can be created on the [collections page](https://support.catenda.com
 
 This is what a collection page can look like:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/g39es426/01-intro.png)
 
 ## 1. **Collection banner**
 
@@ -20,7 +20,7 @@ Click on back to go back to the [collections page](https://support.catenda.com/e
 
 The collection actions can be found on the top right of the page.
 
-![](images/02-collection-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/g39es426/02-collection-actions.png)
 
 New collection Click on the new collection action to create a new collection
 
@@ -32,7 +32,7 @@ New collection Click on the new collection action to create a new collection
 
 The right menu can be found on the top right of the collection banner below the action menu. Click the "i" icon on the top right to open it. _Access required:_ Collection creator or administrator
 
-![](images/03-right-menu.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/g39es426/03-right-menu.png)
 
 Click [here](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-page) to read more about the right menu on the collection page.
 
@@ -44,7 +44,7 @@ Collections can be private, shared with project or finalized
 
 After a collection is created it will be private. This means only the user who created the collection will be able to see it.
 
-![](images/04-private-collection.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/g39es426/04-private-collection.png)
 
 Private collections can either follow the latest published revision or be locked the revisions of the documents that were added to the collection. Share a private collection or finalize it in the [right menu of a collection](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-content-page) to share it wiht the rest of the project.
 

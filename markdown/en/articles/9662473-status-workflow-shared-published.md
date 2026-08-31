@@ -10,7 +10,7 @@ The new status workflow is an on-demand feature that can be requested to be enab
 
 The old status workflow (legacy) with 'drafts' will be replaced by the new Status Workflow (with shared statuses) for on-going projects that are not using the legacy status workflow. Shared statuses can be activatedin the status workflow menu of the document settings page.
 
-![](images/01-enabling-status-workflow-with-shared-revisions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/h48tax1e/01-enabling-status-workflow-with-shared-revisions.png)
 
 The upgrade from status workflow with 'drafts' to status workflow with 'shared' documents, bring these effects;
 
@@ -22,7 +22,7 @@ The upgrade from status workflow with 'drafts' to status workflow with 'shared' 
 
 🖥️  _Workspace and_ ✔️ _Published tabs_ Separate tabs (workspace and a published) will be available in the document area, where the published tab will provide only published revisions.
 
-![](images/02-catenda-hub.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/h48tax1e/02-catenda-hub.png)
 
 A new revision numbering will appear (major.minor). #0.1, #0.2 and so on for **shared revisions** and #1, #2, #3 and so on for **published revisions**.
 

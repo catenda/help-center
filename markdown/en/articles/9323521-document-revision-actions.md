@@ -6,7 +6,7 @@ Depending on your access different actions for your document and its revisions c
 
 The action menu to the right of the icons can look something like this:
 
-![](images/01-document-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/nxq3vptz/01-document-actions.png)
 
 ### 1.1 **Download latest published revision**
 
@@ -31,7 +31,7 @@ Actions that have the same behavior as in the documents list include:
 
 Actions for your current revision can be found in the [right menu of a revision](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision). This is what the revision actions can look like:
 
-![](images/02-document-revision-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/nxq3vptz/02-document-revision-actions.png)
 
 ### 2.1 **Compare**
 

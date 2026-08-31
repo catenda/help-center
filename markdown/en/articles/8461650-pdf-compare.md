@@ -14,4 +14,4 @@ When you click on the compare dropdown you will have the option to choose what c
 
 It is possible to make annotations of two compared pdf revisions. This annotation can be stored in the comment section of an issue like a regular annotation. You will be able to see if an annotation is made on a comparison between two revisions in the issue by the revision number which will be displayed as: #1/#2
 
-![Image preview](images/01-annotations-with-compared-documents.gif)
+![Image preview](https://raw.githubusercontent.com/catenda/help-center/main/images/67ras162/01-annotations-with-compared-documents.gif)

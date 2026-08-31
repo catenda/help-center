@@ -2,11 +2,11 @@
 
 You will be able to find the organization profile page by clicking on the name of the organization on the [organization page](https://support.catenda.com/en/articles/8281910-organizations-page). The organization profile page is the main page in the organization tool.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/erq1xqqf/01-intro.png)
 
 This is what an organization profile can look like:
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/erq1xqqf/02-intro.png)
 
 ## 1. **Organization information**
 

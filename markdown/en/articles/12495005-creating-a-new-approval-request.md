@@ -2,7 +2,7 @@
 
 The new approval request action can be found for projects that enabled shared revisions after 2 October 2025. Clicking the action menu to the right of the green plus button on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page) to create a new approval requets. Click on the new approval request button in the approvals menu of the right menu of a revision on the documents page where the latest revision is a shared revision to create a new approval request. This is what the create a new approval request dialogue can look like:
 
-![New approval request Workflow Submitter Title Description (optional) Documents for review add documents name revision # Revision number Status Remove Cancel Save as draft Submit for review](images/01-intro.png)
+![New approval request Workflow Submitter Title Description (optional) Documents for review add documents name revision # Revision number Status Remove Cancel Save as draft Submit for review](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
 Projects where shared revisions were enabled before 2 October 2025 will see the legacy create a new approval request dialogue instead.
 
@@ -10,7 +10,7 @@ Projects where shared revisions were enabled before 2 October 2025 will see the 
 
 This is what the header of a new approval can look like for projects that enabled shared revisions after 2 October 2025:
 
-![New approval requst Workflow Submitter Title](images/02-approval-request-header.png)
+![New approval requst Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/02-approval-request-header.png)
 
 ### 1.1 **Workflow selection**
 
@@ -18,7 +18,7 @@ Members that are part of submitter teams configured in a project workflow can se
 
 **Automatic selection** If only onle of the teams a member is part of is configured for a workflow, that workflow will automatically be selected. This is what it can look like when the workflow is automatically selected.
 
-![Workflow Submitter Title](images/03-workflow-selection.png)
+![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
 _Access requred:_ Members and administrators must be part of a submitter team configured for a workflow to be able to select the workflow.
 
@@ -30,7 +30,7 @@ When the approval request is created members who are part of the selected submit
 
 **Automatic selection** If a member is only part of one of the submitter teams that are configured for the workflow the submitter team is automatically selected when the workflow is selected.
 
-![Workflow Submitter Title](images/04-submitter-selection.png)
+![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/04-submitter-selection.png)
 
 _Access requred:_ Members and administrators must be part of a submitter team configured for a workflow to be able to submit on behalf of that submitter team.
 
@@ -42,7 +42,7 @@ The title of the approval request. An approval must have a title to ​be submit
 
 The new validation workflow is an on-demand feature that can be requested to be enabled when starting a new project. It is only possible to create a project based on a template project when the new validation workflow is not enabled in that template project. This is what the body of a new approval can look like for projects that enabled shared revisions after 2 October 2025:
 
-![Approval Reqeust body Description (optional) Documents for review add documents cancel no documents added yet](images/05-approval-request-body.png)
+![Approval Reqeust body Description (optional) Documents for review add documents cancel no documents added yet](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/05-approval-request-body.png)
 
 ### 2.1 **Description**
 
@@ -50,7 +50,7 @@ The description of the approval follows the [general formatting rules of posts](
 
 ### 2.2 **Add documents**
 
-![Description (optional) documents for review add documents](images/06-add-documents.png)
+![Description (optional) documents for review add documents](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/06-add-documents.png)
 
 Click [here](https://support.catenda.com/en/articles/12382093-add-revision-to-approval) to read more about adding shared revisions from documents to an approval request. While it is possible to add an infinite amount of documents here, the limit for submitting the approval request for review is 1000 documents.
 
@@ -58,7 +58,7 @@ Click [here](https://support.catenda.com/en/articles/12382093-add-revision-to-ap
 
 This is what the documents for review table can look like after shared revisions in each document that are to be validated have been added:
 
-![Documents review table Name revision # Revision number Status Remove Cancel Save as draft Submit for review](images/07-documents-for-review-table.png)
+![Documents review table Name revision # Revision number Status Remove Cancel Save as draft Submit for review](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/07-documents-for-review-table.png)
 
 **Columns** Based on the configured column order the first columns are displayed while the table might have to be scrolled sideways to show other enabled columns. The default order and visibility setting of the columns on the documents page is as follows:
 

@@ -8,7 +8,7 @@ Before exporting it is important to make sure that the GUID's of your Revit proj
 
 `Manage -> Settings -> Project Information -> IFC Parameters`
 
-![Project information IFC Parameters IfcSite GUID IfcBuilding GUID IfcProject GUID](images/01-project-settings.png)
+![Project information IFC Parameters IfcSite GUID IfcBuilding GUID IfcProject GUID](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/01-project-settings.png)
 
 If the GUID is different from a previous export the objects of newer exports will not be properly linked to the GUIDs in BCF topics. When you make a new project it will have a unique id.
 
@@ -16,7 +16,7 @@ If the GUID is different from a previous export the objects of newer exports wil
 
 When Revit is open and you are ready to export, you may want to do the following.
 
-![On th top left of the screen, press file](images/02-modify-ifc-export.png)
+![On th top left of the screen, press file](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/02-modify-ifc-export.png)
 
 Top left we find "File" tab.
 
@@ -28,11 +28,11 @@ The IFC export menu can be found here:
 
 `File -> Export -> IFC`
 
-![](images/03-modify-ifc-export.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/03-modify-ifc-export.png)
 
 This is what the Export IFC menu can look like:
 
-![Export IFC](images/04-modify-ifc-export.png)
+![Export IFC](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/04-modify-ifc-export.png)
 
 File name Enter the name and location that the exported file will have in the system
 
@@ -44,7 +44,7 @@ When the Catenda Plugin for Revit is used, an extra pre-defined export setup for
 
 Click on Modify setup in the export setup part of the export ifc dialogue. This is where the necessary settings for IFC exports can be changed and custom setups can be created. This is what the modify setup menu can look like:
 
-![](images/05-modify-setup.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/05-modify-setup.png)
 
 This window contains the following tabs:
 
@@ -52,9 +52,9 @@ This window contains the following tabs:
 
 ### 3.1 **General**
 
-![General](images/06-general.png)
+![General](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/06-general.png)
 
-![](images/07-general.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/07-general.png)
 
 We'll take you through the various settings.
 
@@ -68,7 +68,7 @@ We'll take you through the various settings.
 
 **Category mapping** Before Revit 2026 this option was available in File -> Export -> Options -> IFC Export Options. This is what the Manage IFC Export Mapping Settings menu can look like:
 
-![](images/08-general.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/08-general.png)
 
 **File type** IFC type selection.
 
@@ -94,9 +94,9 @@ _File Header information... Project Address..._ In these you can put information
 
 ### 3.2 **Additional Content**
 
-![Additional Content](images/09-additional-content.png)
+![Additional Content](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/09-additional-content.png)
 
-![](images/10-additional-content.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/10-additional-content.png)
 
 Export linked files as separate IFC's If you want to include the linked files in the IFC you can check this option to do so. It is recommended that you export each file separately and import each to their own model.
 
@@ -115,13 +115,13 @@ Export Ceiling Grids Ceiling grids are 2D elements and thus not displayed in the
 
 ### 3.3 **Property Sets**
 
-![Property Sets](images/11-property-sets.png)
+![Property Sets](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/11-property-sets.png)
 
-![](images/12-property-sets.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/12-property-sets.png)
 
 Exports all Revit Property sets (pset / properties) Here is an example of a wall exported with this option: Revit (_Left_) --- Catenda (_Right_)
 
-<img alt="Properties" src="images/inline-4f4aab46be4e.png" width="208.60495436766624"/>  ---  <img alt="Properties" src="images/inline-7c05fd3c2c4a.png" width="190.21739130434784"/>
+<img alt="Properties" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-4f4aab46be4e.png" width="208.60495436766624"/>  ---  <img alt="Properties" src="https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/inline-7c05fd3c2c4a.png" width="190.21739130434784"/>
 
 Typical properties that show in the properties menu are: Constraints, Cross-Section Definition, Dimensions, Structural, Identity Data, Other
 
@@ -129,7 +129,7 @@ Typical properties that show in the Identification menu are: IFC Parameters Expo
 
 **Classification settings** Here is an example of what classification settings can look like with omniclass.
 
-![Classification Settings](images/13-property-sets.png)
+![Classification Settings](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/13-property-sets.png)
 
 **Name** The name of the classification
 
@@ -143,11 +143,11 @@ Typical properties that show in the Identification menu are: IFC Parameters Expo
 
 **Classification field name** The classification field name is the name of the parameter in your objects that will hold the classification value. This parameter can often be found on the family level. Edit a family to see its properties
 
-![Edit Family](images/14-property-sets.png)
+![Edit Family](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/14-property-sets.png)
 
 This is what the parameter can look like in the properties
 
-![Properties OmniClass Number](images/15-property-sets.png)
+![Properties OmniClass Number](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/15-property-sets.png)
 
 If you have exported your ifc with a classification and imported it as a model to Catenda you will see its classification suggested as a [suggested library](https://support.catenda.com/en/articles/8065645-libraries-page#h_c03d50a9ca) when creating a new library on the [libraries page](https://support.catenda.com/en/articles/8065645-libraries-page). If a value in the property you specified matches with a value in the documentation provided it will be found and can be used to select objects with this value through the classification library you created.
 
@@ -155,9 +155,9 @@ If you have exported your ifc with a classification and imported it as a model t
 
 ### 3.4 **Level Of Detail**
 
-![Level of Detail](images/16-level-of-detail.png)
+![Level of Detail](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/16-level-of-detail.png)
 
-![](images/17-level-of-detail.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/17-level-of-detail.png)
 
 This is about how detailed we have for example. cups or handrails or maybe bicycle wheels. There are 4 different levels of detail.
 
@@ -165,15 +165,15 @@ Extra Low Low Medium High
 
 When high, it gets the most detailed as shown in the picture below.
 
-![Level of detail extra low and high](images/18-level-of-detail.png)
+![Level of detail extra low and high](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/18-level-of-detail.png)
 
 ---
 
 When exporting IFCs from Revit to be used in Catenda Hub, we recommend not to set the level of detail to high. There will be a lot of details and extra polygons in models when exported with higher level of detail and this is not always necessary and will make the model navigation slower. This is an example of the difference between exporting with the Extra low and High setting.
 
-![This is a stair railing exported with the setting High. 900k polygons](images/19-level-of-detail.png)
+![This is a stair railing exported with the setting High. 900k polygons](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/19-level-of-detail.png)
 
-![This is the same model exported with the setting Extra Low. 33k polygons.](images/20-level-of-detail.png)
+![This is the same model exported with the setting Extra Low. 33k polygons.](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/20-level-of-detail.png)
 
 The appearance of the model will be close to the same, but the number of polygons will decrease drastically and the navigation in Catenda Hub will be a lot faster.
 
@@ -181,9 +181,9 @@ The appearance of the model will be close to the same, but the number of polygon
 
 ### 3.5 **Advanced**
 
-![Advanced](images/21-advanced.png)
+![Advanced](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/21-advanced.png)
 
-![](images/22-advanced.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/22-advanced.png)
 
 **Export parts as building elements** Export parts like standard IFC element.
 
@@ -213,7 +213,7 @@ The appearance of the model will be close to the same, but the number of polygon
 
 **Entities to export** This is what the IFC Entity Selection menu that opens upcan look like:
 
-![](images/23-advanced.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/23-advanced.png)
 
 ---
 
@@ -221,13 +221,13 @@ The appearance of the model will be close to the same, but the number of polygon
 
 It is important that your Revit coordinates are synchronized with the other models in your project so that they end up on the same place. Therefore measure the coordinates in Catenda Hub with a point measure and specify a coordinate base in Revit at a point that is on the same place as the measured point in Catenda Hub.
 
-![Specify Coordinate at POint](images/24-geographic-reference.png)
+![Specify Coordinate at POint](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/24-geographic-reference.png)
 
 You can find this option in the Manage tab -> Coordinates -> Specify Coordinate Base. _Specify Coordinates at Point_ Relocates a model and rotates the model to True North by specifying coordinates for North/South, East/West, and Elevation. In Revit it is often easier to model on 90 degree angles and you don't want to rotate the whole model. In this case you can rotate True North instead. You will find the option in the Position dropdown below Coordinates in the Manage tab.
 
-![Geographic Reference](images/25-geographic-reference.png)
+![Geographic Reference](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/25-geographic-reference.png)
 
-![](images/26-geographic-reference.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/26-geographic-reference.png)
 
 **Project site** Internal
 
@@ -241,9 +241,9 @@ You can find this option in the Manage tab -> Coordinates -> Specify Coordinate 
 
 ### 3.7 **Company Info**
 
-![](images/27-company-info.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/27-company-info.png)
 
-![](images/28-company-info.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/28-company-info.png)
 
 This menu is only available when the IFC2x3 COBie 2.4 Design Deliverable View Setup is selected in the left menu.
 
@@ -251,9 +251,9 @@ This menu is only available when the IFC2x3 COBie 2.4 Design Deliverable View Se
 
 ### 3.8 **Project info**
 
-![](images/29-project-info.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/29-project-info.png)
 
-![](images/30-project-info.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/30-project-info.png)
 
 This menu is only available when the IFC2x3 COBie 2.4 Design Deliverable View Setup is selected in the left menu.
 
@@ -265,13 +265,13 @@ The IFC Options of a Revit project can be found in:
 
 `File -> Export -> Options -> IFC Options`
 
-![Export -> Options -> IFC options](images/31-ifc-options.png)
+![Export -> Options -> IFC options](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/31-ifc-options.png)
 
 > **Note:** From Revit 2026 this option is now available in: `Export -> IFC -> General -> Category Mapping -> Action menu right of dropdown`
 
 Here within the _IFC options_ we make the settings for exporting a model to an IFC file. Here you can customize setup properties for exporting a model to IFC. What was mentioned at the start of this manual is it is not necessary to bring too much information out of the model. Feel free to tick off unnecessarily information before export.
 
-![IFC export classes](images/32-ifc-options.png)
+![IFC export classes](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/32-ifc-options.png)
 
 It is possible to view grids in Catenda Hub, and if you have these in your Revit model it is in IFC Options you can set grids to be exported in the IFC. By default these are not exported from Revit.
 
@@ -282,11 +282,11 @@ The colors that are displayed in Catenda are read from the IFC file that is impo
 `Manage tab -> Settings section -> Materials`
 In the Material browser the setting for color can be found in the graphics tab of the material:
 
-![Manage -> Materials -> Material browser -> Create new material](images/33-colors-and-materials.png)
+![Manage -> Materials -> Material browser -> Create new material](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/33-colors-and-materials.png)
 
 It is also possible to lock the shading to the render settings.
 
-![Appearance](images/34-colors-and-materials.png)
+![Appearance](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/34-colors-and-materials.png)
 
 Surfaces in the Catenda 3D viewer have flat shading without a light source present. The following values are interpreted by Catenda when displaying the surface in the 3D viewer:
 

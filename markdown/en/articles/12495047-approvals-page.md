@@ -2,7 +2,7 @@
 
 The approvals page can be found as a sub page to the [documents page](https://support.catenda.com/en/articles/8204673-documents-page) in the left navigation menu. Here an overview of the approval requests in the project can be found.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
 This article contains information about the following topics: _[Enable](#h_263c9d1268) - [Actions](#h_39a97bd06a) - [Search/filter](#h_95652579ee) - [Approval list](#h_aa4dfe69f5) - [Rows](#h_76de8831a3) - [Approval request cards](#h_e99a80135a) -_ [Approval requests and Document Revisions tabs](#h_aae5976a1d)
 
@@ -26,7 +26,7 @@ Projects created based on a template project where shared statuses were enabled 
 
 The new item actions can be found on the top right of the page.
 
-![](images/02-new-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/02-new-item-actions.png)
 
 ### 2.1 **New approval request**
 
@@ -36,7 +36,7 @@ Click [here](https://support.catenda.com/en/articles/12495005-creating-a-new-app
 
 ## 3. **Search or filter options**
 
-![](images/03-search-or-filter-options.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
 
 Click [here](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page) to read more about filtering in the approvals page.
 
@@ -46,7 +46,7 @@ Approval cards with visual ques about the content of each approval request that 
 
 This is what an approval request with full activity can look like:
 
-![](images/04-approval-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/04-approval-list.png)
 
 Activity that occurs in the approval is displayed with amounts and icons on the approval card.
 
@@ -59,7 +59,7 @@ Activity that occurs in the approval is displayed with amounts and icons on the 
 
 The second tab allows you to get an overview of all documents being reviewed across all opened approvals.
 
-![](images/05-document-revisions-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/05-document-revisions-list.png)
 
 The table displays:
 
@@ -114,7 +114,7 @@ Approval title
 
 When an approval request has the status draft it is only visible to the person that created the draft on the approvals page.
 
-![](images/06-draft-status.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/06-draft-status.png)
 
 The approval request is not visible in the approvals menu of the right menu of a revision.
 
@@ -122,7 +122,7 @@ The approval request is not visible in the approvals menu of the right menu of a
 
 When an approval request has the status open it is visible to all members that are part of teams involved in the request. Hover over statuses of approvals that are under review by more than one team to open a popup that shows which team have yet to submit their review in the current review step.
 
-![](images/07-open-approval-status.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/07-open-approval-status.png)
 
 Reviewer teams that have already given their review do not show up in this list or count towards the amount of teams the approval step currently is under review by.
 
@@ -132,7 +132,7 @@ To the right of the open approval status the date and time the approval step mus
 
 When an approval request reached its final approval step it remains open. Based on the approvals and rejections given by each of the teams in each of the approval steps a member of the final approval team will be able to give their final approval or rejection. When the approval request is finally approved or rejected by the final approval team member it will be closed.
 
-![](images/08-closed-status.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/08-closed-status.png)
 
 ### 7.5 **Workflow**
 

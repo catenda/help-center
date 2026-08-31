@@ -16,4 +16,4 @@ To assign a library item from a user definable library to all the selected objec
 
 All library content and attributes added in Catenda Hub can be merged into the IFC-files if you choose to export the project.
 
-![mceclip0.png](images/01-intro.png)
+![mceclip0.png](https://raw.githubusercontent.com/catenda/help-center/main/images/b6bxj0dm/01-intro.png)

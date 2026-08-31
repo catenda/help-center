@@ -4,7 +4,7 @@ Our ShareLink feature has been upgraded by adding **Teams** and **"All users"** 
 
 **Using the new recipient selection:**
 
-<div class="intercom-container"><a href="https://cloud.headwayapp.co/changelogs_images/images/big/000/070/489-a75cecb2ace5e8d58ced9385297d0915c6760921.png" target="_blank"><img alt="Sharelink update w teams and all users.png" src="images/inline-529a2f8c05de.png"/></a></div>
+<div class="intercom-container"><a href="https://cloud.headwayapp.co/changelogs_images/images/big/000/070/489-a75cecb2ace5e8d58ced9385297d0915c6760921.png" target="_blank"><img alt="Sharelink update w teams and all users.png" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t7mvne01/inline-529a2f8c05de.png"/></a></div>
 
 1\. You can search for individual members or teams
 

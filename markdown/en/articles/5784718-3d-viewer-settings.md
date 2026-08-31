@@ -2,7 +2,7 @@
 
 The 3D viewer settings can be found in the top right of the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer).
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/01-intro.png)
 
 > **Note:** Be sure the hardware and sofware Catenda is opened on are configured [as recommended](https://support.catenda.com/en/articles/6921941-hardware-recommendation) as this can have an effect on how the viewer is displayed.
 
@@ -10,25 +10,25 @@ The 3D viewer settings can be found in the top right of the [3D viewer](https://
 
 The 3D viewer can be opened in any of the following ways: Enable the 3D panel with the panel buttons on the top right (Shift + 2).
 
-![](images/02-enabling-the-3d-viewer.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/02-enabling-the-3d-viewer.png)
 
 Enable a 3D model from the Dashboard page.
 
 Enable a 3D model from the viewer column in the models table. (Above image)
 
-![](images/03-enabling-the-3d-viewer.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/03-enabling-the-3d-viewer.png)
 
 Select models on the models page and use the 3D action with selected models on the models page.
 
 Enable a 3D document from the viewer column in the documents table on the documents page. Click on the gear icon to show the **3D viewer settings.**
 
-![](images/04-enabling-the-3d-viewer.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/04-enabling-the-3d-viewer.png)
 
 ## 2. **Rendering**
 
 This is what the rendering menu can look like:
 
-![](images/05-rendering.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/05-rendering.png)
 
 ### 2.1 **Show spaces**
 
@@ -83,7 +83,7 @@ Point budget: _1000000 Default_ - How many points of the point cloud can be disp
 
 This is what the navigation menu can look like:
 
-![](images/06-navigation.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/06-navigation.png)
 
 ### 3.1 **Walk mode**
 
@@ -115,7 +115,7 @@ Set all navigation settings back to their default position
 
 This is what the environment menu can look like:
 
-![](images/07-environment.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/07-environment.png)
 
 ### 4.1 **Environment setting**
 

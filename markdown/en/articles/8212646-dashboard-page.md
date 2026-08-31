@@ -2,11 +2,11 @@
 
 You will be able to find the Dashboard of a project on top of the left navigation menu in a project. This page is part of the content panel. The Dashboard will give you an overview of your project.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/01-intro.png)
 
 This is what the dashboard page can look like:
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/02-intro.png)
 
 ## 1. **Top bar**
 
@@ -26,11 +26,11 @@ Click [here](https://support.catenda.com/en/articles/4670260-account-buttons) to
 
 In the [topics section](https://support.catenda.com/en/articles/4670271-issues-page) you will be able to see an overview of [all the topics](https://support.catenda.com/en/articles/4670271-issues-page#h_9bd3bd842b) in a the project. This is what the topics menu can look like:
 
-![](images/03-topics.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/03-topics.png)
 
 A green plus button can be seen towards the top right of the menu.
 
-![](images/04-topics.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/04-topics.png)
 
 Click plus button towards to open the new topic page.
 
@@ -48,7 +48,7 @@ The two topic boards a topic board card with the most topics where the status ha
 
 **Topic board card** This is what a topic board card can look like:
 
-![](images/05-topic-board-graph.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/05-topic-board-graph.png)
 
 For each topic board a circular graph much like the one on the milestone page is displayed with the percentage of the amount of open topics compared to the amount of closed topics in the middle. Next to the graph the amount of open topics in that board and the amount of closed topics of the board. Click on candidate, open or closed to filter on all topics with statuses that have that respective meta-status. All the way to the right the profile picture of the member that is logged in and the unassigned icon are displayed with the amount of open topics either assigned to the member or unassigned. If there are any topics assigned to the member or if there are any unassigned topics there will be a number with a red background, otherwise it will say 0 with a green background. Click on the profile picture to fitler the topic board on topics assigned to the member or click on the unassigned icon to filter on unassigned icons.
 
@@ -68,7 +68,7 @@ Topic cards for the 5 moth recently updated topics are displayed. _Access requri
 
 This is what the most recently updated topics can look like:
 
-![](images/06-5-most-recently-updated-topics.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/06-5-most-recently-updated-topics.png)
 
 Click on the topic number to copy the URL of this topic.
 
@@ -78,7 +78,7 @@ Here all starred [bookmarks](https://support.catenda.com/en/articles/4670281-boo
 
 This is what the bookmarks menu can look like:
 
-![](images/07-my-bookmarks.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/07-my-bookmarks.png)
 
 Click on the bookmark screenshot to load the models that were enabled when that bookmark was last updated in the 3D viewer.
 
@@ -88,19 +88,19 @@ Click on Models to open the models page. In the menu title the total amount of m
 
 This is what the models menu can look like:
 
-![](images/08-models.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/08-models.png)
 
 Below that the 5 most recently updated models are displayed. _Access required:_ Read access to the document that is linked to the model
 
 If there are no models in the project yet, a green plus button can be displayed towards the top right of the menu.
 
-![](images/09-models.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/09-models.png)
 
 Click on the plus buton to create a new model. _Access required:_ Access to creating models on the project settings page.
 
 Click the name of a model to go to the [model content page](https://support.catenda.com/en/articles/4670270-model-overview-page) of that model. The 2D/3D buttons will let you load the model in the viewer.
 
-![](images/10-models.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/10-models.png)
 
 ## 5. **Members**
 
@@ -108,11 +108,11 @@ Click on members to go to the members page.
 
 This is what the members menu can look like:
 
-![](images/11-members.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/11-members.png)
 
 A green plus button can be seen towards the top right of the menu.
 
-![](images/09-models.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/09-models.png)
 
 Click plus button to [invite a new member](https://support.catenda.com/en/articles/4670247-inviting-new-members-to-the-project) to your project. _Access required:_ Access to inviting new members on the project settings page.
 
@@ -128,7 +128,7 @@ In projects wehre the legacy validation workflow is enabled approvals appear on 
 
 This is what the approvals menu can look like:
 
-![](images/13-approvals-legacy.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/13-approvals-legacy.png)
 
 **Open approvals** See all open [approvals](https://support.catenda.com/en/articles/5784717-document-approval)
 
@@ -144,7 +144,7 @@ Click on collections to go to the [collections page](https://support.catenda.com
 
 This is what the collections menu can look like:
 
-![](images/14-collections.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/14-collections.png)
 
 ### 7.1 **Collections in progress**
 

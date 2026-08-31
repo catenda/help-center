@@ -10,11 +10,11 @@ On the [sign in page](https://support.catenda.com/en/articles/7891486-sign-in-pa
 
 Please make sure you enter the right username and password combination. Your username is always the email address that is connected to your account.
 
-![](images/01-wrong-username-or-password.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/zw9p4shp/01-wrong-username-or-password.png)
 
 For those that are unsure if they successfully created an account, please register once more at hub.catenda.com/signup and attempt to create an account by clicking on the link in the account creation email.
 
-![](images/02-wrong-username-or-password.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/zw9p4shp/02-wrong-username-or-password.png)
 
 If an account under your email exists a warning is displayed that confirms that your account exists.
 
@@ -22,7 +22,7 @@ If an account under your email exists a warning is displayed that confirms that 
 
 If you enter the wrong username or password too many times you will either have to wait a period until next time you can try again or go to [https://hub.catenda.com/forgot-password](https://hub.catenda.com/forgot-password) to reset your password.
 
-![](images/03-too-many-login-requests.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/zw9p4shp/03-too-many-login-requests.png)
 
 ## 2. **Password confirmation**
 
@@ -40,7 +40,7 @@ and contains at least one of the following:
 - one lower case
 - one numeric character
 
-![](images/04-password-requirement.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/zw9p4shp/04-password-requirement.png)
 
 ### 2.2 **Forgot password**
 
@@ -50,22 +50,22 @@ If you are unable to log in, you can request a new password by going to [https:/
 
 When you are entering your new password for the second time to confirm it, please make sure you are entering the same password as you just entered.
 
-![](images/05-passwords-are-not-equal.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/zw9p4shp/05-passwords-are-not-equal.png)
 
 ### 2.4 **Old password not valid**
 
 If you are able to sign in, you can go to the [account authentication page](https://support.catenda.com/en/articles/6880968-account-page) to reset your password. Here you will first be asked for your old password. This is the password you used to sign in to your account. If you do not enter the right password you will see the following message:
 
-![](images/06-old-password-not-valid.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/zw9p4shp/06-old-password-not-valid.png)
 
 ### 2.5 **New password is the same**
 
 If your are changing your password, please make sure you enter a new password that is not the same as your previous password.
 
-![](images/07-new-password-is-the-same.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/zw9p4shp/07-new-password-is-the-same.png)
 
 ### 2.6 500 error when using SSO
 
 If you receive a 500 error after signing in with SSO, the email address provided by your Identity Provider may be different from the email address registered on your Catenda user account. Since no matching user can be found, the sign-in fails with a 500 error. Please contact your organization's IT administrator to verify which email address is being sent through SSO.
 
-![](images/08-500-error-when-using-sso.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/zw9p4shp/08-500-error-when-using-sso.png)

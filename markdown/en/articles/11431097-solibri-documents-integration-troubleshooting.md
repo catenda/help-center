@@ -8,11 +8,11 @@ Errors that can be encountered with the Solibri documents integration and how to
 
 It is possible to sign out of your account in the document selection menu.
 
-![](images/01-signing-out-during-up-download-not-recommended.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/01-signing-out-during-up-download-not-recommended.png)
 
 If you sign out here and sign back in the page will look like this instead:
 
-![](images/02-signing-out-during-up-download-not-recommended.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/02-signing-out-during-up-download-not-recommended.png)
 
 While you can access a different Catenda account from the one you have granted access to this way, it is not recommended. Access will not have been granted for that account and any models or documents that are navigated to will not be imported to Solibri.
 
@@ -20,7 +20,7 @@ While you can access a different Catenda account from the one you have granted a
 
 If you try to upload your smc to a revision that you do not have access to you will see the following warning.
 
-![](images/03-upload-no-access-to-document.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/03-upload-no-access-to-document.png)
 
 In this situation please ask a project administrator if they can give you access to the document.
 
@@ -28,7 +28,7 @@ In this situation please ask a project administrator if they can give you access
 
 If you try to create a new document in a folder where you only have read access you will see the following message.
 
-![](images/04-upload-no-access-to-folder.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/04-upload-no-access-to-folder.png)
 
 In this situation please ask a project administrator if they can give you at least write access to the folder.
 
@@ -40,7 +40,7 @@ Go to the applications page of our your Catenda Hub [account settings](https://i
 
 If you not longer wish to connect to the Catenda server, click disconnect.
 
-![](images/05-disconnect-from-the-catenda-server.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/05-disconnect-from-the-catenda-server.png)
 
 After disconnecting solibri will still have access to your account. If you wish to connect again later on you will not have to authenticate again.
 
@@ -74,13 +74,13 @@ The Solibri login data is stored in this folder so Solibri will have to be logge
 
 If you have opened your .smc from Catenda, the location in the project you opened it from will be remembered. When you later re-upload the .smc to Catenda and either the document has been moved or does not exist in the project you have navigated to, you will see the following message.
 
-![](images/06-requested-document-not-found.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/06-requested-document-not-found.png)
 
 ### 2.2 **No new revision**
 
 If you have opened a .smc from Catenda and upload it back to Catenda without making any changes, even if you have saved the smc somewhere, you will not be asked to save it first and it will seem like it gets uploaded. After uploading you will get the following message as expected:
 
-![](images/07-no-new-revision.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/07-no-new-revision.png)
 
 If your file had the same name as a document in the folder you will see that no new revision is added to that document in Catenda. Please try uploading your .smc again if this is the case.
 
@@ -92,7 +92,7 @@ If your file had a different name, but you selected a document for the revision 
 
 If you are trying to upload documents you could see the message that no files are selected.
 
-![](images/08-button-not-available.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/08-button-not-available.png)
 
 This can be the case when you have granted Solibri access to Catenda with one account, but are attempting to upload a .smc file with another account. To give access to a different account see [here](#h_0ef63a37db).
 
@@ -102,7 +102,7 @@ This can be the case when you have granted Solibri access to Catenda with one ac
 
 If you have selected a document, you could see an error in the right menu.
 
-![](images/09-error.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/09-error.png)
 
 This can be the case when you have granted Solibri access to Catenda with one account, but are attempting to download the document with another account. To give access to a different account see [here](#h_0ef63a37db).
 
@@ -110,7 +110,7 @@ This can be the case when you have granted Solibri access to Catenda with one ac
 
 With the documents integration, after navigating to and selecting an unsupported document on the documents page in a project you will see the following message in the right information menu.
 
-![](images/10-filetype-not-supported.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/10-filetype-not-supported.png)
 
 Attempting to download a document with a different extension will not have an effect.
 
@@ -118,4 +118,4 @@ Attempting to download a document with a different extension will not have an ef
 
 The account you are logged in with is different thant the acocunt you have granted access for.
 
-![](images/11-nothing-happens.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ah50b5kr/11-nothing-happens.png)

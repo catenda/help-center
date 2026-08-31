@@ -8,7 +8,7 @@ In the heat of data transfer, simple mistakes are sometimes made by uploading th
 
 You will be able to find the option in the [right menu of a revision](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document) and can look something like this:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/hhtwytcy/01-intro.png)
 
 With the **'withdraw revision'** function, you will be able to:
 
@@ -24,11 +24,11 @@ With the **'withdraw revision'** function, you will be able to:
 
 The revision is only displayed as withdrawn. This does not mean that it has been deleted. However, it can no longer be displayed. This action is now also displayed in the history.
 
-![](images/02-withdrawn-revision-appearance.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/hhtwytcy/02-withdrawn-revision-appearance.png)
 
 If you now click on the withdrawn revision, an error message will be displayed in the document viewer.
 
-![](images/03-withdrawn-revision-appearance.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/hhtwytcy/03-withdrawn-revision-appearance.png)
 
 > **Note:** **Important note: **If a revision is withdrawn, you will not being able to recover a withdrawn revision. It will have to be re-uploaded.
 

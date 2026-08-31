@@ -2,13 +2,13 @@
 
 The page of a milestone can be opened by clicking on a milestone on the [milestones page](https://support.catenda.com/en/articles/4670266-milestones-page). This is what the page of a milestone can look like:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/yx2925b3/01-intro.png)
 
 ## 1. **Actions**
 
 You will be able to find the following actions towards the top right of the page of a milestone:
 
-![](images/02-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/yx2925b3/02-actions.png)
 
 ### 1.1 **New milestone**
 

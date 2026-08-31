@@ -10,7 +10,7 @@ Files can be uploaded in four different ways. The file will end up in the folder
 
 To upload a new document or revision press the [+ button](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_7c8e07223e) on the top right. This will open the [upload document menu](#h_00fa77db3e).
 
-![](images/01-1-upload-button.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y90qfgry/01-1-upload-button.png)
 
 Uploading a file like this will let you choose if you want a new revision or a new document.
 
@@ -34,13 +34,13 @@ After uploading files they will appear in the current folder when uploading.
 
 By clicking the "Browse" button the systems file explorer opens and from here the file(s) to be uploaded can be chosen. Up to 100 files can be selected, [each up to 7GB\*](#h_09bc8fbe94), by holding shift or control.
 
-![](images/02-browse.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y90qfgry/02-browse.png)
 
 ### 2.2 **Drag & drop**
 
 Up to 100 files can be drag & dropped, [each up to 7GB\*](#h_09bc8fbe94), from the file explorer on your system.
 
-![](images/03-drag-drop.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y90qfgry/03-drag-drop.png)
 
 ### 2.3 **Folders**
 

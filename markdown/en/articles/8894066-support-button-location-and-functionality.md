@@ -2,11 +2,11 @@
 
 The black message button can be found on the top right next to your profile picture after logging in to Catenda Hub:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/h6ccqbtd/01-intro.png)
 
 On our support pages you will be able to find this button on the bottom right:
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/h6ccqbtd/02-intro.png)
 
 The following menus can be found after opening the support bubble:
 

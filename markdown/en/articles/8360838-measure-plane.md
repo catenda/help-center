@@ -10,7 +10,7 @@ You can create a measure plane by first selecting a surface, for instance a wall
 
 In the bottom left of the model viewer you can choose between the clipping planes. By left clicking on the plane you want. The plane will by outlined with green. With the plane selected you can drag to adjust it to where you want your measure plane to be. You will then see a measure option on the bottom left which you can choose to create a measure plane from the clipping plane.
 
-![](images/01-creating-a-measure-plane-from-a-clipping-plane.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/k9xpxhrc/01-creating-a-measure-plane-from-a-clipping-plane.png)
 
 ## 3. **Closing a measure plane**
 

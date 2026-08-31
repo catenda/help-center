@@ -22,11 +22,11 @@ If you are using AutoCAD Plant 3D you can install the object enabler for the ver
 
 It is possible to import a 3D DWG to Revit. Although Revit has a lot more options when it comes to exporting to IFC it is not ideal to export an imported 3D DWG to IFC. If you want to try to do this, the best way to do it is by importing the DWG to a family. If you try to import the DWG to a project you will see that some objects disappear if you explode the DWG. After importing the DWG to the family explode the family that the DWG has created. This is to make sure you can have separated objects in the IFC instead of one big object. Next load the family in a project and place it. You might not be able to select the family. This can be because you do not have the Select underlay elements checked in the dropdown menu under modify.
 
-![](images/01-revit.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3baydpf4/01-revit.png)
 
 With your placed family selected click on create parts in the top ribbon.
 
-![](images/02-revit.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3baydpf4/02-revit.png)
 
 You will now see that you are able to to select each part of the family individually in the project. Now you are ready to export your ifc by clicking on the export -> IFC in the top left menu. In the IFC export dialogue click on modify setup. In the modify setup dialogue navigate to the advanced tab. Here be sure to have Export parts as building elements checked.
 
@@ -36,7 +36,7 @@ At the moment there is no official way to export to IFC from Navisworks. It is p
 
 ## 1. **Export menu**
 
-![](images/03-export-menu.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3baydpf4/03-export-menu.png)
 
 1. Project Number
 1. Project Name

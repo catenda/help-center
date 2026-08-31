@@ -12,9 +12,9 @@ In this article you will find information about the following topics: - _[Add al
 
 2\. Add the organization members you would like to add to your projects.
 
-![](images/01-add-all-organization-members-to-a-project.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4fjqfv51/01-add-all-organization-members-to-a-project.png)
 
-![](images/02-add-all-organization-members-to-a-project.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4fjqfv51/02-add-all-organization-members-to-a-project.png)
 
 3\. Select all members with the checkbox on the top left.
 
@@ -22,11 +22,11 @@ In this article you will find information about the following topics: - _[Add al
 
 4\. Use the [add to projects](https://support.catenda.com/en/articles/8508311-users-page-organization-tool#h_8196c5add6) action button.
 
-![](images/03-add-all-organization-members-to-a-project.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4fjqfv51/03-add-all-organization-members-to-a-project.png)
 
 5\. Add the members you want to add in the dialogue that opens up.
 
-![](images/04-add-all-organization-members-to-a-project.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4fjqfv51/04-add-all-organization-members-to-a-project.png)
 
 ## 2. Add organization members to all projects in the organization
 
@@ -34,11 +34,11 @@ In this article you will find information about the following topics: - _[Add al
 
 2\. Select all projects with the checkbox on the top left.
 
-![](images/05-add-organization-members-to-all-projects-in-the-organization.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4fjqfv51/05-add-organization-members-to-all-projects-in-the-organization.png)
 
 3\. Use the [add new members](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool#h_c7ebf87db6) action button and select the organization members you would like to add.
 
-![](images/06-add-organization-members-to-all-projects-in-the-organization.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4fjqfv51/06-add-organization-members-to-all-projects-in-the-organization.png)
 
 ## 3. Change the role of project members in all projects at once
 
@@ -48,10 +48,10 @@ In this article you will find information about the following topics: - _[Add al
 
 You will see a row for each project that each filtered member is part of.
 
-![](images/07-change-the-role-of-project-members-in-all-projects-at-once.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4fjqfv51/07-change-the-role-of-project-members-in-all-projects-at-once.png)
 
 3\. Select all rows with the checkbox on the top left
 
 4\. Use the [change project role(s)](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool#h_678ea5e6dc) action to change the roles of the filtered members in all projects at once. 5\. Select the role you want the selected members to have and click change.
 
-![](images/08-change-the-role-of-project-members-in-all-projects-at-once.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4fjqfv51/08-change-the-role-of-project-members-in-all-projects-at-once.png)

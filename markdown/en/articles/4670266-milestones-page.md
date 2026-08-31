@@ -2,11 +2,11 @@
 
 The milestones page can be found as a sub page to the [topics page](https://support.catenda.com/en/articles/4670271-topics-page). On the milestones page you will be able to see which milestones that are available in the project.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/01-intro.png)
 
 This is what the milestones page can look like:
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/02-intro.png)
 
 This page contains information about the following topics: [Planning](#h_595c5ebf4c) - [Actions](#h_ef3bbf0441)​ - [Milestones list](#h_5403eb541f)
 
@@ -24,7 +24,7 @@ Milestones can work as a tool to set more than one due date. When you set a due 
 
 Towards the top right of the page you will be able to find the following actions:
 
-![](images/03-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/03-actions.png)
 
 ### 2.1 New milestone
 
@@ -38,7 +38,7 @@ Click this action to see which milestones have been archived in the project.
 
 In the milestones list you will see an overview of each of the milestones that are part of the project. The milestones list can look something like this:
 
-![](images/04-milestones-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/04-milestones-list.png)
 
 Click anywhere on the milestone to open the page for that milestone. For each milestone you will see the following information
 

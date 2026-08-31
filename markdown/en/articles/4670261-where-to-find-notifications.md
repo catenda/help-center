@@ -4,7 +4,7 @@ You will find the notifications button in the main menu or in the top right of t
 
 The one in the top right corner of the screen shows gives you [notifications off all projects you are apart of](https://bimsync.com/notifications). The one in the left navigation menu
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwfkbb29/01-intro.png)
 
 shows you notifications of the project that you are in.
 

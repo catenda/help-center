@@ -58,13 +58,13 @@ Find Desktop Connector in the list and click on the action menu on the right han
 
 When the Desktop Connector is first opened a sign in request is displayed. Click on the Sign-in button to open the default browser on the system on the Catenda Sign-in page. After logging in or if already logged in click on allow access to grant access to Catenda account that is logged in. After clicking on allow access the browser will prompt the user to open the Desktop Connector application. Giving permisison to opening the application redirects back to the Desktop Connector [home page](#h_097078145d).
 
-![](images/01-sign-in.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/01-sign-in.png)
 
 ## 5. **Home page**
 
 This is wht the Desktop Connector can look like when it is started up with a valid login:
 
-![](images/02-home-page.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/02-home-page.png)
 
 ### 5.1 **Wake up PC**
 
@@ -78,19 +78,19 @@ To run the desktop connector on startup, select this option
 
 Click on the log out button on the bottom right to log out.
 
-![](images/03-log-out.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/03-log-out.png)
 
 ## 6. **Project list**
 
 An overview of the projects that the account had access to the last time the projects list was loaded in is displayed. For each project the number of up- and download tasks that are configured are shown.
 
-![](images/04-project-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/04-project-list.png)
 
 ### 6.1 **Synchronize button**
 
 If a project was recently joined, click click this synchronize button to load in the new list of projects that the logged-in account is part of.
 
-![](images/05-synchronize-button.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/05-synchronize-button.png)
 
 ### 6.2 **Name**
 
@@ -108,7 +108,7 @@ The amount of download tasks that are active for this project
 
 Schedule a periodic uplaod of files from your system to Catenda Hub with this task.
 
-![](images/06-upload-task.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/06-upload-task.png)
 
 ### 7.1 **Title - Required**
 
@@ -132,7 +132,7 @@ Tasks do not have to be saved to start the upload process. Click on the upload n
 
 Schedule a periodic download of files from Catenda Hub to the local system.
 
-![](images/07-download-task.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/07-download-task.png)
 
 ### 8.1 **Title - Required**
 
@@ -156,13 +156,13 @@ A task does nto have to be saved to start downloading. Click on the Download now
 
 Click on the arrow button to go back to the [home page](#h_097078145d)
 
-![](images/08-back-button.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
 ## 9. **Server location**
 
 Click on browse in the project location are of an upload or download task to start browsing the directory path of the Catenda project. The Choose directory path dialogue will open up. Once opened it will start downloading all folder names in the project and their heirarchy. For download tasks document names are downloaded as well. While the downloading is onging the dialogue can look like this:
 
-![](images/09-server-location.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/09-server-location.png)
 
 Especially for download tasks, if there are many folders and documents it can take a couple of minutes for this process to finish. Please make sure enough memory is available on the local system for this step.
 
@@ -170,23 +170,23 @@ Especially for download tasks, if there are many folders and documents it can ta
 
 **Directory actions** After the folders have loaded in the dialogue can look something like this:
 
-![](images/10-server-location.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/10-server-location.png)
 
 Click on the arrow next to a folder to expand it. Documents are only available in this view for download tasks.
 
 **Folder select** Click on a folder to select it. For download tasks multiple folders can be selected while for upload tasks only one folder can be selected at a time.
 
-![](images/11-server-location.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/11-server-location.png)
 
 After a folder is selected it appears as whilte with a checkmark. Any subfolders to the selected folder will appear struck through as it is only possible to select folders at the same level. Towards the top the amount of selected items are displayed.
 
 **Download task** If there are documents in the selected folder or its subfolders all folders in the path between the selected folder and the document will be created. The document is then downloaded to that folder. If a subfolder does not contain and documents the subfolder will not be created even though it may be checked in this dialogue. It is not possible to uncheck a subfolder to not download part of a folder structure. To only download some folders, select them individually like in the image below:
 
-![](images/12-server-location.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/12-server-location.png)
 
 Document select Click on a document to select it
 
-![](images/13-server-location.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/13-server-location.png)
 
 When individual documents are selected the documents will be downloaded as a flat list directly to the selected local path without the hierarchy of the folders those documents are in.
 
@@ -196,7 +196,7 @@ When individual documents are selected the documents will be downloaded as a fla
 
 Here the up- and download tasks that are configured in this installation for the logged-in user can be seen.
 
-![](images/14-task-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/14-task-list.png)
 
 ### 10.1 **Name**
 
@@ -218,7 +218,7 @@ The status of this task.
 
 Click this button to go back to the [home page](#h_097078145d)
 
-![](images/08-back-button.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/08-back-button.png)
 
 ## 11. **Log Folder**
 

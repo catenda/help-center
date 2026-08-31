@@ -4,7 +4,7 @@ The search and filter option can be found in the top part of the window. By writ
 
 This is what the search or filter menu can look like on the members and teams page:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/sebc204e/01-intro.png)
 
 ## 1. **Filters**
 

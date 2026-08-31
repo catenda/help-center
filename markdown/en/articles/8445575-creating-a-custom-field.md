@@ -2,7 +2,7 @@
 
 Administrators will be able to make new custom fields by clicking on the "New custom field" button on the [custom fields page](https://support.catenda.com/en/articles/6550459-custom-fields-page). After clicking the New custom field button a window opens where you can select which custom field you would like to create.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vvzhr330/01-intro.png)
 
 ## 1. **Field name**
 

@@ -8,13 +8,13 @@ There are several ways to configure the content of the 2D viewer to suit your ne
 
 The lines that are generated for each storey when the model is processed stay linked to the 3D object that was sliced through when the lines were generated.
 
-![](images/01-highlighting-selected-objects.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3bzb6a32/01-highlighting-selected-objects.png)
 
 When an object is selected in the 3D viewer, if a storey of that model is enabled in the 2D viewer that was generated on the height where this object exists, the object will also be highlighted in the 2D viewer. Object slices are generated at one meters above the height that is set for each of the storeys in the ifc file are generated. Elevation offsets like the elevation in IFCSite are not taken into account.
 
 In the example below the storey "Ground Floor" is at 0 meters. Walls with a base height of 0 and different top heights are displayed.
 
-![](images/02-highlighting-selected-objects.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3bzb6a32/02-highlighting-selected-objects.png)
 
 As can be seen only the walls that are 1 meter and above are displayed in the 2D viewer.
 
@@ -30,7 +30,7 @@ It is possible to underlay a PDF from the documents section with the [storey con
 
 With [markers enabled](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098) topics with location are displayed as colored circles at an x-y coordinate. This is what a 2D view with different markers can look like in the browser:
 
-![](images/03-markers-in-the-2d-viewer.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3bzb6a32/03-markers-in-the-2d-viewer.png)
 
 Click [here](https://support.catenda.com/en/articles/4854523-2d-location-of-issues) to read more about the 2D location of topics.
 

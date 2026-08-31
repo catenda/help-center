@@ -24,7 +24,7 @@ If you have sorted the topics in your topics board in any way, the order the top
 
 The downloaded PDF will contain a front page. Here you will see the profile picture of the project along with the following export details: The front page can look something like this:
 
-![](images/01-front-page.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/nx64p9qh/01-front-page.png)
 
 ### 2.1 **Project name**
 
@@ -46,7 +46,7 @@ Below the topics that are part of this export will be listed. Clicking the name 
 
 A page for every topic with all the detail of each topic will be added after the front page. A typical topic page can look something like the following:
 
-![](images/02-topic-pages.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/nx64p9qh/02-topic-pages.png)
 
 ### 3.1 **Title**
 

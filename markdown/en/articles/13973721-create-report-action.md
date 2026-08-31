@@ -2,13 +2,13 @@
 
 The create report action is made available for projects where the opt-in reports feature has been requested to be enabled. When the reports feature is enabled on a project the Create report action becomes available in the documents and topics table actions. Select one or more elements in the documents table and open up the [documents table action menu](https://support.catenda.com/en/articles/4670288-documents-table-actions). Select one or more elements in the topics table and open up the [topics table action menu](https://support.catenda.com/en/articles/4670284-topics-table-actions). This is what the create report action can look like:
 
-<img alt="" src="images/inline-ef841bc1c2c3.png" width="290"/>   \<->   <img alt="" src="images/inline-0c1ebf646ff6.png" width="290"/>
+<img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/inline-ef841bc1c2c3.png" width="290"/>   \<->   <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/inline-0c1ebf646ff6.png" width="290"/>
 
 ## 1. Choose export options
 
 When the create report action is clicked the generate report dialogue will open up:
 
-![](images/01-choose-export-options.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/01-choose-export-options.png)
 
 > **Note:** For reports created on selected items in the documents table beware that only documents items are included in the report and not folder items.
 
@@ -28,7 +28,7 @@ Click continue to open the report on the reports page.
 
 This is what the new report page can look like:
 
-![](images/02-new-report-page.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/02-new-report-page.png)
 
 ### 2.1 **Select report template**
 
@@ -38,7 +38,7 @@ Choose a pre-defined report based on the list of report templates that the proje
 
 **Save** This is what the save menu can look like:
 
-![](images/03-new-report-toolbar.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/03-new-report-toolbar.png)
 
 > **Note:** Make sure the browser scale is zoomed to the right scale to see the whole menu.
 
@@ -50,11 +50,11 @@ Click on a format to open the export settings menu.
 
 **Export settings** This is what the export settings menu can look like for the Adobe PDF file format:
 
-![](images/04-new-report-toolbar.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/04-new-report-toolbar.png)
 
 Click ok to save the report as a document somewhere in the documents library on Catenda from where it can be downloaded. _Save the report file_ To be able to download the report it has to be saved somewhere in the document structure of Catenda first. Choose the folder where you want to save the report, rename your report if necessary, and then click "Download".
 
-![](images/05-new-report-toolbar.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/05-new-report-toolbar.png)
 
 The save document menu remembers the previous folder that was selected and only has to be configured once if the same folder is used every time.
 
@@ -64,10 +64,10 @@ A preview of the report is generated according to the default template.
 
 **Topics report** This is what a topics report can look like:
 
-![](images/06-report-preview.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/06-report-preview.png)
 
 **Documents report** This is what a documents report can look like:
 
-![](images/07-report-preview.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/07-report-preview.png)
 
 Report templates are configured on the report templates page. _Saving report access required:_ Read access anywhere in the documents area. _Template configuration access required:_ Administrator

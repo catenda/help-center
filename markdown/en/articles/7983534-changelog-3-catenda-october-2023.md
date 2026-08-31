@@ -89,7 +89,7 @@ Thanks to your valuable feedback we have been able to squash many issues that yo
 
 - Lithuanian language is now available.
 
-    <div class="intercom-container"><img alt=":flag-lt:" src="images/inline-ae369a463875.png" width="22"/></div>
+    <div class="intercom-container"><img alt=":flag-lt:" src="https://raw.githubusercontent.com/catenda/help-center/main/images/1zszs46s/inline-ae369a463875.png" width="22"/></div>
 
 ## 3. **New releases** - Catenda Site, Plugins and integrations
 

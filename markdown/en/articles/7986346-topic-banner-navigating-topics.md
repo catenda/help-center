@@ -2,13 +2,13 @@
 
 If you select an topic from an [topic board](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) a new window will appear for that topic. This is what an topic window can look like:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/01-intro.png)
 
 1\. The topic banner will be described in this article. 2\. You will find the topic banner above the [Topic header](https://support.catenda.com/en/articles/8400566-issue-header). 3\. To the right of the topic header and body you will find the [right information panel](https://support.catenda.com/en/articles/8053299-issue-right-panel). 4\. Below the header of an topic you will find the [topic body](https://support.catenda.com/en/articles/8053352-issue-body).
 
 ## 1. **Breadcrumbs**
 
-![](images/02-breadcrumbs.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/02-breadcrumbs.png)
 
 ### 1.1 **Topics**
 
@@ -24,7 +24,7 @@ The Catenda Hub topic number and title of the topic. Every new topic in the proj
 
 ## 2. **Topic navigation**
 
-![](images/03-topic-navigation.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/03-topic-navigation.png)
 
 _Back to button_ - Get taken back to the part of Catenda Hub you were last looking at _Progress bar_ - Shows the topics you can navigate to
 
@@ -34,11 +34,11 @@ _Previous and next buttons_ - Go to the previous or next topic in the filtered t
 
 ## 3. **Top buttons**
 
-![](images/04-top-buttons.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/04-top-buttons.png)
 
 _New topic_ - Create a [new topic](https://support.catenda.com/en/articles/4670268-creating-a-new-issue) _Clone topic_  - Make a copy of this topic You will want to clone an topic when you want to make a similar topic that is slightly different to the current topic. It is not recommended to make multiple of the same topic and assign each to a different person. Instead you will want to [mention](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) the different members you want to add to the topic with @member.
 
-![](images/05-top-buttons.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/05-top-buttons.png)
 
 - The header and description in the cloned topic will be the same as in the current topic
 - _Include documents_

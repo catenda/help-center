@@ -2,11 +2,11 @@
 
 You will be able to find the notifications page as the second page in the left navigation menu in Catenda Hub. On the [notifications](https://bimsync.com/notifications) page you will find all notifications that have been delivered to you from all projects.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rwdesfej/01-intro.png)
 
 On the left of the notifications page you will see your latest notifications and on the right you will be able to filter these notifications.
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rwdesfej/02-intro.png)
 
 ## 1. **Filtering and functionality**
 

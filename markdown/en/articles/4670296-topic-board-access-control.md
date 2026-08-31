@@ -6,7 +6,7 @@ You will be able to find the access control of a topic board by clicking on [edi
 
 The edit access control dialogue can look something like this:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/66bsqhfn/01-intro.png)
 
 ## 1. **Topic board information**
 
@@ -96,4 +96,4 @@ Let the owner close their own topic as only they know best if everything was han
 
 This is what the access control dialogue can look like after it has been configured:
 
-![](images/02-configured-example.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/66bsqhfn/02-configured-example.png)

@@ -4,7 +4,7 @@
 
 An invitation is sent to you via email by Catenda with a link to the next steps of registration. Using this link you can create an account with your personal credentials.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/m6qttvze/01-intro.png)
 
 After your registration is complete, you can access your projects on Catenda Hub from any web browser. [https://hub.catenda.com/signin](https://hub.catenda.com/signin)
 

@@ -13,18 +13,18 @@ To apply user-defined fields to documents, proceed as follows:
 1. Creates the desired user-defined field
 1. Assigns the created user-defined field to one or more folders
 
-    <div class="intercom-container"><img src="images/inline-ba695fa6aebd.png" width="496"/></div>
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-ba695fa6aebd.png" width="496"/></div>
 
 1. Defines whether the user-defined field is to be assigned for a document (across revisions) or for each individual revision
 
-    <div class="intercom-container"><img src="images/inline-20eab3b097ce.png" width="500"/></div>
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-20eab3b097ce.png" width="500"/></div>
 
 1. Sets default values, if desired
 
-    <div class="intercom-container"><img src="images/inline-7241dd9f32dd.png" width="500"/></div>
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-7241dd9f32dd.png" width="500"/></div>
 
 1. In the document area, you can now recognize the assigned user-defined field on the document under the folders in the document information.
 
-    <div class="intercom-container"><img src="images/inline-f4243a01e272.png" width="500"/></div>
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-f4243a01e272.png" width="500"/></div>
 
 > **Note:** Custom fields are also available in the filter area or the search bar.

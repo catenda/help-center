@@ -2,7 +2,7 @@
 
 The organizations page can be found as the last page in the left navigation menu on the main page or by going to [https://hub.catenda.com/orgs](https://hub.catenda.com/orgs)
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/v5hzcvsx/01-intro.png)
 
 In the case of a test or trial project some Catenda projects can be owned by a single member, but often projects are owned by an organization. See which organization your project belongs to by filtering the [owner dropdown](https://support.catenda.com/en/articles/8400797-projects-page#h_5e76dedd21) on the [projects page](https://support.catenda.com/en/articles/8400797-projects-page) for different organizations. A Catenda customer can have one or more organizations in which their projects are organized.
 
@@ -10,7 +10,7 @@ In the case of a test or trial project some Catenda projects can be owned by a s
 
 In the organization list, owners of an organization can see the different organizations that are available to them. This is what the organizations list can look like:
 
-![](images/02-organizations-list.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/v5hzcvsx/02-organizations-list.png)
 
 The organizations list is sorted in descending order by default but can be sorted in ascending order by clicking on Name at the top of the list. While organizations can have members in addition to owners, only the owners see the organization in this list. If the organization has not reached its limit organization owners are able to create projects in the organization on the new projects page.
 

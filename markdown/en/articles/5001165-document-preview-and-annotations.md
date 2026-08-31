@@ -4,7 +4,7 @@
 
 New in Catenda Hub is our comprehensive annotation feature. The feature brings the power of our issue management system to Documents, so that Catenda Hub users can enjoy precise commenting, showing where documents and drawings need change and additional information, just like you do using models and viewpoints today.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ezpb53st/01-intro.png)
 
 The document banner will be described in this article and spans across the top of the document page
 
@@ -18,7 +18,7 @@ The document banner will be described in this article and spans across the top o
 
 Annotation tools have been added to our document viewer:
 
-![](images/02-annotation-toolbar.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ezpb53st/02-annotation-toolbar.png)
 
 You can draw freehand, add shapes, text and call-outs, highlight text and measurements. Click [here](https://support.catenda.com/en/articles/11384618-document-preview-tools) to read more about how the different annotation tools work.
 

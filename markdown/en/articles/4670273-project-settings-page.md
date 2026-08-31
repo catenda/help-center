@@ -2,13 +2,13 @@
 
 You will be able to find the project settings page as the last page of the left navigation menu in a project. This page is part of the content panel. Here you will be able to find settings that have to do with more than one project area.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/01-intro.png)
 
 ## 1. **Project owner**
 
 This is what the project owner menu can look like:
 
-![](images/02-project-owner.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/02-project-owner.png)
 
 There can only be one project owner. For most projects the owner of the project is the organization of the client that the project belongs to. Organizations are often called by the name of the client followed by the type of organization it is. What the organization is called is up to each organization owner, but they will often be called something like "Business A - Running projects", "Business B - Archive" or "Business C - Admin and templates" Organizations can be owned by multiple people who then have an overview of all the projects in that organization. Organization owners can also move projects from the [projects page in the organization tool](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool) without having to be part of the project.
 
@@ -20,7 +20,7 @@ If you are the owner of this organization and also other organizations, you will
 
 This is what the new project menu can look like:
 
-![](images/03-project-details.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/03-project-details.png)
 
 ### 2.1 **Project details**
 
@@ -38,7 +38,7 @@ Here you can enter a description of the project _Access required:_ Project admin
 
 The measurement units menu can look something like this:
 
-![](images/04-measurement-units.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/04-measurement-units.png)
 
 Configure what units you want to use to use in your project
 
@@ -55,7 +55,7 @@ The selected measurement unit will be used by default for project members when m
 
 The default models folder menu can look something like this:
 
-![](images/05-default-models-folder.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/05-default-models-folder.png)
 
 With [models as documents](https://support.catenda.com/en/articles/8064548-models-as-documents) every model is linked to a document in the document section. When you create a model you will therefore be asked where in the document structure you want the document to end up. If you create models via the API, the documents that will be linked for each model will need a place in the document section. If no default folder is specified a folder called models will appear if a model is created via the API. By default all users will have write access to the auto-generated folder.
 
@@ -63,7 +63,7 @@ With [models as documents](https://support.catenda.com/en/articles/8064548-model
 
 The delete projects menu can look something like this:
 
-![](images/06-delete-project.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/06-delete-project.png)
 
 Click the delete project button and write in the exact name of the project to confirm that you want to delete it. Organization owners can also delete the project from the [projects page in the organization tool](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool) without having to be part of the project. If you do not see this option and wish to delete your project please contact support. _Access required:_ Organization or project owner
 
@@ -73,11 +73,11 @@ Click the delete project button and write in the exact name of the project to co
 
 The access control menu can look something like this:
 
-![](images/07-access-control.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/07-access-control.png)
 
 Here you will be able to control actions that are project wide. Click on each of the menus to open them.
 
-![](images/08-access-control.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/08-access-control.png)
 
 Click on edit access to change the access of each setting. _Access required:_ Administrator
 
@@ -103,7 +103,7 @@ _Default access:_ All users - Write [Create and remove models](https://support.c
 
 The geoloaction menu can look something like this:
 
-![](images/09-geolocation.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/09-geolocation.png)
 
 Here you can configure a visual representation of where the project exists in the world.
 
@@ -125,7 +125,7 @@ If a location has been set members will see a pin for this project on their [map
 
 The logo menu can look something like this:
 
-![](images/10-logo.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/10-logo.png)
 
 If you upload a logo here, it will replace the Catenda logo on the top left of every topic PDF export page when you [export topics to PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf#h_77568077c7) from a topic board.
 

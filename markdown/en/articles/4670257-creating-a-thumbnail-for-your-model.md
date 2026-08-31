@@ -10,6 +10,6 @@
 
 5\. Press save.
 
-![Snag_665ab2.png](images/01-intro.png)
+![Snag_665ab2.png](https://raw.githubusercontent.com/catenda/help-center/main/images/ez137xtp/01-intro.png)
 
 You will now have a thumbail of the model in the model overview. You can also upload any image you want to have as a model thumbail.

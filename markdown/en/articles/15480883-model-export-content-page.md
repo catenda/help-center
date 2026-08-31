@@ -2,7 +2,7 @@
 
 Click on the card of an export in the exports list on the [model exports page](https://support.catenda.com/en/articles/4670280-model-export) to go to the content page for that export. This is what the model export content page can look like:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3ajw00qp/01-intro.png)
 
 ## 1. **Download**
 
@@ -32,7 +32,7 @@ The export information can include the following information:
 
 The revisions list contains a list of all model revisions in the export. This is what an included revision card can look like.
 
-![](images/02-revisions-included-in-this-export.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3ajw00qp/02-revisions-included-in-this-export.png)
 
 Click on the included revision card to open the [included revisions contents page](#h_e68c2c044b).
 
@@ -56,7 +56,7 @@ The included revision row can include the following information:
 
 Click on an included revision in the list of included revisions in an export to see the content page for that revision. This is what the content page of an included revision can look like:
 
-![](images/03-included-revision-content-page.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3ajw00qp/03-included-revision-content-page.png)
 
 The included revision content page can include the following information:
 

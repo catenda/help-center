@@ -8,7 +8,7 @@ Creating a custom field will let you add it to an issue board. Issues in this bo
 
 Administrators will be able to find action buttons on the top right of the content page of a custom field.
 
-![](images/01-new-item-action-menu.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/01-new-item-action-menu.png)
 
 _New custom field_ Click on the green plus button towards the top right or the New custom field action in the action menu to make a [new custom field](https://support.catenda.com/en/articles/8445575-creating-a-custom-field)
 
@@ -20,7 +20,7 @@ Instead of deleting custom fields can only be Archived. An archived custom field
 
 A date field displays a date on the georgian calendar. The date is displayed in the format that is configured on the account page for each member.
 
-![](images/02-date-custom-field.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/02-date-custom-field.png)
 
 This field can be used to register the date of original creation if the infromation was created some time before it was submitted to Catenda and the metadata is known but not reflected in the document metadata or the title.
 
@@ -28,7 +28,7 @@ This field can be used to register the date of original creation if the infromat
 
 A decimal number field displays up to 6 numbers after the comma. If there are more than 6 numbers after the comma scientific notation will be used.
 
-![](images/03-decimal-number-custom-field.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/03-decimal-number-custom-field.png)
 
 This field is often used to register amounts such as material cost or budget impact.
 
@@ -38,23 +38,23 @@ This field is often used to register amounts such as material cost or budget imp
 
 To go the the custom field page of a dropdown field, click on a dropdown field.
 
-![](images/04-dropdown-custom-field.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/04-dropdown-custom-field.png)
 
 When a dropdown custom field is first created you will automatically be taken to this page. A dropdown custom field page can look something like this:
 
-![](images/05-dropdown-custom-field.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/05-dropdown-custom-field.png)
 
 ### 4.1 **Title and description**
 
 Administrators will be able to change the title and description of the field by clicking on the pencil.
 
-![](images/06-title-and-description.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/06-title-and-description.png)
 
 ### 4.2 **Active and disabled tabs**
 
 Below the description, the Active tab is enabled by default. Click on the disabled tab to view dropdown values that have previously been disabled.
 
-![](images/07-active-and-disabled-tabs.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/07-active-and-disabled-tabs.png)
 
 **Restore** Use the restore action to restore a previously disabled dropdown value
 
@@ -84,11 +84,11 @@ Here you will be able to find all the options that are currently disabled. Admin
 
 After creation, a dropdown custom field will not have any options yet. Administrators will be able to add options by clicking on the add options button on the bottom left
 
-![](images/08-adding-an-option.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/08-adding-an-option.png)
 
 After clicking on add options you will see the following dialogue:
 
-![](images/09-adding-an-option.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/09-adding-an-option.png)
 
 _Name_ Here you can add a name and a code for each dropdown option.
 
@@ -132,7 +132,7 @@ Dropdown custom fields have a limit selecting one options from up to 1000 option
 
 An integer custom field displays whole numbers.
 
-![](images/10-integer-custom-field.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/10-integer-custom-field.png)
 
 Only whole numbers are allowed with this field and no decimals. This is often used to register occurrences.
 
@@ -142,7 +142,7 @@ Only whole numbers are allowed with this field and no decimals. This is often us
 
 A text custom field displays a string of text.
 
-![](images/11-text-custom-field.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/11-text-custom-field.png)
 
 The text is displayed in a single line. A good example of a text field is a field called comment that can be filled out and seen from the table view. In naming conventions it is often used to limit so a certain amount of characters allowed for a filed in a document title.
 

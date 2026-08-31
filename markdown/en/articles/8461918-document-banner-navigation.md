@@ -2,7 +2,7 @@
 
 If you select a document on the [documents page](https://support.catenda.com/en/articles/8204673-documents-page) or in a library a new window will appear for that document. You will always see the latest revision when opening a document. The document page can look something like this:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/01-intro.png)
 
 1. The document banner will be described in this article and spans across the top of the document page
 1. You will find the document header below the document banner and above the document preview
@@ -12,7 +12,7 @@ If you select a document on the [documents page](https://support.catenda.com/en/
 
 The document banner can look something like this:
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/02-intro.png)
 
 ## 1. **Breadcrumbs**
 
@@ -36,7 +36,7 @@ The progress bar displays the amount of documents in the folder that this docume
 
 Document actions can be found towards the top right of the document and can look something like this:
 
-![](images/03-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/03-actions.png)
 
 Read more about what the different document actions do [here](https://support.catenda.com/en/articles/4670288-actions-documents#h_16671d6fc5).
 
@@ -44,13 +44,13 @@ Read more about what the different document actions do [here](https://support.ca
 
 In the right information menu you will be able to find all information about the document. Click [here](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document) to read more about the right information menu in the documents section.
 
-![](images/04-right-information-menu.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/04-right-information-menu.png)
 
 ## 5. **Fullscreen**
 
 Click the fullscreen button to the right of the right information menu button to see the document in fullscreen.
 
-![](images/05-fullscreen.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/05-fullscreen.png)
 
 ## 6. **Frequently asked questions**
 

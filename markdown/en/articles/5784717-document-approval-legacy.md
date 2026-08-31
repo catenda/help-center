@@ -6,7 +6,7 @@ This feature provides the ability to create a Document Approval workflow.
 
 The picture below describes the steps necessary to have the process in place on your project.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/xan46xhc/01-intro.png)
 
 1. Activate the [Status workflow](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) in your [Document library settings](https://support.catenda.com/en/articles/7831371-document-settings)
 1. [Edit](https://support.catenda.com/en/articles/7831371-document-settings#h_c580374cfc) the available statuses to your need

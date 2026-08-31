@@ -2,11 +2,11 @@
 
 Select a topic from an [topic board](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) a to open the topic page of the topic. This is what the [topic banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) on the topic page can look like:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/aczt44d1/01-intro.png)
 
 The [topic header](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) can be found below the banner and will be discussed in this article:
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/aczt44d1/02-intro.png)
 
 Below the topic header the [topic body](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic) can be found with description and comments. To the right of the topic body and header the [right information panel](https://support.catenda.com/en/articles/8053299-issue-right-panel) can be found. Click on th information icon in the topic banner to expand the right infomraiton panel.
 
@@ -97,7 +97,7 @@ Due dates and milestones can help you track progress on the [statistics page](ht
 
 When setting a due date or milestone
 
-![Setting a due date relative to now](images/03-due-date-and-milestone.png)
+![Setting a due date relative to now](https://raw.githubusercontent.com/catenda/help-center/main/images/aczt44d1/03-due-date-and-milestone.png)
 
 The icon is the following color when the due date or milestone is set at this time:
 
@@ -109,7 +109,7 @@ The icon is the following color when the due date or milestone is set at this ti
 
 A set due date or milestone works the same but is described differently.
 
-![Observing a due date at a set time](images/04-due-date-and-milestone.png)
+![Observing a due date at a set time](https://raw.githubusercontent.com/catenda/help-center/main/images/aczt44d1/04-due-date-and-milestone.png)
 
 The icon for a due date or for a milestone is the following color when it:
 
@@ -121,7 +121,7 @@ The icon for a due date or for a milestone is the following color when it:
 
 When a topic is closed the icon of a due date or a milestone is dim gray.
 
-![](images/05-due-date-and-milestone.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/aczt44d1/05-due-date-and-milestone.png)
 
 **Due date** If there is an idea of when the content of the topic is due, set a due date or leave it blank. It is often good to set a due date even if it is not clear exactly when the content of the topic is due. The due date can always be changed later. By getting in the habit of setting due dates the planning can be informed. The more timeframes are speculated the more project members can anticipate.
 

@@ -16,6 +16,6 @@ Here is what’s new in this version:
 
 - Boost in performance for all Android devices
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qhwzdvfd/01-intro.png)
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qhwzdvfd/02-intro.png)

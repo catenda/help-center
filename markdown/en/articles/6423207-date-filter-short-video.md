@@ -2,4 +2,4 @@
 
 How to filter your **issues** and **documents** by date is here  👇
 
-![](images/01-intro.gif)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/1eh483ys/01-intro.gif)

@@ -40,7 +40,7 @@ The "Name" column meant different things in Documents vs. Models — which was c
 
 **Current situation, comparing the Document section and the Model section**
 
-![](images/01-consistent-column-naming-across-documents-models.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/smbb0drk/01-consistent-column-naming-across-documents-models.png)
 
 ## 3. **Enabling on-demand features**
 

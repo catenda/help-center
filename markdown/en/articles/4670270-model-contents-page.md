@@ -2,17 +2,17 @@
 
 To see an overview of the revisions in a model, go to the [models page](https://support.catenda.com/en/articles/4670286-models-page), and click on a model. You will then be directed to the overview page that belongs to that model. The model revision overview shows us the model revisions present in the project. By clicking on a model revision one will be directed to the revisions page. One can then click on "Import" and upload a new revision model.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/01-intro.png)
 
 ## 1. **Existing item actions**
 
 The following action can be seen on the top right of the model overview page.
 
-![](images/02-existing-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/02-existing-item-actions.png)
 
 The following actions can be found for each revision.
 
-![](images/03-existing-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/03-existing-item-actions.png)
 
 Click [here](https://support.catenda.com/en/articles/9674157-actions-on-the-model-overview-page) to read more about what each action does.
 
@@ -24,7 +24,7 @@ You will be able to find information about the model its right information menu.
 
 Click on the pencil icon to change the name of the model
 
-![](images/04-model-name.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/04-model-name.png)
 
 ## 4. **Revisions**
 
@@ -32,7 +32,7 @@ Click on the pencil icon to change the name of the model
 
 If there are no revisions in your model yet, you will be able to click on browse to import your first revision.
 
-![](images/05-revision-import.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/05-revision-import.png)
 
 You can also drag & drop to import a new revision or use the new revision action in the existing item actions menu. _Access required:_ uploading model revisions from in [project settings](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3)
 
@@ -48,13 +48,13 @@ In the past you used to be able to add comments (brief explanation to the projec
 
 It is possible to open specific models in 2D and 3D by clicking on their respective buttons.
 
-![](images/06-open-revision-in-viewer.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/06-open-revision-in-viewer.png)
 
 ### 4.4 **Downloading a revision**
 
 Click on the download button to download the latest revision of a model.
 
-![](images/07-downloading-a-revision.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/07-downloading-a-revision.png)
 
 _Access required:_ Read access to the document-model
 

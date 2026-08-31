@@ -10,7 +10,7 @@ To recover the archived value, it is possible to follow this sequence:
 
 **Restore the archived value** The **Disabled list** is accessed, and the **Restore** action is selected for the required item.
 
-![](images/01-unable-to-restore-archived-dropdown-option.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b99swgb4/01-unable-to-restore-archived-dropdown-option.png)
 
 **Correct the data** The names and codes are adjusted to the correct state.
 
@@ -24,9 +24,9 @@ It is important to distinguish between the **Name** of an option and its **Code*
 
 It is only possible to assign a name to one option in a dropdown list. If a duplicate name error is displayed, the following steps are taken: _Access required:_ Administrator access
 
-![](images/02-duplicate-name-error.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b99swgb4/02-duplicate-name-error.png)
 
-![](images/03-duplicate-name-error.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b99swgb4/03-duplicate-name-error.png)
 
 **Active list verification** The list of active options is checked to confirm if the name is already in use.
 
@@ -40,9 +40,9 @@ It is only possible to assign a code to a single option within a dropdown custom
 
 If a duplicate code error is displayed:
 
-![](images/04-duplicate-code-error.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b99swgb4/04-duplicate-code-error.png)
 
-![](images/05-duplicate-code-error.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b99swgb4/05-duplicate-code-error.png)
 
 **Active list verification** The active list is checked to see if the code is already in use.
 
@@ -56,15 +56,15 @@ It is only possible to define a code during the initial creation of an option or
 
 **Editing restrictions** It is only possible to change the **Name** of an option after a code has been applied. The **Code** field will appear grayed out.
 
-![](images/06-modifying-existing-codes.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b99swgb4/06-modifying-existing-codes.png)
 
 Before application:
 
-![](images/07-modifying-existing-codes.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b99swgb4/07-modifying-existing-codes.png)
 
 After application:
 
-![](images/08-modifying-existing-codes.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b99swgb4/08-modifying-existing-codes.png)
 
 **Recovering a code** If a code is already in use by an archived item, it is only possible to use that specific code by first restoring the archived option from the disabled list. It is not possible to submit a new option with a code that is technically still held by a disabled item.
 
@@ -80,7 +80,7 @@ Specific constraints exist for integer fields that result in data entry errors:
 
 **Save button behavior** If there are any non-numeric characters present in the field, the save button is disabled.
 
-![](images/09-input-errors-for-integer-fields.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b99swgb4/09-input-errors-for-integer-fields.png)
 
 ## 7. **Board visibility and filtering**
 
@@ -90,8 +90,8 @@ If a custom field is not visible on an issue board, the following settings are v
 
 **Table view** It is only possible to view custom field data in a list format if the corresponding column is selected in the issue board table view.
 
-![](images/10-board-visibility-and-filtering.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b99swgb4/10-board-visibility-and-filtering.png)
 
-![](images/11-board-visibility-and-filtering.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b99swgb4/11-board-visibility-and-filtering.png)
 
 **Filter limits** It is only possible to filter for custom fields if there are up to 10 fields assigned.

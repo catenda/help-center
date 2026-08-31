@@ -2,7 +2,7 @@
 
 The search or filter option can be seen in the top part of the window. By writing the name of the model, the name of a label that is pinned to a model or the username of a member, the rows in the models table can be narrowed down. This is what the search or filter menu can look like on the models page:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qfd47nkw/01-intro.png)
 
 In the search bar you can search for any model that is available in the models table.
 

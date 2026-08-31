@@ -2,11 +2,11 @@
 
 The projects screen is the first screen you encounter after [signing in](https://support.catenda.com/en/articles/7891486-sign-in-page) to Catenda Hub. On the projects page you will see a complete list of all projects you are a member of.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/zazjw3t1/01-intro.png)
 
 This is what the projects page can look like:
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/zazjw3t1/02-intro.png)
 
 ## 1. **Open a project**
 
@@ -25,7 +25,7 @@ In the left menu you will be able see the following menus:
 
 If your current plan and access allows for it, you can [create a new project](https://support.catenda.com/en/articles/4670245-creating-a-new-project) by clicking the New project button.
 
-![](images/03-new-item-action-buttons.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/zazjw3t1/03-new-item-action-buttons.png)
 
 If you do not see the new project button towards the top right and want to create a new project, contact support by clicking on the black chat button next to your profile picture on the top right or send an email to [support@catenda.com](mailto:support@catenda.com) We will be happy to upgrade your plan and guide you through creating it.
 

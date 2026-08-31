@@ -4,7 +4,7 @@ The new Markup feature allows to regroup annotations which might be placed acros
 
 The diagram below illustrates how annotations are grouped under different markups which can then be [saved as comment](https://support.catenda.com/en/articles/10209740-saving-a-markup) under new or existing topics.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/01-intro.png)
 
 Please note the following:
 
@@ -22,7 +22,7 @@ When you want to point out something in a document there can be different ways o
 
 Each markup with annotations is communicated seperately.
 
-![](images/02-one-topic-per-markup.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/02-one-topic-per-markup.png)
 
 This can be good for markups that each are directed to one or more people. A topic can be created from each markup. Each topic can then be followed up on.
 
@@ -30,7 +30,7 @@ This can be good for markups that each are directed to one or more people. A top
 
 Keep all communication about the annotations you create in one place.
 
-![](images/03-all-markups-in-one-topic.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/03-all-markups-in-one-topic.png)
 
 This can be good for markups with general annotations that will all be followed up by one or more people. A topic should then be prepared in which you combine all your markups.
 
@@ -38,13 +38,13 @@ This can be good for markups with general annotations that will all be followed 
 
 Like before you are able to create annotations by navigating to the document in the [documents table](https://support.catenda.com/en/articles/8204673-documents-page#h_54e8dfcac2) and clicking on its name to see the [document preview](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations). Here you can choose an annotation tool from the toolbar. Click anywhere in the document to create the first annotation to start your markup:
 
-![](images/04-creating-annotations.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/04-creating-annotations.png)
 
 ## 3. **Markups tab**
 
 After having created some anotations you will see that you have [unsaved markups](https://support.catenda.com/en/articles/10209740-saving-a-markup) in the [markups tab of the right information panel](https://support.catenda.com/en/articles/10205725-right-menu-of-a-revision-markups).
 
-![](images/05-markups-tab.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/05-markups-tab.png)
 
 > **Note:** When you first open a document, its right menu might be closed. You can click on the information button on the bottom right of the [document banner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) to expand this menu. <div> <img alt="" src="https://downloads.intercomcdn.com/i/o/areracg3/1270347792/777089db2debcc2798747abdfa9a/image.png?expires=1787896800&amp;signature=eff1a9fc93b957650f799cedf50c8dc24008c6c7b6e4ad4821bc501b64143d44&amp;req=dSIgFsp6moZWW%2FMW3nq%2BgR8G5hzwbtgkOvimwm3Uz8ebxeLFcGwLaeDU5aaj%0AgA5k43gvQwW20UAk15u1u4etgjA%3D%0A" width="400" > </div>
 
@@ -52,7 +52,7 @@ After having created some anotations you will see that you have [unsaved markups
 
 Let's say that this markup was directed towards the Architect, but you also want to send out some changes for the structural engineer. You can then click on the new markup button to start preparing another markup. At this point, you can still go back to your previous markup and edit your previous markup
 
-![](images/07-multiple-markups-at-once.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/07-multiple-markups-at-once.png)
 
 ## 4. **Saving markups**
 
@@ -64,11 +64,11 @@ If you click [Save markups](https://support.catenda.com/en/articles/10209740-sav
 
 These topics can look something like this:
 
-![](images/08-save-each-markup-to-its-own-topic.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/08-save-each-markup-to-its-own-topic.png)
 
 If there are annotations on multiple pages in the documents there will be a [comment](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) with a screenshot of the annotation for each page that contains annotations.
 
-![](images/09-save-each-markup-to-its-own-topic.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/09-save-each-markup-to-its-own-topic.png)
 
 You can now assign each topic to the right person so they can start making the changes.
 
@@ -76,12 +76,12 @@ You can now assign each topic to the right person so they can start making the c
 
 If you would rather have all markups in one topic you can prepare a topic and click on the topic select dropdown and select an existing topic.
 
-![](images/10-br-save-all-markups-to-one-topic.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/10-br-save-all-markups-to-one-topic.png)
 
 Here you will see topics where the document [has been linked](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_b00b9c5150) and if there are any [comments](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) about this revision. If there are annotations on multiple pages in the documents there will be a [comment](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) with a screenshot of the annotation for each page with annotations in each markup.
 
-![](images/11-br-save-all-markups-to-one-topic.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/11-br-save-all-markups-to-one-topic.png)
 
 This is what the topic can look like when you save multiple markups to the same topic:
 
-![](images/12-br-save-all-markups-to-one-topic.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/12-br-save-all-markups-to-one-topic.png)

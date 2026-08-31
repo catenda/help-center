@@ -2,13 +2,13 @@
 
 The documents tab of an approval request can be found on the approval request page of every approvals. In the documents tab validation amounts of validation indications submitted on behalf of reviewer teams by a member in each reviewer team for each document that is part of the appoval can be seen.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/01-intro.png)
 
 ## 1. **Selected item actions**
 
 This is what the selected item actions in the documents tab can look like:
 
-![](images/02-selected-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/02-selected-item-actions.png)
 
 The table indicates the status of the documents inside this specific approval. In the last column is the _submit_ or review _button_. Depending on the status of the document in the approval.
 
@@ -16,7 +16,7 @@ The table indicates the status of the documents inside this specific approval. I
 
 The right menu can be opened by clicking on the info icon towards the right of the documents tab. Members that are part of multiple reviewer teams in an approval step can easily sumbit validation indications for multiple documents on behalf of each of their teams in this menu without having to open each document for review. The Info icon can look something like this:
 
-![](images/03-right-menu.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/03-right-menu.png)
 
 Click [here](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu) to read more about the right menu of the documents tab.
 
@@ -33,20 +33,20 @@ By clicking the title you can directly show the document in the approval environ
     - When a document gets added to an approval it will show its major and minor revision number which can look something like this:
 ​
 
-        <div class="intercom-container"><img src="images/inline-1bda23a9911c.png" width="122"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
     - If the selected shared revision was published to become the latest published revision in the document outside of the current approval request it can look something like this:
 ​
 
-        <div class="intercom-container"><img src="images/inline-83fe3ba7ad73.png" width="289"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 
 - **Step 'x':** Shows with a bar what the status of the step is.
 - **Final approval:** This column shows the final approval when activated the icon get colorized.
 
-![](images/04-columns.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/04-columns.png)
 
 ### 3.2 Final approval
 
 When the final approval has not been given yet this column will say 'upcoming' After a member of the final approval team has submitted the approval indication for a document the final outcome of the document will be displayed here as either approved or rejected.
 
-![](images/05-final-approval.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/05-final-approval.png)

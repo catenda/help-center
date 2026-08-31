@@ -2,7 +2,7 @@
 
 When you go to [hub.catenda.com/signup](http://hub.catenda.com/signup) you will be presented with this page:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/thng6w36/01-intro.png)
 
 If you make an account you will not automatically be part of a project. To join someone's project you will have to accept an [invitation link](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project). If you followed an invitation link and was asked to create an account, that new account will automatically have accepted the invitation.
 
@@ -18,7 +18,7 @@ If you already have an account you can click [here](https://hub.catenda.com/sign
 
 The [email verification page](https://hub.catenda.com/signup/verify-email) can look like this:
 
-![](images/02-step-2-of-4-verify-your-email.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/thng6w36/02-step-2-of-4-verify-your-email.png)
 
 After registering your email with us we will attempt to send you an email to verify that your email address exists and can receive emails from us. Without verifying your email you will only receive emails with public links from us such as project invitations and publicly shared collections or bookmarks. Please verify your email address to receive any other notifications. If you are not getting the verification mail, please check [this](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) article for possible reasons the verification email is not arriving and how to solve them.
 
@@ -26,7 +26,7 @@ After registering your email with us we will attempt to send you an email to ver
 
 This is what the email you receive from us can look like:
 
-![](images/03-br-verification-link.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/thng6w36/03-br-verification-link.png)
 
 Please click the verify email link or paste the link in your browser. You will only have to do this once per registration.
 
@@ -34,7 +34,7 @@ If an account with this email address already exists in our system you will be r
 
 ## **Step 3 of 4 - Sign up**
 
-![](images/04-step-3-of-4-sign-up.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/thng6w36/04-step-3-of-4-sign-up.png)
 
 ### **First and last name**
 
@@ -56,7 +56,7 @@ If you want to receive newsletters from us you can subscribe to them by clicking
 
 The questionnaire page can look like this:
 
-![](images/05-step-4-of-4-questionnaire.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/thng6w36/05-step-4-of-4-questionnaire.png)
 
 Here you will be asked what you will be using Catenda Hub for. The dropdown has three options:
 

@@ -2,7 +2,7 @@
 
 The filter panel can be opened on the approvals page by clicking on the filter button to the left of the search bar on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page).
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/vcqjvqcc/01-intro.png)
 
 This article includes information about the following topics
 

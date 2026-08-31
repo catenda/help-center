@@ -4,7 +4,7 @@
 
 Find the sharelink button towards the [top right of the page](https://support.catenda.com/en/articles/4670260-landing-page#h_7e60f1b700) next to your profile picture.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/01-intro.png)
 
 If you are on the main page before entering a project the sharelink button will be grayed out. It is only possible to share pages from within a project.
 
@@ -28,11 +28,11 @@ If the page is shared with a sharelink recipient they will see the whole page, i
 1. Click the the ShareLink button.
 ​
 
-![](images/02-to-use-sharelink.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 
 ## 2. **ShareLink window**
 
-![](images/03-sharelink-window-br.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/03-sharelink-window-br.png)
 
 ### 2.1 **Recipients**
 
@@ -56,7 +56,7 @@ The URL you will be sending is available here to check.
 
 If you want to make sure the user knows what to expect when clicking on the link you can add a screenshot of the link you are sharing. In this case the following image will be attached to the sharelink email notification:
 
-![Screenshot of shared content](images/04-screenshot.png)
+![Screenshot of shared content](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/04-screenshot.png)
 
 ## 3. **Send the message**
 
@@ -64,7 +64,7 @@ The message is sent from [noreply@catenda.com](mailto:noreply@catenda.com) to th
 
 The mail message can look like this if you added a screenshot:
 
-![](images/05-send-the-message.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/05-send-the-message.png)
 
 ## 4. **Accessing the content**
 
@@ -76,6 +76,6 @@ The mail message can look like this if you added a screenshot:
 
 When the link is followed only the selected items are shown:
 
-![](images/06-accessing-the-content.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/06-accessing-the-content.png)
 
 Selected items work for topics as well as documents.

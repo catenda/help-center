@@ -6,7 +6,7 @@ The actions [Catenda Revit Plugin](https://support.catenda.com/en/articles/46703
 
 This is what the action menu can look like:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/01-intro.png)
 
 Information about the following topics can be found in this article:
 
@@ -16,11 +16,11 @@ Click on the green New topic button towards the top right to create a new topic 
 
 As soon as the topic is created it will be visible in Catenda Hub via the browser as well as through any Catenda plugins in other programs. This is what the new topic page can look like:
 
-![](images/02-1-new-topic.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/02-1-new-topic.png)
 
 The minimum information that is required to submit a topic is a title.
 
-![](images/03-1-new-topic.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/03-1-new-topic.png)
 
 ### 1.1 **1.1 Submit**
 
@@ -30,7 +30,7 @@ Once the topic is ready to be shared with the project, click submit to submit th
 
 Click on upload IFC in the action menu that opens up with the three dots towards the top right to upload your current Revit model directly to Catenda Hub as an IFC file. This is what the upload IFC page can look like:
 
-![](images/04-2-upload-ifc.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/04-2-upload-ifc.png)
 
 ### 2.1 **2.1 Select a model**
 
@@ -62,7 +62,7 @@ Click on Upload to upload an IFC A comment has to be added to be able to upload.
 
 The settings page allows you to change how the plugin will create 3D view when using the [Zoom function](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin#h_36392f671a).
 
-![](images/05-3-settings.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/05-3-settings.png)
 
 ### 3.1 **3.1 Back to topics**
 
@@ -96,7 +96,7 @@ Open your Catenda Hub account page in your default browser. Click [here](https:/
 
 Click on Sign out to sign out of Catenda Hub within the plugin.
 
-![](images/06-5-sign-out.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/06-5-sign-out.png)
 
 After signing out the Sign in page is displayed where the same account or a different acount can be signed into with username and password. Click [here](https://support.catenda.com/en/articles/7891486-sign-in-page) to read more about the sign in page.
 

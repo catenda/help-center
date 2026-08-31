@@ -2,15 +2,15 @@
 
 The topics menu can be found in the [menu](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) or by tapping the topics button on the bottom navigation bar.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/68qsmtaz/01-intro.png)
 
 In the topics menu you will see the name of the current project at the top.
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/68qsmtaz/02-intro.png)
 
 Below the name of the project you will see a dropdown menu. If you tap on this menu or on the search icon you can choose what topic board you want to display.
 
-![](images/03-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/68qsmtaz/03-intro.png)
 
 Switching to a new topic board will update the latest topic information for the board you switch to.
 
@@ -18,7 +18,7 @@ Switching to a new topic board will update the latest topic information for the 
 
 To the right of the menu you will see the filter button. Filters will be saved for each topic board.
 
-![](images/04-filters.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/68qsmtaz/04-filters.png)
 
 You can filter by:
 
@@ -33,7 +33,7 @@ You can filter by:
 
 ### 1.1 Reset filter icon
 
-![](images/05-reset-filter-icon.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/68qsmtaz/05-reset-filter-icon.png)
 
 If you tap the reset filters icon to remove any filter preference in my topics, due date or location. Tapping this button will also deselect any statuses, types and labels that were selected.
 
@@ -57,4 +57,4 @@ For each topic you will see the following information:
 
 Tap the green circle with the plus in the middle to make a new topic
 
-![](images/06-new-topic.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/68qsmtaz/06-new-topic.png)

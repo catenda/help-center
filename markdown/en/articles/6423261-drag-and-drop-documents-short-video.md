@@ -1,3 +1,3 @@
 # Drag and drop documents - Short video
 
-![](images/01-intro.gif)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/1y1wcp8y/01-intro.gif)

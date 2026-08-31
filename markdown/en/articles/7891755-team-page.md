@@ -2,7 +2,7 @@
 
 It is possible to find the page of a team on the right side of the [members page](https://support.catenda.com/en/articles/4670291-members-page).
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/bvhrpsv2/01-intro.png)
 
 ## 1. Team profile
 

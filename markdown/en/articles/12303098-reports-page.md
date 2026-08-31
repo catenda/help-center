@@ -4,7 +4,7 @@
 
 The reports page can be found as the sixth item in the navigation menu. This page is part of the content panel. With the reports page template reports can be created in a report editor. Separate templates can be created for topics and documents. When a template is available in a project the report action can be used with selected topics and documents to generate a report based on the selected template.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/01-intro.png)
 
 This article contains information about the following topics: [Search or filter](https://With%20the%20reports%20page%20template%20reports%20can%20be%20created%20in%20a%20report%20editor.Separate%20templates%20can%20be%20created%20for%20topics%20and%20documents.%20%20When%20a%20template%20is%20available%20in%20a%20project%20the%20report%20action%20can%20be%20used%20with%20selected%20topics%20and%20documents%20to%20generate%20a%20report%20based%20on%20the%20selected%20template.) - [Right menu](#h_418e23701b)
 
@@ -12,13 +12,13 @@ This article contains information about the following topics: [Search or filter]
 
 See [here](https://support.catenda.com/en/articles/4670283-search-and-filter-option) to find out how best to search or filter in the reports table
 
-![](images/02-search-or-filter-options.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/02-search-or-filter-options.png)
 
 ## 2. **Right menu**
 
 If any report rows are selected in the reports table, an info button will appear to the right of the search or filter bar. The info button can look something like this:
 
-![](images/03-right-menu.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/03-right-menu.png)
 
 In the right menu you will be able to see information about:
 
@@ -38,7 +38,7 @@ Click [here](https://support.catenda.com/en/articles/8345396-right-panel-on-the-
 
 The reports table can look something like this:
 
-![](images/04-reports-table.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/04-reports-table.png)
 
 The reports table works the exact same way as the [documents table](https://support.catenda.com/en/articles/8204673-documents-page#h_54e8dfcac2) except only reports will show. Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read more about how to work with tables in Catenda. As soon as a report is created it will show up as a row in the reports table for the person. The reports are also visible in the documents table.
 
@@ -46,7 +46,7 @@ The reports table works the exact same way as the [documents table](https://supp
 
 After selecting an element row selected item actions appear towards the top of the reports table. This is what the selected item actions menu can look like:
 
-![](images/05-selected-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/05-selected-item-actions.png)
 
 Click [here](https://support.catenda.com/en/articles/4670288-document-structure-actions) to read more about the selected item actions on the reports page.
 

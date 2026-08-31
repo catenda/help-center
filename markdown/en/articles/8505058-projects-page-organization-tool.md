@@ -4,7 +4,7 @@ You will be able to find the projects page as a sub page to your [organizations 
 
 Here you will see an overview of all the projects that are part of this organization.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/9sr2253p/01-intro.png)
 
 ## 1. Search and filter
 
@@ -32,7 +32,7 @@ Projects that are not expired.
 
 After selecting one or more project(s) in the projects list by clicking on their checkbox you will see the following action buttons appear towards the top of the projects list.
 
-![](images/02-action-buttons.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/9sr2253p/02-action-buttons.png)
 
 ### 2.1 Add new members
 

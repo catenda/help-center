@@ -6,11 +6,11 @@ Depending on your access different actions for your current model and each of it
 
 Depending on model selection and on what access settings you have different action buttons can be found on the top right of the [model overview page](https://support.catenda.com/en/articles/4670270-model-overview-page#h_c10dbce6c8) . All action buttons will be listed in their action menus that can look something like this:
 
-![mceclip0.png](images/01-model-actions.png)
+![mceclip0.png](https://raw.githubusercontent.com/catenda/help-center/main/images/5t44cpcq/01-model-actions.png)
 
 The action menu on the model overview page can look something like this:
 
-![](images/02-model-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5t44cpcq/02-model-actions.png)
 
 ### 1.1 **Download latest revision**
 
@@ -36,7 +36,7 @@ _Access required:_ Creating and deleting models in project settings and write ac
 
 To the right of each revision you can to find the following actions:
 
-![](images/03-model-revision-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5t44cpcq/03-model-revision-actions.png)
 
 ### 2.1 Download
 

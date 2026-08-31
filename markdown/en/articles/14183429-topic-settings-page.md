@@ -2,15 +2,15 @@
 
 This is what the topic settings page can look like:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/9d18txpx/01-intro.png)
 
 The topic settings page can be found as a sub-page to the Topics page in the left navigation menu.
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/9d18txpx/02-intro.png)
 
 From this page, you can access the [settings of your Topic boards](https://support.catenda.com/en/articles/4670277-topic-board-settings-page) (1). Administrators can also access the [settings of Topic templates](https://support.catenda.com/en/articles/14076010-topic-template-settings-page) (2):
 
-![](images/03-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/9d18txpx/03-intro.png)
 
 ## 1. **Topic Board settings**
 

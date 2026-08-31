@@ -2,13 +2,13 @@
 
 Draft revisions can be added to an approval request by clicking on the add draft button in the [create an approval request dialogue](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) and by clicking on the add draft button in the [body of an approval](https://support.catenda.com/en/articles/8349418-approval-page#h_218ac89189) on the page of an existing approval. This is what the add draft to approval request dialogue can look like:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/bzenvg2j/01-intro.png)
 
 ## 1. **Search or filter**
 
 This is what the search or filter menu in the add draft to approval request dialogue can look like:
 
-![](images/02-search-or-filter.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/bzenvg2j/02-search-or-filter.png)
 
 By default uploaded by me is filtered. This way all draft revisions uploaded by the member creating the revision are displayed
 

@@ -6,7 +6,7 @@ Otherwise, to create a new project contact Catenda support at [support@catenda.c
 
 The new project page can look something like this:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/01-intro.png)
 
 ## 1. **Select an owner**
 

@@ -2,17 +2,17 @@
 
 You will be able to find the links library in as the second library on the [libraries page](https://support.catenda.com/en/articles/8065645-libraries-page). Here you will be able to click on the star to the left to always show the links library in your left navigation menu in the project.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/f29gh2kf/01-intro.png)
 
 ## 1. **Top buttons**
 
-![](images/02-top-buttons.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/f29gh2kf/02-top-buttons.png)
 
 ### 1.1 **New link**
 
 Click on the green new link button to make a new link
 
-![](images/03-new-link.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/f29gh2kf/03-new-link.png)
 
 _URL_ - Paste the URL you want to have as a link in the link library. _Name_ - Select a name for the link
 
@@ -24,7 +24,7 @@ New library - Takes to you the library creation page
 
 ## 2. **Filtering in the links library**
 
-![](images/04-filtering-in-the-links-library.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/f29gh2kf/04-filtering-in-the-links-library.png)
 
 Click the filter button to see the different possible filters. In the links library you will be able to filter on the following: _Linked_ - `link=linked` _Unlinked_ - `link=unlinked` _Linked to selected objects_ - `link=backlink`
 

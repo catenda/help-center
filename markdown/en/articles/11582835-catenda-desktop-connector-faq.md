@@ -4,11 +4,11 @@
 
 Many document management systems allow you to view a shadow version of your files on your system that do not take up any space. You can often tell when a document is online-only by an archived or cloud-like or badge. Here are some examples of what an online only document can look like in different services:
 
-![](images/01-online-only-files.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/swkm9e7y/01-online-only-files.png)
 
-![](images/02-online-only-files.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/swkm9e7y/02-online-only-files.png)
 
-![](images/03-online-only-files.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/swkm9e7y/03-online-only-files.png)
 
 Dropbox Google Drive Microsoft 365/SharePoint
 

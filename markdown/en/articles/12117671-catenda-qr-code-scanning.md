@@ -6,4 +6,4 @@ Scanning the QR-code with your smartphone will take you to a verification page w
 1. Your revision is an older version of the PDF: **Document invalid**
 1. You scanned a placeholder: **You scanned a placeholder, this document is not published**
 
-    <div class="intercom-container"><img src="images/inline-b1645e560fbb.png"/></div>
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/4tseg1y0/inline-b1645e560fbb.png"/></div>

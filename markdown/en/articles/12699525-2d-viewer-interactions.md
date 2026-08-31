@@ -4,7 +4,7 @@
 
 Different components of the [2D viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) can be interacted with in different ways. Each of the parts of the 2D viewer that can be clicked on are described in this article. This is what the 2D viewer can look like:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/01-intro.png)
 
 This article contains information about the following topics: _[2D button](#h_ddfb1f5837) - [Top bar](#h_7996dde66c) - [Canvas](#h_d564366bf9) -_ [Navigation](#h_b384896c43) - [Selection](#h_8916df6427) - [Settings](#h_f9d34c17aa) - [Bottom bar](#h_15dafd8ad4)
 
@@ -12,7 +12,7 @@ This article contains information about the following topics: _[2D button](#h_dd
 
 If the 2D viewer is not opened, click on the 2D button on the bottom right of the 3D viewer top open the 2D viewer.
 
-![](images/02-2d-button.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/02-2d-button.png)
 
 ## 2. **Top bar**
 
@@ -20,7 +20,7 @@ If the 2D viewer is not opened, click on the 2D button on the bottom right of th
 
 Drag these two diagonal lines to resize the 2D viewer across any part of the 3D viewer. You will know you can drag this corner when you see your cursor change.
 
-![](images/03-resizing.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/03-resizing.png)
 
 ### 2.2 **Title**
 
@@ -30,7 +30,7 @@ The title of the top bar will be the name of the storey. If a storey of a [store
 
 **Closing** Click the cross in the top right of the 2D viewer to close the 2D viewer.
 
-![](images/04-opening-and-closing-the-2d-viewer.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/04-opening-and-closing-the-2d-viewer.png)
 
 ## 3. **Canvas**
 
@@ -44,7 +44,7 @@ _Left click_ If there are spaces in the storey of the 2D view that is enabled fo
 
 **Right click** Open context menu
 
-![](images/05-click-mouse-button.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/05-click-mouse-button.png)
 
 - _Add marker_
 Add a new marker. With a topic open in the content panel you can assign the selected marker. This marker will not be saved and visible to others until added to an issue.
@@ -64,7 +64,7 @@ Create a new topic with marker. This marker will not be saved and visible to oth
 
 **Hold right click on viewpoint indicator** Move camera in 3D. Camera angle will follow.
 
-![](images/06-viewpoint-indicator.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/06-viewpoint-indicator.png)
 
 ## 4. **Navigation tools**
 
@@ -72,7 +72,7 @@ Create a new topic with marker. This marker will not be saved and visible to oth
 
 Zoom out to show all visible objects at once
 
-![](images/07-zoom-to-extents.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/07-zoom-to-extents.png)
 
 ### 4.2 **Rotation**
 
@@ -80,7 +80,7 @@ With the rotation button you can rotate the 2D viewer.
 
 **Rotation slider** The initial rotation can be configured by setting a location with a rotation in [project settings](https://support.catenda.com/en/articles/4670273-project-settings-page).
 
-![](images/08-rotation.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/08-rotation.png)
 
 **Slider adjustment** Select the slider by clicking on it and use the left and right arrow keys to make 0.1 degree adjustments. This can be useful for making selections, sections and queries. Rotation is easier if you first select a space as it will snap to the edges of the space when rotating You can also write the degree of rotation in the menu below the slider.
 
@@ -94,7 +94,7 @@ With the rotation button you can rotate the 2D viewer.
 
 If a model is loaded in the 3D viewer you will be able to lock the camera to the 3D viewer camera.
 
-![](images/09-lock-camera.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/09-lock-camera.png)
 
 With this function enabled the viewpoint indicator will stay centered on the canvas even if the camera is moved in the 3D viewer. This is useful in combination with [walk mode](https://support.catenda.com/en/articles/5784718-3d-viewer-settings#h_1c05dca226).
 
@@ -102,7 +102,7 @@ With this function enabled the viewpoint indicator will stay centered on the can
 
 The selection tools and settings can be found towards the top right of the 2D viewer canvas.
 
-![](images/10-selection-tools-and-settings.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/10-selection-tools-and-settings.png)
 
 Click [here](https://support.catenda.com/en/articles/8035360-selecting-and-clipping-from-2d) for a detailed explanation of how to use section tools in the 2D viewer.
 
@@ -118,7 +118,7 @@ Drag a rectangle over the 2D canvas to create a volume for selection of objects 
 
 Create 4 to 6 clipping planes by dragging a rectangle over the 2D canvas and selecting the height.
 
-![](images/11-section-create-clipping-planes.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/11-section-create-clipping-planes.png)
 
 ### 5.4 **Section: Create query**
 
@@ -128,13 +128,13 @@ Create a [query](https://support.catenda.com/en/articles/4854514-queries) by dra
 
 The rectangular selection function of the Section tools inhabits the movement of the cursor. On the bottom right of the 2D viewer you will therefore be able to use the move button. With this button you can easily reposition your canvas for Sectioning.
 
-![](images/12-br-move-button.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/12-br-move-button.png)
 
 ## 6. **2D Viewer Settings**
 
 The settings of the 2D viewer can be found in the dropdown button with the gear icon.
 
-![](images/13-2d-viewer-settings.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/13-2d-viewer-settings.png)
 
 **Marker coloring mode** Change the color of the markers in the 2D view to have the color of one of the following:
 
@@ -152,13 +152,13 @@ The settings of the 2D viewer can be found in the dropdown button with the gear 
 
 Click here to read more about the storey menu. The storey menu can look something like this:
 
-![](images/14-model-view.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/14-model-view.png)
 
 ### 7.2 **Layer menu**
 
 With the layer button you will be able to toggle different layers in the 2D viewer.
 
-![](images/15-layer-menu.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/15-layer-menu.png)
 
 **Markers** With this button, markers can be toggled on or off.
 

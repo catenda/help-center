@@ -2,7 +2,7 @@
 
 When shared revisions are enabled in a project the [approvals page](https://support.catenda.com/en/articles/12495047-approvals-page) becomes available. Members that are part of submitter teams for approval workflows in the project can [submit an approval request](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request) on behalf of a submitter team. Find submitted approval requests on the approval requests page or in the approvals menu of the right menu of a document. This is what an approval page can look like for projects that enabled shared revisions after 2 October 2025:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/01-intro.png)
 
 _Access required:_ One of the following regardless of administrator status:
 
@@ -16,7 +16,7 @@ Approval requests can be submitted on the approvals page or any approval request
 
 This is what the actions on the approval page can look like:
 
-![](images/02-new-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/02-new-item-actions.png)
 
 Use the new approval reaquest action to create a new approval request. Click [here](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request) to read more about creating a new approval request.
 
@@ -24,7 +24,7 @@ Use the new approval reaquest action to create a new approval request. Click [he
 
 This is what the approval header in an open approval can look like:
 
-![](images/03-approval-header.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/03-approval-header.png)
 
 After the approval creator has submitted the approval in the create approval request dialogue or from a draft approval request is no longer possible to edit the approval header.
 
@@ -44,11 +44,11 @@ The description of the approval.
 
 In the step ribbon a preview of all the steps in an approval is displayed. This is what the step ribbon can look like in a open approval request:
 
-![](images/04-step-ribbon.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/04-step-ribbon.png)
 
 This is what the step ribbon can look like in a closed approval request:
 
-![](images/05-step-ribbon.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/05-step-ribbon.png)
 
 Click [here](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-approval-request) to read more about the step ribbon.
 
@@ -56,7 +56,7 @@ Click [here](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-
 
 In the overview tab a step preview of each step can be found in the approval request step ribbon towards the top. This is what the overview tab can look like:
 
-![](images/06-overview-tab.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/06-overview-tab.png)
 
 Click [here](https://support.catenda.com/en/articles/12495126-overview-tab-in-an-approval-request) to read more about the overview tab in an approval.
 
@@ -64,6 +64,6 @@ Click [here](https://support.catenda.com/en/articles/12495126-overview-tab-in-an
 
 In the documents tab of an approval an overview of each of the documents that is part of the approval is displayed. This is what the documents tab in the approval content can look like:
 
-![](images/07-documents-tab.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/07-documents-tab.png)
 
 Click [here](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request) to read more about the documents tab in an approval

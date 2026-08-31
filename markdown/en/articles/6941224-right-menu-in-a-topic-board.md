@@ -4,21 +4,21 @@ The right menu on the [topics page](https://support.catenda.com/en/articles/4670
 
 This is what the [topic banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) can look like:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/01-intro.png)
 
 This is what the info icon can look like:
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/02-intro.png)
 
 This is what the right menu can look like when expanded.
 
-![](images/03-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/03-intro.png)
 
 ## 1. **1. Selection info**
 
 This is what the top part of the right menu can look like:
 
-![](images/04-1-selection-info.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/04-1-selection-info.png)
 
 ### 1.1 **1.1 Selected topics**
 
@@ -34,7 +34,7 @@ On the very top of the right menu the amount of selected topics are displayed.
 
 This is what the right menu can look like when no topics are selected:
 
-![](images/05-2-no-topics.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/05-2-no-topics.png)
 
 ### 2.1 **1.1 Update selected topics**
 
@@ -48,17 +48,17 @@ When no topics are selected the access control for topic board menu is only disp
 
 With a single topic selected topic information can be updated in the right menu without having to click on the topic to load its content page. This is what the right menu can look like when a single topics is selected:
 
-![](images/06-3-single-topic.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/06-3-single-topic.png)
 
 ### 3.1 **3.1 Update selected topic**
 
 This is what the right menu can look like when a single topic is selected:
 
-![](images/07-3-1-update-selected-topic.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/07-3-1-update-selected-topic.png)
 
 **3.1.1 Topic header** This is what the [topic header](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) can look like:
 
-![](images/08-3-1-update-selected-topic.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/08-3-1-update-selected-topic.png)
 
 **3.1.2 Topic body** Below the topic header the topic body can be found with description and comments. From here descriptions and comments can be added and new comments can be created. Click [here](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic) to read more about the topic body.
 
@@ -90,7 +90,7 @@ With multiple topics selected topic information can be batch updated in the righ
 
 This is what the update selected topics menu can look like when multiple topics from the same topic board are selected:
 
-![](images/09-update-selected-topics-a-single-board.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/09-update-selected-topics-a-single-board.png)
 
 **Status** Set or update the status from multiple topics at once.
 
@@ -124,7 +124,7 @@ Priority When the same label is added in both menus removing the label gets prio
 
 This is what the update selected topics menu can look like when multiple topics from different topic boards are selected:
 
-![](images/10-update-selected-topics-from-multiple-boards.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/10-update-selected-topics-from-multiple-boards.png)
 
 If topics from multiple boards are selected the status and type cannot be updated. The selectable users in assigned to and requester will also limited to the users that have access to the topic  boards of all the selected topics.
 

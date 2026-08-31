@@ -6,13 +6,13 @@ The folder configuration menu can be found on the [document settings page](https
 
 Folders can be configured in the folders table which can look something like this:
 
-![](images/01-folders-table.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/yhj3v31h/01-folders-table.png)
 
 ### 1.1 **Configured folders filter**
 
 Towards the top of the table a filter can be found for configured folders.
 
-![](images/02-configured-folders-filter.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/yhj3v31h/02-configured-folders-filter.png)
 
 **All folders** See all folders in the project.
 
@@ -22,7 +22,7 @@ Towards the top of the table a filter can be found for configured folders.
 
 Here you see all the folders in the project. Clicking on the arrow or anywhere on this column will expand the folder so you see its sub folders. If you hover over the icon or name of a folder you will see a link icon which you can click to open the folder
 
-![](images/03-folders-column.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/yhj3v31h/03-folders-column.png)
 
 This can help a lot with seeing the results of the configured folder after configuring it.
 
@@ -30,7 +30,7 @@ This can help a lot with seeing the results of the configured folder after confi
 
 **Preview configuration** If a configuration is set for a folder you will be able to quickly see what configuration has been set by clicking on the eye icon. The configuration preview can look something like this:
 
-![](images/04-folders-column.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/yhj3v31h/04-folders-column.png)
 
 **Edit configuration** If a configuration is set for a folder you will be able to edit it by clicking on the pencil icon.
 
@@ -48,7 +48,7 @@ Here you see which custom fields are configured for a row
 
 The folder configuration dialogue can look something like this:
 
-![](images/05-folder-configuration-dialogue.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/yhj3v31h/05-folder-configuration-dialogue.png)
 
 ### 2.1 **Naming convention**
 
@@ -60,7 +60,7 @@ If you have naming conventions set up on the [naming convention page](https://su
 
 To remove a naming convention press the X.
 
-![](images/06-naming-convention.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/yhj3v31h/06-naming-convention.png)
 
 ### 2.2 **Custom fields**
 

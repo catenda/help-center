@@ -8,7 +8,7 @@ It is recommended to use a wired connection for uploading the zips to Catenda. M
 
 During the zip upload process packets of data are being sent to the Catenda server. If there is a problem with any of the packets during the process the following message is displayed: Failed to upload! Unable to process file.
 
-![](images/01-unable-to-process-file.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/01-unable-to-process-file.png)
 
 Even when right next to a WiFi antenna with a device it is never 100% sure the packet will arrive safely through the air. This effect is amplified by being further away from the antenna or if there are objects like walls between the device and the antenna.
 
@@ -18,7 +18,7 @@ Even when right next to a WiFi antenna with a device it is never 100% sure the p
 
 Certain software limit the amount of characters that paths to files in a zip file can have. If there is a problem with the path structure in the zip file the following error will appear: Failed to upload! Network error.
 
-![](images/02-network-error.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/02-network-error.png)
 
 **Unzip/Rezip** If this zip was received from someone else it can help unzipping it and rezipping it.
 
@@ -60,11 +60,11 @@ Different versions of Windows use different zip encodings. For example the Engli
 
 Even though a zip import completes it there can be several reasons for no change to be visible in the documents table. This is what it can look like when a zip import has completed without changes being made.
 
-![](images/03-completed-but-nothing-happened.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/03-completed-but-nothing-happened.png)
 
 This is what the right menu of the zip import page can look like in this situation:
 
-![](images/04-completed-but-nothing-happened.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/04-completed-but-nothing-happened.png)
 
 ### 3.1 **Skipped folders**
 
@@ -82,11 +82,11 @@ If documents are listed under missing documents this means that the documents we
 
 When a file in the zip file has a potentially harmful filetype they will not be uploaded. This is what the zip import page can look like when harmful filetypes are attempted to be uploaded:
 
-![](images/05-harmful-filetypes.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/05-harmful-filetypes.png)
 
 This is what the right menu on the zip import page can look like when a harmfull file is attempted to beuploaded:
 
-![](images/06-harmful-filetypes.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/06-harmful-filetypes.png)
 
 The following filtypes which can potentially be harmful are not allowed.
 
@@ -98,8 +98,8 @@ The right access is required for the zip contents to be extracted. _Access requi
 
 This is what the zip import page can look like when there is not enough access:
 
-![](images/07-insufficient-access.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/07-insufficient-access.png)
 
 This is what the right menu on the zip import page can look like when there is not enough access:
 
-![](images/08-insufficient-access.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/08-insufficient-access.png)

@@ -6,7 +6,7 @@ _Access required:_ Access to [inviting new members](https://support.catenda.com/
 
 Follow the steps below to invite a new member.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/203nmrp5/01-intro.png)
 
 1\. Fill in email
 

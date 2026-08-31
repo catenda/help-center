@@ -4,7 +4,7 @@ If you select a document on the [documents page](https://support.catenda.com/en/
 
 The document page can look something like this:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/01-intro.png)
 
 1. The [document banner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) spans across the top of the document page
 1. You will find the document header below the document banner and above the document preview.
@@ -14,7 +14,7 @@ The document page can look something like this:
 
 When you first open a document, its right menu might be closed. You can click on the information button on the bottom right of the [document banner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) to expand this menu.
 
-![](images/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/02-intro.png)
 
 Here you will see the following menus:
 
@@ -26,13 +26,13 @@ Towards the top of the menu you will see the File info and the Markups tabs. By 
 
 The document information section can look something like this:
 
-![](images/03-document-information.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/03-document-information.png)
 
 ### 2.1 **Document icon**
 
 If a document has been scanned and a virus is found you will see its icon change to the virus icon. This can look something like the following:
 
-![](images/04-document-icon.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/04-document-icon.png)
 
 It is not recommended to download a document revision that is infected. You will not be able to view the contents of a revision with a virus.
 
@@ -44,7 +44,7 @@ Here you see the name of the document
 
 If a document is not in a naming convention folder it will be possible to click on the pencil icon to edit the document name.
 
-![](images/05-document-name.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/05-document-name.png)
 
 _Access required:_ Write access to the document.
 
@@ -52,7 +52,7 @@ _Access required:_ Write access to the document.
 
 This is what the fields that can be filled out for the whole document can look like:
 
-![](images/06-filling-out-fields.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/06-filling-out-fields.png)
 
 **Labels** Here existing or new [labels](https://support.catenda.com/en/articles/4670265-labels-page) can be added. You can also remove any labels that have been applied to the folder or document. It can be useful to label folders instead of every single file to make it easier to find specific information in later searches. If multiple documents and folders are selected you can apply labels to them all at once.
 
@@ -64,7 +64,7 @@ This is what the fields that can be filled out for the whole document can look l
 
 This is what the revision actions can look like:
 
-![](images/07-revision-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/07-revision-actions.png)
 
 ### 3.1 **Compare**
 
@@ -82,15 +82,15 @@ See more about withdrawing revisions [here](https://support.catenda.com/en/artic
 
 This is what revision information can look like when a document is selected in the documents table:
 
-![](images/08-revision-information.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/08-revision-information.png)
 
 This is what the revision information menu can look like when the revision preview of a revision is opened:
 
-![](images/09-revision-information.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/09-revision-information.png)
 
 This is what the revision information menu can look like when the revision preview of a previous revision is opened:
 
-![](images/10-revision-information.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/10-revision-information.png)
 
 ### 4.1 **Revision number**
 
@@ -100,7 +100,7 @@ The current revision and the total amount of revisions in the document.
 
 If a document has been scanned and a virus is found you will see its icon change to the virus icon. This can look something like the following:
 
-![](images/11-revision-icon.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/11-revision-icon.png)
 
 It is not recommended to download a document revision that is infected. You will not be able to view the contents of a revision with a virus.
 
@@ -130,7 +130,7 @@ Metadata fields can be displayed for revisions that are created where one of the
 
 If only published revisions are used with the status workflow the actions will be the same as without it. If draft revisions are enabled the action menu can look like this when looking at the revision preview of a draft revision:
 
-![](images/12-revision-actions-status-workflow.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/12-revision-actions-status-workflow.png)
 
 ### 5.1 **Download**
 
@@ -150,7 +150,7 @@ Use the delete action to delete the current draft revision. _Access required:_ F
 
 If the new status workflow with shared revisions instead of draft revisions has been requested to be enabled for a project the revision action menu can look like this:
 
-![](images/13-revision-actions-new-status-workflow.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/13-revision-actions-new-status-workflow.png)
 
 ### 6.1 **Download**
 
@@ -174,11 +174,11 @@ Documents uploaded to a folder for which a naming convention is configured in th
 
 This is what the naming convention preview can look like when hovering a text [block](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_2409ff946c):
 
-![](images/14-naming-convention-preview.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/14-naming-convention-preview.png)
 
 This is what the naming convention preview can look like when hovering a custom field [block](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_2409ff946c):
 
-![](images/15-naming-convention-preview.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/15-naming-convention-preview.png)
 
 Here you will see a visual representation of what the naming suggestion expects revisions uploaded to this document to be called. Hover over a block to see what it is based on. From here you can open the custom field for each block and see what values are required.
 
@@ -188,17 +188,17 @@ Folders with activated naming conventions display fields for each naming convent
 
 In the image below arrows point from the each naming covention block to its part in the revision name that the uploaded file had. Red - Blocks with document identifier enabled Green - Blocks with document identifier disabled
 
-![](images/16-metadata-through-custom-fields-with-naming-conventions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/16-metadata-through-custom-fields-with-naming-conventions.png)
 
 Based on what is recognized in the document name a field is filled out. Fields for blocks where the document identifier is enabled are displayed in the document information shown below with red arrows. Fields for blocks where the document identifier is disabled are displayed in the revision information shown below with green arrows.
 
-![](images/17-metadata-through-custom-fields-with-naming-conventions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/17-metadata-through-custom-fields-with-naming-conventions.png)
 
 ## 8. **Status workflow**
 
 This is what the revision information can look like when a document is selected in the documents table after activating the [status workflow](https://support.catenda.com/en/articles/9662473-status-workflow-shared-published).
 
-![](images/18-status-workflow.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/18-status-workflow.png)
 
 ### 8.1 **Published revision status**
 
@@ -210,31 +210,31 @@ In projects where the new aproval workflow has been requested to be enabled the 
 
 The latest published revision:
 
-![](images/19-shared-revision-status.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/19-shared-revision-status.png)
 
 _Access required:_ Read access to the document.
 
 A previous published revision:
 
-![](images/20-shared-revision-status.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/20-shared-revision-status.png)
 
 _Access required:_ Read access to the document.
 
 The latest shared revision of a document:
 
-![](images/21-shared-revision-status.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/21-shared-revision-status.png)
 
 _Access required:_ Read access to the document and the checkbox for viewing shared revisions checked.
 
 A previous shared revision of a document:
 
-![](images/22-shared-revision-status.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/22-shared-revision-status.png)
 
 **Access required:** Read access to the document Checkbox for viewing shared revisions checked.
 
 A shared revision that is part of an open or a closed approval request:
 
-![](images/23-shared-revision-status.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/23-shared-revision-status.png)
 
 > **Note:** The fact that a revision is part of a closed approval request does not mean that this is the the revision that led to the next major version of the document.
 
@@ -244,11 +244,11 @@ A shared revision that is part of an open or a closed approval request:
 
 If a draft revision is uploaded to the document after the last published revision this is what the revision information can look like when a document is selected in the documents table.
 
-![](images/24-draft-revision-status-legacy.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/24-draft-revision-status-legacy.png)
 
 A hint about there being new drafts is displayed. The rest of the information still relates to the latest published revision. what the revision information can look like when the revision preview of a draft is opened.
 
-![](images/25-draft-revision-status-legacy.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/25-draft-revision-status-legacy.png)
 
 **Show last revision** Open the revision preview of the latest published revision in the document regardless of if there are newer draft revisions or not.
 
@@ -256,7 +256,7 @@ _New approval request_ [Create a new approval request](https://support.catenda.c
 
 **Approval card** If a draft is part of an approval the approval card for each approval that the draft is part of is displayed here:
 
-![](images/26-draft-revision-status-legacy.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/26-draft-revision-status-legacy.png)
 
 Click [here](https://support.catenda.com/en/articles/8349340-approvals-page) to read more about what is displayed on an approval card.
 
@@ -266,7 +266,7 @@ Click [here](https://support.catenda.com/en/articles/8349340-approvals-page) to 
 
 This is what the access control menu can look like:
 
-![](images/27-access-control.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/27-access-control.png)
 
 The last item in the list will be the general access all others have. This access is write access by default.
 
@@ -290,7 +290,7 @@ The approvals menu is visible for projects where the [status workflow](https://s
 
 This is what the approvals menu can look like for a published revision where either no approval requests have been made or all approval requests have been closed:
 
-![](images/28-no-open-approval-requests.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/28-no-open-approval-requests.png)
 
 Upload a shared revision to get started with approval requests.
 
@@ -306,11 +306,11 @@ The approvals menu is visible for all new projects that have requested to start 
 
 All new revisions are then published revisions and the approvals menu can look something like this:
 
-![](images/29-shared-revisions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/29-shared-revisions.png)
 
 If Shared statuses are not disabled with the new status workflow in document settings all uploaded revisions are shared revisions. Initially, the approvals menu for a shared revision looks similar to the current workflow and can look something like this:
 
-![](images/30-shared-revisions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/30-shared-revisions.png)
 
 **Access required to view shared revisions:** Read access to the document. Checkbox for viewing shared revisions checked.
 
@@ -318,11 +318,11 @@ If Shared statuses are not disabled with the new status workflow in document set
 
 **Approval request overview** With the new validation workflow it is possible to create a draft of an approval workflow. Draft approvals do not show up in the overview. As soon as an approval workflow has started it is, and stays, displayed in the approval workflow overview. Any number of requests to approve each of the shared revisions in the document can have been made, some of which might still be open. This is what the approval overview can look like when one of the revisions in the document is part of an open approval request with the new validation workflow when the latest revision is still being validated:
 
-![](images/31-shared-revisions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/31-shared-revisions.png)
 
 With the new validation workflow closed approval requests are also displayed. This is what a closed approval request can look like with the new validation workflow.
 
-![](images/32-shared-revisions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/32-shared-revisions.png)
 
 **Access required for seeing approval cards:** Part of a submitter, reviewer or publisher team for the approval workflow that the revision that is under approval is part of. Administrators will not see this card if they are not part of one of the teams involved in the approval as well.
 
@@ -338,7 +338,7 @@ _Access required:_ Checkbox for being able to publish the document checked.
 
 Note that it is only possible to upload draft revisions and thereby create approvals when not all draft statuses are archived in document settings. This is what the approvals menu can look like for documents where the latest revision is a draft revision and either no approval requests have been made or all approval requests have been closed:
 
-![](images/33-new-draft-revision-but-no-approval-request-yet-legacy.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/33-new-draft-revision-but-no-approval-request-yet-legacy.png)
 
 **New approval request** Click [here](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) to read more about creating a new approval request
 
@@ -346,7 +346,7 @@ Note that it is only possible to upload draft revisions and thereby create appro
 
 In the approvals menu an overview over the requests that have not yet been validated can be seen. This is what an open approval request can look like when one of the revisions in the document is part of an approval request and the latest revision is still being validated:
 
-![](images/34-approval-request-overview-legacy.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/34-approval-request-overview-legacy.png)
 
 _Validated latest revision_ When a revision is published in a document the latest revision is a published revision. Published revisions can be created in the following ways:
 
@@ -356,7 +356,7 @@ _Validated latest revision_ When a revision is published in a document the lates
 
 If the revision was published as a result of an approval, that approval request is closed and is no longer displayed in the approval request overview. Any number of requests to approve each of the draft revisions in the document can have been made, some of which might still be open. The approval requests that are still open will continue to be displayed in the approval request overview. This is what the approval request overview can look like when the lates revision is a published revision.
 
-![](images/35-approval-request-overview-legacy.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/35-approval-request-overview-legacy.png)
 
 Whether the latest revision is published or not, a card for each document revision that is part of an approval request that is still open is displayed. This way the approvals that have not been closed can be reviewed. Click [here](https://support.catenda.com/en/articles/8349340-approvals-page) to see what is described in an approval card.
 
@@ -368,7 +368,7 @@ If all draft statuses have been archived the approvals menu will still be visibl
 
 Here you will see the different revisions in the document. The revision menu can look something like this:
 
-![](images/36-revisions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/36-revisions.png)
 
 With the download button on the right you will be able to download each revision. If a virus is detected you will see a notification in red text under the revision. It is not recommended to download a document revision that is infected. You will not be able to view the contents of a revision with a virus.
 

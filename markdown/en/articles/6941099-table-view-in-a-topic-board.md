@@ -6,7 +6,7 @@ Click on Table view (**4**) towards the top right of the topics table on the [to
 
 The topics table can look something like this when the table view is configured.
 
-![](images/01-topics-table.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/01-topics-table.png)
 
 Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read more about how to work with tables in Catenda. As soon as a topic is created and the table is loaded in the topic will show up as a row in the topics table for the user. Note that the open filter is enabled by default and closed topics might be hidden until filtered.
 
@@ -18,7 +18,7 @@ When changes are made to any of the topics that are displayed a notificaiton tha
 
 After selecting a topic row the selected item action menu appears towards the top of the topics table. This is what the selected item actions menu can look like:
 
-![](images/02-selected-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/02-selected-item-actions.png)
 
 Click [here](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board) to read more about the selected item action menu.
 
@@ -40,7 +40,7 @@ Some columns in the topics table are enabled by default while others can be hidd
 
 Select a checkbox to select an topic from the list. You can also click anywhere in the row of the topic where there is no link to select it.
 
-![](images/03-1-selecting-topics-with-selection-box.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/03-1-selecting-topics-with-selection-box.png)
 
 **Row select** After having selected an topic you can `shift + click` to select all topics in between.
 
@@ -50,13 +50,13 @@ Select a checkbox to select an topic from the list. You can also click anywhere 
 
 Select all topics in the topic board(s) When you open an topic board 100 topics are loaded. If you scroll down past 100 topics you will load more topics. The first time you check this box you will select all topics you have loaded. If you have many topics in your board and do not want to scroll to load them all you can click on select all in filter which will appear next after "topics selected" when you check the selection box.
 
-![](images/04-2-select-all.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/04-2-select-all.png)
 
 ## 3. **6. Columns dropdown**
 
 On the top right of the topics table you will find the "Columns" dropdown.
 
-![](images/05-6-columns-dropdown.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/05-6-columns-dropdown.png)
 
 With this dropdown you can rearrange and toggle the columns of the table. Your preference for column rearrangement and toggle will be remembered across topic boards and projects and is stored in your account. This means that it will still have that order if you close and re-order your browser. If you have accidentally hidden a column by dragging it out of the table you can turn it on again here. By default all columns are on and in this order:
 
@@ -70,7 +70,7 @@ By clicking on the header of a column it is possible to sort by that column. Cli
 
 Column headers can be dragged left and right to be rearranged. You can drag the column header out of the table to disable the column. You can enable the column again in the [column dropdown](#h_9e88dec7ef) on the top right.
 
-![](images/06-dragging-column-headers.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/06-dragging-column-headers.png)
 
 ### 4.3 **Column width**
 
@@ -78,19 +78,19 @@ When you hover your mouse over the line between two columns you can drag to chan
 
 _Cursor change_ You will know you are hovering over the right place when your cursor changes to a resize pointer
 
-![](images/07-column-width.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/07-column-width.png)
 
 ## 5. **4. List view**
 
 Swap between [List view](https://support.catenda.com/en/articles/6941232-issue-board-s-list-view) or Table view
 
-![](images/08-4-list-view.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/08-4-list-view.png)
 
 ## 6. **5. Compact view**
 
 Compact view can be useful for screens with lower resolutions
 
-![](images/09-5-compact-view.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/09-5-compact-view.png)
 
 ## 7. **Scroll bars**
 

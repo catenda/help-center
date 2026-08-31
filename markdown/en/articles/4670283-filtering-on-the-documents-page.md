@@ -2,7 +2,7 @@
 
 The search or filter option can be seen in the top part of the window. By writing the name of the document or writing the name of a label that is pinned to a document the rows in the documents table can be narrowed down. This is what the search or filter menu can look like on the documents page:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/aa862mj2/01-intro.png)
 
 ## 1. **Filters**
 

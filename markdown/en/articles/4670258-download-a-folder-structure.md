@@ -8,4 +8,4 @@ When a folder is checked, a new window on the right hand side of the page will a
 
 A zipped file of the folder structure and files will be downloaded.
 
-![Snag_27e0945c.png](images/01-intro.png)
+![Snag_27e0945c.png](https://raw.githubusercontent.com/catenda/help-center/main/images/zsgb2cbh/01-intro.png)

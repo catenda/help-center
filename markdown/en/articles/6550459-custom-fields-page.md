@@ -4,13 +4,13 @@
 
 You will be able to find the custom fields page as a sub page to the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page). Custom fields let you customize your topics and naming conventions by adding text fields, numbers and lists of values.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/7c3te8t3/01-intro.png)
 
 ## 1. **New item actions**
 
 The new item actions can be found on the top right of the page.
 
-![](images/02-new-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/7c3te8t3/02-new-item-actions.png)
 
 ### 1.1 **New custom field**
 
@@ -24,7 +24,7 @@ All users will be able to see the custom fields that have been archived and are 
 
 This is what the search or filter menu on the custom fields page can look like:
 
-![](images/03-search-or-filter.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/7c3te8t3/03-search-or-filter.png)
 
 ### 2.1 **Types**
 
@@ -44,7 +44,7 @@ Search - `search=<Text search>`
 
 As soon as a custom field is created it shows up as a row in the custom fields table. This is what the custom fields table can look like:
 
-![](images/04-custom-field-table.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/7c3te8t3/04-custom-field-table.png)
 
 Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read more about how to work with tables in Catenda.
 

@@ -2,13 +2,13 @@
 
 Click on the green plus button on the top right of the [model export page](https://support.catenda.com/en/articles/4670280-model-export) to create a new model export. There are four steps to creating a new model export. This is what the first step in the model export creation process can look like:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y8fzd5y5/01-intro.png)
 
 ## **Step 1 - Select models and revisons**
 
 In the first step the revision from each of the models that should be included in the export can be specified. Start by selecting a model that should be included by checking its checkbox. Once the model is selected the revision that is to be included in this export can be selected.
 
-![](images/02-step-1-select-models-and-revisons.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y8fzd5y5/02-step-1-select-models-and-revisons.png)
 
 In the first step of the model export the models that should be included in the export can be selected.
 
@@ -22,7 +22,7 @@ As soon as one or more models are selected and revisions are specified the step 
 
 In the second step items that are linked to model content in the project can be merged into the ifc files they are linked to when exported. This is what the merge options page can look like in a new project.
 
-![](images/03-step-2-merge-options.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y8fzd5y5/03-step-2-merge-options.png)
 
 Uncheck the checkboxes to deselect any project libraries that should not be merged into the model files of the export.
 
@@ -40,7 +40,7 @@ Select "Links" to insert user defined links from the links library that have bee
 
 Any libraries that have been created in the project are displayed by the library name here. This i what it can look like after adding a few libraries
 
-![](images/04-user-defined-libraries.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y8fzd5y5/04-user-defined-libraries.png)
 
 Supported library types include:
 
@@ -68,7 +68,7 @@ After configuring the selected libraries click "Next: Add name and comment" to p
 
 In the third step items the export can be given a name and a comment can be added. This is what the add name and comment step can look like:
 
-![](images/05-step-3-add-name-and-comment.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y8fzd5y5/05-step-3-add-name-and-comment.png)
 
 **Name** The name will be pre-filled with Model export and the date and time of the export. This name will also be the filename of the downloaded zip.
 
@@ -78,7 +78,7 @@ In the third step items the export can be given a name and a comment can be adde
 
 In the fourth and last step the shareing option can be chosen. This is what the sharing options step can look like:
 
-![](images/06-step-4-sharing-options.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y8fzd5y5/06-step-4-sharing-options.png)
 
 ### **Shared export**
 

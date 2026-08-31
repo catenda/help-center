@@ -2,7 +2,7 @@
 
 The [documents page ](https://support.catenda.com/en/articles/8204673-documents-page)has received an overhaul **🎉🎉**
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3760667x/01-intro.png)
 
 ## 1. **New columns**
 
@@ -46,7 +46,7 @@ This column will let you open ifc files and point clouds in the [3D viewer](http
 
 This column will let you know when the document was originally created. This is different from published as published is the date and time of the publishing of the latest revision in the document.
 
-![](images/02-created.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3760667x/02-created.png)
 
 ## 2. **Dynamic columns**
 

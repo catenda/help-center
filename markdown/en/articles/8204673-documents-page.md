@@ -2,25 +2,25 @@
 
 The documents page can be found as the fourth item in the left navigation menu in a project. This page is part of the content panel. In the document management system you will be able to upload files and configure who has access to them.
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/nzhpbg4s/01-intro.png)
 
 ## 1. **New item actions**
 
 The new item actions can be found on the top right of the page. See [here](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure) for what the different actions do.
 
-![](images/02-new-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/nzhpbg4s/02-new-item-actions.png)
 
 ## 2. **Search or filter options**
 
 See [here](https://support.catenda.com/en/articles/4670283-search-and-filter-option) to find out how best to search or filter in the documents section
 
-![](images/03-search-or-filter-options.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/nzhpbg4s/03-search-or-filter-options.png)
 
 ## 3. **Right menu**
 
 If any document rows are selected in the documents table, an info button will appear to the right of the search or filter bar. The info button can look something like this:
 
-![](images/04-right-menu.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/nzhpbg4s/04-right-menu.png)
 
 In the right menu you will be able to see information about:
 
@@ -40,7 +40,7 @@ Click [here](https://support.catenda.com/en/articles/8345396-right-panel-on-the-
 
 The documents table can look something like this:
 
-![](images/05-documents-table.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/nzhpbg4s/05-documents-table.png)
 
 Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read more about how to work with tables in Catenda. As soon as a document or folder is created it will show up as a row in the documents table for the person.
 
@@ -48,7 +48,7 @@ Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
 
 After selecting an element row selected item actions appear towards the top of the documetns table. This is what the selected item actions menu can look like:
 
-![](images/06-selected-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/nzhpbg4s/06-selected-item-actions.png)
 
 Click [here](https://support.catenda.com/en/articles/4670288-document-structure-actions) to read more about the selected item actions on the documents page.
 

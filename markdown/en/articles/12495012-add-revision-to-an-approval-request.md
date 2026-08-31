@@ -2,7 +2,7 @@
 
 Approval requests can be seen in projects where shared revisions were enabled after 2 October 2025. When shared revisions are enabled all new revisions are uploaded as shared revisions. Shared revisions can be added to an approval request by clicking on the add revision button in the [create an approval request dialogue](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) and by clicking on the add revision button in a draft approval. This is what the add revision to aproval request dialogue that opens up can look like for projects that enabled shared revisions after
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qk34ake7/01-intro.png)
 
 Projects where shared revisions were enabled before 2 October 2025 will see the legacy add revision to an approval request dialogue instead.
 
@@ -10,7 +10,7 @@ Projects where shared revisions were enabled before 2 October 2025 will see the 
 
 In the search bar any shared revision with a minor revision number (0.1, 0.2, 1.1, etc..) that has been uploaded after the latest published revision in a document can be searched.
 
-![](images/02-search-or-filter.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qk34ake7/02-search-or-filter.png)
 
 ### 1.1 Filter left panel
 
@@ -58,7 +58,7 @@ Is not model Shared revisions in documents in the current folder and subfolders 
 
 This is what the add revision table can look like
 
-![](images/03-add-revision-table.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qk34ake7/03-add-revision-table.png)
 
 Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read more about how to work with tables in Catenda.
 
@@ -92,7 +92,7 @@ Uploaded by - _Default_ The member that uploaded the shared revision.
 
 Select a document in the list and click on add
 
-![](images/04-add.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qk34ake7/04-add.png)
 
 As soon as a shared revision form a document is added it will show up as a row in the documents table for the person.
 

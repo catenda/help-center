@@ -10,4 +10,4 @@ We've just released an update of our app on Appstore and Google Play. These new 
 
 Exploit the full extents of the screen on your mobile device using fullscreen mode (here with 3D model in landscape on a tablet):
 
-![](images/01-intro.jpg)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/51hy7wvr/01-intro.jpg)

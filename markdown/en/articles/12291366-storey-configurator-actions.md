@@ -2,19 +2,19 @@
 
 The create new building action can be found towards the top right of the [storey configurator page](https://support.catenda.com/en/articles/6921756-storey-configurator-page). This is where the actions on the storey configurator page can be found:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/43a5z00a/01-intro.png)
 
 ## 1. **New item actions**
 
 If no Buildings have been configured yet the add new button in the middle of the page can be clicked. Click on the green plus button on the top right or open the action menu to use the Add new building action. To add a building it is always possible to click on the Green plus button or click on the action in the action menu.
 
-![](images/02-new-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/43a5z00a/02-new-item-actions.png)
 
 ## 2. **Add new building**
 
 After using the add new building action the Create a new building dialogue will open up.
 
-![](images/03-add-new-building.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/43a5z00a/03-add-new-building.png)
 
 In the Create a new building dialogue an initial model is selected.
 
@@ -26,7 +26,7 @@ Click [here](https://support.catenda.com/en/articles/9431936-models-page-actions
 
 If no objects were sliced through it will not be possible to select the model. It is possible to tell that this is the case when the [2D button](https://support.catenda.com/en/articles/4670279-revision-selector#h_180a64490d) does not activate when opening the 2D view of the model.
 
-![](images/04-models-with-no-2d-geometry.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/43a5z00a/04-models-with-no-2d-geometry.png)
 
 ### 2.2 **Example file**
 
@@ -36,7 +36,7 @@ Click [here](https://hub.catenda.com/share/collections/zBkFZ5yzhIUvw5a028kNt8A8o
 
 If a model with 2D geometry is selected, a draft of a building configuration is created. At this stage the changes made to the storey configuration are not yet available to project members. This is what the storey configurator page can look like after having selected a model.
 
-![](images/05-building-creation.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/43a5z00a/05-building-creation.png)
 
 In the created building, a storey is created for each IfcStorey in the model with its respective elevation. With this as a starting point, more 2D views can be added, a PDF drawing can be underlayed and the the elevation can be changed for each storey.
 

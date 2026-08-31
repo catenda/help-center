@@ -2,7 +2,7 @@
 
 On pages where multiple elements are displayed information is often displayed in tables. Different ways of working with tables which are often similar across the different tables are described in this article. In the example below the table on the members page is displayed as an example of what a table on Catenda can look like:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/01-intro.png)
 
 ## 1. Default behavior
 
@@ -50,7 +50,7 @@ The table below describes settings that can be configured for a table.
 
 Towards the top left of a table a checkbox is displayed. To the right of the checkbox an overview of the current amount of selected rows and the total amount of rows on the current level of the table is displayed.
 
-![](images/02-selection-overview.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/02-selection-overview.png)
 
 ### 2.1 Select all
 
@@ -64,7 +64,7 @@ In some tables only the rows that are currently loaded in will be selected. Typi
 
 After selecting or opening the content of a row in the table a selected item actions menu can appear in the selection overview. This is what the selected item actions menu can look like in the documents table:
 
-![](images/03-selected-item-actions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/03-selected-item-actions.png)
 
 The selected item action menu can include different actions depending on the content of the row and the access of the selecting user. The possible actions for each table can be found here:
 
@@ -76,7 +76,7 @@ The selected item action menu can include different actions depending on the con
 
 After having selected a row selection overview checkbox will be enabled with a minus in it. Here is an example of what that can look like in the documents table:
 
-![](images/04-deselecting-all.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/04-deselecting-all.png)
 
 Click the minus to deselect all selected rows.
 
@@ -84,27 +84,27 @@ Click the minus to deselect all selected rows.
 
 Towards the top right a table the table visibility settings can be found. This is what the table visibility settings can look like:
 
-![](images/05-table-visibility-settings.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/05-table-visibility-settings.png)
 
 ### 3.1 Export
 
-![](images/06-export.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/06-export.png)
 
 Tables can be exported by clicking the export button.
 
 ### 3.2 View
 
-![](images/07-view.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/07-view.png)
 
 _List view -_ Default
 
-![](images/08-view.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/08-view.png)
 
 In the list view information about elements is arranged towards the top/bottom/left/right of a larger box.
 
 **Table view**
 
-![](images/09-view.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/09-view.png)
 
 In the table view information about elements is arranged in rows and columns.
 
@@ -112,7 +112,7 @@ In the table view information about elements is arranged in rows and columns.
 
 The row height buttons change the height of each row in the table.
 
-![](images/10-row-height.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/10-row-height.png)
 
 **Default view** A row height that works well for most screens is displayed.
 
@@ -124,15 +124,15 @@ For small screens or screens with a low resolutions only a small number of rows 
 
 On the top right of a table the column dropdown can be seen. This is what the column dropdown button can look like:
 
-![](images/11-column-dropdown.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/11-column-dropdown.png)
 
 With the column dropdown the columns in a table can be rearranged, enabled and disabled. This is what the column dropdown can look like:
 
-![](images/12-column-dropdown.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/12-column-dropdown.png)
 
 Towards the top of the column dropdown options that affect all columns can be displayed. Here is an example of what the all top of the column drop down can look like:
 
-![](images/13-column-dropdown.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/13-column-dropdown.png)
 
 **Toggle appearance** When the toggle is enabled, all columns are shown. When the toggle is halfway, some columns are shown. When the togle is disabled, no columns are shown. When a toggle has a lighter shade it can only be enabled or disabled when everything or nothing is enabled or disabled.
 
@@ -144,11 +144,11 @@ Towards the top of the column dropdown options that affect all columns can be di
 
 **Drag anchor** Columns that can be re-ordered can display a grid icon towards the right of the column name.
 
-![](images/14-column-dropdown.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/14-column-dropdown.png)
 
 The cursor can turn into a hand when the drag anchor is hovered. After grabbing the grid a drag anchor appears under the cursor and the held column can appear in a lighter shade.
 
-![](images/15-column-dropdown.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/15-column-dropdown.png)
 
 When the drag anchor is dragged to another column the held column will appear after the column it is dragged to. Release or click the drag anchor to lock the held column in place and re-order the column list.
 
@@ -156,7 +156,7 @@ When the drag anchor is dragged to another column the held column will appear af
 
 Click on the table settings button to enable or disable table settings
 
-![](images/16-table-settings.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/16-table-settings.png)
 
 ## 4. Rows
 
@@ -170,7 +170,7 @@ The header row is the first row in the table.
 
 Hovering over different parts of the header row can indicate how it can be interacted with.
 
-![](images/17-header-row-interaction.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/17-header-row-interaction.png)
 
 ### 5.2 Sorting
 
@@ -202,7 +202,7 @@ Drag on the header cell of a column to rearrange the column order. Drag the head
 
 When the information in a row is updated outside of the current browser tab, an information bar is displayed towards the bottom of the table.
 
-![](images/18-rows-updated-row-information.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/18-rows-updated-row-information.png)
 
 Click on Fetch updates to update the rows in your table with the new information. When Fetch updates is clicked new rows will slide in and deleted rows will slide out. Cells of existing information that is changed shortly flash wiht a green background.
 
@@ -210,7 +210,7 @@ Click on Fetch updates to update the rows in your table with the new information
 
 Columns with numeric values can be summed in the bottom row of the table.
 
-![](images/19-rows-bottom-row.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/19-rows-bottom-row.png)
 
 Examples of columns that can be summed are custom field columns and object property columns.
 
@@ -226,19 +226,19 @@ Click and drag on the header cell of a column to start changing the column confi
 
 **Drag anchor to remove a column** When the drag anchor is dragged outside of the table the visibility icon will turn into an eye that is struck through and the column will be disabled in the table. Release or click to disable the held column.
 
-![](images/20-change-column-configuration-by-dragging.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/20-change-column-configuration-by-dragging.png)
 
 ### 8.2 Move rows by dragging
 
 When the row cell in the title column (often called name) is hovered, a grid of dots can appear to the right of the title.
 
-![](images/21-move-rows-by-dragging.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/21-move-rows-by-dragging.png)
 
 Mouse over the grid and see that the cursor changes to a hand indicating that the row can be grabbed. After grabbing the grid a drag anchor appears under the cursor. The drag anchor can contain the titles of the row(s) that were selected when the row was grabbed.
 
 **Drag anchor to move a row** While the row(s) are being dragged inside the table they will be highlighted and given a lighter shade indicating something can happen in the table.
 
-![](images/22-move-rows-by-dragging.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/22-move-rows-by-dragging.png)
 
 Interactable rows are highlighted with a different background when the drag anchor is dragged over the interactable row.
 
@@ -269,25 +269,25 @@ It is possible to move columns in the following tables:
 
 Hovering over different parts of the table can indicate how it can be interacted with. Rows that are not hovered can have a white background.
 
-![](images/23-interacting-with-rows-by-hovering.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/23-interacting-with-rows-by-hovering.png)
 
 ### 9.1 Row hover
 
 Hovering anywhere in a row can highlight that row with a different background.
 
-![](images/24-row-hover.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/24-row-hover.png)
 
 ### 9.2 Box hover
 
 When a clickable box in a row is hovered the cursor can change to a pointer and the box can get a darker outline and a shadow around it.
 
-![](images/25-box-hover.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/25-box-hover.png)
 
 ### 9.3 Text hover
 
 When clickable text in a row is hovered the cursor can change to a pointer. The text can be underlined when hovered and some browsers can display the url of the page that will be opened towards the bottom left.
 
-![](images/26-text-hover.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/26-text-hover.png)
 
 ## 10. Interacting with rows by clicking​
 
@@ -317,33 +317,33 @@ There can be several types of boxes in a row. Each box can have its own icon or 
 
 **Label box** Label boxes have a lable icon in the color of that label. When a label box is clicked it can be added to the current filter. This is what a label box can look like:
 
-![](images/27-boxes-in-rows.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/27-boxes-in-rows.png)
 
 **Status or type box** Status and type boxes have a circle with thte color of the status or type. When a status box is clicked it can be added to the current filter. This is what a status or type box can look like:
 
-![](images/28-boxes-in-rows.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/28-boxes-in-rows.png)
 
 **Team box** Team boxes are colored green for member teams and orange for administrator teams This is what a team box can look like:
 
-![](images/29-boxes-in-rows.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/29-boxes-in-rows.png)
 
 **View more box** If there are more boxes than can fit in the column width of a row cell, a box with three dots is displayed:
 
-![](images/30-boxes-in-rows.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/30-boxes-in-rows.png)
 
 Click this box to see the remaining boxes in the row cell for this column.
 
 **Viewer box** The 2D, 3D and zoom to extent boxes can be displayed. Click on the 2D box to load the content of the row in the 2D viewer. Click on the 3D box to load the content of the row in the 3D viewer. After loading the content of the row in the 3D viewer the zoom to extents button become available and can be clicked to position the camera in the 3D viewer so the whole content of the row is in view. This is what viewer boxes can look like:
 
-![](images/31-boxes-in-rows.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/31-boxes-in-rows.png)
 
 **Object box** The amount of objects that are linked to the row are displayed. This is what an object box can look like:
 
-![](images/32-boxes-in-rows.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/32-boxes-in-rows.png)
 
 When an object box is clicked the following context menu can open up.
 
-![](images/33-boxes-in-rows.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/33-boxes-in-rows.png)
 
 Select objects The 3D panel will open up and the model(s) that the objects belong to will be loaded in the 3D viewer in addition to any models that were previously open. After the models have loaded in the current selection will be cleared. The objects that are linked to the row will then be selected.
 
@@ -355,12 +355,12 @@ Load as query The 3D panel will open up. Any models that were previously loadedi
 
 Secondary row content can be copied to the clipboard
 
-![](images/34-copy-row-content.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/34-copy-row-content.png)
 
 |
 v
 
-![](images/35-copy-row-content.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/35-copy-row-content.png)
 
 ## 11. ​Scroll bars
 

@@ -2,11 +2,11 @@
 
 Select an element on the [members and teams page](https://support.catenda.com/en/articles/4670291-members-and-teams-page) for the info button to be displayed towards the right of the search or filter bar. This is where the button can be found on the page:
 
-![Members tab of the members page. An arrow is pointing to the ](images/01-intro.png)
+![Members tab of the members page. An arrow is pointing to the ](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/01-intro.png)
 
 The info button can look something like this:
 
-![Button for right menu on the members page](images/02-intro.png)
+![Button for right menu on the members page](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/02-intro.png)
 
 Click this icon to open a menu where fields for the selected elements can be changed.
 
@@ -14,7 +14,7 @@ Click this icon to open a menu where fields for the selected elements can be cha
 
 This is what the right menu on the members tab can look like:
 
-![Members details](images/03-right-menu-on-the-members-tab.png)
+![Members details](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/03-right-menu-on-the-members-tab.png)
 
 If you have one member selected the initials or avatar, the name and the email of that member can be seen towards the top of the menu.
 
@@ -24,7 +24,7 @@ Next, the amount of selected members and the total amount of members are display
 
 Give this member either administrator or member status. It is not possible to change the role of a project owner
 
-![Cannot update the role of the project owner](images/04-member-role.png)
+![Cannot update the role of the project owner](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/04-member-role.png)
 
 For members that are not the project owner, the team can be changed. _Access required:_ Administrator
 
@@ -42,7 +42,7 @@ If a selected member has a different role than the role that is selected, the ro
 
 This is what the right menu on the teams tab can look like:
 
-![Right menu with details about a team where you can set role add and remove members](images/05-right-menu-on-the-teams-tab.png)
+![Right menu with details about a team where you can set role add and remove members](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/05-right-menu-on-the-teams-tab.png)
 
 If you have one team selected the initials or avatar, the name and the amount of members of that team can be seen towards the top of the menu.
 

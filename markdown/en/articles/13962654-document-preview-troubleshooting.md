@@ -24,7 +24,7 @@ To resolve this issue permanently, the network configuration must be updated to 
 
 When a document is opened, the webviewer that displays the document preview can display a message that says: **"Read timed out"**.
 
-![](images/01-2-error-loading-document-read-timed-out.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/hq07qt4s/01-2-error-loading-document-read-timed-out.png)
 
 `Read timed out`
 

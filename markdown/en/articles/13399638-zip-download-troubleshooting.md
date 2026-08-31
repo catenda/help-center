@@ -16,7 +16,7 @@ Draft revisions can only be downloaded individually from the right menu of a rev
 
 If the latest revision of one of the documents in the selection has been withdrawn a warning can appears letting the user know that some files will not be downloaded.
 
-![](images/01-withdrawn-revisions.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/169yxgzv/01-withdrawn-revisions.png)
 
 Press continue to keep preparing or cancel to stop the download.
 
@@ -24,7 +24,7 @@ Press continue to keep preparing or cancel to stop the download.
 
 If files that are recently uploaded are attempted to be downloaded they may not have been scanned for a virus yet.
 
-![](images/02-not-yet-scanned-for-virus.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/169yxgzv/02-not-yet-scanned-for-virus.png)
 
 If it has been a while since the files-to-download were uploaded, please contact support about non-scanned files. Press continue to keep preparing or cancel to stop the download.
 
@@ -32,6 +32,6 @@ If it has been a while since the files-to-download were uploaded, please contact
 
 If anything goes wrong in preparing this zipped file the following error can appear:
 
-![](images/03-download-preparation-error.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/169yxgzv/03-download-preparation-error.png)
 
 If you see this screen, please contact support.

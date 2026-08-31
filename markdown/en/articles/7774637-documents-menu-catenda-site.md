@@ -6,7 +6,7 @@ The Documents page can be found in the [menu](https://support.catenda.com/en/art
 
 The contents of the documents menu page can look something like this:
 
-![](images/01-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/01-intro.png)
 
 Towards the top of the documents page you will find the name of the project.
 
@@ -14,7 +14,7 @@ Towards the top of the documents page you will find the name of the project.
 
 Below the name of the project you will see the document filter menu.
 
-![](images/02-document-filters.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/02-document-filters.png)
 
 _Filter:_ By clicking on the filter button on the right you will be able to [filter your documents by label](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site).
 
@@ -22,7 +22,7 @@ _Search:_ The search button lets you search in documents.
 
 _Documents Dropdown:_ The dropdown menu lets you select document collections. Here you will be able to select one of the shared document collections in your project.
 
-![](images/03-document-filters.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/03-document-filters.png)
 
 Document collections can be useful for bringing[ documents to an offline location](https://app.intercom.com/a/apps/areracg3/articles/articles/7325268/show#:~:text=Documents%20in%20offline%20mode).
 
