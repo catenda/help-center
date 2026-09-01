@@ -59,7 +59,13 @@ here is edited by hand.
 
 ## Found a mistake?
 
-Because every file is generated, an issue or pull request opened here cannot
-reach the documentation — the next rebuild would overwrite it. Report it through
-<https://support.catenda.com> instead and the correction will appear in both the help
-center and this mirror.
+Every file here is generated, so a change made in this repository cannot reach
+the documentation — the next rebuild overwrites it. Three ways to reach a
+person instead:
+
+- **Chat on the help center** — the chat button on <https://support.catenda.com>.
+- **Chat from inside Catenda** — the same button, top right in the platform.
+  [Where to find it](https://support.catenda.com/en/articles/8894066-support-button-location-and-functionality).
+- **Email** — <support@catenda.com>.
+
+Corrections made that way appear in both the help center and this mirror.
