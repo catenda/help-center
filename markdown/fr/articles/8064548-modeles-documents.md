@@ -82,7 +82,7 @@ Dès que vous avez des models dans la section models, vous verrez un Filtre mode
 
 ### 4.2 **Colonnes**
 
-**Icône** Vous pourrez distinguer un Document-model d'un Document ordinaire par le badge model situé en bas à droite de l'icône du Document-model.
+**Icône** Vous pourrez distinguer un Document-model d'un Document ordinaire par l'icône model située en bas à droite de celle du Document-model.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/03-columns.png)
 
