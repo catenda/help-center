@@ -6,8 +6,6 @@ Dette er hvordan banneret på gjennomgangsinnstillingssiden kan se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/eekvwhj0/01-intro.png)
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Handlinger på gjennomgangsinnstillingssiden**
 
 Handlingene for gjennomgangsinnstillingssiden finnes ved å klikke på handlingsmenyen øverst til høyre på gjennomgangsinnstillingssiden. Dette er hvordan handlingene for gjennomgangsinnstillingssiden kan se ut:
@@ -25,8 +23,6 @@ Velg standardoppføring som skal skje når en publisert revisjon opprettes i et 
 Dette er hvordan gjennomgangsinnstillingssiden kan se ut etter at publiserte statuser for hvert resultat er opprettet og konfigurert samt saksmaler:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/eekvwhj0/04-publish-options.png)
-
-Følgende saker er beskrevet i denne delen:
 
 ### 2.1 **Filgjennomgangsstatus**
 

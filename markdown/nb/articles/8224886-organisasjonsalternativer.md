@@ -2,8 +2,6 @@
 
 Det er mulig å be om at følgende alternativer blir satt for organisasjonen din. Disse alternativene vil gjelde for alle prosjekter som eies av organisasjonen.
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Profil**
 
 Kontakt støtten gjennom den sorte chatknappen ved siden av profilbildet ditt øverst til høyre, eller på [support@catenda.com](mailto:support@catenda.com) hvis du ønsker å endre navnet på organisasjonen din.
@@ -13,8 +11,6 @@ Kontakt støtten gjennom den sorte chatknappen ved siden av profilbildet ditt ø
 Kontakt [sales@catenda.com](mailto:sales@catenda.com) for spørsmål om planen din. Planen din avgjør hvor mange prosjekter du kan ha på ethvert tidspunkt i en organisasjon. Planen din avgjør også når nye prosjekter utløper.
 
 ## 3. **Standarder for nye prosjekter**
-
-Følgende saker er beskrevet i denne delen:
 
 ### 3.1 Alternativ for dokumentnedlastingstittel
 
@@ -67,8 +63,6 @@ Eiere av organisasjoner kan se en oversikt over organisasjonen i [organisasjonsv
 Medlemmer av organisasjoner kan enkelt legges til organisasjonenes prosjekter av organisasjoneiere.
 
 ## 5. **Prosjekteierregler**
-
-Følgende saker er beskrevet i denne delen:
 
 ### 5.1 **Krev at alle brukere bruker MFA**
 

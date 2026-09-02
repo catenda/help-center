@@ -6,8 +6,6 @@ Denne artikkelen bygger på artikkelen [enkleste navnekonvensjon](https://suppor
 
 Anta at du har en kode for dine lokale filer som har første bokstav i prosjektet og et tall som ser ut som A001, A002, A003, M001, M002 osv. For å holde [Dokumenter-delen](https://support.catenda.com/en/articles/4670292-documents-page) organisert, vil du sørge for at alle filene dine har denne koden. Det spiller ingen rolle for deg at flere filer har samme kode så lenge de har koden. Dette kan gjøre [Dokumenter-delen](https://support.catenda.com/en/articles/4670292-documents-page) tydeligere og mer organisert, slik at du ikke blir utsatt for det enorme antallet filer vi genererer i dag.
 
-Følgende saker er beskrevet i denne delen:
-
 ### 1.1 **Innledende oppsett**
 
 Dette er første steg for å angi preferanse for filnavn. For dette eksemplet skal vi derfor prøve å legge til en tekst [blokk](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) til konvensjonen med en lengde på 4.

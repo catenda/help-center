@@ -4,8 +4,6 @@ Når du går til [hub.catenda.com/signin](http://hub.catenda.com/signin) vil du 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/z7whdt00/01-intro.png)
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **E-postadresse**
 
 Skriv inn en e-postadresse som er knyttet til en eksisterende konto. Hvis det ikke finnes en konto for e-postadressen ennå, registrer deg for en ny konto i stedet. Klikk [her](https://hub.catenda.com/signup) for å registrere deg for en ny konto.

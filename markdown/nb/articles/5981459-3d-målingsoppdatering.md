@@ -4,8 +4,6 @@
 
 Det har blitt gjort noen forbedringer av målingsverktøyene i Catenda Hub.
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Målingsenheter**
 
 Nylig la vi til støtte for imperiale målinger, i tillegg til de eksisterende metriske enhetene. Standarden kan defineres i prosjektinnstillinger.

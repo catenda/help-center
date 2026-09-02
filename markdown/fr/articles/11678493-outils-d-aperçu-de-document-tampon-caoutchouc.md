@@ -4,8 +4,6 @@ L'outil de tampon caoutchouc se trouve dans le [menu insérer](https://support.c
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bp0tzcba/01-intro.png)
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. Menu prédéfini
 
 Après avoir sélectionné, vous verrez le tampon par défaut dans le menu prédéfini vers le milieu de la barre d'outils. Le menu prédéfini peut ressembler à ceci :
@@ -19,8 +17,6 @@ Sélectionnez votre tampon en cliquant sur le tampon par défaut dans le menu pr
 ## 2. Types de tampon
 
 Les types de tampon du menu prédéfini peuvent inclure les informations suivantes :
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 2.1 Champs dynamiques
 
@@ -73,8 +69,6 @@ Dans le menu prédéfini, les tampons suivants peuvent être vus : _​_**Préno
 Cliquez sur Créer un nouveau tampon pour ouvrir la boîte de dialogue Créer un nouveau tampon. La boîte de dialogue Créer un nouveau tampon peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bp0tzcba/05-create-new-stamp.png)
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 3.1 Texte du tampon - Par défaut - Brouillon
 

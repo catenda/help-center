@@ -1,7 +1,5 @@
 # Dépannage du Bureau Connector
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Convention de nommage**
 
 Si une convention de nommage est activée sur le dossier de téléchargement ou un dossier parent du dossier de téléchargement, le nom de fichier local doit respecter la convention pour que le téléchargement soit effectué. Si le nom de fichier ne respecte pas la convention, l'erreur suivante s'affiche.
@@ -28,8 +26,6 @@ Veuillez demander à un administrateur de projet l'accès au projet. Pour savoir
 
 ## 3. **Apparence des documents**
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 3.1 **Emplacement du dossier**
 
 Les noms de documents peuvent être limités par une convention de nommage dans Catenda. Les dossiers ne peuvent pas être limités. Sans l'utilisation d'une convention de nommage, les documents avec n'importe quel nom peuvent être téléchargés. Dans ce cas, Catenda n'a peut-être pas pu enregistrer l'extension de fichier du document. Les dossiers avec n'importe quel nom peuvent être créés. Il se peut donc que le Bureau Connector rencontre des problèmes avec les caractères dans les noms qui sont réservés à la fonctionnalité Windows.
@@ -53,8 +49,6 @@ Les problèmes typiques surviennent avec les caractères suivants : `.` - Point
 Sur Catenda, il est possible d'ajouter manuellement un espace à la fin d'un nom de document ou de dossier tandis que les espaces à la fin des noms de documents et de dossiers sont supprimés dans Windows. Si un espace est inclus sur Catenda, le nom du dossier téléchargé est différent du nom du dossier dans Catenda qui peut inclure un espace. Lorsqu'une tâche de chargement est créée sur ce même dossier, un nouveau dossier sera créé car le nom de fichier ou de dossier sur Windows n'a pas d'espace à la fin.
 
 ## 4. **Aucun téléchargement ou chargement**
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 4.1 **Document déjà existant**
 
@@ -102,8 +96,6 @@ Si le document est en cours d'utilisation, la tâche s'arrêtera et ne continuer
 
 ## 7. **Suivi de l'activité**
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 7.1 **Tâche démarrée**
 
 Les tâches, qui ont été démarrées manuellement en cliquant sur Charger/Télécharger maintenant dans la tâche, affichent un Statut de Chargement ou Téléchargement dès que la tâche a démarré. Pour les tâches qui ont été démarrées manuellement et les tâches qui ont été démarrées par programme, un message qui ressemble à ceci apparaît dans le fichier journal au démarrage d'une tâche :
@@ -141,8 +133,6 @@ Les tâches, qui sont exécutées manuellement en cliquant sur Charger/Télécha
 **Utilisation du réseau** Le seul moyen de voir si les tâches qui ont été démarrées par programme ont été arrêtées est de vérifier l'utilisation du réseau de l'application. Si le Bureau Connector a utilisé moins de 1 kilooctet par seconde pendant plus de 2 minutes, toute tâche en cours d'exécution a probablement été arrêtée et ne redémarrera pas. Pour les tâches programmées pour se reproduire, une nouvelle tâche sera démarrée si le Bureau Connector s'exécute à la prochaine date et heure programmées pour le début de la tâche.
 
 ## 8. **Connexion entre le Connector et Catenda**
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 8.1 **Connexion lors du démarrage d'une tâche**
 

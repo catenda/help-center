@@ -6,8 +6,6 @@ Slik kan gjennomgangssiden se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/x7qy4k63/01-intro.png)
 
-Følgende emner er beskrevet i denne artikkelen:
-
 ## 1. **Handlinger på gjennomgangssiden**
 
 Slik kan handlingene på gjennomgangssiden se ut:
@@ -37,8 +35,6 @@ Menyen til høyre i en gjennomgang inneholder gjennomgangshistorikken. Slik kan 
 Slik kan overskriften for en gjennomgang se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/x7qy4k63/04-approval-header-the-subject-of-an-approval.png)
-
-Følgende emner er beskrevet i denne delen:
 
 ### 4.1 **Tittel**
 
@@ -79,8 +75,6 @@ Slik kan gjennomgangsinnholdet se ut:
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/x7qy4k63/06-approval-body-the-content-of-an-approval.png)
 
 Hvis et dokument har blitt funnet å være infisert med virus, blir det fjernet fra gjennomgangen.
-
-Følgende emner er beskrevet i denne delen:
 
 ### 5.1 **Beskrivelse**
 

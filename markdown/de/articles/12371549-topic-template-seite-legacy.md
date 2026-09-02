@@ -6,8 +6,6 @@ So kann die Topics-Template-Seite aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3hd924wy/01-intro.png)
 
-Die folgenden Topics werden in diesem Artikel beschrieben:
-
 ## 1. **Aktionen auf der Topic-Template-Seite**
 
 Die Aktionen der Topics-Templates-Seite finden Sie, indem Sie auf das Aktionsmenü rechts neben der grünen Plus-Schaltfläche oben rechts auf der Topics-Templates-Seite klicken. So können die Aktionen der Topics-Templates-Seite aussehen:

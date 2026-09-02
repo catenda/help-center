@@ -12,8 +12,6 @@ På gjennomgangssiden kan følgende gjøres:
 - Konfigurasjon av forløp og utfall av en gjennomgang kan gjøres.
 - Nye gjennomganger kan opprettes.
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **Aktiver gjennomgangssiden**
 
 Gjennomgangssiden er skjult som standard. Aktiver delte revisjoner i [dokumentinnstillinger](https://support.catenda.com/en/articles/7831371-document-settings-page) for å avdekke gjennomgangssiden. _Nødvendig tilgang:_ Prosjektadministrator
@@ -107,8 +105,6 @@ Tekststøket lar deg søke etter revisjonsnavn og gjennomgangsforespørselsnavn.
 For utkastgjennomganger åpnes [siden for gjennomgangsforespørsel i utkast](https://support.catenda.com/en/articles/12495175-draft-approval-request-page) i stedet.
 
 ## 7. **Gjennomgangsforespørselskort**
-
-Følgende saker beskrives i denne delen:
 
 ### 7.1 **Tittel**
 

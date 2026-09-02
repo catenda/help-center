@@ -17,8 +17,6 @@ Lorsque le flux de travail des statuts est activé, les éléments suivants chan
 - Un menu d'approbations dans les paramètres des documents apparaît.
 - Une sous-page [approbations](https://support.catenda.com/en/articles/5784717-document-approval) de la page des documents apparaît.
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Ajouter un statut**
 
 Vous pouvez ajouter un statut en cliquant sur Ajouter un statut. Un nouveau statut peut avoir une couleur, un nom et peut être soit une phase de publication, soit une phase de brouillon.

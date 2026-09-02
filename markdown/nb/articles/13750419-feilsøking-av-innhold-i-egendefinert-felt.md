@@ -1,7 +1,5 @@
 # Feilsøking av innhold i egendefinert felt
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Kunne ikke gjenopprette arkivert rullegardinalternativ**
 
 En logisk vranglås oppstår hvis et forsøk gjøres på å gjenopprette et arkivert alternativ mens det tilknyttede **Navnet** allerede er i bruk av et aktivt alternativ. Fordi det bare er mulig å tildele et navn til ett alternativ, blir gjenopprettingen blokkert. _Tilgang påkrevd:_ Administrator-tilgang

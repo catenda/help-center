@@ -1,7 +1,5 @@
 # Catenda Site - Feilsøking
 
-Følgende emner er beskrevet i denne artikkelen:
-
 ## 1. Ingen tilkobling til nettverket
 
 Prosjekter som ikke tidligere har blitt lastet inn, viser følgende feilmelding når de forsøkes åpnet uten tilkobling til nettverket:

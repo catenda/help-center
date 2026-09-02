@@ -6,8 +6,6 @@ Du vil kunne finne Informasjonspanelet som ett av de fire hovedpanelene som kan 
 
 I informasjonspanelet vil du kunne finne følgende seksjoner:
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Inspiser**
 
 Dette lar deg se informasjonen om valgte objekter. Klikk [her](https://support.catenda.com/en/articles/4670285-inspect-panel) for å lese mer om inspiseringspanelet.
@@ -71,8 +69,6 @@ Dette lar deg lage et sett med objekter som deretter kan stiliseres og farges.
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/08-selections.png)
 
 Mot toppen av Utvalgsmenyen vil du se hvor mange elementer du har valgt i 3D-viseren og treepanelet. Utvalg kan lagres ved å lage et [øyeblikksbilde](https://support.catenda.com/en/articles/8053352-issue-body#h_1ba7f8873f) eller et [bokmerke](https://support.catenda.com/en/articles/8471481-bookmark) og spille det av senere. Fordi utvalg lagres i øyeblikksbildet av en sak, kan de importeres og eksporteres til andre programmer gjennom BCF. Et eksempel på dette er at saker med utvalg fra utvalgskurven som synkroniseres gjennom BCF live connector i Solibri, vil inneholde utvalgsdata når øyeblikksbildet spilles av.
-
-Følgende saker er beskrevet i denne seksjonen:
 
 ### 5.1 **Nytt utvalg**
 

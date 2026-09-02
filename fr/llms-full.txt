@@ -457,8 +457,6 @@ Si vous avez un Membre sélectionné, les initiales ou l'avatar, le nom et l'adr
 
 Ensuite, le nombre de Membres sélectionnés et le nombre total de Membres sont affichés.
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 1.1 **Rôle du Membre**
 
 Accordez à ce Membre un Statut d'administrateur ou de Membre. Il n'est pas possible de modifier le rôle d'un propriétaire de projet
@@ -698,8 +696,6 @@ La liste des organisations est triée par défaut en ordre décroissant, mais pe
 
 Les pages suivantes deviennent disponibles après avoir cliqué sur une organisation :
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 1.1 **Page de profil**
 
 Cliquez sur l'une des organisations de la liste pour accéder à la page de profil de l'organisation. Sur la page de profil, vous pouvez télécharger une image de profil pour l'organisation. Cliquez [ici](https://support.catenda.com/en/articles/8497478-organization-profile-page) pour en savoir plus sur la page de profil d'une organisation
@@ -727,8 +723,6 @@ Ici, vous verrez un aperçu de tous les utilisateurs qui font partie de cette or
 La page utilisateurs peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/02-intro.png)
-
-Les rubriques suivantes sont décrites dans cet article :
 
 ## 1. **Types d'utilisateurs**
 
@@ -782,8 +776,6 @@ _Propriétaire_ - Le(s) propriétaire(s) de l'organisation _Membre_ - Membres d'
 Après avoir sélectionné un ou plusieurs utilisateur(s) dans la liste des utilisateurs en cliquant sur leur case à cocher, vous verrez les boutons d'action suivants apparaître vers le haut de la liste des projets.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/05-action-buttons.png)
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 4.1 **Ajouter aux projets**
 
@@ -1236,8 +1228,6 @@ Après avoir cliqué sur ajouter, les demandes seront envoyées du système à C
 
 La fonctionnalité complète de Catenda Hub est toujours disponible via le navigateur. Catenda peut être ajouté à l'écran d'accueil, au tableau de bord ou au dock en l'installant via un navigateur. C'est ce qu'on appelle une application web progressive (PWA). Cliquez [ici](https://support.catenda.com/en/articles/10774300-home-screen-system-browser-support) pour voir les navigateurs qui supportent PWA sur votre système.
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Avantages**
 
 L'installation de Catenda via un navigateur au lieu de créer un raccourci offre les avantages suivants :
@@ -1253,8 +1243,6 @@ L'installation de Catenda Hub en tant qu'application ajoutée à l'écran d'accu
 ## 2. **iPhone & iPad - Navigateur recommandé**
 
 Sur les appareils Apple, il est souvent uniquement possible d'ajouter une page à votre écran d'accueil depuis Safari. Accédez à la page que vous souhaitez voir s'ouvrir lorsque vous ouvrez l'application qui sera ajoutée à l'écran d'accueil de votre appareil.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 2.1 **Bouton Partager**
 
@@ -1289,8 +1277,6 @@ Safari se ferme et vous êtes redirigé vers l'endroit où le raccourci est inst
 ## 3. **Android - Navigateur recommandé**
 
 En installant Catenda en tant qu'application sur votre appareil, vous pouvez l'ajouter à votre écran d'accueil avec le navigateur Chrome. Dans le navigateur Chrome, accédez à la page que vous souhaitez voir s'ouvrir lorsque vous appuyez sur la page qui sera ajoutée à l'écran d'accueil de votre appareil.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 3.1 **Menu d'action**
 
@@ -1362,11 +1348,7 @@ Pour supprimer le site Web installé ou le raccourci du site Web, supprimez-le c
 
 Il existe plusieurs façons de configurer le contenu de la visionneuse 2D selon vos besoins.
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Objets de la visionneuse**
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 1.1 **Mise en évidence des objets sélectionnés**
 
@@ -2462,8 +2444,6 @@ Les administrateurs pourront créer de nouveaux champs personnalisés en cliquan
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vvzhr330/01-intro.png)
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Nom du champ**
 
 Le nom du champ
@@ -2742,8 +2722,6 @@ Une fois la transformation effectuée (vers le SRC de votre projet, et au format
 
 L'extension Catenda Navisworks est une extension qui peut être installée pour Nemetchek Archicad. Avec cette extension, vous pourrez collaborer sur les points de vue 3D, les rubriques et les documents avec les autres Membres du projet de construction.
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **À propos de l'extension**
 
 Le complément Catenda Hub pour Autodesk® Navisworks® est l'outil idéal pour les projets collaborant dans Catenda Hub. Tous vos sujets sont synchronisés en temps réel entre Navisworks et Catenda Hub, ce qui vous permet de créer, d'accéder, de partager et de communiquer les sujets. Le format de la rubrique est BCF afin que les rubriques puissent être partagées sur n'importe quel logiciel ou plateforme BIM compatible BCF. Ce complément vous permet de visualiser, créer et modifier les rubriques de manière transparente dans Navisworks. Vous pouvez également télécharger et fédérer le modèle IFC stocké dans Catenda Hub sur votre client local.
@@ -2799,8 +2777,6 @@ Voici à quoi ressemble l'onglet Catenda lorsqu'il est sélectionné
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/02-catenda-tab.png)
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 5.1 **Catenda**
 
 Le bouton Catenda dans le menu Extensions Catenda de l'onglet Catenda ouvrira le navigateur par défaut avec la [page de connexion](https://support.catenda.com/en/articles/7891486-sign-in-page) de Catenda Hub.
@@ -2832,8 +2808,6 @@ Voici à quoi peut ressembler le menu paramètres après s'être connecté avec 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/07-settings.png)
 
 Si la session de connexion a expiré, le bouton actualiser peut être utilisé pour actualiser la session de connexion.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 6.1 **Authentification**
 
@@ -2881,8 +2855,6 @@ Dans le menu rubrique, les rubriques sélectionnées peuvent être modifiées et
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/11-topic.png)
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 8.1 **Flèches de navigation**
 
 Utilisez les flèches de navigation dans le menu pour vous déplacer entre les différentes rubriques du tableau de rubriques.
@@ -2916,8 +2888,6 @@ Cliquez sur le bouton Effacer les plans de coupe pour effacer les plans de coupe
 Dans le menu interférences, les rubriques peuvent être soumises en résultat des résultats de Clash Detective. Voici à quoi peut ressembler le menu interférences.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/12-clashes.png)
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 9.1 **Exécution d'un test Clash Detective**
 
@@ -3021,8 +2991,6 @@ Téléchargez, ouvrez et ajoutez les révisions de modèles du projet Catenda s�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/20-models.png)
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 10.1 **Recherche**
 
 Recherchez les modèles du projet Catenda
@@ -3096,8 +3064,6 @@ Vous pouvez facilement télécharger les modèles IFC de votre projet Catenda en
 Pour pouvoir utiliser les points de vue BCF de votre projet Catenda dans l'extension Catenda, vous avez besoin d'un fichier NavisWorks fusionné contenant les IFC de Catenda. Téléchargez les modèles IFC que vous souhaitez fusionner en suivant les étapes ci-dessus. Ouvrez l'un des fichiers que vous avez téléchargés dans NavisWorks. Fusionnez d'autres modèles du même projet dans le modèle NavisWorks à l'aide d'« Ajouter ». Une fois que vous avez tous les fichiers que vous souhaitez fusionner ajoutés, enregistrez le fichier en tant que fichier .nwf. Enregistrez le fichier dans le même dossier que vos fichiers IFC téléchargés. Utilisez ce fichier fusionné lors de la visualisation des points de vue BCF dans Navisworks. Vous pouvez également utiliser ce fichier fusionné pour exécuter des tests de collision dans NavisWorks.
 
 # Fichier fusionné dans Navisworks
-
-Les rubriques suivantes sont décrites dans cet article :
 
 ## 1. Créer un fichier fusionné dans Navisworks
 
@@ -3485,8 +3451,6 @@ Les flux d'approbation établissent des processus structurés d'examen et de val
 
 > **Remarque :** Seuls les administrateurs du projet peuvent accéder aux paramètres de configuration du flux de travail, créer de nouveaux flux d'approbation ou modifier les paramètres de flux de travail existants.
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **1. Comment les modifications du projet affectent les flux d'approbation**
 
 Lorsqu'un modèle de flux de travail est modifié ou que les configurations du projet sont ajustées (comme l'ajout ou la suppression de membres d'équipe dans les paramètres du projet), les modifications affectent différemment les demandes d'approbation futures et en cours :
@@ -3506,8 +3470,6 @@ L'archivage d'un statut de document, la suppression d'une équipe ou l'archivage
 ## 2. **Configuration avant soumission (création initiale)**
 
 Lorsqu'un nouveau flux d'approbation est créé pour la première fois, tous les paramètres fondamentaux doivent être configurés avant que le modèle puisse être enregistré et activé.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 2.1 **2.1 Champs obligatoires et banneau d'avertissement avant soumission**
 
@@ -3549,8 +3511,6 @@ Si un champ obligatoire est incomplet lors de la tentative d'enregistrement d'un
 
 Certaines opérations restent flexibles et peuvent être ajustées lors de la configuration initiale ou mises à jour à tout moment après l'activation d'un flux de travail. Ces opérations flexibles se divisent en deux catégories distinctes : **Paramètres de modèle de flux de travail** (modifiés directement sur la page de configuration du flux de travail) **Gestion des membres de l'équipe du projet** (modifiés sur la page Équipes du projet pour tous les rôles du flux de travail).
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 3.1 **3.1** **Modifications de modèle de flux de travail**
 
 Ces paramètres peuvent être modifiés dans le menu de configuration du flux de travail à tout moment, affectant directement les futures demandes d'approbation :
@@ -3573,8 +3533,6 @@ L'ajout ou la suppression d'utilisateurs individuels s'effectue sur la page **É
 
 Une fois qu'un modèle de flux de travail est enregistré et soumis pour la première fois, les paramètres structurels clés se verrouillent pour assurer des règles d'évaluation cohérentes dans les demandes d'approbation.
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 4.1 **4.1 Paramètres verrouillés vs. modifiables**
 
 **4.1.1 Paramètres verrouillés** Les paramètres de temps, les étapes d'examen, les équipes d'examinateurs assignées, les durées des étapes, les bascules d'approbation automatique, les équipes d'approbation finale et les statuts de documents finals mappés ne peuvent pas être modifiés après la soumission initiale.
@@ -3596,8 +3554,6 @@ L'enregistrement de **toute** modification post-soumission d'un flux de travail 
 ## 5. **5.** **Impact sur les approbations en cours et les cycles de vie des équipes**
 
 Lorsque les paramètres du projet ou les adhésions aux équipes changent pendant que les demandes d'approbation sont activement en cours, le système gère l'accès, la création de rubriques et la progression du flux de travail selon des règles spécifiques.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 5.1 **Ajout et suppression de membres d'équipe**
 
@@ -3740,15 +3696,11 @@ Voici à quoi peut ressembler le menu de flux de travail des statuts sur la [pag
 
 Les projets créés sur la base d'un [projet modèle](https://support.catenda.com/en/articles/4670245-creating-a-new-project#h_5db32e5398) et les projets qui ont activé les révisions partagées avant le 2 octobre 2025 verront le menu de flux de travail des statuts hérité.
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Statuts partagés**
 
 Activez les statuts partagés pour vous conformer à la norme ISO 19650 et configurez les flux de travail. Voici à quoi peut ressembler le menu de flux de travail des statuts après l'activation des statuts partagés
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/02-shared-statuses.png)
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 1.1 Activation des statuts partagés
 
@@ -3853,8 +3805,6 @@ Lorsque le flux de travail des statuts est activé, les éléments suivants chan
 - Le statut par défaut est défini sur Aucun statut.
 - Un menu d'approbations dans les paramètres des documents apparaît.
 - Une sous-page [approbations](https://support.catenda.com/en/articles/5784717-document-approval) de la page des documents apparaît.
-
-Les rubriques suivantes sont décrites dans cet article :
 
 ## 1. **Ajouter un statut**
 
@@ -4078,8 +4028,6 @@ Avec le bouton de calque, vous pourrez basculer différents calques dans la Visi
 
 L'intégration de l'API Documents offre un moyen facile d'accéder à votre contenu stocké dans le cloud. Vous pouvez vous connecter à un environnement de données commun (CDE) et télécharger et charger des modèles depuis/vers le serveur.
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Connexion**
 
 L'API Documents se trouve dans le menu des intégrations de l'onglet fichier dans Solibri. Pour commencer avec l'API Documents, vous devez d'abord donner accès à Solibri à votre compte Catenda. Pour ce faire, cliquez sur Connecter.
@@ -4139,8 +4087,6 @@ Après avoir cliqué sur Ouvrir et vous être connecté, si vous venez d'autoris
 Consultez les documents auxquels vous avez accès avec votre compte Catenda sur la page des documents de l'intégration des documents Solibri. Ici, vous pouvez configurer les documents qui seront synchronisés avec Solibri.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/08-solibri-document-integration-documents-page.png)
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 5.1 **Navigation**
 
@@ -4258,8 +4204,6 @@ Si vous étiez déjà connecté, mais pas avec le bon compte, vous pouvez clique
 Les documents qui ont été liés depuis Catenda dans Solibri peuvent différer des documents réguliers qui ont été ouverts à partir du système local. Voici à quoi ressemblent les documents lorsqu'ils ont été liés à des documents sur Catenda :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/21-managing-linked-documents.png)
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 9.1 **Colonne Nom**
 
@@ -5174,8 +5118,6 @@ Sur la page des paramètres, vous pouvez modifier le nom du projet si vous êtes
 
 Il est possible de configurer l'accès à de nombreux emplacements différents dans Catenda Hub :
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Outil d'organisation**
 
 L'accès le plus élevé dans Catenda est l'accès à l'organisation. Ceci est généralement accordé à une ou quelques personnes de confiance dans les organisations d'entreprise ou les organisations avec archives. Les Membres ayant accès à l'organisation auront accès à l'[outil d'organisation](https://support.catenda.com/en/collections/5831081-organizations). Cela leur permet de voir tous les Membres de tous les projets qui font partie de l'organisation sans avoir à faire partie des projets eux-mêmes.
@@ -5187,8 +5129,6 @@ L'administrateur a toujours un accès complet à tout dans un projet. Il est don
 ## 3. **Accès Membres**
 
 Les Membres ordinaires peuvent se voir accorder un accès à différentes [parties d'un projet](#h_5e8171c200) soit par Équipe soit par Membre.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 3.1 **Membre spécifique**
 
@@ -5445,8 +5385,6 @@ Voir ci-dessous les différents paramètres pour afficher vos données :
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptatif - Clairsemé - RVB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-05a450dc777f.png" style="height: auto;" width="3839"/></div></td><td><p>Adaptatif - Dense - RVB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-196a1135014a.png" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Fixe - Dense - RVB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-66e21551bbef.png" style="height: auto;" width="3834"/></div></td><td><p>Fixe - Clairsemé - Intensité</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-4a2046c8eaf1.png" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Aperçu de la section Documents**
 
 Les données PC des deux formats de fichier suivants peuvent être prévisualisées sur Catenda.
@@ -5455,8 +5393,6 @@ Les données PC des deux formats de fichier suivants peuvent être prévisualis�
 - `*.las`
 
 Les PC peuvent être téléchargés comme n'importe quel autre document dans la section Documents. Pour ces deux formats de fichier, des fichiers jusqu'à 25 GB peuvent être téléchargés dans la section Documents. Plusieurs fichiers peuvent être chargés dans la section Documents et affichés ensemble dans la Visionneuse 3D.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 1.1 **Téléchargement des données PC**
 
@@ -5513,8 +5449,6 @@ Dans cette section, nous verrons les paramètres dans Catenda Hub qui vous perme
 > **Remarque :** Avant de configurer la Visionneuse 3D, assurez-vous que l'application Catenda ouverte est configurée [comme recommandé](https://support.catenda.com/en/articles/6921941-hardware-recommendation).
 
 Les paramètres qui peuvent être utilisés pour configurer les nuages de points sont situés à deux endroits.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 3.1 **1. Budget de points :**
 
@@ -5734,8 +5668,6 @@ L'outil de tampon caoutchouc se trouve dans le [menu insérer](https://support.c
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bp0tzcba/01-intro.png)
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. Menu prédéfini
 
 Après avoir sélectionné, vous verrez le tampon par défaut dans le menu prédéfini vers le milieu de la barre d'outils. Le menu prédéfini peut ressembler à ceci :
@@ -5749,8 +5681,6 @@ Sélectionnez votre tampon en cliquant sur le tampon par défaut dans le menu pr
 ## 2. Types de tampon
 
 Les types de tampon du menu prédéfini peuvent inclure les informations suivantes :
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 2.1 Champs dynamiques
 
@@ -5804,8 +5734,6 @@ Cliquez sur Créer un nouveau tampon pour ouvrir la boîte de dialogue Créer un
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bp0tzcba/05-create-new-stamp.png)
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 3.1 Texte du tampon - Par défaut - Brouillon
 
 Ajoutez du texte comme "approuvé" ou "rejeté"
@@ -5835,8 +5763,6 @@ Sélectionnez votre format de date préféré
 Les signets se trouvent sur la [page des signets](https://support.catenda.com/en/articles/4670281-bookmarks-page). Voici à quoi peut ressembler un signet :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/01-intro.png)
-
-Les rubriques suivantes sont décrites dans cet article :
 
 ## 1. **Menu d'action**
 
@@ -5875,8 +5801,6 @@ Si ce signet a été créé en copiant un signet partagé avec le projet par un 
 ## 5. **Partage**
 
 Lorsqu'un signet est partagé avec le projet, tous les membres du projet peuvent voir le signet dans leur liste de signets.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 5.1 **Privé**
 
@@ -6725,8 +6649,6 @@ La page Documents se trouve comme le quatrième élément du menu de navigation 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/nzhpbg4s/01-intro.png)
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Nouvelles actions d'éléments**
 
 Les nouvelles actions d'éléments se trouvent en haut à droite de la page. Consultez [ici](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure) pour voir ce que font les différentes actions.
@@ -6766,8 +6688,6 @@ Le tableau Documents peut ressembler à ceci :
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/nzhpbg4s/05-documents-table.png)
 
 Cliquez [ici](https://support.catenda.com/en/articles/11748020-tables-on-catenda) pour en savoir plus sur comment travailler avec les tableaux dans Catenda. Dès qu'un document ou un dossier est créé, il s'affiche sous forme de ligne dans le tableau Documents pour la personne.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 4.1 **Actions d'éléments sélectionnés**
 
@@ -6845,8 +6765,6 @@ La page Models est la deuxième page du menu de navigation gauche d'un projet. C
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/02-intro.png)
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Nouvelles actions d'éléments**
 
 Les nouvelles actions d'éléments se trouvent en haut à droite de la page.
@@ -6885,8 +6803,6 @@ Le tableau Models peut ressembler à ceci :
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/p3v50vf2/06-models-table.png)
 
 Dès qu'un model est créé, il s'affiche sous forme de ligne dans le tableau Models. Cliquez [ici](https://support.catenda.com/en/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 4.1 **Actions d'éléments sélectionnés**
 
@@ -6982,8 +6898,6 @@ Vous pourrez trouver le panneau d'information comme l'un des quatre panneaux pri
 
 Dans le panneau d'information, vous pourrez trouver les sections suivantes :
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Inspection**
 
 Cela vous permet de voir les informations sur les objets que vous avez sélectionnés. Cliquez [ici](https://support.catenda.com/en/articles/4670285-inspect-panel) pour en savoir plus sur le panneau d'inspection.
@@ -7047,8 +6961,6 @@ Cela vous permet de créer un ensemble d'objets qui peuvent ensuite être stylis
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/08-selections.png)
 
 En haut du menu Sélection, vous verrez combien d'éléments vous avez actuellement sélectionnés dans la Visionneuse 3D et le panneau d'arborescence. Les sélections peuvent être enregistrées en créant une [Capture](https://support.catenda.com/en/articles/8053352-issue-body#h_1ba7f8873f) ou un [Signet](https://support.catenda.com/en/articles/8471481-bookmark) et en le relisant plus tard. Parce que les sélections sont stockées dans la Capture d'une rubrique, elles peuvent être importées et exportées vers d'autres programmes via BCF. Un exemple est que les rubriques avec des sélections du panier de sélection qui sont synchronisées via le connecteur BCF en direct dans Solibri contiendront des données de sélection lors de la lecture de la Capture.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 5.1 **Nouvelle sélection**
 
@@ -8193,8 +8105,6 @@ Vous pouvez supprimer un groupe d'une Étiquette en : 1\. Sélectionnez l'Étiqu
 
 # FAQ Catenda SharePoint
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Comment SharePoint peut-il être intégré avec Catenda ?**
 
 Il y a deux façons d'intégrer avec Catenda.
@@ -8267,8 +8177,6 @@ L'application Catenda SharePoint contient les composants suivants :
 
 Les limites de la façon dont les champs personnalisés peuvent être utilisés seront expliquées ici.
 
-Les rubriques suivantes sont décrites dans cet article:
-
 ## 1. **Projet \<=> Projet**
 
 Les champs personnalisés ont un identifiant unique au sein d'un projet et ne peuvent donc pas être échangés d'un projet à un autre. Même si les champs personnalisés ont le même nom dans les deux projets, l'identifiant sera unique et le champ ne sera pas reconnu.
@@ -8280,8 +8188,6 @@ Lorsqu'un champ personnalisé est activé pour deux tableaux de rubriques au sei
 ## 3. **Exportation des champs personnalisés sur les rubriques**
 
 Les champs personnalisés sur les rubriques peuvent être exportés de la manière suivante
-
-Les rubriques suivantes sont décrites dans cette section:
 
 ### 3.1 **Exportation PDF de rubrique**
 
@@ -8623,8 +8529,6 @@ _Vivaldi :_ [https://help.vivaldi.com/desktop/install-update/install-the-vivaldi
 
 # Sécurité du projet
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Stockage des données**
 
 ### 1.1 **Compte actif ou inactif - Statut**
@@ -8650,8 +8554,6 @@ Il est possible de demander que ces types d'URL soient désactivés pour tous vo
 ## 3. **Téléchargement de données**
 
 Les fichiers peuvent être téléchargés en tant que révisions de document dans la section Documents.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 3.1 **Limitation du téléchargement avec contrôle d'accès**
 
@@ -8689,7 +8591,7 @@ Les informations sur les objets ne sont pas visibles dans les Signets partagés 
 
 # Changelog 13 Catenda - Août 2026
 
-> Mises à jour produit Catenda : Explorez la nouvelle vue Kanban pour les topics, les flux d'approbation améliorés, Catenda AI Connect et l'export de données. Inclut les bugs résolus, les nouveaux tutoriels vidéo et la documentation d'assistance mise à jour pour les modèles, documents et topics.
+> Mises à jour Catenda : Explorez la nouvelle vue Kanban pour les topics, les flux d'approbation améliorés, Catenda AI Connect et l'export de données. Inclut les bugs résolus, les nouveaux tutoriels vidéo et la documentation d'assistance mise à jour.
 
 Bonjour à tous,
 
@@ -9706,8 +9608,6 @@ Ce n'est pas une limitation de Catenda mais plutôt une limitation entre le navi
 
 # Dépannage du Bureau Connector
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Convention de nommage**
 
 Si une convention de nommage est activée sur le dossier de téléchargement ou un dossier parent du dossier de téléchargement, le nom de fichier local doit respecter la convention pour que le téléchargement soit effectué. Si le nom de fichier ne respecte pas la convention, l'erreur suivante s'affiche.
@@ -9734,8 +9634,6 @@ Veuillez demander à un administrateur de projet l'accès au projet. Pour savoir
 
 ## 3. **Apparence des documents**
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 3.1 **Emplacement du dossier**
 
 Les noms de documents peuvent être limités par une convention de nommage dans Catenda. Les dossiers ne peuvent pas être limités. Sans l'utilisation d'une convention de nommage, les documents avec n'importe quel nom peuvent être téléchargés. Dans ce cas, Catenda n'a peut-être pas pu enregistrer l'extension de fichier du document. Les dossiers avec n'importe quel nom peuvent être créés. Il se peut donc que le Bureau Connector rencontre des problèmes avec les caractères dans les noms qui sont réservés à la fonctionnalité Windows.
@@ -9759,8 +9657,6 @@ Les problèmes typiques surviennent avec les caractères suivants : `.` - Point
 Sur Catenda, il est possible d'ajouter manuellement un espace à la fin d'un nom de document ou de dossier tandis que les espaces à la fin des noms de documents et de dossiers sont supprimés dans Windows. Si un espace est inclus sur Catenda, le nom du dossier téléchargé est différent du nom du dossier dans Catenda qui peut inclure un espace. Lorsqu'une tâche de chargement est créée sur ce même dossier, un nouveau dossier sera créé car le nom de fichier ou de dossier sur Windows n'a pas d'espace à la fin.
 
 ## 4. **Aucun téléchargement ou chargement**
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 4.1 **Document déjà existant**
 
@@ -9808,8 +9704,6 @@ Si le document est en cours d'utilisation, la tâche s'arrêtera et ne continuer
 
 ## 7. **Suivi de l'activité**
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 7.1 **Tâche démarrée**
 
 Les tâches, qui ont été démarrées manuellement en cliquant sur Charger/Télécharger maintenant dans la tâche, affichent un Statut de Chargement ou Téléchargement dès que la tâche a démarré. Pour les tâches qui ont été démarrées manuellement et les tâches qui ont été démarrées par programme, un message qui ressemble à ceci apparaît dans le fichier journal au démarrage d'une tâche :
@@ -9847,8 +9741,6 @@ Les tâches, qui sont exécutées manuellement en cliquant sur Charger/Télécha
 **Utilisation du réseau** Le seul moyen de voir si les tâches qui ont été démarrées par programme ont été arrêtées est de vérifier l'utilisation du réseau de l'application. Si le Bureau Connector a utilisé moins de 1 kilooctet par seconde pendant plus de 2 minutes, toute tâche en cours d'exécution a probablement été arrêtée et ne redémarrera pas. Pour les tâches programmées pour se reproduire, une nouvelle tâche sera démarrée si le Bureau Connector s'exécute à la prochaine date et heure programmées pour le début de la tâche.
 
 ## 8. **Connexion entre le Connector et Catenda**
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 8.1 **Connexion lors du démarrage d'une tâche**
 

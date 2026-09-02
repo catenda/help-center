@@ -6,15 +6,11 @@ Dette er hvordan statusarbeidsflytmenyen på [dokumentinnstillingssiden](https:/
 
 Prosjekter som er opprettet basert på et [malprosjekt](https://support.catenda.com/en/articles/4670245-creating-a-new-project#h_5db32e5398) og prosjekter som aktiverte delte revisjoner før 2. oktober 2025 vil se den gamle statusarbeidsflytmenyen.
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Delte statusar**
 
 Aktiver delte statusar for å tilpasse seg ISO 19650 og konfigurer arbeidsflyter. Dette er hvordan statusarbeidsflytmenyen kan se ut etter at delte statusar er aktivert
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/02-shared-statuses.png)
-
-Følgende saker er beskrevet i denne delen:
 
 ### 1.1 Aktivere delte statusar
 

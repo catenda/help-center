@@ -141,7 +141,7 @@ Problèmes de connexion, problèmes de performances, support, etc.
 
 Trouvez les dernières mises à jour de Catenda Hub
 
-- [Changelog 13 Catenda - Août 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15655135-changelog-13-catenda-août-2026.md): Mises à jour produit Catenda : Explorez la nouvelle vue Kanban pour les topics, les flux d'approbation améliorés, Catenda AI Connect et l'export de données. Inclut les bugs résolus, les nouveaux tutoriels vidéo et la documentation d'assistance mise à jour pour les modèles, documents et topics.
+- [Changelog 13 Catenda - Août 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15655135-changelog-13-catenda-août-2026.md): Mises à jour Catenda : Explorez la nouvelle vue Kanban pour les topics, les flux d'approbation améliorés, Catenda AI Connect et l'export de données. Inclut les bugs résolus, les nouveaux tutoriels vidéo et la documentation d'assistance mise à jour.
 - [Historique 12 Catenda, avril 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13413499-historique-12-catenda-avril-2026.md)
 - [Journal des modifications 1 Catenda - Avril 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7018311-journal-des-modifications-1-catenda-avril-2023.md)
 - [Journal des modifications 3 Catenda - Octobre 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7983534-journal-des-modifications-3-catenda-octobre-2023.md): Nouvelles informations et modifications mineures

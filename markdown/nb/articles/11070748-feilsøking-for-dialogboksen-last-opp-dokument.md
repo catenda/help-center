@@ -1,7 +1,5 @@
 # Feilsøking for dialogboksen Last opp dokument
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Dokument finnes i mappen**
 
 Hvis du har skriverettigheter til en mappe, men bare leserettigheter til et dokument, vil du ikke kunne legge til revisjoner i det dokumentet.

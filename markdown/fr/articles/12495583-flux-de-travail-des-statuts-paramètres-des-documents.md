@@ -6,15 +6,11 @@ Voici à quoi peut ressembler le menu de flux de travail des statuts sur la [pag
 
 Les projets créés sur la base d'un [projet modèle](https://support.catenda.com/en/articles/4670245-creating-a-new-project#h_5db32e5398) et les projets qui ont activé les révisions partagées avant le 2 octobre 2025 verront le menu de flux de travail des statuts hérité.
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Statuts partagés**
 
 Activez les statuts partagés pour vous conformer à la norme ISO 19650 et configurez les flux de travail. Voici à quoi peut ressembler le menu de flux de travail des statuts après l'activation des statuts partagés
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/02-shared-statuses.png)
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 1.1 Activation des statuts partagés
 

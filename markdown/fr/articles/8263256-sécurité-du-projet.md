@@ -1,7 +1,5 @@
 # Sécurité du projet
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Stockage des données**
 
 ### 1.1 **Compte actif ou inactif - Statut**
@@ -27,8 +25,6 @@ Il est possible de demander que ces types d'URL soient désactivés pour tous vo
 ## 3. **Téléchargement de données**
 
 Les fichiers peuvent être téléchargés en tant que révisions de document dans la section Documents.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 3.1 **Limitation du téléchargement avec contrôle d'accès**
 

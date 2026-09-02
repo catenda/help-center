@@ -6,13 +6,9 @@ Hei alle sammen,
 
 det har vært en fin par måneder siden sist endringslogg. Mange av dere har vært på ferie, og det samme har vi! 🏖️ Selv om kapasiteten kan ha vært redusert i sommermånedene, har vi likevel hatt tid til å gjøre noen endringer og forbedringer.
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Artikler**
 
 Når nye funksjoner lanseres og feil fikses, oppdateres artikler med endringene som gjøres. Finn følgende artikler som har blitt laget og endret siden sist endringslogg.
-
-Følgende saker er beskrevet i denne delen:
 
 ### 1.1 **Nye artikler:**
 
@@ -47,8 +43,6 @@ Varsler [Siste prosjektvarsler](https://support.catenda.com/en/articles/4670262-
 ## 2. **Løste problemer**
 
 Takk for dine verdifulle tilbakemeldinger har vi kunnet fikse mange problemer som du kanskje ikke engang la merke til eksisterte. Nedenfor er en liste over mindre endringer som er gjort av udviklingsteamet som resultat av samtaler med brukere.
-
-Følgende saker er beskrevet i denne delen:
 
 ### 2.1 **Problemer**
 

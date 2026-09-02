@@ -1,7 +1,5 @@
 # Sammenslått fil i Navisworks
 
-Følgende emner er beskrevet i denne artikkelen:
-
 ## 1. Opprette en sammenslått fil i Navisworks
 
 Du kan enkelt laste ned IFC-modellene fra Catenda-prosjektet ditt ved hjelp av dette programtillegget og handlingene i fanen Modeller.

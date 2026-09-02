@@ -6,8 +6,6 @@ Som del av [nasjonalt LiDAR HD-program](https://geoservices.ign.fr/lidarhd), pro
 
 Følg disse trinnene for å legge til en kontekstpunktskyе til prosjektet ditt!
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **1. Last opp punktskyen din**
 
 Dette er det enkleste trinnet! Last ned punktskytilen som tilsvarer konteksten til prosjektet ditt via [dette grensesnittet](https://cartes.gouv.fr/telechargement/IGNF_NUAGES-DE-POINTS-LIDAR-HD). For Sveits tilbyr Swisstopo [også](https://www.swisstopo.admin.ch/en/height-model-swisssurface3d?utm_source=chatgpt.com#The-classified-point-cloud-of-Switzerland) punktskyer som dekker hele territoriet i `.las`-format.
@@ -20,8 +18,6 @@ Det er her det blir komplisert! For å transformere punktskyen din, må du insta
 2. [PDAL](https://pdal.io/en/2.9.2/) er et åpen kildekode-bibliotek for behandling av punktskydata. Det er litt som en VLC-spiller for punktskyer ;)
 
 Faktisk trenger vi Anaconda-ledeteksten for å bruke PDAL, som vil ta seg av transformasjonen. La oss gå 👇
-
-Følgende saker beskrives i dette avsnittet:
 
 ### 2.1 **2.1. Installer Miniconda**
 
@@ -74,8 +70,6 @@ Hvis en versjon vises og en liste over "readers.\* / filters.\* / writers.\*" vi
 ## 3. Transformer punktskyen din
 
 Vi er nesten der! Bare noen få trinns til...
-
-Følgende saker beskrives i dette avsnittet:
 
 ### 3.1 Identifiser EPSG-koden for ditt koordinatreferansesystem (CRS)
 

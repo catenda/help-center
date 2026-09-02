@@ -16,8 +16,6 @@ Organisasjonslisten er sortert i synkende rekkefølge som standard, men kan sort
 
 Følgende sider blir tilgjengelige etter å ha klikket på en organisasjon:
 
-Følgende saker beskrives i denne delen:
-
 ### 1.1 **Profilside**
 
 Klikk på en av organisasjonene i listen for å gå til profilsiden til organisasjonen. På profilsiden kan du laste opp et profilbilde for organisasjonen. Klikk [her](https://support.catenda.com/en/articles/8497478-organization-profile-page) for å lese mer om profilsiden til en organisasjon

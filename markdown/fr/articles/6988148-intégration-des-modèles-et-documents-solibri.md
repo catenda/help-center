@@ -2,8 +2,6 @@
 
 L'intégration de l'API Documents offre un moyen facile d'accéder à votre contenu stocké dans le cloud. Vous pouvez vous connecter à un environnement de données commun (CDE) et télécharger et charger des modèles depuis/vers le serveur.
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Connexion**
 
 L'API Documents se trouve dans le menu des intégrations de l'onglet fichier dans Solibri. Pour commencer avec l'API Documents, vous devez d'abord donner accès à Solibri à votre compte Catenda. Pour ce faire, cliquez sur Connecter.
@@ -63,8 +61,6 @@ Après avoir cliqué sur Ouvrir et vous être connecté, si vous venez d'autoris
 Consultez les documents auxquels vous avez accès avec votre compte Catenda sur la page des documents de l'intégration des documents Solibri. Ici, vous pouvez configurer les documents qui seront synchronisés avec Solibri.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/08-solibri-document-integration-documents-page.png)
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 5.1 **Navigation**
 
@@ -182,8 +178,6 @@ Si vous étiez déjà connecté, mais pas avec le bon compte, vous pouvez clique
 Les documents qui ont été liés depuis Catenda dans Solibri peuvent différer des documents réguliers qui ont été ouverts à partir du système local. Voici à quoi ressemblent les documents lorsqu'ils ont été liés à des documents sur Catenda :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/21-managing-linked-documents.png)
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 9.1 **Colonne Nom**
 

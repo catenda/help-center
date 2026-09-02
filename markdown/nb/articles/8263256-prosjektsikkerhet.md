@@ -1,7 +1,5 @@
 # Prosjektsikkerhet
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Lagring av data**
 
 ### 1.1 **Aktiv vs. inaktiv kontostatus**
@@ -27,8 +25,6 @@ Det er mulig å be om at denne typen URL-er slås av for alle prosjektene dine.
 ## 3. **Nedlasting av data**
 
 Filer kan lastes opp som dokumentrevisjoner til dokumenter-delen.
-
-Følgende saker er beskrevet i denne delen:
 
 ### 3.1 **Begrensning av nedlasting med tilgangskontroll**
 

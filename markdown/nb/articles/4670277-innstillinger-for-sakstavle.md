@@ -18,15 +18,11 @@ Slik kan innstillingssiden for sakstavle se ut med alle menyene lukket.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/04-intro.png)
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **Handlingsmeny**
 
 Slik kan handlingsmenyen i øverste høyre hjørne i en sakstavle se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/05-action-menu.png)
-
-Følgende saker beskrives i denne delen:
 
 ### 1.1 **Ny sak**
 
@@ -57,8 +53,6 @@ _Navn på sakstavle_ - Endre navn på sakstavlen _Eier_ - Se hvem som opprettet 
 _Beskrivelse_ Kort beskrivelse som kun vil være synlig her, slik at du og andre som konfigurerer tavlen vet hva den brukes til.
 
 ## 3. **Statuser og typer**
-
-Følgende saker beskrives i denne delen:
 
 ### 3.1 **Lås statuser og typer for BCF 1.0-kompatibilitet**
 
@@ -105,8 +99,6 @@ Typer konfigureres på samme måte som statuser, bortsett fra at de ikke har met
 ## 4. **Egendefinerte felt**
 
 I denne menyen vil du kunne legge til og endre egendefinerte felt i denne sakstavlen. _Nødvendig tilgang:_ Full tilgang til sakstavlen. Egendefinerte felt kan konfigureres på [siden for egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup). _Nødvendig tilgang:_ Prosjektadministrator
-
-Følgende saker beskrives i denne delen:
 
 ### 4.1 **Legg til egendefinert felt**
 
@@ -159,8 +151,6 @@ Saker som er lagt inn i en sakstavle med felt som ikke finnes i sakstavlen, er s
 En oransje stolpe vises deretter øverst i sakstabellen som sier at det er ulenket felt i sakstavlen. _Nødvendig tilgang:_ Administrator
 
 For at saker som inneholder felt med verdier som ikke finnes i sakstavlen, skal vises i sakstabellen, må feltene være lenket til noe som finnes i sakstavlen.
-
-Følgende saker beskrives i denne delen:
 
 ### 6.1 **Felt med verdier som ikke finnes**
 

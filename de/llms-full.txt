@@ -3110,15 +3110,11 @@ So könnte die Einstellungsseite des Topic Board mit allen geschlossenen Menüs 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/04-intro.png)
 
-Die folgenden Topics werden in diesem Artikel beschrieben:
-
 ## 1. **Aktionsmenü**
 
 So kann das Aktionsmenü oben rechts in einem Topic Board aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/05-action-menu.png)
-
-Die folgenden Topics werden in diesem Abschnitt beschrieben:
 
 ### 1.1 **Neuer Topic**
 
@@ -3149,8 +3145,6 @@ _Name des Topic Board_ - Ändern Sie den Namen des Topic Board _Eigentümer_ - S
 **Beschreibung** Kurzbeschreibung, die nur hier zu sehen ist, damit Sie und andere, die das Board konfigurieren, wissen, wofür es verwendet wird.
 
 ## 3. **Status und Typen**
-
-Die folgenden Topics werden in diesem Abschnitt beschrieben:
 
 ### 3.1 **Status und Typen für BCF 1.0-Kompatibilität sperren**
 
@@ -3197,8 +3191,6 @@ Typen werden ähnlich wie Status konfiguriert, außer dass sie keine Meta-Status
 ## 4. **Benutzerdefinierte Felder**
 
 In diesem Menü können Sie benutzerdefinierte Felder in diesem Topic Board hinzufügen und ändern. _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Topic Board. Benutzerdefinierte Felder können auf der [Seite "Benutzerdefinierte Felder"](https://support.catenda.com/en/articles/6550459-custom-fields-setup) konfiguriert werden. _Erforderlicher Zugriff:_ Projektadministrator
-
-Die folgenden Topics werden in diesem Abschnitt beschrieben:
 
 ### 4.1 **Benutzerdefiniertes Feld hinzufügen**
 
@@ -3251,8 +3243,6 @@ Topics, die mit Feldern in ein Topic Board eingegeben werden, die im Topic Board
 Oben in der Topics-Tabelle wird dann eine orangefarbene Leiste angezeigt, die angibt, dass nicht verknüpfte Felder im Topic Board vorhanden sind. _Erforderlicher Zugriff:_ Administrator
 
 Damit Topics, die Felder mit Werten enthalten, die im Topic Board nicht vorhanden sind, in der Topics-Tabelle angezeigt werden, müssen die Felder mit etwas verknüpft werden, das im Topic Board vorhanden ist.
-
-Die folgenden Topics werden in diesem Abschnitt beschrieben:
 
 ### 6.1 **Felder mit nicht vorhandenen Werten**
 
@@ -4082,8 +4072,6 @@ Das Banner auf der Genehmigungseinstellungsseite könnte etwa so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/eekvwhj0/01-intro.png)
 
-In diesem Artikel werden die folgenden Themen beschrieben:
-
 ## 1. **Aktionen auf der Genehmigungseinstellungsseite**
 
 Die Aktionen der Genehmigungseinstellungsseite können durch Klicken auf das Aktionsmenü oben rechts auf der Genehmigungseinstellungsseite aufgerufen werden. Die Aktionen der Genehmigungseinstellungsseite könnten etwa so aussehen:
@@ -4101,8 +4089,6 @@ Wählen Sie das Standardverhalten aus, das auftritt, wenn eine veröffentlichte 
 Das ist, wie die Genehmigungseinstellungsseite aussehen kann, nachdem veröffentlichte Status für jedes Ergebnis erstellt und konfiguriert wurden sowie Themenvorlagen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/eekvwhj0/04-publish-options.png)
-
-In diesem Abschnitt werden die folgenden Themen beschrieben:
 
 ### 2.1 **Dateiprüfstatus**
 
@@ -7138,8 +7124,6 @@ Wenn das Kontrollkästchen "Als Entwurf hochladen" deaktiviert ist, werden Infor
 
 Klicken Sie auf Tabellenansicht (**4**) oben rechts in der Topics-Tabelle auf der [topics page](https://support.catenda.com/en/articles/4670271-topics-page). Standardmäßig wird die Listenansicht in der Tabelle angezeigt. Die Einstellung für die Tabellenansicht ist eine globale Einstellung. Sobald die bevorzugte Ansicht ausgewählt ist, werden topic-Tabellen in jedem topic board jedes Projekts für den Benutzer in dieser Ansicht angezeigt.
 
-Die folgenden Topics werden in diesem Artikel beschrieben:
-
 ## 1. **Topics-Tabelle**
 
 Die Topics-Tabelle kann ungefähr so aussehen, wenn die Tabellenansicht konfiguriert ist.
@@ -7147,8 +7131,6 @@ Die Topics-Tabelle kann ungefähr so aussehen, wenn die Tabellenansicht konfigur
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/01-topics-table.png)
 
 Klicken Sie [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda), um mehr über die Arbeit mit Tabellen in Catenda zu erfahren. Sobald ein topic erstellt ist und die Tabelle geladen ist, wird das topic als Zeile in der Topics-Tabelle für den Benutzer angezeigt. Beachten Sie, dass der offene Filter standardmäßig aktiviert ist und geschlossene topics möglicherweise bis zur Filterung ausgeblendet werden.
-
-Die folgenden Topics werden in diesem Abschnitt beschrieben:
 
 ### 1.1 **Während der Anzeige vorgenommene Änderungen**
 
@@ -7201,8 +7183,6 @@ Oben rechts in der Topics-Tabelle finden Sie das Dropdown "Spalten".
 Mit diesem Dropdown können Sie die Spalten der Tabelle neu anordnen und umschalten. Ihre Einstellung für die Neuordnung und Umschaltung von Spalten wird über topic boards und Projekte hinweg gespeichert und in Ihrem Konto gespeichert. Das heißt, es behält diese Reihenfolge, wenn Sie den Browser schließen und neu ordnen. Wenn Sie versehentlich eine Spalte ausgeblendet haben, indem Sie sie aus der Tabelle gezogen haben, können Sie sie hier erneut aktivieren. Standardmäßig sind alle Spalten aktiviert und in dieser Reihenfolge:
 
 ## 4. **3. Header-Zeile**
-
-Die folgenden Topics werden in diesem Abschnitt beschrieben:
 
 ### 4.1 **Sortierung**
 
@@ -7282,8 +7262,6 @@ So kann der Hauptteil eines Topics aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/03-intro.png)
 
-Die folgenden Topics werden in diesem Artikel beschrieben:
-
 ## 1. **Fortschrittsbalken**
 
 Der Fortschrittsbalken wird oben im Topic Body angezeigt, wenn Kontrollkästchen oder verlinkte Topics zur Topic-Beschreibung hinzugefügt wurden. So kann der Fortschrittsbalken oben im Topic aussehen:
@@ -7333,8 +7311,6 @@ Die Historie des Topics können Sie durch Klicken auf die Schaltfläche "Histori
 Der Kommentarbereich in einem Topic kann so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/08-comment-section.png)
-
-Die folgenden Topics werden in diesem Bereich beschrieben:
 
 ### 4.1 **Menü für vorhandene Kommentare**
 
@@ -7451,8 +7427,6 @@ So kann die Topics-Template-Seite aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3hd924wy/01-intro.png)
 
-Die folgenden Topics werden in diesem Artikel beschrieben:
-
 ## 1. **Aktionen auf der Topic-Template-Seite**
 
 Die Aktionen der Topics-Templates-Seite finden Sie, indem Sie auf das Aktionsmenü rechts neben der grünen Plus-Schaltfläche oben rechts auf der Topics-Templates-Seite klicken. So können die Aktionen der Topics-Templates-Seite aussehen:
@@ -7493,8 +7467,6 @@ So kann die Topic-Vorlagenseite aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/01-intro.png)
 
-Die folgenden Topics werden in diesem Artikel beschrieben:
-
 ## 1. **Actions auf der Topic-Vorlagenseite**
 
 Die Actions der Topic-Vorlagenseite können durch Klicken auf das Actionmenü rechts der grünen Plus-Schaltfläche oben rechts auf der Topic-Vorlagenseite aufgerufen werden. So können die Actions der Topic-Vorlagenseite aussehen, wenn Sie Topic-Vorlagen anzeigen:
@@ -7518,8 +7490,6 @@ Klicken Sie auf die Actions "Topic-Vorlagen" und "Archivierte Topic-Vorlagen", u
 Nach dem Erstellen einer Topic-Vorlage wird eine Karte für die Topic-Vorlage auf dieser Seite angezeigt. Klicken Sie auf eine Topic-Vorlagenkarte, um die [Topic-Vorlagenseite](https://support.catenda.com/en/articles/12371549-topic-template-page) dieser Topic-Vorlage zu öffnen. So kann eine Topic-Vorlagenkarte aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/04-topic-template-card.png)
-
-Die folgenden Topics werden in diesem Abschnitt beschrieben:
 
 ### 2.1 **Topic-Vorlagentitel**
 
@@ -8562,8 +8532,6 @@ Bitte überprüfen Sie, ob Sie Browser-Erweiterungen oder andere Programme haben
 2. Chrome
 3. Microsoft Edge
 
-In diesem Abschnitt werden die folgenden Themen beschrieben:
-
 ### 1.1 **Zoomfaktor**
 
 Catenda wird empfohlen mit einem Zoomfaktor von 100% zu verwenden. Catenda funktioniert gut mit Zoomfaktoren zwischen 75% und 150%
@@ -9181,7 +9149,7 @@ Panel-Tastenkombinationen überprüfen jetzt auch die Zahl, die in der Tastenkom
 
 # Changelog 13 Catenda - August 2026
 
-> Catenda-Produktaktualisierungen: Erkunden Sie die neue Kanban-Ansicht für Topics, verbesserte Approval Workflows, Catenda AI Connect und Datenexport. Umfasst behobene Fehler, neue Tutorial-Videos und aktualisierte Support-Dokumentation für Modelle, Dokumente und Topics.
+> Catenda-Produktaktualisierungen: Erkunden Sie die neue Kanban-Ansicht für Topics, verbesserte Approval Workflows, Catenda AI Connect und Datenexport. Umfasst behobene Fehler, neue Tutorial-Videos und aktualisierte Support-Dokumentation.
 
 Hallo zusammen,
 

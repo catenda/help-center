@@ -10,11 +10,7 @@ Dette er hvordan høyre meny i filgjennomgangen av en gjennomgang kan se ut for 
 
 Prosjekter der delte revisjoner ble aktivert før 2. oktober 2025, vil se den eldre filgjennomgangssiden i stedet.
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. Vurderingsfane
-
-Følgende saker beskrives i denne delen:
 
 ### 1.1 Tittel
 
@@ -62,8 +58,6 @@ I merknader-fanen vises en oversikt over merknadene som er blitt sendt inn av hv
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/sb8szdmp/06-markups-tab.png)
 
 Medlemmer som er del av vurderingsteam som ennå ikke har sendt inn valideringsindikasjon, kan lage merknader med merkingsverktøyene i dokumentviseren.
-
-Følgende saker beskrives i denne delen:
 
 ### 2.1 Skrivebeskyttet
 

@@ -6,8 +6,6 @@ Med lenkeslippet kan en lenke som viser bare de valgte tabellradene kopieres.
 
 Velg en eller flere rader i en tabell og klikk på kopier lenkeikonet, eller åpne handlingsmenyen og klikk på kopier lenke-handlingen.
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **Kopier lenke i modeller**
 
 Velg modelltabellelementer og bruk kopier lenke-handlingen til å kopiere en lenke som åpner modelltabellen filtrert kun på disse elementene.

@@ -2,8 +2,6 @@
 
 Feil som kan oppstå med Navisworks-plugin og hvordan du løser dem er forklart i denne artikkelen.
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **AddTopic**
 
 Når sakmenyen åpnes uten å være pålogget vises følgende feil.

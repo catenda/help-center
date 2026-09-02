@@ -4,8 +4,6 @@ Filtermeny i et emnebrett kan åpnes ved å klikke på filterknappen til venstre
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/01-intro.png)
 
-Følgende emner er beskrevet i denne artikkelen:
-
 ## 1. **Filtre**
 
 Klikk filterknappen øverst til venstre for at et panel skal vises på venstre side. Når et filter er brukt, endres nettadressen som vises i nettleseren med det. I denne artikkelen vises filtre slik: _Filternavn i meny_ - `Filternavn i nettadresse=Filteralternativ i nettadresse`
@@ -25,8 +23,6 @@ Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for 
 Her finner du følgende filtre:
 
 De ulike filtrene i filtermeny vises bare hvis det er emner der elementet som filtreres på har blitt konfigurert.
-
-Følgende emner er beskrevet i denne delen:
 
 ### 2.1 **Mine emner**
 
@@ -93,8 +89,6 @@ I tillegg til filtermeny på venstre side er det noen funksjoner som bare er til
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/02-filtering-in-the-search-or-filter-bar.png)
 
 Under søke- eller filterfeltet åpnes en meny med foreslåtte filtre. Det første filteret i filtermeny foreslås etter uthevning av søke- eller filtermeny. Trykk Enter for å bruke dette filteret, eller bruk piltastene til å navigere mellom de ulike filtrene.
-
-Følgende emner er beskrevet i denne delen:
 
 ### 3.1 **Lagrede filtre**
 

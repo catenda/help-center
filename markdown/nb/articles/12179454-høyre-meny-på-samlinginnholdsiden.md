@@ -4,8 +4,6 @@ Høyre meny finner du øverst til høyre på samlingbanneret under handlingsmeny
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/01-intro.png)
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Alternativer**
 
 Alternativfanen er den første fanen i høyre meny på samlingssiden.
@@ -23,8 +21,6 @@ Etter deling med prosjekt kan alternativfanen se slik ut:
 Etter fullføring kan alternativene se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/05-options.png)
-
-Følgende saker er beskrevet i denne delen:
 
 ### 1.1 **Dokumentrevisjon**
 

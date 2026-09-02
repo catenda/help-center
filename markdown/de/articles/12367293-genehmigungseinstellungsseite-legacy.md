@@ -6,8 +6,6 @@ Das Banner auf der Genehmigungseinstellungsseite könnte etwa so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/eekvwhj0/01-intro.png)
 
-In diesem Artikel werden die folgenden Themen beschrieben:
-
 ## 1. **Aktionen auf der Genehmigungseinstellungsseite**
 
 Die Aktionen der Genehmigungseinstellungsseite können durch Klicken auf das Aktionsmenü oben rechts auf der Genehmigungseinstellungsseite aufgerufen werden. Die Aktionen der Genehmigungseinstellungsseite könnten etwa so aussehen:
@@ -25,8 +23,6 @@ Wählen Sie das Standardverhalten aus, das auftritt, wenn eine veröffentlichte 
 Das ist, wie die Genehmigungseinstellungsseite aussehen kann, nachdem veröffentlichte Status für jedes Ergebnis erstellt und konfiguriert wurden sowie Themenvorlagen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/eekvwhj0/04-publish-options.png)
-
-In diesem Abschnitt werden die folgenden Themen beschrieben:
 
 ### 2.1 **Dateiprüfstatus**
 

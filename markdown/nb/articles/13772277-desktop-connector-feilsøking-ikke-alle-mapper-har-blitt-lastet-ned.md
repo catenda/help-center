@@ -8,8 +8,6 @@ I selve oppgaven kan du se følgende:
 
 `Ikke alle mapper har blitt lastet ned, klikk for å vise feil.`
 
-Følgende emner er beskrevet i denne artikkelen:
-
 ## 1. **Tegn som ikke støttes**
 
 I dette tilfellet vil loggfilen gi følgende feil:
@@ -29,8 +27,6 @@ I dette tilfellet vil loggfilen gi følgende feil:
 `Feil: Nettverksbanen ble ikke funnet. : '<path>'`
 
 I denne situasjonen mislykkes overføringen umiddelbart. Dette skjer fordi programmet prøver å nå en mappe som ikke lenger er tilgjengelig. Fordi "banen" er helt ødelagt, kan programmet ikke engang begynne nedlastingen. Det er tre hovedgrunner til at mappen din har blitt en "blindvei":
-
-Følgende emner er beskrevet i denne delen:
 
 ### 2.1 **1. Den manglende mappen (mest vanlig)**
 

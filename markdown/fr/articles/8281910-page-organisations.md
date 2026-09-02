@@ -16,8 +16,6 @@ La liste des organisations est triée par défaut en ordre décroissant, mais pe
 
 Les pages suivantes deviennent disponibles après avoir cliqué sur une organisation :
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 1.1 **Page de profil**
 
 Cliquez sur l'une des organisations de la liste pour accéder à la page de profil de l'organisation. Sur la page de profil, vous pouvez télécharger une image de profil pour l'organisation. Cliquez [ici](https://support.catenda.com/en/articles/8497478-organization-profile-page) pour en savoir plus sur la page de profil d'une organisation

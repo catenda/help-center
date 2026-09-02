@@ -4,8 +4,6 @@ Bokmerker finnes på [bokmerkersiden](https://support.catenda.com/en/articles/46
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/01-intro.png)
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Handlingsmeny**
 
 Handlingsmenyen finner du øverst til høyre på siden
@@ -43,8 +41,6 @@ Hvis dette bokmerket ble lagd ved å kopiere et bokmerke som ble delt med prosje
 ## 5. **Deling**
 
 Når et bokmerke deles med prosjektet, kan alle prosjektmedlemmer se bokmerket i listen over bokmerker.
-
-Følgende saker er beskrevet i denne delen:
 
 ### 5.1 **Privat**
 

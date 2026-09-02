@@ -8,8 +8,6 @@ Her er et eksempel på hvordan en statistikkside kan se ut
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2s7g3kx3/02-intro.png)
 
-Følgende saker blir beskrevet i denne artikkelen:
-
 ## 1. Oversikt
 
 Du vil få en oversikt over alle åpne og lukkede saker på tavlen.

@@ -4,8 +4,6 @@ Handlingen "opprett ny bygning" finnes øverst til høyre på [etasjekonfikgurat
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/43a5z00a/01-intro.png)
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Nye elementhandlinger**
 
 Hvis ingen bygninger har blitt konfigurert ennå, kan "legg til ny"-knappen i midten av siden klikkes. Klikk på den grønne plusknappen øverst til høyre eller åpne handlingsmenyen for å bruke handlingen "Legg til ny bygning". For å legge til en bygning er det alltid mulig å klikke på den grønne plusknappen eller klikke på handlingen i handlingsmenyen.

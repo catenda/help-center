@@ -4,8 +4,6 @@ Draft revisions kan legges til en gjennomgang ved å klikke på knappen for å l
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bzenvg2j/01-intro.png)
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **Søk eller filtrer**
 
 Slik kan søk- eller filtrermenyen i dialogboksen for å legge til draft i gjennomgang se ut:
@@ -13,8 +11,6 @@ Slik kan søk- eller filtrermenyen i dialogboksen for å legge til draft i gjenn
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bzenvg2j/02-search-or-filter.png)
 
 Som standard er lastet opp av meg filtrert. På denne måten vises alle draft revisions som er lastet opp av medlemmet som oppretter revisjonen
-
-Følgende saker beskrives i denne delen:
 
 ### 1.1 **Lenker**
 

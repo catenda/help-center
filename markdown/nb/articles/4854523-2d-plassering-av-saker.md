@@ -8,11 +8,7 @@ Slik kan markører se ut i 2D-visningen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/01-intro.png)
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **Saker med eksisterende markører**
-
-Følgende saker beskrives i denne delen:
 
 ### 1.1 **Samhandling med markører**
 
@@ -76,8 +72,6 @@ I denne menyen kan markeringsfargemodus også konfigureres. ([Status, Saktype, F
 2. I lagmenyen kan markeringslaget aktiveres/deaktiveres.
 
 ## 2. **Saker med nye markører**
-
-Følgende saker beskrives i denne delen:
 
 ### 2.1 **Legg til markør fra sak**
 

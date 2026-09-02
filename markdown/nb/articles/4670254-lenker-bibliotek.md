@@ -4,8 +4,6 @@ Du finner lenker-biblioteket som det andre biblioteket på [bibliotek-siden](htt
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/f29gh2kf/01-intro.png)
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **Øverste knapper**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/f29gh2kf/02-top-buttons.png)

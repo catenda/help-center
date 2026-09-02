@@ -6,8 +6,6 @@ Du finner prosjektvarselinnstillinger som en underside på [siden for prosjektva
 
 Herfra kan du filtrere hvilke varslinger du ønsker i Catenda Hub, e-post eller Slack. Disse valgte innstillingene er personlige fra bruker til bruker.
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. Angi en preferanse
 
 Denne knappen kan brukes til å slå prosjektvarsler helt av eller på.

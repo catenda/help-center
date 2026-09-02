@@ -6,8 +6,6 @@ Les flux d'approbation établissent des processus structurés d'examen et de val
 
 > **Remarque :** Seuls les administrateurs du projet peuvent accéder aux paramètres de configuration du flux de travail, créer de nouveaux flux d'approbation ou modifier les paramètres de flux de travail existants.
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **1. Comment les modifications du projet affectent les flux d'approbation**
 
 Lorsqu'un modèle de flux de travail est modifié ou que les configurations du projet sont ajustées (comme l'ajout ou la suppression de membres d'équipe dans les paramètres du projet), les modifications affectent différemment les demandes d'approbation futures et en cours :
@@ -27,8 +25,6 @@ L'archivage d'un statut de document, la suppression d'une équipe ou l'archivage
 ## 2. **Configuration avant soumission (création initiale)**
 
 Lorsqu'un nouveau flux d'approbation est créé pour la première fois, tous les paramètres fondamentaux doivent être configurés avant que le modèle puisse être enregistré et activé.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 2.1 **2.1 Champs obligatoires et banneau d'avertissement avant soumission**
 
@@ -70,8 +66,6 @@ Si un champ obligatoire est incomplet lors de la tentative d'enregistrement d'un
 
 Certaines opérations restent flexibles et peuvent être ajustées lors de la configuration initiale ou mises à jour à tout moment après l'activation d'un flux de travail. Ces opérations flexibles se divisent en deux catégories distinctes : **Paramètres de modèle de flux de travail** (modifiés directement sur la page de configuration du flux de travail) **Gestion des membres de l'équipe du projet** (modifiés sur la page Équipes du projet pour tous les rôles du flux de travail).
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 3.1 **3.1** **Modifications de modèle de flux de travail**
 
 Ces paramètres peuvent être modifiés dans le menu de configuration du flux de travail à tout moment, affectant directement les futures demandes d'approbation :
@@ -94,8 +88,6 @@ L'ajout ou la suppression d'utilisateurs individuels s'effectue sur la page **É
 
 Une fois qu'un modèle de flux de travail est enregistré et soumis pour la première fois, les paramètres structurels clés se verrouillent pour assurer des règles d'évaluation cohérentes dans les demandes d'approbation.
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 4.1 **4.1 Paramètres verrouillés vs. modifiables**
 
 **4.1.1 Paramètres verrouillés** Les paramètres de temps, les étapes d'examen, les équipes d'examinateurs assignées, les durées des étapes, les bascules d'approbation automatique, les équipes d'approbation finale et les statuts de documents finals mappés ne peuvent pas être modifiés après la soumission initiale.
@@ -117,8 +109,6 @@ L'enregistrement de **toute** modification post-soumission d'un flux de travail 
 ## 5. **5.** **Impact sur les approbations en cours et les cycles de vie des équipes**
 
 Lorsque les paramètres du projet ou les adhésions aux équipes changent pendant que les demandes d'approbation sont activement en cours, le système gère l'accès, la création de rubriques et la progression du flux de travail selon des règles spécifiques.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 5.1 **Ajout et suppression de membres d'équipe**
 

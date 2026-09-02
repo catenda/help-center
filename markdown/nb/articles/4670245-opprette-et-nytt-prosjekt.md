@@ -8,8 +8,6 @@ Siden for nytt prosjekt kan se omtrent slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/01-intro.png)
 
-Følgende emner er beskrevet i denne artikkelen:
-
 ## 1. **Velg eier**
 
 Brukere med tilgang til enterprise-organisasjoner vil kunne opprette antallet prosjekter som planen deres tillater.
@@ -55,8 +53,6 @@ Når et nytt prosjekt opprettes, er opt-in-funksjoner ikke aktivert som standard
 ## 5. **Velg et prosjekt for å bruke som mal**
 
 Du kan velge å arve noen av innstillingene fra et annet prosjekt når du lager et nytt prosjekt. _Påkrevd tilgang:_ Prosjektmedlem
-
-Følgende emner er beskrevet i denne delen:
 
 ### 5.1 **Modeller -** Ingen revisjoner
 

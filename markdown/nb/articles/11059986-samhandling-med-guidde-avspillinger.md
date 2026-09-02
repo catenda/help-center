@@ -4,8 +4,6 @@ Slik kan en veiledningsavspilling se ut:
 
 <div class="intercom-container"><a href="https://eu.guidde.com/share/playlists/raHoQ3qwoDbNx18S5YZtDv?track_link_name=Intercom&amp;track_link_id=rHg8xpibRQegGuksgmT5nA&amp;origin=7PqdD6oPp9QLchKHNkCwDH3opRS2" target="_blank"><img height="1350" src="https://raw.githubusercontent.com/catenda/help-center/main/images/wm2jp1mz/inline-6fc59cc67355.png" style="height: auto;" width="2556"/></a></div>
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Trinn-for-trinn-instruksjoner**
 
 Finn en trinn-for-trinn-gjennomgang for hver video i avspillingen ved å velge videoen og rulle ned 👇

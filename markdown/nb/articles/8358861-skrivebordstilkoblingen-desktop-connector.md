@@ -4,11 +4,7 @@
 
 Med Catenda desktop connector kan du planlegge opplastinger og nedlastinger av de nyeste versjonene av Dokumenter.
 
-Følgende emner er beskrevet i denne artikkelen:
-
 ## 1. **Umiddelbar opp-/nedlasting**
-
-Følgende emner er beskrevet i denne delen:
 
 ### 1.1 **Opplasting**
 
@@ -114,8 +110,6 @@ Planlegg en periodisk opplasting av filer fra systemet ditt til Catenda Hub med 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/06-upload-task.png)
 
-Følgende emner er beskrevet i denne delen:
-
 ### 7.1 **Tittel - Obligatorisk**
 
 Opplastingsoppgaven må ha minst en tittel for å bli lagret
@@ -139,8 +133,6 @@ Oppgaver trenger ikke å bli lagret for å starte opplastingsprosessen. Klikk p�
 Planlegg en periodisk nedlasting av filer fra Catenda Hub til det lokale systemet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/07-download-task.png)
-
-Følgende emner er beskrevet i denne delen:
 
 ### 8.1 **Tittel - Obligatorisk**
 

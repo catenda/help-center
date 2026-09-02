@@ -2,8 +2,6 @@
 
 Les limites de la façon dont les champs personnalisés peuvent être utilisés seront expliquées ici.
 
-Les rubriques suivantes sont décrites dans cet article:
-
 ## 1. **Projet \<=> Projet**
 
 Les champs personnalisés ont un identifiant unique au sein d'un projet et ne peuvent donc pas être échangés d'un projet à un autre. Même si les champs personnalisés ont le même nom dans les deux projets, l'identifiant sera unique et le champ ne sera pas reconnu.
@@ -15,8 +13,6 @@ Lorsqu'un champ personnalisé est activé pour deux tableaux de rubriques au sei
 ## 3. **Exportation des champs personnalisés sur les rubriques**
 
 Les champs personnalisés sur les rubriques peuvent être exportés de la manière suivante
-
-Les rubriques suivantes sont décrites dans cette section:
 
 ### 3.1 **Exportation PDF de rubrique**
 

@@ -2,11 +2,7 @@
 
 Il existe plusieurs façons de configurer le contenu de la visionneuse 2D selon vos besoins.
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Objets de la visionneuse**
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 1.1 **Mise en évidence des objets sélectionnés**
 

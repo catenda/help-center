@@ -10,8 +10,6 @@ _Beste nettleser etter minnebruk på Windows (mars 2026):_
 2. Chrome
 3. Microsoft Edge
 
-Følgende saker er beskrevet i denne delen:
-
 ### 1.1 **Zoomskala**
 
 Det anbefales å bruke Catenda med 100 % zoomskala. Catenda fungerer godt med zoomskalaer mellom 75 % og 150 %

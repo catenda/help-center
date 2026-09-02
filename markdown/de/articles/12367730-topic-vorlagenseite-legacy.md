@@ -6,8 +6,6 @@ So kann die Topic-Vorlagenseite aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/01-intro.png)
 
-Die folgenden Topics werden in diesem Artikel beschrieben:
-
 ## 1. **Actions auf der Topic-Vorlagenseite**
 
 Die Actions der Topic-Vorlagenseite können durch Klicken auf das Actionmenü rechts der grünen Plus-Schaltfläche oben rechts auf der Topic-Vorlagenseite aufgerufen werden. So können die Actions der Topic-Vorlagenseite aussehen, wenn Sie Topic-Vorlagen anzeigen:
@@ -31,8 +29,6 @@ Klicken Sie auf die Actions "Topic-Vorlagen" und "Archivierte Topic-Vorlagen", u
 Nach dem Erstellen einer Topic-Vorlage wird eine Karte für die Topic-Vorlage auf dieser Seite angezeigt. Klicken Sie auf eine Topic-Vorlagenkarte, um die [Topic-Vorlagenseite](https://support.catenda.com/en/articles/12371549-topic-template-page) dieser Topic-Vorlage zu öffnen. So kann eine Topic-Vorlagenkarte aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/04-topic-template-card.png)
-
-Die folgenden Topics werden in diesem Abschnitt beschrieben:
 
 ### 2.1 **Topic-Vorlagentitel**
 

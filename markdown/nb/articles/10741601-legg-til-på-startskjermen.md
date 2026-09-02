@@ -2,8 +2,6 @@
 
 Full funksjonalitet for Catenda Hub er alltid tilgjengelig gjennom nettleseren. Catenda støtter å bli lagt til på startskjermen, dashbord eller dock ved å installere det via en nettleser. Dette er ellers kjent som en progressiv nettapp (PWA). Klikk [her](https://support.catenda.com/en/articles/10774300-home-screen-system-browser-support) for å se hvilke nettlesere som støtter PWA på systemet ditt.
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Fordeler**
 
 Å installere Catenda via en nettleser i stedet for å lage en snarvei gir følgende fordeler:
@@ -19,8 +17,6 @@ Følgende saker er beskrevet i denne artikkelen:
 ## 2. **iPhone og iPad - Anbefalt nettleser**
 
 På Apple-enheter er det ofte bare mulig å legge til en side på startskjermen fra Safari. Naviger til siden du vil skal åpnes når du åpner applikasjonen som skal legges til på startskjermen på enheten din.
-
-Følgende saker er beskrevet i denne delen:
 
 ### 2.1 **Delingsknapp**
 
@@ -55,8 +51,6 @@ Safari lukkes og du tas til stedet der snarveien er installert på startskjermen
 ## 3. **Android - Anbefalt nettleser**
 
 Ved å installere Catenda som en app på enheten din kan du legge det til på startskjermen med Chrome-nettleseren. I Chrome-nettleseren navigerer du til siden du vil skal åpnes når du trykker på siden som skal legges til på startskjermen på enheten din.
-
-Følgende saker er beskrevet i denne delen:
 
 ### 3.1 **Handlingsmeny**
 

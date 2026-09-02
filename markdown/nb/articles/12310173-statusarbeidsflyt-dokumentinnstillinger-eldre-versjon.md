@@ -17,8 +17,6 @@ Når statusarbeidsflytene blir aktivert, vil følgende endre seg i prosjektet:
 - En gjennomgangsmeny i dokumentinnstillinger vises.
 - En [gjennomgangs](https://support.catenda.com/en/articles/5784717-document-approval) underside til dokumentsiden vises.
 
-Følgende emner er beskrevet i denne artikkelen:
-
 ## 1. **Legg til status**
 
 Du kan legge til en status ved å klikke på Legg til status. En ny status kan ha en farge, et navn og kan enten være et publisert eller utkast stadie.

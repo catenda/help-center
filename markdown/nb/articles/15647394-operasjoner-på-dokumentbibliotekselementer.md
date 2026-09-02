@@ -1,14 +1,10 @@
 # Operasjoner på dokumentbibliotekselementer
 
-Følgende emner er beskrevet i denne artikkelen:
-
 ## 1. **1. Mappeoperasjoner**
 
 Dette er de forskjellige operasjonene som kan utføres på en mappe i henhold til tilgangsnivåene.
 
 <div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; padding: 8px;"><p><b>Operasjon</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Påkrevd tilgang</b></p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Vis mappeinnhold / del mappekoblingen</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Opprett et dokument, legg til en undermappe, gi mappen nytt navn</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Skriv</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Flytt, slett, endre tilgangsinnstillinger (ACL)</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Full tilgang</p></td></tr></tbody></table></div>
-
-Følgende emner er beskrevet i denne delen:
 
 ### 1.1 **1.1 Påkrevd tilgang: Les**
 
@@ -45,8 +41,6 @@ Dette er de forskjellige operasjonene som kan utføres på et dokument i henhold
 <div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; padding: 8px;"><p><b>Operasjon</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Påkrevd tilgang</b></p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Del en dokumentkobling</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Koble/avkoble objekter, rediger merkelapper, opprett, gi nytt navn, opprett en modell (IFC)</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Skriv</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Flytt til en annen mappe, slett, endre ACL</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Full tilgang</p></td></tr></tbody></table></div>
 
 > **Merknad:** Opprettelse eller fjerning av en modell fra et IFC-dokument krever også skrivetilgang til "opprettelse og fjerning av modeller" i prosjektinnstillinger.
-
-Følgende emner er beskrevet i denne delen:
 
 ### 2.1 **2.1 Påkrevd tilgang: Les**
 
@@ -86,8 +80,6 @@ Tabellen nedenfor relaterer operasjonene som kan utføres på en publisert revis
 
 <div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; padding: 8px;"><p><b>Operasjon</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Påkrevd tilgang</b></p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Forhåndsvisning i Catenda Hub, tilgang i apper (mobil / Catenda Site), 2D/3D-viser, last ned, sammenlign, legg til samling, del</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Trekk tilbake</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Full tilgang</p></td></tr></tbody></table></div>
 
-Følgende emner er beskrevet i denne delen:
-
 ### 3.1 **3.1 Påkrevd tilgang: Les**
 
 _Forhåndsvisning i Catenda Hub_ Medlemmer med minst lesetilgang til et dokument kan forhåndsvise publiserte revisjoner i Catenda Hub.
@@ -116,8 +108,6 @@ _Trekk tilbake_ Medlemmer med full tilgang til et dokument kan trekke tilbake pu
 
 Tabellen nedenfor relaterer operasjonene som kan utføres på en utkastrevisjoner til tilgangsnivåene. Utkastrevisjoner er bare tilgjengelige i prosjekter opprettet før 2. oktober 2025.
 
-Følgende emner er beskrevet i denne delen:
-
 ### 4.1 **4.1 Påkrevd tilgang: Ingen tilgang**
 
 _Tilgang i applikasjoner_ Bare publiserte revisjoner kan få tilgang fra applikasjoner som får tilgang til vår API, for eksempel vår mobilapplikasjon, Catenda Site.
@@ -145,8 +135,6 @@ Tabellen nedenfor relaterer operasjonene som kan utføres på en delt revisjon t
 <div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; padding: 8px;"><p><b>Operasjon</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Påkrevd tilgang (+ ekstra betingelse)</b></p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Forhåndsvisning, del, last ned</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les (+ "Vis delte revisjoner" merket av)</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Publiser</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Skriv (+ "Kan publisere" merket av)</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Trekk tilbake</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>"Vis delte revisjoner" merket av</p></td></tr></tbody></table></div>
 
 > **Merknad:** Merknad: Bare publiserte revisjoner kan få tilgang fra apper eller legges til i samlinger.
-
-Følgende emner er beskrevet i denne delen:
 
 ### 5.1 **5.1 Påkrevd tilgang: Ingen tilgang**
 

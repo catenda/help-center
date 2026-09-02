@@ -4,11 +4,7 @@
 
 Dette er hvordan et øyeblikkbilde kan se ut i [kommentaren til en sak](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) eller i et [bokmerke](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e). <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-5a151da0b11e.png" width="272.72727272727275"/> Saken kan ha en merking øverst på bildet, og knappene ser annerledes ut. Eller øyeblikkbilder brukes på ulike måter i sakkommentarer og bokmerker, er deres funksjonalitet den samme.
 
-Følgende emner er beskrevet i denne artikkelen:
-
 ## 1. **Øyeblikksbildebilde**
-
-Følgende emner er beskrevet i denne delen:
 
 ### 1.1 **Øyeblikksbildebilde for sakkommentar**
 
@@ -41,8 +37,6 @@ PCen din kanskje ikke kan håndtere disse innstillingene, så vennligst juster d
 ## 2. **Visningspunktinnstillinger**
 
 Følgende innstillinger vil bli husket når et øyeblikkbilde opprettes. Disse innstillingene blir automatisk konfigurert når øyeblikksbildet gjenskapas.
-
-Følgende emner er beskrevet i denne delen:
 
 ### 2.1 **Objekter**
 

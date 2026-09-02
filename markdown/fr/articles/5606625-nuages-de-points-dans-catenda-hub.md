@@ -10,8 +10,6 @@ Voir ci-dessous les différents paramètres pour afficher vos données :
 
 <div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td><p>Adaptatif - Clairsemé - RVB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-05a450dc777f.png" style="height: auto;" width="3839"/></div></td><td><p>Adaptatif - Dense - RVB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-196a1135014a.png" style="height: auto;" width="3839"/></div></td></tr><tr><td><p>Fixe - Dense - RVB</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-66e21551bbef.png" style="height: auto;" width="3834"/></div></td><td><p>Fixe - Clairsemé - Intensité</p><div class="intercom-container"><img height="2159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/inline-4a2046c8eaf1.png" style="height: auto;" width="3839"/></div></td></tr></tbody></table></div>
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Aperçu de la section Documents**
 
 Les données PC des deux formats de fichier suivants peuvent être prévisualisées sur Catenda.
@@ -20,8 +18,6 @@ Les données PC des deux formats de fichier suivants peuvent être prévisualis�
 - `*.las`
 
 Les PC peuvent être téléchargés comme n'importe quel autre document dans la section Documents. Pour ces deux formats de fichier, des fichiers jusqu'à 25 GB peuvent être téléchargés dans la section Documents. Plusieurs fichiers peuvent être chargés dans la section Documents et affichés ensemble dans la Visionneuse 3D.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 1.1 **Téléchargement des données PC**
 
@@ -78,8 +74,6 @@ Dans cette section, nous verrons les paramètres dans Catenda Hub qui vous perme
 > **Remarque :** Avant de configurer la Visionneuse 3D, assurez-vous que l'application Catenda ouverte est configurée [comme recommandé](https://support.catenda.com/en/articles/6921941-hardware-recommendation).
 
 Les paramètres qui peuvent être utilisés pour configurer les nuages de points sont situés à deux endroits.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 3.1 **1. Budget de points :**
 

@@ -2,8 +2,6 @@
 
 Dokumenter-API-integreringen gir en enkel måte å få tilgang til innholdet som er lagret i skyen. Du kan koble deg til et felles datamiljø (CDE) og laste ned og laste opp modeller fra/til serveren.
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **Kobler til**
 
 Dokumenter-API-en finnes på integrasjonmenyen på Fil-fanen i Solibri. For å komme i gang med API-en for dokumenter må du først gi Solibri tilgang til Catenda-kontoen din. For å gjøre det, klikker du på Koble til.
@@ -63,8 +61,6 @@ Etter å ha klikket på åpne og logget på, hvis du nettopp ga tilgang eller ti
 Se dokumentene du har tilgang til med Catenda-kontoen din på dokumentersiden av Solibri-dokumentintegreringen. Her kan du konfigurere hvilke dokumenter som skal synkroniseres med Solibri.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/08-solibri-document-integration-documents-page.png)
-
-Følgende saker beskrives i denne delen:
 
 ### 5.1 **Navigasjon**
 
@@ -182,8 +178,6 @@ Hvis du allerede var logget på, men ikke med riktig konto, kan du klikke på pr
 Dokumenter som har blitt lenket fra Catenda i Solibri kan se annerledes ut fra vanlige dokumenter som har blitt åpnet fra det lokale systemet. Slik ser dokumenter ut når de har blitt lenket med dokumenter på Catenda:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/21-managing-linked-documents.png)
-
-Følgende saker beskrives i denne delen:
 
 ### 9.1 **Navnkolonne**
 

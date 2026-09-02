@@ -10,8 +10,6 @@ Bitte überprüfen Sie, ob Sie Browser-Erweiterungen oder andere Programme haben
 2. Chrome
 3. Microsoft Edge
 
-In diesem Abschnitt werden die folgenden Themen beschrieben:
-
 ### 1.1 **Zoomfaktor**
 
 Catenda wird empfohlen mit einem Zoomfaktor von 100% zu verwenden. Catenda funktioniert gut mit Zoomfaktoren zwischen 75% und 150%

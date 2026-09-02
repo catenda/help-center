@@ -2,8 +2,6 @@
 
 Avhengig av tilgangen din kan du se ulike handlinger for dokumentet ditt og dets revisjoner på [dokumentrevisjonsforhåndsvisningssiden](https://support.catenda.com/en/articles/8461918-document-banner-navigation).
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **Dokumenthandlinger**
 
 Handlingsmenyen til høyre for ikonene kan se slik ut:
@@ -34,8 +32,6 @@ Handlinger som har samme oppførsel som i dokumentlisten inkluderer:
 Handlinger for din nåværende revisjon finnes i [høyre meny for en revisjon](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision). Slik kan revisjonshandlingene se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/nxq3vptz/02-document-revision-actions.png)
-
-Følgende saker beskrives i denne delen:
 
 ### 2.1 **Sammenlign**
 

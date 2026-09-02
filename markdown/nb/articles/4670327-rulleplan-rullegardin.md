@@ -16,8 +16,6 @@ Denne artikkelen inneholder informasjon om følgende emner:
 
 _Forhåndsvisning av kommentarer – Vis akser_
 
-Følgende emner er beskrevet i denne artikkelen:
-
 ## 1. **1. Rulleplantyper**
 
 Det finnes to typer rulleplan som kan vises

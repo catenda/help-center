@@ -1,7 +1,5 @@
 # Endringslogg 1 Catenda - April 2023
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. Artikler
 
 _Nye artikler:_

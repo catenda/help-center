@@ -16,8 +16,6 @@ So kann der Hauptteil eines Topics aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/03-intro.png)
 
-Die folgenden Topics werden in diesem Artikel beschrieben:
-
 ## 1. **Fortschrittsbalken**
 
 Der Fortschrittsbalken wird oben im Topic Body angezeigt, wenn Kontrollkästchen oder verlinkte Topics zur Topic-Beschreibung hinzugefügt wurden. So kann der Fortschrittsbalken oben im Topic aussehen:
@@ -67,8 +65,6 @@ Die Historie des Topics können Sie durch Klicken auf die Schaltfläche "Histori
 Der Kommentarbereich in einem Topic kann so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/08-comment-section.png)
-
-Die folgenden Topics werden in diesem Bereich beschrieben:
 
 ### 4.1 **Menü für vorhandene Kommentare**
 

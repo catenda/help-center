@@ -4,13 +4,9 @@ Hallo alle sammen,
 
 Blomstene blomstrer og endring ligger i luften ettersom energinivåene stiger med mer sollys mens vi nærmer oss sommeren. ☀️😎🏖️ Hos Catenda har vi jobbet hardt for å sikre at plattformen beveger seg med denne nye energien som kommer med vårsesongstarten. Nå som flere og flere har begynt å bruke den nye måten å arbeide med gjennomganger på, har vi kunnet motta tilbakemeldingen din og gjøre noen siste endringer for å få denne nye funksjonen til å fungere jevnt og kontinuerlig. En av disse endringene har også påvirket sakerområdet med introduksjonen av sakmaler som ikke bare er tilgjengelige via gjennomgangsarbeidsflyt, men også for generelle saker. Husk å holde øye med noen endelige forbedringer av gjennomgangsfunksjonen mens vi overgår til å fokusere på det som er tilgjengelig på forhåndsvisningssiden for dokumenter de kommende månedene.
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Artikler**
 
 Når nye funksjoner lanseres og feil utbedres, oppdateres artikler med endringene som foretas. Vennligst finne følgende artikler som er laget og endret siden sist endringslogg.
-
-Følgende saker er beskrevet i denne seksjonen:
 
 ### 1.1 **Nye artikler:**
 
@@ -146,8 +142,6 @@ _Ofte stilte spørsmål_
 ## 3. **Løste feil**
 
 Takk for verdifulle tilbakemeldinger har vi kunne eliminere mange saker som du kanskje eller ikke har merket fantes. Nedenfor er en liste over mindre endringer som ble gjort av utviklingsteamet som resultat av samtaler med brukere.
-
-Følgende saker er beskrevet i denne seksjonen:
 
 ### 3.1 Saker
 

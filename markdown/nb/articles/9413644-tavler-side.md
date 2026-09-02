@@ -4,8 +4,6 @@ Du vil finne tavler-siden som en underside til [saker-siden](https://support.cat
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zq777cpq/01-intro.png)
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **Tavlerhandlinger**
 
 ### 1.1 **Ny saktavle**

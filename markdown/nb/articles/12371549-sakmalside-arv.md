@@ -6,8 +6,6 @@ Slik kan sakmalside se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3hd924wy/01-intro.png)
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Handlinger på sakmalside**
 
 Handlinger på sakmalside finner du ved å klikke på handlingsmenyen til høyre for den grønne plusskappen øverst til høyre på sakmalsidene. Slik kan handlingene på sakmalside se ut:

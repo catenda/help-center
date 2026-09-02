@@ -1,7 +1,5 @@
 # Feilsøking av Desktop Connector
 
-Følgende emner er beskrevet i denne artikkelen:
-
 ## 1. **Navnekonvensjon**
 
 Hvis en navnekonvensjon er aktivert på opplastingsmappen eller en overordnet mappe til opplastingsmappen, må det lokale filnavnet følge konvensjonen for at opplastingen skal gjennomføres. Hvis filnavnet ikke følger konvensjonen, vises følgende feil.
@@ -28,8 +26,6 @@ Vennligst spør en prosjektadministrator om tilgang til prosjektet. For å finne
 
 ## 3. **Dokumentutseende**
 
-Følgende emner er beskrevet i denne seksjonen:
-
 ### 3.1 **Mappeplassering**
 
 Dokumentnavn kan være begrenset med en navnekonvensjon i Catenda. Mapper kan ikke være begrenset. Uten bruk av en navnekonvensjon kan dokumenter med ethvert navn lastes opp. I dette tilfellet kan det hende at Catenda ikke kunne registrere filtypen til dokumentet. Mapper med ethvert navn kan opprettes. Det kan derfor være at Desktop Connector støter på problemer med tegn i navn som er reservert for Windows-funksjoner.
@@ -53,8 +49,6 @@ Siden mapper og filer som ender med en periode ikke er tillatt i Windows, fjerne
 I Catenda er det mulig å manuelt legge til mellomrom på slutten av et dokument- eller mappenavn, mens mellomrom på slutten av dokument- og mappenavn fjernes i Windows. Hvis det inkluderes mellomrom på Catenda, er navnet på den nedlastede mappen forskjellig fra navnet på mappen i Catenda som kan inneholde mellomrom. Når en opplastingsoppgave opprettes for den samme mappen, vil en ny mappe bli opprettet fordi fil- eller mappenavnet i Windows ikke har mellomrom på slutten.
 
 ## 4. **Ingen opplasting eller nedlasting**
-
-Følgende emner er beskrevet i denne seksjonen:
 
 ### 4.1 **Dokumentet finnes allerede**
 
@@ -102,8 +96,6 @@ Hvis dokumentet er i bruk, stoppes oppgaven og vil ikke fortsette hvis den ikke 
 
 ## 7. **Aktivitetsovervåking**
 
-Følgende emner er beskrevet i denne seksjonen:
-
 ### 7.1 **Oppgave startet**
 
 Oppgaver som er manuelt startet ved å klikke på Last opp/Last ned nå i oppgaven, viser en status for Last opp eller Last ned så snart oppgaven er startet. For både oppgaver som er manuelt startet og oppgaver som er startet etter tidsplan, vises en melding som ser slik ut i loggfilen når en oppgave starter:
@@ -141,8 +133,6 @@ _En feil oppstod_ En mer detaljert beskrivelse av feil som har oppstått, kan se
 _Nettverksutnyttelse_ Den eneste måten å se om oppgaver som er startet etter tidsplan er stoppet på, er ved å sjekke nettverksutnyttelsen av programmet. Hvis Desktop Connector har brukt mindre enn 1 kilobyte per sekund i over 2 minutter, har oppgaver som kjørte sannsynligvis blitt stoppet og vil ikke starte igjen. For oppgaver som er planlagt å gjentas, startes en ny oppgave hvis Desktop Connector kjører på den neste datoen og klokkeslettet oppgaven er planlagt til å begynne.
 
 ## 8. **Tilkobling mellom koblingen og Catenda**
-
-Følgende emner er beskrevet i denne seksjonen:
 
 ### 8.1 **Tilkobling ved oppgavestart**
 

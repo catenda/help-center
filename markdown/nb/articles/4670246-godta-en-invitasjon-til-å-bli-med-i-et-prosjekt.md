@@ -2,8 +2,6 @@
 
 Den vanligste måten å komme i gang med Catenda Hub er gjennom en invitasjon til et prosjekt.
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. Bli invitert
 
 For å motta en prosjektinvitasjon må en bruker i prosjektet invitere deg med e-postadressen din. Hvis du vet hvilket prosjekt du vil bli invitert til, men ikke vet hvem som har tillatelse til å gjøre det, kontakt [support@catenda.com](mailto:support@catenda.com) så forteller vi deg hvem som er i posisjon til å invitere deg.

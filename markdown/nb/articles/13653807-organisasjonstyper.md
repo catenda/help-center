@@ -2,13 +2,9 @@
 
 Et hvilket som helst antall organisasjoner kan opprettes for en kunde, men basert på organisasjonstypen kan de ha ulike typer prosjekter i dem.
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **1. Aktiv prosjektorganisasjon**
 
 Et pågående byggprosjekt kan være en del av en aktiv prosjektorganisasjon. For hver organisasjon kan en plan konfigureres. De som er ansvarlige for administrasjonen av Catenda innenfor en organisasjon kan settes som eier av organisasjonen. Organisasjonseiere kan gis tilgang til å opprette prosjekter ved å konfigurere en plan med en prosjektgrense for organisasjonen. Følgende enterprise-planer er tilgjengelige:
-
-Følgende saker beskrives i denne delen:
 
 ### 1.1 **1.1 Maksimalt prosjektantall**
 
@@ -47,8 +43,6 @@ _Arkiv_ I motsetning til andre løsninger som er spesifikt rettet mot langsiktig
 ## 3. **3. Administrasjonsprosjektorganisasjon**
 
 En administrasjonsorganisasjon opprettes så snart det første testprosjektet opprettes. Når en enterprise-avtale inngås blir en administrasjonsorganisasjon opprettet hvis det ikke finnes en allerede.
-
-Følgende saker beskrives i denne delen:
 
 ### 3.1 **3.1 Nytt funksjonsprosjekt**
 

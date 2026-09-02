@@ -12,8 +12,6 @@ Klikk på filterknappen øverst til venstre for at et panel skal vises på venst
 
 _Standardfilter_ Standardfilteret er opprinnelig ikke synlig i nettadressen. Når siden navigeres til for første gang, brukes følgende filter. _Ingen filter_ - `state=all`
 
-Følgende emner er beskrevet i denne delen:
-
 ### 1.1 **Lagre og del gjeldende filter**
 
 Gå til nettadressen for en filtrert side for å laste inn siden med filteret brukt. De brukte filtrene kan lagres øverst i filtermenyen. Klikk [her](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre

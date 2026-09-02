@@ -6,8 +6,6 @@ Slik kan saksmalsiden se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/01-intro.png)
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Handlinger på saksmalmsiden**
 
 Handlingene på saksmalmsiden finner du ved å klikke på handlingsmenyen til høyre for den grønne plussknappen øverst til høyre på saksmalsiden. Slik kan handlingene på saksmalsiden se ut når du ser på saksmaler:
@@ -31,8 +29,6 @@ Klikk på handlingene saksmaler og arkiverte saksmaler for å bytte mellom å vi
 Etter at en saksmal er opprettet, vises et kort for saksmalen på denne siden. Klikk på et saksmalskort for å åpne [saksmalssiden](https://support.catenda.com/en/articles/12371549-topic-template-page) for denne saksmalen. Slik kan et saksmalskort se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/04-topic-template-card.png)
-
-Følgende saker er beskrevet i denne delen:
 
 ### 2.1 **Saksmalstitel**
 

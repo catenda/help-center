@@ -2,8 +2,6 @@
 
 Il est possible de configurer l'accès à de nombreux emplacements différents dans Catenda Hub :
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Outil d'organisation**
 
 L'accès le plus élevé dans Catenda est l'accès à l'organisation. Ceci est généralement accordé à une ou quelques personnes de confiance dans les organisations d'entreprise ou les organisations avec archives. Les Membres ayant accès à l'organisation auront accès à l'[outil d'organisation](https://support.catenda.com/en/collections/5831081-organizations). Cela leur permet de voir tous les Membres de tous les projets qui font partie de l'organisation sans avoir à faire partie des projets eux-mêmes.
@@ -15,8 +13,6 @@ L'administrateur a toujours un accès complet à tout dans un projet. Il est don
 ## 3. **Accès Membres**
 
 Les Membres ordinaires peuvent se voir accorder un accès à différentes [parties d'un projet](#h_5e8171c200) soit par Équipe soit par Membre.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 3.1 **Membre spécifique**
 

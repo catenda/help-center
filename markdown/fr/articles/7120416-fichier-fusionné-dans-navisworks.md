@@ -1,7 +1,5 @@
 # Fichier fusionné dans Navisworks
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. Créer un fichier fusionné dans Navisworks
 
 Vous pouvez facilement télécharger les modèles IFC de votre projet Catenda en utilisant ce plugin et les actions de l'onglet Modèles.

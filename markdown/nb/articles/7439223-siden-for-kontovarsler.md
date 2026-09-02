@@ -8,8 +8,6 @@ På venstre side av siden for varsel ser du dine nyeste varsel, og på høyre si
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rwdesfej/02-intro.png)
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **Filtrering og funksjonalitet**
 
 Klikk [her](https://support.catenda.com/en/articles/8304417-filtering-and-functionality-on-notifications-pages) for å lese mer om hvordan du filtrerer de ulike problemene og i hvilke tilfeller du får sendt hver type varsel.

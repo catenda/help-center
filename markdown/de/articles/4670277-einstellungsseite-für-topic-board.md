@@ -18,15 +18,11 @@ So könnte die Einstellungsseite des Topic Board mit allen geschlossenen Menüs 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/04-intro.png)
 
-Die folgenden Topics werden in diesem Artikel beschrieben:
-
 ## 1. **Aktionsmenü**
 
 So kann das Aktionsmenü oben rechts in einem Topic Board aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/05-action-menu.png)
-
-Die folgenden Topics werden in diesem Abschnitt beschrieben:
 
 ### 1.1 **Neuer Topic**
 
@@ -57,8 +53,6 @@ _Name des Topic Board_ - Ändern Sie den Namen des Topic Board _Eigentümer_ - S
 **Beschreibung** Kurzbeschreibung, die nur hier zu sehen ist, damit Sie und andere, die das Board konfigurieren, wissen, wofür es verwendet wird.
 
 ## 3. **Status und Typen**
-
-Die folgenden Topics werden in diesem Abschnitt beschrieben:
 
 ### 3.1 **Status und Typen für BCF 1.0-Kompatibilität sperren**
 
@@ -105,8 +99,6 @@ Typen werden ähnlich wie Status konfiguriert, außer dass sie keine Meta-Status
 ## 4. **Benutzerdefinierte Felder**
 
 In diesem Menü können Sie benutzerdefinierte Felder in diesem Topic Board hinzufügen und ändern. _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Topic Board. Benutzerdefinierte Felder können auf der [Seite "Benutzerdefinierte Felder"](https://support.catenda.com/en/articles/6550459-custom-fields-setup) konfiguriert werden. _Erforderlicher Zugriff:_ Projektadministrator
-
-Die folgenden Topics werden in diesem Abschnitt beschrieben:
 
 ### 4.1 **Benutzerdefiniertes Feld hinzufügen**
 
@@ -159,8 +151,6 @@ Topics, die mit Feldern in ein Topic Board eingegeben werden, die im Topic Board
 Oben in der Topics-Tabelle wird dann eine orangefarbene Leiste angezeigt, die angibt, dass nicht verknüpfte Felder im Topic Board vorhanden sind. _Erforderlicher Zugriff:_ Administrator
 
 Damit Topics, die Felder mit Werten enthalten, die im Topic Board nicht vorhanden sind, in der Topics-Tabelle angezeigt werden, müssen die Felder mit etwas verknüpft werden, das im Topic Board vorhanden ist.
-
-Die folgenden Topics werden in diesem Abschnitt beschrieben:
 
 ### 6.1 **Felder mit nicht vorhandenen Werten**
 

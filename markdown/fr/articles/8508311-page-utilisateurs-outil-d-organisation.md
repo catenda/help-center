@@ -10,8 +10,6 @@ La page utilisateurs peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/02-intro.png)
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Types d'utilisateurs**
 
 Il existe deux types d'utilisateurs d'organisation.
@@ -64,8 +62,6 @@ _Propriétaire_ - Le(s) propriétaire(s) de l'organisation _Membre_ - Membres d'
 Après avoir sélectionné un ou plusieurs utilisateur(s) dans la liste des utilisateurs en cliquant sur leur case à cocher, vous verrez les boutons d'action suivants apparaître vers le haut de la liste des projets.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/05-action-buttons.png)
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 4.1 **Ajouter aux projets**
 

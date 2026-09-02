@@ -4,15 +4,11 @@ Søke- eller filteralternativet kan ses i den øverste delen av vinduet. Ved å 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aa862mj2/01-intro.png)
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Filtre**
 
 Klikk på filterknappen øverst til venstre for at et panel skal vises på venstre side. Når et filter brukes, endres URL-en som vises i nettleseren. I denne artikkelen vises filtre slik: _Filternavn i meny_ - `Filternavn i URL=Filteralternativ i URL`
 
 _Standardfilter_ Standardfilteret er ikke synlig i URL-en i utgangspunktet. Når siden navigeres til for første gang, brukes følgende filter. Arbeidsområdefane - `v=all`
-
-Følgende saker er beskrevet i denne delen:
 
 ### 1.1 **Lagre og del gjeldende filter**
 

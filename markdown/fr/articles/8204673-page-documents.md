@@ -4,8 +4,6 @@ La page Documents se trouve comme le quatrième élément du menu de navigation 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/nzhpbg4s/01-intro.png)
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Nouvelles actions d'éléments**
 
 Les nouvelles actions d'éléments se trouvent en haut à droite de la page. Consultez [ici](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure) pour voir ce que font les différentes actions.
@@ -45,8 +43,6 @@ Le tableau Documents peut ressembler à ceci :
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/nzhpbg4s/05-documents-table.png)
 
 Cliquez [ici](https://support.catenda.com/en/articles/11748020-tables-on-catenda) pour en savoir plus sur comment travailler avec les tableaux dans Catenda. Dès qu'un document ou un dossier est créé, il s'affiche sous forme de ligne dans le tableau Documents pour la personne.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 4.1 **Actions d'éléments sélectionnés**
 

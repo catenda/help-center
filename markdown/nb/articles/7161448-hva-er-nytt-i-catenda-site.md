@@ -2,8 +2,6 @@
 
 Vi har lansert **Catenda Site, mobilappen 3.0.0.**
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. Tilgjengelig offline
 
 Mens du er offline på stedet, kan du nå:

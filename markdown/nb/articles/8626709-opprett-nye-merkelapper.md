@@ -4,8 +4,6 @@ Merkelapper er nyttige på mange områder i Catenda HUB. De kan brukes både for
 
 I artikkelen nedenfor finner du instruksjoner om hvordan du oppretter nye merkelapper, hvordan du oppretter merkelappgrupper og hvordan du importerer en gruppe merkelapper fra et Excel-regneark.
 
-Følgende emner er beskrevet i denne artikkelen:
-
 ## 1. Opprett ny merkelapp
 
 For å gjøre dette, klikk på Merkelapper i innstillingsområdet. Du har nå muligheten til å opprette en ny merkelapp.

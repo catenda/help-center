@@ -4,8 +4,6 @@ Administratorer vil kunne opprette nye egendefinerte felt ved å klikke på knap
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vvzhr330/01-intro.png)
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **Feltnavn**
 
 Navnet på feltet

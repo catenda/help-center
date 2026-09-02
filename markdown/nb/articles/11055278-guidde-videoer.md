@@ -2,13 +2,9 @@
 
 I tittelen på denne artikkelen kan det virke som det er en skrivefeil med en ekstra d, men vær sikker på at den er der av en grunn. Catenda bruker en tjeneste kalt "Guidde" for å lage korte støttevideo med oversettelser tilgjengelig på alle språk i støttesystemet.
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Spillelister**
 
 Klikk [her](https://support.catenda.com/en/articles/11059986-interacting-with-guide-playlists) for å lære mer om hvordan du samhandler med veiledningsspillerlister på guidde og hvordan du viser videoen på ditt foretrukne språk.
-
-Følgende saker er beskrevet i denne delen:
 
 ### 1.1 **Catenda Hub-opplæring - [Spiller](https://eu.guidde.com/playbooks/playlist/qicnEaFjpt2gUXmNcAxWcU?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 

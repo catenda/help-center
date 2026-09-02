@@ -2,8 +2,6 @@
 
 Klicken Sie auf Tabellenansicht (**4**) oben rechts in der Topics-Tabelle auf der [topics page](https://support.catenda.com/en/articles/4670271-topics-page). Standardmäßig wird die Listenansicht in der Tabelle angezeigt. Die Einstellung für die Tabellenansicht ist eine globale Einstellung. Sobald die bevorzugte Ansicht ausgewählt ist, werden topic-Tabellen in jedem topic board jedes Projekts für den Benutzer in dieser Ansicht angezeigt.
 
-Die folgenden Topics werden in diesem Artikel beschrieben:
-
 ## 1. **Topics-Tabelle**
 
 Die Topics-Tabelle kann ungefähr so aussehen, wenn die Tabellenansicht konfiguriert ist.
@@ -11,8 +9,6 @@ Die Topics-Tabelle kann ungefähr so aussehen, wenn die Tabellenansicht konfigur
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/01-topics-table.png)
 
 Klicken Sie [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda), um mehr über die Arbeit mit Tabellen in Catenda zu erfahren. Sobald ein topic erstellt ist und die Tabelle geladen ist, wird das topic als Zeile in der Topics-Tabelle für den Benutzer angezeigt. Beachten Sie, dass der offene Filter standardmäßig aktiviert ist und geschlossene topics möglicherweise bis zur Filterung ausgeblendet werden.
-
-Die folgenden Topics werden in diesem Abschnitt beschrieben:
 
 ### 1.1 **Während der Anzeige vorgenommene Änderungen**
 
@@ -65,8 +61,6 @@ Oben rechts in der Topics-Tabelle finden Sie das Dropdown "Spalten".
 Mit diesem Dropdown können Sie die Spalten der Tabelle neu anordnen und umschalten. Ihre Einstellung für die Neuordnung und Umschaltung von Spalten wird über topic boards und Projekte hinweg gespeichert und in Ihrem Konto gespeichert. Das heißt, es behält diese Reihenfolge, wenn Sie den Browser schließen und neu ordnen. Wenn Sie versehentlich eine Spalte ausgeblendet haben, indem Sie sie aus der Tabelle gezogen haben, können Sie sie hier erneut aktivieren. Standardmäßig sind alle Spalten aktiviert und in dieser Reihenfolge:
 
 ## 4. **3. Header-Zeile**
-
-Die folgenden Topics werden in diesem Abschnitt beschrieben:
 
 ### 4.1 **Sortierung**
 

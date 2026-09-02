@@ -10,8 +10,6 @@ Dit is hoe de pagina milestones eruit kan zien:
 
 Deze pagina bevat informatie over de volgende topics: [Planning](#h_595c5ebf4c) - [Acties](#h_ef3bbf0441)​ - [Milestones lijst](#h_5403eb541f)
 
-De volgende topics worden in dit artikel beschreven:
-
 ## 1. Planning
 
 Milestones kunnen op veel verschillende manieren worden gebruikt:
@@ -43,8 +41,6 @@ In de milestones lijst ziet u een overzicht van elk van de milestones die onderd
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/04-milestones-list.png)
 
 Klik ergens op de milestone om de pagina voor die milestone te openen. Voor elke milestone ziet u de volgende informatie
-
-De volgende topics worden in dit gedeelte beschreven:
 
 ### 3.1 Titel
 

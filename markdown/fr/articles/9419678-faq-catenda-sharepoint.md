@@ -1,7 +1,5 @@
 # FAQ Catenda SharePoint
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Comment SharePoint peut-il être intégré avec Catenda ?**
 
 Il y a deux façons d'intégrer avec Catenda.

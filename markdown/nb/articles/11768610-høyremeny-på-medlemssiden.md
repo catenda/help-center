@@ -10,8 +10,6 @@ Infoknapppen kan se slik ut:
 
 Klikk på dette ikonet for å åpne en meny der felt for de valgte elementene kan endres.
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. Høyremeny på medlemsfanen
 
 Slik kan høyremenyen på medlemsfanen se ut:
@@ -21,8 +19,6 @@ Slik kan høyremenyen på medlemsfanen se ut:
 Hvis du har ett medlem valgt, kan initialer eller avatar, navn og e-post til det medlemmet ses øverst i menyen.
 
 Deretter vises antallet valgte medlemmer og det totale antallet medlemmer.
-
-Følgende saker er beskrevet i denne delen:
 
 ### 1.1 **Medlemsrolle**
 

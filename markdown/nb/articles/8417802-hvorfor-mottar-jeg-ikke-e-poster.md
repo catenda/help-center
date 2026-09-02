@@ -2,8 +2,6 @@
 
 Hvis du ikke mottar Catendas varsel-, invitasjons- eller verifiseringse-poster, finnes det flere mulige årsaker og løsninger. Nedenfor er en omfattende veiledning for å hjelpe deg med å feilsøke og løse problemer med e-postlevering. Catenda sikrer at varsel- og invitasjons-e-poster sendes med hell til e-postadresser som brukere gir. Dette bekreftes gjennom systempostlogger, som verifiserer om en e-post er behandlet og sendt.
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Mottar ikke noen e-poster**
 
 Hvis du ikke mottar noen e-poster fra oss, sendes e-postene ikke til rett sted, eller kontoen din er blokkert for å forhindre spam.

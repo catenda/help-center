@@ -2398,8 +2398,6 @@ Met deze knop opent u de maplocatie van de Desktop Connector-logboeken op het lo
 
 De Catenda Navisworks plugin is een plugin die kan worden geïnstalleerd voor Nemetchek Archicad. Met deze plugin kunt u samenwerken aan 3D-viewpoints, topics en Documenten met andere leden van het bouwproject.
 
-De volgende topics worden in dit artikel beschreven:
-
 ## 1. **Over de plugin**
 
 De Catenda Hub add-in voor Autodesk® Navisworks® is het perfecte gereedschap voor projecten die samenwerken in Catenda Hub. Al uw topics worden in real-time gesynchroniseerd tussen Navisworks en Catenda Hub, zodat u topics kunt maken, openen, delen en communiceren. De topic-indeling is BCF zodat de topics kunnen worden gedeeld via elke BCF-ondersteunde BIM-software of -platform. Deze add-in stelt u in staat topics naadloos vanuit Navisworks te visualiseren, maken en bewerken. U kunt ook het IFC-model dat in Catenda Hub is opgeslagen downloaden en federeren naar uw lokale client.
@@ -2455,8 +2453,6 @@ Dit is wat het Catenda-tabblad er kan uitzien wanneer het is geselecteerd
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/02-catenda-tab.png)
 
-De volgende topics worden in deze sectie beschreven:
-
 ### 5.1 **Catenda**
 
 De Catenda-knop in het menu Catenda-plugins van het Catenda-tabblad opent de standaardbrowser met de [aanmeldingspagina](https://support.catenda.com/en/articles/7891486-sign-in-page) van Catenda Hub.
@@ -2488,8 +2484,6 @@ Dit is wat het instellingenmenu er kan uitzien nadat u zich hebt aangemeld.
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/07-settings.png)
 
 Als de aanmeldingssessie is verlopen, kan de knop Vernieuwen worden gebruikt om de aanmeldingssessie te vernieuwen.
-
-De volgende topics worden in deze sectie beschreven:
 
 ### 6.1 **Verifiëren**
 
@@ -2537,8 +2531,6 @@ In het topicmenu kunnen geselecteerde topics worden bewerkt en kunnen nieuwe top
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/11-topic.png)
 
-De volgende topics worden in deze sectie beschreven:
-
 ### 8.1 **Navigatiepijlen**
 
 Gebruik de navigatiepijlen in het menu om tussen verschillende topics in het topic board te bewegen.
@@ -2572,8 +2564,6 @@ Klik op de knop Snijvlakken wissen om de snijvlakken in de Viewer te wissen.
 In het menu Clashes kunnen topics als gevolg van bevindingen van Clash Detective worden ingediend. Dit is wat het menu Clashes er kan uitzien.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/12-clashes.png)
-
-De volgende topics worden in deze sectie beschreven:
 
 ### 9.1 **Een clash-detective test uitvoeren**
 
@@ -2677,8 +2667,6 @@ Download, open en append modelrevisies van het in het menu Topic Boards geselect
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/20-models.png)
 
-De volgende topics worden in deze sectie beschreven:
-
 ### 10.1 **Zoeken**
 
 Zoek modellen in het Catenda-project
@@ -2757,8 +2745,6 @@ Om de BCF-viewpoints van uw Catenda-project in de Catenda-plugin te kunnen gebru
 
 De Catenda Revit plugin is een plugin die kan worden geïnstalleerd voor Autodesk Revit. Met deze plugin kunt u samenwerken aan 3D-viewpoints, topics en Documenten met andere Leden van het constructieproject
 
-De volgende topics worden in dit artikel beschreven:
-
 ## 1. **Installatie**
 
 Wanneer de Catenda Revit plugin op Windows wordt geïnstalleerd, worden de installatiebestanden in de volgende map weergegeven.
@@ -2826,8 +2812,6 @@ U kunt de toegang tot uw Catenda Hub-account op elk moment intrekken door naar u
 ## 4. **Topic List**
 
 Na het aanmelden wordt de hoofdweergave van de Catenda Hub-plugin geopend. Op deze pagina is het hoofdmenu voor navigatie in uw Catenda Hub-project, topic boards en topics te vinden.
-
-De volgende topics worden in deze sectie beschreven:
 
 ### 4.1 **Interface**
 
@@ -2913,8 +2897,6 @@ U kunt deze Filters doorzoeken door tekst in de filterbalk (1) in te voeren. U k
 ## 5. **Topic Details**
 
 In deze weergave kunt u een specifiek topic controleren en bewerken.
-
-De volgende topics worden in deze sectie beschreven:
 
 ### 5.1 **Interface**
 
@@ -5667,8 +5649,6 @@ Dit is hoe de pagina milestones eruit kan zien:
 
 Deze pagina bevat informatie over de volgende topics: [Planning](#h_595c5ebf4c) - [Acties](#h_ef3bbf0441)​ - [Milestones lijst](#h_5403eb541f)
 
-De volgende topics worden in dit artikel beschreven:
-
 ## 1. Planning
 
 Milestones kunnen op veel verschillende manieren worden gebruikt:
@@ -5700,8 +5680,6 @@ In de milestones lijst ziet u een overzicht van elk van de milestones die onderd
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/04-milestones-list.png)
 
 Klik ergens op de milestone om de pagina voor die milestone te openen. Voor elke milestone ziet u de volgende informatie
-
-De volgende topics worden in dit gedeelte beschreven:
 
 ### 3.1 Titel
 
@@ -9263,7 +9241,7 @@ Paneelsnelkoppelingen controleren nu ook het getal dat in de snelkoppeling wordt
 
 # Changelog 13 Catenda - augustus 2026
 
-> Catenda-productupdates: Verken de nieuwe Kanban-weergave voor onderwerpen, verbeterde goedkeuringswerkstromen, Catenda AI Connect en Gegevensexport. Bevat opgeloste bugs, nieuwe videotutorials en bijgewerkte ondersteuningsdocumentatie voor modellen, documenten en onderwerpen.
+> Catenda-productupdates: Verken de nieuwe Kanban-weergave voor onderwerpen, verbeterde goedkeuringswerkstromen, Catenda AI Connect en Gegevensexport. Bevat opgeloste bugs, nieuwe videotutorials en bijgewerkte ondersteuningsdocumentatie.
 
 Hallo iedereen,
 

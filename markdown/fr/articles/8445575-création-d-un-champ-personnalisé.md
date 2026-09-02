@@ -4,8 +4,6 @@ Les administrateurs pourront créer de nouveaux champs personnalisés en cliquan
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vvzhr330/01-intro.png)
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Nom du champ**
 
 Le nom du champ

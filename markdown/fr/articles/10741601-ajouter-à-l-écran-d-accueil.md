@@ -2,8 +2,6 @@
 
 La fonctionnalité complète de Catenda Hub est toujours disponible via le navigateur. Catenda peut être ajouté à l'écran d'accueil, au tableau de bord ou au dock en l'installant via un navigateur. C'est ce qu'on appelle une application web progressive (PWA). Cliquez [ici](https://support.catenda.com/en/articles/10774300-home-screen-system-browser-support) pour voir les navigateurs qui supportent PWA sur votre système.
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Avantages**
 
 L'installation de Catenda via un navigateur au lieu de créer un raccourci offre les avantages suivants :
@@ -19,8 +17,6 @@ L'installation de Catenda Hub en tant qu'application ajoutée à l'écran d'accu
 ## 2. **iPhone & iPad - Navigateur recommandé**
 
 Sur les appareils Apple, il est souvent uniquement possible d'ajouter une page à votre écran d'accueil depuis Safari. Accédez à la page que vous souhaitez voir s'ouvrir lorsque vous ouvrez l'application qui sera ajoutée à l'écran d'accueil de votre appareil.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 2.1 **Bouton Partager**
 
@@ -55,8 +51,6 @@ Safari se ferme et vous êtes redirigé vers l'endroit où le raccourci est inst
 ## 3. **Android - Navigateur recommandé**
 
 En installant Catenda en tant qu'application sur votre appareil, vous pouvez l'ajouter à votre écran d'accueil avec le navigateur Chrome. Dans le navigateur Chrome, accédez à la page que vous souhaitez voir s'ouvrir lorsque vous appuyez sur la page qui sera ajoutée à l'écran d'accueil de votre appareil.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 3.1 **Menu d'action**
 

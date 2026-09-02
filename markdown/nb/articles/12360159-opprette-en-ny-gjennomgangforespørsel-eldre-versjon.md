@@ -2,8 +2,6 @@
 
 Du kan finne handlingen for ny gjennomgangforespørsel ved å klikke på handlingsmenyen til høyre for den grønne plusskjappen på [gjennomgangssiden](https://support.catenda.com/en/articles/8349340-approvals-page).
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **Gjennomgangshode - Emnet for en gjennomgang**
 
 eller ved å klikke på handlingen for opprett ny gjennomgang i gjennomgangemenyen i høyremenyen for en utkastversjon. Det er bare mulig å opprette nye arbeidsflyter i prosjekter der ikke alle utkaststatuser har blitt arkivert eller utkastversjoner ble lastet opp før alle utkaststatuser ble arkivert.
@@ -11,8 +9,6 @@ eller ved å klikke på handlingen for opprett ny gjennomgang i gjennomgangemeny
 Slik kan hodet på en ny gjennomgang se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a5gqwxkx/01-approval-header-the-subject-of-an-approval.png)
-
-Følgende saker beskrives i denne delen:
 
 ### 1.1 **Tittel**
 

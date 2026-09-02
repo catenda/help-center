@@ -10,8 +10,6 @@ Brukersiden kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/02-intro.png)
 
-Følgende saker beskrives i denne artikkelen:
-
 ## 1. **Brukertyper**
 
 Det finnes to typer organisasjonsbrukere.
@@ -64,8 +62,6 @@ _Eier_ - Eier(e) av organisasjonen _Medlem_ - Organisasjonsmedlemmer
 Etter å ha valgt en eller flere bruker(e) i brukerlisten ved å klikke på avmerkingsboksen deres, vil du se følgende handlingsknapper vises øverst i prosjektlisten.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/05-action-buttons.png)
-
-Følgende saker beskrives i denne delen:
 
 ### 4.1 **Legg til i prosjekter**
 

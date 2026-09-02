@@ -20,8 +20,6 @@ Si vous avez un Membre sélectionné, les initiales ou l'avatar, le nom et l'adr
 
 Ensuite, le nombre de Membres sélectionnés et le nombre total de Membres sont affichés.
 
-Les rubriques suivantes sont décrites dans cette section :
-
 ### 1.1 **Rôle du Membre**
 
 Accordez à ce Membre un Statut d'administrateur ou de Membre. Il n'est pas possible de modifier le rôle d'un propriétaire de projet

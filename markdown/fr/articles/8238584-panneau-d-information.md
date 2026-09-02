@@ -6,8 +6,6 @@ Vous pourrez trouver le panneau d'information comme l'un des quatre panneaux pri
 
 Dans le panneau d'information, vous pourrez trouver les sections suivantes :
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Inspection**
 
 Cela vous permet de voir les informations sur les objets que vous avez sélectionnés. Cliquez [ici](https://support.catenda.com/en/articles/4670285-inspect-panel) pour en savoir plus sur le panneau d'inspection.
@@ -71,8 +69,6 @@ Cela vous permet de créer un ensemble d'objets qui peuvent ensuite être stylis
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/08-selections.png)
 
 En haut du menu Sélection, vous verrez combien d'éléments vous avez actuellement sélectionnés dans la Visionneuse 3D et le panneau d'arborescence. Les sélections peuvent être enregistrées en créant une [Capture](https://support.catenda.com/en/articles/8053352-issue-body#h_1ba7f8873f) ou un [Signet](https://support.catenda.com/en/articles/8471481-bookmark) et en le relisant plus tard. Parce que les sélections sont stockées dans la Capture d'une rubrique, elles peuvent être importées et exportées vers d'autres programmes via BCF. Un exemple est que les rubriques avec des sélections du panier de sélection qui sont synchronisées via le connecteur BCF en direct dans Solibri contiendront des données de sélection lors de la lecture de la Capture.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 5.1 **Nouvelle sélection**
 

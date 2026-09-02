@@ -2,8 +2,6 @@
 
 Klikk på Tabellvisning (**4**) øverst til høyre i emnetabellen på [emnesiden](https://support.catenda.com/en/articles/4670271-topics-page). Som standard vises listevisningen i tabellen. Innstillingen for tabellvisning for emner er en global innstilling. Når du velger den foretrukne visningen, vises emnetabeller i alle emn i ethvert prosjekt i denne visningen for brukeren.
 
-Følgende emner er beskrevet i denne artikkelen:
-
 ## 1. **Emnetabell**
 
 Emnetabellen kan se slik ut når tabellvisningen er konfigurert.
@@ -11,8 +9,6 @@ Emnetabellen kan se slik ut når tabellvisningen er konfigurert.
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/01-topics-table.png)
 
 Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda. Så snart et emn er opprettet og tabellen er lastet inn, vises emnet som en rad i emnetabellen for brukeren. Merk at åpningsfilteret er aktivert som standard, og lukkede emner kan være skjult til de filtreres.
-
-Følgende emner er beskrevet i denne delen:
 
 ### 1.1 **Endringer gjort under visning**
 
@@ -65,8 +61,6 @@ Velg alle emner i emnet(ene) Når du åpner et emn lastes 100 emner. Hvis du rul
 Med dette rullegardinet kan du omorganisere og slå av/på kolonnene i tabellen. Innstillingen for omorganisering og slå av/på kolonner vil bli husket på tvers av emner og prosjekter og lagres på kontoen din. Dette betyr at det fortsatt vil ha denne rekkefølgen hvis du lukker og omorganiserer nettleseren. Hvis du versehentlig har skjult en kolonne ved å dra den ut av tabellen, kan du slå den på igjen her. Som standard er alle kolonner på og i denne rekkefølgen:
 
 ## 4. **3. Toppraden**
-
-Følgende emner er beskrevet i denne delen:
 
 ### 4.1 **Sortering**
 

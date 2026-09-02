@@ -2,8 +2,6 @@
 
 Det er mulig å konfigurere tilgang til mange forskjellige steder i Catenda Hub:
 
-Følgende saker er beskrevet i denne artikkelen:
-
 ## 1. **Organisasjonsverktøy**
 
 Den høyeste tilgangen i Catenda er organisasjonstilgang. Dette gis vanligvis til en eller få pålitelige personer i bedriftsorganisasjoner eller organisasjoner med arkiver. Medlemmer med organisasjonstilgang vil ha tilgang til [organisasjonsverktøyet](https://support.catenda.com/en/collections/5831081-organizations). Dette lar dem se alle medlemmer av alle prosjekter som er en del av organisasjonen uten å måtte være del av prosjektene selv.
@@ -15,8 +13,6 @@ Administrator har alltid full tilgang til alt i et prosjekt. Det er derfor vikti
 ## 3. **Medlemstilgang**
 
 Vanlige medlemmer kan gis tilgang til forskjellige [deler av et prosjekt](#h_5e8171c200) enten etter team eller per medlem.
-
-Følgende saker er beskrevet i denne seksjonen:
 
 ### 3.1 **Spesifikt medlem**
 

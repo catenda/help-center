@@ -4,8 +4,6 @@ Les signets se trouvent sur la [page des signets](https://support.catenda.com/en
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/01-intro.png)
 
-Les rubriques suivantes sont décrites dans cet article :
-
 ## 1. **Menu d'action**
 
 Le menu d'action se trouve en haut à droite de la page
@@ -43,8 +41,6 @@ Si ce signet a été créé en copiant un signet partagé avec le projet par un 
 ## 5. **Partage**
 
 Lorsqu'un signet est partagé avec le projet, tous les membres du projet peuvent voir le signet dans leur liste de signets.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 5.1 **Privé**
 
