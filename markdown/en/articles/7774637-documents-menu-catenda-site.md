@@ -2,11 +2,11 @@
 
 The Documents page can be found in the [menu](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) or by tapping the issues button on the bottom navigation bar. Here you will be able to find and [preview your documents](https://support.catenda.com/en/articles/8975421-previewing-documents-on-catenda-site).
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/01-intro.png)
+**Could not display content**
 
 The contents of the documents menu page can look something like this:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/02-intro.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/01-intro.png)
 
 Towards the top of the documents page you will find the name of the project.
 
@@ -14,7 +14,7 @@ Towards the top of the documents page you will find the name of the project.
 
 Below the name of the project you will see the document filter menu.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/03-document-filters.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/02-document-filters.png)
 
 _Filter:_ By clicking on the filter button on the right you will be able to [filter your documents by label](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site).
 
@@ -22,7 +22,7 @@ _Search:_ The search button lets you search in documents.
 
 _Documents Dropdown:_ The dropdown menu lets you select document collections. Here you will be able to select one of the shared document collections in your project.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/04-document-filters.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/03-document-filters.png)
 
 Document collections can be useful for bringing[ documents to an offline location](https://app.intercom.com/a/apps/areracg3/articles/articles/7325268/show#:~:text=Documents%20in%20offline%20mode).
 
