@@ -1673,7 +1673,7 @@ IFC をプロジェクトからエクスポートする前に、プロジェク�
 
 プロジェクト情報は以下のようになります。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/01-project-info.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/01-1-project-info.png)
 
 デフォルトでは、さまざまなフィールドは空になっています。空の場合でも、リストされている各プロジェクト、サイト、建物に対して一意の ID が作成されます。状況によっては、同じ Archicad プロジェクトから複数の IFC ファイルがエクスポートされます。その例を以下に示します。
 
@@ -1691,11 +1691,11 @@ IFC をプロジェクトからエクスポートする前に、プロジェク�
 
 プロジェクト全体をエクスポートするには。3D ビューに立つ必要があります。正しいトランスレーターを使用していることを確認してください。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/02-ifc-export-settings.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/02-2-ifc-export-settings.png)
 
 オプションボタンをクリックして、IFC エクスポート設定の概要を確認します。モデルフィルターの下では、さらにフィルターアウトするものを選択することもできます。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/03-ifc-export-settings.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/03-2-ifc-export-settings.png)
 
 IFC トランスレーターボックスを使用すると、トランスレーター設定を表示または変更したり、新しいトランスレーターを作成したりできます。
 
@@ -1705,7 +1705,7 @@ IFC エクスポートを変更する場合は、デフォルトのトランス�
 
 IFC を結合する場合は、同じバナーの下でそれを行うことができます。
 
-![image-2.png](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/04-ifc-export-settings.png)
+![image-2.png](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/04-2-ifc-export-settings.png)
 
 ---
 
@@ -1713,7 +1713,7 @@ IFC を結合する場合は、同じバナーの下でそれを行うことが�
 
 1\. [モデルフィルター](#model-filter)を使用すると、異なるプリセットによってエクスポートする内容をフィルターアウトできます。2\. [タイプマッピング](#type-mapping)を使用すると、各要素がエクスポートされる IFC タイプを選択できます。3\. [ジオメトリ変換](#geometry-conversion)を使用すると、エクスポートするジオメトリの種類を選択できます。4\. [プロパティマッピング](#property-mapping)を使用すると、タイプに基づいて基準を設定できます。5\. [データ変換](#data-conversion)を使用すると、モデルからエクスポートするデータの種類を選択できます。6\. [単位変換](#unit-conversion)を使用すると、IFC でエクスポートする測定単位を選択できます。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-different-settings-in-the-export.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-3-different-settings-in-the-export.png)
 
 ---
 
@@ -1735,7 +1735,7 @@ IFC がエクスポートされると、モデルのすべての要素に IFC �
 
 使用する IFC トランスレーターを選択したら、タイプマッピングに移動して「インポート用に IFC タイプをマップ」をクリックして、エクスポートされた IFC で必要なタイプマッピングの種類を管理できます。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/07-2-type-mapping.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/07-5-type-mapping.png)
 
 タイプマッピングには主に、IFC タイプを並べ替えるための 2 つの異なるオプションがあります。
 
@@ -1747,7 +1747,7 @@ IFC がエクスポートされると、モデルのすべての要素に IFC �
 
 この方法は、分類基準を指定に従って、より柔軟で詳細な IFC タイプマッピングを可能にします。ゾーンと開口要素は固定の IFC タイプに設定されています。IFCSpace および IFCOpeningElements。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/08-classification.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/08-5-2-classification.png)
 
 ---
 
@@ -1755,7 +1755,7 @@ IFC がエクスポートされると、モデルのすべての要素に IFC �
 
 IFC エクスポート用のジオメトリ変換では、ジオメトリをさまざまな方法で変換できます。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/09-3-geometry-conversion.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/09-6-geometry-conversion.png)
 
 ### 5.1 Archicad 要素の変換
 
@@ -1777,7 +1777,7 @@ BREP 別の BREP サーフェスとしてジオメトリをエクスポートし
 
 サーフェスのすべての設定を設定することは、IFC に書き込まれるため、良い考えかもしれません。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/10-conversions-of-archicad-elements.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/10-6-1-conversions-of-archicad-elements.png)
 
 Catenda 3D ビューアのサーフェスは、光源がない場合、フラット シェーディングを備えています。つまり、アンビエント、減衰、光沢、エミッション、スペキュラなどの値は、Catenda 3D ビューアでサーフェスを表示する際に解釈されません。以下の値は、Catenda が 3D ビューアでサーフェスを表示する際に解釈します。
 
@@ -1807,7 +1807,7 @@ Catenda 3D ビューアのサーフェスは、光源がない場合、フラッ
 
 複合壁材がある場合、各材料について個別のオブジェクトがエクスポートされます。通常、1 ~ 5mm の蒸気バリアがあり、非常に薄いオブジェクトになります。オブジェクトがその程度薄い場合、ジオメトリは不正確になる可能性があります。問題のある壁の素材は次のようなものです。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/11-ifc-schema-related-options.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/11-8-1-material-preservation-mode-ifc2x3-only.png)
 
 これにより、不正確さがため穴が正確にどこにあるべきかをピンポイントするのが難しくなるため、ソフトウェアがサーフェスを通してホールをカットするのが困難になる可能性があります。したがって、開口部がカットされていないことに気付いた場合は、このオプションをオンにすることが役に立つ場合があります。このオプションをオンにすると、壁が多くの薄い複合オブジェクトの代わりに 1 つの単一オブジェクトとしてエクスポートされます。
 
@@ -1821,11 +1821,11 @@ Catenda 3D ビューアのサーフェスは、光源がない場合、フラッ
 
 プロパティマッピング内 (ファイル > IFC > 相互運用性 > プロパティマッピング) でエクスポートする IFC のバージョンを選択できます。標準 IFC2x3 と標準 IFC4 があります。IFC でエクスポートするために psets を追加することもできます。これを行う場合は、選択する IFC スキーマの複製を作成する必要があります。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/12-4-property-mapping.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/12-10-property-mapping.png)
 
 標準 IFC の複製を作成したら、IFC スキーマを選択して _エクスポート用の IFC プロパティをマップ_ をクリックして、その新しいプリセットに必要なプロパティを追加できます。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/13-4-property-mapping.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/13-10-property-mapping.png)
 
 ---
 
@@ -1835,7 +1835,7 @@ Catenda 3D ビューアのサーフェスは、光源がない場合、フラッ
 
 要素パラメーター Archicad 要素パラメーターを読み取り、IFC 数量または IFC プロパティに変換します。タイプに応じて。このオプションを選択することで、ファイルサイズが大幅に増加します。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/14-5-data-conversion.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/14-11-data-conversion.png)
 
 IFC 基本数量 サイズ、面積、体積のパラメーターを読み取ります。このボックスをオフにしない場合、IFC を Catenda Hub にインポートするのに問題が生じる可能性があります。
 

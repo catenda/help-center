@@ -1795,7 +1795,7 @@ Før du eksporterer en IFC fra prosjektet ditt, må du kontrollere at prosjektin
 
 Slik kan prosjektinformasjonen se ut:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/01-project-info.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/01-1-project-info.png)
 
 Som standard vil de forskjellige feltene være tomme. Selv om de er tomme, opprettes en unik ID for hvert prosjekt, nettsted og bygning som er oppført. I noen situasjoner eksporteres flere IFC-filer fra samme Archicad-prosjekt. Eksempler på dette er:
 
@@ -1813,11 +1813,11 @@ Enten det er planer om å eksportere flere IFC-filer eller ikke, er det ofte en 
 
 For å eksportere hele prosjektet. Du må være i 3D-visningen. Sørg for at du bruker riktig oversetter.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/02-ifc-export-settings.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/02-2-ifc-export-settings.png)
 
 Klikk på alternativknappen for å se en oversikt over dine IFC-eksportinnstillinger. Under modellfilter kan du også velge å filtrere ut mer.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/03-ifc-export-settings.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/03-2-ifc-export-settings.png)
 
 Boksen for IFC-oversettere lar deg se eller endre Oversetter-innstillinger, eller opprette nye Oversettere.
 
@@ -1827,7 +1827,7 @@ Klikk nye > Dupliser av > velg oversetter du vil duplisere.
 
 Hvis du vil slå sammen IFC-en, kan du gjøre det under samme banner.
 
-![image-2.png](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/04-ifc-export-settings.png)
+![image-2.png](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/04-2-ifc-export-settings.png)
 
 ---
 
@@ -1835,7 +1835,7 @@ Hvis du vil slå sammen IFC-en, kan du gjøre det under samme banner.
 
 1\. [Modellfilter](#model-filter) lar deg filtrere ut det du vil eksportere etter ulike forhåndsinnstillinger. 2\. [Type mapping](#type-mapping) lar deg velge hva slags IFC-type hvert element eksporteres som. 3\. [Geometrikonvertering](#geometry-conversion) lar deg velge hva slags geometri du vil eksportere. 4\. [Egenskapskartlegging](#property-mapping) lar deg sette opp kriterier basert på typer. 5\. [Datakonvertering](#data-conversion) lar deg velge hva slags data du vil eksportere fra modellen. 6\. [Enhetkonvertering](#unit-conversion) lar deg velge hvilke måleenheter du vil eksportere i IFC-en din.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-different-settings-in-the-export.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-3-different-settings-in-the-export.png)
 
 ---
 
@@ -1857,7 +1857,7 @@ Når en IFC eksporteres, får alle elementene i modellen en IFC-type.
 
 Hvis du velger IFC-oversetter du vil bruke, kan du deretter gå til type mapping og klikke på Map IFC Types for import for å administrere hva slags type mapping du vil ha på den eksporterte IFC-en din.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/07-2-type-mapping.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/07-5-type-mapping.png)
 
 Type mapping har hovedsakelig to ulike alternativer for å sortere IFC-typene dine etter.
 
@@ -1869,7 +1869,7 @@ Hvert element får automatisk tildelt en grunnleggende IFC-type. Du kan se hvert
 
 Denne metoden tillater mer fleksibel og detaljert IFC-type kartlegging, i henhold til bestemte klassifikasjonsstandarder. Sone- og åpningselementer er satt til en fast IFC-type. IFCSpace og IFCOpeningElements.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/08-classification.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/08-5-2-classification.png)
 
 ---
 
@@ -1877,7 +1877,7 @@ Denne metoden tillater mer fleksibel og detaljert IFC-type kartlegging, i henhol
 
 Geometrikonvertering for IFC Export vil la deg konvertere geometrien din på ulike måter.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/09-3-geometry-conversion.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/09-6-geometry-conversion.png)
 
 Følgende emner er beskrevet i denne seksjonen:
 
@@ -1901,7 +1901,7 @@ BREP Eksporter geometri som separate BREP-flater. I stedet for å beskrive objek
 
 Det kan være bra å konfigurere alle innstillinger for en flate da de vil bli skrevet inn i IFC.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/10-conversions-of-archicad-elements.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/10-6-1-conversions-of-archicad-elements.png)
 
 Flater i Catenda 3D-visningen har flat skyggelegging uten en lyskildenærvær. Dette betyr at verdier som Ambient, Attenuation, Shinyness, Emission og Specular ikke tolkes når flaten blir sett i Catenda 3D-visningen. Følgende verdier tolkes av Catenda når flaten vises i 3D-visningen:
 
@@ -1931,7 +1931,7 @@ _Materialbevarelsesprogram (kun IFC2x3)_ - Spreng aldri elementer, bevaring er i
 
 Hvis du har et sammensatt vegmateriale, betyr dette at et eget objekt vil bli eksportert for hvert materiale. Du har ofte en damperingsbarriere som er 1-5 mm som vil resultere i et veldig tynt objekt. Når objekter er så tynne, kan geometrien være unøyaktig. Problematiske vegmaterialer kan se slik ut:
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/11-ifc-schema-related-options.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/11-8-1-material-preservation-mode-ifc2x3-only.png)
 
 Dette kan gjøre det vanskelig for programvare å kutte hull gjennom overflaten da unøyaktigheten gjør det vanskelig å finne ut nøyaktig hvor hullet skal være. Hvis du derfor legger merke til at åpningene dine ikke blir kuttet gjennom, kan det hjelpe å slå på dette alternativet. Hvis du slår på dette alternativet, eksporteres veggen som ett enkelt objekt i stedet for mange tynne sammensatte objekter.
 
@@ -1945,11 +1945,11 @@ _Del komplekse bygnindelementer i deler_ Her kan du velge for hvilken type eleme
 
 Innenfor egenskapskartlegging (Fil > IFC > Interoperabilitet > Egenskapskartlegging) kan du velge hva slags versjon av IFC du vil eksportere. Du har standardene IFC2x3 og IFC4. Du kan også legge til psets for å eksportere med IFC-en din. Hvis du gjør dette, bør du lage en duplisering av IFC-skjemaet du velger.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/12-4-property-mapping.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/12-10-property-mapping.png)
 
 Etter at du har laget en duplisering av standard IFC, kan du legge til egenskapene du vil ha til den nye forhåndsinnstillingen ved å velge IFC-skjemaet og klikke på _Kartlegg IFC-egenskaper for eksport_.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/13-4-property-mapping.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/13-10-property-mapping.png)
 
 ---
 
@@ -1959,7 +1959,7 @@ Under datakonvertering velger du hva slags data i tillegg til geometri du vil f�
 
 Elementparametrer leser Archicad-elementparameteren og konverterer den til IFC-mengder eller IFC-egenskaper. Avhengig av deres type. Ved å velge dette alternativet øker du filstørrelsen betydelig.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/14-5-data-conversion.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/14-11-data-conversion.png)
 
 IFC Base Quantities leser parametrene for størrelse, område og volum. Hvis du ikke avmerker denne boksen, kan du få problemer med å importere IFC-en din til Catenda Hub.
 

@@ -1596,7 +1596,7 @@ Avant d'exporter un IFC à partir de votre projet, assurez-vous que les informat
 
 Voici à quoi peuvent ressembler les informations sur le projet :
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/01-project-info.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/01-1-project-info.png)
 
 Par défaut, les différents champs seront vides. Bien qu'ils soient vides, un identifiant unique est créé pour chaque projet, site et bâtiment qui figure dans la liste. Dans certaines situations, plusieurs fichiers IFC sont exportés à partir du même projet Archicad. Voici des exemples :
 
@@ -1614,11 +1614,11 @@ Qu'il y ait des plans pour exporter plusieurs fichiers IFC ou non, il est souven
 
 Pour exporter l'ensemble du projet. Vous devez être en vue 3D. Assurez-vous d'utiliser le traducteur correct.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/02-ifc-export-settings.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/02-2-ifc-export-settings.png)
 
 Cliquez sur le bouton Options pour voir un résumé de vos paramètres d'exportation IFC. Sous le filtre du modèle, vous pouvez également choisir de filtrer davantage.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/03-ifc-export-settings.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/03-2-ifc-export-settings.png)
 
 La zone Traducteurs IFC vous permet d'afficher ou de modifier les paramètres du traducteur, ou de créer de nouveaux traducteurs.
 
@@ -1628,7 +1628,7 @@ Cliquez sur nouveau > Dupliquer > sélectionnez le traducteur à dupliquer.
 
 Si vous souhaitez fusionner l'IFC, vous pouvez le faire sous la même bannière.
 
-![image-2.png](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/04-ifc-export-settings.png)
+![image-2.png](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/04-2-ifc-export-settings.png)
 
 ---
 
@@ -1636,7 +1636,7 @@ Si vous souhaitez fusionner l'IFC, vous pouvez le faire sous la même bannière.
 
 1\. [Filtre du modèle](#model-filter) vous permet de filtrer ce que vous souhaitez exporter selon différents paramètres prédéfinis. 2\. [Mappage des types](#type-mapping) vous permet de choisir le type d'IFC utilisé pour exporter chaque élément. 3\. [Conversion de géométrie](#geometry-conversion) vous permet de choisir quel type de géométrie vous souhaitez exporter. 4\. [Mappage des propriétés](#property-mapping) vous permet de configurer des critères selon les types. 5\. [Conversion de données](#data-conversion) vous permet de choisir quel type de données vous souhaitez exporter du modèle. 6\. [Conversion d'unités](#unit-conversion) vous permet de choisir les unités de mesure que vous souhaitez utiliser pour exporter votre IFC.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-different-settings-in-the-export.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-3-different-settings-in-the-export.png)
 
 ---
 
@@ -1658,7 +1658,7 @@ Lorsqu'un IFC est exporté, tous les éléments du modèle se voient attribuer u
 
 Si vous sélectionnez le traducteur IFC que vous souhaitez utiliser, vous pouvez accéder au mappage des types et cliquer sur Mapper les types IFC pour l'importation afin de gérer le type de mappage des types IFC que vous souhaitez sur votre IFC exporté.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/07-2-type-mapping.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/07-5-type-mapping.png)
 
 Le mappage des types dispose principalement de deux options différentes pour trier vos types IFC.
 
@@ -1670,7 +1670,7 @@ Chaque élément se voit automatiquement attribuer un type IFC de base. Vous pou
 
 Cette méthode permet un mappage des types IFC plus flexible et détaillé, selon des normes de classification spécifiées. Les éléments de zone et d'ouverture sont définis sur un type IFC fixe. IFCSpace et IFCOpeningElements.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/08-classification.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/08-5-2-classification.png)
 
 ---
 
@@ -1678,7 +1678,7 @@ Cette méthode permet un mappage des types IFC plus flexible et détaillé, selo
 
 La conversion de géométrie pour l'exportation IFC vous permettra de convertir votre géométrie de différentes façons.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/09-3-geometry-conversion.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/09-6-geometry-conversion.png)
 
 ### 5.1 Conversions d'éléments Archicad
 
@@ -1700,7 +1700,7 @@ BREP Exporter la géométrie en tant que surfaces BREP séparées. Au lieu de d�
 
 Il peut être bon de configurer tous les paramètres d'une surface car ils seront écrits dans l'IFC.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/10-conversions-of-archicad-elements.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/10-6-1-conversions-of-archicad-elements.png)
 
 Les surfaces dans la visionneuse 3D de Catenda ont un ombrage plat sans source lumineuse présente. Cela signifie que les valeurs telles que Ambiant, Atténuation, Brillance, Émission et Spéculaire ne sont pas interprétées lors de la visualisation de la surface dans la visionneuse 3D de Catenda. Les valeurs suivantes sont interprétées par Catenda lors de l'affichage de la surface dans la visionneuse 3D :
 
@@ -1730,7 +1730,7 @@ Point d'arpentage uniquement Avec cette option, la distance du point d'arpentage
 
 Si vous avez un matériau composite, cela signifie qu'un objet séparé sera exporté pour chaque matériau. Vous avez souvent un pare-vapeur de 1-5 mm qui se traduira par un objet très mince. Lorsque les objets sont aussi minces, la géométrie peut être imprécise. Les matériaux muraux problématiques peuvent ressembler à ceci :
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/11-ifc-schema-related-options.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/11-8-1-material-preservation-mode-ifc2x3-only.png)
 
 Cela peut rendre difficile pour les logiciels de découper des trous à travers la surface, car l'imprécision rend difficile de déterminer exactement où le trou est censé être. Si vous remarquez donc que vos ouvertures ne sont pas découpées, il peut être utile d'activer cette option. L'activation de cette option exporte le mur en tant qu'objet unique au lieu de nombreux objets composites minces.
 
@@ -1744,11 +1744,11 @@ Cela peut rendre difficile pour les logiciels de découper des trous à travers 
 
 Dans le mappage des propriétés (Fichier > IFC > Interopérabilité > Mappage des propriétés), vous pouvez choisir la version d'IFC que vous souhaitez exporter. vous avez la norme IFC2x3 et la norme IFC4. Vous pouvez également ajouter des psets pour exporter avec votre IFC. Si vous le faites, vous devez dupliquer le schéma IFC que vous avez choisi.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/12-4-property-mapping.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/12-10-property-mapping.png)
 
 Après avoir créé un doublon de votre IFC standard, vous pouvez ajouter les propriétés que vous souhaitez à ce nouveau paramètre prédéfini en sélectionnant le schéma IFC et en cliquant sur _Mapper les propriétés IFC pour l'exportation_.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/13-4-property-mapping.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/13-10-property-mapping.png)
 
 ---
 
@@ -1758,7 +1758,7 @@ Lors de la conversion de données, vous sélectionnez le type de données que vo
 
 Les paramètres d'élément lisent le paramètre d'élément Archicad et le convertissent en quantités IFC ou propriétés IFC. En fonction de leur type. En choisissant cette option, vous augmentez considérablement la taille du fichier.
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/14-5-data-conversion.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/14-11-data-conversion.png)
 
 Quantités de base IFC Lit les paramètres de taille, de surface et de volume. Si vous ne cochez pas cette case, vous pourriez avoir des difficultés à importer votre IFC vers Catenda Hub.
 
