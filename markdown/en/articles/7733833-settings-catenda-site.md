@@ -2,7 +2,7 @@
 
 You can find the your Catenda Site settings in the [Menu](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site). Your account preferences are remembered next time you log into your account.
 
-**Could not display content**
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/an1f6vfe/01-intro.png)
 
 ## 1. **Settings**
 
