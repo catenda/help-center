@@ -7,45 +7,166 @@
 Si vous êtes invité à Catenda Hub ou si vous vous inscrivez pour la première fois, c'est la section à lire.
 
 - [Étape 1 - Configuration du compte](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9030303-etape-1-configuration-du-compte.md): Créez votre compte et recevez une invitation à un projet
+- [Étape 4 - Modèles](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/10576177-étape-4-modèles.md): Parcourez les modèles fédérés où vous pouvez visualiser et sélectionner des objets
 
 ## Paramètres
 
 Configurez les paramètres de votre projet ou de votre compte
 
+- [Accepter une invitation pour rejoindre un projet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670246-accepter-une-invitation-pour-rejoindre-un-projet.md)
 - [Authentification multifactorielle](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4969891-authentification-multi-facteur.md): Décrit comment configurer l'authentification multifactorielle sur votre compte
+- [Configuration de l'organisation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13653794-configuration-de-l-organisation.md)
+- [Créer un nouveau projet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670245-créer-un-nouveau-projet.md)
 - [Créer une équipe](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670264-creer-une-equipe.md)
+- [Menu droit sur la page Membres](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11768610-menu-droit-sur-la-page-membres.md)
+- [Options d'organisation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8224886-options-d-organisation.md)
+- [Page de connexion](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7891486-page-de-connexion.md)
+- [Page des notifications de compte](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7439223-page-des-notifications-de-compte.md)
+- [Page Organisations](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8281910-page-organisations.md)
+- [Page Utilisateurs - Outil d'organisation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8508311-page-utilisateurs-outil-d-organisation.md)
+- [Types d'organisation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13653807-types-d-organisation.md)
 
 ## Fonctionnalités
 
 Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une fonctionnalité spécifique.
 
+- [Action de copie de Liens](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/14323982-action-de-copie-de-liens.md)
+- [Actions de révision de document](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9323521-actions-de-révision-de-document.md)
+- [Actions du configurateur d'étages](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12291366-actions-du-configurateur-d-étages.md)
+- [Affichage Tableau dans un topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6941099-affichage-tableau-dans-un-topic-board.md)
+- [Ajouter une révision à une demande d'approbation - Héritage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12382093-ajouter-une-révision-à-une-demande-d-approbation-héritage.md)
+- [Ajouter à l'écran d'accueil](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/10741601-ajouter-à-l-écran-d-accueil.md)
+- [Apparence de la visionneuse 2D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13615984-apparence-de-la-visionneuse-2d.md)
+- [Approbation ouverte, publiée ou rejetée - Historique](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8349418-approbation-ouverte-publiée-ou-rejetée-historique.md)
+- [Bibliothèque de Liens](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670254-bibliothèque-de-liens.md)
+- [Captures 3D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/10345863-captures-3d.md)
+- [Champs personnalisés dans un topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6563368-champs-personnalisés-dans-un-topic-board.md)
 - [Code QR sur les fichiers PDF dans Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9360508-qr-code-sur-les-pdf-dans-catenda.md)
 - [Connecteur de bureau Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8358861-connecteur-de-bureau-catenda.md)
+- [Convention de nommage intermédiaire](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7936943-convention-de-nommage-intermédiaire.md)
 - [Corps du topic - Le contenu d'un topic](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet.md)
+- [Création d'un champ personnalisé](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8445575-création-d-un-champ-personnalisé.md)
+- [Créer de nouvelles étiquettes](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8626709-créer-de-nouvelles-étiquettes.md)
+- [Créer une nouvelle demande d'approbation - Hérité](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12360159-créer-une-nouvelle-demande-d-approbation-hérité.md)
+- [Enrichissez vos projets avec des nuages de points IGN librement accessibles (HD LiDAR)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12498975-enrichissez-vos-projets-avec-des-nuages-de-points-ign-librement-accessibles-hd-lidar.md)
 - [Extension Catenda Navisworks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5085987-catenda-hub-navisworks-plugin-description-lien-telechargement.md)
+- [Fichier fusionné dans Navisworks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7120416-fichier-fusionné-dans-navisworks.md)
+- [Filtrage sur la page des approbations - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8551740-filtrage-sur-la-page-des-approbations-legacy.md)
+- [Filtrage sur la page des documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670283-filtrage-sur-la-page-des-documents.md)
 - [Filtrage sur la page des topics](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8370693-filtrage-sur-la-page-des-topics.md)
+- [Filtre d'étiquettes - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7854138-filtre-d-étiquettes-catenda-site.md)
+- [Flux d'approbation : Règles d'administration](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/16238073-flux-d-approbation-règles-d-administration.md): Guide destiné aux administrateurs détaillant les règles de configuration, les options de configuration flexible, les verrous de paramètres post-soumission et l'impact des modifications de configuration du projet sur les demandes d'approbation actives.
+- [Flux de travail BCF avec Naviate pour Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670337-flux-de-travail-bcf-avec-naviate-pour-revit.md)
+- [Flux de travail BCF utilisant l'outil de marquage dans Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670335-flux-de-travail-bcf-utilisant-l-outil-de-marquage-dans-archicad.md)
+- [Flux de travail des statuts - Paramètres des documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12495583-flux-de-travail-des-statuts-paramètres-des-documents.md)
+- [Flux de travail des statuts - Paramètres des documents - Hérité](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12310173-flux-de-travail-des-statuts-paramètres-des-documents-hérité.md)
+- [Interactions de la Visionneuse 2D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12699525-interactions-de-la-visionneuse-2d.md): Interaction avec la Visionneuse 2D
+- [Intégration des modèles et documents Solibri](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6988148-intégration-des-modèles-et-documents-solibri.md)
+- [Intégration des Topics Solibri](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670340-intégration-des-topics-solibri.md)
+- [Liaison de documents aux objets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670297-liaison-de-documents-aux-objets.md)
 - [Listes de contrôle dans les problèmes](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5036461-traitement-des-sujets-a-travers-l-outil-check-list.md): Un moyen facile de suivre la progression sur le site.
 - [Manuel d'export IFC Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670341-manuel-d-export-ifc-revit.md)
 - [Manuel d'exportation IFC Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670338-manuel-d-export-ifc-archicad.md)
+- [Menu de droite sur la page de contenu de la collection](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12179454-menu-de-droite-sur-la-page-de-contenu-de-la-collection.md)
+- [Menu droit d'examen de la demande d'approbation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12507519-menu-droit-d-examen-de-la-demande-d-approbation.md)
+- [Menu déroulant du plan glissant](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670327-menu-déroulant-du-plan-glissant.md)
+- [Modification du nom de votre projet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670256-modification-du-nom-de-votre-projet.md)
+- [Niveaux de contrôle d'accès](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8967083-niveaux-de-contrôle-d-accès.md)
 - [Nouveau flux de travail de statut - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9874698-guide-utilisateur-flux-de-validation-iso-19650.md)
 - [Nuages de points dans Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5606625-nuages-de-points-dans-catenda-hub.md): Découvrez comment bénéficier des technologies de balayage laser et LIDAR dans Catenda Hub.
+- [Opérations sur les éléments de la Bibliothèque de Documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15647394-opérations-sur-les-éléments-de-la-bibliothèque-de-documents.md)
+- [Outils d'aperçu de document - Tampon caoutchouc](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11678493-outils-d-aperçu-de-document-tampon-caoutchouc.md)
+- [Page de contenu des signets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8471481-page-de-contenu-des-signets.md)
+- [Page de contenu du model](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670270-page-de-contenu-du-model.md)
+- [Page de Template topic - Hérité](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12371549-page-de-template-topic-hérité.md)
+- [Page des approbations](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12495047-page-des-approbations.md)
+- [Page des milestones](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670266-page-des-milestones.md)
 - [Page des modèles de rapport](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12380837-page-des-modèles-de-rapport.md)
+- [Page des modèles de topic - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12367730-page-des-modèles-de-topic-legacy.md)
+- [Page des paramètres d'approbation - Héritage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12367293-page-des-paramètres-d-approbation-héritage.md)
+- [Page des paramètres du tableau de bord des sujets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670277-page-des-paramètres-du-tableau-de-bord-des-sujets.md)
+- [Page des tableaux](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9413644-page-des-tableaux.md)
+- [Page Documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8204673-page-documents.md)
+- [Page Membres](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11926821-page-membres.md)
 - [Page Models](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670286-modeles.md)
+- [Page Statistiques](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7575491-page-statistiques.md)
+- [Panneau d'information](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8238584-panneau-d-information.md)
+- [Paramètres de notifications spécifiques au projet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670262-paramètres-de-notifications-spécifiques-au-projet.md)
 - [Plugin Catenda Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5519276-plugin-catenda-hub-archicad.md): test
 - [Plugin Catenda Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670334-plugin-revit-catenda-hub.md)
 - [Plugins et intégrations Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8396532-plugins-et-integrations-catenda.md): Connectez Catenda à votre outil préféré
+- [Restauration / Récupération de documents ou de dossiers](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670249-restauration-récupération-de-documents-ou-de-dossiers.md)
+- [Tableau de bord - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7213817-tableau-de-bord-catenda-site.md)
 - [Télécharger un fichier zip / structure de fichiers](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7945410-deposer-un-fichier-zip-une-arborescence-de-dossiers-et-de-fichiers.md)
 - [Visionneuse 3D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8227211-visionneuse-3d.md)
+
+## Tutoriels vidéo
+
+Problèmes de connexion, problèmes de performances, support, etc.
+
+- [Bibliothèque SharePoint - Courte vidéo](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9800091-bibliothèque-sharepoint-courte-vidéo.md)
+- [Créer un topic board à partir d'un topic board existant - Courte vidéo](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6423271-créer-un-topic-board-à-partir-d-un-topic-board-existant-courte-vidéo.md)
+- [Créer une rubrique - Vidéo courte](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6423165-créer-une-rubrique-vidéo-courte.md): vidéo courte
+- [Filtre de date - Courte vidéo](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6423207-filtre-de-date-courte-vidéo.md)
+- [Interaction avec les listes de lecture guidde](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11059986-interaction-avec-les-listes-de-lecture-guidde.md)
+- [Mesurer les distances - Courte vidéo](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6423277-mesurer-les-distances-courte-vidéo.md)
+- [Paramètres des problèmes - Courte vidéo](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6423227-paramètres-des-problèmes-courte-vidéo.md)
+- [Premiers pas - Vidéo courte](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670312-premiers-pas-vidéo-courte.md)
+- [Sharelink - Vidéo courte](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6423241-sharelink-vidéo-courte.md)
+- [Signets publics - Courte vidéo](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6423215-signets-publics-courte-vidéo.md)
+- [Vidéos Guidde](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11055278-vidéos-guidde.md)
+
+## Cas d&#39;utilisation
+
+- [Coordination de la conception numérique et résolution des problèmes pour un projet hospitalier](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12320207-coordination-de-la-conception-numérique-et-résolution-des-problèmes-pour-un-projet-hospitalier.md): Secteur : Construction de santé / BIM (modélisation des informations du bâtiment) Persona : David, coordonnateur BIM pour un grand entrepreneur général.
 
 ## FAQ
 
 - [Aperçu des types de fichiers sur Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670320-quels-formats-sont-compatibles-avec-catenda.md)
+- [Comment faire pour qu'un model s'affiche complètement tandis que tous les autres models s'affichent en semi-transparent ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670328-comment-faire-pour-qu-un-model-s-affiche-complètement-tandis-que-tous-les-autres-models-s-affichent-en-semi-transparent.md)
+- [Comment puis-je lier un document à un objet dans Catenda Hub ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670322-comment-puis-je-lier-un-document-à-un-objet-dans-catenda-hub.md)
+- [Comment puis-je supprimer un groupe associé à une Étiquette ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670316-comment-puis-je-supprimer-un-groupe-associé-à-une-étiquette.md)
+- [Comment trouver le modèle auquel appartient un objet ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670329-comment-trouver-le-modèle-auquel-appartient-un-objet.md)
+- [FAQ Catenda SharePoint](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9419678-faq-catenda-sharepoint.md)
+- [FAQ sur les champs personnalisés](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11384331-faq-sur-les-champs-personnalisés.md)
+- [Localisation 2D des topics](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4854523-localisation-2d-des-topics.md): Description des marqueurs de localisation 2D sur les topics
 - [Manuel d'export 3D DWG](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7887999-manuel-d-export-3d-dwg.md)
+- [Pourquoi ne reçois-je toujours pas de notifications après avoir coché toutes les cases ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670318-pourquoi-ne-reçois-je-toujours-pas-de-notifications-après-avoir-coché-toutes-les-cases.md)
 - [Quelle est la taille de fichier que je peux télécharger ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670324-taille-limite-des-fichiers-ifc.md)
+- [Recommandation de logiciels d'application](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13927149-recommandation-de-logiciels-d-application.md)
 - [Recommandation matérielle](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6921941-recommandation-sur-le-materiel.md): Trouvez les spécifications matérielles recommandées et les conseils d'optimisation pour la meilleure expérience avec Catenda Hub.
+- [Sécurité du projet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8263256-sécurité-du-projet.md)
 
 ## Nouvelles mises à jour 🎉
 
 Trouvez les dernières mises à jour de Catenda Hub
 
+- [Changelog 13 Catenda - Août 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15655135-changelog-13-catenda-août-2026.md): Mises à jour produit Catenda : Explorez la nouvelle vue Kanban pour les topics, les flux d'approbation améliorés, Catenda AI Connect et l'export de données. Inclut les bugs résolus, les nouveaux tutoriels vidéo et la documentation d'assistance mise à jour pour les modèles, documents et topics.
+- [Historique 12 Catenda, avril 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13413499-historique-12-catenda-avril-2026.md)
+- [Journal des modifications 1 Catenda - Avril 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7018311-journal-des-modifications-1-catenda-avril-2023.md)
+- [Journal des modifications 3 Catenda - Octobre 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7983534-journal-des-modifications-3-catenda-octobre-2023.md): Nouvelles informations et modifications mineures
+- [Journal des modifications du plugin Catenda Archicad - 1.0.1.17](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13449075-journal-des-modifications-du-plugin-catenda-archicad-1-0-1-17.md)
+- [Journal des modifications Revit - 1.0.11](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9966204-journal-des-modifications-revit-1-0-11.md)
+- [Journal des modifications Revit - 1.0.8](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7864124-journal-des-modifications-revit-1-0-8.md)
+- [Mise à jour de l'application mobile](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5280539-mise-à-jour-de-l-application-mobile.md)
+- [Mise à jour des mesures 3D !](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5981459-mise-à-jour-des-mesures-3d.md): Améliorations des outils de mesure dans Catenda Hub
 - [Models comme Documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8064548-modeles-documents.md)
+- [Nouvelle fonctionnalité : Aperçu des fichiers IFC dans la section Documents.](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5747273-nouvelle-fonctionnalité-aperçu-des-fichiers-ifc-dans-la-section-documents.md): Les fichiers IFC peuvent être affichés comme n'importe quel autre document.
+- [Nouvelle version de Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4726761-nouvelle-version-de-catenda-site.md)
+- [Quoi de neuf dans Catenda Site ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7161448-quoi-de-neuf-dans-catenda-site.md)
+- [Statuts des fonctionnalités Q1 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13905428-statuts-des-fonctionnalités-q1-2026.md)
+- [Statuts des fonctionnalités Q3 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15957767-statuts-des-fonctionnalités-q3-2026.md)
+
+## Dépannage
+
+- [Catenda Site - Dépannage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11926914-catenda-site-dépannage.md)
+- [Dépannage de la boîte de dialogue de téléchargement de documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11070748-dépannage-de-la-boîte-de-dialogue-de-téléchargement-de-documents.md)
+- [Dépannage du Bureau Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11019637-dépannage-du-bureau-connector.md)
+- [Dépannage du connecteur de bureau - Tous les dossiers n'ont pas été téléchargés](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13772277-dépannage-du-connecteur-de-bureau-tous-les-dossiers-n-ont-pas-été-téléchargés.md)
+- [Dépannage du contenu des champs personnalisés](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13750419-dépannage-du-contenu-des-champs-personnalisés.md)
+- [Dépannage du plugin Navisworks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12597294-dépannage-du-plugin-navisworks.md)
+- [Pourquoi ne reçois-je pas d'e-mails ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8417802-pourquoi-ne-reçois-je-pas-d-e-mails.md)
+
+## Other
+
+- [Aperçu des types de fichiers sur Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8975421-xw79ynda.md)
