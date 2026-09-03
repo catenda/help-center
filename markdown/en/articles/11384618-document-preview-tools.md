@@ -197,14 +197,10 @@ _Image - Shortcut:_ (I) Select the image tool and click anywhere in the document
 
 Examples of images that are inserted include:
 
-- Generated information with metadata.
-In some workflows images are generated with information about the user that looked at the document along with some information like the date and their field of study.
-- A personal or company logo.
-In some cases the logo of a company is inserted as an image to indicate that this company has had a look at the document.
-- A personal signature
-Sometimes this is a scan of a hand-written signature, other times it can be a digitally generated signature.
-- A personal stamp.
-In some cultures stamps are preferred instead of signatures
+- Generated information with metadata.<br>In some workflows images are generated with information about the user that looked at the document along with some information like the date and their field of study.
+- A personal or company logo.<br>In some cases the logo of a company is inserted as an image to indicate that this company has had a look at the document.
+- A personal signature<br>Sometimes this is a scan of a hand-written signature, other times it can be a digitally generated signature.
+- A personal stamp.<br>In some cultures stamps are preferred instead of signatures
 
 After clicking on the insert location on the the system file explorer will open up. Navigate to the image that is to be inserted and choose it. After choosing the image it will be placed at the specifield location.
 

@@ -46,9 +46,7 @@ Thanks to your valuable feedback we have been able to squash many issues that yo
 
 ### 2.1 **Issues**
 
-- The following columns in the excel export have gotten a new name in Japanese:
-「にて作成された」→「作成者・質問者」
-「作成済み」→「作成日・質問日」
+- The following columns in the excel export have gotten a new name in Japanese:<br>「にて作成された」→「作成者・質問者」<br>「作成済み」→「作成日・質問日」
 - The setting for shown or hidden filters in issue boards is now remembered in your account instead of in your browser so you do not have to change it if your browser gets reset often.
 - The issue board once again updates after an issue has been moved
 - BCF issues that are imported with status " " will now default to get the first open status

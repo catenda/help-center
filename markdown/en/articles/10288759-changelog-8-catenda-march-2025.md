@@ -52,8 +52,7 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 - Colors applied to mesh objects are now properly displayed. Models will have to be re-imported to see the difference.
 - A complete redesign of our model management system - we now load model information only when needed, instead of loading everything upfront. This makes it so the page is both quick to load and so our servers can better handle all your requests during when many people are using Catenda at the same time.
 - It is once again possible to see properties in previsous revisions of models in the inspect panel
-- You will no longer see models you do not have access to in the revisions selector.
-This way models used for tenders can be kept anonymous by use of access control.
+- You will no longer see models you do not have access to in the revisions selector.<br>This way models used for tenders can be kept anonymous by use of access control.
 - It is once again possible (and a better experience than previously) to measure between points in point clouds.
 
 ### 2.3 **Topics**

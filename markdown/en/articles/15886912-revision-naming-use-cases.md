@@ -52,11 +52,9 @@ A primary challenge with this strategy is that once all placeholder dashes withi
 
 **2.2.4 The Configuration:**
 
-- **Source Field**
-Text Custom Field configured with a strict, fixed length (e.g., 2 or 3 characters) or a Dropdown Custom Field containing the exact permitted variations.
+- **Source Field**<br>Text Custom Field configured with a strict, fixed length (e.g., 2 or 3 characters) or a Dropdown Custom Field containing the exact permitted variations.
 - **Document Identifier:** Off.
-- **The Result**
-When Sarah uploads `FloorPlan_--.pdf` followed later by `FloorPlan_-a.pdf`, the platform reads the changing sequence tags for validation but strips them out when naming the file in the workspace. Tom and the design team see a single document container named `FloorPlan` where historical variations are stacked as revisions without shifting subsequent characters.
+- **The Result**<br>When Sarah uploads `FloorPlan_--.pdf` followed later by `FloorPlan_-a.pdf`, the platform reads the changing sequence tags for validation but strips them out when naming the file in the workspace. Tom and the design team see a single document container named `FloorPlan` where historical variations are stacked as revisions without shifting subsequent characters.
 
 ### 2.3 Simple Numeric Tracking Sequence (`01`, `02`, `03`)
 
@@ -84,8 +82,7 @@ When Sarah uploads `FloorPlan_--.pdf` followed later by `FloorPlan_-a.pdf`, the 
 **3.4 The Configuration:**
 
 - **Source Field:** Dropdown Custom Field.
-- **Mapping Setup**
-The "Code" is set to match Elena's local filename markers (`W`, `D`, `P`), while the "Name" is written out fully as the display value (`Work in Progress`, `Draft`, `Published`).
+- **Mapping Setup**<br>The "Code" is set to match Elena's local filename markers (`W`, `D`, `P`), while the "Name" is written out fully as the display value (`Work in Progress`, `Draft`, `Published`).
 - **Document Identifier:** Off.
 
 **3.5 The Result** When Elena uploads `HVAC_Layout_W.pdf`, the system matches the code `W` and automatically populates the metadata display as `Work in Progress`. When Marcus expands the right information menu to review the file, the core document name remains a clean, static `HVAC_Layout`, while the **Revision Information** section explicitly displays "Work in Progress".
@@ -106,20 +103,13 @@ In this variation, the date changes with every new file upload and represents a 
 
 **4.3.1 Three Separate Integer Blocks**
 
-- **Structure**
-If an underscore (`_`) is established as the primary separator, the file can be formatted as `Daily_Report_09_07_2026.pdf`. 
-This utilizes three individual integer custom fields: Day, Month, and Year.
-- **Document Identifier Constraints**
-If the Document Identifier is toggled **On** for these three blocks, the date is permanently integrated as part of the document name. 
-This creates a separate document container for every single revision, and the date values remain permanent because document names within naming convention folders are unchangeable. 
-To allow the date fields to vary and stack files as revisions under a single static document name, it is necessary to toggle the Document Identifier **Off** for all three fields.
+- **Structure**<br>If an underscore (`_`) is established as the primary separator, the file can be formatted as `Daily_Report_09_07_2026.pdf`. <br>This utilizes three individual integer custom fields: Day, Month, and Year.
+- **Document Identifier Constraints**<br>If the Document Identifier is toggled **On** for these three blocks, the date is permanently integrated as part of the document name. <br>This creates a separate document container for every single revision, and the date values remain permanent because document names within naming convention folders are unchangeable. <br>To allow the date fields to vary and stack files as revisions under a single static document name, it is necessary to toggle the Document Identifier **Off** for all three fields.
 
 **4.3.2 Single Text Block with Internal Separators**
 
-- **Structure**
-To avoid utilizing multiple convention blocks, an alternative character (such as a dash) can be used inside a single text field block, formatted as `Daily_Report_09-07-2026.pdf`.
-- **Validation Constraints**
-It is only possible to validate the overarching text string within an individual block. Consequently, ensuring the secondary internal separators are placed correctly relies entirely on manual user accuracy during file preparation.
+- **Structure**<br>To avoid utilizing multiple convention blocks, an alternative character (such as a dash) can be used inside a single text field block, formatted as `Daily_Report_09-07-2026.pdf`.
+- **Validation Constraints**<br>It is only possible to validate the overarching text string within an individual block. Consequently, ensuring the secondary internal separators are placed correctly relies entirely on manual user accuracy during file preparation.
 
 ### 4.4 Date for Sorting (Year-Month-Day Order)
 
@@ -135,9 +125,7 @@ A date string such as `260126` can easily be misunderstood, as it is not immedia
 
 **4.4.3 Configuration**
 
-- **Source Field**
-A single Integer or Text Custom Field placed at the very beginning of the naming convention, formatted in a strict `YYMMDD` or `YYYYMMDD` sequence. 
-To maintain correct alignment and proper alphanumeric sorting, leading zeros must always be used for single-digit months or days (e.g., `01` for January).
+- **Source Field**<br>A single Integer or Text Custom Field placed at the very beginning of the naming convention, formatted in a strict `YYMMDD` or `YYYYMMDD` sequence. <br>To maintain correct alignment and proper alphanumeric sorting, leading zeros must always be used for single-digit months or days (e.g., `01` for January).
 - **Document Identifier:** On.
 
 **4.4.4 Result** When Oliver uploads files like `260115_Report.pdf` and `260201_Report.pdf`, separate documents are created because the Document Identifier is active. Because the year and month come first and utilize consistent double-digit padding, the documents table automatically sorts the files in flawless chronological order.

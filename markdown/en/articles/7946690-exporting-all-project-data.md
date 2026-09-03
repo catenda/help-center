@@ -64,10 +64,8 @@ Topic data can be extracted using three primary formats via [exchange topics](ht
 
 **Batch & folder downloads** Select individual folders, specific document batches, or all visible table items at once to generate a downloadable ZIP archive. Downloading in manageable batches by selecting specific subfolders or targeted file groups is recommended for smooth transfers when working with large datasets.
 
-- **Published tab**
-Extracts the latest published revision for each selected document.
-- **Workspace tab**
-Extracts the latest shared revision for each selected document (requires the "View shared revisions" permission). Note that legacy draft revisions cannot be batch-downloaded into a ZIP archive and are downloaded individually.
+- **Published tab**<br>Extracts the latest published revision for each selected document.
+- **Workspace tab**<br>Extracts the latest shared revision for each selected document (requires the "View shared revisions" permission). Note that legacy draft revisions cannot be batch-downloaded into a ZIP archive and are downloaded individually.
 
 **Individual revision download** Select a document on the [documents page](https://support.catenda.com/en/articles/8204673-documents-page) and click the download button next to each revision listed in the right information menu. This is an easier way to download individual or historical revisions because the document preview page does not have to be loaded, allowing you to select another document in the table and download its revisions in the right menu without needing to open a new preview page.
 
@@ -89,12 +87,8 @@ The [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-
 
 **Topic boards** Document board access permissions using two available views:
 
-- **Per-user access view**
-View individual user access levels directly from the right information menu of a topic board or selected topic.
-​_Access required:_ read access to the topic board
-- **Full team configuration**
-Capture screenshots of the complete team-level permission settings within the topic board access settings.
-​_Access required:_ Full access to the topic board or project administrator
+- **Per-user access view**<br>View individual user access levels directly from the right information menu of a topic board or selected topic.<br>​_Access required:_ read access to the topic board
+- **Full team configuration**<br>Capture screenshots of the complete team-level permission settings within the topic board access settings.<br>​_Access required:_ Full access to the topic board or project administrator
 
 **Document & Model access** Export the [access overview](https://support.catenda.com/en/articles/6660820-document-access-overview-page) to record permissions for members and teams. Access required: Project administrator. Because every model is linked to a document in the documents section, access permissions for models are governed by the underlying document permissions and are recorded using the same document access overview or permission menus.
 
@@ -102,11 +96,8 @@ Capture screenshots of the complete team-level permission settings within the to
 
 **Project-wide action permissions** Document project-wide permissions on the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page) (such as creating topic boards, inviting new members, configuring document statuses, and creating or removing models) using two available views:
 
-- **Per-user access view**
-Project members can expand each menu under access control to see which individual users have permission to perform each action.
-- **Full configuration**
-Administrators can open the edit access dialogue to view and manage team-level permission configurations.
-​_Access required:_ Project administrator
+- **Per-user access view**<br>Project members can expand each menu under access control to see which individual users have permission to perform each action.
+- **Full configuration**<br>Administrators can open the edit access dialogue to view and manage team-level permission configurations.<br>​_Access required:_ Project administrator
 
 **User profiles & member details** Information regarding project members and teams is available to extract or document, including:
 
@@ -127,21 +118,16 @@ Configure a dedicated administrative account with [project specific notification
 
 **Document reports** Export document metadata and revision details for all selected files, including document name, revision name, latest revision number, status, custom fields, creator, uploader, and creation/upload timestamps.
 
-- **Key use cases**
-Ideal for generating formal document delivery checklists to accompany a collection, or compiling structured document lists for data analysis.
-- **Model metadata & attributes**
-While actual document file contents are not included, model metadata can be exported through document reports as models maintain links to the document section. Custom scripts within templates can also be used to derive additional attributes, such as extracting filetypes from document names.
+- **Key use cases**<br>Ideal for generating formal document delivery checklists to accompany a collection, or compiling structured document lists for data analysis.
+- **Model metadata & attributes**<br>While actual document file contents are not included, model metadata can be exported through document reports as models maintain links to the document section. Custom scripts within templates can also be used to derive additional attributes, such as extracting filetypes from document names.
 
 **Topic reports** Export overall topic headers as well as complete topic body details, including descriptions, comments, and embedded comment images.
 
 **Available export formats** Reports created from any template can be exported to multiple formats depending on your workflow requirements:
 
-- **PDF / PDF/A**
-Generates clean formatted reports and directly supports native PDF/A compliance (PDF/A-1, PDF/A-2, and PDF/A-3) to meet strict long-term archiving and formal legal standards.
-- **Excel**
-Exports structured tabular data into spreadsheet rows and columns, making it ideal for data manipulation and external analysis.
-- **Additional formats**
-A wide range of additional file formats beyond PDF and Excel are also supported for export; the complete overview can be found in the [reports page](https://support.catenda.com/en/articles/12303098-reports-page) article.
+- **PDF / PDF/A**<br>Generates clean formatted reports and directly supports native PDF/A compliance (PDF/A-1, PDF/A-2, and PDF/A-3) to meet strict long-term archiving and formal legal standards.
+- **Excel**<br>Exports structured tabular data into spreadsheet rows and columns, making it ideal for data manipulation and external analysis.
+- **Additional formats**<br>A wide range of additional file formats beyond PDF and Excel are also supported for export; the complete overview can be found in the [reports page](https://support.catenda.com/en/articles/12303098-reports-page) article.
 
 **Centralized storage** Generated reports are listed directly within the reports table and automatically integrated into the main documents table for easy management.
 
@@ -157,22 +143,14 @@ Setting up and managing Catenda Data Export requires an **Organization Administr
 
 Setting up automated data exports involves four main steps:
 
-1. **Select Destination**
-Choose a cloud storage provider, Amazon Web Services (AWS) S3 or Microsoft Azure Blob storage, and configure authentication.
+1. **Select Destination**<br>Choose a cloud storage provider, Amazon Web Services (AWS) S3 or Microsoft Azure Blob storage, and configure authentication.
 1. **Define Scope & Data Formats**
-    - **Data Types**
-Export documents, models, and topics. 
-Topic data can automatically be converted into readable PDF summary reports or standard BCF files during transfer.
-    - **Project Selection**
-Choose all projects, hand-pick specific projects, or set up dynamic matching rules using project name patterns (glob or regular expression / regex) to automatically include new projects as they are created.
+    - **Data Types**<br>Export documents, models, and topics. <br>Topic data can automatically be converted into readable PDF summary reports or standard BCF files during transfer.
+    - **Project Selection**<br>Choose all projects, hand-pick specific projects, or set up dynamic matching rules using project name patterns (glob or regular expression / regex) to automatically include new projects as they are created.
 1. **Select Export Mode**
-    - **Continuous Mode**
-Ships data automatically on a daily schedule. 
-This recurring setup ensures non-owner project members maintain an updated backup up to the last daily run if project access ends unexpectedly.
-    - **Snapshot Mode**
-Performs a one-off run to export a complete dataset at a specific milestone or project handoff.
-1. **Deploy**
-Finalize and enable the export configuration by selecting Create.
+    - **Continuous Mode**<br>Ships data automatically on a daily schedule. <br>This recurring setup ensures non-owner project members maintain an updated backup up to the last daily run if project access ends unexpectedly.
+    - **Snapshot Mode**<br>Performs a one-off run to export a complete dataset at a specific milestone or project handoff.
+1. **Deploy**<br>Finalize and enable the export configuration by selecting Create.
 
 ### 3.3 **Extracted Content & Integrity Verification**
 

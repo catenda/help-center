@@ -127,19 +127,13 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 
 ### 3.2 **Documents**
 
-- Notifications are now being sent out to users that are part of teams that belong in three different categories.
-As part of an approval submitter team, as part of a team that is in one of the workflow steps and as part of the final submitter team.
-There are notifications about new information like information being submitted, and edited.
-There are notificatiotions about responsibility like when it is time for a reviewer team to do their review or when it is time for the final reviewer to publish the documents in the approval request.
-And there are notifications about actions being performed like all reviews in a step being submitted by the different teams in the step or the final closing of an approval request by the final reviewer team.
+- Notifications are now being sent out to users that are part of teams that belong in three different categories.<br>As part of an approval submitter team, as part of a team that is in one of the workflow steps and as part of the final submitter team.<br>There are notifications about new information like information being submitted, and edited.<br>There are notificatiotions about responsibility like when it is time for a reviewer team to do their review or when it is time for the final reviewer to publish the documents in the approval request.<br>And there are notifications about actions being performed like all reviews in a step being submitted by the different teams in the step or the final closing of an approval request by the final reviewer team.
 - On the final step of an approval the instead of just approving and rejecting it is now possible for someone from the final approver team to approve with comment. This is typically used in the situation where the final approver would like to approve on behalf of the approver team but has some reservations about the document. Maybe a small change needs to be made, maybe there is an acceptable flaw in the document.
 
 ### 3.3 **Settings**
 
 - It is now possible to configure team membership by selecting on or more members in the list and making changes to update them in the right menu instead of having to go to the team and having to add member by member.
-- Date field - A new custom field has been made available of type Date.
-If this field is made available for topics or documents each date field that has been made available for a topic/document can be given a date by clicking on it and selecting a date in a calendar. 
-Date fields are not available for naming conventions but they are available via the API.
+- Date field - A new custom field has been made available of type Date.<br>If this field is made available for topics or documents each date field that has been made available for a topic/document can be given a date by clicking on it and selecting a date in a calendar. <br>Date fields are not available for naming conventions but they are available via the API.
 
 ## 4. **New releases** - Plugins and integrations
 

@@ -37,8 +37,7 @@ By default there is one shared status by the name if shared that is configured. 
 - Published statuses - New information submitted in the published stage.
 - The default status is set to No status.
 - The approvals menu in document settings is disabled.
-- The approvals sub-page to the documents page is disabled.
-​
+- The approvals sub-page to the documents page is disabled.<br>​
 
 ## 2. **Published statuses**
 
@@ -46,8 +45,7 @@ By default there is one published status by the name if published that is config
 
 - Published, with comments - Light green
 - Waiting - Yellow
-- Rejected - Red
-​
+- Rejected - Red<br>​
 
 ## 3. **Add status**
 

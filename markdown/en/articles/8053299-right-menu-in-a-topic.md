@@ -47,8 +47,7 @@ When the browser is zoomed all the way out the most information about library it
 For folders the name of the folder is displayed along with any labels attached to the folder. For documents the following is displayed:
 
 - Document path in the document library.
-- Document name
-Hover over each name to see a preview of the whole document / path name.
+- Document name<br>Hover over each name to see a preview of the whole document / path name.
 - Revision number
 - Revision status of the latest revision in the document
 - Labels applied to the document

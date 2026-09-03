@@ -38,8 +38,7 @@
 
 - Models can be rotated without problem again. (Rotation field was blank for a short period)
 - Objects can be deleted again (Models were loaded twice for a short period)
-- Grids exported from Revit with the official IFC4 exporter are now visible
-The first measured measurement is now immediately visible by going to inspect on screens where there is no space to show the inspect panel and the 3D viewer at the same time.
+- Grids exported from Revit with the official IFC4 exporter are now visible<br>The first measured measurement is now immediately visible by going to inspect on screens where there is no space to show the inspect panel and the 3D viewer at the same time.
 - Objects can now be made transparent again. (Make transparent would hide others instead for some time)
 - Panels like properties now stay open even if you click on empty space and back on the same object
 

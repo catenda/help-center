@@ -105,8 +105,7 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 - When adding documents to a collections it is now possible to check a box towards the top to select all documents in a folder and add them to a collection.
 - As a bonus improvement it is now also possible to select which revision of a document you want to add to a collection so the right one appears when you lock the collection to document revisions instead of following the latest revision.
 - Users with full access to a document will now be able to [withdraw a revision](https://support.catenda.com/en/articles/9711174-withdraw-revision) of a document and thereby also a model if it is an ifc document.
-- It is now possible to add a custom logo to the topic reports that are exported to PDF.
-The logo settings can be found on the projects page.
+- It is now possible to add a custom logo to the topic reports that are exported to PDF.<br>The logo settings can be found on the projects page.
 - You can now split your project in a published area and a shared so you can give different people access to a public part and a shared part where documents are still being prepared for publishing. (Please ask to have this enabled on your project) Only the published documents will be visible in Catenda Site
 
 ### 3.2 **Models**

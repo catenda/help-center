@@ -30,14 +30,10 @@ When a new approval workflow is created for the first time, all foundational par
 
 If any required field is incomplete when attempting to save a new workflow, the system displays a pre-submission warning banner across the top of the page and blocks template creation. Mandatory fields include:
 
-- **2.1.1 Workflow Title**
-A unique, descriptive name for the workflow.
-- **2.1.2 Submitter Teams**
-At least one project team assigned to launch approval requests.
-- **2.1.3 Review Steps**
-At least one review step containing an assigned reviewer team and a duration of at least **1 working day**.
-- **2.1.4 Final Approval**
-An assigned final review team alongside two active project document statuses—one mapped for approved revisions and one for rejected revisions.
+- **2.1.1 Workflow Title**<br>A unique, descriptive name for the workflow.
+- **2.1.2 Submitter Teams**<br>At least one project team assigned to launch approval requests.
+- **2.1.3 Review Steps**<br>At least one review step containing an assigned reviewer team and a duration of at least **1 working day**.
+- **2.1.4 Final Approval**<br>An assigned final review team alongside two active project document statuses—one mapped for approved revisions and one for rejected revisions.
 
 ### 2.2 **2.2 System Limits & Team Membership Rules**
 
@@ -55,12 +51,9 @@ An assigned final review team alongside two active project document statuses—o
 
 **2.2.4 Administrator Rights** Project administrators do not hold automatic operational rights. To perform actions during an approval, an administrator must be an explicit member of the relevant team:
 
-- **Submitter Team**
-Required to launch an approval request.
-- **Reviewer Team**
-Required to indicate or submit a review validation.
-- **Final Reviewer Team**
-Required to render the final decision and close out the approval.
+- **Submitter Team**<br>Required to launch an approval request.
+- **Reviewer Team**<br>Required to indicate or submit a review validation.
+- **Final Reviewer Team**<br>Required to render the final decision and close out the approval.
 
 ## 3. **3.** **Flexible Operations (Pre & Post-Submission)**
 
@@ -128,12 +121,9 @@ Deleted project teams cannot be recovered. If a team assigned to a workflow is d
 
 **5.2.2 Deleted Reviewer Teams** Review steps are locked post-submission.
 
-- **If other assigned teams remain**
-The review step continues to function for the remaining teams.
-- **If no teams remain & auto-approve is ON**
-The step automatically approves and advances once the step due date passes.
-- **If no teams remain & auto-approve is OFF**
-Ongoing approval requests stall indefinitely at that review step.
+- **If other assigned teams remain**<br>The review step continues to function for the remaining teams.
+- **If no teams remain & auto-approve is ON**<br>The step automatically approves and advances once the step due date passes.
+- **If no teams remain & auto-approve is OFF**<br>Ongoing approval requests stall indefinitely at that review step.
 
 **5.2.3 Deleted Final Reviewer Teams** Final approval teams are locked post-submission, and auto-approve is **not** available for final review steps. If all final reviewer teams are deleted, ongoing approval requests are stalled indefinitely.
 

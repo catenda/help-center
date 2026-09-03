@@ -82,79 +82,47 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 
 ### 3.1 **General**
 
-- **[Projects] Project creation restored**
-It is once again possible to create projects.
-- **[Projects] Creation in orgs with project limits**
-It is once again possible to create projects in organizations with a limit of less than 100 projects.
-- **[Navigation] Blank screen on activity resume**
-Pages no longer intermittently display a blank screen when resuming activity after a period of inactivity.
-- **[Localization] Non-English language access**
-It is once again possible to access Catenda if the language preference is set to something other than English.
+- **[Projects] Project creation restored**<br>It is once again possible to create projects.
+- **[Projects] Creation in orgs with project limits**<br>It is once again possible to create projects in organizations with a limit of less than 100 projects.
+- **[Navigation] Blank screen on activity resume**<br>Pages no longer intermittently display a blank screen when resuming activity after a period of inactivity.
+- **[Localization] Non-English language access**<br>It is once again possible to access Catenda if the language preference is set to something other than English.
 
 ### 3.2 **Topics**
 
-- **[Topic board] Select all checkbox behavior**
-The select all checkbox in a topic board table is once again properly checked and unchecked after selecting all topics.
-- **[Kanban view] Subfilter visibility toggling**
-In Kanban view only the topics from the subfilter now appear and disappear when checking the filter in the filter menu instead of all topics of that filter type.
-- **[Formatting hint] Logo in markdown preview**
-The inline markdown image in the topic post formatting hint once again displays the Catenda logo
+- **[Topic board] Select all checkbox behavior**<br>The select all checkbox in a topic board table is once again properly checked and unchecked after selecting all topics.
+- **[Kanban view] Subfilter visibility toggling**<br>In Kanban view only the topics from the subfilter now appear and disappear when checking the filter in the filter menu instead of all topics of that filter type.
+- **[Formatting hint] Logo in markdown preview**<br>The inline markdown image in the topic post formatting hint once again displays the Catenda logo
 
 ### 3.3 **Documents**
 
-- **[Document preview] Download process error fix**
-The document download process is changed such that an error that some users experienced on some documents when viewing them in the document preview no longer appears.
-- **[Approvals] Legacy approval draft status handling**
-It is once again possible to submit legacy approvals and update legacy approval settings where a draft status is configured as an outcome for a rejected document.
-- **[Document preview] Download/Save as menu options**
-The Download/Save as menus are once again visible in the document preview action menu.
-- **[Document preview] Filenames with periods in name**
-It is once again possible to preview documents that have a period mid document name in addition to the extension.
-- **[Document preview] Image filetype previews**
-It is once again possible to preview image filetypes in the document preview
-- **[Downloads] Lithuanian and Hungarian language fix**
-It is once again possible to download single documents when the language preference is set to Lithuanian or Hungarian.
-- **[Naming conventions] German umlauts validation fix**
-File naming convention validation no longer fails when uploading documents with custom field codes containing German umlauts.
-- **[Document list] Whitespace layout on scroll fix**
-Whitespace is no longer covering some document rows after scrolling down long lists of documents in collections where added documents have since been deleted.
-- **[Document preview] Pre-optimized preview loading**
-When a document preview was opened a raw, slow version was initially displayed until an optimized, faster to work with, version was displayed.
-Especially for larger files it could take a while until this optimized version was ready. Now, for all new files, an optimized version is prepared even before the document preview is opened. Older files will be optimized when the preview is opened and might have ot be reloaded. Additionally the server preparing optimized previews has been upgraded making it less likely a gray processing screen is displayed when the document preview is opened.
-This change will mostly be noticable on larger files such as PDFs with many pages or heavy images and CAD formats.
+- **[Document preview] Download process error fix**<br>The document download process is changed such that an error that some users experienced on some documents when viewing them in the document preview no longer appears.
+- **[Approvals] Legacy approval draft status handling**<br>It is once again possible to submit legacy approvals and update legacy approval settings where a draft status is configured as an outcome for a rejected document.
+- **[Document preview] Download/Save as menu options**<br>The Download/Save as menus are once again visible in the document preview action menu.
+- **[Document preview] Filenames with periods in name**<br>It is once again possible to preview documents that have a period mid document name in addition to the extension.
+- **[Document preview] Image filetype previews**<br>It is once again possible to preview image filetypes in the document preview
+- **[Downloads] Lithuanian and Hungarian language fix**<br>It is once again possible to download single documents when the language preference is set to Lithuanian or Hungarian.
+- **[Naming conventions] German umlauts validation fix**<br>File naming convention validation no longer fails when uploading documents with custom field codes containing German umlauts.
+- **[Document list] Whitespace layout on scroll fix**<br>Whitespace is no longer covering some document rows after scrolling down long lists of documents in collections where added documents have since been deleted.
+- **[Document preview] Pre-optimized preview loading**<br>When a document preview was opened a raw, slow version was initially displayed until an optimized, faster to work with, version was displayed.<br>Especially for larger files it could take a while until this optimized version was ready. Now, for all new files, an optimized version is prepared even before the document preview is opened. Older files will be optimized when the preview is opened and might have ot be reloaded. Additionally the server preparing optimized previews has been upgraded making it less likely a gray processing screen is displayed when the document preview is opened.<br>This change will mostly be noticable on larger files such as PDFs with many pages or heavy images and CAD formats.
 
 ### 3.4 **Models**
 
-- **[Info panel] Linked topics are visible again.**
-Topics that are linked to objects are once again visible in the inspect menu of the information panel under the topics tab.
-- **[Storey configurator] PDF underlays display fixed.**
-It is once again possible to preview PDF underlay documents in the storey configurator document preview for PDFs that do not have embedded fonts.
+- **[Info panel] Linked topics are visible again.**<br>Topics that are linked to objects are once again visible in the inspect menu of the information panel under the topics tab.
+- **[Storey configurator] PDF underlays display fixed.**<br>It is once again possible to preview PDF underlay documents in the storey configurator document preview for PDFs that do not have embedded fonts.
 
 ## 4. **User voices completed**
 
 ### 4.1 Topics
 
-- **A new view for topics has been added: Kanban**
-Organize, filter, and update topics directly on a Kanban board, improving issue management, task management and team collaboration in Catenda Hub. 
-Change the filters to view not just all topics in one list like with list view but see the topics in columns based on the different filters that are available.
-For example one column per assignee so you see topics assigned to people next to each other or one column per status or one column for topics that are due today, due within a week, due in more than a week and overdue.
-- **The topics statistics page**
-has gotten a visual overhaul making it more responsive. It is now possible to hover anywhere on the graph volume to see the amount of topics with different statuses at that a given point in the project timeline instead of just when the graph line is hovered.
+- **A new view for topics has been added: Kanban**<br>Organize, filter, and update topics directly on a Kanban board, improving issue management, task management and team collaboration in Catenda Hub. <br>Change the filters to view not just all topics in one list like with list view but see the topics in columns based on the different filters that are available.<br>For example one column per assignee so you see topics assigned to people next to each other or one column per status or one column for topics that are due today, due within a week, due in more than a week and overdue.
+- **The topics statistics page**<br>has gotten a visual overhaul making it more responsive. It is now possible to hover anywhere on the graph volume to see the amount of topics with different statuses at that a given point in the project timeline instead of just when the graph line is hovered.
 
 ### 4.2 **Documents**
 
-- **Flexible Submitter Team Management** 
-It is now possible to add or remove submitter teams on existing approval workflows after they have been saved. 
-Project administrators can update who is permitted to launch new approval requests without having to recreate the entire workflow template from scratch.
-- **Require Review from All Team Members** 
-A new setting has been added to approval review steps that requires every individual member of a reviewer team to submit their own validation indication.
-Instead of advancing as soon as a single member responds, the step will now remain open until every member of the assigned team has completed their review.
-- **Automatic Topic Creation on Approval Completion** 
-Approval workflows can now be linked with topic templates so that topics are automatically created when an approval request completes. 
-Selecting a topic template for specific outcome decisions ensures that follow-up remarks and issues are immediately logged into a topic board for tracking.
-- **Document Revisions Overview Tab** 
-The approvals page now features a dedicated "Document revisions" tab that provides a full table overview of all files currently undergoing review across all open approvals. 
-You can now search, sort, and filter individual document revisions by team assignment, review state, and due date without needing to open each approval package separately.
+- **Flexible Submitter Team Management** <br>It is now possible to add or remove submitter teams on existing approval workflows after they have been saved. <br>Project administrators can update who is permitted to launch new approval requests without having to recreate the entire workflow template from scratch.
+- **Require Review from All Team Members** <br>A new setting has been added to approval review steps that requires every individual member of a reviewer team to submit their own validation indication.<br>Instead of advancing as soon as a single member responds, the step will now remain open until every member of the assigned team has completed their review.
+- **Automatic Topic Creation on Approval Completion** <br>Approval workflows can now be linked with topic templates so that topics are automatically created when an approval request completes. <br>Selecting a topic template for specific outcome decisions ensures that follow-up remarks and issues are immediately logged into a topic board for tracking.
+- **Document Revisions Overview Tab** <br>The approvals page now features a dedicated "Document revisions" tab that provides a full table overview of all files currently undergoing review across all open approvals. <br>You can now search, sort, and filter individual document revisions by team assignment, review state, and due date without needing to open each approval package separately.
 - **Japanese Localization for Approvals**
 
     Full Japanese localization has been implemented across the approvals interface and workflow configuration pages. 
@@ -162,9 +130,7 @@ Teams working in Japanese can now navigate approval cards, document review tools
 
 ### 4.3 **Project settings**
 
-- **Invite page overhaul**
-The project invite page has been changed so that there is no longer confusion about having the click the add button before being able to click on send invitation. 
-It is now possible to click outside of the field to apply before clicking invite user.
+- **Invite page overhaul**<br>The project invite page has been changed so that there is no longer confusion about having the click the add button before being able to click on send invitation. <br>It is now possible to click outside of the field to apply before clicking invite user.
 
 ## 5. **New releases** - Plugins and integrations
 

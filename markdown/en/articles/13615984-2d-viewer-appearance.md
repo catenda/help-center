@@ -45,8 +45,7 @@ Click [here](https://support.catenda.com/en/articles/4854523-2d-location-of-issu
 Before working with markers make sure the 2D viewer is configured.
 
 - **Storeys from Model 2D views -** Choose a storey from an enabled 2D view as the base height. Enable other 2D views to view longside that storey.
-- **Storeys from** **Buildings -** Choose a storey from a pre-configured building. 
-The base height and the enabled 2D views from configured models are enabled.
+- **Storeys from** **Buildings -** Choose a storey from a pre-configured building. <br>The base height and the enabled 2D views from configured models are enabled.
 
 **Marker placement -** Right click on canvas and create a new topic with marker Click on add location in the topic header on the content panel and click on the location where the marker should be added.
 

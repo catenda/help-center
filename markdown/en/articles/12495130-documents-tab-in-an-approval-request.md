@@ -26,17 +26,14 @@ Click [here](https://support.catenda.com/en/articles/12495638-approval-request-d
 
 ### 3.1 **Columns**
 
-- **Name:** Show the name of the document and the type of document with icon.
-By clicking the title you can directly show the document in the approval environment.
+- **Name:** Show the name of the document and the type of document with icon.<br>By clicking the title you can directly show the document in the approval environment.
 - **Revision:** Shows the revisionname of the document
 - **#:** Shows wich version/revision from document inside the approval is.
-    - When a document gets added to an approval it will show its major and minor revision number which can look something like this:
-​
+    - When a document gets added to an approval it will show its major and minor revision number which can look something like this:<br>​
 
         <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
-    - If the selected shared revision was published to become the latest published revision in the document outside of the current approval request it can look something like this:
-​
+    - If the selected shared revision was published to become the latest published revision in the document outside of the current approval request it can look something like this:<br>​
 
         <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 

@@ -6,8 +6,7 @@ Administrators will be able to configure who has access to create topic boards i
 
     Click on it.
 
-1. A list of who can create and Edit access will appear.
-Click the Edit access button.
+1. A list of who can create and Edit access will appear.<br>Click the Edit access button.
 1. Define access for member(s) or team(s).
 
     Under the member(s) or Team(s) you have selected will appear.

@@ -64,8 +64,7 @@ Marker visibility can be configured in the following locations:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/09-marker-configuration.png)
 
-1. Show/hide markers in the 2D view with the [2D viewer settings](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098). 
-Note: Markers might still not be visible if the marker layer is disabled.
+1. Show/hide markers in the 2D view with the [2D viewer settings](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098). <br>Note: Markers might still not be visible if the marker layer is disabled.
 
     In this menu the marker color mode can also be configured.
 ([Status, Topic type, Due date](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).

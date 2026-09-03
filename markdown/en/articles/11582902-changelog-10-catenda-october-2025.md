@@ -69,8 +69,7 @@ As new features roll out and bugs are fixed articles are updated with the change
 **Frequently Asked Questions**
 
 - [Tables on Catenda](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
-- [Custom member information](https://support.catenda.com/en/articles/11769670-custom-member-information)
-​
+- [Custom member information](https://support.catenda.com/en/articles/11769670-custom-member-information)<br>​
 
 ### 1.2 **Articles that have changed:**
 
@@ -152,8 +151,7 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 ### 2.2 **Documents**
 
 - The save markups menu once again shows up after an annotation is made on a document.
-- For a period it would take longer than expected for the downlaodable zip file to be prepared when finalizing a collection.
-The duration of the preparation of the zip file that can be downloaded via Catenda Transfer is once again prepared at the expected pace.
+- For a period it would take longer than expected for the downlaodable zip file to be prepared when finalizing a collection.<br>The duration of the preparation of the zip file that can be downloaded via Catenda Transfer is once again prepared at the expected pace.
 
 ### 2.3 **Models**
 
@@ -183,8 +181,7 @@ The duration of the preparation of the zip file that can be downloaded via Caten
 
 - Openings are now properly cut through surfaces where voids are cut through voids. Example: A wall where gaps between metal sheets are displayed with voids, but also window openins are cut through the wall.
 - A change to the 3D viewer has improved the loading performance of models in the 3D viewer. Depending on your location this can make it anywhere between 50 milliseconds to several seconds faster per model when loading models into the 3D viewer.
-- Geometry segmentation has been improved. Especially in curved elements, more segments will be provided resulting in a smoother curve.
-To see the change in revisions from before 19/08 please re-import the revision.
+- Geometry segmentation has been improved. Especially in curved elements, more segments will be provided resulting in a smoother curve.<br>To see the change in revisions from before 19/08 please re-import the revision.
 - It is once again possible to deslect objects by pressing the escape key.
 
 ### 4.2 **Settings**

@@ -21,8 +21,7 @@ Users accessing Catenda Hub behind a firewall, proxy or other intermediary need 
 - Catenda domains:
     - `catenda.com`
     - `*.catenda.com`
-        - `webviewer.catenda.com`
-This subdomain is required to be permitted in the firewall to view the preview of documents on the document preview page.
+        - `webviewer.catenda.com`<br>This subdomain is required to be permitted in the firewall to view the preview of documents on the document preview page.
     - `*.*.catenda.com`
 
 We encourage you to use this new domain name. You should not run into problems with more sub-domains like `*.*.*.catenda.com` but if you do it might be easier to allow everything from `catenda.com`

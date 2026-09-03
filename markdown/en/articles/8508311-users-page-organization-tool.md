@@ -22,8 +22,7 @@ Organization owners will have access to the following:
 
 - The organization tool
 - Creating projects as long as your plan allows it.
-- Moving projects to other organiations they own. 
-This will free up a spot allowing for new projects to be created.
+- Moving projects to other organiations they own. <br>This will free up a spot allowing for new projects to be created.
 
 > **Note:** Organization owners are configured by Catenda. If you wish to add/remove an organization owner, please have your contact person reach out to our support and we will be happy to assist.
 

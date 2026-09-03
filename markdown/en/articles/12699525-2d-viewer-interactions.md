@@ -46,10 +46,8 @@ _Left click_ If there are spaces in the storey of the 2D view that is enabled fo
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/05-click-mouse-button.png)
 
-- _Add marker_
-Add a new marker. With a topic open in the content panel you can assign the selected marker. This marker will not be saved and visible to others until added to an issue.
-- _Create a new topic with marker_
-Create a new topic with marker. This marker will not be saved and visible to others until the topic is sent in.
+- _Add marker_<br>Add a new marker. With a topic open in the content panel you can assign the selected marker. This marker will not be saved and visible to others until added to an issue.
+- _Create a new topic with marker_<br>Create a new topic with marker. This marker will not be saved and visible to others until the topic is sent in.
 - _Create query_
     - Intersect space - Create a [query](https://support.catenda.com/en/articles/4854514-queries) of all objects intersecting with the selected space
     - Intersect storey - Create a [query](https://support.catenda.com/en/articles/4854514-queries) of al objects intersecting with this storey

@@ -72,13 +72,11 @@ By default a list element can be seen for each thirty minute timezone offset int
 
 **Timezone list element name** The second part of a timezone list element can display:
 
-- A timezone name.
-For geographical locations where the timezone is the same all year around.
+- A timezone name.<br>For geographical locations where the timezone is the same all year around.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/09-selecting-a-list-element-in-the-timezone-dropdown.png)
 
-- A GMT+XX:XX timezone offset
-For geographical locations where the timezone changes during the year.
+- A GMT+XX:XX timezone offset<br>For geographical locations where the timezone changes during the year.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/10-selecting-a-list-element-in-the-timezone-dropdown.png)
 
@@ -183,8 +181,7 @@ Enable Require review from all team members to require every individual member o
 
 - **When this is off** (the current, only behavior described elsewhere in this help center), any one member of the reviewer team can submit a validation indication on behalf of the whole team, and the step can proceed as soon as they do.
 
-- **When this is on,** the team's step is not complete until every individual member has given their own indication. See the Overview tab, the file review right menu, and the documents tab right menu articles for how this shows up during review.
-​
+- **When this is on,** the team's step is not complete until every individual member has given their own indication. See the Overview tab, the file review right menu, and the documents tab right menu articles for how this shows up during review.<br>​
 
 ### 4.6 **Delete review step**
 

@@ -28,8 +28,7 @@ You can filter by:
     - It will not be possible to filter, and see the color, of these statuses until you go back to the [project page](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) and re-open the project.
 - [Labels](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - Due date
-- Location 
-​
+- Location <br>​
 
 ### 1.1 Reset filter icon
 

@@ -100,10 +100,8 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 
 - Label groups can now be deleted.
 - It is now possible to delete labels that are connected to topics/documents.
-- Label groups can be edited.
-You can find the edit pencil in the right information menu after having selected the label group in the groups tab.
-- It now is possible to make multiple labels at a time.
-Note the import multiple button in the new label menu.
+- Label groups can be edited.<br>You can find the edit pencil in the right information menu after having selected the label group in the groups tab.
+- It now is possible to make multiple labels at a time.<br>Note the import multiple button in the new label menu.
 - It is now possible to delete multiple labels at a time.
 - Labels can be filtered and filters can be saved.
 - It is now possible to add new label groups

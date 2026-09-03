@@ -151,39 +151,28 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 
 - Images uploaded in the logo area on project settings are once again properly displayed on the top left of the PDF version of the topic export. Note that this was always working in the on-demand reporting tool and this was only a problem in the current topic export that is available for everyone.
 - Like with labels, custom field dropdown options are now only suggested in the left filter menu in a topic board when there are topics in the list that have that option selected.
-- When the @mention and #link buttons are used when the cursor is mid post the cursor no longer snaps to the end of the post and the email and linked topic number are properly added to the post when selected from the dropdown list.
-This also prevents everything that has been written between the mention/link location being truncated.
+- When the @mention and #link buttons are used when the cursor is mid post the cursor no longer snaps to the end of the post and the email and linked topic number are properly added to the post when selected from the dropdown list.<br>This also prevents everything that has been written between the mention/link location being truncated.
 
 ### 3.2 **Documents**
 
-- **[Document preview] White page when opening document**
-When opening the document preview of a document on the documents page background fetching of related topic and model data no longer makes the page go completely white for members
-- **[Approvals] Markup panel resetting**
-When creating large amounts of markups in the document review of an approval request on the same document the markup panel no longer resets to its original state.
+- **[Document preview] White page when opening document**<br>When opening the document preview of a document on the documents page background fetching of related topic and model data no longer makes the page go completely white for members
+- **[Approvals] Markup panel resetting**<br>When creating large amounts of markups in the document review of an approval request on the same document the markup panel no longer resets to its original state.
 
 ### 3.3 **Models**
 
-- **[3D Viewer] Revision selector: Incorrect Revision Loading** 
-We resolved an issue where the 3D Viewer would occasionally display an outdated revision instead of the most current model when opened via Topics or Views. This ensures that the model displayed matches the active document revision, regardless of the upload or processing sequence.
-- **[Objects page] Filtered excel export**
-The objects page now takes every filter into account when exporting to excel instead of just the models filter.
-- **[Objects page] Paginated selection**
-When scrolling down to further than 100 objects it is now possible to select all rows with the checkbox on the top left instead of just the the first 100 rows.
-- **[Objects page] Periods in names**
-Names of properties and property sets that have preriods in them are now properly displayed in the header cell of the column on the objects page instead of only everything after the period being displayed. It is now also possible to search on these types of property names.
-- **[Models page] Infinite spinner for shared revisions after being disabled**
-In projects where shared revisions were disabled after shared model revisions were uploaded while shared revisions were enabled there infinite spinners will no longer be visible in the viewer column on the models page.
-​
+- **[3D Viewer] Revision selector: Incorrect Revision Loading** <br>We resolved an issue where the 3D Viewer would occasionally display an outdated revision instead of the most current model when opened via Topics or Views. This ensures that the model displayed matches the active document revision, regardless of the upload or processing sequence.
+- **[Objects page] Filtered excel export**<br>The objects page now takes every filter into account when exporting to excel instead of just the models filter.
+- **[Objects page] Paginated selection**<br>When scrolling down to further than 100 objects it is now possible to select all rows with the checkbox on the top left instead of just the the first 100 rows.
+- **[Objects page] Periods in names**<br>Names of properties and property sets that have preriods in them are now properly displayed in the header cell of the column on the objects page instead of only everything after the period being displayed. It is now also possible to search on these types of property names.
+- **[Models page] Infinite spinner for shared revisions after being disabled**<br>In projects where shared revisions were disabled after shared model revisions were uploaded while shared revisions were enabled there infinite spinners will no longer be visible in the viewer column on the models page.<br>​
 
 ### 3.4 **Reports**
 
-- **[Custom fields]** **Naming convention fields in reports**
-It is now also possible to display values from custom fields that automatically configured as part of a naming conventions in a report instead of only custom fields on documents.
+- **[Custom fields]** **Naming convention fields in reports**<br>It is now also possible to display values from custom fields that automatically configured as part of a naming conventions in a report instead of only custom fields on documents.
 
 ### 3.5 **Project settings**
 
-- **[Geolocation] Aligning storey at 0m height to map**
-Storeys of models that are exactly on 0m height are now properly displayed in the rotation menu of the geolocation configuration in projects settings.
+- **[Geolocation] Aligning storey at 0m height to map**<br>Storeys of models that are exactly on 0m height are now properly displayed in the rotation menu of the geolocation configuration in projects settings.
 - **[Shortcuts] Panel shortcut**
 
     Panel shortcuts now also check the number that is used in the shortcut combination which allows users with different keyboard layouts to also use the shortcuts even if the shift-character is different than usual.

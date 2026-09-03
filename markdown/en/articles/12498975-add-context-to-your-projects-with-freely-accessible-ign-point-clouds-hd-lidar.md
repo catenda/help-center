@@ -23,8 +23,7 @@ Actually, we need the Anaconda Prompt to use PDAL, which will take care of the t
 
 PDAL depends on other libraries, so the easiest way is to use Miniconda (a lightweight version of Anaconda).
 
-1. Go to the official Miniconda download page: 
-👉 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
+1. Go to the official Miniconda download page: <br>👉 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 1. [Download](https://www.anaconda.com/download) the **Miniconda installer for Windows (64-bit, Python 3.x).**
 1. Launch the installer:
     - Accept the license agreement

@@ -10,8 +10,7 @@ While being offline on site, you can from now on:
 1. View / Filter /Search issues offline
 1. [Create new issue offline](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
 1. [Add / Update /Delete comments](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues) with pictures and viewpoints offline
-1. Submit all your offline changes from [the new outbox screen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)
-​
+1. Submit all your offline changes from [the new outbox screen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)<br>​
 
 ## 2. Document collections
 

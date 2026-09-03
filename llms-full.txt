@@ -1316,9 +1316,7 @@ To edit the members/ Teams permission settings:
 1. Under permission setting you can choose between Administrator or Member.
 
 - Administrators have complete control of the project and can access all settings apart from others user settings and private library setting.
-- Members have the same rights as administrators apart from inviting or removing members, creating and deleting models and changing project settings. 
-
-To save the rights click the Set rights button
+- Members have the same rights as administrators apart from inviting or removing members, creating and deleting models and changing project settings. <br><br>To save the rights click the Set rights button
 
 # Multi Factor Authentication
 
@@ -2297,8 +2295,7 @@ Organization owners will have access to the following:
 
 - The organization tool
 - Creating projects as long as your plan allows it.
-- Moving projects to other organiations they own. 
-This will free up a spot allowing for new projects to be created.
+- Moving projects to other organiations they own. <br>This will free up a spot allowing for new projects to be created.
 
 > **Note:** Organization owners are configured by Catenda. If you wish to add/remove an organization owner, please have your contact person reach out to our support and we will be happy to assist.
 
@@ -2373,13 +2370,10 @@ The profile picture, username and email of the user. They can either be a regula
 # Who can invite members
 
 1. Go to settings in the main menu on the left.
-1. Under access control on this page you have “Invite new member”. 
-Click on it.
-1. A list of who can create and Edit access will appear. 
-Click the Edit access button.
+1. Under access control on this page you have “Invite new member”. <br>Click on it.
+1. A list of who can create and Edit access will appear. <br>Click the Edit access button.
 1. Define access for member(s) or team(s).
-1. Under the member(s) or Team(s) you have selected will appear.
-Under access you choose between Can invite and Not allowed.
+1. Under the member(s) or Team(s) you have selected will appear.<br>Under access you choose between Can invite and Not allowed.
 1. Press the save button.
 
 # 2D / 3D - Catenda Site
@@ -2722,8 +2716,7 @@ Click [here](https://support.catenda.com/en/articles/4854523-2d-location-of-issu
 Before working with markers make sure the 2D viewer is configured.
 
 - **Storeys from Model 2D views -** Choose a storey from an enabled 2D view as the base height. Enable other 2D views to view longside that storey.
-- **Storeys from** **Buildings -** Choose a storey from a pre-configured building. 
-The base height and the enabled 2D views from configured models are enabled.
+- **Storeys from** **Buildings -** Choose a storey from a pre-configured building. <br>The base height and the enabled 2D views from configured models are enabled.
 
 **Marker placement -** Right click on canvas and create a new topic with marker Click on add location in the topic header on the content panel and click on the location where the marker should be added.
 
@@ -2826,10 +2819,8 @@ _Left click_ If there are spaces in the storey of the 2D view that is enabled fo
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/05-click-mouse-button.png)
 
-- _Add marker_
-Add a new marker. With a topic open in the content panel you can assign the selected marker. This marker will not be saved and visible to others until added to an issue.
-- _Create a new topic with marker_
-Create a new topic with marker. This marker will not be saved and visible to others until the topic is sent in.
+- _Add marker_<br>Add a new marker. With a topic open in the content panel you can assign the selected marker. This marker will not be saved and visible to others until added to an issue.
+- _Create a new topic with marker_<br>Create a new topic with marker. This marker will not be saved and visible to others until the topic is sent in.
 - _Create query_
     - Intersect space - Create a [query](https://support.catenda.com/en/articles/4854514-queries) of all objects intersecting with the selected space
     - Intersect storey - Create a [query](https://support.catenda.com/en/articles/4854514-queries) of al objects intersecting with this storey
@@ -4046,8 +4037,7 @@ Actually, we need the Anaconda Prompt to use PDAL, which will take care of the t
 
 PDAL depends on other libraries, so the easiest way is to use Miniconda (a lightweight version of Anaconda).
 
-1. Go to the official Miniconda download page: 
-👉 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
+1. Go to the official Miniconda download page: <br>👉 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 1. [Download](https://www.anaconda.com/download) the **Miniconda installer for Windows (64-bit, Python 3.x).**
 1. Launch the installer:
     - Accept the license agreement
@@ -4935,14 +4925,10 @@ When a new approval workflow is created for the first time, all foundational par
 
 If any required field is incomplete when attempting to save a new workflow, the system displays a pre-submission warning banner across the top of the page and blocks template creation. Mandatory fields include:
 
-- **2.1.1 Workflow Title**
-A unique, descriptive name for the workflow.
-- **2.1.2 Submitter Teams**
-At least one project team assigned to launch approval requests.
-- **2.1.3 Review Steps**
-At least one review step containing an assigned reviewer team and a duration of at least **1 working day**.
-- **2.1.4 Final Approval**
-An assigned final review team alongside two active project document statuses—one mapped for approved revisions and one for rejected revisions.
+- **2.1.1 Workflow Title**<br>A unique, descriptive name for the workflow.
+- **2.1.2 Submitter Teams**<br>At least one project team assigned to launch approval requests.
+- **2.1.3 Review Steps**<br>At least one review step containing an assigned reviewer team and a duration of at least **1 working day**.
+- **2.1.4 Final Approval**<br>An assigned final review team alongside two active project document statuses—one mapped for approved revisions and one for rejected revisions.
 
 ### 2.2 **2.2 System Limits & Team Membership Rules**
 
@@ -4960,12 +4946,9 @@ An assigned final review team alongside two active project document statuses—o
 
 **2.2.4 Administrator Rights** Project administrators do not hold automatic operational rights. To perform actions during an approval, an administrator must be an explicit member of the relevant team:
 
-- **Submitter Team**
-Required to launch an approval request.
-- **Reviewer Team**
-Required to indicate or submit a review validation.
-- **Final Reviewer Team**
-Required to render the final decision and close out the approval.
+- **Submitter Team**<br>Required to launch an approval request.
+- **Reviewer Team**<br>Required to indicate or submit a review validation.
+- **Final Reviewer Team**<br>Required to render the final decision and close out the approval.
 
 ## 3. **3.** **Flexible Operations (Pre & Post-Submission)**
 
@@ -5033,12 +5016,9 @@ Deleted project teams cannot be recovered. If a team assigned to a workflow is d
 
 **5.2.2 Deleted Reviewer Teams** Review steps are locked post-submission.
 
-- **If other assigned teams remain**
-The review step continues to function for the remaining teams.
-- **If no teams remain & auto-approve is ON**
-The step automatically approves and advances once the step due date passes.
-- **If no teams remain & auto-approve is OFF**
-Ongoing approval requests stall indefinitely at that review step.
+- **If other assigned teams remain**<br>The review step continues to function for the remaining teams.
+- **If no teams remain & auto-approve is ON**<br>The step automatically approves and advances once the step due date passes.
+- **If no teams remain & auto-approve is OFF**<br>Ongoing approval requests stall indefinitely at that review step.
 
 **5.2.3 Deleted Final Reviewer Teams** Final approval teams are locked post-submission, and auto-approve is **not** available for final review steps. If all final reviewer teams are deleted, ongoing approval requests are stalled indefinitely.
 
@@ -8092,13 +8072,11 @@ By default a list element can be seen for each thirty minute timezone offset int
 
 **Timezone list element name** The second part of a timezone list element can display:
 
-- A timezone name.
-For geographical locations where the timezone is the same all year around.
+- A timezone name.<br>For geographical locations where the timezone is the same all year around.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/09-selecting-a-list-element-in-the-timezone-dropdown.png)
 
-- A GMT+XX:XX timezone offset
-For geographical locations where the timezone changes during the year.
+- A GMT+XX:XX timezone offset<br>For geographical locations where the timezone changes during the year.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/10-selecting-a-list-element-in-the-timezone-dropdown.png)
 
@@ -8203,8 +8181,7 @@ Enable Require review from all team members to require every individual member o
 
 - **When this is off** (the current, only behavior described elsewhere in this help center), any one member of the reviewer team can submit a validation indication on behalf of the whole team, and the step can proceed as soon as they do.
 
-- **When this is on,** the team's step is not complete until every individual member has given their own indication. See the Overview tab, the file review right menu, and the documents tab right menu articles for how this shows up during review.
-​
+- **When this is on,** the team's step is not complete until every individual member has given their own indication. See the Overview tab, the file review right menu, and the documents tab right menu articles for how this shows up during review.<br>​
 
 ### 4.6 **Delete review step**
 
@@ -9226,14 +9203,10 @@ _Image - Shortcut:_ (I) Select the image tool and click anywhere in the document
 
 Examples of images that are inserted include:
 
-- Generated information with metadata.
-In some workflows images are generated with information about the user that looked at the document along with some information like the date and their field of study.
-- A personal or company logo.
-In some cases the logo of a company is inserted as an image to indicate that this company has had a look at the document.
-- A personal signature
-Sometimes this is a scan of a hand-written signature, other times it can be a digitally generated signature.
-- A personal stamp.
-In some cultures stamps are preferred instead of signatures
+- Generated information with metadata.<br>In some workflows images are generated with information about the user that looked at the document along with some information like the date and their field of study.
+- A personal or company logo.<br>In some cases the logo of a company is inserted as an image to indicate that this company has had a look at the document.
+- A personal signature<br>Sometimes this is a scan of a hand-written signature, other times it can be a digitally generated signature.
+- A personal stamp.<br>In some cultures stamps are preferred instead of signatures
 
 After clicking on the insert location on the the system file explorer will open up. Navigate to the image that is to be inserted and choose it. After choosing the image it will be placed at the specifield location.
 
@@ -9705,17 +9678,14 @@ Click [here](https://support.catenda.com/en/articles/12495638-approval-request-d
 
 ### 3.1 **Columns**
 
-- **Name:** Show the name of the document and the type of document with icon.
-By clicking the title you can directly show the document in the approval environment.
+- **Name:** Show the name of the document and the type of document with icon.<br>By clicking the title you can directly show the document in the approval environment.
 - **Revision:** Shows the revisionname of the document
 - **#:** Shows wich version/revision from document inside the approval is.
-    - When a document gets added to an approval it will show its major and minor revision number which can look something like this:
-​
+    - When a document gets added to an approval it will show its major and minor revision number which can look something like this:<br>​
 
         <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
-    - If the selected shared revision was published to become the latest published revision in the document outside of the current approval request it can look something like this:
-​
+    - If the selected shared revision was published to become the latest published revision in the document outside of the current approval request it can look something like this:<br>​
 
         <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 
@@ -12441,8 +12411,7 @@ Follow these steps to configure the webhook link in Catenda. This way Catenda kn
 
     <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
 
-1. **Enable Notifications**: Ensure the toggle at the top of the page is switched to **On**.
-​
+1. **Enable Notifications**: Ensure the toggle at the top of the page is switched to **On**.<br>​
 
     <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
 
@@ -15757,8 +15726,7 @@ Export linked files as separate IFC's If you want to include the linked files in
 
 Export only visible objects visible in view IFC file.
 
-- Export rooms, areas and spaces in 3D views 
-This option can be useful for selecting areas in the 2D viewer.
+- Export rooms, areas and spaces in 3D views <br>This option can be useful for selecting areas in the 2D viewer.
 
 Include Steel elements, _filled_
 
@@ -16009,8 +15977,7 @@ When the browser is zoomed all the way out the most information about library it
 For folders the name of the folder is displayed along with any labels attached to the folder. For documents the following is displayed:
 
 - Document path in the document library.
-- Document name
-Hover over each name to see a preview of the whole document / path name.
+- Document name<br>Hover over each name to see a preview of the whole document / path name.
 - Revision number
 - Revision status of the latest revision in the document
 - Labels applied to the document
@@ -17810,8 +17777,7 @@ By default there is one shared status by the name if shared that is configured. 
 - Published statuses - New information submitted in the published stage.
 - The default status is set to No status.
 - The approvals menu in document settings is disabled.
-- The approvals sub-page to the documents page is disabled.
-​
+- The approvals sub-page to the documents page is disabled.<br>​
 
 ## 2. **Published statuses**
 
@@ -17819,8 +17785,7 @@ By default there is one published status by the name if published that is config
 
 - Published, with comments - Light green
 - Waiting - Yellow
-- Rejected - Red
-​
+- Rejected - Red<br>​
 
 ## 3. **Add status**
 
@@ -18498,8 +18463,7 @@ Administrators will be able to configure who has access to create topic boards i
 
     Click on it.
 
-1. A list of who can create and Edit access will appear.
-Click the Edit access button.
+1. A list of who can create and Edit access will appear.<br>Click the Edit access button.
 1. Define access for member(s) or team(s).
 
     Under the member(s) or Team(s) you have selected will appear.
@@ -19269,28 +19233,23 @@ Can be used on topics created from the general Topic section. Here are the diffe
 
 1. **Topic Board**: The topic board within which the general topic template can be generated.
 1. **Template Name**: The template name can be selected from the dropdown menu during creation, or updated in the settings later if needed.
-1. **Topic Title**: The resulting topic title after creating the topic from the general topic template.
-Hover your mouse on the "?" icon located on the top right-side of the title box to see how you can customize your topic template title with the available variable: `topicCreator`.
-​
+1. **Topic Title**: The resulting topic title after creating the topic from the general topic template.<br>Hover your mouse on the "?" icon located on the top right-side of the title box to see how you can customize your topic template title with the available variable: `topicCreator`.<br>​
 
     <div class="intercom-container intercom-align-center"><img height="184" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-272165f584d2.png" style="height: auto;" width="300"/></div>
 
 1. **Topic Status**: The resulting topic status after creating the topic from the general topic template.
 1. **Topic Type**: The resulting topic type after creating the topic from the general topic template.
 1. **Milestone**: The resulting topic milestone after creating the topic from the general topic template.
-1. **Assigned to**: The resulting topic assignee (project member or team) after creating the topic from the general topic template. You can use here the `Topic Creator` variable to automatically populate this field with the topic creator if needed.
-​
+1. **Assigned to**: The resulting topic assignee (project member or team) after creating the topic from the general topic template. You can use here the `Topic Creator` variable to automatically populate this field with the topic creator if needed.<br>​
 
     <div class="intercom-container intercom-align-center"><img height="94" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-c7f3d7220c54.png" style="height: auto;" width="150"/></div>
 
-1. **Requested by**: The resulting topic requester after creating the topic from the general topic template. You can use here the `Topic Creator` variable to automatically populate this field with the topic creator if needed.
-​
+1. **Requested by**: The resulting topic requester after creating the topic from the general topic template. You can use here the `Topic Creator` variable to automatically populate this field with the topic creator if needed.<br>​
 
     <div class="intercom-container intercom-align-center"><img height="93" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-43e4955bfdd8.png" style="height: auto;" width="150"/></div>
 
 1. **Labels**: The resulting topic labels after creating the topic from the general topic template.
-1. **Description**: The resulting topic description after creating the topic from the general topic template. This section supports the Markdown format and you can use its full potential to format the text, create custom headers and checklists. 
-Hover your mouse on the "?" icon located on the top-right corner of the description box to see how you can make use of all available features (mention teammates and link existing topics) and variables (such as `topicCreator` in the case of the general topic template).
+1. **Description**: The resulting topic description after creating the topic from the general topic template. This section supports the Markdown format and you can use its full potential to format the text, create custom headers and checklists. <br>Hover your mouse on the "?" icon located on the top-right corner of the description box to see how you can make use of all available features (mention teammates and link existing topics) and variables (such as `topicCreator` in the case of the general topic template).
 
     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
 
@@ -19304,9 +19263,7 @@ Can be used on topics created from Markups on Documents. Here are the different 
 
 1. **Topic Board**: The topic board within which the document topic template can be generated.
 1. **Template Name**: The template name can be selected from the dropdown menu during Markup creation, or updated in the settings later if needed.
-1. **Topic Title**: The resulting topic title after creating the topic from the document topic template.
-Hover your mouse on the "?" icon located on the right side of the title box to see how you can customize your document topic template title with the available variables: `documentName`, `fileName`, `markupName` and `topicCreator`.
-​
+1. **Topic Title**: The resulting topic title after creating the topic from the document topic template.<br>Hover your mouse on the "?" icon located on the right side of the title box to see how you can customize your document topic template title with the available variables: `documentName`, `fileName`, `markupName` and `topicCreator`.<br>​
 
     <div class="intercom-container intercom-align-center"><img height="231" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-dbe5030f1082.png" style="height: auto;" width="300"/></div>
 
@@ -19317,18 +19274,15 @@ Hover your mouse on the "?" icon located on the right side of the title box to s
 
     <div class="intercom-container intercom-align-center"><img height="228" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b3156a6c2724.png" style="height: auto;" width="150"/></div>
 
-1. **Requested by**: The resulting topic requester after creating the topic from the document topic template. Different variables can be used here, such as `Document owner`, `File uploader`, `Markup creator`, `Publisher` and `Topic creator`.
-​
+1. **Requested by**: The resulting topic requester after creating the topic from the document topic template. Different variables can be used here, such as `Document owner`, `File uploader`, `Markup creator`, `Publisher` and `Topic creator`.<br>​
 
     <div class="intercom-container intercom-align-center"><img height="171" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-0c4680dfae06.png" style="height: auto;" width="150"/></div>
 
-1. **Labels**: The resulting topic labels after creating the topic from the document topic template. Note that you can fetch the labels from the document you created the Markup from using the variable `Labels from documents` below:
-​
+1. **Labels**: The resulting topic labels after creating the topic from the document topic template. Note that you can fetch the labels from the document you created the Markup from using the variable `Labels from documents` below:<br>​
 
     <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
 
-1. **Description**: The resulting topic description after creating the topic from the document topic template. This section supports the Markdown format and you can use its full potential to format the text, create custom headers and checklists. 
-Hover your mouse on the "?" icon located on the top-right side of the description box to see how you can make use of all available features (mention teammates and link existing topics) and variables (such as `documentName`, `fileName`, `markupName` and `topicCreator` in the case of the document topic template).
+1. **Description**: The resulting topic description after creating the topic from the document topic template. This section supports the Markdown format and you can use its full potential to format the text, create custom headers and checklists. <br>Hover your mouse on the "?" icon located on the top-right side of the description box to see how you can make use of all available features (mention teammates and link existing topics) and variables (such as `documentName`, `fileName`, `markupName` and `topicCreator` in the case of the document topic template).
 
     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
 
@@ -19346,9 +19300,7 @@ Here are the different actions you need to follow and variables you can input wh
 
 1. **Topic Board**: The topic board within which the approval topic template will be generated after an approval workflow is closed.
 1. **Template Name**: The template name of an approval topic template can be selected from the dropdown menu in an approval workflow template, or updated in the settings later if needed.
-1. **Topic Title**: The resulting topic title after the associated approval workflow is closed.
-Hover your mouse on the "?" icon located on the right side of the title box to see how you can customize your approval topic template title with the available variables: `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` and `topicCreator`.
-​
+1. **Topic Title**: The resulting topic title after the associated approval workflow is closed.<br>Hover your mouse on the "?" icon located on the right side of the title box to see how you can customize your approval topic template title with the available variables: `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` and `topicCreator`.<br>​
 
     <div class="intercom-container intercom-align-center"><img height="272" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-6038b1d41fed.png" style="height: auto;" width="300"/></div>
 
@@ -19359,19 +19311,15 @@ Hover your mouse on the "?" icon located on the right side of the title box to s
 
     <div class="intercom-container intercom-align-center"><img height="182" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b012d92ee132.png" style="height: auto;" width="150"/></div>
 
-1. **Requested by**: The resulting topic requester after closing the associated approval workflow. Different variables can be used here, such as `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.
-​
+1. **Requested by**: The resulting topic requester after closing the associated approval workflow. Different variables can be used here, such as `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.<br>​
 
     <div class="intercom-container intercom-align-center"><img height="181" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d7986adac70c.png" style="height: auto;" width="150"/></div>
 
-1. **Labels**: The resulting topic labels after closing the associated approval workflow. Note that you can fetch the labels from the document you created the Markup from using the variable `Labels from documents` below:
-​
+1. **Labels**: The resulting topic labels after closing the associated approval workflow. Note that you can fetch the labels from the document you created the Markup from using the variable `Labels from documents` below:<br>​
 
     <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
 
-1. **Description**: The resulting topic description after closing the associated approval workflow. This section supports the Markdown format and you can use its full potential to format the text, create custom headers and checklists. 
-Hover your mouse on the "?" icon located on the top-right corner of the description box to see how you can make use of all available features (mention teammates and link existing topics) and variables (such as `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) in the case of the approval topic template).
-​
+1. **Description**: The resulting topic description after closing the associated approval workflow. This section supports the Markdown format and you can use its full potential to format the text, create custom headers and checklists. <br>Hover your mouse on the "?" icon located on the top-right corner of the description box to see how you can make use of all available features (mention teammates and link existing topics) and variables (such as `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) in the case of the approval topic template).<br>​
 
     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 
@@ -19487,8 +19435,7 @@ You can filter by:
     - It will not be possible to filter, and see the color, of these statuses until you go back to the [project page](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) and re-open the project.
 - [Labels](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - Due date
-- Location 
-​
+- Location <br>​
 
 ### 1.1 Reset filter icon
 
@@ -20074,23 +20021,17 @@ General topic templates can be configured on the [topic template settings page](
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/01-intro.png)
 
-1. First, create a new topic from the regular topic section.
-​_Access required:_ Write access to a topic board.
-1. Then, select the right topic board within which you want to create your topic.
-​_Access required:_ Write access to the topic board.
-1. Depending on the topic board you have selected, if general topic templates are configured by an administrator they can be available and suggested in the Template dropdown.
-​
+1. First, create a new topic from the regular topic section.<br>​_Access required:_ Write access to a topic board.
+1. Then, select the right topic board within which you want to create your topic.<br>​_Access required:_ Write access to the topic board.
+1. Depending on the topic board you have selected, if general topic templates are configured by an administrator they can be available and suggested in the Template dropdown.<br>​
 
     <div class="intercom-container intercom-align-center"><img height="549" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-b8fa9d6ab8dc.png" style="height: auto;" width="500"/></div>
 
-1. Select the right template you want to use. 
-As soon as you select the right template, the new topic will auto-populate with all the fields that were set in the associated topic template settings, accessible from the [topic template settings page](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).
-​
+1. Select the right template you want to use. <br>As soon as you select the right template, the new topic will auto-populate with all the fields that were set in the associated topic template settings, accessible from the [topic template settings page](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).<br>​
 
     <div class="intercom-container intercom-align-center"><img height="731" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-23a75554e46a.png" style="height: auto;" width="500"/></div>
 
-1. You can finally save your topic by clicking the "Submit" button.
-​
+1. You can finally save your topic by clicking the "Submit" button.<br>​
 
 # Using topic templates when saving markup topics
 
@@ -20101,27 +20042,21 @@ Document topic templates can be configured on the [topic template settings page]
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/01-intro.png)
 
 1. First, create an annotation on a document in the document viewer.
-1. Save your Markup as a Topic.
-​_Access required:_ Write access to a topic board.
-1. A pop-up window will appear to create a Topic from your Markup.
-​
+1. Save your Markup as a Topic.<br>​_Access required:_ Write access to a topic board.
+1. A pop-up window will appear to create a Topic from your Markup.<br>​
 
     <div class="intercom-container intercom-align-center"><img height="541" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-9980053aae3a.png" style="height: auto;" width="500"/></div>
 
-1. Then, select the right topic board within which you want to create your topic.
-​_Access required:_ Write access to the topic board.
-1. Depending on the topic board you have selected, if document topic templates are configured by an administrator they can be available and suggested in the Template dropdown.
-​
+1. Then, select the right topic board within which you want to create your topic.<br>​_Access required:_ Write access to the topic board.
+1. Depending on the topic board you have selected, if document topic templates are configured by an administrator they can be available and suggested in the Template dropdown.<br>​
 
     <div class="intercom-container intercom-align-center"><img height="540" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-b8fd0218f860.png" style="height: auto;" width="500"/></div>
 
-1. Select the right template you want to use. 
-As soon as you select the right template, the new topic will auto-populate with all the fields that were set in the associated topic template settings, accessible from the [topic template settings page](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).
+1. Select the right template you want to use. <br>As soon as you select the right template, the new topic will auto-populate with all the fields that were set in the associated topic template settings, accessible from the [topic template settings page](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).
 
     <div class="intercom-container intercom-align-center"><img height="814" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-50d2237a44b3.png" style="height: auto;" width="500"/></div>
 
-1. You can finally save your topic by clicking the "Save as topics" button.
-​
+1. You can finally save your topic by clicking the "Save as topics" button.<br>​
 
 # Using topic templates with approvals
 
@@ -20141,19 +20076,12 @@ Create a new topic template on the new workflow page.
 
 > **Important:** ℹ️ For a topic to get generated as the result of the closing of an approval, the approval **has to contain a markup**. After closing the configured approval, for each markup in the approval a separate topic is generated.
 
-1. When a new approval workflow is created. 
-You [create a new approval workflow](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow) template, navigate at the bottom of the page until you reach the "Final approval" section. 
-Here, you can link an approval topic template for each review state (and associate document final status).
-​
+1. When a new approval workflow is created. <br>You [create a new approval workflow](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow) template, navigate at the bottom of the page until you reach the "Final approval" section. <br>Here, you can link an approval topic template for each review state (and associate document final status).<br>​
 
     <div class="intercom-container intercom-align-center"><img height="254" src="https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/inline-e90e5114173a.png" style="height: auto;" width="500"/></div>
 
 1. Ensure you have filled all the previous necessary fields from the approval workflow template and click the "Submit" button.
-1. Go through an approval workflow. 
-After all reviews have been made and once the approval workflow is closed, the associated approval topics will be automatically generated and auto-populated with all the fields that were set in the associated topic template settings, accessible from the [topic template settings page](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).
-For a topic to get generated as the result of the closing of an approval, the approval has to contain a markup. 
-If an approval topic template is configured for the workflow that the approval follows topics get generated when the approval is closed.
-For each markup in the approval a separate topic is generated.
+1. Go through an approval workflow. <br>After all reviews have been made and once the approval workflow is closed, the associated approval topics will be automatically generated and auto-populated with all the fields that were set in the associated topic template settings, accessible from the [topic template settings page](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).<br>For a topic to get generated as the result of the closing of an approval, the approval has to contain a markup. <br>If an approval topic template is configured for the workflow that the approval follows topics get generated when the approval is closed.<br>For each markup in the approval a separate topic is generated.
 
 # What is a topic in Catenda?
 
@@ -21621,11 +21549,9 @@ A primary challenge with this strategy is that once all placeholder dashes withi
 
 **2.2.4 The Configuration:**
 
-- **Source Field**
-Text Custom Field configured with a strict, fixed length (e.g., 2 or 3 characters) or a Dropdown Custom Field containing the exact permitted variations.
+- **Source Field**<br>Text Custom Field configured with a strict, fixed length (e.g., 2 or 3 characters) or a Dropdown Custom Field containing the exact permitted variations.
 - **Document Identifier:** Off.
-- **The Result**
-When Sarah uploads `FloorPlan_--.pdf` followed later by `FloorPlan_-a.pdf`, the platform reads the changing sequence tags for validation but strips them out when naming the file in the workspace. Tom and the design team see a single document container named `FloorPlan` where historical variations are stacked as revisions without shifting subsequent characters.
+- **The Result**<br>When Sarah uploads `FloorPlan_--.pdf` followed later by `FloorPlan_-a.pdf`, the platform reads the changing sequence tags for validation but strips them out when naming the file in the workspace. Tom and the design team see a single document container named `FloorPlan` where historical variations are stacked as revisions without shifting subsequent characters.
 
 ### 2.3 Simple Numeric Tracking Sequence (`01`, `02`, `03`)
 
@@ -21653,8 +21579,7 @@ When Sarah uploads `FloorPlan_--.pdf` followed later by `FloorPlan_-a.pdf`, the 
 **3.4 The Configuration:**
 
 - **Source Field:** Dropdown Custom Field.
-- **Mapping Setup**
-The "Code" is set to match Elena's local filename markers (`W`, `D`, `P`), while the "Name" is written out fully as the display value (`Work in Progress`, `Draft`, `Published`).
+- **Mapping Setup**<br>The "Code" is set to match Elena's local filename markers (`W`, `D`, `P`), while the "Name" is written out fully as the display value (`Work in Progress`, `Draft`, `Published`).
 - **Document Identifier:** Off.
 
 **3.5 The Result** When Elena uploads `HVAC_Layout_W.pdf`, the system matches the code `W` and automatically populates the metadata display as `Work in Progress`. When Marcus expands the right information menu to review the file, the core document name remains a clean, static `HVAC_Layout`, while the **Revision Information** section explicitly displays "Work in Progress".
@@ -21675,20 +21600,13 @@ In this variation, the date changes with every new file upload and represents a 
 
 **4.3.1 Three Separate Integer Blocks**
 
-- **Structure**
-If an underscore (`_`) is established as the primary separator, the file can be formatted as `Daily_Report_09_07_2026.pdf`. 
-This utilizes three individual integer custom fields: Day, Month, and Year.
-- **Document Identifier Constraints**
-If the Document Identifier is toggled **On** for these three blocks, the date is permanently integrated as part of the document name. 
-This creates a separate document container for every single revision, and the date values remain permanent because document names within naming convention folders are unchangeable. 
-To allow the date fields to vary and stack files as revisions under a single static document name, it is necessary to toggle the Document Identifier **Off** for all three fields.
+- **Structure**<br>If an underscore (`_`) is established as the primary separator, the file can be formatted as `Daily_Report_09_07_2026.pdf`. <br>This utilizes three individual integer custom fields: Day, Month, and Year.
+- **Document Identifier Constraints**<br>If the Document Identifier is toggled **On** for these three blocks, the date is permanently integrated as part of the document name. <br>This creates a separate document container for every single revision, and the date values remain permanent because document names within naming convention folders are unchangeable. <br>To allow the date fields to vary and stack files as revisions under a single static document name, it is necessary to toggle the Document Identifier **Off** for all three fields.
 
 **4.3.2 Single Text Block with Internal Separators**
 
-- **Structure**
-To avoid utilizing multiple convention blocks, an alternative character (such as a dash) can be used inside a single text field block, formatted as `Daily_Report_09-07-2026.pdf`.
-- **Validation Constraints**
-It is only possible to validate the overarching text string within an individual block. Consequently, ensuring the secondary internal separators are placed correctly relies entirely on manual user accuracy during file preparation.
+- **Structure**<br>To avoid utilizing multiple convention blocks, an alternative character (such as a dash) can be used inside a single text field block, formatted as `Daily_Report_09-07-2026.pdf`.
+- **Validation Constraints**<br>It is only possible to validate the overarching text string within an individual block. Consequently, ensuring the secondary internal separators are placed correctly relies entirely on manual user accuracy during file preparation.
 
 ### 4.4 Date for Sorting (Year-Month-Day Order)
 
@@ -21704,9 +21622,7 @@ A date string such as `260126` can easily be misunderstood, as it is not immedia
 
 **4.4.3 Configuration**
 
-- **Source Field**
-A single Integer or Text Custom Field placed at the very beginning of the naming convention, formatted in a strict `YYMMDD` or `YYYYMMDD` sequence. 
-To maintain correct alignment and proper alphanumeric sorting, leading zeros must always be used for single-digit months or days (e.g., `01` for January).
+- **Source Field**<br>A single Integer or Text Custom Field placed at the very beginning of the naming convention, formatted in a strict `YYMMDD` or `YYYYMMDD` sequence. <br>To maintain correct alignment and proper alphanumeric sorting, leading zeros must always be used for single-digit months or days (e.g., `01` for January).
 - **Document Identifier:** On.
 
 **4.4.4 Result** When Oliver uploads files like `260115_Report.pdf` and `260201_Report.pdf`, separate documents are created because the Document Identifier is active. Because the year and month come first and utilize consistent double-digit padding, the documents table automatically sorts the files in flawless chronological order.
@@ -21979,8 +21895,7 @@ Marker visibility can be configured in the following locations:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/09-marker-configuration.png)
 
-1. Show/hide markers in the 2D view with the [2D viewer settings](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098). 
-Note: Markers might still not be visible if the marker layer is disabled.
+1. Show/hide markers in the 2D view with the [2D viewer settings](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098). <br>Note: Markers might still not be visible if the marker layer is disabled.
 
     In this menu the marker color mode can also be configured.
 ([Status, Topic type, Due date](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
@@ -22559,10 +22474,8 @@ Topic data can be extracted using three primary formats via [exchange topics](ht
 
 **Batch & folder downloads** Select individual folders, specific document batches, or all visible table items at once to generate a downloadable ZIP archive. Downloading in manageable batches by selecting specific subfolders or targeted file groups is recommended for smooth transfers when working with large datasets.
 
-- **Published tab**
-Extracts the latest published revision for each selected document.
-- **Workspace tab**
-Extracts the latest shared revision for each selected document (requires the "View shared revisions" permission). Note that legacy draft revisions cannot be batch-downloaded into a ZIP archive and are downloaded individually.
+- **Published tab**<br>Extracts the latest published revision for each selected document.
+- **Workspace tab**<br>Extracts the latest shared revision for each selected document (requires the "View shared revisions" permission). Note that legacy draft revisions cannot be batch-downloaded into a ZIP archive and are downloaded individually.
 
 **Individual revision download** Select a document on the [documents page](https://support.catenda.com/en/articles/8204673-documents-page) and click the download button next to each revision listed in the right information menu. This is an easier way to download individual or historical revisions because the document preview page does not have to be loaded, allowing you to select another document in the table and download its revisions in the right menu without needing to open a new preview page.
 
@@ -22584,12 +22497,8 @@ The [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-
 
 **Topic boards** Document board access permissions using two available views:
 
-- **Per-user access view**
-View individual user access levels directly from the right information menu of a topic board or selected topic.
-​_Access required:_ read access to the topic board
-- **Full team configuration**
-Capture screenshots of the complete team-level permission settings within the topic board access settings.
-​_Access required:_ Full access to the topic board or project administrator
+- **Per-user access view**<br>View individual user access levels directly from the right information menu of a topic board or selected topic.<br>​_Access required:_ read access to the topic board
+- **Full team configuration**<br>Capture screenshots of the complete team-level permission settings within the topic board access settings.<br>​_Access required:_ Full access to the topic board or project administrator
 
 **Document & Model access** Export the [access overview](https://support.catenda.com/en/articles/6660820-document-access-overview-page) to record permissions for members and teams. Access required: Project administrator. Because every model is linked to a document in the documents section, access permissions for models are governed by the underlying document permissions and are recorded using the same document access overview or permission menus.
 
@@ -22597,11 +22506,8 @@ Capture screenshots of the complete team-level permission settings within the to
 
 **Project-wide action permissions** Document project-wide permissions on the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page) (such as creating topic boards, inviting new members, configuring document statuses, and creating or removing models) using two available views:
 
-- **Per-user access view**
-Project members can expand each menu under access control to see which individual users have permission to perform each action.
-- **Full configuration**
-Administrators can open the edit access dialogue to view and manage team-level permission configurations.
-​_Access required:_ Project administrator
+- **Per-user access view**<br>Project members can expand each menu under access control to see which individual users have permission to perform each action.
+- **Full configuration**<br>Administrators can open the edit access dialogue to view and manage team-level permission configurations.<br>​_Access required:_ Project administrator
 
 **User profiles & member details** Information regarding project members and teams is available to extract or document, including:
 
@@ -22622,21 +22528,16 @@ Configure a dedicated administrative account with [project specific notification
 
 **Document reports** Export document metadata and revision details for all selected files, including document name, revision name, latest revision number, status, custom fields, creator, uploader, and creation/upload timestamps.
 
-- **Key use cases**
-Ideal for generating formal document delivery checklists to accompany a collection, or compiling structured document lists for data analysis.
-- **Model metadata & attributes**
-While actual document file contents are not included, model metadata can be exported through document reports as models maintain links to the document section. Custom scripts within templates can also be used to derive additional attributes, such as extracting filetypes from document names.
+- **Key use cases**<br>Ideal for generating formal document delivery checklists to accompany a collection, or compiling structured document lists for data analysis.
+- **Model metadata & attributes**<br>While actual document file contents are not included, model metadata can be exported through document reports as models maintain links to the document section. Custom scripts within templates can also be used to derive additional attributes, such as extracting filetypes from document names.
 
 **Topic reports** Export overall topic headers as well as complete topic body details, including descriptions, comments, and embedded comment images.
 
 **Available export formats** Reports created from any template can be exported to multiple formats depending on your workflow requirements:
 
-- **PDF / PDF/A**
-Generates clean formatted reports and directly supports native PDF/A compliance (PDF/A-1, PDF/A-2, and PDF/A-3) to meet strict long-term archiving and formal legal standards.
-- **Excel**
-Exports structured tabular data into spreadsheet rows and columns, making it ideal for data manipulation and external analysis.
-- **Additional formats**
-A wide range of additional file formats beyond PDF and Excel are also supported for export; the complete overview can be found in the [reports page](https://support.catenda.com/en/articles/12303098-reports-page) article.
+- **PDF / PDF/A**<br>Generates clean formatted reports and directly supports native PDF/A compliance (PDF/A-1, PDF/A-2, and PDF/A-3) to meet strict long-term archiving and formal legal standards.
+- **Excel**<br>Exports structured tabular data into spreadsheet rows and columns, making it ideal for data manipulation and external analysis.
+- **Additional formats**<br>A wide range of additional file formats beyond PDF and Excel are also supported for export; the complete overview can be found in the [reports page](https://support.catenda.com/en/articles/12303098-reports-page) article.
 
 **Centralized storage** Generated reports are listed directly within the reports table and automatically integrated into the main documents table for easy management.
 
@@ -22652,22 +22553,14 @@ Setting up and managing Catenda Data Export requires an **Organization Administr
 
 Setting up automated data exports involves four main steps:
 
-1. **Select Destination**
-Choose a cloud storage provider, Amazon Web Services (AWS) S3 or Microsoft Azure Blob storage, and configure authentication.
+1. **Select Destination**<br>Choose a cloud storage provider, Amazon Web Services (AWS) S3 or Microsoft Azure Blob storage, and configure authentication.
 1. **Define Scope & Data Formats**
-    - **Data Types**
-Export documents, models, and topics. 
-Topic data can automatically be converted into readable PDF summary reports or standard BCF files during transfer.
-    - **Project Selection**
-Choose all projects, hand-pick specific projects, or set up dynamic matching rules using project name patterns (glob or regular expression / regex) to automatically include new projects as they are created.
+    - **Data Types**<br>Export documents, models, and topics. <br>Topic data can automatically be converted into readable PDF summary reports or standard BCF files during transfer.
+    - **Project Selection**<br>Choose all projects, hand-pick specific projects, or set up dynamic matching rules using project name patterns (glob or regular expression / regex) to automatically include new projects as they are created.
 1. **Select Export Mode**
-    - **Continuous Mode**
-Ships data automatically on a daily schedule. 
-This recurring setup ensures non-owner project members maintain an updated backup up to the last daily run if project access ends unexpectedly.
-    - **Snapshot Mode**
-Performs a one-off run to export a complete dataset at a specific milestone or project handoff.
-1. **Deploy**
-Finalize and enable the export configuration by selecting Create.
+    - **Continuous Mode**<br>Ships data automatically on a daily schedule. <br>This recurring setup ensures non-owner project members maintain an updated backup up to the last daily run if project access ends unexpectedly.
+    - **Snapshot Mode**<br>Performs a one-off run to export a complete dataset at a specific milestone or project handoff.
+1. **Deploy**<br>Finalize and enable the export configuration by selecting Create.
 
 ### 3.3 **Extracted Content & Integrity Verification**
 
@@ -22934,8 +22827,7 @@ Users accessing Catenda Hub behind a firewall, proxy or other intermediary need 
 - Catenda domains:
     - `catenda.com`
     - `*.catenda.com`
-        - `webviewer.catenda.com`
-This subdomain is required to be permitted in the firewall to view the preview of documents on the document preview page.
+        - `webviewer.catenda.com`<br>This subdomain is required to be permitted in the firewall to view the preview of documents on the document preview page.
     - `*.*.catenda.com`
 
 We encourage you to use this new domain name. You should not run into problems with more sub-domains like `*.*.*.catenda.com` but if you do it might be easier to allow everything from `catenda.com`
@@ -24328,8 +24220,7 @@ To learn how to use the ShareLink feature, check this previous Bimsync update:
 
 - Models can be rotated without problem again. (Rotation field was blank for a short period)
 - Objects can be deleted again (Models were loaded twice for a short period)
-- Grids exported from Revit with the official IFC4 exporter are now visible
-The first measured measurement is now immediately visible by going to inspect on screens where there is no space to show the inspect panel and the 3D viewer at the same time.
+- Grids exported from Revit with the official IFC4 exporter are now visible<br>The first measured measurement is now immediately visible by going to inspect on screens where there is no space to show the inspect panel and the 3D viewer at the same time.
 - Objects can now be made transparent again. (Make transparent would hide others instead for some time)
 - Panels like properties now stay open even if you click on empty space and back on the same object
 
@@ -24409,8 +24300,7 @@ As new features roll out and bugs are fixed articles are updated with the change
 **Frequently Asked Questions**
 
 - [Tables on Catenda](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
-- [Custom member information](https://support.catenda.com/en/articles/11769670-custom-member-information)
-​
+- [Custom member information](https://support.catenda.com/en/articles/11769670-custom-member-information)<br>​
 
 ### 1.2 **Articles that have changed:**
 
@@ -24492,8 +24382,7 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 ### 2.2 **Documents**
 
 - The save markups menu once again shows up after an annotation is made on a document.
-- For a period it would take longer than expected for the downlaodable zip file to be prepared when finalizing a collection.
-The duration of the preparation of the zip file that can be downloaded via Catenda Transfer is once again prepared at the expected pace.
+- For a period it would take longer than expected for the downlaodable zip file to be prepared when finalizing a collection.<br>The duration of the preparation of the zip file that can be downloaded via Catenda Transfer is once again prepared at the expected pace.
 
 ### 2.3 **Models**
 
@@ -24523,8 +24412,7 @@ The duration of the preparation of the zip file that can be downloaded via Caten
 
 - Openings are now properly cut through surfaces where voids are cut through voids. Example: A wall where gaps between metal sheets are displayed with voids, but also window openins are cut through the wall.
 - A change to the 3D viewer has improved the loading performance of models in the 3D viewer. Depending on your location this can make it anywhere between 50 milliseconds to several seconds faster per model when loading models into the 3D viewer.
-- Geometry segmentation has been improved. Especially in curved elements, more segments will be provided resulting in a smoother curve.
-To see the change in revisions from before 19/08 please re-import the revision.
+- Geometry segmentation has been improved. Especially in curved elements, more segments will be provided resulting in a smoother curve.<br>To see the change in revisions from before 19/08 please re-import the revision.
 - It is once again possible to deslect objects by pressing the escape key.
 
 ### 4.2 **Settings**
@@ -24679,19 +24567,13 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 
 ### 3.2 **Documents**
 
-- Notifications are now being sent out to users that are part of teams that belong in three different categories.
-As part of an approval submitter team, as part of a team that is in one of the workflow steps and as part of the final submitter team.
-There are notifications about new information like information being submitted, and edited.
-There are notificatiotions about responsibility like when it is time for a reviewer team to do their review or when it is time for the final reviewer to publish the documents in the approval request.
-And there are notifications about actions being performed like all reviews in a step being submitted by the different teams in the step or the final closing of an approval request by the final reviewer team.
+- Notifications are now being sent out to users that are part of teams that belong in three different categories.<br>As part of an approval submitter team, as part of a team that is in one of the workflow steps and as part of the final submitter team.<br>There are notifications about new information like information being submitted, and edited.<br>There are notificatiotions about responsibility like when it is time for a reviewer team to do their review or when it is time for the final reviewer to publish the documents in the approval request.<br>And there are notifications about actions being performed like all reviews in a step being submitted by the different teams in the step or the final closing of an approval request by the final reviewer team.
 - On the final step of an approval the instead of just approving and rejecting it is now possible for someone from the final approver team to approve with comment. This is typically used in the situation where the final approver would like to approve on behalf of the approver team but has some reservations about the document. Maybe a small change needs to be made, maybe there is an acceptable flaw in the document.
 
 ### 3.3 **Settings**
 
 - It is now possible to configure team membership by selecting on or more members in the list and making changes to update them in the right menu instead of having to go to the team and having to add member by member.
-- Date field - A new custom field has been made available of type Date.
-If this field is made available for topics or documents each date field that has been made available for a topic/document can be given a date by clicking on it and selecting a date in a calendar. 
-Date fields are not available for naming conventions but they are available via the API.
+- Date field - A new custom field has been made available of type Date.<br>If this field is made available for topics or documents each date field that has been made available for a topic/document can be given a date by clicking on it and selecting a date in a calendar. <br>Date fields are not available for naming conventions but they are available via the API.
 
 ## 4. **New releases** - Plugins and integrations
 
@@ -24863,39 +24745,28 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 
 - Images uploaded in the logo area on project settings are once again properly displayed on the top left of the PDF version of the topic export. Note that this was always working in the on-demand reporting tool and this was only a problem in the current topic export that is available for everyone.
 - Like with labels, custom field dropdown options are now only suggested in the left filter menu in a topic board when there are topics in the list that have that option selected.
-- When the @mention and #link buttons are used when the cursor is mid post the cursor no longer snaps to the end of the post and the email and linked topic number are properly added to the post when selected from the dropdown list.
-This also prevents everything that has been written between the mention/link location being truncated.
+- When the @mention and #link buttons are used when the cursor is mid post the cursor no longer snaps to the end of the post and the email and linked topic number are properly added to the post when selected from the dropdown list.<br>This also prevents everything that has been written between the mention/link location being truncated.
 
 ### 3.2 **Documents**
 
-- **[Document preview] White page when opening document**
-When opening the document preview of a document on the documents page background fetching of related topic and model data no longer makes the page go completely white for members
-- **[Approvals] Markup panel resetting**
-When creating large amounts of markups in the document review of an approval request on the same document the markup panel no longer resets to its original state.
+- **[Document preview] White page when opening document**<br>When opening the document preview of a document on the documents page background fetching of related topic and model data no longer makes the page go completely white for members
+- **[Approvals] Markup panel resetting**<br>When creating large amounts of markups in the document review of an approval request on the same document the markup panel no longer resets to its original state.
 
 ### 3.3 **Models**
 
-- **[3D Viewer] Revision selector: Incorrect Revision Loading** 
-We resolved an issue where the 3D Viewer would occasionally display an outdated revision instead of the most current model when opened via Topics or Views. This ensures that the model displayed matches the active document revision, regardless of the upload or processing sequence.
-- **[Objects page] Filtered excel export**
-The objects page now takes every filter into account when exporting to excel instead of just the models filter.
-- **[Objects page] Paginated selection**
-When scrolling down to further than 100 objects it is now possible to select all rows with the checkbox on the top left instead of just the the first 100 rows.
-- **[Objects page] Periods in names**
-Names of properties and property sets that have preriods in them are now properly displayed in the header cell of the column on the objects page instead of only everything after the period being displayed. It is now also possible to search on these types of property names.
-- **[Models page] Infinite spinner for shared revisions after being disabled**
-In projects where shared revisions were disabled after shared model revisions were uploaded while shared revisions were enabled there infinite spinners will no longer be visible in the viewer column on the models page.
-​
+- **[3D Viewer] Revision selector: Incorrect Revision Loading** <br>We resolved an issue where the 3D Viewer would occasionally display an outdated revision instead of the most current model when opened via Topics or Views. This ensures that the model displayed matches the active document revision, regardless of the upload or processing sequence.
+- **[Objects page] Filtered excel export**<br>The objects page now takes every filter into account when exporting to excel instead of just the models filter.
+- **[Objects page] Paginated selection**<br>When scrolling down to further than 100 objects it is now possible to select all rows with the checkbox on the top left instead of just the the first 100 rows.
+- **[Objects page] Periods in names**<br>Names of properties and property sets that have preriods in them are now properly displayed in the header cell of the column on the objects page instead of only everything after the period being displayed. It is now also possible to search on these types of property names.
+- **[Models page] Infinite spinner for shared revisions after being disabled**<br>In projects where shared revisions were disabled after shared model revisions were uploaded while shared revisions were enabled there infinite spinners will no longer be visible in the viewer column on the models page.<br>​
 
 ### 3.4 **Reports**
 
-- **[Custom fields]** **Naming convention fields in reports**
-It is now also possible to display values from custom fields that automatically configured as part of a naming conventions in a report instead of only custom fields on documents.
+- **[Custom fields]** **Naming convention fields in reports**<br>It is now also possible to display values from custom fields that automatically configured as part of a naming conventions in a report instead of only custom fields on documents.
 
 ### 3.5 **Project settings**
 
-- **[Geolocation] Aligning storey at 0m height to map**
-Storeys of models that are exactly on 0m height are now properly displayed in the rotation menu of the geolocation configuration in projects settings.
+- **[Geolocation] Aligning storey at 0m height to map**<br>Storeys of models that are exactly on 0m height are now properly displayed in the rotation menu of the geolocation configuration in projects settings.
 - **[Shortcuts] Panel shortcut**
 
     Panel shortcuts now also check the number that is used in the shortcut combination which allows users with different keyboard layouts to also use the shortcuts even if the shift-character is different than usual.
@@ -24992,79 +24863,47 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 
 ### 3.1 **General**
 
-- **[Projects] Project creation restored**
-It is once again possible to create projects.
-- **[Projects] Creation in orgs with project limits**
-It is once again possible to create projects in organizations with a limit of less than 100 projects.
-- **[Navigation] Blank screen on activity resume**
-Pages no longer intermittently display a blank screen when resuming activity after a period of inactivity.
-- **[Localization] Non-English language access**
-It is once again possible to access Catenda if the language preference is set to something other than English.
+- **[Projects] Project creation restored**<br>It is once again possible to create projects.
+- **[Projects] Creation in orgs with project limits**<br>It is once again possible to create projects in organizations with a limit of less than 100 projects.
+- **[Navigation] Blank screen on activity resume**<br>Pages no longer intermittently display a blank screen when resuming activity after a period of inactivity.
+- **[Localization] Non-English language access**<br>It is once again possible to access Catenda if the language preference is set to something other than English.
 
 ### 3.2 **Topics**
 
-- **[Topic board] Select all checkbox behavior**
-The select all checkbox in a topic board table is once again properly checked and unchecked after selecting all topics.
-- **[Kanban view] Subfilter visibility toggling**
-In Kanban view only the topics from the subfilter now appear and disappear when checking the filter in the filter menu instead of all topics of that filter type.
-- **[Formatting hint] Logo in markdown preview**
-The inline markdown image in the topic post formatting hint once again displays the Catenda logo
+- **[Topic board] Select all checkbox behavior**<br>The select all checkbox in a topic board table is once again properly checked and unchecked after selecting all topics.
+- **[Kanban view] Subfilter visibility toggling**<br>In Kanban view only the topics from the subfilter now appear and disappear when checking the filter in the filter menu instead of all topics of that filter type.
+- **[Formatting hint] Logo in markdown preview**<br>The inline markdown image in the topic post formatting hint once again displays the Catenda logo
 
 ### 3.3 **Documents**
 
-- **[Document preview] Download process error fix**
-The document download process is changed such that an error that some users experienced on some documents when viewing them in the document preview no longer appears.
-- **[Approvals] Legacy approval draft status handling**
-It is once again possible to submit legacy approvals and update legacy approval settings where a draft status is configured as an outcome for a rejected document.
-- **[Document preview] Download/Save as menu options**
-The Download/Save as menus are once again visible in the document preview action menu.
-- **[Document preview] Filenames with periods in name**
-It is once again possible to preview documents that have a period mid document name in addition to the extension.
-- **[Document preview] Image filetype previews**
-It is once again possible to preview image filetypes in the document preview
-- **[Downloads] Lithuanian and Hungarian language fix**
-It is once again possible to download single documents when the language preference is set to Lithuanian or Hungarian.
-- **[Naming conventions] German umlauts validation fix**
-File naming convention validation no longer fails when uploading documents with custom field codes containing German umlauts.
-- **[Document list] Whitespace layout on scroll fix**
-Whitespace is no longer covering some document rows after scrolling down long lists of documents in collections where added documents have since been deleted.
-- **[Document preview] Pre-optimized preview loading**
-When a document preview was opened a raw, slow version was initially displayed until an optimized, faster to work with, version was displayed.
-Especially for larger files it could take a while until this optimized version was ready. Now, for all new files, an optimized version is prepared even before the document preview is opened. Older files will be optimized when the preview is opened and might have ot be reloaded. Additionally the server preparing optimized previews has been upgraded making it less likely a gray processing screen is displayed when the document preview is opened.
-This change will mostly be noticable on larger files such as PDFs with many pages or heavy images and CAD formats.
+- **[Document preview] Download process error fix**<br>The document download process is changed such that an error that some users experienced on some documents when viewing them in the document preview no longer appears.
+- **[Approvals] Legacy approval draft status handling**<br>It is once again possible to submit legacy approvals and update legacy approval settings where a draft status is configured as an outcome for a rejected document.
+- **[Document preview] Download/Save as menu options**<br>The Download/Save as menus are once again visible in the document preview action menu.
+- **[Document preview] Filenames with periods in name**<br>It is once again possible to preview documents that have a period mid document name in addition to the extension.
+- **[Document preview] Image filetype previews**<br>It is once again possible to preview image filetypes in the document preview
+- **[Downloads] Lithuanian and Hungarian language fix**<br>It is once again possible to download single documents when the language preference is set to Lithuanian or Hungarian.
+- **[Naming conventions] German umlauts validation fix**<br>File naming convention validation no longer fails when uploading documents with custom field codes containing German umlauts.
+- **[Document list] Whitespace layout on scroll fix**<br>Whitespace is no longer covering some document rows after scrolling down long lists of documents in collections where added documents have since been deleted.
+- **[Document preview] Pre-optimized preview loading**<br>When a document preview was opened a raw, slow version was initially displayed until an optimized, faster to work with, version was displayed.<br>Especially for larger files it could take a while until this optimized version was ready. Now, for all new files, an optimized version is prepared even before the document preview is opened. Older files will be optimized when the preview is opened and might have ot be reloaded. Additionally the server preparing optimized previews has been upgraded making it less likely a gray processing screen is displayed when the document preview is opened.<br>This change will mostly be noticable on larger files such as PDFs with many pages or heavy images and CAD formats.
 
 ### 3.4 **Models**
 
-- **[Info panel] Linked topics are visible again.**
-Topics that are linked to objects are once again visible in the inspect menu of the information panel under the topics tab.
-- **[Storey configurator] PDF underlays display fixed.**
-It is once again possible to preview PDF underlay documents in the storey configurator document preview for PDFs that do not have embedded fonts.
+- **[Info panel] Linked topics are visible again.**<br>Topics that are linked to objects are once again visible in the inspect menu of the information panel under the topics tab.
+- **[Storey configurator] PDF underlays display fixed.**<br>It is once again possible to preview PDF underlay documents in the storey configurator document preview for PDFs that do not have embedded fonts.
 
 ## 4. **User voices completed**
 
 ### 4.1 Topics
 
-- **A new view for topics has been added: Kanban**
-Organize, filter, and update topics directly on a Kanban board, improving issue management, task management and team collaboration in Catenda Hub. 
-Change the filters to view not just all topics in one list like with list view but see the topics in columns based on the different filters that are available.
-For example one column per assignee so you see topics assigned to people next to each other or one column per status or one column for topics that are due today, due within a week, due in more than a week and overdue.
-- **The topics statistics page**
-has gotten a visual overhaul making it more responsive. It is now possible to hover anywhere on the graph volume to see the amount of topics with different statuses at that a given point in the project timeline instead of just when the graph line is hovered.
+- **A new view for topics has been added: Kanban**<br>Organize, filter, and update topics directly on a Kanban board, improving issue management, task management and team collaboration in Catenda Hub. <br>Change the filters to view not just all topics in one list like with list view but see the topics in columns based on the different filters that are available.<br>For example one column per assignee so you see topics assigned to people next to each other or one column per status or one column for topics that are due today, due within a week, due in more than a week and overdue.
+- **The topics statistics page**<br>has gotten a visual overhaul making it more responsive. It is now possible to hover anywhere on the graph volume to see the amount of topics with different statuses at that a given point in the project timeline instead of just when the graph line is hovered.
 
 ### 4.2 **Documents**
 
-- **Flexible Submitter Team Management** 
-It is now possible to add or remove submitter teams on existing approval workflows after they have been saved. 
-Project administrators can update who is permitted to launch new approval requests without having to recreate the entire workflow template from scratch.
-- **Require Review from All Team Members** 
-A new setting has been added to approval review steps that requires every individual member of a reviewer team to submit their own validation indication.
-Instead of advancing as soon as a single member responds, the step will now remain open until every member of the assigned team has completed their review.
-- **Automatic Topic Creation on Approval Completion** 
-Approval workflows can now be linked with topic templates so that topics are automatically created when an approval request completes. 
-Selecting a topic template for specific outcome decisions ensures that follow-up remarks and issues are immediately logged into a topic board for tracking.
-- **Document Revisions Overview Tab** 
-The approvals page now features a dedicated "Document revisions" tab that provides a full table overview of all files currently undergoing review across all open approvals. 
-You can now search, sort, and filter individual document revisions by team assignment, review state, and due date without needing to open each approval package separately.
+- **Flexible Submitter Team Management** <br>It is now possible to add or remove submitter teams on existing approval workflows after they have been saved. <br>Project administrators can update who is permitted to launch new approval requests without having to recreate the entire workflow template from scratch.
+- **Require Review from All Team Members** <br>A new setting has been added to approval review steps that requires every individual member of a reviewer team to submit their own validation indication.<br>Instead of advancing as soon as a single member responds, the step will now remain open until every member of the assigned team has completed their review.
+- **Automatic Topic Creation on Approval Completion** <br>Approval workflows can now be linked with topic templates so that topics are automatically created when an approval request completes. <br>Selecting a topic template for specific outcome decisions ensures that follow-up remarks and issues are immediately logged into a topic board for tracking.
+- **Document Revisions Overview Tab** <br>The approvals page now features a dedicated "Document revisions" tab that provides a full table overview of all files currently undergoing review across all open approvals. <br>You can now search, sort, and filter individual document revisions by team assignment, review state, and due date without needing to open each approval package separately.
 - **Japanese Localization for Approvals**
 
     Full Japanese localization has been implemented across the approvals interface and workflow configuration pages. 
@@ -25072,9 +24911,7 @@ Teams working in Japanese can now navigate approval cards, document review tools
 
 ### 4.3 **Project settings**
 
-- **Invite page overhaul**
-The project invite page has been changed so that there is no longer confusion about having the click the add button before being able to click on send invitation. 
-It is now possible to click outside of the field to apply before clicking invite user.
+- **Invite page overhaul**<br>The project invite page has been changed so that there is no longer confusion about having the click the add button before being able to click on send invitation. <br>It is now possible to click outside of the field to apply before clicking invite user.
 
 ## 5. **New releases** - Plugins and integrations
 
@@ -25171,9 +25008,7 @@ Thanks to your valuable feedback we have been able to squash many issues that yo
 
 ### 2.1 **Issues**
 
-- The following columns in the excel export have gotten a new name in Japanese:
-「にて作成された」→「作成者・質問者」
-「作成済み」→「作成日・質問日」
+- The following columns in the excel export have gotten a new name in Japanese:<br>「にて作成された」→「作成者・質問者」<br>「作成済み」→「作成日・質問日」
 - The setting for shown or hidden filters in issue boards is now remembered in your account instead of in your browser so you do not have to change it if your browser gets reset often.
 - The issue board once again updates after an issue has been moved
 - BCF issues that are imported with status " " will now default to get the first open status
@@ -25342,10 +25177,8 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 
 - Label groups can now be deleted.
 - It is now possible to delete labels that are connected to topics/documents.
-- Label groups can be edited.
-You can find the edit pencil in the right information menu after having selected the label group in the groups tab.
-- It now is possible to make multiple labels at a time.
-Note the import multiple button in the new label menu.
+- Label groups can be edited.<br>You can find the edit pencil in the right information menu after having selected the label group in the groups tab.
+- It now is possible to make multiple labels at a time.<br>Note the import multiple button in the new label menu.
 - It is now possible to delete multiple labels at a time.
 - Labels can be filtered and filters can be saved.
 - It is now possible to add new label groups
@@ -25698,8 +25531,7 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 - When adding documents to a collections it is now possible to check a box towards the top to select all documents in a folder and add them to a collection.
 - As a bonus improvement it is now also possible to select which revision of a document you want to add to a collection so the right one appears when you lock the collection to document revisions instead of following the latest revision.
 - Users with full access to a document will now be able to [withdraw a revision](https://support.catenda.com/en/articles/9711174-withdraw-revision) of a document and thereby also a model if it is an ifc document.
-- It is now possible to add a custom logo to the topic reports that are exported to PDF.
-The logo settings can be found on the projects page.
+- It is now possible to add a custom logo to the topic reports that are exported to PDF.<br>The logo settings can be found on the projects page.
 - You can now split your project in a published area and a shared so you can give different people access to a public part and a shared part where documents are still being prepared for publishing. (Please ask to have this enabled on your project) Only the published documents will be visible in Catenda Site
 
 ### 3.2 **Models**
@@ -25767,8 +25599,7 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 - Colors applied to mesh objects are now properly displayed. Models will have to be re-imported to see the difference.
 - A complete redesign of our model management system - we now load model information only when needed, instead of loading everything upfront. This makes it so the page is both quick to load and so our servers can better handle all your requests during when many people are using Catenda at the same time.
 - It is once again possible to see properties in previsous revisions of models in the inspect panel
-- You will no longer see models you do not have access to in the revisions selector.
-This way models used for tenders can be kept anonymous by use of access control.
+- You will no longer see models you do not have access to in the revisions selector.<br>This way models used for tenders can be kept anonymous by use of access control.
 - It is once again possible (and a better experience than previously) to measure between points in point clouds.
 
 ### 2.3 **Topics**
@@ -25874,11 +25705,8 @@ Performance degradation was noticed during 17-28 April. This, after we had just 
 - The right person that deleted a document is once again displayed in email notifications
 - It is once again possible to add selected shared revisions to approvals from the right information menu.
 - With the latest version of the document preview in Catenda it is now possible to follow links in excel documents that get uploaded to Catenda to the right hyperlink location.
-- When you create a label, the list of labels you have access to is now refreshed.
-This means that you will no longer have to reload the page to apply a newly created label other places and can do it without refreshing the page.
-- Annotations on some pages of uploaded documents are once again visible.
-This allows you to properly download the document with all its annotations.
-New annotations will also not be see through as this will not happen anymore.
+- When you create a label, the list of labels you have access to is now refreshed.<br>This means that you will no longer have to reload the page to apply a newly created label other places and can do it without refreshing the page.
+- Annotations on some pages of uploaded documents are once again visible.<br>This allows you to properly download the document with all its annotations.<br>New annotations will also not be see through as this will not happen anymore.
 - The link buttons now now no longer infinitely spin when you have the content and 3D panels open and have only a folder selected.
 - It is now possible to filter on dates with the date filter of documents in sub-folders as well as the folder you are currently in
 - Screenshots included when saving markups as new topics or to comments can now have larger file sizes. This makes it so you can submit your markups, even when you have created annotations when zoomed in on highly detailed drawings.
@@ -25887,8 +25715,7 @@ New annotations will also not be see through as this will not happen anymore.
 
 ### 2.3 **Models**
 
-- When the latest model has failed importing you open the last successfully imported revision in 3D when clicking on the 3D button on the models page. 
-That revision will now properly be displayed in the revision selector instead of the latest failed revision.
+- When the latest model has failed importing you open the last successfully imported revision in 3D when clicking on the 3D button on the models page. <br>That revision will now properly be displayed in the revision selector instead of the latest failed revision.
 - When enabling a grid some models that were previously enabled in the 3D viewer will now no longer turn on.
 - Some grids are now no longer offset verticaly.
 - Table elements in the second selection of the objects function are now properly highlighted.
@@ -26118,10 +25945,8 @@ It is often best to enable this feature at the start of a new project as team me
 - The new approval workflow does not have notifications.
 - Only the English translation is available.
 - The new approval workflow can only be enabled if shared revisions were not previously enabled. Projects created based on a template project where the new legacy workflow is enabled will have the legacy validation workflow enabled. It is only possible to see the new validation workflow in projects based on template projects where shared revisions have never been enabled.
-- Only one approval request step can be active at once. 
-All documents in an approval request step have to either be approved or denied before the approval request can advance to the next step.
-- It is only possible to either approve or reject. 
-Comments can be added via markups but there is no approve/reject with comment like in the legacy validation workflow.
+- Only one approval request step can be active at once. <br>All documents in an approval request step have to either be approved or denied before the approval request can advance to the next step.
+- It is only possible to either approve or reject. <br>Comments can be added via markups but there is no approve/reject with comment like in the legacy validation workflow.
 
 ## 2. **Enabling on-demand features**
 
@@ -26599,8 +26424,7 @@ ShareLink sends an email from Catenda Hub to the project members you choose with
     A sharelink recipient will then only see these items.
 If the page is shared with a sharelink recipient they will see the whole page, including filters, based on their access in the project.
 
-1. Click the the ShareLink button.
-​
+1. Click the the ShareLink button.<br>​
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 
@@ -26860,8 +26684,7 @@ While being offline on site, you can from now on:
 1. View / Filter /Search issues offline
 1. [Create new issue offline](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
 1. [Add / Update /Delete comments](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues) with pictures and viewpoints offline
-1. Submit all your offline changes from [the new outbox screen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)
-​
+1. Submit all your offline changes from [the new outbox screen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)<br>​
 
 ## 2. Document collections
 

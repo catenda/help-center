@@ -24,10 +24,8 @@ It is often best to enable this feature at the start of a new project as team me
 - The new approval workflow does not have notifications.
 - Only the English translation is available.
 - The new approval workflow can only be enabled if shared revisions were not previously enabled. Projects created based on a template project where the new legacy workflow is enabled will have the legacy validation workflow enabled. It is only possible to see the new validation workflow in projects based on template projects where shared revisions have never been enabled.
-- Only one approval request step can be active at once. 
-All documents in an approval request step have to either be approved or denied before the approval request can advance to the next step.
-- It is only possible to either approve or reject. 
-Comments can be added via markups but there is no approve/reject with comment like in the legacy validation workflow.
+- Only one approval request step can be active at once. <br>All documents in an approval request step have to either be approved or denied before the approval request can advance to the next step.
+- It is only possible to either approve or reject. <br>Comments can be added via markups but there is no approve/reject with comment like in the legacy validation workflow.
 
 ## 2. **Enabling on-demand features**
 

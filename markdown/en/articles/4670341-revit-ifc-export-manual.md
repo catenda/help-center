@@ -102,8 +102,7 @@ Export linked files as separate IFC's If you want to include the linked files in
 
 Export only visible objects visible in view IFC file.
 
-- Export rooms, areas and spaces in 3D views 
-This option can be useful for selecting areas in the 2D viewer.
+- Export rooms, areas and spaces in 3D views <br>This option can be useful for selecting areas in the 2D viewer.
 
 Include Steel elements, _filled_
 

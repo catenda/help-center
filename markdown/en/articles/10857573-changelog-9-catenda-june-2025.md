@@ -86,11 +86,8 @@ Performance degradation was noticed during 17-28 April. This, after we had just 
 - The right person that deleted a document is once again displayed in email notifications
 - It is once again possible to add selected shared revisions to approvals from the right information menu.
 - With the latest version of the document preview in Catenda it is now possible to follow links in excel documents that get uploaded to Catenda to the right hyperlink location.
-- When you create a label, the list of labels you have access to is now refreshed.
-This means that you will no longer have to reload the page to apply a newly created label other places and can do it without refreshing the page.
-- Annotations on some pages of uploaded documents are once again visible.
-This allows you to properly download the document with all its annotations.
-New annotations will also not be see through as this will not happen anymore.
+- When you create a label, the list of labels you have access to is now refreshed.<br>This means that you will no longer have to reload the page to apply a newly created label other places and can do it without refreshing the page.
+- Annotations on some pages of uploaded documents are once again visible.<br>This allows you to properly download the document with all its annotations.<br>New annotations will also not be see through as this will not happen anymore.
 - The link buttons now now no longer infinitely spin when you have the content and 3D panels open and have only a folder selected.
 - It is now possible to filter on dates with the date filter of documents in sub-folders as well as the folder you are currently in
 - Screenshots included when saving markups as new topics or to comments can now have larger file sizes. This makes it so you can submit your markups, even when you have created annotations when zoomed in on highly detailed drawings.
@@ -99,8 +96,7 @@ New annotations will also not be see through as this will not happen anymore.
 
 ### 2.3 **Models**
 
-- When the latest model has failed importing you open the last successfully imported revision in 3D when clicking on the 3D button on the models page. 
-That revision will now properly be displayed in the revision selector instead of the latest failed revision.
+- When the latest model has failed importing you open the last successfully imported revision in 3D when clicking on the 3D button on the models page. <br>That revision will now properly be displayed in the revision selector instead of the latest failed revision.
 - When enabling a grid some models that were previously enabled in the 3D viewer will now no longer turn on.
 - Some grids are now no longer offset verticaly.
 - Table elements in the second selection of the objects function are now properly highlighted.
