@@ -27,6 +27,7 @@ Konfigurer innstillinger for ditt prosjekt eller din konto
 - [Hvem som kan invitere medlemmer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670272-hvem-som-kan-invitere-medlemmer.md)
 - [Høyremeny på medlemssiden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/11768610-høyremeny-på-medlemssiden.md)
 - [Innstillinger - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7733833-innstillinger-catenda-site.md)
+- [Innstillinger for medlemsmapper](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670282-innstillinger-for-medlemsmapper.md)
 - [Innstillinger for varsler](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8272435-innstillinger-for-varsler.md)
 - [Inviter medlemmer-side](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670263-inviter-medlemmer-side.md)
 - [Inviterer nye medlemmer til prosjektet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670247-inviterer-nye-medlemmer-til-prosjektet.md)
@@ -118,6 +119,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Filtrering på godkjenningssiden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12495060-filtrering-på-godkjenningssiden.md)
 - [Filtrering på godkjenningssiden - Eldre versjon](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8551740-filtrering-på-godkjenningssiden-eldre-versjon.md)
 - [Filtrering på modelside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12129622-filtrering-på-modelside.md)
+- [Filtrering på objektsiden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12353642-filtrering-på-objektsiden.md)
 - [Filtrering på sakssiden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8370693-filtrering-på-emnesiden.md)
 - [Filtrering på samlingssiden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8999945-filtrering-på-samlingssiden.md)
 - [Filvurdering i en gjennomgangsforespørsel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12507002-filvurdering-i-en-gjennomgangsforespørsel.md)
@@ -201,6 +203,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Opprett nye merkelapper](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8626709-opprett-nye-merkelapper.md)
 - [Opprett rapporthandling](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13973721-opprett-rapporthandling.md)
 - [Opprette en ny arbeidsflyt](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12313251-opprette-en-ny-arbeidsflyt.md)
+- [Opprette en ny gjennomgang](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12495005-opprette-en-ny-gjennomgang.md)
 - [Opprette en ny gjennomgangforespørsel - Eldre versjon](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12360159-opprette-en-ny-gjennomgangforespørsel-eldre-versjon.md)
 - [Opprette en ny modeleksport](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/15481038-opprette-en-ny-modeleksport.md)
 - [Opprette en ny saksmal - Eldre versjon](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12372007-opprette-en-ny-saksmal-eldre-versjon.md)
@@ -263,6 +266,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Trekk tilbake revisjon](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9711174-trekk-tilbake-revisjon.md): I denne artikkelen beskriver vi hvordan du trekker tilbake en revisjon.
 - [Utveksle saker](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670289-utveksle-saker.md)
 - [Valg og klipping fra 2D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8035360-valg-og-klipping-fra-2d.md)
+- [Verktøy for dokumentforhåndsvisning](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/11384618-verktøy-for-dokumentforhåndsvisning.md)
 - [Verktøy for formatering av innlegg](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8430847-formatering-av-innlegg.md): Hvordan felt hvor innlegg kan skrives kan formateres
 - [Åpen eller lukket gjennomgangsforespørsel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12494960-åpen-eller-lukket-gjennomgangsforespørsel.md)
 - [Åpen, publisert eller forkastet gjennomgang - Arv](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8349418-åpen-publisert-eller-forkastet-gjennomgang-arv.md)
@@ -382,6 +386,7 @@ Finn de siste Catenda oppdateringene
 - [Endringslogg 2 Catenda - Juli 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7338675-endringslogg-2-catenda-juli-2023.md)
 - [Endringslogg 3 Catenda - oktober 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7983534-endringslogg-3-catenda-oktober-2023.md): Ny informasjon og mindre endringer
 - [Endringslogg 4 Catenda - Januar 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8433887-endringslogg-4-catenda-januar-2024.md): Ny informasjon og mindre endringer
+- [Endringslogg 6 Catenda - august 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9285880-endringslogg-6-catenda-august-2024.md)
 - [Endringslogg 8 Catenda - Mars 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10288759-endringslogg-8-catenda-mars-2025.md)
 - [Endringslogg 9 Catenda - juni 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10857573-endringslogg-9-catenda-juni-2025.md)
 - [Endringslogg for Catenda Revit plugin - 1.0.15](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13449051-endringslogg-for-catenda-revit-plugin-1-0-15.md)

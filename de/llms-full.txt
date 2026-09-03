@@ -324,6 +324,17 @@ Organisationsbenutzer auswählen
 
 Das Profilbild, der Benutzername und die E-Mail des Benutzers. Sie können entweder ein normales Mitglied oder ein Eigentümer sein. Eigentümer haben Zugriff auf das Organisationsverwaltungstool. Sie können Organisationsmitglieder zu Projekten hinzufügen, ohne sie einzuladen.
 
+# Berechtigungen für Mitglieder
+
+So bearbeiten Sie die Berechtigungseinstellungen für Mitglieder/Teams:
+
+1. Gehen Sie im Hauptmenü zu Mitglieder.
+1. Klicken Sie auf das Mitglied oder Team, dessen Zugriff Sie bearbeiten möchten.
+1. Unter Berechtigungseinstellung können Sie zwischen Administrator oder Mitglied wählen.
+
+- Administratoren haben vollständige Kontrolle über das Projekt und können auf alle Einstellungen zugreifen, außer auf Benutzereinstellungen anderer Benutzer und private Bibliothekseinstellungen.
+- Mitglieder haben die gleichen Rechte wie Administratoren, außer beim Einladen oder Entfernen von Mitgliedern, beim Erstellen und Löschen von Modellen und beim Ändern von Projekteinstellungen. <br><br>Um die Rechte zu speichern, klicken Sie auf die Schaltfläche Rechte festlegen
+
 # Ein Konto erstellen
 
 Wenn Sie zu [hub.catenda.com/signup](http://hub.catenda.com/signup) gehen, wird Ihnen diese Seite angezeigt:
@@ -7301,6 +7312,296 @@ Sie können nun alle Dokumentformate kommentieren, die unser Viewer verarbeitet 
 
 Klicken Sie auf die Schaltfläche "Vollbild" im [Dokumentbanner](https://support.catenda.com/en/articles/8461918-document-banner-navigation), um das Dokument im Vollbildmodus zu öffnen. Dies kann Ihnen mehr Platz auf dem Bildschirm geben, um Anmerkungen zu platzieren.
 
+# Dokumentvorschau-Tools
+
+Wenn die [Vorschauseite](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) eines [Dateityps, der in der Vorschau angezeigt werden kann](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub) zum ersten Mal geöffnet wird, wird die folgende Symbolleiste oben angezeigt.
+
+![Ansicht Kommentieren Formen Einfügen Messen](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/01-intro.png)
+
+Wenn die Browserskalierung auf eine mittlere Größe eingestellt ist oder eine mittlere Bildschirmgröße verwendet wird, können die Menüs in ein Aktionsmenü überlaufen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/02-intro.png)
+
+Wenn die Browserskalierung auf eine große Größe eingestellt ist oder eine kleine Bildschirmgröße verwendet wird, können alle Menüs wie folgt in einem Dropdown-Menü angezeigt werden:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/03-intro.png)
+Formen, Text und Beschriftungen können hinzugefügt werden, Text kann hervorgehoben werden, Messungen können durchgeführt werden und Sie können freihand zeichnen.
+All dies kann später in Themen gespeichert werden.
+Klicken Sie [hier](https://support.catenda.com/en/articles/10209740-saving-a-markup), um mehr über das Speichern von Anmerkungen zu erfahren.
+
+## 1. **Menü**
+
+So kann das Symbolleistenmenü aussehen:
+
+![Herunterladen Vollbildmodus Speichern unter Drucken Einstellungen](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/04-menu.png)
+
+### 1.1 **Herunterladen**
+
+Klicken Sie auf Herunterladen, um das Dokument mit allen aktiven Anmerkungen in der Dokumentenvorschau herunterzuladen.
+
+### 1.2 **Vollbildmodus aktivieren**
+
+Klicken Sie auf Vollbildmodus aktivieren, um nur die Dokumentenvorschau und die Symbolleiste im Vollbildmodus zu öffnen. Drücken Sie Escape oder öffnen Sie dasselbe Menü erneut, um die Schaltfläche Vollbildmodus beenden zu finden.
+
+### 1.3 **Speichern unter**
+
+Mit dem Menü Speichern unter kann jeder vorschaubare 2D-Dateityp als rekonstruierte Datei gespeichert werden. Das Dialogfeld Speichern unter kann etwa so aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/05-save-as.png)
+
+**Dateiname** Geben Sie den Namen ein, den die gespeicherte Datei erhalten soll.
+
+**Dateityp** Speichern Sie jeden vorschaubaren 2D-Dateityp als PDF (\*.pdf) oder PNG (\*.png)
+
+**Seitenbereich** Wählen Sie, welche Seiten einzubeziehen sind. Die Optionen sind:
+
+Alle - Standard Speichern Sie alle Seiten
+
+Seiten angeben Speichern Sie bestimmte Seiten nach Seitennummer, getrennt durch Komma oder mit einem Bindestrich, um einen Seitenbereich wie beispielsweise (1, 3, 5-10) zu speichern.
+
+Aktuelle Seite Speichern Sie nur die aktuelle Seite
+
+**Eigenschaften** Anmerkungen einbeziehen - Standard Fügen Sie dem heruntergeladenen Dokument eine separate Seite mit einem Überblick über die Anmerkungen im Dokument und deren Inhalte ein.
+
+Kommentare einbeziehen Fügen Sie dem heruntergeladenen Dokument eine separate Seite mit einem Überblick über die Kommentare im Dokument und deren Inhalte ein.
+
+### 1.4 **Drucken**
+
+Klicken Sie auf Drucken, um das Dialogfeld Druckeinstellungen zu öffnen. Das Dialogfeld Druckeinstellungen kann etwa so aussehen:
+
+![Druckeinstellungen Seiten zum Drucken alle aktuelle Seite aktuelle Ansicht Seiten angeben Anmerkungen einbeziehen In Graustufen drucken Kommentare einbeziehen Druckqualität Normal Insgesamt 1 Seite Wasserzeichen Neuen Druck hinzufügen](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/06-print.png)
+
+### 1.5 **Einstellungen**
+
+So kann das Einstellungsmenü aussehen
+
+![Einstellungen Allgemein Tastaturkürzel Erweiterte Einstellungen Sprache Englisch Design Heller Modus Dunkler Modus](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/07-settings.png)
+
+**Allgemein** Sprache Die Spracheinstellung folgt der Spracheinstellung Ihres Browsers und nicht der Spracheinstellung auf Catenda.
+
+Design Hellmodus - Standard Dunkelmodus
+
+**Tastaturkürzel** Im Menü Tastaturkürzel finden Sie einen Überblick über die verfügbaren Tastaturkürzel. So kann das Menü Tastaturkürzel aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/08-settings.png)
+
+Klicken Sie auf die Aktionsschaltfläche für jede Verknüpfung, um die Verknüpfung an einen anderen Tastenanschlag zu binden. Bitte finden Sie die aktuellen Verknüpfungen [hier](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls).
+
+**Erweiterte Einstellungen** Im Menü Erweiterte Einstellungen können verschiedene Einstellungen aktiviert und deaktiviert werden. So kann das Menü Erweiterte Einstellungen aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/09-settings.png)
+
+Das Menü Erweiterte Einstellungen enthält die folgenden Abschnitte: Anzeige Anmerkungen Notizfeld Suche Seitenbearbeitung
+
+## 2. **Anzeigesteuerungen**
+
+Das Menü für Anzeigesteuerungen kann etwa so aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/10-view-controls.png)
+
+## 3. **Marquee-Zoom**
+
+So kann das Dokumentenzoom-Symbol aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/11-marquee-zoom.png)
+
+Wenn der Dokumentenzoom ausgewählt ist, klicken Sie überall im Dokument an, um in diese Richtung zu zoomen. Sie können auch klicken und ziehen, um einen Teil des Dokuments zu markieren, zu dem Sie zoomen möchten. Halten Sie Strg oder Befehl gedrückt, um stattdessen herauszuzoomen. Sie sehen, dass sich Ihr Cursor in ein Lupe mit einem + oder - ändert, das Ihre Zoomrichtung angibt.
+
+## 4. **Zoompercentage**
+
+Klicken Sie auf den Zoomprozentsatz, um das Menü Zoompercentage zu öffnen. Das Menü Zoompercentage kann etwa so aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/12-zoom-percentage.png)
+
+### 4.1 **Breite anpassen**
+
+Passen Sie das Dokument so an, dass es die gesamte Breite der Dokumentenvorschau abdeckt
+
+### 4.2 **An Seite anpassen**
+
+Passen Sie das Dokument so an, dass die ganze aktuelle Seite, auf der Sie sich in der Dokumentenvorschau befinden, angezeigt wird.
+
+### 4.3 **Zoom vergrößern und verkleinern**
+
+Klicken Sie auf die Plus- und Minusschaltflächen neben dem Zoomprozentsatz, um eine Stufe nach oben/unten zu gehen.
+
+## 5. **Verschieben**
+
+So kann die Schaltfläche Verschieben aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/13-pan.png)
+
+Wenn Sie so weit herangezoomt haben, dass das Dokument den Rand der Dokumentenvorschau überschreitet, können Sie mit dem Verschiebentool klicken und ziehen, um zu einem anderen Teil des Dokuments zu navigieren. _Tastaturkürzel:_ (P) Halten Sie auch die Leertaste gedrückt, um zu verschieben. Wenn Sie die Leertaste loslassen, wird Ihr vorheriges Tool erneut ausgewählt.
+
+## 6. **Auswählen**
+
+So kann die Schaltfläche Auswählen aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/14-select.png)
+
+_Tastaturkürzel:_ (Esc) Klicken Sie und ziehen Sie, um Anmerkungselemente innerhalb einer Seite auf einmal auszuwählen.
+
+## 7. **Anmerkungsmenüs**
+
+Standardmäßig wird das Ansichtsmenu ausgewählt. Wenn Sie eines der anderen Anmerkungsmenüs auswählen, wird eine zweite Symbolleiste unterhalb der Dokumentsymbolleiste geöffnet. Sie können die folgenden Menüs finden:
+
+### 7.1 **Ansichtsmenu**
+
+Wenn Sie das Ansichtsmenu auswählen, wird das Auswahlwerkzeug aktiviert und die Anmerkungssymbolleiste ausgeblendet. Dieses Menü kann nützlich sein, wenn Sie mehr Platz auf der Seite benötigen.
+
+### 7.2 **Anmerkungsmenu**
+
+So können die Anmerkungsmenü-Tools aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/15-annotate-menu.png)
+
+Das Anmerkungsmenu öffnet eine Symbolleiste mit den folgenden Tools: _Unterstreichen - Tastaturkürzel:_ (U) _Markieren - Tastaturkürzel:_ (H) _Rechteck - Tastaturkürzel:_ (R) _Freier Text - Tastaturkürzel:_ (T)
+
+**Freihand-Markierung** _Freihand - Tastaturkürzel:_ (F) _Squiggle - Tastaturkürzel:_ (G) _Durchgestrichen - Tastaturkürzel:_ (K)
+
+**Text einfügen**
+
+**Text ersetzen**
+
+**Farbvorgaben** Wenn Sie sehr weit herangezoomt sind oder einen kleinen Bildschirm verwenden, wird dieses Menü möglicherweise nicht angezeigt. Wählen Sie eine der Farbvorgaben aus, um das Menü Farbvorgaben zu öffnen. Das Menü Farbvorgaben kann je nach ausgewähltem Tool unterschiedlich aussehen. So kann das Menü Farbvorgaben für das Unterstreichen-Tool aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/16-annotate-menu.png)
+
+_Beschriftung - Tastaturkürzel:_ (C) Farbvorgaben Wenn Sie sehr weit herangezoomt sind oder einen kleinen Bildschirm verwenden, wird dieses Menü möglicherweise nicht angezeigt. Wählen Sie eine der Farbvorgaben aus, um das Menü Farbvorgaben zu öffnen. Das Menü Farbvorgaben kann je nach ausgewähltem Tool unterschiedlich aussehen. So kann das Menü Farbvorgaben für das Beschriftungs-Tool aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/17-annotate-menu.png)
+
+Schriftgröße dynamisch skalieren - Standardmäßig nicht aktiviert. Standardmäßig ist die Schriftgröße auf 12 eingestellt. Mit dieser Schriftgröße kann Ihr Text die Grenzen des Beschriftungsfelds überschreiten. Der Text, der abgeschnitten wird, kann nur durch Herunterladen des Dokuments und Untersuchen des Anmerkungselements in einem PDF-Bearbeitungstool gelesen werden. Wenn Sie möchten, dass Ihr Text immer sichtbar ist, können Sie dieses Kontrollkästchen aktivieren und die Schriftgröße wird je nach Feldgröße und Textmenge größer oder kleiner, damit Ihr Text immer passt.
+
+### 7.3 **Formenmenu**
+
+So können die Formenmenü-Tools aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/18-shapes-menu.png)
+
+_Rechteck - Tastaturkürzel:_ (R)
+
+**Freihand-Markierung** _Freihand - Tastaturkürzel:_ (F) _Linie - Tastaturkürzel:_ (L)
+
+**Polylinie** _Pfeil - Tastaturkürzel:_ (A)
+
+**Bogen** _Ellipse - Tastaturkürzel:_ (O)
+
+**Polygon**
+
+**Wolke**
+
+**Farbvorgaben** Wenn Sie sehr weit herangezoomt sind oder einen kleinen Bildschirm verwenden, wird dieses Menü möglicherweise nicht angezeigt. Wählen Sie eine der Farbvorgaben aus, um das Menü Farbvorgaben zu öffnen. Das Menü Farbvorgaben kann je nach ausgewähltem Tool unterschiedlich aussehen. So kann das Menü Farbvorgaben für das Rechteck-Tool aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/19-shapes-menu.png)
+
+### 7.4 **Einfügungsmenu**
+
+So können die Einfügungsmenü-Tools aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/20-insert-menu.png)
+
+**Gummistempel** So sieht das Menü der Gummistempel-Voreinstellungen standardmäßig aus:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/21-insert-menu.png)
+
+Klicken Sie [hier](https://support.catenda.com/en/articles/11678493-document-preview-tools-rubber-stamp), um mehr über das Gummistempel-Menü zu erfahren.
+
+_Bild - Tastaturkürzel:_ (I) Wählen Sie das Bildwerkzeug aus und klicken Sie überall im Dokument an, um an dieser Stelle ein Bild hinzuzufügen.
+
+Beispiele für eingefügte Bilder sind:
+
+- Generierte Informationen mit Metadaten.
+  In einigen Arbeitsabläufen werden Bilder mit Informationen über den Benutzer generiert, der das Dokument angesehen hat, zusammen mit einigen Informationen wie Datum und Fachbereich.
+- Ein persönliches oder Unternehmenslogo.
+  In einigen Fällen wird das Logo eines Unternehmens als Bild eingefügt, um anzuzeigen, dass dieses Unternehmen das Dokument überprüft hat.
+- Eine persönliche Unterschrift
+  Sometimes Manchmal ist es ein Scan einer handschriftlichen Unterschrift, manchmal kann es auch eine digital generierte Unterschrift sein.
+- Ein persönlicher Stempel.
+  In einigen Kulturen werden Stempel der Unterschrift vorgezogen
+
+Nach dem Klicken auf den Einfügungsort wird der System-Dateibrowser geöffnet. Navigieren Sie zu dem einzufügenden Bild und wählen Sie es aus. Nach der Auswahl des Bildes wird es an der angegebenen Stelle platziert.
+
+Obwohl das Bild eine Unterschrift enthalten kann, die sogar digital generiert sein könnte, wird das ausgewählte Bild als Bitmap-Bild eingefügt, das nicht kryptografisch durch einen privaten Schlüssel zur Bildung einer elektronischen Signatur geschützt ist. Klicken Sie [hier](https://en.wikipedia.org/wiki/Electronic_signature), um mehr über elektronische Signaturen zu erfahren.
+
+Wählen Sie das platzierte Bild aus: Verschieben - Ziehen Sie das Bild Skalieren - Ziehen Sie die Ecke des Bildes Drehen - Ziehen Sie die Rotationsgriff Duplizieren - Halten Sie Alt gedrückt und ziehen Sie das Bild, um es zu duplizieren Löschen - Klicken Sie auf den Papierkorb oder drücken Sie Löschen, um das Bild zu löschen
+
+### 7.5 **Messmenu**
+
+So können die Messmenü-Tools aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/22-measure-menu.png)
+
+**Skalierungsmenü** Wenn Sie das Menü Entfernung öffnen, wird das folgende Skalierungsmenü auf der rechten Seite der Dokumentenvorschau angezeigt.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/23-measure-menu.png)
+
+Skalierung - Standard 0,250 in = 1,000 in Klicken Sie auf das Dropdown-Menü Skalierung, um alle benutzerdefinierten Skalen anzuzeigen, die Sie in dieser Browsersitzung erstellt haben, oder um eine neue Skalierung hinzuzufügen.
+
+_Neue Skalierung hinzufügen_ Neue Skalen sind während einer Benutzersitzung im Dropdown-Menü Skalierung in beliebigen Dokumenten in beliebigen Projekten verfügbar und müssen nach einer Seitenaktualisierung neu konfiguriert werden. So kann das Menü Neue Skalierung hinzufügen aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/24-measure-menu.png)
+
+Benutzerdefiniert Klicken Sie auf Kalibrieren, um die neue Skalierung zu kalibrieren. Wählen Sie zwei Punkte in der Zeichnung und geben Sie einen bekannten Betrag an Einheiten ein.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/25-measure-menu.png)
+
+Papiereinheiten - Der Betrag der Einheiten auf dem Papier Anzeigeeinheiten - Der Betrag der Einheiten, die angezeigt werden
+
+Vorgabe Klicken Sie auf das Dropdown-Menü, um aus einer Reihe von Voreinstellungsskalen von 1:10 bis 1:1000 auszuwählen
+
+Genauigkeit Die Anzahl der Dezimalzahlen, die Sie anzeigen möchten
+
+Bruchteile Einheiten. Schalten Sie diese Umschaltfläche um, um Messwerte stattdessen in Bruchteilen anzuzeigen.
+
+**Entfernung** Nachdem Sie das Entfernungswerkzeug ausgewählt haben, klicken Sie im Dokument auf und ziehen, um von der Stelle, auf die Sie klicken, zur Stelle zu messen, an der Sie die Maustaste loslassen.
+
+Klicken Sie auf das Stilmenü, um die Formatierung für das Entfernungswerkzeug zu öffnen. So kann das Stilmenü des Entfernungswerkzeugs aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/26-measure-menu.png)
+
+Farben Klicken Sie auf eine Farbe, um die Entfernungsmessungsfarbe zu ändern Klicken Sie auf Mehr anzeigen, um mehr Standardfarben anzuzeigen. Klicken Sie auf die Plus-Schaltfläche, um eine konfigurierte Farbe hinzuzufügen. Klicken Sie auf den Papierkorb, um eine Farbe zu entfernen. Klicken Sie auf die Schaltfläche Duplizieren, um eine Farbe zu duplizieren
+
+Strich Ziehen Sie den Strichschieberegler oder geben Sie einen Wert ein, um die Breite Ihrer Messlinie zu ändern.
+
+Deckkraft Ziehen Sie den Deckkraftschieberegler oder geben Sie einen Prozentwert ein, um die Deckkraft Ihrer Messlinie zu ändern.
+
+Stil Ändern Sie das Aussehen der Pfeile und Linienstile Ihrer Messlinie.
+
+Andocken für Messwerkzeuge aktivieren. Aktivieren Sie dieses Kontrollkästchen, um das Andocken für Messwerkzeuge zu aktivieren oder zu deaktivieren.
+
+**Bogenmessung**
+
+**Umfang**
+
+**Bereich**
+
+**Ellipsenfläche**
+
+**Rechteckiger Bereich**
+
+**Zählmessung**
+
+### 7.6 **In allen Anmerkungsmenüs verfügbare Tools**
+
+So können die Tools aussehen, die in allen Menüs verfügbar sind:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/27-tools-available-in-all-annotation-menus.png)
+
+_Rückgängig - Tastaturkürzel:_ (Strg + z) Klicken Sie auf Rückgängig, um Ihre vorherige Aktion rückgängig zu machen
+
+_Wiederherstellen - Tastaturkürzel:_ (Strg + y) Klicken Sie auf Wiederherstellen, um Ihre vorherige Aktion zu wiederholen
+
+_Radiergummi - Tastaturkürzel:_ (E) Wählen Sie das Radiergummi-Werkzeug aus, um alle erstellten Elemente zu löschen.
+
+## 8. **Dokumentensuche**
+
+Wenn Sie auf das Lupe auf der rechten Seite klicken, können Sie das Dokumentensuch-Menü öffnen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/28-document-search.png)
+
+Geben Sie einen Satz ein, um in den durchsuchbaren Text Ihres Dokuments zu suchen.
+
 # Dokumentvorschau-Tools - Gummistempel
 
 Das Gummistempel-Tool befindet sich im [Menü "Einfügen"](https://support.catenda.com/en/articles/11384618-document-preview-tools#h_34b84f09b9) der Symbolleiste der Dokumentvorschau und kann etwa so aussehen:
@@ -8249,6 +8550,112 @@ Die im Zentrum von Räumen im 2D-Viewer angezeigten Raumetiketten werden anhand 
 ![Snag_665ab2.png](https://raw.githubusercontent.com/catenda/help-center/main/images/ez137xtp/01-intro.png)
 
 Sie haben nun eine Miniaturansicht des Modells in der Modellübersicht. Sie können auch jedes beliebige Bild hochladen, das Sie als Modellminiaturansicht verwenden möchten.
+
+# Erstellen einer neuen Genehmigungsanforderung
+
+Die neue Genehmigungsanforderungsaktion ist für Projekte verfügbar, bei denen geteilte Überarbeitungen nach dem 2. Oktober 2025 aktiviert wurden. Klicken Sie auf das Aktionsmenü rechts neben der grünen Schaltfläche "Plus" auf der [Genehmigungsseite](https://support.catenda.com/en/articles/8349340-approvals-page), um eine neue Genehmigungsanforderung zu erstellen. Klicken Sie auf die Schaltfläche "Neue Genehmigungsanforderung" im Genehmigungsmenü des rechten Menüs einer Überarbeitung auf der Dokumentenseite, wenn die neueste Überarbeitung eine geteilte Überarbeitung ist, um eine neue Genehmigungsanforderung zu erstellen. So könnte der Dialog "Neue Genehmigungsanforderung erstellen" aussehen:
+
+![New approval request Workflow Submitter Title Description (optional) Documents for review add documents name revision # Revision number Status Remove Cancel Save as draft Submit for review](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
+
+Projekte, bei denen geteilte Überarbeitungen vor dem 2. Oktober 2025 aktiviert wurden, sehen stattdessen den älteren Dialog "Neue Genehmigungsanforderung erstellen".
+
+## 1. Genehmigungsanforderungs-Header
+
+So könnte der Header einer neuen Genehmigung für Projekte aussehen, bei denen geteilte Überarbeitungen nach dem 2. Oktober 2025 aktiviert wurden:
+
+![New approval requst Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/02-approval-request-header.png)
+
+### 1.1 **Workflow-Auswahl**
+
+Mitglieder, die Teil von Absender-Teams sind, die in einem Projekt-Workflow konfiguriert sind, können zwischen einem der Workflows wählen, für die ihre Teams konfiguriert sind. Der zuvor ausgewählte Workflow wird beibehalten. Solange der zuvor ausgewählte Workflow noch verfügbar ist, wird er beim nächsten Erstellen einer Genehmigung erneut ausgewählt.
+
+**Automatische Auswahl** Wenn nur eines der Teams, zu denen ein Mitglied gehört, für einen Workflow konfiguriert ist, wird dieser Workflow automatisch ausgewählt. So kann es aussehen, wenn der Workflow automatisch ausgewählt wird.
+
+![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
+
+_Erforderlicher Zugriff:_ Mitglieder und Administratoren müssen Teil eines Absender-Teams sein, das für einen Workflow konfiguriert ist, um den Workflow auswählen zu können.
+
+### 1.2 **Absender-Auswahl**
+
+Nachdem ein Workflow ausgewählt wurde, können Mitglieder, die Teil mehrerer Absender-Teams sind, die für den Workflow konfiguriert sind, auswählen, in welchem Namen welchen Team sie die Genehmigungsanforderung einreichen möchten. Das zuvor ausgewählte Absender-Team wird beibehalten. Solange das Mitglied noch Teil des zuvor ausgewählten Absender-Teams ist, wird es beim nächsten Erstellen einer Genehmigung erneut ausgewählt.
+
+Wenn die Genehmigungsanforderung erstellt wird, sehen Mitglieder, die Teil des ausgewählten Absender-Teams sind, die Anforderung, während Mitglieder, die Teil der anderen möglichen Absender-Teams sind, die Anforderung nur sehen, wenn sie Teil eines der Prüfer-Teams oder Teil des Endgenehmigungsteams sind, das für den Workflow konfiguriert ist.
+
+**Automatische Auswahl** Wenn ein Mitglied nur Teil eines der Absender-Teams ist, die für den Workflow konfiguriert sind, wird das Absender-Team automatisch ausgewählt, wenn der Workflow ausgewählt wird.
+
+![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/04-submitter-selection.png)
+
+_Erforderlicher Zugriff:_ Mitglieder und Administratoren müssen Teil eines Absender-Teams sein, das für einen Workflow konfiguriert ist, um in dessen Namen eine Genehmigung einreichen zu können.
+
+### 1.3 **Titel**
+
+Der Titel der Genehmigungsanforderung. Eine Genehmigung muss einen Titel haben, um eingereicht zu werden.
+
+## 2. **Genehmigungsanforderungs-Body**
+
+Der neue Validierungs-Workflow ist eine On-Demand-Funktion, die beim Start eines neuen Projekts angefordert werden kann. Es ist nur möglich, ein Projekt basierend auf einem Template-Projekt zu erstellen, wenn der neue Validierungs-Workflow in diesem Template-Projekt nicht aktiviert ist. So könnte der Body einer neuen Genehmigung für Projekte aussehen, bei denen geteilte Überarbeitungen nach dem 2. Oktober 2025 aktiviert wurden:
+
+![Approval Reqeust body Description (optional) Documents for review add documents cancel no documents added yet](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/05-approval-request-body.png)
+
+### 2.1 **Beschreibung**
+
+Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln von Beiträgen](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+
+### 2.2 **Dokumente hinzufügen**
+
+![Description (optional) documents for review add documents](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/06-add-documents.png)
+
+Klicken Sie [hier](https://support.catenda.com/en/articles/12382093-add-revision-to-approval), um mehr über das Hinzufügen von geteilten Überarbeitungen aus Dokumenten zu einer Genehmigungsanforderung zu erfahren. Obwohl es möglich ist, hier eine unbegrenzte Anzahl von Dokumenten hinzuzufügen, beträgt die Grenze für die Einreichung der Genehmigungsanforderung zur Überprüfung 1000 Dokumente.
+
+### 2.3 **Tabelle "Dokumente zur Überprüfung"**
+
+So könnte die Tabelle "Dokumente zur Überprüfung" aussehen, nachdem geteilte Überarbeitungen in jedem Dokument hinzugefügt wurden, die validiert werden sollen:
+
+![Documents review table Name revision # Revision number Status Remove Cancel Save as draft Submit for review](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/07-documents-for-review-table.png)
+
+**Spalten** Basierend auf der konfigurierten Spaltenreihenfolge werden die ersten Spalten angezeigt, während die Tabelle möglicherweise zur Seite gescrollt werden muss, um andere aktivierte Spalten anzuzeigen. Die Standardreihenfolge und Sichtbarkeitseinstellung der Spalten auf der Dokumentenseite ist wie folgt:
+
+_Name_ - _Standard_ Der Name des Dokuments, in dem sich die geteilte Überarbeitung befindet. Der Dokumentname ist für alle Überarbeitungen im Dokument gleich.
+
+Überarbeitung - _Standard_ Der Name der Dokumentüberarbeitung. Dies ist derselbe wie der ursprüngliche Dateiname der hochgeladenen Datei.
+
+## 3. - _Standard_
+
+Status - _Standard_ Der Name des gemeinsamen Status, der auf die geteilte Überarbeitung angewendet wird.
+
+Entfernen - _Standard_ Klicken Sie auf das x in der Spalte "Entfernen", um das zu überprüfende Dokument aus der Liste "Dokumente zur Überprüfung" zu entfernen.
+
+## 4. **Als Entwurf speichern**
+
+Bearbeitungsanforderung bearbeiten, bevor sie eingereicht und gesperrt wird.
+
+### 4.1 **Mehr als 1000 Dokumente in Entwürfen**
+
+Obwohl es möglich ist, beliebig viele Dokumente zum Dialog "Revision hinzufügen zur Genehmigungsanfrage" hinzuzufügen, ist es nur möglich, den Dialog mit bis zu 1000 Dokumentrevision einzureichen. Um mehr als 1000 Dokumentrevisionen mit dem neuen Validierungs-Workflow hinzuzufügen, fügen Sie zunächst bis zu 1000 Dokumente hinzu und speichern Sie die Genehmigungsanfrage als Entwurf. Fügen Sie dann bis zu 1000 Dokumente auf einmal zum Entwurf der Genehmigungsanfrage mit den Aktionen "Dokumente hinzufügen" auf der Seite des Entwurfs der Genehmigungsanfrage hinzu, bevor Sie die Genehmigungsanfrage einreichen.
+
+### 4.2 **Überprüfungsdauer des ersten Schritts starten, wenn bereit**
+
+Sobald die Genehmigungsanfrage eingereicht wird, werden die im ersten Schritt des ausgewählten Genehmigungsworkflows konfigurierten Überprüfungs-Teams damit beauftragt, die Revisionen in der Genehmigungsanfrage während der Dauer ihres Genehmigungsschritts zu überprüfen. Die Mitglieder in den Überprüfungs-Teams können die Revisionen überprüfen, bis die für ihren Genehmigungsschritt konfigurierten Arbeitstage vorbei sind. Speichern Sie eine Genehmigungsanfrage als Entwurf, damit sie eingereicht werden kann, sobald der Workflow bereit ist zu beginnen.
+
+Stellen Sie sicher, dass die Teams bereit sind, indem Sie kommunizieren, dass ihr Überprüfungsschritt kurz bevorsteht, bevor Sie den Genehmigungsanfrage-Workflow einreichen und die Überprüfungsdauer des ersten Schritts für die im ausgewählten Workflow konfigurierten Überprüfungs-Teams starten.
+
+Stellen Sie sicher, dass das endgültige Veröffentlichungsdatum des Workflows zum richtigen Zeitpunkt endet, indem Sie die Gesamtanzahl der Arbeitstage im Workflow mit den Tagen abstimmen, an denen der Workflow eingereicht werden soll.
+
+## 5. **Zur Überprüfung einreichen**
+
+Klicken Sie auf "Zur Überprüfung einreichen", um die Genehmigung einzureichen und den Genehmigungsprozess zu starten. Folgende Anforderungen müssen erfüllt sein, um die Genehmigungsanfrage zur Überprüfung einzureichen:
+
+- Der Workflow, dem die Bearbeitungsanforderung folgt, muss ausgewählt werden.
+- Ein Team, das im Namen einreicht, muss ausgewählt werden
+- Ein Titel
+- Dokumente
+  - Mindestens 1 Dokument mit einer ausgewählten freigegebenen Revision muss hinzugefügt werden, um die Bearbeitungsanforderung einreichen zu können.
+  - Es können maximal 1000 Dokumentrevisionen mit einer ausgewählten freigegebenen Revision hinzugefügt werden.
+  - Um eine Bearbeitungsanforderung mit mehr als 1000 Dokumentrevisionen zu erstellen, erstellen Sie zunächst einen Entwurf mit bis zu 1000 Revisionen und fügen Sie dann bis zu 1000 Dokumentrevisionen gleichzeitig zum Entwurf hinzu, bevor Sie den Entwurf zur Überprüfung einreichen.
+
+Nach dem Einreichen einer Bearbeitungsanforderung zur Überprüfung mit dem neuen Validierungs-Workflow ist das Einzige, das geändert werden kann, dass freigegebene Revisionsdokumente aus der Anforderung verworfen werden können.
+
+_Überprüfungsdauer von Schritt 1 starten, wenn bereit_ Sobald die Bearbeitungsanforderung eingereicht wird, beginnt die Dauer des ersten Überprüfungsschritts, der im Bearbeitungs-Workflow konfiguriert ist.
 
 # Erstellen einer neuen Genehmigungsanfrage - Legacy
 
@@ -9304,6 +9711,101 @@ Wenn der Modellname eine Erweiterung enthält, kann mit der regulären Text-Such
 Modelle können sortiert werden, indem Sie auf die Kopfzeile jeder Spalte klicken. Die Kopfzeile kann mehrmals angeklickt werden, um die Sortierung rückgängig zu machen oder zu deaktivieren.
 
 _Name, a-z_ - Standard _Name, z-a_ - `sort=modelName-desc` _Dokumentname, a-z_ - `sort=name-asc` _Dokumentname, z-a_ -`sort=name-desc` _Veröffentlicht, neueste zuerst_ - `sort=publishedAt-desc` _Veröffentlicht, älteste zuerst_ - `sort=publishedAt-asc` _Dokument erstellt, neueste zuerst_ - `sort=createdAt-desc` _Dokument erstellt, älteste zuerst_ - `sort=createdAt-asc` Revision erstellt_, neueste zuerst_ - `sort=revisionCreatedAt-desc` Revision erstellt_, älteste zuerst_ - `sort=revisionCreatedAt-desc`
+
+# Filterung auf der Objektseite
+
+Das Filterfenster auf der Objektseite kann durch Anklicken der Filterschaltfläche links neben der Suchleiste auf der Objektseite geöffnet werden.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/01-intro.png)
+So kann das Such- oder Filtermenü beim Öffnen aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/02-intro.png)
+
+## 1. **Filter**
+
+Klicken Sie oben links auf die Filterschaltfläche, um ein Fenster auf der linken Seite zu öffnen. Wenn ein Filter angewendet wird, ändert sich die im Browser sichtbare URL entsprechend. In diesem Artikel werden Filter wie folgt angezeigt: _Filtername im Menü_ - `Filtername in URL=Filteroption in URL`
+
+**Standardfilter** Der Standardfilter ist anfangs nicht in der URL sichtbar. Wenn die Seite zum ersten Mal aufgerufen wird, wird der folgende Filter angewendet.
+
+**Kein Filter**
+
+### 1.1 **Aktuellen Filter speichern und freigeben**
+
+Rufen Sie die URL einer gefilterten Seite auf, um diese Seite mit dem angewendeten Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/en/articles/11401493-saving-a-filter-link), um mehr über das Speichern und Freigeben von Filtern zu erfahren.
+
+### 1.2 **Leere Filter ausblenden**
+
+Klicken Sie [hier](https://support.catenda.com/en/articles/8551755-saving-filters), um mehr über die Begrenzung von Filterergebnissen zu erfahren.
+
+### 1.3 **Modelle**
+
+Klicken Sie auf 3D rechts neben der Modellkategorie im Filtermenü, um alle Modelle zu filtern, die derzeit im 3D-Viewer geladen sind.
+
+Modellname - `model=<Model GUID>` Filter für eine Reihe von Projektmodellen.
+
+### 1.4 **Ausgewählt**
+
+Ausgewählt - `selected=true` Filter, um nur Zeilen für Objekte anzuzeigen, die im 3D-Viewer ausgewählt sind.
+
+## 2. **Filter, die nicht im Filterfenster aufgelistet sind**
+
+### 2.1 **Abfrage**
+
+Abfragesuche - `query=<Product>,<Operator>,<Value>` Klicken Sie in die Such- oder Filterleiste, um einen Filter zu konfigurieren, der zwei Werte vergleicht.
+
+**Produkt** Die erste Auswahl kann jede Art von IFC-Produkt sein. So kann das Produktdropdown aussehen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/03-query.png)
+
+**Operator** Der Operator kann nur ausgewählt werden, nachdem ein Produkt ausgewählt wurde. Der Operatorteil des Abfragefilters bestimmt, wie das Produkt mit dem Wert verglichen wird. Je nachdem, ob das Produkt einen beliebigen Wert haben kann oder nur einen begrenzten Satz von Werten haben kann, können verschiedene Operatoren ausgewählt werden:
+
+Immer verfügbare Operatoren: Gleich - `equals` Wenn das ausgewählte Produkt genau den eingegebenen Wert hat
+
+Nicht gleich - `not-equals` Wenn das ausgewählte Produkt nicht genau den eingegebenen Wert hat
+
+Vorhanden - `exists` Wenn "Vorhanden" ausgewählt wird, kann nur ein Produkt ausgewählt werden, kein Wert, da alle Werte Teil dieses Filters sind
+
+Nicht vorhanden - `not-exists` Wenn "Nicht vorhanden" ausgewählt wird, kann nur ein Produkt ausgewählt werden, kein Wert, da alle Werte Teil dieses Filters sind
+
+Operatoren mit begrenztem Wertsatz So kann das Operatordropdown aussehen, wenn die ausgewählte Eigenschaft einen begrenzten Wertsatz hat:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/04-query.png)
+
+Enthält - `contains`
+
+Enthält nicht - `not-contains` Um Ergebnisse über Produkte zu erhalten, die einen bestimmten Wert nicht enthalten
+
+Hat Wert - `has-value` Wenn "Hat Wert" ausgewählt wird, kann nur ein Produkt ausgewählt werden, kein Wert, da alle Werte Teil dieses Filters sind
+
+Operatoren für beliebige Werte So kann das Operatordropdown aussehen, wenn die ausgewählte Eigenschaft einen beliebigen Wert haben kann:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/05-query.png)
+
+Im Bereich - `range-inclusive` Wenn der Operator "Im Bereich" ausgewählt wird, gibt es zwei Wertfelder. So kann es aussehen, wenn ein Bereichsfilter bearbeitet wird:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/06-query.png)
+
+Der Bereich ist alles vom ersten Wert bis zum zweiten Wert.
+
+Größer oder gleich - `greater-than-equals`
+
+Größer als - `greater-than`
+
+Kleiner oder gleich - `less-than-equals`
+
+Kleiner als - `less-than`
+
+**Wert** Das Wertfeld verhält sich je nach den möglichen Werten des ausgewählten Produkts unterschiedlich.
+
+Zahlenwert Wenn das ausgewählte Produkt nur einen Zahlenwert haben kann, werden beim Anklicken des Wertfelds Pfeile angezeigt und es können nur Zahlen eingegeben werden.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/07-query.png)
+
+Vorgeschlagene Werte Wenn ein Produkt einen Textwert haben kann, kann dieser direkt in das Wertfeld eingegeben werden. So kann das Wertmenü aussehen, wenn das Produkt "Entität" ausgewählt wurde.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/08-query.png)
+
+Wenn Sie in das Wertfeld klicken, wird eine Liste mit vorgeschlagenen Elementen unter dem Feld angezeigt. Wenn das ausgewählte Produkt nur einen begrenzten Wertsatz haben kann, wird dieser begrenzte Wertsatz in der Liste der vorgeschlagenen Elemente angezeigt. Wenn das ausgewählte Produkt einen beliebigen Wert haben kann, zeigt die Liste der vorgeschlagenen Elemente eine Liste mit Werten, die andere Produkte dieser Art haben.
 
 # Filterung auf der Sammlungsseite
 
@@ -24866,6 +25368,88 @@ _Catenda Site:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579
 **SharePoint-Integration:**
 
 - Du kannst dich jetzt über ein Browser-Popup mit deinem Catenda-Konto verbinden, anstatt auf eine E-Mail zu warten.
+
+# Changelog 6 Catenda - August 2024
+
+Hallo zusammen,
+
+Ich hoffe, ihr hattet alle einen wunderschönen Sommerurlaub und seid bereit für die zweite Hälfte von 2024! Mit den Änderungen bei Catenda werden auch die Artikel aktualisiert! Da es schwierig sein kann, den Überblick über alle kleinen Veränderungen im Laufe der Zeit zu behalten, findet ihr hier einen Überblick über alle neuesten Änderungen. ☀️😎🏖️
+
+## 1. **Artikel**
+
+Mit dem Rollout neuer Funktionen und der Behebung von Fehlern werden die Artikel mit den vorgenommenen Änderungen aktualisiert. Bitte beachten Sie die folgenden Artikel, die seit dem letzten Changelog erstellt und geändert wurden.
+
+### 1.1 **Neue Artikel:**
+
+**Erste Schritte und häufig gestellte Fragen** [Catenda SharePoint FAQ](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq) [Revisions in Namenskonvention](https://support.catenda.com/en/articles/9496151-revisions-in-namingconvention) [Benutzerdefinierte Felder in Dokumenten](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents) [Übernahme für ein anderes Mitglied](https://support.catenda.com/en/articles/9520447-taking-over-for-another-member)
+
+**Modelle** [Aktionen auf der Seite Modelle](https://support.catenda.com/en/articles/9431936-actions-on-the-models-page) [Rechtes Menü auf der Seite Modelle](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page) [Aktionen auf der Modellübersichtsseite](https://support.catenda.com/en/articles/9674157-actions-on-the-model-overview-page)
+
+**Themen** [Seite Boards](https://support.catenda.com/en/articles/9413644-boards-page) [Aktionen in einem Themen-Board](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board)
+
+**Dokumente** [Aktionen in einem Dokument](https://support.catenda.com/en/articles/9323521-actions-in-a-document)
+
+**Plugins und Integrationen** [Microsoft Teams-Benachrichtigungen](https://support.catenda.com/en/articles/9167392-microsoft-teams-notifications) [Aktivieren der Catenda SharePoint-App](https://support.catenda.com/en/articles/9419749-enabling-the-catenda-sharepoint-app) [Hinzufügen und Entfernen der CatendaSP-App](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app) [Navisworks Changelog - 1.4.0](https://support.catenda.com/en/articles/9440035-navisworks-changelog-1-4-0)
+
+### 1.2 **Artikel, die sich geändert haben:**
+
+**Häufig gestellte Fragen** [Vorschau von Dateitypen auf Catenda Hub](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub) [Keine Zugriff-Seiten](https://support.catenda.com/en/articles/9172624-no-access-pages)
+
+**Hauptseite** [Seite Projekte - Organisationstool](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool) [Seite Benutzer - Organisationstool ](https://support.catenda.com/en/articles/8508311-users-page-organization-tool) [Projektmitgliedschaften - Organisationstool](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool) [Multi-Faktor-Authentifizierung](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
+
+**Modelle** [Seite Modelle](https://support.catenda.com/en/articles/4670286-models-page) [Modellübersichtsseite](https://support.catenda.com/en/articles/4670270-model-overview-page)
+
+**Themen** [Rechtes Menü in einem Thema](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic) [Tabellenansicht in einem Themen-Board](https://support.catenda.com/en/articles/6941099-table-view-in-an-topic-board) [Listenansicht in einem Themen-Board](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board) [Seite Themen](https://support.catenda.com/en/articles/4670271-topics-page)
+
+**Dokumente** [ZIP-Datei/Dateistruktur hochladen](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) [Aktionen in der Dokumentstruktur](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure) [Seite Dokumente](https://support.catenda.com/en/articles/8204673-documents-page) [Dokumentenbanner - Navigation](https://support.catenda.com/en/articles/8461918-document-banner-navigation) [Rechtes Menü in einem Dokument](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document) [QR-Codes auf PDFs in Catenda](https://support.catenda.com/en/articles/9360508-qr-code-on-pdfs-in-catenda) [Dokumenteneinstellungen](https://support.catenda.com/en/articles/7831371-document-settings) [Rechtes Menü auf der Dokumentenseite](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page)
+
+**Einstellungen** [Seite Benutzerdefiniertes Feld](https://support.catenda.com/en/articles/8445588-custom-field-page) [Seite Benutzerdefinierte Felder](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+
+**Plugins und Integrationen** [Catenda SharePoint-Anwendung](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application) [IFC Export Archicad-Handbuch](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
+
+**Catenda Site** [Vorschau von Dokumenten auf Catenda Site](https://support.catenda.com/en/articles/8975421-previewing-documents-on-catenda-site)
+
+## 2. **Behobene Fehler**
+
+Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die ihr möglicherweise gar nicht bemerkt habt. Unten finden Sie eine Liste kleinerer Änderungen, die das Entwicklungsteam aufgrund von Gesprächen mit Benutzern vorgenommen hat.
+
+### 2.1 **Dokumente**
+
+- Mesannotationen in PDF-Dokumenten, die hochgeladen werden, führen nicht mehr dazu, dass alle anderen Anmerkungen verschwinden.
+- Es ist wieder möglich, frühere Revisionen aus dem rechten Informationsmenü herunterzuladen
+- Wenn beim Hochladen eines Dokuments ein Fehler auftreten würde, würde dies zu einer Lücke in der Datenbank führen und Probleme bei der Genehmigung von Veröffentlichungen verursachen. Es ist jetzt auch möglich, Genehmigungen mit Dokumenten zu veröffentlichen, bei denen das Hochladen eines Dokuments fehlgeschlagen ist.
+- Es ist wieder möglich, veröffentlichte Revisionen in Genehmigungen zu sehen
+
+### 2.2 **Modelle**
+
+- System Tree - Gruppen, die mit anderen Gruppen verbunden sind, werden jetzt schneller geladen und erscheinen nicht mehr als eigene Gruppe auf der Root-Ebene des System Trees.
+- Es ist wieder möglich, Modellrevisions auf der Revisionsübersichtsseite eines Modells in Pre-Models-as-Dokumente-Projekten zu sehen.
+- Es ist wieder möglich, den Transformationswinkel eines Modells zu ändern und ihn nach dem Neuladen der Seite anzuzeigen
+- Der anfängliche Transformationswert beim Erstellen eines Modells wurde korrigiert
+- Rotationstransformation ist jetzt xyz, wie es sein sollte, statt xyy
+- Eine y-Koordinatentransformation wird nicht mehr angewendet, wenn eine Rotation zu einem Modell hinzugefügt wird.
+
+Wenn Sie jetzt eine Transformation mit Rotation anwenden, die Seite neuladen und das Modell erneut laden, wird es an der richtigen Stelle angezeigt.
+
+- 4D-Funktionalität funktioniert wieder.
+
+## 3. **Benutzer-Feedback umgesetzt**
+
+### 3.1 **Themen**
+
+- Es ist jetzt möglich, ein Logo zur Seite mit den Projekteinstellungen hinzuzufügen. Dieses Logo wird oben rechts auf jeder Themenseite im PDF-Export angezeigt.
+
+### 3.2 **Dokumente**
+
+- Es ist jetzt möglich, benutzerdefinierte Felder zu Ordnern hinzuzufügen. Benutzerdefinierte Felder können als Standard festgelegt werden, so dass alle in den Ordner (und seine Unterordner) hochgeladenen Dokumente den Standardwert erhalten.
+
+## 4. **Neue Versionen** - Catenda Site, Plugins und Integrationen
+
+_Catenda Site v3.4.2:_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+
+**Desktop Connector:** [Catenda Desktop Connector v1.0.5.0](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
+
+Navisworks: [Navisworks Plugin v1.4.0](https://support.catenda.com/en/articles/5085987-catenda-hub-navisworks-plugin)
 
 # Changelog 7 Catenda - Dezember 2024
 

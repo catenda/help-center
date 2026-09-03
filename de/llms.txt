@@ -20,6 +20,7 @@ Konfigurieren Sie die Einstellungen Ihres Projekts oder Kontos
 - [Anmeldeseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7891486-anmeldeseite.md)
 - [Benutzer ohne E-Mail-Einladung hinzufügen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8434846-benutzer-ohne-e-mail-einladung-hinzufügen.md)
 - [Benutzerseite - Organisationsverwaltungstool](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8508311-benutzerseite-organisationsverwaltungstool.md)
+- [Berechtigungen für Mitglieder](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670282-berechtigungen-für-mitglieder.md)
 - [Ein Konto erstellen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8412895-ein-konto-erstellen.md)
 - [Ein neues Projekt erstellen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670245-ein-neues-projekt-erstellen.md)
 - [Ein Projekt beitreten](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670276-ein-projekt-beitreten.md)
@@ -113,6 +114,7 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [Dokumentrevisions-Aktionen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9323521-dokumentrevisions-aktionen.md)
 - [Dokumenttabellen-Aktionen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670288-dokumenttabellen-aktionen.md)
 - [Dokumentvorschau und Anmerkungen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5001165-dokumentvorschau-und-anmerkungen.md): Verwendung von Anmerkungswerkzeugen, Redlining, Kommentierung von Dokumenten in Problemen
+- [Dokumentvorschau-Tools](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/11384618-dokumentvorschau-tools.md)
 - [Dokumentvorschau-Tools - Gummistempel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/11678493-dokumentvorschau-tools-gummistempel.md)
 - [Eigenschaftswert-Bibliothek](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670252-eigenschaftswert-bibliothek.md)
 - [Ein Dokument hochladen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670278-ein-dokument-hochladen.md)
@@ -127,6 +129,7 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [Einstellungsseite für Topic Board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670277-einstellungsseite-für-topic-board.md)
 - [Erscheinungsbild des 2D-Viewers](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/13615984-erscheinungsbild-des-2d-viewers.md)
 - [Erstellen einer Miniaturansicht für Ihr Modell](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670257-erstellen-einer-miniaturansicht-für-ihr-modell.md)
+- [Erstellen einer neuen Genehmigungsanforderung](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12495005-erstellen-einer-neuen-genehmigungsanforderung.md)
 - [Erstellen einer neuen Genehmigungsanfrage - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12360159-erstellen-einer-neuen-genehmigungsanfrage-legacy.md)
 - [Erstellen einer neuen Themenvorlage - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12372007-erstellen-einer-neuen-themenvorlage-legacy.md)
 - [Erstellen eines benutzerdefinierten Felds](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8445575-erstellen-eines-benutzerdefinierten-felds.md)
@@ -141,6 +144,7 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [Filterung auf der Genehmigungsseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12495060-filterung-auf-der-genehmigungsseite.md)
 - [Filterung auf der Genehmigungsseite - Erbschaft](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8551740-filterung-auf-der-genehmigungsseite-erbschaft.md)
 - [Filterung auf der Modellseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12129622-filterung-auf-der-modellseite.md)
+- [Filterung auf der Objektseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12353642-filterung-auf-der-objektseite.md)
 - [Filterung auf der Sammlungsseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8999945-filterung-auf-der-sammlungsseite.md)
 - [Filterung auf der Seite „Themen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8370693-filterung-auf-der-themaseite.md)
 - [Genehmigung offen, veröffentlicht oder verworfen - Veraltet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8349418-genehmigung-offen-veröffentlicht-oder-verworfen-veraltet.md)
@@ -377,6 +381,7 @@ Finden Sie die neuesten Catenda-Updates
 - [Changelog 2 Catenda - Juli 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7338675-changelog-2-catenda-juli-2023.md)
 - [Changelog 3 Catenda - Oktober 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7983534-changelog-3-catenda-oktober-2023.md): Neue Informationen und kleinere Änderungen
 - [Changelog 4 Catenda - Januar 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8433887-changelog-4-catenda-januar-2024.md): Neue Informationen und kleinere Änderungen
+- [Changelog 6 Catenda - August 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9285880-changelog-6-catenda-august-2024.md)
 - [Changelog 7 Catenda - Dezember 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9691178-changelog-7-catenda-dezember-2024.md)
 - [Changelog 8 Catenda – März 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/10288759-changelog-8-catenda-märz-2025.md)
 - [Changelog 9 Catenda - Juni 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/10857573-changelog-9-catenda-juni-2025.md)

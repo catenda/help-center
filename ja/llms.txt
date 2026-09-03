@@ -39,6 +39,7 @@ Catendaに招待された場合、または初めて登録する場合は、こ�
 - [メンバーを招待ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670263-メンバーを招待ページ.md)
 - [メンバーページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8228836-メンバーページ.md)
 - [メンバーページの右側メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11768610-メンバーページの右側メニュー.md)
+- [メンバー権限設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670282-メンバー権限設定.md)
 - [メールの招待なしでユーザーを追加する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8434846-メールの招待なしでユーザーを追加する.md)
 - [ユーザーページ - 組織ツール](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8508311-ユーザーページ-組織ツール.md)
 - [別のメンバーの引き継ぎ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9520447-別のメンバーの引き継ぎ.md)
@@ -111,6 +112,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [アクセス制御レベル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8967083-アクセス制御レベル.md)
 - [オブジェクトからドキュメントをリンク解除](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670301-オブジェクトからドキュメントをリンク解除.md)
 - [オブジェクトページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12352750-オブジェクトページ.md)
+- [オブジェクトページでのフィルタリング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12353642-オブジェクトページでのフィルタリング.md)
 - [オープン、公開、または破棄された承認 - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8349418-オープン-公開-または破棄された承認-レガシー.md)
 - [オープンまたはクローズされた承認依頼ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12494960-オープンまたはクローズされた承認依頼ページ.md)
 - [カスタムフィールドの作成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8445575-カスタムフィールドの作成.md)
@@ -162,6 +164,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [ドキュメントをトピックにリンクする](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670250-ドキュメントをトピックにリンクする.md)
 - [ドキュメントを移動する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670251-ドキュメントを移動する.md)
 - [ドキュメントバナー - ナビゲーション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8461918-ドキュメントバナー-ナビゲーション.md)
+- [ドキュメントプレビューツール](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11384618-ドキュメントプレビューツール.md)
 - [ドキュメントページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8204673-ドキュメントページ.md)
 - [ドキュメントページのカラム](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8466850-ドキュメントページのカラム.md)
 - [ドキュメントページのフィルタリング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670283-ドキュメントページのフィルタリング.md)
@@ -255,6 +258,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [新しいモデルエクスポートの作成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/15481038-新しいモデルエクスポートの作成.md)
 - [新しいラベルを作成する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8626709-新しいラベルを作成する.md)
 - [新しいワークフローの作成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12313251-新しいワークフローの作成.md)
+- [新しい承認リクエストの作成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12495005-新しい承認リクエストの作成.md)
 - [新しい承認リクエストの作成 - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12360159-新しい承認リクエストの作成-レガシー.md)
 - [既存のトピックボードからのトピックボード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6379614-既存のトピックボードからのトピックボード.md)
 - [最もシンプルな命名規則](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7845360-最もシンプルな命名規則.md)
@@ -305,7 +309,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [病院プロジェクトのデジタル設計調整と問題解決](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12320207-病院プロジェクトのデジタル設計調整と問題解決.md): 業界: ヘルスケア建設 / BIM (Building Information Modeling) ペルソナ: David、大規模ゼネコンのBIMコーディネーター。
 - [管理者として承認を管理する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12620829-管理者として承認を管理する.md)
 - [週間クラッシュレポート](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13847707-週間クラッシュレポート.md)
-- [高層建築プロジェクトにおける設計レビューと変更注文](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12323690-高層建築プロジェクトにおける設計レビューと変更注文.md): 業界：商業建設　ペルソナ：大規模事務所のプロジェクト・アーキテクト、マリア。
+- [高層建築プロジェクトにおける設計レビューと変更注文](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12323690-高層建築プロジェクトにおける設計レビューと変更注文.md): 業界：商業建設 ペルソナ：大規模事務所のプロジェクト・アーキテクト、マリア。
 
 ## よくある質問
 
@@ -375,6 +379,7 @@ Catenda Hubの最新情報はこちら
 - [Catenda チェンジログ - 2024年1月](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8433887-catenda-チェンジログ-2024年1月.md): 新しい情報と軽微な変更
 - [Catenda チーム および全ユーザー選択がShareLinkに追加されました](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5375875-catenda-チーム-および全ユーザー選択がsharelinkに追加されました.md)
 - [Catendaチェンジログ - 2023年7月2日](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7338675-catendaチェンジログ-2023年7月2日.md)
+- [Catenda変更履歴 6 - 2024年8月](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9285880-catenda変更履歴-6-2024年8月.md)
 - [Changelog 1 Catenda - April, 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7018311-changelog-1-catenda-april-2023.md)
 - [Changelog 10 Catenda - 2025年10月](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11582902-changelog-10-catenda-2025年10月.md)
 - [Changelog 11 Catenda - 2025年1月](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12529903-changelog-11-catenda-2025年1月.md)

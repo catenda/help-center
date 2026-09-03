@@ -32,6 +32,7 @@ Configureer de instellingen van uw project of account
 - [Gebruikers toevoegen zonder e-mailuitnodiging](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8434846-gebruikers-toevoegen-zonder-e-mailuitnodiging.md)
 - [Gebruikerspagina - Organisatietool](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8508311-gebruikerspagina-organisatietool.md)
 - [Instellingen - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7733833-instellingen-catenda-site.md)
+- [Instellingen voor lezen-rechten](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670282-instellingen-voor-lezen-rechten.md)
 - [Leden pagina uitnodigen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670263-leden-pagina-uitnodigen.md)
 - [Ledenpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8228836-ledenpagina.md)
 - [Meervoudige Factorverificatie](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4969891-multi-factor-authenticatie.md): Beschrijft hoe u MFA op uw account instelt
@@ -124,6 +125,7 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Een document verplaatsen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670251-een-document-verplaatsen.md)
 - [Een mapstructuur downloaden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670258-een-mapstructuur-downloaden.md)
 - [Een miniatuur voor uw model maken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670257-een-miniatuur-voor-uw-model-maken.md)
+- [Een nieuw goedkeuringsverzoek maken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12495005-een-nieuw-goedkeuringsverzoek-maken.md)
 - [Een nieuw goedkeuringsverzoek maken - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12360159-een-nieuw-goedkeuringsverzoek-maken-legacy.md)
 - [Een nieuw modelexport maken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/15481038-een-nieuw-modelexport-maken.md)
 - [Een nieuw onderwerp aanmaken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670268-een-nieuw-onderwerp-aanmaken.md): Dit beschrijft alle stappen om een onderwerp aan te maken
@@ -138,6 +140,7 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Filteren op de documentenpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670283-filteren-op-de-documentenpagina.md)
 - [Filteren op de goedkeuringspagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12495060-filteren-op-de-goedkeuringspagina.md)
 - [Filteren op de modellenpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12129622-filteren-op-de-modellenpagina.md)
+- [Filteren op de objectenpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12353642-filteren-op-de-objectenpagina.md)
 - [Filteren op de onderwerppagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8370693-filteren-op-de-onderwerpen-pagina.md)
 - [Filteren op de pagina goedkeuringen - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8551740-filteren-op-de-pagina-goedkeuringen-legacy.md)
 - [Filteren op de verzamelingenpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8999945-filteren-op-de-verzamelingenpagina.md)
@@ -153,6 +156,7 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Hoeveelheid opmeten (QTO)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/6673929-hoeveelheid-opmeten-qto.md)
 - [Hoofdmap ACL](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670292-hoofdmap-acl.md)
 - [Houd aantekeningen met markeringen bij](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/10210710-houd-aantekeningen-met-markeringen-bij.md)
+- [Hulpmiddelen voor documentvoorvertoning](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/11384618-hulpmiddelen-voor-documentvoorvertoning.md)
 - [IFC Export Archicad Handboek](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670338-ifc-archicad-exporteren-handleiding.md)
 - [Implementatie van Toegangsbeheer - Gebruiksscenario's](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/15644249-implementatie-van-toegangsbeheer-gebruiksscenario-s.md)
 - [Informatie bijhouden via koppelingen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8294909-informatie-bijhouden-via-koppelingen.md)
@@ -405,6 +409,7 @@ Vind de laatste Catenda updates
 - [Wat is er nieuw in Catenda Site?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7161448-wat-is-er-nieuw-in-catenda-site.md)
 - [Wijzigingslog 8 Catenda - maart 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/10288759-wijzigingslog-8-catenda-maart-2025.md)
 - [Wijzigingslogboek 4 Catenda - januari 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8433887-wijzigingslogboek-4-catenda-januari-2024.md): Nieuwe informatie en kleine wijzigingen
+- [Wijzigingslogboek 6 Catenda - augustus 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9285880-wijzigingslogboek-6-catenda-augustus-2024.md)
 - [🎉 Nieuwe API-documentatie 🎉](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9857242-nieuwe-api-documentatie.md)
 
 ## Probleemoplossingen
