@@ -4,7 +4,7 @@ Filterpanelet kan åpnes på godkjenningssiden ved å klikke på filterknappen t
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vcqjvqcc/01-intro.png)
 
-Denne artikkelen inneholder informasjon om følgende emner
+Denne artikkelen inneholder informasjon om følgende Saker
 
 ## 1. **Filtre**
 

@@ -5,7 +5,7 @@ Nach Auswahl des Projekts auf der [Projektseite](https://support.catenda.com/en/
 Auf dieser Seite können Sie den Status Ihrer Topics anzeigen, auswählen oder ändern, welche Issue Boards angezeigt werden sollen, und Topics filtern.
 
 1. Um Issue Boards zu ändern, wählen Sie ein Issue Board aus der Dropdown-Liste für Issue Boards aus
-2. Wählen Sie den Filter, den Sie verwenden möchten, um Ihre Topics anzuzeigen
+1. Wählen Sie den Filter, den Sie verwenden möchten, um Ihre Topics anzuzeigen
    - Offene Topics (das ausgewählte Issue Board)
    - Alle offenen Topics (alle Issue Boards)
    - Geschlossene Topics (das ausgewählte Issue Board)

@@ -12,7 +12,7 @@ Volg deze stappen om aan de slag te gaan met meten naar schuifvlakken.
 
 Schuifvlakken die kunnen worden gemeten zijn gedefinieerd in de IFC-modellen die beschikbaar zijn gesteld in het project. Als modellen met schuifvlakken beschikbaar zijn, wordt de [vervolgkeuzelijst voor schuifvlakken](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown) zichtbaar in de rechterbovenhoek van de [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) en kan er ongeveer zo uitzien:
 
-![Vervolgkeuzelijst voor schuifvlakken in de 3D-viewer](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/02-previewing-sliding-planes.png)
+![Schuifvlak-vervolgkeuzelijst in de 3D-viewer](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/02-previewing-sliding-planes.png)
 
 Bereid de schuifvlakken voor metingen voor door de vervolgkeuzelijst te openen en op de oogknop te klikken om de annotatielijnen van een rooster of een uitlijning in voorbeeld te bekijken.
 

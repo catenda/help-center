@@ -64,31 +64,31 @@ Den andre fanen lar deg få en oversikt over alle dokumenter som blir gjennomgå
 Tabellen viser:
 
 1. revisjonens navn
-2. revisjonsnummeret
-3. gjeldende vurderingstrinn
-4. gjeldende trinns tilstand
-5. fristen for trinnets vurdering
-6. teamene som fortsatt må vurdere dokumentet
-7. gjennomgangsforespørselens navn
-8. innsender (person og team)
-9. innsendingsdatoen
+1. revisjonsnummeret
+1. gjeldende vurderingstrinn
+1. gjeldende trinns tilstand
+1. fristen for trinnets vurdering
+1. teamene som fortsatt må vurdere dokumentet
+1. gjennomgangsforespørselens navn
+1. innsender (person og team)
+1. innsendingsdatoen
 
 ### 5.1 Filtrering
 
 Også tillater det venstre filterpanelet deg å filtrere dokumentene etter:
 
 1. Tilordning: alle team eller ditt team spesifikt
-2. Dokumenttilstand: Venter, Under vurdering, Fullført
-3. Frist: alle, kommende, forfalte
+1. Dokumenttilstand: Venter, Under vurdering, Fullført
+1. Frist: alle, kommende, forfalte
 
 ### 5.2 Sortering
 
 Til slutt kan du sortere etter:
 
 1. Revisjons navn
-2. Tilstand
-3. Frist
-4. Innsendingsdato
+1. Tilstand
+1. Frist
+1. Innsendingsdato
 
 ### 5.3 Søk
 

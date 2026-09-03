@@ -1,0 +1,3 @@
+# Kommentar in Themen bearbeiten - Kurzvideo
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/f6hq0mmk/01-intro.gif)

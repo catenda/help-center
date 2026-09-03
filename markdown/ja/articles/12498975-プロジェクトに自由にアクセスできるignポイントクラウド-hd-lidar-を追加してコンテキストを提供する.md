@@ -17,7 +17,7 @@
 ここからが本当に複雑になります！ポイントクラウドを変換するには、これら2つのオープンソースソフトウェアプログラムをインストールする必要があります。
 
 1. [Miniconda](https://docs.conda.io/en/latest/miniconda.html)は、フリーでオープンソースの[Anaconda](https://fr.wikipedia.org/wiki/Anaconda_(distribution_Python))配布版(PythonおよびRプログラミング言語)の軽量バージョンで、データサイエンスアプリケーションの開発に適用されます。
-2. [PDAL](https://pdal.io/en/2.9.2/)はポイントクラウドデータを処理するためのオープンソースライブラリです。ポイントクラウド用のVLCプレイヤーのようなものです ;)
+1. [PDAL](https://pdal.io/en/2.9.2/)はポイントクラウドデータを処理するためのオープンソースライブラリです。ポイントクラウド用のVLCプレイヤーのようなものです ;)
 
 実は、PDALを使用するにはAnacondaプロンプトが必要です。これが変換を行います。さあ、行きましょう 👇
 
@@ -27,13 +27,13 @@ PDALは他のライブラリに依存しているため、最も簡単な方法�
 
 1. 公式Minicondaダウンロードページにアクセスしてください。
    👉 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
-2. [ダウンロード](https://www.anaconda.com/download)して、**Windows用Minicondaインストーラ(64ビット、Python 3.x)。**
-3. インストーラーを起動します。
+1. [ダウンロード](https://www.anaconda.com/download)して、**Windows用Minicondaインストーラ(64ビット、Python 3.x)。**
+1. インストーラーを起動します。
    - ライセンス契約に同意します
    - 「私のみ」を選択します(推奨)
    - デフォルトのインストール場所を保持します
    - 「Miniconda3をPATHに追加」にチェックを入れます(オプションが提供されている場合)
-4. インストール後、Anacondaプロンプトを開きます(これはPDALの代わりにCMD/PowerShellの代わりに使用するウィンドウです)。
+1. インストール後、Anacondaプロンプトを開きます(これはPDALの代わりにCMD/PowerShellの代わりに使用するウィンドウです)。
 
 ### 2.2 **2.2. PDAL用のConda環境を作成**
 
@@ -94,9 +94,9 @@ pdal translate ^ "C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69
 🤓 このコマンドを詳しく見てみましょう。
 
 1. `pdal translate`は変換を実行するためのメインコマンドです。
-2. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz"`はIGNデータベースからダウンロードした`.laz`ファイルへのパスです。
-3. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz"`は、今後の`.las`ファイルが作成されるパスです。
-4. 再投影コマンド-`-filters.reprojection.in_srs="EPSG:2154" --filters.reprojection.out_srs="EPSG:3943"`を使用すると、ポイントクラウドをLambert-93 SCR(`EPSG:2154`)からCC43 SCR(`3943`)に再投影できます。
+1. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz"`はIGNデータベースからダウンロードした`.laz`ファイルへのパスです。
+1. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz"`は、今後の`.las`ファイルが作成されるパスです。
+1. 再投影コマンド-`-filters.reprojection.in_srs="EPSG:2154" --filters.reprojection.out_srs="EPSG:3943"`を使用すると、ポイントクラウドをLambert-93 SCR(`EPSG:2154`)からCC43 SCR(`3943`)に再投影できます。
 
 コマンドをコピーして、入力と出力のEPSGパスとコードを単純に置き換えてください。コマンドが実行されると、新しい.lasファイルがターゲットパスで指定された場所に生成されます。
 

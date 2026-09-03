@@ -16,7 +16,7 @@ Hvis du allerede har en konto i Catenda, vil du få følgende varsel.
 
 ### 1.2 Invitasjonse-post
 
-Hvis du ikke har en konto ennå, eller selv om du har e-postvarsler helt slått av, vil du motta en e-post med følgende emne:
+Hvis du ikke har en konto ennå, eller selv om du har varsler via e-post helt slått av, vil du bli sendt en e-post med følgende emne:
 
 > **Tips:** "(Navn på inviterende bruker) har invitert deg til (Catenda-prosjektet du er invitert til)."
 

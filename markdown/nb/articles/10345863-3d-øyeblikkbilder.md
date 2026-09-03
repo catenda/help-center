@@ -2,7 +2,7 @@
 
 Øyeblikkbilder beskriver et sted og tidspunkt i 3D. De kan brukes til å vise mennesker hva du ser, da de vil kunne gjenskape de samme visningene ikke bare innenfor Catenda Hub, men også i deres miljø. Øyeblikkbilder kan gjenskapes ved å spille dem både i Catenda Hub og i våre programtillegg.
 
-Dette er hvordan et øyeblikkbilde kan se ut i [kommentaren til en sak](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) eller i et [bokmerke](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e). <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-5a151da0b11e.png" width="272.72727272727275"/> Saken kan ha en merking øverst på bildet, og knappene ser annerledes ut. Eller øyeblikkbilder brukes på ulike måter i sakkommentarer og bokmerker, er deres funksjonalitet den samme.
+Slik kan et Øyeblikksbilde se ut i [kommentaren til en sak](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) eller i et [bokmerke](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e). <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-5a151da0b11e.png" width="272.72727272727275"/> Saken kan ha en merknad på toppen av bildet og knappene ser annerledes ut. Skjønt Øyeblikksbilder brukes på forskjellige måter i sakkommentarer og bokmerker, er funksjonaliteten deres den samme.
 
 ## 1. **Øyeblikksbildebilde**
 
@@ -92,11 +92,11 @@ I Catenda Hub vil øyblikksbildet flytte kameraet til riktig sted i viseren vår
 
 ### 3.1 **Gjenskap øyeblikkbilde med nyeste revisjoner**
 
-Bokmerke - Sakkommentar <p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-63d2b110333a.png" width="60"/> - <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a628f96ebc54.png" width="104.55445544554455"/></p> Gjenskap øyblikksbildet med de nyeste revisjonene av modellene og dokumentene som er konfigurert i øyblikksbildet. Hvis nye revisjoner av modellene eller filene som er en del av bokmerket blir lastet opp, kan den resulterende visningen i 3D-viseren se litt annerledes ut enn på bildet. Hvis bokmerket har noen delte revisjoner, vil den seneste publiserte revisjonen bli vist.
+Bokmerke - Sakkommentar <p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-63d2b110333a.png" width="60"/> - <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a628f96ebc54.png" width="104.55445544554455"/></p> Gjenopprett Øyeblikksbildet med de nyeste versjonene av modellene og dokumentene som er konfigurert i Øyeblikksbildet. Hvis nye versjoner av modellene eller filene som er en del av bokmerket lastes opp, kan det resulterende bildet i 3D-visningen se litt annerledes ut enn på bildet. Hvis bokmerket har delte versjoner, vises den nyeste publiserte versjonen.
 
 ### 3.2 **Gjenskap øyeblikkbilde med originale revisjoner**
 
-Bokmerke - Sakkommentar <p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-127de38bdf57.png" width="60"/> - <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-244412c15b6d.png" width="104.72727272727272"/></p> Øyblikksbildet vil bli gjenskap med modell- og dokumentrevisjoner som ble konfigurert da øyblikksbildet ble opprettet. Både publiserte og delte revisjoner av modeller og dokumenter vil bli vist med dette alternativet.
+Bokmerke - Sakkommentar <p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-127de38bdf57.png" width="60"/> - <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-244412c15b6d.png" width="104.72727272727272"/></p> Øyeblikksbildet gjenopprettes med modell- og dokumentversjonene som ble konfigurert da Øyeblikksbildet ble opprettet. Både publiserte og delte versjoner av modeller og dokumenter vises med dette alternativet.
 
 ## 4. **Kopiere og favorisering av øyeblikkbilder**
 
@@ -144,7 +144,7 @@ _Oppdater sakkommentaröyeblikkbilde_
 
 Modellknappen viser hvor mange Catenda-modeller som er knyttet til øyblikksbildet. Mens det er mulig å redigere teksten i en kommentar, er det ikke mulig å endre eller fjerne bildevedlegget fra en kommentar uten å slette hele kommentaren. Det du kan gjøre, er å endre hvilke modeller som skal være aktivert når saken gjenskapas. _Nødvendig tilgang:_ Prosjektadministrator
 
-Når et BCF-emne importeres, sammenlignes IDene til modellene i prosjektet med IDene til modellene som er konfigurert i øyblikksbildet. Bare modellene med IDer som er til stede på importtidspunktet, blir lastet inn i 3D-viseren når øyblikksbildet gjenskapas.
+Når en BCF-sak importeres, sammenlignes IDene til modellene i prosjektet med IDene til modellene som er konfigurert i øyeblikksbildet. Bare modellene med IDer som er tilstede på importtidspunktet, vil bli lastet inn i 3D-visningen når øyeblikksbildet gjenopprettes.
 
 Hvis to modeller har samme ID, aktiveres bare den første. For å sikre at de riktige modellene blir aktivert, er det viktig at de hver har sin egen ID. Hvis du eksporterer flere filer fra forfatteringsprogramvaren din, kan det være en god idé å bruke en unik ID for hver annen modell du ønsker å eksportere til. Her er en artikkel fra BuildingSMART som beskriver hvordan dette gjøres i Revit [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/) Pass på å holde styr på hvilken ID du brukte for hvilken modell, slik at fremtidige saker som blir opprettet, gjenkjenner det.
 
@@ -170,7 +170,7 @@ _Lastmodeller_ Last modellene fra øyblikksbildet i tillegg til modellene som al
 
 ### 7.1 **Tilgang til sakkommentaröyeblikkbilde**
 
-Medlemmer med lesetilgang til sakstavlen vil kunne se øyblikksbildet. Eksport av sakpdf vil inkludere øyblikksbildebildet. Eksport av sakbcf vil inkludere øyblikksbildebildet og konfigurasjonen.
+Medlemmer med lesetilgang til sakslisten vil kunne se øyeblikksbildet. Sakseksport til PDF vil inkludere øyeblikksbildet. Sakseksport til BCF vil inkludere øyeblikksbildet og konfigurasjonen.
 
 ### 7.2 **Delingsinstillinger for bokmerker**
 
@@ -200,9 +200,9 @@ Hvis en [offentlig lenke](https://support.catenda.com/en/articles/8471481-bookma
 
 Et øyeblikkbilde som er vedlagt en sakkommentar, kan ikke slettes fra kommentaren. For å fjerne øyblikksbildet fra en av dine kommentarer, må du slette hele kommentaren. _Nødvendig tilgang:_ Kommentaroppretters
 
-For å fjerne øyblikksbildet i en kommentar opprettet av noen andre, må saken flyttes til en arkivert sakstavle. _Nødvendig tilgang:_ Prosjektadministrator
+For å fjerne øyeblikksbildet i en kommentar opprettet av andre, må saken flyttes til en arkivert saksliste. _Påkrevd tilgang:_ Prosjektadministrator
 
-Eller saken kan slettes. _Nødvendig tilgang:_ Full tilgang til sakstavlen
+Eller saken kan slettes. _Påkrevd tilgang:_ Full tilgang til sakslisten
 
 ### 9.2 **Sletting av bokmerkeøyeblikkbilde**
 

@@ -1,6 +1,6 @@
 # Changelog 13 Catenda - August 2026
 
-> Catenda-Produktaktualisierungen: Erkunden Sie die neue Kanban-Ansicht für Topics, verbesserte Approval Workflows, Catenda AI Connect und Datenexport. Umfasst behobene Fehler, neue Tutorial-Videos und aktualisierte Support-Dokumentation.
+> Catenda-Produktaktualisierungen: neue Kanban-Ansicht für Topics, verbesserte Approval Workflows, Catenda AI Connect und Datenexport. Mit behobenen Fehlern, neuen Tutorial-Videos und aktualisierter Dokumentation für Modelle, Dokumente und Topics.
 
 Hallo zusammen,
 

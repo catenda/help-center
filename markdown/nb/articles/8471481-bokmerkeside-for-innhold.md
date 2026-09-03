@@ -88,7 +88,7 @@ _Øye_ Klikk på øyet koblet til knappen Skriv ut QR-lenke for å vise QR-koden
 
 _Utløpsdato_ Mot bunnen av menyen vises utløpsdatoen. Hvis ingen utløpsdato er satt, står det Delt lenke utløper ikke. Etter at utløpsdatoen har passert, vil knappene i denne menyen forsvinne og det vil stå Lenken er utløpt sammen med datoen da den utløp. En utløpt lenke kan se slik ut:
 
-![Offentlig URL-deling Rediger deling Lenken er utløpt](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/07-public-url-sharing.png)
+![Offentlig URL-deling Rediger deling Lenke er utløpt](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/07-public-url-sharing.png)
 
 _Deaktivering av offentlig deling_ Organisasjonseiere kan be om at alle offentlige delefunksjoner slås av for alle prosjektene deres. Noen prosjekter krever dette av sikkerhetsgrunner. Hvis du vil slå av alle offentlige delefunksjoner, kontakt du oss ved hjelp av den sorte chat-knappen ved siden av profilbildet ditt øverst til høyre, eller via [support@catenda.com](mailto:support@catenda.com)
 

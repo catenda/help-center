@@ -147,8 +147,8 @@ _`Nettverksbanen ble ikke funnet`_ `<Path> er ikke tilgjengelig som så lenken e
 Opprett mappen på nytt manuelt Hvis mappen forblir "fast" selv etter en omstart:
 
 1. Gi den problematiske mappen nytt navn (f.eks. gi nytt navn til `ProjectData` til `ProjectData_OLD`).
-2. Opprett en helt ny mappe med det opprinnelige navnet (`ProjectData`).
-3. Desktop Connector vil oppdage den nye, sunne mappen og gjenoppta normal drift uten suffiks `_restricted`.
+1. Opprett en helt ny mappe med det opprinnelige navnet (`ProjectData`).
+1. Desktop Connector vil oppdage den nye, sunne mappen og gjenoppta normal drift uten suffiks `_restricted`.
 
 _Koble til maskinvaren eller nettverket på nytt_ Gå til "Denne PC-en" og sikre at nettverksstasjonene dine (som `Z:`) er aktive. Kontroller at eksterne USB-enheter eller harddisker er riktig tilkoblet. Hvis de har en rød X, dobbeltklikker du dem for å koble til igjen. Hvis nettverksstasjonen ikke er aktiv og du vet hvilket nettverk stasjonen er på, kobler du til nettverket igjen enten ved å koble i en kabel, knytte til via Wi-Fi, eller når du bruker et VPN, sjekker du at VPN-en er aktiv. Hvis stasjonen ikke lenger er tilgjengelig, velger du en annen målmappe i Desktop Connector som er tilgjengelig enten på den lokale datamaskinen eller på nettverket.
 

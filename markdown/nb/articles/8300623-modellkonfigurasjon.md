@@ -1,0 +1,7 @@
+# Modellkonfigurasjon
+
+Modeller kan ses som beholdere for IFC-filrevisjoner, på samme måte som dokumenter er beholdere for filer. Forskjellen mellom en modell og et dokument er at innholdet i en IFC-fil i en modell vil bli fullstendig behandlet med alle ID-er, data knyttet til objekter og vil ha en generert 2D-plan per etasje. Brukere har ofte en eller flere modeller per fagfelt. Modeller kan åpnes og konfigureres på [modellerssiden](https://support.catenda.com/en/articles/4670270-model-overview-page) i innholdspanelet. De kan også ses i revisjonsvalgeren i 3D-viserpanelet for en rask måte å slå dem på og av uten å åpne innholdspanelet.
+
+## 1. Tillate brukere å opprette modeller
+
+Administratorer kan opprette modeller, men noen ganger ønsker du å tillate modellørene selv å opprette nye modeller uten nødvendigvis å se alle dokumenter. I dette tilfellet kan du tillate noen å opprette modeller i [prosjektinnstillinger](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3). Hvis du har fått tilgang til å opprette modeller i prosjektinnstillinger, kan du opprette og slette dem ved å klikke på [ny modell-knapp](https://support.catenda.com/en/articles/4670270-model-overview-page#h_0c6f0e7347) øverst til høyre og de tre prikkene ved siden av eksporter og deretter [slett modell](https://support.catenda.com/en/articles/4670270-model-overview-page#h_0c6f0e7347).

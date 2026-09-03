@@ -10,7 +10,7 @@ For å bruke et Catenda-prosjekt i Catenda Site uten tilkobling til nettverket, 
 
 ## 2. Saker synkroniseres ikke
 
-Hvis det er gjort endringer i Catenda Site som ikke vises i andre økter, må de sannsynligvis sendes inn i [utboksen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#h_ff2a47f221) øverst til høyre på sakstavlen.
+Hvis endringer er gjort på Catenda Site som ikke vises i andre økter, må de sannsynligvis fremdeles sendes inn i [utboksen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#h_ff2a47f221) øverst til høyre på saklisten.
 
 ## 3. MFA-kode påkrevd
 

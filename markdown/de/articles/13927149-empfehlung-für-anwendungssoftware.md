@@ -7,8 +7,8 @@ Bitte überprüfen Sie, ob Sie Browser-Erweiterungen oder andere Programme haben
 **Bester Browser nach Speichernutzung unter Windows (März 2026):**
 
 1. Firefox
-2. Chrome
-3. Microsoft Edge
+1. Chrome
+1. Microsoft Edge
 
 ### 1.1 **Zoomfaktor**
 

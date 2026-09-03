@@ -69,7 +69,7 @@ Die Sichtbarkeit von Markierungen kann an den folgenden Standorten konfiguriert 
 
 In diesem Menü kann auch der Markierungsfarbmodus konfiguriert werden. ([Status, Thementyp, Fälligkeitsdatum](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
 
-2. Im Schichtmenü kann die Markierungsschicht aktiviert/deaktiviert werden.
+1. Im Schichtmenü kann die Markierungsschicht aktiviert/deaktiviert werden.
 
 ## 2. **Themen mit neuen Markierungen**
 

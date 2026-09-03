@@ -15,7 +15,7 @@ Das ist der einfachste Schritt! Laden Sie die Punktwolken-Kachel herunter, die d
 Hier wird es knifflig! Um Ihre Punktwolke zu transformieren, müssen Sie diese zwei Open-Source-Softwareprogramme installieren:
 
 1. [Miniconda](https://docs.conda.io/en/latest/miniconda.html) ist eine einfache Version der kostenlosen und quelloffenen [Anaconda](https://fr.wikipedia.org/wiki/Anaconda_(distribution_Python))-Distribution der Programmiersprachen Python und R, angewendet auf die Entwicklung von Data-Science-Anwendungen.
-2. [PDAL](https://pdal.io/en/2.9.2/) ist eine quelloffene Bibliothek für die Verarbeitung von Punktwolken-Daten. Es ist ein bisschen wie ein VLC-Player für Punktwolken ;)
+1. [PDAL](https://pdal.io/en/2.9.2/) ist eine quelloffene Bibliothek für die Verarbeitung von Punktwolken-Daten. Es ist ein bisschen wie ein VLC-Player für Punktwolken ;)
 
 Eigentlich brauchen wir die Anaconda-Eingabeaufforderung, um PDAL zu verwenden, das sich um die Transformation kümmert. Lasst uns gehen 👇
 
@@ -25,13 +25,13 @@ PDAL ist von anderen Bibliotheken abhängig, daher ist die einfachste Methode di
 
 1. Gehen Sie zur offiziellen Miniconda-Download-Seite:
    👉 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
-2. [Laden Sie das **Miniconda-Installationsprogramm für Windows (64-Bit, Python 3.x).** herunter](https://www.anaconda.com/download)
-3. Starten Sie das Installationsprogramm:
+1. [Laden Sie das **Miniconda-Installationsprogramm für Windows (64-Bit, Python 3.x).** herunter](https://www.anaconda.com/download)
+1. Starten Sie das Installationsprogramm:
    - Akzeptieren Sie die Lizenzvereinbarung
    - Wählen Sie "Nur für mich" (empfohlen)
    - Behalten Sie den standardmäßigen Installationsort bei
    - Aktivieren Sie "Miniconda3 zu PATH hinzufügen", falls diese Option angeboten wird
-4. Öffnen Sie nach der Installation die Anaconda-Eingabeaufforderung (dies ist das Fenster, das Sie anstelle von CMD/PowerShell für PDAL verwenden werden).
+1. Öffnen Sie nach der Installation die Anaconda-Eingabeaufforderung (dies ist das Fenster, das Sie anstelle von CMD/PowerShell für PDAL verwenden werden).
 
 ### 2.2 **2.2. Erstellen Sie eine Conda-Umgebung für PDAL**
 
@@ -92,9 +92,9 @@ pdal translate ^ "C:\\Users\\USERNAME\\Downloads\\LHD_FXX_0766_6282_PTS_LAMB93_I
 🤓 Lassen Sie uns diesen Befehl aufschlüsseln:
 
 1. `pdal translate` ist der Hauptbefehl zur Durchführung der Transformation.
-2. `"C:\\Users\\USERNAME\\Downloads\\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz"` ist der Pfad zur `.laz`-Datei, die aus der IGN-Datenbank heruntergeladen wurde.
-3. `"C:\\Users\\USERNAME\\Downloads\\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz`" ist der Pfad, in dem die zukünftige `.las`-Datei erstellt wird.
-4. Der Reprojektion-Befehl `-`--filters.reprojection.in_srs="EPSG:2154" --filters.reprojection.out_srs="EPSG:3943"` ermöglicht es Ihnen, die Punktwolke vom Lambert-93-SCR (`EPSG:2154`) zum CC43-SCR (`3943\`) umzuprojizieren
+1. `"C:\\Users\\USERNAME\\Downloads\\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz"` ist der Pfad zur `.laz`-Datei, die aus der IGN-Datenbank heruntergeladen wurde.
+1. `"C:\\Users\\USERNAME\\Downloads\\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz`" ist der Pfad, in dem die zukünftige `.las`-Datei erstellt wird.
+1. Der Reprojektion-Befehl `-`--filters.reprojection.in_srs="EPSG:2154" --filters.reprojection.out_srs="EPSG:3943"` ermöglicht es Ihnen, die Punktwolke vom Lambert-93-SCR (`EPSG:2154`) zum CC43-SCR (`3943\`) umzuprojizieren
 
 Kopieren Sie den Befehl und ersetzen Sie einfach die EPSG-Pfade und -Codes in Ein- und Ausgang. Nach der Ausführung des Befehls wird Ihre neue .las-Datei im angegebenen Zielort generiert.
 

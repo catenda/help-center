@@ -1,169 +1,169 @@
-# Innstillinger for sakstavle
+# Innstillinger for saksliste
 
-For å åpne innstillingssiden for sakstavle, åpner du først [sakssiden](https://support.catenda.com/en/articles/4670271-topics-page).
+For å åpne siden for innstillinger for saksliste, må du først åpne [saker-siden](https://support.catenda.com/en/articles/4670271-topics-page).
 
-Innstillingssiden for en sakstavle finner du ved å klikke på innstillinger for en sakstavle på [tavlersiden](https://support.catenda.com/en/articles/9413644-boards-page), som kan se slik ut:
+Innstillingssiden for en saksliste kan finnes ved å klikke på innstillinger for en saksliste på [tavler-siden](https://support.catenda.com/en/articles/9413644-boards-page), som kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/01-intro.png)
 
-Innstillingssiden for sakstavle for den sist besøkte sakstavlen finner du også ved å gå til [sakinnstillingssiden](https://support.catenda.com/en/articles/14183429-topic-settings-page) og klikke på innstillinger for sakstavle.
+Innstillingssiden for saksliste for den sist besøkte sakslisten kan også finnes ved å gå til [sak-innstillingssiden](https://support.catenda.com/en/articles/14183429-topic-settings-page) og klikke på innstillinger for saksliste.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/02-intro.png)
 
-Du kan finne innstillingssiden for sakstavle som en underside til [sakssiden](https://support.catenda.com/en/articles/4670271-topics-page) eller ved å klikke på innstillinger for den aktuelle sakstavlen på [tavlersiden](https://support.catenda.com/en/articles/9413644-boards-page#h_e0fc8beec6). _Nødvendig tilgang:_ Full tilgang til [sakstavlen](https://support.catenda.com/en/articles/4670271-topics-page)
+Du kan finne innstillingssiden for saksliste som en underside til [saker-siden](https://support.catenda.com/en/articles/4670271-topics-page) eller ved å klikke på innstillinger for den aktuelle sakslisten på [tavler-siden](https://support.catenda.com/en/articles/9413644-boards-page#h_e0fc8beec6). _Påkrevd tilgang:_ Full tilgang til [sakslisten](https://support.catenda.com/en/articles/4670271-topics-page)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/03-intro.png)
 
-Slik kan innstillingssiden for sakstavle se ut med alle menyene lukket.
+Dette er hvordan innstillingssiden for saksliste kan se ut med alle menyene lukket.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/04-intro.png)
 
 ## 1. **Handlingsmeny**
 
-Slik kan handlingsmenyen i øverste høyre hjørne i en sakstavle se ut:
+Dette er hvordan handlingsmenyen mot øvre høyre hjørne i en saksliste kan se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/05-action-menu.png)
 
 ### 1.1 **Ny sak**
 
-Klikk på den grønne plusknappen eller klikk på handlingen "ny sak" i handlingsmenyen for å lage en [ny sak](https://support.catenda.com/en/articles/4670268-creating-a-new-issue) i den gjeldende sakstavlen. _Nødvendig tilgang:_ Lesestilgang til den gjeldende sakstavlen.
+Klikk på den grønne plusknappen eller klikk på handlingen for ny sak i handlingsmenyen for å opprette en [ny sak](https://support.catenda.com/en/articles/4670268-creating-a-new-issue) i den gjeldende sakslisten. _Påkrevd tilgang:_ Lesetilgang til den gjeldende sakslisten.
 
-### 1.2 **Bytt saker**
+### 1.2 **Utveksle saker**
 
-Klikk på denne knappen for å [bytte saker](https://support.catenda.com/en/articles/4670289-exchange-issues)
+Klikk denne knappen for å [utveksle saker](https://support.catenda.com/en/articles/4670289-exchange-issues)
 
-### 1.3 **Ny sakstavle**
+### 1.3 **Ny saksliste**
 
-Klikk på denne knappen for å lage en [ny sakstavle](https://support.catenda.com/en/articles/6379614-topic-board-from-an-existing-topic-board).
+Klikk denne knappen for å lage en [ny saksliste](https://support.catenda.com/en/articles/6379614-topic-board-from-an-existing-topic-board).
 
 ### 1.4 **Historikk**
 
 _Importhistorikk_ - Se importhistorikken for saker i prosjektet _Eksporthistorikk_ - Se eksporthistorikken for saker i prosjektet _Flytthistorikk_ - Se flytthistorikken for saker i prosjektet
 
-### 1.5 **Arkiver sakstavle**
+### 1.5 **Arkiver saksliste**
 
-Du kan ikke slette en sakstavle i Catenda Hub. I stedet kan du "arkivere" den slik at den ikke vises lenger. Lenker til saker i arkiverte sakstavler vil ikke være synlige i dokumenter eller objekter. Arkiverte sakstavler kan gjenopprettes ved å gå til innstillinger for den arkiverte tavlen på [tavlersiden](https://support.catenda.com/en/articles/9413644-boards-page). Etter at tavlen er gjenopprettet, vil lenkene være synlige igjen.
+Du kan ikke slette en saksliste i Catenda Hub. I stedet kan du "arkivere" den slik at den ikke vises lenger. Lenker til saker i arkiverte sakslister vil ikke være synlige i dokumenter eller objekter. Arkiverte sakslister kan gjenopprettes ved å gå til innstillingene for den arkiverte tavlen på [tavler-siden](https://support.catenda.com/en/articles/9413644-boards-page). Etter gjenoppretting av en tavle vil lenkene være synlige igjen.
 
-> **Merk:** Du kan se sakene i en arkivert sakstavle ved å klikke på "sakstavler". Nederst i listen kan du velge "Vis arkivert".
+> **Merk:** Du kan se sakene i en arkivert saksliste ved å klikke på "sakslister". Nederst på denne listen kan du velge "Vis arkivert".
 
-## 2. **Sakstavlinformasjon**
+## 2. **Informasjon om saksliste**
 
-_Navn på sakstavle_ - Endre navn på sakstavlen _Eier_ - Se hvem som opprettet sakstavlen
+_Navn på saksliste_ - Endre navn på sakslisten _Eier_ - Se hvem som opprettet sakslisten
 
-_Beskrivelse_ Kort beskrivelse som kun vil være synlig her, slik at du og andre som konfigurerer tavlen vet hva den brukes til.
+_Beskrivelse_ Kort beskrivelse som bare vil bli sett her, slik at du og andre som konfigurerer tavlen vet hva den brukes til.
 
 ## 3. **Statuser og typer**
 
 ### 3.1 **Lås statuser og typer for BCF 1.0-kompatibilitet**
 
-BCF 1.0 støtter kun 2 statuser ("Åpen" og "Lukket") og 4 typer ("Feil", "Advarsel", "Info" og "Ukjent"). Det er ikke mulig å endre statuser eller typer på sakstavler der dette alternativet er valgt.
+BCF 1.0 støtter kun 2 statuser ("Åpen" og "Lukket") og 4 typer ("Feil", "Advarsel", "Info" og "Ukjent"). Det er ikke mulig å endre statuser eller typer på sakslister der dette valget er valgt.
 
 ### 3.2 **Status**
 
-Når du oppretter en sakstavle, vil du ha følgende standardstatuser:
+Når du opprettet en saksliste, vil du ha følgende standardstatuser:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/06-status.png)
 
-En status har en _Navn, Farge og Metastatus_. Som standard er det tre statuser med åpen metastatus og to med lukket metastatus.
+En status har _Navn, Farge og Meta-status._ Som standard er det tre statuser som har en åpen og to som har en lukket meta-status.
 
-_Legg til status_ - Klikk på teksten "legg til status" nederst i statuslisten for å legge til en ny status.
+_Legg til status_ - Klikk på teksten for å legge til status nederst i statuslisten for å legge til en ny status.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/07-status.png)
 
-_Rediger status_ Når du redigerer en status, vil du merke at du kan tilordne en tredje metastatus kalt Kandidat.
+_Rediger status_ Når du redigerer en status, vil du legge merke til at du kan tilordne en tredje meta-status kalt Kandidat.
 
 _Farge_ - Endre fargen på statusen.
 
-_Piler_ Endre rekkefølgen på en status ved å bruke pilene til å flytte den opp eller ned i listen. Den øverste statusen blir standardstatusen når du oppretter en ny sak. Rekkefølgen på statusene vil også være rekkefølgen som statusene vises i rullegardinlisten når du endrer statusen for en sak.
+_Piler_ Endre rekkefølgen på en status ved å bruke pilene for å flytte den opp eller ned i listen. Topp-statusen vil være standardstatusen når du oppretter en ny sak. Rekkefølgen på statusene vil også være rekkefølgen som statusene vil vises i rullegardinlisten når du endrer statusen på en sak.
 
-_Slett_ Du kan også slette statuser her ned til minimum 1 åpen og 1 lukket status.
+_Slett_ Du kan også slette statuser her ned til et minimum på 1 åpen og 1 lukket status.
 
-### 3.3 **Metastatus**
+### 3.3 **Meta-status**
 
-Metastatuser gir en generell ide om hvor i arbeidsflyten statusen på en sak er. _Åpen_ - Saker med denne metastatusen vises som standard når du åpner en sakstavle. _Lukket_ - Saker med denne metastatusen er skjult som standard når du åpner en sakstavle.
+Meta-statuser gir en generell ide om hvor i arbeidsflyten statusen på en sak er. _Åpen_ - Saker med denne meta-statusen vises som standard når du åpner en saksliste. _Lukket -_ Saker med denne meta-statusen er skjult som standard når du åpner en saksliste.
 
-> **Merk:** Du kan konfigurere hvem som har lov til å endre statusen på en sak med åpen metastatus til en status med lukket metastatus i [tilgangskontrollseksjonen](#h_82063f7a79).
+> **Merk:** Du kan konfigurere hvem som har tillatelse til å endre statusen på en sak med en åpen meta-status til en status med en lukket meta-status i [tilgangsstyringsdelen](#h_82063f7a79).
 
-_Kandidat_ Saker med en kandidat-metastatus er også skjult som standard. Denne statusen er ment for saker som verken er åpne eller lukket. Kandidat-metastatusen er ment for å la folk vite at en sak ikke helt er ferdig utkastet ennå, så den er ikke åpen ennå. I flyten er det derfor ment å komme før åpen. Imidlertid bruker folk også denne statusen for saker som har falt utenfor den vanlige flyten. Som en sak som ikke er ferdig og derfor lukket, men bare ikke lenger er relevant. Folk vil ikke se det i listen som standard og bruker derfor denne metastatusen.
+_Kandidat_ Saker med en kandidat meta-status er også skjult som standard. Denne statusen er ment for saker som verken er åpne eller lukket. Kandidat meta-statusen er ment for å la folk vite at en sak ikke er helt ferdig utdannet ennå, så den er ikke åpen ennå. I arbeidsflyten er den derfor ment å komme før åpen. Imidlertid bruker noen mennesker også denne statusen for saker som har falt utenfor den vanlige arbeidsflyten. Som en sak som ikke er ferdig og derfor lukket, men bare ikke lenger relevant. Folk vil ikke se det i listen som standard og bruker derfor denne meta-statusen.
 
-Minimumsmengden av statuser er en åpen status og en lukket status.
+Minimumsantallet statuser er en åpen status og en lukket status.
 
 ### 3.4 **Type**
 
-Når du oppretter en sakstavle, vil du ha følgende standardtyper:
+Når du opprettet en saksliste, vil du ha følgende standardtyper:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/08-type.png)
 
-Typer konfigureres på samme måte som statuser, bortsett fra at de ikke har metastatuser og du kan slette ned til minimum 1 type.
+Typer er konfigurert på samme måte som statuser bortsett fra at de ikke har meta-statuser, og du kan slette ned til et minimum på 1 type.
 
 ## 4. **Egendefinerte felt**
 
-I denne menyen vil du kunne legge til og endre egendefinerte felt i denne sakstavlen. _Nødvendig tilgang:_ Full tilgang til sakstavlen. Egendefinerte felt kan konfigureres på [siden for egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup). _Nødvendig tilgang:_ Prosjektadministrator
+I denne menyen kan du legge til og endre egendefinerte felt i denne sakslisten. _Påkrevd tilgang:_ Full tilgang til sakslisten Egendefinerte felt kan konfigureres på [siden for egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup). _Påkrevd tilgang:_ Prosjektadministrator
 
 ### 4.1 **Legg til egendefinert felt**
 
-Du kan legge til et egendefinert felt ved å klikke på den grønne knappen "Legg til et egendefinert felt".
+Du kan legge til et egendefinert felt ved å klikke på den grønne knappen Legg til et egendefinert felt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/09-add-custom-field.png)
 
-Etter å ha klikket på knappen, vil du kunne velge ditt egendefinerte felt i dialogen "legg til egendefinert felt".
+Etter å ha klikket på knappen, kan du velge ditt egendefinerte felt i dialogboksen for å legge til et egendefinert felt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/10-add-custom-field.png)
 
-_Velg et egendefinert felt_ Følgende typer egendefinerte felt kan gjøres tilgjengelig for en sakstavle: Dato Desimal Rullegardin Heltall Tekst
+_Velg et egendefinert felt_ Følgende typer egendefinerte felt kan gjøres tilgjengelige for en saksliste: Dato Desimal Rullegardin Heltall Tekst
 
-_Merk som obligatorisk_ Ja eller nei. Hvis det egendefinerte feltet er merket som obligatorisk, vil ikke brukerne kunne sende inn en sak uten å fylle ut dette egendefinerte feltet.
+_Merk som påkrevd_ Ja eller nei Hvis det egendefinerte feltet er satt som påkrevd, vil ikke brukerne kunne sende inn en sak uten å fylle ut dette egendefinerte feltet.
 
-_Angi standardverdi_ Standardverdi for din egendefinerte felttype. Standardverdien er obligatorisk når det egendefinerte feltet er merket som obligatorisk.
+_Angi standardverdi_ Standardverdi for din egendefinerte felttype. Standardverdien er obligatorisk når det egendefinerte feltet er merket som påkrevd.
 
-Husk å klikke på legge til når du er ferdig.
+Husk å klikke legg til når du er ferdig.
 
-> **Merk:** Det er mulig å legge til opptil 30 egendefinerte felt per sakstavle.
+> **Merk:** Det er mulig å legge til opptil 30 egendefinerte felt per saksliste.
 
 ### 4.2 **Endre egendefinerte felt**
 
-Ved å klikke på et egendefinert felt som har blitt lagt til, vil du kunne konfigurere innstillingene.
+Ved å klikke på et egendefinert felt som er lagt til, kan du konfigurere innstillingene.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/11-modifying-custom-fields.png)
 
-_Merk som obligatorisk_ Ja eller nei. Hvis det egendefinerte feltet er merket som obligatorisk, vil ikke brukerne kunne sende inn en sak uten å fylle ut dette egendefinerte feltet.
+_Merk som påkrevd_ Ja eller nei Hvis det egendefinerte feltet er satt som påkrevd, vil ikke brukerne kunne sende inn en sak uten å fylle ut dette egendefinerte feltet.
 
-_Angi standardverdi_ Standardverdi for din egendefinerte felttype. Standardverdien er obligatorisk når det egendefinerte feltet er merket som obligatorisk.
+_Angi standardverdi_ Standardverdi for din egendefinerte felttype. Standardverdien er obligatorisk når det egendefinerte feltet er merket som påkrevd.
 
-_Fjern fra sakstavle_ Klikk på knappen "fjern fra sakstavle" for å fjerne dette egendefinerte feltet fra sakstavlen.
+_Fjern fra saksliste_ Klikk knappen Fjern fra saksliste for å fjerne dette egendefinerte feltet fra sakslisten.
 
-Husk å klikke på send.
+Husk å klikke send.
 
-## 5. **Tilgangskontroll**
+## 5. **Tilgangsstyring**
 
-Brukere vil kunne se en oversikt over hvilke lag og brukere som har hvilken tilgang til denne sakstavlen. Hvis alle brukere har tilgang til å opprette sakstavler, vil låsen være grønn. Hvis tilgang er satt for opprettelsen av sakstavler i prosjektinnstillinger, vil låsen være oransje.
+Brukerne vil kunne se en oversikt over hvilke teams og brukere som har hvilken tilgang til denne sakslisten. Hvis alle brukere har tilgang til å opprette sakslister, vil låsen være grønn. Hvis tilgang har blitt angitt for opprettelsen av sakslister i prosjektinnstillinger, vil låsen være oransje.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/12-access-control.png)
 
 ### 5.1 **Rediger tilgang**
 
-Klikk på "rediger tilgang" for å konfigurere tilgangen for denne sakstavlen. Du kan lese mer om redigering av tilgang [her](https://support.catenda.com/en/articles/4670296-issue-boards-acl). _Nødvendig tilgang:_ Full tilgang til sakstavlen.
+Klikk på "rediger tilgang" for å konfigurere tilgangen for denne sakslisten. Du kan lese mer om redigering av tilgang [her](https://support.catenda.com/en/articles/4670296-issue-boards-acl). _Påkrevd tilgang:_ Full tilgang til sakslisten.
 
-## 6. **Ulenket felt**
+## 6. **Ukoblede felter**
 
-Saker som er lagt inn i en sakstavle med felt som ikke finnes i sakstavlen, er skjult i sakstabellen som standard.
+Saker som legges inn i en saksliste med felt som ikke finnes i sakslisten, er skjult i sakstabellen som standard.
 
-En oransje stolpe vises deretter øverst i sakstabellen som sier at det er ulenket felt i sakstavlen. _Nødvendig tilgang:_ Administrator
+En oransje stolpe vises deretter mot toppen av sakstabellen som sier at det finnes ukoblede felt i sakslisten. _Påkrevd tilgang:_ Administrator
 
-For at saker som inneholder felt med verdier som ikke finnes i sakstavlen, skal vises i sakstabellen, må feltene være lenket til noe som finnes i sakstavlen.
+For at saker som inneholder felt med verdier som ikke finnes i sakslisten, skal vises i sakstabellen, må feltene kobles til noe som finnes i sakslisten.
 
 ### 6.1 **Felt med verdier som ikke finnes**
 
-Eksempler på felt med verdier som kanskje ikke finnes i en sakstavle, er:
+Eksempler på felt med verdier som kanskje ikke finnes i en saksliste er:
 
-_Status eller type_ For at en sak skal vises i sakstabellen, må den ha en status og en type med en GUID som samsvarer med en GUID for en status og en type som er konfigurert for en sakstavle. Selv om navnene på statusene og typene er de samme i ulike sakstavler, hvis saken flyttes fra en tavle til en annen, vil status/type være ulenket fordi GUID for en status/type er unik for hver sakstavle.
+_Status eller type_ For at en sak skal vises i sakstabellen, må den ha en status og type med en GUID som samsvarer med en GUID for en status og type som er konfigurert for en saksliste. Selv om navnene på statuser og typer er de samme i forskjellige sakslister, hvis saken flyttes fra en tavle til en annen, vil statusen/typen være ukoblet fordi GUID for en status/type er unik for hver saksliste.
 
-_Medlemmer_ For at en sak skal vises i sakstabellen, må alle medlemmer som er en del av saken finnes i prosjektet. Følgende felt kan inneholde medlemmer i en sak: Tildelt bruker Etterspurt av bruker Kommenterer bruker
+_Medlemmer_ For at en sak skal vises i sakstabellen, må alle medlemmer som er del av saken, finnes i prosjektet. Følgende felt kan inneholde medlemmer i en sak: Tildelt bruker Bruker som ber om det Bruker som kommenterer
 
-### 6.2 **Lenke felt**
+### 6.2 **Koble felter**
 
-Ofte importeres flere saker samtidig. For at ikke hvert enkelt felt må endres til en eksisterende verdi, er det mulig å kartlegge alle felt fra ett tidspunkt til en eksisterende verdi i sakstavlen.
+Ofte importeres flere saker samtidig. For å gjøre det slik at ikke hvert enkelt felt må endres til en eksisterende verdi, er det mulig å kartlegge alle felt av en gang til en eksisterende verdi i sakslisten.
 
-_Status eller type_ For hver status og type som ikke finnes i sakstavlen, velger du en eksisterende status eller type. Den ulenket status eller type kan ha samme navn som en eksisterende status eller type, men kan fortsatt være ulenket fordi den har en annen GUID i bakgrunnen. I dette tilfellet er kartleggingen enkel, velg bare statusen eller typen med samme navn. Hvis en status eller type med samme navn ikke finnes i tavlen som saken ble importert til, må en status eller type med et annet navn som finnes i tavlen, velges. Hvis ingen av dem passer, vurder å legge til en annen status til listen over typer eller statuser i sakstavlen.
+_Status eller type_ For hver status og type som ikke finnes i sakslisten, velger du en eksisterende status eller type. Den ukoblede statusen eller typen kan ha samme navn som en eksisterende status eller type, men kan fortsatt være ukoblet fordi den har en annen GUID i bakgrunnen. I dette tilfellet er kartleggingen enkel – velg bare statusen eller typen med samme navn. Hvis det ikke finnes en status eller type med samme navn på tavlen som saken ble importert til, må du velge en status eller type med et annet navn som finnes på tavlen. Hvis ingen av dem passer, bør du vurdere å legge til en annen status i listen over typer eller statuser i sakslisten.
 
-_Brukere_ Hver bruker i importerte saker som ikke finnes i prosjektet, må kartlegges til enten en bruker eller team i prosjektet. Etter kartleggingen vil sakene bli etterspurt av eller tildelt denne brukeren, og alle kommentarer vil se ut som de er laget av den kartlagte brukeren. Hvis brukeren har endret e-postadresse, er kartleggingen enkel, velg bare brukeren etter navn med kontoen de bruker med sin nye e-postadresse. Hvis det ikke er en tilsvarende bruker som kan kartlegges i prosjektet, er en god strategi å opprette et team som fungerer som denne brukeren. På denne måten er det mulig å finne alle handlinger fra importerte saker laget av denne brukeren ved å filtrere på det kartlagte teamet.
+_Brukere_ Hver bruker i importerte saker som ikke finnes i prosjektet, må kartlegges til enten en bruker eller et team i prosjektet. Etter kartlegging vil sakene bli etterspurt av eller tildelt denne brukeren, og alle kommentarer vil se ut til å være gjort av den kartlagte brukeren. Hvis brukeren har endret e-postadresse, er kartleggingen enkel – velg bare brukeren etter navn med kontoen som de bruker med sin nye e-postadresse. Hvis det ikke finnes en lignende bruker som kan kartlegges i prosjektet, er en god strategi å opprette et team som fungerer som denne brukeren. På denne måten er det mulig å finne alle handlinger fra importerte saker gjort av denne brukeren ved å filtrere på det kartlagte teamet.

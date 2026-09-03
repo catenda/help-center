@@ -6,101 +6,251 @@
 
 Catendaに招待された場合、または初めて登録する場合は、このセクションをお読みください
 
-- [ステップ 1 - アカウント設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9030303-ステップ-1-アカウントの設定.md): アカウントを作成してプロジェクトへの招待を受け取る
+- [ステップ 1 - アカウント設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9030303-ステップ-1-アカウントの設定.md): アカウントを作成してプロジェクトに招待されましょう
+- [ステップ 2 - インターフェース](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10576075-ステップ-2-インターフェース.md): プロジェクト環境の主要エリアに移動します
+- [ステップ 3 - ドキュメント](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10576100-ステップ-3-ドキュメント.md): プロジェクト ドキュメントのアップロード、ダウンロード、表示、コミュニケーション
 - [ステップ 4 - Model](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10576177-ステップ-4-model.md): フェデレーション model を移動して、オブジェクトを表示および選択できます
+- [ステップ 5 - トピック](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10576182-ステップ-5-トピック.md): BIM を使用して、オーサリング ツール全体でプロジェクト関心事について通信する
+- [ステップ 6 - プラグインと統合](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10576187-ステップ-6-プラグインと統合.md): Catenda をあなたの好みのツールに接続
 
 ## アカウント管理
 
 プロジェクトの概要、アカウントや組織の設定について
 
+- [アカウントページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6880968-アカウントページ.md)
+- [アカウントボタン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670260-アカウントボタン.md)
+- [アカウント作成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8412895-アカウント作成.md)
 - [アカウント通知ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7439223-アカウント通知ページ.md)
+- [アカウント通知設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8272435-アカウント通知設定.md)
 - [サインインページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7891486-サインインページ.md)
 - [チームの作成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670264-チームの作成.md)
+- [チームページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7891755-チームページ.md)
+- [ナビゲーションメニュー - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7338516-ナビゲーションメニュー-catenda-site.md)
+- [プロジェクトに参加](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670276-プロジェクトに参加.md)
+- [プロジェクトに新しいメンバーを招待する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670247-プロジェクトに新しいメンバーを招待する.md)
 - [プロジェクトへの招待を受け入れる](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670246-プロジェクトへの招待を受け入れる.md)
+- [プロジェクトページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8400797-プロジェクトページ.md)
+- [プロジェクトページ - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7733978-プロジェクトページ-catenda-site.md)
+- [プロジェクトページ - Organization tool](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8505058-プロジェクトページ-organization-tool.md)
+- [プロジェクトメンバー - 組織ツール](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9003642-プロジェクトメンバー-組織ツール.md)
+- [メンバーとチームページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670291-メンバーとチームページ.md)
+- [メンバーとチームページのフィルター](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11744242-メンバーとチームページのフィルター.md)
+- [メンバーを招待できるユーザー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670272-メンバーを招待できるユーザー.md)
+- [メンバーを招待ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670263-メンバーを招待ページ.md)
+- [メンバーページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8228836-メンバーページ.md)
 - [メンバーページの右側メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11768610-メンバーページの右側メニュー.md)
+- [メールの招待なしでユーザーを追加する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8434846-メールの招待なしでユーザーを追加する.md)
 - [ユーザーページ - 組織ツール](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8508311-ユーザーページ-組織ツール.md)
-- [多要素認証](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4969891-多要素認証-mfa.md): アカウントでMFAを設定する方法について説明しています
+- [別のメンバーの引き継ぎ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9520447-別のメンバーの引き継ぎ.md)
+- [多要素認証](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4969891-多要素認証-mfa.md): アカウントにMFAを設定する方法について説明します
+- [推奨言語の変更](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670248-推奨言語の変更.md)
 - [新しいプロジェクトを作成する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670245-新しいプロジェクトを作成する.md)
+- [組織とプロジェクトのセットアップ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13653804-組織とプロジェクトのセットアップ.md)
 - [組織オプション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8224886-組織オプション.md)
 - [組織タイプ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13653807-組織タイプ.md)
+- [組織プロフィールページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8497478-組織プロフィールページ.md)
 - [組織ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8281910-組織ページ.md)
 - [組織設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13653794-組織設定.md)
+- [設定 - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7733833-設定-catenda-site.md)
+- [通知ページでのフィルタリング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8304417-通知ページでのフィルタリング.md)
 
 ## 基本的な機能
 
 Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場合はこちらをご覧ください。
 
+- [2D / 3D - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7734138-2d-3d-catenda-site.md)
 - [2D ビューア インタラクション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12699525-2d-ビューア-インタラクション.md): 2D ビューア とのインタラクション
+- [2Dからの選択とクリッピング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8035360-2dからの選択とクリッピング.md)
+- [2Dビューア](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4854537-2dビューア.md): 2Dツールバーのさまざまなツールについて説明します
+- [2Dビューア - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7748370-2dビューア-catenda-site.md)
+- [2Dビューア - 建物とフロア](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10901703-2dビューア-建物とフロア.md)
 - [2Dビューアの外観](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13615984-2dビューアの外観.md)
 - [3D スナップショット](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10345863-3d-スナップショット.md)
+- [3D ビューア - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7744403-3d-ビューア-catenda-site.md)
+- [3D ビューア設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5784718-3d-ビューア設定.md)
 - [3Dビューア](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8227211-3dビューア.md)
+- [3Dビューアツールメニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670294-3dビューアツールメニュー.md): Catenda Hubの3Dビューアツールについて説明します
 - [Archicadのマークアップツールを使用したBCFワークフロー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670335-archicadのマークアップツールを使用したbcfワークフロー.md)
-- [Catenda Archicadプラグイン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5519276-catenda-archicad-プラグイン.md): テスト
+- [Catenda Archicadプラグイン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5519276-catenda-archicad-プラグイン.md)
 - [Catenda Desktop Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8358861-catenda-desktop-connector-デスクトップ-コネクタ.md)
-- [Catenda Hubのポイントクラウド](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5606625-点群データ-ポイントクラウド.md): Catenda HubでレーザースキャンおよびLIDAR技術の利点を活用する方法をご確認ください。
+- [Catenda Hub - Solibri ワークフロー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670339-catenda-hub-solibri-ワークフロー.md)
+- [Catenda Hubのポイントクラウド](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5606625-点群データ-ポイントクラウド.md): Catenda Hubでレーザースキャンおよび LIDARテクノロジーの利点を活かしてください。
 - [Catenda Navisworksプラグイン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5085987-catenda-navisworks-プラグイン.md)
+- [Catenda Power BI コネクタ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5784721-catenda-power-bi-コネクタ.md)
+- [Catenda QR コードスキャン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12117671-catenda-qr-コードスキャン.md)
+- [Catenda Revit Plugin のアクション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13168755-catenda-revit-plugin-のアクション.md)
 - [Catenda Revitプラグイン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670334-catenda-revit-製品.md)
+- [Catenda SharePoint Application - Webpart](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10538168-catenda-sharepoint-application-webpart.md)
+- [Catenda SharePoint アプリを有効にする](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9419749-catenda-sharepoint-アプリを有効にする.md)
+- [Catenda SharePoint アプリケーション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8396496-catenda-sharepoint-アプリケーション.md)
+- [Catenda Tekla プラグイン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6549656-catenda-tekla-プラグイン.md): Catenda Hub と Tekla を接続
 - [Catenda の PDF 上の QR コード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9360508-catenda-の-pdf-上の-qr-コード.md)
-- [Catendaプラグイン＆統合](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8396532-catendaプラグインと連携.md): Catendaをお気に入りのツールに接続
-- [IFC Export Archicad マニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670338-archicadからのifcエクスポート.md)
+- [Catenda プラグイン & 統合](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8396532-catendaプラグインと連携.md): Catenda をお気に入りのツールに接続
+- [CatendaSP アプリの追加と削除](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9453368-catendasp-アプリの追加と削除.md)
+- [Catendaのトピックとは？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8979789-catendaのトピックとは.md)
+- [IFCエクスポート Archicadマニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670338-archicadからのifcエクスポート.md)
+- [Model設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8300623-model設定.md)
 - [Naviate for Revit を使用した BCF ワークフロー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670337-naviate-for-revit-を使用した-bcf-ワークフロー.md)
 - [Navisworksの統合ファイル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7120416-navisworksの統合ファイル.md)
-- [Revit IFCエクスポートマニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670341-revit-ifcエクスポートマニュアル.md)
+- [PDFのQRコードによるrevisiony検証](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9330787-pdfのqrコードによるrevisiony検証.md)
+- [PDF比較](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8461650-pdf比較.md)
+- [Revit IFC エクスポート マニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670341-revit-ifcエクスポートマニュアル.md)
+- [Revit用NTIツールを使用したBCFワークフロー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670336-revit用ntiツールを使用したbcfワークフロー.md)
+- [SharePointライブラリ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5744548-sharepointライブラリ.md): この記事では、SharePointへの接続を設定する方法について説明します
 - [Solibri Topics統合](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670340-solibri-topics統合.md)
 - [Solibriモデルとドキュメント統合](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6988148-solibriモデルとドキュメント統合.md)
 - [topic board のカスタムフィールド](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6563368-topic-board-のカスタムフィールド.md)
 - [topic board内のテーブルビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6941099-topic-board内のテーブルビュー.md)
-- [Zipファイル/ファイル構造をアップロードする](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7945410-zipファイル-ファイル構造をアップロードする.md)
+- [Zipファイル/ファイル構造をアップロード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7945410-zipファイル-ファイル構造をアップロードする.md)
+- [アクセスレベルの計算方法](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/15644094-アクセスレベルの計算方法.md)
+- [アクセス制御デプロイメントのユースケース](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/15644249-アクセス制御デプロイメントのユースケース.md)
 - [アクセス制御レベル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8967083-アクセス制御レベル.md)
+- [オブジェクトからドキュメントをリンク解除](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670301-オブジェクトからドキュメントをリンク解除.md)
+- [オブジェクトページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12352750-オブジェクトページ.md)
 - [オープン、公開、または破棄された承認 - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8349418-オープン-公開-または破棄された承認-レガシー.md)
+- [オープンまたはクローズされた承認依頼ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12494960-オープンまたはクローズされた承認依頼ページ.md)
 - [カスタムフィールドの作成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8445575-カスタムフィールドの作成.md)
+- [カスタムフィールドコンテンツページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8445588-カスタムフィールドコンテンツページ.md)
+- [カスタムフィールドページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6550459-カスタムフィールドページ.md): トピックリストと命名規則をカスタマイズする
+- [クエリ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4854514-クエリ.md): 2D ツールバーのクエリ機能の説明
+- [コレクションコンテンツページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8999764-コレクションコンテンツページ.md)
 - [コレクションコンテンツページの右側メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12179454-コレクションコンテンツページの右側メニュー.md)
+- [コレクションページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6344318-コレクションページ.md): ドキュメントを共有し、ドキュメントをZIPファイルでダウンロード
+- [コレクションページでのフィルタリング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8999945-コレクションページでのフィルタリング.md)
 - [ステータスワークフロー - ドキュメント設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12495583-ステータスワークフロー-ドキュメント設定.md)
 - [ステータスワークフロー - ドキュメント設定 - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12310173-ステータスワークフロー-ドキュメント設定-レガシー.md)
 - [スライディング プレーン ドロップダウン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670327-スライディング-プレーン-ドロップダウン.md)
+- [スライディング平面への測定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670298-スライディング平面への測定.md)
 - [ダッシュボード - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7213817-ダッシュボード-catenda-site.md)
+- [ダッシュボードページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8212646-ダッシュボードページ.md)
+- [トピックからレポートを作成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/14006222-トピックからレポートを作成.md)
+- [トピックの交換](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670289-トピックの交換.md)
+- [トピックの右メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8053299-トピックの右メニュー.md)
+- [トピックの設定ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/14183429-トピックの設定ページ.md)
+- [トピックをPDFにエクスポート](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9784934-トピックをpdfにエクスポート.md)
+- [トピックコメントを編集する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6175852-トピックコメントを編集する.md): トピック内のコメントを編集する方法
 - [トピックテンプレートページ - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12371549-トピックテンプレートページ-レガシー.md)
 - [トピックテンプレートページ - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12367730-トピックテンプレートページ-レガシー.md)
+- [トピックテーブルのアクション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670284-トピックテーブルのアクション.md)
+- [トピックヘッダー - トピックの件名](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8400566-トピックヘッダー-トピックの件名.md)
+- [トピックページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670271-トピックページ.md)
 - [トピックページでのフィルタリング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8370693-トピックページでのフィルタリング.md)
-- [トピックボード設定ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670277-topic-board-settings-page.md)
+- [トピックボードのリストビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6941232-トピックボードのリストビュー.md)
+- [トピックボード内の右メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6941224-トピックボード内の右メニュー.md)
+- [トピックボード設定ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670277-トピックボード設定ページ.md)
+- [トピックメニュー - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7734073-トピックメニュー-catenda-site.md)
+- [トピックリストのアクセス制御](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670296-トピックリストのアクセス制御.md): トピックリストのアクセス権レベル
+- [トピック履歴](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8613038-トピック履歴.md)
 - [トピック本体 - トピックのコンテンツ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8053352-トピックの本文-トピックの内容.md)
 - [ドキュメント revision アクション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9323521-ドキュメント-revision-アクション.md)
+- [ドキュメント テーブル アクション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670288-ドキュメント-テーブル-アクション.md)
 - [ドキュメント プレビュー ツール - ゴム印](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11678493-ドキュメント-プレビュー-ツール-ゴム印.md)
+- [ドキュメントのプレビューと注釈](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5001165-ドキュメントのプレビューと注釈.md): 注釈ツール、赤字、イシューのドキュメントへのコメント
 - [ドキュメントの削除取消 / 復元](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670249-ドキュメントの削除取消-復元.md)
+- [ドキュメントをアップロード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670278-ドキュメントをアップロード.md)
 - [ドキュメントをオブジェクトにリンクする](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670297-ドキュメントをオブジェクトにリンクする.md)
+- [ドキュメントをトピックにリンクする](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670250-ドキュメントをトピックにリンクする.md)
+- [ドキュメントを移動する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670251-ドキュメントを移動する.md)
+- [ドキュメントバナー - ナビゲーション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8461918-ドキュメントバナー-ナビゲーション.md)
 - [ドキュメントページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8204673-ドキュメントページ.md)
+- [ドキュメントページのカラム](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8466850-ドキュメントページのカラム.md)
 - [ドキュメントページのフィルタリング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670283-ドキュメントページのフィルタリング.md)
+- [ドキュメントページの右側メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8345396-ドキュメントページの右側メニュー.md)
+- [ドキュメントメニュー - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7774637-ドキュメントメニュー-catenda-site.md)
 - [ドキュメントライブラリアイテムの操作](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/15647394-ドキュメントライブラリアイテムの操作.md)
+- [ドキュメント承認 - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5784717-ドキュメント承認-レガシー.md): ドキュメント承認ワークフローの設定方法を確認する
+- [ドキュメント権限一覧ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6660820-ドキュメント権限一覧ページ.md): ユーザーとチームのアクセス権の概要
+- [ドキュメント設定ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7831371-ドキュメント設定ページ.md)
+- [ドラフト承認依頼ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12495175-ドラフト承認依頼ページ.md)
+- [フォルダとドキュメントのアクセス権設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670287-フォルダとドキュメントのアクセス権設定.md): ドキュメントのアクセス権レベル
+- [フォルダ構造をダウンロードする](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670258-フォルダ構造をダウンロードする.md)
+- [フォルダ設定 - ドキュメント設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12302595-フォルダ設定-ドキュメント設定.md)
+- [フロア設定ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6921756-フロア設定ページ.md): 2D ビューのオーバーレイとして PDF を使用する方法
 - [ブックマークコンテンツページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8471481-ブックマークコンテンツページ.md)
+- [ブックマークページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670281-ブックマークページ.md)
 - [プロジェクトに自由にアクセスできるIGNポイントクラウド(HD LiDAR)を追加してコンテキストを提供する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12498975-プロジェクトに自由にアクセスできるignポイントクラウド-hd-lidar-を追加してコンテキストを提供する.md)
+- [プロジェクトパネル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13141464-プロジェクトパネル.md)
 - [プロジェクト名を変更する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670256-プロジェクト名を変更する.md)
 - [プロジェクト固有の通知設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670262-プロジェクト固有の通知設定.md)
+- [プロジェクト設定ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670273-プロジェクト設定ページ.md)
+- [プロジェクト通知ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670295-プロジェクト通知ページ.md)
+- [プロパティ値ライブラリ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670252-プロパティ値ライブラリ.md)
 - [ホーム画面に追加](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10741601-ホーム画面に追加.md)
 - [ボードページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9413644-ボードページ.md)
+- [マイルストーンコンテンツページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11376858-マイルストーンコンテンツページ.md)
 - [マイルストーンページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670266-マイルストーンページ.md)
+- [マークアップで注釈を追跡](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10210710-マークアップで注釈を追跡.md)
+- [マークアップを保存](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10209740-マークアップを保存.md)
 - [メンバーページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11926821-メンバーページ.md)
+- [モデルのサムネイルを作成する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670257-モデルのサムネイルを作成する.md)
+- [モデルエクスポートコンテンツページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/15480883-モデルエクスポートコンテンツページ.md)
+- [モデルエクスポートページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670280-モデルエクスポートページ.md)
 - [モデルコンテンツページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670270-モデルコンテンツページ.md)
+- [モデルコンテンツページアクション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9674157-モデルコンテンツページアクション.md)
+- [モデルツリーパネル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670290-モデルツリーパネル.md)
 - [モデルページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670286-モデル一覧ページ.md)
+- [モデルページでのフィルタリング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12129622-モデルページでのフィルタリング.md)
+- [モデルページの右メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9673735-モデルページの右メニュー.md)
+- [モデルページアクション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9431936-モデルページアクション.md)
+- [モバイルアプリ Catenda Site をダウンロード 📲](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6530821-モバイルアプリ-catenda-site-をダウンロード.md)
+- [ライブラリページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8065645-ライブラリページ.md)
 - [ラベル フィルター - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7854138-ラベル-フィルター-catenda-site.md)
+- [ラベルページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670265-ラベルページ.md)
+- [リビジョンの取下げ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9711174-リビジョンの取下げ.md): この記事では、revisionを取り下げる方法について説明します。
+- [リビジョンの右メニュー - マークアップ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10205725-リビジョンの右メニュー-マークアップ.md)
+- [リビジョンの右メニュー - リビジョン情報](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8302244-リビジョンの右メニュー-リビジョン情報.md)
+- [リビジョンセレクター](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670279-リビジョンセレクター.md)
 - [リンクコピーアクション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/14323982-リンクコピーアクション.md)
 - [リンクライブラリ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670254-リンクライブラリ.md)
+- [ルートフォルダ ACL](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670292-ルートフォルダ-acl.md)
 - [レポートテンプレートページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12380837-レポートテンプレートページ.md)
+- [レポートページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12303098-レポートページ.md)
+- [レポート作成アクション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13973721-レポート作成アクション.md)
+- [ワークフロー ページ - ドキュメント設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12309903-ワークフロー-ページ-ドキュメント設定.md)
 - [中程度の命名規則](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7936943-中程度の命名規則.md)
 - [分類ライブラリ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670255-分類ライブラリ.md)
+- [切断面](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670253-切断面.md)
+- [命名規則でカスタムフィールドを使用する方法](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7869240-命名規則でカスタムフィールドを使用する方法.md)
+- [命名規則のリビジョン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9496151-命名規則のリビジョン.md)
+- [命名規則のリビジョンブロック](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/15886483-命名規則のリビジョンブロック.md): フォルダ命名規則で動的ブロックを構成する方法を学びます。ファイルが順序付きrevisionとしてどのようにスタックするか、結果を表示する場所、およびドキュメント識別子をオフにしてカスタムフィールドを使用する方法を確認します。
+- [命名規則ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7832559-命名規則ページ.md)
 - [問題内のチェックリスト](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5036461-問題内のチェックリスト.md): サイト上の進捗を追跡する簡単な方法。
 - [情報パネル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8238584-情報パネル.md)
 - [承認ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12495047-承認ページ.md)
+- [承認ページ - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8349340-承認ページ-レガシー.md)
+- [承認ページでのフィルタリング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12495060-承認ページでのフィルタリング.md)
 - [承認ページのフィルタリング - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8551740-承認ページのフィルタリング-レガシー.md)
 - [承認リクエストにrevisionを追加 - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12382093-承認リクエストにrevisionを追加-レガシー.md)
+- [承認リクエストのファイルレビュー - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12507422-承認リクエストのファイルレビュー-レガシー.md)
 - [承認リクエストファイルレビュー右メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12507519-承認リクエストファイルレビュー右メニュー.md)
 - [承認ワークフロー: 管理者ルール](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/16238073-承認ワークフロー-管理者ルール.md): セットアップルール、柔軟な設定オプション、提出後のパラメータロック、およびプロジェクト設定の変更がアクティブな承認リクエストに与える影響について説明する管理者向けガイド。
+- [承認依頼におけるファイルレビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12507002-承認依頼におけるファイルレビュー.md)
+- [承認依頼にリビジョンを追加](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12495012-承認依頼にリビジョンを追加.md)
+- [承認依頼のステップ リボン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12495212-承認依頼のステップ-リボン.md)
+- [承認依頼の概要タブ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12495126-承認依頼の概要タブ.md)
+- [承認依頼ドキュメント右メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12495638-承認依頼ドキュメント右メニュー.md)
+- [承認操作およびアクション マトリックス](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/16195101-承認操作およびアクション-マトリックス.md): ドラフト作成、レビュー、最終承認フェーズ全体にわたる権限を説明する詳細な操作ガイド。提出前および提出後のライフサイクル ステージで構成されています。
+- [承認申請ファイルレビュー右メニュー - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12507914-承認申請ファイルレビュー右メニュー-レガシー.md)
 - [承認設定ページ - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12367293-承認設定ページ-レガシー.md)
 - [投稿フォーマットツールボックス](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8430847-投稿フォーマットツールボックス.md): 投稿を作成できるフィールドをフォーマットする方法
+- [数量計測(QTO)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6673929-数量計測-qto.md)
 - [新しいステータスワークフロー - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9874698-新しいステータスのワークフロー-iso-19650.md)
+- [新しいトピックを作成する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670268-新しいトピックを作成する.md): これはトピックを作成するためのすべてのステップについて説明しています
+- [新しいトピックテンプレートを作成 - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12372007-新しいトピックテンプレートを作成-レガシー.md)
+- [新しいドキュメントリビジョンをアップロード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670293-新しいドキュメントリビジョンをアップロード.md)
+- [新しいブックマークを作成する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670269-新しいブックマークを作成する.md)
+- [新しいモデルエクスポートの作成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/15481038-新しいモデルエクスポートの作成.md)
 - [新しいラベルを作成する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8626709-新しいラベルを作成する.md)
+- [新しいワークフローの作成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12313251-新しいワークフローの作成.md)
 - [新しい承認リクエストの作成 - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12360159-新しい承認リクエストの作成-レガシー.md)
-- [既存のトピックボードからのトピックボード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6379614-topic-board-from-an-existing-topic-board.md)
+- [既存のトピックボードからのトピックボード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6379614-既存のトピックボードからのトピックボード.md)
+- [最もシンプルな命名規則](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7845360-最もシンプルな命名規則.md)
+- [最も重要なショートカットと基本的なコントロールの概要](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670267-最も重要なショートカットと基本的なコントロールの概要.md): ショートカットとキーバインド
+- [検査メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670285-検査メニュー.md)
+- [測定面](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8360838-測定面.md)
+- [画面スペースが限られている場合のアクセス](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10695677-画面スペースが限られている場合のアクセス.md)
 - [統計ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7575491-統計ページ.md)
+- [関連する問題を使用する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5036456-関連する問題を使用する.md): 関連する問題は、ユーザーがフォローアップして進捗状況を追跡するのに役立ちます。
 - [階層コンフィギュレーターアクション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12291366-階層コンフィギュレーターアクション.md)
 
 ## ビデオチュートリアル
@@ -109,71 +259,165 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 
 - [guidde プレイリストとのやり取り](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11059986-guidde-プレイリストとのやり取り.md)
 - [Guiddeビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11055278-guiddeビデオ.md)
+- [IFCをエクスポート - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670314-ifcをエクスポート-ショートビデオ.md)
 - [Sharelink - ショート動画](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423241-sharelink-ショート動画.md)
 - [SharePoint ライブラリ - ショート ビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9800091-sharepoint-ライブラリ-ショート-ビデオ.md)
+- [Web ユーザーインターフェース - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8227253-web-ユーザーインターフェース-ショートビデオ.md)
 - [はじめに - ショート動画](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670312-はじめに-ショート動画.md)
+- [トピックのコメントを編集 - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423183-トピックのコメントを編集-ショートビデオ.md)
 - [トピックを作成 - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423165-トピックを作成-ショートビデオ.md): ショートビデオ
+- [トピックリストのカスタムフィールド - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8445601-トピックリストのカスタムフィールド-ショートビデオ.md)
+- [ドキュメントのドラッグ&ドロップ - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423261-ドキュメントのドラッグ-ドロップ-ショートビデオ.md)
+- [ドキュメントコレクション - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423380-ドキュメントコレクション-ショートビデオ.md)
+- [ドキュメント権限一覧 - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6671863-ドキュメント権限一覧-ショートビデオ.md)
+- [モデルエクスポート - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9755530-モデルエクスポート-ショートビデオ.md)
+- [リビジョンセレクタ - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670313-リビジョンセレクタ-ショートビデオ.md)
 - [公開ブックマーク - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423215-公開ブックマーク-ショートビデオ.md)
 - [問題設定 - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423227-問題設定-ショートビデオ.md)
+- [数量積み上げ (QTO) - ショート動画](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6707924-数量積み上げ-qto-ショート動画.md)
+- [新しい承認ワークフローの作成 - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12457430-新しい承認ワークフローの作成-ショートビデオ.md)
+- [新しい承認ワークフローテンプレートを作成する - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12458313-新しい承認ワークフローテンプレートを作成する-ショートビデオ.md)
 - [既存のトピックボードからトピックボードを作成する - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423271-既存のトピックボードからトピックボードを作成する-ショートビデオ.md)
 - [日付フィルター - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423207-日付フィルター-ショートビデオ.md)
 - [距離を測定する - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423277-距離を測定する-ショートビデオ.md)
 
 ## ユーザーストーリー
 
+- [スケール規模でのClash調整の管理](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13845605-スケール規模でのclash調整の管理.md)
+- [リビジョン命名ユースケース](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/15886912-リビジョン命名ユースケース.md): 実世界のリビジョン命名例を探索します。バージョンシーケンス、ステータスマッピング、およびコンパクトなYYMMDDまたは明確なYYYYMMDD接頭辞を使用してスペースと読みやすさのバランスを取る方法を学び、年代順のドキュメントソート用に最適化されています。
+- [承認の提出と管理: ドラッフターズガイド](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12627979-承認の提出と管理-ドラッフターズガイド.md)
+- [承認ワークフローにおけるドキュメントレビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12628468-承認ワークフローにおけるドキュメントレビュー.md)
+- [最終承認決定を簡単に](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12629484-最終承認決定を簡単に.md)
 - [病院プロジェクトのデジタル設計調整と問題解決](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12320207-病院プロジェクトのデジタル設計調整と問題解決.md): 業界: ヘルスケア建設 / BIM (Building Information Modeling) ペルソナ: David、大規模ゼネコンのBIMコーディネーター。
+- [管理者として承認を管理する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12620829-管理者として承認を管理する.md)
+- [週間クラッシュレポート](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13847707-週間クラッシュレポート.md)
+- [高層建築プロジェクトにおける設計レビューと変更注文](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12323690-高層建築プロジェクトにおける設計レビューと変更注文.md): 業界：商業建設　ペルソナ：大規模事務所のプロジェクト・アーキテクト、マリア。
 
 ## よくある質問
 
 ここでは、多くのユーザーが遭遇する質問に対する答えを見つけることができます
 
 - [1つのmodelを完全に表示し、他のすべてのmodelを半透明にするにはどうすればよいですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670328-1つのmodelを完全に表示し-他のすべてのmodelを半透明にするにはどうすればよいですか.md)
+- [2Dトピック位置 - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13616245-2dトピック位置-catenda-site.md)
 - [3D DWGエクスポートマニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7887999-3d-dwgエクスポートマニュアル.md)
-- [Catenda Hubでのファイルタイプのプレビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670320-catenda-hubでのファイル形式のプレビュー.md)
+- [3Dビューア最適化](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13927321-3dビューア最適化.md)
+- [Catenda Desktop Connector FAQ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11582835-catenda-desktop-connector-faq.md)
+- [Catenda Hubでスペースを表示するにはどうすればよいですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670315-catenda-hubでスペースを表示するにはどうすればよいですか.md)
 - [Catenda Hubのオブジェクトにドキュメントをリンクするにはどうすればよいですか?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670322-catenda-hubのオブジェクトにドキュメントをリンクするにはどうすればよいですか.md)
+- [Catenda HUBのドキュメント管理](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9775623-catenda-hubのドキュメント管理.md)
+- [Catenda Hubのファイルタイプのプレビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670320-catenda-hubでのファイル形式のプレビュー.md)
 - [Catenda SharePoint FAQ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9419678-catenda-sharepoint-faq.md)
+- [Catendaでの入札](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9063936-catendaでの入札.md)
+- [Catendaのモデルとは何ですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670323-catendaのモデルとは何ですか.md)
+- [CDE (Common Data Environment) とは何ですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6062310-cde-common-data-environment-とは何ですか.md)
+- [IFC オブジェクトの GUID はどこで確認できますか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670333-ifc-オブジェクトの-guid-はどこで確認できますか.md)
+- [IFCをエクスポートするにはどうすればよいですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670326-ifcをエクスポートするにはどうすればよいですか.md)
+- [すべてのプロジェクトデータをエクスポートする](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7946690-すべてのプロジェクトデータをエクスポートする.md): Catenda Hubのプロジェクトデータ、ドキュメント、model、およびトピックのエクスポート方法の概要。利用可能なオプションには、Desktop Connectorの同期、PDF/Aレポート作成、アクセス許可監査、およびAWS S3またはAzure Blobストレージへの自動クラウドバックアップが含まれます
 - [すべてのボックスをチェックした後も通知を受け取れないのはなぜですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670318-すべてのボックスをチェックした後も通知を受け取れないのはなぜですか.md)
 - [どのmodelにオブジェクトが属しているかを見つけるには？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670329-どのmodelにオブジェクトが属しているかを見つけるには.md)
-- [アップロードできるファイルサイズはどのくらいですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670324-アップロードするファイルのサイズの制限について.md)
+- [アップロード可能なファイルサイズはいくつですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670324-アップロードするファイルのサイズの制限について.md)
 - [アプリケーションソフトウェアの推奨事項](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13927149-アプリケーションソフトウェアの推奨事項.md)
 - [カスタムフィールドFAQ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11384331-カスタムフィールドfaq.md)
+- [カスタムメンバー情報](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11769670-カスタムメンバー情報.md)
+- [サポートボタンの位置と機能](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8894066-サポートボタンの位置と機能.md)
+- [システムソフトウェアの推奨事項](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13927605-システムソフトウェアの推奨事項.md)
+- [ステータス ワークフロー - API 更新](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12289689-ステータス-ワークフロー-api-更新.md): 新しいステータス ワークフロー機能の API 変更の紹介です。ISO 19650 に準拠して、共有ステータスと公開ステータスを区別します。この記事は、Catenda API を使用するお客様と統合パートナーを対象としています。
 - [トピックの2D位置](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4854523-トピックの2d位置.md): トピックの2D位置マーカーの説明
-- [ハードウェア推奨仕様](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6921941-推奨ハードウェア.md): Catenda Hubで最適なエクスペリエンスを得るための推奨ハードウェア仕様と最適化のヒントを確認してください。
+- [ドキュメントの構成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8542598-ドキュメントの構成.md)
+- [ネットワークの推奨設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13927294-ネットワークの推奨設定.md)
+- [ハードウェア推奨仕様](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6921941-推奨ハードウェア.md): Catenda Hubで最高のエクスペリエンスを得るために、推奨されるハードウェア仕様と最適化のヒントをご覧ください。
+- [フィルターリンクの保存と共有](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11401493-フィルターリンクの保存と共有.md)
+- [フィルター結果の制限](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8551755-フィルター結果の制限.md)
+- [ブックマークをクリックすると、modelのどのrevisionが開かれますか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670332-ブックマークをクリックすると-modelのどのrevisionが開かれますか.md)
 - [プロジェクトセキュリティ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8263256-プロジェクトセキュリティ.md)
+- [メンバーを招待するにはどうすればよいですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670319-メンバーを招待するにはどうすればよいですか.md)
+- [モデルの3D位置](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8294750-モデルの3d位置.md)
+- [ユーザーに単一フォルダへのアクセス権を付与する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8009637-ユーザーに単一フォルダへのアクセス権を付与する.md)
+- [ユーザーに読み取り専用権限を付与することはできますか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670330-ユーザーに読み取り専用権限を付与することはできますか.md)
+- [ユーザーボイス @ Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5925449-ユーザーボイス-catenda.md): ユーザーに価値を提供するというCatendaのコミットメント
 - [ラベルに接続されたグループを削除するにはどうすればよいですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670316-ラベルに接続されたグループを削除するにはどうすればよいですか.md)
+- [リストのソート順序](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8487788-リストのソート順序.md)
+- [列のサイズ変更](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6887350-列のサイズ変更.md)
+- [大きなIFCファイルがあります。Catenda Hubにファイルをアップロードする前にSolibri Optimizerを使用すべきでしょうか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670325-大きなifcファイルがあります-catenda-hubにファイルをアップロードする前にsolibri-optimizerを使用すべきでしょうか.md)
+- [標準メンバーはプロジェクトに新しいメンバーを招待できますか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670321-標準メンバーはプロジェクトに新しいメンバーを招待できますか.md)
+- [組織ツールFAQ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10475849-組織ツールfaq.md)
+- [通知を見つける場所](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670261-通知を見つける場所.md)
 
 ## 最新情報 🎉
 
 Catenda Hubの最新情報はこちら
 
 - [3D計測の更新！](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5981459-3d計測の更新.md): Catenda Hubの計測ツールの改善
+- [Bimsyncは現在Catenda Hubです](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7890769-bimsyncは現在catenda-hubです.md): Catenda Hubは現在Bimsyncという名称です
 - [Catenda 2026年4月 チェンジログ 12](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13413499-catenda-2026年4月-チェンジログ-12.md)
 - [Catenda Archicad プラグイン変更履歴 - 1.0.1.17](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13449075-catenda-archicad-プラグイン変更履歴-1-0-1-17.md)
+- [Catenda Changelog - 2024年4月](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8851281-catenda-changelog-2024年4月.md)
+- [Catenda Hubの新機能は何ですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7150907-catenda-hubの新機能は何ですか.md): お気に入りのプラットフォームの新しいルック・アンド・フィールを発見する
+- [Catenda Revitプラグイン変更ログ - 1.0.15](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13449051-catenda-revitプラグイン変更ログ-1-0-15.md)
+- [Catenda Site Changelog - 3.5.0](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9930034-catenda-site-changelog-3-5-0.md)
 - [Catenda Siteの新バージョン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4726761-catenda-siteの新バージョン.md)
 - [Catenda Siteの新機能は？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7161448-catenda-siteの新機能は.md)
+- [Catenda チーム および全ユーザー選択がShareLinkに追加されました](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5375875-catenda-チーム-および全ユーザー選択がsharelinkに追加されました.md)
 - [Changelog 1 Catenda - April, 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7018311-changelog-1-catenda-april-2023.md)
+- [Changelog 10 Catenda - 2025年10月](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11582902-changelog-10-catenda-2025年10月.md)
+- [Changelog 11 Catenda - 2025年1月](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12529903-changelog-11-catenda-2025年1月.md)
 - [Changelog 13 Catenda - 2026年8月](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/15655135-changelog-13-catenda-2026年8月.md): Catendaの製品更新：トピックの新しいKanbanビュー、強化された承認ワークフロー、Catenda AI Connect、およびData Exportについて詳しくご覧ください。解決されたバグ、新しいチュートリアルビデオ、およびモデル、ドキュメント、トピック全体の更新されたサポートドキュメントが含まれています。
 - [Changelog 3 Catenda - 2023年10月](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7983534-changelog-3-catenda-2023年10月.md): 新しい情報とマイナーチェンジ
+- [Changelog 7 Catenda - December, 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9691178-changelog-7-catenda-december-2024.md)
+- [Changelog 9 Catenda - 2025年6月](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10857573-changelog-9-catenda-2025年6月.md)
+- [Navisworks Changelog - 1.3.2](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9440025-navisworks-changelog-1-3-2.md)
+- [Navisworks Changelog - 1.4.0](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9440035-navisworks-changelog-1-4-0.md)
 - [Q1 2026 の機能ステータス](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13905428-q1-2026-の機能ステータス.md)
+- [Q3 2025 の機能ステータス](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13905373-q3-2025-の機能ステータス.md)
 - [Q3 2026 機能ステータス](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/15957767-q3-2026-機能ステータス.md)
 - [Revit changelog - 1.0.8](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7864124-revit-changelog-1-0-8.md)
+- [Revit changelog 1.0.0 - 1.0.7](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7171910-revit-changelog-1-0-0-1-0-7.md)
 - [Revitchangelog - 1.0.11](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9966204-revitchangelog-1-0-11.md)
-- [モデルをドキュメントとして](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8064548-モデルアズドキュメント-models-as-documents.md)
+- [ShareLink - Catenda Hubのコンテンツについてユーザーに通知する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4728886-sharelink-catenda-hubのコンテンツについてユーザーに通知する.md): 必要で重要な場合はユーザーに手動で通知します。
+- [ステータスワークフロー 共有 → 公開](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9662473-ステータスワークフロー-共有-公開.md)
+- [ドキュメントの3Dプレビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5658031-ドキュメントの3dプレビュー.md): Bimsyncのドキュメントセクション内で直接モデルをプレビューできます。
+- [ドキュメントセクションのテーブルビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8398771-ドキュメントセクションのテーブルビュー.md)
+- [ドラッグアンドドロップ！](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6078698-ドラッグアンドドロップ.md): このアーティクルでは、ライブラリ内でファイルをドラッグアンドドロップする方法について説明しています
+- [モデルとドキュメント](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8064548-モデルアズドキュメント-models-as-documents.md)
+- [モバイルアプリの大型アップデート](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5435949-モバイルアプリの大型アップデート.md)
+- [モバイルアプリの新バージョン](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5021008-モバイルアプリの新バージョン.md)
 - [モバイルアプリの更新](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5280539-モバイルアプリの更新.md)
+- [変更ログ 8 Catenda - 2025年3月](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10288759-変更ログ-8-catenda-2025年3月.md)
 - [新機能: ドキュメントセクションでIFCファイルをプレビューします。](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5747273-新機能-ドキュメントセクションでifcファイルをプレビューします.md): IFCファイルは他のドキュメントと同じように表示できます。
+- [新機能！ポイントクラウド !!🎉🎉](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5661389-新機能-ポイントクラウド.md)
+- [日付フィルター 📆](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6511685-日付フィルター.md)
+- [機能ステータス Q2 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/14804986-機能ステータス-q2-2026.md)
+- [機能ステータス Q4 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13905411-機能ステータス-q4-2025.md)
+- [🎉 新しいAPI ドキュメント 🎉](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9857242-新しいapi-ドキュメント.md)
 
 ## トラブルシューティング
 
 ログインの問題、パフォーマンスの問題、サポートなど。
 
+- [3D スナップショット - トラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12831346-3d-スナップショット-トラブルシューティング.md)
+- [Catenda Revit プラグイン トラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/14301534-catenda-revit-プラグイン-トラブルシューティング.md)
 - [Catenda Site - トラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11926914-catenda-site-トラブルシューティング.md)
 - [Desktop Connector トラブルシューティング - すべてのフォルダーがダウンロードされていません](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13772277-desktop-connector-トラブルシューティング-すべてのフォルダーがダウンロードされていません.md)
+- [Microsoft チーム通知トラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/14685172-microsoft-チーム通知トラブルシューティング.md)
 - [Navisworksプラグインのトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12597294-navisworksプラグインのトラブルシューティング.md)
+- [Solibri BCF Live Connectorのトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/14301642-solibri-bcf-live-connectorのトラブルシューティング.md)
+- [Solibriドキュメント統合のトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11431097-solibriドキュメント統合のトラブルシューティング.md)
+- [Zipダウンロードのトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13399638-zipダウンロードのトラブルシューティング.md)
+- [Zipファイルアップロードのトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11017391-zipファイルアップロードのトラブルシューティング.md)
+- [アクセス不可ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9172624-アクセス不可ページ.md)
 - [カスタムフィールドコンテンツのトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13750419-カスタムフィールドコンテンツのトラブルシューティング.md)
+- [サインインとパスワード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10798891-サインインとパスワード.md)
 - [デスクトップコネクタのトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11019637-デスクトップコネクタのトラブルシューティング.md)
 - [ドキュメントアップロードダイアログのトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11070748-ドキュメントアップロードダイアログのトラブルシューティング.md)
+- [ドキュメントプレビューのトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13962654-ドキュメントプレビューのトラブルシューティング.md)
+- [ドキュメント設定のトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12521958-ドキュメント設定のトラブルシューティング.md)
+- [ホームスクリーン システム・ブラウザ サポート](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10774300-ホームスクリーン-システム-ブラウザ-サポート.md)
 - [メールを受け取れていないのはなぜですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8417802-メールを受け取れていないのはなぜですか.md)
+- [リビジョン規約のトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/15886850-リビジョン規約のトラブルシューティング.md): 命名規約が有効なフォルダーでのファイルアップロードの失敗とリビジョンスタッキングエラーのトラブルシューティングを行います。不正に有効になっているドキュメント識別子が原因の問題を修正し、プレビューから許可されたカスタムフィールド値を識別する方法を学びます
+- [承認ファイルレビューのトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/15286207-承認ファイルレビューのトラブルシューティング.md)
+- [承認ページのトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12520773-承認ページのトラブルシューティング.md)
 
 ## Other
 
 - [Catenda Siteのファイルタイプのプレビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8975421-xw79ynda.md)
+- [あなたに合った通知を受け取る](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9042408-3cvr83sb.md)

@@ -30,7 +30,7 @@ Filer kan lastes opp som dokumentrevisjoner til dokumenter-delen.
 
 _Dokumenter / modeller_ Tilgang til dokumenter kan kontrolleres individuelt. Hvis tilgangen til IFC-dokumentet er begrenset, kan bare personer med tilgang til dokumentet se det. Medlemmer med tilgang til dokumentet kan laste det ned.
 
-_Saker_ Tilgang til saker kan kontrolleres per sakstavle. Hvis tilgangen til en sakstavle er begrenset, kan bare personer med tilgang til sakstavlen se sakene i tavlen. Medlemmer med tilgang til sakstavlen kan eksportere saker til BCF, PDF og Excel.
+_Saker_ Tilgang til saker kan kontrolleres per saksliste. Hvis tilgang til en saksliste er begrenset, kan bare personer med tilgang til saklisten se sakene i listen. Medlemmer med tilgang til saklisten vil kunne eksportere saker til BCF, PDF og Excel.
 
 ### 3.2 **Begrensning av nedlasting ved tilbaketrekking av revisjon**
 
@@ -38,9 +38,9 @@ Hvis en revisjon finnes i et dokument som ikke skal være der, kan en administra
 
 ### 3.3 **Begrensning av nedlasting av enkeltsakene**
 
-For å bevare relasjonene til elementer som dokumenter, saker og objekter kan en sak arkiveres. Saker kan flyttes til en annen sakstavle. Sakstavlen kan deretter arkiveres. _Tilgang påkrevd:_ Administrator
+For å beholde relasjonene til elementer som dokumenter, saker og objekter kan en sak arkiveres. Saker kan flyttes til en annen saksliste. Saklisten kan deretter arkiveres. _Påkrevd tilgang:_ Administrator
 
-Mens saken er i den arkiverte sakstavlen, vil elementrelasjoner forbli intakte, men vil ikke være synlige på det relaterte elementet. Hvis en sakstavle gjenopprettes, vil de relaterte elementene igjen vise sin relasjon til saken.
+Mens saken er i den arkiverte saklisten, vil elementrelasjonene forbli intakte, men vil ikke være synlige på det relaterte elementet. Hvis en saksliste blir gjenopprettet, vil de relaterte elementene igjen vise sin relasjon til saken.
 
 ### 3.4 Begrensning av nedlasting av modeller
 

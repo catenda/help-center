@@ -73,7 +73,7 @@ La visibilité des marqueurs peut être configurée dans les emplacements suivan
 
 Dans ce menu, le mode de couleur des marqueurs peut également être configuré. ([Statut, Type de topic, Échéance](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
 
-2. Dans le menu des couches, la couche de marqueur peut être activée/désactivée.
+1. Dans le menu des couches, la couche de marqueur peut être activée/désactivée.
 
 ## 2. **Topics avec nouveaux marqueurs**
 

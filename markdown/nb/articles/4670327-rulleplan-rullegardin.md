@@ -12,7 +12,7 @@ Klikk på øyeikonet for et rutenett for å forhåndsvise kommentarlinjene for h
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/03-intro.png)
 
-Denne artikkelen inneholder informasjon om følgende emner:
+Denne artikkelen inneholder informasjon om følgende saker:
 
 _Forhåndsvisning av kommentarer – Vis akser_
 
@@ -36,7 +36,7 @@ For hver justering vises navnet på justeringen sammen med navnet på modellen d
 
 Hvert rulleplan har en forhåndsvisningsknapp som ser ut som et øye.
 
-![Rulleplan forhåndsvisningsknapp Catenda Hub for rutenett og justeringer](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/05-2-preview-annotation-lines.png)
+![Sliding plane preview button Catend Hub for grids and alignments](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/05-2-preview-annotation-lines.png)
 
 Klikk på forhåndsvisningsikonet for et rulleplan for å forhåndsvise kommentarlinjene for rulleplanet i 3D-viseren. Så snart forhåndsvisningsikonet er uthevet i grønt, er kommentarlinjene for det valgte rulleplanet synlige i 3D-viseren.
 

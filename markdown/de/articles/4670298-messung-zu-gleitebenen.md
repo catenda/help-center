@@ -12,7 +12,7 @@ Befolgen Sie diese Schritte, um mit der Messung zu Gleitebenen zu beginnen.
 
 Gleitebenen, die gemessen werden können, werden in den IFC-Modellen definiert, die im Projekt verfügbar sind. Falls Modelle mit Gleitebenen verfügbar sind, wird die [Gleitebenen-Dropdown](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown) oben rechts des [3D-Viewers](https://support.catenda.com/en/articles/8227211-3d-viewer) angezeigt und kann etwa so aussehen:
 
-![Gleitebenen-Dropdown im 3D-Viewer](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/02-previewing-sliding-planes.png)
+![Dropdown für Gleitebenen im 3D-Viewer](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/02-previewing-sliding-planes.png)
 
 Bereiten Sie die Gleitebenen für die Messung vor, indem Sie die Dropdown-Liste öffnen und auf die Augenschaltfläche klicken, um die Anmerkungslinien eines Gitters oder einer Ausrichtung in der Vorschau anzuzeigen.
 

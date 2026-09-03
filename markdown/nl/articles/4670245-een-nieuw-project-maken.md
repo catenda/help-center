@@ -8,6 +8,8 @@ De pagina Nieuw project kan er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bwrskh2q/01-intro.png)
 
+De volgende onderwerpen zijn beschreven in dit artikel:
+
 ## 1. **Een eigenaar selecteren**
 
 Gebruikers met toegang tot bedrijfsorganisaties kunnen het aantal projecten maken dat hun plan toestaat.
@@ -53,6 +55,8 @@ Wanneer een nieuw project wordt aangemaakt, zijn opt-in functies standaard niet 
 ## 5. **Een project selecteren om als template te gebruiken**
 
 U kunt ervoor kiezen bepaalde instellingen van een ander project over te nemen bij het maken van een nieuw project. _Vereiste toegang:_ Projectlid
+
+De volgende onderwerpen zijn beschreven in deze sectie:
 
 ### 5.1 **Modellen -** Geen revisies
 

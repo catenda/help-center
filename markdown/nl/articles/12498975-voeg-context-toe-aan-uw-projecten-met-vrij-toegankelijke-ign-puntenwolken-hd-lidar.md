@@ -15,7 +15,7 @@ Dit is de gemakkelijkste stap! Download de puntenwolktegel die overeenkomt met d
 Dit wordt lastig! Om uw puntenwolk om te zetten, moet u deze twee open-source softwareprogramma's installeren:
 
 1. [Miniconda](https://docs.conda.io/en/latest/miniconda.html) is een lichtgewicht versie van de gratis en open-source [Anaconda](https://fr.wikipedia.org/wiki/Anaconda_(distribution_Python)) distributie van de Python- en R-programmeertalen, toegepast op de ontwikkeling van data science-toepassingen.
-2. [PDAL](https://pdal.io/en/2.9.2/) is een open-source bibliotheek voor verwerking van puntenwolkgegevens. Het is een beetje zoals een VLC-speler voor puntenwolken ;)
+1. [PDAL](https://pdal.io/en/2.9.2/) is een open-source bibliotheek voor verwerking van puntenwolkgegevens. Het is een beetje zoals een VLC-speler voor puntenwolken ;)
 
 Eigenlijk hebben we de Anaconda Prompt nodig om PDAL te gebruiken, wat zorg draagt voor de transformatie. Laten we gaan 👇
 
@@ -25,13 +25,13 @@ PDAL is afhankelijk van andere bibliotheken, dus de gemakkelijkste manier is om 
 
 1. Ga naar de officiële Miniconda-downloadpagina:
    👉 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
-2. [Download](https://www.anaconda.com/download) de **Miniconda-installatieprogramma voor Windows (64-bits, Python 3.x).**
-3. Start het installatieprogramma:
+1. [Download](https://www.anaconda.com/download) de **Miniconda-installatieprogramma voor Windows (64-bits, Python 3.x).**
+1. Start het installatieprogramma:
    - Accepteer de licentieovereenkomst
    - Kies "Alleen voor mij" (aanbevolen)
    - Houd de standaard installatielocatie aan
    - Controleer "Miniconda3 aan PATH toevoegen" als de optie wordt aangeboden
-4. Nadat u het hebt geïnstalleerd, opent u de Anaconda Prompt (dit is het venster dat u in plaats van CMD/PowerShell voor PDAL zult gebruiken).
+1. Nadat u het hebt geïnstalleerd, opent u de Anaconda Prompt (dit is het venster dat u in plaats van CMD/PowerShell voor PDAL zult gebruiken).
 
 ### 2.2 **2.2. Maak een Conda-omgeving voor PDAL**
 
@@ -92,9 +92,9 @@ pdal translate ^ "C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69
 🤓 Laten we deze opdracht analyseren:
 
 1. `pdal translate` is de hoofdopdracht voor het uitvoeren van de transformatie.
-2. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz"` is het pad naar het `.laz`-bestand dat uit de IGN-database is gedownload.
-3. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz`" is het pad waar het toekomstige `.las`-bestand wordt gemaakt.
-4. de reprojection command -`-filters.reprojection.in_srs="EPSG:2154" --filters.reprojection.out_srs="EPSG:3943"` stelt u in staat om de puntenwolk van het Lambert-93 SCR (`EPSG:2154`) naar het CC43 SCR (`3943`) om te projecteren
+1. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz"` is het pad naar het `.laz`-bestand dat uit de IGN-database is gedownload.
+1. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz`" is het pad waar het toekomstige `.las`-bestand wordt gemaakt.
+1. de reprojection command -`-filters.reprojection.in_srs="EPSG:2154" --filters.reprojection.out_srs="EPSG:3943"` stelt u in staat om de puntenwolk van het Lambert-93 SCR (`EPSG:2154`) naar het CC43 SCR (`3943`) om te projecteren
 
 Kopieer de opdracht en vervang eenvoudig de EPSG-paden en codes in invoer en uitvoer. Zodra de opdracht is uitgevoerd, wordt uw nieuwe .las-bestand gegenereerd op de locatie die is opgegeven in het doelpad.
 

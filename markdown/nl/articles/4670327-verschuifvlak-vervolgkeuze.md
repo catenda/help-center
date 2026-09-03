@@ -36,7 +36,7 @@ Voor elke uitlijning worden de naam van de uitlijning, de naam van het model waa
 
 Elk verschuifvlak heeft een voorbeeldknop die eruitziet als een oog.
 
-![Knop voor verschuifvlakvoorbeeld Catenda Hub voor rasters en uitlijningen](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/05-2-preview-annotation-lines.png)
+![Sliding plane preview button Catend Hub for grids and alignments](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/05-2-preview-annotation-lines.png)
 
 Klik op het voorbeeldpictogram van een verschuifvlak om een voorbeeld van de aannotatielijnen van het verschuifvlak in de 3D-viewer weer te geven. Zodra het voorbeeldpictogram groen is gemarkeerd, zijn de aannotatielijnen van het geselecteerde verschuifvlak zichtbaar in de 3D-viewer.
 

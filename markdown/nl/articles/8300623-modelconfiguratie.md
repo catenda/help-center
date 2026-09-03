@@ -1,0 +1,7 @@
+# Modelconfiguratie
+
+Models kunnen worden gezien als containers voor IFC-bestandsrevisies, net zoals documenten containers voor bestanden zijn. Het verschil tussen een model en een document is dat de inhoud van een IFC-bestand in een model volledig wordt verwerkt met alle ID's, gegevens die aan objecten zijn gekoppeld en een gegenereerd 2D-plan per verdieping. Gebruikers hebben vaak één of meer models per studierichting. Models kunnen worden geopend en geconfigureerd op de [modelpagina](https://support.catenda.com/en/articles/4670270-model-overview-page) in het inhoudspaneel. Ze kunnen ook worden weergegeven in de revisieselector in het 3D-viewerpaneel voor een snelle manier om ze in en uit te schakelen zonder het inhoudspaneel te openen.
+
+## 1. Gebruikers toestaan modellen te maken
+
+Beheerders kunnen modellen maken, maar soms wil je de modelleur zelf toestaan om nieuwe modellen te maken zonder alle Documenten noodzakelijk in te zien. In dit geval kunt u iemand toestaan modellen te maken in [projectinstellingen](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3). Als u toegang hebt gekregen tot het maken van modellen in projectinstellingen, kunt u ze maken en verwijderen door op de [nieuwe modelknop](https://support.catenda.com/en/articles/4670270-model-overview-page#h_0c6f0e7347) rechtsboven te klikken en vervolgens op de drie puntjes naast exporteren en dan op [model verwijderen](https://support.catenda.com/en/articles/4670270-model-overview-page#h_0c6f0e7347).

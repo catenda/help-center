@@ -1,181 +1,185 @@
-# IFC Export Archicad Handleiding
+# IFC Export Archicad Handboek
 
-Wanneer u een IFC exporteert, houd er rekening mee wat relevant is voor uw IFC-export. Het IFC-bestand kan groot en moeilijk te bewerken zijn als het veel informatie bevat. Daarom is het belangrijk om geen onnodige informatie te exporteren. In dit rapport krijgt u verschillende tips om uw IFC-export in Archicad te filteren.
+Wanneer u een IFC exporteert, moet u bedenken wat relevant is voor uw IFC-export. Het IFC-bestand kan groot en moeilijk te hanteren zijn als het veel informatie bevat. Daarom is het belangrijk om onnodige informatie niet te exporteren. In dit rapport krijgt u verschillende tips om uw IFC-export in Archicad te filteren.
 
-## 1. Projectinfo
+## 1. **1. Projectinfo**
 
-Voordat u een IFC van uw project exporteert, zorg ervoor dat de projectinfo is geconfigureerd. De projectinfo vindt u hier:
+Voordat u een IFC uit uw project exporteert, moet u ervoor zorgen dat de projectinfo is geconfigureerd. De projectinfo is hier te vinden:
 
 `Bestand -> Info -> Projectinfo`
 
-Dit is een voorbeeld van hoe de projectinfo eruit kan zien:
+Dit is hoe de projectinfo eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/01-1-project-info.png)
 
-Standaard zijn de verschillende velden leeg. Hoewel deze leeg zijn, wordt een unieke ID gemaakt voor elk project, lokatie en gebouw dat is opgenomen. In sommige situaties worden meerdere IFC-bestanden uit hetzelfde Archicad-project geëxporteerd. Voorbeelden hiervan zijn:
+Standaard zijn de verschillende velden leeg. Ook al zijn ze leeg, voor elk project, elke site en elk gebouw dat wordt vermeld, wordt een unieke id aangemaakt.
 
-IFC-bestanden met objecten uit verschillende vakgebieden. Een MEP-model met kanalen, een architectuurmodel met muren en een structureel model met alle vloeren.
+### 1.1 **1.1 Meerdere IFC's uit hetzelfde Archicad-project**
 
-Meerdere gebouwen Soms worden meerdere gebouwen samen in hetzelfde Archicad-bestand gemodelleerd en voor elk daarvan wordt een afzonderlijke IFC geëxporteerd.
+In sommige situaties worden meerdere IFC-bestanden uit hetzelfde Archicad-project geëxporteerd. Voorbeelden hiervan zijn:
 
-Verschillende ontwerpkeuzes. Wanneer verschillende varianten van een gebouw in hetzelfde Archicad-bestand zijn gemodelleerd, wordt elke variant vaak naar zijn eigen IFC-bestand geëxporteerd.
+**1.1.1 IFC-bestanden met objecten uit verschillende vakgebieden** Een MEP-model met kanalen, een architectuurmodel met muren en een structureel model met alle vloeren.
 
-### 1.1 De projectinfo configureren
+**1.1.2 Meerdere gebouwen** Soms worden meerdere gebouwen in hetzelfde Archicad-bestand samen gemodelleerd en wordt voor elk van hen een afzonderlijke IFC geëxporteerd.
 
-Of er nu plannen zijn om meerdere IFC-bestanden te exporteren of niet, het is vaak een goed idee om waarden in de projectinfo in te voeren, zodat deze later niet hoeven te worden gewijzigd. De projectinfo is belangrijk om in te vullen omdat deze effect heeft op de GUID's van het bestand. Elk type IFC dat wordt geëxporteerd, moet eigen projectinstellingen hebben. De projectinstellingen kunnen rechtsonder worden geïmporteerd en geëxporteerd. Op deze manier kunnen meerdere profielen voor de exports uit het bestand worden ondersteund. Voor Catenda is het belangrijk dat IFC's in verschillende modellen verschillende informatie hebben geconfigureerd, terwijl IFC die in hetzelfde model zal zijn dezelfde informatie heeft geconfigureerd.
+**1.1.3 Verschillende ontwerpkeuzes** Wanneer verschillende variaties van een gebouw in hetzelfde Archicad-bestand worden gemodelleerd, wordt elke variatie vaak naar een eigen IFC-bestand geëxporteerd.
 
-## 2. IFC-exportinstellingen
+### 1.2 **1.2 De projectinfo configureren**
 
-Het gehele project exporteren. U moet in 3D-weergave staan. Zorg ervoor dat u de juiste vertaler gebruikt.
+Of u nu van plan bent meerdere IFC-bestanden te exporteren of niet, het is vaak een goed idee om waarden in de projectinfo in te voeren, zodat deze later niet hoeven te worden gewijzigd. De projectinfo is belangrijk om in te vullen omdat deze invloed heeft op de GUID's van het bestand. Elk type IFC dat wordt geëxporteerd, moet zijn eigen projectinstellingen hebben. De projectinstellingen kunnen onderaan rechts worden geïmporteerd en geëxporteerd. Op deze manier kunnen meerdere profielen worden ondersteund voor de exports uit het bestand. Voor Catenda is het belangrijk dat IFC's in verschillende modellen verschillende informatie hebben geconfigureerd, terwijl IFC's die in hetzelfde model voorkomen dezelfde informatie hebben geconfigureerd.
+
+## 2. **2. IFC-exportinstellingen**
+
+Om het volledige project te exporteren, moet u zich in de 3D-weergave bevinden. Zorg ervoor dat u de juiste vertaler gebruikt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/02-2-ifc-export-settings.png)
 
-Klik op de opties-knop om een samenvatting van uw IFC-exportinstellingen te zien. Onder modelfilter kunt u ook meer filteren.
+Klik op de knop Opties om een overzicht van uw IFC-exportinstellingen weer te geven. Onder modelfilter kunt u ook kiezen om meer uit te filteren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/03-2-ifc-export-settings.png)
 
-In het vak IFC-vertalers kunt u vertalersinstellingen bekijken of wijzigen, of nieuwe vertalers maken.
-
-Als u uw IFC-export wilt wijzigen, wordt aanbevolen om een van de vooraf gemaakte vertalers te dupliceren zodat u geen van de standaardvertalers beschadigt. Dupliceer hier een vertaler:
-
-Klik op nieuw > Duplicaat van > selecteer de vertaler die u wilt dupliceren.
-
-Als u de IFC wilt samenvoegen, kunt u dat onder dezelfde banner doen.
+Met het vak IFC-vertalers kunt u vertalersinstellingen weergeven of wijzigen, of nieuwe vertalers maken. Als u uw IFC-export wilt wijzigen, wordt aanbevolen dat u een van de vooraf gemaakte vertalers dupliceert, zodat u er geen standaardvertaler mee verpest. Dupliceer hier een vertaler: Klik op Nieuw > Duplicaat van > selecteer de vertaler die u wilt dupliceren. Als u de IFC wilt samenvoegen, kunt u dat onder dezelfde banner doen.
 
 ![image-2.png](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/04-2-ifc-export-settings.png)
 
----
+## 3. **3. Verschillende instellingen in de export**
 
-### 2.1 Verschillende instellingen in de export
-
-1\. [Modelfilter](#model-filter) stelt u in staat uit te filteren wat u wilt exporteren op basis van verschillende voorinstellingen. 2\. [Type-toewijzing](#type-mapping) stelt u in staat te kiezen wat voor soort IFC-type elk element wordt geëxporteerd. 3\. [Geometrieconversie](#geometry-conversion) stelt u in staat te kiezen wat voor soort geometrie u wilt exporteren. 4\. [Eigenschappentoewijzing](#property-mapping) stelt u in staat criteria op basis van typen in te stellen. 5\. [Gegevensconversie](#data-conversion) stelt u in staat te kiezen wat voor soort gegevens u uit het model wilt exporteren. 6\. [Eenhedenconversie](#unit-conversion) stelt u in staat te kiezen in welke maateenheden u uw IFC wilt exporteren.
+3.1 [Modelfilter](#h_138e653078) stelt u in staat uit te filteren wat u wilt exporteren via verschillende voorinstellingen. 3.2 [Typetoewijzing](#h_a34c1332a3) stelt u in staat te kiezen welk type IFC elk element wordt geëxporteerd als. 3.3 [Geometrieconversie](#h_db084b5d6b) stelt u in staat te kiezen wat voor soort geometrie u wilt exporteren. 3.4 [Eigenschappentoewijzing](#h_d48644eb35) stelt u in staat criteria in te stellen op basis van typen. 3.5 [Gegevensconversie](#h_7f1df4ecb9) stelt u in staat te kiezen wat voor soort gegevens u uit het model wilt exporteren. 3.6 [Eenheidsconversie](#h_36caead1cd) stelt u in staat te kiezen in welke meeteenheden u uw IFC wilt exporteren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/05-3-different-settings-in-the-export.png)
 
----
+## 4. **4. Modelfilter**
 
-## 3. Modelfilter
+### 4.1 **Rasters in de IFC exporteren**
 
-### 3.1 Roosters in de IFC exporteren
-
-Soms wilt u de roosters ook geëxporteerd hebben om ze in Catenda Hub te kunnen zien.
-
-Ga naar het modelfilter voor IFC-export en zorg ervoor dat het selectievakje "Rastersysteem en elementen" is aangevinkt.
+Soms wilt u ook de rasters geëxporteerd hebben zodat u ze in Catenda Hub kunt zien. Ga naar het modelfilter voor IFC-export en zorg ervoor dat het selectievakje "Rastersysteem en elementen" is ingeschakeld.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/06-exporting-grids-in-the-ifc.png)
 
----
+## 5. **5. Typetoewijzing**
 
-## 4. Type-toewijzing
-
-Wanneer een IFC wordt geëxporteerd, krijgen alle elementen in het model een IFC-type toegewezen.
-
-Als u de IFC-vertaler selecteert die u wilt gebruiken, kunt u naar type-toewijzing gaan en klikken op IFC-typen voor importeren toewijzen om te beheren wat voor soort type-toewijzing u op uw geëxporteerde IFC wilt.
+Wanneer een IFC wordt geëxporteerd, krijgen alle elementen in het model een IFC-type toegewezen. Als u de IFC-vertaler selecteert die u wilt gebruiken, kunt u naar typetoewijzing gaan en klikken op Map IFC Types for import om te beheren wat voor soort typetoewijzing u op uw geëxporteerde IFC wilt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/07-5-type-mapping.png)
 
-Type-toewijzing heeft hoofdzakelijk twee verschillende opties om uw IFC-typen op te sorteren.
+Typetoewijzing heeft vooral twee verschillende opties om uw IFC-typen op te sorteren.
 
-### 4.1 Elementtype
+### 5.1 **5.1 Elementtype**
 
-Elk element krijgt automatisch een basis-IFC-type toegewezen. U kunt elk element\ het toegewezen IFC-type zien in projectmanager en in element-instellingen.
+Elk element krijgt automatisch een basis-IFC-type toegewezen. U kunt het toegewezen IFC-type van elk element zien in de projectmanager en in de elementinstellingen.
 
-### 4.2 Classificatie
+### 5.2 **5.2 Classificatie**
 
-Deze methode maakt flexibelere en gedetailleerde IFC-type-toewijzing mogelijk, volgens specifieke classificatiestandaarden. Zone- en openingselementen krijgen een vast IFC-type. IFCSpace en IFCOpeningElements.
+Deze methode staat meer flexibele en gedetailleerde IFC-typetoewijzing toe, overeenkomstig specifieke classificatienormen. Zone- en openingselementen zijn ingesteld op een vast IFC-type. IFCSpace en IFCOpeningElements.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/08-5-2-classification.png)
 
----
+## 6. **6. Geometrieconversie**
 
-## 5. Geometrieconversie
-
-Geometrieconversie voor IFC-export stelt u in staat uw geometrie op verschillende manieren om te zetten.
+Geometrieconversie voor IFC-export stelt u in staat uw geometrie op verschillende manieren te converteren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/09-6-geometry-conversion.png)
 
-### 5.1 Conversies van Archicad-elementen
+### 6.1 Conversies van Archicad-elementen
 
-**Alle modelelementen\ geometrie exporteren als:** _Parametrisch met uitzonderingen_ - standaard _BREP_ - Precieze geometrie - Als dit is geselecteerd, zullen de volgende twee opties ook BREP zijn
+**6.1.1 Alleen geometrieën exporteren die "Deelnemen aan botsingsdetectie"** Exporteer alleen objecten die elkaar kruisen
 
-**Elementen in vaste elementbewerkingen:** _Extruded/revolved_ - standaard _BREP_ - Precieze geometrie
+**6.1.2 Geometrie van IFC-typeproducten exporteren** Typeproducten inbegrepen
 
-Elementen met juncties Sommige elementen kunnen elkaar kruisen, wat delen van de extrusie kan trimmen. _Extruded/revolved_ - Hoeken van elementen verbinden Dit voegt juncties toe aan uw extrudeerde elementen. Met deze optie zult u zien dat elementen zoals muren of daken, vooral schuin geplaatste, mooi aansluiten.
+**6.1.3 Brutogeometrie van elementen exporteren** Brutogeometrie inbegrepen
 
-_Extruded/revolved zonder juncties_ - standaard - Dit maakt de export sneller Als u 90 graden elementen zoals muren of daken hebt, zult u waarschijnlijk geen verschil met deze opties opmerken. Als u schuin geplaatste muren hebt, zult u opmerken dat in de hoek waar de muren verbinden, in plaats van het trimmen van het overschot van de rechte extrusie, de muren rechtuit langs elkaar gaan en niet mooi verbinden.
+**6.1.4 Alle geometrie van modelelementen exporteren als:** _Parametrisch met uitzonderingen_ - standaard
 
-_BREP_ - Precieze geometrie
+**Parametrisch (Geëxtrudeerd/gedraaid)** _BREP_ - Precieze geometrie - Als dit is geselecteerd, zullen de volgende twee opties ook BREP zijn
 
-Parametrische elementen Archicad-elementen kunnen als parametrische geometrie worden geëxporteerd, vaak in de vorm van richtlijnnen die tot een afstand worden extrudeerd. Parametrische geometrie maakt het gemakkelijk om het object na het maken ervan te bewerken. Hoewel deze optie bewerkbaarheid behoudt, kan de geometrie vaak enigszins onnauwkeurig zijn omdat de definitie een benadering van de geometrie is. Deze optie wordt aanbevolen als u van plan bent de IFC terug naar Archicad of een ander bewerkingsprogramma te importeren om verdere bewerkingen uit te voeren.
+**6.1.5 Elementen in vaste elementbewerkingen:** _Geëxtrudeerd/gedraaid_ - standaard _BREP_ - Precieze geometrie
 
-BREP Geometrie exporteren als aparte BREP-oppervlakken. In plaats van objecten op basis van hun parameters zoals lengte/breedte/hoogte met gegenereerde oppervlakken te beschrijven, wordt elk oppervlak beschreven als een afzonderlijk oppervlak met een locatie in 3D. Objecten kunnen nog steeds meerdere oppervlakken bevatten, maar deze zullen losse oppervlakken zijn. Na het exporteren moeten BREP-oppervlakken afzonderlijk worden bewerkt omdat parameters niet langer op het oppervlak worden toegepast. Met de BREP-optie worden exacte oppervlakken geëxporteerd, zonder ruimte voor verschil in interpretatie van parameters tussen authoringtools. Oppervlakken krijgen afzonderlijk een kleur en zullen dezelfde kleur hebben in Catenda Hub als in Archicad. Oppervlakkleuren kunnen in het volgende menu worden geconfigureerd:
+**6.1.6 Elementen met verbindingen** Sommige elementen kunnen elkaar kruisen, waardoor delen van de extrude kunnen worden geknipt.
 
-`Opties -> Element-attributen -> Oppervlakken`
+Geëxtrudeerd/gedraaid - Verbind hoeken van elementen Dit voegt verbindingen toe aan uw geëxtrudeerde elementen. Met deze optie ziet u dat elementen zoals muren of daken, vooral schuine, mooi met elkaar verbonden zijn.
 
-Het kan goed zijn om alle instellingen voor een oppervlak in te stellen, omdat deze in de IFC worden geschreven.
+Geëxtrudeerd/gedraaid zonder verbindingen - standaard Dit versnelt de export Als u elementen van 90 graden hebt, zoals muren of daken, zult u waarschijnlijk geen verschil opmerken met deze optie. Als u schuine muren hebt, zult u opmerken dat in de hoek waar de muren verbonden zijn, in plaats van het overtollige van de rechte extrude af te knippen, de muren gewoon recht langs elkaar heen gaan en niet mooi verbonden zijn.
+
+BREP Precieze geometrie
+
+**6.1.7 Parametrische elementen** Archicad-elementen kunnen worden geëxporteerd als parametrische geometrie, vaak in de vorm van leidende lijnen die over een afstand worden geëxtrudeerd. Parametrische geometrie maakt het gemakkelijk om het object na het maken te bewerken. Hoewel deze optie bewerkbaarheid behoudt, kan de geometrie vaak enigszins onnauwkeurig zijn, omdat de definitie een benadering van de geometrie is. Deze optie wordt aanbevolen als u de IFC terug in Archicad of een ander bewerkingsprogramma wilt importeren om verdere bewerkingen uit te voeren.
+
+BREP Exporteer geometrie als afzonderlijke BREP-oppervlakken. In plaats van objecten aan de hand van hun parameters zoals lengte/breedte/hoogte te beschrijven met gegenereerde oppervlakken, wordt elk oppervlak als een afzonderlijk oppervlak met een locatie in 3D beschreven. Objecten kunnen nog steeds meerdere oppervlakken bevatten, maar deze zijn los van elkaar. Na het exporteren moeten BREP-oppervlakken afzonderlijk worden bewerkt, omdat parameters niet meer op het oppervlak van toepassing zijn. Met de BREP-optie worden exacte oppervlakken geëxporteerd, zodat er geen verschil in interpretatie van parameters tussen authoring tools. Oppervlakken worden afzonderlijk gekleurd en hebben dezelfde kleur in Catenda Hub als in Archicad. Oppervlakkleuren kunnen in het volgende menu worden geconfigureerd:
+
+`Opties -> Elementeigenschappen -> Oppervlakken`
+
+Het kan goed zijn om alle instellingen voor een oppervlak te configureren, omdat deze in de IFC worden geschreven.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/10-6-1-conversions-of-archicad-elements.png)
 
-Oppervlakken in de Catenda 3D-viewer hebben platte arcering zonder lichtbron. Dit betekent dat waarden zoals Ambient, Attenuation, Shinyness, Emission en Specular niet worden geïnterpreteerd wanneer het oppervlak wordt bekeken in de Catenda 3D-viewer. De volgende waarden worden door Catenda geïnterpreteerd wanneer het oppervlak in de 3D-viewer wordt weergegeven:
+Oppervlakken in de Catenda 3D-viewer hebben vlakke schaduw zonder aanwezige lichtbron. Dit betekent dat waarden zoals Ambient, Attenuation, Shinyness, Emission en Specular niet worden geïnterpreteerd wanneer het oppervlak in de Catenda 3D-viewer wordt bekeken. De volgende waarden worden door Catenda geïnterpreteerd bij het weergeven van het oppervlak in de 3D-viewer:
 
 Oppervlakkleur De kleur van het oppervlak
 
-Doorlaatbaarheid Hoeveel u door het object kunt zien (overschrijft de translucente opaciteitsinstelling)
+Transmissie Hoeveel u door het object kunt zien (Overschrijft de semi-transparante opaciteitsinstelling)
 
-Diffuse Hoe donker of helder de oppervlakkleur is
+Diffuus Hoe donker of helder de oppervlakkleur is
 
-**IFC-modelposition bepalen door:** Deze optie bepaalt projectlocatie. Het is belangrijk om al aan het begin afstand te spreken over een gemeenschappelijk coördinaatpunt waarnaar in het project moet worden verwezen, omdat wijziging ervan kan betekenen dat meerdere raadplegers hun objecten moeten verplaatsen, wat tegen het einde van een project vaak niet haalbaar is.
+**6.1.8 Definieer IFC-modelposie door:** Deze optie bepaalt de projectlocatie. Het is belangrijk dat u al aan het begin van het project overeenstemming bereikt over een gemeenschappelijk referentiepunt. Het wijzigen ervan kan betekenen dat meerdere consultants hun objecten moeten verplaatsen, wat tegen het einde van een project vaak niet haalbaar is.
 
-Surveypoint en projectoorsprong - standaard Met deze optie is de afstand van (0,0,0) tot uw model in Archicad gelijk aan de afstand van (0,0,0 + coördinaten van uw surveypoint) tot uw model in Catenda Hub + het als u een projectlocatie hebt ingesteld, komt uw model op die coördinaten in Catenda Hub terecht
+Onderzoekspunt en projectoorsprong - standaard Met deze optie is de afstand van (0,0,0) naar uw model in Archicad gelijk aan de afstand van (0,0,0 + coördinaten van uw onderzoekspunt) naar uw model in Catenda Hub + de. Als u een projectlocatie hebt ingesteld, bevindt uw model zich op die coördinaten in Catenda Hub
 
-Alleen projectoorsprong Met deze optie is de afstand van (0,0,0) tot uw model in Archicad gelijk aan de afstand van (0,0,0) tot uw model in Catenda Hub.
+Alleen projectoorsprong Met deze optie is de afstand van (0,0,0) naar uw model in Archicad gelijk aan de afstand van (0,0,0) naar uw model in Catenda Hub.
 
-Alleen surveypoint Met deze optie is de afstand van het surveypoint in Archicad tot uw modellen gelijk aan de afstand van (0,0,0) tot uw model in Catenda Hub
+Alleen onderzoekspunt Met deze optie is de afstand van het onderzoekspunt in Archicad naar uw modellen gelijk aan de afstand van (0,0,0) naar uw model in Catenda Hub
 
-### 5.2 IFC-schemaopties
+## 7. **7. Hiërarchische Archicad-elementen**
 
-**Materiaalbehoudsmode (alleen IFC2x3)** - Elementen nooit exploderen, behoud is niet gegarandeerd Met deze optie exporteert u het gehele object als één object
+Exporteer objecten in een vlakke hiërarchie of als geneste subelementen.
 
-- Alleen exploderen indien nodig om materialen te behouden - Standaard
-  Met deze optie exporteert u alleen afzonderlijke objecten voor elk composietmateriaal indien nodig
+### 7.1 **7.1 Gevelraam**
 
-- Alle elementen in onderdelen exploderen, materialen behouden
-  Met deze optie worden alle objecten als afzonderlijke objecten voor elk materiaal geëxporteerd
+Converteren naar Enkel element Hierarchie behouden - Standaard
 
-Als u een composiet wandmateriaal hebt, betekent dit dat voor elk materiaal een afzonderlijk object wordt geëxporteerd. U hebt vaak een dampdoorlatende laag van 1-5 mm, wat resulteert in een zeer dun object. Wanneer objecten zo dun zijn, kan de geometrie onnauwkeurig zijn. Problematische wandmaterialen kunnen er als volgt uitzien:
+### 7.2 **7.2 Trap**
+
+Converteren naar Enkel element Hierarchie behouden - Standaard
+
+### 7.3 **7.3 Leuning**
+
+Converteren naar Enkel element - Standaard Hierarchie behouden
+
+## 8. **8. Opties met betrekking tot IFC-schema**
+
+### 8.1 **8.1 Modus voor materiaalconservering (alleen IFC2x3)**
+
+**8.1.1 Elementen nooit uit elkaar halen, conservering niet gegarandeerd** Met deze optie exporteert u het hele object als één object
+
+**8.1.2 Alleen uit elkaar halen indien nodig om materialen te conserveren - Standaard** Met deze optie exporteert u alleen afzonderlijke objecten voor elk composietmateriaal indien nodig
+
+**8.1.3 Alle elementen in onderdelen uit elkaar halen, materialen conserveren** Met deze optie worden alle objecten geëxporteerd als afzonderlijke objecten voor elk materiaal. Als u een composiet wandmateriaal hebt, betekent dit dat voor elk materiaal een afzonderlijk object wordt geëxporteerd. U hebt vaak een dampscherm dat 1-5 mm is, wat resulteert in een erg dun object. Wanneer objecten zo dun zijn, kan de geometrie onnauwkeurig zijn. Problematische wandmaterialen kunnen er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/11-8-1-material-preservation-mode-ifc2x3-only.png)
 
-Dit kan het moeilijk maken voor software om gaten in het oppervlak te snijden, omdat de onnauwkeurigheid het lastig maakt om precies te bepalen waar het gat zou moeten zijn. Als u merkt dat uw openingen niet worden doorsneden, kan het helpen deze optie in te schakelen. Het inschakelen van deze optie exporteert de muur als één enkel object in plaats van veel dunne samengestelde objecten.
+Dit kan het voor software moeilijk maken om gaten door het oppervlak te snijden, omdat de onnauwkeurigheid het moeilijk maakt om precies uit te zoeken waar het gat zich moet bevinden. Als u daarom opmerkt dat uw openingen niet worden doorsneden, kan het helpen om deze optie in te schakelen. Het inschakelen van deze optie exporteert de muur als één enkel object in plaats van veel dunne samengestelde objecten.
 
-### 5.3 Samengestelde constructies en complexe profielen
+## 9. **9. Samengestelde structuren en complexe profielen**
 
-**Complexe bouwonderdelen in onderdelen splitsen** Hier kunt u kiezen voor welk type elementen u het samengestelde element wilt splitsen en voor welke niet. Als u deze optie kiest, kunt u geen keuze maken voor de materiaalbehoudsmode.
+**9.1 Splitsing van complexe bouwelementen in onderdelen** Hier kunt u kiezen voor welk type elementen u het samengestelde element wilt splitsen en voor welke elementen u dit niet wilt doen. Als u deze optie kiest, kunt u geen keuze maken voor de modus voor materiaalconservering.
 
----
+## 10. **10. Eigenschappentoewijzing**
 
-## 6. Eigenschappentoewijzing
-
-In eigenschappentoewijzing (Bestand > IFC > Interoperabiliteit > Eigenschappentoewijzing) kunt u kiezen welke versie van IFC u wilt exporteren. u hebt de standaard IFC2x3 en de standaard IFC4. U kunt ook psets toevoegen om met uw IFC te exporteren. Als u dit doet, moet u een duplicaat van het IFC-schema maken dat u kiest.
+In eigenschappentoewijzing (Bestand > IFC > Interoperabiliteit > Eigenschappentoewijzing) kunt u kiezen welke versie van IFC u wilt exporteren. U hebt de standaard IFC2x3 en de standaard IFC4. U kunt ook psets toevoegen om met uw IFC te exporteren. Als u dit doet, moet u een duplicaat van het IFC-schema dat u kiest maken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/12-10-property-mapping.png)
 
-Nadat u een duplicaat van uw standaard-IFC hebt gemaakt, kunt u de eigenschappen die u wilt toevoegen aan deze nieuwe voorinstelling door het IFC-schema te selecteren en op _IFC-eigenschappen voor export toewijzen_ te klikken.
+Nadat u een duplicaat van uw standaard IFC hebt gemaakt, kunt u de gewenste eigenschappen aan die nieuwe voorinstelling toevoegen door het IFC-schema te selecteren en op _Map IFC Properties for Export_ te klikken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/13-10-property-mapping.png)
 
----
+## 11. **11. Gegevensconversie**
 
-## 7. Gegevensconversie
-
-Onder gegevensconversie selecteert u wat voor soort gegevens u naast geometrie uit uw IFC-export wilt. vink de selectievakjes aan van wat u wilt exporteren.
-
-Elementparameters leest de Archicad-elementparameter en zet deze om naar IFC-hoeveelheden of IFC-eigenschappen. Afhankelijk van hun type. Door deze optie te kiezen, vergroot u aanzienlijk de bestandsgrootte.
+Onder gegevensconversie selecteert u wat voor soort gegevens u naast geometrie uit uw IFC-export wilt halen. Controleer de selectievakjes van wat u wilt exporteren. Elementparameters leest de Archicad-elementparameter en converteert deze naar IFC-hoeveelheden of IFC-eigenschappen. Afhankelijk van hun type. Door deze optie te kiezen, vergroten u de bestandsgrootte aanzienlijk.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/14-11-data-conversion.png)
 
-IFC-basisgrootheden leest de parameters van grootte, oppervlakte en volume. Als u dit selectievakje niet aanvinkt, kan het lastig zijn uw IFC naar Catenda Hub te importeren.
+IFC Base Quantities leest de parameters van grootte, oppervlakte en volume. Als u dit selectievakje niet uitschakelt, kan het importeren van uw IFC naar Catenda Hub problemen opleveren.
 
-## 8. Eenhedenconversie
+## 12. **12. Eenheidsconversie**
 
-Stel de lengte-, hoek-, oppervlakte-, volume-, valuta- en tijdeenheden in voor uw export.
+Stel de eenheden voor lengte, hoek, oppervlakte, volume, valuta en tijd voor uw export in.

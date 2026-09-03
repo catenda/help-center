@@ -1,6 +1,6 @@
 # Endringslogg 13 Catenda - August 2026
 
-> Catenda-produktoppdateringer: Utforsk den nye Kanban-visningen for saker, forbedrede gjennomgangsarbeidsflyter, Catenda AI Connect og dataeksport. Inkluderer løste feil, nye opplæringsvideor og oppdatert kundestøttedokumentasjon.
+> Catenda-produktoppdateringer: ny Kanban-visning for saker, forbedrede gjennomgangsarbeidsflyter, Catenda AI Connect og dataeksport. Inkluderer løste feil, nye opplæringsvideoer og oppdatert dokumentasjon for modeller, dokumenter og saker.
 
 Hei alle sammen,
 

@@ -70,7 +70,7 @@ Nyttig når du oppretter et nytt prosjekt ved en faseskifte som har de samme mil
 
 Teams klare til å motta medlemmer. Tilgang i dokumentstrukturen distribueres også gjennom teams.
 
-### 5.5 **Sakstavler -** Inkludert statusser og typer, men ingen saker
+### 5.5 **Sakslister -** Inkludert statuser og typer, men ingen saker
 
 Tavler som er satt opp og klare til å brukes for kommunikasjon. Tavler kan ligge arkivert til de er klare til å brukes.
 
@@ -86,12 +86,12 @@ Offentlige dokumentstatusar kan brukes til å holde oversikt over framgangen til
 
 Innstillingen for dokumentnedlasting som det opprettede prosjektet mottok, er basert på innstillingen for dokumentnedlasting for nye prosjekter i organisasjonen, og ikke basert på hvilken innstilling for dokumentnedlasting malprosjektet har.
 
-### 5.9 **Dokument og sakstavle-tilgangskontroll**
+### 5.9 **Tilgangstyring på sakslister og dokumenter**
 
 Dette kopierer tilgangskontroll for følgende alternativer (hvis valgt)
 
 - Mappestruktur
-- Sakstavler
+- Sakslister
 
 _Påkrevd tilgang:_ Full tilgang til malprosjektet
 

@@ -69,7 +69,7 @@ Markeringssynlighet kan konfigureres på følgende steder:
 
 I denne menyen kan markeringsfargemodus også konfigureres. ([Status, Saktype, Frist](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
 
-2. I lagmenyen kan markeringslaget aktiveres/deaktiveres.
+1. I lagmenyen kan markeringslaget aktiveres/deaktiveres.
 
 ## 2. **Saker med nye markører**
 

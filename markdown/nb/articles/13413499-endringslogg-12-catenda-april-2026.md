@@ -67,9 +67,9 @@ _Produktfunksjoner_
   - [Høyremeny i en sak](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic)
   - [Verktøylinje for innleggformatering](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) (Tidligere formatering av innlegg)
   - [Saksteksten - Innholdet i en sak](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
-  - [Tabellvisning i et sakstavle](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board)
+  - [Tabeloversikt i en saksliste](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board)
   - [Filtrering på sakssiden](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
-  - [Saksoverskrift - Emnet for en sak](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
+  - [Sak-overskrift - Emnet i en sak](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
 - Modeller
   - [Objektside](https://support.catenda.com/en/articles/12352750-objects-page)
   - [Modellside](https://support.catenda.com/en/articles/4670286-models-page)
@@ -150,7 +150,7 @@ Takk for verdifulle tilbakemeldinger har vi kunne eliminere mange saker som du k
 > **Merk:** For å sikre umiddelbar stabilitet, vil desimalverdier angitt som hele tall (f.eks. `1,0` eller `2,0`) for øyeblikket vises som heltall (f.eks. `1` eller `2`) i den eksporterte Excel-filen. Selv om eksporten nå er fullt funksjonell, er vi klar over at det å bevare det spesifikke formatet (etterfølgende nuller) er viktig for nøyaktighet. Vi jobber aktivt med en oppfølgende oppdatering for å gjenopprette denne visuelle formateringen i en fremtidig versjon.
 
 - Bilder lastet opp i logoarea på prosjektinnstillinger vises nå igjen riktig på topp venstre av PDF-versjonen av sakseksporten. Vær oppmerksom på at dette alltid fungerte i rapporteringsverktøyet på etterspørsel og dette var bare et problem i den nåværende sakseksporten som er tilgjengelig for alle.
-- Som med etiketter, foreslås egendefinerte felt rullegardinvalg nå bare i venstremenyen i et sakstavle når det er saker i listen som har dette alternativet valgt.
+- I likhet med merkelapper foreslås nå egendefinerte rullegardinvalgmuligheter bare i filtreringsmenyen til venstre i en saksliste når det finnes saker i listen som har det aktuelle valget valgt.
 - Når @mention- og #link-knappene brukes når markøren er midt i innlegget, hopper markøren ikke lenger til slutten av innlegget og e-posten og det koblede saknummeret legges riktig til innlegget når det velges fra rullegardinlisten.
   Dette forhindrer også at alt som er skrevet mellom nevnelsen/lenkelokasjonen blir avkortet.
 

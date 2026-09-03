@@ -64,31 +64,31 @@ Der zweite Reiter ermöglicht es Ihnen, einen Überblick über alle Dokumente zu
 Die Tabelle zeigt:
 
 1. der Revisionsname
-2. die Revisionsnummer
-3. der aktuelle Überprüfungsschritt
-4. der aktuelle Zustand des Schritts
-5. das Fälligkeitsdatum für die Überprüfung des Schritts
-6. die Teams, die das Dokument noch überprüfen müssen
-7. der Name der Genehmigungsanfrage
-8. der Absender (Einzelperson und Team)
-9. das Einreichungsdatum
+1. die Revisionsnummer
+1. der aktuelle Überprüfungsschritt
+1. der aktuelle Zustand des Schritts
+1. das Fälligkeitsdatum für die Überprüfung des Schritts
+1. die Teams, die das Dokument noch überprüfen müssen
+1. der Name der Genehmigungsanfrage
+1. der Absender (Einzelperson und Team)
+1. das Einreichungsdatum
 
 ### 5.1 Filterung
 
 Das linke Filterpanel ermöglicht es Ihnen auch, die Dokumente nach folgenden Kriterien zu filtern:
 
 1. Zuweisung: alle Teams oder Ihr Team spezifisch
-2. Dokumentzustand: Ausstehend, Unter Überprüfung, Abgeschlossen
-3. Fälligkeitsdatum: alle, bevorstehend, überfällig
+1. Dokumentzustand: Ausstehend, Unter Überprüfung, Abgeschlossen
+1. Fälligkeitsdatum: alle, bevorstehend, überfällig
 
 ### 5.2 Sortierung
 
 Abschließend können Sie nach folgenden Kriterien sortieren:
 
 1. Revisionsname
-2. Status
-3. Fälligkeitsdatum
-4. Einreichungsdatum
+1. Status
+1. Fälligkeitsdatum
+1. Einreichungsdatum
 
 ### 5.3 Suchen
 

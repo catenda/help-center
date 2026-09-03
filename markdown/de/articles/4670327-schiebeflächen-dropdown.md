@@ -36,7 +36,7 @@ Für jede Ausrichtung werden der Name der Ausrichtung, der Name des Modells, aus
 
 Jede Schiebefläche hat eine Schaltfläche für die Vorschau, die wie ein Auge aussieht.
 
-![Schiebeflächen-Vorschau-Schaltfläche Catenda Hub für Gitter und Ausrichtungen](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/05-2-preview-annotation-lines.png)
+![Sliding plane preview button Catend Hub for grids and alignments](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/05-2-preview-annotation-lines.png)
 
 Klicken Sie auf das Vorschausymbol einer Schiebefläche, um die Anmerkungslinien der Schiebefläche im 3D-Viewer in der Vorschau anzuzeigen. Sobald das Vorschausymbol grün hervorgehoben wird, sind die Anmerkungslinien der ausgewählten Schiebefläche im 3D-Viewer sichtbar.
 

@@ -2,13 +2,9 @@
 
 For å unngå varselstøy og sikre ein smidig lansering kan ny åtferd eller endringar i eksisterande åtferd rollast ut gradvis og utan varsel. Dei som merkar endringar i åtferda på ein del av sida dei brukar ofte, eller dei som lurer på kva som er nytt, kan sjekke desse artiklane for oppdateringar om nyleg endringar i åtferda for alle brukarar.
 
-Følgjande emne er skildra i denne artikkelen:
-
 ## 1. **Nye funksjonar**
 
 Kvar brukar brukar plattforma ulikt. Sjølv om ein ny funksjon blir lansert eller endringar blir gjort på ein funksjon, kan det vere at brukarar ikkje brukar den delen av funksjonen. For dei som er nysgjerrig på kva det er med "den nye knappen" eller "den nye sida" på plattforma, inneheld denne artikkelen ei introduksjon til kva endringa handlar om. For desse funksjonane er det ofte berre grunnleggjande eller litt utdatert støttemateriale tilgjengeleg, då det blir oppdatert medan vi held fram. Saman med å hjelpe folk i kundesupport blir artiklane ofte oppdaterte, og viss spørsmål som vart stilt, kan bli funne forklarte i ein artikkel neste veke.
-
-Følgjande emne er skildra i denne seksjonen:
 
 ### 1.1 **Figma URL-lenke som utviklar seg i sakar**
 
@@ -43,8 +39,6 @@ Plasshalderen er plassert på den delte revisjonen, og QR-koden blir generert n�
 Ein lenke til eit Figma-, FigJam- eller Miro-tavle kan plasserast i ei saksbeskrivning eller ein sakskommentar, og tavla blir då vist under teksten. Dette er tavla frå den eksterne tenesta, ikkje sakskortet som saka sjølv sit på. Legg til lenka på same måte som nokon annan lenke i markdown-editoren, anten som ein råe URL eller som ein markdown-formatert lenke. Tavla viser seg under beskrivinga eller kommentaren når ho blir lagra. Tavla blir berre vist til brukarar som allereie er logga inn på Figma eller Miro og som har tilgang til ho der. Catenda gjev ikkje tilgang, tilgangen blir kontrollert heilt i Figma eller Miro, så ein brukar utan tilgang ser ikkje noko tavleinnhald.
 
 ## 2. **Oppdaterte funksjonar**
-
-Følgjande emne er skildra i denne seksjonen:
 
 ### 2.1 **Gjennomgangsforbetringar**
 

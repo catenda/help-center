@@ -1,5 +1,5 @@
-# Controlelijsten binnen problemen
+# Checklists binnen Issues
 
-> Een eenvoudige manier om voortgang op de site bij te houden.
+> Een gemakkelijke manier om de voortgang op de site bij te houden.
 
-[YouTube video](https://www.youtube.com/embed/AGwhy-I1oPg?rel=0)
+[YouTube-video](https://www.youtube.com/embed/AGwhy-I1oPg?rel=0)

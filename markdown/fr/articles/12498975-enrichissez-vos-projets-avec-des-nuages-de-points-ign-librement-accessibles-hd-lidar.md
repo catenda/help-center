@@ -15,7 +15,7 @@ C'est l'étape la plus facile ! Téléchargez la dalle de nuage de points corres
 C'est là que cela devient compliqué ! Pour transformer votre nuage de points, vous devrez installer ces deux programmes logiciels open source :
 
 1. [Miniconda](https://docs.conda.io/en/latest/miniconda.html) est une version légère de la distribution libre et open source [Anaconda](https://fr.wikipedia.org/wiki/Anaconda_(distribution_Python)) des langages de programmation Python et R, appliquée au développement d'applications de science des données.
-2. [PDAL](https://pdal.io/en/2.9.2/) est une Bibliothèque open source pour le traitement des données de nuages de points. C'est un peu comme un lecteur VLC pour les nuages de points ;)
+1. [PDAL](https://pdal.io/en/2.9.2/) est une Bibliothèque open source pour le traitement des données de nuages de points. C'est un peu comme un lecteur VLC pour les nuages de points ;)
 
 En réalité, nous avons besoin de l'invite Anaconda pour utiliser PDAL, qui s'occupera de la transformation. C'est parti 👇
 
@@ -25,13 +25,13 @@ PDAL dépend d'autres Bibliothèques, donc la façon la plus facile est d'utilis
 
 1. Allez sur la page officielle de téléchargement de Miniconda :
    👉 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
-2. [Téléchargez](https://www.anaconda.com/download) l'**installateur Miniconda pour Windows (64 bits, Python 3.x).**
-3. Lancez l'installateur :
+1. [Téléchargez](https://www.anaconda.com/download) l'**installateur Miniconda pour Windows (64 bits, Python 3.x).**
+1. Lancez l'installateur :
    - Acceptez le contrat de licence
    - Choisissez "Juste pour moi" (recommandé)
    - Gardez l'emplacement d'installation par défaut
    - Cochez "Ajouter Miniconda3 au PATH" si l'option est proposée
-4. Une fois installé, ouvrez l'invite Anaconda (c'est la fenêtre que vous utiliserez à la place de CMD/PowerShell pour PDAL).
+1. Une fois installé, ouvrez l'invite Anaconda (c'est la fenêtre que vous utiliserez à la place de CMD/PowerShell pour PDAL).
 
 ### 2.2 **2.2. Créer un environnement Conda pour PDAL**
 
@@ -92,9 +92,9 @@ pdal translate ^ "C:\\Users\\USERNAME\\Downloads\\LHD_FXX_0766_6282_PTS_LAMB93_I
 🤓 Décomposons cette commande :
 
 1. `pdal translate` est la commande principale pour effectuer la transformation.
-2. `"C:\\Users\\USERNAME\\Downloads\\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz"` est le chemin d'accès au fichier `.laz` téléchargé à partir de la base de données IGN.
-3. `"C:\\Users\\USERNAME\\Downloads\\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz`" est le chemin d'accès où le futur fichier `.las` sera créé.
-4. la commande de reprojection -`-filters.reprojection.in_srs="EPSG:2154" --filters.reprojection.out_srs="EPSG:3943"` vous permet de reprojeter le nuage de points du SRC Lambert-93 (`EPSG:2154`) vers le SRC CC43 (`3943`)
+1. `"C:\\Users\\USERNAME\\Downloads\\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz"` est le chemin d'accès au fichier `.laz` téléchargé à partir de la base de données IGN.
+1. `"C:\\Users\\USERNAME\\Downloads\\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz`" est le chemin d'accès où le futur fichier `.las` sera créé.
+1. la commande de reprojection -`-filters.reprojection.in_srs="EPSG:2154" --filters.reprojection.out_srs="EPSG:3943"` vous permet de reprojeter le nuage de points du SRC Lambert-93 (`EPSG:2154`) vers le SRC CC43 (`3943`)
 
 Copiez la commande et remplacez simplement les chemins EPSG et les codes en entrée et en sortie. Une fois la commande exécutée, votre nouveau fichier .las sera généré à l'emplacement spécifié par le chemin cible.
 

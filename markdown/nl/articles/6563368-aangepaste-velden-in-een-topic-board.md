@@ -8,7 +8,7 @@ U bevindt zich in de sectie "**topics**"
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tv2vef51/01-intro.png)
 
-2. Klik op **aangepast veld toevoegen**
+1. Klik op **aangepast veld toevoegen**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tv2vef51/02-intro.png)
 
@@ -16,11 +16,11 @@ U bevindt zich in de sectie "**topics**"
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tv2vef51/03-intro.png)
 
-4. U kunt dit veld als verplicht markeren (Ja/Nee)
+1. U kunt dit veld als verplicht markeren (Ja/Nee)
 
-5. Stel een standaardwaarde in
+1. Stel een standaardwaarde in
 
-6. Valideer om op te slaan.
+1. Valideer om op te slaan.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tv2vef51/04-intro.png)
 

@@ -4,7 +4,7 @@ Etter å ha konfigurert innstillingene for dine egendefinerte felt, kan du nå l
 
 Du er i "**saker**"-delen
 
-1\. Velg innstillingene for sakstavlen din
+1\. Velg innstillingene for din saksliste
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tv2vef51/01-intro.png)
 

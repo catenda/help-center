@@ -1,4 +1,4 @@
-# Listes de contrôle dans les problèmes
+# Listes de vérification dans les problèmes
 
 > Un moyen facile de suivre la progression sur le site.
 

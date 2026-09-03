@@ -2,7 +2,7 @@
 
 Selecteer een element op de [pagina Leden en Teams](https://support.catenda.com/en/articles/4670291-members-and-teams-page) zodat de infoknop wordt weergegeven rechts van de zoek- of filterbalk. Dit is waar de knop op de pagina kan worden gevonden:
 
-![Tabblad Leden van de pagina Leden. Een pijl wijst naar de ](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/01-intro.png)
+![Tabblad Leden van de pagina Leden en Teams. Een pijl wijst naar ](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/01-intro.png)
 
 De infoknop kan er ongeveer als volgt uitzien:
 
@@ -14,7 +14,7 @@ Klik op dit pictogram om een menu te openen waar velden voor de geselecteerde el
 
 Dit is hoe het rechtermenu op het tabblad Leden eruit kan zien:
 
-![Ledengegevens](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/03-right-menu-on-the-members-tab.png)
+![Details van Leden](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/03-right-menu-on-the-members-tab.png)
 
 Als u één lid hebt geselecteerd, kunnen de initialen of avatar, de naam en het e-mailadres van dat lid bovenaan het menu worden weergegeven.
 

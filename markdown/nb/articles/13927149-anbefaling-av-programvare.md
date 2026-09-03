@@ -7,8 +7,8 @@ Kontroller at du ikke har noen nettleserutvidelser eller andre programmer som ka
 _Beste nettleser etter minnebruk på Windows (mars 2026):_
 
 1. Firefox
-2. Chrome
-3. Microsoft Edge
+1. Chrome
+1. Microsoft Edge
 
 ### 1.1 **Zoomskala**
 

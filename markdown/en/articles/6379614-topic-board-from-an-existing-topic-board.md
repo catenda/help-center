@@ -1,65 +1,65 @@
-# 既存のトピックボードからのトピックボード
+# Topic board from an existing topic board
 
-新しいトピックボードは、[ボードページ](https://support.catenda.com/en/articles/9413644-boards-page)で「新しいトピックボード」アクションをクリックして作成できます。このアクションは、右上の緑色のプラスボタン、またはその隣にあるアクションメニューから利用できます。必要なアクセス権：[プロジェクト設定ページ](https://support.catenda.com/en/articles/4670273-project-settings-page)のアクセスメニューで、新しいトピックボードを作成するための書き込みアクセス権が必要です。
+Creating a new topic board can be done by clicking the new topic board action on the [boards page](https://support.catenda.com/en/articles/9413644-boards-page). The action can be found with the green plus button on the top right or in it's neighboring action menu. Access required: Write access to create new topic boards in the access menu on the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page).
 
-「新しいトピックボード」ページは、次のような画面になります：
+This is what the New topic board page can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/01-intro.png)
 
-## 1. **名前**
+## 1. **Name**
 
-トピックボードを追加するための最低条件として、トピックボードに名前を付けます。トピックボードのリストは、Catendaの一般的な[リストの並び順](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists)に従ってトピックボード名で並べ替えられます。そのため、トピックボードの名前には命名規則を使うことをお勧めします。トピックボード名の例を次に示します：
+Give the topic board a name as a minimum requirement for adding the topic board. The topic boards list is sorted by topic board name according to the typical [sorting order of lists](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) on Catenda. It is therefore often a good idea to use a naming convention when naming topic boards. Here is an example of what topic boards could be called:
 
-![トピックボードリスト 導入 文書レビュー 承認済み コメント付き承認 却下 文書 BREEAMスコア 調整 コスト プロジェクト](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/02-name.png)
+![Topic board list introduction document review approved approved with comments rejected documents breeam socre coordination cost projects](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/02-name.png)
 
-## 2. **説明**
+## 2. **Description**
 
-トピックボードの説明は任意です。追加後は、トピックボードへのフルアクセスを持つユーザーのみが、トピックボード設定で説明を確認できます。トピックボードの説明には、Catendaの[投稿の書式設定](https://support.catenda.com/en/articles/8430847-formatting-of-posts)に関する一般的なルールが適用されます。
+The topic board description is optional and can later only be seen in topic baord settings by those with full access to the topic board. The topic board description follows the general rules for [formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda.
 
-## 3. **既存のトピックボードから設定をコピー**
+## 3. **Copy settings from an existing topic board**
 
-トピックボードの作成時に既存のトピックボードから設定をコピーするには、「既存のトピックボードから設定をコピー」メニューをクリックし、設定のコピー元となるプロジェクト内の既存のトピックボードを選択します。
+To copy settings from one topic board upon topic board creation, click on the "copy settings from an existing topic board" menu to select an existing topic board in the project from which the settings should be copied.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/03-copy-settings-from-an-existing-topic-board.png)
 
-トピックボードを選択すると、どの設定をコピーするかを選べます。
+After selecting the topic topic board it is possible to choose which settings to copy.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/04-copy-settings-from-an-existing-topic-board.png)
 
-### 3.1 **ステータスとタイプをコピー**
+### 3.1 **Copy statuses and types**
 
-「ステータスとタイプをコピー」ラジオボタンを有効にすると、作成するトピックボードに、ステータス名・色・メタステータスのタイプを含む同じステータスが引き継がれます。
+Activate the copy statuses and types radio button to get the same statusses with their status name, color and meta-status type in the topic board that is to be created.
 
-### 3.2 **権限設定をコピー**
+### 3.2 **Copy permission settings**
 
-「権限設定をコピー」ラジオボタンを有効にすると、作成するトピックボードに同じステータスが色とともに引き継がれます。
+Activate the copy permission settings radio button to get the same statuses with their color in the topic board that is to be created.
 
-## 4. **BCF 1.0互換性**
+## 4. **BCF 1.0 compatibility**
 
-BCF 1.0までしか対応していない他のトピック管理ツールにトピックをエクスポートするために使用するトピックボードは、互換性のためにロックしておくことをお勧めします。こうすることで、Catendaで作成したトピックがエラーなく相手側に届きます。他のツールで作成されたBCF 1.0トピックは、ボードが互換性のためにロックされているかどうかにかかわらず、どのトピックボードにもインポートできます。
+Topic boards that are used for exporting topics to other topic management tools that only support BCF up to version 1.0 should be locked for compatibility to ensure that the topics generated in Catenda arrive without error on the other side. BCF 1.0 topics generated elsewhere can be imported to any topic board regardless of wether that board is locked for compatibility or not.
 
-### 4.1 **ステータスとタイプは編集不可**
+### 4.1 **No editing of statuses or types**
 
-トピックボードを互換性のためにロックすると、そのトピックボードで利用できるステータスとタイプは編集できなくなります。互換性のためのロックが有効な間は、BCF 1.0で規定された既定のステータスとタイプが提供され、編集できません。_ステータス：_「Open」と「Closed」 _タイプ：_「Error」「Warning」「Info」「Unknown」
+By locking a topic board for compatibility it will not be possible to edit the statuses and types that are available in the topic board. As long as the topic board is locked for compatibility the pre-defined statuses and types as specified in BCF 1.0 are made availble and cannot be edited. _Statuses:_ "Open" and "Closed" _Types:_ "Error", "Warning", "Info" and "Unknown"
 
-### 4.2 **作成後のBCF 1.0互換性のロックとロック解除**
+### 4.2 **Locking and unlocking BCF 1.0 compatibility after creation**
 
-BCF 1.0互換性のチェックボックスは、トピックボード設定でいつでもオフにでき、ボードで使用できるステータスの数を増やせます。トピックボードのステータスがBCF 1.0と互換性がなくなった場合でも、互換性のないステータスを削除すれば、作成後いつでもボードを再びBCF 1.0互換性にロックできます。
+The BCF 1.0 compatibility box can be unchecked in the topic board settings at any moment to expand the amount of statuses that are possible to have in the board. If the statuses in a topic board are not compatible with BCF 1.0 it is also possible to remove any incompatible statuses and lock the board to BCF 1.0 compatibility again at any moment after creation.
 
-### 4.3 **ロックされたボードからの設定のコピー**
+### 4.3 **Copy settings from board that is locked**
 
-「既存のトピックボードから設定をコピー」メニューでトピックボードを選択すると、BCF 1.0互換性のチェックボックスはロックされ、コピー元として選択したトピックボードがBCF 1.0互換性にロックされているかどうかに応じて、チェックの有無が決まります。
+If a topic board is selected in the copy settings from another topic board menu the BCF 1.0 compatibility checkbox is locked and will be checked or not depending on if the selected topic board to copy settings from is locked to BCF 1.0 compatibility or not.
 
-## 5. **追加**
+## 5. **Add**
 
-「追加」をクリックして、新しいトピックボードを追加します。
+Click on add to add the new topic board.
 
-> **注：** トピックボードを追加するには、少なくとも名前を付ける必要があります
+> **Note:** The topic board has to at least have a name to be able to be added
 
-トピックボードが作成されても通知は表示されません。
+There is no notification upon topic board creation.
 
-## 6. **プロジェクト作成時のトピックボード作成**
+## 6. **Topic board creation upon project creation**
 
-新しいプロジェクトを作成すると、プロジェクトには「課題」という名前のデフォルトのトピックボードが用意されています。プロジェクト作成時に「テンプレートプロジェクトのトピックボード」チェックボックスをオンにすると、選択したテンプレートプロジェクトのトピックボードとトピックボード設定を引き継いだ状態でプロジェクトが始まります。
+Upon the creation of a new project the project starts out with a default topic board called "Issues". If the checkbox for topic boards from a template project is checked upon project creation the project starts with the topic boards and topic board settings from the selected template project.
 
-> **注：** これらの新しいトピックボードの設定はテンプレートのトピックボードと同じですが、トピックボード、ステータス、タイプのGUIDは、それぞれのプロジェクトに固有のものです。
+> **Note:** While the settings of these new topic boards are the same as in the topic board in the templates, the GUIDs of the topic boards, statuses and types are unique to the project they are in.

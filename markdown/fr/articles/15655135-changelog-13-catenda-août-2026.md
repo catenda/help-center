@@ -1,6 +1,6 @@
 # Changelog 13 Catenda - Août 2026
 
-> Mises à jour Catenda : Explorez la nouvelle vue Kanban pour les topics, les flux d'approbation améliorés, Catenda AI Connect et l'export de données. Inclut les bugs résolus, les nouveaux tutoriels vidéo et la documentation d'assistance mise à jour.
+> Mises à jour produit Catenda : nouvelle vue Kanban pour les topics, flux d'approbation améliorés, Catenda AI Connect et export de données. Inclut bugs résolus, nouveaux tutoriels vidéo et documentation mise à jour pour modèles, documents et topics.
 
 Bonjour à tous,
 

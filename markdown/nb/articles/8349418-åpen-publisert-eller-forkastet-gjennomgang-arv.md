@@ -30,7 +30,7 @@ Menyen til høyre i en gjennomgang inneholder gjennomgangshistorikken. Slik kan 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/x7qy4k63/03-approval-right-menu.png)
 
-## 4. **Gjennomgangsoverskrift - Emnet i en gjennomgang**
+## 4. **Gjennomgang Header - Emnet for en gjennomgang**
 
 Slik kan overskriften for en gjennomgang se ut:
 

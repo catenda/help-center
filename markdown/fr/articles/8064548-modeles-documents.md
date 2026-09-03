@@ -1,136 +1,136 @@
-# Models comme Documents
+# Modèles en tant que documents
 
-Auparavant, il était possible de télécharger des fichiers IFC à deux endroits différents sur Catenda Hub. Avec la fonction _models comme documents_, ces deux emplacements pour les fichiers de model seront fusionnés en une fonction transparente. Si vous créez un model dans la section models, un Document sera lié et créé dans la section Documents. Si vous téléchargez un Document IFC, vous pouvez utiliser le bouton d'action "make model" pour lier et créer un model dans la section models. Avec cette fonction, les models de la section models peuvent être traités comme des Documents tandis que les models de la section Documents peuvent être traités comme des models.
+Auparavant, il était possible de télécharger des fichiers IFC à deux endroits distincts sur Catenda Hub. Avec la fonction _modèles en tant que documents_, ces deux emplacements pour les fichiers de modèle seront fusionnés en une seule fonction transparente. Si vous créez un modèle dans la section modèles, un document sera lié et créé dans la section documents. Si vous téléchargez un document IFC, vous pouvez utiliser le bouton d'action "créer un modèle" pour lier et créer un modèle dans la section modèles. Avec cette fonction, les modèles de la section modèles peuvent être traités comme des documents tandis que les modèles de la section documents peuvent être traités exactement comme des modèles.
 
-## 1. **Avant/Après migration - Différences principales**
+## 1. **Migration Avant/Après - Différences principales**
 
-<div class="intercom-interblocks-table-container"><table role="presentation"><tbody><tr><td style="background-color: #e8e8e880; width: 126px;"><h1 id="h_3632d3cc1b"></h1></td><td style="background-color: #e8e8e880; width: 262px;"><h2 class="intercom-align-center" id="h_2093155130"><b>Avant</b></h2></td><td style="background-color: #e8e8e880; width: 248px;"><h2 class="intercom-align-center" id="h_d5cfcbcb2d"><b>Après</b></h2></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Comportement principal</b></p></td><td style="width: 262px;"><p>Les models existaient uniquement dans la section Model. L'utilisateur devait télécharger le même fichier IFC dans les sections Document et Model.</p></td><td style="width: 248px;"><p>Les models sont créés à partir de fichiers IFC téléchargés dans la section Document, sur demande de l'utilisateur. Le fichier IFC et son model associé sont ensuite liés.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Interface utilisateur</b></p></td><td style="width: 262px;"><p><b>Différente</b> de la section Document et affichant moins d'informations, essentiellement juste une liste de models.</p></td><td style="width: 248px;"><p><b>Identique</b> à la section Document : un tableau personnalisable avec les métadonnées associées.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px;"><p class="intercom-align-right"><b>Droits d'accès</b></p></td><td style="width: 262px;"><p><b>Impossible à appliquer</b> aux models</p></td><td style="width: 248px;"><p><b>Peut être appliqué</b> aux models à partir de leur Document associé dans la section Document</p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e8e8e880; width: 126px; padding: 8px;"><h1 id="h_3632d3cc1b"></h1></td><td style="background-color: #e8e8e880; width: 262px; border-left: 1px solid #c6c9c0; padding: 8px;"><h2 class="intercom-align-center" id="h_2093155130"><b>Avant</b></h2></td><td style="background-color: #e8e8e880; width: 248px; border-left: 1px solid #c6c9c0; padding: 8px;"><h2 class="intercom-align-center" id="h_d5cfcbcb2d"><b>Après</b></h2></td></tr><tr><td style="background-color: #e8e8e880; width: 126px; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-right"><b>Comportement principal</b></p></td><td style="width: 262px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les modèles existaient uniquement dans la section Modèle. L'utilisateur devait télécharger le même fichier IFC dans les sections Document et Modèle.</p></td><td style="width: 248px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les modèles sont créés à partir de fichiers IFC téléchargés dans la section Documents, si l'utilisateur le demande. Le fichier IFC et son modèle associé sont alors liés.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-right"><b>Interface utilisateur</b></p></td><td style="width: 262px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><b>Différente</b> de la section Documents et affichant moins d'informations, essentiellement une liste de modèles.</p></td><td style="width: 248px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><b>Identique</b> à la section Documents : un tableau personnalisable avec les métadonnées associées.</p></td></tr><tr><td style="background-color: #e8e8e880; width: 126px; border-top: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-right"><b>Droits d'accès</b></p></td><td style="width: 262px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><b>Ne pouvait pas être appliqué</b> aux modèles</p></td><td style="width: 248px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><b>Peut être appliqué</b> aux modèles à partir de leur document associé dans la section documents</p></td></tr></tbody></table></div>
 
 ## 2. **Familier mais différent**
 
-Maintenant que les deux sections ont été liées, il est important de noter qu'il existe toujours des différences clés entre les sections models et Documents. Dans la section models, vous pourrez voir tous les model-Documents rassemblés dans une liste. Ici, vous verrez vos model-Documents d'une manière similaire à la façon dont ils seront utilisés dans la Visionneuse 3D. Dans la section Documents, vous pourrez voir les Document-models dans votre structure de Document. Ici, vous verrez vos Document-models d'une manière similaire à la façon dont ils seront utilisés dans votre environnement commun de données. Tous les models sont liés à chacun de leurs propres Documents et les fonctionnalités des deux sections peuvent être utilisées à la fois dans la section models et dans la section Documents.
+Maintenant que les deux sections ont été liées, il est important de noter qu'il existe encore certaines différences clés entre les sections modèles et documents. Dans la section modèles, vous pourrez voir tous les modèles-documents rassemblés dans une liste. Ici, vous verrez vos modèles-documents d'une manière similaire à la façon dont ils seront utilisés dans la visionneuse 3D. Dans la section documents, vous pourrez voir les documents-modèles dans votre structure de documents. Ici, vous verrez vos documents-modèles d'une manière similaire à la façon dont ils seront utilisés dans votre environnement de données commun. Tous les modèles sont liés à leur propre document et les fonctionnalités des deux sections peuvent être utilisées dans la section modèles et dans la section documents.
 
-## 3. **Changements de la section models**
+## 3. **Modifications de la section modèles**
 
-Avec models comme Documents, l'apparence de la section models a changé. Au lieu de voir des éléments de menu pour chaque model, ils apparaîtront maintenant dans un tableau consultable.
+Avec les modèles en tant que documents, la section modèles a changé d'apparence. Au lieu de voir des éléments de menu pour chaque modèle, ils apparaîtront désormais dans un tableau consultable.
 
-Dans la section models, vous pourrez trouver les changements suivants :
+Dans la section modèles, vous pourrez trouver les modifications suivantes :
 
-### 3.1 **Tableau model**
+### 3.1 **Tableau des modèles**
 
-Le nouveau tableau models peut ressembler à ceci :
+Le nouveau tableau des modèles peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/01-model-table.png)
 
 ### 3.2 **Colonnes**
 
-La liste model contient des colonnes qui affichent la plupart des informations que vous devez connaître sur vos models.
+La liste des modèles contient des colonnes qui affichent la plupart des informations que vous devez connaître sur vos modèles.
 
-_Nom_ Le nom du model-Document Le nom du model est également le nom que vous verrez dans le sélecteur de revision dans la vue 3D.
+_Nom_ Le nom du modèle-document Le nom du modèle est également le nom que vous verrez dans le sélecteur de révision dans la vue 3D.
 
-**Nom du Document** Le nom du Document-model dans la section Documents
+**Nom du document** Le nom du document-modèle dans la section documents
 
-**Nom de revision** Le nom de la dernière revision
+**Nom de révision** Le nom de la dernière révision
 
 ### 3.3 **Contrôle d'accès**
 
-Si un model a été restreint pour vous dans la section Documents, vous ne le voyez ni dans la section Documents, ni dans le tableau models, ni dans le sélecteur de revision.
+Si un modèle a été restreint pour vous dans la section documents, vous ne le verrez ni dans la section documents, ni dans le tableau des modèles, ni dans le sélecteur de révision.
 
 ### 3.4 **Sélection d'éléments de tableau**
 
-Avec le tableau model, vous pouvez maintenant sélectionner une série de models en maintenant Maj enfoncée. Vous pouvez également ajouter ou supprimer des models de votre sélection en maintenant Ctrl enfoncé.
+Avec le tableau des modèles, vous pouvez maintenant sélectionner une plage de modèles en maintenant la touche Maj enfoncée. Vous pouvez également ajouter ou supprimer des modèles de votre sélection en maintenant la touche Ctrl enfoncée.
 
 ### 3.5 **Boutons d'action**
 
-Auparavant, la seule action que vous pouviez effectuer sur les models sélectionnés était leur ouverture en 3D. Maintenant, vous pouvez télécharger, supprimer et ouvrir la vue 2D de vos models sélectionnés. Si vous supprimez un model connecté à un Document, le Document perdra la connexion au model, mais le Document restera dans la section Document.
+Par le passé, la seule action que vous pouviez effectuer sur les modèles sélectionnés était l'ouverture de ces modèles en 3D. Maintenant, vous pouvez télécharger, supprimer et ouvrir la vue 2D de vos modèles sélectionnés. Si vous supprimez un modèle connecté à un document, le document perdra la connexion au modèle, mais le document restera dans la section documents.
 
-### 3.6 **Contrôle d'accès à Document-models**
+### 3.6 **Contrôler l'accès aux documents-modèles**
 
-**Création d'un model-Document** Si vous créez un model avec le bouton de création de model dans la section models, vous serez invité à sélectionner l'endroit où vous voulez que le Document-model lié se termine dans la section Documents. Dans la boîte de dialogue de création de model, vous pourrez également donner un nom au model. Le Document-model lié résultant aura le même nom que le model lors de sa création. Catenda Hub mémorisera le dossier que vous avez choisi en dernier et le sélectionnera automatiquement la prochaine fois que vous créerez un model-Document.
+**Création d'un modèle-document** Si vous créez un modèle avec le bouton créer un modèle dans la section modèles, vous serez invité à sélectionner l'endroit où vous souhaitez que le document-modèle lié aboutisse dans la section documents. Dans la boîte de dialogue créer un modèle, vous pourrez également donner un nom au modèle. Le document-modèle lié résultant aura le même nom que le modèle lors de sa création. Catenda Hub mémorisera le dossier que vous avez choisi en dernier et le sélectionnera automatiquement la prochaine fois que vous créerez un modèle-document.
 
-Si votre projet a commencé sans models comme Documents, un dossier appelé « Models » aura apparu dans votre structure de dossiers. Le dossier models qui apparaît contient tous les Document-models qui sont liés aux model-Documents de la section model. Les Document-models peuvent être déplacés de ce dossier n'importe où dans la section Documents à laquelle vous avez accès. Les Document-models du dossier Models peuvent également être supprimés (et restaurés) si vous le souhaitez. Les Document-models n'ont pas besoin d'être dans le dossier et le dossier models peut être supprimé si nécessaire.
+Si votre projet a commencé sans modèles en tant que documents, un dossier appelé 'Modèles' aura été créé dans votre structure de dossiers. Le dossier des modèles qui apparaît contient tous les documents-modèles qui sont liés aux modèles-documents de la section modèles. Les documents-modèles peuvent être déplacés hors de ce dossier n'importe où dans la section documents à laquelle vous avez accès. Les documents-modèles dans le dossier Modèles peuvent également être supprimés (et restaurés) si désiré. Les documents-modèles ne doivent pas être dans le dossier et le dossier des modèles peut être supprimé si nécessaire.
 
-**Création d'une revision de model** Pour pouvoir télécharger de nouvelles revisions vers un model, vous devez maintenant avoir au moins un accès en écriture au Document model. De nouvelles revisions du model peuvent être ajoutées au Document et vice versa.
+**Création d'une révision de modèle** Pour pouvoir télécharger de nouvelles révisions vers un modèle, vous devez maintenant disposer d'au moins un accès en écriture au modèle de document. De nouvelles révisions du modèle peuvent être ajoutées au document et vice versa.
 
-> **Note :** Les commentaires de revision ont été désactivés et peuvent maintenant être activés de manière optionnelle avec [des champs personnalisés sur les revisions](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents).
+> **Remarque :** Les commentaires de révision ont été désactivés et peuvent maintenant éventuellement être activés avec [des champs personnalisés sur les révisions](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents).
 
-**Téléchargement d'une revision de model** Vous devez avoir au moins un accès en lecture au Document-model pour pouvoir télécharger le model.
+**Téléchargement d'une révision de modèle** Vous devez disposer d'au moins un accès en lecture au modèle-document pour pouvoir télécharger le modèle.
 
-### 3.7 **Menu d'information à droite**
+### 3.7 **Menu d'informations de droite**
 
-Un menu d'information à droite sera disponible si un model est sélectionné.
+Un menu d'informations de droite sera disponible si un modèle est sélectionné.
 
-**Champ Document** Dans ce menu, vous verrez vos informations sur le model ainsi qu'un champ gris qui se lie au Document-model de la section Document qui est lié à ce model-Document. Cliquez sur le champ Document pour ouvrir le Document-model qui est lié à ce model.
+**Champ de document** Dans ce menu, vous verrez les informations de votre modèle ainsi qu'un champ grisé qui renvoie au document-modèle dans la section documents qui est lié à ce modèle-document. Cliquez sur le champ de document pour ouvrir le document-modèle qui est lié à ce modèle.
 
-**Étiquettes model** Vous pouvez maintenant également ajouter des Étiquettes à vos models ici.
+**Étiquettes de modèle** Vous pouvez maintenant également ajouter des étiquettes à vos modèles ici.
 
-**Statut du model** Si des Statuts ont été configurés dans les paramètres Document, vous pourrez configurer un Statut pour votre model ici.
+**Statut du modèle** Si des statuts ont été configurés dans les paramètres du document, vous pourrez configurer un statut pour votre modèle ici.
 
-**Transformation de model** Si vous avez ouvert ce model en 3D, vous pourrez configurer la transformation de model ici.
+**Transformation de modèle** Si vous avez ouvert ce modèle en 3D, vous pourrez configurer la transformation du modèle ici.
 
-## 4. **Changements de la section Documents**
+## 4. **Modifications de la section documents**
 
-Bien que les changements visuels ne soient pas aussi apparents que dans la section models, il y a quelques choses qui changeront dans la section Documents lorsque models comme Documents est activé. Voici à quoi peuvent ressembler les Document-models dans la section Documents.
+Bien que les modifications visuelles ne soient pas aussi apparentes que dans la section modèles, il y a quelques éléments qui changeront dans la section documents lorsque la fonction modèles en tant que documents est activée. Voici ce à quoi les documents-modèles peuvent ressembler dans la section documents.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/02-documents-section-changes.png)
 
-Dans la section Documents, vous pourrez trouver les changements suivants :
+Dans la section documents, vous pourrez trouver les modifications suivantes :
 
-### 4.1 **Filtre model**
+### 4.1 **Filtre de modèles**
 
-Dès que vous avez des models dans la section models, vous verrez un Filtre model apparaître dans votre menu de Filtres. Avec ce Filtre, vous pouvez afficher/masquer les Document-models qui ont été créés.
+Dès que vous avez des modèles dans la section modèles, vous verrez un filtre de modèles apparaître dans votre menu de filtre. Avec ce filtre, vous pouvez afficher/masquer tous les documents-modèles qui ont été créés.
 
 ### 4.2 **Colonnes**
 
-**Icône** Vous pourrez distinguer un Document-model d'un Document ordinaire par l'icône model située en bas à droite de celle du Document-model.
+**Icône** Vous pourrez distinguer un document-modèle d'un document ordinaire par le badge de modèle en bas à droite de l'icône du document-modèle.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/03-columns.png)
 
-**Nom** Le nom du Document
+**Nom** Le nom du document
 
-**Nom du model** Le nom du model Si votre Document IFC n'a pas été lié à un model, vous verrez ici un bouton de création de model.
+**Nom du modèle** Le nom du modèle. Si votre document IFC n'a pas été lié à un modèle, vous verrez un bouton créer un modèle ici.
 
-**Nom de revision** Le nom de la dernière revision du model
+**Nom de révision** Le nom de la dernière révision du modèle
 
-**Visionneuse** Une colonne avec des boutons pour ouvrir chaque Document-model individuellement dans la Visionneuse 3D. L'ouverture des Document-models dans la Visionneuse 3D n'est possible que si le Document a été lié à un model.
+**Visionneuse** Une colonne avec des boutons pour ouvrir chaque document-modèle individuel dans la visionneuse 3D. L'ouverture des documents-modèles dans la visionneuse 3D n'est possible que si le document a été lié à un modèle.
 
 ### 4.3 **Boutons d'action**
 
-Téléchargez, supprimez ou chargez les vues 2D/3D des models sélectionnés dans la Visionneuse respective en sélectionnant un ou plusieurs models.
+Téléchargez, supprimez ou chargez les vues 2D/3D des modèles sélectionnés dans la visionneuse respective en sélectionnant un ou plusieurs modèles.
 
 <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/inline-9e345595c719.png" width="310"/>    <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/inline-959af958f499.png" width="310"/>
 
-Cela signifie que vous pouvez supprimer plusieurs models à la fois au lieu d'un par un comme auparavant. Si vous supprimez un Document connecté à un model, vous devrez approuver un avertissement indiquant que le model connecté au Document sera également supprimé.
+Cela signifie que vous pouvez supprimer plusieurs modèles à la fois au lieu de les supprimer un par un comme avant. Si vous supprimez un document qui est connecté à un modèle, vous devrez approuver un avertissement selon lequel le modèle connecté au document sera également supprimé.
 
-> **Note :** Cela signifie que vous pouvez supprimer un model sans perdre les données. (Les Documents supprimés peuvent être récupérés)
+> **Remarque :** Cela signifie que vous pouvez supprimer un modèle sans perdre les données. (Les documents supprimés peuvent être récupérés)
 
-### 4.4 **Contrôle d'accès à model-Documents**
+### 4.4 **Contrôler l'accès aux documents-modèles**
 
-**Création de Document-models** Pour pouvoir télécharger de nouvelles revisions vers un model, vous devez maintenant avoir au moins un accès en écriture au Document model. Vous faites cela en créant un model dans le menu d'action d'un Document. Après cela, vous verrez le Document comme un model dans la section models. Le model-Document dans la section models aura le même nom que le Document model, bien que l'un ou l'autre puisse être modifié ultérieurement tout en restant lié. De nouvelles revisions du model peuvent être ajoutées comme revisions au Document et vice versa.
+**Création de documents-modèles** Pour pouvoir télécharger de nouvelles révisions vers un modèle, vous devez maintenant disposer d'au moins un accès en écriture au modèle de document. Vous le faites en créant un modèle dans le menu d'action d'un document. Après cela, vous verrez le document en tant que modèle dans la section modèles. Le modèle-document dans la section modèles aura le même nom que le modèle de document, bien que chacun puisse être modifié ultérieurement tout en restant liés. De nouvelles révisions du modèle peuvent être ajoutées en tant que révisions du document et vice versa.
 
-> **Note :** Cela signifie que vous pouvez créer des models à partir de plusieurs fichiers IFC à la fois au lieu d'avoir à les télécharger un par un
+> **Remarque :** Cela signifie que vous pouvez créer des modèles à partir de plusieurs fichiers IFC en même temps au lieu de devoir les télécharger un par un
 
-**Téléchargement de revisions vers les Document-models** Vous devez avoir au moins un accès en écriture au Document-model pour pouvoir télécharger de nouvelles revisions vers le model. Cela signifie que vous pouvez utiliser la fonction de téléchargement multiple pour télécharger des fichiers IFC vers plusieurs Document-models à la fois
+**Téléchargement de révisions vers des document-modèles** Vous devez disposer d'au moins un accès en écriture au document-modèle pour pouvoir télécharger de nouvelles révisions du modèle. Cela signifie que vous pouvez utiliser la fonction de téléchargement multiple pour télécharger des fichiers IFC vers plusieurs document-modèles à la fois
 
-**Téléchargement de Document-models** Vous devez avoir au moins un accès en lecture au Document-model pour pouvoir télécharger le model. Cela signifie que vous pouvez configurer l'accès pour permettre le téléchargement de models séparés au lieu de simplement tous les models ou aucun.
+**Téléchargement de documents-modèles** Vous devez disposer d'au moins un accès en lecture au document-modèle pour pouvoir télécharger le modèle. Cela signifie que vous pouvez configurer l'accès pour permettre le téléchargement de modèles distincts au lieu de simplement tous les modèles ou aucun modèle.
 
-### 4.5 **Découvrabilité**
+### 4.5 **Découverte**
 
-Les Document-models peuvent maintenant être trouvés dans la section Documents comme n'importe quel autre Document.
+Les documents-modèles peuvent maintenant être trouvés dans la section documents comme n'importe quel autre document.
 
-- Les Document-models peuvent être structurés en dossiers pour faciliter la navigation vers le bon ensemble de models.
-- Des Étiquettes peuvent être ajoutées aux Document-models pour trouver tous les Document-models qui appartiennent à un type.
-- [Des champs personnalisés peuvent être ajoutés à des dossiers](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents) où les Documents sont téléchargés pour rechercher des valeurs de métadonnées liées à chaque Document-model
-- [Des champs personnalisés peuvent être ajoutés à des dossiers](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents) où les Documents sont téléchargés pour pouvoir ajouter des informations à chaque revision dans chaque Document model.
+- Les documents-modèles peuvent être structurés dans des dossiers pour faciliter la navigation vers le bon ensemble de modèles.
+- Des étiquettes peuvent être ajoutées aux documents-modèles pour trouver tous les documents-modèles qui appartiennent à un type.
+- [Des champs personnalisés peuvent être ajoutés aux dossiers](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents) où les documents sont téléchargés pour rechercher des valeurs de métadonnées liées à chaque document-modèle
+- [Des champs personnalisés peuvent être ajoutés aux dossiers](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents) où les documents sont téléchargés pour pouvoir ajouter des informations à chaque révision dans chaque modèle de document.
 
-Consultez [ici](https://support.catenda.com/en/articles/8542598-structuring-documents#h_7838a63c73) pour des suggestions sur la façon de structurer vos Document-models afin qu'ils soient faciles à trouver.
+Consultez [ici](https://support.catenda.com/en/articles/8542598-structuring-documents#h_7838a63c73) pour des suggestions sur la façon de structurer vos documents-modèles afin qu'ils soient faciles à trouver.
 
 ### 4.6 **Approuver les fichiers IFC partagés**
 
-Les fichiers IFC peuvent maintenant être téléchargés comme revisions partagées afin qu'ils puissent suivre un processus d'approbation avant d'être publiés.
+Les fichiers IFC peuvent maintenant être téléchargés en tant que révisions partagées afin qu'ils puissent suivre un processus d'approbation avant d'être publiés.
 
-### 4.7 **Convention de nommage avec Document-models**
+### 4.7 **Convention de nommage avec documents-modèles**
 
-Les noms dans la section Documents incluent souvent des abréviations compressées pour garder le nom du Document court tout en montrant certaines informations sur le sujet du Document. Le nom du Document-model peut donc différer du nom du model-Document pour le maintenir en ligne avec les autres Documents de la section Documents tout en conservant un nom facile à lire à utiliser dans la Visionneuse 3D de la section models. Le nom du Document du Document-model sera le nom reconnu lors du téléchargement de Documents dans la section Documents. Si le nom est similaire ou identique au Document, une nouvelle revision sera automatiquement créée comme pour les autres Documents.
+Les noms de la section documents incluent souvent des abréviations compressées pour garder le nom du document court tout en affichant certaines informations sur le sujet du document. Le nom du document-modèle peut donc être différent du nom du modèle-document pour le maintenir en conformité avec les autres documents de la section documents tout en conservant un nom facile à lire pour utilisation dans la visionneuse 3D de la section modèles. Le nom du document du document-modèle sera le nom reconnu lors du téléchargement de documents dans la section documents. Si le nom est similaire ou identique au document, une nouvelle révision sera automatiquement créée tout comme avec les autres documents.
 
-Parce que les Document-models se comportent de la même manière que les models ordinaires, il est maintenant possible d'utiliser la convention de nommage avec les Document-models pour assurer que les participants de votre projet donnent le bon nom au Document lors du téléchargement.
+Comme les documents-modèles se comportent de la même manière que les modèles ordinaires, il est maintenant possible d'utiliser la convention de nommage avec les documents-modèles pour s'assurer que les participants de votre projet donnent le bon nom au document lors du téléchargement.

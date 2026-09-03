@@ -1,6 +1,6 @@
 # Changelog 13 Catenda - augustus 2026
 
-> Catenda-productupdates: Verken de nieuwe Kanban-weergave voor onderwerpen, verbeterde goedkeuringswerkstromen, Catenda AI Connect en Gegevensexport. Bevat opgeloste bugs, nieuwe videotutorials en bijgewerkte ondersteuningsdocumentatie.
+> Catenda-productupdates: de nieuwe Kanban-weergave voor topics, verbeterde goedkeuringswerkstromen, Catenda AI Connect en Gegevensexport. Met opgeloste bugs, nieuwe videotutorials en bijgewerkte documentatie voor modellen, documenten en topics.
 
 Hallo iedereen,
 

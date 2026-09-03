@@ -36,7 +36,7 @@ Pour chaque alignement, le nom de l'alignement s'affiche ainsi que le nom du mod
 
 Chaque plan glissant dispose d'un bouton d'aperçu qui ressemble à un œil.
 
-![Bouton d'aperçu du plan glissant Catenda Hub pour les grilles et alignements](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/05-2-preview-annotation-lines.png)
+![Sliding plane preview button Catend Hub for grids and alignments](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/05-2-preview-annotation-lines.png)
 
 Cliquez sur l'icône d'aperçu d'un plan glissant pour prévisualiser les lignes d'annotation du plan glissant dans la Visionneuse 3D. Dès que l'icône d'aperçu est mise en surbrillance en vert, les lignes d'annotation du plan glissant sélectionné sont visibles dans la Visionneuse 3D.
 

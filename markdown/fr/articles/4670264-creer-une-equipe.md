@@ -1,8 +1,8 @@
 # Créer une équipe
 
-Dans un projet de construction, les équipes peuvent être précieuses car les personnes arrivent souvent, changent de rôle ou quittent différents groupes de travail. La mise en place d'équipes peut prévenir les malentendus après un changement de rôles dans le projet.
+Dans un projet de construction, les équipes peuvent être précieuses car les gens arrivent souvent, changent de rôles ou quittent différents groupes de travail. La mise en place d'équipes peut prévenir les malentendus après un changement de rôles dans le projet.
 
-Créez une équipe en ouvrant le menu d'action à droite du bouton plus vert sur la [page Membres et équipes](https://support.catenda.com/en/articles/4670291-members-and-teams-page) quel que soit l'onglet sélectionné.
+Créez une équipe en ouvrant le menu d'action à droite du bouton vert plus sur la [page Membres et équipes](https://support.catenda.com/en/articles/4670291-members-and-teams-page) quel que soit l'onglet sélectionné.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/01-intro.png)
 
@@ -12,17 +12,17 @@ Les équipes peuvent également être créées à partir des pages de contenu Me
 
 ## 1. **Quand mettre en place une équipe ?**
 
-Les équipes Catenda peuvent être divisées de la manière que vous souhaitez. En règle générale, une équipe est constituée par chaque domaine d'études auquel appartiennent les participants du projet. Des équipes distinctes peuvent être constituées pour des groupes de travail individuels, soit au sein de ce domaine d'études, soit de manière interdisciplinaire. Les Membres peuvent faire partie de plusieurs équipes, de sorte que les équipes dont ils font partie finissent par décrire les différents rôles qu'ils ont dans le projet.
+Les équipes Catenda peuvent être divisées comme vous le souhaitez. Généralement, une équipe est constituée pour chaque domaine d'études auquel appartiennent les participants du projet. Des équipes distinctes peuvent être créées pour des groupes de travail individuels au sein de ce domaine d'études ou interdisciplinaires. Les membres peuvent faire partie de plusieurs équipes, de sorte que les équipes dont ils font partie finissent par décrire les différents rôles qu'ils ont dans le projet.
 
 ### 1.1 **Équipes pour la gestion des sujets**
 
-Les sujets peuvent être demandés et assignés aux équipes, ce qui facilite le suivi des responsabilités et des demandes d'une équipe. Les nouveaux sujets qui sont créés sont souvent d'abord assignés à une équipe, après quoi un examen des sujets ouverts pour l'équipe est effectué et les sujets sont ensuite assignés aux Membres individuels pour le suivi.
+Les sujets peuvent être demandés et assignés aux équipes, ce qui facilite le suivi des responsabilités et des demandes d'une équipe. Les nouveaux sujets créés sont souvent d'abord assignés à une équipe, après quoi un examen des sujets ouverts de l'équipe est effectué et les sujets sont ensuite assignés à des membres individuels pour suivi.
 
 ### 1.2 **Équipes pour les notifications de sujets**
 
 Dans un sujet, une équipe peut également être mentionnée pour informer toute l'équipe de quelque chose.
 
-Le contrôle d'accès peut être délégué aux équipes. Ceci peut être utilisé pour configurer l'accès avant que les utilisateurs ne fassent partie d'une équipe. Ensuite, lorsque l'accès est prêt à être utilisé, les bons utilisateurs peuvent être ajoutés à l'équipe. Une bonne utilisation de ceci est de configurer une équipe lorsqu'un Membre est invité afin qu'il obtienne l'accès approprié dès qu'il devient partie du projet.
+Le contrôle d'accès peut être délégué aux équipes. Cela peut être utilisé pour configurer l'accès avant que les utilisateurs ne fassent partie d'une équipe. Ensuite, lorsque l'accès est prêt à être utilisé, les utilisateurs appropriés peuvent être ajoutés à l'équipe. Un bon usage de ceci est de configurer une équipe lorsqu'un membre est invité pour qu'il obtienne le bon accès dès qu'il devient partie du projet.
 
 ## 2. **Créer une nouvelle équipe**
 
@@ -32,16 +32,16 @@ Voici à quoi peut ressembler la page de création d'une nouvelle équipe :
 
 ### 2.1 **Nom**
 
-Entrez ici le nom de l'équipe. Les noms d'équipes doivent être uniques par projet.
+Entrez le nom de l'équipe ici. Les noms d'équipes doivent être uniques par projet.
 
 ### 2.2 **Rôle**
 
-Dans la zone de rôle, le rôle que les Membres faisant partie de cette équipe doivent avoir peut être configuré.
+Dans la zone Rôle, le rôle que les membres qui feront partie de cette équipe doivent avoir peut être configuré.
 
-**Administrateur** Si l'équipe reçoit le rôle d'administrateur, chaque Membre de cette équipe aura accès administrateur quel que soit le fait qu'il soit administrateur en tant que Membre ou non. Les administrateurs ont un accès complet au projet à quelques exceptions près : - Suppression du projet, seuls les propriétaires du projet peuvent le faire. - Certaines vues spécifiques à l'utilisateur telles que les Signets privés, les collections et les paramètres privés de Bibliothèque.
+**Administrateur** Si l'équipe obtient un rôle administrateur, tous les membres de cette équipe auront un accès administrateur quel que soit leur statut en tant que membre administrateur ou non. Les administrateurs ont un accès complet au projet à quelques exceptions près : - Suppression du projet, seuls les propriétaires du projet peuvent le faire. - Certaines vues spécifiques aux utilisateurs telles que les signets privés, les collections et les paramètres de bibliothèque privée.
 
-_Membre_ - Par défaut, les Membres auront par défaut un accès en lecture et en écriture à la plupart des fonctionnalités, et un accès en suppression à leur propre contenu. Les Membres peuvent être davantage limités par les règles de contrôle d'accès dans différentes sections de l'application, telles que les Documents, les tableaux de sujets, et bien d'autres.
+_Membre_ - Par défaut, les membres auront par défaut les droits de lecture et d'écriture sur la plupart des fonctionnalités, et les droits de suppression sur leur propre contenu. Les membres peuvent être davantage limités par les règles de contrôle d'accès dans différentes sections de l'application, telles que les documents, les listes de sujets, etc.
 
 ### 2.3 **Créer**
 
-Lorsque l'équipe est créée, la [page de contenu de l'équipe](https://support.catenda.com/en/articles/7891755-team-page) s'ouvre. À partir de là, les Membres peuvent être ajoutés à l'équipe.
+Lorsque l'équipe est créée, la [page de contenu de l'équipe](https://support.catenda.com/en/articles/7891755-team-page) s'ouvrira. À partir de là, les membres peuvent être ajoutés à l'équipe.

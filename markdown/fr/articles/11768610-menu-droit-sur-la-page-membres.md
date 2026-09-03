@@ -2,11 +2,11 @@
 
 Sélectionnez un élément sur la [page des Membres et Équipes](https://support.catenda.com/en/articles/4670291-members-and-teams-page) pour que le bouton d'information s'affiche à droite de la barre de recherche ou de Filtres. Voici où le bouton peut être trouvé sur la page :
 
-![Onglet Membres de la page Membres. Une flèche pointe vers le ](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/01-intro.png)
+![Onglet Membres de la page Membres et Équipes. Une flèche pointe vers le ](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/01-intro.png)
 
 Le bouton d'information peut ressembler à ceci :
 
-![Bouton pour le menu droit sur la page Membres](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/02-intro.png)
+![Bouton du menu de droite sur la page Membres](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/02-intro.png)
 
 Cliquez sur cette icône pour ouvrir un menu où les champs des éléments sélectionnés peuvent être modifiés.
 
@@ -42,11 +42,9 @@ Si un Membre sélectionné a un rôle différent du rôle sélectionné, le rôl
 
 Voici à quoi peut ressembler le menu de droite sur l'onglet Équipes :
 
-![Menu de droite avec les détails d'une Équipe où vous pouvez définir le rôle, ajouter et supprimer des Membres](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/05-right-menu-on-the-teams-tab.png)
+![Menu de droite avec les détails d'une équipe où vous pouvez définir le rôle, ajouter et supprimer des Membres](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/05-right-menu-on-the-teams-tab.png)
 
 Si vous avez une Équipe sélectionnée, les initiales ou l'avatar, le nom et le nombre de Membres de cette Équipe peuvent être vus vers le haut du menu.
-
-Les rubriques suivantes sont décrites dans cette section :
 
 ### 2.1 **Rôle de l'Équipe**
 

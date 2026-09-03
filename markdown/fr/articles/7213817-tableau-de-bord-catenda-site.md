@@ -5,7 +5,7 @@ Après avoir sélectionné votre projet sur la [page des projets](https://suppor
 Sur cette page, vous pouvez consulter l'état de vos topics, choisir ou modifier les issue boards que vous souhaitez afficher et filtrer les topics.
 
 1. Pour modifier les issue boards, sélectionnez un issue board dans la liste déroulante des issue boards
-2. Choisissez le filtre que vous souhaitez utiliser pour voir vos topics
+1. Choisissez le filtre que vous souhaitez utiliser pour voir vos topics
    - Topics ouverts (l'issue board sélectionné)
    - Tous les topics ouverts (tous les issue boards)
    - Topics fermés (l'issue board sélectionné)

@@ -5,7 +5,7 @@ Na het selecteren van uw project op de [projectenpagina](https://support.catenda
 Op deze pagina kunt u de status van uw onderwerpen bekijken, kiezen of wijzigen welke probleemborden u weergegeven wilt zien en onderwerpen filteren.
 
 1. Als u probleemborden wilt wijzigen, selecteert u een probleembord in de vervolgkeuzelijst Probleembord
-2. Kies het filter dat u wilt gebruiken om uw onderwerpen te zien
+1. Kies het filter dat u wilt gebruiken om uw onderwerpen te zien
    - Open onderwerpen (het geselecteerde probleembord)
    - Alle open onderwerpen (alle probleemborden)
    - Gesloten onderwerpen (het geselecteerde probleembord)

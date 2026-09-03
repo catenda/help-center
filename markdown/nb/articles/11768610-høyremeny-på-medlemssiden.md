@@ -2,11 +2,11 @@
 
 Velg et element på [siden for medlemmer og teams](https://support.catenda.com/en/articles/4670291-members-and-teams-page) for at infoknapppen skal vises til høyre for søke- eller filterfeltet. Her finner du knappen på siden:
 
-![Medlemsfane på medlemssiden. En pil peker til ](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/01-intro.png)
+![Medlemmer-fanen på medlemmer- og team-siden. En pil peker på ](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/01-intro.png)
 
 Infoknapppen kan se slik ut:
 
-![Knapp for høyremeny på medlemssiden](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/02-intro.png)
+![Knapp for høyremeny på medlemmersiden](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/02-intro.png)
 
 Klikk på dette ikonet for å åpne en meny der felt for de valgte elementene kan endres.
 
@@ -14,7 +14,7 @@ Klikk på dette ikonet for å åpne en meny der felt for de valgte elementene ka
 
 Slik kan høyremenyen på medlemsfanen se ut:
 
-![Medlemsdetaljer](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/03-right-menu-on-the-members-tab.png)
+![Medlemmerdetaljer](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/03-right-menu-on-the-members-tab.png)
 
 Hvis du har ett medlem valgt, kan initialer eller avatar, navn og e-post til det medlemmet ses øverst i menyen.
 
@@ -45,8 +45,6 @@ Slik kan høyremenyen på teamsfanen se ut:
 ![Høyremeny med detaljer om et team der du kan angi rolle, legge til og fjerne medlemmer](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/05-right-menu-on-the-teams-tab.png)
 
 Hvis du har ett team valgt, kan initialer eller avatar, navn og antallet medlemmer i det teamet ses øverst i menyen.
-
-Følgende saker er beskrevet i denne delen:
 
 ### 2.1 **Teamrolle**
 

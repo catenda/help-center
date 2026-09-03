@@ -1,111 +1,111 @@
-# Ein Zip-Archiv / eine Dateistruktur hochladen
+# Zip-Datei / Dateistruktur hochladen
 
-Im Gegensatz zum Hochladen einer normalen Zip-Datei wird die Zip-Upload-Funktion ein Zip-Archiv entpacken. Auf diese Weise können Sie eine Dateistruktur in die [Seite Dokumente](https://support.catenda.com/en/articles/8204673-documents-page#h_28610e1d21) importieren, ohne Ordner manuell erstellen zu müssen.
+Im Gegensatz zum Hochladen einer regulären Zip-Datei entpackt die Funktion "Zip hochladen" eine Zip-Datei. Auf diese Weise können Sie eine Dateistruktur in die [Seite "Dokumente"](https://support.catenda.com/en/articles/8204673-documents-page#h_28610e1d21) importieren, ohne Ordner manuell erstellen zu müssen.
 
-Die Zip-Upload-Funktion finden Sie im Aktionsmenü rechts neben der grünen Schaltfläche + oben rechts auf der Seite Dokumente.
+Die Funktion "Zip hochladen" finden Sie im Aktionsmenü rechts neben der grünen Schaltfläche + oben rechts auf der Seite "Dokumente".
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/01-intro.png)
 
 ## 1. **Zip-Datei auswählen**
 
-Nach dem Klicken auf den Menüpunkt Upload Zip wird das folgende Dialogfeld angezeigt:
+Nach dem Klicken auf das Menüelement "Zip hochladen" wird das folgende Dialogfeld geöffnet:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/02-selecting-a-zip-file.png)
 
-Der Datei-Browser Ihres Systems sollte automatisch geöffnet werden. Wenn der Datei-Browser nicht geöffnet wurde oder wenn er geschlossen wurde, ohne eine Zip-Datei auszuwählen, können Sie ihn erneut öffnen, indem Sie auf die Schaltfläche Zip-Datei auswählen klicken.
+Der Dateibrowser Ihres Systems sollte automatisch geöffnet werden. Wenn der Dateibrowser nicht geöffnet wurde oder ohne Auswahl einer Zip-Datei geschlossen wurde, können Sie ihn durch Klicken auf die Schaltfläche "Zip-Datei auswählen" erneut öffnen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/03-selecting-a-zip-file.png)
 
-Nach erfolgreichem Auswählen einer Zip-Datei auf Ihrem lokalen System sollten Sie den Namen der Zip-Datei sehen und die Schaltfläche Upload Zip wird grün hervorgehoben.
+Nach erfolgreicher Auswahl einer Zip-Datei auf Ihrem lokalen System sollten Sie den Namen der Zip-Datei wie unten dargestellt sehen und die Schaltfläche "Zip hochladen" wird dunkelgrün hervorgehoben.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/04-selecting-a-zip-file.png)
 
-Wenn Sie keinen Ordner im Dokumentbereich eingegeben haben, wird angezeigt, dass der Inhalt in den Stammordner extrahiert wird. Das bedeutet, dass Sie den Inhalt direkt sehen, wenn Sie den Dokumentbereich eingeben. Es ist auch möglich, zu einem Ordner in Catenda zu navigieren und Ihr Zip-Archiv dort hochzuladen, wenn die Dateistruktur dort angezeigt werden soll.
+Wenn Sie keinen Ordner im Abschnitt "Dokumente" angegeben haben, wird angezeigt, dass der Inhalt in den Root-Ordner extrahiert wird. Dies bedeutet, dass Sie den Inhalt sehen, sobald Sie die Seite "Dokumente" öffnen. Es ist auch möglich, in Catenda zu einem Ordner zu navigieren und Ihre Zip-Datei dort hochzuladen, wenn die Dateistruktur dort angezeigt werden soll.
 
-## 2. **Hochladekonfiguration**
+## 2. **Hochladen konfigurieren**
 
-Einstellungen können für Elemente mit Namen in der Zip-Datei konfiguriert werden, die bereits an dem Ort vorhanden sind, an dem die Zip-Extraktion versucht, sie im Catenda-Projekt zu platzieren.
+Die Einstellungen können für Elemente mit Namen in der Zip-Datei konfiguriert werden, die bereits an dem Ort vorhanden sind, an dem die Zip-Extraktion versucht, sie im Catenda-Projekt zu platzieren.
 
 ### 2.1 **Ordner**
 
-Neue Ordner werden nur erstellt, wenn an dem Speicherort, an dem das Zip-Archiv einen Ordner extrahieren möchte, noch kein Ordner mit diesem Namen vorhanden ist. Alle Elemente in einem Ordner, in dem bereits ein Ordner mit gleichem Namen vorhanden ist, werden in den vorhandenen Ordner mit gleichem Namen im Catenda-Projekt eingefügt.
+Neue Ordner werden nur erstellt, wenn an dem Ort, an den die Zip-Datei einen Ordner extrahiert möchte, noch kein Ordner mit diesem Namen vorhanden ist. Alle Elemente in einem Ordner, für den bereits ein Ordner mit dem gleichen Namen vorhanden ist, werden in den vorhandenen Ordner mit dem gleichen Namen im Catenda-Projekt eingefügt.
 
 ### 2.2 **Dokumente**
 
-Für die Extraktion der Zip-Datei können verschiedene Verhaltensweisen konfiguriert werden, wenn ein Dokument mit demselben Namen wie die Datei in der Zip-Datei bereits an dem gleichen Ort vorhanden ist, an dem die Zip-Datei versucht, es im Catenda-Projekt zu extrahieren.
+Verschiedene Verhaltensweisen können dafür konfiguriert werden, wie die Extraktion der Zip-Datei funktioniert, wenn ein Dokument mit dem gleichen Namen wie die Datei in der Zip-Datei bereits am gleichen Ort vorhanden ist, an den die Zip-Datei versucht, es im Catenda-Projekt zu extrahieren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/05-documents.png)
 
-**Neue Version erstellen - Standard** Wenn ein Dokument mit gleichem Namen an der gleichen Stelle wie die Zip-Extraktion existiert, wird eine neue Version in diesem Dokument erstellt.
+**Neue Revision erstellen - Standard** Wenn ein Dokument mit dem gleichen Namen am gleichen Ort vorhanden ist, an den die Zip-Datei versucht, eine Datei zu extrahieren, wird eine neue Revision in diesem Dokument erstellt.
 
-**Überspringen und fortfahren** Wenn ein Dokument mit gleichem Namen an der gleichen Stelle wie die Zip-Extraktion existiert, wird die Datei übersprungen und keine neue Version wird in diesem Dokument erstellt.
+**Überspringen und fortfahren** Wenn ein Dokument mit dem gleichen Namen am gleichen Ort vorhanden ist, an den die Zip-Datei versucht, eine Datei zu extrahieren, wird die Datei übersprungen und es wird keine neue Revision im Dokument erstellt.
 
 ### 2.3 **Status anwenden**
 
-Wenn der Status-Workflow in Ihrem Projekt aktiviert wurde, können Sie konfigurieren, welcher Status die neuen Dokumente haben werden. Wenn Sie sich für die Option "Neue Version erstellen" entscheiden, wird der Status von Dokumenten, die eine neue Version erhalten, automatisch geändert.
+Wenn der Status-Workflow in Ihrem Projekt aktiviert wurde, können Sie konfigurieren, welchen Status neue Dokumente haben werden. Wenn Sie die Option "Neue Revision erstellen" wählen, wird der Status von Dokumenten, die eine neue Revision erhalten, automatisch geändert.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/06-apply-status.png)
 
-Es ist nur möglich, zwischen gemeinsamen Versionsstatus auszuwählen. Nach dem Hochladen können die gemeinsamen Versionen auf der Registerkarte Arbeitsbereich gefunden und später veröffentlicht werden.
+Es ist nur möglich, zwischen freigegebenen Revisionsstatus zu wählen. Nach dem Hochladen finden Sie die freigegebenen Revisionen auf der Registerkarte "Arbeitsbereich" und können diese später veröffentlicht werden.
 
 ## 3. **Hochladen**
 
-Nach dem Klicken auf Upload Zip wird Ihr Zip-Archiv hochgeladen
+Nach dem Klicken auf "Zip hochladen" wird Ihre Zip-Datei hochgeladen
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/07-uploading.png)
 
-Sie können weiterhin mit Catenda in einem anderen Browser-Tab arbeiten, während Sie auf das Ende des Hochladens warten.
+Sie können mit Catenda auf einer anderen Registerkarte arbeiten, während Sie auf das Ende des Hochladens warten.
 
-**Erforderlicher Zugriff:** Schreibzugriff auf alle Speicherorte, an denen Ordner und Dokumente erstellt werden Schreibzugriff auf Dokumentversionen, die hinzugefügt werden.
+**Erforderlicher Zugriff:** Schreibzugriff auf jeden der Orte, an denen Ordner und Dokumente erstellt werden Schreibzugriff auf Dokumentrevisionen, die hinzugefügt werden.
 
 ## 4. **Entpacken**
 
-Nach dem Hochladen des Zip-Archivs beginnt Catenda mit dem Entpacken. Während des Entpackens wird das folgende Menü unten links angezeigt:
+Nach dem Hochladen Ihrer Zip-Datei beginnt Catenda mit dem Entpacken Ihrer Zip-Datei. Während des Entpackens wird das folgende Menü unten links angezeigt:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/08-extracting.png)
 
-Sie können dieses Menü offen halten, während Sie in Catenda stöbern, oder es schließen, wenn Sie möchten. Sie können sogar den Browser während des Entpackens ganz schließen. Das Zip-Archiv wird im Hintergrund weiter entpackt. Wenn Sie Catenda in einem anderen Tab verwenden, während das Zip-Archiv entpackt wird, können Sie die Ordner, Dokumente und Versionen schrittweise an dem Speicherort angezeigt bekommen, an den Sie extrahiert haben, indem Sie die Seite aktualisieren.
+Sie können dieses Menü beim Durchsuchen von Catenda offen lassen oder schließen, wenn Sie möchten. Sie könnten sogar den Browser während des Entpackungsprozesses ganz schließen. Die Zip-Datei wird im Hintergrund weiter entpackt. Wenn Sie Catenda auf einer anderen Registerkarte verwendet haben, während die Zip-Datei entpackt wird, sehen Sie, dass die Ordner, Dokumente und Revisionen an dem Ort, an dem Sie extrahiert haben, durch Aktualisieren der Seite angezeigt werden.
 
-### 4.1 **Entpacken abgeschlossen**
+### 4.1 **Extraktion abgeschlossen**
 
-Wenn das Zip-Archiv fertig entpackt ist, wird in dem Dialogfeld "Abgeschlossen" angezeigt.
+Wenn das Entpacken der Zip-Datei abgeschlossen ist, wird im Dialogfeld "abgeschlossen" angezeigt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/09-extraction-completed.png)
 
-Klicken Sie auf "Details anzeigen", um zu sehen, welche Dateien extrahiert wurden. Sie können diese Details später in "Meine Zip-Uploads" finden, wie unten erläutert. Aktualisieren Sie die Seite, um alle hochgeladenen Dateien zu sehen.
+Klicken Sie auf "Details anzeigen", um zu sehen, welche Dateien extrahiert wurden. Sie können diese Details später unter "Meine Zip-Uploads" wie unten erläutert finden. Aktualisieren Sie die Seite, um alle hochgeladenen Dateien zu sehen.
 
 ### 4.2 **Benachrichtigung: Zip-Import abgeschlossen**
 
-Wenn Sie das Dialogfeld, den Browser geschlossen oder die Seite aktualisiert haben, werden Sie das Dialogfeld nicht mehr sehen. Sie erhalten auch eine Benachrichtigung, dass Ihr Zip-Import abgeschlossen ist. Auf diese Weise wissen Sie, wann Ihr Zip-Upload abgeschlossen ist, auch wenn Sie das Entpackungs-Dialogfeld nicht mehr sehen.
+Wenn Sie das Dialogfeld, den Browser geschlossen oder die Seite aktualisiert haben, wird das Dialogfeld nicht mehr angezeigt. Sie erhalten auch eine Benachrichtigung, dass das Entpacken Ihrer Zip-Datei abgeschlossen ist. Auf diese Weise wissen Sie, wann Ihr Zip-Upload abgeschlossen ist, auch wenn Sie das Entpackungsdialogfeld nicht mehr sehen.
 
-## 5. **Größenlimit umgehen**
+## 5. **Das Größenlimit umgehen**
 
-Mit dem Hochladen eines Zip-Archivs können Sie Dateien hochladen, die größer als 7 GB sind, da das Zip-Archiv die Datei komprimiert.
+Mit dem Hochladen einer ZIP-Datei können Sie Dateien hochladen, die größer als 7 GB sind, da die ZIP-Datei die Datei komprimiert.
 
 ## 6. **Meine Zip-Uploads**
 
-Die Option unter Zip-Upload im Aktionsmenü ermöglicht es Ihnen, einen Überblick über Ihre bisherigen Zip-Uploads zu sehen. So können Zip-Importe mit verschiedenen möglichen Status aussehen:
+Die Option unter dem Zip-Upload im Aktionsmenü zeigt Ihnen einen Überblick über Ihre vorherigen Zip-Uploads. So können Zip-Importe mit den verschiedenen möglichen Status aussehen:
 
 ### 6.1 **Entpacken**
 
-Während das Zip-Archiv entpackt wird, erscheinen die extrahierten Dateien nach und nach als Zeilen in der Dokumenttabelle.
+Während die Zip-Datei entpackt wird, erscheinen die extrahierten Dateien als Zeilen in der Dokumenttabelle.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/10-extracting.png)
 
-**Abgeschlossen** Wenn der Zip-Import abgeschlossen ist, sind alle Dateien extrahiert.
+**Abgeschlossen** Wenn der Zip-Import abgeschlossen ist, werden alle Dateien extrahiert.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/11-extracting.png)
 
-### 6.2 **Zip-Import-Seite**
+### 6.2 **Zip-Importseite**
 
-Klicken Sie auf einen Zip-Import, um weitere Informationen zum Importprozess zu sehen. So kann die Zip-Import-Seite eines abgeschlossenen Zip-Imports aussehen:
+Klicken Sie auf einen Zip-Import, um weitere Informationen zum Importprozess anzuzeigen. Dies ist ein Beispiel für die Zip-Importseite eines abgeschlossenen Zip-Imports:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/12-zip-import-page.png)
 
-So kann das rechte Menü der Zip-Import-Seite eines abgeschlossenen Zip-Imports aussehen:
+Dies ist ein Beispiel für das rechte Menü der Zip-Importseite eines abgeschlossenen Zip-Imports:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/13-zip-import-page.png)
 
 ## 7. **Desktop Connector**
 
-Mit dem [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) können Sie automatisch und regelmäßig die neuesten Versionen von Dokumenten von Ihrem lokalen System in Catenda Hub hochladen. Der Desktop Connector ist schneller als der reguläre Hochladeprozess und minimiert das Fehlerrisiko, da er Dokumente datei-für-datei statt in einem großen Batch hochlädt.
+Mit dem [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) können Sie automatisch und regelmäßig die neuesten Versionen von Dokumenten von Ihrem lokalen System zu Catenda Hub hochladen. Der Desktop Connector ist schneller als der reguläre Upload-Prozess und minimiert das Ausfallrisiko, da Dokumente dateiweise statt in einem großen Drag-and-Drop- oder Zip-Upload-Batch hochgeladen werden.

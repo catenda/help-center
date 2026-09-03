@@ -2,14 +2,14 @@
 
 Etter at du har valgt prosjektet ditt på [prosjektsiden](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) blir du tatt til dashbordet for sakene i prosjektet ditt,
 
-På denne siden kan du se statusen for sakene dine, velge eller endre hvilke sakstavler du ønsker vist og filtrere saker.
+På denne siden kan du se statusen på sakene dine, velge eller endre hvilke issue boards du vil skal vises, og filtrere saker.
 
-1. For å endre sakstavler velger du en sakstavle fra rullegardinlisten for sakstavler
-2. Velg filteret du ønsker å bruke for å se sakene dine
-   - Åpne saker (den valgte sakstavlen)
-   - Alle åpne saker (alle sakstavler)
-   - Lukkede saker (den valgte sakstavlen)
-   - Alle lukkede saker (alle sakstavler)
+1. For å endre issue boards velger du en issue board fra rullelisten for issue boards
+1. Velg filteret du ønsker å bruke for å se sakene dine
+   - Åpne saker (den valgte issue board)
+   - Alle åpne saker (alle issue boards)
+   - Lukkede saker (den valgte issue board)
+   - Alle lukkede saker (alle issue boards)
    - Etterspurt av meg
    - Alle kandidatsaker
    - Forfalte saker
