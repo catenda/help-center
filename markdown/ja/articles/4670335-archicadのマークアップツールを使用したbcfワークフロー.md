@@ -18,7 +18,7 @@ BCFはイシューセクションにロードされました。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5fgdptf6/05-intro.png)
 
-**BimsyncからArchicadへのBCF** 取得したいイシューをフィルターで絞り込みます。
+**BimsyncからArchicadへのBCF**取得したいイシューをフィルターで絞り込みます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5fgdptf6/06-intro.png)
 

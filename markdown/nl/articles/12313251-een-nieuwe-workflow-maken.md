@@ -190,7 +190,6 @@ Schakel Beoordeling van alle teamleden vereist in om te vereisen dat elk afzonde
 - **Wanneer dit uit staat** (het huidige, enige gedrag dat elders in dit helpcentrum wordt beschreven), kan elk lid van het revisorteam een validatieaanwijzing namens het hele team indienen, en kan de stap meteen verder gaan zodra zij dat doen.
 
 - **Wanneer dit aan staat,** is de stap van het team niet voltooid totdat elk afzonderlijk lid zijn eigen aanwijzing heeft gegeven. Zie de artikelen Overview-tabblad, het rechtermenu voor bestandsbeoordeling en het rechtermenu voor het documenttabblad voor hoe dit wordt weergegeven tijdens de beoordeling.
-  ​
 
 ### 4.6 **Beoordelingsstap verwijderen**
 

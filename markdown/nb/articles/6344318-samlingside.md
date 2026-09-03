@@ -18,7 +18,7 @@ Du finner knappen Ny samling øverst til høyre
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/02-new-item-actions.png)
 
-### 1.1 **​Ny samling**
+### 1.1 **Ny samling**
 
 Når du oppretter en ny samling, blir du bedt om å fylle ut følgende dialog.
 

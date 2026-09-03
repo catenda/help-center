@@ -10,7 +10,8 @@ Voici les nouveautés de cette version :
 
 - Supprimer les commentaires de problème à l'aide du geste de balayage
 
-- Écran de paramètres amélioré. Vous pouvez maintenant choisir votre écran d'accueil préféré
+- Écran de paramètres amélioré.
+Vous pouvez maintenant choisir votre écran d'accueil préféré
 
 - Nouveau système de notifications in-app pour vous fournir des informations plus utiles
 

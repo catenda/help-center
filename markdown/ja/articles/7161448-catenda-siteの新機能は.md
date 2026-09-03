@@ -13,7 +13,6 @@
 1. [新しい課題をオフラインで作成](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
 1. [コメントを追加/更新/削除](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues)（画像とビューポイント付き）をオフラインで作成
 1. [新しい送信ボックス画面](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)からオフラインで行ったすべての変更を送信
-   ​
 
 ## 2. ドキュメント コレクション
 

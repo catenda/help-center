@@ -28,7 +28,7 @@ Les types de tampon du menu prédéfini peuvent inclure les informations suivant
 
 ### 2.2 Contenu du type de tampon
 
-Dans le menu prédéfini, les tampons suivants peuvent être vus : _​_**Prénom** - Tout avant le premier espace du nom du compte
+Dans le menu prédéfini, les tampons suivants peuvent être vus : **Prénom** - Tout avant le premier espace du nom du compte
 
 **Deuxième prénom Nom** - Tout après le premier espace du nom du compte
 

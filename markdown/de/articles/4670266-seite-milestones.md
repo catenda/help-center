@@ -8,7 +8,7 @@ So kann die Seite Milestones aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/02-intro.png)
 
-Diese Seite enthält Informationen zu den folgenden Themen: [Planung](#h_595c5ebf4c) - [Aktionen](#h_ef3bbf0441)​ - [Milestones-Liste](#h_5403eb541f)
+Diese Seite enthält Informationen zu den folgenden Themen: [Planung](#h_595c5ebf4c) - [Aktionen](#h_ef3bbf0441) - [Milestones-Liste](#h_5403eb541f)
 
 ## 1. Planung
 

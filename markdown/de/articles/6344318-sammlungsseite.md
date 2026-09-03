@@ -18,7 +18,7 @@ Sie finden die Schaltfläche „Neue Sammlung
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/02-new-item-actions.png)
 
-### 1.1 **​Neue Sammlung**
+### 1.1 **Neue Sammlung**
 
 Wenn Sie eine neue Sammlung erstellen, werden Sie aufgefordert, den folgenden Dialog auszufüllen.
 

@@ -36,7 +36,7 @@ _Meerdere statussen/typen tegelijk koppelen_ Als er losgekoppelde statussen/type
 
 Door op de koppeling te klikken, gaat u naar het gebied [losgekoppelde velden](https://support.catenda.com/en/articles/4670277-topic-board-settings#h_3bd7e3e759) van de [instellingen van het topic board](https://support.catenda.com/en/articles/4670277-topic-board-settings) waar u alle velden van één soort tegelijk aan een bestaande waarde kunt koppelen.
 
-## 2. **Topics exporteren**​
+## 2. **Topics exporteren**
 
 U kunt topics exporteren door in het [menu voor nieuwe item-acties](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_8c642e051a) rechtsboven in een topic board de optie topics exporteren te kiezen, of door een topic in de topicslijst te selecteren en de exportoptie in het [menu voor geselecteerde item-acties](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_b5c00c149b) boven het topic board te kiezen. De dialoog voor het exporteren van topics kan er zo uitzien:
 

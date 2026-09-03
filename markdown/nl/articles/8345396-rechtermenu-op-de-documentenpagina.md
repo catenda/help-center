@@ -4,7 +4,7 @@ Nadat u één of meer document(en) hebt geselecteerd, ziet u het informatiepicto
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/01-intro.png)
 
-Dit uitgebreide paneel kan er anders uitzien, afhankelijk van wat u hebt geselecteerd [​_Eén map_ ](#h_cad792004b) _- [Eén document](#h_2fac53531d) - [Meerdere map(pen) en/of document(en)](#h_58d67056f7)_
+Dit uitgebreide paneel kan er anders uitzien, afhankelijk van wat u hebt geselecteerd [_Eén map_ ](#h_cad792004b) _- [Eén document](#h_2fac53531d) - [Meerdere map(pen) en/of document(en)](#h_58d67056f7)_
 
 ## 1. Eén map
 

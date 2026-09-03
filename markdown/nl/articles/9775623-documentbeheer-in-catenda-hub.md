@@ -24,7 +24,7 @@ Hier is een vergelijking van de voor- en nadelen van deze 2 varianten:
 
 U kunt goede suggesties voor het maken van een mapstructuur vinden in [dit artikel](https://support.catenda.com/en/articles/8542598-structuring-documents). U kunt ook een voorbeeld van een mapstructuur gebruikt door de Staatsgebouwdirectie in Beieren vinden via de volgende [link](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) Mapstructuren kunnen zeer verschillend worden opgezet. Dit hangt enerzijds af van de vereisten van het project en het bijbehorende projectteam, en anderzijds hangt de mapstructuur af van eventueel gebruikte plansleutels.
 
-### 1.1 ​**Voorbeeld -** Structuren scheiden per fase
+### 1.1 **Voorbeeld -** Structuren scheiden per fase
 
 Een mapstructuur is ingesteld op basis van de servicefasen. Dit scheidt duidelijk welke documenten uit welke beheerfasen in welke mappen worden opgeslagen. Maar wat gebeurt er met documenten die van toepassing zijn op alle servicefasen? U zou kunnen denken dat als de documenten in de mappen van de verschillende servicefasen zijn georganiseerd, deze informatie bijvoorbeeld niet meer nodig is in de plansleutel. Maar wat gebeurt er wanneer een plan wordt afgedrukt of digitaal naar de bouwplaats wordt verzonden? Ook hier moet de plannaam worden gebruikt om het exacte document te identificeren. In het beste geval vormen de mapstructuur en plansleutel een eenheid die voor alle betrokken partijen gedurende het hele project werkt.
 

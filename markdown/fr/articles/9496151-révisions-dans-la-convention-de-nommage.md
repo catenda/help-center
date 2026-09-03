@@ -10,7 +10,7 @@ Avec la convention de nommage, il est demandé ou souhaité que tout soit nommé
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-a2fc3b4afcfe.png" style="height: auto;" width="1920"/></div>
 
-   Pour ce faire, vous pouvez afficher la colonne "Name de Revision", qui affiche le nom original.
+Pour ce faire, vous pouvez afficher la colonne "Name de Revision", qui affiche le nom original.
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-1b1cee11c3c8.png" style="height: auto;" width="1920"/></div>
 

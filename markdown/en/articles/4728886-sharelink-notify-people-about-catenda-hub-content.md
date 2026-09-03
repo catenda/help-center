@@ -25,7 +25,7 @@ ShareLink sends an email from Catenda Hub to the project members you choose with
     A sharelink recipient will then only see these items.
 If the page is shared with a sharelink recipient they will see the whole page, including filters, based on their access in the project.
 
-1. Click the the ShareLink button.<br>​
+1. Click the the ShareLink button.<br>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 

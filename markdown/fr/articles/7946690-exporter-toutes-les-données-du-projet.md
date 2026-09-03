@@ -91,10 +91,10 @@ Le [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-c
 
 - **Vue d'accès par utilisateur**
   Affiche les niveaux d'accès des utilisateurs individuels directement à partir du menu d'information de droite d'une Liste de sujets ou d'un Sujet sélectionné.
-  ​_Accès requis :_ accès en lecture à la Liste de sujets
+  _Accès requis :_ accès en lecture à la Liste de sujets
 - **Configuration complète de l'Équipe**
   Capturez des captures d'écran des paramètres d'autorisation complets au niveau de l'Équipe dans les paramètres d'accès de la Liste de sujets.
-  ​_Accès requis :_ Accès complet à la Liste de sujets ou administrateur du projet
+  _Accès requis :_ Accès complet à la Liste de sujets ou administrateur du projet
 
 **Accès aux Documents et modèles** Exportez l'[aperçu d'accès](https://support.catenda.com/en/articles/6660820-document-access-overview-page) pour enregistrer les autorisations pour les Membres et les Équipes. Accès requis : Administrateur du projet. Étant donné que chaque modèle est lié à un Document dans la section Documents, les autorisations d'accès pour les modèles sont régies par les autorisations de Document sous-jacentes et sont enregistrées à l'aide du même aperçu d'accès aux Documents ou des menus d'autorisation.
 
@@ -106,7 +106,7 @@ Le [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-c
   Les Membres du projet peuvent développer chaque menu sous contrôle d'accès pour voir quels utilisateurs individuels ont la permission d'effectuer chaque action.
 - **Configuration complète**
   Les administrateurs peuvent ouvrir la boîte de dialogue d'édition d'accès pour afficher et gérer les configurations d'autorisation au niveau de l'Équipe.
-  ​_Accès requis :_ Administrateur du projet
+  _Accès requis :_ Administrateur du projet
 
 **Profils utilisateur et détails des Membres** Les informations concernant les Membres du projet et les Équipes sont disponibles pour extraction ou documentation, y compris :
 

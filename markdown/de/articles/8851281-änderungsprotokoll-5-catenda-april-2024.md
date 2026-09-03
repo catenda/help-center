@@ -36,7 +36,7 @@ _[Dokumente strukturieren](https://support.catenda.com/en/articles/8542598-struc
 
 **Modelle** [3D-Viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) [2D-Viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) [Abfragen](https://support.catenda.com/en/articles/4854514-queries)
 
-**Informationsfeld** [Informationsfeld](https://support.catenda.com/en/articles/8238584-information-panel) _​_
+**Informationsfeld** [Informationsfeld](https://support.catenda.com/en/articles/8238584-information-panel)
 
 **Einstellungen** [Seite "Etiketten"](https://support.catenda.com/en/articles/4670265-labels-page) [Ein Team erstellen](https://support.catenda.com/en/articles/4670264-creating-a-team)
 

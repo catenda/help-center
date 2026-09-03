@@ -11,7 +11,6 @@ Terwijl u offline op de locatie bent, kunt u vanaf nu:
 1. [Nieuwe uitgave offline maken](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
 1. [Opmerkingen toevoegen / Bijwerken / Verwijderen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues) met afbeeldingen en viewpoints offline
 1. Dien al uw offline wijzigingen in via [het nieuwe outbox-scherm](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)
-   ​
 
 ## 2. Documentverzamelingen
 

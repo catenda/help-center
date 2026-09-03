@@ -36,7 +36,7 @@ _Access requred:_ Members and administrators must be part of a submitter team co
 
 ### 1.3 **Title**
 
-The title of the approval request. An approval must have a title to ​be submitted.
+The title of the approval request. An approval must have a title to be submitted.
 
 ## 2. **Approval request body**
 

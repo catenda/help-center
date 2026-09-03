@@ -18,7 +18,7 @@ Videoene i avspillingen blir ofte oppdatert med endringer på plattformen. Den n
 - Gif
 - Dokument PDF
 - Slides PDF
-- PPTX​
+- PPTX
 
 ## 3. Dele veiledningen
 

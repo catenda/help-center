@@ -38,7 +38,6 @@ _Prosjektendringer_
 - Standard status er sett til «Ingen status».
 - Gjennomgangmenyen i dokumentinnstillingar er deaktivert.
 - Gjennomgangsfanen til dokumentsiden er deaktivert.
-  ​
 
 ## 2. **Publiserte statusar**
 
@@ -47,7 +46,6 @@ Som standard er det éin publisert status med namnet «publisert» som er konfig
 - Publisert, med merknader - Lys grøn
 - Ventar - Gul
 - Til oppfølging - Raud
-  ​
 
 ## 3. **Legg til status**
 

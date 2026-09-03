@@ -115,7 +115,7 @@ Shared revisions have a minor revision number (e.g. #0.1, #2.3, #4.1) Published 
 
 In the document structure you will see the latest revision you have access to. Click on the name of a document to open the document preview of the displayed revision.
 
-**Workspace tab** The latest revision in the workspace tab can be: Shared revision - _Access required:_ Shared revisions Published revision - ​_Access required:_ Read
+**Workspace tab** The latest revision in the workspace tab can be: Shared revision - _Access required:_ Shared revisions Published revision - _Access required:_ Read
 
 **Published tab** The latest revision in the published tab can be: Published revision - _Access required:_ Read
 

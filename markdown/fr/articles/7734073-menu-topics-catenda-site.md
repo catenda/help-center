@@ -29,7 +29,6 @@ Vous pouvez filtrer par :
 - [Étiquettes](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - Echéance
 - Localisation
-  ​
 
 ### 1.1 Icône Réinitialiser le filtre
 

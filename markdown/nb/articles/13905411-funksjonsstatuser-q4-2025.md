@@ -18,7 +18,7 @@ Noen funksjoner kan forespørres aktivert for eksisterende prosjekter av kontakt
 
 Den nye status-arbeidsflyten trenger ikke lenger å forespørres aktivert og er nå tilgjengelig både for nye brukere og kan aktiveres for prosjekter som for tiden bruker den gamle status-arbeidsflyten ved å aktivere delte revisjoner i dokumentinnstillinger.
 
-### 1.3 ​**Objektside**
+### 1.3 **Objektside**
 
 Søk i alt innhold fra IFC-filen din med logikk. Objektsiden er en on-demand-funksjon som kan forespørres aktivert for pågående prosjekter. Nye prosjekter som opprettes basert på et malprosjekt hvor denne funksjonen er aktivert, har ikke denne funksjonen aktivert. For eksempel alle "Dørentiteter" fra "Modell A" som er høyere enn 2 meter. Konfigurer kolonner for å vise relevante egenskaper for hvert radelement i tabellen. Hvis filterresultater har et objekt i 3D-viseren, kan dette objektet velges i 3D. Eksporter valgte elementer med de konfigurerte egenskapskolonnene som vises til Excel. Likt QTO-funksjonen kan objekter som er valgt i 3D også filtreres. Sammenlignet med QTO-funksjonen er det ikke noe problem å laste tusenvis av rader i tabellen.
 

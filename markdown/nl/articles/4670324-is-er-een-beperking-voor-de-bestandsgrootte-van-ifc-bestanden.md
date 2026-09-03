@@ -25,7 +25,7 @@ Als de grootte van een `.ifc`-bestand groter is dan de bovengrens, kan een `.ifc
 - Comprimeer het `.ifc`-bestand naar een `.zip`-bestand.
 - Wijzig de bestandsextensie van `.zip` naar `.ifczip`
 
-> **Opmerking:** **Voorbeeld:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip ​`
+> **Opmerking:** **Voorbeeld:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip `
 
 ## 4. **Neem contact op met ondersteuning**
 

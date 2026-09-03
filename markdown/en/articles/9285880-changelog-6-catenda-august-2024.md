@@ -32,8 +32,6 @@ As new features roll out and bugs are fixed articles are updated with the change
 
 **Documents** [Upload a zip / file structure](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) [Actions in the document structure](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure) [Documents page](https://support.catenda.com/en/articles/8204673-documents-page) [Documents banner - Navigation](https://support.catenda.com/en/articles/8461918-document-banner-navigation) [Right menu in a document](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document) [QR-Codes on PDFs in Catenda](https://support.catenda.com/en/articles/9360508-qr-code-on-pdfs-in-catenda) [Document settings](https://support.catenda.com/en/articles/7831371-document-settings) [Right menu on the documents page](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page)
 
-**​**
-
 **Settings** [Custom field page](https://support.catenda.com/en/articles/8445588-custom-field-page) [Custom fields page](https://support.catenda.com/en/articles/6550459-custom-fields-page)
 
 **Plugins and integrations** [Catenda Sharepoint Application](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application) [IFC Export Archicad Manual](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)

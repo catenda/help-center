@@ -36,7 +36,7 @@ _[Documenten structureren](https://support.catenda.com/en/articles/8542598-struc
 
 **Modellen** [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) [Query's](https://support.catenda.com/en/articles/4854514-queries)
 
-**Informatievenster** [Informatievenster](https://support.catenda.com/en/articles/8238584-information-panel) _​_
+**Informatievenster** [Informatievenster](https://support.catenda.com/en/articles/8238584-information-panel)
 
 **Instellingen** [Labels pagina](https://support.catenda.com/en/articles/4670265-labels-page) [Een team maken](https://support.catenda.com/en/articles/4670264-creating-a-team)
 

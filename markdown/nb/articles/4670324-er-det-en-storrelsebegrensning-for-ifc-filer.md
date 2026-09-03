@@ -25,7 +25,7 @@ Hvis størrelsen på en `.ifc` overstiger øvre grense, kan en `.ifczip`-fil opp
 - Komprimer `.ifc`-filen til en `.zip`-fil.
 - Endre filtypetillegget fra `.zip` til `.ifczip`
 
-> **Merk:** **Eksempel:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip ​`
+> **Merk:** **Eksempel:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip `
 
 ## 4. **Kontakt support**
 

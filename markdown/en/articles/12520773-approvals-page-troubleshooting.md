@@ -28,7 +28,7 @@ If a document that is part of an approval is deleted it can no longer be found a
 
 Documents that were added to an approval request and that were later deleted can either be recovered by an administrator or discarded from the approval request.
 
-### 3.2 **Withdrawn revision**​
+### 3.2 **Withdrawn revision**
 
 If a document revision that is part of an approval is withdrawn the revision number is struck through and the content of the document will no longer be displayed on the file review page. This is what the document tab can look like when an document that is part of an approval has been deleted:
 

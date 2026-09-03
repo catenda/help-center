@@ -184,7 +184,6 @@ Activez Exiger un examen par tous les membres de l'équipe pour exiger que chaqu
 - **Quand c'est désactivé** (le comportement actuel et unique décrit ailleurs dans ce centre d'aide), n'importe quel membre de l'équipe d'examinateur peut soumettre une indication de validation au nom de toute l'équipe, et l'étape peut procéder dès qu'il le fait.
 
 - **Quand c'est activé,** l'étape de l'équipe n'est pas complète jusqu'à ce que chaque membre individuel ait donné sa propre indication. Consultez les articles de l'onglet Aperçu, du menu droit d'examen des fichiers et du menu droit de l'onglet Documents pour voir comment cela s'affiche lors de l'examen.
-  ​
 
 ### 4.6 **Supprimer l'étape de validation**
 

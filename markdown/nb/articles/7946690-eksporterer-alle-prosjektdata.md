@@ -91,10 +91,10 @@ _Saklister_ Dokumentelementbordtilgangstillatelser ved hjelp av to tilgjengelige
 
 - **Brukerspesifikk tilgangsvisning**
   Vis individuelle brukertilgangsnivåer direkte fra høyre informasjonsmeny for en saksliste eller valgt sak.
-  ​_Tilgang påkrevd:_ lesетilgang til sakslistten
+  _Tilgang påkrevd:_ lesетilgang til sakslistten
 - **Fullstendig teamkonfigurasjon**
   Fang opp skjermbildet av de komplette teamnivatillatelsesinnstillingene innenfor tilgangen til sakslistten.
-  ​_Tilgang påkrevd:_ Full tilgang til sakslistten eller prosjektadministrator
+  _Tilgang påkrevd:_ Full tilgang til sakslistten eller prosjektadministrator
 
 _Dokument- og modelltilgang_ Eksporter [tilgangsoversikten](https://support.catenda.com/en/articles/6660820-document-access-overview-page) for å registrere tillatelser for medlemmer og team. Tilgang påkrevd: Prosjektadministrator. Fordi hver modell er knyttet til et dokument i dokumentdelen, styres tilgangstillatelser for modeller av de underliggende dokumenttillatelsene og registreres ved hjelp av samme dokumenttilgangsoversikt eller tillatelseamenyer.
 
@@ -106,7 +106,7 @@ _Prosjektomfattende handlingstillatelser_ Dokumenter prosjektomfattende tillatel
   Prosjektmedlemmer kan utvide hver meny under tilgangskontroll for å se hvilke individuelle brukere som har tillatelse til å utføre hver handling.
 - **Fullstendig konfigurasjon**
   Administratorer kan åpne redigeringsdialogen for tilgang for å vise og administrere teamnivatillatelelseskonfigurasjoner.
-  ​_Tilgang påkrevd:_ Prosjektadministrator
+  _Tilgang påkrevd:_ Prosjektadministrator
 
 _Brukerprofiler og medlemsdetaljer_ Informasjon om prosjektmedlemmer og team er tilgjengelig for utvinning eller dokumentasjon, inkludert:
 

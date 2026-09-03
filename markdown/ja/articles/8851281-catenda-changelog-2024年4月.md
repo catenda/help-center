@@ -36,7 +36,7 @@ _[ドキュメントの構成](https://support.catenda.com/en/articles/8542598-s
 
 **モデル** [3Dビューア](https://support.catenda.com/en/articles/8227211-3d-viewer) [2Dビューア](https://support.catenda.com/en/articles/4854537-2d-viewer) [クエリ](https://support.catenda.com/en/articles/4854514-queries)
 
-**情報パネル** [情報パネル](https://support.catenda.com/en/articles/8238584-information-panel) _​_
+**情報パネル** [情報パネル](https://support.catenda.com/en/articles/8238584-information-panel)
 
 **設定** [ラベルページ](https://support.catenda.com/en/articles/4670265-labels-page) [チームを作成する](https://support.catenda.com/en/articles/4670264-creating-a-team)
 

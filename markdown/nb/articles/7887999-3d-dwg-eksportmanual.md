@@ -50,7 +50,7 @@ For øyeblikket finnes det ingen offisiell måte å eksportere til IFC fra Navis
 
 > **Merk:** IFC 4x1 er trukket tilbake av BuildingSMART og støttes derfor heller ikke av Catenda Hub. Se [her](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support) hvilke filtyper som støttes i Catenda Hub
 
-1. Ressurs og Tildeling
+1\. Ressurs og Tildeling
 
 1. Ressurs - Høyreklikk for å legge til ressursperson og organisasjon
 1. Tildeling - Høyreklikk for å legge til tildelt person og organisasjon

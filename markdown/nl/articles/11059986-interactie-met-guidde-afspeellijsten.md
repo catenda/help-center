@@ -18,7 +18,7 @@ De video's in de afspeellijst worden regelmatig bijgewerkt met wijzigingen op he
 - Gif
 - Document PDF
 - Slides PDF
-- PPTX​
+- PPTX
 
 ## 3. De gids delen
 

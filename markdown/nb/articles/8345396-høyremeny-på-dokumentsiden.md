@@ -4,7 +4,7 @@ Etter å ha valgt ett eller flere dokument(er) vil du se infoikonet vises til h�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/01-intro.png)
 
-Dette utvidede panelet kan se annerledes ut avhengig av hva du har valgt [​_En mappe_ ](#h_cad792004b) _- [Ett dokument](#h_2fac53531d) - [Flere mappe(r) og/eller dokument(er)](#h_58d67056f7)_
+Dette utvidede panelet kan se annerledes ut avhengig av hva du har valgt [_En mappe_ ](#h_cad792004b) _- [Ett dokument](#h_2fac53531d) - [Flere mappe(r) og/eller dokument(er)](#h_58d67056f7)_
 
 ## 1. En mappe
 

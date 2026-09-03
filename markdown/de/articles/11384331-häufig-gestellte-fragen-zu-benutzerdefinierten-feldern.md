@@ -22,7 +22,7 @@ Benutzerdefinierte Feldwerte werden im PDF-Export von Themen angezeigt
 
 Benutzerdefinierte Felder sind noch nicht im exportierten BCF enthalten. Benutzerdefinierte Felder werden Teil des BCF 4-Standards sein, wenn dieser veröffentlicht wird. Nach der Veröffentlichung werden wir und andere BCF-Tools, die den Standard befolgen, daran arbeiten, das Feld für den Austausch verfügbar zu machen.
 
-### 3.3 **​Thema Excel-Export**
+### 3.3 **Thema Excel-Export**
 
 Für jedes benutzerdefinierte Feld im Themenbrett wird eine Spalte hinzugefügt.
 

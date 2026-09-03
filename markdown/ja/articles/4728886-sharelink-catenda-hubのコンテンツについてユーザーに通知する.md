@@ -25,7 +25,6 @@ ShareLinkは、Catenda Hubから選択したプロジェクトメンバーに、
 ShareLinkの受信者はこれらのアイテムのみを表示します。ShareLinkの受信者とページを共有すると、プロジェクトのアクセス権に基づいて、フィルターを含むページ全体が表示されます。
 
 1. ShareLinkボタンをクリックします。
-   ​
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 

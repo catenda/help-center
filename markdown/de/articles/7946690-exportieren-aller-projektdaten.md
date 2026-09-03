@@ -91,10 +91,10 @@ Der [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-
 
 - **Pro-Benutzer-Zugriffsansicht**
   Zeigen Sie einzelne Benutzer-Accessebenen direkt aus dem rechten Informationsmenü eines Themen-Boards oder ausgewählten Themas an.
-  ​_Access erforderlich:_ Read-Zugriff auf das Themen-Board
+  _Access erforderlich:_ Read-Zugriff auf das Themen-Board
 - **Vollständige Teamkonfiguration**
   Machen Sie Screenshots der vollständigen Berechtigungseinstellungen auf Team-Ebene in den Themen-Board-Accesseinstellungen.
-  ​_Access erforderlich:_ Vollständiger Zugriff auf das Themen-Board oder Projektadministrator
+  _Access erforderlich:_ Vollständiger Zugriff auf das Themen-Board oder Projektadministrator
 
 **Dokument- & Modellzugriff** Exportieren Sie die [Accessübersicht](https://support.catenda.com/en/articles/6660820-document-access-overview-page), um Berechtigungen für Mitglieder und Teams zu dokumentieren. Access erforderlich: Projektadministrator. Da jedes Modell mit einem Dokument im Dokumentenbereich verknüpft ist, werden die Accessberechtigungen für Modelle durch die zugrunde liegenden Dokumentberechtigungen geregelt und mit denselben Dokumentaccessübersichten oder Berechtigungsmenüs dokumentiert.
 
@@ -106,7 +106,7 @@ Der [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-
   Projektmitglieder können jedes Menü unter Zugriffssteuerung erweitern, um zu sehen, welche einzelnen Benutzer die Berechtigung haben, jede Aktion auszuführen.
 - **Vollständige Konfiguration**
   Administratoren können das Edit-Access-Dialogfeld öffnen, um Team-Level-Berechtigungskonfigurationen anzuzeigen und zu verwalten.
-  ​_Access erforderlich:_ Projektadministrator
+  _Access erforderlich:_ Projektadministrator
 
 **Benutzerprofile & Mitgliederdetails** Informationen zu Projektmitgliedern und Teams sind zum Extrahieren oder Dokumentieren verfügbar, einschließlich:
 

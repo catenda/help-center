@@ -40,7 +40,7 @@ This is what the right menu can look like when no topics are selected:
 
 Says "No topics are selected when expanded." when no topics are selected. In this menu a selected topic can be viewed and updated. With multiple topics selected topics can be batch-updated here.
 
-### 2.2 **1.2 Access control​ for topic board**
+### 2.2 **1.2 Access control for topic board**
 
 When no topics are selected the access control for topic board menu is only displayed when navigating to a single topic board. In the all topics board, select a topic to see the access control of the board that topic is in. Click [here](https://support.catenda.com/en/articles/4670296-topic-board-access-control) to read more about topic baord access control.
 

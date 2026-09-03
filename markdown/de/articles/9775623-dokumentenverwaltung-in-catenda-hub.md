@@ -24,7 +24,7 @@ Hier ist ein Vergleich der Vor- und Nachteile dieser 2 Varianten:
 
 Gute Vorschläge zur Erstellung einer Ordnerstruktur finden Sie in [diesem Artikel](https://support.catenda.com/en/articles/8542598-structuring-documents). Sie können auch ein Beispiel einer Ordnerstruktur finden, die von der Staatlichen Bauleitung Bayern unter dem folgenden [Link](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) verwendet wird. Ordnerstrukturen können sehr unterschiedlich aufgebaut werden. Dies hängt einerseits von den Anforderungen des Projekts und des zugehörigen Projektteams ab und andererseits von einem verwendeten Planschlüssel.
 
-### 1.1 ​**Beispiel -** Strukturen nach Phase trennen
+### 1.1 **Beispiel -** Strukturen nach Phase trennen
 
 Eine Ordnerstruktur wird basierend auf den Leistungsphasen aufgebaut. Dies trennt klar, welche Dokumente aus welchen Verwaltungsphasen in welchen Ordnern gespeichert werden. Aber was passiert mit Dokumenten, die für alle Leistungsphasen gelten? Man könnte meinen, dass wenn die Dokumente in den Ordnern der verschiedenen Leistungsphasen organisiert werden, diese Information beispielsweise im Planschlüssel nicht mehr benötigt wird. Aber was passiert, wenn ein Plan ausgedruckt oder digital zur Baustelle gesendet wird? Auch hier sollte der Planname verwendet werden, um das genaue Dokument zu identifizieren. Im besten Fall bilden die Ordnerstruktur und der Planschlüssel eine Einheit, die für alle beteiligten Parteien während des gesamten Projektverlaufs funktioniert.
 

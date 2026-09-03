@@ -173,7 +173,6 @@ Dankzij uw waardevolle feedback hebben we veel problemen kunnen oplossen die u m
   Namen van eigenschappen en eigenschappensets die punten in zich hebben, worden nu correct weergegeven in de koptekstcel van de kolom op de objectenpagina in plaats van alleen alles na de punt. Het is nu ook mogelijk om op dit soort eigenschapsnamen te zoeken.
 - **[Modelenpagina] Oneindige spinner voor gedeelde revisies na uitschakeling**
   In projecten waar gedeelde revisies werden uitgeschakeld nadat gedeelde modelrevisies waren geüpload terwijl gedeelde revisies waren ingeschakeld, zijn oneindige spinners niet langer zichtbaar in de viewerkolom op de modelenpagina.
-  ​
 
 ### 3.4 **Rapporten**
 

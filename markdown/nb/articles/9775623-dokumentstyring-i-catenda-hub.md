@@ -24,7 +24,7 @@ Her er en sammenligning av fordelene og ulempene ved disse 2 variantene:
 
 Du vil kunne finne gode forslag om hvordan du oppretter en mappestruktur i [denne artikkelen](https://support.catenda.com/en/articles/8542598-structuring-documents). Du kan også finne et eksempel på en mappestruktur som brukes av Statens Byggedirekasjon i Bayern på følgende [lenke](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) Mappestrukturer kan settes opp veldig annerledes. Dette avhenger på den ene siden av kravene til prosjektet og det tilhørende prosjektteamet, og på den andre siden avhenger mappestrukturen av eventuell brukt plannøkkel.
 
-### 1.1 ​**Eksempel -** Separering av strukturer etter fase
+### 1.1 **Eksempel -** Separering av strukturer etter fase
 
 En mappestruktur settes opp basert på servicesfasene. Dette skiller tydelig hvilke dokumenter fra hvilke administrasjonsfaser som lagres i hvilke mapper. Men hva skjer med dokumenter som gjelder på tvers av alle servicesfaser? Du tenker kanskje at hvis dokumentene er organisert i mappene til de ulike servicesfasene, er denne informasjonen ikke lenger nødvendig i plannøkkelen, for eksempel. Men hva skjer når en plan skrives ut eller sendes digitalt til byggeplassen? Her også skal plannavn brukes for å identifisere det eksakte dokumentet. I det beste tilfellet danner mappestrukturen og plannøkkelen en enhet som fungerer for alle involverte parter gjennom hele forløpet av prosjektet.
 

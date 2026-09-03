@@ -66,18 +66,18 @@ Can be used on topics created from the general Topic section. Here are the diffe
 
 1. **Topic Board**: The topic board within which the general topic template can be generated.
 1. **Template Name**: The template name can be selected from the dropdown menu during creation, or updated in the settings later if needed.
-1. **Topic Title**: The resulting topic title after creating the topic from the general topic template.<br>Hover your mouse on the "?" icon located on the top right-side of the title box to see how you can customize your topic template title with the available variable: `topicCreator`.<br>​
+1. **Topic Title**: The resulting topic title after creating the topic from the general topic template.<br>Hover your mouse on the "?" icon located on the top right-side of the title box to see how you can customize your topic template title with the available variable: `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="184" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-272165f584d2.png" style="height: auto;" width="300"/></div>
 
 1. **Topic Status**: The resulting topic status after creating the topic from the general topic template.
 1. **Topic Type**: The resulting topic type after creating the topic from the general topic template.
 1. **Milestone**: The resulting topic milestone after creating the topic from the general topic template.
-1. **Assigned to**: The resulting topic assignee (project member or team) after creating the topic from the general topic template. You can use here the `Topic Creator` variable to automatically populate this field with the topic creator if needed.<br>​
+1. **Assigned to**: The resulting topic assignee (project member or team) after creating the topic from the general topic template. You can use here the `Topic Creator` variable to automatically populate this field with the topic creator if needed.<br>
 
     <div class="intercom-container intercom-align-center"><img height="94" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-c7f3d7220c54.png" style="height: auto;" width="150"/></div>
 
-1. **Requested by**: The resulting topic requester after creating the topic from the general topic template. You can use here the `Topic Creator` variable to automatically populate this field with the topic creator if needed.<br>​
+1. **Requested by**: The resulting topic requester after creating the topic from the general topic template. You can use here the `Topic Creator` variable to automatically populate this field with the topic creator if needed.<br>
 
     <div class="intercom-container intercom-align-center"><img height="93" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-43e4955bfdd8.png" style="height: auto;" width="150"/></div>
 
@@ -96,7 +96,7 @@ Can be used on topics created from Markups on Documents. Here are the different 
 
 1. **Topic Board**: The topic board within which the document topic template can be generated.
 1. **Template Name**: The template name can be selected from the dropdown menu during Markup creation, or updated in the settings later if needed.
-1. **Topic Title**: The resulting topic title after creating the topic from the document topic template.<br>Hover your mouse on the "?" icon located on the right side of the title box to see how you can customize your document topic template title with the available variables: `documentName`, `fileName`, `markupName` and `topicCreator`.<br>​
+1. **Topic Title**: The resulting topic title after creating the topic from the document topic template.<br>Hover your mouse on the "?" icon located on the right side of the title box to see how you can customize your document topic template title with the available variables: `documentName`, `fileName`, `markupName` and `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="231" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-dbe5030f1082.png" style="height: auto;" width="300"/></div>
 
@@ -107,11 +107,11 @@ Can be used on topics created from Markups on Documents. Here are the different 
 
     <div class="intercom-container intercom-align-center"><img height="228" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b3156a6c2724.png" style="height: auto;" width="150"/></div>
 
-1. **Requested by**: The resulting topic requester after creating the topic from the document topic template. Different variables can be used here, such as `Document owner`, `File uploader`, `Markup creator`, `Publisher` and `Topic creator`.<br>​
+1. **Requested by**: The resulting topic requester after creating the topic from the document topic template. Different variables can be used here, such as `Document owner`, `File uploader`, `Markup creator`, `Publisher` and `Topic creator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="171" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-0c4680dfae06.png" style="height: auto;" width="150"/></div>
 
-1. **Labels**: The resulting topic labels after creating the topic from the document topic template. Note that you can fetch the labels from the document you created the Markup from using the variable `Labels from documents` below:<br>​
+1. **Labels**: The resulting topic labels after creating the topic from the document topic template. Note that you can fetch the labels from the document you created the Markup from using the variable `Labels from documents` below:<br>
 
     <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
 
@@ -133,7 +133,7 @@ Here are the different actions you need to follow and variables you can input wh
 
 1. **Topic Board**: The topic board within which the approval topic template will be generated after an approval workflow is closed.
 1. **Template Name**: The template name of an approval topic template can be selected from the dropdown menu in an approval workflow template, or updated in the settings later if needed.
-1. **Topic Title**: The resulting topic title after the associated approval workflow is closed.<br>Hover your mouse on the "?" icon located on the right side of the title box to see how you can customize your approval topic template title with the available variables: `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` and `topicCreator`.<br>​
+1. **Topic Title**: The resulting topic title after the associated approval workflow is closed.<br>Hover your mouse on the "?" icon located on the right side of the title box to see how you can customize your approval topic template title with the available variables: `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` and `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="272" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-6038b1d41fed.png" style="height: auto;" width="300"/></div>
 
@@ -144,15 +144,15 @@ Here are the different actions you need to follow and variables you can input wh
 
     <div class="intercom-container intercom-align-center"><img height="182" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b012d92ee132.png" style="height: auto;" width="150"/></div>
 
-1. **Requested by**: The resulting topic requester after closing the associated approval workflow. Different variables can be used here, such as `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.<br>​
+1. **Requested by**: The resulting topic requester after closing the associated approval workflow. Different variables can be used here, such as `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="181" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d7986adac70c.png" style="height: auto;" width="150"/></div>
 
-1. **Labels**: The resulting topic labels after closing the associated approval workflow. Note that you can fetch the labels from the document you created the Markup from using the variable `Labels from documents` below:<br>​
+1. **Labels**: The resulting topic labels after closing the associated approval workflow. Note that you can fetch the labels from the document you created the Markup from using the variable `Labels from documents` below:<br>
 
     <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
 
-1. **Description**: The resulting topic description after closing the associated approval workflow. This section supports the Markdown format and you can use its full potential to format the text, create custom headers and checklists. <br>Hover your mouse on the "?" icon located on the top-right corner of the description box to see how you can make use of all available features (mention teammates and link existing topics) and variables (such as `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) in the case of the approval topic template).<br>​
+1. **Description**: The resulting topic description after closing the associated approval workflow. This section supports the Markdown format and you can use its full potential to format the text, create custom headers and checklists. <br>Hover your mouse on the "?" icon located on the top-right corner of the description box to see how you can make use of all available features (mention teammates and link existing topics) and variables (such as `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) in the case of the approval topic template).<br>
 
     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 

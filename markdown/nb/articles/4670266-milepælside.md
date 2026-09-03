@@ -8,7 +8,7 @@ Slik kan milepælsiden se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/02-intro.png)
 
-Denne siden inneholder informasjon om følgende saker: [Planlegging](#h_595c5ebf4c) - [Handlinger](#h_ef3bbf0441)​ - [Milepælsliste](#h_5403eb541f)
+Denne siden inneholder informasjon om følgende saker: [Planlegging](#h_595c5ebf4c) - [Handlinger](#h_ef3bbf0441) - [Milepælsliste](#h_5403eb541f)
 
 ## 1. Planlegging
 

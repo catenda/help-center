@@ -115,7 +115,7 @@ Delte revisjoner har et mindre revisjonsnummer (f.eks. #0.1, #2.3, #4.1) Publise
 
 I dokumentstrukturen vil du se den nyeste revisjonen du har tilgang til. Klikk på navnet på et dokument for å åpne dokumentforhåndsvisningen av den viste revisjonen.
 
-_Arbeidsområdefane_ Den nyeste revisjonen i arbeidsområdefanen kan være: Delt revidert - _Tilgang kreves:_ Delte revisjoner. Publisert revidert - ​_Tilgang kreves:_ Lese
+_Arbeidsområdefane_ Den nyeste revisjonen i arbeidsområdefanen kan være: Delt revidert - _Tilgang kreves:_ Delte revisjoner. Publisert revidert - _Tilgang kreves:_ Lese
 
 _Publisert fane_ Den nyeste revisjonen i den publiserte fanen kan være: Publisert revidert - _Tilgang kreves:_ Lese
 

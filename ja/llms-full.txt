@@ -774,14 +774,14 @@ Catenda Siteに[ダウンロード、インストール、ログイン](https://
 
 ![プロジェクトを選択](https://raw.githubusercontent.com/catenda/help-center/main/images/2g7dc990/01-intro.png)
 
-ドロップダウンリスト\*\*(A)\*\*をタップしてプロジェクトをフィルターできます：
+ドロップダウンリスト**(A)**をタップしてプロジェクトをフィルターできます：
 
 1. アルファベット順
 1. 最後に更新されたプロジェクト
 1. お気に入り
 1. オフラインプロジェクト
 
-または検索バー\*\*(B)\*\*で検索することで：
+または検索バー**(B)**で検索することで：
 
 ![名前、最後に更新、お気に入り、オフライン](https://raw.githubusercontent.com/catenda/help-center/main/images/2g7dc990/02-intro.png)
 
@@ -2575,6 +2575,146 @@ _左クリック_ モデルに対して 2D ビューが有効になっている�
 
 **マップ** [プロジェクト設定](https://support.catenda.com/en/articles/4670273-project-settings-page)で場所が構成されている場合、このボタンが表示されます。このボタンを使用して、マップをオン/オフに切り替えることができます。
 
+# 2Dおよび3Dビューポイント
+
+2Dおよび3Dビューポイントは、[トピックのコメント](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_f76b44d3ca)として追加できます。スナップショットは、2Dおよび3D情報について通信するための多目的な方法であり、視覚情報を含むだけでなく、ドキュメントまたはモデル内の場所と時間を説明するために使用できます。スナップショットに保存される情報により、BCFおよびIFC対応サービスのいずれかでスナップショットを再生できるため、2Dおよび3D情報で協力できます。
+
+3Dスナップショットは次のようなものです：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/01-intro.png)
+
+以下のスナップショットは、スナップショットが撮影された時点での次のセットアップがありました。スナップショットは元のリビジョンで再作成されました。スナップショットに接続された7つのモデルドキュメントが3Dビューアに読み込まれました。モデルドキュメントから選択された5つのオブジェクトが選択されました。モデルに接続されていない2つのドキュメント（1つはIFCで1つはポイントクラウド）が読み込まれました。2Dスナップショットは同じボタンが付いていますが、2Dビューアの画像が添付されます。
+
+## 1. **スナップショットの作成**
+
+3Dにモデルが読み込まれている場合は、トピックコメントフィールドの左側にあるプラスボタンをクリックして、3Dスナップショットをコメントに添付できます。2Dビューアが開いている場合は、トピックコメントフィールドの左側にあるプラスボタンをクリックして、2Dスナップショットをコメントに添付できます。2Dまたは3Dで何かを読み込み、新しいトピックを作成すると、スナップショットが自動的に作成されます。スナップショットの詳細については、[ここ](https://support.catenda.com/en/articles/10345863-snapshots)をクリックしてください。
+
+## 2. **ビューアイメージ**
+
+スナップショットは、次の理由からCatenda Hubビューアから高品質の画像またはレンダリングを作成するのに最適な方法です：
+
+- スナップショット画像は、[添付ファイルポップアウト](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8)からダウンロードできます。
+- スナップショット画像は、ビューアからスクリーンショットを撮るだけより高い解像度を持つことができます。
+- スナップショット画像は透明な背景を持っています。3Dスナップショットでは、画像には3Dにオブジェクトがある場所のピクセルのみが含まれます。2Dスナップショットでは、画像には2Dに線がある場所のピクセルのみが含まれます。
+
+### 2.1 **画像サイズ**
+
+添付される画像のサイズは、ビューアのサイズとブラウザのズーム率に依存します。スナップショット画像のピクセル数は、ビューアのサイズ、ブラウザのズーム率、オペレーティングシステムの表示スケールに依存します。これまでのところ、生成できた最大の画像は6417ピクセル×11113ピクセルです。このサイズのスナップショットを作成するために、次の設定がありました：
+
+- 4Kモニターディスプレイ。
+- コンテンツパネルと3Dパネルが表示されます。
+- コンテンツパネルを可能な限り小さくします。
+- ブラウザをフルスクリーンにします。
+- ブラウザスケール10%
+- Windowsの表示スケール100%
+
+これらの設定はシステムに非常に負荷をかけており、PCがこれを処理できない可能性があるため、これらの設定を調整して仕様に合わせる必要があるかもしれません。
+
+## 3. **再生アイコン**
+
+スナップショットには、スナップショットを作成した時刻に関する情報が含まれています。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/02-play-icons.png)
+
+作成時にオブジェクトが非表示になっていた場合、そのIDを持つオブジェクトはスナップショットが再作成されたときに非表示になります。オブジェクトが分離されていた場合、そのIDを持つオブジェクトは表示され、分離されていないオブジェクトは非表示になります。これは、モデルの新しいリビジョンに追加される可能性がある新しいIDを持つオブジェクトにも反映されます。
+
+### 3.1 **スナップショットを再作成**
+
+スナップショットは、あなたが見ているものを人々に示すのに最適です。Catenda Hub内だけでなく、自分の環境内でも同じビューを再作成できるからです。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/03-recreate-snapshot.png)
+
+スナップショットはCatenda Hubとプラグインの両方で再生して再作成できます。Catenda Hubでは、スナップショットはカメラをビューア内の適切な場所に移動します。プラグインでは、ホストソフトウェアのビューアが表示されます。
+
+- このボタンをクリックすると、スナップショットが同じモデルと最新のリビジョンを3Dビューアに読み込んで再作成されます。
+- 接続されたポイントクラウドまたはIFCドキュメントが読み込まれます
+- 3Dビューアのカメラは、スナップショットに設定された位置に移動します。
+- スナップショットからのクリッピング平面が再作成されます
+- スナップショットで選択されたオブジェクトが選択されます
+- 選択で設定された色は、指定された色を受け取ります
+
+### 3.2 **元のリビジョンでスナップショットを再作成**
+
+このボタンをクリックして、スナップショットを元のモデルで再作成します。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/04-recreate-snapshot-with-original-revisions.png)
+
+スナップショット作成時に3Dビューアでアクティブだったモデルリビジョンが、このボタンをクリックすると3Dビューアに読み込まれます。
+
+## 4. **コンテンツアイコン**
+
+スナップショットの右下には、スナップショットのコンテンツに関する情報を含むアイコンがあります。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/05-content-icons.png)
+
+コンテンツパネルが小さくされている場合、これらのコンテンツアイコンの一部がアクションメニューに表示されることがあります：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/06-content-icons.png)
+
+アクションメニューはスナップショットの右下にあり、すべてのコンテンツアイコンを表示するための十分なスペースがない場所に配置されています。
+
+### 4.1 **モデルピッカー**
+
+3Dビューアが開いている場合、モデル読み込みメニューが利用可能になります
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/07-model-picker.png)
+
+- このメニューでチェックマークが付いているモデルは、スナップショットが再生されるときに読み込まれます。
+
+    <div class="intercom-container"><img height="24" src="https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/inline-b248400a1359.png" style="height: auto;" width="30"/></div>
+
+- 前に付いたプラスを持つモデルは、保存をクリックした後、チェックマーク付きのモデルのセットに追加されます。
+
+    <div class="intercom-container"><img height="25" src="https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/inline-ca568d75479a.png" style="height: auto;" width="30"/></div>
+
+- 前に付いたマイナスを持つモデルは、保存をクリックした後、チェックマーク付きのモデルのセットから削除されます。
+
+    <div class="intercom-container"><img height="30" src="https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/inline-ff3494b6d9f8.png" style="height: auto;" width="30"/></div>
+
+- スナップショットのオブジェクト表示設定によっては、追加されたモデルが完全に非表示になる可能性があります。表示されていない場合でも、トピックが再生されるときにそれらが読み込まれていることが表示されます。
+- このメニューを開くときにオンになっているモデルは、現在3Dビューアに読み込まれているモデルを反映します。モデルのセットを簡単に追加/削除するには、ブックマークを作成し、ブックマークを再生してから、スナップショットに移動し、アクションメニューをクリックして、モデル読み込みメニューで保存をクリックします。
+- スナップショット内のモデルがモデルセクション内のモデルと同じIFCPROJECT GUIDを持っている場合、モデルは自動的にリンクされます。
+
+これはRevitでどのように行われるかについて説明するBuildingSMARTのアーティクルです[https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/08-model-picker.png)
+
+### 4.2 **選択したオブジェクトを表示**
+
+スナップショットで選択されている3Dビューアのオブジェクトを選択します。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/09-show-selected-objects.png)
+
+スナップショットで選択されたオブジェクトの数を表示します
+
+### 4.3 **リンクされたドキュメント**
+
+ここをクリックして、ビューアに既に存在するモデルに加えて、スナップショットからモデルを読み込みます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/10-linked-documents.png)
+
+スナップショットに読み込まれたモデルの数を表示します。
+
+### 4.4 **カメラ視点へ移動**
+
+3Dビューアでスナップショットの位置にカメラを移動します。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/11-set-camera-position.png)
+
+スナップショットを再生した後に3Dビューを移動した場合は、このボタンをクリックしてスナップショットの位置に戻ることができます。
+
+## 5. **画像ポップアウト**
+
+2Dまたは3Dスナップショットの画像にマウスを置くと、虫眼鏡が表示されます。これは以下のようなスナップショットのようになります：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/12-image-pop-out.png)
+
+スナップショットが送信された後、それに接続されている画像を[ポップアウト](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8)して、より大きな形式でそのコンテンツを表示し、ダウンロードできます。
+
+## 6. **スナップショットの削除**
+
+コメントに添付されているスナップショットを削除することはできません。トピックからスナップショットを削除する場合は、コメント全体を削除する必要があります。
+
 # 2Dからの選択とクリッピング
 
 ### **2Dからのモデルのクリッピング**
@@ -3637,7 +3777,7 @@ BCFはイシューセクションにロードされました。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5fgdptf6/05-intro.png)
 
-**BimsyncからArchicadへのBCF** 取得したいイシューをフィルターで絞り込みます。
+**BimsyncからArchicadへのBCF**取得したいイシューをフィルターで絞り込みます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5fgdptf6/06-intro.png)
 
@@ -5291,6 +5431,106 @@ _アクセス必須:_ アプリケーションをインストールするとき�
 
 アプリケーションにCatendaアカウントへのアクセスを許可したくない場合は、Catendaアカウントの[アプリケーション ページ](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a)でいつでもアクセスを取り消すことができます。
 
+# Catenda Siteのオフラインモード
+
+建設現場、鉄道トンネル、駐車場の地下など、インターネットに接続できない場所でも、Catenda Siteはポータブルデバイスでの協業に使用できます。この記事では、ネットワークアクセスなしでCatenda Siteを使用して協業する方法について説明します。
+
+## 1. **オフラインモードのトピックメニュー**
+
+ネットワークに接続していない場合でも、トピックメニューは利用可能です。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/01-topics-menu-in-offline-mode.png)
+
+> **注:** ネットワークに接続していない場合、**変更は自動的に送信されません。** ネットワークに再度接続した後、変更はアウトボックスからプロジェクトに送信できます。
+
+### 1.1 **オフラインモードのトピックボード**
+
+ネットワークに接続していない場合、トピックリストは次のようになります：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/02-topic-boards-in-offline-mode.png)
+
+以前読み込まれたトピックは通常のトピックとして表示されます。
+
+### 1.2 **オフラインアイコン**
+
+ネットワークに接続せずに作成されたトピックには、オフラインアイコンが表示されます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/03-offline-icon.png)
+
+トピックにオフラインアイコンがある限り、プロジェクトに同期されません。
+
+### 1.3 **以前読み込まれたトピック**
+
+以前読み込まれたトピックは、ネットワークに接続せずに開くことができます。トピックを開いた後、トピックタイトルの右側に黄色の"オフライン"ボックスが表示されている場合、オフラインモードで以前読み込まれたトピックを閲覧していることがわかります。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/04-previously-loaded-topics.png)
+
+> **注:** ネットワークへの接続が失われたときに読み込まれたトピック内の既存情報は編集できません。
+
+**以前読み込まれたトピックへのコメント**以前読み込まれたトピックは、ネットワークに接続せずにコメントを付けることができます。カメラ/写真からの画像をコメントに追加できます。_必要なアクセス:_ デバイスへのフルアクセス
+
+ログインしているユーザーが作成したコメントは、ネットワークに接続せずに編集および削除できます。
+
+### 1.4 **新規トピック**
+
+ネットワークに接続していない場合でも、新規トピックを作成することができます。作成後、トピックはまだプロジェクトに同期されません。まだプロジェクトに同期されていないトピックを開くと、トピックタイトルの左側にクラウドアイコンが表示されます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/05-new-topics.png)
+
+ネットワークに接続できるようになると、これらのトピックは自動的にプロジェクトに同期されません。オフラインモード中に行われた新しい情報と変更は、ネットワークに接続できるようになったときにアウトボックスでプロジェクトに送信できます。
+
+ネットワークに接続せずに作成された新規トピックに追加できる情報は以下のとおりです：
+
+- タイトルを追加できます
+- トピックのトピックリストを選択できます
+- ステータス/タイプを変更できます
+- マイルストーンを追加できます
+- ラベルを追加できます
+- 説明を書くことができます
+- コメントを追加できます。
+  - カメラ/写真からの画像をコメントに追加できます。
+
+    _必要なアクセス:_ デバイスへのフルアクセス
+
+- ネットワークへの接続が失われる前にモデルが読み込まれていた場合、これらのモデルの2Dビューにマーカーを配置することで、トピックに位置情報を追加できます。
+
+**新規トピックの編集と送信**
+
+- トピックの最上部に灰色のバーが表示されている場合、新しいオフライントピックを閲覧していることがわかります。
+- [アウトボックス](#h_ff2a47f221)を通じてまだ送信されていないオフラインモードのトピックを編集することができます
+
+### 1.5 **アウトボックス**
+
+オフラインモード中にトピックボードで新しい情報と変更が行われた場合、アウトボックスアイコンがトピックボードの右上付近に表示されます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/06-outbox.png)
+
+アイコンをタップしてアウトボックスを開きます。ネットワークに再度接続した後、このメニューで新しい情報と変更をプロジェクトに送信できます。
+
+**ローカルドラフト**このリストのトピックは、送信されるまでローカルドラフトと見なすことができます。新しいトピックが作成されたり、既存のトピックにネットワークに接続せずにコメントが付けられた場合、このリストに含まれます。
+
+**アウトボックスの送信**ネットワークに接続せずに行われたすべての新しい情報と変更は、アウトボックスが送信されるまでデバイスに保存されます。ネットワークに接続できるようになったとき、アウトボックスを送信できます。ネットワークに接続していなかった間に行われた新しい情報と変更は、プロジェクトに同期され、すべてのプロジェクトメンバーに表示されます。
+
+## 2. **オフラインモードのモデル**
+
+ネットワークへの接続が失われた場合でも、以前にデバイスに読み込まれたモデルを引き続き使用することができます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/07-models-in-offline-mode.png)
+
+### 2.1 **以前読み込まれたモデル**
+
+ネットワークへの接続が失われる前に読み込まれたモデルの2Dビューで、ネットワークに接続せずに2Dビューの位置情報を持つトピックを作成できます。以前読み込まれたモデルは、機能を失うことなくオン/オフを切り替えることができます。
+
+## 3. **オフラインモードのドキュメント**
+
+ネットワークへの接続が失われた場合でも、ドキュメントを引き続き使用できます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/08-documents-in-offline-mode.png)
+
+### 3.1 **以前読み込まれたドキュメント**
+
+接続が失われたときに開いていたフォルダまたはコレクション内のドキュメントは、引き続き表示できます。このフォルダまたはコレクションが開いたままである限り、フォルダ内のドキュメントは、アプリケーションの他の部分が使用されている間も表示され続けます。フォルダ内のドキュメントへのアクセスは、フォルダまたはコレクション内にいる場合にのみ利用可能です。別のフォルダまたはコレクションに移動するとドキュメントが読み込まれなくなります。同じフォルダにないドキュメントをコレクションにまとめることができます。こうすることで、ネットワークアクセスが失われる前に、すべてのドキュメントをオフラインで使用するために読み込むことができます。
+
 # Catenda Tekla プラグイン
 
 > Catenda Hub と Tekla を接続
@@ -5802,6 +6042,111 @@ IFCベース量は、サイズ、面積、体積のパラメータを読み取�
 
 エクスポート用の長さ、角度、面積、体積、通貨、時間ユニットを設定します。
 
+# Microsoft チームの通知
+
+> タブを切り替えることなく情報を得られます。Catenda Hub を Microsoft チームに接続して、リアルタイム通知を優先チャネルで直接受け取ります。
+
+Catenda notification 設定で Microsoft チームワークフローを設定することにより、Catenda アカウントから Microsoft チームチャネルに直接リアルタイム通知を受け取ります。_必要なアクセス権限:_ チャネル作成および Microsoft チームワークフロー管理権限を持つ **Microsoft チーム** アカウント。
+
+Microsoft チーム通知タブは、[account notification settings ページ](https://support.catenda.com/en/articles/8272435-account-notification-settings)の上部近くに見つかります。このページは[account notifications page](https://support.catenda.com/en/articles/7439223-account-notifications-page)のサブページです。
+
+![Catenda Hub 通知設定 Microsoft チーム通知 独自のチーム設定を持つプロジェクト](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/01-intro.png)
+
+Microsoft チームワークフローが設定された後、Catenda通知が Microsoft チームでどのように見えるかを示します。
+
+![Microsoft チームチャネル 投稿 レビュー待ち 新しいトピックを作成 新しいリビジョンがモデルにインポートされました](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/02-intro.png)
+
+---
+
+### Step 1: 専用チャネルを準備する
+
+ユーザーは、Catenda通知用の特定のスペースを作成することで、プロジェクトの更新を整理できます。1\. **Microsoft チーム**で、**チーム**または**チャット**タブを選択します。2\. 既存のチームを使用するか(このステップをスキップ)、**チームを作成**します。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/03-step-1-prepare-a-dedicated-channel.png)
+
+名前を入力してチームを作成します。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/04-step-1-prepare-a-dedicated-channel.png)
+
+チームが作成されると、general というチャネルが自動的に追加されます。3\. 既存のチャネルを使用するか(このステップをスキップ)、チャネルを追加します。チームを右クリックしてアクション メニューで「チャネルを追加」を選択するか、チームをクリックして右上の**「チャネルを追加」**をクリックします。_必要なアクセス権限:_ チームのオーナーまたはメンバー。
+
+![Microsoft チーム Catenda 統合 チャット チャネル チャネルを追加 メンバー 分析 アプリ タグ すべてのチャネルを非表示 メンバーを追加 チームを管理 タグを管理 リンクをコピー チームから退出](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/05-step-1-prepare-a-dedicated-channel.png)
+
+> **注:** ゲストまたは外部アクセスでは、チャネルを作成できません。この場合、チャネル管理者に通知を送信するためのチャネルの URL を提供するよう依頼してください。
+
+「チャネルを作成」をクリックすると、「チャネルを作成」ダイアログが表示されます。
+
+![チャネルを作成 チャネル名 文字、数字、スペースが使用可能です 説明 チャネルタイプを選択 標準 プライベート スレッド 投稿](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/06-step-1-prepare-a-dedicated-channel.png)
+
+**4. チャネルに名前を付ける**: "Catenda通知" または "Project-A-Notifications" のような わかりやすい名前を使用します。
+
+**5. プライバシーを選択**: Catenda通知は標準チャネルとプライベートチャネルの両方に配信できます。
+
+- チーム全体が更新を見たい場合は、**標準**を選択します。
+- 通知が自分またはグループ内の人のみを対象としている場合は、**プライベート**を選択します。
+
+6\. **作成**をクリックします。
+
+---
+
+### Step 2: チーム Webhook URL を生成する
+
+過去に、Catenda チーム通知は、チャネル用に設定されていた Webhook Connector アプリケーションを通じて設定されていました。Webhook Connector アプリケーションは廃止されています。現在、webhook URL を作成する方法は、Microsoft チームワークフローを作成することです。
+
+以下の手順に従って、新しい Microsoft チーム**ワークフロー** webhook を作成します。1\. **Microsoft チーム**を開きます 2\. 目的のチームにマウスを置いて3つのドットをクリックするか、チャネルを開いた後、右上の3つのドットをクリックします。3\. アクション メニューから Microsoft チーム**ワークフロー**を選択します。
+
+<img alt="Microsoft チームチャネルアクションメニュー、ワークフローがハイライトされている。" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-f533eea19d48.png" width="290"/>  \<---> <img alt="Microsoft チームチャネルのアクションメニュー、ワークフローがハイライトされている。" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-1a6a43fe9eec.png" width="290"/>
+
+4\. **"チャネルに webhook アラートを送信"**を検索して選択します。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/07-step-2-generate-your-teams-webhook-url.png)
+
+5\. セットアップ ステップに従ってチームとチャネルを選択します。**6. URL をコピー**: Microsoft チームワークフローが作成されたら、上部の「Webhook リンク をコピー」をクリックして、生成された webhook URL をクリップボードにコピーします。
+
+> **注:** 💡**ヒント**: この URL をプライベートに保ちます。このリンクを持つ誰もが、チーム チャネルにメッセージを送信できます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/08-step-2-generate-your-teams-webhook-url.png)
+
+---
+
+### Step 3: Catenda Hub に接続する
+
+以下の手順に従って、webhook リンクを Catenda で設定します。これにより、Catenda はプロジェクト通知を送信する場所を認識します。
+
+1. **Catenda Hub** にログインします。
+1. **通知>設定**に移動します(アカウント レベルまたはプロジェクト レベル)。
+1. 「Microsoft チーム」タブを選択して、一番下までスクロールします。
+1. コピーした URL を **Webhook URL** フィールドに貼り付けます。
+1. **保存**をクリックします。
+
+    <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
+
+1. **通知を有効にする**: ページの上部にあるトグルが**オン**に設定されていることを確認します。
+
+    <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
+
+---
+
+### Step 4: アラートをカスタマイズする
+
+受け取る情報をカスタマイズして、通知の疲れを避けます。1\. 同じ**通知設定**メニューで、通知タイプのリストをスクロールします。**2. チェック ボックスをオン**にします チーム チャネルで受け取りたい特定の更新についてはチェックボックスをオンにします。これは Microsoft チーム通知メニューの例です。
+
+![受け取りたい通知を選択 Catenda Hub メール Microsoft チーム通知 トピック ドキュメント 承認 コレクション モデル ユーザー 新しいトピックが作成されました トピックが自分に割り当てられました トピックが自分またはマイチームに言及されています トピックに割り当てられているコメント 自分が言及している 自分がフォローしているトピックで状態が変更されました トピックでタイプが変更されました 承認リクエストでパブリッシャーとして設定されました 自分が所属するチームが承認リクエストでパブリッシャーとして設定されました 承認リクエストが終了しました 提出チームのメンバー 新しい承認リクエストが提出されました ドキュメントが破棄されました 承認リクエストが終了しました 新しい承認リクエストが提出されました 新しい承認リクエストが自分のチームに割り当てられました 新しい承認リクエストが自分のチームによるレビューの準備ができました 自分のチームによるすべてのレビューが提出されました ドキュメントが破棄されました 承認リクエストが終了しました 最終承認のレビューチームのメンバーとして 新しい承認リクエストが提出されました 新しい承認リクエストが自分のチームに割り当てられました 新しい承認リクエストが自分のチームによるレビューの準備ができました 自分のチームによるすべてのレビューが提出されました 自分のチームによるすべてのレビューが提出されました レビューステップが完了しました ドキュメントが破棄されました 承認リクエストが終了しました 新しいモデルが作成されました 新しいリビジョンがインポートされました](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/09-step-4-customize-your-alerts.png)
+
+グレーアウトされた通知ボックスは Microsoft チーム用に無効になっており、他の通知方法にのみ利用可能です。承認用の通知ボックスは、プロジェクトの[ドキュメント設定](https://support.catenda.com/en/articles/7831371-document-settings-page)で「共有 revision」が有効になっている場合に利用可能になります。
+
+---
+
+### Step 5: 確認
+
+アカウントに送信され、Microsoft チームにも送信される通知があることを確認します。
+
+1\. Catenda Hub でアクションを実行します。
+
+> **警告:** ⚠️ **注:** すべての通知を Microsoft チームに送信することはできず、Microsoft チーム通知は通常、ユーザー自身が実行したアクションについて送信されません。model をアップロードするか、チームメイトに topic を作成したり、説明またはコメント内であなたをメンションしてもらい、リンク を確認します。
+
+2\. **Microsoft チーム チャネル**を確認します。3\. メッセージは、Microsoft チーム**ワークフロー** ボットを経由してすぐに表示されます。
+
 # Model設定
 
 Modelはtranslation，IFCファイルのrevisionのコンテナと見なすことができます。ドキュメントがファイルのコンテナであるのと同じです。Modelとドキュメントの違いは、Model内のIFCファイルの内容が完全に処理され、すべてのID、オブジェクトに接続されたデータを持ち、階層ごとに生成された2Dプランを持つことです。ユーザーは多くの場合、研究分野ごとに1つ以上のModelを持っています。Modelはコンテンツパネルの[Modelsページ](https://support.catenda.com/en/articles/4670270-model-overview-page)でアクセスおよび設定できます。また、3Dビューアパネルのrevisionセレクターにも表示され、コンテンツパネルを開かずにそれらをオン/オフにする簡単な方法があります。
@@ -5865,6 +6210,35 @@ BCF は関連するコンポーネントを使用して Revit に読み込まれ
 関連するコンポーネントをセクション化することもできます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a8twaqnf/11-intro.png)
+
+# Navisworks での衝突テスト
+
+## 1. プラグインを使用した衝突テストと BCF viewpoint の作成
+
+1. Clash Detective を設定して Clash テストを実行します。
+1. NW で clash を確認します。
+
+a. 必要に応じて名前を付けます
+
+b. **Focus on clash** および **Save viewpoint** コマンドを使用して viewpoint を調整して保存します
+
+c. 類似タイプの clash をグループ化します
+
+1. Viewpoint としてレポートを作成します。**Preserve result highlighting** をオンにします。
+1. これらの viewpoint はプラグインの clash タブに表示されます
+1. 1 つ以上の Clash を選択して問題を作成します。
+
+a. 問題にタイトルを付けます
+
+b. 問題を追加をクリックします。
+
+1. 意味のあるサムネイルを取得するには：
+
+a. Clash Detective で clash を選択します
+
+b. **Clashes** タブで同じ clash を選択します。
+
+c. 問題を追加をクリックします。
 
 # Navisworksの統合ファイル
 
@@ -6559,7 +6933,7 @@ Solibriドキュメント統合の [ドキュメント] ページで、Catenda�
 
 選択後、情報メニューが右上に表示されます。閉じている場合は、`i` アイコンをクリックして展開してください。
 
-### 5.4 ​**右側の情報メニュー -** ダウンロード
+### 5.4 **右側の情報メニュー -** ダウンロード
 
 インポート時に、Solibriにインポートするドキュメントを設定できます。
 
@@ -8080,7 +8454,7 @@ IFC ファイルは、エクスポート元のオーサリング プログラム
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/02-new-item-actions.png)
 
-### 1.1 **​新しいコレクション**
+### 1.1 **新しいコレクション**
 
 新しいコレクションを作成する場合、次のダイアログに入力するよう求められます。
 
@@ -8232,7 +8606,6 @@ ISO 19650に準拠するために共有ステータスを有効にし、ワー�
 - デフォルトステータスは「ステータスなし」に設定されています。
 - ドキュメント設定の承認メニューは無効になっています。
 - ドキュメントページの承認サブページは無効になっています。
-  ​
 
 ## 2. **公開ステータス**
 
@@ -8241,7 +8614,6 @@ ISO 19650に準拠するために共有ステータスを有効にし、ワー�
 - 公開済み、コメント付き - 薄い緑色
 - 待機中 - 黄色
 - 却下 - 赤
-  ​
 
 ## 3. **ステータスを追加**
 
@@ -9071,6 +9443,37 @@ CatendaのトピックリンクはPDFエクスポートに含まれます。関�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/pwjqg6c5/03-intro.png)
 
+# トピックテンプレートを承認で使用する
+
+> 承認トピックテンプレートを承認ワークフローテンプレートに適用する
+
+承認トピックテンプレートは、[トピックテンプレート設定ページ](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)で設定することも、新しい承認ワークフローページの最終承認メニューのトピックテンプレートドロップダウンをクリックして新しいトピックテンプレートを作成することもできます。_必要なアクセス権:_ プロジェクト管理者 トピックテンプレート設定ページ
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/01-intro.png)
+
+または、ワークフローを設定
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/02-intro.png)
+
+新しいワークフローページで新しいトピックテンプレートを作成します。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/03-intro.png)
+
+> **重要:** ℹ️ トピックが承認のクローズの結果として生成されるには、承認が**マークアップを含む必要があります**。設定された承認をクローズした後、承認内の各マークアップに対して個別のトピックが生成されます。
+
+1. 新しい承認ワークフローが作成されたとき。
+   [新しい承認ワークフロー](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)テンプレートを作成し、ページの下部までナビゲートして「最終承認」セクションに到達します。
+   ここで、各レビュー状態（およびドキュメントの最終ステータスを関連付け）に対して承認トピックテンプレートをリンクできます。
+
+    <div class="intercom-container intercom-align-center"><img height="254" src="https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/inline-e90e5114173a.png" style="height: auto;" width="500"/></div>
+
+1. 承認ワークフローテンプレートから以前に必要なすべてのフィールドに入力したことを確認し、「送信」ボタンをクリックします。
+1. 承認ワークフローを進めます。
+   すべてのレビューが完了し、承認ワークフローがクローズされると、関連する承認トピックが自動的に生成され、関連するトピックテンプレート設定で設定されたすべてのフィールドが自動入力され、[トピックテンプレート設定ページ](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)からアクセスできます。
+   トピックが承認のクローズの結果として生成されるには、承認がマークアップを含む必要があります。
+   承認がフォローするワークフローに対して承認トピックテンプレートが設定されている場合、承認がクローズされたときにトピックが生成されます。
+   承認内の各マークアップに対して個別のトピックが生成されます。
+
 # トピックテンプレートページ - レガシー
 
 トピックテンプレートページは、[トピックテンプレートページ](https://support.catenda.com/en/articles/12367730-topic-templates-page)のトピックテンプレートカードをクリックすると表示されます。_アクセス権限_: 管理者
@@ -9191,6 +9594,172 @@ CatendaのトピックリンクはPDFエクスポートに含まれます。関�
 
 トピックテンプレートページは、新しい検証ワークフローで開始するプロジェクトでは利用できません。
 
+# トピックテンプレート設定ページ
+
+> トピックテンプレート設定を管理します
+
+トピックテンプレート設定ページは、左のナビゲーションメニューからトピックページを開いた後に開くことができる[トピック設定ページ](https://support.catenda.com/en/articles/14183429-topic-settings-page)の「トピックテンプレートを構成」をクリックすることで見つけることができます。_必要なアクセス権:_ プロジェクト管理者
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/01-intro.png)
+
+トピックテンプレート設定ページでは、プロジェクト内の各トピックリストのトピックテンプレートを構成できます。作成後、トピックテンプレートは自動的に利用可能になり、作成時にトピックのテキストとフィールドに入力されます。トピックテンプレートは、以下のトピック作成プロセスで利用可能になるように構成できます：[一般的なトピックでトピックテンプレートを使用する方法](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation) [マークアップトピックでトピックテンプレートを使用する方法](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document) [承認でトピックテンプレートを使用する方法](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
+
+## 1. **アクションメニュー**
+
+右上のプラスボタンをクリックして、アクションメニューを開きます。トピックテンプレート設定ページの右上のアクションメニューは、以下のようになります：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/02-action-menu.png)
+
+ドロップダウンメニューには、異なるタイプのトピックテンプレートを作成するオプションが表示されます。トピックテンプレートは、作成時にテキストとフィールドを自動的に入力するために使用できる変数が、使用されるトピック作成プロセスによって異なるため、異なるテンプレートタイプに区別されます。
+
+## 2. **検索またはフィルターオプション**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/03-search-or-filter-options.png)
+
+### 2.1 **検索**
+
+_テキスト検索 -_ `search=<検索フレーズ>` 検索またはフィルターバーに文字を入力した後、最初に提案されるフィルターがテキスト検索に変更されます。
+
+**検索できるコンテンツ**トピックテンプレート名
+
+**大文字と小文字の区別**テキスト検索は大文字と小文字を区別しません。
+
+**文字数**任意の量または種類の文字を検索できます。
+
+**空白文字**検索フレーズの開始時の空白文字は検索できますが、テンプレート名から削除されるため、検索時に結果が表示されません。検索フレーズの末尾の空白文字は削除されます。
+
+### 2.2 **フィルターメニュー内でのフィルタリング**
+
+トピックテンプレートは、可能なステータスのいずれかでフィルタリングされます。フィルターメニューの「ステータス」メニューをクリックして、フィルタリングされていないステータスオプションを非表示にします。検索バーの右にあるXを押してフィルタータグをバーから削除することは可能ですが、効果はありません。「アクティブ」または「アーカイブ」フィルターのいずれかでテンプレートをフィルタリングすることのみが可能です。
+
+_アクティブ_ - `status=active` - デフォルト アクティブに使用でき、トピック生成に構成できるトピックテンプレート。
+
+_アーカイブ_ - `status=archived` トピック生成プロセスで使用または構成できないトピックテンプレート。
+
+## 3. **テンプレートテーブル**
+
+トピックテンプレート設定ページに移動すると、以前に作成された既存のトピックテンプレートの概要を確認できます。トピックテンプレートテーブルは、以下のようになります：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/04-templates-table.png)
+
+[こちら](https://support.catenda.com/en/articles/11748020-tables-on-catenda)をクリックして、Catendaのテーブルの操作方法に関する詳細を確認します。
+
+### 3.1 **行のコンテンツ**
+
+トピック行をクリックして、そのテンプレートのトピックテンプレートコンテンツページを開きます。
+
+### 3.2 **列**
+
+トピックテンプレートテーブルのすべての列はデフォルトで有効になっています。構成された列の順序に基づいて、最初の列が表示されます。テーブルは、他の有効な列を表示するために横にスクロールが必要な場合があります。ドキュメントページの列のデフォルト順序と表示設定は、以下のとおりです：
+
+名前 テンプレートタイプ 作成者 作成日時 ステータス トピックリスト
+
+## 4. **新規一般トピックテンプレートを作成**
+
+一般的なトピックセクションから作成されたトピックで使用できます。新規一般トピックテンプレートを作成する際に従う必要のあるさまざまなアクションと、入力できる変数を以下に示します：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/05-create-a-new-general-topic-template.png)
+
+1. **トピックリスト**：一般的なトピックテンプレートを生成できるトピックリスト。
+1. **テンプレート名**：テンプレート名は、作成時にドロップダウンメニューから選択することも、後で設定で更新することもできます。
+1. **トピックタイトル**：一般的なトピックテンプレートからトピックを作成した後の結果のトピックタイトル。
+   タイトルボックスの右上にある「？」アイコンの上にマウスを置いて、利用可能な変数「`topicCreator`」を使用してトピックテンプレートタイトルをカスタマイズする方法を確認してください。
+
+    <div class="intercom-container intercom-align-center"><img height="184" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-272165f584d2.png" style="height: auto;" width="300"/></div>
+
+1. **トピックステータス**：一般的なトピックテンプレートからトピックを作成した後の結果のトピックステータス。
+1. **トピックタイプ**：一般的なトピックテンプレートからトピックを作成した後の結果のトピックタイプ。
+1. **マイルストーン**：一般的なトピックテンプレートからトピックを作成した後の結果のトピックマイルストーン。
+1. **担当者**：一般的なトピックテンプレートからトピックを作成した後の結果のトピック担当者（プロジェクトメンバーまたはチーム）。ここでは「`トピック作成者`」変数を使用して、必要に応じてこのフィールドをトピック作成者で自動的に入力できます。
+
+    <div class="intercom-container intercom-align-center"><img height="94" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-c7f3d7220c54.png" style="height: auto;" width="150"/></div>
+
+1. **依頼者**：一般的なトピックテンプレートからトピックを作成した後の結果のトピック依頼者。ここでは「`トピック作成者`」変数を使用して、必要に応じてこのフィールドをトピック作成者で自動的に入力できます。
+
+    <div class="intercom-container intercom-align-center"><img height="93" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-43e4955bfdd8.png" style="height: auto;" width="150"/></div>
+
+1. **ラベル**：一般的なトピックテンプレートからトピックを作成した後の結果のトピックラベル。
+1. **説明**：一般的なトピックテンプレートからトピックを作成した後の結果のトピック説明。このセクションはMarkdown形式をサポートしており、テキストをフォーマットしたり、カスタムヘッダーやチェックリストを作成したりするための全機能を使用できます。
+    説明ボックスの右上隅にある「？」アイコンの上にマウスを置いて、利用可能なすべての機能（チームメートの言及と既存トピックへのリンク）と変数（一般的なトピックテンプレートの場合は「`topicCreator`」など）を使用する方法を確認してください。
+
+     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+
+新規一般トピックテンプレートの設定が完了したら、右下の「保存」ボタンをクリックできます。
+
+## 5. **新規ドキュメントトピックテンプレート**
+
+ドキュメント上のマークアップから作成されたトピックで使用できます。新規ドキュメントトピックテンプレートを作成する際に従う必要のあるさまざまなアクションと、入力できる変数を以下に示します：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/06-new-document-topic-template.png)
+
+1. **トピックリスト**：ドキュメントトピックテンプレートを生成できるトピックリスト。
+1. **テンプレート名**：テンプレート名は、マークアップ作成時にドロップダウンメニューから選択することも、後で設定で更新することもできます。
+1. **トピックタイトル**：ドキュメントトピックテンプレートからトピックを作成した後の結果のトピックタイトル。
+   タイトルボックスの右側にある「？」アイコンの上にマウスを置いて、利用可能な変数「`documentName`」「`fileName`」「`markupName`」「`topicCreator`」を使用してドキュメントトピックテンプレートタイトルをカスタマイズする方法を確認してください。
+
+    <div class="intercom-container intercom-align-center"><img height="231" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-dbe5030f1082.png" style="height: auto;" width="300"/></div>
+
+1. **トピックステータス**：ドキュメントトピックテンプレートからトピックを作成した後の結果のトピックステータス。
+1. **トピックタイプ**：ドキュメントトピックテンプレートからトピックを作成した後の結果のトピックタイプ。
+1. **マイルストーン**：ドキュメントトピックテンプレートからトピックを作成した後の結果のトピックマイルストーン。
+1. **担当者**：ドキュメントトピックテンプレートからトピックを作成した後の結果のトピック担当者（プロジェクトメンバーまたはチーム）。ここでは、「`ドキュメント所有者`」「`ファイルアップローダー`」「`マークアップ作成者`」「`発行者`」「`トピック作成者`」などの異なる変数を使用できます。
+
+    <div class="intercom-container intercom-align-center"><img height="228" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b3156a6c2724.png" style="height: auto;" width="150"/></div>
+
+1. **依頼者**：ドキュメントトピックテンプレートからトピックを作成した後の結果のトピック依頼者。ここでは、「`ドキュメント所有者`」「`ファイルアップローダー`」「`マークアップ作成者`」「`発行者`」「`トピック作成者`」などの異なる変数を使用できます。
+
+    <div class="intercom-container intercom-align-center"><img height="171" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-0c4680dfae06.png" style="height: auto;" width="150"/></div>
+
+1. **ラベル**：ドキュメントトピックテンプレートからトピックを作成した後の結果のトピックラベル。「`ドキュメントのラベル`」変数を使用して、作成したマークアップのドキュメントからラベルを取得できることに注意してください。
+
+    <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
+
+1. **説明**：ドキュメントトピックテンプレートからトピックを作成した後の結果のトピック説明。このセクションはMarkdown形式をサポートしており、テキストをフォーマットしたり、カスタムヘッダーやチェックリストを作成したりするための全機能を使用できます。
+    説明ボックスの右上隅にある「？」アイコンの上にマウスを置いて、利用可能なすべての機能（チームメートの言及と既存トピックへのリンク）と変数（ドキュメントトピックテンプレートの場合は「`documentName`」「`fileName`」「`markupName`」「`topicCreator`」など）を使用する方法を確認してください。
+
+     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+
+新規ドキュメントトピックテンプレートの設定が完了したら、右下の「保存」ボタンをクリックできます。
+
+## 6. **新規承認トピックテンプレート**
+
+承認ワークフローが終了した後に生成されたトピックで使用できます。_必要なアクセス権:_ 共有ステータスが有効（ドキュメントページとモデルページに「ワークスペース」タブと「公開」タブが表示されている）
+
+> **注意：** このオプションは、現在のステータスと検証ワークフローが使用中の場合にのみ表示されます。October 2, 2025以降に作成されたプロジェクトでは、現在のステータスと検証ワークフローが自動的に使用されます。
+
+新規承認トピックテンプレートを作成する際に従う必要のあるさまざまなアクションと、入力できる変数を以下に示します：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/07-new-approval-topic-template.png)
+
+1. **トピックリスト**：承認ワークフローが終了した後に承認トピックテンプレートが生成されるトピックリスト。
+1. **テンプレート名**：承認トピックテンプレートのテンプレート名は、承認ワークフローテンプレートのドロップダウンメニューから選択することも、後で設定で更新することもできます。
+1. **トピックタイトル**：関連付けられた承認ワークフローが終了した後の結果のトピックタイトル。
+   タイトルボックスの右側にある「？」アイコンの上にマウスを置いて、利用可能な変数「`approvalRequestName`」「`approvalRequestNumber`」「`documentName`」「`fileName`」「`markupName`」「`topicCreator`」を使用して承認トピックテンプレートタイトルをカスタマイズする方法を確認してください。
+
+    <div class="intercom-container intercom-align-center"><img height="272" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-6038b1d41fed.png" style="height: auto;" width="300"/></div>
+
+1. **トピックステータス**：関連付けられた承認ワークフローを終了した後の結果のトピックステータス。
+1. **トピックタイプ**：関連付けられた承認ワークフローを終了した後の結果のトピックタイプ。
+1. **マイルストーン**：関連付けられた承認ワークフローを終了した後の結果のトピックマイルストーン。
+1. **担当者**：関連付けられた承認ワークフローを終了するトピック担当者（プロジェクトメンバーまたはチーム）。ここでは、「`承認リクエスト承認者`」「`承認リクエスト承認者チーム`」「`承認リクエスト送信者`」「`承認リクエスト送信者チーム`」「`ドキュメント所有者`」「`ファイルアップローダー`」「`マークアップ作成者`」「`マークアップ作成者チーム`」「`発行者`」などの異なる変数を使用できます。
+
+    <div class="intercom-container intercom-align-center"><img height="182" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b012d92ee132.png" style="height: auto;" width="150"/></div>
+
+1. **依頼者**：関連付けられた承認ワークフローを終了した後の結果のトピック依頼者。ここでは、「`承認リクエスト承認者`」「`承認リクエスト承認者チーム`」「`承認リクエスト送信者`」「`承認リクエスト送信者チーム`」「`ドキュメント所有者`」「`ファイルアップローダー`」「`マークアップ作成者`」「`マークアップ作成者チーム`」「`発行者`」などの異なる変数を使用できます。
+
+    <div class="intercom-container intercom-align-center"><img height="181" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d7986adac70c.png" style="height: auto;" width="150"/></div>
+
+1. **ラベル**：関連付けられた承認ワークフローを終了した後の結果のトピックラベル。「`ドキュメントのラベル`」変数を使用して、作成したマークアップのドキュメントからラベルを取得できることに注意してください。
+
+    <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
+
+1. **説明**：関連付けられた承認ワークフローを終了した後の結果のトピック説明。このセクションはMarkdown形式をサポートしており、テキストをフォーマットしたり、カスタムヘッダーやチェックリストを作成したりするための全機能を使用できます。
+    説明ボックスの右上隅にある「？」アイコンの上にマウスを置いて、利用可能なすべての機能（チームメートの言及と既存トピックへのリンク）と変数（承認トピックテンプレートの場合は`approvalRequestDueDate`、`approvalRequestFileLink`、`approvalRequestLink`、`approvalRequestName`、`approvalRequestNumber`、`documentName`、`fileName`、`markupName`、`topicCreator`など）を使用する方法を確認してください。
+
+     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+
+新規承認トピックテンプレートの設定が完了したら、右下の「保存」ボタンをクリックできます。
+
 # トピックテーブルのアクション
 
 アクションボタンは、トピック選択とアクセス設定に応じて、[トピックスページ](https://support.catenda.com/en/articles/4670271-topics-page)のさまざまな場所に配置できます。すべてのアクションボタンは、次のようなアクションメニューにリストされます：
@@ -9304,6 +9873,61 @@ _必要なアクセス:_ トピックボードへのフルアクセスまたは�
 _編集または削除の防止_ トピックのPDFエクスポートを作成して、編集できないトピックのエクスポートを作成します。
 
 **バックアップリカバリリクエスト**削除されたトピックのバックアップリカバリは、紛争の場合に要求できます。バックアップリカバリリクエストには最大2週間かかります。
+
+# トピックバナー - トピック間のナビゲーション
+
+[トピックリスト](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b)からトピックを選択すると、そのトピックの新しいウィンドウが表示されます。トピックウィンドウは次のようになります：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/01-intro.png)
+
+1\. トピックバナーについてはこの記事で説明します。2\. [トピックヘッダー](https://support.catenda.com/en/articles/8400566-issue-header)の上にトピックバナーが表示されます。3\. トピックヘッダーと本文の右側に[右側情報パネル](https://support.catenda.com/en/articles/8053299-issue-right-panel)が表示されます。4\. トピックのヘッダーの下に[トピック本文](https://support.catenda.com/en/articles/8053352-issue-body)が表示されます。
+
+## 1. **パンくずリスト**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/02-breadcrumbs.png)
+
+### 1.1 **トピック**
+
+パンくずのトピックをクリックして、現在の[トピックリスト](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b)に戻ります。
+
+### 1.2 **トピック** **リストドロップダウン**
+
+パンくずのトピックリストドロップダウンで[トピックリスト](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b)を選択して、そのトピックリストに移動します。
+
+### 1.3 **トピック番号とタイトル**
+
+Catenda Hubトピック番号とトピックのタイトル。プロジェクト内の新しいトピックはすべて番号が1ずつインクリメントされます。この番号は変更できません。この番号はプロジェクト内で一意です。したがって、異なるトピックリスト内の同じ番号のトピックは2つ表示されません。トピックをBCFにエクスポートして別のプロジェクトにインポートすると、そのプロジェクトの最新のトピック番号に基づいて新しい番号が付与されます。異なるプロジェクト内の同じトピックは各プロジェクトで異なるトピック番号を持つ可能性がありますが、トピックはトピックGUIDでリンクされています。後でトピックに変更を加えてBCFに再度エクスポートし、別のプロジェクトに再度インポートすると、異なる番号であっても正しいトピックが更新されていることがわかります
+
+## 2. **トピックナビゲーション**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/03-topic-navigation.png)
+
+_戻るボタン_ - 最後に表示していたCatenda Hubの部分に戻ります _プログレスバー_ - ナビゲートできるトピックを表示します
+
+> **注:** トピックリストに読み込んだトピック数のみナビゲートできます。トピックリストを下にスクロールすることで一度に100トピックを読み込むことができます。トピックリストを最後までスクロールするか、ボード内のトピックが100未満の場合を除きます。したがって、この総数はトピックリスト内のトピックの総数を示していません。
+
+_前へ/次へボタン_ - フィルタリングされたトピックリスト内の前のトピックまたは次のトピックに移動します
+
+## 3. **トップボタン**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/04-top-buttons.png)
+
+_新規トピック_ - [新規トピック](https://support.catenda.com/en/articles/4670268-creating-a-new-issue)を作成します。_トピックのクローン_ - このトピックのコピーを作成します。現在のトピックと少し異なる同様のトピックを作成したいときにトピックをクローンします。同じトピックを複数作成して、それぞれ異なるユーザーに割り当てることはお勧めしません。代わりに、@memberでトピックに追加するメンバーに[メンション](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c)してください。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/05-top-buttons.png)
+
+- クローンされたトピックのヘッダーと説明は、現在のトピックと同じです
+- _ドキュメントを含める_
+
+このトピックにリンクされたドキュメントも、クローンされたトピックにリンクされます
+
+- _関連するオブジェクトを含む_
+
+このトピックにリンクされたオブジェクトも、クローンされたトピックにリンクされます
+
+> **注：** コメントはクローンされません
+
+_設定_ - このボタンをクリックして[トピックリスト設定](https://support.catenda.com/en/articles/4670277-issue-board-settings)に移動します
 
 # トピックヘッダー - トピックの件名
 
@@ -10147,7 +10771,6 @@ _色_ - ステータスの色を変更します。
 - [ラベル](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - 期日
 - 場所
-  ​
 
 ### 1.1 フィルターのリセットアイコン
 
@@ -10176,6 +10799,29 @@ _色_ - ステータスの色を変更します。
 中央にプラスが付いた緑色の円をタップして、新しいトピックを作成します
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/68qsmtaz/06-new-topic.png)
+
+# トピックリストでトピックテンプレートを使用する
+
+> トピック作成時に一般的なトピックテンプレートを適用する
+
+一般的なトピックテンプレートは[トピックテンプレート設定ページ](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)で設定できます。_アクセス権限が必要:_ プロジェクト管理者
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/01-intro.png)
+
+1. まず、通常のトピックセクションから新しいトピックを作成します。
+   _アクセス権限が必要:_ トピックリストへの書き込みアクセス権限。
+1. 次に、トピックを作成する対象のトピックリストを選択します。
+   _アクセス権限が必要:_ トピックリストへの書き込みアクセス権限。
+1. 選択したトピックリストによっては、管理者によって一般的なトピックテンプレートが設定されている場合、それらをテンプレートドロップダウンで利用でき、推奨されることがあります。
+
+    <div class="intercom-container intercom-align-center"><img height="549" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-b8fa9d6ab8dc.png" style="height: auto;" width="500"/></div>
+
+1. 使用したいテンプレートを選択します。
+   適切なテンプレートを選択するとすぐに、新しいトピックが、関連するトピックテンプレート設定で設定されたすべてのフィールド([トピックテンプレート設定ページ](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)からアクセス可能)で自動入力されます。
+
+    <div class="intercom-container intercom-align-center"><img height="731" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-23a75554e46a.png" style="height: auto;" width="500"/></div>
+
+1. 最後に、「Submit」ボタンをクリックしてトピックを保存できます。
 
 # トピックリストのアクセス制御
 
@@ -10276,6 +10922,24 @@ _デフォルト_ - フルアクセス Catendaでコンテンツを作成する�
 設定後、アクセス制御ダイアログは次のようになります：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/66bsqhfn/02-configured-example.png)
+
+# トピックリスト作成ACL
+
+管理者は、[プロジェクト設定ページ](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3)のアクセス制御セクションでトピックリストを作成するためのアクセス権限を持つユーザーを設定できます。
+
+1. このページのアクセス制御の下に「新しいトピックリストを作成」があります。
+
+それをクリックします。
+
+1. 作成できるユーザーとアクセス編集の一覧が表示されます。
+   「アクセスを編集」ボタンをクリックします。
+1. メンバー(複数)またはチーム(複数)のアクセスを定義します。
+
+選択したメンバー(複数)またはチーム(複数)の下に表示されます。
+
+1. アクセスでは「作成可能」と「許可されていません」の間で選択します。
+
+保存ボタンを押します。
 
 # トピック履歴
 
@@ -10763,19 +11427,19 @@ _オブジェクト関連_ オブジェクトにリンクされていた削除�
 
 ### 2.2 スタンプ タイプ コンテンツ
 
-プリセット メニューでは、次のスタンプが表示されます: _​_**名** - アカウント名の最初のスペースの前のすべて
+プリセット メニューでは、次のスタンプが表示されます: **名** - アカウント名の最初のスペースの前のすべて
 
 **ミドル名 姓** - アカウント名の最初のスペースの後のすべて
 
 **名 ミドル名 姓** - 完全なアカウント名
 
-**​名** - アカウント名の最初のスペースの前のすべて 日付
+**名** - アカウント名の最初のスペースの前のすべて 日付
 
 **ミドル名 姓** - アカウント名の最初のスペースの後のすべて 日付
 
 **名 ミドル名 姓** - 完全なアカウント名 日付
 
-_​_**名** - アカウント名の最初のスペースの前のすべて 日付と時刻
+**名** - アカウント名の最初のスペースの前のすべて 日付と時刻
 
 **ミドル名 姓** - アカウント名の最初のスペースの後のすべて 日付と時刻
 
@@ -10799,7 +11463,7 @@ _​_**名** - アカウント名の最初のスペースの前のすべて 日�
 
 **入札ドキュメント**完全なアカウント名と日付
 
-## 3. ​新しいスタンプを作成
+## 3. 新しいスタンプを作成
 
 [新しいスタンプを作成] をクリックして、[新しいスタンプを作成] ダイアログを開きます。[新しいスタンプを作成] ダイアログは次のようなものです:
 
@@ -10828,6 +11492,37 @@ _​_**名** - アカウント名の最初のスペースの前のすべて 日�
 ### 3.6 日付形式 - デフォルト - DD/MM/YYYY h:mm A
 
 希望する日付形式を選択します
+
+# ドキュメントのカスタムフィールド
+
+この記事では、ユーザー定義フィールドをドキュメントに適用する方法について説明します。カスタムフィールドは、命名規則とトピックですでに使用されています。
+
+これはプラットフォーム上でより構造化された方法で作業するのに役立つメタデータです。プロジェクトはしばしばプラン キー、命名規則で機能します。これにより、ドキュメントまたはモデル（ファイル）を組織する際に従う定義済みの構造が既に提供されています。ファイルに追加のメタデータをリンクする場合、これはラベルまたはユーザー定義フィールドを介して行うことができます。ラベルとユーザー定義フィールド間の違い（利点と欠点を含む）は、次の表で確認できます：
+
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e8e8e880; padding: 8px;"><h3 id="h_d451caef81"><b>ドキュメントのカスタムフィールド</b></h3></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_81285be75b"><b>ラベル</b></h3></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>異なるタイプが可能</p><ul><li><p>テキスト</p></li><li><p>整数</p></li><li><p>日付</p></li><li><p>小数</p></li><li><p>ドロップダウン</p></li></ul></li><li><p>フォルダに追加</p><ul><li><p>デフォルト値を設定</p></li><li><p>必須フィールドを設定</p></li></ul></li><li><p>ドキュメント &amp; revision間の違いが可能</p></li><li><p>特定のフォルダにドキュメントをアップロードするときに値を自動的に追加</p></li><li><p>ドキュメントをフォルダから移動する場合、値は削除されます。他のフォルダが同じ設定を持つ場合を除きます。</p></li><li><p>ドキュメント上の値の履歴</p></li><li><p>ルールの継承</p></li></ul></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>ラベルをグループ化</p></li><li><p>ラベルがドキュメント/トピックに属しているかの概要</p></li><li><p>ラベルはトピック/ドキュメントに直接リンクされています</p></li><li><p>トピック &amp; ドキュメント内での使用</p></li><li><p>作成が簡単</p></li><li><p>誰でもラベルを作成できます。</p></li><li><p>ドキュメント用のラベル、revisionには使用しない</p></li></ul></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d7504cb7eb"><b>ユースケース</b></h3></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_ecb9b80743"><b>ユースケース</b></h3></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>ドキュメントをフォルダアーカイブにアップロード。ドキュメントは「アーカイブ済み」という情報を取得します</p></li><li><p>ドキュメント/モデルに追加情報「コメント」を追加</p></li></ul></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>追加情報、メタデータでドキュメント管理システムを整理</p></li></ul></td></tr></tbody></table></div>
+
+> **注釈:** **例:** ユーザー定義フィールドを使用してドキュメントにコメントを追加できます。**注釈:** デフォルト値を使用することで、対応するフォルダにドキュメントがアップロードされるとすぐに、ドキュメントは対応する定義済みの値を自動的に提供されます。ドキュメント履歴は、各個別プロセスもここで追跡します。
+
+ユーザー定義フィールドをドキュメントに適用するには、次のように進めます：
+
+1. 目的のユーザー定義フィールドを作成します
+1. 作成されたユーザー定義フィールドを1つ以上のフォルダに割り当てます
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-ba695fa6aebd.png" width="496"/></div>
+
+1. ユーザー定義フィールドをドキュメント（revisionをまたいで）に割り当てるか、各個別revisionに割り当てるかを定義します
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-20eab3b097ce.png" width="500"/></div>
+
+1. 必要に応じてデフォルト値を設定します
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-7241dd9f32dd.png" width="500"/></div>
+
+1. ドキュメント領域では、ドキュメント情報のフォルダの下のドキュメント上に割り当てられたユーザー定義フィールドを認識できるようになります。
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-f4243a01e272.png" width="500"/></div>
+
+> **注釈:** カスタムフィールドはフィルター領域または検索バーでも利用できます。
 
 # ドキュメントのプレビューと注釈
 
@@ -11445,7 +12140,7 @@ _タイトル、A-Z_ - デフォルト _名前、Z-A_ - `sort=name-desc` _公開
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/01-intro.png)
 
-このパネルは、選択した内容に応じて異なる場合があります [​_フォルダ（1つ）_ ](#h_cad792004b) _- [ドキュメント（1つ）](#h_2fac53531d) - [フォルダ（複数可）やドキュメント（複数可）](#h_58d67056f7)_
+このパネルは、選択した内容に応じて異なる場合があります [_フォルダ（1つ）_ ](#h_cad792004b) _- [ドキュメント（1つ）](#h_2fac53531d) - [フォルダ（複数可）やドキュメント（複数可）](#h_58d67056f7)_
 
 ## 1. フォルダ（1つ）
 
@@ -13046,7 +13741,7 @@ SafariはMacオペレーティングシステムで推奨されるブラウザ�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/02-intro.png)
 
-このページには以下の項目に関する情報が含まれています：[計画](#h_595c5ebf4c) - [操作](#h_ef3bbf0441)​ - [マイルストーン一覧](#h_5403eb541f)
+このページには以下の項目に関する情報が含まれています：[計画](#h_595c5ebf4c) - [操作](#h_ef3bbf0441) - [マイルストーン一覧](#h_5403eb541f)
 
 ## 1. 計画
 
@@ -13295,6 +13990,34 @@ Markupの編集が完了したら、[保存](https://support.catenda.com/en/arti
 ### 6.4 **スナップショット**
 
 注釈セットごとに、注釈が作成されたrevisionのページの領域の画像が作成されます。ページ上の注釈に変更があるたびに、画像が更新されます。新しい注釈が作成されると、すべての注釈を含むようにより大きな画像が作成されます。一方、注釈が削除された場合、画像はより小さく調整される場合があります。ページの一部をハイライトするには、矩形注釈を0の不透明度で使用して、矩形内の領域全体が画像にキャプチャされることを確認することをお勧めします。
+
+# マークアップトピックを保存する際のトピックテンプレートの使用
+
+> ドキュメントからマークアップを作成する際に、ドキュメントトピックテンプレートを適用します
+
+ドキュメントトピックテンプレートは、[トピックテンプレート設定ページ](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)で設定できます。_必要なアクセス権:_ プロジェクト管理者
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/01-intro.png)
+
+1. 最初に、ドキュメントビューアでドキュメント上に注釈を作成します。
+1. マークアップをトピックとして保存します。
+   _必要なアクセス権:_ トピックリストへの書き込みアクセス。
+1. マークアップからトピックを作成するためのポップアップウィンドウが表示されます。
+
+    <div class="intercom-container intercom-align-center"><img height="541" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-9980053aae3a.png" style="height: auto;" width="500"/></div>
+
+1. 次に、トピックを作成する対象のトピックリストを選択します。
+   _必要なアクセス権:_ トピックリストへの書き込みアクセス。
+1. 選択したトピックリストに応じて、管理者がドキュメントトピックテンプレートを設定している場合、テンプレートドロップダウンで利用可能で提案されることができます。
+
+    <div class="intercom-container intercom-align-center"><img height="540" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-b8fd0218f860.png" style="height: auto;" width="500"/></div>
+
+1. 使用するテンプレートを選択します。
+   使用するテンプレートを選択すると、新しいトピックは、[トピックテンプレート設定ページ](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)からアクセスできる関連するトピックテンプレート設定で設定されたすべてのフィールドで自動的に入力されます。
+
+    <div class="intercom-container intercom-align-center"><img height="814" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-50d2237a44b3.png" style="height: auto;" width="500"/></div>
+
+1. 最後に、「トピックとして保存」ボタンをクリックしてトピックを保存できます。
 
 # メンバーページ
 
@@ -14916,7 +15639,7 @@ _さらに読み込む_ リビジョンセレクターの下部にある「さ�
 
 2D ボタンが緑色の場合、そのモデルの 2D ビューは[2D ビューア](https://support.catenda.com/en/articles/4854537-2d-viewer)で表示され、メモリに読み込まれています。ボタンが灰色の場合、そのモデルの 2D ビューは表示されず、メモリに読み込まれません。
 
-### 1.4 **​3D ボタン**
+### 1.4 **3D ボタン**
 
 3D ボタンをクリックすると緑色になります。そのドキュメントの 3D ビューは[3D ビューア](https://support.catenda.com/en/articles/8227211-3d-viewer)で使用可能になり、メモリに読み込まれます。3D ボタンが緑色の間、そのモデルに属するモデルオブジェクトは 3D ビューアで使用可能になります。
 
@@ -14950,7 +15673,7 @@ _さらに読み込む_ リビジョンセレクターの下部にある「さ�
 
 モデルの場合はモデル名が表示されます。ドキュメントの場合はドキュメント名が表示されます。ドキュメントリストは Catenda の一般的な[リストのソート順序](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists)に従っています。
 
-### 1.9 **​モデルリビジョン**
+### 1.9 **モデルリビジョン**
 
 3D ドキュメント名の右側に、緑色の下線付きテキストが表示されます。表示されるテキストは、3D ボタンが有効な場合に読み込まれるリビジョンの番号を反映しています。3D ドキュメントからのリビジョンがすでに読み込まれている場合、番号は現在選択され、メモリに読み込まれているリビジョンを反映しています。
 
@@ -15037,6 +15760,70 @@ _さらに読み込む_ リビジョンセレクターの下部にある「さ�
 ### 3.1 **違いの視覚化**
 
 選択後、2つのモデルリビジョンが3Dビューアでオーバーレイされます。リビジョンは視覚的に比較できるようになります。色付きオブジェクト間の重複を確認することで、1つの色が他の色より目立つ場所を確認することができます。同じ場所にあるオブジェクトの色は互いに加算されます。たとえば、赤と青が選択された場合、同じ場所にある両方のリビジョンのオブジェクトは紫色になります。この色の差別化により、リビジョン間の変更を簡単に識別できます。
+
+# リンクによる情報の追跡
+
+Catenda Hubのさまざまな部分を他の部分にリンクする方法はいくつかあります。異なる場所の右側の情報パネルを確認すると、表示しているアイテムにリンクされている情報を見つけることができます。この記事では、アイテムがリンクされたアイテムを持つようにする良い方法について説明しています。アイテムは異なる場所のリンクをクリックして手動でリンクすることができます。この記事では、毎回リンクをクリックしなくてもすべてが自動的にリンクされるようにして作業できるいくつかのヒントとコツも紹介しています。
+
+## 1. **トピックのリンク**
+
+トピックがリンクされている内容は、トピックの[右側パネル](https://support.catenda.com/en/articles/8053299-issue-right-panel)で確認できます
+
+### 1.1 **トピックへのオブジェクトのリンク**
+
+**手動**トピックをオブジェクトにリンクする方法については、[こちら](https://support.catenda.com/en/articles/8053299-issue-right-panel#h_758f17abbc)をクリックしてください
+
+**自動**トピックを送信するときに3Dスナップショットで3Dオブジェクトが選択されている場合、これらのオブジェクトはトピックにリンクされます。
+
+### 1.2 **トピックへのドキュメントのリンク**
+
+**手動**ドキュメントをトピックにリンクする方法については、[こちら](https://support.catenda.com/en/articles/4670250-linking-a-document-to-an-issue)をクリックしてください
+
+### 1.3 **トピックを他のトピックにリンク**
+
+**手動**トピックを別のトピックにリンクする方法については、[こちら](https://support.catenda.com/en/articles/8053299-issue-right-panel#h_edf2cb07a8)をクリックしてください
+
+**自動**トピックのコメントまたは説明で#を使用してトピックを指すと、このトピックはそのトピックにリンクされ、そのトピックはこのトピックにリンクされます。このリンクは後で編集できます。
+
+## 2. **ドキュメントのリンク**
+
+### 2.1 **ドキュメントへのトピックのリンク**
+
+**手動**ドキュメントの右側の情報パネルの[注釈タブ](https://support.catenda.com/en/articles/5001165-annotations-on-documents)からトピックを作成して送信すると、ドキュメントはそのトピックにリンクされます。
+
+**自動** [注釈](https://support.catenda.com/en/articles/5001165-annotations-on-documents)を作成してトピックに追加すると、ドキュメントは自動的にそのトピックにリンクされます。
+
+### 2.2 **ドキュメントへのオブジェクトのリンク**
+
+**手動**ドキュメントをオブジェクトにリンクする方法については、[こちら](https://support.catenda.com/en/articles/4670297-linking-documents-to-objects)をクリックしてください。
+
+## 3. **オブジェクトのリンク**
+
+### 3.1 **オブジェクトへのトピックのリンク**
+
+**手動**オブジェクトをトピックにリンクする方法については、[こちら](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056)をクリックしてください
+
+**自動**
+
+1. 3Dでモデルを読み込み、オブジェクトを選択します。
+1. 次のいずれか
+
+情報パネルの検査セクションの[トピックセクション](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056)のプラスボタンをクリックします。
+
+または
+
+コンテンツパネルのトピックページで新しいトピックをクリックして、新しいトピックセクションを作成します。
+
+1. トピックにタイトルを付けて送信します
+1. トピックが選択したオブジェクトをリンク状態で持つことに注意してください
+
+### 3.2 **オブジェクトへのドキュメントのリンク**
+
+オブジェクトはドキュメントに追加のみ可能で、その逆はできません。詳細は[こちら](#h_41401e4836)をご覧ください。
+
+## 4. **できるだけ簡単にできるだけ多くリンク**
+
+3Dビューアでモデルを読み込み、オブジェクトを選択します。情報パネルの選択セクションでオブジェクトの選択を作成します。新しいトピックを作成します。トピックにタイトルを付けます。ドキュメントをトピックにリンクします。トピックを送信します。ドキュメントに移動して、オブジェクトをドキュメントにリンクします。
 
 # リンクコピーアクション
 
@@ -15611,7 +16398,7 @@ Catenda Hubのモデルビューアには強力な切断機能があります。
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-a2fc3b4afcfe.png" style="height: auto;" width="1920"/></div>
 
-   これを行うには、"Name de Revision"列を表示できます。この列は元の名前を表示します。
+これを行うには、"Name de Revision"列を表示できます。この列は元の名前を表示します。
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-1b1cee11c3c8.png" style="height: auto;" width="1920"/></div>
 
@@ -16948,6 +17735,57 @@ _名前_ - _デフォルト_ 共有リビジョンが含まれているドキュ
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dmdyh23e/04-steps-overview.png)
 
 これはステップ進捗状況の例で、レビュアーチームのメンバーが、レビュアーチームに代わってドキュメントを承認すべきとの指示を送信した場合です。ステップステータスと、レビューと送信を行ったチームとメンバーが表示されます。
+
+# 承認依頼内のドキュメントタブ
+
+承認依頼のドキュメントタブは、すべての承認の承認依頼ページにあります。ドキュメントタブでは、承認の一部である各ドキュメントについて、各レビュアーチームのメンバーによってレビュアーチームに代わって送信された検証指示の検証量を確認できます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/01-intro.png)
+
+## 1. **選択項目アクション**
+
+ドキュメントタブの選択項目アクションは次のようになります：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/02-selected-item-actions.png)
+
+テーブルはこの特定の承認内のドキュメントのステータスを示します。最後の列には、_送信_またはレビュー_ボタン_があります。承認内のドキュメントのステータスに応じて異なります。
+
+## 2. **右メニュー**
+
+右メニューは、ドキュメントタブの右側の情報アイコンをクリックすることで開くことができます。承認ステップで複数のレビュアーチームの一部であるメンバーは、各ドキュメントをレビューのために開く必要なく、このメニューで各チームに代わって複数のドキュメントの検証指示を簡単に送信できます。情報アイコンは次のようになります：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/03-right-menu.png)
+
+[ここをクリック](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu)して、ドキュメントタブの右メニューの詳細を読んでください。
+
+> **注：** ドキュメントを1つ選択（タイトルをクリック）するか、複数のドキュメントを選択して、ドキュメントタブから直接レビューを開始します。
+
+## 3. **ドキュメント承認テーブル**
+
+### 3.1 **列**
+
+- **名前:** ドキュメントの名前とアイコン付きのドキュメントのタイプを表示します。
+  タイトルをクリックすると、承認環境でドキュメントを直接表示できます。
+- **リビジョン:** ドキュメントのリビジョン名を表示します
+- **#:** 承認内のドキュメントからのバージョン/リビジョンを表示します。
+  - ドキュメントが承認に追加されると、そのメジャーおよびマイナーリビジョン番号が表示され、次のようになります。
+
+      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
+
+- 選択された共有リビジョンが公開されて現在の承認依頼外のドキュメント内で最新の公開リビジョンになった場合、次のようになります。
+
+      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
+
+- **ステップ 'x':** バーでステップのステータスを表示します。
+- **最終承認:** この列は、最終承認を表示し、アクティブにするとアイコンが色付けされます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/04-columns.png)
+
+### 3.2 最終承認
+
+最終承認がまだ与えられていない場合、この列は「今後」と表示されます。最終承認チームのメンバーがドキュメントの承認指示を送信した後、ドキュメントの最終結果が承認済みまたは却下として表示されます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/05-final-approval.png)
 
 # 承認操作およびアクション マトリックス
 
@@ -18321,7 +19159,6 @@ Excelファイルから複数のラベルを一度に作成したい場合は、
 - **この機能がオフの場合** (本ヘルプセンターの他の場所で説明されている現在の唯一の動作)、レビュアーチームのいずれかのメンバーがチーム全体に代わって検証表示を提出できます。そしてステップはすぐに進行できます。
 
 - **この機能がオンの場合、** チームのステップは、個々のすべてのメンバーが独自の表示を提供するまで完了しません。概要タブ、ファイルレビュー右メニュー、およびドキュメントタブ右メニュー記事を参照して、レビュー中にこれがどのように表示されるかを確認してください。
-  ​
 
 ### 4.6 **レビューステップの削除**
 
@@ -18933,6 +19770,68 @@ Catenda Hub の全機能は常にブラウザを通じて利用できます。Ca
 
 建物を保存するには、ページの下部にある構成を保存をクリックしてください。
 
+# 高度な命名規則
+
+この記事は、以下の記事に基づいています：[最も単純な命名規則](https://support.catenda.com/en/articles/7845360-simplest-naming-convention)および[中程度の命名規則](https://support.catenda.com/en/articles/7936943-medium-naming-convention)これらの記事を読まなくても、この記事は理解できますが、この記事に記載されていない[規則](https://support.catenda.com/en/articles/7832559-naming-conventions-page)に関する情報が含まれている可能性があるため、確認することをお勧めします。この記事では、[規則](https://support.catenda.com/en/articles/7832559-naming-conventions-page)を使用するすべての方法について学習します。
+
+## 1. **YYMMDD\_ファイル名\_V.pdf**
+
+この[規則](https://support.catenda.com/en/articles/7832559-naming-conventions-page)を設定することで、[命名規則](https://support.catenda.com/en/articles/7832559-naming-conventions-page)について知っておく必要があるすべてを学習し、自分の[規則](https://support.catenda.com/en/articles/7832559-naming-conventions-page)に使用する[ブロック](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541)を選択できます。3D modelおよび建設図面をローカルで整理しているとします。
+
+- ファイル名にダッシュ_( - )_があるため、異なる[ブロック](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541)を区切るには、アンダースコア_( \_ )_を[セパレータ](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=in%20document%20settings-,Separator,-%3A%20The%20character)として使用する必要があります。
+- これらのファイルは、ファイルが作成された日付で始まります。
+
+ファイルが通常、異なる場所に配置されていても、作成日付でアルファベット順に整理されているため、これはファイルにとってより視覚的に有用です。
+
+- その後、任意の長さのファイル名があります。
+- ファイル名の最後に、ファイルのバージョンを示すステータスが表示されます。
+
+この部分は、ローカルでファイルを区別するために使用するテキストであり、Catenda Hubドキュメント名に表示したくない部分です。ローカルでのみ有用であり、プロジェクトの他の人とは関係ありません。
+
+- 最後に、このフォルダーに特定のファイルタイプのみを保存することを決定しました。
+
+ファイルタイプをIFC、PDF、DWG、SMC、PLおよびRVTに制限します
+
+### 1.1 **初期設定**
+
+この記事で使用されるドキュメントの以下のファイル名があります。これらを事前に準備することも、記事のその部分に到達したときに作成することもできます：
+
+_ローカルファイル：_ 230219\_Elevation\_Draft.PDF 230219\_Elevation\_Final.PDF aaaaaa\_\_Elevation\_Draft.PDF 230219\_Elevation\_Draft.pdf
+
+_ファイルステータスの第[ブロック](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541)_ファイルの日付は、[中程度の命名規則](https://support.catenda.com/en/articles/7936943-medium-naming-convention)記事の例のコードに少し似ています。ドキュメント名を含む[ブロック](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541)も、その記事のファイル名[ブロック](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541)と同じである必要があります。上記の例とは異なる追加する必要がある唯一の[ブロック](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541)は、ファイル名のステータス部分の[ブロック](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541)です。
+
+**規則の設定**この例では、以下の画像に示されている[命名規則](https://support.catenda.com/en/articles/7832559-naming-conventions-page)を出発点として使用します。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/01-initial-setup.png)
+
+### 1.2 **規則のカスタムフィールド**
+
+[規則](https://support.catenda.com/en/articles/7832559-naming-conventions-page)で役立つカスタムフィールドは、[整数](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22)、[テキスト](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22)、[ドロップダウン](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field)の異なるタイプがあります。[カスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup)は、[規則ブロック](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541)のソースとして使用できます。
+
+**[規則の整数カスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22)**上記の画像では、最初の[ブロック](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541)のソースはテキストに設定されています。最初のファイル230219\_Elevation\_Draft.PDFをアップロードしようとすると、問題なくアップロードされます。ただし、数字の代わりに6文字のアルファベットをアップロードすることもできます（aaaaaa\_\_Elevation\_Draft.PDFなど）でも問題ありません。これを数字のみに制限するには、NC\_Dateという名前の新しい[整数カスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22)を作成します。これは、[カスタムフィールドリスト](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=the%20list%20of%20custom%20fields)で整理するために、そのように命名されています。次に、この[カスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup)を最初の[ブロック](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541)の[ソース](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=has%20an%20extension.-,Source,-%3A%20What%20will)として設定します。現在テキストと表示されているドロップダウンリストをクリックし、作成した[カスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup)を選択します。aaaaaa\_\_Elevation\_Draft.PDFが受け入れられなくなり、230219\_Elevation\_Draft.PDFは受け入れられるようになったことに気付きます。
+
+**[規則のテキストカスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22)**番目の[ブロック](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541)の場合、ここではすべてのテキストが受け入れられるため、ソースをテキストのままにすることができます。将来の互換性のためにNC\_Filenameという名前のテキストカスタムフィールドを使用することをお勧めします。
+
+ステータスも任意の長さのどんな単語でも可能なので、NC\_Statusという名前の[テキストカスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22)を作成し、番目の[ブロック](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541)の[ソース](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=has%20an%20extension.-,Source,-%3A%20What%20will)として設定します。
+
+これらのブロックについては、アップロードプロセスに違いは見られません。異なる場所の[プレビュー](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_c2f7e24fbc)が[カスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup)の名前を反映するようになったことを確認できます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/02-custom-fields-in-conventions.png)
+
+**[規則のドロップダウンカスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field)**
+
+**コードと同じ名前**[拡張](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=The%20name%20of%20the%20file/document%20extension)を含む最後の[ブロック](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541)の場合、特定のフレーズセットのみが受け入れられます。これを行うには、NC\_Extensionという名前の[ドロップダウンカスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field)を作成します。この[カスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup)で、[ドロップダウンオプション](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=add%20multiple%20options)をIFC、PDF、DWG、SMC、PLおよびRVTに設定します。名前とコードを同じにします。コードを指定する必要があるため、1つずつ追加する必要があることに注意してください。ここで230219\_Elevation\_Draft.pdfをアップロードしてみると、受け入れられないことがわかります。このカスタムフレーズは大文字と小文字が区別されます。小文字の拡張子も受け入れたい場合は、それらを[ドロップダウンカスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field)にも追加する必要があります。
+
+**異なる名前とコード** [ドロップダウンカスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field)でできることのもう一つの良い例は、異なる名前とコードを持つことです。機械、構造、および電気エンジニアからのそれぞれの[ブロック](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541)を持つ図面があるとします。Catenda Hubでは、これらのドキュメントをすべて単に「Engineering」と呼びたいと考えています。[ドロップダウンカスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field)で[複数のオプション](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=add%20multiple%20options)を作成して、名前がEngineeringで、ファイル名に表示されるエンジニアリングのタイプのコードを持つようにすることができます。ファイルをアップロードすると、ファイル名に機械的、構造的、または電気的なものが含まれていても、ドキュメント名は常にEngineeringと表示されることに気付きます。
+
+### 1.3 **ドキュメント識別子**
+
+[この記事の冒頭](http://You%20do%20not%20want%20to%20see%20this%20part%20of%20the%20file%20name)で、ファイル名のステータス部分がCatenda Hubドキュメント名として表示されないことが重要であることが述べられていました。それが[ドキュメント識別子](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=block%20to%20do-,Document%20identifier,-%3A)が行うことです。このオプションをオフにすると、ファイル名のこの部分はCatenda Hubでドキュメント名を作成するために使用されなくなります。230219\_Elevation\_Draft.PDFをアップロードしてから230219\_Elevation\_Final.PDFをアップロードしてみてください。ファイル名は異なりますが、ドキュメント名は同じになることに注意してください。これは、ドキュメント名が同じ場合、[命名規則](https://support.catenda.com/en/articles/7832559-naming-conventions-page)が自動的に番目のファイルが最初のファイルのリビジョンであることを認識するため、便利です。
+
+最後に、[カスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-setup)および[ドキュメント識別子](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=block%20to%20do-,Document%20identifier,-%3A)を備えた[命名規則](https://support.catenda.com/en/articles/7832559-naming-conventions-page)は次のようになります：
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/03-document-identifier.png)
+
 # guidde プレイリストとのやり取り
 
 ガイド プレイリストは次のようになります:
@@ -18953,7 +19852,7 @@ Catenda Hub の全機能は常にブラウザを通じて利用できます。Ca
 - Gif
 - ドキュメント PDF
 - スライド PDF
-- PPTX​
+- PPTX
 
 ## 3. ガイドの共有
 
@@ -18981,7 +19880,7 @@ Catenda Hub の全機能は常にブラウザを通じて利用できます。Ca
 
 ### 1.2 **オンボーディングおよびサポート - [プレイリスト](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7?track_link_name=Intercom&track_link_id=vrc3txAqpnzG21ahEDofSs&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 
-シェアリンク - ​[https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7)
+シェアリンク - [https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7)
 
 - [Catenda Hubに接続](https://eu.guidde.com/share/playbooks/sAJ9zHv65kinzKseJPmNQm?track_link_name=Changelog&track_link_id=nQAaRkkuJwtN2my3y8ZNSK&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [アカウント設定と通知](https://eu.guidde.com/share/playbooks/6cAvR5y6ugZsAShAwPLL6f?track_link_name=Guidde%20videos%20article&track_link_id=7Hvd2JT6GLw4efuaAPGkX3&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
@@ -19006,7 +19905,7 @@ Catenda Hub の全機能は常にブラウザを通じて利用できます。Ca
 
 ### 1.5 **コンテンツ管理 - [プレイリスト](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7?track_link_name=Intercom&track_link_id=khM8GzpkYf6nta8Y46UGED&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 
-シェアリンク - ​[https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7)
+シェアリンク - [https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7)
 
 - [フォルダとサブフォルダを追加](https://eu.guidde.com/share/playbooks/o7pDsqiQCKPyTGBLifxKgE?track_link_name=Guidde%20videos%20article&track_link_id=aLvZdST9FaxbeYtZShRcoc&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [コレクションを作成して共有](https://eu.guidde.com/share/playbooks/rcTnM584AAZPy6APbGyQS9?track_link_name=Guidde%20videos%20article&track_link_id=vruZ7x8jeTfCrHT6bS911i&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
@@ -20453,7 +21352,7 @@ Clashグループ化はバッチtopic作成を可能にし、フィルタリン�
 
 # 高層建築プロジェクトにおける設計レビューと変更注文
 
-> 業界：商業建設　ペルソナ：大規模事務所のプロジェクト・アーキテクト、マリア。
+> 業界：商業建設 ペルソナ：大規模事務所のプロジェクト・アーキテクト、マリア。
 
 ### **シナリオ:**
 
@@ -20928,6 +21827,382 @@ Catendaではすべてのアカウントがメールアドレスに接続され�
 
 入札プロジェクトは多くの場合プライベートであり、情報が他の当事者と共有されないことが重要です。ダウンロード以外にエクスポートする方法がないことを確認する方法の1つは、プロジェクトの公開共有機能を無効にするよう要求することです。このオプションが無効になると、ドキュメントコレクションやブックマークで共有可能なリンクを作成できなくなり、機密情報がダウンロード以外の方法でプロジェクトから流出することがなくなります。このオプションの詳細については、[ここ](https://support.catenda.com/en/articles/8224886-organization-options#h_1027778040)をご覧ください。
 
+# Catendaのテーブル
+
+複数の要素が表示されるページでは、情報はテーブルで表示されることが多くあります。異なるテーブル間で同様のテーブル操作方法が本記事で説明されています。以下の例では、メンバーページのテーブルが、Catendaのテーブルがどのように見えるかの例として表示されています。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/01-intro.png)
+
+本記事では以下のトピックが説明されています。
+
+## 1. デフォルト動作
+
+以下のテーブルではすべての情報がデフォルトで表示されます
+
+- 検査パネル
+  - [数量計算（QTO）](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
+  - [配置](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
+  - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
+  - 命名規則
+- ライブラリ
+  - [リンクライブラリ](https://support.catenda.com/en/articles/4670254-links-library)
+  - [SharePointライブラリ](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+  - [Dropboxライブラリ](https://support.catenda.com/en/articles/8065645-libraries-page)
+  - [プロパティ値ライブラリ](https://support.catenda.com/en/articles/4670252-property-value-library)
+  - [分類ライブラリ](https://support.catenda.com/en/articles/4670255-classification-library)
+- 組織ツール
+  - [ユーザーページ](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+  - [プロジェクトページ](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+  - [プロジェクトメンバーシップページ](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+
+以下のテーブルでは、ページが読み込まれるときにデフォルト構成が表示されます。
+
+- モデル
+  - [オブジェクトページ](https://support.catenda.com/en/articles/12352750-objects-page)
+
+以下のテーブルでは、ページが読み込まれるときにデフォルトテーブル構成に加えられた変更が表示されます。
+
+- [トピック](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page)（テーブルビュー）
+- [モデル](https://support.catenda.com/en/articles/4670286-models-page)（基本ビュー、公開タブ、ワークスペースタブ）
+- [ドキュメント](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)（基本ビュー、公開タブ、ワークスペースタブ）
+  - [ドキュメントアクセスの概要](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+- [レポート](https://support.catenda.com/en/articles/12303098-reports-page)（基本ビュー、公開タブ、ワークスペースタブ）
+- [ラベル](https://support.catenda.com/en/articles/4670265-labels-page)（ラベルタブ、グループタブ）
+- [カスタムフィールド](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+- [メンバーページ](https://support.catenda.com/en/articles/11926821-members-page)（メンバータブ、チームタブ）
+
+テーブル構成への変更は、変更を加えた個人にのみ適用され、プロジェクト内のすべてのメンバーには適用されません。テーブルに変更が加えられると、その変更はすべてのプロジェクト内でそのテーブルの外観に影響を与えます。
+
+以下のテーブルはテーブルのために構成できる設定について説明しています。
+
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="padding: 8px;"><h1 id="h_aa1a623a85">環境設定</h1></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1eedf14b1">内容</h2></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_691544b252">場所</h2></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fa7d3a8228">列のプレビュー</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>各テーブルに対して、デフォルトで有効になっている一定数の列があります。</p><p>多くの列を持つテーブルは、デフォルトでオフになっている列を含めることができます。</p><p>デフォルトでオフになっている列は、列ドロップダウンを使用して有効にして表示する必要があります。</p><div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;"><p><b>注:</b>カスタムフィールド列などのカスタム列は、ページが読み込まれるときに常に非表示になります。</p></div></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>列ドロップダウン</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_ea66b1d6d8">ソート列とソート方向</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>テーブルは一度に1つの列でソートできます。ソート可能な列のヘッダー行をクリックして、テーブルがソートされる列とソートの方向を構成します。</p><p>列でソートした後、テーブルの行は<a class="intercom-content-link" href="https://support.catenda.com/en/articles/8487788-sorting-order-of-lists">Catendaの周りの一般的なソートルール</a>に従って並び替えられます。</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ヘッダー行</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_321a81f32f">列の順序</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>列はデフォルトで設定された順序を持っています。</p><p>列を並び替えると、構成された列の順序が変更されます。</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>列ドロップダウンとヘッダー行</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_feb5f7b2ab">列の幅</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>デフォルトの列幅は、列内容の重要な部分を表示するように調整されます。</p><p>デフォルトでは、列は列の全体的な内容を表示しない場合があります。</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>ヘッダー行</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7a5beb9bd0">行の高さ</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>行の高さは、テーブルの左上方向の行の高さボタンで変更できます。</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>テーブル表示設定</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1fe2adb04">右側メニューポップオーバー</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>行を選択してページ上の右メニューを開くと、閉じるまで行を選択するたびに右メニューが再度開きます。</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>右側メニューボタン</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f502376bea">シングルパネルまたはマルチパネル</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>各テーブルには2つの構成があります。</p><p>1つはテーブルが開いている唯一のパネルにある場合、もう1つは複数のパネルが開いている場合です。</p><p><br/>​</p><p></p><p><i>シングルパネル構成</i></p><p>テーブルがコンテンツパネル内にあり、コンテンツパネルが開いている唯一のパネルである場合、シングルパネル構成が表示されます。</p><p><br/>​</p><p></p><p><i>マルチパネル構成</i></p><p>テーブルがコンテンツパネル内にあり、3Dパネルまたは情報パネルなどの別のパネルが同時に開いている場合、マルチパネル構成が表示されます。</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>パネルボタン</p></td></tr></tbody></table></div>
+
+## 2. 選択の概要
+
+テーブルの左上にチェックボックスが表示されます。チェックボックスの右には、現在選択されている行の数とテーブルの現在のレベルの行の総数の概要が表示されます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/02-selection-overview.png)
+
+### 2.1 すべてを選択
+
+一部のテーブルでは、行が多い場合、すべての行を一度に選択できます。他のテーブルでは、現在読み込まれている行のみを選択できます。チェックボックスをクリックして、テーブルのすべての行を選択します。右メニューが以前に開かれていた場合、行を選択するたびに再度開きます。
+
+### 2.2 スクロールによる行の読み込み
+
+一部のテーブルでは、現在読み込まれている行のみが選択されます。通常、100行が一度に読み込まれます。100行を過ぎてスクロールすると、より多くの行が読み込まれるため、より多くの行を一度に選択できます。
+
+### 2.3 選択項目アクション
+
+テーブル内の行を選択または開いた後、選択された項目アクションメニューが選択の概要に表示される場合があります。これがドキュメントテーブルの選択された項目アクションメニューの見た目です。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/03-selected-item-actions.png)
+
+選択された項目アクションメニューは、行の内容と選択ユーザーのアクセス権に応じて異なるアクションを含むことができます。各テーブルで可能なアクションはここで見つけることができます。
+
+- [トピックボード選択項目アクション](https://support.catenda.com/en/articles/4670284-topic-board-actions#h_b5c00c149b)
+- [モデルページ選択項目アクション](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed)
+- [ドキュメントページ選択項目アクション](https://support.catenda.com/en/articles/4670288-document-structure-actions#h_fb4e9ef375)
+
+### 2.4 すべての選択を解除
+
+行を選択した後、選択の概要チェックボックスはマイナス記号が付いて有効になります。これがドキュメントテーブルでどのように見えるかの例を示します。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/04-deselecting-all.png)
+
+マイナス記号をクリックして、選択したすべての行の選択を解除します。
+
+## 3. テーブル表示設定
+
+テーブルの右上に向かって、テーブル表示設定が見つかります。テーブル表示設定の見た目は次のようです。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/05-table-visibility-settings.png)
+
+### 3.1 エクスポート
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/06-export.png)
+
+テーブルはエクスポートボタンをクリックすることでエクスポートできます。
+
+### 3.2 ビュー
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/07-view.png)
+
+_リストビュー -_ デフォルト
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/08-view.png)
+
+リストビューでは、要素に関する情報は、より大きなボックスの上/下/左/右に配置されます。
+
+**テーブルビュー**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/09-view.png)
+
+テーブルビューでは、要素に関する情報が行と列に配置されます。
+
+### 3.3 行の高さ
+
+行の高さボタンは、テーブル内の各行の高さを変更します。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/10-row-height.png)
+
+**デフォルトビュー**ほとんどの画面で機能する行の高さが表示されます。
+
+**コンパクトビュー**行内の要素の上下の空白が削除され、行の高さが低くなります。
+
+小さい画面または解像度が低い画面の場合、デフォルトの行の高さではわずかな行数しか表示できません。この状況では、コンパクトビューが最適な選択です。
+
+### 3.4 列ドロップダウン
+
+テーブルの右上に、列ドロップダウンが表示されます。列ドロップダウンボタンの見た目は次のようです。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/11-column-dropdown.png)
+
+列ドロップダウンで、テーブル内の列を並び替え、有効化、無効化できます。列ドロップダウンの見た目は次のようです。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/12-column-dropdown.png)
+
+列ドロップダウンの上部に、すべての列に影響するオプションが表示される場合があります。列ドロップダウンのすべての上部の見た目の例を示します。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/13-column-dropdown.png)
+
+**トグル表示**トグルが有効になっている場合、すべての列が表示されます。トグルが中間にある場合、いくつかの列が表示されます。トグルが無効になっている場合、列は表示されません。トグルが薄い色合いの場合、すべてまたは何も有効または無効になっている場合にのみ有効または無効にできます。
+
+**フィルター**フィルターバーに入力して、特定の列をフィルターします。
+
+**設定をリセット**設定をリセットボタンをクリックして、列をデフォルト構成にリセットします。
+
+**列タイプを展開/折りたたむ**矢印ボタンで列タイプを展開または折りたたんで、そのタイプのすべての列を表示または非表示にします。
+
+**ドラッグアンカー**並び替え可能な列は、列名の右側にグリッドアイコンを表示できます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/14-column-dropdown.png)
+
+ドラッグアンカーにカーソルを合わせると、カーソルが手に変わります。グリッドをつかんだ後、ドラッグアンカーがカーソルの下に表示され、保持されている列は薄い色で表示されます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/15-column-dropdown.png)
+
+ドラッグアンカーが別の列にドラッグされると、保持されている列はドラッグ先の列の後に表示されます。ドラッグアンカーをリリースまたはクリックして、保持されている列を所定の位置にロックし、列リストを並び替えます。
+
+### 3.5 テーブル設定
+
+テーブル設定ボタンをクリックして、テーブル設定を有効または無効にします。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/16-table-settings.png)
+
+## 4. 行
+
+テーブル内の要素は、異なる動作をする行に表示されます。
+
+## 5. 行 - ヘッダー行
+
+ヘッダー行はテーブルの最初の行です。
+
+### 5.1 ヘッダー行の相互作用
+
+ヘッダー行のさまざまな部分にマウスを置くと、どのように相互作用できるかが示されます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/17-header-row-interaction.png)
+
+### 5.2 ソート
+
+列をソートできる場合、列名の右側に上下矢印が表示されます。
+
+**カーソルの変更**カーソルはポインター表示になります。
+
+**ソート矢印**ソート矢印は、現在ソートされている列を示すことができます。ソート矢印は、行がソートされている方向を示すことができます。
+
+**クリックしてソート**ソート可能な列のヘッダー セルをクリックして、そのヘッダー セルが含まれる列に従ってテーブル行をソートします。列でソートした後、テーブル内の行は [Catenda 周辺の典型的なソート ルール](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) に従って並べ替えられます。ソートされた列のヘッダー セルを再度クリックして、逆の方向でソートします。列をソートすると、テーブルのソート優先設定が更新されます。
+
+> **注:** テーブルは一度に 1 つの列でのみソートできます
+
+### 5.3 幅調整
+
+幅調整アンカーは、ヘッダー行の高さの約半分の太い線のように見えます。
+
+**カーソルの変更**調整アンカーにマウスを置くと、カーソルが左右矢印（リサイズ ポインター）に変わります。
+
+**ドラッグして調整**ヘッダー行の幅調整アンカーをドラッグして、列の幅を変更します。
+
+**ダブルクリックして自動調整**調整アンカーをダブルクリックして、列内の内容に基づいてアンカーの左の列を自動調整します。列の内容が長すぎてカットオフされているが、必要な情報が内容の最後にある場合、列のサイズを変更すると便利です。
+
+### 5.4 列の順序調整
+
+列のヘッダー セルをドラッグして列の順序を並べ替えます。列のヘッダー セルをテーブルの外にドラッグして、その列を非表示にします。列を戻すには、列ドロップダウンで再度有効にする必要があります。
+
+## 6. 行 - 行情報の更新
+
+行の情報が現在のブラウザー タブ外で更新されると、テーブルの下部に情報バーが表示されます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/18-rows-updated-row-information.png)
+
+「更新をフェッチ」をクリックして、テーブルの行を新しい情報で更新します。「更新をフェッチ」をクリックすると、新しい行がスライドインし、削除された行がスライドアウトします。変更された既存情報のセルは緑色の背景でフラッシュします。
+
+## 7. 行 - 下行
+
+数値を含む列はテーブルの下行で合計できます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/19-rows-bottom-row.png)
+
+合計できる列の例には、カスタム フィールド列とオブジェクト プロパティ列があります。
+
+## 8. ドラッグで移動
+
+列または行の位置を変更するには、ドラッグ アンカーを新しい位置でリリースします。
+
+### 8.1 ドラッグで列の構成を変更
+
+列のヘッダー セルをクリックしてドラッグし、列の構成の変更を開始します。列をつかむと、ドラッグ アンカーがカーソルの下に表示されます。ドラッグ アンカーには列の名前と、アンカーがリリースされたときに列が有効または無効になるかどうかを示す目のアイコンが含まれることがあります。
+
+**ドラッグ アンカーで列を並べ替え**ドラッグ アンカーが列の境界またはテーブルの外にドラッグされると、ドラッグされている列は現在の位置から削除されます。ドラッグ アンカーをテーブル内の別の位置にマウスオーバーすると、列がそこでプレビューされます。ドラッグ アンカーを目的の位置にリリースして、保持されている列をその位置に挿入します。
+
+**ドラッグ アンカーで列を削除**ドラッグ アンカーがテーブルの外にドラッグされると、可視性アイコンが斜線を引いた目に変わり、テーブルで列が無効になります。リリースするか、クリックして保持されている列を無効にします。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/20-change-column-configuration-by-dragging.png)
+
+### 8.2 ドラッグで行を移動
+
+タイトル列（名前とも呼ばれます）の行セルにマウスを置くと、タイトルの右側にドット グリッドが表示されることがあります。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/21-move-rows-by-dragging.png)
+
+グリッドの上にマウスを置くと、カーソルが手に変わり、行をつかめることが示されます。グリッドをつかむと、ドラッグ アンカーがカーソルの下に表示されます。ドラッグ アンカーには、行がつかまれたときに選択されていた行のタイトルが含まれることがあります。
+
+**ドラッグ アンカーで行を移動**行がテーブル内にドラッグされている間、行は強調表示され、テーブルで何かが発生できることを示す淡い色になります。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/22-move-rows-by-dragging.png)
+
+対話型の行は、ドラッグ アンカーを対話型の行にドラッグするときに異なる背景で強調表示されます。
+
+### 8.3 ドラッグ アンカーをリリース
+
+ドラッグ アンカーが対話型の行の上でリリースされると、移動ダイアログが開く場合があります。1 つの行のグリッド アイコンのみがドラッグされていても、テーブルで選択されている行に対して移動アクションが使用されたかのようになります。ドラッグ アンカーが非対話型の行またはテーブルの外にドラッグされてリリースされた場合、テーブルで変更は発生しません。
+
+### 8.4 テーブルの可用性
+
+次のテーブルで列を移動できます。
+
+- モデル
+  - [オブジェクト ページ](https://support.catenda.com/en/articles/12352750-objects-page)
+- 組織ツール
+  - [プロジェクト ページ](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+  - [プロジェクト メンバーシップ ページ](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+
+- [トピック](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (テーブル ビュー)
+- [モデル](https://support.catenda.com/en/articles/4670286-models-page) (基本ビュー、公開済みタブ、ワークスペース タブ)
+- [ドキュメント](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (基本ビュー、公開済みタブ、ワークスペース タブ)
+  - [ドキュメント アクセス概要](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+- [レポート](https://support.catenda.com/en/articles/12303098-reports-page) (基本ビュー、公開済みタブ、ワークスペース タブ)
+- [ラベル](https://support.catenda.com/en/articles/4670265-labels-page) (ラベル タブ、グループ タブ)
+- [カスタム フィールド](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+- [メンバー ページ](https://support.catenda.com/en/articles/11926821-members-page) (メンバー タブ、チーム タブ)
+
+## 9. マウスオーバーで行と相互作用
+
+テーブルのさまざまな部分にマウスを置くと、どのように相互作用できるかが示されます。マウスオーバーされていない行は白い背景を持つことがあります。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/23-interacting-with-rows-by-hovering.png)
+
+### 9.1 行のマウスオーバー
+
+行の任意の場所にマウスを置くと、その行が異なる背景で強調表示されます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/24-row-hover.png)
+
+### 9.2 ボックスのマウスオーバー
+
+行内のクリック可能なボックスにマウスを置くと、カーソルがポインターに変わり、ボックスが濃いアウトラインとシャドウを取得できます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/25-box-hover.png)
+
+### 9.3 テキストのマウスオーバー
+
+行内のクリック可能なテキストにマウスを置くと、カーソルがポインターに変わります。マウスオーバーされたテキストに下線が引かれ、一部のブラウザーでは開くページの URL が左下に表示されます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/26-text-hover.png)
+
+## 10. クリックで行と相互作用
+
+行の内容をクリックするとさまざまな動作が発生する可能性があります。
+
+### 10.1 行を選択
+
+右メニューが以前に開いていた場合、行が選択されたときに再び開きます。
+
+**空白**行内の空白領域をクリックして選択します。右メニューが以前に開いていた場合、行が選択されたときに再び開きます。すばやく 2 回クリックして行の内容を開きます。少し時間が経ってから再度行をクリックして選択を解除します。
+
+**チェックボックス**チェックボックス列のチェックボックスを選択して行を選択します。チェックボックスを使用すると、行の内容を誤って開く心配なく行を選択できます。
+
+**行範囲選択** `shift` を押しながらクリックして、現在の行と最も近い選択された行の間のすべての行を選択します。
+
+**行選択の編集** `control` を押しながらクリックして、選択範囲内の単一の要素を編集します
+
+### 10.2 行の内容を開く
+
+プレビューできる内容を含む行のテキストをクリックして、新しいページで行の内容のプレビューを開きます。
+
+**行アイコンを開く**プレビューできる内容を含む行のアイコンをクリックして、新しいページまたはポップアップ ダイアログで行の内容のプレビューを開くことができます。プレビューできる内容がない行のアイコンをクリックすると、代わりに行が選択されます。
+
+### 10.3 行のボックス
+
+行には複数の種類のボックスが存在する可能性があります。各ボックスは独自のアイコンまたは色を持つことができます。
+
+**ラベル ボックス**ラベル ボックスには、そのラベルの色のラベル アイコンがあります。ラベル ボックスをクリックすると、現在のフィルターに追加できます。ラベル ボックスは次のようになります。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/27-boxes-in-rows.png)
+
+**ステータスまたはタイプ ボックス**ステータスおよびタイプ ボックスには、ステータスまたはタイプの色の円があります。ステータス ボックスをクリックすると、現在のフィルターに追加できます。ステータスまたはタイプ ボックスは次のようになります。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/28-boxes-in-rows.png)
+
+**チーム ボックス**チーム ボックスはメンバー チーム用に緑色、管理者チーム用にオレンジ色でカラーリングされています。チーム ボックスは次のようになります。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/29-boxes-in-rows.png)
+
+**その他を表示ボックス**行セルの列幅に収まる以上のボックスがある場合、3 つのドットが付いたボックスが表示されます。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/30-boxes-in-rows.png)
+
+このボックスをクリックして、この列の行セル内の残りのボックスを表示します。
+
+**ビューア ボックス** 2D、3D、およびズーム エクステント ボックスを表示できます。2D ボックスをクリックして、2D ビューアーで行の内容を読み込みます。3D ボックスをクリックして、3D ビューアーで行の内容を読み込みます。3D ビューアーで行の内容を読み込んだ後、ズーム エクステント ボタンが利用可能になり、クリックして 3D ビューアーのカメラを配置し、行全体の内容が表示されるようにすることができます。ビューア ボックスは次のようになります。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/31-boxes-in-rows.png)
+
+**オブジェクト ボックス**行にリンクされているオブジェクトの量が表示されます。オブジェクト ボックスは次のようになります。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/32-boxes-in-rows.png)
+
+オブジェクト ボックスをクリックすると、次のコンテキスト メニューが開く場合があります。
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/33-boxes-in-rows.png)
+
+オブジェクトを選択 3D パネルが開き、オブジェクトが属するモデルが、以前に開かれていたモデルに加えて 3D ビューアーに読み込まれます。モデルが読み込まれた後、現在の選択がクリアされます。行にリンクされているオブジェクトが選択されます。
+
+オブジェクトを分離 3D パネルが開き、オブジェクトが属するモデルが、以前に開かれていたモデルに加えて 3D ビューアーに読み込まれます。モデルが読み込まれた後、現在の選択がクリアされます。行にリンクされているオブジェクトが分離されます。
+
+クエリとして読み込み 3D パネルが開きます。以前に 3D で読み込まれていたモデルはすべて 3D ビューアーから完全にクリア（非表示ではない）されます。行にリンクされているオブジェクトのみ（複数のモデルに属する可能性があります）が 3D ビューアーに読み込まれます。
+
+### 10.4 行の内容をコピー
+
+2 次行の内容をクリップボードにコピーできます
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/34-copy-row-content.png)
+
+|
+v
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/35-copy-row-content.png)
+
+## 11. スクロール バー
+
+### 11.1 垂直スクロール バー
+
+垂直スクロール バーをドラッグしてトピック ボードを垂直にスクロールします
+
+### 11.2 水平スクロール バー
+
+水平スクロール バーをドラッグしてトピック ボードを水平にスクロールします
+
 # Catendaのモデルとは何ですか？
 
 Modelsは、IFCファイルおよびそれらのrevisionがアップロードされる場所です。Modelsは通常、建築、構造、HVACなどの職種/ドメインに分割されます。ただし、ここではあなたに最適なmodelを自由に作成することもできます。
@@ -21057,10 +22332,10 @@ Catenda内のすべてのモデルはドキュメントセクション内のド�
 
 - **ユーザーごとのアクセスビュー**
   トピックボードまたは選定されたトピックの右情報メニューから個別ユーザーアクセスレベルを直接表示します。
-  ​_必須アクセス:_ トピックボードへの読み取りアクセス
+  _必須アクセス:_ トピックボードへの読み取りアクセス
 - **フルチーム設定**
   トピックボードアクセス設定内のチームレベルアクセス許可設定全体のスクリーンショットをキャプチャします。
-  ​_必須アクセス:_ トピックボードまたはプロジェクト管理者への完全アクセス
+  _必須アクセス:_ トピックボードまたはプロジェクト管理者への完全アクセス
 
 **ドキュメント&Model アクセス** [アクセス概要](https://support.catenda.com/en/articles/6660820-document-access-overview-page)をエクスポートして、メンバーおよびチームのアクセス許可を記録します。必須アクセス: プロジェクト管理者。Catenda内のすべてのmodelはドキュメントセクション内のドキュメントにリンクされているため、modelのアクセス許可は基盤となるドキュメントアクセス許可により管理され、同じドキュメントアクセス概要またはアクセス許可メニューを使用して記録されます。
 
@@ -21072,7 +22347,7 @@ Catenda内のすべてのモデルはドキュメントセクション内のド�
   プロジェクトメンバーは、アクセス制御下の各メニューを展開して、各アクションを実行するアクセス許可を持つ個別ユーザーを確認できます。
 - **フル設定**
   管理者はアクセス編集ダイアログを開いて、チームレベルアクセス許可設定を表示および管理できます。
-  ​_必須アクセス:_ プロジェクト管理者
+  _必須アクセス:_ プロジェクト管理者
 
 **ユーザープロファイル＆メンバー詳細**プロジェクトメンバーおよびチームに関する情報は、抽出または文書化するために利用可能で、以下を含みます：
 
@@ -21187,7 +22462,7 @@ Catenda Data Exportの設定および管理には、**Organization Administrator
 - `.ifc`ファイルを`.zip`ファイルに圧縮します。
 - ファイル拡張子を`.zip`から`.ifczip`に変更します
 
-> **注:** **例:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip ​`
+> **注:** **例:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip `
 
 ## 4. **サポートに連絡**
 
@@ -21277,7 +22552,7 @@ _Cookieを削除_ Cookieデータは、ごみ箱アイコンをクリックし�
 
 カスタムフィールドはまだエクスポートされたBCFに含まれていません。カスタムフィールドはBCF 4標準がリリースされるとき、その一部になります。リリース後、私たちおよび標準に準拠する他のBCFツールは、フィールドを交換に利用できるようにするために機能します。
 
-### 3.3 **​トピックExcelエクスポート**
+### 3.3 **トピックExcelエクスポート**
 
 トピックボード内のカスタムフィールドごとに列が追加されます。
 
@@ -22217,7 +23492,7 @@ Catendaプロジェクトは内部プロジェクトのままです。これは�
 
 # ラベルに接続されたグループを削除するにはどうすればよいですか？
 
-ラベルからグループを削除するには、次の手順に従います。 1\. ラベルの左側のチェックボックスを使用してラベルを選択します。 2\. 次に「グループを設定」を押します 3\. 「グループを削除」を選択します 4\. 更新します
+ラベルからグループを削除するには、次の手順に従います。1\. ラベルの左側のチェックボックスを使用してラベルを選択します。2\. 次に「グループを設定」を押します 3\. 「グループを削除」を選択します 4\. 更新します
 
 ![Snag_9714a5a.png](https://raw.githubusercontent.com/catenda/help-center/main/images/hj75jprv/01-intro.png)
 
@@ -22275,11 +23550,11 @@ Unicode文字の概要については、以下を参照してください：
 
 列のサイズを変更しているかどうかは、2つのヘッダー間の線から薄いグレーのボックスが下がっているのが見えるかどうかで判断できます。マウスを2つの列ヘッダー間の線の上に移動すると、列の幅を変更するためにドラッグできます。
 
-**カーソルの変更:** マウスカーソルがサイズ変更ポインターに変わったら、正しい場所の上に移動しています
+**カーソルの変更:**マウスカーソルがサイズ変更ポインターに変わったら、正しい場所の上に移動しています
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dysbq1me/01-intro.png)
 
-**ダブルクリック:** ドラッグスポットをダブルクリックすると、列は自動的にその内容のサイズまで拡大します。
+**ダブルクリック:**ドラッグスポットをダブルクリックすると、列は自動的にその内容のサイズまで拡大します。
 
 # 大きなIFCファイルがあります。Catenda Hubにファイルをアップロードする前にSolibri Optimizerを使用すべきでしょうか？
 
@@ -22377,7 +23652,7 @@ Unicode文字の概要については、以下を参照してください：
 
 通知システムは、建物やサイトで発生していることを追跡するのに役立ちます。新しいことがあったかどうかを知らせます。たとえば、建物の新しいリビジョンがアップロードされた場合や、誰かがあなたに問題を割り当てた場合などです。
 
-**通知設定:** 通知の設定は、通知へのサブページとして見つけることができます。ここでは、受け取りたい通知のフィルターリストが表示されます。<a class="intercom-content-link" href="" target="_blank">こちらを参照</a>
+**通知設定:**通知の設定は、通知へのサブページとして見つけることができます。ここでは、受け取りたい通知のフィルターリストが表示されます。<a class="intercom-content-link" href="" target="_blank">こちらを参照</a>
 
 # 3D計測の更新！
 
@@ -22618,7 +23893,6 @@ bimsync.comの稼働継続に取り組んでいますが、明確に伝達され
   名前にピリオドが含まれるプロパティとプロパティセットの名前は、オブジェクトページのカラムのヘッダーセルで正しく表示されるようになりました。これまではピリオドの後のすべてのみが表示されていたのです。これらの種類のプロパティ名で検索することも可能になりました。
 - **[モデルページ] 無効化後の共有リビジョンの無限スピナー**
   共有リビジョンが有効だった間に共有モデルリビジョンがアップロードされた後、共有リビジョンが無効化されたプロジェクトでは、モデルページのビューアカラムに無限スピナーが表示されなくなります。
-  ​
 
 ### 3.4 **レポート**
 
@@ -22685,7 +23959,7 @@ _[ドキュメントの構成](https://support.catenda.com/en/articles/8542598-s
 
 **モデル** [3Dビューア](https://support.catenda.com/en/articles/8227211-3d-viewer) [2Dビューア](https://support.catenda.com/en/articles/4854537-2d-viewer) [クエリ](https://support.catenda.com/en/articles/4854514-queries)
 
-**情報パネル** [情報パネル](https://support.catenda.com/en/articles/8238584-information-panel) _​_
+**情報パネル** [情報パネル](https://support.catenda.com/en/articles/8238584-information-panel)
 
 **設定** [ラベルページ](https://support.catenda.com/en/articles/4670265-labels-page) [チームを作成する](https://support.catenda.com/en/articles/4670264-creating-a-team)
 
@@ -22858,7 +24132,6 @@ AppstoreとGoogle Playでアプリを更新しました。新しい機能をご�
 1. [新しい課題をオフラインで作成](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
 1. [コメントを追加/更新/削除](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues)（画像とビューポイント付き）をオフラインで作成
 1. [新しい送信ボックス画面](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)からオフラインで行ったすべての変更を送信
-   ​
 
 ## 2. ドキュメント コレクション
 
@@ -22880,9 +24153,161 @@ AppstoreとGoogle Playでアプリを更新しました。新しい機能をご�
 
 ![All boards すべてのボード Open issues オープン課題 All closed issues すべての完了課題 Requested by me 依頼者 All candidate issues すべての候補課題 Overdue issues 期限切れ課題 Due within 2 weeks 2週間以内の期限](https://raw.githubusercontent.com/catenda/help-center/main/images/3htkwp30/04-new-languages-available.png)
 
+# Catenda チェンジログ - 2024年1月
+
+> 新しい情報と軽微な変更
+
+皆さんへ、
+
+前回のチェンジログ以来、素晴らしい数ヶ月が経ちました。皆さんが素敵な冬休みを過ごせたことを願っています！🎄🤶🧑‍🎄❄️ そして2024年へようこそ！🎇 今年も多くの変更と改善ができることを願っています！この記事では、以下の更新について記載しています：[記事](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [トピック解決](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [新しいリリース](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)
+
+## 1. **記事**
+
+新機能がロールアウトされてバグが修正されると、記事はなされた変更で更新されます。前回のチェンジログ以来に作成・変更された以下の記事をご確認ください。
+
+### 1.1 **新記事：**
+
+**はじめに・FAQ** [リストのソート順序](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) [ドキュメントの構造化](https://support.catenda.com/en/articles/8542598-structuring-documents)
+
+**メインページ** [組織ページ](https://support.catenda.com/en/articles/8281910-organizations-page)
+
+**トピック** [トピック履歴](https://support.catenda.com/en/articles/8613038-issue-history)
+
+**ドキュメント** [ドキュメント](https://support.catenda.com/en/articles/8461918-documents) [PDF比較](https://support.catenda.com/en/articles/8461650-pdf-compare) [承認ページでのフィルタリング](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+
+**モデルと3D** [ブックマーク](https://support.catenda.com/en/articles/8471481-bookmark)
+
+**プロジェクト設定** [カスタムフィールドの作成](https://support.catenda.com/en/articles/8445575-creating-a-custom-field) [カスタムフィールドページ](https://support.catenda.com/en/articles/8445588-custom-field-page)
+
+### 1.2 **変更された記事：**
+
+はじめに・FAQ [フィルターの保存](https://support.catenda.com/en/articles/8551755-saving-filters)
+
+トピック [トピックボードACL](https://support.catenda.com/en/articles/4670296-issue-boards-acl)
+
+ドキュメント [ドキュメントページ](https://support.catenda.com/en/articles/8204673-documents-page) [ドキュメントとしてのモデル](https://support.catenda.com/en/articles/8064548-models-as-documents) [ドキュメントページでのフィルタリング](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+
+モデル [ブックマークページ](https://support.catenda.com/en/articles/4670281-bookmarks-page) [新しいブックマークの作成](https://support.catenda.com/en/articles/4670269-creating-a-new-bookmark) [ドキュメントとしてのモデル](https://support.catenda.com/en/articles/8064548-models-as-documents)
+
+ライブラリ <a class="intercom-content-link" href="" target="_blank">リンクライブラリ</a>
+
+設定 [メンバーページ](https://support.catenda.com/en/articles/4670291-members-page)
+
+## 2. **バグ解決**
+
+貴重なフィードバックのおかげで、多くの存在していたことに気づいている、または気づいていないトピックを修正することができました。以下は、ユーザーとの対話の結果として開発チームが行った軽微な変更のリストです。
+
+### 2.1 **トピック**
+
+- 最大10個の必須値を持つドロップダウンカスタムフィールドもフィルタリングできるようになりました。
+- トピックのPDF出力は、特定の画像が2回表示されなくなりました。
+- カスタムフィールドが必須として設定されている場合でも、カスタムフィールドフィルターが表示されるようになりました。
+- 11月16日以降にトピックコメントに添付された画像は、プレビュー対話のトピックコメント内にある同じ順序で表示されるようになりました。
+- PDF出力の出力時刻の後にUTCと表記されるようになったため、ユーザーがタイムスタンプのタイムゾーンを確認できるようになりました。
+- 準備からドキュメントとしてのモデル移行の有効化の間のタイムフレームで削除されたモデルは、移行時に適切に削除されるようになりました。
+
+### 2.2 **ドキュメント**
+
+- ZIPインポートからインポートされたドキュメント内のリトアニア文字は、ZIPポイズニングの結果として文字化けしなくなりました。
+- テキスト吹き出しはMFA強制を行うユーザーに対して再び配置できるようになりました。
+- PDFファイルからのハイライト注釈は、アップロード後にPDFビューアで適切に表示されるようになりました。
+- PDFは注釈とコメント付きで再び保存できるようになりました。
+- MFA強制を行うユーザーに対して読み込まれていなかったドキュメントは、再び読み込まれるようになりました。
+
+### 2.3 **モデル**
+
+- モデル削除ボタンが再び表示されるようになりました。
+- ドキュメントとしてのモデルが有効になっていてもプロジェクトを移行せずにモデルを隠す方法がなくなりました。
+- モデルインポート完了メール通知は、明確にするために「\<model>でのインポート完了」と表示されるようになり、「モデルでの新しいリビジョン」から変更されました。
+- ストーリーコンフィギュレーターでPDFドキュメントを選択することのみが可能になりました。
+- PDF以外のドキュメントをストーリーコンフィギュレーターに追加することはもはや不可能です。（いずれにせよPDFのみを受け入れます）
+
+## 3. **ユーザーからの声が完了**
+
+### 3.1 **トピック**
+
+- 自分が属するチームがトピックで言及されているときに通知が届くようになりました。
+- トピックの位置で2Dで「マーカーの表示」をクリックすると、2Dビューアがマーカーだけをそのマーカーとして表示する代わりに、マーカーの位置に中央揃えされるようになりました。
+- トピックのコメント内のモデル選択対話の幅がモデル名の幅に応じてスケーリングされるようになりました。以前は長いモデル名が切り取られ、表示するためにマウスをのせる必要がありました。
+- トピック履歴で「説明が変更」ボックスをクリックすることで、説明が変更される前の状態を表示することが可能になりました。
+- 画像は古いトピックのPDF出力に2回表示されることがなくなりました。
+
+### 3.2 **ドキュメント**
+
+- ドキュメントとしてのモデルが有効になっているプロジェクトでは、ドキュメントACLがモデルセクションに反映されるようになりました。
+- コレクション内にあるドキュメントの数を確認することができるようになりました。
+- PDF図面での線の中点とエンドポイントにスナップすることが可能になりました。
+- .odtおよび.odsファイル形式をプレビューすることが可能になりました。
+
+### 3.3 **モデル**
+
+- すべてのモデル用ではなく、モデルごとにACLを設定することが可能になりました。
+
+これは、モデルセクションでユーザーからモデルを隠すことができることを意味します。
+
+- ドキュメントとしてのモデルを使用して、モデルにラベルを追加できるようになりました。
+- ドキュメントとしてのモデルを使用して、ドキュメントセクション内のフォルダーにモデルを構造化できるようになりました。
+- ドキュメントとしてのモデルを使用して、モデルのファイルサイズを表示できるようになりました。
+- ドキュメントとしてのモデルを使用して、モデルで命名規則機能を使用できるようになりました。
+- リビジョンセレクターでモデルの以前のリビジョンを再び表示することが可能になりました。
+
+### 3.4 **プロジェクト設定**
+
+- ラベルグループを削除できるようになりました。
+- トピック/ドキュメントに接続されているラベルを削除することが可能になりました。
+- ラベルグループを編集できるようになりました。
+  ラベルグループを編集ペンシルは、グループタブでラベルグループを選択した後、右の情報メニューにあります。
+- 一度に複数のラベルを作成することが可能になりました。
+  新しいラベルメニューの複数インポートボタンに注意してください。
+- 一度に複数のラベルを削除することが可能になりました。
+- ラベルをフィルタリングして、フィルターを保存できるようになりました。
+- 新しいラベルグループを追加することが可能になりました。
+- ラベルグループをラベルに最初に追加しなくても、ラベルグループを追加することが可能になりました。
+- ラベルページで検索することが可能になりました。
+- 管理者がラベルをマージできるようになりました。このオプションは、ラベルページで複数のラベルを選択することで確認できます。
+
+### 3.5 **一般**
+
+- テンプレートプロジェクトから新しいプロジェクトを作成することが改善されました。プロジェクトの以下の部分を新しいプロジェクトに持ち込むことが可能になりました：
+  - フォルダー構造
+  - ドキュメントステータス構成
+  - ドキュメントとトピックボード アクセス制御
+  - カスタムフィールドと命名規則
+
+## 4. **新しいリリース** - Catenda Site、プラグインと統合
+
+**Catenda Hub：**
+
+- ドキュメントとしてのモデルが完全にリリースされました。
+- イシューがトピックに名前変更されました。
+
+_Catenda Site：_ [App Store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play Store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+
+**新バージョン 3.3.1**
+
+- バグ修正
+
+**新バージョン 3.3.0**
+
+- _ディープリンク_ - HubウェブサイトからのURLは、Site アプリケーションでコンテンツを直接開きます。
+- _トピックフィルタリング_ - マイルストーンでフィルタリングするための新しいオプション。
+- _ユーザーメンション_ - ツールバーからトピックでメンションするためのユーザーを素早く検索して選択できます。
+- _テキストマークアップ_ - ツールバーからトピックへ簡単にリッチテキストを適用できます。
+- _2Dマーカー中央揃え_ - トピックからマーカーを開くと、ビューがマーカーの位置に中央揃えされます。
+- ベトナム語の言語サポート。🇻🇳
+
+**新バージョン 3.4.0**
+
+- イシューがトピックに名前変更されました。
+- バグ修正
+
+**SharePoint 統合：**
+
+- メールを待つ代わりに、ブラウザポップアップを介してCatendaアカウントに接続できるようになりました。
+
 # Catenda チーム および全ユーザー選択がShareLinkに追加されました
 
-ShareLink機能が強化され、受信者選択オプションに**チーム**と\*\*「全ユーザー」\*\*が追加されました。これらのメール通知を使用して、Bimsyncプロジェクト内のページやコンテンツに素早く注目を集めることができます。
+ShareLink機能が強化され、受信者選択オプションに**チーム**と**「全ユーザー」**が追加されました。これらのメール通知を使用して、Bimsyncプロジェクト内のページやコンテンツに素早く注目を集めることができます。
 
 **新しい受信者選択の使用方法:**
 
@@ -22901,6 +24326,45 @@ ShareLink機能が強化され、受信者選択オプションに**チーム**�
 ShareLink機能の使用方法については、以前のBimsync更新を確認してください：
 
 [Sharelink](https://updates.bimsync.com/sharelink-notify-people-about-bimsync-content-186811)
+
+# Catendaチェンジログ - 2023年7月2日
+
+## 1. 記事
+
+_新しい記事:_ Catenda Hub [BimsyncはCatenda Hubになりました](https://support.catenda.com/en/articles/7890769-bimsync-is-now-catenda-hub) [ランディングページ](https://support.catenda.com/en/articles/8400797-projects-page) [issue boardのサイドパネル](https://support.catenda.com/en/articles/6941224-side-panel-in-an-issue-board) [すべてのプロジェクトデータをエクスポート](https://support.catenda.com/en/articles/7946690-exporting-all-project-data) [命名規則ページ](https://support.catenda.com/en/articles/7832559-naming-conventions-page) [最も簡単な命名規則](https://support.catenda.com/en/articles/7845360-simplest-naming-convention) [中程度の命名規則](https://support.catenda.com/en/articles/7936943-medium-naming-convention) [高度な命名規則](https://support.catenda.com/en/articles/7936947-advanced-naming-convention) Catenda Site [モバイルアプリCatenda Siteをダウンロード 📲](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site) [ドキュメント - Catenda Site](https://support.catenda.com/en/articles/7774637-documents-catenda-site) [ダッシュボード - Catenda Site](https://support.catenda.com/en/articles/7213817-dashboard-catenda-site) [ナビゲーションメニュー - Catenda Site](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) [プロジェクトページ - Catenda Site](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) [設定 - Catenda Site](https://support.catenda.com/en/articles/7733833-settings-catenda-site) [問題ページ - Catenda Site](https://support.catenda.com/en/articles/7734073-issues-page-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site) [Catenda Siteのオフラインモード](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site) [3Dビューア - Catenda Site](https://support.catenda.com/en/articles/7744403-3d-viewer-catenda-site) [2Dビューア - Catenda Site](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site) [ラベルフィルター - Catenda Site](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site) _変更された記事:_ [プロジェクト設定ページ](https://support.catenda.com/en/articles/4670273-project-settings-page) [システム要件と最適化](https://support.catenda.com/en/articles/6921941-system-requirements-and-optimization) [モデルページ](https://support.catenda.com/en/articles/4670286-models-page) [モデルページ](https://support.catenda.com/en/articles/4670270-model-page)
+
+## 2. 解決された問題
+
+**Catenda Hub**
+
+- [モデル](https://support.catenda.com/en/articles/4670286-models-page)の日本語文字は正しい名前でダウンロードされるようになりました
+- [数量計算](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)では、より良い読みやすさのために黒と白の背景列が交互に表示されるようになりました
+- [インポート](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf)チェックイン - カンマやかっこなどの軽微なミスがあるインポートは、ファイルが軽微なミスで記述またはエクスポートされた場合でも受け入れられるようになりました。
+- [ツリーパネル](https://support.catenda.com/en/articles/4670290-the-tree-structures-in-the-ifc-models)は、オブジェクトが選択されている場合、そのオブジェクトの正しいモデルを常に表示するようになりました。以前は、ツリーメニューが正しいモデルに常に更新されない場合がありました
+- 検査パネルの選択メニューを使用して選択範囲を保存することが可能になりました。
+
+オブジェクトの選択は色付けすることもできます。この選択はスナップショットまたはブックマークに保存できます。
+
+- サーバーは、[インポート](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf)時に、以前はタイムアウトしていた多くのジオメトリを含むファイルを処理できるようになりました。
+- [3Dボタン](https://support.catenda.com/en/articles/4670286-models-page#h_82b7400edc)は、複数のモデルが読み込まれた場合、アクティブな状態が再度保持されるようになりました
+- オブジェクトは再度削除でき、透明にすることができるようになりました。
+- ドキュメントセクションの最上位フォルダーへのアクセス権を持つユーザーは、[ドキュメント設定](https://support.catenda.com/en/articles/7831371-document-settings)ですべてのユーザーにアクセス権が与えられていなくても、フォルダーを表示できるようになりました。
+
+## 3. プラグインと統合
+
+_[Revitプラグイン](https://support.catenda.com/en/articles/4670334-catenda-hub-revit-plugin)_ Revitプラグインバージョン1.0.8には以下が含まれます：
+
+- チームフィルター
+- カスタムエクスポートオプションが再度機能するようになりました
+- ブランド変更アップデート
+
+_[Archicadプラグイン](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)_ バージョン1.1.9がWindowsおよびMac用に利用可能になりました ブランド変更アップデート
+
+_[Teklaプラグイン](https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin)_ バージョン1.1.1は以下で利用可能になりました: Tekla 2022 Tekla 2021 Tekla 2020 ブランド変更アップデート
+
+_[Navisworksプラグイン](https://support.catenda.com/en/articles/5085987-catenda-hub-navisworks-plugin)_ バージョン1.3.0が利用可能になりました。ブランド変更アップデート
+
+**デスクトップコネクター**バージョン1.0.0.0がリクエストに応じて利用可能になりました
 
 # Changelog 1 Catenda - April, 2023
 
@@ -23026,7 +24490,6 @@ Catendaも同じことが起こります。ステータスと検証ワークフ�
 
 - [Catendaのテーブル](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
 - [カスタムメンバー情報](https://support.catenda.com/en/articles/11769670-custom-member-information)
-  ​
 
 ### 1.2 **変更されたアーティクル:**
 
@@ -23671,8 +25134,6 @@ _最近の更新_ [ステータスワークフロー🖥️共有->✔️公開]
 
 _情報パネル_ [検査メニュー](https://support.catenda.com/en/articles/4670285-inspect-menu) [情報パネル](https://support.catenda.com/en/articles/8238584-information-panel)
 
-**​**
-
 **設定**
 
 **プラグインと統合** [Revit IFC エクスポートマニュアル](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual) [IFC エクスポート Archicad マニュアル](https://IFC%20Export%20Archicad%20Manual)
@@ -24157,7 +25618,6 @@ ShareLinkは、Catenda Hubから選択したプロジェクトメンバーに、
 ShareLinkの受信者はこれらのアイテムのみを表示します。ShareLinkの受信者とページを共有すると、プロジェクトのアクセス権に基づいて、フィルターを含むページ全体が表示されます。
 
 1. ShareLinkボタンをクリックします。
-   ​
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 
@@ -24585,7 +26045,8 @@ Bimsyncモバイルアプリの大型アップデートをリリースできる�
 
 - スワイプジェスチャーを使用して問題コメントを削除
 
-- 設定画面が改善されました。これで優先するホーム画面を選択できます
+- 設定画面が改善されました。
+これで優先するホーム画面を選択できます
 
 - より有用な情報を提供するための新しいアプリ内通知システム
 
@@ -24735,9 +26196,9 @@ _Catenda Site v3.5.2:_ [App Store](https://apps.apple.com/us/app/catenda-site/id
 
     <div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-60a1bb50b7da.png" style="height: auto;" width="3360"/></div><div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-84e66eb66553.png" style="height: auto;" width="3360"/></div>
 
-   ２つの方法があります：
+２つの方法があります：
 
-   **A.** パネルAのタブを選択できます：今日、昨日、一週間前…
+**A.** パネルAのタブを選択できます：今日、昨日、一週間前…
 
     <div class="intercom-container"><img height="530" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-2a7e66b298c6.png" style="height: auto;" width="280"/></div>
 
@@ -24817,7 +26278,7 @@ _[オンデマンド機能を有効にする](https://support.catenda.com/en/art
 
 新しいステータスワークフローは有効にするようにリクエストする必要がなくなり、新規ユーザー向けに利用可能になり、ドキュメント設定で共有revisionsを有効にすることで、レガシーステータスワークフローを現在使用しているプロジェクトに対して有効にできます。
 
-### 1.3 ​**オブジェクトページ**
+### 1.3 **オブジェクトページ**
 
 IFCから論理を使用して任意のコンテンツを検索します。オブジェクトページはオンデマンド機能で、進行中のプロジェクトに対して有効にするようリクエストできます。この機能が有効になっているテンプレートプロジェクトに基づいて作成された新しいプロジェクトは、この機能が有効になっていません。例えば、「モデルA」から2メートルより背の高いすべての「ドアエンティティ」。テーブル内の各行要素の関連プロパティを表示するように列を設定します。フィルター結果に3Dビューアのオブジェクトがある場合、そのオブジェクトは3D で選択できます。表示されている設定されたプロパティ列を使用して、選択された要素をExcelにエクスポートします。QTO機能と同様に、3Dで選択されたオブジェクトもフィルタリングできます。QTO機能と比較すると、テーブルに数千行をロードすることは問題ではありません。
 
@@ -26313,7 +27774,7 @@ Catendaの通知、招待状、または確認メールを受け取れていな�
 
 承認リクエストに追加され、その後削除されたドキュメントは、管理者によって回復するか、承認リクエストから破棄することができます。
 
-### 3.2 **取下げられたリビジョン**​
+### 3.2 **取下げられたリビジョン**
 
 承認の一部であるドキュメントリビジョンが取下げられると、リビジョン番号は取消線が引かれ、ドキュメントの内容はファイルレビューページに表示されなくなります。これは、承認の一部であるドキュメントリビジョンが取下げられたときのドキュメントタブの外観です：
 

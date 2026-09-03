@@ -38,7 +38,6 @@ Standaard is er één gedeelde status met de naam "gedeeld" geconfigureerd. Typi
 - De standaardstatus is ingesteld op Geen status.
 - Het goedkeuringenmenu in documenten instellingen is uitgeschakeld.
 - De goedkeuringen subpagina naar de Documenten pagina is uitgeschakeld.
-  ​
 
 ## 2. **Gepubliceerde statussen**
 
@@ -47,7 +46,6 @@ Standaard is er één gepubliceerde status met de naam "gepubliceerd" geconfigur
 - Gepubliceerd, met opmerkingen - Lichtgroen
 - In afwachting - Geel
 - Afgewezen - Rood
-  ​
 
 ## 3. **Status toevoegen**
 

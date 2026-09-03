@@ -18,7 +18,7 @@ Sommige functies kunnen voor bestaande projecten worden ingeschakeld door de con
 
 De nieuwe statuswerkstroom hoeft niet meer te worden aangevraagd om te worden ingeschakeld en is nu beschikbaar voor nieuwe gebruikers en kan worden ingeschakeld voor projecten die momenteel de verouderde statuswerkstroom gebruiken door gedeelde herzieningen in documentinstellingen in te schakelen.
 
-### 1.3 ​**Objectenpagina**
+### 1.3 **Objectenpagina**
 
 Zoek naar inhoud uit uw IFC met logica. De objectenpagina is een on-demand functie die kan worden aangevraagd voor lopende projecten. Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waar deze functie is ingeschakeld, hebben deze functie niet ingeschakeld. Bijvoorbeeld alle "Deurentiteiten" uit "Model A" die hoger zijn dan 2 meter. Configureer kolommen om de relevante eigenschappen voor elk rij-element in de tabel weer te geven. Als filterresultaten een object in de 3D-viewer bevatten, kan dit object in 3D worden geselecteerd. Exporteer geselecteerde elementen met de geconfigureerde eigenschapskolommen die in Excel worden weergegeven. Net als bij de QTO-functie kunnen objecten die in 3D zijn geselecteerd ook worden gefilterd. Vergeleken met de QTO-functie is het geen probleem om duizenden rijen in de tabel te laden.
 

@@ -18,7 +18,7 @@ Die Videos in der Playlist werden häufig mit Änderungen auf der Plattform aktu
 - Gif
 - Dokument PDF
 - Slides PDF
-- PPTX​
+- PPTX
 
 ## 3. Die Guide teilen
 

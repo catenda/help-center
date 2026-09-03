@@ -4,7 +4,7 @@ Nachdem Sie ein oder mehrere Dokument(e) ausgewählt haben, wird das Infosymbol 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/01-intro.png)
 
-Dieses erweiterte Bedienfeld kann je nach Auswahl unterschiedlich aussehen [​_Ein Ordner_ ](#h_cad792004b) _- [Ein Dokument](#h_2fac53531d) - [Mehrere Ordner (und/oder Dokumente)](#h_58d67056f7)_
+Dieses erweiterte Bedienfeld kann je nach Auswahl unterschiedlich aussehen [_Ein Ordner_ ](#h_cad792004b) _- [Ein Dokument](#h_2fac53531d) - [Mehrere Ordner (und/oder Dokumente)](#h_58d67056f7)_
 
 ## 1. Ein Ordner
 

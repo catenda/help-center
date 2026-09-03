@@ -25,7 +25,6 @@ Beispielsweise einige Dokumente oder Themen.
 Ein ShareLink-Empfänger sieht dann nur diese Elemente. Wenn die Seite mit einem ShareLink-Empfänger geteilt wird, sieht er die ganze Seite, einschließlich Filter, basierend auf seinem Zugriff im Projekt.
 
 1. Klicken Sie auf die ShareLink-Schaltfläche.
-   ​
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 

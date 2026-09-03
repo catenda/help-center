@@ -4489,6 +4489,61 @@ Collections - Un document peut faire partie d'une collection qui peut être priv
 
 _Problèmes liés_ - Les documents peuvent être liés à des problèmes
 
+# Bannière de sujet - Navigation dans les sujets
+
+Si vous sélectionnez un sujet d'une [liste de sujets](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) une nouvelle fenêtre s'ouvrira pour ce sujet. Voici à quoi peut ressembler une fenêtre de sujet :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/01-intro.png)
+
+1\. La bannière de sujet sera décrite dans cet article. 2\. Vous trouverez la bannière de sujet au-dessus de l'[en-tête du sujet](https://support.catenda.com/en/articles/8400566-issue-header). 3\. À droite de l'en-tête et du corps du sujet, vous trouverez le [panneau d'informations de droite](https://support.catenda.com/en/articles/8053299-issue-right-panel). 4\. Sous l'en-tête d'un sujet, vous trouverez le [corps du sujet](https://support.catenda.com/en/articles/8053352-issue-body).
+
+## 1. **Fil d'Ariane**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/02-breadcrumbs.png)
+
+### 1.1 **Sujets**
+
+Cliquez sur les sujets du fil d'Ariane pour revenir à la [liste de sujets](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) actuelle.
+
+### 1.2 **Liste de sujets** **déroulante**
+
+Sélectionnez une [liste de sujets](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) dans la liste déroulante des listes de sujets du fil d'Ariane pour accéder à cette liste de sujets.
+
+### 1.3 **Numéro et titre du sujet**
+
+Le numéro de sujet Catenda Hub et le titre du sujet. Chaque nouveau sujet du projet incrémente le numéro de 1. Ce numéro ne peut pas être modifié. Le numéro est unique dans le projet. Vous ne verrez donc pas deux sujets avec le même numéro dans différentes listes de sujets. Si vous exportez le sujet en BCF et l'importez dans un autre projet, il obtiendra un nouveau numéro basé sur le dernier numéro de sujet de ce projet. Bien que le même sujet dans deux projets différents puisse avoir un numéro de sujet différent dans chaque projet, les sujets sont toujours liés avec un GUID de sujet. Si vous avez apporté des modifications ultérieures au sujet et l'avez exporté en BCF à nouveau et importé dans l'autre projet à nouveau, vous verrez que le bon sujet est mis à jour même s'il a un numéro différent.
+
+## 2. **Navigation du sujet**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/03-topic-navigation.png)
+
+_Bouton Retour_ - Revenez à la partie de Catenda Hub que vous consultiez en dernier _Barre de progression_ - Affiche les sujets sur lesquels vous pouvez naviguer
+
+> **Note :** Vous ne pouvez naviguer que parmi les sujets que vous aviez chargés dans la liste de sujets. Vous pouvez charger 100 sujets à la fois en faisant défiler vers le bas dans une liste de sujets. Sauf si vous faites défiler jusqu'au bas d'une liste de sujets ou s'il y a moins de 100 sujets dans la liste. Ce nombre total n'est donc pas indicatif du nombre total de sujets dans la liste de sujets.
+
+_Boutons Précédent et Suivant_ - Allez au sujet précédent ou suivant dans la liste de sujets filtrée
+
+## 3. **Boutons supérieurs**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/04-top-buttons.png)
+
+_Nouveau sujet_ - Créer un [nouveau sujet](https://support.catenda.com/en/articles/4670268-creating-a-new-issue) _Cloner un sujet_  - Créer une copie de ce sujet Vous voudrez cloner un sujet quand vous voulez créer un sujet similaire qui est légèrement différent du sujet actuel. Il n'est pas recommandé de créer plusieurs copies du même sujet et d'assigner chacune à une personne différente. Au lieu de cela, vous voudrez [mentionner](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) les différents membres que vous voulez ajouter au sujet avec @membre.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/05-top-buttons.png)
+
+- L'en-tête et la description du sujet cloné seront identiques à ceux du sujet actuel
+- _Inclure des documents_
+
+Les documents liés à ce sujet seront également liés au sujet cloné
+
+- _Inclure les objets liés_
+
+Les objets liés à ce sujet seront également liés au sujet cloné
+
+> **Note :** Les commentaires ne sont pas clonés
+
+_Paramètres_ - Accédez aux [paramètres de la liste de sujets](https://support.catenda.com/en/articles/4670277-issue-board-settings) en cliquant sur ce bouton
+
 # Bibliothèque de classification
 
 Les bibliothèques de classification sont un moyen simple et pratique d'intégrer des données existantes dans le BIM. Elles peuvent être utilisées pour étiqueter les objets avec des informations.
@@ -5371,6 +5426,37 @@ Vous pouvez maintenant saisir les champs dans vos prochains topics !
 
 👉 **[Comment configurer les champs personnalisés](https://intercom.help/bimsync-arena/en/articles/6550459-setting-of-custom-fields)**
 
+# Champs personnalisés sur les documents
+
+Dans cet article, nous expliquons comment appliquer des champs définis par l'utilisateur aux Documents. Les champs personnalisés sont déjà utilisés dans la convention de nommage et les Sujets.
+
+Il s'agit de métadonnées qui nous aident à travailler de manière plus structurée sur la plateforme. Les projets travaillent souvent avec une clé de plan, la convention de nommage. Cela fournit déjà une structure prédéfinie selon laquelle les Documents ou les modèles (fichiers) sont organisés. Si nous voulons également Lier des métadonnées supplémentaires aux fichiers, cela peut être fait via les Étiquettes ou les champs définis par l'utilisateur, par exemple. La différence, y compris les avantages et les inconvénients, entre les Étiquettes et les champs définis par l'utilisateur peut être vue dans le tableau suivant :
+
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e8e8e880; padding: 8px;"><h3 id="h_d451caef81"><b>Champs personnalisés sur les Documents</b></h3></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_81285be75b"><b>Étiquettes</b></h3></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>Différents types possibles</p><ul><li><p>Texte</p></li><li><p>Entier</p></li><li><p>Date</p></li><li><p>Décimal</p></li><li><p>Liste déroulante</p></li></ul></li><li><p>Ajouter aux dossiers</p><ul><li><p>Définir les valeurs par défaut</p></li><li><p>Définir les champs requis</p></li></ul></li><li><p>Différence entre documents &amp; révisions possible</p></li><li><p>Ajouter les valeurs automatiquement lors du téléchargement de Documents vers certains dossiers</p></li><li><p>Lors du déplacement de Documents d'un dossier, les valeurs disparaissent. À moins que l'autre dossier ait les mêmes paramètres.</p></li><li><p>Historique des valeurs sur le Document</p></li><li><p>Héritage des règles</p></li></ul></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>Regrouper les étiquettes</p></li><li><p>Aperçu des étiquettes qui appartiennent aux Documents / Sujets</p></li><li><p>Les Étiquettes sont directement liées aux Sujets / Documents</p></li><li><p>Utilisation dans les sujets &amp; documents</p></li><li><p>Facile à créer</p></li><li><p>Tout le monde peut créer des étiquettes.</p></li><li><p>Étiquettes pour les Documents, non pas pour les révisions</p></li></ul></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d7504cb7eb"><b>Cas d'usage</b></h3></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_ecb9b80743"><b>Cas d'usage</b></h3></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>Télécharger un Document vers un dossier archive. Le Document reçoit l'info "archivé"</p></li><li><p>Ajouter des informations supplémentaires "commentaires" aux Documents / modèles</p></li></ul></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>Organiser le système de gestion des Documents avec des informations supplémentaires, des métadonnées</p></li></ul></td></tr></tbody></table></div>
+
+> **Remarque :** **Exemple :** Les champs définis par l'utilisateur peuvent être utilisés pour ajouter des commentaires aux Documents. **Remarque :** En utilisant la valeur par défaut, les Documents sont automatiquement fournis avec une valeur prédéfinie correspondante dès qu'ils sont téléchargés vers le dossier correspondant. L'Historique du Document suit également chaque processus individuel ici.
+
+Pour appliquer les champs définis par l'utilisateur aux Documents, procédez comme suit :
+
+1. Créez le champ défini par l'utilisateur souhaité
+1. Assignez le champ défini par l'utilisateur créé à un ou plusieurs dossiers
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-ba695fa6aebd.png" width="496"/></div>
+
+1. Définissez si le champ défini par l'utilisateur doit être assigné à un Document (à travers les révisions) ou à chaque révision individuelle
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-20eab3b097ce.png" width="500"/></div>
+
+1. Définissez les valeurs par défaut, si souhaité
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-7241dd9f32dd.png" width="500"/></div>
+
+1. Dans la zone du Document, vous pouvez maintenant reconnaître le champ défini par l'utilisateur assigné sur le Document sous les dossiers dans les informations du Document.
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-f4243a01e272.png" width="500"/></div>
+
+> **Remarque :** Les champs personnalisés sont également disponibles dans la zone de filtrage ou la barre de recherche.
+
 # Code QR sur les PDF dans Catenda
 
 Les codes QR peuvent être configurés par dossier dans la [configuration des dossiers](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90) des [paramètres des documents](https://support.catenda.com/en/articles/7831371-document-settings).
@@ -6216,6 +6302,24 @@ Si les statuts partagés ont été activés après le 2 octobre 2025, deux colon
 
 <div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; padding: 8px;"><p><b>Accès</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Visualiser les révisions partagées</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Publier</b></p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Accès refusé</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Non disponible (élément non affiché dans la liste)</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Non</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Lecture</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Peut être accordé (facultatif)</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Non</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Écriture</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Toujours capable de voir</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Peut être accordé (facultatif)</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Accès complet</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Toujours capable de voir</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Oui</p></td></tr></tbody></table></div>
 
+# Contrôle d'accès pour la création de liste de sujets
+
+Les administrateurs pourront configurer qui a accès pour créer des listes de sujets dans la section contrôle d'accès de la [page paramètres du projet](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3).
+
+1. Sous le contrôle d'accès sur cette page vous avez « Créer une nouvelle liste de sujets ».
+
+Cliquez dessus.
+
+1. Une liste de qui peut créer et l'accès Édition apparaîtra.
+   Cliquez sur le bouton Éditer l'accès.
+1. Définissez l'accès pour les membres ou les équipes.
+
+Sous les membres ou les équipes que vous avez sélectionnés apparaîtront.
+
+1. Sous accès vous choisissez entre Peut créer et Non autorisé.
+
+Appuyez sur le bouton enregistrer.
+
 # Contrôle d'accès à la liste de sujets
 
 > Niveaux de contrôle d'accès aux listes de sujets
@@ -6382,6 +6486,68 @@ Cela peut être dû à deux raisons.
 1. Le nom de fichier de révision ne correspond pas au résultat de document attendu selon la [convention de dénomination](https://support.catenda.com/en/articles/7832559-naming-conventions-page).
 
 Pour continuer à en savoir plus sur les [conventions de dénomination](https://support.catenda.com/en/articles/7832559-naming-conventions-page), consultez ces articles : [Convention de dénomination moyenne](https://support.catenda.com/en/articles/7936943-medium-naming-convention) [Convention de dénomination avancée](https://support.catenda.com/en/articles/7936947-advanced-naming-convention)
+
+# Convention de nommage avancée
+
+Cet article s'appuie sur les articles suivants : [Convention de nommage la plus simple](https://support.catenda.com/en/articles/7845360-simplest-naming-convention) et [Convention de nommage intermédiaire](https://support.catenda.com/en/articles/7936943-medium-naming-convention) Cet article peut être suivi sans avoir lu ces articles, mais il peut être utile de les consulter car il peut y avoir des informations sur les [conventions](https://support.catenda.com/en/articles/7832559-naming-conventions-page) qui ne sont pas mentionnées dans cet article. Dans cet article, vous apprendrez toutes les façons dont les [conventions](https://support.catenda.com/en/articles/7832559-naming-conventions-page) peuvent être utilisées.
+
+## 1. **YYMMDD\_Nom_fichier\_V.pdf**
+
+En mettant en place cette [convention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) vous apprendrez tout ce que vous devez savoir sur les [conventions de nommage](https://support.catenda.com/en/articles/7832559-naming-conventions-page) pour pouvoir choisir les [blocs](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) que vous aimez pour votre propre [convention](https://support.catenda.com/en/articles/7832559-naming-conventions-page). Supposons que vous organisiez localement tous vos modèles 3D et vos dessins de construction.
+
+- Vous avez un tiret _( - )_ dans le nom du fichier, donc pour séparer les différents [blocs](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) vous devrez utiliser un trait de soulignement _( \_ )_ comme [séparateur](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=in%20document%20settings-,Separator,-%3A%20The%20character).
+- Ces fichiers commencent par la date de création du fichier.
+
+Cela vous est utile car même si cela est généralement indiqué à différents endroits, c'est simplement plus visuel pour vous d'avoir vos fichiers classés alphabétiquement par date de création.
+
+- Après cela, vous aurez le nom du fichier qui peut être de n'importe quelle longueur.
+- À la fin du nom du fichier, vous avez un statut pour indiquer la version du fichier que vous avez.
+
+Cette partie est simplement du texte supplémentaire que vous utilisez pour distinguer vos fichiers localement. Vous ne voulez pas voir cette partie du nom du fichier dans le nom du document Catenda Hub car elle n'est utile que pour vous localement et n'a rien à voir avec les autres personnes du projet.
+
+- Finalement, vous avez décidé de vous assurer que vous ne conservez que des types de fichiers spécifiques dans ce dossier.
+
+Vous limiterez les types de fichiers à IFC, PDF, DWG, SMC, PL et RVT
+
+### 1.1 **Configuration initiale**
+
+Les documents portant les noms de fichiers suivants seront utilisés dans cet article. Vous pouvez les préparer à l'avance ou les créer lorsque vous en arrivez à cette partie de l'article :
+
+_Fichiers locaux :_ 230219\_Elevation\_Draft.PDF 230219\_Elevation\_Final.PDF aaaaaa\_\_Elevation\_Draft.PDF 230219\_Elevation\_Draft.pdf
+
+_Un quatrième [bloc](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) pour le statut du fichier_ La date du fichier ressemble un peu au code de l'exemple de l'article [Convention de nommage intermédiaire](https://support.catenda.com/en/articles/7936943-medium-naming-convention). Le [bloc](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) contenant le nom du document devrait également être le même que le [bloc](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) de nom de fichier dans cet article. Le seul [bloc](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) que vous devez ajouter et qui est différent de l'exemple ci-dessus est un [bloc](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) pour la partie statut de votre nom de fichier.
+
+**Configuration de la convention** Pour cet exemple, vous utiliserez la [convention de nommage](https://support.catenda.com/en/articles/7832559-naming-conventions-page) affichée dans l'image ci-dessous comme point de départ.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/01-initial-setup.png)
+
+### 1.2 **Champs personnalisés dans les conventions**
+
+Il existe trois types différents de champs personnalisés utiles dans les [conventions](https://support.catenda.com/en/articles/7832559-naming-conventions-page) : [Entier](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22), [Texte](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) et [Liste déroulante](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) Les [champs personnalisés](https://support.catenda.com/en/articles/6550459-custom-fields-setup) peuvent être utilisés comme sources pour les [blocs de convention](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541).
+
+**[Champs personnalisés entiers](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) dans les [conventions](https://support.catenda.com/en/articles/7832559-naming-conventions-page)** Dans l'image ci-dessus, la source du premier [bloc](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) est définie sur texte. Si vous essayez de télécharger votre premier fichier 230219\_Elevation\_Draft.PDF, vous verrez qu'il se télécharge sans problème. Cependant, vous pourriez également télécharger six lettres au lieu de chiffres, par exemple : aaaaaa\_\_Elevation\_Draft.PDF et ce serait correct aussi. Pour limiter cela à seulement des chiffres, créez un nouveau [champ personnalisé entier](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) appelé NC\_Date. Il est nommé ainsi juste pour le maintenir organisé dans la [liste des champs personnalisés](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=the%20list%20of%20custom%20fields). Ensuite, définissez ce [champ personnalisé](https://support.catenda.com/en/articles/6550459-custom-fields-setup) comme [source](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=has%20an%20extension.-,Source,-%3A%20What%20will) du premier [bloc](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) en cliquant sur la liste déroulante où il indique actuellement texte et en sélectionnant le [champ personnalisé](https://support.catenda.com/en/articles/6550459-custom-fields-setup) que vous avez créé. Vous verrez maintenant que aaaaaa\_\_Elevation\_Draft.PDF n'est plus accepté tandis que 230219\_Elevation\_Draft.PDF est accepté.
+
+**[Champs personnalisés de texte](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) dans les [conventions](https://support.catenda.com/en/articles/7832559-naming-conventions-page)** Pour le deuxième [bloc](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541), vous pouvez laisser la source comme texte puisque n'importe quel texte est accepté ici. Il est toujours recommandé d'utiliser un champ personnalisé de texte qui pourrait être nommé NC\_Filename pour la compatibilité future.
+
+Le statut peut également être n'importe quel mot de n'importe quelle longueur, donc créez un [champ personnalisé de texte](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) appelé NC\_Status et définissez-le comme [source](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=has%20an%20extension.-,Source,-%3A%20What%20will) pour le troisième [bloc](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541).
+
+Pour ces deux blocs, vous ne remarquerez pas de différence dans le processus de téléchargement. Vous pourrez voir que l'[aperçu](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_c2f7e24fbc) dans différents endroits reflète maintenant le nom du [champ personnalisé](https://support.catenda.com/en/articles/6550459-custom-fields-setup).
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/02-custom-fields-in-conventions.png)
+
+**[Champs personnalisés de liste déroulante](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) dans les [conventions](https://support.catenda.com/en/articles/7832559-naming-conventions-page)**
+
+**Nom identique au code** Pour le dernier [bloc](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) qui contient l'[extension](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=The%20name%20of%20the%20file/document%20extension), seul un ensemble spécifique d'expressions doit être accepté. Pour ce faire, créez un [champ personnalisé de liste déroulante](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) appelé NC\_Extension. Dans ce [champ personnalisé](https://support.catenda.com/en/articles/6550459-custom-fields-setup), définissez les [options de liste déroulante](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=add%20multiple%20options) IFC, PDF, DWG, SMC, PL et RVT. Rendez le nom et le code identiques. Attention, ceux-ci doivent être ajoutés un par un car un code doit être spécifié. Essayez maintenant de télécharger 230219\_Elevation\_Draft.pdf et vous verrez qu'il ne sera pas accepté. Cette expression personnalisée est sensible à la casse. Si vous voulez que les extensions minuscules soient également acceptées, vous devez également les ajouter au [champ personnalisé de liste déroulante](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field).
+
+**Nom différent et code** Un autre bon exemple de ce que vous pouvez faire avec un [champ personnalisé de liste déroulante](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) est d'avoir un nom et un code différents. Supposons que vous ayez des dessins d'ingénieurs mécaniciens, structurels et électriques, chacun avec leurs respectifs [blocs](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541). Dans Catenda Hub, vous voulez que ces dessins s'appellent simplement Ingénierie. Ce que vous pouvez faire est de créer un [champ personnalisé de liste déroulante](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) avec [plusieurs options](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=add%20multiple%20options) qui ont le nom Ingénierie et le code du type d'ingénierie que vous vous attendez à trouver dans le nom du fichier. Lorsque vous téléchargez le fichier, vous verrez que même si le nom du fichier contenait mécanique, structural ou électrique, le nom du document dira toujours Ingénierie.
+
+### 1.3 **Identifiant du document**
+
+[Au début de cet article](http://You%20do%20not%20want%20to%20see%20this%20part%20of%20the%20file%20name) il a été mentionné qu'il était important que la partie statut du nom du fichier ne s'affiche pas comme le nom du document Catenda Hub. C'est ce que fait l'[identifiant du document](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=block%20to%20do-,Document%20identifier,-%3A). Lorsque cette option est désactivée, cette partie du nom du fichier ne sera pas du tout utilisée pour créer le nom du document dans Catenda hub. Essayez de télécharger 230219\_Elevation\_Draft.PDF puis 230219\_Elevation\_Final.PDF Remarquez comment, même si le nom du fichier était différent, le nom du document sera le même. Cela est utile car si le nom du document est le même, la [convention de nommage](https://support.catenda.com/en/articles/7832559-naming-conventions-page) reconnaîtra automatiquement que le deuxième fichier est une révision du premier.
+
+Finalement, voici à quoi devrait ressembler votre [convention de nommage](https://support.catenda.com/en/articles/7832559-naming-conventions-page) avec [champs personnalisés](https://support.catenda.com/en/articles/6550459-custom-fields-setup) et [identifiants de document](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=block%20to%20do-,Document%20identifier,-%3A) :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/03-document-identifier.png)
 
 # Convention de nommage intermédiaire
 
@@ -6864,7 +7030,6 @@ Activez Exiger un examen par tous les membres de l'équipe pour exiger que chaqu
 - **Quand c'est désactivé** (le comportement actuel et unique décrit ailleurs dans ce centre d'aide), n'importe quel membre de l'équipe d'examinateur peut soumettre une indication de validation au nom de toute l'équipe, et l'étape peut procéder dès qu'il le fait.
 
 - **Quand c'est activé,** l'étape de l'équipe n'est pas complète jusqu'à ce que chaque membre individuel ait donné sa propre indication. Consultez les articles de l'onglet Aperçu, du menu droit d'examen des fichiers et du menu droit de l'onglet Documents pour voir comment cela s'affiche lors de l'examen.
-  ​
 
 ### 4.6 **Supprimer l'étape de validation**
 
@@ -9095,7 +9260,6 @@ Par défaut, un statut partagé nommé « partagé » est configuré. Les statut
 - Le statut par défaut est défini sur Aucun statut.
 - Le menu d'approbations dans les paramètres des documents est désactivé.
 - La sous-page d'approbations vers la page des documents est désactivée.
-  ​
 
 ## 2. **Statuts publiés**
 
@@ -9104,7 +9268,6 @@ Par défaut, un statut publié nommé « publié » est configuré. Cliquez sur 
 - Publié, avec commentaires - Vert clair
 - En attente - Jaune
 - Rejeté - Rouge
-  ​
 
 ## 3. **Ajouter un statut**
 
@@ -9558,7 +9721,7 @@ Sélectionnez un ensemble de documents en cochant les cases ou cochez la case en
 
 Après la sélection, le menu d'information apparaîtra en haut à droite. S'il est fermé, cliquez sur l'icône `i` pour l'agrandir.
 
-### 5.4 ​**Menu d'information droit -** Télécharger
+### 5.4 **Menu d'information droit -** Télécharger
 
 Lors de l'importation, vous pouvez configurer les documents qui seront importés dans Solibri.
 
@@ -10733,7 +10896,7 @@ Après avoir sélectionné un ou plusieurs Document(s), l'icône d'information a
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/01-intro.png)
 
-Ce panneau développé peut avoir un aspect différent selon ce que vous avez sélectionné [​_Un dossier_ ](#h_cad792004b) _- [Un Document](#h_2fac53531d) - [Plusieurs dossier(s) et/ou Document(s)](#h_58d67056f7)_
+Ce panneau développé peut avoir un aspect différent selon ce que vous avez sélectionné [_Un dossier_ ](#h_cad792004b) _- [Un Document](#h_2fac53531d) - [Plusieurs dossier(s) et/ou Document(s)](#h_58d67056f7)_
 
 ## 1. Un dossier
 
@@ -12133,7 +12296,6 @@ Vous pouvez filtrer par :
 - [Étiquettes](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - Echéance
 - Localisation
-  ​
 
 ### 1.1 Icône Réinitialiser le filtre
 
@@ -12245,6 +12407,108 @@ Activez la surface du plan glissant en appuyant sur le cercle blanc où se trouv
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/09-measuring-to-sliding-plane-surfaces.gif)
 
+# Mode hors ligne dans Catenda Site
+
+Qu'il s'agisse d'une zone de construction, d'un tunnel ferroviaire ou d'un sous-sol profond d'un parking, il y a de fortes chances que vous ne puissiez pas vous connecter à Internet. Durant cette panne, Catenda Site peut toujours être utilisé pour collaborer sur vos appareils portables. Cet article décrit les différentes façons d'utiliser Catenda Site pour collaborer sans accès au réseau.
+
+Cet article contient des informations sur les sujets suivants :
+
+## 1. **Menu des sujets en mode hors ligne**
+
+Sans connexion au réseau, le menu des sujets sera toujours disponible.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/01-topics-menu-in-offline-mode.png)
+
+> **Remarque :** Sans connexion au réseau **Les modifications ne sont pas soumises automatiquement** Après reconnexion au réseau, les modifications peuvent être soumises au projet à partir de votre boîte d'envoi.
+
+### 1.1 **Listes de sujets en mode hors ligne**
+
+Voici à quoi peut ressembler une liste de sujets sans connexion au réseau :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/02-topic-boards-in-offline-mode.png)
+
+Les sujets précédemment chargés apparaissent comme des sujets normaux.
+
+### 1.2 **Icône hors ligne**
+
+Les sujets créés sans connexion au réseau auront une icône hors ligne.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/03-offline-icon.png)
+
+Tant qu'un sujet a une icône hors ligne, il ne sera pas synchronisé au projet.
+
+### 1.3 **Sujets précédemment chargés**
+
+Les sujets précédemment chargés peuvent être ouverts sans connexion au réseau. Après avoir ouvert un sujet, vous saurez que vous regardez un sujet précédemment chargé en mode hors ligne lorsque vous verrez la boîte jaune « Hors ligne » à droite du titre du sujet.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/04-previously-loaded-topics.png)
+
+> **Remarque :** Les informations existantes dans les sujets qui ont été chargées lors de la perte de connexion au réseau ne peuvent pas être modifiées.
+
+**Commentaires sur les sujets précédemment chargés** Les sujets précédemment chargés peuvent être commentés sans connexion au réseau. Des images de l'appareil photo/photos peuvent être ajoutées au commentaire _Accès requis :_ accès complet à l'appareil
+
+Les commentaires créés par l'utilisateur connecté peuvent être modifiés et supprimés sans connexion au réseau.
+
+### 1.4 **Nouveaux sujets**
+
+Sans connexion au réseau, il est toujours possible de créer un nouveau sujet. Après l'avoir créé, un sujet ne sera pas encore synchronisé au projet. Lorsque vous ouvrez un sujet qui n'a pas encore été synchronisé au projet, vous verrez une icône de nuage à gauche du titre du sujet.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/05-new-topics.png)
+
+Lorsque la connexion au réseau a été rétablie, ces sujets ne seront pas automatiquement synchronisés au projet. Les nouvelles informations et les modifications apportées en mode hors ligne peuvent être soumises au projet dans la boîte d'envoi lorsque la connexion au réseau est rétablie.
+
+Les informations suivantes peuvent être ajoutées à un nouveau sujet créé sans connexion au réseau :
+
+- Un titre peut être ajouté
+- Une liste de sujets peut être sélectionnée pour le sujet
+- Le statut/type peut être modifié
+- Une étape clé peut être ajoutée
+- Les étiquettes peuvent être ajoutées
+- Une description peut être écrite
+- Des commentaires peuvent être ajoutés.
+  - Des images de l'appareil photo/photos peuvent être ajoutées aux commentaires.
+
+    _Accès requis :_ Accès complet à l'appareil
+
+- Si les modèles ont été chargés avant la perte de connexion au réseau, une localisation peut être ajoutée à un sujet en plaçant un marqueur dans la vue 2D de ces modèles.
+
+**Modification et soumission de nouveaux sujets**
+
+- Vous saurez que vous regardez un nouveau sujet hors ligne si vous voyez la barre grise en haut du sujet.
+- Il est possible de modifier les sujets en mode hors ligne qui n'ont pas encore été soumis via la [boîte d'envoi](#h_ff2a47f221)
+
+### 1.5 **Boîte d'envoi**
+
+Si de nouvelles informations et des modifications ont été apportées à une liste de sujets en mode hors ligne, une icône de boîte d'envoi apparaîtra vers le coin supérieur droit de la liste de sujets.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/06-outbox.png)
+
+Appuyez sur l'icône pour ouvrir la boîte d'envoi. Après avoir retrouvé l'accès au réseau, les nouvelles informations et les modifications peuvent être soumises au projet dans ce menu.
+
+**Brouillons locaux** Les sujets de cette liste peuvent être considérés comme des brouillons locaux jusqu'à ce qu'ils soient soumis. Si de nouveaux sujets ont été créés, les sujets existants ont été commentés sans connexion au réseau, ils se retrouveront dans cette liste.
+
+**Soumission de la boîte d'envoi** Toutes les nouvelles informations et modifications apportées sans connexion au réseau restent sur l'appareil jusqu'à ce que la boîte d'envoi soit soumise. Lorsque la connexion au réseau est rétablie, la boîte d'envoi peut être soumise. Les nouvelles informations et les modifications qui ont été apportées alors qu'il n'y avait pas de connexion au réseau seront alors synchronisées au projet et apparaîtront pour tous les membres du projet.
+
+## 2. **Modèles en mode hors ligne**
+
+Lorsque la connexion au réseau est perdue, il est possible de continuer à utiliser les modèles qui ont été précédemment chargés sur l'appareil.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/07-models-in-offline-mode.png)
+
+### 2.1 **Modèles précédemment chargés**
+
+Dans la vue 2D des modèles qui ont été chargés avant la perte de connexion au réseau, des sujets peuvent être créés avec une localisation en vue 2D sans connexion au réseau. Les modèles précédemment chargés peuvent être activés et désactivés sans perdre leur fonctionnalité.
+
+## 3. **Documents en mode hors ligne**
+
+Lorsque la connexion au réseau est perdue, les documents peuvent continuer à être utilisés.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/08-documents-in-offline-mode.png)
+
+### 3.1 **Documents précédemment chargés**
+
+Les documents du dossier ou de la collection qui ont été ouverts lors de la perte de connexion restent consultables. Tant que ce dossier ou cette collection reste ouvert, les documents du dossier restent consultables tandis que d'autres parties de l'application sont utilisées. L'accès aux documents du dossier n'est disponible que lorsque vous êtes dans le dossier ou la collection. La navigation vers un dossier ou une collection différent déchargera les documents. Les documents qui ne sont pas dans le même dossier peuvent être rassemblés dans une collection. De cette façon, tous les documents peuvent être chargés avant de perdre l'accès au réseau pour une utilisation hors ligne.
+
 # Modification du nom de votre projet
 
 Sur la page des paramètres, vous pouvez modifier le nom du projet si vous êtes administrateur. Les Membres réguliers du projet ne pourront pas modifier le nom. 1\. Accédez à la page des paramètres. 2\. Modifiez le nom du projet en saisissant le nom souhaité. 3\. Appuyez sur mettre à jour. Le nom du projet est modifié.
@@ -12329,6 +12593,111 @@ L'accès aux Documents peut rapidement devenir compliqué et vous pouvez perdre 
 ### 5.2 **Accès administrateur**
 
 [Création de champs personnalisés](https://support.catenda.com/en/articles/8445575-creating-a-custom-field) [Création de conventions de nommage](https://support.catenda.com/en/articles/7832559-naming-conventions-page) [Configurateur d'étages](https://support.catenda.com/en/articles/6921756-storey-configurator-page)
+
+# Notifications Équipes Microsoft
+
+> Restez à jour sans changer d'onglet. Connectez Catenda Hub à Microsoft Équipes pour recevoir des Notifications en temps réel directement dans vos canaux préférés.
+
+Recevez des Notifications en temps réel d'un compte Catenda directement dans un canal Microsoft Équipes en configurant un flux de travail Microsoft Équipes dans les paramètres de Notifications Catenda. _Accès requis :_ Un compte **Microsoft Équipes** avec les permissions de création de canal et de gestion des flux de travail Microsoft Équipes.
+
+L'onglet Notifications Microsoft Équipes se trouve vers le haut de la [page des paramètres de Notifications de compte](https://support.catenda.com/en/articles/8272435-account-notification-settings) qui est une sous-page de la [page des Notifications de compte](https://support.catenda.com/en/articles/7439223-account-notifications-page) :
+
+![Paramètres de notification Catenda Hub Notifications Microsoft Équipes Projets avec paramètres Équipes propres](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/01-intro.png)
+
+Voici ce que les Notifications Catenda peuvent ressembler dans Microsoft Équipes après qu'un flux de travail Microsoft Équipes ait été configuré.
+
+![Canal Microsoft Équipes Publications Prêt pour examen topic créé une nouvelle révision a été importée dans le modèle](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/02-intro.png)
+
+---
+
+### Étape 1 : Préparer un canal dédié
+
+Les utilisateurs peuvent organiser les mises à jour de leur projet en créant un espace spécifique pour les Notifications Catenda. 1\. Dans **Microsoft Équipes**, sélectionnez l'onglet **Équipes** ou **Conversation**. 2\. Utilisez une équipe existante (ignorez cette étape) ou **créez une équipe**.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/03-step-1-prepare-a-dedicated-channel.png)
+
+Entrez un nom et créez l'équipe.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/04-step-1-prepare-a-dedicated-channel.png)
+
+Quand une équipe est créée, un canal appelé général est automatiquement ajouté. 3\. Utilisez un canal existant (ignorez cette étape) ou ajoutez un canal. Cliquez avec le bouton droit sur une équipe et sélectionnez Ajouter un canal dans le menu d'action ou cliquez sur l'équipe et cliquez sur **Ajouter un canal** vers le haut à droite. _Accès requis :_ Propriétaire ou Membre de l'équipe.
+
+![Microsoft Équipes Intégration Catenda Discussion Canaux Ajouter un canal Membres Analytique Applications Étiquettes Masquer tous les canaux Ajouter un membre Gérer l'équipe Gérer les étiquettes Copier le lien Quitter l'équipe](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/05-step-1-prepare-a-dedicated-channel.png)
+
+> **Remarque :** Avec un accès invité ou externe, les canaux ne peuvent pas être créés. Dans ce cas, veuillez demander à un administrateur de canal de vous fournir une url pour que les Notifications soient envoyées à un canal.
+
+Après avoir cliqué sur Créer un canal, la boîte de dialogue Créer un canal apparaît :
+
+![Créer un canal Nom du canal Les lettres, chiffres et espaces sont autorisés Description Choisir un type de canal Standard Privé Discussions Publications](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/06-step-1-prepare-a-dedicated-channel.png)
+
+**4. Nommez votre canal** : Utilisez quelque chose de clair comme "Notifications Catenda" ou "Projet-A-Notifications".
+
+**5. Choisissez la confidentialité** : Les Notifications Catenda peuvent être livrées à la fois aux canaux standard et privés.
+
+- Sélectionnez **Standard** si vous voulez que toute l'équipe voie les mises à jour.
+- Sélectionnez **Privé** si les Notifications sont uniquement pour vous ou un groupe spécifique.
+
+6\. Cliquez sur **Créer**.
+
+---
+
+### Étape 2 : Générer votre URL Webhook Équipes
+
+Par le passé, les Notifications Catenda Équipes étaient configurées via une application Webhook Connector qui était configurée pour le canal. L'application Webhook Connector a depuis été abandonnée. Le moyen actuel de créer une URL webhook est de créer un flux de travail Microsoft Équipes.
+
+Suivez ces étapes pour créer un nouveau webhook **Flux de travail** Microsoft Équipes. 1\. Ouvrez **Microsoft Équipes** 2\. Pointez sur l'équipe désirée et cliquez sur les trois points ou cliquez sur les trois points en haut à droite après avoir ouvert le canal. 3\. Sélectionnez **Flux de travail** Microsoft Équipes dans le menu d'action
+
+<img alt="Menu d'action du canal Microsoft Équipes, Workflows en surbrillance." src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-f533eea19d48.png" width="290"/>  \<---> <img alt="Menu d'action dans le canal Microsoft Équipes, Workflows en surbrillance." src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-1a6a43fe9eec.png" width="290"/>
+
+4\. Recherchez **"Envoyer des alertes webhook à un canal"** et sélectionnez-le.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/07-step-2-generate-your-teams-webhook-url.png)
+
+5\. Suivez les étapes d'installation pour sélectionner votre Équipe et Canal. **6. Copiez l'URL** : Une fois que le flux de travail Microsoft Équipes est créé, copiez l'URL webhook générée dans votre presse-papiers en cliquant sur Copier le Lien webhook vers le haut.
+
+> **Remarque :** 💡**Conseil** : Gardez cette URL privée. N'importe qui ayant ce Lien peut envoyer des messages à votre canal Équipes.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/08-step-2-generate-your-teams-webhook-url.png)
+
+---
+
+### Étape 3 : Se connecter à Catenda Hub
+
+Suivez ces étapes pour configurer le Lien webhook dans Catenda. De cette façon, Catenda sait où envoyer les Notifications du projet.
+
+1. Connectez-vous à **Catenda Hub**.
+1. Accédez à vos **Notifications > Paramètres** (au niveau du compte ou au niveau du projet).
+1. Sélectionnez l'onglet "Microsoft Équipes" et faites défiler jusqu'au bas.
+1. Collez votre URL copiée dans le champ **URL du Webhook**.
+1. Cliquez sur **Enregistrer**.
+
+    <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
+
+1. **Activer les Notifications** : Assurez-vous que le bouton bascule en haut de la page est basculé sur **Activé**.
+
+    <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
+
+---
+
+### Étape 4 : Personnaliser vos alertes
+
+Adaptez les informations que vous recevez pour éviter la fatigue de notification. 1\. Dans le même menu **Paramètres des Notifications**, parcourez la liste des types de Notifications. **2. Cochez les cases** pour les mises à jour spécifiques que vous souhaitez recevoir dans votre canal Équipes. Voici ce que le menu des Notifications Microsoft Équipes peut ressembler :
+
+![Choisir les Notifications que vous souhaitez recevoir Catenda Hub Email Notifications Microsoft Équipes Sujets Documents Approbations Collections Modèles Utilisateurs Un nouveau topic est créé Un topic m'est assigné Un topic me mentionne ou mentionne mes Équipes Nouveau commentaire dans un topic qui m'est assigné mentionné par moi suivi par moi Statut modifié dans un topic Type modifié dans un topic Je suis défini comme l'éditeur dans une demande d'approbation Une équipe dont je suis membre est définie comme l'éditeur dans une demande d'approbation Une demande d'approbation est fermée Un membre de l'équipe de soumission Une nouvelle demande d'approbation a été soumise Un document a été rejeté Une demande d'approbation est fermée Une nouvelle demande d'approbation a été soumise Une nouvelle demande d'approbation m'a été assignée Une nouvelle demande d'approbation est prête à être examinée par mon équipe Tous les examens ont été soumis par mon équipe Un document a été rejeté Une demande d'approbation est fermée En tant que membre de l'équipe d'examen pour l'approbation finale Une nouvelle demande d'approbation a été soumise Une nouvelle demande d'approbation a été assignée à mon équipe Une nouvelle demande d'approbation est prête à être examinée par mon équipe Tous les examens ont été soumis par mon équipe Tous les examens ont été soumis par mon équipe Une étape d'examen a été complétée Un document a été rejeté Une demande d'approbation est fermée Un nouveau modèle est créé Une nouvelle révision est importée.](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/09-step-4-customize-your-alerts.png)
+
+Les cases de Notifications grisées sont désactivées pour les Équipes Microsoft et sont uniquement disponibles pour d'autres méthodes de Notifications. Les cases de Notifications pour les approbations deviennent disponibles si les révisions partagées sont activées dans les [paramètres du document](https://support.catenda.com/en/articles/7831371-document-settings-page) d'un projet.
+
+---
+
+### Étape 5 : Vérification
+
+Assurez-vous qu'une Notification est envoyée à votre compte et également envoyée aux Équipes Microsoft.
+
+1\. Effectuez une action dans Catenda Hub.
+
+> **Avertissement :** ⚠️ **Remarque :** Pas chaque Notification n'est disponible pour être envoyée à Microsoft Équipes et les Notifications Microsoft Équipes ne sont généralement pas envoyées pour les actions que les utilisateurs effectuent eux-mêmes. Téléchargez un model ou demandez à un coéquipier de créer une topic ou de vous mentionner dans une description ou un commentaire pour vérifier le Lien.
+
+2\. Vérifiez votre **Canal Microsoft Équipes**. 3\. Un message devrait apparaître instantanément via le bot **Flux de travail** Microsoft Équipes.
 
 # Nouveau workflow de statut - ISO 19650
 
@@ -12772,6 +13141,57 @@ Le statut de la publication du document. Le statut peut être l'un des suivants 
 - Icône du document
 - Nom de la révision du document
 
+# Onglet Documents dans une demande de validation
+
+L'onglet Documents d'une demande de validation se trouve sur la page de demande de validation de chaque validation. Dans l'onglet Documents, on peut voir les montants de validation des indications de validation soumises au nom des équipes d'examinateurs par un membre de chaque équipe d'examinateurs pour chaque document faisant partie de la validation.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/01-intro.png)
+
+## 1. **Actions sur les éléments sélectionnés**
+
+Voici à quoi peuvent ressembler les actions sur les éléments sélectionnés dans l'onglet Documents :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/02-selected-item-actions.png)
+
+Le tableau indique le statut des Documents dans cette validation spécifique. Dans la dernière colonne se trouve le bouton _soumettre_ ou _examiner_. Selon le statut du Document dans la validation.
+
+## 2. **Menu de droite**
+
+Le menu de droite peut être ouvert en cliquant sur l'icône d'information vers la droite de l'onglet Documents. Les Membres qui font partie de plusieurs Équipes d'examinateurs dans une étape de validation peuvent facilement soumettre des indications de validation pour plusieurs Documents au nom de chacune de leurs Équipes dans ce menu sans avoir à ouvrir chaque Document pour l'examiner. L'icône Info peut ressembler à ceci :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/03-right-menu.png)
+
+Cliquez [ici](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu) pour en savoir plus sur le menu de droite de l'onglet Documents.
+
+> **Remarque :** Sélectionnez un Document (en cliquant sur le titre) ou sélectionnez plusieurs Documents qui vous sont assignés pour commencer directement l'examen à partir de l'onglet Documents.
+
+## 3. **Tableau d'approbation des documents**
+
+### 3.1 **Colonnes**
+
+- **Nom :** Affiche le nom du Document et le type de Document avec l'icône.
+  En cliquant sur le titre, vous pouvez afficher directement le Document dans l'environnement de validation.
+- **Révision :** Affiche le nom de révision du Document
+- **# :** Affiche quelle version/révision du Document à l'intérieur de la validation il s'agit.
+  - Lorsqu'un Document est ajouté à une validation, il affiche son numéro de révision majeure et mineure qui peut ressembler à ceci :
+
+      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
+
+- Si la révision partagée sélectionnée a été publiée pour devenir la dernière révision publiée dans le Document en dehors de la demande de validation actuelle, cela peut ressembler à ceci :
+
+      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
+
+- **Étape « x » :** Affiche avec une barre quel est le Statut de l'étape.
+- **Approbation finale :** Cette colonne affiche l'approbation finale ; lorsqu'elle est activée, l'icône s'affiche en couleur.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/04-columns.png)
+
+### 3.2 Approbation finale
+
+Lorsque l'approbation finale n'a pas encore été donnée, cette colonne affiche « à venir ». Après qu'un Membre de l'Équipe d'approbation finale a soumis l'indication d'approbation pour un Document, le résultat final du Document s'affichera ici comme étant approuvé ou rejeté.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/05-final-approval.png)
+
 # Opérations sur les éléments de la Bibliothèque de Documents
 
 ## 1. **1. Opérations sur les dossiers**
@@ -12962,7 +13382,7 @@ Les types de tampon du menu prédéfini peuvent inclure les informations suivant
 
 ### 2.2 Contenu du type de tampon
 
-Dans le menu prédéfini, les tampons suivants peuvent être vus : _​_**Prénom** - Tout avant le premier espace du nom du compte
+Dans le menu prédéfini, les tampons suivants peuvent être vus : **Prénom** - Tout avant le premier espace du nom du compte
 
 **Deuxième prénom Nom** - Tout après le premier espace du nom du compte
 
@@ -13104,7 +13524,7 @@ Vous trouverez le bouton Nouvelle collection en haut à droite
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/02-new-item-actions.png)
 
-### 1.1 **​Nouvelle collection**
+### 1.1 **Nouvelle collection**
 
 Lorsque vous créez une nouvelle collection, vous serez invité à remplir le dialogue suivant.
 
@@ -14743,6 +15163,172 @@ Cliquez sur enregistrer pour enregistrer les modifications
 ## 3. **Nouveau flux de validation**
 
 La page des paramètres d'approbation n'est pas disponible pour les projets commençant par le nouveau flux de validation
+
+# Page des paramètres des gabarits de sujet
+
+> Gérez vos paramètres de gabarits de sujet
+
+La page des paramètres des gabarits de sujet se trouve en cliquant sur Configurer les gabarits de sujet sur la [page des paramètres de sujet](https://support.catenda.com/en/articles/14183429-topic-settings-page) qui peut être ouverte à partir du menu de navigation de gauche après l'ouverture de la page des sujets. _Accès requis :_ Administrateur du projet
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/01-intro.png)
+
+Sur la page des paramètres des gabarits de sujet, les gabarits de sujet pour chacune des listes de sujets du projet peuvent être configurés. Après leur création, les gabarits de sujet sont mis à disposition pour remplir automatiquement le texte et les champs des sujets lors de leur création. Les gabarits de sujet peuvent être configurés pour être disponibles dans les processus de création de sujet suivants : [Comment utiliser les gabarits de sujet dans les sujets généraux](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation) [Comment utiliser les gabarits de sujet dans les sujets de balisage](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document) [Comment utiliser les gabarits de sujet avec les approbations](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
+
+## 1. **Menu d'action**
+
+Cliquez sur le bouton plus vers le haut à droite pour ouvrir le menu d'action. Voici à quoi peut ressembler le menu d'action en haut à droite de la page des paramètres des gabarits de sujet :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/02-action-menu.png)
+
+Un menu déroulant donnera la possibilité de créer 3 types distincts de gabarit de sujet. Les gabarits de sujet sont distingués en trois types de gabarit différents car les variables qui peuvent être utilisées pour remplir automatiquement le texte et les champs des sujets lors de leur création diffèrent selon le processus de création de sujet qui est utilisé.
+
+## 2. **Options de recherche ou de filtrage**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/03-search-or-filter-options.png)
+
+### 2.1 **Recherche**
+
+_Recherche de texte -_ `search=<Search phrase>` Après avoir entré des caractères dans la barre de recherche ou de filtrage, le premier filtre suggéré change en recherche de texte.
+
+**Contenu pouvant être recherché** Nom du gabarit de sujet
+
+**Capitalisation** La recherche de texte n'est pas sensible aux caractères majuscules ou minuscules.
+
+**Quantité de caractères** Tout montant ou type de caractère peut être recherché.
+
+**Espaces** Les caractères d'espacement au début d'une phrase de recherche peuvent être recherchés mais sont supprimés des noms de gabarit, il n'y aura donc pas de résultats lors de la recherche. Les caractères d'espacement à la fin d'une phrase de recherche sont supprimés.
+
+### 2.2 **Filtrage dans le menu de filtrage**
+
+Les gabarits de sujet sont filtrés soit par l'un des statuts possibles Cliquez sur le menu Statut dans le menu de filtrage pour masquer le statut de l'option qui n'est pas filtré. Il est possible d'appuyer sur le X à droite dans la barre de recherche pour supprimer les balises de filtrage de la barre, mais cela n'a aucun effet. Il est seulement possible de filtrer les gabarits avec le filtre Actif ou Archivé.
+
+_Actif_ - `status=active` - Par défaut Les gabarits de sujet qui peuvent être activement utilisés et configurés pour générer des sujets.
+
+_Archivé_ - `status=archived` Les gabarits de sujet qui ne sont pas disponibles pour être utilisés ou configurés dans le processus de génération de sujet.
+
+## 3. **Tableau des gabarits**
+
+Une fois que vous accédez à votre page de paramètres des gabarits de sujet, un aperçu des gabarits de sujet existants qui ont été créés précédemment peut être consulté. Voici à quoi peut ressembler le tableau des gabarits de sujet :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/04-templates-table.png)
+
+Cliquez [ici](https://support.catenda.com/en/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda.
+
+### 3.1 **Contenu des lignes**
+
+Cliquez sur une ligne de sujet pour ouvrir la page de contenu du gabarit de sujet pour ce gabarit.
+
+### 3.2 **Colonnes**
+
+Toutes les colonnes du tableau des gabarits de sujet sont activées par défaut. En fonction de l'ordre des colonnes configuré, les premières colonnes sont affichées tandis que le tableau peut être faire défiler latéralement pour afficher les autres colonnes activées. L'ordre par défaut et le paramètre de visibilité des colonnes sur la page des documents sont les suivants :
+
+Nom Type de gabarit Créé par Créé le Statut Liste de sujets
+
+## 4. **Créer un nouveau gabarit de sujet général**
+
+Peut être utilisé sur les sujets créés à partir de la section Sujet général. Voici les différentes actions que vous devez suivre et les variables que vous pouvez entrer lors de la création d'un nouveau gabarit de sujet général :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/05-create-a-new-general-topic-template.png)
+
+1. **Liste de sujets** : La liste de sujets dans laquelle le gabarit de sujet général peut être généré.
+1. **Nom du gabarit** : Le nom du gabarit peut être sélectionné dans le menu déroulant lors de la création, ou mise à jour dans les paramètres plus tard si nécessaire.
+1. **Titre du sujet** : Le titre du sujet résultant après création du sujet à partir du gabarit de sujet général.
+   Survolez votre souris sur l'icône "?" situé en haut à droite de la zone de titre pour voir comment vous pouvez personnaliser le titre de votre gabarit de sujet avec la variable disponible : `topicCreator`.
+
+    <div class="intercom-container intercom-align-center"><img height="184" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-272165f584d2.png" style="height: auto;" width="300"/></div>
+
+1. **Statut du sujet** : Le statut du sujet résultant après création du sujet à partir du gabarit de sujet général.
+1. **Type de sujet** : Le type de sujet résultant après création du sujet à partir du gabarit de sujet général.
+1. **Milestone** : Le milestone du sujet résultant après création du sujet à partir du gabarit de sujet général.
+1. **Assigné à** : Le responsable du sujet résultant (membre du projet ou équipe) après création du sujet à partir du gabarit de sujet général. Vous pouvez utiliser ici la variable `Topic Creator` pour remplir automatiquement ce champ avec le créateur du sujet si nécessaire.
+
+    <div class="intercom-container intercom-align-center"><img height="94" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-c7f3d7220c54.png" style="height: auto;" width="150"/></div>
+
+1. **Demandé par** : Le demandeur du sujet résultant après création du sujet à partir du gabarit de sujet général. Vous pouvez utiliser ici la variable `Topic Creator` pour remplir automatiquement ce champ avec le créateur du sujet si nécessaire.
+
+    <div class="intercom-container intercom-align-center"><img height="93" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-43e4955bfdd8.png" style="height: auto;" width="150"/></div>
+
+1. **Étiquettes** : Les étiquettes du sujet résultant après création du sujet à partir du gabarit de sujet général.
+1. **Description** : La description du sujet résultant après création du sujet à partir du gabarit de sujet général. Cette section supporte le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle.
+    Survolez votre souris sur l'icône "?" située en haut à droite de la zone de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et lier les sujets existants) et les variables (telles que `topicCreator` dans le cas du gabarit de sujet général).
+
+     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+
+Une fois que vous avez terminé la configuration de votre nouveau gabarit de sujet général, vous pouvez cliquer sur le bouton "Enregistrer" en bas à droite.
+
+## 5. **Nouveau gabarit de sujet pour les documents**
+
+Peut être utilisé sur les sujets créés à partir de balisages sur les documents. Voici les différentes actions que vous devez suivre et les variables que vous pouvez entrer lors de la création d'un nouveau gabarit de sujet pour les documents :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/06-new-document-topic-template.png)
+
+1. **Liste de sujets** : La liste de sujets dans laquelle le gabarit de sujet pour les documents peut être généré.
+1. **Nom du gabarit** : Le nom du gabarit peut être sélectionné dans le menu déroulant lors de la création d'un balisage, ou mise à jour dans les paramètres plus tard si nécessaire.
+1. **Titre du sujet** : Le titre du sujet résultant après création du sujet à partir du gabarit de sujet pour les documents.
+   Survolez votre souris sur l'icône "?" située à droite de la zone de titre pour voir comment vous pouvez personnaliser le titre de votre gabarit de sujet pour les documents avec les variables disponibles : `documentName`, `fileName`, `markupName` et `topicCreator`.
+
+    <div class="intercom-container intercom-align-center"><img height="231" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-dbe5030f1082.png" style="height: auto;" width="300"/></div>
+
+1. **Statut du sujet** : Le statut du sujet résultant après création du sujet à partir du gabarit de sujet pour les documents.
+1. **Type de sujet** : Le type de sujet résultant après création du sujet à partir du gabarit de sujet pour les documents.
+1. **Milestone** : Le milestone du sujet résultant après création du sujet à partir du gabarit de sujet pour les documents.
+1. **Assigné à** : Le responsable du sujet résultant (membre du projet ou équipe) après création du sujet à partir du gabarit de sujet pour les documents. Différentes variables peuvent être utilisées ici, telles que `Document owner`, `File uploader`, `Markup creator`, `Publisher` et `Topic creator`.
+
+    <div class="intercom-container intercom-align-center"><img height="228" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b3156a6c2724.png" style="height: auto;" width="150"/></div>
+
+1. **Demandé par** : Le demandeur du sujet résultant après création du sujet à partir du gabarit de sujet pour les documents. Différentes variables peuvent être utilisées ici, telles que `Document owner`, `File uploader`, `Markup creator`, `Publisher` et `Topic creator`.
+
+    <div class="intercom-container intercom-align-center"><img height="171" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-0c4680dfae06.png" style="height: auto;" width="150"/></div>
+
+1. **Étiquettes** : Les étiquettes du sujet résultant après création du sujet à partir du gabarit de sujet pour les documents. Notez que vous pouvez extraire les étiquettes du document à partir duquel vous avez créé le balisage en utilisant la variable `Labels from documents` ci-dessous :
+
+    <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
+
+1. **Description** : La description du sujet résultant après création du sujet à partir du gabarit de sujet pour les documents. Cette section supporte le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle.
+    Survolez votre souris sur l'icône "?" située en haut à droite de la zone de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et lier les sujets existants) et les variables (telles que `documentName`, `fileName`, `markupName` et `topicCreator` dans le cas du gabarit de sujet pour les documents).
+
+     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+
+Une fois que vous avez terminé la configuration de votre nouveau gabarit de sujet pour les documents, vous pouvez cliquer sur le bouton "Enregistrer" en bas à droite.
+
+## 6. **Nouveau gabarit de sujet pour les approbations**
+
+Peut être utilisé sur les sujets générés après la fermeture d'un circuit d'approbation. _Accès requis :_ Statuts partagés activés (onglets Workspace et publié visibles sur les pages des documents et des modèles)
+
+> **Note :** Cette option n'apparaît que si les workflows de statut actuel et de validation sont en cours d'utilisation. Les projets créés après le 2 octobre 2025 utilisent automatiquement les workflows de statut actuel et de validation.
+
+Voici les différentes actions que vous devez suivre et les variables que vous pouvez entrer lors de la création d'un nouveau gabarit de sujet pour les approbations :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/07-new-approval-topic-template.png)
+
+1. **Liste de sujets** : La liste de sujets dans laquelle le gabarit de sujet pour les approbations sera généré après la fermeture d'un circuit d'approbation.
+1. **Nom du gabarit** : Le nom du gabarit d'un gabarit de sujet pour les approbations peut être sélectionné dans le menu déroulant d'un modèle de circuit d'approbation, ou mise à jour dans les paramètres plus tard si nécessaire.
+1. **Titre du sujet** : Le titre du sujet résultant après la fermeture du circuit d'approbation associé.
+   Survolez votre souris sur l'icône "?" située à droite de la zone de titre pour voir comment vous pouvez personnaliser le titre de votre gabarit de sujet pour les approbations avec les variables disponibles : `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` et `topicCreator`.
+
+    <div class="intercom-container intercom-align-center"><img height="272" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-6038b1d41fed.png" style="height: auto;" width="300"/></div>
+
+1. **Statut du sujet** : Le statut du sujet résultant après la fermeture du circuit d'approbation associé.
+1. **Type de sujet** : Le type de sujet résultant après la fermeture du circuit d'approbation associé.
+1. **Milestone** : Le milestone du sujet résultant après la fermeture du circuit d'approbation associé.
+1. **Assigné à** : Le responsable du sujet résultant (membre du projet ou équipe) lors de la fermeture du circuit d'approbation associé. Différentes variables peuvent être utilisées ici, telles que `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.
+
+    <div class="intercom-container intercom-align-center"><img height="182" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b012d92ee132.png" style="height: auto;" width="150"/></div>
+
+1. **Demandé par** : Le demandeur du sujet résultant après la fermeture du circuit d'approbation associé. Différentes variables peuvent être utilisées ici, telles que `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.
+
+    <div class="intercom-container intercom-align-center"><img height="181" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d7986adac70c.png" style="height: auto;" width="150"/></div>
+
+1. **Étiquettes** : Les étiquettes du sujet résultant après la fermeture du circuit d'approbation associé. Notez que vous pouvez extraire les étiquettes du document à partir duquel vous avez créé le balisage en utilisant la variable `Labels from documents` ci-dessous :
+
+    <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
+
+1. **Description** : La description du sujet résultant après la fermeture du circuit d'approbation associé. Cette section supporte le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle.
+    Survolez votre souris sur l'icône "?" située en haut à droite de la zone de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et lier les sujets existants) et les variables (telles que `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) dans le cas du gabarit de sujet pour les approbations).
+
+     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+
+Une fois que vous avez terminé la configuration de votre nouveau gabarit de sujet pour les approbations, vous pouvez cliquer sur le bouton "Enregistrer" en bas à droite.
 
 # Page des paramètres du document
 
@@ -17315,6 +17901,146 @@ Les applications suivantes vous permettent de vous connecter avec Catenda depuis
 
 <div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; width: 203px; padding: 8px;"><h1 id="h_b26bc0d247">Catenda</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4c564ea3f"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_6f3aaeddbf"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d2798abab2"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_4878236011"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_ab0da079df"><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/10741601-add-to-home-screen">Ajouter à l'écran d'accueil</a></i></h3><p>Ordinateur, Android, iPhone &amp; iPad</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Même que l'expérience du navigateur </p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Article d'aide Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/10741601-add-to-home-screen">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3ec891a7da"><i><a class="intercom-content-link" href="https://apps.apple.com/us/app/catenda-site/id1449579790">Catenda Site</a></i></h3><p>Android</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Apple App Store</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_81aa6fa006"><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile">Catenda Site</a></i></h3><p>iPhone &amp; iPad</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play Store</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site">Article</a></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a8d741acc5">​<i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/utS0DhQGTpDhRDKGZ996qmoflx3pvQV5SVfU0xGv2Mfv">Connecteur de bureau</a></i></h3><p>Windows</p><p>(Bêta pour les images dorées)</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.0.8.0</i><br/>(<i>v1.0.8.0 </i>Bêta)</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda<br/>(Bêta sur demande uniquement)</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msix<br/>(.msi Bêta)</p><p>(.exe Bêta)</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/8358861-catenda-desktop-connector">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_e793164bce">Autodesk</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_31004c63d8"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5ce0f8be3f"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_169dc77881"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8106539230"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_70b0582208"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/rUVzns3zKHLyShlcMXXGc3xkYslHfJKoShbnWYxhm6cD">Plugin Revit</a></i></h3><p>De : Revit 2022 <br/>À : Revit 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.15</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msi</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/4670334-catenda-revit-plugin">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a9dd339be4"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/W8K8xWt63mGXGLZv1zLIxEIOe1jFi4WtVfC58raH2hEI">Plugin Navisworks</a></i></h3><p>Jusqu'à Navisworks v.2027</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.7.1</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/5085987-catenda-hub-navisworks-plugin">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_779ed65172">Nemetschek</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b7e4b38efd"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c79c8e29ad"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_357b652053"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_07b38dbb2b"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f229803e80"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7JItYFSfZavXxFnUEnhlFlR5fQ19VzOQE0CADd52HvkE">Plugin Archicad</a></i></h3><p>Version Windows, <br/>De : Archicad 23<br/>À : Archicad 29</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b99682ebca"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SDSxROsDGfAwTSJ0PVsSqZT8NuipjJbcOwfhPhPli4Ny">Plugin Archicad</a></i></h3><p>Version MacOS, <br/>De : Archicad 23 <br/>À : Archicad 29 </p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pkg</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d780c5e605"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/en/articles/6988148-solibri-models-and-documents-integration">Intégration Solibri</a></i></h3><p>Documents OpenCDE</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Article d'aide Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6988148-solibri-models-and-documents-integration">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_daa662000f"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/en/articles/4670340-solibri-issues-integration">Intégration Solibri</a></i></h3><p>Connecteur BCF Live</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Article d'aide Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/4670340-solibri-issues-integration">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_f992bd97b3">Trimble</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3891575c63"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b89832736c"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b78b005f74"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa34a2fbef"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b94a406051"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/nwugQqVTOQoPVpH8JwIPyCulWUn7vqOcajZZBbno9g3g">Plugin Tekla</a></i></h2><p>Tekla 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.5.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b33a50e5b5"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Og5LKde1lxhOH99ClCFDJmf7hjEdb0Xbd7llaAUBzDm6">Plugin Tekla</a></i></h2><p>Tekla 2025</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fc9d6fa9b1"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Ej8wr3KjQLJqc0SwzGkYSsJEIv7vIGRmzsgTNuAVVC6s">Plugin Tekla</a></i></h2><p>Tekla 2024</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0e1f7db784"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SOynwGkPMjXsTvgWtMBPhxDGamcrkYySRqRBJgU8mVJc">Plugin Tekla</a></i></h3><p>Tekla 2023</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.4.0</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8d634ac8fb"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd">Plugin Tekla</a></i></h3><p>Tekla 2022</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Article</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4832576e8"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL">Plugin Tekla</a></i></h3><p>Tekla 2021</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_192e680211"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy">Plugin Tekla</a></i></h3><p>Tekla 2020</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_27fdc5fda6"><b>Microsoft</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_587fa9f51a"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b320dc47be"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_990fcd4d5d"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7188141d98"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c711a5c74b"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/4io1Pw1ygOMqWjhPnLOboYtmSU783IsOglGAJrhct4vu">Connecteur PowerBI</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Collection Catenda</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/de/articles/5784721-integration-power-bi">Article</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fd338df316"><i><a class="intercom-content-link" href="https://appsource.microsoft.com/en-us/product/office/WA200005981">Application SharePoint</a></i></h3></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.1.0.0</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Microsoft Appsource</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web<br/>.pkx</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_0cd8f009f8">SimpleBIM</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_525aec57f8"><b>Version</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_a624e9a7f5"><b>Type de lien</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_88ed17edf2"><b>Type de fichier</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f78109e44"><b>Article</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa79838047"><i><a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">Module complémentaire SimpleBIM</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v11.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Pages d'assistance SimpleBIM</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p><p>-&gt; .exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_74b2d2ca9e"><b>VREX</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_2f4ff908c0"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c57bb5ecf7"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_9401a3f00f"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_33112159d7"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8c731251bc"><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">VREX</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Intégrations VREX</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">Article</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ae35fa7bb8"><b>12Build</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0c7d2dcc29"><b>Version</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_35f44b2f33"><b>Type de lien</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c7ea788c95"><b>Type de fichier</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5c5c0bdbe3"><b>Article</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_be5086c82b"><i><a class="intercom-content-link" href="https://12build.com/en/">12Build</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Pages d'assistance 12Build <br/></p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.12build.com/en/">Article</a></p></td></tr><tr><td style="background-color: #e3e7fa; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_5d4548e65e"><b>Rebro</b></h1></td><td style="background-color: #e3e7fa; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c37aa3af9f"><b>Version</b></h2></td><td style="background-color: #e3e7fa; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_3c677abfa0"><b>Type de lien</b></h2></td><td style="background-color: #e3e7fa; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_305501cb46"><b>Type de fichier</b></h2></td><td style="background-color: #e3e7fa; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f4735ad593"><b>Article</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f2b5a0709"><i><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Rebro</a></i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Pages d'assistance NYK Systems <br/></p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Page Web</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Article</a><br/>​</p></td></tr></tbody></table></div>
 
+# Points de vue 2D et 3D
+
+Les points de vue 2D et 3D peuvent être ajoutés en tant que [commentaire d'un sujet](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_f76b44d3ca). Les captures sont des moyens polyvalents de communiquer sur les informations 2D et 3D car elles contiennent non seulement des informations visuelles mais peuvent également être utilisées pour décrire un endroit et un moment dans un document ou un modèle. Les informations enregistrées dans les captures vous permettent de collaborer avec des informations 2D et 3D car vous pourrez lire votre capture dans n'importe lequel de vos services compatibles BCF et IFC.
+
+Voici à quoi peut ressembler une capture 3D :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/01-intro.png)
+
+La capture ci-dessous avait la configuration suivante au moment de la prise de la capture : la capture a été recréée avec les révisions originales. Les 7 documents de modèle connectés à la capture ont été chargés dans la visionneuse 3D. Les 5 objets sélectionnés des documents de modèle ont été sélectionnés, 2 documents non connectés aux modèles ont été chargés, dont un IFC et un nuage de points. Les captures 2D auront les mêmes boutons mais avec une image de la visionneuse 2D jointe.
+
+## 1. **Création d'une capture**
+
+Si vous avez un modèle chargé en 3D, vous pouvez cliquer sur le bouton plus à gauche du champ de commentaire du sujet pour joindre une capture 3D à votre commentaire. Si vous avez la visionneuse 2D ouverte, vous pouvez cliquer sur le bouton plus à gauche du champ de commentaire du sujet pour joindre une capture 2D à votre commentaire. Une capture est automatiquement créée si vous avez chargé quelque chose en 2D ou 3D et que vous créez un nouveau sujet. Cliquez [ici](https://support.catenda.com/en/articles/10345863-snapshots) pour en savoir plus sur les captures.
+
+## 2. **Images de la visionneuse**
+
+Les captures sont le meilleur moyen de créer des images de haute qualité ou des rendus à partir de la visionneuse Catenda Hub pour les raisons suivantes :
+
+- Les images de capture peuvent être téléchargées depuis l'[aperçu pièce jointe](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8).
+- Les images de capture peuvent avoir des résolutions plus élevées que simplement prendre une capture d'écran de la visionneuse.
+- Les images de capture ont des arrière-plans transparents. Avec les captures 3D, l'image contient uniquement des pixels là où se trouvent des objets en 3D. Avec les captures 2D, l'image contient uniquement des pixels là où se trouvent des lignes en 2D.
+
+### 2.1 **Taille de l'image**
+
+La taille de l'image jointe dépend de la taille de la visionneuse et du pourcentage de zoom du navigateur. Le nombre de pixels dans une image de capture dépend de la taille de la visionneuse, du pourcentage de zoom du navigateur et de l'échelle d'affichage de votre système d'exploitation. La plus grande image que j'ai pu générer jusqu'à présent a été de 6417 pixels par 11113 pixels. Pour créer une capture aussi grande, j'avais les paramètres suivants :
+
+- Affichage moniteur 4K.
+- Panneau de contenu et panneau 3D visibles.
+- Panneau de contenu aussi petit que possible.
+- Navigateur en plein écran.
+- Échelle du navigateur 10 %
+- Échelle d'affichage dans Windows 100 %
+
+ces paramètres sont très lourds pour le système et votre PC risque de ne pas pouvoir les gérer. Vous devrez peut-être ajuster ces paramètres pour les adapter à vos spécifications.
+
+## 3. **Icônes de lecture**
+
+Les captures contiennent des informations sur le moment où vous avez créé la capture.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/02-play-icons.png)
+
+Si un objet a été masqué au moment de la création, l'objet avec cet ID sera masqué lors de la recréation de la capture. Si un objet a été isolé, l'objet avec cet ID sera affiché tandis que les objets non isolés seront masqués. Cela s'applique également à tous les objets avec de nouveaux ID qui pourraient être ajoutés aux versions plus récentes du modèle.
+
+### 3.1 **Refaire la capture**
+
+Les captures sont excellentes pour montrer aux gens ce que vous regardez car ils pourront recréer les mêmes vues non seulement dans Catenda Hub mais aussi dans leur environnement.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/03-recreate-snapshot.png)
+
+Les captures peuvent être recréées en les lisant à la fois dans Catenda Hub et dans nos plugins. Dans Catenda Hub, la capture déplacera la caméra au bon endroit de notre visionneuse. Dans les plugins, la visionneuse du logiciel hôte s'affichera.
+
+- En cliquant sur ce bouton, la capture sera recréée avec le même modèle et les dernières révisions chargées dans la visionneuse 3D.
+- les documents de nuage de points ou IFC connectés seront chargés
+- La caméra de la visionneuse 3D se déplacera à l'emplacement défini dans la capture.
+- Les plans de découpe de la capture seront recréés
+- Les objets qui ont été sélectionnés dans la capture seront sélectionnés
+- Les couleurs qui ont été définies dans les sélections recevront leurs couleurs spécifiées
+
+### 3.2 **Refaire la capture avec les révisions originales**
+
+Cliquez sur ce bouton pour recréer la capture avec le modèle original.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/04-recreate-snapshot-with-original-revisions.png)
+
+Les révisions du modèle qui étaient actives dans la visionneuse 3D au moment de la création de la capture sont chargées dans la visionneuse 3D lorsque ce bouton est cliqué.
+
+## 4. **Icônes de contenu**
+
+En bas à droite de la capture, vous trouverez des icônes contenant des informations sur le contenu de la capture.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/05-content-icons.png)
+
+Si le panneau de contenu est réduit, vous pouvez trouver certaines de ces icônes de contenu dans le menu d'action :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/06-content-icons.png)
+
+Le menu d'action se trouve vers le bas à droite de la capture où il n'y a pas assez d'espace pour afficher toutes les icônes de contenu.
+
+### 4.1 **Sélecteur de modèle**
+
+Si la visionneuse 3D est ouverte, le menu de chargement du modèle sera disponible
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/07-model-picker.png)
+
+- Les modèles avec une coche dans ce menu seront chargés lorsque la capture sera lue.
+
+    <div class="intercom-container"><img height="24" src="https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/inline-b248400a1359.png" style="height: auto;" width="30"/></div>
+
+- Les modèles avec un plus devant eux seront ajoutés à l'ensemble des modèles avec coche après avoir appuyé sur Enregistrer.
+
+    <div class="intercom-container"><img height="25" src="https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/inline-ca568d75479a.png" style="height: auto;" width="30"/></div>
+
+- Les modèles avec un moins devant eux seront supprimés de l'ensemble des modèles avec coche après avoir appuyé sur Enregistrer.
+
+    <div class="intercom-container"><img height="30" src="https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/inline-ff3494b6d9f8.png" style="height: auto;" width="30"/></div>
+
+- En fonction des paramètres de visibilité des objets de la capture, les modèles ajoutés peuvent être complètement masqués. Même s'ils ne sont pas visibles, vous devriez voir qu'ils sont chargés lorsque le sujet est lu.
+- Les modèles qui sont activés lors de l'ouverture de ce menu reflètent les modèles actuellement chargés dans la visionneuse 3D. Pour ajouter/supprimer facilement un ensemble de modèles, vous pouvez créer un signet, lire le signet, aller à la capture, cliquer sur son menu d'action et appuyer sur Enregistrer dans le menu de chargement du modèle.
+- Si un modèle dans votre capture a le même GUID IFCPROJECT qu'un modèle dans la section des modèles, les modèles seront automatiquement liés.
+
+Voici un article de BuildingSMART qui décrit comment cela se fait dans Revit [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/08-model-picker.png)
+
+### 4.2 **Afficher les objets sélectionnés**
+
+Sélectionnez les objets qui sont sélectionnés dans les captures, dans la visionneuse 3D.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/09-show-selected-objects.png)
+
+Affiche le nombre d'objets sélectionnés dans la capture
+
+### 4.3 **Documents liés**
+
+Cliquez ici pour charger les modèles de la capture en plus des modèles qui existent déjà dans la visionneuse.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/10-linked-documents.png)
+
+Affiche le nombre de modèles chargés dans la capture.
+
+### 4.4 **Définir la position de la caméra**
+
+Déplacez la caméra à la position de la capture dans la visionneuse 3D.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/11-set-camera-position.png)
+
+Si vous avez déplacé votre vue 3D après la lecture de la capture, vous pouvez cliquer sur ce bouton pour revenir à la position de la capture.
+
+## 5. **Aperçu de l'image**
+
+Si vous survolez l'image d'une capture 2D ou 3D, une loupe apparaît. Cela peut ressembler à la capture ci-dessous :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/12-image-pop-out.png)
+
+Après l'envoi de la capture, l'image qui y est connectée peut être [agrandie](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) pour voir son contenu dans un format plus grand et la télécharger.
+
+## 6. **Suppression d'une capture**
+
+Il n'est pas possible de supprimer une capture jointe à un commentaire. Si vous souhaitez supprimer la capture du sujet, vous devrez supprimer l'intégralité du commentaire.
+
 # Qu'est-ce qu'un topic dans Catenda?
 
 La base de tout ce qui est fait, peu importe ce que c'est, est la communication. Sans communication, de grandes choses peuvent être réalisées mais personne ne le saura. Dans Catenda, cette communication prend la forme d'un topic. Les topics sont un enregistrement d'une communication qui a eu lieu.
@@ -17732,13 +18458,77 @@ Avec la convention de nommage, il est demandé ou souhaité que tout soit nommé
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-a2fc3b4afcfe.png" style="height: auto;" width="1920"/></div>
 
-   Pour ce faire, vous pouvez afficher la colonne "Name de Revision", qui affiche le nom original.
+Pour ce faire, vous pouvez afficher la colonne "Name de Revision", qui affiche le nom original.
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-1b1cee11c3c8.png" style="height: auto;" width="1920"/></div>
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-38d3286a0f80.png" style="height: auto;" width="1920"/></div>
 
 > **Remarque :** Conseil : Si cela n'a pas été modifié, chaque Membre voit la même vue par défaut. Si vous activez/désactivez différentes colonnes, ce paramètre n'est enregistré que pour vous et non pour les autres Membres du projet.
+
+# Suivi des informations par liaison
+
+Il existe plusieurs façons de lier des parties de Catenda Hub à d'autres parties de Catenda Hub. Si vous consultez les panneaux d'information appropriés à différents endroits, vous pourrez découvrir quelles informations ont été liées à l'élément que vous consultez. Cet article décrit les bonnes pratiques pour s'assurer que vos éléments ont des éléments liés. Les éléments peuvent être liés manuellement en cliquant sur le lien à différents endroits. Dans cet article, vous trouverez également des conseils et astuces pour travailler de manière à garantir que tout est automatiquement lié sans avoir à cliquer sur le lien à chaque fois.
+
+## 1. **Liaison des sujets**
+
+Vous pouvez découvrir à quoi un sujet est lié dans le [panneau droit](https://support.catenda.com/en/articles/8053299-issue-right-panel) d'un sujet
+
+### 1.1 **Liaison d'objets aux sujets**
+
+**Manuel** Cliquez [ici](https://support.catenda.com/en/articles/8053299-issue-right-panel#h_758f17abbc) pour découvrir comment lier les sujets aux objets
+
+**Automatique** Si vous avez des objets 3D sélectionnés dans la capture d'écran 3D lorsque vous soumettez le sujet, ces objets seront liés au sujet.
+
+### 1.2 **Liaison de documents aux sujets**
+
+**Manuel** Cliquez [ici](https://support.catenda.com/en/articles/4670250-linking-a-document-to-an-issue) pour découvrir comment lier les documents aux sujets
+
+### 1.3 **Liaison de sujets à d'autres sujets**
+
+**Manuel** Cliquez [ici](https://support.catenda.com/en/articles/8053299-issue-right-panel#h_edf2cb07a8) pour découvrir comment lier un sujet à un autre sujet
+
+**Automatique** Si vous utilisez # pour pointer vers un sujet dans le commentaire ou une description d'un sujet, ce sujet sera lié à ce sujet et ce sujet sera lié à ce sujet. Ce lien peut être modifié ultérieurement.
+
+## 2. **Liaison de documents**
+
+### 2.1 **Liaison de sujets aux documents**
+
+**Manuel** Si vous créez un sujet à partir de l'[onglet annotations](https://support.catenda.com/en/articles/5001165-annotations-on-documents) dans le panneau d'information droit d'un document et l'envoyez, le document sera lié à ce sujet.
+
+**Automatique** Si vous créez une [annotation](https://support.catenda.com/en/articles/5001165-annotations-on-documents) et l'ajoutez à un sujet, le document sera automatiquement lié à ce sujet.
+
+### 2.2 **Liaison d'objets aux documents**
+
+**Manuel** Cliquez [ici](https://support.catenda.com/en/articles/4670297-linking-documents-to-objects) pour découvrir comment lier les documents aux objets.
+
+## 3. **Liaison d'objets**
+
+### 3.1 **Liaison du sujet aux objets**
+
+**Manuel** Cliquez [ici](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) pour découvrir comment lier les objets aux sujets
+
+**Automatique**
+
+1. Charger un modèle en 3D et sélectionner un objet.
+1. Soit
+
+Cliquez sur le bouton plus dans la [section des sujets](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) de la section inspection du panneau d'information.
+
+ou
+
+Créez une nouvelle section de sujet en cliquant sur nouveau sujet dans la page des sujets du panneau de contenu.
+
+1. Donnez un titre au sujet et envoyez-le
+1. Notez que votre sujet aura les objets sélectionnés liés
+
+### 3.2 **Liaison de documents aux objets**
+
+Vous pouvez uniquement ajouter des objets aux documents et non l'inverse, voir [ici](#h_41401e4836).
+
+## 4. **Liaison autant que possible aussi facilement que possible**
+
+Charger un modèle dans la Visionneuse 3D et sélectionner un objet. Créer une sélection pour les objets dans la section des sélections du panneau d'information. Créer un nouveau sujet Donner un titre au sujet. Lier un document au sujet. Envoyer le sujet. Aller au document et lier les objets au document.
 
 # Suivre les annotations avec les markups
 
@@ -18047,6 +18837,35 @@ Vous avez également plusieurs onglets auxquels vous pouvez accéder :
 
 A. [Menu](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) B. [Topics](https://support.catenda.com/en/articles/7734073-issues-page-catenda-site) C. [2D/3D](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site) D. [Documents](https://support.catenda.com/en/articles/7774637-documents-catenda-site)
 
+# Test de collision dans Navisworks
+
+## 1. Test de collision et création de viewpoint BCF à l'aide du plugin
+
+1. Configurez Clash Detective et exécutez un test de clash.
+1. Parcourez les clashes dans NW.
+
+a. Donnez des noms si nécessaire
+
+b. Ajustez et enregistrez les viewpoints à l'aide des commandes **Focus on clash** et **Save viewpoint**
+
+c. Groupez ensemble les clashes de type similaire
+
+1. Créez un rapport sous forme de viewpoints. Activez **Preserve result highlighting**
+1. Ces viewpoints apparaissent dans l'onglet clashes du plugin
+1. Créez un problème en sélectionnant un ou plusieurs clash
+
+a. Donnez un titre au problème
+
+b. Cliquez sur ajouter un problème.
+
+1. Pour obtenir une miniature significative :
+
+a. Sélectionnez clash dans Clash Detective
+
+b. Sélectionnez le même clash dans l'onglet **Clashes**.
+
+c. Cliquez sur ajouter un problème.
+
 # Téléchargement d'une nouvelle révision de document
 
 En téléchargeant une nouvelle révision d'un document au lieu de créer un nouveau document, toutes les versions d'un document peuvent être regroupées au même endroit. Il est possible de télécharger de nouvelles révisions vers un document à la fois avec le bouton d'action. _Accès requis :_ Accès en écriture au document
@@ -18306,6 +19125,88 @@ Après avoir téléchargé et installé votre application mobile, entrez votre a
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/p552jtap/02-sign-in.png)
 
 Vous êtes connecté ! 🎉 Après vous être connecté, vous serez redirigé vers la [page du projet](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) où vous pouvez sélectionner votre projet.
+
+# Utilisation de modèles de sujets avec les approbations
+
+> Appliquer un modèle de sujet d'approbation à un modèle de circuit de validation
+
+Les modèles de sujets d'approbation peuvent être configurés à la fois sur la [page des paramètres du modèle de sujet](https://support.catenda.com/en/articles/14076010-topic-template-settings-page) et en cliquant sur le menu déroulant du modèle de sujet dans le menu d'approbation final de la nouvelle page de circuit de validation d'approbation et en sélectionnant créer un nouveau modèle de sujet. _Accès requis :_ Administrateur de projet Page des paramètres du modèle de sujet
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/01-intro.png)
+
+OU Configurer les circuits de validation
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/02-intro.png)
+
+Créer un nouveau modèle de sujet sur la nouvelle page de circuit.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/03-intro.png)
+
+> **Important :** ℹ️ Pour qu'un sujet soit généré à la suite de la fermeture d'une approbation, l'approbation **doit contenir une annotation**. Après la fermeture de l'approbation configurée, pour chaque annotation de l'approbation, un sujet séparé est généré.
+
+1. Lorsqu'un nouveau circuit de validation d'approbation est créé.
+   Vous [créez un nouveau circuit de validation d'approbation](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow) modèle, accédez au bas de la page jusqu'à ce que vous atteigniez la section "Approbation finale".
+   Ici, vous pouvez lier un modèle de sujet d'approbation pour chaque état d'examen (et associer le statut final du document).
+
+    <div class="intercom-container intercom-align-center"><img height="254" src="https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/inline-e90e5114173a.png" style="height: auto;" width="500"/></div>
+
+1. Assurez-vous d'avoir rempli tous les champs nécessaires précédents du modèle de circuit de validation d'approbation et cliquez sur le bouton "Soumettre".
+1. Effectuez un circuit de validation d'approbation.
+   Après que tous les examens ont été effectués et une fois que le circuit de validation d'approbation est fermé, les sujets d'approbation associés seront automatiquement générés et remplis automatiquement avec tous les champs qui ont été définis dans les paramètres du modèle de sujet associé, accessibles à partir de la [page des paramètres du modèle de sujet](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).
+   Pour qu'un sujet soit généré à la suite de la fermeture d'une approbation, l'approbation doit contenir une annotation.
+   Si un modèle de sujet d'approbation est configuré pour le circuit de validation que l'approbation suit, les sujets sont générés lorsque l'approbation est fermée.
+   Pour chaque annotation de l'approbation, un sujet séparé est généré.
+
+# Utilisation de modèles de sujets lors de l'enregistrement de sujets de balisage
+
+> Appliquer un modèle de sujet de document lors de la création d'un balisage à partir d'un document
+
+Les modèles de sujets de document peuvent être configurés sur la [page de paramètres de modèle de sujet](https://support.catenda.com/en/articles/14076010-topic-template-settings-page). _Accès requis :_ Administrateur de projet
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/01-intro.png)
+
+1. Tout d'abord, créez une annotation sur un document dans la visionneuse de documents.
+1. Enregistrez votre balisage en tant que sujet.
+   _Accès requis :_ Accès en écriture à une liste de sujets.
+1. Une fenêtre contextuelle s'affichera pour créer un sujet à partir de votre balisage.
+
+    <div class="intercom-container intercom-align-center"><img height="541" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-9980053aae3a.png" style="height: auto;" width="500"/></div>
+
+1. Ensuite, sélectionnez la liste de sujets appropriée dans laquelle vous souhaitez créer votre sujet.
+   _Accès requis :_ Accès en écriture à la liste de sujets.
+1. Selon la liste de sujets que vous avez sélectionnée, si des modèles de sujets de document sont configurés par un administrateur, ils peuvent être disponibles et suggérés dans la liste déroulante Modèle.
+
+    <div class="intercom-container intercom-align-center"><img height="540" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-b8fd0218f860.png" style="height: auto;" width="500"/></div>
+
+1. Sélectionnez le modèle approprié que vous souhaitez utiliser.
+   Dès que vous sélectionnez le modèle approprié, le nouveau sujet sera automatiquement rempli avec tous les champs qui ont été définis dans les paramètres de modèle de sujet associés, accessibles à partir de la [page de paramètres de modèle de sujet](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).
+
+    <div class="intercom-container intercom-align-center"><img height="814" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-50d2237a44b3.png" style="height: auto;" width="500"/></div>
+
+1. Vous pouvez finalement enregistrer votre sujet en cliquant sur le bouton "Enregistrer en tant que sujets".
+
+# Utilisation des modèles de sujets dans une liste de sujets
+
+> Appliquer un modèle de sujet général lors de la création d'un sujet
+
+Les modèles de sujets généraux peuvent être configurés sur la [page des paramètres des modèles de sujets](https://support.catenda.com/en/articles/14076010-topic-template-settings-page). _Accès requis :_ Administrateur de projet
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/01-intro.png)
+
+1. D'abord, créez un nouveau sujet à partir de la section des sujets réguliers.
+   _Accès requis :_ Accès en écriture à une liste de sujets.
+1. Ensuite, sélectionnez la bonne liste de sujets dans laquelle vous souhaitez créer votre sujet.
+   _Accès requis :_ Accès en écriture à la liste de sujets.
+1. Selon la liste de sujets que vous avez sélectionnée, si des modèles de sujets généraux sont configurés par un administrateur, ils peuvent être disponibles et suggérés dans la liste déroulante Modèle.
+
+    <div class="intercom-container intercom-align-center"><img height="549" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-b8fa9d6ab8dc.png" style="height: auto;" width="500"/></div>
+
+1. Sélectionnez le modèle approprié que vous souhaitez utiliser.
+   Dès que vous sélectionnez le modèle approprié, le nouveau sujet sera rempli automatiquement avec tous les champs qui ont été définis dans les paramètres du modèle de sujet associé, accessibles à partir de la [page des paramètres des modèles de sujets](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).
+
+    <div class="intercom-container intercom-align-center"><img height="731" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-23a75554e46a.png" style="height: auto;" width="500"/></div>
+
+1. Vous pouvez enfin enregistrer votre sujet en cliquant sur le bouton "Soumettre".
 
 # Utilisation des problèmes connexes
 
@@ -18897,7 +19798,7 @@ _Liaison de plusieurs statuts/types à la fois_ S'il y a des statuts/types disso
 
 Cliquer sur le lien vous mènera à la zone [champs dissociés](https://support.catenda.com/en/articles/4670277-topic-board-settings#h_3bd7e3e759) des [paramètres de la liste de sujets](https://support.catenda.com/en/articles/4670277-topic-board-settings) où vous pouvez lier tous les champs d'un type à une valeur existante en une seule fois.
 
-## 2. **Exporter des sujets**​
+## 2. **Exporter des sujets**
 
 Vous pourrez exporter les sujets soit en choisissant exporter les sujets dans le [menu d'action pour nouvel élément](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_8c642e051a) en haut à droite d'une liste de sujets, soit en sélectionnant un sujet dans la liste de sujets et en choisissant l'option d'exportation dans le [menu d'action pour élément sélectionné](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_b5c00c149b) au-dessus de la liste de sujets. La fenêtre d'exportation de sujets peut ressembler à ceci :
 
@@ -19533,7 +20434,7 @@ Lien de partage - [https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY]
 
 ### 1.2 **Intégration et support - [Liste de lecture](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7?track_link_name=Intercom&track_link_id=vrc3txAqpnzG21ahEDofSs&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 
-Lien de partage - ​[https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7)
+Lien de partage - [https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7)
 
 - [Se connecter à Catenda Hub](https://eu.guidde.com/share/playbooks/sAJ9zHv65kinzKseJPmNQm?track_link_name=Changelog&track_link_id=nQAaRkkuJwtN2my3y8ZNSK&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [Paramètres du compte et notifications](https://eu.guidde.com/share/playbooks/6cAvR5y6ugZsAShAwPLL6f?track_link_name=Guidde%20videos%20article&track_link_id=7Hvd2JT6GLw4efuaAPGkX3&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
@@ -19558,7 +20459,7 @@ Lien de partage - [https://eu.guidde.com/share/playlists/9EG9WZEd2UiGMPZVVQfHuR]
 
 ### 1.5 **Gestion du contenu - [Liste de lecture](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7?track_link_name=Intercom&track_link_id=khM8GzpkYf6nta8Y46UGED&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 
-Lien de partage - ​[https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7)
+Lien de partage - [https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7)
 
 - [Ajouter des dossiers et des sous-dossiers](https://eu.guidde.com/share/playbooks/o7pDsqiQCKPyTGBLifxKgE?track_link_name=Guidde%20videos%20article&track_link_id=aLvZdST9FaxbeYtZShRcoc&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [Créer et partager une collection](https://eu.guidde.com/share/playbooks/rcTnM584AAZPy6APbGyQS9?track_link_name=Guidde%20videos%20article&track_link_id=vruZ7x8jeTfCrHT6bS911i&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
@@ -20821,10 +21722,10 @@ Le [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-c
 
 - **Vue d'accès par utilisateur**
   Affiche les niveaux d'accès des utilisateurs individuels directement à partir du menu d'information de droite d'une Liste de sujets ou d'un Sujet sélectionné.
-  ​_Accès requis :_ accès en lecture à la Liste de sujets
+  _Accès requis :_ accès en lecture à la Liste de sujets
 - **Configuration complète de l'Équipe**
   Capturez des captures d'écran des paramètres d'autorisation complets au niveau de l'Équipe dans les paramètres d'accès de la Liste de sujets.
-  ​_Accès requis :_ Accès complet à la Liste de sujets ou administrateur du projet
+  _Accès requis :_ Accès complet à la Liste de sujets ou administrateur du projet
 
 **Accès aux Documents et modèles** Exportez l'[aperçu d'accès](https://support.catenda.com/en/articles/6660820-document-access-overview-page) pour enregistrer les autorisations pour les Membres et les Équipes. Accès requis : Administrateur du projet. Étant donné que chaque modèle est lié à un Document dans la section Documents, les autorisations d'accès pour les modèles sont régies par les autorisations de Document sous-jacentes et sont enregistrées à l'aide du même aperçu d'accès aux Documents ou des menus d'autorisation.
 
@@ -20836,7 +21737,7 @@ Le [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-c
   Les Membres du projet peuvent développer chaque menu sous contrôle d'accès pour voir quels utilisateurs individuels ont la permission d'effectuer chaque action.
 - **Configuration complète**
   Les administrateurs peuvent ouvrir la boîte de dialogue d'édition d'accès pour afficher et gérer les configurations d'autorisation au niveau de l'Équipe.
-  ​_Accès requis :_ Administrateur du projet
+  _Accès requis :_ Administrateur du projet
 
 **Profils utilisateur et détails des Membres** Les informations concernant les Membres du projet et les Équipes sont disponibles pour extraction ou documentation, y compris :
 
@@ -21296,7 +22197,7 @@ Voici une comparaison des avantages et des inconvénients de ces 2 variantes :
 
 Vous pourrez trouver de bonnes suggestions sur la création d'une structure de dossiers dans [cet article](https://support.catenda.com/en/articles/8542598-structuring-documents). Vous pouvez également trouver un exemple de structure de dossiers utilisé par la Direction de la Construction de l'État en Bavière au [lien](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) suivant. Les structures de dossiers peuvent être mises en place de manière très différente. D'une part, cela dépend des exigences du projet et de l'équipe de projet associée, et d'autre part, la structure des dossiers dépend de la clé de plan utilisée.
 
-### 1.1 ​**Exemple -** Séparation des structures par phase
+### 1.1 **Exemple -** Séparation des structures par phase
 
 Une structure de dossiers est mise en place en fonction des phases de service. Cela sépare clairement les documents de quelles phases de gestion sont stockés dans quels dossiers. Mais que se passe-t-il avec les documents qui s'appliquent à toutes les phases de service ? Vous pourriez penser que si les documents sont organisés dans les dossiers des différentes phases de service, cette information n'est plus nécessaire dans la clé de plan, par exemple. Mais que se passe-t-il lorsqu'un plan est imprimé ou envoyé numériquement au chantier ? Là aussi, le nom du plan devrait être utilisé pour identifier le document exact. Dans le meilleur des cas, la structure des dossiers et la clé de plan forment une unité qui fonctionne pour tous les acteurs impliqués tout au long du projet.
 
@@ -21914,7 +22815,7 @@ Si la taille d'un fichier `.ifc` dépasse la limite supérieure, un fichier `.if
 - Compressez le fichier `.ifc` en fichier `.zip`.
 - Modifiez l'extension de fichier de `.zip` à `.ifczip`
 
-> **Remarque :** **Exemple :** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip ​`
+> **Remarque :** **Exemple :** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip `
 
 ## 4. **Contacter le support**
 
@@ -22314,6 +23215,380 @@ Les informations sur les objets ne sont pas visibles dans les Signets partagés 
 **Topics** Avant la suppression, les topics peuvent être exportés au format BCF. Le topic portant cet ID sera supprimé, mais si vous modifiez l'ID dans le BCF, le topic peut être réimporté. Les relations aux éléments comme les Documents, les objets et les topics seront alors perdues.
 
 **Milestones** Les Membres peuvent archiver et restaurer les milestones. _Accès requis :_ Créateur de milestone ou administrateur.
+
+# Tableaux sur Catenda
+
+Sur les pages où plusieurs éléments sont affichés, les informations sont souvent présentées sous forme de tableaux. Différentes façons de travailler avec les tableaux, qui sont souvent similaires dans les différents tableaux, sont décrites dans cet article. Dans l'exemple ci-dessous, le tableau de la page des Membres est affiché comme exemple de ce qu'un tableau sur Catenda peut ressembler :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/01-intro.png)
+
+## 1. Comportement par défaut
+
+Dans les tableaux suivants, toutes les informations sont affichées par défaut
+
+- Panneau d'inspection
+  - [Quantitatif (QTO](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto))
+  - [Alignements](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
+  - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
+  - Conventions de dénomination
+- Bibliothèques
+  - [Bibliothèque de liens](https://support.catenda.com/en/articles/4670254-links-library)
+  - [Bibliothèque Sharepoint](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+  - [Bibliothèque Dropbox](https://support.catenda.com/en/articles/8065645-libraries-page)
+  - [Bibliothèque de valeur de propriété](https://support.catenda.com/en/articles/4670252-property-value-library)
+  - [Bibliothèque de classification](https://support.catenda.com/en/articles/4670255-classification-library)
+- Outil d'organisation
+  - [Page Utilisateurs](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+  - [Page Projets](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+  - [Page Appartenances de projets](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+
+Dans les tableaux suivants, une configuration par défaut est affichée au chargement de la page :
+
+- Modèles
+  - [Page Objets](https://support.catenda.com/en/articles/12352750-objects-page)
+
+Dans les tableaux suivants, les modifications apportées à la configuration de tableau par défaut sont affichées au chargement de la page :
+
+- [Sujets](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Vue tableau)
+- [Modèles](https://support.catenda.com/en/articles/4670286-models-page) (Vue de base, Onglet Publié, Onglet Espace de travail)
+- [Documents](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Vue de base, Onglet Publié, Onglet Espace de travail)
+  - [Aperçu d'accès au document](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+- [Rapports](https://support.catenda.com/en/articles/12303098-reports-page) (Vue de base, Onglet Publié, Onglet Espace de travail)
+- [Étiquettes](https://support.catenda.com/en/articles/4670265-labels-page) (Onglet Étiquettes, Onglet Groupe)
+- [Champs personnalisés](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+- [Page Membres](https://support.catenda.com/en/articles/11926821-members-page) (Onglet Membres, Onglet Équipes)
+
+Les modifications apportées à la configuration du tableau ne s'appliquent qu'à la personne qui effectue la modification et non à tous les Membres du projet. Lorsqu'une modification est apportée à un tableau, la modification affecte la façon dont ce tableau s'affiche dans tous les projets.
+
+Le tableau ci-dessous décrit les paramètres qui peuvent être configurés pour un tableau.
+
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="padding: 8px;"><h1 id="h_aa1a623a85">Préférences</h1></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1eedf14b1">Quoi</h2></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_691544b252">Où</h2></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fa7d3a8228">Aperçu des colonnes</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Un certain nombre de colonnes sont activées par défaut pour chaque tableau.</p><p>Les tableaux avec de nombreuses colonnes peuvent inclure des colonnes qui sont désactivées par défaut.</p><p>Les colonnes désactivées par défaut doivent être activées avec le menu déroulant des colonnes pour être affichées</p><div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;"><p><b>Remarque :</b> Les colonnes personnalisées comme les colonnes de champs personnalisés sont toujours masquées au chargement de la page.</p></div></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Menu déroulant des colonnes</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_ea66b1d6d8">Colonne triée et direction de tri</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les tableaux peuvent être triés par une colonne à la fois. Cliquez sur la ligne d'en-tête d'une colonne triable pour configurer la colonne par laquelle le tableau est trié et la direction du tri.</p><p>Après avoir trié par une colonne, les lignes du tableau seront réorganisées selon les <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8487788-sorting-order-of-lists">règles de tri typiques autour de Catenda</a>.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Ligne d'en-tête</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_321a81f32f">Ordre des colonnes</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les colonnes ont un ordre défini par défaut.</p><p>La réorganisation des colonnes change l'ordre des colonnes configuré</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Menu déroulant des colonnes et ligne d'en-tête</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_feb5f7b2ab">Largeur de colonne</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les largeurs de colonne par défaut sont ajustées pour afficher les parties essentielles du contenu de la colonne.</p><p>Par défaut, les colonnes peuvent ne pas afficher le contenu total d'une colonne</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Ligne d'en-tête</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7a5beb9bd0">Hauteur de ligne</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>La hauteur de ligne peut être modifiée avec les boutons de hauteur de ligne vers le haut à gauche du tableau.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Paramètres de visibilité du tableau</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1fe2adb04">Survol du menu de droite</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Après avoir sélectionné une ligne et ouvert le menu de droite sur une page, le menu de droite s'ouvrira à nouveau la prochaine fois qu'une ligne est sélectionnée jusqu'à ce qu'il soit fermé.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Bouton du menu de droite</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f502376bea">Panneau unique ou multi-panneau</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Chaque tableau a deux configurations.</p><p>Un lorsque le tableau est dans le seul panneau qui est ouvert et un lorsque plusieurs panneaux sont ouverts.</p><p><br/>​</p><p></p><p><i>Configuration de panneau unique</i></p><p>Si un tableau est dans le panneau de contenu et que le panneau de contenu est le seul panneau ouvert, la configuration de panneau unique est affichée.</p><p><br/>​</p><p></p><p><i>Configuration multi-panneau</i></p><p>Si un tableau est dans le panneau de contenu et qu'un autre panneau comme le panneau 3D ou d'information est ouvert en même temps, la configuration multi-panneau est affichée.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Bouton de panneau</p></td></tr></tbody></table></div>
+
+## 2. Aperçu de la sélection
+
+Vers le haut à gauche d'un tableau, une case à cocher est affichée. À droite de la case à cocher, un aperçu du nombre actuel de lignes sélectionnées et du nombre total de lignes au niveau actuel du tableau est affiché.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/02-selection-overview.png)
+
+### 2.1 Sélectionner tout
+
+Dans certains tableaux, lorsqu'il y a de nombreuses lignes, toutes les lignes peuvent être sélectionnées à la fois. Dans d'autres tableaux, seules les lignes actuellement chargées peuvent être sélectionnées. Cliquez sur la case à cocher pour sélectionner toutes les lignes du tableau. Si le menu de droite était précédemment ouvert, il s'ouvrira à nouveau lorsqu'une ligne sera sélectionnée.
+
+### 2.2 Chargement de plus de lignes en défilant
+
+Dans certains tableaux, seules les lignes actuellement chargées seront sélectionnées. En général, 100 lignes seront chargées à la fois. Le défilement au-delà de 100 lignes entraîne le chargement de plus de lignes et permet donc de sélectionner plus de lignes à la fois.
+
+### 2.3 Actions d'éléments sélectionnés
+
+Après avoir sélectionné ou ouvert le contenu d'une ligne du tableau, un menu d'actions d'éléments sélectionnés peut apparaître dans l'aperçu de la sélection. Voici à quoi peut ressembler le menu d'actions d'éléments sélectionnés dans le tableau des Documents :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/03-selected-item-actions.png)
+
+Le menu d'action d'élément sélectionné peut inclure différentes actions en fonction du contenu de la ligne et de l'accès de l'utilisateur sélectionnant. Les actions possibles pour chaque tableau peuvent être trouvées ici :
+
+- [Actions d'élément sélectionné du sujet](https://support.catenda.com/en/articles/4670284-topic-board-actions#h_b5c00c149b)
+- [Actions d'élément sélectionné de la page Modèles](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed)
+- [Actions d'élément sélectionné de la page Documents](https://support.catenda.com/en/articles/4670288-document-structure-actions#h_fb4e9ef375)
+
+### 2.4 Désélectionner tout
+
+Après avoir sélectionné une case à cocher d'aperçu de sélection de ligne, elle sera activée avec un moins. Voici un exemple de ce que cela peut ressembler dans le tableau des Documents :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/04-deselecting-all.png)
+
+Cliquez sur le moins pour désélectionner toutes les lignes sélectionnées.
+
+## 3. Paramètres de visibilité du tableau
+
+Vers le haut à droite d'un tableau, les paramètres de visibilité du tableau peuvent être trouvés. Voici à quoi peuvent ressembler les paramètres de visibilité du tableau :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/05-table-visibility-settings.png)
+
+### 3.1 Exporter
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/06-export.png)
+
+Les tableaux peuvent être exportés en cliquant sur le bouton d'export.
+
+### 3.2 Affichage
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/07-view.png)
+
+_Vue liste -_ Par défaut
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/08-view.png)
+
+Dans la vue liste, les informations sur les éléments sont disposées vers le haut/bas/gauche/droite d'une boîte plus grande.
+
+**Vue tableau**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/09-view.png)
+
+Dans la vue tableau, les informations sur les éléments sont disposées en lignes et colonnes.
+
+### 3.3 Hauteur de ligne
+
+Les boutons de hauteur de ligne modifient la hauteur de chaque ligne du tableau.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/10-row-height.png)
+
+**Vue par défaut** Une hauteur de ligne qui fonctionne bien pour la plupart des écrans est affichée.
+
+**Vue compacte** L'espace blanc au-dessus et au-dessous des éléments d'une ligne est supprimé, réduisant la hauteur de la ligne.
+
+Pour les petits écrans ou les écrans avec une résolution faible, seul un petit nombre de lignes peut être affiché avec la hauteur de ligne par défaut. Dans cette situation, la vue compacte est la meilleure option à choisir.
+
+### 3.4 Menu déroulant des colonnes
+
+En haut à droite d'un tableau, le menu déroulant des colonnes peut être vu. Voici à quoi peut ressembler le bouton du menu déroulant des colonnes :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/11-column-dropdown.png)
+
+Avec le menu déroulant des colonnes, les colonnes d'un tableau peuvent être réorganisées, activées et désactivées. Voici à quoi peut ressembler le menu déroulant des colonnes :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/12-column-dropdown.png)
+
+Vers le haut du menu déroulant des colonnes, des options qui affectent toutes les colonnes peuvent être affichées. Voici un exemple de ce que le haut du menu déroulant des colonnes peut ressembler :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/13-column-dropdown.png)
+
+**Apparence du basculement** Lorsque le basculement est activé, toutes les colonnes sont affichées. Lorsque le basculement est à mi-chemin, certaines colonnes sont affichées. Lorsque le basculement est désactivé, aucune colonne n'est affichée. Lorsqu'un basculement a une teinte plus claire, il ne peut être activé ou désactivé que lorsque tout est activé ou désactivé.
+
+**Filtre** Tapez dans la barre de filtre pour filtrer une colonne spécifique.
+
+**Réinitialiser les paramètres** Cliquez sur le bouton de réinitialisation des paramètres pour réinitialiser les colonnes à leur configuration par défaut.
+
+**Développer/réduire le type de colonne** Développez ou réduisez un type de colonne avec le bouton fléché à gauche pour afficher ou masquer toutes les colonnes de ce type.
+
+**Ancre de glissement** Les colonnes qui peuvent être réorganisées peuvent afficher une icône de grille vers la droite du nom de la colonne.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/14-column-dropdown.png)
+
+Le curseur peut devenir une main lorsque l'ancre de glissement est survolée. Après avoir saisi la grille, une ancre de glissement apparaît sous le curseur et la colonne tenue peut apparaître dans une teinte plus claire.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/15-column-dropdown.png)
+
+Lorsque l'ancre de glissement est glissée vers une autre colonne, la colonne tenue apparaîtra après la colonne vers laquelle elle est glissée. Relâchez ou cliquez sur l'ancre de glissement pour verrouiller la colonne tenue en place et réorganiser la liste des colonnes.
+
+### 3.5 Paramètres du tableau
+
+Cliquez sur le bouton des paramètres du tableau pour activer ou désactiver les paramètres du tableau
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/16-table-settings.png)
+
+## 4. Lignes
+
+Dans un tableau, les éléments sont affichés dans des lignes qui peuvent se comporter de différentes manières.
+
+## 5. Lignes - Ligne d'en-tête
+
+La ligne d'en-tête est la première ligne du tableau.
+
+### 5.1 Interaction de la ligne d'en-tête
+
+Survoler différentes parties de la ligne d'en-tête peut indiquer comment elle peut être manipulée.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/17-header-row-interaction.png)
+
+### 5.2 Tri
+
+Si une colonne peut être triée, une flèche vers le haut/bas peut être visible à droite du nom de la colonne
+
+**Changement de curseur** Le curseur sera un pointeur.
+
+**Flèches de tri** Les flèches de tri peuvent indiquer quelle colonne est actuellement triée. Les flèches de tri peuvent montrer dans quelle direction les lignes sont triées.
+
+**Cliquer pour trier** Cliquez sur la cellule d'en-tête d'une colonne triable pour trier les lignes du tableau selon la colonne que cette cellule d'en-tête occupe. Après avoir trié par une colonne, les lignes du tableau seront réorganisées selon les [règles de tri typiques autour de Catenda](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists). Cliquez à nouveau sur la cellule d'en-tête de la colonne triée pour la trier dans le sens inverse. Le tri d'une colonne met à jour les préférences de tri pour le tableau.
+
+> **Note :** Les tableaux ne peuvent être triés que par une seule colonne à la fois
+
+### 5.3 Ajustement de la largeur
+
+Les ancres d'ajustement de la largeur ressemblent à une ligne épaisse environ la moitié de la hauteur de la ligne d'en-tête.
+
+**Changement de curseur** Survoler l'ancre d'ajustement transforme le curseur en flèche gauche-droite, connue sous le nom de pointeur de redimensionnement.
+
+**Glisser pour ajuster** Glissez sur l'ancre d'ajustement de la largeur dans la ligne d'en-tête pour modifier la largeur de la colonne.
+
+**Double-cliquer pour ajustement automatique** Double-cliquez sur l'ancre d'ajustement pour ajuster automatiquement la colonne à gauche de l'ancre en fonction du contenu de cette colonne. Lorsque le contenu d'une colonne est si long qu'il est coupé, mais que l'information nécessaire se trouve à la fin du contenu, le redimensionnement de la colonne peut être utile.
+
+### 5.4 Ajustement de l'ordre des colonnes
+
+Glissez sur la cellule d'en-tête d'une colonne pour réorganiser l'ordre des colonnes. Glissez la cellule d'en-tête d'une colonne en dehors du tableau pour masquer cette colonne. Pour récupérer la colonne, vous devrez l'activer à nouveau dans le menu déroulant des colonnes.
+
+## 6. Lignes - Informations de ligne mise à jour
+
+Lorsque les informations d'une ligne sont mises à jour en dehors de l'onglet du navigateur actuel, une barre d'informations s'affiche vers le bas du tableau.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/18-rows-updated-row-information.png)
+
+Cliquez sur Récupérer les mises à jour pour mettre à jour les lignes de votre tableau avec les nouvelles informations. Lorsque Récupérer les mises à jour est cliqué, les nouvelles lignes glissent vers l'intérieur et les lignes supprimées glissent vers l'extérieur. Les cellules des informations existantes qui changent peu de temps après clignotent avec un arrière-plan vert.
+
+## 7. Lignes - Ligne inférieure
+
+Les colonnes avec des valeurs numériques peuvent être additionnées dans la ligne inférieure du tableau.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/19-rows-bottom-row.png)
+
+Les exemples de colonnes qui peuvent être additionnées sont les colonnes de champs personnalisés et les colonnes de propriétés d'objets.
+
+## 8. Déplacement par glisser-déposer
+
+Pour modifier l'emplacement d'une colonne ou d'une ligne, relâchez l'ancre de glisser au nouvel emplacement.
+
+### 8.1 Modification de la configuration des colonnes par glisser-déposer
+
+Cliquez et glissez sur la cellule d'en-tête d'une colonne pour commencer à modifier la configuration de la colonne. Après avoir saisi la colonne, une ancre de glisser apparaît sous le curseur. L'ancre de glisser peut contenir le nom de la colonne et une icône d'œil qui indique si la colonne sera activée ou désactivée lorsque l'ancre est relâchée.
+
+**Ancre de glisser pour réorganiser une colonne** Lorsque l'ancre de glisser est glissée sur la bordure d'une colonne ou en dehors du tableau, la colonne en cours de glissement sera supprimée de son emplacement actuel. Lorsque l'ancre de glisser est survolée à un autre endroit du tableau, la colonne y sera prévisualisée. Relâchez l'ancre de glisser à l'emplacement souhaité pour insérer la colonne maintenue à cet emplacement.
+
+**Ancre de glisser pour supprimer une colonne** Lorsque l'ancre de glisser est glissée en dehors du tableau, l'icône de visibilité se transforme en œil barré et la colonne est désactivée dans le tableau. Relâchez ou cliquez pour désactiver la colonne maintenue.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/20-change-column-configuration-by-dragging.png)
+
+### 8.2 Déplacer des lignes par glisser-déposer
+
+Lorsque la cellule de ligne dans la colonne de titre (souvent appelée nom) est survolée, une grille de points peut apparaître à droite du titre.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/21-move-rows-by-dragging.png)
+
+Passez la souris sur la grille et vous verrez que le curseur se transforme en main, indiquant que la ligne peut être saisie. Après avoir saisi la grille, une ancre de glisser apparaît sous le curseur. L'ancre de glisser peut contenir les titres de la ou des lignes qui ont été sélectionnées lorsque la ligne a été saisie.
+
+**Ancre de glisser pour déplacer une ligne** Pendant que la ou les lignes sont glissées à l'intérieur du tableau, elles seront mises en surbrillance et données une teinte plus claire indiquant que quelque chose peut se produire dans le tableau.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/22-move-rows-by-dragging.png)
+
+Les lignes interactives sont mises en surbrillance avec un arrière-plan différent lorsque l'ancre de glisser est glissée sur la ligne interactable.
+
+### 8.3 Relâcher l'ancre de glisser
+
+Lorsque l'ancre de glisser est relâchée au-dessus d'une ligne interactable, la boîte de dialogue de déplacement peut s'ouvrir. Même si l'icône de grille d'une ligne a été glissée, c'est comme si l'action de déplacement était utilisée pour les lignes sélectionnées dans le tableau. Lorsque l'ancre de glisser est glissée sur une ligne non-interactable ou en dehors du tableau et relâchée, aucun changement ne se produira dans le tableau.
+
+### 8.4 Disponibilité du tableau
+
+Il est possible de déplacer des colonnes dans les tableaux suivants :
+
+- Modèles
+  - [Page des objets](https://support.catenda.com/en/articles/12352750-objects-page)
+- Outil d'organisation
+  - [Page des projets](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+  - [Page des memberships de projet](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+
+- [Rubriques](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Vue Tableau)
+- [Modèles](https://support.catenda.com/en/articles/4670286-models-page) (Vue basique, Onglet Publié, Onglet Espace de travail)
+- [Documents](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Vue basique, Onglet Publié, Onglet Espace de travail)
+  - [Aperçu de l'accès aux documents](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+- [Rapports](https://support.catenda.com/en/articles/12303098-reports-page) (Vue basique, Onglet Publié, Onglet Espace de travail)
+- [Étiquettes](https://support.catenda.com/en/articles/4670265-labels-page) (Onglet Étiquettes, Onglet Groupe)
+- [Champs personnalisés](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+- [Page Membres](https://support.catenda.com/en/articles/11926821-members-page) (Onglet Membres, Onglet Équipes)
+
+## 9. Interaction avec des lignes en survolant
+
+Survoler différentes parties du tableau peut indiquer comment elle peut être manipulée. Les lignes qui ne sont pas survolées peuvent avoir un arrière-plan blanc.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/23-interacting-with-rows-by-hovering.png)
+
+### 9.1 Survol de la ligne
+
+Survoler n'importe où dans une ligne peut mettre en surbrillance cette ligne avec un arrière-plan différent.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/24-row-hover.png)
+
+### 9.2 Survol de la boîte
+
+Lorsqu'une boîte cliquable dans une ligne est survolée, le curseur peut changer en pointeur et la boîte peut obtenir un contour plus foncé et une ombre autour d'elle.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/25-box-hover.png)
+
+### 9.3 Survol du texte
+
+Lorsque du texte cliquable dans une ligne est survolé, le curseur peut changer en pointeur. Le texte peut être souligné lors du survol et certains navigateurs peuvent afficher l'URL de la page qui s'ouvrira vers le bas à gauche.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/26-text-hover.png)
+
+## 10. Interaction avec des lignes en cliquant
+
+Différents comportements peuvent se produire lors du clic sur le contenu d'une ligne.
+
+### 10.1 Sélection d'une ligne
+
+Si le menu de droite a été ouvert précédemment, il s'ouvrira à nouveau lorsqu'une ligne est sélectionnée.
+
+**Espace blanc** Cliquez une fois sur n'importe quel espace blanc dans la ligne pour la sélectionner. Si le menu de droite a été ouvert précédemment, il s'ouvrira à nouveau lorsqu'une ligne est sélectionnée. Cliquez deux fois rapidement pour ouvrir le contenu de la ligne. Cliquez à nouveau sur la ligne après un certain temps pour la désélectionner.
+
+**Case à cocher** Sélectionnez la case à cocher dans la colonne de case à cocher pour sélectionner la ligne. Avec la case à cocher, la ligne peut être sélectionnée sans avoir à vous soucier de l'ouverture accidentelle du contenu de cette ligne.
+
+**Sélection d'une plage de lignes** Maintenez `shift` et cliquez pour sélectionner toutes les lignes entre la ligne actuelle et la ligne sélectionnée la plus proche.
+
+**Édition de la sélection des lignes** Maintenez `control` et cliquez pour modifier des éléments uniques dans la sélection
+
+### 10.2 Ouverture du contenu de la ligne
+
+Le texte dans les lignes avec du contenu qui peut être prévisualisé peut être cliqué pour ouvrir l'aperçu du contenu de la ligne dans une nouvelle page.
+
+**Icônes de ligne d'ouverture** Les icônes dans les lignes avec du contenu qui peut être prévisualisé peuvent être cliquées pour soit ouvrir un aperçu du contenu de la ligne dans une nouvelle page ou dans une boîte de dialogue contextuelle. Cliquer sur des icônes dans les lignes sans contenu qui peut être prévisualisé sélectionnera la ligne à la place.
+
+### 10.3 Boîtes dans les lignes
+
+Il peut y avoir plusieurs types de boîtes dans une ligne. Chaque boîte peut avoir sa propre icône ou couleur.
+
+**Boîte d'étiquette** Les boîtes d'étiquettes ont une icône d'étiquette dans la couleur de cette étiquette. Lorsqu'une boîte d'étiquette est cliquée, elle peut être ajoutée au filtre actuel. Voici ce que peut ressembler une boîte d'étiquette :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/27-boxes-in-rows.png)
+
+**Boîte de statut ou de type** Les boîtes de statut et de type ont un cercle avec la couleur du statut ou du type. Lorsqu'une boîte de statut est cliquée, elle peut être ajoutée au filtre actuel. Voici ce que peut ressembler une boîte de statut ou de type :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/28-boxes-in-rows.png)
+
+**Boîte d'équipe** Les boîtes d'équipe sont colorées en vert pour les équipes de membres et en orange pour les équipes d'administrateur. Voici ce que peut ressembler une boîte d'équipe :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/29-boxes-in-rows.png)
+
+**Boîte Afficher plus** S'il y a plus de boîtes que ce qui peut tenir dans la largeur de la colonne d'une cellule de ligne, une boîte avec trois points s'affiche :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/30-boxes-in-rows.png)
+
+Cliquez sur cette boîte pour voir les boîtes restantes dans la cellule de ligne pour cette colonne.
+
+**Boîte Visionneuse** Les boîtes 2D, 3D et zoom sur l'étendue peuvent être affichées. Cliquez sur la boîte 2D pour charger le contenu de la ligne dans la visionneuse 2D. Cliquez sur la boîte 3D pour charger le contenu de la ligne dans la visionneuse 3D. Après avoir chargé le contenu de la ligne dans la visionneuse 3D, le bouton zoom sur l'étendue devient disponible et peut être cliqué pour positionner la caméra dans la visionneuse 3D afin que tout le contenu de la ligne soit en vue. Voici ce que les boîtes de visionneuse peuvent ressembler :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/31-boxes-in-rows.png)
+
+**Boîte d'objet** La quantité d'objets liés à la ligne est affichée. Voici ce que peut ressembler une boîte d'objet :
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/32-boxes-in-rows.png)
+
+Lorsqu'une boîte d'objet est cliquée, le menu contextuel suivant peut s'ouvrir.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/33-boxes-in-rows.png)
+
+Sélectionner les objets Le panneau 3D s'ouvrira et le ou les modèles auxquels les objets appartiennent seront chargés dans la visionneuse 3D en plus de tous les modèles qui étaient précédemment ouverts. Après le chargement des modèles, la sélection actuelle sera effacée. Les objets liés à la ligne seront ensuite sélectionnés.
+
+Isoler les objets Le panneau 3D s'ouvrira et le ou les modèles auxquels les objets appartiennent seront chargés dans la visionneuse 3D en plus de tous les modèles qui étaient précédemment ouverts. Après le chargement des modèles, la sélection actuelle sera effacée. Les objets liés à la ligne seront ensuite isolés.
+
+Charger comme requête Le panneau 3D s'ouvrira. Tous les modèles qui étaient précédemment chargés en 3D seront complètement effacés (non masqués) de la visionneuse 3D. Seuls les objets liés à la ligne (qui peuvent appartenir à plusieurs modèles) seront ensuite chargés dans la visionneuse 3D.
+
+### 10.4 Copie du contenu de la ligne
+
+Le contenu secondaire des lignes peut être copié dans le presse-papiers
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/34-copy-row-content.png)
+
+|
+v
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/35-copy-row-content.png)
+
+## 11. Barres de défilement
+
+### 11.1 Barre de défilement vertical
+
+Glissez sur la barre de défilement vertical pour faire défiler le tableau des rubriques verticalement
+
+### 11.2 Barre de défilement horizontal
+
+Glissez sur la barre de défilement horizontal pour faire défiler le tableau des rubriques horizontalement
 
 # Un membre standard peut-il inviter de nouveaux membres à un projet ?
 
@@ -22949,9 +24224,9 @@ Les filtres sont situés sur le panneau de gauche :
 
     <div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-60a1bb50b7da.png" style="height: auto;" width="3360"/></div><div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-84e66eb66553.png" style="height: auto;" width="3360"/></div>
 
-   Il y a deux possibilités :
+Il y a deux possibilités :
 
-   **A.** Vous pouvez choisir un onglet dans le panneau A : Aujourd'hui, hier, il y a une semaine ...
+**A.** Vous pouvez choisir un onglet dans le panneau A : Aujourd'hui, hier, il y a une semaine ...
 
     <div class="intercom-container"><img height="530" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-2a7e66b298c6.png" style="height: auto;" width="280"/></div>
 
@@ -23206,7 +24481,6 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreux sujets 
   Les noms des propriétés et des ensembles de propriétés qui ont des points en eux sont maintenant correctement affichés dans la cellule d'en-tête de la colonne sur la page des objets au lieu de simplement afficher tout après le point. Il est maintenant aussi possible de rechercher sur ces types de noms de propriétés.
 - **[Page Modèles] Spinner infini pour les révisions partagées après désactivation**
   Dans les projets où les révisions partagées ont été désactivées après que les révisions de modèle partagé aient été téléchargées alors que les révisions partagées étaient activées, les spinners infinis ne seront plus visibles dans la colonne de la visionneuse sur la page des modèles.
-  ​
 
 ### 3.4 **Rapports**
 
@@ -23351,7 +24625,6 @@ Il en va de même pour Catenda. Les modifications peuvent se produire soudaineme
 
 - [Tableaux sur Catenda](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
 - [Informations sur les membres personnalisées](https://support.catenda.com/en/articles/11769670-custom-member-information)
-  ​
 
 ### 1.2 **Articles qui ont changé :**
 
@@ -23650,6 +24923,45 @@ _Plugin Revit v1.0.15_
 
 **Plugin Tekla v1.4.0** Support du nouveau flux de travail de statut avec les révisions majeures et mineures publiées et partagées. Support pour Tekla 2023, Tekla 2024 et Tekla 2025
 
+# Journal des modifications 2 Catenda - Juillet 2023
+
+## 1. Articles
+
+_Nouveaux articles :_ Catenda Hub [Bimsync est maintenant Catenda Hub](https://support.catenda.com/en/articles/7890769-bimsync-is-now-catenda-hub) [Page d'accueil](https://support.catenda.com/en/articles/8400797-projects-page) [Panneau latéral dans un tableau de problèmes](https://support.catenda.com/en/articles/6941224-side-panel-in-an-issue-board) [Exportation de toutes les données du projet](https://support.catenda.com/en/articles/7946690-exporting-all-project-data) [Page des conventions de nommage](https://support.catenda.com/en/articles/7832559-naming-conventions-page) [Convention de nommage la plus simple](https://support.catenda.com/en/articles/7845360-simplest-naming-convention) [Convention de nommage intermédiaire](https://support.catenda.com/en/articles/7936943-medium-naming-convention) [Convention de nommage avancée](https://support.catenda.com/en/articles/7936947-advanced-naming-convention) Catenda Site [Téléchargez votre application mobile Catenda Site 📲](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site) [Documents - Catenda Site](https://support.catenda.com/en/articles/7774637-documents-catenda-site) [Tableau de bord - Catenda Site](https://support.catenda.com/en/articles/7213817-dashboard-catenda-site) [Menu de navigation - Catenda Site](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) [Page des projets - Catenda Site](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) [Paramètres - Catenda Site](https://support.catenda.com/en/articles/7733833-settings-catenda-site) [Page des problèmes - Catenda Site](https://support.catenda.com/en/articles/7734073-issues-page-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site) [Mode hors ligne dans Catenda Site](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site) [Visionneuse 3D - Catenda Site](https://support.catenda.com/en/articles/7744403-3d-viewer-catenda-site) [Visionneuse 2D - Catenda Site](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site) [Filtre des étiquettes - Catenda Site](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site) _Articles qui ont changé :_ [Page des paramètres du projet](https://support.catenda.com/en/articles/4670273-project-settings-page) [Exigences système et optimisation](https://support.catenda.com/en/articles/6921941-system-requirements-and-optimization) [Page des modèles](https://support.catenda.com/en/articles/4670286-models-page) [Page du modèle](https://support.catenda.com/en/articles/4670270-model-page)
+
+## 2. Problèmes résolus
+
+**Catenda Hub**
+
+- [Modèles](https://support.catenda.com/en/articles/4670286-models-page) avec des caractères japonais téléchargent maintenant avec le nom correct
+- [Métrés](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto) a maintenant des colonnes de fond alternées noires et blanches pour une meilleure lisibilité
+- [Import](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) d'enregistrement - Les importations avec de petites erreurs comme une virgule ici, une parenthèse là seront maintenant acceptées même si le fichier est écrit ou exporté avec une petite erreur.
+- Le [Panneau d'arborescence](https://support.catenda.com/en/articles/4670290-the-tree-structures-in-the-ifc-models) affiche maintenant toujours le modèle correct d'un objet si cet objet est sélectionné. Auparavant, il y avait des cas où le menu d'arborescence ne se mettait pas toujours à jour vers le modèle correct
+- Il est maintenant possible d'enregistrer une sélection avec le menu des sélections dans le panneau d'inspection.
+
+Une sélection d'objets peut également être colorée. Cette sélection peut être stockée dans une capture ou un signet.
+
+- Nos serveurs peuvent maintenant gérer l'[import](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) de fichiers avec beaucoup de géométrie qui auraient précédemment dépassé le délai.
+- Le [bouton 3D](https://support.catenda.com/en/articles/4670286-models-page#h_82b7400edc) reste actif à nouveau lorsque plusieurs modèles sont chargés
+- Les objets sont à nouveau supprimables et peuvent être rendus transparents.
+- Les utilisateurs ayant accès aux dossiers de niveau supérieur dans la section des documents pourront maintenant voir leurs dossiers même si aucun accès n'est donné à tous les utilisateurs dans les [paramètres des documents](https://support.catenda.com/en/articles/7831371-document-settings).
+
+## 3. Modules et intégrations
+
+_[Module Revit](https://support.catenda.com/en/articles/4670334-catenda-hub-revit-plugin)_ Version 1.0.8 du module Revit inclura :
+
+- Filtrage des équipes
+- Les options d'exportation personnalisées fonctionnent à nouveau
+- Mise à jour de la marque
+
+_[Module Archicad](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)_ Version 1.1.9 maintenant disponible pour Windows et Mac Mise à jour de la marque
+
+_[Module Tekla](https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin)_ Version 1.1.1 maintenant disponible pour : Tekla 2022 Tekla 2021 Tekla 2020 Mise à jour de la marque
+
+_[Module Navisworks](https://support.catenda.com/en/articles/5085987-catenda-hub-navisworks-plugin)_ Version 1.3.0 maintenant disponible. Mise à jour de la marque
+
+**Connecteur de bureau** Version 1.0.0.0 maintenant disponible sur demande
+
 # Journal des modifications 3 Catenda - Octobre 2023
 
 > Nouvelles informations et modifications mineures
@@ -23767,6 +25079,158 @@ _Connecteur Bureau :_ [Nouvelle version 1.0.4.0](https://hub.catenda.com/share/c
 
 - Nouvelle version
 
+# Journal des modifications 4 Catenda - janvier 2024
+
+> Nouvelles informations et modifications mineures
+
+Bonjour à tous,
+
+cela fait quelques beaux mois depuis le dernier journal des modifications. Nous espérons que vous avez tous passé de bonnes vacances d'hiver ! 🎄🤶🧑‍🎄❄️ Et bienvenue en 2024!🎇 Nous espérons que nous serons en mesure d'apporter de nombreuses modifications et améliorations cette année aussi ! Dans cet article, vous trouverez des mises à jour sur les sujets suivants : [Articles](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [Sujets résolus](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [Nouvelles versions](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)
+
+## 1. **Articles**
+
+Lorsque de nouvelles fonctionnalités sont déployées et que des bogues sont corrigés, les articles sont mis à jour avec les modifications apportées. Veuillez trouver les articles suivants qui ont été créés et modifiés depuis le dernier journal des modifications.
+
+### 1.1 **Nouveaux articles :**
+
+**Démarrage et FAQ** [Ordre de tri des listes](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) [Structuration des documents](https://support.catenda.com/en/articles/8542598-structuring-documents)
+
+**Page d'accueil** [Page Organisations](https://support.catenda.com/en/articles/8281910-organizations-page)
+
+**Sujets** [Historique du sujet](https://support.catenda.com/en/articles/8613038-issue-history)
+
+**Documents** [Documents](https://support.catenda.com/en/articles/8461918-documents) [Comparaison PDF](https://support.catenda.com/en/articles/8461650-pdf-compare) [Filtrage sur la page des approbations](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+
+**Modèles et 3D** [Signet](https://support.catenda.com/en/articles/8471481-bookmark)
+
+**Paramètres du projet** [Création d'un champ personnalisé](https://support.catenda.com/en/articles/8445575-creating-a-custom-field) [Page Champ personnalisé](https://support.catenda.com/en/articles/8445588-custom-field-page)
+
+### 1.2 **Articles qui ont changé :**
+
+Démarrage et FAQ [Enregistrement des filtres](https://support.catenda.com/en/articles/8551755-saving-filters)
+
+Sujets [ACL des tableaux de sujets](https://support.catenda.com/en/articles/4670296-issue-boards-acl)
+
+Documents [Page Documents](https://support.catenda.com/en/articles/8204673-documents-page) [Modèles en tant que documents](https://support.catenda.com/en/articles/8064548-models-as-documents) [Filtrage sur la page des documents](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+
+Modèles [Page Signets](https://support.catenda.com/en/articles/4670281-bookmarks-page) [Création d'un nouveau signet](https://support.catenda.com/en/articles/4670269-creating-a-new-bookmark) [Modèles en tant que documents](https://support.catenda.com/en/articles/8064548-models-as-documents)
+
+Bibliothèques <a class="intercom-content-link" href="" target="_blank">Bibliothèque de liens</a>
+
+Paramètres [Page Membres](https://support.catenda.com/en/articles/4670291-members-page)
+
+## 2. **Bogues résolus**
+
+Grâce à vos précieux commentaires, nous avons pu corriger de nombreux sujets que vous aviez peut-être ou non remarqué. Voici une liste des petits changements qui ont été apportés par l'équipe de développement suite à des conversations avec les utilisateurs.
+
+### 2.1 **Sujets**
+
+- Les champs personnalisés déroulants comptant jusqu'à 10 valeurs requises peuvent désormais également être filtrés.
+- Les exportations PDF des sujets n'affichent plus certaines images en double.
+- Les filtres des champs personnalisés sont maintenant affichés même si le champ personnalisé est défini comme obligatoire.
+- Les images jointes aux commentaires de sujet après le 16 novembre s'affichent maintenant dans le même ordre que celui des commentaires de sujet dans la boîte de dialogue d'aperçu.
+- L'heure d'exportation dans l'exportation PDF indique maintenant UTC derrière, de sorte que l'utilisateur peut savoir dans quel fuseau horaire se trouve l'horodatage.
+- Les modèles qui sont supprimés dans la plage horaire entre la préparation et l'activation d'une migration de modèles en tant que documents seront maintenant correctement supprimés lors de la migration.
+
+### 2.2 **Documents**
+
+- Les lettres lituaniennes dans les documents importés à partir d'importations ZIP ne seront plus corrompues à la suite d'une attaque par fichier ZIP.
+- Les bulles de texte peuvent à nouveau être placées pour les utilisateurs dont l'application MFA est appliquée.
+- Les annotations en surbrillance des fichiers pdf s'affichent maintenant correctement dans la visionneuse pdf après leur téléchargement.
+- Les fichiers PDF peuvent à nouveau être enregistrés avec des annotations et des commentaires.
+- Les documents qui ne se chargeaient pas pour les utilisateurs dont l'application MFA est appliquée se chargent maintenant à nouveau.
+
+### 2.3 **Modèles**
+
+- Le bouton Supprimer le modèle est à nouveau visible.
+- Il n'existe maintenant aucun moyen de masquer les modèles si les modèles en tant que documents étaient activés sans migrer le projet.
+- L'e-mail de notification d'importation du modèle terminée indique maintenant l'importation terminée sur \<model> au lieu de nouvelle révision dans le modèle pour plus de clarté.
+- Il est maintenant possible de sélectionner uniquement les documents pdf dans le configurateur d'étage où pdf.
+- Il n'est plus possible d'ajouter des documents non-pdf au configurateur d'étage. (qui n'accepte que les PDF de toute façon)
+
+## 3. **Voix des utilisateurs complétées**
+
+### 3.1 **Sujets**
+
+- Vous recevez maintenant une notification lorsqu'une équipe dont vous faites partie est mentionnée dans un sujet
+- Si vous cliquez sur afficher le marqueur en 2D à l'emplacement d'un sujet, votre visionneuse 2D se centrera maintenant sur ce marqueur au lieu d'afficher simplement le marqueur sélectionné sur l'étage de droite.
+- La largeur de la boîte de dialogue de sélection du modèle dans le commentaire d'un sujet s'adapte maintenant à la largeur du nom du modèle. Auparavant, les longs noms de modèle étaient coupés et devaient être survolés pour être vus.
+- Il est maintenant possible de voir à quoi ressemblait une description avant sa modification en cliquant sur la zone de description modifiée dans l'historique du sujet.
+- Les images n'apparaissent plus deux fois dans les exportations PDF des sujets plus anciens
+
+### 3.2 **Documents**
+
+- L'ACL du document est maintenant reflétée dans la section modèles pour les projets qui ont les modèles activés en tant que documents
+- Vous pouvez maintenant voir combien de documents se trouvent dans une collection.
+- Il est maintenant possible de s'accrocher aux points médians et extrémité des lignes dans les dessins PDF.
+- Il est maintenant possible d'afficher un aperçu des formats de fichier .odt et .ods.
+
+### 3.3 **Modèles**
+
+- Il est maintenant possible de définir l'ACL par modèle au lieu de pour tous les modèles.
+
+Cela signifie que vous pouvez masquer les modèles des personnes dans la section modèles.
+
+- Avec les modèles en tant que documents, vous pouvez ajouter des étiquettes aux modèles.
+- Avec les modèles en tant que documents, vous pouvez structurer les modèles dans des dossiers de la section documents.
+- Avec les modèles en tant que documents, vous pouvez voir la taille du fichier du modèle
+- Avec les modèles en tant que documents, vous pouvez utiliser la fonction de convention de nommage avec les modèles
+- Il est à nouveau possible de voir les révisions précédentes des modèles dans le sélecteur de révision
+
+### 3.4 **Paramètres du projet**
+
+- Les groupes d'étiquettes peuvent maintenant être supprimés.
+- Il est maintenant possible de supprimer les étiquettes connectées aux sujets/documents.
+- Les groupes d'étiquettes peuvent être modifiés.
+  Vous pouvez trouver le crayon de modification dans le menu d'information de droite après avoir sélectionné le groupe d'étiquettes dans l'onglet groupes.
+- Il est maintenant possible de créer plusieurs étiquettes à la fois.
+  Notez le bouton d'importation multiple dans le nouveau menu d'étiquette.
+- Il est maintenant possible de supprimer plusieurs étiquettes à la fois.
+- Les étiquettes peuvent être filtrées et les filtres peuvent être enregistrés.
+- Il est maintenant possible d'ajouter de nouveaux groupes d'étiquettes
+- Il est possible d'ajouter des groupes d'étiquettes sans les ajouter d'abord à une étiquette.
+- Il est maintenant possible de rechercher sur la page des étiquettes.
+- Les administrateurs pourront maintenant fusionner les étiquettes. L'option se trouve en sélectionnant plus d'une étiquette sur la page des étiquettes.
+
+### 3.5 **Général**
+
+- La création de nouveaux projets à partir de projets de modèle a été améliorée. Il est maintenant possible d'apporter les parties suivantes d'un projet à un nouveau projet :
+  - Structure des dossiers
+  - Configuration du statut du document
+  - Contrôle d'accès du tableau des documents et des sujets
+  - Champs personnalisés et conventions de nommage
+
+## 4. **Nouvelles versions** - Catenda Site, Plugins et intégrations
+
+**Catenda Hub :**
+
+- Les modèles en tant que documents ont maintenant été entièrement publiés.
+- Les problèmes ont été renommés en sujets.
+
+_Catenda Site :_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+
+**Nouvelle version 3.3.1**
+
+- Corrections de bogues
+
+**Nouvelle version 3.3.0**
+
+- _Liens profonds_ - Les URL du site Web Hub s'ouvriront directement dans l'application Site.
+- _Filtrage des sujets_ - Nouvelle option de filtrage par jalon.
+- _Mention d'utilisateur_ - Trouvez et sélectionnez rapidement un utilisateur à mentionner dans les sujets à partir de la barre d'outils.
+- _Balisage du texte_ - Appliquez facilement du texte enrichi à vos sujets à partir de la barre d'outils.
+- _Centrer le marqueur 2D_ - L'ouverture d'un marqueur à partir d'un sujet centrera la vue sur l'emplacement du marqueur.
+- Support de la langue vietnamienne. 🇻🇳
+
+**Nouvelle version 3.4.0**
+
+- Les problèmes ont été renommés en sujets
+- Corrections de bogues
+
+**Intégration Sharepoint :**
+
+- Vous pouvez maintenant vous connecter à votre compte Catenda via une fenêtre contextuelle du navigateur au lieu d'attendre un e-mail.
+
 # Journal des modifications 5 Catenda - Avril 2024
 
 Bonjour à tous,
@@ -23805,7 +25269,7 @@ _[Structurer les documents](https://support.catenda.com/en/articles/8542598-stru
 
 **Modèles** [Visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer) [Visionneuse 2D](https://support.catenda.com/en/articles/4854537-2d-viewer) [Requêtes](https://support.catenda.com/en/articles/4854514-queries)
 
-**Panneau d'information** [Panneau d'information](https://support.catenda.com/en/articles/8238584-information-panel) _​_
+**Panneau d'information** [Panneau d'information](https://support.catenda.com/en/articles/8238584-information-panel)
 
 **Paramètres** [Page Étiquettes](https://support.catenda.com/en/articles/4670265-labels-page) [Créer une équipe](https://support.catenda.com/en/articles/4670264-creating-a-team)
 
@@ -23935,8 +25399,6 @@ _Mises à jour récentes_ [Flux de statut 🖥️ Partagé -> ✔️ Publié](ht
 **Visionneurs 2D et 3D** [Quantitatif (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
 
 _Panneau d'information_ [Menu Inspecter](https://support.catenda.com/en/articles/4670285-inspect-menu) [Panneau d'information](https://support.catenda.com/en/articles/8238584-information-panel)
-
-**​**
 
 **Paramètres**
 
@@ -24396,7 +25858,8 @@ Voici les nouveautés de cette version :
 
 - Supprimer les commentaires de problème à l'aide du geste de balayage
 
-- Écran de paramètres amélioré. Vous pouvez maintenant choisir votre écran d'accueil préféré
+- Écran de paramètres amélioré.
+Vous pouvez maintenant choisir votre écran d'accueil préféré
 
 - Nouveau système de notifications in-app pour vous fournir des informations plus utiles
 
@@ -24465,7 +25928,6 @@ Dorénavant, en étant hors ligne sur le chantier, vous pouvez :
 1. [Créer un nouveau problème hors ligne](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
 1. [Ajouter / Mettre à jour / Supprimer les commentaires](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues) avec des images et des viewpoints hors ligne
 1. Soumettre tous vos changements hors ligne depuis [le nouvel écran de la boîte d'envoi](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)
-   ​
 
 ## 2. Collections de documents
 
@@ -24514,7 +25976,6 @@ Par exemple, certains documents ou sujets.
 Un destinataire sharelink ne verra alors que ces éléments. Si la page est partagée avec un destinataire sharelink, il verra la page entière, y compris les filtres, en fonction de son accès au projet.
 
 1. Cliquez sur le bouton ShareLink.
-   ​
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 
@@ -24803,7 +26264,7 @@ Certaines fonctionnalités peuvent être activées pour les projets existants pa
 
 Le nouveau workflow de Statut n'a plus besoin d'être demandé à être activé et est désormais disponible à la fois pour les nouveaux utilisateurs et peut être activé pour les projets qui utilisent actuellement le workflow de Statut hérité en activant les révisions partagées dans les paramètres des Documents.
 
-### 1.3 ​**Page Objets**
+### 1.3 **Page Objets**
 
 Recherchez n'importe quel contenu de votre IFC avec logique. La page Objets est une fonctionnalité à la demande qui peut être demandée à être activée pour les projets en cours. Les nouveaux projets créés sur la base d'un project model où cette fonctionnalité est activée n'ont pas cette fonctionnalité activée. Par exemple, toutes les "entités Portes" du "Modèle A" qui sont plus hautes que 2 mètres. Configurez les colonnes pour afficher les propriétés pertinentes pour chaque élément de ligne du tableau. Si les résultats du Filtre ont un objet dans la Visionneuse 3D, cet objet peut être sélectionné en 3D. Exportez les éléments sélectionnés avec les colonnes de propriété configurées qui s'affichent dans Excel. Similaire à la fonctionnalité QTO, les objets sélectionnés en 3D peuvent également être filtrés. Comparé à la fonctionnalité QTO, il n'y a aucun problème à charger des milliers de lignes dans le tableau.
 

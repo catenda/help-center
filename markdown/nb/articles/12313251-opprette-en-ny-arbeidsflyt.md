@@ -184,7 +184,6 @@ Aktiver Krev vurdering fra alle teammedlemmer for å kreve at hvert enkelt medle
 - **Når dette er av** (den nåværende, eneste oppførselen som beskrives andre steder i dette hjelpesenteret), kan ethvert medlem av vurderingsteamet sende inn en valideringsindikasjon på vegne av hele teamet, og trinnet kan fortsette så snart de gjør det.
 
 - **Når dette er på,** er teamets trinn ikke fullstendig før hvert enkelt medlem har gitt sin egen indikasjon. Se Oversiktsfanen, menyen til høyre for filgjennomgang og artiklene i menyen til høyre for dokumentfanen for hvordan dette vises under gjennomgang.
-  ​
 
 ### 4.6 **Slett vurderingstrinn**
 

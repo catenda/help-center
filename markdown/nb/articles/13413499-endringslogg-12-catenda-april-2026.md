@@ -173,7 +173,6 @@ Takk for verdifulle tilbakemeldinger har vi kunne eliminere mange saker som du k
   Navn på egenskaper og egendomsett som har punktum i dem vises nå riktig i hodecellen i kolonnen på objektsiden i stedet for bare alt etter punktumet som vises. Det er nå også mulig å søke på disse typene egenskapsnavn.
 - **[Modellside] Uendelig spinner for delte revisjoner etter å være deaktivert**
   I prosjekter der delte revisjoner ble deaktivert etter at delte modellrevisjoner ble lastet opp mens delte revisjoner var aktivert, vil uendelige spinnere ikke lenger være synlige i viserkolonnen på modellsiden.
-  ​
 
 ### 3.4 **Rapporter**
 

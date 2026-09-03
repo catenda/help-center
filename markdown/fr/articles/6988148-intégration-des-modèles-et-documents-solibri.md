@@ -89,7 +89,7 @@ Sélectionnez un ensemble de documents en cochant les cases ou cochez la case en
 
 Après la sélection, le menu d'information apparaîtra en haut à droite. S'il est fermé, cliquez sur l'icône `i` pour l'agrandir.
 
-### 5.4 ​**Menu d'information droit -** Télécharger
+### 5.4 **Menu d'information droit -** Télécharger
 
 Lors de l'importation, vous pouvez configurer les documents qui seront importés dans Solibri.
 

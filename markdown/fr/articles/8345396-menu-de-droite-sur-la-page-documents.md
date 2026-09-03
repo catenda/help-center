@@ -4,7 +4,7 @@ Après avoir sélectionné un ou plusieurs Document(s), l'icône d'information a
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/01-intro.png)
 
-Ce panneau développé peut avoir un aspect différent selon ce que vous avez sélectionné [​_Un dossier_ ](#h_cad792004b) _- [Un Document](#h_2fac53531d) - [Plusieurs dossier(s) et/ou Document(s)](#h_58d67056f7)_
+Ce panneau développé peut avoir un aspect différent selon ce que vous avez sélectionné [_Un dossier_ ](#h_cad792004b) _- [Un Document](#h_2fac53531d) - [Plusieurs dossier(s) et/ou Document(s)](#h_58d67056f7)_
 
 ## 1. Un dossier
 

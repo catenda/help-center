@@ -173,7 +173,6 @@ Dank Ihres wertvollen Feedbacks haben wir viele Probleme gelöst, die Sie mögli
   Namen von Eigenschaften und Eigenschaftssätzen, die Punkte enthalten, werden jetzt korrekt in der Kopfzelle der Spalte auf der Objektseite angezeigt, anstatt nur alles nach dem Punkt anzuzeigen. Es ist nun auch möglich, diese Arten von Eigenschaftsnamen zu durchsuchen.
 - **[Modellseite] Endlose Spinner für gemeinsame Revisionen nach Deaktivierung**
   In Projekten, in denen gemeinsame Revisionen deaktiviert wurden, nachdem gemeinsame Modellrevisionen hochgeladen wurden, während gemeinsame Revisionen aktiviert waren, werden endlose Spinner in der Viewer-Spalte auf der Modellseite nicht mehr sichtbar sein.
-  ​
 
 ### 3.4 **Berichte**
 

@@ -91,10 +91,10 @@ De [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-c
 
 - **Weergave per gebruiker**
   Bekijk afzonderlijke gebruikerstoegangsniveaus rechtstreeks vanuit het informatiedeelvenster aan de rechterkant van een topicbord of geselecteerd topic.
-  ​_Vereiste toegang:_ leestoegang tot het topicbord
+  _Vereiste toegang:_ leestoegang tot het topicbord
 - **Volledige teamconfiguratie**
   Legfoto's van de volledige teamniveaumachtigingsinstellingen binnen de topicboardtoegangsinstellingen vast.
-  ​_Vereiste toegang:_ Volledige toegang tot het topicbord of projectbeheerder
+  _Vereiste toegang:_ Volledige toegang tot het topicbord of projectbeheerder
 
 **Document- en Modeltoegang** Exporteer het [toegangsoverzicht](https://support.catenda.com/en/articles/6660820-document-access-overview-page) om machtigingen voor leden en teams vast te leggen. Vereiste toegang: Projectbeheerder. Omdat elk model is gekoppeld aan een document in de documentensectie, worden toegangsmachtigingen voor modellen bepaald door de onderliggende documentmachtigingen en worden ze vastgelegd met behulp van hetzelfde documenttoegangsoverzicht of machtigingsmenu's.
 
@@ -106,7 +106,7 @@ De [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-c
   Projectleden kunnen elk menu onder toegangsbeheer uitvouwen om te zien welke afzonderlijke gebruikers toestemming hebben om elke actie uit te voeren.
 - **Volledige configuratie**
   Beheerders kunnen het bewerkingtoegangsdialoogvenster openen om teamniveaumachtigingsconfiguraties weer te geven en te beheren.
-  ​_Vereiste toegang:_ Projectbeheerder
+  _Vereiste toegang:_ Projectbeheerder
 
 **Gebruikersprofielen en liddetails** Informatie over projectleden en teams is beschikbaar om te extraheren of te documenteren, inclusief:
 

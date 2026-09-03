@@ -164,7 +164,7 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 - **[Objects page] Filtered excel export**<br>The objects page now takes every filter into account when exporting to excel instead of just the models filter.
 - **[Objects page] Paginated selection**<br>When scrolling down to further than 100 objects it is now possible to select all rows with the checkbox on the top left instead of just the the first 100 rows.
 - **[Objects page] Periods in names**<br>Names of properties and property sets that have preriods in them are now properly displayed in the header cell of the column on the objects page instead of only everything after the period being displayed. It is now also possible to search on these types of property names.
-- **[Models page] Infinite spinner for shared revisions after being disabled**<br>In projects where shared revisions were disabled after shared model revisions were uploaded while shared revisions were enabled there infinite spinners will no longer be visible in the viewer column on the models page.<br>​
+- **[Models page] Infinite spinner for shared revisions after being disabled**<br>In projects where shared revisions were disabled after shared model revisions were uploaded while shared revisions were enabled there infinite spinners will no longer be visible in the viewer column on the models page.<br>
 
 ### 3.4 **Reports**
 

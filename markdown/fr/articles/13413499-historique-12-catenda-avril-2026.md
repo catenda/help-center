@@ -173,7 +173,6 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreux sujets 
   Les noms des propriétés et des ensembles de propriétés qui ont des points en eux sont maintenant correctement affichés dans la cellule d'en-tête de la colonne sur la page des objets au lieu de simplement afficher tout après le point. Il est maintenant aussi possible de rechercher sur ces types de noms de propriétés.
 - **[Page Modèles] Spinner infini pour les révisions partagées après désactivation**
   Dans les projets où les révisions partagées ont été désactivées après que les révisions de modèle partagé aient été téléchargées alors que les révisions partagées étaient activées, les spinners infinis ne seront plus visibles dans la colonne de la visionneuse sur la page des modèles.
-  ​
 
 ### 3.4 **Rapports**
 

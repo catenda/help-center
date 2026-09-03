@@ -24,7 +24,7 @@ Voici une comparaison des avantages et des inconvénients de ces 2 variantes :
 
 Vous pourrez trouver de bonnes suggestions sur la création d'une structure de dossiers dans [cet article](https://support.catenda.com/en/articles/8542598-structuring-documents). Vous pouvez également trouver un exemple de structure de dossiers utilisé par la Direction de la Construction de l'État en Bavière au [lien](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) suivant. Les structures de dossiers peuvent être mises en place de manière très différente. D'une part, cela dépend des exigences du projet et de l'équipe de projet associée, et d'autre part, la structure des dossiers dépend de la clé de plan utilisée.
 
-### 1.1 ​**Exemple -** Séparation des structures par phase
+### 1.1 **Exemple -** Séparation des structures par phase
 
 Une structure de dossiers est mise en place en fonction des phases de service. Cela sépare clairement les documents de quelles phases de gestion sont stockés dans quels dossiers. Mais que se passe-t-il avec les documents qui s'appliquent à toutes les phases de service ? Vous pourriez penser que si les documents sont organisés dans les dossiers des différentes phases de service, cette information n'est plus nécessaire dans la clé de plan, par exemple. Mais que se passe-t-il lorsqu'un plan est imprimé ou envoyé numériquement au chantier ? Là aussi, le nom du plan devrait être utilisé pour identifier le document exact. Dans le meilleur des cas, la structure des dossiers et la clé de plan forment une unité qui fonctionne pour tous les acteurs impliqués tout au long du projet.
 

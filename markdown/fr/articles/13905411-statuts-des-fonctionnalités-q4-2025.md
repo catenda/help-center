@@ -18,7 +18,7 @@ Certaines fonctionnalités peuvent être activées pour les projets existants pa
 
 Le nouveau workflow de Statut n'a plus besoin d'être demandé à être activé et est désormais disponible à la fois pour les nouveaux utilisateurs et peut être activé pour les projets qui utilisent actuellement le workflow de Statut hérité en activant les révisions partagées dans les paramètres des Documents.
 
-### 1.3 ​**Page Objets**
+### 1.3 **Page Objets**
 
 Recherchez n'importe quel contenu de votre IFC avec logique. La page Objets est une fonctionnalité à la demande qui peut être demandée à être activée pour les projets en cours. Les nouveaux projets créés sur la base d'un project model où cette fonctionnalité est activée n'ont pas cette fonctionnalité activée. Par exemple, toutes les "entités Portes" du "Modèle A" qui sont plus hautes que 2 mètres. Configurez les colonnes pour afficher les propriétés pertinentes pour chaque élément de ligne du tableau. Si les résultats du Filtre ont un objet dans la Visionneuse 3D, cet objet peut être sélectionné en 3D. Exportez les éléments sélectionnés avec les colonnes de propriété configurées qui s'affichent dans Excel. Similaire à la fonctionnalité QTO, les objets sélectionnés en 3D peuvent également être filtrés. Comparé à la fonctionnalité QTO, il n'y a aucun problème à charger des milliers de lignes dans le tableau.
 

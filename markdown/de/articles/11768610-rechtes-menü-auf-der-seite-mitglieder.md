@@ -2,11 +2,11 @@
 
 Wählen Sie ein Element auf der [Seite "Mitglieder und Teams"](https://support.catenda.com/en/articles/4670291-members-and-teams-page) aus, damit die Schaltfläche "Info" rechts neben der Such- oder Filterleiste angezeigt wird. Hier können Sie die Schaltfläche auf der Seite finden:
 
-![Registerkarte „Mitglieder
+![Registerkarte "Mitglieder" der Seite "Mitglieder". Ein Pfeil zeigt auf die ](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/01-intro.png)
 
 Die Schaltfläche "Info" kann ungefähr so aussehen:
 
-![Button for right menu on the members page](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/02-intro.png)
+![Schaltfläche für rechtes Menü auf der Seite "Mitglieder"](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/02-intro.png)
 
 Klicken Sie auf dieses Symbol, um ein Menü zu öffnen, in dem Felder für die ausgewählten Elemente geändert werden können.
 
@@ -14,7 +14,7 @@ Klicken Sie auf dieses Symbol, um ein Menü zu öffnen, in dem Felder für die a
 
 So kann das rechte Menü auf der Registerkarte "Mitglieder" aussehen:
 
-![Members details](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/03-right-menu-on-the-members-tab.png)
+![Mitgliederdetails](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/03-right-menu-on-the-members-tab.png)
 
 Wenn Sie ein Mitglied auswählen, können die Initialen oder der Avatar, der Name und die E-Mail dieses Mitglieds oben im Menü angezeigt werden.
 
@@ -24,7 +24,7 @@ Anschließend werden die Anzahl der ausgewählten Mitglieder und die Gesamtzahl 
 
 Geben Sie diesem Mitglied entweder den Status Administrator oder Mitglied. Es ist nicht möglich, die Rolle eines Projekteigentümers zu ändern
 
-![Cannot update the role of the project owner](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/04-member-role.png)
+![Die Rolle des Projekteigentümers kann nicht aktualisiert werden](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/04-member-role.png)
 
 Für Mitglieder, die nicht der Projekteigentümer sind, kann das Team geändert werden. _Erforderlicher Zugriff:_ Administrator
 
@@ -42,7 +42,7 @@ Wenn ein ausgewähltes Mitglied eine andere Rolle hat als die ausgewählte Rolle
 
 So kann das rechte Menü auf der Registerkarte "Teams" aussehen:
 
-![Right menu with details about a team where you can set role add and remove members](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/05-right-menu-on-the-teams-tab.png)
+![Rechtes Menü mit Details zu einem Team, in dem Sie Rollen festlegen, Mitglieder hinzufügen und entfernen können](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/05-right-menu-on-the-teams-tab.png)
 
 Wenn Sie ein Team auswählen, können die Initialen oder der Avatar, der Name und die Anzahl der Mitglieder dieses Teams oben im Menü angezeigt werden.
 

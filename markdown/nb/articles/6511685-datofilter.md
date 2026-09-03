@@ -12,9 +12,9 @@ Filtrene er plassert i det venstre panelet:
 
     <div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-60a1bb50b7da.png" style="height: auto;" width="3360"/></div><div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-84e66eb66553.png" style="height: auto;" width="3360"/></div>
 
-   Det er to muligheter:
+Det er to muligheter:
 
-   **A.** Du kan velge en fane i panel A: I dag, i går, for en uke siden ...
+**A.** Du kan velge en fane i panel A: I dag, i går, for en uke siden ...
 
     <div class="intercom-container"><img height="530" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-2a7e66b298c6.png" style="height: auto;" width="280"/></div>
 
@@ -28,6 +28,6 @@ Du kan aktivere og deaktivere filteret ditt når som helst, ved å merke av/fjer
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/02-intro.png)
 
-**Kort video -**
+_Kort video -_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/03-intro.gif)

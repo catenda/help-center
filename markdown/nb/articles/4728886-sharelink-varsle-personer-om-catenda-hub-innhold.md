@@ -25,7 +25,6 @@ For eksempel noen Dokumenter eller Saker.
 En ShareLink-mottaker vil da bare se disse elementene. Hvis siden deles med en ShareLink-mottaker, vil de se hele siden, inkludert Filtre, basert på deres tilgang i prosjektet.
 
 1. Klikk på ShareLink-knappen.
-   ​
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 

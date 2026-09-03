@@ -36,7 +36,7 @@ _Mehrere Status/Typen auf einmal verknüpfen_ Wenn es nicht verknüpfte Status/T
 
 Wenn Sie auf den Link klicken, werden Sie zum Bereich [Nicht verknüpfte Felder](https://support.catenda.com/en/articles/4670277-topic-board-settings#h_3bd7e3e759) der [Themen-Board-Einstellungen](https://support.catenda.com/en/articles/4670277-topic-board-settings) weitergeleitet, wo Sie alle Felder einer Art auf einmal auf einen vorhandenen Wert verknüpfen können.
 
-## 2. **Themen exportieren**​
+## 2. **Themen exportieren**
 
 Sie können Themen entweder exportieren, indem Sie "Themen exportieren" im [Menü "Neues Element"](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_8c642e051a) oben rechts im Themen-Board wählen, oder indem Sie ein Thema in der Themenliste auswählen und die Exportoption im [Menü "Ausgewähltes Element"](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_b5c00c149b) über dem Themen-Board wählen. Der Exportdialog für Themen kann etwa wie folgt aussehen:
 

@@ -28,19 +28,19 @@ The stamp types in the preset menu can include the following information:
 
 ### 2.2 Stamp type content
 
-In the preset menu, the following stamps can be seen: _​_**Firstname** - Everything before the first space in the account name
+In the preset menu, the following stamps can be seen: **Firstname** - Everything before the first space in the account name
 
 **Middlename Lastname** - Everything after the first space in the account name
 
 **Firstname Middlename Lastname** - Complete account name
 
-**​Firstname** - Everything before the first space in the account name Date
+**Firstname** - Everything before the first space in the account name Date
 
 **Middlename Lastname** - Everything after the first space in the account name Date
 
 **Firstname Middlename Lastname** - Complete account name Date
 
-_​_**Firstname** - Everything before the first space in the account name Date and time
+**Firstname** - Everything before the first space in the account name Date and time
 
 **Middlename Lastname** - Everything after the first space in the account name Date and time
 
@@ -64,7 +64,7 @@ _​_**Firstname** - Everything before the first space in the account name Date 
 
 **TENDER DOCUMENT** Complete account name and date
 
-## 3. ​Create new stamp
+## 3. Create new stamp
 
 Click Create New Stamp to open the Create New Stamp dialogue. The Create New Stamp dialogue can look something like this:
 

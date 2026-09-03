@@ -84,6 +84,7 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Approbation des documents - Héritage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5784717-approbation-des-documents-héritage.md): Découvrez comment configurer un flux de travail d'approbation des documents
 - [Approbation ouverte, publiée ou rejetée - Historique](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8349418-approbation-ouverte-publiée-ou-rejetée-historique.md)
 - [Bannière de documents - Navigation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8461918-bannière-de-documents-navigation.md)
+- [Bannière de sujet - Navigation dans les sujets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7986346-bannière-de-sujet-navigation-dans-les-sujets.md)
 - [Bibliothèque de classification](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670255-bibliothèque-de-classification.md)
 - [Bibliothèque de Liens](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670254-bibliothèque-de-liens.md)
 - [Bibliothèque de valeurs de propriété](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670252-bibliothèque-de-valeurs-de-propriété.md)
@@ -93,6 +94,7 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Captures 3D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/10345863-captures-3d.md)
 - [Cas d'usage du déploiement du contrôle d'accès](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15644249-cas-d-usage-du-déploiement-du-contrôle-d-accès.md)
 - [Champs personnalisés dans un topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6563368-champs-personnalisés-dans-un-topic-board.md)
+- [Champs personnalisés sur les documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9531080-champs-personnalisés-sur-les-documents.md)
 - [Code QR sur les PDF dans Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9360508-qr-code-sur-les-pdf-dans-catenda.md)
 - [Colonnes sur la page des documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8466850-colonnes-sur-la-page-des-documents.md)
 - [Comment les niveaux d'accès sont calculés](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15644094-comment-les-niveaux-d-accès-sont-calculés.md)
@@ -103,8 +105,10 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Connecteur Catenda Desktop](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8358861-connecteur-de-bureau-catenda.md)
 - [Connecteur Catenda Power BI](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5784721-connecteur-catenda-power-bi.md)
 - [Contrôle d'accès aux dossiers et documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670287-contrôle-d-accès-aux-dossiers-et-documents.md): Niveaux de contrôle d'accès pour les documents
+- [Contrôle d'accès pour la création de liste de sujets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670299-contrôle-d-accès-pour-la-création-de-liste-de-sujets.md)
 - [Contrôle d'accès à la liste de sujets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670296-contrôle-d-accès-à-la-liste-de-sujets.md): Niveaux de contrôle d'accès aux listes de sujets
 - [Convention de dénomination la plus simple](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7845360-convention-de-dénomination-la-plus-simple.md)
+- [Convention de nommage avancée](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7936947-convention-de-nommage-avancée.md)
 - [Convention de nommage intermédiaire](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7936943-convention-de-nommage-intermédiaire.md)
 - [Corps du sujet - Le contenu d'un sujet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet.md)
 - [Création d'un champ personnalisé](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8445575-création-d-un-champ-personnalisé.md)
@@ -167,13 +171,16 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Menu Inspect](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670285-menu-inspect.md)
 - [Menu Topics - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7734073-menu-topics-catenda-site.md)
 - [Mesure vers les plans glissants](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670298-mesure-vers-les-plans-glissants.md)
+- [Mode hors ligne dans Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7325268-mode-hors-ligne-dans-catenda-site.md)
 - [Modification du nom de votre projet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670256-modification-du-nom-de-votre-projet.md)
 - [Modifier un commentaire de Sujets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6175852-modifier-un-commentaire-de-sujets.md): Comment modifier un commentaire dans un Sujets
 - [Niveaux de contrôle d'accès](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8967083-niveaux-de-contrôle-d-accès.md)
+- [Notifications Équipes Microsoft](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9167392-notifications-équipes-microsoft.md): Restez à jour sans changer d'onglet. Connectez Catenda Hub à Microsoft Équipes pour recevoir des Notifications en temps réel directement dans vos canaux préférés.
 - [Nouveau workflow de statut - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9874698-guide-utilisateur-flux-de-validation-iso-19650.md)
 - [Nuages de points dans Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5606625-nuages-de-points-dans-catenda-hub.md): Découvrez comment bénéficier des analyses laser et des technologies LIDAR dans Catenda Hub.
 - [Numérisation de code QR Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12117671-numérisation-de-code-qr-catenda.md)
 - [Onglet Aperçu dans une demande de validation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12495126-onglet-aperçu-dans-une-demande-de-validation.md)
+- [Onglet Documents dans une demande de validation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12495130-onglet-documents-dans-une-demande-de-validation.md)
 - [Opérations sur les éléments de la Bibliothèque de Documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15647394-opérations-sur-les-éléments-de-la-bibliothèque-de-documents.md)
 - [Outils d'aperçu de document - Tampon caoutchouc](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11678493-outils-d-aperçu-de-document-tampon-caoutchouc.md)
 - [Page Bibliothèques](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8065645-page-bibliothèques.md)
@@ -198,6 +205,7 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Page des milestones](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670266-page-des-milestones.md)
 - [Page des modèles de topic - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12367730-page-des-modèles-de-topic-legacy.md)
 - [Page des paramètres d'approbation - Héritage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12367293-page-des-paramètres-d-approbation-héritage.md)
+- [Page des paramètres des gabarits de sujet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/14076010-page-des-paramètres-des-gabarits-de-sujet.md): Gérez vos paramètres de gabarits de sujet
 - [Page des paramètres du document](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7831371-page-des-paramètres-du-document.md)
 - [Page des paramètres du projet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670273-page-des-paramètres-du-projet.md)
 - [Page des paramètres du tableau de bord des sujets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670277-page-des-paramètres-du-tableau-de-bord-des-sujets.md)
@@ -226,6 +234,7 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Plugin Catenda Navisworks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5085987-catenda-hub-navisworks-plugin-description-lien-telechargement.md)
 - [Plugin Catenda Tekla](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6549656-plugin-catenda-tekla.md): Connecter Catenda Hub et Tekla
 - [Plugins et intégrations Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8396532-plugins-et-integrations-catenda.md): Connectez Catenda à votre outil préféré
+- [Points de vue 2D et 3D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9184555-points-de-vue-2d-et-3d.md)
 - [Qu'est-ce qu'un topic dans Catenda?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8979789-qu-est-ce-qu-un-topic-dans-catenda.md)
 - [Relevé de quantités (QTO)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6673929-relevé-de-quantités-qto.md)
 - [Requêtes](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4854514-requêtes.md): Une explication de la fonction de requête dans la barre d'outils 2D
@@ -235,15 +244,20 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Ruban d'étapes dans une demande de validation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12495212-ruban-d-étapes-dans-une-demande-de-validation.md)
 - [Résumé des raccourcis et commandes de base les plus importants](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670267-résumé-des-raccourcis-et-commandes-de-base-les-plus-importants.md): Raccourcis et touches de fonction
 - [Révisions dans la convention de nommage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9496151-révisions-dans-la-convention-de-nommage.md)
+- [Suivi des informations par liaison](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8294909-suivi-des-informations-par-liaison.md)
 - [Suivre les annotations avec les markups](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/10210710-suivre-les-annotations-avec-les-markups.md)
 - [Sélecteur de révision](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670279-sélecteur-de-révision.md)
 - [Sélection et découpage à partir de 2D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8035360-sélection-et-découpage-à-partir-de-2d.md)
 - [Tableau de bord - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7213817-tableau-de-bord-catenda-site.md)
+- [Test de collision dans Navisworks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7120422-test-de-collision-dans-navisworks.md)
 - [Téléchargement d'une nouvelle révision de document](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670293-téléchargement-d-une-nouvelle-révision-de-document.md)
 - [Télécharger un document](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670278-télécharger-un-document.md)
 - [Télécharger un fichier zip / structure de fichiers](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7945410-deposer-un-fichier-zip-une-arborescence-de-dossiers-et-de-fichiers.md)
 - [Télécharger une structure de dossier](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670258-télécharger-une-structure-de-dossier.md)
 - [Téléchargez votre application mobile Catenda Site 📲](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6530821-téléchargez-votre-application-mobile-catenda-site.md)
+- [Utilisation de modèles de sujets avec les approbations](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/14078683-utilisation-de-modèles-de-sujets-avec-les-approbations.md): Appliquer un modèle de sujet d'approbation à un modèle de circuit de validation
+- [Utilisation de modèles de sujets lors de l'enregistrement de sujets de balisage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/14078352-utilisation-de-modèles-de-sujets-lors-de-l-enregistrement-de-sujets-de-balisage.md): Appliquer un modèle de sujet de document lors de la création d'un balisage à partir d'un document
+- [Utilisation des modèles de sujets dans une liste de sujets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/14075921-utilisation-des-modèles-de-sujets-dans-une-liste-de-sujets.md): Appliquer un modèle de sujet général lors de la création d'un sujet
 - [Utilisation des problèmes connexes](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5036456-utilisation-des-problèmes-connexes.md): Les problèmes connexes aident les utilisateurs à assurer le suivi et à suivre la progression.
 - [Visionneuse 2D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4854537-visionneuse-2d.md): Décrit les différents outils de la barre d'outils 2D
 - [Visionneuse 2D - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7748370-visionneuse-2d-catenda-site.md)
@@ -338,6 +352,7 @@ Problèmes de connexion, problèmes de performances, support, etc.
 - [Redimensionnement des colonnes](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6887350-redimensionnement-des-colonnes.md)
 - [Structuration des documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8542598-structuration-des-documents.md)
 - [Sécurité du projet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8263256-sécurité-du-projet.md)
+- [Tableaux sur Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11748020-tableaux-sur-catenda.md)
 - [Un membre standard peut-il inviter de nouveaux membres à un projet ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670321-un-membre-standard-peut-il-inviter-de-nouveaux-membres-à-un-projet.md)
 - [User Voice @ Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/5925449-user-voice-catenda.md): L'engagement de Catenda à livrer de la valeur à nos utilisateurs
 
@@ -358,7 +373,9 @@ Trouvez les dernières mises à jour de Catenda Hub
 - [Journal des modifications 1 Catenda - Avril 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7018311-journal-des-modifications-1-catenda-avril-2023.md)
 - [Journal des modifications 10 Catenda - octobre 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11582902-journal-des-modifications-10-catenda-octobre-2025.md)
 - [Journal des modifications 11 Catenda - janvier 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12529903-journal-des-modifications-11-catenda-janvier-2025.md)
+- [Journal des modifications 2 Catenda - Juillet 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7338675-journal-des-modifications-2-catenda-juillet-2023.md)
 - [Journal des modifications 3 Catenda - Octobre 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7983534-journal-des-modifications-3-catenda-octobre-2023.md): Nouvelles informations et modifications mineures
+- [Journal des modifications 4 Catenda - janvier 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8433887-journal-des-modifications-4-catenda-janvier-2024.md): Nouvelles informations et modifications mineures
 - [Journal des modifications 5 Catenda - Avril 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8851281-journal-des-modifications-5-catenda-avril-2024.md)
 - [Journal des modifications 7 Catenda - Décembre 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9691178-journal-des-modifications-7-catenda-décembre-2024.md)
 - [Journal des modifications de Catenda Site - 3.5.0](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9930034-journal-des-modifications-de-catenda-site-3-5-0.md)

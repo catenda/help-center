@@ -14,7 +14,7 @@ Sharelink - [https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY](https
 
 ### 1.2 **Onboarding en ondersteuning - [Afspeellijst](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7?track_link_name=Intercom&track_link_id=vrc3txAqpnzG21ahEDofSs&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 
-Sharelink - ​[https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7)
+Sharelink - [https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7)
 
 - [Verbinding maken met Catenda Hub](https://eu.guidde.com/share/playbooks/sAJ9zHv65kinzKseJPmNQm?track_link_name=Changelog&track_link_id=nQAaRkkuJwtN2my3y8ZNSK&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [Accountinstellingen en Notificaties](https://eu.guidde.com/share/playbooks/6cAvR5y6ugZsAShAwPLL6f?track_link_name=Guidde%20videos%20article&track_link_id=7Hvd2JT6GLw4efuaAPGkX3&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
@@ -39,7 +39,7 @@ Sharelink - [https://eu.guidde.com/share/playlists/9EG9WZEd2UiGMPZVVQfHuR](https
 
 ### 1.5 **Inhoudsbeheer - [Afspeellijst](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7?track_link_name=Intercom&track_link_id=khM8GzpkYf6nta8Y46UGED&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 
-Sharelink - ​[https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7)
+Sharelink - [https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7)
 
 - [Mappen en submappen toevoegen](https://eu.guidde.com/share/playbooks/o7pDsqiQCKPyTGBLifxKgE?track_link_name=Guidde%20videos%20article&track_link_id=aLvZdST9FaxbeYtZShRcoc&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [Een verzameling maken en delen](https://eu.guidde.com/share/playbooks/rcTnM584AAZPy6APbGyQS9?track_link_name=Guidde%20videos%20article&track_link_id=vruZ7x8jeTfCrHT6bS911i&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)

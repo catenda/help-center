@@ -184,7 +184,6 @@ Aktivieren Sie "Prüfung durch alle Teammitglieder erforderlich", um zu verlange
 - **Wenn diese Option deaktiviert ist** (das aktuelle, einzige Verhalten, das an anderer Stelle in diesem Hilfecenter beschrieben wird), kann ein beliebiges Mitglied des Prüfteams eine Validierungsangabe im Namen des gesamten Teams einreichen, und der Schritt kann sofort fortgesetzt werden.
 
 - **Wenn diese Option aktiviert ist,** ist der Schritt des Teams nicht abgeschlossen, bis jedes einzelne Mitglied seine eigene Angabe gemacht hat. Weitere Informationen dazu, wie dies während der Prüfung angezeigt wird, finden Sie in den Artikeln zur Übersichtsregisterkarte, dem Dateiprüfungsmenü auf der rechten Seite und dem Dokumentenregisterkarten-Menü auf der rechten Seite.
-  ​
 
 ### 4.6 **Prüfschritt löschen**
 

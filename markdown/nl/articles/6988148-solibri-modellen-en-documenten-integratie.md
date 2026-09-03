@@ -89,7 +89,7 @@ Selecteer een reeks Documenten door de vakjes in te schakelen of schakel het vak
 
 Nadat u hebt geselecteerd, wordt het informatief menu rechtsboven weergegeven. Klik op het pictogram `i` om het uit te vouwen als het gesloten is.
 
-### 5.4 ​**Menu Rechts informatie -** Download
+### 5.4 **Menu Rechts informatie -** Download
 
 Bij het importeren kunt u configureren welke Documenten naar Solibri worden geïmporteerd.
 

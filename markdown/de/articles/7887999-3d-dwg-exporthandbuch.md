@@ -50,7 +50,7 @@ Derzeit gibt es keine offizielle Möglichkeit, aus Navisworks zu IFC zu exportie
 
 > **Hinweis:** IFC 4x1 wird von BuildingSMART eingestellt und wird daher auch von Catenda Hub nicht unterstützt. Siehe [hier](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support), welche Dateitypen in Catenda Hub unterstützt werden
 
-1. Ressource und Zuweisung
+1\. Ressource und Zuweisung
 
 1. Ressource – Klicken Sie mit der rechten Maustaste, um eine Ressourcenperson und Organisation hinzuzufügen
 1. Zuweisung – Klicken Sie mit der rechten Maustaste, um eine zugewiesene Person und Organisation hinzuzufügen

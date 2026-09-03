@@ -289,7 +289,7 @@ When clickable text in a row is hovered the cursor can change to a pointer. The 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/26-text-hover.png)
 
-## 10. Interacting with rows by clicking​
+## 10. Interacting with rows by clicking
 
 Different behaviors can occur when clicking on the content of a row.
 
@@ -362,7 +362,7 @@ v
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/35-copy-row-content.png)
 
-## 11. ​Scroll bars
+## 11. Scroll bars
 
 ### 11.1 Vertical scroll bar
 

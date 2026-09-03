@@ -70,7 +70,6 @@ Als nieuwe functies worden uitgerold en bugs worden opgelost, worden artikelen b
 
 - [Tabellen op Catenda](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
 - [Aangepaste lidgegevens](https://support.catenda.com/en/articles/11769670-custom-member-information)
-  ​
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 

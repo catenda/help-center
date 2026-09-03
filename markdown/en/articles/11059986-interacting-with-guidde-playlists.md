@@ -18,7 +18,7 @@ The videos in the playlist often get updated with changes on the platform. The l
 - Gif
 - Document PDF
 - Slides PDF
-- PPTX​
+- PPTX
 
 ## 3. Sharing the guide
 

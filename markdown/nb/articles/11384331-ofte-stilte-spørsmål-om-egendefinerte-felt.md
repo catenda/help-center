@@ -22,7 +22,7 @@ Egendefinerte feltverdier vises i PDF-eksporten av saker
 
 Egendefinerte felt er ikke ennå inkludert i den eksporterte BCF-en. Egendefinerte felt vil være en del av BCF 4-standarden når den blir utgitt. Etter utgivelsen vil vi og andre BCF-verktøy som følger standarden arbeide med å gjøre feltet tilgjengelig for utveksling.
 
-### 3.3 **​Sak Excel-eksport**
+### 3.3 **Sak Excel-eksport**
 
 En kolonne vil bli lagt til for hvert egendefinert felt i sakbrettet.
 

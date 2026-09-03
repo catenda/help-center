@@ -18,7 +18,7 @@ U kunt de knop Nieuwe collectie rechtsboven vinden
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/02-new-item-actions.png)
 
-### 1.1 **​Nieuwe collectie**
+### 1.1 **Nieuwe collectie**
 
 Wanneer u een nieuwe collectie maakt, wordt u gevraagd het volgende dialoogvenster in te vullen.
 

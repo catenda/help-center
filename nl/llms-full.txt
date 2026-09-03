@@ -2671,6 +2671,146 @@ Met de laagknop kunt u verschillende lagen in de 2D Viewer in- en uitschakelen.
 
 **Kaart** Deze knop wordt weergegeven als een locatie is geconfigureerd in [projectinstellingen](https://support.catenda.com/en/articles/4670273-project-settings-page). Met deze knop kunnen de kaarten worden in- en uitgeschakeld.
 
+# 2D- en 3D-gezichtspunten
+
+2D- en 3D-gezichtspunten kunnen worden toegevoegd als een [opmerking van een topic](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_f76b44d3ca). Snapshots zijn veelzijdige communicatiemiddelen voor 2D- en 3D-informatie omdat ze niet alleen visuele informatie bevatten maar ook kunnen worden gebruikt om een plaats en een moment in een document of model te beschrijven. De informatie die in snapshots wordt opgeslagen, stelt u in staat om samen te werken met 2D- en 3D-informatie, omdat u uw snapshot in elk van uw BCF- en IFC-compatibele services kunt afspelen.
+
+Dit is hoe een 3D-snapshot eruit kan zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/01-intro.png)
+
+De onderstaande snapshot had de volgende instellingen toen de snapshot werd gemaakt: De snapshot werd opnieuw gemaakt met originele revisies. De 7 modeldocumenten die aan de snapshot waren gekoppeld, werden in de 3D-viewer geladen. De 5 geselecteerde objecten uit de modeldocumenten waren geselecteerd 2 Documenten die niet aan modellen waren gekoppeld, werden geladen waarvan één IFC en één puntenwolk. 2D-snapshots hebben dezelfde knoppen, maar met een afbeelding van de 2D-viewer bijgevoegd.
+
+## 1. **Een snapshot maken**
+
+Als u een model in 3D hebt geladen, kunt u op de plus-knop links van het opmerkingsveld voor het topic klikken om een 3D-snapshot aan uw opmerking toe te voegen. Als u de 2D-viewer hebt geopend, kunt u op de plus-knop links van het opmerkingsveld voor het topic klikken om een 2D-snapshot aan uw opmerking toe te voegen. Een snapshot wordt automatisch gemaakt als u iets in 2D of 3D hebt geladen en u een nieuw topic maakt. Klik [hier](https://support.catenda.com/en/articles/10345863-snapshots) voor meer informatie over snapshots.
+
+## 2. **Viewer-afbeeldingen**
+
+Snapshots zijn de beste manier om hoogwaardige afbeeldingen of renderings te maken vanuit de Catenda Hub-viewer om de volgende redenen:
+
+- Snapshotafbeeldingen kunnen worden gedownload uit het [pop-out voor bijlagen](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8).
+- Snapshotafbeeldingen kunnen hogere resoluties hebben dan alleen een schermafbeelding uit de viewer.
+- Snapshotafbeeldingen hebben transparante achtergronden. Bij 3D-snapshots bevat de afbeelding alleen pixels waar objecten in 3D zijn. Bij 2D-snapshots bevat de afbeelding alleen pixels waar lijnen in 2D zijn.
+
+### 2.1 **Afbeeldingsgrootte**
+
+De grootte van de bijgevoegde afbeelding hangt af van de grootte van de viewer en het inzoompercentage van de browser. Het aantal pixels in een snapshotafbeelding is afhankelijk van de grootte van de viewer, het inzoompercentage van de browser en uw weergaveschaal van het besturingssysteem. De grootste afbeelding die ik tot nu toe heb kunnen genereren is 6417 pixels bij 11113 pixels. Om een snapshot van deze grootte te maken, had ik de volgende instellingen:
+
+- 4K-monitorweergave.
+- Inhoudspaneel en 3D-paneel zichtbaar.
+- Inhoudspaneel zo klein mogelijk.
+- Browser op volledig scherm.
+- Browservergroting 10%
+- Weergaveschaal in Windows 100%
+
+Deze instellingen belasten het systeem zeer zwaar en uw computer kan dit mogelijk niet verwerken. U moet deze instellingen dus mogelijk aanpassen aan uw specificaties.
+
+## 3. **Afspeelpictogrammen**
+
+Snapshots bevatten informatie over het moment waarop u de snapshot hebt gemaakt.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/02-play-icons.png)
+
+Als een object op het moment van creatie verborgen was, wordt het object met die ID verborgen wanneer de snapshot opnieuw wordt gemaakt. Als een object was geïsoleerd, wordt het object met die ID weergegeven terwijl objecten die niet zijn geïsoleerd, verborgen worden. Dit geldt ook voor objecten met nieuwe ID's die mogelijk worden toegevoegd aan nieuwere revisies van het model.
+
+### 3.1 **Snapshot opnieuw maken**
+
+Snapshots zijn geweldig voor het tonen van mensen wat u bekijkt, omdat zij dezelfde weergaven niet alleen in Catenda Hub maar ook in hun eigen omgeving opnieuw kunnen maken.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/03-recreate-snapshot.png)
+
+Snapshots kunnen opnieuw worden gemaakt door ze af te spelen in zowel Catenda Hub als in onze plugins. In Catenda Hub zal de snapshot de camera naar de juiste plaats in onze viewer verplaatsen. In de plugins wordt de viewer van de hostsoftware weergegeven.
+
+- Door op deze knop te klikken wordt de snapshot opnieuw gemaakt met hetzelfde model en de nieuwste revisies geladen in de 3D-viewer.
+- De verbonden puntenwolk- of IFC-Documenten worden geladen
+- De camera in de 3D-viewer zal naar de locatie in de snapshot gaan.
+- De snijvlakken uit de snapshot worden opnieuw gemaakt
+- De objecten die in de snapshot waren geselecteerd, worden geselecteerd
+- De kleuren die in selecties zijn ingesteld, krijgen hun opgegeven kleuren
+
+### 3.2 **Snapshot opnieuw maken met originele revisies**
+
+Klik op deze knop om de snapshot opnieuw te maken met het originele model.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/04-recreate-snapshot-with-original-revisions.png)
+
+De modelrevisies die actief waren in de 3D-viewer op het moment van het maken van de snapshot worden in de 3D-viewer geladen wanneer op deze knop wordt geklikt.
+
+## 4. **Inhoudspictogrammen**
+
+In de rechterbenedenhoek van de snapshot vindt u pictogrammen die informatie bevatten over de inhoud van de snapshot.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/05-content-icons.png)
+
+Als het inhoudspaneel klein wordt gemaakt, kunt u enkele van deze inhoudspictogrammen in het actiemenu vinden:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/06-content-icons.png)
+
+Het actiemenu bevindt zich rechtsboven in de snapshot waar niet genoeg ruimte is om alle inhoudspictogrammen weer te geven.
+
+### 4.1 **Modelkiezer**
+
+Als de 3D-viewer open is, is het modellaadinqmenu beschikbaar
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/07-model-picker.png)
+
+- De modellen met een vinkje in dit menu worden geladen wanneer de snapshot wordt afgespeeld.
+
+    <div class="intercom-container"><img height="24" src="https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/inline-b248400a1359.png" style="height: auto;" width="30"/></div>
+
+- De modellen met een plus ervoor worden toegevoegd aan de set modellen met vinkje na opslaan.
+
+    <div class="intercom-container"><img height="25" src="https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/inline-ca568d75479a.png" style="height: auto;" width="30"/></div>
+
+- De modellen met een min ervoor worden verwijderd uit de set modellen met vinkje na opslaan.
+
+    <div class="intercom-container"><img height="30" src="https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/inline-ff3494b6d9f8.png" style="height: auto;" width="30"/></div>
+
+- Afhankelijk van de zichtbaarheid-instellingen van het object in de snapshot, kunnen toegevoegde modellen volledig verborgen zijn. Zelfs als deze niet zichtbaar zijn, zou u moeten zien dat ze zijn geladen wanneer het topic wordt afgespeeld.
+- De modellen die aan zijn wanneer dit menu wordt geopend, weerspiegelen de modellen die momenteel in de 3D-viewer zijn geladen. Om eenvoudig een set modellen toe te voegen of te verwijderen, kunt u een bladwijzer maken, de bladwijzer afspelen, naar de snapshot gaan, op het actiemenu ervan klikken en opslaan in het modellaadinqmenu.
+- Als een model in uw snapshot dezelfde IFCPROJECT GUID heeft als een model in de modelssectie, worden de modellen automatisch gekoppeld.
+
+Hier is een artikel van BuildingSMART waarin wordt beschreven hoe dit in Revit wordt gedaan [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/08-model-picker.png)
+
+### 4.2 **Geselecteerde objecten weergeven**
+
+Selecteer de objecten die in de snapshots zijn geselecteerd in de 3D-viewer.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/09-show-selected-objects.png)
+
+Toont hoeveel objecten in de snapshot zijn geselecteerd
+
+### 4.3 **Gekoppelde documenten**
+
+Klik hier om de modellen uit de snapshot naast de modellen die al in de viewer bestaan te laden.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/10-linked-documents.png)
+
+Toont hoeveel modellen in de snapshot zijn geladen.
+
+### 4.4 **Camerapositie instellen**
+
+Zet de camera op de positie van de snapshot in de 3D-viewer.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/11-set-camera-position.png)
+
+Als u uw 3D-weergave hebt verplaatst nadat u de snapshot hebt afgespeeld, kunt u op deze knop klikken om terug te gaan naar de positie van de snapshot.
+
+## 5. **Afbeelding uitklappen**
+
+Als u met uw muis over de afbeelding van een 2D- of 3D-snapshot beweegt, verschijnt er een vergrootglas. Dit kan er als volgt uitzien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/12-image-pop-out.png)
+
+Nadat de snapshot is ingediend, kan de afbeelding die eraan is gekoppeld [worden uitgeklapt](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) om de inhoud in een groter formaat te zien en te downloaden.
+
+## 6. **Een snapshot verwijderen**
+
+Het is niet mogelijk om een snapshot die aan een opmerking is gekoppeld te verwijderen. Als u de snapshot uit het topic wilt verwijderen, moet u de hele opmerking verwijderen.
+
 # 2D-viewer
 
 > Beschrijft de verschillende tools in de 2D-werkbalk
@@ -3684,6 +3824,37 @@ U kunt de velden nu invoeren in uw volgende topics!
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tv2vef51/07-intro.gif)
 
 👉 **[Aangepaste velden instellen](https://intercom.help/bimsync-arena/en/articles/6550459-setting-of-custom-fields)**
+
+# Aangepaste velden op documenten
+
+In dit artikel leggen we uit hoe u door gebruikers gedefinieerde velden op documenten toepast. Aangepaste velden worden al gebruikt in de naamgevingsconventie en topics.
+
+Dit is metadata die ons helpt op een meer gestructureerde manier op het platform te werken. Projecten werken vaak met een plancode, de naamgevingsconventie. Dit biedt al een vooraf gedefinieerde structuur volgens welke documenten of modellen (bestanden) zijn georganiseerd. Als we ook aanvullende metadata aan bestanden willen koppelen, kan dit via de labels of door gebruikers gedefinieerde velden, bijvoorbeeld. Het verschil, inclusief voordelen en nadelen, tussen de labels en de door gebruikers gedefinieerde velden is in de volgende tabel te zien:
+
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e8e8e880; padding: 8px;"><h3 id="h_d451caef81"><b>Aangepaste velden op documenten</b></h3></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_81285be75b"><b>Labels</b></h3></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>Verschillende typen mogelijk</p><ul><li><p>Tekst</p></li><li><p>Geheel getal</p></li><li><p>Datum</p></li><li><p>Decimaal</p></li><li><p>Dropdown-menu</p></li></ul></li><li><p>Aan mappen toevoegen</p><ul><li><p>Standaardwaarden instellen</p></li><li><p>Vereiste velden instellen</p></li></ul></li><li><p>Onderscheid tussen documenten &amp; revisies mogelijk</p></li><li><p>Waarden automatisch toevoegen bij het uploaden van documenten naar bepaalde mappen</p></li><li><p>Wanneer u documenten uit een map verplaatst, zijn de waarden weg. Tenzij de andere map dezelfde instellingen heeft.</p></li><li><p>Geschiedenis van waarden op het document</p></li><li><p>Regel erven</p></li></ul></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>Labels groeperen</p></li><li><p>Overzicht welke labels bij documenten / topics horen</p></li><li><p>Labels zijn rechtstreeks gekoppeld aan topics / documenten</p></li><li><p>Gebruik in topics &amp; documenten</p></li><li><p>Gemakkelijk te maken</p></li><li><p>Iedereen kan labels maken.</p></li><li><p>Labels voor documenten, niet voor revisies</p></li></ul></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d7504cb7eb"><b>Gebruiksscenario</b></h3></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_ecb9b80743"><b>Gebruiksscenario</b></h3></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>Document uploaden naar een archiefmap. Document krijgt de informatie "gearchiveerd"</p></li><li><p>Extra informatie "opmerkingen" toevoegen aan documenten / modellen</p></li></ul></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>Organiseer het documentbeheersysteem met extra informatie, metadata</p></li></ul></td></tr></tbody></table></div>
+
+> **Opmerking:** **Voorbeeld:** Door gebruikers gedefinieerde velden kunnen worden gebruikt om opmerkingen aan documenten toe te voegen. **Opmerking:** Door de standaardwaarde te gebruiken, worden documenten automatisch voorzien van een overeenkomstige vooraf gedefinieerde waarde zodra ze naar de bijbehorende map worden geüpload. De documentgeschiedenis volgt hier ook elk afzonderlijk proces.
+
+Ga als volgt te werk om door gebruikers gedefinieerde velden op documenten toe te passen:
+
+1. Maakt het gewenste door gebruikers gedefinieerde veld
+1. Wijst het gemaakte door gebruikers gedefinieerde veld toe aan een of meer mappen
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-ba695fa6aebd.png" width="496"/></div>
+
+1. Bepaalt of het door gebruikers gedefinieerde veld moet worden toegewezen aan een document (over revisies heen) of aan elke afzonderlijke revisie
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-20eab3b097ce.png" width="500"/></div>
+
+1. Stelt standaardwaarden in, indien gewenst
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-7241dd9f32dd.png" width="500"/></div>
+
+1. In het documentgebied kunt u het toegewezen door gebruikers gedefinieerde veld op het document onder de mappen in de documentinformatie nu herkennen.
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-f4243a01e272.png" width="500"/></div>
+
+> **Opmerking:** Aangepaste velden zijn ook beschikbaar in het filtergebied of de zoekbalk.
 
 # Aanvraag voor goedkeuring - beoordelingmenu aan de rechterkant
 
@@ -4794,6 +4965,35 @@ Klik op statistieken om de statistiekenpagina voor dat board te openen. _Vereist
 ### 2.4 **Gearchiveerd**
 
 Als u onderaan de lijst op gearchiveerd weergeven klikt, kunt u gearchiveerde onderwerpenbordes openen. _Vereiste toegang:_ Projectbeheerder
+
+# Botsingsdetectie in Navisworks
+
+## 1. Botsingsdetectie en het maken van BCF viewpoint met behulp van de plugin
+
+1. Stel Clash Detective in en voer een botsingstest uit.
+1. Ga door de botsingingen in NW.
+
+a. Geef indien nodig namen
+
+b. Pas viewpoints aan en sla deze op met behulp van **Focus op clash** en **Viewpoint opslaan** opdrachten
+
+c. Groepeer soortgelijke botsingingen samen
+
+1. Maak een rapport als viewpoints. Schakel **Resultaatmarkeringen behouden** in
+1. Deze viewpoints verschijnen in het tabblad clashes in de plugin
+1. Maak een issue aan door één of meer clash te selecteren
+
+a. Geef de issue een titel
+
+b. Klik op issue toevoegen.
+
+1. Voor een betekenisvolle miniatuur:
+
+a. Selecteer clash in Clash Detective
+
+b. Selecteer dezelfde clash in het tabblad **Clashes**.
+
+c. Klik op issue toevoegen.
 
 # Catenda Archicad-plugin
 
@@ -6186,7 +6386,7 @@ U kunt de knop Nieuwe collectie rechtsboven vinden
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/02-new-item-actions.png)
 
-### 1.1 **​Nieuwe collectie**
+### 1.1 **Nieuwe collectie**
 
 Wanneer u een nieuwe collectie maakt, wordt u gevraagd het volgende dialoogvenster in te vullen.
 
@@ -6992,19 +7192,19 @@ De stempeltypen in het voorsetmenu kunnen de volgende informatie bevatten:
 
 ### 2.2 Stempeltype-inhoud
 
-In het voorsetmenu zijn de volgende stempels zichtbaar: _​_**Voornaam** - Alles vóór de eerste spatie in de accountnaam
+In het voorsetmenu zijn de volgende stempels zichtbaar: **Voornaam** - Alles vóór de eerste spatie in de accountnaam
 
 **Middelste naam Achternaam** - Alles na de eerste spatie in de accountnaam
 
 **Voornaam Middelste naam Achternaam** - Volledige accountnaam
 
-**​Voornaam** - Alles vóór de eerste spatie in de accountnaam Datum
+**Voornaam** - Alles vóór de eerste spatie in de accountnaam Datum
 
 **Middelste naam Achternaam** - Alles na de eerste spatie in de accountnaam Datum
 
 **Voornaam Middelste naam Achternaam** - Volledige accountnaam Datum
 
-_​_**Voornaam** - Alles vóór de eerste spatie in de accountnaam Datum en tijd
+**Voornaam** - Alles vóór de eerste spatie in de accountnaam Datum en tijd
 
 **Middelste naam Achternaam** - Alles na de eerste spatie in de accountnaam Datum en tijd
 
@@ -7028,7 +7228,7 @@ _​_**Voornaam** - Alles vóór de eerste spatie in de accountnaam Datum en tij
 
 **INSCHRIJVINGSDOCUMENT** Volledige accountnaam en datum
 
-## 3. ​Nieuw stempel maken
+## 3. Nieuw stempel maken
 
 Klik op Nieuw stempel maken om het dialoogvenster Nieuw stempel maken te openen. Het dialoogvenster Nieuw stempel maken kan er ongeveer zo uitzien:
 
@@ -7894,7 +8094,6 @@ Schakel Beoordeling van alle teamleden vereist in om te vereisen dat elk afzonde
 - **Wanneer dit uit staat** (het huidige, enige gedrag dat elders in dit helpcentrum wordt beschreven), kan elk lid van het revisorteam een validatieaanwijzing namens het hele team indienen, en kan de stap meteen verder gaan zodra zij dat doen.
 
 - **Wanneer dit aan staat,** is de stap van het team niet voltooid totdat elk afzonderlijk lid zijn eigen aanwijzing heeft gegeven. Zie de artikelen Overview-tabblad, het rechtermenu voor bestandsbeoordeling en het rechtermenu voor het documenttabblad voor hoe dit wordt weergegeven tijdens de beoordeling.
-  ​
 
 ### 4.6 **Beoordelingsstap verwijderen**
 
@@ -8823,6 +9022,68 @@ _Tekst zoeken_ - `search=test`
 **Aantal tekens** Een willekeurig aantal tekens. Inhoud die de gezochte woordgroep bevat, komt overeen.
 
 **Witruimte** Witruimtetekens aan het begin van een zoekopdracht worden verwijderd.
+
+# Geavanceerde naamgevingsconventie
+
+Dit artikel bouwt voort op de volgende artikelen: [Eenvoudigste naamgevingsconventie](https://support.catenda.com/en/articles/7845360-simplest-naming-convention) en [Gemiddelde naamgevingsconventie](https://support.catenda.com/en/articles/7936943-medium-naming-convention) Het artikel kan gevolgd worden zonder deze artikelen te hebben gelezen, maar het kan nuttig zijn om ze door te nemen, omdat er informatie over [conventies](https://support.catenda.com/en/articles/7832559-naming-conventions-page) kan staan die niet in dit artikel wordt genoemd. In dit artikel leert u alle manieren waarop [conventies](https://support.catenda.com/en/articles/7832559-naming-conventions-page) kunnen worden gebruikt.
+
+## 1. **YYMMDD\_Bestandsnaam\_V.pdf**
+
+Door deze [conventie](https://support.catenda.com/en/articles/7832559-naming-conventions-page) in te stellen, leert u alles wat u moet weten over [naamgevingsconventies](https://support.catenda.com/en/articles/7832559-naming-conventions-page), zodat u de [blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) kunt kiezen die u wilt voor uw eigen [conventie](https://support.catenda.com/en/articles/7832559-naming-conventions-page). Stel dat u al uw 3D-modellen en constructietekeningen lokaal organiseert.
+
+- U hebt een streepje _( - )_ in de bestandsnaam, dus om de verschillende [blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) van elkaar te scheiden, moet u een onderstrepingsteken _( \_ )_ gebruiken als [scheidingsteken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=in%20document%20settings-,Separator,-%3A%20The%20character).
+- Deze bestanden beginnen met de datum waarop het bestand is gemaakt.
+
+Dit is handig voor u omdat, hoewel dit meestal op verschillende plaatsen staat, het visueel beter voor u is om uw bestanden alfabetisch op creatiedatum gesorteerd te hebben.
+
+- Daarna volgt de naam van het bestand, die elke lengte kan hebben.
+- Aan het einde van de bestandsnaam hebt u een bepaalde status om aan te geven welke versie van het bestand u hebt.
+
+Dit gedeelte is slechts extra tekst die u gebruikt om uw bestanden lokaal uit elkaar te houden. U wilt dit gedeelte van de bestandsnaam niet zien in de Catenda Hub-documentnaam, omdat het alleen lokaal nuttig voor u is en niets te maken heeft met andere mensen in het project.
+
+- Tot slot hebt u besloten ervoor te zorgen dat u alleen bepaalde bestandstypes in deze map bewaart.
+
+U beperkt de bestandstypen tot IFC, PDF, DWG, SMC, PL en RVT
+
+### 1.1 **Eerste instellingen**
+
+Documenten met de volgende bestandsnamen zullen in dit artikel worden gebruikt. U kunt deze vooraf voorbereiden of maken wanneer u bij dat gedeelte van het artikel aankomt:
+
+_Lokale bestanden:_ 230219\_Elevation\_Draft.PDF 230219\_Elevation\_Final.PDF aaaaaa\_\_Elevation\_Draft.PDF 230219\_Elevation\_Draft.pdf
+
+_Een vierde [blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) voor de bestandsstatus_ De datum van het bestand lijkt een beetje op de code uit het voorbeeld in het artikel over [gemiddelde naamgevingsconventie](https://support.catenda.com/en/articles/7936943-medium-naming-convention). Het [blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) met de documentnaam moet hetzelfde zijn als het bestandsnaam-[blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) in dat artikel. Het enige [blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) dat u moet toevoegen en dat anders is dan het voorbeeld hierboven, is een [blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) voor het statusgedeelte van uw bestandsnaam.
+
+**Conventie-instellingen** Voor dit voorbeeld gebruikt u de [naamgevingsconventie](https://support.catenda.com/en/articles/7832559-naming-conventions-page) die in de onderstaande afbeelding wordt weergegeven als uitgangspunt.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/01-initial-setup.png)
+
+### 1.2 **Aangepaste velden in conventies**
+
+Er zijn drie verschillende soorten aangepaste velden die handig zijn in [conventies](https://support.catenda.com/en/articles/7832559-naming-conventions-page): [Integer](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22), [Text](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) en [Vervolgkeuzelijst](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) [aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-setup) kunnen als bronnen voor [conventies-blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) worden gebruikt.
+
+**[Integer aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) in [conventies](https://support.catenda.com/en/articles/7832559-naming-conventions-page)** In de afbeelding hierboven is de bron van het eerste [blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) ingesteld op tekst. Als u ons eerste bestand 230219\_Elevation\_Draft.PDF uploadt, ziet u dat het zonder problemen wordt geüpload. U kunt echter ook zes letters in plaats van nummers uploaden, zoals: aaaaaa\_\_Elevation\_Draft.PDF, en dat zou ook prima zijn. Om dit alleen tot nummers te beperken, maakt u een nieuw [integer aangepast veld](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) met de naam NC\_Date. Het heet zo alleen om het georganiseerd te houden in de [lijst met aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=the%20list%20of%20custom%20fields). Stel dit [aangepaste veld](https://support.catenda.com/en/articles/6550459-custom-fields-setup) vervolgens in als de [bron](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=has%20an%20extension.-,Source,-%3A%20What%20will) van het eerste [blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) door op de vervolgkeuzelijst te klikken waar momenteel 'tekst' staat en het [aangepaste veld](https://support.catenda.com/en/articles/6550459-custom-fields-setup) dat u hebt gemaakt, te selecteren. U ziet nu dat aaaaaa\_\_Elevation\_Draft.PDF niet meer wordt geaccepteerd, terwijl 230219\_Elevation\_Draft.PDF wordt geaccepteerd.
+
+**[Text aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) in [conventies](https://support.catenda.com/en/articles/7832559-naming-conventions-page)** Voor het tweede [blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) kunt u de bron als tekst laten staan, omdat hier elke tekst wordt geaccepteerd. Het wordt echter nog steeds aanbevolen om een text aangepast veld te gebruiken dat NC\_Filename kan worden genoemd voor toekomstige compatibiliteit.
+
+De status kan ook elk woord van elke lengte zijn, dus maak een [text aangepast veld](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) met de naam NC\_Status en stel het in als de [bron](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=has%20an%20extension.-,Source,-%3A%20What%20will) voor het derde [blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541).
+
+Voor deze twee blokken zult u geen verschil in het uploadproces opmerken. U kunt zien dat de [preview](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_c2f7e24fbc) op verschillende plaatsen nu de naam van het [aangepaste veld](https://support.catenda.com/en/articles/6550459-custom-fields-setup) weerspiegelt.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/02-custom-fields-in-conventions.png)
+
+**[Vervolgkeuzelijst aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) in [conventies](https://support.catenda.com/en/articles/7832559-naming-conventions-page)**
+
+**Naam hetzelfde als code** Voor het laatste [blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) dat de [extensie](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=The%20name%20of%20the%20file/document%20extension) bevat, mogen alleen bepaalde set zinnen worden geaccepteerd. Om dit te doen, maakt u een [vervolgkeuzelijst aangepast veld](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) met de naam NC\_Extension. In dit [aangepaste veld](https://support.catenda.com/en/articles/6550459-custom-fields-setup) stelt u de [vervolgkeuzelijst opties](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=add%20multiple%20options) in op IFC, PDF, DWG, SMC, PL en RVT. Zorg dat naam en code hetzelfde zijn. Wees voorzichtig, deze moeten één voor één worden toegevoegd omdat een code moet worden opgegeven. Probeer nu 230219\_Elevation\_Draft.pdf te uploaden en u ziet dat dit niet wordt geaccepteerd. Deze aangepaste zin is gevoelig voor het onderscheid tussen hoofdletters en kleine letters. Als u ook de extensies in kleine letters wilt accepteren, moet u deze ook aan het [vervolgkeuzelijst aangepast veld](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) toevoegen.
+
+**Verschillende naam en code** Een ander goed voorbeeld van wat u met een [vervolgkeuzelijst aangepast veld](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) kunt doen, is een verschillende naam en code hebben. Stel dat u tekeningen hebt van mechanische, structurele en elektrotechnische ingenieurs met hun respectieve [blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541). In Catenda Hub wilt u dat deze tekeningen allemaal Engineering worden genoemd. Wat u kunt doen, is een [vervolgkeuzelijst aangepast veld](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) met [meerdere opties](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=add%20multiple%20options) maken die Engineering als naam hebben en de code van het type engineering dat u in de bestandsnaam verwacht. Wanneer u het bestand uploadt, ziet u dat, hoewel de bestandsnaam mechanical, structural of electrical bevatte, de documentnaam altijd Engineering zal zeggen.
+
+### 1.3 **Document-ID**
+
+[Aan het begin van dit artikel](http://You%20do%20not%20want%20to%20see%20this%20part%20of%20the%20file%20name) werd genoemd dat het belangrijk was dat het statusgedeelte van de bestandsnaam niet als Catenda Hub-documentnaam zou verschijnen. Dat is wat de [document-ID](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=block%20to%20do-,Document%20identifier,-%3A) doet. Wanneer deze optie is uitgeschakeld, wordt dit gedeelte van de bestandsnaam helemaal niet gebruikt om de documentnaam in Catenda Hub te maken. Probeer 230219\_Elevation\_Draft.PDF en vervolgens 230219\_Elevation\_Final.PDF te uploaden. Merk op dat, hoewel de bestandsnaam verschillend was, de documentnaam hetzelfde zal zijn. Dit is handig omdat als de documentnaam hetzelfde is, de [naamgevingsconventie](https://support.catenda.com/en/articles/7832559-naming-conventions-page) automatisch zal herkennen dat het tweede bestand een revisie van het eerste is.
+
+Tot slot is dit wat uw [naamgevingsconventie](https://support.catenda.com/en/articles/7832559-naming-conventions-page) met [aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-setup) en [document-ID's](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=block%20to%20do-,Document%20identifier,-%3A) eruit zouden moeten zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/03-document-identifier.png)
 
 # Gerelateerde problemen gebruiken
 
@@ -9929,6 +10190,70 @@ De volgende onderwerpen zijn in deze sectie beschreven:
 
 **De Logica** Omdat de basislijn en Teamroutes volledig zijn gesloten, zien standaardgebruikers niets. Omdat de maker van die map of board echter automatisch **Eigenaar Volledige Toegang** houdt, behouden zij volledige zichtbaarheid en administratieve controle over de ruimte, volledig geïsoleerd van standaardprojectleden terwijl Projectbeheerders toezicht op hoog niveau behouden.
 
+# Informatie bijhouden via koppelingen
+
+Er zijn verschillende manieren om delen van Catenda Hub aan andere delen van Catenda Hub te koppelen. Als u naar de juiste informatiepanelen op verschillende plaatsen kijkt, kunt u zien welke informatie aan het item dat u bekijkt is gekoppeld. Dit artikel beschrijft goede manieren om ervoor te zorgen dat uw items gekoppelde items hebben. Items kunnen handmatig worden gekoppeld door op koppeling op verschillende plaatsen te klikken. In dit artikel vindt u ook enkele tips en trucs voor hoe u op een manier kunt werken waarbij u kunt ervoor zorgen dat alles automatisch wordt gekoppeld zonder elke keer op koppeling te hoeven klikken.
+
+## 1. **Onderwerpen koppelen**
+
+U kunt zien waarmee een onderwerp is gekoppeld in het [rechter paneel](https://support.catenda.com/en/articles/8053299-issue-right-panel) van een onderwerp
+
+### 1.1 **Objecten aan onderwerpen koppelen**
+
+**Handmatig** Klik [hier](https://support.catenda.com/en/articles/8053299-issue-right-panel#h_758f17abbc) om te zien hoe u onderwerpen aan objecten koppelt
+
+**Automatisch** Als u 3D-objecten hebt geselecteerd in de 3D-snapshot wanneer u het onderwerp indient, worden deze objecten aan het onderwerp gekoppeld.
+
+### 1.2 **Documenten aan onderwerpen koppelen**
+
+**Handmatig** Klik [hier](https://support.catenda.com/en/articles/4670250-linking-a-document-to-an-issue) om te zien hoe u documenten aan onderwerpen koppelt
+
+### 1.3 **Onderwerpen aan andere onderwerpen koppelen**
+
+**Handmatig** Klik [hier](https://support.catenda.com/en/articles/8053299-issue-right-panel#h_edf2cb07a8) om te zien hoe u een onderwerp aan een ander onderwerp koppelt
+
+**Automatisch** Als u # gebruikt om naar een onderwerp in het commentaar of een beschrijving van een onderwerp te verwijzen, wordt dit onderwerp aan dat onderwerp gekoppeld en wordt dat onderwerp aan dit onderwerp gekoppeld. Deze koppeling kan later worden bewerkt.
+
+## 2. **Documenten koppelen**
+
+### 2.1 **Onderwerpen aan documenten koppelen**
+
+**Handmatig** Als u een onderwerp maakt vanuit het [tabblad aantekeningen](https://support.catenda.com/en/articles/5001165-annotations-on-documents) in het juiste informatiepaneel van een document en het indient, wordt het document aan dat onderwerp gekoppeld.
+
+**Automatisch** Als u een [aantekening](https://support.catenda.com/en/articles/5001165-annotations-on-documents) maakt en deze aan een onderwerp toevoegt, wordt het document automatisch aan dat onderwerp gekoppeld.
+
+### 2.2 **Objecten aan documenten koppelen**
+
+**Handmatig** Klik [hier](https://support.catenda.com/en/articles/4670297-linking-documents-to-objects) om te zien hoe u documenten aan objecten koppelt.
+
+## 3. **Objecten koppelen**
+
+### 3.1 **Onderwerp aan objecten koppelen**
+
+**Handmatig** Klik [hier](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) om te zien hoe u objecten aan onderwerpen koppelt
+
+**Automatisch**
+
+1. Laad een model in 3D en selecteer een object.
+1. Of
+
+Klik op de plusknop in de [section Onderwerpen](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) van de inspectiesectie van het informatiepaneel.
+
+of
+
+Maak een nieuwe onderwerpsectie door op nieuw onderwerp te klikken op de onderwerppagina van het inhoudspaneel.
+
+1. Geef het onderwerp een titel en dien het in
+1. Let op: uw onderwerp zal de geselecteerde objecten hebben gekoppeld
+
+### 3.2 **Documenten aan objecten koppelen**
+
+U kunt alleen objecten aan documenten toevoegen en niet andersom, zie [hier](#h_41401e4836).
+
+## 4. **Zo veel mogelijk koppelen, zo eenvoudig mogelijk**
+
+Laad een model in de 3D-viewer en selecteer een object. Maak een selectie voor de objecten in de selectiesectie van het informatiepaneel. Maak een nieuw onderwerp Geef het onderwerp een titel. Koppel een document aan het onderwerp. Dien het onderwerp in. Ga naar het document en koppel de objecten aan het document.
+
 # Informatiepaneel
 
 U vindt het Informatiepaneel als een van de vier hoofdpanelen die u aan de bovenkant rechts van uw scherm kunt openen. U kunt het i-pictogram indrukken om dit paneel te openen of u kunt [shift+4](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Inspect%20panel-,Shift%20%2B%204,-Show/hide%20last) indrukken.
@@ -10490,6 +10815,24 @@ Titel Topic-titel
 
 # Maak een rapport van onderwerpen
 
+# Maken van Topic board ACL
+
+Beheerders kunnen configureren wie toegang heeft om topic boards te maken in het toegangscontrolesection van de [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3).
+
+1. Onder toegangscontrole op deze pagina hebt u "Create new topic board".
+
+Klik erop.
+
+1. Een lijst met wie kan maken en Bewerk toegang verschijnt.
+   Klik op de knop Bewerk toegang.
+1. Definieer toegang voor lid(en) of team(s).
+
+Onder het lid (den) of Team (s) dat u hebt geselecteerd, verschijnt.
+
+1. Onder toegang kiest u tussen Kan maken en Niet toegestaan.
+
+Druk op de knop Opslaan.
+
 # Mapconfiguratie - Documentinstellingen
 
 Het mapconfiguratiemenu is te vinden op de [pagina documentinstellingen](https://support.catenda.com/en/articles/7831371-document-settings-page). Door een geconfigureerde map in te stellen kunt u verbeteren hoe documenten in die workflow worden verwerkt.
@@ -10834,6 +11177,111 @@ Puntmeting kan op annotatielijnen worden gebruikt net als elk ander meetinstrume
 Schakel het oppervlak van het schuifvlak in door op de witte cirkel te drukken waar de annotatielijnen cirkel is. Meerdere oppervlakken van schuifvlakken kunnen tegelijk worden geopend. Lasermetingen die op objecten zijn gedaan, kunnen worden uitgebreid tot aan de annotatielijnen. Gebruik vervolgens "Lasermeting" of "Meetlint" om te meten naar ingeschakelde oppervlakken van schuifvlakken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/09-measuring-to-sliding-plane-surfaces.gif)
+
+# Microsoft Teams-notificaties
+
+> Blijf op de hoogte zonder van tabblad te wisselen. Verbind Catenda Hub met Microsoft Teams om real-time notificaties rechtstreeks in uw voorkeurkanalen te ontvangen.
+
+Ontvang real-time notificaties van een Catenda-account rechtstreeks in een Microsoft Teams-kanaal door een Microsoft Teams-workflow te configureren in de Catenda-notificatie-instellingen. _Vereiste toegang:_ Een **Microsoft Teams**-account met machtigingen voor kanaalcreatie en Microsoft Teams-workflowbeheer.
+
+Het tabblad Microsoft Teams-notificaties vindt u bovenaan de [pagina met accountnotificatie-instellingen](https://support.catenda.com/en/articles/8272435-account-notification-settings) die een subpagina is van de [pagina Accountnotificaties](https://support.catenda.com/en/articles/7439223-account-notifications-page):
+
+![Catenda Hub Notification settings Microsoft Teams notificaitons Projects with own Teams settings](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/01-intro.png)
+
+Zo kunnen Catenda-notificaties eruit zien in Microsoft Teams nadat een Microsoft Teams-workflow is geconfigureerd.
+
+![Microsoft Teams channel Posts REady for review created a new topic a new revision was imported in model](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/02-intro.png)
+
+---
+
+### Stap 1: Een toegewezen kanaal voorbereiden
+
+Gebruikers kunnen hun projectupdates organiseren door een specifieke ruimte voor Catenda-notificaties te maken. 1\. Selecteer in **Microsoft Teams** het tabblad **Teams** of **Chat**. 2\. Gebruik een bestaand team (sla deze stap over) of **maak een team**.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/03-step-1-prepare-a-dedicated-channel.png)
+
+Voer een naam in en maak het team.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/04-step-1-prepare-a-dedicated-channel.png)
+
+Wanneer een team wordt gemaakt, wordt automatisch een kanaal genaamd 'algemeen' toegevoegd. 3\. Gebruik een bestaand kanaal (sla deze stap over) of voeg een kanaal toe. Klik met de rechtermuisknop op een team en selecteer 'Kanaal toevoegen' in het actiemenu of klik op het team en klik op **Kanaal toevoegen** rechtsboven. _Vereiste toegang:_ Eigenaar of lid van team.
+
+![Microsoft teams Catenda Integration Chat Channels Add channel Members Analytics Apps Tags Hidae all channels Add member Manage team Manage tags Copy link Leave team](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/05-step-1-prepare-a-dedicated-channel.png)
+
+> **Opmerking:** Met gast- of externe toegang kunnen kanalen niet worden gemaakt. Vraag in dit geval een kanaalbeheerder om u een URL te geven waarnaar notificaties naar een kanaal kunnen worden verzonden.
+
+Nadat u op 'Kanaal maken' hebt geklikt, verschijnt het dialoogvenster 'Kanaal maken':
+
+![Create a channel Channel name Letters, numbers and spaces are allowed Description Choose a channel type Standard Private Threads Posts](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/06-step-1-prepare-a-dedicated-channel.png)
+
+**4. Geef uw kanaal een naam**: Gebruik iets duidelijks zoals "Catenda-notificaties" of "Project-A-Notificaties".
+
+**5. Kies privacy**: Catenda-notificaties kunnen naar zowel standaard- als privékanalen worden verzonden.
+
+- Selecteer **Standaard** als u wilt dat het hele team de updates ziet.
+- Selecteer **Privé** als de notificaties alleen voor u of een specifieke groep zijn.
+
+6\. Klik op **Maken**.
+
+---
+
+### Stap 2: Uw Teams Webhook-URL genereren
+
+In het verleden werden Catenda Teams-notificaties geconfigureerd via een Webhook Connector-toepassing die voor het kanaal was geconfigureerd. De Webhook Connector-toepassing is inmiddels beëindigd. De huidige manier om een webhook-URL te maken is door een Microsoft Teams-workflow te maken.
+
+Volg deze stappen om een nieuwe Microsoft Teams **Workflow**-webhook te maken. 1\. Open **Microsoft Teams** 2\. Beweeg over het gewenste team en klik op de drie puntjes of klik op de drie puntjes rechtsboven nadat u het kanaal hebt geopend. 3\. Selecteer Microsoft Teams **Workflows** uit het actiemenu
+
+<img alt="Microsoft Teams channel action menu, Workflows highlighted." src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-f533eea19d48.png" width="290"/>  \<---> <img alt="Action menu in Microsoft Teams channel, Workflows highlighted." src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-1a6a43fe9eec.png" width="290"/>
+
+4\. Zoek naar **"Webhook-meldingen naar een kanaal verzenden"** en selecteer het.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/07-step-2-generate-your-teams-webhook-url.png)
+
+5\. Volg de instellingsstappen om uw Team en Kanaal te selecteren. **6. Kopieer de URL**: Nadat de Microsoft Teams-workflow is gemaakt, kopieert u de gegenereerde webhook-URL naar uw klembord door bovenaan op 'Webhook-koppeling kopiëren' te klikken.
+
+> **Opmerking:** 💡**Tip**: Houd deze URL privé. Iedereen met deze koppeling kan berichten naar uw Teams-kanaal sturen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/08-step-2-generate-your-teams-webhook-url.png)
+
+---
+
+### Stap 3: Verbinden met Catenda Hub
+
+Volg deze stappen om de webhook-koppeling in Catenda te configureren. Op deze manier weet Catenda waar de projectmeldingen naartoe moeten worden verzonden.
+
+1. Log in op **Catenda Hub**.
+1. Navigeer naar uw **Notificaties>Instellingen** (Account- of projectniveau).
+1. Selecteer het tabblad "Microsoft Teams" en scroll helemaal naar beneden.
+1. Plak uw gekopieerde URL in het veld **Webhook-URL**.
+1. Klik op **Opslaan**.
+
+    <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
+
+1. **Notificaties inschakelen**: Controleer dat de schakelaar bovenaan de pagina op **Aan** staat.
+
+    <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
+
+---
+
+### Stap 4: Uw meldingen aanpassen
+
+Pas de informatie die u ontvangt aan om meldingsoversaturation te voorkomen. 1\. Blader in hetzelfde menu **Notificatie-instellingen** door de lijst met notificatietypen. **2. Vink de vakjes aan** voor de specifieke updates die u in uw Teams-kanaal wilt ontvangen. Dit is hoe het Microsoft Teams-notificatiemenu eruit kan zien:
+
+![Choose which notificaitons you would like to receive Catenda Hub Email Microsoft Teams notifications Tropics Documents Approvals Collections Models Users A new topic is created aA topic is assigned to me A topic is mentioning me or my Teams New comment in a topic assigned to me mentioned by me followed by me Status changed in a topic Type changed in a topics I am set as the publisher in an approval request A team I am member of is set as the publisher in an approval request An approval request is closed A member of the submitter team A new approval request has been submitted A document has been discarded An approval request is closed A new approval request has been submitted A new approval request has been assigned to my team A new approval request is ready for review by my team All reviews have been submitted by my team aA document has been discarded An approval request is closed As member of the review team for the final approval A new approval requesthas been submitted A new approval request has been assigned to my team A new approval reqeust is ready for review by my team All reviews have been submitted by my team All reviews have been submitted by my team A review step has been completed A document has been discarded An approval request is closed A new models is created A new revision is imported.](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/09-step-4-customize-your-alerts.png)
+
+Grijze notificatievakken zijn uitgeschakeld voor Microsoft Teams en zijn alleen beschikbaar voor andere notificatiemethoden. Notificatievakken voor goedkeuringen worden beschikbaar als Gedeelde revisies zijn ingeschakeld in [documentinstellingen](https://support.catenda.com/en/articles/7831371-document-settings-page) van een project.
+
+---
+
+### Stap 5: Verificatie
+
+Controleer of een melding naar uw account wordt verzonden die ook naar Microsoft Teams wordt verzonden.
+
+1\. Voer een actie uit in Catenda Hub.
+
+> **Waarschuwing:** ⚠️ **Opmerking:** Niet elke melding kan naar Microsoft Teams worden verzonden en Microsoft Teams-meldingen worden over het algemeen niet verzonden voor acties die gebruikers zelf uitvoeren. Upload een model of vraag een teamgenoot om een onderwerp te maken of u in een beschrijving of opmerking te noemen om de koppeling te verifiëren.
+
+2\. Controleer uw **Microsoft Teams-kanaal**. 3\. Een bericht zou onmiddellijk via de Microsoft Teams **Workflow**-bot moeten verschijnen.
 
 # Modelboom-paneel
 
@@ -11434,6 +11882,108 @@ Bovendien kan de productentabel elk aantal kolommen hebben, afhankelijk van het 
 
 Kolom voorkeuren worden niet tussen sessies opgeslagen. Kolommen kunnen niet opnieuw worden geordend, alleen in- of uitgeschakeld. Het is niet mogelijk om de tabel op een ander kolom te sorteren door op de cel in de koppeprij van de kolom te klikken. Het is niet mogelijk om de sorteerrichting van de kolom waarnaar de tabel is gesorteerd, te wijzigen. Het is niet mogelijk om de cel in de koppeprij uit de tabel te verslepen om de rij uit te schakelen. Rijen moeten via het kolommen vervolgkeuzemenu worden uitgeschakeld.
 
+# Offline-modus in Catenda Site
+
+Of het nu een bouwplaats, een spoorwegtunnel of een diepe kelder van een parkeergarage is, je hebt waarschijnlijk geen verbinding met het internet. Tijdens deze onderbreking kan Catenda Site nog steeds worden gebruikt om samen te werken op uw draagbare apparaten. Dit artikel beschrijft de verschillende manieren waarop Catenda Site kan worden gebruikt om samen te werken zonder toegang tot het netwerk.
+
+Dit artikel bevat informatie over de volgende onderwerpen:
+
+## 1. **Onderwerpenmenu in offline-modus**
+
+Zonder verbinding met het netwerk is het onderwerpenmenu nog steeds beschikbaar.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/01-topics-menu-in-offline-mode.png)
+
+> **Opmerking:** Zonder verbinding met het netwerk **Wijzigingen worden niet automatisch ingediend** Nadat u opnieuw verbinding hebt gemaakt met het netwerk, kunnen wijzigingen vanuit uw outbox naar het project worden gestuurd.
+
+### 1.1 **Onderwerpenborden in offline-modus**
+
+Dit is hoe een onderwerpenbord er zonder verbinding met het netwerk uit kan zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/02-topic-boards-in-offline-mode.png)
+
+Onderwerpen die eerder zijn geladen, worden weergegeven als normale onderwerpen.
+
+### 1.2 **Offline-pictogram**
+
+Onderwerpen die zonder verbinding met het netwerk zijn gemaakt, hebben een offline-pictogram erop.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/03-offline-icon.png)
+
+Zolang een onderwerp een offline-pictogram heeft, wordt het niet gesynchroniseerd met het project.
+
+### 1.3 **Eerder geladen onderwerpen**
+
+Onderwerpen die eerder zijn geladen, kunnen zonder verbinding met het netwerk worden geopend. Nadat u een onderwerp hebt geopend, weet u dat u naar een eerder geladen onderwerp in offline-modus kijkt wanneer u het gele vak "Offline" rechts van de onderwerptitel ziet.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/04-previously-loaded-topics.png)
+
+> **Opmerking:** Bestaande informatie in onderwerpen die werd geladen toen u de verbinding met het netwerk verloor, kan niet worden bewerkt.
+
+**Opmerkingen bij eerder geladen onderwerpen** Eerder geladen onderwerpen kunnen zonder verbinding met het netwerk van commentaar voorzien. Afbeeldingen van Camera/foto's kunnen aan de opmerking worden toegevoegd _Vereiste toegang:_ volledige toegang tot het apparaat
+
+Opmerkingen die door de ingelogde gebruiker zijn gemaakt, kunnen zonder verbinding met het netwerk worden bewerkt en verwijderd.
+
+### 1.4 **Nieuwe onderwerpen**
+
+Zonder verbinding met het netwerk is het nog steeds mogelijk om een nieuw onderwerp te maken. Nadat u het hebt gemaakt, wordt een onderwerp nog niet gesynchroniseerd met het project. Wanneer u een onderwerp opent dat nog niet met het project is gesynchroniseerd, ziet u een wolkpictogram links van de onderwerptitel.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/05-new-topics.png)
+
+Wanneer de verbinding met het netwerk is hersteld, worden deze onderwerpen niet automatisch gesynchroniseerd met het project. Nieuwe informatie en wijzigingen die in offline-modus zijn aangebracht, kunnen in de outbox naar het project worden gestuurd wanneer de verbinding met het netwerk is hersteld.
+
+De volgende informatie kan aan een nieuw onderwerp worden toegevoegd dat zonder verbinding met het netwerk is gemaakt:
+
+- Een titel kan worden toegevoegd
+- Een onderwerpenbord kan voor het onderwerp worden geselecteerd
+- Status/type kan worden gewijzigd
+- Een mijlpaal kan worden toegevoegd
+- Labels kunnen worden toegevoegd
+- Een beschrijving kan worden geschreven
+- Opmerkingen kunnen worden toegevoegd.
+  - Afbeeldingen van Camera/foto's kunnen aan opmerkingen worden toegevoegd.
+
+    _Vereiste toegang:_ Volledige toegang tot het apparaat
+
+- Als modellen vóór het verbreken van de verbinding met het netwerk waren geladen, kan een locatie aan een onderwerp worden toegevoegd door een markering in de 2D-weergave van die modellen te plaatsen.
+
+**Nieuwe onderwerpen bewerken en indienen**
+
+- U weet dat u naar een nieuw offline-onderwerp kijkt als u de grijze balk bovenaan in het onderwerp ziet.
+- Het is mogelijk om onderwerpen in offline-modus te bewerken die nog niet via de [outbox](#h_ff2a47f221) zijn ingediend
+
+### 1.5 **Outbox**
+
+Als nieuwe informatie en wijzigingen in een onderwerpenbord in offline-modus zijn aangebracht, verschijnt er een outbox-pictogram in de rechterbovenhoek van het onderwerpenbord.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/06-outbox.png)
+
+Tik op het pictogram om de outbox te openen. Nadat u opnieuw toegang tot het netwerk hebt verkregen, kunnen nieuwe informatie en wijzigingen in dit menu naar het project worden gestuurd.
+
+**Lokale concepten** De onderwerpen in deze lijst kunnen tot indiening als lokale concepten worden beschouwd. Als nieuwe onderwerpen werden gemaakt of bestaande onderwerpen zonder verbinding met het netwerk van commentaar werden voorzien, eindigen ze in deze lijst.
+
+**Outbox indienen** Alle nieuwe informatie en wijzigingen die zonder verbinding met het netwerk zijn aangebracht, blijven op het apparaat totdat de outbox wordt ingediend. Wanneer de verbinding met het netwerk is hersteld, kan de outbox worden ingediend. Nieuwe informatie en wijzigingen die zijn aangebracht toen er geen verbinding met het netwerk was, worden vervolgens gesynchroniseerd met het project en verschijnen voor alle projectleden.
+
+## 2. **Modellen in offline-modus**
+
+Wanneer de verbinding met het netwerk verbroken is, is het mogelijk om modellen te blijven gebruiken die eerder op het apparaat zijn geladen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/07-models-in-offline-mode.png)
+
+### 2.1 **Eerder geladen modellen**
+
+In de 2D-weergave van modellen die vóór het verbreken van de verbinding met het netwerk waren geladen, kunnen onderwerpen met 2D-weergavelocatie zonder verbinding met het netwerk worden gemaakt. Eerder geladen modellen kunnen zonder verlies van functionaliteit worden in- en uitgeschakeld.
+
+## 3. **Documenten in offline-modus**
+
+Wanneer de verbinding met het netwerk verbroken is, kunnen documenten blijven worden gebruikt.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/08-documents-in-offline-mode.png)
+
+### 3.1 **Eerder geladen documenten**
+
+Documenten in de map of verzameling die werd geopend toen de verbinding verbroken was, kunnen blijven worden weergegeven. Zolang deze map of verzameling open blijft, kunnen de documenten in de map blijven worden weergegeven terwijl andere delen van de toepassing in gebruik zijn. Toegang tot de documenten in de map is alleen beschikbaar terwijl u zich in de map of verzameling bevindt. Navigeren naar een andere map of verzameling verwijdert de documenten. Documenten die niet in dezelfde map staan, kunnen in een verzameling worden verzameld. Op deze manier kunnen alle documenten vóór het verbreken van de netwerktoegang worden geladen voor offlinegebruik.
+
 # Onderwerp Header - Het onderwerp van een onderwerp
 
 Selecteer een onderwerp uit een [onderwerp bord](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) om de onderwerp pagina van het onderwerp te openen. Dit is hoe de [onderwerp banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) op de onderwerp pagina er uit kan zien:
@@ -11609,7 +12159,6 @@ Je kunt filteren op:
 - [Labels](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - Vervaldatum
 - Locatie
-  ​
 
 ### 1.1 Filterpictogram opnieuw instellen
 
@@ -11994,6 +12543,34 @@ Onderwerp _is verplaatst van \<_Topic _board>_ - Zie van welk onderwerpbord dit 
 
 _Document gekoppeld \<Document name>_ - Zie welk document aan dit onderwerp is gekoppeld _Document ontkoppeld \<Document name>_ - Zie welk document uit dit onderwerp is ontkoppeld
 
+# Onderwerpsjablonen gebruiken bij het opslaan van markeringsonderwerpen
+
+> Een documentonderwerpsjabloon toepassen bij het maken van een markering vanuit een document
+
+Documentonderwerpsjablonen kunnen worden geconfigureerd op de [pagina met onderwerpsjabloontinstellingen](https://support.catenda.com/en/articles/14076010-topic-template-settings-page). _Vereiste toegang:_ Projectbeheerder
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/01-intro.png)
+
+1. Maak eerst een aantekening op een document in de documentviewer.
+1. Sla uw Markering op als een Onderwerp.
+   _Vereiste toegang:_ Schrijftoegang tot een onderwerpsbord.
+1. Er wordt een pop-upvenster weergegeven om een Onderwerp van uw Markering te maken.
+
+    <div class="intercom-container intercom-align-center"><img height="541" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-9980053aae3a.png" style="height: auto;" width="500"/></div>
+
+1. Selecteer vervolgens het juiste onderwerpsbord waarbinnen u uw onderwerp wilt maken.
+   _Vereiste toegang:_ Schrijftoegang tot het onderwerpsbord.
+1. Afhankelijk van het onderwerpsbord dat u hebt geselecteerd, kunnen documentonderwerpsjablonen die door een beheerder zijn geconfigureerd beschikbaar zijn en worden voorgesteld in de vervolgkeuzelijst Sjabloon.
+
+    <div class="intercom-container intercom-align-center"><img height="540" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-b8fd0218f860.png" style="height: auto;" width="500"/></div>
+
+1. Selecteer de juiste sjabloon die u wilt gebruiken.
+   Zodra u de juiste sjabloon hebt geselecteerd, wordt het nieuwe onderwerp automatisch ingevuld met alle velden die zijn ingesteld in de bijbehorende instellingen voor onderwerpsjablonen, toegankelijk via de [pagina met onderwerpsjabloontinstellingen](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).
+
+    <div class="intercom-container intercom-align-center"><img height="814" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-50d2237a44b3.png" style="height: auto;" width="500"/></div>
+
+1. U kunt uw onderwerp tot slot opslaan door op de knop "Opslaan als onderwerpen" te klikken.
+
 # Onderwerpsjablonenpagina - Legacy
 
 U kunt de onderwerpsjablonenpagina vinden door in het actiemenu rechtsboven op de [onderwerpsinstellingenpagina](https://support.catenda.com/en/articles/12367293-approval-settings-page#h_320e990d50) op de actie onderwerpsjablonen te klikken. _Vereiste toegang_: Beheerder
@@ -12073,6 +12650,29 @@ De beschrijving die het gegenereerde onderwerp zal hebben. Standaard bevat het g
 ## 3. **Nieuwe validatiewerkstroom**
 
 De onderwerpsjablonenpagina is niet beschikbaar voor projecten die met de nieuwe validatiewerkstroom beginnen.
+
+# Onderwerpssjablonen in een onderwerpsboard gebruiken
+
+> Een algemeen onderwerpssjabloon toepassen bij het maken van een onderwerp
+
+Algemene onderwerpssjablonen kunnen worden geconfigureerd op de [pagina met instellingen voor onderwerpssjablonen](https://support.catenda.com/en/articles/14076010-topic-template-settings-page). _Vereiste toegang:_ Projectbeheerder
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/01-intro.png)
+
+1. Maak eerst een nieuw onderwerp aan in de reguliere onderwerpssectie.
+   _Vereiste toegang:_ Schrijftoegang tot een onderwerpsboard.
+1. Selecteer vervolgens het juiste onderwerpsboard waarbinnen u uw onderwerp wilt maken.
+   _Vereiste toegang:_ Schrijftoegang tot het onderwerpsboard.
+1. Afhankelijk van het onderwerpsboard dat u hebt geselecteerd, kunnen algemene onderwerpssjablonen die door een beheerder zijn geconfigureerd beschikbaar zijn en worden voorgesteld in de vervolgkeuzelijst Sjabloon.
+
+    <div class="intercom-container intercom-align-center"><img height="549" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-b8fa9d6ab8dc.png" style="height: auto;" width="500"/></div>
+
+1. Selecteer de juiste sjabloon die u wilt gebruiken.
+   Zodra u de juiste sjabloon selecteert, wordt het nieuwe onderwerp automatisch ingevuld met alle velden die zijn ingesteld in de gekoppelde instellingen voor onderwerpssjablonen, toegankelijk vanaf de [pagina met instellingen voor onderwerpssjablonen](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).
+
+    <div class="intercom-container intercom-align-center"><img height="731" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-23a75554e46a.png" style="height: auto;" width="500"/></div>
+
+1. U kunt uw onderwerp uiteindelijk opslaan door op de knop "Verzenden" te klikken.
 
 # Onderwerpssjabloonpagina - Legacy
 
@@ -13611,7 +14211,7 @@ Dit is hoe de pagina milestones eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/02-intro.png)
 
-Deze pagina bevat informatie over de volgende topics: [Planning](#h_595c5ebf4c) - [Acties](#h_ef3bbf0441)​ - [Milestones lijst](#h_5403eb541f)
+Deze pagina bevat informatie over de volgende topics: [Planning](#h_595c5ebf4c) - [Acties](#h_ef3bbf0441) - [Milestones lijst](#h_5403eb541f)
 
 ## 1. Planning
 
@@ -13875,6 +14475,172 @@ Wanneer u de muis over de afbeelding beweegt, ziet u een afspeelknop verschijnen
 **Kopiëren naar mijn opgeslagen views** Als de opgeslagen view door iemand anders met het project is gedeeld, ziet u een plusteken linksboven. Klik op deze knop om een privékopie van deze opgeslagen view te maken. U weet dat u een kopie hebt gemaakt wanneer het pictogram verandert in een vinkje en u een bericht onderaan de pagina ziet waar u uw kopie kunt openen. U kunt ook naar uw kopie zoeken nadat u de pagina hebt vernieuwd.
 
 **Gesterreerde opgeslagen views** Als u eigenaar bent van de opgeslagen view, ziet u dat het pictogram linksboven een ster is geworden. Als u op deze ster klikt, wordt een gele ster voor deze opgeslagen view toegevoegd. Gesterreerde opgeslagen views worden op uw [dashboard](https://support.catenda.com/en/articles/8212646-dashboard-page#h_6785d4f10c) weergegeven.
+
+# Pagina Topic template-instellingen
+
+> Beheer uw Topic template-instellingen
+
+De pagina Topic template-instellingen kunt u vinden door op Configureer topic templates te klikken op de [topic-instellingenpagina](https://support.catenda.com/en/articles/14183429-topic-settings-page) die u kunt openen vanuit het linkernavigatiemenu na het openen van de topics-pagina. _Vereiste toegang:_ Projectbeheerder
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/01-intro.png)
+
+Op de pagina Topic template-instellingen kunnen topic templates voor elk van de topic boards in het project worden geconfigureerd. Na het maken worden topic templates automatisch beschikbaar gesteld om tekst en velden van topics in te vullen bij het maken. Topic templates kunnen worden geconfigureerd om beschikbaar te zijn in de volgende processen voor topic-aanmaak: [Topic templates gebruiken in algemene topics](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation) [Topic templates in markup-topics gebruiken](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document) [Topic templates gebruiken met goedkeuringen](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
+
+## 1. **Actiemenu**
+
+Klik op de plus-knop rechtsboven om het actiemenu te openen. Dit is wat het actiemenu rechtsboven op de pagina Topic template-instellingen eruit kan zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/02-action-menu.png)
+
+Een vervolgkeuzemenu geeft u de mogelijkheid om 3 verschillende soorten topic templates te maken. Topic templates worden onderscheiden in drie verschillende template-types, omdat de variabelen die kunnen worden gebruikt om tekst en velden in topics automatisch in te vullen bij het maken verschillen, afhankelijk van het process dat voor topic-aanmaak wordt gebruikt.
+
+## 2. **Zoek- of filteropties**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/03-search-or-filter-options.png)
+
+### 2.1 **Zoeken**
+
+_Tekstzoeken -_ `search=<Search phrase>` Na het invoeren van tekens in de zoek- of filterbalk, verandert het eerste aanbevolen filter in tekstzoeken.
+
+**Inhoud die kan worden doorzocht** Naam van topic template
+
+**Hoofdlettergebruik** Het tekstzoeken is niet gevoelig voor hoofd- of kleine letters.
+
+**Aantal tekens** Elk aantal of type teken kan worden doorzocht.
+
+**Witruimte** Tekens van witruimte aan het begin van een zoekzin kunnen worden doorzocht, maar worden verwijderd uit de template-namen, dus er zijn geen resultaten bij het zoeken. Tekens van witruimte aan het einde van een zoekzin worden verwijderd.
+
+### 2.2 **Filteren in het filtermenu**
+
+Topic templates worden gefilterd op basis van een van de mogelijke statussen Klik op het Status-menu in het filtermenu om de optiestatus die niet is gefilterd te verbergen. Het is mogelijk om op de X rechts in de zoekbalk te drukken om de filtertags uit de balk te verwijderen, maar dit heeft geen effect. U kunt templates alleen filteren met het filter Actief of Gearchiveerd.
+
+_Actief_ - `status=active` - Standaard Topic templates die actief kunnen worden gebruikt en geconfigureerd om topics te genereren.
+
+_Gearchiveerd_ - `status=archived` Topic templates die niet beschikbaar zijn voor gebruik of configuratie in het topic-generatieproces.
+
+## 3. **Templates-tabel**
+
+Nadat u naar uw pagina Topic template-instellingen bent genavigeerd, ziet u een overzicht van bestaande topic templates die eerder zijn gemaakt. Dit is wat de topic templates-tabel eruit kan zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/04-templates-table.png)
+
+Klik [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) om meer te lezen over hoe u met tabellen in Catenda werkt.
+
+### 3.1 **Rijinhoud**
+
+Klik op een topic-rij om de inhoudspagina van de topic template voor die template te openen.
+
+### 3.2 **Kolommen**
+
+Alle kolommen in de topic templates-tabel zijn standaard ingeschakeld. Op basis van de geconfigureerde kolomvolgorde worden de eerste kolommen weergegeven, terwijl u de tabel mogelijk horizontaal moet schuiven om andere ingeschakelde kolommen weer te geven. De standaardvolgorde en zichtbaarheidsinstelling van de kolommen op de documenten-pagina is als volgt:
+
+Naam Templatetype Gemaakt door Gemaakt op Status Topic board
+
+## 4. **Een nieuwe algemene topic template maken**
+
+Kan worden gebruikt voor topics die zijn gemaakt vanuit de algemene Topic-sectie. Dit zijn de verschillende acties die u moet volgen en variabelen die u kunt invoeren bij het maken van een nieuwe algemene topic template:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/05-create-a-new-general-topic-template.png)
+
+1. **Topic Board**: De topic board waarbinnen de algemene topic template kan worden gegenereerd.
+1. **Template-naam**: De template-naam kan tijdens het maken worden geselecteerd in het vervolgkeuzemenu, of deze kan later in de instellingen worden bijgewerkt als dat nodig is.
+1. **Onderwerptitel**: De resulterende topic-titel na het maken van het topic vanuit de algemene topic template.
+   Beweeg de muis over het pictogram "?" in de rechterbovenhoek van het titelvak om te zien hoe u de titel van uw topic template kunt aanpassen met de beschikbare variabele: `topicCreator`.
+
+    <div class="intercom-container intercom-align-center"><img height="184" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-272165f584d2.png" style="height: auto;" width="300"/></div>
+
+1. **Onderwerp-status**: De resulterende topic-status na het maken van het topic vanuit de algemene topic template.
+1. **Onderwerpstype**: Het resulterende topic-type na het maken van het topic vanuit de algemene topic template.
+1. **Milestone**: De resulterende topic milestone na het maken van het topic vanuit de algemene topic template.
+1. **Toegewezen aan**: De resulterende topic-ontvanger (projectlid of team) na het maken van het topic vanuit de algemene topic template. U kunt hier de variabele `Topic Creator` gebruiken om dit veld automatisch in te vullen met de topic-maker indien nodig.
+
+    <div class="intercom-container intercom-align-center"><img height="94" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-c7f3d7220c54.png" style="height: auto;" width="150"/></div>
+
+1. **Aangevraagd door**: De resulterende topic-aanvrager na het maken van het topic vanuit de algemene topic template. U kunt hier de variabele `Topic Creator` gebruiken om dit veld automatisch in te vullen met de topic-maker indien nodig.
+
+    <div class="intercom-container intercom-align-center"><img height="93" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-43e4955bfdd8.png" style="height: auto;" width="150"/></div>
+
+1. **Labels**: De resulterende topic-labels na het maken van het topic vanuit de algemene topic template.
+1. **Beschrijving**: De resulterende topic-beschrijving na het maken van het topic vanuit de algemene topic template. Deze sectie ondersteunt de Markdown-indeling en u kunt het volledige potentieel ervan gebruiken om tekst op te maken, aangepaste headers en checklists te maken.
+    Beweeg de muis over het pictogram "?" in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u alle beschikbare functies (vermeld teamgenoten en koppel bestaande topics) en variabelen (zoals `topicCreator` in het geval van de algemene topic template) kunt gebruiken.
+
+     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+
+Nadat u klaar bent met het instellen van uw nieuwe algemene topic template, kunt u op de knop "Opslaan" rechtsonder klikken.
+
+## 5. **Nieuwe document topic template**
+
+Kan worden gebruikt voor topics die zijn gemaakt vanuit Markups op Documenten. Dit zijn de verschillende acties die u moet volgen en variabelen die u kunt invoeren bij het maken van een nieuwe document topic template:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/06-new-document-topic-template.png)
+
+1. **Topic Board**: De topic board waarbinnen de document topic template kan worden gegenereerd.
+1. **Template-naam**: De template-naam kan tijdens het maken van Markup worden geselecteerd in het vervolgkeuzemenu, of deze kan later in de instellingen worden bijgewerkt als dat nodig is.
+1. **Onderwerptitel**: De resulterende topic-titel na het maken van het topic vanuit de document topic template.
+   Beweeg de muis over het pictogram "?" aan de rechterkant van het titelvak om te zien hoe u de titel van uw document topic template kunt aanpassen met de beschikbare variabelen: `documentName`, `fileName`, `markupName` en `topicCreator`.
+
+    <div class="intercom-container intercom-align-center"><img height="231" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-dbe5030f1082.png" style="height: auto;" width="300"/></div>
+
+1. **Onderwerp-status**: De resulterende topic-status na het maken van het topic vanuit de document topic template.
+1. **Onderwerpstype**: Het resulterende topic-type na het maken van het topic vanuit de document topic template.
+1. **Milestone**: De resulterende topic milestone na het maken van het topic vanuit de document topic template.
+1. **Toegewezen aan**: De resulterende topic-ontvanger (projectlid of team) na het maken van het topic vanuit de document topic template. Hier kunnen verschillende variabelen worden gebruikt, zoals `Document owner`, `File uploader`, `Markup creator`, `Publisher` en `Topic creator`.
+
+    <div class="intercom-container intercom-align-center"><img height="228" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b3156a6c2724.png" style="height: auto;" width="150"/></div>
+
+1. **Aangevraagd door**: De resulterende topic-aanvrager na het maken van het topic vanuit de document topic template. Hier kunnen verschillende variabelen worden gebruikt, zoals `Document owner`, `File uploader`, `Markup creator`, `Publisher` en `Topic creator`.
+
+    <div class="intercom-container intercom-align-center"><img height="171" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-0c4680dfae06.png" style="height: auto;" width="150"/></div>
+
+1. **Labels**: De resulterende topic-labels na het maken van het topic vanuit de document topic template. Houd er rekening mee dat u de labels van het document waaruit u de Markup hebt gemaakt, kunt ophalen met behulp van de variabele `Labels from documents` hieronder:
+
+    <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
+
+1. **Beschrijving**: De resulterende topic-beschrijving na het maken van het topic vanuit de document topic template. Deze sectie ondersteunt de Markdown-indeling en u kunt het volledige potentieel ervan gebruiken om tekst op te maken, aangepaste headers en checklists te maken.
+    Beweeg de muis over het pictogram "?" in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u alle beschikbare functies (vermeld teamgenoten en koppel bestaande topics) en variabelen (zoals `documentName`, `fileName`, `markupName` en `topicCreator` in het geval van de document topic template) kunt gebruiken.
+
+     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+
+Nadat u klaar bent met het instellen van uw nieuwe document topic template, kunt u op de knop "Opslaan" rechtsonder klikken.
+
+## 6. **Nieuwe goedkeurings topic template**
+
+Kan worden gebruikt voor topics die zijn gegenereerd nadat een goedkeuringswerkstroom is gesloten. _Vereiste toegang:_ Gedeelde statussen ingeschakeld (Tabbladen Workspace en Published zichtbaar op pagina's Documenten en Modellen)
+
+> **Opmerking:** Deze optie verschijnt alleen als huidige status- en validatiewerkstromen in gebruik zijn. Projecten die na 2 oktober 2025 zijn gemaakt, gebruiken automatisch huidige status- en validatiewerkstromen.
+
+Dit zijn de verschillende acties die u moet volgen en variabelen die u kunt invoeren bij het maken van een nieuwe goedkeurings topic template:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/07-new-approval-topic-template.png)
+
+1. **Topic Board**: De topic board waarbinnen de goedkeurings topic template na het sluiten van een goedkeuringswerkstroom wordt gegenereerd.
+1. **Template-naam**: De template-naam van een goedkeurings topic template kan worden geselecteerd in het vervolgkeuzemenu in een goedkeuringswerkstroom template, of deze kan later in de instellingen worden bijgewerkt als dat nodig is.
+1. **Onderwerptitel**: De resulterende topic-titel na het sluiten van de gekoppelde goedkeuringswerkstroom.
+   Beweeg de muis over het pictogram "?" aan de rechterkant van het titelvak om te zien hoe u de titel van uw goedkeurings topic template kunt aanpassen met de beschikbare variabelen: `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` en `topicCreator`.
+
+    <div class="intercom-container intercom-align-center"><img height="272" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-6038b1d41fed.png" style="height: auto;" width="300"/></div>
+
+1. **Onderwerp-status**: De resulterende topic-status na het sluiten van de gekoppelde goedkeuringswerkstroom.
+1. **Onderwerpstype**: Het resulterende topic-type na het sluiten van de gekoppelde goedkeuringswerkstroom.
+1. **Milestone**: De resulterende topic milestone na het sluiten van de gekoppelde goedkeuringswerkstroom.
+1. **Toegewezen aan**: De resulterende topic-ontvanger (projectlid of team) na het sluiten van de gekoppelde goedkeuringswerkstroom. Hier kunnen verschillende variabelen worden gebruikt, zoals `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.
+
+    <div class="intercom-container intercom-align-center"><img height="182" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b012d92ee132.png" style="height: auto;" width="150"/></div>
+
+1. **Aangevraagd door**: De resulterende topic-aanvrager na het sluiten van de gekoppelde goedkeuringswerkstroom. Hier kunnen verschillende variabelen worden gebruikt, zoals `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.
+
+    <div class="intercom-container intercom-align-center"><img height="181" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d7986adac70c.png" style="height: auto;" width="150"/></div>
+
+1. **Labels**: De resulterende topic-labels na het sluiten van de gekoppelde goedkeuringswerkstroom. Houd er rekening mee dat u de labels van het document waaruit u de Markup hebt gemaakt, kunt ophalen met behulp van de variabele `Labels from documents` hieronder:
+
+    <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
+
+1. **Beschrijving**: De resulterende topic-beschrijving na het sluiten van de gekoppelde goedkeuringswerkstroom. Deze sectie ondersteunt de Markdown-indeling en u kunt het volledige potentieel ervan gebruiken om tekst op te maken, aangepaste headers en checklists te maken.
+    Beweeg de muis over het pictogram "?" in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u alle beschikbare functies (vermeld teamgenoten en koppel bestaande Topics) en variabelen (zoals `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) in het geval van de goedkeurings template kunt gebruiken).
+
+     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+
+Nadat u klaar bent met het instellen van uw nieuwe goedkeurings topic template, kunt u op de knop "Opslaan" rechtsonder klikken.
 
 # Pagina Topic-instellingen
 
@@ -15008,7 +15774,7 @@ Nadat u één of meer document(en) hebt geselecteerd, ziet u het informatiepicto
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/01-intro.png)
 
-Dit uitgebreide paneel kan er anders uitzien, afhankelijk van wat u hebt geselecteerd [​_Eén map_ ](#h_cad792004b) _- [Eén document](#h_2fac53531d) - [Meerdere map(pen) en/of document(en)](#h_58d67056f7)_
+Dit uitgebreide paneel kan er anders uitzien, afhankelijk van wat u hebt geselecteerd [_Eén map_ ](#h_cad792004b) _- [Eén document](#h_2fac53531d) - [Meerdere map(pen) en/of document(en)](#h_58d67056f7)_
 
 ## 1. Eén map
 
@@ -16220,7 +16986,7 @@ Met de naamgevingsafspraak is het gewenst dat alles uniek benoemd, gecontroleerd
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-a2fc3b4afcfe.png" style="height: auto;" width="1920"/></div>
 
-   Hiervoor kunt u de kolom "Naam de Revisie" weergeven, die de originele naam toont.
+Hiervoor kunt u de kolom "Naam de Revisie" weergeven, die de originele naam toont.
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-1b1cee11c3c8.png" style="height: auto;" width="1920"/></div>
 
@@ -16923,7 +17689,7 @@ Selecteer een reeks Documenten door de vakjes in te schakelen of schakel het vak
 
 Nadat u hebt geselecteerd, wordt het informatief menu rechtsboven weergegeven. Klik op het pictogram `i` om het uit te vouwen als het gesloten is.
 
-### 5.4 ​**Menu Rechts informatie -** Download
+### 5.4 **Menu Rechts informatie -** Download
 
 Bij het importeren kunt u configureren welke Documenten naar Solibri worden geïmporteerd.
 
@@ -17280,7 +18046,6 @@ Standaard is er één gedeelde status met de naam "gedeeld" geconfigureerd. Typi
 - De standaardstatus is ingesteld op Geen status.
 - Het goedkeuringenmenu in documenten instellingen is uitgeschakeld.
 - De goedkeuringen subpagina naar de Documenten pagina is uitgeschakeld.
-  ​
 
 ## 2. **Gepubliceerde statussen**
 
@@ -17289,7 +18054,6 @@ Standaard is er één gepubliceerde status met de naam "gepubliceerd" geconfigur
 - Gepubliceerd, met opmerkingen - Lichtgroen
 - In afwachting - Geel
 - Afgewezen - Rood
-  ​
 
 ## 3. **Status toevoegen**
 
@@ -17338,6 +18102,57 @@ Dit is hoe het uploadmenu er kan uitzien wanneer gedeelde statussen zijn uitgesc
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/06-shared-statuses-disabled.png)
 
 Standaard is de standaard gepubliceerde status geen status. Een status uit de lijst met gepubliceerde statussen kan worden geselecteerd voordat u uploadt.
+
+# Tabblad Documenten in een beoordelingsverzoek
+
+Het tabblad Documenten van een beoordelingsverzoek is te vinden op de beoordelingspagina van elke beoordeling. In het tabblad Documenten kunnen validatieaantallen van validatiegegevens zien die namens beoordelingsteams zijn ingediend door een lid in elk beoordelingsteam voor elk document dat deel uitmaakt van de beoordeling.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/01-intro.png)
+
+## 1. **Geselecteerde itemacties**
+
+Dit is hoe de geselecteerde itemacties in het tabblad Documenten eruit kunnen zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/02-selected-item-actions.png)
+
+De tabel geeft de status van de documenten in deze specifieke beoordeling aan. In de laatste kolom staat de knop _indienen_ of _beoordeling_. Dit is afhankelijk van de status van het document in de beoordeling.
+
+## 2. **Rechtermenu**
+
+Het rechtermenu kan worden geopend door op het informatiepictogram aan de rechterkant van het tabblad Documenten te klikken. Leden die deel uitmaken van meerdere beoordelingsteams in een stap van de beoordeling kunnen eenvoudig validatiegegevens indienen voor meerdere documenten namens elk van hun teams in dit menu zonder elk document voor beoordeling te hoeven openen. Het informatiepictogram kan er als volgt uitzien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/03-right-menu.png)
+
+Klik [hier](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu) voor meer informatie over het rechtermenu van het tabblad Documenten.
+
+> **Opmerking:** Selecteer één document (door op de titel te klikken) of selecteer meerdere documenten die aan u zijn toegewezen om direct te beginnen met beoordelen vanuit het tabblad Documenten.
+
+## 3. **Tabel documentgoedkeuring**
+
+### 3.1 **Kolommen**
+
+- **Naam:** geeft de naam van het document en het documenttype met pictogram weer.
+  Door op de titel te klikken, kunt u het document rechtstreeks in de beoordelingsomgeving weergeven.
+- **Revisie:** geeft de revisienaam van het document weer
+- **#:** geeft aan welke versie/revisie van het document in de beoordeling aanwezig is.
+  - Wanneer een document aan een beoordeling wordt toegevoegd, worden de grote en kleine revisienummers ervan weergegeven, wat er als volgt uit kan zien:
+
+      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
+
+- Als de geselecteerde gedeelde revisie is gepubliceerd om de nieuwste gepubliceerde revisie in het document buiten het huidige beoordelingsverzoek te worden, kan dit er als volgt uitzien:
+
+      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
+
+- **Stap 'x':** geeft met een balk aan wat de status van de stap is.
+- **Definitieve goedkeuring:** Deze kolom geeft de definitieve goedkeuring weer. Wanneer deze wordt geactiveerd, wordt het pictogram gekleurd.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/04-columns.png)
+
+### 3.2 Definitieve goedkeuring
+
+Wanneer de definitieve goedkeuring nog niet is gegeven, zal in deze kolom 'aankomend' staan. Nadat een lid van het team voor definitieve goedkeuring de goedkeuringsgegevens voor een document heeft ingediend, wordt het uiteindelijke resultaat van het document hier weergegeven als goedgekeurd of afgewezen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/05-final-approval.png)
 
 # Tabel acties onderwerpen
 
@@ -17941,6 +18756,92 @@ Er is geen melding bij het aanmaken van een topic board.
 Bij het aanmaken van een nieuw project begint het project met een standaard topic board met de naam "Issues". Als het selectievakje voor topic boards uit een templateproject is ingeschakeld bij projectcreatie, begint het project met de topic boards en instellingen van het topic board uit het geselecteerde templateproject.
 
 > **Opmerking:** Hoewel de instellingen van deze nieuwe topic boards gelijk zijn aan die van het topic board in de templates, zijn de GUID's van de topic boards, statussen en types uniek voor het project waarin ze zich bevinden.
+
+# Topic-templates gebruiken met goedkeuringen
+
+> Een goedkeuringonderwerpsjabloon toepassen op een goedkeuringswerkstroomsjabloon
+
+Goedkeuringsonderwerpsjablonen kunnen zowel worden geconfigureerd op de [pagina met onderwerpssjablooninstellingen](https://support.catenda.com/en/articles/14076010-topic-template-settings-page) als door te klikken op het vervolgkeuzemenu met onderwerpssjablonen in het menu voor definitieve goedkeuring van de pagina met nieuwe goedkeuringswerkstroomsjabloon en een nieuw onderwerpssjabloon te selecteren. _Vereiste toegang:_ Projectbeheerder Pagina met instellingen voor onderwerpssjablonen
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/01-intro.png)
+
+OF Werkstromen configureren
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/02-intro.png)
+
+Maak een nieuw onderwerpssjabloon op de pagina met nieuwe werkstroom.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/03-intro.png)
+
+> **Belangrijk:** ℹ️ Opdat een onderwerp wordt gegenereerd als gevolg van het sluiten van een goedkeuring, moet de goedkeuring **een aantekening bevatten**. Na het sluiten van de geconfigureerde goedkeuring wordt voor elke aantekening in de goedkeuring een afzonderlijk onderwerp gegenereerd.
+
+1. Wanneer een nieuwe goedkeuringswerkstroom wordt gemaakt.
+   U [maakt een nieuwe goedkeuringswerkstroom](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)-sjabloon, navigeert naar de onderkant van de pagina totdat u de sectie "Definitieve goedkeuring" bereikt.
+   Hier kunt u voor elke beoordelingsstatus een sjabloon voor goedkeuringsonderwerp koppelen (en de definitieve documentstatus koppelen).
+
+    <div class="intercom-container intercom-align-center"><img height="254" src="https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/inline-e90e5114173a.png" style="height: auto;" width="500"/></div>
+
+1. Zorg ervoor dat u alle vorige noodzakelijke velden van het goedkeuringswerkstroomsjabloon hebt ingevuld en klik op de knop "Indienen".
+1. Ga door een goedkeuringswerkstroom.
+   Nadat alle beoordelingen zijn voltooid en zodra de goedkeuringswerkstroom is gesloten, worden de gekoppelde goedkeuringsonderwerpen automatisch gegenereerd en automatisch ingevuld met alle velden die in de gekoppelde instellingen voor onderwerpssjablonen waren ingesteld, toegankelijk via de [pagina met instellingen voor onderwerpssjablonen](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).
+   Opdat een onderwerp wordt gegenereerd als gevolg van het sluiten van een goedkeuring, moet de goedkeuring een aantekening bevatten.
+   Als een goedkeuringonderwerpssjabloon is geconfigureerd voor de werkstroom die de goedkeuring volgt, worden onderwerpen gegenereerd wanneer de goedkeuring is gesloten.
+   Voor elke aantekening in de goedkeuring wordt een afzonderlijk onderwerp gegenereerd.
+
+# Topicbanner - Navigeren door topics
+
+Als u een topic selecteert op een [topicbord](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) verschijnt er een nieuw venster voor dat topic. Dit is hoe een topicvenster er kan uitzien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/01-intro.png)
+
+1\. De topicbanner wordt in dit artikel beschreven. 2\. U vindt de topicbanner boven de [Topicheader](https://support.catenda.com/en/articles/8400566-issue-header). 3\. Rechts van de topicheader en body vindt u het [rechter informatievenster](https://support.catenda.com/en/articles/8053299-issue-right-panel). 4\. Onder de header van een topic vindt u de [topicbody](https://support.catenda.com/en/articles/8053352-issue-body).
+
+## 1. **Broodkruimels**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/02-breadcrumbs.png)
+
+### 1.1 **Onderwerpen**
+
+Klik op topics in de broodkruimels om terug te keren naar het huidige [topicbord](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b).
+
+### 1.2 **Topic** **borddropdown**
+
+Selecteer een [topicbord](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) in de topicborden dropdown in de broodkruimels om naar dat topicbord te gaan.
+
+### 1.3 **Topicnummer en titel**
+
+Het Catenda Hub topicnummer en titel van het topic. Elk nieuw topic in het project verhoogt het nummer met 1. Dit nummer kan niet worden gewijzigd. Het nummer is uniek in het project. U ziet daarom niet twee topics met hetzelfde nummer op verschillende topicborden. Als u het topic naar BCF exporteert en het in een ander project importeert, krijgt het een nieuw nummer op basis van het nieuwste topicnummer in dat project. Hoewel hetzelfde topic in twee verschillende projecten een ander topicnummer in elk project kan hebben, zijn de topics nog steeds gekoppeld met een topic-GUID. Als u later wijzigingen in het topic hebt aangebracht en het opnieuw naar BCF exporteert en het opnieuw in het andere project importeert, ziet u dat het juiste topic wordt bijgewerkt, hoewel het een ander nummer heeft.
+
+## 2. **Topicnavigatie**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/03-topic-navigation.png)
+
+_Terug naar knop_ - Ga terug naar het gedeelte van Catenda Hub dat u het laatst bekeken _Voortgangsbalk_ - Toont de topics waarnaar u kunt navigeren
+
+> **Opmerking:** U kunt alleen navigeren door zoveel topics als u hebt geladen in het topicbord. U kunt 100 topics tegelijk laden door omlaag te scrollen in een topicbord. Tenzij u helemaal omlaag scrolt in een topicbord of er minder dan 100 topics in het bord zijn. Dit totaalaantal geeft daarom niet aan hoeveel topics er in totaal in het topicbord zijn.
+
+_Vorige en volgende knoppen_ - Ga naar het vorige of volgende topic in het gefilterde topicbord
+
+## 3. **Bovenste knoppen**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/04-top-buttons.png)
+
+_Nieuw topic_ - Een [nieuw topic](https://support.catenda.com/en/articles/4670268-creating-a-new-issue) maken _Topic klonen_  - Maak een kopie van dit topic. U wilt een topic klonen als u een vergelijkbaar topic wilt maken dat enigszins afwijkt van het huidige topic. Het is niet aanbevolen om meerdere dezelfde topics te maken en elk aan een ander persoon toe te wijzen. In plaats daarvan wilt u de verschillende leden die u aan het topic wilt toevoegen [vermelden](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) met @member.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/05-top-buttons.png)
+
+- De header en beschrijving in het gekloonde topic zijn hetzelfde als in het huidige topic
+- _Documenten opnemen_
+
+Documenten die aan dit topic zijn gekoppeld, worden ook aan het gekloonde topic gekoppeld
+
+- _Inclusief gerelateerde objecten_
+
+Objecten die aan dit topic zijn gekoppeld, worden ook aan het gekloonde topic gekoppeld
+
+> **Opmerking:** Opmerkingen worden niet gekloond
+
+_Instellingen_ - Ga naar [topicbordinstellingen](https://support.catenda.com/en/articles/4670277-issue-board-settings) door op deze knop te klikken
 
 # Verdiepingsconfiguratoracties
 
@@ -18835,7 +19736,7 @@ _Meerdere statussen/typen tegelijk koppelen_ Als er losgekoppelde statussen/type
 
 Door op de koppeling te klikken, gaat u naar het gebied [losgekoppelde velden](https://support.catenda.com/en/articles/4670277-topic-board-settings#h_3bd7e3e759) van de [instellingen van het topic board](https://support.catenda.com/en/articles/4670277-topic-board-settings) waar u alle velden van één soort tegelijk aan een bestaande waarde kunt koppelen.
 
-## 2. **Topics exporteren**​
+## 2. **Topics exporteren**
 
 U kunt topics exporteren door in het [menu voor nieuwe item-acties](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_8c642e051a) rechtsboven in een topic board de optie topics exporteren te kiezen, of door een topic in de topicslijst te selecteren en de exportoptie in het [menu voor geselecteerde item-acties](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_b5c00c149b) boven het topic board te kiezen. De dialoog voor het exporteren van topics kan er zo uitzien:
 
@@ -19239,7 +20140,7 @@ Sharelink - [https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY](https
 
 ### 1.2 **Onboarding en ondersteuning - [Afspeellijst](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7?track_link_name=Intercom&track_link_id=vrc3txAqpnzG21ahEDofSs&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 
-Sharelink - ​[https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7)
+Sharelink - [https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7)
 
 - [Verbinding maken met Catenda Hub](https://eu.guidde.com/share/playbooks/sAJ9zHv65kinzKseJPmNQm?track_link_name=Changelog&track_link_id=nQAaRkkuJwtN2my3y8ZNSK&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [Accountinstellingen en Notificaties](https://eu.guidde.com/share/playbooks/6cAvR5y6ugZsAShAwPLL6f?track_link_name=Guidde%20videos%20article&track_link_id=7Hvd2JT6GLw4efuaAPGkX3&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
@@ -19264,7 +20165,7 @@ Sharelink - [https://eu.guidde.com/share/playlists/9EG9WZEd2UiGMPZVVQfHuR](https
 
 ### 1.5 **Inhoudsbeheer - [Afspeellijst](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7?track_link_name=Intercom&track_link_id=khM8GzpkYf6nta8Y46UGED&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 
-Sharelink - ​[https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7)
+Sharelink - [https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7)
 
 - [Mappen en submappen toevoegen](https://eu.guidde.com/share/playbooks/o7pDsqiQCKPyTGBLifxKgE?track_link_name=Guidde%20videos%20article&track_link_id=aLvZdST9FaxbeYtZShRcoc&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [Een verzameling maken en delen](https://eu.guidde.com/share/playbooks/rcTnM584AAZPy6APbGyQS9?track_link_name=Guidde%20videos%20article&track_link_id=vruZ7x8jeTfCrHT6bS911i&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
@@ -19341,7 +20242,7 @@ De video's in de afspeellijst worden regelmatig bijgewerkt met wijzigingen op he
 - Gif
 - Document PDF
 - Slides PDF
-- PPTX​
+- PPTX
 
 ## 3. De gids delen
 
@@ -21054,10 +21955,10 @@ De [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-c
 
 - **Weergave per gebruiker**
   Bekijk afzonderlijke gebruikerstoegangsniveaus rechtstreeks vanuit het informatiedeelvenster aan de rechterkant van een topicbord of geselecteerd topic.
-  ​_Vereiste toegang:_ leestoegang tot het topicbord
+  _Vereiste toegang:_ leestoegang tot het topicbord
 - **Volledige teamconfiguratie**
   Legfoto's van de volledige teamniveaumachtigingsinstellingen binnen de topicboardtoegangsinstellingen vast.
-  ​_Vereiste toegang:_ Volledige toegang tot het topicbord of projectbeheerder
+  _Vereiste toegang:_ Volledige toegang tot het topicbord of projectbeheerder
 
 **Document- en Modeltoegang** Exporteer het [toegangsoverzicht](https://support.catenda.com/en/articles/6660820-document-access-overview-page) om machtigingen voor leden en teams vast te leggen. Vereiste toegang: Projectbeheerder. Omdat elk model is gekoppeld aan een document in de documentensectie, worden toegangsmachtigingen voor modellen bepaald door de onderliggende documentmachtigingen en worden ze vastgelegd met behulp van hetzelfde documenttoegangsoverzicht of machtigingsmenu's.
 
@@ -21069,7 +21970,7 @@ De [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-c
   Projectleden kunnen elk menu onder toegangsbeheer uitvouwen om te zien welke afzonderlijke gebruikers toestemming hebben om elke actie uit te voeren.
 - **Volledige configuratie**
   Beheerders kunnen het bewerkingtoegangsdialoogvenster openen om teamniveaumachtigingsconfiguraties weer te geven en te beheren.
-  ​_Vereiste toegang:_ Projectbeheerder
+  _Vereiste toegang:_ Projectbeheerder
 
 **Gebruikersprofielen en liddetails** Informatie over projectleden en teams is beschikbaar om te extraheren of te documenteren, inclusief:
 
@@ -21309,7 +22210,7 @@ Hier is een vergelijking van de voor- en nadelen van deze 2 varianten:
 
 U kunt goede suggesties voor het maken van een mapstructuur vinden in [dit artikel](https://support.catenda.com/en/articles/8542598-structuring-documents). U kunt ook een voorbeeld van een mapstructuur gebruikt door de Staatsgebouwdirectie in Beieren vinden via de volgende [link](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) Mapstructuren kunnen zeer verschillend worden opgezet. Dit hangt enerzijds af van de vereisten van het project en het bijbehorende projectteam, en anderzijds hangt de mapstructuur af van eventueel gebruikte plansleutels.
 
-### 1.1 ​**Voorbeeld -** Structuren scheiden per fase
+### 1.1 **Voorbeeld -** Structuren scheiden per fase
 
 Een mapstructuur is ingesteld op basis van de servicefasen. Dit scheidt duidelijk welke documenten uit welke beheerfasen in welke mappen worden opgeslagen. Maar wat gebeurt er met documenten die van toepassing zijn op alle servicefasen? U zou kunnen denken dat als de documenten in de mappen van de verschillende servicefasen zijn georganiseerd, deze informatie bijvoorbeeld niet meer nodig is in de plansleutel. Maar wat gebeurt er wanneer een plan wordt afgedrukt of digitaal naar de bouwplaats wordt verzonden? Ook hier moet de plannaam worden gebruikt om het exacte document te identificeren. In het beste geval vormen de mapstructuur en plansleutel een eenheid die voor alle betrokken partijen gedurende het hele project werkt.
 
@@ -22216,6 +23117,380 @@ Nieuwe ACL-rechten beïnvloeden uw bewerkingen:
 
 **V: Wat als we meer tijd nodig hebben om ons aan te passen?** A: Neem onmiddellijk contact met ons op. Status Workflow wordt geleidelijk ingeschakeld en we kunnen timelineopties voor uw organisatie bespreken.
 
+# Tabellen op Catenda
+
+Op pagina's waar meerdere elementen worden weergegeven, wordt informatie vaak in tabellen weergegeven. Verschillende manieren om met tabellen te werken, die vaak vergelijkbaar zijn in verschillende tabellen, worden in dit artikel beschreven. In het onderstaande voorbeeld wordt de tabel op de Leden-pagina weergegeven als een voorbeeld van hoe een tabel op Catenda eruit kan zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/01-intro.png)
+
+## 1. Standaardgedrag
+
+In de volgende tabellen wordt alle informatie standaard weergegeven
+
+- Inspectpaneel
+  - [Hoeveelheid opname (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
+  - [Uitlijningen](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
+  - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
+  - Naamgevingsconventies
+- Bibliotheken
+  - [Koppelingenbibliotheek](https://support.catenda.com/en/articles/4670254-links-library)
+  - [Sharepoint-bibliotheek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+  - [Dropbox-bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page)
+  - [Bibliotheek eigenschapswaarde](https://support.catenda.com/en/articles/4670252-property-value-library)
+  - [Classificatiebibliotheek](https://support.catenda.com/en/articles/4670255-classification-library)
+- Organisatiegereedschap
+  - [Gebruikerspagina](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+  - [Projectenpagina](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+  - [Pagina projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+
+In de volgende tabellen wordt een standaardconfiguratie weergegeven wanneer de pagina wordt geladen:
+
+- Modellen
+  - [Objectenpagina](https://support.catenda.com/en/articles/12352750-objects-page)
+
+In de volgende tabellen worden wijzigingen aan de standaardtabelconfiguratie weergegeven wanneer de pagina wordt geladen:
+
+- [Onderwerpen](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabelweergave)
+- [Modellen](https://support.catenda.com/en/articles/4670286-models-page) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
+- [Documenten](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
+  - [Overzicht documenttoegang](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+- [Rapporten](https://support.catenda.com/en/articles/12303098-reports-page) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
+- [Labels](https://support.catenda.com/en/articles/4670265-labels-page) (Tab Labels, Tab Groep)
+- [Aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+- [Ledenpagina](https://support.catenda.com/en/articles/11926821-members-page) (Tab Leden, Tab Teams)
+
+Wijzigingen in de tabelconfiguratie worden alleen toegepast op de persoon die de wijziging aanbrengt en niet voor alle leden in het project. Wanneer een wijziging in een tabel wordt aangebracht, heeft de wijziging invloed op de weergave van die tabel in alle projecten.
+
+De onderstaande tabel beschrijft instellingen die kunnen worden geconfigureerd voor een tabel.
+
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="padding: 8px;"><h1 id="h_aa1a623a85">Voorkeuren</h1></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1eedf14b1">Wat</h2></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_691544b252">Waar</h2></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fa7d3a8228">Kolomvoorbeeld</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Voor elke tabel is standaard een bepaald aantal kolommen ingeschakeld.</p><p>Tabellen met veel kolommen kunnen kolommen bevatten die standaard zijn uitgeschakeld.</p><p>Kolommen die standaard zijn uitgeschakeld, moeten met de kolomkeuzelijst worden ingeschakeld om te worden weergegeven</p><div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;"><p><b>Opmerking:</b> Aangepaste kolommen, zoals kolommen voor aangepaste velden, zijn altijd verborgen wanneer de pagina wordt geladen.</p></div></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolomkeuzelijst</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_ea66b1d6d8">Gesorteerde kolom en sorteerrichting</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Tabellen kunnen tegelijk op één kolom worden gesorteerd. Klik op de koptekstrij van een sorteerbare kolom om te configureren op welke kolom de tabel wordt gesorteerd en in welke richting.</p><p>Nadat u op een kolom hebt gesorteerd, worden de rijen in de tabel opnieuw geordend volgens de <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8487788-sorting-order-of-lists">typische sorteerregels op Catenda</a>.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Koptekstrij</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_321a81f32f">Kolomvolgorde</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolommen hebben standaard een vaste volgorde.</p><p>Het wijzigen van de volgorde van kolommen wijzigt de geconfigureerde kolomvolgorde</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolomkeuzelijst en koptekstrij</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_feb5f7b2ab">Kolombreedte</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Standaard kolombreedte wordt aangepast om vitale delen van de kolominhoud weer te geven.</p><p>Standaard geven kolommen daarom mogelijk niet de volledige inhoud van een kolom weer</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Koptekstrij</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7a5beb9bd0">Rijhoogte</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>De rijhoogte kan worden gewijzigd met de rijhoogknoppen in de linkerbovenhoek van een tabel.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Tabelzichtbaarheidinstellingen</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1fe2adb04">Pop-over rechtermenu</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nadat u een rij hebt geselecteerd en het rechtermenu op een pagina hebt geopend, wordt het rechtermenu de volgende keer dat u een rij selecteert, opnieuw geopend totdat het is gesloten.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Knop rechtermenu</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f502376bea">Enkel paneel of meerpaneel</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Elke tabel heeft twee configuraties.</p><p>Eén wanneer de tabel het enige geopende paneel is en één wanneer meerdere panelen zijn geopend.</p><p><br/>​</p><p></p><p><i>Configuratie met één paneel</i></p><p>Als een tabel zich in het inhoudbereik bevindt en het inhoudbereik het enige geopende paneel is, wordt de configuratie met één paneel weergegeven.</p><p><br/>​</p><p></p><p><i>Configuratie met meerdere panelen</i></p><p>Als een tabel zich in het inhoudbereik bevindt en tegelijkertijd een ander paneel, zoals het 3D- of informatievenster, is geopend, wordt de configuratie met meerdere panelen weergegeven.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Paneelknop</p></td></tr></tbody></table></div>
+
+## 2. Selectie-overzicht
+
+In de linkerbovenhoek van een tabel wordt een selectievakje weergegeven. Rechts van het selectievakje wordt een overzicht weergegeven van het huidige aantal geselecteerde rijen en het totale aantal rijen op het huidige niveau van de tabel.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/02-selection-overview.png)
+
+### 2.1 Alles selecteren
+
+In sommige tabellen kunnen, wanneer er veel rijen zijn, alle rijen tegelijk worden geselecteerd. In andere tabellen kunnen alleen de rijen die momenteel zijn geladen, worden geselecteerd. Klik op het selectievakje om alle rijen in de tabel te selecteren. Als het rechtermenu eerder is geopend, wordt het opnieuw geopend wanneer u een rij selecteert.
+
+### 2.2 Meer rijen laden door te schuiven
+
+In sommige tabellen worden alleen de rijen die momenteel zijn geladen, geselecteerd. Doorgaans worden tegelijk 100 rijen geladen. Het schuiven voorbij 100 rijen leidt ertoe dat meer rijen worden geladen en dus meer rijen tegelijk kunnen worden geselecteerd.
+
+### 2.3 Geselecteerde itemacties
+
+Nadat u een rij in de tabel hebt geselecteerd of de inhoud van een rij hebt geopend, kan er een menu met geselecteerde itemacties in het selectie-overzicht worden weergegeven. Dit is hoe het menu met geselecteerde itemacties in de tabel Documenten eruit kan zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/03-selected-item-actions.png)
+
+Het menu met geselecteerde itemacties kan verschillende acties bevatten, afhankelijk van de inhoud van de rij en de toegang van de gebruiker die selecteert. De mogelijke acties voor elke tabel zijn hier te vinden:
+
+- [Geselecteerde itemacties onderwerpenboard](https://support.catenda.com/en/articles/4670284-topic-board-actions#h_b5c00c149b)
+- [Geselecteerde itemacties modelenpagina](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed)
+- [Geselecteerde itemacties documentenpagina](https://support.catenda.com/en/articles/4670288-document-structure-actions#h_fb4e9ef375)
+
+### 2.4 Alles deselecteren
+
+Nadat u een rij hebt geselecteerd, wordt het selectievakje Selectie-overzicht ingeschakeld met een minteken erin. Hier is een voorbeeld van hoe dit eruit kan zien in de tabel Documenten:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/04-deselecting-all.png)
+
+Klik op de minteken om alle geselecteerde rijen te deselecteren.
+
+## 3. Tabelzichtbaarheidinstellingen
+
+Rechts boven in een tabel kunt u de tabelzichtbaarheidinstellingen vinden. Dit is hoe de tabelzichtbaarheidinstellingen eruit kunnen zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/05-table-visibility-settings.png)
+
+### 3.1 Exporteren
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/06-export.png)
+
+Tabellen kunnen worden geëxporteerd door op de exportknop te klikken.
+
+### 3.2 Weergave
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/07-view.png)
+
+_Lijstweergave -_ Standaard
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/08-view.png)
+
+In de lijstweergave is informatie over elementen gerangschikt naar de bovenkant/onderkant/linkerkant/rechterkant van een groter vak.
+
+**Tabelweergave**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/09-view.png)
+
+In de tabelweergave is informatie over elementen gerangschikt in rijen en kolommen.
+
+### 3.3 Rijhoogte
+
+De knoppen voor rijhoogte wijzigen de hoogte van elke rij in de tabel.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/10-row-height.png)
+
+**Standaardweergave** Een rijhoogte die goed werkt voor de meeste schermen wordt weergegeven.
+
+**Compacte weergave** Witruimte boven en onder elementen in een rij wordt verwijderd, waardoor de rijhoogte wordt verkleind.
+
+Voor kleine schermen of schermen met een lage resolutie kunnen slechts enkele rijen met de standaard rijhoogte worden weergegeven. In deze situatie is de compacte weergave de beste optie.
+
+### 3.4 Kolomkeuzelijst
+
+Rechts boven in een tabel is de kolomkeuzelijst te zien. Dit is hoe de kolomkeuzelijst eruit kan zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/11-column-dropdown.png)
+
+Met de kolomkeuzelijst kunnen de kolommen in een tabel worden opnieuw geordend, ingeschakeld en uitgeschakeld. Dit is hoe de kolomkeuzelijst eruit kan zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/12-column-dropdown.png)
+
+Boven in de kolomkeuzelijst kunnen opties die van invloed zijn op alle kolommen worden weergegeven. Dit is een voorbeeld van hoe het bovenkant van de kolomkeuzelijst eruit kan zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/13-column-dropdown.png)
+
+**Uiterlijk schakelen** Als de schakelaar is ingeschakeld, worden alle kolommen weergegeven. Als de schakelaar halfweg is, worden sommige kolommen weergegeven. Als de schakelaar is uitgeschakeld, worden geen kolommen weergegeven. Als een schakelaar een lichter kleur heeft, kan deze alleen worden in- of uitgeschakeld wanneer alles of niets is in- of uitgeschakeld.
+
+**Filter** Typ in de filterbalk om te filteren op een specifieke kolom.
+
+**Instellingen herstellen** Klik op de knop Instellingen herstellen om de kolommen terug te zetten naar hun standaardconfiguratie.
+
+**Kolomtype uitvouwen/samenvouwen** Vouw een kolomtype uit of samen met de pijlknop aan de linkerkant om alle kolommen van dat type weer te geven of te verbergen.
+
+**Sleepanker** Kolommen die opnieuw kunnen worden geordend, kunnen een rastericon rechts van de kolomnaam weergeven.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/14-column-dropdown.png)
+
+De cursor kan in een hand veranderen wanneer het sleepanker wordt aangewezen. Nadat u het raster hebt vastgepakt, verschijnt er een sleepanker onder de cursor en kan de vastgehouden kolom in een lichter tinten worden weergegeven.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/15-column-dropdown.png)
+
+Wanneer het sleepanker naar een ander kolom wordt gesleept, verschijnt de vastgehouden kolom na de kolom waarnaar het wordt gesleept. Laat los of klik op het sleepanker om de vastgehouden kolom op zijn plaats te vergrendelen en de kolomlijst opnieuw in te stellen.
+
+### 3.5 Tabelinstellingen
+
+Klik op de knop Tabelinstellingen om tabelinstellingen in of uit te schakelen
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/16-table-settings.png)
+
+## 4. Rijen
+
+In een tabel worden elementen weergegeven in rijen die op verschillende manieren kunnen werken.
+
+## 5. Rijen - Koptekstrij
+
+De koptekstrij is de eerste rij in de tabel.
+
+### 5.1 Interactie met koptekstrij
+
+Het aanwijzen van verschillende delen van de koptekstrij kan aangeven hoe deze kan worden gebruikt.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/17-header-row-interaction.png)
+
+### 5.2 Sorteren
+
+Als een kolom kan worden gesorteerd, kan er een pijl omhoog/omlaag aan de rechterkant van de kolomnaam worden weergegeven
+
+**Cursorverandering** De cursor wordt een wijzer.
+
+**Sorteerpijlen** Sorteerpijlen kunnen aangeven welke kolom momenteel wordt gesorteerd. Sorteerpijlen kunnen aangeven in welke richting de rijen worden gesorteerd.
+
+**Klikken om te sorteren** Klik op de kopcel van een sorteerbare kolom om de tabelrijen volgens die kolom te sorteren. Nadat u een kolom hebt gesorteerd, worden de rijen in de tabel opnieuw gerangschikt volgens de [standaard sorteervolgorde in Catenda](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists). Klik opnieuw op de kopcel van de gesorteerde kolom om deze in de tegengestelde richting te sorteren. Het sorteren van een kolom werkt de sorteervoorkeur voor de tabel bij.
+
+> **Opmerking:** Tabellen kunnen slechts op één kolom tegelijk worden gesorteerd
+
+### 5.3 Breedte aanpassen
+
+Breedteaanpassingsankerpunten zien er uit als een dikke lijn ongeveer halverwege de hoogte van de koptekstrij.
+
+**Cursorverandering** Het aanwijzen van het aanpassingsankerpunt verandert de cursor in een pijl van links naar rechts, ook wel bekend als een formaatwijzigingscursor.
+
+**Slepen om aan te passen** Sleep op het breedteaanpassingsankerpunt in de koptekstrij om de kolombreedte te wijzigen.
+
+**Dubbelklik om automatisch aan te passen** Dubbelklik op het aanpassingsankerpunt om de kolom links van het ankerpunt automatisch aan te passen op basis van de inhoud van die kolom. Wanneer kolominformatie zo lang is dat deze wordt afgekapt, maar de benodigde informatie aan het einde van de inhoud staat, kan het aanpassen van de kolom nuttig zijn.
+
+### 5.4 Kolom volgorde aanpassen
+
+Sleep op de kopcel van een kolom om de kolvolgorde opnieuw in te stellen. Sleep de kopcel van een kolom buiten de tabel om die kolom te verbergen. Om de kolom terug te krijgen, moet u deze opnieuw inschakelen in de kolom vervolgkeuzelijst.
+
+## 6. Rijen - Bijgewerkte rijeninformatie
+
+Wanneer de informatie in een rij buiten het huidige browsertabblad wordt bijgewerkt, wordt een informatiebalkie onderaan de tabel weergegeven.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/18-rows-updated-row-information.png)
+
+Klik op Updates ophalen om de rijen in uw tabel bij te werken met de nieuwe informatie. Wanneer Updates ophalen wordt aangeklikt, schuiven nieuwe rijen in en verwijderde rijen schuiven uit. Cellen met bestaande informatie die kort wordt gewijzigd, flitsen met een groene achtergrond.
+
+## 7. Rijen - Onderste rij
+
+Kolommen met numerieke waarden kunnen worden opgeteld in de onderste rij van de tabel.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/19-rows-bottom-row.png)
+
+Voorbeelden van kolommen die kunnen worden opgeteld, zijn kolommen met aangepaste velden en kolommen met objecteigenschappen.
+
+## 8. Verplaatsen door slepen
+
+Om de locatie van een kolom of rij te wijzigen, geeft u het sleepankerpunt op de nieuwe locatie los.
+
+### 8.1 Kolom configuratie wijzigen door slepen
+
+Klik en sleep op de kopcel van een kolom om de kolom configuratie te wijzigen. Nadat u de kolom hebt gegrepen, verschijnt er een sleepankerpunt onder de cursor. Het sleepankerpunt kan de naam van de kolom en een oogpictogram bevatten dat aangeeft of de kolom wordt ingeschakeld of uitgeschakeld wanneer het ankerpunt wordt vrijgegeven.
+
+**Sleepankerpunt om een kolom opnieuw in te stellen** Wanneer het sleepankerpunt over een kolomgrens of uit de tabel wordt gesleept, wordt de kolom die wordt gesleept uit de huidige locatie verwijderd. Wanneer het sleepankerpunt over een andere locatie in de tabel wordt gesleept, wordt de kolom daar weergegeven. Geef het sleepankerpunt op de gewenste locatie vrij om de ingehouden kolom op die locatie in te voegen.
+
+**Sleepankerpunt om een kolom te verwijderen** Wanneer het sleepankerpunt buiten de tabel wordt gesleept, verandert het zichtbaarheidspictogram in een doorgehaald oog en wordt de kolom in de tabel uitgeschakeld. Geef vrij of klik om de ingehouden kolom uit te schakelen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/20-change-column-configuration-by-dragging.png)
+
+### 8.2 Rijen verplaatsen door slepen
+
+Wanneer de rijcel in de titelkolom (vaak aangeduid als naam) wordt aangewezen, kan er een raster met puntjes aan de rechterkant van de titel worden weergegeven.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/21-move-rows-by-dragging.png)
+
+Beweeg de muis over het raster en u zult zien dat de cursor verandert in een hand, wat aangeeft dat de rij kan worden gegrepen. Nadat u het raster hebt gegrepen, verschijnt er een sleepankerpunt onder de cursor. Het sleepankerpunt kan de titels van de rij(en) bevatten die werden geselecteerd toen de rij werd gegrepen.
+
+**Sleepankerpunt om een rij te verplaatsen** Terwijl de rij(en) in de tabel worden gesleept, worden ze gemarkeerd en krijgen ze een lichter kleurschema, wat aangeeft dat er iets in de tabel kan gebeuren.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/22-move-rows-by-dragging.png)
+
+Interactieve rijen worden gemarkeerd met een andere achtergrond wanneer het sleepankerpunt over de interactieve rij wordt gesleept.
+
+### 8.3 Sleepankerpunt vrijgeven
+
+Wanneer het sleepankerpunt op een interactieve rij wordt vrijgegeven, kan het dialoogvenster Verplaatsen openen. Ook al was het rasteringang van één rij gesleept, het zal werken als de verplaatsingsactie werd gebruikt voor de rijen die in de tabel werden geselecteerd. Wanneer het sleepankerpunt over een niet-interactieve rij of buiten de tabel wordt gesleept en vrijgegeven, gebeurt er niets in de tabel.
+
+### 8.4 Tabel beschikbaarheid
+
+Het is mogelijk om kolommen in de volgende tabellen te verplaatsen:
+
+- Modellen
+  - [Objecten pagina](https://support.catenda.com/en/articles/12352750-objects-page)
+- Organisatietools
+  - [Projectpagina](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+  - [Pagina projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+
+- [Onderwerpen](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabelweergave)
+- [Modellen](https://support.catenda.com/en/articles/4670286-models-page) (Basisweergave, Publicatie tab, Werkruimte tab)
+- [Documenten](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Basisweergave, Publicatie tab, Werkruimte tab)
+  - [Documenttoegangenoverzicht](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+- [Rapporten](https://support.catenda.com/en/articles/12303098-reports-page) (Basisweergave, Publicatie tab, Werkruimte tab)
+- [Labels](https://support.catenda.com/en/articles/4670265-labels-page) (Labels tab, Groep tab)
+- [Aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+- [Ledenpagina](https://support.catenda.com/en/articles/11926821-members-page) (Leden tab, Teams tab)
+
+## 9. Interactie met rijen door aanwijzen
+
+Het aanwijzen van verschillende delen van de tabel kan aangeven hoe deze kan worden gebruikt. Rijen die niet worden aangewezen, kunnen een witte achtergrond hebben.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/23-interacting-with-rows-by-hovering.png)
+
+### 9.1 Rij aanwijzen
+
+Het aanwijzen van een willekeurig punt in een rij kan die rij markeren met een andere achtergrond.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/24-row-hover.png)
+
+### 9.2 Vak aanwijzen
+
+Wanneer een klikbaar vak in een rij wordt aangewezen, kan de cursor veranderen in een wijzer en kan het vak een donkerder omtrek en een schaduw krijgen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/25-box-hover.png)
+
+### 9.3 Tekst aanwijzen
+
+Wanneer klikbare tekst in een rij wordt aangewezen, kan de cursor veranderen in een wijzer. De tekst kan worden onderstreept wanneer aangewezen, en sommige browsers kunnen de URL van de pagina weergeven die onderin links wordt geopend.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/26-text-hover.png)
+
+## 10. Interactie met rijen door te klikken
+
+Verschillende gedragingen kunnen optreden wanneer u op de inhoud van een rij klikt.
+
+### 10.1 Rij selecteren
+
+Als het rechtermenu eerder was geopend, wordt het opnieuw geopend wanneer een rij wordt geselecteerd.
+
+**Lege ruimte** Klik eenmaal op een willekeurige lege ruimte in de rij om deze te selecteren. Als het rechtermenu eerder was geopend, wordt het opnieuw geopend wanneer een rij wordt geselecteerd. Klik twee keer snel achter elkaar om de inhoud van de rij te openen. Klik na enige tijd opnieuw op de rij om deze uit te schakelen.
+
+**Selectievakje** Selecteer het selectievakje in de selectievakjekolom om de rij te selecteren. Met het selectievakje kan de rij worden geselecteerd zonder dat u zich zorgen hoeft te maken over het per ongeluk openen van de rijeninhoud.
+
+**Rijbereik selecteren** Houd `shift` ingedrukt en klik om alle rijen tussen de huidige rij en de dichtstbijzijnde geselecteerde rij te selecteren.
+
+**Rij selectie bewerken** Houd `control` ingedrukt en klik om afzonderlijke elementen in de selectie te bewerken
+
+### 10.2 Rijeninhoud openen
+
+Tekst in rijen met inhoud die kan worden bekeken, kan worden aangeklikt om een voorbeeld van de rijeninhoud op een nieuwe pagina te openen.
+
+**Rijeningangen openen** Pictogrammen in rijen met inhoud die kan worden bekeken, kunnen worden aangeklikt om een voorbeeld van de rijeninhoud op een nieuwe pagina of in een popup dialoogvenster te openen. Het klikken op pictogrammen in rijen zonder inhoud die kan worden bekeken, selecteert de rij.
+
+### 10.3 Vakken in rijen
+
+Er kunnen verschillende soorten vakken in een rij voorkomen. Elk vak kan een eigen pictogram of kleur hebben.
+
+**Labelvak** Labelvakken hebben een labelpictogram in de kleur van dat label. Wanneer op een labelvak wordt geklikt, kan het aan het huidige filter worden toegevoegd. Dit is hoe een labelvak eruit kan zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/27-boxes-in-rows.png)
+
+**Status- of typevak** Status- en typevakken hebben een cirkel met de kleur van de status of het type. Wanneer op een statusvak wordt geklikt, kan het aan het huidige filter worden toegevoegd. Dit is hoe een status- of typevak eruit kan zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/28-boxes-in-rows.png)
+
+**Teamvak** Teamvakken zijn groen gekleurd voor lidenteams en oranje voor administratorteams Dit is hoe een teamvak eruit kan zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/29-boxes-in-rows.png)
+
+**Meer weergavevak** Als er meer vakken zijn dan in de kolombreedte van een rijcel kunnen passen, wordt een vak met drie puntjes weergegeven:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/30-boxes-in-rows.png)
+
+Klik op dit vak om de resterende vakken in de rijcel voor deze kolom te zien.
+
+**Viewervak** De 2D, 3D en zoomvakken kunnen worden weergegeven. Klik op het 2D-vak om de inhoud van de rij in de 2D-viewer te laden. Klik op het 3D-vak om de inhoud van de rij in de 3D-viewer te laden. Nadat u de inhoud van de rij in de 3D-viewer hebt geladen, wordt de knop zoom naar uitzicht beschikbaar en kan deze worden aangeklikt om de camera in de 3D-viewer zo in te stellen dat de hele inhoud van de rij zichtbaar is. Dit is hoe viewervakken eruit kunnen zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/31-boxes-in-rows.png)
+
+**Objectvak** Het aantal objecten dat is gekoppeld aan de rij, wordt weergegeven. Dit is hoe een objectvak eruit kan zien:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/32-boxes-in-rows.png)
+
+Wanneer op een objectvak wordt geklikt, kan het volgende contextmenu openen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/33-boxes-in-rows.png)
+
+Objecten selecteren Het 3D-venster wordt geopend en de modellen waartoe de objecten behoren, worden in de 3D-viewer geladen naast alle modellen die eerder waren geopend. Nadat de modellen zijn geladen, wordt de huidige selectie gewist. De objecten die aan de rij zijn gekoppeld, worden vervolgens geselecteerd.
+
+Objecten isoleren Het 3D-venster wordt geopend en de modellen waartoe de objecten behoren, worden in de 3D-viewer geladen naast alle modellen die eerder waren geopend. Nadat de modellen zijn geladen, wordt de huidige selectie gewist. De objecten die aan de rij zijn gekoppeld, worden vervolgens geïsoleerd.
+
+Als query laden Het 3D-venster wordt geopend. Alle modellen die eerder in 3D waren geladen, worden volledig gewist (niet verborgen) uit de 3D-viewer. Alleen de objecten die aan de rij zijn gekoppeld (deze kunnen tot meerdere modellen behoren), worden vervolgens in de 3D-viewer geladen.
+
+### 10.4 Rijeninhoud kopiëren
+
+Secundaire rijeninhoud kan naar het klembord worden gekopieerd
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/34-copy-row-content.png)
+
+|
+v
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/35-copy-row-content.png)
+
+## 11. Schuifbalken
+
+### 11.1 Verticale schuifbalk
+
+Sleep op de verticale schuifbalk om het onderwerpenbord verticaal te schuiven
+
+### 11.2 Horizontale schuifbalk
+
+Sleep op de horizontale schuifbalk om het onderwerpenbord horizontaal te schuiven
+
 # Veelgestelde vragen organisatietool
 
 Het kan een uitdaging zijn om uw gebruikers als organisatieeigenaar te beheren.
@@ -22298,7 +23573,7 @@ Waarden van aangepaste velden worden weergegeven in de PDF-export van onderwerpe
 
 Aangepaste velden zijn nog niet opgenomen in de geëxporteerde BCF. Aangepaste velden zullen deel uitmaken van de BCF 4-standaard wanneer deze wordt vrijgegeven. Na de release zullen wij en andere BCF-tools die de standaard volgen, eraan werken het veld beschikbaar te stellen voor uitwisseling.
 
-### 3.3 **​Onderwerp Excel-export**
+### 3.3 **Onderwerp Excel-export**
 
 Voor elk aangepast veld in het onderwerpenbord wordt een kolom toegevoegd.
 
@@ -22393,7 +23668,7 @@ Als de grootte van een `.ifc`-bestand groter is dan de bovengrens, kan een `.ifc
 - Comprimeer het `.ifc`-bestand naar een `.zip`-bestand.
 - Wijzig de bestandsextensie van `.zip` naar `.ifczip`
 
-> **Opmerking:** **Voorbeeld:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip ​`
+> **Opmerking:** **Voorbeeld:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip `
 
 ## 4. **Neem contact op met ondersteuning**
 
@@ -22642,7 +23917,6 @@ Als nieuwe functies worden uitgerold en bugs worden opgelost, worden artikelen b
 
 - [Tabellen op Catenda](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
 - [Aangepaste lidgegevens](https://support.catenda.com/en/articles/11769670-custom-member-information)
-  ​
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
@@ -23116,7 +24390,6 @@ Dankzij uw waardevolle feedback hebben we veel problemen kunnen oplossen die u m
   Namen van eigenschappen en eigenschappensets die punten in zich hebben, worden nu correct weergegeven in de koptekstcel van de kolom op de objectenpagina in plaats van alleen alles na de punt. Het is nu ook mogelijk om op dit soort eigenschapsnamen te zoeken.
 - **[Modelenpagina] Oneindige spinner voor gedeelde revisies na uitschakeling**
   In projecten waar gedeelde revisies werden uitgeschakeld nadat gedeelde modelrevisies waren geüpload terwijl gedeelde revisies waren ingeschakeld, zijn oneindige spinners niet langer zichtbaar in de viewerkolom op de modelenpagina.
-  ​
 
 ### 3.4 **Rapporten**
 
@@ -23314,6 +24587,45 @@ Volledige Japanse lokalisatie is geïmplementeerd in de goedkeuringingsinterface
 
 **Tekla-invoegtoepassing v1.5.0** Ondersteuning voor Tekla 2026
 
+# Changelog 2 Catenda - juli 2023
+
+## 1. Artikelen
+
+_Nieuwe artikelen:_ Catenda Hub [Bimsync is nu Catenda Hub](https://support.catenda.com/en/articles/7890769-bimsync-is-now-catenda-hub) [Landingspagina](https://support.catenda.com/en/articles/8400797-projects-page) [Zijpaneel in een issue board](https://support.catenda.com/en/articles/6941224-side-panel-in-an-issue-board) [Alle projectgegevens exporteren](https://support.catenda.com/en/articles/7946690-exporting-all-project-data) [Naamconventie-pagina](https://support.catenda.com/en/articles/7832559-naming-conventions-page) [Eenvoudigste naamconventie](https://support.catenda.com/en/articles/7845360-simplest-naming-convention) [Gemiddelde naamconventie](https://support.catenda.com/en/articles/7936943-medium-naming-convention) [Geavanceerde naamconventie](https://support.catenda.com/en/articles/7936947-advanced-naming-convention) Catenda Site [Download uw mobiele app Catenda Site 📲](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site) [Documenten - Catenda Site](https://support.catenda.com/en/articles/7774637-documents-catenda-site) [Dashboard - Catenda Site](https://support.catenda.com/en/articles/7213817-dashboard-catenda-site) [Navigatiemenu - Catenda Site](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) [Projectenpagina - Catenda Site](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) [Instellingen - Catenda Site](https://support.catenda.com/en/articles/7733833-settings-catenda-site) [Issuepagina - Catenda Site](https://support.catenda.com/en/articles/7734073-issues-page-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site) [Offlinemodus in Catenda Site](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site) [3D-viewer - Catenda Site](https://support.catenda.com/en/articles/7744403-3d-viewer-catenda-site) [2D-viewer - Catenda Site](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site) [Labelfilter - Catenda Site](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site) _Artikelen die zijn gewijzigd:_ [Projectinstellingenpagina](https://support.catenda.com/en/articles/4670273-project-settings-page) [Systeemvereisten en optimalisatie](https://support.catenda.com/en/articles/6921941-system-requirements-and-optimization) [Modelenpagina](https://support.catenda.com/en/articles/4670286-models-page) [Modelpagina](https://support.catenda.com/en/articles/4670270-model-page)
+
+## 2. Opgeloste problemen
+
+**Catenda Hub**
+
+- [Modellen](https://support.catenda.com/en/articles/4670286-models-page) met Japanse tekens worden nu met de juiste naam gedownload
+- [Quantity take-off](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto) heeft nu afwisselende zwarte en witte achtergrondkolommen voor beter leesbare informatie
+- [Importeren](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) check-in - Importen met kleine fouten, zoals een komma hier, een haakje daar, worden nu geaccepteerd, zelfs als het bestand met een kleine fout is geschreven of geëxporteerd.
+- Het [Treepaneel](https://support.catenda.com/en/articles/4670290-the-tree-structures-in-the-ifc-models) toont nu altijd het juiste model van een object als dat object is geselecteerd. Eerder waren er enkele gevallen waarin het treemenu niet altijd naar het juiste model werkte
+- Het is nu mogelijk om een selectie op te slaan met het selectiemenu in het inspectpaneel.
+
+Een selectie van objecten kan ook gekleurd worden. Deze selectie kan worden opgeslagen in een snapshot of opgeslagen view.
+
+- Onze servers kunnen nu de [import](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) van bestanden met veel geometrie verwerken die eerder time-out zouden hebben veroorzaakt.
+- De [3D-knop](https://support.catenda.com/en/articles/4670286-models-page#h_82b7400edc) blijft nu actief wanneer meerdere modellen zijn geladen
+- Objecten kunnen nu opnieuw worden verwijderd en getransparant gemaakt.
+- Gebruikers met toegang tot mappen op het hoogste niveau in de documentensectie kunnen hun mappen nu zien, zelfs als geen toegang is gegeven aan alle gebruikers in [documentinstellingen](https://support.catenda.com/en/articles/7831371-document-settings).
+
+## 3. Plugins en integraties
+
+_[Revit plugin](https://support.catenda.com/en/articles/4670334-catenda-hub-revit-plugin)_ Versie 1.0.8 van de Revit-plugin bevat:
+
+- Teams filteren
+- Aangepaste exportopties werken opnieuw
+- Rebrandingupdate
+
+_[Archicad plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)_ Versie 1.1.9 nu beschikbaar voor Windows en Mac Rebrandingupdate
+
+_[Tekla plugin](https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin)_ Versie 1.1.1 nu beschikbaar voor: Tekla 2022 Tekla 2021 Tekla 2020 Rebrandingupdate
+
+_[Navisworks plugin](https://support.catenda.com/en/articles/5085987-catenda-hub-navisworks-plugin)_ Versie 1.3.0 nu beschikbaar. Rebrandingupdate
+
+**Desktopconnector** Versie 1.0.0.0 nu beschikbaar op aanvraag
+
 # Changelog 3 Catenda - oktober 2023
 
 > Nieuwe informatie en kleine wijzigingen
@@ -23469,7 +24781,7 @@ _[Documenten structureren](https://support.catenda.com/en/articles/8542598-struc
 
 **Modellen** [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) [Query's](https://support.catenda.com/en/articles/4854514-queries)
 
-**Informatievenster** [Informatievenster](https://support.catenda.com/en/articles/8238584-information-panel) _​_
+**Informatievenster** [Informatievenster](https://support.catenda.com/en/articles/8238584-information-panel)
 
 **Instellingen** [Labels pagina](https://support.catenda.com/en/articles/4670265-labels-page) [Een team maken](https://support.catenda.com/en/articles/4670264-creating-a-team)
 
@@ -23599,8 +24911,6 @@ _Recente updates_ [Statuswerkstroom🖥️Gedeeld ->✔️Gepubliceerd](https://
 **2D- en 3D-viewers** [Hoeveelheden bepalen (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
 
 _Informatiepaneel_ [Inspectmenu](https://support.catenda.com/en/articles/4670285-inspect-menu) [Informatiepaneel](https://support.catenda.com/en/articles/8238584-information-panel)
-
-**​**
 
 **Instellingen**
 
@@ -23852,9 +25162,9 @@ De filters bevinden zich in het linkerpaneel:
 
     <div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-60a1bb50b7da.png" style="height: auto;" width="3360"/></div><div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-84e66eb66553.png" style="height: auto;" width="3360"/></div>
 
-   Er zijn twee mogelijkheden:
+Er zijn twee mogelijkheden:
 
-   **A.** Je kunt een tabblad in paneel A kiezen: Vandaag, gisteren, een week geleden ...
+**A.** Je kunt een tabblad in paneel A kiezen: Vandaag, gisteren, een week geleden ...
 
     <div class="intercom-container"><img height="530" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-2a7e66b298c6.png" style="height: auto;" width="280"/></div>
 
@@ -24113,7 +25423,7 @@ Sommige functies kunnen voor bestaande projecten worden ingeschakeld door de con
 
 De nieuwe statuswerkstroom hoeft niet meer te worden aangevraagd om te worden ingeschakeld en is nu beschikbaar voor nieuwe gebruikers en kan worden ingeschakeld voor projecten die momenteel de verouderde statuswerkstroom gebruiken door gedeelde herzieningen in documentinstellingen in te schakelen.
 
-### 1.3 ​**Objectenpagina**
+### 1.3 **Objectenpagina**
 
 Zoek naar inhoud uit uw IFC met logica. De objectenpagina is een on-demand functie die kan worden aangevraagd voor lopende projecten. Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waar deze functie is ingeschakeld, hebben deze functie niet ingeschakeld. Bijvoorbeeld alle "Deurentiteiten" uit "Model A" die hoger zijn dan 2 meter. Configureer kolommen om de relevante eigenschappen voor elk rij-element in de tabel weer te geven. Als filterresultaten een object in de 3D-viewer bevatten, kan dit object in 3D worden geselecteerd. Exporteer geselecteerde elementen met de geconfigureerde eigenschapskolommen die in Excel worden weergegeven. Net als bij de QTO-functie kunnen objecten die in 3D zijn geselecteerd ook worden gefilterd. Vergeleken met de QTO-functie is het geen probleem om duizenden rijen in de tabel te laden.
 
@@ -24369,7 +25679,8 @@ Dit is wat er nieuw is in deze versie:
 
 - Verwijder probleemopmerkingen met behulp van veeggebaar
 
-- Verbeterd instellingenscherm. Nu kunt u uw gewenste startscherm kiezen
+- Verbeterd instellingenscherm.
+Nu kunt u uw gewenste startscherm kiezen
 
 - Nieuw in-app Notificaties-systeem om u meer nuttige informatie te geven
 
@@ -24446,7 +25757,6 @@ Bijvoorbeeld enkele Documenten of Topics.
 Een sharelink-ontvanger ziet dan alleen deze items. Als de pagina met een sharelink-ontvanger wordt gedeeld, zien zij de volledige pagina, inclusief Filters, op basis van hun toegang in het project.
 
 1. Klik op de ShareLink-knop.
-   ​
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 
@@ -24758,7 +26068,6 @@ Terwijl u offline op de locatie bent, kunt u vanaf nu:
 1. [Nieuwe uitgave offline maken](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
 1. [Opmerkingen toevoegen / Bijwerken / Verwijderen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues) met afbeeldingen en viewpoints offline
 1. Dien al uw offline wijzigingen in via [het nieuwe outbox-scherm](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)
-   ​
 
 ## 2. Documentverzamelingen
 
@@ -24852,6 +26161,158 @@ Dankzij uw waardevol commentaar hebben we veel Topics kunnen oplossen die je mis
 ## 3. **Nieuwe releases** - Catenda Site, Plugins en integraties
 
 _Catenda Site v3.5.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile) Het is niet langer mogelijk om de inhoud van Topics die op Catenda Hub waren verwijderd te zien. Als u markers in de 2D-viewer had geladen, deze zijn nog steeds zichtbaar. Als u een verwijderde Topic probeert te openen via de Topic-lijst of marker, wordt de inhoud van de Topic niet langer weergegeven en wordt de marker uit de 2D-viewer verwijderd.
+
+# Wijzigingslogboek 4 Catenda - januari 2024
+
+> Nieuwe informatie en kleine wijzigingen
+
+Hallo iedereen,
+
+Het is alweer een paar maanden geleden sinds de vorige wijzigingslogboek. Hopelijk hebben jullie allemaal een fijne wintervakantie gehad! 🎄🤶🧑‍🎄❄️ En welkom in 2024!🎇 Hopelijk kunnen we dit jaar ook veel wijzigingen en verbeteringen doorvoeren! In dit artikel vind je updates over het volgende: [Artikelen](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [topics opgelost](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [Nieuwe releases](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)
+
+## 1. **Artikelen**
+
+Wanneer nieuwe functies worden uitgebracht en fouten worden opgelost, worden artikelen bijgewerkt met de aangebrachte wijzigingen. Hieronder vind je de volgende artikelen die sinds de vorige wijzigingslogboek zijn gemaakt en gewijzigd.
+
+### 1.1 **Nieuwe artikelen:**
+
+**Aan de slag en FAQ** [Sorteervolgordevan lijsten](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) [Documenten structureren](https://support.catenda.com/en/articles/8542598-structuring-documents)
+
+**Startpagina** [Organisatiepagina](https://support.catenda.com/en/articles/8281910-organizations-page)
+
+**Topics** [Topic geschiedenis](https://support.catenda.com/en/articles/8613038-issue-history)
+
+**Documenten** [Documenten](https://support.catenda.com/en/articles/8461918-documents) [PDF-vergelijking](https://support.catenda.com/en/articles/8461650-pdf-compare) [Filteren op de goedkeuringspagina](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+
+**Modellen en 3D** [Opgeslagen view](https://support.catenda.com/en/articles/8471481-bookmark)
+
+**Projectinstellingen** [Een aangepast veld maken](https://support.catenda.com/en/articles/8445575-creating-a-custom-field) [Pagina aangepast veld](https://support.catenda.com/en/articles/8445588-custom-field-page)
+
+### 1.2 **Artikelen die zijn gewijzigd:**
+
+Aan de slag en FAQ [Filters opslaan](https://support.catenda.com/en/articles/8551755-saving-filters)
+
+Topics [Topic-borden ACL](https://support.catenda.com/en/articles/4670296-issue-boards-acl)
+
+Documenten [Documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page) [Modellen als documenten](https://support.catenda.com/en/articles/8064548-models-as-documents) [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+
+Modellen [Pagina opgeslagen views](https://support.catenda.com/en/articles/4670281-bookmarks-page) [Een nieuw opgeslagen view maken](https://support.catenda.com/en/articles/4670269-creating-a-new-bookmark) [Modellen als documenten](https://support.catenda.com/en/articles/8064548-models-as-documents)
+
+Bibliotheek <a class="intercom-content-link" href="" target="_blank">Koppelingen bibliotheek</a>
+
+Instellingen [Ledenpagina](https://support.catenda.com/en/articles/4670291-members-page)
+
+## 2. **Fouten opgelost**
+
+Dankzij uw waardevolle feedback hebben we veel topics kunnen oplossen die je al dan niet hebt opgemerkt. Hieronder staat een lijst met kleine wijzigingen die door het ontwikkelingsteam zijn aangebracht als gevolg van gesprekken met gebruikers.
+
+### 2.1 **Topics**
+
+- Vervolgkeuze aangepaste velden met tot 10 waarden die verplicht zijn, kunnen nu ook worden gefilterd.
+- PDF-exports van topics geven bepaalde afbeeldingen nu niet meer twee keer weer.
+- Aangepaste veldfilters worden nu ook weergegeven als het aangepaste veld als verplicht is ingesteld.
+- Afbeeldingen die na 16 november aan topic-opmerkingen zijn toegevoegd, worden nu in dezelfde volgorde weergegeven als in de topic-opmerkingen in het voorbeelddialoogvenster.
+- De tijd van export in de PDF-export zegt nu UTC erachter, zodat de gebruiker weet in welke tijdzone de tijdstempel staat.
+- Modellen die tussen de voorbereiding en inschakeling van een migratie van modellen als documenten worden verwijderd, worden nu correct verwijderd bij migratie.
+
+### 2.2 **Documenten**
+
+- Litouwse letters in documenten die uit ZIP-imports zijn geïmporteerd, worden nu niet meer vervormd als gevolg van zip-giften.
+- Tekstbellen kunnen voor gebruikers met MFA-handhaving opnieuw worden geplaatst.
+- Aantekeningenuit pdf-bestanden worden nu correct weergegeven in de pdf-viewer nadat ze zijn geüpload.
+- PDF's kunnen opnieuw worden opgeslagen met aantekeningen en opmerkingen.
+- Documenten die niet werden geladen voor gebruikers met MFA-handhaving, worden nu opnieuw geladen.
+
+### 2.3 **Modellen**
+
+- De knop Modelverwijderen is opnieuw zichtbaar.
+- Er is nu geen manier meer om modellen te verbergen als modellen als documenten werd ingeschakeld zonder het project te migreren.
+- De e-mailmelding voor het importeren van modellen zegt nu "import voltooid op \<model>" in plaats van "nieuwe revisie in model" voor duidelijkheid.
+- Het is nu alleen nog mogelijk om pdf-documenten in de verdiepingsconfiguratie te selecteren waar pdf.
+- Het is niet meer mogelijk om niet-pdf-documenten aan de verdiepingsconfiguratie toe te voegen. (wat toch alleen PDF's accepteert)
+
+## 3. **Gebruikersverzoeken voltooid**
+
+### 3.1 **Topics**
+
+- Je ontvangt nu een melding wanneer een team waarvan je deel uitmaakt, in een topic wordt vermeld
+- Als je op de 2D-markeringslocatie van een topic klikt, zal je 2D-viewer nu op die markeringslocatie centreren in plaats van alleen de markeringslocatie rechts op de verdieping als geselecteerd weer te geven.
+- De breedte van het dialoogvenster voor modelselectie in de opmerking van een topic wordt nu geschaald naar de breedte van een modelnaam. Eerder werden lange modelnamen afgekapt en moest u erover heen gaan om deze te zien.
+- Het is nu mogelijk om te zien hoe een beschrijving eruitzag voordat deze werd gewijzigd door in de topic-geschiedenis op het vak 'beschrijving gewijzigd' te klikken.
+- Afbeeldingen worden niet langer twee keer weergegeven in PDF-exports van oudere topics
+
+### 3.2 **Documenten**
+
+- Document-ACL wordt nu weerspiegeld in de modellengedeelte voor projecten waarvoor modellen als documenten zijn ingeschakeld
+- U kunt nu zien hoeveel documenten zich in een verzameling bevinden.
+- Het is nu mogelijk om in PDF-tekeningen aan mid- en eindpunten van lijnen uit te lijnen.
+- Het is nu mogelijk om .odt- en .ods-bestandsindelingen voor te bekijken.
+
+### 3.3 **Modellen**
+
+- Het is nu mogelijk om de ACL per model in te stellen in plaats van voor alle modellen.
+
+Dit betekent dat je modellen in de modellengedeelte voor mensen verborgen kunt houden.
+
+- Met modellen als documenten kun je labels aan modellen toevoegen.
+- Met modellen als documenten kun je modellen in folders in de documenten-sectie structureren.
+- Met modellen als documenten kun je de bestandsgrootte van het model zien
+- Met modellen als documenten kun je de naamgevingsconventie-functie met modellen gebruiken
+- Het is opnieuw mogelijk om vorige revisies van modellen in de revisie-selector te bekijken
+
+### 3.4 **Projectinstellingen**
+
+- Labelgroepen kunnen nu worden verwijderd.
+- Het is nu mogelijk om labels die gekoppeld zijn aan topics/documenten te verwijderen.
+- Labelgroepen kunnen worden bewerkt.
+  Je kunt het bewerkingspotlood vinden in het menu met informatie aan de rechterkant nadat je de labelgroep in het tabblad groepen hebt geselecteerd.
+- Het is nu mogelijk om meerdere labels tegelijk te maken.
+  Let op de knop voor meerdere importeren in het menu voor nieuwe labels.
+- Het is nu mogelijk om meerdere labels tegelijk te verwijderen.
+- Labels kunnen worden gefilterd en filters kunnen worden opgeslagen.
+- Het is nu mogelijk om nieuwe labelgroepen toe te voegen
+- Het is mogelijk om labelgroepen toe te voegen zonder deze eerst aan een label toe te voegen.
+- Het is nu mogelijk om op de labelspagina te zoeken.
+- Beheerders kunnen nu labels samenvoegen. De optie kan worden gevonden door meer dan één label op de labelspagina te selecteren.
+
+### 3.5 **Algemeen**
+
+- Het maken van nieuwe projecten van sjabloonprojecten is verbeterd. Het is nu mogelijk om de volgende onderdelen van een project naar een nieuw project te brengen:
+  - Mappenstructuur
+  - Documentstatusconfiguratie
+  - Document- en topic-bord toegangscontrole
+  - Aangepaste velden en naamgevingsconventies
+
+## 4. **Nieuwe releases** - Catenda Site, Plug-ins en integraties
+
+**Catenda Hub:**
+
+- Modellen als documenten is nu volledig vrijgegeven.
+- Issues zijn hernoemd naar Topics.
+
+_Catenda Site:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+
+**Nieuwe versie 3.3.1**
+
+- Bugfixes
+
+**Nieuwe versie 3.3.0**
+
+- _Diep linken_ - URL's van de Hub-website worden rechtstreeks in de Site-app geopend.
+- _Topic-filtering_ - Nieuwe optie om op mijlpaal te filteren.
+- _Gebruiker vermelden_ - Snel een gebruiker zoeken en selecteren om in topics te vermelden via de werkbalk.
+- _Tekstopmaak_ - Gemakkelijk rijke tekst toepassen op uw topics via de werkbalk.
+- _2D-markeringscentering_ - Als u een markeringslocatie van een topic opent, wordt de weergave op de markeringslocatie gecentreerd.
+- Vietnamese taalondersteuning. 🇻🇳
+
+**Nieuwe versie 3.4.0**
+
+- Issues zijn hernoemd naar topics
+- Bugfixes
+
+**SharePoint-integratie:**
+
+- Je kunt nu verbinding maken met je Catenda-account via een browserpop-up in plaats van op een e-mail te wachten.
 
 # 🎉 Nieuwe API-documentatie 🎉
 

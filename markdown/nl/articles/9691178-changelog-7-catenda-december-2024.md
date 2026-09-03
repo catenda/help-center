@@ -52,8 +52,6 @@ _Recente updates_ [Statuswerkstroom🖥️Gedeeld ->✔️Gepubliceerd](https://
 
 _Informatiepaneel_ [Inspectmenu](https://support.catenda.com/en/articles/4670285-inspect-menu) [Informatiepaneel](https://support.catenda.com/en/articles/8238584-information-panel)
 
-**​**
-
 **Instellingen**
 
 **Plugins en integraties** [Revit IFC Export Manual](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual) [IFC Export Archicad Manual](https://IFC%20Export%20Archicad%20Manual)

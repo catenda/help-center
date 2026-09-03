@@ -87,8 +87,8 @@ The [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-
 
 **Topic boards** Document board access permissions using two available views:
 
-- **Per-user access view**<br>View individual user access levels directly from the right information menu of a topic board or selected topic.<br>​_Access required:_ read access to the topic board
-- **Full team configuration**<br>Capture screenshots of the complete team-level permission settings within the topic board access settings.<br>​_Access required:_ Full access to the topic board or project administrator
+- **Per-user access view**<br>View individual user access levels directly from the right information menu of a topic board or selected topic.<br>_Access required:_ read access to the topic board
+- **Full team configuration**<br>Capture screenshots of the complete team-level permission settings within the topic board access settings.<br>_Access required:_ Full access to the topic board or project administrator
 
 **Document & Model access** Export the [access overview](https://support.catenda.com/en/articles/6660820-document-access-overview-page) to record permissions for members and teams. Access required: Project administrator. Because every model is linked to a document in the documents section, access permissions for models are governed by the underlying document permissions and are recorded using the same document access overview or permission menus.
 
@@ -97,7 +97,7 @@ The [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-
 **Project-wide action permissions** Document project-wide permissions on the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page) (such as creating topic boards, inviting new members, configuring document statuses, and creating or removing models) using two available views:
 
 - **Per-user access view**<br>Project members can expand each menu under access control to see which individual users have permission to perform each action.
-- **Full configuration**<br>Administrators can open the edit access dialogue to view and manage team-level permission configurations.<br>​_Access required:_ Project administrator
+- **Full configuration**<br>Administrators can open the edit access dialogue to view and manage team-level permission configurations.<br>_Access required:_ Project administrator
 
 **User profiles & member details** Information regarding project members and teams is available to extract or document, including:
 

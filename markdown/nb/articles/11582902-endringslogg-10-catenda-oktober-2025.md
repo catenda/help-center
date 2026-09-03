@@ -70,7 +70,6 @@ _Ofte stilte spørsmål_
 
 - [Tabeller på Catenda](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
 - [Egendefinert medlemsinformasjon](https://support.catenda.com/en/articles/11769670-custom-member-information)
-  ​
 
 ### 1.2 **Artikler som har endret:**
 
@@ -164,7 +163,7 @@ Takk for din verdifulle tilbakemelding har vi kunnet løse mange saker som du ka
 
 ### 2.4 **Prosjektinnstillinger**
 
-- Det er nok en gang mulig å lagre filtre på varslingssider​
+- Det er nok en gang mulig å lagre filtre på varslingssider
 
 ## 3. **Nye videoer i spillelister**
 

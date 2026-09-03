@@ -89,7 +89,7 @@ Select a set of documents by checking the boxes or check the box on top to selec
 
 After selecting the information menu will appear on the top right. If it is closed, click on the `i` icon to expand it.
 
-### 5.4 ​**Right information menu -** Download
+### 5.4 **Right information menu -** Download
 
 When importing you can configure which documents will be imported to Solibri.
 

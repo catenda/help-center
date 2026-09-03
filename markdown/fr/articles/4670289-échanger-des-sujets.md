@@ -36,7 +36,7 @@ _Liaison de plusieurs statuts/types à la fois_ S'il y a des statuts/types disso
 
 Cliquer sur le lien vous mènera à la zone [champs dissociés](https://support.catenda.com/en/articles/4670277-topic-board-settings#h_3bd7e3e759) des [paramètres de la liste de sujets](https://support.catenda.com/en/articles/4670277-topic-board-settings) où vous pouvez lier tous les champs d'un type à une valeur existante en une seule fois.
 
-## 2. **Exporter des sujets**​
+## 2. **Exporter des sujets**
 
 Vous pourrez exporter les sujets soit en choisissant exporter les sujets dans le [menu d'action pour nouvel élément](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_8c642e051a) en haut à droite d'une liste de sujets, soit en sélectionnant un sujet dans la liste de sujets et en choisissant l'option d'exportation dans le [menu d'action pour élément sélectionné](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_b5c00c149b) au-dessus de la liste de sujets. La fenêtre d'exportation de sujets peut ressembler à ceci :
 

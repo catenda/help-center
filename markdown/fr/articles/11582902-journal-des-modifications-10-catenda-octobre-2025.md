@@ -70,7 +70,6 @@ Il en va de même pour Catenda. Les modifications peuvent se produire soudaineme
 
 - [Tableaux sur Catenda](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
 - [Informations sur les membres personnalisées](https://support.catenda.com/en/articles/11769670-custom-member-information)
-  ​
 
 ### 1.2 **Articles qui ont changé :**
 

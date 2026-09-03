@@ -22,7 +22,7 @@ Waarden van aangepaste velden worden weergegeven in de PDF-export van onderwerpe
 
 Aangepaste velden zijn nog niet opgenomen in de geëxporteerde BCF. Aangepaste velden zullen deel uitmaken van de BCF 4-standaard wanneer deze wordt vrijgegeven. Na de release zullen wij en andere BCF-tools die de standaard volgen, eraan werken het veld beschikbaar te stellen voor uitwisseling.
 
-### 3.3 **​Onderwerp Excel-export**
+### 3.3 **Onderwerp Excel-export**
 
 Voor elk aangepast veld in het onderwerpenbord wordt een kolom toegevoegd.
 

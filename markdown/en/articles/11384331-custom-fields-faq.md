@@ -22,7 +22,7 @@ Custom field values are displayed in the PDF export of topics
 
 Custom fields are not yet included in the exported BCF. Custom fields will be part of the BCF 4 standard when it gets released. After release we, and other BCF tools that follow the standard will work on making the field available for exchange.
 
-### 3.3 **​Topic Excel export**
+### 3.3 **Topic Excel export**
 
 A column will be added for each custom field in the topic board.
 

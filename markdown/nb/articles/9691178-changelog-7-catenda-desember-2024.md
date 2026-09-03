@@ -52,8 +52,6 @@ _2D og 3D-visere_ [Mengdeberegning (QTO)](https://support.catenda.com/en/article
 
 _Informasjonspanel_ [Inspeksjonsmeny](https://support.catenda.com/en/articles/4670285-inspect-menu) [Informasjonspanel](https://support.catenda.com/en/articles/8238584-information-panel)
 
-_​_
-
 _Innstillinger_
 
 _Programtillegg og integrasjoner_ [Revit IFC Export Manual](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual) [IFC Export Archicad Manual](https://IFC%20Export%20Archicad%20Manual)

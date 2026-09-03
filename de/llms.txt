@@ -59,6 +59,7 @@ Konfigurieren Sie die Einstellungen Ihres Projekts oder Kontos
 Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hilfe für eine bestimmte Funktion suchen.
 
 - [2D / 3D - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7734138-2d-3d-catenda-site.md)
+- [2D- und 3D-Ansichtspunkte](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9184555-2d-und-3d-ansichtspunkte.md)
 - [2D-Viewer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4854537-2d-viewer.md): Beschreibt die verschiedenen Tools in der 2D-Symbolleiste
 - [2D-Viewer - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7748370-2d-viewer-catenda-site.md)
 - [2D-Viewer Gebäude und Geschosse](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/10901703-2d-viewer-gebäude-und-geschosse.md)
@@ -80,6 +81,7 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [BCF-Arbeitsablauf mit Markup-Tool in Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670335-bcf-arbeitsablauf-mit-markup-tool-in-archicad.md)
 - [BCF-Workflow mit Naviate für Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670337-bcf-workflow-mit-naviate-für-revit.md)
 - [BCF-Workflow mit NTI Tools für Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670336-bcf-workflow-mit-nti-tools-für-revit.md)
+- [Benutzerdefinierte Felder in Dokumenten](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9531080-benutzerdefinierte-felder-in-dokumenten.md)
 - [Benutzerdefinierte Felder in einem topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/6563368-benutzerdefinierte-felder-in-einem-topic-board.md)
 - [Berechnung der Zugriffsstufen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/15644094-berechnung-der-zugriffsstufen.md)
 - [Bereichern Sie Ihre Projekte mit frei zugänglichen IGN-Punktwolken (HD LiDAR)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12498975-bereichern-sie-ihre-projekte-mit-frei-zugänglichen-ign-punktwolken-hd-lidar.md)
@@ -121,6 +123,7 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [Ein Themenkommentar bearbeiten](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/6175852-ein-themenkommentar-bearbeiten.md): So bearbeiten Sie einen Kommentar in einem Thema
 - [Eine Ordnerstruktur herunterladen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670258-eine-ordnerstruktur-herunterladen.md)
 - [Einfachste Namenskonvention](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7845360-einfachste-namenskonvention.md)
+- [Einstellungsseite für Themenvorlagen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/14076010-einstellungsseite-für-themenvorlagen.md): Verwalten Sie Ihre Einstellungen für Themenvorlagen
 - [Einstellungsseite für Topic Board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670277-einstellungsseite-für-topic-board.md)
 - [Erscheinungsbild des 2D-Viewers](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/13615984-erscheinungsbild-des-2d-viewers.md)
 - [Erstellen einer Miniaturansicht für Ihr Modell](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670257-erstellen-einer-miniaturansicht-für-ihr-modell.md)
@@ -130,6 +133,8 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [Erstellen eines neuen Modellexports](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/15481038-erstellen-eines-neuen-modellexports.md)
 - [Erstellen eines neuen Workflows](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12313251-erstellen-eines-neuen-workflows.md)
 - [Erstellen Sie einen Bericht aus Themen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/14006222-erstellen-sie-einen-bericht-aus-themen.md)
+- [Erstellung von Themen-Board-ACLs](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670299-erstellung-von-themen-board-acls.md)
+- [Erweiterte Namenskonvention](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7936947-erweiterte-namenskonvention.md)
 - [Etiketten-Filter - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7854138-etiketten-filter-catenda-site.md)
 - [Etikettenseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670265-etikettenseite.md)
 - [Filterung auf der Dokumentseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670283-filterung-auf-der-dokumentseite.md)
@@ -150,6 +155,7 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [Informationsbereich](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8238584-informationsbereich.md)
 - [Inspect-Menü](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670285-inspect-menü.md)
 - [Klassifikationsbibliothek](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670255-klassifikationsbibliothek.md)
+- [Kollisionsprüfung in Navisworks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7120422-kollisionsprüfung-in-navisworks.md)
 - [Laden Sie Ihre mobile App Catenda Site herunter 📲](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter.md)
 - [Lesezeichen-Inhaltsseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8471481-lesezeichen-inhaltsseite.md)
 - [Lesezeichen-Seite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670281-lesezeichen-seite.md)
@@ -162,6 +168,7 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [Menü für Genehmigungsanfrage-Dokumente auf der rechten Seite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12495638-menü-für-genehmigungsanfrage-dokumente-auf-der-rechten-seite.md)
 - [Messebene](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8360838-messebene.md)
 - [Messung zu Gleitebenen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670298-messung-zu-gleitebenen.md)
+- [Microsoft Teams-Benachrichtigungen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9167392-microsoft-teams-benachrichtigungen.md): Bleiben Sie auf dem Laufenden, ohne zwischen Registerkarten zu wechseln. Verbinden Sie Catenda Hub mit Microsoft Teams, um Echtzeitbenachrichtigungen direkt in Ihren bevorzugten Kanälen zu erhalten.
 - [Mittlere Namenskonvention](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7936943-mittlere-namenskonvention.md)
 - [Modell-Exportseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670280-modell-exportseite.md)
 - [Modellbaum-Panel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670290-modellbaum-panel.md)
@@ -172,6 +179,7 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [Neue Etiketten erstellen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8626709-neue-etiketten-erstellen.md)
 - [Neuer Status-Workflow - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9874698-benutzerhandbuch-status-workflow-iso-19650.md)
 - [Objektseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12352750-objektseite.md)
+- [Offline-Modus in Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7325268-offline-modus-in-catenda-site.md)
 - [Operationen auf Dokumentbibliothekselementen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/15647394-operationen-auf-dokumentbibliothekselementen.md)
 - [Ordnerkonfiguration – Dokumenteinstellungen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12302595-ordnerkonfiguration-dokumenteinstellungen.md)
 - [Ordnerverwaltung und Dokumentenzugriffskontrolle](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670287-ordnerverwaltung-und-dokumentenzugriffskontrolle.md): Zugriffskontrollebenen für Dokumente
@@ -189,6 +197,7 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [Rechtes Menü in einem Thema](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8053299-rechtes-menü-in-einem-thema.md)
 - [Rechtes Menü in einem Themen-Board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/6941224-rechtes-menü-in-einem-themen-board.md)
 - [Registerkarte "Übersicht" in einer Freigabeanfrage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12495126-registerkarte-übersicht-in-einer-freigabeanfrage.md)
+- [Registerkarte „Dokumente](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12495130-registerkarte-dokumente.md)
 - [Revision zu einer Genehmigungsanfrage hinzufügen - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12382093-revision-zu-einer-genehmigungsanfrage-hinzufügen-legacy.md)
 - [Revision zur Freigabeanfrage hinzufügen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12495012-revision-zur-freigabeanfrage-hinzufügen.md)
 - [Revision zurückziehen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9711174-revision-zurückziehen.md): In diesem Artikel beschreiben wir Ihnen, wie Sie eine Revision zurückziehen.
@@ -226,17 +235,22 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [Tabellenansicht in einem topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/6941099-tabellenansicht-in-einem-topic-board.md)
 - [Themen in PDF exportieren](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9784934-themen-in-pdf-exportieren.md)
 - [Themen-Austausch](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670289-themen-austausch.md)
+- [Themen-Banner - Navigation durch Themen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7986346-themen-banner-navigation-durch-themen.md)
 - [Themen-Header - Das Thema eines Themas](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8400566-themen-header-das-thema-eines-themas.md)
 - [Themen-Menü - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7734073-themen-menü-catenda-site.md)
 - [Themen-Seite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670271-themen-seite.md)
 - [Themen-Text – Der Inhalt eines Themas](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8053352-hauptteil-eines-themas-der-inhalt-eines-themas.md)
+- [Themen-Vorlagen mit Genehmigungen verwenden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/14078683-themen-vorlagen-mit-genehmigungen-verwenden.md): Wenden Sie eine Genehmigungsthemen-Vorlage auf eine Genehmigungsworkflow-Vorlage an
 - [Themeneinstellungen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/14183429-themeneinstellungen.md)
 - [Themenverlauf](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8613038-themenverlauf.md)
 - [Toolbox für Beitragformatierung](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8430847-werkzeugkasten-zur-beitragsformatierung.md): Wie Felder, in denen Beiträge erstellt werden können, formatiert werden
 - [Topic Board aus einem vorhandenen Topic Board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/6379614-topic-board-aus-einem-vorhandenen-topic-board.md)
 - [Topic-Template-Seite - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12371549-topic-template-seite-legacy.md)
 - [Topic-Vorlagenseite - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12367730-topic-vorlagenseite-legacy.md)
+- [Verfolgung von Informationen durch Verlinkung](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8294909-verfolgung-von-informationen-durch-verlinkung.md)
 - [Verknüpfung eines Dokuments mit einem Thema](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670250-verknüpfung-eines-dokuments-mit-einem-thema.md)
+- [Verwenden von Themen-Vorlagen beim Speichern von Markup-Themen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/14078352-verwenden-von-themen-vorlagen-beim-speichern-von-markup-themen.md): Wenden Sie eine Dokumentthemen-Vorlage an, wenn Sie ein Markup aus einem Dokument erstellen
+- [Verwenden von Themen-Vorlagen in einem Themen-Board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/14075921-verwenden-von-themen-vorlagen-in-einem-themen-board.md): Wenden Sie eine allgemeine Themen-Vorlage bei der Themenerstellung an
 - [Verwenden von verknüpften Problemen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5036456-verwenden-von-verknüpften-problemen.md): Verknüpfte Probleme helfen Benutzern, den Fortschritt zu verfolgen und zu überwachen.
 - [Verwendung von benutzerdefinierten Feldern in Namenskonventionen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7869240-verwendung-von-benutzerdefinierten-feldern-in-namenskonventionen.md)
 - [Was ist ein topic in Catenda?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8979789-was-ist-ein-topic-in-catenda.md)
@@ -326,6 +340,7 @@ FAQ zu Catenda
 - [Speichern und Freigeben eines Filterlinks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/11401493-speichern-und-freigeben-eines-filterlinks.md)
 - [Standort und Funktionalität der Support-Schaltfläche](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8894066-standort-und-funktionalität-der-support-schaltfläche.md)
 - [Status Workflow - API-Updates](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12289689-status-workflow-api-updates.md): Einführung der API-Änderungen der neuen Status Workflow-Funktion, die gemäß ISO 19650 zwischen geteiltem und veröffentlichtem Status unterscheidet. Für Kunden und Integrationspartner, die die Catenda API nutzen.
+- [Tabellen in Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/11748020-tabellen-in-catenda.md)
 - [User Voice @ Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5925449-user-voice-catenda.md): Catendas Verpflichtung, unseren Benutzern Wert zu liefern
 - [Vorschau von Dateitypen auf Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670320-welche-dateitypen-werden-von-catenda-unterstutzt.md)
 - [Warum erhalte ich immer noch keine Benachrichtigungen, nachdem ich alle Kontrollkästchen aktiviert habe?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670318-warum-erhalte-ich-immer-noch-keine-benachrichtigungen-nachdem-ich-alle-kontrollkästchen-aktiviert-habe.md)
@@ -359,7 +374,9 @@ Finden Sie die neuesten Catenda-Updates
 - [Changelog 11 Catenda - Januar 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/12529903-changelog-11-catenda-januar-2025.md)
 - [Changelog 12 Catenda, April 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/13413499-changelog-12-catenda-april-2026.md)
 - [Changelog 13 Catenda - August 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/15655135-changelog-13-catenda-august-2026.md): Catenda-Produktaktualisierungen: neue Kanban-Ansicht für Topics, verbesserte Approval Workflows, Catenda AI Connect und Datenexport. Mit behobenen Fehlern, neuen Tutorial-Videos und aktualisierter Dokumentation für Modelle, Dokumente und Topics.
+- [Changelog 2 Catenda - Juli 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7338675-changelog-2-catenda-juli-2023.md)
 - [Changelog 3 Catenda - Oktober 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/7983534-changelog-3-catenda-oktober-2023.md): Neue Informationen und kleinere Änderungen
+- [Changelog 4 Catenda - Januar 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8433887-changelog-4-catenda-januar-2024.md): Neue Informationen und kleinere Änderungen
 - [Changelog 7 Catenda - Dezember 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9691178-changelog-7-catenda-dezember-2024.md)
 - [Changelog 8 Catenda – März 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/10288759-changelog-8-catenda-märz-2025.md)
 - [Changelog 9 Catenda - Juni 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/10857573-changelog-9-catenda-juni-2025.md)

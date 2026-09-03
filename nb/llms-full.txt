@@ -2403,6 +2403,146 @@ Mellom de to viserne vil du se en delingsglider
 
 Dra på denne glideren for å konfigurere hvor stor del av skjermen du vil at hver av viserne skal ta opp
 
+# 2D og 3D-visninger
+
+2D og 3D-visninger kan legges til som en [kommentar i en Sak](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_f76b44d3ca). Øyeblikksbilder er allsidige måter å kommunisere om 2D og 3D-informasjon på, da de ikke bare inneholder visuell informasjon, men kan brukes til å beskrive et sted og et tidspunkt i et dokument eller modell. Informasjonen som lagres i øyeblikksbilder gjør det mulig for deg å samarbeide med 2D og 3D-informasjon, da du vil være i stand til å spille av øyeblikksbilde ditt i en av dine BCF- og IFC-aktiverte tjenester.
+
+Dette er hvordan et 3D-øyeblikksbilde kan se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/01-intro.png)
+
+Øyeblikksbildet nedenfor hadde følgende oppsett da øyeblikksbildet ble tatt: Øyeblikksbildet ble gjenskapt med originale revisjoner. De 7 modelldokumentene som var koblet til øyeblikksbildet ble lastet inn i 3D-visningen. De 5 valgte objektene fra modelldokumentene ble valgt 2 dokumenter som ikke er koblet til modeller ble lastet inn, hvorav ett IFC og ett punktsky. 2D-øyeblikksbilder vil ha de samme knappene, men med et bilde av 2D-visningen vedlagt.
+
+## 1. **Opprette et øyeblikksbilde**
+
+Hvis du har en modell lastet inn i 3D, kan du klikke plussknappen til venstre for Sak-kommentarfeltet for å legge til et 3D-øyeblikksbilde i kommentaren. Hvis du har 2D-visningen åpen, kan du klikke plussknappen til venstre for Sak-kommentarfeltet for å legge til et 2D-øyeblikksbilde i kommentaren. Et øyeblikksbilde opprettes automatisk hvis du har lastet inn noe i 2D eller 3D og oppretter en ny Sak. Klikk [her](https://support.catenda.com/en/articles/10345863-snapshots) for å lese mer om øyeblikksbilder.
+
+## 2. **Viserbilder**
+
+Øyeblikksbilder er den beste måten å lage bilder av høy kvalitet eller renderinger fra Catenda Hub-visningen for følgende årsaker:
+
+- Øyeblikksbildebilder kan lastes ned fra [vedleggsutsnittet](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8).
+- Øyeblikksbildebilder kan ha høyere oppløsninger enn bare å ta et skjermbilde fra visningen.
+- Øyeblikksbildebilder har transparente bakgrunner. Med 3D-øyeblikksbilder inneholder bildet bare piksler der det er objekter i 3D. Med 2D-øyeblikksbilder inneholder bildet bare piksler der det er linjer i 2D.
+
+### 2.1 **Bildestørrelse**
+
+Størrelsen på bildet som er vedlagt, er avhengig av størrelsen på visningen og zoomprosenten i nettleseren. Antall piksler i et øyeblikksbildebilde avhenger av størrelsen på visningen, zoomprosenten i nettleseren og skjermskalaen for operativsystemet ditt. Det største bildet jeg har kunnet generere så langt har vært 6417 piksler ganger 11113 piksler. For å lage et øyeblikksbilde så stort, hadde jeg følgende innstillinger:
+
+- 4K-skjermvisning.
+- Innholdspanel og 3D-panel synlige.
+- Innholdspanel så lite som mulig.
+- Nettleser i fullskjerm.
+- Nettleserens skala 10 %
+- Skjermskala i Windows 100 %
+
+Disse innstillingene er veldig tunge for systemet, og PC-en din har kanskje ikke kapasitet til å håndtere dette, så du må kanskje justere disse innstillingene for å passe dine spesifikasjoner.
+
+## 3. **Avspillingsikonet**
+
+Øyeblikksbilder inneholder informasjon om tidspunktet da du opprettet øyeblikksbildet.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/02-play-icons.png)
+
+Hvis et objekt var skjult på opprettingstidspunktet, vil objektet med den ID-en bli skjult når øyeblikksbildet blir gjenskapt. Hvis et objekt ble isolert, vil objektet med den ID-en bli vist mens objekter som ikke er isolert, blir skjult. Dette gjenspeiles også for alle objekter med nye ID-er som kan bli lagt til nyere versjoner av modellen.
+
+### 3.1 **Gjenskap øyeblikksbilde**
+
+Øyeblikksbilder er gode for å vise folk hva du ser, da de vil kunne gjenskape de samme visningene ikke bare innenfor Catenda Hub, men også i sitt eget miljø.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/03-recreate-snapshot.png)
+
+Øyeblikksbilder kan gjenskapes ved å spille dem både i Catenda Hub og i tilleggene våre. I Catenda Hub vil øyeblikksbildet flytte kameraet til riktig sted i visningen vår. I tilleggene vil visuet for vertsprogramvaren bli vist.
+
+- Ved å klikke på denne knappen vil øyeblikksbildet bli gjenskapt med samme modell og siste revisjoner lastet inn i 3D-visningen.
+- Det tilkoblede punktskyet eller IFC-dokumentene vil bli lastet inn
+- Kameraet i 3D-visningen vil flytte seg til plasseringen angitt i øyeblikksbildet.
+- Klippeplenene fra øyeblikksbildet vil bli gjenskapt
+- Objektene som ble valgt i øyeblikksbildet, vil bli valgt
+- Fargene som ble angitt i markeringer, vil motta sine spesifiserte farger
+
+### 3.2 **Gjenskap øyeblikksbilde med opprinnelige revisjoner**
+
+Klikk denne knappen for å gjenskape øyeblikksbildet med den originale modellen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/04-recreate-snapshot-with-original-revisions.png)
+
+Modellrevisjonene som var aktive i 3D-visningen på tidspunktet for opprettingen av øyeblikksbildet, blir lastet inn i 3D-visningen når denne knappen klikkes.
+
+## 4. **Innholdsikonet**
+
+Du finner ikoner som inneholder informasjon om innholdet i øyeblikksbildet nederst til høyre i øyeblikksbildet.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/05-content-icons.png)
+
+Hvis innholdspanelet er gjort lite, kan du finne noen av disse innholdsikoner i handlingsmenyen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/06-content-icons.png)
+
+Handlingsmenyen kan finnes nederst til høyre i øyeblikksbildet der det ikke er nok plass til å vise alle innholdsikonet.
+
+### 4.1 **Modellvelger**
+
+Hvis 3D-visningen er åpen, vil modellastemenyen være tilgjengelig
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/07-model-picker.png)
+
+- Modellene med en avmerking i denne menyen vil bli lastet inn når øyeblikksbildet blir spilt av.
+
+    <div class="intercom-container"><img height="24" src="https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/inline-b248400a1359.png" style="height: auto;" width="30"/></div>
+
+- Modellene med et plusstegn foran dem vil bli lagt til settet med modeller med avmerking etter at du har trykket lagre.
+
+    <div class="intercom-container"><img height="25" src="https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/inline-ca568d75479a.png" style="height: auto;" width="30"/></div>
+
+- Modellene med et minustegn foran dem vil bli fjernet fra settet med modeller med avmerking etter at du har trykket lagre.
+
+    <div class="intercom-container"><img height="30" src="https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/inline-ff3494b6d9f8.png" style="height: auto;" width="30"/></div>
+
+- Avhengig av innstillingene for objektsynlighet i øyeblikksbildet kan tilføyde modeller være helt skjult. Selv om de ikke er synlige, bør du se at de er lastet når Saken blir spilt av.
+- Modellene som er aktivert når denne menyen åpnes, gjenspeiler modellene som er lastet inn i 3D-visningen. For å enkelt legge til/fjerne et sett med modeller, kan du lage et bokmerke, spille av bokmerket, gå til øyeblikksbildet, klikke på handlingsmenyen og trykke lagre i modellastemenyen.
+- Hvis en modell i øyeblikksbildet ditt har samme IFCPROJECT-GUID som en modell i modellseksjonen, blir modellene automatisk koblet.
+
+Her er en artikkel fra BuildingSMART som beskriver hvordan dette gjøres i Revit [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/08-model-picker.png)
+
+### 4.2 **Vis valgte objekter**
+
+Velg objektene som er valgt i øyeblikksbildene, i 3D-visningen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/09-show-selected-objects.png)
+
+Viser hvor mange objekter som er valgt i øyeblikksbildet
+
+### 4.3 **Koblede dokumenter**
+
+Klikk her for å laste inn modellene fra øyeblikksbildet i tillegg til modellene som allerede finnes i visningen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/10-linked-documents.png)
+
+Viser hvor mange modeller som er lastet inn i øyeblikksbildet.
+
+### 4.4 **Angi kameraposisjon**
+
+Flytt kameraet til posisjonen til øyeblikksbildet i 3D-visningen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/11-set-camera-position.png)
+
+Hvis du har flyttet 3D-visningen etter å ha spilt av øyeblikksbildet, kan du klikke denne knappen for å gå tilbake til posisjonen til øyeblikksbildet.
+
+## 5. **Bildeutsnitt**
+
+Hvis du holder musepekeren over bildet av et 2D eller 3D-øyeblikksbilde, vil et forstørrelsesglass vises. Dette kan se slik ut som øyeblikksbildet nedenfor:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/12-image-pop-out.png)
+
+Etter at øyeblikksbildet er sendt inn, kan bildet som er koblet til det, [poppes ut](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) for å se innholdet dets i et større format og laste det ned.
+
+## 6. **Slette et øyeblikksbilde**
+
+Det er ikke mulig å slette et øyeblikksbilde som er vedlagt en kommentar. Hvis du vil fjerne øyeblikksbildet fra Saken, må du slette hele kommentaren.
+
 # 2D viser - Catenda Site
 
 Du vil kunne finne 2D-viseren til Catenda Site på [2D / 3D-siden](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site)
@@ -3821,9 +3961,71 @@ Opprettet den - _Standard_ Dato og tid da arbeidsflyten ble opprettet
 
 Status - _Standard_ Status for arbeidsflyten
 
+# Avansert navnekonvensjon
+
+Denne artikkelen bygger på følgende artikler: [Enkleste navnekonvensjon](https://support.catenda.com/en/articles/7845360-simplest-naming-convention) og [Medium navnekonvensjon](https://support.catenda.com/en/articles/7936943-medium-naming-convention) Artikkelen kan følges uten å ha lest disse artiklene, men det kan være nyttig å se gjennom dem da det kan finnes informasjon om [konvensjoner](https://support.catenda.com/en/articles/7832559-naming-conventions-page) som ikke er nevnt i denne artikkelen. I denne artikkelen lærer du alle måtene [konvensjoner](https://support.catenda.com/en/articles/7832559-naming-conventions-page) kan brukes.
+
+## 1. **YYMMDD\_Filnavn\_V.pdf**
+
+Ved å konfigurere denne [konvensjonen](https://support.catenda.com/en/articles/7832559-naming-conventions-page) lærer du alt du trenger å vite om [navnekonvensjoner](https://support.catenda.com/en/articles/7832559-naming-conventions-page) slik at du kan velge [blokkene](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) du liker for din egen [konvensjon](https://support.catenda.com/en/articles/7832559-naming-conventions-page). Si at du organiserer alle 3D-modellene og konstruksjonstegningene dine lokalt.
+
+- Du har en bindestrek _( - )_ i filnavnet, så for å skille de ulike [blokkene](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) må du bruke en understrek _( \_ )_ som [separator](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=in%20document%20settings-,Separator,-%3A%20The%20character).
+- Disse filene starter med datoen da filen ble laget.
+
+Dette er nyttig for deg fordi selv om det vanligvis står dette på ulike steder, er det bare mer visuelt for deg å ha filene dine alfabetisk ordnet etter opprettelsesdato.
+
+- Etter det vil du ha filnavnet som kan være av hvilken som helst lengde.
+- På slutten av filnavnet har du en status som indikerer hvilken versjon av filen du har.
+
+Denne delen er bare ekstra tekst du bruker til å skille filene dine lokalt. Du vil ikke se denne delen av filnavnet i Catenda Hub-dokumentnavnet da det bare er nyttig for deg lokalt og har ingenting å gjøre med andre personer i prosjektet.
+
+- Til slutt har du bestemt deg for å sikre at du bare holder spesifikke filtyper i denne mappen.
+
+Du begrenser filtypen til IFC, PDF, DWG, SMC, PL og RVT
+
+### 1.1 **Innledende oppsett**
+
+Dokumenter med følgende filnavn vil bli brukt i denne artikkelen. Du kan forberede disse på forhånd eller lage dem når du kommer til den delen av artikkelen:
+
+_Lokale filer:_ 230219\_Elevation\_Draft.PDF 230219\_Elevation\_Final.PDF aaaaaa\_\_Elevation\_Draft.PDF 230219\_Elevation\_Draft.pdf
+
+_En fjerde [blokk](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) for filstatusen_ Datoen på filen ser ut som koden fra eksemplet i [medium navnekonvensjon](https://support.catenda.com/en/articles/7936943-medium-naming-convention) artikkelen. [Blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) som inneholder dokumentnavnet skal også være det samme som filnavnet [blokk](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) i den artikkelen. Den eneste [blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) du trenger å legge til som er forskjellig fra eksemplet ovenfor er en [blokk](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) for statusdelen av filnavnet ditt.
+
+_Konvensjonsoppsett_ For dette eksemplet bruker du [navnekonvensjonen](https://support.catenda.com/en/articles/7832559-naming-conventions-page) som vises på bildet nedenfor som utgangspunkt.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/01-initial-setup.png)
+
+### 1.2 **Egendefinerte felt i konvensjoner**
+
+Det finnes tre ulike typer egendefinerte felt som er nyttige i [konvensjoner](https://support.catenda.com/en/articles/7832559-naming-conventions-page): [Heltall](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22), [Tekst](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) og [Rullegardin](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) [egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup) kan brukes som kilder for [konvensjonsblokker](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541).
+
+_[Heltalls egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) i [konvensjoner](https://support.catenda.com/en/articles/7832559-naming-conventions-page)_ På bildet ovenfor er kilden til den første [blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) satt til tekst. Hvis vi prøver å laste opp den første filen 230219\_Elevation\_Draft.PDF ser du at den lastes opp uten problemer. Du kunne imidlertid også laste opp seks bokstaver i stedet for tall som: aaaaaa\_\_Elevation\_Draft.PDF og det ville være ok også. For å begrense dette til kun tall, lag et nytt [heltalls egendefinert felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) kalt NC\_Date. Det heter det bare for å holde det organisert i [listen over egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=the%20list%20of%20custom%20fields). Sett deretter dette [egendefinerte feltet](https://support.catenda.com/en/articles/6550459-custom-fields-setup) som [kilden](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=has%20an%20extension.-,Source,-%3A%20What%20will) til den første [blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) ved å klikke på rullegardinlisten der det for tiden står tekst og velge [egendefinert felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup) du opprettet. Du vil nå se at aaaaaa\_\_Elevation\_Draft.PDF ikke lenger er akseptert mens 230219\_Elevation\_Draft.PDF er akseptert.
+
+_[Tekst egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) i [konvensjoner](https://support.catenda.com/en/articles/7832559-naming-conventions-page)_ For den andre [blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) kan du la kilden være tekst siden all tekst er akseptert her. Det anbefales fortsatt å bruke et tekst egendefinert felt som kunne være navngitt NC\_Filename for fremtidig kompatibilitet.
+
+Statusen kan også være hvilket som helst ord av hvilken som helst lengde, så lag et [tekst egendefinert felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) kalt NC\_Status og sett det som [kilden](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=has%20an%20extension.-,Source,-%3A%20What%20will) for den tredje [blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541).
+
+For disse to blokkene vil du ikke merke noen forskjell i opplastingsprosessen. Du vil kunne se at [forhåndsvisen](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_c2f7e24fbc) på ulike steder nå gjenspeiler navnet på det [egendefinerte feltet](https://support.catenda.com/en/articles/6550459-custom-fields-setup).
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/02-custom-fields-in-conventions.png)
+
+_[Rullegardin egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) i [konvensjoner](https://support.catenda.com/en/articles/7832559-naming-conventions-page)_
+
+_Navn samme som kode_ For den siste [blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) som inneholder [utvidelsen](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=The%20name%20of%20the%20file/document%20extension), er det bare et spesifikt sett med fraser som skal aksepteres. For å gjøre dette lag et [rullegardin egendefinert felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) kalt NC\_Extension. I dette [egendefinerte feltet](https://support.catenda.com/en/articles/6550459-custom-fields-setup) setter du [rullegardinalternativene](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=add%20multiple%20options) IFC, PDF, DWG, SMC, PL og RVT. Gjør navn og kode like. Vær forsiktig fordi disse må legges til en etter en fordi en kode må angis. Prøv nå å laste opp 230219\_Elevation\_Draft.pdf og se at den ikke blir akseptert. Denne egendefinerte frasen er versalfølsom. Hvis du også vil at små bokstaver skal aksepteres, må du legge dem til [rullegardin egendefinert felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) også.
+
+_Annet navn og kode_ Et annet godt eksempel på hva du kan gjøre med et [rullegardin egendefinert felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) er å ha et annet navn og kode. Si at du har tegninger fra mekaniske, strukturelle og elektriske ingeniører med deres respektive [blokker](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541). I Catenda Hub vil du at disse tegningene bare skal kalles Engineering. Hva du kan gjøre er å lag et [rullegardin egendefinert felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=If%20you%20add%20a%20%22dropdown%22%20field) [flere alternativer](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=add%20multiple%20options) som har navn Engineering og kode for typen engineering du forventer å finne i filnavnet. Når du laster opp filen vil du se at selv om filnavnet hadde mekanisk, strukturell eller elektrisk i det, vil dokumentnavnet alltid si Engineering.
+
+### 1.3 **Dokumentidentifikator**
+
+[I begynnelsen av denne artikkelen](http://You%20do%20not%20want%20to%20see%20this%20part%20of%20the%20file%20name) var det nevnt at det var viktig at statusdelen av filnavnet ikke dukket opp som Catenda Hub-dokumentnavnet. Det er det [dokumentidentifikatoren](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=block%20to%20do-,Document%20identifier,-%3A) gjør. Når dette alternativet er deaktivert, vil ikke denne delen av filnavnet bli brukt til å lage dokumentnavnet i Catenda Hub i det hele tatt. Prøv å laste opp 230219\_Elevation\_Draft.PDF og deretter 230219\_Elevation\_Final.PDF Legg merke til hvordan dokumentnavnet vil være det samme selv om filnavnet var annerledes. Dette er nyttig fordi hvis dokumentnavnet er det samme, vil [navnekonvensjonen](https://support.catenda.com/en/articles/7832559-naming-conventions-page) automatisk gjenkjenne at den andre filen er en revisjon av den første.
+
+Til slutt er dette hvordan [navnekonvensjonen](https://support.catenda.com/en/articles/7832559-naming-conventions-page) din med [egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup) og [dokumentidentifikatorer](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=block%20to%20do-,Document%20identifier,-%3A) skal se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b16sm7xd/03-document-identifier.png)
+
 # BCF-arbeidsflyt ved bruk av merknadsverktøy i Archicad
 
-**BCF fra Archicad til Bimsync** I Archicad velger du merknadsverktøyet for å opprette en BCF. Her kan du utheve det relaterte elementet og legge til ulike visninger til BCF-en osv. Eksporter de valgte merknadoppføringene som en bcfzip-fil.
+_BCF fra Archicad til Bimsync_ I Archicad velger du merknadsverktøyet for å opprette en BCF. Her kan du utheve det relaterte elementet og legge til ulike visninger til BCF-en osv. Eksporter de valgte merknadoppføringene som en bcfzip-fil.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5fgdptf6/01-intro.png)
 
@@ -3841,7 +4043,7 @@ Du kan deretter gå og endre de ulike innstillingene i problemet ved å klikke p
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5fgdptf6/05-intro.png)
 
-**BCF fra Bimsync til Archicad** Filtrer ut problemet du vil få.
+_BCF fra Bimsync til Archicad_ Filtrer ut problemet du vil få.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5fgdptf6/06-intro.png)
 
@@ -3859,7 +4061,7 @@ Gå til merknadsverktøyet i Archicad og importer BCF-en via importmerknadsoppf�
 
 # BCF-arbeidsflyt ved bruk av Naviate for Revit
 
-**BCF fra Revit med Naviate til Bimsync.**
+_BCF fra Revit med Naviate til Bimsync._
 
 Opprett et problem i Revit med Naviate BCF-behandler.
 
@@ -3885,7 +4087,7 @@ Du kan deretter gå og endre de ulike innstillingene inne i problemet ved å kli
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a8twaqnf/05-intro.png)
 
-**BCF fra Bimsync til Revit med Naviate.**
+_BCF fra Bimsync til Revit med Naviate._
 
 Filtrer ut problemet du vil få.
 
@@ -3915,7 +4117,7 @@ Du kan også dele opp de relaterte komponentene.
 
 # BCF-arbeidsflyt ved bruk av NTI Tools for Revit
 
-**BCF fra Revit med NTITools til Bimsync.**
+_BCF fra Revit med NTITools til Bimsync._
 
 Gå til NTItools-verktøylinjen og åpne BCF-samarbeid. Her kan du synkronisere med Bimsync-serveren i prosjektet ditt ved å klikke på åpne, deretter åpne Bimsync issue board og logg inn på Bimsync-kontoen din.
 
@@ -4161,11 +4363,62 @@ Under alternativene vil modellene vises med revisjonen av modellen som vil vises
 
 Her vil du se alle dokumenter som kanskje ble lastet inn i 3D-viseren da bokmerket ble opprettet. Disse kan være som følger: - IFC-dokumenter som ikke har blitt tilknyttet en modell (Legacy) - Punktskyer - GML Her vil du se plasseringen av dokumentet i filstrukturen, navnet på dokumentet og revisjonen av dokumentet som vil bli vist. Disse dokumentene vil også være synlige med offentlige bokmerker.
 
+# Bruk av malvinkler når du lagrer merknadsaker
+
+> Bruk en dokumentsakmal når du oppretter en merknad fra et dokument
+
+Dokumentsakmaler kan konfigureres på [siden for malinnstillinger](https://support.catenda.com/en/articles/14076010-topic-template-settings-page). _Tilgang kreves:_ Prosjektadministrator
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/01-intro.png)
+
+1. Først må du opprette en merknading på et dokument i dokumentvisningen.
+1. Lagre merknadingen som en Sak.
+   _Tilgang kreves:_ Skriverettigheter til en saksliste.
+1. Et popup-vindu vises for å opprette en Sak fra merknadingen.
+
+    <div class="intercom-container intercom-align-center"><img height="541" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-9980053aae3a.png" style="height: auto;" width="500"/></div>
+
+1. Deretter velger du riktig saksliste som du vil opprette saken i.
+   _Tilgang kreves:_ Skriverettigheter til sakslisten.
+1. Avhengig av sakslisten du har valgt, hvis dokumentsakmaler er konfigurert av en administrator, kan de være tilgjengelige og foreslås i rullegardinmalen.
+
+    <div class="intercom-container intercom-align-center"><img height="540" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-b8fd0218f860.png" style="height: auto;" width="500"/></div>
+
+1. Velg den rette malen du vil bruke.
+   Så snart du velger den rette malen, vil den nye saken automatisk fylles ut med alle feltene som ble angitt i de tilknyttede malinnstillingene, som er tilgjengelig fra [siden for malinnstillinger](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).
+
+    <div class="intercom-container intercom-align-center"><img height="814" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-50d2237a44b3.png" style="height: auto;" width="500"/></div>
+
+1. Du kan til slutt lagre saken ved å klikke på knappen "Lagre som saker".
+
 # Bruk av relaterte saker
 
 > Relaterte saker hjelper brukere med å følge opp og holde styr på fremdriften.
 
 [YouTube-video](https://www.youtube.com/embed/Ee3BXGWXcVA?rel=0)
+
+# Bruk av saksmaler i en saksliste
+
+> Bruk en generell saksmal ved opprettelse av sak
+
+Generelle saksmaler kan konfigureres på [siden for innstillinger for saksmaler](https://support.catenda.com/en/articles/14076010-topic-template-settings-page). _Påkrevd tilgang:_ Prosjektadministrator
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/01-intro.png)
+
+1. Først oppretter du en ny sak fra den vanlige saksdelen.
+   _Påkrevd tilgang:_ Skriverettigheter til en saksliste.
+1. Deretter velger du riktig saksliste der du vil opprette saken din.
+   _Påkrevd tilgang:_ Skriverettigheter til saklisten.
+1. Avhengig av saklisten du har valgt, kan generelle saksmaler som er konfigurert av en administrator være tilgjengelige og foreslått i rullegardinmenyen for Mal.
+
+    <div class="intercom-container intercom-align-center"><img height="549" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-b8fa9d6ab8dc.png" style="height: auto;" width="500"/></div>
+
+1. Velg riktig mal du vil bruke.
+   Så snart du velger riktig mal, fylles den nye saken automatisk med alle feltene som var angitt i innstillingene for den tilknyttede saksmalen, som er tilgjengelig fra [siden for innstillinger for saksmaler](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).
+
+    <div class="intercom-container intercom-align-center"><img height="731" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-23a75554e46a.png" style="height: auto;" width="500"/></div>
+
+1. Du kan til slutt lagre saken din ved å klikke "Send"-knappen.
 
 # Bruk av tilgangskontroll – brukstilfeller
 
@@ -4248,6 +4501,37 @@ _Formål_ En strengt konfidensiell mappe eller saksliste må etableres der en le
 _Konfigurasjonen_ Målcontaineren opprettes, og den globale **Alle brukere**-grunnlinjen er eksplisitt satt til **Ingen tilgang**. Ingen andre generelle team får tilgang.
 
 _Logikken_ Fordi grunnlinjen og teamstiene er helt lukket, ser standardbrukere ingenting. Men fordi oppretteren av den mappen eller brettet automatisk har **Eier Fullstendig tilgang**, beholder de fullstendig synlighet og administrativ kontroll over området, helt isolert fra standard prosjektmedlemmer mens prosjektadministratorer beholder høyestrangering.
+
+# Bruke saksmaler med gjennomganger
+
+> Bruk en gjennomgangssaksmal på en gjennomgangarbeidsflytmal
+
+Saksmaler for gjennomgang kan konfigureres både på [innstillingssiden for saksmal](https://support.catenda.com/en/articles/14076010-topic-template-settings-page) og ved å klikke på rullegardinmenyen for saksmal i den endelige gjennomgangen på siden for ny gjennomgangarbeidsflytml og velge opprett en ny saksmal. _Tilgang kreves:_ Prosjektadministrator Innstillingsside for saksmal
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/01-intro.png)
+
+ELLER Konfigurer arbeidsflyter
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/02-intro.png)
+
+Opprett en ny saksmal på siden for ny arbeidsflytt.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/03-intro.png)
+
+> **Viktig:** ℹ️ For at en sak skal genereres som følge av lukking av en gjennomgang, må gjennomgangen **inneholde en merknad**. Etter at du har lukket den konfigurerte gjennomgangen, genereres en egen sak for hver merknad i gjennomgangen.
+
+1. Når en ny gjennomgangarbeidsflytt opprettes.
+   Du [oppretter en ny gjennomgangarbeidsflytt](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow) mal, navigerer du til bunnen av siden til du når "Endelig gjennomgang"-delen.
+   Her kan du knytte en gjennomgangssaksmal for hver vurderingsstatus (og tilknyt endelig dokumentstatus).
+
+    <div class="intercom-container intercom-align-center"><img height="254" src="https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/inline-e90e5114173a.png" style="height: auto;" width="500"/></div>
+
+1. Kontroller at du har fylt ut alle tidligere nødvendige felt fra gjennomgangsarbeidsflyten-malen og klikk "Send"-knappen.
+1. Gå gjennom en gjennomgangarbeidsflytt.
+   Etter at alle vurderinger er gjort og når gjennomgangsarbeidsflyten lukkes, genereres de tilknyttede gjennomgangsakene automatisk og fylles automatisk med alle feltene som ble angitt i de tilknyttede innstillingene for saksmal, tilgjengelig fra [innstillingssiden for saksmal](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).
+   For at en sak skal genereres som følge av lukking av en gjennomgang, må gjennomgangen inneholde en merknad.
+   Hvis en gjennomgangssaksmal er konfigurert for arbeidsflyten som gjennomgangen følger, genereres saker når gjennomgangen lukkes.
+   For hver merknad i gjennomgangen genereres en egen sak.
 
 # Catenda Archicad-plugin
 
@@ -5861,6 +6145,57 @@ _Koblede objekter_ Det er mulig å koble objekter fra modeller i modelldelen til
 
 _Relaterte saker_ - Dokumenter kan kobles til saker
 
+# Dokumenter-fanen i en gjennomgangsforespørsel
+
+Dokumenter-fanen for en gjennomgangsforespørsel finnes på gjennomgangsforespørselssiden for hver gjennomgang. I dokumenter-fanen kan valideringsmengdene av valideringsindikasjoner som er sendt inn på vegne av vurderingsteams av et medlem i hvert vurderingsteam for hvert dokument som er en del av gjennomgangen, ses.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/01-intro.png)
+
+## 1. **Valgte elementhandlinger**
+
+Slik kan de valgte elementhandlingene i dokumenter-fanen se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/02-selected-item-actions.png)
+
+Tabellen viser statusen for dokumentene innenfor denne spesifikke gjennomgangen. I den siste kolonnen er _send_ eller vurder _knapp_. Avhengig av statusen på dokumentet i gjennomgangen.
+
+## 2. **Høyre meny**
+
+Høyre meny kan åpnes ved å klikke på info-ikonet til høyre for dokumenter-fanen. Medlemmer som er del av flere vurderingsteams i et gjennomgangstrinn kan enkelt sende valideringsindikasjoner for flere dokumenter på vegne av hvert av deres teams i denne menyen uten å måtte åpne hvert dokument for vurdering. Info-ikonet kan se slik ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/03-right-menu.png)
+
+Klikk [her](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu) for å lese mer om høyre meny for dokumenter-fanen.
+
+> **Merk:** Velg ett dokument (ved å klikke på tittel) eller velg flere dokumenter som er tildelt deg for å direkte starte vurdering fra dokumenter-fanen.
+
+## 3. **Dokumentgjennomgangstabell**
+
+### 3.1 **Kolonner**
+
+- **Navn:** Viser navnet på dokumentet og dokumenttypen med ikon.
+  Ved å klikke på tittelen kan du direkte vise dokumentet i gjennomgangsmiljøet.
+- **Revisjon:** Viser revisjonsnavnet på dokumentet
+- **#:** Viser hvilken versjon/revisjon fra dokumentet innenfor gjennomgangen.
+  - Når et dokument blir lagt til en gjennomgang, vil det vise sitt hoved- og minorrevisjonsnummer som kan se slik ut:
+
+      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
+
+- Hvis den valgte delte revisjonen ble publisert for å bli den siste publiserte revisjonen i dokumentet utenfor den gjeldende gjennomgangsforespørselen, kan det se slik ut:
+
+      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
+
+- **Trinn 'x':** Viser med en stolpe hva statusen for trinnet er.
+- **Sluttgjennomgang:** Denne kolonnen viser sluttgjennomgangen, når den er aktivert, blir ikonet farget.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/04-columns.png)
+
+### 3.2 Sluttgjennomgang
+
+Når sluttgjennomgangen ennå ikke er gitt, vil denne kolonnen si "kommende" Etter at et medlem av sluttgjennomgangsteamet har sendt gjennomgangsindikasjonens avsluttende resultat for et dokument, vil det vises her som enten godkjent eller til oppfølging.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/05-final-approval.png)
+
 # Dokumenter-side
 
 Dokumenter-siden finner du som det fjerde elementet i navigeringsmenyen til venstre i et prosjekt. Denne siden er en del av innholdspanelet. I dokumenthåndteringssystemet kan du laste opp filer og konfigurere hvem som har tilgang til dem.
@@ -6133,19 +6468,19 @@ _Dato og klokkeslett_ Dato og klokkeslett for når du sist lastet inn dokumentfo
 
 ### 2.2 Stempelinnhold
 
-I forhåndsinnstillingsmenyen kan følgende stempler ses: _​_**Fornavn** - Alt før første mellomrom i kontonavn
+I forhåndsinnstillingsmenyen kan følgende stempler ses: **Fornavn** - Alt før første mellomrom i kontonavn
 
 **Mellomnavn Etternavn** - Alt etter første mellomrom i kontonavn
 
 **Fornavn Mellomnavn Etternavn** - Fullstendig kontonavn
 
-**​Fornavn** - Alt før første mellomrom i kontonavn Dato
+**Fornavn** - Alt før første mellomrom i kontonavn Dato
 
 **Mellomnavn Etternavn** - Alt etter første mellomrom i kontonavn Dato
 
 **Fornavn Mellomnavn Etternavn** - Fullstendig kontonavn Dato
 
-_​_**Fornavn** - Alt før første mellomrom i kontonavn Dato og klokkeslett
+**Fornavn** - Alt før første mellomrom i kontonavn Dato og klokkeslett
 
 **Mellomnavn Etternavn** - Alt etter første mellomrom i kontonavn Dato og klokkeslett
 
@@ -6169,7 +6504,7 @@ _IKKE FOR KONSTRUKSJON_ Fullstendig kontonavn og dato
 
 _ANBUDSDOKUMENT_ Fullstendig kontonavn og dato
 
-## 3. ​Opprett nytt stempel
+## 3. Opprett nytt stempel
 
 Klikk på Opprett nytt stempel for å åpne dialogboksen Opprett nytt stempel. Dialogboksen Opprett nytt stempel kan se slik ut:
 
@@ -6487,6 +6822,37 @@ Du kan nå fylle inn feltene på dine neste saker!
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tv2vef51/07-intro.gif)
 
 👉 **[Slik konfigurerer du de egendefinerte feltene](https://intercom.help/bimsync-arena/en/articles/6550459-setting-of-custom-fields)**
+
+# Egendefinerte felt på dokumenter
+
+I denne artikkelen forklarer vi hvordan du bruker egendefinerte felt på dokumenter. Egendefinerte felt brukes allerede i navnekonvensjonen og sakene.
+
+Dette er metadata som hjelper oss å arbeide på en mer strukturert måte på plattformen. Prosjekter arbeider ofte med en plannøkkel, navnekonvensjonen. Dette gir allerede en forhåndsdefinert struktur som dokumenter eller modeller (filer) organiseres etter. Hvis vi også vil knytte tilleggmetadata til filer, kan dette gjøres via merkelappene eller egendefinerte felt, for eksempel. Forskjellen, inkludert fordeler og ulemper, mellom merkelappene og de egendefinerte feltene kan sees i følgende tabell:
+
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e8e8e880; padding: 8px;"><h3 id="h_d451caef81"><b>Egendefinerte felt på dokumenter</b></h3></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_81285be75b"><b>Merkelapper</b></h3></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>Ulike typer mulig</p><ul><li><p>Tekst</p></li><li><p>Heltall</p></li><li><p>Dato</p></li><li><p>Desimal</p></li><li><p>Nedtrekksliste</p></li></ul></li><li><p>Legg til i mapper</p><ul><li><p>Angi standardverdier</p></li><li><p>Angi påkrevde felt</p></li></ul></li><li><p>Forskjell mellom dokumenter &amp; revisjoner mulig</p></li><li><p>Legg til verdier automatisk når du laster opp dokumenter til bestemte mapper</p></li><li><p>Når du flytter dokumenter fra en mappe, forsvinner verdiene. Med mindre den andre mappen har de samme innstillingene.</p></li><li><p>Historikk over verdier på dokumentet</p></li><li><p>Regel arv</p></li></ul></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>Grupp merkelapper</p></li><li><p>Oversikt over hvilke merkelapper som tilhører dokumenter / saker</p></li><li><p>Merkelapper er direkte knyttet til saker / dokumenter</p></li><li><p>Bruk i saker &amp; dokumenter</p></li><li><p>Enkelt å opprette</p></li><li><p>Alle kan opprette merkelapper.</p></li><li><p>Merkelapper for dokumenter, nei ikke for revisjoner</p></li></ul></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d7504cb7eb"><b>Brukstilfelle</b></h3></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_ecb9b80743"><b>Brukstilfelle</b></h3></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>Last opp dokument til en arkivmappe. Dokument får informasjonen "arkivert"</p></li><li><p>Legg til ekstra informasjon "kommentarer" til dokumenter / modeller</p></li></ul></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><ul><li><p>Organiser dokumenthåndteringssystemet med ekstra informasjon, metadata</p></li></ul></td></tr></tbody></table></div>
+
+> **Merk:** **Eksempel:** Egendefinerte felt kan brukes til å legge til kommentarer i dokumenter. **Merk:** Ved å bruke standardverdien, får dokumenter automatisk en tilsvarende forhåndsdefinert verdi så snart de lastes opp til den tilsvarende mappen. Dokumenthistorikken sporer også hver enkelt prosess her.
+
+For å bruke egendefinerte felt på dokumenter, gjør du følgende:
+
+1. Opprett det ønskede egendefinerte feltet
+1. Tilordne det opprettede egendefinerte feltet til en eller flere mapper
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-ba695fa6aebd.png" width="496"/></div>
+
+1. Definer om det egendefinerte feltet skal tilordnes til et dokument (på tvers av revisjoner) eller til hver enkelt revisjon
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-20eab3b097ce.png" width="500"/></div>
+
+1. Angi standardverdier, hvis ønskelig
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-7241dd9f32dd.png" width="500"/></div>
+
+1. I dokumentområdet kan du nå gjenkjenne det tilordnede egendefinerte feltet på dokumentet under mappene i dokumentinformasjonen.
+
+    <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-f4243a01e272.png" width="500"/></div>
+
+> **Merk:** Egendefinerte felt er også tilgjengelige i filterområdet eller søkelinjen.
 
 # Egenskapsverdi-bibliotek
 
@@ -7458,6 +7824,108 @@ Dokumentforhåndsvisningen på gjennomgangsforespørselsvurderingssiden fungerer
 For å flytte et dokument trenger du full tilgang til mappen, ikke bare skrivetilgang.
 
 ![8A5AADBB-8C11-43B0-9F86-A6D53EA19D32.GIF](https://raw.githubusercontent.com/catenda/help-center/main/images/zbj2n73j/01-access-for-moving-documents.gif)
+
+# Frakoblet modus i Catenda Site
+
+Enten det er en konstruksjonsområde, jernbanetunnel eller en dypkjeller i et parkeringshus, er det stor sannsynlighet for at du ikke kan koble deg til internett. Under dette strømutfallet kan Catenda Site fortsatt brukes til å samarbeide på bærbare enheter. Denne artikkelen beskriver de ulike måtene Catenda Site kan brukes til å samarbeide uten tilgang til nettverket.
+
+Denne artikkelen inneholder informasjon om følgende saker:
+
+## 1. **Saksmeny i frakoblet modus**
+
+Uten tilkobling til nettverket vil saksmenyen fremdeles være tilgjengelig.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/01-topics-menu-in-offline-mode.png)
+
+> **Merknad:** Uten tilkobling til nettverket **Endringer sendes ikke automatisk** Etter at du kobler deg tilbake til nettverket, kan endringer sendes til prosjektet fra meldingsboksen din.
+
+### 1.1 **Sakslister i frakoblet modus**
+
+Slik kan en saksliste se ut uten tilkobling til nettverket:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/02-topic-boards-in-offline-mode.png)
+
+Saker som tidligere ble innlastet, vises som normale saker.
+
+### 1.2 **Frakoblet ikon**
+
+Saker som opprettes uten tilkobling til nettverket, vil ha et frakoblet ikon på dem.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/03-offline-icon.png)
+
+Så lenge en sak har et frakoblet ikon, blir den ikke synkronisert til prosjektet.
+
+### 1.3 **Tidligere innlastede saker**
+
+Saker som tidligere ble innlastet, kan åpnes uten tilkobling til nettverket. Etter at du åpner en sak, vil du vite at du ser på en tidligere innlastet sak i frakoblet modus når du ser den gule «Frakoblet»-boksen til høyre for saktittelen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/04-previously-loaded-topics.png)
+
+> **Merknad:** Eksisterende informasjon i saker som ble innlastet da du mistet tilkoblingen til nettverket, kan ikke redigeres.
+
+_Kommentarer på tidligere innlastede saker_ Tidligere innlastede saker kan kommenteres uten tilkobling til nettverket. Bilder fra kamera/bilder kan legges til kommentaren _Tilgang påkrevd:_ full tilgang til enheten
+
+Kommentarer opprettet av den påloggede brukeren kan redigeres og slettes uten tilkobling til nettverket.
+
+### 1.4 **Nye saker**
+
+Uten tilkobling til nettverket er det fremdeles mulig å opprette en ny sak. Etter at du har opprettet den, blir saken ikke synkronisert til prosjektet ennå. Når du åpner en sak som ennå ikke er synkronisert til prosjektet, ser du et skyikon til venstre for saktittelen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/05-new-topics.png)
+
+Når tilkoblingen til nettverket er gjenopprettet, blir disse sakene ikke automatisk synkronisert til prosjektet. Ny informasjon og endringer som er gjort mens du var i frakoblet modus, kan sendes til prosjektet i meldingsboksen når tilkoblingen til nettverket er gjenopprettet.
+
+Følgende informasjon kan legges til en ny sak som opprettes uten tilkobling til nettverket:
+
+- En tittel kan legges til
+- En saksliste kan velges for saken
+- Status/type kan endres
+- En milepæl kan legges til
+- Merkelapper kan legges til
+- En beskrivelse kan skrives
+- Kommentarer kan legges til.
+  - Bilder fra kamera/bilder kan legges til kommentarer.
+
+    _Tilgang påkrevd:_ Full tilgang til enheten
+
+- Hvis modeller ble innlastet før tilkoblingen til nettverket var tapt, kan en plassering legges til en sak ved å plassere en markør i 2D-visningen av disse modellene.
+
+_Redigering og sending av nye saker_
+
+- Du vil vite at du ser på en ny frakoblet sak hvis du ser den grå linjen øverst i saken.
+- Det er mulig å redigere saker i frakoblet modus som ennå ikke er sendt gjennom [meldingsboksen](#h_ff2a47f221)
+
+### 1.5 **Meldingsboks**
+
+Hvis ny informasjon og endringer er gjort i en saksliste mens du var i frakoblet modus, vises et meldingsboks-ikon mot øvre høyre hjørne av sakslisten.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/06-outbox.png)
+
+Trykk på ikonet for å åpne meldingsboksen. Etter at du har fått tilgang til nettverket igjen, kan ny informasjon og endringer sendes til prosjektet i denne menyen.
+
+_Lokale utkast_ Sakene i denne listen kan sees på som lokale utkast til de er sendt. Hvis nye saker ble opprettet, eller eksisterende saker ble kommentert uten tilkobling til nettverket, ender de opp i denne listen.
+
+_Sending av meldingsboks_ All ny informasjon og endringer som er gjort uten tilkobling til nettverket, blir liggende på enheten til meldingsboksen blir sendt. Når tilkoblingen til nettverket er gjenopprettet, kan meldingsboksen sendes. Ny informasjon og endringer som ble gjort mens det ikke var tilkobling til nettverket, vil da bli synkronisert til prosjektet og vises for alle prosjektmedlemmer.
+
+## 2. **Modeller i frakoblet modus**
+
+Når tilkoblingen til nettverket er tapt, er det mulig å fortsette å bruke modeller som tidligere har blitt innlastet på enheten.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/07-models-in-offline-mode.png)
+
+### 2.1 **Tidligere innlastede modeller**
+
+I 2D-visningen av modeller som ble innlastet før tilkoblingen til nettverket var tapt, kan saker opprettes med 2D-visningsplassering uten tilkobling til nettverket. Tidligere innlastede modeller kan slås på og av uten at de mister sin funksjonalitet.
+
+## 3. **Dokumenter i frakoblet modus**
+
+Når tilkoblingen til nettverket er tapt, kan dokumenter fortsette å brukes.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/b8ttbe3j/08-documents-in-offline-mode.png)
+
+### 3.1 **Tidligere innlastede dokumenter**
+
+Dokumenter i mappen eller samlingen som ble åpnet da tilkoblingen var tapt, fortsetter å være visbare. Så lenge denne mappen eller samlingen forblir åpen, kan dokumentene i mappen fortsette å være visbare mens andre deler av programmet brukes. Tilgang til dokumentene i mappen er bare tilgjengelig mens du er i mappen eller samlingen. Navigering til en annen mappe eller samling vil laste ut dokumentene. Dokumenter som ikke er i samme mappe, kan samles i en samling. På denne måten kan alle dokumenter lastes inn før du mister tilgang til nettverket for frakoblet bruk.
 
 # Frykoplingen av dokument fra objekt
 
@@ -9546,7 +10014,7 @@ Etter å ha valgt ett eller flere dokument(er) vil du se infoikonet vises til h�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/01-intro.png)
 
-Dette utvidede panelet kan se annerledes ut avhengig av hva du har valgt [​_En mappe_ ](#h_cad792004b) _- [Ett dokument](#h_2fac53531d) - [Flere mappe(r) og/eller dokument(er)](#h_58d67056f7)_
+Dette utvidede panelet kan se annerledes ut avhengig av hva du har valgt [_En mappe_ ](#h_cad792004b) _- [Ett dokument](#h_2fac53531d) - [Flere mappe(r) og/eller dokument(er)](#h_58d67056f7)_
 
 ## 1. En mappe
 
@@ -10192,6 +10660,172 @@ _Status eller type_ For hver status og type som ikke finnes i sakslisten, velger
 
 _Brukere_ Hver bruker i importerte saker som ikke finnes i prosjektet, må kartlegges til enten en bruker eller et team i prosjektet. Etter kartlegging vil sakene bli etterspurt av eller tildelt denne brukeren, og alle kommentarer vil se ut til å være gjort av den kartlagte brukeren. Hvis brukeren har endret e-postadresse, er kartleggingen enkel – velg bare brukeren etter navn med kontoen som de bruker med sin nye e-postadresse. Hvis det ikke finnes en lignende bruker som kan kartlegges i prosjektet, er en god strategi å opprette et team som fungerer som denne brukeren. På denne måten er det mulig å finne alle handlinger fra importerte saker gjort av denne brukeren ved å filtrere på det kartlagte teamet.
 
+# Innstillinger for saksmal
+
+> Administrer innstillingene for saksmal
+
+Siden for innstillinger for saksmal finner du ved å klikke på Konfigurer saksmal på [siden for saksinnstillinger](https://support.catenda.com/en/articles/14183429-topic-settings-page) som kan åpnes fra venstre navigasjonsmeny etter at du har åpnet siden for saker. _Tilgang kreves:_ Prosjektadministrator
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/01-intro.png)
+
+På siden for innstillinger for saksmal kan saksmaler for hver av saklistene i prosjektet konfigureres. Etter opprettelsen gjøres saksmaler automatisk tilgjengelige for å fylle ut tekst og felt for saker ved opprettelse. Saksmaler kan konfigureres til å være tilgjengelige i følgende prosesser for saksopprettelse: [Hvordan bruke saksmaler i generelle saker](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation) [Hvordan bruke saksmaler i merknadsaker](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document) [Hvordan bruke saksmaler med gjennomganger](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
+
+## 1. **Handlingsmeny**
+
+Klikk på plusknappen øverst til høyre for å åpne handlingsmenyen. Slik kan handlingsmenyen øverst til høyre på siden for innstillinger for saksmal se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/02-action-menu.png)
+
+En rullegardinmeny gir deg muligheten til å opprette 3 forskjellige typer saksmaler. Saksmaler skilles inn i tre ulike maltyper fordi variablene som kan brukes til å automatisk fylle ut tekst og felt i saker ved opprettelse varierer avhengig av prosessen for saksopprettelse som brukes.
+
+## 2. **Søk- eller filteralternativer**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/03-search-or-filter-options.png)
+
+### 2.1 **Søk**
+
+_Tekstsøk -_ `search=<Search phrase>` Etter at du har skrevet inn tegn i søk- eller filterlinjen, endres det første foreslåtte filteret til tekstsøk.
+
+_Innhold som kan søkes på_ Navn på saksmal
+
+_Kapitalisering_ Tekstsøket er ikke følsomt for store eller små bokstaver.
+
+_Antall tegn_ Hvilket som helst antall eller type tegn kan søkes på.
+
+_Mellomrom_ Mellomromstegn ved starten av en søkefrase kan søkes på, men blir fjernet fra malmalnavn, så det vil ikke være noen resultater når det søkes. Mellomromstegn på slutten av en søkefrase blir fjernet.
+
+### 2.2 **Filtrering i filtermenyen**
+
+Saksmaler filtreres enten etter en av de mulige statusene. Klikk på Status-menyen i filtermenyen for å skjule statusalternativet som ikke er filtrert. Det er mulig å trykke på X til høyre i søkelinjen for å fjerne filtertagger fra linjen, men dette har ingen effekt. Det er bare mulig å filtrere maler med enten Aktiv eller Arkivert filter.
+
+_Aktiv_ - `status=active` - Standard Saksmaler som aktivt kan brukes og konfigureres til å generere saker.
+
+_Arkivert_ - `status=archived` Saksmaler som ikke er tilgjengelige for bruk eller konfigurering i prosessen for saksopprettelse.
+
+## 3. **Malmaltabell**
+
+Når du navigerer til siden for innstillinger for saksmal, kan du se en oversikt over eksisterende saksmaler som tidligere er opprettet. Slik kan tabellen over saksmaler se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/04-templates-table.png)
+
+Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda.
+
+### 3.1 **Radinnhold**
+
+Klikk på en saksrad for å åpne innholdsiden for saksmal for den malen.
+
+### 3.2 **Kolonner**
+
+Alle kolonner i tabellen over saksmaler er som standard aktivert. Basert på den konfigurerte kolonneordren vises de første kolonnene, mens tabellen kanskje må rulles sideveis for å vise andre aktiverte kolonner. Standardordenen og visibilitetinnstillingene for kolonnene på dokumentsiden er som følger:
+
+Navn Maltype Opprettet av Opprettet den Status Sakliste
+
+## 4. **Opprett en ny generell saksmal**
+
+Kan brukes på saker opprettet fra delen Generell sak. Her er de ulike handlingene du må følge og variablene du kan skrive inn når du oppretter en ny generell saksmal:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/05-create-a-new-general-topic-template.png)
+
+1. **Sakliste**: Saklisten som den generelle saksmalenen kan genereres innen for.
+1. **Malnavn**: Malmalnavn kan velges fra rullegardinen under opprettelse, eller oppdateres i innstillingene senere hvis det er nødvendig.
+1. **Sakstittel**: Den resulterende saksintittel etter opprettelse av saken fra den generelle saksmalenen.
+   Hold musepekeren over "?" ikonet som ligger øverst til høyre på tittelfeltet for å se hvordan du kan tilpasse saksmalitittelen din med den tilgjengelige variabelen: `topicCreator`.
+
+    <div class="intercom-container intercom-align-center"><img height="184" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-272165f584d2.png" style="height: auto;" width="300"/></div>
+
+1. **Saksstatus**: Den resulterende saksstatus etter opprettelse av saken fra den generelle saksmalenen.
+1. **Sakstype**: Den resulterende sakstype etter opprettelse av saken fra den generelle saksmalenen.
+1. **Milepæl**: Den resulterende saksmilepæl etter opprettelse av saken fra den generelle saksmalenen.
+1. **Tildelt til**: Den resulterende saksansvarlig (prosjektmedlem eller team) etter opprettelse av saken fra den generelle saksmalenen. Du kan bruke her variabelen `Saksoppretteren` for automatisk å fylle ut dette feltet med saksskaperen hvis det er nødvendig.
+
+    <div class="intercom-container intercom-align-center"><img height="94" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-c7f3d7220c54.png" style="height: auto;" width="150"/></div>
+
+1. **Etterspurt av**: Den resulterende saksanmoder etter opprettelse av saken fra den generelle saksmalenen. Du kan bruke her variabelen `Saksoppretteren` for automatisk å fylle ut dette feltet med saksskaperen hvis det er nødvendig.
+
+    <div class="intercom-container intercom-align-center"><img height="93" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-43e4955bfdd8.png" style="height: auto;" width="150"/></div>
+
+1. **Merkelapper**: De resulterende saksmerkelappene etter opprettelse av saken fra den generelle saksmalenen.
+1. **Beskrivelse**: Den resulterende saksbeskrivelsen etter opprettelse av saken fra den generelle saksmalenen. Denne seksjonen støtter Markdown-format og du kan bruke fullt potensial til å formatere teksten, opprette egendefinerte overskrifter og sjekklister.
+    Hold musepekeren over "?" ikonet som ligger øverst til høyre på beskrivelsesfeltet for å se hvordan du kan benytte deg av alle tilgjengelige funksjoner (nevn lagkamerater og lenke til eksisterende saker) og variabler (for eksempel `topicCreator` i tilfellet med den generelle saksmalenen).
+
+     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+
+Når du er ferdig med å sette opp den nye generelle saksmalenen din, kan du klikke på "Lagre" knappen nederst til høyre.
+
+## 5. **Ny dokumentsaksmal**
+
+Kan brukes på saker opprettet fra merknader på dokumenter. Her er de ulike handlingene du må følge og variablene du kan skrive inn når du oppretter en ny dokumentsaksmal:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/06-new-document-topic-template.png)
+
+1. **Sakliste**: Saklisten som dokumentsaksmalenen kan genereres innen for.
+1. **Malnavn**: Malmalnavn kan velges fra rullegardinen under oppretting av merknad, eller oppdateres i innstillingene senere hvis det er nødvendig.
+1. **Sakstittel**: Den resulterende saksintittel etter opprettelse av saken fra dokumentsaksmalenen.
+   Hold musepekeren over "?" ikonet som ligger til høyre på tittelfeltet for å se hvordan du kan tilpasse dokumentsaksmalitittelen din med de tilgjengelige variablene: `documentName`, `fileName`, `markupName` og `topicCreator`.
+
+    <div class="intercom-container intercom-align-center"><img height="231" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-dbe5030f1082.png" style="height: auto;" width="300"/></div>
+
+1. **Saksstatus**: Den resulterende saksstatus etter opprettelse av saken fra dokumentsaksmalenen.
+1. **Sakstype**: Den resulterende sakstype etter opprettelse av saken fra dokumentsaksmalenen.
+1. **Milepæl**: Den resulterende saksmilepæl etter opprettelse av saken fra dokumentsaksmalenen.
+1. **Tildelt til**: Den resulterende saksansvarlig (prosjektmedlem eller team) etter opprettelse av saken fra dokumentsaksmalenen. Ulike variabler kan brukes her, for eksempel `Dokumenteier`, `Filstringer`, `Merknadsoppretter`, `Utgiver` og `Saksoppretteren`.
+
+    <div class="intercom-container intercom-align-center"><img height="228" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b3156a6c2724.png" style="height: auto;" width="150"/></div>
+
+1. **Etterspurt av**: Den resulterende saksanmoder etter opprettelse av saken fra dokumentsaksmalenen. Ulike variabler kan brukes her, for eksempel `Dokumenteier`, `Filstringer`, `Merknadsoppretter`, `Utgiver` og `Saksoppretteren`.
+
+    <div class="intercom-container intercom-align-center"><img height="171" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-0c4680dfae06.png" style="height: auto;" width="150"/></div>
+
+1. **Merkelapper**: De resulterende saksmerkelappene etter opprettelse av saken fra dokumentsaksmalenen. Vær oppmerksom på at du kan hente merkelappene fra dokumentet du opprettet merknaden fra ved å bruke variabelen `Merkelapper fra dokumenter` nedenfor:
+
+    <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
+
+1. **Beskrivelse**: Den resulterende saksbeskrivelsen etter opprettelse av saken fra dokumentsaksmalenen. Denne seksjonen støtter Markdown-format og du kan bruke fullt potensial til å formatere teksten, opprette egendefinerte overskrifter og sjekklister.
+    Hold musepekeren over "?" ikonet som ligger øverst til høyre på beskrivelsesfeltet for å se hvordan du kan benytte deg av alle tilgjengelige funksjoner (nevn lagkamerater og lenke til eksisterende saker) og variabler (for eksempel `documentName`, `fileName`, `markupName` og `topicCreator` i tilfellet med dokumentsaksmalenen).
+
+     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+
+Når du er ferdig med å sette opp den nye dokumentsaksmalenen din, kan du klikke på "Lagre" knappen nederst til høyre.
+
+## 6. **Ny gjennomgangssaksmal**
+
+Kan brukes på saker opprettet etter at en gjennomgangsarbeidsflyt er avsluttet. _Tilgang kreves:_ Delte statuser aktivert (Arbeidsområde- og publiserte faner synlige på dokumenter og modellsider)
+
+> **Merknad:** Dette alternativet vises bare hvis gjeldende status- og valideringsarbeidsflyter er i bruk. Prosjekter opprettet etter 2. oktober 2025 bruker automatisk gjeldende status- og valideringsarbeidsflyter.
+
+Her er de ulike handlingene du må følge og variablene du kan skrive inn når du oppretter en ny gjennomgangssaksmal:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/07-new-approval-topic-template.png)
+
+1. **Sakliste**: Saklisten som gjennomgangssaksmalenen vil bli generert innen for etter at en gjennomgangsarbeidsflyt er avsluttet.
+1. **Malnavn**: Malmalnavn for en gjennomgangssaksmal kan velges fra rullegardinen i en gjennomgangsarbeidsflytsmal, eller oppdateres i innstillingene senere hvis det er nødvendig.
+1. **Sakstittel**: Den resulterende saksintittel etter at den tilknyttede gjennomgangsarbeidsflyten er avsluttet.
+   Hold musepekeren over "?" ikonet som ligger til høyre på tittelfeltet for å se hvordan du kan tilpasse gjennomgangssaksmalitittelen din med de tilgjengelige variablene: `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` og `topicCreator`.
+
+    <div class="intercom-container intercom-align-center"><img height="272" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-6038b1d41fed.png" style="height: auto;" width="300"/></div>
+
+1. **Saksstatus**: Den resulterende saksstatus etter avslutning av den tilknyttede gjennomgangsarbeidsflyten.
+1. **Sakstype**: Den resulterende sakstype etter avslutning av den tilknyttede gjennomgangsarbeidsflyten.
+1. **Milepæl**: Den resulterende saksmilepæl etter avslutning av den tilknyttede gjennomgangsarbeidsflyten.
+1. **Tildelt til**: Den resulterende saksansvarlig (prosjektmedlem eller team) som avslutter den tilknyttede gjennomgangsarbeidsflyten. Ulike variabler kan brukes her, for eksempel `Gjennomgangforespørselsgodkjenner`, `Gjennomgangsforespørselsgodkjennerteam`, `Gjennomgangsforespørselsinnsender`, `Gjennomgangsforespørselsinnsenderteam`, `Dokumenteier`, `Filstringer`, `Merknadsoppretter`, `Merknadsoppretterteam`, `Utgiver`.
+
+    <div class="intercom-container intercom-align-center"><img height="182" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b012d92ee132.png" style="height: auto;" width="150"/></div>
+
+1. **Etterspurt av**: Den resulterende saksanmoder etter avslutning av den tilknyttede gjennomgangsarbeidsflyten. Ulike variabler kan brukes her, for eksempel `Gjennomgangforespørselsgodkjenner`, `Gjennomgangsforespørselsgodkjennerteam`, `Gjennomgangsforespørselsinnsender`, `Gjennomgangsforespørselsinnsenderteam`, `Dokumenteier`, `Filstringer`, `Merknadsoppretter`, `Merknadsoppretterteam`, `Utgiver`.
+
+    <div class="intercom-container intercom-align-center"><img height="181" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d7986adac70c.png" style="height: auto;" width="150"/></div>
+
+1. **Merkelapper**: De resulterende saksmerkelappene etter avslutning av den tilknyttede gjennomgangsarbeidsflyten. Vær oppmerksom på at du kan hente merkelappene fra dokumentet du opprettet merknaden fra ved å bruke variabelen `Merkelapper fra dokumenter` nedenfor:
+
+    <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
+
+1. **Beskrivelse**: Den resulterende saksbeskrivelsen etter avslutning av den tilknyttede gjennomgangsarbeidsflyten. Denne seksjonen støtter Markdown-format og du kan bruke fullt potensial til å formatere teksten, opprette egendefinerte overskrifter og sjekklister.
+    Hold musepekeren over "?" ikonet som ligger øverst til høyre på beskrivelsesfeltet for å se hvordan du kan benytte deg av alle tilgjengelige funksjoner (nevn lagkamerater og lenke til eksisterende saker) og variabler (for eksempel `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) i tilfellet med gjennomgangssaksmalenen).
+
+     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+
+Når du er ferdig med å sette opp den nye gjennomgangssaksmalenen din, kan du klikke på "Lagre" knappen nederst til høyre.
+
 # Inspeksjonsmeny
 
 Inspeksjonsmenyen finner du som den første menyen i [informasjonspanelet](https://support.catenda.com/en/articles/8238584-information-panel).
@@ -10393,6 +11027,35 @@ Klipping bruker klippeplan ved for eksempel å velge en vegg som er knyttet til 
 Denne opprettelsen lager et klippeplan på toppen av det valgte objektet (veggen) og ett under, noe som ofte er nyttig for å se en etasje isolert. Planene som opprettes på denne måten flyttes og fjernes på samme måte som konvensjonelt klippeplan.
 
 ![15B3822F-24E5-416C-940D-D5E2C0D7C39F.GIF](https://raw.githubusercontent.com/catenda/help-center/main/images/cznsappf/01-sectioning-top-and-bottom.gif)
+
+# Kollisjonsprøving i Navisworks
+
+## 1. Kollisjonsprøving og opprettelse av BCF viewpoint ved hjelp av plugin-modulen
+
+1. Definer Clash Detective og kjør en kollisjonsprøving.
+1. Gå gjennom clash-ene i NW.
+
+a. Gi navn hvis nødvendig
+
+b. Juster og lagre viewpoints ved hjelp av **Focus on clash** og **Save viewpoint** kommandoer
+
+c. Grupper clash-ene av samme type sammen
+
+1. Opprett en rapport som viewpoints. Slå på **Preserve result highlighting**
+1. Disse viewpoints-ene vises i clash-fanen i plugin-modulen
+1. Opprett sak ved å velge en eller flere clash
+
+a. Gi saken en tittel
+
+b. Klikk legg til sak.
+
+1. For å få meningsfull miniatyrbilde:
+
+a. Velg clash i Clash Detective
+
+b. Velg samme clash i **Clashes**-fanen.
+
+c. Klikk legg til sak.
 
 # Kolonner på dokumentsiden
 
@@ -11946,6 +12609,111 @@ For å se endringer av merkelapper i dette filtreringsmenyen som ble gjort på e
 
 Du kan klikke på tilbakestillingsknappen øverst til venstre for å fjerne valget av alle valgte merkelapper. (P.S. Hvis du vil ha kule emojis i filtrene dine, kan du enkelt gjøre dette ved å endre merkelappnavnene i mobilnettleserversjonen av Catenda Hub)
 
+# Microsoft Teams-varsel
+
+> Bli oppdatert uten å bytte faner. Koble Catenda Hub til Microsoft Teams for å motta sanntidsvarsel direkte i dine foretrukne kanaler.
+
+Motta sanntidsvarsel fra en Catenda-konto direkte i en Microsoft Teams-kanal ved å konfigurere en Microsoft Teams-arbeidsflyt i Catenda-varselinnstillingene. _Nødvendig tilgang:_ En **Microsoft Teams**-konto med tillatelser for kanaloppretting og Microsoft Teams-arbeidsflytstyrring.
+
+Fanen for Microsoft Teams-varsel finnes mot toppen av [siden for kontovarselinnstillinger](https://support.catenda.com/en/articles/8272435-account-notification-settings) som er en underside til [siden for kontovarslinger](https://support.catenda.com/en/articles/7439223-account-notifications-page):
+
+![Catenda Hub Varsel-innstillinger Microsoft Teams-varsel Prosjekter med egne Teams-innstillinger](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/01-intro.png)
+
+Slik kan Catenda-varsel se ut i Microsoft Teams etter at en Microsoft Teams-arbeitsflyt er konfigurert.
+
+![Microsoft Teams-kanal Innlegg Klart til vurdering opprettet en ny sak en ny revision ble importert i model](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/02-intro.png)
+
+---
+
+### Trinn 1: Forbered en dedikert kanal
+
+Brukere kan organisere prosjektoppdateringene sine ved å opprette et spesifikt område for Catenda-varsel. 1\. I **Microsoft Teams**, velg **Teams**- eller **Chat**-fanen. 2\. Bruk et eksisterende team (hopp over dette trinnet) eller **opprett et team**.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/03-step-1-prepare-a-dedicated-channel.png)
+
+Skriv inn et navn og opprett teamet.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/04-step-1-prepare-a-dedicated-channel.png)
+
+Når et team opprettes, legges en kanal kalt «generell» automatisk til. 3\. Bruk en eksisterende kanal (hopp over dette trinnet) eller legg til en kanal. Høyreklikk på et team og velg Legg til kanal i handlingsmenyen, eller klikk på teamet og klikk på **Legg til kanal** øverst til høyre. _Nødvendig tilgang:_ Eier eller medlem av team.
+
+![Microsoft Teams Catenda-integrasjon Chat-kanaler Legg til kanal Medlemmer Analyse Apper Koder Skjul alle kanaler Legg til medlem Administrer team Administrer koder Kopier lenke Forlat team](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/05-step-1-prepare-a-dedicated-channel.png)
+
+> **Merk:** Med gjest- eller ekstern tilgang kan ikke kanaler opprettes. I dette tilfellet, vennligst be en kanaladministrator om å gi deg en URL for varsler som skal sendes til en kanal.
+
+Etter at du klikker på Opprett kanal, vises dialogboksen Opprett en kanal:
+
+![Opprett en kanal Kanalnavn Bokstaver, tall og mellomrom er tillatt Beskrivelse Velg kanaltype Standard Privat Tråder Innlegg](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/06-step-1-prepare-a-dedicated-channel.png)
+
+**4. Gi kanalen et navn**: Bruk noe klart som "Catenda-varsel" eller "Prosjekt-A-Varsel".
+
+**5. Velg personvern**: Catenda-varsel kan leveres til både standard- og private kanaler.
+
+- Velg **Standard** hvis du vil at hele teamet skal se oppdateringene.
+- Velg **Privat** hvis varslene kun er for deg eller en spesifikk gruppe.
+
+6\. Klikk **Opprett**.
+
+---
+
+### Trinn 2: Generer Teams-webhook-URL-en din
+
+Tidligere ble Catenda Teams-varsel konfigurert via en Webhook Connector-applikasjon som ble konfigurert for kanalen. Webhook Connector-applikasjonen har siden blitt avviklet. Den nåværende måten å opprette en webhook-URL på er ved å opprette en Microsoft Teams-arbeidsflyt.
+
+Følg disse trinnene for å opprette en ny Microsoft Teams **Workflow** webhook. 1\. Åpne **Microsoft Teams** 2\. Hold markøren over ønsket team og klikk på de tre prikkene, eller klikk på de tre prikkene øverst til høyre etter at du har åpnet kanalen. 3\. Velg Microsoft Teams **Workflows** fra handlingsmenyen
+
+<img alt="Microsoft Teams-kanal handlingsmeny, arbeidsflyter uthevet." src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-f533eea19d48.png" width="290"/>  \<---> <img alt="Handlingsmeny i Microsoft Teams-kanal, arbeidsflyter uthevet." src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-1a6a43fe9eec.png" width="290"/>
+
+4\. Søk etter **"Send webhook-varslinger til en kanal"** og velg den.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/07-step-2-generate-your-teams-webhook-url.png)
+
+5\. Følg oppsettrinnene for å velge ditt team og kanal. **6. Kopier URL-en**: Når Microsoft Teams-arbeitsflyten er opprettet, kopier den genererte webhook-URL-en til utklippstavlen din ved å klikke på Kopier webhook-lenke øverst.
+
+> **Merk:** 💡**Tips**: Behold denne URL-en privat. Hvem som helst med denne lenken kan sende meldinger til Teams-kanalen din.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/08-step-2-generate-your-teams-webhook-url.png)
+
+---
+
+### Trinn 3: Koble til Catenda Hub
+
+Følg disse trinnene for å konfigurere webhook-lenken i Catenda. På denne måten vet Catenda hvor prosjektvarslene skal sendes.
+
+1. Logg inn på **Catenda Hub**.
+1. Naviger til **Varsel>Innstillinger** (på konto- eller prosjektnivå).
+1. Velg "Microsoft Teams"-fanen og scroll helt ned.
+1. Lim inn den kopierte URL-en i feltet **Webhook URL**.
+1. Klikk **Lagre**.
+
+    <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
+
+1. **Aktiver varsel**: Kontroller at veksleknappen øverst på siden er satt til **På**.
+
+    <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
+
+---
+
+### Trinn 4: Tilpass varslene dine
+
+Skreddersy informasjonen du mottar for å unngå varslettmøtting. 1\. I samme **Varselinnstillinger**-meny, scroll gjennom listen over varseltyper. **2. Merk av i boksene** for de spesifikke oppdateringene du ønsker å motta i Teams-kanalen din. Slik kan Microsoft Teams-varselmenyen se ut:
+
+![Velg hvilke varsel du ønsker å motta Catenda Hub E-post Microsoft Teams-varsel Saker Dokumenter Gjennomganger Samlinger Modeller Brukere En ny sak er opprettet En sak er tildelt til meg En sak nevner meg eller Teams mitt Ny kommentar i en sak tildelt meg nevnt av meg fulgt av meg Status endret i en sak Type endret i saker Jeg er angitt som utgiver i en gjennomgangsforespørsel Et team jeg er medlem av er angitt som utgiver i en gjennomgangsforespørsel En gjennomgangsforespørsel er lukket Et medlem av innsenderlaget En ny gjennomgangsforespørsel er blitt sendt inn Et dokument er kassert En gjennomgangsforespørsel er lukket En ny gjennomgangsforespørsel er blitt sendt inn En ny gjennomgangsforespørsel er tildelt teamet mitt En ny gjennomgangsforespørsel er klar til vurdering av teamet mitt Alle vurderinger er sendt inn av teamet mitt Et dokument er kassert En gjennomgangsforespørsel er lukket Som medlem av vurderingsteamet for den endelige gjennomgangen En ny gjennomgangsforespørsel er blitt sendt inn En ny gjennomgangsforespørsel er tildelt teamet mitt En ny gjennomgangsforespørsel er klar til vurdering av teamet mitt Alle vurderinger er sendt inn av teamet mitt Alle vurderinger er sendt inn av teamet mitt Et vurderingstrinn er fullført Et dokument er kassert En gjennomgangsforespørsel er lukket En ny model er opprettet En ny revision er importert.](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/09-step-4-customize-your-alerts.png)
+
+Nedtonede varselsbokser er deaktivert for Microsoft Teams og er bare tilgjengelige for andre varselmethoder. Varselsbokser for gjennomganger blir tilgjengelige hvis Delte revisjoner er aktivert i [dokumentinnstillinger](https://support.catenda.com/en/articles/7831371-document-settings-page) for et prosjekt.
+
+---
+
+### Trinn 5: Verifisering
+
+Kontroller at et varsel sendes til kontoen din som også sendes til Microsoft Teams.
+
+1\. Utfør en handling i Catenda Hub.
+
+> **Advarsel:** ⚠️ **Merk:** Ikke alle varslinger er tilgjengelige for sending til Microsoft Teams, og Microsoft Teams-varslinger sendes vanligvis ikke for handlinger brukere utfører selv. Last opp en modell eller be en lagkamerat om å opprette en sak eller nevne deg i en beskrivelse eller kommentar for å verifisere lenken.
+
+2\. Sjekk **Microsoft Teams-kanalen** din. 3\. En melding skal vises umiddelbar via Microsoft Teams **Workflow**-boten.
+
 # Milepælinnholdsside
 
 Siden til en milepæl kan åpnes ved å klikke på en milepæl på [milepælsiden](https://support.catenda.com/en/articles/4670266-milestones-page). Slik kan siden til en milepæl se ut:
@@ -12006,7 +12774,7 @@ Slik kan milepælsiden se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/02-intro.png)
 
-Denne siden inneholder informasjon om følgende saker: [Planlegging](#h_595c5ebf4c) - [Handlinger](#h_ef3bbf0441)​ - [Milepælsliste](#h_5403eb541f)
+Denne siden inneholder informasjon om følgende saker: [Planlegging](#h_595c5ebf4c) - [Handlinger](#h_ef3bbf0441) - [Milepælsliste](#h_5403eb541f)
 
 ## 1. Planlegging
 
@@ -12913,7 +13681,7 @@ Delte revisjoner har et mindre revisjonsnummer (f.eks. #0.1, #2.3, #4.1) Publise
 
 I dokumentstrukturen vil du se den nyeste revisjonen du har tilgang til. Klikk på navnet på et dokument for å åpne dokumentforhåndsvisningen av den viste revisjonen.
 
-_Arbeidsområdefane_ Den nyeste revisjonen i arbeidsområdefanen kan være: Delt revidert - _Tilgang kreves:_ Delte revisjoner. Publisert revidert - ​_Tilgang kreves:_ Lese
+_Arbeidsområdefane_ Den nyeste revisjonen i arbeidsområdefanen kan være: Delt revidert - _Tilgang kreves:_ Delte revisjoner. Publisert revidert - _Tilgang kreves:_ Lese
 
 _Publisert fane_ Den nyeste revisjonen i den publiserte fanen kan være: Publisert revidert - _Tilgang kreves:_ Lese
 
@@ -13696,7 +14464,6 @@ Aktiver Krev vurdering fra alle teammedlemmer for å kreve at hvert enkelt medle
 - **Når dette er av** (den nåværende, eneste oppførselen som beskrives andre steder i dette hjelpesenteret), kan ethvert medlem av vurderingsteamet sende inn en valideringsindikasjon på vegne av hele teamet, og trinnet kan fortsette så snart de gjør det.
 
 - **Når dette er på,** er teamets trinn ikke fullstendig før hvert enkelt medlem har gitt sin egen indikasjon. Se Oversiktsfanen, menyen til høyre for filgjennomgang og artiklene i menyen til høyre for dokumentfanen for hvordan dette vises under gjennomgang.
-  ​
 
 ### 4.6 **Slett vurderingstrinn**
 
@@ -14968,7 +15735,7 @@ Med navnekonvensjonen er det ønsket at alt skal være unikt navngitt, kontrolle
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-a2fc3b4afcfe.png" style="height: auto;" width="1920"/></div>
 
-   For å gjøre dette kan du vise kolonnen "Name de Revision", som viser det opprinnelige navnet.
+For å gjøre dette kan du vise kolonnen "Name de Revision", som viser det opprinnelige navnet.
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-1b1cee11c3c8.png" style="height: auto;" width="1920"/></div>
 
@@ -15092,7 +15859,7 @@ _Last inn flere_ For å laste inn flere modeller klikker du på knappen Last inn
 
 Når 2D-knappen er grønn, er 2D-visningen av den modellen synlig i [2D-visningen](https://support.catenda.com/en/articles/4854537-2d-viewer) og lastet inn i minnet. Når knappen er grå, vil 2D-visningen av den modellen ikke være synlig og vil ikke lastes inn i minnet.
 
-### 1.4 **​3D-knapp**
+### 1.4 **3D-knapp**
 
 Når 3D-knappen klikkes, blir den grønn. 3D-visningen av det dokumentet blir deretter tilgjengelig i [3D-visningen](https://support.catenda.com/en/articles/8227211-3d-viewer) og lastet inn i minnet. Mens 3D-knappen er grønn, vil modellobjektene som tilhører den modellen være tilgjengelige i 3D-visningen.
 
@@ -15126,7 +15893,7 @@ Ikonet for hver 3D-dokumentfiltype. Bare tilgjengelig for 3D-dokumenter.
 
 For modeller vises modellnavnet. For dokumenter vises dokumentnavnet. Dokumentlisten følger den generelle [sorteringsrekkefølgen for lister](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) i Catenda.
 
-### 1.9 **​Modellrevisjon**
+### 1.9 **Modellrevisjon**
 
 Til høyre for 3D-dokumentnavnet kan du se grønn understreket tekst. Teksten som vises, gjenspeiler nummeret på revisjonen som blir lastet inn når 3D-knappen er aktivert. Hvis en revisjon fra 3D-dokumentet allerede er lastet inn, gjenspeiler nummeret revisjonen som er valgt og lastet inn i minnet.
 
@@ -15649,6 +16416,61 @@ Klikk på den andre knappen med klippeplan-ikonet for å opprette et klippeplan 
 ### 5.3 **5.3 Klipping relativt til 3D-kameraet**
 
 Med enten rulleplan-klippeplaner, men spesielt med justeringsklippeplaner, kan grensene for klippeplanoverflaten kanskje ikke være synlige fordi den kan være utenfor visningen av kameraet eller helt bak kameraet. Hvis objekter ser ut til å forsvinne etter å ha dratt på klippe planet, kan det være fordi klippeplanet blir dratt bak kameraet. I denne situasjonen kan det ofte hjelpe å enten vende klippe planet med vend-knappen i menyen mot bunnen av 3D-viseren eller å zoome ut slik at grensene for klippe planet er synlige.
+
+# Sakbanner - Navigering av saker
+
+Hvis du velger en sak fra en [saksliste](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) vil et nytt vindu åpnes for den saken. Dette er hvordan et sakvindu kan se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/01-intro.png)
+
+1\. Sakbanneret vil bli beskrevet i denne artikkelen. 2\. Du finner sakbanneret over [Sakhodet](https://support.catenda.com/en/articles/8400566-issue-header). 3\. Til høyre for sakhodet og brødteksten finner du [høyre informasjonspanel](https://support.catenda.com/en/articles/8053299-issue-right-panel). 4\. Under hodet på en sak finner du [sakbrødteksten](https://support.catenda.com/en/articles/8053352-issue-body).
+
+## 1. **Brødkrummer**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/02-breadcrumbs.png)
+
+### 1.1 **Saker**
+
+Klikk på saker i brødkrummene for å gå tilbake til den gjeldende [sakslisten](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b).
+
+### 1.2 **Sak** **listevalg**
+
+Velg en [saksliste](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) i rullegardinmenyen for sakslister i brødkrummene for å gå til denne sakslisten.
+
+### 1.3 **Saknummer og tittel**
+
+Catenda Hub saknummeret og tittelen på saken. Hvert nytt saknummer i prosjektet øker med 1. Dette nummeret kan ikke endres. Nummeret er unikt i prosjektet. Du vil derfor ikke se to saker med samme nummer i ulike sakslister. Hvis du eksporterer saken til BCF og importerer den til et annet prosjekt, vil den få et nytt nummer basert på det siste saknummeret i det prosjektet. Selv om samme sak i to ulike prosjekter kan ha et annet saknummer i hvert prosjekt, er sakene fortsatt koblet sammen med en sak-GUID. Hvis du senere har gjort endringer på saken og eksporterer den til BCF igjen og importerer den til det andre prosjektet igjen, vil du se at den korrekte saken er oppdatert selv om den har et annet nummer.
+
+## 2. **Saknavigering**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/03-topic-navigation.png)
+
+_Tilbake-knapp_ - Gå tilbake til delen av Catenda Hub du så sist _Fremdriftslinje_ - Viser sakene du kan navigere til
+
+> **Merk:** Du kan bare navigere så mange saker som du har lastet inn i sakslisten. Du kan laste inn 100 saker om gangen ved å rulle ned i en saksliste. Med mindre du ruller helt ned i en saksliste eller det er færre enn 100 saker på listen. Dette totale tallet er derfor ikke indikativ for det totale antall saker i sakslisten.
+
+_Forrige- og neste-knapper_ - Gå til forrige eller neste sak i den filtrerte sakslisten
+
+## 3. **Toppknapper**
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/04-top-buttons.png)
+
+_Ny sak_ - Opprett en [ny sak](https://support.catenda.com/en/articles/4670268-creating-a-new-issue) _Klon sak_  - Lag en kopi av denne saken Du vil ønske å klone en sak når du vil lage en lignende sak som er litt annerledes enn den gjeldende saken. Det anbefales ikke å lage flere av samme sak og tildele hver til en annen person. I stedet vil du ønske å [nevne](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) de ulike medlemmene du vil legge til saken med @medlem.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/05-top-buttons.png)
+
+- Hodet og beskrivelsen i den klonede saken vil være den samme som i den gjeldende saken
+- _Inkluder dokumenter_
+
+Dokumenter som er koblet til denne saken vil også være koblet til den klonede saken
+
+- _Inkludere relaterte objekter_
+
+Objekter som er koblet til denne saken vil også være koblet til den klonede saken
+
+> **Merk:** Kommentarer blir ikke klonet
+
+_Innstillinger_ - Gå til [sakslisteinnstillinger](https://support.catenda.com/en/articles/4670277-issue-board-settings) ved å klikke på denne knappen
 
 # Sakhistorikk
 
@@ -16389,6 +17211,24 @@ Når et nytt prosjekt opprettes, starter prosjektet med en standard saksliste ka
 
 > **Merknad:** Selv om innstillingene for disse nye saklisten er de samme som i saklisten i malene, er GUID-ene for saklisten, statusene og typene unike for prosjektet de er i.
 
+# Saksliste-opprettelse ACL
+
+Administratorer vil kunne konfigurere hvem som har tilgang til å opprette saklister i tilgangskontrollseksjonen på [prosjektinnstillingssiden](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3).
+
+1. Under tilgangskontroll på denne siden har du "Opprett ny saksliste".
+
+Klikk på det.
+
+1. En liste over hvem som kan opprette og Rediger tilgang vil vises.
+   Klikk på Rediger tilgang-knappen.
+1. Definer tilgang for medlem(mer) eller team(s).
+
+Under medlem(mer) eller Team(s) du har valgt vil vises.
+
+1. Under tilgang velger du mellom Kan opprette og Ikke tillatt.
+
+Trykk på lagre-knappen.
+
 # Saksmeny - Catenda Site
 
 Saksmenyen finner du i [menyen](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) eller ved å trykke på saksknappen på navigasjonsbaren nederst.
@@ -16420,7 +17260,6 @@ Du kan filtrere etter:
 - [Merkelapper](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - Frist
 - Plassering
-  ​
 
 ### 1.1 Tilbakestill filter-ikon
 
@@ -16550,7 +17389,7 @@ Du finner knappen Ny samling øverst til høyre
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/02-new-item-actions.png)
 
-### 1.1 **​Ny samling**
+### 1.1 **Ny samling**
 
 Når du oppretter en ny samling, blir du bedt om å fylle ut følgende dialog.
 
@@ -17054,7 +17893,7 @@ Velg et sett med dokumenter ved å merke av i boksene, eller merk av boksen øve
 
 Etter valg vises informasjonsmenyen øverst til høyre. Hvis den er lukket, klikker du på `i`-ikonet for å utvide det.
 
-### 5.4 ​**Høyre informasjonsmeny -** Last ned
+### 5.4 **Høyre informasjonsmeny -** Last ned
 
 Når du importerer kan du konfigurere hvilke dokumenter som skal importeres til Solibri.
 
@@ -17310,6 +18149,70 @@ Dette er korleis topicen kan sjå ut når du lagrar fleire merknader til same to
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/12-br-save-all-markups-to-one-topic.png)
 
+# Spore informasjon ved lenking
+
+Det finnes flere måter å lenke deler av Catenda Hub til andre deler av Catenda Hub. Hvis du ser på de høyre informasjonspanelene på ulike steder, kan du finne ut hvilken informasjon som er lenket til elementet du ser. Denne artikkelen beskriver gode måter å sikre at elementene dine har linkede elementer. Elementer kan lenkes manuelt ved å klikke på lenke på ulike steder. I denne artikkelen finner du også tips og triks for hvordan du kan arbeide på en måte som sikrer at alt blir automatisk lenket uten at du må klikke på lenke hver gang.
+
+## 1. **Lenking av saker**
+
+Du kan finne ut hva en sak er lenket til i [høyre panel](https://support.catenda.com/en/articles/8053299-issue-right-panel) av en sak
+
+### 1.1 **Lenking av objekter til saker**
+
+_Manuelt_ Klikk [her](https://support.catenda.com/en/articles/8053299-issue-right-panel#h_758f17abbc) for å finne ut hvordan du lenker saker til objekter
+
+_Automatisk_ Hvis du har 3D-objekter valgt i øyeblikksbildet når du sender inn saken, vil disse objektene bli lenket til saken.
+
+### 1.2 **Lenking av dokumenter til saker**
+
+_Manuelt_ Klikk [her](https://support.catenda.com/en/articles/4670250-linking-a-document-to-an-issue) for å finne ut hvordan du lenker dokumenter til saker
+
+### 1.3 **Lenking av saker til andre saker**
+
+_Manuelt_ Klikk [her](https://support.catenda.com/en/articles/8053299-issue-right-panel#h_edf2cb07a8) for å finne ut hvordan du lenker en sak til en annen sak
+
+_Automatisk_ Hvis du bruker # for å peke til en sak i kommentaren eller en beskrivelse av en sak, vil denne saken bli lenket til den saken, og den saken vil bli lenket til denne saken. Denne lenken kan senere redigeres.
+
+## 2. **Lenking av dokumenter**
+
+### 2.1 **Lenking av saker til dokumenter**
+
+_Manuelt_ Hvis du lager en sak fra [merknader-fanen](https://support.catenda.com/en/articles/5001165-annotations-on-documents) i det høyre informasjonspanelet til et dokument og sender den inn, vil dokumentet bli lenket til den saken.
+
+_Automatisk_ Hvis du lager en [merknad](https://support.catenda.com/en/articles/5001165-annotations-on-documents) og legger den til en sak, vil dokumentet automatisk bli lenket til den saken.
+
+### 2.2 **Lenking av objekter til dokumenter**
+
+_Manuelt_ Klikk [her](https://support.catenda.com/en/articles/4670297-linking-documents-to-objects) for å finne ut hvordan du lenker dokumenter til objekter.
+
+## 3. **Lenking av objekter**
+
+### 3.1 **Lenking av sak til objekter**
+
+_Manuelt_ Klikk [her](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) for å finne ut hvordan du lenker objekter til saker
+
+_Automatisk_
+
+1. Last inn en modell i 3D og velg et objekt.
+1. Enten
+
+Klikk plusknappen i [saker-delen](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) av inspeksjonsdelen av informasjonspanelet.
+
+eller
+
+Lag en ny sak-del ved å klikke på ny sak på saker-siden i innholdspanelet.
+
+1. Gi saken en tittel og send den inn
+1. Legg merke til at saken din vil ha de valgte objektene lenket
+
+### 3.2 **Lenking av dokumenter til objekter**
+
+Du kan bare legge til objekter i dokumenter, ikke omvendt, se [her](#h_41401e4836).
+
+## 4. **Lenking så mye som mulig så enkelt som mulig**
+
+Last inn en modell i 3D-visningen og velg et objekt. Lag et utvalg for objektene i utvalgs-delen av informasjonspanelet. Lag en ny sak Gi saken en tittel. Lenk et dokument til saken. Send inn saken. Gå til dokumentet og lenk objektene til dokumentet.
+
 # Spørringer
 
 > En forklaring på spørringsfunksjonen i 2D-verktøylinjen
@@ -17460,7 +18363,6 @@ _Prosjektendringer_
 - Standard status er sett til «Ingen status».
 - Gjennomgangmenyen i dokumentinnstillingar er deaktivert.
 - Gjennomgangsfanen til dokumentsiden er deaktivert.
-  ​
 
 ## 2. **Publiserte statusar**
 
@@ -17469,7 +18371,6 @@ Som standard er det éin publisert status med namnet «publisert» som er konfig
 - Publisert, med merknader - Lys grøn
 - Ventar - Gul
 - Til oppfølging - Raud
-  ​
 
 ## 3. **Legg til status**
 
@@ -18969,7 +19870,7 @@ Delingslenke - [https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY](ht
 
 ### 1.2 **Introduksjon og støtte - [Spiller](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7?track_link_name=Intercom&track_link_id=vrc3txAqpnzG21ahEDofSs&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 
-Delingslenke - ​[https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7)
+Delingslenke - [https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7)
 
 - [Koble til Catenda Hub](https://eu.guidde.com/share/playbooks/sAJ9zHv65kinzKseJPmNQm?track_link_name=Changelog&track_link_id=nQAaRkkuJwtN2my3y8ZNSK&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [Kontoinnstillinger og Varsel](https://eu.guidde.com/share/playbooks/6cAvR5y6ugZsAShAwPLL6f?track_link_name=Guidde%20videos%20article&track_link_id=7Hvd2JT6GLw4efuaAPGkX3&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
@@ -18994,7 +19895,7 @@ Delingslenke - [https://eu.guidde.com/share/playlists/9EG9WZEd2UiGMPZVVQfHuR](ht
 
 ### 1.5 **Innholdsstyring - [Spiller](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7?track_link_name=Intercom&track_link_id=khM8GzpkYf6nta8Y46UGED&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 
-Delingslenke - ​[https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7)
+Delingslenke - [https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7)
 
 - [Legg til mapper og undermapper](https://eu.guidde.com/share/playbooks/o7pDsqiQCKPyTGBLifxKgE?track_link_name=Guidde%20videos%20article&track_link_id=aLvZdST9FaxbeYtZShRcoc&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [Opprett og del en samling](https://eu.guidde.com/share/playbooks/rcTnM584AAZPy6APbGyQS9?track_link_name=Guidde%20videos%20article&track_link_id=vruZ7x8jeTfCrHT6bS911i&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
@@ -19549,7 +20450,7 @@ Videoene i avspillingen blir ofte oppdatert med endringer på plattformen. Den n
 - Gif
 - Dokument PDF
 - Slides PDF
-- PPTX​
+- PPTX
 
 ## 3. Dele veiledningen
 
@@ -19984,11 +20885,11 @@ Annoteringer gjøres direkte på de relevante dokumentene, noe som gir presis vi
 
 > Industri: Helsekonstruksjon / BIM (Building Information Modeling) Persona: David, en BIM-koordinator for en stor generalentreprenør.
 
-**Scenario:** David administrerer den digitale konstruksjonsmodellen for en ny sykehusavdeling. Dette er et svært komplekst prosjekt som involverer dusinvis av spesialiserte team. Arkitektur-, struktur- og MEP-modellene (mekanisk, elektrisk, rørleggearbeid) oppdateres konstant av forskjellige konsulentfirmaer. Davids primære ansvar er å federalisere (kombinere) disse modellene i Catenda Hub for å identifisere og løse clashes _før_ de blir dyre problemer på byggeplassen.
+_Scenario:_ David administrerer den digitale konstruksjonsmodellen for en ny sykehusavdeling. Dette er et svært komplekst prosjekt som involverer dusinvis av spesialiserte team. Arkitektur-, struktur- og MEP-modellene (mekanisk, elektrisk, rørleggearbeid) oppdateres konstant av forskjellige konsulentfirmaer. Davids primære ansvar er å federalisere (kombinere) disse modellene i Catenda Hub for å identifisere og løse clashes _før_ de blir dyre problemer på byggeplassen.
 
 Under sin ukentlige koordineringskontroll må han undersøke et potensielt kritisk problem som er flagget av byggeplasslederen: støttestrukturen for en stor MRI-maskin på andre etasje stemmer kanskje ikke overens med de nyeste arkitektur- og elektriske planene.
 
-**Løsning ved bruk av Catenda Hub:** David bruker en presis arbeidsflyt innen Catenda Hub for å håndtere denne komplekse koordineringsoppgaven effektivt.
+_Løsning ved bruk av Catenda Hub:_ David bruker en presis arbeidsflyt innen Catenda Hub for å håndtere denne komplekse koordineringsoppgaven effektivt.
 
 ### **1. Sentralisering av data på siden "Modeller":**
 
@@ -20745,7 +21646,7 @@ For øyeblikket finnes det ingen offisiell måte å eksportere til IFC fra Navis
 
 > **Merk:** IFC 4x1 er trukket tilbake av BuildingSMART og støttes derfor heller ikke av Catenda Hub. Se [her](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support) hvilke filtyper som støttes i Catenda Hub
 
-1. Ressurs og Tildeling
+1\. Ressurs og Tildeling
 
 1. Ressurs - Høyreklikk for å legge til ressursperson og organisasjon
 1. Tildeling - Høyreklikk for å legge til tildelt person og organisasjon
@@ -21153,7 +22054,7 @@ Her er en sammenligning av fordelene og ulempene ved disse 2 variantene:
 
 Du vil kunne finne gode forslag om hvordan du oppretter en mappestruktur i [denne artikkelen](https://support.catenda.com/en/articles/8542598-structuring-documents). Du kan også finne et eksempel på en mappestruktur som brukes av Statens Byggedirekasjon i Bayern på følgende [lenke](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) Mappestrukturer kan settes opp veldig annerledes. Dette avhenger på den ene siden av kravene til prosjektet og det tilhørende prosjektteamet, og på den andre siden avhenger mappestrukturen av eventuell brukt plannøkkel.
 
-### 1.1 ​**Eksempel -** Separering av strukturer etter fase
+### 1.1 **Eksempel -** Separering av strukturer etter fase
 
 En mappestruktur settes opp basert på servicesfasene. Dette skiller tydelig hvilke dokumenter fra hvilke administrasjonsfaser som lagres i hvilke mapper. Men hva skjer med dokumenter som gjelder på tvers av alle servicesfaser? Du tenker kanskje at hvis dokumentene er organisert i mappene til de ulike servicesfasene, er denne informasjonen ikke lenger nødvendig i plannøkkelen, for eksempel. Men hva skjer når en plan skrives ut eller sendes digitalt til byggeplassen? Her også skal plannavn brukes for å identifisere det eksakte dokumentet. I det beste tilfellet danner mappestrukturen og plannøkkelen en enhet som fungerer for alle involverte parter gjennom hele forløpet av prosjektet.
 
@@ -21294,10 +22195,10 @@ _Saklister_ Dokumentelementbordtilgangstillatelser ved hjelp av to tilgjengelige
 
 - **Brukerspesifikk tilgangsvisning**
   Vis individuelle brukertilgangsnivåer direkte fra høyre informasjonsmeny for en saksliste eller valgt sak.
-  ​_Tilgang påkrevd:_ lesетilgang til sakslistten
+  _Tilgang påkrevd:_ lesетilgang til sakslistten
 - **Fullstendig teamkonfigurasjon**
   Fang opp skjermbildet av de komplette teamnivatillatelsesinnstillingene innenfor tilgangen til sakslistten.
-  ​_Tilgang påkrevd:_ Full tilgang til sakslistten eller prosjektadministrator
+  _Tilgang påkrevd:_ Full tilgang til sakslistten eller prosjektadministrator
 
 _Dokument- og modelltilgang_ Eksporter [tilgangsoversikten](https://support.catenda.com/en/articles/6660820-document-access-overview-page) for å registrere tillatelser for medlemmer og team. Tilgang påkrevd: Prosjektadministrator. Fordi hver modell er knyttet til et dokument i dokumentdelen, styres tilgangstillatelser for modeller av de underliggende dokumenttillatelsene og registreres ved hjelp av samme dokumenttilgangsoversikt eller tillatelseamenyer.
 
@@ -21309,7 +22210,7 @@ _Prosjektomfattende handlingstillatelser_ Dokumenter prosjektomfattende tillatel
   Prosjektmedlemmer kan utvide hver meny under tilgangskontroll for å se hvilke individuelle brukere som har tillatelse til å utføre hver handling.
 - **Fullstendig konfigurasjon**
   Administratorer kan åpne redigeringsdialogen for tilgang for å vise og administrere teamnivatillatelelseskonfigurasjoner.
-  ​_Tilgang påkrevd:_ Prosjektadministrator
+  _Tilgang påkrevd:_ Prosjektadministrator
 
 _Brukerprofiler og medlemsdetaljer_ Informasjon om prosjektmedlemmer og team er tilgjengelig for utvinning eller dokumentasjon, inkludert:
 
@@ -21389,11 +22290,11 @@ _Organisert hierarki_ Eksporterte filer er automatisk strukturert til mapper org
 
 Du vil vite at du endrer størrelse på en kolonne hvis du ser en lys grå boks som henger fra linjen mellom to overskrifter. Når du holder musen over linjen mellom to kolonneoverskrifter, kan du dra for å endre bredden på en kolonne.
 
-**Markørændring:** Du vil vite at du holder musen over riktig sted når markøren din endres til en størrelses-peker
+_Markørændring:_ Du vil vite at du holder musen over riktig sted når markøren din endres til en størrelses-peker
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dysbq1me/01-intro.png)
 
-**Dobbeltklikk:** Hvis du dobbeltklikker på dra-punktet, vil kolonnen automatisk utvides til størrelsen på innholdet.
+_Dobbeltklikk:_ Hvis du dobbeltklikker på dra-punktet, vil kolonnen automatisk utvides til størrelsen på innholdet.
 
 # Er det mulig å gi en bruker skrivebeskyttet tilgang?
 
@@ -21498,7 +22399,7 @@ Hvis størrelsen på en `.ifc` overstiger øvre grense, kan en `.ifczip`-fil opp
 - Komprimer `.ifc`-filen til en `.zip`-fil.
 - Endre filtypetillegget fra `.zip` til `.ifczip`
 
-> **Merk:** **Eksempel:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip ​`
+> **Merk:** **Eksempel:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip `
 
 ## 4. **Kontakt support**
 
@@ -21526,7 +22427,7 @@ Det er også mulig å finne prosjektvarsel for alle medlemmer/Teams i prosjektet
 
 Varselsystemet er nyttig for å holde styr på hva som skjer i bygningene og områdene du ønsker å følge med på. Det forteller deg om det har skjedd noe nytt – for eksempel hvis en ny revisjon av en bygning lastes opp eller hvis noen har tildelt deg en sak.
 
-**Varselinnstillinger:** Innstillinger for varsel kan du finne som en underside til Varsel. Her finner du en filterliste for hvilket varsel du ønsker å motta. <a class="intercom-content-link" href="" target="_blank">Se her</a>
+_Varselinnstillinger:_ Innstillinger for varsel kan du finne som en underside til Varsel. Her finner du en filterliste for hvilket varsel du ønsker å motta. <a class="intercom-content-link" href="" target="_blank">Se her</a>
 
 # Hvor finner jeg GUID for IFC-objektet?
 
@@ -21817,7 +22718,7 @@ Egendefinerte feltverdier vises i PDF-eksporten av saker
 
 Egendefinerte felt er ikke ennå inkludert i den eksporterte BCF-en. Egendefinerte felt vil være en del av BCF 4-standarden når den blir utgitt. Etter utgivelsen vil vi og andre BCF-verktøy som følger standarden arbeide med å gjøre feltet tilgjengelig for utveksling.
 
-### 3.3 **​Sak Excel-eksport**
+### 3.3 **Sak Excel-eksport**
 
 En kolonne vil bli lagt til for hvert egendefinert felt i sakbrettet.
 
@@ -22375,6 +23276,380 @@ Hvis en enhet har både et dedikert GPU og et integrert GPU som er en del av CPU
 
 Det anbefales å konfigurere standard oppløsnings- og oppdateringsfrekvensinnstillinger for hver av skjermene som er tilgjengelige for operativsystemet.
 
+# Tabeller på Catenda
+
+På sider hvor flere elementer vises, vises informasjon ofte i tabeller. Ulike måter å arbeide med tabeller på, som ofte er like på tvers av ulike tabeller, er beskrevet i denne artikkelen. I eksemplet nedenfor vises tabellen på medlemssiden som et eksempel på hvordan en tabell på Catenda kan se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/01-intro.png)
+
+## 1. Standardatferd
+
+I følgende tabeller vises all informasjon som standard
+
+- Inspeksjonspanel
+  - [Mengdeberegning (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
+  - [Justeringer](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
+  - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
+  - Navngivningskonvensjoner
+- Bibliotek
+  - [Lenkerbibliotek](https://support.catenda.com/en/articles/4670254-links-library)
+  - [Sharepoint-bibliotek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+  - [Dropbox-bibliotek](https://support.catenda.com/en/articles/8065645-libraries-page)
+  - [Egenskapsverdi-bibliotek](https://support.catenda.com/en/articles/4670252-property-value-library)
+  - [Klassifikasjonsbibliotek](https://support.catenda.com/en/articles/4670255-classification-library)
+- Organisasjonsverktøy
+  - [Brukersiden](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+  - [Prosjektsiden](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+  - [Prosjektmedlemskapssiden](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+
+I følgende tabeller vises en standardkonfigurasjon når siden lastes inn:
+
+- Modeller
+  - [Objektsiden](https://support.catenda.com/en/articles/12352750-objects-page)
+
+I følgende tabeller vises endringer som er gjort i standardtabellkonfigurasjonen når siden lastes inn:
+
+- [Saker](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabellvisning)
+- [Modeller](https://support.catenda.com/en/articles/4670286-models-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
+- [Dokumenter](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
+  - [Oversikt over dokumenttilgang](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+- [Rapporter](https://support.catenda.com/en/articles/12303098-reports-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
+- [Merkelapper](https://support.catenda.com/en/articles/4670265-labels-page) (Merkelapper-fane, Gruppe-fane)
+- [Egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+- [Medlemssiden](https://support.catenda.com/en/articles/11926821-members-page) (Medlemmer-fane, Team-fane)
+
+Endringer i tabellkonfigurasjonen påvirker bare personen som gjør endringen, og ikke alle medlemmer i prosjektet. Når en endring gjøres i en tabell, påvirker endringen hvordan tabellen ser ut i alle prosjekter.
+
+Tabellen nedenfor beskriver innstillinger som kan konfigureres for en tabell.
+
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="padding: 8px;"><h1 id="h_aa1a623a85">Innstillinger</h1></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1eedf14b1">Hva</h2></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_691544b252">Hvor</h2></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fa7d3a8228">Kolonneoversikt</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Et fast antall kolonner er aktivert som standard for hver tabell.</p><p>Tabeller med mange kolonner kan inkludere kolonner som er deaktivert som standard.</p><p>Kolonner som er deaktivert som standard, må aktiveres med kolonnelisten for å vises</p><div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;"><p><b>Merk:</b> Egendefinerte kolonner som egendefinerte feltkolonner er alltid skjult når siden lastes inn.</p></div></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolonnelisten</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_ea66b1d6d8">Sortert kolonne og sorteringsretning</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Tabeller kan sorteres etter én kolonne av gangen. Klikk på toppraden i en sorterbar kolonne for å konfigurere hvilken kolonne tabellen sorteres etter og i hvilken retning den sorteres.</p><p>Etter at du har sortert etter en kolonne, vil radene i tabellen omorganiseres i henhold til <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8487788-sorting-order-of-lists">typiske sorteringsregler rundt Catenda</a>.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Toppraden</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_321a81f32f">Kolonneorden</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolonner har en fast rekkefølge som standard.</p><p>Omorganisering av kolonner endrer den konfigurerte kolonneordenen</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolonnelisten og toppraden</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_feb5f7b2ab">Kolonnebredde</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Standard kolonnebredder justeres for å vise viktige deler av kolonneinnholdet.</p><p>Som standard kan kolonner kanskje ikke vise det totale innholdet i en kolonne</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Toppraden</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7a5beb9bd0">Radhøyde</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Radhøyden kan endres med radhøydeknappene øverst til venstre i en tabell.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Tabellsynlighetsinnstillinger</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1fe2adb04">Høyre meny-popover</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Etter at du har valgt en rad og åpnet høyremenyen på en side, vil høyremenyen åpne seg igjen neste gang en rad velges til den lukkes.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Høyre menyknapp</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f502376bea">Enkelt panel eller multi-panel</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Hver tabell har to konfigurasjoner.</p><p>En når tabellen er i det eneste panelet som er åpent, og en når flere paneler er åpne.</p><p><br/>​</p><p></p><p><i>Konfigurasjon for enkelt panel</i></p><p>Hvis en tabell er i innholdspanelet, og innholdspanelet er det eneste panelet som er åpent, vises konfigurasjonen for enkelt panel.</p><p><br/>​</p><p></p><p><i>Konfigurasjon for multi-panel</i></p><p>Hvis en tabell er i innholdspanelet og et annet panel som 3D- eller informasjonspanelet åpnes samtidig, vises multi-panel-konfigurasjonen.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Panelknapp</p></td></tr></tbody></table></div>
+
+## 2. Valgoversikt
+
+Mot øverste venstre hjørne av en tabell vises en avkryssingsboks. Til høyre for avkryssingsboksen vises en oversikt over gjeldende antall valgte rader og totalt antall rader på gjeldende tabellnivå.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/02-selection-overview.png)
+
+### 2.1 Velg alle
+
+I noen tabeller kan du, når det er mange rader, velge alle rader på en gang. I andre tabeller kan du bare velge radene som er lastet inn for øyeblikket. Klikk på avkryssingsboksen for å velge alle rader i tabellen. Hvis høyremenyen ble åpnet tidligere, åpnes den igjen når en rad velges.
+
+### 2.2 Laste inn flere rader ved scrolling
+
+I noen tabeller blir bare radene som er lastet inn for øyeblikket valgt. Vanligvis lastes 100 rader inn om gangen. Scrolling forbi 100 rader fører til at flere rader lastes inn, og dermed kan flere rader velges på en gang.
+
+### 2.3 Valgte elementhandlinger
+
+Etter at du har valgt eller åpnet innholdet i en rad i tabellen, kan en handlingsmeny for valgte elementer vises i valgoversikten. Slik kan handlingsmenyen for valgte elementer se ut i dokumenttabellen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/03-selected-item-actions.png)
+
+Handlingsmenyen for valgte elementer kan inneholde ulike handlinger avhengig av innholdet i raden og tilgangen til brukeren som foretar valget. Mulige handlinger for hver tabell finner du her:
+
+- [Saksliste valgte varslingshandlinger](https://support.catenda.com/en/articles/4670284-topic-board-actions#h_b5c00c149b)
+- [Valgte elementhandlinger for modellsiden](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed)
+- [Valgte elementhandlinger for dokumentsiden](https://support.catenda.com/en/articles/4670288-document-structure-actions#h_fb4e9ef375)
+
+### 2.4 Fjern valget fra alle
+
+Etter at du har valgt en rad, aktiveres avkryssingsboksen for valgoversikten med et minustegn. Her er et eksempel på hvordan det kan se ut i dokumenttabellen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/04-deselecting-all.png)
+
+Klikk på minustegnet for å fjerne valget fra alle valgte rader.
+
+## 3. Tabellsynlighetsinnstillinger
+
+Mot øverste høyre hjørne av en tabell finner du tabellsynlighetsinnstillingene. Slik kan tabellsynlighetsinnstillingene se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/05-table-visibility-settings.png)
+
+### 3.1 Eksport
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/06-export.png)
+
+Tabeller kan eksporteres ved å klikke på eksportknappen.
+
+### 3.2 Visning
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/07-view.png)
+
+_Listevisning -_ Standard
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/08-view.png)
+
+I listevisningen er informasjon om elementer arrangert mot toppen/bunnen/venstre/høyre av en større boks.
+
+_Tabellvisning_
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/09-view.png)
+
+I tabellvisningen er informasjon om elementer arrangert i rader og kolonner.
+
+### 3.3 Radhøyde
+
+Radhøydeknappene endrer høyden på hver rad i tabellen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/10-row-height.png)
+
+_Standardvisning_ En radhøyde som fungerer godt for de fleste skjermer vises.
+
+_Kompakt visning_ Mellomrommet over og under elementer i en rad fjernes, noe som reduserer radhøyden.
+
+For små skjermer eller skjermer med lav oppløsning kan bare et lite antall rader vises med standard radhøyde. I denne situasjonen er kompakt visning det beste alternativet.
+
+### 3.4 Kolonnelisten
+
+Øverst til høyre på en tabell ser du kolonnelisten. Slik kan kolonnelisten se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/11-column-dropdown.png)
+
+Med kolonnelisten kan kolonnene i en tabell omorganiseres, aktiveres og deaktiveres. Slik kan kolonnelisten se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/12-column-dropdown.png)
+
+Mot toppen av kolonnelisten kan det vises alternativer som påvirker alle kolonner. Her er et eksempel på hvordan toppen av kolonnelisten kan se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/13-column-dropdown.png)
+
+_Slå visning av/på_ Når veksleknappen er aktivert, vises alle kolonner. Når veksleknappen er halvveis, vises noen kolonner. Når veksleknappen er deaktivert, vises ingen kolonner. Når en veksleknapp har en lysere skygge, kan den bare aktiveres eller deaktiveres når alt eller ingenting er aktivert eller deaktivert.
+
+_Filter_ Skriv i filterfeltet for å filtrere etter en bestemt kolonne.
+
+_Tilbakestill innstillinger_ Klikk på knappen Tilbakestill innstillinger for å tilbakestille kolonnene til deres standardkonfigurasjon.
+
+_Utvid/trekk sammen kolonnetypen_ Utvid eller trekk sammen en kolonnetypen med pileknappen til venstre for å vise eller skjule alle kolonner av denne typen.
+
+_Draanker_ Kolonner som kan omorganiseres kan vise et ruteikon mot høyre for kolonnenavnet.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/14-column-dropdown.png)
+
+Markøren kan endres til en hånd når du holder over draankeret. Etter å ha greid rutenettet vises en draanker under markøren, og den holdte kolonnen kan vises i en lysere skygge.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/15-column-dropdown.png)
+
+Når draankeret dras til en annen kolonne, vises den holdte kolonnen etter kolonnen det blir dratt til. Slipp eller klikk på draankeret for å låse den holdte kolonnen på plass og omorganisere kolonnelisten.
+
+### 3.5 Tabellinnstillinger
+
+Klikk på knappen for tabellinnstillinger for å aktivere eller deaktivere tabellinnstillinger
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/16-table-settings.png)
+
+## 4. Rader
+
+I en tabell vises elementer i rader som kan oppføre seg på forskjellige måter.
+
+## 5. Rader - Toppraden
+
+Toppraden er den første raden i tabellen.
+
+### 5.1 Toppraden-interaksjon
+
+Når du holder musepeikeren over ulike deler av toppraden, kan det indikere hvordan den kan samhandles med.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/17-header-row-interaction.png)
+
+### 5.2 Sortering
+
+Hvis en kolonne kan sorteres, kan en pil opp/ned sees til høyre for kolonnenavnet
+
+_Markørendring_ Markøren vil være en peker.
+
+_Sorteringspiler_ Sorteringspiler kan indikere hvilken kolonne som for øyeblikket er sortert. Sorteringspiler kan vise hvilken retning radene er sortert i.
+
+_Klikk for å sortere_ Klikk på hodecellen i en sorterbar kolonne for å sortere tabellradene i henhold til kolonnen som hodecellen er i. Etter sortering etter en kolonne, vil radene i tabellen bli omordnet i henhold til [typiske sorteringsregler rundt Catenda](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists). Klikk på hodecellen i den sorterte kolonnen igjen for å sortere den i motsatt retning. Sortering av en kolonne oppdaterer sorteringspreferansene for tabellen.
+
+> **Merk:** Tabeller kan bare sorteres etter én kolonne om gangen
+
+### 5.3 Breddeendring
+
+Breddeendring-ankre ser ut som en tykk linje omtrent halve høyden av toppraden.
+
+_Markørendring_ Når du holder musepeikeren over breddeendring-ankeret, endres markøren til en pil til venstre-høyre kjent som en endringspeker.
+
+_Dra for å justere_ Dra på breddeendring-ankeret i toppraden for å endre bredden på kolonnen.
+
+_Dobbeltklikk for auto-justering_ Dobbeltklikk på breddeendring-ankeret for å automatisk justere kolonnen til venstre for ankeret basert på innholdet i den kolonnen. Når kolonneinnholdet er så langt at det blir kuttet av, men informasjonen som trengs er på slutten av innholdet, kan det være nyttig å endre størrelse på kolonnen.
+
+### 5.4 Kolonnerekkefølge-justering
+
+Dra på hodecellen i en kolonne for å omorganisere kolonnerrekkefølgen. Dra hodecellen i en kolonne utenfor tabellen for å skjule den kolonnen. For å få kolonnen tilbake, må du aktivere den igjen i kolonneerullemenyen.
+
+## 6. Rader - Oppdatert radinformasjon
+
+Når informasjonen i en rad oppdateres utenfor den nåværende nettleserfanen, vises en informasjonsbar mot bunnen av tabellen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/18-rows-updated-row-information.png)
+
+Klikk på Hent oppdateringer for å oppdatere radene i tabellen med den nye informasjonen. Når Hent oppdateringer klikkes, glir nye rader inn og slettede rader glir ut. Celler med eksisterende informasjon som endres kort, blinker med en grønn bakgrunn.
+
+## 7. Rader - Rad nederst
+
+Kolonner med numeriske verdier kan oppsummeres i raden nederst i tabellen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/19-rows-bottom-row.png)
+
+Eksempler på kolonner som kan oppsummeres er egendefinerte feltkolonner og objektegenskapskolonner.
+
+## 8. Flytte ved å dra
+
+For å endre plasseringen av en kolonne eller en rad, slipp dragankeret på den nye plasseringen.
+
+### 8.1 Endre kolonnekonfigurasjon ved dra
+
+Klikk og dra på hodecellen i en kolonne for å begynne å endre kolonnekonfigurasjonen. Etter at du har grabbet kolonnen, vil et dragankert dukke opp under markøren. Dragankeret kan inneholde navnet på kolonnen og et øyeikon som indikerer om kolonnen vil være aktivert eller deaktivert når ankeret slippes.
+
+_Dra ankeret for å omorganisere en kolonne_ Når dragankeret dras over en kolonnerand eller ut av tabellen, vil kolonnen som dras, bli fjernet fra dens nåværende plassering. Når dragankeret holdes over en annen plassering i tabellen, vil kolonnen vises der. Slipp dragankeret på ønsket plassering for å sette inn den holdte kolonnen på den plasseringen.
+
+_Dra ankeret for å fjerne en kolonne_ Når dragankeret dras utenfor tabellen, vil synlighetsikonet bli til et øye som er gjennomstreket, og kolonnen vil deaktiveres i tabellen. Slipp eller klikk for å deaktivere den holdte kolonnen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/20-change-column-configuration-by-dragging.png)
+
+### 8.2 Flytt rader ved dra
+
+Når radcellen i titelkolonnen (ofte kalt navn) holdes over, kan et rutenett med prikker dukke opp til høyre for tittelen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/21-move-rows-by-dragging.png)
+
+Hold musepeikeren over rutenettet og se at markøren endres til en hånd som indikerer at raden kan grabbes. Etter at du har grabbet rutenettet, dukker et dragankert opp under markøren. Dragankeret kan inneholde titlene på raden(e) som ble valgt da raden ble grabbet.
+
+_Dra ankeret for å flytte en rad_ Mens rad(er) dras inne i tabellen, blir de uthevet og gitt en lysere farge som indikerer at noe kan skje i tabellen.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/22-move-rows-by-dragging.png)
+
+Interaktive rader blir uthevet med en annen bakgrunn når dragankeret dras over den interaktive raden.
+
+### 8.3 Slipp dragankeret
+
+Når dragankeret slippes på toppen av en interaktiv rad, kan flyttedialoggboksen åpnes. Selv om rutenett-ikonet til én rad ble dratt, vil det være som om flyttehandlingen ble brukt for radene som ble valgt i tabellen. Når dragankeret dras over en ikke-interaktiv rad eller utenfor tabellen og slippes, skjer ingen endring i tabellen.
+
+### 8.4 Tabellilgjengelighet
+
+Det er mulig å flytte kolonner i følgende tabeller:
+
+- Modeller
+  - [Objekter-side](https://support.catenda.com/en/articles/12352750-objects-page)
+- Organisasjonsverktøy
+  - [Prosjekter-side](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+  - [Prosjektmedlemskap-side](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+
+- [Saker](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabelvisning)
+- [Modeller](https://support.catenda.com/en/articles/4670286-models-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
+- [Dokumenter](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
+  - [Dokumenttilgangsoversikt](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+- [Rapporter](https://support.catenda.com/en/articles/12303098-reports-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
+- [Merkelapper](https://support.catenda.com/en/articles/4670265-labels-page) (Merkelapper-fane, Gruppe-fane)
+- [Egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+- [Medlemmer-side](https://support.catenda.com/en/articles/11926821-members-page) (Medlemmer-fane, Teams-fane)
+
+## 9. Samhandle med rader ved å holde over
+
+Når du holder musepeikeren over ulike deler av tabellen, kan det indikere hvordan den kan samhandles med. Rader som ikke holdes over, kan ha en hvit bakgrunn.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/23-interacting-with-rows-by-hovering.png)
+
+### 9.1 Radholding
+
+Når du holder musepeikeren over hvor som helst i en rad, kan den raden utheves med en annen bakgrunn.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/24-row-hover.png)
+
+### 9.2 Boksholding
+
+Når en klikkbar boks i en rad holdes over, kan markøren endres til en peker, og boksen kan få en mørkere omriss og skygge rundt seg.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/25-box-hover.png)
+
+### 9.3 Tekstholding
+
+Når klikkbar tekst i en rad holdes over, kan markøren endres til en peker. Teksten kan bli understreket når den holdes over, og noen nettlesere kan vise URL-adressen til siden som skal åpnes mot nedre venstre.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/26-text-hover.png)
+
+## 10. Samhandle med rader ved klikking
+
+Ulik oppførsel kan oppstå når du klikker på innholdet i en rad.
+
+### 10.1 Velg en rad
+
+Hvis høyremenyen ble åpnet tidligere, åpnes den igjen når en rad velges.
+
+_Tomt område_ Klikk én gang på tomt område i raden for å velge den. Hvis høyremenyen ble åpnet tidligere, åpnes den igjen når en rad velges. Klikk to ganger raskt etter hverandre for å åpne innholdet i raden. Klikk på raden igjen etter en liten stund for å fjerne valget.
+
+_Avmerkingsboks_ Velg avmerkingsboksen i avmerkingsbokskolonnen for å velge raden. Med avmerkingsboksen kan raden velges uten å måtte bekymre seg for å ved et uhell åpne innholdet i raden.
+
+_Radregistreringsvalg_ Hold `shift` og klikk for å velge alle radene mellom gjeldende rad og den nærmeste valgte raden.
+
+_Radvalgredigering_ Hold `control` og klikk for å redigere enkelt elementer i valget
+
+### 10.2 Åpne radinnhold
+
+Tekst i rader med innhold som kan forhåndsvises, kan klikkes for å åpne forhåndsvisningen av innholdet i raden på en ny side.
+
+_Åpne radikonner_ Ikoner i rader med innhold som kan forhåndsvises, kan klikkes for enten å åpne forhåndsvisningen av innholdet i raden på en ny side eller i en popupdialogboks. Klikking på ikoner i rader uten innhold som kan forhåndsvises, velger raden i stedet.
+
+### 10.3 Bokser i rader
+
+Det kan finnes flere typer bokser i en rad. Hver boks kan ha sitt eget ikon eller sin egen farge.
+
+_Merkeboks_ Merkeboxer har et merkeikon i fargen på den merkingen. Når en merkeboks klikkes, kan den legges til gjeldende filter. Slik kan en merkeboks se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/27-boxes-in-rows.png)
+
+_Status- eller typeboks_ Status- og typeboxer har en sirkel med fargen på statusen eller typen. Når en statusboks klikkes, kan den legges til gjeldende filter. Slik kan en status- eller typeboks se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/28-boxes-in-rows.png)
+
+_Teamboks_ Teamboxer er farget grønt for teammedlemmer og oransje for administratorteam. Slik kan en teamboks se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/29-boxes-in-rows.png)
+
+_Vis mer-boks_ Hvis det er flere bokser enn det som kan passe inn i kolonnebredden på en radcelle, vises en boks med tre prikker:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/30-boxes-in-rows.png)
+
+Klikk på denne boksen for å se de gjenværende boksene i radcellen for denne kolonnen.
+
+_Viserboks_ 2D-, 3D- og zoom til omfang-bokser kan vises. Klikk på 2D-boksen for å laste inn innholdet i raden i 2D-viseren. Klikk på 3D-boksen for å laste inn innholdet i raden i 3D-viseren. Etter lasting av innholdet i raden i 3D-viseren blir zoom til omfang-knappen tilgjengelig og kan klikkes for å posisjonere kameraet i 3D-viseren slik at hele innholdet i raden er i visningsfeltet. Slik kan viserboxer se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/31-boxes-in-rows.png)
+
+_Objektboks_ Antallet objekter som er koblet til raden vises. Slik kan en objektboks se ut:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/32-boxes-in-rows.png)
+
+Når en objektboks klikkes, kan følgende kontekstmeny åpnes.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/33-boxes-in-rows.png)
+
+Velg objekter 3D-panelet åpnes og modellen(e) som objektene tilhører, lastes inn i 3D-viseren i tillegg til eventuelle modeller som var åpne tidligere. Etter at modellene har lastet inn, blir gjeldende valg tømt. Objektene som er koblet til raden blir deretter valgt.
+
+Isoler objekter 3D-panelet åpnes og modellen(e) som objektene tilhører, lastes inn i 3D-viseren i tillegg til eventuelle modeller som var åpne tidligere. Etter at modellene har lastet inn, blir gjeldende valg tømt. Objektene som er koblet til raden blir deretter isolert.
+
+Last som spørring 3D-panelet åpnes. Alle modeller som tidligere ble lastet inn i 3D, blir helt tømt (ikke skjult) fra 3D-viseren. Bare objektene som er koblet til raden (disse kan tilhøre flere modeller) lastes deretter inn i 3D-viseren.
+
+### 10.4 Kopier radinnhold
+
+Sekundært radinnhold kan kopieres til utklippstavlen
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/34-copy-row-content.png)
+
+|
+v
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/35-copy-row-content.png)
+
+## 11. Scrollstolper
+
+### 11.1 Vertikal scrollstolpe
+
+Dra på den vertikale scrollstolpen for å scrolle saket vertikalt
+
+### 11.2 Horisontal scrollstolpe
+
+Dra på den horisontale scrollstolpen for å scrolle saket horisontalt
+
 # 3D forhåndsvisning av dokumenter
 
 > Forhåndsvis modellen din direkte i dokumentdelen av Bimsync.
@@ -22467,7 +23742,7 @@ Når arbeidsflytene for delt status er aktivert, vil Catenda Site bare servere p
 
 Vår ShareLink-funksjon er oppgradert ved å legge til **Teams** og **"Alle brukere"** til alternativene for valg av mottakere. Disse e-postvarsler kan nå raskt opprettes for å få oppmerksomhet til sider eller innhold i et Bimsync-prosjekt.
 
-**Bruke det nye mottakervalget:**
+_Bruke det nye mottakervalget:_
 
 <div class="intercom-container"><a href="https://cloud.headwayapp.co/changelogs_images/images/big/000/070/489-a75cecb2ace5e8d58ced9385297d0915c6760921.png" target="_blank"><img alt="Sharelink update w teams and all users.png" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t7mvne01/inline-529a2f8c05de.png"/></a></div>
 
@@ -22523,7 +23798,7 @@ _[Strukturering av dokumenter](https://support.catenda.com/en/articles/8542598-s
 
 _Modeller_ [3D-viser](https://support.catenda.com/en/articles/8227211-3d-viewer) [2D-viser](https://support.catenda.com/en/articles/4854537-2d-viewer) [Søk](https://support.catenda.com/en/articles/4854514-queries)
 
-_Informasjonspanel_ [Informasjonspanel](https://support.catenda.com/en/articles/8238584-information-panel) _​_
+_Informasjonspanel_ [Informasjonspanel](https://support.catenda.com/en/articles/8238584-information-panel)
 
 _Innstillinger_ [Merkelappersde](https://support.catenda.com/en/articles/4670265-labels-page) [Opprett et team](https://support.catenda.com/en/articles/4670264-creating-a-team)
 
@@ -22654,8 +23929,6 @@ _2D og 3D-visere_ [Mengdeberegning (QTO)](https://support.catenda.com/en/article
 
 _Informasjonspanel_ [Inspeksjonsmeny](https://support.catenda.com/en/articles/4670285-inspect-menu) [Informasjonspanel](https://support.catenda.com/en/articles/8238584-information-panel)
 
-_​_
-
 _Innstillinger_
 
 _Programtillegg og integrasjoner_ [Revit IFC Export Manual](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual) [IFC Export Archicad Manual](https://IFC%20Export%20Archicad%20Manual)
@@ -22736,9 +24009,9 @@ Filtrene er plassert i det venstre panelet:
 
     <div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-60a1bb50b7da.png" style="height: auto;" width="3360"/></div><div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-84e66eb66553.png" style="height: auto;" width="3360"/></div>
 
-   Det er to muligheter:
+Det er to muligheter:
 
-   **A.** Du kan velge en fane i panel A: I dag, i går, for en uke siden ...
+**A.** Du kan velge en fane i panel A: I dag, i går, for en uke siden ...
 
     <div class="intercom-container"><img height="530" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-2a7e66b298c6.png" style="height: auto;" width="280"/></div>
 
@@ -22752,7 +24025,7 @@ Du kan aktivere og deaktivere filteret ditt når som helst, ved å merke av/fjer
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/02-intro.png)
 
-**Kort video -**
+_Kort video -_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/03-intro.gif)
 
@@ -22888,7 +24161,6 @@ _Ofte stilte spørsmål_
 
 - [Tabeller på Catenda](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
 - [Egendefinert medlemsinformasjon](https://support.catenda.com/en/articles/11769670-custom-member-information)
-  ​
 
 ### 1.2 **Artikler som har endret:**
 
@@ -22982,7 +24254,7 @@ Takk for din verdifulle tilbakemelding har vi kunnet løse mange saker som du ka
 
 ### 2.4 **Prosjektinnstillinger**
 
-- Det er nok en gang mulig å lagre filtre på varslingssider​
+- Det er nok en gang mulig å lagre filtre på varslingssider
 
 ## 3. **Nye videoer i spillelister**
 
@@ -23362,7 +24634,6 @@ Takk for verdifulle tilbakemeldinger har vi kunne eliminere mange saker som du k
   Navn på egenskaper og egendomsett som har punktum i dem vises nå riktig i hodecellen i kolonnen på objektsiden i stedet for bare alt etter punktumet som vises. Det er nå også mulig å søke på disse typene egenskapsnavn.
 - **[Modellside] Uendelig spinner for delte revisjoner etter å være deaktivert**
   I prosjekter der delte revisjoner ble deaktivert etter at delte modellrevisjoner ble lastet opp mens delte revisjoner var aktivert, vil uendelige spinnere ikke lenger være synlige i viserkolonnen på modellsiden.
-  ​
 
 ### 3.4 **Rapporter**
 
@@ -23566,6 +24837,45 @@ _Catenda dataeksport_ Catenda dataeksport er nå tilgjengelig og gir fleksibel g
 
 _Tekla programtillegg v1.5.0_ Støtte for Tekla 2026
 
+# Endringslogg 2 Catenda - Juli 2023
+
+## 1. Artikler
+
+_Nye artikler:_ Catenda Hub [Bimsync er nå Catenda Hub](https://support.catenda.com/en/articles/7890769-bimsync-is-now-catenda-hub) [Landingsside](https://support.catenda.com/en/articles/8400797-projects-page) [Sidepanel på et problemstyreboard](https://support.catenda.com/en/articles/6941224-side-panel-in-an-issue-board) [Eksporter all prosjektdata](https://support.catenda.com/en/articles/7946690-exporting-all-project-data) [Navngivningskonvensjoner-side](https://support.catenda.com/en/articles/7832559-naming-conventions-page) [Enkleste navngivningskonvensjon](https://support.catenda.com/en/articles/7845360-simplest-naming-convention) [Middels navngivningskonvensjon](https://support.catenda.com/en/articles/7936943-medium-naming-convention) [Avansert navngivningskonvensjon](https://support.catenda.com/en/articles/7936947-advanced-naming-convention) Catenda Site [Last ned mobilappen Catenda Site 📲](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site) [Dokumenter - Catenda Site](https://support.catenda.com/en/articles/7774637-documents-catenda-site) [Dashbord - Catenda Site](https://support.catenda.com/en/articles/7213817-dashboard-catenda-site) [Navigasjonsmeny - Catenda Site](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) [Prosjekter-side - Catenda Site](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) [Innstillinger - Catenda Site](https://support.catenda.com/en/articles/7733833-settings-catenda-site) [Problemer-side - Catenda Site](https://support.catenda.com/en/articles/7734073-issues-page-catenda-site) [2D / 3D - Catenda Site](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site) [Frakoblet modus i Catenda Site](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site) [3D-viser - Catenda Site](https://support.catenda.com/en/articles/7744403-3d-viewer-catenda-site) [2D-viser - Catenda Site](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site) [Merkelappefilter - Catenda Site](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site) _Artikler som har endret seg:_ [Prosjektinnstillinger-side](https://support.catenda.com/en/articles/4670273-project-settings-page) [Systemkrav og optimisering](https://support.catenda.com/en/articles/6921941-system-requirements-and-optimization) [Modeller-side](https://support.catenda.com/en/articles/4670286-models-page) [Modell-side](https://support.catenda.com/en/articles/4670270-model-page)
+
+## 2. Løste problemer
+
+_Catenda Hub_
+
+- [Modeller](https://support.catenda.com/en/articles/4670286-models-page) med japanske tegn lastes nå ned med riktig navn
+- [Antallsoppgjør](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto) har nå vekslende svart og hvit bakgrunnsspalter for bedre lesbarhet
+- [Importering](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) innsjekking - Importeringer med små feil, som et komma her, en parentes der, vil nå bli godtatt selv om filen er skrevet eller eksportert med en liten feil.
+- [Tre-panelet](https://support.catenda.com/en/articles/4670290-the-tree-structures-in-the-ifc-models) viser nå alltid den riktige modellen til et objekt hvis det objektet er valgt. Tidligere var det noen tilfeller der tremenyen ikke alltid oppdaterte til riktig modell
+- Det er nå mulig å lagre et utvalg med utvalgsmeny i inspeksjonspanelet.
+
+Et utvalg av objekter kan også farges. Dette utvalget kan lagres i et øyeblikksbilde eller bokmerke.
+
+- Serverne våre kan nå håndtere [importering](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) av filer med mye geometri som tidligere ville oppnå tidsavbrudd.
+- [3D-knappen](https://support.catenda.com/en/articles/4670286-models-page#h_82b7400edc) forblir aktiv igjen når flere modeller lastes
+- Objekt kan igjen slettes og gjøres gjennomsiktige.
+- Brukere med tilgang til mapper på toppnivå i dokumentdelen vil nå kunne se mappene sine selv om det ikke er gitt tilgang til alle brukere i [dokumentinnstillinger](https://support.catenda.com/en/articles/7831371-document-settings).
+
+## 3. Programtillegg og integrasjoner
+
+_[Revit-programtillegg](https://support.catenda.com/en/articles/4670334-catenda-hub-revit-plugin)_ Versjon 1.0.8 av Revit-programtillegget vil inneholde:
+
+- Teams-filtrering
+- Alternativer for egendefinert eksport fungerer igjen
+- Oppdatering av rebranding
+
+_[Archicad-programtillegg](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)_ Versjon 1.1.9 nå tilgjengelig for Windows og Mac Oppdatering av rebranding
+
+_[Tekla-programtillegg](https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin)_ Versjon 1.1.1 nå tilgjengelig for: Tekla 2022 Tekla 2021 Tekla 2020 Oppdatering av rebranding
+
+_[Navisworks-programtillegg](https://support.catenda.com/en/articles/5085987-catenda-hub-navisworks-plugin)_ Versjon 1.3.0 nå tilgjengelig. Oppdatering av rebranding
+
+_Desktop connector_ Versjon 1.0.0.0 nå tilgjengelig på forespørsel
+
 # Endringslogg 3 Catenda - oktober 2023
 
 > Ny informasjon og mindre endringer
@@ -23682,6 +24992,158 @@ _Stasjonær tilkobling:_ [Ny versjon 1.0.4.0](https://hub.catenda.com/share/coll
 _SharePoint-plugin:_ [Catenda SharePoint 1.0.0.0](https://appsource.microsoft.com/en-us/product/office/WA200005981?tab=Overview)
 
 - Ny utgave
+
+# Endringslogg 4 Catenda - Januar 2024
+
+> Ny informasjon og mindre endringer
+
+Hallo alle sammen,
+
+det har vært et par fine måneder siden siste endringslogg. Håpet dere alle hadde en fin vinterferien! 🎄🤶🧑‍🎄❄️ Og velkommen til 2024!🎇 Håpet vi kan gjøre mange endringer og forbedringer i år også! I denne artikkelen finner du oppdateringer om følgende: [Artikler](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [saker løst](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [Nye utgivelser](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)
+
+## 1. **Artikler**
+
+Når nye funksjoner lanseres og feil utbedres, oppdateres artikler med endringene som gjøres. Se følgende artikler som er laget og endret siden siste endringslogg.
+
+### 1.1 **Nye artikler:**
+
+_Kom i gang og FAQ_ [Sorteringsrekkefølge av lister](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) [Strukturering av dokumenter](https://support.catenda.com/en/articles/8542598-structuring-documents)
+
+_Hovedside_ [Organisasjonsside](https://support.catenda.com/en/articles/8281910-organizations-page)
+
+_Saker_ [Sakhistorikk](https://support.catenda.com/en/articles/8613038-issue-history)
+
+_Dokumenter_ [Dokumenter](https://support.catenda.com/en/articles/8461918-documents) [PDF-sammenligning](https://support.catenda.com/en/articles/8461650-pdf-compare) [Filtrering på gjennomgangssiden](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+
+_Modeller og 3D_ [Bokmerke](https://support.catenda.com/en/articles/8471481-bookmark)
+
+_Prosjektinnstillinger_ [Opprett egendefinert felt](https://support.catenda.com/en/articles/8445575-creating-a-custom-field) [Side for egendefinert felt](https://support.catenda.com/en/articles/8445588-custom-field-page)
+
+### 1.2 **Artikler som har endret seg:**
+
+Kom i gang og FAQ [Lagre filtre](https://support.catenda.com/en/articles/8551755-saving-filters)
+
+Saker [Saksliste ACL](https://support.catenda.com/en/articles/4670296-issue-boards-acl)
+
+Dokumenter [Dokumentside](https://support.catenda.com/en/articles/8204673-documents-page) [Modeller som dokumenter](https://support.catenda.com/en/articles/8064548-models-as-documents) [Filtrering på dokumentsiden](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+
+Modeller [Bokmerker-side](https://support.catenda.com/en/articles/4670281-bookmarks-page) [Opprett nytt bokmerke](https://support.catenda.com/en/articles/4670269-creating-a-new-bookmark) [Modeller som dokumenter](https://support.catenda.com/en/articles/8064548-models-as-documents)
+
+Bibliotek <a class="intercom-content-link" href="" target="_blank">Lenkekatalog</a>
+
+Innstillinger [Medlemsside](https://support.catenda.com/en/articles/4670291-members-page)
+
+## 2. **Feil løst**
+
+Takk for dine verdifulle tilbakemeldinger har vi kunnet rette mange saker som du kanskje eller kanskje ikke har lagt merke til eksisterte. Nedenfor er en liste over mindre endringer som er gjort av utviklingsteamet som et resultat av samtaler med brukere.
+
+### 2.1 **Saker**
+
+- Rullegardinegendefinerte felt med opptil 10 obligatoriske verdier kan nå også filtreres.
+- PDF-eksporter av saker viser nå ikke lenger bestemte bilder dobbelt.
+- Egendefinerte feltfiltre vises nå selv om det egendefinerte feltet er satt som obligatorisk.
+- Bilder som er vedlagt til sakkommentarer etter 16. november vil nå vises i samme rekkefølge som de er i sakkommentarene i forhåndsvisningsdialogen.
+- Tidspunktet for eksport i PDF-eksporten sier nå UTC bak seg slik at brukeren kan vite hvilken tidssone tidsstempelet var i.
+- Modeller som er slettet i tidsrommet mellom forberedelsen og aktivering av en modeller som dokumenter-migrering vil nå bli ordentlig slettet ved migrering.
+
+### 2.2 **Dokumenter**
+
+- Litauiske bokstaver i dokumenter importert fra ZIP-importer vil nå ikke lenger bli ødelelagt som et resultat av zip-forgiftning.
+- Tekstbobler kan igjen plasseres for brukere med MFA-tvang.
+- Fremheve merkinger fra pdf-filer vises nå korrekt i PDF-viseren etter at de er lastet opp.
+- PDF-filer kan igjen lagres med merkinger og kommentarer.
+- Dokumenter som ikke lastet for brukere med MFA-tvang lastes nå igjen.
+
+### 2.3 **Modeller**
+
+- Slettemodellknappen er synlig igjen.
+- Det er nå ingen måte modeller kan bli skjult lenger hvis modeller som dokumenter ble aktivert uten å migrere prosjektet.
+- Epostvarselet for modellimport er fullført sier nå importert fullført på \<model> i stedet for ny revisjon i modell for klarhet.
+- Det er nå bare mulig å velge pdf-dokumenter i etasjekonfiguratoren der pdf.
+- Det er ikke lenger mulig å legge til ikke-PDF-dokumenter i etasjekonfiguratoren. (som bare aksepterer PDF-filer uansett)
+
+## 3. **Brukerønsker fullført**
+
+### 3.1 **Saker**
+
+- Du får nå et varsel når et team du er del av blir nevnt i en sak
+- Hvis du klikker på vis markør på 2D på plasseringen av en sak, vil 2D-viseren din nå sentrere seg på denne markøren i stedet for bare å vise markøren som valgt på høyre etasje.
+- Bredden på modellvalgdialogen i kommentaren til en sak skaleres nå med bredden på et modellnavn. Tidligere ble lange modellnavn kuttet av og måtte holdes musen over for å se.
+- Det er nå mulig å se hvordan en beskrivelse så ut før den ble endret ved å klikke på beskrivelsen som er endret boks i sakhistorikken.
+- Bilder er ikke lenger vist dobbelt i PDF-eksporter av eldre saker
+
+### 3.2 **Dokumenter**
+
+- Dokument-ACL gjenspeiles nå i modellseksjonen for prosjekter som har modeller som dokumenter aktivert
+- Du kan nå se hvor mange dokumenter som er i en samling.
+- Det er nå mulig å feste til midten og endepunkter av linjer i PDF-tegninger.
+- Det er nå mulig å forhåndsvise .odt og .ods filformater.
+
+### 3.3 **Modeller**
+
+- Det er nå mulig å angi ACL per modell i stedet for for alle modeller.
+
+Dette betyr at du kan skjule modeller fra personer i modellseksjonen.
+
+- Med modeller som dokumenter kan du legge til merkelapper for modeller.
+- Med modeller som dokumenter kan du strukturere modeller i mapper i dokumentseksjonen.
+- Med modeller som dokumenter kan du se filstørrelsen på modellen
+- Med modeller som dokumenter kan du bruke navnkonvensjonfunksjonen med modeller
+- Det er igjen mulig å se tidligere revisjoner av modeller i revisionvelgeren
+
+### 3.4 **Prosjektinnstillinger**
+
+- Merklappegrupper kan nå slettes.
+- Det er nå mulig å slette merkelapper som er koblet til saker/dokumenter.
+- Merklappegrupper kan redigeres.
+  Du finner redigeringsblyanten i høyre informasjonsmeny etter å ha valgt merklappegruppen i fanen Grupper.
+- Det er nå mulig å opprette flere merkelapper på en gang.
+  Legg merke til Import flere-knappen i menyen Ny merkelapp.
+- Det er nå mulig å slette flere merkelapper på en gang.
+- Merkelapper kan filtreres og filtre kan lagres.
+- Det er nå mulig å legge til nye merklappegrupper
+- Det er mulig å legge til merklappegrupper uten å legge dem til en merkelapp først.
+- Det er nå mulig å søke på merkelappersiden.
+- Administratorer vil nå være i stand til å flette merkelapper. Alternativet finnes ved å velge mer enn en merkelapp på merkelappersiden.
+
+### 3.5 **Generelt**
+
+- Opprettelse av nye prosjekter fra malprosjekter er forbedret. Det er nå mulig å bringe følgende deler av et prosjekt til et nytt prosjekt:
+  - Mappestruktur
+  - Konfigurering av dokumentstatus
+  - Dokument- og saktaveltilgangskontroll
+  - Egendefinerte felt og navnkonvensjoner
+
+## 4. **Nye utgivelser** - Catenda Site, programtillegg og integrasjoner
+
+_Catenda Hub:_
+
+- Modeller som dokumenter er nå blitt fullstendig utgitt.
+- Saker er blitt omdøpt til Saker.
+
+_Catenda Site:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
+
+_Ny versjon 3.3.1_
+
+- Feilrettinger
+
+_Ny versjon 3.3.0_
+
+- _Dyplenking_ - URL-er fra Hub-nettstedet åpnes direkte i Site-appen.
+- _Sakfiltrering_ - Nytt alternativ for filtrering etter milepæl.
+- _Brukernevning_ - Finn og velg raskt en bruker for omtale i saker fra verktøylinjen.
+- _Tekstmarkering_ - Bruk enkelt rik tekst på sakene dine fra verktøylinjen.
+- _Sentrer 2D-markør_ - Åpning av en markør fra en sak vil sentrere visningen på markørplasseringen.
+- Vietnamesisk språkstøtte. 🇻🇳
+
+_Ny versjon 3.4.0_
+
+- Saker er blitt omdøpt til saker
+- Feilrettinger
+
+_SharePoint-integrering:_
+
+- Du kan nå koble til Catenda-kontoen din via et nettleservindu i stedet for å vente på en e-post.
 
 # Endringslogg 8 Catenda - Mars 2025
 
@@ -24168,7 +25630,7 @@ Noen funksjoner kan forespørres aktivert for eksisterende prosjekter av kontakt
 
 Den nye status-arbeidsflyten trenger ikke lenger å forespørres aktivert og er nå tilgjengelig både for nye brukere og kan aktiveres for prosjekter som for tiden bruker den gamle status-arbeidsflyten ved å aktivere delte revisjoner i dokumentinnstillinger.
 
-### 1.3 ​**Objektside**
+### 1.3 **Objektside**
 
 Søk i alt innhold fra IFC-filen din med logikk. Objektsiden er en on-demand-funksjon som kan forespørres aktivert for pågående prosjekter. Nye prosjekter som opprettes basert på et malprosjekt hvor denne funksjonen er aktivert, har ikke denne funksjonen aktivert. For eksempel alle "Dørentiteter" fra "Modell A" som er høyere enn 2 meter. Konfigurer kolonner for å vise relevante egenskaper for hvert radelement i tabellen. Hvis filterresultater har et objekt i 3D-viseren, kan dette objektet velges i 3D. Eksporter valgte elementer med de konfigurerte egenskapskolonnene som vises til Excel. Likt QTO-funksjonen kan objekter som er valgt i 3D også filtreres. Sammenlignet med QTO-funksjonen er det ikke noe problem å laste tusenvis av rader i tabellen.
 
@@ -24235,7 +25697,6 @@ Mens du er offline på stedet, kan du nå:
 1. [Opprett ny problemstilling offline](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
 1. [Legg til / Oppdater / Slett kommentarer](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues) med bilder og viewpoints offline
 1. Send alle offlineendringene dine fra [den nye utboksen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)
-   ​
 
 ## 2. Dokumentsamlinger
 
@@ -24544,7 +26005,8 @@ Her er hva som er nytt i denne versjonen:
 
 - Slett problemkommentarer ved hjelp av sveip-gest
 
-- Forbedret innstillingsskjerm. Nå kan du velge ditt foretrukne startskjerm
+- Forbedret innstillingsskjerm.
+Nå kan du velge ditt foretrukne startskjerm
 
 - Nytt varslingssystem i appen for å gi deg mer nyttig informasjon
 
@@ -24619,7 +26081,6 @@ For eksempel noen Dokumenter eller Saker.
 En ShareLink-mottaker vil da bare se disse elementene. Hvis siden deles med en ShareLink-mottaker, vil de se hele siden, inkludert Filtre, basert på deres tilgang i prosjektet.
 
 1. Klikk på ShareLink-knappen.
-   ​
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 

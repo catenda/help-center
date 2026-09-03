@@ -89,7 +89,7 @@ Wählen Sie einen Dokumentenbestand aus, indem Sie die Kästchen ankreuzen, oder
 
 Nach der Auswahl wird das Informationsmenü oben rechts angezeigt. Wenn es geschlossen ist, klicken Sie auf das Symbol `i`, um es zu erweitern.
 
-### 5.4 ​**Rechtes Informationsmenü -** Download
+### 5.4 **Rechtes Informationsmenü -** Download
 
 Beim Importieren können Sie konfigurieren, welche Dokumente zu Solibri importiert werden.
 

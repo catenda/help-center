@@ -29,7 +29,6 @@
 - [ラベル](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - 期日
 - 場所
-  ​
 
 ### 1.1 フィルターのリセットアイコン
 

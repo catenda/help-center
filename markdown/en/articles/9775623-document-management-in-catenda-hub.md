@@ -24,7 +24,7 @@ Here is a comparison of the advantages and disadvantages of these 2 variants:
 
 You will be able to find good suggestions about how to create a folder structure in [this article](https://support.catenda.com/en/articles/8542598-structuring-documents). You can also find an example of a folder structure used by the State Building Directorate in Bavaria at the following [link](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) Folder structures can be set up very differently. On the one hand, this depends on the requirements of the project and the associated project team, and on the other hand, the folder structure depends on any plan key used.
 
-### 1.1 ​**Example -** Separating structures by phase
+### 1.1 **Example -** Separating structures by phase
 
 A folder structure is set up based on the service phases. This clearly separates which documents from which management phases are stored in which folders. But what happens to documents that apply across all service phases? You might think that if the documents are organized in the folders of the various service phases, this information is no longer needed in the plan key, for example. But what happens when a plan is printed out or sent digitally to the construction site? Here too, the plan name should be used to identify the exact document. In the best case scenario, the folder structure and plan key form a unit that works for all parties involved throughout the entire course of the project.
 

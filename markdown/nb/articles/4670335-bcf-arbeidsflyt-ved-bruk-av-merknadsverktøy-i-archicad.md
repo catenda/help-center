@@ -1,6 +1,6 @@
 # BCF-arbeidsflyt ved bruk av merknadsverktøy i Archicad
 
-**BCF fra Archicad til Bimsync** I Archicad velger du merknadsverktøyet for å opprette en BCF. Her kan du utheve det relaterte elementet og legge til ulike visninger til BCF-en osv. Eksporter de valgte merknadoppføringene som en bcfzip-fil.
+_BCF fra Archicad til Bimsync_ I Archicad velger du merknadsverktøyet for å opprette en BCF. Her kan du utheve det relaterte elementet og legge til ulike visninger til BCF-en osv. Eksporter de valgte merknadoppføringene som en bcfzip-fil.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5fgdptf6/01-intro.png)
 
@@ -18,7 +18,7 @@ Du kan deretter gå og endre de ulike innstillingene i problemet ved å klikke p
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5fgdptf6/05-intro.png)
 
-**BCF fra Bimsync til Archicad** Filtrer ut problemet du vil få.
+_BCF fra Bimsync til Archicad_ Filtrer ut problemet du vil få.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5fgdptf6/06-intro.png)
 

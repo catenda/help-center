@@ -36,7 +36,7 @@ _[Strukturering av dokumenter](https://support.catenda.com/en/articles/8542598-s
 
 _Modeller_ [3D-viser](https://support.catenda.com/en/articles/8227211-3d-viewer) [2D-viser](https://support.catenda.com/en/articles/4854537-2d-viewer) [Søk](https://support.catenda.com/en/articles/4854514-queries)
 
-_Informasjonspanel_ [Informasjonspanel](https://support.catenda.com/en/articles/8238584-information-panel) _​_
+_Informasjonspanel_ [Informasjonspanel](https://support.catenda.com/en/articles/8238584-information-panel)
 
 _Innstillinger_ [Merkelappersde](https://support.catenda.com/en/articles/4670265-labels-page) [Opprett et team](https://support.catenda.com/en/articles/4670264-creating-a-team)
 

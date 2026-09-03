@@ -77,7 +77,7 @@ Follow these steps to configure the webhook link in Catenda. This way Catenda kn
 
     <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
 
-1. **Enable Notifications**: Ensure the toggle at the top of the page is switched to **On**.<br>​
+1. **Enable Notifications**: Ensure the toggle at the top of the page is switched to **On**.<br>
 
     <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
 

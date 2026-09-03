@@ -59,6 +59,7 @@ Konfigurer innstillinger for ditt prosjekt eller din konto
 Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funksjoner
 
 - [2D / 3D - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7734138-2d-3d-catenda-site.md)
+- [2D og 3D-visninger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9184555-2d-og-3d-visninger.md)
 - [2D viser - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7748370-2d-viser-catenda-site.md)
 - [2D-viser](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4854537-2d-viser.md): Beskriver de ulike verktøyene i 2D-verktøylinjen
 - [2D-viser bygninger og etasjer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10901703-2d-viser-bygninger-og-etasjer.md)
@@ -72,14 +73,18 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Aktivering av Catenda SharePoint-appen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9419749-aktivering-av-catenda-sharepoint-appen.md)
 - [Arbeidsflyt Catenda Hub - Solibri](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670339-arbeidsflyt-catenda-hub-solibri.md)
 - [Arbeidsflytsside - Dokumentinnstillinger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12309903-arbeidsflytsside-dokumentinnstillinger.md)
+- [Avansert navnekonvensjon](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7936947-avansert-navnekonvensjon.md)
 - [BCF-arbeidsflyt ved bruk av merknadsverktøy i Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670335-bcf-arbeidsflyt-ved-bruk-av-merknadsverktøy-i-archicad.md)
 - [BCF-arbeidsflyt ved bruk av Naviate for Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670337-bcf-arbeidsflyt-ved-bruk-av-naviate-for-revit.md)
 - [BCF-arbeidsflyt ved bruk av NTI Tools for Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670336-bcf-arbeidsflyt-ved-bruk-av-nti-tools-for-revit.md)
 - [Biblioteksside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8065645-biblioteksside.md)
 - [Bokmerke-side](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670281-bokmerke-side.md)
 - [Bokmerkeside for innhold](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8471481-bokmerkeside-for-innhold.md)
+- [Bruk av malvinkler når du lagrer merknadsaker](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/14078352-bruk-av-malvinkler-når-du-lagrer-merknadsaker.md): Bruk en dokumentsakmal når du oppretter en merknad fra et dokument
 - [Bruk av relaterte saker](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5036456-bruk-av-relaterte-saker.md): Relaterte saker hjelper brukere med å følge opp og holde styr på fremdriften.
+- [Bruk av saksmaler i en saksliste](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/14075921-bruk-av-saksmaler-i-en-saksliste.md): Bruk en generell saksmal ved opprettelse av sak
 - [Bruk av tilgangskontroll – brukstilfeller](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/15644249-bruk-av-tilgangskontroll-brukstilfeller.md)
+- [Bruke saksmaler med gjennomganger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/14078683-bruke-saksmaler-med-gjennomganger.md): Bruk en gjennomgangssaksmal på en gjennomgangarbeidsflytmal
 - [Catenda Archicad-plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5519276-catenda-hub-archicad-plugin.md)
 - [Catenda Desktop Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8358861-skrivebordstilkoblingen-desktop-connector.md)
 - [Catenda Navisworks-plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5085987-catenda-hub-navisworks-plugin.md)
@@ -93,6 +98,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Dashbord - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7213817-dashbord-catenda-site.md)
 - [Dashbord-side](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8212646-dashbord-side.md)
 - [Dokumentbanner - Navigasjon](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8461918-dokumentbanner-navigasjon.md)
+- [Dokumenter-fanen i en gjennomgangsforespørsel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12495130-dokumenter-fanen-i-en-gjennomgangsforespørsel.md)
 - [Dokumenter-side](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8204673-dokumenter-side.md)
 - [Dokumentermeny - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7774637-dokumentermeny-catenda-site.md)
 - [Dokumentgjennomgang – Eldre versjon](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5784717-dokumentgjennomgang-eldre-versjon.md): Oppdag hvordan du konfigurerer en arbeidsflyt for dokumentgjennomgang
@@ -102,6 +108,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Dokumentvisning og merknader](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5001165-dokumentvisning-og-merknader.md): Bruk merkingsverktøy, redlining, kommenter dokumenter i Issues
 - [Egendefinert felt - innholdsside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8445588-egendefinert-felt-innholdsside.md)
 - [Egendefinerte felt i et saksboard](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6563368-egendefinerte-felt-i-et-saksboard.md)
+- [Egendefinerte felt på dokumenter](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9531080-egendefinerte-felt-på-dokumenter.md)
 - [Egenskapsverdi-bibliotek](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670252-egenskapsverdi-bibliotek.md)
 - [Eksporterer saker til PDF](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9784934-eksporterer-saker-til-pdf.md)
 - [Endring av prosjektnavn](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670256-endring-av-prosjektnavn.md)
@@ -116,6 +123,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Filvurdering i en gjennomgangsforespørsel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12507002-filvurdering-i-en-gjennomgangsforespørsel.md)
 - [Filvurdering i en gjennomgangsforespørsel - Eldre versjon](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12507422-filvurdering-i-en-gjennomgangsforespørsel-eldre-versjon.md)
 - [Flytte et dokument](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670251-flytte-et-dokument.md)
+- [Frakoblet modus i Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7325268-frakoblet-modus-i-catenda-site.md)
 - [Frykoplingen av dokument fra objekt](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670301-frykoplingen-av-dokument-fra-objekt.md)
 - [Gjennomgang av fil - høyre meny - Arv](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12507914-gjennomgang-av-fil-høyre-meny-arv.md)
 - [Gjennomgang av fil – høyre meny](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12507519-gjennomgang-av-fil-høyre-meny.md)
@@ -141,9 +149,11 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [IFC Export Archicad Manual](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670338-ifc-export-archicad-manual.md)
 - [Informasjonspanel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8238584-informasjonspanel.md)
 - [Innstillinger for saksliste](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670277-innstillinger-for-sakstavle.md)
+- [Innstillinger for saksmal](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/14076010-innstillinger-for-saksmal.md): Administrer innstillingene for saksmal
 - [Inspeksjonsmeny](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670285-inspeksjonsmeny.md)
 - [Klassifikasjonsbibliotek](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670255-klassifikasjonsbibliotek.md)
 - [Klippeplaner](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670253-klippeplaner.md)
+- [Kollisjonsprøving i Navisworks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7120422-kollisjonsprøving-i-navisworks.md)
 - [Kolonner på dokumentsiden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8466850-kolonner-på-dokumentsiden.md)
 - [Kopier lenkeslipp](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/14323982-kopier-lenkeslipp.md)
 - [Lagring av merknad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10209740-lagring-av-merknad.md)
@@ -168,6 +178,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Mengdetaking (QTO)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6673929-mengdetaking-qto.md)
 - [Merkelappersiden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670265-merkelappersiden.md)
 - [Merkelappfilter - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7854138-merkelappfilter-catenda-site.md)
+- [Microsoft Teams-varsel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9167392-microsoft-teams-varsel.md): Bli oppdatert uten å bytte faner. Koble Catenda Hub til Microsoft Teams for å motta sanntidsvarsel direkte i dine foretrukne kanaler.
 - [Milepælinnholdsside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/11376858-milepælinnholdsside.md)
 - [Milepælside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670266-milepælside.md)
 - [Modelleksportinnholdsside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/15480883-modelleksportinnholdsside.md)
@@ -213,6 +224,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Revit IFC Eksportmanual](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670341-revit-ifc-eksportmanual.md)
 - [Rotmappe ACL](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670292-rotmappe-acl.md)
 - [Rulleplan-rullegardin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670327-rulleplan-rullegardin.md)
+- [Sakbanner - Navigering av saker](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7986346-sakbanner-navigering-av-saker.md)
 - [Sakhistorikk](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8613038-sakhistorikk.md)
 - [Sakmalside - Arv](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12371549-sakmalside-arv.md)
 - [Sakmalside - Eldre system](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12367730-sakmalside-eldre-system.md)
@@ -221,6 +233,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Saksinnhold - Innholdet i en sak](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8053352-saksbrodteksten-innholdet-i-en-sak.md)
 - [Saksinnstillinger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/14183429-saksinnstillinger.md)
 - [Saksliste fra en eksisterende saksliste](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6379614-saksliste-fra-en-eksisterende-saksliste.md)
+- [Saksliste-opprettelse ACL](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670299-saksliste-opprettelse-acl.md)
 - [Saksmeny - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7734073-saksmeny-catenda-site.md)
 - [Samlinginnholdside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8999764-samlinginnholdside.md)
 - [Samlingside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6344318-samlingside.md): Del dokumenter, last ned dokumenter som ZIP-fil
@@ -234,6 +247,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Solibri Topics-integrasjon](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670340-solibri-topics-integrasjon.md)
 - [Solibri-modeller og dokumentintegrering](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6988148-solibri-modeller-og-dokumentintegrering.md)
 - [Spor annoteringar med merknader](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10210710-spor-annoteringar-med-merknader.md)
+- [Spore informasjon ved lenking](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8294909-spore-informasjon-ved-lenking.md)
 - [Spørringer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4854514-spørringer.md): En forklaring på spørringsfunksjonen i 2D-verktøylinjen
 - [Statistikkside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7575491-statistikkside.md)
 - [Statusarbeidsflyt - Dokumentinnstillinger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12495583-statusarbeidsflyt-dokumentinnstillinger.md)
@@ -344,6 +358,7 @@ Her finner du svar på spørsmål som mange brukere har
 - [Status Workflow - API-oppdateringer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12289689-status-workflow-api-oppdateringer.md): Introduksjon av API-endringer for den nye Status Workflow-funksjonen, der vi differensierer mellom delt og publisert status i samsvar med ISO 19650. Denne artikkelen er rettet mot kunder og integreringspartnere som bruker Catenda API.
 - [Strukturering av dokumenter](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8542598-strukturering-av-dokumenter.md)
 - [Systemvarerekomendation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13927605-systemvarerekomendation.md)
+- [Tabeller på Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/11748020-tabeller-på-catenda.md)
 
 ## Siste oppdateringer 🎉
 
@@ -364,7 +379,9 @@ Finn de siste Catenda oppdateringene
 - [Endringslogg 11 Catenda - Januar 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12529903-endringslogg-11-catenda-januar-2025.md)
 - [Endringslogg 12 Catenda, april 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13413499-endringslogg-12-catenda-april-2026.md)
 - [Endringslogg 13 Catenda - August 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/15655135-endringslogg-13-catenda-august-2026.md): Catenda-produktoppdateringer: ny Kanban-visning for saker, forbedrede gjennomgangsarbeidsflyter, Catenda AI Connect og dataeksport. Inkluderer løste feil, nye opplæringsvideoer og oppdatert dokumentasjon for modeller, dokumenter og saker.
+- [Endringslogg 2 Catenda - Juli 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7338675-endringslogg-2-catenda-juli-2023.md)
 - [Endringslogg 3 Catenda - oktober 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7983534-endringslogg-3-catenda-oktober-2023.md): Ny informasjon og mindre endringer
+- [Endringslogg 4 Catenda - Januar 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8433887-endringslogg-4-catenda-januar-2024.md): Ny informasjon og mindre endringer
 - [Endringslogg 8 Catenda - Mars 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10288759-endringslogg-8-catenda-mars-2025.md)
 - [Endringslogg 9 Catenda - juni 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10857573-endringslogg-9-catenda-juni-2025.md)
 - [Endringslogg for Catenda Revit plugin - 1.0.15](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13449051-endringslogg-for-catenda-revit-plugin-1-0-15.md)

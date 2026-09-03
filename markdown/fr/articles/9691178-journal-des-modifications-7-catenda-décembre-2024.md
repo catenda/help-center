@@ -52,8 +52,6 @@ _Mises à jour récentes_ [Flux de statut 🖥️ Partagé -> ✔️ Publié](ht
 
 _Panneau d'information_ [Menu Inspecter](https://support.catenda.com/en/articles/4670285-inspect-menu) [Panneau d'information](https://support.catenda.com/en/articles/8238584-information-panel)
 
-**​**
-
 **Paramètres**
 
 **Modules et intégrations** [Manuel d'exportation IFC Revit](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual) [Manuel d'exportation IFC Archicad](https://IFC%20Export%20Archicad%20Manual)

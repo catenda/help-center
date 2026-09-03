@@ -18,7 +18,7 @@ Some features can be requested to be enabled for existing projects by the contac
 
 The new status workflow no longer has to be requested to be enabled and is now available both for new users and can be enabled for project that are currently using the legacy status workfly by enablling shared revisions in document settings.
 
-### 1.3 ​**Objects page**
+### 1.3 **Objects page**
 
 Search on any content from your IFC with logic. The objects page is an on-demand feature that can be requested to be enabled for ongoing projects. New projects that are created based on a template project where this feature is enabled do not have this feature enabled. For example all "Door entities" from "Model A" that are taller than 2 meters. Configure columns to display the relevant properties for each row element in the table. If filter results have an object in the 3D viewer this object can be selected in 3D. Export selected elements with the configured property columns that are displayed to excel. Similar to the QTO feature objects that are selected in 3D can be filtered as well. Compared to the QTO feature it is not a problem to load thousands of rows in the table.
 

@@ -25,7 +25,6 @@ Par exemple, certains documents ou sujets.
 Un destinataire sharelink ne verra alors que ces éléments. Si la page est partagée avec un destinataire sharelink, il verra la page entière, y compris les filtres, en fonction de son accès au projet.
 
 1. Cliquez sur le bouton ShareLink.
-   ​
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 

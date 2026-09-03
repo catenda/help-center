@@ -29,7 +29,6 @@ Du kan filtrere etter:
 - [Merkelapper](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - Frist
 - Plassering
-  ​
 
 ### 1.1 Tilbakestill filter-ikon
 

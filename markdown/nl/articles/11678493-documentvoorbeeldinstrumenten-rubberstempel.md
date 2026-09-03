@@ -28,19 +28,19 @@ De stempeltypen in het voorsetmenu kunnen de volgende informatie bevatten:
 
 ### 2.2 Stempeltype-inhoud
 
-In het voorsetmenu zijn de volgende stempels zichtbaar: _​_**Voornaam** - Alles vóór de eerste spatie in de accountnaam
+In het voorsetmenu zijn de volgende stempels zichtbaar: **Voornaam** - Alles vóór de eerste spatie in de accountnaam
 
 **Middelste naam Achternaam** - Alles na de eerste spatie in de accountnaam
 
 **Voornaam Middelste naam Achternaam** - Volledige accountnaam
 
-**​Voornaam** - Alles vóór de eerste spatie in de accountnaam Datum
+**Voornaam** - Alles vóór de eerste spatie in de accountnaam Datum
 
 **Middelste naam Achternaam** - Alles na de eerste spatie in de accountnaam Datum
 
 **Voornaam Middelste naam Achternaam** - Volledige accountnaam Datum
 
-_​_**Voornaam** - Alles vóór de eerste spatie in de accountnaam Datum en tijd
+**Voornaam** - Alles vóór de eerste spatie in de accountnaam Datum en tijd
 
 **Middelste naam Achternaam** - Alles na de eerste spatie in de accountnaam Datum en tijd
 
@@ -64,7 +64,7 @@ _​_**Voornaam** - Alles vóór de eerste spatie in de accountnaam Datum en tij
 
 **INSCHRIJVINGSDOCUMENT** Volledige accountnaam en datum
 
-## 3. ​Nieuw stempel maken
+## 3. Nieuw stempel maken
 
 Klik op Nieuw stempel maken om het dialoogvenster Nieuw stempel maken te openen. Het dialoogvenster Nieuw stempel maken kan er ongeveer zo uitzien:
 

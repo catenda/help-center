@@ -52,7 +52,7 @@ _Load more_ To load in more models click on the load more button at the bottom o
 
 When the 2D button is green, the 2D view of that model is visible in the [2D viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) and loaded into memory. When the button is grey the 2D view of that model model will not be visible and is not loaded into memory.
 
-### 1.4 **​3D button**
+### 1.4 **3D button**
 
 When the 3D button is clicked it will turn green. The 3D view of that document will then be available in the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) and loaded into memory. While the 3D button is green model objects that belong to that model will be available in the 3D viewer.
 
@@ -86,7 +86,7 @@ The icon of each 3D document filetype. Only available for 3D documents.
 
 For models the model name is displayed. For documents, the document name is displayed. The documents list follows the general [sorting order of lists](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) in Catenda.
 
-### 1.9 **​Model revision**
+### 1.9 **Model revision**
 
 To the right of the 3D document name green underlined text can be seen. The text that is displayed reflects the number of the revision that will be loaded in when the 3D button is enabled. If a revision from the 3D document is already loaded in the number reflects the revision that is currently selected and loaded into memory.
 

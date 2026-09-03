@@ -12,9 +12,9 @@ Les filtres sont situés sur le panneau de gauche :
 
     <div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-60a1bb50b7da.png" style="height: auto;" width="3360"/></div><div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-84e66eb66553.png" style="height: auto;" width="3360"/></div>
 
-   Il y a deux possibilités :
+Il y a deux possibilités :
 
-   **A.** Vous pouvez choisir un onglet dans le panneau A : Aujourd'hui, hier, il y a une semaine ...
+**A.** Vous pouvez choisir un onglet dans le panneau A : Aujourd'hui, hier, il y a une semaine ...
 
     <div class="intercom-container"><img height="530" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-2a7e66b298c6.png" style="height: auto;" width="280"/></div>
 

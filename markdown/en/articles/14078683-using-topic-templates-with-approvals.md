@@ -16,7 +16,7 @@ Create a new topic template on the new workflow page.
 
 > **Important:** ℹ️ For a topic to get generated as the result of the closing of an approval, the approval **has to contain a markup**. After closing the configured approval, for each markup in the approval a separate topic is generated.
 
-1. When a new approval workflow is created. <br>You [create a new approval workflow](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow) template, navigate at the bottom of the page until you reach the "Final approval" section. <br>Here, you can link an approval topic template for each review state (and associate document final status).<br>​
+1. When a new approval workflow is created. <br>You [create a new approval workflow](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow) template, navigate at the bottom of the page until you reach the "Final approval" section. <br>Here, you can link an approval topic template for each review state (and associate document final status).<br>
 
     <div class="intercom-container intercom-align-center"><img height="254" src="https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/inline-e90e5114173a.png" style="height: auto;" width="500"/></div>
 

@@ -52,7 +52,7 @@ _Last inn flere_ For å laste inn flere modeller klikker du på knappen Last inn
 
 Når 2D-knappen er grønn, er 2D-visningen av den modellen synlig i [2D-visningen](https://support.catenda.com/en/articles/4854537-2d-viewer) og lastet inn i minnet. Når knappen er grå, vil 2D-visningen av den modellen ikke være synlig og vil ikke lastes inn i minnet.
 
-### 1.4 **​3D-knapp**
+### 1.4 **3D-knapp**
 
 Når 3D-knappen klikkes, blir den grønn. 3D-visningen av det dokumentet blir deretter tilgjengelig i [3D-visningen](https://support.catenda.com/en/articles/8227211-3d-viewer) og lastet inn i minnet. Mens 3D-knappen er grønn, vil modellobjektene som tilhører den modellen være tilgjengelige i 3D-visningen.
 
@@ -86,7 +86,7 @@ Ikonet for hver 3D-dokumentfiltype. Bare tilgjengelig for 3D-dokumenter.
 
 For modeller vises modellnavnet. For dokumenter vises dokumentnavnet. Dokumentlisten følger den generelle [sorteringsrekkefølgen for lister](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) i Catenda.
 
-### 1.9 **​Modellrevisjon**
+### 1.9 **Modellrevisjon**
 
 Til høyre for 3D-dokumentnavnet kan du se grønn understreket tekst. Teksten som vises, gjenspeiler nummeret på revisjonen som blir lastet inn når 3D-knappen er aktivert. Hvis en revisjon fra 3D-dokumentet allerede er lastet inn, gjenspeiler nummeret revisjonen som er valgt og lastet inn i minnet.
 

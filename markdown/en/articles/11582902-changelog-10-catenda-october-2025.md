@@ -69,7 +69,7 @@ As new features roll out and bugs are fixed articles are updated with the change
 **Frequently Asked Questions**
 
 - [Tables on Catenda](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
-- [Custom member information](https://support.catenda.com/en/articles/11769670-custom-member-information)<br>​
+- [Custom member information](https://support.catenda.com/en/articles/11769670-custom-member-information)<br>
 
 ### 1.2 **Articles that have changed:**
 
@@ -162,7 +162,7 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 
 ### 2.4 **Project settings**
 
-- It is once again possible to save filters on notifications pages​
+- It is once again possible to save filters on notifications pages
 
 ## 3. **New videos in playlists**
 

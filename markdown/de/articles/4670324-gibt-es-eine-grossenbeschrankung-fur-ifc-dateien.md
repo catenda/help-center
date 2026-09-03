@@ -25,7 +25,7 @@ Wenn die Größe einer `.ifc`-Datei das obere Limit überschreitet, kann eine `.
 - Komprimieren Sie die `.ifc`-Datei zu einer `.zip`-Datei.
 - Ändern Sie die Dateierweiterung von `.zip` zu `.ifczip`
 
-> **Hinweis:** **Beispiel:** `3D-model.ifc` vs. `3D-model.zip` vs. `3D-model.ifczip ​`
+> **Hinweis:** **Beispiel:** `3D-model.ifc` vs. `3D-model.zip` vs. `3D-model.ifczip `
 
 ## 4. **Support kontaktieren**
 

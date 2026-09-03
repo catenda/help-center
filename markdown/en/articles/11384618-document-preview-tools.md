@@ -51,7 +51,7 @@ Current page Save only the current page
 
 Include Comments Include a separate page in the downloaded document with an overview of the comments on the document and their contents.
 
-### 1.4 **​Print**
+### 1.4 **Print**
 
 Click on Print to open the Print Settings dialogue. The Print Settings dialogue can look something like this:
 
@@ -99,7 +99,7 @@ Click the zoom percentage to open the zoom percentage menu. The zoom percentage 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/12-zoom-percentage.png)
 
-### 4.1 **​Fit to width**
+### 4.1 **Fit to width**
 
 Fit the document to cover the entire width of the document preview
 

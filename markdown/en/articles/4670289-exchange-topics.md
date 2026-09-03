@@ -36,7 +36,7 @@ _Linking multiple statuses/types at once_ If there are unlinked statuses/types i
 
 Clicking on the link will take you to the [unlinked fields](https://support.catenda.com/en/articles/4670277-topic-board-settings#h_3bd7e3e759) area of the [topic board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings) where you can link all fields of one kind to an existing value in one go.
 
-## 2. **Export topics**​
+## 2. **Export topics**
 
 You will either be able to export topics by choosing export topics in the [new item action menu](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_8c642e051a) to the top right in a topic board or by selecting a topic in the topics list and choosing the export option in the [selected item action menu](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_b5c00c149b) above the topic board. The export topics dialogue can look something like this:
 

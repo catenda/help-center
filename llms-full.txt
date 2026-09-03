@@ -1279,7 +1279,7 @@ The members table can contain the following columns:
 
 **Role** The role of the member. Owner (Blue) Administrator (Orange) Member (Green)
 
-**Teams** Each member can be part of multiple teams. The team that a member belongs to are displayed in this column​. Administrator team (Orange) Member team (Green) If the total amount of teams a member belongs to does not fit adjust the width of the column or click on the three dots to see the rest.
+**Teams** Each member can be part of multiple teams. The team that a member belongs to are displayed in this column. Administrator team (Orange) Member team (Green) If the total amount of teams a member belongs to does not fit adjust the width of the column or click on the three dots to see the rest.
 
 ## 5. **Teams tab**
 
@@ -7096,7 +7096,7 @@ You will be able to find the New collection button on the top right
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/02-new-item-actions.png)
 
-### 1.1 **​New collection**
+### 1.1 **New collection**
 
 When you make a new collection you will be asked to fill out the following dialogue.
 
@@ -7537,7 +7537,7 @@ _Access requred:_ Members and administrators must be part of a submitter team co
 
 ### 1.3 **Title**
 
-The title of the approval request. An approval must have a title to ​be submitted.
+The title of the approval request. An approval must have a title to be submitted.
 
 ## 2. **Approval request body**
 
@@ -8181,7 +8181,7 @@ Enable Require review from all team members to require every individual member o
 
 - **When this is off** (the current, only behavior described elsewhere in this help center), any one member of the reviewer team can submit a validation indication on behalf of the whole team, and the step can proceed as soon as they do.
 
-- **When this is on,** the team's step is not complete until every individual member has given their own indication. See the Overview tab, the file review right menu, and the documents tab right menu articles for how this shows up during review.<br>​
+- **When this is on,** the team's step is not complete until every individual member has given their own indication. See the Overview tab, the file review right menu, and the documents tab right menu articles for how this shows up during review.<br>
 
 ### 4.6 **Delete review step**
 
@@ -9057,7 +9057,7 @@ Current page Save only the current page
 
 Include Comments Include a separate page in the downloaded document with an overview of the comments on the document and their contents.
 
-### 1.4 **​Print**
+### 1.4 **Print**
 
 Click on Print to open the Print Settings dialogue. The Print Settings dialogue can look something like this:
 
@@ -9105,7 +9105,7 @@ Click the zoom percentage to open the zoom percentage menu. The zoom percentage 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/12-zoom-percentage.png)
 
-### 4.1 **​Fit to width**
+### 4.1 **Fit to width**
 
 Fit the document to cover the entire width of the document preview
 
@@ -9320,19 +9320,19 @@ The stamp types in the preset menu can include the following information:
 
 ### 2.2 Stamp type content
 
-In the preset menu, the following stamps can be seen: _​_**Firstname** - Everything before the first space in the account name
+In the preset menu, the following stamps can be seen: **Firstname** - Everything before the first space in the account name
 
 **Middlename Lastname** - Everything after the first space in the account name
 
 **Firstname Middlename Lastname** - Complete account name
 
-**​Firstname** - Everything before the first space in the account name Date
+**Firstname** - Everything before the first space in the account name Date
 
 **Middlename Lastname** - Everything after the first space in the account name Date
 
 **Firstname Middlename Lastname** - Complete account name Date
 
-_​_**Firstname** - Everything before the first space in the account name Date and time
+**Firstname** - Everything before the first space in the account name Date and time
 
 **Middlename Lastname** - Everything after the first space in the account name Date and time
 
@@ -9356,7 +9356,7 @@ _​_**Firstname** - Everything before the first space in the account name Date 
 
 **TENDER DOCUMENT** Complete account name and date
 
-## 3. ​Create new stamp
+## 3. Create new stamp
 
 Click Create New Stamp to open the Create New Stamp dialogue. The Create New Stamp dialogue can look something like this:
 
@@ -9681,11 +9681,11 @@ Click [here](https://support.catenda.com/en/articles/12495638-approval-request-d
 - **Name:** Show the name of the document and the type of document with icon.<br>By clicking the title you can directly show the document in the approval environment.
 - **Revision:** Shows the revisionname of the document
 - **#:** Shows wich version/revision from document inside the approval is.
-    - When a document gets added to an approval it will show its major and minor revision number which can look something like this:<br>​
+    - When a document gets added to an approval it will show its major and minor revision number which can look something like this:<br>
 
         <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
-    - If the selected shared revision was published to become the latest published revision in the document outside of the current approval request it can look something like this:<br>​
+    - If the selected shared revision was published to become the latest published revision in the document outside of the current approval request it can look something like this:<br>
 
         <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 
@@ -10125,7 +10125,7 @@ _Linking multiple statuses/types at once_ If there are unlinked statuses/types i
 
 Clicking on the link will take you to the [unlinked fields](https://support.catenda.com/en/articles/4670277-topic-board-settings#h_3bd7e3e759) area of the [topic board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings) where you can link all fields of one kind to an existing value in one go.
 
-## 2. **Export topics**​
+## 2. **Export topics**
 
 You will either be able to export topics by choosing export topics in the [new item action menu](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_8c642e051a) to the top right in a topic board or by selecting a topic in the topics list and choosing the export option in the [selected item action menu](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_b5c00c149b) above the topic board. The export topics dialogue can look something like this:
 
@@ -10445,7 +10445,7 @@ Click the filter button on the top left for a panel to appear on the left side. 
 
 ### 1.1 **Save and share the current filter**
 
-Go to the URL of a filtered page to load that page with the filter applied. The applied filters can be saved towards the top of the filter menu. Click [here](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) to read more about how to save and share filters. Note that unlike in other filter menus it is not possible to save personal filters towards the top of the filter menu on the approvals page​.
+Go to the URL of a filtered page to load that page with the filter applied. The applied filters can be saved towards the top of the filter menu. Click [here](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) to read more about how to save and share filters. Note that unlike in other filter menus it is not possible to save personal filters towards the top of the filter menu on the approvals page.
 
 ### 1.2 **Hide empty filters**
 
@@ -10605,7 +10605,7 @@ Click the filter button on the top left for a panel to appear on the left side. 
 
 ### 1.1 **Save and share the current filter**
 
-Go to the URL of a filtered page to load that page with the filter applied. The applied filters can be saved towards the top of the filter menu. Click [here](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) to read more about how to save and share filters. Note that unlike in other filter menus it is not possible to save personal filters towards the top of the filter menu on the approvals page​.
+Go to the URL of a filtered page to load that page with the filter applied. The applied filters can be saved towards the top of the filter menu. Click [here](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) to read more about how to save and share filters. Note that unlike in other filter menus it is not possible to save personal filters towards the top of the filter menu on the approvals page.
 
 ### 1.2 **Hide empty filters**
 
@@ -12411,7 +12411,7 @@ Follow these steps to configure the webhook link in Catenda. This way Catenda kn
 
     <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
 
-1. **Enable Notifications**: Ensure the toggle at the top of the page is switched to **On**.<br>​
+1. **Enable Notifications**: Ensure the toggle at the top of the page is switched to **On**.<br>
 
     <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
 
@@ -12497,7 +12497,7 @@ This is what the milestones page can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/02-intro.png)
 
-This page contains information about the following topics: [Planning](#h_595c5ebf4c) - [Actions](#h_ef3bbf0441)​ - [Milestones list](#h_5403eb541f)
+This page contains information about the following topics: [Planning](#h_595c5ebf4c) - [Actions](#h_ef3bbf0441) - [Milestones list](#h_5403eb541f)
 
 ## 1. Planning
 
@@ -13346,7 +13346,7 @@ Shared revisions have a minor revision number (e.g. #0.1, #2.3, #4.1) Published 
 
 In the document structure you will see the latest revision you have access to. Click on the name of a document to open the document preview of the displayed revision.
 
-**Workspace tab** The latest revision in the workspace tab can be: Shared revision - _Access required:_ Shared revisions Published revision - ​_Access required:_ Read
+**Workspace tab** The latest revision in the workspace tab can be: Shared revision - _Access required:_ Shared revisions Published revision - _Access required:_ Read
 
 **Published tab** The latest revision in the published tab can be: Published revision - _Access required:_ Read
 
@@ -15418,7 +15418,7 @@ _Load more_ To load in more models click on the load more button at the bottom o
 
 When the 2D button is green, the 2D view of that model is visible in the [2D viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) and loaded into memory. When the button is grey the 2D view of that model model will not be visible and is not loaded into memory.
 
-### 1.4 **​3D button**
+### 1.4 **3D button**
 
 When the 3D button is clicked it will turn green. The 3D view of that document will then be available in the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) and loaded into memory. While the 3D button is green model objects that belong to that model will be available in the 3D viewer.
 
@@ -15452,7 +15452,7 @@ The icon of each 3D document filetype. Only available for 3D documents.
 
 For models the model name is displayed. For documents, the document name is displayed. The documents list follows the general [sorting order of lists](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) in Catenda.
 
-### 1.9 **​Model revision**
+### 1.9 **Model revision**
 
 To the right of the 3D document name green underlined text can be seen. The text that is displayed reflects the number of the revision that will be loaded in when the 3D button is enabled. If a revision from the 3D document is already loaded in the number reflects the revision that is currently selected and loaded into memory.
 
@@ -16100,7 +16100,7 @@ This is what the right menu can look like when no topics are selected:
 
 Says "No topics are selected when expanded." when no topics are selected. In this menu a selected topic can be viewed and updated. With multiple topics selected topics can be batch-updated here.
 
-### 2.2 **1.2 Access control​ for topic board**
+### 2.2 **1.2 Access control for topic board**
 
 When no topics are selected the access control for topic board menu is only displayed when navigating to a single topic board. In the all topics board, select a topic to see the access control of the board that topic is in. Click [here](https://support.catenda.com/en/articles/4670296-topic-board-access-control) to read more about topic baord access control.
 
@@ -16810,7 +16810,7 @@ After selecting one or more document(s) you will see the info icon appear toward
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/01-intro.png)
 
-This expanded panel can look different depending on what you have selected [​_One folder_ ](#h_cad792004b) _- [One document](#h_2fac53531d) - [Multiple folder(s) and/or document(s)](#h_58d67056f7)_
+This expanded panel can look different depending on what you have selected [_One folder_ ](#h_cad792004b) _- [One document](#h_2fac53531d) - [Multiple folder(s) and/or document(s)](#h_58d67056f7)_
 
 ## 1. One folder
 
@@ -17503,7 +17503,7 @@ Select a set of documents by checking the boxes or check the box on top to selec
 
 After selecting the information menu will appear on the top right. If it is closed, click on the `i` icon to expand it.
 
-### 5.4 ​**Right information menu -** Download
+### 5.4 **Right information menu -** Download
 
 When importing you can configure which documents will be imported to Solibri.
 
@@ -17777,7 +17777,7 @@ By default there is one shared status by the name if shared that is configured. 
 - Published statuses - New information submitted in the published stage.
 - The default status is set to No status.
 - The approvals menu in document settings is disabled.
-- The approvals sub-page to the documents page is disabled.<br>​
+- The approvals sub-page to the documents page is disabled.<br>
 
 ## 2. **Published statuses**
 
@@ -17785,7 +17785,7 @@ By default there is one published status by the name if published that is config
 
 - Published, with comments - Light green
 - Waiting - Yellow
-- Rejected - Red<br>​
+- Rejected - Red<br>
 
 ## 3. **Add status**
 
@@ -19233,18 +19233,18 @@ Can be used on topics created from the general Topic section. Here are the diffe
 
 1. **Topic Board**: The topic board within which the general topic template can be generated.
 1. **Template Name**: The template name can be selected from the dropdown menu during creation, or updated in the settings later if needed.
-1. **Topic Title**: The resulting topic title after creating the topic from the general topic template.<br>Hover your mouse on the "?" icon located on the top right-side of the title box to see how you can customize your topic template title with the available variable: `topicCreator`.<br>​
+1. **Topic Title**: The resulting topic title after creating the topic from the general topic template.<br>Hover your mouse on the "?" icon located on the top right-side of the title box to see how you can customize your topic template title with the available variable: `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="184" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-272165f584d2.png" style="height: auto;" width="300"/></div>
 
 1. **Topic Status**: The resulting topic status after creating the topic from the general topic template.
 1. **Topic Type**: The resulting topic type after creating the topic from the general topic template.
 1. **Milestone**: The resulting topic milestone after creating the topic from the general topic template.
-1. **Assigned to**: The resulting topic assignee (project member or team) after creating the topic from the general topic template. You can use here the `Topic Creator` variable to automatically populate this field with the topic creator if needed.<br>​
+1. **Assigned to**: The resulting topic assignee (project member or team) after creating the topic from the general topic template. You can use here the `Topic Creator` variable to automatically populate this field with the topic creator if needed.<br>
 
     <div class="intercom-container intercom-align-center"><img height="94" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-c7f3d7220c54.png" style="height: auto;" width="150"/></div>
 
-1. **Requested by**: The resulting topic requester after creating the topic from the general topic template. You can use here the `Topic Creator` variable to automatically populate this field with the topic creator if needed.<br>​
+1. **Requested by**: The resulting topic requester after creating the topic from the general topic template. You can use here the `Topic Creator` variable to automatically populate this field with the topic creator if needed.<br>
 
     <div class="intercom-container intercom-align-center"><img height="93" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-43e4955bfdd8.png" style="height: auto;" width="150"/></div>
 
@@ -19263,7 +19263,7 @@ Can be used on topics created from Markups on Documents. Here are the different 
 
 1. **Topic Board**: The topic board within which the document topic template can be generated.
 1. **Template Name**: The template name can be selected from the dropdown menu during Markup creation, or updated in the settings later if needed.
-1. **Topic Title**: The resulting topic title after creating the topic from the document topic template.<br>Hover your mouse on the "?" icon located on the right side of the title box to see how you can customize your document topic template title with the available variables: `documentName`, `fileName`, `markupName` and `topicCreator`.<br>​
+1. **Topic Title**: The resulting topic title after creating the topic from the document topic template.<br>Hover your mouse on the "?" icon located on the right side of the title box to see how you can customize your document topic template title with the available variables: `documentName`, `fileName`, `markupName` and `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="231" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-dbe5030f1082.png" style="height: auto;" width="300"/></div>
 
@@ -19274,11 +19274,11 @@ Can be used on topics created from Markups on Documents. Here are the different 
 
     <div class="intercom-container intercom-align-center"><img height="228" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b3156a6c2724.png" style="height: auto;" width="150"/></div>
 
-1. **Requested by**: The resulting topic requester after creating the topic from the document topic template. Different variables can be used here, such as `Document owner`, `File uploader`, `Markup creator`, `Publisher` and `Topic creator`.<br>​
+1. **Requested by**: The resulting topic requester after creating the topic from the document topic template. Different variables can be used here, such as `Document owner`, `File uploader`, `Markup creator`, `Publisher` and `Topic creator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="171" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-0c4680dfae06.png" style="height: auto;" width="150"/></div>
 
-1. **Labels**: The resulting topic labels after creating the topic from the document topic template. Note that you can fetch the labels from the document you created the Markup from using the variable `Labels from documents` below:<br>​
+1. **Labels**: The resulting topic labels after creating the topic from the document topic template. Note that you can fetch the labels from the document you created the Markup from using the variable `Labels from documents` below:<br>
 
     <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
 
@@ -19300,7 +19300,7 @@ Here are the different actions you need to follow and variables you can input wh
 
 1. **Topic Board**: The topic board within which the approval topic template will be generated after an approval workflow is closed.
 1. **Template Name**: The template name of an approval topic template can be selected from the dropdown menu in an approval workflow template, or updated in the settings later if needed.
-1. **Topic Title**: The resulting topic title after the associated approval workflow is closed.<br>Hover your mouse on the "?" icon located on the right side of the title box to see how you can customize your approval topic template title with the available variables: `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` and `topicCreator`.<br>​
+1. **Topic Title**: The resulting topic title after the associated approval workflow is closed.<br>Hover your mouse on the "?" icon located on the right side of the title box to see how you can customize your approval topic template title with the available variables: `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` and `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="272" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-6038b1d41fed.png" style="height: auto;" width="300"/></div>
 
@@ -19311,15 +19311,15 @@ Here are the different actions you need to follow and variables you can input wh
 
     <div class="intercom-container intercom-align-center"><img height="182" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b012d92ee132.png" style="height: auto;" width="150"/></div>
 
-1. **Requested by**: The resulting topic requester after closing the associated approval workflow. Different variables can be used here, such as `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.<br>​
+1. **Requested by**: The resulting topic requester after closing the associated approval workflow. Different variables can be used here, such as `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="181" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d7986adac70c.png" style="height: auto;" width="150"/></div>
 
-1. **Labels**: The resulting topic labels after closing the associated approval workflow. Note that you can fetch the labels from the document you created the Markup from using the variable `Labels from documents` below:<br>​
+1. **Labels**: The resulting topic labels after closing the associated approval workflow. Note that you can fetch the labels from the document you created the Markup from using the variable `Labels from documents` below:<br>
 
     <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
 
-1. **Description**: The resulting topic description after closing the associated approval workflow. This section supports the Markdown format and you can use its full potential to format the text, create custom headers and checklists. <br>Hover your mouse on the "?" icon located on the top-right corner of the description box to see how you can make use of all available features (mention teammates and link existing topics) and variables (such as `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) in the case of the approval topic template).<br>​
+1. **Description**: The resulting topic description after closing the associated approval workflow. This section supports the Markdown format and you can use its full potential to format the text, create custom headers and checklists. <br>Hover your mouse on the "?" icon located on the top-right corner of the description box to see how you can make use of all available features (mention teammates and link existing topics) and variables (such as `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) in the case of the approval topic template).<br>
 
     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 
@@ -19435,7 +19435,7 @@ You can filter by:
     - It will not be possible to filter, and see the color, of these statuses until you go back to the [project page](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) and re-open the project.
 - [Labels](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - Due date
-- Location <br>​
+- Location <br>
 
 ### 1.1 Reset filter icon
 
@@ -20021,17 +20021,17 @@ General topic templates can be configured on the [topic template settings page](
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/01-intro.png)
 
-1. First, create a new topic from the regular topic section.<br>​_Access required:_ Write access to a topic board.
-1. Then, select the right topic board within which you want to create your topic.<br>​_Access required:_ Write access to the topic board.
-1. Depending on the topic board you have selected, if general topic templates are configured by an administrator they can be available and suggested in the Template dropdown.<br>​
+1. First, create a new topic from the regular topic section.<br>_Access required:_ Write access to a topic board.
+1. Then, select the right topic board within which you want to create your topic.<br>_Access required:_ Write access to the topic board.
+1. Depending on the topic board you have selected, if general topic templates are configured by an administrator they can be available and suggested in the Template dropdown.<br>
 
     <div class="intercom-container intercom-align-center"><img height="549" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-b8fa9d6ab8dc.png" style="height: auto;" width="500"/></div>
 
-1. Select the right template you want to use. <br>As soon as you select the right template, the new topic will auto-populate with all the fields that were set in the associated topic template settings, accessible from the [topic template settings page](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).<br>​
+1. Select the right template you want to use. <br>As soon as you select the right template, the new topic will auto-populate with all the fields that were set in the associated topic template settings, accessible from the [topic template settings page](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).<br>
 
     <div class="intercom-container intercom-align-center"><img height="731" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-23a75554e46a.png" style="height: auto;" width="500"/></div>
 
-1. You can finally save your topic by clicking the "Submit" button.<br>​
+1. You can finally save your topic by clicking the "Submit" button.<br>
 
 # Using topic templates when saving markup topics
 
@@ -20042,13 +20042,13 @@ Document topic templates can be configured on the [topic template settings page]
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/01-intro.png)
 
 1. First, create an annotation on a document in the document viewer.
-1. Save your Markup as a Topic.<br>​_Access required:_ Write access to a topic board.
-1. A pop-up window will appear to create a Topic from your Markup.<br>​
+1. Save your Markup as a Topic.<br>_Access required:_ Write access to a topic board.
+1. A pop-up window will appear to create a Topic from your Markup.<br>
 
     <div class="intercom-container intercom-align-center"><img height="541" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-9980053aae3a.png" style="height: auto;" width="500"/></div>
 
-1. Then, select the right topic board within which you want to create your topic.<br>​_Access required:_ Write access to the topic board.
-1. Depending on the topic board you have selected, if document topic templates are configured by an administrator they can be available and suggested in the Template dropdown.<br>​
+1. Then, select the right topic board within which you want to create your topic.<br>_Access required:_ Write access to the topic board.
+1. Depending on the topic board you have selected, if document topic templates are configured by an administrator they can be available and suggested in the Template dropdown.<br>
 
     <div class="intercom-container intercom-align-center"><img height="540" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-b8fd0218f860.png" style="height: auto;" width="500"/></div>
 
@@ -20056,7 +20056,7 @@ Document topic templates can be configured on the [topic template settings page]
 
     <div class="intercom-container intercom-align-center"><img height="814" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-50d2237a44b3.png" style="height: auto;" width="500"/></div>
 
-1. You can finally save your topic by clicking the "Save as topics" button.<br>​
+1. You can finally save your topic by clicking the "Save as topics" button.<br>
 
 # Using topic templates with approvals
 
@@ -20076,7 +20076,7 @@ Create a new topic template on the new workflow page.
 
 > **Important:** ℹ️ For a topic to get generated as the result of the closing of an approval, the approval **has to contain a markup**. After closing the configured approval, for each markup in the approval a separate topic is generated.
 
-1. When a new approval workflow is created. <br>You [create a new approval workflow](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow) template, navigate at the bottom of the page until you reach the "Final approval" section. <br>Here, you can link an approval topic template for each review state (and associate document final status).<br>​
+1. When a new approval workflow is created. <br>You [create a new approval workflow](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow) template, navigate at the bottom of the page until you reach the "Final approval" section. <br>Here, you can link an approval topic template for each review state (and associate document final status).<br>
 
     <div class="intercom-container intercom-align-center"><img height="254" src="https://raw.githubusercontent.com/catenda/help-center/main/images/2dv1747h/inline-e90e5114173a.png" style="height: auto;" width="500"/></div>
 
@@ -20790,7 +20790,7 @@ Sharelink - [https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY](https
 
 ### 1.2 **Onboarding and support - [Playlist](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7?track_link_name=Intercom&track_link_id=vrc3txAqpnzG21ahEDofSs&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 
-Sharelink - ​[https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7)
+Sharelink - [https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7)
 
 - [Connect to Catenda Hub](https://eu.guidde.com/share/playbooks/sAJ9zHv65kinzKseJPmNQm?track_link_name=Changelog&track_link_id=nQAaRkkuJwtN2my3y8ZNSK&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [Account Settings and Notifications](https://eu.guidde.com/share/playbooks/6cAvR5y6ugZsAShAwPLL6f?track_link_name=Guidde%20videos%20article&track_link_id=7Hvd2JT6GLw4efuaAPGkX3&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
@@ -20815,7 +20815,7 @@ Sharelink - [https://eu.guidde.com/share/playlists/9EG9WZEd2UiGMPZVVQfHuR](https
 
 ### 1.5 **Content management - [Playlist](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7?track_link_name=Intercom&track_link_id=khM8GzpkYf6nta8Y46UGED&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 
-Sharelink - ​[https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7)
+Sharelink - [https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7)
 
 - [Add folders and subfolders](https://eu.guidde.com/share/playbooks/o7pDsqiQCKPyTGBLifxKgE?track_link_name=Guidde%20videos%20article&track_link_id=aLvZdST9FaxbeYtZShRcoc&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [Create and share a collection](https://eu.guidde.com/share/playbooks/rcTnM584AAZPy6APbGyQS9?track_link_name=Guidde%20videos%20article&track_link_id=vruZ7x8jeTfCrHT6bS911i&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
@@ -20874,7 +20874,7 @@ The videos in the playlist often get updated with changes on the platform. The l
 - Gif
 - Document PDF
 - Slides PDF
-- PPTX​
+- PPTX
 
 ## 3. Sharing the guide
 
@@ -22306,7 +22306,7 @@ Custom field values are displayed in the PDF export of topics
 
 Custom fields are not yet included in the exported BCF. Custom fields will be part of the BCF 4 standard when it gets released. After release we, and other BCF tools that follow the standard will work on making the field available for exchange.
 
-### 3.3 **​Topic Excel export**
+### 3.3 **Topic Excel export**
 
 A column will be added for each custom field in the topic board.
 
@@ -22390,7 +22390,7 @@ Here is a comparison of the advantages and disadvantages of these 2 variants:
 
 You will be able to find good suggestions about how to create a folder structure in [this article](https://support.catenda.com/en/articles/8542598-structuring-documents). You can also find an example of a folder structure used by the State Building Directorate in Bavaria at the following [link](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) Folder structures can be set up very differently. On the one hand, this depends on the requirements of the project and the associated project team, and on the other hand, the folder structure depends on any plan key used.
 
-### 1.1 ​**Example -** Separating structures by phase
+### 1.1 **Example -** Separating structures by phase
 
 A folder structure is set up based on the service phases. This clearly separates which documents from which management phases are stored in which folders. But what happens to documents that apply across all service phases? You might think that if the documents are organized in the folders of the various service phases, this information is no longer needed in the plan key, for example. But what happens when a plan is printed out or sent digitally to the construction site? Here too, the plan name should be used to identify the exact document. In the best case scenario, the folder structure and plan key form a unit that works for all parties involved throughout the entire course of the project.
 
@@ -22497,8 +22497,8 @@ The [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-
 
 **Topic boards** Document board access permissions using two available views:
 
-- **Per-user access view**<br>View individual user access levels directly from the right information menu of a topic board or selected topic.<br>​_Access required:_ read access to the topic board
-- **Full team configuration**<br>Capture screenshots of the complete team-level permission settings within the topic board access settings.<br>​_Access required:_ Full access to the topic board or project administrator
+- **Per-user access view**<br>View individual user access levels directly from the right information menu of a topic board or selected topic.<br>_Access required:_ read access to the topic board
+- **Full team configuration**<br>Capture screenshots of the complete team-level permission settings within the topic board access settings.<br>_Access required:_ Full access to the topic board or project administrator
 
 **Document & Model access** Export the [access overview](https://support.catenda.com/en/articles/6660820-document-access-overview-page) to record permissions for members and teams. Access required: Project administrator. Because every model is linked to a document in the documents section, access permissions for models are governed by the underlying document permissions and are recorded using the same document access overview or permission menus.
 
@@ -22507,7 +22507,7 @@ The [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-
 **Project-wide action permissions** Document project-wide permissions on the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page) (such as creating topic boards, inviting new members, configuring document statuses, and creating or removing models) using two available views:
 
 - **Per-user access view**<br>Project members can expand each menu under access control to see which individual users have permission to perform each action.
-- **Full configuration**<br>Administrators can open the edit access dialogue to view and manage team-level permission configurations.<br>​_Access required:_ Project administrator
+- **Full configuration**<br>Administrators can open the edit access dialogue to view and manage team-level permission configurations.<br>_Access required:_ Project administrator
 
 **User profiles & member details** Information regarding project members and teams is available to extract or document, including:
 
@@ -23791,7 +23791,7 @@ When clickable text in a row is hovered the cursor can change to a pointer. The 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/26-text-hover.png)
 
-## 10. Interacting with rows by clicking​
+## 10. Interacting with rows by clicking
 
 Different behaviors can occur when clicking on the content of a row.
 
@@ -23864,7 +23864,7 @@ v
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/35-copy-row-content.png)
 
-## 11. ​Scroll bars
+## 11. Scroll bars
 
 ### 11.1 Vertical scroll bar
 
@@ -23896,7 +23896,7 @@ Some companies do not allow their employees to create aliases for their emails. 
 
 ### 2.3 **External users**
 
-If you are not able to create separate users for each tender submitter, you can also use your Catenda project as a place to share your tendering information from without inviting the submitters. As seen in the [tendering information base](#h_9ab97bdd71) section, [documents collections](https://support.catenda.com/en/articles/6344318-collections-page) and [3D bookmarks](https://support.catenda.com/en/articles/4670281-bookmarks-page) can be prepared and shared with external parties to use as a base for submittal. This way external users can have access to documents and 3D views in the project ​without being part of it themselves. As the users are not part of the project, document delivery will have to be submitted elsewhere. The submitted documents can be uploaded to the project by the tenderer after they have been submitted.
+If you are not able to create separate users for each tender submitter, you can also use your Catenda project as a place to share your tendering information from without inviting the submitters. As seen in the [tendering information base](#h_9ab97bdd71) section, [documents collections](https://support.catenda.com/en/articles/6344318-collections-page) and [3D bookmarks](https://support.catenda.com/en/articles/4670281-bookmarks-page) can be prepared and shared with external parties to use as a base for submittal. This way external users can have access to documents and 3D views in the project without being part of it themselves. As the users are not part of the project, document delivery will have to be submitted elsewhere. The submitted documents can be uploaded to the project by the tenderer after they have been submitted.
 
 ## 3. **Tendering information base**
 
@@ -24011,7 +24011,7 @@ If the size of a `.ifc` exceeds the upper limit, a `.ifczip` file can be created
 - Compress the `.ifc` file to a `.zip` file.
 - Change the file extension from `.zip` to `.ifczip`
 
-> **Note:** **Example:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip ​`
+> **Note:** **Example:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip `
 
 ## 4. **Contact support**
 
@@ -24300,7 +24300,7 @@ As new features roll out and bugs are fixed articles are updated with the change
 **Frequently Asked Questions**
 
 - [Tables on Catenda](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
-- [Custom member information](https://support.catenda.com/en/articles/11769670-custom-member-information)<br>​
+- [Custom member information](https://support.catenda.com/en/articles/11769670-custom-member-information)<br>
 
 ### 1.2 **Articles that have changed:**
 
@@ -24393,7 +24393,7 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 
 ### 2.4 **Project settings**
 
-- It is once again possible to save filters on notifications pages​
+- It is once again possible to save filters on notifications pages
 
 ## 3. **New videos in playlists**
 
@@ -24758,7 +24758,7 @@ Thanks to your valuable feedback we have been able to squash many topics that yo
 - **[Objects page] Filtered excel export**<br>The objects page now takes every filter into account when exporting to excel instead of just the models filter.
 - **[Objects page] Paginated selection**<br>When scrolling down to further than 100 objects it is now possible to select all rows with the checkbox on the top left instead of just the the first 100 rows.
 - **[Objects page] Periods in names**<br>Names of properties and property sets that have preriods in them are now properly displayed in the header cell of the column on the objects page instead of only everything after the period being displayed. It is now also possible to search on these types of property names.
-- **[Models page] Infinite spinner for shared revisions after being disabled**<br>In projects where shared revisions were disabled after shared model revisions were uploaded while shared revisions were enabled there infinite spinners will no longer be visible in the viewer column on the models page.<br>​
+- **[Models page] Infinite spinner for shared revisions after being disabled**<br>In projects where shared revisions were disabled after shared model revisions were uploaded while shared revisions were enabled there infinite spinners will no longer be visible in the viewer column on the models page.<br>
 
 ### 3.4 **Reports**
 
@@ -25263,7 +25263,7 @@ _[Structuring documents](https://support.catenda.com/en/articles/8542598-structu
 
 **Models** [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) [2D viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) [Queries](https://support.catenda.com/en/articles/4854514-queries)
 
-**Information panel** [Information panel](https://support.catenda.com/en/articles/8238584-information-panel) _​_
+**Information panel** [Information panel](https://support.catenda.com/en/articles/8238584-information-panel)
 
 **Settings** [Labels page](https://support.catenda.com/en/articles/4670265-labels-page) [Creating a team](https://support.catenda.com/en/articles/4670264-creating-a-team)
 
@@ -25374,8 +25374,6 @@ As new features roll out and bugs are fixed articles are updated with the change
 
 **Documents** [Upload a zip / file structure](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) [Actions in the document structure](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure) [Documents page](https://support.catenda.com/en/articles/8204673-documents-page) [Documents banner - Navigation](https://support.catenda.com/en/articles/8461918-document-banner-navigation) [Right menu in a document](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document) [QR-Codes on PDFs in Catenda](https://support.catenda.com/en/articles/9360508-qr-code-on-pdfs-in-catenda) [Document settings](https://support.catenda.com/en/articles/7831371-document-settings) [Right menu on the documents page](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page)
 
-**​**
-
 **Settings** [Custom field page](https://support.catenda.com/en/articles/8445588-custom-field-page) [Custom fields page](https://support.catenda.com/en/articles/6550459-custom-fields-page)
 
 **Plugins and integrations** [Catenda Sharepoint Application](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application) [IFC Export Archicad Manual](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
@@ -25477,8 +25475,6 @@ _Recent updates_ [Status Workflow🖥️Shared ->✔️Published](https://suppor
 **2D & 3D viewers** [Quantity Take Off (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
 
 _Information panel_ [Inspect menu](https://support.catenda.com/en/articles/4670285-inspect-menu) [Information panel](https://support.catenda.com/en/articles/8238584-information-panel)
-
-**​**
 
 **Settings**
 
@@ -26054,7 +26050,7 @@ Some features can be requested to be enabled for existing projects by the contac
 
 The new status workflow no longer has to be requested to be enabled and is now available both for new users and can be enabled for project that are currently using the legacy status workfly by enablling shared revisions in document settings.
 
-### 1.3 ​**Objects page**
+### 1.3 **Objects page**
 
 Search on any content from your IFC with logic. The objects page is an on-demand feature that can be requested to be enabled for ongoing projects. New projects that are created based on a template project where this feature is enabled do not have this feature enabled. For example all "Door entities" from "Model A" that are taller than 2 meters. Configure columns to display the relevant properties for each row element in the table. If filter results have an object in the 3D viewer this object can be selected in 3D. Export selected elements with the configured property columns that are displayed to excel. Similar to the QTO feature objects that are selected in 3D can be filtered as well. Compared to the QTO feature it is not a problem to load thousands of rows in the table.
 
@@ -26424,7 +26420,7 @@ ShareLink sends an email from Catenda Hub to the project members you choose with
     A sharelink recipient will then only see these items.
 If the page is shared with a sharelink recipient they will see the whole page, including filters, based on their access in the project.
 
-1. Click the the ShareLink button.<br>​
+1. Click the the ShareLink button.<br>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 
@@ -26684,7 +26680,7 @@ While being offline on site, you can from now on:
 1. View / Filter /Search issues offline
 1. [Create new issue offline](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
 1. [Add / Update /Delete comments](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues) with pictures and viewpoints offline
-1. Submit all your offline changes from [the new outbox screen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)<br>​
+1. Submit all your offline changes from [the new outbox screen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)<br>
 
 ## 2. Document collections
 
@@ -26798,7 +26794,7 @@ If a document that is part of an approval is deleted it can no longer be found a
 
 Documents that were added to an approval request and that were later deleted can either be recovered by an administrator or discarded from the approval request.
 
-### 3.2 **Withdrawn revision**​
+### 3.2 **Withdrawn revision**
 
 If a document revision that is part of an approval is withdrawn the revision number is struck through and the content of the document will no longer be displayed on the file review page. This is what the document tab can look like when an document that is part of an approval has been deleted:
 

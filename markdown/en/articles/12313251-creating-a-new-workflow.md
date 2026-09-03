@@ -181,7 +181,7 @@ Enable Require review from all team members to require every individual member o
 
 - **When this is off** (the current, only behavior described elsewhere in this help center), any one member of the reviewer team can submit a validation indication on behalf of the whole team, and the step can proceed as soon as they do.
 
-- **When this is on,** the team's step is not complete until every individual member has given their own indication. See the Overview tab, the file review right menu, and the documents tab right menu articles for how this shows up during review.<br>​
+- **When this is on,** the team's step is not complete until every individual member has given their own indication. See the Overview tab, the file review right menu, and the documents tab right menu articles for how this shows up during review.<br>
 
 ### 4.6 **Delete review step**
 

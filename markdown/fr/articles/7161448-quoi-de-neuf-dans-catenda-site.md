@@ -11,7 +11,6 @@ Dorénavant, en étant hors ligne sur le chantier, vous pouvez :
 1. [Créer un nouveau problème hors ligne](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
 1. [Ajouter / Mettre à jour / Supprimer les commentaires](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues) avec des images et des viewpoints hors ligne
 1. Soumettre tous vos changements hors ligne depuis [le nouvel écran de la boîte d'envoi](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)
-   ​
 
 ## 2. Collections de documents
 

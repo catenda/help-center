@@ -25,7 +25,7 @@ If the size of a `.ifc` exceeds the upper limit, a `.ifczip` file can be created
 - Compress the `.ifc` file to a `.zip` file.
 - Change the file extension from `.zip` to `.ifczip`
 
-> **Note:** **Example:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip ​`
+> **Note:** **Example:** `3D-model.ifc` v `3D-model.zip` v `3D-model.ifczip `
 
 ## 4. **Contact support**
 

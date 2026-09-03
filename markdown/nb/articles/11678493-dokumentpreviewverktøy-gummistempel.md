@@ -28,19 +28,19 @@ _Dato og klokkeslett_ Dato og klokkeslett for når du sist lastet inn dokumentfo
 
 ### 2.2 Stempelinnhold
 
-I forhåndsinnstillingsmenyen kan følgende stempler ses: _​_**Fornavn** - Alt før første mellomrom i kontonavn
+I forhåndsinnstillingsmenyen kan følgende stempler ses: **Fornavn** - Alt før første mellomrom i kontonavn
 
 **Mellomnavn Etternavn** - Alt etter første mellomrom i kontonavn
 
 **Fornavn Mellomnavn Etternavn** - Fullstendig kontonavn
 
-**​Fornavn** - Alt før første mellomrom i kontonavn Dato
+**Fornavn** - Alt før første mellomrom i kontonavn Dato
 
 **Mellomnavn Etternavn** - Alt etter første mellomrom i kontonavn Dato
 
 **Fornavn Mellomnavn Etternavn** - Fullstendig kontonavn Dato
 
-_​_**Fornavn** - Alt før første mellomrom i kontonavn Dato og klokkeslett
+**Fornavn** - Alt før første mellomrom i kontonavn Dato og klokkeslett
 
 **Mellomnavn Etternavn** - Alt etter første mellomrom i kontonavn Dato og klokkeslett
 
@@ -64,7 +64,7 @@ _IKKE FOR KONSTRUKSJON_ Fullstendig kontonavn og dato
 
 _ANBUDSDOKUMENT_ Fullstendig kontonavn og dato
 
-## 3. ​Opprett nytt stempel
+## 3. Opprett nytt stempel
 
 Klikk på Opprett nytt stempel for å åpne dialogboksen Opprett nytt stempel. Dialogboksen Opprett nytt stempel kan se slik ut:
 

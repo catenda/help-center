@@ -52,8 +52,6 @@ _最近の更新_ [ステータスワークフロー🖥️共有->✔️公開]
 
 _情報パネル_ [検査メニュー](https://support.catenda.com/en/articles/4670285-inspect-menu) [情報パネル](https://support.catenda.com/en/articles/8238584-information-panel)
 
-**​**
-
 **設定**
 
 **プラグインと統合** [Revit IFC エクスポートマニュアル](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual) [IFC エクスポート Archicad マニュアル](https://IFC%20Export%20Archicad%20Manual)

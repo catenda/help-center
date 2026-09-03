@@ -12,9 +12,9 @@ Die Filter befinden sich im linken Seitenbereich:
 
     <div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-60a1bb50b7da.png" style="height: auto;" width="3360"/></div><div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-84e66eb66553.png" style="height: auto;" width="3360"/></div>
 
-   Es gibt zwei Möglichkeiten:
+Es gibt zwei Möglichkeiten:
 
-   **A.** Sie können einen Reiter im Bereich A auswählen: Heute, gestern, vor einer Woche ...
+**A.** Sie können einen Reiter im Bereich A auswählen: Heute, gestern, vor einer Woche ...
 
     <div class="intercom-container"><img height="530" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-2a7e66b298c6.png" style="height: auto;" width="280"/></div>
 

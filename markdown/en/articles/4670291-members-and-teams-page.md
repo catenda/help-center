@@ -60,7 +60,7 @@ The members table can contain the following columns:
 
 **Role** The role of the member. Owner (Blue) Administrator (Orange) Member (Green)
 
-**Teams** Each member can be part of multiple teams. The team that a member belongs to are displayed in this column​. Administrator team (Orange) Member team (Green) If the total amount of teams a member belongs to does not fit adjust the width of the column or click on the three dots to see the rest.
+**Teams** Each member can be part of multiple teams. The team that a member belongs to are displayed in this column. Administrator team (Orange) Member team (Green) If the total amount of teams a member belongs to does not fit adjust the width of the column or click on the three dots to see the rest.
 
 ## 5. **Teams tab**
 

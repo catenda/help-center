@@ -28,7 +28,7 @@ Wenn ein Dokument, das Teil einer Genehmigung ist, gelöscht wird, kann es nicht
 
 Dokumente, die zu einer Genehmigungsanfrage hinzugefügt und später gelöscht wurden, können entweder von einem Administrator wiederhergestellt oder aus der Genehmigungsanfrage verworfen werden.
 
-### 3.2 **Zurückgezogene Revision**​
+### 3.2 **Zurückgezogene Revision**
 
 Wenn eine Dokumentrevision, die Teil einer Genehmigung ist, zurückgezogen wird, wird die Revisionsnummer durchgestrichen und der Inhalt des Dokuments wird nicht mehr auf der Dateiüberprüfungsseite angezeigt. So kann die Registerkarte "Dokumente" aussehen, wenn ein Dokument, das Teil einer Genehmigung ist, gelöscht wurde:
 

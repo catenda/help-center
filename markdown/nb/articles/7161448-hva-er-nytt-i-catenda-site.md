@@ -11,7 +11,6 @@ Mens du er offline på stedet, kan du nå:
 1. [Opprett ny problemstilling offline](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
 1. [Legg til / Oppdater / Slett kommentarer](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues) med bilder og viewpoints offline
 1. Send alle offlineendringene dine fra [den nye utboksen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)
-   ​
 
 ## 2. Dokumentsamlinger
 

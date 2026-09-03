@@ -62,6 +62,7 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [2D viewer - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7748370-2d-viewer-catenda-site.md)
 - [2D viewer gebouwen en verdiepingen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/10901703-2d-viewer-gebouwen-en-verdiepingen.md)
 - [2D Viewer-interacties](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12699525-2d-viewer-interacties.md): Interactie met de 2D Viewer
+- [2D- en 3D-gezichtspunten](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9184555-2d-en-3d-gezichtspunten.md)
 - [2D-viewer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4854537-2d-viewer.md): Beschrijft de verschillende tools in de 2D-werkbalk
 - [2D-viewer uiterlijk](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/13615984-2d-viewer-uiterlijk.md)
 - [3D Viewer-instellingen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5784718-3d-viewer-instellingen.md)
@@ -71,6 +72,7 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [3D-viewermenu](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670294-3d-viewermenu.md): Beschrijft de 3D viewer tools in Catenda Hub
 - [Aangepaste velden gebruiken in naamgevingsconventie](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7869240-aangepaste-velden-gebruiken-in-naamgevingsconventie.md)
 - [Aangepaste velden in een topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/6563368-aangepaste-velden-in-een-topic-board.md)
+- [Aangepaste velden op documenten](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9531080-aangepaste-velden-op-documenten.md)
 - [Aanvraag voor goedkeuring - beoordelingmenu aan de rechterkant](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12507519-aanvraag-voor-goedkeuring-beoordelingmenu-aan-de-rechterkant.md)
 - [Acties in de Catenda Revit-invoegtoepassing](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/13168755-acties-in-de-catenda-revit-invoegtoepassing.md)
 - [Acties in de documententabel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670288-acties-in-de-documententabel.md)
@@ -86,6 +88,7 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Bibliotheek Eigenschapwaarde](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670252-bibliotheek-eigenschapwaarde.md)
 - [Bibliotheek pagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8065645-bibliotheek-pagina.md)
 - [Bordenpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9413644-bordenpagina.md)
+- [Botsingsdetectie in Navisworks](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7120422-botsingsdetectie-in-navisworks.md)
 - [Catenda Archicad-plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5519276-catenda-hub-plugin-voor-archicad.md)
 - [Catenda Desktop Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8358861-bureaubladverbinding-desktop-connector.md)
 - [Catenda Navisworks-plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5085987-catenda-hub-navisworks-plugin.md)
@@ -138,6 +141,7 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Filteren op de onderwerppagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8370693-filteren-op-de-onderwerpen-pagina.md)
 - [Filteren op de pagina goedkeuringen - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8551740-filteren-op-de-pagina-goedkeuringen-legacy.md)
 - [Filteren op de verzamelingenpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8999945-filteren-op-de-verzamelingenpagina.md)
+- [Geavanceerde naamgevingsconventie](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7936947-geavanceerde-naamgevingsconventie.md)
 - [Gerelateerde problemen gebruiken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/5036456-gerelateerde-problemen-gebruiken.md): Gerelateerde problemen helpen gebruikers om de voortgang bij te houden en in de gaten te houden.
 - [Goedkeuring geopend, gepubliceerd of verwijderd - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8349418-goedkeuring-geopend-gepubliceerd-of-verwijderd-legacy.md)
 - [Goedkeuringsaanvraag documenten rechts menu](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12495638-goedkeuringsaanvraag-documenten-rechts-menu.md)
@@ -151,6 +155,7 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Houd aantekeningen met markeringen bij](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/10210710-houd-aantekeningen-met-markeringen-bij.md)
 - [IFC Export Archicad Handboek](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670338-ifc-archicad-exporteren-handleiding.md)
 - [Implementatie van Toegangsbeheer - Gebruiksscenario's](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/15644249-implementatie-van-toegangsbeheer-gebruiksscenario-s.md)
+- [Informatie bijhouden via koppelingen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8294909-informatie-bijhouden-via-koppelingen.md)
 - [Informatiepaneel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8238584-informatiepaneel.md)
 - [Inspectmenu](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670285-inspectmenu.md)
 - [Kolommen op de documentenpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8466850-kolommen-op-de-documentenpagina.md)
@@ -159,11 +164,13 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Labelfilter - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7854138-labelfilter-catenda-site.md)
 - [Lijstweergave in een topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/6941232-lijstweergave-in-een-topic-board.md)
 - [Maak een rapport van onderwerpen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/14006222-maak-een-rapport-van-onderwerpen.md)
+- [Maken van Topic board ACL](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670299-maken-van-topic-board-acl.md)
 - [Mapconfiguratie - Documentinstellingen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12302595-mapconfiguratie-documentinstellingen.md)
 - [Mappen en Documenten toegangscontrole](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670287-mappen-en-documenten-toegangscontrole.md): Toegangsniveaus voor documenten
 - [Matrix voor goedkeuringsbewerkingen en -acties](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/16195101-matrix-voor-goedkeuringsbewerkingen-en-acties.md): Gedetailleerde operationele gids met beschrijving van machtigingen voor weergave en uitvoering van acties in alle fasen van concepten, beoordeling en definitieve goedkeuring, gestructureerd naar pre-indiening- en post-indieningsfasen van de levenscyclus.
 - [Meetvlak](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8360838-meetvlak.md)
 - [Meten naar schuifvlakken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670298-meten-naar-schuifvlakken.md)
+- [Microsoft Teams-notificaties](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9167392-microsoft-teams-notificaties.md): Blijf op de hoogte zonder van tabblad te wisselen. Verbind Catenda Hub met Microsoft Teams om real-time notificaties rechtstreeks in uw voorkeurkanalen te ontvangen.
 - [Modelboom-paneel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670290-modelboom-paneel.md)
 - [Modelconfiguratie](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8300623-modelconfiguratie.md)
 - [Modellapagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670286-pagina-modellen.md)
@@ -171,12 +178,15 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Nieuwe Labels maken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8626709-nieuwe-labels-maken.md)
 - [Nieuwe statusworkflow - ISO 19650](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9874698-het-publiceren-van-revisies-iso-19650.md)
 - [Objectenpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12352750-objectenpagina.md)
+- [Offline-modus in Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7325268-offline-modus-in-catenda-site.md)
 - [Onderwerp Header - Het onderwerp van een onderwerp](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8400566-onderwerp-header-het-onderwerp-van-een-onderwerp.md)
 - [Onderwerpen menu - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7734073-onderwerpen-menu-catenda-site.md)
 - [Onderwerpen naar PDF exporteren](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9784934-onderwerpen-naar-pdf-exporteren.md)
 - [Onderwerplichaam - De inhoud van een onderwerp](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8053352-topicbody-de-inhoud-van-een-topic.md)
 - [Onderwerpsgeschiedenis](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8613038-onderwerpsgeschiedenis.md)
+- [Onderwerpsjablonen gebruiken bij het opslaan van markeringsonderwerpen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/14078352-onderwerpsjablonen-gebruiken-bij-het-opslaan-van-markeringsonderwerpen.md): Een documentonderwerpsjabloon toepassen bij het maken van een markering vanuit een document
 - [Onderwerpsjablonenpagina - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12367730-onderwerpsjablonenpagina-legacy.md)
+- [Onderwerpssjablonen in een onderwerpsboard gebruiken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/14075921-onderwerpssjablonen-in-een-onderwerpsboard-gebruiken.md): Een algemeen onderwerpssjabloon toepassen bij het maken van een onderwerp
 - [Onderwerpssjabloonpagina - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12371549-onderwerpssjabloonpagina-legacy.md)
 - [Open of gesloten goedkeuringsverzoekaanvraag](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12494960-open-of-gesloten-goedkeuringsverzoekaanvraag.md)
 - [Overzichtstabblad in een beoordelingsverzoek](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12495126-overzichtstabblad-in-een-beoordelingsverzoek.md)
@@ -198,6 +208,7 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Pagina Model Export](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670280-pagina-model-export.md)
 - [Pagina naamgevingsafspraken](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7832559-pagina-naamgevingsafspraken.md)
 - [Pagina Opgeslagen views](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670281-pagina-opgeslagen-views.md)
+- [Pagina Topic template-instellingen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/14076010-pagina-topic-template-instellingen.md): Beheer uw Topic template-instellingen
 - [Pagina Topic-instellingen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/14183429-pagina-topic-instellingen.md)
 - [Pagina Topics](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670271-pagina-topics.md)
 - [Pagina voor conceptgoedkeuringsverzoe](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12495175-pagina-voor-conceptgoedkeuringsverzoe.md)
@@ -235,6 +246,7 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Statistiekenpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7575491-statistiekenpagina.md)
 - [Status werkstroom - Documentinstellingen - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12310173-status-werkstroom-documentinstellingen-legacy.md)
 - [Statuswerkstroom - Documenten instellingen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12495583-statuswerkstroom-documenten-instellingen.md)
+- [Tabblad Documenten in een beoordelingsverzoek](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12495130-tabblad-documenten-in-een-beoordelingsverzoek.md)
 - [Tabel acties onderwerpen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670284-tabel-acties-onderwerpen.md)
 - [Tabelweergave in een topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/6941099-tabelweergave-in-een-topic-board.md)
 - [Toegang met beperkte schermruimte](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/10695677-toegang-met-beperkte-schermruimte.md)
@@ -242,6 +254,8 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Toegangscontroleniveaus](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8967083-toegangscontroleniveaus.md)
 - [Toevoegen aan startscherm](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/10741601-toevoegen-aan-startscherm.md)
 - [Topic board van een bestaand topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/6379614-topic-board-van-een-bestaand-topic-board.md)
+- [Topic-templates gebruiken met goedkeuringen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/14078683-topic-templates-gebruiken-met-goedkeuringen.md): Een goedkeuringonderwerpsjabloon toepassen op een goedkeuringswerkstroomsjabloon
+- [Topicbanner - Navigeren door topics](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7986346-topicbanner-navigeren-door-topics.md)
 - [Verdiepingsconfiguratoracties](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12291366-verdiepingsconfiguratoracties.md)
 - [Verdiepingsconfiguratorpagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/6921756-verdiepingsconfiguratorpagina.md): Een PDF als overlay in uw 2D-weergave
 - [Verschuifvlak-vervolgkeuze](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670327-verschuifvlak-vervolgkeuze.md)
@@ -333,6 +347,7 @@ Hier vind u antwoorden voor vragen die veel gebruikers hebben
 - [Projectbeveiliging](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8263256-projectbeveiliging.md)
 - [Sortingsvolgorde van lijsten](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8487788-sortingsvolgorde-van-lijsten.md)
 - [Status Workflow - API-updates](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12289689-status-workflow-api-updates.md): Introductie van de API-wijzigingen van de nieuwe Status Workflow-functie, waarbij we gedeelde en gepubliceerde status onderscheiden volgens ISO 19650. Voor klanten en integratiepartners die de Catenda API gebruiken.
+- [Tabellen op Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/11748020-tabellen-op-catenda.md)
 - [Veelgestelde vragen organisatietool](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/10475849-veelgestelde-vragen-organisatietool.md)
 - [Veelgestelde vragen over aangepaste velden](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/11384331-veelgestelde-vragen-over-aangepaste-velden.md)
 - [Waar kan ik de GUID voor het IFC-object vinden?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670333-waar-kan-ik-de-guid-voor-het-ifc-object-vinden.md)
@@ -358,6 +373,7 @@ Vind de laatste Catenda updates
 - [Changelog 11 Catenda - januari 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12529903-changelog-11-catenda-januari-2025.md)
 - [Changelog 12 Catenda, april 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/13413499-changelog-12-catenda-april-2026.md)
 - [Changelog 13 Catenda - augustus 2026](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/15655135-changelog-13-catenda-augustus-2026.md): Catenda-productupdates: de nieuwe Kanban-weergave voor topics, verbeterde goedkeuringswerkstromen, Catenda AI Connect en Gegevensexport. Met opgeloste bugs, nieuwe videotutorials en bijgewerkte documentatie voor modellen, documenten en topics.
+- [Changelog 2 Catenda - juli 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7338675-changelog-2-catenda-juli-2023.md)
 - [Changelog 3 Catenda - oktober 2023](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7983534-changelog-3-catenda-oktober-2023.md): Nieuwe informatie en kleine wijzigingen
 - [Changelog 5 Catenda - April 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8851281-changelog-5-catenda-april-2024.md)
 - [Changelog 7 Catenda - december 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9691178-changelog-7-catenda-december-2024.md)
@@ -388,6 +404,7 @@ Vind de laatste Catenda updates
 - [Wat is er nieuw in Catenda Hub?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7150907-wat-is-er-nieuw-in-catenda-hub.md): Ontdek de nieuwe look en feel van jouw favoriete platform
 - [Wat is er nieuw in Catenda Site?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/7161448-wat-is-er-nieuw-in-catenda-site.md)
 - [Wijzigingslog 8 Catenda - maart 2025](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/10288759-wijzigingslog-8-catenda-maart-2025.md)
+- [Wijzigingslogboek 4 Catenda - januari 2024](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8433887-wijzigingslogboek-4-catenda-januari-2024.md): Nieuwe informatie en kleine wijzigingen
 - [🎉 Nieuwe API-documentatie 🎉](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9857242-nieuwe-api-documentatie.md)
 
 ## Probleemoplossingen

@@ -89,7 +89,7 @@ Velg et sett med dokumenter ved å merke av i boksene, eller merk av boksen øve
 
 Etter valg vises informasjonsmenyen øverst til høyre. Hvis den er lukket, klikker du på `i`-ikonet for å utvide det.
 
-### 5.4 ​**Høyre informasjonsmeny -** Last ned
+### 5.4 **Høyre informasjonsmeny -** Last ned
 
 Når du importerer kan du konfigurere hvilke dokumenter som skal importeres til Solibri.
 

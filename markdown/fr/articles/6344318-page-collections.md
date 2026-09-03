@@ -18,7 +18,7 @@ Vous trouverez le bouton Nouvelle collection en haut à droite
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/02-new-item-actions.png)
 
-### 1.1 **​Nouvelle collection**
+### 1.1 **Nouvelle collection**
 
 Lorsque vous créez une nouvelle collection, vous serez invité à remplir le dialogue suivant.
 

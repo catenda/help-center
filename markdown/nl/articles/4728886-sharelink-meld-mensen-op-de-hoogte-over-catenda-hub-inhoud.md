@@ -27,7 +27,6 @@ Bijvoorbeeld enkele Documenten of Topics.
 Een sharelink-ontvanger ziet dan alleen deze items. Als de pagina met een sharelink-ontvanger wordt gedeeld, zien zij de volledige pagina, inclusief Filters, op basis van hun toegang in het project.
 
 1. Klik op de ShareLink-knop.
-   ​
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 

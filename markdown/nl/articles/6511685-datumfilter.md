@@ -12,9 +12,9 @@ De filters bevinden zich in het linkerpaneel:
 
     <div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-60a1bb50b7da.png" style="height: auto;" width="3360"/></div><div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-84e66eb66553.png" style="height: auto;" width="3360"/></div>
 
-   Er zijn twee mogelijkheden:
+Er zijn twee mogelijkheden:
 
-   **A.** Je kunt een tabblad in paneel A kiezen: Vandaag, gisteren, een week geleden ...
+**A.** Je kunt een tabblad in paneel A kiezen: Vandaag, gisteren, een week geleden ...
 
     <div class="intercom-container"><img height="530" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-2a7e66b298c6.png" style="height: auto;" width="280"/></div>
 
