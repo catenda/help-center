@@ -2,8 +2,6 @@
 
 Catenda webpartを使用すると、SharePointページ内でCatendaプロジェクトのドキュメントセクションを参照できます。_Catendaアクセス必須:_ ドキュメント構造を参照するには読み取りアクセス、SharePointファイルをCatendaにアップロードするには書き込みアクセスが必要です。
 
-この記事では、以下のトピックについて説明します：
-
 ## 1. **webpartの追加**
 
 SharePointで既存のページを編集するか、新しいページを作成して編集します。編集モードでページにカーソルを合わせると、プラス記号`----+-----`の線が表示されるまで待ちます。[Catenda SharePointアプリケーション](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application)がサイトに追加されている場合、webpartのリスト内でCatendaドキュメントWebpartを見つけることができます。

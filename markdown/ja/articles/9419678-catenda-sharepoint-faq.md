@@ -1,7 +1,5 @@
 # Catenda SharePoint FAQ
 
-この記事で説明されている次のトピック:
-
 ## 1. **SharePoint を Catenda と統合するにはどうすればよいですか?**
 
 Catenda と統合する方法は 2 つあります。

@@ -6,8 +6,6 @@
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/01-intro.png)
 
-以下のトピックについて説明しています：
-
 ## 1. **既存マーカー付きトピック**
 
 ### 1.1 **マーカーとの相互作用**

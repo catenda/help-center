@@ -6,13 +6,9 @@
 
 _[記事](https://support.catenda.com/en/articles/9285880-changelog-6-catenda-august-2024#h_a8cc7b1921) - [解決されたバグ](https://support.catenda.com/en/articles/9285880-changelog-6-catenda-august-2024#h_58dfb1b852) - [ユーザーボイスがリリースされました](https://support.catenda.com/en/articles/9285880-changelog-6-catenda-august-2024#h_5ed2c6f14d) - [新しいリリース](https://support.catenda.com/en/articles/9285880-changelog-6-catenda-august-2024#h_25203946b2)_
 
-この記事に記載されている以下のトピック：
-
 ## 1. **記事**
 
 新機能がロールアウトされ、バグが修正されると、記事は加えられた変更で更新されます。最後のチェンジログ以来、作成および変更された次の記事をご覧ください。
-
-このセクションに記載されている以下のトピック：
 
 ### 1.1 **新しい記事:**
 
@@ -67,8 +63,6 @@ _情報パネル_ [検査メニュー](https://support.catenda.com/en/articles/4
 ## 2. **解決されたバグ**
 
 皆さんの貴重なご意見のおかげで、多くの問題を解決することができました。以下は、ユーザーとの対話の結果として開発チームが行った小さな変更のリストです。
-
-このセクションに記載されている以下のトピック：
 
 ### 2.1 **ドキュメント**
 

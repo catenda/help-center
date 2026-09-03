@@ -6,8 +6,6 @@ Hello everyone
 
 _[記事](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [トピック解決](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [新しいリリース](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)_
 
-この記事で説明されているトピックは以下の通りです：
-
 ## 1. **記事**
 
 新機能がロールアウトされ、バグが修正されると、記事は行われた変更で更新されます。最後のチェンジログ以降に作成・変更された以下の記事を参照してください。

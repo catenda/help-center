@@ -6,8 +6,6 @@
 
 Catenda プロジェクトのモデルセクションからの 3D モデルは、Catenda Site の 3D ビューアで有効/無効にできます。
 
-この記事では、以下のトピックについて説明します：
-
 ## 1. **モデルセレクター**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/02-model-selector.png)

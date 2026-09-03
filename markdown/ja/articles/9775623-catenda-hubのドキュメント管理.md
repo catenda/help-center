@@ -20,8 +20,6 @@ Common Data Environment Catenda HUBの重要な部分はドキュメント領域
 
 <div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e8e8e880; padding: 8px;"><p class="intercom-align-center">利点</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; padding: 8px;"><p class="intercom-align-center">欠点</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>フォルダ構造に基づいた構造化された整理と、動的なアプローチのための他の可能なメタデータの組み合わせ</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>両方を事前によく調整する必要があります</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>ドキュメントはフォルダ構造と名前+メタデータを介して非常に簡単に割り当てられ、見つけることができます</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr></tbody></table></div>
 
-この記事では、以下のトピックについて説明しています：
-
 ## 1. **フォルダ構造の例**
 
 フォルダ構造を作成する方法についての良い提案は、[この記事](https://support.catenda.com/en/articles/8542598-structuring-documents)に記載されています。バイエルン州建設局が使用しているフォルダ構造の例は、以下の[リンク](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX)に記載されています。フォルダ構造は非常に異なる方法で設定できます。一方、これはプロジェクトの要件と関連するプロジェクトチームに依存し、他方、フォルダ構造は使用される計画キーに依存します。

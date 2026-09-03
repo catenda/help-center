@@ -4,8 +4,6 @@
 
 Catenda SharePoint アプリケーションが SharePoint サイトに追加されると、SharePoint から Catenda にファイルを公開でき、Catenda ドキュメント構造を SharePoint で表示できます。設定すると、アプリケーションは次のようになります: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/>この記事には、このアプリケーションがどのように機能するかについての情報が含まれていますこのアプリケーションが有用な方法の詳細については、[こちら](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq)を参照してください。SharePoint アプリケーションをサイトに追加する方法については、[こちら](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app)を参照してください。
 
-この記事で説明するトピックは以下の通りです：
-
 ## 1. **リストコマンドを使用したCatendaへの公開**
 
 リストコマンドを使用すると、1つ以上のファイルをCatendaに公開できます。

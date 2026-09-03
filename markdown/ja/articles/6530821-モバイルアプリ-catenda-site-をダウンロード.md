@@ -6,8 +6,6 @@
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/p552jtap/01-intro.png)
 
-この記事で説明されている以下のトピック：
-
 ## 1. **Catenda Site について**
 
 Catenda は、建設およびインフラプロジェクトをサポートします。Catenda Site を使用すれば、建設現場でもそのサポートが継続されます。

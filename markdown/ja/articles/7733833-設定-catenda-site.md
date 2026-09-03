@@ -4,8 +4,6 @@ Catenda Site の設定は[メニュー](https://support.catenda.com/en/articles/
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/an1f6vfe/01-intro.png)
 
-この記事では以下のトピックについて説明しています：
-
 ## 1. **設定**
 
 アカウントの設定を構成します。

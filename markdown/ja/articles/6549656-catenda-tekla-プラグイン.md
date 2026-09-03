@@ -4,8 +4,6 @@
 
 > **注意:** プラグインのインストール ファイルは、[このナレッジベース記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)で確認できます。
 
-このナレッジベース記事では、以下のトピックについて説明します：
-
 ## 1. **インストール**
 
 Windows に Catenda Revit プラグインをインストールすると、インストール ファイルは次のフォルダーに配置されます。

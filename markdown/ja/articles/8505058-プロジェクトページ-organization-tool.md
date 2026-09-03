@@ -6,8 +6,6 @@
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/9sr2253p/01-intro.png)
 
-以下のトピックについて説明します：
-
 ## 1. 検索とフィルター
 
 プロジェクトページでは、以下の項目でフィルタリングできます：

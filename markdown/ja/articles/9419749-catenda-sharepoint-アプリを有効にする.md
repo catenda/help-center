@@ -24,8 +24,6 @@ SharePointストアエントリの外観は以下のようなものです：
 
 **https://\<Tenant>.sharepoint.com/\_layouts/15/appStore.aspx/appDetail/WA200005981**
 
-このアーティクルで説明されているトピックは次のとおりです：
-
 ## 1. **通常の SharePoint ユーザー**
 
 通常のSharePointユーザーは、「アプリにサイトを追加」ボタンをクリックして、CatendaSharePointアプリを有効にするようリクエストできます。SharePointストアの「マイリクエスト」ページで、リクエストが承認されたかどうかを確認できます。管理者の場合は、アプリカタログからリクエストを承認できます

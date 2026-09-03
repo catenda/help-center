@@ -6,8 +6,6 @@
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/01-intro.png)
 
-このアーティクルで説明されているトピックは以下の通りです：
-
 ## 1. **フォルダ設定**
 
 QRコードスタンプは、ドキュメントページで[設定されたフォルダに対して有効にできます](https://support.catenda.com/en/articles/7831371-document-settings#h_166a269870)。_必要なアクセス権:_ 管理者

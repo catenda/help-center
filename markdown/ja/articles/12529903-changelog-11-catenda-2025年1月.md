@@ -8,8 +8,6 @@
 
 _[記事](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_a1a4085421) - [バグ](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_43a9641d96) - [ビデオ](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_1ec3df5bf7) - [ユーザーの声](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_4c273d2715) - [新しいリリース](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_fea31925e9) - [機能のステータス](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_76a41f54f2)_
 
-この記事では、以下のトピックについて説明しています：
-
 ## 1. **記事**
 
 新しい機能がロールアウトされてバグが修正されると、記事は行われた変更で更新されます。前回のchangelog以降に作成・変更された以下の記事をご覧ください。
