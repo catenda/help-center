@@ -43,10 +43,10 @@ Derzeit gibt es keine offizielle Möglichkeit, aus Navisworks zu IFC zu exportie
 1. Speichern unter - Geben Sie den Pfad zur Datei ein oder klicken Sie auf "Durchsuchen", um den Ordner zu suchen, in dem Sie Ihre IFC speichern möchten
 1. Wählen Sie aus, welche Zeichnungsdateien Sie zu IFC exportieren möchten
 1. Optionen
-   1. Header – Autor, Organisation usw.
-      1. IFC-Schema zum Exportieren auswählen – IFC 2x3 und IFC 4
-   1. Objekte – Alle
-   1. Ansicht – Alle einschließen
+    1. Header – Autor, Organisation usw.
+        1. IFC-Schema zum Exportieren auswählen – IFC 2x3 und IFC 4
+    1. Objekte – Alle
+    1. Ansicht – Alle einschließen
 
 > **Hinweis:** IFC 4x1 wird von BuildingSMART eingestellt und wird daher auch von Catenda Hub nicht unterstützt. Siehe [hier](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support), welche Dateitypen in Catenda Hub unterstützt werden
 

@@ -160,17 +160,17 @@ Das Einrichten automatisierter Datenexporte umfasst vier Hauptschritte:
 1. **Ziel auswählen**
    Wählen Sie einen Cloud-Speicheranbieter, Amazon Web Services (AWS) S3 oder Microsoft Azure Blob-Speicher, und konfigurieren Sie die Authentifizierung.
 1. **Umfang & Datenformate definieren**
-   - **Datentypen**
-     Exportieren Sie Dokumente, Modelle und Themen.
-     Themendaten können während der Übertragung automatisch in lesbare PDF-Zusammenfassungsberichte oder Standard-BCF-Dateien konvertiert werden.
-   - **Projektauswahl**
-     Wählen Sie alle Projekte aus, wählen Sie spezifische Projekte per Hand aus, oder richten Sie dynamische Matching-Regeln mithilfe von Projektnamenmustern (Glob oder regulärer Ausdruck / Regex) ein, um automatisch neue Projekte einzubeziehen, während sie erstellt werden.
+    - **Datentypen**
+      Exportieren Sie Dokumente, Modelle und Themen.
+      Themendaten können während der Übertragung automatisch in lesbare PDF-Zusammenfassungsberichte oder Standard-BCF-Dateien konvertiert werden.
+    - **Projektauswahl**
+      Wählen Sie alle Projekte aus, wählen Sie spezifische Projekte per Hand aus, oder richten Sie dynamische Matching-Regeln mithilfe von Projektnamenmustern (Glob oder regulärer Ausdruck / Regex) ein, um automatisch neue Projekte einzubeziehen, während sie erstellt werden.
 1. **Exportmodus wählen**
-   - **Kontinuierlicher Modus**
-     Versendet Daten automatisch nach einem täglichen Zeitplan.
-     Diese wiederkehrende Einrichtung stellt sicher, dass Nicht-Eigentümer-Projektmitglieder eine aktualisierte Sicherung bis zur letzten täglichen Ausführung beibehalten, wenn der Projektaccess unerwartet endet.
-   - **Snapshot-Modus**
-     Führt eine einmalige Ausführung durch, um einen vollständigen Datensatz bei einem spezifischen Meilenstein oder einer Projektübergabe zu exportieren.
+    - **Kontinuierlicher Modus**
+      Versendet Daten automatisch nach einem täglichen Zeitplan.
+      Diese wiederkehrende Einrichtung stellt sicher, dass Nicht-Eigentümer-Projektmitglieder eine aktualisierte Sicherung bis zur letzten täglichen Ausführung beibehalten, wenn der Projektaccess unerwartet endet.
+    - **Snapshot-Modus**
+      Führt eine einmalige Ausführung durch, um einen vollständigen Datensatz bei einem spezifischen Meilenstein oder einer Projektübergabe zu exportieren.
 1. **Bereitstellen**
    Finalisieren und aktivieren Sie die Exportkonfiguration durch Auswahl der Erstellung.
 

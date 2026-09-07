@@ -53,31 +53,31 @@ Dine preferanser for å utvide og trekke sammen filtermenyer på ulike sider vil
 Du vil kunne lagre filtre på følgende sider:
 
 - Startside
-  - [Varselsside for konto](https://support.catenda.com/en/articles/7439223-account-notifications-page)
-  - Organisasjonsverktøy
-    - [Brukerside](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-    - [Prosjektside](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-    - [Prosjektmedlemskapside](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Varselsside for konto](https://support.catenda.com/en/articles/7439223-account-notifications-page)
+    - Organisasjonsverktøy
+        - [Brukerside](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+        - [Prosjektside](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+        - [Prosjektmedlemskapside](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 - Prosjekt
-  - [Sakstabell](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
-  - Modeller
-    - [Modellside](https://support.catenda.com/en/articles/4670286-models-page)
-    - [Bokmerkerside](https://support.catenda.com/en/articles/4670281-bookmarks-page)
-    - [Objekterside](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-  - Dokumenter
-    - [Dokumenterside](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-    - [Samlingerside](https://support.catenda.com/en/articles/6344318-collections-page)
-    - [Godkjenningsside](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
-  - Rapporter
-    - Rapportside
-  - Bibliotek
-    - [Lenkebibliotek](https://support.catenda.com/en/articles/4670254-links-library)
-    - [Sharepoint-bibliotek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-    - [Dropbox-bibliotek](https://support.catenda.com/en/articles/8065645-libraries-page)
-    - [Egenskapsverdibibliotek](https://support.catenda.com/en/articles/4670252-property-value-library)
-    - [Klassifikasjonsbibliotek](https://support.catenda.com/en/articles/4670255-classification-library)
-  - [Prosjektvarselsside](https://support.catenda.com/en/articles/4670295-project-notifications-page)
-  - Prosjektinnstillinger
-    - [Tilpasset feltside](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-    - [Etikettside](https://support.catenda.com/en/articles/4670265-labels-page)
-    - [Medlemmerside](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
+    - [Sakstabell](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
+    - Modeller
+        - [Modellside](https://support.catenda.com/en/articles/4670286-models-page)
+        - [Bokmerkerside](https://support.catenda.com/en/articles/4670281-bookmarks-page)
+        - [Objekterside](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - Dokumenter
+        - [Dokumenterside](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+        - [Samlingerside](https://support.catenda.com/en/articles/6344318-collections-page)
+        - [Godkjenningsside](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+    - Rapporter
+        - Rapportside
+    - Bibliotek
+        - [Lenkebibliotek](https://support.catenda.com/en/articles/4670254-links-library)
+        - [Sharepoint-bibliotek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+        - [Dropbox-bibliotek](https://support.catenda.com/en/articles/8065645-libraries-page)
+        - [Egenskapsverdibibliotek](https://support.catenda.com/en/articles/4670252-property-value-library)
+        - [Klassifikasjonsbibliotek](https://support.catenda.com/en/articles/4670255-classification-library)
+    - [Prosjektvarselsside](https://support.catenda.com/en/articles/4670295-project-notifications-page)
+    - Prosjektinnstillinger
+        - [Tilpasset feltside](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+        - [Etikettside](https://support.catenda.com/en/articles/4670265-labels-page)
+        - [Medlemmerside](https://support.catenda.com/en/articles/4670291-members-and-teams-page)

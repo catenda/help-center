@@ -51,8 +51,8 @@ _Clic gauche_ S'il y a des espaces dans l'étage de la vue 2D qui est activée p
 - _Créer un nouveau sujet avec marqueur_
   Créer un nouveau sujet avec marqueur. Ce marqueur ne sera pas enregistré et visible pour les autres jusqu'à ce que le sujet soit envoyé.
 - _Créer une requête_
-  - Intersecter espace - Créer une [requête](https://support.catenda.com/en/articles/4854514-queries) de tous les objets intersectant avec l'espace sélectionné
-  - Intersecter étage - Créer une [requête](https://support.catenda.com/en/articles/4854514-queries) de tous les objets intersectant avec cet étage
+    - Intersecter espace - Créer une [requête](https://support.catenda.com/en/articles/4854514-queries) de tous les objets intersectant avec l'espace sélectionné
+    - Intersecter étage - Créer une [requête](https://support.catenda.com/en/articles/4854514-queries) de tous les objets intersectant avec cet étage
 
 ### 3.2 **Maintenir le bouton souris**
 

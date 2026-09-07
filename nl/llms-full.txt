@@ -1295,7 +1295,7 @@ Volg de onderstaande stappen om een nieuw lid uit te nodigen.
 Als de groep dezelfde rol zal hebben en onderdeel zal zijn van hetzelfde team, kunt u meer dan één e-mailadres invullen.
 
 1. Voer het e-mailadres in en druk op Enter, doe hetzelfde voor elk nieuw e-mailadres
-   1. U kunt ook een kommagescheiden lijst met e-mailadressen invullen en op Enter drukken om meerdere adressen tegelijk toe te voegen.
+    1. U kunt ook een kommagescheiden lijst met e-mailadressen invullen en op Enter drukken om meerdere adressen tegelijk toe te voegen.
 1. Kies de rol/toegang voor de nieuwe leden
 1. Kies de teams waarvan de leden onderdeel zouden moeten zijn.
 1. Klik op de knop Toevoegen
@@ -2565,8 +2565,8 @@ _Linkermuisklik_ Als er spaties zijn in de verdieping van de 2D-weergave die voo
 - _Een nieuw onderwerp met markering maken_
   Een nieuw onderwerp met markering maken. Deze markering wordt niet opgeslagen en is pas zichtbaar voor anderen nadat het onderwerp is ingediend.
 - _Query maken_
-  - Spatie kruisen - Een [query](https://support.catenda.com/en/articles/4854514-queries) van alle objecten die elkaar kruisen met de geselecteerde spatie maken
-  - Verdieping kruisen - Een [query](https://support.catenda.com/en/articles/4854514-queries) van alle objecten die deze verdieping kruisen maken
+    - Spatie kruisen - Een [query](https://support.catenda.com/en/articles/4854514-queries) van alle objecten die elkaar kruisen met de geselecteerde spatie maken
+    - Verdieping kruisen - Een [query](https://support.catenda.com/en/articles/4854514-queries) van alle objecten die deze verdieping kruisen maken
 
 ### 3.2 **Muisknop ingedrukt houden**
 
@@ -5630,20 +5630,20 @@ Maak een Topic door een of meer clashes te selecteren Geef het Topic een titel K
 Maak één gecombineerd Topic
 
 - Maak één Topic van de geselecteerde clashes
-  - Maak een Topic met een gezichtspunt voor elke clash die in Navisworks Clash Detective is geselecteerd.
+    - Maak een Topic met een gezichtspunt voor elke clash die in Navisworks Clash Detective is geselecteerd.
 - Maak één Topic van de geselecteerde clashes (Geconsolideerd gezichtspunt)
-  - Maak een Topic met één gezichtspunt dat is uitgezoomd om alle clashes op te nemen die in Navisworks Clash Detective zijn geselecteerd.
+    - Maak een Topic met één gezichtspunt dat is uitgezoomd om alle clashes op te nemen die in Navisworks Clash Detective zijn geselecteerd.
 
 Meerdere Topics maken
 
 - Maak voor elke geselecteerde clash één Topic
-  - Maak een Topic voor elke clash die is geselecteerd in de Catenda Navisworks-plugin.
+    - Maak een Topic voor elke clash die is geselecteerd in de Catenda Navisworks-plugin.
 - Maak voor elke clash-groep één Topic
-  - Maak een Topic voor elke clash-groep die is geselecteerd in de Catenda Navisworks-plugin, met een gezichtspunt voor elke clash in de clash-groep.
+    - Maak een Topic voor elke clash-groep die is geselecteerd in de Catenda Navisworks-plugin, met een gezichtspunt voor elke clash in de clash-groep.
 - Maak voor elke clash-groep één Topic (Geconsolideerd gezichtspunt)
-  - Maak een Topic voor elke clash-groep die is geselecteerd in de Catenda Navisworks-plugin, met één gezichtspunt dat is uitgezoomd om alle geselecteerde clashes op te nemen.
+    - Maak een Topic voor elke clash-groep die is geselecteerd in de Catenda Navisworks-plugin, met één gezichtspunt dat is uitgezoomd om alle geselecteerde clashes op te nemen.
 - Maak voor elke niet-gegroepeerde clash één Topic
-  - Maak een Topic voor elke niet-gegroepeerde clash die is geselecteerd in de Catenda Navisworks-plugin
+    - Maak een Topic voor elke niet-gegroepeerde clash die is geselecteerd in de Catenda Navisworks-plugin
 
 ### 9.4 **Status wijzigen**
 
@@ -6441,14 +6441,14 @@ Op deze pagina kunt u de status van uw onderwerpen bekijken, kiezen of wijzigen 
 
 1. Als u probleemborden wilt wijzigen, selecteert u een probleembord in de vervolgkeuzelijst Probleembord
 1. Kies het filter dat u wilt gebruiken om uw onderwerpen te zien
-   - Open onderwerpen (het geselecteerde probleembord)
-   - Alle open onderwerpen (alle probleemborden)
-   - Gesloten onderwerpen (het geselecteerde probleembord)
-   - Alle gesloten onderwerpen (alle probleemborden)
-   - Aangevraagd door mij
-   - Alle kandidaatonderwerpen
-   - Achterstallige onderwerpen
-   - Vervaldatum binnen 2 weken
+    - Open onderwerpen (het geselecteerde probleembord)
+    - Alle open onderwerpen (alle probleemborden)
+    - Gesloten onderwerpen (het geselecteerde probleembord)
+    - Alle gesloten onderwerpen (alle probleemborden)
+    - Aangevraagd door mij
+    - Alle kandidaatonderwerpen
+    - Achterstallige onderwerpen
+    - Vervaldatum binnen 2 weken
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/9brynk3y/01-intro.png)
 
@@ -7585,9 +7585,9 @@ Klik op Indienen voor beoordeling om de goedkeuring in te dienen en het goedkeur
 - Een indiener-Team waarop u namens wilt indienen moet worden geselecteerd
 - Een titel
 - Documenten
-  - Minimaal 1 Document met een geselecteerde gedeelde revision moet worden toegevoegd om de goedkeuring in te kunnen dienen.
-  - Maximaal 1000 documentrevisies met een geselecteerde gedeelde revision kunnen worden toegevoegd.
-  - Om een goedkeuringsvraag met meer dan 1000 documentrevisies aan te maken, maakt u eerst een concept aan met maximaal 1000 revisies en voegt u vervolgens maximaal 1000 documentrevisies tegelijk toe aan het concept voordat u het concept indient voor beoordeling.
+    - Minimaal 1 Document met een geselecteerde gedeelde revision moet worden toegevoegd om de goedkeuring in te kunnen dienen.
+    - Maximaal 1000 documentrevisies met een geselecteerde gedeelde revision kunnen worden toegevoegd.
+    - Om een goedkeuringsvraag met meer dan 1000 documentrevisies aan te maken, maakt u eerst een concept aan met maximaal 1000 revisies en voegt u vervolgens maximaal 1000 documentrevisies tegelijk toe aan het concept voordat u het concept indient voor beoordeling.
 
 Na het indienen van een goedkeuringsvraag voor beoordeling met de nieuwe validatiewerkstroom is het enige wat kan worden gewijzigd dat gedeelde revisiondocumenten uit de vraag kunnen worden verwijderd.
 
@@ -12253,13 +12253,13 @@ Alleen gepubliceerde revisies zijn zichtbaar in Catenda Site.
 ## 5. **Goedkeuringswerkflow**
 
 1. Een goedkeuringswerkflow wordt door een beheerder gemaakt.
-   1. Team indieners
-   1. Beoordelarenteam (minimaal één goedkeuringsstap is vereist)
-   1. Team eindbeoordelaar
+    1. Team indieners
+    1. Beoordelarenteam (minimaal één goedkeuringsstap is vereist)
+    1. Team eindbeoordelaar
 1. Een lid van een indienersteam dient een goedkeuringsaanvraag met een reeks gedeelde revisies in op de goedkeuringspagina.
 1. Leden van de indienersteams die aan de stap zijn toegewezen, beoordelen de documenten die in de goedkeuring zijn ingediend en geven een goedgekeurd of afgewezen validatie.
 1. Nadat alle stappen zijn voltooid, beoordeelt een lid van het eindbeoordelarenteam de validaties die namens de verschillende teams in elke stap zijn ingediend en geeft hun uiteindelijke validatie van goedgekeurd, goedgekeurd met opmerking of afgewezen.
-   1. De eindgoedkeurder kan een definitieve, ingelijchte beslissing nemen of dit document moet worden gepubliceerd (goedgekeurd) of afgewezen (als gedeeld blijft)
+    1. De eindgoedkeurder kan een definitieve, ingelijchte beslissing nemen of dit document moet worden gepubliceerd (goedgekeurd) of afgewezen (als gedeeld blijft)
 
 ### 5.1 **Verouderde goedkeuringswerkflow**
 
@@ -12372,11 +12372,11 @@ Sommige kolommen in de productentabel zijn standaard ingeschakeld, terwijl ander
 Op basis van de geconfigureerde kolom volgorde worden de eerste kolommen weergegeven, terwijl de tabel mogelijk zijwaarts moet worden verschoven om andere ingeschakelde kolommen weer te geven. De standaard volgorde en zichtbaarheidsinstelling van de kolommen op de documentenpagina is als volgt:
 
 - Attributen
-  - Entiteit
-  - GlobalId
-  - LongName
-  - Naam
-  - ObjectType
+    - Entiteit
+    - GlobalId
+    - LongName
+    - Naam
+    - ObjectType
 
 Bovendien kan de productentabel elk aantal kolommen hebben, afhankelijk van het aantal eigenschappen en eigenschappensets in elk van de modellen. Elke reeks kolommen heeft een hoofdcategorie met subcategorieën. De schakelknop kan worden gebruikt om de hele categorie in of uit te schakelen. Categorieën kunnen worden uitgevouwen en elke kolom in de categorie kan afzonderlijk worden in- of uitgeschakeld.
 
@@ -12443,7 +12443,7 @@ De volgende informatie kan aan een nieuw onderwerp worden toegevoegd dat zonder 
 - Labels kunnen worden toegevoegd
 - Een beschrijving kan worden geschreven
 - Opmerkingen kunnen worden toegevoegd.
-  - Afbeeldingen van Camera/foto's kunnen aan opmerkingen worden toegevoegd.
+    - Afbeeldingen van Camera/foto's kunnen aan opmerkingen worden toegevoegd.
 
     _Vereiste toegang:_ Volledige toegang tot het apparaat
 
@@ -12656,8 +12656,8 @@ Je kunt filteren op:
 
 - Mijn topics
 - Statussen en typen
-  - Als een status of type aan het project wordt toegevoegd of de naam van een bestaande status of type wordt gewijzigd, zullen topics met deze status de naam van de status en het type hebben, maar de kleur wordt grijs.
-  - Het is niet mogelijk om te filteren en de kleur van deze statussen te zien totdat je teruggaat naar de [projectpagina](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) en het project opnieuw opent.
+    - Als een status of type aan het project wordt toegevoegd of de naam van een bestaande status of type wordt gewijzigd, zullen topics met deze status de naam van de status en het type hebben, maar de kleur wordt grijs.
+    - Het is niet mogelijk om te filteren en de kleur van deze statussen te zien totdat je teruggaat naar de [projectpagina](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) en het project opnieuw opent.
 - [Labels](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - Vervaldatum
 - Locatie
@@ -16054,7 +16054,7 @@ Voor mappen worden de naam van de map weergegeven, samen met labels die aan de m
 - Grootte van de meest recente revisie
 - Maker van de meest recente revisie
 - Aantal 3D-objecten gekoppeld aan het gerelateerde document
-  - Klik op het objectaantal om het 3D-objectactiemenu te openen.
+    - Klik op het objectaantal om het 3D-objectactiemenu te openen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/07-related-folders-and-documents.png)
 
@@ -17871,7 +17871,7 @@ Downloaden naar uw lokale apparaat:
 
 - Klik op de downloadknop voor elk model dat u wilt downloaden.
 - De modellen worden opgeslagen in een nieuwe map met de projectnaam onder het downloadpad dat is opgegeven onder het tabblad Instellingen.
-  - Bijvoorbeeld: C:\\...\\Documenten\\Catenda-projectnaam
+    - Bijvoorbeeld: C:\\...\\Documenten\\Catenda-projectnaam
 
 ## 2. Een samengevoegd .nwf-bestand maken met behulp van IFC's van Catenda
 
@@ -18452,10 +18452,10 @@ Dit is hoe het menu Status werkstroom er kan uitzien nadat de Status werkstroom 
 Wanneer de Status werkstroom is geactiveerd, zullen de volgende dingen in het project veranderen:
 
 - De fasen Concept en Gepubliceerd zijn beschikbaar.
-  - Gepubliceerd - De Status Gepubliceerd staat standaard in de lijst.
-  - Concept - De statussen Werk in uitvoering en Gedeeld staan standaard in de lijst
+    - Gepubliceerd - De Status Gepubliceerd staat standaard in de lijst.
+    - Concept - De statussen Werk in uitvoering en Gedeeld staan standaard in de lijst
 - Nieuwe informatie ingediend in de conceptfase standaard.
-  - Kan met selectievakje in gepubliceerde fase worden geüpload.
+    - Kan met selectievakje in gepubliceerde fase worden geüpload.
 - De standaardstatus is ingesteld op Geen status.
 - Een goedkeuringenmenu verschijnt in documentinstellingen.
 - Een [goedkeuringen](https://support.catenda.com/en/articles/5784717-document-approval)-subpagina op de documentenpagina verschijnt.
@@ -18637,11 +18637,11 @@ Klik [hier](https://support.catenda.com/en/articles/12495638-approval-request-do
   Door op de titel te klikken, kunt u het document rechtstreeks in de beoordelingsomgeving weergeven.
 - **Revisie:** geeft de revisienaam van het document weer
 - **#:** geeft aan welke versie/revisie van het document in de beoordeling aanwezig is.
-  - Wanneer een document aan een beoordeling wordt toegevoegd, worden de grote en kleine revisienummers ervan weergegeven, wat er als volgt uit kan zien:
+    - Wanneer een document aan een beoordeling wordt toegevoegd, worden de grote en kleine revisienummers ervan weergegeven, wat er als volgt uit kan zien:
 
       <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
-- Als de geselecteerde gedeelde revisie is gepubliceerd om de nieuwste gepubliceerde revisie in het document buiten het huidige beoordelingsverzoek te worden, kan dit er als volgt uitzien:
+    - Als de geselecteerde gedeelde revisie is gepubliceerd om de nieuwste gepubliceerde revisie in het document buiten het huidige beoordelingsverzoek te worden, kan dit er als volgt uitzien:
 
       <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 
@@ -19726,10 +19726,10 @@ PDAL is afhankelijk van andere bibliotheken, dus de gemakkelijkste manier is om 
    👉 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 1. [Download](https://www.anaconda.com/download) de **Miniconda-installatieprogramma voor Windows (64-bits, Python 3.x).**
 1. Start het installatieprogramma:
-   - Accepteer de licentieovereenkomst
-   - Kies "Alleen voor mij" (aanbevolen)
-   - Houd de standaard installatielocatie aan
-   - Controleer "Miniconda3 aan PATH toevoegen" als de optie wordt aangeboden
+    - Accepteer de licentieovereenkomst
+    - Kies "Alleen voor mij" (aanbevolen)
+    - Houd de standaard installatielocatie aan
+    - Controleer "Miniconda3 aan PATH toevoegen" als de optie wordt aangeboden
 1. Nadat u het hebt geïnstalleerd, opent u de Anaconda Prompt (dit is het venster dat u in plaats van CMD/PowerShell voor PDAL zult gebruiken).
 
 ### 2.2 **2.2. Maak een Conda-omgeving voor PDAL**
@@ -19988,7 +19988,7 @@ Dit zal allemaal zo worden:
 
 - Eerste element
 - Tweede element
-  - Voeg 4 spaties aan het begin van de regel in om een sublijst te maken.
+    - Voeg 4 spaties aan het begin van de regel in om een sublijst te maken.
 
 > **Opmerking:** Om ervoor te zorgen dat een ongeordende lijst correct wordt opgemaakt, moet er een lege nieuwe regel boven de lijst staan.
 
@@ -20016,7 +20016,7 @@ Dit zal allemaal zo worden:
 1. item twee
 1. item drie
 
-1. Item vier
+    1. Item vier
 
 > **Opmerking:** Om ervoor te zorgen dat een geordende lijst correct wordt opgemaakt, moet er een lege nieuwe regel boven de lijst staan.
 
@@ -20032,7 +20032,7 @@ Dit zal zo worden:
 1. vierentwintig
 1. vijfentwintig
 
-1. zesentwintig
+    1. zesentwintig
 
 Als u de nummering opnieuw wilt instellen en opnieuw met één wilt beginnen op een tweede lijst in hetzelfde bericht, kunt u een blanco of een [scheidingslijn](#h_3a36cfbc61) ertussenin plaatsen.
 
@@ -20679,32 +20679,32 @@ Sharelink - [https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](https
 - [Inhoud verplaatsen](https://eu.guidde.com/share/playbooks/czZ43xf7ncVH7M18yUZoCC?track_link_name=Guidde%20videos%20article&track_link_id=sPNjuWeRpFvutSEWHksvQH&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [Inhoud downloaden](https://eu.guidde.com/share/playbooks/naxhWxhmKhkt5cYbY6iMMj?track_link_name=Share%20content&track_link_id=mq27rMy4BTGzinas9Bbjzf&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Onderwerpen
-  - [Onderwerpsgeschiedenis weergeven](https://eu.guidde.com/share/playbooks/vc9qXCxWe47hbvtGjtn8rJ?track_link_name=Guidde%20videos%20article&track_link_id=wzvf1tHpX9SS44Uq4rCaNo&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Onderwerpen efficiënt beheren met Kanban-weergave](https://eu.guidde.com/share/playbooks/dxTrffF5HbDCdFW4hvMqbm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+    - [Onderwerpsgeschiedenis weergeven](https://eu.guidde.com/share/playbooks/vc9qXCxWe47hbvtGjtn8rJ?track_link_name=Guidde%20videos%20article&track_link_id=wzvf1tHpX9SS44Uq4rCaNo&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Onderwerpen efficiënt beheren met Kanban-weergave](https://eu.guidde.com/share/playbooks/dxTrffF5HbDCdFW4hvMqbm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
 - Modellen
-  - [3D-objecten opvragen met de objectenquery-module](https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [3D-objecten opvragen met de objectenquery-module](https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Documenten
-  - [Een document annoteren met de opmaakfunctie](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Intercom%20article&track_link_id=ug37DphZYP6C9um2nWmdHU&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Twee versies van een PDF-bestand vergelijken](https://eu.guidde.com/share/playbooks/vbHY4udu2xFrUzXrDdGbce?track_link_name=Guidde%20videos%20article&track_link_id=e8rdz5pRh2dZ1NSirRFvcr&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Een naamconventie instellen](https://eu.guidde.com/share/playbooks/gvmH5vCYdrmxz7gHhosVEr?track_link_name=Guidde%20videos%20article&track_link_id=cmU3oSHd7meH6G99TjUYGm&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Een document visualiseren](https://eu.guidde.com/share/playbooks/g7G5vfKW7K29MhYUzkXdZX?track_link_name=Guidde%20videos%20article&track_link_id=vWReacU3bHqyXZtMVQjpar&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - Goedkeuringen
-    - [Goedkeuringswerkstroom-template](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
-    - [Maak een nieuw goedkeuringsverzoek](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
-    - [Goedkeuringen: Documentzichtbaarheid in open goedkeuringswerkstromen](https://eu.guidde.com/share/playbooks/wWhdRkGbbziaHbnbD9Gj8Y?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-    - [Goedkeuringen: "One-Click" toegang tot documentbeoordelingspagina](https://eu.guidde.com/share/playbooks/6e4dQJDoPfjAY84XU282Xp?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-    - [Goedkeuringen: Zichtbaarheid van individuele reviewer in teams Deel 1](https://eu.guidde.com/share/playbooks/oAoCAVdJVGQzMTBYvNPHtm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-    - [Goedkeuringen: Zichtbaarheid van individuele reviewer in teams Deel 2](https://eu.guidde.com/share/playbooks/7fc2J2cZfisYp4VnUF2szF?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-    - [Teamreview in goedkeuringswerkstromen afdwingen](https://eu.guidde.com/share/playbooks/mnNWejVsSnJoH56aHpft5z?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-  - Goedkeuringen - Legacy
-    - [Validatiewerkstroom (conceptmodus)](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Guidde%20videos%20article&track_link_id=rxFhZqPjPGbL867WAwmBDN&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Een document annoteren met de opmaakfunctie](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Intercom%20article&track_link_id=ug37DphZYP6C9um2nWmdHU&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Twee versies van een PDF-bestand vergelijken](https://eu.guidde.com/share/playbooks/vbHY4udu2xFrUzXrDdGbce?track_link_name=Guidde%20videos%20article&track_link_id=e8rdz5pRh2dZ1NSirRFvcr&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Een naamconventie instellen](https://eu.guidde.com/share/playbooks/gvmH5vCYdrmxz7gHhosVEr?track_link_name=Guidde%20videos%20article&track_link_id=cmU3oSHd7meH6G99TjUYGm&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Een document visualiseren](https://eu.guidde.com/share/playbooks/g7G5vfKW7K29MhYUzkXdZX?track_link_name=Guidde%20videos%20article&track_link_id=vWReacU3bHqyXZtMVQjpar&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - Goedkeuringen
+        - [Goedkeuringswerkstroom-template](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
+        - [Maak een nieuw goedkeuringsverzoek](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
+        - [Goedkeuringen: Documentzichtbaarheid in open goedkeuringswerkstromen](https://eu.guidde.com/share/playbooks/wWhdRkGbbziaHbnbD9Gj8Y?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+        - [Goedkeuringen: "One-Click" toegang tot documentbeoordelingspagina](https://eu.guidde.com/share/playbooks/6e4dQJDoPfjAY84XU282Xp?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+        - [Goedkeuringen: Zichtbaarheid van individuele reviewer in teams Deel 1](https://eu.guidde.com/share/playbooks/oAoCAVdJVGQzMTBYvNPHtm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+        - [Goedkeuringen: Zichtbaarheid van individuele reviewer in teams Deel 2](https://eu.guidde.com/share/playbooks/7fc2J2cZfisYp4VnUF2szF?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+        - [Teamreview in goedkeuringswerkstromen afdwingen](https://eu.guidde.com/share/playbooks/mnNWejVsSnJoH56aHpft5z?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+    - Goedkeuringen - Legacy
+        - [Validatiewerkstroom (conceptmodus)](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Guidde%20videos%20article&track_link_id=rxFhZqPjPGbL867WAwmBDN&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Bibliotheken
-  - [Bibliotheek: CSV-classificatie importeren](https://eu.guidde.com/share/playbooks/4h8YZJnKQ4EG5XPtnpWQX7?track_link_name=Guidde%20videos%20article&track_link_id=sda4i6XCjAbwJ5F55z7gVQ&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Catenda Hub - Classificatiebibliothek, Planningsvoorbeeld](https://eu.guidde.com/share/playbooks/dUC7r9rFyR6ZHXGWSpwATk?track_link_name=Guidde%20videos%20article&track_link_id=wHkKLN6wnPLChid8tL1WnH&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Bibliotheek: CSV-classificatie importeren](https://eu.guidde.com/share/playbooks/4h8YZJnKQ4EG5XPtnpWQX7?track_link_name=Guidde%20videos%20article&track_link_id=sda4i6XCjAbwJ5F55z7gVQ&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Catenda Hub - Classificatiebibliothek, Planningsvoorbeeld](https://eu.guidde.com/share/playbooks/dUC7r9rFyR6ZHXGWSpwATk?track_link_name=Guidde%20videos%20article&track_link_id=wHkKLN6wnPLChid8tL1WnH&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Catenda-plugins en integraties
-  - [Catenda Site - Aan de slag](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Catenda Site - 2D Viewer-interacties](https://eu.guidde.com/share/playbooks/7UhKZmCxU5JtPocarxAVfU?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Catenda SharePoint App (Webpart)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Catenda Site - Aan de slag](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Catenda Site - 2D Viewer-interacties](https://eu.guidde.com/share/playbooks/7UhKZmCxU5JtPocarxAVfU?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Catenda SharePoint App (Webpart)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 
 # Hoeveelheid Uittellen (QTO) - Korte video
 
@@ -22165,10 +22165,10 @@ Op dit moment is er geen officiële manier om vanuit Navisworks naar IFC te expo
 1. Opgeslagen in - Typ het pad naar het bestand of klik op bladeren om de map te zoeken waar u uw IFC wilt opslaan
 1. Selecteer welke tekenbestanden u naar IFC wilt exporteren
 1. Opties
-   1. Koptekst - Auteur, organisatie enz.
-      1. Selecteer IFC-schema om naar te exporteren - IFC 2x3 en IFC 4
-   1. Objecten - Alles
-   1. Weergave - Alles opnemen
+    1. Koptekst - Auteur, organisatie enz.
+        1. Selecteer IFC-schema om naar te exporteren - IFC 2x3 en IFC 4
+    1. Objecten - Alles
+    1. Weergave - Alles opnemen
 
 > **Opmerking:** Ifc 4x1 is ingetrokken door BuildingSMART en wordt daarom ook niet ondersteund door Catenda Hub. Zie [hier](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support) welke bestandstypen worden ondersteund in Catenda Hub
 
@@ -22526,17 +22526,17 @@ Het instellen van geautomatiseerde gegevensexports omvat vier belangrijkste stap
 1. **Bestemming selecteren**
    Kies een cloudopslagprovider, Amazon Web Services (AWS) S3 of Microsoft Azure Blob-opslag, en configureer verificatie.
 1. **Bereik en gegevensindelingen definiëren**
-   - **Gegevenstypen**
-     Exporteer documenten, modellen en topics.
-     Topicgegevens kunnen tijdens overdracht automatisch worden geconverteerd naar leesbare PDF-samenvattingsrapporten of standaard BCF-bestanden.
-   - **Projectselectie**
-     Kies alle projecten, selecteer handmatig specifieke projecten, of stel dynamische overeenkomstingsregels in met projectnaampatronen (glob of reguliere expressie/regex) om automatisch nieuwe projecten op te nemen wanneer ze worden gemaakt.
+    - **Gegevenstypen**
+      Exporteer documenten, modellen en topics.
+      Topicgegevens kunnen tijdens overdracht automatisch worden geconverteerd naar leesbare PDF-samenvattingsrapporten of standaard BCF-bestanden.
+    - **Projectselectie**
+      Kies alle projecten, selecteer handmatig specifieke projecten, of stel dynamische overeenkomstingsregels in met projectnaampatronen (glob of reguliere expressie/regex) om automatisch nieuwe projecten op te nemen wanneer ze worden gemaakt.
 1. **Exportmodus selecteren**
-   - **Doorlopende modus**
-     Verzendt gegevens automatisch op basis van een dagelijks schema.
-     Deze herhaalde instellingen zorgen ervoor dat niet-eigenaar projectleden tot en met de laatste dagelijkse run een bijgewerkte back-up behouden als projecttoegang onverwacht afloopt.
-   - **Snapshot-modus**
-     Voert een eenmalige run uit om een volledige gegevensverzameling op een specifiek moment of projectoverdracht te exporteren.
+    - **Doorlopende modus**
+      Verzendt gegevens automatisch op basis van een dagelijks schema.
+      Deze herhaalde instellingen zorgen ervoor dat niet-eigenaar projectleden tot en met de laatste dagelijkse run een bijgewerkte back-up behouden als projecttoegang onverwacht afloopt.
+    - **Snapshot-modus**
+      Voert een eenmalige run uit om een volledige gegevensverzameling op een specifiek moment of projectoverdracht te exporteren.
 1. **Implementeren**
    Voltooi en schakel de exportconfiguratie in door Maken te selecteren.
 
@@ -22957,34 +22957,34 @@ Uw voorkeuren voor het uitbreiden en samenvouwen van filtermenu's op de verschil
 U kunt filters op de volgende pagina's opslaan:
 
 - Startpagina
-  - [Pagina Accountmeldingen](https://support.catenda.com/en/articles/7439223-account-notifications-page)
-  - Organisatietools
-    - [Pagina Gebruikers](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-    - [Pagina Projecten](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-    - [Pagina Projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Pagina Accountmeldingen](https://support.catenda.com/en/articles/7439223-account-notifications-page)
+    - Organisatietools
+        - [Pagina Gebruikers](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+        - [Pagina Projecten](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+        - [Pagina Projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 - Project
-  - [Onderwerpen tabel](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
-  - Modellen
-    - [Pagina Modellen](https://support.catenda.com/en/articles/4670286-models-page)
-    - [Pagina Opgeslagen weergaven](https://support.catenda.com/en/articles/4670281-bookmarks-page)
-    - [Pagina Objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-  - Documenten
-    - [Pagina Documenten](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-    - [Pagina Verzamelingen](https://support.catenda.com/en/articles/6344318-collections-page)
-    - [Pagina Goedkeuringen](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
-  - Rapporten
-    - Pagina Rapporten
-  - Bibliotheken
-    - [Koppelingenbibliotheek](https://support.catenda.com/en/articles/4670254-links-library)
-    - [Sharepoint-bibliotheek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-    - [Dropbox-bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page)
-    - [Eigenschapwaarde bibliotheek](https://support.catenda.com/en/articles/4670252-property-value-library)
-    - [Classificatiebibliotheek](https://support.catenda.com/en/articles/4670255-classification-library)
-  - [Pagina Projectmeldingen](https://support.catenda.com/en/articles/4670295-project-notifications-page)
-  - Projectinstellingen
-    - [Pagina Aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-    - [Pagina Labels](https://support.catenda.com/en/articles/4670265-labels-page)
-    - [Pagina Leden](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
+    - [Onderwerpen tabel](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
+    - Modellen
+        - [Pagina Modellen](https://support.catenda.com/en/articles/4670286-models-page)
+        - [Pagina Opgeslagen weergaven](https://support.catenda.com/en/articles/4670281-bookmarks-page)
+        - [Pagina Objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - Documenten
+        - [Pagina Documenten](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+        - [Pagina Verzamelingen](https://support.catenda.com/en/articles/6344318-collections-page)
+        - [Pagina Goedkeuringen](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+    - Rapporten
+        - Pagina Rapporten
+    - Bibliotheken
+        - [Koppelingenbibliotheek](https://support.catenda.com/en/articles/4670254-links-library)
+        - [Sharepoint-bibliotheek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+        - [Dropbox-bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page)
+        - [Eigenschapwaarde bibliotheek](https://support.catenda.com/en/articles/4670252-property-value-library)
+        - [Classificatiebibliotheek](https://support.catenda.com/en/articles/4670255-classification-library)
+    - [Pagina Projectmeldingen](https://support.catenda.com/en/articles/4670295-project-notifications-page)
+    - Projectinstellingen
+        - [Pagina Aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+        - [Pagina Labels](https://support.catenda.com/en/articles/4670265-labels-page)
+        - [Pagina Leden](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
 
 # Gebruikersfeedback @ Catenda
 
@@ -23283,11 +23283,11 @@ Gebruikers die toegang hebben tot Catenda Hub achter een firewall, proxy of ande
 (`*` betekent DNS-wildcard en `.` is een domeinniveauscheiding, behandel het onderstaande niet als regex's).
 
 - Catenda-domeinen:
-  - `catenda.com`
-  - `*.catenda.com`
-    - `webviewer.catenda.com`
-      Dit subdomein moet door de firewall toegestaan zijn om de voorbeeldweergave van Documenten op de pagina met documentvoorbeelden te kunnen bekijken.
-  - `*.*.catenda.com`
+    - `catenda.com`
+    - `*.catenda.com`
+        - `webviewer.catenda.com`
+          Dit subdomein moet door de firewall toegestaan zijn om de voorbeeldweergave van Documenten op de pagina met documentvoorbeelden te kunnen bekijken.
+    - `*.*.catenda.com`
 
 We raden u aan deze nieuwe domeinnaam te gebruiken. U zou geen problemen moeten ondervinden met meer subdomeinen zoals `*.*.*.catenda.com`, maar als dat wel het geval is, kan het gemakkelijker zijn om alles van `catenda.com` toe te staan
 
@@ -23308,26 +23308,26 @@ We raden u aan deze nieuwe domeinnaam te gebruiken. U zou geen problemen moeten 
 **Plugins** Als u Catenda Hub alleen via een van onze plugins wilt gebruiken, zijn dit de enige domeinen die u door uw firewall hoeft toe te staan.
 
 - Voor authenticatie van plugins en integraties
-  - `hub.catenda.com`
-  - `api.catenda.com `
-  - `bimsync.com`
-  - `api.bimsync.com`
+    - `hub.catenda.com`
+    - `api.catenda.com `
+    - `bimsync.com`
+    - `api.bimsync.com`
 - Voor gebruik van plugin
-  - Revit-plugin
-    - [`https://revit.plugins.catenda.com`](https://revit.plugins.catenda.com)
-    - [`https://revit.plugins.bimsync.com`](https://revit.plugins.bimsync.com)
-  - Archicad-plugin
-    - [`https://archicad.plugins.catenda.com`](https://archicad.plugins.catenda.com)
-    - [`https://archicad.plugins.bimsync.com`](https://archicad.plugins.bimsync.com)
-  - Navisworks-plugin
-    - [`https://navisworks.plugins.catenda.com`](https://navisworks.plugins.catenda.com)
-    - [`https://navisworks.plugins.bimsync.com`](https://navisworks.plugins.bimsync.com)
-  - Tekla-plugin
-    - [`https://tekla.plugins.catenda.com`](https://tekla.plugins.catenda.com)
-    - [`https://tekla.plugins.bimsync.com`](https://tekla.plugins.bimsync.com)
+    - Revit-plugin
+        - [`https://revit.plugins.catenda.com`](https://revit.plugins.catenda.com)
+        - [`https://revit.plugins.bimsync.com`](https://revit.plugins.bimsync.com)
+    - Archicad-plugin
+        - [`https://archicad.plugins.catenda.com`](https://archicad.plugins.catenda.com)
+        - [`https://archicad.plugins.bimsync.com`](https://archicad.plugins.bimsync.com)
+    - Navisworks-plugin
+        - [`https://navisworks.plugins.catenda.com`](https://navisworks.plugins.catenda.com)
+        - [`https://navisworks.plugins.bimsync.com`](https://navisworks.plugins.bimsync.com)
+    - Tekla-plugin
+        - [`https://tekla.plugins.catenda.com`](https://tekla.plugins.catenda.com)
+        - [`https://tekla.plugins.bimsync.com`](https://tekla.plugins.bimsync.com)
 - Voor gebruik van plugins en integraties die topics gebruiken die [hier](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) worden vermeld
-  - [`https://bcf.bimsync.com/`](https://bcf.bimsync.com/)
-  - [`https://opencde.bimsync.com/`](https://opencde.bimsync.com/)
+    - [`https://bcf.bimsync.com/`](https://bcf.bimsync.com/)
+    - [`https://opencde.bimsync.com/`](https://opencde.bimsync.com/)
 
 ## 3. **Poortconfiguratie**
 
@@ -23630,32 +23630,32 @@ Op pagina's waar meerdere elementen worden weergegeven, wordt informatie vaak in
 In de volgende tabellen wordt alle informatie standaard weergegeven
 
 - Inspectpaneel
-  - [Hoeveelheid opname (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
-  - [Uitlijningen](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
-  - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
-  - Naamgevingsconventies
+    - [Hoeveelheid opname (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
+    - [Uitlijningen](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
+    - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
+    - Naamgevingsconventies
 - Bibliotheken
-  - [Koppelingenbibliotheek](https://support.catenda.com/en/articles/4670254-links-library)
-  - [Sharepoint-bibliotheek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-  - [Dropbox-bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page)
-  - [Bibliotheek eigenschapswaarde](https://support.catenda.com/en/articles/4670252-property-value-library)
-  - [Classificatiebibliotheek](https://support.catenda.com/en/articles/4670255-classification-library)
+    - [Koppelingenbibliotheek](https://support.catenda.com/en/articles/4670254-links-library)
+    - [Sharepoint-bibliotheek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+    - [Dropbox-bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page)
+    - [Bibliotheek eigenschapswaarde](https://support.catenda.com/en/articles/4670252-property-value-library)
+    - [Classificatiebibliotheek](https://support.catenda.com/en/articles/4670255-classification-library)
 - Organisatiegereedschap
-  - [Gebruikerspagina](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-  - [Projectenpagina](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-  - [Pagina projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Gebruikerspagina](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+    - [Projectenpagina](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+    - [Pagina projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 
 In de volgende tabellen wordt een standaardconfiguratie weergegeven wanneer de pagina wordt geladen:
 
 - Modellen
-  - [Objectenpagina](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Objectenpagina](https://support.catenda.com/en/articles/12352750-objects-page)
 
 In de volgende tabellen worden wijzigingen aan de standaardtabelconfiguratie weergegeven wanneer de pagina wordt geladen:
 
 - [Onderwerpen](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabelweergave)
 - [Modellen](https://support.catenda.com/en/articles/4670286-models-page) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
 - [Documenten](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
-  - [Overzicht documenttoegang](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+    - [Overzicht documenttoegang](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
 - [Rapporten](https://support.catenda.com/en/articles/12303098-reports-page) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
 - [Labels](https://support.catenda.com/en/articles/4670265-labels-page) (Tab Labels, Tab Groep)
 - [Aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
@@ -23872,15 +23872,15 @@ Wanneer het sleepankerpunt op een interactieve rij wordt vrijgegeven, kan het di
 Het is mogelijk om kolommen in de volgende tabellen te verplaatsen:
 
 - Modellen
-  - [Objecten pagina](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Objecten pagina](https://support.catenda.com/en/articles/12352750-objects-page)
 - Organisatietools
-  - [Projectpagina](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-  - [Pagina projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Projectpagina](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+    - [Pagina projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 
 - [Onderwerpen](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabelweergave)
 - [Modellen](https://support.catenda.com/en/articles/4670286-models-page) (Basisweergave, Publicatie tab, Werkruimte tab)
 - [Documenten](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Basisweergave, Publicatie tab, Werkruimte tab)
-  - [Documenttoegangenoverzicht](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+    - [Documenttoegangenoverzicht](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
 - [Rapporten](https://support.catenda.com/en/articles/12303098-reports-page) (Basisweergave, Publicatie tab, Werkruimte tab)
 - [Labels](https://support.catenda.com/en/articles/4670265-labels-page) (Labels tab, Groep tab)
 - [Aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
@@ -24369,42 +24369,42 @@ Als nieuwe functies worden uitgerold en bugs worden opgelost, worden artikelen b
 **Productfuncties**
 
 - Modellen
-  - [Filteren op de pagina modellen](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-  - [Verdieping Configurator Acties](https://Storey%20configurator%20actions)
-  - [Objectenpagina](https://support.catenda.com/en/articles/12352750-objects-page)
-  - [Filteren op de pagina objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - [Filteren op de pagina modellen](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
+    - [Verdieping Configurator Acties](https://Storey%20configurator%20actions)
+    - [Objectenpagina](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Filteren op de pagina objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
 - Documenten
-  - [Documentvoorbeeldtools - Rubberstempel](https://support.catenda.com/en/articles/11678493-document-preview-tools-rubber-stamp)
-  - [Rechts menu op de verzamelingenpagina](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-page)
-  - [Werkstroomenpagina - Documentinstellingen](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
-  - [Mapconfiguratie - Documentinstellingen](https://support.catenda.com/en/articles/12302595-folder-configuration-document-settings)
-  - [Een nieuwe werkstroom maken](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
-  - [Concept goedkeuringsverzoekpagina](https://support.catenda.com/en/articles/12495175-draft-approval-request-page)
-  - [Open of gesloten goedkeuringsverzoekpagina](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page)
-  - [Goedkeuringenpagina](https://support.catenda.com/en/articles/12495047-approvals-page)
-  - [Filteren op de goedkeuringenpagina](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-  - [Een nieuw goedkeuringsverzoek maken](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request)
-  - [Versie toevoegen aan goedkeuringsverzoek](https://support.catenda.com/en/articles/12495012-add-revision-to-approval)
-  - [Staplint in een goedkeuringsverzoek](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-approval-request)
-  - [Rechts menu van een versie - Versie-informatie](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
-  - [Statuswerkstroom - Documentinstellingen](https://support.catenda.com/en/articles/12495583-status-workflow-document-settings)
-  - [Overzichtstabblad in een goedkeuringsverzoek](https://support.catenda.com/en/articles/12495126-overview-tab-in-an-approval-request)
-  - [Documenttabblad in een goedkeuringsverzoek](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request)
-  - [Rechts menu documenten goedkeuringsverzoek](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu)
-  - [Bestandsbeoordeling in een goedkeuringsverzoek](https://support.catenda.com/en/articles/12507002-file-review-in-an-approval-request)
-  - [Rechts menu bestandsbeoordeling goedkeuringsverzoek](https://support.catenda.com/en/articles/12507519-approval-request-file-review-right-menu)
-  - [Probleemoplossing bij goedkeuringen](https://support.catenda.com/en/articles/12520773-approvals-troubleshooting)
+    - [Documentvoorbeeldtools - Rubberstempel](https://support.catenda.com/en/articles/11678493-document-preview-tools-rubber-stamp)
+    - [Rechts menu op de verzamelingenpagina](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-page)
+    - [Werkstroomenpagina - Documentinstellingen](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
+    - [Mapconfiguratie - Documentinstellingen](https://support.catenda.com/en/articles/12302595-folder-configuration-document-settings)
+    - [Een nieuwe werkstroom maken](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
+    - [Concept goedkeuringsverzoekpagina](https://support.catenda.com/en/articles/12495175-draft-approval-request-page)
+    - [Open of gesloten goedkeuringsverzoekpagina](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page)
+    - [Goedkeuringenpagina](https://support.catenda.com/en/articles/12495047-approvals-page)
+    - [Filteren op de goedkeuringenpagina](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
+    - [Een nieuw goedkeuringsverzoek maken](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request)
+    - [Versie toevoegen aan goedkeuringsverzoek](https://support.catenda.com/en/articles/12495012-add-revision-to-approval)
+    - [Staplint in een goedkeuringsverzoek](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-approval-request)
+    - [Rechts menu van een versie - Versie-informatie](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
+    - [Statuswerkstroom - Documentinstellingen](https://support.catenda.com/en/articles/12495583-status-workflow-document-settings)
+    - [Overzichtstabblad in een goedkeuringsverzoek](https://support.catenda.com/en/articles/12495126-overview-tab-in-an-approval-request)
+    - [Documenttabblad in een goedkeuringsverzoek](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request)
+    - [Rechts menu documenten goedkeuringsverzoek](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu)
+    - [Bestandsbeoordeling in een goedkeuringsverzoek](https://support.catenda.com/en/articles/12507002-file-review-in-an-approval-request)
+    - [Rechts menu bestandsbeoordeling goedkeuringsverzoek](https://support.catenda.com/en/articles/12507519-approval-request-file-review-right-menu)
+    - [Probleemoplossing bij goedkeuringen](https://support.catenda.com/en/articles/12520773-approvals-troubleshooting)
 - Rapporten
-  - [Rapportenpagina](https://support.catenda.com/en/articles/12303098-reports-page)
+    - [Rapportenpagina](https://support.catenda.com/en/articles/12303098-reports-page)
 - Documenten - Legacy
-  - [Een nieuw goedkeuringsverzoek maken - Legacy](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request-legacy)
-  - [Versie toevoegen aan een goedkeuringsverzoek - Legacy](https://support.catenda.com/en/articles/12382093-add-revision-to-an-approval-request-legacy)
-  - [Goedkeuringsinstellingenpagina - Legacy](https://support.catenda.com/en/articles/12367293-approval-settings-page-legacy)
-  - [Pagina onderwerpsjablonen - Legacy](https://support.catenda.com/en/articles/12367730-topic-templates-page-legacy)
-  - [Een nieuw onderwerpsjabloon maken - Legacy](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template-legacy)
-  - [Statuswerkstroom - Documentinstellingen - Legacy](https://support.catenda.com/en/articles/12310173-status-workflow-document-settings-legacy)
-  - [Bestandsbeoordeling in een goedkeuringsverzoek - Legacy](https://support.catenda.com/en/articles/12507422-file-review-in-an-approval-request-legacy)
-  - [Rechts menu bestandsbeoordeling goedkeuringsverzoek - Legacy](https://support.catenda.com/en/articles/12507914-approval-request-file-review-right-menu-legacy)
+    - [Een nieuw goedkeuringsverzoek maken - Legacy](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request-legacy)
+    - [Versie toevoegen aan een goedkeuringsverzoek - Legacy](https://support.catenda.com/en/articles/12382093-add-revision-to-an-approval-request-legacy)
+    - [Goedkeuringsinstellingenpagina - Legacy](https://support.catenda.com/en/articles/12367293-approval-settings-page-legacy)
+    - [Pagina onderwerpsjablonen - Legacy](https://support.catenda.com/en/articles/12367730-topic-templates-page-legacy)
+    - [Een nieuw onderwerpsjabloon maken - Legacy](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template-legacy)
+    - [Statuswerkstroom - Documentinstellingen - Legacy](https://support.catenda.com/en/articles/12310173-status-workflow-document-settings-legacy)
+    - [Bestandsbeoordeling in een goedkeuringsverzoek - Legacy](https://support.catenda.com/en/articles/12507422-file-review-in-an-approval-request-legacy)
+    - [Rechts menu bestandsbeoordeling goedkeuringsverzoek - Legacy](https://support.catenda.com/en/articles/12507914-approval-request-file-review-right-menu-legacy)
 
 **Probleemoplossing**
 
@@ -24425,52 +24425,52 @@ Als nieuwe functies worden uitgerold en bugs worden opgelost, worden artikelen b
 **Accountbeheer**
 
 - Leden en teams
-  - [Pagina Leden en teams](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
+    - [Pagina Leden en teams](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
 - Catenda Site
-  - [Instellingen - Catenda Site](https://support.catenda.com/en/articles/7733833-settings-catenda-site)
+    - [Instellingen - Catenda Site](https://support.catenda.com/en/articles/7733833-settings-catenda-site)
 
 **Productfuncties**
 
 - Algemene productinformatie
 - Dashboard
-  - [Dashboard-pagina](https://support.catenda.com/en/articles/8212646-dashboard-page)
+    - [Dashboard-pagina](https://support.catenda.com/en/articles/8212646-dashboard-page)
 - Onderwerpen
-  - [Onderwerppagina](https://support.catenda.com/en/articles/4670271-topics-page)
-  - [Filteren in een onderwerpbord](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board)
-  - [Lijstweergave in een onderwerpbord](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board)
-  - [Kolommen op de onderwerppagina](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page)
-  - [Acties tabel onderwerpen](https://support.catenda.com/en/articles/4670284-topics-table-actions)
+    - [Onderwerppagina](https://support.catenda.com/en/articles/4670271-topics-page)
+    - [Filteren in een onderwerpbord](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board)
+    - [Lijstweergave in een onderwerpbord](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board)
+    - [Kolommen op de onderwerppagina](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page)
+    - [Acties tabel onderwerpen](https://support.catenda.com/en/articles/4670284-topics-table-actions)
 - Modellen
-  - [Modelenpagina](https://support.catenda.com/en/articles/4670286-models-page)
-  - [Rechts menu op de modelenpagina](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
-  - [Verdieping Configurator-pagina](https://support.catenda.com/en/articles/6921756-storey-configurator-page)
+    - [Modelenpagina](https://support.catenda.com/en/articles/4670286-models-page)
+    - [Rechts menu op de modelenpagina](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
+    - [Verdieping Configurator-pagina](https://support.catenda.com/en/articles/6921756-storey-configurator-page)
 - Documenten
-  - [Documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page)
-  - [Pagina documentinstellingen](https://support.catenda.com/en/articles/7831371-document-settings-page)
-  - [Kolommen op de documentenpagina](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
-  - [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-  - [Documentvoorbeeldtools](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-  - [Acties tabel documenten](https://support.catenda.com/en/articles/4670288-document-structure-actions)
-  - [Een nieuwe documentversie uploaden](https://support.catenda.com/en/articles/4670293-uploading-new-document-revision)
-  - [Verzamelingenpagina](https://support.catenda.com/en/articles/8999764-collection-page)
-  - [Rechts menu van een versie - Versie-informatie](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
+    - [Documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page)
+    - [Pagina documentinstellingen](https://support.catenda.com/en/articles/7831371-document-settings-page)
+    - [Kolommen op de documentenpagina](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
+    - [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+    - [Documentvoorbeeldtools](https://support.catenda.com/en/articles/11384618-document-preview-tools)
+    - [Acties tabel documenten](https://support.catenda.com/en/articles/4670288-document-structure-actions)
+    - [Een nieuwe documentversie uploaden](https://support.catenda.com/en/articles/4670293-uploading-new-document-revision)
+    - [Verzamelingenpagina](https://support.catenda.com/en/articles/8999764-collection-page)
+    - [Rechts menu van een versie - Versie-informatie](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
 - Instellingen
-  - [Pagina aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-  - [Pagina labels](https://support.catenda.com/en/articles/4670265-labels-page)
+    - [Pagina aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+    - [Pagina labels](https://support.catenda.com/en/articles/4670265-labels-page)
 - 2D- en 3D-viewers
-  - [Puntenwolken in Catenda Hub](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
-  - [Versiekiezer](https://support.catenda.com/en/articles/4670279-revision-selector)
+    - [Puntenwolken in Catenda Hub](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
+    - [Versiekiezer](https://support.catenda.com/en/articles/4670279-revision-selector)
 - Catenda Plugins & Integraties
-  - [3D-viewer - Catenda Site](https://support.catenda.com/en/articles/7744403-3d-viewer-catenda-site)
-  - [Catenda Plugins & Integraties](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
-  - [IFC export archicad handleiding](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
-  - [Catenda SharePoint-app inschakelen](https://support.catenda.com/en/articles/9419749-enabling-the-catenda-sharepoint-app)
-  - [Catenda SP-app toevoegen en verwijderen](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app)
+    - [3D-viewer - Catenda Site](https://support.catenda.com/en/articles/7744403-3d-viewer-catenda-site)
+    - [Catenda Plugins & Integraties](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
+    - [IFC export archicad handleiding](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
+    - [Catenda SharePoint-app inschakelen](https://support.catenda.com/en/articles/9419749-enabling-the-catenda-sharepoint-app)
+    - [Catenda SP-app toevoegen en verwijderen](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app)
 - Documenten - Legacy
-  - [Goedkeuringenpagina - Legacy](https://support.catenda.com/en/articles/8349340-approvals-page-legacy)
-  - [Open, gepubliceerd of verworpen goedkeuring - Legacy](https://support.catenda.com/en/articles/8349418-open-published-or-discarded-approval-legacy)
-  - [Documentgoedkeuring - Legacy](https://support.catenda.com/en/articles/5784717-document-approval-legacy)
-  - [Filteren op de goedkeuringspagina - Legacy](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+    - [Goedkeuringenpagina - Legacy](https://support.catenda.com/en/articles/8349340-approvals-page-legacy)
+    - [Open, gepubliceerd of verworpen goedkeuring - Legacy](https://support.catenda.com/en/articles/8349418-open-published-or-discarded-approval-legacy)
+    - [Documentgoedkeuring - Legacy](https://support.catenda.com/en/articles/5784717-document-approval-legacy)
+    - [Filteren op de goedkeuringspagina - Legacy](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
 
 **Probleemoplossing**
 
@@ -24517,8 +24517,8 @@ Dank zij uw waardevolle feedback hebben we veel onderwerpen kunnen oplossen die 
 ## 3. **Nieuwe video's in afspeellijsten**
 
 - Productfuncties
-  - Documenten
-    - [Goedkeuringswerkstroomsjabloon](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
+    - Documenten
+        - [Goedkeuringswerkstroomsjabloon](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
 
       [Nieuw goedkeuringsverzoek maken](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
 
@@ -24537,13 +24537,13 @@ Dank zij uw waardevolle feedback hebben we veel onderwerpen kunnen oplossen die 
 ### 4.2 **Instellingen**
 
 - Verbetering van de ledenenpagina
-  - Het is nu mogelijk om op de ledenenpagina te zoeken
-  - Selecteer meerdere leden en voer de teams in waaraan u deze wilt toevoegen/verwijderen.
-  - Selecteer meerdere teams en voer de leden in die u wilt toevoegen/verwijderen aan/van het team.
-  - Ledkolommen sorteren
-  - Leden filteren op team(s)
-  - Teams filteren op lid(en)
-  - Kopieer leden-e-mail naar klembord door erop te klikken.
+    - Het is nu mogelijk om op de ledenenpagina te zoeken
+    - Selecteer meerdere leden en voer de teams in waaraan u deze wilt toevoegen/verwijderen.
+    - Selecteer meerdere teams en voer de leden in die u wilt toevoegen/verwijderen aan/van het team.
+    - Ledkolommen sorteren
+    - Leden filteren op team(s)
+    - Teams filteren op lid(en)
+    - Kopieer leden-e-mail naar klembord door erop te klikken.
 
 ### 4.3 **Plugins en integraties**
 
@@ -24588,52 +24588,52 @@ Wanneer nieuwe functies worden uitgebracht en bugs worden opgelost, worden artik
 **Accountbeheer**
 
 - Accountinstellingen
-  - [Notificatiefiltering en functionaliteit](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
-  - [Accountpagina](https://support.catenda.com/en/articles/6880968-account-page)
+    - [Notificatiefiltering en functionaliteit](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
+    - [Accountpagina](https://support.catenda.com/en/articles/6880968-account-page)
 
 **Productfuncties**
 
 - Dashboard
-  - [Dashboardpagina](https://support.catenda.com/en/articles/8212646-dashboard-page)
+    - [Dashboardpagina](https://support.catenda.com/en/articles/8212646-dashboard-page)
 - Onderwerpen
-  - [Filteren op de pagina met topics](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
-  - [Acties in de Topics-tabel](https://support.catenda.com/en/articles/4670284-topics-table-actions)
-  - [Topics naar PDF exporteren](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
-  - [Topickop - Het onderwerp van een topic](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
-  - [Topics uitwisselen](https://support.catenda.com/en/articles/4670289-exchange-topics)
+    - [Filteren op de pagina met topics](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
+    - [Acties in de Topics-tabel](https://support.catenda.com/en/articles/4670284-topics-table-actions)
+    - [Topics naar PDF exporteren](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
+    - [Topickop - Het onderwerp van een topic](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
+    - [Topics uitwisselen](https://support.catenda.com/en/articles/4670289-exchange-topics)
 - Modellen
-  - [Revisiekiezer](https://support.catenda.com/en/articles/4670279-revision-selector)
-  - [Filteren op de pagina met objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-  - [Filteren op de pagina met modellen](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-  - [Rechtermenu op de pagina met modellen](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
-  - [Vervolgkeuze schuifvlak](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
-  - [Pagina met bladwijzerstartinhoud](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
+    - [Revisiekiezer](https://support.catenda.com/en/articles/4670279-revision-selector)
+    - [Filteren op de pagina met objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - [Filteren op de pagina met modellen](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
+    - [Rechtermenu op de pagina met modellen](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
+    - [Vervolgkeuze schuifvlak](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
+    - [Pagina met bladwijzerstartinhoud](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
 - Documenten
-  - [Pagina met overzicht van documenttoegang](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
-  - [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-  - [Toegangsbeheer voor mappen en documenten](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
-  - [Een nieuwe werkstroom maken](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
-  - [Pagina Werkstromen - Documentinstellingen](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
-  - [Gereedschappen voor documentvoorvertoning](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-  - [Een zip-bestand / bestandsstructuur uploaden](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
-  - [Filteren op de pagina met verzamelingen](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
-  - [Filteren op de goedkeuringspagina](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-  - [Filteren op de goedkeuringspagina - Legacy](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+    - [Pagina met overzicht van documenttoegang](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
+    - [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+    - [Toegangsbeheer voor mappen en documenten](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
+    - [Een nieuwe werkstroom maken](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
+    - [Pagina Werkstromen - Documentinstellingen](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
+    - [Gereedschappen voor documentvoorvertoning](https://support.catenda.com/en/articles/11384618-document-preview-tools)
+    - [Een zip-bestand / bestandsstructuur uploaden](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
+    - [Filteren op de pagina met verzamelingen](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
+    - [Filteren op de goedkeuringspagina](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
+    - [Filteren op de goedkeuringspagina - Legacy](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
 - Instellingen
-  - [Filteren op de pagina met leden en teams](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
+    - [Filteren op de pagina met leden en teams](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
 - 2D- en 3D-viewers
-  - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
-  - [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
+    - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
+    - [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
 - Catenda-plugins en integraties
-  - [Revit IFC Export Handboek](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual)
-  - [IFC Export Archicad Handboek](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
-  - [Catenda Navisworks-plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
-  - [Catenda Archicad-plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
-  - [Catenda Revit-plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
-  - [Catenda Power BI-connector](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector)
-  - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
-  - [Catenda Tekla-plugin](https://support.catenda.com/en/articles/6549656-catenda-tekla-plugin)
-  - [Probleemoplossing voor Desktop Connector](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting)
+    - [Revit IFC Export Handboek](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual)
+    - [IFC Export Archicad Handboek](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
+    - [Catenda Navisworks-plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
+    - [Catenda Archicad-plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
+    - [Catenda Revit-plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
+    - [Catenda Power BI-connector](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector)
+    - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
+    - [Catenda Tekla-plugin](https://support.catenda.com/en/articles/6549656-catenda-tekla-plugin)
+    - [Probleemoplossing voor Desktop Connector](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting)
 
 **Probleemoplossing**
 
@@ -24642,10 +24642,10 @@ Wanneer nieuwe functies worden uitgebracht en bugs worden opgelost, worden artik
 **Gebruikszaken**
 
 - Goedkeuringen
-  - [Documentbeoordeling in goedkeuringswerkstroom](https://support.catenda.com/en/articles/12628468-document-review-in-approval-workflow)
-  - [Goedkeuringen indienen en beheren: gids voor redacteurs](https://support.catenda.com/en/articles/12627979-submit-manage-approvals-guide-for-drafters)
-  - [Eindgoedkeuringsbeslissingen gemakkelijk gemaakt](https://support.catenda.com/en/articles/12629484-final-approval-decisions-made-easy)
-  - [Goedkeuringen beheren als beheerder](https://support.catenda.com/en/articles/12620829-managing-approvals-as-administrator)
+    - [Documentbeoordeling in goedkeuringswerkstroom](https://support.catenda.com/en/articles/12628468-document-review-in-approval-workflow)
+    - [Goedkeuringen indienen en beheren: gids voor redacteurs](https://support.catenda.com/en/articles/12627979-submit-manage-approvals-guide-for-drafters)
+    - [Eindgoedkeuringsbeslissingen gemakkelijk gemaakt](https://support.catenda.com/en/articles/12629484-final-approval-decisions-made-easy)
+    - [Goedkeuringen beheren als beheerder](https://support.catenda.com/en/articles/12620829-managing-approvals-as-administrator)
 
 **Veelgestelde vragen**
 
@@ -24676,7 +24676,7 @@ Dankzij je waardevolle feedback hebben we veel topics kunnen oplossen die je al 
 
 - Het is opnieuw mogelijk voor gebruikers met MFA ingeschakeld om de inhoud van projecten via plugins en integraties te openen.
 - Catenda als toepassing
-  - Het is opnieuw mogelijk om zowel de 3D-viewer als de inhoudspanelen tegelijk open te hebben in plaats van één tegelijk op 11-inch iPad's
+    - Het is opnieuw mogelijk om zowel de 3D-viewer als de inhoudspanelen tegelijk open te hebben in plaats van één tegelijk op 11-inch iPad's
 
 ## 3. **Gebruikersstemmen voltooid**
 
@@ -24732,24 +24732,24 @@ Naarmate nieuwe functies uitrollen en bugs worden opgelost, worden artikelen bij
 **Accountbeheer**
 
 - Organisaties
-  - [Organisatieconfiguratie](https://support.catenda.com/en/articles/13653794-organization-configuration)
-  - [Organisatietypen](https://support.catenda.com/en/articles/13653807-organization-types)
-  - [Organisatie- en projectopstelling](https://support.catenda.com/en/articles/13653804-organization-and-project-setup)
+    - [Organisatieconfiguratie](https://support.catenda.com/en/articles/13653794-organization-configuration)
+    - [Organisatietypen](https://support.catenda.com/en/articles/13653807-organization-types)
+    - [Organisatie- en projectopstelling](https://support.catenda.com/en/articles/13653804-organization-and-project-setup)
 
 **Productfuncties**
 
 - Onderwerpen
-  - [Instellingenpagina onderwerpsjabloon](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)
+    - [Instellingenpagina onderwerpsjabloon](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)
 - Onderwerpsjablonen
-  - [Een algemeen onderwerpsjabloon toepassen bij het maken van onderwerpen](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation)
-  - [Een onderwerpsjabloon voor documenten toepassen wanneer u een markering uit een document maakt](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document)
-  - [Een onderwerpsjabloon voor goedkeuring toepassen op een goedkeuringswerkstroomsjabloon](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
+    - [Een algemeen onderwerpsjabloon toepassen bij het maken van onderwerpen](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation)
+    - [Een onderwerpsjabloon voor documenten toepassen wanneer u een markering uit een document maakt](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document)
+    - [Een onderwerpsjabloon voor goedkeuring toepassen op een goedkeuringswerkstroomsjabloon](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
 - Categorieoverschrijdend
-  - [Rapportactie maken](https://support.catenda.com/en/articles/13973721-create-report-action)
-  - [Koppelingsactie kopiëren](https://support.catenda.com/en/articles/14323982-copy-link-action)
+    - [Rapportactie maken](https://support.catenda.com/en/articles/13973721-create-report-action)
+    - [Koppelingsactie kopiëren](https://support.catenda.com/en/articles/14323982-copy-link-action)
 - Catenda-plugins en integraties
-  - [Catenda Revit-plugin changelog - 1.0.15](https://support.catenda.com/en/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
-  - [Catenda Archicad-plugin changelog - 1.0.1.17](https://support.catenda.com/en/articles/13449075-catenda-archicad-plugin-changelog-1-0-1-17)
+    - [Catenda Revit-plugin changelog - 1.0.15](https://support.catenda.com/en/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
+    - [Catenda Archicad-plugin changelog - 1.0.1.17](https://support.catenda.com/en/articles/13449075-catenda-archicad-plugin-changelog-1-0-1-17)
 
 **Probleemoplossing**
 
@@ -24764,9 +24764,9 @@ Recente updates
 **Veelgestelde vragen**
 
 - Veelgestelde vragen over onderwerpen
-  - [2D-locatie van onderwerpen - Catenda-site](https://support.catenda.com/en/articles/13616245-2d-location-of-topics-catenda-site)
+    - [2D-locatie van onderwerpen - Catenda-site](https://support.catenda.com/en/articles/13616245-2d-location-of-topics-catenda-site)
 - Projectveelgestelde vragen
-  - [Veelgestelde vragen over aangepaste velden](https://support.catenda.com/en/articles/11384331-custom-fields-faq)
+    - [Veelgestelde vragen over aangepaste velden](https://support.catenda.com/en/articles/11384331-custom-fields-faq)
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
@@ -24782,44 +24782,44 @@ Recente updates
 **Productfuncties**
 
 - Onderwerpen
-  - [Onderwerpentabel acties](https://support.catenda.com/en/articles/4670284-topics-table-actions)
-  - [Menu aan de rechterkant in een onderwerp](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic)
-  - [Werkbalk voor post-opmaak](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) (Eerder opmaak van berichten)
-  - [Onderwerpstekst - De inhoud van een onderwerp](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
-  - [Tabelweergave in een onderwerpenbord](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board)
-  - [Filteren op de onderwerpenenpagina](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
-  - [Onderwerpkop - Het onderwerp van een onderwerp](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
+    - [Onderwerpentabel acties](https://support.catenda.com/en/articles/4670284-topics-table-actions)
+    - [Menu aan de rechterkant in een onderwerp](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic)
+    - [Werkbalk voor post-opmaak](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) (Eerder opmaak van berichten)
+    - [Onderwerpstekst - De inhoud van een onderwerp](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
+    - [Tabelweergave in een onderwerpenbord](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board)
+    - [Filteren op de onderwerpenenpagina](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
+    - [Onderwerpkop - Het onderwerp van een onderwerp](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
 - Modellen
-  - [Objectenpagina](https://support.catenda.com/en/articles/12352750-objects-page)
-  - [Modelenpagina](https://support.catenda.com/en/articles/4670286-models-page)
-  - [Filteren op de modelenpagina](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-  - [Filteren op de objectenpagina](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-  - [Acties op de modelinhoudfenpagina](https://support.catenda.com/en/articles/9674157-model-contents-page-actions)
-  - [Menu aan de rechterkant op de modelenpagina](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
+    - [Objectenpagina](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Modelenpagina](https://support.catenda.com/en/articles/4670286-models-page)
+    - [Filteren op de modelenpagina](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
+    - [Filteren op de objectenpagina](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - [Acties op de modelinhoudfenpagina](https://support.catenda.com/en/articles/9674157-model-contents-page-actions)
+    - [Menu aan de rechterkant op de modelenpagina](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
 - Documenten
-  - [Documententabel acties](https://support.catenda.com/en/articles/4670288-documents-table-actions)
-  - [Documententabblad in een goedkeuringsverzoek](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request)
-  - [Documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page)
-  - [Filteren op de Collections-pagina](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
-  - [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-  - [Filteren op de pagina Goedkeuringen](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-  - [Filteren op de pagina Goedkeuringen (Verouderd)](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+    - [Documententabel acties](https://support.catenda.com/en/articles/4670288-documents-table-actions)
+    - [Documententabblad in een goedkeuringsverzoek](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request)
+    - [Documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page)
+    - [Filteren op de Collections-pagina](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
+    - [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+    - [Filteren op de pagina Goedkeuringen](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
+    - [Filteren op de pagina Goedkeuringen (Verouderd)](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
 - Instellingen
-  - [Inhoudfenpagina voor aangepaste velden](https://support.catenda.com/en/articles/8445588-custom-field-contents-page)
-  - [Filteren op de pagina Leden en Teams](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
+    - [Inhoudfenpagina voor aangepaste velden](https://support.catenda.com/en/articles/8445588-custom-field-contents-page)
+    - [Filteren op de pagina Leden en Teams](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
 - Boomstructuurpaneel
-  - [Modelboomstructuurpaneel](https://support.catenda.com/en/articles/4670290-model-tree-panel)
+    - [Modelboomstructuurpaneel](https://support.catenda.com/en/articles/4670290-model-tree-panel)
 - 2D- en 3D-viewers
-  - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
-  - [Instellingen 3D-viewer](https://support.catenda.com/en/articles/5784718-3d-viewer-settings)
-  - [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
-  - [Uiterlijk 2D-viewer](https://support.catenda.com/en/articles/13615984-2d-viewer-appearance)
-  - [Revisiekiezer](https://support.catenda.com/en/articles/4670279-revision-selector)
-  - [Puntenwolken in Catenda](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
+    - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
+    - [Instellingen 3D-viewer](https://support.catenda.com/en/articles/5784718-3d-viewer-settings)
+    - [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
+    - [Uiterlijk 2D-viewer](https://support.catenda.com/en/articles/13615984-2d-viewer-appearance)
+    - [Revisiekiezer](https://support.catenda.com/en/articles/4670279-revision-selector)
+    - [Puntenwolken in Catenda](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
 - Catenda-plugins en integraties
-  - Catenda - Als een toepassing
-    - [2D-viewer - Catenda-site](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site)
-    - [2D-viewer gebouwen en verdiepingen](https://support.catenda.com/en/articles/10901703-2d-viewer-buildings-and-storeys)
+    - Catenda - Als een toepassing
+        - [2D-viewer - Catenda-site](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site)
+        - [2D-viewer gebouwen en verdiepingen](https://support.catenda.com/en/articles/10901703-2d-viewer-buildings-and-storeys)
 
 **Probleemoplossing**
 
@@ -24840,9 +24840,9 @@ Recente updates
 **Veelgestelde vragen**
 
 - Veelgestelde vragen over productfuncties
-  - [Bestandstypen weergeven op Catenda Hub](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub)
+    - [Bestandstypen weergeven op Catenda Hub](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub)
 - Veelgestelde vragen over onderwerpen
-  - [2D-locatie van onderwerpen](https://support.catenda.com/en/articles/4854523-2d-location-of-topics)
+    - [2D-locatie van onderwerpen](https://support.catenda.com/en/articles/4854523-2d-location-of-topics)
 - [Hardwareaanbeveling](https://support.catenda.com/en/articles/6921941-hardware-recommendation)
 - [3D-viewer optimalisatie](https://support.catenda.com/en/articles/13927321-3d-viewer-optimization)
 - [Netwerkaanbeveling](https://support.catenda.com/en/articles/13927294-network-recommendation)
@@ -24850,8 +24850,8 @@ Recente updates
 - [Aanbeveling systeemsoft](https://support.catenda.com/en/articles/13927605-system-software-recommendation)
 - [Veelgestelde vragen over productfuncties](https://support.catenda.com/en/articles/8263256-project-security)
 - Veelgestelde vragen over accountbeheer
-  - [Een filterkoppeling opslaan en delen](https://support.catenda.com/en/articles/11401493-saving-and-sharing-a-filter-link)
-  - [Filterresultaten beperken](https://support.catenda.com/en/articles/8551755-limiting-filter-results)
+    - [Een filterkoppeling opslaan en delen](https://support.catenda.com/en/articles/11401493-saving-and-sharing-a-filter-link)
+    - [Filterresultaten beperken](https://support.catenda.com/en/articles/8551755-limiting-filter-results)
 
 ## 2. **Nieuwe video's in afspeellijsten**
 
@@ -25438,7 +25438,7 @@ Dankzij uw waardevolle feedback hebben we veel problemen kunnen oplossen die je 
 
 - Het is opnieuw mogelijk om filtermenu's in te klappen.
 - Het laden van de dashboardpagina is nu veel sneller voor projecten met veel modellen.
-  - Het laden van modelinformatie in het inhoudsvenster is nu ongeveer 100 keer sneller.
+    - Het laden van modelinformatie in het inhoudsvenster is nu ongeveer 100 keer sneller.
 - Het is opnieuw mogelijk om eerdere revisies te selecteren wanneer u modellen vergelijkt.
 - Het is opnieuw mogelijk om modellen in de 3D-weergave van opgeslagen views te laden.
 - Het is opnieuw mogelijk om rasters in 3D te verbergen.
@@ -25446,9 +25446,9 @@ Dankzij uw waardevolle feedback hebben we veel problemen kunnen oplossen die je 
 - Objecten die zijn geselecteerd in de boomweergave, worden opnieuw correct gemarkeerd.
 - Het is opnieuw mogelijk om objecten van eigenschappenbibliotheken en gekoppelde objecten te isoleren.
 - Objectkleur/materiaal
-  - Enkele kleuren die eerder werden weergegeven, worden nu opnieuw correct weergegeven.
-  - Objecten verschijnen niet langer zwart in plaats van hun passende kleur.
-  - Vensters zijn opnieuw transparant.
+    - Enkele kleuren die eerder werden weergegeven, worden nu opnieuw correct weergegeven.
+    - Objecten verschijnen niet langer zwart in plaats van hun passende kleur.
+    - Vensters zijn opnieuw transparant.
 - 2D-weergaven zijn opnieuw verwerkt voor een aantal modellen zodat ze niet langer ontbreken.
 - Het is opnieuw mogelijk om objecteigenschappen in het rechtse informatiepaneel te zien.
 
@@ -25511,33 +25511,33 @@ Terwijl nieuwe functies worden uitgerold en bugs worden opgelost, worden artikel
 **Productfuncties**
 
 - Modellen
-  - [Acties modellenpagina](https://support.catenda.com/en/articles/9431936-models-page-actions)
-  - [Acties modelloversichtpagina](https://support.catenda.com/en/articles/9674157-model-overview-page-actions)
-  - [Hoeveelheid (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
+    - [Acties modellenpagina](https://support.catenda.com/en/articles/9431936-models-page-actions)
+    - [Acties modelloversichtpagina](https://support.catenda.com/en/articles/9674157-model-overview-page-actions)
+    - [Hoeveelheid (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
 - Onderwerpen
-  - [Mijlpagina](https://support.catenda.com/en/articles/4670266-milestones-page)
+    - [Mijlpagina](https://support.catenda.com/en/articles/4670266-milestones-page)
 - Documenten
-  - [Rechtermenu van een revisie - Revisie-informatie](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
-  - [Acties documentstructuur](https://support.catenda.com/en/articles/4670288-document-structure-actions)
-  - [Acties documentrevisie](https://support.catenda.com/en/articles/9323521-document-revision-actions)
-  - [Documentvoorbeeld en aantekeningen](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=4496538&activeContentType=article&editorMode=view&search=document%20preview)
-  - [Kolommen op de documentenpagina](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
-  - [Revisie publiceren - ISO 19650](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650)
-  - [Een zip-/bestandsstructuur uploaden](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
-  - [Verzamelingenpagina](https://support.catenda.com/en/articles/6344318-collections-page)
+    - [Rechtermenu van een revisie - Revisie-informatie](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
+    - [Acties documentstructuur](https://support.catenda.com/en/articles/4670288-document-structure-actions)
+    - [Acties documentrevisie](https://support.catenda.com/en/articles/9323521-document-revision-actions)
+    - [Documentvoorbeeld en aantekeningen](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=4496538&activeContentType=article&editorMode=view&search=document%20preview)
+    - [Kolommen op de documentenpagina](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
+    - [Revisie publiceren - ISO 19650](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650)
+    - [Een zip-/bestandsstructuur uploaden](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
+    - [Verzamelingenpagina](https://support.catenda.com/en/articles/6344318-collections-page)
 - Projectinstellingen
-  - [Projectinstellingenpagina](https://support.catenda.com/en/articles/4670273-project-settings-page)
-  - [Aangepaste veldenpagina](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-  - [Leden pagina](https://support.catenda.com/en/articles/4670291-members-page)
+    - [Projectinstellingenpagina](https://support.catenda.com/en/articles/4670273-project-settings-page)
+    - [Aangepaste veldenpagina](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+    - [Leden pagina](https://support.catenda.com/en/articles/4670291-members-page)
 - 2D & 3D Viewers
-  - [3D-viewer gereedschapsmenu](https://support.catenda.com/en/articles/4670294-3d-viewer-tool-menu)
-  - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
-  - [Revisieselector](https://support.catenda.com/en/articles/4670279-revision-selector)
-  - [Puntenwolken in Catenda Hub](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
+    - [3D-viewer gereedschapsmenu](https://support.catenda.com/en/articles/4670294-3d-viewer-tool-menu)
+    - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
+    - [Revisieselector](https://support.catenda.com/en/articles/4670279-revision-selector)
+    - [Puntenwolken in Catenda Hub](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
 - Catenda-plugins en integraties
-  - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
-  - [Topics-menu - Catenda Site](https://support.catenda.com/en/articles/7734073-topics-menu-catenda-site)
-  - [Solibri Models and Documents-integratie](https://support.catenda.com/en/articles/6988148-solibri-models-and-documents-integration)
+    - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
+    - [Topics-menu - Catenda Site](https://support.catenda.com/en/articles/7734073-topics-menu-catenda-site)
+    - [Solibri Models and Documents-integratie](https://support.catenda.com/en/articles/6988148-solibri-models-and-documents-integration)
 
 **Probleemoplossing** [Aanbeveling voor hardware](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Waarom ontvang ik geen e-mails?](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) [Ondersteuningsknop locatie en functionaliteit](https://support.catenda.com/en/articles/8894066-support-button-location-and-functionality)
 
@@ -25554,14 +25554,14 @@ Dankzij je waardevolle feedback hebben we veel topics kunnen oplossen die je wel
 Prestatievermindering werd opgemerkt op 17-28 april. Dit, nadat we de maand ervoor het platform sneller hadden gemaakt. Het onderzoek resulteerde in een probleemdetectie die alle inkomende verzoeken naar Catenda Hub beïnvloedde. Dit probleem oplossen maakte Catenda Hub sneller om mee te werken, vooral als veel mensen tegelijk veel taken proberen uit te voeren:
 
 - 5x sneller bij minder activiteit
-  - Wanneer: De helft van de tijd tussen 09:00-17:00 CET en 's nachts.
-  - Waargenomen snelheid: Langzamer dan wanneer er geen activiteit is, maar het zou voelen dat het een stukje sneller is dan vroeger, aangezien de lagere activiteit dingen nog steeds langzamer maakt.
+    - Wanneer: De helft van de tijd tussen 09:00-17:00 CET en 's nachts.
+    - Waargenomen snelheid: Langzamer dan wanneer er geen activiteit is, maar het zou voelen dat het een stukje sneller is dan vroeger, aangezien de lagere activiteit dingen nog steeds langzamer maakt.
 - 250x sneller bij normale activiteit
-  - Wanneer: De helft van de tijd tussen 09:00-17:00 CET
-  - Waargenomen snelheid: Langzamer dan wanneer er minder activiteit is, maar merkbaar sneller dan vroeger bij normale activiteit.
+    - Wanneer: De helft van de tijd tussen 09:00-17:00 CET
+    - Waargenomen snelheid: Langzamer dan wanneer er minder activiteit is, maar merkbaar sneller dan vroeger bij normale activiteit.
 - 5000x sneller bij hoge activiteit
-  - Wanneer: In het geval van de meeste hoeveelheid gebruik.
-  - Waargenomen snelheid: Langzamer dan wanneer er normale activiteit is, maar wereld van verschil in vergelijking met hoe het vroeger was bij hoge activiteit.
+    - Wanneer: In het geval van de meeste hoeveelheid gebruik.
+    - Waargenomen snelheid: Langzamer dan wanneer er normale activiteit is, maar wereld van verschil in vergelijking met hoe het vroeger was bij hoge activiteit.
 
 ### 2.2 **Documenten**
 
@@ -25595,40 +25595,40 @@ Prestatievermindering werd opgemerkt op 17-28 april. Dit, nadat we de maand ervo
 ## 3. **Nieuwe video's in afspeellijsten**
 
 - Aan de slag
-  - [Video - Onboarding & ondersteuning van gebruikers](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7?track_link_name=Intercom&track_link_id=vrc3txAqpnzG21ahEDofSs&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Verbinding maken met Catenda Hub](https://eu.guidde.com/share/playbooks/sAJ9zHv65kinzKseJPmNQm?track_link_name=Changelog&track_link_id=nQAaRkkuJwtN2my3y8ZNSK&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Accountinstellingen en meldingen](https://eu.guidde.com/share/playbooks/6cAvR5y6ugZsAShAwPLL6f?track_link_name=Changelog&track_link_id=4PcBgdUq2XeCAyaHp4Surf&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Leden toevoegen en teams maken in Catenda Hub](https://eu.guidde.com/share/playbooks/32n43rhyPM5WkmCNZZ3Smf?track_link_name=Changelog&track_link_id=4nEH9C2PJeTvYuuoXRtEYe&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Neem contact op met ondersteuning en open documentatie](https://eu.guidde.com/share/playbooks/bQFS6LFyFckyhNwY3LnXGJ?track_link_name=Changelog&track_link_id=feEe6eFALATtc4tHkuhKYR&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Video - Projectnavigatie](https://eu.guidde.com/share/playlists/raHoQ3qwoDbNx18S5YZtDv?track_link_name=Intercom&track_link_id=rHg8xpibRQegGuksgmT5nA&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Hub-dashboard](https://eu.guidde.com/share/playbooks/jTzRJEtpD8KZ7BjpKcd1Zw?track_link_name=Changelog&track_link_id=fVJrXGLsuTBxE43RZ3MBs2&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Door projectmappen navigeren](https://eu.guidde.com/share/playbooks/tzd39Q3NFqKTTVHodFQpJr?track_link_name=Changelog&track_link_id=vssrsCNc1tQz49b4J7RqnQ&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [3D-documenten openen](https://Opening%203D%20documents)
-  - [Video - Inhoudsbeheer](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7?track_link_name=Intercom&track_link_id=khM8GzpkYf6nta8Y46UGED&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Inhoud uploaden en modellen van IFC maken](https://eu.guidde.com/share/playbooks/9fgGi4DqpchSDqcy1WEY8n?track_link_name=Changelog&track_link_id=wBvEL6SVQmQgVLAwF1DgAF&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Topics maken, toewijzen en beheren](https://eu.guidde.com/share/playbooks/vRYbidpKvH49HzfhbKh8z6?track_link_name=Changelog&track_link_id=sBPtoFQcnCkfMn8Kd7i4zy&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Topics exporteren](https://eu.guidde.com/share/playbooks/tjNgrqvUfKreqJqXrWKUQw?track_link_name=Changelog&track_link_id=qEVCnwTYQNETuKNF4YF45Q&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Video - Projectinstelling](https://eu.guidde.com/share/playlists/9EG9WZEd2UiGMPZVVQfHuR?track_link_name=Intercom&track_link_id=ouZFRWrWkT82un7JZcNcZD&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Mappen en submappen toevoegen](https://eu.guidde.com/share/playbooks/o7pDsqiQCKPyTGBLifxKgE?track_link_name=Changelog&track_link_id=cV899DSepqVheMCwSroRSt&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Een verzameling maken en delen](https://eu.guidde.com/share/playbooks/rcTnM584AAZPy6APbGyQS9?track_link_name=Changelog&track_link_id=eBp853v7gRvCsu9L2h5Ht2&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Labels maken en toevoegen](https://eu.guidde.com/share/playbooks/ibD5KfuW1XNvGYuDPUFeiT?track_link_name=Changelog&track_link_id=asuMNTs82hbfQhwZCinqZi&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Video - Onboarding & ondersteuning van gebruikers](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7?track_link_name=Intercom&track_link_id=vrc3txAqpnzG21ahEDofSs&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Verbinding maken met Catenda Hub](https://eu.guidde.com/share/playbooks/sAJ9zHv65kinzKseJPmNQm?track_link_name=Changelog&track_link_id=nQAaRkkuJwtN2my3y8ZNSK&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Accountinstellingen en meldingen](https://eu.guidde.com/share/playbooks/6cAvR5y6ugZsAShAwPLL6f?track_link_name=Changelog&track_link_id=4PcBgdUq2XeCAyaHp4Surf&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Leden toevoegen en teams maken in Catenda Hub](https://eu.guidde.com/share/playbooks/32n43rhyPM5WkmCNZZ3Smf?track_link_name=Changelog&track_link_id=4nEH9C2PJeTvYuuoXRtEYe&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Neem contact op met ondersteuning en open documentatie](https://eu.guidde.com/share/playbooks/bQFS6LFyFckyhNwY3LnXGJ?track_link_name=Changelog&track_link_id=feEe6eFALATtc4tHkuhKYR&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Video - Projectnavigatie](https://eu.guidde.com/share/playlists/raHoQ3qwoDbNx18S5YZtDv?track_link_name=Intercom&track_link_id=rHg8xpibRQegGuksgmT5nA&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Hub-dashboard](https://eu.guidde.com/share/playbooks/jTzRJEtpD8KZ7BjpKcd1Zw?track_link_name=Changelog&track_link_id=fVJrXGLsuTBxE43RZ3MBs2&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Door projectmappen navigeren](https://eu.guidde.com/share/playbooks/tzd39Q3NFqKTTVHodFQpJr?track_link_name=Changelog&track_link_id=vssrsCNc1tQz49b4J7RqnQ&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [3D-documenten openen](https://Opening%203D%20documents)
+    - [Video - Inhoudsbeheer](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7?track_link_name=Intercom&track_link_id=khM8GzpkYf6nta8Y46UGED&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Inhoud uploaden en modellen van IFC maken](https://eu.guidde.com/share/playbooks/9fgGi4DqpchSDqcy1WEY8n?track_link_name=Changelog&track_link_id=wBvEL6SVQmQgVLAwF1DgAF&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Topics maken, toewijzen en beheren](https://eu.guidde.com/share/playbooks/vRYbidpKvH49HzfhbKh8z6?track_link_name=Changelog&track_link_id=sBPtoFQcnCkfMn8Kd7i4zy&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Topics exporteren](https://eu.guidde.com/share/playbooks/tjNgrqvUfKreqJqXrWKUQw?track_link_name=Changelog&track_link_id=qEVCnwTYQNETuKNF4YF45Q&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Video - Projectinstelling](https://eu.guidde.com/share/playlists/9EG9WZEd2UiGMPZVVQfHuR?track_link_name=Intercom&track_link_id=ouZFRWrWkT82un7JZcNcZD&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Mappen en submappen toevoegen](https://eu.guidde.com/share/playbooks/o7pDsqiQCKPyTGBLifxKgE?track_link_name=Changelog&track_link_id=cV899DSepqVheMCwSroRSt&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Een verzameling maken en delen](https://eu.guidde.com/share/playbooks/rcTnM584AAZPy6APbGyQS9?track_link_name=Changelog&track_link_id=eBp853v7gRvCsu9L2h5Ht2&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Labels maken en toevoegen](https://eu.guidde.com/share/playbooks/ibD5KfuW1XNvGYuDPUFeiT?track_link_name=Changelog&track_link_id=asuMNTs82hbfQhwZCinqZi&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Productfuncties
-  - [Link delen](https://eu.guidde.com/share/playbooks/1Z3cf5Rjbvgkv5Lfq2mLex?track_link_name=Changelog&track_link_id=gpwRmqmraYWC9J4maVZZPz&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Inhoud verplaatsen](https://eu.guidde.com/share/playbooks/czZ43xf7ncVH7M18yUZoCC?track_link_name=Changelog&track_link_id=qZUkeSsyHcj98hWGM2Wwd1&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Inhoud downloaden](https://eu.guidde.com/share/playbooks/naxhWxhmKhkt5cYbY6iMMj?track_link_name=Changelog&track_link_id=5WE2WuHetNNcjKdaqciDAi&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - Onderwerpen
-    - [Topicgeschiedenis weergeven](https://eu.guidde.com/share/playbooks/vc9qXCxWe47hbvtGjtn8rJ?track_link_name=Changelog&track_link_id=n1Bfij4G5CNWTXGzaLNMcY&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - Documenten
-    - [Een document annoteren met de markeringsfunctie](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Changelog&track_link_id=3GDPP7qo2TJ3hsNM4xi4QP&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Twee revisies van een PDF-bestand vergelijken](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Changelog&track_link_id=3GDPP7qo2TJ3hsNM4xi4QP&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Een naamgevingsconventie instellen](https://eu.guidde.com/share/playbooks/gvmH5vCYdrmxz7gHhosVEr?track_link_name=Guidde%20videos%20article&track_link_id=cmU3oSHd7meH6G99TjUYGm&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Een document visualiseren](https://eu.guidde.com/share/playbooks/g7G5vfKW7K29MhYUzkXdZX?track_link_name=Changelog&track_link_id=wHtAfxXfoVEjWZePMqTfcA&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Validatiewerkstroom (conceptmodus)](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - Bibliotheken
-    - [Bibliotheek: CSV-classificatie importeren](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Catenda Hub - Classificatiebibliotheek, Planningsvoorbeeld](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - Catenda-plugins en integraties
-    - [Catenda Sharepoint App (Webpart)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Link delen](https://eu.guidde.com/share/playbooks/1Z3cf5Rjbvgkv5Lfq2mLex?track_link_name=Changelog&track_link_id=gpwRmqmraYWC9J4maVZZPz&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Inhoud verplaatsen](https://eu.guidde.com/share/playbooks/czZ43xf7ncVH7M18yUZoCC?track_link_name=Changelog&track_link_id=qZUkeSsyHcj98hWGM2Wwd1&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Inhoud downloaden](https://eu.guidde.com/share/playbooks/naxhWxhmKhkt5cYbY6iMMj?track_link_name=Changelog&track_link_id=5WE2WuHetNNcjKdaqciDAi&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - Onderwerpen
+        - [Topicgeschiedenis weergeven](https://eu.guidde.com/share/playbooks/vc9qXCxWe47hbvtGjtn8rJ?track_link_name=Changelog&track_link_id=n1Bfij4G5CNWTXGzaLNMcY&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - Documenten
+        - [Een document annoteren met de markeringsfunctie](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Changelog&track_link_id=3GDPP7qo2TJ3hsNM4xi4QP&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Twee revisies van een PDF-bestand vergelijken](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Changelog&track_link_id=3GDPP7qo2TJ3hsNM4xi4QP&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Een naamgevingsconventie instellen](https://eu.guidde.com/share/playbooks/gvmH5vCYdrmxz7gHhosVEr?track_link_name=Guidde%20videos%20article&track_link_id=cmU3oSHd7meH6G99TjUYGm&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Een document visualiseren](https://eu.guidde.com/share/playbooks/g7G5vfKW7K29MhYUzkXdZX?track_link_name=Changelog&track_link_id=wHtAfxXfoVEjWZePMqTfcA&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Validatiewerkstroom (conceptmodus)](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - Bibliotheken
+        - [Bibliotheek: CSV-classificatie importeren](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+        - [Catenda Hub - Classificatiebibliotheek, Planningsvoorbeeld](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - Catenda-plugins en integraties
+        - [Catenda Sharepoint App (Webpart)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 
 ## 4. **Gebruikersstemmen afgerond**
 
@@ -26200,10 +26200,10 @@ Nieuwe functies in 1.0.8
 - Teams Filters
 - Aangepaste exportinstellingen zijn opnieuw beschikbaar in de plugin
 - Issue zijpaneel
-  - Binnen een issue is het nu mogelijk het zijpaneel te openen door op gerelateerde items te klikken.
-  - Bekijk Documenten die aan de issue zijn gekoppeld
-  - Selecteer objecten die aan de issue zijn gekoppeld
-  - Bekijk welke issues aan deze issue zijn gerelateerd
+    - Binnen een issue is het nu mogelijk het zijpaneel te openen door op gerelateerde items te klikken.
+    - Bekijk Documenten die aan de issue zijn gekoppeld
+    - Selecteer objecten die aan de issue zijn gekoppeld
+    - Bekijk welke issues aan deze issue zijn gerelateerd
 
 # Revit-wijzigingenlogboek - 1.0.11
 
@@ -26653,8 +26653,8 @@ Dankzij uw waardevol commentaar hebben we veel Topics kunnen oplossen die je mis
 
 - Het alles Topics board toont niet langer de filters van het vorige board waar u op was en toont opnieuw correct de filters van het alles Topics board.
 - Verbeteringen voor Topic-export:
-  - Topic-exports die lang duren, worden nu verondersteld te worden onderbroken.
-  - Tot 10000 afbeeldingen kunnen nu in een PDF-export worden opgenomen.
+    - Topic-exports die lang duren, worden nu verondersteld te worden onderbroken.
+    - Tot 10000 afbeeldingen kunnen nu in een PDF-export worden opgenomen.
 
 ### 2.4 **Projectinstellingen**
 
@@ -26780,10 +26780,10 @@ Dit betekent dat je modellen in de modellengedeelte voor mensen verborgen kunt h
 ### 3.5 **Algemeen**
 
 - Het maken van nieuwe projecten van sjabloonprojecten is verbeterd. Het is nu mogelijk om de volgende onderdelen van een project naar een nieuw project te brengen:
-  - Mappenstructuur
-  - Documentstatusconfiguratie
-  - Document- en topic-bord toegangscontrole
-  - Aangepaste velden en naamgevingsconventies
+    - Mappenstructuur
+    - Documentstatusconfiguratie
+    - Document- en topic-bord toegangscontrole
+    - Aangepaste velden en naamgevingsconventies
 
 ## 4. **Nieuwe releases** - Catenda Site, Plug-ins en integraties
 

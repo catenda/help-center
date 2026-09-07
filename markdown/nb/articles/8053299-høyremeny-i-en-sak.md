@@ -55,7 +55,7 @@ For mapper vises mappenavn sammen med eventuelle etiketter som er knyttet til ma
 - Størrelse på siste revisjon
 - Skaper av siste revisjon
 - Antall 3D-objekter koblet til det relaterte dokumentet
-  - Klikk på objektantallet for å åpne handlingsmenyen for 3D-objekter.
+    - Klikk på objektantallet for å åpne handlingsmenyen for 3D-objekter.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/07-related-folders-and-documents.png)
 

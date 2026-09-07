@@ -33,7 +33,7 @@ Følg trinnene nedenfor for å invitere et nytt medlem.
 Hvis gruppen skal ha samme rolle og være del av samme team, kan du fylle inn mer enn én e-postadresse.
 
 1. Fyll inn e-postadressen og trykk enter, gjør det samme for hver nye e-postadresse
-   1. Du kan også fylle inn en kommadelt liste med e-postadresser og trykke enter for å legge til flere adresser samtidig.
+    1. Du kan også fylle inn en kommadelt liste med e-postadresser og trykke enter for å legge til flere adresser samtidig.
 1. Velg rollen/tilgangen for de nye medlemmene
 1. Velg teamene medlemmene skal være medlemmer av.
 1. Trykk Legg til-knappen

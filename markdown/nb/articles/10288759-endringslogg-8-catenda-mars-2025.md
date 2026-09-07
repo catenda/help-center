@@ -60,8 +60,8 @@ Takk for verdifulle tilbakemeldinger har vi vært i stand til å fikse mange sak
 
 - Saklisten med alle saker viser ikke lenger filtrene fra den forrige listen du var på og viser nå igjen riktig filtrene som tilhører saklisten med alle saker.
 - Forbedringer ved eksportering av sak:
-  - Sakeksporter som tar lang tid, vil nå få tidsavbrudd.
-  - Opptil 10000 bilder kan nå inkluderes i en PDF-eksport.
+    - Sakeksporter som tar lang tid, vil nå få tidsavbrudd.
+    - Opptil 10000 bilder kan nå inkluderes i en PDF-eksport.
 
 ### 2.4 **Prosjektinnstillinger**
 

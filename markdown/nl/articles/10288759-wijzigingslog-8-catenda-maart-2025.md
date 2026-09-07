@@ -60,8 +60,8 @@ Dankzij uw waardevol commentaar hebben we veel Topics kunnen oplossen die je mis
 
 - Het alles Topics board toont niet langer de filters van het vorige board waar u op was en toont opnieuw correct de filters van het alles Topics board.
 - Verbeteringen voor Topic-export:
-  - Topic-exports die lang duren, worden nu verondersteld te worden onderbroken.
-  - Tot 10000 afbeeldingen kunnen nu in een PDF-export worden opgenomen.
+    - Topic-exports die lang duren, worden nu verondersteld te worden onderbroken.
+    - Tot 10000 afbeeldingen kunnen nu in een PDF-export worden opgenomen.
 
 ### 2.4 **Projectinstellingen**
 

@@ -128,7 +128,7 @@ Vil alle bli til dette:
 
 - Første element
 - Andre element
-  - Sett inn 4 mellomrom på starten av linjen for å opprette en underliste.
+    - Sett inn 4 mellomrom på starten av linjen for å opprette en underliste.
 
 > **Merk:** For at en uordnet liste skal formateres riktig, må det være en tom linje over listen.
 
@@ -156,7 +156,7 @@ Vil alle bli til dette:
 1. element to
 1. element tre
 
-1. Element fire
+    1. Element fire
 
 > **Merk:** For at en ordnet liste skal formateres riktig, må det være en tom linje over listen.
 
@@ -172,7 +172,7 @@ Blir til:
 1. tjuefire
 1. tjuefem
 
-1. tjueseks
+    1. tjueseks
 
 Hvis du ønsker å tilbakestille nummereringen og starte fra en igjen på en annen liste innenfor samme innlegg, kan du legge en tom eller en [skillelinje](#h_3a36cfbc61) mellom dem.
 

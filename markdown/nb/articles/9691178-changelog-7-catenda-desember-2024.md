@@ -76,7 +76,7 @@ Takk for din verdifulle tilbakemelding har vi kunnet fikse mange saker som du ka
 
 - Det er igjen mulig å trekke tilbake filtermenyer.
 - Det er nå mye raskere for prosjekter med mange modeller å laste inn dashbordsiden.
-  - Innlasting av modellinformasjon i innholdspanelet er nå omtrent 100 ganger raskere.
+    - Innlasting av modellinformasjon i innholdspanelet er nå omtrent 100 ganger raskere.
 - Det er igjen mulig å velge tidligere revisjoner når du sammenligner modeller.
 - Det er igjen mulig å laste inn modeller i 3D-visningen av bokmerker.
 - Det er igjen mulig å skjule rutenett i 3D.
@@ -84,9 +84,9 @@ Takk for din verdifulle tilbakemelding har vi kunnet fikse mange saker som du ka
 - Objekter valgt fra treoversikten er igjen korrekt uthevet.
 - Det er igjen mulig å isolere objekter fra egenskapsbiblioteker og koblede objekter.
 - Objektfarge/-materiale
-  - Noen farger som ble vist tidligere, vises nå igjen korrekt.
-  - Objekter vises ikke lenger svarte i stedet for deres passende farge.
-  - Vinduer er igjen gjennomsiktige.
+    - Noen farger som ble vist tidligere, vises nå igjen korrekt.
+    - Objekter vises ikke lenger svarte i stedet for deres passende farge.
+    - Vinduer er igjen gjennomsiktige.
 - 2D-visninger har blitt ombehandlet for noen få modeller slik at de ikke lenger mangler.
 - Det er igjen mulig å se objektegenskaper i høyre informasjonspanel.
 

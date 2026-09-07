@@ -96,9 +96,9 @@ Klicken Sie auf "Zur Überprüfung einreichen", um die Genehmigung einzureichen 
 - Ein Team, das im Namen einreicht, muss ausgewählt werden
 - Ein Titel
 - Dokumente
-  - Mindestens 1 Dokument mit einer ausgewählten freigegebenen Revision muss hinzugefügt werden, um die Bearbeitungsanforderung einreichen zu können.
-  - Es können maximal 1000 Dokumentrevisionen mit einer ausgewählten freigegebenen Revision hinzugefügt werden.
-  - Um eine Bearbeitungsanforderung mit mehr als 1000 Dokumentrevisionen zu erstellen, erstellen Sie zunächst einen Entwurf mit bis zu 1000 Revisionen und fügen Sie dann bis zu 1000 Dokumentrevisionen gleichzeitig zum Entwurf hinzu, bevor Sie den Entwurf zur Überprüfung einreichen.
+    - Mindestens 1 Dokument mit einer ausgewählten freigegebenen Revision muss hinzugefügt werden, um die Bearbeitungsanforderung einreichen zu können.
+    - Es können maximal 1000 Dokumentrevisionen mit einer ausgewählten freigegebenen Revision hinzugefügt werden.
+    - Um eine Bearbeitungsanforderung mit mehr als 1000 Dokumentrevisionen zu erstellen, erstellen Sie zunächst einen Entwurf mit bis zu 1000 Revisionen und fügen Sie dann bis zu 1000 Dokumentrevisionen gleichzeitig zum Entwurf hinzu, bevor Sie den Entwurf zur Überprüfung einreichen.
 
 Nach dem Einreichen einer Bearbeitungsanforderung zur Überprüfung mit dem neuen Validierungs-Workflow ist das Einzige, das geändert werden kann, dass freigegebene Revisionsdokumente aus der Anforderung verworfen werden können.
 

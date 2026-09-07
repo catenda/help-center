@@ -160,17 +160,17 @@ Oppsettet av automatiserte dataeksporter innebærer fire hovedtrinn:
 1. **Velg destinasjon**
    Velg en skylageringsleverandør, Amazon Web Services (AWS) S3 eller Microsoft Azure Blob-lagring, og konfigurer godkjenning.
 1. **Definer omfang og dataformater**
-   - **Datatyper**
-     Eksporter dokumenter, modeller og saker.
-     Sakdata kan automatisk konverteres til lesbare PDF-sammendragsrapporter eller standard BCF-filer under overføring.
-   - **Prosjektvalg**
-     Velg alle prosjekter, håndplukk bestemte prosjekter, eller konfigurer dynamiske samsvaringsregler ved hjelp av prosjektnavn mønstre (glob eller regulært uttrykk / regex) for automatisk å inkludere nye prosjekter når de opprettes.
+    - **Datatyper**
+      Eksporter dokumenter, modeller og saker.
+      Sakdata kan automatisk konverteres til lesbare PDF-sammendragsrapporter eller standard BCF-filer under overføring.
+    - **Prosjektvalg**
+      Velg alle prosjekter, håndplukk bestemte prosjekter, eller konfigurer dynamiske samsvaringsregler ved hjelp av prosjektnavn mønstre (glob eller regulært uttrykk / regex) for automatisk å inkludere nye prosjekter når de opprettes.
 1. **Velg eksportmodus**
-   - **Kontinuerlig modus**
-     Sender data automatisk på en daglig tidsplan.
-     Denne gjentakende oppsettet sikrer at ikke-eierprosjektmedlemmer opprettholder en oppdatert sikkerhetskopi opp til den siste daglige kjøringen hvis prosjekttilgangen avsluttes uventet.
-   - **Øyeblikksbildemodus**
-     Utfører en engangskjøring for å eksportere et komplett datasett ved en spesifikk milepæl eller prosjektovergelse.
+    - **Kontinuerlig modus**
+      Sender data automatisk på en daglig tidsplan.
+      Denne gjentakende oppsettet sikrer at ikke-eierprosjektmedlemmer opprettholder en oppdatert sikkerhetskopi opp til den siste daglige kjøringen hvis prosjekttilgangen avsluttes uventet.
+    - **Øyeblikksbildemodus**
+      Utfører en engangskjøring for å eksportere et komplett datasett ved en spesifikk milepæl eller prosjektovergelse.
 1. **Distribuer**
    Full legg og aktiver eksportkonfigurasjonen ved å velge Opprett.
 

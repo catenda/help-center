@@ -13,24 +13,24 @@ Når nye funksjoner lanseres og feil utbedres, oppdateres artikler med endringen
 _Kontoadministrasjon_
 
 - Organisasjoner
-  - [Organisasjonskonfigurasjon](https://support.catenda.com/en/articles/13653794-organization-configuration)
-  - [Organisasjonstyper](https://support.catenda.com/en/articles/13653807-organization-types)
-  - [Organisasjon og prosjektkonfigurasjon](https://support.catenda.com/en/articles/13653804-organization-and-project-setup)
+    - [Organisasjonskonfigurasjon](https://support.catenda.com/en/articles/13653794-organization-configuration)
+    - [Organisasjonstyper](https://support.catenda.com/en/articles/13653807-organization-types)
+    - [Organisasjon og prosjektkonfigurasjon](https://support.catenda.com/en/articles/13653804-organization-and-project-setup)
 
 _Produktfunksjoner_
 
 - Saker
-  - [Sakmalsettingsside](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)
+    - [Sakmalsettingsside](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)
 - Sakmaler
-  - [Anvend en generell sakmal ved saksoppretting](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation)
-  - [Anvend en dokumentsakmal når du oppretter en merknad fra et dokument](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document)
-  - [Anvend en gjennomgangssakmal på en gjennomgangsarbeidsflytmal](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
+    - [Anvend en generell sakmal ved saksoppretting](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation)
+    - [Anvend en dokumentsakmal når du oppretter en merknad fra et dokument](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document)
+    - [Anvend en gjennomgangssakmal på en gjennomgangsarbeidsflytmal](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
 - Kategorioverskridende
-  - [Opprett rapporthandling](https://support.catenda.com/en/articles/13973721-create-report-action)
-  - [Kopier-lenkehandling](https://support.catenda.com/en/articles/14323982-copy-link-action)
+    - [Opprett rapporthandling](https://support.catenda.com/en/articles/13973721-create-report-action)
+    - [Kopier-lenkehandling](https://support.catenda.com/en/articles/14323982-copy-link-action)
 - Catenda-programtillegg og integrasjoner
-  - [Catenda Revit-programtillegg endringslogg - 1.0.15](https://support.catenda.com/en/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
-  - [Catenda Archicad-programtillegg endringslogg - 1.0.1.17](https://support.catenda.com/en/articles/13449075-catenda-archicad-plugin-changelog-1-0-1-17)
+    - [Catenda Revit-programtillegg endringslogg - 1.0.15](https://support.catenda.com/en/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
+    - [Catenda Archicad-programtillegg endringslogg - 1.0.1.17](https://support.catenda.com/en/articles/13449075-catenda-archicad-plugin-changelog-1-0-1-17)
 
 _Feilsøking_
 
@@ -45,9 +45,9 @@ Nylige oppdateringer
 _Ofte stilte spørsmål_
 
 - Saker - OSS
-  - [2D-plassering av saker - Catenda-nettsted](https://support.catenda.com/en/articles/13616245-2d-location-of-topics-catenda-site)
+    - [2D-plassering av saker - Catenda-nettsted](https://support.catenda.com/en/articles/13616245-2d-location-of-topics-catenda-site)
 - Prosjekt - OSS
-  - [Egendefinerte felt - OSS](https://support.catenda.com/en/articles/11384331-custom-fields-faq)
+    - [Egendefinerte felt - OSS](https://support.catenda.com/en/articles/11384331-custom-fields-faq)
 
 ### 1.2 **Artikler som har endret seg:**
 
@@ -63,44 +63,44 @@ _Kontoadministrasjon_
 _Produktfunksjoner_
 
 - Saker
-  - [Sakstabellhandlinger](https://support.catenda.com/en/articles/4670284-topics-table-actions)
-  - [Høyremeny i en sak](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic)
-  - [Verktøylinje for innleggformatering](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) (Tidligere formatering av innlegg)
-  - [Saksteksten - Innholdet i en sak](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
-  - [Tabeloversikt i en saksliste](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board)
-  - [Filtrering på sakssiden](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
-  - [Sak-overskrift - Emnet i en sak](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
+    - [Sakstabellhandlinger](https://support.catenda.com/en/articles/4670284-topics-table-actions)
+    - [Høyremeny i en sak](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic)
+    - [Verktøylinje for innleggformatering](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) (Tidligere formatering av innlegg)
+    - [Saksteksten - Innholdet i en sak](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
+    - [Tabeloversikt i en saksliste](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board)
+    - [Filtrering på sakssiden](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
+    - [Sak-overskrift - Emnet i en sak](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
 - Modeller
-  - [Objektside](https://support.catenda.com/en/articles/12352750-objects-page)
-  - [Modellside](https://support.catenda.com/en/articles/4670286-models-page)
-  - [Filtrering på modellsiden](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-  - [Filtrering på objektsiden](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-  - [Modellinnholdssideshandlinger](https://support.catenda.com/en/articles/9674157-model-contents-page-actions)
-  - [Høyremeny på modellsiden](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
+    - [Objektside](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Modellside](https://support.catenda.com/en/articles/4670286-models-page)
+    - [Filtrering på modellsiden](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
+    - [Filtrering på objektsiden](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - [Modellinnholdssideshandlinger](https://support.catenda.com/en/articles/9674157-model-contents-page-actions)
+    - [Høyremeny på modellsiden](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
 - Dokumenter
-  - [Dokumenttabellhandlinger](https://support.catenda.com/en/articles/4670288-documents-table-actions)
-  - [Dokumentfane i en gjennomgangsforespørsel](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request)
-  - [Dokumentside](https://support.catenda.com/en/articles/8204673-documents-page)
-  - [Filtrering på samlingssiden](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
-  - [Filtrering på dokumentsiden](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-  - [Filtrering på gjennomgangssiden](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-  - [Filtrering på gjennomgangssiden (eldre versjon)](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+    - [Dokumenttabellhandlinger](https://support.catenda.com/en/articles/4670288-documents-table-actions)
+    - [Dokumentfane i en gjennomgangsforespørsel](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request)
+    - [Dokumentside](https://support.catenda.com/en/articles/8204673-documents-page)
+    - [Filtrering på samlingssiden](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
+    - [Filtrering på dokumentsiden](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+    - [Filtrering på gjennomgangssiden](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
+    - [Filtrering på gjennomgangssiden (eldre versjon)](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
 - Innstillinger
-  - [Egendefinerte feltinnholdsside](https://support.catenda.com/en/articles/8445588-custom-field-contents-page)
-  - [Filtrering på siden for medlemmer og grupper](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
+    - [Egendefinerte feltinnholdsside](https://support.catenda.com/en/articles/8445588-custom-field-contents-page)
+    - [Filtrering på siden for medlemmer og grupper](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
 - Treepanel
-  - [Modelltre-panel](https://support.catenda.com/en/articles/4670290-model-tree-panel)
+    - [Modelltre-panel](https://support.catenda.com/en/articles/4670290-model-tree-panel)
 - 2D- og 3D-visere
-  - [3D-viser](https://support.catenda.com/en/articles/8227211-3d-viewer)
-  - [3D-viserinnstillinger](https://support.catenda.com/en/articles/5784718-3d-viewer-settings)
-  - [2D-viser](https://support.catenda.com/en/articles/4854537-2d-viewer)
-  - [2D-viser-utseende](https://support.catenda.com/en/articles/13615984-2d-viewer-appearance)
-  - [Revisjonvelger](https://support.catenda.com/en/articles/4670279-revision-selector)
-  - [Punktskyer i Catenda](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
+    - [3D-viser](https://support.catenda.com/en/articles/8227211-3d-viewer)
+    - [3D-viserinnstillinger](https://support.catenda.com/en/articles/5784718-3d-viewer-settings)
+    - [2D-viser](https://support.catenda.com/en/articles/4854537-2d-viewer)
+    - [2D-viser-utseende](https://support.catenda.com/en/articles/13615984-2d-viewer-appearance)
+    - [Revisjonvelger](https://support.catenda.com/en/articles/4670279-revision-selector)
+    - [Punktskyer i Catenda](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
 - Catenda-programtillegg og integrasjoner
-  - Catenda - som et program
-    - [2D-viser - Catenda-nettsted](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site)
-    - [2D-viser bygninger og etasjer](https://support.catenda.com/en/articles/10901703-2d-viewer-buildings-and-storeys)
+    - Catenda - som et program
+        - [2D-viser - Catenda-nettsted](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site)
+        - [2D-viser bygninger og etasjer](https://support.catenda.com/en/articles/10901703-2d-viewer-buildings-and-storeys)
 
 _Feilsøking_
 
@@ -121,9 +121,9 @@ _Brukstilfeller_
 _Ofte stilte spørsmål_
 
 - Produktfunksjoner - OSS
-  - [Forhåndsvisning av filtyper på Catenda Hub](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub)
+    - [Forhåndsvisning av filtyper på Catenda Hub](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub)
 - Saker - OSS
-  - [2D-plassering av saker](https://support.catenda.com/en/articles/4854523-2d-location-of-topics)
+    - [2D-plassering av saker](https://support.catenda.com/en/articles/4854523-2d-location-of-topics)
 - [Maskinvareanbefalinger](https://support.catenda.com/en/articles/6921941-hardware-recommendation)
 - [Optimalisering av 3D-viser](https://support.catenda.com/en/articles/13927321-3d-viewer-optimization)
 - [Nettverksanbefalinger](https://support.catenda.com/en/articles/13927294-network-recommendation)
@@ -131,8 +131,8 @@ _Ofte stilte spørsmål_
 - [Anbefalinger for systemprogramvare](https://support.catenda.com/en/articles/13927605-system-software-recommendation)
 - [Produktfunksjoner - OSS](https://support.catenda.com/en/articles/8263256-project-security)
 - Kontoadministrasjon - OSS
-  - [Lagring og deling av filterlenke](https://support.catenda.com/en/articles/11401493-saving-and-sharing-a-filter-link)
-  - [Begrensning av filterresultater](https://support.catenda.com/en/articles/8551755-limiting-filter-results)
+    - [Lagring og deling av filterlenke](https://support.catenda.com/en/articles/11401493-saving-and-sharing-a-filter-link)
+    - [Begrensning av filterresultater](https://support.catenda.com/en/articles/8551755-limiting-filter-results)
 
 ## 2. **Nye videoer i avspillingslister**
 

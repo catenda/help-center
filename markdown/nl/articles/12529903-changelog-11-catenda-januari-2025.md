@@ -29,52 +29,52 @@ Wanneer nieuwe functies worden uitgebracht en bugs worden opgelost, worden artik
 **Accountbeheer**
 
 - Accountinstellingen
-  - [Notificatiefiltering en functionaliteit](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
-  - [Accountpagina](https://support.catenda.com/en/articles/6880968-account-page)
+    - [Notificatiefiltering en functionaliteit](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
+    - [Accountpagina](https://support.catenda.com/en/articles/6880968-account-page)
 
 **Productfuncties**
 
 - Dashboard
-  - [Dashboardpagina](https://support.catenda.com/en/articles/8212646-dashboard-page)
+    - [Dashboardpagina](https://support.catenda.com/en/articles/8212646-dashboard-page)
 - Onderwerpen
-  - [Filteren op de pagina met topics](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
-  - [Acties in de Topics-tabel](https://support.catenda.com/en/articles/4670284-topics-table-actions)
-  - [Topics naar PDF exporteren](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
-  - [Topickop - Het onderwerp van een topic](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
-  - [Topics uitwisselen](https://support.catenda.com/en/articles/4670289-exchange-topics)
+    - [Filteren op de pagina met topics](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
+    - [Acties in de Topics-tabel](https://support.catenda.com/en/articles/4670284-topics-table-actions)
+    - [Topics naar PDF exporteren](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
+    - [Topickop - Het onderwerp van een topic](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
+    - [Topics uitwisselen](https://support.catenda.com/en/articles/4670289-exchange-topics)
 - Modellen
-  - [Revisiekiezer](https://support.catenda.com/en/articles/4670279-revision-selector)
-  - [Filteren op de pagina met objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-  - [Filteren op de pagina met modellen](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-  - [Rechtermenu op de pagina met modellen](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
-  - [Vervolgkeuze schuifvlak](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
-  - [Pagina met bladwijzerstartinhoud](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
+    - [Revisiekiezer](https://support.catenda.com/en/articles/4670279-revision-selector)
+    - [Filteren op de pagina met objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - [Filteren op de pagina met modellen](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
+    - [Rechtermenu op de pagina met modellen](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
+    - [Vervolgkeuze schuifvlak](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
+    - [Pagina met bladwijzerstartinhoud](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
 - Documenten
-  - [Pagina met overzicht van documenttoegang](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
-  - [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-  - [Toegangsbeheer voor mappen en documenten](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
-  - [Een nieuwe werkstroom maken](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
-  - [Pagina Werkstromen - Documentinstellingen](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
-  - [Gereedschappen voor documentvoorvertoning](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-  - [Een zip-bestand / bestandsstructuur uploaden](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
-  - [Filteren op de pagina met verzamelingen](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
-  - [Filteren op de goedkeuringspagina](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-  - [Filteren op de goedkeuringspagina - Legacy](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+    - [Pagina met overzicht van documenttoegang](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
+    - [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+    - [Toegangsbeheer voor mappen en documenten](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
+    - [Een nieuwe werkstroom maken](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
+    - [Pagina Werkstromen - Documentinstellingen](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
+    - [Gereedschappen voor documentvoorvertoning](https://support.catenda.com/en/articles/11384618-document-preview-tools)
+    - [Een zip-bestand / bestandsstructuur uploaden](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
+    - [Filteren op de pagina met verzamelingen](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
+    - [Filteren op de goedkeuringspagina](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
+    - [Filteren op de goedkeuringspagina - Legacy](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
 - Instellingen
-  - [Filteren op de pagina met leden en teams](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
+    - [Filteren op de pagina met leden en teams](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
 - 2D- en 3D-viewers
-  - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
-  - [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
+    - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
+    - [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
 - Catenda-plugins en integraties
-  - [Revit IFC Export Handboek](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual)
-  - [IFC Export Archicad Handboek](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
-  - [Catenda Navisworks-plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
-  - [Catenda Archicad-plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
-  - [Catenda Revit-plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
-  - [Catenda Power BI-connector](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector)
-  - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
-  - [Catenda Tekla-plugin](https://support.catenda.com/en/articles/6549656-catenda-tekla-plugin)
-  - [Probleemoplossing voor Desktop Connector](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting)
+    - [Revit IFC Export Handboek](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual)
+    - [IFC Export Archicad Handboek](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
+    - [Catenda Navisworks-plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
+    - [Catenda Archicad-plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
+    - [Catenda Revit-plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
+    - [Catenda Power BI-connector](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector)
+    - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
+    - [Catenda Tekla-plugin](https://support.catenda.com/en/articles/6549656-catenda-tekla-plugin)
+    - [Probleemoplossing voor Desktop Connector](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting)
 
 **Probleemoplossing**
 
@@ -83,10 +83,10 @@ Wanneer nieuwe functies worden uitgebracht en bugs worden opgelost, worden artik
 **Gebruikszaken**
 
 - Goedkeuringen
-  - [Documentbeoordeling in goedkeuringswerkstroom](https://support.catenda.com/en/articles/12628468-document-review-in-approval-workflow)
-  - [Goedkeuringen indienen en beheren: gids voor redacteurs](https://support.catenda.com/en/articles/12627979-submit-manage-approvals-guide-for-drafters)
-  - [Eindgoedkeuringsbeslissingen gemakkelijk gemaakt](https://support.catenda.com/en/articles/12629484-final-approval-decisions-made-easy)
-  - [Goedkeuringen beheren als beheerder](https://support.catenda.com/en/articles/12620829-managing-approvals-as-administrator)
+    - [Documentbeoordeling in goedkeuringswerkstroom](https://support.catenda.com/en/articles/12628468-document-review-in-approval-workflow)
+    - [Goedkeuringen indienen en beheren: gids voor redacteurs](https://support.catenda.com/en/articles/12627979-submit-manage-approvals-guide-for-drafters)
+    - [Eindgoedkeuringsbeslissingen gemakkelijk gemaakt](https://support.catenda.com/en/articles/12629484-final-approval-decisions-made-easy)
+    - [Goedkeuringen beheren als beheerder](https://support.catenda.com/en/articles/12620829-managing-approvals-as-administrator)
 
 **Veelgestelde vragen**
 
@@ -117,7 +117,7 @@ Dankzij je waardevolle feedback hebben we veel topics kunnen oplossen die je al 
 
 - Het is opnieuw mogelijk voor gebruikers met MFA ingeschakeld om de inhoud van projecten via plugins en integraties te openen.
 - Catenda als toepassing
-  - Het is opnieuw mogelijk om zowel de 3D-viewer als de inhoudspanelen tegelijk open te hebben in plaats van één tegelijk op 11-inch iPad's
+    - Het is opnieuw mogelijk om zowel de 3D-viewer als de inhoudspanelen tegelijk open te hebben in plaats van één tegelijk op 11-inch iPad's
 
 ## 3. **Gebruikersstemmen voltooid**
 

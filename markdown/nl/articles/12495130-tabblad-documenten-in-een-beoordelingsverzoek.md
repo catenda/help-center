@@ -30,11 +30,11 @@ Klik [hier](https://support.catenda.com/en/articles/12495638-approval-request-do
   Door op de titel te klikken, kunt u het document rechtstreeks in de beoordelingsomgeving weergeven.
 - **Revisie:** geeft de revisienaam van het document weer
 - **#:** geeft aan welke versie/revisie van het document in de beoordeling aanwezig is.
-  - Wanneer een document aan een beoordeling wordt toegevoegd, worden de grote en kleine revisienummers ervan weergegeven, wat er als volgt uit kan zien:
+    - Wanneer een document aan een beoordeling wordt toegevoegd, worden de grote en kleine revisienummers ervan weergegeven, wat er als volgt uit kan zien:
 
       <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
-- Als de geselecteerde gedeelde revisie is gepubliceerd om de nieuwste gepubliceerde revisie in het document buiten het huidige beoordelingsverzoek te worden, kan dit er als volgt uitzien:
+    - Als de geselecteerde gedeelde revisie is gepubliceerd om de nieuwste gepubliceerde revisie in het document buiten het huidige beoordelingsverzoek te worden, kan dit er als volgt uitzien:
 
       <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 

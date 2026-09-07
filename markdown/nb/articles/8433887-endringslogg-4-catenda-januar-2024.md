@@ -114,10 +114,10 @@ Dette betyr at du kan skjule modeller fra personer i modellseksjonen.
 ### 3.5 **Generelt**
 
 - Opprettelse av nye prosjekter fra malprosjekter er forbedret. Det er nå mulig å bringe følgende deler av et prosjekt til et nytt prosjekt:
-  - Mappestruktur
-  - Konfigurering av dokumentstatus
-  - Dokument- og saktaveltilgangskontroll
-  - Egendefinerte felt og navnkonvensjoner
+    - Mappestruktur
+    - Konfigurering av dokumentstatus
+    - Dokument- og saktaveltilgangskontroll
+    - Egendefinerte felt og navnkonvensjoner
 
 ## 4. **Nye utgivelser** - Catenda Site, programtillegg og integrasjoner
 

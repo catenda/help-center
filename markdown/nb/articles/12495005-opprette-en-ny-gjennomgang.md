@@ -96,9 +96,9 @@ Klikk på Send til vurdering for å sende gjennomgangen og starte gjennomgangspr
 - Et innsenderteam som skal sende på vegne av, må velges
 - En tittel
 - Dokumenter
-  - Minst 1 dokument med en valgt delt revisjon må legges til for å kunne sende gjennomgangen.
-  - Maksimalt 1000 dokumentrevisjoner med en valgt delt revisjon kan legges til.
-  - For å opprette en gjennomgangsforespørsel med mer enn 1000 dokumentrevisjoner, oppretter du først et utkast med opptil 1000 revisjoner, og deretter legger du til opptil 1000 dokumentrevisjoner om gangen til utkastet før du sender utkastet til vurdering.
+    - Minst 1 dokument med en valgt delt revisjon må legges til for å kunne sende gjennomgangen.
+    - Maksimalt 1000 dokumentrevisjoner med en valgt delt revisjon kan legges til.
+    - For å opprette en gjennomgangsforespørsel med mer enn 1000 dokumentrevisjoner, oppretter du først et utkast med opptil 1000 revisjoner, og deretter legger du til opptil 1000 dokumentrevisjoner om gangen til utkastet før du sender utkastet til vurdering.
 
 Etter sending av en gjennomgangsforespørsel til vurdering med den nye valideringsarbeidsflyten er det eneste som kan endres at delte revisjonsdokumenter kan kastes fra forespørselen.
 

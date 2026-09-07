@@ -242,20 +242,20 @@ _Legg til sak-rullegardin_ Saker kan lages på følgende måter:
 Opprett en samlet sak
 
 - Opprett en sak fra de valgte kollisjonene
-  - Opprett en sak med et synspunkt for hver kollisjon som er valgt i Navisworks Clash Detective.
+    - Opprett en sak med et synspunkt for hver kollisjon som er valgt i Navisworks Clash Detective.
 - Opprett en sak fra de valgte kollisjonene (Konsolidert synspunkt)
-  - Opprett en sak med et enkelt synspunkt som er zoomet ut for å inkludere alle kollisjoner som er valgt i Navisworks Clash Detective.
+    - Opprett en sak med et enkelt synspunkt som er zoomet ut for å inkludere alle kollisjoner som er valgt i Navisworks Clash Detective.
 
 Opprett flere saker
 
 - Opprett en sak for hver valgt kollisjon
-  - Opprett en sak for hver kollisjon som er valgt i Catenda Navisworks-programtillegget.
+    - Opprett en sak for hver kollisjon som er valgt i Catenda Navisworks-programtillegget.
 - Opprett en sak for hver kollisjongruppe
-  - Opprett en sak for hver kollisjongruppe som er valgt i Catenda Navisworks-programtillegget, med et synspunkt for hver kollisjon i kollisjongruppen.
+    - Opprett en sak for hver kollisjongruppe som er valgt i Catenda Navisworks-programtillegget, med et synspunkt for hver kollisjon i kollisjongruppen.
 - Opprett en sak for hver kollisjongruppe (Konsolidert synspunkt)
-  - Opprett en sak for hver kollisjongruppe som er valgt i Catenda Navisworks-programtillegget, med et enkelt synspunkt som er zoomet ut for å inkludere alle valgte kollisjoner.
+    - Opprett en sak for hver kollisjongruppe som er valgt i Catenda Navisworks-programtillegget, med et enkelt synspunkt som er zoomet ut for å inkludere alle valgte kollisjoner.
 - Opprett en sak for hver ugruppert kollisjon
-  - Opprett en sak for hver ugruppert kollisjon som er valgt i Catenda Navisworks-programtillegget
+    - Opprett en sak for hver ugruppert kollisjon som er valgt i Catenda Navisworks-programtillegget
 
 ### 9.4 **Endre status**
 

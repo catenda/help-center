@@ -114,10 +114,10 @@ Cela signifie que vous pouvez masquer les modèles des personnes dans la section
 ### 3.5 **Général**
 
 - La création de nouveaux projets à partir de projets de modèle a été améliorée. Il est maintenant possible d'apporter les parties suivantes d'un projet à un nouveau projet :
-  - Structure des dossiers
-  - Configuration du statut du document
-  - Contrôle d'accès du tableau des documents et des sujets
-  - Champs personnalisés et conventions de nommage
+    - Structure des dossiers
+    - Configuration du statut du document
+    - Contrôle d'accès du tableau des documents et des sujets
+    - Champs personnalisés et conventions de nommage
 
 ## 4. **Nouvelles versions** - Catenda Site, Plugins et intégrations
 

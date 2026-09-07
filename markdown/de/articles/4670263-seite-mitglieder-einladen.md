@@ -37,7 +37,7 @@ Führen Sie die folgenden Schritte aus, um ein neues Mitglied einzuladen.
 Wenn die Gruppe die gleiche Rolle haben und Teil desselben Teams sein soll, können Sie dann mehr als eine E-Mail-Adresse eingeben.
 
 1. Geben Sie die E-Mail-Adresse ein und drücken Sie die Eingabetaste. Wiederholen Sie dies für jede neue E-Mail-Adresse
-   1. Sie können auch eine durch Kommas getrennte Liste von E-Mail-Adressen eingeben und die Eingabetaste drücken, um mehrere Adressen gleichzeitig hinzuzufügen.
+    1. Sie können auch eine durch Kommas getrennte Liste von E-Mail-Adressen eingeben und die Eingabetaste drücken, um mehrere Adressen gleichzeitig hinzuzufügen.
 1. Wählen Sie die Rolle/den Zugriff für die neuen Mitglieder aus
 1. Wählen Sie die Teams aus, denen die Mitglieder angehören sollen.
 1. Klicken Sie auf die Schaltfläche „Hinzufügen"

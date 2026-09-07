@@ -6,14 +6,14 @@ Auf dieser Seite können Sie den Status Ihrer Topics anzeigen, auswählen oder �
 
 1. Um Issue Boards zu ändern, wählen Sie ein Issue Board aus der Dropdown-Liste für Issue Boards aus
 1. Wählen Sie den Filter, den Sie verwenden möchten, um Ihre Topics anzuzeigen
-   - Offene Topics (das ausgewählte Issue Board)
-   - Alle offenen Topics (alle Issue Boards)
-   - Geschlossene Topics (das ausgewählte Issue Board)
-   - Alle geschlossenen Topics (alle Issue Boards)
-   - Angefordert von mir
-   - Alle Kandidaten-Topics
-   - Überfällige Topics
-   - Fällig innerhalb von 2 Wochen
+    - Offene Topics (das ausgewählte Issue Board)
+    - Alle offenen Topics (alle Issue Boards)
+    - Geschlossene Topics (das ausgewählte Issue Board)
+    - Alle geschlossenen Topics (alle Issue Boards)
+    - Angefordert von mir
+    - Alle Kandidaten-Topics
+    - Überfällige Topics
+    - Fällig innerhalb von 2 Wochen
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/9brynk3y/01-intro.png)
 

@@ -27,10 +27,10 @@ PDAL avhenger av andre biblioteker, så den enkleste måten er å bruke Minicond
    👉 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 1. [Last ned](https://www.anaconda.com/download) **Miniconda-installatøren for Windows (64-bit, Python 3.x).**
 1. Start installatøren:
-   - Godta lisensavtalen
-   - Velg "Bare for meg" (anbefalt)
-   - Behold standard installasjonssted
-   - Merk av "Legg til Miniconda3 til PATH" hvis alternativet tilbys
+    - Godta lisensavtalen
+    - Velg "Bare for meg" (anbefalt)
+    - Behold standard installasjonssted
+    - Merk av "Legg til Miniconda3 til PATH" hvis alternativet tilbys
 1. Når installasjonen er fullført, åpner du Anaconda-ledeteksten (dette er vinduet du skal bruke i stedet for CMD/PowerShell for PDAL).
 
 ### 2.2 **2.2. Opprett et Conda-miljø for PDAL**

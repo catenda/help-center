@@ -43,10 +43,10 @@ Vous verrez maintenant que vous pouvez sélectionner chaque partie de la famille
 1. Enregistré dans - Écrivez le chemin du fichier ou cliquez sur Parcourir pour trouver le dossier dans lequel vous souhaitez enregistrer votre IFC
 1. Sélectionnez les fichiers de dessin que vous souhaitez exporter en IFC
 1. Options
-   1. En-tête - Auteur, Organisation, etc.
-      1. Sélectionnez le schéma IFC à exporter - IFC 2x3 et IFC 4
-   1. Objets - Tous
-   1. Vue - Inclure tous
+    1. En-tête - Auteur, Organisation, etc.
+        1. Sélectionnez le schéma IFC à exporter - IFC 2x3 et IFC 4
+    1. Objets - Tous
+    1. Vue - Inclure tous
 
 > **Remarque :** Ifc 4x1 est retiré par BuildingSMART et par conséquent n'est pas non plus pris en charge par Catenda Hub. Voir [ici](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support) les types de fichiers pris en charge dans Catenda Hub
 

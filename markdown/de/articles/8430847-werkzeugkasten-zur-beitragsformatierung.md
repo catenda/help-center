@@ -128,7 +128,7 @@ Alle werden dies werden sich daraus ergeben:
 
 - Erstes Element
 - Zweites Element
-  - Fügen Sie 4 Leerzeichen am Anfang der Zeile ein, um eine Unterliste zu erstellen.
+    - Fügen Sie 4 Leerzeichen am Anfang der Zeile ein, um eine Unterliste zu erstellen.
 
 > **Hinweis:** Damit eine ungeordnete Liste korrekt formatiert wird, muss über der Liste eine leere Zeile vorhanden sein.
 
@@ -156,7 +156,7 @@ Alle werden dies werden sich daraus ergeben:
 1. Element zwei
 1. Element drei
 
-1. Element vier
+    1. Element vier
 
 > **Hinweis:** Damit eine geordnete Liste korrekt formatiert wird, muss über der Liste eine leere Zeile vorhanden sein.
 
@@ -172,7 +172,7 @@ Wird sich daraus ergeben:
 1. vierundzwanzig
 1. fünfundzwanzig
 
-1. sechsundzwanzig
+    1. sechsundzwanzig
 
 Wenn Sie die Nummerierung zurücksetzen und auf einer zweiten Liste im gleichen Beitrag von vorne beginnen möchten, können Sie eine leere oder eine [Trennlinie](#h_3a36cfbc61) dazwischen setzen.
 

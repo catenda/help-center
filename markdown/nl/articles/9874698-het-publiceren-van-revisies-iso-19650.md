@@ -165,13 +165,13 @@ Alleen gepubliceerde revisies zijn zichtbaar in Catenda Site.
 ## 5. **Goedkeuringswerkflow**
 
 1. Een goedkeuringswerkflow wordt door een beheerder gemaakt.
-   1. Team indieners
-   1. Beoordelarenteam (minimaal één goedkeuringsstap is vereist)
-   1. Team eindbeoordelaar
+    1. Team indieners
+    1. Beoordelarenteam (minimaal één goedkeuringsstap is vereist)
+    1. Team eindbeoordelaar
 1. Een lid van een indienersteam dient een goedkeuringsaanvraag met een reeks gedeelde revisies in op de goedkeuringspagina.
 1. Leden van de indienersteams die aan de stap zijn toegewezen, beoordelen de documenten die in de goedkeuring zijn ingediend en geven een goedgekeurd of afgewezen validatie.
 1. Nadat alle stappen zijn voltooid, beoordeelt een lid van het eindbeoordelarenteam de validaties die namens de verschillende teams in elke stap zijn ingediend en geeft hun uiteindelijke validatie van goedgekeurd, goedgekeurd met opmerking of afgewezen.
-   1. De eindgoedkeurder kan een definitieve, ingelijchte beslissing nemen of dit document moet worden gepubliceerd (goedgekeurd) of afgewezen (als gedeeld blijft)
+    1. De eindgoedkeurder kan een definitieve, ingelijchte beslissing nemen of dit document moet worden gepubliceerd (goedgekeurd) of afgewezen (als gedeeld blijft)
 
 ### 5.1 **Verouderde goedkeuringswerkflow**
 

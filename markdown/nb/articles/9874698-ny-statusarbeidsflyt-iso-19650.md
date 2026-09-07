@@ -165,13 +165,13 @@ Bare publiserte revisjoner er synlige i Catenda Site.
 ## 5. **Godkjenningsarbeidsflyt**
 
 1. En godkjenningsarbeidsflyt opprettes av en administrator.
-   1. Innsender-team
-   1. Vurderingsteam (minst ett godkjenningstrinn er påkrevd)
-   1. Sluttverifiseringsteam
+    1. Innsender-team
+    1. Vurderingsteam (minst ett godkjenningstrinn er påkrevd)
+    1. Sluttverifiseringsteam
 1. Et medlem av et innsender-team sender en godkjenningsforespørsel med et sett med delte revisjoner på godkjenningssiden.
 1. Medlemmer av innsender-teamene som er tildelt trinnet, vurderer dokumentene som er sendt inn i godkjenningen og gir enten en godkjent eller avvist validering.
 1. Når alle trinn er fullført, vurderer et medlem av sluttverifiseringsteamet valideringene som er sendt inn på vegne av de ulike teamene i hvert trinn og gir sin endelige validering av godkjent, godkjent med kommentar eller avvist.
-   1. Sluttvurderer kan ta en endelig, informert beslutning om hvorvidt dette dokumentet skal publiseres (godkjent) eller avvises (være som delt)
+    1. Sluttvurderer kan ta en endelig, informert beslutning om hvorvidt dette dokumentet skal publiseres (godkjent) eller avvises (være som delt)
 
 ### 5.1 **Eldre godkjenningsarbeidsflyt**
 

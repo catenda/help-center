@@ -33,7 +33,7 @@ Suivez les étapes ci-dessous pour inviter un nouveau Membre.
 Si le groupe aura le même rôle et fera partie de la même Équipe, vous pouvez alors remplir plus d'une adresse e-mail.
 
 1. Remplissez l'adresse e-mail et appuyez sur Entrée, faites de même pour chaque nouvelle adresse e-mail
-   1. Vous pouvez également remplir une liste d'adresses e-mail séparées par des virgules et appuyer sur Entrée pour ajouter plusieurs adresses à la fois.
+    1. Vous pouvez également remplir une liste d'adresses e-mail séparées par des virgules et appuyer sur Entrée pour ajouter plusieurs adresses à la fois.
 1. Choisissez le rôle/accès pour les nouveaux Membres
 1. Choisissez les Équipes dont les Membres devraient faire partie.
 1. Appuyez sur le bouton Ajouter

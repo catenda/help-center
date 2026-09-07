@@ -160,17 +160,17 @@ Het instellen van geautomatiseerde gegevensexports omvat vier belangrijkste stap
 1. **Bestemming selecteren**
    Kies een cloudopslagprovider, Amazon Web Services (AWS) S3 of Microsoft Azure Blob-opslag, en configureer verificatie.
 1. **Bereik en gegevensindelingen definiëren**
-   - **Gegevenstypen**
-     Exporteer documenten, modellen en topics.
-     Topicgegevens kunnen tijdens overdracht automatisch worden geconverteerd naar leesbare PDF-samenvattingsrapporten of standaard BCF-bestanden.
-   - **Projectselectie**
-     Kies alle projecten, selecteer handmatig specifieke projecten, of stel dynamische overeenkomstingsregels in met projectnaampatronen (glob of reguliere expressie/regex) om automatisch nieuwe projecten op te nemen wanneer ze worden gemaakt.
+    - **Gegevenstypen**
+      Exporteer documenten, modellen en topics.
+      Topicgegevens kunnen tijdens overdracht automatisch worden geconverteerd naar leesbare PDF-samenvattingsrapporten of standaard BCF-bestanden.
+    - **Projectselectie**
+      Kies alle projecten, selecteer handmatig specifieke projecten, of stel dynamische overeenkomstingsregels in met projectnaampatronen (glob of reguliere expressie/regex) om automatisch nieuwe projecten op te nemen wanneer ze worden gemaakt.
 1. **Exportmodus selecteren**
-   - **Doorlopende modus**
-     Verzendt gegevens automatisch op basis van een dagelijks schema.
-     Deze herhaalde instellingen zorgen ervoor dat niet-eigenaar projectleden tot en met de laatste dagelijkse run een bijgewerkte back-up behouden als projecttoegang onverwacht afloopt.
-   - **Snapshot-modus**
-     Voert een eenmalige run uit om een volledige gegevensverzameling op een specifiek moment of projectoverdracht te exporteren.
+    - **Doorlopende modus**
+      Verzendt gegevens automatisch op basis van een dagelijks schema.
+      Deze herhaalde instellingen zorgen ervoor dat niet-eigenaar projectleden tot en met de laatste dagelijkse run een bijgewerkte back-up behouden als projecttoegang onverwacht afloopt.
+    - **Snapshot-modus**
+      Voert een eenmalige run uit om een volledige gegevensverzameling op een specifiek moment of projectoverdracht te exporteren.
 1. **Implementeren**
    Voltooi en schakel de exportconfiguratie in door Maken te selecteren.
 

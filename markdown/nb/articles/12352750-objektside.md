@@ -85,11 +85,11 @@ _Tilbakestill_ Klikk på tilbakestill-knappen for å tilbakestille kolonnene til
 Basert på den konfigurerte kolonneradiusen vises de første kolonnene mens tabellen må rulle sideveis for å vise andre aktiverte kolonner. Standardrekkefølge og synlighetsinnstilling for kolonnene på dokumentsiden er som følger:
 
 - Attributter
-  - Enhet
-  - GlobalId
-  - LongName
-  - Navn
-  - ObjectType
+    - Enhet
+    - GlobalId
+    - LongName
+    - Navn
+    - ObjectType
 
 Videre kan produkttabellen ha hvilket som helst antall kolonner avhengig av mengden egenskaper og egenskapsett som er i hver modell. Hvert sett med kolonner har en hovedkategori med underkategorier. Vekslebryteren kan brukes til å veksle hele kategorien av eller på. Kategorier kan utvides og hver kolonne i kategorien kan aktiveres/deaktiveres individuelt.
 

@@ -29,10 +29,10 @@ PDALは他のライブラリに依存しているため、最も簡単な方法�
    👉 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 1. [ダウンロード](https://www.anaconda.com/download)して、**Windows用Minicondaインストーラ(64ビット、Python 3.x)。**
 1. インストーラーを起動します。
-   - ライセンス契約に同意します
-   - 「私のみ」を選択します(推奨)
-   - デフォルトのインストール場所を保持します
-   - 「Miniconda3をPATHに追加」にチェックを入れます(オプションが提供されている場合)
+    - ライセンス契約に同意します
+    - 「私のみ」を選択します(推奨)
+    - デフォルトのインストール場所を保持します
+    - 「Miniconda3をPATHに追加」にチェックを入れます(オプションが提供されている場合)
 1. インストール後、Anacondaプロンプトを開きます(これはPDALの代わりにCMD/PowerShellの代わりに使用するウィンドウです)。
 
 ### 2.2 **2.2. PDAL用のConda環境を作成**

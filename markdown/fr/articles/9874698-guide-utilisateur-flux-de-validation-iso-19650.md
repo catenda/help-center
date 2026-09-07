@@ -165,13 +165,13 @@ Seules les révisions publiées sont visibles dans Catenda Site.
 ## 5. **Workflow d'approbation**
 
 1. Un workflow d'approbation est créé par un administrateur.
-   1. Équipe de soumission
-   1. Équipe de révision (au moins une étape d'approbation est requise)
-   1. Équipe de révision finale
+    1. Équipe de soumission
+    1. Équipe de révision (au moins une étape d'approbation est requise)
+    1. Équipe de révision finale
 1. Un membre d'une équipe de soumission soumet une demande d'approbation avec un ensemble de révisions partagées sur la page des approbations.
 1. Les membres des équipes de soumission assignés à l'étape examinent les documents soumis dans l'approbation et donnent soit une validation approuvée, soit une validation rejetée.
 1. Une fois que toutes les étapes ont été complétées, un membre de l'équipe de révision finale examine les validations qui ont été soumises au nom des différentes équipes à chaque étape et donne sa validation finale d'approuvé, approuvé avec commentaire ou rejeté.
-   1. L'approbateur final est en mesure de prendre une décision finale et éclairée sur la question de savoir si ce document doit être publié (approuvé) ou rejeté (rester partagé)
+    1. L'approbateur final est en mesure de prendre une décision finale et éclairée sur la question de savoir si ce document doit être publié (approuvé) ou rejeté (rester partagé)
 
 ### 5.1 **Workflow d'approbation hérité**
 

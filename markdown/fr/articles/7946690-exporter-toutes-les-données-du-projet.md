@@ -160,17 +160,17 @@ La configuration des exports de données automatisés implique quatre étapes pr
 1. **Sélectionner la destination**
    Choisissez un fournisseur de stockage cloud, Amazon Web Services (AWS) S3 ou Microsoft Azure Blob storage, et configurez l'authentification.
 1. **Définir la portée et les formats de données**
-   - **Types de données**
-     Exportez les Documents, les modèles et les Sujets.
-     Les données des Sujets peuvent être automatiquement converties en rapports résumés PDF lisibles ou en fichiers BCF standard lors du transfert.
-   - **Sélection du projet**
-     Choisissez tous les projets, sélectionnez manuellement des projets spécifiques, ou configurez des règles de correspondance dynamique en utilisant des modèles de nom de projet (glob ou expression régulière / regex) pour inclure automatiquement les nouveaux projets à leur création.
+    - **Types de données**
+      Exportez les Documents, les modèles et les Sujets.
+      Les données des Sujets peuvent être automatiquement converties en rapports résumés PDF lisibles ou en fichiers BCF standard lors du transfert.
+    - **Sélection du projet**
+      Choisissez tous les projets, sélectionnez manuellement des projets spécifiques, ou configurez des règles de correspondance dynamique en utilisant des modèles de nom de projet (glob ou expression régulière / regex) pour inclure automatiquement les nouveaux projets à leur création.
 1. **Sélectionner le mode d'export**
-   - **Mode continu**
-     Expédie les données automatiquement selon un calendrier quotidien.
-     Cette configuration récurrente garantit que les Membres du projet non propriétaires maintiennent une sauvegarde à jour jusqu'à la dernière exécution quotidienne si l'accès au projet se termine de manière inattendue.
-   - **Mode capture**
-     Effectue une exécution unique pour exporter un ensemble de données complet à un jalon spécifique ou à une remise de projet.
+    - **Mode continu**
+      Expédie les données automatiquement selon un calendrier quotidien.
+      Cette configuration récurrente garantit que les Membres du projet non propriétaires maintiennent une sauvegarde à jour jusqu'à la dernière exécution quotidienne si l'accès au projet se termine de manière inattendue.
+    - **Mode capture**
+      Effectue une exécution unique pour exporter un ensemble de données complet à un jalon spécifique ou à une remise de projet.
 1. **Déployer**
    Finalisez et activez la configuration d'export en sélectionnant Créer.
 

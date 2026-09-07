@@ -29,52 +29,52 @@ _[Articles](https://support.catenda.com/en/articles/11582902-changelog-10-catend
 **Gestion des comptes**
 
 - Paramètres du compte
-  - [Filtrage des notifications et fonctionnalités](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
-  - [Page du compte](https://support.catenda.com/en/articles/6880968-account-page)
+    - [Filtrage des notifications et fonctionnalités](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
+    - [Page du compte](https://support.catenda.com/en/articles/6880968-account-page)
 
 **Fonctionnalités du produit**
 
 - Tableau de bord
-  - [Page du tableau de bord](https://support.catenda.com/en/articles/8212646-dashboard-page)
+    - [Page du tableau de bord](https://support.catenda.com/en/articles/8212646-dashboard-page)
 - Sujets
-  - [Filtrage sur la page des sujets](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
-  - [Actions du tableau des sujets](https://support.catenda.com/en/articles/4670284-topics-table-actions)
-  - [Export des sujets en PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
-  - [En-tête du sujet - L'objet d'un sujet](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
-  - [Échanger des sujets](https://support.catenda.com/en/articles/4670289-exchange-topics)
+    - [Filtrage sur la page des sujets](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
+    - [Actions du tableau des sujets](https://support.catenda.com/en/articles/4670284-topics-table-actions)
+    - [Export des sujets en PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
+    - [En-tête du sujet - L'objet d'un sujet](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
+    - [Échanger des sujets](https://support.catenda.com/en/articles/4670289-exchange-topics)
 - Modèles
-  - [Sélecteur de révision](https://support.catenda.com/en/articles/4670279-revision-selector)
-  - [Filtrage sur la page des objets](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-  - [Filtrage sur la page des modèles](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-  - [Menu de droite sur la page des modèles](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
-  - [Liste déroulante du plan glissant](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
-  - [Page du contenu des favoris](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
+    - [Sélecteur de révision](https://support.catenda.com/en/articles/4670279-revision-selector)
+    - [Filtrage sur la page des objets](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - [Filtrage sur la page des modèles](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
+    - [Menu de droite sur la page des modèles](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
+    - [Liste déroulante du plan glissant](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
+    - [Page du contenu des favoris](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
 - Documents
-  - [Page de vue d'ensemble de l'accès au document](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
-  - [Filtrage sur la page des documents](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-  - [Contrôle d'accès des dossiers et des documents](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
-  - [Création d'un nouveau flux de travail](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
-  - [Page Flux de travail - Paramètres du document](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
-  - [Outils d'aperçu des documents](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-  - [Télécharger une structure de fichiers zip](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
-  - [Filtrage sur la page des collections](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
-  - [Filtrage sur la page des approbations](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-  - [Filtrage sur la page des approbations - Hérité](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+    - [Page de vue d'ensemble de l'accès au document](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
+    - [Filtrage sur la page des documents](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+    - [Contrôle d'accès des dossiers et des documents](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
+    - [Création d'un nouveau flux de travail](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
+    - [Page Flux de travail - Paramètres du document](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
+    - [Outils d'aperçu des documents](https://support.catenda.com/en/articles/11384618-document-preview-tools)
+    - [Télécharger une structure de fichiers zip](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
+    - [Filtrage sur la page des collections](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
+    - [Filtrage sur la page des approbations](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
+    - [Filtrage sur la page des approbations - Hérité](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
 - Paramètres
-  - [Filtrage sur la page des membres et des équipes](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
+    - [Filtrage sur la page des membres et des équipes](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
 - Visionneuses 2D et 3D
-  - [Visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer)
-  - [Visionneuse 2D](https://support.catenda.com/en/articles/4854537-2d-viewer)
+    - [Visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer)
+    - [Visionneuse 2D](https://support.catenda.com/en/articles/4854537-2d-viewer)
 - Plugins et intégrations Catenda
-  - [Manuel d'export IFC Revit](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual)
-  - [Manuel d'export IFC Archicad](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
-  - [Plugin Catenda Navisworks](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
-  - [Plugin Catenda Archicad](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
-  - [Plugin Catenda Revit](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
-  - [Connecteur Catenda Power BI](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector)
-  - [Connecteur de bureau Catenda](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
-  - [Plugin Catenda Tekla](https://support.catenda.com/en/articles/6549656-catenda-tekla-plugin)
-  - [Dépannage du connecteur de bureau](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting)
+    - [Manuel d'export IFC Revit](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual)
+    - [Manuel d'export IFC Archicad](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
+    - [Plugin Catenda Navisworks](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
+    - [Plugin Catenda Archicad](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
+    - [Plugin Catenda Revit](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
+    - [Connecteur Catenda Power BI](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector)
+    - [Connecteur de bureau Catenda](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
+    - [Plugin Catenda Tekla](https://support.catenda.com/en/articles/6549656-catenda-tekla-plugin)
+    - [Dépannage du connecteur de bureau](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting)
 
 **Dépannage**
 
@@ -83,10 +83,10 @@ _[Articles](https://support.catenda.com/en/articles/11582902-changelog-10-catend
 **Cas d'usage**
 
 - Approbations
-  - [Examen de document dans le flux de travail d'approbation](https://support.catenda.com/en/articles/12628468-document-review-in-approval-workflow)
-  - [Soumettre et gérer les approbations : Guide pour les rédacteurs](https://support.catenda.com/en/articles/12627979-submit-manage-approvals-guide-for-drafters)
-  - [Décisions d'approbation finale simplifiées](https://support.catenda.com/en/articles/12629484-final-approval-decisions-made-easy)
-  - [Gestion des approbations en tant qu'administrateur](https://support.catenda.com/en/articles/12620829-managing-approvals-as-administrator)
+    - [Examen de document dans le flux de travail d'approbation](https://support.catenda.com/en/articles/12628468-document-review-in-approval-workflow)
+    - [Soumettre et gérer les approbations : Guide pour les rédacteurs](https://support.catenda.com/en/articles/12627979-submit-manage-approvals-guide-for-drafters)
+    - [Décisions d'approbation finale simplifiées](https://support.catenda.com/en/articles/12629484-final-approval-decisions-made-easy)
+    - [Gestion des approbations en tant qu'administrateur](https://support.catenda.com/en/articles/12620829-managing-approvals-as-administrator)
 
 **Questions fréquemment posées**
 
@@ -117,7 +117,7 @@ Grâce à vos précieuses remarques, nous avons pu corriger de nombreux sujets q
 
 - Il est maintenant à nouveau possible pour les utilisateurs ayant l'authentification multifacteur activée d'ouvrir le contenu des projets via les plugins et les intégrations.
 - Catenda en tant qu'application
-  - Il est maintenant à nouveau possible d'avoir à la fois la visionneuse 3D et les panneaux de contenu ouverts simultanément au lieu d'un à la fois sur les iPad de 11 pouces
+    - Il est maintenant à nouveau possible d'avoir à la fois la visionneuse 3D et les panneaux de contenu ouverts simultanément au lieu d'un à la fois sur les iPad de 11 pouces
 
 ## 3. **Demandes des utilisateurs complétées**
 

@@ -9,32 +9,32 @@ På sider hvor flere elementer vises, vises informasjon ofte i tabeller. Ulike m
 I følgende tabeller vises all informasjon som standard
 
 - Inspeksjonspanel
-  - [Mengdeberegning (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
-  - [Justeringer](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
-  - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
-  - Navngivningskonvensjoner
+    - [Mengdeberegning (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
+    - [Justeringer](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
+    - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
+    - Navngivningskonvensjoner
 - Bibliotek
-  - [Lenkerbibliotek](https://support.catenda.com/en/articles/4670254-links-library)
-  - [Sharepoint-bibliotek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-  - [Dropbox-bibliotek](https://support.catenda.com/en/articles/8065645-libraries-page)
-  - [Egenskapsverdi-bibliotek](https://support.catenda.com/en/articles/4670252-property-value-library)
-  - [Klassifikasjonsbibliotek](https://support.catenda.com/en/articles/4670255-classification-library)
+    - [Lenkerbibliotek](https://support.catenda.com/en/articles/4670254-links-library)
+    - [Sharepoint-bibliotek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+    - [Dropbox-bibliotek](https://support.catenda.com/en/articles/8065645-libraries-page)
+    - [Egenskapsverdi-bibliotek](https://support.catenda.com/en/articles/4670252-property-value-library)
+    - [Klassifikasjonsbibliotek](https://support.catenda.com/en/articles/4670255-classification-library)
 - Organisasjonsverktøy
-  - [Brukersiden](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-  - [Prosjektsiden](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-  - [Prosjektmedlemskapssiden](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Brukersiden](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+    - [Prosjektsiden](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+    - [Prosjektmedlemskapssiden](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 
 I følgende tabeller vises en standardkonfigurasjon når siden lastes inn:
 
 - Modeller
-  - [Objektsiden](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Objektsiden](https://support.catenda.com/en/articles/12352750-objects-page)
 
 I følgende tabeller vises endringer som er gjort i standardtabellkonfigurasjonen når siden lastes inn:
 
 - [Saker](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabellvisning)
 - [Modeller](https://support.catenda.com/en/articles/4670286-models-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
 - [Dokumenter](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
-  - [Oversikt over dokumenttilgang](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+    - [Oversikt over dokumenttilgang](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
 - [Rapporter](https://support.catenda.com/en/articles/12303098-reports-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
 - [Merkelapper](https://support.catenda.com/en/articles/4670265-labels-page) (Merkelapper-fane, Gruppe-fane)
 - [Egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-page)
@@ -251,15 +251,15 @@ Når dragankeret slippes på toppen av en interaktiv rad, kan flyttedialoggbokse
 Det er mulig å flytte kolonner i følgende tabeller:
 
 - Modeller
-  - [Objekter-side](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Objekter-side](https://support.catenda.com/en/articles/12352750-objects-page)
 - Organisasjonsverktøy
-  - [Prosjekter-side](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-  - [Prosjektmedlemskap-side](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Prosjekter-side](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+    - [Prosjektmedlemskap-side](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 
 - [Saker](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabelvisning)
 - [Modeller](https://support.catenda.com/en/articles/4670286-models-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
 - [Dokumenter](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
-  - [Dokumenttilgangsoversikt](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+    - [Dokumenttilgangsoversikt](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
 - [Rapporter](https://support.catenda.com/en/articles/12303098-reports-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
 - [Merkelapper](https://support.catenda.com/en/articles/4670265-labels-page) (Merkelapper-fane, Gruppe-fane)
 - [Egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-page)

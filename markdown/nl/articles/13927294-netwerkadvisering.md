@@ -19,11 +19,11 @@ Gebruikers die toegang hebben tot Catenda Hub achter een firewall, proxy of ande
 (`*` betekent DNS-wildcard en `.` is een domeinniveauscheiding, behandel het onderstaande niet als regex's).
 
 - Catenda-domeinen:
-  - `catenda.com`
-  - `*.catenda.com`
-    - `webviewer.catenda.com`
-      Dit subdomein moet door de firewall toegestaan zijn om de voorbeeldweergave van Documenten op de pagina met documentvoorbeelden te kunnen bekijken.
-  - `*.*.catenda.com`
+    - `catenda.com`
+    - `*.catenda.com`
+        - `webviewer.catenda.com`
+          Dit subdomein moet door de firewall toegestaan zijn om de voorbeeldweergave van Documenten op de pagina met documentvoorbeelden te kunnen bekijken.
+    - `*.*.catenda.com`
 
 We raden u aan deze nieuwe domeinnaam te gebruiken. U zou geen problemen moeten ondervinden met meer subdomeinen zoals `*.*.*.catenda.com`, maar als dat wel het geval is, kan het gemakkelijker zijn om alles van `catenda.com` toe te staan
 
@@ -44,26 +44,26 @@ We raden u aan deze nieuwe domeinnaam te gebruiken. U zou geen problemen moeten 
 **Plugins** Als u Catenda Hub alleen via een van onze plugins wilt gebruiken, zijn dit de enige domeinen die u door uw firewall hoeft toe te staan.
 
 - Voor authenticatie van plugins en integraties
-  - `hub.catenda.com`
-  - `api.catenda.com `
-  - `bimsync.com`
-  - `api.bimsync.com`
+    - `hub.catenda.com`
+    - `api.catenda.com `
+    - `bimsync.com`
+    - `api.bimsync.com`
 - Voor gebruik van plugin
-  - Revit-plugin
-    - [`https://revit.plugins.catenda.com`](https://revit.plugins.catenda.com)
-    - [`https://revit.plugins.bimsync.com`](https://revit.plugins.bimsync.com)
-  - Archicad-plugin
-    - [`https://archicad.plugins.catenda.com`](https://archicad.plugins.catenda.com)
-    - [`https://archicad.plugins.bimsync.com`](https://archicad.plugins.bimsync.com)
-  - Navisworks-plugin
-    - [`https://navisworks.plugins.catenda.com`](https://navisworks.plugins.catenda.com)
-    - [`https://navisworks.plugins.bimsync.com`](https://navisworks.plugins.bimsync.com)
-  - Tekla-plugin
-    - [`https://tekla.plugins.catenda.com`](https://tekla.plugins.catenda.com)
-    - [`https://tekla.plugins.bimsync.com`](https://tekla.plugins.bimsync.com)
+    - Revit-plugin
+        - [`https://revit.plugins.catenda.com`](https://revit.plugins.catenda.com)
+        - [`https://revit.plugins.bimsync.com`](https://revit.plugins.bimsync.com)
+    - Archicad-plugin
+        - [`https://archicad.plugins.catenda.com`](https://archicad.plugins.catenda.com)
+        - [`https://archicad.plugins.bimsync.com`](https://archicad.plugins.bimsync.com)
+    - Navisworks-plugin
+        - [`https://navisworks.plugins.catenda.com`](https://navisworks.plugins.catenda.com)
+        - [`https://navisworks.plugins.bimsync.com`](https://navisworks.plugins.bimsync.com)
+    - Tekla-plugin
+        - [`https://tekla.plugins.catenda.com`](https://tekla.plugins.catenda.com)
+        - [`https://tekla.plugins.bimsync.com`](https://tekla.plugins.bimsync.com)
 - Voor gebruik van plugins en integraties die topics gebruiken die [hier](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) worden vermeld
-  - [`https://bcf.bimsync.com/`](https://bcf.bimsync.com/)
-  - [`https://opencde.bimsync.com/`](https://opencde.bimsync.com/)
+    - [`https://bcf.bimsync.com/`](https://bcf.bimsync.com/)
+    - [`https://opencde.bimsync.com/`](https://opencde.bimsync.com/)
 
 ## 3. **Poortconfiguratie**
 

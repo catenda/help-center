@@ -165,13 +165,13 @@ Nur veröffentlichte Revisionen sind in Catenda Site sichtbar.
 ## 5. **Genehmigungsworkflow**
 
 1. Ein Genehmigungsworkflow wird von einem Administrator erstellt.
-   1. Einreichungs-Team
-   1. Überprüfungs-Team (mindestens ein Genehmigungsschritt erforderlich)
-   1. Team der endgültigen Überprüfer
+    1. Einreichungs-Team
+    1. Überprüfungs-Team (mindestens ein Genehmigungsschritt erforderlich)
+    1. Team der endgültigen Überprüfer
 1. Ein Mitglied eines Einreichungsteams reicht einen Genehmigungsantrag mit einer Reihe von freigegebenen Revisionen auf der Genehmigungsseite ein.
 1. Mitglieder der Einreichungsteams, die dem Schritt zugewiesen sind, überprüfen die in der Genehmigung eingereichten Dokumente und geben entweder eine genehmigte oder abgelehnte Validierung ab.
 1. Nachdem alle Schritte abgeschlossen sind, überprüft ein Mitglied des Teams der endgültigen Überprüfer die Validierungen, die im Namen der verschiedenen Teams in jedem Schritt eingereicht wurden, und gibt seine endgültige Validierung von genehmigt, mit Kommentar genehmigt oder abgelehnt ab.
-   1. Der endgültige Genehmiger kann eine endgültige, informierte Entscheidung treffen, ob dieses Dokument veröffentlicht (genehmigt) oder abgelehnt (als freigegeben verbleibend) werden soll
+    1. Der endgültige Genehmiger kann eine endgültige, informierte Entscheidung treffen, ob dieses Dokument veröffentlicht (genehmigt) oder abgelehnt (als freigegeben verbleibend) werden soll
 
 ### 5.1 **Legacy-Genehmigungsworkflow**
 

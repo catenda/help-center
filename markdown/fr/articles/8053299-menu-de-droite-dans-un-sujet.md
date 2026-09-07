@@ -55,7 +55,7 @@ Pour les dossiers, le nom du dossier s'affiche ainsi que les étiquettes attach�
 - Taille de la dernière révision
 - Créateur de la dernière révision
 - Nombre d'objets 3D liés au document associé
-  - Cliquez sur le nombre d'objets pour ouvrir le menu d'action de l'objet 3D.
+    - Cliquez sur le nombre d'objets pour ouvrir le menu d'action de l'objet 3D.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/07-related-folders-and-documents.png)
 

@@ -114,10 +114,10 @@ Dit betekent dat je modellen in de modellengedeelte voor mensen verborgen kunt h
 ### 3.5 **Algemeen**
 
 - Het maken van nieuwe projecten van sjabloonprojecten is verbeterd. Het is nu mogelijk om de volgende onderdelen van een project naar een nieuw project te brengen:
-  - Mappenstructuur
-  - Documentstatusconfiguratie
-  - Document- en topic-bord toegangscontrole
-  - Aangepaste velden en naamgevingsconventies
+    - Mappenstructuur
+    - Documentstatusconfiguratie
+    - Document- en topic-bord toegangscontrole
+    - Aangepaste velden en naamgevingsconventies
 
 ## 4. **Nieuwe releases** - Catenda Site, Plug-ins en integraties
 

@@ -24,8 +24,8 @@ Je kunt filteren op:
 
 - Mijn topics
 - Statussen en typen
-  - Als een status of type aan het project wordt toegevoegd of de naam van een bestaande status of type wordt gewijzigd, zullen topics met deze status de naam van de status en het type hebben, maar de kleur wordt grijs.
-  - Het is niet mogelijk om te filteren en de kleur van deze statussen te zien totdat je teruggaat naar de [projectpagina](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) en het project opnieuw opent.
+    - Als een status of type aan het project wordt toegevoegd of de naam van een bestaande status of type wordt gewijzigd, zullen topics met deze status de naam van de status en het type hebben, maar de kleur wordt grijs.
+    - Het is niet mogelijk om te filteren en de kleur van deze statussen te zien totdat je teruggaat naar de [projectpagina](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) en het project opnieuw opent.
 - [Labels](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - Vervaldatum
 - Locatie

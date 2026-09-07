@@ -6,14 +6,14 @@
 
 1. issue boardを変更するには、issue boardドロップダウンリストからissue boardを選択します
 1. トピックを表示するために使用するフィルターを選択します
-   - トピックを開く(選択されたissue board)
-   - すべてのトピックを開く(すべてのissue board)
-   - トピックを閉じる(選択されたissue board)
-   - すべてのトピックを閉じる(すべてのissue board)
-   - 私が依頼した
-   - すべての候補トピック
-   - 期限切れのトピック
-   - 2週間以内に期限切れ
+    - トピックを開く(選択されたissue board)
+    - すべてのトピックを開く(すべてのissue board)
+    - トピックを閉じる(選択されたissue board)
+    - すべてのトピックを閉じる(すべてのissue board)
+    - 私が依頼した
+    - すべての候補トピック
+    - 期限切れのトピック
+    - 2週間以内に期限切れ
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/9brynk3y/01-intro.png)
 
