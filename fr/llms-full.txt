@@ -25228,9 +25228,10 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreuses rubri
     - Documents
         - [Modèle de flux de travail d'approbation](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
 
-      [Créer une nouvelle demande d'approbation](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
+            [Créer une nouvelle demande d'approbation](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
 
-- Catenda Plugins & Intégrations - [Site Catenda - Premiers pas](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - Catenda Plugins & Intégrations
+        - [Site Catenda - Premiers pas](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 
 ## 4. **Voix des utilisateurs complétées**
 

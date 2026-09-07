@@ -24492,9 +24492,10 @@ Dank Ihres wertvollen Feedbacks konnten wir viele Probleme beheben, die Sie mög
     - Dokumente
         - [Genehmigungsworkflow-Vorlage](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
 
-      [Neue Genehmigungsanfrage erstellen](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
+            [Neue Genehmigungsanfrage erstellen](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
 
-- Catenda Plugins & Integrationen - [Catenda Site - Erste Schritte](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - Catenda Plugins & Integrationen
+        - [Catenda Site - Erste Schritte](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 
 ## 4. **Benutzer-Feedback umgesetzt**
 

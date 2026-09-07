@@ -171,9 +171,10 @@ Takk for din verdifulle tilbakemelding har vi kunnet løse mange saker som du ka
     - Dokumenter
         - [Godkjenningsarbeidsflytsmal](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
 
-      [Opprett ny godkjenningsforespørsel](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
+            [Opprett ny godkjenningsforespørsel](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
 
-- Catenda-programtillegg og integrasjoner - [Catenda Site - Kom i gang](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - Catenda-programtillegg og integrasjoner
+        - [Catenda Site - Kom i gang](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 
 ## 4. **Brukerforslag fullført**
 

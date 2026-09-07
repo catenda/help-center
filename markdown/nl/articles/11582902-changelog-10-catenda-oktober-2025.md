@@ -171,9 +171,10 @@ Dank zij uw waardevolle feedback hebben we veel onderwerpen kunnen oplossen die 
     - Documenten
         - [Goedkeuringswerkstroomsjabloon](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
 
-      [Nieuw goedkeuringsverzoek maken](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
+            [Nieuw goedkeuringsverzoek maken](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
 
-- Catenda Plugins & Integraties - [Catenda Site - Aan de slag](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - Catenda Plugins & Integraties
+        - [Catenda Site - Aan de slag](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 
 ## 4. **Door gebruikers voltooide verzoeken**
 
