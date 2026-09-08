@@ -4,14 +4,14 @@ Administratoren können konfigurieren, wer Zugriff auf die Erstellung von Themen
 
 1. Unter der Zugriffskontrolle auf dieser Seite finden Sie "Neues Themen-Board erstellen".
 
-Klicken Sie darauf.
+    Klicken Sie darauf.
 
 1. Eine Liste derjenigen, die erstellen können und auf Zugriff bearbeiten, wird angezeigt.
    Klicken Sie auf die Schaltfläche "Zugriff bearbeiten".
 1. Definieren Sie den Zugriff für Mitglied(er) oder Team(s).
 
-Unter den ausgewählten Mitglied(ern) oder Team(s) wird angezeigt.
+    Unter den ausgewählten Mitglied(ern) oder Team(s) wird angezeigt.
 
 1. Unter Zugriff wählen Sie zwischen "Kann erstellen" und "Nicht zulässig".
 
-Klicken Sie auf die Schaltfläche "Speichern".
+    Klicken Sie auf die Schaltfläche "Speichern".

@@ -86,7 +86,7 @@ Kann für Themen verwendet werden, die aus dem allgemeinen Themenbereich erstell
 1. **Beschreibung**: Die resultierende Themenbeschreibung nach dem Erstellen des Themas aus der allgemeinen Themenvorlage. Dieser Bereich unterstützt das Markdown-Format und Sie können sein volles Potenzial nutzen, um den Text zu formatieren, benutzerdefinierte Header und Checklisten zu erstellen.
     Bewegen Sie die Maus über das "?"-Symbol oben rechts im Beschreibungsfeld, um zu sehen, wie Sie alle verfügbaren Funktionen nutzen können (Teammates erwähnen und vorhandene Themen verlinken) und Variablen (wie `topicCreator` im Fall der allgemeinen Themenvorlage).
 
-     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
 
 Wenn Sie Ihre neue allgemeine Themenvorlage fertig eingerichtet haben, können Sie auf die Schaltfläche "Speichern" unten rechts klicken.
 
@@ -121,7 +121,7 @@ Kann für Themen verwendet werden, die aus Markups in Dokumenten erstellt wurden
 1. **Beschreibung**: Die resultierende Themenbeschreibung nach dem Erstellen des Themas aus der Dokument-Themenvorlage. Dieser Bereich unterstützt das Markdown-Format und Sie können sein volles Potenzial nutzen, um den Text zu formatieren, benutzerdefinierte Header und Checklisten zu erstellen.
     Bewegen Sie die Maus über das "?"-Symbol oben rechts im Beschreibungsfeld, um zu sehen, wie Sie alle verfügbaren Funktionen nutzen können (Teammates erwähnen und vorhandene Themen verlinken) und Variablen (wie `documentName`, `fileName`, `markupName` und `topicCreator` im Fall der Dokument-Themenvorlage).
 
-     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
 
 Wenn Sie Ihre neue Dokument-Themenvorlage fertig eingerichtet haben, können Sie auf die Schaltfläche "Speichern" unten rechts klicken.
 
@@ -160,6 +160,6 @@ Hier sind die verschiedenen Maßnahmen, die Sie ergreifen müssen, und die Varia
 1. **Beschreibung**: Die resultierende Themenbeschreibung nach dem Schließen des zugehörigen Genehmigungsworkflows. Dieser Bereich unterstützt das Markdown-Format und Sie können sein volles Potenzial nutzen, um den Text zu formatieren, benutzerdefinierte Header und Checklisten zu erstellen.
     Bewegen Sie die Maus über das "?"-Symbol oben rechts im Beschreibungsfeld, um zu sehen, wie Sie alle verfügbaren Funktionen nutzen können (Teammates erwähnen und vorhandene Themen verlinken) und Variablen (wie `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) im Fall der Genehmigungsthemenvorlage).
 
-     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 
 Wenn Sie Ihre neue Genehmigungsthemenvorlage fertig eingerichtet haben, können Sie auf die Schaltfläche "Speichern" unten rechts klicken.

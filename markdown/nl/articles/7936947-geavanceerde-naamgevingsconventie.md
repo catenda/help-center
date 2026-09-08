@@ -9,16 +9,16 @@ Door deze [conventie](https://support.catenda.com/en/articles/7832559-naming-con
 - U hebt een streepje _( - )_ in de bestandsnaam, dus om de verschillende [blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) van elkaar te scheiden, moet u een onderstrepingsteken _( \_ )_ gebruiken als [scheidingsteken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=in%20document%20settings-,Separator,-%3A%20The%20character).
 - Deze bestanden beginnen met de datum waarop het bestand is gemaakt.
 
-Dit is handig voor u omdat, hoewel dit meestal op verschillende plaatsen staat, het visueel beter voor u is om uw bestanden alfabetisch op creatiedatum gesorteerd te hebben.
+    Dit is handig voor u omdat, hoewel dit meestal op verschillende plaatsen staat, het visueel beter voor u is om uw bestanden alfabetisch op creatiedatum gesorteerd te hebben.
 
 - Daarna volgt de naam van het bestand, die elke lengte kan hebben.
 - Aan het einde van de bestandsnaam hebt u een bepaalde status om aan te geven welke versie van het bestand u hebt.
 
-Dit gedeelte is slechts extra tekst die u gebruikt om uw bestanden lokaal uit elkaar te houden. U wilt dit gedeelte van de bestandsnaam niet zien in de Catenda Hub-documentnaam, omdat het alleen lokaal nuttig voor u is en niets te maken heeft met andere mensen in het project.
+    Dit gedeelte is slechts extra tekst die u gebruikt om uw bestanden lokaal uit elkaar te houden. U wilt dit gedeelte van de bestandsnaam niet zien in de Catenda Hub-documentnaam, omdat het alleen lokaal nuttig voor u is en niets te maken heeft met andere mensen in het project.
 
 - Tot slot hebt u besloten ervoor te zorgen dat u alleen bepaalde bestandstypes in deze map bewaart.
 
-U beperkt de bestandstypen tot IFC, PDF, DWG, SMC, PL en RVT
+    U beperkt de bestandstypen tot IFC, PDF, DWG, SMC, PL en RVT
 
 ### 1.1 **Eerste instellingen**
 

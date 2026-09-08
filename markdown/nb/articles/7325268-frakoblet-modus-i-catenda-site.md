@@ -59,7 +59,7 @@ Følgende informasjon kan legges til en ny sak som opprettes uten tilkobling til
 - Kommentarer kan legges til.
     - Bilder fra kamera/bilder kan legges til kommentarer.
 
-    _Tilgang påkrevd:_ Full tilgang til enheten
+        _Tilgang påkrevd:_ Full tilgang til enheten
 
 - Hvis modeller ble innlastet før tilkoblingen til nettverket var tapt, kan en plassering legges til en sak ved å plassere en markør i 2D-visningen av disse modellene.
 

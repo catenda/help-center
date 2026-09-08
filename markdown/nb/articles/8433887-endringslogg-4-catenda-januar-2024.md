@@ -88,7 +88,7 @@ Takk for dine verdifulle tilbakemeldinger har vi kunnet rette mange saker som du
 
 - Det er nå mulig å angi ACL per modell i stedet for for alle modeller.
 
-Dette betyr at du kan skjule modeller fra personer i modellseksjonen.
+    Dette betyr at du kan skjule modeller fra personer i modellseksjonen.
 
 - Med modeller som dokumenter kan du legge til merkelapper for modeller.
 - Med modeller som dokumenter kan du strukturere modeller i mapper i dokumentseksjonen.

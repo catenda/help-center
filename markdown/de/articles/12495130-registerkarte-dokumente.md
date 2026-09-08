@@ -32,11 +32,11 @@ Klicken Sie [hier](https://support.catenda.com/en/articles/12495638-approval-req
 - **#:** Zeigt an, welche Version/Revision des Dokuments innerhalb der Freigabe vorhanden ist.
     - Wenn ein Dokument zu einer Freigabe hinzugefügt wird, werden die Hauptversions- und Nebenversionsnummern angezeigt, die folgendermaßen aussehen können:
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
     - Wenn die ausgewählte freigegebene Revision veröffentlicht wurde, um die neueste veröffentlichte Revision im Dokument außerhalb der aktuellen Freigabeanfrage zu werden, kann sie folgendermaßen aussehen:
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 
 - **Schritt "x":** Zeigt mit einem Balken an, welcher Status der Schritt hat.
 - **Endgültige Freigabe:** Diese Spalte zeigt die endgültige Freigabe an. Wenn diese aktiviert ist, wird das Symbol farbig.

@@ -57,7 +57,7 @@ In [authenticatie](https://bimsync.com/account/authentication) kunt u:
 
 1. Uw wachtwoord wijzigen
 
-Klik [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) voor probleemoplossing bij wachtwoorden
+    Klik [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) voor probleemoplossing bij wachtwoorden
 
 1. [MFA inschakelen en uitschakelen.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
 

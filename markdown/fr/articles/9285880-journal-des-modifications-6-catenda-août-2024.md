@@ -58,7 +58,7 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreux Sujets 
 - La transformation de rotation est maintenant xyz comme elle est censée l'être, au lieu de xyy
 - Une transformation de coordonnées y n'est plus appliquée lors de l'ajout de rotation à un modèle.
 
-Si vous appliquez maintenant une transformation avec rotation, rechargez la page et chargez à nouveau le modèle, il apparaîtra au bon endroit.
+    Si vous appliquez maintenant une transformation avec rotation, rechargez la page et chargez à nouveau le modèle, il apparaîtra au bon endroit.
 
 - La fonctionnalité 4D fonctionne à nouveau.
 

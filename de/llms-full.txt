@@ -1204,7 +1204,7 @@ In [Authentifizierung](https://bimsync.com/account/authentication) können Sie:
 
 1. Passwort ändern
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) zur Fehlerbehebung bei Passwörtern
+    Klicken Sie [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) zur Fehlerbehebung bei Passwörtern
 
 1. [MFA aktivieren und deaktivieren.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
 
@@ -2516,7 +2516,7 @@ Wenn der 3D-Viewer geöffnet ist, steht das Modelllademenü zur Verfügung
 - Die Modelle, die beim Öffnen dieses Menüs aktiv sind, spiegeln die Modelle wider, die derzeit im 3D-Viewer geladen sind. Um eine Gruppe von Modellen leicht hinzuzufügen oder zu entfernen, können Sie ein Lesezeichen erstellen, das Lesezeichen abspielen, zum Schnappschuss gehen, auf sein Aktionsmenü klicken und im Modelllademenü auf Speichern klicken.
 - Wenn ein Modell in Ihrem Schnappschuss die gleiche IFCPROJECT-GUID wie ein Modell im Bereich "Modelle" hat, werden die Modelle automatisch verknüpft.
 
-Hier ist ein Artikel von BuildingSMART, der beschreibt, wie dies in Revit durchgeführt wird [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
+    Hier ist ein Artikel von BuildingSMART, der beschreibt, wie dies in Revit durchgeführt wird [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/08-model-picker.png)
 
@@ -8226,7 +8226,7 @@ Kann für Themen verwendet werden, die aus dem allgemeinen Themenbereich erstell
 1. **Beschreibung**: Die resultierende Themenbeschreibung nach dem Erstellen des Themas aus der allgemeinen Themenvorlage. Dieser Bereich unterstützt das Markdown-Format und Sie können sein volles Potenzial nutzen, um den Text zu formatieren, benutzerdefinierte Header und Checklisten zu erstellen.
     Bewegen Sie die Maus über das "?"-Symbol oben rechts im Beschreibungsfeld, um zu sehen, wie Sie alle verfügbaren Funktionen nutzen können (Teammates erwähnen und vorhandene Themen verlinken) und Variablen (wie `topicCreator` im Fall der allgemeinen Themenvorlage).
 
-     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
 
 Wenn Sie Ihre neue allgemeine Themenvorlage fertig eingerichtet haben, können Sie auf die Schaltfläche "Speichern" unten rechts klicken.
 
@@ -8261,7 +8261,7 @@ Kann für Themen verwendet werden, die aus Markups in Dokumenten erstellt wurden
 1. **Beschreibung**: Die resultierende Themenbeschreibung nach dem Erstellen des Themas aus der Dokument-Themenvorlage. Dieser Bereich unterstützt das Markdown-Format und Sie können sein volles Potenzial nutzen, um den Text zu formatieren, benutzerdefinierte Header und Checklisten zu erstellen.
     Bewegen Sie die Maus über das "?"-Symbol oben rechts im Beschreibungsfeld, um zu sehen, wie Sie alle verfügbaren Funktionen nutzen können (Teammates erwähnen und vorhandene Themen verlinken) und Variablen (wie `documentName`, `fileName`, `markupName` und `topicCreator` im Fall der Dokument-Themenvorlage).
 
-     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
 
 Wenn Sie Ihre neue Dokument-Themenvorlage fertig eingerichtet haben, können Sie auf die Schaltfläche "Speichern" unten rechts klicken.
 
@@ -8300,7 +8300,7 @@ Hier sind die verschiedenen Maßnahmen, die Sie ergreifen müssen, und die Varia
 1. **Beschreibung**: Die resultierende Themenbeschreibung nach dem Schließen des zugehörigen Genehmigungsworkflows. Dieser Bereich unterstützt das Markdown-Format und Sie können sein volles Potenzial nutzen, um den Text zu formatieren, benutzerdefinierte Header und Checklisten zu erstellen.
     Bewegen Sie die Maus über das "?"-Symbol oben rechts im Beschreibungsfeld, um zu sehen, wie Sie alle verfügbaren Funktionen nutzen können (Teammates erwähnen und vorhandene Themen verlinken) und Variablen (wie `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) im Fall der Genehmigungsthemenvorlage).
 
-     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 
 Wenn Sie Ihre neue Genehmigungsthemenvorlage fertig eingerichtet haben, können Sie auf die Schaltfläche "Speichern" unten rechts klicken.
 
@@ -9212,17 +9212,17 @@ Administratoren können konfigurieren, wer Zugriff auf die Erstellung von Themen
 
 1. Unter der Zugriffskontrolle auf dieser Seite finden Sie "Neues Themen-Board erstellen".
 
-Klicken Sie darauf.
+    Klicken Sie darauf.
 
 1. Eine Liste derjenigen, die erstellen können und auf Zugriff bearbeiten, wird angezeigt.
    Klicken Sie auf die Schaltfläche "Zugriff bearbeiten".
 1. Definieren Sie den Zugriff für Mitglied(er) oder Team(s).
 
-Unter den ausgewählten Mitglied(ern) oder Team(s) wird angezeigt.
+    Unter den ausgewählten Mitglied(ern) oder Team(s) wird angezeigt.
 
 1. Unter Zugriff wählen Sie zwischen "Kann erstellen" und "Nicht zulässig".
 
-Klicken Sie auf die Schaltfläche "Speichern".
+    Klicken Sie auf die Schaltfläche "Speichern".
 
 # Erweiterte Namenskonvention
 
@@ -9235,16 +9235,16 @@ Durch die Einrichtung dieser [Konvention](https://support.catenda.com/en/article
 - Sie haben einen Bindestrich _( - )_ im Namen der Datei. Um die verschiedenen [Blöcke](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) zu trennen, müssen Sie einen Unterstrich _( \_ )_ als [Trennzeichen](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=in%20document%20settings-,Separator,-%3A%20The%20character) verwenden.
 - Diese Dateien beginnen mit dem Datum der Dateierstellung.
 
-Dies ist für Sie nützlich, da es visueller ist, wenn Ihre Dateien alphabetisch nach Erstellungsdatum sortiert sind, obwohl dies an verschiedenen Stellen aufgeführt wird.
+    Dies ist für Sie nützlich, da es visueller ist, wenn Ihre Dateien alphabetisch nach Erstellungsdatum sortiert sind, obwohl dies an verschiedenen Stellen aufgeführt wird.
 
 - Danach folgt der Name der Datei, der beliebig lang sein kann.
 - Am Ende des Dateinamens haben Sie einen Status, der anzeigt, welche Version der Datei Sie haben.
 
-Dieser Teil ist nur zusätzlicher Text, den Sie verwenden, um Ihre Dateien lokal auseinander zu halten. Sie möchten diesen Teil des Dateinamens nicht im Dokument "Catenda Hub" sehen, da er nur lokal für Sie nützlich ist und nichts mit anderen Personen im Projekt zu tun hat.
+    Dieser Teil ist nur zusätzlicher Text, den Sie verwenden, um Ihre Dateien lokal auseinander zu halten. Sie möchten diesen Teil des Dateinamens nicht im Dokument "Catenda Hub" sehen, da er nur lokal für Sie nützlich ist und nichts mit anderen Personen im Projekt zu tun hat.
 
 - Abschließend haben Sie beschlossen, sicherzustellen, dass Sie nur bestimmte Dateitypen in diesem Ordner speichern.
 
-Sie werden die Dateitypen auf IFC, PDF, DWG, SMC, PL und RVT beschränken
+    Sie werden die Dateitypen auf IFC, PDF, DWG, SMC, PL und RVT beschränken
 
 ### 1.1 **Anfangseinrichtung**
 
@@ -11465,27 +11465,27 @@ Alle Bibliothekeninhalte und Attribute, die in Catenda Hub hinzugefügt wurden, 
 1. Richten Sie Clash Detective ein und führen Sie einen Clash-Test aus.
 1. Gehen Sie die clashes in NW durch.
 
-a. Geben Sie bei Bedarf Namen ein
+    a. Geben Sie bei Bedarf Namen ein
 
-b. Passen Sie viewpoints an und speichern Sie sie mit den Befehlen **Focus on clash** und **Save viewpoint**
+    b. Passen Sie viewpoints an und speichern Sie sie mit den Befehlen **Focus on clash** und **Save viewpoint**
 
-c. Fassen Sie clashes ähnlichen Typs zusammen
+    c. Fassen Sie clashes ähnlichen Typs zusammen
 
 1. Erstellen Sie einen Bericht als viewpoints. Schalten Sie **Preserve result highlighting** ein
 1. Diese viewpoints werden auf der Registerkarte clashes im Plugin angezeigt
 1. Erstellen Sie ein Problem durch Auswahl eines oder mehrerer clashes
 
-a. Geben Sie dem Problem einen Titel
+    a. Geben Sie dem Problem einen Titel
 
-b. Klicken Sie auf Problem hinzufügen.
+    b. Klicken Sie auf Problem hinzufügen.
 
 1. So erhalten Sie eine aussagekräftige Miniaturansicht:
 
-a. Wählen Sie clash in Clash Detective aus
+    a. Wählen Sie clash in Clash Detective aus
 
-b. Wählen Sie den gleichen clash auf der Registerkarte **Clashes** aus.
+    b. Wählen Sie den gleichen clash auf der Registerkarte **Clashes** aus.
 
-c. Klicken Sie auf Problem hinzufügen.
+    c. Klicken Sie auf Problem hinzufügen.
 
 # Laden Sie Ihre mobile App Catenda Site herunter 📲
 
@@ -13068,7 +13068,7 @@ Die folgenden Informationen können zu einem neuen Thema hinzugefügt werden, da
 - Kommentare können hinzugefügt werden.
     - Bilder von Kamera/Fotos können zu Kommentaren hinzugefügt werden.
 
-    _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Gerät
+        _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Gerät
 
 - Wenn Modelle vor dem Verlust der Netzwerkverbindung geladen wurden, kann einem Thema eine Position hinzugefügt werden, indem Sie einen Marker in der 2D-Ansicht dieser Modelle platzieren.
 
@@ -15020,11 +15020,11 @@ Klicken Sie [hier](https://support.catenda.com/en/articles/12495638-approval-req
 - **#:** Zeigt an, welche Version/Revision des Dokuments innerhalb der Freigabe vorhanden ist.
     - Wenn ein Dokument zu einer Freigabe hinzugefügt wird, werden die Hauptversions- und Nebenversionsnummern angezeigt, die folgendermaßen aussehen können:
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
     - Wenn die ausgewählte freigegebene Revision veröffentlicht wurde, um die neueste veröffentlichte Revision im Dokument außerhalb der aktuellen Freigabeanfrage zu werden, kann sie folgendermaßen aussehen:
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 
 - **Schritt "x":** Zeigt mit einem Balken an, welcher Status der Schritt hat.
 - **Endgültige Freigabe:** Diese Spalte zeigt die endgültige Freigabe an. Wenn diese aktiviert ist, wird das Symbol farbig.
@@ -15247,7 +15247,7 @@ Mit der Namenskonvention wird gefordert oder gewünscht, dass alles eindeutig be
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-a2fc3b4afcfe.png" style="height: auto;" width="1920"/></div>
 
-Dazu können Sie die Spalte "Name de Revision" anzeigen, die den ursprünglichen Namen anzeigt.
+    Dazu können Sie die Spalte "Name de Revision" anzeigen, die den ursprünglichen Namen anzeigt.
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-1b1cee11c3c8.png" style="height: auto;" width="1920"/></div>
 
@@ -18269,11 +18269,11 @@ _Neues Thema_ - Erstellen Sie ein [neues Thema](https://support.catenda.com/en/a
 - Der Header und die Beschreibung im geklonten Thema sind identisch mit dem aktuellen Thema
 - _Dokumente einbeziehen_
 
-Dokumente, die mit diesem Thema verknüpft sind, werden auch mit dem geklonten Thema verknüpft
+    Dokumente, die mit diesem Thema verknüpft sind, werden auch mit dem geklonten Thema verknüpft
 
 - _Zugehörige Objekte einbeziehen_
 
-Objekte, die mit diesem Thema verknüpft sind, werden auch mit dem geklonten Thema verknüpft
+    Objekte, die mit diesem Thema verknüpft sind, werden auch mit dem geklonten Thema verknüpft
 
 > **Hinweis:** Kommentare werden nicht geklont
 
@@ -19472,11 +19472,11 @@ Sie können im [rechten Panel](https://support.catenda.com/en/articles/8053299-i
 1. Laden Sie ein Modell in 3D und wählen Sie ein Objekt.
 1. Entweder
 
-Klicken Sie auf die Schaltfläche Plus in der [Themensektion](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) des Inspektionsbereichs des Informationspanels.
+    Klicken Sie auf die Schaltfläche Plus in der [Themensektion](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) des Inspektionsbereichs des Informationspanels.
 
-oder
+    oder
 
-Erstellen Sie eine neue Themensektion, indem Sie auf der Themaseite des Inhaltsbereichs auf neues Thema klicken.
+    Erstellen Sie eine neue Themensektion, indem Sie auf der Themaseite des Inhaltsbereichs auf neues Thema klicken.
 
 1. Geben Sie dem Thema einen Titel und reichen Sie es ein
 1. Beachten Sie, dass Ihr Thema die ausgewählten Objekte verlinkt hat
@@ -21964,7 +21964,7 @@ Die Sichtbarkeit von Markierungen kann an den folgenden Standorten konfiguriert 
 1. Markierungen in der 2D-Ansicht mit den [2D-Viewer-Einstellungen](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098) anzeigen/verbergen.
    Hinweis: Markierungen sind möglicherweise nicht sichtbar, wenn die Markierungsebene deaktiviert ist.
 
-In diesem Menü kann auch der Markierungsfarbmodus konfiguriert werden. ([Status, Thementyp, Fälligkeitsdatum](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
+    In diesem Menü kann auch der Markierungsfarbmodus konfiguriert werden. ([Status, Thementyp, Fälligkeitsdatum](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
 
 1. Im Schichtmenü kann die Markierungsschicht aktiviert/deaktiviert werden.
 
@@ -24877,7 +24877,7 @@ Dank Ihres wertvollen Feedbacks haben wir viele Probleme gelöst, die Sie mögli
   Geschosse von Modellen, die genau auf 0 m Höhe liegen, werden jetzt ordnungsgemäß im Rotationsmenü der Geolokalisierungskonfiguration in den Projekteinstellungen angezeigt.
 - **[Tastenkombinationen] Panel-Tastenkombination**
 
-Panel-Tastenkombinationen überprüfen jetzt auch die Zahl, die in der Tastenkombination verwendet wird, was es Benutzern mit unterschiedlichen Tastaturlayouts ermöglicht, die Tastenkombinationen auch dann zu verwenden, wenn das Shift-Zeichen ungewöhnlich ist.
+    Panel-Tastenkombinationen überprüfen jetzt auch die Zahl, die in der Tastenkombination verwendet wird, was es Benutzern mit unterschiedlichen Tastaturlayouts ermöglicht, die Tastenkombinationen auch dann zu verwenden, wenn das Shift-Zeichen ungewöhnlich ist.
 
 ## 4. **Abgeschlossene Benutzerstimmen**
 
@@ -25078,7 +25078,7 @@ _Neue Artikel:_ Catenda Hub [Bimsync ist jetzt Catenda Hub](https://support.cate
 - Das [Baum-Panel](https://support.catenda.com/en/articles/4670290-the-tree-structures-in-the-ifc-models) zeigt nun immer das richtige Modell eines Objekts an, wenn dieses Objekt ausgewählt ist. Zuvor gab es einige Fälle, in denen sich das Baum-Menü nicht immer zum richtigen Modell aktualisierte
 - Es ist nun möglich, eine Auswahl mit dem Auswahlmenü im Inspektbereich zu speichern.
 
-Eine Auswahl von Objekten kann auch gefärbt werden. Diese Auswahl kann in einem Schnappschuss oder Lesezeichen gespeichert werden.
+    Eine Auswahl von Objekten kann auch gefärbt werden. Diese Auswahl kann in einem Schnappschuss oder Lesezeichen gespeichert werden.
 
 - Unsere Server können jetzt den [Import](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) von Dateien mit großem Geometry-Umfang verarbeiten, die zuvor zu Timeouts geführt hätten.
 - Die [3D-Schaltfläche](https://support.catenda.com/en/articles/4670286-models-page#h_82b7400edc) bleibt jetzt wieder aktiv, wenn mehrere Modelle geladen werden
@@ -25308,7 +25308,7 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die du mögl
 
 - Es ist jetzt möglich, die ACL pro Modell statt für alle Modelle festzulegen.
 
-Dies bedeutet, dass du Modelle vor Personen im Modellabschnitt verbergen kannst.
+    Dies bedeutet, dass du Modelle vor Personen im Modellabschnitt verbergen kannst.
 
 - Mit Modelle als Dokumente kannst du Etiketten zu Modellen hinzufügen.
 - Mit Modelle als Dokumente kannst du Modelle in Ordnern im Abschnitt "Dokumente" strukturieren.
@@ -25430,7 +25430,7 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die ihr mög
 - Rotationstransformation ist jetzt xyz, wie es sein sollte, statt xyy
 - Eine y-Koordinatentransformation wird nicht mehr angewendet, wenn eine Rotation zu einem Modell hinzugefügt wird.
 
-Wenn Sie jetzt eine Transformation mit Rotation anwenden, die Seite neuladen und das Modell erneut laden, wird es an der richtigen Stelle angezeigt.
+    Wenn Sie jetzt eine Transformation mit Rotation anwenden, die Seite neuladen und das Modell erneut laden, wird es an der richtigen Stelle angezeigt.
 
 - 4D-Funktionalität funktioniert wieder.
 
@@ -25823,9 +25823,9 @@ Die Filter befinden sich im linken Seitenbereich:
 
     <div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-60a1bb50b7da.png" style="height: auto;" width="3360"/></div><div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-84e66eb66553.png" style="height: auto;" width="3360"/></div>
 
-Es gibt zwei Möglichkeiten:
+    Es gibt zwei Möglichkeiten:
 
-**A.** Sie können einen Reiter im Bereich A auswählen: Heute, gestern, vor einer Woche ...
+    **A.** Sie können einen Reiter im Bereich A auswählen: Heute, gestern, vor einer Woche ...
 
     <div class="intercom-container"><img height="530" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-2a7e66b298c6.png" style="height: auto;" width="280"/></div>
 
@@ -26454,9 +26454,9 @@ ShareLink sendet eine E-Mail von Catenda Hub an die von Ihnen ausgewählten Proj
 
 1. Wählen Sie zunächst bis zu 100 Inhaltselemente aus, die Sie freigeben möchten.
 
-Beispielsweise einige Dokumente oder Themen.
+    Beispielsweise einige Dokumente oder Themen.
 
-Ein ShareLink-Empfänger sieht dann nur diese Elemente. Wenn die Seite mit einem ShareLink-Empfänger geteilt wird, sieht er die ganze Seite, einschließlich Filter, basierend auf seinem Zugriff im Projekt.
+    Ein ShareLink-Empfänger sieht dann nur diese Elemente. Wenn die Seite mit einem ShareLink-Empfänger geteilt wird, sieht er die ganze Seite, einschließlich Filter, basierend auf seinem Zugriff im Projekt.
 
 1. Klicken Sie auf die ShareLink-Schaltfläche.
 
@@ -26502,7 +26502,7 @@ Die E-Mail-Nachricht kann so aussehen, wenn Sie einen Screenshot hinzugefügt ha
 
 1. Klicken Sie auf diesen Link und Catenda Hub öffnet eine Seite mit den freigegebenen Elementen.
 
-oder
+    oder
 
 1. Kopieren Sie diese URL in Ihren Browser.
 

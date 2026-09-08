@@ -185,7 +185,7 @@ Dankzij uw waardevolle feedback hebben we veel problemen kunnen oplossen die u m
   Verdiepingen van modellen die zich precies op 0 m hoogte bevinden, worden nu correct weergegeven in het rotatiecenu van de geolocatieconfiguratie in projectinstellingen.
 - **[Snelkoppelingen] Paneel snelkoppeling**
 
-Paneelsnelkoppelingen controleren nu ook het getal dat in de snelkoppeling wordt gebruikt, waardoor gebruikers met verschillende toetsenbordindelingen de snelkoppelingen ook kunnen gebruiken, zelfs als het shift-teken anders is dan normaal.
+    Paneelsnelkoppelingen controleren nu ook het getal dat in de snelkoppeling wordt gebruikt, waardoor gebruikers met verschillende toetsenbordindelingen de snelkoppelingen ook kunnen gebruiken, zelfs als het shift-teken anders is dan normaal.
 
 ## 4. **Voltooide gebruikersstemmen**
 

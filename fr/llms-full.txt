@@ -1646,7 +1646,7 @@ Dans [authentification](https://bimsync.com/account/authentication), il est poss
 
 1. Modifier votre mot de passe
 
-Cliquez [ici](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) pour le dépannage des mots de passe
+    Cliquez [ici](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) pour le dépannage des mots de passe
 
 1. [Activer et désactiver l'AMF.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
 
@@ -4545,11 +4545,11 @@ _Nouveau sujet_ - Créer un [nouveau sujet](https://support.catenda.com/en/artic
 - L'en-tête et la description du sujet cloné seront identiques à ceux du sujet actuel
 - _Inclure des documents_
 
-Les documents liés à ce sujet seront également liés au sujet cloné
+    Les documents liés à ce sujet seront également liés au sujet cloné
 
 - _Inclure les objets liés_
 
-Les objets liés à ce sujet seront également liés au sujet cloné
+    Les objets liés à ce sujet seront également liés au sujet cloné
 
 > **Note :** Les commentaires ne sont pas clonés
 
@@ -6319,17 +6319,17 @@ Les administrateurs pourront configurer qui a accès pour créer des listes de s
 
 1. Sous le contrôle d'accès sur cette page vous avez « Créer une nouvelle liste de sujets ».
 
-Cliquez dessus.
+    Cliquez dessus.
 
 1. Une liste de qui peut créer et l'accès Édition apparaîtra.
    Cliquez sur le bouton Éditer l'accès.
 1. Définissez l'accès pour les membres ou les équipes.
 
-Sous les membres ou les équipes que vous avez sélectionnés apparaîtront.
+    Sous les membres ou les équipes que vous avez sélectionnés apparaîtront.
 
 1. Sous accès vous choisissez entre Peut créer et Non autorisé.
 
-Appuyez sur le bouton enregistrer.
+    Appuyez sur le bouton enregistrer.
 
 # Contrôle d'accès à la liste de sujets
 
@@ -6509,16 +6509,16 @@ En mettant en place cette [convention](https://support.catenda.com/en/articles/7
 - Vous avez un tiret _( - )_ dans le nom du fichier, donc pour séparer les différents [blocs](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) vous devrez utiliser un trait de soulignement _( \_ )_ comme [séparateur](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=in%20document%20settings-,Separator,-%3A%20The%20character).
 - Ces fichiers commencent par la date de création du fichier.
 
-Cela vous est utile car même si cela est généralement indiqué à différents endroits, c'est simplement plus visuel pour vous d'avoir vos fichiers classés alphabétiquement par date de création.
+    Cela vous est utile car même si cela est généralement indiqué à différents endroits, c'est simplement plus visuel pour vous d'avoir vos fichiers classés alphabétiquement par date de création.
 
 - Après cela, vous aurez le nom du fichier qui peut être de n'importe quelle longueur.
 - À la fin du nom du fichier, vous avez un statut pour indiquer la version du fichier que vous avez.
 
-Cette partie est simplement du texte supplémentaire que vous utilisez pour distinguer vos fichiers localement. Vous ne voulez pas voir cette partie du nom du fichier dans le nom du document Catenda Hub car elle n'est utile que pour vous localement et n'a rien à voir avec les autres personnes du projet.
+    Cette partie est simplement du texte supplémentaire que vous utilisez pour distinguer vos fichiers localement. Vous ne voulez pas voir cette partie du nom du fichier dans le nom du document Catenda Hub car elle n'est utile que pour vous localement et n'a rien à voir avec les autres personnes du projet.
 
 - Finalement, vous avez décidé de vous assurer que vous ne conservez que des types de fichiers spécifiques dans ce dossier.
 
-Vous limiterez les types de fichiers à IFC, PDF, DWG, SMC, PL et RVT
+    Vous limiterez les types de fichiers à IFC, PDF, DWG, SMC, PL et RVT
 
 ### 1.1 **Configuration initiale**
 
@@ -12680,7 +12680,7 @@ Les informations suivantes peuvent être ajoutées à un nouveau sujet créé sa
 - Des commentaires peuvent être ajoutés.
     - Des images de l'appareil photo/photos peuvent être ajoutées aux commentaires.
 
-    _Accès requis :_ Accès complet à l'appareil
+        _Accès requis :_ Accès complet à l'appareil
 
 - Si les modèles ont été chargés avant la perte de connexion au réseau, une localisation peut être ajoutée à un sujet en plaçant un marqueur dans la vue 2D de ces modèles.
 
@@ -13387,11 +13387,11 @@ Cliquez [ici](https://support.catenda.com/en/articles/12495638-approval-request-
 - **# :** Affiche quelle version/révision du Document à l'intérieur de la validation il s'agit.
     - Lorsqu'un Document est ajouté à une validation, il affiche son numéro de révision majeure et mineure qui peut ressembler à ceci :
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
     - Si la révision partagée sélectionnée a été publiée pour devenir la dernière révision publiée dans le Document en dehors de la demande de validation actuelle, cela peut ressembler à ceci :
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 
 - **Étape « x » :** Affiche avec une barre quel est le Statut de l'étape.
 - **Approbation finale :** Cette colonne affiche l'approbation finale ; lorsqu'elle est activée, l'icône s'affiche en couleur.
@@ -15754,7 +15754,7 @@ Peut être utilisé sur les sujets créés à partir de la section Sujet génér
 1. **Description** : La description du sujet résultant après création du sujet à partir du gabarit de sujet général. Cette section supporte le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle.
     Survolez votre souris sur l'icône "?" située en haut à droite de la zone de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et lier les sujets existants) et les variables (telles que `topicCreator` dans le cas du gabarit de sujet général).
 
-     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
 
 Une fois que vous avez terminé la configuration de votre nouveau gabarit de sujet général, vous pouvez cliquer sur le bouton "Enregistrer" en bas à droite.
 
@@ -15789,7 +15789,7 @@ Peut être utilisé sur les sujets créés à partir de balisages sur les docume
 1. **Description** : La description du sujet résultant après création du sujet à partir du gabarit de sujet pour les documents. Cette section supporte le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle.
     Survolez votre souris sur l'icône "?" située en haut à droite de la zone de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et lier les sujets existants) et les variables (telles que `documentName`, `fileName`, `markupName` et `topicCreator` dans le cas du gabarit de sujet pour les documents).
 
-     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
 
 Une fois que vous avez terminé la configuration de votre nouveau gabarit de sujet pour les documents, vous pouvez cliquer sur le bouton "Enregistrer" en bas à droite.
 
@@ -15828,7 +15828,7 @@ Voici les différentes actions que vous devez suivre et les variables que vous p
 1. **Description** : La description du sujet résultant après la fermeture du circuit d'approbation associé. Cette section supporte le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle.
     Survolez votre souris sur l'icône "?" située en haut à droite de la zone de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et lier les sujets existants) et les variables (telles que `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) dans le cas du gabarit de sujet pour les approbations).
 
-     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 
 Une fois que vous avez terminé la configuration de votre nouveau gabarit de sujet pour les approbations, vous pouvez cliquer sur le bouton "Enregistrer" en bas à droite.
 
@@ -18503,7 +18503,7 @@ Si la visionneuse 3D est ouverte, le menu de chargement du modèle sera disponib
 - Les modèles qui sont activés lors de l'ouverture de ce menu reflètent les modèles actuellement chargés dans la visionneuse 3D. Pour ajouter/supprimer facilement un ensemble de modèles, vous pouvez créer un signet, lire le signet, aller à la capture, cliquer sur son menu d'action et appuyer sur Enregistrer dans le menu de chargement du modèle.
 - Si un modèle dans votre capture a le même GUID IFCPROJECT qu'un modèle dans la section des modèles, les modèles seront automatiquement liés.
 
-Voici un article de BuildingSMART qui décrit comment cela se fait dans Revit [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
+    Voici un article de BuildingSMART qui décrit comment cela se fait dans Revit [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/08-model-picker.png)
 
@@ -18960,7 +18960,7 @@ Avec la convention de nommage, il est demandé ou souhaité que tout soit nommé
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-a2fc3b4afcfe.png" style="height: auto;" width="1920"/></div>
 
-Pour ce faire, vous pouvez afficher la colonne "Name de Revision", qui affiche le nom original.
+    Pour ce faire, vous pouvez afficher la colonne "Name de Revision", qui affiche le nom original.
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-1b1cee11c3c8.png" style="height: auto;" width="1920"/></div>
 
@@ -19015,11 +19015,11 @@ Vous pouvez découvrir à quoi un sujet est lié dans le [panneau droit](https:/
 1. Charger un modèle en 3D et sélectionner un objet.
 1. Soit
 
-Cliquez sur le bouton plus dans la [section des sujets](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) de la section inspection du panneau d'information.
+    Cliquez sur le bouton plus dans la [section des sujets](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) de la section inspection du panneau d'information.
 
-ou
+    ou
 
-Créez une nouvelle section de sujet en cliquant sur nouveau sujet dans la page des sujets du panneau de contenu.
+    Créez une nouvelle section de sujet en cliquant sur nouveau sujet dans la page des sujets du panneau de contenu.
 
 1. Donnez un titre au sujet et envoyez-le
 1. Notez que votre sujet aura les objets sélectionnés liés
@@ -19346,27 +19346,27 @@ A. [Menu](https://support.catenda.com/en/articles/7338516-navigation-menu-catend
 1. Configurez Clash Detective et exécutez un test de clash.
 1. Parcourez les clashes dans NW.
 
-a. Donnez des noms si nécessaire
+    a. Donnez des noms si nécessaire
 
-b. Ajustez et enregistrez les viewpoints à l'aide des commandes **Focus on clash** et **Save viewpoint**
+    b. Ajustez et enregistrez les viewpoints à l'aide des commandes **Focus on clash** et **Save viewpoint**
 
-c. Groupez ensemble les clashes de type similaire
+    c. Groupez ensemble les clashes de type similaire
 
 1. Créez un rapport sous forme de viewpoints. Activez **Preserve result highlighting**
 1. Ces viewpoints apparaissent dans l'onglet clashes du plugin
 1. Créez un problème en sélectionnant un ou plusieurs clash
 
-a. Donnez un titre au problème
+    a. Donnez un titre au problème
 
-b. Cliquez sur ajouter un problème.
+    b. Cliquez sur ajouter un problème.
 
 1. Pour obtenir une miniature significative :
 
-a. Sélectionnez clash dans Clash Detective
+    a. Sélectionnez clash dans Clash Detective
 
-b. Sélectionnez le même clash dans l'onglet **Clashes**.
+    b. Sélectionnez le même clash dans l'onglet **Clashes**.
 
-c. Cliquez sur ajouter un problème.
+    c. Cliquez sur ajouter un problème.
 
 # Téléchargement d'une nouvelle révision de document
 
@@ -24726,9 +24726,9 @@ Les filtres sont situés sur le panneau de gauche :
 
     <div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-60a1bb50b7da.png" style="height: auto;" width="3360"/></div><div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-84e66eb66553.png" style="height: auto;" width="3360"/></div>
 
-Il y a deux possibilités :
+    Il y a deux possibilités :
 
-**A.** Vous pouvez choisir un onglet dans le panneau A : Aujourd'hui, hier, il y a une semaine ...
+    **A.** Vous pouvez choisir un onglet dans le panneau A : Aujourd'hui, hier, il y a une semaine ...
 
     <div class="intercom-container"><img height="530" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-2a7e66b298c6.png" style="height: auto;" width="280"/></div>
 
@@ -24995,7 +24995,7 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreux sujets 
   Les étages des modèles qui sont exactement à une hauteur de 0m sont maintenant correctement affichés dans le menu de rotation de la configuration de géolocalisation dans les paramètres du projet.
 - **[Raccourcis] Raccourci du panneau**
 
-Les raccourcis du panneau vérifient maintenant également le numéro utilisé dans la combinaison de raccourcis, ce qui permet aux utilisateurs ayant des dispositions de clavier différentes d'utiliser également les raccourcis même si le caractère de majuscule est différent de ce qui est habituel.
+    Les raccourcis du panneau vérifient maintenant également le numéro utilisé dans la combinaison de raccourcis, ce qui permet aux utilisateurs ayant des dispositions de clavier différentes d'utiliser également les raccourcis même si le caractère de majuscule est différent de ce qui est habituel.
 
 ## 4. **Voix des utilisateurs complétées**
 
@@ -25442,7 +25442,7 @@ _Nouveaux articles :_ Catenda Hub [Bimsync est maintenant Catenda Hub](https://s
 - Le [Panneau d'arborescence](https://support.catenda.com/en/articles/4670290-the-tree-structures-in-the-ifc-models) affiche maintenant toujours le modèle correct d'un objet si cet objet est sélectionné. Auparavant, il y avait des cas où le menu d'arborescence ne se mettait pas toujours à jour vers le modèle correct
 - Il est maintenant possible d'enregistrer une sélection avec le menu des sélections dans le panneau d'inspection.
 
-Une sélection d'objets peut également être colorée. Cette sélection peut être stockée dans une capture ou un signet.
+    Une sélection d'objets peut également être colorée. Cette sélection peut être stockée dans une capture ou un signet.
 
 - Nos serveurs peuvent maintenant gérer l'[import](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) de fichiers avec beaucoup de géométrie qui auraient précédemment dépassé le délai.
 - Le [bouton 3D](https://support.catenda.com/en/articles/4670286-models-page#h_82b7400edc) reste actif à nouveau lorsque plusieurs modèles sont chargés
@@ -25672,7 +25672,7 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreux sujets 
 
 - Il est maintenant possible de définir l'ACL par modèle au lieu de pour tous les modèles.
 
-Cela signifie que vous pouvez masquer les modèles des personnes dans la section modèles.
+    Cela signifie que vous pouvez masquer les modèles des personnes dans la section modèles.
 
 - Avec les modèles en tant que documents, vous pouvez ajouter des étiquettes aux modèles.
 - Avec les modèles en tant que documents, vous pouvez structurer les modèles dans des dossiers de la section documents.
@@ -25909,7 +25909,7 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreux Sujets 
 - La transformation de rotation est maintenant xyz comme elle est censée l'être, au lieu de xyy
 - Une transformation de coordonnées y n'est plus appliquée lors de l'ajout de rotation à un modèle.
 
-Si vous appliquez maintenant une transformation avec rotation, rechargez la page et chargez à nouveau le modèle, il apparaîtra au bon endroit.
+    Si vous appliquez maintenant une transformation avec rotation, rechargez la page et chargez à nouveau le modèle, il apparaîtra au bon endroit.
 
 - La fonctionnalité 4D fonctionne à nouveau.
 
@@ -26556,9 +26556,9 @@ ShareLink envoie un e-mail de Catenda Hub aux membres du projet que vous choisis
 
 1. Sélectionnez d'abord jusqu'à 100 éléments de contenu que vous souhaitez partager.
 
-Par exemple, certains documents ou sujets.
+    Par exemple, certains documents ou sujets.
 
-Un destinataire sharelink ne verra alors que ces éléments. Si la page est partagée avec un destinataire sharelink, il verra la page entière, y compris les filtres, en fonction de son accès au projet.
+    Un destinataire sharelink ne verra alors que ces éléments. Si la page est partagée avec un destinataire sharelink, il verra la page entière, y compris les filtres, en fonction de son accès au projet.
 
 1. Cliquez sur le bouton ShareLink.
 
@@ -26604,7 +26604,7 @@ Le message e-mail peut ressembler à ceci si vous avez ajouté une capture d'éc
 
 1. Cliquez sur ce lien, Catenda Hub ouvrira une page avec les éléments partagés.
 
-ou
+    ou
 
 1. Copiez cette URL dans votre navigateur.
 

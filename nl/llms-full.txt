@@ -374,7 +374,7 @@ In [authenticatie](https://bimsync.com/account/authentication) kunt u:
 
 1. Uw wachtwoord wijzigen
 
-Klik [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) voor probleemoplossing bij wachtwoorden
+    Klik [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) voor probleemoplossing bij wachtwoorden
 
 1. [MFA inschakelen en uitschakelen.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
 
@@ -2782,7 +2782,7 @@ Als de 3D-viewer open is, is het modellaadinqmenu beschikbaar
 - De modellen die aan zijn wanneer dit menu wordt geopend, weerspiegelen de modellen die momenteel in de 3D-viewer zijn geladen. Om eenvoudig een set modellen toe te voegen of te verwijderen, kunt u een bladwijzer maken, de bladwijzer afspelen, naar de snapshot gaan, op het actiemenu ervan klikken en opslaan in het modellaadinqmenu.
 - Als een model in uw snapshot dezelfde IFCPROJECT GUID heeft als een model in de modelssectie, worden de modellen automatisch gekoppeld.
 
-Hier is een artikel van BuildingSMART waarin wordt beschreven hoe dit in Revit wordt gedaan [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
+    Hier is een artikel van BuildingSMART waarin wordt beschreven hoe dit in Revit wordt gedaan [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/08-model-picker.png)
 
@@ -4984,27 +4984,27 @@ Als u onderaan de lijst op gearchiveerd weergeven klikt, kunt u gearchiveerde on
 1. Stel Clash Detective in en voer een botsingstest uit.
 1. Ga door de botsingingen in NW.
 
-a. Geef indien nodig namen
+    a. Geef indien nodig namen
 
-b. Pas viewpoints aan en sla deze op met behulp van **Focus op clash** en **Viewpoint opslaan** opdrachten
+    b. Pas viewpoints aan en sla deze op met behulp van **Focus op clash** en **Viewpoint opslaan** opdrachten
 
-c. Groepeer soortgelijke botsingingen samen
+    c. Groepeer soortgelijke botsingingen samen
 
 1. Maak een rapport als viewpoints. Schakel **Resultaatmarkeringen behouden** in
 1. Deze viewpoints verschijnen in het tabblad clashes in de plugin
 1. Maak een issue aan door één of meer clash te selecteren
 
-a. Geef de issue een titel
+    a. Geef de issue een titel
 
-b. Klik op issue toevoegen.
+    b. Klik op issue toevoegen.
 
 1. Voor een betekenisvolle miniatuur:
 
-a. Selecteer clash in Clash Detective
+    a. Selecteer clash in Clash Detective
 
-b. Selecteer dezelfde clash in het tabblad **Clashes**.
+    b. Selecteer dezelfde clash in het tabblad **Clashes**.
 
-c. Klik op issue toevoegen.
+    c. Klik op issue toevoegen.
 
 # Catenda Archicad-plugin
 
@@ -9246,16 +9246,16 @@ Door deze [conventie](https://support.catenda.com/en/articles/7832559-naming-con
 - U hebt een streepje _( - )_ in de bestandsnaam, dus om de verschillende [blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) van elkaar te scheiden, moet u een onderstrepingsteken _( \_ )_ gebruiken als [scheidingsteken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=in%20document%20settings-,Separator,-%3A%20The%20character).
 - Deze bestanden beginnen met de datum waarop het bestand is gemaakt.
 
-Dit is handig voor u omdat, hoewel dit meestal op verschillende plaatsen staat, het visueel beter voor u is om uw bestanden alfabetisch op creatiedatum gesorteerd te hebben.
+    Dit is handig voor u omdat, hoewel dit meestal op verschillende plaatsen staat, het visueel beter voor u is om uw bestanden alfabetisch op creatiedatum gesorteerd te hebben.
 
 - Daarna volgt de naam van het bestand, die elke lengte kan hebben.
 - Aan het einde van de bestandsnaam hebt u een bepaalde status om aan te geven welke versie van het bestand u hebt.
 
-Dit gedeelte is slechts extra tekst die u gebruikt om uw bestanden lokaal uit elkaar te houden. U wilt dit gedeelte van de bestandsnaam niet zien in de Catenda Hub-documentnaam, omdat het alleen lokaal nuttig voor u is en niets te maken heeft met andere mensen in het project.
+    Dit gedeelte is slechts extra tekst die u gebruikt om uw bestanden lokaal uit elkaar te houden. U wilt dit gedeelte van de bestandsnaam niet zien in de Catenda Hub-documentnaam, omdat het alleen lokaal nuttig voor u is en niets te maken heeft met andere mensen in het project.
 
 - Tot slot hebt u besloten ervoor te zorgen dat u alleen bepaalde bestandstypes in deze map bewaart.
 
-U beperkt de bestandstypen tot IFC, PDF, DWG, SMC, PL en RVT
+    U beperkt de bestandstypen tot IFC, PDF, DWG, SMC, PL en RVT
 
 ### 1.1 **Eerste instellingen**
 
@@ -10739,11 +10739,11 @@ U kunt zien waarmee een onderwerp is gekoppeld in het [rechter paneel](https://s
 1. Laad een model in 3D en selecteer een object.
 1. Of
 
-Klik op de plusknop in de [section Onderwerpen](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) van de inspectiesectie van het informatiepaneel.
+    Klik op de plusknop in de [section Onderwerpen](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) van de inspectiesectie van het informatiepaneel.
 
-of
+    of
 
-Maak een nieuwe onderwerpsectie door op nieuw onderwerp te klikken op de onderwerppagina van het inhoudspaneel.
+    Maak een nieuwe onderwerpsectie door op nieuw onderwerp te klikken op de onderwerppagina van het inhoudspaneel.
 
 1. Geef het onderwerp een titel en dien het in
 1. Let op: uw onderwerp zal de geselecteerde objecten hebben gekoppeld
@@ -11323,17 +11323,17 @@ Beheerders kunnen configureren wie toegang heeft om topic boards te maken in het
 
 1. Onder toegangscontrole op deze pagina hebt u "Create new topic board".
 
-Klik erop.
+    Klik erop.
 
 1. Een lijst met wie kan maken en Bewerk toegang verschijnt.
    Klik op de knop Bewerk toegang.
 1. Definieer toegang voor lid(en) of team(s).
 
-Onder het lid (den) of Team (s) dat u hebt geselecteerd, verschijnt.
+    Onder het lid (den) of Team (s) dat u hebt geselecteerd, verschijnt.
 
 1. Onder toegang kiest u tussen Kan maken en Niet toegestaan.
 
-Druk op de knop Opslaan.
+    Druk op de knop Opslaan.
 
 # Mapconfiguratie - Documentinstellingen
 
@@ -12445,7 +12445,7 @@ De volgende informatie kan aan een nieuw onderwerp worden toegevoegd dat zonder 
 - Opmerkingen kunnen worden toegevoegd.
     - Afbeeldingen van Camera/foto's kunnen aan opmerkingen worden toegevoegd.
 
-    _Vereiste toegang:_ Volledige toegang tot het apparaat
+        _Vereiste toegang:_ Volledige toegang tot het apparaat
 
 - Als modellen vóór het verbreken van de verbinding met het netwerk waren geladen, kan een locatie aan een onderwerp worden toegevoegd door een markering in de 2D-weergave van die modellen te plaatsen.
 
@@ -15066,7 +15066,7 @@ Kan worden gebruikt voor topics die zijn gemaakt vanuit de algemene Topic-sectie
 1. **Beschrijving**: De resulterende topic-beschrijving na het maken van het topic vanuit de algemene topic template. Deze sectie ondersteunt de Markdown-indeling en u kunt het volledige potentieel ervan gebruiken om tekst op te maken, aangepaste headers en checklists te maken.
     Beweeg de muis over het pictogram "?" in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u alle beschikbare functies (vermeld teamgenoten en koppel bestaande topics) en variabelen (zoals `topicCreator` in het geval van de algemene topic template) kunt gebruiken.
 
-     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
 
 Nadat u klaar bent met het instellen van uw nieuwe algemene topic template, kunt u op de knop "Opslaan" rechtsonder klikken.
 
@@ -15101,7 +15101,7 @@ Kan worden gebruikt voor topics die zijn gemaakt vanuit Markups op Documenten. D
 1. **Beschrijving**: De resulterende topic-beschrijving na het maken van het topic vanuit de document topic template. Deze sectie ondersteunt de Markdown-indeling en u kunt het volledige potentieel ervan gebruiken om tekst op te maken, aangepaste headers en checklists te maken.
     Beweeg de muis over het pictogram "?" in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u alle beschikbare functies (vermeld teamgenoten en koppel bestaande topics) en variabelen (zoals `documentName`, `fileName`, `markupName` en `topicCreator` in het geval van de document topic template) kunt gebruiken.
 
-     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
 
 Nadat u klaar bent met het instellen van uw nieuwe document topic template, kunt u op de knop "Opslaan" rechtsonder klikken.
 
@@ -15140,7 +15140,7 @@ Dit zijn de verschillende acties die u moet volgen en variabelen die u kunt invo
 1. **Beschrijving**: De resulterende topic-beschrijving na het sluiten van de gekoppelde goedkeuringswerkstroom. Deze sectie ondersteunt de Markdown-indeling en u kunt het volledige potentieel ervan gebruiken om tekst op te maken, aangepaste headers en checklists te maken.
     Beweeg de muis over het pictogram "?" in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u alle beschikbare functies (vermeld teamgenoten en koppel bestaande Topics) en variabelen (zoals `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) in het geval van de goedkeurings template kunt gebruiken).
 
-     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 
 Nadat u klaar bent met het instellen van uw nieuwe goedkeurings topic template, kunt u op de knop "Opslaan" rechtsonder klikken.
 
@@ -17488,7 +17488,7 @@ Met de naamgevingsafspraak is het gewenst dat alles uniek benoemd, gecontroleerd
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-a2fc3b4afcfe.png" style="height: auto;" width="1920"/></div>
 
-Hiervoor kunt u de kolom "Naam de Revisie" weergeven, die de originele naam toont.
+    Hiervoor kunt u de kolom "Naam de Revisie" weergeven, die de originele naam toont.
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-1b1cee11c3c8.png" style="height: auto;" width="1920"/></div>
 
@@ -18639,11 +18639,11 @@ Klik [hier](https://support.catenda.com/en/articles/12495638-approval-request-do
 - **#:** geeft aan welke versie/revisie van het document in de beoordeling aanwezig is.
     - Wanneer een document aan een beoordeling wordt toegevoegd, worden de grote en kleine revisienummers ervan weergegeven, wat er als volgt uit kan zien:
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
     - Als de geselecteerde gedeelde revisie is gepubliceerd om de nieuwste gepubliceerde revisie in het document buiten het huidige beoordelingsverzoek te worden, kan dit er als volgt uitzien:
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 
 - **Stap 'x':** geeft met een balk aan wat de status van de stap is.
 - **Definitieve goedkeuring:** Deze kolom geeft de definitieve goedkeuring weer. Wanneer deze wordt geactiveerd, wordt het pictogram gekleurd.
@@ -19335,11 +19335,11 @@ _Nieuw topic_ - Een [nieuw topic](https://support.catenda.com/en/articles/467026
 - De header en beschrijving in het gekloonde topic zijn hetzelfde als in het huidige topic
 - _Documenten opnemen_
 
-Documenten die aan dit topic zijn gekoppeld, worden ook aan het gekloonde topic gekoppeld
+    Documenten die aan dit topic zijn gekoppeld, worden ook aan het gekloonde topic gekoppeld
 
 - _Inclusief gerelateerde objecten_
 
-Objecten die aan dit topic zijn gekoppeld, worden ook aan het gekloonde topic gekoppeld
+    Objecten die aan dit topic zijn gekoppeld, worden ook aan het gekloonde topic gekoppeld
 
 > **Opmerking:** Opmerkingen worden niet gekloond
 
@@ -22092,7 +22092,7 @@ Zichtbaarheid van markeringen kan worden geconfigureerd op de volgende locaties:
 1. Markeringen in de 2D-weergave weergeven/verbergen met de [2D-viewerinstellingen](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098).
    Opmerking: markeringen zijn mogelijk nog steeds niet zichtbaar als de markeringslaag is uitgeschakeld.
 
-In dit menu kan ook de markeringskleurmodus worden geconfigureerd. ([Status, Onderwerptype, Einddatum](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
+    In dit menu kan ook de markeringskleurmodus worden geconfigureerd. ([Status, Onderwerptype, Einddatum](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
 
 1. In het lagenmenu kan de markeringslaag worden in-/uitgeschakeld.
 
@@ -24905,7 +24905,7 @@ Dankzij uw waardevolle feedback hebben we veel problemen kunnen oplossen die u m
   Verdiepingen van modellen die zich precies op 0 m hoogte bevinden, worden nu correct weergegeven in het rotatiecenu van de geolocatieconfiguratie in projectinstellingen.
 - **[Snelkoppelingen] Paneel snelkoppeling**
 
-Paneelsnelkoppelingen controleren nu ook het getal dat in de snelkoppeling wordt gebruikt, waardoor gebruikers met verschillende toetsenbordindelingen de snelkoppelingen ook kunnen gebruiken, zelfs als het shift-teken anders is dan normaal.
+    Paneelsnelkoppelingen controleren nu ook het getal dat in de snelkoppeling wordt gebruikt, waardoor gebruikers met verschillende toetsenbordindelingen de snelkoppelingen ook kunnen gebruiken, zelfs als het shift-teken anders is dan normaal.
 
 ## 4. **Voltooide gebruikersstemmen**
 
@@ -25106,7 +25106,7 @@ _Nieuwe artikelen:_ Catenda Hub [Bimsync is nu Catenda Hub](https://support.cate
 - Het [Treepaneel](https://support.catenda.com/en/articles/4670290-the-tree-structures-in-the-ifc-models) toont nu altijd het juiste model van een object als dat object is geselecteerd. Eerder waren er enkele gevallen waarin het treemenu niet altijd naar het juiste model werkte
 - Het is nu mogelijk om een selectie op te slaan met het selectiemenu in het inspectpaneel.
 
-Een selectie van objecten kan ook gekleurd worden. Deze selectie kan worden opgeslagen in een snapshot of opgeslagen view.
+    Een selectie van objecten kan ook gekleurd worden. Deze selectie kan worden opgeslagen in een snapshot of opgeslagen view.
 
 - Onze servers kunnen nu de [import](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) van bestanden met veel geometrie verwerken die eerder time-out zouden hebben veroorzaakt.
 - De [3D-knop](https://support.catenda.com/en/articles/4670286-models-page#h_82b7400edc) blijft nu actief wanneer meerdere modellen zijn geladen
@@ -25665,9 +25665,9 @@ De filters bevinden zich in het linkerpaneel:
 
     <div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-60a1bb50b7da.png" style="height: auto;" width="3360"/></div><div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-84e66eb66553.png" style="height: auto;" width="3360"/></div>
 
-Er zijn twee mogelijkheden:
+    Er zijn twee mogelijkheden:
 
-**A.** Je kunt een tabblad in paneel A kiezen: Vandaag, gisteren, een week geleden ...
+    **A.** Je kunt een tabblad in paneel A kiezen: Vandaag, gisteren, een week geleden ...
 
     <div class="intercom-container"><img height="530" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-2a7e66b298c6.png" style="height: auto;" width="280"/></div>
 
@@ -26755,7 +26755,7 @@ Dankzij uw waardevolle feedback hebben we veel topics kunnen oplossen die je al 
 
 - Het is nu mogelijk om de ACL per model in te stellen in plaats van voor alle modellen.
 
-Dit betekent dat je modellen in de modellengedeelte voor mensen verborgen kunt houden.
+    Dit betekent dat je modellen in de modellengedeelte voor mensen verborgen kunt houden.
 
 - Met modellen als documenten kun je labels aan modellen toevoegen.
 - Met modellen als documenten kun je modellen in folders in de documenten-sectie structureren.
@@ -26877,7 +26877,7 @@ Dankzij jullie waardevolle feedback hebben we veel Topics kunnen aanpakken die j
 - Rotatietransformatie is nu xyz zoals het zou moeten zijn, in plaats van xyy
 - Er wordt geen y-coördinaattransformatie meer toegepast bij het toevoegen van rotatie aan een model.
 
-Als je nu een transformatie met rotatie toepast, de pagina opnieuw laadt en het model opnieuw laadt, wordt het op de juiste plaats weergegeven.
+    Als je nu een transformatie met rotatie toepast, de pagina opnieuw laadt en het model opnieuw laadt, wordt het op de juiste plaats weergegeven.
 
 - 4D-functionaliteit werkt opnieuw.
 

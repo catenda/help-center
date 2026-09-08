@@ -1216,7 +1216,7 @@ I [autentisering](https://bimsync.com/account/authentication) er det mulig å:
 
 1. Endre passordet ditt
 
-Klikk [her](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) for feilsøking av passord
+    Klikk [her](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) for feilsøking av passord
 
 1. [Aktiver og deaktiver MFA.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
 
@@ -2514,7 +2514,7 @@ Hvis 3D-visningen er åpen, vil modellastemenyen være tilgjengelig
 - Modellene som er aktivert når denne menyen åpnes, gjenspeiler modellene som er lastet inn i 3D-visningen. For å enkelt legge til/fjerne et sett med modeller, kan du lage et bokmerke, spille av bokmerket, gå til øyeblikksbildet, klikke på handlingsmenyen og trykke lagre i modellastemenyen.
 - Hvis en modell i øyeblikksbildet ditt har samme IFCPROJECT-GUID som en modell i modellseksjonen, blir modellene automatisk koblet.
 
-Her er en artikkel fra BuildingSMART som beskriver hvordan dette gjøres i Revit [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
+    Her er en artikkel fra BuildingSMART som beskriver hvordan dette gjøres i Revit [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/08-model-picker.png)
 
@@ -3983,16 +3983,16 @@ Ved å konfigurere denne [konvensjonen](https://support.catenda.com/en/articles/
 - Du har en bindestrek _( - )_ i filnavnet, så for å skille de ulike [blokkene](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) må du bruke en understrek _( \_ )_ som [separator](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=in%20document%20settings-,Separator,-%3A%20The%20character).
 - Disse filene starter med datoen da filen ble laget.
 
-Dette er nyttig for deg fordi selv om det vanligvis står dette på ulike steder, er det bare mer visuelt for deg å ha filene dine alfabetisk ordnet etter opprettelsesdato.
+    Dette er nyttig for deg fordi selv om det vanligvis står dette på ulike steder, er det bare mer visuelt for deg å ha filene dine alfabetisk ordnet etter opprettelsesdato.
 
 - Etter det vil du ha filnavnet som kan være av hvilken som helst lengde.
 - På slutten av filnavnet har du en status som indikerer hvilken versjon av filen du har.
 
-Denne delen er bare ekstra tekst du bruker til å skille filene dine lokalt. Du vil ikke se denne delen av filnavnet i Catenda Hub-dokumentnavnet da det bare er nyttig for deg lokalt og har ingenting å gjøre med andre personer i prosjektet.
+    Denne delen er bare ekstra tekst du bruker til å skille filene dine lokalt. Du vil ikke se denne delen av filnavnet i Catenda Hub-dokumentnavnet da det bare er nyttig for deg lokalt og har ingenting å gjøre med andre personer i prosjektet.
 
 - Til slutt har du bestemt deg for å sikre at du bare holder spesifikke filtyper i denne mappen.
 
-Du begrenser filtypen til IFC, PDF, DWG, SMC, PL og RVT
+    Du begrenser filtypen til IFC, PDF, DWG, SMC, PL og RVT
 
 ### 1.1 **Innledende oppsett**
 
@@ -6190,11 +6190,11 @@ Klikk [her](https://support.catenda.com/en/articles/12495638-approval-request-do
 - **#:** Viser hvilken versjon/revisjon fra dokumentet innenfor gjennomgangen.
     - Når et dokument blir lagt til en gjennomgang, vil det vise sitt hoved- og minorrevisjonsnummer som kan se slik ut:
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
     - Hvis den valgte delte revisjonen ble publisert for å bli den siste publiserte revisjonen i dokumentet utenfor den gjeldende gjennomgangsforespørselen, kan det se slik ut:
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 
 - **Trinn 'x':** Viser med en stolpe hva statusen for trinnet er.
 - **Sluttgjennomgang:** Denne kolonnen viser sluttgjennomgangen, når den er aktivert, blir ikonet farget.
@@ -7992,7 +7992,7 @@ Følgende informasjon kan legges til en ny sak som opprettes uten tilkobling til
 - Kommentarer kan legges til.
     - Bilder fra kamera/bilder kan legges til kommentarer.
 
-    _Tilgang påkrevd:_ Full tilgang til enheten
+        _Tilgang påkrevd:_ Full tilgang til enheten
 
 - Hvis modeller ble innlastet før tilkoblingen til nettverket var tapt, kan en plassering legges til en sak ved å plassere en markør i 2D-visningen av disse modellene.
 
@@ -10854,7 +10854,7 @@ Kan brukes på saker opprettet fra delen Generell sak. Her er de ulike handlinge
 1. **Beskrivelse**: Den resulterende saksbeskrivelsen etter opprettelse av saken fra den generelle saksmalenen. Denne seksjonen støtter Markdown-format og du kan bruke fullt potensial til å formatere teksten, opprette egendefinerte overskrifter og sjekklister.
     Hold musepekeren over "?" ikonet som ligger øverst til høyre på beskrivelsesfeltet for å se hvordan du kan benytte deg av alle tilgjengelige funksjoner (nevn lagkamerater og lenke til eksisterende saker) og variabler (for eksempel `topicCreator` i tilfellet med den generelle saksmalenen).
 
-     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
 
 Når du er ferdig med å sette opp den nye generelle saksmalenen din, kan du klikke på "Lagre" knappen nederst til høyre.
 
@@ -10889,7 +10889,7 @@ Kan brukes på saker opprettet fra merknader på dokumenter. Her er de ulike han
 1. **Beskrivelse**: Den resulterende saksbeskrivelsen etter opprettelse av saken fra dokumentsaksmalenen. Denne seksjonen støtter Markdown-format og du kan bruke fullt potensial til å formatere teksten, opprette egendefinerte overskrifter og sjekklister.
     Hold musepekeren over "?" ikonet som ligger øverst til høyre på beskrivelsesfeltet for å se hvordan du kan benytte deg av alle tilgjengelige funksjoner (nevn lagkamerater og lenke til eksisterende saker) og variabler (for eksempel `documentName`, `fileName`, `markupName` og `topicCreator` i tilfellet med dokumentsaksmalenen).
 
-     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
 
 Når du er ferdig med å sette opp den nye dokumentsaksmalenen din, kan du klikke på "Lagre" knappen nederst til høyre.
 
@@ -10928,7 +10928,7 @@ Her er de ulike handlingene du må følge og variablene du kan skrive inn når d
 1. **Beskrivelse**: Den resulterende saksbeskrivelsen etter avslutning av den tilknyttede gjennomgangsarbeidsflyten. Denne seksjonen støtter Markdown-format og du kan bruke fullt potensial til å formatere teksten, opprette egendefinerte overskrifter og sjekklister.
     Hold musepekeren over "?" ikonet som ligger øverst til høyre på beskrivelsesfeltet for å se hvordan du kan benytte deg av alle tilgjengelige funksjoner (nevn lagkamerater og lenke til eksisterende saker) og variabler (for eksempel `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) i tilfellet med gjennomgangssaksmalenen).
 
-     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 
 Når du er ferdig med å sette opp den nye gjennomgangssaksmalenen din, kan du klikke på "Lagre" knappen nederst til høyre.
 
@@ -11141,27 +11141,27 @@ Denne opprettelsen lager et klippeplan på toppen av det valgte objektet (veggen
 1. Definer Clash Detective og kjør en kollisjonsprøving.
 1. Gå gjennom clash-ene i NW.
 
-a. Gi navn hvis nødvendig
+    a. Gi navn hvis nødvendig
 
-b. Juster og lagre viewpoints ved hjelp av **Focus on clash** og **Save viewpoint** kommandoer
+    b. Juster og lagre viewpoints ved hjelp av **Focus on clash** og **Save viewpoint** kommandoer
 
-c. Grupper clash-ene av samme type sammen
+    c. Grupper clash-ene av samme type sammen
 
 1. Opprett en rapport som viewpoints. Slå på **Preserve result highlighting**
 1. Disse viewpoints-ene vises i clash-fanen i plugin-modulen
 1. Opprett sak ved å velge en eller flere clash
 
-a. Gi saken en tittel
+    a. Gi saken en tittel
 
-b. Klikk legg til sak.
+    b. Klikk legg til sak.
 
 1. For å få meningsfull miniatyrbilde:
 
-a. Velg clash i Clash Detective
+    a. Velg clash i Clash Detective
 
-b. Velg samme clash i **Clashes**-fanen.
+    b. Velg samme clash i **Clashes**-fanen.
 
-c. Klikk legg til sak.
+    c. Klikk legg til sak.
 
 # Kolonner på dokumentsiden
 
@@ -15947,7 +15947,7 @@ Med navnekonvensjonen er det ønsket at alt skal være unikt navngitt, kontrolle
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-a2fc3b4afcfe.png" style="height: auto;" width="1920"/></div>
 
-For å gjøre dette kan du vise kolonnen "Name de Revision", som viser det opprinnelige navnet.
+    For å gjøre dette kan du vise kolonnen "Name de Revision", som viser det opprinnelige navnet.
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-1b1cee11c3c8.png" style="height: auto;" width="1920"/></div>
 
@@ -16674,11 +16674,11 @@ _Ny sak_ - Opprett en [ny sak](https://support.catenda.com/en/articles/4670268-c
 - Hodet og beskrivelsen i den klonede saken vil være den samme som i den gjeldende saken
 - _Inkluder dokumenter_
 
-Dokumenter som er koblet til denne saken vil også være koblet til den klonede saken
+    Dokumenter som er koblet til denne saken vil også være koblet til den klonede saken
 
 - _Inkludere relaterte objekter_
 
-Objekter som er koblet til denne saken vil også være koblet til den klonede saken
+    Objekter som er koblet til denne saken vil også være koblet til den klonede saken
 
 > **Merk:** Kommentarer blir ikke klonet
 
@@ -17429,17 +17429,17 @@ Administratorer vil kunne konfigurere hvem som har tilgang til å opprette sakli
 
 1. Under tilgangskontroll på denne siden har du "Opprett ny saksliste".
 
-Klikk på det.
+    Klikk på det.
 
 1. En liste over hvem som kan opprette og Rediger tilgang vil vises.
    Klikk på Rediger tilgang-knappen.
 1. Definer tilgang for medlem(mer) eller team(s).
 
-Under medlem(mer) eller Team(s) du har valgt vil vises.
+    Under medlem(mer) eller Team(s) du har valgt vil vises.
 
 1. Under tilgang velger du mellom Kan opprette og Ikke tillatt.
 
-Trykk på lagre-knappen.
+    Trykk på lagre-knappen.
 
 # Saksmeny - Catenda Site
 
@@ -18408,11 +18408,11 @@ _Automatisk_
 1. Last inn en modell i 3D og velg et objekt.
 1. Enten
 
-Klikk plusknappen i [saker-delen](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) av inspeksjonsdelen av informasjonspanelet.
+    Klikk plusknappen i [saker-delen](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) av inspeksjonsdelen av informasjonspanelet.
 
-eller
+    eller
 
-Lag en ny sak-del ved å klikke på ny sak på saker-siden i innholdspanelet.
+    Lag en ny sak-del ved å klikke på ny sak på saker-siden i innholdspanelet.
 
 1. Gi saken en tittel og send den inn
 1. Legg merke til at saken din vil ha de valgte objektene lenket
@@ -21962,7 +21962,7 @@ Markeringssynlighet kan konfigureres på følgende steder:
 1. Vis/skjul markører i 2D-visningen med [2D-viserinnstillingene](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098).
    Merknad: Markører kan fortsatt ikke være synlige hvis markeringslaget er deaktivert.
 
-I denne menyen kan markeringsfargemodus også konfigureres. ([Status, Saktype, Frist](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
+    I denne menyen kan markeringsfargemodus også konfigureres. ([Status, Saktype, Frist](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
 
 1. I lagmenyen kan markeringslaget aktiveres/deaktiveres.
 
@@ -24511,9 +24511,9 @@ Filtrene er plassert i det venstre panelet:
 
     <div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-60a1bb50b7da.png" style="height: auto;" width="3360"/></div><div class="intercom-container"><img height="1828" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-84e66eb66553.png" style="height: auto;" width="3360"/></div>
 
-Det er to muligheter:
+    Det er to muligheter:
 
-**A.** Du kan velge en fane i panel A: I dag, i går, for en uke siden ...
+    **A.** Du kan velge en fane i panel A: I dag, i går, for en uke siden ...
 
     <div class="intercom-container"><img height="530" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t3kkh5dt/inline-2a7e66b298c6.png" style="height: auto;" width="280"/></div>
 
@@ -25149,7 +25149,7 @@ Takk for verdifulle tilbakemeldinger har vi kunne eliminere mange saker som du k
   Etasjer i modeller som er nøyaktig på 0m høyde vises nå riktig i rotasjonsmenyen for geoposisjoneringskonfigurasjonen i prosjektinnstillinger.
 - **[Snarveier] Panelsnarveien**
 
-Panelsnarveier sjekker nå også nummeret som brukes i snarveikombinasjonen, som gjør det mulig for brukere med ulike tastaturoppsetninger å også bruke snarveigjengene selv om shift-tegnet er annerledes enn vanlig.
+    Panelsnarveier sjekker nå også nummeret som brukes i snarveikombinasjonen, som gjør det mulig for brukere med ulike tastaturoppsetninger å også bruke snarveigjengene selv om shift-tegnet er annerledes enn vanlig.
 
 ## 4. **Brukerønsker fullført**
 
@@ -25356,7 +25356,7 @@ _Catenda Hub_
 - [Tre-panelet](https://support.catenda.com/en/articles/4670290-the-tree-structures-in-the-ifc-models) viser nå alltid den riktige modellen til et objekt hvis det objektet er valgt. Tidligere var det noen tilfeller der tremenyen ikke alltid oppdaterte til riktig modell
 - Det er nå mulig å lagre et utvalg med utvalgsmeny i inspeksjonspanelet.
 
-Et utvalg av objekter kan også farges. Dette utvalget kan lagres i et øyeblikksbilde eller bokmerke.
+    Et utvalg av objekter kan også farges. Dette utvalget kan lagres i et øyeblikksbilde eller bokmerke.
 
 - Serverne våre kan nå håndtere [importering](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) av filer med mye geometri som tidligere ville oppnå tidsavbrudd.
 - [3D-knappen](https://support.catenda.com/en/articles/4670286-models-page#h_82b7400edc) forblir aktiv igjen når flere modeller lastes
@@ -25586,7 +25586,7 @@ Takk for dine verdifulle tilbakemeldinger har vi kunnet rette mange saker som du
 
 - Det er nå mulig å angi ACL per modell i stedet for for alle modeller.
 
-Dette betyr at du kan skjule modeller fra personer i modellseksjonen.
+    Dette betyr at du kan skjule modeller fra personer i modellseksjonen.
 
 - Med modeller som dokumenter kan du legge til merkelapper for modeller.
 - Med modeller som dokumenter kan du strukturere modeller i mapper i dokumentseksjonen.
@@ -25708,7 +25708,7 @@ Takket være din verdifulle tilbakemelding har vi klart å fikse mange saker som
 - Rotasjonstransformasjon er nå xyz som den skal være, i stedet for xyy
 - En y-koordinattransformasjon blir ikke lenger brukt når du legger til rotasjon til en modell.
 
-Hvis du nå bruker en transformasjon med rotasjon, oppfrisker siden og laster modellen igjen, vil den vises på riktig sted.
+    Hvis du nå bruker en transformasjon med rotasjon, oppfrisker siden og laster modellen igjen, vil den vises på riktig sted.
 
 - 4D-funksjonalitet fungerer igjen.
 
@@ -26661,9 +26661,9 @@ ShareLink sender en e-post fra Catenda Hub til prosjektmedlemmene du velger, med
 
 1. Velg først opptil 100 innholdselementer du vil dele.
 
-For eksempel noen Dokumenter eller Saker.
+    For eksempel noen Dokumenter eller Saker.
 
-En ShareLink-mottaker vil da bare se disse elementene. Hvis siden deles med en ShareLink-mottaker, vil de se hele siden, inkludert Filtre, basert på deres tilgang i prosjektet.
+    En ShareLink-mottaker vil da bare se disse elementene. Hvis siden deles med en ShareLink-mottaker, vil de se hele siden, inkludert Filtre, basert på deres tilgang i prosjektet.
 
 1. Klikk på ShareLink-knappen.
 
@@ -26709,7 +26709,7 @@ E-postmeldingen kan se slik ut hvis du la til et skjermbilde:
 
 1. Klikk på denne Lenken, Catenda Hub vil åpne en side med de delte elementene.
 
-eller
+    eller
 
 1. Kopier denne URL-en til nettleseren din.
 

@@ -67,7 +67,7 @@ Markeringssynlighet kan konfigureres på følgende steder:
 1. Vis/skjul markører i 2D-visningen med [2D-viserinnstillingene](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098).
    Merknad: Markører kan fortsatt ikke være synlige hvis markeringslaget er deaktivert.
 
-I denne menyen kan markeringsfargemodus også konfigureres. ([Status, Saktype, Frist](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
+    I denne menyen kan markeringsfargemodus også konfigureres. ([Status, Saktype, Frist](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
 
 1. I lagmenyen kan markeringslaget aktiveres/deaktiveres.
 

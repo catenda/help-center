@@ -88,7 +88,7 @@ Dankzij uw waardevolle feedback hebben we veel topics kunnen oplossen die je al 
 
 - Het is nu mogelijk om de ACL per model in te stellen in plaats van voor alle modellen.
 
-Dit betekent dat je modellen in de modellengedeelte voor mensen verborgen kunt houden.
+    Dit betekent dat je modellen in de modellengedeelte voor mensen verborgen kunt houden.
 
 - Met modellen als documenten kun je labels aan modellen toevoegen.
 - Met modellen als documenten kun je modellen in folders in de documenten-sectie structureren.

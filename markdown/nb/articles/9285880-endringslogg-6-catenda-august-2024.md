@@ -58,7 +58,7 @@ Takket være din verdifulle tilbakemelding har vi klart å fikse mange saker som
 - Rotasjonstransformasjon er nå xyz som den skal være, i stedet for xyy
 - En y-koordinattransformasjon blir ikke lenger brukt når du legger til rotasjon til en modell.
 
-Hvis du nå bruker en transformasjon med rotasjon, oppfrisker siden og laster modellen igjen, vil den vises på riktig sted.
+    Hvis du nå bruker en transformasjon med rotasjon, oppfrisker siden og laster modellen igjen, vil den vises på riktig sted.
 
 - 4D-funksjonalitet fungerer igjen.
 

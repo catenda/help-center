@@ -9,16 +9,16 @@ Ved å konfigurere denne [konvensjonen](https://support.catenda.com/en/articles/
 - Du har en bindestrek _( - )_ i filnavnet, så for å skille de ulike [blokkene](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) må du bruke en understrek _( \_ )_ som [separator](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=in%20document%20settings-,Separator,-%3A%20The%20character).
 - Disse filene starter med datoen da filen ble laget.
 
-Dette er nyttig for deg fordi selv om det vanligvis står dette på ulike steder, er det bare mer visuelt for deg å ha filene dine alfabetisk ordnet etter opprettelsesdato.
+    Dette er nyttig for deg fordi selv om det vanligvis står dette på ulike steder, er det bare mer visuelt for deg å ha filene dine alfabetisk ordnet etter opprettelsesdato.
 
 - Etter det vil du ha filnavnet som kan være av hvilken som helst lengde.
 - På slutten av filnavnet har du en status som indikerer hvilken versjon av filen du har.
 
-Denne delen er bare ekstra tekst du bruker til å skille filene dine lokalt. Du vil ikke se denne delen av filnavnet i Catenda Hub-dokumentnavnet da det bare er nyttig for deg lokalt og har ingenting å gjøre med andre personer i prosjektet.
+    Denne delen er bare ekstra tekst du bruker til å skille filene dine lokalt. Du vil ikke se denne delen av filnavnet i Catenda Hub-dokumentnavnet da det bare er nyttig for deg lokalt og har ingenting å gjøre med andre personer i prosjektet.
 
 - Til slutt har du bestemt deg for å sikre at du bare holder spesifikke filtyper i denne mappen.
 
-Du begrenser filtypen til IFC, PDF, DWG, SMC, PL og RVT
+    Du begrenser filtypen til IFC, PDF, DWG, SMC, PL og RVT
 
 ### 1.1 **Innledende oppsett**
 

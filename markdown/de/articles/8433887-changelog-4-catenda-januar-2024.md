@@ -88,7 +88,7 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die du mögl
 
 - Es ist jetzt möglich, die ACL pro Modell statt für alle Modelle festzulegen.
 
-Dies bedeutet, dass du Modelle vor Personen im Modellabschnitt verbergen kannst.
+    Dies bedeutet, dass du Modelle vor Personen im Modellabschnitt verbergen kannst.
 
 - Mit Modelle als Dokumente kannst du Etiketten zu Modellen hinzufügen.
 - Mit Modelle als Dokumente kannst du Modelle in Ordnern im Abschnitt "Dokumente" strukturieren.

@@ -185,7 +185,7 @@ Dank Ihres wertvollen Feedbacks haben wir viele Probleme gelöst, die Sie mögli
   Geschosse von Modellen, die genau auf 0 m Höhe liegen, werden jetzt ordnungsgemäß im Rotationsmenü der Geolokalisierungskonfiguration in den Projekteinstellungen angezeigt.
 - **[Tastenkombinationen] Panel-Tastenkombination**
 
-Panel-Tastenkombinationen überprüfen jetzt auch die Zahl, die in der Tastenkombination verwendet wird, was es Benutzern mit unterschiedlichen Tastaturlayouts ermöglicht, die Tastenkombinationen auch dann zu verwenden, wenn das Shift-Zeichen ungewöhnlich ist.
+    Panel-Tastenkombinationen überprüfen jetzt auch die Zahl, die in der Tastenkombination verwendet wird, was es Benutzern mit unterschiedlichen Tastaturlayouts ermöglicht, die Tastenkombinationen auch dann zu verwenden, wenn das Shift-Zeichen ungewöhnlich ist.
 
 ## 4. **Abgeschlossene Benutzerstimmen**
 

@@ -86,7 +86,7 @@ Peut être utilisé sur les sujets créés à partir de la section Sujet génér
 1. **Description** : La description du sujet résultant après création du sujet à partir du gabarit de sujet général. Cette section supporte le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle.
     Survolez votre souris sur l'icône "?" située en haut à droite de la zone de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et lier les sujets existants) et les variables (telles que `topicCreator` dans le cas du gabarit de sujet général).
 
-     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
 
 Une fois que vous avez terminé la configuration de votre nouveau gabarit de sujet général, vous pouvez cliquer sur le bouton "Enregistrer" en bas à droite.
 
@@ -121,7 +121,7 @@ Peut être utilisé sur les sujets créés à partir de balisages sur les docume
 1. **Description** : La description du sujet résultant après création du sujet à partir du gabarit de sujet pour les documents. Cette section supporte le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle.
     Survolez votre souris sur l'icône "?" située en haut à droite de la zone de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et lier les sujets existants) et les variables (telles que `documentName`, `fileName`, `markupName` et `topicCreator` dans le cas du gabarit de sujet pour les documents).
 
-     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
 
 Une fois que vous avez terminé la configuration de votre nouveau gabarit de sujet pour les documents, vous pouvez cliquer sur le bouton "Enregistrer" en bas à droite.
 
@@ -160,6 +160,6 @@ Voici les différentes actions que vous devez suivre et les variables que vous p
 1. **Description** : La description du sujet résultant après la fermeture du circuit d'approbation associé. Cette section supporte le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle.
     Survolez votre souris sur l'icône "?" située en haut à droite de la zone de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et lier les sujets existants) et les variables (telles que `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) dans le cas du gabarit de sujet pour les approbations).
 
-     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 
 Une fois que vous avez terminé la configuration de votre nouveau gabarit de sujet pour les approbations, vous pouvez cliquer sur le bouton "Enregistrer" en bas à droite.

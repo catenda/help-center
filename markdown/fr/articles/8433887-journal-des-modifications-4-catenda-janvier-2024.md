@@ -88,7 +88,7 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreux sujets 
 
 - Il est maintenant possible de définir l'ACL par modèle au lieu de pour tous les modèles.
 
-Cela signifie que vous pouvez masquer les modèles des personnes dans la section modèles.
+    Cela signifie que vous pouvez masquer les modèles des personnes dans la section modèles.
 
 - Avec les modèles en tant que documents, vous pouvez ajouter des étiquettes aux modèles.
 - Avec les modèles en tant que documents, vous pouvez structurer les modèles dans des dossiers de la section documents.

@@ -57,7 +57,7 @@ Dans [authentification](https://bimsync.com/account/authentication), il est poss
 
 1. Modifier votre mot de passe
 
-Cliquez [ici](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) pour le dépannage des mots de passe
+    Cliquez [ici](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) pour le dépannage des mots de passe
 
 1. [Activer et désactiver l'AMF.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
 

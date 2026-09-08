@@ -43,11 +43,11 @@ _Neues Thema_ - Erstellen Sie ein [neues Thema](https://support.catenda.com/en/a
 - Der Header und die Beschreibung im geklonten Thema sind identisch mit dem aktuellen Thema
 - _Dokumente einbeziehen_
 
-Dokumente, die mit diesem Thema verknüpft sind, werden auch mit dem geklonten Thema verknüpft
+    Dokumente, die mit diesem Thema verknüpft sind, werden auch mit dem geklonten Thema verknüpft
 
 - _Zugehörige Objekte einbeziehen_
 
-Objekte, die mit diesem Thema verknüpft sind, werden auch mit dem geklonten Thema verknüpft
+    Objekte, die mit diesem Thema verknüpft sind, werden auch mit dem geklonten Thema verknüpft
 
 > **Hinweis:** Kommentare werden nicht geklont
 

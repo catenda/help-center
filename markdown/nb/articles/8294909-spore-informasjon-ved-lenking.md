@@ -45,11 +45,11 @@ _Automatisk_
 1. Last inn en modell i 3D og velg et objekt.
 1. Enten
 
-Klikk plusknappen i [saker-delen](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) av inspeksjonsdelen av informasjonspanelet.
+    Klikk plusknappen i [saker-delen](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) av inspeksjonsdelen av informasjonspanelet.
 
-eller
+    eller
 
-Lag en ny sak-del ved å klikke på ny sak på saker-siden i innholdspanelet.
+    Lag en ny sak-del ved å klikke på ny sak på saker-siden i innholdspanelet.
 
 1. Gi saken en tittel og send den inn
 1. Legg merke til at saken din vil ha de valgte objektene lenket

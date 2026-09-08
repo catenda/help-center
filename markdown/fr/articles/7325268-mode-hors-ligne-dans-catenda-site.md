@@ -59,7 +59,7 @@ Les informations suivantes peuvent être ajoutées à un nouveau sujet créé sa
 - Des commentaires peuvent être ajoutés.
     - Des images de l'appareil photo/photos peuvent être ajoutées aux commentaires.
 
-    _Accès requis :_ Accès complet à l'appareil
+        _Accès requis :_ Accès complet à l'appareil
 
 - Si les modèles ont été chargés avant la perte de connexion au réseau, une localisation peut être ajoutée à un sujet en plaçant un marqueur dans la vue 2D de ces modèles.
 

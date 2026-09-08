@@ -57,7 +57,7 @@ In [Authentifizierung](https://bimsync.com/account/authentication) können Sie:
 
 1. Passwort ändern
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) zur Fehlerbehebung bei Passwörtern
+    Klicken Sie [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) zur Fehlerbehebung bei Passwörtern
 
 1. [MFA aktivieren und deaktivieren.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
 

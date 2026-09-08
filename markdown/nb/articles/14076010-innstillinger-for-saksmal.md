@@ -86,7 +86,7 @@ Kan brukes på saker opprettet fra delen Generell sak. Her er de ulike handlinge
 1. **Beskrivelse**: Den resulterende saksbeskrivelsen etter opprettelse av saken fra den generelle saksmalenen. Denne seksjonen støtter Markdown-format og du kan bruke fullt potensial til å formatere teksten, opprette egendefinerte overskrifter og sjekklister.
     Hold musepekeren over "?" ikonet som ligger øverst til høyre på beskrivelsesfeltet for å se hvordan du kan benytte deg av alle tilgjengelige funksjoner (nevn lagkamerater og lenke til eksisterende saker) og variabler (for eksempel `topicCreator` i tilfellet med den generelle saksmalenen).
 
-     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
 
 Når du er ferdig med å sette opp den nye generelle saksmalenen din, kan du klikke på "Lagre" knappen nederst til høyre.
 
@@ -121,7 +121,7 @@ Kan brukes på saker opprettet fra merknader på dokumenter. Her er de ulike han
 1. **Beskrivelse**: Den resulterende saksbeskrivelsen etter opprettelse av saken fra dokumentsaksmalenen. Denne seksjonen støtter Markdown-format og du kan bruke fullt potensial til å formatere teksten, opprette egendefinerte overskrifter og sjekklister.
     Hold musepekeren over "?" ikonet som ligger øverst til høyre på beskrivelsesfeltet for å se hvordan du kan benytte deg av alle tilgjengelige funksjoner (nevn lagkamerater og lenke til eksisterende saker) og variabler (for eksempel `documentName`, `fileName`, `markupName` og `topicCreator` i tilfellet med dokumentsaksmalenen).
 
-     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
 
 Når du er ferdig med å sette opp den nye dokumentsaksmalenen din, kan du klikke på "Lagre" knappen nederst til høyre.
 
@@ -160,6 +160,6 @@ Her er de ulike handlingene du må følge og variablene du kan skrive inn når d
 1. **Beskrivelse**: Den resulterende saksbeskrivelsen etter avslutning av den tilknyttede gjennomgangsarbeidsflyten. Denne seksjonen støtter Markdown-format og du kan bruke fullt potensial til å formatere teksten, opprette egendefinerte overskrifter og sjekklister.
     Hold musepekeren over "?" ikonet som ligger øverst til høyre på beskrivelsesfeltet for å se hvordan du kan benytte deg av alle tilgjengelige funksjoner (nevn lagkamerater og lenke til eksisterende saker) og variabler (for eksempel `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) i tilfellet med gjennomgangssaksmalenen).
 
-     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 
 Når du er ferdig med å sette opp den nye gjennomgangssaksmalenen din, kan du klikke på "Lagre" knappen nederst til høyre.

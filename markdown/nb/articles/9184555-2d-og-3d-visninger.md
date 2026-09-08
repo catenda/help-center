@@ -98,7 +98,7 @@ Hvis 3D-visningen er åpen, vil modellastemenyen være tilgjengelig
 - Modellene som er aktivert når denne menyen åpnes, gjenspeiler modellene som er lastet inn i 3D-visningen. For å enkelt legge til/fjerne et sett med modeller, kan du lage et bokmerke, spille av bokmerket, gå til øyeblikksbildet, klikke på handlingsmenyen og trykke lagre i modellastemenyen.
 - Hvis en modell i øyeblikksbildet ditt har samme IFCPROJECT-GUID som en modell i modellseksjonen, blir modellene automatisk koblet.
 
-Her er en artikkel fra BuildingSMART som beskriver hvordan dette gjøres i Revit [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
+    Her er en artikkel fra BuildingSMART som beskriver hvordan dette gjøres i Revit [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/08-model-picker.png)
 

@@ -14,7 +14,7 @@ _Nieuwe artikelen:_ Catenda Hub [Bimsync is nu Catenda Hub](https://support.cate
 - Het [Treepaneel](https://support.catenda.com/en/articles/4670290-the-tree-structures-in-the-ifc-models) toont nu altijd het juiste model van een object als dat object is geselecteerd. Eerder waren er enkele gevallen waarin het treemenu niet altijd naar het juiste model werkte
 - Het is nu mogelijk om een selectie op te slaan met het selectiemenu in het inspectpaneel.
 
-Een selectie van objecten kan ook gekleurd worden. Deze selectie kan worden opgeslagen in een snapshot of opgeslagen view.
+    Een selectie van objecten kan ook gekleurd worden. Deze selectie kan worden opgeslagen in een snapshot of opgeslagen view.
 
 - Onze servers kunnen nu de [import](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) van bestanden met veel geometrie verwerken die eerder time-out zouden hebben veroorzaakt.
 - De [3D-knop](https://support.catenda.com/en/articles/4670286-models-page#h_82b7400edc) blijft nu actief wanneer meerdere modellen zijn geladen

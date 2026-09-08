@@ -58,7 +58,7 @@ Dankzij jullie waardevolle feedback hebben we veel Topics kunnen aanpakken die j
 - Rotatietransformatie is nu xyz zoals het zou moeten zijn, in plaats van xyy
 - Er wordt geen y-coördinaattransformatie meer toegepast bij het toevoegen van rotatie aan een model.
 
-Als je nu een transformatie met rotatie toepast, de pagina opnieuw laadt en het model opnieuw laadt, wordt het op de juiste plaats weergegeven.
+    Als je nu een transformatie met rotatie toepast, de pagina opnieuw laadt en het model opnieuw laadt, wordt het op de juiste plaats weergegeven.
 
 - 4D-functionaliteit werkt opnieuw.
 

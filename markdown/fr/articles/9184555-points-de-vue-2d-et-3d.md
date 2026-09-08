@@ -98,7 +98,7 @@ Si la visionneuse 3D est ouverte, le menu de chargement du modèle sera disponib
 - Les modèles qui sont activés lors de l'ouverture de ce menu reflètent les modèles actuellement chargés dans la visionneuse 3D. Pour ajouter/supprimer facilement un ensemble de modèles, vous pouvez créer un signet, lire le signet, aller à la capture, cliquer sur son menu d'action et appuyer sur Enregistrer dans le menu de chargement du modèle.
 - Si un modèle dans votre capture a le même GUID IFCPROJECT qu'un modèle dans la section des modèles, les modèles seront automatiquement liés.
 
-Voici un article de BuildingSMART qui décrit comment cela se fait dans Revit [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
+    Voici un article de BuildingSMART qui décrit comment cela se fait dans Revit [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/08-model-picker.png)
 

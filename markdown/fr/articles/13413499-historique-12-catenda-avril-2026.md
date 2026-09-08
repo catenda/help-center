@@ -185,7 +185,7 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreux sujets 
   Les étages des modèles qui sont exactement à une hauteur de 0m sont maintenant correctement affichés dans le menu de rotation de la configuration de géolocalisation dans les paramètres du projet.
 - **[Raccourcis] Raccourci du panneau**
 
-Les raccourcis du panneau vérifient maintenant également le numéro utilisé dans la combinaison de raccourcis, ce qui permet aux utilisateurs ayant des dispositions de clavier différentes d'utiliser également les raccourcis même si le caractère de majuscule est différent de ce qui est habituel.
+    Les raccourcis du panneau vérifient maintenant également le numéro utilisé dans la combinaison de raccourcis, ce qui permet aux utilisateurs ayant des dispositions de clavier différentes d'utiliser également les raccourcis même si le caractère de majuscule est différent de ce qui est habituel.
 
 ## 4. **Voix des utilisateurs complétées**
 

@@ -86,7 +86,7 @@ Kan worden gebruikt voor topics die zijn gemaakt vanuit de algemene Topic-sectie
 1. **Beschrijving**: De resulterende topic-beschrijving na het maken van het topic vanuit de algemene topic template. Deze sectie ondersteunt de Markdown-indeling en u kunt het volledige potentieel ervan gebruiken om tekst op te maken, aangepaste headers en checklists te maken.
     Beweeg de muis over het pictogram "?" in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u alle beschikbare functies (vermeld teamgenoten en koppel bestaande topics) en variabelen (zoals `topicCreator` in het geval van de algemene topic template) kunt gebruiken.
 
-     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
 
 Nadat u klaar bent met het instellen van uw nieuwe algemene topic template, kunt u op de knop "Opslaan" rechtsonder klikken.
 
@@ -121,7 +121,7 @@ Kan worden gebruikt voor topics die zijn gemaakt vanuit Markups op Documenten. D
 1. **Beschrijving**: De resulterende topic-beschrijving na het maken van het topic vanuit de document topic template. Deze sectie ondersteunt de Markdown-indeling en u kunt het volledige potentieel ervan gebruiken om tekst op te maken, aangepaste headers en checklists te maken.
     Beweeg de muis over het pictogram "?" in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u alle beschikbare functies (vermeld teamgenoten en koppel bestaande topics) en variabelen (zoals `documentName`, `fileName`, `markupName` en `topicCreator` in het geval van de document topic template) kunt gebruiken.
 
-     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
 
 Nadat u klaar bent met het instellen van uw nieuwe document topic template, kunt u op de knop "Opslaan" rechtsonder klikken.
 
@@ -160,6 +160,6 @@ Dit zijn de verschillende acties die u moet volgen en variabelen die u kunt invo
 1. **Beschrijving**: De resulterende topic-beschrijving na het sluiten van de gekoppelde goedkeuringswerkstroom. Deze sectie ondersteunt de Markdown-indeling en u kunt het volledige potentieel ervan gebruiken om tekst op te maken, aangepaste headers en checklists te maken.
     Beweeg de muis over het pictogram "?" in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u alle beschikbare functies (vermeld teamgenoten en koppel bestaande Topics) en variabelen (zoals `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) in het geval van de goedkeurings template kunt gebruiken).
 
-     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 
 Nadat u klaar bent met het instellen van uw nieuwe goedkeurings topic template, kunt u op de knop "Opslaan" rechtsonder klikken.

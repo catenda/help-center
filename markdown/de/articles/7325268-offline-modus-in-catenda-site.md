@@ -59,7 +59,7 @@ Die folgenden Informationen können zu einem neuen Thema hinzugefügt werden, da
 - Kommentare können hinzugefügt werden.
     - Bilder von Kamera/Fotos können zu Kommentaren hinzugefügt werden.
 
-    _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Gerät
+        _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Gerät
 
 - Wenn Modelle vor dem Verlust der Netzwerkverbindung geladen wurden, kann einem Thema eine Position hinzugefügt werden, indem Sie einen Marker in der 2D-Ansicht dieser Modelle platzieren.
 

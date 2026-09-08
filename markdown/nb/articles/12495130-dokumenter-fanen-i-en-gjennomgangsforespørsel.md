@@ -32,11 +32,11 @@ Klikk [her](https://support.catenda.com/en/articles/12495638-approval-request-do
 - **#:** Viser hvilken versjon/revisjon fra dokumentet innenfor gjennomgangen.
     - Når et dokument blir lagt til en gjennomgang, vil det vise sitt hoved- og minorrevisjonsnummer som kan se slik ut:
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
     - Hvis den valgte delte revisjonen ble publisert for å bli den siste publiserte revisjonen i dokumentet utenfor den gjeldende gjennomgangsforespørselen, kan det se slik ut:
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 
 - **Trinn 'x':** Viser med en stolpe hva statusen for trinnet er.
 - **Sluttgjennomgang:** Denne kolonnen viser sluttgjennomgangen, når den er aktivert, blir ikonet farget.

@@ -14,7 +14,7 @@ _Catenda Hub_
 - [Tre-panelet](https://support.catenda.com/en/articles/4670290-the-tree-structures-in-the-ifc-models) viser nå alltid den riktige modellen til et objekt hvis det objektet er valgt. Tidligere var det noen tilfeller der tremenyen ikke alltid oppdaterte til riktig modell
 - Det er nå mulig å lagre et utvalg med utvalgsmeny i inspeksjonspanelet.
 
-Et utvalg av objekter kan også farges. Dette utvalget kan lagres i et øyeblikksbilde eller bokmerke.
+    Et utvalg av objekter kan også farges. Dette utvalget kan lagres i et øyeblikksbilde eller bokmerke.
 
 - Serverne våre kan nå håndtere [importering](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) av filer med mye geometri som tidligere ville oppnå tidsavbrudd.
 - [3D-knappen](https://support.catenda.com/en/articles/4670286-models-page#h_82b7400edc) forblir aktiv igjen når flere modeller lastes

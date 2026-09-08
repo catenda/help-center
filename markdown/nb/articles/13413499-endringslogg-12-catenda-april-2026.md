@@ -185,7 +185,7 @@ Takk for verdifulle tilbakemeldinger har vi kunne eliminere mange saker som du k
   Etasjer i modeller som er nøyaktig på 0m høyde vises nå riktig i rotasjonsmenyen for geoposisjoneringskonfigurasjonen i prosjektinnstillinger.
 - **[Snarveier] Panelsnarveien**
 
-Panelsnarveier sjekker nå også nummeret som brukes i snarveikombinasjonen, som gjør det mulig for brukere med ulike tastaturoppsetninger å også bruke snarveigjengene selv om shift-tegnet er annerledes enn vanlig.
+    Panelsnarveier sjekker nå også nummeret som brukes i snarveikombinasjonen, som gjør det mulig for brukere med ulike tastaturoppsetninger å også bruke snarveigjengene selv om shift-tegnet er annerledes enn vanlig.
 
 ## 4. **Brukerønsker fullført**
 

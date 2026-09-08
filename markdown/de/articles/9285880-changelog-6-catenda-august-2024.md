@@ -58,7 +58,7 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die ihr mög
 - Rotationstransformation ist jetzt xyz, wie es sein sollte, statt xyy
 - Eine y-Koordinatentransformation wird nicht mehr angewendet, wenn eine Rotation zu einem Modell hinzugefügt wird.
 
-Wenn Sie jetzt eine Transformation mit Rotation anwenden, die Seite neuladen und das Modell erneut laden, wird es an der richtigen Stelle angezeigt.
+    Wenn Sie jetzt eine Transformation mit Rotation anwenden, die Seite neuladen und das Modell erneut laden, wird es an der richtigen Stelle angezeigt.
 
 - 4D-Funktionalität funktioniert wieder.
 

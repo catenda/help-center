@@ -45,11 +45,11 @@ U kunt zien waarmee een onderwerp is gekoppeld in het [rechter paneel](https://s
 1. Laad een model in 3D en selecteer een object.
 1. Of
 
-Klik op de plusknop in de [section Onderwerpen](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) van de inspectiesectie van het informatiepaneel.
+    Klik op de plusknop in de [section Onderwerpen](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) van de inspectiesectie van het informatiepaneel.
 
-of
+    of
 
-Maak een nieuwe onderwerpsectie door op nieuw onderwerp te klikken op de onderwerppagina van het inhoudspaneel.
+    Maak een nieuwe onderwerpsectie door op nieuw onderwerp te klikken op de onderwerppagina van het inhoudspaneel.
 
 1. Geef het onderwerp een titel en dien het in
 1. Let op: uw onderwerp zal de geselecteerde objecten hebben gekoppeld

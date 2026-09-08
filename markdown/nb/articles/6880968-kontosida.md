@@ -57,7 +57,7 @@ I [autentisering](https://bimsync.com/account/authentication) er det mulig å:
 
 1. Endre passordet ditt
 
-Klikk [her](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) for feilsøking av passord
+    Klikk [her](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) for feilsøking av passord
 
 1. [Aktiver og deaktiver MFA.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
 
