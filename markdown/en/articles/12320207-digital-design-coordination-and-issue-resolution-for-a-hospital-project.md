@@ -1,4 +1,4 @@
-# Digital Design Coordination and Issue Resolution for a Hospital Project
+# Design Coordination and Issue Resolution - Hospital
 
 > Industry: Healthcare Construction / BIM (Building Information Modeling) Persona: David, a BIM Coordinator for a large general contractor.
 
@@ -24,7 +24,7 @@ Navigating through the 3D model, David immediately spots the problem. The struct
 
 - He isolates only the clashing elements: the steel supports, the specific wall, the switchgear, and the cable tray.
 - He uses a section cut to create a clear, unobstructed view of the collision point.
-- He saves this precise state—including the camera angle, object visibility, and section cut—as a bookmark titled "**Clash: MRI Support vs. Elec Room 204**".
+- He saves this precise state, including the camera angle, object visibility, and section cut, as a bookmark titled "**Clash: MRI Support vs. Elec Room 204**".
 
 ### **3. Creating and Assigning an Actionable Issue:**
 

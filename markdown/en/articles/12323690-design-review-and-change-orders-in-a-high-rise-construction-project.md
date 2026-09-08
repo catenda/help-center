@@ -1,4 +1,4 @@
-# Design Review and Change Orders in a High-Rise Construction Project
+# Design Review and Change Orders on a High-Rise
 
 > Industry: Commercial Construction Persona: Maria, a Project Architect at a large firm.
 

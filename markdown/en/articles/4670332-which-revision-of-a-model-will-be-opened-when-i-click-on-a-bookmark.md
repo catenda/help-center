@@ -1,4 +1,4 @@
-# Which revision of a model will be opened when I click on a bookmark?
+# Which model revision does a bookmark open?
 
 The bookmark will always open the most recent revision of a model.
 

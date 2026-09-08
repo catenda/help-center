@@ -32,7 +32,7 @@ Project administrators can now edit the approval topic template option for each 
 
 ### 2.3 **Consistent column naming across Documents & Models**
 
-The "Name" column meant different things in Documents vs. Models — which was confusing for users! Now both use the same document name. The "Model Name" field sticks around, just relabeled "Short Name". Downloading from Models also now produces the same filename as downloading from Documents.
+The "Name" column meant different things in Documents vs. Models, which was confusing for users! Now both use the same document name. The "Model Name" field sticks around, just relabeled "Short Name". Downloading from Models also now produces the same filename as downloading from Documents.
 
 **Before/After comparison**
 

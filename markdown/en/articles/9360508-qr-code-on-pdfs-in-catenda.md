@@ -10,7 +10,7 @@ The QR-code assignment is done via folders, which means that each project admini
 
 These are the steps to assign the QR-code function to folders in your project;
 
-1. Under the document —> settings, go to **‘folder configuration’**
+1. Under the document > settings, go to **‘folder configuration’**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/01-setup-qr-code-on-catenda-hub.png)
 

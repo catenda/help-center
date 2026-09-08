@@ -75,7 +75,7 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [Access Control Levels](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8967083-access-control-levels.md)
 - [Access with limited screen space](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/10695677-access-with-limited-screen-space.md)
 - [Actions in the Catenda Revit Plugin](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13168755-actions-in-the-catenda-revit-plugin.md)
-- [Add context to your projects with freely accessible IGN point clouds (HD LiDAR)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12498975-add-context-to-your-projects-with-freely-accessible-ign-point-clouds-hd-lidar.md)
+- [Add free IGN point clouds (HD LiDAR) to a project](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12498975-add-context-to-your-projects-with-freely-accessible-ign-point-clouds-hd-lidar.md)
 - [Add revision to an approval request](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12495012-add-revision-to-an-approval-request.md)
 - [Add revision to an approval request - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12382093-add-revision-to-an-approval-request-legacy.md)
 - [Add to home screen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/10741601-add-to-home-screen.md)
@@ -278,7 +278,7 @@ Short videos
 
 - [Create a new approval workflow template - Short video](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12458313-create-a-new-approval-workflow-template-short-video.md)
 - [Create a topic - Short video](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6423165-create-a-topic-short-video.md): short video
-- [Create a topic board from an existing topic board - Short video](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6423271-create-a-topic-board-from-an-existing-topic-board-short-video.md)
+- [Create a topic board from an existing one - Short video](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6423271-create-a-topic-board-from-an-existing-topic-board-short-video.md)
 - [Creating a new approval workflow - Short video](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12457430-creating-a-new-approval-workflow-short-video.md)
 - [Custom fields in topic boards - Short Video](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8445601-custom-fields-in-topic-boards-short-video.md)
 - [Date filter - Short video](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6423207-date-filter-short-video.md)
@@ -304,10 +304,10 @@ Short videos
 
 Some typical Use Cases from the Industry, and how Catenda Hub can support your projects.
 
-- [Design Review and Change Orders in a High-Rise Construction Project](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12323690-design-review-and-change-orders-in-a-high-rise-construction-project.md): Industry: Commercial Construction
-Persona: Maria, a Project Architect at a large firm.
-- [Digital Design Coordination and Issue Resolution for a Hospital Project](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12320207-digital-design-coordination-and-issue-resolution-for-a-hospital-project.md): Industry: Healthcare Construction / BIM (Building Information Modeling)
+- [Design Coordination and Issue Resolution - Hospital](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12320207-digital-design-coordination-and-issue-resolution-for-a-hospital-project.md): Industry: Healthcare Construction / BIM (Building Information Modeling)
 Persona: David, a BIM Coordinator for a large general contractor.
+- [Design Review and Change Orders on a High-Rise](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12323690-design-review-and-change-orders-in-a-high-rise-construction-project.md): Industry: Commercial Construction
+Persona: Maria, a Project Architect at a large firm.
 - [Document Review in Approval Workflow](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12628468-document-review-in-approval-workflow.md)
 - [Final Approval Decisions Made Easy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12629484-final-approval-decisions-made-easy.md)
 - [Managing Approvals as Administrator](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12620829-managing-approvals-as-administrator.md)
@@ -340,10 +340,9 @@ Available options include Desktop Connector sync, PDF/A report creation, access 
 - [How can I find which model an object belongs to?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670329-how-can-i-find-which-model-an-object-belongs-to.md)
 - [How can I invite a member?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670319-how-can-i-invite-a-member.md)
 - [How can I link a document to an object in Catenda Hub?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670322-how-can-i-link-a-document-to-an-object-in-catenda-hub.md)
-- [How can I make one model show fully, while making all other models semi-transparent?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670328-how-can-i-make-one-model-show-fully-while-making-all-other-models-semi-transparent.md)
 - [How can I remove a group connected to a label?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670316-how-can-i-remove-a-group-connected-to-a-label.md)
 - [How can I show spaces in Catenda Hub?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670315-how-can-i-show-spaces-in-catenda-hub.md)
-- [I have a large IFC file. Should I use Solibri Optimizer before uploading the files to Catenda Hub?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670325-i-have-a-large-ifc-file-should-i-use-solibri-optimizer-before-uploading-the-files-to-catenda-hub.md)
+- [How do I make other models semi-transparent?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670328-how-can-i-make-one-model-show-fully-while-making-all-other-models-semi-transparent.md)
 - [Is it possible to give a user read-only rights?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670330-is-it-possible-to-give-a-user-read-only-rights.md)
 - [Limiting filter results](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8551755-limiting-filter-results.md)
 - [Network recommendation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13927294-network-recommendation.md)
@@ -352,6 +351,7 @@ Available options include Desktop Connector sync, PDF/A report creation, access 
 - [Project Security](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8263256-project-security.md)
 - [Resizing of columns](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6887350-resizing-of-columns.md)
 - [Saving and sharing a filter link](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11401493-saving-and-sharing-a-filter-link.md)
+- [Should I run Solibri Optimizer on a large IFC file?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670325-i-have-a-large-ifc-file-should-i-use-solibri-optimizer-before-uploading-the-files-to-catenda-hub.md)
 - [Sorting order of lists](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8487788-sorting-order-of-lists.md)
 - [Status Workflow - API Updates](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12289689-status-workflow-api-updates.md): Introducing API changes of the new Status Workflow feature, where we diffentiate between shared and published status in accordance with ISO 19650. This article is targeting customers and integration partners using the Catenda API.
 - [Structuring documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8542598-structuring-documents.md)
@@ -365,8 +365,8 @@ Available options include Desktop Connector sync, PDF/A report creation, access 
 - [What is a CDE (Common Data Environment)?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6062310-what-is-a-cde-common-data-environment.md)
 - [Where can I find the GUID for the IFC-object?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670333-where-can-i-find-the-guid-for-the-ifc-object.md)
 - [Where to find notifications](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670261-where-to-find-notifications.md)
-- [Which revision of a model will be opened when I click on a bookmark?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670332-which-revision-of-a-model-will-be-opened-when-i-click-on-a-bookmark.md)
-- [Why am I still not receiving notifications after checking all the boxes?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670318-why-am-i-still-not-receiving-notifications-after-checking-all-the-boxes.md)
+- [Which model revision does a bookmark open?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670332-which-revision-of-a-model-will-be-opened-when-i-click-on-a-bookmark.md)
+- [Why am I not receiving notifications?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670318-why-am-i-still-not-receiving-notifications-after-checking-all-the-boxes.md)
 
 ## Recent Updates 🎉
 
@@ -428,8 +428,8 @@ Login Issues, performance problems, support etc.
 - [Catenda Revit Plugin Troubleshooting](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/14301534-catenda-revit-plugin-troubleshooting.md)
 - [Catenda Site - Troubleshooting](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11926914-catenda-site-troubleshooting.md)
 - [Custom field content troubleshooting](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13750419-custom-field-content-troubleshooting.md)
+- [Desktop Connector - not all folders downloaded](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13772277-desktop-connector-troubleshooting-not-all-folders-have-been-downloaded.md)
 - [Desktop Connector troubleshooting](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11019637-desktop-connector-troubleshooting.md)
-- [Desktop Connector Troubleshooting - Not all folders have been downloaded](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13772277-desktop-connector-troubleshooting-not-all-folders-have-been-downloaded.md)
 - [Document Preview Troubleshooting](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13962654-document-preview-troubleshooting.md)
 - [Document settings troubleshooting](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12521958-document-settings-troubleshooting.md)
 - [Home-screen system-browser support](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/10774300-home-screen-system-browser-support.md)

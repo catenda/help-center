@@ -22,7 +22,7 @@ Click the "Define access for" dropdown to select participants for which access s
 
 ### 1.1 **1.1 Recommended workflow**
 
-Set access **per team rather than per user**. Roles change often, and team-based access stays flexible: a member added to a team gets the right access as soon as they join the project. A common pattern is to set "all users" to no access — so new, not-yet-assigned members can't see sensitive information — then grant access to each team as needed.
+Set access **per team rather than per user**. Roles change often, and team-based access stays flexible: a member added to a team gets the right access as soon as they join the project. A common pattern is to set "all users" to no access, so new, not-yet-assigned members can't see sensitive information. You then grant access to each team as needed.
 
 Click [here](https://support.catenda.com/en/articles/15644094-how-catenda-calculates-access-levels) to read more about how the different participant roles stack up against eachother.
 

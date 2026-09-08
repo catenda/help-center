@@ -1,4 +1,4 @@
-# Desktop Connector Troubleshooting - Not all folders have been downloaded
+# Desktop Connector - not all folders downloaded
 
 In this article information about a specific error that occur when using the [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) can be found. See [here](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) for other Desktop connector troubleshooting issues.
 
@@ -94,7 +94,7 @@ If the Desktop Connector is told to use one of these shortcuts while the target 
 
 The `_restricted` Folder is only created if the folder is "physically" there but "locked" (like a doorway to a room that is bolted shut). In that case, the program can see the door and decides to build a new one (`_restricted`) next to it.
 
-In the case of the missing pathway it is different. The folder is no longer there or the "signpost"(symbolic link) that was selected is pointing to an empty location. To the program, it’s not just locked—the entire "room" is missing from the building. Because there is no "doorway" to start with, the program cannot create a `_restricted` version and must stop.
+In the case of the missing pathway it is different. The folder is no longer there or the "signpost"(symbolic link) that was selected is pointing to an empty location. To the program, it’s not just locked. The entire "room" is missing from the building. Because there is no "doorway" to start with, the program cannot create a `_restricted` version and must stop.
 
 ## 3. **Missing mount point**
 

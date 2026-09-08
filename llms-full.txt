@@ -4012,7 +4012,7 @@ After signing out the Sign in page is displayed where the same account or a diff
 
 After signing in again the first project in the project list will be displayed. Select a project in the projects list again to navigate a different project.
 
-# Add context to your projects with freely accessible IGN point clouds (HD LiDAR)
+# Add free IGN point clouds (HD LiDAR) to a project
 
 As part of the [national LiDAR HD program](https://geoservices.ign.fr/lidarhd), the IGN produces and distributes 3D mapping of the entire ground and surface of France in LiDAR data. The data distributed are in particular recalibrated point clouds, raw or classified, and 3D digital models (DEM, DSM, MNH, etc.). It is possible with free and open source tools to transform the IGN point clouds (published in `.laz` and Lambert 93 formats) into .las or .e57 format (readable in our 3D viewer) and into the Reference Coordinate System (RCS) corresponding to your project.
 
@@ -4928,7 +4928,7 @@ If any required field is incomplete when attempting to save a new workflow, the 
 - **2.1.1 Workflow Title**<br>A unique, descriptive name for the workflow.
 - **2.1.2 Submitter Teams**<br>At least one project team assigned to launch approval requests.
 - **2.1.3 Review Steps**<br>At least one review step containing an assigned reviewer team and a duration of at least **1 working day**.
-- **2.1.4 Final Approval**<br>An assigned final review team alongside two active project document statuses—one mapped for approved revisions and one for rejected revisions.
+- **2.1.4 Final Approval**<br>An assigned final review team alongside two active project document statuses: one mapped for approved revisions and one for rejected revisions.
 
 ### 2.2 **2.2 System Limits & Team Membership Rules**
 
@@ -5002,9 +5002,9 @@ When project settings or team memberships change while approval requests are act
 
 Project members can be added to or removed from workflow teams on the **Project Teams** page at any time without editing the workflow template itself.
 
-**5.1.1 Submitter Team Members** Adding a user to a submitter team lets them create new requests going forward. However, submitter team membership never grants shared visibility into requests created by teammates—access to a submitted request remains strictly personal to the individual creator.
+**5.1.1 Submitter Team Members** Adding a user to a submitter team lets them create new requests going forward. However, submitter team membership never grants shared visibility into requests created by teammates. Access to a submitted request remains strictly personal to the individual creator.
 
-**5.1.2 Reviewer Team Members** Adding a user to a reviewer team immediately grants them access to active approval requests currently at that review step. Removing all members from a reviewer team will freeze ongoing requests at that step until a new member is added—unless **auto-approve** is enabled for that step, in which case the request will automatically approve and advance when the step deadline passes.
+**5.1.2 Reviewer Team Members** Adding a user to a reviewer team immediately grants them access to active approval requests currently at that review step. Removing all members from a reviewer team will freeze ongoing requests at that step until a new member is added, unless **auto-approve** is enabled for that step, in which case the request will automatically approve and advance when the step deadline passes.
 
 **5.1.3 Final Reviewer Team Members** Adding a user to a final reviewer team immediately grants them access to render final decisions on active requests reaching the final approval step. Removing all members from a final reviewer team freezes ongoing requests at the final step until a user is added (auto-approve is not available for final review steps).
 
@@ -11191,7 +11191,7 @@ Click the "Define access for" dropdown to select participants for which access s
 
 ### 1.1 **1.1 Recommended workflow**
 
-Set access **per team rather than per user**. Roles change often, and team-based access stays flexible: a member added to a team gets the right access as soon as they join the project. A common pattern is to set "all users" to no access — so new, not-yet-assigned members can't see sensitive information — then grant access to each team as needed.
+Set access **per team rather than per user**. Roles change often, and team-based access stays flexible: a member added to a team gets the right access as soon as they join the project. A common pattern is to set "all users" to no access, so new, not-yet-assigned members can't see sensitive information. You then grant access to each team as needed.
 
 Click [here](https://support.catenda.com/en/articles/15644094-how-catenda-calculates-access-levels) to read more about how the different participant roles stack up against eachother.
 
@@ -11245,7 +11245,7 @@ An explicit individual assignment serves as the absolute final authority in Cate
 
 ### 1.1 **1.1 From least to most access**
 
-<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; padding: 8px;"><p><b>Access Level</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>What it allows</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Default for</b></p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>No access</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Prevents visibility, interaction and navigation to subfolders.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>—</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Read</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Minimum privilege to see and download content; no changing operations</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>—</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Write</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Edit and modify, e.g. rename and move files you uploaded yourself</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Single user / all users / team default</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Full access</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Control every aspect of the object including permission management. </p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Administrator and owner default</p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; padding: 8px;"><p><b>Access Level</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>What it allows</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Default for</b></p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>No access</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Prevents visibility, interaction and navigation to subfolders.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Not applicable</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Read</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Minimum privilege to see and download content; no changing operations</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Not applicable</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Write</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Edit and modify, e.g. rename and move files you uploaded yourself</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Single user / all users / team default</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Full access</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Control every aspect of the object including permission management. </p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Administrator and owner default</p></td></tr></tbody></table></div>
 
 ### 1.2 **1.2 Understanding the Access Levels by Functional Weight**
 
@@ -11263,7 +11263,7 @@ While these options appear in a linear sequence within the user interface, they 
 
 **Overwrites Everything** When a specific individual user is assigned a permission tier directly, that setting becomes the absolute final authority.
 
-It completely cancels out and replaces any permissions that user would otherwise inherit from the **All Users** baseline, their **Team memberships**, or their status as an **Item Owner**. If a named individual setting is configured, that tier is applied exactly as selected—even if it downgrades their access to **No Access**.
+It completely cancels out and replaces any permissions that user would otherwise inherit from the **All Users** baseline, their **Team memberships**, or their status as an **Item Owner**. If a named individual setting is configured, that tier is applied exactly as selected, even if it downgrades their access to **No Access**.
 
 ### 2.3 **2.3 Inherited Permissions & Owner Status (Highest Access Wins)**
 
@@ -14109,15 +14109,15 @@ When validation indications are submitted for all documents the approval request
 
 ### 4.1 Columns in the step overview table
 
-**_Team_ —** Names of reviewer teams that are configured for this approval step in the workflow selected for this approval request.
+**_Team_:** Names of reviewer teams that are configured for this approval step in the workflow selected for this approval request.
 
-**_Pending_ —** The amount of documents where a reviewer team member has not yet submitted a validation indication on behalf of the reviewer team in this approval request step.
+**_Pending_:** The amount of documents where a reviewer team member has not yet submitted a validation indication on behalf of the reviewer team in this approval request step.
 
 **_Under review –_** _The amount of documents that is Approved or rejected but not yes submitted. When not not submitted but available for submitting the button ‘submit’ is darkgreen._
 
-**_Sumitted_ —** The amount of approved indications that have been submitted by a reviewer team member on behalf of a reviewer team in this approval request step.
+**_Sumitted_:** The amount of approved indications that have been submitted by a reviewer team member on behalf of a reviewer team in this approval request step.
 
-**_Team Progress_ —** The progress of validation indications that have been submitted by a reviewer team member on behalf of a reviewer team in this approval request step.
+**_Team Progress_:** The progress of validation indications that have been submitted by a reviewer team member on behalf of a reviewer team in this approval request step.
 
 ## 5. Approval request result
 
@@ -14922,7 +14922,7 @@ The QR-code assignment is done via folders, which means that each project admini
 
 These are the steps to assign the QR-code function to folders in your project;
 
-1. Under the document —> settings, go to **‘folder configuration’**
+1. Under the document > settings, go to **‘folder configuration’**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/01-setup-qr-code-on-catenda-hub.png)
 
@@ -20504,7 +20504,7 @@ You have successfully created a new approval workflow template with multiple rev
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/avtwdp7h/01-intro.gif)
 
-# Create a topic board from an existing topic board - Short video
+# Create a topic board from an existing one - Short video
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/mdgcstcf/01-intro.gif)
 
@@ -20934,7 +20934,55 @@ Click [here](https://support.catenda.com/en/articles/5744548-sharepoint-library)
 
 [YouTube video](https://www.youtube.com/embed/-7H27wDITlY?rel=0)
 
-# Design Review and Change Orders in a High-Rise Construction Project
+# Design Coordination and Issue Resolution - Hospital
+
+> Industry: Healthcare Construction / BIM (Building Information Modeling) Persona: David, a BIM Coordinator for a large general contractor.
+
+**Scenario:** David is managing the digital construction model for a new hospital wing. This is a highly complex project involving dozens of specialized teams. The architectural, structural, and MEP (Mechanical, Electrical, Plumbing) models are constantly being updated by different consulting firms. David's primary responsibility is to federate (combine) these models in Catenda Hub to identify and resolve clashes _before_ they become expensive problems on the construction site.
+
+During his weekly coordination check, he needs to investigate a potential critical issue flagged by the site manager: the support structure for a large MRI machine on the second floor may not align with the latest architectural and electrical plans.
+
+**Solution using Catenda Hub:** David uses a precise workflow within Catenda Hub to manage this complex coordination task efficiently.
+
+### **1. Centralizing the Data on the 'Models' Page:**
+
+First, David navigates to the **Models page**. Here, he can see all the latest IFC models uploaded by the various teams, each with its revision number and status. He selects the relevant models for the area of concern:
+
+- ARCH-Hospital-Wing-rev04.ifc
+- STRUCT-MRI-Support-rev02.ifc
+- MEP-Elec-Room204-rev05.ifc
+
+He opens all three in the federated **3D Viewer**. The platform combines them into a single, navigable digital twin of that section of the hospital.
+
+### **2. Identifying the Clash and Creating a 'Bookmark':**
+
+Navigating through the 3D model, David immediately spots the problem. The structural steel supports for the MRI machine are penetrating a wall where the architects have now placed a main electrical switchgear room. Furthermore, the floor penetration for the machine's cooling pipes conflicts with a newly routed cable tray. To communicate this complex, multi-part issue clearly, a simple screenshot won't do. Instead, David uses the **Bookmarks** feature:
+
+- He isolates only the clashing elements: the steel supports, the specific wall, the switchgear, and the cable tray.
+- He uses a section cut to create a clear, unobstructed view of the collision point.
+- He saves this precise state, including the camera angle, object visibility, and section cut, as a bookmark titled "**Clash: MRI Support vs. Elec Room 204**".
+
+### **3. Creating and Assigning an Actionable Issue:**
+
+With the bookmark created, David creates an **Issue** (or "Topic" in Catenda Hub). In the issue description, he writes: "@Architects, @Structural, @MEP - We have a critical clash between the MRI support structure and the revised electrical room layout. The attached bookmark shows the exact location and elements involved. Structural needs to confirm if the supports can be moved, and MEP needs to verify a new route for the cable tray. Please provide a solution by EOD Friday." He links the issue directly to the bookmark he just created.
+
+### **4. Driving Collaborative Resolution:**
+
+The lead architect, structural engineer, and MEP coordinator receive an instant notification. When they click the link in the issue, Catenda Hub opens the 3D model and takes them to the **exact view David saved in the bookmark**. There is no ambiguity or time wasted trying to find the problem. They use the issue's comment section to discuss solutions. The architect confirms the electrical room's position is fixed. The structural engineer runs a quick analysis and proposes a revised support design, attaching a sketch. The MEP coordinator confirms they can re-route the cable tray.
+
+### **Outcome and Benefits:**
+
+By leveraging the Models and Bookmarks pages, David transformed a potentially chaotic and costly problem into a structured, traceable, and quickly resolved issue.
+
+- **Absolute Clarity:** The bookmark provided a "single source of truth" for the problem, eliminating any misinterpretation that could arise from emails or phone calls.
+- **Significant Time Savings:** The project stakeholders resolved the issue in a few hours of digital collaboration, saving days or even weeks compared to traditional methods of sending files back and forth.
+- **Cost Avoidance:** Identifying this clash digitally prevented the massive costs of on-site demolition, rework, and project delays that would have occurred if the steel had been erected in the wrong place.
+
+### **Improved Accountability:**
+
+The entire discovery, communication, and resolution process is documented in a single issue, creating a clear audit trail for the project record.
+
+# Design Review and Change Orders on a High-Rise
 
 > Industry: Commercial Construction Persona: Maria, a Project Architect at a large firm.
 
@@ -20982,54 +21030,6 @@ By using Catenda Hub's document preview, annotation, and PDF compare features, M
 ### **Enhanced Clarity:**
 
 Annotations are made directly on the relevant documents, providing precise visual context that is far clearer than text descriptions alone. All stakeholders, from the design office to the field, are looking at the same information.
-
-# Digital Design Coordination and Issue Resolution for a Hospital Project
-
-> Industry: Healthcare Construction / BIM (Building Information Modeling) Persona: David, a BIM Coordinator for a large general contractor.
-
-**Scenario:** David is managing the digital construction model for a new hospital wing. This is a highly complex project involving dozens of specialized teams. The architectural, structural, and MEP (Mechanical, Electrical, Plumbing) models are constantly being updated by different consulting firms. David's primary responsibility is to federate (combine) these models in Catenda Hub to identify and resolve clashes _before_ they become expensive problems on the construction site.
-
-During his weekly coordination check, he needs to investigate a potential critical issue flagged by the site manager: the support structure for a large MRI machine on the second floor may not align with the latest architectural and electrical plans.
-
-**Solution using Catenda Hub:** David uses a precise workflow within Catenda Hub to manage this complex coordination task efficiently.
-
-### **1. Centralizing the Data on the 'Models' Page:**
-
-First, David navigates to the **Models page**. Here, he can see all the latest IFC models uploaded by the various teams, each with its revision number and status. He selects the relevant models for the area of concern:
-
-- ARCH-Hospital-Wing-rev04.ifc
-- STRUCT-MRI-Support-rev02.ifc
-- MEP-Elec-Room204-rev05.ifc
-
-He opens all three in the federated **3D Viewer**. The platform combines them into a single, navigable digital twin of that section of the hospital.
-
-### **2. Identifying the Clash and Creating a 'Bookmark':**
-
-Navigating through the 3D model, David immediately spots the problem. The structural steel supports for the MRI machine are penetrating a wall where the architects have now placed a main electrical switchgear room. Furthermore, the floor penetration for the machine's cooling pipes conflicts with a newly routed cable tray. To communicate this complex, multi-part issue clearly, a simple screenshot won't do. Instead, David uses the **Bookmarks** feature:
-
-- He isolates only the clashing elements: the steel supports, the specific wall, the switchgear, and the cable tray.
-- He uses a section cut to create a clear, unobstructed view of the collision point.
-- He saves this precise state—including the camera angle, object visibility, and section cut—as a bookmark titled "**Clash: MRI Support vs. Elec Room 204**".
-
-### **3. Creating and Assigning an Actionable Issue:**
-
-With the bookmark created, David creates an **Issue** (or "Topic" in Catenda Hub). In the issue description, he writes: "@Architects, @Structural, @MEP - We have a critical clash between the MRI support structure and the revised electrical room layout. The attached bookmark shows the exact location and elements involved. Structural needs to confirm if the supports can be moved, and MEP needs to verify a new route for the cable tray. Please provide a solution by EOD Friday." He links the issue directly to the bookmark he just created.
-
-### **4. Driving Collaborative Resolution:**
-
-The lead architect, structural engineer, and MEP coordinator receive an instant notification. When they click the link in the issue, Catenda Hub opens the 3D model and takes them to the **exact view David saved in the bookmark**. There is no ambiguity or time wasted trying to find the problem. They use the issue's comment section to discuss solutions. The architect confirms the electrical room's position is fixed. The structural engineer runs a quick analysis and proposes a revised support design, attaching a sketch. The MEP coordinator confirms they can re-route the cable tray.
-
-### **Outcome and Benefits:**
-
-By leveraging the Models and Bookmarks pages, David transformed a potentially chaotic and costly problem into a structured, traceable, and quickly resolved issue.
-
-- **Absolute Clarity:** The bookmark provided a "single source of truth" for the problem, eliminating any misinterpretation that could arise from emails or phone calls.
-- **Significant Time Savings:** The project stakeholders resolved the issue in a few hours of digital collaboration, saving days or even weeks compared to traditional methods of sending files back and forth.
-- **Cost Avoidance:** Identifying this clash digitally prevented the massive costs of on-site demolition, rework, and project delays that would have occurred if the steel had been erected in the wrong place.
-
-### **Improved Accountability:**
-
-The entire discovery, communication, and resolution process is documented in a single issue, creating a clear audit trail for the project record.
 
 # Document Review in Approval Workflow
 
@@ -21635,7 +21635,7 @@ This article was generated by prompting our AI support agent. The prompt provide
 
 ## 1. **Meet Lena Tran, Senior Drafting Coordinator**
 
-This guide is for document submitters like Lena Tran, Senior Drafting Coordinator on a multi-storey community center project. She prepares documents on pedestrian access, bus routes, and construction schedules—ensuring they’re clear for contractors, planners, and owners.
+This guide is for document submitters like Lena Tran, Senior Drafting Coordinator on a multi-storey community center project. She prepares documents on pedestrian access, bus routes, and construction schedules, ensuring they’re clear for contractors, planners, and owners.
 
 ## 2. **Why approvals matter**
 
@@ -21643,7 +21643,7 @@ Approvals ensure that only accurate, reviewed documents are published and used o
 
 _Preventing real-world errors_ is the core purpose of the approval process. Unverified documents can result in construction mistakes that impact safety and scheduling.
 
-_Ensuring stakeholder agreement_ means everyone—from planners to contractors—signs off before work begins.
+_Ensuring stakeholder agreement_ means everyone, from planners to contractors, signs off before work begins.
 
 _Supporting project success_ relies on clear, traceable documentation that everyone can trust.
 
@@ -21661,7 +21661,7 @@ _Client representatives_ verify that deliverables align with project goals and s
 
 Lena begins the approval process by navigating to Documents > Approvals or right-clicking a document in the system. This opens the workflow selection interface.
 
-_Selecting the correct workflow_—such as “Public Access Review”—ensures the right reviewers are involved.
+_Selecting the correct workflow_, such as “Public Access Review”, ensures the right reviewers are involved.
 
 _Adding shared revisions_ allows up to 1,000 document versions to be included in a single request.
 
@@ -21799,7 +21799,7 @@ You are a Lead BIM Coordinator responsible for high-intensity, multi-disciplinar
 
 ### 7.2 **Experience**
 
-You are a master of data analysis and automation within the Catenda ecosystem. You understand that when managing thousands of Topics, manual counting is a "silent tax" that leads to errors. You excel at leveraging metadata, advanced filters, and specialized tools—like the Reports Page and Power BI Connector—to transform technical collisions into clear, actionable insights for project leadership.
+You are a master of data analysis and automation within the Catenda ecosystem. You understand that when managing thousands of Topics, manual counting is a "silent tax" that leads to errors. You excel at leveraging metadata, advanced filters, and specialized tools, like the Reports Page and Power BI Connector, to transform technical collisions into clear, actionable insights for project leadership.
 
 ### 7.3 **Goal**
 
@@ -21819,7 +21819,7 @@ The project is entering a critical coordination phase with thousands of synchron
 
 **The Reports Page for Multi-Board Reporting** You utilize the Reports-page, an opt-in feature that allows you to create custom template reports for both topics and documents. This is essential because it can export Topics from multiple topic boards simultaneously. You use the report editor to manage these templates and track every revision for a complete history.
 
-**The Catenda Power BI Connector** For deep data analysis, you link the Catenda Hub database directly with Power BI. You fetch full datasets—including Topics, Topic Statuses, and Labels—to build interactive dashboards. This allows you to perform advanced calculations to isolate specific buffer-zone clashes and track their aging over time.
+**The Catenda Power BI Connector** For deep data analysis, you link the Catenda Hub database directly with Power BI. You fetch full datasets, including Topics, Topic Statuses, and Labels, to build interactive dashboards. This allows you to perform advanced calculations to isolate specific buffer-zone clashes and track their aging over time.
 
 **Advanced Filtering and Labels** You establish a rigid labeling system for clash severity. You then use the search and filter options on the Reports-page or within Power BI to isolate these specific groups for your weekly metrics.
 
@@ -22685,15 +22685,6 @@ Click [here](https://support.catenda.com/en/articles/4670263-invite-members-page
 1. Select one (or more) documents by clicking the checkmark-boxes to the left of each of them
 1. Click the “Link” button that appears on the right part of the document view.
 
-# How can I make one model show fully, while making all other models semi-transparent?
-
-1. Open all models in the 3D-viewer
-1. Open the tree-panel (shortcut is shift-3).
-1. Select the model you want to look at (“isolate”), and click the top node of that list. This makes all elements in this model selected.
-1. Right click on the top-node and select “Isolate”. All objects in this model will now show fully, while all objects from other models will be semi-transparent.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/94ar7fry/01-intro.png)
-
 # How can I remove a group connected to a label?
 
 You can remove a group from a label by: 1\. Select the label using the checkbox to the left of the label. 2\. Then press "Set group" 3\. Select "Remove group" 4\. Update
@@ -22706,15 +22697,14 @@ To show spaces in Catenda Hub you need to select this button.
 
 ![mceclip0.png](https://raw.githubusercontent.com/catenda/help-center/main/images/9fxwe6v5/01-intro.png)
 
-# I have a large IFC file. Should I use Solibri Optimizer before uploading the files to Catenda Hub?
+# How do I make other models semi-transparent?
 
-The answer is no. If your file becomes large its better to just [zip the files before uploading](https://support.bimsync.com/hc/en-us/articles/360009995879) instead. Solibri Optimizer will in some cases corrupt the file so it doesn't pass through the various import steps in Catenda Hub. An optimize file will not become quicker to browse in Catenda Hub as we will store information in optimized formats regardless of the state of the file on import.
+1. Open all models in the 3D-viewer
+1. Open the tree-panel (shortcut is shift-3).
+1. Select the model you want to look at (“isolate”), and click the top node of that list. This makes all elements in this model selected.
+1. Right click on the top-node and select “Isolate”. All objects in this model will now show fully, while all objects from other models will be semi-transparent.
 
-If you have a file that fails on upload please check the file header for traces of Solibri Optimizer (open in notepad or similar and look at the first 10 lines of the file header) If the failing file is optimized please try with the original file instead.
-
-![mceclip0.png](https://raw.githubusercontent.com/catenda/help-center/main/images/p8sgh6tt/01-intro.png)
-
-(this file has been through the Solibri Optimizer)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/94ar7fry/01-intro.png)
 
 # Is it possible to give a user read-only rights?
 
@@ -23089,6 +23079,16 @@ By directing project members to the link in the links library they can find the 
 ### 4.2 **Make project filters discoverable**
 
 By linking links library elements to topics and objects different filters can be discovered by project members saving you the trouble of having to notify them about their existance.
+
+# Should I run Solibri Optimizer on a large IFC file?
+
+The answer is no. If your file becomes large its better to just [zip the files before uploading](https://support.bimsync.com/hc/en-us/articles/360009995879) instead. Solibri Optimizer will in some cases corrupt the file so it doesn't pass through the various import steps in Catenda Hub. An optimize file will not become quicker to browse in Catenda Hub as we will store information in optimized formats regardless of the state of the file on import.
+
+If you have a file that fails on upload please check the file header for traces of Solibri Optimizer (open in notepad or similar and look at the first 10 lines of the file header) If the failing file is optimized please try with the original file instead.
+
+![mceclip0.png](https://raw.githubusercontent.com/catenda/help-center/main/images/p8sgh6tt/01-intro.png)
+
+(this file has been through the Solibri Optimizer)
 
 # Sorting order of lists
 
@@ -24047,13 +24047,13 @@ The notification system is useful for keeping track of what happens in the build
 
 **Notification settings:** Settings for notifications are possible to find as a sub-page to Notifications. Here you will find a filter list for what notifications you want to receive. <a class="intercom-content-link" href="" target="_blank">See here</a>
 
-# Which revision of a model will be opened when I click on a bookmark?
+# Which model revision does a bookmark open?
 
 The bookmark will always open the most recent revision of a model.
 
 > **Note:** that the thumbnail of the bookmark will not update.
 
-# Why am I still not receiving notifications after checking all the boxes?
+# Why am I not receiving notifications?
 
 In the notifications settings, you have to check all the boxes, in addition you need to turn on notifications with the button in the top right corner of the notifications settings.
 
@@ -24629,7 +24629,7 @@ As new features roll out and bugs are fixed articles are updated with the change
 **Troubleshooting**
 
 - [Zip download troubleshooting](https://support.catenda.com/en/articles/13399638-zip-download-troubleshooting)
-- [Desktop Connector Troubleshooting - Not all folders have been downloaded](https://support.catenda.com/en/articles/13772277-desktop-connector-troubleshooting-not-all-folders-have-been-downloaded)
+- [Desktop Connector - not all folders downloaded](https://support.catenda.com/en/articles/13772277-desktop-connector-troubleshooting-not-all-folders-have-been-downloaded)
 - [Catenda Revit Plugin Troubleshooting](https://support.catenda.com/en/articles/14301534-catenda-revit-plugin-troubleshooting)
 
 Recent updates
@@ -25851,7 +25851,7 @@ Project administrators can now edit the approval topic template option for each 
 
 ### 2.3 **Consistent column naming across Documents & Models**
 
-The "Name" column meant different things in Documents vs. Models — which was confusing for users! Now both use the same document name. The "Model Name" field sticks around, just relabeled "Short Name". Downloading from Models also now produces the same filename as downloading from Documents.
+The "Name" column meant different things in Documents vs. Models, which was confusing for users! Now both use the same document name. The "Model Name" field sticks around, just relabeled "Short Name". Downloading from Models also now produces the same filename as downloading from Documents.
 
 **Before/After comparison**
 
@@ -26976,6 +26976,162 @@ If a custom field is not visible on an issue board, the following settings are v
 
 **Filter limits** It is only possible to filter for custom fields if there are up to 10 fields assigned.
 
+# Desktop Connector - not all folders downloaded
+
+In this article information about a specific error that occur when using the [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) can be found. See [here](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) for other Desktop connector troubleshooting issues.
+
+In the task itself the following can be seen:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/01-intro.png)
+
+`Not all folders have been downloaded, click to view errors.`
+
+## 1. **Not-supported characters**
+
+In this case the log file will give the following error:
+
+`The filename, directory name, or volume label syntax is incorrect.`
+
+Document names can be limited with a naming convention in Catenda. Folders cannot be limited. Without the use of a naming convention documents with any name can be uploaded. In this case Catenda might not have been able to register the file extension of the document. Folders with any name can be created. It can therefore be that the Desktop Connector tries to create a file or folder with a character that is not allowed to be used in a path in Windows.
+
+Typical problems arise with the following characters: `<` - less than `>` - greater than `:` - colon `"` - double quote `|` - vertical bar or pipe `?` - question mark `*` - asterisk
+
+To find an extensive list of what is reserved in Windows see here: [https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file](https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file)
+
+## 2. **Missing folder or network path**
+
+In this case the log file will give the following error:
+
+`Error: The network path was not found. : '<path>'`
+
+In this situation the transfer fails immediately. This occurs because the program is trying to reach a folder that is no longer accessible. Because the "pathway" is completely broken, the program cannot even begin the download. There are three main reasons why your folder has become a "Dead End":
+
+### 2.1 **1. The Missing Folder (Most Common)**
+
+The local folder that was previously selected has been moved, renamed, or deleted. When going to the location of the folder in File Explorer, the folder is not there. The Desktop Connector reaches out to save your file, finds "nothing," and stops.
+
+### 2.2 **2. The Broken "Symbolic Link" (The Hidden Redirect)**
+
+A Symbolic Link looks like a normal folder but acts as a permanent "signpost" that redirects Windows to a different location (like an office server). When attempting to open it the following error is displayed in a popup:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/02-2-the-broken-symbolic-link-the-hidden-redirect.png)
+
+`Location is not available... The network path was not found.`
+
+**How to tell them apart:** Like .lnk files, symbolic links will have the small blue "shortcut arrow" in the bottom-left corner of the folder icon or right-click the shortcut and select Properties.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/03-2-the-broken-symbolic-link-the-hidden-redirect.png)
+
+In the General tab the name and target fields are grayed out:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/04-2-the-broken-symbolic-link-the-hidden-redirect.png)
+
+**Why it fails** The "signpost" is on your computer, but the destination (like a `Z:` drive or a server) is disconnected.
+
+### 2.3 **3. The Broken Windows Shortcut (.lnk file)**
+
+A standard Windows shortcut is a small file that "points" to a folder elsewhere. These can be links to a folder on your own hard drive or a folder on a distant office server.
+
+**How to tell them apart:** Like symbolic links, both folder and drive shortcuts will have the small blue "shortcut arrow" in the bottom-left corner of the folder icon or right-click the shortcut and select Properties.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/05-3-the-broken-windows-shortcut-lnk-file.png)
+
+In the General tab look at the Target field: _Local Shortcut_ The target starts with a drive letter (e.g., `C:\Users\...` or `D:\Data`).
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/06-3-the-broken-windows-shortcut-lnk-file.png)
+
+_Network Shortcut_ The target starts with a server path (e.g., `\\ServerName\Folder`) or a mapped network drive letter (e.g., `Z:\ProjectData`).
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/07-3-the-broken-windows-shortcut-lnk-file.png)
+
+Different Behaviors when Double-clicked Windows handles a "broken" local shortcut much faster than a "broken" network shortcut.
+
+**Local Shortcut (The "Deleted" Error):** If the folder on your computer was deleted, Windows knows immediately. When the shortcut is double-clicked, the following error is instantly displayed:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/08-3-the-broken-windows-shortcut-lnk-file.png)
+
+**`The item that this shortcut refers to has been changed, moved or deleted.`**
+
+**Network Shortcut (The "Hanging" Error):** If the shortcut points to an office server and you are offline (or off the VPN), Windows doesn't know the destination is missing right away. It will try to "find" the server on the network first. Your mouse cursor may turn into a loading circle, and the window may "hang" or freeze for 30–60 seconds before finally showing:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/09-3-the-broken-windows-shortcut-lnk-file.png)
+
+**`The drive or network connection that the shortcut refers to is unavailable.`**
+
+If the Desktop Connector is told to use one of these shortcuts while the target is missing or the network is down, the program will eventually "time out" waiting for Windows to find the path. Because the Desktop connector cannot find a valid destination to begin the work, it stops and reports the error.
+
+### 2.4 **How to Fix It**
+
+**Identify the Disconnect** Try to open the destination folder in Windows Explorer. If the destination folder is missing, either a new folder needs to be created at that location or a different folder should be selected in the Desktop Connector.
+
+**Reconnect or Re-select** If a "Network path not found" or "Drive unavailable" error pops up confirm the connection to the network path or drive. Go to "This PC" and ensure your network drives (like `Z:`) are active. Check if any external USB drives or hard drives are properly connected. If they have a red X, double-click them to to reconnect. If the network drive is not active and you know what network the drive is on, reconnect to the network either by plugging in a cable, joining via wifi or when using a VPN, check to see if the VPN is active. If the drive is no longer available, select a different destination folder in the Desktop Connector that is available either on the local computer or on the network..
+
+**Delete/rename and Recreate** If a local folder or shortcut remains "stuck" (you see it, but can't open it) even after a reboot: Rename the problematic folder or shortcut file (e.g., rename `ProjectData` to `ProjectData_OLD`) or delete it. Create a brand-new, standard folder with the same name. Restart the transfer. The Desktop Connector will detect the fresh, healthy folder and resume normal operation.
+
+**Why was no temporary folder created in place of the missing folder?** In other situations the desktop connector creates a folder with `_restricted` appended to the name when things go wrong. However, there is a technical difference in how Windows handles "missing" locations:
+
+The `_restricted` Folder is only created if the folder is "physically" there but "locked" (like a doorway to a room that is bolted shut). In that case, the program can see the door and decides to build a new one (`_restricted`) next to it.
+
+In the case of the missing pathway it is different. The folder is no longer there or the "signpost"(symbolic link) that was selected is pointing to an empty location. To the program, it’s not just locked. The entire "room" is missing from the building. Because there is no "doorway" to start with, the program cannot create a `_restricted` version and must stop.
+
+## 3. **Missing mount point**
+
+In this case the log file will give the following error:
+
+`Error: Could not find a part of the path '<path>'.`
+
+If the folder cannot be opened Windows tries to follow the "signpost" to a network location and the following error is displayed:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/10-missing-mount-point.png)
+
+`<Path> is not accessible.`
+`The network path was not found`
+
+In this situation the Desktop Connector automatically creates a new folder with "\_restricted" appended to the name (e.g., `ProjectData_restricted`).
+
+This happens when a folder on the computer is actually a "Mount Point" (a doorway) to another drive. Examples of other drives can include:
+
+- USB stick,
+- External hard drive
+- Network volume that is currently disconnected.
+
+Windows "remembers" the folder exists, but because the physical drive is missing, the folder becomes a "Ghost." The Desktop Connector detects that the folder is there but cannot write to it. To prevent your data from being lost, a Shadow Folder is created with the `_restricted` suffix so your files have a safe place to land.
+
+Here are some typical situations in which this can happen:
+
+- The folder was mapped to a drive (like `D:`) that has been unplugged.
+- The folder points to a network share (like `Z:`) that is offline or requires a VPN.
+- A cloud service (Dropbox, OneDrive or other collaboration tool synch services) created a "placeholder" folder that is not currently active.
+- An enterprise security tool is "shielding" the folder from being modified by third-party apps.
+
+To check if your folder is a "Ghost" right-click the folder and select Properties.
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/11-missing-mount-point.png)
+
+Look at the Type field in the General tab: A Normal Folde**r** will say "File folder." while a ghost folder will say "Mounted Volume."
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/12-missing-mount-point.png)
+
+When the mounted folder is double-clicked, the following error is instantly displayed:
+
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/13-missing-mount-point.png)
+
+**`Location is not avialable`** or
+
+**`The network path was not found`** `<Path> is unavailable like so the link is broken`
+
+### 3.1 **How to Fix It**
+
+Manually Recreate the Folder If the folder remains "stuck" even after a reboot:
+
+1. Rename the problematic folder (e.g., rename `ProjectData` to `ProjectData_OLD`).
+1. Create a brand-new folder with the original name (`ProjectData`).
+1. The Desktop Connector will detect the fresh, healthy folder and resume normal operation without the `_restricted` suffix.
+
+**Reconnect the Hardware or Network** Go to "This PC" and ensure your network drives (like `Z:`) are active. Check if any external USB drives or hard drives are properly connected. If they have a red X, double-click them to to reconnect. If the network drive is not active and you know what network the drive is on, reconnect to the network either by plugging in a cable, joining via wifi or when using a VPN, check to see if the VPN is active. If the drive is no longer available, select a different destination folder in the Desktop Connector that is available either on the local computer or on the network.
+
+**Delete/rename and Recreate** If a local folder or shortcut remains "stuck" (you see it, but can't open it) even after a reboot: Rename the problematic folder or shortcut file (e.g., rename `ProjectData` to `ProjectData_OLD`) or delete it. Create a brand-new folder with the original name (`ProjectData`). Restart the transfer. The Desktop Connector will detect the fresh, healthy folder and resume normal operation without the `_restricted` suffix.
+
 # Desktop Connector troubleshooting
 
 ## 1. **Naming convnention**
@@ -27233,162 +27389,6 @@ Desktop connector `Status: Redirect, click to view downloaded files`
 Log file `Access to the path '<Path>' is denied`
 
 Click on view downloaded files to open the location of where the files were donwloaded to.
-
-# Desktop Connector Troubleshooting - Not all folders have been downloaded
-
-In this article information about a specific error that occur when using the [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) can be found. See [here](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) for other Desktop connector troubleshooting issues.
-
-In the task itself the following can be seen:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/01-intro.png)
-
-`Not all folders have been downloaded, click to view errors.`
-
-## 1. **Not-supported characters**
-
-In this case the log file will give the following error:
-
-`The filename, directory name, or volume label syntax is incorrect.`
-
-Document names can be limited with a naming convention in Catenda. Folders cannot be limited. Without the use of a naming convention documents with any name can be uploaded. In this case Catenda might not have been able to register the file extension of the document. Folders with any name can be created. It can therefore be that the Desktop Connector tries to create a file or folder with a character that is not allowed to be used in a path in Windows.
-
-Typical problems arise with the following characters: `<` - less than `>` - greater than `:` - colon `"` - double quote `|` - vertical bar or pipe `?` - question mark `*` - asterisk
-
-To find an extensive list of what is reserved in Windows see here: [https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file](https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file)
-
-## 2. **Missing folder or network path**
-
-In this case the log file will give the following error:
-
-`Error: The network path was not found. : '<path>'`
-
-In this situation the transfer fails immediately. This occurs because the program is trying to reach a folder that is no longer accessible. Because the "pathway" is completely broken, the program cannot even begin the download. There are three main reasons why your folder has become a "Dead End":
-
-### 2.1 **1. The Missing Folder (Most Common)**
-
-The local folder that was previously selected has been moved, renamed, or deleted. When going to the location of the folder in File Explorer, the folder is not there. The Desktop Connector reaches out to save your file, finds "nothing," and stops.
-
-### 2.2 **2. The Broken "Symbolic Link" (The Hidden Redirect)**
-
-A Symbolic Link looks like a normal folder but acts as a permanent "signpost" that redirects Windows to a different location (like an office server). When attempting to open it the following error is displayed in a popup:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/02-2-the-broken-symbolic-link-the-hidden-redirect.png)
-
-`Location is not available... The network path was not found.`
-
-**How to tell them apart:** Like .lnk files, symbolic links will have the small blue "shortcut arrow" in the bottom-left corner of the folder icon or right-click the shortcut and select Properties.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/03-2-the-broken-symbolic-link-the-hidden-redirect.png)
-
-In the General tab the name and target fields are grayed out:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/04-2-the-broken-symbolic-link-the-hidden-redirect.png)
-
-**Why it fails** The "signpost" is on your computer, but the destination (like a `Z:` drive or a server) is disconnected.
-
-### 2.3 **3. The Broken Windows Shortcut (.lnk file)**
-
-A standard Windows shortcut is a small file that "points" to a folder elsewhere. These can be links to a folder on your own hard drive or a folder on a distant office server.
-
-**How to tell them apart:** Like symbolic links, both folder and drive shortcuts will have the small blue "shortcut arrow" in the bottom-left corner of the folder icon or right-click the shortcut and select Properties.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/05-3-the-broken-windows-shortcut-lnk-file.png)
-
-In the General tab look at the Target field: _Local Shortcut_ The target starts with a drive letter (e.g., `C:\Users\...` or `D:\Data`).
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/06-3-the-broken-windows-shortcut-lnk-file.png)
-
-_Network Shortcut_ The target starts with a server path (e.g., `\\ServerName\Folder`) or a mapped network drive letter (e.g., `Z:\ProjectData`).
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/07-3-the-broken-windows-shortcut-lnk-file.png)
-
-Different Behaviors when Double-clicked Windows handles a "broken" local shortcut much faster than a "broken" network shortcut.
-
-**Local Shortcut (The "Deleted" Error):** If the folder on your computer was deleted, Windows knows immediately. When the shortcut is double-clicked, the following error is instantly displayed:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/08-3-the-broken-windows-shortcut-lnk-file.png)
-
-**`The item that this shortcut refers to has been changed, moved or deleted.`**
-
-**Network Shortcut (The "Hanging" Error):** If the shortcut points to an office server and you are offline (or off the VPN), Windows doesn't know the destination is missing right away. It will try to "find" the server on the network first. Your mouse cursor may turn into a loading circle, and the window may "hang" or freeze for 30–60 seconds before finally showing:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/09-3-the-broken-windows-shortcut-lnk-file.png)
-
-**`The drive or network connection that the shortcut refers to is unavailable.`**
-
-If the Desktop Connector is told to use one of these shortcuts while the target is missing or the network is down, the program will eventually "time out" waiting for Windows to find the path. Because the Desktop connector cannot find a valid destination to begin the work, it stops and reports the error.
-
-### 2.4 **How to Fix It**
-
-**Identify the Disconnect** Try to open the destination folder in Windows Explorer. If the destination folder is missing, either a new folder needs to be created at that location or a different folder should be selected in the Desktop Connector.
-
-**Reconnect or Re-select** If a "Network path not found" or "Drive unavailable" error pops up confirm the connection to the network path or drive. Go to "This PC" and ensure your network drives (like `Z:`) are active. Check if any external USB drives or hard drives are properly connected. If they have a red X, double-click them to to reconnect. If the network drive is not active and you know what network the drive is on, reconnect to the network either by plugging in a cable, joining via wifi or when using a VPN, check to see if the VPN is active. If the drive is no longer available, select a different destination folder in the Desktop Connector that is available either on the local computer or on the network..
-
-**Delete/rename and Recreate** If a local folder or shortcut remains "stuck" (you see it, but can't open it) even after a reboot: Rename the problematic folder or shortcut file (e.g., rename `ProjectData` to `ProjectData_OLD`) or delete it. Create a brand-new, standard folder with the same name. Restart the transfer. The Desktop Connector will detect the fresh, healthy folder and resume normal operation.
-
-**Why was no temporary folder created in place of the missing folder?** In other situations the desktop connector creates a folder with `_restricted` appended to the name when things go wrong. However, there is a technical difference in how Windows handles "missing" locations:
-
-The `_restricted` Folder is only created if the folder is "physically" there but "locked" (like a doorway to a room that is bolted shut). In that case, the program can see the door and decides to build a new one (`_restricted`) next to it.
-
-In the case of the missing pathway it is different. The folder is no longer there or the "signpost"(symbolic link) that was selected is pointing to an empty location. To the program, it’s not just locked—the entire "room" is missing from the building. Because there is no "doorway" to start with, the program cannot create a `_restricted` version and must stop.
-
-## 3. **Missing mount point**
-
-In this case the log file will give the following error:
-
-`Error: Could not find a part of the path '<path>'.`
-
-If the folder cannot be opened Windows tries to follow the "signpost" to a network location and the following error is displayed:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/10-missing-mount-point.png)
-
-`<Path> is not accessible.`
-`The network path was not found`
-
-In this situation the Desktop Connector automatically creates a new folder with "\_restricted" appended to the name (e.g., `ProjectData_restricted`).
-
-This happens when a folder on the computer is actually a "Mount Point" (a doorway) to another drive. Examples of other drives can include:
-
-- USB stick,
-- External hard drive
-- Network volume that is currently disconnected.
-
-Windows "remembers" the folder exists, but because the physical drive is missing, the folder becomes a "Ghost." The Desktop Connector detects that the folder is there but cannot write to it. To prevent your data from being lost, a Shadow Folder is created with the `_restricted` suffix so your files have a safe place to land.
-
-Here are some typical situations in which this can happen:
-
-- The folder was mapped to a drive (like `D:`) that has been unplugged.
-- The folder points to a network share (like `Z:`) that is offline or requires a VPN.
-- A cloud service (Dropbox, OneDrive or other collaboration tool synch services) created a "placeholder" folder that is not currently active.
-- An enterprise security tool is "shielding" the folder from being modified by third-party apps.
-
-To check if your folder is a "Ghost" right-click the folder and select Properties.
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/11-missing-mount-point.png)
-
-Look at the Type field in the General tab: A Normal Folde**r** will say "File folder." while a ghost folder will say "Mounted Volume."
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/12-missing-mount-point.png)
-
-When the mounted folder is double-clicked, the following error is instantly displayed:
-
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/13-missing-mount-point.png)
-
-**`Location is not avialable`** or
-
-**`The network path was not found`** `<Path> is unavailable like so the link is broken`
-
-### 3.1 **How to Fix It**
-
-Manually Recreate the Folder If the folder remains "stuck" even after a reboot:
-
-1. Rename the problematic folder (e.g., rename `ProjectData` to `ProjectData_OLD`).
-1. Create a brand-new folder with the original name (`ProjectData`).
-1. The Desktop Connector will detect the fresh, healthy folder and resume normal operation without the `_restricted` suffix.
-
-**Reconnect the Hardware or Network** Go to "This PC" and ensure your network drives (like `Z:`) are active. Check if any external USB drives or hard drives are properly connected. If they have a red X, double-click them to to reconnect. If the network drive is not active and you know what network the drive is on, reconnect to the network either by plugging in a cable, joining via wifi or when using a VPN, check to see if the VPN is active. If the drive is no longer available, select a different destination folder in the Desktop Connector that is available either on the local computer or on the network.
-
-**Delete/rename and Recreate** If a local folder or shortcut remains "stuck" (you see it, but can't open it) even after a reboot: Rename the problematic folder or shortcut file (e.g., rename `ProjectData` to `ProjectData_OLD`) or delete it. Create a brand-new folder with the original name (`ProjectData`). Restart the transfer. The Desktop Connector will detect the fresh, healthy folder and resume normal operation without the `_restricted` suffix.
 
 # Document Preview Troubleshooting
 

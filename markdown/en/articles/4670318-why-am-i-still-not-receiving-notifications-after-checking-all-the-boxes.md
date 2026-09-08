@@ -1,4 +1,4 @@
-# Why am I still not receiving notifications after checking all the boxes?
+# Why am I not receiving notifications?
 
 In the notifications settings, you have to check all the boxes, in addition you need to turn on notifications with the button in the top right corner of the notifications settings.
 

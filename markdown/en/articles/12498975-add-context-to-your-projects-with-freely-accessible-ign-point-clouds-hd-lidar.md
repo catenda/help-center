@@ -1,4 +1,4 @@
-# Add context to your projects with freely accessible IGN point clouds (HD LiDAR)
+# Add free IGN point clouds (HD LiDAR) to a project
 
 As part of the [national LiDAR HD program](https://geoservices.ign.fr/lidarhd), the IGN produces and distributes 3D mapping of the entire ground and surface of France in LiDAR data. The data distributed are in particular recalibrated point clouds, raw or classified, and 3D digital models (DEM, DSM, MNH, etc.). It is possible with free and open source tools to transform the IGN point clouds (published in `.laz` and Lambert 93 formats) into .las or .e57 format (readable in our 3D viewer) and into the Reference Coordinate System (RCS) corresponding to your project.
 

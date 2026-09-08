@@ -1,4 +1,4 @@
-# How can I make one model show fully, while making all other models semi-transparent?
+# How do I make other models semi-transparent?
 
 1. Open all models in the 3D-viewer
 1. Open the tree-panel (shortcut is shift-3).

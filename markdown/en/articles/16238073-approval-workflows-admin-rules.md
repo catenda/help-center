@@ -33,7 +33,7 @@ If any required field is incomplete when attempting to save a new workflow, the 
 - **2.1.1 Workflow Title**<br>A unique, descriptive name for the workflow.
 - **2.1.2 Submitter Teams**<br>At least one project team assigned to launch approval requests.
 - **2.1.3 Review Steps**<br>At least one review step containing an assigned reviewer team and a duration of at least **1 working day**.
-- **2.1.4 Final Approval**<br>An assigned final review team alongside two active project document statuses—one mapped for approved revisions and one for rejected revisions.
+- **2.1.4 Final Approval**<br>An assigned final review team alongside two active project document statuses: one mapped for approved revisions and one for rejected revisions.
 
 ### 2.2 **2.2 System Limits & Team Membership Rules**
 
@@ -107,9 +107,9 @@ When project settings or team memberships change while approval requests are act
 
 Project members can be added to or removed from workflow teams on the **Project Teams** page at any time without editing the workflow template itself.
 
-**5.1.1 Submitter Team Members** Adding a user to a submitter team lets them create new requests going forward. However, submitter team membership never grants shared visibility into requests created by teammates—access to a submitted request remains strictly personal to the individual creator.
+**5.1.1 Submitter Team Members** Adding a user to a submitter team lets them create new requests going forward. However, submitter team membership never grants shared visibility into requests created by teammates. Access to a submitted request remains strictly personal to the individual creator.
 
-**5.1.2 Reviewer Team Members** Adding a user to a reviewer team immediately grants them access to active approval requests currently at that review step. Removing all members from a reviewer team will freeze ongoing requests at that step until a new member is added—unless **auto-approve** is enabled for that step, in which case the request will automatically approve and advance when the step deadline passes.
+**5.1.2 Reviewer Team Members** Adding a user to a reviewer team immediately grants them access to active approval requests currently at that review step. Removing all members from a reviewer team will freeze ongoing requests at that step until a new member is added, unless **auto-approve** is enabled for that step, in which case the request will automatically approve and advance when the step deadline passes.
 
 **5.1.3 Final Reviewer Team Members** Adding a user to a final reviewer team immediately grants them access to render final decisions on active requests reaching the final approval step. Removing all members from a final reviewer team freezes ongoing requests at the final step until a user is added (auto-approve is not available for final review steps).
 

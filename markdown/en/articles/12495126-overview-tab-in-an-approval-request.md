@@ -54,15 +54,15 @@ When validation indications are submitted for all documents the approval request
 
 ### 4.1 Columns in the step overview table
 
-**_Team_ —** Names of reviewer teams that are configured for this approval step in the workflow selected for this approval request.
+**_Team_:** Names of reviewer teams that are configured for this approval step in the workflow selected for this approval request.
 
-**_Pending_ —** The amount of documents where a reviewer team member has not yet submitted a validation indication on behalf of the reviewer team in this approval request step.
+**_Pending_:** The amount of documents where a reviewer team member has not yet submitted a validation indication on behalf of the reviewer team in this approval request step.
 
 **_Under review –_** _The amount of documents that is Approved or rejected but not yes submitted. When not not submitted but available for submitting the button ‘submit’ is darkgreen._
 
-**_Sumitted_ —** The amount of approved indications that have been submitted by a reviewer team member on behalf of a reviewer team in this approval request step.
+**_Sumitted_:** The amount of approved indications that have been submitted by a reviewer team member on behalf of a reviewer team in this approval request step.
 
-**_Team Progress_ —** The progress of validation indications that have been submitted by a reviewer team member on behalf of a reviewer team in this approval request step.
+**_Team Progress_:** The progress of validation indications that have been submitted by a reviewer team member on behalf of a reviewer team in this approval request step.
 
 ## 5. Approval request result
 

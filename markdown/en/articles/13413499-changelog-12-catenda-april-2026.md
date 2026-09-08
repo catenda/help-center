@@ -35,7 +35,7 @@ As new features roll out and bugs are fixed articles are updated with the change
 **Troubleshooting**
 
 - [Zip download troubleshooting](https://support.catenda.com/en/articles/13399638-zip-download-troubleshooting)
-- [Desktop Connector Troubleshooting - Not all folders have been downloaded](https://support.catenda.com/en/articles/13772277-desktop-connector-troubleshooting-not-all-folders-have-been-downloaded)
+- [Desktop Connector - not all folders downloaded](https://support.catenda.com/en/articles/13772277-desktop-connector-troubleshooting-not-all-folders-have-been-downloaded)
 - [Catenda Revit Plugin Troubleshooting](https://support.catenda.com/en/articles/14301534-catenda-revit-plugin-troubleshooting)
 
 Recent updates
