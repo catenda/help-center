@@ -30,7 +30,7 @@ Neue Sammlung Klicken Sie auf die Aktion Neue Sammlung, um eine neue Sammlung zu
 
 ## 2. **Rechtes Menü**
 
-Das rechte Menü befindet sich oben rechts des Sammlungsbanners unter dem Aktionsmenü. Klicken Sie auf das Symbol „i
+Das rechte Menü befindet sich oben rechts des Sammlungsbanners unter dem Aktionsmenü. Klicken Sie auf das Symbol „i“ oben rechts, um es zu öffnen. _Erforderlicher Zugriff:_ Ersteller oder Administrator der Sammlung
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g39es426/03-right-menu.png)
 

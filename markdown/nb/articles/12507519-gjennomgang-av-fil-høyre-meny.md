@@ -31,19 +31,19 @@ Her ser medlemmer som er del av vurderingsteam som ennå ikke har sendt inn vali
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/sb8szdmp/03-under-review.png)
 
-**Viderefør** Klikk på Viderefør for å indikere at denne filen skal godkjennes på vegne av vurderingsteamet.
+_Viderefør_ Klikk på Viderefør for å indikere at denne filen skal godkjennes på vegne av vurderingsteamet.
 
-**Til oppfølging** Klikk på Til oppfølging for å indikere at denne filen skal avvises på vegne av vurderingsteamet.
+_Til oppfølging_ Klikk på Til oppfølging for å indikere at denne filen skal avvises på vegne av vurderingsteamet.
 
-**Valideringsindikasjon** Hvis et medlem av vurderingsteamet har indikert at denne filen skal godkjennes eller avvises, vil alle medlemmer av teamet se deres indikasjon i boksen over valideringsalternativene:
+_Valideringsindikasjon_ Hvis et medlem av vurderingsteamet har indikert at denne filen skal godkjennes eller avvises, vil alle medlemmer av teamet se deres indikasjon i boksen over valideringsalternativene:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/sb8szdmp/04-under-review.png)
 
 Før indikasjonen er sendt inn, kan et medlem av vurderingsteamet indikere annet, på hvilket tidspunkt indikasjonen vil endres. Det er ikke noe problem å forlate stedet og komme tilbake dagen etter. Under vurdering vil en valideringsindikasjon sannsynligvis endre seg flere ganger før teamet har kommet til en endelig beslutning og sender inn indikasjonen.
 
-**Innsending av valideringsindikasjon for vurderingstrinnet** Innsending av valideringsindikasjon i vurderingstrinnet informerer medlemmer av det endelige godkjennelsesteamet om hva vurderingsteamet indikerer om dette dokumentet. Klikk på Send inn for å sende inn valideringsindikasjon på vegne av vurderingsteamet. Etter innsending av valideringsindikasjon er det ikke lenger mulig å endre den innsendte valideringen for dette gjennomgangsanmodningtrinnet. Hvis teamet ombestemmer seg, kan revisjonen forkastes for gjennomgangsanmodningen og en ny gjennomgangsanmodning kan opprettes.
+_Innsending av valideringsindikasjon for vurderingstrinnet_ Innsending av valideringsindikasjon i vurderingstrinnet informerer medlemmer av det endelige godkjennelsesteamet om hva vurderingsteamet indikerer om dette dokumentet. Klikk på Send inn for å sende inn valideringsindikasjon på vegne av vurderingsteamet. Etter innsending av valideringsindikasjon er det ikke lenger mulig å endre den innsendte valideringen for dette gjennomgangsanmodningtrinnet. Hvis teamet ombestemmer seg, kan revisjonen forkastes for gjennomgangsanmodningen og en ny gjennomgangsanmodning kan opprettes.
 
-**Innsending av valideringsindikasjon for den endelige godkjenning** Innsending av valideringsindikasjon i den endelige godkjenning avgjør det endelige resultatet av om dette dokumentet blir gjennomgått som publisert eller avvist.
+_Innsending av valideringsindikasjon for den endelige godkjenning_ Innsending av valideringsindikasjon i den endelige godkjenning avgjør det endelige resultatet av om dette dokumentet blir gjennomgått som publisert eller avvist.
 
 ### 1.4 Trinnoppsummering
 
@@ -65,7 +65,7 @@ Når det ikke er flere innsendinger igjen å gjøre på vegne av team for et med
 
 ### 2.2 Merknaderoversikt
 
-**Vis merknader** Merknadfilter
+_Vis merknader_ Merknadfilter
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/sb8szdmp/07-markups-overview.png)
 
@@ -73,7 +73,7 @@ Vis alt Slå på vis alt for å vise merknadene på dokumentet fra alle trinn i 
 
 Vis bare aktivt trinn Slå på vis bare aktivt trinn for å vise merknadene fra trinnet som gjennomgangen er på akkurat nå.
 
-**Trinnhistorikk** I trinnhistorikken vises et merknads-kort per merknad som er blitt lagret.
+_Trinnhistorikk_ I trinnhistorikken vises et merknads-kort per merknad som er blitt lagret.
 
 Tittel Tittelen på merknad inneholder teamet på vegne av hvilket medlem som sendte inn denne merknad sendte inn merknad.
 

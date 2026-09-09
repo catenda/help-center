@@ -10,25 +10,25 @@ Det er flere faktorer som kan påvirke hvordan elementer i en struktur navngis. 
 
 Personen som setter navnet er ofte kjent med innholdet i elementet som navngis.
 
-**Personlige dokumenter** Ved navngiving av elementer til personlig bruk er en personlig måte å navngi elementet på ofte det beste, siden personen som navngir dokumentet vil kunne finne elementet enkelt ved å søke på det senere. Selv personen som navngir elementet kan slite med å finne sin egen informasjon igjen senere.
+_Personlige dokumenter_ Ved navngiving av elementer til personlig bruk er en personlig måte å navngi elementet på ofte det beste, siden personen som navngir dokumentet vil kunne finne elementet enkelt ved å søke på det senere. Selv personen som navngir elementet kan slite med å finne sin egen informasjon igjen senere.
 
-**Samarbeidsdokumenter** Ved navngiving av elementer til samarbeid vil flere personer arbeide med de ulike elementene. Navn på mapper er derfor ofte forhåndsdefinert i prosjekter slik at de er lett gjenkjennelige på tvers av de ulike prosjektene av en viss type som tilhører den samme organisasjonen.
+_Samarbeidsdokumenter_ Ved navngiving av elementer til samarbeid vil flere personer arbeide med de ulike elementene. Navn på mapper er derfor ofte forhåndsdefinert i prosjekter slik at de er lett gjenkjennelige på tvers av de ulike prosjektene av en viss type som tilhører den samme organisasjonen.
 
-**Minimumskrav** Minimumskrav for dokumentnavngiving blir ofte avtalt. Siden ulike ord kan ha ulik betydning for ulike personer er det ofte viktig å diskutere hvilke navn som gis til elementer med teamet slik at alle er klar over hva de skal navngi elementer som og hva de skal søke etter.
+_Minimumskrav_ Minimumskrav for dokumentnavngiving blir ofte avtalt. Siden ulike ord kan ha ulik betydning for ulike personer er det ofte viktig å diskutere hvilke navn som gis til elementer med teamet slik at alle er klar over hva de skal navngi elementer som og hva de skal søke etter.
 
 ### 1.2 **Navneskjemaer**
 
 Å følge god praksis for navngiving av dokumenter er alltid nyttig, men alle har sine egne preferanser. En navnestrategi som gir mening for deg gir ikke alltid mening for andre.
 
-**Teamomfattende navneskjemaer** Innenfor et team blir bidragsytere til en filstruktur ofte enige om et navneskjema. Dette kan være et verbalt forslag, som å fortelle folk at de skal sette datoen i navnet, eller det kan håndheves ved å opprette en [navnekonvensjon](https://support.catenda.com/en/articles/7832559-naming-conventions-page) som krever at folk navngir filene sine for å kunne laste opp i det hele tatt.
+_Teamomfattende navneskjemaer_ Innenfor et team blir bidragsytere til en filstruktur ofte enige om et navneskjema. Dette kan være et verbalt forslag, som å fortelle folk at de skal sette datoen i navnet, eller det kan håndheves ved å opprette en [navnekonvensjon](https://support.catenda.com/en/articles/7832559-naming-conventions-page) som krever at folk navngir filene sine for å kunne laste opp i det hele tatt.
 
-**Prosjektomfattende navneskjemaer** I et felles datamiljø kommer det ofte flere team sammen. Team kan ennå ikke ha en navneregel på plass eller være villig til å endre sin, men hvis de allerede har navngitt dokumentene sine på en måte i veldig lang tid kan det være vanskelig å overbevise dem om å gjøre noe annet. I dette tilfellet er en god løsning å tillate folk å laste opp filer med sitt foretrukne navn så lenge de endrer navnet på dokumentet som inneholder filen til konvensjonen som er avtalt av prosjektet. På denne måten vil teammedlemmet være i stand til å finne sitt dokument ved [originalnavnet på filen](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) mens et prosjektmedlem vil være i stand til å finne det ved [dokumentnavnet](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page).
+_Prosjektomfattende navneskjemaer_ I et felles datamiljø kommer det ofte flere team sammen. Team kan ennå ikke ha en navneregel på plass eller være villig til å endre sin, men hvis de allerede har navngitt dokumentene sine på en måte i veldig lang tid kan det være vanskelig å overbevise dem om å gjøre noe annet. I dette tilfellet er en god løsning å tillate folk å laste opp filer med sitt foretrukne navn så lenge de endrer navnet på dokumentet som inneholder filen til konvensjonen som er avtalt av prosjektet. På denne måten vil teammedlemmet være i stand til å finne sitt dokument ved [originalnavnet på filen](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) mens et prosjektmedlem vil være i stand til å finne det ved [dokumentnavnet](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page).
 
 ### 1.3 **Navnelengde**
 
 Å være beskrivende og skrive ut hele ord kan hjelpe til med dette fordi du kan lese ordet og umiddelbart forstå innholdet i dokumentet. Dette betyr ikke at dokumentnavnet skal være en hel setning. Dokumentnavn som er for lange til å lese kan se ut som en vegg av tekst og blir raskt oversett. Det anbefales derfor å holde navn til 1 til 5 ord.
 
-**Eksterne begrensninger** Innenfor Catenda kan mappestrukturer av hvilken som helst stilengde både importeres og eksporteres. Annen programvare som denne informasjonen utveksles med kan ha begrensninger på det totale antallet tegn i de overordnede mappene og dokumentnavnet som danner stien til et dokument innenfor strukturen. Zip-filer brukes ofte til å utveksle mappestrukturer. I Windows er stibegrensningen for zip-filer for eksempel 260 tegn. I OneDrive og SharePoint økes denne grensen, men er fortsatt begrenset til 400 Unicode-enheter.
+_Eksterne begrensninger_ Innenfor Catenda kan mappestrukturer av hvilken som helst stilengde både importeres og eksporteres. Annen programvare som denne informasjonen utveksles med kan ha begrensninger på det totale antallet tegn i de overordnede mappene og dokumentnavnet som danner stien til et dokument innenfor strukturen. Zip-filer brukes ofte til å utveksle mappestrukturer. I Windows er stibegrensningen for zip-filer for eksempel 260 tegn. I OneDrive og SharePoint økes denne grensen, men er fortsatt begrenset til 400 Unicode-enheter.
 
 ### 1.4 **Versjonskontroll**
 
@@ -40,11 +40,11 @@ En typisk situasjon folk ender opp med er at de kaller dokumentet sitt noe sånt
 
 Historisk sett har systemer slitt med mellomrom i dokumentnavn. Selv om mange systemer nå kan håndtere mellomrom i dokumentnavn, kan det fortsatt være grunner til å fjerne mellomrom fra dokumentnavn. Du kan kanskje søke etter to ord sammen som ikke er to separate ord. Du kan også håpe på å komprimere antallet tegn i et navn ved å fjerne mellomrommene. Når du tar et normalt filnavn som:
 
-**this is a normal file name that is very long with many words.png** og du fjerner mellomrommene blir det en uleselig rotete rot fordi du trenger visuelle indikatorer på hvor ordgrensene ligger:
+_this is a normal file name that is very long with many words.png_ og du fjerner mellomrommene blir det en uleselig rotete rot fordi du trenger visuelle indikatorer på hvor ordgrensene ligger:
 
-**thisisanormalfilenamethatisverylongwithmanywords.png** Hvis komprimering er målet ditt vil du ikke introdusere et annet tegn for å separere hvert ord fordi du ville være tilbake på samme lengde som før. I stedet kan du skrive stor bokstav på hvert ord.
+_thisisanormalfilenamethatisverylongwithmanywords.png_ Hvis komprimering er målet ditt vil du ikke introdusere et annet tegn for å separere hvert ord fordi du ville være tilbake på samme lengde som før. I stedet kan du skrive stor bokstav på hvert ord.
 
-**ThisIsANormalFileNameThatIsVeryLongWithManyWords.png** Selv om dette allerede er litt bedre er det fortsatt ganske vanskelig å lese med lengre navn. Hvis målet er å minimere plass kan du prøve å gruppere ord som hører sammen:
+_ThisIsANormalFileNameThatIsVeryLongWithManyWords.png_ Selv om dette allerede er litt bedre er det fortsatt ganske vanskelig å lese med lengre navn. Hvis målet er å minimere plass kan du prøve å gruppere ord som hører sammen:
 
 **ThisIs\_ANormalFileName\_ThatIs\_VeryLong\_WithManyWords.png** Nå begynner vi å gå inn i territoriet for et godt, kort filnavn som er lesbart. Selv når filnavnlengde ikke gir mening, gir det mening å tenke på komprimering av ord på denne måten fordi det er lettere å forstå grupperte ord på et øyeblikk. Hvis du ikke bryr deg om hvor langt filnavnet ditt blir hva du kan gjøre for å gjøre det enda bedre er ved å introdusere en sekundær separator. Se her hvordan grupperte ord er separert på en måte mens ordene innenfor hver gruppe er separert på en annen måte.
 
@@ -60,9 +60,9 @@ I tilfeller hvor det finnes mange ulike dokumenter som alle er litt ulike gir de
 
 Dokumentdelen sorteres automatisk etter navn. Det kan derfor være en god idé å legge til noen tegn i begynnelsen av dokumentet slik at det mest relevante dokumentet kommer først.
 
-**Kronologisk rekkefølge** For å få en historisk oversikt på Catenda Hub kan du alltid sortere etter publisert eller opprettet. Som standard sorteres dokumentene etter navn. Når et medlem åpner en mappe for første gang, er det nyeste dokumentet kanskje ikke øverst. For å motvirke dette kan du legge til datoen på dokumentet foran i dokumentet: _20110101_ ville være den første januar 2011. Dette kan også være nyttig hvis du har dokumenter som ble opprettet for lenge siden og deretter importert til Catenda Hub. Selv om dette navnet kan endres kan det være en nyttig informasjon når du ser etter et dokument. På denne måten kan du også sortere navnkolonnen etter dato.
+_Kronologisk rekkefølge_ For å få en historisk oversikt på Catenda Hub kan du alltid sortere etter publisert eller opprettet. Som standard sorteres dokumentene etter navn. Når et medlem åpner en mappe for første gang, er det nyeste dokumentet kanskje ikke øverst. For å motvirke dette kan du legge til datoen på dokumentet foran i dokumentet: _20110101_ ville være den første januar 2011. Dette kan også være nyttig hvis du har dokumenter som ble opprettet for lenge siden og deretter importert til Catenda Hub. Selv om dette navnet kan endres kan det være en nyttig informasjon når du ser etter et dokument. På denne måten kan du også sortere navnkolonnen etter dato.
 
-**Alfanumerisk rekkefølge** For å finne ut hvilke tegn som kommer før andre tegn, se [sorteringsrekkefølgen for lister](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) på Catenda. For å få dokumentene dine i orden etter viktighet kan du alltid sortere etter merkelapper eller antall revisjoner. Som standard sorteres dokumentene etter navn. Når et medlem åpner en mappe for første gang, er det viktigste dokumentet kanskje ikke øverst. For å motvirke dette kan du legge til et tegn i begynnelsen av navnet som gjør at det kommer først. Du kan for eksempel kalle filene dine: _1.0 Viktigst. 1.1 Mindre viktig, 1.2 osv..._ Så kan det hende at noen bryter regelen din ved å laste opp et dokument med en 0 foran som ender opp først. Det du kan gjøre da er å legge til en \_ foran navnet for å sikre at det kommer før alle elementer. Denne kampen om hvem som er først kan virke endeløs. Det kan derfor hjelpe å se [sorteringsrekkefølgen for lister](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) for å se hvilke tegn som kommer før andre for å se hva som gir mening å bruke i din situasjon.
+_Alfanumerisk rekkefølge_ For å finne ut hvilke tegn som kommer før andre tegn, se [sorteringsrekkefølgen for lister](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) på Catenda. For å få dokumentene dine i orden etter viktighet kan du alltid sortere etter merkelapper eller antall revisjoner. Som standard sorteres dokumentene etter navn. Når et medlem åpner en mappe for første gang, er det viktigste dokumentet kanskje ikke øverst. For å motvirke dette kan du legge til et tegn i begynnelsen av navnet som gjør at det kommer først. Du kan for eksempel kalle filene dine: _1.0 Viktigst. 1.1 Mindre viktig, 1.2 osv..._ Så kan det hende at noen bryter regelen din ved å laste opp et dokument med en 0 foran som ender opp først. Det du kan gjøre da er å legge til en \_ foran navnet for å sikre at det kommer før alle elementer. Denne kampen om hvem som er først kan virke endeløs. Det kan derfor hjelpe å se [sorteringsrekkefølgen for lister](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) for å se hvilke tegn som kommer før andre for å se hva som gir mening å bruke i din situasjon.
 
 ## 2. **Undermapper**
 
@@ -74,33 +74,33 @@ Hvis det er for mange dokumenter eller mapper i en mappe, kan de bli vanskelige 
 
 Dette kan være en rekke egenskaper som:
 
-**Dokumenttype (Tegning, bilde, regneark)**
+_Dokumenttype (Tegning, bilde, regneark)_
 
-**Relatert sak (Vegger og vinduer)**
+_Relatert sak (Vegger og vinduer)_
 
-**Fagfelt (ARC, MEP, STR)**
+_Fagfelt (ARC, MEP, STR)_
 
-**Part som lastet det opp (Gruppe 1, Gruppe 2, Gruppe 3)**
+_Part som lastet det opp (Gruppe 1, Gruppe 2, Gruppe 3)_
 
-**Opplastingsdato (20110101, 20231225)**
+_Opplastingsdato (20110101, 20231225)_
 
-**Modenhet (Utkast, Innsendt, Godkjent, Avslått)**
+_Modenhet (Utkast, Innsendt, Godkjent, Avslått)_
 
 Årsaker som kan påvirke beslutningen om hvordan du skal dele dokumentene dine kan være:
 
-**Oppdagbarhet**
+_Oppdagbarhet_
 
-**Tilgangsstyring**
+_Tilgangsstyring_
 
 ### 2.2 **Når du skal flytte dokumenter ut av mapper**
 
 Etter å ha arbeidet med en dokumentstruktur en stund vil du legge merke til at du begynner å lage mange undermapper. Hvis det tar mange klikk å komme ned til undermappen løste du ikke problemet du prøvde å løse ved å lage undermapper i første omgang fordi informasjonen er fortsatt vanskelig å finne. Det anbefales å ikke gå dypere enn 3 nivåer når du lager undermapper. Dette er fordi de fleste mennesker kanskje husker de to siste mappene de var i, men jo dypere du går jo mer begynner du å glemme hvor du kom fra. For å forhindre dette kan du flytte undermappene dine opp et nivå.
 
-**Her er et eksempel på en mappe som er 4 nivåer dyp:** 01\_Models-and-drawings 0101\_Models 010101\_ARC 01010101\_Window 01010102\_Wall 010102\_MEP 01010201\_Ducts 01010202\_Vents 010103\_STR 0102\_Drawings
+_Her er et eksempel på en mappe som er 4 nivåer dyp:_ 01\_Models-and-drawings 0101\_Models 010101\_ARC 01010101\_Window 01010102\_Wall 010102\_MEP 01010201\_Ducts 01010202\_Vents 010103\_STR 0102\_Drawings
 
-**Denne mappen kan forenkles til å bli:** 0101\_Models\_ARC 010101\_Window 010102\_Wall 0102\_Models\_MEP 010201\_Ducts 010202\_Vents 0103\_Models\_\_STR 0201\_Drawings
+_Denne mappen kan forenkles til å bli:_ 0101\_Models\_ARC 010101\_Window 010102\_Wall 0102\_Models\_MEP 010201\_Ducts 010202\_Vents 0103\_Models\_\_STR 0201\_Drawings
 
-**Eller kanskje enda enklere:** 010101\_Models\_ARC\_Window 010102\_Models\_ARC\_Wall 010201\_Models\_MEP\_Ducts 010202\_Models\_MEP\_Vents 010301\_Models\_\_STR 020101\_Drawings
+_Eller kanskje enda enklere:_ 010101\_Models\_ARC\_Window 010102\_Models\_ARC\_Wall 010201\_Models\_MEP\_Ducts 010202\_Models\_MEP\_Vents 010301\_Models\_\_STR 020101\_Drawings
 
 Som du kan se kan det å legge til flere mapper som er like på samme nivå bidra til å redusere antallet klikk det tar å komme ned til mappen som inneholder dokumentene du leter etter. En annen ting du kanskje legger merke til er at jo mer du forenkler mappestrukturen, jo lengre blir filnavnene. Når filnavnene blir for lange blir de vanskelige å lese. Det er derfor viktig å opprettholde en balanse mellom [filnavnlengde](#h_7549bd95d9) og [mappedybde](#h_e27bb794b2).
 
@@ -110,7 +110,7 @@ Som du kan se kan det å legge til flere mapper som er like på samme nivå bidr
 
 I denne dokumentstrukturen strukturerer du filene dine etter hva slags dokumenttype det er. Alle etasjeplaner går i etasjeplanmappen, alle møtereferater går i referatmappen osv. Denne filstrukturen er lettere å bruke for klienten siden filer som leveres av konsulenter samles på ett sted. Denne filstrukturen er vanskeligere å bruke for konsulentene siden de har mange forskjellige steder hvor de leverer filene sine.
 
-**Eksempel på filstruktur** Et eksempel på denne typen dokumentstruktur kan være:
+_Eksempel på filstruktur_ Et eksempel på denne typen dokumentstruktur kan være:
 
 0101\_Informasjon 010101\_Admin 010102\_Kontrakter 0201\_Bilder\_Presentasjoner YYMMDD\_Presentasjon-tittel.ppt 0202\_Bilder\_Nettstedsbesøk YYMMDD\_Nettstedsbesøk-tittel.jpg 0301\_2D 03010101\_Plan\_Etasje 030101010101\_DWG\_ARC YYMMDD\_Tegning-tittel.dwg 030101010102\_DWG\_STR 030101010103\_DWG\_MEP 030101010103\_DWG\_LAN 030101010201\_PDF\_ARK YYMMDD\_Tegning-tittel.pdf 030101010202\_PDF\_STR 030101010203\_PDF\_MEP 030101010203\_PDF\_LAN 03010102\_Plan\_Tak 03010103\_Plan\_Brannutgang 03010201\_Snitt 03010301\_Opphøyd 0302\_3D 03020101\_Modeller\_Archicad 030201010101\_PLN\_ARC 030201010102\_PLN\_STR YYMMDD\_Tegning-tittel.ifc 030201010103\_PLN\_MEP 030201010104\_PLN\_LAN 030201010201\_IFC\_ARC 030201010202\_IFC\_STR 030201010203\_IFC\_MEP 030201010204\_IFC\_LAN 03020102\_Modeller\_Navisworks 03020103\_Modeller\_Revit 030201030101\_RVT\_ARC 030201030201\_IFC\_ARC 03020104\_Modeller\_Rhinoceros 03020105\_Modeller\_Solibri 03020106\_Modeller\_Punktskyer 03020201\_Visualisering\_Rendringer 03020202\_Visualisering\_Bilder-høy-oppløsning
 

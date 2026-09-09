@@ -46,15 +46,15 @@ Medlemmet som er tildelt saken som vil bli opprettet. Som standard er det satt t
 
 Publisereren av godkjenningen
 
-**Filopplaster** Opplosteren av revisjonen hvis valideringsresultat resulterte i opprettelsen av denne saken.
+_Filopplaster_ Opplosteren av revisjonen hvis valideringsresultat resulterte i opprettelsen av denne saken.
 
-**Dokumenteier** Medlemmet som opprettet dokumentet som revisjonen var i hvis valideringsresultat resulterte i opprettelsen av denne saken.
+_Dokumenteier_ Medlemmet som opprettet dokumentet som revisjonen var i hvis valideringsresultat resulterte i opprettelsen av denne saken.
 
-**Utildelt** Ingen tildeling
+_Utildelt_ Ingen tildeling
 
-**Sett meg** Medlemmet som konfigurerer denne malen
+_Sett meg_ Medlemmet som konfigurerer denne malen
 
-**Tildel dropdown** Klikk på tildel dropdown for å velge et spesifikt medlem eller team som vil bli tildelt.
+_Tildel dropdown_ Klikk på tildel dropdown for å velge et spesifikt medlem eller team som vil bli tildelt.
 
 ### 4.3 **Etterspurt av**
 

@@ -4,6 +4,8 @@ De voorkeurstaal kan worden gewijzigd op de [pagina met voorkeuren](https://supp
 
 [YouTube-video](https://www.youtube.com/embed/fwQtOwQsTN8?rel=0)
 
+De volgende onderwerpen worden beschreven in dit artikel:
+
 ## 1. **1. De taalinstelling zoeken**
 
 `Profiel->Account->Voorkeuren`

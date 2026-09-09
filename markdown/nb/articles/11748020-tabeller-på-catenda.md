@@ -9,32 +9,32 @@ På sider hvor flere elementer vises, vises informasjon ofte i tabeller. Ulike m
 I følgende tabeller vises all informasjon som standard
 
 - Inspeksjonspanel
-  - [Mengdeberegning (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
-  - [Justeringer](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
-  - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
-  - Navngivningskonvensjoner
+    - [Mengdeberegning (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
+    - [Justeringer](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
+    - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
+    - Navngivningskonvensjoner
 - Bibliotek
-  - [Lenkerbibliotek](https://support.catenda.com/en/articles/4670254-links-library)
-  - [Sharepoint-bibliotek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-  - [Dropbox-bibliotek](https://support.catenda.com/en/articles/8065645-libraries-page)
-  - [Egenskapsverdi-bibliotek](https://support.catenda.com/en/articles/4670252-property-value-library)
-  - [Klassifikasjonsbibliotek](https://support.catenda.com/en/articles/4670255-classification-library)
+    - [Lenkerbibliotek](https://support.catenda.com/en/articles/4670254-links-library)
+    - [Sharepoint-bibliotek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+    - [Dropbox-bibliotek](https://support.catenda.com/en/articles/8065645-libraries-page)
+    - [Egenskapsverdi-bibliotek](https://support.catenda.com/en/articles/4670252-property-value-library)
+    - [Klassifikasjonsbibliotek](https://support.catenda.com/en/articles/4670255-classification-library)
 - Organisasjonsverktøy
-  - [Brukersiden](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-  - [Prosjektsiden](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-  - [Prosjektmedlemskapssiden](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Brukersiden](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+    - [Prosjektsiden](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+    - [Prosjektmedlemskapssiden](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 
 I følgende tabeller vises en standardkonfigurasjon når siden lastes inn:
 
 - Modeller
-  - [Objektsiden](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Objektsiden](https://support.catenda.com/en/articles/12352750-objects-page)
 
 I følgende tabeller vises endringer som er gjort i standardtabellkonfigurasjonen når siden lastes inn:
 
 - [Saker](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabellvisning)
 - [Modeller](https://support.catenda.com/en/articles/4670286-models-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
 - [Dokumenter](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
-  - [Oversikt over dokumenttilgang](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+    - [Oversikt over dokumenttilgang](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
 - [Rapporter](https://support.catenda.com/en/articles/12303098-reports-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
 - [Merkelapper](https://support.catenda.com/en/articles/4670265-labels-page) (Merkelapper-fane, Gruppe-fane)
 - [Egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-page)
@@ -102,7 +102,7 @@ _Listevisning -_ Standard
 
 I listevisningen er informasjon om elementer arrangert mot toppen/bunnen/venstre/høyre av en større boks.
 
-**Tabellvisning**
+_Tabellvisning_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/09-view.png)
 
@@ -114,9 +114,9 @@ Radhøydeknappene endrer høyden på hver rad i tabellen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/10-row-height.png)
 
-**Standardvisning** En radhøyde som fungerer godt for de fleste skjermer vises.
+_Standardvisning_ En radhøyde som fungerer godt for de fleste skjermer vises.
 
-**Kompakt visning** Mellomrommet over og under elementer i en rad fjernes, noe som reduserer radhøyden.
+_Kompakt visning_ Mellomrommet over og under elementer i en rad fjernes, noe som reduserer radhøyden.
 
 For små skjermer eller skjermer med lav oppløsning kan bare et lite antall rader vises med standard radhøyde. I denne situasjonen er kompakt visning det beste alternativet.
 
@@ -134,15 +134,15 @@ Mot toppen av kolonnelisten kan det vises alternativer som påvirker alle kolonn
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/13-column-dropdown.png)
 
-**Slå visning av/på** Når veksleknappen er aktivert, vises alle kolonner. Når veksleknappen er halvveis, vises noen kolonner. Når veksleknappen er deaktivert, vises ingen kolonner. Når en veksleknapp har en lysere skygge, kan den bare aktiveres eller deaktiveres når alt eller ingenting er aktivert eller deaktivert.
+_Slå visning av/på_ Når veksleknappen er aktivert, vises alle kolonner. Når veksleknappen er halvveis, vises noen kolonner. Når veksleknappen er deaktivert, vises ingen kolonner. Når en veksleknapp har en lysere skygge, kan den bare aktiveres eller deaktiveres når alt eller ingenting er aktivert eller deaktivert.
 
-**Filter** Skriv i filterfeltet for å filtrere etter en bestemt kolonne.
+_Filter_ Skriv i filterfeltet for å filtrere etter en bestemt kolonne.
 
-**Tilbakestill innstillinger** Klikk på knappen Tilbakestill innstillinger for å tilbakestille kolonnene til deres standardkonfigurasjon.
+_Tilbakestill innstillinger_ Klikk på knappen Tilbakestill innstillinger for å tilbakestille kolonnene til deres standardkonfigurasjon.
 
-**Utvid/trekk sammen kolonnetypen** Utvid eller trekk sammen en kolonnetypen med pileknappen til venstre for å vise eller skjule alle kolonner av denne typen.
+_Utvid/trekk sammen kolonnetypen_ Utvid eller trekk sammen en kolonnetypen med pileknappen til venstre for å vise eller skjule alle kolonner av denne typen.
 
-**Draanker** Kolonner som kan omorganiseres kan vise et ruteikon mot høyre for kolonnenavnet.
+_Draanker_ Kolonner som kan omorganiseres kan vise et ruteikon mot høyre for kolonnenavnet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/14-column-dropdown.png)
 
@@ -176,11 +176,11 @@ Når du holder musepeikeren over ulike deler av toppraden, kan det indikere hvor
 
 Hvis en kolonne kan sorteres, kan en pil opp/ned sees til høyre for kolonnenavnet
 
-**Markørendring** Markøren vil være en peker.
+_Markørendring_ Markøren vil være en peker.
 
-**Sorteringspiler** Sorteringspiler kan indikere hvilken kolonne som for øyeblikket er sortert. Sorteringspiler kan vise hvilken retning radene er sortert i.
+_Sorteringspiler_ Sorteringspiler kan indikere hvilken kolonne som for øyeblikket er sortert. Sorteringspiler kan vise hvilken retning radene er sortert i.
 
-**Klikk for å sortere** Klikk på hodecellen i en sorterbar kolonne for å sortere tabellradene i henhold til kolonnen som hodecellen er i. Etter sortering etter en kolonne, vil radene i tabellen bli omordnet i henhold til [typiske sorteringsregler rundt Catenda](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists). Klikk på hodecellen i den sorterte kolonnen igjen for å sortere den i motsatt retning. Sortering av en kolonne oppdaterer sorteringspreferansene for tabellen.
+_Klikk for å sortere_ Klikk på hodecellen i en sorterbar kolonne for å sortere tabellradene i henhold til kolonnen som hodecellen er i. Etter sortering etter en kolonne, vil radene i tabellen bli omordnet i henhold til [typiske sorteringsregler rundt Catenda](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists). Klikk på hodecellen i den sorterte kolonnen igjen for å sortere den i motsatt retning. Sortering av en kolonne oppdaterer sorteringspreferansene for tabellen.
 
 > **Merk:** Tabeller kan bare sorteres etter én kolonne om gangen
 
@@ -188,11 +188,11 @@ Hvis en kolonne kan sorteres, kan en pil opp/ned sees til høyre for kolonnenavn
 
 Breddeendring-ankre ser ut som en tykk linje omtrent halve høyden av toppraden.
 
-**Markørendring** Når du holder musepeikeren over breddeendring-ankeret, endres markøren til en pil til venstre-høyre kjent som en endringspeker.
+_Markørendring_ Når du holder musepeikeren over breddeendring-ankeret, endres markøren til en pil til venstre-høyre kjent som en endringspeker.
 
-**Dra for å justere** Dra på breddeendring-ankeret i toppraden for å endre bredden på kolonnen.
+_Dra for å justere_ Dra på breddeendring-ankeret i toppraden for å endre bredden på kolonnen.
 
-**Dobbeltklikk for auto-justering** Dobbeltklikk på breddeendring-ankeret for å automatisk justere kolonnen til venstre for ankeret basert på innholdet i den kolonnen. Når kolonneinnholdet er så langt at det blir kuttet av, men informasjonen som trengs er på slutten av innholdet, kan det være nyttig å endre størrelse på kolonnen.
+_Dobbeltklikk for auto-justering_ Dobbeltklikk på breddeendring-ankeret for å automatisk justere kolonnen til venstre for ankeret basert på innholdet i den kolonnen. Når kolonneinnholdet er så langt at det blir kuttet av, men informasjonen som trengs er på slutten av innholdet, kan det være nyttig å endre størrelse på kolonnen.
 
 ### 5.4 Kolonnerekkefølge-justering
 
@@ -222,9 +222,9 @@ For å endre plasseringen av en kolonne eller en rad, slipp dragankeret på den 
 
 Klikk og dra på hodecellen i en kolonne for å begynne å endre kolonnekonfigurasjonen. Etter at du har grabbet kolonnen, vil et dragankert dukke opp under markøren. Dragankeret kan inneholde navnet på kolonnen og et øyeikon som indikerer om kolonnen vil være aktivert eller deaktivert når ankeret slippes.
 
-**Dra ankeret for å omorganisere en kolonne** Når dragankeret dras over en kolonnerand eller ut av tabellen, vil kolonnen som dras, bli fjernet fra dens nåværende plassering. Når dragankeret holdes over en annen plassering i tabellen, vil kolonnen vises der. Slipp dragankeret på ønsket plassering for å sette inn den holdte kolonnen på den plasseringen.
+_Dra ankeret for å omorganisere en kolonne_ Når dragankeret dras over en kolonnerand eller ut av tabellen, vil kolonnen som dras, bli fjernet fra dens nåværende plassering. Når dragankeret holdes over en annen plassering i tabellen, vil kolonnen vises der. Slipp dragankeret på ønsket plassering for å sette inn den holdte kolonnen på den plasseringen.
 
-**Dra ankeret for å fjerne en kolonne** Når dragankeret dras utenfor tabellen, vil synlighetsikonet bli til et øye som er gjennomstreket, og kolonnen vil deaktiveres i tabellen. Slipp eller klikk for å deaktivere den holdte kolonnen.
+_Dra ankeret for å fjerne en kolonne_ Når dragankeret dras utenfor tabellen, vil synlighetsikonet bli til et øye som er gjennomstreket, og kolonnen vil deaktiveres i tabellen. Slipp eller klikk for å deaktivere den holdte kolonnen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/20-change-column-configuration-by-dragging.png)
 
@@ -236,7 +236,7 @@ Når radcellen i titelkolonnen (ofte kalt navn) holdes over, kan et rutenett med
 
 Hold musepeikeren over rutenettet og se at markøren endres til en hånd som indikerer at raden kan grabbes. Etter at du har grabbet rutenettet, dukker et dragankert opp under markøren. Dragankeret kan inneholde titlene på raden(e) som ble valgt da raden ble grabbet.
 
-**Dra ankeret for å flytte en rad** Mens rad(er) dras inne i tabellen, blir de uthevet og gitt en lysere farge som indikerer at noe kan skje i tabellen.
+_Dra ankeret for å flytte en rad_ Mens rad(er) dras inne i tabellen, blir de uthevet og gitt en lysere farge som indikerer at noe kan skje i tabellen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/22-move-rows-by-dragging.png)
 
@@ -251,25 +251,18 @@ Når dragankeret slippes på toppen av en interaktiv rad, kan flyttedialoggbokse
 Det er mulig å flytte kolonner i følgende tabeller:
 
 - Modeller
-  - [Objekter-side](https://support.catenda.com/en/articles/12352750-objects-page)
-
+    - [Objekter-side](https://support.catenda.com/en/articles/12352750-objects-page)
 - Organisasjonsverktøy
-  - [Prosjekter-side](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-  - [Prosjektmedlemskap-side](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Prosjekter-side](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+    - [Prosjektmedlemskap-side](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 
 - [Saker](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabelvisning)
-
 - [Modeller](https://support.catenda.com/en/articles/4670286-models-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
-
 - [Dokumenter](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
-  - [Dokumenttilgangsoversikt](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
-
+    - [Dokumenttilgangsoversikt](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
 - [Rapporter](https://support.catenda.com/en/articles/12303098-reports-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
-
 - [Merkelapper](https://support.catenda.com/en/articles/4670265-labels-page) (Merkelapper-fane, Gruppe-fane)
-
 - [Egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-
 - [Medlemmer-side](https://support.catenda.com/en/articles/11926821-members-page) (Medlemmer-fane, Teams-fane)
 
 ## 9. Samhandle med rader ved å holde over
@@ -304,47 +297,47 @@ Ulik oppførsel kan oppstå når du klikker på innholdet i en rad.
 
 Hvis høyremenyen ble åpnet tidligere, åpnes den igjen når en rad velges.
 
-**Tomt område** Klikk én gang på tomt område i raden for å velge den. Hvis høyremenyen ble åpnet tidligere, åpnes den igjen når en rad velges. Klikk to ganger raskt etter hverandre for å åpne innholdet i raden. Klikk på raden igjen etter en liten stund for å fjerne valget.
+_Tomt område_ Klikk én gang på tomt område i raden for å velge den. Hvis høyremenyen ble åpnet tidligere, åpnes den igjen når en rad velges. Klikk to ganger raskt etter hverandre for å åpne innholdet i raden. Klikk på raden igjen etter en liten stund for å fjerne valget.
 
-**Avmerkingsboks** Velg avmerkingsboksen i avmerkingsbokskolonnen for å velge raden. Med avmerkingsboksen kan raden velges uten å måtte bekymre seg for å ved et uhell åpne innholdet i raden.
+_Avmerkingsboks_ Velg avmerkingsboksen i avmerkingsbokskolonnen for å velge raden. Med avmerkingsboksen kan raden velges uten å måtte bekymre seg for å ved et uhell åpne innholdet i raden.
 
-**Radregistreringsvalg** Hold `shift` og klikk for å velge alle radene mellom gjeldende rad og den nærmeste valgte raden.
+_Radregistreringsvalg_ Hold `shift` og klikk for å velge alle radene mellom gjeldende rad og den nærmeste valgte raden.
 
-**Radvalgredigering** Hold `control` og klikk for å redigere enkelt elementer i valget
+_Radvalgredigering_ Hold `control` og klikk for å redigere enkelt elementer i valget
 
 ### 10.2 Åpne radinnhold
 
 Tekst i rader med innhold som kan forhåndsvises, kan klikkes for å åpne forhåndsvisningen av innholdet i raden på en ny side.
 
-**Åpne radikonner** Ikoner i rader med innhold som kan forhåndsvises, kan klikkes for enten å åpne forhåndsvisningen av innholdet i raden på en ny side eller i en popupdialogboks. Klikking på ikoner i rader uten innhold som kan forhåndsvises, velger raden i stedet.
+_Åpne radikonner_ Ikoner i rader med innhold som kan forhåndsvises, kan klikkes for enten å åpne forhåndsvisningen av innholdet i raden på en ny side eller i en popupdialogboks. Klikking på ikoner i rader uten innhold som kan forhåndsvises, velger raden i stedet.
 
 ### 10.3 Bokser i rader
 
 Det kan finnes flere typer bokser i en rad. Hver boks kan ha sitt eget ikon eller sin egen farge.
 
-**Merkeboks** Merkeboxer har et merkeikon i fargen på den merkingen. Når en merkeboks klikkes, kan den legges til gjeldende filter. Slik kan en merkeboks se ut:
+_Merkeboks_ Merkeboxer har et merkeikon i fargen på den merkingen. Når en merkeboks klikkes, kan den legges til gjeldende filter. Slik kan en merkeboks se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/27-boxes-in-rows.png)
 
-**Status- eller typeboks** Status- og typeboxer har en sirkel med fargen på statusen eller typen. Når en statusboks klikkes, kan den legges til gjeldende filter. Slik kan en status- eller typeboks se ut:
+_Status- eller typeboks_ Status- og typeboxer har en sirkel med fargen på statusen eller typen. Når en statusboks klikkes, kan den legges til gjeldende filter. Slik kan en status- eller typeboks se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/28-boxes-in-rows.png)
 
-**Teamboks** Teamboxer er farget grønt for teammedlemmer og oransje for administratorteam. Slik kan en teamboks se ut:
+_Teamboks_ Teamboxer er farget grønt for teammedlemmer og oransje for administratorteam. Slik kan en teamboks se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/29-boxes-in-rows.png)
 
-**Vis mer-boks** Hvis det er flere bokser enn det som kan passe inn i kolonnebredden på en radcelle, vises en boks med tre prikker:
+_Vis mer-boks_ Hvis det er flere bokser enn det som kan passe inn i kolonnebredden på en radcelle, vises en boks med tre prikker:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/30-boxes-in-rows.png)
 
 Klikk på denne boksen for å se de gjenværende boksene i radcellen for denne kolonnen.
 
-**Viserboks** 2D-, 3D- og zoom til omfang-bokser kan vises. Klikk på 2D-boksen for å laste inn innholdet i raden i 2D-viseren. Klikk på 3D-boksen for å laste inn innholdet i raden i 3D-viseren. Etter lasting av innholdet i raden i 3D-viseren blir zoom til omfang-knappen tilgjengelig og kan klikkes for å posisjonere kameraet i 3D-viseren slik at hele innholdet i raden er i visningsfeltet. Slik kan viserboxer se ut:
+_Viserboks_ 2D-, 3D- og zoom til omfang-bokser kan vises. Klikk på 2D-boksen for å laste inn innholdet i raden i 2D-viseren. Klikk på 3D-boksen for å laste inn innholdet i raden i 3D-viseren. Etter lasting av innholdet i raden i 3D-viseren blir zoom til omfang-knappen tilgjengelig og kan klikkes for å posisjonere kameraet i 3D-viseren slik at hele innholdet i raden er i visningsfeltet. Slik kan viserboxer se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/31-boxes-in-rows.png)
 
-**Objektboks** Antallet objekter som er koblet til raden vises. Slik kan en objektboks se ut:
+_Objektboks_ Antallet objekter som er koblet til raden vises. Slik kan en objektboks se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/32-boxes-in-rows.png)
 

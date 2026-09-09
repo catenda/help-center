@@ -26,11 +26,11 @@ Slik ser en ny navnekonvensjon ut.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/04-convention-information.png)
 
-**Navn** Konvensjonsnavnet slik det vil vises når du bruker det i dokumentinnstillinger
+_Navn_ Konvensjonsnavnet slik det vil vises når du bruker det i dokumentinnstillinger
 
-**Beskrivelse** Beskrivelsen av konvensjonen slik den vil vises i dokumentinnstillinger
+_Beskrivelse_ Beskrivelsen av konvensjonen slik den vil vises i dokumentinnstillinger
 
-**Skilletegn** Tegnet som skiller hver blokk unntatt filutvidelsesblokken.
+_Skilletegn_ Tegnet som skiller hver blokk unntatt filutvidelsesblokken.
 
 ### 3.2 **Forhåndsvisninger**
 
@@ -38,9 +38,9 @@ Slik ser en ny navnekonvensjon ut.
 
 Forhåndsvisninger viser mønsteret som konvensjonene følger både i ditt lokale filsystem og i Catenda Hub-dokumentstrukturen. Disse kan være forskjellige, og en kan kartlegges til den andre som du vil se
 
-**Dokumentnavn** Måten dokumentet i Catenda Hub vil se ut når filen er lastet opp
+_Dokumentnavn_ Måten dokumentet i Catenda Hub vil se ut når filen er lastet opp
 
-**Forventet filnavn** Hvordan filer som har tillatelse til å lastes opp, skal se ut
+_Forventet filnavn_ Hvordan filer som har tillatelse til å lastes opp, skal se ut
 
 ### 3.3 **Forhåndsvisningstyper**
 
@@ -56,27 +56,27 @@ En konvensjon har alltid minst to blokker: 1\. Navne på filen/dokumentet. 2\. N
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/07-blocks.png)
 
-**Navn** Navnet på blokken i navnekonvensjonsoppsettet slik at du kan skille dem fra hverandre
+_Navn_ Navnet på blokken i navnekonvensjonsoppsettet slik at du kan skille dem fra hverandre
 
-**Beskrivelse** Her kan du skrive en beskrivelse av hva du forventer at denne blokken skal gjøre
+_Beskrivelse_ Her kan du skrive en beskrivelse av hva du forventer at denne blokken skal gjøre
 
-**Dokumentidentifikator** Hvis du forventer en del av filnavnet som du ikke vil se i Catenda Hub, kan du slå av dokumentidentifikatoren. Denne delen av filnavnet vil fortsatt brukes for å godta filer, men vil ikke være synlig i det resulterende Catenda Hub-dokumentet.
+_Dokumentidentifikator_ Hvis du forventer en del av filnavnet som du ikke vil se i Catenda Hub, kan du slå av dokumentidentifikatoren. Denne delen av filnavnet vil fortsatt brukes for å godta filer, men vil ikke være synlig i det resulterende Catenda Hub-dokumentet.
 
-**Av** Når dokumentidentifikatoren er slått på, identifiserer denne blokken dokumentnavnet
+_Av_ Når dokumentidentifikatoren er slått på, identifiserer denne blokken dokumentnavnet
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/08-blocks.png)
 
-**Av** Når dokumentidentifikatoren er slått av, identifiserer denne blokken navnet på den lokale filen.
+_Av_ Når dokumentidentifikatoren er slått av, identifiserer denne blokken navnet på den lokale filen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/09-blocks.png)
 
-**Deaktivert** Dokumentidentifikatoren for utvidelsesblokken er alltid av fordi hver fil har en utvidelse.
+_Deaktivert_ Dokumentidentifikatoren for utvidelsesblokken er alltid av fordi hver fil har en utvidelse.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/10-blocks.png)
 
-**Kilde** Hva kvalifiserer identifikasjonen av filnavnet/dokumentnavnet? _Standard:_ Tekst - Denne blokken kan inneholde et hvilket som helst tegn _Egendefinert felt:_ - Begrens typene tegn som blokken din godtar med egendefinerte felt
+_Kilde_ Hva kvalifiserer identifikasjonen av filnavnet/dokumentnavnet? _Standard:_ Tekst - Denne blokken kan inneholde et hvilket som helst tegn _Egendefinert felt:_ - Begrens typene tegn som blokken din godtar med egendefinerte felt
 
-**Lengde** Hvor mange tegn det kan være i denne blokken. Hvis dette feltet er tomt, vil blokken ha variabel lengde.
+_Lengde_ Hvor mange tegn det kan være i denne blokken. Hvis dette feltet er tomt, vil blokken ha variabel lengde.
 
 ### 3.5 **Innsending av en konvensjon**
 

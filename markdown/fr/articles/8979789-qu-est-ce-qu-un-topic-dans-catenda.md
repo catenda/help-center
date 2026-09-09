@@ -2,9 +2,13 @@
 
 La base de tout ce qui est fait, peu importe ce que c'est, est la communication. Sans communication, de grandes choses peuvent être réalisées mais personne ne le saura. Dans Catenda, cette communication prend la forme d'un topic. Les topics sont un enregistrement d'une communication qui a eu lieu.
 
+Les topics suivants sont décrits dans cet article :
+
 ## 1. **Communication physique**
 
 La forme de communication la plus mémorable sera toujours la communication physique. Il y a des nuances comme les expressions faciales et les mouvements du corps que vous ne pouvez pas obtenir d'une autre manière.
+
+Les topics suivants sont décrits dans cette section :
 
 ### 1.1 **Inconvénients de la communication en personne**
 

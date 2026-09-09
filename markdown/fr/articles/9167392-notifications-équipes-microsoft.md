@@ -70,18 +70,14 @@ Suivez ces étapes pour créer un nouveau webhook **Flux de travail** Microsoft 
 Suivez ces étapes pour configurer le Lien webhook dans Catenda. De cette façon, Catenda sait où envoyer les Notifications du projet.
 
 1. Connectez-vous à **Catenda Hub**.
-
-2. Accédez à vos **Notifications > Paramètres** (au niveau du compte ou au niveau du projet).
-
-3. Sélectionnez l'onglet "Microsoft Équipes" et faites défiler jusqu'au bas.
-
-4. Collez votre URL copiée dans le champ **URL du Webhook**.
-
-5. Cliquez sur **Enregistrer**.
+1. Accédez à vos **Notifications > Paramètres** (au niveau du compte ou au niveau du projet).
+1. Sélectionnez l'onglet "Microsoft Équipes" et faites défiler jusqu'au bas.
+1. Collez votre URL copiée dans le champ **URL du Webhook**.
+1. Cliquez sur **Enregistrer**.
 
     <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
 
-6. **Activer les notifications** : Assurez-vous que le bouton bascule en haut de la page est défini sur **Activé**.<br>
+1. **Activer les notifications** : Assurez-vous que le bouton bascule en haut de la page est défini sur **Activé**.<br>
 
     <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
 

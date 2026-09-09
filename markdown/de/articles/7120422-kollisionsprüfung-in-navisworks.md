@@ -3,29 +3,26 @@
 ## 1. Kollisionsprüfung und Erstellung von BCF-viewpoint mithilfe des Plugins
 
 1. Richten Sie Clash Detective ein und führen Sie einen Clash-Test aus.
+1. Gehen Sie die clashes in NW durch.
 
-2. Gehen Sie die clashes in NW durch.
+    a. Geben Sie bei Bedarf Namen ein
 
-   a. Geben Sie bei Bedarf Namen ein
+    b. Passen Sie viewpoints an und speichern Sie sie mit den Befehlen **Focus on clash** und **Save viewpoint**
 
-   b. Passen Sie viewpoints an und speichern Sie sie mit den Befehlen **Focus on clash** und **Save viewpoint**
+    c. Fassen Sie clashes ähnlichen Typs zusammen
 
-   c. Fassen Sie clashes ähnlichen Typs zusammen
+1. Erstellen Sie einen Bericht als viewpoints. Schalten Sie **Preserve result highlighting** ein
+1. Diese viewpoints werden auf der Registerkarte clashes im Plugin angezeigt
+1. Erstellen Sie ein Problem durch Auswahl eines oder mehrerer clashes
 
-3. Erstellen Sie einen Bericht als viewpoints. Schalten Sie **Preserve result highlighting** ein
+    a. Geben Sie dem Problem einen Titel
 
-4. Diese viewpoints werden auf der Registerkarte clashes im Plugin angezeigt
+    b. Klicken Sie auf Problem hinzufügen.
 
-5. Erstellen Sie ein Problem durch Auswahl eines oder mehrerer clashes
+1. So erhalten Sie eine aussagekräftige Miniaturansicht:
 
-   a. Geben Sie dem Problem einen Titel
+    a. Wählen Sie clash in Clash Detective aus
 
-   b. Klicken Sie auf Problem hinzufügen.
+    b. Wählen Sie den gleichen clash auf der Registerkarte **Clashes** aus.
 
-6. So erhalten Sie eine aussagekräftige Miniaturansicht:
-
-   a. Wählen Sie clash in Clash Detective aus
-
-   b. Wählen Sie den gleichen clash auf der Registerkarte **Clashes** aus.
-
-   c. Klicken Sie auf Problem hinzufügen.
+    c. Klicken Sie auf Problem hinzufügen.

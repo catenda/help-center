@@ -7,9 +7,9 @@ Nach dem [Herunterladen, Installieren und Anmelden](https://support.catenda.com/
 Sie können Ihre Projekte filtern, indem Sie auf die Dropdownliste **(A)** tippen:
 
 1. Alphabetische Reihenfolge
-2. Zuletzt aktualisierte Projekte
-3. Favoriten
-4. Offline-Projekte
+1. Zuletzt aktualisierte Projekte
+1. Favoriten
+1. Offline-Projekte
 
 oder indem Sie in der Suchleiste **(B)** suchen:
 

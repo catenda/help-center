@@ -6,11 +6,11 @@ Mit der Namenskonvention wird gefordert oder gewünscht, dass alles eindeutig be
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-8d2926a56c34.png" style="height: auto;" width="1920"/></div>
 
-2. Schalten Sie den "Datumblock" in der Namenskonvention aus. Dies funktioniert in der Spalte "Dokumentenerkennung". Dieser Block wird dann nicht in die Abfrage aufgenommen. Er wird dann auch nicht im Namen angezeigt (Dokumentbereich).
+1. Schalten Sie den "Datumblock" in der Namenskonvention aus. Dies funktioniert in der Spalte "Dokumentenerkennung". Dieser Block wird dann nicht in die Abfrage aufgenommen. Er wird dann auch nicht im Namen angezeigt (Dokumentbereich).
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-a2fc3b4afcfe.png" style="height: auto;" width="1920"/></div>
 
-   Dazu können Sie die Spalte "Name de Revision" anzeigen, die den ursprünglichen Namen anzeigt.
+    Dazu können Sie die Spalte "Name de Revision" anzeigen, die den ursprünglichen Namen anzeigt.
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-1b1cee11c3c8.png" style="height: auto;" width="1920"/></div>
 

@@ -46,7 +46,7 @@ Antallet saker som har blitt [tildelt til et medlem](https://support.catenda.com
 
 De to sakslister med saksliste-kort med flest saker der statusen har en åpen metastatus som et medlem har tilgang til vises.
 
-**Saksliste-kort** Slik kan et saksliste-kort se ut:
+_Saksliste-kort_ Slik kan et saksliste-kort se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/05-topic-board-graph.png)
 
@@ -130,13 +130,13 @@ Slik kan gjennomgangsmenyen se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/13-approvals-legacy.png)
 
-**Åpne gjennomganger** Se alle åpne [gjennomganger](https://support.catenda.com/en/articles/5784717-document-approval)
+_Åpne gjennomganger_ Se alle åpne [gjennomganger](https://support.catenda.com/en/articles/5784717-document-approval)
 
-**Opprettet av meg** Se alle åpne [gjennomganger](https://support.catenda.com/en/articles/5784717-document-approval) du har opprettet
+_Opprettet av meg_ Se alle åpne [gjennomganger](https://support.catenda.com/en/articles/5784717-document-approval) du har opprettet
 
-**Jeg er vurderer** Se alle åpne [gjennomganger](https://support.catenda.com/en/articles/8349340-approvals-page) der du er satt som vurderer.
+_Jeg er vurderer_ Se alle åpne [gjennomganger](https://support.catenda.com/en/articles/8349340-approvals-page) der du er satt som vurderer.
 
-**Gjennomgangforespørselskort** Se de 5 nyeste åpne [gjennomganger](https://support.catenda.com/en/articles/5784717-document-approval) i prosjektet. Klikk på en [gjennomgang](https://support.catenda.com/en/articles/5784717-document-approval) for å se innholdet.
+_Gjennomgangforespørselskort_ Se de 5 nyeste åpne [gjennomganger](https://support.catenda.com/en/articles/5784717-document-approval) i prosjektet. Klikk på en [gjennomgang](https://support.catenda.com/en/articles/5784717-document-approval) for å se innholdet.
 
 ## 7. **Samlinger**
 

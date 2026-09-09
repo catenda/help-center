@@ -49,8 +49,8 @@ _Linkermuisklik_ Als er spaties zijn in de verdieping van de 2D-weergave die voo
 - _Markering toevoegen_<br>Een nieuwe markering toevoegen. Met een geopend onderwerp in het inhoudsvenster kunt u de geselecteerde markering toewijzen. Deze markering wordt pas opgeslagen en zichtbaar voor anderen als deze aan een probleem wordt toegevoegd.
 - _Een nieuw onderwerp met markering maken_<br>Een nieuw onderwerp met markering maken. Deze markering wordt pas opgeslagen en zichtbaar voor anderen als het onderwerp wordt verzonden.
 - _Query maken_
-  - Spatie kruisen - Een [query](https://support.catenda.com/en/articles/4854514-queries) van alle objecten die elkaar kruisen met de geselecteerde spatie maken
-  - Verdieping kruisen - Een [query](https://support.catenda.com/en/articles/4854514-queries) van alle objecten die deze verdieping kruisen maken
+    - Spatie kruisen - Een [query](https://support.catenda.com/en/articles/4854514-queries) van alle objecten die elkaar kruisen met de geselecteerde spatie maken
+    - Verdieping kruisen - Een [query](https://support.catenda.com/en/articles/4854514-queries) van alle objecten die deze verdieping kruisen maken
 
 ### 3.2 **Muisknop ingedrukt houden**
 

@@ -7,8 +7,8 @@ Velg dokument(er) og/eller mappe(r) i dokumentområdet for å finne tilgangskont
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/01-intro.png)
 
 1. Velg dokument(ene) og/eller mappe(ne) som skal konfigureres.
-2. Åpne høyremenyen
-3. Klikk på **rediger tilgang**.
+1. Åpne høyremenyen
+1. Klikk på **rediger tilgang**.
 
 > **Viktig:** **Påkrevd tilgang:** Full tilgang
 
@@ -32,11 +32,11 @@ Tilgangen med høyest vekt vinner alltid, men det finnes unntak. Restriktive niv
 
 ### 2.1 **2.1 Hvilken av konfigurasjonene gjelder?**
 
-**Administratorer** Administratorer har alltid tilgang til alt.
+_Administratorer_ Administratorer har alltid tilgang til alt.
 
-**Individer** Den nøyaktig konfigurerte tilgangsnivået gjelder.
+_Individer_ Den nøyaktig konfigurerte tilgangsnivået gjelder.
 
-**Andre** Kontroller den ulike tilgangen som er konfigurert for en bruker enten via en av følgende:
+_Andre_ Kontroller den ulike tilgangen som er konfigurert for en bruker enten via en av følgende:
 
 - Alle brukere
 - Et team som brukeren er medlem av (kan være medlem av flere)

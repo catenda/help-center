@@ -37,11 +37,11 @@ Hvis noe obligatorisk felt er ufullstending når du prøver å lagre en ny arbei
 
 ### 2.2 **2.2 Systemgrenser og teammedlemskapregler**
 
-**2.2.1 Rørledningsgrenser** En enkelt arbeitsflyt støtter opptil **10 sekvensielle vurderingstrinn** og totalt **20 vurderingsteam** på tvers av rørledningen.
+_2.2.1 Rørledningsgrenser_ En enkelt arbeitsflyt støtter opptil **10 sekvensielle vurderingstrinn** og totalt **20 vurderingsteam** på tvers av rørledningen.
 
-**2.2.2 Teamvalg kontra medlemstilstedeværelse** Under initial opprettelse validerer systemet at innsendingsteam, vurderingsteam og sluttgjennomgangsteam er valgt. Imidlertid **kontrollerer det ikke** om disse teamene inneholder faktiske medlemmer.
+_2.2.2 Teamvalg kontra medlemstilstedeværelse_ Under initial opprettelse validerer systemet at innsendingsteam, vurderingsteam og sluttgjennomgangsteam er valgt. Imidlertid **kontrollerer det ikke** om disse teamene inneholder faktiske medlemmer.
 
-**2.2.3 Kjøringskrav og auto-godkjenning** For å gjøre en gjennomgangsforespørsel gjennomførbar fra start til slutt:
+_2.2.3 Kjøringskrav og auto-godkjenning_ For å gjøre en gjennomgangsforespørsel gjennomførbar fra start til slutt:
 
 - Minst ett innsendingsteammedlem må være tilstede i et tildelt innsendingsteam for å starte forespørselen.
 - Minst ett vurderingsteammedlem må være tilstede i et tildelt vurderingsteam, med mindre auto-godkjenning er aktivert for det trinnet.
@@ -49,7 +49,7 @@ Hvis noe obligatorisk felt er ufullstending når du prøver å lagre en ny arbei
 - Hvis auto-godkjenning ikke er konfigurert, vil et tomt vurderingsteam stanse gjennomgangsforespørselen til et medlem legges til det teamet.
 - Minst ett sluttgjennomgangsteammedlem må være tilstede for å presentere det endelige resultatet.
 
-**2.2.4 Administratorrettigheter** Prosjektadministratorer har ikke automatiske operative rettigheter. For å utføre handlinger under en gjennomgang, må en administrator være et eksplisitt medlem av det relevante teamet:
+_2.2.4 Administratorrettigheter_ Prosjektadministratorer har ikke automatiske operative rettigheter. For å utføre handlinger under en gjennomgang, må en administrator være et eksplisitt medlem av det relevante teamet:
 
 - **Innsendingsteam**<br>Påkrevd for å starte en gjennomgangforespørsel.
 - **Vurderingsteam**<br>Påkrevd for å angi eller sende inn en vurderingsvalidering.
@@ -63,19 +63,19 @@ Visse operasjoner forblir fleksible og kan justeres under innledende oppsett ell
 
 Disse innstillingene kan endres i arbeitsflytkonfigurasjonsmenyen når som helst, noe som direkte påvirker fremtidige gjennomgangsforespørsler:
 
-**3.1.1 Innsendingsteam** Administratorer kan legge til eller fjerne innsendingsteam etter innsending for å kontrollere hvilke prosjektteam som har tillatelse til å starte nye gjennomgangsforespørsler under denne arbeitsflyten.
+_3.1.1 Innsendingsteam_ Administratorer kan legge til eller fjerne innsendingsteam etter innsending for å kontrollere hvilke prosjektteam som har tillatelse til å starte nye gjennomgangsforespørsler under denne arbeitsflyten.
 
-**3.1.2 Gjennomgangssakmaler** Gjennomgangssakmaler knyttet til spesifikke resultater (_Godkjent_, _Godkjent med kommentarer_, eller _Avslått_) kan legges til, oppdateres eller avkoblet når som helst for å kontrollere problemsporing under vurderinger.
+_3.1.2 Gjennomgangssakmaler_ Gjennomgangssakmaler knyttet til spesifikke resultater (_Godkjent_, _Godkjent med kommentarer_, eller _Avslått_) kan legges til, oppdateres eller avkoblet når som helst for å kontrollere problemsporing under vurderinger.
 
 ### 3.2 **3.2** **Prosjektteammedlemskapshåndtering (gjelder alle teamtyper)**
 
 Å legge til eller fjerne individuelle brukere skjer på **Prosjektteam**-siden og krever ikke redigering eller re-lagring av arbeitsflytemalen. Avgjørende er at medlemskapshåndtering gjelder **alle tre arbeitsflytteamtyper**, og påvirker direkte hvem som kan utføre handlinger:
 
-**3.2.1 Innsendingsteam** Å legge til eller fjerne medlemmer endrer hvem som kan velge arbeitsflyten for å starte nye gjennomgangsforespørsler.
+_3.2.1 Innsendingsteam_ Å legge til eller fjerne medlemmer endrer hvem som kan velge arbeitsflyten for å starte nye gjennomgangsforespørsler.
 
-**3.2.2 Vurderingsteam** Å legge til eller fjerne medlemmer endrer hvem som kan få tilgang til aktive vurderingstrinn, legge til merknader/kommentarer og sende inn trinvalideringsindikasjoner.
+_3.2.2 Vurderingsteam_ Å legge til eller fjerne medlemmer endrer hvem som kan få tilgang til aktive vurderingstrinn, legge til merknader/kommentarer og sende inn trinvalideringsindikasjoner.
 
-**3.2.3 Sluttgjennomgangsteam** Å legge til eller fjerne medlemmer endrer hvem som kan presentere den endelige beslutningen og lukke en aktiv gjennomgangsforespørsel.
+_3.2.3 Sluttgjennomgangsteam_ Å legge til eller fjerne medlemmer endrer hvem som kan presentere den endelige beslutningen og lukke en aktiv gjennomgangsforespørsel.
 
 ## 4. **4.** **Regler etter innsending og parameterlåsing**
 
@@ -83,9 +83,9 @@ Når en arbeitsflytmal lagres og sendes inn for første gang, låses nøkkelstru
 
 ### 4.1 **4.1 Låste kontra redigerbare parametere**
 
-**4.1.1 Låste parametere** Tidsinnstillinger, vurderingstrinn, tildelte vurderingsteam, trinvarigheter, auto-godkjenningsknapper, endelige godkjenningsteam og kartlagte sluttdokumentstatuser kan ikke endres etter innledende innsending.
+_4.1.1 Låste parametere_ Tidsinnstillinger, vurderingstrinn, tildelte vurderingsteam, trinvarigheter, auto-godkjenningsknapper, endelige godkjenningsteam og kartlagte sluttdokumentstatuser kan ikke endres etter innledende innsending.
 
-**4.1.2 Redigerbare parametere** Bare arbeitsflytetittelen, innsendingsteamtildelinger og koblede gjennomgangssakmaler forblir redigerbare etter innsending.
+_4.1.2 Redigerbare parametere_ Bare arbeitsflytetittelen, innsendingsteamtildelinger og koblede gjennomgangssakmaler forblir redigerbare etter innsending.
 
 ### 4.2 **4.2 Brutte eksterne avhengigheter og løsninger**
 
@@ -95,9 +95,9 @@ Lagring av **en hvilken som helst** redigeringen etter innsending av en eksister
 
 ### 4.3 **4.3 Arkivering og gjenoppretting av arbeitsflyter**
 
-**4.3.1 Arkivering av arbeitsflyter** Skjuler den aktive arbeitsflyten fra opprettelsesmenyer slik at prosjektmedlemmer ikke kan velge den for nye forespørsler.
+_4.3.1 Arkivering av arbeitsflyter_ Skjuler den aktive arbeitsflyten fra opprettelsesmenyer slik at prosjektmedlemmer ikke kan velge den for nye forespørsler.
 
-**4.3.2 Gjenoppretting av arbeitsflyter** Gjør en arkivert arbeitsflyt aktiv igjen i opprettelsesmenyer for tildelte innsendingsteam.
+_4.3.2 Gjenoppretting av arbeitsflyter_ Gjør en arkivert arbeitsflyt aktiv igjen i opprettelsesmenyer for tildelte innsendingsteam.
 
 ## 5. **5.** **Innvirkning på pågående gjennomganger og team-livssykler**
 
@@ -107,36 +107,36 @@ Når prosjektinnstillinger eller teammedlemsskap endres mens gjennomgangsforesp�
 
 Prosjektmedlemmer kan legges til eller fjernes fra arbeitsflytteam på siden **Prosjektteam** når som helst uten å redigere arbeitsflytemalen selv.
 
-**5.1.1 Medlemmer av innsendingsteam** Når du legger til en bruker i et innsendingsteam, kan de opprette nye forespørsler fremover. Imidlertid gir medlemskap i innsendingsteam aldri delt synlighet til forespørsler opprettet av lagkamerater. Tilgang til en innsendt forespørsel forblir strengt personlig for den enkelte opprettingen.
+_5.1.1 Medlemmer av innsendingsteam_ Når du legger til en bruker i et innsendingsteam, kan de opprette nye forespørsler fremover. Imidlertid gir medlemskap i innsendingsteam aldri delt synlighet til forespørsler opprettet av lagkamerater. Tilgang til en innsendt forespørsel forblir strengt personlig for den enkelte opprettingen.
 
-**5.1.2 Medlemmer av vurderingsteam** Når du legger til en bruker i et vurderingsteam, får de umiddelbar tilgang til aktive gjennomgangforespørsler som for øyeblikket er i det vurderingstrinn. Hvis du fjerner alle medlemmer fra et vurderingsteam, blir pågående forespørsler låst fast i det trinnet til et nytt medlem legges til, med mindre **automatisk godkjenning** er aktivert for det trinnet, i hvilket tilfelle forespørselen automatisk blir godkjent og avanserer når tidsfristen for trinnet utløper.
+_5.1.2 Medlemmer av vurderingsteam_ Når du legger til en bruker i et vurderingsteam, får de umiddelbar tilgang til aktive gjennomgangforespørsler som for øyeblikket er i det vurderingstrinn. Hvis du fjerner alle medlemmer fra et vurderingsteam, blir pågående forespørsler låst fast i det trinnet til et nytt medlem legges til, med mindre **automatisk godkjenning** er aktivert for det trinnet, i hvilket tilfelle forespørselen automatisk blir godkjent og avanserer når tidsfristen for trinnet utløper.
 
-**5.1.3 Sluttgjennomgangsteammedlemmer** Å legge til en bruker i et sluttgjennomgangsteam gir dem umiddelbar tilgang til å presentere endelige beslutninger om aktive forespørsler som når det endelige godkjenningstrinnet. Å fjerne alle medlemmer fra et sluttgjennomgangsteam fryser pågående forespørsler på det endelige trinnet til en bruker legges til (auto-godkjenning er ikke tilgjengelig for sluttgjennomgangstrinn).
+_5.1.3 Sluttgjennomgangsteammedlemmer_ Å legge til en bruker i et sluttgjennomgangsteam gir dem umiddelbar tilgang til å presentere endelige beslutninger om aktive forespørsler som når det endelige godkjenningstrinnet. Å fjerne alle medlemmer fra et sluttgjennomgangsteam fryser pågående forespørsler på det endelige trinnet til en bruker legges til (auto-godkjenning er ikke tilgjengelig for sluttgjennomgangstrinn).
 
 ### 5.2 **5.2** **Sletting av team fra prosjektinnstillinger**
 
 Slettede prosjektteam kan ikke gjenopprettes. Hvis et team tildelt en arbeitsflyt slettes fra prosjektinnstillinger, avhenger den operative virkningen av teamets rolle i arbeitsflytlivssyklusen:
 
-**5.2.1 Slettede innsendingsteam** Innsendingsteam forblir redigerbare etter innsending. En administrator kan redigere arbeitsflytekonfigurasjonen direkte og tildele et nytt aktivt innsendingsteam.
+_5.2.1 Slettede innsendingsteam_ Innsendingsteam forblir redigerbare etter innsending. En administrator kan redigere arbeitsflytekonfigurasjonen direkte og tildele et nytt aktivt innsendingsteam.
 
-**5.2.2 Slettede vurderingsteam** Vurderingstrinn er låst etter innsending.
+_5.2.2 Slettede vurderingsteam_ Vurderingstrinn er låst etter innsending.
 
 - **Hvis andre tildelte team gjenstår**<br>Vurderingsstrinnet fortsetter å fungere for de gjenstående teamene.
 - **Hvis ingen team gjenstår og auto-godkjenning er PÅ**<br>Trinnet godkjennes automatisk og avanserer når trinnet frist har passert.
 - **Hvis ingen team gjenstår og auto-godkjenning er AV**<br>Gjennomgangforespørsler som pågår stopper på ubestemt tid ved det vurderingsstrinnet.
 
-**5.2.3 Slettede sluttgjennomgangsteam** Endelige godkjenningsteam er låst etter innsending, og auto-godkjenning er **ikke** tilgjengelig for sluttgjennomgangstrinn. Hvis alle sluttgjennomgangsteam slettes, staller pågående gjennomgangsforespørsler ubestemt.
+_5.2.3 Slettede sluttgjennomgangsteam_ Endelige godkjenningsteam er låst etter innsending, og auto-godkjenning er **ikke** tilgjengelig for sluttgjennomgangstrinn. Hvis alle sluttgjennomgangsteam slettes, staller pågående gjennomgangsforespørsler ubestemt.
 
-**5.2.4 Anbefalt handling for stillestilte eller ufullstendige arbeitsflyter** Når et vurderingstrinn staller med ingen gjenværende team (og auto-godkjenning er av), eller når alle sluttgjennomgangsteam slettes, er anbefalingen å arkivere den brutte gjennomgangsarbeitsflyten og forkaste alle dokumenter strengt fra åpne gjennomgangsforespørsler som følger denne spesifikke arbeitsflyten. Eventuelt kan en ny gjennomgangsarbeitsflyt opprettes hvis en erstatning er nødvendig.
+_5.2.4 Anbefalt handling for stillestilte eller ufullstendige arbeitsflyter_ Når et vurderingstrinn staller med ingen gjenværende team (og auto-godkjenning er av), eller når alle sluttgjennomgangsteam slettes, er anbefalingen å arkivere den brutte gjennomgangsarbeitsflyten og forkaste alle dokumenter strengt fra åpne gjennomgangsforespørsler som følger denne spesifikke arbeitsflyten. Eventuelt kan en ny gjennomgangsarbeitsflyt opprettes hvis en erstatning er nødvendig.
 
 ### 5.3 **5.3** **Arkivering og omkonfigurering av gjennomgangssakmaler**
 
 Gjennomgangssakmaler konfigureres separat for hvert beslutningsresultat (f.eks. _Godkjent_, _Godkjent med kommentarer_, eller _Avslått_). Systemet behandler endringer i gjennomgangssakmaler uavhengig per resultat:
 
-**5.3.1 Resultatspesifikk isolasjon** Arkivering eller endring av en gjennomgangssakmal for ett beslutningsresultat påvirker bare det spesifikke resultatet. Alle andre resultater med intakte gjennomgangssakmaler fortsetter å opprette saker som forventet.
+_5.3.1 Resultatspesifikk isolasjon_ Arkivering eller endring av en gjennomgangssakmal for ett beslutningsresultat påvirker bare det spesifikke resultatet. Alle andre resultater med intakte gjennomgangssakmaler fortsetter å opprette saker som forventet.
 
-**5.3.2 Arkivering av en koblet gjennomgangssakmal** Hvis en gjennomgangssakmal tildelt et resultat arkiveres, vil pågående gjennomgangsforespørsler som følger den arbeitsflyten (og nye forespørsler sendt mens den er uavhengig) **ikke** generere saker hvis det resultatet velges.
+_5.3.2 Arkivering av en koblet gjennomgangssakmal_ Hvis en gjennomgangssakmal tildelt et resultat arkiveres, vil pågående gjennomgangsforespørsler som følger den arbeitsflyten (og nye forespørsler sendt mens den er uavhengig) **ikke** generere saker hvis det resultatet velges.
 
-**5.3.3 Gjenoppretting av en arkivert gjennomgangssakmal** Gjenoppretting (gjøring av aktiv) av den opprinnelige gjennomgangssakmalen gjør automatisk sakopprettelse aktiv igjen i henhold til den malen på tvers av alle tilhørende gjennomgangsforespørsler.
+_5.3.3 Gjenoppretting av en arkivert gjennomgangssakmal_ Gjenoppretting (gjøring av aktiv) av den opprinnelige gjennomgangssakmalen gjør automatisk sakopprettelse aktiv igjen i henhold til den malen på tvers av alle tilhørende gjennomgangsforespørsler.
 
-**5.3.4 Konfigurering av en annen gjennomgangssakmal** Hvis en administrator oppdaterer arbeitsflyten etter innsending for å tildele en _annen_ aktiv gjennomgangssakmal, vil pågående gjennomgangsforespørsler initiert før redigeringen **ikke** generere saker ved hjelp av den nye malen. Bare nye gjennomgangsforespørsler sendt etter omkonfigureringen genererer saker basert på den nylig tildelte malen.
+_5.3.4 Konfigurering av en annen gjennomgangssakmal_ Hvis en administrator oppdaterer arbeitsflyten etter innsending for å tildele en _annen_ aktiv gjennomgangssakmal, vil pågående gjennomgangsforespørsler initiert før redigeringen **ikke** generere saker ved hjelp av den nye malen. Bare nye gjennomgangsforespørsler sendt etter omkonfigureringen genererer saker basert på den nylig tildelte malen.

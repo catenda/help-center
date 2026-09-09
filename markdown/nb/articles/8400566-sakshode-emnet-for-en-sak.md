@@ -24,7 +24,7 @@ Her kan du velge gjeldende [status](https://support.catenda.com/en/articles/4670
 
 Standardstatusene du kan velge mellom er: Aktiv _(Åpen)_ Pågår _(Åpen)_ Løst _(Åpen)_ Godkjent _(Lukket)_ Avslått _(Lukket)_ Du kan redigere disse eller opprette dine egne [statuser](https://support.catenda.com/en/articles/4670277-issue-board-settings#status).
 
-**Når bør hver status brukes?** Typisk mottar nye saker som opprettes statusen åpen. Eventuelt kan en kandidatstatus velges hvis saken som sendes inn faller utenfor den typiske åpen- og lukket-flyten. Et eksempel på dette kan være:
+_Når bør hver status brukes?_ Typisk mottar nye saker som opprettes statusen åpen. Eventuelt kan en kandidatstatus velges hvis saken som sendes inn faller utenfor den typiske åpen- og lukket-flyten. Et eksempel på dette kan være:
 
 Saksoppretteren er ikke ferdig med redigeringen. Saken er ikke klar til å åpnes ennå i dette tilfellet.
 
@@ -50,13 +50,13 @@ Medlemmet som er tilordnet, trenger ikke nødvendigvis å være personen som er 
 
 Når et medlem tildeles, vises saken på [medlemssiden](https://support.catenda.com/en/articles/8228836-member-page) for medlemmet.
 
-**Klargjøring av aktuelt team med medlem@team** Medlemmer er ofte del av ulike team avhengig av de ulike rollene de har i prosjektet. Ved å klargjøre hvilket team som den tilordnede personen er del av at denne saken gjelder, kan saken filtreres bedre i saklisten. Å klargjøre teamet kan både hjelpe medlemmer som er tilordnet mange saker til å skille saker mellom deres ulike roller, samt at det vil hjelpe andre med å finne saker som gjelder dette teamet. Når et medlem@team tildeles, vises saken på [teamsiden](https://support.catenda.com/en/articles/7891755-team-page) for teamet. Ingen varsling genereres for teammedlemmer når det aktuelle teamet klargjøres.
+_Klargjøring av aktuelt team med medlem@team_ Medlemmer er ofte del av ulike team avhengig av de ulike rollene de har i prosjektet. Ved å klargjøre hvilket team som den tilordnede personen er del av at denne saken gjelder, kan saken filtreres bedre i saklisten. Å klargjøre teamet kan både hjelpe medlemmer som er tilordnet mange saker til å skille saker mellom deres ulike roller, samt at det vil hjelpe andre med å finne saker som gjelder dette teamet. Når et medlem@team tildeles, vises saken på [teamsiden](https://support.catenda.com/en/articles/7891755-team-page) for teamet. Ingen varsling genereres for teammedlemmer når det aktuelle teamet klargjøres.
 
-**Varsling generert** Individuelt tildelte ansvarlige får en varsling om at de er tildelt en sak. I tillegg angis de automatisk som [følger](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) av saken og får dermed varslinger om fremtidige endringer i saken. En ulempe ved å tildele et medlem i stedet for et team er at bare medlemmet får varslinger om saken. Dette kan løses ved å [nevne](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) andre medlemmer i beskrivelsen eller kommentaren slik at de automatisk [følger](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken og som følge av det får varslinger om fremtidige endringer i saken.
+_Varsling generert_ Individuelt tildelte ansvarlige får en varsling om at de er tildelt en sak. I tillegg angis de automatisk som [følger](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) av saken og får dermed varslinger om fremtidige endringer i saken. En ulempe ved å tildele et medlem i stedet for et team er at bare medlemmet får varslinger om saken. Dette kan løses ved å [nevne](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) andre medlemmer i beskrivelsen eller kommentaren slik at de automatisk [følger](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken og som følge av det får varslinger om fremtidige endringer i saken.
 
 ### 3.2 **Tildelt til team**
 
-**Tildel team eller la stå tomt når oppfølging er usikker** Det er ofte ikke nok å stole på et team for å følge opp en sak da ingen av teammedlemmene vil føle seg personlig ansvarlig for denne oppgaven.
+_Tildel team eller la stå tomt når oppfølging er usikker_ Det er ofte ikke nok å stole på et team for å følge opp en sak da ingen av teammedlemmene vil føle seg personlig ansvarlig for denne oppgaven.
 
 Hvis det ennå ikke er klart hvem som vil være ansvarlig for å følge opp saken, tilordner du et team slik at saklisten kan filtreres for senere tilordning. Tildel bare til et team når det er gjort klart at teamet vil møtes for å tilordne saken til riktig person.
 
@@ -68,7 +68,7 @@ Varsling generert I motsetning til individuelt tildelte medlemmer som automatisk
 
 Hvis ingen medlem eller team er ansvarlig for å følge opp saken, kan feltet Tildelt til stå tomt. Dette kan være når saken bare er for informasjon.
 
-**Varsling generert:** Ingen teammedlemmer varsles om at et team de er del av er tilordnet saken og ingen medlemmer varsles om at de er tilordnet saken, og de får heller ikke varslinger om fremtidige oppdateringer med mindre de er nevnt, angitt som ansvarlig eller etterspørrer eller manuelt følger saken.
+_Varsling generert:_ Ingen teammedlemmer varsles om at et team de er del av er tilordnet saken og ingen medlemmer varsles om at de er tilordnet saken, og de får heller ikke varslinger om fremtidige oppdateringer med mindre de er nevnt, angitt som ansvarlig eller etterspørrer eller manuelt følger saken.
 
 ### 3.4 **Etterspurt av**
 
@@ -78,7 +78,7 @@ Her angir du normalt deg selv som etterspørrer, men du kan velge ethvert medlem
 
 Hvis ingen medlem eller team etterspør saken, kan feltet Etterspurt av stå tomt.
 
-**Varsling generert:** Ingen teammedlemmer varsles om at et team de er del av etterspør saken og ingen medlemmer får varslinger om fremtidige oppdateringer med mindre de er nevnt, angitt som ansvarlig eller etterspørrer eller manuelt følger saken.
+_Varsling generert:_ Ingen teammedlemmer varsles om at et team de er del av etterspør saken og ingen medlemmer får varslinger om fremtidige oppdateringer med mindre de er nevnt, angitt som ansvarlig eller etterspørrer eller manuelt følger saken.
 
 ## 4. **Tid og sted**
 
@@ -93,7 +93,7 @@ Hvis ingen medlem eller team etterspør saken, kan feltet Etterspurt av stå tom
 
 Frister og milepæler kan hjelpe deg med å spore fremgang på [statistikksiden](https://support.catenda.com/en/articles/7575491-statistics-page).
 
-**Ikonfarge** Ikoner for frister og milepæler kan ha ulike farger avhengig av tid.
+_Ikonfarge_ Ikoner for frister og milepæler kan ha ulike farger avhengig av tid.
 
 Når du angir en frist eller milepæl
 
@@ -123,9 +123,9 @@ Når en sak er lukket, er ikonet for en frist eller milepæl svak grå.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aczt44d1/05-due-date-and-milestone.png)
 
-**Frist** Hvis du har en ide om når innholdet i saken forfaller, angir du en frist eller lar den stå tomt. Det er ofte bra å angi en frist selv om det ikke er klart nøyaktig når innholdet i saken forfaller. Fristen kan alltid endres senere. Ved å få i vanen med å angi frister kan planleggingen informeres. Jo mer tidsrammer som spekuleres, jo mer kan prosjektmedlemmer forutse.
+_Frist_ Hvis du har en ide om når innholdet i saken forfaller, angir du en frist eller lar den stå tomt. Det er ofte bra å angi en frist selv om det ikke er klart nøyaktig når innholdet i saken forfaller. Fristen kan alltid endres senere. Ved å få i vanen med å angi frister kan planleggingen informeres. Jo mer tidsrammer som spekuleres, jo mer kan prosjektmedlemmer forutse.
 
-**Milepæl** Fest saken til en [milepæl](https://support.catenda.com/en/articles/4670266-milestones-page) eller la den stå tom. En milepæl i sakerområdet er ofte en prosjektfase eller datoen for en planlagt hendelse innen hvilken saker må leveres.
+_Milepæl_ Fest saken til en [milepæl](https://support.catenda.com/en/articles/4670266-milestones-page) eller la den stå tom. En milepæl i sakerområdet er ofte en prosjektfase eller datoen for en planlagt hendelse innen hvilken saker må leveres.
 
 ## 5. **Merkelapper**
 

@@ -54,11 +54,11 @@ Jede IFC-Ebene wird in einem Geschoss dargestellt. Hier können Sie den Namen un
 
 > **Hinweis:** Das Ändern der Höhe ändert die Darstellung Ihrer 2D-Ansicht.
 
-Innerhalb des Geschosses können Sie die Überlagerung einstellen, klicken Sie auf „Zusätzliche Optionen anzeigen
+Innerhalb des Geschosses können Sie die Überlagerung einstellen, klicken Sie auf „Zusätzliche Optionen anzeigen“
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hn8gfwtp/08-storey-configuration.png)
 
-Hier sehen Sie die Funktion „An das Geschoss angehängte Zeichnungen
+Hier sehen Sie die Funktion „An das Geschoss angehängte Zeichnungen“. Klicken Sie auf Hinzufügen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hn8gfwtp/09-storey-configuration.png)
 
@@ -86,7 +86,7 @@ Mit Markierung A und B bestimmen Sie die Position der Überlagerung. Die Punkte,
 
 Verwenden Sie die Markierung über Drag & Drop, um sie zu positionieren. Sie können auch durch Scrollen in der Zeichnung zoomen.
 
-Nachdem Sie diese platziert haben, klicken Sie auf „Weiter: Ergebnis bestätigen
+Nachdem Sie diese platziert haben, klicken Sie auf „Weiter: Ergebnis bestätigen“
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hn8gfwtp/14-alignment-dialogue.png)
 
@@ -96,13 +96,13 @@ Nach dem Bestätigen der Position der Markierungen wird das Genehmigungsdialog g
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hn8gfwtp/15-approve-dialogue.png)
 
-Hier kann jederzeit eine Änderung vorgenommen werden, indem Sie auf „Zurück: Modell- und Zeichnungspunkte positionieren
+Hier kann jederzeit eine Änderung vorgenommen werden, indem Sie auf „Zurück: Modell- und Zeichnungspunkte positionieren“ klicken. Wenn Sie mit Ihrer Ausrichtung zufrieden sind, bestätigen Sie sie, indem Sie auf Genehmigen klicken.
 
 Dies bringt Sie zurück zum Geschosskonfigurator, und Sie können jetzt das nächste Geschoss einrichten. Die Platzierung von Zeichnungen kann auch in diesem Dialog geändert werden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hn8gfwtp/16-approve-dialogue.png)
 
-**Wichtig:** Hier müssen Sie auf „Konfiguration speichern
+**Wichtig:** Hier müssen Sie auf „Konfiguration speichern“ klicken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hn8gfwtp/17-approve-dialogue.png)
 

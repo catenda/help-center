@@ -2,11 +2,11 @@
 
 > Industri: Helsekonstruksjon / BIM (Building Information Modeling) Persona: David, en BIM-koordinator for en stor generalentreprenør.
 
-**Scenario:** David administrerer den digitale konstruksjonsmodellen for en ny sykehusavdeling. Dette er et svært komplekst prosjekt som involverer dusinvis av spesialiserte team. Arkitektur-, struktur- og MEP-modellene (mekanisk, elektrisk, rørleggearbeid) oppdateres konstant av forskjellige konsulentfirmaer. Davids primære ansvar er å federalisere (kombinere) disse modellene i Catenda Hub for å identifisere og løse clashes _før_ de blir dyre problemer på byggeplassen.
+_Scenario:_ David administrerer den digitale konstruksjonsmodellen for en ny sykehusavdeling. Dette er et svært komplekst prosjekt som involverer dusinvis av spesialiserte team. Arkitektur-, struktur- og MEP-modellene (mekanisk, elektrisk, rørleggearbeid) oppdateres konstant av forskjellige konsulentfirmaer. Davids primære ansvar er å federalisere (kombinere) disse modellene i Catenda Hub for å identifisere og løse clashes _før_ de blir dyre problemer på byggeplassen.
 
 Under sin ukentlige koordineringskontroll må han undersøke et potensielt kritisk problem som er flagget av byggeplasslederen: støttestrukturen for en stor MRI-maskin på andre etasje stemmer kanskje ikke overens med de nyeste arkitektur- og elektriske planene.
 
-**Løsning ved bruk av Catenda Hub:** David bruker en presis arbeidsflyt innen Catenda Hub for å håndtere denne komplekse koordineringsoppgaven effektivt.
+_Løsning ved bruk av Catenda Hub:_ David bruker en presis arbeidsflyt innen Catenda Hub for å håndtere denne komplekse koordineringsoppgaven effektivt.
 
 ### **1. Sentralisering av data på siden "Modeller":**
 

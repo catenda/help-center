@@ -22,7 +22,7 @@ Wird durch Auswahl einer Genehmigungsanfragekarte auf der Genehmigungsseite geö
 
 Wird durch Klicken auf Überprüfung oder Anzeigen für Dateien in einer Genehmigungsanfrage geöffnet. Diese Seite bietet zwei verschiedene Modi:
 
-**1.3.1 Überprüfungsmodus** Wird durch Klicken auf die Schaltfläche „Überprüfung
+**1.3.1 Überprüfungsmodus** Wird durch Klicken auf die Schaltfläche „Überprüfung“ im Namen eines aktiven Prüferteams geöffnet. Vollständige Anmerkungswerkzeuge stehen zur Verfügung, um Markups und Kommentare hinzuzufügen. Kann für alle Dokumente über die Registerkarte „Übersicht“ oder für ausgewählte Dokumente über das rechte Menü der Registerkarte „Dokumente“ gestartet werden.
 
 **1.3.2 Ansichtsmodus** Wird durch Klicken auf die Schaltfläche "Ansicht" geöffnet. Wird im schreibgeschützten Modus ausgeführt, wobei nur das Ansichtstool in der Dokumentvorschau-Symbolleiste verfügbar ist.
 

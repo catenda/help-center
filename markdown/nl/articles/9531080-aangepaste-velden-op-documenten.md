@@ -11,20 +11,19 @@ Dit is metadata die ons helpt op een meer gestructureerde manier op het platform
 Ga als volgt te werk om door gebruikers gedefinieerde velden op documenten toe te passen:
 
 1. Maakt het gewenste door gebruikers gedefinieerde veld
-
-2. Wijst het gemaakte door gebruikers gedefinieerde veld toe aan een of meer mappen
+1. Wijst het gemaakte door gebruikers gedefinieerde veld toe aan een of meer mappen
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-ba695fa6aebd.png" width="496"/></div>
 
-3. Bepaalt of het door gebruikers gedefinieerde veld moet worden toegewezen aan een document (over revisies heen) of aan elke afzonderlijke revisie
+1. Bepaalt of het door gebruikers gedefinieerde veld moet worden toegewezen aan een document (over revisies heen) of aan elke afzonderlijke revisie
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-20eab3b097ce.png" width="500"/></div>
 
-4. Stelt standaardwaarden in, indien gewenst
+1. Stelt standaardwaarden in, indien gewenst
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-7241dd9f32dd.png" width="500"/></div>
 
-5. In het documentgebied kunt u het toegewezen door gebruikers gedefinieerde veld op het document onder de mappen in de documentinformatie nu herkennen.
+1. In het documentgebied kunt u het toegewezen door gebruikers gedefinieerde veld op het document onder de mappen in de documentinformatie nu herkennen.
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-f4243a01e272.png" width="500"/></div>
 

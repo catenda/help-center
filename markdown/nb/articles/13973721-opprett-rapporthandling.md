@@ -36,7 +36,7 @@ Velg en forhåndsdefinert rapport basert på listen over rapportmaler som prosje
 
 ### 2.2 **Ny rapportverktøylinje**
 
-**Lagre** Slik kan lagre-menyen se ut:
+_Lagre_ Slik kan lagre-menyen se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/03-new-report-toolbar.png)
 
@@ -48,7 +48,7 @@ Den samme rapporten kan lagres i hvilket som helst tilgjengelig filformat. De ti
 
 Klikk på et format for å åpne eksportinnstillinger-menyen.
 
-**Eksportinnstillinger** Slik kan eksportinnstillinger-menyen se ut for filformatet Adobe PDF:
+_Eksportinnstillinger_ Slik kan eksportinnstillinger-menyen se ut for filformatet Adobe PDF:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/04-new-report-toolbar.png)
 
@@ -62,11 +62,11 @@ Lagre dokument-menyen husker den tidligere valgte mappen og trenger bare å konf
 
 En forhåndsvisning av rapporten genereres i henhold til standardmalen.
 
-**Saksrapport** Slik kan en saksrapport se ut:
+_Saksrapport_ Slik kan en saksrapport se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/06-report-preview.png)
 
-**Dokumentrapport** Slik kan en dokumentrapport se ut:
+_Dokumentrapport_ Slik kan en dokumentrapport se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/x936dwq1/07-report-preview.png)
 

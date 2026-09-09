@@ -7,8 +7,8 @@ Sélectionnez le(s) document(s) et/ou dossier(s) dans la zone documents pour tro
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/01-intro.png)
 
 1. Sélectionnez le(s) document(s) et/ou dossier(s) à configurer.
-2. Ouvrez le menu d'informations de droite
-3. Cliquez sur **modifier l'accès**.
+1. Ouvrez le menu d'informations de droite
+1. Cliquez sur **modifier l'accès**.
 
 > **Important :** **Accès requis :** Accès complet
 

@@ -8,6 +8,8 @@ Voici un exemple de ce qu'une page statistiques peut ressembler
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2s7g3kx3/02-intro.png)
 
+Les topics suivants sont décrits dans cet article :
+
 ## 1. Aperçu
 
 Vous aurez un aperçu de tous les topics ouverts et fermés sur le tableau.

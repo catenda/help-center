@@ -75,6 +75,7 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Affichage en liste dans une liste de sujets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6941232-affichage-en-liste-dans-une-liste-de-sujets.md)
 - [Affichage Tableau dans un topic board](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6941099-affichage-tableau-dans-un-topic-board.md)
 - [Ajout et suppression de l'application CatendaSP](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9453368-ajout-et-suppression-de-l-application-catendasp.md)
+- [Ajouter des nuages de points IGN gratuits (HD LiDAR) à un projet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12498975-enrichissez-vos-projets-avec-des-nuages-de-points-ign-librement-accessibles-hd-lidar.md)
 - [Ajouter une révision à la demande de validation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12495012-ajouter-une-révision-à-la-demande-de-validation.md)
 - [Ajouter une révision à une demande d'approbation - Héritage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12382093-ajouter-une-révision-à-une-demande-d-approbation-héritage.md)
 - [Ajouter à l'écran d'accueil](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/10741601-ajouter-à-l-écran-d-accueil.md)
@@ -127,7 +128,6 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Déplacer un document](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670251-déplacer-un-document.md)
 - [En-tête de sujet - L'objet d'un sujet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8400566-en-tête-de-sujet-l-objet-d-un-sujet.md)
 - [Enregistrer un markup](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/10209740-enregistrer-un-markup.md)
-- [Enrichissez vos projets avec des nuages de points IGN librement accessibles (HD LiDAR)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12498975-enrichissez-vos-projets-avec-des-nuages-de-points-ign-librement-accessibles-hd-lidar.md)
 - [Examen de fichier dans une demande de validation - Hérité](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12507422-examen-de-fichier-dans-une-demande-de-validation-hérité.md)
 - [Exporter des sujets en PDF](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9784934-exporter-des-sujets-en-pdf.md)
 - [Extension Catenda Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670334-plugin-revit-catenda-hub.md)
@@ -281,7 +281,7 @@ Problèmes de connexion, problèmes de performances, support, etc.
 - [Collection de documents - Vidéo courte](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6423380-collection-de-documents-vidéo-courte.md)
 - [Création d'un nouveau flux de travail d'approbation - Courte vidéo](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12457430-création-d-un-nouveau-flux-de-travail-d-approbation-courte-vidéo.md)
 - [Créer un nouveau modèle de workflow d'approbation - Vidéo courte](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12458313-créer-un-nouveau-modèle-de-workflow-d-approbation-vidéo-courte.md)
-- [Créer un topic board à partir d'un topic board existant - Courte vidéo](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6423271-créer-un-topic-board-à-partir-d-un-topic-board-existant-courte-vidéo.md)
+- [Créer une liste de sujets à partir d'une existante - Courte vidéo](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6423271-créer-un-topic-board-à-partir-d-un-topic-board-existant-courte-vidéo.md)
 - [Créer une rubrique - Vidéo courte](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6423165-créer-une-rubrique-vidéo-courte.md): vidéo courte
 - [Exportation de modèle - Courte vidéo](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9755530-exportation-de-modèle-courte-vidéo.md)
 - [Exporter les IFC - Courte vidéo](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670314-exporter-les-ifc-courte-vidéo.md)
@@ -302,8 +302,8 @@ Problèmes de connexion, problèmes de performances, support, etc.
 ## Cas d&#39;utilisation
 
 - [Cas d'usage de nommage de révision](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15886912-cas-d-usage-de-nommage-de-révision.md): Découvrez des exemples réels de nommage de révision. Voyez comment les équipes équilibrent espace et lisibilité grâce aux séquences de version, au mappage de statut et aux préfixes YYMMDD compacts ou YYYYMMDD clairs pour le tri chronologique.
-- [Coordination de la conception numérique et résolution des problèmes pour un projet hospitalier](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12320207-coordination-de-la-conception-numérique-et-résolution-des-problèmes-pour-un-projet-hospitalier.md): Secteur : Construction de santé / BIM (modélisation des informations du bâtiment) Persona : David, coordonnateur BIM pour un grand entrepreneur général.
-- [Examen de la conception et bons de commande dans un projet de construction en hauteur](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12323690-examen-de-la-conception-et-bons-de-commande-dans-un-projet-de-construction-en-hauteur.md): Secteur : Construction commerciale Persona : Maria, architecte de projet dans une grande entreprise.
+- [Coordination de la conception et résolution des problèmes - Hôpital](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12320207-coordination-de-la-conception-numérique-et-résolution-des-problèmes-pour-un-projet-hospitalier.md): Secteur : Construction de santé / BIM (modélisation des informations du bâtiment) Persona : David, coordonnateur BIM pour un grand entrepreneur général.
+- [Examen de la conception et commandes de modification sur un immeuble de grande hauteur](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12323690-examen-de-la-conception-et-bons-de-commande-dans-un-projet-de-construction-en-hauteur.md): Secteur : Construction commerciale Persona : Maria, architecte de projet dans une grande entreprise.
 - [Examen des documents dans le flux de travail d'approbation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12628468-examen-des-documents-dans-le-flux-de-travail-d-approbation.md)
 - [Gestion de la coordination des clashs à grande échelle](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13845605-gestion-de-la-coordination-des-clashs-à-grande-échelle.md)
 - [Gestion des approbations en tant qu'administrateur](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12620829-gestion-des-approbations-en-tant-qu-administrateur.md)
@@ -316,12 +316,13 @@ Problèmes de connexion, problèmes de performances, support, etc.
 - [Aperçu des types de fichiers sur Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670320-quels-formats-sont-compatibles-avec-catenda.md)
 - [Appels d'offres dans Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9063936-appels-d-offres-dans-catenda.md)
 - [Comment afficher les espaces dans Catenda Hub?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670315-comment-afficher-les-espaces-dans-catenda-hub.md)
-- [Comment faire pour qu'un model s'affiche complètement tandis que tous les autres models s'affichent en semi-transparent ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670328-comment-faire-pour-qu-un-model-s-affiche-complètement-tandis-que-tous-les-autres-models-s-affichent-en-semi-transparent.md)
 - [Comment puis-je exporter des IFC ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670326-comment-puis-je-exporter-des-ifc.md)
 - [Comment puis-je inviter un membre?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670319-comment-puis-je-inviter-un-membre.md)
 - [Comment puis-je lier un document à un objet dans Catenda Hub ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670322-comment-puis-je-lier-un-document-à-un-objet-dans-catenda-hub.md)
 - [Comment puis-je supprimer un groupe associé à une Étiquette ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670316-comment-puis-je-supprimer-un-groupe-associé-à-une-étiquette.md)
+- [Comment rendre les autres modèles semi-transparents?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670328-comment-faire-pour-qu-un-model-s-affiche-complètement-tandis-que-tous-les-autres-models-s-affichent-en-semi-transparent.md)
 - [Comment trouver le modèle auquel appartient un objet ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670329-comment-trouver-le-modèle-auquel-appartient-un-objet.md)
+- [Dois-je exécuter Solibri Optimizer sur un grand fichier IFC ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670325-j-ai-un-grand-fichier-ifc-dois-je-utiliser-solibri-optimizer-avant-de-télécharger-les-fichiers-vers-catenda-hub.md)
 - [Donner à un utilisateur l'accès à un seul dossier](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8009637-donner-à-un-utilisateur-l-accès-à-un-seul-dossier.md)
 - [Enregistrement et partage d'un lien de filtre](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11401493-enregistrement-et-partage-d-un-lien-de-filtre.md)
 - [Est-il possible de donner des droits en lecture seule à un utilisateur ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670330-est-il-possible-de-donner-des-droits-en-lecture-seule-à-un-utilisateur.md)
@@ -333,7 +334,6 @@ Problèmes de connexion, problèmes de performances, support, etc.
 - [Flux de Travail de Statut - Mises à jour API](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12289689-flux-de-travail-de-statut-mises-à-jour-api.md): Présentation des modifications de l'API de la nouvelle fonctionnalité Flux de Travail de Statut, qui distingue le statut partagé du statut publié selon l'ISO 19650. Pour les clients et partenaires d'intégration utilisant l'API Catenda.
 - [Gestion des documents dans Catenda HUB](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9775623-gestion-des-documents-dans-catenda-hub.md)
 - [Informations personnalisées des membres](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11769670-informations-personnalisées-des-membres.md)
-- [J'ai un grand fichier IFC. Dois-je utiliser Solibri Optimizer avant de télécharger les fichiers vers Catenda Hub ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670325-j-ai-un-grand-fichier-ifc-dois-je-utiliser-solibri-optimizer-avant-de-télécharger-les-fichiers-vers-catenda-hub.md)
 - [Limitation des résultats de filtrage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8551755-limitation-des-résultats-de-filtrage.md)
 - [Localisation 2D des sujets - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13616245-localisation-2d-des-sujets-catenda-site.md)
 - [Localisation 2D des topics](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4854523-localisation-2d-des-topics.md): Description des marqueurs de localisation 2D sur les topics
@@ -344,10 +344,10 @@ Problèmes de connexion, problèmes de performances, support, etc.
 - [Ordre de tri des listes](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8487788-ordre-de-tri-des-listes.md)
 - [Où puis-je trouver le GUID de l'objet IFC ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670333-où-puis-je-trouver-le-guid-de-l-objet-ifc.md)
 - [Où trouver les notifications](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670261-où-trouver-les-notifications.md)
-- [Pourquoi ne reçois-je toujours pas de notifications après avoir coché toutes les cases ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670318-pourquoi-ne-reçois-je-toujours-pas-de-notifications-après-avoir-coché-toutes-les-cases.md)
+- [Pourquoi je ne reçois pas de notifications ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670318-pourquoi-ne-reçois-je-toujours-pas-de-notifications-après-avoir-coché-toutes-les-cases.md)
 - [Qu'est-ce qu'un CDE (Environnement Commun de Données) ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/6062310-qu-est-ce-qu-un-cde-environnement-commun-de-données.md)
 - [Que sont les models dans Catenda ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670323-que-sont-les-models-dans-catenda.md)
-- [Quelle révision d'un modèle s'ouvrira quand je clique sur un signet ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670332-quelle-révision-d-un-modèle-s-ouvrira-quand-je-clique-sur-un-signet.md)
+- [Quelle révision de model un signet ouvre-t-il ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670332-quelle-révision-d-un-modèle-s-ouvrira-quand-je-clique-sur-un-signet.md)
 - [Quelle taille de fichier puis-je télécharger ?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670324-taille-limite-des-fichiers-ifc.md)
 - [Recommandation de logiciels d'application](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13927149-recommandation-de-logiciels-d-application.md)
 - [Recommandation logicielle système](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13927605-recommandation-logicielle-système.md)
@@ -415,6 +415,7 @@ Trouvez les dernières mises à jour de Catenda Hub
 - [Captures 3D - Dépannage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12831346-captures-3d-dépannage.md)
 - [Catenda Site - Dépannage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11926914-catenda-site-dépannage.md)
 - [Connexion et mots de passe](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/10798891-connexion-et-mots-de-passe.md)
+- [Desktop Connector - tous les dossiers n'ont pas été téléchargés](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13772277-dépannage-du-connecteur-de-bureau-tous-les-dossiers-n-ont-pas-été-téléchargés.md)
 - [Dépannage de l'aperçu des documents](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13962654-dépannage-de-l-aperçu-des-documents.md)
 - [Dépannage de l'examen du fichier d'approbation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/15286207-dépannage-de-l-examen-du-fichier-d-approbation.md)
 - [Dépannage de l'intégration des documents Solibri](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11431097-dépannage-de-l-intégration-des-documents-solibri.md)
@@ -424,7 +425,6 @@ Trouvez les dernières mises à jour de Catenda Hub
 - [Dépannage des notifications Microsoft Équipes](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/14685172-dépannage-des-notifications-microsoft-équipes.md)
 - [Dépannage des paramètres de document](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12521958-dépannage-des-paramètres-de-document.md)
 - [Dépannage du Bureau Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11019637-dépannage-du-bureau-connector.md)
-- [Dépannage du connecteur de bureau - Tous les dossiers n'ont pas été téléchargés](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13772277-dépannage-du-connecteur-de-bureau-tous-les-dossiers-n-ont-pas-été-téléchargés.md)
 - [Dépannage du connecteur Solibri BCF Live](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/14301642-dépannage-du-connecteur-solibri-bcf-live.md)
 - [Dépannage du contenu des champs personnalisés](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/13750419-dépannage-du-contenu-des-champs-personnalisés.md)
 - [Dépannage du plugin Catenda Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/14301534-dépannage-du-plugin-catenda-revit.md)

@@ -52,18 +52,13 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die ihr mög
 ### 2.2 **Modelle**
 
 - System Tree - Gruppen, die mit anderen Gruppen verbunden sind, werden jetzt schneller geladen und erscheinen nicht mehr als eigene Gruppe auf der Root-Ebene des System Trees.
-
 - Es ist wieder möglich, Modellrevisions auf der Revisionsübersichtsseite eines Modells in Pre-Models-as-Dokumente-Projekten zu sehen.
-
 - Es ist wieder möglich, den Transformationswinkel eines Modells zu ändern und ihn nach dem Neuladen der Seite anzuzeigen
-
 - Der anfängliche Transformationswert beim Erstellen eines Modells wurde korrigiert
-
 - Rotationstransformation ist jetzt xyz, wie es sein sollte, statt xyy
-
 - Eine y-Koordinatentransformation wird nicht mehr angewendet, wenn eine Rotation zu einem Modell hinzugefügt wird.
 
-  Wenn Sie jetzt eine Transformation mit Rotation anwenden, die Seite neuladen und das Modell erneut laden, wird es an der richtigen Stelle angezeigt.
+    Wenn Sie jetzt eine Transformation mit Rotation anwenden, die Seite neuladen und das Modell erneut laden, wird es an der richtigen Stelle angezeigt.
 
 - 4D-Funktionalität funktioniert wieder.
 

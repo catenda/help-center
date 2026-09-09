@@ -28,11 +28,11 @@ For selskaper som driver aktivt samarbeid, fungerer en plattformorganisasjon som
 
 Avhengig av den spesifikke konfigurasjonen av plattformorganisasjonen, kan prosjektoppretting administreres på to måter:
 
-**Selvbetjent oppretting** Brukere med relevante tillatelser kan ha muligheten til å opprette prosjekter direkte innenfor sin plattformorganisasjon for å lette aktive arbeidsflyten.
+_Selvbetjent oppretting_ Brukere med relevante tillatelser kan ha muligheten til å opprette prosjekter direkte innenfor sin plattformorganisasjon for å lette aktive arbeidsflyten.
 
-**Assistert oppretting** I tilfeller hvor plattformorganisasjonen er konfigurert uten direkte tilgang for brukeroppretting, kan Catenda-personell bistå med etablering av prosjekter på vegne av selskapet. Dette sikrer at aktivt byggearbeid kan fortsette selv når selvbetjeningsalternativer ikke er aktivert for denne spesifikke beholderen.
+_Assistert oppretting_ I tilfeller hvor plattformorganisasjonen er konfigurert uten direkte tilgang for brukeroppretting, kan Catenda-personell bistå med etablering av prosjekter på vegne av selskapet. Dette sikrer at aktivt byggearbeid kan fortsette selv når selvbetjeningsalternativer ikke er aktivert for denne spesifikke beholderen.
 
-**Sekundære konfigurasjoner** I tillegg kan visse konfigurasjoner etableres for sekundære formål, som testing av nye funksjoner eller intern opplæring. Disse områdene skiller seg generelt fra primær byggaktiviteter og er underlagt de funksjonelle grensene for det spesifikke kontoppsettet.
+_Sekundære konfigurasjoner_ I tillegg kan visse konfigurasjoner etableres for sekundære formål, som testing av nye funksjoner eller intern opplæring. Disse områdene skiller seg generelt fra primær byggaktiviteter og er underlagt de funksjonelle grensene for det spesifikke kontoppsettet.
 
 ### 2.2 **Prosjekttilgang**
 

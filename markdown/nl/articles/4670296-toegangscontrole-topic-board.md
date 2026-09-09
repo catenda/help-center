@@ -46,7 +46,7 @@ _Standaard_ - Volledige toegang Wanneer u inhoud in Catenda maakt, wordt u de **
 
 > **Opmerking:** Gebruikers krijgen de hoogste toestemming van wat wordt ingesteld in **alle gebruikers**, **eigenaren** en **team**.
 
-> **Tip:** **Voorbeeld:** U kunt **team** of **eigenaren** gebruiken om gebruikers meer toestemming te geven dan **alle gebruikers**, maar niet om hun minder toestemming te geven.
+> **Voorbeeld:** U kunt **team** of **eigenaren** gebruiken om gebruikers meer toestemming te geven dan **alle gebruikers**, maar niet om hun minder toestemming te geven.
 
 De reden hierachter is om te voorkomen dat gebruikers zichzelf meer toegang geven door zichzelf uit een team te verwijderen of als eigenaar.
 

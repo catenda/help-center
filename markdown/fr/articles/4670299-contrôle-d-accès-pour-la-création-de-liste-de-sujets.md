@@ -4,14 +4,13 @@ Les administrateurs pourront configurer qui a accès pour créer des listes de s
 
 1. Sous le contrôle d'accès sur cette page vous avez « Créer une nouvelle liste de sujets ».
 
-   Cliquez dessus.
+    Cliquez dessus.
 
-2. Une liste des personnes qui peuvent créer et un bouton Modifier l'accès apparaîtront.<br>Cliquez sur le bouton Modifier l'accès.
+1. Une liste des personnes qui peuvent créer et un bouton Modifier l'accès apparaîtront.<br>Cliquez sur le bouton Modifier l'accès.
+1. Définissez l'accès pour les membres ou les équipes.
 
-3. Définissez l'accès pour les membres ou les équipes.
+    Sous les membres ou les équipes que vous avez sélectionnés apparaîtront.
 
-   Sous les membres ou les équipes que vous avez sélectionnés apparaîtront.
+1. Sous accès vous choisissez entre Peut créer et Non autorisé.
 
-4. Sous accès vous choisissez entre Peut créer et Non autorisé.
-
-   Appuyez sur le bouton enregistrer.
+    Appuyez sur le bouton enregistrer.

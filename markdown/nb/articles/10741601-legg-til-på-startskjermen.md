@@ -70,7 +70,7 @@ Enten Installer eller Opprett snarvei
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/sa3rvz1r/08-install-or-create-shortcut.png)
 
-**Opprett snarvei** Opprett en enkel snarvei som åpner siden du navigerte til i Chrome-appen.
+_Opprett snarvei_ Opprett en enkel snarvei som åpner siden du navigerte til i Chrome-appen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/sa3rvz1r/09-install-or-create-shortcut.png)
 

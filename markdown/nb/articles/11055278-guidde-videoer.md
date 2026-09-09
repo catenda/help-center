@@ -51,29 +51,29 @@ Delingslenke - [https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](ht
 - [Flytt innhold](https://eu.guidde.com/share/playbooks/czZ43xf7ncVH7M18yUZoCC?track_link_name=Guidde%20videos%20article&track_link_id=sPNjuWeRpFvutSEWHksvQH&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [Last ned innhold](https://eu.guidde.com/share/playbooks/naxhWxhmKhkt5cYbY6iMMj?track_link_name=Share%20content&track_link_id=mq27rMy4BTGzinas9Bbjzf&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Saker
-  - [Viser sakhistorikk](https://eu.guidde.com/share/playbooks/vc9qXCxWe47hbvtGjtn8rJ?track_link_name=Guidde%20videos%20article&track_link_id=wzvf1tHpX9SS44Uq4rCaNo&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Administrer saker effektivt med Kanban-visning](https://eu.guidde.com/share/playbooks/dxTrffF5HbDCdFW4hvMqbm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+    - [Viser sakhistorikk](https://eu.guidde.com/share/playbooks/vc9qXCxWe47hbvtGjtn8rJ?track_link_name=Guidde%20videos%20article&track_link_id=wzvf1tHpX9SS44Uq4rCaNo&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Administrer saker effektivt med Kanban-visning](https://eu.guidde.com/share/playbooks/dxTrffF5HbDCdFW4hvMqbm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
 - Modeller
-  - [Spørr på 3D-objekter ved hjelp av objektspørmodulen](https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Spørr på 3D-objekter ved hjelp av objektspørmodulen](https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Dokumenter
-  - [Merk opp et dokument med merknadsfunksjonen](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Intercom%20article&track_link_id=ug37DphZYP6C9um2nWmdHU&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Sammenlign to versjoner av en PDF-fil](https://eu.guidde.com/share/playbooks/vbHY4udu2xFrUzXrDdGbce?track_link_name=Guidde%20videos%20article&track_link_id=e8rdz5pRh2dZ1NSirRFvcr&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Hvordan du setter opp en navngivningskonvensjon](https://eu.guidde.com/share/playbooks/gvmH5vCYdrmxz7gHhosVEr?track_link_name=Guidde%20videos%20article&track_link_id=cmU3oSHd7meH6G99TjUYGm&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Visualisering av et dokument](https://eu.guidde.com/share/playbooks/g7G5vfKW7K29MhYUzkXdZX?track_link_name=Guidde%20videos%20article&track_link_id=vWReacU3bHqyXZtMVQjpar&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - Gjennomganger
-    - [Gjennomgang av arbeidsflutsmal](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
-    - [Opprett ny gjennomgangsforespørsel](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
-    - [Gjennomganger: Dokumentsyn på tvers av åpne gjennomgangsarbeidsflyten](https://eu.guidde.com/share/playbooks/wWhdRkGbbziaHbnbD9Gj8Y?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-    - [Gjennomganger: "Ett-klikk"-tilgang til dokumentvurderingssiden](https://eu.guidde.com/share/playbooks/6e4dQJDoPfjAY84XU282Xp?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-    - [Gjennomganger: Individuell anmelder-synlighet innenfor team del. 1](https://eu.guidde.com/share/playbooks/oAoCAVdJVGQzMTBYvNPHtm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-    - [Gjennomganger: Individuell anmelder-synlighet innenfor team del. 2](https://eu.guidde.com/share/playbooks/7fc2J2cZfisYp4VnUF2szF?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-    - [Håndhev teamvurdering i gjennomgangsarbeidsflyten](https://eu.guidde.com/share/playbooks/mnNWejVsSnJoH56aHpft5z?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-  - Gjennomganger - Eldre versjon
-    - [Valideringsar beidsflyt (utkastmodus)](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Guidde%20videos%20article&track_link_id=rxFhZqPjPGbL867WAwmBDN&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Merk opp et dokument med merknadsfunksjonen](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Intercom%20article&track_link_id=ug37DphZYP6C9um2nWmdHU&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Sammenlign to versjoner av en PDF-fil](https://eu.guidde.com/share/playbooks/vbHY4udu2xFrUzXrDdGbce?track_link_name=Guidde%20videos%20article&track_link_id=e8rdz5pRh2dZ1NSirRFvcr&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Hvordan du setter opp en navngivningskonvensjon](https://eu.guidde.com/share/playbooks/gvmH5vCYdrmxz7gHhosVEr?track_link_name=Guidde%20videos%20article&track_link_id=cmU3oSHd7meH6G99TjUYGm&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Visualisering av et dokument](https://eu.guidde.com/share/playbooks/g7G5vfKW7K29MhYUzkXdZX?track_link_name=Guidde%20videos%20article&track_link_id=vWReacU3bHqyXZtMVQjpar&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - Gjennomganger
+        - [Gjennomgang av arbeidsflutsmal](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
+        - [Opprett ny gjennomgangsforespørsel](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
+        - [Gjennomganger: Dokumentsyn på tvers av åpne gjennomgangsarbeidsflyten](https://eu.guidde.com/share/playbooks/wWhdRkGbbziaHbnbD9Gj8Y?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+        - [Gjennomganger: "Ett-klikk"-tilgang til dokumentvurderingssiden](https://eu.guidde.com/share/playbooks/6e4dQJDoPfjAY84XU282Xp?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+        - [Gjennomganger: Individuell anmelder-synlighet innenfor team del. 1](https://eu.guidde.com/share/playbooks/oAoCAVdJVGQzMTBYvNPHtm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+        - [Gjennomganger: Individuell anmelder-synlighet innenfor team del. 2](https://eu.guidde.com/share/playbooks/7fc2J2cZfisYp4VnUF2szF?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+        - [Håndhev teamvurdering i gjennomgangsarbeidsflyten](https://eu.guidde.com/share/playbooks/mnNWejVsSnJoH56aHpft5z?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+    - Gjennomganger - Eldre versjon
+        - [Valideringsar beidsflyt (utkastmodus)](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Guidde%20videos%20article&track_link_id=rxFhZqPjPGbL867WAwmBDN&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Biblioteker
-  - [Bibliotek: Importer CSV-klassifikasjon](https://eu.guidde.com/share/playbooks/4h8YZJnKQ4EG5XPtnpWQX7?track_link_name=Guidde%20videos%20article&track_link_id=sda4i6XCjAbwJ5F55z7gVQ&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Catenda Hub - Klassifikasjonsbibliotek, planleggingseksempel](https://eu.guidde.com/share/playbooks/dUC7r9rFyR6ZHXGWSpwATk?track_link_name=Guidde%20videos%20article&track_link_id=wHkKLN6wnPLChid8tL1WnH&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Bibliotek: Importer CSV-klassifikasjon](https://eu.guidde.com/share/playbooks/4h8YZJnKQ4EG5XPtnpWQX7?track_link_name=Guidde%20videos%20article&track_link_id=sda4i6XCjAbwJ5F55z7gVQ&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Catenda Hub - Klassifikasjonsbibliotek, planleggingseksempel](https://eu.guidde.com/share/playbooks/dUC7r9rFyR6ZHXGWSpwATk?track_link_name=Guidde%20videos%20article&track_link_id=wHkKLN6wnPLChid8tL1WnH&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Catenda-programtillegg og integrasjoner
-  - [Catenda Site - Komme i gang](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Catenda Site - 2D viserinteraksjoner](https://eu.guidde.com/share/playbooks/7UhKZmCxU5JtPocarxAVfU?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Catenda Sharepoint-app (webdel)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Catenda Site - Komme i gang](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Catenda Site - 2D viserinteraksjoner](https://eu.guidde.com/share/playbooks/7UhKZmCxU5JtPocarxAVfU?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Catenda Sharepoint-app (webdel)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)

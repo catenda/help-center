@@ -98,13 +98,13 @@ Klicken Sie auf das rote x neben einem Modell, um es aus der Auswahl zu entferne
 
 ### 4.1 **Ausgewählte Dokumente aktualisieren**
 
-So kann das Menü „Ausgewählte Dokumente aktualisieren
+So kann das Menü „Ausgewählte Dokumente aktualisieren“ aussehen
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/11-update-selected-documents.png)
 
-Klicken Sie in die Bereiche „Etiketten hinzufügen
+Klicken Sie in die Bereiche „Etiketten hinzufügen“ und „Etiketten entfernen“ und wählen Sie ein oder mehrere Etiketten aus.
 
-_Das Hinzufügen hat Vorrang_ Ein Etikett, das in beiden Feldern „Etiketten hinzufügen
+_Das Hinzufügen hat Vorrang_ Ein Etikett, das in beiden Feldern „Etiketten hinzufügen“ und „Etiketten entfernen“ eingegeben wird, wird Modellen hinzugefügt, die das Etikett noch nicht haben, und nicht von Modellen entfernt, die das Etikett bereits haben.
 
 ### 4.2 **Letzte Revision**
 

@@ -115,14 +115,14 @@ _Attributt_ _RGBA_ - Standard Vis PC-punkter med deres farger
 
 _Attributt Intensitet_ Intensitetsalternativet kan brukes når punktene ikke inkluderer farger. For eksempel når punktskyen ble fanget inn i en tunnel eller et mørkt rom.
 
-**Dekkevne** Når modeller vises sammen med punktskyer, kan det være nødvendig å dempe punktene for å få en bedre forståelse av synsvinkelen.
+_Dekkevne_ Når modeller vises sammen med punktskyer, kan det være nødvendig å dempe punktene for å få en bedre forståelse av synsvinkelen.
 
 _Punktstørrelse_ _Adaptiv_ - Standard Jo nærmere et punkt er kameraet, jo større er det. Punkter som er i visningen lastes inn i minnet. Punkter som beveger seg ut av visningen, lastes ut av minnet.
 
 > **Merk:** Sørg for at maskinvaren og programvaren Catenda er åpnet på er konfigurert [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation) da dette kan ha en effekt på typen punktstørrelseslasting enheten din kan håndtere.
 
-**Punktstørrelse Fastsatt størrelse** Punkter som er blitt lastet, vil forbli i minnet med dette alternativet. Med mange punkter vil du legge merke til at rotasjon kan bli forsinket og bevegelse kan bli bremset ned når du begynner å komme nær mengden punkter som systemet ditt kan håndtere. Du kan også legge merke til at det tar lengre og lengre tid å laste inn nye punkter når du kommer nærmere grensen for enheten din. Punkter lastes nærmest kameraet først. Før du laster inn punktskyen fra dokumentseksjonen, må du posisjonere kameraet til der du vil at punktene skal lastes. Hvis dette er en kameraposisjon du planlegger å bruke oftere med denne punktskyen, bør du vurdere å lage et bokmerke eller et øyeblikksbilde i en sak som du kan spille av for å gå tilbake til denne posisjonen.
+_Punktstørrelse Fastsatt størrelse_ Punkter som er blitt lastet, vil forbli i minnet med dette alternativet. Med mange punkter vil du legge merke til at rotasjon kan bli forsinket og bevegelse kan bli bremset ned når du begynner å komme nær mengden punkter som systemet ditt kan håndtere. Du kan også legge merke til at det tar lengre og lengre tid å laste inn nye punkter når du kommer nærmere grensen for enheten din. Punkter lastes nærmest kameraet først. Før du laster inn punktskyen fra dokumentseksjonen, må du posisjonere kameraet til der du vil at punktene skal lastes. Hvis dette er en kameraposisjon du planlegger å bruke oftere med denne punktskyen, bør du vurdere å lage et bokmerke eller et øyeblikksbilde i en sak som du kan spille av for å gå tilbake til denne posisjonen.
 
-**Punkttetthetskontroll** Tetthetskontroller hjelper deg med å gjøre den endelige innstillingen. Det finnes ingen regel for riktig verdi, det vil avhenge av dataene du laster opp (størrelse på datasett, punkttetthet, type skanning osv...). Råd fra oss: Last inn punktskyen, og etter et kort øyeblikk, når nok punkter vises, justerer du innstillingene om nødvendig.
+_Punkttetthetskontroll_ Tetthetskontroller hjelper deg med å gjøre den endelige innstillingen. Det finnes ingen regel for riktig verdi, det vil avhenge av dataene du laster opp (størrelse på datasett, punkttetthet, type skanning osv...). Råd fra oss: Last inn punktskyen, og etter et kort øyeblikk, når nok punkter vises, justerer du innstillingene om nødvendig.
 
 [YouTube-video](https://www.youtube.com/embed/n9pztkRPxoc?rel=0)

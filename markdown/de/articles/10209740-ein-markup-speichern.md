@@ -52,7 +52,7 @@ Navigieren Sie zu einem Thema mithilfe der Themennavigations-Dropdown-Liste oben
 
 ### 4.2 **Neue Themen**
 
-Wenn in der Themennavigations-Dropdown-Liste oben in der Registerkarte Markups keine Themen ausgewählt sind, wird „neue Themen
+Wenn in der Themennavigations-Dropdown-Liste oben in der Registerkarte Markups keine Themen ausgewählt sind, wird „neue Themen“ angezeigt. Klicken Sie auf die Schaltfläche „Markups speichern“, um den Dialog „Markups speichern“ zu öffnen, der etwa so aussehen kann:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/05-new-topics.png)
 

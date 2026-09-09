@@ -70,23 +70,23 @@ Klikk på Tilbake til saker for å gå tilbake til saklisten.
 
 ### 3.2 **3.2 Navigasjon**
 
-**Behold 3D-visningen ortografisk** Dette alternativet tvinger Revits 3D-visning til å være ortografisk selv om det tilsvarende viewpoint er opprettet med en perspektivvisning.
+_Behold 3D-visningen ortografisk_ Dette alternativet tvinger Revits 3D-visning til å være ortografisk selv om det tilsvarende viewpoint er opprettet med en perspektivvisning.
 
-**Opprett en ny visning for hver sak** I stedet for å gjenbruke den samme 3D-visningen hver gang du bruker Zoom-funksjonen, vil dette alternativet opprette en ny 3D-visning for hver sak hver gang du bruker zoom-funksjonen.
+_Opprett en ny visning for hver sak_ I stedet for å gjenbruke den samme 3D-visningen hver gang du bruker Zoom-funksjonen, vil dette alternativet opprette en ny 3D-visning for hver sak hver gang du bruker zoom-funksjonen.
 
-**Suffiksen for 3D-visningsnavn** Denne teksten vil bli lagt til navnet på 3D-visningen som er opprettet når du bruker Zoom-funksjonen.
+_Suffiksen for 3D-visningsnavn_ Denne teksten vil bli lagt til navnet på 3D-visningen som er opprettet når du bruker Zoom-funksjonen.
 
 ### 3.3 **3.4 Viewpoint-transformasjon**
 
 Med viewpoint-transformasjonen kan viewpoint i Revit konfigureres til å bli forskjøvet med et beløp. Hvis verdier er konfigurert her, vil viewpoint bli forskjøvet med det beløpet hver gang et viewpoint fra en sak blir avspilt. Dette kan være nyttig når koordinatene i sak-viewpoint ikke samsvarer med koordinatene som er konfigurert i Revit-prosjektet.
 
-**3.4.1 X (Ø/V)** Transformasjon i X-retningen. Øst eller vest avhengig av positive eller negative verdier. Enheter i meter
+_3.4.1 X (Ø/V)_ Transformasjon i X-retningen. Øst eller vest avhengig av positive eller negative verdier. Enheter i meter
 
-**3.4.2 Y (N/S)** Transformasjon i Y-retningen. Nord eller sør avhengig av positive eller negative verdier. Enheter i meter
+_3.4.2 Y (N/S)_ Transformasjon i Y-retningen. Nord eller sør avhengig av positive eller negative verdier. Enheter i meter
 
-**3.4.3 Z (Høyde)** Transformasjon i Z-retningen. Høyde avhengig av positive eller negative verdier. Enheter i meter
+_3.4.3 Z (Høyde)_ Transformasjon i Z-retningen. Høyde avhengig av positive eller negative verdier. Enheter i meter
 
-**3.4.4 Vinkel** Rotasjonstransformasjon. Høyde avhengig av positive eller negative verdier. Enheter i grader. Kameraet vil forbli i samme høyde og rotere kameraet rundt et punkt i modellen.
+_3.4.4 Vinkel_ Rotasjonstransformasjon. Høyde avhengig av positive eller negative verdier. Enheter i grader. Kameraet vil forbli i samme høyde og rotere kameraet rundt et punkt i modellen.
 
 ## 4. **4. Min konto**
 

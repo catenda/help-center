@@ -82,7 +82,7 @@ Navnet på prosjektet
 
 Hvis prosjektet ikke har utløpt, vil du se et ikon for å åpne i ny fane ved siden av navnet.
 
-**Medlem**
+_Medlem_
 
 Under navnet vil du se hvor mange brukere som er medlemmer av dette prosjektet og om du er medlem av dette prosjektet eller ikke.
 

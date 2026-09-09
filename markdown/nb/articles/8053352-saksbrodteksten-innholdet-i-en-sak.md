@@ -72,19 +72,19 @@ Handlingsmenyen for en kommentar finnes med de tre prikkene øverst til høyre i
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/09-existing-comment-action-menu.png)
 
-**Rediger en kommentar** Åpne handlingsmenyen for kommentarer og klikk på Rediger for å redigere en kommentar. _Påkrevd tilgang:_ Kommentarforfatteren
+_Rediger en kommentar_ Åpne handlingsmenyen for kommentarer og klikk på Rediger for å redigere en kommentar. _Påkrevd tilgang:_ Kommentarforfatteren
 
 Bare teksten i en kommentar kan redigeres. Den eneste måten å fjerne en kommentarvedlegg fra en sak er å slette kommentaren. Etter redigering av kommentaren vises datoen og tidspunktet for når kommentaren sist ble redigert under brukernavnet til kommentarforfatter.
 
-**Vis endringer** Åpne handlingsmenyen for kommentarer for en redigert sak og klikk på Vis endringer for å se en historikk over endringene i denne kommentaren. Påkrevd tilgang: Kommentarforfatter eller administrator
+_Vis endringer_ Åpne handlingsmenyen for kommentarer for en redigert sak og klikk på Vis endringer for å se en historikk over endringene i denne kommentaren. Påkrevd tilgang: Kommentarforfatter eller administrator
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/10-existing-comment-action-menu.png)
 
 Klikk på Skjul endringer nederst til høyre for å skjule endringene igjen.
 
-**Slett ny kommentar** Klikk på Slett i handlingsmenyen for kommentarer for å slette en kommentar. _Påkrevd tilgang:_ Kommentarforfatter
+_Slett ny kommentar_ Klikk på Slett i handlingsmenyen for kommentarer for å slette en kommentar. _Påkrevd tilgang:_ Kommentarforfatter
 
-**Slett redigert kommentar** Etter at en kommentar er redigert, blir Slett-handlingen også tilgjengelig for administratorer. _Påkrevd tilgang:_ Kommentarforfatter eller administrator
+_Slett redigert kommentar_ Etter at en kommentar er redigert, blir Slett-handlingen også tilgjengelig for administratorer. _Påkrevd tilgang:_ Kommentarforfatter eller administrator
 
 > **Merk:** Det siste innholdet i en slettet kommentar kan sees i sakhistorikken ved å klikke på det slettede feltet.
 
@@ -92,7 +92,7 @@ Klikk på Skjul endringer nederst til høyre for å skjule endringene igjen.
 
 Tekst i kommentarer følger [de generelle reglene for formatering av innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts) med en mindre forskjell når det gjelder sjekklister.
 
-**Vedlegget pop-out** Venstreklikk på bildet av et vedlegg for å åpne bildet pop-out.
+_Vedlegget pop-out_ Venstreklikk på bildet av et vedlegg for å åpne bildet pop-out.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/11-comment.png)
 
@@ -102,15 +102,15 @@ En kommentar kan ha ett av følgende 3 vedlegg:
 
 ### 4.3 **Bilde**
 
-**Legge til et bilde i en kommentar** Plusstegnet ved siden av kommentarboksen kan klikkes for å legge til et bilde. Velg et bilde fra en lokal harddisk for å legge det til kommentaren.
+_Legge til et bilde i en kommentar_ Plusstegnet ved siden av kommentarboksen kan klikkes for å legge til et bilde. Velg et bilde fra en lokal harddisk for å legge det til kommentaren.
 
 Det er også mulig å fremheve tekstboksen i kommentaren og lime inn et bilde fra utklippstavlen.
 
-**Koble bilde til 3D** Når et bilde legges til en kommentar, vil det si "Ingen viserkobling" under bildet med mindre en modell er lastet inn i 3D-viseren. Teksten "Koble til 3D-visepunkt" vises. Bildet kan nå koble det til objekter og en posisjon i viseren. Send denne kommentaren for å spille av visepunktet ved å klikke på avspillingsknappen. Merknader kan legges til bildet etter å ha lagt til bildet og før innsending av kommentaren.
+_Koble bilde til 3D_ Når et bilde legges til en kommentar, vil det si "Ingen viserkobling" under bildet med mindre en modell er lastet inn i 3D-viseren. Teksten "Koble til 3D-visepunkt" vises. Bildet kan nå koble det til objekter og en posisjon i viseren. Send denne kommentaren for å spille av visepunktet ved å klikke på avspillingsknappen. Merknader kan legges til bildet etter å ha lagt til bildet og før innsending av kommentaren.
 
-**Bilde pop-out** Bildet som er vedlagt kommentaren etter at kommentaren er sendt inn, kan [poppes ut](#h_e36d14edc8) for å se innholdet i større format og laste det ned etter at det er sendt inn.
+_Bilde pop-out_ Bildet som er vedlagt kommentaren etter at kommentaren er sendt inn, kan [poppes ut](#h_e36d14edc8) for å se innholdet i større format og laste det ned etter at det er sendt inn.
 
-**Sletting av et bilde fra en kommentar** Bilder som er vedlagt kommentarer kan ikke redigeres eller slettes fra kommentaren. Slett hele kommentaren for å fjerne bildet fra saken.
+_Sletting av et bilde fra en kommentar_ Bilder som er vedlagt kommentarer kan ikke redigeres eller slettes fra kommentaren. Slett hele kommentaren for å fjerne bildet fra saken.
 
 ### 4.4 **2D eller 3D øyeblikksbilder**
 
@@ -118,7 +118,7 @@ Klikk på plussknappen ved siden av kommentarfeltet for å legge til et 2D eller
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/12-2d-or-3d-snapshots.png)
 
-**Legge til et 2D eller 3D øyeblikksbilde i en kommentar** Last en modell inn i 3D-viseren for å vedlegge et 3D-øyeblikksbilde til en kommentar. Last en etasje av en modell inn i 2D-viseren for å vedlegge et 2D-øyeblikksbilde til en kommentar. Et 3D-øyeblikksbilde kan se omtrent slik ut.
+_Legge til et 2D eller 3D øyeblikksbilde i en kommentar_ Last en modell inn i 3D-viseren for å vedlegge et 3D-øyeblikksbilde til en kommentar. Last en etasje av en modell inn i 2D-viseren for å vedlegge et 2D-øyeblikksbilde til en kommentar. Et 3D-øyeblikksbilde kan se omtrent slik ut.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/13-2d-or-3d-snapshots.png)
 
@@ -132,9 +132,9 @@ Hold orden på merknader på dokumenter ved å opprette en merknad. Når en merk
 
 Når en merknad legges til en sak, blir dokumentet som merknadene ble opprettet på, automatisk koblet i [relaterte dokumenter](https://support.catenda.com/en/articles/7986346-issue-content#h_be2f2bcf3b).
 
-**Merknadkommentar** Merknadkommentaren følger [de generelle reglene for formatering av innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts) med en mindre forskjell når det gjelder sjekklister.
+_Merknadkommentar_ Merknadkommentaren følger [de generelle reglene for formatering av innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts) med en mindre forskjell når det gjelder sjekklister.
 
-**Merknad øyeblikksbilde** Følgende informasjon kan sees i et merknad øyeblikksbilde: Et skjermbilde av området i dokumentet der merknadene ble opprettet. _Påkrevd tilgang:_ Lesetilgang til sakslisten
+_Merknad øyeblikksbilde_ Følgende informasjon kan sees i et merknad øyeblikksbilde: Et skjermbilde av området i dokumentet der merknadene ble opprettet. _Påkrevd tilgang:_ Lesetilgang til sakslisten
 
 Dokumentinformasjon _Påkrevd tilgang:_ Lesetilgang til dokumentet som merknaden er på, og tilgang til visning av delte revisjoner i dokumentet hvis merknaden er på en delt revisjon.
 
@@ -151,7 +151,7 @@ Dokumentforhåndsvisningen vil ikke vise dokumentet hvis: Dokumentrevisjonen er 
 
 Hvis merknaden er laget på en PDF-sammenligning, vises revisjonsnumrene for de to revisjonene som sammenlignes.
 
-**Bilde pop-out** Bildet som er vedlagt kommentaren etter at kommentaren er sendt inn, kan [poppes ut](#h_e36d14edc8) for å se innholdet i større format og laste det ned etter at det er sendt inn.
+_Bilde pop-out_ Bildet som er vedlagt kommentaren etter at kommentaren er sendt inn, kan [poppes ut](#h_e36d14edc8) for å se innholdet i større format og laste det ned etter at det er sendt inn.
 
 ### 4.6 **Ny kommentar**
 
@@ -159,16 +159,16 @@ Slik kan et utkast av en ny kommentar se ut før kommentaren sendes inn
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/15-new-comment.png)
 
-**Tekstboks** Skriv en kommentar i tekstboksen ved siden av plussknappen. Nevn medlemmer ved å skrive @navn eller lenke til andre saker ved å skrive #lenke. Tekst sendt inn i tekstboksen i en kommentar følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts) på Catenda. Lim inn både tekst og bilder fra utklippstavlen for å legge dem til den nye kommentaren.
+_Tekstboks_ Skriv en kommentar i tekstboksen ved siden av plussknappen. Nevn medlemmer ved å skrive @navn eller lenke til andre saker ved å skrive #lenke. Tekst sendt inn i tekstboksen i en kommentar følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts) på Catenda. Lim inn både tekst og bilder fra utklippstavlen for å legge dem til den nye kommentaren.
 
-**Plussknapp** Klikk på plussknappen for å legge til et 3D øyeblikksbilde, et 2D øyeblikksbilde eller et bilde til utkastet av en ny kommentar.
+_Plussknapp_ Klikk på plussknappen for å legge til et 3D øyeblikksbilde, et 2D øyeblikksbilde eller et bilde til utkastet av en ny kommentar.
 
-**3D øyeblikksbilde** Legg til et øyeblikksbilde av den nåværende situasjonen i 3D-viserpanelet. Klikk på dette vedlegget igjen for å oppdatere 3D-visningen etter å ha gjort endringer.
+_3D øyeblikksbilde_ Legg til et øyeblikksbilde av den nåværende situasjonen i 3D-viserpanelet. Klikk på dette vedlegget igjen for å oppdatere 3D-visningen etter å ha gjort endringer.
 
-**2D øyeblikksbilde** Legg til et øyeblikksbilde av den nåværende 2D-visningen som finnes nedst til høyre i 3D-viseren. Klikk på dette vedlegget igjen for å oppdatere 3D-visningen etter å ha gjort endringer.
+_2D øyeblikksbilde_ Legg til et øyeblikksbilde av den nåværende 2D-visningen som finnes nedst til høyre i 3D-viseren. Klikk på dette vedlegget igjen for å oppdatere 3D-visningen etter å ha gjort endringer.
 
-**Bilde** Vedlegg et bilde fra den lokale harddisken.
+_Bilde_ Vedlegg et bilde fra den lokale harddisken.
 
-**Vedleggebilde** Hvert vedlegg kommer med et bilde. Venstreklikk på bildet av vedlegget for å åpne vedlegget pop-out. I vedlegget pop-out kan bildet av vedlegget merkes med merknader. Under bildet vises en verktøylinje med verktøyene for å tegne det spesifikke punktet i saken mer detaljert.
+_Vedleggebilde_ Hvert vedlegg kommer med et bilde. Venstreklikk på bildet av vedlegget for å åpne vedlegget pop-out. I vedlegget pop-out kan bildet av vedlegget merkes med merknader. Under bildet vises en verktøylinje med verktøyene for å tegne det spesifikke punktet i saken mer detaljert.
 
-**Send** Klikk på Send for å sende utkastet av ny kommentar som inneholder teksten skrevet i tekstboksen samt vedlegget som er lagt til. Det er bare mulig å sende kommentarer med ett vedlegg av gangen.
+_Send_ Klikk på Send for å sende utkastet av ny kommentar som inneholder teksten skrevet i tekstboksen samt vedlegget som er lagt til. Det er bare mulig å sende kommentarer med ett vedlegg av gangen.

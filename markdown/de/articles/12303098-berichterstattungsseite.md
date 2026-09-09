@@ -42,10 +42,6 @@ Die Berichtstabelle kann folgendermaßen aussehen:
 
 Die Berichtstabelle funktioniert genau wie die [Dokumententabelle](https://support.catenda.com/en/articles/8204673-documents-page#h_54e8dfcac2), außer dass nur Berichte angezeigt werden. Klicken Sie [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten. Sobald ein Bericht erstellt wird, wird er als Zeile in der Berichtstabelle für die Person angezeigt. Die Berichte sind auch in der Dokumententabelle sichtbar.
 
-Die folgenden Themen werden in diesem Abschnitt beschrieben:
-
-_[Ausgewählte Elementaktionen](#selected-item-actions) - [Zeileninhalt](#row-content) - [Zeileninhalt/Revisionen](#row-content-with-status-workflow-draft-revisions) - [Zeile/Registerkarte „Arbeitsbereich
-
 ### 3.1 **Ausgewählte Elementaktionen**
 
 Nach der Auswahl einer Elementzeile werden ausgewählte Elementaktionen oben in der Berichtstabelle angezeigt. Das Menü für ausgewählte Elementaktionen kann so aussehen:
@@ -74,11 +70,11 @@ Ohne Zugriff auf die Anzeige gemeinsamer Revisionen wird die neueste veröffentl
 
 **Berichtsinhalt** Wenn Sie den Inhalt einer Berichtszeile auf der Arbeitsbereich-Registerkarte öffnen, wird die [Dokumentvorschau](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) der neuesten gemeinsamen Revision geöffnet, auch wenn Revisionen im Bericht zuvor veröffentlicht wurden.
 
-### 3.5 **Zeileninhalt mit Status-Workflow -** Registerkarte „Veröffentlicht
+### 3.5 **Zeileninhalt mit Status-Workflow -** Registerkarte „Veröffentlicht“
 
 **Zugriff** Zeilen auf der Berichtsseite werden basierend auf dem Zugriff auf das Element angezeigt. Berichtszeilen mit mindestens einer veröffentlichten Revision werden angezeigt. _Erforderlicher Zugriff -_ Lesen
 
-**Berichtsinhalt** Wenn Sie den Inhalt einer Berichtszeile auf der Registerkarte „Veröffentlicht
+**Berichtsinhalt** Wenn Sie den Inhalt einer Berichtszeile auf der Registerkarte „Veröffentlicht“ öffnen, wird die [Dokumentvorschau](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) der letzten veröffentlichten Revision des Berichts geöffnet, selbst wenn es neuere freigegebene Revisionen gibt.
 
 ### 3.6 **Spalten**
 

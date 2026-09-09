@@ -112,7 +112,7 @@ Alle vanlige egenskapsverdi-par for de valgte objektene vises. Hvis verdier bare
 
 I egenskapslisten kan du enten finne individuelle egenskaper eller egenskapssett (PSets) som inneholder flere egenskaper hver med sin egen verdi. Som du ser på bildet ovenfor, var de første 4 egenskapene individuelle egenskaper etterfulgt av tre egenskapssett med egenskaper i dem.
 
-**Utvide/trekke inn egenskapssett** Egenskapssett kan utvides eller trekkes inn ved å klikke på pilen ved siden av navnet. Så lenge de valgte objektene dine har egenskapssett, vil preferansen din for utvidelse/innstramming bli husket, men så snart du velger et objekt uten egenskapssett, blir den tilbakestilt.
+_Utvide/trekke inn egenskapssett_ Egenskapssett kan utvides eller trekkes inn ved å klikke på pilen ved siden av navnet. Så lenge de valgte objektene dine har egenskapssett, vil preferansen din for utvidelse/innstramming bli husket, men så snart du velger et objekt uten egenskapssett, blir den tilbakestilt.
 
 ### 4.5 **Mengder**
 
@@ -134,20 +134,20 @@ Du kan klikke på tallet til høyre for disse elementene for å få de koblede d
 
 Hvis alle objektene dine tilhører en modell, vil du kunne se informasjon om modellrevisjonen her. Denne informasjonen inkluderer:
 
-**Modellbilde**
+_Modellbilde_
 
-**Modellnavn**
+_Modellnavn_
 
-**Revisjonsnummer**
+_Revisjonsnummer_
 
-**Dato og klokkeslett for publisering av revisjonen**
+_Dato og klokkeslett for publisering av revisjonen_
 
-**Modellrevisjonens utgiver**
+_Modellrevisjonens utgiver_
 
 ## 7. **Eierhistorikk**
 
 Hvis det finnes informasjon om eierhistorikken for revisjonen i IFC-filen, vil du kunne finne den vist her. Denne informasjonen kan inkludere:
 
-**Personen som opprinnelig eksporterte modellen**
+_Personen som opprinnelig eksporterte modellen_
 
-**Forfattingsverktøyet som ble brukt** _Når modellen ble eksportert_ Du kan også muligens se om noen redigerte modellen mellom eksport fra forfattingsverktøy og import i Catenda Hub.
+_Forfattingsverktøyet som ble brukt_ _Når modellen ble eksportert_ Du kan også muligens se om noen redigerte modellen mellom eksport fra forfattingsverktøy og import i Catenda Hub.

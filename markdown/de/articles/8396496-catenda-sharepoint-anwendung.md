@@ -2,10 +2,7 @@
 
 > **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
-Wenn die Catenda SharePoint-Anwendung zu einer SharePoint-Website hinzugefügt wird, können Dateien von SharePoint zu Catenda veröffentlicht werden und die Catenda-Dokumentstruktur kann in SharePoint angezeigt werden. Bei entsprechender Konfiguration kann die Anwendung wie folgt aussehen: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/>
-Dieser Artikel enthält Informationen darüber, wie diese Anwendung funktioniert
-Weitere Informationen darüber, wie diese Anwendung nützlich sein kann, finden Sie [hier](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq).
-Informationen zum Hinzufügen der SharePoint-Anwendung zu einer Website finden Sie [hier](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app).
+Wenn die Catenda SharePoint-Anwendung zu einer SharePoint-Website hinzugefügt wird, können Dateien von SharePoint zu Catenda veröffentlicht werden und die Catenda-Dokumentstruktur kann in SharePoint angezeigt werden. Bei entsprechender Konfiguration kann die Anwendung wie folgt aussehen: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/> Dieser Artikel enthält Informationen darüber, wie diese Anwendung funktioniert Weitere Informationen darüber, wie diese Anwendung nützlich sein kann, finden Sie [hier](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq). Informationen zum Hinzufügen der SharePoint-Anwendung zu einer Website finden Sie [hier](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app).
 
 ## 1. **Veröffentlichung in Catenda mit dem List-Befehl**
 
@@ -15,7 +12,7 @@ Mit dem List-Befehl können Sie eine oder mehrere Dateien in Catenda veröffentl
 
 ### 1.1 **Suchen des List-Befehls**
 
-**Eine Datei** Wenn Sie eine einzelne Datei in Catenda veröffentlichen möchten, können Sie dies am einfachsten tun, indem Sie im Hamburger-Menü der Datei auf „In Catenda veröffentlichen
+**Eine Datei** Wenn Sie eine einzelne Datei in Catenda veröffentlichen möchten, können Sie dies am einfachsten tun, indem Sie im Hamburger-Menü der Datei auf „In Catenda veröffentlichen“ klicken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/01-finding-the-list-command.png)
 

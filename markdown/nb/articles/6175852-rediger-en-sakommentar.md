@@ -5,7 +5,7 @@
 Du kan redigere kommentaren(e) i en sak du allerede har kommentert på:
 
 1. Klikk på hamburgermeny-ikonet (3 horisontale linjer) for den aktuelle kommentaren,
-2. Klikk på: Klikk på "**Rediger**",
+1. Klikk på: Klikk på "**Rediger**",
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/pwjqg6c5/01-intro.png)
 

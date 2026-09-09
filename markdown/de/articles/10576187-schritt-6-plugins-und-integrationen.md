@@ -4,7 +4,7 @@
 
 > **Tipp:** Finden Sie [Schritt 5](https://support.catenda.com/en/articles/10576182-step-5-topics) unter [Erste Schritte](https://support.catenda.com/en/collections/2657208-getting-started) im Hilfecenter oder im Hilfemenü.
 
-## 1. \*\*([Download-Links](https://support.catenda.com/en/articles/8396532-catenda-connections))
+## 1. **([Download-Links](https://support.catenda.com/en/articles/8396532-catenda-connections))
 
 ## 2. **Desktop Connector**
 

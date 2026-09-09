@@ -1,6 +1,6 @@
 # BCF-arbeidsflyt ved bruk av Naviate for Revit
 
-**BCF fra Revit med Naviate til Bimsync.**
+_BCF fra Revit med Naviate til Bimsync._
 
 Opprett et problem i Revit med Naviate BCF-behandler.
 
@@ -26,7 +26,7 @@ Du kan deretter gå og endre de ulike innstillingene inne i problemet ved å kli
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a8twaqnf/05-intro.png)
 
-**BCF fra Bimsync til Revit med Naviate.**
+_BCF fra Bimsync til Revit med Naviate._
 
 Filtrer ut problemet du vil få.
 

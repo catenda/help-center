@@ -1,4 +1,4 @@
-# Registerkarte „Dokumente
+# Registerkarte „Dokumente“ in einer Genehmigungsanfrage
 
 Die Registerkarte "Dokumente" einer Genehmigungsanfrage finden Sie auf der Genehmigungsanfrage-Seite jeder Genehmigung. In der Registerkarte "Dokumente" können Sie die Validierungsbeträge der Validierungsangaben sehen, die im Namen von Reviewer-Teams von einem Mitglied in jedem Reviewer-Team für jedes Dokument eingereicht wurden, das Teil der Genehmigung ist.
 
@@ -27,20 +27,17 @@ Klicken Sie [hier](https://support.catenda.com/en/articles/12495638-approval-req
 ### 3.1 **Spalten**
 
 - **Name:** Zeigt den Namen des Dokuments und den Dokumenttyp mit Symbol an.<br>Durch Klicken auf den Titel können Sie das Dokument direkt in der Genehmigungsumgebung anzeigen.
-
 - **Revision:** Zeigt den Revisionsnamen des Dokuments an
-
 - **#:** Zeigt an, welche Version/Revision des Dokuments innerhalb der Freigabe vorhanden ist.
-  - Wenn ein Dokument zu einer Genehmigung hinzugefügt wird, zeigt es seine Haupt- und Nebenversionsnummer an, die wie folgt aussehen kann:<br>
+    - Wenn ein Dokument zu einer Genehmigung hinzugefügt wird, zeigt es seine Haupt- und Nebenversionsnummer an, die wie folgt aussehen kann:<br>
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
-  - Wenn die ausgewählte gemeinsame revision veröffentlicht wurde, um die neueste veröffentlichte revision im Dokument außerhalb der aktuellen Genehmigungsanfrage zu werden, kann es wie folgt aussehen:<br>
+    - Wenn die ausgewählte gemeinsame revision veröffentlicht wurde, um die neueste veröffentlichte revision im Dokument außerhalb der aktuellen Genehmigungsanfrage zu werden, kann es wie folgt aussehen:<br>
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 
 - **Schritt "x":** Zeigt mit einem Balken an, welcher Status der Schritt hat.
-
 - **Endgültige Freigabe:** Diese Spalte zeigt die endgültige Freigabe an. Wenn diese aktiviert ist, wird das Symbol farbig.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/04-columns.png)

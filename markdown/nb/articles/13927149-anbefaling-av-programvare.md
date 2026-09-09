@@ -4,31 +4,31 @@ Kontroller at du ikke har noen nettleserutvidelser eller andre programmer som ka
 
 ## 1. **Nettleserinnstillinger**
 
-**Beste nettleser etter minnebruk på Windows (mars 2026):**
+_Beste nettleser etter minnebruk på Windows (mars 2026):_
 
 1. Firefox
-2. Chrome
-3. Microsoft Edge
+1. Chrome
+1. Microsoft Edge
 
 ### 1.1 **Zoomskala**
 
 Det anbefales å bruke Catenda med 100 % zoomskala. Catenda fungerer godt med zoomskalaer mellom 75 % og 150 %
 
-**Stor zoomskala** En stor zoomskala kan gjøre noen menyalternativer så store at de dekker menyalternativer som er nødvendige. Mens grafikk som er definert med bredde og høyde kan skaleres med nettleserskalaen, kan grafikk som er definert av piksler bli mer pikslert når zoomskalaen økes. En zoomskala på 125 % eller til og med 150 % anbefales når du deler skjermen i møter, da det kan gjøre det lettere for personer som følger med på skjermen å forstå hva som gjøres.
+_Stor zoomskala_ En stor zoomskala kan gjøre noen menyalternativer så store at de dekker menyalternativer som er nødvendige. Mens grafikk som er definert med bredde og høyde kan skaleres med nettleserskalaen, kan grafikk som er definert av piksler bli mer pikslert når zoomskalaen økes. En zoomskala på 125 % eller til og med 150 % anbefales når du deler skjermen i møter, da det kan gjøre det lettere for personer som følger med på skjermen å forstå hva som gjøres.
 
-**Liten zoomskala** En liten zoomskala kan gjøre grafikk så liten at den blir usynlig. Nøyaktig visning av nedskalerte ressurser kan være mer krevende for enheten. En zoomskala på 80 % eller til og med 75 % anbefales når du arbeider med 3D-viseren hvis enheten kan håndtere det.
+_Liten zoomskala_ En liten zoomskala kan gjøre grafikk så liten at den blir usynlig. Nøyaktig visning av nedskalerte ressurser kan være mer krevende for enheten. En zoomskala på 80 % eller til og med 75 % anbefales når du arbeider med 3D-viseren hvis enheten kan håndtere det.
 
 ### 1.2 **Maskinvareakselerasjon**
 
 Kontroller at du bruker maskinvareakselerasjon. Alternativ for maskinvareakselerasjon for de ulike nettleserne finner du her:
 
-**Chrome:** <a class="intercom-content-link" href="" target="_blank">chrome://settings/?search=hardware+acceleration</a>
+_Chrome:_ <a class="intercom-content-link" href="" target="_blank">chrome://settings/?search=hardware+acceleration</a>
 
 _Firefox:_ [https://support.mozilla.org/en-US/kb/performance-settings?as=u&utm\_source=inproduct](https://support.mozilla.org/en-US/kb/performance-settings?as=u&utm_source=inproduct)
 
 _Microsoft Edge:_ <a class="intercom-content-link" href="" target="_blank">edge://settings/?search=hardware%20acceleration</a>
 
-**Safari:** [https://support.apple.com/en-us/102894](https://support.apple.com/en-us/102894)
+_Safari:_ [https://support.apple.com/en-us/102894](https://support.apple.com/en-us/102894)
 
 _Opera:_ [https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/](https://blogs.opera.com/news/2015/07/advanced-settings-in-opera/)
 
@@ -38,7 +38,7 @@ _Vivaldi:_ [https://forum.vivaldi.net/topic/1207/hardware-acceleration](https://
 
 Med data som er lagret i informasjonskapsler kan nettleseren din vite om du er logget inn og noen av dine innstillinger i Catenda-prosjekter. Noen innstillinger kan variere fra prosjekt til prosjekt, mens andre er like for alle prosjekter. Hvis du endrer en innstilling, for eksempel ved å lukke en meny, blir dette husket på tvers av nettlesservinduer og faner. Hvis du for eksempel lukker filtreringsmenyen i en fane og deretter oppdaterer samme side i en annen fane, blir filtreringsmenyen lukket i den fanen også. På denne måten husker nettleseren også om du var logget inn eller ikke. Hvis du logger ut i en fane for å logge inn med en annen konto, og deretter oppdaterer siden i en annen fane, vil du finne deg selv logget inn med den andre kontoen som kanskje ikke har tilgang til prosjektet du var i.
 
-**Finne informasjonskapsler** I Chrome kan du administrere informasjonskaplene dine som følger: Klikk på Informasjonskapsler og nettstedsdata
+_Finne informasjonskapsler_ I Chrome kan du administrere informasjonskaplene dine som følger: Klikk på Informasjonskapsler og nettstedsdata
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1jx7t1xa/01-cookies.png)
 

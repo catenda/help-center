@@ -46,7 +46,7 @@ Met het datumfilter kunt u een timeframe selecteren voor wanneer de onderwerpen 
 
 ### 2.5 **Toegewezen aan / Aangevraagd door**
 
-_Niet toegewezen aan iemand_ - `assigned=unassigned` _Geen team toegewezen_ - `assigned-team=unassigned` _Toegewezen aan team_ - `assigned-team=<Team GUID>` _Niet toegewezen aan gebruiker_ - `assigned-user=unassigned` _Toegewezen aan gebruiker_ - `assigned-user=<User GUID>` Toewijzingsoperator - `assigned-op=and` Standaard kunt u alleen zoeken naar de toegewezen gebruiker OF het toegewezen team. In Catenda Hub kunt u een ontvanger instellen als user@team Als u alle onderwerpen van dit type wilt vinden\*\*,\*\* filtert u op het team en de gebruiker, en voegt u &assigned-op=and toe aan het einde van de URL.
+_Niet toegewezen aan iemand_ - `assigned=unassigned` _Geen team toegewezen_ - `assigned-team=unassigned` _Toegewezen aan team_ - `assigned-team=<Team GUID>` _Niet toegewezen aan gebruiker_ - `assigned-user=unassigned` _Toegewezen aan gebruiker_ - `assigned-user=<User GUID>` Toewijzingsoperator - `assigned-op=and` Standaard kunt u alleen zoeken naar de toegewezen gebruiker OF het toegewezen team. In Catenda Hub kunt u een ontvanger instellen als user@team Als u alle onderwerpen van dit type wilt vinden**,** filtert u op het team en de gebruiker, en voegt u &assigned-op=and toe aan het einde van de URL.
 
 _Niet aangevraagd_ - `requester=unassigned` _Niet aangevraagd door team_ - `requester-team=unassigned` _Niet aangevraagd door gebruiker_ - `requester-user=unassigned` _Aangevraagd door gebruiker_ - `requester-user=<User GUID>`
 

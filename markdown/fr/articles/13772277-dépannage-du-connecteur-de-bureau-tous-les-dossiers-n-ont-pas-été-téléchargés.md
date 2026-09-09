@@ -147,8 +147,8 @@ Lorsque le dossier monté est double-cliqué, l'erreur suivante s'affiche instan
 Recréer manuellement le dossier Si le dossier reste "bloqué" même après un redémarrage :
 
 1. Renommez le dossier problématique (par exemple, renommez `DonnéesProjets` en `DonnéesProjets_OLD`).
-2. Créez un tout nouveau dossier portant le nom d'origine (`DonnéesProjets`).
-3. Le connecteur de bureau détectera le dossier frais et sain et reprendra le fonctionnement normal sans le suffixe `_restricted`.
+1. Créez un tout nouveau dossier portant le nom d'origine (`DonnéesProjets`).
+1. Le connecteur de bureau détectera le dossier frais et sain et reprendra le fonctionnement normal sans le suffixe `_restricted`.
 
 **Reconnecter le matériel ou le réseau** Allez à "Cet ordinateur" et assurez-vous que vos lecteurs réseau (comme `Z:`) sont actifs. Vérifiez si les lecteurs USB externes ou les disques durs externes sont correctement connectés. S'ils ont un X rouge, double-cliquez dessus pour les reconnecter. Si le lecteur réseau n'est pas actif et que vous savez quel réseau le lecteur est sur, reconnectez-vous au réseau soit en branchant un câble, soit en rejoignant via wifi ou lors de l'utilisation d'un VPN, vérifiez que le VPN est actif. Si le lecteur n'est plus disponible, sélectionnez un dossier de destination différent dans le connecteur de bureau qui est disponible soit sur l'ordinateur local, soit sur le réseau.
 

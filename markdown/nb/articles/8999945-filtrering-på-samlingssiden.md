@@ -18,7 +18,7 @@ Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for 
 
 Klikk på filterknappen øverst til venstre for at et panel skal vises på venstre side. Når et filter brukes, endres URL-en som vises i nettleseren. I denne artikkelen vises filtre slik: _Filternavn i meny_ - `Filternavn i URL=Filteralternativ i URL`
 
-**Standardfilter** Standardfilteret er opprinnelig ikke synlig i URL-en. Når siden navigeres til for første gang, brukes følgende filter. _Samlinger fulgt av meg og teams jeg er medlem av_ - `followers=my-teams,me`
+_Standardfilter_ Standardfilteret er opprinnelig ikke synlig i URL-en. Når siden navigeres til for første gang, brukes følgende filter. _Samlinger fulgt av meg og teams jeg er medlem av_ - `followers=my-teams,me`
 
 ### 3.1 **Lagre og del gjeldende filter**
 
@@ -66,10 +66,10 @@ Du kan søke etter eksakte treff på tekst i filnavn som er minst 3 tegn lange
 
 _Tekstsøk_ - `search=test`
 
-**Innhold som kan søkes på** samlingsnavn
+_Innhold som kan søkes på_ samlingsnavn
 
-**Versaler** Tekstsøket er ikke følsomt for store eller små bokstaver.
+_Versaler_ Tekstsøket er ikke følsomt for store eller små bokstaver.
 
-**Tegnantall** Hvilken som helst mengde tegn. Innhold som inkluderer den søkte frasen samsvares.
+_Tegnantall_ Hvilken som helst mengde tegn. Innhold som inkluderer den søkte frasen samsvares.
 
-**Mellomrom** Mellomromstegn i begynnelsen av en søkefrase fjernes.
+_Mellomrom_ Mellomromstegn i begynnelsen av en søkefrase fjernes.

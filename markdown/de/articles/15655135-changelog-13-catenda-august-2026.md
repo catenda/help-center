@@ -97,7 +97,7 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die ihr mög
 
 - **[Dokumentvorschau] Fehlerfix beim Download-Prozess**<br>Der Dokument-Download-Prozess wurde geändert, so dass ein Fehler, den einige Benutzer bei einigen Dokumenten beim Anzeigen in der Dokumentvorschau erlebt haben, nicht mehr auftritt.
 - **[Genehmigungen] Behandlung des Legacy-Genehmigungsentwurfs-Status**<br>Es ist wieder möglich, Legacy-Genehmigungen zu übermitteln und Legacy-Genehmigungseinstellungen zu aktualisieren, bei denen ein Entwurfsstatus als Ergebnis für ein abgelehntes Dokument konfiguriert ist.
-- \*\* Menüs „Herunterladen/Speichern unter
+- **[Dokumentvorschau] Menüoptionen „Herunterladen/Speichern unter“**<br>Die Menüs „Herunterladen“ und „Speichern unter“ sind im Aktionsmenü der Dokumentvorschau wieder sichtbar.
 - **[Dokumentvorschau] Dateinamen mit Punkten im Namen**<br>Es ist wieder möglich, eine Vorschau von Dokumenten anzuzeigen, die einen Punkt im Dokumentnamen zusätzlich zur Dateiendung haben.
 - **[Dokumentvorschau] Vorschau für Bilddateitypen**<br>Es ist wieder möglich, eine Vorschau von Bilddateitypen in der Dokumentvorschau anzuzeigen
 - **[Downloads] Behebung des Fehlers bei litauischer und ungarischer Sprache**<br>Es ist wieder möglich, einzelne Dokumente herunterzuladen, wenn die Spracheinstellung auf Litauisch oder Ungarisch eingestellt ist.
@@ -125,8 +125,8 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die ihr mög
 - **Registerkarte "Dokumentversionen-Übersicht"** <br>Die Seite "Genehmigungen" enthält jetzt eine spezielle Registerkarte "Dokumentversionen", die einen vollständigen Tabellenüberblick über alle Dateien bietet, die derzeit alle offenen Genehmigungen überprüft werden. <br>Sie können jetzt einzelne Dokumentversionen nach Team-Zuweisung, Überprüfungsstatus und Fälligkeitsdatum suchen, sortieren und filtern, ohne jedes Genehmigungspaket separat öffnen zu müssen.
 - **Japanische Lokalisierung für Approvals**
 
-  Eine vollständige japanische Lokalisierung wurde in der Approval-Schnittstelle und den Seiten zur Workflow-Konfiguration implementiert.
-  Teams, die auf Japanisch arbeiten, können nun Approval-Karten, Dokumentprüfwerkzeuge und Setup-Menüs mit präziser und konsistenter lokalisierter Terminologie durchsuchen.
+    Eine vollständige japanische Lokalisierung wurde in der Approval-Schnittstelle und den Seiten zur Workflow-Konfiguration implementiert.
+    Teams, die auf Japanisch arbeiten, können nun Approval-Karten, Dokumentprüfwerkzeuge und Setup-Menüs mit präziser und konsistenter lokalisierter Terminologie durchsuchen.
 
 ### 4.3 **Projekteinstellungen**
 

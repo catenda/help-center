@@ -2,9 +2,7 @@
 
 Øyeblikkbilder beskriver et sted og tidspunkt i 3D. De kan brukes til å vise mennesker hva du ser, da de vil kunne gjenskape de samme visningene ikke bare innenfor Catenda Hub, men også i deres miljø. Øyeblikkbilder kan gjenskapes ved å spille dem både i Catenda Hub og i våre programtillegg.
 
-Slik kan et Øyeblikksbilde se ut i [kommentaren til en sak](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) eller i et [bokmerke](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e). <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-5a151da0b11e.png" width="272.72727272727275"/>
-Saken kan ha en merknad på toppen av bildet og knappene ser annerledes ut.
-Skjønt Øyeblikksbilder brukes på forskjellige måter i sakkommentarer og bokmerker, er funksjonaliteten deres den samme.
+Slik kan et Øyeblikksbilde se ut i [kommentaren til en sak](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) eller i et [bokmerke](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e). <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-5a151da0b11e.png" width="272.72727272727275"/> Saken kan ha en merknad på toppen av bildet og knappene ser annerledes ut. Skjønt Øyeblikksbilder brukes på forskjellige måter i sakkommentarer og bokmerker, er funksjonaliteten deres den samme.
 
 ## 1. **Øyeblikksbildebilde**
 
@@ -44,7 +42,7 @@ Følgende innstillinger vil bli husket når et øyeblikkbilde opprettes. Disse i
 
 Objekter som har samme ID og som ble valgt, skjult eller isolert, vil være valgt, skjult eller isolert når øyblikksbildet gjenskapas.
 
-**Nye objekter i revisjoner** Hvis du gjenskaper et øyeblikkbilde med de nyeste revisjonene, kan det være objekter med nye IDer som ikke var en del av modellen da øyblikksbildet ble opprettet.
+_Nye objekter i revisjoner_ Hvis du gjenskaper et øyeblikkbilde med de nyeste revisjonene, kan det være objekter med nye IDer som ikke var en del av modellen da øyblikksbildet ble opprettet.
 
 Valgt Bare objektene som ble valgt da øyblikksbildet ble opprettet, vil bli valgt.
 
@@ -56,7 +54,7 @@ Hvis mindre enn halvparten av objektene i en modell er synlige, vil objekter med
 
 Isolert Bare objektene som ble isolert da øyblikksbildet ble opprettet, vil bli isolert. Objekter med nye IDer vil bli vist, men ikke uthevet.
 
-**Valg** Hvis [valg](https://support.catenda.com/en/articles/8238584-information-panel#h_d713a0abb1) har blitt gjort i [informasjonspanelet](https://support.catenda.com/en/articles/8238584-information-panel), vil disse bli husket når visningspunktet spilles. Dette gjør det enkelt å velge ulike sett med objekter. Dette lar deg også gi et sett med objekter en farge som er annerledes enn standardfargen til objektene når du normalt åpner dem fra modelldelen.
+_Valg_ Hvis [valg](https://support.catenda.com/en/articles/8238584-information-panel#h_d713a0abb1) har blitt gjort i [informasjonspanelet](https://support.catenda.com/en/articles/8238584-information-panel), vil disse bli husket når visningspunktet spilles. Dette gjør det enkelt å velge ulike sett med objekter. Dette lar deg også gi et sett med objekter en farge som er annerledes enn standardfargen til objektene når du normalt åpner dem fra modelldelen.
 
 _Velg objekter-knapp_ I en sakkommentar vil du se et ikon som viser hvor mange objekter som er konfigurert til å bli valgt i et øyeblikkbilde.
 
@@ -94,28 +92,23 @@ I Catenda Hub vil øyblikksbildet flytte kameraet til riktig sted i viseren vår
 
 ### 3.1 **Gjenskap øyeblikkbilde med nyeste revisjoner**
 
-Bokmerke - Sakkommentar <p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-63d2b110333a.png" width="60"/> - <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a628f96ebc54.png" width="104.55445544554455"/></p>
-Gjenopprett Øyeblikksbildet med de nyeste versjonene av modellene og dokumentene som er konfigurert i Øyeblikksbildet.
-Hvis nye versjoner av modellene eller filene som er en del av bokmerket lastes opp, kan det resulterende bildet i 3D-visningen se litt annerledes ut enn på bildet.
-Hvis bokmerket har delte versjoner, vises den nyeste publiserte versjonen.
+Bokmerke - Sakkommentar <p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-63d2b110333a.png" width="60"/> - <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a628f96ebc54.png" width="104.55445544554455"/></p> Gjenopprett Øyeblikksbildet med de nyeste versjonene av modellene og dokumentene som er konfigurert i Øyeblikksbildet. Hvis nye versjoner av modellene eller filene som er en del av bokmerket lastes opp, kan det resulterende bildet i 3D-visningen se litt annerledes ut enn på bildet. Hvis bokmerket har delte versjoner, vises den nyeste publiserte versjonen.
 
 ### 3.2 **Gjenskap øyeblikkbilde med originale revisjoner**
 
-Bokmerke - Sakkommentar <p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-127de38bdf57.png" width="60"/> - <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-244412c15b6d.png" width="104.72727272727272"/></p>
-Øyeblikksbildet gjenopprettes med modell- og dokumentversjonene som ble konfigurert da Øyeblikksbildet ble opprettet.
-Både publiserte og delte versjoner av modeller og dokumenter vises med dette alternativet.
+Bokmerke - Sakkommentar <p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-127de38bdf57.png" width="60"/> - <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-244412c15b6d.png" width="104.72727272727272"/></p> Øyeblikksbildet gjenopprettes med modell- og dokumentversjonene som ble konfigurert da Øyeblikksbildet ble opprettet. Både publiserte og delte versjoner av modeller og dokumenter vises med dette alternativet.
 
 ## 4. **Kopiere og favorisering av øyeblikkbilder**
 
-**Dupliser sakkommentaröyeblikkbilde** For å kopiere et øyeblikkbilde, rett og slett spill øyblikksbildet og opprett et nytt bokmerke eller 3D øyeblikkbilde i en kommentar. Med et bokmerke er det bedre å bruke +-knappen slik at du kan holde styr på hvilket bokmerke du dupliserte.
+_Dupliser sakkommentaröyeblikkbilde_ For å kopiere et øyeblikkbilde, rett og slett spill øyblikksbildet og opprett et nytt bokmerke eller 3D øyeblikkbilde i en kommentar. Med et bokmerke er det bedre å bruke +-knappen slik at du kan holde styr på hvilket bokmerke du dupliserte.
 
-**Kopier bokmerke til mine bokmerker**
+_Kopier bokmerke til mine bokmerker_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/02-copying-and-favoriting-snapshots.png)
 
 Hvis dette bokmerket ble opprettet av et annet medlem, vil du se en +. Dette lar deg opprette din egen kopi av bokmerket som du kan redigere og filtrere. Hvis du allerede har kopiert dette bokmerket, vil denne knappen være nedtonet og du vil kunne åpne din versjon [nedenfor](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e). Ved å kopiere et bokmerke kan du holde styr på hvilket bokmerke du kopierte.
 
-**Favoritt-bokmerke**
+_Favoritt-bokmerke_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/03-copying-and-favoriting-snapshots.png)
 
@@ -131,7 +124,7 @@ Denne knappen setter kameraposisjonen og visningsvinkelen som er konfigurert i �
 
 ## 6. **Oppdater øyeblikkbilde**
 
-**Oppdater bokmerkeøyeblikkbilde**
+_Oppdater bokmerkeøyeblikkbilde_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/05-update-snapshot.png)
 
@@ -145,7 +138,7 @@ Eksempler hvor dette kan være nyttig:
 
 _Nødvendig tilgang:_ Øyblikksbildoppretters
 
-**Oppdater sakkommentaröyeblikkbilde**
+_Oppdater sakkommentaröyeblikkbilde_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/06-update-snapshot.png)
 
@@ -165,11 +158,11 @@ For å endre hvilke modeller som lastes inn, klikker du på modellknappen for å
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/07-update-snapshot.png)
 
-**3D** Modellene med den aktive 3D-knappen er modellene som for øyeblikket er aktivert i 3D-viseren. For enkelt å legge til/fjerne et sett med modeller kan du lage et bokmerke, gjenskape et øyeblikkbilde, gå til øyblikksbildet du vil omkonfigurere og klikke på lagre i dialogboksen for modellvalg.
+_3D_ Modellene med den aktive 3D-knappen er modellene som for øyeblikket er aktivert i 3D-viseren. For enkelt å legge til/fjerne et sett med modeller kan du lage et bokmerke, gjenskape et øyeblikkbilde, gå til øyblikksbildet du vil omkonfigurere og klikke på lagre i dialogboksen for modellvalg.
 
-**Avmerkingsboks** Legg til eller fjern modeller ved å merke av/fjerne merket fra dem og klikk på lagreknappen for å lagre en ny konfigurasjon.
+_Avmerkingsboks_ Legg til eller fjern modeller ved å merke av/fjerne merket fra dem og klikk på lagreknappen for å lagre en ny konfigurasjon.
 
-**Lastmodeller** Last modellene fra øyblikksbildet i tillegg til modellene som allerede finnes i viseren.
+_Lastmodeller_ Last modellene fra øyblikksbildet i tillegg til modellene som allerede finnes i viseren.
 
 > **Merknad 1:** I denne menyen lenker du bare øyblikksbildet til Catenda-modeller. Det endrer ikke innholdet i BCF. **Merknad 2:** Avhengig av synlighetsinnstillingene for objekter i øyblikksbildet, kan tilførte modeller være helt skjult. Selv om de ikke er synlige, bør du se at de lastes inn når saken spilles.
 

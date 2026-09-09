@@ -21,9 +21,9 @@ Ga naar Solibri Extensions en selecteer BCF connector
 4\) Server toevoegen
 
 1. Druk eerst op de knop Server toevoegen en u wordt naar de tweede pagina gestuurd.
-2. In deze stap kunt u kiezen met welke server u verbinding wilt maken, in dit geval de Catenda-server.
-3. Hier kunt u de URL van uw Catenda-project plakken. Waar u deze URL kunt vinden, wordt in de volgende afbeelding uitgelegd.
-4. Klik OK om de verbinding te voltooien.
+1. In deze stap kunt u kiezen met welke server u verbinding wilt maken, in dit geval de Catenda-server.
+1. Hier kunt u de URL van uw Catenda-project plakken. Waar u deze URL kunt vinden, wordt in de volgende afbeelding uitgelegd.
+1. Klik OK om de verbinding te voltooien.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qv33595h/03-intro.png)
 

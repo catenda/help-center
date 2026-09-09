@@ -9,10 +9,10 @@ So kann das Menü für den Status-Workflow nach der Aktivierung des Status-Workf
 Wenn der Status-Workflow aktiviert wird, ändern sich die folgenden Dinge im Projekt:
 
 - Die Phasen Entwurf und Veröffentlicht werden verfügbar.
-  - Veröffentlicht – Der Status Veröffentlicht befindet sich standardmäßig in der Liste.
-  - Entwurf – Die Status In Bearbeitung und Geteilt befinden sich standardmäßig in der Liste
+    - Veröffentlicht – Der Status Veröffentlicht befindet sich standardmäßig in der Liste.
+    - Entwurf – Die Status In Bearbeitung und Geteilt befinden sich standardmäßig in der Liste
 - Neue Informationen, die in der Entwurfsphase eingereicht werden, standardmäßig.
-  - Kann mit Kontrollkästchen in der veröffentlichten Phase hochgeladen werden.
+    - Kann mit Kontrollkästchen in der veröffentlichten Phase hochgeladen werden.
 - Der Standardstatus ist auf Kein Status festgelegt.
 - Ein Genehmigungsmenü in den Dokumenteinstellungen wird angezeigt.
 - Eine [Genehmigungen](https://support.catenda.com/en/articles/5784717-document-approval)-Unterseite auf der Seite Dokumente wird angezeigt.

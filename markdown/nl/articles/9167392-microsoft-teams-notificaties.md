@@ -70,18 +70,14 @@ Volg deze stappen om een nieuwe Microsoft Teams **Workflow**-webhook te maken. 1
 Volg deze stappen om de webhook-koppeling in Catenda te configureren. Op deze manier weet Catenda waar de projectmeldingen naartoe moeten worden verzonden.
 
 1. Log in op **Catenda Hub**.
-
-2. Navigeer naar uw **Notificaties>Instellingen** (Account- of projectniveau).
-
-3. Selecteer het tabblad "Microsoft Teams" en scroll helemaal naar beneden.
-
-4. Plak uw gekopieerde URL in het veld **Webhook-URL**.
-
-5. Klik op **Opslaan**.
+1. Navigeer naar uw **Notificaties>Instellingen** (Account- of projectniveau).
+1. Selecteer het tabblad "Microsoft Teams" en scroll helemaal naar beneden.
+1. Plak uw gekopieerde URL in het veld **Webhook-URL**.
+1. Klik op **Opslaan**.
 
     <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
 
-6. **Notificaties inschakelen**: Zorg ervoor dat de schakelaar bovenaan de pagina is ingesteld op **Aan**.<br>
+1. **Notificaties inschakelen**: Zorg ervoor dat de schakelaar bovenaan de pagina is ingesteld op **Aan**.<br>
 
     <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
 

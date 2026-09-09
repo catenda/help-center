@@ -58,35 +58,35 @@ Dette vinduet inneholder følgende faner:
 
 Vi skal gå gjennom de ulike innstillingene.
 
-**IFC-versjon** Valg av IFC-versjon.
+_IFC-versjon_ Valg av IFC-versjon.
 
-**Utvekslingskrav** Disse alternativene kan endres avhengig av hvilken IFC-versjon som er valgt. IFC 2x3 Coordination View
+_Utvekslingskrav_ Disse alternativene kan endres avhengig av hvilken IFC-versjon som er valgt. IFC 2x3 Coordination View
 
 - Arkitekturreferenceutveksling
 - MEP Reference Exchange
 - Strukturell referanseutveksling
 
-**Kategorikartlegging** Før Revit 2026 var dette alternativet tilgjengelig i Fil -> Eksporter -> Alternativer -> IFC-eksportalternativer. Slik kan menyen Administrer IFC-eksportkartleggingsinnstillinger se ut:
+_Kategorikartlegging_ Før Revit 2026 var dette alternativet tilgjengelig i Fil -> Eksporter -> Alternativer -> IFC-eksportalternativer. Slik kan menyen Administrer IFC-eksportkartleggingsinnstillinger se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/08-general.png)
 
-**Filtype** IFC-typevalg.
+_Filtype_ IFC-typevalg.
 
-**Fase som skal eksporteres** Hvis du har brukt faseverktøyet i Revit, kan du her velge og bare eksportere nye eller eksisterende strukturer.
+_Fase som skal eksporteres_ Hvis du har brukt faseverktøyet i Revit, kan du her velge og bare eksportere nye eller eksisterende strukturer.
 
-**Roombegrensninger** Alt dette handler om hvordan roominformasjon kan brukes videre. a. 1. nivå - Eksempel på bruk: Mengdeuttrekk, administrasjon, drift og vedlikehold (FDVU). b. 2. nivå - Eksempel på bruk: Energianalyse, lysanalyse.
+_Roombegrensninger_ Alt dette handler om hvordan roominformasjon kan brukes videre. a. 1. nivå - Eksempel på bruk: Mengdeuttrekk, administrasjon, drift og vedlikehold (FDVU). b. 2. nivå - Eksempel på bruk: Energianalyse, lysanalyse.
 
-**Anleggstype** Dette alternativet er bare tilgjengelig for IFC 4x3 Velg mellom et av følgende: Bru (IfcBridge) Bygning (IfcBuilding) Marineanlegg (IfcMarineFacility) Jernbane (IfcRailway) Vei (IfcRoad)
+_Anleggstype_ Dette alternativet er bare tilgjengelig for IFC 4x3 Velg mellom et av følgende: Bru (IfcBridge) Bygning (IfcBuilding) Marineanlegg (IfcMarineFacility) Jernbane (IfcRailway) Vei (IfcRoad)
 
-**Del vegger, søyler, kanaler etter nivå** Her kan du f. eks. dele vegger horisontalt hvis de er modellert over flere etasjer.
+_Del vegger, søyler, kanaler etter nivå_ Her kan du f. eks. dele vegger horisontalt hvis de er modellert over flere etasjer.
 
 _Filhodetinformasjon... Prosjektadresse..._ I disse kan du legge inn informasjon om hvem som har levert IFC-en, prosjektadresse osv.
 
-**Prosjektopprinnelse** Prosjektopprinnelse, dette setter vi på Gjeldende delte koordinater- Presentere delte koordinater.
+_Prosjektopprinnelse_ Prosjektopprinnelse, dette setter vi på Gjeldende delte koordinater- Presentere delte koordinater.
 
 > **Merknad:** Dette er flyttet til Geografisk referanse fra Revit 2025
 
-**Inkluder stålkomponenter** Inkluderer stålkomponenter hvis modellert.
+_Inkluder stålkomponenter_ Inkluderer stålkomponenter hvis modellert.
 
 > **Merknad:** Dette er flyttet til Tilleggsinnhold fra Revit 2025
 
@@ -126,21 +126,21 @@ Typiske egenskaper som vises i egenskapsmenyen er: Begrensninger, Tverrsnittsdef
 
 Typiske egenskaper som vises i Identifikasjonsmenyen er: IFC-parametere Eksporter standard IFC-egenskaper. Eksporterer beregnede mengder av objekter. Eksportbatchlister Eksporter engangseiendomssett
 
-**Klassifikasjonsinnstillinger** Her er et eksempel på hvordan klassifikasjonsinnstillinger kan se ut med omniclass.
+_Klassifikasjonsinnstillinger_ Her er et eksempel på hvordan klassifikasjonsinnstillinger kan se ut med omniclass.
 
 ![Klassifikasjonsinnstillinger](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/13-property-sets.png)
 
-**Navn** Navnet på klassifikasjonen
+_Navn_ Navnet på klassifikasjonen
 
-**Kilde (utgiver)** Utgiver av klassifikasjonen
+_Kilde (utgiver)_ Utgiver av klassifikasjonen
 
-**Utgave** Klassifikasjonsutgaven
+_Utgave_ Klassifikasjonsutgaven
 
-**Utgavedato** Datoen for klassifikasjonen
+_Utgavedato_ Datoen for klassifikasjonen
 
-**Dokumentasjonsplassering** Dette må være en gyldig dokumentasjonsplassering
+_Dokumentasjonsplassering_ Dette må være en gyldig dokumentasjonsplassering
 
-**Klassifikasjonfeltname** Klassifikasjonfeltnavnet er navnet på parameteren i objektene dine som skal inneholde klassifikasjonsverdien. Denne parameteren finnes ofte på familienivå. Rediger en familie for å se egenskapene
+_Klassifikasjonfeltname_ Klassifikasjonfeltnavnet er navnet på parameteren i objektene dine som skal inneholde klassifikasjonsverdien. Denne parameteren finnes ofte på familienivå. Rediger en familie for å se egenskapene
 
 ![Rediger familie](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/14-property-sets.png)
 
@@ -184,33 +184,33 @@ Utseendet på modellen vil være nesten det samme, men antallet polygoner vil re
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/22-advanced.png)
 
-**Eksporter deler som byggelementer** Eksporter deler som standard IFC-element.
+_Eksporter deler som byggelementer_ Eksporter deler som standard IFC-element.
 
-**Tillat bruk av blandet "Solid Model"-representasjon** Velg dette alternativet for å tillate blanding av BRep- og ekstrusjonsgeometrier for en enhet.
+_Tillat bruk av blandet "Solid Model"-representasjon_ Velg dette alternativet for å tillate blanding av BRep- og ekstrusjonsgeometrier for en enhet.
 
-**Bruk aktiv visning når du lager geometri** Velg dette alternativet for å bruke den aktive visningen til å generere geometrien. Vær oppmerksom på at dette kan gi uventede resultater hvis det brukes på en ikke-3D-visning.
+_Bruk aktiv visning når du lager geometri_ Velg dette alternativet for å bruke den aktive visningen til å generere geometrien. Vær oppmerksom på at dette kan gi uventede resultater hvis det brukes på en ikke-3D-visning.
 
-**Bruk familie- og typenavn for referanse** Velg dette alternativet for å bruke familie- og typenavnene for referanser.
+_Bruk familie- og typenavn for referanse_ Velg dette alternativet for å bruke familie- og typenavnene for referanser.
 
-**Bruk 2D-roombegrensninger for romvolum** Velg dette alternativet for å bruke en forenklet tilnærming for beregning av romvolum (basert på ekstruksjon av 2D-roombegrensninger) som også er standard ved eksportering til IFC 2x2.
+_Bruk 2D-roombegrensninger for romvolum_ Velg dette alternativet for å bruke en forenklet tilnærming for beregning av romvolum (basert på ekstruksjon av 2D-roombegrensninger) som også er standard ved eksportering til IFC 2x2.
 
-**Inkluder IfcSite-høyde i stedens lokale plassering av opprinnelse** Velg dette alternativet for å inkludere høyden fra Z-forskyvningen for lokal posisjon i IfcSite. Fjern alternativet for å utelukke det.
+_Inkluder IfcSite-høyde i stedens lokale plassering av opprinnelse_ Velg dette alternativet for å inkludere høyden fra Z-forskyvningen for lokal posisjon i IfcSite. Fjern alternativet for å utelukke det.
 
-**Lagre IFC GUID i en elementparameter etter eksport** Velg dette alternativet for å lagre de genererte IFC GUID-ene i prosjektfilen etter eksport. Dette legger til "IFC GUID"-parametere til elementer og deres typer samt prosjektinformasjon for prosjekt-, nettsted- og bygningsveiledninger.
+_Lagre IFC GUID i en elementparameter etter eksport_ Velg dette alternativet for å lagre de genererte IFC GUID-ene i prosjektfilen etter eksport. Dette legger til "IFC GUID"-parametere til elementer og deres typer samt prosjektinformasjon for prosjekt-, nettsted- og bygningsveiledninger.
 
-**Eksporter grenseboks** Velg dette alternativet for å eksportere "Grenseboks"-representasjoner. Dette alternativet blir automatisk valgt for GSA-eksport.
+_Eksporter grenseboks_ Velg dette alternativet for å eksportere "Grenseboks"-representasjoner. Dette alternativet blir automatisk valgt for GSA-eksport.
 
-**Behold tessellert geometri som triangulering** Hvis du har komplekse buede elementer eller skall og de ikke vises korrekt etter IFC-eksporten, kan du velge dette alternativet. Vær oppmerksom på at du kan produsere en veldig tung IFC-fil.
+_Behold tessellert geometri som triangulering_ Hvis du har komplekse buede elementer eller skall og de ikke vises korrekt etter IFC-eksporten, kan du velge dette alternativet. Vær oppmerksom på at du kan produsere en veldig tung IFC-fil.
 
-**Bruk bare typenavn for IfcType-navn** Velg dette alternativet hvis du vil at BAT-ID-en eller ID-en til objektet skal vises som navnet på enheten.
+_Bruk bare typenavn for IfcType-navn_ Velg dette alternativet hvis du vil at BAT-ID-en eller ID-en til objektet skal vises som navnet på enheten.
 
-**Bruk synlig Revit-navn som IfcEntity-navn** Velg dette alternativet hvis du vil at Revit-objektnavnet skal være navnet på enheten
+_Bruk synlig Revit-navn som IfcEntity-navn_ Velg dette alternativet hvis du vil at Revit-objektnavnet skal være navnet på enheten
 
-**Eksporter alltid fasetterte gulv og tak som en enkelt IFC-enhet** Velg dette alternativet for å kombinere flater av gulv og tak med flere flater til en enkelt enhet.
+_Eksporter alltid fasetterte gulv og tak som en enkelt IFC-enhet_ Velg dette alternativet for å kombinere flater av gulv og tak med flere flater til en enkelt enhet.
 
-**Sett "Sist endret"-bruker til forfatteren i prosjektinformasjon** Velg dette alternativet hvis du er forfatteren av endringene i denne eksporten
+_Sett "Sist endret"-bruker til forfatteren i prosjektinformasjon_ Velg dette alternativet hvis du er forfatteren av endringene i denne eksporten
 
-**Enheter som skal eksporteres** Slik kan IFC-enhetsvalgsmenyen som åpnes se ut:
+_Enheter som skal eksporteres_ Slik kan IFC-enhetsvalgsmenyen som åpnes se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/23-advanced.png)
 
@@ -228,13 +228,13 @@ Du finner dette alternativet i kategorien Administrer -> Koordinater -> Angi koo
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/26-geographic-reference.png)
 
-**Prosjektsted** Internt
+_Prosjektsted_ Internt
 
-**Koordinatbase** Du kan endre denne innstillingen for å sørge for at prosjektet ditt er orientert mot nord Delte koordinater - standard referansepunkt Prosjektbasispunkt Internt opprinnelse Prosjektbasispunkt orientert mot sann nord Internt opprinnelse orientert mot sann nord
+_Koordinatbase_ Du kan endre denne innstillingen for å sørge for at prosjektet ditt er orientert mot nord Delte koordinater - standard referansepunkt Prosjektbasispunkt Internt opprinnelse Prosjektbasispunkt orientert mot sann nord Internt opprinnelse orientert mot sann nord
 
 > **Merknad:** Hvis du kobler IFC i Sett inn-fanen, plasseres den koblede filen nær objektene dine og vil ikke være på plasseringen beskrevet i IFC-en. For å importere en IFC til riktig plassering klikker du Fil -> Åpne -> IFC i stedet.
 
-**Overstyring** Her kan du overstyre det projiserte koordinatsystemreferansen
+_Overstyring_ Her kan du overstyre det projiserte koordinatsystemreferansen
 
 ---
 

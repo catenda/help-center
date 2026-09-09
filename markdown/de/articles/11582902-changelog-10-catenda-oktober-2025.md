@@ -20,42 +20,42 @@ Wenn neue Funktionen eingeführt und Fehler behoben werden, werden Artikel mit d
 **Produktfunktionen**
 
 - Modelle
-  - [Filterung auf der Seite Modelle](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-  - [Storey Configurator Aktionen](https://Storey%20configurator%20actions)
-  - [Seite Objekte](https://support.catenda.com/en/articles/12352750-objects-page)
-  - [Filterung auf der Seite Objekte](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - [Filterung auf der Seite Modelle](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
+    - [Storey Configurator Aktionen](https://Storey%20configurator%20actions)
+    - [Seite Objekte](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Filterung auf der Seite Objekte](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
 - Dokumente
-  - [Document Preview Tools - Gummistempel](https://support.catenda.com/en/articles/11678493-document-preview-tools-rubber-stamp)
-  - [Rechtes Menü auf der Seite Sammlungen](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-page)
-  - [Seite Workflows - Dokumenteinstellungen](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
-  - [Ordnerkonfiguration - Dokumenteinstellungen](https://support.catenda.com/en/articles/12302595-folder-configuration-document-settings)
-  - [Einen neuen Workflow erstellen](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
-  - [Seite Entwurfsgenehmigungsanfrage](https://support.catenda.com/en/articles/12495175-draft-approval-request-page)
-  - [Seite Offene oder geschlossene Genehmigungsanfrage](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page)
-  - [Seite Genehmigungen](https://support.catenda.com/en/articles/12495047-approvals-page)
-  - [Filterung auf der Seite Genehmigungen](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-  - [Neue Genehmigungsanfrage erstellen](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request)
-  - [Version zu Genehmigungsanfrage hinzufügen](https://support.catenda.com/en/articles/12495012-add-revision-to-approval)
-  - [Schrittsymbolleiste in einer Genehmigungsanfrage](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-approval-request)
-  - [Rechtes Menü einer Version - Versionsinformationen](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
-  - [Status-Workflow - Dokumenteinstellungen](https://support.catenda.com/en/articles/12495583-status-workflow-document-settings)
-  - [Registerkarte Übersicht in einer Genehmigungsanfrage](https://support.catenda.com/en/articles/12495126-overview-tab-in-an-approval-request)
-  - [Registerkarte Dokumente in einer Genehmigungsanfrage](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request)
-  - [Rechtes Menü Genehmigungsanfragedokumente](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu)
-  - [Dateiüberprüfung in einer Genehmigungsanfrage](https://support.catenda.com/en/articles/12507002-file-review-in-an-approval-request)
-  - [Rechtes Menü für Dateiüberprüfung der Genehmigungsanfrage](https://support.catenda.com/en/articles/12507519-approval-request-file-review-right-menu)
-  - [Fehlerbehebung bei Genehmigungen](https://support.catenda.com/en/articles/12520773-approvals-troubleshooting)
+    - [Document Preview Tools - Gummistempel](https://support.catenda.com/en/articles/11678493-document-preview-tools-rubber-stamp)
+    - [Rechtes Menü auf der Seite Sammlungen](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-page)
+    - [Seite Workflows - Dokumenteinstellungen](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
+    - [Ordnerkonfiguration - Dokumenteinstellungen](https://support.catenda.com/en/articles/12302595-folder-configuration-document-settings)
+    - [Einen neuen Workflow erstellen](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
+    - [Seite Entwurfsgenehmigungsanfrage](https://support.catenda.com/en/articles/12495175-draft-approval-request-page)
+    - [Seite Offene oder geschlossene Genehmigungsanfrage](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page)
+    - [Seite Genehmigungen](https://support.catenda.com/en/articles/12495047-approvals-page)
+    - [Filterung auf der Seite Genehmigungen](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
+    - [Neue Genehmigungsanfrage erstellen](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request)
+    - [Version zu Genehmigungsanfrage hinzufügen](https://support.catenda.com/en/articles/12495012-add-revision-to-approval)
+    - [Schrittsymbolleiste in einer Genehmigungsanfrage](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-approval-request)
+    - [Rechtes Menü einer Version - Versionsinformationen](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
+    - [Status-Workflow - Dokumenteinstellungen](https://support.catenda.com/en/articles/12495583-status-workflow-document-settings)
+    - [Registerkarte Übersicht in einer Genehmigungsanfrage](https://support.catenda.com/en/articles/12495126-overview-tab-in-an-approval-request)
+    - [Registerkarte Dokumente in einer Genehmigungsanfrage](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request)
+    - [Rechtes Menü Genehmigungsanfragedokumente](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu)
+    - [Dateiüberprüfung in einer Genehmigungsanfrage](https://support.catenda.com/en/articles/12507002-file-review-in-an-approval-request)
+    - [Rechtes Menü für Dateiüberprüfung der Genehmigungsanfrage](https://support.catenda.com/en/articles/12507519-approval-request-file-review-right-menu)
+    - [Fehlerbehebung bei Genehmigungen](https://support.catenda.com/en/articles/12520773-approvals-troubleshooting)
 - Berichte
-  - [Seite Berichte](https://support.catenda.com/en/articles/12303098-reports-page)
+    - [Seite Berichte](https://support.catenda.com/en/articles/12303098-reports-page)
 - Dokumente - Veraltet
-  - [Neue Genehmigungsanfrage erstellen - Veraltet](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request-legacy)
-  - [Version zu Genehmigungsanfrage hinzufügen - Veraltet](https://support.catenda.com/en/articles/12382093-add-revision-to-an-approval-request-legacy)
-  - [Seite Genehmigungseinstellungen - Veraltet](https://support.catenda.com/en/articles/12367293-approval-settings-page-legacy)
-  - [Seite Themenvorlagen - Veraltet](https://support.catenda.com/en/articles/12367730-topic-templates-page-legacy)
-  - [Neue Themenvorlage erstellen - Veraltet](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template-legacy)
-  - [Status-Workflow - Dokumenteinstellungen - Veraltet](https://support.catenda.com/en/articles/12310173-status-workflow-document-settings-legacy)
-  - [Dateiüberprüfung in einer Genehmigungsanfrage - Veraltet](https://support.catenda.com/en/articles/12507422-file-review-in-an-approval-request-legacy)
-  - [Rechtes Menü für Dateiüberprüfung der Genehmigungsanfrage - Veraltet](https://support.catenda.com/en/articles/12507914-approval-request-file-review-right-menu-legacy)
+    - [Neue Genehmigungsanfrage erstellen - Veraltet](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request-legacy)
+    - [Version zu Genehmigungsanfrage hinzufügen - Veraltet](https://support.catenda.com/en/articles/12382093-add-revision-to-an-approval-request-legacy)
+    - [Seite Genehmigungseinstellungen - Veraltet](https://support.catenda.com/en/articles/12367293-approval-settings-page-legacy)
+    - [Seite Themenvorlagen - Veraltet](https://support.catenda.com/en/articles/12367730-topic-templates-page-legacy)
+    - [Neue Themenvorlage erstellen - Veraltet](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template-legacy)
+    - [Status-Workflow - Dokumenteinstellungen - Veraltet](https://support.catenda.com/en/articles/12310173-status-workflow-document-settings-legacy)
+    - [Dateiüberprüfung in einer Genehmigungsanfrage - Veraltet](https://support.catenda.com/en/articles/12507422-file-review-in-an-approval-request-legacy)
+    - [Rechtes Menü für Dateiüberprüfung der Genehmigungsanfrage - Veraltet](https://support.catenda.com/en/articles/12507914-approval-request-file-review-right-menu-legacy)
 
 **Fehlerbehebung**
 
@@ -76,52 +76,52 @@ Wenn neue Funktionen eingeführt und Fehler behoben werden, werden Artikel mit d
 **Kontoverwaltung**
 
 - Mitglieder und Teams
-  - [Seite Mitglieder und Teams](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
+    - [Seite Mitglieder und Teams](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
 - Catenda Site
-  - [Einstellungen - Catenda Site](https://support.catenda.com/en/articles/7733833-settings-catenda-site)
+    - [Einstellungen - Catenda Site](https://support.catenda.com/en/articles/7733833-settings-catenda-site)
 
 **Produktfunktionen**
 
 - Allgemeine Produktinformationen
 - Dashboard
-  - [Dashboard-Seite](https://support.catenda.com/en/articles/8212646-dashboard-page)
+    - [Dashboard-Seite](https://support.catenda.com/en/articles/8212646-dashboard-page)
 - Themen
-  - [Seite Themen](https://support.catenda.com/en/articles/4670271-topics-page)
-  - [Filterung in einem Themenbrett](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board)
-  - [Listenansicht in einem Themenbrett](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board)
-  - [Spalten auf der Seite Themen](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page)
-  - [Aktionen in der Thementabelle](https://support.catenda.com/en/articles/4670284-topics-table-actions)
+    - [Seite Themen](https://support.catenda.com/en/articles/4670271-topics-page)
+    - [Filterung in einem Themenbrett](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board)
+    - [Listenansicht in einem Themenbrett](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board)
+    - [Spalten auf der Seite Themen](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page)
+    - [Aktionen in der Thementabelle](https://support.catenda.com/en/articles/4670284-topics-table-actions)
 - Modelle
-  - [Seite Modelle](https://support.catenda.com/en/articles/4670286-models-page)
-  - [Rechtes Menü auf der Seite Modelle](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
-  - [Seite Storey Configurator](https://support.catenda.com/en/articles/6921756-storey-configurator-page)
+    - [Seite Modelle](https://support.catenda.com/en/articles/4670286-models-page)
+    - [Rechtes Menü auf der Seite Modelle](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
+    - [Seite Storey Configurator](https://support.catenda.com/en/articles/6921756-storey-configurator-page)
 - Dokumente
-  - [Seite Dokumente](https://support.catenda.com/en/articles/8204673-documents-page)
-  - [Seite Dokumenteinstellungen](https://support.catenda.com/en/articles/7831371-document-settings-page)
-  - [Spalten auf der Seite Dokumente](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
-  - [Filterung auf der Seite Dokumente](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-  - [Document Preview Tools](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-  - [Aktionen der Dokumenttabelle](https://support.catenda.com/en/articles/4670288-document-structure-actions)
-  - [Neue Dokumentversion hochladen](https://support.catenda.com/en/articles/4670293-uploading-new-document-revision)
-  - [Seite Sammlungen](https://support.catenda.com/en/articles/8999764-collection-page)
-  - [Rechtes Menü einer Version - Versionsinformationen](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
+    - [Seite Dokumente](https://support.catenda.com/en/articles/8204673-documents-page)
+    - [Seite Dokumenteinstellungen](https://support.catenda.com/en/articles/7831371-document-settings-page)
+    - [Spalten auf der Seite Dokumente](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
+    - [Filterung auf der Seite Dokumente](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+    - [Document Preview Tools](https://support.catenda.com/en/articles/11384618-document-preview-tools)
+    - [Aktionen der Dokumenttabelle](https://support.catenda.com/en/articles/4670288-document-structure-actions)
+    - [Neue Dokumentversion hochladen](https://support.catenda.com/en/articles/4670293-uploading-new-document-revision)
+    - [Seite Sammlungen](https://support.catenda.com/en/articles/8999764-collection-page)
+    - [Rechtes Menü einer Version - Versionsinformationen](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
 - Einstellungen
-  - [Seite Benutzerdefinierte Felder](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-  - [Seite Beschriftungen](https://support.catenda.com/en/articles/4670265-labels-page)
+    - [Seite Benutzerdefinierte Felder](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+    - [Seite Beschriftungen](https://support.catenda.com/en/articles/4670265-labels-page)
 - 2D- und 3D-Viewer
-  - [Punktwolken in Catenda Hub](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
-  - [Versionswahlschalter](https://support.catenda.com/en/articles/4670279-revision-selector)
+    - [Punktwolken in Catenda Hub](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
+    - [Versionswahlschalter](https://support.catenda.com/en/articles/4670279-revision-selector)
 - Catenda Plugins & Integrationen
-  - [3D-Viewer - Catenda Site](https://support.catenda.com/en/articles/7744403-3d-viewer-catenda-site)
-  - [Catenda Plugins & Integrationen](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
-  - [IFC-Export ArchiCAD-Anleitung](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
-  - [Aktivieren der Catenda SharePoint App](https://support.catenda.com/en/articles/9419749-enabling-the-catenda-sharepoint-app)
-  - [Catenda SP App hinzufügen und entfernen](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app)
+    - [3D-Viewer - Catenda Site](https://support.catenda.com/en/articles/7744403-3d-viewer-catenda-site)
+    - [Catenda Plugins & Integrationen](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
+    - [IFC-Export ArchiCAD-Anleitung](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
+    - [Aktivieren der Catenda SharePoint App](https://support.catenda.com/en/articles/9419749-enabling-the-catenda-sharepoint-app)
+    - [Catenda SP App hinzufügen und entfernen](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app)
 - Dokumente - Veraltet
-  - [Seite Genehmigungen - Veraltet](https://support.catenda.com/en/articles/8349340-approvals-page-legacy)
-  - [Offene, veröffentlichte oder verworfene Genehmigung - Veraltet](https://support.catenda.com/en/articles/8349418-open-published-or-discarded-approval-legacy)
-  - [Dokumentgenehmigung - Veraltet](https://support.catenda.com/en/articles/5784717-document-approval-legacy)
-  - [Filterung auf der Seite Genehmigungen - Veraltet](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+    - [Seite Genehmigungen - Veraltet](https://support.catenda.com/en/articles/8349340-approvals-page-legacy)
+    - [Offene, veröffentlichte oder verworfene Genehmigung - Veraltet](https://support.catenda.com/en/articles/8349418-open-published-or-discarded-approval-legacy)
+    - [Dokumentgenehmigung - Veraltet](https://support.catenda.com/en/articles/5784717-document-approval-legacy)
+    - [Filterung auf der Seite Genehmigungen - Veraltet](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
 
 **Fehlerbehebung**
 
@@ -167,13 +167,13 @@ Dank Ihres wertvollen Feedbacks konnten wir viele Probleme beheben, die Sie mög
 ## 3. **Neue Videos in Playlisten**
 
 - Produktfunktionen
-  - Dokumente
-    - [Genehmigungsworkflow-Vorlage](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
+    - Dokumente
+        - [Genehmigungsworkflow-Vorlage](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
 
-      [Neue Genehmigungsanfrage erstellen](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
+            [Neue Genehmigungsanfrage erstellen](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
 
-  - Catenda Plugins & Integrationen
-    - [Catenda Site - Erste Schritte](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - Catenda Plugins & Integrationen
+        - [Catenda Site - Erste Schritte](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 
 ## 4. **Benutzer-Feedback umgesetzt**
 
@@ -187,13 +187,13 @@ Dank Ihres wertvollen Feedbacks konnten wir viele Probleme beheben, die Sie mög
 ### 4.2 **Einstellungen**
 
 - Verbesserung der Mitgliedsseite
-  - Es ist jetzt möglich, auf der Seite Mitglieder zu suchen
-  - Wählen Sie mehrere Mitglieder aus und geben Sie die Teams ein, zu denen Sie sie hinzufügen/entfernen möchten.
-  - Wählen Sie mehrere Teams aus und geben Sie die Mitglieder ein, die Sie zu/aus dem Team hinzufügen/entfernen möchten.
-  - Spalten von Mitgliedern sortieren
-  - Mitglieder nach Team(s) filtern
-  - Teams nach Mitglied(ern) filtern
-  - E-Mail von Mitgliedern in die Zwischenablage kopieren, indem Sie darauf klicken.
+    - Es ist jetzt möglich, auf der Seite Mitglieder zu suchen
+    - Wählen Sie mehrere Mitglieder aus und geben Sie die Teams ein, zu denen Sie sie hinzufügen/entfernen möchten.
+    - Wählen Sie mehrere Teams aus und geben Sie die Mitglieder ein, die Sie zu/aus dem Team hinzufügen/entfernen möchten.
+    - Spalten von Mitgliedern sortieren
+    - Mitglieder nach Team(s) filtern
+    - Teams nach Mitglied(ern) filtern
+    - E-Mail von Mitgliedern in die Zwischenablage kopieren, indem Sie darauf klicken.
 
 ### 4.3 **Plugins und Integrationen**
 

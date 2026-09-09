@@ -19,20 +19,20 @@ Brukere som får tilgang til Catenda Hub bak en brannmur, mellomtjeneste eller a
 (`*` betyr DNS-jokertegn og `.` er en domenenivåskiller, ikke behandle det nedenfor som regexer).
 
 - Catenda-domener:
-  - `catenda.com`
-  - `*.catenda.com`
-    - `webviewer.catenda.com`<br>Dette underdomenet må tillates i brannmuren for å se forhåndsvisningen av dokumenter på forhåndsvisningssiden for dokumenter.
-  - `*.*.catenda.com`
+    - `catenda.com`
+    - `*.catenda.com`
+        - `webviewer.catenda.com`<br>Dette underdomenet må tillates i brannmuren for å se forhåndsvisningen av dokumenter på forhåndsvisningssiden for dokumenter.
+    - `*.*.catenda.com`
 
 Vi oppfordrer deg til å bruke dette nye domenenavnet. Du burde ikke få problemer med flere underdomener som `*.*.*.catenda.com`, men hvis du gjør det, kan det være lettere å tillate alt fra `catenda.com`
 
-**Vedlikeholdte domener** Følgende domener vil bli vedlikeholdt i overskuelig framtid, men ikke referert i teknisk litteratur.
+_Vedlikeholdte domener_ Følgende domener vil bli vedlikeholdt i overskuelig framtid, men ikke referert i teknisk litteratur.
 
 - `bimsync.com`
 - `*.bimsync.com`
 - `*.*.bimsync.com`
 
-**Tjenester** Catenda Hub bruker følgende tjenester:
+_Tjenester_ Catenda Hub bruker følgende tjenester:
 
 - `*.google-analytics.com`
 - `*.googletagmanager.com`
@@ -40,29 +40,29 @@ Vi oppfordrer deg til å bruke dette nye domenenavnet. Du burde ikke få problem
 - `*.intercomcdn.com`
 - `*.sentry.io`
 
-**Plugins** Hvis du bare har til hensikt å bruke Catenda Hub gjennom ett av våre plugins, er disse de eneste domenene du trenger å tillate gjennom brannmuren din.
+_Plugins_ Hvis du bare har til hensikt å bruke Catenda Hub gjennom ett av våre plugins, er disse de eneste domenene du trenger å tillate gjennom brannmuren din.
 
 - For autentisering av plugins og integrasjoner
-  - `hub.catenda.com`
-  - `api.catenda.com`
-  - `bimsync.com`
-  - `api.bimsync.com`
+    - `hub.catenda.com`
+    - `api.catenda.com`
+    - `bimsync.com`
+    - `api.bimsync.com`
 - For bruk av plugin
-  - Revit-plugin
-    - [`https://revit.plugins.catenda.com`](https://revit.plugins.catenda.com)
-    - [`https://revit.plugins.bimsync.com`](https://revit.plugins.bimsync.com)
-  - Archicad-plugin
-    - [`https://archicad.plugins.catenda.com`](https://archicad.plugins.catenda.com)
-    - [`https://archicad.plugins.bimsync.com`](https://archicad.plugins.bimsync.com)
-  - Navisworks-plugin
-    - [`https://navisworks.plugins.catenda.com`](https://navisworks.plugins.catenda.com)
-    - [`https://navisworks.plugins.bimsync.com`](https://navisworks.plugins.bimsync.com)
-  - Tekla-plugin
-    - [`https://tekla.plugins.catenda.com`](https://tekla.plugins.catenda.com)
-    - [`https://tekla.plugins.bimsync.com`](https://tekla.plugins.bimsync.com)
+    - Revit-plugin
+        - [`https://revit.plugins.catenda.com`](https://revit.plugins.catenda.com)
+        - [`https://revit.plugins.bimsync.com`](https://revit.plugins.bimsync.com)
+    - Archicad-plugin
+        - [`https://archicad.plugins.catenda.com`](https://archicad.plugins.catenda.com)
+        - [`https://archicad.plugins.bimsync.com`](https://archicad.plugins.bimsync.com)
+    - Navisworks-plugin
+        - [`https://navisworks.plugins.catenda.com`](https://navisworks.plugins.catenda.com)
+        - [`https://navisworks.plugins.bimsync.com`](https://navisworks.plugins.bimsync.com)
+    - Tekla-plugin
+        - [`https://tekla.plugins.catenda.com`](https://tekla.plugins.catenda.com)
+        - [`https://tekla.plugins.bimsync.com`](https://tekla.plugins.bimsync.com)
 - For bruk av plugins og integrasjoner som bruker saker som er oppført [her](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
-  - [`https://bcf.bimsync.com/`](https://bcf.bimsync.com/)
-  - [`https://opencde.bimsync.com/`](https://opencde.bimsync.com/)
+    - [`https://bcf.bimsync.com/`](https://bcf.bimsync.com/)
+    - [`https://opencde.bimsync.com/`](https://opencde.bimsync.com/)
 
 ## 3. **Portkonfigurasjon**
 

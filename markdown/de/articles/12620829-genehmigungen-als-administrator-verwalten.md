@@ -43,10 +43,10 @@ Robert Chen ist ein erfahrener Projektadministrator, der ein großes gewerbliche
 ## 3. **Schritt-für-Schritt-Anleitung**
 
 1. **Auf die Seite "Genehmigungen" zugreifen:** Gehen Sie im linken Menü zu Dokumente > Genehmigungen.
-2. **Workflows konfigurieren:** Definieren Sie, welche Teams Dokumente einreichen, überprüfen und veröffentlichen können. Weisen Sie Teams für jeden Schritt zu und definieren Sie Überprüfungszeiträume.
-3. **Zugriff zuweisen:** Begrenzen Sie den Dokumentzugriff, damit nur relevante Benutzer spezifische Dokumente anzeigen oder genehmigen können.
-4. **Genehmigungen überwachen:** Verwenden Sie das Dashboard, um alle Genehmigungsanfragen anzuzeigen, filtern Sie nach ausstehenden Elementen und teilen Sie gefilterte Links mit Teamkollegen, um ihre Aufmerksamkeit zu lenken.
-5. **Praxisbeispiel:** Wenn mehrere Dokumente ausstehend sind, filtert Robert die Seite "Genehmigungen", kopiert den gefilterten Link und sendet ihn an das zuständige Team, um dessen Aufmerksamkeit zu lenken und Verzögerungen zu vermeiden.
+1. **Workflows konfigurieren:** Definieren Sie, welche Teams Dokumente einreichen, überprüfen und veröffentlichen können. Weisen Sie Teams für jeden Schritt zu und definieren Sie Überprüfungszeiträume.
+1. **Zugriff zuweisen:** Begrenzen Sie den Dokumentzugriff, damit nur relevante Benutzer spezifische Dokumente anzeigen oder genehmigen können.
+1. **Genehmigungen überwachen:** Verwenden Sie das Dashboard, um alle Genehmigungsanfragen anzuzeigen, filtern Sie nach ausstehenden Elementen und teilen Sie gefilterte Links mit Teamkollegen, um ihre Aufmerksamkeit zu lenken.
+1. **Praxisbeispiel:** Wenn mehrere Dokumente ausstehend sind, filtert Robert die Seite "Genehmigungen", kopiert den gefilterten Link und sendet ihn an das zuständige Team, um dessen Aufmerksamkeit zu lenken und Verzögerungen zu vermeiden.
 
 Diese Struktur stellt sicher, dass jeder Beteiligte seine Verantwortung kennt, die Zusammenarbeit rationalisiert und Fehler oder Verzögerungen im Genehmigungsprozess des Projektes reduziert werden.
 

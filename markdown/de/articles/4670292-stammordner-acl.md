@@ -3,13 +3,13 @@
 Bearbeiten Sie die Zugriffskontrolle für Stammordner für Dokumente:
 
 1. Gehen Sie zu Dokumente im Hauptmenü.
-2. Klicken Sie auf das "Hamburger-Menü" oben rechts. Hier finden Sie die Bibliothekseinstellungen. Klicken Sie auf die Bibliothekseinstellungen.
-3. Im neuen Fenster finden Sie die Zugriffskontrolle für den Stammordner. Klicken Sie darauf.
-4. Hier sehen Sie die Mitglieder, die Zugriff auf den Stammordner haben, und die Schaltfläche "Zugriff bearbeiten". Klicken Sie auf die Schaltfläche "Zugriff bearbeiten".
-5. Das Fenster "Zugriff bearbeiten" wird angezeigt
-6. Definieren Sie den Zugriff für Mitglied(er) oder Team(s).
-7. Administratoren
-8. Andere: Dies ist der Zugriff für alle anderen außer Ihnen, mit Ausnahme des Admin-Benutzers. Das Dropdown-Menü bietet einige Optionen.
+1. Klicken Sie auf das "Hamburger-Menü" oben rechts. Hier finden Sie die Bibliothekseinstellungen. Klicken Sie auf die Bibliothekseinstellungen.
+1. Im neuen Fenster finden Sie die Zugriffskontrolle für den Stammordner. Klicken Sie darauf.
+1. Hier sehen Sie die Mitglieder, die Zugriff auf den Stammordner haben, und die Schaltfläche "Zugriff bearbeiten". Klicken Sie auf die Schaltfläche "Zugriff bearbeiten".
+1. Das Fenster "Zugriff bearbeiten" wird angezeigt
+1. Definieren Sie den Zugriff für Mitglied(er) oder Team(s).
+1. Administratoren
+1. Andere: Dies ist der Zugriff für alle anderen außer Ihnen, mit Ausnahme des Admin-Benutzers. Das Dropdown-Menü bietet einige Optionen.
 
 - Kein Zugang
 - Lesen
@@ -17,7 +17,7 @@ Bearbeiten Sie die Zugriffskontrolle für Stammordner für Dokumente:
 - Vollzugriff (alle Admin-Benutzer)
 
 1. Eigentümer: Dies ist der Zugriff für den Eigentümer des/der Ordner(s) oder Dokument(e). Es hat die gleichen Optionen wie in Punkt 7.
-2. Sie müssen zwischen den letzten drei wählen:
+1. Sie müssen zwischen den letzten drei wählen:
 
 - Ordner und neuer Inhalt
 

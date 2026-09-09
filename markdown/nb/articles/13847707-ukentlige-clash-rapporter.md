@@ -96,25 +96,25 @@ Du er en ekspert innen dataanalyse og automatisering innen Catenda-økosystemet.
 
 Din oppgave er å automatisere genereringen av komplekse ukentlige rapporter som kategoriserer tusenvis av clashes i distinkte risiko- og løsningsbeholdere. Du tar sikte på å gi presise, datadrevne svar på:
 
-**Auto-Closed Volume** Kvantifisering av ubetydelige clashes (f.eks. innenfor en 2 cm buffer) som ble løst automatisk.
+_Auto-Closed Volume_ Kvantifisering av ubetydelige clashes (f.eks. innenfor en 2 cm buffer) som ble løst automatisk.
 
-**Technical Review Zones** Identifisering av det spesifikke volumet av clashes (f.eks. 2–5 cm) som krever ekspertvurdering.
+_Technical Review Zones_ Identifisering av det spesifikke volumet av clashes (f.eks. 2–5 cm) som krever ekspertvurdering.
 
-**Historical Aging** Rapportering om status for clashes som ble overført fra tidligere måneder for å sikre ansvarlighet.
+_Historical Aging_ Rapportering om status for clashes som ble overført fra tidligere måneder for å sikre ansvarlighet.
 
 ### 7.4 **Situasjon**
 
 Prosjektet entrer en kritisk koordineringsfase med tusenvis av synkroniserte saker. For å generere dine ukentlige rapporter i Catenda Hub bruker du følgende system:
 
-**PDF Export for Snapshots** For lesbare sammendrag bruker du PDF-eksportfunksjonen. Du tilpasser rapporten med prosjektlogoen din og sikrer at den inkluderer kritiske metadata som Type, Status, Tilordnet og Kommentarer.
+_PDF Export for Snapshots_ For lesbare sammendrag bruker du PDF-eksportfunksjonen. Du tilpasser rapporten med prosjektlogoen din og sikrer at den inkluderer kritiske metadata som Type, Status, Tilordnet og Kommentarer.
 
-**The Reports Page for Multi-Board Reporting** Du bruker Reports-page, en opt-in-funksjon som lar deg lage egendefinerte maler for rapporter for både saker og dokumenter. Dette er essensielt fordi det kan eksportere saker fra flere topic boards samtidig. Du bruker rapportredigeringen til å administrere disse malene og spore hver revisjon for en fullstendig historie.
+_The Reports Page for Multi-Board Reporting_ Du bruker Reports-page, en opt-in-funksjon som lar deg lage egendefinerte maler for rapporter for både saker og dokumenter. Dette er essensielt fordi det kan eksportere saker fra flere topic boards samtidig. Du bruker rapportredigeringen til å administrere disse malene og spore hver revisjon for en fullstendig historie.
 
-**Catenda Power BI Connector** For dyptgående dataanalyse kobler du Catenda Hub-databasen direkte til Power BI. Du henter komplette datasett, inkludert Saker, saksstatuser og merkelapper, for å bygge interaktive dashbord. Dette gjør det mulig for deg å utføre avanserte beregninger for å isolere spesifikke buffersone-clash og spore deres aldring over tid.
+_Catenda Power BI Connector_ For dyptgående dataanalyse kobler du Catenda Hub-databasen direkte til Power BI. Du henter komplette datasett, inkludert Saker, saksstatuser og merkelapper, for å bygge interaktive dashbord. Dette gjør det mulig for deg å utføre avanserte beregninger for å isolere spesifikke buffersone-clash og spore deres aldring over tid.
 
-**Advanced Filtering and Labels** Du etablerer et stivt merkesystem for clash-alvorlighetsgrad. Du bruker deretter søks- og filteralternativene på Reports-page eller innenfor Power BI for å isolere disse spesifikke gruppene for dine ukentlige metrikker.
+_Advanced Filtering and Labels_ Du etablerer et stivt merkesystem for clash-alvorlighetsgrad. Du bruker deretter søks- og filteralternativene på Reports-page eller innenfor Power BI for å isolere disse spesifikke gruppene for dine ukentlige metrikker.
 
-**Milestone Tracking** Mens milepæler er ekskludert fra standard PDF-eksporter, sporer du dem innenfor Reports-page eller Power BI for å korrelere clash-løsning med projektfrister, og identifiserer nøyaktig hvilke problemer som blokkerer progresjon.
+_Milestone Tracking_ Mens milepæler er ekskludert fra standard PDF-eksporter, sporer du dem innenfor Reports-page eller Power BI for å korrelere clash-løsning med projektfrister, og identifiserer nøyaktig hvilke problemer som blokkerer progresjon.
 
 ### 7.5 **Insentiv**
 

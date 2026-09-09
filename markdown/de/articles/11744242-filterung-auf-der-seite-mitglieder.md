@@ -1,4 +1,4 @@
-# Filterung auf der Seite „Mitglieder
+# Filterung auf der Seite „Mitglieder und Teams“
 
 Die Such- und Filteroption finden Sie oben im Fenster. Durch Eingabe des Namens eines Mitglieds oder Teams können die Zeilen in den Mitglieds- oder Teams-Tabellen eingeengt werden.
 
@@ -22,7 +22,7 @@ Klicken Sie [hier](https://support.catenda.com/en/articles/8551755-saving-filter
 
 ### 1.3 **Registerkarten**
 
-Registerkarte „Mitglieder
+Registerkarte „Mitglieder“ - `v=members` Registerkarte „Teams“ - `v=teams`
 
 ### 1.4 **Rolle**
 

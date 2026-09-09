@@ -64,31 +64,31 @@ Le deuxième onglet vous permet d'obtenir un aperçu de tous les documents en co
 Le tableau affiche :
 
 1. le nom de la révision
-2. le numéro de révision
-3. l'étape d'examen actuelle
-4. l'état actuel de l'étape
-5. la date d'échéance de l'examen de l'étape
-6. les équipes qui doivent encore examiner le document
-7. le nom de la demande d'approbation
-8. le soumetteur (individuel et équipe)
-9. la date de soumission
+1. le numéro de révision
+1. l'étape d'examen actuelle
+1. l'état actuel de l'étape
+1. la date d'échéance de l'examen de l'étape
+1. les équipes qui doivent encore examiner le document
+1. le nom de la demande d'approbation
+1. le soumetteur (individuel et équipe)
+1. la date de soumission
 
 ### 5.1 Filtrage
 
 De plus, le panneau de filtrage de gauche vous permet de filtrer les documents par :
 
 1. Assignation : toutes les équipes ou votre équipe spécifiquement
-2. État du document : En attente, En examen, Terminé
-3. Date d'échéance : tous, à venir, en retard
+1. État du document : En attente, En examen, Terminé
+1. Date d'échéance : tous, à venir, en retard
 
 ### 5.2 Tri
 
 Enfin, vous avez la possibilité de trier par :
 
 1. Nom de la révision
-2. État
-3. Date d'échéance
-4. Date de soumission
+1. État
+1. Date d'échéance
+1. Date de soumission
 
 ### 5.3 Recherche
 

@@ -46,7 +46,7 @@ Avec le filtre de date, vous pouvez sélectionner une plage horaire pour le mome
 
 ### 2.5 **Assigné à / Demandé par**
 
-_Assigné à personne_ - `assigned=unassigned` _Aucune équipe assignée_ - `assigned-team=unassigned` _Assigné à l'équipe_ - `assigned-team=<Team GUID>` _Non assigné à l'utilisateur_ - `assigned-user=unassigned` _Assigné à l'utilisateur_ - `assigned-user=<User GUID>` Opérateur assigné - `assigned-op=and` Par défaut, vous ne pouvez rechercher que l'utilisateur assigné OU l'équipe assignée. Dans Catenda Hub, vous pouvez définir un assignataire comme utilisateur@équipe Pour trouver tous les sujets de ce type\*\*,\*\* filtrez par l'équipe et l'utilisateur, et ajoutez &assigned-op=and à la fin de l'URL.
+_Assigné à personne_ - `assigned=unassigned` _Aucune équipe assignée_ - `assigned-team=unassigned` _Assigné à l'équipe_ - `assigned-team=<Team GUID>` _Non assigné à l'utilisateur_ - `assigned-user=unassigned` _Assigné à l'utilisateur_ - `assigned-user=<User GUID>` Opérateur assigné - `assigned-op=and` Par défaut, vous ne pouvez rechercher que l'utilisateur assigné OU l'équipe assignée. Dans Catenda Hub, vous pouvez définir un assignataire comme utilisateur@équipe Pour trouver tous les sujets de ce type**,** filtrez par l'équipe et l'utilisateur, et ajoutez &assigned-op=and à la fin de l'URL.
 
 _Non demandé_ - `requester=unassigned` _Non demandé par l'équipe_ - `requester-team=unassigned` _Non demandé par l'utilisateur_ - `requester-user=unassigned` _Demandé par l'utilisateur_ - `requester-user=<User GUID>`
 

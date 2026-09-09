@@ -4,6 +4,8 @@ Vous pourrez trouver la page des tableaux comme sous-page de la [page des topics
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zq777cpq/01-intro.png)
 
+Les topics suivants sont décrits dans cet article :
+
 ## 1. **Actions des tableaux**
 
 ### 1.1 **Nouveau tableau de topics**

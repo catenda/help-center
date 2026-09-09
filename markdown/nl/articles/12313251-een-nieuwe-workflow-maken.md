@@ -4,6 +4,8 @@ De pagina nieuwe workflow kan worden geopend door op de groene plusknop op [de w
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
 
+De volgende topics zijn beschreven in dit artikel:
+
 ## 1. **Titel**
 
 Voer de naam van de workflow in. Dit is het enige onderdeel van de workflow dat kan worden bewerkt nadat het is ingediend.
@@ -27,6 +29,8 @@ Teamleden hebben een beperkt aantal werkdagen om documenten in beoordelingsstapp
 De tijd die in tijdinstellingen is ingesteld, is de tijd waarop de werkdag voor elk van deze werkdagen begint en eindigt. Configureer de tijdinstellingen zodat ze overeenkomen met de teamleden van teams die zijn ingesteld als revisorteams voor beoordelingsstappen in deze workflow. Teamleden kunnen hun beoordeling indienen binnen het gegeven timeframe op basis van het aantal werkdagen en de tijd die in dit veld is geconfigureerd.
 
 **Voorbeeld van hoe tijdinstellingen kunnen worden overwogen:** Inzendingen kunnen worden gedateerd op basis van deze tijden. Een inzending om 2:00 uur behoort tot de vorige dag als de tijdinstelling is ingesteld op 6:00 uur.
+
+De volgende topics zijn beschreven in deze sectie:
 
 ### 2.1 **Begintijd**
 
@@ -138,6 +142,8 @@ Bouw een meertrapsbeoordelingsproces Dit is hoe het stappendeel van een nieuwe g
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/19-review-steps.png)
 
+De volgende topics zijn beschreven in deze sectie:
+
 ### 4.1 **Stapgrootte**
 
 **Geen stappen** Hoewel het mogelijk is om een workflow met geen stappen te maken door alle stappen te verwijderen, is het niet mogelijk om een goedkeuring met deze workflow te maken omdat er minstens één stap moet zijn om een goedkeuring in te dienen.
@@ -196,6 +202,8 @@ Als er beoordelingsstappen zijn, moet elke stap minstens één indiener hebben o
 De definitieve goedkeuring wordt handmatig gegeven door een enkel team. Dit is hoe het onderdeel definitieve goedkeuring van een nieuwe goedkeuringswerkflow eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/22-final-approval.png)
+
+De volgende topics zijn beschreven in deze sectie:
 
 ### 5.1 **Team**
 

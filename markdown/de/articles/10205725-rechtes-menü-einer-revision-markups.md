@@ -5,10 +5,10 @@ Wenn Sie ein Dokument auf der [Dokumentseite](https://support.catenda.com/en/art
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/01-intro.png)
 
 1. Das [Dokumentbanner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) erstreckt sich über den oberen Bereich der Dokumentseite
-2. Sie finden die Dokumentkopfzeile unterhalb des Dokumentbanners und oberhalb der Dokumentvorschau.
-3. Unterhalb der Dokumentkopfzeile finden Sie die [Dokumentvorschau](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
-4. Links neben der Dokumentkopfzeile und der Vorschau finden Sie die Dokumentenliste
-5. _Dieser Artikel:_ Rechts neben der Dokumentkopfzeile und der Vorschau finden Sie das rechte Informationsmenü.
+1. Sie finden die Dokumentkopfzeile unterhalb des Dokumentbanners und oberhalb der Dokumentvorschau.
+1. Unterhalb der Dokumentkopfzeile finden Sie die [Dokumentvorschau](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
+1. Links neben der Dokumentkopfzeile und der Vorschau finden Sie die Dokumentenliste
+1. _Dieser Artikel:_ Rechts neben der Dokumentkopfzeile und der Vorschau finden Sie das rechte Informationsmenü.
 
 Wenn Sie ein Dokument erstmals öffnen, ist sein rechtes Menü möglicherweise geschlossen. Sie können auf die Informationsschaltfläche unten rechts im [Dokumentbanner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) klicken, um dieses Menü zu erweitern.
 

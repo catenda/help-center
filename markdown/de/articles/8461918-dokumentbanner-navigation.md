@@ -5,10 +5,10 @@ Wenn Sie ein Dokument auf der [Dokumentseite](https://support.catenda.com/en/art
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/01-intro.png)
 
 1. Das Dokumentbanner wird in diesem Artikel beschrieben und erstreckt sich über die Oberseite der Dokumentseite
-2. Sie finden den Dokumentheader unterhalb des Dokumentbanners und oberhalb der Dokumentvorschau
-3. Unterhalb des Dokumentheaders finden Sie die Dokumentvorschau
-4. Links neben dem Dokumentheader und der Vorschau finden Sie die Dokumentliste
-5. Rechts neben dem Dokumentheader und der Vorschau finden Sie das [rechte Informationsmenü](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
+1. Sie finden den Dokumentheader unterhalb des Dokumentbanners und oberhalb der Dokumentvorschau
+1. Unterhalb des Dokumentheaders finden Sie die Dokumentvorschau
+1. Links neben dem Dokumentheader und der Vorschau finden Sie die Dokumentliste
+1. Rechts neben dem Dokumentheader und der Vorschau finden Sie das [rechte Informationsmenü](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
 
 Das Dokumentbanner kann etwa so aussehen:
 

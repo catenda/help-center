@@ -34,19 +34,19 @@ Etter at du velger en elementrad, vises valgte elementhandlinger mot toppen av p
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/04-selected-item-actions.png)
 
-**Viser** Klikk på 3D-ikonet eller bruk viseren-handlingen for å velge de valgte elementene i objekttabellen i 3D-visningen.
+_Viser_ Klikk på 3D-ikonet eller bruk viseren-handlingen for å velge de valgte elementene i objekttabellen i 3D-visningen.
 
-**Isoler** Bruk isoler-handlingen for å isolere de valgte elementene i objekttabellen i 3D-visningen.
+_Isoler_ Bruk isoler-handlingen for å isolere de valgte elementene i objekttabellen i 3D-visningen.
 
-**Skjul andre** Bruk skjul andre-handlingen for å skjule alle objekter i 3D-visningen bortsett fra de valgte objektene.
+_Skjul andre_ Bruk skjul andre-handlingen for å skjule alle objekter i 3D-visningen bortsett fra de valgte objektene.
 
 ### 2.4 **Radinnhold**
 
-**Tilgang** Bare produktrader for de siste revisjonene av modeller som medlemmer har tilgang til vises. _Tilgang kreves -_ Les
+_Tilgang_ Bare produktrader for de siste revisjonene av modeller som medlemmer har tilgang til vises. _Tilgang kreves -_ Les
 
-**Produktrad** Produktrader kan ikke åpnes som i andre tabeller. Produktrader kan bare vises i 3D-visningen via handlingsmenyen.
+_Produktrad_ Produktrader kan ikke åpnes som i andre tabeller. Produktrader kan bare vises i 3D-visningen via handlingsmenyen.
 
-**Valg** Radvalg fungerer litt annerledes enn i andre tabeller rundt Catenda. I motsetning til andre tabeller rundt Catenda blir ikke valget tilbakestilt når du går til en annen side og kommer tilbake eller endrer et filter. I produkttabellen tilbakestilles valget bare når siden oppdateres. Ettersom det ofte vil være tusenvis av objekter valgt, er det mer vanlig at valgte rader ikke er i visningen. Et annet filter kan brukes slik at de valgte radene ikke lenger vises i tabellen, men de vil forbli valgt.
+_Valg_ Radvalg fungerer litt annerledes enn i andre tabeller rundt Catenda. I motsetning til andre tabeller rundt Catenda blir ikke valget tilbakestilt når du går til en annen side og kommer tilbake eller endrer et filter. I produkttabellen tilbakestilles valget bare når siden oppdateres. Ettersom det ofte vil være tusenvis av objekter valgt, er det mer vanlig at valgte rader ikke er i visningen. Et annet filter kan brukes slik at de valgte radene ikke lenger vises i tabellen, men de vil forbli valgt.
 
 ### 2.5 **Eksport**
 
@@ -58,11 +58,11 @@ Rader Det er bare mulig å få alle rader fra de aktiverte modellene. Valg av ra
 
 Kolonner En kolonne for hver kolonne som er aktivert i produkttabellen eksporteres til filen. Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) for å lese mer om hvordan du administrerer tabellkolonner.
 
-**Eksportobjekter** Velg å eksportere til Excel eller CSV i eksportobjekter-menyen:
+_Eksportobjekter_ Velg å eksportere til Excel eller CSV i eksportobjekter-menyen:
 
 ![Eksporter objekter Excel CSV](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/06-export.png)
 
-**Forberede eksport** Etter at du klikker på eksport, kan du se en meny som sier at kalkularket klargjøres mot nedre høyre hjørne.
+_Forberede eksport_ Etter at du klikker på eksport, kan du se en meny som sier at kalkularket klargjøres mot nedre høyre hjørne.
 
 ![Forbereder eksport Forbereder regneark](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/07-export.png)
 
@@ -76,23 +76,23 @@ Noen kolonner i produkttabellen er aktivert som standard mens andre kan skjules 
 
 ![Attributter Type GlobalId Navn Etikett Prosjekt Nettsted Bygning Oppfrisk](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/09-columns.png)
 
-**Veksle** Aktiver eller deaktiver alle kolonner med denne vekslebryter
+_Veksle_ Aktiver eller deaktiver alle kolonner med denne vekslebryter
 
-**Filter** Skriv inn navn på en kolonne eller kolonnekategori for å filtrere kolonnenavigasjonen for den kolonnen. Det kan være at kolonnen du søker etter befinner seg i en skjult kolonnekategori, så sørg for å utvide hver kategori for å se om resultatet kan være i den kategorien.
+_Filter_ Skriv inn navn på en kolonne eller kolonnekategori for å filtrere kolonnenavigasjonen for den kolonnen. Det kan være at kolonnen du søker etter befinner seg i en skjult kolonnekategori, så sørg for å utvide hver kategori for å se om resultatet kan være i den kategorien.
 
-**Tilbakestill** Klikk på tilbakestill-knappen for å tilbakestille kolonnene til standardkolonnene
+_Tilbakestill_ Klikk på tilbakestill-knappen for å tilbakestille kolonnene til standardkolonnene
 
 Basert på den konfigurerte kolonneradiusen vises de første kolonnene mens tabellen må rulle sideveis for å vise andre aktiverte kolonner. Standardrekkefølge og synlighetsinnstilling for kolonnene på dokumentsiden er som følger:
 
 - Attributter
-  - Enhet
-  - GlobalId
-  - LongName
-  - Navn
-  - ObjectType
+    - Enhet
+    - GlobalId
+    - LongName
+    - Navn
+    - ObjectType
 
 Videre kan produkttabellen ha hvilket som helst antall kolonner avhengig av mengden egenskaper og egenskapsett som er i hver modell. Hvert sett med kolonner har en hovedkategori med underkategorier. Vekslebryteren kan brukes til å veksle hele kategorien av eller på. Kategorier kan utvides og hver kolonne i kategorien kan aktiveres/deaktiveres individuelt.
 
-**Kolonnepreferanser** I motsetning til andre tabellkonfigurasjoner er noen typiske preferanser som kan konfigureres låst i produkttabellen.
+_Kolonnepreferanser_ I motsetning til andre tabellkonfigurasjoner er noen typiske preferanser som kan konfigureres låst i produkttabellen.
 
 Kolonnepreferanser lagres ikke mellom øktene. Kolonner kan ikke endres rekkefølge, bare aktiveres og deaktiveres. Det er ikke mulig å sortere tabellen etter en annen kolonne ved å klikke på cellen i overskriftsraden for kolonnen. Det er ikke mulig å endre sorteringsretningen på kolonnen tabellen sorteres etter. Det er ikke mulig å dra cellen i overskriftsraden ut av tabellen for å deaktivere raden, rader må deaktiveres via kolonnenavigasjonen.

@@ -26,11 +26,11 @@ Positionieren Sie die Kamera des 3D-Viewers so, dass alle Objekte sichtbar sind.
 
 ### 2.2 Optionen zurücksetzen
 
-So kann das Menü „Optionen zurücksetzen
+So kann das Menü „Optionen zurücksetzen“ aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/05-reset-options.png)
 
-Im Menü „Optionen zurücksetzen
+Im Menü „Optionen zurücksetzen“ können Sie wählen:
 
 - _Alle Objekte anzeigen_ - Offenbaren Sie alle Objekte, die Sie ausgeblendet hatten
 - _Messungen löschen_ - Entfernen Sie alle Messungen
@@ -40,7 +40,7 @@ Tippen Sie auf "**Fertig**", wenn Sie die Konfiguration der 3D-Zurücksetzen-Opt
 
 ## 3. **3D-Viewer-Einstellungen**
 
-So kann das Menü „3D-Viewer-Einstellungen
+So kann das Menü „3D-Viewer-Einstellungen“ aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/06-3d-viewer-settings.png)
 
@@ -74,7 +74,7 @@ Tippen Sie auf die Schaltfläche "Ausblenden", um das Objekt auszublenden. Objek
 
 ### 4.3 **Lasermaß**
 
-Tippen Sie auf das Lasermaß, um die Abstände zu den nächsten Oberflächenkanten oder sich schneidenden Objekten in den X-, Y- und Z-Richtungen zu messen. Messungen können mit der Schaltfläche „Zurücksetzen
+Tippen Sie auf das Lasermaß, um die Abstände zu den nächsten Oberflächenkanten oder sich schneidenden Objekten in den X-, Y- und Z-Richtungen zu messen. Messungen können mit der Schaltfläche „Zurücksetzen“ in der Toolbox oben rechts gelöscht werden.
 
 ### 4.4 **Punktmessung**
 
@@ -86,7 +86,7 @@ Tippen Sie auf die Schaltfläche "Schnittebene", um eine Schnittebene entlang de
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/08-clipping-plane.png)
 
-Nach dem Erstellen einer Schnittebene wird ein Schieberegler unten auf dem Bildschirm angezeigt. Passen Sie diesen Schieberegler an, um die Schnittebene in ihrer Normalrichtung zu verschieben und Feineinstellungen vorzunehmen. Schnittebenen können mit der Schaltfläche „Zurücksetzen
+Nach dem Erstellen einer Schnittebene wird ein Schieberegler unten auf dem Bildschirm angezeigt. Passen Sie diesen Schieberegler an, um die Schnittebene in ihrer Normalrichtung zu verschieben und Feineinstellungen vorzunehmen. Schnittebenen können mit der Schaltfläche „Zurücksetzen“ in der Toolbox oben rechts gelöscht werden.
 
 ### 4.6 **Informationen**
 

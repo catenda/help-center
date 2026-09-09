@@ -96,7 +96,7 @@ Text in Kommentaren folgt den [allgemeinen Regeln für die Formatierung von Beit
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/11-comment.png)
 
-Navigieren Sie mit den Navigations-Pfeilen nach links/rechts zwischen Bildern aus verschiedenen Themen in diesem Thema. Die beste Methode, das ursprüngliche eingereichte Bild herunterzuladen, besteht darin, auf das Download-Symbol zu klicken, um das Bild herunterzuladen. Mit „Speichern unter
+Navigieren Sie mit den Navigations-Pfeilen nach links/rechts zwischen Bildern aus verschiedenen Themen in diesem Thema. Die beste Methode, das ursprüngliche eingereichte Bild herunterzuladen, besteht darin, auf das Download-Symbol zu klicken, um das Bild herunterzuladen. Mit „Speichern unter“ im Aktionsmenü des Browsers wird HTML anstelle des Bildes gespeichert. Heften Sie das Bild-Pop-out mit dem Pin-Symbol oben rechts an, um es geöffnet zu halten, während Sie zu anderen Bereichen von Catenda Hub navigieren. Schließen Sie das Bild-Pop-out, indem Sie oben rechts auf das x klicken, unten rechts auf Schließen klicken oder auf der Tastatur Esc drücken.
 
 Ein Kommentar kann einen der folgenden 3 Anhänge haben:
 

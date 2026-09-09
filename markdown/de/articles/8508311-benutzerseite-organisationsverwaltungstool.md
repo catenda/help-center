@@ -40,7 +40,7 @@ Wenn Sie Ihre Domäne bei Catenda registriert haben, können Sie diese Schaltfl�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/03-add-from-domain.png)
 
-Sie können die Registrierung Ihrer Domäne anfordern, indem Sie den Support über die schwarze Chatschaltfläche neben Ihrem Profilbild oben rechts kontaktieren oder eine E-Mail an [support@catenda.com](mailto:support@catenda.com) senden. Wenn Sie auf diese Schaltfläche klicken, wird das Dialogfeld „Aus Domäne hinzufügen" geöffnet
+Sie können die Registrierung Ihrer Domäne anfordern, indem Sie den Support über die schwarze Chatschaltfläche neben Ihrem Profilbild oben rechts kontaktieren oder eine E-Mail an [support@catenda.com](mailto:support@catenda.com) senden. Wenn Sie auf diese Schaltfläche klicken, wird das Dialogfeld „Aus Domäne hinzufügen“ geöffnet
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/04-add-from-domain.png)
 

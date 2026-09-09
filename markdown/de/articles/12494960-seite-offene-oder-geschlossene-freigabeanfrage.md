@@ -1,6 +1,6 @@
-# Seite „Offene oder geschlossene Freigabeanfrage
+# Seite „Offene oder geschlossene Freigabeanfrage“
 
-Wenn Shared Revisions in einem Projekt aktiviert sind, wird die [Seite „Freigaben
+Wenn Shared Revisions in einem Projekt aktiviert sind, wird die [Seite „Freigaben“](https://support.catenda.com/en/articles/12495047-approvals-page) verfügbar. Mitglieder, die Teil von Einreicherteams für Freigabe-Workflows im Projekt sind, können im Namen eines Einreicherteams [eine Freigabeanfrage einreichen](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request). Eingereichte Freigabeanfragen finden Sie auf der Seite mit den Freigabeanfragen oder im Freigabemenü des rechten Menüs eines Dokuments. So kann eine Freigabeseite für Projekte aussehen, in denen Shared Revisions nach dem 2. Oktober 2025 aktiviert wurden:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/01-intro.png)
 
@@ -10,7 +10,7 @@ _Erforderliche Zugriffsberechtigung:_ Einer der folgenden, unabhängig vom Admin
 - Mitglied eines Reviewer-Teams, das zum Überprüfen eines der Schritte für den ausgewählten Workflow in der Freigabeanfrage konfiguriert ist.
 - Mitglied des Publisher-Teams, das zum Einreichen der endgültigen Freigabe für den ausgewählten Workflow in der Freigabeanfrage konfiguriert ist.
 
-Freigabeanfragen können auf der Seite „Freigaben
+Freigabeanfragen können auf der Seite „Freigaben“ eingereicht werden, und zuvor erstellte Entwürfe von Freigabeanfragen können über ihre Entwurfsseite eingereicht werden. In Projekten, in denen Shared Revisions vor dem 2. Oktober 2025 aktiviert wurden, wird stattdessen die alte Seite für Freigabeanfragen angezeigt. Ein Projekt kann nur auf Basis eines Vorlagenprojekts erstellt werden, in dem der alte Validierungs-Workflow aktiviert ist.
 
 ## 1. **Neue Elementaktionen**
 

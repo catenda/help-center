@@ -12,41 +12,41 @@ Robert Chen er en erfaren prosjektadministrator som overser et stort kommersielt
 
 ### 2.1 **Dokumentinnsendera**
 
-**Stillingstitler** Designingeniør, BIM-koordinator, prosjektarkitekt, dokumentkontroller
+_Stillingstitler_ Designingeniør, BIM-koordinator, prosjektarkitekt, dokumentkontroller
 
-**Rolle** Disse teammedlemmene forbereder og laster opp dokumenter (som plantegninger, tidsplaner eller materiallistor) som må vurderes og videreføres. De starter gjennomgangsprosessen ved å sende inn arbeidet sitt til validering. Robert sikrer at de har riktig tilgang og at innsendingene deres blir dirigert til riktige vurderere.
+_Rolle_ Disse teammedlemmene forbereder og laster opp dokumenter (som plantegninger, tidsplaner eller materiallistor) som må vurderes og videreføres. De starter gjennomgangsprosessen ved å sende inn arbeidet sitt til validering. Robert sikrer at de har riktig tilgang og at innsendingene deres blir dirigert til riktige vurderere.
 
 ### 2.2 **Vurderingsteam**
 
-**Stillingstitler** Arkitekt, konstruktør, MEP-ingeniør, kostnadsleder, kvalitetssikringsspesialist
+_Stillingstitler_ Arkitekt, konstruktør, MEP-ingeniør, kostnadsleder, kvalitetssikringsspesialist
 
-**Rolle** Disse fagpersonene vurderer de innsendte dokumentene nøye med tanke på nøyaktighet, samsvar og fullstendighet. De gir tilbakemelding eller viderefører etter behov. Robert konfigurerer hvilke team som vurderer hvilke typer dokumenter og overvåker deres aktivitet for å oppdage forsinkelser eller flaskehalser.
+_Rolle_ Disse fagpersonene vurderer de innsendte dokumentene nøye med tanke på nøyaktighet, samsvar og fullstendighet. De gir tilbakemelding eller viderefører etter behov. Robert konfigurerer hvilke team som vurderer hvilke typer dokumenter og overvåker deres aktivitet for å oppdage forsinkelser eller flaskehalser.
 
 ### 2.3 **Publiserere**
 
-**Stillingstitler** Prosjektleder, seniorarkitekt, designleder
+_Stillingstitler_ Prosjektleder, seniorarkitekt, designleder
 
-**Rolle** Publisereren har siste ordet i gjennomgangsprosessen. Etter at vurdererne har gitt sitt bidrag, bestemmer publisereren hvilke dokumenter som blir offisielt videreført og publisert for bruk. Robert tildeler det aktuelle teamet eller personen som publiserer for å sikre at bare validerte dokumenter blir frigitt.
+_Rolle_ Publisereren har siste ordet i gjennomgangsprosessen. Etter at vurdererne har gitt sitt bidrag, bestemmer publisereren hvilke dokumenter som blir offisielt videreført og publisert for bruk. Robert tildeler det aktuelle teamet eller personen som publiserer for å sikre at bare validerte dokumenter blir frigitt.
 
 ### 2.4 **Bygningsarbeidere**
 
-**Stillingstitler** Områdeleier, formand, byggarbeiderlaget medlem
+_Stillingstitler_ Områdeleier, formand, byggarbeiderlaget medlem
 
-**Rolle** Selv om de ikke er direkte involvert i gjennomgangsprosessen, er disse personene avhengige av de publiserte, videreførte dokumentene for å utføre arbeidet sitt på stedet. Robert administrerer tilgangen deres slik at de bare ser sluttbehandlede dokumenter, noe som reduserer feilerrisikoen.
+_Rolle_ Selv om de ikke er direkte involvert i gjennomgangsprosessen, er disse personene avhengige av de publiserte, videreførte dokumentene for å utføre arbeidet sitt på stedet. Robert administrerer tilgangen deres slik at de bare ser sluttbehandlede dokumenter, noe som reduserer feilerrisikoen.
 
 ### 2.5 **Andre administratorer og ledere**
 
-**Stillingstitler** Prosjektdirektør, byggeleder, IT-administrator
+_Stillingstitler_ Prosjektdirektør, byggeleder, IT-administrator
 
-**Rolle** Disse rollene støtter arbeidsflyten ved å overvåke prosessen, løse flaskehalser og justere arbeidsflyter etter behov. Robert samarbeider med dem for å holde prosjektet i gang jevnt og trutt og for å løse eventuelle problemer som oppstår.
+_Rolle_ Disse rollene støtter arbeidsflyten ved å overvåke prosessen, løse flaskehalser og justere arbeidsflyter etter behov. Robert samarbeider med dem for å holde prosjektet i gang jevnt og trutt og for å løse eventuelle problemer som oppstår.
 
 ## 3. **Trinnvis veiledning**
 
 1. **Få tilgang til gjennomgangssiden:** Gå til Dokumenter > Gjennomganger i venstremenyen.
-2. **Konfigurer arbeidsflyter:** Sett opp hvilke team som kan sende inn, vurdere og publisere dokumenter. Tildel team for hvert trinn og definer vurderingsperioder.
-3. **Tildel tilgang:** Begrens dokumenttilgang slik at bare relevante brukere kan vise eller viderefør spesifikke dokumenter.
-4. **Overvåk gjennomganger:** Bruk dashbordet til å se alle gjennomgangsforespørsler, filtrer for ventende elementer og del filtrerte lenker med teammedlemmer for å rette oppmerksomheten deres.
-5. **Eksempel fra virkeligheten:** Hvis flere dokumenter venter, filtrerer Robert gjennomgangssiden, kopierer den filtrerte lenken og sender den til det ansvarlige teamet for å fokusere oppmerksomheten deres og unngå forsinkelser.
+1. **Konfigurer arbeidsflyter:** Sett opp hvilke team som kan sende inn, vurdere og publisere dokumenter. Tildel team for hvert trinn og definer vurderingsperioder.
+1. **Tildel tilgang:** Begrens dokumenttilgang slik at bare relevante brukere kan vise eller viderefør spesifikke dokumenter.
+1. **Overvåk gjennomganger:** Bruk dashbordet til å se alle gjennomgangsforespørsler, filtrer for ventende elementer og del filtrerte lenker med teammedlemmer for å rette oppmerksomheten deres.
+1. **Eksempel fra virkeligheten:** Hvis flere dokumenter venter, filtrerer Robert gjennomgangssiden, kopierer den filtrerte lenken og sender den til det ansvarlige teamet for å fokusere oppmerksomheten deres og unngå forsinkelser.
 
 Denne strukturen sikrer at hver deltaker kjenner sitt ansvar, noe som strømlinjeformer samarbeidet og reduserer feil eller forsinkelser i prosjektets dokumentgjennomgangsprosess.
 

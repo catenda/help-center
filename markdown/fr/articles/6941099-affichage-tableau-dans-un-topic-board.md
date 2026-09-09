@@ -2,6 +2,8 @@
 
 Cliquez sur Affichage Tableau (**4**) en haut à droite du tableau des topics sur la [page des topics](https://support.catenda.com/en/articles/4670271-topics-page). Par défaut, l'affichage en liste est affiché dans le tableau. La préférence d'affichage du tableau des topics est une préférence globale. Une fois l'affichage préféré sélectionné, les tableaux de topics dans n'importe quel topic board de n'importe quel projet sont affichés dans cet affichage pour l'utilisateur.
 
+Les topics suivants sont décrits dans cet article :
+
 ## 1. **Tableau de topics**
 
 Le tableau de topics peut ressembler à ceci lorsque l'affichage du tableau est configuré.
@@ -9,6 +11,8 @@ Le tableau de topics peut ressembler à ceci lorsque l'affichage du tableau est 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/01-topics-table.png)
 
 Cliquez [ici](https://support.catenda.com/en/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda. Dès qu'un topic est créé et que le tableau est chargé, le topic apparaît sous forme de ligne dans le tableau de topics pour l'utilisateur. Notez que le filtre ouvert est activé par défaut et les topics fermés peuvent être masqués jusqu'à ce qu'ils soient filtrés.
+
+Les topics suivants sont décrits dans cette section :
 
 ### 1.1 **Modifications apportées lors de la visualisation**
 
@@ -61,6 +65,8 @@ En haut à droite du tableau de topics, vous trouverez la liste déroulante "Col
 Avec cette liste déroulante, vous pouvez réorganiser et basculer les colonnes du tableau. Votre préférence pour la réorganisation et le basculement des colonnes sera mémorisée dans les topic boards et les projets et stockée dans votre compte. Cela signifie qu'il conservera cet ordre si vous fermez et réorganisez votre navigateur. Si vous avez accidentellement masqué une colonne en la faisant glisser hors du tableau, vous pouvez la réactiver ici. Par défaut, toutes les colonnes sont activées et dans cet ordre :
 
 ## 4. **3. Ligne d'en-tête**
+
+Les topics suivants sont décrits dans cette section :
 
 ### 4.1 **Tri**
 

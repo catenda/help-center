@@ -19,11 +19,11 @@ Le nouveau menu d'action des éléments se trouve vers le haut à droite et peut
 Cliquez sur Nouvel export pour créer un nouvel export avec les étapes suivantes.
 
 1. Options de format
-2. Sélectionner le(s) modèle(s) et la/les révision(s)
-3. Options de fusion
-4. Ajouter le nom et le commentaire du projet
-5. Options de partage
-6. Appuyez sur le bouton d'export
+1. Sélectionner le(s) modèle(s) et la/les révision(s)
+1. Options de fusion
+1. Ajouter le nom et le commentaire du projet
+1. Options de partage
+1. Appuyez sur le bouton d'export
 
 Cliquez ici pour en savoir plus sur la création d'un nouvel export.
 

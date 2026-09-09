@@ -39,21 +39,21 @@ Derzeit gibt es keine offizielle Möglichkeit, aus Navisworks zu IFC zu exportie
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3baydpf4/03-export-menu.png)
 
 1. Projektnummer
-2. Projektname
-3. Speichern unter - Geben Sie den Pfad zur Datei ein oder klicken Sie auf "Durchsuchen", um den Ordner zu suchen, in dem Sie Ihre IFC speichern möchten
-4. Wählen Sie aus, welche Zeichnungsdateien Sie zu IFC exportieren möchten
-5. Optionen
-   1. Header – Autor, Organisation usw.
-      1. IFC-Schema zum Exportieren auswählen – IFC 2x3 und IFC 4
-   2. Objekte – Alle
-   3. Ansicht – Alle einschließen
+1. Projektname
+1. Speichern unter - Geben Sie den Pfad zur Datei ein oder klicken Sie auf "Durchsuchen", um den Ordner zu suchen, in dem Sie Ihre IFC speichern möchten
+1. Wählen Sie aus, welche Zeichnungsdateien Sie zu IFC exportieren möchten
+1. Optionen
+    1. Header – Autor, Organisation usw.
+        1. IFC-Schema zum Exportieren auswählen – IFC 2x3 und IFC 4
+    1. Objekte – Alle
+    1. Ansicht – Alle einschließen
 
 > **Hinweis:** IFC 4x1 wird von BuildingSMART eingestellt und wird daher auch von Catenda Hub nicht unterstützt. Siehe [hier](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support), welche Dateitypen in Catenda Hub unterstützt werden
 
-6. Ressource und Zuweisung
+1\. Ressource und Zuweisung
 
 1. Ressource – Klicken Sie mit der rechten Maustaste, um eine Ressourcenperson und Organisation hinzuzufügen
-2. Zuweisung – Klicken Sie mit der rechten Maustaste, um eine zugewiesene Person und Organisation hinzuzufügen
-3. IfcBuilding – Wählen Sie aus, welche Eigenschaften
+1. Zuweisung – Klicken Sie mit der rechten Maustaste, um eine zugewiesene Person und Organisation hinzuzufügen
+1. IfcBuilding – Wählen Sie aus, welche Eigenschaften
 
 Exportieren – Klicken Sie auf diese Schaltfläche, wenn Sie Ihre Dateien exportieren möchten

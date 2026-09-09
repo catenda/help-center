@@ -95,12 +95,10 @@ Wenn der 3D-Viewer geöffnet ist, steht das Modelllademenü zur Verfügung
     <div class="intercom-container"><img height="30" src="https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/inline-ff3494b6d9f8.png" style="height: auto;" width="30"/></div>
 
 - Je nach den Objektsichtbarkeitseigenschaften des Schnappschusses können hinzugefügte Modelle vollständig verborgen sein. Selbst wenn sie nicht sichtbar sind, sollten Sie sehen, dass sie geladen sind, wenn das Thema wiedergegeben wird.
-
 - Die Modelle, die beim Öffnen dieses Menüs aktiv sind, spiegeln die Modelle wider, die derzeit im 3D-Viewer geladen sind. Um eine Gruppe von Modellen leicht hinzuzufügen oder zu entfernen, können Sie ein Lesezeichen erstellen, das Lesezeichen abspielen, zum Schnappschuss gehen, auf sein Aktionsmenü klicken und im Modelllademenü auf Speichern klicken.
-
 - Wenn ein Modell in Ihrem Schnappschuss die gleiche IFCPROJECT-GUID wie ein Modell im Bereich "Modelle" hat, werden die Modelle automatisch verknüpft.
 
-  Hier ist ein Artikel von BuildingSMART, der beschreibt, wie dies in Revit durchgeführt wird [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
+    Hier ist ein Artikel von BuildingSMART, der beschreibt, wie dies in Revit durchgeführt wird [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/08-model-picker.png)
 

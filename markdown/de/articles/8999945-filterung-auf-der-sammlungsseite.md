@@ -34,7 +34,7 @@ _Ich folge_ - `followers=me` Sammlungen, denen der Benutzer folgt.
 
 _Meine Teams folgen_ - `followers=my-teams` Sammlungen, denen Teams folgen, denen der Benutzer angehört.
 
-_Alle Sammlungen_ - `followers=all` Alle Sammlungen mit oder ohne Follower. Dieser Filter wird automatisch angewendet, wenn die Schaltfläche „x
+_Alle Sammlungen_ - `followers=all` Alle Sammlungen mit oder ohne Follower. Dieser Filter wird automatisch angewendet, wenn die Schaltfläche „x“ in der Suchleiste angeklickt wird oder wenn sowohl der Filter „Ich folge“ als auch der Filter „Meine Teams folgen“ deaktiviert sind.
 
 ### 3.4 **Erstellt von mir**
 

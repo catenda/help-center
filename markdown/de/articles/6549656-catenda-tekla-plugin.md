@@ -32,7 +32,7 @@ Melden Sie sich mit Ihrer E-Mail-Adresse und Ihrem Catenda Hub-Passwort an.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/02-getting-started.png)
 
-Klicken Sie auf „Zugriff erlauben
+Klicken Sie auf „Zugriff erlauben“, damit das Tekla-Plugin auf Ihr Catenda Hub-Konto zugreifen kann. Dies öffnet die Hauptansicht des Catenda Hub-Add-ins.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/03-getting-started.png)
 
@@ -47,13 +47,13 @@ Auf dieser Seite finden Sie das Hauptmenü zur Navigation in Ihrem Catenda-Proje
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/04-interface.png)
 
 1. Wählen Sie Ihr Catenda-Projekt aus
-2. Wählen Sie ein issue board in diesem Projekt aus
-3. Erstellen Sie ein neues issue in dem aktuell ausgewählten issue board
-4. Sortieren Sie die aktuell angezeigten issues
-5. Öffnen Sie das Catenda Hub Add-in-Menü
-6. Suchen und filtern Sie die angezeigten issues
-7. Die Liste der aktuell gefilterten issues im issue board
-8. Issues aktualisieren
+1. Wählen Sie ein issue board in diesem Projekt aus
+1. Erstellen Sie ein neues issue in dem aktuell ausgewählten issue board
+1. Sortieren Sie die aktuell angezeigten issues
+1. Öffnen Sie das Catenda Hub Add-in-Menü
+1. Suchen und filtern Sie die angezeigten issues
+1. Die Liste der aktuell gefilterten issues im issue board
+1. Issues aktualisieren
 
 ### 4.2 **Projekt- und issue board-Auswahl**
 
@@ -64,6 +64,6 @@ Durch Auswahl eines Catenda-Projekts wird die Liste des issue boards in diesem P
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/05-catenda-hub-add-in-menu.png)
 
 1. Liste der Modelle und Revisionen
-2. Exporteinstellungen für IFC-Upload in Catenda Hub
-3. Version des Catenda Hub-Plugins
-4. Abmelden von Ihrem Catenda Hub-Konto
+1. Exporteinstellungen für IFC-Upload in Catenda Hub
+1. Version des Catenda Hub-Plugins
+1. Abmelden von Ihrem Catenda Hub-Konto

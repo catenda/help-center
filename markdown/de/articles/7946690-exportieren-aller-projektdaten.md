@@ -64,8 +64,8 @@ Themendaten können über [Exchange Topics](https://support.catenda.com/en/artic
 
 **Batch- & Ordner-Downloads** Wählen Sie einzelne Ordner, spezifische Dokumentengruppen oder alle sichtbaren Tabellenelemente auf einmal aus, um ein herunterladbares ZIP-Archiv zu generieren. Das Herunterladen in verwaltbaren Gruppen durch Auswahl spezifischer Unterordner oder gezielter Dateigruppen wird für reibungslose Übertragungen bei großen Datensätzen empfohlen.
 
-- \*\*Registerkarte „Veröffentlicht
-- \*\*Registerkarte "Arbeitsbereich"<br>Extrahiert die neueste gemeinsam genutzte Version für jedes ausgewählte Dokument (erfordert die Berechtigung "Gemeinsam genutzte Versionen anzeigen"). Beachten Sie, dass Legacy-Entwurfversionen nicht in einem ZIP-Archiv per Batch heruntergeladen werden können und einzeln heruntergeladen werden.
+- **Registerkarte „Veröffentlicht“**<br>Extrahiert die letzte veröffentlichte Revision für jedes ausgewählte Dokument.
+- **Registerkarte "Arbeitsbereich"<br>Extrahiert die neueste gemeinsam genutzte Version für jedes ausgewählte Dokument (erfordert die Berechtigung "Gemeinsam genutzte Versionen anzeigen"). Beachten Sie, dass Legacy-Entwurfversionen nicht in einem ZIP-Archiv per Batch heruntergeladen werden können und einzeln heruntergeladen werden.
 
 **Download einzelner Überarbeitungen** Wählen Sie ein Dokument auf der [Dokumentenseite](https://support.catenda.com/en/articles/8204673-documents-page) aus und klicken Sie auf die Download-Schaltfläche neben jeder im rechten Informationsmenü aufgelisteten Überarbeitung. Dies ist eine einfachere Möglichkeit, individuelle oder historische Überarbeitungen herunterzuladen, da die Dokumentvorschauseite nicht geladen werden muss, so dass Sie ein anderes Dokument in der Tabelle auswählen und seine Überarbeitungen im rechten Menü herunterladen können, ohne eine neue Vorschauseite öffnen zu müssen.
 
@@ -96,7 +96,7 @@ Der [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-
 
 **Projektweite Aktionsberechtigungen** Dokumentieren Sie projektweite Berechtigungen auf der [Projekteinstellungsseite](https://support.catenda.com/en/articles/4670273-project-settings-page) (z. B. Erstellen von Themen-Boards, Einladen neuer Mitglieder, Konfigurieren von Dokumentstatus und Erstellen oder Entfernen von Modellen) mit zwei verfügbaren Ansichten:
 
-- \*\*Pro-Benutzer-Zugriffssicht<br>Projektmitglieder können jedes Menü unter der Zugriffskontrolle erweitern, um zu sehen, welche einzelnen Benutzer berechtigt sind, jede Aktion auszuführen.
+- **Pro-Benutzer-Zugriffssicht<br>Projektmitglieder können jedes Menü unter der Zugriffskontrolle erweitern, um zu sehen, welche einzelnen Benutzer berechtigt sind, jede Aktion auszuführen.
 - **Vollständige Konfiguration**<br>Administratoren können den Dialog zum Bearbeiten des Zugriffs öffnen, um Berechtigungskonfigurationen auf Team-Ebene anzuzeigen und zu verwalten.<br>_Erforderlicher Zugriff:_ Projektadministrator
 
 **Benutzerprofile & Mitgliederdetails** Informationen zu Projektmitgliedern und Teams sind zum Extrahieren oder Dokumentieren verfügbar, einschließlich:
@@ -118,16 +118,16 @@ Konfigurieren Sie ein spezielles Administratorkonto mit [projektspezifischen Ben
 
 **Dokumentberichte** Exportieren Sie Dokumentmetadaten und Überarbeitungsdetails für alle ausgewählten Dateien, einschließlich Dokumentname, Überarbeitungsname, neueste Überarbeitungsnummer, Status, benutzerdefinierte Felder, Ersteller, Uploader und Erstellungs-/Hochlade-Zeitstempel.
 
-- \*\*Wichtigste Anwendungsfälle<br>Ideal zur Erstellung formaler Dokumentlieferchecklisten zur Begleitung einer Sammlung oder zur Kompilierung strukturierter Dokumentlisten für Datenanalysen.
-- \*\*Modellmetadaten und -attribute<br>Obwohl tatsächliche Dokumentdateiinhalte nicht enthalten sind, können Modellmetadaten über Dokumentberichte exportiert werden, da Modelle Links zum Dokumentbereich behalten. Benutzerdefinierte Skripte in Vorlagen können auch verwendet werden, um zusätzliche Attribute abzuleiten, z. B. das Extrahieren von Dateitypen aus Dokumentnamen.
+- **Wichtigste Anwendungsfälle<br>Ideal zur Erstellung formaler Dokumentlieferchecklisten zur Begleitung einer Sammlung oder zur Kompilierung strukturierter Dokumentlisten für Datenanalysen.
+- **Modellmetadaten und -attribute<br>Obwohl tatsächliche Dokumentdateiinhalte nicht enthalten sind, können Modellmetadaten über Dokumentberichte exportiert werden, da Modelle Links zum Dokumentbereich behalten. Benutzerdefinierte Skripte in Vorlagen können auch verwendet werden, um zusätzliche Attribute abzuleiten, z. B. das Extrahieren von Dateitypen aus Dokumentnamen.
 
 **Themenberichte** Exportieren Sie gesamte Themenkopfzeilen sowie vollständige Themenkörperdetails, einschließlich Beschreibungen, Kommentare und eingebettete Kommentarbilder.
 
 **Verfügbare Exportformate** Berichte, die aus einer beliebigen Vorlage erstellt wurden, können je nach Ihren Arbeitsablaufanforderungen in mehrere Formate exportiert werden:
 
-- \*\*PDF / PDF/A<br>Generiert sauber formatierte Berichte und unterstützt direkt die native PDF/A-Konformität (PDF/A-1, PDF/A-2 und PDF/A-3), um strenge Standards für die Langzeitarchivierung und formale juristische Standards zu erfüllen.
-- \*\*Excel<br>Exportiert strukturierte Tabellendaten in Tabellenkalkulationszeilen und -spalten, was sich ideal für Datenbearbeitung und externe Analyse eignet.
-- \*\*Zusätzliche Formate<br>Eine breite Palette zusätzlicher Dateiformate neben PDF und Excel werden ebenfalls zum Exportieren unterstützt. Die vollständige Übersicht finden Sie im [Artikel zur Seite "Berichte"](https://support.catenda.com/en/articles/12303098-reports-page).
+- **PDF / PDF/A<br>Generiert sauber formatierte Berichte und unterstützt direkt die native PDF/A-Konformität (PDF/A-1, PDF/A-2 und PDF/A-3), um strenge Standards für die Langzeitarchivierung und formale juristische Standards zu erfüllen.
+- **Excel<br>Exportiert strukturierte Tabellendaten in Tabellenkalkulationszeilen und -spalten, was sich ideal für Datenbearbeitung und externe Analyse eignet.
+- **Zusätzliche Formate<br>Eine breite Palette zusätzlicher Dateiformate neben PDF und Excel werden ebenfalls zum Exportieren unterstützt. Die vollständige Übersicht finden Sie im [Artikel zur Seite "Berichte"](https://support.catenda.com/en/articles/12303098-reports-page).
 
 **Zentralisierte Speicherung** Generierte Berichte werden direkt in der Berichtstabelle aufgelistet und automatisch in die Hauptdokumenttabelle integriert, um eine einfache Verwaltung zu ermöglichen.
 
@@ -143,14 +143,14 @@ Das Einrichten und Verwalten von Catenda Data Export erfordert einen **Organisat
 
 Das Einrichten automatisierter Datenexporte umfasst vier Hauptschritte:
 
-1. \*\*Ziel auswählen<br>Wählen Sie einen Cloud-Speicheranbieter, Amazon Web Services (AWS) S3 oder Microsoft Azure Blob-Speicher, und konfigurieren Sie die Authentifizierung.
-2. **Umfang & Datenformate definieren**
-   - \*\*Datentypen<br>Exportieren Sie Dokumente, Modelle und Themen. <br>Themadaten können während der Übertragung automatisch in lesbare PDF-Zusammenfassungsberichte oder Standard-BCF-Dateien konvertiert werden.
-   - \*\*Projektauswahl<br>Wählen Sie alle Projekte, wählen Sie spezifische Projekte manuell aus, oder richten Sie dynamische Zuordnungsregeln mit Projektnamensmustern (glob oder regulärer Ausdruck / Regex) ein, um neue Projekte automatisch einzuschließen, wenn sie erstellt werden.
-3. **Exportmodus wählen**
-   - \*\*Kontinuierlicher Modus<br>Versendet Daten automatisch nach einem täglichen Zeitplan. <br>Dieses wiederkehrende Setup stellt sicher, dass Projektmitglieder ohne Eigentümerrechte eine aktualisierte Sicherung bis zum letzten täglichen Durchlauf behalten, wenn der Projektzugriff unerwartet endet.
-   - \*\*Snapshot-Modus<br>Führt eine einmalige Ausführung durch, um einen vollständigen Datensatz bei einem bestimmten Meilenstein oder einer Projektübergabe zu exportieren.
-4. \*\*Bereitstellen<br>Schließen Sie die Exportkonfiguration ab und aktivieren Sie sie, indem Sie „Erstellen
+1. **Ziel auswählen<br>Wählen Sie einen Cloud-Speicheranbieter, Amazon Web Services (AWS) S3 oder Microsoft Azure Blob-Speicher, und konfigurieren Sie die Authentifizierung.
+1. **Umfang & Datenformate definieren**
+    - **Datentypen<br>Exportieren Sie Dokumente, Modelle und Themen. <br>Themadaten können während der Übertragung automatisch in lesbare PDF-Zusammenfassungsberichte oder Standard-BCF-Dateien konvertiert werden.
+    - **Projektauswahl<br>Wählen Sie alle Projekte, wählen Sie spezifische Projekte manuell aus, oder richten Sie dynamische Zuordnungsregeln mit Projektnamensmustern (glob oder regulärer Ausdruck / Regex) ein, um neue Projekte automatisch einzuschließen, wenn sie erstellt werden.
+1. **Exportmodus wählen**
+    - **Kontinuierlicher Modus<br>Versendet Daten automatisch nach einem täglichen Zeitplan. <br>Dieses wiederkehrende Setup stellt sicher, dass Projektmitglieder ohne Eigentümerrechte eine aktualisierte Sicherung bis zum letzten täglichen Durchlauf behalten, wenn der Projektzugriff unerwartet endet.
+    - **Snapshot-Modus<br>Führt eine einmalige Ausführung durch, um einen vollständigen Datensatz bei einem bestimmten Meilenstein oder einer Projektübergabe zu exportieren.
+1. **Bereitstellen**<br>Schließen Sie die Exportkonfiguration ab und aktivieren Sie sie, indem Sie „Erstellen“ auswählen.
 
 ### 3.3 **Extrahierter Inhalt & Integritätsüberprüfung**
 

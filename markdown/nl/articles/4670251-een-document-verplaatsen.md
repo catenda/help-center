@@ -3,10 +3,10 @@
 ## 1. Een document verplaatsen
 
 1. Selecteer het document met behulp van de selectievakjes links van het document
-2. Rechtsboven verschijnt een hamburgermenu (drie punten). Druk daarop
-3. Klik op verplaatsen
-4. Selecteer de map waarnaar u het wilt verplaatsen.
-5. Druk op "Verplaats hier"
+1. Rechtsboven verschijnt een hamburgermenu (drie punten). Druk daarop
+1. Klik op verplaatsen
+1. Selecteer de map waarnaar u het wilt verplaatsen.
+1. Druk op "Verplaats hier"
 
 ### 1.1 Toegang voor het verplaatsen van documenten
 

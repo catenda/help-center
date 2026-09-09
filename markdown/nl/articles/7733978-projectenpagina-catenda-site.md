@@ -7,9 +7,9 @@ Na [het downloaden, installeren en inloggen](https://support.catenda.com/en/arti
 U kunt uw projecten filteren door op de vervolgkeuzelijst **(A)** te tikken:
 
 1. Alfabetische volgorde
-2. Laatst bijgewerkte projecten
-3. Favorieten
-4. Offlineprojecten
+1. Laatst bijgewerkte projecten
+1. Favorieten
+1. Offlineprojecten
 
 of door in de zoekbalk **(B)** te zoeken:
 

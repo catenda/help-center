@@ -28,9 +28,9 @@ Modellisten har kolonner som viser det meste av informasjonen du trenger å vite
 
 _Navn_ Namnet på modell-dokumentet. Modellnavnet er også navnet du vil se i revisjonsvelgeren i 3D-visningen.
 
-**Dokumentnavn** Navnet på dokument-modellen i dokumentdelen
+_Dokumentnavn_ Navnet på dokument-modellen i dokumentdelen
 
-**Revisjonsnavnet** Navnet på den siste revisjonen
+_Revisjonsnavnet_ Navnet på den siste revisjonen
 
 ### 3.3 **Tilgangskontroll**
 
@@ -46,27 +46,27 @@ Tidligere var den eneste handlingen du kunne utføre på valgte modeller å åpn
 
 ### 3.6 **Kontroller tilgang til dokument-modeller**
 
-**Opprette en modell-dokument** Hvis du oppretter en modell med knappen for å opprette modell i modelldelen, blir du bedt om å velge hvor du vil at det lenket dokument-modellen skal ende opp i dokumentdelen. I dialogboksen for å opprette modell vil du også kunne gi modellen et navn. Det resulterende lenket dokument-modellen vil ha det samme som modellen når den opprettes. Catenda Hub vil huske mappen du valgte sist og velger den automatisk neste gang du oppretter en modell-dokument.
+_Opprette en modell-dokument_ Hvis du oppretter en modell med knappen for å opprette modell i modelldelen, blir du bedt om å velge hvor du vil at det lenket dokument-modellen skal ende opp i dokumentdelen. I dialogboksen for å opprette modell vil du også kunne gi modellen et navn. Det resulterende lenket dokument-modellen vil ha det samme som modellen når den opprettes. Catenda Hub vil huske mappen du valgte sist og velger den automatisk neste gang du oppretter en modell-dokument.
 
 Hvis prosjektet ditt startet uten modeller som dokumenter, vil en mappe kalt "Modeller" ha dukket opp i mappestrukturen din. Modellmappen som vises inneholder alle dokument-modeller som er lenket til modell-dokumenter i modelldelen. Dokument-modeller kan flyttes ut av denne mappen til hvor som helst i dokumentdelen du har tilgang til. Dokument-modeller i modellmappen kan også slettes (og gjenopprettes) hvis ønskelig. Dokument-modellene trenger ikke å være i mappen, og modellmappen kan slettes om nødvendig.
 
-**Opprett en modellrevisjon** For å kunne laste opp nye revisjoner til en modell trenger du nå minst skrivetilgang til dokument-modellen. Nye revisjoner til modellen kan legges til dokumentet og omvendt.
+_Opprett en modellrevisjon_ For å kunne laste opp nye revisjoner til en modell trenger du nå minst skrivetilgang til dokument-modellen. Nye revisjoner til modellen kan legges til dokumentet og omvendt.
 
 > **Merk:** Revisjonskommentarer har blitt deaktivert og kan nå valgfritt aktiveres med [egendefinerte felt på revisjoner](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents).
 
-**Laste ned en modellrevisjon** Du trenger minst lesetilgang til dokument-modellen for å kunne laste ned modellen.
+_Laste ned en modellrevisjon_ Du trenger minst lesetilgang til dokument-modellen for å kunne laste ned modellen.
 
 ### 3.7 **Meny for informasjon til høyre**
 
 En meny for informasjon til høyre vil være tilgjengelig hvis en modell er valgt.
 
-**Dokumentfelt** I denne menyen vil du se modellinformasjonen din samt et grått felt som lenker til dokument-modellen i dokumentdelen som er lenket til denne modell-dokumenten. Klikk på dokumentfeltet for å åpne dokument-modellen som er lenket til denne modellen.
+_Dokumentfelt_ I denne menyen vil du se modellinformasjonen din samt et grått felt som lenker til dokument-modellen i dokumentdelen som er lenket til denne modell-dokumenten. Klikk på dokumentfeltet for å åpne dokument-modellen som er lenket til denne modellen.
 
-**Modellmerkelapper** Du kan nå også legge til merkelapper i modellene dine her.
+_Modellmerkelapper_ Du kan nå også legge til merkelapper i modellene dine her.
 
-**Modellstatus** Hvis statusar har blitt konfigurert i dokumentinnstillinger, vil du kunne konfigurere en status for modellen din her.
+_Modellstatus_ Hvis statusar har blitt konfigurert i dokumentinnstillinger, vil du kunne konfigurere en status for modellen din her.
 
-**Modelltransformasjon** Hvis du har åpnet denne modellen i 3D, vil du kunne konfigurere modelltransformasjon her.
+_Modelltransformasjon_ Hvis du har åpnet denne modellen i 3D, vil du kunne konfigurere modelltransformasjon her.
 
 ## 4. **Endringer i dokumentdelen**
 
@@ -82,17 +82,17 @@ Så snart du har modeller i modelldelen, vil du se et modellfilter dukke opp i f
 
 ### 4.2 **Kolonner**
 
-**Ikon** Du vil kunne skille en dokument-modell fra et vanlig dokument ved modellmerket på nedre høyre side av dokument-modellikonen.
+_Ikon_ Du vil kunne skille en dokument-modell fra et vanlig dokument ved modellmerket på nedre høyre side av dokument-modellikonen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dkw8jgdd/03-columns.png)
 
-**Navn** Navnet på dokumentet
+_Navn_ Navnet på dokumentet
 
-**Modellnavn** Navnet på modellen. Hvis IFC-dokumentet ditt ikke har blitt lenket til en modell, vil du se en knapp for å opprette modell her.
+_Modellnavn_ Navnet på modellen. Hvis IFC-dokumentet ditt ikke har blitt lenket til en modell, vil du se en knapp for å opprette modell her.
 
-**Revisjonsnavnet** Navnet på den siste revisjonen i modellen
+_Revisjonsnavnet_ Navnet på den siste revisjonen i modellen
 
-**Viser** En kolonne med knapper for å åpne hver enkelt dokument-modell i 3D-visningen. Det er bare mulig å åpne dokument-modeller i 3D-visningen hvis dokumentet har blitt lenket til en modell.
+_Viser_ En kolonne med knapper for å åpne hver enkelt dokument-modell i 3D-visningen. Det er bare mulig å åpne dokument-modeller i 3D-visningen hvis dokumentet har blitt lenket til en modell.
 
 ### 4.3 **Handlingsknapper**
 
@@ -106,13 +106,13 @@ Dette betyr at du kan slette flere modeller på en gang i stedet for en-og-en so
 
 ### 4.4 **Kontroller tilgang til modell-dokumenter**
 
-**Opprette dokument-modeller** For å kunne laste opp nye revisjoner til en modell trenger du nå minst skrivetilgang til dokument-modellen. Du gjør dette ved å opprette en modell i handlingsmenyen til et dokument. Etter at du gjør dette, vil du se dokumentet som en modell i modelldelen. Modell-dokumentet i modelldelen vil ha det samme navnet som dokument-modellen, selv om disse kan endres senere mens de forblir lenket. Nye revisjoner til modellen kan legges til som revisjoner til dokumentet og omvendt.
+_Opprette dokument-modeller_ For å kunne laste opp nye revisjoner til en modell trenger du nå minst skrivetilgang til dokument-modellen. Du gjør dette ved å opprette en modell i handlingsmenyen til et dokument. Etter at du gjør dette, vil du se dokumentet som en modell i modelldelen. Modell-dokumentet i modelldelen vil ha det samme navnet som dokument-modellen, selv om disse kan endres senere mens de forblir lenket. Nye revisjoner til modellen kan legges til som revisjoner til dokumentet og omvendt.
 
 > **Merk:** Dette betyr at du kan opprette modeller fra flere IFC-filer samtidig i stedet for å måtte laste dem opp en etter en
 
-**Opplasting av revisjoner til dokument-modeller** Du trenger minst skrivetilgang til dokument-modellen for å kunne laste opp nye revisjoner til modellen. Dette betyr at du kan bruke multi-upload-funksjonen til å laste opp IFC-filer til flere dokument-modeller samtidig
+_Opplasting av revisjoner til dokument-modeller_ Du trenger minst skrivetilgang til dokument-modellen for å kunne laste opp nye revisjoner til modellen. Dette betyr at du kan bruke multi-upload-funksjonen til å laste opp IFC-filer til flere dokument-modeller samtidig
 
-**Laste ned dokument-modeller** Du trenger minst lesetilgang til dokument-modellen for å kunne laste ned modellen. Dette betyr at du kan konfigurere tilgang for å tillate nedlasting av separate modeller i stedet for bare alt eller ingenting.
+_Laste ned dokument-modeller_ Du trenger minst lesetilgang til dokument-modellen for å kunne laste ned modellen. Dette betyr at du kan konfigurere tilgang for å tillate nedlasting av separate modeller i stedet for bare alt eller ingenting.
 
 ### 4.5 **Synlighet**
 

@@ -9,32 +9,32 @@ Sur les pages où plusieurs éléments sont affichés, les informations sont sou
 Dans les tableaux suivants, toutes les informations sont affichées par défaut
 
 - Panneau d'inspection
-  - [Quantitatif (QTO](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto))
-  - [Alignements](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
-  - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
-  - Conventions de dénomination
+    - [Quantitatif (QTO](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto))
+    - [Alignements](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
+    - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
+    - Conventions de dénomination
 - Bibliothèques
-  - [Bibliothèque de liens](https://support.catenda.com/en/articles/4670254-links-library)
-  - [Bibliothèque Sharepoint](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-  - [Bibliothèque Dropbox](https://support.catenda.com/en/articles/8065645-libraries-page)
-  - [Bibliothèque de valeur de propriété](https://support.catenda.com/en/articles/4670252-property-value-library)
-  - [Bibliothèque de classification](https://support.catenda.com/en/articles/4670255-classification-library)
+    - [Bibliothèque de liens](https://support.catenda.com/en/articles/4670254-links-library)
+    - [Bibliothèque Sharepoint](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+    - [Bibliothèque Dropbox](https://support.catenda.com/en/articles/8065645-libraries-page)
+    - [Bibliothèque de valeur de propriété](https://support.catenda.com/en/articles/4670252-property-value-library)
+    - [Bibliothèque de classification](https://support.catenda.com/en/articles/4670255-classification-library)
 - Outil d'organisation
-  - [Page Utilisateurs](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-  - [Page Projets](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-  - [Page Appartenances de projets](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Page Utilisateurs](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+    - [Page Projets](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+    - [Page Appartenances de projets](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 
 Dans les tableaux suivants, une configuration par défaut est affichée au chargement de la page :
 
 - Modèles
-  - [Page Objets](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Page Objets](https://support.catenda.com/en/articles/12352750-objects-page)
 
 Dans les tableaux suivants, les modifications apportées à la configuration de tableau par défaut sont affichées au chargement de la page :
 
 - [Sujets](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Vue tableau)
 - [Modèles](https://support.catenda.com/en/articles/4670286-models-page) (Vue de base, Onglet Publié, Onglet Espace de travail)
 - [Documents](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Vue de base, Onglet Publié, Onglet Espace de travail)
-  - [Aperçu d'accès au document](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+    - [Aperçu d'accès au document](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
 - [Rapports](https://support.catenda.com/en/articles/12303098-reports-page) (Vue de base, Onglet Publié, Onglet Espace de travail)
 - [Étiquettes](https://support.catenda.com/en/articles/4670265-labels-page) (Onglet Étiquettes, Onglet Groupe)
 - [Champs personnalisés](https://support.catenda.com/en/articles/6550459-custom-fields-page)
@@ -251,25 +251,18 @@ Lorsque l'ancre de glisser est relâchée au-dessus d'une ligne interactable, la
 Il est possible de déplacer des colonnes dans les tableaux suivants :
 
 - Modèles
-  - [Page des objets](https://support.catenda.com/en/articles/12352750-objects-page)
-
+    - [Page des objets](https://support.catenda.com/en/articles/12352750-objects-page)
 - Outil d'organisation
-  - [Page des projets](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-  - [Page des memberships de projet](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Page des projets](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+    - [Page des memberships de projet](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 
 - [Rubriques](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Vue Tableau)
-
 - [Modèles](https://support.catenda.com/en/articles/4670286-models-page) (Vue basique, Onglet Publié, Onglet Espace de travail)
-
 - [Documents](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Vue basique, Onglet Publié, Onglet Espace de travail)
-  - [Aperçu de l'accès aux documents](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
-
+    - [Aperçu de l'accès aux documents](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
 - [Rapports](https://support.catenda.com/en/articles/12303098-reports-page) (Vue basique, Onglet Publié, Onglet Espace de travail)
-
 - [Étiquettes](https://support.catenda.com/en/articles/4670265-labels-page) (Onglet Étiquettes, Onglet Groupe)
-
 - [Champs personnalisés](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-
 - [Page Membres](https://support.catenda.com/en/articles/11926821-members-page) (Onglet Membres, Onglet Équipes)
 
 ## 9. Interaction avec des lignes en survolant

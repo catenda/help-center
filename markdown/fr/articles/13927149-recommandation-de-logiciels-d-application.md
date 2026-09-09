@@ -7,8 +7,8 @@ Veuillez vérifier que vous n'avez aucune extension de navigateur ou autre progr
 **Meilleur navigateur par utilisation de la mémoire sur Windows (mars 2026) :**
 
 1. Firefox
-2. Chrome
-3. Microsoft Edge
+1. Chrome
+1. Microsoft Edge
 
 ### 1.1 **Échelle de zoom**
 

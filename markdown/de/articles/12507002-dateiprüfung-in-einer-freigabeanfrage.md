@@ -1,6 +1,6 @@
 # Dateiprüfung in einer Freigabeanfrage
 
-Die Dateiprüfung für eine Freigabeanfrage kann durch Klicken auf „Prüfen
+Die Dateiprüfung für eine Freigabeanfrage kann durch Klicken auf „Prüfen“ oder „Anzeigen“ auf der Seite der Freigabeanfrage geöffnet werden. So kann die Prüfseite einer Datei in einer Freigabeanfrage für Projekte aussehen, in denen Shared Revisions nach dem 2. Oktober 2025 aktiviert wurden:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zr7fa0bv/01-intro.png)
 

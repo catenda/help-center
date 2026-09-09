@@ -49,8 +49,8 @@ _Linksklick_ Wenn sich Räume im Geschoss der 2D-Ansicht befinden, die für ein 
 - _Marker hinzufügen_<br>Einen neuen Marker hinzufügen. Wenn ein Thema im Inhaltsbereich offen ist, können Sie den ausgewählten Marker zuweisen. Dieser Marker wird erst gespeichert und für andere sichtbar, wenn er einem Problem hinzugefügt wird.
 - _Neues Thema mit Marker erstellen_<br>Ein neues Thema mit Marker erstellen. Dieser Marker wird erst gespeichert und für andere sichtbar, wenn das Thema eingereicht wird.
 - _Abfrage erstellen_
-  - Raum schneiden - Erstellen Sie eine [Abfrage](https://support.catenda.com/en/articles/4854514-queries) aller Objekte, die den ausgewählten Raum schneiden
-  - Geschoss schneiden - Erstellen Sie eine [Abfrage](https://support.catenda.com/en/articles/4854514-queries) aller Objekte, die dieses Geschoss schneiden
+    - Raum schneiden - Erstellen Sie eine [Abfrage](https://support.catenda.com/en/articles/4854514-queries) aller Objekte, die den ausgewählten Raum schneiden
+    - Geschoss schneiden - Erstellen Sie eine [Abfrage](https://support.catenda.com/en/articles/4854514-queries) aller Objekte, die dieses Geschoss schneiden
 
 ### 3.2 **Maustaste halten**
 

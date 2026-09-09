@@ -36,7 +36,7 @@ Saker som tidligere ble innlastet, kan åpnes uten tilkobling til nettverket. Et
 
 > **Merknad:** Eksisterende informasjon i saker som ble innlastet da du mistet tilkoblingen til nettverket, kan ikke redigeres.
 
-**Kommentarer på tidligere innlastede saker** Tidligere innlastede saker kan kommenteres uten tilkobling til nettverket. Bilder fra kamera/bilder kan legges til kommentaren _Tilgang påkrevd:_ full tilgang til enheten
+_Kommentarer på tidligere innlastede saker_ Tidligere innlastede saker kan kommenteres uten tilkobling til nettverket. Bilder fra kamera/bilder kan legges til kommentaren _Tilgang påkrevd:_ full tilgang til enheten
 
 Kommentarer opprettet av den påloggede brukeren kan redigeres og slettes uten tilkobling til nettverket.
 
@@ -51,25 +51,19 @@ Når tilkoblingen til nettverket er gjenopprettet, blir disse sakene ikke automa
 Følgende informasjon kan legges til en ny sak som opprettes uten tilkobling til nettverket:
 
 - En tittel kan legges til
-
 - En saksliste kan velges for saken
-
 - Status/type kan endres
-
 - En milepæl kan legges til
-
 - Merkelapper kan legges til
-
 - En beskrivelse kan skrives
-
 - Kommentarer kan legges til.
-  - Bilder fra kamera/bilder kan legges til kommentarer.
+    - Bilder fra kamera/bilder kan legges til kommentarer.
 
-    _Tilgang påkrevd:_ Full tilgang til enheten
+        _Tilgang påkrevd:_ Full tilgang til enheten
 
 - Hvis modeller ble innlastet før tilkoblingen til nettverket var tapt, kan en plassering legges til en sak ved å plassere en markør i 2D-visningen av disse modellene.
 
-**Redigering og sending av nye saker**
+_Redigering og sending av nye saker_
 
 - Du vil vite at du ser på en ny frakoblet sak hvis du ser den grå linjen øverst i saken.
 - Det er mulig å redigere saker i frakoblet modus som ennå ikke er sendt gjennom [meldingsboksen](#h_ff2a47f221)
@@ -82,9 +76,9 @@ Hvis ny informasjon og endringer er gjort i en saksliste mens du var i frakoblet
 
 Trykk på ikonet for å åpne meldingsboksen. Etter at du har fått tilgang til nettverket igjen, kan ny informasjon og endringer sendes til prosjektet i denne menyen.
 
-**Lokale utkast** Sakene i denne listen kan sees på som lokale utkast til de er sendt. Hvis nye saker ble opprettet, eller eksisterende saker ble kommentert uten tilkobling til nettverket, ender de opp i denne listen.
+_Lokale utkast_ Sakene i denne listen kan sees på som lokale utkast til de er sendt. Hvis nye saker ble opprettet, eller eksisterende saker ble kommentert uten tilkobling til nettverket, ender de opp i denne listen.
 
-**Sending av meldingsboks** All ny informasjon og endringer som er gjort uten tilkobling til nettverket, blir liggende på enheten til meldingsboksen blir sendt. Når tilkoblingen til nettverket er gjenopprettet, kan meldingsboksen sendes. Ny informasjon og endringer som ble gjort mens det ikke var tilkobling til nettverket, vil da bli synkronisert til prosjektet og vises for alle prosjektmedlemmer.
+_Sending av meldingsboks_ All ny informasjon og endringer som er gjort uten tilkobling til nettverket, blir liggende på enheten til meldingsboksen blir sendt. Når tilkoblingen til nettverket er gjenopprettet, kan meldingsboksen sendes. Ny informasjon og endringer som ble gjort mens det ikke var tilkobling til nettverket, vil da bli synkronisert til prosjektet og vises for alle prosjektmedlemmer.
 
 ## 2. **Modeller i frakoblet modus**
 

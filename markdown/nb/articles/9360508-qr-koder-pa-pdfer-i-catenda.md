@@ -36,7 +36,7 @@ _[Nedlastingskobling](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVm
 
 Siden dokumenter ikke kan endres etter at de lastes opp til Catenda, er det viktig at QR-kodens plassholder er plassert på dokumentet før det lastes opp til Catenda. Plasseholderen kan plasseres på hvilket som helst lag unntatt annoteringslaget. For at Catenda skal gjenkjenne QR-koden, må den legges til som et bilde. Bildet i det publiserte dokumentet må være nøyaktig samme bilde som plassholderbildet.
 
-**PDF-optimalisering** Mange programmer utfører optimaliseringstrinn for bedre visning og reduksjon av filstørrelse. Disse trinnene kan endre antall byte i bildet, noe som gjør at Catenda ikke gjenkjenner det lenger. Her er litt informasjon om plasseholderen som kan hjelpe med optimalisering. Pikseletthet: 144 dpi Bildekomprimering: ZIP Bildet må være ett helt bilde. Noen optimaliserere kan dele bildet som en optimalisering. Kontroller at bildet er helt etter optimalisering.
+_PDF-optimalisering_ Mange programmer utfører optimaliseringstrinn for bedre visning og reduksjon av filstørrelse. Disse trinnene kan endre antall byte i bildet, noe som gjør at Catenda ikke gjenkjenner det lenger. Her er litt informasjon om plasseholderen som kan hjelpe med optimalisering. Pikseletthet: 144 dpi Bildekomprimering: ZIP Bildet må være ett helt bilde. Noen optimaliserere kan dele bildet som en optimalisering. Kontroller at bildet er helt etter optimalisering.
 
 _Archicad_ Når du plasserer QR-koden, vennligst bruk: Importer > interpobility > slå sammen fra fil > importer og åpne regneark > dra og slipp Hvis du åpner regnearket og drar og slipper PNG-en, endres oppløsningen og den fungerer ikke.
 
@@ -67,8 +67,8 @@ Den utskrevne PDF-en med plassholdingen kan nå lastes opp som en ny revisjon ti
 ## 3. **Publisering med QR-koder**
 
 1. Last opp en ny revisjon av en PDF med plassholdingen til en mappe med QR-kodetilordning
-2. Under publisering vil PDF-en bli skannet etter plassholdingen og erstattet med en QR-kode (generert for denne revisjonen)
-3. Den nylig genererte QR-koden blir en del av PDF-en, som kan vises/skannes på Catenda Hub og/eller lastes ned.
+1. Under publisering vil PDF-en bli skannet etter plassholdingen og erstattet med en QR-kode (generert for denne revisjonen)
+1. Den nylig genererte QR-koden blir en del av PDF-en, som kan vises/skannes på Catenda Hub og/eller lastes ned.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/07-publishing-with-qr-codes.png)
 
@@ -88,13 +88,13 @@ Etter at du har lastet opp et dokument med en QR-kode-plassholder, kan du se at 
 
 Hvis genereringen av QR-koden har mislyktes, kan det skyldes at QR-koden var mindre enn 2 cm x 2 cm eller at den ble plassert som en annotering i stedet for et bilde.
 
-**Flatterer annoteringar** Noen programvare lar deg flattere annoteringar som tillater at plassholdingen blir behandlet. Her er noen eksempler:
+_Flatterer annoteringar_ Noen programvare lar deg flattere annoteringar som tillater at plassholdingen blir behandlet. Her er noen eksempler:
 
-**PDF X-change**
+_PDF X-change_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/11-document-history.png)
 
-**Adobe Acrobat**
+_Adobe Acrobat_
 
 <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-3d7d02c461d3.png" width="300"/> --> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/inline-3398dc9eef22.png" width="300"/>
 

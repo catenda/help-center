@@ -68,8 +68,6 @@ _Name_ - _Standard_ Der Name des Dokuments, in dem sich die geteilte Überarbeit
 
 ## 3. - _Standard_
 
-Die Haupt- und Nebenversionsnummer der geteilten Überarbeitung (#0.1, #0.2, #1.1, usw.)
-
 Status - _Standard_ Der Name des gemeinsamen Status, der auf die geteilte Überarbeitung angewendet wird.
 
 Entfernen - _Standard_ Klicken Sie auf das x in der Spalte "Entfernen", um das zu überprüfende Dokument aus der Liste "Dokumente zur Überprüfung" zu entfernen.
@@ -98,9 +96,9 @@ Klicken Sie auf "Zur Überprüfung einreichen", um die Genehmigung einzureichen 
 - Ein Team, das im Namen einreicht, muss ausgewählt werden
 - Ein Titel
 - Dokumente
-  - Mindestens 1 Dokument mit einer ausgewählten freigegebenen Revision muss hinzugefügt werden, um die Bearbeitungsanforderung einreichen zu können.
-  - Es können maximal 1000 Dokumentrevisionen mit einer ausgewählten freigegebenen Revision hinzugefügt werden.
-  - Um eine Bearbeitungsanforderung mit mehr als 1000 Dokumentrevisionen zu erstellen, erstellen Sie zunächst einen Entwurf mit bis zu 1000 Revisionen und fügen Sie dann bis zu 1000 Dokumentrevisionen gleichzeitig zum Entwurf hinzu, bevor Sie den Entwurf zur Überprüfung einreichen.
+    - Mindestens 1 Dokument mit einer ausgewählten freigegebenen Revision muss hinzugefügt werden, um die Bearbeitungsanforderung einreichen zu können.
+    - Es können maximal 1000 Dokumentrevisionen mit einer ausgewählten freigegebenen Revision hinzugefügt werden.
+    - Um eine Bearbeitungsanforderung mit mehr als 1000 Dokumentrevisionen zu erstellen, erstellen Sie zunächst einen Entwurf mit bis zu 1000 Revisionen und fügen Sie dann bis zu 1000 Dokumentrevisionen gleichzeitig zum Entwurf hinzu, bevor Sie den Entwurf zur Überprüfung einreichen.
 
 Nach dem Einreichen einer Bearbeitungsanforderung zur Überprüfung mit dem neuen Validierungs-Workflow ist das Einzige, das geändert werden kann, dass freigegebene Revisionsdokumente aus der Anforderung verworfen werden können.
 

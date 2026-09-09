@@ -8,7 +8,7 @@ Die folgenden Themen werden in diesem Artikel beschrieben:
 
 ## 1. **Dateiname.Erweiterung**
 
-Lassen Sie uns mit der einfachsten möglichen Konvention beginnen, um zu sehen, wie eine Konvention aussehen kann, wenn sie aktiviert ist. Auf diese Weise wissen Sie, wie Sie erkennen können, wann eine Konvention aktiv ist. Die einfachste mögliche Konvention wird erstellt, indem Sie eine neue Konvention erstellen und sofort auf „Senden
+Lassen Sie uns mit der einfachsten möglichen Konvention beginnen, um zu sehen, wie eine Konvention aussehen kann, wenn sie aktiviert ist. Auf diese Weise wissen Sie, wie Sie erkennen können, wann eine Konvention aktiv ist. Die einfachste mögliche Konvention wird erstellt, indem Sie eine neue Konvention erstellen und sofort auf „Senden“ klicken:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c55e7gpw/01-filename-extension.png)
 
@@ -61,6 +61,6 @@ _Dieses Dokument entspricht nicht der [Namenskonvention](https://support.catenda
 Dies kann zwei Gründe haben.
 
 1. Der Name der Revisionsdatei stimmt nicht mit dem erwarteten Dateinamen der [Namenskonvention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) überein.
-2. Der Name der Revisionsdatei stimmt nicht mit dem erwarteten Dokumentergebnis gemäß der [Namenskonvention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) überein.
+1. Der Name der Revisionsdatei stimmt nicht mit dem erwarteten Dokumentergebnis gemäß der [Namenskonvention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) überein.
 
 Um mehr über [Namenskonventionen](https://support.catenda.com/en/articles/7832559-naming-conventions-page) zu erfahren, lesen Sie diese Artikel: [Mittlere Namenskonvention](https://support.catenda.com/en/articles/7936943-medium-naming-convention) [Erweiterte Namenskonvention](https://support.catenda.com/en/articles/7936947-advanced-naming-convention)

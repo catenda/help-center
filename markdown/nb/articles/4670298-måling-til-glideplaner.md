@@ -22,21 +22,21 @@ Forbered glideplanene du skal måle til ved å åpne rullegardinmenyen og klikke
 
 Nøyaktige målinger er viktige for å unngå misforståelser i prosjektet. Det kan derfor være en god idé å gjøre en vurdering av innstillingene før du starter med måling.
 
-**3D-viser-innstillinger** Rullegardinmenyen for 3D-viser-innstillinger finnes ved girdikonet øverst til høyre i 3D-viseren:
+_3D-viser-innstillinger_ Rullegardinmenyen for 3D-viser-innstillinger finnes ved girdikonet øverst til høyre i 3D-viseren:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/04-recommended-settings-for-measuring.png)
 
 Siden glideplan-linjer inneholder tynne annotasjonslinjer og tekst som ofte er følsomme for ren gjengivelse i et 3D-miljø, anbefales følgende [3D-viser-innstillinger](https://support.catenda.com/en/articles/5784718-3d-viewer-settings#h_16d759320b) for å gjøre målingsopplevelsen så god som mulig.
 
-**3D-viser-innstillinger - Skjermkvalitet** Standardkvalitet anbefales fordi høy kvalitet endrer forholdet mellom piksler som vises av Catenda og piksler som er synlige på skjermen, noe som kan ha negativ effekt på nøyaktig måling.
+_3D-viser-innstillinger - Skjermkvalitet_ Standardkvalitet anbefales fordi høy kvalitet endrer forholdet mellom piksler som vises av Catenda og piksler som er synlige på skjermen, noe som kan ha negativ effekt på nøyaktig måling.
 
-**3D-viser-innstillinger - Kantutjevning** Det anbefales å endre denne innstillingen fra standardinnstillingen FXAA til minst 2x MSAA eller mer. Tynne linjer i 3D er ofte en utfordring å vise fordi jo mer diagonal en tynn linje er, jo mer tannaktig blir kantene. Å endre kantutjevningsinnstillingen har ingen effekt på målenøyaktigheten, men det kan hjelpe med å se linjene bedre fordi de tannaktige kantene kan gjøre at tynne linjer blir så tynne at de blir vanskelige å visualisere.
+_3D-viser-innstillinger - Kantutjevning_ Det anbefales å endre denne innstillingen fra standardinnstillingen FXAA til minst 2x MSAA eller mer. Tynne linjer i 3D er ofte en utfordring å vise fordi jo mer diagonal en tynn linje er, jo mer tannaktig blir kantene. Å endre kantutjevningsinnstillingen har ingen effekt på målenøyaktigheten, men det kan hjelpe med å se linjene bedre fordi de tannaktige kantene kan gjøre at tynne linjer blir så tynne at de blir vanskelige å visualisere.
 
-**3D-viser-innstillinger - Grunnhøyde** Spesielt når du prøver å måle til en annotasjonslinje under bakken, kan det være en god idé å enten velge et miljø uten bakkeplan eller flytte bakkeplanet ned under høyden på glideplanen.
+_3D-viser-innstillinger - Grunnhøyde_ Spesielt når du prøver å måle til en annotasjonslinje under bakken, kan det være en god idé å enten velge et miljø uten bakkeplan eller flytte bakkeplanet ned under høyden på glideplanen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/05-recommended-settings-for-measuring.png)
 
-**Anbefaling for applikasjonsprogramvare** Uavhengig av hvilken [zoomskala](https://support.catenda.com/en/articles/13927149-application-software-recommendation?q=3d+v) som er konfigurert i nettleseren som brukes til måling i 3D-viseren, anbefales det å ikke endre nettleserens zoomskala under måling, da dette kan bidra til å redusere målenøyaktigheten. Angi nettleseren til ønsket zoomskala og vær nøye med å oppdatere siden etter hver zoomskalaendring, selv om zoomskalaendringen ble gjort i en annen fane eller hvis den ble endret tilbake til det den var opprinnelig.
+_Anbefaling for applikasjonsprogramvare_ Uavhengig av hvilken [zoomskala](https://support.catenda.com/en/articles/13927149-application-software-recommendation?q=3d+v) som er konfigurert i nettleseren som brukes til måling i 3D-viseren, anbefales det å ikke endre nettleserens zoomskala under måling, da dette kan bidra til å redusere målenøyaktigheten. Angi nettleseren til ønsket zoomskala og vær nøye med å oppdatere siden etter hver zoomskalaendring, selv om zoomskalaendringen ble gjort i en annen fane eller hvis den ble endret tilbake til det den var opprinnelig.
 
 ## 2. **Måling til glideplan-annotasjonslinjer**
 
@@ -54,13 +54,13 @@ Dette er hvordan det kan se ut når du bruker lasermålverktøyet på annotasjon
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/06-laser-measure-on-annotation-lines.png)
 
-**Måling vertikalt og horisontalt langs annotasjonslinjesegmentet** Legg merke til at bullseye ser flatt ut i vertikal retning når du holder musepekeren over en annotasjonslinje. Når du måler annotasjonslinjer, er det vertikalplanet langs annotasjonslinjen som måles. Den grønne linjen er den horisontale linjen på dette planet, og den røde linjen er den vertikale linjen på dette planet og følger annotasjonslinjsegmentet
+_Måling vertikalt og horisontalt langs annotasjonslinjesegmentet_ Legg merke til at bullseye ser flatt ut i vertikal retning når du holder musepekeren over en annotasjonslinje. Når du måler annotasjonslinjer, er det vertikalplanet langs annotasjonslinjen som måles. Den grønne linjen er den horisontale linjen på dette planet, og den røde linjen er den vertikale linjen på dette planet og følger annotasjonslinjsegmentet
 
 For både den vertikale måleinjen (rød) og målelinjen horisontalt langs segmentet (grønn) oppfører måleinjen seg forskjellig avhengig av objekter som påtreffes. Hvis det er objekter i en retning langs måleinjen, vises en linje som måler avstanden til nærmeste objekt. Hvis det er objekter i begge retninger langs måleinjen, vises en linje som måler avstanden mellom disse objektene.
 
-**Måling horisontalt i skrå vinkel til annotasjonssegmentet** Den blå linjen er linjen som kan observeres ved å gå i skrå vinkel til annotasjonssegmentet som måles horisontalt. Hvis det er objekter i en retning langs måleinjen, vises en linje som måler avstanden til nærmeste objekt. Hvis det er objekter i begge retninger, vises linjer som måler avstanden til nærmeste objekt i hver retning, ettersom denne linjen krysser annotasjonslinjen selv og måler til den.
+_Måling horisontalt i skrå vinkel til annotasjonssegmentet_ Den blå linjen er linjen som kan observeres ved å gå i skrå vinkel til annotasjonssegmentet som måles horisontalt. Hvis det er objekter i en retning langs måleinjen, vises en linje som måler avstanden til nærmeste objekt. Hvis det er objekter i begge retninger, vises linjer som måler avstanden til nærmeste objekt i hver retning, ettersom denne linjen krysser annotasjonslinjen selv og måler til den.
 
-**Manglende måling** Hvis objekter mangler i noen av måleretningene, vises koordinater også som med punktmålet.
+_Manglende måling_ Hvis objekter mangler i noen av måleretningene, vises koordinater også som med punktmålet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/07-laser-measure-on-annotation-lines.png)
 

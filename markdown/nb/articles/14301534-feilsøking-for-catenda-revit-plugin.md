@@ -28,9 +28,9 @@ Etter installasjon av Catenda Revit-plugin i Revit 2025 som ble oppdatert etter 
 
 Catenda-tillegget er kompatibelt med Revit-utgaver som støtter Revit API (Application Programming Interface). Integrasjon er mulig i følgende miljøer:
 
-**Standard Revit** Full støtte er gitt for multidisiplinær versjon av programvaren, som omfatter **Architecture**, **Structure** og **MEP** (Mechanical, Electrical, and Plumbing)-verktøysettene.
+_Standard Revit_ Full støtte er gitt for multidisiplinær versjon av programvaren, som omfatter **Architecture**, **Structure** og **MEP** (Mechanical, Electrical, and Plumbing)-verktøysettene.
 
-**Utdanningsversjon** Lisenser utstedt til studenter og lærere støtter installasjonen av tredjepartstillegg, forutsatt at installasjonen er fullversjonen av programvaren og ikke LT-versjonen.
+_Utdanningsversjon_ Lisenser utstedt til studenter og lærere støtter installasjonen av tredjepartstillegg, forutsatt at installasjonen er fullversjonen av programvaren og ikke LT-versjonen.
 
 ### 3.1 **Ikke-støttet utgave: Revit LT**
 
@@ -44,11 +44,11 @@ For å sikre samsvar med de nyeste programvareoppdateringene og ytelsesforbedrin
 
 For arbeidsflyter som krever egendefinert automatisering, er en spesialisert pakke tilgjengelig for base Dynamo. Dette er ikke et separat program, men en samling noder for bruk i standard Dynamo-miljøet.
 
-**Lisensiering** Ingen ekstra Autodesk-lisens er påkrevd for å bruke Dynamo, da det er inkludert som en kjernefunksjon i standard Revit-lisensen.
+_Lisensiering_ Ingen ekstra Autodesk-lisens er påkrevd for å bruke Dynamo, da det er inkludert som en kjernefunksjon i standard Revit-lisensen.
 
-**API-tilgang** Bruk av denne pakken krever Catenda API-tilgang. Selv om dette ikke er inkludert for alle klienter som standard, kan tilgang forespørres gjennom Catenda-støtteportalen. Når det er gitt, tillater API-tilgang samhandling på tvers av alle prosjekter i en organisasjon.
+_API-tilgang_ Bruk av denne pakken krever Catenda API-tilgang. Selv om dette ikke er inkludert for alle klienter som standard, kan tilgang forespørres gjennom Catenda-støtteportalen. Når det er gitt, tillater API-tilgang samhandling på tvers av alle prosjekter i en organisasjon.
 
-**Installasjon** Distribusjon av pakken krever manuell installasjon ved å angi filplasseringen i Dynamo-grensesnittet.
+_Installasjon_ Distribusjon av pakken krever manuell installasjon ved å angi filplasseringen i Dynamo-grensesnittet.
 
 ### 4.1 **Operasjonell advarsel for Dynamo-brukere**
 

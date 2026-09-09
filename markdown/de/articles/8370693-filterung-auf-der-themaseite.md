@@ -1,4 +1,4 @@
-# Filterung auf der Seite „Themen
+# Filterung auf der Seite „Themen“
 
 Das Filtermenü in einem Themen-Board kann durch Klicken auf die Schaltfläche "Filter" links neben der Suchleiste in einem [Themen-Board](https://support.catenda.com/en/articles/4670271-issues-page) geöffnet werden.
 
@@ -46,7 +46,7 @@ Mit dem Datumsfilter können Sie einen Zeitraum auswählen, in dem die Themen zu
 
 ### 2.5 **Zugewiesen zu / Angefordert von**
 
-_Niemandem zugewiesen_ - `assigned=unassigned` _Kein Team zugewiesen_ - `assigned-team=unassigned` _Dem Team zugewiesen_ - `assigned-team=<Team GUID>` _Nicht dem Benutzer zugewiesen_ - `assigned-user=unassigned` _Dem Benutzer zugewiesen_ - `assigned-user=<User GUID>` Zuweisungsoperator - `assigned-op=and` Standardmäßig können Sie nur nach dem zugewiesenen Benutzer ODER dem zugewiesenen Team suchen. In Catenda Hub können Sie einen Verantwortlichen als user@team festlegen. Um alle Themen dieser Art zu finden\*\*,\*\* filtern Sie nach dem Team und dem Benutzer und fügen Sie &assigned-op=and am Ende der URL hinzu.
+_Niemandem zugewiesen_ - `assigned=unassigned` _Kein Team zugewiesen_ - `assigned-team=unassigned` _Dem Team zugewiesen_ - `assigned-team=<Team GUID>` _Nicht dem Benutzer zugewiesen_ - `assigned-user=unassigned` _Dem Benutzer zugewiesen_ - `assigned-user=<User GUID>` Zuweisungsoperator - `assigned-op=and` Standardmäßig können Sie nur nach dem zugewiesenen Benutzer ODER dem zugewiesenen Team suchen. In Catenda Hub können Sie einen Verantwortlichen als user@team festlegen. Um alle Themen dieser Art zu finden**,** filtern Sie nach dem Team und dem Benutzer und fügen Sie &assigned-op=and am Ende der URL hinzu.
 
 _Nicht angefordert_ - `requester=unassigned` _Nicht vom Team angefordert_ - `requester-team=unassigned` _Nicht vom Benutzer angefordert_ - `requester-user=unassigned` _Vom Benutzer angefordert_ - `requester-user=<User GUID>`
 

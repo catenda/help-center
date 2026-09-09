@@ -59,8 +59,8 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die ihr mög
 
 - Das All-Themen-Board zeigt nicht mehr die Filter des vorherigen Boards an und zeigt korrekt wieder die Filter an, die zum All-Themen-Board gehören.
 - Verbesserungen beim Themenexport:
-  - Themenexporte, die lange dauern, werden jetzt eine Zeitüberschreitung überschreiten.
-  - Bis zu 10000 Bilder können nun in einen PDF-Export eingebunden werden.
+    - Themenexporte, die lange dauern, werden jetzt eine Zeitüberschreitung überschreiten.
+    - Bis zu 10000 Bilder können nun in einen PDF-Export eingebunden werden.
 
 ### 2.4 **Projekteinstellungen**
 

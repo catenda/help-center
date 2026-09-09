@@ -181,7 +181,6 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [フロア設定ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6921756-フロア設定ページ.md): 2D ビューのオーバーレイとして PDF を使用する方法
 - [ブックマークコンテンツページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8471481-ブックマークコンテンツページ.md)
 - [ブックマークページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670281-ブックマークページ.md)
-- [プロジェクトに自由にアクセスできるIGNポイントクラウド(HD LiDAR)を追加してコンテキストを提供する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12498975-プロジェクトに自由にアクセスできるignポイントクラウド-hd-lidar-を追加してコンテキストを提供する.md)
 - [プロジェクトパネル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13141464-プロジェクトパネル.md)
 - [プロジェクト名を変更する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670256-プロジェクト名を変更する.md)
 - [プロジェクト固有の通知設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670262-プロジェクト固有の通知設定.md)
@@ -265,6 +264,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [最も重要なショートカットと基本的なコントロールの概要](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670267-最も重要なショートカットと基本的なコントロールの概要.md): ショートカットとキーバインド
 - [検査メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670285-検査メニュー.md)
 - [測定面](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8360838-測定面.md)
+- [無料のIGN点群（HD LiDAR）をプロジェクトに追加](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12498975-プロジェクトに自由にアクセスできるignポイントクラウド-hd-lidar-を追加してコンテキストを提供する.md)
 - [画面スペースが限られている場合のアクセス](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10695677-画面スペースが限られている場合のアクセス.md)
 - [統計ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7575491-統計ページ.md)
 - [関連する問題を使用する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5036456-関連する問題を使用する.md): 関連する問題は、ユーザーがフォローアップして進捗状況を追跡するのに役立ちます。
@@ -295,7 +295,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [数量積み上げ (QTO) - ショート動画](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6707924-数量積み上げ-qto-ショート動画.md)
 - [新しい承認ワークフローの作成 - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12457430-新しい承認ワークフローの作成-ショートビデオ.md)
 - [新しい承認ワークフローテンプレートを作成する - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12458313-新しい承認ワークフローテンプレートを作成する-ショートビデオ.md)
-- [既存のトピックボードからトピックボードを作成する - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423271-既存のトピックボードからトピックボードを作成する-ショートビデオ.md)
+- [既存のトピックリストからトピックリストを作成する - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423271-既存のトピックボードからトピックボードを作成する-ショートビデオ.md)
 - [日付フィルター - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423207-日付フィルター-ショートビデオ.md)
 - [距離を測定する - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423277-距離を測定する-ショートビデオ.md)
 
@@ -306,16 +306,15 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [承認の提出と管理: ドラッフターズガイド](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12627979-承認の提出と管理-ドラッフターズガイド.md)
 - [承認ワークフローにおけるドキュメントレビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12628468-承認ワークフローにおけるドキュメントレビュー.md)
 - [最終承認決定を簡単に](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12629484-最終承認決定を簡単に.md)
-- [病院プロジェクトのデジタル設計調整と問題解決](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12320207-病院プロジェクトのデジタル設計調整と問題解決.md): 業界: ヘルスケア建設 / BIM (Building Information Modeling) ペルソナ: David、大規模ゼネコンのBIMコーディネーター。
 - [管理者として承認を管理する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12620829-管理者として承認を管理する.md)
+- [設計調整と課題解決 - 病院](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12320207-病院プロジェクトのデジタル設計調整と問題解決.md): 業界: ヘルスケア建設 / BIM (Building Information Modeling) ペルソナ: David、大規模ゼネコンのBIMコーディネーター。
 - [週間クラッシュレポート](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13847707-週間クラッシュレポート.md)
-- [高層建築プロジェクトにおける設計レビューと変更注文](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12323690-高層建築プロジェクトにおける設計レビューと変更注文.md): 業界：商業建設 ペルソナ：大規模事務所のプロジェクト・アーキテクト、マリア。
+- [高層ビルの設計レビューと変更指示書](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12323690-高層建築プロジェクトにおける設計レビューと変更注文.md): 業界：商業建設　ペルソナ：大規模事務所のプロジェクト・アーキテクト、マリア。
 
 ## よくある質問
 
 ここでは、多くのユーザーが遭遇する質問に対する答えを見つけることができます
 
-- [1つのmodelを完全に表示し、他のすべてのmodelを半透明にするにはどうすればよいですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670328-1つのmodelを完全に表示し-他のすべてのmodelを半透明にするにはどうすればよいですか.md)
 - [2Dトピック位置 - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13616245-2dトピック位置-catenda-site.md)
 - [3D DWGエクスポートマニュアル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7887999-3d-dwgエクスポートマニュアル.md)
 - [3Dビューア最適化](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13927321-3dビューア最適化.md)
@@ -332,7 +331,6 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [IFC オブジェクトの GUID はどこで確認できますか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670333-ifc-オブジェクトの-guid-はどこで確認できますか.md)
 - [IFCをエクスポートするにはどうすればよいですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670326-ifcをエクスポートするにはどうすればよいですか.md)
 - [すべてのプロジェクトデータをエクスポートする](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7946690-すべてのプロジェクトデータをエクスポートする.md): Catenda Hubのプロジェクトデータ、ドキュメント、model、およびトピックのエクスポート方法の概要。利用可能なオプションには、Desktop Connectorの同期、PDF/Aレポート作成、アクセス許可監査、およびAWS S3またはAzure Blobストレージへの自動クラウドバックアップが含まれます
-- [すべてのボックスをチェックした後も通知を受け取れないのはなぜですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670318-すべてのボックスをチェックした後も通知を受け取れないのはなぜですか.md)
 - [どのmodelにオブジェクトが属しているかを見つけるには？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670329-どのmodelにオブジェクトが属しているかを見つけるには.md)
 - [アップロード可能なファイルサイズはいくつですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670324-アップロードするファイルのサイズの制限について.md)
 - [アプリケーションソフトウェアの推奨事項](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13927149-アプリケーションソフトウェアの推奨事項.md)
@@ -347,7 +345,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [ハードウェア推奨仕様](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6921941-推奨ハードウェア.md): Catenda Hubで最高のエクスペリエンスを得るために、推奨されるハードウェア仕様と最適化のヒントをご覧ください。
 - [フィルターリンクの保存と共有](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11401493-フィルターリンクの保存と共有.md)
 - [フィルター結果の制限](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8551755-フィルター結果の制限.md)
-- [ブックマークをクリックすると、modelのどのrevisionが開かれますか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670332-ブックマークをクリックすると-modelのどのrevisionが開かれますか.md)
+- [ブックマークはどのモデルリビジョンを開きますか?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670332-ブックマークをクリックすると-modelのどのrevisionが開かれますか.md)
 - [プロジェクトセキュリティ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8263256-プロジェクトセキュリティ.md)
 - [メンバーを招待するにはどうすればよいですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670319-メンバーを招待するにはどうすればよいですか.md)
 - [モデルの3D位置](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8294750-モデルの3d位置.md)
@@ -356,10 +354,12 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [ユーザーボイス @ Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/5925449-ユーザーボイス-catenda.md): ユーザーに価値を提供するというCatendaのコミットメント
 - [ラベルに接続されたグループを削除するにはどうすればよいですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670316-ラベルに接続されたグループを削除するにはどうすればよいですか.md)
 - [リストのソート順序](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8487788-リストのソート順序.md)
+- [他のモデルを半透明にするにはどうすればよいですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670328-1つのmodelを完全に表示し-他のすべてのmodelを半透明にするにはどうすればよいですか.md)
 - [列のサイズ変更](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6887350-列のサイズ変更.md)
-- [大きなIFCファイルがあります。Catenda Hubにファイルをアップロードする前にSolibri Optimizerを使用すべきでしょうか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670325-大きなifcファイルがあります-catenda-hubにファイルをアップロードする前にsolibri-optimizerを使用すべきでしょうか.md)
+- [大きなIFCファイルでSolibri Optimizerを実行すべきですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670325-大きなifcファイルがあります-catenda-hubにファイルをアップロードする前にsolibri-optimizerを使用すべきでしょうか.md)
 - [標準メンバーはプロジェクトに新しいメンバーを招待できますか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670321-標準メンバーはプロジェクトに新しいメンバーを招待できますか.md)
 - [組織ツールFAQ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10475849-組織ツールfaq.md)
+- [通知を受け取らないのはなぜですか？](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670318-すべてのボックスをチェックした後も通知を受け取れないのはなぜですか.md)
 - [通知を見つける場所](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670261-通知を見つける場所.md)
 
 ## 最新情報 🎉
@@ -419,7 +419,7 @@ Catenda Hubの最新情報はこちら
 - [3D スナップショット - トラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12831346-3d-スナップショット-トラブルシューティング.md)
 - [Catenda Revit プラグイン トラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/14301534-catenda-revit-プラグイン-トラブルシューティング.md)
 - [Catenda Site - トラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/11926914-catenda-site-トラブルシューティング.md)
-- [Desktop Connector トラブルシューティング - すべてのフォルダーがダウンロードされていません](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13772277-desktop-connector-トラブルシューティング-すべてのフォルダーがダウンロードされていません.md)
+- [Desktop Connector - すべてのフォルダがダウンロードされていません](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13772277-desktop-connector-トラブルシューティング-すべてのフォルダーがダウンロードされていません.md)
 - [Microsoft チーム通知トラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/14685172-microsoft-チーム通知トラブルシューティング.md)
 - [Navisworksプラグインのトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12597294-navisworksプラグインのトラブルシューティング.md)
 - [Solibri BCF Live Connectorのトラブルシューティング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/14301642-solibri-bcf-live-connectorのトラブルシューティング.md)

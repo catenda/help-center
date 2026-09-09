@@ -59,8 +59,8 @@ Grâce à vos précieux commentaires, nous avons pu éliminer de nombreux sujets
 
 - Le tableau de tous les sujets n'affiche plus les filtres du tableau précédent sur lequel vous étiez et affiche à nouveau correctement les filtres appartenant au tableau de tous les sujets.
 - Améliorations de l'exportation des sujets :
-  - Les exportations de sujets qui prennent longtemps vont maintenant expirer.
-  - Jusqu'à 10000 images peuvent maintenant être incluses dans une exportation PDF.
+    - Les exportations de sujets qui prennent longtemps vont maintenant expirer.
+    - Jusqu'à 10000 images peuvent maintenant être incluses dans une exportation PDF.
 
 ### 2.4 **Paramètres du projet**
 

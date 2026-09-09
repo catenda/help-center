@@ -68,8 +68,6 @@ Révision - _Par défaut_ Le nom de la révision du document. C'est la même cho
 
 ## 3. - _Par défaut_
 
-Le numéro de révision principal et mineur de la révision partagée (#0.1, #0.2, #1.1, etc...)
-
 Statut - _Par défaut_ Le nom du statut partagé appliqué à la révision partagée.
 
 Supprimer - _Par défaut_ Cliquez sur le x dans la colonne Supprimer pour retirer le Document à examiner de la liste Documents à examiner.
@@ -98,9 +96,9 @@ Cliquez sur Soumettre pour examen pour soumettre l'Approbation et démarrer le p
 - Une Équipe de soumissionnaire pour soumettre au nom de doit être sélectionnée
 - Un titre
 - Documents
-  - Un minimum de 1 Document avec une révision partagée sélectionnée doit être ajouté pour pouvoir soumettre l'Approbation.
-  - Un maximum de 1000 révisions de Documents avec une révision partagée sélectionnée peut être ajouté.
-  - Pour créer une demande d'Approbation avec plus de 1000 révisions de Documents, créez d'abord un brouillon avec jusqu'à 1000 révisions, puis ajoutez jusqu'à 1000 révisions de Documents à la fois au brouillon avant de soumettre le brouillon pour examen.
+    - Un minimum de 1 Document avec une révision partagée sélectionnée doit être ajouté pour pouvoir soumettre l'Approbation.
+    - Un maximum de 1000 révisions de Documents avec une révision partagée sélectionnée peut être ajouté.
+    - Pour créer une demande d'Approbation avec plus de 1000 révisions de Documents, créez d'abord un brouillon avec jusqu'à 1000 révisions, puis ajoutez jusqu'à 1000 révisions de Documents à la fois au brouillon avant de soumettre le brouillon pour examen.
 
 Après avoir soumis une demande d'Approbation pour examen avec le nouveau flux de validation, la seule chose qui peut être modifiée est que les Documents de révision partagée peuvent être supprimés de la demande.
 

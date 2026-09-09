@@ -54,15 +54,15 @@ For mapper vises mappenavn sammen med eventuelle etiketter som er knyttet til ma
 - Størrelse på siste revisjon
 - Skaper av siste revisjon
 - Antall 3D-objekter koblet til det relaterte dokumentet
-  - Klikk på objektantallet for å åpne handlingsmenyen for 3D-objekter.
+    - Klikk på objektantallet for å åpne handlingsmenyen for 3D-objekter.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/07-related-folders-and-documents.png)
 
-**Velg objekter** Bruk handlingen for å velge objekter for å laste inn modellene som tilhører de koblede objektene i 3D-visningen og velge de koblede objektene.
+_Velg objekter_ Bruk handlingen for å velge objekter for å laste inn modellene som tilhører de koblede objektene i 3D-visningen og velge de koblede objektene.
 
-**Isoler objekter** Bruk handlingen Isoler objekter for å laste inn modellene som tilhører de koblede objektene i 3D-visningen og isolere de koblede objektene.
+_Isoler objekter_ Bruk handlingen Isoler objekter for å laste inn modellene som tilhører de koblede objektene i 3D-visningen og isolere de koblede objektene.
 
-**Last som spørring** Bruk handlingen Last som spørring for å laste bare de koblede objektene i 3D-visningen uten de andre objektene fra modellene deres.
+_Last som spørring_ Bruk handlingen Last som spørring for å laste bare de koblede objektene i 3D-visningen uten de andre objektene fra modellene deres.
 
 ### 1.4 **Dokumentbibliotek-knapper**
 

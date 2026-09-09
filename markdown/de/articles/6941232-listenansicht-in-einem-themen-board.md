@@ -9,13 +9,13 @@ Die Listenansicht in der Thematabelle auf der [Themenseite ](https://support.cat
 In der Listenansicht eines Themen-Boards ist es möglich, Themen nach folgenden Kriterien zu sortieren:
 
 1. Neueste
-2. Älteste
-3. Kürzlich aktualisiert
-4. Am längsten nicht aktualisiert
-5. Fälligkeitsdatum, neueste zuerst
-6. Fälligkeitsdatum, älteste zuerst
-7. Benutzerdefiniertes Feld, absteigend
-8. Benutzerdefiniertes Feld, aufsteigend
+1. Älteste
+1. Kürzlich aktualisiert
+1. Am längsten nicht aktualisiert
+1. Fälligkeitsdatum, neueste zuerst
+1. Fälligkeitsdatum, älteste zuerst
+1. Benutzerdefiniertes Feld, absteigend
+1. Benutzerdefiniertes Feld, aufsteigend
 
 ## 2. **Themenliste**
 

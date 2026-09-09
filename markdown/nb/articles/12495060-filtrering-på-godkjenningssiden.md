@@ -8,7 +8,7 @@ Følgende filtre er tilgjengelige på godkjenningssiden når den nye validerings
 
 Klikk på filterknappen øverst til venstre for at et panel skal vises på venstre side. Når et filter brukes, endres URL-en som vises i nettleseren. I denne artikkelen vises filtre slik: _Filternavn i meny_ - `Filternavn i URL=Filteralternativ i URL`
 
-**Standardfilter** Standardfilteret er opprinnelig ikke synlig i URL-en. Når siden navigeres til for første gang, brukes følgende filter. Åpne - `status=open`
+_Standardfilter_ Standardfilteret er opprinnelig ikke synlig i URL-en. Når siden navigeres til for første gang, brukes følgende filter. Åpne - `status=open`
 
 ### 1.1 **Lagre og del gjeldende filter**
 
@@ -26,10 +26,10 @@ Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for 
 
 Tekstsøk - `search=test`
 
-**Innhold som kan søkes på** Som standard brukes det åpne filteret når du bruker et tekstsøk, slik at bare åpne godkjenningsforespørsler samsvarer. For å søke på lukkede eller utkaststatus-godkjenningsforespørsler, må du først filtrere på statusen og deretter bruke tekstsøket.
+_Innhold som kan søkes på_ Som standard brukes det åpne filteret når du bruker et tekstsøk, slik at bare åpne godkjenningsforespørsler samsvarer. For å søke på lukkede eller utkaststatus-godkjenningsforespørsler, må du først filtrere på statusen og deretter bruke tekstsøket.
 
-**Store/små bokstaver** Tekstsøket er ikke følsomt for store eller små bokstaver.
+_Store/små bokstaver_ Tekstsøket er ikke følsomt for store eller små bokstaver.
 
-**Antall tegn** Et hvilket som helst antall tegn Innhold som inkluderer den søkte frasen, blir samsvart.
+_Antall tegn_ Et hvilket som helst antall tegn Innhold som inkluderer den søkte frasen, blir samsvart.
 
-**Mellomrom** Mellomromstegn på begynnelsen av en søkefrase fjernes for treff ved begynnelsen av innholdet. Mellomromstegn er inkludert for treff i midten av innholdet.
+_Mellomrom_ Mellomromstegn på begynnelsen av en søkefrase fjernes for treff ved begynnelsen av innholdet. Mellomromstegn er inkludert for treff i midten av innholdet.

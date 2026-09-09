@@ -61,6 +61,6 @@ _Ce document n'est pas conforme à la [convention de dénomination](https://supp
 Cela peut être dû à deux raisons.
 
 1. Le nom de fichier de révision ne correspond pas au nom de fichier attendu de la [convention de dénomination](https://support.catenda.com/en/articles/7832559-naming-conventions-page).
-2. Le nom de fichier de révision ne correspond pas au résultat de document attendu selon la [convention de dénomination](https://support.catenda.com/en/articles/7832559-naming-conventions-page).
+1. Le nom de fichier de révision ne correspond pas au résultat de document attendu selon la [convention de dénomination](https://support.catenda.com/en/articles/7832559-naming-conventions-page).
 
 Pour continuer à en savoir plus sur les [conventions de dénomination](https://support.catenda.com/en/articles/7832559-naming-conventions-page), consultez ces articles : [Convention de dénomination moyenne](https://support.catenda.com/en/articles/7936943-medium-naming-convention) [Convention de dénomination avancée](https://support.catenda.com/en/articles/7936947-advanced-naming-convention)

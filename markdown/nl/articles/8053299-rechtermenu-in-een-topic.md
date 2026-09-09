@@ -54,7 +54,7 @@ Voor mappen worden de naam van de map weergegeven, samen met labels die aan de m
 - Grootte van de meest recente revisie
 - Maker van de meest recente revisie
 - Aantal 3D-objecten gekoppeld aan het gerelateerde document
-  - Klik op het objectaantal om het 3D-objectactiemenu te openen.
+    - Klik op het objectaantal om het 3D-objectactiemenu te openen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/07-related-folders-and-documents.png)
 

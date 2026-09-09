@@ -7,10 +7,10 @@ La page du document peut ressembler à ceci :
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/01-intro.png)
 
 1. La [bannière du document](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) s'étend sur la partie supérieure de la page du document
-2. Vous trouverez l'en-tête du document sous la bannière du document et au-dessus de l'aperçu du document.
-3. Sous l'en-tête du document, vous trouverez l'[aperçu du document](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
-4. À gauche de l'en-tête et de l'aperçu du document, vous trouverez la liste des documents
-5. _Cet article :_ À droite de l'en-tête et de l'aperçu du document, vous trouverez le menu d'information droit.
+1. Vous trouverez l'en-tête du document sous la bannière du document et au-dessus de l'aperçu du document.
+1. Sous l'en-tête du document, vous trouverez l'[aperçu du document](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
+1. À gauche de l'en-tête et de l'aperçu du document, vous trouverez la liste des documents
+1. _Cet article :_ À droite de l'en-tête et de l'aperçu du document, vous trouverez le menu d'information droit.
 
 Lorsque vous ouvrez d'abord un document, son menu droit peut être fermé. Vous pouvez cliquer sur le bouton d'information en bas à droite de la [bannière du document](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) pour développer ce menu.
 

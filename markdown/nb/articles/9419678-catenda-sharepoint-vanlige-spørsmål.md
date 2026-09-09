@@ -34,7 +34,7 @@ Dokumentversjoner som produseres av et SharePoint-Medlem, kan publiseres til Cat
 
 Hvis applikasjonen er aktivert for et område, vil alle områdets Medlemmer se publiseringsalternativet. Når du publiserer et Dokument til Catenda, blir SharePoint-brukeren bedt om å gi SharePoint tilgang til Catenda-kontoen sin.
 
-**Deling av Dokumenter** Etter å ha gitt tillatelse, vil SharePoint-Medlemmer kunne dele Dokument(er) på SharePoint-området til en del av dokumentseksjonen i Catenda hvor de har skrivetilgang.
+_Deling av Dokumenter_ Etter å ha gitt tillatelse, vil SharePoint-Medlemmer kunne dele Dokument(er) på SharePoint-området til en del av dokumentseksjonen i Catenda hvor de har skrivetilgang.
 
 > **Merknad:** det er bare mulig å publisere enkelt Dokument(er)
 
@@ -48,9 +48,9 @@ Det er ikke mulig å publisere, redigere eller endre Dokumenter med SharePoint-B
 
 ### 4.1 **Catenda SharePoint-app**
 
-**SharePoint-brukere** Etter å ha lagt til SharePoint-appen på et område, vil brukere kunne gi SharePoint tilgang til Catenda-kontoen sin. SharePoint kan deretter vise Dokumentene som brukeren har tilgang til i Catenda, slik at brukeren kan velge hvor de skal publisere SharePoint-Dokumentene sine. Hvis en webdel legges til på en side i SharePoint, vil brukerne også kunne se delene av dokumentseksjonen i det konfigurerte prosjektet hvor de har lesetilgang.
+_SharePoint-brukere_ Etter å ha lagt til SharePoint-appen på et område, vil brukere kunne gi SharePoint tilgang til Catenda-kontoen sin. SharePoint kan deretter vise Dokumentene som brukeren har tilgang til i Catenda, slik at brukeren kan velge hvor de skal publisere SharePoint-Dokumentene sine. Hvis en webdel legges til på en side i SharePoint, vil brukerne også kunne se delene av dokumentseksjonen i det konfigurerte prosjektet hvor de har lesetilgang.
 
-**Catenda-brukere** Etter å ha gitt tilgang til Catenda-kontoen din gjennom SharePoint-appen, får Catenda ingen tilgang til noen av Dokumentene i SharePoint med mindre disse deles av brukeren.
+_Catenda-brukere_ Etter å ha gitt tilgang til Catenda-kontoen din gjennom SharePoint-appen, får Catenda ingen tilgang til noen av Dokumentene i SharePoint med mindre disse deles av brukeren.
 
 ### 4.2 **Catenda SharePoint-Bibliotek**
 
@@ -60,10 +60,10 @@ Når du konfigurerer SharePoint-Biblioteket, gir du Catenda tilgang til alle Sha
 
 Catenda SharePoint-appen inneholder følgende komponenter:
 
-**Webdel**
+_Webdel_
 
-**Hele siden**
+_Hele siden_
 
-**Teams-fane**
+_Teams-fane_
 
-**Kommandosett for listevisning**
+_Kommandosett for listevisning_

@@ -10,13 +10,17 @@ Ta deg tid til å komme tilbake til arbeidsrutinen, husk å holde deg hydrert (o
 
 Velkommen tilbake! ☀️😎🏖️🌊🍦☕
 
+De følgende sakene er beskrevet i denne artikkelen:
+
 ## 1. **Artikler**
 
 Når nye funksjoner lanseres og feil rettes, oppdateres artikler med endringene som gjøres. Se følgende artikler som er laget og endret siden forrige endringslogg.
 
+De følgende sakene er beskrevet i denne delen:
+
 ### 1.1 **Nye artikler:**
 
-**Produktfunksjoner**
+_Produktfunksjoner_
 
 - [Hvordan tilgangsnivåer beregnes](https://support.catenda.com/en/articles/15644094-how-access-levels-are-calculated)
 - [Brukstilfeller for tilgangskontrollutplassering](https://support.catenda.com/en/articles/15644249-access-control-deployment-use-cases)
@@ -24,12 +28,12 @@ Når nye funksjoner lanseres og feil rettes, oppdateres artikler med endringene 
 - [Opprette en ny modeleksport](https://support.catenda.com/en/articles/15481038-creating-a-new-model-export)
 - [Innholdsside for modeleksport](https://support.catenda.com/en/articles/15480883-model-export-content-page)
 
-**Brukstilfeller**
+_Brukstilfeller_
 
 - [Brukstilfeller for revisjonsnavn](https://support.catenda.com/en/articles/15886912-revision-naming-use-cases)
 - [Revisjonblokker i navnkonvensjoner](https://support.catenda.com/en/articles/15886483-revision-blocks-in-naming-conventions)
 
-**Feilsøking**
+_Feilsøking_
 
 - [Feilsøking for dokumentforhåndsvisning](https://support.catenda.com/en/articles/13962654-document-preview-troubleshooting)
 - [Feilsøking for gjennomgangsfilforhåndsvisning](https://support.catenda.com/en/articles/15286207-approval-file-review-troubleshooting)
@@ -37,13 +41,13 @@ Når nye funksjoner lanseres og feil rettes, oppdateres artikler med endringene 
 
 ### 1.2 **Artikler som har endret seg:**
 
-**Kontoadministrasjon**
+_Kontoadministrasjon_
 
 - [Opprette et team](https://support.catenda.com/en/articles/4670264-creating-a-team)
 - [Organisasjonstyper](https://support.catenda.com/en/articles/13653807-organization-types)
 - [Pålogging og passord](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords)
 
-**Produktfunksjoner**
+_Produktfunksjoner_
 
 - [Oversikt over de viktigste hurtigtastene og grunnleggende kontroller](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
 - [Sakekropp - innholdet i en sak](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
@@ -61,7 +65,7 @@ Når nye funksjoner lanseres og feil rettes, oppdateres artikler med endringene 
 - [2D-plassering av saker - Catenda Site](https://support.catenda.com/en/articles/13616245-2d-location-of-topics-catenda-site)
 - [2D-viser - Catenda Site](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site)
 
-**Feilsøking**
+_Feilsøking_
 
 - [Feilsøking for opplastingsdialog for dokument](https://support.catenda.com/en/articles/11070748-upload-document-dialogue-troubleshooting)
 - [Feilsøking for Catenda Revit Plugin](https://support.catenda.com/en/articles/14301534-catenda-revit-plugin-troubleshooting)
@@ -79,6 +83,8 @@ Når nye funksjoner lanseres og feil rettes, oppdateres artikler med endringene 
 ## 3. **Løste feil**
 
 Takk for din verdifulle tilbakemelding har vi kunnet rette mange saker som du kanskje eller kanskje ikke har merket fantes. Nedenfor er en liste over mindre endringer som er gjort av utviklingsteamet som et resultat av samtaler med brukere.
+
+De følgende sakene er beskrevet i denne delen:
 
 ### 3.1 **Generelt**
 
@@ -125,8 +131,8 @@ Takk for din verdifulle tilbakemelding har vi kunnet rette mange saker som du ka
 - **Fane for oversikt over dokumentrevisjoner** <br>Siden for gjennomganger har nå en dedikert "Dokumentrevisjoner"-fane som gir en fullstendig tabeloversikt over alle filer som for tiden gjennomgår gjennomgang i alle åpne gjennomganger. <br>Du kan nå søke, sortere og filtrere individuelle dokumentrevisjoner etter teamtilordning, vurderingstilstand og frist uten å måtte åpne hver gjennomgangspakke separat.
 - **Japansk lokalisering for gjennomganger**
 
-  Fullstendig japansk lokalisering har blitt implementert på tvers av gjennomgangsgrensesnittet og arbeidsflytkonfigurasjonsider.
-  Team som arbeider på japansk kan nå navigere gjennomgangskort, dokumentgjennomgangsverktøy og oppsettsmenyer med nøyaktig og konsistent lokalisert terminologi.
+    Fullstendig japansk lokalisering har blitt implementert på tvers av gjennomgangsgrensesnittet og arbeidsflytkonfigurasjonsider.
+    Team som arbeider på japansk kan nå navigere gjennomgangskort, dokumentgjennomgangsverktøy og oppsettsmenyer med nøyaktig og konsistent lokalisert terminologi.
 
 ### 4.3 **Prosjektinnstillinger**
 
@@ -134,8 +140,8 @@ Takk for din verdifulle tilbakemelding har vi kunnet rette mange saker som du ka
 
 ## 5. **Nye utgivelser** - Programtillegg og integrasjoner
 
-**Catenda AI Connect** Catenda AI Connect er nå live og bringer avansert intelligens sømløst inn i dine eksisterende arbeidsflyter. Denne muligheten kan låses opp som en funksjonsutvidelse for eksisterende prosjektlisensjoner, eller bli forespurt direkte av eksterne prosjektmedlemmer. Kontakt kundestøttelaget vårt for å be om aktivering for arbeidsområdet ditt.
+_Catenda AI Connect_ Catenda AI Connect er nå live og bringer avansert intelligens sømløst inn i dine eksisterende arbeidsflyter. Denne muligheten kan låses opp som en funksjonsutvidelse for eksisterende prosjektlisensjoner, eller bli forespurt direkte av eksterne prosjektmedlemmer. Kontakt kundestøttelaget vårt for å be om aktivering for arbeidsområdet ditt.
 
-**Catenda dataeksport** Catenda dataeksport er nå tilgjengelig og gir fleksibel gjentakende eller engangsekstraksjon tilpasset din totale eksportstørrelse. Eksisterende klienter kan integrere denne muligheten på tvers av deres gjeldende prosjekter, mens eksterne prosjektmedlemmer kan forespørre frittstående tilgang. Ta kontakt med kundestøttelaget vårt for å konfigurere og aktivere denne funksjonen. Eksporter til Amazon S3 eller Azure Blob-lagring
+_Catenda dataeksport_ Catenda dataeksport er nå tilgjengelig og gir fleksibel gjentakende eller engangsekstraksjon tilpasset din totale eksportstørrelse. Eksisterende klienter kan integrere denne muligheten på tvers av deres gjeldende prosjekter, mens eksterne prosjektmedlemmer kan forespørre frittstående tilgang. Ta kontakt med kundestøttelaget vårt for å konfigurere og aktivere denne funksjonen. Eksporter til Amazon S3 eller Azure Blob-lagring
 
-**Tekla programtillegg v1.5.0** Støtte for Tekla 2026
+_Tekla programtillegg v1.5.0_ Støtte for Tekla 2026

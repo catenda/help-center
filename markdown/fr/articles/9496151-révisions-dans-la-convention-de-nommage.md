@@ -6,11 +6,11 @@ Avec la convention de nommage, il est demandé ou souhaité que tout soit nommé
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-8d2926a56c34.png" style="height: auto;" width="1920"/></div>
 
-2. Désactiver" le bloc Date dans la convention de nommage. Cela fonctionne dans la colonne Reconnaissance de documents. Ce bloc n'est alors pas inclus dans la requête. Il n'est alors également pas affiché dans le nom (zone documents).
+1. Désactiver" le bloc Date dans la convention de nommage. Cela fonctionne dans la colonne Reconnaissance de documents. Ce bloc n'est alors pas inclus dans la requête. Il n'est alors également pas affiché dans le nom (zone documents).
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-a2fc3b4afcfe.png" style="height: auto;" width="1920"/></div>
 
-   Pour ce faire, vous pouvez afficher la colonne "Name de Revision", qui affiche le nom original.
+    Pour ce faire, vous pouvez afficher la colonne "Name de Revision", qui affiche le nom original.
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-1b1cee11c3c8.png" style="height: auto;" width="1920"/></div>
 

@@ -22,11 +22,11 @@ Viser oversiktslisten over gjennomgangsforespørselskort. Detaljerte regler for 
 
 Åpnet ved å klikke på vurdering eller visning for filer i en gjennomgangsforespørsel. Denne siden gir to distinkte modus:
 
-**1.3.1 Vurderingsmodus** Åpnet ved å klikke på knappen Vurdering på vegne av et aktivt vurderings-team. Alle annoteringsvirkemidler er tilgjengelige for å legge til merknader og kommentarer. Kan startes for alle dokumenter via fanen Oversikt, eller for valgte dokumenter via høyre meny under fanen Dokumenter.
+_1.3.1 Vurderingsmodus_ Åpnet ved å klikke på knappen Vurdering på vegne av et aktivt vurderings-team. Alle annoteringsvirkemidler er tilgjengelige for å legge til merknader og kommentarer. Kan startes for alle dokumenter via fanen Oversikt, eller for valgte dokumenter via høyre meny under fanen Dokumenter.
 
-**1.3.2 Visningssmodus** Åpnet ved å klikke på knappen Vis. Fungerer i skrivebeskyttet modus der bare verktøyet Vis er tilgjengelig i verktøylinjen for dokumentforhåndsvisning.
+_1.3.2 Visningssmodus_ Åpnet ved å klikke på knappen Vis. Fungerer i skrivebeskyttet modus der bare verktøyet Vis er tilgjengelig i verktøylinjen for dokumentforhåndsvisning.
 
-**1.3.3 Dokumenttilgangskrav** For å åpne en fil på filgjennomgangssiden i en av modiene, må et medlem tilhøre et tildelt arbeidsfloytteam **og** ha minst Leseatgang til det aktuelle dokumentet i prosjektdokumentbiblioteket. Medlemskap i et vurderings-team omgår ikke tilgangsbegrensninger på dokumentnivå i dokumentbiblioteket.
+_1.3.3 Dokumenttilgangskrav_ For å åpne en fil på filgjennomgangssiden i en av modiene, må et medlem tilhøre et tildelt arbeidsfloytteam **og** ha minst Leseatgang til det aktuelle dokumentet i prosjektdokumentbiblioteket. Medlemskap i et vurderings-team omgår ikke tilgangsbegrensninger på dokumentnivå i dokumentbiblioteket.
 
 ## 2. **Matrise for sidevisningspraksis**
 
@@ -54,30 +54,30 @@ Innsendings-teammedlemmer administrerer gjennomgangsforespørsler under startfas
 
 > **Merk:** Dette refererer strengt tatt til utkast gjennomgangsforespørselsbeholderen, ikke til dokumentrevisjon statusser
 
-**3.1.2 Legge til dokumenter i utkast gjennomgangsforespørsler** Etter at en utkast gjennomgangsforespørsel er lagret, kan oppretteren av utkastet fortsette med å legge til delte dokumentrevisjoner til denne utkast forespørselen før den sendes inn til vurdering.
+_3.1.2 Legge til dokumenter i utkast gjennomgangsforespørsler_ Etter at en utkast gjennomgangsforespørsel er lagret, kan oppretteren av utkastet fortsette med å legge til delte dokumentrevisjoner til denne utkast forespørselen før den sendes inn til vurdering.
 
-**3.1.3 Innsending av gjennomgangsforespørsler til vurdering** Innsending av en gjennomgangsforespørsel låser forespørselsdetaljer og starter gjennomgangstidslinjen for vurderings-team konfigurert i det første vurderings-trinnet.
+_3.1.3 Innsending av gjennomgangsforespørsler til vurdering_ Innsending av en gjennomgangsforespørsel låser forespørselsdetaljer og starter gjennomgangstidslinjen for vurderings-team konfigurert i det første vurderings-trinnet.
 
-**3.1.4 Forkasting av dokumenter fra gjennomgangsforespørsler** Innsendings-medlemmet kan forkaste dokumentrevisjoner fra en gjennomgangsforespørsel både i utkast-fasen og etter innsending, forutsatt at den endelige gjennomgangs-beslutningen ikke allerede er utført.
+_3.1.4 Forkasting av dokumenter fra gjennomgangsforespørsler_ Innsendings-medlemmet kan forkaste dokumentrevisjoner fra en gjennomgangsforespørsel både i utkast-fasen og etter innsending, forutsatt at den endelige gjennomgangs-beslutningen ikke allerede er utført.
 
 ### 4.2 **Vurderings- og valideringsfase**
 
 Vurderings-team behandler dokumentvalideringer under aktive vurderings-trinn. **3.2.1 Tilgang til fullstendige gjennomgangsforespørselsdetaljer (nivå 2)** Åpning av et gjennomgangsforespørselskort gir vurderings-teammedlemmer tilgang til hele gjennomgangsinnholdsiden. Vurderere kan se alle dokumentdetaljer, trinnhistorikk og kommentarer innsendt gjennom alle tidligere og etterfølgende trinn, noe som sikrer fullstendig kontekst før avgjørelser tas.
 
-**3.2.2 Åpning av dokumenter for vurdering (nivå 3)** Klikk på vurdering eller visning åpner filgjennomgangssiden. Medlemmer kan starte vurderingsmodus for alle filer via fanen Oversikt eller for et utvalg filer via høyre meny under fanen Dokumenter. Navigeringsverktøy og en fremdriftslinje tillater gjennomgang av de valgte filrevisjonene.
+_3.2.2 Åpning av dokumenter for vurdering (nivå 3)_ Klikk på vurdering eller visning åpner filgjennomgangssiden. Medlemmer kan starte vurderingsmodus for alle filer via fanen Oversikt eller for et utvalg filer via høyre meny under fanen Dokumenter. Navigeringsverktøy og en fremdriftslinje tillater gjennomgang av de valgte filrevisjonene.
 
-**3.2.3 Tilgjengelighet av annoteringsvirkemidler** Når filgjennomgangssiden åpnes i vurderingsmodus på vegne av et team, er alle dokumentannoteringsvirkemidler tilgjengelige for å legge til merknader. Når siden åpnes i visningssmodus, er bare verktøyet Vis aktivt i skrivebeskyttet modus.
+_3.2.3 Tilgjengelighet av annoteringsvirkemidler_ Når filgjennomgangssiden åpnes i vurderingsmodus på vegne av et team, er alle dokumentannoteringsvirkemidler tilgjengelige for å legge til merknader. Når siden åpnes i visningssmodus, er bare verktøyet Vis aktivt i skrivebeskyttet modus.
 
-**3.2.4 Dokumenttilgangskrav** Åpning av en fil på filgjennomgangssiden krever minst Leseatgang til det aktuelle dokumentet i prosjektdokumentbiblioteket.
+_3.2.4 Dokumenttilgangskrav_ Åpning av en fil på filgjennomgangssiden krever minst Leseatgang til det aktuelle dokumentet i prosjektdokumentbiblioteket.
 
-**3.2.5 Angitt og innsending av validering** Medlemmer av vurderings-team tildelt til et aktivt trinn kan angi Godkjenn eller Til oppfølging per dokument. Indikasjoner kan redigeres inntil de er formelt innsendt. Innsending registrerer formelt og låser teamets beslutning for det trinnet.
+_3.2.5 Angitt og innsending av validering_ Medlemmer av vurderings-team tildelt til et aktivt trinn kan angi Godkjenn eller Til oppfølging per dokument. Indikasjoner kan redigeres inntil de er formelt innsendt. Innsending registrerer formelt og låser teamets beslutning for det trinnet.
 
 ### 4.3 **Sluttgjennomgangsfase**
 
 Sluttgjennomgangs-Teams utfører det definitive utfallet av en gjennomgangsforespørsel.
 
-**3.3.1 Gjennomgang av tidligere valideringer (nivå 2)** Medlemmer av det utpekte sluttgjennomgangs-team kan gjennomgå hele gjennomgangsforespørselsinnholdsiden, inkludert alle valideringsindikasjoner, merknader og kommentarer innsendt av vurderings-team gjennom alle tidligere vurderings-trinn.
+_3.3.1 Gjennomgang av tidligere valideringer (nivå 2)_ Medlemmer av det utpekte sluttgjennomgangs-team kan gjennomgå hele gjennomgangsforespørselsinnholdsiden, inkludert alle valideringsindikasjoner, merknader og kommentarer innsendt av vurderings-team gjennom alle tidligere vurderings-trinn.
 
-**3.3.2 Dokumenttilgangskrav (nivå 3)** Sluttgjennomgangs-vurderere krever Leseatgang til de underliggende dokumentene i dokumentbiblioteket for å forhåndsvise filinnhold på filgjennomgangssiden.
+_3.3.2 Dokumenttilgangskrav (nivå 3)_ Sluttgjennomgangs-vurderere krever Leseatgang til de underliggende dokumentene i dokumentbiblioteket for å forhåndsvise filinnhold på filgjennomgangssiden.
 
-**3.3.3 Gjennomføring av sluttgjennomgang eller avvisning** Et medlem av sluttgjennomgangs-team sender inn sluttbeslutningen. Godkjenning av forespørselen publiserer de godkjente delte revisjonene, mens avvisning av forespørselen forhindrer publisering i henhold til arbeidsfloyt-konfigurasjonen. Gjennomføring av denne handlingen avslutter formelt gjennomgangsforespørselen.
+_3.3.3 Gjennomføring av sluttgjennomgang eller avvisning_ Et medlem av sluttgjennomgangs-team sender inn sluttbeslutningen. Godkjenning av forespørselen publiserer de godkjente delte revisjonene, mens avvisning av forespørselen forhindrer publisering i henhold til arbeidsfloyt-konfigurasjonen. Gjennomføring av denne handlingen avslutter formelt gjennomgangsforespørselen.

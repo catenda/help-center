@@ -9,10 +9,10 @@ Nytt i Catenda Hub er vår omfattende merkingsfunksjon. Funksjonen bringer kraft
 Dokumentbanneret vil bli beskrevet i denne artikkelen og strekker seg over toppen av dokumentsiden
 
 1. [Dokumentbanneret](https://support.catenda.com/en/articles/8461918-document-banner-navigation) vil bli beskrevet i denne artikkelen og strekker seg over toppen av dokumentsiden
-2. Du finner dokumenthodet under dokumentbanneret og over dokumentvisningen
-3. Under dokumenthodet finner du dokumentvisningen som vil bli forklart i denne artikkelen.
-4. Til venstre for dokumenthodet og visningen finner du dokumentlisten
-5. Til høyre for dokumenthodet og visningen finner du [høyre informasjonsmeny](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
+1. Du finner dokumenthodet under dokumentbanneret og over dokumentvisningen
+1. Under dokumenthodet finner du dokumentvisningen som vil bli forklart i denne artikkelen.
+1. Til venstre for dokumenthodet og visningen finner du dokumentlisten
+1. Til høyre for dokumenthodet og visningen finner du [høyre informasjonsmeny](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
 
 ## 1. **Merkingsverktøylinje**
 

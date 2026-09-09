@@ -65,32 +65,26 @@ Kan worden gebruikt voor topics die zijn gemaakt vanuit de algemene Topic-sectie
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/05-create-a-new-general-topic-template.png)
 
 1. **Topic Board**: De topic board waarbinnen de algemene topic template kan worden gegenereerd.
-
-2. **Template-naam**: De template-naam kan tijdens het maken worden geselecteerd in het vervolgkeuzemenu, of deze kan later in de instellingen worden bijgewerkt als dat nodig is.
-
-3. **Onderwerpstitel**: De resulterende onderwerpstitel na het maken van het onderwerp op basis van de algemene onderwerpsjabloon.<br>Beweeg uw muis over het pictogram "?" in de rechterbovenhoek van het titelvak om te zien hoe u de titel van uw onderwerpsjabloon kunt aanpassen met de beschikbare variabele: `topicCreator`.<br>
+1. **Template-naam**: De template-naam kan tijdens het maken worden geselecteerd in het vervolgkeuzemenu, of deze kan later in de instellingen worden bijgewerkt als dat nodig is.
+1. **Onderwerpstitel**: De resulterende onderwerpstitel na het maken van het onderwerp op basis van de algemene onderwerpsjabloon.<br>Beweeg uw muis over het pictogram "?" in de rechterbovenhoek van het titelvak om te zien hoe u de titel van uw onderwerpsjabloon kunt aanpassen met de beschikbare variabele: `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="184" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-272165f584d2.png" style="height: auto;" width="300"/></div>
 
-4. **Onderwerp-status**: De resulterende topic-status na het maken van het topic vanuit de algemene topic template.
-
-5. **Onderwerpstype**: Het resulterende topic-type na het maken van het topic vanuit de algemene topic template.
-
-6. **Milestone**: De resulterende topic milestone na het maken van het topic vanuit de algemene topic template.
-
-7. **Toegewezen aan**: De resulterende onderwerpsgeadresseerde (projectlid of team) na het maken van het onderwerp op basis van de algemene onderwerpsjabloon. U kunt hier de variabele `Topic Creator` gebruiken om dit veld automatisch in te vullen met de maker van het onderwerp, indien nodig.<br>
+1. **Onderwerp-status**: De resulterende topic-status na het maken van het topic vanuit de algemene topic template.
+1. **Onderwerpstype**: Het resulterende topic-type na het maken van het topic vanuit de algemene topic template.
+1. **Milestone**: De resulterende topic milestone na het maken van het topic vanuit de algemene topic template.
+1. **Toegewezen aan**: De resulterende onderwerpsgeadresseerde (projectlid of team) na het maken van het onderwerp op basis van de algemene onderwerpsjabloon. U kunt hier de variabele `Topic Creator` gebruiken om dit veld automatisch in te vullen met de maker van het onderwerp, indien nodig.<br>
 
     <div class="intercom-container intercom-align-center"><img height="94" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-c7f3d7220c54.png" style="height: auto;" width="150"/></div>
 
-8. **Aangevraagd door**: De resulterende onderwerpsaanvrager na het maken van het onderwerp op basis van de algemene onderwerpsjabloon. U kunt hier de variabele `Topic Creator` gebruiken om dit veld automatisch in te vullen met de maker van het onderwerp, indien nodig.<br>
+1. **Aangevraagd door**: De resulterende onderwerpsaanvrager na het maken van het onderwerp op basis van de algemene onderwerpsjabloon. U kunt hier de variabele `Topic Creator` gebruiken om dit veld automatisch in te vullen met de maker van het onderwerp, indien nodig.<br>
 
     <div class="intercom-container intercom-align-center"><img height="93" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-43e4955bfdd8.png" style="height: auto;" width="150"/></div>
 
-9. **Labels**: De resulterende topic-labels na het maken van het topic vanuit de algemene topic template.
+1. **Labels**: De resulterende topic-labels na het maken van het topic vanuit de algemene topic template.
+1. **Beschrijving**: De resulterende onderwerponderschrijving na het aanmaken van het onderwerp uit de algemene onderwerpsjabloon. Dit gedeelte ondersteunt het Markdown-formaat en u kunt het volledige potentieel ervan gebruiken om de tekst op te maken, aangepaste koppen en checklists te maken. <br>Beweeg uw muis over het "?" pictogram in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u alle beschikbare functies (teamgenoten vermelden en bestaande onderwerpen koppelen) en variabelen (zoals `topicCreator` in het geval van de algemene onderwerpsjabloon) kunt gebruiken.
 
-10. **Beschrijving**: De resulterende onderwerponderschrijving na het aanmaken van het onderwerp uit de algemene onderwerpsjabloon. Dit gedeelte ondersteunt het Markdown-formaat en u kunt het volledige potentieel ervan gebruiken om de tekst op te maken, aangepaste koppen en checklists te maken. <br>Beweeg uw muis over het "?" pictogram in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u alle beschikbare functies (teamgenoten vermelden en bestaande onderwerpen koppelen) en variabelen (zoals `topicCreator` in het geval van de algemene onderwerpsjabloon) kunt gebruiken.
-
-     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
 
 Nadat u klaar bent met het instellen van uw nieuwe algemene topic template, kunt u op de knop "Opslaan" rechtsonder klikken.
 
@@ -101,34 +95,29 @@ Kan worden gebruikt voor topics die zijn gemaakt vanuit Markups op Documenten. D
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/06-new-document-topic-template.png)
 
 1. **Topic Board**: De topic board waarbinnen de document topic template kan worden gegenereerd.
-
-2. **Template-naam**: De template-naam kan tijdens het maken van Markup worden geselecteerd in het vervolgkeuzemenu, of deze kan later in de instellingen worden bijgewerkt als dat nodig is.
-
-3. **Onderwerpstitel**: De resulterende onderwerpstitel na het maken van het onderwerp op basis van de documentonderwerpsjabloon.<br>Beweeg uw muis over het pictogram "?" aan de rechterkant van het titelvak om te zien hoe u de titel van uw documentonderwerpsjabloon kunt aanpassen met de beschikbare variabelen: `documentName`, `fileName`, `markupName` en `topicCreator`.<br>
+1. **Template-naam**: De template-naam kan tijdens het maken van Markup worden geselecteerd in het vervolgkeuzemenu, of deze kan later in de instellingen worden bijgewerkt als dat nodig is.
+1. **Onderwerpstitel**: De resulterende onderwerpstitel na het maken van het onderwerp op basis van de documentonderwerpsjabloon.<br>Beweeg uw muis over het pictogram "?" aan de rechterkant van het titelvak om te zien hoe u de titel van uw documentonderwerpsjabloon kunt aanpassen met de beschikbare variabelen: `documentName`, `fileName`, `markupName` en `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="231" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-dbe5030f1082.png" style="height: auto;" width="300"/></div>
 
-4. **Onderwerp-status**: De resulterende topic-status na het maken van het topic vanuit de document topic template.
-
-5. **Onderwerpstype**: Het resulterende topic-type na het maken van het topic vanuit de document topic template.
-
-6. **Milestone**: De resulterende topic milestone na het maken van het topic vanuit de document topic template.
-
-7. **Toegewezen aan**: De resulterende topic-ontvanger (projectlid of team) na het maken van het topic vanuit de document topic template. Hier kunnen verschillende variabelen worden gebruikt, zoals `Document owner`, `File uploader`, `Markup creator`, `Publisher` en `Topic creator`.
+1. **Onderwerp-status**: De resulterende topic-status na het maken van het topic vanuit de document topic template.
+1. **Onderwerpstype**: Het resulterende topic-type na het maken van het topic vanuit de document topic template.
+1. **Milestone**: De resulterende topic milestone na het maken van het topic vanuit de document topic template.
+1. **Toegewezen aan**: De resulterende topic-ontvanger (projectlid of team) na het maken van het topic vanuit de document topic template. Hier kunnen verschillende variabelen worden gebruikt, zoals `Document owner`, `File uploader`, `Markup creator`, `Publisher` en `Topic creator`.
 
     <div class="intercom-container intercom-align-center"><img height="228" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b3156a6c2724.png" style="height: auto;" width="150"/></div>
 
-8. **Aangevraagd door**: De resulterende onderwerpsaanvrager na het maken van het onderwerp op basis van de documentonderwerpsjabloon. Verschillende variabelen kunnen hier worden gebruikt, zoals `Document owner`, `File uploader`, `Markup creator`, `Publisher` en `Topic creator`.<br>
+1. **Aangevraagd door**: De resulterende onderwerpsaanvrager na het maken van het onderwerp op basis van de documentonderwerpsjabloon. Verschillende variabelen kunnen hier worden gebruikt, zoals `Document owner`, `File uploader`, `Markup creator`, `Publisher` en `Topic creator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="171" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-0c4680dfae06.png" style="height: auto;" width="150"/></div>
 
-9. **Labels**: De resulterende onderwerpslabels na het maken van het onderwerp op basis van de documentonderwerpsjabloon. Opmerking: u kunt de labels uit het document ophalen waaruit u de opmaak hebt gemaakt met behulp van de variabele `Labels from documents` hieronder:<br>
+1. **Labels**: De resulterende onderwerpslabels na het maken van het onderwerp op basis van de documentonderwerpsjabloon. Opmerking: u kunt de labels uit het document ophalen waaruit u de opmaak hebt gemaakt met behulp van de variabele `Labels from documents` hieronder:<br>
 
     <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
 
-10. **Beschrijving**: De resulterende onderwerponderschrijving na het aanmaken van het onderwerp uit de documentonderwerpsjabloon. Dit gedeelte ondersteunt het Markdown-formaat en u kunt het volledige potentieel ervan gebruiken om de tekst op te maken, aangepaste koppen en checklists te maken. <br>Beweeg uw muis over het "?" pictogram in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u alle beschikbare functies (teamgenoten vermelden en bestaande onderwerpen koppelen) en variabelen (zoals `documentName`, `fileName`, `markupName` en `topicCreator` in het geval van de documentonderwerpsjabloon) kunt gebruiken.
+1. **Beschrijving**: De resulterende onderwerponderschrijving na het aanmaken van het onderwerp uit de documentonderwerpsjabloon. Dit gedeelte ondersteunt het Markdown-formaat en u kunt het volledige potentieel ervan gebruiken om de tekst op te maken, aangepaste koppen en checklists te maken. <br>Beweeg uw muis over het "?" pictogram in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u alle beschikbare functies (teamgenoten vermelden en bestaande onderwerpen koppelen) en variabelen (zoals `documentName`, `fileName`, `markupName` en `topicCreator` in het geval van de documentonderwerpsjabloon) kunt gebruiken.
 
-     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
 
 Nadat u klaar bent met het instellen van uw nieuwe document topic template, kunt u op de knop "Opslaan" rechtsonder klikken.
 
@@ -143,33 +132,28 @@ Dit zijn de verschillende acties die u moet volgen en variabelen die u kunt invo
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/07-new-approval-topic-template.png)
 
 1. **Topic Board**: De topic board waarbinnen de goedkeurings topic template na het sluiten van een goedkeuringswerkstroom wordt gegenereerd.
-
-2. **Template-naam**: De template-naam van een goedkeurings topic template kan worden geselecteerd in het vervolgkeuzemenu in een goedkeuringswerkstroom template, of deze kan later in de instellingen worden bijgewerkt als dat nodig is.
-
-3. **Onderwerpstitel**: De resulterende onderwerpstitel nadat de bijbehorende goedkeuringswerkstroom is gesloten.<br>Beweeg uw muis over het pictogram "?" aan de rechterkant van het titelvak om te zien hoe u de titel van uw goedkeringsonderwerpsjabloon kunt aanpassen met de beschikbare variabelen: `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` en `topicCreator`.<br>
+1. **Template-naam**: De template-naam van een goedkeurings topic template kan worden geselecteerd in het vervolgkeuzemenu in een goedkeuringswerkstroom template, of deze kan later in de instellingen worden bijgewerkt als dat nodig is.
+1. **Onderwerpstitel**: De resulterende onderwerpstitel nadat de bijbehorende goedkeuringswerkstroom is gesloten.<br>Beweeg uw muis over het pictogram "?" aan de rechterkant van het titelvak om te zien hoe u de titel van uw goedkeringsonderwerpsjabloon kunt aanpassen met de beschikbare variabelen: `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` en `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="272" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-6038b1d41fed.png" style="height: auto;" width="300"/></div>
 
-4. **Onderwerp-status**: De resulterende topic-status na het sluiten van de gekoppelde goedkeuringswerkstroom.
-
-5. **Onderwerpstype**: Het resulterende topic-type na het sluiten van de gekoppelde goedkeuringswerkstroom.
-
-6. **Milestone**: De resulterende topic milestone na het sluiten van de gekoppelde goedkeuringswerkstroom.
-
-7. **Toegewezen aan**: De resulterende topic-ontvanger (projectlid of team) na het sluiten van de gekoppelde goedkeuringswerkstroom. Hier kunnen verschillende variabelen worden gebruikt, zoals `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.
+1. **Onderwerp-status**: De resulterende topic-status na het sluiten van de gekoppelde goedkeuringswerkstroom.
+1. **Onderwerpstype**: Het resulterende topic-type na het sluiten van de gekoppelde goedkeuringswerkstroom.
+1. **Milestone**: De resulterende topic milestone na het sluiten van de gekoppelde goedkeuringswerkstroom.
+1. **Toegewezen aan**: De resulterende topic-ontvanger (projectlid of team) na het sluiten van de gekoppelde goedkeuringswerkstroom. Hier kunnen verschillende variabelen worden gebruikt, zoals `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.
 
     <div class="intercom-container intercom-align-center"><img height="182" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b012d92ee132.png" style="height: auto;" width="150"/></div>
 
-8. **Aangevraagd door**: De resulterende onderwerpsaanvrager na sluiting van de bijbehorende goedkeuringswerkstroom. Verschillende variabelen kunnen hier worden gebruikt, zoals `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.<br>
+1. **Aangevraagd door**: De resulterende onderwerpsaanvrager na sluiting van de bijbehorende goedkeuringswerkstroom. Verschillende variabelen kunnen hier worden gebruikt, zoals `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="181" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d7986adac70c.png" style="height: auto;" width="150"/></div>
 
-9. **Labels**: De resulterende onderwerpslabels na sluiting van de bijbehorende goedkeuringswerkstroom. Opmerking: u kunt de labels uit het document ophalen waaruit u de opmaak hebt gemaakt met behulp van de variabele `Labels from documents` hieronder:<br>
+1. **Labels**: De resulterende onderwerpslabels na sluiting van de bijbehorende goedkeuringswerkstroom. Opmerking: u kunt de labels uit het document ophalen waaruit u de opmaak hebt gemaakt met behulp van de variabele `Labels from documents` hieronder:<br>
 
     <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
 
-10. **Beschrijving**: De resulterende onderwerpsomschrijving na sluiting van de bijbehorende goedkeuringswerkstroom. Dit gedeelte ondersteunt de Markdown-indeling en u kunt het volledige potentieel ervan benutten om de tekst op te maken, aangepaste kopteksten en checklists te maken. <br>Beweeg uw muis over het pictogram "?" in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u kunt gebruikmaken van alle beschikbare functies (vermeld teamgenoten en koppel bestaande onderwerpen) en variabelen (zoals `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) in geval van de goedkeringsonderwerpsjabloon).<br>
+1. **Beschrijving**: De resulterende onderwerpsomschrijving na sluiting van de bijbehorende goedkeuringswerkstroom. Dit gedeelte ondersteunt de Markdown-indeling en u kunt het volledige potentieel ervan benutten om de tekst op te maken, aangepaste kopteksten en checklists te maken. <br>Beweeg uw muis over het pictogram "?" in de rechterbovenhoek van het beschrijvingsvak om te zien hoe u kunt gebruikmaken van alle beschikbare functies (vermeld teamgenoten en koppel bestaande onderwerpen) en variabelen (zoals `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) in geval van de goedkeringsonderwerpsjabloon).<br>
 
-     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 
 Nadat u klaar bent met het instellen van uw nieuwe goedkeurings topic template, kunt u op de knop "Opslaan" rechtsonder klikken.

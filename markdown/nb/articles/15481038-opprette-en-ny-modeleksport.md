@@ -44,21 +44,21 @@ Alle biblioteker som har blitt opprettet i prosjektet vises etter biblioteknavn 
 
 Støttede bibliotektyper inkluderer:
 
-**Dokumentbiblioteker som Dropbox eller SharePoint-biblioteker** Logg inn med Dropbox eller SharePoint og koble elementer fra ditt eksterne bibliotek til modellobjekter for å få Catenda-lenker til disse bibliotekelementer inkludert i den eksporterte IFC.
+_Dokumentbiblioteker som Dropbox eller SharePoint-biblioteker_ Logg inn med Dropbox eller SharePoint og koble elementer fra ditt eksterne bibliotek til modellobjekter for å få Catenda-lenker til disse bibliotekelementer inkludert i den eksporterte IFC.
 
-**Lenkebibliotek** Inkluder lagrede URL-lenker fra lenkebiblioteket i IFC-eksporten din ved å koble dem til objekter fra valgte eksportmodeller.
+_Lenkebibliotek_ Inkluder lagrede URL-lenker fra lenkebiblioteket i IFC-eksporten din ved å koble dem til objekter fra valgte eksportmodeller.
 
-**Klassifikasjonsbibliotek** Opprett et klassifikasjonsbibliotek ved å laste opp en CSV. Koble elementer fra CSV-en i klassifikasjonsbiblioteket til modellobjekter. Klassifikasjonsbiblioteker vises etter navn på biblioteket i listen over flettingsalternativer. Når avmerkingsboksen for et klassifikasjonsbibliotek er valgt, flettes alle klassifikasjonsbibliotekelementer fra CSV-en som har blitt koblet til objekter i valgte eksportmodeller inn i den eksporterte IFC. Objekter med slike lenker i IFC mottaker en lenke til klassifikasjonsbiblioteket på Catenda.
+_Klassifikasjonsbibliotek_ Opprett et klassifikasjonsbibliotek ved å laste opp en CSV. Koble elementer fra CSV-en i klassifikasjonsbiblioteket til modellobjekter. Klassifikasjonsbiblioteker vises etter navn på biblioteket i listen over flettingsalternativer. Når avmerkingsboksen for et klassifikasjonsbibliotek er valgt, flettes alle klassifikasjonsbibliotekelementer fra CSV-en som har blitt koblet til objekter i valgte eksportmodeller inn i den eksporterte IFC. Objekter med slike lenker i IFC mottaker en lenke til klassifikasjonsbiblioteket på Catenda.
 
 ### 2.4 **Biblioteker som ikke støttes**
 
 Biblioteker som ikke støttes, inkluderer biblioteker som er avhengig av dynamisk innhold som:
 
-**Oppslagsbiblioteker** Disse slår opp valgte objekter på internett
+_Oppslagsbiblioteker_ Disse slår opp valgte objekter på internett
 
-**Egenskapsverdibiblioteker** Disse klassifiserer modellobjekter basert på en valgt egenskap
+_Egenskapsverdibiblioteker_ Disse klassifiserer modellobjekter basert på en valgt egenskap
 
-**Innebygde klassifikasjonsbiblioteker** Disse klassifiserer objekter basert på et eksternt klassifikasjonsbibliotek som allerede er angitt i IFC.
+_Innebygde klassifikasjonsbiblioteker_ Disse klassifiserer objekter basert på et eksternt klassifikasjonsbibliotek som allerede er angitt i IFC.
 
 ### 2.5 **Navigasjon**
 
@@ -70,9 +70,9 @@ I det tredje trinnet kan eksporten gis et navn og en kommentar kan legges til. S
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y8fzd5y5/05-step-3-add-name-and-comment.png)
 
-**Navn** Navnet vil være forhåndsutfylt med Modeleksport og datoen og tidspunktet for eksporten. Dette navnet vil også være filnavnet på den nedlastede ZIP-filen.
+_Navn_ Navnet vil være forhåndsutfylt med Modeleksport og datoen og tidspunktet for eksporten. Dette navnet vil også være filnavnet på den nedlastede ZIP-filen.
 
-**Kommentar** Eksportkommentarer er valgfrie og vises bare på Catenda. Kommentaren kan gi prosjektdeltakerne informasjon om hva denne eksporten handler om.
+_Kommentar_ Eksportkommentarer er valgfrie og vises bare på Catenda. Kommentaren kan gi prosjektdeltakerne informasjon om hva denne eksporten handler om.
 
 ## 4. **Trinn 4 - Delingsalternativer**
 

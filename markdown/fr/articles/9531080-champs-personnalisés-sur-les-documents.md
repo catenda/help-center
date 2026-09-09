@@ -11,20 +11,19 @@ Il s'agit de métadonnées qui nous aident à travailler de manière plus struct
 Pour appliquer les champs définis par l'utilisateur aux Documents, procédez comme suit :
 
 1. Créez le champ défini par l'utilisateur souhaité
-
-2. Assignez le champ défini par l'utilisateur créé à un ou plusieurs dossiers
+1. Assignez le champ défini par l'utilisateur créé à un ou plusieurs dossiers
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-ba695fa6aebd.png" width="496"/></div>
 
-3. Définissez si le champ défini par l'utilisateur doit être assigné à un Document (à travers les révisions) ou à chaque révision individuelle
+1. Définissez si le champ défini par l'utilisateur doit être assigné à un Document (à travers les révisions) ou à chaque révision individuelle
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-20eab3b097ce.png" width="500"/></div>
 
-4. Définissez les valeurs par défaut, si souhaité
+1. Définissez les valeurs par défaut, si souhaité
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-7241dd9f32dd.png" width="500"/></div>
 
-5. Dans la zone du Document, vous pouvez maintenant reconnaître le champ défini par l'utilisateur assigné sur le Document sous les dossiers dans les informations du Document.
+1. Dans la zone du Document, vous pouvez maintenant reconnaître le champ défini par l'utilisateur assigné sur le Document sous les dossiers dans les informations du Document.
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-f4243a01e272.png" width="500"/></div>
 

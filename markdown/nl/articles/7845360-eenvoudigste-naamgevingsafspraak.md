@@ -61,6 +61,6 @@ _Dit document is niet conform de [naamgevingsafspraak](https://support.catenda.c
 Dit kan om twee redenen het geval zijn.
 
 1. De bestandsnaam van de revisie komt niet overeen met de verwachte bestandsnaam van de [naamgevingsafspraak](https://support.catenda.com/en/articles/7832559-naming-conventions-page).
-2. De bestandsnaam van de revisie komt niet overeen met het verwachte documentresultaat volgens de [naamgevingsafspraak](https://support.catenda.com/en/articles/7832559-naming-conventions-page).
+1. De bestandsnaam van de revisie komt niet overeen met het verwachte documentresultaat volgens de [naamgevingsafspraak](https://support.catenda.com/en/articles/7832559-naming-conventions-page).
 
 Om meer te leren over [naamgevingsafspraken](https://support.catenda.com/en/articles/7832559-naming-conventions-page) raadpleegt u deze artikelen: [Gemiddelde naamgevingsafspraak](https://support.catenda.com/en/articles/7936943-medium-naming-convention) [Geavanceerde naamgevingsafspraak](https://support.catenda.com/en/articles/7936947-advanced-naming-convention)

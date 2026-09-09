@@ -5,7 +5,7 @@
 Sie können den/die Kommentar(e) eines Themas bearbeiten, zu dem Sie bereits einen Kommentar abgegeben haben:
 
 1. Klicken Sie auf das Hamburger-Menü (3 horizontale Punkte) des betreffenden Kommentars,
-2. Klicken Sie auf: Klicken Sie auf "**Bearbeiten**",
+1. Klicken Sie auf: Klicken Sie auf "**Bearbeiten**",
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/pwjqg6c5/01-intro.png)
 

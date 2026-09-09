@@ -2,10 +2,7 @@
 
 > **Merknad:** Installeringsfilen for programtillegget finnes i [denne artikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
-Hvis Catenda SharePoint Application legges til på et SharePoint-nettsted, kan filer publiseres fra SharePoint til Catenda og Catenda-dokumentstrukturen kan vises i SharePoint. Når den er konfigurert, kan applikasjonen se slik ut: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/>
-Denne artikkelen inneholder informasjon om hvordan denne applikasjonen fungerer
-Se [her](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq) for mer informasjon om hvordan denne applikasjonen kan være nyttig.
-Se [her](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app) for hvordan du legger til SharePoint-applikasjonen på et nettsted.
+Hvis Catenda SharePoint Application legges til på et SharePoint-nettsted, kan filer publiseres fra SharePoint til Catenda og Catenda-dokumentstrukturen kan vises i SharePoint. Når den er konfigurert, kan applikasjonen se slik ut: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/> Denne artikkelen inneholder informasjon om hvordan denne applikasjonen fungerer Se [her](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq) for mer informasjon om hvordan denne applikasjonen kan være nyttig. Se [her](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app) for hvordan du legger til SharePoint-applikasjonen på et nettsted.
 
 ## 1. **Publisering til Catenda med listkommandoen**
 
@@ -15,11 +12,11 @@ Med listkommandoen er det mulig å publisere én eller flere filer til Catenda.
 
 ### 1.1 **Finne listkommandoen**
 
-**Én fil** Hvis du vil publisere én fil til Catenda, er den enkleste måten å klikke på Publiser til Catenda i hamburgermenylinjen for filen.
+_Én fil_ Hvis du vil publisere én fil til Catenda, er den enkleste måten å klikke på Publiser til Catenda i hamburgermenylinjen for filen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/01-finding-the-list-command.png)
 
-**Flere filer** Hvis du vil publisere flere filer til Catenda, må du velge filene du vil publisere. Etter filene dine i SharePoint vil brukerne kunne se en Publiser til Catenda-listkommando.
+_Flere filer_ Hvis du vil publisere flere filer til Catenda, må du velge filene du vil publisere. Etter filene dine i SharePoint vil brukerne kunne se en Publiser til Catenda-listkommando.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/02-finding-the-list-command.png)
 
@@ -37,7 +34,7 @@ Etter at du klikker på Publiser til Catenda, åpnes følgende meny som kan se s
 
 Hvis du ikke har gitt SharePoint tilgang til Catenda-kontoen din, blir du bedt om å autorisere den. [Se nedenfor](#h_788fe15988) for hvordan du autoriserer kontoen din.
 
-**Velge en mappe** Hvis du har gitt tilgang til Catenda-kontoen din, kan du velge prosjektet, biblioteket og destinasjonsmappen på Catenda, og publisere.
+_Velge en mappe_ Hvis du har gitt tilgang til Catenda-kontoen din, kan du velge prosjektet, biblioteket og destinasjonsmappen på Catenda, og publisere.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/05-publishing-the-file.png)
 

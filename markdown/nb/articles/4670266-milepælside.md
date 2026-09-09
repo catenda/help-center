@@ -58,11 +58,11 @@ Beskrivelsen av milepælen
 
 I saksstatistikken for milepælen vil du kunne se hva fremdriften for denne milepælen er for alle saksområder sammen. Se milepælsiden for saksspesifikke data.
 
-**Prosentandel** Her vil du se prosentandelen av saker som har denne milepælen tildelt og er lukket i alle saksområder. Kandidatsaker teller ikke inn i denne prosentandelen.
+_Prosentandel_ Her vil du se prosentandelen av saker som har denne milepælen tildelt og er lukket i alle saksområder. Kandidatsaker teller ikke inn i denne prosentandelen.
 
-**Åpen/lukket/kandidat** Her vil du se antall saker med åpne, lukkede eller kandidatstatus som denne milepælen har blitt tildelt til. Klikk på ordet åpen, lukket eller kandidat for å se de relaterte sakene i alle saker-området.
+_Åpen/lukket/kandidat_ Her vil du se antall saker med åpne, lukkede eller kandidatstatus som denne milepælen har blitt tildelt til. Klikk på ordet åpen, lukket eller kandidat for å se de relaterte sakene i alle saker-området.
 
-**Medlemsprofilbilde** Her vil du først se oppretteren av milepælen og det utildelte bildet. For hvert profilbilde vil du se et antall saker. For milepæloppretteren og ufordelt kan dette antallet være 0 og vil da være grønt. Andre brukere vil bare være synlige hvis de har noen åpne saker som denne milepælen har blitt tildelt til, med et antall åpne saker som de har blitt tildelt til i rødt.
+_Medlemsprofilbilde_ Her vil du først se oppretteren av milepælen og det utildelte bildet. For hvert profilbilde vil du se et antall saker. For milepæloppretteren og ufordelt kan dette antallet være 0 og vil da være grønt. Andre brukere vil bare være synlige hvis de har noen åpne saker som denne milepælen har blitt tildelt til, med et antall åpne saker som de har blitt tildelt til i rødt.
 
 ### 3.5 Opprettet av
 

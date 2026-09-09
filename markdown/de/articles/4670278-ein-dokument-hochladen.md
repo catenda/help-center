@@ -2,10 +2,6 @@
 
 Im Bereich Dokumente können Sie Dateien in Ordner hochladen. In Catenda Hub sind Dokumente Container für verschiedene Versionen (Revisionen) einer Datei. Wählen Sie beim Hochladen einer Datei entweder ein neues Dokument aus oder laden Sie die Datei als Revision zu einem vorhandenen Dokument hoch.
 
-Die folgenden Themen werden in diesem Artikel beschrieben:
-
-_[Datei hochladen](#uploading-a-file) - [Menü „Dokument hochladen
-
 ## 1. **Datei hochladen**
 
 Dateien können auf vier verschiedene Arten hochgeladen werden. Die Datei landet je nach Hochladeverfahren in dem Ordner, in dem Sie sich befinden.

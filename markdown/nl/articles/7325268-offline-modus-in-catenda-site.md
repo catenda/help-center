@@ -51,21 +51,15 @@ Wanneer de verbinding met het netwerk is hersteld, worden deze onderwerpen niet 
 De volgende informatie kan aan een nieuw onderwerp worden toegevoegd dat zonder verbinding met het netwerk is gemaakt:
 
 - Een titel kan worden toegevoegd
-
 - Een onderwerpenbord kan voor het onderwerp worden geselecteerd
-
 - Status/type kan worden gewijzigd
-
 - Een mijlpaal kan worden toegevoegd
-
 - Labels kunnen worden toegevoegd
-
 - Een beschrijving kan worden geschreven
-
 - Opmerkingen kunnen worden toegevoegd.
-  - Afbeeldingen van Camera/foto's kunnen aan opmerkingen worden toegevoegd.
+    - Afbeeldingen van Camera/foto's kunnen aan opmerkingen worden toegevoegd.
 
-    _Vereiste toegang:_ Volledige toegang tot het apparaat
+        _Vereiste toegang:_ Volledige toegang tot het apparaat
 
 - Als modellen vóór het verbreken van de verbinding met het netwerk waren geladen, kan een locatie aan een onderwerp worden toegevoegd door een markering in de 2D-weergave van die modellen te plaatsen.
 

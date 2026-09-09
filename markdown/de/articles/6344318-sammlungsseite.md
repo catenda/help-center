@@ -14,7 +14,7 @@ Mit Dokumentsammlungen können Sie:
 
 ## 1. **Neue Elementaktionen**
 
-Sie finden die Schaltfläche „Neue Sammlung
+Sie finden die Schaltfläche „Neue Sammlung“ oben rechts
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/02-new-item-actions.png)
 
@@ -32,7 +32,7 @@ Wenn Sie eine neue Sammlung erstellen, werden Sie aufgefordert, den folgenden Di
 
 ### 1.2 **Dokumente zu Sammlungen hinzufügen**
 
-Sie können Dokumente vor dem Erstellen oder Fertigstellen der Sammlung zu Sammlungen hinzufügen. Das Menü „Dokument zur Sammlung hinzufügen
+Sie können Dokumente vor dem Erstellen oder Fertigstellen der Sammlung zu Sammlungen hinzufügen. Das Menü „Dokument zur Sammlung hinzufügen“ kann etwa so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/04-adding-documents-to-collections.png)
 

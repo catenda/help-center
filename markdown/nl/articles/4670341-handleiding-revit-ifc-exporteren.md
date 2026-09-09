@@ -22,7 +22,7 @@ Linksboven vinden we het tabblad "Bestand".
 
 ---
 
-> **Tip:** **Onthoud:** _U wilt mogelijk een speciale map voor uw IFC's hebben, zodat u altijd controle hebt over waar uw bestand zich bevindt!_
+> **Onthoud:** _U wilt mogelijk een speciale map voor uw IFC's hebben, zodat u altijd controle hebt over waar uw bestand zich bevindt!_
 
 Het IFC-exportmenu vindt u hier:
 

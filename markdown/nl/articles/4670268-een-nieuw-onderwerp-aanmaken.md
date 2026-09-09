@@ -10,6 +10,8 @@ Dit is hoe de pagina voor het aanmaken van een nieuw onderwerp eruit kan zien:
 
 Op deze pagina vindt u informatie over het volgende:
 
+De volgende onderwerpen zijn beschreven in dit artikel:
+
 ## 1. Bovenbalk
 
 Klik op terug naar onderwerpen om terug te gaan naar het onderwerpenboard waar u zich het laatst bevond.
@@ -19,6 +21,8 @@ Klik op terug naar onderwerpen om terug te gaan naar het onderwerpenboard waar u
 Dit is hoe de onderwerpen-kop eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/02-2-header.png)
+
+De volgende onderwerpen zijn beschreven in deze sectie:
 
 ### 2.1 Titel
 
@@ -77,6 +81,8 @@ Klik [hier](https://support.catenda.com/en/articles/4670250-linking-a-document-t
 Dit is hoe de tekst van een onderwerp eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/k4dpt6z7/04-4-body.png)
+
+De volgende onderwerpen zijn beschreven in deze sectie:
 
 ### 4.1 Omschrijving
 

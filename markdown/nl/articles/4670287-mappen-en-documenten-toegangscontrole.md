@@ -7,8 +7,8 @@ Selecteer document(en) en/of map(pen) in het documentengebied om het menu voor t
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/01-intro.png)
 
 1. Selecteer de document(en) en/of map(pen) die moeten worden geconfigureerd.
-2. Open het rechterinformatiemenu
-3. Klik op **toegang bewerken**.
+1. Open het rechterinformatiemenu
+1. Klik op **toegang bewerken**.
 
 > **Belangrijk:** **Vereiste toegang:** Volledige toegang
 

@@ -8,6 +8,8 @@ Kontoknappar er til stades overalt du er på Catenda Hub. Dette betyr at varsel-
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/02-intro.png)
 
+Følgjande saker er beskrivne i denne artikkelen:
+
 ## 1. **Varselknapp**
 
 Dersom det finst nye varsel, blir ein raud varselindikator vist på varselknappen. Klikk på varselknappen for å opne varsel-rullegardinen. Då forsvinn indikatoren for ulest varsel. Varsel-rullegardinen kan sjå slik ut:

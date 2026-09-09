@@ -8,13 +8,13 @@ Wenn Sie einen Satz von Filtern häufig verwenden, können Sie diese oben in der
 
 **Umschalter** Aktivieren Sie die Filter-Umschalter, um die Suche einzugrenzen. Ein quadratischer Schalter bedeutet, dass mehrere Filter dieses Typs angewendet werden können. Ein runder Schalter bedeutet, dass nur ein Filter dieses Typs angewendet werden kann.
 
-**Ausschluss anderer Filter** Wenn Sie den Mauszeiger über einen der Filter im linken Bereich bewegen, kann auf der rechten Seite des Filters auf „nur
+**Ausschluss anderer Filter** Wenn Sie den Mauszeiger über einen der Filter im linken Bereich bewegen, kann auf der rechten Seite des Filters auf „nur“ geklickt werden, um alle anderen, zuvor angewendeten Filter zu entfernen.
 
 ## 2. **Leere Filter ausblenden**
 
-Die Schaltfläche „Leere Filter ausblenden
+Die Schaltfläche „Leere Filter ausblenden“ befindet sich oben in jedem Filtermenü. Standardmäßig ist die Schaltfläche eingeschaltet. Leere Filter beschreiben Filteroptionen, die zu den Ergebnissen in der Tabelle passen. Standardmäßig werden alle Filteroptionen, die Ergebnisse für eine der resultierenden Zeilen in der Tabelle liefern, im Filtermenü angezeigt. Filteroptionen ohne Ergebnisse, zum Beispiel ein Etikett, das auf keine Zeile in der Tabelle angewendet ist, werden daher nicht in der Tabelle angezeigt und können erscheinen, wenn die Schaltfläche ausgeschaltet wird.
 
-_Zeilenergebnisse, die durch Filter begrenzt werden_ Filter, die in einer Tabelle angewendet werden, grenzen die resultierenden Zeilen ein. Wenn der Schalter eingeschaltet ist, zeigt das Filtermenü nun Filteroptionen an, die auf die Zeilen im gefilterten Ergebnis zutreffen. Es scheint, dass einige Filteroptionen, die zuvor verfügbar waren, weil sie auf Zeilen zutreffen, die sich nicht mehr in den Suchergebnissen befinden, verschwinden, aber es ist einfach eine Eingrenzung der Optionen. Um auch Filter zu sehen, die nicht auf die gefilterten Ergebnisse zutreffen, schalten Sie die Schaltfläche „Leere Filter ausblenden
+_Zeilenergebnisse, die durch Filter begrenzt werden_ Filter, die in einer Tabelle angewendet werden, grenzen die resultierenden Zeilen ein. Wenn der Schalter eingeschaltet ist, zeigt das Filtermenü nun Filteroptionen an, die auf die Zeilen im gefilterten Ergebnis zutreffen. Es scheint, dass einige Filteroptionen, die zuvor verfügbar waren, weil sie auf Zeilen zutreffen, die sich nicht mehr in den Suchergebnissen befinden, verschwinden, aber es ist einfach eine Eingrenzung der Optionen. Um auch Filter zu sehen, die nicht auf die gefilterten Ergebnisse zutreffen, schalten Sie die Schaltfläche „Leere Filter ausblenden“ aus.
 
 ## 3. **Speichern eines neuen Satzes von Filtern**
 
@@ -53,31 +53,31 @@ Ihre Einstellungen zum Erweitern und Zurückziehen von Filtermenüs auf verschie
 Sie können Filter auf den folgenden Seiten speichern:
 
 - Hauptseite
-  - [Benachrichtigungsseite Konto](https://support.catenda.com/en/articles/7439223-account-notifications-page)
-  - Organisationstool
-    - [Benutzerseite](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-    - [Projektseite](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-    - [Projektmitgliedschaftsseite](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Benachrichtigungsseite Konto](https://support.catenda.com/en/articles/7439223-account-notifications-page)
+    - Organisationstool
+        - [Benutzerseite](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+        - [Projektseite](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+        - [Projektmitgliedschaftsseite](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 - Projekt
-  - [Thematable](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
-  - Modelle
-    - [Modellseite](https://support.catenda.com/en/articles/4670286-models-page)
-    - [Lesezeichenseite](https://support.catenda.com/en/articles/4670281-bookmarks-page)
-    - [Objektseite](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-  - Dokumente
-    - [Dokumentenseite](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-    - [Sammlungsseite](https://support.catenda.com/en/articles/6344318-collections-page)
-    - [Genehmigungsseite](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
-  - Berichte
-    - Seite Berichte
-  - Bibliotheken
-    - [Links-Bibliothek](https://support.catenda.com/en/articles/4670254-links-library)
-    - [Sharepoint-Bibliothek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-    - [Dropbox-Bibliothek](https://support.catenda.com/en/articles/8065645-libraries-page)
-    - [Eigenschaftswertbibliothek](https://support.catenda.com/en/articles/4670252-property-value-library)
-    - [Klassifikationsbibliothek](https://support.catenda.com/en/articles/4670255-classification-library)
-  - [Projektbenachrichtigungsseite](https://support.catenda.com/en/articles/4670295-project-notifications-page)
-  - Projekteinstellungen
-    - [Seite Benutzerdefinierte Felder](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-    - [Etikettenseite](https://support.catenda.com/en/articles/4670265-labels-page)
-    - [Seite Mitglieder](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
+    - [Thematable](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
+    - Modelle
+        - [Modellseite](https://support.catenda.com/en/articles/4670286-models-page)
+        - [Lesezeichenseite](https://support.catenda.com/en/articles/4670281-bookmarks-page)
+        - [Objektseite](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - Dokumente
+        - [Dokumentenseite](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+        - [Sammlungsseite](https://support.catenda.com/en/articles/6344318-collections-page)
+        - [Genehmigungsseite](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+    - Berichte
+        - Seite Berichte
+    - Bibliotheken
+        - [Links-Bibliothek](https://support.catenda.com/en/articles/4670254-links-library)
+        - [Sharepoint-Bibliothek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+        - [Dropbox-Bibliothek](https://support.catenda.com/en/articles/8065645-libraries-page)
+        - [Eigenschaftswertbibliothek](https://support.catenda.com/en/articles/4670252-property-value-library)
+        - [Klassifikationsbibliothek](https://support.catenda.com/en/articles/4670255-classification-library)
+    - [Projektbenachrichtigungsseite](https://support.catenda.com/en/articles/4670295-project-notifications-page)
+    - Projekteinstellungen
+        - [Seite Benutzerdefinierte Felder](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+        - [Etikettenseite](https://support.catenda.com/en/articles/4670265-labels-page)
+        - [Seite Mitglieder](https://support.catenda.com/en/articles/4670291-members-and-teams-page)

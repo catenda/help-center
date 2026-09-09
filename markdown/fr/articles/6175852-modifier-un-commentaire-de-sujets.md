@@ -5,7 +5,7 @@
 Vous pouvez modifier le(s) commentaire(s) du Sujets sur lequel vous avez déjà commenté :
 
 1. Cliquez sur le menu hamburger (3 points horizontaux) du commentaire concerné,
-2. Cliquez sur : Cliquez sur "**Modifier**",
+1. Cliquez sur : Cliquez sur "**Modifier**",
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/pwjqg6c5/01-intro.png)
 

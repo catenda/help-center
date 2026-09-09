@@ -2,9 +2,13 @@
 
 Om te voorkomen dat notificaties spam veroorzaken en een soepele introductie van nieuw gedrag of wijzigingen in bestaand gedrag te garanderen, kunnen deze geleidelijk en zonder voorafgaande kennisgeving worden uitgerold. Gebruikers die wijzigingen in het gedrag van een onderdeel van een pagina die zij regelmatig gebruiken opmerken, of zich afvragen wat er nieuw is, kunnen deze artikelen raadplegen voor updates over recente wijzigingen in gedrag voor alle gebruikers.
 
+De volgende topics zijn beschreven in dit artikel:
+
 ## 1. **Nieuwe releases**
 
 Elke gebruiker gebruikt het platform anders. Notificaties gemaakt op Zelfs als nieuwe functies worden uitgebracht of wijzigingen worden aangebracht, is het mogelijk dat gebruikers dat onderdeel van de functie niet gebruiken. Voor degenen die nieuwsgierig zijn wat "die nieuwe knop" of "die nieuwe pagina" op het platform is, bevat dit artikel een introductie van wat de wijziging inhoudt. Voor deze functies is vaak alleen basisch of enigszins verouderd ondersteunend materiaal beschikbaar, aangezien dit wordt bijgewerkt naarmate we voortgaan. Naast het helpen van mensen in de ondersteuning worden de artikelen regelmatig bijgewerkt en als vragen die werden gesteld snel kunnen worden gevonden, worden deze de volgende week in een artikel uitgelegd.
+
+De volgende topics zijn beschreven in deze sectie:
 
 ### 1.1 **Nieuwe statusworkflow - ISO 19650**
 
@@ -30,6 +34,8 @@ Het is vaak het beste om deze functie aan het begin van een nieuw project in te 
 ## 2. **On-demand functies inschakelen**
 
 Sommige functies kunnen door de contactpersoon voor uw Catenda-licentie worden aangevraagd voor bestaande projecten, terwijl andere kunnen worden ingeschakeld met een instelling in het project. Wanneer een nieuwe functie wordt aangevraagd om in te schakelen, wordt een vergadering ingepland met een ondersteuningsvertegenwoordiger om de huidige status van de functie te bespreken. Als er nog geen project beschikbaar is waar de nieuwe functie kan worden getest, wordt een dummy-project aangemaakt voor een beperkte tijd waarin de nieuwe functie kan worden getest.
+
+De volgende topics zijn beschreven in deze sectie:
 
 ### 2.1 **Aanvraag voor on-demand functies inschakelen**
 

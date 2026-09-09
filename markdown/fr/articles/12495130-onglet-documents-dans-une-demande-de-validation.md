@@ -27,20 +27,17 @@ Cliquez [ici](https://support.catenda.com/en/articles/12495638-approval-request-
 ### 3.1 **Colonnes**
 
 - **Nom :** Affiche le nom du document et le type de document avec l'icône.<br>En cliquant sur le titre, vous pouvez afficher directement le document dans l'environnement d'approbation.
-
 - **Révision :** Affiche le nom de révision du Document
-
 - **# :** Affiche quelle version/révision du Document à l'intérieur de la validation il s'agit.
-  - Lorsqu'un document est ajouté à une approbation, il affichera le numéro de révision majeure et mineure qui peut ressembler à ceci:<br>
+    - Lorsqu'un document est ajouté à une approbation, il affichera le numéro de révision majeure et mineure qui peut ressembler à ceci:<br>
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
-  - Si la révision partagée sélectionnée a été publiée pour devenir la dernière révision publiée du document en dehors de la demande d'approbation actuelle, cela peut ressembler à ceci:<br>
+    - Si la révision partagée sélectionnée a été publiée pour devenir la dernière révision publiée du document en dehors de la demande d'approbation actuelle, cela peut ressembler à ceci:<br>
 
-      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
+        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 
 - **Étape « x » :** Affiche avec une barre quel est le Statut de l'étape.
-
 - **Approbation finale :** Cette colonne affiche l'approbation finale ; lorsqu'elle est activée, l'icône s'affiche en couleur.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/04-columns.png)

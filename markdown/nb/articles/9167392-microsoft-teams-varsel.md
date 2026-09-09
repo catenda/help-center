@@ -70,18 +70,14 @@ Følg disse trinnene for å opprette en ny Microsoft Teams **Workflow** webhook.
 Følg disse trinnene for å konfigurere webhook-lenken i Catenda. På denne måten vet Catenda hvor prosjektvarslene skal sendes.
 
 1. Logg inn på **Catenda Hub**.
-
-2. Naviger til **Varsel>Innstillinger** (på konto- eller prosjektnivå).
-
-3. Velg "Microsoft Teams"-fanen og scroll helt ned.
-
-4. Lim inn den kopierte URL-en i feltet **Webhook URL**.
-
-5. Klikk **Lagre**.
+1. Naviger til **Varsel>Innstillinger** (på konto- eller prosjektnivå).
+1. Velg "Microsoft Teams"-fanen og scroll helt ned.
+1. Lim inn den kopierte URL-en i feltet **Webhook URL**.
+1. Klikk **Lagre**.
 
     <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
 
-6. **Aktiver varsel**: Kontroller at vekslingen øverst på siden er satt til **På**.<br>
+1. **Aktiver varsel**: Kontroller at vekslingen øverst på siden er satt til **På**.<br>
 
     <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
 

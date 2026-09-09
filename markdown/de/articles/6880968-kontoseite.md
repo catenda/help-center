@@ -3,7 +3,7 @@
 Ihre [Kontoeinstellungen](https://bimsync.com/account/profile) finden Sie an zwei Stellen:
 
 1. Auf der linken Seite der **Startseite** von Catenda Hub.
-2. Im Dropdown-Menü, das nach dem Klicken auf Ihr **Profilbild** überall in Catenda Hub angezeigt wird.
+1. Im Dropdown-Menü, das nach dem Klicken auf Ihr **Profilbild** überall in Catenda Hub angezeigt wird.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/01-intro.png)
 
@@ -57,9 +57,9 @@ In [Authentifizierung](https://bimsync.com/account/authentication) können Sie:
 
 1. Passwort ändern
 
-   Klicken Sie [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) zur Fehlerbehebung bei Passwörtern
+    Klicken Sie [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) zur Fehlerbehebung bei Passwörtern
 
-2. [MFA aktivieren und deaktivieren.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
+1. [MFA aktivieren und deaktivieren.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
 
 ![Steuern Sie, wie Sie sich anmelden](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/07-authentication.png)
 

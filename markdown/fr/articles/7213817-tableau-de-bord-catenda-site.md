@@ -5,15 +5,15 @@ Après avoir sélectionné votre projet sur la [page des projets](https://suppor
 Sur cette page, vous pouvez consulter l'état de vos topics, choisir ou modifier les issue boards que vous souhaitez afficher et filtrer les topics.
 
 1. Pour modifier les issue boards, sélectionnez un issue board dans la liste déroulante des issue boards
-2. Choisissez le filtre que vous souhaitez utiliser pour voir vos topics
-   - Topics ouverts (l'issue board sélectionné)
-   - Tous les topics ouverts (tous les issue boards)
-   - Topics fermés (l'issue board sélectionné)
-   - Tous les topics fermés (tous les issue boards)
-   - Demandé par moi
-   - Tous les topics candidats
-   - Topics en retard
-   - À échéance dans 2 semaines
+1. Choisissez le filtre que vous souhaitez utiliser pour voir vos topics
+    - Topics ouverts (l'issue board sélectionné)
+    - Tous les topics ouverts (tous les issue boards)
+    - Topics fermés (l'issue board sélectionné)
+    - Tous les topics fermés (tous les issue boards)
+    - Demandé par moi
+    - Tous les topics candidats
+    - Topics en retard
+    - À échéance dans 2 semaines
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/9brynk3y/01-intro.png)
 

@@ -6,11 +6,11 @@ Met de naamgevingsafspraak is het gewenst dat alles uniek benoemd, gecontroleerd
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-8d2926a56c34.png" style="height: auto;" width="1920"/></div>
 
-2. Schakel het datumblok in de naamgevingsafspraak uit. Dit werkt in de kolom Documentherkenning. Dit blok is dan niet opgenomen in de query. Het wordt dan ook niet weergegeven in de naam (documentgebied).
+1. Schakel het datumblok in de naamgevingsafspraak uit. Dit werkt in de kolom Documentherkenning. Dit blok is dan niet opgenomen in de query. Het wordt dan ook niet weergegeven in de naam (documentgebied).
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-a2fc3b4afcfe.png" style="height: auto;" width="1920"/></div>
 
-   Hiervoor kunt u de kolom "Naam de Revisie" weergeven, die de originele naam toont.
+    Hiervoor kunt u de kolom "Naam de Revisie" weergeven, die de originele naam toont.
 
     <div class="intercom-container"><img height="910" src="https://raw.githubusercontent.com/catenda/help-center/main/images/jzbw5hey/inline-1b1cee11c3c8.png" style="height: auto;" width="1920"/></div>
 

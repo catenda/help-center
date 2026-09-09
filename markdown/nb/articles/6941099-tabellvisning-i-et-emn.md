@@ -26,7 +26,7 @@ Klikk [her](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-b
 
 Når tabellen først lastes inn, vises opptil 100 rader. Hvis det er mer enn 100 rader i tabellen, ruller du ned til bunnen for å laste inn de neste 100 radene.
 
-**Sakrad** Åpning av innholdet i en sakrad endrer tabellen til å vise innholdet i den saken på sakssiden.
+_Sakrad_ Åpning av innholdet i en sakrad endrer tabellen til å vise innholdet i den saken på sakssiden.
 
 ### 1.4 **Kolonner**
 
@@ -42,9 +42,9 @@ Velg en avmerkingsboks for å velge en sak fra listen. Du kan også klikke hvor 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/03-1-selecting-topics-with-selection-box.png)
 
-**Radvalg** Etter å ha valgt en sak kan du `shift + klikk` for å velge alle saker mellom.
+_Radvalg_ Etter å ha valgt en sak kan du `shift + klikk` for å velge alle saker mellom.
 
-**Rediger utvalg** Du kan også `ctrl + klikk` for å legge til/fjerne sak fra utvalget
+_Rediger utvalg_ Du kan også `ctrl + klikk` for å legge til/fjerne sak fra utvalget
 
 ### 2.2 **2. Velg alle**
 

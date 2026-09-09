@@ -22,15 +22,15 @@ Saksliste-separasjon forhindrer informasjonsoverbelastning, egendefinerte status
 
 ## 2. **Roller og ansvar**
 
-**Strukturleder** Marcus Rodriguez administrerer koordinering av stålramme ved hjelp av dedikerte Struktur-MEP-saklister. Han filtrerer saker etter tildelt status og løser strukturelle konflikter innen 48 timer ved hjelp av milepælssporing.
+_Strukturleder_ Marcus Rodriguez administrerer koordinering av stålramme ved hjelp av dedikerte Struktur-MEP-saklister. Han filtrerer saker etter tildelt status og løser strukturelle konflikter innen 48 timer ved hjelp av milepælssporing.
 
-**MEP-koordineringsleder** Lisa Park fører tilsyn med mekaniske systemer gjennom MEP-spesifikke saklister. Hun bruker merkelapper til å prioritere kritiske problemer og administrerer rutingkonflikter gjennom egendefinerte statusarbeidsflyter.
+_MEP-koordineringsleder_ Lisa Park fører tilsyn med mekaniske systemer gjennom MEP-spesifikke saklister. Hun bruker merkelapper til å prioritere kritiske problemer og administrerer rutingkonflikter gjennom egendefinerte statusarbeidsflyter.
 
-**Arkitektonisk designleder** David Kim opprettholder designintensjon gjennom Arkitektur-MEP-integreringstavler. Han gjennomgår clash-løsninger ved hjelp av milepæler-filtre og godkjenner designendringer med riktige statusoppdateringer.
+_Arkitektonisk designleder_ David Kim opprettholder designintensjon gjennom Arkitektur-MEP-integreringstavler. Han gjennomgår clash-løsninger ved hjelp av milepæler-filtre og godkjenner designendringer med riktige statusoppdateringer.
 
-**Stedsbyggeleder** Jennifer Walsh bruker mobil tilgang med merkelappfiltre for å fokusere på etasjebaserte problemer. Hun oppretter stedsbaserte saker og lenker dem til eksisterende koordineringsmilepæler.
+_Stedsbyggeleder_ Jennifer Walsh bruker mobil tilgang med merkelappfiltre for å fokusere på etasjebaserte problemer. Hun oppretter stedsbaserte saker og lenker dem til eksisterende koordineringsmilepæler.
 
-**Viktige observasjoner** Hver rolle arbeider innen spesifikke saklister, bruker merkelapper for filtrering, og sporer fremdrift gjennom milepælsintegrasjon.
+_Viktige observasjoner_ Hver rolle arbeider innen spesifikke saklister, bruker merkelapper for filtrering, og sporer fremdrift gjennom milepælsintegrasjon.
 
 ### 2.1 **Virkelig bruksmønster: Metro Transit Hub**
 
@@ -94,27 +94,27 @@ Du er en meister innen digital koordinering som trives i høytrykksuker der tuse
 
 Ditt mål er å transformere et enormt datasett til en handlingsorientert arbeidsflyt ved å:
 
-**Separering av saklister:** Organisering av tusenvis av saker i kategoribaserte tavler for å forhindre datasiloer.
+_Separering av saklister:_ Organisering av tusenvis av saker i kategoribaserte tavler for å forhindre datasiloer.
 
-**Definering av livssykluser:** Etablering av klare statusverdier og typer for hver tavle for å sikre at design følger en streng valideringsbane.
+_Definering av livssykluser:_ Etablering av klare statusverdier og typer for hver tavle for å sikre at design følger en streng valideringsbane.
 
-**Sikring av ansvar:** Fordeling av arbeidsmengde på tvers av team for å sikre at milepælblokkering av problemer blir løst før formelle vurderinger.
+_Sikring av ansvar:_ Fordeling av arbeidsmengde på tvers av team for å sikre at milepælblokkering av problemer blir løst før formelle vurderinger.
 
-**Tilbud av transparens:** Oppretting av et uangripelig revisjonslogg for hver beslutning, revisjon og godkjenning.
+_Tilbud av transparens:_ Oppretting av et uangripelig revisjonslogg for hver beslutning, revisjon og godkjenning.
 
 ### 5.4 **Situasjon**
 
 Prosjektet går inn i en kritisk koordineringsfase, og clash-deteksjonsprogramvaren din har nettopp identifisert tusenvis av problemer. For å administrere dette i Catenda Hub implementerer du følgende system:
 
-**Saksliste-separasjon:** Du oppretter distinkte tavler basert på disiplin (f.eks. struktur, MEP, arkitektur) eller alvorlighetsgrad. Dette holder tekniske iterasjoner organiserte og søkbare.
+_Saksliste-separasjon:_ Du oppretter distinkte tavler basert på disiplin (f.eks. struktur, MEP, arkitektur) eller alvorlighetsgrad. Dette holder tekniske iterasjoner organiserte og søkbare.
 
-**Konfigurering av statusverdier og typer:** For hver tavle konfigurerer du spesifikke typer (f.eks. clash, RFI, advarsel) og statusverdier (f.eks. aktiv, pågår, løst, godkjent). Dette sikrer at livssyklusen til hvert koordineringspunkt spores i henhold til ISO 19650-standarder.
+_Konfigurering av statusverdier og typer:_ For hver tavle konfigurerer du spesifikke typer (f.eks. clash, RFI, advarsel) og statusverdier (f.eks. aktiv, pågår, løst, godkjent). Dette sikrer at livssyklusen til hvert koordineringspunkt spores i henhold til ISO 19650-standarder.
 
-**Sporing via milepæler:** Du lenker saker på tvers av ulike tavler til prosjektmilepæler. Dette gjør det mulig for deg å spore sanntidshelse og identifisere nøyaktig hvilke clash som vil blokkere prosjektets fortsettelse hvis de ikke blir løst innen en bestemt dato.
+_Sporing via milepæler:_ Du lenker saker på tvers av ulike tavler til prosjektmilepæler. Dette gjør det mulig for deg å spore sanntidshelse og identifisere nøyaktig hvilke clash som vil blokkere prosjektets fortsettelse hvis de ikke blir løst innen en bestemt dato.
 
-**Gruppering med merkelapper:** Du bruker merkelapper til å gruppere saker etter etasje, prioritet eller teknisk system. Dette forbedrer søkbarheten betydelig, slik at fagpersoner raskt kan filtrere og finne problemene de er ansvarlige for.
+_Gruppering med merkelapper:_ Du bruker merkelapper til å gruppere saker etter etasje, prioritet eller teknisk system. Dette forbedrer søkbarheten betydelig, slik at fagpersoner raskt kan filtrere og finne problemene de er ansvarlige for.
 
-**Fordeling av arbeidsmengde:** Du deler ansvar ved å tildele saker til spesifikke medlemmer eller tverrfaglige team. Ved å lenke saker direkte til BIM-objekter og 3D-visninger sikrer du at struktur- eller MEP-lederen kan finne, diskutere og løse problemet uten noen gang å forlate sitt eget redigeringsmiljø.
+_Fordeling av arbeidsmengde:_ Du deler ansvar ved å tildele saker til spesifikke medlemmer eller tverrfaglige team. Ved å lenke saker direkte til BIM-objekter og 3D-visninger sikrer du at struktur- eller MEP-lederen kan finne, diskutere og løse problemet uten noen gang å forlate sitt eget redigeringsmiljø.
 
 ### 5.5 **Insentiv**
 

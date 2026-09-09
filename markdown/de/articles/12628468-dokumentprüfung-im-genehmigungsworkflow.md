@@ -40,7 +40,7 @@ Wenn Sarah ihre Prüfungen nicht rechtzeitig abschließt, entstehen Verzögerung
 
 ## 3. **Zugriff auf Ihre Genehmigungsaufgaben**
 
-Navigieren Sie zur Registerkarte „Dokumente
+Navigieren Sie zur Registerkarte „Dokumente“ in Ihrer Genehmigungsanfrage, auf der Sie Validierungsangaben für jedes Dokument einreichen. Die Tabelle der Dokumentgenehmigungen zeigt jedes Dokument als Zeile an. Klicken Sie auf eine beliebige Dokumentzeile, um sie für eine genaue Prüfung auszuwählen.
 
 ### 3.1 **Dokumente zur Prüfung öffnen**
 

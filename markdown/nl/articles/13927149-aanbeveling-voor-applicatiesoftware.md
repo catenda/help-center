@@ -7,8 +7,8 @@ Controleer of u browserextensies of andere programma's hebt die uw Catenda Hub-e
 **Beste browser naar geheugengebruik op Windows (maart 2026):**
 
 1. Firefox
-2. Chrome
-3. Microsoft Edge
+1. Chrome
+1. Microsoft Edge
 
 ### 1.1 **Zoomschaal**
 

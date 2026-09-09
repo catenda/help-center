@@ -164,7 +164,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Last opp en zip / filstruktur](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7945410-opplasting-av-zip-filstruktur.md)
 - [Laster opp et dokument](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670278-laster-opp-et-dokument.md)
 - [Laster opp ny dokumentrevisjon](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670293-laster-opp-ny-dokumentrevisjon.md)
-- [Legg til kontekst til prosjektene dine med fritt tilgjengelige IGN-punktskyer (HD LiDAR)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12498975-legg-til-kontekst-til-prosjektene-dine-med-fritt-tilgjengelige-ign-punktskyer-hd-lidar.md)
+- [Legg til gratis IGN-punktskyer (HD LiDAR) i et prosjekt](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12498975-legg-til-kontekst-til-prosjektene-dine-med-fritt-tilgjengelige-ign-punktskyer-hd-lidar.md)
 - [Legg til på startskjermen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10741601-legg-til-på-startskjermen.md)
 - [Legg til revision i en gjennomgang - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12382093-legg-til-revision-i-en-gjennomgang-legacy.md)
 - [Legg til revisjon i gjennomgangsforespørselen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12495012-legg-til-revisjon-i-gjennomgangsforespørselen.md)
@@ -288,7 +288,7 @@ Korte videoer
 - [Offentlige bokmerker - Kort video](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6423215-offentlige-bokmerker-kort-video.md)
 - [Opprett en ny gjennomgangsmall for arbeidsflyt – Kort video](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12458313-opprett-en-ny-gjennomgangsmall-for-arbeidsflyt-kort-video.md)
 - [Opprett en sak - Kortvideo](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6423165-opprett-en-sak-kortvideo.md): kortvideo
-- [Opprett en sak fra en eksisterende sak - Kort video](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6423271-opprett-en-sak-fra-en-eksisterende-sak-kort-video.md)
+- [Opprett en saksliste fra en eksisterende - Kort video](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6423271-opprett-en-sak-fra-en-eksisterende-sak-kort-video.md)
 - [Opprette en ny gjennomgangsarbeidsflyt - Kort video](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12457430-opprette-en-ny-gjennomgangsarbeidsflyt-kort-video.md)
 - [Quantity Take Off (QTO) - Kort video](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6707924-quantity-take-off-qto-kort-video.md)
 - [Rediger kommentar i saker - Kort video](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6423183-rediger-kommentar-i-saker-kort-video.md)
@@ -306,8 +306,8 @@ Typiske brukstilfeller fra industrien og hvordan Catenda Hub kan støtte dine pr
 - [Administrering av Clash-koordinering i stor skala](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13845605-administrering-av-clash-koordinering-i-stor-skala.md)
 - [Administrering av gjennomganger som administrator](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12620829-administrering-av-gjennomganger-som-administrator.md)
 - [Bruk av revisjonsnavn](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/15886912-bruk-av-revisjonsnavn.md): Utforsk praktiske eksempler på revisjonsnavn. Lær hvordan team balanserer plass og lesbarhet ved hjelp av versjonsekvenser, statuskartlegging og kompakte YYMMDD eller klare YYYYMMDD-prefikser optimalisert for kronologisk dokumentsortering.
-- [Designvurdering og endringsordrer i et høyhus-byggeprosjekt](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12323690-designvurdering-og-endringsordrer-i-et-høyhus-byggeprosjekt.md): Industri: Kommersiell konstruksjon Persona: Maria, en prosjektarkitekt ved et stort firma.
-- [Digital Design Koordinering og Problemløsning for et Sykehusprosjekt](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12320207-digital-design-koordinering-og-problemløsning-for-et-sykehusprosjekt.md): Industri: Helsekonstruksjon / BIM (Building Information Modeling) Persona: David, en BIM-koordinator for en stor generalentreprenør.
+- [Designkoordinering og problemløsning - Sykehus](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12320207-digital-design-koordinering-og-problemløsning-for-et-sykehusprosjekt.md): Industri: Helsekonstruksjon / BIM (Building Information Modeling) Persona: David, en BIM-koordinator for en stor generalentreprenør.
+- [Designvurdering og endringsordrer på en høyhus](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12323690-designvurdering-og-endringsordrer-i-et-høyhus-byggeprosjekt.md): Industri: Kommersiell konstruksjon Persona: Maria, en prosjektarkitekt ved et stort firma.
 - [Dokumentvurdering i gjennomgangsprosess](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12628468-dokumentvurdering-i-gjennomgangsprosess.md)
 - [Endelige gjennomgangsbeslutninger gjort enkelt](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12629484-endelige-gjennomgangsbeslutninger-gjort-enkelt.md)
 - [Send inn og håndter gjennomganger: Veiledning for utarbeidere](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12627979-send-inn-og-håndter-gjennomganger-veiledning-for-utarbeidere.md)
@@ -338,18 +338,17 @@ Her finner du svar på spørsmål som mange brukere har
 - [Hva er et CDE (Common Data Environment)?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6062310-hva-er-et-cde-common-data-environment.md)
 - [Hva er modeller i Catenda?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670323-hva-er-modeller-i-catenda.md)
 - [Hvilken filstørrelse kan jeg laste opp?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670324-er-det-en-storrelsebegrensning-for-ifc-filer.md)
-- [Hvilken revisjon av en modell vil åpnes når jeg klikker på et bokmerke?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670332-hvilken-revisjon-av-en-modell-vil-åpnes-når-jeg-klikker-på-et-bokmerke.md)
+- [Hvilken modellrevision åpner et bokmerke?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670332-hvilken-revisjon-av-en-modell-vil-åpnes-når-jeg-klikker-på-et-bokmerke.md)
 - [Hvor du finner varsel](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670261-hvor-du-finner-varsel.md)
 - [Hvor finner jeg GUID for IFC-objektet?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670333-hvor-finner-jeg-guid-for-ifc-objektet.md)
+- [Hvordan gjør jeg andre modeller gjennomsiktige?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670328-hvordan-kan-jeg-få-én-model-til-å-vises-fullt-ut-mens-jeg-gjør-alle-andre-modeller-halvgjennomsiktige.md)
 - [Hvordan kan jeg eksportere IFC-filer?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670326-hvordan-kan-jeg-eksportere-ifc-filer.md)
 - [Hvordan kan jeg finne hvilken model et objekt tilhører?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670329-hvordan-kan-jeg-finne-hvilken-model-et-objekt-tilhører.md)
 - [Hvordan kan jeg fjerne en gruppe som er knyttet til en merkelapp?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670316-hvordan-kan-jeg-fjerne-en-gruppe-som-er-knyttet-til-en-merkelapp.md)
-- [Hvordan kan jeg få én model til å vises fullt ut, mens jeg gjør alle andre modeller halvgjennomsiktige?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670328-hvordan-kan-jeg-få-én-model-til-å-vises-fullt-ut-mens-jeg-gjør-alle-andre-modeller-halvgjennomsiktige.md)
 - [Hvordan kan jeg invitere et medlem?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670319-hvordan-kan-jeg-invitere-et-medlem.md)
 - [Hvordan kan jeg lenke et dokument til et objekt i Catenda Hub?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670322-hvordan-kan-jeg-lenke-et-dokument-til-et-objekt-i-catenda-hub.md)
 - [Hvordan kan jeg vise rom i Catenda Hub?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670315-hvordan-kan-jeg-vise-rom-i-catenda-hub.md)
-- [Hvorfor mottar jeg fortsatt ikke varsel etter å ha merket alle boksene?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670318-hvorfor-mottar-jeg-fortsatt-ikke-varsel-etter-å-ha-merket-alle-boksene.md)
-- [Jeg har en stor IFC-fil. Skal jeg bruke Solibri Optimizer før jeg laster opp filene til Catenda Hub?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670325-jeg-har-en-stor-ifc-fil-skal-jeg-bruke-solibri-optimizer-før-jeg-laster-opp-filene-til-catenda-hub.md)
+- [Hvorfor mottar jeg ikke varsel?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670318-hvorfor-mottar-jeg-fortsatt-ikke-varsel-etter-å-ha-merket-alle-boksene.md)
 - [Kan et standardmedlem invitere nye medlemmer til et prosjekt?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670321-kan-et-standardmedlem-invitere-nye-medlemmer-til-et-prosjekt.md)
 - [Lagring og deling av filterlenke](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/11401493-lagring-og-deling-av-filterlenke.md)
 - [Maskinvareanbefalinger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/6921941-system-anbefalinger.md): Finn anbefalte maskinvarespecifikasjoner og optimaliseringstips for best mulig opplevelse med Catenda Hub.
@@ -358,6 +357,7 @@ Her finner du svar på spørsmål som mange brukere har
 - [Organisasjonsverktøy FAQ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/10475849-organisasjonsverktøy-faq.md)
 - [Plassering og funksjonalitet for støtteknappen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8894066-plassering-og-funksjonalitet-for-støtteknappen.md)
 - [Prosjektsikkerhet](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8263256-prosjektsikkerhet.md)
+- [Skal jeg kjøre Solibri Optimizer på en stor IFC-fil?](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670325-jeg-har-en-stor-ifc-fil-skal-jeg-bruke-solibri-optimizer-før-jeg-laster-opp-filene-til-catenda-hub.md)
 - [Sorteringsrekkefølge for lister](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8487788-sorteringsrekkefølge-for-lister.md)
 - [Status Workflow - API-oppdateringer](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12289689-status-workflow-api-oppdateringer.md): Introduksjon av API-endringer for den nye Status Workflow-funksjonen, der vi differensierer mellom delt og publisert status i samsvar med ISO 19650. Denne artikkelen er rettet mot kunder og integreringspartnere som bruker Catenda API.
 - [Strukturering av dokumenter](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8542598-strukturering-av-dokumenter.md)
@@ -420,7 +420,7 @@ Påloggingsproblemer, ytelsesproblemer, support osv.
 
 - [3D-øyeblikksbilder - Feilsøking](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12831346-3d-øyeblikksbilder-feilsøking.md)
 - [Catenda Site - Feilsøking](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/11926914-catenda-site-feilsøking.md)
-- [Desktop Connector feilsøking - Ikke alle mapper har blitt lastet ned](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13772277-desktop-connector-feilsøking-ikke-alle-mapper-har-blitt-lastet-ned.md)
+- [Desktop Connector - ikke alle mapper lastet ned](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13772277-desktop-connector-feilsøking-ikke-alle-mapper-har-blitt-lastet-ned.md)
 - [Feilsøking av Desktop Connector](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/11019637-feilsøking-av-desktop-connector.md)
 - [Feilsøking av innhold i egendefinert felt](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13750419-feilsøking-av-innhold-i-egendefinert-felt.md)
 - [Feilsøking av zip-nedlasting](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13399638-feilsøking-av-zip-nedlasting.md)

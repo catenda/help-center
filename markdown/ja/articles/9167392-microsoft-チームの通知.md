@@ -24,7 +24,7 @@ Microsoft チームワークフローが設定された後、Catenda通知が Mi
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/04-step-1-prepare-a-dedicated-channel.png)
 
-チームが作成されると、general というチャネルが自動的に追加されます。3\. 既存のチャネルを使用するか(このステップをスキップ)、チャネルを追加します。チームを右クリックしてアクション メニューで「チャネルを追加」を選択するか、チームをクリックして右上の\*\*「チャネルを追加」\*\*をクリックします。_必要なアクセス権限:_ チームのオーナーまたはメンバー。
+チームが作成されると、general というチャネルが自動的に追加されます。3\. 既存のチャネルを使用するか(このステップをスキップ)、チャネルを追加します。チームを右クリックしてアクション メニューで「チャネルを追加」を選択するか、チームをクリックして右上の**「チャネルを追加」**をクリックします。_必要なアクセス権限:_ チームのオーナーまたはメンバー。
 
 ![Microsoft チーム Catenda 統合 チャット チャネル チャネルを追加 メンバー 分析 アプリ タグ すべてのチャネルを非表示 メンバーを追加 チームを管理 タグを管理 リンクをコピー チームから退出](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/05-step-1-prepare-a-dedicated-channel.png)
 
@@ -53,7 +53,7 @@ Microsoft チームワークフローが設定された後、Catenda通知が Mi
 
 <img alt="Microsoft チームチャネルアクションメニュー、ワークフローがハイライトされている。" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-f533eea19d48.png" width="290"/>  \<---> <img alt="Microsoft チームチャネルのアクションメニュー、ワークフローがハイライトされている。" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-1a6a43fe9eec.png" width="290"/>
 
-4\. \*\*"チャネルに webhook アラートを送信"\*\*を検索して選択します。
+4\. **"チャネルに webhook アラートを送信"**を検索して選択します。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/07-step-2-generate-your-teams-webhook-url.png)
 
@@ -70,18 +70,14 @@ Microsoft チームワークフローが設定された後、Catenda通知が Mi
 以下の手順に従って、webhook リンクを Catenda で設定します。これにより、Catenda はプロジェクト通知を送信する場所を認識します。
 
 1. **Catenda Hub** にログインします。
-
-2. **通知>設定**に移動します(アカウント レベルまたはプロジェクト レベル)。
-
-3. 「Microsoft チーム」タブを選択して、一番下までスクロールします。
-
-4. コピーした URL を **Webhook URL** フィールドに貼り付けます。
-
-5. **保存**をクリックします。
+1. **通知>設定**に移動します(アカウント レベルまたはプロジェクト レベル)。
+1. 「Microsoft チーム」タブを選択して、一番下までスクロールします。
+1. コピーした URL を **Webhook URL** フィールドに貼り付けます。
+1. **保存**をクリックします。
 
     <div class="intercom-container intercom-align-center"><img height="320" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a60f9c2dbac8.png" style="height: auto;" width="500"/></div>
 
-6. **通知を有効にする**: ページ上部のトグルが**オン**に切り替わっていることを確認してください。<br>
+1. **通知を有効にする**: ページ上部のトグルが**オン**に切り替わっていることを確認してください。<br>
 
     <div class="intercom-container intercom-align-center"><img height="159" src="https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/inline-a3e9aa9365d2.png" style="height: auto;" width="500"/></div>
 

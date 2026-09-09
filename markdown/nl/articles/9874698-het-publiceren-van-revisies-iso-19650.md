@@ -152,11 +152,11 @@ Alleen gepubliceerde revisies zijn zichtbaar in Catenda Site.
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-868820a898ba.png" width="500"/></div>
 
-2. Documentstatus kan vervolgens [geconfigureerd](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) worden vanuit de instellingen in de documentsectie:
+1. Documentstatus kan vervolgens [geconfigureerd](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) worden vanuit de instellingen in de documentsectie:
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-931418a5fab1.png" width="500"/></div>
 
-3. Ten slotte kunnen deze documentstatussen worden toegewezen aan de status voor bestandsbeoordeling, toegankelijk vanuit de knop met drie punten rechtsboven in de [sectie Goedkeuringen](https://support.catenda.com/en/articles/8349340-approvals-page). Het is ook mogelijk om hier een onderwerpsjabloon te configureren.
+1. Ten slotte kunnen deze documentstatussen worden toegewezen aan de status voor bestandsbeoordeling, toegankelijk vanuit de knop met drie punten rechtsboven in de [sectie Goedkeuringen](https://support.catenda.com/en/articles/8349340-approvals-page). Het is ook mogelijk om hier een onderwerpsjabloon te configureren.
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-3cdbebefca38.png" width="500"/></div>
 
@@ -165,20 +165,20 @@ Alleen gepubliceerde revisies zijn zichtbaar in Catenda Site.
 ## 5. **Goedkeuringswerkflow**
 
 1. Een goedkeuringswerkflow wordt door een beheerder gemaakt.
-   1. Team indieners
-   2. Beoordelarenteam (minimaal één goedkeuringsstap is vereist)
-   3. Team eindbeoordelaar
-2. Een lid van een indienersteam dient een goedkeuringsaanvraag met een reeks gedeelde revisies in op de goedkeuringspagina.
-3. Leden van de indienersteams die aan de stap zijn toegewezen, beoordelen de documenten die in de goedkeuring zijn ingediend en geven een goedgekeurd of afgewezen validatie.
-4. Nadat alle stappen zijn voltooid, beoordeelt een lid van het eindbeoordelarenteam de validaties die namens de verschillende teams in elke stap zijn ingediend en geeft hun uiteindelijke validatie van goedgekeurd, goedgekeurd met opmerking of afgewezen.
-   1. De eindgoedkeurder kan een definitieve, ingelijchte beslissing nemen of dit document moet worden gepubliceerd (goedgekeurd) of afgewezen (als gedeeld blijft)
+    1. Team indieners
+    1. Beoordelarenteam (minimaal één goedkeuringsstap is vereist)
+    1. Team eindbeoordelaar
+1. Een lid van een indienersteam dient een goedkeuringsaanvraag met een reeks gedeelde revisies in op de goedkeuringspagina.
+1. Leden van de indienersteams die aan de stap zijn toegewezen, beoordelen de documenten die in de goedkeuring zijn ingediend en geven een goedgekeurd of afgewezen validatie.
+1. Nadat alle stappen zijn voltooid, beoordeelt een lid van het eindbeoordelarenteam de validaties die namens de verschillende teams in elke stap zijn ingediend en geeft hun uiteindelijke validatie van goedgekeurd, goedgekeurd met opmerking of afgewezen.
+    1. De eindgoedkeurder kan een definitieve, ingelijchte beslissing nemen of dit document moet worden gepubliceerd (goedgekeurd) of afgewezen (als gedeeld blijft)
 
 ### 5.1 **Verouderde goedkeuringswerkflow**
 
 1. Een goedkeuringsaanvraag benoemt een Uitgever (persoon verantwoordelijk voor het nemen van de uiteindelijke beslissing over de publicatie) en een of meer Beoordelaars, verantwoordelijk voor het valideren (of niet) van de set documenten
-2. Elke beoordelaar bepaalt of het gedeelde document wordt goedgekeurd, goedgekeurd met opmerking of afgewezen
-3. Aan het einde van de beoordeling kiest de Uitgever het resultaat van de goedkeuring door de documenten te selecteren die moeten worden gepubliceerd.
-4. Vanuit de goedkeuringsinstellingen kunnen onderwerpen met betrekking tot de documenten worden aangemaakt om het proces later bij te houden
+1. Elke beoordelaar bepaalt of het gedeelde document wordt goedgekeurd, goedgekeurd met opmerking of afgewezen
+1. Aan het einde van de beoordeling kiest de Uitgever het resultaat van de goedkeuring door de documenten te selecteren die moeten worden gepubliceerd.
+1. Vanuit de goedkeuringsinstellingen kunnen onderwerpen met betrekking tot de documenten worden aangemaakt om het proces later bij te houden
 
 Een gedetailleerde demonstratie van deze stappen wordt in de volgende zelfstudie getoond:
 
