@@ -30,14 +30,10 @@ Wenn ein neuer Genehmigungsworkflow zum ersten Mal erstellt wird, müssen alle g
 
 Wenn bei dem Versuch, einen neuen Workflow zu speichern, ein erforderliches Feld unvollständig ist, zeigt das System ein Warnbanner vor der Einreichung oben auf der Seite an und blockiert die Vorlagenerstellung. Erforderliche Felder umfassen:
 
-- **2.1.1 Workflow-Titel**
-  Ein eindeutiger, beschreibender Name für den Workflow.
-- **2.1.2 Absender-Teams**
-  Mindestens ein Projektteam, das zum Starten von Genehmigungsanfragen zugewiesen ist.
-- **2.1.3 Review-Schritte**
-  Mindestens ein Review-Schritt mit einem zugeordneten Reviewer-Team und einer Dauer von mindestens **1 Arbeitstag**.
-- **2.1.4 Endgültige Genehmigung**
-  Ein zugeordnetes finales Review-Team zusammen mit zwei aktiven Projektdokumentstatus – einer für genehmigte Revisionen und einer für abgelehnte Revisionen zugeordnet.
+- **2.1.1 Workflow-Titel**<br>Ein eindeutiger, aussagekräftiger Name für den Workflow.
+- **2.1.2 Submitter-Teams**<br>Mindestens ein Projektteam, das Genehmigungsanfragen starten kann.
+- **2.1.3 Review-Schritte**<br>Mindestens ein Review-Schritt mit einem zugewiesenen Reviewer-Team und einer Dauer von mindestens **1 Arbeitstag**.
+- **2.1.4 Endgültige Genehmigung**<br>Ein zugewiesenes Endgültige-Überprüfungs-Team zusammen mit zwei aktiven Projektdokument-Status: einer für genehmigte Überarbeitungen und einer für abgelehnte Überarbeitungen.
 
 ### 2.2 **2.2 Systemlimits und Team-Mitgliedschaftsregeln**
 
@@ -55,12 +51,9 @@ Wenn bei dem Versuch, einen neuen Workflow zu speichern, ein erforderliches Feld
 
 **2.2.4 Administratorrechte** Projektadministratoren haben keine automatischen Betriebsrechte. Um während einer Genehmigung Aktionen auszuführen, muss ein Administrator ein explizites Mitglied des relevanten Teams sein:
 
-- **Absender-Team**
-  Erforderlich, um eine Genehmigungsanfrage zu starten.
-- **Reviewer-Team**
-  Erforderlich, um eine Review-Validierung anzuzeigen oder einzureichen.
-- **Finales Reviewer-Team**
-  Erforderlich, um die endgültige Entscheidung zu treffen und die Genehmigung abzuschließen.
+- **Submitter-Team**<br>Erforderlich zum Starten einer Genehmigungsanfrage.
+- **Reviewer-Team**<br>Erforderlich zum Angeben oder Einreichen einer Review-Validierung.
+- **Final-Reviewer-Team**<br>Erforderlich zum Treffen der endgültigen Entscheidung und zum Abschließen der Genehmigung.
 
 ## 3. **3.** **Flexible Operationen (vor und nach Einreichung)**
 
@@ -114,9 +107,9 @@ Wenn sich Projekteinstellungen oder Team-Mitgliedschaften ändern, während Gene
 
 Projektmitglieder können jederzeit auf der Seite **Projektteams** zu oder aus Workflow-Teams hinzugefügt oder entfernt werden, ohne die Workflow-Vorlage selbst zu bearbeiten.
 
-**5.1.1 Absender-Team-Mitglieder** Das Hinzufügen eines Benutzers zu einem Absender-Team ermöglicht es ihm, zukünftig neue Anfragen zu erstellen. Die Absender-Team-Mitgliedschaft gewährt jedoch niemals gemeinsame Sichtbarkeit für von Teamkollegen erstellte Anfragen – der Zugriff auf eine eingereichte Anfrage bleibt streng persönlich für den einzelnen Ersteller.
+**5.1.1 Mitglieder des Submitter-Teams** Das Hinzufügen eines Benutzers zu einem Submitter-Team ermöglicht diesem, künftig neue Anfragen zu erstellen. Die Mitgliedschaft im Submitter-Team gewährt jedoch niemals gemeinsamen Zugriff auf Anfragen, die von Teamkollegen erstellt wurden. Der Zugriff auf eine eingereichte Anfrage bleibt streng persönlich für den einzelnen Ersteller.
 
-**5.1.2 Reviewer-Team-Mitglieder** Das Hinzufügen eines Benutzers zu einem Reviewer-Team gewährt ihm sofort Zugriff auf aktive Genehmigungsanfragen, die derzeit bei diesem Review-Schritt sind. Das Entfernen aller Mitglieder aus einem Reviewer-Team friert laufende Anfragen bei diesem Schritt ein, bis ein neues Mitglied hinzugefügt wird – es sei denn, die **automatische Genehmigung** ist für diesen Schritt aktiviert, in diesem Fall wird die Anfrage automatisch genehmigt und fortgesetzt, wenn die Schritt-Frist verstreicht.
+**5.1.2 Mitglieder des Reviewer-Teams** Das Hinzufügen eines Benutzers zu einem Reviewer-Team gewährt diesem sofort Zugriff auf aktive Genehmigungsanfragen, die sich derzeit in diesem Überprüfungsschritt befinden. Das Entfernen aller Mitglieder aus einem Reviewer-Team friert laufende Anfragen in diesem Schritt ein, bis ein neues Mitglied hinzugefügt wird, es sei denn, **automatische Genehmigung** ist für diesen Schritt aktiviert. In diesem Fall genehmigt und rückt die Anfrage automatisch vor, wenn die Schrittfrist verstreicht.
 
 **5.1.3 Finale Reviewer-Team-Mitglieder** Das Hinzufügen eines Benutzers zu einem finalen Reviewer-Team gewährt ihm sofort Zugriff, um endgültige Entscheidungen zu laufenden Anfragen zu treffen, die den finalen Genehmigungsschritt erreichen. Das Entfernen aller Mitglieder aus einem finalen Reviewer-Team friert laufende Anfragen beim finalen Schritt ein, bis ein Benutzer hinzugefügt wird (die automatische Genehmigung ist nicht für finalen Review-Schritte verfügbar).
 
@@ -128,12 +121,9 @@ Gelöschte Projektteams können nicht wiederhergestellt werden. Wenn ein Team, d
 
 **5.2.2 Gelöschte Reviewer-Teams** Review-Schritte sind nach der Einreichung gesperrt.
 
-- **Wenn andere zugeordnete Teams verbleiben**
-  Der Review-Schritt funktioniert weiterhin für die verbleibenden Teams.
-- **Wenn keine Teams verbleiben und die automatische Genehmigung AKTIVIERT ist**
-  Der Schritt genehmigt automatisch und wird fortgesetzt, sobald die Schrift-Frist verstreicht.
-- **Wenn keine Teams verbleiben und die automatische Genehmigung DEAKTIVIERT ist**
-  Laufende Genehmigungsanfragen stagnieren auf unbestimmte Zeit bei diesem Review-Schritt.
+- **Wenn andere zugewiesene Teams vorhanden bleiben**<br>Der Review-Schritt funktioniert weiterhin für die verbleibenden Teams.
+- **Wenn keine Teams vorhanden sind und Auto-Genehmigung AUS ist**<br>Der Schritt wird automatisch genehmigt und vorangetrieben, sobald das Schritt-Fälligkeitsdatum verstrichen ist.
+- **Wenn keine Teams vorhanden sind und Auto-Genehmigung AUS ist**<br>Laufende Genehmigungsanfragen bleiben unbegrenzt bei diesem Review-Schritt stecken.
 
 **5.2.3 Gelöschte Finale Reviewer-Teams** Finale Genehmigungs-Teams sind nach der Einreichung gesperrt, und die automatische Genehmigung ist **nicht** für Finale Review-Schritte verfügbar. Wenn alle Finalen Reviewer-Teams gelöscht werden, stagnieren laufende Genehmigungsanfragen auf unbestimmte Zeit.
 

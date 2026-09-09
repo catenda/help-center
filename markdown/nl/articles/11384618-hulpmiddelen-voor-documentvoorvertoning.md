@@ -99,7 +99,7 @@ Klik op het zoompercentage om het menu Zoompercentage te openen. Het menu Zoompe
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/12-zoom-percentage.png)
 
-### 4.1 **Op breedte aanpassen**
+### 4.1 **Passend maken op breedte**
 
 Pas het document aan om de volledige breedte van de documentvoorvertoning te bedekken
 
@@ -197,14 +197,10 @@ _Afbeelding - Sneltoets:_ (I) Selecteer het afbeeldingsgereedschap en klik ergen
 
 Voorbeelden van afbeeldingen die worden ingevoegd zijn onder meer:
 
-- Gegenereerde informatie met metagegevens.
-  In sommige workflows worden afbeeldingen gegenereerd met informatie over de gebruiker die naar het document heeft gekeken, samen met informatie zoals de datum en hun vakgebied.
-- Een persoonlijk of bedrijfslogo.
-  In sommige gevallen wordt het logo van een bedrijf als afbeelding ingevoegd om aan te geven dat dit bedrijf naar het document heeft gekeken.
-- Een persoonlijke handtekening
-  Soms is dit een scan van een handgeschreven handtekening, andere keren kan het een digitaal gegenereerde handtekening zijn.
-- Een persoonlijk stempel.
-  In sommige culturen hebben stempels de voorkeur boven handtekeningen
+- Gegenereerde informatie met metagegevens.<br>In sommige workflows worden afbeeldingen gegenereerd met informatie over de gebruiker die het document heeft bekeken, samen met informatie zoals de datum en hun studierichting.
+- Een persoonlijk of bedrijfslogo.<br>In sommige gevallen wordt het logo van een bedrijf als afbeelding ingevoegd om aan te geven dat dit bedrijf het document heeft bekeken.
+- Een persoonlijke handtekening<br>Soms is dit een scan van een handgeschreven handtekening, andere keren kan het een digitaal gegenereerde handtekening zijn.
+- Een persoonlijke stempel.<br>In sommige culturen hebben stempels de voorkeur boven handtekeningen
 
 Na het klikken op de invoeging wordt de verkenner van het systeembestand geopend. Navigeer naar de afbeelding die moet worden ingevoegd en kies deze. Na het kiezen van de afbeelding wordt deze op de opgegeven locatie geplaatst.
 

@@ -72,13 +72,11 @@ Par défaut, un élément de liste peut être vu pour chaque intervalle de déca
 
 **Nom de l'élément de liste de fuseau horaire** La deuxième partie d'un élément de liste de fuseau horaire peut afficher :
 
-- Un nom de fuseau horaire.
-  Pour les emplacements géographiques où le fuseau horaire est identique toute l'année.
+- Un nom de fuseau horaire.<br>Pour les emplacements géographiques où le fuseau horaire est le même toute l'année.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/09-selecting-a-list-element-in-the-timezone-dropdown.png)
 
-- Un décalage de fuseau horaire GMT+XX:XX
-  Pour les emplacements géographiques où le fuseau horaire change pendant l'année.
+- Un décalage UTC+XX:XX<br>Pour les emplacements géographiques où le fuseau horaire change au cours de l'année.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/10-selecting-a-list-element-in-the-timezone-dropdown.png)
 
@@ -183,7 +181,7 @@ Activez Exiger un examen par tous les membres de l'équipe pour exiger que chaqu
 
 - **Quand c'est désactivé** (le comportement actuel et unique décrit ailleurs dans ce centre d'aide), n'importe quel membre de l'équipe d'examinateur peut soumettre une indication de validation au nom de toute l'équipe, et l'étape peut procéder dès qu'il le fait.
 
-- **Quand c'est activé,** l'étape de l'équipe n'est pas complète jusqu'à ce que chaque membre individuel ait donné sa propre indication. Consultez les articles de l'onglet Aperçu, du menu droit d'examen des fichiers et du menu droit de l'onglet Documents pour voir comment cela s'affiche lors de l'examen.
+- **Lorsque cette option est activée**, l'étape de l'équipe n'est pas terminée tant que chaque Membre n'a pas donné sa propre indication. Consultez les articles de l'onglet Aperçu, du menu droit d'examen des fichiers et du menu droit de l'onglet Documents pour voir comment cela s'affiche lors de l'examen.<br>
 
 ### 4.6 **Supprimer l'étape de validation**
 

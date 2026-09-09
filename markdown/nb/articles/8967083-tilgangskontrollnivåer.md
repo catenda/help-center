@@ -20,13 +20,13 @@ Hvert medlem kan gis egen tilgang i [forskjellige deler av et prosjekt](#h_5e817
 
 > **Merknad:** at et medlem kan ha tilgang gjennom et av teamene sine hvis de ikke har fått spesifisert tilgang.
 
-_Ingen tilgang_
+**Ingen tilgang**
 
-_Les_
+**Les**
 
-_Skriv_
+**Skriv**
 
-_Full tilgang_
+**Full tilgang**
 
 ### 3.2 **Team**
 
@@ -34,13 +34,13 @@ Medlemmer som er del av teams får alltid den høyeste tilgangen i [forskjellige
 
 > **Merknad:** at dette kan overskrives av spesifisert medlemstilgang.
 
-_Ingen tilgang_
+**Ingen tilgang**
 
-_Les_
+**Les**
 
-_Skriv_
+**Skriv**
 
-_Full tilgang_
+**Full tilgang**
 
 ## 4. **Tilgangsoversikt**
 

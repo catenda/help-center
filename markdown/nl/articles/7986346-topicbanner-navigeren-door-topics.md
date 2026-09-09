@@ -41,13 +41,14 @@ _Nieuw topic_ - Een [nieuw topic](https://support.catenda.com/en/articles/467026
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/05-top-buttons.png)
 
 - De header en beschrijving in het gekloonde topic zijn hetzelfde als in het huidige topic
+
 - _Documenten opnemen_
 
-    Documenten die aan dit topic zijn gekoppeld, worden ook aan het gekloonde topic gekoppeld
+  Documenten die aan dit topic zijn gekoppeld, worden ook aan het gekloonde topic gekoppeld
 
 - _Inclusief gerelateerde objecten_
 
-    Objecten die aan dit topic zijn gekoppeld, worden ook aan het gekloonde topic gekoppeld
+  Objecten die aan dit topic zijn gekoppeld, worden ook aan het gekloonde topic gekoppeld
 
 > **Opmerking:** Opmerkingen worden niet gekloond
 

@@ -1,4 +1,4 @@
-# Quelle révision d'un modèle s'ouvrira quand je clique sur un signet ?
+# Quelle révision de model un signet ouvre-t-il ?
 
 Le signet ouvrira toujours la révision la plus récente d'un modèle.
 

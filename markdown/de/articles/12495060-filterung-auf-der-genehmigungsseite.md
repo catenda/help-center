@@ -12,7 +12,7 @@ Klicken Sie auf die Filterschaltfläche oben links, um ein Fenster auf der linke
 
 ### 1.1 **Aktuellen Filter speichern und teilen**
 
-Gehen Sie zur URL einer gefilterten Seite, um diese Seite mit dem angewendeten Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/en/articles/11401493-saving-a-filter-link), um mehr darüber zu erfahren, wie Sie Filter speichern und teilen. Beachten Sie, dass es auf der Genehmigungsseite im Gegensatz zu anderen Filtermenüs nicht möglich ist, persönliche Filter oben im Filtermenü zu speichern.
+Gehen Sie zur URL einer gefilterten Seite, um diese Seite mit angewendetem Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/en/articles/11401493-saving-a-filter-link), um mehr darüber zu erfahren, wie Sie Filter speichern und freigeben. Beachten Sie, dass im Gegensatz zu anderen Filtermenüs es auf der Genehmigungsseite nicht möglich ist, persönliche Filter oben im Filtermenü zu speichern.
 
 ### 1.2 **Leere Filter ausblenden**
 

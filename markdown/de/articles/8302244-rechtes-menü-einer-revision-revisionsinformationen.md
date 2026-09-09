@@ -7,10 +7,10 @@ Die Dokumentseite kann etwa so aussehen:
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/01-intro.png)
 
 1. Das [Dokumentbanner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) erstreckt sich über die gesamte Breite der Dokumentseite
-1. Sie finden den Dokumentkopf unter dem Dokumentbanner und über der Dokumentvorschau.
-1. Unter dem Dokumentkopf finden Sie die [Dokumentvorschau](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
-1. Links neben dem Dokumentkopf und der Vorschau finden Sie die Dokumentliste
-1. _Dieser Artikel:_ Rechts neben dem Dokumentkopf und der Vorschau finden Sie das rechte Informationsmenü.
+2. Sie finden den Dokumentkopf unter dem Dokumentbanner und über der Dokumentvorschau.
+3. Unter dem Dokumentkopf finden Sie die [Dokumentvorschau](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
+4. Links neben dem Dokumentkopf und der Vorschau finden Sie die Dokumentliste
+5. _Dieser Artikel:_ Rechts neben dem Dokumentkopf und der Vorschau finden Sie das rechte Informationsmenü.
 
 Wenn Sie ein Dokument zum ersten Mal öffnen, kann sein rechtes Menü geschlossen sein. Sie können auf die Informationsschaltfläche unten rechts im [Dokumentbanner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) klicken, um dieses Menü zu erweitern.
 

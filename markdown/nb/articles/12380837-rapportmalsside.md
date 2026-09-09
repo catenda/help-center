@@ -40,7 +40,7 @@ Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) 
 
 ### 3.1 **Radinnhold**
 
-_Rapportrad_ Selv om det er mulig å klikke på en rad for å velge den og markere den med grønn farge, er det ingen handlinger som kan utføres ved å velge en rad. Raden velges når handlingsmenyen i den høyre kolonnen velges.
+**Rapportrad** Selv om det er mulig å klikke på en rad for å velge den og markere den med grønn farge, er det ingen handlinger som kan utføres ved å velge en rad. Raden velges når handlingsmenyen i den høyre kolonnen velges.
 
 ### 3.2 **Kolonner**
 

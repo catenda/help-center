@@ -242,20 +242,20 @@ Créer un sujet en sélectionnant un ou plusieurs clashes Donner un titre au suj
 Créer un sujet combiné
 
 - Créer un sujet à partir des clashes sélectionnés
-    - Créer un sujet avec un viewpoint pour chaque clash sélectionné dans le Clash Detective de Navisworks.
+  - Créer un sujet avec un viewpoint pour chaque clash sélectionné dans le Clash Detective de Navisworks.
 - Créer un sujet à partir des clashes sélectionnés (Viewpoint consolidé)
-    - Créer un sujet avec un seul viewpoint qui est agrandi pour inclure tous les clashes sélectionnés dans le Clash Detective de Navisworks.
+  - Créer un sujet avec un seul viewpoint qui est agrandi pour inclure tous les clashes sélectionnés dans le Clash Detective de Navisworks.
 
 Créer plusieurs sujets
 
 - Créer un sujet pour chaque clash sélectionné
-    - Créer un sujet pour chaque clash sélectionné dans le plugin Catenda Navisworks.
+  - Créer un sujet pour chaque clash sélectionné dans le plugin Catenda Navisworks.
 - Créer un sujet pour chaque groupe de clashes
-    - Créer un sujet pour chaque groupe de clashes sélectionné dans le plugin Catenda Navisworks, avec un viewpoint pour chaque clash du groupe de clashes.
+  - Créer un sujet pour chaque groupe de clashes sélectionné dans le plugin Catenda Navisworks, avec un viewpoint pour chaque clash du groupe de clashes.
 - Créer un sujet pour chaque groupe de clashes (Viewpoint consolidé)
-    - Créer un sujet pour chaque groupe de clashes sélectionné dans le plugin Catenda Navisworks, avec un seul viewpoint qui est agrandi pour inclure tous les clashes sélectionnés.
+  - Créer un sujet pour chaque groupe de clashes sélectionné dans le plugin Catenda Navisworks, avec un seul viewpoint qui est agrandi pour inclure tous les clashes sélectionnés.
 - Créer un sujet pour chaque clash non groupé
-    - Créer un sujet pour chaque clash non groupé sélectionné dans le plugin Catenda Navisworks
+  - Créer un sujet pour chaque clash non groupé sélectionné dans le plugin Catenda Navisworks
 
 ### 9.4 **Modifier le statut**
 

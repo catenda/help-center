@@ -1,4 +1,4 @@
-# Desktop Connector Fehlerbehebung – Nicht alle Ordner wurden heruntergeladen
+# Desktop Connector - nicht alle Ordner heruntergeladen
 
 In diesem Artikel finden Sie Informationen zu einem bestimmten Fehler, der bei der Verwendung des [Catenda Desktop Connectors](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) auftreten kann. Weitere Probleme bei der Fehlerbehebung des Desktop Connectors finden Sie [hier](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false).
 
@@ -94,7 +94,7 @@ Wenn dem Desktop Connector mitgeteilt wird, einen dieser Shortcuts zu verwenden,
 
 Der `_restricted`-Ordner wird nur erstellt, wenn der Ordner "physisch" vorhanden ist, aber "gesperrt" (wie eine Tür zu einem Zimmer, das verriegelt ist). In diesem Fall kann das Programm die Tür sehen und entscheidet sich, eine neue neben sich zu bauen (`_restricted`).
 
-Im Fall des fehlenden Pfades ist es anders. Der Ordner ist nicht mehr vorhanden, oder der "Wegweiser" (symbolischer Link), der ausgewählt wurde, verweist auf einen leeren Speicherort. Für das Programm ist es nicht nur gesperrt – der gesamte "Raum" fehlt aus dem Gebäude. Weil es keine "Tür" zum Anfang gibt, kann das Programm keine `_restricted`-Version erstellen und muss beendet werden.
+Im Fall des fehlenden Pfads ist es anders. Der Ordner ist nicht mehr vorhanden, oder der "Wegweiser" (symbolischer Link), der ausgewählt wurde, zeigt auf einen leeren Speicherort. Für das Programm ist es nicht nur gesperrt. Der gesamte "Raum" fehlt im Gebäude. Da es von Anfang an keine "Tür" gibt, kann das Programm keine `_restricted`-Version erstellen und muss anhalten.
 
 ## 3. **Fehlender Bereitstellungspunkt**
 
@@ -147,8 +147,8 @@ Wenn der bereitgestellte Ordner doppelgeklickt wird, wird sofort der folgende Fe
 Ordner manuell neu erstellen Wenn der Ordner nach einem Neustart "feststeckt" bleibt:
 
 1. Benennen Sie den problematischen Ordner um (z. B. umbenennen von `ProjektDaten` zu `ProjektDaten_ALT`).
-1. Erstellen Sie einen brandneuen Ordner mit dem ursprünglichen Namen (`ProjektDaten`).
-1. Der Desktop Connector erkennt den frischen, fehlerfreien Ordner und nimmt den normalen Betrieb ohne das Suffix `_restricted` wieder auf.
+2. Erstellen Sie einen brandneuen Ordner mit dem ursprünglichen Namen (`ProjektDaten`).
+3. Der Desktop Connector erkennt den frischen, fehlerfreien Ordner und nimmt den normalen Betrieb ohne das Suffix `_restricted` wieder auf.
 
 **Verbinden Sie Hardware oder Netzwerk erneut** Gehen Sie zu "Dieser PC" und stellen Sie sicher, dass Ihre Netzlaufwerke (wie `Z:`) aktiv sind. Überprüfen Sie, ob externe USB-Laufwerke oder Festplatten ordnungsgemäß angeschlossen sind. Wenn sie ein rotes X haben, doppelklicken Sie darauf, um die Verbindung erneut herzustellen. Wenn das Netzlaufwerk nicht aktiv ist und Sie wissen, mit welchem Netzwerk das Laufwerk verbunden ist, stellen Sie die Verbindung zum Netzwerk erneut her, indem Sie ein Kabel einstecken, sich über WLAN verbinden oder bei Verwendung eines VPN überprüfen, ob das VPN aktiv ist. Wenn das Laufwerk nicht mehr verfügbar ist, wählen Sie im Desktop Connector einen anderen Zielordner aus, der entweder auf dem lokalen Computer oder im Netzwerk verfügbar ist.
 

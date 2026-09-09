@@ -1,4 +1,4 @@
-# Designvurdering og endringsordrer i et høyhus-byggeprosjekt
+# Designvurdering og endringsordrer på en høyhus
 
 > Industri: Kommersiell konstruksjon Persona: Maria, en prosjektarkitekt ved et stort firma.
 

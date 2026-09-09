@@ -72,13 +72,11 @@ Standardmäßig kann für jedes 30-Minuten-Zeitzonen-Offset-Intervall mit einer 
 
 **Name des Zeitzonen-Listenelements** Der zweite Teil eines Zeitzonen-Listenelements kann anzeigen:
 
-- Ein Zeitzonen-Name.
-  Für geografische Orte, an denen die Zeitzone das ganze Jahr über gleich ist.
+- Ein Zeitzonenname.<br>Für geografische Orte, in denen die Zeitzone das ganze Jahr über gleich bleibt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/09-selecting-a-list-element-in-the-timezone-dropdown.png)
 
-- Ein GMT+XX:XX Zeitzonen-Offset
-  Für geografische Orte, an denen sich die Zeitzone während des Jahres ändert.
+- Ein GMT+XX:XX-Zeitzonenoffset<br>Für geografische Orte, in denen sich die Zeitzone im Laufe des Jahres ändert.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/10-selecting-a-list-element-in-the-timezone-dropdown.png)
 
@@ -183,7 +181,7 @@ Aktivieren Sie "Prüfung durch alle Teammitglieder erforderlich", um zu verlange
 
 - **Wenn diese Option deaktiviert ist** (das aktuelle, einzige Verhalten, das an anderer Stelle in diesem Hilfecenter beschrieben wird), kann ein beliebiges Mitglied des Prüfteams eine Validierungsangabe im Namen des gesamten Teams einreichen, und der Schritt kann sofort fortgesetzt werden.
 
-- **Wenn diese Option aktiviert ist,** ist der Schritt des Teams nicht abgeschlossen, bis jedes einzelne Mitglied seine eigene Angabe gemacht hat. Weitere Informationen dazu, wie dies während der Prüfung angezeigt wird, finden Sie in den Artikeln zur Übersichtsregisterkarte, dem Dateiprüfungsmenü auf der rechten Seite und dem Dokumentenregisterkarten-Menü auf der rechten Seite.
+- **Wenn dies aktiviert ist,** ist der Schritt des Teams nicht abgeschlossen, bis jedes einzelne Mitglied seine eigene Angabe gemacht hat. Weitere Informationen darüber, wie dies angezeigt wird, finden Sie in den Artikeln zur Registerkarte Übersicht, zum Menü Dateiüberprüfung rechts und zum Menü Dokumente rechts.<br>
 
 ### 4.6 **Prüfschritt löschen**
 

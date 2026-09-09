@@ -20,7 +20,7 @@ For å tildele QR-kode-stempling til en mappe, gå til [dokumentinnstillinger](h
 
 Mot bunnen kan rullegardinmenyen "Tildel QR-kode" finnes. Klikk på rullegardinmenyen og velg Ja for å konfigurere denne mappen.
 
-_Konfigurasjonsarv_ Hvis en konfigurasjon er angitt i en overordnet mappe, vil alle dens undermapper arve konfigurasjonen.
+**Konfigurasjonsarv** Hvis en konfigurasjon er angitt i en overordnet mappe, vil alle dens undermapper arve konfigurasjonen.
 
 ## 2. **QR-kode plassholder-plassering**
 
@@ -44,11 +44,11 @@ Last opp en ny revisjon av en PDF med plassholdingen til en mappe med QR-kode-ti
 
 Etter at QR-kode plassholdingen er plassert, kan PDF-en lastes opp som en ny revisjon til den konfigurerte mappen. Under opplastingen behandler Catenda bildene i dokumentet.
 
-_Bytekrav_ De riktige bytene som tilhører de svarte og hvite pikslene i Catenda QR-kode plassholdingen må være til stede i riktig rekkefølge.
+**Bytekrav** De riktige bytene som tilhører de svarte og hvite pikslene i Catenda QR-kode plassholdingen må være til stede i riktig rekkefølge.
 
-_Dimensjonskrav_ Bildet må ha en minimumsbredde og -høyde på 2 cm ganger 2 cm.
+**Dimensjonskrav** Bildet må ha en minimumsbredde og -høyde på 2 cm ganger 2 cm.
 
-_Eksempel på generert QR-kode_ Dette er hvordan tittelblokken i eksemplet ovenfor kan se ut etter at PDF-en er behandlet og en QR-kode er lagt til:
+**Eksempel på generert QR-kode** Dette er hvordan tittelblokken i eksemplet ovenfor kan se ut etter at PDF-en er behandlet og en QR-kode er lagt til:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/04-revision-qr-code-generation.png)
 

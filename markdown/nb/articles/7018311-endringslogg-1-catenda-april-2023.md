@@ -2,7 +2,7 @@
 
 ## 1. Artikler
 
-_Nye artikler:_
+**Nye artikler:**
 
 [Systemkrav og optimalisering](https://intercom.help/bimsync-arena/en/articles/6921941-system-requirements-and-optimization)
 
@@ -19,7 +19,7 @@ _Nye artikler:_
 
 [Listevisning i issue board](https://support.catenda.com/en/articles/6941232-list-view-in-an-issue-board)
 
-_Artikler som har endret seg:_
+**Artikler som har endret seg:**
 
 [3D Viser-innstillinger](https://intercom.help/bimsync-arena/en/articles/5784718-3d-viewer-settings)
 
@@ -29,21 +29,20 @@ _Artikler som har endret seg:_
 
 ## 2. Løste problemer
 
-_Importproblemer:_
+**Importproblemer:**
 
 - IFC-filer med manglende enheter eksportert fra MagiCAD kan nå importeres enklere.
 - IFC-filer med tegn utenfor unicode i IfcPerson og IfcOrganization vil ikke lenger få rutenettet til å feile
 
-_Viserproblemer:_
+**Viserproblemer:**
 
 - Modeller kan igjen roteres uten problem. (Rotasjonsfeltet var tomt en kort periode)
 - Objekter kan igjen slettes (Modeller ble lastet inn to ganger en kort periode)
-- Rutenett eksportert fra Revit med den offisielle IFC4-eksportøren er nå synlig
-  Den første målte målingen er nå umiddelbart synlig ved å gå til inspiser på skjermer hvor det ikke er plass til å vise inspiser-panelet og 3D-viseren samtidig.
+- Rutenett eksportert fra Revit med den offisielle IFC4-eksporteren er nå synlig<br>Den første målte målingen er nå umiddelbart synlig ved å gå til inspiser på skjermer der det ikke er plass til å vise inspiser-panelet og 3D-viseren på samme tid.
 - Objekter kan nå gjøres gjennomsiktige igjen. (Gjøre gjennomsiktig ville skjule andre i stedet en stund)
 - Paneler som egenskaper forblir nå åpne selv om du klikker på tomt område og tilbake på samme objekt
 
-_Andre problemer:_
+**Andre problemer:**
 
 - Å flytte filer lar deg nå navigere fra rotmappen igjen (Rotmappen viste ikke innhold en kort periode)
 - Etasjekonfigurator lar deg nå plassere tegninger som hadde plasseringer fra før rebranding igjen.

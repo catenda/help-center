@@ -7,8 +7,8 @@ Selecteer document(en) en/of map(pen) in het documentengebied om het menu voor t
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/01-intro.png)
 
 1. Selecteer de document(en) en/of map(pen) die moeten worden geconfigureerd.
-1. Open het rechterinformatiemenu
-1. Klik op **toegang bewerken**.
+2. Open het rechterinformatiemenu
+3. Klik op **toegang bewerken**.
 
 > **Belangrijk:** **Vereiste toegang:** Volledige toegang
 
@@ -22,7 +22,7 @@ Klik op de vervolgkeuzelijst "Toegang definiëren voor" om deelnemers te selecte
 
 ### 1.1 **1.1 Aanbevolen workflow**
 
-Stel de toegang **per team in plaats van per gebruiker** in. Rollen veranderen vaak, en teamgebaseerde toegang blijft flexibel: wanneer een lid aan een team wordt toegevoegd, krijgen ze de juiste toegang zodra ze het project binnenkomen. Een gebruikelijk patroon is om "alle gebruikers" op geen toegang in te stellen — zodat nieuwe, nog niet toegewezen leden geen gevoelige informatie kunnen zien — en vervolgens indien nodig toegang aan elk team verlenen.
+Stel toegang in **per team in plaats van per gebruiker**. Rollen veranderen vaak, en toegang op teambasis blijft flexibel: een lid dat aan een team wordt toegevoegd, krijgt de juiste toegang zodra het lid aan het project deelneemt. Een veelgebruikt patroon is om "alle gebruikers" op geen toegang in te stellen, zodat nieuwe, nog niet toegewezen leden gevoelige informatie niet kunnen zien. Vervolgens verleent u toegang aan elk team naar behoefte.
 
 Klik [hier](https://support.catenda.com/en/articles/15644094-how-catenda-calculates-access-levels) om meer te lezen over hoe de verschillende deelnemersrollen zich tegenover elkaar verhouden.
 

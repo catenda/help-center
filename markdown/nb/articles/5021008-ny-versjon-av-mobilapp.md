@@ -10,8 +10,7 @@ Her er hva som er nytt i denne versjonen:
 
 - Slett problemkommentarer ved hjelp av sveip-gest
 
-- Forbedret innstillingsskjerm.
-Nå kan du velge ditt foretrukne startskjerm
+- Forbedret innstillingsskjerm. Nå kan du velge ditt foretrukne startskjerm
 
 - Nytt varslingssystem i appen for å gi deg mer nyttig informasjon
 

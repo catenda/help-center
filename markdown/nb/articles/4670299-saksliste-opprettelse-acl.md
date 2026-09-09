@@ -4,14 +4,14 @@ Administratorer vil kunne konfigurere hvem som har tilgang til å opprette sakli
 
 1. Under tilgangskontroll på denne siden har du "Opprett ny saksliste".
 
-    Klikk på det.
+   Klikk på det.
 
-1. En liste over hvem som kan opprette og Rediger tilgang vil vises.
-   Klikk på Rediger tilgang-knappen.
-1. Definer tilgang for medlem(mer) eller team(s).
+2. En liste over hvem som kan opprette og Rediger tilgang vil vises.<br>Klikk på Rediger tilgang-knappen.
 
-    Under medlem(mer) eller Team(s) du har valgt vil vises.
+3. Definer tilgang for medlem(mer) eller team(s).
 
-1. Under tilgang velger du mellom Kan opprette og Ikke tillatt.
+   Under medlem(mer) eller Team(s) du har valgt vil vises.
 
-    Trykk på lagre-knappen.
+4. Under tilgang velger du mellom Kan opprette og Ikke tillatt.
+
+   Trykk på lagre-knappen.

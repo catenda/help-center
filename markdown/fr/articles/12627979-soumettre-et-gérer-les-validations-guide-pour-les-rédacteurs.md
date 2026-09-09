@@ -6,7 +6,7 @@ Cet article a été généré en sollicitant notre agent d'assistance IA. L'invi
 
 ## 1. **Rencontrez Lena Tran, Coordinatrice senior de rédaction**
 
-Ce guide s'adresse aux soumissionnaires de documents comme Lena Tran, Coordinatrice senior de rédaction sur un projet de centre communautaire multi-étages. Elle prépare des documents sur l'accès piétonnier, les itinéraires de bus et les calendriers de construction, en veillant à ce qu'ils soient clairs pour les entrepreneurs, les planificateurs et les propriétaires.
+Ce guide est destiné aux contributeurs de documents comme Lena Tran, Coordinatrice Senior en rédaction de documents sur un projet de centre communautaire multi-étages. Elle prépare des Documents sur l'accès piétonnier, les itinéraires de bus et les calendriers de construction, en s'assurant qu'ils sont clairs pour les entrepreneurs, les planificateurs et les propriétaires.
 
 ## 2. **Pourquoi les validations sont importantes**
 
@@ -14,7 +14,7 @@ Les validations garantissent que seuls les documents exacts et examinés sont pu
 
 _Prévenir les erreurs du monde réel_ est l'objectif fondamental du processus de validation. Les documents non vérifiés peuvent entraîner des erreurs de construction qui affectent la sécurité et la planification.
 
-_Assurer l'accord des parties prenantes_ signifie que tout le monde—des planificateurs aux entrepreneurs—donne son approbation avant le début des travaux.
+_Assurer l'accord des parties prenantes_ signifie que tout le monde, des planificateurs aux entrepreneurs, approuve avant le début des travaux.
 
 _Soutenir la réussite du projet_ repose sur une documentation claire et traçable en laquelle tout le monde peut avoir confiance.
 
@@ -32,7 +32,7 @@ _Les représentants du client_ vérifient que les produits livrables s'alignent 
 
 Lena commence le processus de validation en naviguant vers Documents > Validations ou en effectuant un clic droit sur un document dans le système. Cela ouvre l'interface de sélection du flux de travail.
 
-_La sélection du flux de travail correct_—tel que « Examen d'accès public »—garantit que les bons examinateurs sont impliqués.
+_Sélectionner le workflow correct_, tel que « Public Access Review », garantit que les bons réviseurs sont impliqués.
 
 _L'ajout de révisions partagées_ permet d'inclure jusqu'à 1 000 versions de documents dans une seule demande.
 

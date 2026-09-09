@@ -32,7 +32,7 @@ Projectbeheerders kunnen nu de goedkeuringsonderwerp-sjabloonoptie voor elk van 
 
 ### 2.3 **Consistente kolomnaming tussen Documenten en Modellen**
 
-De kolom "Naam" betekende verschillende dingen in Documenten versus Modellen — wat verwarrend voor gebruikers was! Nu gebruiken beide dezelfde documentnaam. Het veld "Modelnaam" blijft, alleen hernoemd naar "Korte naam". Downloaden van Modellen levert nu ook dezelfde bestandsnaam op als downloaden van Documenten.
+De kolom "Naam" betekende verschillende dingen in Documenten vs. Modellen, wat verwarrend was voor gebruikers! Nu gebruiken beide hetzelfde documentnaam. Het veld "Model Name" blijft behouden, alleen hernoemd naar "Short Name". Het downloaden van Modellen produceert nu ook dezelfde bestandsnaam als het downloaden van Documenten.
 
 **Voor-/Na-vergelijking**
 

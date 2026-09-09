@@ -8,13 +8,13 @@ U vindt de **Multi Factor Authentication** (MFA)-instellingen op de [authenticat
 
 ## 1. **MFA inschakelen**
 
-Log in op Catenda Hub en ga naar de **[Account](https://hub.catenda.com/account/profile)**pagina:
+Log in op Catenda Hub en ga naar de \*\*[Account](https://hub.catenda.com/account/profile)\*\*pagina:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/01-enabling-mfa.png)
 
-1. Klik op het **[Verificatie](https://hub.catenda.com/account/authentication)**tabblad:
-1. Scrol omlaag naar het gedeelte voor MFA:
-1. Klik op **MFA inschakelen**
+1. Klik op het \*\*[Verificatie](https://hub.catenda.com/account/authentication)\*\*tabblad:
+2. Scrol omlaag naar het gedeelte voor MFA:
+3. Klik op **MFA inschakelen**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/02-enabling-mfa.png)
 
@@ -71,21 +71,21 @@ Nadat u een MFA-code hebt verbonden, kunt u de accountnaam van de code veilig be
 **Google Authenticator**
 
 1. Houd de code ingedrukt
-1. Klik op het potlood rechtsboven om de naam te wijzigen.
+2. Klik op het potlood rechtsboven om de naam te wijzigen.
 
 **Microsoft Authenticator**
 
 1. Klik op de code.
-1. Klik op de tandwielknop rechtsboven
-1. Klik op het potlood om de naam te wijzigen
+2. Klik op de tandwielknop rechtsboven
+3. Klik op het potlood om de naam te wijzigen
 
 ## 3. **MFA overbrengen**
 
 **Deactiveren en opnieuw activeren** Het is slechts mogelijk om één MFA-app-codeverbinding tegelijk te gebruiken. Als u wilt overschakelen naar een ander codepairing, misschien omdat uw huidige is gecompromitteerd, voert u deze stappen uit: U moet deze methode ook gebruiken als u de app die u voor MFA gebruikt, wilt wijzigen.
 
 1. Schakel uw MFA uit op de [verificatiepagina](https://hub.catenda.com/account/authentication)
-1. Bereid de app voor die u wilt gebruiken om uw MFA opnieuw te verbinden
-1. Genereer een nieuw codepairing door de QR-code te scannen zoals in de [inschakelsectie](#h_9e13fd06f5)
+2. Bereid de app voor die u wilt gebruiken om uw MFA opnieuw te verbinden
+3. Genereer een nieuw codepairing door de QR-code te scannen zoals in de [inschakelsectie](#h_9e13fd06f5)
 
 > **Opmerking:** Wees voorzichtig met deze methode, want uw account is tijdelijk kwetsbaar terwijl het is uitgeschakeld en u kunt gedurende deze tijd geen toegang krijgen tot projecten waarvoor MFA vereist is.
 
@@ -94,25 +94,25 @@ Nadat u een MFA-code hebt verbonden, kunt u de accountnaam van de code veilig be
 **Google authenticator** Oud apparaat:
 
 1. Tik op het hamburgermenu rechtsboven
-1. Tik op Accounts exporteren
-1. Selecteer de accounts die u wilt exporteren
+2. Tik op Accounts exporteren
+3. Selecteer de accounts die u wilt exporteren
 
 Nieuw apparaat:
 
 1. Tik op het hamburgermenu rechtsboven
-1. Tik op accounts importeren
-1. Tik op QR-code scannen
-1. Scan de QR-code die op het oude apparaat wordt weergegeven toen u het exportproces hebt doorlopen.
+2. Tik op accounts importeren
+3. Tik op QR-code scannen
+4. Scan de QR-code die op het oude apparaat wordt weergegeven toen u het exportproces hebt doorlopen.
 
 **Microsoft authenticator** Oud apparaat:
 
 1. Tik op het hamburgermenu rechtsboven
-1. Zet back-up aan
+2. Zet back-up aan
 
 Nieuw apparaat:
 
 1. Installeer en open de Microsoft Authenticator-app op uw nieuwe apparaat
-1. Tik op "Herstel starten."
+2. Tik op "Herstel starten."
 
 > **Opmerking 1:** Stel geen accounts in met Microsoft Authenticator totdat u het Recovery-hulpprogramma hebt gebruikt, omdat dit overeenkomende siteaccounts overschrijft.
 
@@ -129,13 +129,13 @@ Na het uitschakelen van de code op Catenda Hub, blijft de code in de toepassing 
 **Google Authenticator**
 
 1. Houd de code ingedrukt
-1. Klik op de vuilnisbak rechtsboven.
+2. Klik op de vuilnisbak rechtsboven.
 
 **Microsoft Authenticator**
 
 1. Klik op de code.
-1. Klik op de tandwielknop rechtsboven
-1. Klik op account verwijderen
+2. Klik op de tandwielknop rechtsboven
+3. Klik op account verwijderen
 
 ## 5. **MFA op niet-mobiele apparaten**
 

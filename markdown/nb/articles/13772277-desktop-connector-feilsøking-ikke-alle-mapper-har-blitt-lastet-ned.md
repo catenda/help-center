@@ -1,4 +1,4 @@
-# Desktop Connector feilsøking - Ikke alle mapper har blitt lastet ned
+# Desktop Connector - ikke alle mapper lastet ned
 
 I denne artikkelen finner du informasjon om en spesifikk feil som oppstår når du bruker [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector). Se [her](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) for andre feilsøkingsproblemer med Desktop Connector.
 
@@ -40,7 +40,7 @@ En symbolsk lenke ser ut som en normal mappe, men fungerer som en permanent "vei
 
 `Plasseringen er ikke tilgjengelig... Nettverksbanen ble ikke funnet.`
 
-_Hvordan skille dem:_ Som .lnk-filer vil symbolske lenker ha den lille blå "snarveipilen" i nedre venstre hjørne av mappeikonet, eller høyreklikk på snarveien og velg Egenskaper.
+**Hvordan skille dem:** Som .lnk-filer vil symbolske lenker ha den lille blå "snarveipilen" i nedre venstre hjørne av mappeikonet, eller høyreklikk på snarveien og velg Egenskaper.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/03-2-the-broken-symbolic-link-the-hidden-redirect.png)
 
@@ -48,13 +48,13 @@ I kategorien Generelt er feltene navn og mål nedtonet:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/04-2-the-broken-symbolic-link-the-hidden-redirect.png)
 
-_Hvorfor det mislykkes_ "Veiposter" er på datamaskinen din, men destinasjonen (som en `Z:`-stasjon eller server) er frakoblet.
+**Hvorfor det mislykkes** "Veiposter" er på datamaskinen din, men destinasjonen (som en `Z:`-stasjon eller server) er frakoblet.
 
 ### 2.3 **3. Den brutte Windows-snarveien (.lnk-fil)**
 
 En standard Windows-snarvei er en liten fil som "peker" til en mappe andre steder. Disse kan være lenker til en mappe på din egen harddisk eller en mappe på en fjern kontorserver.
 
-_Hvordan skille dem:_ Som symbolske lenker vil både mappe- og stasjonsnarveier ha den lille blå "snarveipilen" i nedre venstre hjørne av mappeikonet, eller høyreklikk på snarveien og velg Egenskaper.
+**Hvordan skille dem:** Som symbolske lenker vil både mappe- og stasjonsnarveier ha den lille blå "snarveipilen" i nedre venstre hjørne av mappeikonet, eller høyreklikk på snarveien og velg Egenskaper.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/05-3-the-broken-windows-shortcut-lnk-file.png)
 
@@ -68,33 +68,33 @@ _Nettverkssnarvei_ Målet begynner med en serverstasjon (f.eks. `\\ServerName\Fo
 
 Ulike oppførelser når du dobbeltklikker Windows håndterer en "brute" lokal snarvei mye raskere enn en "brute" nettverkssnarvei.
 
-_Lokal snarvei (feilen "Slettet"):_ Hvis mappen på datamaskinen din ble slettet, vet Windows det umiddelbart. Når snarveien dobbeltklikkes, vises følgende feil umiddelbart:
+**Lokal snarvei (feilen "Slettet"):** Hvis mappen på datamaskinen din ble slettet, vet Windows det umiddelbart. Når snarveien dobbeltklikkes, vises følgende feil umiddelbart:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/08-3-the-broken-windows-shortcut-lnk-file.png)
 
-_`Elementet som denne snarveien refererer til, er endret, flyttet eller slettet.`_
+**`Elementet som denne snarveien refererer til, er endret, flyttet eller slettet.`**
 
-_Nettverkssnarvei (feilen "Henging"):_ Hvis snarveien peker til en kontorserver og du er offline (eller uten VPN), vet ikke Windows at destinasjonen mangler med en gang. Det vil prøve å "finne" serveren på nettverket først. Musemarkøren din kan bli til en lassingkrets, og vinduet kan "henges" eller fryse i 30–60 sekunder før det endelig vises:
+**Nettverkssnarvei (feilen "Henging"):** Hvis snarveien peker til en kontorserver og du er offline (eller uten VPN), vet ikke Windows at destinasjonen mangler med en gang. Det vil prøve å "finne" serveren på nettverket først. Musemarkøren din kan bli til en lassingkrets, og vinduet kan "henges" eller fryse i 30–60 sekunder før det endelig vises:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/09-3-the-broken-windows-shortcut-lnk-file.png)
 
-_`Stasjonen eller nettverkstilkoblingen som snarveien refererer til, er ikke tilgjengelig.`_
+**`Stasjonen eller nettverkstilkoblingen som snarveien refererer til, er ikke tilgjengelig.`**
 
 Hvis Desktop Connector får beskjed om å bruke en av disse snarveiene mens målet mangler eller nettverket er nede, vil programmet til slutt "time out" mens det venter på at Windows skal finne banen. Fordi Desktop Connector ikke kan finne et gyldig mål å begynne arbeidet med, stopper det og rapporterer feilen.
 
 ### 2.4 **Hvordan fikse det**
 
-_Identifiser frakoblingen_ Prøv å åpne målmappen i Windows Filutforsker. Hvis målmappen mangler, må enten en ny mappe opprettes på det stedet, eller en annen mappe skal velges i Desktop Connector.
+**Identifiser frakoblingen** Prøv å åpne målmappen i Windows Filutforsker. Hvis målmappen mangler, må enten en ny mappe opprettes på det stedet, eller en annen mappe skal velges i Desktop Connector.
 
-_Koble til igjen eller velg på nytt_ Hvis en feil "Nettverksbane ikke funnet" eller "Stasjon utilgjengelig" vises, bekrefter du tilkoblingen til nettverksbanen eller stasjonen. Gå til "Denne PC-en" og sikre at nettverksstasjonene dine (som `Z:`) er aktive. Kontroller at eksterne USB-enheter eller harddisker er riktig tilkoblet. Hvis de har en rød X, dobbeltklikker du dem for å koble til igjen. Hvis nettverksstasjonen ikke er aktiv og du vet hvilket nettverk stasjonen er på, kobler du til nettverket igjen enten ved å koble i en kabel, knytte til via Wi-Fi, eller når du bruker et VPN, sjekker du at VPN-en er aktiv. Hvis stasjonen ikke lenger er tilgjengelig, velger du en annen målmappe i Desktop Connector som er tilgjengelig enten på den lokale datamaskinen eller på nettverket.
+**Koble til igjen eller velg på nytt** Hvis en feil "Nettverksbane ikke funnet" eller "Stasjon utilgjengelig" vises, bekrefter du tilkoblingen til nettverksbanen eller stasjonen. Gå til "Denne PC-en" og sikre at nettverksstasjonene dine (som `Z:`) er aktive. Kontroller at eksterne USB-enheter eller harddisker er riktig tilkoblet. Hvis de har en rød X, dobbeltklikker du dem for å koble til igjen. Hvis nettverksstasjonen ikke er aktiv og du vet hvilket nettverk stasjonen er på, kobler du til nettverket igjen enten ved å koble i en kabel, knytte til via Wi-Fi, eller når du bruker et VPN, sjekker du at VPN-en er aktiv. Hvis stasjonen ikke lenger er tilgjengelig, velger du en annen målmappe i Desktop Connector som er tilgjengelig enten på den lokale datamaskinen eller på nettverket.
 
-_Slett/gi nytt navn og opprett på nytt_ Hvis en lokal mappe eller snarvei forblir "fast" (du ser den, men kan ikke åpne den) selv etter en omstart: Gi den problematiske mappen eller snarveifilene nytt navn (f.eks. gi nytt navn til `ProjectData` til `ProjectData_OLD`) eller slett den. Opprett en helt ny, standard mappe med samme navn. Start overføringen på nytt. Desktop Connector vil oppdage den nye, sunne mappen og gjenoppta normal drift.
+**Slett/gi nytt navn og opprett på nytt** Hvis en lokal mappe eller snarvei forblir "fast" (du ser den, men kan ikke åpne den) selv etter en omstart: Gi den problematiske mappen eller snarveifilene nytt navn (f.eks. gi nytt navn til `ProjectData` til `ProjectData_OLD`) eller slett den. Opprett en helt ny, standard mappe med samme navn. Start overføringen på nytt. Desktop Connector vil oppdage den nye, sunne mappen og gjenoppta normal drift.
 
-_Hvorfor ble ingen midlertidig mappe opprettet i stedet for den manglende mappen?_ I andre situasjoner oppretter Desktop Connector en mappe med `_restricted` lagt til navnet når noe går galt. Det er imidlertid en teknisk forskjell i hvordan Windows håndterer "manglende" plasseringer:
+**Hvorfor ble ingen midlertidig mappe opprettet i stedet for den manglende mappen?** I andre situasjoner oppretter Desktop Connector en mappe med `_restricted` lagt til navnet når noe går galt. Det er imidlertid en teknisk forskjell i hvordan Windows håndterer "manglende" plasseringer:
 
 Mappen `_restricted` opprettes bare hvis mappen er "fysisk" der, men "låst" (som en dørterskel til et rom som er boltet igjen). I så fall kan programmet se døren og bestemmer seg for å bygge en ny (`_restricted`) ved siden av den.
 
-I tilfelle av den manglende banen er det annerledes. Mappen er ikke lenger der, eller "veiposter" (symbolsk lenke) som ble valgt, peker på et tomt sted. For programmet er det ikke bare låst – hele "rommet" mangler fra bygningen. Fordi det ikke er noen "dørterskel" til å begynne med, kan programmet ikke opprette en `_restricted`-versjon og må stoppe.
+I tilfelle av den manglende banen er det annerledes. Mappen er ikke lenger der, eller "skiltet" (symbolsk lenke) som ble valgt, peker til en tom plassering. For programmet er det ikke bare låst. Hele "rommet" mangler fra bygningen. Fordi det ikke er noen "dørgang" til å begynne med, kan ikke programmet opprette en `_restricted`-versjon og må stoppe.
 
 ## 3. **Manglende monteringspunkt**
 
@@ -138,18 +138,18 @@ Når du dobbeltklikker på den monterte mappen, vises følgende feil umiddelbart
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3s5dragb/13-missing-mount-point.png)
 
-_`Plasseringen er ikke tilgjengelig`_ eller
+**`Plasseringen er ikke tilgjengelig`** eller
 
-_`Nettverksbanen ble ikke funnet`_ `<Path> er ikke tilgjengelig som så lenken er brute`
+**`Nettverksbanen ble ikke funnet`** `<Path> er ikke tilgjengelig som så lenken er brute`
 
 ### 3.1 **Hvordan fikse det**
 
 Opprett mappen på nytt manuelt Hvis mappen forblir "fast" selv etter en omstart:
 
 1. Gi den problematiske mappen nytt navn (f.eks. gi nytt navn til `ProjectData` til `ProjectData_OLD`).
-1. Opprett en helt ny mappe med det opprinnelige navnet (`ProjectData`).
-1. Desktop Connector vil oppdage den nye, sunne mappen og gjenoppta normal drift uten suffiks `_restricted`.
+2. Opprett en helt ny mappe med det opprinnelige navnet (`ProjectData`).
+3. Desktop Connector vil oppdage den nye, sunne mappen og gjenoppta normal drift uten suffiks `_restricted`.
 
-_Koble til maskinvaren eller nettverket på nytt_ Gå til "Denne PC-en" og sikre at nettverksstasjonene dine (som `Z:`) er aktive. Kontroller at eksterne USB-enheter eller harddisker er riktig tilkoblet. Hvis de har en rød X, dobbeltklikker du dem for å koble til igjen. Hvis nettverksstasjonen ikke er aktiv og du vet hvilket nettverk stasjonen er på, kobler du til nettverket igjen enten ved å koble i en kabel, knytte til via Wi-Fi, eller når du bruker et VPN, sjekker du at VPN-en er aktiv. Hvis stasjonen ikke lenger er tilgjengelig, velger du en annen målmappe i Desktop Connector som er tilgjengelig enten på den lokale datamaskinen eller på nettverket.
+**Koble til maskinvaren eller nettverket på nytt** Gå til "Denne PC-en" og sikre at nettverksstasjonene dine (som `Z:`) er aktive. Kontroller at eksterne USB-enheter eller harddisker er riktig tilkoblet. Hvis de har en rød X, dobbeltklikker du dem for å koble til igjen. Hvis nettverksstasjonen ikke er aktiv og du vet hvilket nettverk stasjonen er på, kobler du til nettverket igjen enten ved å koble i en kabel, knytte til via Wi-Fi, eller når du bruker et VPN, sjekker du at VPN-en er aktiv. Hvis stasjonen ikke lenger er tilgjengelig, velger du en annen målmappe i Desktop Connector som er tilgjengelig enten på den lokale datamaskinen eller på nettverket.
 
-_Slett/gi nytt navn og opprett på nytt_ Hvis en lokal mappe eller snarvei forblir "fast" (du ser den, men kan ikke åpne den) selv etter en omstart: Gi den problematiske mappen eller snarveifilene nytt navn (f.eks. gi nytt navn til `ProjectData` til `ProjectData_OLD`) eller slett den. Opprett en helt ny mappe med det opprinnelige navnet (`ProjectData`). Start overføringen på nytt. Desktop Connector vil oppdage den nye, sunne mappen og gjenoppta normal drift uten suffiks `_restricted`.
+**Slett/gi nytt navn og opprett på nytt** Hvis en lokal mappe eller snarvei forblir "fast" (du ser den, men kan ikke åpne den) selv etter en omstart: Gi den problematiske mappen eller snarveifilene nytt navn (f.eks. gi nytt navn til `ProjectData` til `ProjectData_OLD`) eller slett den. Opprett en helt ny mappe med det opprinnelige navnet (`ProjectData`). Start overføringen på nytt. Desktop Connector vil oppdage den nye, sunne mappen og gjenoppta normal drift uten suffiks `_restricted`.

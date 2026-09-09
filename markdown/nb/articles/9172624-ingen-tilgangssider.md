@@ -30,7 +30,7 @@ Det finnes flere måter å nekte tilgang til steder på Catenda Hub. Brukere som
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/04-no-access-to-topic-boards-on-the-boards-page.png)
 
-_Klikk her for å opprette en saksliste_ Klikk på meldingen for å opprette en saksliste i prosjektet. Denne meldingen vil alltid være der, men uten tilgang til å opprette sakslister vil en feil vises når du prøver å opprette listen. _Nødvendig tilgang:_ Tilgang til å opprette nye sakslister på prosjektinnstillingssiden.
+**Klikk her for å opprette en saksliste** Klikk på meldingen for å opprette en saksliste i prosjektet. Denne meldingen vil alltid være der, men uten tilgang til å opprette sakslister vil en feil vises når du prøver å opprette listen. _Nødvendig tilgang:_ Tilgang til å opprette nye sakslister på prosjektinnstillingssiden.
 
 ### 3.2 **Ingen tilgang til sakslister på sakssiden**
 
@@ -38,7 +38,7 @@ _Klikk her for å opprette en saksliste_ Klikk på meldingen for å opprette en 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/05-no-access-to-topic-boards-on-the-topics-page.png)
 
-_Ny saksliste_ Klikk på knappen for ny saksliste for å opprette en ny saksliste. _Nødvendig tilgang:_ Tilgang til å opprette nye sakslister på prosjektinnstillingssiden.
+**Ny saksliste** Klikk på knappen for ny saksliste for å opprette en ny saksliste. _Nødvendig tilgang:_ Tilgang til å opprette nye sakslister på prosjektinnstillingssiden.
 
 ### 3.3 **Saksliste som ikke eksisterer**
 
@@ -48,7 +48,7 @@ _Ny saksliste_ Klikk på knappen for ny saksliste for å opprette en ny sakslist
 
 Når sakssiden åpnes, lastes den siste listen som ble besøkt. Hvis den siste listen som ble besøkt ikke lenger eksisterer, vises denne siden.
 
-_Last inn standard saksliste_ Klikk på knappen for å laste inn standard saksliste for å laste inn den første sakslisten du har tilgang til i et prosjekt.
+**Last inn standard saksliste** Klikk på knappen for å laste inn standard saksliste for å laste inn den første sakslisten du har tilgang til i et prosjekt.
 
 _Ingen tilgang til standard saksliste_ Uten tilgang til den første sakslisten i listen over aktive sakslister i prosjektet, vises ikke knappen for å laste inn standard saksliste.
 
@@ -70,13 +70,13 @@ For å få tilgang til denne sakslisten, ber du en prosjektadministrator om tilg
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/09-no-access-in-a-topic.png)
 
-_Tildelt til og Forespurt av_ Hvis den tildelte eller forespurte ikke har tilgang til sakslisten, vil du se (ingen tilgang) i parentes bak brukernavnet deres. Hvis brukeren ikke eksisterer i prosjektet, vil du se e-postadressen deres i parentes i stedet for brukernavnet deres
+**Tildelt til og Forespurt av** Hvis den tildelte eller forespurte ikke har tilgang til sakslisten, vil du se (ingen tilgang) i parentes bak brukernavnet deres. Hvis brukeren ikke eksisterer i prosjektet, vil du se e-postadressen deres i parentes i stedet for brukernavnet deres
 
-_Lenking av saker med #_ Hvis en sak fra en liste du ikke har tilgang til er lenket med # i enten beskrivelsen eller en kommentar, vil du se # med saknummeret, men ikke tittelen på saken. Saken vil da ikke vises for deg i de linkede sakene i menyen med informasjon på høyre side.
+**Lenking av saker med #** Hvis en sak fra en liste du ikke har tilgang til er lenket med # i enten beskrivelsen eller en kommentar, vil du se # med saknummeret, men ikke tittelen på saken. Saken vil da ikke vises for deg i de linkede sakene i menyen med informasjon på høyre side.
 
-_Ingen tilgang til linkede dokumenter_ Hvis du ikke har tilgang til et linket dokument, vil du se et spørsmålstegn i dokumentdelen av menyen med informasjon på høyre side.
+**Ingen tilgang til linkede dokumenter** Hvis du ikke har tilgang til et linket dokument, vil du se et spørsmålstegn i dokumentdelen av menyen med informasjon på høyre side.
 
-_Ingen tilgang til objekter_ Hvis du ikke har tilgang til objektene som er linket til saken, vil du se at det er lenket noen objekter, men de vil vises som _Ukjent_
+**Ingen tilgang til objekter** Hvis du ikke har tilgang til objektene som er linket til saken, vil du se at det er lenket noen objekter, men de vil vises som _Ukjent_
 
 _Øyeblikksbilde - Ingen modelltilgang_ Øyeblikksbildet inneholder et bilde fra når det ble lagt til. Dette bildet oppdateres ikke, så det kan være utdatert.
 
@@ -120,11 +120,11 @@ En annen grunn til at dette kan skje, er hvis det ikke finnes offentlige revisjo
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/16-br-br-no-access-to-a-document-in-an-approval.png)
 
-_Ingen tilgang for anmelder_ Hvis en anmelder ikke har tilgang til en gjennomgang, vil du se (Ingen tilgang) bak brukeren. Dette kan skje hvis brukeren ikke lenger er del av prosjektet.
+**Ingen tilgang for anmelder** Hvis en anmelder ikke har tilgang til en gjennomgang, vil du se (Ingen tilgang) bak brukeren. Dette kan skje hvis brukeren ikke lenger er del av prosjektet.
 
-_Ingen tilgang til dokumenter i gjennomgang_ Hvis du ikke kan vise et dokument, enten fordi du ikke har tilgang eller fordi dokumentet er slettet, i en gjennomgang vil du se en melding:
+**Ingen tilgang til dokumenter i gjennomgang** Hvis du ikke kan vise et dokument, enten fordi du ikke har tilgang eller fordi dokumentet er slettet, i en gjennomgang vil du se en melding:
 
-_Det er en fil i gjennomgangen som du ikke kan se._ Hvis du kan publisere gjennomgangen, vil du også se en knapp for å fjerne filen fra forespørselen, ettersom du ikke kan publisere filer som du ikke har tilgang til.
+**Det er en fil i gjennomgangen som du ikke kan se.** Hvis du kan publisere gjennomgangen, vil du også se en knapp for å fjerne filen fra forespørselen, ettersom du ikke kan publisere filer som du ikke har tilgang til.
 
 ### 4.6 **Mappe ikke funnet**
 

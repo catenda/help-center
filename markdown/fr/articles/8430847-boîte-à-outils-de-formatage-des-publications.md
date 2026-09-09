@@ -128,7 +128,7 @@ Se transformeront tous en ceci :
 
 - Premier élément
 - Deuxième élément
-    - Insérez 4 espaces au début de la ligne pour créer une sous-liste.
+  - Insérez 4 espaces au début de la ligne pour créer une sous-liste.
 
 > **Remarque :** Pour qu'une liste non ordonnée soit formatée correctement, il doit y avoir une ligne vierge au-dessus de la liste.
 
@@ -153,10 +153,10 @@ Ou
 Se transformeront tous en ceci :
 
 1. article un
-1. article deux
-1. article trois
+2. article deux
+3. article trois
 
-    1. Article quatre
+   4. Article quatre
 
 > **Remarque :** Pour qu'une liste ordonnée soit formatée correctement, il doit y avoir une ligne vierge au-dessus de la liste.
 
@@ -169,10 +169,10 @@ Le numéro avec lequel vous commencez n'affecte pas le début de la numérotatio
 Se transformera en :
 
 1. vingt-trois
-1. vingt-quatre
-1. vingt-cinq
+2. vingt-quatre
+3. vingt-cinq
 
-    1. vingt-six
+   4. vingt-six
 
 Si vous souhaitez réinitialiser la numérotation et recommencer à partir d'un dans une deuxième liste au sein du même message, vous pouvez mettre une ligne vierge ou un [séparateur](#h_3a36cfbc61) entre les deux.
 

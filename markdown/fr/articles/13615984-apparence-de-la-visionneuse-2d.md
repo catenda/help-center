@@ -45,8 +45,7 @@ Cliquez [ici](https://support.catenda.com/en/articles/4854523-2d-location-of-iss
 Avant de travailler avec des marqueurs, assurez-vous que la visionneuse 2D est configurée.
 
 - **Étages des vues du modèle 2D -** Choisissez un étage d'une vue 2D activée comme hauteur de base. Activez d'autres vues 2D pour afficher à côté de cet étage.
-- **Étages des** **bâtiments -** Choisissez un étage d'un bâtiment préconfiguré.
-  La hauteur de base et les vues 2D activées des modèles configurés sont activées.
+- **Étages depuis** **Bâtiments -** Choisissez un étage à partir d'un bâtiment préconfigué. <br>La hauteur de base et les vues 2D activées des modèles configurés sont activées.
 
 **Placement des marqueurs -** Cliquez avec le bouton droit sur le canevas et créez une nouvelle rubrique avec marqueur. Cliquez sur ajouter une localisation dans l'en-tête de la rubrique du panneau de contenu et cliquez sur l'endroit où le marqueur doit être ajouté.
 

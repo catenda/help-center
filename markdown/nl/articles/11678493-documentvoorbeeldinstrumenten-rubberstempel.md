@@ -28,7 +28,7 @@ De stempeltypen in het voorsetmenu kunnen de volgende informatie bevatten:
 
 ### 2.2 Stempeltype-inhoud
 
-In het voorsetmenu zijn de volgende stempels zichtbaar: **Voornaam** - Alles vóór de eerste spatie in de accountnaam
+In het voorinstellingenmenu zijn de volgende stempels zichtbaar: **Voornaam** - Alles vóór de eerste spatie in de accountnaam
 
 **Middelste naam Achternaam** - Alles na de eerste spatie in de accountnaam
 

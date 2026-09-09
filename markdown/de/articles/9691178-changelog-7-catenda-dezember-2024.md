@@ -76,7 +76,7 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die euch vie
 
 - Es ist erneut möglich, Filtermenüs zu reduzieren.
 - Es ist jetzt viel schneller, die Dashboard-Seite für Projekte mit vielen Modellen zu laden.
-    - Das Laden von Modellinformationen im Inhaltsbereich ist jetzt etwa 100-mal schneller.
+  - Das Laden von Modellinformationen im Inhaltsbereich ist jetzt etwa 100-mal schneller.
 - Es ist erneut möglich, vorherige Revisionen beim Vergleich von Modellen auszuwählen.
 - Es ist erneut möglich, Modelle in der 3D-Ansicht von Lesezeichen zu laden.
 - Es ist erneut möglich, Raster in 3D auszublenden.
@@ -84,9 +84,9 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die euch vie
 - Aus der Baumansicht ausgewählte Objekte werden erneut korrekt hervorgehoben.
 - Es ist erneut möglich, Objekte aus Eigenschaftsbibliotheken und verknüpften Objekten zu isolieren.
 - Objektfarbe/-material
-    - Einige Farben, die zuvor angezeigt wurden, werden jetzt erneut korrekt angezeigt.
-    - Objekte werden nicht mehr schwarz statt in ihrer entsprechenden Farbe angezeigt.
-    - Fenster sind erneut transparent.
+  - Einige Farben, die zuvor angezeigt wurden, werden jetzt erneut korrekt angezeigt.
+  - Objekte werden nicht mehr schwarz statt in ihrer entsprechenden Farbe angezeigt.
+  - Fenster sind erneut transparent.
 - 2D-Ansichten wurden für einige Modelle neu verarbeitet, damit sie nicht mehr fehlen.
 - Es ist erneut möglich, Objekteigenschaften im rechten Informationspanel zu sehen.
 
@@ -103,8 +103,7 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die euch vie
 - Beim Hinzufügen von Dokumenten zu Sammlungen ist es jetzt möglich, ein Kontrollkästchen oben zu aktivieren, um alle Dokumente in einem Ordner auszuwählen und sie zu einer Sammlung hinzuzufügen.
 - Zusätzlich ist es jetzt auch möglich, auszuwählen, welche Revision eines Dokuments du zu einer Sammlung hinzufügen möchtest, damit die richtige angezeigt wird, wenn du die Sammlung auf Dokumentrevisionen fixierst, anstatt der neuesten Revision zu folgen.
 - Benutzer mit vollständigem Zugriff auf ein Dokument können jetzt eine [Revision](https://support.catenda.com/en/articles/9711174-withdraw-revision) eines Dokuments und damit auch eines Modells zurückziehen, wenn es sich um ein IFC-Dokument handelt.
-- Es ist jetzt möglich, ein benutzerdefiniertes Logo zu den Themenberichten hinzuzufügen, die als PDF exportiert werden.
-  Die Logo-Einstellungen findest du auf der Projektseite.
+- Es ist nun möglich, ein benutzerdefiniertes Logo zu den Themenberichten hinzuzufügen, die in PDF exportiert werden.<br>Die Logo-Einstellungen finden Sie auf der Projektseite.
 - Du kannst dein Projekt jetzt in einen veröffentlichten Bereich und einen freigegebenen Bereich aufteilen, damit du verschiedenen Personen Zugriff auf einen öffentlichen Teil und einen freigegebenen Teil gewähren kannst, in dem Dokumente noch zur Veröffentlichung vorbereitet werden. (Bitte frage, um dies in deinem Projekt zu aktivieren) Nur die veröffentlichten Dokumente sind in Catenda Site sichtbar
 
 ### 3.2 **Modelle**

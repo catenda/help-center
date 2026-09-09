@@ -24,10 +24,8 @@ Det er ofte best å aktivere denne funksjonen ved starten av et nytt prosjekt da
 - Den nye gjennomgangsarbeidsflyten har ikke varsel.
 - Bare den engelske oversettelsen er tilgjengelig.
 - Den nye gjennomgangsarbeidsflyten kan bare aktiveres hvis delte revisjoner ikke tidligere var aktivert. Prosjekter opprettet basert på et malprosjekt der den nye gamle arbeidsflyten er aktivert vil ha den gamle valideringsarbeidsflyten aktivert. Det er bare mulig å se den nye valideringsarbeidsflyten i prosjekter basert på malprosjekter der delte revisjoner aldri har vært aktivert.
-- Bare ett gjennomgangsforespørselstrinn kan være aktivt på en gang.
-  Alle dokumenter i et gjennomgangsforespørselstrinn må enten godkjennes eller avvises før gjennomgangsforespørselen kan gå til neste trinn.
-- Det er bare mulig å enten godkjenne eller avvise.
-  Kommentarer kan legges til via merknader, men det er ingen godkjenne/avvise med kommentar som i den gamle valideringsarbeidsflyten.
+- Bare ett godkjenningstrinn kan være aktivt om gangen. <br>Alle dokumenter i et godkjenningstrinn må enten godkjennes eller avvises før godkjenningstrinnet kan gå videre til neste trinn.
+- Det er bare mulig å enten viderefører eller til oppfølging. <br>Kommentarer kan legges til via merknader, men det finnes ingen viderefør/til oppfølging med kommentar som i den gamle valideringsmalen.
 
 ## 2. **Aktivering av funksjoner på forespørsel**
 

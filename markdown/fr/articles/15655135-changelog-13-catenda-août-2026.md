@@ -10,13 +10,9 @@ Prenez votre temps pour reprendre votre routine de travail, assurez-vous de rest
 
 Bienvenue ! ☀️😎🏖️🌊🍦☕
 
-Les topics suivants sont décrits dans cet article :
-
 ## 1. **Articles**
 
 À mesure que de nouvelles fonctionnalités sont déployées et que les bugs sont corrigés, les articles sont mis à jour avec les modifications apportées. Veuillez trouver les articles suivants qui ont été créés et modifiés depuis le dernier changelog.
-
-Les topics suivants sont décrits dans cette section :
 
 ### 1.1 **Nouveaux articles :**
 
@@ -84,92 +80,57 @@ Les topics suivants sont décrits dans cette section :
 
 Grâce à vos précieux commentaires, nous avons pu éliminer de nombreux topics que vous ayez remarqué ou non. Voici une liste des petits changements apportés par l'équipe de développement suite à des conversations avec les utilisateurs.
 
-Les topics suivants sont décrits dans cette section :
-
 ### 3.1 **Général**
 
-- **[Projets] Création de projet restaurée**
-  Il est maintenant possible de créer à nouveau des projets.
-- **[Projets] Création dans les organisations avec des limites de projets**
-  Il est maintenant possible de créer à nouveau des projets dans les organisations dont la limite est inférieure à 100 projets.
-- **[Navigation] Écran blanc à la reprise d'activité**
-  Les pages n'affichent plus intermittemment un écran blanc lors de la reprise d'activité après une période d'inactivité.
-- **[Localisation] Accès aux langues autres que l'anglais**
-  Il est maintenant possible d'accéder à Catenda si la préférence de langue est définie sur une langue autre que l'anglais.
+- **[Projets] Création de projet restaurée**<br>Il est à nouveau possible de créer des projets.
+- **[Projets] Création dans les organisations avec limites de projets**<br>Il est à nouveau possible de créer des projets dans les organisations avec une limite inférieure à 100 projets.
+- **[Navigation] Écran blanc à la reprise d'activité**<br>Les pages n'affichent plus intermittently un écran blanc lors de la reprise d'activité après une période d'inactivité.
+- **[Localisation] Accès aux langues autres que l'anglais**<br>Il est à nouveau possible d'accéder à Catenda si la préférence de langue est définie sur une langue autre que l'anglais.
 
 ### 3.2 **Topics**
 
-- **[Tableau des topics] Comportement de la case à cocher Sélectionner tout**
-  La case à cocher Sélectionner tout dans un tableau de topics est maintenant correctement cochée et décochée après la sélection de tous les topics.
-- **[Vue Kanban] Basculement de la visibilité du sous-filtre**
-  En vue Kanban, seuls les topics du sous-filtre apparaissent et disparaissent maintenant lors du cochage du filtre dans le menu de filtre au lieu de tous les topics de ce type de filtre.
-- **[Conseil de formatage] Logo dans l'aperçu Markdown**
-  L'image Markdown intégrée dans le conseil de formatage du message du topic affiche maintenant à nouveau le logo Catenda
+- **[Liste de sujets] Comportement de la case à cocher Sélectionner tout**<br>La case à cocher Sélectionner tout dans le tableau de la liste de sujets est à nouveau correctement cochée et décochée après la sélection de tous les sujets.
+- **[Vue Kanban] Basculement de la visibilité du sous-filtre**<br>En vue Kanban, seuls les sujets du sous-filtre apparaissent et disparaissent maintenant lors de la vérification du filtre dans le menu des filtres au lieu de tous les sujets de ce type de filtre.
+- **[Indice de formatage] Logo dans l'aperçu markdown**<br>L'image markdown en ligne dans l'indice de formatage du message du sujet affiche à nouveau le logo Catenda
 
 ### 3.3 **Documents**
 
-- **[Aperçu du document] Correction de l'erreur du processus de téléchargement**
-  Le processus de téléchargement de document a été modifié de sorte qu'une erreur que certains utilisateurs ont éprouvée sur certains documents lors de leur consultation dans l'aperçu du document n'apparaît plus.
-- **[Approbations] Gestion du statut d'approbation héritée en brouillon**
-  Il est maintenant possible de soumettre à nouveau les approbations héritées et de mettre à jour les paramètres d'approbation hérités où un statut de brouillon est configuré comme résultat pour un document rejeté.
-- **[Aperçu du document] Options du menu Télécharger/Enregistrer sous**
-  Les menus Télécharger/Enregistrer sous sont maintenant à nouveau visibles dans le menu d'action de l'aperçu du document.
-- **[Aperçu du document] Noms de fichiers avec points dans le nom**
-  Il est maintenant possible de visualiser à nouveau les documents qui ont un point dans le nom du document en plus de l'extension.
-- **[Aperçu du document] Aperçus des types de fichiers image**
-  Il est maintenant possible de visualiser à nouveau les types de fichiers image dans l'aperçu du document
-- **[Téléchargements] Correction lituanienne et hongroise**
-  Il est maintenant possible de télécharger des documents simples lorsque la préférence de langue est définie sur le lituanien ou le hongrois.
-- **[Conventions de nommage] Correction de validation des caractères spéciaux allemands**
-  La validation de la convention de nommage de fichier n'échoue plus lors du téléchargement de documents avec des codes de champ personnalisés contenant des caractères spéciaux allemands.
-- **[Liste de documents] Correction de la mise en page des espaces blancs lors du défilement**
-  L'espace blanc ne recouvre plus certaines lignes de documents après le défilement vers le bas de longues listes de documents dans les collections où les documents ajoutés ont été supprimés depuis.
-- **[Aperçu du document] Chargement préoptimisé de l'aperçu**
-  Lorsqu'un aperçu de document était ouvert, une version brute et lente était initialement affichée jusqu'à ce qu'une version optimisée et plus facile à utiliser soit affichée.
-  Particularièrement pour les fichiers plus volumineux, il pouvait s'écouler un certain temps avant que cette version optimisée soit prête. Maintenant, pour tous les nouveaux fichiers, une version optimisée est préparée même avant l'ouverture de l'aperçu du document. Les fichiers plus anciens seront optimisés lors de l'ouverture de l'aperçu et devront peut-être être rechargés. De plus, le serveur préparant des aperçus optimisés a été amélioré, ce qui rend moins probable qu'un écran de traitement gris soit affiché lors de l'ouverture de l'aperçu du document.
-  Cette modification sera surtout remarquable sur les fichiers plus volumineux tels que les PDF comportant de nombreuses pages ou des images volumineuses et des formats CAO.
+- **[Aperçu du document] Correction du processus de téléchargement**<br>Le processus de téléchargement du document est modifié de sorte qu'une erreur que certains utilisateurs ont rencontrée sur certains documents lors de leur consultation dans l'aperçu du document n'apparaît plus.
+- **[Approbations] Gestion du statut de brouillon d'approbation antérieure**<br>Il est à nouveau possible de soumettre des approbations antérieures et de mettre à jour les paramètres d'approbation antérieurs lorsqu'un statut de brouillon est configuré comme résultat pour un document rejeté.
+- **[Aperçu du document] Options du menu Télécharger/Enregistrer sous**<br>Les menus Télécharger/Enregistrer sous sont à nouveau visibles dans le menu d'action de l'aperçu du document.
+- **[Aperçu du document] Noms de fichiers avec des points dans le nom**<br>Il est à nouveau possible d'afficher l'aperçu des documents qui ont un point au milieu du nom du document en plus de l'extension.
+- **[Aperçu du document] Aperçus des types de fichiers image**<br>Il est à nouveau possible d'afficher l'aperçu des types de fichiers image dans l'aperçu du document
+- **[Téléchargements] Correction de la langue lituanienne et hongroise**<br>Il est à nouveau possible de télécharger des documents individuels lorsque la préférence de langue est définie sur le lituanien ou le hongrois.
+- **[Conventions de nommage] Correction de la validation des trémas allemands**<br>La validation de la convention de nommage de fichier n'échoue plus lors du téléchargement de documents avec des codes de champs personnalisés contenant des trémas allemands.
+- **[Liste de documents] Correction de la mise en page des espaces blancs au défilement**<br>L'espace blanc ne couvre plus certaines lignes de documents après le défilement vers le bas de longues listes de documents dans des collections où les documents ajoutés ont été supprimés.
+- **[Aperçu du document] Chargement de l'aperçu pré-optimisé**<br>Lors de l'ouverture d'un aperçu de document, une version brute et lente était d'abord affichée jusqu'à ce qu'une version optimisée et plus facile à utiliser soit affichée.<br>En particulier pour les fichiers plus volumineux, il pouvait s'écouler un certain temps avant que cette version optimisée soit prête. Maintenant, pour tous les nouveaux fichiers, une version optimisée est préparée même avant que l'aperçu du document ne soit ouvert. Les fichiers plus anciens seront optimisés à l'ouverture de l'aperçu et devront peut-être être rechargés. De plus, le serveur préparant les aperçus optimisés a été mis à niveau, ce qui rend moins probable l'affichage d'un écran de traitement gris à l'ouverture de l'aperçu du document.<br>Ce changement sera surtout visible sur les fichiers plus volumineux tels que les fichiers PDF avec plusieurs pages ou les images lourdes et les formats CAO.
 
 ### 3.4 **Modèles**
 
-- **[Panneau d'informations] Les topics liés sont à nouveau visibles.**
-  Les topics liés à des objets sont maintenant à nouveau visibles dans le menu d'inspection du panneau d'informations sous l'onglet topics.
-- **[Configurateur d'étage] Correction de l'affichage des surfaces de dessous PDF.**
-  Il est maintenant possible de visualiser à nouveau les documents de surface de dessous PDF dans l'aperçu du document du configurateur d'étage pour les PDF qui n'ont pas de polices intégrées.
+- **[Panneau d'informations] Les sujets liés sont à nouveau visibles.**<br>Les sujets liés à des objets sont à nouveau visibles dans le menu d'inspection du panneau d'informations sous l'onglet Sujets.
+- **[Configurateur d'étages] Affichage des calques PDF corrigé.**<br>Il est à nouveau possible d'afficher l'aperçu des documents de calque PDF dans l'aperçu du document du configurateur d'étages pour les fichiers PDF qui n'ont pas de polices intégrées.
 
 ## 4. **Demandes utilisateurs complétées**
 
 ### 4.1 Topics
 
-- **Une nouvelle vue pour les topics a été ajoutée : Kanban**
-  Organisez, filtrez et mettez à jour les topics directement sur un tableau Kanban, améliorant la gestion des problèmes, la gestion des tâches et la collaboration d'équipe dans Catenda Hub.
-  Modifiez les filtres pour afficher non seulement tous les topics dans une liste comme avec la vue de liste, mais voyez les topics dans les colonnes en fonction des différents filtres disponibles.
-  Par exemple, une colonne par assigné afin que vous voyiez les topics assignés à des personnes les uns à côté des autres ou une colonne par statut ou une colonne pour les topics qui sont dus aujourd'hui, dus dans une semaine, dus en plus d'une semaine et en retard.
-- **La page des statistiques des topics**
-  a subi une refonte visuelle qui la rend plus réactive. Il est maintenant possible de survoler n'importe où sur le volume du graphique pour voir le nombre de topics avec différents statuts à ce moment donné de la chronologie du projet au lieu de simplement survoler la ligne du graphique.
+- **Un nouvel affichage pour les sujets a été ajouté : Kanban**<br>Organisez, filtrez et mettez à jour les sujets directement sur un tableau Kanban, améliorant la gestion des problèmes, la gestion des tâches et la collaboration d'équipe dans Catenda Hub. <br>Modifiez les filtres pour voir non seulement tous les sujets dans une seule liste comme avec l'affichage en liste, mais voir les sujets dans des colonnes en fonction des différents filtres disponibles.<br>Par exemple, une colonne par personne assignée afin que vous voyiez les sujets assignés aux personnes côte à côte ou une colonne par statut ou une colonne pour les sujets qui sont dus aujourd'hui, dus dans une semaine, dus en plus d'une semaine et en retard.
+- **La page des statistiques des sujets**<br>a subi une refonte visuelle la rendant plus réactive. Il est maintenant possible de survoler n'importe où sur le volume du graphique pour voir le nombre de sujets avec différents statuts à un point donné de la chronologie du projet au lieu de simplement lorsque la ligne du graphique est survolée.
 
 ### 4.2 **Documents**
 
-- **Gestion flexible des équipes de soumission**
-  Il est maintenant possible d'ajouter ou de supprimer des équipes de soumission sur les flux d'approbation existants après leur enregistrement.
-  Les administrateurs de projet peuvent mettre à jour qui est autorisé à lancer de nouvelles demandes d'approbation sans avoir à recréer entièrement le modèle de flux de travail.
-- **Exiger l'examen de tous les membres de l'équipe**
-  Un nouveau paramètre a été ajouté aux étapes d'examen d'approbation qui exige que chaque membre individuel d'une équipe d'examinateurs soumette sa propre indication de validation.
-  Au lieu d'avancer dès qu'un seul membre répond, l'étape reste maintenant ouverte jusqu'à ce que chaque membre de l'équipe assignée ait complété son examen.
-- **Création automatique de topic lors de l'achèvement de l'approbation**
-  Les flux d'approbation peuvent maintenant être liés à des modèles de topic afin que les topics soient créés automatiquement lors de la fin d'une demande d'approbation.
-  La sélection d'un modèle de topic pour des décisions de résultats spécifiques garantit que les remarques de suivi et les problèmes sont immédiatement enregistrés dans un tableau de topics pour le suivi.
-- **Onglet Aperçu des révisions de document**
-  La page des approbations propose maintenant un onglet dédié "Révisions de document" qui fournit un aperçu complet du tableau de tous les fichiers actuellement en cours d'examen dans toutes les approbations ouvertes.
-  Vous pouvez maintenant rechercher, trier et filtrer les révisions de document individuelles par assignation d'équipe, état d'examen et date d'échéance sans avoir besoin d'ouvrir chaque package d'approbation séparément.
+- **Gestion flexible des équipes de soumettants** <br>Il est maintenant possible d'ajouter ou de supprimer des équipes de soumettants sur les flux de travail d'approbation existants après leur enregistrement. <br>Les administrateurs de projet peuvent mettre à jour qui est autorisé à lancer de nouvelles demandes d'approbation sans avoir à recréer le modèle de flux de travail entier à partir de zéro.
+- **Exiger un examen de tous les membres de l'équipe** <br>Un nouveau paramètre a été ajouté aux étapes d'examen de l'approbation qui exige que chaque membre individuel d'une équipe d'examinateurs soumettre sa propre indication de validation.<br>Au lieu d'avancer dès qu'un seul membre répond, l'étape restera maintenant ouverte jusqu'à ce que chaque membre de l'équipe assignée ait terminé son examen.
+- **Création automatique de sujets à la fin de l'approbation** <br>Les flux de travail d'approbation peuvent maintenant être liés à des modèles de sujets de sorte que les sujets soient automatiquement créés lorsqu'une demande d'approbation est terminée. <br>La sélection d'un modèle de sujet pour des décisions de résultats spécifiques garantit que les remarques de suivi et les problèmes sont immédiatement enregistrés dans une liste de sujets pour le suivi.
+- **Onglet Aperçu des révisions de documents** <br>La page des approbations dispose maintenant d'un onglet dédié "Révisions de documents" qui fournit un aperçu complet du tableau de tous les fichiers actuellement en révision dans toutes les approbations ouvertes. <br>Vous pouvez maintenant rechercher, trier et filtrer les révisions de documents individuelles par assignation d'équipe, état d'examen et date d'échéance sans avoir à ouvrir chaque package d'approbation séparément.
 - **Localisation japonaise pour les approbations**
 
-La localisation complète en japonais a été implémentée dans l'interface d'approbation et les pages de configuration du flux de travail. Les équipes travaillant en japonais peuvent maintenant naviguer dans les cartes d'approbation, les outils d'examen de document et les menus de configuration avec une terminologie localisée précise et cohérente.
+  La localisation complète en japonais a été implémentée dans l'interface d'approbation et les pages de configuration du flux de travail.
+  Les équipes travaillant en japonais peuvent maintenant naviguer dans les cartes d'approbation, les outils d'examen de document et les menus de configuration avec une terminologie localisée précise et cohérente.
 
 ### 4.3 **Paramètres du projet**
 
-- **Refonte de la page d'invitation**
-  La page d'invitation du projet a été modifiée de sorte qu'il n'y ait plus de confusion sur le fait de devoir cliquer sur le bouton ajouter avant de pouvoir cliquer sur envoyer l'invitation.
-  Il est maintenant possible de cliquer en dehors du champ pour appliquer avant de cliquer sur inviter l'utilisateur.
+- **Révision de la page d'invitation**<br>La page d'invitation du projet a été modifiée de sorte qu'il n'y ait plus de confusion quant au fait de devoir cliquer sur le bouton d'ajout avant de pouvoir cliquer sur l'invitation d'envoi. <br>Il est maintenant possible de cliquer en dehors du champ pour appliquer avant de cliquer sur inviter l'utilisateur.
 
 ## 5. **Nouvelles versions** - Plugins et intégrations
 

@@ -6,7 +6,7 @@ Dit artikel is gegenereerd door onze AI-ondersteuningsagent te gebruiken. De pro
 
 ## 1. **Kennismaaking met Lena Tran, Senior Opstelcoördinator**
 
-Deze gids is voor documentindieners zoals Lena Tran, Senior Opstelcoördinator voor een project voor een meerlaags gemeenschapscentrum. Zij bereidt documenten voor over voetgangersdoorgang, busroutes en bouwschema's, zodat deze duidelijk zijn voor aannemers, planners en eigenaren.
+Deze gids is bedoeld voor documentindieners zoals Lena Tran, Senior Drafting Coordinator aan een project voor een meerstoerige gemeenschapscentrum. Ze bereidt Documenten voor over voetgangerstoegang, busroutes en bouwschema's, zodat deze duidelijk zijn voor aannemers, planners en eigenaren.
 
 ## 2. **Waarom goedkeuringen belangrijk zijn**
 
@@ -14,7 +14,7 @@ Goedkeuringen zorgen ervoor dat alleen nauwkeurige, beoordeelde documenten worde
 
 _Reële fouten voorkomen_ is het kernoel van het goedkeuringsproces. Onverifieerde documenten kunnen resulteren in bouwfouten die veiligheid en planning beïnvloeden.
 
-_Zorgen voor overeenstemming tussen belanghebbenden_ betekent dat iedereen, van planners tot aannemers, akkoord gaat voordat het werk begint.
+_Het verzekeren van overeenstemming met belanghebbenden_ betekent dat iedereen, van planners tot aannemers, akkoord gaat voordat het werk begint.
 
 _Ondersteuning van projectsucces_ is afhankelijk van duidelijke, traceerbare documentatie waar iedereen op kan vertrouwen.
 
@@ -32,7 +32,7 @@ _Vertegenwoordigers van de klant_ verifiëren dat de geleverde producten aanslui
 
 Lena begint het goedkeuringsproces door naar Documenten > Goedkeuringen te navigeren of met de rechtermuisknop op een document in het systeem te klikken. Dit opent de interface voor workflowselectie.
 
-_De juiste workflow selecteren_, zoals "Beoordeling openbare toegang", zorgt ervoor dat de juiste reviewers betrokken zijn.
+_Het selecteren van de juiste workflow_, zoals "Public Access Review", zorgt ervoor dat de juiste beoordelaars betrokken zijn.
 
 _Gedeelde revisies toevoegen_ maakt het mogelijk tot 1.000 documentversies in één verzoek op te nemen.
 

@@ -1,4 +1,4 @@
-# Legg til kontekst til prosjektene dine med fritt tilgjengelige IGN-punktskyer (HD LiDAR)
+# Legg til gratis IGN-punktskyer (HD LiDAR) i et prosjekt
 
 Som del av [nasjonalt LiDAR HD-program](https://geoservices.ign.fr/lidarhd), produserer og distribuerer IGN 3D-kartlegging av hele bakken og overflaten av Frankrike i LiDAR-data. Dataene som distribueres er særlig rekalibrerte punktskyer, rå eller klassifisert, og 3D digitale modeller (DEM, DSM, MNH, osv.). Det er mulig med gratis og åpen kildekode-verktøy å transformere IGN-punktskyene (publisert i `.laz` og Lambert 93-formater) til .las eller .e57-format (leselig i vår 3D-viser) og til referansekoordinatsystemet (RCS) som tilsvarer prosjektet ditt.
 
@@ -15,7 +15,7 @@ Dette er det enkleste trinnet! Last ned punktskytilen som tilsvarer konteksten t
 Det er her det blir komplisert! For å transformere punktskyen din, må du installere disse to åpen kildekode-programmene:
 
 1. [Miniconda](https://docs.conda.io/en/latest/miniconda.html) er en lettere versjon av den gratis og åpen kildekode [Anaconda](https://fr.wikipedia.org/wiki/Anaconda_(distribution_Python))-distribusjonen av Python og R programmeringsspråk, brukt til utvikling av datavitenskaplige applikasjoner.
-1. [PDAL](https://pdal.io/en/2.9.2/) er et åpen kildekode-bibliotek for behandling av punktskydata. Det er litt som en VLC-spiller for punktskyer ;)
+2. [PDAL](https://pdal.io/en/2.9.2/) er et åpen kildekode-bibliotek for behandling av punktskydata. Det er litt som en VLC-spiller for punktskyer ;)
 
 Faktisk trenger vi Anaconda-ledeteksten for å bruke PDAL, som vil ta seg av transformasjonen. La oss gå 👇
 
@@ -23,15 +23,14 @@ Faktisk trenger vi Anaconda-ledeteksten for å bruke PDAL, som vil ta seg av tra
 
 PDAL avhenger av andre biblioteker, så den enkleste måten er å bruke Miniconda (en lettere versjon av Anaconda).
 
-1. Gå til den offisielle Miniconda-nedlastingssiden:
-   👉 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
-1. [Last ned](https://www.anaconda.com/download) **Miniconda-installatøren for Windows (64-bit, Python 3.x).**
-1. Start installatøren:
-    - Godta lisensavtalen
-    - Velg "Bare for meg" (anbefalt)
-    - Behold standard installasjonssted
-    - Merk av "Legg til Miniconda3 til PATH" hvis alternativet tilbys
-1. Når installasjonen er fullført, åpner du Anaconda-ledeteksten (dette er vinduet du skal bruke i stedet for CMD/PowerShell for PDAL).
+1. Gå til den offisielle Miniconda-nedlastingssiden: <br>👉 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
+2. [Last ned](https://www.anaconda.com/download) **Miniconda-installatøren for Windows (64-bit, Python 3.x).**
+3. Start installatøren:
+   - Godta lisensavtalen
+   - Velg "Bare for meg" (anbefalt)
+   - Behold standard installasjonssted
+   - Merk av "Legg til Miniconda3 til PATH" hvis alternativet tilbys
+4. Når installasjonen er fullført, åpner du Anaconda-ledeteksten (dette er vinduet du skal bruke i stedet for CMD/PowerShell for PDAL).
 
 ### 2.2 **2.2. Opprett et Conda-miljø for PDAL**
 
@@ -92,9 +91,9 @@ pdal translate ^ "C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69
 🤓 La oss dele opp denne kommandoen:
 
 1. `pdal translate` er hovedkommandoen for å utføre transformasjonen.
-1. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz"` er stien til `.laz`-filen som er lastet ned fra IGN-databasen.
-1. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz`" er stien hvor den fremtidige `.las`-filen vil bli opprettet.
-1. reprojektionskommandoen -`-filters.reprojection.in_srs="EPSG:2154" --filters.reprojection.out_srs="EPSG:3943"` lar deg reproyisere punktskyen fra Lambert-93 SCR (`EPSG:2154`) til CC43 SCR (`3943`)
+2. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz"` er stien til `.laz`-filen som er lastet ned fra IGN-databasen.
+3. `"C:\Users\USERNAME\Downloads\LHD_FXX_0766_6282_PTS_LAMB93_IGN69.copc.laz`" er stien hvor den fremtidige `.las`-filen vil bli opprettet.
+4. reprojektionskommandoen -`-filters.reprojection.in_srs="EPSG:2154" --filters.reprojection.out_srs="EPSG:3943"` lar deg reproyisere punktskyen fra Lambert-93 SCR (`EPSG:2154`) til CC43 SCR (`3943`)
 
 Kopier kommandoen og erstatt ganske enkelt EPSG-stiene og kodene i inngang og utgang. Når kommandoen er utført, blir den nye .las-filen generert på stedet som er angitt av målstien.
 

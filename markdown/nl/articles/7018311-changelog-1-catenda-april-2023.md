@@ -38,8 +38,7 @@
 
 - Modellen kunnen weer zonder problemen worden geroteerd. (Rotatieveld was korte tijd leeg)
 - Objecten kunnen weer worden verwijderd (Modellen werden korte tijd twee keer geladen)
-- Rasters die uit Revit met de officiële IFC4-exporter zijn geëxporteerd, zijn nu zichtbaar
-  De eerste gemeten meting is nu onmiddellijk zichtbaar door naar inspectie te gaan op schermen waar geen ruimte is om het inspectie paneel en de 3D-viewer tegelijk weer te geven.
+- Rasters geëxporteerd uit Revit met de officiële IFC4-exporter zijn nu zichtbaar<br>De eerste gemeten meting is nu onmiddellijk zichtbaar door naar inspectie te gaan op schermen waar geen ruimte is om het inspectpaneel en de 3D-viewer tegelijkertijd weer te geven.
 - Objecten kunnen nu weer transparant worden gemaakt. (Transparantmaken zou anderen korte tijd verbergen)
 - Panelen zoals eigenschappen blijven nu open, zelfs als u op lege ruimte klikt en terug op hetzelfde object
 

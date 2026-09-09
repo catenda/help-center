@@ -12,7 +12,7 @@ Administratorer vil kunne finne handlingsknapper øverst til høyre på innholds
 
 _Nytt egendefinert felt_ Klikk på den grønne plusskjappen øverst til høyre eller velg Nytt egendefinert felt i valgmenyen for å lage et [nytt egendefinert felt](https://support.catenda.com/en/articles/8445575-creating-a-custom-field)
 
-_Arkiver_ Åpne valgmenyen med de tre prikkene øverst til høyre for å finne Arkiver-handlingen øverst til høyre. Det er kun mulig å arkivere et egendefinert felt. Det er ikke mulig å slette et egendefinert felt.
+**Arkiver** Åpne valgmenyen med de tre prikkene øverst til høyre for å finne Arkiver-handlingen øverst til høyre. Det er kun mulig å arkivere et egendefinert felt. Det er ikke mulig å slette et egendefinert felt.
 
 I stedet for å slette kan egendefinerte felt kun arkiveres. Et arkivert egendefinert felt vil forsvinne fra
 
@@ -32,7 +32,7 @@ Et desimalfelt viser opptil 6 desimaler etter kommaet. Hvis det er mer enn 6 des
 
 Dette feltet brukes ofte til å registrere beløp som materialkostnad eller budsjettkonsekvenser.
 
-_Grense_ Egendefinerte desimalfelt har en grense for verdier mellom `-0.000000001` til `2147483647` per egendefinert heltallsfelt som fylles ut. Egendefinerte desimalfelt har en grense på 17 tall kombinert før og etter desimalskilletegnet. For større tall kan vitenskapelig notasjon brukes. For eksempel `1.0991234567890123e+22` Antall tegn kan begrenses videre med en navnekonvensjon for bruk i dokumentopplastingsnavn.
+**Grense** Egendefinerte desimalfelt har en grense for verdier mellom `-0.000000001` til `2147483647` per egendefinert heltallsfelt som fylles ut. Egendefinerte desimalfelt har en grense på 17 tall kombinert før og etter desimalskilletegnet. For større tall kan vitenskapelig notasjon brukes. For eksempel `1.0991234567890123e+22` Antall tegn kan begrenses videre med en navnekonvensjon for bruk i dokumentopplastingsnavn.
 
 ## 4. **Egendefinert felt med nedtrekksliste**
 
@@ -56,7 +56,7 @@ Under beskrivelsen er Aktiv-fanen aktivert som standard. Klikk på den deaktiver
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/07-active-and-disabled-tabs.png)
 
-_Gjenopprett_ Bruk gjenopprettingshandlingen for å gjenopprette en tidligere deaktivert nedtrekksverdi
+**Gjenopprett** Bruk gjenopprettingshandlingen for å gjenopprette en tidligere deaktivert nedtrekksverdi
 
 > **Merknad:** Hver verdi i listen over aktive verdier må ha et unikt navn, så kontroller at navnet ikke allerede er i bruk når du gjenoppretter en verdi.
 
@@ -66,11 +66,11 @@ I den aktive listen vil du kunne finne nedtrekksalternativene som er for tiden a
 
 _Anker_ Administratorer vil kunne konfigurere rekkefølgen på alternativene ved å dra på ankeret i kolonnen lengst til venstre.
 
-_Navn_ Her vil brukere se navn og et nedtrekksalternativ. Hvis det egendefinerte nedtrekksfelt har blitt [lagt til på en saksliste](https://support.catenda.com/en/articles/6563368-custom-fields-in-a-topic-board), vil du se dette navnet som et alternativ i listen. Et navn kan kun tildeles ett alternativ.
+**Navn** Her vil brukere se navn og et nedtrekksalternativ. Hvis det egendefinerte nedtrekksfelt har blitt [lagt til på en saksliste](https://support.catenda.com/en/articles/6563368-custom-fields-in-a-topic-board), vil du se dette navnet som et alternativ i listen. Et navn kan kun tildeles ett alternativ.
 
-_Kode_ Her vil brukere se koden for et nedtrekksalternativ. Koden brukes til å [identifisere en blokk med en navnekonvensjon](https://support.catenda.com/en/articles/7869240-how-to-use-custom-fields-in-naming-convention). En kode kan kun tildeles ett alternativ.
+**Kode** Her vil brukere se koden for et nedtrekksalternativ. Koden brukes til å [identifisere en blokk med en navnekonvensjon](https://support.catenda.com/en/articles/7869240-how-to-use-custom-fields-in-naming-convention). En kode kan kun tildeles ett alternativ.
 
-_Rediger og deaktiver_ Administratorer vil kunne redigere navnet på et alternativ etter at det har blitt opprettet. Hvis feltet ikke allerede har en kode, er det mulig å legge til en kode. Etter redigering klikker du lagre eller avbryt for å bekrefte.
+**Rediger og deaktiver** Administratorer vil kunne redigere navnet på et alternativ etter at det har blitt opprettet. Hvis feltet ikke allerede har en kode, er det mulig å legge til en kode. Etter redigering klikker du lagre eller avbryt for å bekrefte.
 
 Administratorer vil kunne deaktivere alternativer ved å klikke på deaktiver og deretter klikke på bekreft. Deaktivering er lignende som sletting ettersom alternativet vil forsvinne overalt på Catenda hub, men kan senere gjenopprettes fra listen over deaktiverte alternativer.
 
@@ -92,19 +92,19 @@ Etter å ha klikket på "legg til alternativer" vil du se følgende dialog:
 
 _Navn_ Her kan du legge til et navn og en kode for hvert nedtrekksalternativ.
 
-_Kode_ Koden brukes til å [identifisere en blokk med en navnekonvensjon](https://support.catenda.com/en/articles/7869240-how-to-use-custom-fields-in-naming-convention). Kode er en unik verdi som du kan angi på en gjenstand. Dette betyr at du ikke kan legge til den samme koden to ganger.
+**Kode** Koden brukes til å [identifisere en blokk med en navnekonvensjon](https://support.catenda.com/en/articles/7869240-how-to-use-custom-fields-in-naming-convention). Kode er en unik verdi som du kan angi på en gjenstand. Dette betyr at du ikke kan legge til den samme koden to ganger.
 
-_Navn og kode feilsøking_ Klikk [her](https://support.catenda.com/en/articles/13750419-custom-field-content-troubleshooting) for å lese mer hvis du har problemer med navn og kode.
+**Navn og kode feilsøking** Klikk [her](https://support.catenda.com/en/articles/13750419-custom-field-content-troubleshooting) for å lese mer hvis du har problemer med navn og kode.
 
 ### 4.6 **Legge til flere alternativer**
 
 I et nedtrekksfelt ønsker du ofte å legge til mer enn ett alternativ. Hvis du legger til et navn og klikker på send, må du klikke på "Legg til alternativer" hver gang du ønsker å legge til et alternativ, noe som kan være kjedelig og tidkrevende. Det finnes derfor flere måter du raskt kan legge til alternativer på.
 
-_Hold åpen ved sending_ For å fortsette å legge til alternativ etter alternativ kan du merke av "Hold åpen ved sending"-knappen. Hvis denne knappen er merket, vil du kunne legge til navnet på det neste alternativet umiddelbart etter å ha sendt det forrige alternativet, slik at du ikke trenger å klikke på "Legg til alternativer" hele tiden.
+**Hold åpen ved sending** For å fortsette å legge til alternativ etter alternativ kan du merke av "Hold åpen ved sending"-knappen. Hvis denne knappen er merket, vil du kunne legge til navnet på det neste alternativet umiddelbart etter å ha sendt det forrige alternativet, slik at du ikke trenger å klikke på "Legg til alternativer" hele tiden.
 
-_Legg til flere alternativer_ Hvis du allerede har dine alternativer forberedt utenfor Catenda, kan du lime dem inn på en god måte ved å klikke på "Legg til flere alternativer"-knappen. Når du klikker denne knappen, vil dialogen endres, og du vil kunne lime inn en streng. Hvis Catenda kan tolke stringen riktig, vil navnene og kodene for dine limte alternativer bli gjenkjent, og du vil kunne sende dem alle på en gang.
+**Legg til flere alternativer** Hvis du allerede har dine alternativer forberedt utenfor Catenda, kan du lime dem inn på en god måte ved å klikke på "Legg til flere alternativer"-knappen. Når du klikker denne knappen, vil dialogen endres, og du vil kunne lime inn en streng. Hvis Catenda kan tolke stringen riktig, vil navnene og kodene for dine limte alternativer bli gjenkjent, og du vil kunne sende dem alle på en gang.
 
-_Opprette en limstreng_
+**Opprette en limstreng**
 
 - Excel kopier lim
 
@@ -122,7 +122,7 @@ Etter å ha limt strengen inn i limefeltet, kan du klikke et sted på siden for 
 
 > **Merknad:** Hvis nedtrekksfelt legges til på en saksliste, er det viktig hvor mange felt du legger til, og om feltet ditt er obligatorisk. Hvis det er opptil 10 felt, kan du filtrere etter hvert av feltene. Hvis feltet ikke er obligatorisk, kan du filtrere på om feltet er satt eller ikke.
 
-_Grense_ Selv om det er mulig å legge til opptil 450 alternativer samtidig, anbefales det å legge til opptil 100 alternativer av gangen.
+**Grense** Selv om det er mulig å legge til opptil 450 alternativer samtidig, anbefales det å legge til opptil 100 alternativer av gangen.
 
 ### 4.7 **Grense**
 
@@ -136,7 +136,7 @@ Et egendefinert heltallsfelt viser hele tall.
 
 Bare hele tall er tillatt med dette feltet, ingen desimaler. Dette brukes ofte til å registrere forekomster.
 
-_Grense_ Egendefinerte heltallsfelt har en grense for verdier mellom `-2147483648` til `2147483647` per egendefinert heltallsfelt som fylles ut. Antall tegn kan begrenses videre med en navnekonvensjon for bruk i dokumentopplastingsnavn. For større tall kan et desimalfelt brukes med vitenskapelig notasjon.
+**Grense** Egendefinerte heltallsfelt har en grense for verdier mellom `-2147483648` til `2147483647` per egendefinert heltallsfelt som fylles ut. Antall tegn kan begrenses videre med en navnekonvensjon for bruk i dokumentopplastingsnavn. For større tall kan et desimalfelt brukes med vitenskapelig notasjon.
 
 ## 6. **Egendefinert felt med tekst**
 
@@ -146,4 +146,4 @@ Et egendefinert tekstfelt viser en tekststreng.
 
 Teksten vises på en enkelt linje. Et godt eksempel på et tekstfelt er et felt kalt kommentar som kan fylles ut og ses fra tabellvisningen. I navnekonvensjoner brukes det ofte til å begrense hvor mange tegn som er tillatt for et felt i en dokumenttittel.
 
-_Grense_ Egendefinerte tekstfelt har en maksimal grense på 200 tegn per egendefinert tekstfelt som fylles ut. Antall tegn kan begrenses videre med en navnekonvensjon for bruk i dokumentopplastingsnavn.
+**Grense** Egendefinerte tekstfelt har en maksimal grense på 200 tegn per egendefinert tekstfelt som fylles ut. Antall tegn kan begrenses videre med en navnekonvensjon for bruk i dokumentopplastingsnavn.

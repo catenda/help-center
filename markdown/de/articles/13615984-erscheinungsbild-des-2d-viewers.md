@@ -45,8 +45,7 @@ Klicken Sie [hier](https://support.catenda.com/en/articles/4854523-2d-location-o
 Stellen Sie vor der Arbeit mit Markern sicher, dass der 2D-Viewer konfiguriert ist.
 
 - **Geschosse aus Modell 2D-Ansichten -** Wählen Sie ein Geschoss aus einer aktivierten 2D-Ansicht als Basishöhe. Aktivieren Sie andere 2D-Ansichten, um sie neben diesem Geschoss anzuzeigen.
-- **Geschosse aus Gebäuden -** Wählen Sie ein Geschoss aus einem vorkonfigurierten Gebäude.
-  Die Basishöhe und die aktivierten 2D-Ansichten aus konfigurierten Modellen sind aktiviert.
+- **Storeys from** **Buildings -** Wählen Sie ein Geschoss aus einem vorkonfigurierten Gebäude aus. <br>Die Basishohe und die aktivierten 2D-Ansichten aus konfigurierten Modellen sind aktiviert.
 
 **Markerplatzierung -** Klicken Sie mit der rechten Maustaste auf die Leinwand und erstellen Sie ein neues Thema mit Marker. Klicken Sie auf Ort hinzufügen in der Themenkopfzeile im Inhaltsbereich und klicken Sie auf den Ort, an dem der Marker hinzugefügt werden soll.
 

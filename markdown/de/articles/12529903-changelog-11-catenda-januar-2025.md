@@ -29,52 +29,52 @@ Wenn neue Funktionen veröffentlicht werden und Fehler behoben werden, werden Ar
 **Kontoverwaltung**
 
 - Kontoeinstellungen
-    - [Benachrichtigungsfilterung und -funktionalität](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
-    - [Kontoseite](https://support.catenda.com/en/articles/6880968-account-page)
+  - [Benachrichtigungsfilterung und -funktionalität](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
+  - [Kontoseite](https://support.catenda.com/en/articles/6880968-account-page)
 
 **Produktfunktionen**
 
 - Dashboard
-    - [Dashboard-Seite](https://support.catenda.com/en/articles/8212646-dashboard-page)
+  - [Dashboard-Seite](https://support.catenda.com/en/articles/8212646-dashboard-page)
 - Themen
-    - [Filterung auf der Seite "Themen"](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
-    - [Aktionen in der Themenliste](https://support.catenda.com/en/articles/4670284-topics-table-actions)
-    - [Themen als PDF exportieren](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
-    - [Themenkopfzeile - Das Thema eines Themas](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
-    - [Themen austauschen](https://support.catenda.com/en/articles/4670289-exchange-topics)
+  - [Filterung auf der Seite "Themen"](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
+  - [Aktionen in der Themenliste](https://support.catenda.com/en/articles/4670284-topics-table-actions)
+  - [Themen als PDF exportieren](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
+  - [Themenkopfzeile - Das Thema eines Themas](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
+  - [Themen austauschen](https://support.catenda.com/en/articles/4670289-exchange-topics)
 - Modelle
-    - [Revisions-Selector](https://support.catenda.com/en/articles/4670279-revision-selector)
-    - [Filterung auf der Objektseite](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-    - [Filterung auf der Seite "Modelle"](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-    - [Rechtes Menü auf der Seite "Modelle"](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
-    - [Gleitende Ebenen-Dropdown](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
-    - [Lesezeichen Inhaltsseite](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
+  - [Revisions-Selector](https://support.catenda.com/en/articles/4670279-revision-selector)
+  - [Filterung auf der Objektseite](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+  - [Filterung auf der Seite "Modelle"](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
+  - [Rechtes Menü auf der Seite "Modelle"](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
+  - [Gleitende Ebenen-Dropdown](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
+  - [Lesezeichen Inhaltsseite](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
 - Dokumente
-    - [Übersichtsseite zum Dokumentzugriff](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
-    - [Filterung auf der Dokumentseite](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-    - [Zugriffskontrolle für Ordner und Dokumente](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
-    - [Neuen Workflow erstellen](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
-    - [Workflow-Seite - Dokumenteinstellungen](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
-    - [Dokumentvorschau-Tools](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-    - [ZIP-Datei/Dateistruktur hochladen](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
-    - [Filterung auf der Seite "Sammlungen"](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
-    - [Filterung auf der Genehmigungsseite](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-    - [Filterung auf der Genehmigungsseite - Legacy](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+  - [Übersichtsseite zum Dokumentzugriff](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
+  - [Filterung auf der Dokumentseite](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+  - [Zugriffskontrolle für Ordner und Dokumente](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
+  - [Neuen Workflow erstellen](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
+  - [Workflow-Seite - Dokumenteinstellungen](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
+  - [Dokumentvorschau-Tools](https://support.catenda.com/en/articles/11384618-document-preview-tools)
+  - [ZIP-Datei/Dateistruktur hochladen](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
+  - [Filterung auf der Seite "Sammlungen"](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
+  - [Filterung auf der Genehmigungsseite](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
+  - [Filterung auf der Genehmigungsseite - Legacy](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
 - Einstellungen
-    - [Filterung auf der Seite "Mitglieder und Teams"](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
+  - [Filterung auf der Seite "Mitglieder und Teams"](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
 - 2D & 3D-Viewer
-    - [3D-Viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
-    - [2D-Viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
+  - [3D-Viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
+  - [2D-Viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
 - Catenda Plugins & Integrationen
-    - [Revit IFC Export Handbuch](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual)
-    - [IFC Export Archicad Handbuch](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
-    - [Catenda Navisworks Plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
-    - [Catenda Archicad Plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
-    - [Catenda Revit Plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
-    - [Catenda Power BI Connector](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector)
-    - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
-    - [Catenda Tekla Plugin](https://support.catenda.com/en/articles/6549656-catenda-tekla-plugin)
-    - [Desktop Connector Fehlerbehebung](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting)
+  - [Revit IFC Export Handbuch](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual)
+  - [IFC Export Archicad Handbuch](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
+  - [Catenda Navisworks Plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
+  - [Catenda Archicad Plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
+  - [Catenda Revit Plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
+  - [Catenda Power BI Connector](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector)
+  - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
+  - [Catenda Tekla Plugin](https://support.catenda.com/en/articles/6549656-catenda-tekla-plugin)
+  - [Desktop Connector Fehlerbehebung](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting)
 
 **Fehlerbehebung**
 
@@ -83,10 +83,10 @@ Wenn neue Funktionen veröffentlicht werden und Fehler behoben werden, werden Ar
 **Anwendungsfälle**
 
 - Genehmigungen
-    - [Dokumentprüfung im Genehmigungsablauf](https://support.catenda.com/en/articles/12628468-document-review-in-approval-workflow)
-    - [Genehmigungen einreichen und verwalten: Leitfaden für Verfasser](https://support.catenda.com/en/articles/12627979-submit-manage-approvals-guide-for-drafters)
-    - [Endgültige Genehmigungsentscheidungen leicht gemacht](https://support.catenda.com/en/articles/12629484-final-approval-decisions-made-easy)
-    - [Genehmigungen als Administrator verwalten](https://support.catenda.com/en/articles/12620829-managing-approvals-as-administrator)
+  - [Dokumentprüfung im Genehmigungsablauf](https://support.catenda.com/en/articles/12628468-document-review-in-approval-workflow)
+  - [Genehmigungen einreichen und verwalten: Leitfaden für Verfasser](https://support.catenda.com/en/articles/12627979-submit-manage-approvals-guide-for-drafters)
+  - [Endgültige Genehmigungsentscheidungen leicht gemacht](https://support.catenda.com/en/articles/12629484-final-approval-decisions-made-easy)
+  - [Genehmigungen als Administrator verwalten](https://support.catenda.com/en/articles/12620829-managing-approvals-as-administrator)
 
 **Häufig gestellte Fragen**
 
@@ -117,7 +117,7 @@ Dank Ihres wertvollen Feedbacks konnten wir viele Themen beheben, die Sie mögli
 
 - Es ist wieder möglich für Benutzer, die MFA aktiviert haben, den Inhalt von Projekten über Plugins und Integrationen zu öffnen.
 - Catenda als Anwendung
-    - Es ist wieder möglich, sowohl den 3D-Viewer als auch die Inhaltsfelder gleichzeitig offen zu haben, anstatt nacheinander auf 11-Zoll-iPads
+  - Es ist wieder möglich, sowohl den 3D-Viewer als auch die Inhaltsfelder gleichzeitig offen zu haben, anstatt nacheinander auf 11-Zoll-iPads
 
 ## 3. **Umgesetzte Benutzer-Anfragen**
 
@@ -127,19 +127,13 @@ Dank Ihres wertvollen Feedbacks konnten wir viele Themen beheben, die Sie mögli
 
 ### 3.2 **Dokumente**
 
-- Benachrichtigungen werden nun an Benutzer gesendet, die Teil von Teams sind, die in drei verschiedene Kategorien gehören.
-  Als Teil eines Genehmigungseinreiche-Teams, als Teil eines Teams, das in einem der Workflow-Schritte ist, und als Teil des endgültigen Einreiche-Teams.
-  Es gibt Benachrichtigungen über neue Informationen wie eingereichte und bearbeitete Informationen.
-  Es gibt Benachrichtigungen über Verantwortung wie wenn es Zeit für ein Reviewer-Team ist, ihre Überprüfung durchzuführen, oder wenn es Zeit für den endgültigen Reviewer ist, die Dokumente in der Genehmigungsanfrage zu veröffentlichen.
-  Und es gibt Benachrichtigungen über ausgeführte Aktionen wie alle Überprüfungen in einem Schritt, die von den verschiedenen Teams in dem Schritt eingereicht werden, oder die endgültige Schließung einer Genehmigungsanfrage durch das endgültige Reviewer-Team.
+- Benachrichtigungen werden nun an Benutzer gesendet, die Teil von Teams sind, die in drei verschiedene Kategorien gehören.<br>Als Teil eines Genehmigungsantrag-Teams, als Teil eines Teams, das in einem der Workflow-Schritte ist und als Teil des endgültigen Antragsteller-Teams.<br>Es gibt Benachrichtigungen über neue Informationen wie eingereichte und bearbeitete Informationen.<br>Es gibt Benachrichtigungen über Verantwortung, z. B. wenn es Zeit für ein Reviewer-Team ist, seine Überprüfung durchzuführen, oder wenn es Zeit für den endgültigen Prüfer ist, die Dokumente in der Genehmigungsanfrage zu veröffentlichen.<br>Und es gibt Benachrichtigungen über durchgeführte Aktionen, z. B. wenn alle Überprüfungen in einem Schritt von den verschiedenen Teams in dem Schritt eingereicht werden oder wenn ein Genehmigungsantrag durch das endgültige Reviewer-Team geschlossen wird.
 - Im letzten Schritt einer Genehmigung ist es nun möglich, anstatt nur zu genehmigen und abzulehnen, dass jemand aus dem endgültigen Genehmiger-Team mit Kommentar genehmigen kann. Dies wird typischerweise in der Situation verwendet, wenn der endgültige Genehmiger im Namen des Genehmiger-Teams genehmigen möchte, aber einige Bedenken bezüglich des Dokuments hat. Möglicherweise muss eine kleine Änderung vorgenommen werden, möglicherweise gibt es einen akzeptablen Fehler im Dokument.
 
 ### 3.3 **Einstellungen**
 
 - Es ist nun möglich, die Teamzugehörigkeit zu konfigurieren, indem Sie ein oder mehrere Mitglieder in der Liste auswählen und Änderungen vornehmen, um sie im rechten Menü zu aktualisieren, anstatt zum Team zu gehen und Mitglieder einzeln hinzufügen zu müssen.
-- Datumsfeld - Ein neues benutzerdefiniertes Feld vom Typ Datum wurde verfügbar gemacht.
-  Wenn dieses Feld für Themen oder Dokumente verfügbar gemacht wird, kann jedem Datumsfeld, das für ein Thema/Dokument verfügbar gemacht wurde, ein Datum zugewiesen werden, indem Sie darauf klicken und ein Datum in einem Kalender auswählen.
-  Datumfelder sind nicht für Benennungskonventionen verfügbar, aber sie sind über die API verfügbar.
+- Datumsfeld – Ein neues benutzerdefiniertes Feld vom Typ Datum ist verfügbar.<br>Wenn dieses Feld für Themen oder Dokumente verfügbar gemacht wird, kann jedem Datumsfeld, das für ein Thema/Dokument verfügbar gemacht wurde, ein Datum zugewiesen werden, indem es angeklickt und ein Datum in einem Kalender ausgewählt wird.<br>Datumsfelder sind für Benennungskonventionen nicht verfügbar, aber sie sind über die API verfügbar.
 
 ## 4. **Neue Versionen** - Plugins und Integrationen
 

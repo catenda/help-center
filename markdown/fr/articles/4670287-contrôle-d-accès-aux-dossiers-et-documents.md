@@ -7,8 +7,8 @@ Sélectionnez le(s) document(s) et/ou dossier(s) dans la zone documents pour tro
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/01-intro.png)
 
 1. Sélectionnez le(s) document(s) et/ou dossier(s) à configurer.
-1. Ouvrez le menu d'informations de droite
-1. Cliquez sur **modifier l'accès**.
+2. Ouvrez le menu d'informations de droite
+3. Cliquez sur **modifier l'accès**.
 
 > **Important :** **Accès requis :** Accès complet
 
@@ -22,7 +22,7 @@ Cliquez sur la liste déroulante « Définir l'accès pour » pour sélectionner
 
 ### 1.1 **1.1 Flux de travail recommandé**
 
-Définissez l'accès **par équipe plutôt que par utilisateur**. Les rôles changent souvent, et l'accès basé sur les équipes reste flexible : un membre ajouté à une équipe obtient l'accès approprié dès qu'il rejoint le projet. Un modèle courant consiste à définir « tous les utilisateurs » sur pas d'accès — afin que les nouveaux membres non encore affectés ne puissent pas voir les informations sensibles — puis à accorder l'accès à chaque équipe selon les besoins.
+Définissez l'accès **par équipe plutôt que par utilisateur**. Les rôles changent souvent, et l'accès basé sur les Équipes reste flexible : un Membre ajouté à une Équipe obtient l'accès approprié dès qu'il rejoint le projet. Un modèle courant consiste à définir « tous les utilisateurs » sur aucun accès, afin que les nouveaux Membres non encore assignés ne puissent pas voir les informations sensibles. Vous accordez ensuite l'accès à chaque Équipe selon les besoins.
 
 Cliquez [ici](https://support.catenda.com/en/articles/15644094-how-catenda-calculates-access-levels) pour en savoir plus sur la façon dont les différents rôles de participants se comparent les uns aux autres.
 

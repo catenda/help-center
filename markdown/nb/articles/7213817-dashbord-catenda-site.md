@@ -5,15 +5,15 @@ Etter at du har valgt prosjektet ditt på [prosjektsiden](https://support.catend
 På denne siden kan du se statusen på sakene dine, velge eller endre hvilke issue boards du vil skal vises, og filtrere saker.
 
 1. For å endre issue boards velger du en issue board fra rullelisten for issue boards
-1. Velg filteret du ønsker å bruke for å se sakene dine
-    - Åpne saker (den valgte issue board)
-    - Alle åpne saker (alle issue boards)
-    - Lukkede saker (den valgte issue board)
-    - Alle lukkede saker (alle issue boards)
-    - Etterspurt av meg
-    - Alle kandidatsaker
-    - Forfalte saker
-    - Forfaller innen 2 uker
+2. Velg filteret du ønsker å bruke for å se sakene dine
+   - Åpne saker (den valgte issue board)
+   - Alle åpne saker (alle issue boards)
+   - Lukkede saker (den valgte issue board)
+   - Alle lukkede saker (alle issue boards)
+   - Etterspurt av meg
+   - Alle kandidatsaker
+   - Forfalte saker
+   - Forfaller innen 2 uker
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/9brynk3y/01-intro.png)
 

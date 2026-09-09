@@ -24,10 +24,8 @@ Es ist oft am besten, diese Funktion zu Beginn eines neuen Projekts zu aktiviere
 - Der neue Genehmigungsworkflow hat keine Benachrichtigungen.
 - Nur die englische Übersetzung ist verfügbar.
 - Der neue Genehmigungsworkflow kann nur aktiviert werden, wenn freigegebene Versionen nicht zuvor aktiviert wurden. Projekte, die auf einem Vorlagenprojekt basieren, in dem der neue Legacy-Workflow aktiviert ist, haben den Legacy-Validierungs-Workflow aktiviert. Es ist nur möglich, den neuen Validierungs-Workflow in Projekten basierend auf Vorlagenprojekten zu sehen, in denen freigegebene Versionen nie aktiviert wurden.
-- Nur ein Genehmigungsanforderungsschritt kann gleichzeitig aktiv sein.
-  Alle Dokumente in einem Genehmigungsanforderungsschritt müssen entweder genehmigt oder abgelehnt werden, bevor die Genehmigungsanforderung zum nächsten Schritt übergehen kann.
-- Es ist nur möglich, entweder zu genehmigen oder abzulehnen.
-  Kommentare können über Markups hinzugefügt werden, aber es gibt kein Genehmigen/Ablehnen mit Kommentar wie im Legacy-Validierungs-Workflow.
+- Nur eine Genehmigungsanforderungsstufe kann gleichzeitig aktiv sein. <br>Alle Dokumente in einer Genehmigungsanforderungsstufe müssen entweder genehmigt oder abgelehnt werden, bevor die Genehmigungsanforderung zum nächsten Schritt übergehen kann.
+- Es ist nur möglich, entweder zu genehmigen oder abzulehnen. <br>Kommentare können über Markups hinzugefügt werden, aber es gibt keine Genehmigung/Ablehnung mit Kommentar wie im Legacy-Validierungs-Workflow.
 
 ## 2. **Aktivierung von On-Demand-Funktionen**
 

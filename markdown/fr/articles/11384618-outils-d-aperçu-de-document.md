@@ -99,7 +99,7 @@ Cliquez sur le pourcentage de zoom pour ouvrir le menu du pourcentage de zoom. L
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/12-zoom-percentage.png)
 
-### 4.1 **Adapter à la largeur**
+### 4.1 **Ajuster à la largeur**
 
 Adapter le document pour couvrir toute la largeur de l'aperçu du document
 
@@ -197,14 +197,10 @@ _Image - Raccourci:_ (I) Sélectionnez l'outil Image et cliquez n'importe où da
 
 Les exemples d'images insérées incluent:
 
-- Informations générées avec métadonnées.
-  Dans certains flux de travail, les images sont générées avec des informations sur l'utilisateur qui a consulté le document ainsi que certaines informations comme la date et son domaine d'études.
-- Un logo personnel ou d'entreprise.
-  Dans certains cas, le logo d'une entreprise est inséré en tant qu'image pour indiquer que cette entreprise a consulté le document.
-- Une signature personnelle
-  Parfois, c'est une numérisation d'une signature manuscrite, d'autres fois, il peut s'agir d'une signature générée numériquement.
-- Un cachet personnel.
-  Dans certaines cultures, les timbres sont préférés aux signatures
+- Informations générées avec métadonnées.<br>Dans certains flux de travail, des images sont générées avec des informations sur l'utilisateur qui a consulté le document ainsi que certaines informations telles que la date et son domaine d'études.
+- Un logo personnel ou d'entreprise.<br>Dans certains cas, le logo d'une entreprise est inséré en tant qu'image pour indiquer que cette entreprise a consulté le document.
+- Une signature personnelle<br>Parfois, il s'agit d'une numérisation d'une signature manuscrite, d'autres fois, il peut s'agir d'une signature générée numériquement.
+- Un cachet personnel.<br>Dans certaines cultures, les cachets sont préférés aux signatures
 
 Après avoir cliqué sur l'emplacement d'insertion, l'explorateur de fichiers système s'ouvrira. Accédez à l'image à insérer et sélectionnez-la. Après avoir sélectionné l'image, elle sera placée à l'emplacement spécifié.
 

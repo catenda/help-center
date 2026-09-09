@@ -52,11 +52,9 @@ Eine primäre Herausforderung bei dieser Strategie besteht darin, dass die Konve
 
 **2.2.4 Die Konfiguration:**
 
-- **Quellfeld**
-  Benutzerdefiniertes Textfeld, das mit einer strikten, festen Länge (z. B. 2 oder 3 Zeichen) konfiguriert ist, oder ein Dropdown-Benutzerdefiniertes Feld mit den exakt zulässigen Variationen.
+- **Quellfeld**<br>Textbenutzerdefiniertes Feld mit einer strikten, festen Länge (z. B. 2 oder 3 Zeichen) oder ein Dropdown-Benutzerdefiniertes Feld mit den genauen zulässigen Variationen.
 - **Dokumentkennung:** Aus.
-- **Das Ergebnis**
-  Wenn Sarah `FloorPlan_--.pdf` hochlädt, gefolgt später von `FloorPlan_-a.pdf`, liest die Plattform die sich ändernden Sequenztags zur Validierung, entfernt sie aber beim Benennen der Datei im Arbeitsbereich. Tom und das Designteam sehen einen einzigen Dokumentcontainer mit dem Namen `FloorPlan`, wobei historische Variationen als Revisionen gestapelt sind, ohne nachfolgende Zeichen zu verschieben.
+- **Das Ergebnis**<br>Wenn Sarah `FloorPlan_--.pdf` hochlädt, gefolgt von `FloorPlan_-a.pdf`, liest die Plattform die sich ändernden Sequenz-Tags zur Validierung, entfernt sie jedoch bei der Benennung der Datei im Arbeitsbereich. Tom und das Designteam sehen einen einzelnen Dokumentcontainer namens `FloorPlan`, in dem historische Varianten als Revisionen gestapelt werden, ohne nachfolgende Zeichen zu verschieben.
 
 ### 2.3 Einfache numerische Verfolgungssequenz (`01`, `02`, `03`)
 
@@ -84,8 +82,7 @@ Eine primäre Herausforderung bei dieser Strategie besteht darin, dass die Konve
 **3.4 Die Konfiguration:**
 
 - **Quellfeld:** Dropdown-Benutzerdefiniertes Feld.
-- **Zuordnungseinrichtung**
-  Der "Code" ist auf Elena's lokale Dateinamensmarkierungen (`W`, `D`, `P`) abgestimmt, während der "Name" vollständig als Anzeigenwert (`Work in Progress`, `Draft`, `Published`) geschrieben ist.
+- **Zuordnungseinrichtung**<br>Der "Code" wird so eingestellt, dass er Elena's lokale Dateinamenmarkierungen (`W`, `D`, `P`) entspricht, während der "Name" vollständig als Anzeigewert geschrieben wird (`In Arbeit`, `Entwurf`, `Veröffentlicht`).
 - **Dokumentkennung:** Aus.
 
 **3.5 Das Ergebnis** Wenn Elena `HVAC_Layout_W.pdf` hochlädt, gleicht das System den Code `W` ab und füllt die Metadaten-Anzeige automatisch mit `Work in Progress` aus. Wenn Marcus das rechte Informationsmenü erweitert, um die Datei zu überprüfen, bleibt der Kern-Dokumentname sauber und statisch `HVAC_Layout`, während der Abschnitt **Revisionsinformationen** explizit "Work in Progress" anzeigt.
@@ -106,20 +103,13 @@ In dieser Variation ändert sich das Datum bei jedem neuen Datei-Upload und stel
 
 **4.3.1 Drei separate Ganzzahlblöcke**
 
-- **Struktur**
-  Wenn ein Unterstrich (`_`) als primäres Trennzeichen festgelegt ist, kann die Datei als `Daily_Report_09_07_2026.pdf` formatiert werden.
-  Dies nutzt drei einzelne Ganzzahl-Benutzerdefinierte Felder: Tag, Monat und Jahr.
-- **Dokumentkennung Einschränkungen**
-  Wenn die Dokumentkennung für diese drei Blöcke auf **Ein** eingestellt ist, ist das Datum dauerhaft als Teil des Dokumentnamens integriert.
-  Dies erstellt für jede einzelne Revision einen separaten Dokumentcontainer, und die Datumwerte bleiben permanent, da Dokumentnamen in Benennungskonventionsordnern nicht änderbar sind.
-  Um den Datumfeldern zu ermöglichen, zu variieren und Dateien als Revisionen unter einem einzigen statischen Dokumentnamen zu stapeln, ist es notwendig, die Dokumentkennung für alle drei Felder auf **Aus** einzustellen.
+- **Struktur**<br>Wenn ein Unterstrich (`_`) als primäres Trennzeichen festgelegt wird, kann die Datei als `Daily_Report_09_07_2026.pdf` formatiert werden. <br>Dies nutzt drei einzelne ganzzahlige benutzerdefinierte Felder: Tag, Monat und Jahr.
+- **Constraints für Dokumentkennungen**<br>Wenn die Dokumentkennung für diese drei Blöcke auf **Ein** umgeschaltet wird, wird das Datum dauerhaft als Teil des Dokumentnamens integriert. <br>Dies erstellt einen separaten Dokumentcontainer für jede einzelne Revision, und die Datumswerte bleiben permanent, da Dokumentnamen in Benennungskonventionsordnern nicht änderbar sind. <br>Um zu ermöglichen, dass die Datumfelder variieren und Dateien als Revisionen unter einem einzelnen statischen Dokumentnamen gestapelt werden, ist es notwendig, die Dokumentkennung für alle drei Felder auf **Aus** umzuschalten.
 
 **4.3.2 Einzelner Textblock mit internen Trennzeichen**
 
-- **Struktur**
-  Um die Verwendung mehrerer Konventionsblöcke zu vermeiden, kann ein alternatives Zeichen (wie ein Bindestrich) innerhalb eines einzelnen Textfeldblocks verwendet werden, formatiert als `Daily_Report_09-07-2026.pdf`.
-- **Validierungseinschränkungen**
-  Es ist nur möglich, die übergeordnete Textkette innerhalb eines einzelnen Blocks zu validieren. Folglich hängt die Sicherstellung, dass die sekundären internen Trennzeichen korrekt platziert sind, vollständig von manueller Benutzergenauigkeit bei der Dateivorbereitung ab.
+- **Struktur**<br>Um die Verwendung mehrerer Konventionsblöcke zu vermeiden, kann ein alternatives Zeichen (z. B. ein Bindestrich) in einem einzelnen Textfeldblock verwendet werden, formatiert als `Daily_Report_09-07-2026.pdf`.
+- **Validierungsbeschränkungen**<br>Es ist nur möglich, die übergeordnete Textzeichenfolge innerhalb eines einzelnen Blocks zu validieren. Folglich hängt die Sicherstellung, dass die sekundären internen Trennzeichen korrekt platziert werden, vollständig von der manuellen Benutzergenauigkeit während der Dateivorbereitung ab.
 
 ### 4.4 Datum für Sortierung (Jahr-Monat-Tag-Reihenfolge)
 
@@ -135,9 +125,7 @@ Eine Datenkette wie `260126` kann leicht missverstanden werden, da nicht sofort 
 
 **4.4.3 Konfiguration**
 
-- **Quellfeld**
-  Ein einzelnes Ganzzahl- oder Text-Benutzerdefiniertes Feld, das ganz am Anfang der Benennungskonvention platziert ist, formatiert in einer strikten `YYMMDD`- oder `YYYYMMDD`-Reihenfolge.
-  Um korrekte Ausrichtung und ordnungsgemäße alphanumerische Sortierung zu gewährleisten, müssen führende Nullen immer für einstellige Monate oder Tage verwendet werden (z. B. `01` für Januar).
+- **Quellfeld**<br>Ein einzelnes ganzzahliges oder textbenutzerdefiniertes Feld am Anfang der Benennungskonvention, formatiert in einer strikten `YYMMDD`- oder `YYYYMMDD`-Sequenz. <br>Um die richtige Ausrichtung und ordnungsgemäße alphanumerische Sortierung zu gewährleisten, müssen führende Nullen immer für einstellige Monate oder Tage verwendet werden (z. B. `01` für Januar).
 - **Dokumentkennung:** Ein.
 
 **4.4.4 Ergebnis** Wenn Oliver Dateien wie `260115_Report.pdf` und `260201_Report.pdf` hochlädt, werden separate Dokumente erstellt, weil die Dokumentkennung aktiv ist. Da das Jahr und der Monat zuerst kommen und durchgehende doppelstellige Polsterung verwenden, sortiert die Dokumenttabelle die Dateien automatisch in perfekter chronologischer Reihenfolge.

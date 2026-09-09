@@ -30,14 +30,10 @@ Wanneer een nieuwe goedkeuringswerkstroom voor het eerst wordt gemaakt, moeten a
 
 Als een verplicht veld niet is ingevuld bij het opslaan van een nieuwe werkstroom, toont het systeem een pre-indieningswaarschuwingsbanner bovenaan de pagina en blokkeert het sjabloon aanmaken. Verplichte velden zijn onder meer:
 
-- **2.1.1 Werkstroomtitel**
-  Een unieke, beschrijvende naam voor de werkstroom.
-- **2.1.2 Indienerteams**
-  Minstens één projectteam dat is ingesteld voor het starten van goedkeuringsaanvragen.
-- **2.1.3 Controlestappen**
-  Minstens één controlestap met een toegewezen controleringsteam en een duur van minimaal **1 werkdag**.
-- **2.1.4 Uiteindelijke goedkeuring**
-  Een toegewezen eindbeoordelingsteam samen met twee actieve projectdocumentstatussen—één voor goedgekeurde versies en één voor afgewezen versies.
+- **2.1.1 Workflowtitel**<br>Een unieke, beschrijvende naam voor de workflow.
+- **2.1.2 Teams voor indiener**<br>Minstens één projectteam dat is Toegewezen aan het starten van goedkeuringsvragen.
+- **2.1.3 Beoordelingsstappen**<br>Minstens één beoordelingsstap met een toegewezen beoordelingsteam en een duur van minimaal **1 werkdag**.
+- **2.1.4 Definitieve Goedkeuring**<br>Een toegewezen definitief beoordelingsteam samen met twee actieve projectdocumentstatussen: één toegewezen voor goedgekeurde revisies en één voor afgewezen revisies.
 
 ### 2.2 **2.2 Systeemlimieten en teamlidmaatschapsregels**
 
@@ -55,12 +51,9 @@ Als een verplicht veld niet is ingevuld bij het opslaan van een nieuwe werkstroo
 
 **2.2.4 Beheerdersrechten** Projectbeheerders hebben geen automatische operationele rechten. Om acties uit te voeren tijdens een goedkeuring, moet een beheerder een expliciet lid van het relevante team zijn:
 
-- **Indienerteam**
-  Vereist om een goedkeuringsaanvraag in te dienen.
-- **Beoordelingsteam**
-  Vereist om een controlevalidatie aan te geven of in te dienen.
-- **Eindbeoordelingsteam**
-  Vereist om de uiteindelijke beslissing te bepalen en de goedkeuring af te ronden.
+- **Team voor indiener**<br>Vereist om een goedkeuringsvraag in te dienen.
+- **Beoordelingsteam**<br>Vereist om een beoordelingsvalidatie aan te geven of in te dienen.
+- **Definitief beoordelingsteam**<br>Vereist om de uiteindelijke beslissing te nemen en de goedkeuring af te sluiten.
 
 ## 3. **3.** **Flexibele bewerkingen (pre- en na-indiening)**
 
@@ -114,9 +107,9 @@ Wanneer projectinstellingen of teamlidmaatschappen veranderen terwijl goedkeurin
 
 Projectleden kunnen op elk moment op de pagina **Projectteams** aan werkstroomteams worden toegevoegd of eruit worden verwijderd zonder de werkstroomsjabloon zelf te bewerken.
 
-**5.1.1 Leden van indienerteams** Het toevoegen van een gebruiker aan een indienerteam stelt hen in staat om voortaan nieuwe aanvragen in te dienen. Echter, lidmaatschap van het indienerteam verleent nooit gedeelde zichtbaarheid in aanvragen die door teamgenoten zijn ingediend—toegang tot een ingediende aanvraag blijft strikt persoonlijk voor de individuele maker.
+**5.1.1 Leden van het Indienteam** Een gebruiker toevoegen aan een indienteam stelt hen in staat om vanaf nu nieuwe verzoeken in te dienen. Lidmaatschap van het indienteam verleent echter nooit gedeelde zichtbaarheid in verzoeken die door teamgenoten zijn ingediend. Toegang tot een ingediend verzoek blijft strikt persoonlijk voor de individuele maker.
 
-**5.1.2 Leden van beoordelingsteams** Het toevoegen van een gebruiker aan een beoordelingsteam verleent hem onmiddellijk toegang tot actieve goedkeuringsaanvragen die momenteel in die controlestap zitten. Het verwijderen van alle leden uit een beoordelingsteam zal actieve aanvragen op die stap bevriezen totdat een nieuw lid wordt toegevoegd—tenzij **automatische goedkeuring** is ingeschakeld voor die stap, in welk geval de aanvraag automatisch zal goedkeuren en vooruitgaan wanneer de stapdeadline voorbij is.
+**5.1.2 Leden van het Beoordelingsteam** Een gebruiker toevoegen aan een beoordelingsteam verleent hen onmiddellijk toegang tot actieve goedkeuringsverzoeken die momenteel in die beoordelingsstap zijn. Het verwijderen van alle leden uit een beoordelingsteam zal lopende verzoeken in die stap bevriezen totdat een nieuw lid wordt toegevoegd, tenzij **automatische goedkeuring** is ingeschakeld voor die stap. In dat geval zal het verzoek automatisch worden goedgekeurd en vooruitgaan wanneer de staptermijn verstrijkt.
 
 **5.1.3 Leden van eindbeoordelingsteams** Het toevoegen van een gebruiker aan een eindbeoordelingsteam verleent hem onmiddellijk toegang om uiteindelijke beslissingen te bepalen op actieve aanvragen die de uiteindelijke goedkeuringsstap bereiken. Het verwijderen van alle leden uit een eindbeoordelingsteam zal actieve aanvragen op de uiteindelijke stap bevriezen totdat een gebruiker wordt toegevoegd (automatische goedkeuring is niet beschikbaar voor definitieve beoordelingsstappen).
 
@@ -128,12 +121,9 @@ Verwijderde projectteams kunnen niet worden hersteld. Als een team dat aan een w
 
 **5.2.2 Verwijderde beoordelingsteams** Controlestappen zijn na indiening vergrendeld.
 
-- **Als andere toegewezen teams overblijven**
-  De controlestap blijft voor de resterende teams functioneren.
-- **Als geen teams overblijven en automatische goedkeuring is AAN**
-  De stap keurt automatisch goed en gaat verder zodra de stapdatum is bereikt.
-- **Als geen teams overblijven en automatische goedkeuring is UIT**
-  Actieve goedkeuringsaanvragen blijven onbepaald op die controlestap staan.
+- **Als andere toegewezen Teams blijven**<br>De beoordelingsstap blijft voor de resterende Teams functioneren.
+- **Als geen Teams blijven & auto-goedkeuring is AAN**<br>De stap keurt automatisch goed en gaat verder zodra de einddatum van de stap voorbij is.
+- **Als geen Teams blijven & auto-goedkeuring is UIT**<br>Lopende goedkeuringsvragen blijven onbepaald hangen bij die beoordelingsstap.
 
 **5.2.3 Verwijderde eindbeoordelingsteams** Eindgoedkeuringsteams zijn na indiening vergrendeld, en automatische goedkeuring is **niet** beschikbaar voor definitieve beoordelingsstappen. Als alle eindbeoordelingsteams worden verwijderd, worden actieve goedkeuringsaanvragen voor onbepaalde tijd stilgezet.
 

@@ -39,21 +39,21 @@ For øyeblikket finnes det ingen offisiell måte å eksportere til IFC fra Navis
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3baydpf4/03-export-menu.png)
 
 1. Prosjektnummer
-1. Prosjektnavn
-1. Lagret i - Skriv stien til filen eller klikk på Bla gjennom for å finne mappen der du vil lagre IFC-en
-1. Velg hvilke tegningsfiler du vil eksportere til IFC
-1. Valg
-    1. Topptekst - Forfatter, Organisasjon osv.
-        1. Velg IFC-skjema du vil eksportere til - IFC 2x3 og IFC 4
-    1. Objekter - Alle
-    1. Visning - Inkluder alle
+2. Prosjektnavn
+3. Lagret i - Skriv stien til filen eller klikk på Bla gjennom for å finne mappen der du vil lagre IFC-en
+4. Velg hvilke tegningsfiler du vil eksportere til IFC
+5. Valg
+   1. Topptekst - Forfatter, Organisasjon osv.
+      1. Velg IFC-skjema du vil eksportere til - IFC 2x3 og IFC 4
+   2. Objekter - Alle
+   3. Visning - Inkluder alle
 
 > **Merk:** IFC 4x1 er trukket tilbake av BuildingSMART og støttes derfor heller ikke av Catenda Hub. Se [her](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support) hvilke filtyper som støttes i Catenda Hub
 
-1\. Ressurs og Tildeling
+6. Ressurs og Tildeling
 
 1. Ressurs - Høyreklikk for å legge til ressursperson og organisasjon
-1. Tildeling - Høyreklikk for å legge til tildelt person og organisasjon
-1. IfcBuilding - Velg hvilke egenskaper
+2. Tildeling - Høyreklikk for å legge til tildelt person og organisasjon
+3. IfcBuilding - Velg hvilke egenskaper
 
 Eksporter - Klikk denne knappen når du er klar til å eksportere filene dine

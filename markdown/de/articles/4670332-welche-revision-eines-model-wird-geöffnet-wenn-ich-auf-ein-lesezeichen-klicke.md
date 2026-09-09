@@ -1,4 +1,4 @@
-# Welche revision eines model wird geöffnet, wenn ich auf ein Lesezeichen klicke?
+# Welche Modellrevision öffnet ein Lesezeichen?
 
 Das Lesezeichen öffnet immer die neueste revision eines model.
 

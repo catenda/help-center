@@ -27,7 +27,7 @@ Dies hilft Ihnen zu verstehen, von welcher Position im Projekt Ihre Objekte ausg
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/02-intersecting-space-query.png)
 
 1. Klicken Sie mit der rechten Maustaste auf einen Raum
-1. Wählen Sie _Überschneidender Raum_
+2. Wählen Sie _Überschneidender Raum_
 
 Dies lädt alle Geometrie, die die achsenausgerichtete Begrenzungsbox des Raums schneidet.
 
@@ -38,7 +38,7 @@ Dies lädt alle Geometrie, die die achsenausgerichtete Begrenzungsbox des Raums 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/04-intersecting-storey-query.png)
 
 1. Klicken Sie mit der rechten Maustaste im Viewer
-1. Wählen Sie _Überschneidendes Geschoss_
+2. Wählen Sie _Überschneidendes Geschoss_
 
 Dies lädt alle Geometrie innerhalb der oberen und unteren Ebenen des Geschosses.
 
@@ -49,18 +49,18 @@ Dies lädt alle Geometrie innerhalb der oberen und unteren Ebenen des Geschosses
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/06-rectangle-selection.png)
 
 1. Klicken Sie auf die Schaltfläche Abfrage-Rechteck.
-1. Klicken Sie, ziehen Sie und lassen Sie los, um ein Rechteck zu zeichnen.
-1. Geben Sie die Modelle an, die Sie in der Abfrage-Popover laden möchten.
+2. Klicken Sie, ziehen Sie und lassen Sie los, um ein Rechteck zu zeichnen.
+3. Geben Sie die Modelle an, die Sie in der Abfrage-Popover laden möchten.
 
 **Abfrage-Popover**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/07-rectangle-selection.png)
 
 1. Wählen Sie aktuelles Geschoss oder Vollhöhe.
-1. Wählen Sie Beliebig, Außen oder Innen.
-1. Schalten Sie alle Modelle ein oder aus.
-1. Wählen Sie die Modelle aus, die Sie in die Abfrage einbeziehen möchten.
-1. Abfrage erstellen.
+2. Wählen Sie Beliebig, Außen oder Innen.
+3. Schalten Sie alle Modelle ein oder aus.
+4. Wählen Sie die Modelle aus, die Sie in die Abfrage einbeziehen möchten.
+5. Abfrage erstellen.
 
 ## 4. **Eigenschaftsbibliotheks-Abfrage**
 

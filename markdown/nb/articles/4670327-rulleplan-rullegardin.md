@@ -14,7 +14,7 @@ Klikk på øyeikonet for et rutenett for å forhåndsvise kommentarlinjene for h
 
 Denne artikkelen inneholder informasjon om følgende saker:
 
-_Forhåndsvisning av kommentarer – Vis akser_
+**Forhåndsvisning av kommentarer – Vis akser**
 
 ## 1. **1. Rulleplantyper**
 
@@ -40,7 +40,7 @@ Hvert rulleplan har en forhåndsvisningsknapp som ser ut som et øye.
 
 Klikk på forhåndsvisningsikonet for et rulleplan for å forhåndsvise kommentarlinjene for rulleplanet i 3D-viseren. Så snart forhåndsvisningsikonet er uthevet i grønt, er kommentarlinjene for det valgte rulleplanet synlige i 3D-viseren.
 
-_2.1 Rulleplan kommentarlinje_ En rulleplan kommentarlinje består av en kontinuerlig linje med en sirkel og en bokstav på hver ende.
+**2.1 Rulleplan kommentarlinje** En rulleplan kommentarlinje består av en kontinuerlig linje med en sirkel og en bokstav på hver ende.
 
 Valg av kommentarlinjesirkel Klikk på kommentarlinjesirkelen på hver ende av en akse eller justering for å aktivere aksen eller justeringen. Kommentarlinjesirkelen for aktiverte akser eller justeringer er uthevet når den er valgt. Etter å ha valgt en kommentarlinje, vises forhåndsvisningsplanet som er forbundet med den aksen eller justeringen som en transparent overflate i 3D-viseren. Merk at når det er valgt, er planikikonet for den aksen eller justeringen også uthevet i grønt i rulleplan-rullegardin.
 

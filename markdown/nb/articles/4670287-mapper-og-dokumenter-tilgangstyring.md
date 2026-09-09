@@ -7,8 +7,8 @@ Velg dokument(er) og/eller mappe(r) i dokumentområdet for å finne tilgangskont
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/01-intro.png)
 
 1. Velg dokument(ene) og/eller mappe(ne) som skal konfigureres.
-1. Åpne høyremenyen
-1. Klikk på **rediger tilgang**.
+2. Åpne høyremenyen
+3. Klikk på **rediger tilgang**.
 
 > **Viktig:** **Påkrevd tilgang:** Full tilgang
 
@@ -22,7 +22,7 @@ Klikk på "Definer tilgang for"-rullegardinmenyen for å velge medlemmer som til
 
 ### 1.1 **1.1 Anbefalt arbeidsflyt**
 
-Sett tilgang **per team i stedet for per bruker**. Roller endres ofte, og teambasert tilgang forblir fleksibel: når et medlem blir lagt til et team, får de riktig tilgang så snart de blir med i prosjektet. Et vanlig mønster er å sette "alle brukere" til ingen adgang – slik at nye, ikke-ennå-tildelte medlemmer ikke kan se sensitiv informasjon – og deretter gi tilgang til hvert team etter behov.
+Angi tilgang **per team i stedet for per bruker**. Roller endres ofte, og teambasert tilgang forblir fleksibel: et medlem som legges til et team får riktig tilgang så snart de blir med i prosjektet. Et vanlig mønster er å sette "alle brukere" til ingen tilgang, slik at nye, ikke-tildelte medlemmer ikke kan se sensitiv informasjon. Du gir deretter tilgang til hvert team etter behov.
 
 Klikk [her](https://support.catenda.com/en/articles/15644094-how-catenda-calculates-access-levels) for å lese mer om hvordan de ulike medlemmerrollene oppstiller seg mot hverandre.
 
@@ -32,11 +32,11 @@ Tilgangen med høyest vekt vinner alltid, men det finnes unntak. Restriktive niv
 
 ### 2.1 **2.1 Hvilken av konfigurasjonene gjelder?**
 
-_Administratorer_ Administratorer har alltid tilgang til alt.
+**Administratorer** Administratorer har alltid tilgang til alt.
 
-_Individer_ Den nøyaktig konfigurerte tilgangsnivået gjelder.
+**Individer** Den nøyaktig konfigurerte tilgangsnivået gjelder.
 
-_Andre_ Kontroller den ulike tilgangen som er konfigurert for en bruker enten via en av følgende:
+**Andre** Kontroller den ulike tilgangen som er konfigurert for en bruker enten via en av følgende:
 
 - Alle brukere
 - Et team som brukeren er medlem av (kan være medlem av flere)

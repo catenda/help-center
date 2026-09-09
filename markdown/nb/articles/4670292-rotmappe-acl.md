@@ -3,13 +3,13 @@
 Rediger tilgangskontroll på rotmapper for dokumenter:
 
 1. Gå til Dokumenter i hovedmenyen.
-1. Klikk på "hamburgermeny" i øvre høyre hjørne, her finner du Bibliotekinnstillinger. Klikk på bibliotekinnstillingene.
-1. I det nye vinduet finner du tilgangskontroll på rotmappen. Klikk på den.
-1. Her ser du medlemmene som har tilgang til rotmappen og knappen for redigering av tilgang. Klikk på knappen for redigering av tilgang.
-1. Vinduet for redigering av tilgang vises
-1. Definer tilgang for medlem(mer) eller team(mer).
-1. Administratorer
-1. Annet: Dette er tilgangen for alle andre enn deg selv, med unntak av administratorbrukere. Rullegardinmenyen har noen alternativer.
+2. Klikk på "hamburgermeny" i øvre høyre hjørne, her finner du Bibliotekinnstillinger. Klikk på bibliotekinnstillingene.
+3. I det nye vinduet finner du tilgangskontroll på rotmappen. Klikk på den.
+4. Her ser du medlemmene som har tilgang til rotmappen og knappen for redigering av tilgang. Klikk på knappen for redigering av tilgang.
+5. Vinduet for redigering av tilgang vises
+6. Definer tilgang for medlem(mer) eller team(mer).
+7. Administratorer
+8. Annet: Dette er tilgangen for alle andre enn deg selv, med unntak av administratorbrukere. Rullegardinmenyen har noen alternativer.
 
 - Ingen aksess
 - Lese
@@ -17,7 +17,7 @@ Rediger tilgangskontroll på rotmapper for dokumenter:
 - Full tilgang (alle administratorbrukere)
 
 1. Eier: Dette er tilgangen for eieren av mappen/mappene eller dokumentet/dokumentene. Den har de samme alternativene som i punkt 7.
-1. Du må velge mellom de tre siste:
+2. Du må velge mellom de tre siste:
 
 - Mappe og nytt innhold
 

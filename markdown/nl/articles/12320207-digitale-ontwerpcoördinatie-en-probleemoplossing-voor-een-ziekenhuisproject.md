@@ -1,4 +1,4 @@
-# Digitale ontwerpcoördinatie en probleemoplossing voor een ziekenhuisproject
+# Ontwerpcoördinatie en probleemoplossing - Ziekenhuis
 
 > Branche: Ziekenhuisbouw / BIM (Building Information Modeling) Persona: David, BIM-coördinator voor een grote aannemersbedrijf.
 
@@ -24,7 +24,7 @@ Terwijl David door het 3D-model navigeert, ziet hij het probleem onmiddellijk. D
 
 - Hij isoleert alleen de elementen die in clash zijn: de staalconstructies, de specifieke muur, het schakelboard en de kabelgoot.
 - Hij gebruikt een dwarsdoorsnede om een duidelijk, ongehinderd zicht op het botsingspunt te creëren.
-- Hij slaat deze precieze status op—inclusief de camerahoek, objectzichtbaarheid en dwarsdoorsnede—als een opgeslagen view met de titel "**Clash: MRI Support vs. Elec Room 204**".
+- Hij slaat deze precieze status op, inclusief de camerahoek, objectzichtbaarheid en doorsnede, als een bookmark met de titel "**Clash: MRI Support vs. Elec Room 204**".
 
 ### **3. Een issue maken en toewijzen:**
 

@@ -128,7 +128,7 @@ Dit zal allemaal zo worden:
 
 - Eerste element
 - Tweede element
-    - Voeg 4 spaties aan het begin van de regel in om een sublijst te maken.
+  - Voeg 4 spaties aan het begin van de regel in om een sublijst te maken.
 
 > **Opmerking:** Om ervoor te zorgen dat een ongeordende lijst correct wordt opgemaakt, moet er een lege nieuwe regel boven de lijst staan.
 
@@ -153,10 +153,10 @@ Of
 Dit zal allemaal zo worden:
 
 1. item één
-1. item twee
-1. item drie
+2. item twee
+3. item drie
 
-    1. Item vier
+   4. Item vier
 
 > **Opmerking:** Om ervoor te zorgen dat een geordende lijst correct wordt opgemaakt, moet er een lege nieuwe regel boven de lijst staan.
 
@@ -169,10 +169,10 @@ Het getal waarmee u begint, heeft geen invloed op waar de nummering begint
 Dit zal zo worden:
 
 1. drieëntwintig
-1. vierentwintig
-1. vijfentwintig
+2. vierentwintig
+3. vijfentwintig
 
-    1. zesentwintig
+   4. zesentwintig
 
 Als u de nummering opnieuw wilt instellen en opnieuw met één wilt beginnen op een tweede lijst in hetzelfde bericht, kunt u een blanco of een [scheidingslijn](#h_3a36cfbc61) ertussenin plaatsen.
 

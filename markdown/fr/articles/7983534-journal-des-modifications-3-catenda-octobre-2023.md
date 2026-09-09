@@ -46,9 +46,7 @@ Grâce à vos précieux commentaires, nous avons pu résoudre de nombreux probl�
 
 ### 2.1 **Problèmes**
 
-- Les colonnes suivantes dans l'export Excel ont reçu un nouveau nom en japonais :
-  「にて作成された」→「作成者・質問者」
-  「作成済み」→「作成日・質問日」
+- Les colonnes suivantes dans l'export Excel ont reçu un nouveau nom en japonais :<br>「にて作成された」→「作成者・質問者」<br>「作成済み」→「作成日・質問日」
 - Le paramètre des filtres affichés ou masqués dans les tableaux de problèmes est désormais mémorisé dans votre compte au lieu de l'être dans votre navigateur, de sorte que vous n'ayez pas besoin de le modifier si votre navigateur est réinitialisé souvent.
 - Le tableau de problèmes est à nouveau mis à jour après qu'un problème a été déplacé
 - Les problèmes BCF importés avec le statut " " obtiendront maintenant par défaut le premier statut ouvert

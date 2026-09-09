@@ -20,7 +20,7 @@ Som standard er det ein delt status med namnet «delt» som er konfigurert. Typi
 - Arbeid pågår - Blå
 - Intern validering - Blå
 
-_Prosjektendringer_
+**Prosjektendringer**
 
 - Informasjon startar med eit minor revisjonstal: 0.1, 0.2, 1.1, osv...
 - Informasjon kan bli publisert for å få eit major revisjonstal: 1.0, 2.0, 3.0, osv...
@@ -32,12 +32,12 @@ _Prosjektendringer_
 
 ### 1.2 **Deaktivere delte statusar**
 
-_Prosjektendringer_
+**Prosjektendringer**
 
 - Publiserte statusar - Ny informasjon sendt inn i den publiserte fasen.
 - Standard status er sett til «Ingen status».
 - Gjennomgangmenyen i dokumentinnstillingar er deaktivert.
-- Gjennomgangsfanen til dokumentsiden er deaktivert.
+- Godkjenningssiden for dokumenter er deaktivert.<br>
 
 ## 2. **Publiserte statusar**
 
@@ -45,7 +45,7 @@ Som standard er det éin publisert status med namnet «publisert» som er konfig
 
 - Publisert, med merknader - Lys grøn
 - Ventar - Gul
-- Til oppfølging - Raud
+- Til oppfølging - Rød<br>
 
 ## 3. **Legg til status**
 

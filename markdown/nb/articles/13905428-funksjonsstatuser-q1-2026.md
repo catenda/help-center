@@ -20,11 +20,11 @@ Akkurat som i sakstabellen er det nå en kopilenke-handling tilgjengelig i dokum
 
 Innstillingsmenyen for 3D-viseren har blitt oppdatert. Det er nå mulig å finne tre nye menyer når du klikker på tannhjulsikon i øvre høyre hjørne. Her finnes menyer for gjengiving, navigasjon og miljø.
 
-_Gjengiving_ To nye alternativer, skjermkvalitet og omgivende skygger.
+**Gjengiving** To nye alternativer, skjermkvalitet og omgivende skygger.
 
-_Navigasjon_ Alle 3D-kamera og navigasjonsrelaterte alternativer brukes til denne menyen
+**Navigasjon** Alle 3D-kamera og navigasjonsrelaterte alternativer brukes til denne menyen
 
-_Miljø_ En helt ny meny der en skybox og et jordplan som mottar skygger fra objekter kan konfigureres.
+**Miljø** En helt ny meny der en skybox og et jordplan som mottar skygger fra objekter kan konfigureres.
 
 ### 2.2 **Gjennomganger**
 
@@ -32,13 +32,13 @@ Prosjektadministratorer kan nå redigere malalternativet for gjennomgangssak for
 
 ### 2.3 **Konsistent kolonnenavn i Dokumenter & Modeller**
 
-"Navn"-kolonnen betydde ulike ting i Dokumenter vs. Modeller – noe som var forvirrende for brukere! Nå bruker begge samme dokumentnavn. "Modellnavn"-feltet forblir, bare omdøpt "Kortnavn". Nedlasting fra Modeller produserer nå også samme filnavn som nedlasting fra Dokumenter.
+"Navn"-kolonnen betydde ulike ting i Dokumenter kontra Modeller, noe som var forvirrende for brukere! Nå bruker begge den samme dokumentnavnet. "Model Name"-feltet er fortsatt der, bare omdøpt til "Short Name". Nedlasting fra Modeller produserer nå samme filnavn som nedlasting fra Dokumenter.
 
-_Før/Etter-sammenligning_
+**Før/Etter-sammenligning**
 
 <div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #feedaf; width: 154px; padding: 8px;"><h2 id="h_6f7c050d9c"><b>Dokumenter-seksjon (Før)</b></h2></td><td style="background-color: #feedaf; width: 146px; border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_ac547fc69c"><b>Modeller-seksjon (Før)</b></h2></td><td style="background-color: #d7efdc; width: 149px; border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_14f8f3ffe9"><b>Dokumenter-seksjon </b><br/><b>(Etter)</b></h2></td><td style="background-color: #d7efdc; width: 158px; border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_30ca4b8045"><b>Modeller-seksjon </b><br/><b>(Etter)</b></h2></td></tr><tr><td style="width: 154px; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Navn (navn på dokumentet)</p></td><td style="width: 146px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Navn (navn på modellen)</p></td><td style="width: 149px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Navn (samme for både modellen og dokumentet)</p></td><td style="width: 158px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Navn (samme for både modellen og dokumentet)</p></td></tr><tr><td style="background-color: #e8e8e8; width: 154px; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Modellnavn (brukt i modellviseren)</p></td><td style="background-color: #e8e8e8; width: 146px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Modellnavn</p><p>(brukt i modellviseren)</p></td><td style="background-color: #e8e8e8; width: 149px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kortnavn</p><p>(brukt i modellviseren)</p></td><td style="background-color: #e8e8e8; width: 158px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kortnavn</p><p>(brukt i modellviseren)</p></td></tr><tr><td style="width: 154px; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Revisjonnavn</p></td><td style="width: 146px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Revisjonnavn</p></td><td style="width: 149px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Revisjonnavn</p></td><td style="width: 158px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Revisjonnavn</p></td></tr></tbody></table></div>
 
-_Gjeldende situasjon, sammenligning av Dokument-seksjonen og Modell-seksjonen_
+**Gjeldende situasjon, sammenligning av Dokument-seksjonen og Modell-seksjonen**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/smbb0drk/01-consistent-column-naming-across-documents-models.png)
 

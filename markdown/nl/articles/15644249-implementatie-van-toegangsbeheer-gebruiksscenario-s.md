@@ -2,11 +2,7 @@
 
 Het structureren van een toegangsbeheersomgeving in Catenda Hub vereist afstemming van systeemmechanismen op specifieke projectrollen en samenwerkingsworkflows. Om overlappende regels schoon op te lossen, past het systeem een strikte hiërarchie toe: directe individuele overschrijvingen stellen een absoluut eindpunt vast, terwijl alle niet-overschreven paden combineren om het maximaal beschikbare toestemmingsniveau toe te kennen. De configuratiestrategieën hieronder tonen aan hoe u teambegrenzingen, individuele vergrendelingen en containerscopes kunt inzetten om echte beveiligings- en operationele vereisten in te vullen.
 
-De volgende onderwerpen zijn in dit artikel beschreven:
-
 ## 1. **1. De Algemene Projectgemeenschap**
-
-De volgende onderwerpen zijn in deze sectie beschreven:
 
 ### 1.1 **1.1 Geïsoleerde Onderaannemerswerkruimten**
 
@@ -40,8 +36,6 @@ De volgende onderwerpen zijn in deze sectie beschreven:
 
 ## 2. **2. Onderaannemers en Externe Medewerkers**
 
-De volgende onderwerpen zijn in deze sectie beschreven:
-
 ### 2.1 **2.1 Vloeiende Teamtoewijzingen voor Roulerend Personeel**
 
 **Wie** Externe leveranciers en aannemingsbedrijven met hoge personeelsverloop.
@@ -65,8 +59,6 @@ De volgende onderwerpen zijn in deze sectie beschreven:
 ## 3. **3. Item-eigenaren en Inhoudsmakers**
 
 Catenda Hub wijst automatisch **Volledige Toegang** toe aan de maker van een map (of deze nu handmatig is gebouwd of automatisch geëxtraheerd via een geüpload ZIP-bestand), een topic board of een zojuist opgestelde Documentcontainer. Eigenaarschap is strikt van toepassing op de Documentcontainer zelf, wat betekent dat als een gebruiker een nieuwe revisie uploadt naar een Document dat door iemand anders is gemaakt, het originele containereigenaarschap onveranderd blijft.
-
-De volgende onderwerpen zijn in deze sectie beschreven:
 
 ### 3.1 **3.1 Creatorsoevereiniteit en Gegevensprivacy**
 

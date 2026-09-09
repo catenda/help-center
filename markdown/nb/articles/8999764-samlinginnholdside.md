@@ -24,9 +24,9 @@ Samlingshandlingene finner du øverst til høyre på siden.
 
 Ny samling Klikk på handlingen for ny samling for å opprette en ny samling
 
-_Kopier samling_ Klikk på knappen Kopier samling for å opprette en ny samling som er lik den gjeldende samlingen.
+**Kopier samling** Klikk på knappen Kopier samling for å opprette en ny samling som er lik den gjeldende samlingen.
 
-_Slett samling_ Klikk på handlingen Slett samling for å slette den gjeldende samlingen _Tilgang kreves:_ Administrator eller samlingeier
+**Slett samling** Klikk på handlingen Slett samling for å slette den gjeldende samlingen _Tilgang kreves:_ Administrator eller samlingeier
 
 ## 2. **Høyre meny**
 
@@ -62,9 +62,9 @@ Fullførte samlinger er låst for redigering. Fullførte samlinger må være lå
 
 Tabelhandlinger finner du mot øverst til høyre i samlingenes tabell
 
-_Last ned samling_ Klikk på Last ned samling for å laste ned en zip-fil med alle dokumentene i samlingen.
+**Last ned samling** Klikk på Last ned samling for å laste ned en zip-fil med alle dokumentene i samlingen.
 
-_Legg til dokumenter_ Klikk på [Legg til dokumenter](https://support.catenda.com/en/articles/6344318-collections-page#h_b94d108342) for å legge til dokumenter i samlingen din. Hvis dokumentet ditt har blitt funnet å være infisert med virus, vil du ikke kunne legge det til samlingen.
+**Legg til dokumenter** Klikk på [Legg til dokumenter](https://support.catenda.com/en/articles/6344318-collections-page#h_b94d108342) for å legge til dokumenter i samlingen din. Hvis dokumentet ditt har blitt funnet å være infisert med virus, vil du ikke kunne legge det til samlingen.
 
 > **Merk:** Navnet på dokumentet i samlingen vil være navnet på revisjonen som ble lagt til. Dette er noe som ligner på det opprinnelige filnavnet. Dette navnet kan være annerledes enn navnet på dokumentet fordi et dokument kan inneholde flere revisjoner med ulike navn.
 
@@ -72,8 +72,8 @@ _Legg til dokumenter_ Klikk på [Legg til dokumenter](https://support.catenda.co
 
 Dokumenthandling for samling finner du ved å klikke på handlingsmenyen med tre punkter til høyre for dokumentraden.
 
-_Last ned_ Klikk på Last ned for å laste ned dette individuelle dokumentet _Tilgang kreves:_ Lesetilgang til dokumentet og revisjon ikke trukket tilbake
+**Last ned** Klikk på Last ned for å laste ned dette individuelle dokumentet _Tilgang kreves:_ Lesetilgang til dokumentet og revisjon ikke trukket tilbake
 
-_Endre revisjon_ Bruk handlingen Endre revisjon for å endre hvilken revisjon av dokumentet som er konfigurert for denne samlingen. _Tilgang kreves:_ Samlingsoppretter eller administrator
+**Endre revisjon** Bruk handlingen Endre revisjon for å endre hvilken revisjon av dokumentet som er konfigurert for denne samlingen. _Tilgang kreves:_ Samlingsoppretter eller administrator
 
-_Fjern dokument_ Bruk handlingen Fjern dokument for å fjerne et dokument fra samlingen. _Tilgang kreves:_ Samlingsoppretter eller administrator
+**Fjern dokument** Bruk handlingen Fjern dokument for å fjerne et dokument fra samlingen. _Tilgang kreves:_ Samlingsoppretter eller administrator

@@ -32,7 +32,7 @@ De nye varhandlingene finnes i øvre høyre hjørne av siden.
 
 Klikk [her](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request) for å lese mer om hvordan du oppretter en ny gjennomgangsforespørsel.
 
-_Nødvendig tilgang:_ Et medlem må være del av et innsendingsteam i en konfigurert arbeitsflyt for å kunne sende inn en ny gjennomgangsforespørsel.
+**Nødvendig tilgang:** Et medlem må være del av et innsendingsteam i en konfigurert arbeitsflyt for å kunne sende inn en ny gjennomgangsforespørsel.
 
 ## 3. **Søk- eller filteralternativer**
 
@@ -50,7 +50,7 @@ Slik kan en gjennomgangsforespørsel med full aktivitet se ut:
 
 Aktivitet som oppstår i gjennomgangen vises med mengder og ikoner på gjennomgangskortet.
 
-_Nødvendig tilgang:_ Forespørselvisibilitet er rollebasert: prosjektmedlemmer kan bare vise forespørsler de personlig sendte inn, aktive forespørsler tildelt en anmelder eller sluttanmelder-team de er medlem av, eller alle prosjektforespørsler for prosjektadministratorer.
+**Nødvendig tilgang:** Forespørselvisibilitet er rollebasert: prosjektmedlemmer kan bare vise forespørsler de personlig sendte inn, aktive forespørsler tildelt en anmelder eller sluttanmelder-team de er medlem av, eller alle prosjektforespørsler for prosjektadministratorer.
 
 - For detaljerte operasjonelle prosedyrer for innsending av revisjoner, tillegg av vurderingsmerknader og behandling av trinnvalidering eller endelige beslutninger, les mer [her](https://www.google.com/search?q=).
 - For administrativ veiledning om konfigurering av gjennomgangsmaler, styring av låste parametere og løsing av brutte avhengigheter, les mer [her](https://www.google.com/search?q=).
@@ -64,31 +64,31 @@ Den andre fanen lar deg få en oversikt over alle dokumenter som blir gjennomgå
 Tabellen viser:
 
 1. revisjonens navn
-1. revisjonsnummeret
-1. gjeldende vurderingstrinn
-1. gjeldende trinns tilstand
-1. fristen for trinnets vurdering
-1. teamene som fortsatt må vurdere dokumentet
-1. gjennomgangsforespørselens navn
-1. innsender (person og team)
-1. innsendingsdatoen
+2. revisjonsnummeret
+3. gjeldende vurderingstrinn
+4. gjeldende trinns tilstand
+5. fristen for trinnets vurdering
+6. teamene som fortsatt må vurdere dokumentet
+7. gjennomgangsforespørselens navn
+8. innsender (person og team)
+9. innsendingsdatoen
 
 ### 5.1 Filtrering
 
 Også tillater det venstre filterpanelet deg å filtrere dokumentene etter:
 
 1. Tilordning: alle team eller ditt team spesifikt
-1. Dokumenttilstand: Venter, Under vurdering, Fullført
-1. Frist: alle, kommende, forfalte
+2. Dokumenttilstand: Venter, Under vurdering, Fullført
+3. Frist: alle, kommende, forfalte
 
 ### 5.2 Sortering
 
 Til slutt kan du sortere etter:
 
 1. Revisjons navn
-1. Tilstand
-1. Frist
-1. Innsendingsdato
+2. Tilstand
+3. Frist
+4. Innsendingsdato
 
 ### 5.3 Søk
 

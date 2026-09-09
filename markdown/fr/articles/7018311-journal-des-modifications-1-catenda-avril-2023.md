@@ -38,8 +38,7 @@
 
 - Les modèles peuvent à nouveau être pivotés sans problème. (Le champ de rotation était vide pendant une courte période)
 - Les objets peuvent à nouveau être supprimés (Les modèles ont été chargés deux fois pendant une courte période)
-- Les grilles exportées de Revit avec l'exporteur IFC4 officiel sont maintenant visibles
-  La première mesure effectuée est maintenant immédiatement visible en allant à l'inspection sur les écrans où il n'y a pas de place pour afficher le panneau d'inspection et la Visionneuse 3D en même temps.
+- Les grilles exportées de Revit avec l'exportateur IFC4 officiel sont maintenant visibles<br>La première mesure est maintenant immédiatement visible en accédant à l'inspection sur les écrans où il n'y a pas d'espace pour afficher le panneau d'inspection et la Visionneuse 3D en même temps.
 - Les objets peuvent maintenant être rendus transparents à nouveau. (Rendre transparent aurait caché d'autres objets à la place pendant un certain temps)
 - Les panneaux comme les propriétés restent maintenant ouverts même si vous cliquez sur un espace vide et revenez au même objet
 

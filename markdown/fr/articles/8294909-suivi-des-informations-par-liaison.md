@@ -43,16 +43,18 @@ Vous pouvez découvrir à quoi un sujet est lié dans le [panneau droit](https:/
 **Automatique**
 
 1. Charger un modèle en 3D et sélectionner un objet.
-1. Soit
 
-    Cliquez sur le bouton plus dans la [section des sujets](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) de la section inspection du panneau d'information.
+2. Soit
 
-    ou
+   Cliquez sur le bouton plus dans la [section des sujets](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) de la section inspection du panneau d'information.
 
-    Créez une nouvelle section de sujet en cliquant sur nouveau sujet dans la page des sujets du panneau de contenu.
+   ou
 
-1. Donnez un titre au sujet et envoyez-le
-1. Notez que votre sujet aura les objets sélectionnés liés
+   Créez une nouvelle section de sujet en cliquant sur nouveau sujet dans la page des sujets du panneau de contenu.
+
+3. Donnez un titre au sujet et envoyez-le
+
+4. Notez que votre sujet aura les objets sélectionnés liés
 
 ### 3.2 **Liaison de documents aux objets**
 

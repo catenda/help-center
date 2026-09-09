@@ -10,7 +10,7 @@ Die QR-Code-Zuordnung erfolgt über Ordner, d. h. jeder Projektadministrator kan
 
 Dies sind die Schritte zur Zuordnung der QR-Code-Funktion zu Ordnern in Ihrem Projekt;
 
-1. Gehen Sie unter Dokument —> Einstellungen zu **"Ordnerkonfiguration"**
+1. Gehen Sie unter Dokumente > Einstellungen zu **'Ordnerkonfiguration'**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/01-setup-qr-code-on-catenda-hub.png)
 
@@ -67,8 +67,8 @@ Das gedruckte PDF mit dem Platzhalter kann nun als neue Fassung auf Catenda hoch
 ## 3. **Veröffentlichung mit QR-Codes**
 
 1. Laden Sie eine neue Fassung eines PDFs mit dem Platzhalter in einen Ordner mit QR-Code-Zuordnung hoch
-1. Während der Veröffentlichung wird das PDF nach dem Platzhalter gescannt und durch einen QR-Code ersetzt (generiert für diese Fassung)
-1. Der neu generierte QR-Code wird Teil des PDFs und kann auf Catenda Hub angezeigt/gescannt und/oder heruntergeladen werden.
+2. Während der Veröffentlichung wird das PDF nach dem Platzhalter gescannt und durch einen QR-Code ersetzt (generiert für diese Fassung)
+3. Der neu generierte QR-Code wird Teil des PDFs und kann auf Catenda Hub angezeigt/gescannt und/oder heruntergeladen werden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/07-publishing-with-qr-codes.png)
 

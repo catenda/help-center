@@ -22,7 +22,7 @@ Et hvilket som helst antall prosjekter kan opprettes i denne typen organisasjon.
 
 Prosjekter fra studenter i nylige utdanningsperioder blir ofte oppbevart i disse typer organisasjoner.
 
-_Utløpsdato_ En utløpsdato blir ofte konfigurert for organisasjonen slik at prosjekter opprettet i denne organisasjonen utløper etter en fastsatt tid. Hvis en utløpsdato er satt for en utdanningsorganisasjon blir den ofte satt til 365 dager fra prosjektopprettelse. Utløpsdatoen som er konfigurert for organisasjonen teller bare for nye prosjekter opprettet i organisasjonen. Utløpsdatoen på eksisterende prosjekter kan bare endres av Catenda på prosjektbasis.
+**Utløpsdato** En utløpsdato blir ofte konfigurert for organisasjonen slik at prosjekter opprettet i denne organisasjonen utløper etter en fastsatt tid. Hvis en utløpsdato er satt for en utdanningsorganisasjon blir den ofte satt til 365 dager fra prosjektopprettelse. Utløpsdatoen som er konfigurert for organisasjonen teller bare for nye prosjekter opprettet i organisasjonen. Utløpsdatoen på eksisterende prosjekter kan bare endres av Catenda på prosjektbasis.
 
 > **Merk:** Professorer kan forberede prosjekter før starten av utdanningsperioden, så den totale perioden etter at en student får sitt prosjekt kan være kortere.
 
@@ -38,7 +38,7 @@ Et typisk prosjekt i denne organisasjonen er et pausert prosjekt. Prosjekter kan
 
 Andre brukstilfeller for denne typen organisasjon kan omfatte prosjekter som ikke lenger er i bruk, men som folk ønsker å beholde litt lenger. En grunn til å beholde et prosjekt på Catenda kunne være at prosjektet har avsluttet, men det ikke har vært tid til å eksportere all informasjon ennå, enten fordi det ikke har vært tid eller fordi det ikke er noen arkiveringsløsning på plass ennå.
 
-_Arkiv_ I motsetning til andre løsninger som er spesifikt rettet mot langsiktig arkivering av informasjon, er Catenda ment å brukes for aktivt samarbeid. I noen land er det ifølge lov påkrevd at Catenda sletter dataene så snart prosjektet er ferdig. I situasjoner hvor det ikke er påkrevd at prosjektet skal slettes kan prosjekter ønske å bli oppbevart lengre. Prosjekter blir da ofte flyttet til en arkivorganisasjon.
+**Arkiv** I motsetning til andre løsninger som er spesifikt rettet mot langsiktig arkivering av informasjon, er Catenda ment å brukes for aktivt samarbeid. I noen land er det ifølge lov påkrevd at Catenda sletter dataene så snart prosjektet er ferdig. I situasjoner hvor det ikke er påkrevd at prosjektet skal slettes kan prosjekter ønske å bli oppbevart lengre. Prosjekter blir da ofte flyttet til en arkivorganisasjon.
 
 ## 3. **3. Administrasjonsprosjektorganisasjon**
 
@@ -48,7 +48,7 @@ En administrasjonsorganisasjon opprettes så snart det første testprosjektet op
 
 Hvis det oppstår spørsmål på et hvilket som helst punkt under kundeReisen kan en separat organisasjon kalt administrasjon opprettes hvis den ikke allerede finnes. I organisasjonen kan prosjekter opprettes slik at de ikke teller mot det totale antallet aktive prosjekter. For å besvare spørsmålene kan et prosjekt opprettes i en slik organisasjon slik at en spesifikk oppsett eller konfigurasjon kan prøves ut eller nye funksjoner som ikke ennå er tilgjengelige for alle brukere kan aktiveres og vurderes for aktivering på aktive prosjekter.
 
-_Utløpsdato_ En utløpsdato kan settes for varighet av testperioden slik at spørsmålet kan løses. Utløpsdatoen kan bare endres av Catenda på prosjektbasis.
+**Utløpsdato** En utløpsdato kan settes for varighet av testperioden slik at spørsmålet kan løses. Utløpsdatoen kan bare endres av Catenda på prosjektbasis.
 
 ### 3.2 **3.2 Malprosjekt**
 
@@ -66,7 +66,7 @@ Testprosjekter blir ofte opprettet eller gjenåpnet i denne organisasjonen så l
 
 Prosjekter som ble brukt under tidligere testfaser kan ofte finnes i denne organisasjonen. Disse prosjektene er vanligvis prosjekter som: Utdanningsprosjekter Testprosjekter Sandkassprosjekter
 
-_Utløpsdato_ En utløpsdato kan settes for varighet av testperioden slik at prosjektet forblir aktivt, men ikke lenger kan nås. Utløpsdatoen kan bare endres av Catenda på prosjektbasis og blir ofte arvet fra organisasjonskonfigurasjonen hvor prosjektet ble opprettet.
+**Utløpsdato** En utløpsdato kan settes for varighet av testperioden slik at prosjektet forblir aktivt, men ikke lenger kan nås. Utløpsdatoen kan bare endres av Catenda på prosjektbasis og blir ofte arvet fra organisasjonskonfigurasjonen hvor prosjektet ble opprettet.
 
 ### 3.6 **3.6 Eksempelprosjekter**
 

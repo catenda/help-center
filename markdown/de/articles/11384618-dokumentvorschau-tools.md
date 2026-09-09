@@ -99,7 +99,7 @@ Klicken Sie auf den Zoomprozentsatz, um das Menü Zoompercentage zu öffnen. Das
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/12-zoom-percentage.png)
 
-### 4.1 **Breite anpassen**
+### 4.1 **An Breite anpassen**
 
 Passen Sie das Dokument so an, dass es die gesamte Breite der Dokumentenvorschau abdeckt
 
@@ -197,14 +197,10 @@ _Bild - Tastaturkürzel:_ (I) Wählen Sie das Bildwerkzeug aus und klicken Sie �
 
 Beispiele für eingefügte Bilder sind:
 
-- Generierte Informationen mit Metadaten.
-  In einigen Arbeitsabläufen werden Bilder mit Informationen über den Benutzer generiert, der das Dokument angesehen hat, zusammen mit einigen Informationen wie Datum und Fachbereich.
-- Ein persönliches oder Unternehmenslogo.
-  In einigen Fällen wird das Logo eines Unternehmens als Bild eingefügt, um anzuzeigen, dass dieses Unternehmen das Dokument überprüft hat.
-- Eine persönliche Unterschrift
-  Sometimes Manchmal ist es ein Scan einer handschriftlichen Unterschrift, manchmal kann es auch eine digital generierte Unterschrift sein.
-- Ein persönlicher Stempel.
-  In einigen Kulturen werden Stempel der Unterschrift vorgezogen
+- Generierte Informationen mit Metadaten.<br>In einigen Arbeitsabläufen werden Bilder mit Informationen über den Benutzer generiert, der das Dokument angesehen hat, zusammen mit einigen Informationen wie dem Datum und seinem Studienbereich.
+- Ein persönliches oder Unternehmenslogo.<br>In einigen Fällen wird das Logo eines Unternehmens als Bild eingefügt, um anzuzeigen, dass dieses Unternehmen das Dokument angesehen hat.
+- Eine persönliche Unterschrift<br>Manchmal handelt es sich um einen Scan einer handschriftlichen Unterschrift, manchmal kann es auch eine digital generierte Unterschrift sein.
+- Ein persönlicher Stempel.<br>In einigen Kulturen werden Stempel bevorzugt statt Unterschriften
 
 Nach dem Klicken auf den Einfügungsort wird der System-Dateibrowser geöffnet. Navigieren Sie zu dem einzufügenden Bild und wählen Sie es aus. Nach der Auswahl des Bildes wird es an der angegebenen Stelle platziert.
 

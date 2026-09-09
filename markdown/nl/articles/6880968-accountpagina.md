@@ -3,7 +3,7 @@
 Uw [accountinstellingen](https://bimsync.com/account/profile) vindt u op twee plaatsen:
 
 1. Aan de linkerkant van de **startpagina** van Catenda Hub.
-1. In het vervolgkeuzemenu dat verschijnt na het klikken op uw **profielfoto** ergens in Catenda Hub.
+2. In het vervolgkeuzemenu dat verschijnt na het klikken op uw **profielfoto** ergens in Catenda Hub.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/01-intro.png)
 
@@ -57,9 +57,9 @@ In [authenticatie](https://bimsync.com/account/authentication) kunt u:
 
 1. Uw wachtwoord wijzigen
 
-    Klik [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) voor probleemoplossing bij wachtwoorden
+   Klik [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) voor probleemoplossing bij wachtwoorden
 
-1. [MFA inschakelen en uitschakelen.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
+2. [MFA inschakelen en uitschakelen.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
 
 ![Bepaal hoe u inlogt](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/07-authentication.png)
 

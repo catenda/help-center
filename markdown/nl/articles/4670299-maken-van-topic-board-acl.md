@@ -4,14 +4,14 @@ Beheerders kunnen configureren wie toegang heeft om topic boards te maken in het
 
 1. Onder toegangscontrole op deze pagina hebt u "Create new topic board".
 
-    Klik erop.
+   Klik erop.
 
-1. Een lijst met wie kan maken en Bewerk toegang verschijnt.
-   Klik op de knop Bewerk toegang.
-1. Definieer toegang voor lid(en) of team(s).
+2. Een lijst van wie kan maken en Toegang bewerken wordt weergegeven.<br>Klik op de knop Toegang bewerken.
 
-    Onder het lid (den) of Team (s) dat u hebt geselecteerd, verschijnt.
+3. Definieer toegang voor lid(en) of team(s).
 
-1. Onder toegang kiest u tussen Kan maken en Niet toegestaan.
+   Onder het lid (den) of Team (s) dat u hebt geselecteerd, verschijnt.
 
-    Druk op de knop Opslaan.
+4. Onder toegang kiest u tussen Kan maken en Niet toegestaan.
+
+   Druk op de knop Opslaan.

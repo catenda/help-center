@@ -1,12 +1,12 @@
-# Digital Design Koordinering og Problemløsning for et Sykehusprosjekt
+# Designkoordinering og problemløsning - Sykehus
 
 > Industri: Helsekonstruksjon / BIM (Building Information Modeling) Persona: David, en BIM-koordinator for en stor generalentreprenør.
 
-_Scenario:_ David administrerer den digitale konstruksjonsmodellen for en ny sykehusavdeling. Dette er et svært komplekst prosjekt som involverer dusinvis av spesialiserte team. Arkitektur-, struktur- og MEP-modellene (mekanisk, elektrisk, rørleggearbeid) oppdateres konstant av forskjellige konsulentfirmaer. Davids primære ansvar er å federalisere (kombinere) disse modellene i Catenda Hub for å identifisere og løse clashes _før_ de blir dyre problemer på byggeplassen.
+**Scenario:** David administrerer den digitale konstruksjonsmodellen for en ny sykehusavdeling. Dette er et svært komplekst prosjekt som involverer dusinvis av spesialiserte team. Arkitektur-, struktur- og MEP-modellene (mekanisk, elektrisk, rørleggearbeid) oppdateres konstant av forskjellige konsulentfirmaer. Davids primære ansvar er å federalisere (kombinere) disse modellene i Catenda Hub for å identifisere og løse clashes _før_ de blir dyre problemer på byggeplassen.
 
 Under sin ukentlige koordineringskontroll må han undersøke et potensielt kritisk problem som er flagget av byggeplasslederen: støttestrukturen for en stor MRI-maskin på andre etasje stemmer kanskje ikke overens med de nyeste arkitektur- og elektriske planene.
 
-_Løsning ved bruk av Catenda Hub:_ David bruker en presis arbeidsflyt innen Catenda Hub for å håndtere denne komplekse koordineringsoppgaven effektivt.
+**Løsning ved bruk av Catenda Hub:** David bruker en presis arbeidsflyt innen Catenda Hub for å håndtere denne komplekse koordineringsoppgaven effektivt.
 
 ### **1. Sentralisering av data på siden "Modeller":**
 
@@ -24,7 +24,7 @@ Ved navigering gjennom 3D-modellen oppdager David umiddelbart problemet. Stålst
 
 - Han isolerer kun de kolliderende elementene: stålstøttene, den spesifikke veggen, koblingshuset og kabelbrettet.
 - Han bruker et seksjonskutt for å skape en klar, uobstruert visning av kollisjonspunktet.
-- Han lagrer denne presise tilstanden—inkludert kameravinkel, objektsynlighet og seksjonskutt—som et bokmerke med tittelen "**Clash: MRI Support vs. Elec Room 204**".
+- Han lagrer denne presise tilstanden, inkludert kameravinkelen, objektsynligheten og snittkuttet, som et bokmerke med tittelen "**Clash: MRI Support vs. Elec Room 204**".
 
 ### **3. Oppretting og tildeling av en handlingskraftig sak:**
 

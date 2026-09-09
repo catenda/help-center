@@ -9,19 +9,19 @@ Listevisningen i sakslinjen på [sakssiden ](https://support.catenda.com/en/arti
 I listevisningen av en saksliste er det mulig å sortere saker etter:
 
 1. Nyeste
-1. Eldste
-1. Nylig oppdatert
-1. Minst nylig oppdatert
-1. Frist, nyeste først
-1. Frist, eldste først
-1. Egendefinert felt, synkende
-1. Egendefinert felt, stigende
+2. Eldste
+3. Nylig oppdatert
+4. Minst nylig oppdatert
+5. Frist, nyeste først
+6. Frist, eldste først
+7. Egendefinert felt, synkende
+8. Egendefinert felt, stigende
 
 ## 2. **Sakslisten**
 
 ### 2.1 **Radinnhold**
 
-_Saksrad_ Når du åpner innholdet i en saksrad, åpnes sakssiden for den saken. Klikk [her](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) for å lese mer om sakssiden.
+**Saksrad** Når du åpner innholdet i en saksrad, åpnes sakssiden for den saken. Klikk [her](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) for å lese mer om sakssiden.
 
 ### 2.2 **Kort**
 
@@ -31,24 +31,24 @@ Hver rad i sakslisten inneholder et sakkort med visuelle tegn på innholdet i hv
 
 Tittel Sakstitel
 
-_Saksliste_ Sakslisten som saken er i. Innenfor en saksliste er disse alle de samme, men når du ser på saker i sakslisten alle saker, kan det være saker fra ulike tavler.
+**Saksliste** Sakslisten som saken er i. Innenfor en saksliste er disse alle de samme, men når du ser på saker i sakslisten alle saker, kan det være saker fra ulike tavler.
 
-_Statuser_ Saksstatus vises i en boks med en farget sirkel.
+**Statuser** Saksstatus vises i en boks med en farget sirkel.
 
-_Merkelapper_ Sak [merkelapper](https://support.catenda.com/en/articles/4670265-creating-a-new-label) (tagger) vises i bokser med et merkelapp-ikon.
+**Merkelapper** Sak [merkelapper](https://support.catenda.com/en/articles/4670265-creating-a-new-label) (tagger) vises i bokser med et merkelapp-ikon.
 
-_Tildelt til_ Saksansvarlig.
+**Tildelt til** Saksansvarlig.
 
-_Etterspurt av_ Saksanmoder.
+**Etterspurt av** Saksanmoder.
 
-_Frist_ Fristen for saken. Kalenderikon og tekst er: Grå - Hvis datoen er mer enn to uker fram i tid. Oransje - Hvis datoen er mindre enn to uker fram i tid. Rød - Hvis saken har passert fristen.
+**Frist** Fristen for saken. Kalenderikon og tekst er: Grå - Hvis datoen er mer enn to uker fram i tid. Oransje - Hvis datoen er mindre enn to uker fram i tid. Rød - Hvis saken har passert fristen.
 
-_Milepæl_ Saksmilepæl.
+**Milepæl** Saksmilepæl.
 
-_Bilder_ Forhåndsvisninger av merknader, 2D- og 3D-øyeblikksbilder i sakskommentarene. Klikk på et bilde for å se en forhåndsvisning av bildet uten å måtte laste sakssiden.
+**Bilder** Forhåndsvisninger av merknader, 2D- og 3D-øyeblikksbilder i sakskommentarene. Klikk på et bilde for å se en forhåndsvisning av bildet uten å måtte laste sakssiden.
 
-_Dato_ Sakens opprettelsesdato.
+**Dato** Sakens opprettelsesdato.
 
-_Saksnummer_ Nummeret på saken på Catenda. Klikk på dette nummeret for å kopiere en lenke til saken.
+**Saksnummer** Nummeret på saken på Catenda. Klikk på dette nummeret for å kopiere en lenke til saken.
 
-_Nedre ikoner_ Antall merkede bokser. Antall kommentarer. Antall koblede dokumenter.
+**Nedre ikoner** Antall merkede bokser. Antall kommentarer. Antall koblede dokumenter.

@@ -2,13 +2,13 @@
 
 En eksplisitt individuell tildeling fungerer som den absolutte endelige myndighet i Catenda Hub, og gir deg makten til å unikt låse eller nedgradere en bestemt brukers tillatelser. Hvis ingen individuell innstilling er konfigurert, faller systemet tilbake til å evaluere en brukers arvede stier på tvers av det globale prosjektgrunnlaget, teammedlemsskap og eierstatus.
 
-_Tilgangen med høyest vekt vinner alltid, noe som betyr at restriktive nivåer som "Ingen tilgang" vil bli hevet hvis noen annen sti gir høyere rettigheter._
+**Tilgangen med høyest vekt vinner alltid, noe som betyr at restriktive nivåer som "Ingen tilgang" vil bli hevet hvis noen annen sti gir høyere rettigheter.**
 
 ## 1. **1. Forståelse av tilgangsnivåer**
 
 ### 1.1 **1.1 Fra minst til mest tilgang**
 
-<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; padding: 8px;"><p><b>Tilgangsnivå</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Hva det tillater</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Standard for</b></p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Ingen tilgang</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Forhindrer synlighet, interaksjon og navigasjon til undermapper.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>—</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Lese</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Minimum rettighet for å se og laste ned innhold; ingen endringsoperasjoner</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>—</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Skriv</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Rediger og endre, f.eks. gi nytt navn på og flytt filer du lastet opp selv</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Enkeltbruker / alle brukere / Teams standard</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Full tilgang</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kontroller alle aspekter av objektet, inkludert tillatelsesbehandling. </p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Administrator og eierstandard</p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; padding: 8px;"><p><b>Tilgangsnivå</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Hva det tillater</b></p></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><p><b>Standard for</b></p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Ingen tilgang</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Forhindrer synlighet, interaksjon og navigasjon til undermapper.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Ikke relevant</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Lese</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Minimum rettighet for å se og laste ned innhold; ingen endringsoperasjoner</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Ikke relevant</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><p>Skriv</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Rediger og endre, f.eks. gi nytt navn på og flytt filer du lastet opp selv</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Enkeltbruker / alle brukere / Teams standard</p></td></tr><tr><td style="background-color: #e8e8e880; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Full tilgang</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kontroller alle aspekter av objektet, inkludert tillatelsesbehandling. </p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Administrator og eierstandard</p></td></tr></tbody></table></div>
 
 ### 1.2 **1.2 Forståelse av tilgangsnivåer etter funksjonell vekt**
 
@@ -20,23 +20,23 @@ Selv om disse alternativene vises i en lineær sekvens i brukergrensesnittet, ha
 
 ### 2.1 **2.1 Prosjektadministratorer**
 
-_Absolutt myndighet_ Prosjektadministratorer mottar automatisk **Full tilgang** til hver del av et prosjekt. Denne systemregelen omgår og overstyrer alle matriser, teamtildelinger, eierstatus og individuelle restriksjoner.
+**Absolutt myndighet** Prosjektadministratorer mottar automatisk **Full tilgang** til hver del av et prosjekt. Denne systemregelen omgår og overstyrer alle matriser, teamtildelinger, eierstatus og individuelle restriksjoner.
 
 ### 2.2 **2.2 Individuelle brukerinnstillinger (Den absolutte overstyringregelen)**
 
-_Overstyrer alt_ Når en spesifikk individuell bruker tildeles et tillatelseslag direkte, blir denne innstillingen den absolutte endelige myndighet.
+**Overstyrer alt** Når en spesifikk individuell bruker tildeles et tillatelseslag direkte, blir denne innstillingen den absolutte endelige myndighet.
 
-Det kansellerer helt og erstatter eventuelle tillatelser som brukeren ellers ville arve fra det **alle brukere** grunnlaget, deres **Teams medlemskaper**, eller deres status som **Vareeier**. Hvis en navngitt individuell innstilling er konfigurert, brukes det nivået nøyaktig som valgt - selv om det nedgraderer deres tilgang til **Ingen tilgang**.
+Det kansellerer helt og erstattet alle tillatelser som brukeren ellers ville arvet fra **Alle brukere**-grunnlinjen, deres **Teammedlemskap**, eller deres status som **Gjenstandseier**. Hvis en navngitt individuell innstilling er konfigurert, brukes det nivået nøyaktig som valgt, selv om det nedgraderer tilgangen til **Ingen tilgang**.
 
 ### 2.3 **2.3 Arvede tillatelser og eierstatus (Høyeste tilgang vinner)**
 
 Når en bruker **ikke** har en eksplisitt individuell tildeling konfigurert, evaluerer Catenda Hub alle gjenværende stier de tilhører og gir det maksimale nivået som finnes.
 
-_Alle brukere grunnlaget_ Angir det grunnleggende prosjekttilgangsnivået for hvert medlem. En bruker kan ikke begrenses under dette grunnlinjenivået med mindre en individuell overskrivelse brukes.
+**Alle brukere grunnlaget** Angir det grunnleggende prosjekttilgangsnivået for hvert medlem. En bruker kan ikke begrenses under dette grunnlinjenivået med mindre en individuell overskrivelse brukes.
 
-_Teams innstillinger_ Hvis en bruker tilhører et team (eller flere Teams) med høyere tilgang enn grunnlinjen, øker deres tilgang for å matche det høyeste teamets nivå.
+**Teams innstillinger** Hvis en bruker tilhører et team (eller flere Teams) med høyere tilgang enn grunnlinjen, øker deres tilgang for å matche det høyeste teamets nivå.
 
-_Eier tilgang_ Skaperen eller opplasteren av en gjenstand blir automatisk standardisert til **Full tilgang** for å sikre dataprivacy. Administratorer kan imidlertid konfigurere en eiersetting (f.eks. begrense den til **Skriv** tilgang for å forhindre filsletting). Hvis en eiers Teams innstilling eller det globale grunnlaget gir et høyere nivå enn deres eiersetting, vinner det høyeste nivået.
+**Eier tilgang** Skaperen eller opplasteren av en gjenstand blir automatisk standardisert til **Full tilgang** for å sikre dataprivacy. Administratorer kan imidlertid konfigurere en eiersetting (f.eks. begrense den til **Skriv** tilgang for å forhindre filsletting). Hvis en eiers Teams innstilling eller det globale grunnlaget gir et høyere nivå enn deres eiersetting, vinner det høyeste nivået.
 
 ## 3. **3. Hurtigreferanse matriser**
 

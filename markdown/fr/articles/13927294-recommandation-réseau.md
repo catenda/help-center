@@ -19,11 +19,10 @@ Les utilisateurs accédant à Catenda Hub derrière un pare-feu, un proxy ou un 
 (`*` signifie wildcard DNS et `.` est un séparateur de niveau de domaine, ne traitez pas le contenu ci-dessous comme des expressions régulières).
 
 - Domaines Catenda :
-    - `catenda.com`
-    - `*.catenda.com`
-        - `webviewer.catenda.com`
-          Ce sous-domaine doit être autorisé dans le pare-feu pour afficher l'aperçu des Documents sur la page d'aperçu des documents.
-    - `*.*.catenda.com`
+  - `catenda.com`
+  - `*.catenda.com`
+    - `webviewer.catenda.com`<br>Ce sous-domaine doit être autorisé dans le pare-feu pour afficher l'aperçu des documents sur la page d'aperçu des documents.
+  - `*.*.catenda.com`
 
 Nous vous encourageons à utiliser ce nouveau nom de domaine. Vous ne devriez pas rencontrer de problèmes avec des sous-domaines supplémentaires comme `*.*.*.catenda.com`, mais si c'est le cas, il pourrait être plus facile d'autoriser tout depuis `catenda.com`
 
@@ -44,26 +43,26 @@ Nous vous encourageons à utiliser ce nouveau nom de domaine. Vous ne devriez pa
 **Plugins** Si vous n'envisagez d'utiliser Catenda Hub que par l'intermédiaire de l'un de nos plugins, ce sont les seuls domaines que vous devez autoriser à travers votre pare-feu.
 
 - Pour l'authentification des plugins et des intégrations
-    - `hub.catenda.com`
-    - `api.catenda.com`
-    - `bimsync.com`
-    - `api.bimsync.com`
+  - `hub.catenda.com`
+  - `api.catenda.com`
+  - `bimsync.com`
+  - `api.bimsync.com`
 - Pour l'utilisation du plugin
-    - Plugin Revit
-        - [`https://revit.plugins.catenda.com`](https://revit.plugins.catenda.com)
-        - [`https://revit.plugins.bimsync.com`](https://revit.plugins.bimsync.com)
-    - Plugin Archicad
-        - [`https://archicad.plugins.catenda.com`](https://archicad.plugins.catenda.com)
-        - [`https://archicad.plugins.bimsync.com`](https://archicad.plugins.bimsync.com)
-    - Plugin Navisworks
-        - [`https://navisworks.plugins.catenda.com`](https://navisworks.plugins.catenda.com)
-        - [`https://navisworks.plugins.bimsync.com`](https://navisworks.plugins.bimsync.com)
-    - Plugin Tekla
-        - [`https://tekla.plugins.catenda.com`](https://tekla.plugins.catenda.com)
-        - [`https://tekla.plugins.bimsync.com`](https://tekla.plugins.bimsync.com)
+  - Plugin Revit
+    - [`https://revit.plugins.catenda.com`](https://revit.plugins.catenda.com)
+    - [`https://revit.plugins.bimsync.com`](https://revit.plugins.bimsync.com)
+  - Plugin Archicad
+    - [`https://archicad.plugins.catenda.com`](https://archicad.plugins.catenda.com)
+    - [`https://archicad.plugins.bimsync.com`](https://archicad.plugins.bimsync.com)
+  - Plugin Navisworks
+    - [`https://navisworks.plugins.catenda.com`](https://navisworks.plugins.catenda.com)
+    - [`https://navisworks.plugins.bimsync.com`](https://navisworks.plugins.bimsync.com)
+  - Plugin Tekla
+    - [`https://tekla.plugins.catenda.com`](https://tekla.plugins.catenda.com)
+    - [`https://tekla.plugins.bimsync.com`](https://tekla.plugins.bimsync.com)
 - Pour l'utilisation de plugins et d'intégrations qui utilisent les sujets listés [ici](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
-    - [`https://bcf.bimsync.com/`](https://bcf.bimsync.com/)
-    - [`https://opencde.bimsync.com/`](https://opencde.bimsync.com/)
+  - [`https://bcf.bimsync.com/`](https://bcf.bimsync.com/)
+  - [`https://opencde.bimsync.com/`](https://opencde.bimsync.com/)
 
 ## 3. **Configuration des ports**
 

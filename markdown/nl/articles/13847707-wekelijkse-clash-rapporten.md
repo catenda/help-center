@@ -90,7 +90,7 @@ U bent een Lead BIM-coördinator verantwoordelijk voor intensieve, multidiscipli
 
 ### 7.2 **Ervaring**
 
-U bent een meester in gegevensanalyse en automatisering binnen het Catenda-ecosysteem. U begrijpt dat het handmatig tellen wanneer u duizenden topics beheert, een "stille belasting" is die tot fouten leidt. U bent bedreven in het benutten van metagegevens, geavanceerde filters en gespecialiseerde tools, zoals de Reports Page en Power BI Connector, om technische botsingen in duidelijke, bruikbare inzichten voor projectleiding om te zetten.
+U bent een expert in gegevensanalyse en automatisering binnen het Catenda-ecosysteem. U begrijpt dat wanneer u duizenden Topics beheert, handmatig tellen een "stille belasting" is die tot fouten leidt. U bent bedreven in het benutten van metagegevens, geavanceerde Filters en gespecialiseerde tools, zoals de Reports Page en Power BI Connector, om technische botsingen om te zetten in duidelijke, bruikbare inzichten voor projectleiders.
 
 ### 7.3 **Doel**
 
@@ -110,7 +110,7 @@ Het project gaat een kritieke coördinatiesfase in met duizenden gesynchroniseer
 
 **The Reports Page voor multi-board-rapportage** U gebruikt de Reports-pagina, een opt-in-functie waarmee u aangepaste sjabloonrapporten voor topics en documenten kunt maken. Dit is essentieel omdat het Topics van meerdere topic boards tegelijk kan exporteren. U gebruikt de rapporteditor om deze sjablonen te beheren en elke revisie voor een volledige geschiedenis bij te houden.
 
-**De Catenda Power BI Connector** Voor diepgaande gegevensanalyse koppelt u de Catenda Hub-database rechtstreeks aan Power BI. U haalt volledige datasets op, inclusief Topics, Topic-statussen en Labels, om interactieve dashboards te bouwen. Dit stelt u in staat geavanceerde berekeningen uit te voeren om specifieke buffer-zone clashes te isoleren en hun veroudering in de loop van de tijd bij te houden.
+**De Catenda Power BI Connector** Voor diepgaande gegevensanalyse koppelt u de Catenda Hub-database rechtstreeks met Power BI. U haalt volledige gegevenssets op, inclusief Topics, Topic-statussen en Labels, om interactieve Dashboards te maken. Hierdoor kunt u geavanceerde berekeningen uitvoeren om specifieke buffer-zone clashes te isoleren en hun veroudering in de loop der tijd bij te houden.
 
 **Geavanceerde filtering en labels** U stelt een rigide labelsysteem vast voor clash-ernst. U gebruikt vervolgens de zoek- en filteropties op de Reports-pagina of in Power BI om deze specifieke groepen voor uw wekelijkse metrieken te isoleren.
 

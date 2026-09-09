@@ -38,8 +38,7 @@
 
 - Modelle können erneut ohne Probleme rotiert werden. (Das Rotationsfeld war für kurze Zeit leer)
 - Objekte können erneut gelöscht werden (Modelle wurden für kurze Zeit zweimal geladen)
-- Gitter, die von Revit mit dem offiziellen IFC4-Exporter exportiert wurden, sind nun sichtbar
-  Die erste gemessene Messung ist nun sofort sichtbar, wenn Sie auf Inspizieren auf Bildschirmen klicken, wo kein Platz für die Anzeige des Inspizieren-Bedienfelds und des 3D-Viewers gleichzeitig vorhanden ist.
+- Von Revit mit dem offiziellen IFC4-Exporter exportierte Gitter sind jetzt sichtbar<br>Die erste gemessene Messung ist jetzt sofort sichtbar, wenn Sie auf Inspizieren gehen auf Bildschirmen, auf denen kein Platz vorhanden ist, um das Inspizierenpanel und den 3D-Viewer gleichzeitig anzuzeigen.
 - Objekte können nun erneut transparent gemacht werden. (Transparentmachen würde stattdessen andere für einige Zeit ausblenden)
 - Bedienfelder wie Eigenschaften bleiben nun offen, auch wenn Sie auf leeren Raum und dann auf das gleiche Objekt klicken
 

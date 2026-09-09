@@ -24,11 +24,11 @@ Du kan filtrere etter:
 
 - Mine saker
 - Statuser og typer
-    - Hvis en status eller type legges til i prosjektet, eller hvis navnet på en eksisterende status eller type endres, vil saker med denne statusen ha navnet på status og type, men fargen vil være grå.
-    - Det vil ikke være mulig å filtrere og se fargen på disse statusene før du går tilbake til [prosjektsiden](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) og åpner prosjektet på nytt.
+  - Hvis en status eller type legges til i prosjektet, eller hvis navnet på en eksisterende status eller type endres, vil saker med denne statusen ha navnet på status og type, men fargen vil være grå.
+  - Det vil ikke være mulig å filtrere og se fargen på disse statusene før du går tilbake til [prosjektsiden](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) og åpner prosjektet på nytt.
 - [Merkelapper](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - Frist
-- Plassering
+- Plassering <br>
 
 ### 1.1 Tilbakestill filter-ikon
 
@@ -48,9 +48,9 @@ Dra ned på sakslisten for å hente de siste endringene i sakeboardet ditt.
 
 For hver sak vil du se følgende informasjon:
 
-_Venstrejustert_ Saksnummer Saknavn Status, type og merkelapper Anmoder Tildelt Milepæl Frist Opprettelsesdato
+**Venstrejustert** Saksnummer Saknavn Status, type og merkelapper Anmoder Tildelt Milepæl Frist Opprettelsesdato
 
-_Nederst til høyre_ Plassering Kommentarantal
+**Nederst til høyre** Plassering Kommentarantal
 
 ### 2.3 **Ny sak**
 

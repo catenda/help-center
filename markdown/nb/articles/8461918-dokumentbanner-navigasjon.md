@@ -5,10 +5,10 @@ Hvis du velger et dokument på [dokumentsiden](https://support.catenda.com/en/ar
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/01-intro.png)
 
 1. Dokumentbanneret blir beskrevet i denne artikkelen og spenner over toppen av dokumentsiden
-1. Du finner dokumenthodet under dokumentbanneret og over dokumentforhåndsvisningen
-1. Under dokumenthodet finner du dokumentforhåndsvisningen
-1. Til venstre for dokumenthodet og forhåndsvisningen finner du dokumentlisten
-1. Til høyre for dokumenthodet og forhåndsvisningen finner du [høyre informasjonsmeny](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
+2. Du finner dokumenthodet under dokumentbanneret og over dokumentforhåndsvisningen
+3. Under dokumenthodet finner du dokumentforhåndsvisningen
+4. Til venstre for dokumenthodet og forhåndsvisningen finner du dokumentlisten
+5. Til høyre for dokumenthodet og forhåndsvisningen finner du [høyre informasjonsmeny](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
 
 Dokumentbanneret kan se slik ut:
 
@@ -58,9 +58,9 @@ Klikk fullskjermknappen til høyre for høyre informasjonsmenyknapp for å se do
 
 Dokumenter kan lastes ned med handlingsknappen øverst til høyre, med nedlastingsknappen i revisjonsmenyden i høyre informasjonsmeny, ved å velge det i dokumentlisten og laste det ned, eller fra forhåndsvisningsdialogen.
 
-_Høyre informasjonsmeny_ Du finner nedlastingshandlingsknappen i [høyre informasjonsmeny](https://support.catenda.com/en/articles/8345396-right-panel-in-documents-table). Nedlasting av dokumentet herfra gir deg alltid den opprinnelig opplastede filen. Hvis du velger ett dokument, får du den siste revisjonen som en fil med revisjonsnavnet. Hvis du velger mer enn ett dokument, får du de siste revisjonene av de valgte dokumentene i en zip-fil med dokumentnavnet og revisjonsnummeret.
+**Høyre informasjonsmeny** Du finner nedlastingshandlingsknappen i [høyre informasjonsmeny](https://support.catenda.com/en/articles/8345396-right-panel-in-documents-table). Nedlasting av dokumentet herfra gir deg alltid den opprinnelig opplastede filen. Hvis du velger ett dokument, får du den siste revisjonen som en fil med revisjonsnavnet. Hvis du velger mer enn ett dokument, får du de siste revisjonene av de valgte dokumentene i en zip-fil med dokumentnavnet og revisjonsnummeret.
 
-_Dokumentforhåndsvisning_ Hvis dokumentet ditt kan forhåndsvises, finner du Lagre som-knappen i hamburgermenyen øverst til venstre på dokumentforhåndsvisningen. Med Lagre som-menyen kan du laste ned dokumentet ditt med merknader og kommentarer.
+**Dokumentforhåndsvisning** Hvis dokumentet ditt kan forhåndsvises, finner du Lagre som-knappen i hamburgermenyen øverst til venstre på dokumentforhåndsvisningen. Med Lagre som-menyen kan du laste ned dokumentet ditt med merknader og kommentarer.
 
 ### 6.2 **Dokumentegenskaper**
 
@@ -74,10 +74,10 @@ Dokumenter kan være tomme, men har vanligvis minst én revisjon. En revisjon ka
 
 Et dokument kan kobles til mange ulike steder rundt Catenda Hub.
 
-_Gjennomganger_ Hvis dokumentstatuser er aktivert i dokumentinnstillinger, kan en utkastversjon av et dokument være del av en gjennomgang
+**Gjennomganger** Hvis dokumentstatuser er aktivert i dokumentinnstillinger, kan en utkastversjon av et dokument være del av en gjennomgang
 
 **Samlinger** - Et dokument kan være del av en samling som kan være privat, delt med prosjektet eller delt eksternt.
 
-_Koblede objekter_ Det er mulig å koble objekter fra modeller i modelldelen til et dokument
+**Koblede objekter** Det er mulig å koble objekter fra modeller i modelldelen til et dokument
 
 _Relaterte saker_ - Dokumenter kan kobles til saker

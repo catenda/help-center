@@ -53,31 +53,31 @@ Vos préférences pour l'expansion et la rétraction des menus de filtrage sur l
 Vous pourrez enregistrer les filtres sur les pages suivantes:
 
 - Page principale
-    - [Page des notifications de compte](https://support.catenda.com/en/articles/7439223-account-notifications-page)
-    - Outil d'organisation
-        - [Page des utilisateurs](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-        - [Page des projets](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-        - [Page d'adhésion au projet](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+  - [Page des notifications de compte](https://support.catenda.com/en/articles/7439223-account-notifications-page)
+  - Outil d'organisation
+    - [Page des utilisateurs](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+    - [Page des projets](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+    - [Page d'adhésion au projet](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 - Projet
-    - [Tableau des sujets](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
-    - Modèles
-        - [Page des modèles](https://support.catenda.com/en/articles/4670286-models-page)
-        - [Page des signets](https://support.catenda.com/en/articles/4670281-bookmarks-page)
-        - [Page des objets](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-    - Documents
-        - [Page des documents](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-        - [Page des collections](https://support.catenda.com/en/articles/6344318-collections-page)
-        - [Page des approbations](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
-    - Rapports
-        - Page des rapports
-    - Bibliothèques
-        - [Bibliothèque de liens](https://support.catenda.com/en/articles/4670254-links-library)
-        - [Bibliothèque Sharepoint](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-        - [Bibliothèque Dropbox](https://support.catenda.com/en/articles/8065645-libraries-page)
-        - [Bibliothèque de valeurs de propriété](https://support.catenda.com/en/articles/4670252-property-value-library)
-        - [Bibliothèque de classification](https://support.catenda.com/en/articles/4670255-classification-library)
-    - [Page de notification du projet](https://support.catenda.com/en/articles/4670295-project-notifications-page)
-    - Paramètres du projet
-        - [Page des champs personnalisés](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-        - [Page des étiquettes](https://support.catenda.com/en/articles/4670265-labels-page)
-        - [Page des membres](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
+  - [Tableau des sujets](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
+  - Modèles
+    - [Page des modèles](https://support.catenda.com/en/articles/4670286-models-page)
+    - [Page des signets](https://support.catenda.com/en/articles/4670281-bookmarks-page)
+    - [Page des objets](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+  - Documents
+    - [Page des documents](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+    - [Page des collections](https://support.catenda.com/en/articles/6344318-collections-page)
+    - [Page des approbations](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+  - Rapports
+    - Page des rapports
+  - Bibliothèques
+    - [Bibliothèque de liens](https://support.catenda.com/en/articles/4670254-links-library)
+    - [Bibliothèque Sharepoint](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+    - [Bibliothèque Dropbox](https://support.catenda.com/en/articles/8065645-libraries-page)
+    - [Bibliothèque de valeurs de propriété](https://support.catenda.com/en/articles/4670252-property-value-library)
+    - [Bibliothèque de classification](https://support.catenda.com/en/articles/4670255-classification-library)
+  - [Page de notification du projet](https://support.catenda.com/en/articles/4670295-project-notifications-page)
+  - Paramètres du projet
+    - [Page des champs personnalisés](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+    - [Page des étiquettes](https://support.catenda.com/en/articles/4670265-labels-page)
+    - [Page des membres](https://support.catenda.com/en/articles/4670291-members-and-teams-page)

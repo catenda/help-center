@@ -52,11 +52,9 @@ Un défi principal avec cette stratégie est que une fois tous les tirets d'espa
 
 **2.2.4 La configuration :**
 
-- **Champ source**
-  Champ de texte personnalisé configuré avec une longueur fixe stricte (par exemple, 2 ou 3 caractères) ou un champ de liste déroulante personnalisé contenant les variations exactes autorisées.
+- **Champ source**<br>Champ de texte personnalisé configuré avec une longueur stricte et fixe (par exemple, 2 ou 3 caractères) ou un champ de liste déroulante personnalisé contenant les variations exactes autorisées.
 - **Identifiant de document :** Désactivé.
-- **Le résultat**
-  Lorsque Sarah télécharge `FloorPlan_--.pdf` suivi plus tard par `FloorPlan_-a.pdf`, la plateforme lit les étiquettes de séquence changeantes pour la validation mais les supprime lors du nommage du fichier dans l'espace de travail. Tom et l'équipe de conception voient un conteneur de Document unique nommé `FloorPlan` où les variations historiques s'empilent en tant que révisions sans décaler les caractères suivants.
+- **Le résultat**<br>Lorsque Sarah télécharge `FloorPlan_--.pdf` suivi plus tard par `FloorPlan_-a.pdf`, la plateforme lit les balises de séquence changeantes pour la validation mais les supprime lors de la dénomination du fichier dans l'espace de travail. Tom et l'équipe de conception voient un seul conteneur de documents nommé `FloorPlan` où les variations historiques sont empilées en tant que révisions sans déplacer les caractères ultérieurs.
 
 ### 2.3 Séquence de suivi numérique simple (`01`, `02`, `03`)
 
@@ -84,8 +82,7 @@ Un défi principal avec cette stratégie est que une fois tous les tirets d'espa
 **3.4 La configuration :**
 
 - **Champ source :** Champ de liste déroulante personnalisé.
-- **Configuration de mappage**
-  Le "Code" est défini pour correspondre aux marqueurs de noms de fichiers locaux d'Elena (`W`, `D`, `P`), tandis que le "Nom" est écrit intégralement comme valeur d'affichage (`En cours`, `Brouillon`, `Publié`).
+- **Configuration du mappage**<br>Le "Code" est défini pour correspondre aux marqueurs de nom de fichier locaux d'Elena (`W`, `D`, `P`), tandis que le "Nom" est écrit en entier comme valeur d'affichage (`Travail en cours`, `Brouillon`, `Publié`).
 - **Identifiant de document :** Désactivé.
 
 **3.5 Le résultat** Lorsqu'Elena télécharge `HVAC_Layout_W.pdf`, le système correspond au code `W` et remplit automatiquement l'affichage des métadonnées en tant que `En cours`. Lorsque Marcus développe le menu d'informations de droite pour examiner le fichier, le nom de document principal reste un `HVAC_Layout` propre et statique, tandis que la section **Informations de révision** affiche explicitement « En cours ».
@@ -106,20 +103,13 @@ Dans cette variation, la date change à chaque nouveau téléchargement de fichi
 
 **4.3.1 Trois blocs entiers séparés**
 
-- **Structure**
-  Si un trait de soulignement (`_`) est établi comme séparateur principal, le fichier peut être formaté comme `Daily_Report_09_07_2026.pdf`.
-  Cela utilise trois champs entiers personnalisés individuels : Jour, Mois et Année.
-- **Contraintes de l'identifiant de document**
-  Si l'Identifiant de document est activé **Activé** pour ces trois blocs, la date est définitivement intégrée au nom du Document.
-  Ceci crée un conteneur de Document distinct pour chaque révision unique, et les valeurs de date restent permanentes car les noms de Documents dans les dossiers de convention de nommage ne peuvent pas être modifiés.
-  Pour permettre aux champs de date de varier et d'empiler les fichiers en tant que révisions sous un nom de Document statique unique, il est nécessaire de basculer l'Identifiant de document **Désactivé** pour les trois champs.
+- **Structure**<br>Si un trait de soulignement (`_`) est établi comme séparateur principal, le fichier peut être formaté comme `Daily_Report_09_07_2026.pdf`. <br>Cela utilise trois champs personnalisés entiers individuels : Jour, Mois et Année.
+- **Contraintes d'identificateur de document**<br>Si l'identificateur de document est basculé **Activé** pour ces trois blocs, la date est définitivement intégrée au nom du document. <br>Cela crée un conteneur de documents distinct pour chaque révision, et les valeurs de date restent permanentes car les noms de documents dans les dossiers de conventions de dénomination ne peuvent pas être modifiés. <br>Pour permettre aux champs de date de varier et d'empiler les fichiers en tant que révisions sous un nom de document statique unique, il est nécessaire de basculer l'identificateur de document **Désactivé** pour tous les trois champs.
 
 **4.3.2 Bloc de texte unique avec séparateurs internes**
 
-- **Structure**
-  Pour éviter d'utiliser plusieurs blocs de convention, un caractère alternatif (comme un tiret) peut être utilisé à l'intérieur d'un bloc de champ de texte unique, formaté comme `Daily_Report_09-07-2026.pdf`.
-- **Contraintes de validation**
-  Il n'est possible de valider que la chaîne de texte globale dans un bloc individuel. Par conséquent, assurer le placement correct des séparateurs internes secondaires repose entièrement sur la précision manuelle de l'utilisateur lors de la préparation du fichier.
+- **Structure**<br>Pour éviter d'utiliser plusieurs blocs de convention, un caractère alternatif (comme un tiret) peut être utilisé à l'intérieur d'un bloc de champ de texte unique, formaté comme `Daily_Report_09-07-2026.pdf`.
+- **Contraintes de validation**<br>Il est uniquement possible de valider la chaîne de texte globale dans un bloc individuel. Par conséquent, assurer que les séparateurs internes secondaires sont placés correctement dépend entièrement de la précision manuelle de l'utilisateur lors de la préparation du fichier.
 
 ### 4.4 Date pour le tri (ordre année-mois-jour)
 
@@ -135,9 +125,7 @@ Une chaîne de date telle que `260126` peut facilement être mal comprise, car i
 
 **4.4.3 Configuration**
 
-- **Champ source**
-  Un champ entier ou de texte personnalisé unique placé au tout début de la convention de nommage, formaté dans une séquence stricte `YYMMDD` ou `YYYYMMDD`.
-  Pour maintenir un alignement correct et un tri alphanumérique approprié, les zéros en tête doivent toujours être utilisés pour les mois ou jours à un seul chiffre (par exemple, `01` pour janvier).
+- **Champ source**<br>Un champ personnalisé Entier ou Texte unique placé au tout début de la convention de dénomination, formaté dans une séquence stricte `YYMMDD` ou `YYYYMMDD`. <br>Pour maintenir un alignement correct et un tri alphanumérique approprié, les zéros non significatifs doivent toujours être utilisés pour les mois ou jours à un seul chiffre (par exemple, `01` pour janvier).
 - **Identifiant de document :** Activé.
 
 **4.4.4 Résultat** Lorsqu'Oliver télécharge des fichiers comme `260115_Report.pdf` et `260201_Report.pdf`, des documents distincts sont créés car l'identifiant de document est actif. Parce que l'année et le mois viennent en premier et utilisent un remplissage cohérent à deux chiffres, le tableau des documents trie automatiquement les fichiers dans un ordre chronologique impeccable.

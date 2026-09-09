@@ -35,11 +35,11 @@ Med menyen Lagre som kan enhver forhåndsvisbar 2D-filtype lagres som en rekonst
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/05-save-as.png)
 
-_Filnavn_ Skriv inn navnet som den lagrede filen skal få.
+**Filnavn** Skriv inn navnet som den lagrede filen skal få.
 
-_Filtype_ Lagre enhver forhåndsvisbar 2D-filtype som enten PDF (\*.pdf) eller PNG (\*.png)
+**Filtype** Lagre enhver forhåndsvisbar 2D-filtype som enten PDF (\*.pdf) eller PNG (\*.png)
 
-_Sideomfang_ Velg hvilke sider som skal inkluderes. Alternativene omfatter:
+**Sideomfang** Velg hvilke sider som skal inkluderes. Alternativene omfatter:
 
 Alle – Standard Lagre alle sider
 
@@ -47,7 +47,7 @@ Spesifisér sider Lagre spesifikke sider etter sidenummer atskilt med komma elle
 
 Gjeldende side Lagre bare gjeldende side
 
-_Egenskaper_ Inkluder antegninger – Standard Inkluder en egen side i det nedlastede dokumentet med en oversikt over antegningene i dokumentet og deres innhold.
+**Egenskaper** Inkluder antegninger – Standard Inkluder en egen side i det nedlastede dokumentet med en oversikt over antegningene i dokumentet og deres innhold.
 
 Inkluder kommentarer Inkluder en egen side i det nedlastede dokumentet med en oversikt over kommentarene i dokumentet og deres innhold.
 
@@ -63,17 +63,17 @@ Slik kan innstillingsmenyen se ut
 
 ![Innstillinger Generelt Tastatursnarveier Avanserte innstillinger Språk Engelsk Tema Lys modus Mørk modus](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/07-settings.png)
 
-_Generelt_ Språk Språkinnstillingen følger språkinnstillingen i nettleseren din, ikke språkinnstillingen på Catenda.
+**Generelt** Språk Språkinnstillingen følger språkinnstillingen i nettleseren din, ikke språkinnstillingen på Catenda.
 
 Tema Lys modus – Standard Mørk modus
 
-_Tastatursnarveier_ I menyen Tastatursnarveier finner du en oversikt over de tilgjengelige tastatursnarveiene. Slik kan menyen Tastatursnarveier se ut:
+**Tastatursnarveier** I menyen Tastatursnarveier finner du en oversikt over de tilgjengelige tastatursnarveiene. Slik kan menyen Tastatursnarveier se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/08-settings.png)
 
 Klikk på handlingsknappen for hver snarvei for å binde snarveien til et annet tastetrykk. Finn de gjeldende snarveienes [her](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls).
 
-_Avanserte innstillinger_ I menyen Avanserte innstillinger kan du aktivere og deaktivere forskellige innstillinger. Slik kan menyen Avanserte innstillinger se ut:
+**Avanserte innstillinger** I menyen Avanserte innstillinger kan du aktivere og deaktivere forskellige innstillinger. Slik kan menyen Avanserte innstillinger se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/09-settings.png)
 
@@ -99,7 +99,7 @@ Klikk på zoomprosentdelen for å åpne menyen for zoomprosentdel. Menyen Zoompr
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/12-zoom-percentage.png)
 
-### 4.1 **Tilpass til bredden**
+### 4.1 **Tilpass til bredde**
 
 Tilpass dokumentet til å dekke hele bredden av dokumentforhåndsvisningen
 
@@ -143,13 +143,13 @@ Slik kan verktøyene i antegningsmenyen se ut:
 
 Antegningsmenyen åpner en verktøylinje med følgende verktøy: _Understrek – Snarvei:_ (U) _Uthevelse – Snarvei:_ (H) _Rektangel – Snarvei:_ (R) _Fri tekst – Snarvei:_ (T)
 
-_Fritthåndheving_ _Fritthånds – Snarvei:_ (F) _Krusedull – Snarvei:_ (G) _Gjennomstreking – Snarvei:_ (K)
+**Fritthåndheving** _Fritthånds – Snarvei:_ (F) _Krusedull – Snarvei:_ (G) _Gjennomstreking – Snarvei:_ (K)
 
-_Sett inn tekst_
+**Sett inn tekst**
 
-_Erstatt tekst_
+**Erstatt tekst**
 
-_Fargeforhåndsvisninger_ Hvis du er zoomet veldig langt inn eller er på en liten skjerm, kan det hende du ikke ser denne menyen. Velg en av fargeforhåndsvisningene for å åpne menyen Fargeforhåndsvisning. Menyen Fargeforhåndsvisning kan se annerledes ut avhengig av hvilket verktøy du har valgt. Slik kan menyen Fargeforhåndsvisning se ut for understreksverktøyet:
+**Fargeforhåndsvisninger** Hvis du er zoomet veldig langt inn eller er på en liten skjerm, kan det hende du ikke ser denne menyen. Velg en av fargeforhåndsvisningene for å åpne menyen Fargeforhåndsvisning. Menyen Fargeforhåndsvisning kan se annerledes ut avhengig av hvilket verktøy du har valgt. Slik kan menyen Fargeforhåndsvisning se ut for understreksverktøyet:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/16-annotate-menu.png)
 
@@ -167,17 +167,17 @@ Slik kan verktøyene i formmenyen se ut:
 
 _Rektangel – Snarvei:_ (R)
 
-_Fritthåndheving_ _Fritthånds – Snarvei:_ (F) _Linje – Snarvei:_ (L)
+**Fritthåndheving** _Fritthånds – Snarvei:_ (F) _Linje – Snarvei:_ (L)
 
-_Polyline_ _Pil – Snarvei:_ (A)
+**Polyline** _Pil – Snarvei:_ (A)
 
-_Arc_ _Ellipse – Snarvei:_ (O)
+**Arc** _Ellipse – Snarvei:_ (O)
 
-_Polygon_
+**Polygon**
 
-_Sky_
+**Sky**
 
-_Fargeforhåndsvisninger_ Hvis du er zoomet veldig langt inn eller er på en liten skjerm, kan det hende du ikke ser denne menyen. Velg en av fargeforhåndsvisningene for å åpne menyen Fargeforhåndsvisning. Menyen Fargeforhåndsvisning kan se annerledes ut avhengig av hvilket verktøy du har valgt. Slik kan menyen Fargeforhåndsvisning se ut for rektangelverktøyet:
+**Fargeforhåndsvisninger** Hvis du er zoomet veldig langt inn eller er på en liten skjerm, kan det hende du ikke ser denne menyen. Velg en av fargeforhåndsvisningene for å åpne menyen Fargeforhåndsvisning. Menyen Fargeforhåndsvisning kan se annerledes ut avhengig av hvilket verktøy du har valgt. Slik kan menyen Fargeforhåndsvisning se ut for rektangelverktøyet:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/19-shapes-menu.png)
 
@@ -187,7 +187,7 @@ Slik kan verktøyene i Sett inn-menyen se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/20-insert-menu.png)
 
-_Gummistempel_ Slik ser menyen Gummistempel-forhåndsvisning ut som standard:
+**Gummistempel** Slik ser menyen Gummistempel-forhåndsvisning ut som standard:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/21-insert-menu.png)
 
@@ -197,14 +197,10 @@ _Bilde – Snarvei:_ (I) Velg bildeoverføringen og klikk hvor som helst i dokum
 
 Eksempler på bilder som settes inn omfatter:
 
-- Generert informasjon med metadata.
-  I noen arbeidsflyter genereres bilder med informasjon om brukeren som så på dokumentet sammen med informasjon som dato og fagfelt.
-- Et personlig eller firmalogo.
-  I noen tilfeller settes logoet til et selskap inn som bilde for å indikere at dette selskapet har sett på dokumentet.
-- En personlig signatur
-  Noen ganger er dette en skanning av en håndskrevet signatur, andre ganger kan det være en digitalt generert signatur.
-- Et personlig stempel.
-  I noen kulturer foretrekkes stempler i stedet for signaturer
+- Generert informasjon med metadata.<br>I noen arbeidsflyter genereres bilder med informasjon om brukeren som så på dokumentet, sammen med annen informasjon som dato og deres studiefelt.
+- En personlig eller bedriftslogo.<br>I noen tilfeller settes en bedrifts logo inn som et bilde for å indikere at denne bedriften har sett på dokumentet.
+- En personlig signatur<br>Noen ganger er dette en skanning av en håndskrevet signatur, andre ganger kan det være en digitalt generert signatur.
+- Et personlig stempel.<br>I noen kulturer foretrekkes stempler fremfor signaturer
 
 Etter at du klikker på sett inn-plasseringen, åpnes systemfilutforskeren. Naviger til bildet som skal settes inn og velg det. Etter at du har valgt bildet, blir det plassert på den angitte plasseringen.
 
@@ -218,7 +214,7 @@ Slik kan verktøyene i målemenyen se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/22-measure-menu.png)
 
-_Skala-meny_ Når du åpner avstandsmenyen, ser du følgende skala-meny til høyre for dokumentforhåndsvisningen.
+**Skala-meny** Når du åpner avstandsmenyen, ser du følgende skala-meny til høyre for dokumentforhåndsvisningen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/23-measure-menu.png)
 
@@ -240,7 +236,7 @@ Presisjon Antallet tall etter desimalen du vil vise
 
 Brøkenheter. Veksle denne vekslingen for å vise målemengder i brøkenheter i stedet.
 
-_Avstand_ Etter å ha valgt avstandsverktøyet, klikker du og drar i dokumentet for å måle fra plasseringen der du klikket til plasseringen der du slipper museknappen.
+**Avstand** Etter å ha valgt avstandsverktøyet, klikker du og drar i dokumentet for å måle fra plasseringen der du klikket til plasseringen der du slipper museknappen.
 
 Klikk på stilmenyen for å åpne stilken for avstandsverktøyet. Slik kan stilmenyen for avstandsverktøyet se ut:
 
@@ -256,17 +252,17 @@ Stil Endre utseendet på pilene og linjestilen for målingslinjen.
 
 Aktiver knytting for måleverktøy. Merk av denne boksen for å aktivere eller deaktivere knytting for måleverktøy.
 
-_Arc-måling_
+**Arc-måling**
 
-_Omkrets_
+**Omkrets**
 
-_Område_
+**Område**
 
-_Ellipse-område_
+**Ellipse-område**
 
-_Rektangulært område_
+**Rektangulært område**
 
-_Tellemåling_
+**Tellemåling**
 
 ### 7.6 **Verktøy tilgjengelig i alle antegningsmenyer**
 

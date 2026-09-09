@@ -11,19 +11,20 @@ Dies sind Metadaten, die uns helfen, strukturierter auf der Plattform zu arbeite
 Um benutzerdefinierte Felder auf Dokumente anzuwenden, gehen Sie wie folgt vor:
 
 1. Erstellen Sie das gewünschte benutzerdefinierte Feld
-1. Weisen Sie das erstellte benutzerdefinierte Feld einem oder mehreren Ordnern zu
+
+2. Weisen Sie das erstellte benutzerdefinierte Feld einem oder mehreren Ordnern zu
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-ba695fa6aebd.png" width="496"/></div>
 
-1. Definieren Sie, ob das benutzerdefinierte Feld für ein Dokument (über Revisionen hinweg) oder für jede einzelne Revision zugewiesen werden soll
+3. Definieren Sie, ob das benutzerdefinierte Feld für ein Dokument (über Revisionen hinweg) oder für jede einzelne Revision zugewiesen werden soll
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-20eab3b097ce.png" width="500"/></div>
 
-1. Legen Sie Standardwerte fest, falls gewünscht
+4. Legen Sie Standardwerte fest, falls gewünscht
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-7241dd9f32dd.png" width="500"/></div>
 
-1. Im Dokumentbereich können Sie das zugewiesene benutzerdefinierte Feld auf dem Dokument unter den Ordnern in den Dokumentinformationen nun erkennen.
+5. Im Dokumentbereich können Sie das zugewiesene benutzerdefinierte Feld auf dem Dokument unter den Ordnern in den Dokumentinformationen nun erkennen.
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-f4243a01e272.png" width="500"/></div>
 

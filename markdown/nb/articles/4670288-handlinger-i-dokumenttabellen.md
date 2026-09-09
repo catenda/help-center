@@ -2,7 +2,7 @@
 
 Avhengig av din tilgang og valg kan du se ulike handlinger for dokumentene og mappene dine på [dokumentsiden](https://support.catenda.com/en/articles/8204673-documents-page).
 
-_Denne artikkelen inneholder informasjon om følgende saker:_
+**Denne artikkelen inneholder informasjon om følgende saker:**
 
 ## 1. **Nye vareopplastinger**
 
@@ -28,7 +28,7 @@ Når du oppretter en dokumentstruktur eller må lage mange mapper på en gang, k
 
 Handlingen Last opp zip lar deg pakke ut innholdet i en zip-fil i dokumentstrukturen. Det er også mulig å laste opp et zip-dokument med knappen Last opp-handling, men da får du det bare som en zippet fil og du ser ikke innholdet i zip-filen. Klikk [her](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure#h_54ace27f24) for å lese mer om hvordan du laster opp en zip til Catenda.
 
-_Nødvendig tilgang:_ Skrivetilgang til mappen du er i nå. Hvis du bruker alternativet Opprett nytt utkast: Skrivetilgang til mappene med samme navn og strukturplassering som mapper i zipen i forhold til hvor du laster opp zipen Skrivetilgang til dokumentene du kanskje legger til revisjoner for.
+**Nødvendig tilgang:** Skrivetilgang til mappen du er i nå. Hvis du bruker alternativet Opprett nytt utkast: Skrivetilgang til mappene med samme navn og strukturplassering som mapper i zipen i forhold til hvor du laster opp zipen Skrivetilgang til dokumentene du kanskje legger til revisjoner for.
 
 ### 1.4 **Mine zip-opplastinger**
 
@@ -48,7 +48,7 @@ Med Last ned-handlingen kan valgte elementer og deres innhold lastes ned ved å 
 
 Motta et enkelt dokument med en dokumentrad valgt. Motta en zip-fil som inneholder innholdet i valget når en mapperay eller flere rader er valgt. _Nødvendig tilgang:_ Full tilgang til dine valgte dokument(er) og/eller mappe(r)
 
-_Oppdage dokumenter_ Når du trykker på Last ned-knappen, åpnes en dialogboks nedover til venstre på siden. Først vil systemet begynne å oppdage de ulike filene for nedlasting. Slik kan dialogboksen for Klargjør nedlasting se ut:
+**Oppdage dokumenter** Når du trykker på Last ned-knappen, åpnes en dialogboks nedover til venstre på siden. Først vil systemet begynne å oppdage de ulike filene for nedlasting. Slik kan dialogboksen for Klargjør nedlasting se ut:
 
 ![Forbereder nedlasting av komprimerte filer](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/05-download.png)
 
@@ -114,9 +114,9 @@ Hvis du har valgt ett dokument, kan du laste opp en ny revisjon ved å klikke p�
 
 ### 2.9 **Opprett og fjern modell**
 
-_Opprett modell_ Et valgt dokument med utvidelsen `.ifc` eller `.ifczip` kan lenkes til en modell i modellseksjonen med Opprett modell-handlingen. Første gang en modell-lenke opprettes for et dokument, vil modellen som vises på modellsiden ha samme navn som dokumentet den ble opprettet fra. Både navnet på modellen på modellsiden og navnet på dokumentet kan senere endres. Et dokument som tidligere hadde en modell-lenke vil huske hvilket navn modellen hadde og bruke det tidligere navnet som den fjernede modellen hadde når en ny modell-lenke opprettes, selv om det gjeldende dokumentnavnet er annerledes. _Nødvendig tilgang:_ Skrivetilgang til [opprett og fjern modeller](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) i prosjektinnstillinger
+**Opprett modell** Et valgt dokument med utvidelsen `.ifc` eller `.ifczip` kan lenkes til en modell i modellseksjonen med Opprett modell-handlingen. Første gang en modell-lenke opprettes for et dokument, vil modellen som vises på modellsiden ha samme navn som dokumentet den ble opprettet fra. Både navnet på modellen på modellsiden og navnet på dokumentet kan senere endres. Et dokument som tidligere hadde en modell-lenke vil huske hvilket navn modellen hadde og bruke det tidligere navnet som den fjernede modellen hadde når en ny modell-lenke opprettes, selv om det gjeldende dokumentnavnet er annerledes. _Nødvendig tilgang:_ Skrivetilgang til [opprett og fjern modeller](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) i prosjektinnstillinger
 
-_Fjern modell_ Lenken til et dokument som er lenket til en modell kan fjernes med Fjern modell-handlingen.
+**Fjern modell** Lenken til et dokument som er lenket til en modell kan fjernes med Fjern modell-handlingen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/13-create-and-remove-model.png)
 
@@ -130,11 +130,11 @@ Med Kopier lenke-handlingen kan en lenke som viser bare de valgte tabellradene k
 
 Bruk Slett-handlingen på et valgt element for å slette det. Et vindu vises som ber om bekreftelse for å slette elementet(ene). _Nødvendig tilgang:_ Full tilgang til det/de valgte dokumentet(ene) Full tilgang til den/de valgte mappen(e) og deres innhold Slettede elementer kan gjenopprettes. Filtrer på slettet, velg elementet og bruk Gjenopprett-handlingen. _Nødvendig tilgang:_ Administrator
 
-_Sakrelasjon_ Et slettet dokument som ble lenket til en sak er synlig som et spørsmålstegn i relatert dokumenter-området av en sak. Et gjenopprettet dokument vil igjen bli vist i saken.
+**Sakrelasjon** Et slettet dokument som ble lenket til en sak er synlig som et spørsmålstegn i relatert dokumenter-området av en sak. Et gjenopprettet dokument vil igjen bli vist i saken.
 
 _Modell-lenke_ Et slettet dokument som ble lenket til en modell, fjernes fra lenken ved sletting. Et gjenopprettet dokument vil derfor ikke lenger være lenket til en modell. Bruk Opprett modeller-handlingen en gang til for å koble den til en modell igjen. De tidligere modellinnstillingene som modellnavn og behandling lagres slik at de ikke trenger å bli omkonfigurert.
 
-_Etasjeconfigurator_ Et slettet dokument som er konfigurert som et underlag for en etasje i etasjeconfigureren, forsvinner fra 2D-visningen for prosjektmedlemmer. Et gjenopprettet dokument som ble konfigurert som et underlag for en etasje i etasjeconfigureren vil igjen bli vist i 2D-visningen for denne etasjen.
+**Etasjeconfigurator** Et slettet dokument som er konfigurert som et underlag for en etasje i etasjeconfigureren, forsvinner fra 2D-visningen for prosjektmedlemmer. Et gjenopprettet dokument som ble konfigurert som et underlag for en etasje i etasjeconfigureren vil igjen bli vist i 2D-visningen for denne etasjen.
 
 _Objektrelasjoner_ Et slettet dokument som ble lenket til en gjenstand, fjernes fra lenken ved sletting. Et gjenopprettet dokument vil derfor ikke være lenket til noen gjenstander.
 
@@ -146,4 +146,4 @@ Hvis du har åpnet en mappe, men ikke valgt noe, vil [høyre informasjonsmeny](h
 
 Fordi du ikke har valgt noe, vil de valgte vareopplastingene ikke vises øverst i dokumenttabellen. I stedet vil du kunne utføre handlinger på mappen du er i med ikonene og hamburger-menyen i [høyre informasjonsmeny](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document).
 
-_Nødvendig tilgang:_ Last ned: Lesetilgang til gjeldende mappe Flytt: Full tilgang til gjeldende mappe og skrivetilgang til plasseringen du flytter mappen til. Slett: Full tilgang til gjeldende mappe og dens innhold.
+**Nødvendig tilgang:** Last ned: Lesetilgang til gjeldende mappe Flytt: Full tilgang til gjeldende mappe og skrivetilgang til plasseringen du flytter mappen til. Slett: Full tilgang til gjeldende mappe og dens innhold.

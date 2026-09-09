@@ -38,11 +38,11 @@ Når alle dokumenter er vurdert og valideringsangivelser er sendt inn på vegne 
 
 ### 3.1 Kolonner i tabellen under vurdering
 
-_Team_ Navn på vurderings-teams som er konfigurert for dette gjennomgangs-trinnet i gjennomgangs-arbeidsflyten valgt for denne gjennomgangsforespørselen av innsenderen av gjennomgangsforespørselen. _Kreves tilgang:_ Medlem av vurderings-team
+**Team** Navn på vurderings-teams som er konfigurert for dette gjennomgangs-trinnet i gjennomgangs-arbeidsflyten valgt for denne gjennomgangsforespørselen av innsenderen av gjennomgangsforespørselen. _Kreves tilgang:_ Medlem av vurderings-team
 
-_Ventende_ Antallet dokumenter som ennå ikke har mottatt en valideringsangivelse i dette gjennomgangsforespørsel-trinnet. _Kreves tilgang:_ Medlem av vurderings-team Vurdering Klikk på vurdering for å åpne filgjennomgangen for dokumenter som ennå ikke har mottatt en valideringsangivelse eller innsendelseKlikk på innsendingsknappen for å sende inn alle valideringsangivelsene på vegne av vurderings-teamet på en gang. En gang valideringsangivelsen er sendt inn, vil dokumentet ikke lenger være under vurdering og vil forsvinne fra tabellen under vurdering.
+**Ventende** Antallet dokumenter som ennå ikke har mottatt en valideringsangivelse i dette gjennomgangsforespørsel-trinnet. _Kreves tilgang:_ Medlem av vurderings-team Vurdering Klikk på vurdering for å åpne filgjennomgangen for dokumenter som ennå ikke har mottatt en valideringsangivelse eller innsendelseKlikk på innsendingsknappen for å sende inn alle valideringsangivelsene på vegne av vurderings-teamet på en gang. En gang valideringsangivelsen er sendt inn, vil dokumentet ikke lenger være under vurdering og vil forsvinne fra tabellen under vurdering.
 
-_Vurdert_ I vurdert-kolonnen vises beløp for avviste og godkjente valideringsangivelser. Ethvert medlem av et vurderings-team kan ha gitt denne angivelsen på vegne av vurderings-teamet. _Kreves tilgang:_ Medlem av vurderings-team Send inn Valideringsangivelser som medlemmer av vurderings-team har gitt på vegne av et vurderings-team kan sendes inn med innsendingsknappen. Klikk på innsendingsknappen for å sende inn alle valideringsangivelsene på vegne av vurderings-teamet på en gang. En gang valideringsangivelsen er sendt inn, vil dokumentet ikke lenger være under vurdering og vil forsvinne fra tabellen under vurdering.
+**Vurdert** I vurdert-kolonnen vises beløp for avviste og godkjente valideringsangivelser. Ethvert medlem av et vurderings-team kan ha gitt denne angivelsen på vegne av vurderings-teamet. _Kreves tilgang:_ Medlem av vurderings-team Send inn Valideringsangivelser som medlemmer av vurderings-team har gitt på vegne av et vurderings-team kan sendes inn med innsendingsknappen. Klikk på innsendingsknappen for å sende inn alle valideringsangivelsene på vegne av vurderings-teamet på en gang. En gang valideringsangivelsen er sendt inn, vil dokumentet ikke lenger være under vurdering og vil forsvinne fra tabellen under vurdering.
 
 ## 4. Trinn-oversikt-tabell
 
@@ -54,15 +54,15 @@ Når valideringsangivelser er sendt inn for alle dokumenter, går gjennomgangsfo
 
 ### 4.1 Kolonner i trinn-oversikt-tabellen
 
-**_Team_ —** Navn på vurderings-teams som er konfigurert for dette gjennomgangs-trinnet i arbeidsflyten valgt for denne gjennomgangsforespørselen.
+**_Teams_:** Navn på vurderingsteams som er konfigurert for dette gjennomgangstrinnet i arbeidsflyten som er valgt for denne gjennomgangsforespørselen.
 
-**_Ventende_ —** Antallet dokumenter der et medlem av vurderings-teamet ennå ikke har sendt inn en valideringsangivelse på vegne av vurderings-teamet i dette gjennomgangsforespørsel-trinnet.
+**_Ventende_:** Antall dokumenter der et medlem av vurderingsteamet ennå ikke har sendt inn en valideringsindikasjon på vegne av vurderingsteamet i dette gjennomgangsforespørselstrinnet.
 
 **_Under vurdering –_** _Antallet dokumenter som er godkjent eller avvist, men ikke ennå sendt inn. Når ikke sendt inn, men tilgjengelig for innsendelseknappen, er knappen "Send inn" mørkegrønn._
 
-**_Sendt inn_ —** Antallet godkjente angivelser som er sendt inn av et medlem av vurderings-teamet på vegne av et vurderings-team i dette gjennomgangsforespørsel-trinnet.
+**_Sendt inn_:** Antall godkjente indikasjoner som er sendt inn av et medlem av vurderingsteamet på vegne av et vurderingsteam i dette gjennomgangsforespørselstrinnet.
 
-**_Team Progress_ —** Fremdriften for valideringsangivelser som er sendt inn av et medlem av vurderings-teamet på vegne av et vurderings-team i dette gjennomgangsforespørsel-trinnet.
+**_Teamfremgang_:** Fremgangen for valideringsindikasjoner som er sendt inn av et medlem av vurderingsteamet på vegne av et vurderingsteam i dette gjennomgangsforespørselstrinnet.
 
 ## 5. Gjennomgangsforespørsel-resultat
 
@@ -84,17 +84,17 @@ Klikk på Se detaljer for å se publiseringsresultatene for hvert dokument.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/10-view-details.png)
 
-_Status_
+**Status**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/11-view-details.png)
 
 Statusen for publisering av dokumentet. Statusen kan være en av følgende:
 
-_Publisert_ For dokumenter som fikk endelig godkjenning, vises revisjons-nummeret for den delte revisjonen med en pil til den publiserte revisjonen som ble opprettet som resultat av publisering av denne delte revisjonen.
+**Publisert** For dokumenter som fikk endelig godkjenning, vises revisjons-nummeret for den delte revisjonen med en pil til den publiserte revisjonen som ble opprettet som resultat av publisering av denne delte revisjonen.
 
-_Publisering mislyktes_ For dokumenter som fikk endelig godkjenning, men som ikke kunne publiseres, vises grunnen til at de ikke kunne publiseres.
+**Publisering mislyktes** For dokumenter som fikk endelig godkjenning, men som ikke kunne publiseres, vises grunnen til at de ikke kunne publiseres.
 
-_Angi status_ For dokumenter som fikk endelig avvisning, vises statusen som revisjonen ble oppdatert med som resultat.
+**Angi status** For dokumenter som fikk endelig avvisning, vises statusen som revisjonen ble oppdatert med som resultat.
 
 **_Navn_** Følgende vises i navn-kolonnen:
 

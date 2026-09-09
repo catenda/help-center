@@ -4,7 +4,7 @@
 
 > **Tips:** Finn [steg 5](https://support.catenda.com/en/articles/10576182-step-5-topics) i [kom i gang](https://support.catenda.com/en/collections/2657208-getting-started) på hjelpesentralen eller i hjelpemenyen.
 
-## 1. **([nedlastingslenker](https://support.catenda.com/en/articles/8396532-catenda-connections))
+## 1. \*\*([nedlastingslenker](https://support.catenda.com/en/articles/8396532-catenda-connections))
 
 ## 2. **Desktop Connector**
 

@@ -52,16 +52,15 @@ Dankzij uw waardevol commentaar hebben we veel Topics kunnen oplossen die je mis
 - Kleuren die op mesh-objecten zijn toegepast, worden nu correct weergegeven. Modellen moeten opnieuw worden geïmporteerd om het verschil te zien.
 - Een volledig herontwerp van ons modelbehersysteem - we laden nu modelinformatie alleen wanneer deze nodig is, in plaats van alles van tevoren te laden. Dit zorgt ervoor dat de pagina snel laadt en onze servers beter al uw verzoeken kunnen verwerken wanneer veel mensen tegelijkertijd Catenda gebruiken.
 - Het is opnieuw mogelijk om eigenschappen in eerdere versies van modellen in het inspectievenster te zien
-- U ziet modellen waarvan u geen toegang hebt niet langer in de versieselector.
-  Op deze manier kunnen modellen die worden gebruikt voor aanbestedingen anoniem worden gehouden door middel van toegangsbeheer.
+- U ziet modellen waartoe u geen toegang hebt niet langer in de revisieskiezer.<br>Op deze manier kunnen modellen die voor aanbestedingen worden gebruikt, anoniem blijven door gebruik van toegangsbeheer.
 - Het is opnieuw mogelijk (en een beter ervaring dan eerder) om tussen punten in puntenwolken te meten.
 
 ### 2.3 **Onderwerpen**
 
 - Het alles Topics board toont niet langer de filters van het vorige board waar u op was en toont opnieuw correct de filters van het alles Topics board.
 - Verbeteringen voor Topic-export:
-    - Topic-exports die lang duren, worden nu verondersteld te worden onderbroken.
-    - Tot 10000 afbeeldingen kunnen nu in een PDF-export worden opgenomen.
+  - Topic-exports die lang duren, worden nu verondersteld te worden onderbroken.
+  - Tot 10000 afbeeldingen kunnen nu in een PDF-export worden opgenomen.
 
 ### 2.4 **Projectinstellingen**
 

@@ -1,4 +1,4 @@
-# Hvilken revisjon av en modell vil åpnes når jeg klikker på et bokmerke?
+# Hvilken modellrevision åpner et bokmerke?
 
 Bokmerket vil alltid åpne den nyeste revisjonen av en modell.
 

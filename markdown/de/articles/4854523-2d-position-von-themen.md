@@ -64,12 +64,12 @@ Die Sichtbarkeit von Markierungen kann an den folgenden Standorten konfiguriert 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/09-marker-configuration.png)
 
-1. Markierungen in der 2D-Ansicht mit den [2D-Viewer-Einstellungen](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098) anzeigen/verbergen.
-   Hinweis: Markierungen sind möglicherweise nicht sichtbar, wenn die Markierungsebene deaktiviert ist.
+1. Markierungen in der 2D-Ansicht mit den [2D-Viewer-Einstellungen](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098) anzeigen/ausblenden. <br>Hinweis: Markierungen sind möglicherweise nicht sichtbar, wenn die Markierungsebene deaktiviert ist.
 
-    In diesem Menü kann auch der Markierungsfarbmodus konfiguriert werden. ([Status, Thementyp, Fälligkeitsdatum](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
+   In diesem Menü kann auch der Markierungsfarbmodus konfiguriert werden.
+   ([Status, Thementyp, Fälligkeitsdatum](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
 
-1. Im Schichtmenü kann die Markierungsschicht aktiviert/deaktiviert werden.
+2. Im Schichtmenü kann die Markierungsschicht aktiviert/deaktiviert werden.
 
 ## 2. **Themen mit neuen Markierungen**
 

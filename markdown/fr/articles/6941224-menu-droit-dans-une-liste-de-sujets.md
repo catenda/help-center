@@ -40,7 +40,7 @@ Voici à quoi peut ressembler le menu droit lorsqu'aucun sujet n'est sélectionn
 
 Indique « Aucun sujet n'est sélectionné lorsqu'il est développé. » lorsqu'aucun sujet n'est sélectionné. Dans ce menu, un sujet sélectionné peut être visualisé et mis à jour. Avec plusieurs sujets sélectionnés, les sujets peuvent être mis à jour par lot ici.
 
-### 2.2 **2.2 Contrôle d'accès pour la liste de sujets**
+### 2.2 **1.2 Contrôle d'accès pour la liste de sujets**
 
 Lorsqu'aucun sujet n'est sélectionné, le menu de contrôle d'accès pour la liste de sujets n'est affiché que lors de la navigation vers une seule liste de sujets. Dans la liste de tous les sujets, sélectionnez un sujet pour voir le contrôle d'accès de la liste dans laquelle se trouve ce sujet. Cliquez [ici](https://support.catenda.com/en/articles/4670296-topic-board-access-control) pour en savoir plus sur le contrôle d'accès de la liste de sujets.
 

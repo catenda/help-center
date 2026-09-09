@@ -1,4 +1,4 @@
-# Digitale Designkoordination und Problemlösung für ein Krankenhausprojekt
+# Design-Koordination und Problemlösung - Krankenhaus
 
 > Branche: Krankenhausbau / BIM (Building Information Modeling) Persona: David, ein BIM-Koordinator für einen großen Generalunternehmer.
 
@@ -24,7 +24,7 @@ Bei der Navigation durch das 3D-Modell entdeckt David sofort das Problem. Die St
 
 - Er isoliert nur die kollidierenden Elemente: die Stahlstützen, die spezifische Wand, den Schalter und den Kabelkanal.
 - Er verwendet einen Schnittschnitt, um eine klare, ungehinderte Ansicht des Kollisionspunkts zu schaffen.
-- Er speichert diesen genauen Zustand – einschließlich des Kamerawinkels, der Objektsichtbarkeit und des Schnittschnitts – als Lesezeichen mit dem Titel "**Kollision: MRT-Stütze vs. Elektroraum 204**".
+- Er speichert diesen genauen Zustand, einschließlich des Kamerawinkels, der Objektsichtbarkeit und des Schnitts, als Lesezeichen mit dem Titel "**Clash: MRI Support vs. Elec Room 204**".
 
 ### **3. Erstellung und Zuweisung eines umsetzbaren Problems:**
 

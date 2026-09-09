@@ -12,7 +12,7 @@ Cliquez sur le bouton de filtrage en haut à gauche pour qu'un panneau apparaiss
 
 ### 1.1 **Enregistrer et partager le filtre actuel**
 
-Accédez à l'URL d'une page filtrée pour charger cette page avec le filtre appliqué. Les filtres appliqués peuvent être enregistrés en haut du menu de filtrage. Cliquez [ici](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) pour en savoir plus sur la façon d'enregistrer et de partager les filtres. Notez que contrairement aux autres menus de filtrage, il n'est pas possible d'enregistrer les filtres personnels en haut du menu de filtrage sur la page des approbations.
+Accédez à l'URL d'une page filtrée pour charger cette page avec le filtre appliqué. Les filtres appliqués peuvent être enregistrés vers le haut du menu de filtres. Cliquez [ici](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) pour en savoir plus sur la façon d'enregistrer et de partager les filtres. Notez que contrairement aux autres menus de filtres, il n'est pas possible d'enregistrer les filtres personnels vers le haut du menu de filtres sur la page des approbations.
 
 ### 1.2 **Masquer les filtres vides**
 

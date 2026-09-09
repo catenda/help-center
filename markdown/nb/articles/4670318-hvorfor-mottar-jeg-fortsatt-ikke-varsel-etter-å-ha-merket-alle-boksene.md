@@ -1,4 +1,4 @@
-# Hvorfor mottar jeg fortsatt ikke varsel etter å ha merket alle boksene?
+# Hvorfor mottar jeg ikke varsel?
 
 I varselsettingene må du merke alle boksene, i tillegg må du slå på varsel med knappen i øvre høyre hjørne av varselsettingene.
 

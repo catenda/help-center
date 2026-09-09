@@ -65,28 +65,32 @@ Kann für Themen verwendet werden, die aus dem allgemeinen Themenbereich erstell
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/05-create-a-new-general-topic-template.png)
 
 1. **Themen-Board**: Das Themen-Board, innerhalb dessen die allgemeine Themenvorlage generiert werden kann.
-1. **Vorlagenname**: Der Vorlagenname kann während der Erstellung aus dem Dropdown-Menü ausgewählt oder später in den Einstellungen aktualisiert werden, wenn erforderlich.
-1. **Thementitel**: Der resultierende Thementitel nach dem Erstellen des Themas aus der allgemeinen Themenvorlage.
-   Bewegen Sie die Maus über das "?"-Symbol oben rechts im Titelfeld, um zu sehen, wie Sie Ihren Themenvorlagentitel mit der verfügbaren Variablen anpassen können: `topicCreator`.
+
+2. **Vorlagenname**: Der Vorlagenname kann während der Erstellung aus dem Dropdown-Menü ausgewählt oder später in den Einstellungen aktualisiert werden, wenn erforderlich.
+
+3. **Thema-Titel**: Der resultierende Thema-Titel nach dem Erstellen des Themas aus der allgemeinen Thema-Vorlage.<br>Bewegen Sie die Maus über das Symbol "?" oben rechts im Titelfeld, um zu sehen, wie Sie Ihren Thema-Vorlagentitel mit der verfügbaren Variable anpassen können: `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="184" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-272165f584d2.png" style="height: auto;" width="300"/></div>
 
-1. **Themenstatus**: Der resultierende Themenstatus nach dem Erstellen des Themas aus der allgemeinen Themenvorlage.
-1. **Thementyp**: Der resultierende Thementyp nach dem Erstellen des Themas aus der allgemeinen Themenvorlage.
-1. **Meilenstein**: Der resultierende Themenmeilenstein nach dem Erstellen des Themas aus der allgemeinen Themenvorlage.
-1. **Zugewiesen zu**: Der resultierende Themenverantwortliche (Projektmitglied oder Team) nach dem Erstellen des Themas aus der allgemeinen Themenvorlage. Sie können hier die Variable `Topic Creator` verwenden, um dieses Feld automatisch mit dem Themenerstellungsperson zu füllen, falls erforderlich.
+4. **Themenstatus**: Der resultierende Themenstatus nach dem Erstellen des Themas aus der allgemeinen Themenvorlage.
+
+5. **Thementyp**: Der resultierende Thementyp nach dem Erstellen des Themas aus der allgemeinen Themenvorlage.
+
+6. **Meilenstein**: Der resultierende Themenmeilenstein nach dem Erstellen des Themas aus der allgemeinen Themenvorlage.
+
+7. **Zugewiesen**: Der resultierende Thema-Verantwortliche (Projektmitglied oder Team) nach dem Erstellen des Themas aus der allgemeinen Thema-Vorlage. Sie können hier die Variable `Thema-Ersteller` verwenden, um dieses Feld automatisch mit dem Thema-Ersteller auszufüllen, falls erforderlich.<br>
 
     <div class="intercom-container intercom-align-center"><img height="94" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-c7f3d7220c54.png" style="height: auto;" width="150"/></div>
 
-1. **Angefordert von**: Der resultierende Themenanforderer nach dem Erstellen des Themas aus der allgemeinen Themenvorlage. Sie können hier die Variable `Topic Creator` verwenden, um dieses Feld automatisch mit dem Themenerstellungsperson zu füllen, falls erforderlich.
+8. **Angefordert von**: Der resultierende Thema-Anforderer nach dem Erstellen des Themas aus der allgemeinen Thema-Vorlage. Sie können hier die Variable `Thema-Ersteller` verwenden, um dieses Feld automatisch mit dem Thema-Ersteller auszufüllen, falls erforderlich.<br>
 
     <div class="intercom-container intercom-align-center"><img height="93" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-43e4955bfdd8.png" style="height: auto;" width="150"/></div>
 
-1. **Etiketten**: Die resultierenden Themenetiketten nach dem Erstellen des Themas aus der allgemeinen Themenvorlage.
-1. **Beschreibung**: Die resultierende Themenbeschreibung nach dem Erstellen des Themas aus der allgemeinen Themenvorlage. Dieser Bereich unterstützt das Markdown-Format und Sie können sein volles Potenzial nutzen, um den Text zu formatieren, benutzerdefinierte Header und Checklisten zu erstellen.
-    Bewegen Sie die Maus über das "?"-Symbol oben rechts im Beschreibungsfeld, um zu sehen, wie Sie alle verfügbaren Funktionen nutzen können (Teammates erwähnen und vorhandene Themen verlinken) und Variablen (wie `topicCreator` im Fall der allgemeinen Themenvorlage).
+9. **Etiketten**: Die resultierenden Themenetiketten nach dem Erstellen des Themas aus der allgemeinen Themenvorlage.
 
-    <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+10. **Beschreibung**: Die resultierende Themabeschreibung nach dem Erstellen des Themas aus der allgemeinen Themenvorlage. Dieser Abschnitt unterstützt das Markdown-Format und Sie können sein volles Potenzial nutzen, um den Text zu formatieren, benutzerdefinierte Header und Checklisten zu erstellen. <br>Bewegen Sie die Maus über das Symbol "?" in der oberen rechten Ecke des Beschreibungsfelds, um zu sehen, wie Sie alle verfügbaren Funktionen (Kollegen erwähnen und vorhandene Themen verlinken) und Variablen (wie `topicCreator` im Fall der allgemeinen Themenvorlage) nutzen können.
+
+     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
 
 Wenn Sie Ihre neue allgemeine Themenvorlage fertig eingerichtet haben, können Sie auf die Schaltfläche "Speichern" unten rechts klicken.
 
@@ -97,31 +101,34 @@ Kann für Themen verwendet werden, die aus Markups in Dokumenten erstellt wurden
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/06-new-document-topic-template.png)
 
 1. **Themen-Board**: Das Themen-Board, innerhalb dessen die Dokument-Themenvorlage generiert werden kann.
-1. **Vorlagenname**: Der Vorlagenname kann während der Markup-Erstellung aus dem Dropdown-Menü ausgewählt oder später in den Einstellungen aktualisiert werden, wenn erforderlich.
-1. **Thementitel**: Der resultierende Thementitel nach dem Erstellen des Themas aus der Dokument-Themenvorlage.
-   Bewegen Sie die Maus über das "?"-Symbol auf der rechten Seite des Titelfelds, um zu sehen, wie Sie Ihren Dokument-Themenvorlagentitel mit den verfügbaren Variablen anpassen können: `documentName`, `fileName`, `markupName` und `topicCreator`.
+
+2. **Vorlagenname**: Der Vorlagenname kann während der Markup-Erstellung aus dem Dropdown-Menü ausgewählt oder später in den Einstellungen aktualisiert werden, wenn erforderlich.
+
+3. **Thema-Titel**: Der resultierende Thema-Titel nach dem Erstellen des Themas aus der Dokument-Thema-Vorlage.<br>Bewegen Sie die Maus über das Symbol "?" auf der rechten Seite des Titelfelds, um zu sehen, wie Sie Ihren Dokument-Thema-Vorlagentitel mit den verfügbaren Variablen anpassen können: `documentName`, `fileName`, `markupName` und `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="231" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-dbe5030f1082.png" style="height: auto;" width="300"/></div>
 
-1. **Themenstatus**: Der resultierende Themenstatus nach dem Erstellen des Themas aus der Dokument-Themenvorlage.
-1. **Thementyp**: Der resultierende Thementyp nach dem Erstellen des Themas aus der Dokument-Themenvorlage.
-1. **Meilenstein**: Der resultierende Themenmeilenstein nach dem Erstellen des Themas aus der Dokument-Themenvorlage.
-1. **Zugewiesen zu**: Der resultierende Themenverantwortliche (Projektmitglied oder Team) nach dem Erstellen des Themas aus der Dokument-Themenvorlage. Hier können verschiedene Variablen verwendet werden, wie `Document owner`, `File uploader`, `Markup creator`, `Publisher` und `Topic creator`.
+4. **Themenstatus**: Der resultierende Themenstatus nach dem Erstellen des Themas aus der Dokument-Themenvorlage.
+
+5. **Thementyp**: Der resultierende Thementyp nach dem Erstellen des Themas aus der Dokument-Themenvorlage.
+
+6. **Meilenstein**: Der resultierende Themenmeilenstein nach dem Erstellen des Themas aus der Dokument-Themenvorlage.
+
+7. **Zugewiesen zu**: Der resultierende Themenverantwortliche (Projektmitglied oder Team) nach dem Erstellen des Themas aus der Dokument-Themenvorlage. Hier können verschiedene Variablen verwendet werden, wie `Document owner`, `File uploader`, `Markup creator`, `Publisher` und `Topic creator`.
 
     <div class="intercom-container intercom-align-center"><img height="228" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b3156a6c2724.png" style="height: auto;" width="150"/></div>
 
-1. **Angefordert von**: Der resultierende Themenanforderer nach dem Erstellen des Themas aus der Dokument-Themenvorlage. Hier können verschiedene Variablen verwendet werden, wie `Document owner`, `File uploader`, `Markup creator`, `Publisher` und `Topic creator`.
+8. **Angefordert von**: Der resultierende Thema-Anforderer nach dem Erstellen des Themas aus der Dokument-Thema-Vorlage. Verschiedene Variablen können hier verwendet werden, wie z. B. `Document owner`, `File uploader`, `Markup creator`, `Publisher` und `Topic creator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="171" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-0c4680dfae06.png" style="height: auto;" width="150"/></div>
 
-1. **Etiketten**: Die resultierenden Themenetiketten nach dem Erstellen des Themas aus der Dokument-Themenvorlage. Beachten Sie, dass Sie die Etiketten aus dem Dokument, aus dem Sie das Markup erstellt haben, mit der Variablen `Labels from documents` abrufen können:
+9. **Etiketten**: Die resultierenden Thema-Etiketten nach dem Erstellen des Themas aus der Dokument-Thema-Vorlage. Beachten Sie, dass Sie die Etiketten aus dem Dokument abrufen können, aus dem Sie die Markierung erstellt haben, indem Sie die Variable `Labels from documents` unten verwenden:<br>
 
     <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
 
-1. **Beschreibung**: Die resultierende Themenbeschreibung nach dem Erstellen des Themas aus der Dokument-Themenvorlage. Dieser Bereich unterstützt das Markdown-Format und Sie können sein volles Potenzial nutzen, um den Text zu formatieren, benutzerdefinierte Header und Checklisten zu erstellen.
-    Bewegen Sie die Maus über das "?"-Symbol oben rechts im Beschreibungsfeld, um zu sehen, wie Sie alle verfügbaren Funktionen nutzen können (Teammates erwähnen und vorhandene Themen verlinken) und Variablen (wie `documentName`, `fileName`, `markupName` und `topicCreator` im Fall der Dokument-Themenvorlage).
+10. **Beschreibung**: Die resultierende Themabeschreibung nach dem Erstellen des Themas aus der Dokumentthemenvorlage. Dieser Abschnitt unterstützt das Markdown-Format und Sie können sein volles Potenzial nutzen, um den Text zu formatieren, benutzerdefinierte Header und Checklisten zu erstellen. <br>Bewegen Sie die Maus über das Symbol "?" oben rechts im Beschreibungsfeld, um zu sehen, wie Sie alle verfügbaren Funktionen (Kollegen erwähnen und vorhandene Themen verlinken) und Variablen (wie `documentName`, `fileName`, `markupName` und `topicCreator` im Fall der Dokumentthemenvorlage) nutzen können.
 
-    <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
 
 Wenn Sie Ihre neue Dokument-Themenvorlage fertig eingerichtet haben, können Sie auf die Schaltfläche "Speichern" unten rechts klicken.
 
@@ -136,30 +143,33 @@ Hier sind die verschiedenen Maßnahmen, die Sie ergreifen müssen, und die Varia
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/07-new-approval-topic-template.png)
 
 1. **Themen-Board**: Das Themen-Board, innerhalb dessen die Genehmigungsthemenvorlage nach dem Schließen eines Genehmigungsworkflows generiert wird.
-1. **Vorlagenname**: Der Vorlagenname einer Genehmigungsthemenvorlage kann aus dem Dropdown-Menü in einer Genehmigungsworkflow-Vorlage ausgewählt oder später in den Einstellungen aktualisiert werden, wenn erforderlich.
-1. **Thementitel**: Der resultierende Thementitel nach dem Schließen des zugehörigen Genehmigungsworkflows.
-   Bewegen Sie die Maus über das "?"-Symbol auf der rechten Seite des Titelfelds, um zu sehen, wie Sie Ihren Genehmigungsthemenvorlagentitel mit den verfügbaren Variablen anpassen können: `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` und `topicCreator`.
+
+2. **Vorlagenname**: Der Vorlagenname einer Genehmigungsthemenvorlage kann aus dem Dropdown-Menü in einer Genehmigungsworkflow-Vorlage ausgewählt oder später in den Einstellungen aktualisiert werden, wenn erforderlich.
+
+3. **Thema-Titel**: Der resultierende Thema-Titel nach dem Schließen des zugehörigen Genehmigungsworkflows.<br>Bewegen Sie die Maus über das Symbol "?" auf der rechten Seite des Titelfelds, um zu sehen, wie Sie Ihren Genehmigungsthema-Vorlagentitel mit den verfügbaren Variablen anpassen können: `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` und `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="272" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-6038b1d41fed.png" style="height: auto;" width="300"/></div>
 
-1. **Themenstatus**: Der resultierende Themenstatus nach dem Schließen des zugehörigen Genehmigungsworkflows.
-1. **Thementyp**: Der resultierende Thementyp nach dem Schließen des zugehörigen Genehmigungsworkflows.
-1. **Meilenstein**: Der resultierende Themenmeilenstein nach dem Schließen des zugehörigen Genehmigungsworkflows.
-1. **Zugewiesen zu**: Der resultierende Themenverantwortliche (Projektmitglied oder Team), der den zugehörigen Genehmigungsworkflow schließt. Hier können verschiedene Variablen verwendet werden, wie `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.
+4. **Themenstatus**: Der resultierende Themenstatus nach dem Schließen des zugehörigen Genehmigungsworkflows.
+
+5. **Thementyp**: Der resultierende Thementyp nach dem Schließen des zugehörigen Genehmigungsworkflows.
+
+6. **Meilenstein**: Der resultierende Themenmeilenstein nach dem Schließen des zugehörigen Genehmigungsworkflows.
+
+7. **Zugewiesen zu**: Der resultierende Themenverantwortliche (Projektmitglied oder Team), der den zugehörigen Genehmigungsworkflow schließt. Hier können verschiedene Variablen verwendet werden, wie `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.
 
     <div class="intercom-container intercom-align-center"><img height="182" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b012d92ee132.png" style="height: auto;" width="150"/></div>
 
-1. **Angefordert von**: Der resultierende Themenanforderer nach dem Schließen des zugehörigen Genehmigungsworkflows. Hier können verschiedene Variablen verwendet werden, wie `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.
+8. **Angefordert von**: Der resultierende Thema-Anforderer nach dem Schließen des zugehörigen Genehmigungsworkflows. Verschiedene Variablen können hier verwendet werden, wie z. B. `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="181" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d7986adac70c.png" style="height: auto;" width="150"/></div>
 
-1. **Etiketten**: Die resultierenden Themenetiketten nach dem Schließen des zugehörigen Genehmigungsworkflows. Beachten Sie, dass Sie die Etiketten aus dem Dokument, aus dem Sie das Markup erstellt haben, mit der Variablen `Labels from documents` abrufen können:
+9. **Etiketten**: Die resultierenden Thema-Etiketten nach dem Schließen des zugehörigen Genehmigungsworkflows. Beachten Sie, dass Sie die Etiketten aus dem Dokument abrufen können, aus dem Sie die Markierung erstellt haben, indem Sie die Variable `Labels from documents` unten verwenden:<br>
 
     <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
 
-1. **Beschreibung**: Die resultierende Themenbeschreibung nach dem Schließen des zugehörigen Genehmigungsworkflows. Dieser Bereich unterstützt das Markdown-Format und Sie können sein volles Potenzial nutzen, um den Text zu formatieren, benutzerdefinierte Header und Checklisten zu erstellen.
-    Bewegen Sie die Maus über das "?"-Symbol oben rechts im Beschreibungsfeld, um zu sehen, wie Sie alle verfügbaren Funktionen nutzen können (Teammates erwähnen und vorhandene Themen verlinken) und Variablen (wie `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) im Fall der Genehmigungsthemenvorlage).
+10. **Beschreibung**: Die resultierende Thema-Beschreibung nach dem Schließen des zugehörigen Genehmigungsworkflows. Dieser Abschnitt unterstützt das Markdown-Format und Sie können sein volles Potenzial nutzen, um den Text zu formatieren, benutzerdefinierte Kopfzeilen und Checklisten zu erstellen. <br>Bewegen Sie die Maus über das Symbol "?" in der oberen rechten Ecke des Beschreibungsfelds, um zu sehen, wie Sie alle verfügbaren Funktionen (Erwähnung von Teamkollegen und Verlinkung vorhandener Themen) und Variablen nutzen können (wie z. B. `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) im Fall der Genehmigungsthema-Vorlage).<br>
 
-    <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 
 Wenn Sie Ihre neue Genehmigungsthemenvorlage fertig eingerichtet haben, können Sie auf die Schaltfläche "Speichern" unten rechts klicken.

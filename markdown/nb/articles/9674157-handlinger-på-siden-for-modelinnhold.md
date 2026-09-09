@@ -48,7 +48,7 @@ Hvis delte revisjoner er aktivert i [statusarbeidsflytmenyen](https://support.ca
 
 Delte revisjoner vil ha et mindre revisjonsnummer. (0.1, 0.2, 1.1, osv...) Handlingen for publisering kan være tilgjengelig for delte revisjoner i modellen. Bare delte revisjoner etter den siste publiserte revisjonen kan publiseres. Publiserte revisjoner vil ha et større revisjonsnummer. (1.0, 2.0, 3.0 osv...) _Tilgang påkrevd:_ Kan publisere i innstillinger for dokumentmodelltilgang
 
-_Publisering av tidligere revisjoner_ Med handlingen for publisering kan delte revisjoner etter den siste publiserte revisjonen i modellen publiseres. På siden for modelinnhold kan tidligere delte revisjoner publiseres så lenge de ble opprettet etter den siste publiserte revisjonen. Her kan bare én revisjon publiseres om gangen ved å klikke knappen, mens de siste delte revisjonene fra flere modeller kan publiseres på en gang ved å velge dem i modelltabellen på modellerssiden og bruke publiseringshandlingen der.
+**Publisering av tidligere revisjoner** Med handlingen for publisering kan delte revisjoner etter den siste publiserte revisjonen i modellen publiseres. På siden for modelinnhold kan tidligere delte revisjoner publiseres så lenge de ble opprettet etter den siste publiserte revisjonen. Her kan bare én revisjon publiseres om gangen ved å klikke knappen, mens de siste delte revisjonene fra flere modeller kan publiseres på en gang ved å velge dem i modelltabellen på modellerssiden og bruke publiseringshandlingen der.
 
 Etter publisering legges en ny publisert revisjon med et hovedversjonsnummer (1.0, 2.0, 3.0 osv...) til. Denne publiserte revisjonen vil være synlig både i arbeidsområdet og på fanene for publiserte revisjoner.
 

@@ -22,7 +22,7 @@ _Tilbake til gjennomganger-knapp_ - Gå tilbake til [gjennomgangssiden](https://
 
 > **Merknad:** Du kan bare navigere til like mange gjennomganger som du lastet inn på gjennomgangssiden. Du kan laste inn 100 gjennomganger om gangen ved å rulle ned gjennomgangslisten. Med mindre du ruller hele veien ned på gjennomgangssiden eller det er færre enn 100 saker i styret. Dette totale antallet er derfor ikke nødvendigvis representativt for det totale antallet gjennomganger på gjennomgangssiden.
 
-_Forrige og neste knapp_ Gå til forrige eller neste gjennomgang i den filtrerte listen over gjennomganger
+**Forrige og neste knapp** Gå til forrige eller neste gjennomgang i den filtrerte listen over gjennomganger
 
 ## 3. **Meny til høyre for gjennomgang**
 
@@ -86,11 +86,11 @@ Slik kan handlingene i tabellen for utkast til gjennomgang se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/x7qy4k63/07-actions-in-the-draft-for-approval-table.png)
 
-_Legg til utkast_ Administratorer og oppretter av gjennomgangen vil kunne legge til utkast til denne gjennomgangen. Du kan bare legge til ett utkast til én gjennomgang om gangen.
+**Legg til utkast** Administratorer og oppretter av gjennomgangen vil kunne legge til utkast til denne gjennomgangen. Du kan bare legge til ett utkast til én gjennomgang om gangen.
 
 > **Merknad:** Hvis et dokument har blitt funnet å være infisert med virus, vil du ikke kunne legge det til i gjennomgangen
 
-_Vurdering_ Denne knappen tar deg til vurderingen av gjennomgangsfilen der du kan inspisere hvert utkast og ta en beslutning om du vil kommentere, viderefølge, viderefølge med kommentar, til oppfølging eller ikke gjøre noe med utkastet.
+**Vurdering** Denne knappen tar deg til vurderingen av gjennomgangsfilen der du kan inspisere hvert utkast og ta en beslutning om du vil kommentere, viderefølge, viderefølge med kommentar, til oppfølging eller ikke gjøre noe med utkastet.
 
 _Videorefør alle_ - Klikk på rullegardinmenyen ved siden av vurdering for å videorefølge alle utkast med ett enkelt klikk.
 
@@ -104,15 +104,15 @@ _Lastet opp av_ - Brukeren som lastet opp utkastet
 
 _Status_ - Utkastets status
 
-_Status for filvurdering_ Statussen for filvurdering kan enten være Venter på godkjenning, Videorefølgt med kommentar, Videorefølgt eller Til oppfølging
+**Status for filvurdering** Statussen for filvurdering kan enten være Venter på godkjenning, Videorefølgt med kommentar, Videorefølgt eller Til oppfølging
 
 Kommentar Hvis det er en kommentar i gjennomgangen, vil du se en forhåndsvisning av den siste kommentaren ved siden av status for filvurdering. Kommentarer til gjennomgang følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
 
-_Handlingsmeny_ Legg til vurdering Hvis ingen vurderere er satt, kan hvem som helst legge til en vurdering. Hvis det finnes vurderere i gjennomgangsoverskriften, kan bare vurderere legge til en vurdering. Ved å legge til en vurdering kan du enten kommentere, viderefølge, viderefølge med kommentar eller til oppfølging hver utkast.
+**Handlingsmeny** Legg til vurdering Hvis ingen vurderere er satt, kan hvem som helst legge til en vurdering. Hvis det finnes vurderere i gjennomgangsoverskriften, kan bare vurderere legge til en vurdering. Ved å legge til en vurdering kan du enten kommentere, viderefølge, viderefølge med kommentar eller til oppfølging hver utkast.
 
 Fjern fra gjennomgangsforespørsel - Her kan gjennomgangsopprettere eller administratorer fjerne et utkast fra gjennomgangen.
 
-_Sak_ Nummeret på saken som ble generert som resultat av valideringen av denne revisjonen. Klikk på saknummeret for å åpne saken som ble generert.
+**Sak** Nummeret på saken som ble generert som resultat av valideringen av denne revisjonen. Klikk på saknummeret for å åpne saken som ble generert.
 
 ### 5.4 **Tabell over revisjoner til gjennomgang - Ny statusarbeidsflyt**
 
@@ -130,7 +130,7 @@ Viser hvor mange utkast som har blitt videorefølgt. Slik kan fremgangslinjen se
 
 Handlingene nederst er synlige så lenge det fortsatt finnes upubliserte revisjoner i gjennomgangsforespørselen.
 
-_Forkast_ Utgiver kan forkaste gjennomgangen
+**Forkast** Utgiver kan forkaste gjennomgangen
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/x7qy4k63/10-bottom-actions.png)
 
@@ -138,11 +138,11 @@ Publiser Hvis nok vurderere har validert hver av revisjonene som videorefølgt, 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/x7qy4k63/11-bottom-actions.png)
 
-_Lukk som publisert_ Hvis alle revisjonene i gjennomgangsforespørselen har blitt publisert utenfor gjeldende gjennomgangsforespørsel, kan gjennomgangsforespørselen lukkes som publisert.
+**Lukk som publisert** Hvis alle revisjonene i gjennomgangsforespørselen har blitt publisert utenfor gjeldende gjennomgangsforespørsel, kan gjennomgangsforespørselen lukkes som publisert.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/x7qy4k63/12-bottom-actions.png)
 
-_Tving publisering_ Inntil nok vurderere har validert hver av revisjonene som videorefølgt, kan utgiver tvinge gjennomgangen publisert.
+**Tving publisering** Inntil nok vurderere har validert hver av revisjonene som videorefølgt, kan utgiver tvinge gjennomgangen publisert.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/x7qy4k63/13-bottom-actions.png)
 
@@ -152,9 +152,9 @@ Hvis ingen utgiver er satt for gjennomgangen, kan hvem som helst tvinge gjennomg
 
 Når du tvinger publisering, publiseres videorefølgte og videorefølgte med kommentar-revisjoner alltid. Utgiver kan også velge å publisere både revisjoner i vente og til oppfølging-revisjoner basert på valideringene gitt av vurdererne.
 
-_Opprett saker som resultat av publisering_ Hvis sakmaler er konfigurert i gjennomgangsinnstillinger, kan en sak genereres for hver av revisjonene som er validert. Avhengig av hvilke sakmaler som er konfigurert i gjennomgangsinnstillinger, kan hver av disse fire alternativene generere saker på en annen måte. For eksempel kan saker som genereres for videorefølgte revisjoner, videorefølgte med kommentarer-revisjoner, revisjoner i vente eller til oppfølging-revisjoner gå til sine egne brett eller de kunne alle gå til samme brett men ha en annen status eller type.
+**Opprett saker som resultat av publisering** Hvis sakmaler er konfigurert i gjennomgangsinnstillinger, kan en sak genereres for hver av revisjonene som er validert. Avhengig av hvilke sakmaler som er konfigurert i gjennomgangsinnstillinger, kan hver av disse fire alternativene generere saker på en annen måte. For eksempel kan saker som genereres for videorefølgte revisjoner, videorefølgte med kommentarer-revisjoner, revisjoner i vente eller til oppfølging-revisjoner gå til sine egne brett eller de kunne alle gå til samme brett men ha en annen status eller type.
 
-_Publiseringsbegrensninger_ Enhver mengde utkastrevisjoner kan publiseres, noe som resulterer i enhver mengde saker som opprettes som resultat av publisering av gjennomgangsforespørselen. Som eksempel ble 1001 saker opprettet og 1001 utkastrevisjoner ble publisert som resultat av tvungenpublisering av denne gjennomgangsforespørselen.
+**Publiseringsbegrensninger** Enhver mengde utkastrevisjoner kan publiseres, noe som resulterer i enhver mengde saker som opprettes som resultat av publisering av gjennomgangsforespørselen. Som eksempel ble 1001 saker opprettet og 1001 utkastrevisjoner ble publisert som resultat av tvungenpublisering av denne gjennomgangsforespørselen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/x7qy4k63/15-bottom-actions.png)
 
@@ -180,7 +180,7 @@ I tabellen over publiserte revisjoner vises revisjoner som har blitt publisert u
 
 Når revisjoner publiseres utenfor gjeldende gjennomgangsforespørsel, kan gjennomgangsforespørselen lukkes som publisert.
 
-_Handlingsmeny_ Fjern fra gjennomgangsforespørsel - Her kan gjennomgangsopprettere eller administratorer fjerne en revisjon fra gjennomgangsforespørselen så lenge ikke alle revisjonene i gjennomgangsforespørselen har blitt publisert ennå.
+**Handlingsmeny** Fjern fra gjennomgangsforespørsel - Her kan gjennomgangsopprettere eller administratorer fjerne en revisjon fra gjennomgangsforespørselen så lenge ikke alle revisjonene i gjennomgangsforespørselen har blitt publisert ennå.
 
 ### 5.9 **Tabell over utdaterte filer**
 
@@ -190,4 +190,4 @@ Når en nyere revisjon publiseres i dokumentet enn den tilførte revisjonen, bli
 
 Utdaterte revisjoner kan enten fjernes fra gjennomgangsforespørselen eller gjennomgangsforespørselen kan forkastes.
 
-_Handlingsmeny_ Fjern fra gjennomgangsforespørsel - Her kan gjennomgangsopprettere eller administratorer fjerne en revisjon fra gjennomgangsforespørselen så lenge ikke alle revisjonene i gjennomgangsforespørselen har blitt publisert ennå.
+**Handlingsmeny** Fjern fra gjennomgangsforespørsel - Her kan gjennomgangsopprettere eller administratorer fjerne en revisjon fra gjennomgangsforespørselen så lenge ikke alle revisjonene i gjennomgangsforespørselen har blitt publisert ennå.

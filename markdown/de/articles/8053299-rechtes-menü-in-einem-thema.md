@@ -47,15 +47,14 @@ Wenn der Browser vollständig vergrößert wird, können die meisten Information
 Bei Ordnern werden der Name des Ordners zusammen mit allen dem Ordner zugewiesenen Labels angezeigt. Bei Dokumenten wird Folgendes angezeigt:
 
 - Dokumentpfad in der Dokumentbibliothek.
-- Dokumentname
-  Zeigen Sie auf den Namen, um eine Vorschau des gesamten Dokuments/Pfadnamens zu sehen.
+- Dokumentname<br>Bewegen Sie den Mauszeiger über jeden Namen, um eine Vorschau des gesamten Dokuments / des Pfadnamens anzuzeigen.
 - Revisionsnummer
 - Revisionsstatus der neuesten Revision im Dokument
 - Auf das Dokument angewendete Labels
 - Größe der neuesten Revision
 - Ersteller der neuesten Revision
 - Anzahl der 3D-Objekte, die mit dem zugehörigen Dokument verknüpft sind
-    - Klicken Sie auf die Objektanzahl, um das Menü der 3D-Objektaktionen zu öffnen.
+  - Klicken Sie auf die Objektanzahl, um das Menü der 3D-Objektaktionen zu öffnen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/07-related-folders-and-documents.png)
 

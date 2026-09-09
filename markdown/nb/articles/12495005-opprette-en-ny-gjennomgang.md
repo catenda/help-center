@@ -16,7 +16,7 @@ Slik kan toppteksten for en ny gjennomgang se ut for prosjekter som aktiverte de
 
 Medlemmer som er del av innsenderteam som er konfigurert i en projektarbeidsflyt, kan velge mellom en av arbeidsflytene som teamene er konfigurert for. Arbeidsflyten som ble valgt tidligere, blir husket. Så lenge arbeidsflyten som ble valgt tidligere fortsatt er tilgjengelig, vil den bli valgt igjen neste gang en gjennomgang opprettes.
 
-_Automatisk valg_ Hvis bare ett av teamene som et medlem er del av, er konfigurert for en arbeidsflyt, vil arbeidsflyten bli valgt automatisk. Slik kan det se ut når arbeidsflyten velges automatisk.
+**Automatisk valg** Hvis bare ett av teamene som et medlem er del av, er konfigurert for en arbeidsflyt, vil arbeidsflyten bli valgt automatisk. Slik kan det se ut når arbeidsflyten velges automatisk.
 
 ![Arbeidsflyt Innsender Tittel](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
@@ -28,7 +28,7 @@ Etter at en arbeidsflyt er valgt, kan medlemmer som er del av flere innsendertea
 
 Når gjennomgangsforespørselen opprettes, vil medlemmer som er del av det valgte innsenderteamet se forespørselen, mens medlemmer som er del av de andre mulige innsenderteamene bare vil se forespørselen hvis de er del av ett av vurderingsteamene eller del av det endelige gjennomgangsteamet som er konfigurert for arbeidsflyten.
 
-_Automatisk valg_ Hvis et medlem bare er del av ett av innsenderteamene som er konfigurert for arbeidsflyten, velges innsenderteamet automatisk når arbeidsflyten velges.
+**Automatisk valg** Hvis et medlem bare er del av ett av innsenderteamene som er konfigurert for arbeidsflyten, velges innsenderteamet automatisk når arbeidsflyten velges.
 
 ![Arbeidsflyt Innsender Tittel](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/04-submitter-selection.png)
 
@@ -36,7 +36,7 @@ _Tilgang påkrevd:_ Medlemmer og administratorer må være del av et innsenderte
 
 ### 1.3 **Tittel**
 
-Tittelen på gjennomgangsforespørselen. En gjennomgang må ha en tittel for å kunne sendes.
+Tittelen på gjennomgangen. En gjennomgang må ha en tittel for å kunne sendes inn.
 
 ## 2. **Gjennomgangsforespørsel-brødtekst**
 
@@ -60,13 +60,15 @@ Slik kan tabellen for dokumenter for vurdering se ut etter at delte revisjoner i
 
 ![Dokumenter vurderingstabell Navn revisjon # Revisjonsnummer Status Fjern Avbryt Lagre som utkast Send til vurdering](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/07-documents-for-review-table.png)
 
-_Kolonner_ Basert på den konfigurerte kolonneordenen vises de første kolonnene, mens tabellen kanskje må rulles sidelengs for å vise andre aktiverte kolonner. Standardordenen og synlighetsinnstillingen for kolonnene på dokumentsiden er som følger:
+**Kolonner** Basert på den konfigurerte kolonneordenen vises de første kolonnene, mens tabellen kanskje må rulles sidelengs for å vise andre aktiverte kolonner. Standardordenen og synlighetsinnstillingen for kolonnene på dokumentsiden er som følger:
 
 _Navn_ - _Standard_ Navnet på dokumentet som den delte revisjonen er i. Dokumentnavnet er det samme for alle revisjoner i dokumentet.
 
 Revisjon - _Standard_ Navnet på dokumentrevisjonen. Dette er det samme som det opprinnelige filnavnet på filen som ble lastet opp.
 
 ## 3. - _Standard_
+
+Hoved- og underrevisjonsnummeret for den delte revisjonen (#0.1, #0.2, #1.1, osv...)
 
 Status - _Standard_ Navnet på den delte statusen som brukes på den delte revisjonen.
 
@@ -96,9 +98,9 @@ Klikk på Send til vurdering for å sende gjennomgangen og starte gjennomgangspr
 - Et innsenderteam som skal sende på vegne av, må velges
 - En tittel
 - Dokumenter
-    - Minst 1 dokument med en valgt delt revisjon må legges til for å kunne sende gjennomgangen.
-    - Maksimalt 1000 dokumentrevisjoner med en valgt delt revisjon kan legges til.
-    - For å opprette en gjennomgangsforespørsel med mer enn 1000 dokumentrevisjoner, oppretter du først et utkast med opptil 1000 revisjoner, og deretter legger du til opptil 1000 dokumentrevisjoner om gangen til utkastet før du sender utkastet til vurdering.
+  - Minst 1 dokument med en valgt delt revisjon må legges til for å kunne sende gjennomgangen.
+  - Maksimalt 1000 dokumentrevisjoner med en valgt delt revisjon kan legges til.
+  - For å opprette en gjennomgangsforespørsel med mer enn 1000 dokumentrevisjoner, oppretter du først et utkast med opptil 1000 revisjoner, og deretter legger du til opptil 1000 dokumentrevisjoner om gangen til utkastet før du sender utkastet til vurdering.
 
 Etter sending av en gjennomgangsforespørsel til vurdering med den nye valideringsarbeidsflyten er det eneste som kan endres at delte revisjonsdokumenter kan kastes fra forespørselen.
 

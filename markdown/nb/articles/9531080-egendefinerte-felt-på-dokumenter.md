@@ -11,19 +11,20 @@ Dette er metadata som hjelper oss å arbeide på en mer strukturert måte på pl
 For å bruke egendefinerte felt på dokumenter, gjør du følgende:
 
 1. Opprett det ønskede egendefinerte feltet
-1. Tilordne det opprettede egendefinerte feltet til en eller flere mapper
+
+2. Tilordne det opprettede egendefinerte feltet til en eller flere mapper
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-ba695fa6aebd.png" width="496"/></div>
 
-1. Definer om det egendefinerte feltet skal tilordnes til et dokument (på tvers av revisjoner) eller til hver enkelt revisjon
+3. Definer om det egendefinerte feltet skal tilordnes til et dokument (på tvers av revisjoner) eller til hver enkelt revisjon
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-20eab3b097ce.png" width="500"/></div>
 
-1. Angi standardverdier, hvis ønskelig
+4. Angi standardverdier, hvis ønskelig
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-7241dd9f32dd.png" width="500"/></div>
 
-1. I dokumentområdet kan du nå gjenkjenne det tilordnede egendefinerte feltet på dokumentet under mappene i dokumentinformasjonen.
+5. I dokumentområdet kan du nå gjenkjenne det tilordnede egendefinerte feltet på dokumentet under mappene i dokumentinformasjonen.
 
     <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/grv9pef1/inline-f4243a01e272.png" width="500"/></div>
 

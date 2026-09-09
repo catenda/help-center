@@ -9,18 +9,14 @@ Het onderstaande diagram illustreert hoe aantekeningen onder verschillende marke
 Houd rekening met het volgende:
 
 1. Een **Markering** kan **één of meerdere sets Aantekeningen bevatten.**
-1. Een **Topic** kan **één of meerdere Markeringen** opgeslagen als **Opmerkingen bevatten.**
-1. Binnen een **Topic** is een **Markering** een **set aantekeningen** die altijd **bij dezelfde revisie hoort.**
-1. **Meerdere Markeringen** op één document kunnen worden opgeslagen als **meerdere topics** OF onder één **enkel bestaand Topic.**
-1. Als één **Markering** **meerdere sets aantekeningen over meerdere pagina's verspreid** bevat, is er **één opmerking per set aantekeningen op elke pagina**.
-
-De volgende topics zijn in dit artikel beschreven:
+2. Een **Topic** kan **één of meerdere Markeringen** opgeslagen als **Opmerkingen bevatten.**
+3. Binnen een **Topic** is een **Markering** een **set aantekeningen** die altijd **bij dezelfde revisie hoort.**
+4. **Meerdere Markeringen** op één document kunnen worden opgeslagen als **meerdere topics** OF onder één **enkel bestaand Topic.**
+5. Als één **Markering** **meerdere sets aantekeningen over meerdere pagina's verspreid** bevat, is er **één opmerking per set aantekeningen op elke pagina**.
 
 ## 1. **Twee workflows**
 
 Wanneer u iets in een document wilt aanwijzen, zijn er verschillende manieren om dit met uw collega's te communiceren.
-
-De volgende topics zijn in dit gedeelte beschreven:
 
 ### 1.1 **Eén topic per markering**
 
@@ -61,8 +57,6 @@ Laten we zeggen dat deze markering naar de Architect was gericht, maar u wilt oo
 ## 4. **Markeringen opslaan**
 
 Nadat u klaar bent met het bewerken van uw markeringen, kunt u [deze opslaan](https://support.catenda.com/en/articles/10209740-saving-a-markup#h_8542b82cf8). Bij het opslaan wordt voor elke set aantekeningen op de pagina van een revisie een opmerking gemaakt
-
-De volgende topics zijn in dit gedeelte beschreven:
 
 ### 4.1 **Elke markering in een eigen topic opslaan**
 

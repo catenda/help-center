@@ -76,7 +76,7 @@ Grâce à vos précieux commentaires, nous avons pu résoudre de nombreux probl�
 
 - Il est à nouveau possible de rétracter les menus de filtre.
 - Il est maintenant beaucoup plus rapide pour les projets avec de nombreux modèles de charger la page du tableau de bord.
-    - Le chargement des informations du modèle dans le panneau de contenu est maintenant environ 100 fois plus rapide.
+  - Le chargement des informations du modèle dans le panneau de contenu est maintenant environ 100 fois plus rapide.
 - Il est à nouveau possible de sélectionner les révisions précédentes lors de la comparaison de modèles.
 - Il est à nouveau possible de charger des modèles dans la vue 3D des signets.
 - Il est à nouveau possible de masquer les grilles en 3D.
@@ -84,9 +84,9 @@ Grâce à vos précieux commentaires, nous avons pu résoudre de nombreux probl�
 - Les objets sélectionnés dans l'arborescence sont à nouveau correctement mis en surbrillance.
 - Il est à nouveau possible d'isoler les objets des bibliothèques de propriétés et des objets liés.
 - Couleur/matériau de l'objet
-    - Certaines couleurs qui s'affichaient précédemment s'affichent maintenant à nouveau correctement.
-    - Les objets n'apparaissent plus en noir au lieu de leur couleur appropriée.
-    - Les fenêtres sont à nouveau transparentes.
+  - Certaines couleurs qui s'affichaient précédemment s'affichent maintenant à nouveau correctement.
+  - Les objets n'apparaissent plus en noir au lieu de leur couleur appropriée.
+  - Les fenêtres sont à nouveau transparentes.
 - Les vues 2D ont été traitées à nouveau pour quelques modèles, elles ne manquent donc plus.
 - Il est à nouveau possible de voir les propriétés des objets dans le panneau d'information de droite.
 
@@ -103,8 +103,7 @@ Grâce à vos précieux commentaires, nous avons pu résoudre de nombreux probl�
 - Lors de l'ajout de documents à une collection, il est maintenant possible de cocher une case en haut pour sélectionner tous les documents d'un dossier et les ajouter à une collection.
 - En bonus, il est maintenant également possible de sélectionner la révision d'un document que vous souhaitez ajouter à une collection afin que celle-ci apparaisse lorsque vous verrouillez la collection pour que les révisions des documents ne suivent pas la dernière révision.
 - Les utilisateurs ayant un accès complet à un document pourront maintenant [retirer une révision](https://support.catenda.com/en/articles/9711174-withdraw-revision) d'un document et donc aussi d'un modèle s'il s'agit d'un document IFC.
-- Il est maintenant possible d'ajouter un logo personnalisé aux rapports de sujets qui sont exportés en PDF.
-  Les paramètres du logo se trouvent sur la page des projets.
+- Il est maintenant possible d'ajouter un logo personnalisé aux rapports de sujets exportés en PDF.<br>Les paramètres du logo se trouvent sur la page des projets.
 - Vous pouvez maintenant diviser votre projet en une zone publiée et une zone partagée afin que vous puissiez donner à différentes personnes l'accès à une partie publique et à une partie partagée où les documents sont toujours en cours de préparation pour la publication. (Veuillez demander à avoir ceci activé sur votre projet) Seuls les documents publiés seront visibles dans Catenda Site
 
 ### 3.2 **Modèles**

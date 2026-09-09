@@ -64,8 +64,8 @@ Les modifications de l'**API Modèles** sont minimales :
 **Actions Requises pour les Développeurs d'Extensions :**
 
 1. Évaluez si vous affichez les informations de révision
-1. Envisagez d'ajouter des conseils aux utilisateurs sur les types de révisions
-1. Préparez-vous à une possible confusion de l'utilisateur concernant les écarts de numérotation
+2. Envisagez d'ajouter des conseils aux utilisateurs sur les types de révisions
+3. Préparez-vous à une possible confusion de l'utilisateur concernant les écarts de numérotation
 
 ### 3.3 Également Affecté
 

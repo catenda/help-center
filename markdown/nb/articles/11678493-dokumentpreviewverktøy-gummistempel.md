@@ -20,49 +20,49 @@ Stempeltypene i forhåndsinnstillingsmenyen kan inkludere følgende informasjon:
 
 ### 2.1 Dynamiske felt
 
-_Brukernavn_ Brukernavnet for kontoen du er logget inn med. For brukernavn uten et mellomrom på halv bredde, vil et begrenset antall brukernavn-stempeltyper være tilgjengelig som vist ovenfor. For brukernavn med et mellomrom på halv bredde, vil flere brukernavn-stempeltyper være tilgjengelig. Alle brukernavn-stempler kan se slik ut:
+**Brukernavn** Brukernavnet for kontoen du er logget inn med. For brukernavn uten et mellomrom på halv bredde, vil et begrenset antall brukernavn-stempeltyper være tilgjengelig som vist ovenfor. For brukernavn med et mellomrom på halv bredde, vil flere brukernavn-stempeltyper være tilgjengelig. Alle brukernavn-stempler kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bp0tzcba/04-dynamic-fields.png)
 
-_Dato og klokkeslett_ Dato og klokkeslett for når du sist lastet inn dokumentforhåndsvisningen. Dato og klokkeslett for standardfeltene skrives alltid som YYYY/MM/DD Hvis du ønsker et stempel med et annet format, kan du angi dette i menyen for opprettelse av nytt stempel.
+**Dato og klokkeslett** Dato og klokkeslett for når du sist lastet inn dokumentforhåndsvisningen. Dato og klokkeslett for standardfeltene skrives alltid som YYYY/MM/DD Hvis du ønsker et stempel med et annet format, kan du angi dette i menyen for opprettelse av nytt stempel.
 
 ### 2.2 Stempelinnhold
 
-I forhåndsinnstillingsmenyen kan følgende stempler ses: **Fornavn** - Alt før første mellomrom i kontonavn
+I forhåndsinnstilt meny kan du se følgende stempler: **Fornavn** - Alt før det første mellomrommet i kontonavn
 
 **Mellomnavn Etternavn** - Alt etter første mellomrom i kontonavn
 
 **Fornavn Mellomnavn Etternavn** - Fullstendig kontonavn
 
-**Fornavn** - Alt før første mellomrom i kontonavn Dato
+**Fornavn** - Alt før det første mellomrommet i kontonavn Dato
 
 **Mellomnavn Etternavn** - Alt etter første mellomrom i kontonavn Dato
 
 **Fornavn Mellomnavn Etternavn** - Fullstendig kontonavn Dato
 
-**Fornavn** - Alt før første mellomrom i kontonavn Dato og klokkeslett
+**Fornavn** - Alt før det første mellomrommet i kontonavn Dato og klokkeslett
 
 **Mellomnavn Etternavn** - Alt etter første mellomrom i kontonavn Dato og klokkeslett
 
 **Fornavn Mellomnavn Etternavn** - Fullstendig kontonavn Dato og klokkeslett
 
-_VIDEREFØLRT_ Fullstendig kontonavn og dato
+**VIDEREFØLRT** Fullstendig kontonavn og dato
 
-_VIDEREFØLRT MED KOMMENTAR_ Fullstendig kontonavn og dato
+**VIDEREFØLRT MED KOMMENTAR** Fullstendig kontonavn og dato
 
-_TIL OPPFØLGING_ Fullstendig kontonavn og dato
+**TIL OPPFØLGING** Fullstendig kontonavn og dato
 
-_GJENNOMGÅTT_ Fullstendig kontonavn og dato
+**GJENNOMGÅTT** Fullstendig kontonavn og dato
 
-_UGYLDIG_ Fullstendig kontonavn og dato
+**UGYLDIG** Fullstendig kontonavn og dato
 
-_UTKAST_ Fullstendig kontonavn og dato
+**UTKAST** Fullstendig kontonavn og dato
 
-_KLAR FOR KONSTRUKSJON_ Fullstendig kontonavn og dato
+**KLAR FOR KONSTRUKSJON** Fullstendig kontonavn og dato
 
-_IKKE FOR KONSTRUKSJON_ Fullstendig kontonavn og dato
+**IKKE FOR KONSTRUKSJON** Fullstendig kontonavn og dato
 
-_ANBUDSDOKUMENT_ Fullstendig kontonavn og dato
+**ANBUDSDOKUMENT** Fullstendig kontonavn og dato
 
 ## 3. Opprett nytt stempel
 

@@ -30,14 +30,10 @@ Lorsqu'un nouveau flux d'approbation est créé pour la première fois, tous les
 
 Si un champ obligatoire est incomplet lors de la tentative d'enregistrement d'un nouveau flux de travail, le système affiche un banneau d'avertissement avant soumission en haut de la page et bloque la création du modèle. Les champs obligatoires comprennent :
 
-- **2.1.1 Titre du flux de travail**
-  Un nom unique et descriptif pour le flux de travail.
-- **2.1.2 Équipes de soumetteurs**
-  Au moins une équipe de projet assignée pour lancer les demandes d'approbation.
-- **2.1.3 Étapes d'examen**
-  Au moins une étape d'examen contenant une équipe d'examinateurs assignée et une durée d'au moins **1 jour ouvrable**.
-- **2.1.4 Approbation finale**
-  Une équipe d'examen final assignée aux côtés de deux statuts de documents de projet actifs — un mappé pour les révisions approuvées et un pour les révisions rejetées.
+- **2.1.1 Titre du flux de travail**<br>Un nom unique et descriptif pour le flux de travail.
+- **2.1.2 Équipes de soumission**<br>Au moins une équipe de projet assignée pour lancer les demandes d'approbation.
+- **2.1.3 Étapes d'examen**<br>Au moins une étape d'examen contenant une équipe d'examinateur assignée et une durée d'au moins **1 jour ouvrable**.
+- **2.1.4 Approbation finale**<br>Une équipe d'examen final assignée aux côtés de deux statuts de document de projet actifs : l'un mappé pour les révisions approuvées et l'autre pour les révisions rejetées.
 
 ### 2.2 **2.2 Limites du système et règles d'adhésion aux équipes**
 
@@ -55,12 +51,9 @@ Si un champ obligatoire est incomplet lors de la tentative d'enregistrement d'un
 
 **2.2.4 Droits d'administrateur** Les administrateurs du projet ne disposent pas de droits opérationnels automatiques. Pour effectuer des actions lors d'une approbation, un administrateur doit être un membre explicite de l'équipe concernée :
 
-- **Équipe de soumetteurs**
-  Obligatoire pour lancer une demande d'approbation.
-- **Équipe d'examinateurs**
-  Obligatoire pour indiquer ou soumettre une validation d'examen.
-- **Équipe d'examinateurs finaux**
-  Obligatoire pour rendre la décision finale et clôturer l'approbation.
+- **Équipe de soumission**<br>Requise pour lancer une demande d'approbation.
+- **Équipe d'examinateur**<br>Requise pour indiquer ou soumettre une validation d'examen.
+- **Équipe d'examinateur final**<br>Requise pour rendre la décision finale et fermer l'approbation.
 
 ## 3. **3.** **Opérations flexibles (avant et après soumission)**
 
@@ -114,9 +107,9 @@ Lorsque les paramètres du projet ou les adhésions aux équipes changent pendan
 
 Les membres du projet peuvent être ajoutés ou supprimés des équipes de flux de travail sur la page **Équipes du projet** à tout moment sans modifier le modèle de flux de travail lui-même.
 
-**5.1.1 Membres d'équipe de soumetteurs** L'ajout d'un utilisateur à une équipe de soumetteurs lui permet de créer de nouvelles demandes à l'avenir. Cependant, l'adhésion à une équipe de soumetteurs n'accorde jamais une visibilité partagée dans les demandes créées par des collègues — l'accès à une demande soumise reste strictement personnel au créateur individuel.
+**5.1.1 Membres de l'équipe de soumission** L'ajout d'un utilisateur à une équipe de soumission lui permet de créer de nouvelles demandes à l'avenir. Cependant, l'appartenance à une équipe de soumission n'accorde jamais une visibilité partagée sur les demandes créées par les coéquipiers. L'accès à une demande soumise reste strictement personnel au créateur individuel.
 
-**5.1.2 Membres d'équipe d'examinateurs** L'ajout d'un utilisateur à une équipe d'examinateurs lui accorde immédiatement l'accès aux demandes d'approbation actives actuellement à cette étape d'examen. La suppression de tous les membres d'une équipe d'examinateurs figera les demandes en cours à cette étape jusqu'à l'ajout d'un nouveau membre — à moins que l'**approbation automatique** soit activée pour cette étape, auquel cas la demande approuvera automatiquement et progressera lorsque la date limite de l'étape passera.
+**5.1.2 Membres de l'équipe d'examen** L'ajout d'un utilisateur à une équipe d'examen lui accorde immédiatement l'accès aux demandes d'approbation actives actuellement à cette étape d'examen. La suppression de tous les membres d'une équipe d'examen gèlera les demandes en cours à cette étape jusqu'à ce qu'un nouveau membre soit ajouté, sauf si **l'approbation automatique** est activée pour cette étape, auquel cas la demande approuvera automatiquement et progressera quand la date limite de l'étape arrivera.
 
 **5.1.3 Membres d'équipe d'examinateurs finaux** L'ajout d'un utilisateur à une équipe d'examinateurs finaux lui accorde immédiatement l'accès pour rendre les décisions finales sur les demandes actives atteignant l'étape d'approbation finale. La suppression de tous les membres d'une équipe d'examinateurs finaux gèle les demandes en cours à l'étape finale jusqu'à l'ajout d'un utilisateur (l'approbation automatique n'est pas disponible pour les étapes d'examen final).
 
@@ -128,12 +121,9 @@ Les équipes de projet supprimées ne peuvent pas être récupérées. Si une é
 
 **5.2.2 Équipes d'examinateurs supprimées** Les étapes d'examen sont verrouillées après soumission.
 
-- **Si d'autres équipes assignées restent**
-  L'étape d'examen continue à fonctionner pour les équipes restantes.
-- **Si aucune équipe ne reste et que l'approbation automatique est ACTIVÉE**
-  L'étape approuve automatiquement et progresse une fois que la date d'échéance de l'étape est atteinte.
-- **Si aucune équipe ne reste et que l'approbation automatique est DÉSACTIVÉE**
-  Les demandes d'approbation en cours se figent indéfiniment à cette étape d'examen.
+- **Si d'autres équipes assignées restent**<br>L'étape d'examen continue de fonctionner pour les équipes restantes.
+- **Si aucune équipe ne reste et l'approbation automatique est ACTIVÉE**<br>L'étape approuve automatiquement et progresse une fois que l'échéance de l'étape est dépassée.
+- **Si aucune équipe ne reste et l'approbation automatique est DÉSACTIVÉE**<br>Les demandes d'approbation en cours restent bloquées indéfiniment à cette étape d'examen.
 
 **5.2.3 Équipes d'examinateurs finaux supprimées** Les équipes d'approbation finale sont verrouillées après soumission, et l'approbation automatique **n'est pas** disponible pour les étapes d'examen final. Si toutes les équipes d'examinateurs finaux sont supprimées, les demandes d'approbation en cours sont figées indéfiniment.
 

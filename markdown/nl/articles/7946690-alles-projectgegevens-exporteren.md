@@ -64,10 +64,8 @@ Topicgegevens kunnen in drie primaire formaten worden geëxtraheerd via [topics 
 
 **Batch- en mapmapdownloads** Selecteer afzonderlijke mappen, specifieke documentbatches of alle zichtbare tabelitems tegelijk om een downloadbaar ZIP-archief te genereren. Het wordt aanbevolen om in beheersbare batches te downloaden door specifieke submappen of gericht bestandsgroepen te selecteren voor soepele overdrachten wanneer u met grote gegevensverzamelingen werkt.
 
-- **Tabblad Gepubliceerd**
-  Extraeert de nieuwste gepubliceerde revisie voor elk geselecteerd document.
-- **Tabblad Werkruimte**
-  Extraeert de nieuwste gedeelde revisie voor elk geselecteerd document (vereist de machtiging "Gedeelde revisies weergeven"). Houd er rekening mee dat oudere conceptrevisies niet in een ZIP-archief kunnen worden gedownload in batch, maar afzonderlijk worden gedownload.
+- **Gepubliceerd tabblad**<br>Haalt de meest recente gepubliceerde revision voor elk geselecteerd document op.
+- **Workspace-tabblad**<br>Haalt de meest recente gedeelde revision voor elk geselecteerd document op (vereist de machtiging "Gedeelde revisies weergeven"). Let op: legacy conceptrevisies kunnen niet in bulk naar een ZIP-archief worden gedownload en worden afzonderlijk gedownload.
 
 **Afzonderlijke revisiedownload** Selecteer een document op de [documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page) en klik op de downloadknop naast elke revisie in het informatiedeelvenster aan de rechterkant. Dit is een gemakkelijkere manier om afzonderlijke of historische revisies te downloaden omdat de documentvoorbeeldpagina niet hoeft te worden geladen, zodat u een ander document in de tabel kunt selecteren en de revisies in het deelvenster aan de rechterkant kunt downloaden zonder een nieuwe voorbeeldpagina te openen.
 
@@ -89,12 +87,8 @@ De [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-c
 
 **Topicborden** Documenteer boardtoegangsmachtigingen met behulp van twee beschikbare weergaven:
 
-- **Weergave per gebruiker**
-  Bekijk afzonderlijke gebruikerstoegangsniveaus rechtstreeks vanuit het informatiedeelvenster aan de rechterkant van een topicbord of geselecteerd topic.
-  _Vereiste toegang:_ leestoegang tot het topicbord
-- **Volledige teamconfiguratie**
-  Legfoto's van de volledige teamniveaumachtigingsinstellingen binnen de topicboardtoegangsinstellingen vast.
-  _Vereiste toegang:_ Volledige toegang tot het topicbord of projectbeheerder
+- **Per-gebruiker toegangsweergave**<br>Bekijk individuele toegangsniveaus van gebruikers rechtstreeks vanuit het informatief menu aan de rechterkant van een topic board of geselecteerde topic.<br>_Vereiste toegang:_ leesbevoegdheid voor de topic board
+- **Volledige teamconfiguratie**<br>Maak schermafbeeldingen van de volledige teamwerkingsniveauinstellingen voor toestemmingen in de instellingen voor topic board-toegang.<br>_Vereiste toegang:_ Volledige toegang tot de topic board of projectbeheerder
 
 **Document- en Modeltoegang** Exporteer het [toegangsoverzicht](https://support.catenda.com/en/articles/6660820-document-access-overview-page) om machtigingen voor leden en teams vast te leggen. Vereiste toegang: Projectbeheerder. Omdat elk model is gekoppeld aan een document in de documentensectie, worden toegangsmachtigingen voor modellen bepaald door de onderliggende documentmachtigingen en worden ze vastgelegd met behulp van hetzelfde documenttoegangsoverzicht of machtigingsmenu's.
 
@@ -102,11 +96,8 @@ De [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-c
 
 **Projectbrede actiemachtigingen** Documenteer projectbrede machtigingen op de [projectinstellingenpagina](https://support.catenda.com/en/articles/4670273-project-settings-page) (zoals het maken van topicborden, het uitnodigen van nieuwe leden, het configureren van documentstatussen en het maken of verwijderen van modellen) met behulp van twee beschikbare weergaven:
 
-- **Weergave per gebruiker**
-  Projectleden kunnen elk menu onder toegangsbeheer uitvouwen om te zien welke afzonderlijke gebruikers toestemming hebben om elke actie uit te voeren.
-- **Volledige configuratie**
-  Beheerders kunnen het bewerkingtoegangsdialoogvenster openen om teamniveaumachtigingsconfiguraties weer te geven en te beheren.
-  _Vereiste toegang:_ Projectbeheerder
+- **Weergave per gebruiker**<br>Projectleden kunnen elk menu onder toegangsbeheer uitvouwen om te zien welke individuele gebruikers toestemming hebben om elke actie uit te voeren.
+- **Volledige configuratie**<br>Beheerders kunnen het dialoogvenster voor toegangbewerking openen om teamwerkingsniveaupermissieconfiguraties in te zien en te beheren.<br>_Vereiste toegang:_ Projectbeheerder
 
 **Gebruikersprofielen en liddetails** Informatie over projectleden en teams is beschikbaar om te extraheren of te documenteren, inclusief:
 
@@ -127,21 +118,16 @@ Configureer een speciaal beheerdersaccount met [projectspecifieke meldingsinstel
 
 **Documentrapporten** Exporteer documentmetagegevens en revisiedetails voor alle geselecteerde bestanden, inclusief documentnaam, revisienaam, meest recente revisienummer, status, aangepaste velden, maker, uploader en aanmaak-/uploadtijdstempels.
 
-- **Belangrijkste toepassingen**
-  Ideaal voor het genereren van formele documentleverings-checklists bij een bundel of het compileren van gestructureerde documentlijsten voor gegevensanalyse.
-- **Modelmetagegevens en attributen**
-  Hoewel de werkelijke documentbestandsinhoud niet is opgenomen, kunnen modelmetagegevens via documentrapporten worden geëxporteerd, aangezien modellen koppelingen naar de documentensectie behouden. Aangepaste scripts in sjablonen kunnen ook worden gebruikt om aanvullende attributen af te leiden, zoals het extraheren van bestandstypen uit documentnamen.
+- **Belangrijkste gebruiksscenario's**<br>Ideaal voor het genereren van formele controlelijsten voor documentlevering ter begeleiding van een collectie, of het samenstellen van gestructureerde documentlijsten voor gegevensanalyse.
+- **Modelmetagegevens en kenmerken**<br>Hoewel de werkelijke documentbestandsinhoud niet is opgenomen, kunnen modelmetagegevens via documentrapporten worden geëxporteerd omdat modellen koppelingen naar de documentsectie behouden. Aangepaste scripts binnen templates kunnen ook worden gebruikt om aanvullende kenmerken af te leiden, zoals het extraheren van bestandstypen uit documentnamen.
 
 **Topicrapporten** Exporteer de algehele topicheaders en volledige topiclichaamdetails, inclusief beschrijvingen, opmerkingen en ingesloten opmerkingsafbeeldingen.
 
 **Beschikbare exportindelingen** Rapporten die op basis van een sjabloon zijn gemaakt, kunnen afhankelijk van uw werkstroomvereisten naar meerdere indeling worden geëxporteerd:
 
-- **PDF / PDF/A**
-  Genereert schone opgemaakte rapporten en ondersteunt rechtstreeks native PDF/A-compatibiliteit (PDF/A-1, PDF/A-2 en PDF/A-3) om te voldoen aan strikte langetermijnarchiverings- en formele juridische normen.
-- **Excel**
-  Exporteert gestructureerde tabellarische gegevens naar spreadsheetrijen en kolommen, wat ideaal is voor gegevensmanipulatie en externe analyse.
-- **Aanvullende indelingen**
-  Een breed scala aan aanvullende bestandsindelingen naast PDF en Excel wordt ook ondersteund voor export. Het volledige overzicht vindt u in het [rapportenpagina](https://support.catenda.com/en/articles/12303098-reports-page)-artikel.
+- **PDF / PDF/A**<br>Genereert schoon opgemaakte rapporten en ondersteunt rechtstreeks native PDF/A-naleving (PDF/A-1, PDF/A-2 en PDF/A-3) om te voldoen aan strikte standaarden voor langdurige archivering en formeel-juridische normen.
+- **Excel**<br>Exporteert gestructureerde tabellarische gegevens naar rijen en kolommen in een spreadsheet, wat ideaal is voor gegevensmanipulatie en externe analyse.
+- **Aanvullende indelingen**<br>Een groot aantal aanvullende bestandsindelingen naast PDF en Excel worden ook ondersteund voor export; het volledige overzicht is te vinden in het artikel [rapportenpagina](https://support.catenda.com/en/articles/12303098-reports-page).
 
 **Gecentraliseerde opslag** Gegenereerde rapporten staan rechtstreeks in de rapportentabel en worden automatisch geïntegreerd in de hoofddocumenttabel voor eenvoudig beheer.
 
@@ -157,22 +143,14 @@ Het instellen en beheren van Catenda Data Export vereist een **Organisatiebeheer
 
 Het instellen van geautomatiseerde gegevensexports omvat vier belangrijkste stappen:
 
-1. **Bestemming selecteren**
-   Kies een cloudopslagprovider, Amazon Web Services (AWS) S3 of Microsoft Azure Blob-opslag, en configureer verificatie.
-1. **Bereik en gegevensindelingen definiëren**
-    - **Gegevenstypen**
-      Exporteer documenten, modellen en topics.
-      Topicgegevens kunnen tijdens overdracht automatisch worden geconverteerd naar leesbare PDF-samenvattingsrapporten of standaard BCF-bestanden.
-    - **Projectselectie**
-      Kies alle projecten, selecteer handmatig specifieke projecten, of stel dynamische overeenkomstingsregels in met projectnaampatronen (glob of reguliere expressie/regex) om automatisch nieuwe projecten op te nemen wanneer ze worden gemaakt.
-1. **Exportmodus selecteren**
-    - **Doorlopende modus**
-      Verzendt gegevens automatisch op basis van een dagelijks schema.
-      Deze herhaalde instellingen zorgen ervoor dat niet-eigenaar projectleden tot en met de laatste dagelijkse run een bijgewerkte back-up behouden als projecttoegang onverwacht afloopt.
-    - **Snapshot-modus**
-      Voert een eenmalige run uit om een volledige gegevensverzameling op een specifiek moment of projectoverdracht te exporteren.
-1. **Implementeren**
-   Voltooi en schakel de exportconfiguratie in door Maken te selecteren.
+1. **Bestemming selecteren**<br>Kies een cloudopslagprovider, Amazon Web Services (AWS) S3 of Microsoft Azure Blob Storage, en configureer authenticatie.
+2. **Bereik en gegevensindelingen definiëren**
+   - **Gegevenstypen**<br>Exporteer documenten, modellen en topics. <br>Topicgegevens kunnen tijdens overdracht automatisch worden omgezet in leesbare PDF-samenvattingsrapporten of standaard BCF-bestanden.
+   - **Projectselectie**<br>Kies alle projecten, selecteer specifieke projecten handmatig, of stel dynamische bijpassingsregels in met behulp van projectnaampatronen (glob of reguliere expressie / regex) om automatisch nieuwe projecten op te nemen naarmate deze worden gemaakt.
+3. **Exportmodus selecteren**
+   - **Continue modus**<br>Verzendt gegevens automatisch volgens een dagelijks schema. <br>Deze terugkerende instelling zorgt ervoor dat niet-eigenaar projectleden een bijgewerkte back-up behouden tot aan de laatste dagelijkse uitvoering als projecttoegang onverwacht wordt beëindigd.
+   - **Snapshottmodus**<br>Voert een eenmalige uitvoering uit om een volledige gegevensverzameling op een specifieke mijlpaal of projectoverdracht te exporteren.
+4. **Implementeren**<br>Voltooi en activeer de exportconfiguratie door Maken te selecteren.
 
 ### 3.3 **Geëxtraheerde inhoud en Integriteitsverificatie**
 

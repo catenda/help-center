@@ -10,8 +10,7 @@ Hier ist, was es in dieser Version Neues gibt:
 
 - Problemberichte durch Wischgeste löschen
 
-- Verbesserter Einstellungsbildschirm.
-Jetzt können Sie Ihren bevorzugten Startbildschirm wählen
+- Verbesserter Einstellungsbildschirm. Jetzt können Sie Ihren bevorzugten Startbildschirm wählen
 
 - Neues In-App-Benachrichtigungssystem, um Ihnen nützlichere Informationen zu bieten
 

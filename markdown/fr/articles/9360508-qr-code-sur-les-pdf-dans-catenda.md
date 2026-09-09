@@ -10,7 +10,7 @@ L'attribution du code QR se fait via les dossiers, ce qui signifie que chaque ad
 
 Voici les étapes pour attribuer la fonction de code QR aux dossiers de votre projet ;
 
-1. Dans le document —> paramètres, accédez à **'configuration des dossiers'**
+1. Sous le document > paramètres, allez à **'configuration des dossiers'**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/01-setup-qr-code-on-catenda-hub.png)
 
@@ -67,8 +67,8 @@ Le PDF imprimé avec l'espace réservé peut maintenant être téléchargé en t
 ## 3. **Publication avec codes QR**
 
 1. Téléchargez une nouvelle révision d'un PDF avec l'espace réservé dans un dossier avec attribution du code QR
-1. Lors de la publication, le PDF sera scanné à la recherche de l'espace réservé et remplacé par un code QR (généré pour cette révision)
-1. Le code QR nouvellement généré deviendra partie du PDF, qui peut être visualisé/scanné sur Catenda Hub et/ou téléchargé.
+2. Lors de la publication, le PDF sera scanné à la recherche de l'espace réservé et remplacé par un code QR (généré pour cette révision)
+3. Le code QR nouvellement généré deviendra partie du PDF, qui peut être visualisé/scanné sur Catenda Hub et/ou téléchargé.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/07-publishing-with-qr-codes.png)
 

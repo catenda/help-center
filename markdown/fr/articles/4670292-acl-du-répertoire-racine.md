@@ -3,13 +3,13 @@
 Modifier le contrôle d'accès sur les répertoires racines pour les documents :
 
 1. Accédez aux Documents dans le menu principal.
-1. Cliquez sur le « menu hamburger » en haut à droite, vous trouverez le paramètre Bibliothèque. Cliquez sur les paramètres de la bibliothèque.
-1. Dans la nouvelle fenêtre, vous trouverez le contrôle d'accès sur le répertoire racine. Cliquez dessus.
-1. Vous verrez ici les Membres qui ont accès au répertoire racine et le bouton Modifier l'accès. Cliquez sur le bouton Modifier l'accès.
-1. La fenêtre de modification de l'accès s'affichera
-1. Définir l'accès pour le ou les Membre(s) ou Équipe(s).
-1. Administrateurs
-1. Autres : Ceci est l'accès pour tous les autres que vous-même, à l'exception de l'utilisateur administrateur. Le menu déroulant propose quelques options.
+2. Cliquez sur le « menu hamburger » en haut à droite, vous trouverez le paramètre Bibliothèque. Cliquez sur les paramètres de la bibliothèque.
+3. Dans la nouvelle fenêtre, vous trouverez le contrôle d'accès sur le répertoire racine. Cliquez dessus.
+4. Vous verrez ici les Membres qui ont accès au répertoire racine et le bouton Modifier l'accès. Cliquez sur le bouton Modifier l'accès.
+5. La fenêtre de modification de l'accès s'affichera
+6. Définir l'accès pour le ou les Membre(s) ou Équipe(s).
+7. Administrateurs
+8. Autres : Ceci est l'accès pour tous les autres que vous-même, à l'exception de l'utilisateur administrateur. Le menu déroulant propose quelques options.
 
 - Accès refusé
 - Lecture
@@ -17,7 +17,7 @@ Modifier le contrôle d'accès sur les répertoires racines pour les documents :
 - Accès complet (tous les utilisateurs administrateurs)
 
 1. Propriétaire : Ceci est l'accès pour le propriétaire du ou des dossier(s) ou Document(s). Il dispose des mêmes options qu'au point 7.
-1. Vous devez choisir entre les trois dernières :
+2. Vous devez choisir entre les trois dernières :
 
 - Dossier et nouveau contenu
 

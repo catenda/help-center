@@ -6,7 +6,7 @@ Denne artikkelen ble generert ved å be vår AI-støtteagent. Instruksjonen som 
 
 ## 1. **Møt Lena Tran, Senior utarbeider av veiledning**
 
-Denne veiledningen er for dokumentinnlevering som Lena Tran, Senior utarbeider av veiledning på et fleetagsprosjekt for et fellesskapsenter. Hun utarbeider dokumenter om fotgjengeradgang, bussruter og byggeplaner – og sikrer at de er klare for entreprenører, planleggere og eiere.
+Denne veiledningen er for dokumentinnlevering som Lena Tran, Senior Drafting Coordinator på et fleretagers samfunnssenterprosjekt. Hun forbereder dokumenter om fotgjengeraksess, busruter og konstruksjonsplaner, og sikrer at de er tydelige for entreprenører, planleggere og eiere.
 
 ## 2. **Hvorfor gjennomganger er viktig**
 
@@ -14,7 +14,7 @@ Gjennomganger sikrer at bare nøyaktige, gjennomgåtte dokumenter publiseres og 
 
 _Forebygging av virkelige feil_ er hovedformålet med gjennomgangsprosessen. Ukontrollerte dokumenter kan resultere i byggefeil som påvirker sikkerhet og tidsplanlegging.
 
-_Sikring av enighet blant interessenter_ betyr at alle – fra planleggere til entreprenører – godkjenner før arbeidet begynner.
+_Sikring av interessentavtale_ betyr at alle, fra planleggere til entreprenører, godkjenner før arbeidet begynner.
 
 _Støtte til prosjektsuksess_ er avhengig av klar, sporbar dokumentasjon som alle kan stole på.
 
@@ -32,7 +32,7 @@ _Klientrepresentanter_ bekrefter at leveranser er i samsvar med prosjektmål og 
 
 Lena begynner gjennomgangsprosessen ved å navigere til Dokumenter > Gjennomganger eller høyreklikke på et dokument i systemet. Dette åpner arbeidsflytvalgsgrensesnittet.
 
-_Valg av riktig arbeidsflyt_—som "Offentlig adgangsgjennomgang"—sikrer at de riktige vurdererne er involvert.
+_Valg av riktig arbeidsflyt_, for eksempel "Vurdering av offentlig adgang", sikrer at riktige vurderere er involvert.
 
 _Legge til delte revisjoner_ gjør det mulig å inkludere opptil 1000 dokumentversjoner i en enkelt forespørsel.
 

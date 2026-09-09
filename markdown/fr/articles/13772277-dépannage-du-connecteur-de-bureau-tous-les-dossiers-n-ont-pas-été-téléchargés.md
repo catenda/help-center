@@ -1,4 +1,4 @@
-# Dépannage du connecteur de bureau - Tous les dossiers n'ont pas été téléchargés
+# Desktop Connector - tous les dossiers n'ont pas été téléchargés
 
 Dans cet article, vous trouverez des informations sur une erreur spécifique qui se produit lors de l'utilisation du [connecteur de bureau Catenda](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector). Voir [ici](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) pour d'autres problèmes de dépannage du connecteur de bureau.
 
@@ -94,7 +94,7 @@ Si le connecteur de bureau est invité à utiliser l'un de ces raccourcis alors 
 
 Le dossier `_restricted` n'est créé que si le dossier est "physiquement" là mais "verrouillé" (comme une porte qui est verrouillée). Dans ce cas, le programme peut voir la porte et décide de construire une nouvelle (`_restricted`) à côté.
 
-Dans le cas du chemin manquant, c'est différent. Le dossier n'est plus là ou le "panneau indicateur" (lien symbolique) qui a été sélectionné pointe vers un emplacement vide. Pour le programme, ce n'est pas seulement verrouillé, la "pièce" entière manque du bâtiment. Parce qu'il n'y a pas de "porte" pour commencer, le programme ne peut pas créer une version `_restricted` et doit s'arrêter.
+Dans le cas du chemin d'accès manquant, c'est différent. Le dossier n'existe plus ou le « panneau indicateur » (lien symbolique) qui a été sélectionné pointe vers un emplacement vide. Pour le programme, ce n'est pas seulement verrouillé. Toute la « pièce » manque du bâtiment. Comme il n'y a pas de « porte » au départ, le programme ne peut pas créer une version `_restricted` et doit s'arrêter.
 
 ## 3. **Point de montage manquant**
 
@@ -147,8 +147,8 @@ Lorsque le dossier monté est double-cliqué, l'erreur suivante s'affiche instan
 Recréer manuellement le dossier Si le dossier reste "bloqué" même après un redémarrage :
 
 1. Renommez le dossier problématique (par exemple, renommez `DonnéesProjets` en `DonnéesProjets_OLD`).
-1. Créez un tout nouveau dossier portant le nom d'origine (`DonnéesProjets`).
-1. Le connecteur de bureau détectera le dossier frais et sain et reprendra le fonctionnement normal sans le suffixe `_restricted`.
+2. Créez un tout nouveau dossier portant le nom d'origine (`DonnéesProjets`).
+3. Le connecteur de bureau détectera le dossier frais et sain et reprendra le fonctionnement normal sans le suffixe `_restricted`.
 
 **Reconnecter le matériel ou le réseau** Allez à "Cet ordinateur" et assurez-vous que vos lecteurs réseau (comme `Z:`) sont actifs. Vérifiez si les lecteurs USB externes ou les disques durs externes sont correctement connectés. S'ils ont un X rouge, double-cliquez dessus pour les reconnecter. Si le lecteur réseau n'est pas actif et que vous savez quel réseau le lecteur est sur, reconnectez-vous au réseau soit en branchant un câble, soit en rejoignant via wifi ou lors de l'utilisation d'un VPN, vérifiez que le VPN est actif. Si le lecteur n'est plus disponible, sélectionnez un dossier de destination différent dans le connecteur de bureau qui est disponible soit sur l'ordinateur local, soit sur le réseau.
 

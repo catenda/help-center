@@ -12,25 +12,25 @@ Når nye funksjoner blir lansert og feil blir fikset, blir artikler oppdatert me
 
 ### 1.1 **Nye artikler:**
 
-_Kom i gang og FAQ_ [Vanlige spørsmål om organisasjonsverktøy](https://support.catenda.com/en/articles/10475849-organization-tool-faq)
+**Kom i gang og FAQ** [Vanlige spørsmål om organisasjonsverktøy](https://support.catenda.com/en/articles/10475849-organization-tool-faq)
 
-_Saker_ [Saksliste - tilgangskontroll](https://support.catenda.com/en/articles/4670296-topic-board-access-control) [Innstillinger for saksliste](https://support.catenda.com/en/articles/4670277-topic-board-settings)
+**Saker** [Saksliste - tilgangskontroll](https://support.catenda.com/en/articles/4670296-topic-board-access-control) [Innstillinger for saksliste](https://support.catenda.com/en/articles/4670277-topic-board-settings)
 
-_Plugin-moduler og integrasjoner_ [Catenda SharePoint-program - WebPart](https://support.catenda.com/en/articles/10538168-catenda-sharepoint-application-webpart) [Catenda som program](https://support.catenda.com/en/articles/10695677-catenda-as-an-application) [Legg til startskjerm](https://support.catenda.com/en/articles/10741601-add-to-home-screen) [Systemleser for startskjerm](https://Home-screen%20system-browser%20support)
+**Plugin-moduler og integrasjoner** [Catenda SharePoint-program - WebPart](https://support.catenda.com/en/articles/10538168-catenda-sharepoint-application-webpart) [Catenda som program](https://support.catenda.com/en/articles/10695677-catenda-as-an-application) [Legg til startskjerm](https://support.catenda.com/en/articles/10741601-add-to-home-screen) [Systemleser for startskjerm](https://Home-screen%20system-browser%20support)
 
 ### 1.2 **Artikler som har blitt endret:**
 
-_Kom i gang_ [Kom i gang på Catenda Hub](https://support.catenda.com/en/articles/9030303-getting-started-on-catenda-hub) [Øyeblikksbilder](https://support.catenda.com/en/articles/10345863-snapshots) [Anbefalinger for maskinvare](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Varselfiltrering og funksjonalitet](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality) [Godta en invitasjon til å bli med i et prosjekt](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project) [Opprette en konto](https://support.catenda.com/en/articles/8412895-creating-an-account)
+**Kom i gang** [Kom i gang på Catenda Hub](https://support.catenda.com/en/articles/9030303-getting-started-on-catenda-hub) [Øyeblikksbilder](https://support.catenda.com/en/articles/10345863-snapshots) [Anbefalinger for maskinvare](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Varselfiltrering og funksjonalitet](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality) [Godta en invitasjon til å bli med i et prosjekt](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project) [Opprette en konto](https://support.catenda.com/en/articles/8412895-creating-an-account)
 
-_Ofte stilte spørsmål_ [Er det en størrelsesgrense for IFC-filer?](https://support.catenda.com/en/articles/4670324-is-there-a-size-limit-for-ifc-files)
+**Ofte stilte spørsmål** [Er det en størrelsesgrense for IFC-filer?](https://support.catenda.com/en/articles/4670324-is-there-a-size-limit-for-ifc-files)
 
-_Hovedside_ [Brukerside - Organisasjonsverktøy](https://support.catenda.com/en/articles/8508311-users-page-organization-tool) [Plasseringen og funksjonaliteten for Støtt-boblen](https://Support%20button%20location%20and%20functionality)
+**Hovedside** [Brukerside - Organisasjonsverktøy](https://support.catenda.com/en/articles/8508311-users-page-organization-tool) [Plasseringen og funksjonaliteten for Støtt-boblen](https://Support%20button%20location%20and%20functionality)
 
-_Saker_ [Listevisning i saksliste](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board) [Tabelvisning i saksliste](https://support.catenda.com/en/articles/6941099-table-view-in-an-topic-board) [Saksinnhold - Innholdet i en sak](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
+**Saker** [Listevisning i saksliste](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board) [Tabelvisning i saksliste](https://support.catenda.com/en/articles/6941099-table-view-in-an-topic-board) [Saksinnhold - Innholdet i en sak](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
 
-_Dokumenter_ [Handlinger i et dokument](https://support.catenda.com/en/articles/9323521-actions-in-a-document) [QR-koder på PDF-er i Catenda](https://support.catenda.com/en/articles/9360508-qr-code-on-pdfs-in-catenda)
+**Dokumenter** [Handlinger i et dokument](https://support.catenda.com/en/articles/9323521-actions-in-a-document) [QR-koder på PDF-er i Catenda](https://support.catenda.com/en/articles/9360508-qr-code-on-pdfs-in-catenda)
 
-_Plugin-moduler og integrasjoner_ [Catenda Plugin-moduler og integrasjoner](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) [Catenda SharePoint-program](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application)
+**Plugin-moduler og integrasjoner** [Catenda Plugin-moduler og integrasjoner](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) [Catenda SharePoint-program](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application)
 
 ## 2. **Feil løst**
 
@@ -52,16 +52,15 @@ Takk for verdifulle tilbakemeldinger har vi vært i stand til å fikse mange sak
 - Farger brukt på meshobjekter vises nå korrekt. Modeller må importeres på nytt for å se forskjellen.
 - En fullstendig redesign av modellstyringssystemet vårt - vi laster nå modellinformasjon bare når det er nødvendig, i stedet for å laste alt på forhånd. Dette gjør at siden både lastes raskt og at serverne våre bedre kan håndtere alle forespørslene dine når mange mennesker bruker Catenda samtidig.
 - Det er nå igjen mulig å se egenskaper i tidligere revisjoner av modeller i inspeksjonspanelet
-- Du vil ikke lenger se modeller du ikke har tilgang til i revisjonsvalgeren.
-  På denne måten kan modeller som brukes til anbudsprosesser holdes anonyme ved bruk av tilgangskontroll.
+- Du vil ikke lenger se modeller du ikke har tilgang til i revisjonsvalgeren.<br>På denne måten kan modeller som brukes til anbudskonkurranser holdes anonyme ved bruk av tilgangskontroll.
 - Det er nå igjen mulig (og en bedre opplevelse enn tidligere) å måle mellom punkter i punktskyer.
 
 ### 2.3 **Saker**
 
 - Saklisten med alle saker viser ikke lenger filtrene fra den forrige listen du var på og viser nå igjen riktig filtrene som tilhører saklisten med alle saker.
 - Forbedringer ved eksportering av sak:
-    - Sakeksporter som tar lang tid, vil nå få tidsavbrudd.
-    - Opptil 10000 bilder kan nå inkluderes i en PDF-eksport.
+  - Sakeksporter som tar lang tid, vil nå få tidsavbrudd.
+  - Opptil 10000 bilder kan nå inkluderes i en PDF-eksport.
 
 ### 2.4 **Prosjektinnstillinger**
 

@@ -1,4 +1,4 @@
-# Pourquoi ne reçois-je toujours pas de notifications après avoir coché toutes les cases ?
+# Pourquoi je ne reçois pas de notifications ?
 
 Dans les paramètres Notifications, vous devez cocher toutes les cases, en plus vous devez activer les Notifications avec le bouton dans le coin supérieur droit des paramètres Notifications.
 

@@ -28,19 +28,19 @@ Les types de tampon du menu prédéfini peuvent inclure les informations suivant
 
 ### 2.2 Contenu du type de tampon
 
-Dans le menu prédéfini, les tampons suivants peuvent être vus : **Prénom** - Tout avant le premier espace du nom du compte
+Dans le menu prédéfini, les tampons suivants peuvent être vus : **Prénom** - Tout ce qui précède le premier espace dans le nom du compte
 
 **Deuxième prénom Nom** - Tout après le premier espace du nom du compte
 
 **Prénom Deuxième prénom Nom** - Nom complet du compte
 
-**Prénom** - Tout avant le premier espace du nom du compte Date
+**Prénom** - Tout ce qui précède le premier espace dans le nom du compte Date
 
 **Deuxième prénom Nom** - Tout après le premier espace du nom du compte Date
 
 **Prénom Deuxième prénom Nom** - Nom complet du compte Date
 
-**Prénom** - Tout avant le premier espace du nom du compte Date et heure
+**Prénom** - Tout ce qui précède le premier espace dans le nom du compte Date et heure
 
 **Deuxième prénom Nom** - Tout après le premier espace du nom du compte Date et heure
 

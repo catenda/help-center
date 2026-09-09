@@ -10,8 +10,7 @@ Dit is wat er nieuw is in deze versie:
 
 - Verwijder probleemopmerkingen met behulp van veeggebaar
 
-- Verbeterd instellingenscherm.
-Nu kunt u uw gewenste startscherm kiezen
+- Verbeterd instellingenscherm. Nu kunt u uw gewenste startscherm kiezen
 
 - Nieuw in-app Notificaties-systeem om u meer nuttige informatie te geven
 

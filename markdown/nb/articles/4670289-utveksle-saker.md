@@ -12,9 +12,9 @@ Bruk BCF-importhandlingen til å importere BCF-filer. Slik kan BCF-importdialoge
 
 Catenda er 100% forpliktet til åpne standarder. Basert på dette har vi implementert import og eksport av BCF (BIM-samarbeidsformat). Dette betyr at brukeren kan importere og eksportere saker fra/til annen programvare som støtter dette formatet (for eksempel Solibri, Navisworks og mange andre). Du kan for eksempel importere en fil med kollisjonskontrolldata for samme modell opprettet i et annet program. På denne måten kan du fortsette arbeidsflyten i Catenda.
 
-_Flere saker per bcf_ En BCF-fil kan inneholde flere saker
+**Flere saker per bcf** En BCF-fil kan inneholde flere saker
 
-_Maksimal filstørrelse_ Maksimal BCF-filstørrelse som kan importeres er 500 MB.
+**Maksimal filstørrelse** Maksimal BCF-filstørrelse som kan importeres er 500 MB.
 
 ### 1.1 **Last opp BCF-fil**
 
@@ -46,11 +46,11 @@ Du kan eksportere saker ved å velge eksporter saker i [menyen for nytt element]
 
 ### 2.1 **Filteralternativer**
 
-_Alle saker fra gjeldende saksliste_
+**Alle saker fra gjeldende saksliste**
 
-_Gjeldende filter_
+**Gjeldende filter**
 
-_Valgte saker_
+**Valgte saker**
 
 ### 2.2 **BCF-eksport**
 

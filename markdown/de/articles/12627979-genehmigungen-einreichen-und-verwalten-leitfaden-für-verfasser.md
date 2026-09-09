@@ -6,7 +6,7 @@ Dieser Artikel wurde durch Eingabeaufforderungen an unseren KI-Supportagenten ge
 
 ## 1. **Lena Tran, Senior Koordinatorin für Entwürfe kennenlernen**
 
-Dieser Leitfaden richtet sich an Dokumenteintragsteller wie Lena Tran, Senior Koordinatorin für Entwürfe in einem mehrstöckigen Gemeindezentrum-Projekt. Sie bereitet Dokumente zur Fußgängererreichbarkeit, Busrouten und Bauzeitpläne vor und stellt sicher, dass diese für Auftragnehmer, Planer und Eigentümer verständlich sind.
+Dieser Leitfaden ist für Dokumenteinreicher wie Lena Tran, Senior Drafting Coordinator bei einem mehrstöckigen Gemeindezentrumsprojekt. Sie bereitet Dokumente zu Fußgängerzugang, Busrouten und Bauzeitplänen vor und stellt sicher, dass diese für Auftragnehmer, Planer und Eigentümer verständlich sind.
 
 ## 2. **Warum Genehmigungen wichtig sind**
 
@@ -14,7 +14,7 @@ Genehmigungen stellen sicher, dass nur genaue, überprüfte Dokumente veröffent
 
 _Vermeidung von realen Fehlern_ ist der Kernzweck des Genehmigungsprozesses. Nicht verifizierte Dokumente können zu Baufehlern führen, die Sicherheit und Planung beeinträchtigen.
 
-_Sicherung der Zustimmung aller Beteiligten_ bedeutet, dass alle – von Planern bis zu Auftragnehmern – vor Arbeitsbeginn zustimmen.
+_Sicherung der Zustimmung der Beteiligten_ bedeutet, dass alle, von Planern bis zu Auftragnehmern, zustimmen, bevor die Arbeit beginnt.
 
 _Unterstützung des Projekterfolgs_ basiert auf klarer, nachverfolgbarer Dokumentation, der alle vertrauen können.
 
@@ -32,7 +32,7 @@ _Kundenvertreter_ überprüfen, dass Lieferergebnisse mit Projektzielen und Erwa
 
 Lena beginnt den Genehmigungsprozess, indem sie zu Dokumente > Genehmigungen navigiert oder mit der rechten Maustaste auf ein Dokument im System klickt. Dies öffnet die Workflow-Auswahlschnittstelle.
 
-_Auswahl des korrekten Workflows_—wie "Überprüfung des öffentlichen Zugangs"—stellt sicher, dass die richtigen Prüfer beteiligt sind.
+_Auswahl des richtigen Workflows_, z. B. "Public Access Review", stellt sicher, dass die richtigen Prüfer beteiligt sind.
 
 _Hinzufügen gemeinsamer Versionen_ ermöglicht das Einschließen von bis zu 1.000 Dokumentversionen in einer einzelnen Anfrage.
 

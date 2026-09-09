@@ -10,7 +10,7 @@ Slik kan profilmenyene til et prosjektmedlem se ut:
 
 <p class="intercom-align-center no-margin"><img alt="Administrator looking at own page" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t0zstfcp/inline-cd9fd3516a75.png" width="212.76595744680853"/>     ---     <img alt="Administrator looking at member page" src="https://raw.githubusercontent.com/catenda/help-center/main/images/t0zstfcp/inline-8415e03e125c.png" width="209.7902097902098"/></p>
 
-_Administrator ser sin egen side     ---     Administrator ser medlemsside_
+**Administrator ser sin egen side     ---     Administrator ser medlemsside**
 
 Tittelen på den første menyen på medlemssiden har navnet på medlemmet. Medlemmer kan endre profilbildene sine på [kontosiden sin](https://bimsync.com/account/profile).
 

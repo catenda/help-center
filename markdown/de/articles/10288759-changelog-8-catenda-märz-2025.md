@@ -52,16 +52,15 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die ihr mög
 - Farben, die auf Mesh-Objekte angewendet werden, werden jetzt ordnungsgemäß angezeigt. Modelle müssen neu importiert werden, um den Unterschied zu sehen.
 - Eine komplette Umgestaltung unseres Modellverwaltungssystems – wir laden Modellinformationen jetzt nur bei Bedarf, statt alles im Voraus zu laden. Dies führt dazu, dass die Seite schnell geladen wird und unsere Server alle eure Anfragen besser verarbeiten können, wenn viele Menschen gleichzeitig Catenda nutzen.
 - Es ist jetzt erneut möglich, Eigenschaften in vorherigen Versionen von Modellen im Inspektfeld anzuzeigen
-- Sie sehen Modelle, auf die Sie keinen Zugriff haben, nicht mehr im Versionsselektor.
-  Auf diese Weise können Modelle, die für Ausschreibungen verwendet werden, durch Zugriffskontrolle anonym bleiben.
+- Sie sehen Modelle, auf die Sie keinen Zugriff haben, nicht mehr in der Revisionsauswahl.<br>Auf diese Weise können Modelle, die für Ausschreibungen verwendet werden, durch die Verwendung von Zugriffskontrolle anonym bleiben.
 - Es ist jetzt erneut möglich (und eine bessere Erfahrung als zuvor), zwischen Punkten in Point Clouds zu messen.
 
 ### 2.3 **Themen**
 
 - Das All-Themen-Board zeigt nicht mehr die Filter des vorherigen Boards an und zeigt korrekt wieder die Filter an, die zum All-Themen-Board gehören.
 - Verbesserungen beim Themenexport:
-    - Themenexporte, die lange dauern, werden jetzt eine Zeitüberschreitung überschreiten.
-    - Bis zu 10000 Bilder können nun in einen PDF-Export eingebunden werden.
+  - Themenexporte, die lange dauern, werden jetzt eine Zeitüberschreitung überschreiten.
+  - Bis zu 10000 Bilder können nun in einen PDF-Export eingebunden werden.
 
 ### 2.4 **Projekteinstellungen**
 

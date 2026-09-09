@@ -24,11 +24,11 @@ Sie können filtern nach:
 
 - Meine Themen
 - Status und Typen
-    - Wenn ein Status oder Typ zum Projekt hinzugefügt wird oder der Name eines vorhandenen Status oder Typs geändert wird, haben Themen mit diesem Status den Namen des Status und Typs, aber die Farbe wird grau.
-    - Es ist nicht möglich, diese Status zu filtern und die Farbe zu sehen, bis Sie zur [Projektseite](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) zurückgehen und das Projekt erneut öffnen.
+  - Wenn ein Status oder Typ zum Projekt hinzugefügt wird oder der Name eines vorhandenen Status oder Typs geändert wird, haben Themen mit diesem Status den Namen des Status und Typs, aber die Farbe wird grau.
+  - Es ist nicht möglich, diese Status zu filtern und die Farbe zu sehen, bis Sie zur [Projektseite](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) zurückgehen und das Projekt erneut öffnen.
 - [Etiketten](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - Fälligkeitsdatum
-- Standort
+- Standort <br>
 
 ### 1.1 Symbol „Filter zurücksetzen
 

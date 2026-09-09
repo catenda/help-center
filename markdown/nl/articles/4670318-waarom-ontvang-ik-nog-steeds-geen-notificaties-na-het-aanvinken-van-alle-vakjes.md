@@ -1,4 +1,4 @@
-# Waarom ontvang ik nog steeds geen notificaties na het aanvinken van alle vakjes?
+# Waarom ontvang ik geen Notificaties?
 
 In de notificatie-instellingen moet je alle vakjes aanvinken. Daarnaast moet je notificaties inschakelen met de knop in de rechterbovenhoek van de notificatie-instellingen.
 

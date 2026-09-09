@@ -88,22 +88,24 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die du mögl
 
 - Es ist jetzt möglich, die ACL pro Modell statt für alle Modelle festzulegen.
 
-    Dies bedeutet, dass du Modelle vor Personen im Modellabschnitt verbergen kannst.
+  Dies bedeutet, dass du Modelle vor Personen im Modellabschnitt verbergen kannst.
 
 - Mit Modelle als Dokumente kannst du Etiketten zu Modellen hinzufügen.
+
 - Mit Modelle als Dokumente kannst du Modelle in Ordnern im Abschnitt "Dokumente" strukturieren.
+
 - Mit Modelle als Dokumente kannst du die Dateigröße des Modells sehen
+
 - Mit Modelle als Dokumente kannst du die Benennungskonvention-Funktion mit Modellen verwenden
+
 - Es ist jetzt wieder möglich, frühere Versionen von Modellen in der Versionsauswahl anzuzeigen
 
 ### 3.4 **Projekteinstellungen**
 
 - Etikettgruppen können jetzt gelöscht werden.
 - Es ist jetzt möglich, Etiketten zu löschen, die mit Themen/Dokumenten verbunden sind.
-- Etikettgruppen können bearbeitet werden.
-  Du findest den Bearbeitungsstift im rechten Informationsmenü, nachdem du die Etikettgruppe auf der Registerkarte "Gruppen" ausgewählt hast.
-- Es ist jetzt möglich, mehrere Etiketten auf einmal zu erstellen.
-  Beachte die Schaltfläche "Mehrere importieren" im neuen Etikettmenü.
+- Etiketten-Gruppen können nun bearbeitet werden.<br>Sie finden den Bearbeitungsstift im rechten Informationsmenü, nachdem Sie die Etiketten-Gruppe auf der Registerkarte "Gruppen" ausgewählt haben.
+- Es ist nun möglich, mehrere Etiketten gleichzeitig zu erstellen.<br>Beachten Sie die Schaltfläche "Mehrere importieren" im neuen Etiketten-Menü.
 - Es ist jetzt möglich, mehrere Etiketten auf einmal zu löschen.
 - Etiketten können gefiltert werden und Filter können gespeichert werden.
 - Es ist jetzt möglich, neue Etikettgruppen hinzuzufügen
@@ -114,10 +116,10 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die du mögl
 ### 3.5 **Allgemeines**
 
 - Das Erstellen neuer Projekte aus Vorlagenprojekten wurde verbessert. Es ist jetzt möglich, folgende Teile eines Projekts in ein neues Projekt zu bringen:
-    - Ordnerstruktur
-    - Dokumentstatuskonfiguration
-    - Dokument- und Themenbrettzugriff
-    - Benutzerdefinierte Felder und Benennungskonventionen
+  - Ordnerstruktur
+  - Dokumentstatuskonfiguration
+  - Dokument- und Themenbrettzugriff
+  - Benutzerdefinierte Felder und Benennungskonventionen
 
 ## 4. **Neue Versionen** - Catenda Site, Plugins und Integrationen
 

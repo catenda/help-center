@@ -53,9 +53,9 @@ Kartfanen viser plasseringen av alle prosjekter du er del av på et zoombart ver
 
 Etter å ha opprettet en ny konto må en prosjektinvitasjon mottas og godtas for å se prosjekter i denne listen. Her vil brukere se alle prosjekter der de er medlemmer.
 
-_Bli del av et prosjekt_ Når et prosjekt opprettes, blir skaperen automatisk del av prosjektet. Når prosjektet opprettes via organisasjonsverktøyet, må organisasjonseieren fortsatt gjøre seg selv til del av prosjektet for å se det i listen. Noen organisasjonseiere kan også legge til og fjerne organisasjonsmedlemmer til prosjekter uten invitasjon.
+**Bli del av et prosjekt** Når et prosjekt opprettes, blir skaperen automatisk del av prosjektet. Når prosjektet opprettes via organisasjonsverktøyet, må organisasjonseieren fortsatt gjøre seg selv til del av prosjektet for å se det i listen. Noen organisasjonseiere kan også legge til og fjerne organisasjonsmedlemmer til prosjekter uten invitasjon.
 
-_Alle organisasjonsprosjekter_ Organisasjonseiere vil kunne se alle prosjekter i organisasjonen på [prosjektsiden i organisasjonsverktøyet](https://support.catenda.com/en/articles/8505058-projects-page-in-organization-tool).
+**Alle organisasjonsprosjekter** Organisasjonseiere vil kunne se alle prosjekter i organisasjonen på [prosjektsiden i organisasjonsverktøyet](https://support.catenda.com/en/articles/8505058-projects-page-in-organization-tool).
 
 ### 6.1 **Stjerne**
 

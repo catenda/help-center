@@ -46,9 +46,7 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die ihr viel
 
 ### 2.1 **Probleme**
 
-- Die folgenden Spalten im Excel-Export haben einen neuen Namen in Japanisch erhalten:
-  「にて作成された」→「作成者・質問者」
-  「作成済み」→「作成日・質問日」
+- Die folgenden Spalten im Excel-Export haben einen neuen Namen auf Japanisch erhalten:<br>「にて作成された」→「作成者・質問者」<br>「作成済み」→「作成日・質問日」
 - Die Einstellung für angezeigte oder ausgeblendete Filter auf Problemboards wird nun in deinem Konto gespeichert und nicht in deinem Browser, sodass du sie nicht ändern musst, wenn dein Browser häufig zurückgesetzt wird.
 - Das Problemboard wird nun wieder aktualisiert, nachdem ein Problem verschoben wurde
 - BCF-Probleme, die mit Status " " importiert werden, erhalten nun standardmäßig den ersten offenen Status

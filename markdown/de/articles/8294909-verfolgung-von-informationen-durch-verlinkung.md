@@ -43,16 +43,18 @@ Sie können im [rechten Panel](https://support.catenda.com/en/articles/8053299-i
 **Automatisch**
 
 1. Laden Sie ein Modell in 3D und wählen Sie ein Objekt.
-1. Entweder
 
-    Klicken Sie auf die Schaltfläche Plus in der [Themensektion](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) des Inspektionsbereichs des Informationspanels.
+2. Entweder
 
-    oder
+   Klicken Sie auf die Schaltfläche Plus in der [Themensektion](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) des Inspektionsbereichs des Informationspanels.
 
-    Erstellen Sie eine neue Themensektion, indem Sie auf der Themaseite des Inhaltsbereichs auf neues Thema klicken.
+   oder
 
-1. Geben Sie dem Thema einen Titel und reichen Sie es ein
-1. Beachten Sie, dass Ihr Thema die ausgewählten Objekte verlinkt hat
+   Erstellen Sie eine neue Themensektion, indem Sie auf der Themaseite des Inhaltsbereichs auf neues Thema klicken.
+
+3. Geben Sie dem Thema einen Titel und reichen Sie es ein
+
+4. Beachten Sie, dass Ihr Thema die ausgewählten Objekte verlinkt hat
 
 ### 3.2 **Verlinkung von Dokumenten mit Objekten**
 

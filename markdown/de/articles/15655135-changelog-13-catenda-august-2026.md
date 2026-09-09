@@ -82,88 +82,55 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die ihr mög
 
 ### 3.1 **Allgemein**
 
-- **[Projekte] Projekterstellung wiederhergestellt**
-  Es ist nun wieder möglich, Projekte zu erstellen.
-- **[Projekte] Erstellung in Organisationen mit Projektlimits**
-  Es ist nun wieder möglich, Projekte in Organisationen mit einem Limit von weniger als 100 Projekten zu erstellen.
-- **[Navigation] Leerer Bildschirm beim Fortsetzen der Aktivität**
-  Seiten zeigen nicht mehr zeitweise einen leeren Bildschirm an, wenn die Aktivität nach einer Inaktivitätsdauer fortgesetzt wird.
-- **[Lokalisierung] Zugriff in nicht-englischer Sprache**
-  Es ist nun wieder möglich, auf Catenda zuzugreifen, wenn die Spracheinstellung auf etwas anderes als Englisch eingestellt ist.
+- **[Projekte] Projekterstellung wiederhergestellt**<br>Es ist wieder möglich, Projekte zu erstellen.
+- **[Projekte] Erstellung in Organisationen mit Projektlimits**<br>Es ist wieder möglich, Projekte in Organisationen mit einem Limit von weniger als 100 Projekten zu erstellen.
+- **[Navigation] Leerer Bildschirm bei Aktivitätswiederaufnahme**<br>Seiten zeigen nicht mehr zeitweilig einen leeren Bildschirm an, wenn die Aktivität nach einer Inaktivitätsphase wiederaufgenommen wird.
+- **[Lokalisierung] Zugriff auf andere Sprachen als Englisch**<br>Es ist wieder möglich, auf Catenda zuzugreifen, wenn die Spracheinstellung auf etwas anderes als Englisch eingestellt ist.
 
 ### 3.2 **Topics**
 
-- **[Topic-Board] Verhalten des Kontrollkästchens "Alles auswählen"**
-  Das Kontrollkästchen "Alles auswählen" in einer Topic-Board-Tabelle ist nun wieder ordnungsgemäß aktiviert und deaktiviert, nachdem alle Topics ausgewählt wurden.
-- **[Kanban-Ansicht] Sichtbarmachung des Subfilters umschalten**
-  In der Kanban-Ansicht erscheinen und verschwinden nur die Topics aus dem Subfilter, wenn das Filter im Filtermenü aktiviert wird, anstatt alle Topics dieses Filtertyps.
-- **[Formatierungshinweis] Logo in Markdown-Vorschau**
-  Das Inline-Markdown-Bild im Formatierungshinweis des Topic-Beitrags zeigt wieder das Catenda-Logo an
+- **[Themen-Board] Verhalten des Kontrollkästchens "Alles auswählen"**<br>Das Kontrollkästchen "Alles auswählen" in einer Themen-Board-Tabelle wird jetzt nach dem Auswählen aller Themen korrekt aktiviert und deaktiviert.
+- **[Kanban-Ansicht] Sichtbarkeitswechsel von Unterfiltern**<br>In der Kanban-Ansicht werden nur die Themen aus dem Unterfilter jetzt ein- und ausgeblendet, wenn Sie den Filter im Filtermenü aktivieren, anstatt alle Themen dieses Filtertyps.
+- **[Formatierungshinweis] Logo in Markdown-Vorschau**<br>Das Inline-Markdown-Bild im Formatierungshinweis für den Themenbeitrag zeigt erneut das Catenda-Logo an
 
 ### 3.3 **Dokumente**
 
-- **[Dokumentvorschau] Fehler beim Download-Prozess behoben**
-  Der Dokumentdownload-Prozess wurde geändert, sodass ein Fehler, den einige Benutzer bei einigen Dokumenten in der Dokumentvorschau erlebten, nicht mehr angezeigt wird.
-- **[Approvals] Behandlung des Legacy-Approval-Entwurfsstatus**
-  Es ist nun wieder möglich, Legacy-Approvals zu übermitteln und Legacy-Approval-Einstellungen zu aktualisieren, bei denen ein Entwurfsstatus als Ergebnis für ein abgelehntes Dokument konfiguriert ist.
-- **[Dokumentvorschau] Menüoptionen "Herunterladen/Speichern unter"**
-  Die Menüs "Herunterladen/Speichern unter" sind nun wieder im Menü mit Dokumentvorschau-Aktionen sichtbar.
-- **[Dokumentvorschau] Dateinamen mit Punkten im Namen**
-  Es ist nun wieder möglich, Dokumente in der Vorschau anzuzeigen, die einen Punkt inmitten des Dokumentnamens zusätzlich zur Erweiterung haben.
-- **[Dokumentvorschau] Vorschau von Bilddateitypen**
-  Es ist nun wieder möglich, Bilddateitypen in der Dokumentvorschau in der Vorschau anzuzeigen
-- **[Downloads] Behebung des Lithuanian- und Hungarian-Sprachwechsels**
-  Es ist nun wieder möglich, einzelne Dokumente herunterzuladen, wenn die Spracheinstellung auf Lithuanian oder Hungarian eingestellt ist.
-- **[Namenskonventionen] Behebung der Validierung von deutschen Umlauten**
-  Die Validierung der Dateinamenskonvention schlägt nicht mehr fehl, wenn Dokumente mit benutzerdefinierten Feldcodes hochgeladen werden, die deutsche Umlaute enthalten.
-- **[Dokumentliste] Behebung des Leerraums beim Scrollen**
-  Leerraum bedeckt nicht mehr einige Dokumentzeilen, nachdem auf lange Dokumentlisten in Sammlungen hinuntergerollt wird, in denen hinzugefügte Dokumente inzwischen gelöscht wurden.
-- **[Dokumentvorschau] Vorab optimiertes Laden der Vorschau**
-  Beim Öffnen einer Dokumentvorschau wurde zunächst eine rohe, langsame Version angezeigt, bis eine optimierte, schneller zu bearbeitende Version angezeigt wurde.
-  Besonders bei größeren Dateien konnte es eine Weile dauern, bis diese optimierte Version bereit war. Jetzt wird für alle neuen Dateien eine optimierte Version bereits vor dem Öffnen der Dokumentvorschau vorbereitet. Ältere Dateien werden optimiert, wenn die Vorschau geöffnet wird, und müssen möglicherweise neu geladen werden. Zusätzlich wurde der Server, der optimierte Vorschauversionen vorbereitet, aktualisiert, wodurch es weniger wahrscheinlich ist, dass beim Öffnen der Dokumentvorschau ein grauer Verarbeitungsbildschirm angezeigt wird.
-  Diese Änderung fällt bei größeren Dateien wie mehrseitigen PDFs oder großformatigen Bildern und CAD-Formaten besonders auf.
+- **[Dokumentvorschau] Fehlerfix beim Download-Prozess**<br>Der Dokument-Download-Prozess wurde geändert, so dass ein Fehler, den einige Benutzer bei einigen Dokumenten beim Anzeigen in der Dokumentvorschau erlebt haben, nicht mehr auftritt.
+- **[Genehmigungen] Behandlung des Legacy-Genehmigungsentwurfs-Status**<br>Es ist wieder möglich, Legacy-Genehmigungen zu übermitteln und Legacy-Genehmigungseinstellungen zu aktualisieren, bei denen ein Entwurfsstatus als Ergebnis für ein abgelehntes Dokument konfiguriert ist.
+- \*\* Menüs „Herunterladen/Speichern unter
+- **[Dokumentvorschau] Dateinamen mit Punkten im Namen**<br>Es ist wieder möglich, eine Vorschau von Dokumenten anzuzeigen, die einen Punkt im Dokumentnamen zusätzlich zur Dateiendung haben.
+- **[Dokumentvorschau] Vorschau für Bilddateitypen**<br>Es ist wieder möglich, eine Vorschau von Bilddateitypen in der Dokumentvorschau anzuzeigen
+- **[Downloads] Behebung des Fehlers bei litauischer und ungarischer Sprache**<br>Es ist wieder möglich, einzelne Dokumente herunterzuladen, wenn die Spracheinstellung auf Litauisch oder Ungarisch eingestellt ist.
+- **[Benennungskonventionen] Behebung der Validierung von Umlauten**<br>Die Validierung von Dateibenennungskonventionen schlägt nicht mehr fehl, wenn Dokumente mit benutzerdefinierten Feldcodes mit Umlauten hochgeladen werden.
+- **[Dokumentliste] Leerraumfixierung beim Scrollen**<br>Der Leerraum bedeckt nicht mehr einige Dokumentzeilen, nachdem in langen Dokumentlisten in Sammlungen gescrollt wurde, in denen hinzugefügte Dokumente seitdem gelöscht wurden.
+- **[Dokumentvorschau] Voroptimiertes Vorschau-Laden**<br>Wenn eine Dokumentvorschau geöffnet wurde, wurde zunächst eine unvollständige, langsame Version angezeigt, bis eine optimierte, schneller zu handhabende Version angezeigt wurde.<br>Besonders bei größeren Dateien konnte es eine Weile dauern, bis diese optimierte Version bereit war. Jetzt wird für alle neuen Dateien eine optimierte Version vorbereitet, noch bevor die Dokumentvorschau geöffnet wird. Ältere Dateien werden bei Öffnung der Vorschau optimiert und müssen möglicherweise neu geladen werden. Zusätzlich wurde der Server, der optimierte Vorschaubilder vorbereitet, verbessert, wodurch es weniger wahrscheinlich ist, dass bei Öffnung der Dokumentvorschau ein grauer Verarbeitungsbildschirm angezeigt wird.<br>Diese Änderung ist vor allem bei größeren Dateien wie PDFs mit vielen Seiten oder großen Bildern sowie CAD-Formaten spürbar.
 
 ### 3.4 **Modelle**
 
-- **[Infoleiste] Verknüpfte Topics sind wieder sichtbar.**
-  Topics, die mit Objekten verknüpft sind, sind im Inspektmenü der Infoleiste auf der Registerkarte "Topics" wieder sichtbar.
-- **[Stockwerkkonfigurator] PDF-Unterlagen-Anzeige behoben.**
-  Es ist nun wieder möglich, PDF-Unterlagen-Dokumente in der Dokumentvorschau des Stockwerkskonfigurators für PDFs anzuzeigen, die keine eingebetteten Schriftarten haben.
+- **[Informationsbereich] Verknüpfte Themen sind wieder sichtbar.**<br>Themen, die mit Objekten verknüpft sind, sind jetzt im Inspektionsmenü des Informationsbereichs unter der Registerkarte Themen wieder sichtbar.
+- **[Geschoss-Konfiguratierer] PDF-Unterlagerungsanzeige behoben.**<br>Es ist wieder möglich, eine Vorschau von PDF-Unterlagungsdokumenten in der Geschoss-Konfiguratierer-Dokumentvorschau für PDFs ohne eingebettete Schriftarten anzuzeigen.
 
 ## 4. **Benutzer-Feedback umgesetzt**
 
 ### 4.1 **Topics**
 
-- **Eine neue Ansicht für Topics wurde hinzugefügt: Kanban**
-  Organisieren, filtern und aktualisieren Sie Topics direkt auf einem Kanban-Board, um das Problem- und Aufgabenmanagement sowie die Teamzusammenarbeit in Catenda Hub zu verbessern.
-  Ändern Sie die Filter, um nicht nur alle Topics in einer Liste wie in der Listenansicht anzuzeigen, sondern sehen Sie die Topics in Spalten basierend auf den verfügbaren verschiedenen Filtern.
-  Zum Beispiel eine Spalte pro Verantwortliche, damit Sie sehen, welche Topics den einzelnen Personen zugewiesen sind, oder eine Spalte pro Status oder eine Spalte für Topics, die heute fällig sind, innerhalb einer Woche fällig sind, in mehr als einer Woche fällig sind oder überfällig sind.
-- **Die Topic-Statistikseite**
-  hat ein visuelles Makeover erhalten und ist jetzt reaktionsfreudiger. Es ist nun möglich, überall auf der Graphikvolumenseite zu zeigen, um die Anzahl der Topics mit unterschiedlichen Status zu einem bestimmten Punkt der Projektzeitachse anzuzeigen, anstatt nur wenn die Graphiklinie überfahren wird.
+- **Eine neue Ansicht für Themen wurde hinzugefügt: Kanban**<br>Organisieren, filtern und aktualisieren Sie Themen direkt auf einem Kanban-Board und verbessern Sie die Ausgabenbearbeitung, Aufgabenverwaltung und Teamzusammenarbeit in Catenda Hub. <br>Ändern Sie die Filter, um nicht nur alle Themen in einer Liste wie in der Listenansicht zu sehen, sondern sehen Sie die Themen in Spalten basierend auf den verfügbaren verschiedenen Filtern.<br>Zum Beispiel eine Spalte pro Verantwortlichem, damit Sie nebeneinander Themen zugewiesene Personen sehen, oder eine Spalte pro Status oder eine Spalte für Themen, die heute fällig sind, innerhalb einer Woche fällig, in mehr als einer Woche fällig und überfällig.
+- **Die Seite "Themenstatistiken"**<br>hat ein visuelles Overhaul erhalten, das sie reaktionsschneller macht. Es ist jetzt möglich, überall auf dem Diagrammvolumen zu schweigen, um die Anzahl der Themen mit unterschiedlichen Status zu sehen, die zu einem bestimmten Zeitpunkt in der Projekt-Timeline vorhanden sind, anstatt nur wenn die Diagrammlinie überfahren wird.
 
 ### 4.2 **Dokumente**
 
-- **Flexible Verwaltung des Absender-Teams**
-  Es ist nun möglich, Absender-Teams in bestehenden Approval Workflows nach dem Speichern hinzuzufügen oder zu entfernen.
-  Projektadministratoren können aktualisieren, wer neue Approval-Anfragen starten darf, ohne den gesamten Workflow-Vorlage von vorne neu erstellen zu müssen.
-- **Überprüfung durch alle Teamitglieder erforderlich**
-  Eine neue Einstellung wurde zu Approval-Überprüfungsschritten hinzugefügt, die erfordert, dass jedes einzelne Mitglied eines Reviewer-Teams seine eigene Validierungsangabe übermittelt.
-  Anstatt fortzufahren, sobald ein einzelnes Mitglied antwortet, bleibt der Schritt jetzt offen, bis jedes Mitglied des zugewiesenen Teams seine Überprüfung abgeschlossen hat.
-- **Automatische Topic-Erstellung bei Approval-Abschluss**
-  Approval Workflows können jetzt mit Topic-Vorlagen verknüpft werden, sodass Topics automatisch erstellt werden, wenn eine Approval-Anfrage abgeschlossen ist.
-  Durch die Auswahl einer Topic-Vorlage für spezifische Ergebnisentscheidungen wird sichergestellt, dass Nachverfolgungsbemerkungen und Probleme sofort auf einem Topic-Board zur Verfolgung protokolliert werden.
-- **Übersichtsregisterkarte Dokumentrevisionen**
-  Die Approval-Seite verfügt nun über eine dedizierte Registerkarte "Dokumentrevisionen", die einen vollständigen Tabellenüberblick über alle Dateien bietet, die derzeit in allen offenen Approvals überprüft werden.
-  Sie können jetzt nach einzelnen Dokumentrevisionen nach Teamzuweisung, Überprüfungsstatus und Fälligkeitsdatum suchen, sortieren und filtern, ohne jedes Approval-Paket separat öffnen zu müssen.
+- **Flexible Verwaltung von Einreicher-Teams** <br>Es ist jetzt möglich, Einreicher-Teams zu vorhandenen Genehmigungsworkflows hinzuzufügen oder zu entfernen, nachdem sie gespeichert wurden. <br>Projektadministratoren können aktualisieren, wem erlaubt ist, neue Genehmigungsanfragen zu starten, ohne den gesamten Workflow-Template von vorne neu erstellen zu müssen.
+- **Überprüfung durch alle Team-Mitglieder erforderlich** <br>Eine neue Einstellung wurde zu den Überprüfungsschritten der Genehmigung hinzugefügt, die erfordert, dass jedes einzelne Mitglied eines Reviewer-Teams seine eigene Gültigkeitsangabe einreichen muss.<br>Anstatt zu verfahren, sobald ein einzelnes Mitglied antwortet, bleibt der Schritt jetzt offen, bis jedes Mitglied des zugeordneten Teams seine Überprüfung abgeschlossen hat.
+- **Automatische Themenerstellung beim Abschluss der Genehmigung** <br>Genehmigungsworkflows können jetzt mit Themen-Templates verknüpft werden, so dass Themen automatisch erstellt werden, wenn eine Genehmigungsanfrage abgeschlossen wird. <br>Die Auswahl eines Themen-Templates für spezifische Resultatentscheidungen stellt sicher, dass Folgeanmerkungen und Probleme sofort für die Verfolgung in ein Themen-Board eingetragen werden.
+- **Registerkarte "Dokumentversionen-Übersicht"** <br>Die Seite "Genehmigungen" enthält jetzt eine spezielle Registerkarte "Dokumentversionen", die einen vollständigen Tabellenüberblick über alle Dateien bietet, die derzeit alle offenen Genehmigungen überprüft werden. <br>Sie können jetzt einzelne Dokumentversionen nach Team-Zuweisung, Überprüfungsstatus und Fälligkeitsdatum suchen, sortieren und filtern, ohne jedes Genehmigungspaket separat öffnen zu müssen.
 - **Japanische Lokalisierung für Approvals**
 
-Eine vollständige japanische Lokalisierung wurde in der Approval-Schnittstelle und den Seiten zur Workflow-Konfiguration implementiert. Teams, die auf Japanisch arbeiten, können nun Approval-Karten, Dokumentprüfwerkzeuge und Setup-Menüs mit präziser und konsistenter lokalisierter Terminologie durchsuchen.
+  Eine vollständige japanische Lokalisierung wurde in der Approval-Schnittstelle und den Seiten zur Workflow-Konfiguration implementiert.
+  Teams, die auf Japanisch arbeiten, können nun Approval-Karten, Dokumentprüfwerkzeuge und Setup-Menüs mit präziser und konsistenter lokalisierter Terminologie durchsuchen.
 
 ### 4.3 **Projekteinstellungen**
 
-- **Überholung der Einladungsseite**
-  Die Projekteinladungsseite wurde geändert, sodass es keine Verwirrtheit mehr darüber gibt, dass Sie vor dem Klicken auf "Einladung senden" auf die Schaltfläche "Hinzufügen" klicken mussten.
-  Es ist nun möglich, außerhalb des Feldes zu klicken, um anzuwenden, bevor Sie auf "Benutzer einladen" klicken.
+- **Überholung der Einladungsseite**<br>Die Projekt-Einladungsseite wurde geändert, so dass es nicht mehr verwirrt, dass Sie auf die Hinzufügen-Schaltfläche klicken müssen, bevor Sie auf die Schaltfläche "Benutzer einladen" klicken können. <br>Es ist jetzt möglich, außerhalb des Feldes zu klicken, um vor dem Klicken auf "Benutzer einladen" anzuwenden.
 
 ## 5. **Neue Versionen** - Plugins und Integrationen
 

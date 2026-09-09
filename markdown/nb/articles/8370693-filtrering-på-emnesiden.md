@@ -8,7 +8,7 @@ Filtermeny i en saksliste kan åpnes ved å klikke på filterknappen til venstre
 
 Klikk på filterknappen øverst til venstre for at et panel skal vises på venstre side. Når et filter brukes, endres URLen som vises i nettleseren tilsvarende. I denne artikkelen vises filtre slik: _Filternavn i meny_ - `Filternavn i URL=Filteralternativ i URL`
 
-_Standardfilter_ Standardfilteret er opprinnelig ikke synlig i URLen. Når siden navigeres til for første gang, brukes følgende filter. _Ingen filter_ - `status-type=all`
+**Standardfilter** Standardfilteret er opprinnelig ikke synlig i URLen. Når siden navigeres til for første gang, brukes følgende filter. _Ingen filter_ - `status-type=all`
 
 ### 1.1 **Lagre og del gjeldende filter**
 
@@ -46,7 +46,7 @@ Med datofilteret kan du velge en tidsramme for når sakene sist ble oppdatert. _
 
 ### 2.5 **Tildelt til / Etterspurt av**
 
-_Tildelt ingen_ - `assigned=unassigned` _Ingen team tildelt_ - `assigned-team=unassigned` _Tildelt team_ - `assigned-team=<Team GUID>` _Ikke tildelt bruker_ - `assigned-user=unassigned` _Tildelt bruker_ - `assigned-user=<User GUID>` Tildelt operator - `assigned-op=and` Som standard kan du bare søke etter den tildelte brukeren ELLER det tildelte teamet. I Catenda Hub kan du angi en tildelt som bruker@team For å finne alle saker av denne typen**,** filtrer etter teamet og brukeren, og legg til &assigned-op=and på slutten av URLen.
+_Tildelt ingen_ - `assigned=unassigned` _Ingen team tildelt_ - `assigned-team=unassigned` _Tildelt team_ - `assigned-team=<Team GUID>` _Ikke tildelt bruker_ - `assigned-user=unassigned` _Tildelt bruker_ - `assigned-user=<User GUID>` Tildelt operator - `assigned-op=and` Som standard kan du bare søke etter den tildelte brukeren ELLER det tildelte teamet. I Catenda Hub kan du angi en tildelt som bruker@team For å finne alle saker av denne typen\*\*,\*\* filtrer etter teamet og brukeren, og legg til &assigned-op=and på slutten av URLen.
 
 _Ikke etterspurt_ - `requester=unassigned` _Ikke etterspurt av team_ - `requester-team=unassigned` _Ikke etterspurt av bruker_ - `requester-user=unassigned` _Etterspurt av bruker_ - `requester-user=<User GUID>`
 
@@ -104,19 +104,19 @@ _Tekstsøk -_ `search=<Search phrase>` Etter å ha skrevet inn tegn i søke- ell
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/04-text-search.png)
 
-_Innhold som kan søkes på_ Saktittel Saksbeskrivelse Sakskommentarer
+**Innhold som kan søkes på** Saktittel Saksbeskrivelse Sakskommentarer
 
-_Stor-/små bokstaver_ Tekstsøket er ikke følsomt for store eller små bokstaver.
+**Stor-/små bokstaver** Tekstsøket er ikke følsomt for store eller små bokstaver.
 
-_Antall tegn_ Enkelt tegn Innhold som inkluderer det søkte tegnet samsvarer med mindre det er en Unicode-bokstav med en verdi som er 58 eller høyere ved starten av innholdet.
+**Antall tegn** Enkelt tegn Innhold som inkluderer det søkte tegnet samsvarer med mindre det er en Unicode-bokstav med en verdi som er 58 eller høyere ved starten av innholdet.
 
 To tegn Innhold som har ett enkelt ord, atskilt av et skilletegn som mellomrom, som samsvarer med søkefraser som er inkludert i resultatene.
 
 Tre eller flere tegn Innhold som samsvarer med søkefrasen i en hvilken som helst del av innholdet, er inkludert i resultatene.
 
-_Mellomrom_ Mellomromstegn ved begynnelsen av en søkefrase fjernes.
+**Mellomrom** Mellomromstegn ved begynnelsen av en søkefrase fjernes.
 
-_Søking etter nevnte medlemmer eller team_ Saker der et medlem eller team er nevnt i en kommentar eller beskrivelse, kan finnes ved å bruke tekstsøk:
+**Søking etter nevnte medlemmer eller team** Saker der et medlem eller team er nevnt i en kommentar eller beskrivelse, kan finnes ved å bruke tekstsøk:
 
 Medlems- eller teamnavn Søk etter navn på medlemmet eller teamet for å finne alle vanlige tekstforekomster av medlemmet eller teamnavnet.
 

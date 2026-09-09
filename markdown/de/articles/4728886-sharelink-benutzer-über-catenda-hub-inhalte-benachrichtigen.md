@@ -20,11 +20,12 @@ ShareLink sendet eine E-Mail von Catenda Hub an die von Ihnen ausgewählten Proj
 
 1. Wählen Sie zunächst bis zu 100 Inhaltselemente aus, die Sie freigeben möchten.
 
-    Beispielsweise einige Dokumente oder Themen.
+   Beispielsweise einige Dokumente oder Themen.
 
-    Ein ShareLink-Empfänger sieht dann nur diese Elemente. Wenn die Seite mit einem ShareLink-Empfänger geteilt wird, sieht er die ganze Seite, einschließlich Filter, basierend auf seinem Zugriff im Projekt.
+   Ein ShareLink-Empfänger sieht dann nur diese Elemente.
+   Wenn die Seite mit einem ShareLink-Empfänger geteilt wird, sieht er die ganze Seite, einschließlich Filter, basierend auf seinem Zugriff im Projekt.
 
-1. Klicken Sie auf die ShareLink-Schaltfläche.
+2. Klicken Sie auf die ShareLink-Schaltfläche.<br>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 
@@ -68,9 +69,9 @@ Die E-Mail-Nachricht kann so aussehen, wenn Sie einen Screenshot hinzugefügt ha
 
 1. Klicken Sie auf diesen Link und Catenda Hub öffnet eine Seite mit den freigegebenen Elementen.
 
-    oder
+   oder
 
-1. Kopieren Sie diese URL in Ihren Browser.
+2. Kopieren Sie diese URL in Ihren Browser.
 
 Wenn dem Link gefolgt wird, werden nur die ausgewählten Elemente angezeigt:
 

@@ -7,10 +7,10 @@ Dokumentsiden kan se slik ut:
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/01-intro.png)
 
 1. [Dokumentbanneret](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) strekker seg over toppen av dokumentsiden
-1. Du finner dokumenthodet under dokumentbanneret og over dokumentforhåndsvisningen.
-1. Under dokumenthodet finner du [dokumentforhåndsvisningen](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
-1. Til venstre for dokumenthodet og forhåndsvisningen finner du dokumentlisten
-1. _Denne artikkelen:_ Til høyre for dokumenthodet og forhåndsvisningen finner du høyre informasjonsmeny.
+2. Du finner dokumenthodet under dokumentbanneret og over dokumentforhåndsvisningen.
+3. Under dokumenthodet finner du [dokumentforhåndsvisningen](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
+4. Til venstre for dokumenthodet og forhåndsvisningen finner du dokumentlisten
+5. _Denne artikkelen:_ Til høyre for dokumenthodet og forhåndsvisningen finner du høyre informasjonsmeny.
 
 Når du første gang åpner et dokument, kan høyre meny være lukket. Du kan klikke på informasjonsknappen i bunnen til høyre på [dokumentbanneret](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) for å utvide denne menyen.
 
@@ -54,9 +54,9 @@ Slik kan feltene som kan fylles ut for hele dokumentet se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/06-filling-out-fields.png)
 
-_Merkelapper_ Her kan eksisterende eller nye [merkelapper](https://support.catenda.com/en/articles/4670265-labels-page) legges til. Du kan også fjerne eventuelle merkelapper som er blitt brukt på mappen eller dokumentet. Det kan være nyttig å merke mapper i stedet for hver enkelt fil for å gjøre det lettere å finne spesifikk informasjon i senere søk. Hvis flere dokumenter og mapper er valgt, kan du bruke merkelapper på dem alle samtidig.
+**Merkelapper** Her kan eksisterende eller nye [merkelapper](https://support.catenda.com/en/articles/4670265-labels-page) legges til. Du kan også fjerne eventuelle merkelapper som er blitt brukt på mappen eller dokumentet. Det kan være nyttig å merke mapper i stedet for hver enkelt fil for å gjøre det lettere å finne spesifikk informasjon i senere søk. Hvis flere dokumenter og mapper er valgt, kan du bruke merkelapper på dem alle samtidig.
 
-_Metadata gjennom egendefinerte felt_ Metadatafelt kan vises for dokumenter som er opprettet der en av de overordnede mappene er konfigurert gjennom mappeinnstillinger i dokumentinnstillinger. Feltene kan ha en standardverdi eller være tomme. _Nødvendig tilgang:_ Skriverettighet til dokumentet for å endre felt for dokumentet.
+**Metadata gjennom egendefinerte felt** Metadatafelt kan vises for dokumenter som er opprettet der en av de overordnede mappene er konfigurert gjennom mappeinnstillinger i dokumentinnstillinger. Feltene kan ha en standardverdi eller være tomme. _Nødvendig tilgang:_ Skriverettighet til dokumentet for å endre felt for dokumentet.
 
 > **Merknad:** Felt oppfører seg litt annerledes med metadata se nedenfor
 
@@ -230,7 +230,7 @@ En tidligere delt revisjon av et dokument:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/22-shared-revision-status.png)
 
-_Nødvendig tilgang:_ Lesetilgang til dokumentet Avkrysningsmerkeutsendelse for visning av delte revisjoner merket.
+**Nødvendig tilgang:** Lesetilgang til dokumentet Avkrysningsmerkeutsendelse for visning av delte revisjoner merket.
 
 En delt revisjon som er del av en åpen eller lukket godkjenningsforespørsel:
 
@@ -238,7 +238,7 @@ En delt revisjon som er del av en åpen eller lukket godkjenningsforespørsel:
 
 > **Merknad:** Det faktum at en revisjon er del av en lukket godkjenningsforespørsel betyr ikke at dette er revisjonen som førte til neste hovedversjon av dokumentet.
 
-_Nødvendig tilgang:_ Lesetilgang til dokumentet. Avkrysningsmerkeutsendelse for visning av delte revisjoner merket. Del av en innleverings-, gjennomganger- eller publisererteam for godkjenningsarbeidsflyten som revisjonen er del av. Administratorer vil ikke se denne boksen hvis de ikke også er del av ett av teamene som er involvert i godkjenningen.
+**Nødvendig tilgang:** Lesetilgang til dokumentet. Avkrysningsmerkeutsendelse for visning av delte revisjoner merket. Del av en innleverings-, gjennomganger- eller publisererteam for godkjenningsarbeidsflyten som revisjonen er del av. Administratorer vil ikke se denne boksen hvis de ikke også er del av ett av teamene som er involvert i godkjenningen.
 
 ### 8.3 **Utkastrevisionsstatus - Arv**
 
@@ -250,17 +250,17 @@ En hint om at det finnes nye utkast vises. Resten av informasjonen gjelder forts
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/25-draft-revision-status-legacy.png)
 
-_Vis siste revisjon_ Åpne revisjonsforhåndsvisningen av den siste publiserte revisjonen i dokumentet uavhengig av om det finnes nyere utkastrevisjoner eller ikke.
+**Vis siste revisjon** Åpne revisjonsforhåndsvisningen av den siste publiserte revisjonen i dokumentet uavhengig av om det finnes nyere utkastrevisjoner eller ikke.
 
 _Ny godkjenningsforespørsel_ [Opprett en ny godkjenningsforespørsel](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) for denne utkastrevisjonen.
 
-_Godkjenningskort_ Hvis et utkast er del av en godkjenning, vises godkjenningskortet for hver godkjenning som utkastet er del av her:
+**Godkjenningskort** Hvis et utkast er del av en godkjenning, vises godkjenningskortet for hver godkjenning som utkastet er del av her:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/26-draft-revision-status-legacy.png)
 
 Klikk [her](https://support.catenda.com/en/articles/8349340-approvals-page) for å lese mer om hva som vises på et godkjenningskort.
 
-_Status_ Statusen som vises er statusen for gjeldende utkastversjon. Klikk på statusrullemenyen for å endre statusen til en annen status i listen over utkaststatuser konfigurert i dokumentinnstillinger. _Nødvendig tilgang:_ skriverettighet til dokumentet.
+**Status** Statusen som vises er statusen for gjeldende utkastversjon. Klikk på statusrullemenyen for å endre statusen til en annen status i listen over utkaststatuser konfigurert i dokumentinnstillinger. _Nødvendig tilgang:_ skriverettighet til dokumentet.
 
 ## 9. **Tilgangskontroll**
 
@@ -298,7 +298,7 @@ Last opp en delt revisjon for å komme i gang med godkjenningsforespørsler.
 
 Godkjenningsmenyen er synlig for alle nye prosjekter som har bedt om å starte med den nye statusarbeidsflyten da delte statuser er aktivert som standard. Hvis ingen godkjenningsarbeidsflyter er startet og delte statuser er deaktivert i dokumentinnstillinger, vil godkjenningsmenyen være skjult.
 
-_Ingen startede godkjenningsarbeidsflyter_ Hvis en godkjenning ble gjort før de delte statusene ble deaktivert i dokumentinnstillinger med den nye godkjenningsarbeidsflyten, vil godkjenningsmenyen forbli synlig etter deaktivering av delte statuser. Når delte revisjoner er deaktivert:
+**Ingen startede godkjenningsarbeidsflyter** Hvis en godkjenning ble gjort før de delte statusene ble deaktivert i dokumentinnstillinger med den nye godkjenningsarbeidsflyten, vil godkjenningsmenyen forbli synlig etter deaktivering av delte statuser. Når delte revisjoner er deaktivert:
 
 - Delte revisjoner som ble lastet opp er fortsatt synlige i revisjonsoversikten.
 - Tidligere gjorte godkjenninger vises fortsatt i godkjenningsmenyen, men kan ikke lenger åpnes eller godkjennes.
@@ -312,11 +312,11 @@ Hvis delte statuser ikke er deaktivert med den nye statusarbeidsflyten i dokumen
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/30-shared-revisions.png)
 
-_Nødvendig tilgang for å vise delte revisjoner:_ Lesetilgang til dokumentet. Avkrysningsmerkeutsendelse for visning av delte revisjoner merket.
+**Nødvendig tilgang for å vise delte revisjoner:** Lesetilgang til dokumentet. Avkrysningsmerkeutsendelse for visning av delte revisjoner merket.
 
-_Ny godkjenningsforespørsel_ Klikk [her](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) for å lese mer om opprettelse av en ny godkjenningsforespørsel
+**Ny godkjenningsforespørsel** Klikk [her](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) for å lese mer om opprettelse av en ny godkjenningsforespørsel
 
-_Godkjenningsforespørseloversikt_ Med den nye validerararbeidsflyten er det mulig å lage et utkast av en godkjenningsarbeidsflyt. Utkastgodkjenninger vises ikke i oversikten. Så snart en godkjenningsarbeidsflyt er startet, vises den, og blir værende, i godkjenningsarbeidsflytoversikten. Et hvilket som helst antall forespørsler om godkjenning av hver av de delte revisjonene i dokumentet kan ha blitt gjort, hvorav noen fortsatt kan være åpne. Slik kan godkjenningsoversikten se ut når en av revisjonene i dokumentet er del av en åpen godkjenningsforespørsel med den nye validerararbeidsflyten når den siste revisjonen fortsatt blir validert:
+**Godkjenningsforespørseloversikt** Med den nye validerararbeidsflyten er det mulig å lage et utkast av en godkjenningsarbeidsflyt. Utkastgodkjenninger vises ikke i oversikten. Så snart en godkjenningsarbeidsflyt er startet, vises den, og blir værende, i godkjenningsarbeidsflytoversikten. Et hvilket som helst antall forespørsler om godkjenning av hver av de delte revisjonene i dokumentet kan ha blitt gjort, hvorav noen fortsatt kan være åpne. Slik kan godkjenningsoversikten se ut når en av revisjonene i dokumentet er del av en åpen godkjenningsforespørsel med den nye validerararbeidsflyten når den siste revisjonen fortsatt blir validert:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/31-shared-revisions.png)
 
@@ -324,9 +324,9 @@ Med den nye validerararbeidsflyten vises lukkede godkjenningsforespørsler også
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/32-shared-revisions.png)
 
-_Nødvendig tilgang for å se godkjenningskort:_ Del av en innleverings-, gjennomganger- eller publisererteam for godkjenningsarbeidsflyten som revisjonen som er under godkjenning er del av. Administratorer vil ikke se dette kortet hvis de ikke også er del av ett av teamene som er involvert i godkjenningen.
+**Nødvendig tilgang for å se godkjenningskort:** Del av en innleverings-, gjennomganger- eller publisererteam for godkjenningsarbeidsflyten som revisjonen som er under godkjenning er del av. Administratorer vil ikke se dette kortet hvis de ikke også er del av ett av teamene som er involvert i godkjenningen.
 
-_Validert siste revisjon_ Når en revisjon publiseres i et dokument, er den siste revisjonen en publisert revisjon. Publiserte revisjoner kan opprettes på følgende måter med den nye statusarbeidsflyten:
+**Validert siste revisjon** Når en revisjon publiseres i et dokument, er den siste revisjonen en publisert revisjon. Publiserte revisjoner kan opprettes på følgende måter med den nye statusarbeidsflyten:
 
 - Publiseringshandlingen i de valgte varealternativhandlingene i dokumenttabellen.
 - Publiseringshandlingen i revisjonshandlingene for en delt revisjon.
@@ -340,7 +340,7 @@ Merk at det bare er mulig å laste opp utkastrevisjoner og derved lage godkjenni
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/33-new-draft-revision-but-no-approval-request-yet-legacy.png)
 
-_Ny godkjenningsforespørsel_ Klikk [her](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) for å lese mer om opprettelse av en ny godkjenningsforespørsel
+**Ny godkjenningsforespørsel** Klikk [her](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) for å lese mer om opprettelse av en ny godkjenningsforespørsel
 
 ### 10.4 **Godkjenningsforespørseloversikt - Arv**
 
@@ -372,9 +372,9 @@ Her vil du se de ulike revisjonene i dokumentet. Revisjonmenyen kan se slik ut:
 
 Med nedlastingsknappen på høyre side kan du laste ned hver revisjon. Hvis et virus oppdages, vil du se et varsel i rød tekst under revisjonen. Det anbefales ikke å laste ned en dokumentrevisjon som er infisert. Du vil ikke kunne se innholdet i en revisjon med et virus.
 
-_Tilbaketrukket revisjon_ Dokumentrevisjoner kan bare trekkes tilbake og ikke slettes. En tilbaketrukket revisjon vises som gjennomstreget. Den rette revisjonen kan lastes ned og lastes opp på nytt slik at den blir den siste revisjonen igjen.
+**Tilbaketrukket revisjon** Dokumentrevisjoner kan bare trekkes tilbake og ikke slettes. En tilbaketrukket revisjon vises som gjennomstreget. Den rette revisjonen kan lastes ned og lastes opp på nytt slik at den blir den siste revisjonen igjen.
 
-_Gjenadrening av dokumentet_ For å fjerne revisjonen helt, last ned hver revisjon. Opprett deretter et nytt dokument og last opp hver revisjon i rekkefølge. Gå til hver av de koblede sakene i det gamle dokumentet og kobl det nye dokumentet. Velg 3D-objektene som er koblet til det gamle dokumentet og kople dem til det nye dokumentet. Slett til slutt det gamle dokumentet. Alle tilkoblinger dokumentet kan ha hatt til for eksempel merknader vil gå tapt, sammen med informasjonen om hvem som lastet opp filen og når den ble lastet opp.
+**Gjenadrening av dokumentet** For å fjerne revisjonen helt, last ned hver revisjon. Opprett deretter et nytt dokument og last opp hver revisjon i rekkefølge. Gå til hver av de koblede sakene i det gamle dokumentet og kobl det nye dokumentet. Velg 3D-objektene som er koblet til det gamle dokumentet og kople dem til det nye dokumentet. Slett til slutt det gamle dokumentet. Alle tilkoblinger dokumentet kan ha hatt til for eksempel merknader vil gå tapt, sammen med informasjonen om hvem som lastet opp filen og når den ble lastet opp.
 
 ## 12. **Historikk**
 

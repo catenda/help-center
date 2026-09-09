@@ -28,9 +28,9 @@ Finn 3D-dokumentene du leter etter ved å søke på en del av navnene deres.
 
 En delvis samsvarende tekst på 3 eller flere tegn kan samsvares i listen over 3D-dokumentnavn. Whitespace-tegn som mellomrom "" er ikke inkludert i dette antallet.
 
-_Samsvar etter skilletegn_ Etter et skilletegn blir trekarakterregelen tilbakestilt, og bare tre eller flere tegn etter et skilletegn kan samsvares. Trekarakterregelen tilbakestilles etter hvert skilletegn. Skilletegn kan være tegn som understrekinger "`_`" eller bindestreker "`-`".
+**Samsvar etter skilletegn** Etter et skilletegn blir trekarakterregelen tilbakestilt, og bare tre eller flere tegn etter et skilletegn kan samsvares. Trekarakterregelen tilbakestilles etter hvert skilletegn. Skilletegn kan være tegn som understrekinger "`_`" eller bindestreker "`-`".
 
-_Innholdspanel_ For å begrense søket ytterligere, bør du vurdere å søke i innholdspanelet. Her kan du filtrere etter mer informasjon enn bare navnet på modellen. I innholdspanelet finner du alle 3D-dokumenter som er koblet til en modell på [modellsiden](https://support.catenda.com/en/articles/4670286-models-page). 3D-dokumenter som ikke er koblet til et dokument finner du på [dokumentsiden](https://support.catenda.com/en/articles/8204673-documents-page).
+**Innholdspanel** For å begrense søket ytterligere, bør du vurdere å søke i innholdspanelet. Her kan du filtrere etter mer informasjon enn bare navnet på modellen. I innholdspanelet finner du alle 3D-dokumenter som er koblet til en modell på [modellsiden](https://support.catenda.com/en/articles/4670286-models-page). 3D-dokumenter som ikke er koblet til et dokument finner du på [dokumentsiden](https://support.catenda.com/en/articles/8204673-documents-page).
 
 ### 1.2 **3D-dokumentliste**
 
@@ -60,7 +60,7 @@ Når 3D-knappen klikkes, blir den grønn. 3D-visningen av det dokumentet blir de
 
 Etter at en modell er lastet inn i minnet, kan 3D-knappen klikkes igjen. Mens objektene ikke er tilgjengelige i 3D-visningen, vil dokumentet fortsatt være lastet inn i minnet. Dette gjør at du raskt kan slå på og av dokumenter som du tidligere har lastet inn.
 
-_Laste ut fra minnet_ For å laste ut modeller fra minnet, kan du oppdatere siden eller gå til modellsiden for den bestemte modellen du vil laste ut. For å laste ut dokumenter fra minnet, trykker du på x til høyre for dokumentnavnet.
+**Laste ut fra minnet** For å laste ut modeller fra minnet, kan du oppdatere siden eller gå til modellsiden for den bestemte modellen du vil laste ut. For å laste ut dokumenter fra minnet, trykker du på x til høyre for dokumentnavnet.
 
 ### 1.5 **Sentrér objekter**
 
@@ -86,7 +86,7 @@ Ikonet for hver 3D-dokumentfiltype. Bare tilgjengelig for 3D-dokumenter.
 
 For modeller vises modellnavnet. For dokumenter vises dokumentnavnet. Dokumentlisten følger den generelle [sorteringsrekkefølgen for lister](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) i Catenda.
 
-### 1.9 **Modellrevisjon**
+### 1.9 **Modellrevision**
 
 Til høyre for 3D-dokumentnavnet kan du se grønn understreket tekst. Teksten som vises, gjenspeiler nummeret på revisjonen som blir lastet inn når 3D-knappen er aktivert. Hvis en revisjon fra 3D-dokumentet allerede er lastet inn, gjenspeiler nummeret revisjonen som er valgt og lastet inn i minnet.
 
@@ -96,25 +96,25 @@ Klikk på denne teksten for å endre den aktive revisjonen til en annen revisjon
 
 Etter at du har valgt en annen revisjon, blir den nåværende revisjonen lastet ut av minnet, og den valgte revisjonen lastes inn i minnet.
 
-_Revisjon #X_ Hvis teksten sier `#X` eller `#X.X`, er den nyeste revisjonen av 3D-dokumentet enten tilgjengelig for lasting eller allerede lastet inn.
+**Revisjon #X** Hvis teksten sier `#X` eller `#X.X`, er den nyeste revisjonen av 3D-dokumentet enten tilgjengelig for lasting eller allerede lastet inn.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/10-model-revision.png)
 
 Hvis teksten sier `#X`, er den nyeste revisjonen av 3D-dokumentet en publisert revisjon. Hvis teksten sier `#X.X`, er den nyeste revisjonen av 3D-dokumentet en delt revisjon.
 
-_#76 av 77_ Hvis den valgte revisjonen ikke er den nyeste revisjonen, vises noe som `#76 av 77`. #76 henviser til gjeldende revisjonsnummer, og 77 henviser til den nyeste publiserte eller delte revisjonen i 3D-dokumentet.
+**#76 av 77** Hvis den valgte revisjonen ikke er den nyeste revisjonen, vises noe som `#76 av 77`. #76 henviser til gjeldende revisjonsnummer, og 77 henviser til den nyeste publiserte eller delte revisjonen i 3D-dokumentet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/11-model-revision.png)
 
 Hvis den nyeste revisjonen er trukket tilbake eller har mislyktes behandling, vises noe som `#75 av 77`. #75 henviser til den nyeste revisjonen som er tilgjengelig for å vise objekter i 3D-visningen.
 
-_Gjennomstryket_ Hvis revisjonenen er gjennomstryket, er den valgte revisjonen trukket tilbake, og ingen 3D-dokumentobjekter vises.
+**Gjennomstryket** Hvis revisjonenen er gjennomstryket, er den valgte revisjonen trukket tilbake, og ingen 3D-dokumentobjekter vises.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/12-model-revision.png)
 
 Dette skjer vanligvis bare når en revisjon er lastet inn og blir trukket tilbake mens den er lastet, fordi tilbaketrukne revisjoner ikke kan velges.
 
-_Ingen tekst_ Hvis det ikke er tekst bak 3D-dokumentet, finnes det ingen revisjoner og dokumentet er tomt.
+**Ingen tekst** Hvis det ikke er tekst bak 3D-dokumentet, finnes det ingen revisjoner og dokumentet er tomt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/13-model-revision.png)
 

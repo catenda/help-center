@@ -102,8 +102,7 @@ Exporter les fichiers liés en tant que fichiers IFC séparés Si vous souhaitez
 
 Exporter uniquement les objets visibles visibles dans la vue Fichier IFC.
 
-- Exporter les pièces, zones et espaces en vues 3D
-  Cette option peut être utile pour sélectionner des zones dans la visionneuse 2D.
+- Exporter les pièces, zones et espaces dans les vues 3D <br>Cette option peut être utile pour sélectionner des zones dans la Visionneuse 2D.
 
 Inclure les éléments en acier, _rempli_
 

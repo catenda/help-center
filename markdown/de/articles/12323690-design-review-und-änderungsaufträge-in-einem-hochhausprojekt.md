@@ -1,4 +1,4 @@
-# Design Review und Änderungsaufträge in einem Hochhausprojekt
+# Designüberprüfung und Änderungsaufträge bei einem Hochhaus
 
 > Branche: Gewerblicher Hochbau Persona: Maria, eine Projektarchitektin in einem großen Unternehmen.
 

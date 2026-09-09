@@ -27,7 +27,7 @@ Dette vil hjelpe deg med å forstå fra hvilken plassering i prosjektet objekten
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/02-intersecting-space-query.png)
 
 1. Høyreklikk på et rom
-1. Velg _Kryssende rom_
+2. Velg _Kryssende rom_
 
 Dette vil laste all geometri som krysser den aksealjusterte avgrensningsboksen til rommet.
 
@@ -38,7 +38,7 @@ Dette vil laste all geometri som krysser den aksealjusterte avgrensningsboksen t
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/04-intersecting-storey-query.png)
 
 1. Høyreklikk i viseren
-1. Velg _Kryssende etasje_
+2. Velg _Kryssende etasje_
 
 Dette vil laste all geometri inne i topp- og bunnplanene til etasjen.
 
@@ -49,18 +49,18 @@ Dette vil laste all geometri inne i topp- og bunnplanene til etasjen.
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/06-rectangle-selection.png)
 
 1. Klikk på knappen for spørring-rektangel.
-1. Klikk, dra og slipp for å tegne et rektangel.
-1. Angi modellene du vil laste i spørringspopover.
+2. Klikk, dra og slipp for å tegne et rektangel.
+3. Angi modellene du vil laste i spørringspopover.
 
-_Spørringspopover_
+**Spørringspopover**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/07-rectangle-selection.png)
 
 1. Velg gjeldende Etasje eller Full høyde.
-1. Velg Hvilken som helst, Ekstern eller Intern.
-1. Slå alle modeller på eller av.
-1. Velg hvilke modeller du vil inkludere i spørringen.
-1. Opprett spørring.
+2. Velg Hvilken som helst, Ekstern eller Intern.
+3. Slå alle modeller på eller av.
+4. Velg hvilke modeller du vil inkludere i spørringen.
+5. Opprett spørring.
 
 ## 4. **Egenskapsbibliotek-spørring**
 

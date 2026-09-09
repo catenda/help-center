@@ -9,10 +9,10 @@ Voici à quoi le menu du flux de travail des statuts peut ressembler après l'ac
 Lorsque le flux de travail des statuts est activé, les éléments suivants changent dans le projet :
 
 - Les phases Brouillon et Publié sont rendues disponibles.
-    - Publié - Le statut Publié figure dans la liste par défaut.
-    - Brouillon - Les statuts En cours et Partagé figurent dans la liste par défaut
+  - Publié - Le statut Publié figure dans la liste par défaut.
+  - Brouillon - Les statuts En cours et Partagé figurent dans la liste par défaut
 - Les nouvelles informations soumises à la phase de brouillon par défaut.
-    - Peut être téléchargé à la phase de publication avec une case à cocher.
+  - Peut être téléchargé à la phase de publication avec une case à cocher.
 - Le statut par défaut est défini sur Aucun statut.
 - Un menu d'approbations dans les paramètres des documents apparaît.
 - Une sous-page [approbations](https://support.catenda.com/en/articles/5784717-document-approval) de la page des documents apparaît.

@@ -52,15 +52,15 @@ Når du åpner innholdet i en medlemmerrad, åpnes [medlemmersiden](https://supp
 
 Medlemmertabellen kan inneholde følgende kolonner:
 
-_Avmerkingsboks_ Utvalgsfeltet for raden.
+**Avmerkingsboks** Utvalgsfeltet for raden.
 
-_Navn_ Ikon - Profilbilder for medlemmer som har et profilbilde. Ikon - Initialer for medlemmer uten et profilbilde. Primærinformasjon - Brukernavnet på medlemmet. Sekundærinformasjon - E-postadressen til medlemmet. Klikk på e-postadressen for å kopiere e-postadressen til det medlemmet. I prosjekter der autentisering med flere faktorer er påkrevd, kan det ses en rød lås i navnekolonnen for medlemmer som har godtatt invitasjonen til prosjektet, men som ikke har konfigurert en sikkerhetskode. Uten sikkerhetskoden vil disse medlemmene ikke kunne få tilgang til prosjektet.
+**Navn** Ikon - Profilbilder for medlemmer som har et profilbilde. Ikon - Initialer for medlemmer uten et profilbilde. Primærinformasjon - Brukernavnet på medlemmet. Sekundærinformasjon - E-postadressen til medlemmet. Klikk på e-postadressen for å kopiere e-postadressen til det medlemmet. I prosjekter der autentisering med flere faktorer er påkrevd, kan det ses en rød lås i navnekolonnen for medlemmer som har godtatt invitasjonen til prosjektet, men som ikke har konfigurert en sikkerhetskode. Uten sikkerhetskoden vil disse medlemmene ikke kunne få tilgang til prosjektet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/07-columns.png)
 
-_rolle_ Medlemmets rolle. Eier (Blå) Administrator (Oransje) Medlem (Grønn)
+**rolle** Medlemmets rolle. Eier (Blå) Administrator (Oransje) Medlem (Grønn)
 
-_Teams_ Hvert medlem kan være en del av flere teams. Teamet som medlemmet tilhører vises i denne kolonnen. Administrator-team (Oransje) Medlem-team (Grønn) Hvis det totale antallet teams som medlemmet tilhører ikke passer, justerer du bredden på kolonnen eller klikker på de tre prikkene for å se resten.
+**Teams** Hvert medlem kan være del av flere team. Teamene som et medlem tilhører vises i denne kolonnen. Administrator-team (Oransje) Medlemsteam (Grønt) Hvis det totale antallet team et medlem tilhører ikke passer, juster bredden på kolonnen eller klikk på de tre prikkene for å se resten.
 
 ## 5. **Teams-fanen**
 
@@ -80,10 +80,10 @@ Når du åpner innholdet i en team-rad, åpnes [teamsiden](https://support.caten
 
 ### 5.2 **Kolonner**
 
-_Avmerkingsboks_ Utvalgsfeltet for raden.
+**Avmerkingsboks** Utvalgsfeltet for raden.
 
-_Navn_ Ikon - Profilbilder for teams med et profilbilde. Ikon - Initialer for teams uten et profilbilde. Primærinformasjon - @ etterfulgt av navnet på teamet. Sekundærinformasjon - Antallet medlemmer i teamet.
+**Navn** Ikon - Profilbilder for teams med et profilbilde. Ikon - Initialer for teams uten et profilbilde. Primærinformasjon - @ etterfulgt av navnet på teamet. Sekundærinformasjon - Antallet medlemmer i teamet.
 
-_rolle_ Teamets rolle. Administrator (Oransje) Medlem (Grønn)
+**rolle** Teamets rolle. Administrator (Oransje) Medlem (Grønn)
 
-_Medlemmer_ Medlemmene i dette teamet. Hvis det totale antallet medlemmer i dette teamet ikke passer, justerer du bredden på kolonnen eller kolonnen klikker på de tre prikkene for å se resten
+**Medlemmer** Medlemmene i dette teamet. Hvis det totale antallet medlemmer i dette teamet ikke passer, justerer du bredden på kolonnen eller kolonnen klikker på de tre prikkene for å se resten

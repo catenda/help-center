@@ -2,7 +2,10 @@
 
 > **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
 
-Si l'application Catenda SharePoint est ajoutée à un site SharePoint, les fichiers peuvent être publiés de SharePoint vers Catenda et la structure des documents Catenda peut être affichée dans SharePoint. Une fois configurée, l'application peut ressembler à ceci : <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/> Cet article contient des informations sur le fonctionnement de cette application Voir [ici](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq) pour plus d'informations sur la façon dont cette application peut être utile. Voir [ici](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app) pour savoir comment ajouter l'application SharePoint à un site.
+Si l'application Catenda SharePoint est ajoutée à un site SharePoint, les fichiers peuvent être publiés de SharePoint vers Catenda et la structure des documents Catenda peut être affichée dans SharePoint. Une fois configurée, l'application peut ressembler à ceci : <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/>
+Cet article contient des informations sur le fonctionnement de cette application
+Voir [ici](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq) pour plus d'informations sur la façon dont cette application peut être utile.
+Voir [ici](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app) pour savoir comment ajouter l'application SharePoint à un site.
 
 ## 1. **Publication vers Catenda avec la commande de liste**
 

@@ -50,7 +50,7 @@ Du kan ikke slette en saksliste i Catenda Hub. I stedet kan du "arkivere" den sl
 
 _Navn på saksliste_ - Endre navn på sakslisten _Eier_ - Se hvem som opprettet sakslisten
 
-_Beskrivelse_ Kort beskrivelse som bare vil bli sett her, slik at du og andre som konfigurerer tavlen vet hva den brukes til.
+**Beskrivelse** Kort beskrivelse som bare vil bli sett her, slik at du og andre som konfigurerer tavlen vet hva den brukes til.
 
 ## 3. **Statuser og typer**
 
@@ -70,13 +70,13 @@ _Legg til status_ - Klikk på teksten for å legge til status nederst i statusli
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/07-status.png)
 
-_Rediger status_ Når du redigerer en status, vil du legge merke til at du kan tilordne en tredje meta-status kalt Kandidat.
+**Rediger status** Når du redigerer en status, vil du legge merke til at du kan tilordne en tredje meta-status kalt Kandidat.
 
 _Farge_ - Endre fargen på statusen.
 
-_Piler_ Endre rekkefølgen på en status ved å bruke pilene for å flytte den opp eller ned i listen. Topp-statusen vil være standardstatusen når du oppretter en ny sak. Rekkefølgen på statusene vil også være rekkefølgen som statusene vil vises i rullegardinlisten når du endrer statusen på en sak.
+**Piler** Endre rekkefølgen på en status ved å bruke pilene for å flytte den opp eller ned i listen. Topp-statusen vil være standardstatusen når du oppretter en ny sak. Rekkefølgen på statusene vil også være rekkefølgen som statusene vil vises i rullegardinlisten når du endrer statusen på en sak.
 
-_Slett_ Du kan også slette statuser her ned til et minimum på 1 åpen og 1 lukket status.
+**Slett** Du kan også slette statuser her ned til et minimum på 1 åpen og 1 lukket status.
 
 ### 3.3 **Meta-status**
 
@@ -84,7 +84,7 @@ Meta-statuser gir en generell ide om hvor i arbeidsflyten statusen på en sak er
 
 > **Merk:** Du kan konfigurere hvem som har tillatelse til å endre statusen på en sak med en åpen meta-status til en status med en lukket meta-status i [tilgangsstyringsdelen](#h_82063f7a79).
 
-_Kandidat_ Saker med en kandidat meta-status er også skjult som standard. Denne statusen er ment for saker som verken er åpne eller lukket. Kandidat meta-statusen er ment for å la folk vite at en sak ikke er helt ferdig utdannet ennå, så den er ikke åpen ennå. I arbeidsflyten er den derfor ment å komme før åpen. Imidlertid bruker noen mennesker også denne statusen for saker som har falt utenfor den vanlige arbeidsflyten. Som en sak som ikke er ferdig og derfor lukket, men bare ikke lenger relevant. Folk vil ikke se det i listen som standard og bruker derfor denne meta-statusen.
+**Kandidat** Saker med en kandidat meta-status er også skjult som standard. Denne statusen er ment for saker som verken er åpne eller lukket. Kandidat meta-statusen er ment for å la folk vite at en sak ikke er helt ferdig utdannet ennå, så den er ikke åpen ennå. I arbeidsflyten er den derfor ment å komme før åpen. Imidlertid bruker noen mennesker også denne statusen for saker som har falt utenfor den vanlige arbeidsflyten. Som en sak som ikke er ferdig og derfor lukket, men bare ikke lenger relevant. Folk vil ikke se det i listen som standard og bruker derfor denne meta-statusen.
 
 Minimumsantallet statuser er en åpen status og en lukket status.
 
@@ -110,11 +110,11 @@ Etter å ha klikket på knappen, kan du velge ditt egendefinerte felt i dialogbo
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/10-add-custom-field.png)
 
-_Velg et egendefinert felt_ Følgende typer egendefinerte felt kan gjøres tilgjengelige for en saksliste: Dato Desimal Rullegardin Heltall Tekst
+**Velg et egendefinert felt** Følgende typer egendefinerte felt kan gjøres tilgjengelige for en saksliste: Dato Desimal Rullegardin Heltall Tekst
 
-_Merk som påkrevd_ Ja eller nei Hvis det egendefinerte feltet er satt som påkrevd, vil ikke brukerne kunne sende inn en sak uten å fylle ut dette egendefinerte feltet.
+**Merk som påkrevd** Ja eller nei Hvis det egendefinerte feltet er satt som påkrevd, vil ikke brukerne kunne sende inn en sak uten å fylle ut dette egendefinerte feltet.
 
-_Angi standardverdi_ Standardverdi for din egendefinerte felttype. Standardverdien er obligatorisk når det egendefinerte feltet er merket som påkrevd.
+**Angi standardverdi** Standardverdi for din egendefinerte felttype. Standardverdien er obligatorisk når det egendefinerte feltet er merket som påkrevd.
 
 Husk å klikke legg til når du er ferdig.
 
@@ -126,11 +126,11 @@ Ved å klikke på et egendefinert felt som er lagt til, kan du konfigurere innst
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/11-modifying-custom-fields.png)
 
-_Merk som påkrevd_ Ja eller nei Hvis det egendefinerte feltet er satt som påkrevd, vil ikke brukerne kunne sende inn en sak uten å fylle ut dette egendefinerte feltet.
+**Merk som påkrevd** Ja eller nei Hvis det egendefinerte feltet er satt som påkrevd, vil ikke brukerne kunne sende inn en sak uten å fylle ut dette egendefinerte feltet.
 
-_Angi standardverdi_ Standardverdi for din egendefinerte felttype. Standardverdien er obligatorisk når det egendefinerte feltet er merket som påkrevd.
+**Angi standardverdi** Standardverdi for din egendefinerte felttype. Standardverdien er obligatorisk når det egendefinerte feltet er merket som påkrevd.
 
-_Fjern fra saksliste_ Klikk knappen Fjern fra saksliste for å fjerne dette egendefinerte feltet fra sakslisten.
+**Fjern fra saksliste** Klikk knappen Fjern fra saksliste for å fjerne dette egendefinerte feltet fra sakslisten.
 
 Husk å klikke send.
 
@@ -156,14 +156,14 @@ For at saker som inneholder felt med verdier som ikke finnes i sakslisten, skal 
 
 Eksempler på felt med verdier som kanskje ikke finnes i en saksliste er:
 
-_Status eller type_ For at en sak skal vises i sakstabellen, må den ha en status og type med en GUID som samsvarer med en GUID for en status og type som er konfigurert for en saksliste. Selv om navnene på statuser og typer er de samme i forskjellige sakslister, hvis saken flyttes fra en tavle til en annen, vil statusen/typen være ukoblet fordi GUID for en status/type er unik for hver saksliste.
+**Status eller type** For at en sak skal vises i sakstabellen, må den ha en status og type med en GUID som samsvarer med en GUID for en status og type som er konfigurert for en saksliste. Selv om navnene på statuser og typer er de samme i forskjellige sakslister, hvis saken flyttes fra en tavle til en annen, vil statusen/typen være ukoblet fordi GUID for en status/type er unik for hver saksliste.
 
-_Medlemmer_ For at en sak skal vises i sakstabellen, må alle medlemmer som er del av saken, finnes i prosjektet. Følgende felt kan inneholde medlemmer i en sak: Tildelt bruker Bruker som ber om det Bruker som kommenterer
+**Medlemmer** For at en sak skal vises i sakstabellen, må alle medlemmer som er del av saken, finnes i prosjektet. Følgende felt kan inneholde medlemmer i en sak: Tildelt bruker Bruker som ber om det Bruker som kommenterer
 
 ### 6.2 **Koble felter**
 
 Ofte importeres flere saker samtidig. For å gjøre det slik at ikke hvert enkelt felt må endres til en eksisterende verdi, er det mulig å kartlegge alle felt av en gang til en eksisterende verdi i sakslisten.
 
-_Status eller type_ For hver status og type som ikke finnes i sakslisten, velger du en eksisterende status eller type. Den ukoblede statusen eller typen kan ha samme navn som en eksisterende status eller type, men kan fortsatt være ukoblet fordi den har en annen GUID i bakgrunnen. I dette tilfellet er kartleggingen enkel – velg bare statusen eller typen med samme navn. Hvis det ikke finnes en status eller type med samme navn på tavlen som saken ble importert til, må du velge en status eller type med et annet navn som finnes på tavlen. Hvis ingen av dem passer, bør du vurdere å legge til en annen status i listen over typer eller statuser i sakslisten.
+**Status eller type** For hver status og type som ikke finnes i sakslisten, velger du en eksisterende status eller type. Den ukoblede statusen eller typen kan ha samme navn som en eksisterende status eller type, men kan fortsatt være ukoblet fordi den har en annen GUID i bakgrunnen. I dette tilfellet er kartleggingen enkel – velg bare statusen eller typen med samme navn. Hvis det ikke finnes en status eller type med samme navn på tavlen som saken ble importert til, må du velge en status eller type med et annet navn som finnes på tavlen. Hvis ingen av dem passer, bør du vurdere å legge til en annen status i listen over typer eller statuser i sakslisten.
 
-_Brukere_ Hver bruker i importerte saker som ikke finnes i prosjektet, må kartlegges til enten en bruker eller et team i prosjektet. Etter kartlegging vil sakene bli etterspurt av eller tildelt denne brukeren, og alle kommentarer vil se ut til å være gjort av den kartlagte brukeren. Hvis brukeren har endret e-postadresse, er kartleggingen enkel – velg bare brukeren etter navn med kontoen som de bruker med sin nye e-postadresse. Hvis det ikke finnes en lignende bruker som kan kartlegges i prosjektet, er en god strategi å opprette et team som fungerer som denne brukeren. På denne måten er det mulig å finne alle handlinger fra importerte saker gjort av denne brukeren ved å filtrere på det kartlagte teamet.
+**Brukere** Hver bruker i importerte saker som ikke finnes i prosjektet, må kartlegges til enten en bruker eller et team i prosjektet. Etter kartlegging vil sakene bli etterspurt av eller tildelt denne brukeren, og alle kommentarer vil se ut til å være gjort av den kartlagte brukeren. Hvis brukeren har endret e-postadresse, er kartleggingen enkel – velg bare brukeren etter navn med kontoen som de bruker med sin nye e-postadresse. Hvis det ikke finnes en lignende bruker som kan kartlegges i prosjektet, er en god strategi å opprette et team som fungerer som denne brukeren. På denne måten er det mulig å finne alle handlinger fra importerte saker gjort av denne brukeren ved å filtrere på det kartlagte teamet.

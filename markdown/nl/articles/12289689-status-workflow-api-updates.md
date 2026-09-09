@@ -64,8 +64,8 @@ Eerder werden alle revisies impliciet als "officieel" beschouwd. Nu:
 **Vereiste acties voor plug-in-ontwikkelaars:**
 
 1. Evalueer of u revisie-informatie weergeeft
-1. Overweeg richtlijnen voor gebruikers over revisietypen toe te voegen
-1. Plan voor mogelijke gebruikersverwarring over nummerings discrepanties
+2. Overweeg richtlijnen voor gebruikers over revisietypen toe te voegen
+3. Plan voor mogelijke gebruikersverwarring over nummerings discrepanties
 
 ### 3.3 Ook beïnvloed
 

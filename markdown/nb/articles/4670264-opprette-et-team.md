@@ -38,7 +38,7 @@ Skriv inn navnet på teamet her. Teamnavn må være unike per prosjekt.
 
 I rolleområdet kan du konfigurere rollen som medlemmer som skal være del av dette teamet, skal ha.
 
-_Administrator_ Hvis teamet får administratorrollen, vil hvert medlem av det teamet ha administratortilgang uavhengig av om de som medlem er administrator eller ikke. Administratorer har full tilgang til prosjektet med noen få unntak: - Sletting av prosjektet, bare projekteiere kan gjøre dette. - Noen brukerspesifikke visninger, for eksempel private bokmerker, samlinger og private bibliotekinnstillinger.
+**Administrator** Hvis teamet får administratorrollen, vil hvert medlem av det teamet ha administratortilgang uavhengig av om de som medlem er administrator eller ikke. Administratorer har full tilgang til prosjektet med noen få unntak: - Sletting av prosjektet, bare projekteiere kan gjøre dette. - Noen brukerspesifikke visninger, for eksempel private bokmerker, samlinger og private bibliotekinnstillinger.
 
 _Medlem_ - Som standard vil medlemmer ha lese- og skrivetilgang til de fleste funksjoner, samt slettetilgang til sitt eget innhold. Medlemmer kan bli ytterligere begrenset av tilgangskontrollregler i ulike deler av appen, for eksempel dokumenter, sakslister og mer.
 

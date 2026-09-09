@@ -1,4 +1,4 @@
-# Coordination de la conception numérique et résolution des problèmes pour un projet hospitalier
+# Coordination de la conception et résolution des problèmes - Hôpital
 
 > Secteur : Construction de santé / BIM (modélisation des informations du bâtiment) Persona : David, coordonnateur BIM pour un grand entrepreneur général.
 
@@ -24,7 +24,7 @@ En naviguant dans le modèle 3D, David repère immédiatement le problème. Les 
 
 - Il isole uniquement les éléments qui clashent : les supports en acier, le mur spécifique, le disjoncteur, et le chemin de câbles.
 - Il utilise une coupe de section pour créer une vue claire et dégagée du point de collision.
-- Il enregistre cet état précis — y compris l'angle de caméra, la visibilité des objets et la coupe de section — comme un signet intitulé « **Clash : Support IRM vs. Salle électrique 204** ».
+- Il enregistre cet état précis, y compris l'angle de la caméra, la visibilité des objets et la coupe transversale, en tant que signet intitulé "**clash: MRI Support vs. Elec Room 204**".
 
 ### **3. Création et attribution d'un problème exploitable :**
 

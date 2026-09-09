@@ -88,22 +88,24 @@ Dankzij uw waardevolle feedback hebben we veel topics kunnen oplossen die je al 
 
 - Het is nu mogelijk om de ACL per model in te stellen in plaats van voor alle modellen.
 
-    Dit betekent dat je modellen in de modellengedeelte voor mensen verborgen kunt houden.
+  Dit betekent dat je modellen in de modellengedeelte voor mensen verborgen kunt houden.
 
 - Met modellen als documenten kun je labels aan modellen toevoegen.
+
 - Met modellen als documenten kun je modellen in folders in de documenten-sectie structureren.
+
 - Met modellen als documenten kun je de bestandsgrootte van het model zien
+
 - Met modellen als documenten kun je de naamgevingsconventie-functie met modellen gebruiken
+
 - Het is opnieuw mogelijk om vorige revisies van modellen in de revisie-selector te bekijken
 
 ### 3.4 **Projectinstellingen**
 
 - Labelgroepen kunnen nu worden verwijderd.
 - Het is nu mogelijk om labels die gekoppeld zijn aan topics/documenten te verwijderen.
-- Labelgroepen kunnen worden bewerkt.
-  Je kunt het bewerkingspotlood vinden in het menu met informatie aan de rechterkant nadat je de labelgroep in het tabblad groepen hebt geselecteerd.
-- Het is nu mogelijk om meerdere labels tegelijk te maken.
-  Let op de knop voor meerdere importeren in het menu voor nieuwe labels.
+- Labelgroepen kunnen nu worden bewerkt.<br>U vindt het bewerkingspotlood in het rechtsinformatiemenu nadat u de labelgroep in het tabblad groepen hebt geselecteerd.
+- Het is nu mogelijk om meerdere labels tegelijk aan te maken.<br>Let op de knop Meerdere importeren in het nieuwe labelmenu.
 - Het is nu mogelijk om meerdere labels tegelijk te verwijderen.
 - Labels kunnen worden gefilterd en filters kunnen worden opgeslagen.
 - Het is nu mogelijk om nieuwe labelgroepen toe te voegen
@@ -114,10 +116,10 @@ Dankzij uw waardevolle feedback hebben we veel topics kunnen oplossen die je al 
 ### 3.5 **Algemeen**
 
 - Het maken van nieuwe projecten van sjabloonprojecten is verbeterd. Het is nu mogelijk om de volgende onderdelen van een project naar een nieuw project te brengen:
-    - Mappenstructuur
-    - Documentstatusconfiguratie
-    - Document- en topic-bord toegangscontrole
-    - Aangepaste velden en naamgevingsconventies
+  - Mappenstructuur
+  - Documentstatusconfiguratie
+  - Document- en topic-bord toegangscontrole
+  - Aangepaste velden en naamgevingsconventies
 
 ## 4. **Nieuwe releases** - Catenda Site, Plug-ins en integraties
 

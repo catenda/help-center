@@ -14,11 +14,11 @@ Når nye funksjoner lanseres og feil blir fikset, oppdateres artikler med endrin
 
 ### 1.1 **Nye artikler:**
 
-_Kontoadministrasjon_
+**Kontoadministrasjon**
 
 - [Kontoknapper](https://support.catenda.com/en/articles/4670260-account-buttons)
 
-_Feilsøking_
+**Feilsøking**
 
 - [Feilsøking for 3D-øyeblikksbilder](https://support.catenda.com/en/articles/12831346-3d-snapshots-troubleshooting)
 - [Feilsøking for dokumentinnstillinger](https://support.catenda.com/en/articles/12521958-document-settings-troubleshooting)
@@ -26,69 +26,69 @@ _Feilsøking_
 
 ### 1.2 **Artikler som har endret seg:**
 
-_Kontoadministrasjon_
+**Kontoadministrasjon**
 
 - Kontoinnstillinger
-    - [Varselfiltrering og funksjonalitet](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
-    - [Kontoside](https://support.catenda.com/en/articles/6880968-account-page)
+  - [Varselfiltrering og funksjonalitet](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
+  - [Kontoside](https://support.catenda.com/en/articles/6880968-account-page)
 
-_Produktfunksjoner_
+**Produktfunksjoner**
 
 - Dashbord
-    - [Dashbordside](https://support.catenda.com/en/articles/8212646-dashboard-page)
+  - [Dashbordside](https://support.catenda.com/en/articles/8212646-dashboard-page)
 - Saker
-    - [Filtrering på sakssiden](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
-    - [Sakshandlinger](https://support.catenda.com/en/articles/4670284-topics-table-actions)
-    - [Eksportere saker til PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
-    - [Sak header - Emnet for en sak](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
-    - [Bytt saker](https://support.catenda.com/en/articles/4670289-exchange-topics)
+  - [Filtrering på sakssiden](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
+  - [Sakshandlinger](https://support.catenda.com/en/articles/4670284-topics-table-actions)
+  - [Eksportere saker til PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
+  - [Sak header - Emnet for en sak](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
+  - [Bytt saker](https://support.catenda.com/en/articles/4670289-exchange-topics)
 - Modeller
-    - [Revisjonsvelger](https://support.catenda.com/en/articles/4670279-revision-selector)
-    - [Filtrering på objektsiden](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-    - [Filtrering på modelleringssiden](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-    - [Høyremeny på modelleringssiden](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
-    - [Rulleplan rullegardin](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
-    - [Bokmerke innholdsside](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
+  - [Revisjonsvelger](https://support.catenda.com/en/articles/4670279-revision-selector)
+  - [Filtrering på objektsiden](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+  - [Filtrering på modelleringssiden](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
+  - [Høyremeny på modelleringssiden](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
+  - [Rulleplan rullegardin](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
+  - [Bokmerke innholdsside](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
 - Dokumenter
-    - [Side med dokumenttilgangsoverikt](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
-    - [Filtrering på dokumentsiden](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-    - [Mapper og dokumenttilgangskontroll](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
-    - [Opprett en ny arbeitsflyt](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
-    - [Workflowside - Dokumentinnstillinger](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
-    - [Verktøy for dokumentforhåndsvisning](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-    - [Last opp en zip/filstruktur](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
-    - [Filtrering på samlingsside](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
-    - [Filtrering på gjennomgangssiden](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-    - [Filtrering på gjennomgangssiden - Eldre versjon](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+  - [Side med dokumenttilgangsoverikt](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
+  - [Filtrering på dokumentsiden](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+  - [Mapper og dokumenttilgangskontroll](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
+  - [Opprett en ny arbeitsflyt](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
+  - [Workflowside - Dokumentinnstillinger](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
+  - [Verktøy for dokumentforhåndsvisning](https://support.catenda.com/en/articles/11384618-document-preview-tools)
+  - [Last opp en zip/filstruktur](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
+  - [Filtrering på samlingsside](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
+  - [Filtrering på gjennomgangssiden](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
+  - [Filtrering på gjennomgangssiden - Eldre versjon](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
 - Innstillinger
-    - [Filtrering på medlemmer- og teamsiden](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
+  - [Filtrering på medlemmer- og teamsiden](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
 - 2D og 3D-visere
-    - [3D-viser](https://support.catenda.com/en/articles/8227211-3d-viewer)
-    - [2D-viser](https://support.catenda.com/en/articles/4854537-2d-viewer)
+  - [3D-viser](https://support.catenda.com/en/articles/8227211-3d-viewer)
+  - [2D-viser](https://support.catenda.com/en/articles/4854537-2d-viewer)
 - Catenda-plugins og integrasjoner
-    - [Manuell for Revit IFC-eksport](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual)
-    - [Manuell for IFC-eksport fra Archicad](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
-    - [Catenda Navisworks-plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
-    - [Catenda Archicad-plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
-    - [Catenda Revit-plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
-    - [Catenda Power BI-kobling](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector)
-    - [Catenda Desktop-kobling](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
-    - [Catenda Tekla-plugin](https://support.catenda.com/en/articles/6549656-catenda-tekla-plugin)
-    - [Feilsøking for Desktop-kobling](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting)
+  - [Manuell for Revit IFC-eksport](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual)
+  - [Manuell for IFC-eksport fra Archicad](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
+  - [Catenda Navisworks-plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
+  - [Catenda Archicad-plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
+  - [Catenda Revit-plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
+  - [Catenda Power BI-kobling](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector)
+  - [Catenda Desktop-kobling](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
+  - [Catenda Tekla-plugin](https://support.catenda.com/en/articles/6549656-catenda-tekla-plugin)
+  - [Feilsøking for Desktop-kobling](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting)
 
-_Feilsøking_
+**Feilsøking**
 
 - [Feilsøking for Zip-opplasting](https://support.catenda.com/en/articles/11017391-zip-upload-troubleshooting)
 
-_Brukseksempler_
+**Brukseksempler**
 
 - Gjennomganger
-    - [Dokumentvurdering i gjennomgangsflyten](https://support.catenda.com/en/articles/12628468-document-review-in-approval-workflow)
-    - [Send inn og håndter gjennomganger: Guide for tegner](https://support.catenda.com/en/articles/12627979-submit-manage-approvals-guide-for-drafters)
-    - [Endelige gjennomgangsbeslutninger gjort enkelt](https://support.catenda.com/en/articles/12629484-final-approval-decisions-made-easy)
-    - [Håndtering av gjennomganger som administrator](https://support.catenda.com/en/articles/12620829-managing-approvals-as-administrator)
+  - [Dokumentvurdering i gjennomgangsflyten](https://support.catenda.com/en/articles/12628468-document-review-in-approval-workflow)
+  - [Send inn og håndter gjennomganger: Guide for tegner](https://support.catenda.com/en/articles/12627979-submit-manage-approvals-guide-for-drafters)
+  - [Endelige gjennomgangsbeslutninger gjort enkelt](https://support.catenda.com/en/articles/12629484-final-approval-decisions-made-easy)
+  - [Håndtering av gjennomganger som administrator](https://support.catenda.com/en/articles/12620829-managing-approvals-as-administrator)
 
-_Ofte stilte spørsmål_
+**Ofte stilte spørsmål**
 
 - [Strukturering av dokumenter](https://support.catenda.com/en/articles/8542598-structuring-documents)
 - [Eksporter alle prosjektdata](https://support.catenda.com/en/articles/7946690-exporting-all-project-data)
@@ -117,7 +117,7 @@ Takk for verdifulle tilbakemeldinger har vi kunnet fikse mange saker som dere ka
 
 - Det er igjen mulig for brukere som har MFA aktivert å åpne innholdet av prosjekter via plugins og integrasjoner.
 - Catenda som en applikasjon
-    - Det er igjen mulig å ha både 3D-viser og innholdspaneler åpne samtidig i stedet for en av gangen på 11-tommers iPad
+  - Det er igjen mulig å ha både 3D-viser og innholdspaneler åpne samtidig i stedet for en av gangen på 11-tommers iPad
 
 ## 3. **Brukerønsker fullført**
 
@@ -127,25 +127,19 @@ Takk for verdifulle tilbakemeldinger har vi kunnet fikse mange saker som dere ka
 
 ### 3.2 **Dokumenter**
 
-- Varsel sendes nå ut til brukere som er del av team som tilhører tre ulike kategorier.
-  Som del av et gjennomgangssendreteam, som del av et team som er i et av arbeitsflyttrinnet og som del av det endelige sendeteamet.
-  Det finnes varsel om ny informasjon som informasjon som sendes inn og redigeres.
-  Det finnes varsel om ansvar som når det er tid for et vurderingsteam å gjøre sin vurdering eller når det er tid for den endelige vurderen å publisere dokumentene i gjennomgangsforespørselen.
-  Og det finnes varsel om handlinger som utføres som alle vurderinger i et trinn blir sendt inn av de ulike teamene i trinnet eller den endelige avslutningen av en gjennomgangsforespørsel av det endelige vurderingsteamet.
+- Varsel blir nå sendt ut til brukere som er del av teams som tilhører tre ulike kategorier.<br>Som del av et gjennomgang-sendt-inn-team, som del av et team som er i ett av arbeidsflytstrinnet og som del av det endelige sendt-inn-teamet.<br>Det finnes varsel om ny informasjon som informasjon som blir sendt inn og redigert.<br>Det finnes varsel om ansvar som når det er tid for et vurderingsteam å gjøre deres vurdering eller når det er tid for den endelige vurderer å publisere dokumentene i gjennomgangsforespørselen.<br>Og det finnes varsel om handlinger som blir utført som all vurderinger i ett trinn som blir sendt inn av de ulike teamene i trinnet eller den endelige stengingen av en gjennomgangsforespørsel av det endelige vurderingsteamet.
 - På det siste trinnet av en gjennomgang er det i stedet for bare å viderefør og til oppfølging nå mulig for noen fra det endelige viderefører-teamet å viderefør med kommentar. Dette brukes typisk i situasjonen der den endelige viderefører ønsker å viderefør på vegne av viderefører-teamet sitt, men har noen forbehold om dokumentet. Kanskje en liten endring må gjøres, kanskje det er en akseptabel feil i dokumentet.
 
 ### 3.3 **Innstillinger**
 
 - Det er nå mulig å konfigurere teammedlemskap ved å velge en eller flere medlemmer på listen og foreta endringer for å oppdatere dem på høyremeny i stedet for å måtte gå til teamet og måtte legge til medlem for medlem.
-- Datofelt - Et nytt egendefinert felt av typen Dato har blitt gjort tilgjengelig.
-  Hvis dette feltet gjøres tilgjengelig for saker eller dokumenter, kan hvert datofelt som har blitt gjort tilgjengelig for en sak/dokument få en dato ved å klikke på det og velge en dato i en kalender.
-  Datofelt er ikke tilgjengelig for navngivningskonvensjoner, men de er tilgjengelige via API-et.
+- Datofelt - Et nytt egendefinert felt er blitt gjort tilgjengelig av typen Dato.<br>Hvis dette feltet gjøres tilgjengelig for saker eller dokumenter, kan hver datofelt som er gjort tilgjengelig for en sak/et dokument få en dato ved å klikke på det og velge en dato i en kalender. <br>Datofelt er ikke tilgjengelig for navnekonvensjoner, men de er tilgjengelig via API-en.
 
 ## 4. **Nye utgivelser** - Plugins og integrasjoner
 
-_Catenda PowerBI Connector v1.0.0_ Det er nå mulig å få saker med åpne meta-statuser samt saker med lukkede meta-statuser.
+**Catenda PowerBI Connector v1.0.0** Det er nå mulig å få saker med åpne meta-statuser samt saker med lukkede meta-statuser.
 
-_Catenda Archicad Plugin v1.0.1.17_ Støtte for Archicad 29 Det er nå mulig å velge mellom undersøkelespunkt og prosjektopprinnelse i koordinathandlingsmenyen. Visningspunkter spilles nå relativt til koordinatinnstillingen konfigurert i koordinathandlingsmenyen. Støtte for ny statusarbeitsflyt med publiserte og delte større og mindre revisjoner.
+**Catenda Archicad Plugin v1.0.1.17** Støtte for Archicad 29 Det er nå mulig å velge mellom undersøkelespunkt og prosjektopprinnelse i koordinathandlingsmenyen. Visningspunkter spilles nå relativt til koordinatinnstillingen konfigurert i koordinathandlingsmenyen. Støtte for ny statusarbeitsflyt med publiserte og delte større og mindre revisjoner.
 
 _Revit-plugin v1.0.15_
 
@@ -156,4 +150,4 @@ _Revit-plugin v1.0.15_
 
 > **Merknad:** Avinstallering av forrige versjon og installering av ny versjon er nødvendig for å bruke dette plugin-programmet.
 
-_Tekla-plugin v1.4.0_ Støtte for ny statusarbeitsflyt med publiserte og delte større og mindre revisjoner. Støtte for Tekla 2023, Tekla 2024 og Tekla 2025
+**Tekla-plugin v1.4.0** Støtte for ny statusarbeitsflyt med publiserte og delte større og mindre revisjoner. Støtte for Tekla 2023, Tekla 2024 og Tekla 2025

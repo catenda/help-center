@@ -22,8 +22,7 @@ Les propriétaires d'organisation auront accès aux éléments suivants :
 
 - L'outil d'organisation
 - Créer des projets tant que votre plan le permet.
-- Déplacer les projets vers d'autres organisations qu'ils possèdent.
-  Cela libérera une place permettant la création de nouveaux projets.
+- Déplacer les projets vers d'autres organisations qu'ils possèdent. <br>Cela libérera une place permettant de créer de nouveaux projets.
 
 > **Remarque :** Les propriétaires d'organisation sont configurés par Catenda. Si vous souhaitez ajouter ou supprimer un propriétaire d'organisation, veuillez demander à votre personne de contact de nous contacter et nous serons heureux de vous aider.
 

@@ -22,8 +22,7 @@ Organisatieeigenaren hebben toegang tot het volgende:
 
 - De organisatietool
 - Projecten maken zolang uw plan dit toestaat.
-- Projecten naar andere organisaties verplaatsen die zij bezitten.
-  Dit geeft ruimte voor het maken van nieuwe projecten.
+- Projecten verplaatsen naar andere organisaties die zij bezitten. <br>Dit maakt ruimte vrij voor het aanmaken van nieuwe projecten.
 
 > **Opmerking:** Organisatieeigenaren worden geconfigureerd door Catenda. Als u een organisatieeigenaar wilt toevoegen/verwijderen, laat uw contactpersoon ons ondersteuningsteam bereiken en wij helpen u graag.
 

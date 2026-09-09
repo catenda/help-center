@@ -52,11 +52,9 @@ Een primaire uitdaging met deze strategie is dat zodra alle aanduidingsstreepjes
 
 **2.2.4 De configuratie:**
 
-- **Bronveld**
-  Tekstangepast veld geconfigureerd met een strikte, vaste lengte (bijv. 2 of 3 tekens) of een vervolgkeuzeangepast veld met de exact toegestane variaties.
+- **Bronveld**<br>Tekstueel aangepast veld met een strikte, vaste lengte (bijv. 2 of 3 tekens) of een Vervolgkeuzeveld met de exact toegestane variaties.
 - **Document Identifier:** Uit.
-- **Het resultaat**
-  Wanneer Sarah `FloorPlan_--.pdf` uploadt, gevolgd later door `FloorPlan_-a.pdf`, leest het platform de veranderende reeksetiketten voor validatie maar verwijdert ze bij het benoemen van het bestand in de werkruimte. Tom en het designteam zien een enkele documentcontainer met de naam `FloorPlan` waar historische variaties als revisies worden gestapeld zonder volgende tekens te verschuiven.
+- **Het resultaat**<br>Wanneer Sarah `FloorPlan_--.pdf` en later `FloorPlan_-a.pdf` uploadt, leest het platform de veranderende reekstags voor validatie maar verwijdert ze bij het benoemen van het bestand in de werkruimte. Tom en het ontwerpteam zien een enkele documentcontainer genaamd `FloorPlan` waar historische variaties gestapeld zijn als revisies zonder volgende tekens te verschuiven.
 
 ### 2.3 Eenvoudige numerieke volgreeks (`01`, `02`, `03`)
 
@@ -84,8 +82,7 @@ Een primaire uitdaging met deze strategie is dat zodra alle aanduidingsstreepjes
 **3.4 De configuratie:**
 
 - **Bronveld:** Vervolgkeuzeangepast veld.
-- **Installatieinstelling**
-  De "Code" is ingesteld op overeenkomst met Elena's lokale bestandsnaammarkeringen (`W`, `D`, `P`), terwijl de "Naam" volledig is uitgeschreven als weergavewaarde (`Work in Progress`, `Draft`, `Published`).
+- **Toewijzingsinstellingen**<br>De "Code" is ingesteld om overeen te komen met Elena's lokale bestandsnaammarkeringen (`W`, `D`, `P`), terwijl de "Naam" volledig wordt uitgeschreven als weergavewaarde (`Work in Progress`, `Draft`, `Published`).
 - **Document Identifier:** Uit.
 
 **3.5 Het resultaat** Wanneer Elena `HVAC_Layout_W.pdf` uploadt, past het systeem de code `W` aan en vult automatisch de metagegevensweergave in als `Work in Progress`. Wanneer Marcus het menu rechts informatie uitvouwt om het bestand te controleren, blijft de kerndocumentnaam een schone, statische `HVAC_Layout`, terwijl de sectie **Revisie-informatie** expliciet "Work in Progress" weergeeft.
@@ -106,20 +103,13 @@ In deze variant verandert de datum met elke nieuwe bestandsupload en vertegenwoo
 
 **4.3.1 Drie afzonderlijke gehele getalblokken**
 
-- **Structuur**
-  Als een onderstrepingsteken (`_`) als primair scheidingsteken is ingesteld, kan het bestand als `Daily_Report_09_07_2026.pdf` worden opgemaakt.
-  Dit maakt gebruik van drie afzonderlijke gehele getallen aangepaste velden: dag, maand en jaar.
-- **Document Identifier-beperkingen**
-  Als de Document Identifier voor deze drie blokken is **Ingeschakeld**, wordt de datum permanent als onderdeel van de documentnaam geïntegreerd.
-  Dit creëert voor elke enkele revisie een afzonderlijke documentcontainer, en de datumwaarden blijven permanent omdat documentnamen in naamgevingsmapppen niet kunnen worden gewijzigd.
-  Om de datumvelden toe te staan en bestanden als revisies onder een enkele statische documentnaam te stapelen, is het nodig om de Document Identifier **Uit** in te schakelen voor alle drie velden.
+- **Structuur**<br>Als een onderstrepingsteken (`_`) als primair scheidingsteken wordt ingesteld, kan het bestand worden opgemaakt als `Daily_Report_09_07_2026.pdf`. <br>Dit gebruikt drie afzonderlijke aangepaste velden voor gehele getallen: Dag, Maand en Jaar.
+- **Beperkingen van documentidentificatie**<br>Als de documentidentificatie voor deze drie blokken op **Aan** is ingesteld, wordt de datum permanent in de documentnaam geïntegreerd. <br>Dit creëert voor elke afzonderlijke revisie een aparte documentcontainer en de datumwaarden blijven permanent omdat documentnamen in naamconventiemappen niet kunnen worden gewijzigd. <br>Om toe te staan dat de datumvelden variëren en bestanden als revisies onder een enkele statische documentnaam gestapeld worden, is het nodig om de documentidentificatie voor alle drie velden **Uit** te zetten.
 
 **4.3.2 Enkel tekstblok met interne scheidingstekens**
 
-- **Structuur**
-  Om het gebruik van meerdere conventieblokken te voorkomen, kan een alternatief teken (zoals een streepje) in een enkel tekstveldbock worden gebruikt, opgemaakt als `Daily_Report_09-07-2026.pdf`.
-- **Validatiebeperkingen**
-  Het is alleen mogelijk om de overkoepelende tekstreeks in een afzonderlijk blok te valideren. Daarom is het waarborgen dat de secundaire interne scheidingstekens correct worden geplaatst, volledig afhankelijk van handmatige gebruikersnauwkeurigheid tijdens de voorbereiding van het bestand.
+- **Structuur**<br>Om te voorkomen dat meerdere conventieblokken worden gebruikt, kan een ander teken (zoals een streepje) in een enkel tekstvelblok worden gebruikt, opgemaakt als `Daily_Report_09-07-2026.pdf`.
+- **Validatiebeperkingen**<br>Het is alleen mogelijk de overkoepelende teksttekenreeks in een afzonderlijk blok te valideren. Daarom is het waarborgen van correct geplaatste secundaire interne scheidingstekens volledig afhankelijk van handmatige nauwkeurigheid door de gebruiker tijdens voorbereiding van het bestand.
 
 ### 4.4 Datum voor sortering (Jaar-maand-dagvolgorde)
 
@@ -135,9 +125,7 @@ Een datumreeks zoals `260126` kan gemakkelijk worden verkeerd begrepen, omdat ni
 
 **4.4.3 Configuratie**
 
-- **Bronveld**
-  Een enkel geheel getal of tekstangepast veld aan het zeer begin van de naamgevingsconventie, opgemaakt in een strikte `YYMMDD`- of `YYYYMMDD`-reeks.
-  Om de juiste uitlijning en goede alfanumerieke sortering te behouden, moeten voorloopnullen altijd worden gebruikt voor maanden of dagen met één cijfer (bijv. `01` voor januari).
+- **Bronveld**<br>Een enkel geheel getal of tekstueel aangepast veld aan het begin van de naamconventie, opgemaakt in een strikte `YYMMDD`- of `YYYYMMDD`-volgorde. <br>Om de juiste uitlijning en juiste alfanumerieke sortering te behouden, moeten voorloopnullen altijd worden gebruikt voor getallen van één cijfer voor maand of dag (bijv. `01` voor januari).
 - **Document Identifier:** Aan.
 
 **4.4.4 Resultaat** Wanneer Oliver bestanden als `260115_Report.pdf` en `260201_Report.pdf` uploadt, worden afzonderlijke documenten gemaakt omdat de Document Identifier actief is. Omdat het jaar en de maand eerst komen en consistent dubbel-cijferige opvulling gebruiken, sorteert de documenttabel automatisch de bestanden in perfecte chronologische volgorde.

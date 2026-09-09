@@ -22,8 +22,7 @@ Organisationseigentümer haben Zugriff auf Folgendes:
 
 - Das Organisationsverwaltungstool
 - Erstellen von Projekten, solange Ihr Plan dies zulässt.
-- Verschieben von Projekten zu anderen Organisationen, die ihnen gehören.
-  Dies macht einen Platz frei und ermöglicht das Erstellen neuer Projekte.
+- Verschieben von Projekten zu anderen Organisationen, die sie besitzen. <br>Dies gibt einen Platz frei, um neue Projekte zu erstellen.
 
 > **Hinweis:** Organisationseigentümer werden von Catenda konfiguriert. Wenn Sie einen Organisationseigentümer hinzufügen oder entfernen möchten, wenden Sie sich bitte an Ihren Ansprechpartner, damit dieser unseren Support kontaktiert, und wir helfen Ihnen gerne weiter.
 

@@ -82,88 +82,55 @@ Dankzij jullie waardevol feedback hebben we veel onderwerpen kunnen oplossen die
 
 ### 3.1 **Algemeen**
 
-- **[Projecten] Projectaanmaak hersteld**
-  Het is opnieuw mogelijk projecten aan te maken.
-- **[Projecten] Aanmaak in orgs met projectlimieten**
-  Het is opnieuw mogelijk projecten in organisaties met een limiet van minder dan 100 projecten aan te maken.
-- **[Navigatie] Leeg scherm bij hervatting activiteit**
-  Pagina's geven niet meer af en toe een leeg scherm weer bij hervatting van activiteit na een periode van inactiviteit.
-- **[Lokalisatie] Toegang voor niet-Engelse taal**
-  Het is opnieuw mogelijk Catenda te openen als de taalvoorkeur op iets anders dan Engels is ingesteld.
+- **[Projecten] Projectaanmaak hersteld**<br>Het is opnieuw mogelijk om projecten aan te maken.
+- **[Projecten] Aanmaak in organisaties met projectlimieten**<br>Het is opnieuw mogelijk om projecten aan te maken in organisaties met een limiet van minder dan 100 projecten.
+- **[Navigatie] Leeg scherm bij hervatting van activiteit**<br>Pagina's geven niet langer intermitterend een leeg scherm weer wanneer de activiteit wordt hervat na een periode van inactiviteit.
+- **[Lokalisatie] Toegang tot niet-Engelse taal**<br>Het is opnieuw mogelijk om toegang te krijgen tot Catenda als de taalvoorkeur is ingesteld op iets anders dan Engels.
 
 ### 3.2 **Onderwerpen**
 
-- **[Onderwerppaneel] Gedrag selectievakje Alles selecteren**
-  Het selectievakje Alles selecteren in een onderwerppaneltabel wordt nu correct ingeschakeld en uitgeschakeld na het selecteren van alle onderwerpen.
-- **[Kanban-weergave] Zichtbaarheid subfilter schakelen**
-  In Kanban-weergave worden alleen de onderwerpen uit het subfilter weergegeven en verborgen wanneer u het filter in het filtermenu aanvinkt in plaats van alle onderwerpen van dat filtertype.
-- **[Opmaakingshint] Logo in markdown-voorbeeld**
-  De inline markdown-afbeelding in de opmaakingshint van het onderwerp geeft nu weer het Catenda-logo weer
+- **[Topic board] Selecteer alles selectievakje gedrag**<br>Het selectievakje voor alles selecteren in een topic board tabel is opnieuw correct aangevinkt en uitgevinkt na het selecteren van alle Topics.
+- **[Kanban-weergave] Zichtbaarheid van subfilters schakelen**<br>In Kanban-weergave verschijnen en verdwijnen alleen de Topics uit het subfilter wanneer u het filter in het filtermenu aanvinkt in plaats van alle Topics van dat filtertype.
+- **[Opmaakwenk] Logo in markdown-voorbeeld**<br>De inline markdown-afbeelding in de opmaakwenk van het topic-bericht geeft opnieuw het Catenda-logo weer
 
 ### 3.3 **Documenten**
 
-- **[Documentweergave] Downloadprocesfout opgelost**
-  De documentdownloadprocedure is zodanig gewijzigd dat een fout die sommige gebruikers op bepaalde documenten ondervonden hebben bij weergave ervan in de documentweergave niet meer optreedt.
-- **[Goedkeuringen] Behandeling van verouderde goedkeuringsconceptstatus**
-  Het is opnieuw mogelijk verouderde goedkeuringen in te dienen en instellingen voor verouderde goedkeuringen bij te werken waarbij een conceptstatus als resultaat voor een afgewezen document is geconfigureerd.
-- **[Documentweergave] Download-/Opslaan als menuopties**
-  De menu's Download/Opslaan als zijn opnieuw zichtbaar in het actiemenu voor documentweergave.
-- **[Documentweergave] Bestandsnamen met punten in naam**
-  Het is opnieuw mogelijk documenten in voorbeeld weer te geven die een punt halverwege de documentnaam hebben, naast de extensie.
-- **[Documentweergave] Voorbeeld van afbeeldingsbestandstypen**
-  Het is opnieuw mogelijk een voorbeeld van afbeeldingsbestandstypen weer te geven in de documentweergave
-- **[Downloads] Probleemoplossingsfout voor Litouws en Hongaars**
-  Het is opnieuw mogelijk losse documenten te downloaden wanneer de taalvoorkeur is ingesteld op Litouws of Hongaars.
-- **[Naamgevingsconventies] Probleemoplossingsfout voor Duitse umlauts**
-  Naamgevingsconventievalidatie faalt niet langer wanneer documenten met aangepaste veldcodes met Duitse umlauts worden geüpload.
-- **[Documentlijst] Witruimte-indeling bij schuiven opgelost**
-  Witruimte bedekt niet langer bepaalde documentrijen nadat je omlaag scrolt in lange lijsten met documenten in verzamelingen waar toegevoegde documenten inmiddels zijn verwijderd.
-- **[Documentweergave] Pre-geoptimaliseerde weergave laden**
-  Wanneer een documentweergave werd geopend, werd een ruwe, langzame versie aanvankelijk weergegeven totdat een geoptimaliseerde, sneller te gebruiken versie werd weergegeven.
-  Vooral voor grotere bestanden kon het even duren voordat deze geoptimaliseerde versie klaar was. Nu wordt voor alle nieuwe bestanden een geoptimaliseerde versie voorbereid voordat de documentweergave wordt geopend. Oudere bestanden worden geoptimaliseerd wanneer de weergave wordt geopend en moeten mogelijk opnieuw worden geladen. Bovendien is de server die geoptimaliseerde weergaven voorbereidt, een upgrade ondergaan waardoor het minder waarschijnlijk is dat een grijs verwerkingsscherm wordt weergegeven wanneer de documentweergave wordt geopend.
-  Deze wijziging zal vooral opvallen bij grotere bestanden zoals pdf's met veel pagina's of zware afbeeldingen en CAD-formaten.
+- **[Documentvoorbeeld] Fout bij downloadproces opgelost**<br>Het downloadproces voor documenten is gewijzigd zodat een fout die sommige gebruikers op bepaalde Documenten ondervonden wanneer deze in het documentvoorbeeld werden weergegeven, niet langer voorkomt.
+- **[Goedkeuringen] Afhandeling van legacy-conceptstatus**<br>Het is opnieuw mogelijk om legacy-goedkeuringen in te dienen en legacy-goedkeuringsinstellingen bij te werken waarbij een conceptstatus is geconfigureerd als resultaat voor een afgewezen document.
+- **[Documentvoorbeeld] Menu-opties Downloaden/Opslaan als**<br>De menu's Downloaden/Opslaan als zijn opnieuw zichtbaar in het actiemenu van het documentvoorbeeld.
+- **[Documentvoorbeeld] Bestandsnamen met punten in naam**<br>Het is opnieuw mogelijk om Documenten weer te geven die een punt in het midden van de documentnaam hebben naast de extensie.
+- **[Documentvoorbeeld] Voorbeelden van bestandstype afbeelding**<br>Het is opnieuw mogelijk om afbeeldingsbestandstypes in het documentvoorbeeld weer te geven
+- **[Downloads] Fix voor Litouws en Hongaars**<br>Het is opnieuw mogelijk om afzonderlijke Documenten te downloaden wanneer de taalvoorkeur is ingesteld op Litouws of Hongaars.
+- **[Naamgevingsconventies] Validatie Duitse umlauten opgelost**<br>Validatie van bestandsnaamconventie mislukt niet langer bij het uploaden van Documenten met aangepaste veldcodes met Duitse umlauten.
+- **[Documentlijst] Witruimte-opmaak bij schuiven opgelost**<br>Witruimte bedekt niet langer bepaalde documentrijen na het omlaag schuiven van lange lijsten met Documenten in verzamelingen waarin toegevoegde Documenten inmiddels zijn verwijderd.
+- **[Documentvoorbeeld] Vooraf geoptimaliseerd voorbeeld laden**<br>Wanneer een documentvoorbeeld werd geopend, werd aanvankelijk een ruwe, langzame versie weergegeven totdat een geoptimaliseerde, sneller werkende versie werd weergegeven.<br>Vooral bij grotere bestanden kon het even duren voordat deze geoptimaliseerde versie gereed was. Nu wordt voor alle nieuwe bestanden al een geoptimaliseerde versie voorbereiding voordat het documentvoorbeeld wordt geopend. Oudere bestanden worden geoptimaliseerd wanneer het voorbeeld wordt geopend en moeten mogelijk opnieuw worden geladen. Bovendien is de server die geoptimaliseerde voorbeelden voorbereidt, bijgewerkt, waardoor het minder waarschijnlijk is dat een grijs verwerkingsscherm wordt weergegeven wanneer het documentvoorbeeld wordt geopend.<br>Deze wijziging zal vooral opvallen bij grotere bestanden, zoals PDF's met veel pagina's of zware afbeeldingen en CAD-formaten.
 
 ### 3.4 **Modellen**
 
-- **[Info-paneel] Gekoppelde onderwerpen zijn weer zichtbaar.**
-  Onderwerpen die aan objecten zijn gekoppeld, zijn opnieuw zichtbaar in het inspectmenu van het informatiepaneel onder het tabblad onderwerpen.
-- **[Verdiepingsconfiguratie] Weergave van PDF-onderlagen opgelost.**
-  Het is opnieuw mogelijk een voorbeeld van PDF-onderlangdocumenten weer te geven in de weergave van het verdiepingsconfiguratie document voor pdf's die geen ingesloten lettertypen hebben.
+- **[Infopaneel] Gekoppelde Topics zijn opnieuw zichtbaar.**<br>Topics die aan objecten zijn gekoppeld, zijn opnieuw zichtbaar in het inspectiemenu van het infopaneel onder het tabblad Topics.
+- **[Storey-configurator] Weergave van PDF-lagen opgelost.**<br>Het is opnieuw mogelijk om PDF-laagdocumenten in de documentvoorvertoning van de storey-configurator voorbeeld te bekijken voor PDF's die geen ingesloten lettertypen hebben.
 
 ## 4. **Voltooide gebruikersstemmen**
 
 ### 4.1 Onderwerpen
 
-- **Een nieuwe weergave voor onderwerpen is toegevoegd: Kanban**
-  Organiseer, filter en update onderwerpen rechtstreeks op een Kanban-bord, wat probleembeheer, taakbeheer en teamovertocht in Catenda Hub verbetert.
-  Wijzig de filters om niet alleen alle onderwerpen in één lijst te bekijken zoals in lijstweergave, maar om onderwerpen in kolommen weer te geven op basis van de verschillende beschikbare filters.
-  Bijvoorbeeld één kolom per toegewezen persoon zodat je onderwerpen ziet die aan mensen zijn toegewezen naast elkaar, of één kolom per status, of één kolom voor onderwerpen die vandaag vervallen, binnen een week vervallen, over meer dan een week vervallen of verlopen zijn.
-- **De pagina onderwerp statistieken**
-  heeft een visuele make-over gehad, wat het responsief maakt. Het is nu mogelijk om overal op het grafiekvolume te bewegen om het aantal onderwerpen met verschillende statussen op een bepaald moment van de projecttijdlijn weer te geven in plaats van alleen wanneer de grafieklijn wordt aangewezen.
+- **Een nieuwe weergave voor Topics is toegevoegd: Kanban**<br>Organiseer, filter en werk Topics rechtstreeks op een Kanban-bord bij, wat het probleemmanagement, taakbeheer en teamsamenwerkingen in Catenda Hub verbetert. <br>Wijzig de Filters om niet alleen alle Topics in één lijst te bekijken zoals bij lijstweergave, maar bekijk de Topics in kolommen op basis van de verschillende beschikbare Filters.<br>Bijvoorbeeld één kolom per toegewezen persoon, zodat u Topics die aan personen zijn Toegewezen aan elkaar ziet, of één kolom per Status of één kolom voor Topics die vandaag vervallen, binnen een week vervallen, over meer dan een week vervallen en verlopen.
+- **De statistieken-pagina van Topics**<br>heeft een visuele opknapbeurt gekregen waardoor deze meer responsief is. Het is nu mogelijk om ergens op het grafiekvolume te zweven om te zien hoeveel Topics met verschillende Statussen op een bepaald moment in de projecttijdlijn zijn, in plaats van alleen wanneer de grafieklijn wordt aangewezen.
 
 ### 4.2 **Documenten**
 
-- **Flexibel inzendersTeambeheer**
-  Het is nu mogelijk indienersTeams toe te voegen of te verwijderen uit bestaande goedkeuringswerkstromen nadat ze zijn opgeslagen.
-  Projectbeheerders kunnen bijwerken wie toestemming heeft om nieuwe goedkeuringsaanvragen in te dienen zonder de volledige workflowsjabloon opnieuw te hoeven maken.
-- **Review vereisen van alle teamleden**
-  Een nieuwe instelling is toegevoegd aan goedkeuringreviestappen waarvoor elk individueel lid van een revisieTeam zijn eigen validatieaanduiding moet indienen.
-  In plaats van vooruit te gaan zodra één lid reageert, blijft de stap nu open totdat elk lid van het toegewezen Team zijn beoordeling heeft voltooid.
-- **Automatische onderwerpaanmaak bij goedkeuringsvoltooiing**
-  Goedkeuringswerkstromen kunnen nu worden gekoppeld met onderwerPsjablonen zodat onderwerpen automatisch worden gemaakt wanneer een goedkeuringsaanvraag is voltooid.
-  Het selecteren van een onderwerPsjabloon voor specifieke uitkomstbeslissingen zorgt ervoor dat vervolgopmerking en problemen onmiddellijk worden geregistreerd in een onderwerPsbord voor het bijhouden.
-- **Tabel overzicht documentrevisies**
-  De goedkeuringspagina bevat nu een speciaal tabblad "Documentrevisies" dat een volledig tabeloverzicht biedt van alle bestanden die momenteel worden gereviewd in alle open goedkeuringen.
-  Je kunt nu individuele documentrevisies zoeken, sorteren en filteren op Teamtoewijzing, reveuwstaat en vervaldatum zonder elk goedkeuringspakket afzonderlijk te hoeven openen.
+- **Flexibel beheer van indienerteams** <br>Het is nu mogelijk om indienerteams toe te voegen of te verwijderen van bestaande goedkeuringswerkstromen nadat deze zijn opgeslagen. <br>Projectbeheerders kunnen bijwerken wie gemachtigd is om nieuwe goedkeuringsaanvragen in te dienen zonder de volledige werkstroomtemplate opnieuw te moeten maken.
+- **Beoordeling van alle teamleden vereisen** <br>Een nieuwe instelling is toegevoegd aan goedkeuringsbeoordelingsstappen waarvoor elk afzonderlijk lid van een reviewerteam zijn eigen validatie-indicatie moet indienen.<br>In plaats van op te gaan zodra één lid reageert, blijft de stap nu open totdat elk lid van het toegewezen Team hun beoordeling heeft voltooid.
+- **Automatische aanmaak van Topics bij voltooiing van goedkeuring** <br>Goedkeuringswerkstromen kunnen nu worden gekoppeld aan topicsjablonen, zodat Topics automatisch worden gemaakt wanneer een goedkeuringsaanvraag is voltooid. <br>Als u een topicsjabloon selecteert voor specifieke resultaatbeslissingen, worden vervolgopmerking en problemen onmiddellijk in een topic board geregistreerd voor bijhouden.
+- **Tabblad Overzicht documentrevisies** <br>De pagina met goedkeuringen bevat nu een speciaal tabblad "Documentrevisies" dat een volledig tabeloverzicht biedt van alle bestanden die momenteel in alle open goedkeuringen worden beoordeeld. <br>U kunt nu afzonderlijke documentrevisies zoeken, sorteren en filteren op Teams-toewijzing, beoordelingsstatus en einddatum zonder dat u elk goedkeuringspakket afzonderlijk hoeft te openen.
 - **Japanse lokalisatie voor goedkeuringen**
 
-Volledige Japanse lokalisatie is geïmplementeerd in de goedkeuringingsinterface en werkstroomconfiguratiePages. Teams die in het Japans werken kunnen nu navigeren goedkeuringkaarten, documentreviewhulpmiddelen en instellingsmenu's met nauwkeurige en consistente gelokaliseerde terminologie.
+  Volledige Japanse lokalisatie is geïmplementeerd in de goedkeuringingsinterface en werkstroomconfiguratiePages.
+  Teams die in het Japans werken kunnen nu navigeren goedkeuringkaarten, documentreviewhulpmiddelen en instellingsmenu's met nauwkeurige en consistente gelokaliseerde terminologie.
 
 ### 4.3 **Projectinstellingen**
 
-- **Uitnodigingspagina overhaul**
-  De projectuitnodigingspagina is gewijzigd zodat er geen verwarring meer is over het feit dat je de knop toevoegen moet klikken voordat je op uitnodiging verzenden kunt klikken.
-  Het is nu mogelijk buiten het veld te klikken om toe te passen voordat u op gebruiker uitnodigen klikt.
+- **Opknapbeurt pagina uitnodiging**<br>De pagina voor projectuitnodigingen is gewijzigd zodat er geen verwarring meer bestaat over het feit dat u op de knop Toevoegen moet klikken voordat u op Gebruiker uitnodigen kunt klikken. <br>Het is nu mogelijk om buiten het veld te klikken om toe te passen voordat u op Gebruiker uitnodigen klikt.
 
 ## 5. **Nieuwe releases** - Invoegtoepassing en integraties
 

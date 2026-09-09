@@ -32,7 +32,7 @@ Les administrateurs du projet peuvent maintenant modifier l'option de modèle de
 
 ### 2.3 **Dénomination cohérente des colonnes entre Documents et Modèles**
 
-La colonne "Nom" avait différentes significations dans Documents par rapport aux Modèles - ce qui était confus pour les utilisateurs ! Maintenant, les deux utilisent le même nom de document. Le champ "Nom du modèle" reste, juste renommé "Nom court". Le téléchargement depuis Modèles produit maintenant le même nom de fichier que le téléchargement depuis Documents.
+La colonne « Name » signifiait des choses différentes dans Documents par rapport à Models, ce qui était confus pour les utilisateurs ! Maintenant, les deux utilisent le même nom de document. Le champ « Model Name » reste, simplement réétiqueté « Short Name ». Le téléchargement à partir de Models produit maintenant le même nom de fichier que le téléchargement à partir de Documents.
 
 **Comparaison avant/après**
 

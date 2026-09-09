@@ -1,4 +1,4 @@
-# Jeg har en stor IFC-fil. Skal jeg bruke Solibri Optimizer før jeg laster opp filene til Catenda Hub?
+# Skal jeg kjøre Solibri Optimizer på en stor IFC-fil?
 
 Svaret er nei. Hvis filen din blir stor, er det bedre å bare [komprimere filene før opplasting](https://support.bimsync.com/hc/en-us/articles/360009995879) i stedet. Solibri Optimizer kan i noen tilfeller ødelegge filen slik at den ikke passerer gjennom de ulike importtrinnene i Catenda Hub. En optimalisert fil blir ikke raskere å bla gjennom i Catenda Hub fordi vi lagrer informasjon i optimaliserte formater uavhengig av tilstanden på filen ved import.
 

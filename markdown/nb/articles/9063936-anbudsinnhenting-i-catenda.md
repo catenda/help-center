@@ -20,7 +20,7 @@ Noen firmaer tillater ikke sine ansatte å opprette alias for e-postene sine. Hv
 
 ### 2.3 **Eksterne brukere**
 
-Hvis du ikke er i stand til å opprette separate brukere for hver anbudsinnsender, kan du også bruke Catenda-prosjektet ditt som et sted til å dele anbudsinnhentingsinformasjonen din fra uten å invitere innsenderne. Som vist i [informasjonsgrunnlaget for anbudsinnhenting](#h_9ab97bdd71) seksjonen, kan [dokumentsamlinger](https://support.catenda.com/en/articles/6344318-collections-page) og [3D-bokmerker](https://support.catenda.com/en/articles/4670281-bookmarks-page) forberedes og deles med eksterne parter for bruk som grunnlag for innlevering. På denne måten kan eksterne brukere ha tilgang til dokumenter og 3D-visninger i prosjektet uten å være del av det selv. Siden brukerne ikke er del av prosjektet, må dokumentlevering sendes inn andre steder. De innleverte dokumentene kan lastes opp til prosjektet av anbudsgiveren etter at de er sendt inn.
+Hvis du ikke er i stand til å opprette separate brukere for hver tilbudsgiver, kan du også bruke Catenda-prosjektet ditt som et sted å dele informasjonen din om anbudsinnbydelse fra uten å invitere tilbudsgiverne. Som vist i delen [tendering information base](#h_9ab97bdd71), kan [dokumentsamlinger](https://support.catenda.com/en/articles/6344318-collections-page) og [3D-bokmerker](https://support.catenda.com/en/articles/4670281-bookmarks-page) forberedes og deles med eksterne parter for å brukes som grunnlag for innlevering. På denne måten kan eksterne brukere få tilgang til Dokumenter og 3D-visninger i prosjektet uten å være en del av det selv. Siden brukerne ikke er en del av prosjektet, må dokumentlevering sendes inn andre steder. De innleverte dokumentene kan lastes opp til prosjektet av anbudsgiver etter at de er sendt inn.
 
 ## 3. **Informasjonsgrunnlag for anbudsinnhenting**
 
@@ -34,9 +34,9 @@ Opprettelse av [dokumentsamlinger](https://support.catenda.com/en/articles/63443
 
 Som med dokumenter kan du bruke [bokmerker](https://support.catenda.com/en/articles/4670281-bookmarks-page) til å opprette et grunnlag for å vise anbudsgivere hvilke 3D-modeller de skal se på. Bokmerker er en fin måte å vise anbudsgivere et visningspunkt av hvilken del av prosjektet i 3D som er ment i dette tilfellet.
 
-_Delt med prosjekt_ [Bokmerker](https://support.catenda.com/en/articles/4670281-bookmarks-page) må deles med prosjektet slik at andre prosjektmedlemmer kan se dem. Med [modeller som dokumenter](https://support.catenda.com/en/articles/8064548-models-as-documents) kan tilgang konfigureres slik at anbudsbrukere bare ser modellene de har tilgang til.
+**Delt med prosjekt** [Bokmerker](https://support.catenda.com/en/articles/4670281-bookmarks-page) må deles med prosjektet slik at andre prosjektmedlemmer kan se dem. Med [modeller som dokumenter](https://support.catenda.com/en/articles/8064548-models-as-documents) kan tilgang konfigureres slik at anbudsbrukere bare ser modellene de har tilgang til.
 
-_Offentlige bokmerker_ Offentlige bokmerker er en fin måte å dele 3D-visninger med eksterne parter som del av et anbud. Med et offentlig bokmerke kan du generere en lenke der anbudsgivere vil være i stand til å se en enkel versjon av modellene i bokmerket uten objektegenskapene. Dette er for å sikre at sensitiv mengdeinformasjon som kan være i disse objektene, ikke blir delt ved en ulykke.
+**Offentlige bokmerker** Offentlige bokmerker er en fin måte å dele 3D-visninger med eksterne parter som del av et anbud. Med et offentlig bokmerke kan du generere en lenke der anbudsgivere vil være i stand til å se en enkel versjon av modellene i bokmerket uten objektegenskapene. Dette er for å sikre at sensitiv mengdeinformasjon som kan være i disse objektene, ikke blir delt ved en ulykke.
 
 ## 4. **Deaktiver offentlig deling**
 

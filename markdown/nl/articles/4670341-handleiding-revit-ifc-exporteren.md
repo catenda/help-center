@@ -22,7 +22,7 @@ Linksboven vinden we het tabblad "Bestand".
 
 ---
 
-> **Onthoud:** _U wilt mogelijk een speciale map voor uw IFC's hebben, zodat u altijd controle hebt over waar uw bestand zich bevindt!_
+> **Tip:** **Onthoud:** _U wilt mogelijk een speciale map voor uw IFC's hebben, zodat u altijd controle hebt over waar uw bestand zich bevindt!_
 
 Het IFC-exportmenu vindt u hier:
 
@@ -102,8 +102,7 @@ Gekoppelde bestanden als afzonderlijke IFC's exporteren Als u de gekoppelde best
 
 Alleen zichtbare objecten in IFC-bestand exporteren die in weergave zichtbaar zijn.
 
-- Kamers, gebieden en ruimten in 3D-weergaven exporteren
-  Deze optie kan nuttig zijn voor het selecteren van gebieden in de 2D-viewer.
+- Ruimten, gebieden en ruimten in 3D-weergaven exporteren <br>Deze optie kan handig zijn voor het selecteren van gebieden in de 2D-viewer.
 
 Stalen elementen opnemen, _ingevuld_
 

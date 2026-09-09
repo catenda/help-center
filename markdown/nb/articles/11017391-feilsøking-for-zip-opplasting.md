@@ -12,7 +12,7 @@ Under zip-opplastingsprosessen sendes datapakker til Catenda-serveren. Hvis det 
 
 Selv når du er rett ved en WiFi-antenne med en enhet, er det aldri 100 % sikkert at pakken ankommer trygt gjennom luften. Denne effekten forsterkes ved å være lengre vekk fra antennen eller hvis det er gjenstander som vegger mellom enheten og antennen.
 
-_Store filer_ Når store mengder data lastes opp, sendes mange pakker. Hvis selv en av dem ikke ankommer til routeren gjennom luften ordentlig, kan en nettverksfeil vises. Når dette skjer, blir hele opplastingen ugyldig.
+**Store filer** Når store mengder data lastes opp, sendes mange pakker. Hvis selv en av dem ikke ankommer til routeren gjennom luften ordentlig, kan en nettverksfeil vises. Når dette skjer, blir hele opplastingen ugyldig.
 
 ### 1.2 **Nettverksfeil**
 
@@ -20,9 +20,9 @@ Viss programvare begrenser antallet tegn som stier til filer i en zip-fil kan ha
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qsefpf4z/02-network-error.png)
 
-_Pakk ut/pakk inn igjen_ Hvis denne zip-filen ble mottatt fra noen andre, kan det hjelpe å pakke den ut og pakke den inn igjen.
+**Pakk ut/pakk inn igjen** Hvis denne zip-filen ble mottatt fra noen andre, kan det hjelpe å pakke den ut og pakke den inn igjen.
 
-_Kjente grenser (oppdatert desember 2025)_ Microsoft Windows 10/11 Grensen i Windows er 260 tegn, men kan økes. _Tilgang som kreves:_ Windows Administrator-konto
+**Kjente grenser (oppdatert desember 2025)** Microsoft Windows 10/11 Grensen i Windows er 260 tegn, men kan økes. _Tilgang som kreves:_ Windows Administrator-konto
 
 Windows Home-brukere: Denne grensen kan økes ved å gå til Windows Start og skrive REGEDIT Åpne Registerredigering og naviger til:
 
@@ -44,9 +44,9 @@ OneDrive og SharePoint 400 Unicode-kodeenheter
 
 ### 1.3 **Robust opplasting**
 
-_Mindre zip-filer_ Hvis zip-filen består av flere filer, kan zip-filen deles inn i mindre zip-filer. Hver separate zip-fil kan lastes opp individuelt, men det vil alltid være en risiko for nettverks- eller tilkoblingsfeil.
+**Mindre zip-filer** Hvis zip-filen består av flere filer, kan zip-filen deles inn i mindre zip-filer. Hver separate zip-fil kan lastes opp individuelt, men det vil alltid være en risiko for nettverks- eller tilkoblingsfeil.
 
-_Individuelle filer_ [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) er en sikrere måte å laste opp på, ettersom den laster opp dokumenter fil for fil. Dette er også raskere ettersom filene lastes opp direkte til vår backend i stedet for gjennom nettlesergrensesnittet. Selv om en av filene mislykkes, vil de som ble lastet opp til da allerede vises på Catenda. Resten av filene vil fortsette å lastes opp neste gang opplastingsoppgaven kjøres.
+**Individuelle filer** [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) er en sikrere måte å laste opp på, ettersom den laster opp dokumenter fil for fil. Dette er også raskere ettersom filene lastes opp direkte til vår backend i stedet for gjennom nettlesergrensesnittet. Selv om en av filene mislykkes, vil de som ble lastet opp til da allerede vises på Catenda. Resten av filene vil fortsette å lastes opp neste gang opplastingsoppgaven kjøres.
 
 ## 2. **Zip-opplastinger med spesialtegn**
 

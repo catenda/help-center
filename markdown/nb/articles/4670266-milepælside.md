@@ -8,7 +8,7 @@ Slik kan milepælsiden se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/02-intro.png)
 
-Denne siden inneholder informasjon om følgende saker: [Planlegging](#h_595c5ebf4c) - [Handlinger](#h_ef3bbf0441) - [Milepælsliste](#h_5403eb541f)
+Denne siden inneholder informasjon om følgende Saker: [Planning](#h_595c5ebf4c) - [Actions](#h_ef3bbf0441) - [Milestones list](#h_5403eb541f)
 
 ## 1. Planlegging
 
@@ -58,11 +58,11 @@ Beskrivelsen av milepælen
 
 I saksstatistikken for milepælen vil du kunne se hva fremdriften for denne milepælen er for alle saksområder sammen. Se milepælsiden for saksspesifikke data.
 
-_Prosentandel_ Her vil du se prosentandelen av saker som har denne milepælen tildelt og er lukket i alle saksområder. Kandidatsaker teller ikke inn i denne prosentandelen.
+**Prosentandel** Her vil du se prosentandelen av saker som har denne milepælen tildelt og er lukket i alle saksområder. Kandidatsaker teller ikke inn i denne prosentandelen.
 
-_Åpen/lukket/kandidat_ Her vil du se antall saker med åpne, lukkede eller kandidatstatus som denne milepælen har blitt tildelt til. Klikk på ordet åpen, lukket eller kandidat for å se de relaterte sakene i alle saker-området.
+**Åpen/lukket/kandidat** Her vil du se antall saker med åpne, lukkede eller kandidatstatus som denne milepælen har blitt tildelt til. Klikk på ordet åpen, lukket eller kandidat for å se de relaterte sakene i alle saker-området.
 
-_Medlemsprofilbilde_ Her vil du først se oppretteren av milepælen og det utildelte bildet. For hvert profilbilde vil du se et antall saker. For milepæloppretteren og ufordelt kan dette antallet være 0 og vil da være grønt. Andre brukere vil bare være synlige hvis de har noen åpne saker som denne milepælen har blitt tildelt til, med et antall åpne saker som de har blitt tildelt til i rødt.
+**Medlemsprofilbilde** Her vil du først se oppretteren av milepælen og det utildelte bildet. For hvert profilbilde vil du se et antall saker. For milepæloppretteren og ufordelt kan dette antallet være 0 og vil da være grønt. Andre brukere vil bare være synlige hvis de har noen åpne saker som denne milepælen har blitt tildelt til, med et antall åpne saker som de har blitt tildelt til i rødt.
 
 ### 3.5 Opprettet av
 

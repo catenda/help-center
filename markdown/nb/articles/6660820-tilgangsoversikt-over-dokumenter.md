@@ -62,7 +62,7 @@ Skriv navnet på en mappe for å filtrere på mapper med det navnet.
 
 > **Merk:** Filtrering fungerer bare når mapper er trukket sammen med minustasten i headerraden i mappen-kolonnen.
 
-_Mapper med egen ACL_ Klikk på mapper med egen ACL for å se bare mapper der spesifikk ACL er konfigurert.
+**Mapper med egen ACL** Klikk på mapper med egen ACL for å se bare mapper der spesifikk ACL er konfigurert.
 
 ### 3.2 **Kolonnevelger**
 
@@ -78,13 +78,13 @@ Slik kan kolonnene for mapper og arvet tilgang se ut:
 
 Rull ned i treet med dokumentene dine.
 
-_Headerrad_ Klikk på pluss- og minustegnene i headerraden for å utvide og skjule dokumenttreet.
+**Headerrad** Klikk på pluss- og minustegnene i headerraden for å utvide og skjule dokumenttreet.
 
-_Rad-hover_ Hold musepekeren over en mapperrad for å se et lenkeikon vises. Klikk på lenkeikon for å åpne den mappen i dokumenttabellen.
+**Rad-hover** Hold musepekeren over en mapperrad for å se et lenkeikon vises. Klikk på lenkeikon for å åpne den mappen i dokumenttabellen.
 
-_Låsikon_ Låsikon betyr at det er spesifikk tilgang som er konfigurert for denne mappen.
+**Låsikon** Låsikon betyr at det er spesifikk tilgang som er konfigurert for denne mappen.
 
-_Pilikon_ Pilikon betyr at denne mappen arver tilgang fra overordnet mappe.
+**Pilikon** Pilikon betyr at denne mappen arver tilgang fra overordnet mappe.
 
 ### 3.4 **Bruker- og team-kolonner**
 
@@ -92,8 +92,8 @@ Se tilgangsrettighetene for hver bruker og team for hver mappe i treet. Slik kan
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/54j7njww/10-user-and-team-columns.png)
 
-_Headerrad_ Se om kolonnen er en medlems-, administrator- eller team-kolonne ved å se på ikonet i headerraden. Medlemsikon - 👤 Administrator - 👤 men da i oransje Team - 👥
+**Headerrad** Se om kolonnen er en medlems-, administrator- eller team-kolonne ved å se på ikonet i headerraden. Medlemsikon - 👤 Administrator - 👤 men da i oransje Team - 👥
 
 Klikk på navnet eller ikonet til et medlem for å se hvilke teams de er medlem av. Klikk på navnet eller ikonet til et team for å se hvilke medlemmer som er medlem av teamet.
 
-_Radinnhold_ Tilgang kan settes til Ingen tilgang, les, skriv eller full tilgang. Klikk på tilgangsinnstillingen for å få mer informasjon om innstillingene som er konfigurert.
+**Radinnhold** Tilgang kan settes til Ingen tilgang, les, skriv eller full tilgang. Klikk på tilgangsinnstillingen for å få mer informasjon om innstillingene som er konfigurert.

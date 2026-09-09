@@ -45,10 +45,10 @@ Skriv inn e-postadressen din [her](https://hub.catenda.com/forgot-password) for 
 
 Ved å klikke på [registrer deg](https://hub.catenda.com/signup) øverst på påloggingssiden kan brukere opprette en gratis konto selv uten å bli invitert til et prosjekt. Etter å ha fullført kontoregistreringstrinnene vil disse brukerne finne kontoen sin tom og uten prosjekter.
 
-_Akseptere en invitasjon og opprette en ny konto_ Nye brukere som ikke har en konto ennå kan inviteres til et Catenda-prosjekt via e-post av en prosjektadministrator eller av en organisasjonseier. Når en bruker som ennå ikke har en konto har mottatt en invitasjonse-post og klikker på lenken, åpnes kontoregistreringssiden og de blir bedt om å følge trinnene for kontoregistrering. Etter å ha fullført trinnene kan prosjektinvitasjonen aksepteres hvis den fortsatt er gyldig, og brukeren kan automatisk bli en del av prosjektet.
+**Akseptere en invitasjon og opprette en ny konto** Nye brukere som ikke har en konto ennå kan inviteres til et Catenda-prosjekt via e-post av en prosjektadministrator eller av en organisasjonseier. Når en bruker som ennå ikke har en konto har mottatt en invitasjonse-post og klikker på lenken, åpnes kontoregistreringssiden og de blir bedt om å følge trinnene for kontoregistrering. Etter å ha fullført trinnene kan prosjektinvitasjonen aksepteres hvis den fortsatt er gyldig, og brukeren kan automatisk bli en del av prosjektet.
 
-_Akseptere en invitasjon med en allerede eksisterende konto_ Brukere som tidligere har opprettet en konto som klikker på e-postinvitasjonslenken og ikke har logget inn ennå, blir bedt om å logge inn med legitimasjonene sine før de blir spurt om de vil akseptere prosjektinvitasjonen.
+**Akseptere en invitasjon med en allerede eksisterende konto** Brukere som tidligere har opprettet en konto som klikker på e-postinvitasjonslenken og ikke har logget inn ennå, blir bedt om å logge inn med legitimasjonene sine før de blir spurt om de vil akseptere prosjektinvitasjonen.
 
 Hvis kontoen ble opprettet før invitasjonen ble sendt, kan brukere i tillegg logge inn med de registrerte legitimasjonene sine og klikke på varsel om prosjektinvitasjon for å akseptere invitasjonen og bli en del av et prosjekt.
 
-_Legge til nye brukere i prosjekt uten invitasjon_ Brukere som tilhører en organisasjon som eier Catenda-prosjekter, kan oppdage at kontoen deres har blitt lagt til i ett av organisasjonens prosjekter av en organisasjonseier.
+**Legge til nye brukere i prosjekt uten invitasjon** Brukere som tilhører en organisasjon som eier Catenda-prosjekter, kan oppdage at kontoen deres har blitt lagt til i ett av organisasjonens prosjekter av en organisasjonseier.

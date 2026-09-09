@@ -9,10 +9,10 @@ Das folgende Diagramm zeigt, wie Anmerkungen unter verschiedenen Markups gruppie
 Beachten Sie bitte Folgendes:
 
 1. Ein **Markup** kann **einen oder mehrere Anmerkungssätze enthalten.**
-1. Ein **Themen** kann **einen oder mehrere Markups** als **Kommentare** enthalten
-1. In einem **Topic** ist ein **Markup** ein **Satz von Anmerkungen**, der immer **derselben Version angehört.**
-1. **Mehrere Markups** in einem Dokument können als **mehrere Themen** ODER unter einem **einzelnen vorhandenen Themen** gespeichert werden
-1. Wenn ein **Markup** **mehrere Anmerkungssätze auf mehreren Seiten** enthält, gibt es **einen Kommentar pro Anmerkungssatz auf jeder Seite**.
+2. Ein **Themen** kann **einen oder mehrere Markups** als **Kommentare** enthalten
+3. In einem **Topic** ist ein **Markup** ein **Satz von Anmerkungen**, der immer **derselben Version angehört.**
+4. **Mehrere Markups** in einem Dokument können als **mehrere Themen** ODER unter einem **einzelnen vorhandenen Themen** gespeichert werden
+5. Wenn ein **Markup** **mehrere Anmerkungssätze auf mehreren Seiten** enthält, gibt es **einen Kommentar pro Anmerkungssatz auf jeder Seite**.
 
 ## 1. **Zwei Workflows**
 

@@ -45,8 +45,7 @@ Klikk [her](https://support.catenda.com/en/articles/4854523-2d-location-of-issue
 Før du arbeider med markører, må du kontrollere at 2D-viseren er konfigurert.
 
 - **Etasjer fra modell 2D-visninger -** Velg en etasje fra en aktivert 2D-visning som bunnhøyde. Aktiver andre 2D-visninger for å vise sammen med denne etasjen.
-- **Etasjer fra** **Bygninger -** Velg en etasje fra en forhåndskonfigurert bygning.
-  Bunnhøyden og de aktiverte 2D-visningene fra konfigurerte modeller er aktivert.
+- **Etasjer fra** **Bygninger -** Velg en etasje fra en forhåndskonfigurert bygning. <br>Basisnivået og de aktiverte 2D-visningene fra konfigurerte modeller er aktivert.
 
 **Markeringsplassering -** Høyreklikk på lerret og opprett en ny sak med markør. Klikk på legg til plassering i sakshodet på innholdspanelet, og klikk på stedet der markøren skal legges til.
 

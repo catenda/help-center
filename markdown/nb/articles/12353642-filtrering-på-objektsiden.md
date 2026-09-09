@@ -11,9 +11,9 @@ Slik kan søk- eller filtreringsmenyen se ut når den åpnes:
 
 Klikk på filterknappen øverst til venstre for at et panel skal vises på venstre side. Når et filter brukes, endres URL-en som vises i nettleseren. I denne artikkelen vises filtre slik: _Filternavn i meny_ - `Filternavn i URL=Filteralternativ i URL`
 
-_Standardfilter_ Standardfilteret er opprinnelig ikke synlig i URL-en. Når siden åpnes for første gang, brukes følgende filter.
+**Standardfilter** Standardfilteret er opprinnelig ikke synlig i URL-en. Når siden åpnes for første gang, brukes følgende filter.
 
-_Ikke filter_
+**Ikke filter**
 
 ### 1.1 **Lagre og del gjeldende filter**
 
@@ -39,11 +39,11 @@ Valgt - `selected=true` Filtrer for kun å vise rader for objekter som er valgt 
 
 Søking i spørring - `query=<Product>,<Operator>,<Value>` Klikk i søk- eller filterlinjen for å konfigurere et filter som sammenligner to verdier.
 
-_Produkt_ Det første valget kan være enhver type IFC-produkt. Slik kan rullegardinmenyen for produkter se ut:
+**Produkt** Det første valget kan være enhver type IFC-produkt. Slik kan rullegardinmenyen for produkter se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0470bggc/03-query.png)
 
-_Operator_ Operatoren kan bare velges etter at et produkt er valgt. Operatordelen av spørringsfilteret bestemmer hvordan produktet sammenlignes med verdien. Avhengig av om produktet kan ha en hvilken som helst verdi eller bare kan ha et begrenset sett av verdier, kan det velges mellom forskjellige operatorer:
+**Operator** Operatoren kan bare velges etter at et produkt er valgt. Operatordelen av spørringsfilteret bestemmer hvordan produktet sammenlignes med verdien. Avhengig av om produktet kan ha en hvilken som helst verdi eller bare kan ha et begrenset sett av verdier, kan det velges mellom forskjellige operatorer:
 
 Alltid tilgjengelige operatorer: Lik - `equals` Når det valgte produktet har nøyaktig den angitte verdien
 
@@ -81,7 +81,7 @@ Mindre enn eller lik - `less-than-equals`
 
 Mindre enn - `less-than`
 
-_Verdi_ Verdifeltet oppfører seg ulikt avhengig av de mulige verdiene som det valgte produktet kan ha.
+**Verdi** Verdifeltet oppfører seg ulikt avhengig av de mulige verdiene som det valgte produktet kan ha.
 
 Tallverdi Når det valgte produktet bare kan ha en tallverdi, vises piler når verdifeltet klikkes på, og bare tall kan angis.
 

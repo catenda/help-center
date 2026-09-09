@@ -60,7 +60,7 @@ De ledentabel kan de volgende kolommen bevatten:
 
 **Rol** De rol van het lid. Eigenaar (Blauw) Beheerder (Oranje) Lid (Groen)
 
-**Teams** Elk lid kan deel uitmaken van meerdere teams. Het team waar een lid deel van uitmaakt, wordt in deze kolom weergegeven. Beheerderssteam (Oranje) Lidenteam (Groen) Als het totale aantal teams waar een lid deel van uitmaakt niet past, past u de kolombreedte aan of klikt u op de drie puntjes om de rest te zien.
+**Teams** Elk lid kan deel uitmaken van meerdere teams. De teams waar een lid toe behoort, worden in deze kolom weergegeven. Administratorteam (Oranje) Lidteam (Groen) Als het totale aantal teams waar een lid toe behoort niet past, past u de breedte van de kolom aan of klikt u op de drie puntjes om de rest te zien.
 
 ## 5. **Tabblad Teams**
 

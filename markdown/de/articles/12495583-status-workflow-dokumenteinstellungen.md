@@ -37,7 +37,7 @@ Standardmäßig gibt es einen gemeinsamen Status mit dem Namen "Freigegeben", de
 - Veröffentlichte Status - Neue Informationen werden in der veröffentlichten Phase eingereicht.
 - Der Standardstatus ist auf "Kein Status" festgelegt.
 - Das Genehmigungsmenü in den Dokumenteinstellungen ist deaktiviert.
-- Die Genehmigungsunterseite zur Seite "Dokumente" ist deaktiviert.
+- Die Seite "Genehmigungen" auf der Seite "Dokumente" ist deaktiviert.<br>
 
 ## 2. **Veröffentlichte Status**
 
@@ -45,7 +45,7 @@ Standardmäßig gibt es einen veröffentlichten Status mit dem Namen "Veröffent
 
 - Veröffentlicht mit Kommentaren - Hellgrün
 - Wartend - Gelb
-- Abgelehnt - Rot
+- Abgelehnt - Rot<br>
 
 ## 3. **Status hinzufügen**
 

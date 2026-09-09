@@ -7,8 +7,8 @@ Wählen Sie Dokument(e) und/oder Ordner im Dokumentenbereich aus, um das Zugriff
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/01-intro.png)
 
 1. Wählen Sie die Dokument(e) und/oder Ordner aus, die konfiguriert werden sollen.
-1. Öffnen Sie das rechte Informationsmenü
-1. Klicken Sie auf **Zugriff bearbeiten**.
+2. Öffnen Sie das rechte Informationsmenü
+3. Klicken Sie auf **Zugriff bearbeiten**.
 
 > **Wichtig:** **Erforderlicher Zugriff:** Vollständiger Zugriff
 
@@ -22,7 +22,7 @@ Klicken Sie auf das Dropdown-Menü "Zugriff definieren für", um Beteiligte ausz
 
 ### 1.1 **1.1 Empfohlener Workflow**
 
-Legen Sie den Zugriff **pro Team statt pro Benutzer** fest. Rollen ändern sich häufig, und teambasierter Zugriff bleibt flexibel: Ein Mitglied, das zu einem Team hinzugefügt wird, erhält sofort den richtigen Zugriff, wenn es dem Projekt beitritt. Ein häufiges Muster ist, "alle Benutzer" auf keinen Zugriff zu setzen – damit neue, noch nicht zugewiesene Mitglieder vertrauliche Informationen nicht sehen können – und dann jedem Team je nach Bedarf Zugriff zu gewähren.
+Legen Sie den Zugriff **pro Team statt pro Benutzer** fest. Rollen ändern sich häufig, und teambasierter Zugriff bleibt flexibel: Ein Mitglied, das einem Team hinzugefügt wird, erhält sofort den richtigen Zugriff, wenn es dem Projekt beitritt. Ein gängiges Muster ist es, "alle Benutzer" auf keinen Zugriff zu setzen, damit neue, noch nicht zugewiesene Mitglieder keine vertraulichen Informationen sehen können. Sie gewähren dann Zugriff auf jedes Team nach Bedarf.
 
 Klicken Sie [hier](https://support.catenda.com/en/articles/15644094-how-catenda-calculates-access-levels), um mehr darüber zu erfahren, wie sich die verschiedenen Rollen der Beteiligten gegenseitig beeinflussen.
 

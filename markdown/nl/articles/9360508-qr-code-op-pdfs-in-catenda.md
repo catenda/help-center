@@ -10,7 +10,7 @@ De QR-code-toewijzing gebeurt via mappen, wat betekent dat elke projectbeheerder
 
 Dit zijn de stappen om de QR-code-functie aan mappen in uw project toe te wijzen;
 
-1. Ga onder het document —> instellingen naar **'mapconfiguratie'**
+1. Ga in het document > instellingen naar **'mapconfiguratie'**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/01-setup-qr-code-on-catenda-hub.png)
 
@@ -67,8 +67,8 @@ De afgedrukte PDF met de tijdelijke aanduiding kan nu als een nieuwe revisie naa
 ## 3. **Publiceren met QR-codes**
 
 1. Upload een nieuwe revisie van een PDF met de tijdelijke aanduiding in een map met QR-code-toewijzing
-1. Tijdens het publiceren wordt de PDF gescand op de tijdelijke aanduiding en vervangen door een QR-code (gegenereerd voor deze revisie)
-1. De nieuw gegenereerde QR-code maakt deel uit van de PDF, die kan worden bekeken/gescand op Catenda Hub en/of kan worden gedownload.
+2. Tijdens het publiceren wordt de PDF gescand op de tijdelijke aanduiding en vervangen door een QR-code (gegenereerd voor deze revisie)
+3. De nieuw gegenereerde QR-code maakt deel uit van de PDF, die kan worden bekeken/gescand op Catenda Hub en/of kan worden gedownload.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/07-publishing-with-qr-codes.png)
 

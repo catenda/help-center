@@ -115,7 +115,7 @@ Les révisions partagées ont un numéro de révision mineur (par exemple #0,1, 
 
 Dans la structure du document, vous verrez la dernière révision à laquelle vous avez accès. Cliquez sur le nom d'un document pour ouvrir l'aperçu du document de la révision affichée.
 
-**Onglet Espace de travail** La dernière révision de l'onglet espace de travail peut être : Révision partagée - _Accès requis :_ Révisions partagées Révision publiée - _Accès requis :_ Lecture
+**Onglet Workspace** La dernière révision de l'onglet workspace peut être : révision partagée - _Accès requis :_ Révisions partagées Révision publiée - _Accès requis :_ Lecture
 
 **Onglet Publié** La dernière révision de l'onglet publié peut être : Révision publiée - _Accès requis :_ Lecture
 
@@ -152,11 +152,11 @@ Seules les révisions publiées sont visibles dans Catenda Site.
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-868820a898ba.png" width="500"/></div>
 
-1. Le statut des documents peut ensuite être [configuré](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) à partir des paramètres dans la section documents :
+2. Le statut des documents peut ensuite être [configuré](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) à partir des paramètres dans la section documents :
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-931418a5fab1.png" width="500"/></div>
 
-1. Enfin, ces statuts de document peuvent être assignés au statut de révision de fichier accessible depuis le bouton à trois points en haut à droite dans la [section Approbations](https://support.catenda.com/en/articles/8349340-approvals-page). Il est également possible de configurer ici un modèle de sujet.
+3. Enfin, ces statuts de document peuvent être assignés au statut de révision de fichier accessible depuis le bouton à trois points en haut à droite dans la [section Approbations](https://support.catenda.com/en/articles/8349340-approvals-page). Il est également possible de configurer ici un modèle de sujet.
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-3cdbebefca38.png" width="500"/></div>
 
@@ -165,20 +165,20 @@ Seules les révisions publiées sont visibles dans Catenda Site.
 ## 5. **Workflow d'approbation**
 
 1. Un workflow d'approbation est créé par un administrateur.
-    1. Équipe de soumission
-    1. Équipe de révision (au moins une étape d'approbation est requise)
-    1. Équipe de révision finale
-1. Un membre d'une équipe de soumission soumet une demande d'approbation avec un ensemble de révisions partagées sur la page des approbations.
-1. Les membres des équipes de soumission assignés à l'étape examinent les documents soumis dans l'approbation et donnent soit une validation approuvée, soit une validation rejetée.
-1. Une fois que toutes les étapes ont été complétées, un membre de l'équipe de révision finale examine les validations qui ont été soumises au nom des différentes équipes à chaque étape et donne sa validation finale d'approuvé, approuvé avec commentaire ou rejeté.
-    1. L'approbateur final est en mesure de prendre une décision finale et éclairée sur la question de savoir si ce document doit être publié (approuvé) ou rejeté (rester partagé)
+   1. Équipe de soumission
+   2. Équipe de révision (au moins une étape d'approbation est requise)
+   3. Équipe de révision finale
+2. Un membre d'une équipe de soumission soumet une demande d'approbation avec un ensemble de révisions partagées sur la page des approbations.
+3. Les membres des équipes de soumission assignés à l'étape examinent les documents soumis dans l'approbation et donnent soit une validation approuvée, soit une validation rejetée.
+4. Une fois que toutes les étapes ont été complétées, un membre de l'équipe de révision finale examine les validations qui ont été soumises au nom des différentes équipes à chaque étape et donne sa validation finale d'approuvé, approuvé avec commentaire ou rejeté.
+   1. L'approbateur final est en mesure de prendre une décision finale et éclairée sur la question de savoir si ce document doit être publié (approuvé) ou rejeté (rester partagé)
 
 ### 5.1 **Workflow d'approbation hérité**
 
 1. Une demande d'approbation nomme un éditeur (personne chargée de prendre la décision finale concernant la publication) et un ou plusieurs réviseurs, chargés de valider (ou non) l'ensemble des documents
-1. Chaque réviseur décidera si le document partagé est approuvé, approuvé avec commentaire ou rejeté
-1. À la fin de l'examen, l'éditeur choisira le résultat de l'approbation en sélectionnant les documents à publier.
-1. À partir des paramètres d'approbation, des sujets liés aux documents peuvent être créés afin de suivre le processus ultérieurement
+2. Chaque réviseur décidera si le document partagé est approuvé, approuvé avec commentaire ou rejeté
+3. À la fin de l'examen, l'éditeur choisira le résultat de l'approbation en sélectionnant les documents à publier.
+4. À partir des paramètres d'approbation, des sujets liés aux documents peuvent être créés afin de suivre le processus ultérieurement
 
 Une démonstration détaillée de ces étapes est présentée dans le tutoriel suivant :
 

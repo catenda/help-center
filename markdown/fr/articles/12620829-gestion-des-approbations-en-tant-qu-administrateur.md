@@ -43,10 +43,10 @@ Robert Chen est un administrateur de projet chevronné supervisant un grand proj
 ## 3. **Guide étape par étape**
 
 1. **Accédez à la page des approbations :** Allez à Documents > Approbations dans le menu de gauche.
-1. **Configurez les flux de travail :** Configurez les équipes qui peuvent soumettre, examiner et publier des documents. Affectez des équipes pour chaque étape et définissez les périodes d'examen.
-1. **Attribuer l'accès :** Limitez l'accès aux documents afin que seuls les utilisateurs pertinents puissent voir ou approuver des documents spécifiques.
-1. **Surveiller les approbations :** Utilisez le tableau de bord pour voir toutes les demandes d'approbation, filtrer les éléments en attente et partager des liens filtrés avec les membres de l'équipe pour diriger leur attention.
-1. **Exemple du monde réel :** Si plusieurs documents sont en attente, Robert filtre la page des approbations, copie le lien filtré et l'envoie à l'équipe responsable pour concentrer leur attention et éviter les retards.
+2. **Configurez les flux de travail :** Configurez les équipes qui peuvent soumettre, examiner et publier des documents. Affectez des équipes pour chaque étape et définissez les périodes d'examen.
+3. **Attribuer l'accès :** Limitez l'accès aux documents afin que seuls les utilisateurs pertinents puissent voir ou approuver des documents spécifiques.
+4. **Surveiller les approbations :** Utilisez le tableau de bord pour voir toutes les demandes d'approbation, filtrer les éléments en attente et partager des liens filtrés avec les membres de l'équipe pour diriger leur attention.
+5. **Exemple du monde réel :** Si plusieurs documents sont en attente, Robert filtre la page des approbations, copie le lien filtré et l'envoie à l'équipe responsable pour concentrer leur attention et éviter les retards.
 
 Cette structure garantit que chaque participant connaît ses responsabilités, rationalisez la collaboration et réduisez les erreurs ou les retards dans le processus d'approbation des documents du projet.
 

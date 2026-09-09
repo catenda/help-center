@@ -1,4 +1,4 @@
-# Welke versie van een model wordt geopend wanneer ik op een opgeslagen view klik?
+# Welke modelrevision opent een bladwijzer?
 
 De opgeslagen view opent altijd de meest recente versie van een model.
 

@@ -3,10 +3,10 @@
 ## 1. Comment déplacer un document
 
 1. Sélectionnez le document en utilisant les cases à cocher à gauche du document
-1. En haut à droite, un menu hamburger apparaît (Trois points). Appuyez dessus
-1. Cliquer pour déplacer
-1. Sélectionnez le dossier vers lequel vous souhaitez le déplacer.
-1. Appuyez sur "Déplacer ici"
+2. En haut à droite, un menu hamburger apparaît (Trois points). Appuyez dessus
+3. Cliquer pour déplacer
+4. Sélectionnez le dossier vers lequel vous souhaitez le déplacer.
+5. Appuyez sur "Déplacer ici"
 
 ### 1.1 Accès pour déplacer des documents
 

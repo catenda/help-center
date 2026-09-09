@@ -14,11 +14,11 @@ Du vil få en oversikt over alle åpne og lukkede saker på tavlen.
 
 ## 2. Fordeling
 
-_Akkumulert status_
+**Akkumulert status**
 
 Her har du den akkumulerte statusen på åpne og lukkede saker.
 
-_Typefordeling_
+**Typefordeling**
 
 Fordelingen av typer på de ulike sakene.
 

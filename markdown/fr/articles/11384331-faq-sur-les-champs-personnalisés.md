@@ -22,7 +22,7 @@ Les valeurs des champs personnalisés sont affichées dans l'exportation PDF des
 
 Les champs personnalisés ne sont pas encore inclus dans le BCF exporté. Les champs personnalisés feront partie de la norme BCF 4 lorsqu'elle sera publiée. Après la publication, nous et d'autres outils BCF qui suivent la norme travailleront à rendre le champ disponible pour l'échange.
 
-### 3.3 **Exportation Excel de rubrique**
+### 3.3 **Export Excel des sujets**
 
 Une colonne sera ajoutée pour chaque champ personnalisé dans le tableau de rubriques.
 

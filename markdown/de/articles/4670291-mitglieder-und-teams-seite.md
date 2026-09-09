@@ -60,7 +60,7 @@ Die Tabelle "Mitglieder" kann die folgenden Spalten enthalten:
 
 **Rolle** Die Rolle des Mitglieds. Besitzer (Blau) Administrator (Orange) Mitglied (Grün)
 
-**Teams** Jedes Mitglied kann Mitglied mehrerer Teams sein. Die Teams, zu denen ein Mitglied gehört, werden in dieser Spalte angezeigt. Administrator-Team (Orange) Mitglied-Team (Grün) Wenn die Gesamtzahl der Teams, zu denen ein Mitglied gehört, nicht passt, passen Sie die Spaltenbreite an oder klicken Sie auf die drei Punkte, um den Rest zu sehen.
+**Teams** Jedes Mitglied kann Teil mehrerer Teams sein. Die Teams, denen ein Mitglied angehört, werden in dieser Spalte angezeigt. Administrator-Team (Orange) Mitglieder-Team (Grün) Wenn die Gesamtzahl der Teams, denen ein Mitglied angehört, nicht passt, passen Sie die Breite der Spalte an oder klicken Sie auf die drei Punkte, um den Rest zu sehen.
 
 ## 5. **Registerkarte "Teams"**
 

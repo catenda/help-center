@@ -19,11 +19,11 @@ Het menu Nieuw element acties is rechtsbovenin te vinden en kan er ongeveer als 
 Klik op Nieuwe export om een nieuwe export te maken met de volgende stappen.
 
 1. Formaatopties
-1. Selecteer model(len) en revisie(s)
-1. Samenvoeg opties
-1. Voeg de naam en opmerking van het project toe
-1. Deel opties
-1. Druk op de exportknop
+2. Selecteer model(len) en revisie(s)
+3. Samenvoeg opties
+4. Voeg de naam en opmerking van het project toe
+5. Deel opties
+6. Druk op de exportknop
 
 Klik hier voor meer informatie over het maken van een nieuwe export.
 

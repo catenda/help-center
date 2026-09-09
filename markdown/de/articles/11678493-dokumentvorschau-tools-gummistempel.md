@@ -28,7 +28,7 @@ Die Stempeltypen im Voreinstellungsmenü können die folgenden Informationen ent
 
 ### 2.2 Stempeltyp-Inhalt
 
-Im Voreinstellungsmenü können die folgenden Stempel angezeigt werden: **Vorname** - Alles vor dem ersten Leerzeichen im Kontonamen
+Im Voreingestelltes Menü können die folgenden Stempel angezeigt werden: **Vorname** - Alles vor dem ersten Leerzeichen im Kontonamen
 
 **Zweiter Vorname Nachname** - Alles nach dem ersten Leerzeichen im Kontonamen
 

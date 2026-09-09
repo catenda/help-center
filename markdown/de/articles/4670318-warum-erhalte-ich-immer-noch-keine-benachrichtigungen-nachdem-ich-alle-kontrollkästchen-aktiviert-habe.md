@@ -1,4 +1,4 @@
-# Warum erhalte ich immer noch keine Benachrichtigungen, nachdem ich alle Kontrollkästchen aktiviert habe?
+# Warum erhalte ich keine Benachrichtigungen?
 
 In den Benachrichtigungseinstellungen müssen Sie alle Kontrollkästchen aktivieren. Zusätzlich müssen Sie Benachrichtigungen mit der Schaltfläche in der oberen rechten Ecke der Benachrichtigungseinstellungen aktivieren.
 

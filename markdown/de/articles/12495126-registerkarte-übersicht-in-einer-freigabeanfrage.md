@@ -54,15 +54,15 @@ Wenn Validierungsangaben für alle Dokumente eingereicht werden, wird die Freiga
 
 ### 4.1 Spalten in der Schritt-Übersichtstabelle
 
-**_Team_ —** Namen der Prüfer-Teams, die für diesen Freigabeschritt im für diese Freigabeanfrage ausgewählten Workflow konfiguriert sind.
+**_Team_:** Namen der Reviewer-Teams, die für diesen Genehmigungsschritt im Workflow konfiguriert sind, der für diese Genehmigungsanfrage ausgewählt wurde.
 
-**_Ausstehend_ —** Die Anzahl der Dokumente, für die ein Mitglied des Prüfer-Teams im Namen des Prüfer-Teams in diesem Freigabeprüfschritt noch keine Validierungsangabe eingereicht hat.
+**_Ausstehend_:** Die Anzahl der Dokumente, bei denen ein Mitglied eines Reviewer-Teams im Namen des Reviewer-Teams in diesem Genehmigungsanfrageschritt noch keine Validierungsangabe eingereicht hat.
 
 **_Unter Überprüfung –_** _Die Anzahl der Dokumente, die genehmigt oder abgelehnt, aber noch nicht eingereicht wurden. Wenn nicht eingereicht, aber zum Einreichen verfügbar, ist die Schaltfläche "Einreichen" dunkelgrün._
 
-**_Eingereicht_ —** Die Anzahl der genehmigten Angaben, die von einem Mitglied des Prüfer-Teams im Namen eines Prüfer-Teams in diesem Freigabeprüfschritt eingereicht wurden.
+**_Eingereicht_:** Die Anzahl der genehmigten Angaben, die von einem Mitglied eines Reviewer-Teams im Namen eines Reviewer-Teams in diesem Genehmigungsanfrageschritt eingereicht wurden.
 
-**_Team-Fortschritt_ —** Der Fortschritt der Validierungsangaben, die von einem Mitglied des Prüfer-Teams im Namen eines Prüfer-Teams in diesem Freigabeprüfschritt eingereicht wurden.
+**_Team-Fortschritt_:** Der Fortschritt der Validierungsangaben, die von einem Mitglied eines Reviewer-Teams im Namen eines Reviewer-Teams in diesem Genehmigungsanfrageschritt eingereicht wurden.
 
 ## 5. Freigabeanfrage-Ergebnis
 

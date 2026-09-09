@@ -52,16 +52,15 @@ Grâce à vos précieux commentaires, nous avons pu éliminer de nombreux sujets
 - Les couleurs appliquées aux objets maillés s'affichent désormais correctement. Les modèles devront être réimportés pour voir la différence.
 - Une refonte complète de notre système de gestion de modèles - nous chargeons maintenant les informations du modèle uniquement si nécessaire, au lieu de tout charger d'avance. Cela rend la page rapide à charger et permet à nos serveurs de mieux gérer toutes vos demandes lorsque beaucoup de personnes utilisent Catenda en même temps.
 - Il est à nouveau possible de voir les propriétés dans les révisions précédentes des modèles dans le panneau d'inspection
-- Vous ne verrez plus les modèles auxquels vous n'avez pas accès dans le sélecteur de révisions.
-  De cette manière, les modèles utilisés pour les appels d'offres peuvent rester anonymes en utilisant le contrôle d'accès.
+- Vous ne verrez plus les modèles auxquels vous n'avez pas accès dans le sélecteur de révision.<br>De cette façon, les modèles utilisés pour les appels d'offres peuvent rester anonymes grâce au contrôle d'accès.
 - Il est à nouveau possible (et une meilleure expérience qu'auparavant) de mesurer entre les points dans les nuages de points.
 
 ### 2.3 **Sujets**
 
 - Le tableau de tous les sujets n'affiche plus les filtres du tableau précédent sur lequel vous étiez et affiche à nouveau correctement les filtres appartenant au tableau de tous les sujets.
 - Améliorations de l'exportation des sujets :
-    - Les exportations de sujets qui prennent longtemps vont maintenant expirer.
-    - Jusqu'à 10000 images peuvent maintenant être incluses dans une exportation PDF.
+  - Les exportations de sujets qui prennent longtemps vont maintenant expirer.
+  - Jusqu'à 10000 images peuvent maintenant être incluses dans une exportation PDF.
 
 ### 2.4 **Paramètres du projet**
 

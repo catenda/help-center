@@ -9,13 +9,13 @@ De lijstweergave in de topicstabel op de [topicspagina](https://support.catenda.
 In de lijstweergave van een topic board is het mogelijk om topics te sorteren op:
 
 1. Nieuwste
-1. Oudste
-1. Recent bijgewerkt
-1. Laatst recent bijgewerkt
-1. Vervaldatum, nieuwste eerst
-1. Vervaldatum, oudste eerst
-1. Aangepast veld, aflopend
-1. Aangepast veld, oplopend
+2. Oudste
+3. Recent bijgewerkt
+4. Laatst recent bijgewerkt
+5. Vervaldatum, nieuwste eerst
+6. Vervaldatum, oudste eerst
+7. Aangepast veld, aflopend
+8. Aangepast veld, oplopend
 
 ## 2. **Topics-lijst**
 

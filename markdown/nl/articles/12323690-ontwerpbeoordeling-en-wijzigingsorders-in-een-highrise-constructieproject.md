@@ -1,4 +1,4 @@
-# Ontwerpbeoordeling en Wijzigingsorders in een Highrise-constructieproject
+# Designreview en wijzigingsorders in een hoogbouw
 
 > Industrie: Commerciële bouw Persona: Maria, een projectarchitect bij een groot bedrijf.
 

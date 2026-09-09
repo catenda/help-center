@@ -9,32 +9,32 @@ Op pagina's waar meerdere elementen worden weergegeven, wordt informatie vaak in
 In de volgende tabellen wordt alle informatie standaard weergegeven
 
 - Inspectpaneel
-    - [Hoeveelheid opname (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
-    - [Uitlijningen](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
-    - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
-    - Naamgevingsconventies
+  - [Hoeveelheid opname (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
+  - [Uitlijningen](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
+  - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
+  - Naamgevingsconventies
 - Bibliotheken
-    - [Koppelingenbibliotheek](https://support.catenda.com/en/articles/4670254-links-library)
-    - [Sharepoint-bibliotheek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-    - [Dropbox-bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page)
-    - [Bibliotheek eigenschapswaarde](https://support.catenda.com/en/articles/4670252-property-value-library)
-    - [Classificatiebibliotheek](https://support.catenda.com/en/articles/4670255-classification-library)
+  - [Koppelingenbibliotheek](https://support.catenda.com/en/articles/4670254-links-library)
+  - [Sharepoint-bibliotheek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+  - [Dropbox-bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page)
+  - [Bibliotheek eigenschapswaarde](https://support.catenda.com/en/articles/4670252-property-value-library)
+  - [Classificatiebibliotheek](https://support.catenda.com/en/articles/4670255-classification-library)
 - Organisatiegereedschap
-    - [Gebruikerspagina](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-    - [Projectenpagina](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-    - [Pagina projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+  - [Gebruikerspagina](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+  - [Projectenpagina](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+  - [Pagina projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 
 In de volgende tabellen wordt een standaardconfiguratie weergegeven wanneer de pagina wordt geladen:
 
 - Modellen
-    - [Objectenpagina](https://support.catenda.com/en/articles/12352750-objects-page)
+  - [Objectenpagina](https://support.catenda.com/en/articles/12352750-objects-page)
 
 In de volgende tabellen worden wijzigingen aan de standaardtabelconfiguratie weergegeven wanneer de pagina wordt geladen:
 
 - [Onderwerpen](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabelweergave)
 - [Modellen](https://support.catenda.com/en/articles/4670286-models-page) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
 - [Documenten](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
-    - [Overzicht documenttoegang](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+  - [Overzicht documenttoegang](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
 - [Rapporten](https://support.catenda.com/en/articles/12303098-reports-page) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
 - [Labels](https://support.catenda.com/en/articles/4670265-labels-page) (Tab Labels, Tab Groep)
 - [Aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
@@ -251,18 +251,25 @@ Wanneer het sleepankerpunt op een interactieve rij wordt vrijgegeven, kan het di
 Het is mogelijk om kolommen in de volgende tabellen te verplaatsen:
 
 - Modellen
-    - [Objecten pagina](https://support.catenda.com/en/articles/12352750-objects-page)
+  - [Objecten pagina](https://support.catenda.com/en/articles/12352750-objects-page)
+
 - Organisatietools
-    - [Projectpagina](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-    - [Pagina projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+  - [Projectpagina](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+  - [Pagina projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 
 - [Onderwerpen](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabelweergave)
+
 - [Modellen](https://support.catenda.com/en/articles/4670286-models-page) (Basisweergave, Publicatie tab, Werkruimte tab)
+
 - [Documenten](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Basisweergave, Publicatie tab, Werkruimte tab)
-    - [Documenttoegangenoverzicht](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+  - [Documenttoegangenoverzicht](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+
 - [Rapporten](https://support.catenda.com/en/articles/12303098-reports-page) (Basisweergave, Publicatie tab, Werkruimte tab)
+
 - [Labels](https://support.catenda.com/en/articles/4670265-labels-page) (Labels tab, Groep tab)
+
 - [Aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+
 - [Ledenpagina](https://support.catenda.com/en/articles/11926821-members-page) (Leden tab, Teams tab)
 
 ## 9. Interactie met rijen door aanwijzen
@@ -289,7 +296,7 @@ Wanneer klikbare tekst in een rij wordt aangewezen, kan de cursor veranderen in 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jm0gvfww/26-text-hover.png)
 
-## 10. Interactie met rijen door te klikken
+## 10. Interactie met rijen door klikken
 
 Verschillende gedragingen kunnen optreden wanneer u op de inhoud van een rij klikt.
 

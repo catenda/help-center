@@ -26,19 +26,21 @@ Klik [hier](https://support.catenda.com/en/articles/12495638-approval-request-do
 
 ### 3.1 **Kolommen**
 
-- **Naam:** geeft de naam van het document en het documenttype met pictogram weer.
-  Door op de titel te klikken, kunt u het document rechtstreeks in de beoordelingsomgeving weergeven.
+- **Naam:** Toont de naam van het document en het type document met pictogram.<br>Door op de titel te klikken kunt u het document rechtstreeks weergeven in de goedkeuringomgeving.
+
 - **Revisie:** geeft de revisienaam van het document weer
+
 - **#:** geeft aan welke versie/revisie van het document in de beoordeling aanwezig is.
-    - Wanneer een document aan een beoordeling wordt toegevoegd, worden de grote en kleine revisienummers ervan weergegeven, wat er als volgt uit kan zien:
+  - Wanneer een document aan een goedkeuring wordt toegevoegd, worden het grote en kleine revisienummer weergegeven, wat er als volgt kan uitzien:<br>
 
-        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
+      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-1bda23a9911c.png" width="122"/></div>
 
-    - Als de geselecteerde gedeelde revisie is gepubliceerd om de nieuwste gepubliceerde revisie in het document buiten het huidige beoordelingsverzoek te worden, kan dit er als volgt uitzien:
+  - Als de geselecteerde gedeelde revision is gepubliceerd om de meest recente gepubliceerde revision in het document buiten de huidige goedkeuringsaanvraag te worden, kan dit er als volgt uitzien:<br>
 
-        <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
+      <div class="intercom-container"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/inline-83fe3ba7ad73.png" width="289"/></div>
 
 - **Stap 'x':** geeft met een balk aan wat de status van de stap is.
+
 - **Definitieve goedkeuring:** Deze kolom geeft de definitieve goedkeuring weer. Wanneer deze wordt geactiveerd, wordt het pictogram gekleurd.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/04-columns.png)

@@ -90,7 +90,7 @@ Vous êtes un coordinateur BIM en chef responsable de la génération de rapport
 
 ### 7.2 **Expérience**
 
-Vous maîtrisez l'analyse de données et l'automatisation dans l'écosystème Catenda. Vous comprenez que lors de la gestion de milliers de sujets, le comptage manuel est une "taxe silencieuse" qui entraîne des erreurs. Vous excellez à exploiter les métadonnées, les filtres avancés et des outils spécialisés—comme la page Rapports et le connecteur Power BI—pour transformer les collisions techniques en informations claires et exploitables pour la direction du projet.
+Vous êtes un maître de l'analyse de données et de l'automatisation au sein de l'écosystème Catenda. Vous comprenez que la gestion de milliers de Sujets crée une « taxe silencieuse » due au comptage manuel qui mène à des erreurs. Vous excellez à tirer parti des métadonnées, des Filtres avancés et des outils spécialisés, comme la page Rapports et le connecteur Power BI, pour transformer les collisions techniques en insights clairs et exploitables pour la direction du projet.
 
 ### 7.3 **Objectif**
 
@@ -110,7 +110,7 @@ Le projet entre dans une phase de coordination critique avec des milliers de suj
 
 **La page Rapports pour les rapports multi-tableaux** Vous utilisez la page Rapports, une fonction opt-in qui vous permet de créer des rapports de modèles personnalisés pour les sujets et les documents. C'est essentiel car elle peut exporter des sujets de plusieurs tableaux de sujets simultanément. Vous utilisez l'éditeur de rapport pour gérer ces modèles et suivre chaque révision pour un historique complet.
 
-**Le connecteur Catenda Power BI** Pour une analyse de données approfondie, vous connectez la base de données Catenda Hub directement avec Power BI. Vous récupérez des ensembles de données complets—incluant les sujets, les statuts des sujets et les étiquettes—pour créer des tableaux de bord interactifs. Cela vous permet d'effectuer des calculs avancés pour isoler les interférences spécifiques de zone tampon et suivre leur vieillissement au fil du temps.
+**Le connecteur Catenda Power BI** Pour une analyse approfondie des données, vous Liez la base de données Catenda Hub directement à Power BI. Vous récupérez des ensembles de données complets, y compris les Sujets, les statuts des Sujets et les Étiquettes, pour créer des Tableaux de bord interactifs. Cela vous permet d'effectuer des calculs avancés pour isoler les clashes de zones tampons spécifiques et suivre leur vieillissement au fil du temps.
 
 **Filtrage avancé et étiquettes** Vous établissez un système d'étiquetage rigide pour la gravité des interférences. Vous utilisez ensuite les options de recherche et de filtre sur la page Rapports ou dans Power BI pour isoler ces groupes spécifiques pour vos métriques hebdomadaires.
 

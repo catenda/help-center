@@ -54,15 +54,15 @@ Lorsque les indications de validation sont soumises pour tous les documents, la 
 
 ### 4.1 Colonnes du tableau Aperçu des étapes
 
-**_Équipe_ —** Noms des équipes d'examinateurs configurées pour cette étape de validation dans le flux sélectionné pour cette demande de validation.
+**_Équipe_:** Noms des équipes d'examinateurs configurées pour cette étape d'approbation dans le flux de travail sélectionné pour cette demande d'approbation.
 
-**_En attente_ —** Le nombre de documents pour lesquels un membre de l'équipe d'examinateurs n'a pas encore soumis d'indication de validation au nom de l'équipe d'examinateurs dans cette étape de demande de validation.
+**_En attente_:** Le nombre de documents pour lesquels un membre de l'équipe d'examinateurs n'a pas encore soumis une indication de validation au nom de l'équipe d'examinateurs à cette étape de demande d'approbation.
 
 **_En cours d'examen –_** _Le nombre de documents qui sont Approuvés ou rejetés mais pas encore soumis. Lorsqu'ils ne sont pas soumis mais disponibles pour soumission, le bouton « soumettre » est vert foncé._
 
-**_Soumis_ —** Le nombre d'indications approuvées qui ont été soumises par un membre de l'équipe d'examinateurs au nom d'une équipe d'examinateurs dans cette étape de demande de validation.
+**_Soumis_:** Le nombre d'indications approuvées qui ont été soumises par un membre de l'équipe d'examinateurs au nom d'une équipe d'examinateurs à cette étape de demande d'approbation.
 
-**_Progression de l'équipe_ —** La progression des indications de validation qui ont été soumises par un membre de l'équipe d'examinateurs au nom d'une équipe d'examinateurs dans cette étape de demande de validation.
+**_Progression de l'équipe_:** La progression des indications de validation qui ont été soumises par un membre de l'équipe d'examinateurs au nom d'une équipe d'examinateurs à cette étape de demande d'approbation.
 
 ## 5. Résultat de demande de validation
 

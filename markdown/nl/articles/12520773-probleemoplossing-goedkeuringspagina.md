@@ -28,7 +28,7 @@ Als een document dat onderdeel is van een goedkeuring wordt verwijderd, kan het 
 
 Documenten die aan een goedkeuringsverzoek zijn toegevoegd en later zijn verwijderd, kunnen ofwel door een beheerder worden hersteld of uit het goedkeuringsverzoek worden verwijderd.
 
-### 3.2 **Ingetrokken revisie**
+### 3.2 **Ingetrokken revision**
 
 Als een documentrevisie die onderdeel is van een goedkeuring wordt ingetrokken, wordt het revisienummer doorgehaald en wordt de inhoud van het document niet meer weergegeven op de pagina voor bestandsbeoordeling. Dit is hoe het tabblad Document er kan uitzien wanneer een document dat onderdeel is van een goedkeuring is verwijderd:
 

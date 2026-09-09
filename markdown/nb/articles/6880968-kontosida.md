@@ -3,7 +3,7 @@
 Dine [kontoinnstillinger](https://bimsync.com/account/profile) finner du på to steder:
 
 1. På venstre side av **startsiden** til Catenda Hub.
-1. I rullegardinmenyen som vises etter at du klikker på **profilbildet** ditt hvor som helst i Catenda Hub.
+2. I rullegardinmenyen som vises etter at du klikker på **profilbildet** ditt hvor som helst i Catenda Hub.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/01-intro.png)
 
@@ -57,9 +57,9 @@ I [autentisering](https://bimsync.com/account/authentication) er det mulig å:
 
 1. Endre passordet ditt
 
-    Klikk [her](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) for feilsøking av passord
+   Klikk [her](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) for feilsøking av passord
 
-1. [Aktiver og deaktiver MFA.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
+2. [Aktiver og deaktiver MFA.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
 
 ![Kontroller hvordan du logger inn](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/07-authentication.png)
 
@@ -73,16 +73,16 @@ På [applikasjonssiden](https://bimsync.com/account/apps) kan applikasjoner som 
 
 Hver API-applikasjon er forbundet med en Catenda-konto. Konfigurasjonen av applikasjonen kan vises i området "Dine applikasjoner". Med en konfigurert applikasjon er dette hvor følgende innstillinger finner du:
 
-_Applikasjonsnavn_ Navnet på applikasjonen. Dette navnet konfigureres av Catenda. For å endre navnet på applikasjonen din, kontakt oss.
+**Applikasjonsnavn** Navnet på applikasjonen. Dette navnet konfigureres av Catenda. For å endre navnet på applikasjonen din, kontakt oss.
 
-_Klient-ID_ Klient-ID-en til applikasjonen. Hver applikasjon har en unik ID som ikke kan endres.
+**Klient-ID** Klient-ID-en til applikasjonen. Hver applikasjon har en unik ID som ikke kan endres.
 
-_Klienthemlighet_ Passordet til applikasjonen. Hver applikasjon har et unikt passord som ikke kan endres.
+**Klienthemlighet** Passordet til applikasjonen. Hver applikasjon har et unikt passord som ikke kan endres.
 
-_Omadresseringsadresse_ URL-en som applikasjonen vil omadressere tilgangskoder til når en forespørsel sendes med den riktige klienthemmeligheten og klient-ID-en. For å motta en tilgangskode på riktig måte, må URL-en i forespørselen samsvare med URL-en som er konfigurert her.
+**Omadresseringsadresse** URL-en som applikasjonen vil omadressere tilgangskoder til når en forespørsel sendes med den riktige klienthemmeligheten og klient-ID-en. For å motta en tilgangskode på riktig måte, må URL-en i forespørselen samsvare med URL-en som er konfigurert her.
 
 ### 4.2 **Applikasjoner med tilgang til kontoen din**
 
 Applikasjoner som har fått tilgang til kontoen vises. Klikk [her](https://support.catenda.com/en/articles/8396532-catenda-connections) for å se hvilke applikasjoner som kan kobles til.
 
-_Tilbakekall tilgang_ Klikk på tilbakekall tilgang for å tilbakekalle tilgangen som ble gitt til den applikasjonen. Etter dette må tilgangen gis igjen for å fortsette å bruke den applikasjonen med denne kontoen. Avhengig av applikasjonen kan den spørre brukeren om å gi tilgang igjen eller den kan gi en feil og ikke spørre om ny tilgang. Det å logge ut og inn igjen tilbakestiller ofte koblingen i dette tilfellet.
+**Tilbakekall tilgang** Klikk på tilbakekall tilgang for å tilbakekalle tilgangen som ble gitt til den applikasjonen. Etter dette må tilgangen gis igjen for å fortsette å bruke den applikasjonen med denne kontoen. Avhengig av applikasjonen kan den spørre brukeren om å gi tilgang igjen eller den kan gi en feil og ikke spørre om ny tilgang. Det å logge ut og inn igjen tilbakestiller ofte koblingen i dette tilfellet.

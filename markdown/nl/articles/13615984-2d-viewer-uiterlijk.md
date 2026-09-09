@@ -45,8 +45,7 @@ Klik [hier](https://support.catenda.com/en/articles/4854523-2d-location-of-issue
 Voordat u met markers werkt, moet u ervoor zorgen dat de 2D-viewer is geconfigureerd.
 
 - **Verdiepingen van Model 2D-weergaven -** Kies een verdieping uit een ingeschakelde 2D-weergave als de basishogte. Schakel andere 2D-weergaven in om deze verdieping naast elkaar te bekijken.
-- **Verdiepingen van** **Gebouwen -** Kies een verdieping uit een vooraf geconfigureerd gebouw.
-  De basishogte en de ingeschakelde 2D-weergaven van geconfigureerde modellen zijn ingeschakeld.
+- **Verdiepingen van** **Gebouwen -** Kies een verdieping uit een vooraf geconfigureerd gebouw. <br>De basisafstand en de ingeschakelde 2D-weergaven van geconfigureerde modellen zijn ingeschakeld.
 
 **Marker plaatsen -** Klik met de rechtermuisknop op het canvas en maak een nieuw onderwerp met een marker. Klik op locatie toevoegen in de onderwerpskop in het inhoudspaneel en klik op de locatie waar de marker moet worden toegevoegd.
 

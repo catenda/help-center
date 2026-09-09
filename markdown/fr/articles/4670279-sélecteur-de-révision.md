@@ -86,7 +86,7 @@ L'icône de chaque type de fichier de document 3D. Disponible uniquement pour le
 
 Pour les modèles, le nom du modèle s'affiche. Pour les documents, le nom du document s'affiche. La liste des documents suit l'[ordre de tri général des listes](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) dans Catenda.
 
-### 1.9 **Révision du modèle**
+### 1.9 **Révision du model**
 
 À droite du nom du document 3D, du texte souligné en vert peut être vu. Le texte affiché reflète le numéro de la révision qui sera chargée lorsque le bouton 3D est activé. Si une révision du document 3D est déjà chargée, le numéro reflète la révision actuellement sélectionnée et chargée en mémoire.
 

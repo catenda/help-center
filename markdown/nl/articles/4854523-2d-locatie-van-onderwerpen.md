@@ -64,12 +64,12 @@ Zichtbaarheid van markeringen kan worden geconfigureerd op de volgende locaties:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/09-marker-configuration.png)
 
-1. Markeringen in de 2D-weergave weergeven/verbergen met de [2D-viewerinstellingen](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098).
-   Opmerking: markeringen zijn mogelijk nog steeds niet zichtbaar als de markeringslaag is uitgeschakeld.
+1. Markers in de 2D-weergave tonen/verbergen met de [2D viewer-instellingen](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098). <br>Opmerking: Markers zijn mogelijk nog steeds niet zichtbaar als de markerlaag is uitgeschakeld.
 
-    In dit menu kan ook de markeringskleurmodus worden geconfigureerd. ([Status, Onderwerptype, Einddatum](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
+   In dit menu kan ook de markeringskleurmodus worden geconfigureerd.
+   ([Status, Onderwerptype, Einddatum](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
 
-1. In het lagenmenu kan de markeringslaag worden in-/uitgeschakeld.
+2. In het lagenmenu kan de markeringslaag worden in-/uitgeschakeld.
 
 ## 2. **Onderwerpen met nieuwe markeringen**
 

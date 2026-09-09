@@ -19,6 +19,6 @@ Opplastingsfeil kan også oppstå hvis teksten i den dynamiske blokken ikke sams
 For å kontrollere de eksakte kravene til en navnekonvensjonsblokk, kan regelkonfigurasjonen vurderes direkte fra dokumentgrensesnittet:
 
 1. Utvid informasjonsmenyenhen på høyre side for et eksisterende dokument i den berørte mappen.
-1. Vurder delen **Forhåndsvisning av navnekonvensjon**, som gir en sanntids visuell nedbrytning av hva navneregelen forventer.
-1. Hold musepekeren over den spesifikke versjon- eller statusblokken for å se konfigurasjonsreglene.
-1. Identifiser det nøyaktige egendefinerte feltet som driver blokken, for å oppdage hvilke spesifikke verdier som er tillatt, slik at det lokale filnavnet kan justeres til å samsvare.
+2. Vurder delen **Forhåndsvisning av navnekonvensjon**, som gir en sanntids visuell nedbrytning av hva navneregelen forventer.
+3. Hold musepekeren over den spesifikke versjon- eller statusblokken for å se konfigurasjonsreglene.
+4. Identifiser det nøyaktige egendefinerte feltet som driver blokken, for å oppdage hvilke spesifikke verdier som er tillatt, slik at det lokale filnavnet kan justeres til å samsvare.

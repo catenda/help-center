@@ -22,8 +22,7 @@ Organisasjonseiere vil ha tilgang til følgende:
 
 - Organisasjonsverktøyet
 - Opprette prosjekter så lenge planen tillater det.
-- Flytte prosjekter til andre organisasjoner de eier.
-  Dette vil frigjøre en plass som tillater nye prosjekter å bli opprettet.
+- Flytte prosjekter til andre organisasjoner de eier. <br>Dette vil frigjøre en plass som tillater nye prosjekter å bli opprettet.
 
 > **Merk:** Organisasjonseiere konfigureres av Catenda. Hvis du ønsker å legge til/fjerne en organisasjonseier, vennligst be din kontaktperson kontakte oss på support og vi vil gjerne assistere.
 
@@ -69,13 +68,13 @@ Legg til de valgte brukerne dine til ett eller flere prosjekter. Etter å ha kli
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2q7t2036/06-add-to-projects.png)
 
-_Velg prosjekter_ Velg hvilke prosjekter du vil legge til brukeren i
+**Velg prosjekter** Velg hvilke prosjekter du vil legge til brukeren i
 
-_Velg prosjektrolle_ Velg rollen de vil ha i disse prosjektene
+**Velg prosjektrolle** Velg rollen de vil ha i disse prosjektene
 
-_Velg brukere_ Legg til eller fjern brukere før du legger dem til i de valgte prosjektene uten å måtte invitere dem via e-post. Bare brukere som er medlemmer av organisasjonen kan legges til på denne måten. Andre brukere må inviteres via e-post.
+**Velg brukere** Legg til eller fjern brukere før du legger dem til i de valgte prosjektene uten å måtte invitere dem via e-post. Bare brukere som er medlemmer av organisasjonen kan legges til på denne måten. Andre brukere må inviteres via e-post.
 
-_Inviter via e-post_ Inviter brukere via e-post uten å måtte være en del av prosjektet. Disse brukerne må klikke på invitasjonslenkene i e-posten de mottar, akkurat som om de skulle blitt invitert via prosjektinvitasjonssiden av en prosjektadministrator.
+**Inviter via e-post** Inviter brukere via e-post uten å måtte være en del av prosjektet. Disse brukerne må klikke på invitasjonslenkene i e-posten de mottar, akkurat som om de skulle blitt invitert via prosjektinvitasjonssiden av en prosjektadministrator.
 
 ### 4.2 **Fjern medlem**
 

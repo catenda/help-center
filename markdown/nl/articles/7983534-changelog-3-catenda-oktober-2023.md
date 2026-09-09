@@ -46,9 +46,7 @@ Dankzij uw waardevolle feedback hebben we veel problemen kunnen oplossen die u w
 
 ### 2.1 **Problemen**
 
-- De volgende kolommen in de Excel-export hebben een nieuwe naam in het Japans:
-  「にて作成された」→「作成者・質問者」
-  「作成済み」→「作成日・質問日」
+- De volgende kolommen in de Excel-export hebben een nieuwe naam gekregen in het Japans:<br>「にて作成された」→「作成者・質問者」<br>「作成済み」→「作成日・質問日」
 - De instelling voor weergegeven of verborgen filters in probleemborden wordt nu onthouden in uw account in plaats van in uw browser, dus u hoeft deze niet te wijzigen als uw browser vaak opnieuw wordt ingesteld.
 - Het probleembord wordt nu weer bijgewerkt nadat een probleem is verplaatst
 - BCF-problemen die met de status " " worden geïmporteerd, krijgen nu standaard de eerste open status

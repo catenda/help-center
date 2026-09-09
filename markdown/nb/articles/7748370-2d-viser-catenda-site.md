@@ -34,13 +34,13 @@ Når den er valgt, vises saksnummeret og tittelen. Trykk på pilen for å åpne 
 
 a. Zoom til utstrekningen av etasjen - Få en oversikt b. [3D-spørring](#h_8a2c752641) - Last inn en del av 2D-visningen i 3D c. 2D viser [innstillinger](#h_63e1728758)
 
-_3D-spørring_ Hvis du får en feil når du laster inn 3D-modeller, er det ofte fordi mobilenheten din ikke kan håndtere alle dataene fra en eller flere modeller.
+**3D-spørring** Hvis du får en feil når du laster inn 3D-modeller, er det ofte fordi mobilenheten din ikke kan håndtere alle dataene fra en eller flere modeller.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/06-toolbar.png)
 
 Med dette alternativet kan deler av modellen lastes inn slik at de kan vises selv med færre ressurser tilgjengelig på mobilenheten.
 
-_2D viser innstillinger_ Her kan ulike 2D viser-alternativer konfigureres
+**2D viser innstillinger** Her kan ulike 2D viser-alternativer konfigureres
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/07-toolbar.png)
 

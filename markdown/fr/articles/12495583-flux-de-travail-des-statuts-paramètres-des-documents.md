@@ -37,7 +37,7 @@ Par défaut, un statut partagé nommé « partagé » est configuré. Les statut
 - Statuts publiés - Les nouvelles informations soumises à l'étape publiée.
 - Le statut par défaut est défini sur Aucun statut.
 - Le menu d'approbations dans les paramètres des documents est désactivé.
-- La sous-page d'approbations vers la page des documents est désactivée.
+- La sous-page d'approbations de la page des documents est désactivée.<br>
 
 ## 2. **Statuts publiés**
 
@@ -45,7 +45,7 @@ Par défaut, un statut publié nommé « publié » est configuré. Cliquez sur 
 
 - Publié, avec commentaires - Vert clair
 - En attente - Jaune
-- Rejeté - Rouge
+- Rejeté - Rouge<br>
 
 ## 3. **Ajouter un statut**
 

@@ -102,8 +102,7 @@ Verknüpfte Dateien als separate IFCs exportieren Wenn Sie die verknüpften Date
 
 Nur im IFC-Dateiformat sichtbare Objekte exportieren.
 
-- Räume, Bereiche und Leerzeichen in 3D-Ansichten exportieren
-  Diese Option kann zum Auswählen von Bereichen im 2D-Viewer nützlich sein.
+- Räume, Bereiche und Räumlichkeiten in 3D-Ansichten exportieren <br>Diese Option kann hilfreich sein, um Bereiche im 2D-Viewer auszuwählen.
 
 Stahlelemente einschließen, _gefüllt_
 

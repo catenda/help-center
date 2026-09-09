@@ -54,15 +54,15 @@ Wanneer validatieaanwijzingen voor alle documenten zijn ingediend, gaat het beoo
 
 ### 4.1 Kolommen in de tabel stappenoverzicht
 
-**_Team_ —** Namen van beoordelingsteams die voor deze beoordelingsstap zijn geconfigureerd in de werkstroom die voor dit beoordelingsverzoek is geselecteerd.
+**_Team_:** Namen van revisor-teams die zijn geconfigureerd voor deze goedkeuringsstap in de workflow die is geselecteerd voor deze goedkeuringsaanvraag.
 
-**_In behandeling_ —** Het aantal documenten waarbij een lid van een beoordelingsteam nog geen validatieaanwijzing namens het beoordelingsteam in deze beoordelingsstap heeft ingediend.
+**_In behandeling_:** Het aantal documenten waarvan een teamlid van de revisor nog geen validatieaanduiding heeft ingediend namens het revisor-team in deze goedkeuringsstap.
 
 **_Onder beoordeling –_** _Het aantal documenten dat is goedgekeurd of afgewezen maar nog niet is ingediend. Wanneer het nog niet is ingediend maar beschikbaar is voor indiening, is de knop 'Indienen' donkergroen._
 
-**_Ingediend_ —** Het aantal goedgekeurde aanwijzingen dat door een lid van een beoordelingsteam namens een beoordelingsteam in deze beoordelingsstap is ingediend.
+**_Ingediend_:** Het aantal goedgekeurde aanduidingen die zijn ingediend door een teamlid van de revisor namens een revisor-team in deze goedkeuringsstap.
 
-**_Voortgang team_ —** De voortgang van validatieaanwijzingen die door een lid van een beoordelingsteam namens een beoordelingsteam in deze beoordelingsstap zijn ingediend.
+**_Team-voortgang_:** De voortgang van validatieaanduidingen die zijn ingediend door een teamlid van de revisor namens een revisor-team in deze goedkeuringsstap.
 
 ## 5. Resultaat beoordelingsverzoek
 

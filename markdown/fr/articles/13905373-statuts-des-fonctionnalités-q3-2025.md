@@ -24,10 +24,8 @@ Il est souvent préférable d'activer cette fonctionnalité au début d'un nouve
 - Le nouveau flux de travail d'approbation ne dispose pas de notifications.
 - Seule la traduction en anglais est disponible.
 - Le nouveau flux de travail d'approbation ne peut être activé que si les révisions partagées n'ont pas été activées précédemment. Les projets créés sur la base d'un projet modèle où le nouveau flux de travail hérité est activé auront le flux de travail de validation hérité activé. Il n'est possible de voir le nouveau flux de travail de validation que dans les projets basés sur des projets modèles où les révisions partagées n'ont jamais été activées.
-- Une seule étape de demande d'approbation peut être active à la fois.
-  Tous les documents d'une étape de demande d'approbation doivent soit être approuvés, soit être rejetés avant que la demande d'approbation ne puisse avancer à l'étape suivante.
-- Il n'est possible que d'approuver ou de rejeter.
-  Les commentaires peuvent être ajoutés via des annotations, mais il n'y a pas d'approuver/rejeter avec commentaire comme dans le flux de travail de validation hérité.
+- Une seule étape de demande d'approbation peut être active à la fois. <br>Tous les documents dans une étape de demande d'approbation doivent être approuvés ou rejetés avant que la demande d'approbation puisse passer à l'étape suivante.
+- Il est uniquement possible d'approuver ou de rejeter. <br>Des commentaires peuvent être ajoutés via des annotations, mais il n'y a pas d'approbation/rejet avec commentaire comme dans le flux de validation hérité.
 
 ## 2. **Activation des fonctionnalités à la demande**
 

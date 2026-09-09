@@ -32,7 +32,7 @@ Projektadministratoren können nun die Genehmigungsthema-Templateoption für jed
 
 ### 2.3 **Einheitliche Spaltennamengebung für Dokumente & Modelle**
 
-Die Spalte "Name" hatte in Dokumenten vs. Modellen unterschiedliche Bedeutungen — was für Benutzer verwirrend war! Jetzt verwenden beide den gleichen Dokumentnamen. Das Feld "Modellname" bleibt bestehen, wurde nur in "Kurzname" umbenannt. Das Herunterladen von Modellen erzeugt jetzt den gleichen Dateinamen wie das Herunterladen von Dokumenten.
+Die Spalte "Name" bedeutete in Dokumenten vs. Modelle unterschiedliche Dinge, was für Benutzer verwirrend war! Jetzt verwenden beide denselben Dokumentnamen. Das Feld "Model Name" bleibt erhalten, nur mit der neuen Bezeichnung "Short Name" versehen. Das Herunterladen aus Modelle erzeugt jetzt denselben Dateinamen wie das Herunterladen aus Dokumenten.
 
 **Vorher-/Nachher-Vergleich**
 

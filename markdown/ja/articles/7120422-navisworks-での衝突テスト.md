@@ -3,26 +3,29 @@
 ## 1. プラグインを使用した衝突テストと BCF viewpoint の作成
 
 1. Clash Detective を設定して Clash テストを実行します。
-1. NW で clash を確認します。
 
-    a. 必要に応じて名前を付けます
+2. NW で clash を確認します。
 
-    b. **Focus on clash** および **Save viewpoint** コマンドを使用して viewpoint を調整して保存します
+   a. 必要に応じて名前を付けます
 
-    c. 類似タイプの clash をグループ化します
+   b. **Focus on clash** および **Save viewpoint** コマンドを使用して viewpoint を調整して保存します
 
-1. Viewpoint としてレポートを作成します。**Preserve result highlighting** をオンにします。
-1. これらの viewpoint はプラグインの clash タブに表示されます
-1. 1 つ以上の Clash を選択して問題を作成します。
+   c. 類似タイプの clash をグループ化します
 
-    a. 問題にタイトルを付けます
+3. Viewpoint としてレポートを作成します。**Preserve result highlighting** をオンにします。
 
-    b. 問題を追加をクリックします。
+4. これらの viewpoint はプラグインの clash タブに表示されます
 
-1. 意味のあるサムネイルを取得するには：
+5. 1 つ以上の Clash を選択して問題を作成します。
 
-    a. Clash Detective で clash を選択します
+   a. 問題にタイトルを付けます
 
-    b. **Clashes** タブで同じ clash を選択します。
+   b. 問題を追加をクリックします。
 
-    c. 問題を追加をクリックします。
+6. 意味のあるサムネイルを取得するには：
+
+   a. Clash Detective で clash を選択します
+
+   b. **Clashes** タブで同じ clash を選択します。
+
+   c. 問題を追加をクリックします。

@@ -44,11 +44,11 @@ Tittelen som saken skal ha. Som standard er den satt til å motta navn på gjenn
 
 ### 2.4 **Saksstyre**
 
-_Styre_ Saksstyret som saken opprettes i.
+**Styre** Saksstyret som saken opprettes i.
 
-_Status_ Statusen som saken skal ha
+**Status** Statusen som saken skal ha
 
-_Type_ Typen som saken skal ha
+**Type** Typen som saken skal ha
 
 ### 2.5 **Frist**
 

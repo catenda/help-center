@@ -24,13 +24,13 @@ En rullegardinmeny gir deg muligheten til å opprette 3 forskjellige typer saksm
 
 _Tekstsøk -_ `search=<Search phrase>` Etter at du har skrevet inn tegn i søk- eller filterlinjen, endres det første foreslåtte filteret til tekstsøk.
 
-_Innhold som kan søkes på_ Navn på saksmal
+**Innhold som kan søkes på** Navn på saksmal
 
-_Kapitalisering_ Tekstsøket er ikke følsomt for store eller små bokstaver.
+**Kapitalisering** Tekstsøket er ikke følsomt for store eller små bokstaver.
 
-_Antall tegn_ Hvilket som helst antall eller type tegn kan søkes på.
+**Antall tegn** Hvilket som helst antall eller type tegn kan søkes på.
 
-_Mellomrom_ Mellomromstegn ved starten av en søkefrase kan søkes på, men blir fjernet fra malmalnavn, så det vil ikke være noen resultater når det søkes. Mellomromstegn på slutten av en søkefrase blir fjernet.
+**Mellomrom** Mellomromstegn ved starten av en søkefrase kan søkes på, men blir fjernet fra malmalnavn, så det vil ikke være noen resultater når det søkes. Mellomromstegn på slutten av en søkefrase blir fjernet.
 
 ### 2.2 **Filtrering i filtermenyen**
 
@@ -65,28 +65,32 @@ Kan brukes på saker opprettet fra delen Generell sak. Her er de ulike handlinge
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/05-create-a-new-general-topic-template.png)
 
 1. **Sakliste**: Saklisten som den generelle saksmalenen kan genereres innen for.
-1. **Malnavn**: Malmalnavn kan velges fra rullegardinen under opprettelse, eller oppdateres i innstillingene senere hvis det er nødvendig.
-1. **Sakstittel**: Den resulterende saksintittel etter opprettelse av saken fra den generelle saksmalenen.
-   Hold musepekeren over "?" ikonet som ligger øverst til høyre på tittelfeltet for å se hvordan du kan tilpasse saksmalitittelen din med den tilgjengelige variabelen: `topicCreator`.
+
+2. **Malnavn**: Malmalnavn kan velges fra rullegardinen under opprettelse, eller oppdateres i innstillingene senere hvis det er nødvendig.
+
+3. **Sakstittel**: Den resulterende saktittelen etter opprettelse av saken fra den generelle saksmalen.<br>Hold musen over "?" ikonet som ligger på øverst til høyre på tittelfeltet for å se hvordan du kan tilpasse saksmalens tittel med den tilgjengelige variabelen: `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="184" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-272165f584d2.png" style="height: auto;" width="300"/></div>
 
-1. **Saksstatus**: Den resulterende saksstatus etter opprettelse av saken fra den generelle saksmalenen.
-1. **Sakstype**: Den resulterende sakstype etter opprettelse av saken fra den generelle saksmalenen.
-1. **Milepæl**: Den resulterende saksmilepæl etter opprettelse av saken fra den generelle saksmalenen.
-1. **Tildelt til**: Den resulterende saksansvarlig (prosjektmedlem eller team) etter opprettelse av saken fra den generelle saksmalenen. Du kan bruke her variabelen `Saksoppretteren` for automatisk å fylle ut dette feltet med saksskaperen hvis det er nødvendig.
+4. **Saksstatus**: Den resulterende saksstatus etter opprettelse av saken fra den generelle saksmalenen.
+
+5. **Sakstype**: Den resulterende sakstype etter opprettelse av saken fra den generelle saksmalenen.
+
+6. **Milepæl**: Den resulterende saksmilepæl etter opprettelse av saken fra den generelle saksmalenen.
+
+7. **Tildelt til**: Den resulterende saksansvarlige (prosjektmedlem eller team) etter opprettelse av saken fra den generelle saksmalen. Du kan bruke `Topic Creator` variabelen her for automatisk å fylle ut dette feltet med sakens oppretteren om nødvendig.<br>
 
     <div class="intercom-container intercom-align-center"><img height="94" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-c7f3d7220c54.png" style="height: auto;" width="150"/></div>
 
-1. **Etterspurt av**: Den resulterende saksanmoder etter opprettelse av saken fra den generelle saksmalenen. Du kan bruke her variabelen `Saksoppretteren` for automatisk å fylle ut dette feltet med saksskaperen hvis det er nødvendig.
+8. **Etterspurt av**: Den resulterende saksklageren etter opprettelse av saken fra den generelle saksmalen. Du kan bruke `Topic Creator` variabelen her for automatisk å fylle ut dette feltet med sakens oppretteren om nødvendig.<br>
 
     <div class="intercom-container intercom-align-center"><img height="93" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-43e4955bfdd8.png" style="height: auto;" width="150"/></div>
 
-1. **Merkelapper**: De resulterende saksmerkelappene etter opprettelse av saken fra den generelle saksmalenen.
-1. **Beskrivelse**: Den resulterende saksbeskrivelsen etter opprettelse av saken fra den generelle saksmalenen. Denne seksjonen støtter Markdown-format og du kan bruke fullt potensial til å formatere teksten, opprette egendefinerte overskrifter og sjekklister.
-    Hold musepekeren over "?" ikonet som ligger øverst til høyre på beskrivelsesfeltet for å se hvordan du kan benytte deg av alle tilgjengelige funksjoner (nevn lagkamerater og lenke til eksisterende saker) og variabler (for eksempel `topicCreator` i tilfellet med den generelle saksmalenen).
+9. **Merkelapper**: De resulterende saksmerkelappene etter opprettelse av saken fra den generelle saksmalenen.
 
-    <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+10. **Beskrivelse**: Den resulterende saksbeskrivelsen etter opprettelse av saken fra den generelle saksmalen. Denne delen støtter Markdown-format og du kan bruke dens fulle potensial til å formatere teksten, opprette tilpassede overskrifter og sjekklister. <br>Hold musepekeren over "?" -ikonet som er plassert i øvre høyre hjørne av beskrivelsesfeltet for å se hvordan du kan bruke alle tilgjengelige funksjoner (nevn lagkamerater og lenk eksisterende saker) og variabler (som `topicCreator` i tilfelle av den generelle saksmalen).
+
+     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
 
 Når du er ferdig med å sette opp den nye generelle saksmalenen din, kan du klikke på "Lagre" knappen nederst til høyre.
 
@@ -97,31 +101,34 @@ Kan brukes på saker opprettet fra merknader på dokumenter. Her er de ulike han
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/06-new-document-topic-template.png)
 
 1. **Sakliste**: Saklisten som dokumentsaksmalenen kan genereres innen for.
-1. **Malnavn**: Malmalnavn kan velges fra rullegardinen under oppretting av merknad, eller oppdateres i innstillingene senere hvis det er nødvendig.
-1. **Sakstittel**: Den resulterende saksintittel etter opprettelse av saken fra dokumentsaksmalenen.
-   Hold musepekeren over "?" ikonet som ligger til høyre på tittelfeltet for å se hvordan du kan tilpasse dokumentsaksmalitittelen din med de tilgjengelige variablene: `documentName`, `fileName`, `markupName` og `topicCreator`.
+
+2. **Malnavn**: Malmalnavn kan velges fra rullegardinen under oppretting av merknad, eller oppdateres i innstillingene senere hvis det er nødvendig.
+
+3. **Sakstittel**: Den resulterende saktittelen etter opprettelse av saken fra dokumentsaksmalen.<br>Hold musen over "?" ikonet som ligger på høyre side av tittelfeltet for å se hvordan du kan tilpasse dokumentsaksmalen tittel med de tilgjengelige variablene: `documentName`, `fileName`, `markupName` og `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="231" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-dbe5030f1082.png" style="height: auto;" width="300"/></div>
 
-1. **Saksstatus**: Den resulterende saksstatus etter opprettelse av saken fra dokumentsaksmalenen.
-1. **Sakstype**: Den resulterende sakstype etter opprettelse av saken fra dokumentsaksmalenen.
-1. **Milepæl**: Den resulterende saksmilepæl etter opprettelse av saken fra dokumentsaksmalenen.
-1. **Tildelt til**: Den resulterende saksansvarlig (prosjektmedlem eller team) etter opprettelse av saken fra dokumentsaksmalenen. Ulike variabler kan brukes her, for eksempel `Dokumenteier`, `Filstringer`, `Merknadsoppretter`, `Utgiver` og `Saksoppretteren`.
+4. **Saksstatus**: Den resulterende saksstatus etter opprettelse av saken fra dokumentsaksmalenen.
+
+5. **Sakstype**: Den resulterende sakstype etter opprettelse av saken fra dokumentsaksmalenen.
+
+6. **Milepæl**: Den resulterende saksmilepæl etter opprettelse av saken fra dokumentsaksmalenen.
+
+7. **Tildelt til**: Den resulterende saksansvarlig (prosjektmedlem eller team) etter opprettelse av saken fra dokumentsaksmalenen. Ulike variabler kan brukes her, for eksempel `Dokumenteier`, `Filstringer`, `Merknadsoppretter`, `Utgiver` og `Saksoppretteren`.
 
     <div class="intercom-container intercom-align-center"><img height="228" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b3156a6c2724.png" style="height: auto;" width="150"/></div>
 
-1. **Etterspurt av**: Den resulterende saksanmoder etter opprettelse av saken fra dokumentsaksmalenen. Ulike variabler kan brukes her, for eksempel `Dokumenteier`, `Filstringer`, `Merknadsoppretter`, `Utgiver` og `Saksoppretteren`.
+8. **Etterspurt av**: Den resulterende saksklageren etter opprettelse av saken fra dokumentsaksmalen. Ulike variabler kan brukes her, for eksempel `Document owner`, `File uploader`, `Markup creator`, `Publisher` og `Topic creator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="171" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-0c4680dfae06.png" style="height: auto;" width="150"/></div>
 
-1. **Merkelapper**: De resulterende saksmerkelappene etter opprettelse av saken fra dokumentsaksmalenen. Vær oppmerksom på at du kan hente merkelappene fra dokumentet du opprettet merknaden fra ved å bruke variabelen `Merkelapper fra dokumenter` nedenfor:
+9. **Merkelapper**: De resulterende saksmerkelappene etter opprettelse av saken fra dokumentsaksmalen. Merk at du kan hente merkelappene fra dokumentet du opprettet merkingen fra ved hjelp av variabelen `Labels from documents` nedenfor:<br>
 
     <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
 
-1. **Beskrivelse**: Den resulterende saksbeskrivelsen etter opprettelse av saken fra dokumentsaksmalenen. Denne seksjonen støtter Markdown-format og du kan bruke fullt potensial til å formatere teksten, opprette egendefinerte overskrifter og sjekklister.
-    Hold musepekeren over "?" ikonet som ligger øverst til høyre på beskrivelsesfeltet for å se hvordan du kan benytte deg av alle tilgjengelige funksjoner (nevn lagkamerater og lenke til eksisterende saker) og variabler (for eksempel `documentName`, `fileName`, `markupName` og `topicCreator` i tilfellet med dokumentsaksmalenen).
+10. **Beskrivelse**: Den resulterende saksbeskrivelsen etter opprettelse av saken fra dokumentsaksmalen. Denne delen støtter Markdown-format og du kan bruke dens fulle potensial til å formatere teksten, opprette tilpassede overskrifter og sjekklister. <br>Hold musepekeren over "?" -ikonet som er plassert i øvre høyre hjørne av beskrivelsesfeltet for å se hvordan du kan bruke alle tilgjengelige funksjoner (nevn lagkamerater og lenk eksisterende saker) og variabler (som `documentName`, `fileName`, `markupName` og `topicCreator` i tilfelle av dokumentsaksmalen).
 
-    <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
 
 Når du er ferdig med å sette opp den nye dokumentsaksmalenen din, kan du klikke på "Lagre" knappen nederst til høyre.
 
@@ -136,30 +143,33 @@ Her er de ulike handlingene du må følge og variablene du kan skrive inn når d
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/07-new-approval-topic-template.png)
 
 1. **Sakliste**: Saklisten som gjennomgangssaksmalenen vil bli generert innen for etter at en gjennomgangsarbeidsflyt er avsluttet.
-1. **Malnavn**: Malmalnavn for en gjennomgangssaksmal kan velges fra rullegardinen i en gjennomgangsarbeidsflytsmal, eller oppdateres i innstillingene senere hvis det er nødvendig.
-1. **Sakstittel**: Den resulterende saksintittel etter at den tilknyttede gjennomgangsarbeidsflyten er avsluttet.
-   Hold musepekeren over "?" ikonet som ligger til høyre på tittelfeltet for å se hvordan du kan tilpasse gjennomgangssaksmalitittelen din med de tilgjengelige variablene: `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` og `topicCreator`.
+
+2. **Malnavn**: Malmalnavn for en gjennomgangssaksmal kan velges fra rullegardinen i en gjennomgangsarbeidsflytsmal, eller oppdateres i innstillingene senere hvis det er nødvendig.
+
+3. **Sakstittel**: Den resulterende saktittelen etter at den tilknyttede gjennomgangsprosessen er lukket.<br>Hold musen over "?" ikonet som ligger på høyre side av tittelfeltet for å se hvordan du kan tilpasse saksmalens tittel for gjennomgang med de tilgjengelige variablene: `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` og `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="272" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-6038b1d41fed.png" style="height: auto;" width="300"/></div>
 
-1. **Saksstatus**: Den resulterende saksstatus etter avslutning av den tilknyttede gjennomgangsarbeidsflyten.
-1. **Sakstype**: Den resulterende sakstype etter avslutning av den tilknyttede gjennomgangsarbeidsflyten.
-1. **Milepæl**: Den resulterende saksmilepæl etter avslutning av den tilknyttede gjennomgangsarbeidsflyten.
-1. **Tildelt til**: Den resulterende saksansvarlig (prosjektmedlem eller team) som avslutter den tilknyttede gjennomgangsarbeidsflyten. Ulike variabler kan brukes her, for eksempel `Gjennomgangforespørselsgodkjenner`, `Gjennomgangsforespørselsgodkjennerteam`, `Gjennomgangsforespørselsinnsender`, `Gjennomgangsforespørselsinnsenderteam`, `Dokumenteier`, `Filstringer`, `Merknadsoppretter`, `Merknadsoppretterteam`, `Utgiver`.
+4. **Saksstatus**: Den resulterende saksstatus etter avslutning av den tilknyttede gjennomgangsarbeidsflyten.
+
+5. **Sakstype**: Den resulterende sakstype etter avslutning av den tilknyttede gjennomgangsarbeidsflyten.
+
+6. **Milepæl**: Den resulterende saksmilepæl etter avslutning av den tilknyttede gjennomgangsarbeidsflyten.
+
+7. **Tildelt til**: Den resulterende saksansvarlig (prosjektmedlem eller team) som avslutter den tilknyttede gjennomgangsarbeidsflyten. Ulike variabler kan brukes her, for eksempel `Gjennomgangforespørselsgodkjenner`, `Gjennomgangsforespørselsgodkjennerteam`, `Gjennomgangsforespørselsinnsender`, `Gjennomgangsforespørselsinnsenderteam`, `Dokumenteier`, `Filstringer`, `Merknadsoppretter`, `Merknadsoppretterteam`, `Utgiver`.
 
     <div class="intercom-container intercom-align-center"><img height="182" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b012d92ee132.png" style="height: auto;" width="150"/></div>
 
-1. **Etterspurt av**: Den resulterende saksanmoder etter avslutning av den tilknyttede gjennomgangsarbeidsflyten. Ulike variabler kan brukes her, for eksempel `Gjennomgangforespørselsgodkjenner`, `Gjennomgangsforespørselsgodkjennerteam`, `Gjennomgangsforespørselsinnsender`, `Gjennomgangsforespørselsinnsenderteam`, `Dokumenteier`, `Filstringer`, `Merknadsoppretter`, `Merknadsoppretterteam`, `Utgiver`.
+8. **Etterspurt av**: Den resulterende saksklageren etter lukking av den tilknyttede gjennomgangsprosessen. Ulike variabler kan brukes her, for eksempel `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="181" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d7986adac70c.png" style="height: auto;" width="150"/></div>
 
-1. **Merkelapper**: De resulterende saksmerkelappene etter avslutning av den tilknyttede gjennomgangsarbeidsflyten. Vær oppmerksom på at du kan hente merkelappene fra dokumentet du opprettet merknaden fra ved å bruke variabelen `Merkelapper fra dokumenter` nedenfor:
+9. **Merkelapper**: De resulterende saksmerkelappene etter lukking av den tilknyttede gjennomgangsprosessen. Merk at du kan hente merkelappene fra dokumentet du opprettet merkingen fra ved hjelp av variabelen `Labels from documents` nedenfor:<br>
 
     <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
 
-1. **Beskrivelse**: Den resulterende saksbeskrivelsen etter avslutning av den tilknyttede gjennomgangsarbeidsflyten. Denne seksjonen støtter Markdown-format og du kan bruke fullt potensial til å formatere teksten, opprette egendefinerte overskrifter og sjekklister.
-    Hold musepekeren over "?" ikonet som ligger øverst til høyre på beskrivelsesfeltet for å se hvordan du kan benytte deg av alle tilgjengelige funksjoner (nevn lagkamerater og lenke til eksisterende saker) og variabler (for eksempel `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) i tilfellet med gjennomgangssaksmalenen).
+10. **Beskrivelse**: Den resulterende saksbeskrivelsen etter lukking av den tilknyttede gjennomgangsprosessen. Denne delen støtter Markdown-formatet og du kan bruke sitt fulle potensial til å formatere teksten, opprette egne overskrifter og sjekklister. <br>Hold musen over "?" ikonet som ligger i øverst til høyre hjørnet av beskrivelsesfeltet for å se hvordan du kan utnytte alle tilgjengelige funksjoner (nevne lagkamerater og koble til eksisterende saker) og variabler (for eksempel `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) i tilfellet av saksmalens gjennomgang).<br>
 
-    <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 
 Når du er ferdig med å sette opp den nye gjennomgangssaksmalenen din, kan du klikke på "Lagre" knappen nederst til høyre.

@@ -8,7 +8,7 @@ Downloaden naar uw lokale apparaat:
 
 - Klik op de downloadknop voor elk model dat u wilt downloaden.
 - De modellen worden opgeslagen in een nieuwe map met de projectnaam onder het downloadpad dat is opgegeven onder het tabblad Instellingen.
-    - Bijvoorbeeld: C:\\...\\Documenten\\Catenda-projectnaam
+  - Bijvoorbeeld: C:\\...\\Documenten\\Catenda-projectnaam
 
 ## 2. Een samengevoegd .nwf-bestand maken met behulp van IFC's van Catenda
 

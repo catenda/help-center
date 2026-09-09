@@ -60,7 +60,7 @@ Le tableau des membres peut contenir les colonnes suivantes :
 
 **Rôle** Le rôle du membre. Propriétaire (Bleu) Administrateur (Orange) Membre (Vert)
 
-**Équipes** Chaque membre peut faire partie de plusieurs équipes. L'équipe à laquelle un membre appartient s'affiche dans cette colonne. Équipe administrateur (Orange) Équipe membre (Vert) Si le nombre total d'équipes auxquelles un membre appartient ne s'ajuste pas, ajustez la largeur de la colonne ou cliquez sur les trois points pour voir le reste.
+**Équipes** Chaque membre peut faire partie de plusieurs équipes. Les équipes auxquelles un membre appartient sont affichées dans cette colonne. Équipe Administrateur (Orange) Équipe Membre (Vert) Si le nombre total d'équipes auxquelles un membre appartient ne s'ajuste pas, ajustez la largeur de la colonne ou cliquez sur les trois points pour voir le reste.
 
 ## 5. **Onglet Équipes**
 

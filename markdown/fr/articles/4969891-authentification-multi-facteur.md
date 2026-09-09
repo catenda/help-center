@@ -13,8 +13,8 @@ Connectez-vous à Catenda Hub et accédez à la page **[Compte](https://hub.cate
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/01-enabling-mfa.png)
 
 1. Cliquez sur l'onglet **[Authentification](https://hub.catenda.com/account/authentication)** :
-1. Faites défiler vers le bas jusqu'à la section MFA :
-1. Cliquez sur **Activer le MFA**
+2. Faites défiler vers le bas jusqu'à la section MFA :
+3. Cliquez sur **Activer le MFA**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/02-enabling-mfa.png)
 
@@ -71,21 +71,21 @@ Après avoir connecté un code MFA, vous pouvez modifier en toute sécurité le 
 **Authentificateur Google**
 
 1. Maintenez longtemps le code appuyé
-1. Cliquez sur le crayon en haut à droite pour changer le nom.
+2. Cliquez sur le crayon en haut à droite pour changer le nom.
 
 **Authentificateur Microsoft**
 
 1. Cliquez sur le code.
-1. Cliquez sur le bouton d'engrenage en haut à droite
-1. Cliquez sur le crayon pour changer le nom
+2. Cliquez sur le bouton d'engrenage en haut à droite
+3. Cliquez sur le crayon pour changer le nom
 
 ## 3. **Transfert du MFA**
 
 **Désactivation et réactivation** Il n'est possible d'utiliser qu'un appairage de code MFA à la fois. Si vous souhaitez passer à un appairage de code différent, peut-être parce que le vôtre a été compromis, vous suivez ces étapes : Vous devez également utiliser cette méthode si vous souhaitez changer l'application que vous utilisez pour le MFA.
 
 1. Désactivez votre MFA sur la [page d'authentification](https://hub.catenda.com/account/authentication)
-1. Préparez l'application que vous souhaitez utiliser pour reconnecter votre MFA
-1. Générez un nouvel appairage de code en scannant le code QR comme dans la [section d'activation](#h_9e13fd06f5)
+2. Préparez l'application que vous souhaitez utiliser pour reconnecter votre MFA
+3. Générez un nouvel appairage de code en scannant le code QR comme dans la [section d'activation](#h_9e13fd06f5)
 
 > **Note :** Soyez prudent avec cette méthode car votre compte sera temporairement vulnérable pendant qu'il est désactivé et vous ne pourrez pas accéder aux projets où le MFA est requis pendant cette période.
 
@@ -94,25 +94,25 @@ Après avoir connecté un code MFA, vous pouvez modifier en toute sécurité le 
 **Authentificateur Google** Ancien appareil :
 
 1. Appuyez sur le menu hamburger en haut à droite
-1. Appuyez sur Exporter les comptes
-1. Sélectionnez les comptes que vous souhaitez exporter
+2. Appuyez sur Exporter les comptes
+3. Sélectionnez les comptes que vous souhaitez exporter
 
 Nouvel appareil :
 
 1. Appuyez sur le menu hamburger en haut à droite
-1. Appuyez sur importer les comptes
-1. Appuyez sur scanner le code QR
-1. Scannez le code QR affiché sur l'ancien appareil lorsque vous avez suivi le processus d'export.
+2. Appuyez sur importer les comptes
+3. Appuyez sur scanner le code QR
+4. Scannez le code QR affiché sur l'ancien appareil lorsque vous avez suivi le processus d'export.
 
 **Authentificateur Microsoft** Ancien appareil :
 
 1. Appuyez sur le menu hamburger en haut à droite
-1. Activez la sauvegarde
+2. Activez la sauvegarde
 
 Nouvel appareil :
 
 1. Installez et ouvrez l'application Microsoft Authenticator sur votre nouvel appareil
-1. Appuyez sur "Commencer la récupération."
+2. Appuyez sur "Commencer la récupération."
 
 > **Note 1 :** Ne configurez aucun compte à l'aide de Microsoft Authenticator avant d'avoir utilisé l'outil de récupération car il remplacera les comptes de site correspondants.
 
@@ -129,13 +129,13 @@ Après avoir désactivé le code sur Catenda Hub, le code restera sur l'applicat
 **Authentificateur Google**
 
 1. Maintenez longtemps le code appuyé
-1. Cliquez sur la corbeille en haut à droite.
+2. Cliquez sur la corbeille en haut à droite.
 
 **Authentificateur Microsoft**
 
 1. Cliquez sur le code.
-1. Cliquez sur le bouton d'engrenage en haut à droite
-1. Cliquez sur supprimer le compte
+2. Cliquez sur le bouton d'engrenage en haut à droite
+3. Cliquez sur supprimer le compte
 
 ## 5. **MFA sur appareils non mobiles**
 

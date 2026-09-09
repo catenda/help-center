@@ -4,8 +4,6 @@ Voici à quoi peut ressembler une liste de lecture de guide :
 
 <div class="intercom-container"><a href="https://eu.guidde.com/share/playlists/raHoQ3qwoDbNx18S5YZtDv?track_link_name=Intercom&amp;track_link_id=rHg8xpibRQegGuksgmT5nA&amp;origin=7PqdD6oPp9QLchKHNkCwDH3opRS2" target="_blank"><img height="1350" src="https://raw.githubusercontent.com/catenda/help-center/main/images/wm2jp1mz/inline-6fc59cc67355.png" style="height: auto;" width="2556"/></a></div>
 
-Les thèmes suivants sont décrits dans cet article :
-
 ## 1. **Instructions étape par étape**
 
 Trouvez une procédure étape par étape pour chaque vidéo de la liste de lecture en sélectionnant la vidéo et en faisant défiler vers le bas 👇

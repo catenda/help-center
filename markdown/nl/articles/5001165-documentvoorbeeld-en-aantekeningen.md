@@ -9,10 +9,10 @@ Nieuw in Catenda Hub is onze uitgebreide annotatiefunctie. Deze functie brengt d
 De documentbanner wordt in dit artikel beschreven en loopt over de bovenkant van de documentpagina
 
 1. De [documentbanner](https://support.catenda.com/en/articles/8461918-document-banner-navigation) wordt in dit artikel beschreven en loopt over de bovenkant van de documentpagina
-1. U vindt de documentheader onder de documentbanner en boven het documentvoorbeeld
-1. Onder de documentheader vindt u het documentvoorbeeld dat in dit artikel wordt uitgelegd.
-1. Aan de linkerkant van de documentheader en het voorbeeld vindt u de documentlijst
-1. Aan de rechterkant van de documentheader en het voorbeeld vindt u het [rechtsinformatieMenu](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
+2. U vindt de documentheader onder de documentbanner en boven het documentvoorbeeld
+3. Onder de documentheader vindt u het documentvoorbeeld dat in dit artikel wordt uitgelegd.
+4. Aan de linkerkant van de documentheader en het voorbeeld vindt u de documentlijst
+5. Aan de rechterkant van de documentheader en het voorbeeld vindt u het [rechtsinformatieMenu](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
 
 ## 1. **Annotatiebalk**
 

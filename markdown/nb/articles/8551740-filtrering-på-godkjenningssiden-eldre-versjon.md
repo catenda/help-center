@@ -10,7 +10,7 @@ Denne artikkelen inneholder informasjon om følgende Saker
 
 Klikk på filterknappen øverst til venstre for at et panel skal vises på venstre side. Når et filter brukes, endres nettadressen som er synlig i nettleseren. I denne artikkelen vises filtre slik: _Filternavn i meny_ - `Filternavn i nettadresse=Filteralternativ i nettadresse`
 
-_Standardfilter_ Standardfilteret er opprinnelig ikke synlig i nettadressen. Når siden navigeres til for første gang, brukes følgende filter. _Ingen filter_ - `state=all`
+**Standardfilter** Standardfilteret er opprinnelig ikke synlig i nettadressen. Når siden navigeres til for første gang, brukes følgende filter. _Ingen filter_ - `state=all`
 
 ### 1.1 **Lagre og del gjeldende filter**
 
@@ -40,8 +40,8 @@ _Forfalt_ - `due=overdue` _Mindre enn en dag_ - `due=2d` _Mindre enn en uke_ - `
 
 _Tekstsøk -_ `search=<Søkefrase>`
 
-_Innhold som kan søkes i_ Tittel på godkjenningsforespørsel
+**Innhold som kan søkes i** Tittel på godkjenningsforespørsel
 
-_Stor-/små bokstaver_ Tekstsøket skiller ikke mellom store og små bokstaver.
+**Stor-/små bokstaver** Tekstsøket skiller ikke mellom store og små bokstaver.
 
-_Antall tegn_ Hvilket som helst antall tegn Innhold som inneholder søkefrasen er truffet.
+**Antall tegn** Hvilket som helst antall tegn Innhold som inneholder søkefrasen er truffet.

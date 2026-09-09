@@ -3,13 +3,13 @@
 Bewerk toegangsbeheer op hoofdmappen voor Documenten:
 
 1. Ga naar Documenten in het hoofdmenu.
-1. Klik op het "hamburgermenu" in de rechterbovenhoek, hier vindt u Bibliotheek instellingen. Klik op de bibliotheek instellingen.
-1. In het nieuwe venster vindt u toegangsbeheer op de hoofdmap. Klik erop.
-1. Hier ziet u de Leden die toegang hebben tot de hoofdmap en de knop toegang bewerken. Klik op de knop toegang bewerken.
-1. Het venster toegang bewerken verschijnt
-1. Definieer toegang voor lid(en) of team(s).
-1. Beheerders
-1. Overigen: Dit is de toegang voor iedereen behalve jezelf, met uitzondering van admin gebruiker. Het vervolgkeuzemenu heeft enkele opties.
+2. Klik op het "hamburgermenu" in de rechterbovenhoek, hier vindt u Bibliotheek instellingen. Klik op de bibliotheek instellingen.
+3. In het nieuwe venster vindt u toegangsbeheer op de hoofdmap. Klik erop.
+4. Hier ziet u de Leden die toegang hebben tot de hoofdmap en de knop toegang bewerken. Klik op de knop toegang bewerken.
+5. Het venster toegang bewerken verschijnt
+6. Definieer toegang voor lid(en) of team(s).
+7. Beheerders
+8. Overigen: Dit is de toegang voor iedereen behalve jezelf, met uitzondering van admin gebruiker. Het vervolgkeuzemenu heeft enkele opties.
 
 - Geen toegang
 - Lezen
@@ -17,7 +17,7 @@ Bewerk toegangsbeheer op hoofdmappen voor Documenten:
 - Volledige toegang (alle beheerders)
 
 1. Eigenaar: Dit is de toegang voor de eigenaar van de map(pen) of document(en). Het heeft dezelfde opties als in punt 7.
-1. U moet kiezen tussen de laatste drie:
+2. U moet kiezen tussen de laatste drie:
 
 - Map en nieuwe inhoud
 

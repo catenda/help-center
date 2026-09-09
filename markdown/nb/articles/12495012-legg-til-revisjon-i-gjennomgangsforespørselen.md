@@ -22,13 +22,13 @@ Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for 
 
 ### 1.3 Filtre
 
-_Koblet_ Utkast i gjeldende mappe og undermapper som er koblet til objekter som for øyeblikket er valgt i 3D-visningen. Tallet bak filteret viser antallet dokumenter som er koblet i gjeldende mappe og undermapper
+**Koblet** Utkast i gjeldende mappe og undermapper som er koblet til objekter som for øyeblikket er valgt i 3D-visningen. Tallet bak filteret viser antallet dokumenter som er koblet i gjeldende mappe og undermapper
 
-_Ikke koblet_ Utkast i gjeldende mappe og undermapper som ikke er koblet til noen 3D-objekter. Tallet bak filteret viser antallet dokumenter som ikke er koblet
+**Ikke koblet** Utkast i gjeldende mappe og undermapper som ikke er koblet til noen 3D-objekter. Tallet bak filteret viser antallet dokumenter som ikke er koblet
 
 Koblet til valgte objekter Delte revisjoner i dokumenter i gjeldende mappe og undermapper som er koblet til 3D-objekter fra modeller som for øyeblikket er valgt i 3D-visningen. Tallet bak filteret viser antallet dokumenter som er koblet til valgte objekter
 
-_Status_
+**Status**
 
 Navn på publisert status Samsvarer med publiserte revisjoner i gjeldende mappe og undermapper med det valgte publiserte statusnavnet. Revisjoner med publisert status kan ikke legges til en gjennomgang, så ingen resultater vil vises med dette filteret. Tallet bak filteret viser antallet dokumenter som er koblet til valgte objekter.
 
@@ -36,23 +36,23 @@ Delt Samsvarer med alle delte revisjoner i gjeldende mappe og undermapper
 
 Navn på delt status Samsvarer med alle delte revisjoner i gjeldende mappe og undermapper med det valgte delte statusnavnet
 
-_Modell_ Er modell Delte revisjoner i dokumenter i gjeldende mappe og undermapper som er koblet til modeller.
+**Modell** Er modell Delte revisjoner i dokumenter i gjeldende mappe og undermapper som er koblet til modeller.
 
 Er ikke modell Delte revisjoner i dokumenter i gjeldende mappe og undermapper som ikke er koblet til modeller.
 
-_Dokument opprettet av_ Delte revisjoner i dokumenter i gjeldende mappe og undermapper opprettet av brukernavn. Tallet bak filteret viser antallet dokumenter og mapper som er opprettet i gjeldende mappe og undermapper av hver bruker.
+**Dokument opprettet av** Delte revisjoner i dokumenter i gjeldende mappe og undermapper opprettet av brukernavn. Tallet bak filteret viser antallet dokumenter og mapper som er opprettet i gjeldende mappe og undermapper av hver bruker.
 
-_Revisjon opprettet av_ Delte revisjoner i dokumenter i gjeldende mappe og undermapper opprettet av <username>. Tallet bak filteret viser antallet delte revisjoner i dokumenter i gjeldende mappe og undermapper av hver bruker.
+**Revisjon opprettet av** Delte revisjoner i dokumenter i gjeldende mappe og undermapper opprettet av <username>. Tallet bak filteret viser antallet delte revisjoner i dokumenter i gjeldende mappe og undermapper av hver bruker.
 
-_Datumfiltre_ Klikk på velg datoer for å velge datoer mellom som du vil søke. Klikk [her](https://support.catenda.com/en/articles/6511685-date-filter) for å lese mer om datumfilteret.
+**Datumfiltre** Klikk på velg datoer for å velge datoer mellom som du vil søke. Klikk [her](https://support.catenda.com/en/articles/6511685-date-filter) for å lese mer om datumfilteret.
 
-_Merkelappgruppe_ Dokumenter med delte revisjoner med merkelapper etter merkelappnavn innenfor en merkelappgruppe. Tallet bak filteret viser antallet dokumenter med delte revisjoner i dokumenter der merkelappen brukes i gjeldende mappe og undermapper.
+**Merkelappgruppe** Dokumenter med delte revisjoner med merkelapper etter merkelappnavn innenfor en merkelappgruppe. Tallet bak filteret viser antallet dokumenter med delte revisjoner i dokumenter der merkelappen brukes i gjeldende mappe og undermapper.
 
-_Egendefinert felt_ Delte revisjoner med egendefinerte feltverdier etter egendefinert felt.
+**Egendefinert felt** Delte revisjoner med egendefinerte feltverdier etter egendefinert felt.
 
-_Åpne gjennomganger_ Delte revisjoner som er del av andre åpne gjennomgangsforespørsler etter gjennomgangsforespørselsnavn.
+**Åpne gjennomganger** Delte revisjoner som er del av andre åpne gjennomgangsforespørsler etter gjennomgangsforespørselsnavn.
 
-_Slettet_ Selv om det er mulig å filtrere på slettede dokumenter og velge dem i listen, vil ingenting skje når en legges til en gjennomgang. Tallet bak filteret viser antallet slettede mapper og dokumenter i gjeldende mappe og undermapper. _Tilgang påkrevd_: Administrator
+**Slettet** Selv om det er mulig å filtrere på slettede dokumenter og velge dem i listen, vil ingenting skje når en legges til en gjennomgang. Tallet bak filteret viser antallet slettede mapper og dokumenter i gjeldende mappe og undermapper. _Tilgang påkrevd_: Administrator
 
 ## 2. Legg til revisionstabel
 
@@ -66,9 +66,9 @@ Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) 
 
 Rader i tabellen dokumenter til vurdering vises basert på tilgangen til den delte revisjonen i dokumentet som skal gjennomgås. _Tilgang påkrevd -_ Lesetilgang til dokumentet og avmerkingsboksen for vis delte revisjoner er avmerket.
 
-_Mappe-rad_ Åpning av innholdet i en mappe-rad endrer tabellen til å vise innholdet i den mappen i tabellen legg til revisjon.
+**Mappe-rad** Åpning av innholdet i en mappe-rad endrer tabellen til å vise innholdet i den mappen i tabellen legg til revisjon.
 
-_Dokument-rad_ Klikk hvor som helst på dokument-revisjonsraden velger dokumentet slik at det kan legges til gjennomgangen.
+**Dokument-rad** Klikk hvor som helst på dokument-revisjonsraden velger dokumentet slik at det kan legges til gjennomgangen.
 
 ### 2.2 Kolonner
 

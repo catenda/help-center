@@ -1,4 +1,4 @@
-# 大きなIFCファイルがあります。Catenda Hubにファイルをアップロードする前にSolibri Optimizerを使用すべきでしょうか？
+# 大きなIFCファイルでSolibri Optimizerを実行すべきですか？
 
 答えはいいえです。ファイルが大きくなった場合は、代わりに[アップロード前にファイルをzip形式に圧縮](https://support.bimsync.com/hc/en-us/articles/360009995879)することをお勧めします。Solibri Optimizerはいくつかのケースではファイルが破損し、Catenda Hubの様々なインポートステップを通過しなくなる可能性があります。最適化されたファイルは、インポート時のファイルの状態に関係なく、情報を最適化された形式で保存するため、Catenda Hubでの閲覧速度は向上しません。
 

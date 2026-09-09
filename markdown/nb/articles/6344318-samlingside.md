@@ -24,11 +24,11 @@ Når du oppretter en ny samling, blir du bedt om å fylle ut følgende dialog.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/03-new-collection.png)
 
-_Navn_ For å opprette en samling må den ha minst ett navn. Beskrivelsen og dokumentene kan konfigureres før innsending, men kan også redigeres etter at samlingen er sendt inn.
+**Navn** For å opprette en samling må den ha minst ett navn. Beskrivelsen og dokumentene kan konfigureres før innsending, men kan også redigeres etter at samlingen er sendt inn.
 
-_Legg til dokumenter_ For å legge til dokumenter klikker du på [knappen Legg til dokumenter](#h_b94d108342).
+**Legg til dokumenter** For å legge til dokumenter klikker du på [knappen Legg til dokumenter](#h_b94d108342).
 
-_Send inn_ Når du sender inn samlingen din, tas du til samlingenes [samlingside](https://support.catenda.com/en/articles/8999764-collection-page). Samlingen vil være en [privat samling](https://support.catenda.com/en/articles/8999764-collection-page#h_0b76040299) som bare du kan se. Du kan fortsatt redigere denne samlingen før du deler den med resten av prosjektet.
+**Send inn** Når du sender inn samlingen din, tas du til samlingenes [samlingside](https://support.catenda.com/en/articles/8999764-collection-page). Samlingen vil være en [privat samling](https://support.catenda.com/en/articles/8999764-collection-page#h_0b76040299) som bare du kan se. Du kan fortsatt redigere denne samlingen før du deler den med resten av prosjektet.
 
 ### 1.2 **Legge til dokumenter i samlinger**
 

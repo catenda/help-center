@@ -64,10 +64,8 @@ Les données des Sujets peuvent être extraites à l'aide de trois formats princ
 
 **Téléchargements par lot et dossier** Sélectionnez des dossiers individuels, des lots de Documents spécifiques ou tous les éléments visibles du tableau à la fois pour générer une archive ZIP téléchargeable. Le téléchargement par lots gérables en sélectionnant des sous-dossiers spécifiques ou des groupes de fichiers ciblés est recommandé pour des transferts fluides lors de l'utilisation de grands ensembles de données.
 
-- **Onglet Publié**
-  Extrait la dernière révision publiée pour chaque Document sélectionné.
-- **Onglet Espace de travail**
-  Extrait la dernière révision partagée pour chaque Document sélectionné (nécessite l'autorisation « Afficher les révisions partagées »). Notez que les révisions brouillon héritées ne peuvent pas être téléchargées par lots dans une archive ZIP et sont téléchargées individuellement.
+- **Onglet Publié**<br>Extrait la dernière révision publiée pour chaque document sélectionné.
+- **Onglet Espace de travail**<br>Extrait la dernière révision partagée pour chaque document sélectionné (nécessite la permission "Afficher les révisions partagées"). Notez que les révisions brouillon héritées ne peuvent pas être téléchargées par lot dans une archive ZIP et sont téléchargées individuellement.
 
 **Téléchargement de révision individuelle** Sélectionnez un Document sur la [page Documents](https://support.catenda.com/en/articles/8204673-documents-page) et cliquez sur le bouton de téléchargement à côté de chaque révision répertoriée dans le menu d'information de droite. C'est un moyen plus facile de télécharger des révisions individuelles ou historiques car la page d'aperçu du Document n'a pas besoin d'être chargée, ce qui vous permet de sélectionner un autre Document dans le tableau et de télécharger ses révisions dans le menu de droite sans avoir besoin d'ouvrir une nouvelle page d'aperçu.
 
@@ -89,12 +87,8 @@ Le [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-c
 
 **Listes de sujets** Documentez les autorisations d'accès au tableau en utilisant deux vues disponibles :
 
-- **Vue d'accès par utilisateur**
-  Affiche les niveaux d'accès des utilisateurs individuels directement à partir du menu d'information de droite d'une Liste de sujets ou d'un Sujet sélectionné.
-  _Accès requis :_ accès en lecture à la Liste de sujets
-- **Configuration complète de l'Équipe**
-  Capturez des captures d'écran des paramètres d'autorisation complets au niveau de l'Équipe dans les paramètres d'accès de la Liste de sujets.
-  _Accès requis :_ Accès complet à la Liste de sujets ou administrateur du projet
+- **Vue d'accès par utilisateur**<br>Affichage des niveaux d'accès des utilisateurs individuels directement à partir du menu d'information de droite d'une liste de sujets ou d'un sujet sélectionné.<br>_Accès requis :_ accès en lecture à la liste de sujets
+- **Configuration complète de l'équipe**<br>Capturez des captures d'écran des paramètres de permission au niveau de l'équipe dans les paramètres d'accès de la liste de sujets.<br>_Accès requis :_ accès complet à la liste de sujets ou administrateur de projet
 
 **Accès aux Documents et modèles** Exportez l'[aperçu d'accès](https://support.catenda.com/en/articles/6660820-document-access-overview-page) pour enregistrer les autorisations pour les Membres et les Équipes. Accès requis : Administrateur du projet. Étant donné que chaque modèle est lié à un Document dans la section Documents, les autorisations d'accès pour les modèles sont régies par les autorisations de Document sous-jacentes et sont enregistrées à l'aide du même aperçu d'accès aux Documents ou des menus d'autorisation.
 
@@ -102,11 +96,8 @@ Le [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-c
 
 **Autorisations d'actions à l'échelle du projet** Documentez les autorisations à l'échelle du projet sur la [page des paramètres du projet](https://support.catenda.com/en/articles/4670273-project-settings-page) (telles que la création de Listes de sujets, l'invitation de nouveaux Membres, la configuration des Statuts de Document et la création ou la suppression de modèles) en utilisant deux vues disponibles :
 
-- **Vue d'accès par utilisateur**
-  Les Membres du projet peuvent développer chaque menu sous contrôle d'accès pour voir quels utilisateurs individuels ont la permission d'effectuer chaque action.
-- **Configuration complète**
-  Les administrateurs peuvent ouvrir la boîte de dialogue d'édition d'accès pour afficher et gérer les configurations d'autorisation au niveau de l'Équipe.
-  _Accès requis :_ Administrateur du projet
+- **Affichage d'accès par utilisateur**<br>Les membres du projet peuvent développer chaque menu sous le contrôle d'accès pour voir quels utilisateurs individuels ont la permission d'effectuer chaque action.
+- **Configuration complète**<br>Les administrateurs peuvent ouvrir la boîte de dialogue d'édition d'accès pour afficher et gérer les configurations de permissions au niveau de l'équipe.<br>_Accès requis :_ administrateur de projet
 
 **Profils utilisateur et détails des Membres** Les informations concernant les Membres du projet et les Équipes sont disponibles pour extraction ou documentation, y compris :
 
@@ -127,21 +118,16 @@ Configurez un compte administratif dédié avec les [paramètres de notification
 
 **Rapports de Document** Exportez les métadonnées du Document et les détails de révision pour tous les fichiers sélectionnés, y compris le nom du Document, le nom de la révision, le numéro de révision le plus récent, le Statut, les champs personnalisés, le créateur, le téléchargeur et les horodatages de création/téléchargement.
 
-- **Cas d'utilisation clés**
-  Idéal pour générer des listes de contrôle de livraison de Documents formels pour accompagner une collection, ou compiler des listes de Documents structurées pour l'analyse de données.
-- **Métadonnées et attributs du modèle**
-  Bien que le contenu réel des fichiers de Document ne soit pas inclus, les métadonnées du modèle peuvent être exportées via les rapports de Document car les modèles maintiennent des Liens vers la section Document. Les scripts personnalisés dans les Template peuvent également être utilisés pour dériver des attributs supplémentaires, tels que l'extraction des types de fichiers à partir des noms de Document.
+- **Cas d'utilisation clés**<br>Idéal pour générer des listes de contrôle formelles de livraison de documents pour accompagner une collection, ou compiler des listes de documents structurées pour l'analyse de données.
+- **Métadonnées et attributs du modèle**<br>Bien que le contenu réel des fichiers de document ne soit pas inclus, les métadonnées du modèle peuvent être exportées via les rapports de document car les modèles maintiennent des liens vers la section des documents. Des scripts personnalisés dans les modèles peuvent également être utilisés pour dériver des attributs supplémentaires, tels que l'extraction des types de fichiers à partir des noms de documents.
 
 **Rapports de Sujets** Exportez les en-têtes de Sujets globaux ainsi que les détails complets du corps du Sujet, y compris les descriptions, les commentaires et les images de commentaires incorporées.
 
 **Formats d'export disponibles** Les rapports créés à partir de n'importe quel Template peuvent être exportés vers plusieurs formats selon vos besoins de flux de travail :
 
-- **PDF / PDF/A**
-  Génère des rapports formatés propres et prend directement en charge la conformité PDF/A native (PDF/A-1, PDF/A-2 et PDF/A-3) pour répondre aux normes strictes d'archivage à long terme et aux normes légales formelles.
-- **Excel**
-  Exporte des données tabulaires structurées dans des lignes et des colonnes de feuille de calcul, ce qui le rend idéal pour la manipulation de données et l'analyse externe.
-- **Formats supplémentaires**
-  Une large gamme de formats de fichiers supplémentaires au-delà de PDF et Excel sont également pris en charge pour l'export ; l'aperçu complet se trouve dans l'article [page des rapports](https://support.catenda.com/en/articles/12303098-reports-page).
+- **PDF / PDF/A**<br>Génère des rapports propres et formatés et supporte directement la conformité PDF/A native (PDF/A-1, PDF/A-2 et PDF/A-3) pour respecter les normes strictes d'archivage à long terme et les normes juridiques formelles.
+- **Excel**<br>Exporte des données tabulaires structurées en lignes et colonnes de feuille de calcul, ce qui le rend idéal pour la manipulation de données et l'analyse externe.
+- **Formats supplémentaires**<br>Un large éventail de formats de fichiers supplémentaires au-delà de PDF et Excel sont également pris en charge pour l'export ; l'aperçu complet peut être trouvé dans l'article [page des rapports](https://support.catenda.com/en/articles/12303098-reports-page).
 
 **Stockage centralisé** Les rapports générés sont répertoriés directement dans le tableau des rapports et intégrés automatiquement dans le tableau Documents principal pour une gestion facile.
 
@@ -157,22 +143,14 @@ La configuration et la gestion de Catenda Data Export nécessitent un **Administ
 
 La configuration des exports de données automatisés implique quatre étapes principales :
 
-1. **Sélectionner la destination**
-   Choisissez un fournisseur de stockage cloud, Amazon Web Services (AWS) S3 ou Microsoft Azure Blob storage, et configurez l'authentification.
-1. **Définir la portée et les formats de données**
-    - **Types de données**
-      Exportez les Documents, les modèles et les Sujets.
-      Les données des Sujets peuvent être automatiquement converties en rapports résumés PDF lisibles ou en fichiers BCF standard lors du transfert.
-    - **Sélection du projet**
-      Choisissez tous les projets, sélectionnez manuellement des projets spécifiques, ou configurez des règles de correspondance dynamique en utilisant des modèles de nom de projet (glob ou expression régulière / regex) pour inclure automatiquement les nouveaux projets à leur création.
-1. **Sélectionner le mode d'export**
-    - **Mode continu**
-      Expédie les données automatiquement selon un calendrier quotidien.
-      Cette configuration récurrente garantit que les Membres du projet non propriétaires maintiennent une sauvegarde à jour jusqu'à la dernière exécution quotidienne si l'accès au projet se termine de manière inattendue.
-    - **Mode capture**
-      Effectue une exécution unique pour exporter un ensemble de données complet à un jalon spécifique ou à une remise de projet.
-1. **Déployer**
-   Finalisez et activez la configuration d'export en sélectionnant Créer.
+1. **Sélectionner la destination**<br>Choisissez un fournisseur de stockage cloud, Amazon Web Services (AWS) S3 ou stockage Microsoft Azure Blob, et configurez l'authentification.
+2. **Définir la portée et les formats de données**
+   - **Types de données**<br>Exportez les documents, les modèles et les sujets. <br>Les données de sujets peuvent être automatiquement converties en rapports de synthèse PDF lisibles ou en fichiers BCF standard lors du transfert.
+   - **Sélection du projet**<br>Choisissez tous les projets, sélectionnez des projets spécifiques ou configurez des règles de correspondance dynamiques utilisant des modèles de noms de projet (glob ou expression régulière / regex) pour inclure automatiquement les nouveaux projets à mesure qu'ils sont créés.
+3. **Sélectionner le mode d'export**
+   - **Mode continu**<br>Envoie les données automatiquement selon un calendrier quotidien. <br>Cette configuration récurrente garantit que les membres du projet qui ne sont pas propriétaires maintiennent une sauvegarde à jour jusqu'à la dernière exécution quotidienne si l'accès au projet se termine de façon inattendue.
+   - **Mode capture**<br>Effectue une exécution unique pour exporter un ensemble de données complet à une étape importante ou à un transfert de projet spécifique.
+4. **Déployer**<br>Finalisez et activez la configuration d'export en sélectionnant Créer.
 
 ### 3.3 **Contenu extrait et vérification de l'intégrité**
 

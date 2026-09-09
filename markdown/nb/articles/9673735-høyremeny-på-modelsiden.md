@@ -34,7 +34,7 @@ _Modellbilde i høyremeny_ Når det er lagt til, vises bildet øverst i høyreme
 
 Klikk [her](https://support.catenda.com/en/articles/4670257-creating-a-thumbnail-for-your-model) for å lese mer om hvordan du legger til et bilde for en modell.
 
-_Modellminiatyr_ Når det er lagt til, vises bildet som et miniatyr for modellen i navnekolonnen i modelltabellen på modellsiden.
+**Modellminiatyr** Når det er lagt til, vises bildet som et miniatyr for modellen i navnekolonnen i modelltabellen på modellsiden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/07-image.png)
 
@@ -64,11 +64,11 @@ De ulike medlemmene som har lastet opp revisjoner og dermed bidratt til modellen
 
 Med modelltransformasjon kan modellelementer konfigureres til å vises på en annen plassering og orientering i Catenda Hub 3D-visningen. Denne transformasjonen gjelder kun for modeller i 3D-visningen og ikke 3D-dokumenter som er lastet inn i 3D-visningen. Klikk [her](https://support.catenda.com/en/articles/12498975-add-context-to-your-projects-with-freely-accessible-ign-point-clouds-hd-lidar) for å lese mer om transformasjonen av 3D-dokumenter.
 
-_Utbytte av modeller med eksterne verktøy_ Modeller lastes ofte ned fra Catenda og åpnes i et tredjepartsprogram. Det er derfor fortsatt viktig å ha de riktige koordinatene konfigurert i IFC-filen før opplasting, slik at den nedlastede filen inneholder riktig informasjon.
+**Utbytte av modeller med eksterne verktøy** Modeller lastes ofte ned fra Catenda og åpnes i et tredjepartsprogram. Det er derfor fortsatt viktig å ha de riktige koordinatene konfigurert i IFC-filen før opplasting, slik at den nedlastede filen inneholder riktig informasjon.
 
-_Når bør modellen transformeres?_ Det er ofte en periode hvor en modell blir sendt inn og geometrien allerede brukes til samarbeid selv før koordinatene i modellen er korrekte. Dette kan komme fra ulike årsaker, for eksempel at et felles nullpunkt ikke er besluttet i prosjektet, eller at en annen eksportmetode må undersøkes i forfatterprogrammet hvor IFC-filen ble generert. Det kan hjelpe å transformere modellen (kun i Catenda Hub gjennom nettleseren) med modelltransformasjon i løpet av denne perioden, slik at avspilling av 3D-øyeblikksbilder fortsetter å stemme, selv med nyere revisjoner som har oppdaterte koordinater.
+**Når bør modellen transformeres?** Det er ofte en periode hvor en modell blir sendt inn og geometrien allerede brukes til samarbeid selv før koordinatene i modellen er korrekte. Dette kan komme fra ulike årsaker, for eksempel at et felles nullpunkt ikke er besluttet i prosjektet, eller at en annen eksportmetode må undersøkes i forfatterprogrammet hvor IFC-filen ble generert. Det kan hjelpe å transformere modellen (kun i Catenda Hub gjennom nettleseren) med modelltransformasjon i løpet av denne perioden, slik at avspilling av 3D-øyeblikksbilder fortsetter å stemme, selv med nyere revisjoner som har oppdaterte koordinater.
 
-_Koordinatsamarbeid med delte revisjoner_ I et prosjekt hvor delte revisjoner er aktivert, anbefales det ikke å publisere modellrevisjoner uten å ha de riktige koordinatene i IFC-filen.
+**Koordinatsamarbeid med delte revisjoner** I et prosjekt hvor delte revisjoner er aktivert, anbefales det ikke å publisere modellrevisjoner uten å ha de riktige koordinatene i IFC-filen.
 
 ### 3.1 **Modelltransformasjonsinnstillinger**
 
@@ -76,11 +76,11 @@ Last inn modellen som skal flyttes i 3D-visningen. Dette kan gjøres ved å klik
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/09-model-transformation-settings.png)
 
-_Offset_ Skriv inn X-, Y- og/eller Z-koordinat for å flytte modellen. Enheter - Meter
+**Offset** Skriv inn X-, Y- og/eller Z-koordinat for å flytte modellen. Enheter - Meter
 
-_Rotasjon_ Skriv inn en vinkel for å rotere modellen. Modellen roteres rundt midtpunktene i dens grenseboks som inneholder alle objektene i modellen. Punktet er ofte rundt midten av modellen sett fra oven. Enheter - Grader
+**Rotasjon** Skriv inn en vinkel for å rotere modellen. Modellen roteres rundt midtpunktene i dens grenseboks som inneholder alle objektene i modellen. Punktet er ofte rundt midten av modellen sett fra oven. Enheter - Grader
 
-_Lagre_ Klikk på lagre for å lagre transformasjonsinnstillingene.
+**Lagre** Klikk på lagre for å lagre transformasjonsinnstillingene.
 
 ### 3.2 **Kun i nettleser**
 

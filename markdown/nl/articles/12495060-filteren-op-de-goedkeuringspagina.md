@@ -12,7 +12,7 @@ Klik op de filterknop linksboven om een paneel aan de linkerkant te laten versch
 
 ### 1.1 **Het huidige filter opslaan en delen**
 
-Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen naar de bovenkant van het filtermenu worden opgeslagen. Klik [hier](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) om meer te lezen over het opslaan en delen van filters. Opmerking: in tegenstelling tot andere filtermenu's is het op de goedkeuringspagina niet mogelijk om persoonlijke filters naar de bovenkant van het filtermenu op te slaan.
+Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen naar de bovenkant van het filtermenu worden opgeslagen. Klik [hier](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) voor meer informatie over het opslaan en delen van filters. Let op: in tegenstelling tot andere filtermenu's is het op de pagina voor goedkeuringen niet mogelijk om persoonlijke filters naar de bovenkant van het filtermenu op te slaan.
 
 ### 1.2 **Lege filters verbergen**
 

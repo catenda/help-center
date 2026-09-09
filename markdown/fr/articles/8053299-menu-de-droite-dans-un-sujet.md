@@ -47,15 +47,14 @@ Lorsque le navigateur est complètement désactivé, le plus d'informations sur 
 Pour les dossiers, le nom du dossier s'affiche ainsi que les étiquettes attachées au dossier. Pour les documents, les éléments suivants sont affichés :
 
 - Chemin d'accès au document dans la bibliothèque de documents.
-- Nom du document
-  Survolez chaque nom pour voir un aperçu du nom complet du document / du chemin d'accès.
+- Nom du document<br>Passez la souris sur chaque nom pour voir un aperçu du nom complet du document / du chemin.
 - Numéro de révision
 - Statut de la révision de la dernière révision du document
 - Étiquettes appliquées au document
 - Taille de la dernière révision
 - Créateur de la dernière révision
 - Nombre d'objets 3D liés au document associé
-    - Cliquez sur le nombre d'objets pour ouvrir le menu d'action de l'objet 3D.
+  - Cliquez sur le nombre d'objets pour ouvrir le menu d'action de l'objet 3D.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/07-related-folders-and-documents.png)
 
