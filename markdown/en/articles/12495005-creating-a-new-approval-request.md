@@ -20,7 +20,7 @@ Members that are part of submitter teams configured in a project workflow can se
 
 ![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
-_Access requred:_ Members and administrators must be part of a submitter team configured for a workflow to be able to select the workflow.
+_Access required:_ Members and administrators must be part of a submitter team configured for a workflow to be able to select the workflow.
 
 ### 1.2 **Submitter selection**
 
@@ -32,11 +32,11 @@ When the approval request is created members who are part of the selected submit
 
 ![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/04-submitter-selection.png)
 
-_Access requred:_ Members and administrators must be part of a submitter team configured for a workflow to be able to submit on behalf of that submitter team.
+_Access required:_ Members and administrators must be part of a submitter team configured for a workflow to be able to submit on behalf of that submitter team.
 
 ### 1.3 **Title**
 
-The title of the approval request. An approval must have a title to be submitted.
+The title of the approval request. An approval must have a title to be submitted. The title can be corrected later, both while the request is still a draft and after it has been submitted.
 
 ## 2. **Approval request body**
 
@@ -46,7 +46,7 @@ The new validation workflow is an on-demand feature that can be requested to be 
 
 ### 2.1 **Description**
 
-The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts). The description can be corrected later, both while the request is still a draft and after it has been submitted.
 
 ### 2.2 **Add documents**
 

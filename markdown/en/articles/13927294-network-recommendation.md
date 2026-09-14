@@ -39,6 +39,7 @@ We encourage you to use this new domain name. You should not run into problems w
 - `*.intercom.io`
 - `*.intercomcdn.com`
 - `*.sentry.io`
+- `*.cloudfront.net`
 
 **Plugins** If you only intend to use Catenda Hub through one of our plugins you these are the only domains you need to allow through your firewall.
 

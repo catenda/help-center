@@ -26,11 +26,13 @@ This is what the approval header in an open approval can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/03-approval-header.png)
 
-After the approval creator has submitted the approval in the create approval request dialogue or from a draft approval request is no longer possible to edit the approval header.
+After the approval creator has submitted the approval in the create approval request dialogue or from a draft approval request the title and the description can still be edited. The workflow can no longer be changed.
+
+> **Note:** Being a member of a submitter team is what allows an approval request to be created, but it does not carry the right to edit an approval request created by another member of that team.
 
 ### 2.1 **Title**
 
-The title of the open or closed approval request.
+The title of the open or closed approval request. Click on the pencil icon to edit the title. _Access required:_ The person who created the approval request, or a project administrator.
 
 ### 2.2 Workflow
 
@@ -38,7 +40,7 @@ The workflow that is selected during the creation of this approval _Access requi
 
 ### 2.3 **Description**
 
-The description of the approval.
+The description of the approval. The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts). _Access required:_ The person who created the approval request, or a project administrator.
 
 ## 3. **Step ribbon**
 

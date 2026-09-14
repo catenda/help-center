@@ -24,7 +24,7 @@ This is what the approval header can look like in a draft approval request:
 
 ### 2.1 **Title**
 
-The title of the draft approval request. Click on the pencil icon to edit the title.
+The title of the draft approval request. Click on the pencil icon to edit the title. The title stays editable after the approval request has been submitted.
 
 ### 2.2 **Workflow**
 
@@ -32,7 +32,7 @@ The workflow that is selected during the creation of this approval
 
 ### 2.3 **Description**
 
-The description of the approval With the new approval workflow it is not possible to edit the description of an approval after the approval is created. The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+The description of the approval The description stays editable after the approval request has been submitted. Editing is limited to the person who created the approval request and to project administrators. The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
 
 ## 3. **Step ribbon**
 

@@ -55,7 +55,7 @@ Konfigurer innstillinger for ditt prosjekt eller din konto
 - [Siden for kontovarsler](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7439223-siden-for-kontovarsler.md)
 - [Teamside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7891755-teamside.md)
 
-## Produkt Funksjoner
+## Produktfunksjoner
 
 Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funksjoner
 
@@ -366,7 +366,7 @@ Her finner du svar på spørsmål som mange brukere har
 
 ## Siste oppdateringer 🎉
 
-Finn de siste Catenda oppdateringene
+Finn de siste Catenda-oppdateringene
 
 - [3D forhåndsvisning av dokumenter](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5658031-3d-forhåndsvisning-av-dokumenter.md): Forhåndsvis modellen din direkte i dokumentdelen av Bimsync.
 - [3D-målingsoppdatering!](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5981459-3d-målingsoppdatering.md): Forbedringer av målingsverktøyene i Catenda Hub
