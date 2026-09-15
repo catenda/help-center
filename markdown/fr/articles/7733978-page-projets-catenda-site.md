@@ -7,9 +7,9 @@ Après avoir [téléchargé, installé et vous être connecté](https://support.
 Vous pouvez filtrer vos projets en appuyant sur la liste déroulante **(A)** :
 
 1. Ordre alphabétique
-1. Derniers projets mis à jour
-1. Favoris
-1. Projets hors ligne
+2. Derniers projets mis à jour
+3. Favoris
+4. Projets hors ligne
 
 ou en cherchant dans la barre de recherche **(B)** :
 

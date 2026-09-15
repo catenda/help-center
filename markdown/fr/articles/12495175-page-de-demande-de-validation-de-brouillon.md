@@ -24,7 +24,7 @@ Voici à quoi peut ressembler l'en-tête de validation dans une demande de valid
 
 ### 2.1 **Titre**
 
-Le titre de la demande de validation de brouillon. Cliquez sur l'icône de crayon pour modifier le titre.
+Le titre de la demande d'approbation de brouillon. Cliquez sur l'icône de crayon pour modifier le titre. Le titre reste modifiable après la soumission de la demande d'approbation.
 
 ### 2.2 **Circuit de validation**
 
@@ -32,7 +32,7 @@ Le circuit de validation qui est sélectionné lors de la création de cette val
 
 ### 2.3 **Description**
 
-La description de la validation Avec le nouveau circuit de validation, il n'est pas possible de modifier la description d'une validation après sa création. La description de la validation suit les [règles de mise en forme générales des publications](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+La description de l'approbation. La description reste modifiable après la soumission de la demande d'approbation. La modification est limitée à la personne qui a créé la demande d'approbation et aux administrateurs du projet. La description de l'approbation suit les [règles générales de mise en forme des publications](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
 
 ## 3. **Ruban d'étape**
 

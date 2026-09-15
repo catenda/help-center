@@ -106,7 +106,7 @@ _Få en Catenda-bildedokumentlenke_ Hvis du høyreklikker på [nedlastingsknappe
 
 ### 4.2 **Lister**
 
-_Uordnede lister_ Start en uordnet liste med en tom linje over den, deretter enten bindestrek (`-`), plusstegn (`+`) eller asterisk (`*`) fulgt av mellomrom. Sett inn 4 mellomrom eller et tabulatortegn på starten av linjen for å opprette en underliste.
+**Uordnede lister** Start en uordnet liste med en tom linje over den, deretter enten bindestrek (`-`), plusstegn (`+`) eller asterisk (`*`) fulgt av mellomrom. Sett inn 4 mellomrom eller et tabulatortegn på starten av linjen for å opprette en underliste.
 
 ```
  - Første element - Andre element     - Sett inn 4 mellomrom på starten av linjen for å opprette en underliste.
@@ -128,11 +128,11 @@ Vil alle bli til dette:
 
 - Første element
 - Andre element
-    - Sett inn 4 mellomrom på starten av linjen for å opprette en underliste.
+  - Sett inn 4 mellomrom på starten av linjen for å opprette en underliste.
 
 > **Merk:** For at en uordnet liste skal formateres riktig, må det være en tom linje over listen.
 
-_Ordnede lister_ Start en ordnet liste med en tom linje over den, et tall, en periode og mellomrom (`1. `) Det tallet som er foran, spiller ingen rolle, bare at det er et tall etterfulgt av en periode. Sett inn 4 mellomrom eller et tabulatortegn på starten av linjen for å opprette en underliste.
+**Ordnede lister** Start en ordnet liste med en tom linje over den, et tall, en periode og mellomrom (`1. `) Det tallet som er foran, spiller ingen rolle, bare at det er et tall etterfulgt av en periode. Sett inn 4 mellomrom eller et tabulatortegn på starten av linjen for å opprette en underliste.
 
 ```
 1. element en 2. element to 3. element tre     4. element fire
@@ -153,10 +153,10 @@ Eller
 Vil alle bli til dette:
 
 1. element en
-1. element to
-1. element tre
+2. element to
+3. element tre
 
-    1. Element fire
+   4. Element fire
 
 > **Merk:** For at en ordnet liste skal formateres riktig, må det være en tom linje over listen.
 
@@ -169,10 +169,10 @@ Tallet du starter med, påvirker ikke hvor nummereringen begynner
 Blir til:
 
 1. tjuetreog
-1. tjuefire
-1. tjuefem
+2. tjuefire
+3. tjuefem
 
-    1. tjueseks
+   4. tjueseks
 
 Hvis du ønsker å tilbakestille nummereringen og starte fra en igjen på en annen liste innenfor samme innlegg, kan du legge en tom eller en [skillelinje](#h_3a36cfbc61) mellom dem.
 
@@ -212,7 +212,7 @@ Blir til dette:
 
 Klikk [her](https://support.catenda.com/en/articles/5036461-check-lists-within-issues) for å se en rask video om hvordan sjekklister kan brukes i prosjektet. Hvis du skriver` - [ ]` eller `- [x]` vil boksen fortsatt vises merket av eller ikke merket av når kommentaren sendes inn eller lagres etter redigering.
 
-_Avkryssingsbokser i kommentarer_ I kommentarer kan avkryssingsbokser bare merkes av gjennom formatering. Avkryssingsbokser i kommentarer kan ikke klikkes for å bli merket av. _Tilgang påkrevd -_ Kommentarens skaper har tilgang til redigering av den opprettede kommentaren
+**Avkryssingsbokser i kommentarer** I kommentarer kan avkryssingsbokser bare merkes av gjennom formatering. Avkryssingsbokser i kommentarer kan ikke klikkes for å bli merket av. _Tilgang påkrevd -_ Kommentarens skaper har tilgang til redigering av den opprettede kommentaren
 
 ### 4.5 **Tabeller**
 
@@ -256,11 +256,11 @@ Søk gjennom listen ved å begynne å skrive e-postadressen, medlemsnavnet eller
 
 Når beskrivelsen lagres eller kommentaren sendes inn, mottar relaterte medlemmer med tilgang til sakslisten et varsel. Hvis medlemmets e-postadresse eller teamnavnet er kjent, kan det også skrives manuelt, men hvis de ikke er del av sakslisten, vil de relaterte medlemmene ikke bli varslet om at de er nevnt.
 
-_Varsel ved medlemsnevning_ Medlemmer med tilgang til sakslisten som er nevnt, mottar et varsel om at de er nevnt i en sak.
+**Varsel ved medlemsnevning** Medlemmer med tilgang til sakslisten som er nevnt, mottar et varsel om at de er nevnt i en sak.
 
-_Varsel ved teamnevning_ Medlemmer med tilgang til sakslisten som er del av et team som er nevnt, mottar et varsel om at et team de er del av, er nevnt i en sak.
+**Varsel ved teamnevning** Medlemmer med tilgang til sakslisten som er del av et team som er nevnt, mottar et varsel om at et team de er del av, er nevnt i en sak.
 
-_Varsler om fremtidige saksbegivenheter_ Medlemmer av teams som er nevnt i saksbeskrivelser og kommentarer mottar bare det ene varselet ved den lagrede beskrivelsen eller sendt kommentar.
+**Varsler om fremtidige saksbegivenheter** Medlemmer av teams som er nevnt i saksbeskrivelser og kommentarer mottar bare det ene varselet ved den lagrede beskrivelsen eller sendt kommentar.
 
 I tillegg til varselet om at de er nevnt, blir medlemmer som er nevnt i innlegg automatisk satt til å [følge](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken og vil få varsler om saksbegivenheter som nye kommentarer og statusendringer. Dette er en fin måte å sikre at mer enn bare [tilordnet](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) og [forespørrer](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7) få varsler om fremtidige endringer i saken. Hvis et medlem ikke lenger ønsker å følge saken, må de manuelt slutte å følge den.
 
@@ -274,13 +274,13 @@ I bakgrunnen lagres den unike ID-en til det nevnte prosjektdeltakeren. Det er de
 
 Nevnte medlemmer har en klikkbar lenke som leder til [medlemssiden](https://support.catenda.com/en/articles/8228836-member-page) til det medlemmet. Nevnte teams har en klikkbar lenke som leder til [teamsiden](https://support.catenda.com/en/articles/7891755-team-page) til det teamet.
 
-_Ikke-eksisterende medlem_ Hvis det ikke er noe medlem i prosjektet som har e-postadressen som er nevnt, ser innlegget slik ut i stedet:
+**Ikke-eksisterende medlem** Hvis det ikke er noe medlem i prosjektet som har e-postadressen som er nevnt, ser innlegget slik ut i stedet:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/12-mention-in-post.png)
 
 Dette kan enten være fordi e-posten var formatert feil eller fordi medlemmet ikke lenger er del av prosjektet. Hvis et medlem med denne e-postadressen blir del av prosjektet i fremtiden, endres innlegget til å vise medlemmets navn.
 
-_Ikke-eksisterende team_ Hvis et team har blitt fjernet fra prosjektet og et nytt team opprettes, vil dette nye teamet ikke bli nevnt. For å nevne det nye teamet må innlegget sendes inn på nytt.
+**Ikke-eksisterende team** Hvis et team har blitt fjernet fra prosjektet og et nytt team opprettes, vil dette nye teamet ikke bli nevnt. For å nevne det nye teamet må innlegget sendes inn på nytt.
 
 ## 6. **# Merkede saker**
 

@@ -1,6 +1,6 @@
 # BCF-arbeidsflyt ved bruk av NTI Tools for Revit
 
-_BCF fra Revit med NTITools til Bimsync._
+**BCF fra Revit med NTITools til Bimsync.**
 
 Gå til NTItools-verktøylinjen og åpne BCF-samarbeid. Her kan du synkronisere med Bimsync-serveren i prosjektet ditt ved å klikke på åpne, deretter åpne Bimsync issue board og logg inn på Bimsync-kontoen din.
 

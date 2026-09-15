@@ -6,8 +6,6 @@ Voici à quoi peut ressembler la page des modèles de topics :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/01-intro.png)
 
-Les topics suivants sont décrits dans cet article :
-
 ## 1. **Actions sur la page des modèles de topics**
 
 Les actions de la page des modèles de topics se trouvent en cliquant sur le menu d'actions à droite du bouton plus vert en haut à droite de la page des modèles de topics. Voici à quoi peuvent ressembler les actions de la page des modèles de topics lors de la consultation des modèles de topics :
@@ -31,8 +29,6 @@ Cliquez sur les actions modèles de topics et modèles de topics archivés pour 
 Une fois qu'un modèle de topic est créé, une carte pour le modèle de topic apparaît sur cette page. Cliquez sur une carte de modèle de topic pour ouvrir la [page du modèle de topic](https://support.catenda.com/en/articles/12371549-topic-template-page) de ce modèle de topic. Voici à quoi peut ressembler une carte de modèle de topic :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/04-topic-template-card.png)
-
-Les topics suivants sont décrits dans cette section :
 
 ### 2.1 **Titre du modèle de topic**
 

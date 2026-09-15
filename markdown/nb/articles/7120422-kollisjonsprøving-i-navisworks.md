@@ -3,26 +3,29 @@
 ## 1. Kollisjonsprøving og opprettelse av BCF viewpoint ved hjelp av plugin-modulen
 
 1. Definer Clash Detective og kjør en kollisjonsprøving.
-1. Gå gjennom clash-ene i NW.
 
-    a. Gi navn hvis nødvendig
+2. Gå gjennom clash-ene i NW.
 
-    b. Juster og lagre viewpoints ved hjelp av **Focus on clash** og **Save viewpoint** kommandoer
+   a. Gi navn hvis nødvendig
 
-    c. Grupper clash-ene av samme type sammen
+   b. Juster og lagre viewpoints ved hjelp av **Focus on clash** og **Save viewpoint** kommandoer
 
-1. Opprett en rapport som viewpoints. Slå på **Preserve result highlighting**
-1. Disse viewpoints-ene vises i clash-fanen i plugin-modulen
-1. Opprett sak ved å velge en eller flere clash
+   c. Grupper clash-ene av samme type sammen
 
-    a. Gi saken en tittel
+3. Opprett en rapport som viewpoints. Slå på **Preserve result highlighting**
 
-    b. Klikk legg til sak.
+4. Disse viewpoints-ene vises i clash-fanen i plugin-modulen
 
-1. For å få meningsfull miniatyrbilde:
+5. Opprett sak ved å velge en eller flere clash
 
-    a. Velg clash i Clash Detective
+   a. Gi saken en tittel
 
-    b. Velg samme clash i **Clashes**-fanen.
+   b. Klikk legg til sak.
 
-    c. Klikk legg til sak.
+6. For å få meningsfull miniatyrbilde:
+
+   a. Velg clash i Clash Detective
+
+   b. Velg samme clash i **Clashes**-fanen.
+
+   c. Klikk legg til sak.

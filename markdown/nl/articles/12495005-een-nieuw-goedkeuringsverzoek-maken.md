@@ -20,7 +20,7 @@ Leden die deel uitmaken van indienersteams die zijn geconfigureerd in een projec
 
 ![Workflow Indiener Titel](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
-_Vereiste toegang:_ Leden en beheerders moeten deel uitmaken van een indienersteam dat is geconfigureerd voor een workflow om de workflow te kunnen selecteren.
+_Vereiste toegang:_ Leden en beheerders moeten deel uitmaken van een indienerteam dat is geconfigureerd voor een workflow om de workflow te kunnen selecteren.
 
 ### 1.2 **Indiener selectie**
 
@@ -32,11 +32,11 @@ Wanneer het goedkeuringsverzoek wordt gemaakt, zien leden die deel uitmaken van 
 
 ![Workflow Indiener Titel](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/04-submitter-selection.png)
 
-_Vereiste toegang:_ Leden en beheerders moeten deel uitmaken van een indienersteam dat is geconfigureerd voor een workflow om namens dat indienersteam te kunnen indienen.
+_Vereiste toegang:_ Leden en beheerders moeten deel uitmaken van een indienerteam dat is geconfigureerd voor een workflow om namens dat indienerteam in te dienen.
 
 ### 1.3 **Titel**
 
-De titel van de goedkeuringsaanvraag. Een goedkeuring moet een titel hebben om ingediend te kunnen worden.
+De titel van de goedkeuringsaanvraag. Een goedkeuring moet een titel hebben om ingediend te kunnen worden. De titel kan later worden gecorrigeerd, zowel terwijl de aanvraag nog een concept is als nadat deze is ingediend.
 
 ## 2. **Goedkeuringsverzoek-body**
 
@@ -46,7 +46,7 @@ De nieuwe validatieworkflow is een op aanvraag beschikbare functie die kan worde
 
 ### 2.1 **Beschrijving**
 
-De beschrijving van de goedkeuring volgt de [algemene opmaakregels voor berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+De beschrijving van de goedkeuring volgt de [algemene opmaakregels van berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts). De beschrijving kan later worden gecorrigeerd, zowel terwijl de aanvraag nog een concept is als nadat deze is ingediend.
 
 ### 2.2 **Documenten toevoegen**
 
@@ -67,6 +67,8 @@ _Naam_ - _Standaard_ De naam van het document waarin de gedeelde revisie zich be
 Revisie - _Standaard_ De naam van de documentrevisie. Dit is hetzelfde als de originele bestandsnaam van het bestand dat is geüpload.
 
 ## 3. - _Standaard_
+
+Het hoofd- en klein revisienummer van de gedeelde revisie (#0.1, #0.2, #1.1, enz...)
 
 Status - _Standaard_ De naam van de gedeelde status die op de gedeelde revisie is toegepast.
 
@@ -96,9 +98,9 @@ Klik op Indienen voor beoordeling om de goedkeuring in te dienen en het goedkeur
 - Een indiener-Team waarop u namens wilt indienen moet worden geselecteerd
 - Een titel
 - Documenten
-    - Minimaal 1 Document met een geselecteerde gedeelde revision moet worden toegevoegd om de goedkeuring in te kunnen dienen.
-    - Maximaal 1000 documentrevisies met een geselecteerde gedeelde revision kunnen worden toegevoegd.
-    - Om een goedkeuringsvraag met meer dan 1000 documentrevisies aan te maken, maakt u eerst een concept aan met maximaal 1000 revisies en voegt u vervolgens maximaal 1000 documentrevisies tegelijk toe aan het concept voordat u het concept indient voor beoordeling.
+  - Minimaal 1 Document met een geselecteerde gedeelde revision moet worden toegevoegd om de goedkeuring in te kunnen dienen.
+  - Maximaal 1000 documentrevisies met een geselecteerde gedeelde revision kunnen worden toegevoegd.
+  - Om een goedkeuringsvraag met meer dan 1000 documentrevisies aan te maken, maakt u eerst een concept aan met maximaal 1000 revisies en voegt u vervolgens maximaal 1000 documentrevisies tegelijk toe aan het concept voordat u het concept indient voor beoordeling.
 
 Na het indienen van een goedkeuringsvraag voor beoordeling met de nieuwe validatiewerkstroom is het enige wat kan worden gewijzigd dat gedeelde revisiondocumenten uit de vraag kunnen worden verwijderd.
 

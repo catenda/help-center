@@ -26,11 +26,13 @@ Slik kan gjennomgangshodet i en åpen gjennomgang se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/03-approval-header.png)
 
-Etter at gjennomgangsopprettelsen har sendt inn gjennomgangen i opprettelsesdialogen for gjennomgangsforespørsel eller fra et gjennomgangsforespørselsutkast er det ikke lenger mulig å redigere gjennomgangshodet.
+Etter at gjennomgangsoppretteren har sendt inn gjennomgangen i dialogboksen for opprettelse av gjennomgangsforespørsel eller fra en utkastgjennomgang, kan tittel og beskrivelse fortsatt redigeres. Arbeidsflyten kan ikke lenger endres.
+
+> **Merknad:** Det å være medlem av et innsendingsteam er det som tillater opprettelse av en gjennomgangsforespørsel, men det gir ikke rett til å redigere en gjennomgangsforespørsel opprettet av et annet medlem av det samme teamet.
 
 ### 2.1 **Tittel**
 
-Tittelen på den åpne eller lukkede gjennomgangsforespørselen.
+Tittel på den åpne eller lukkede gjennomgangsforespørselen. Klikk på blyantsymbolet for å redigere tittel. _Påkrevd tilgang:_ Personen som opprettet gjennomgangsforespørselen, eller en prosjektadministrator.
 
 ### 2.2 Arbeidsflyt
 
@@ -38,7 +40,7 @@ Arbeidsflyten som er valgt under oppretting av denne gjennomgangen _Tilgang krev
 
 ### 2.3 **Beskrivelse**
 
-Beskrivelsen av gjennomgangen.
+Beskrivelsen av gjennomgangen. Beskrivelsen av gjennomgangen følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts). _Påkrevd tilgang:_ Personen som opprettet gjennomgangsforespørselen, eller en prosjektadministrator.
 
 ## 3. **Trinnbånd**
 

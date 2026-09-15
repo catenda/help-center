@@ -43,10 +43,10 @@ Robert Chen is een ervaren projectbeheerder die toezicht houdt op een groot comm
 ## 3. **Stap-voor-stapgids**
 
 1. **Open de pagina Goedkeuringen:** Ga naar Documenten > Goedkeuringen in het linkermenu.
-1. **Werkstromen configureren:** Stel in welke teams kunnen indienen, beoordelen en documenten publiceren. Wijs teams toe voor elke stap en definieer beoordelingsperioden.
-1. **Toegang toewijzen:** Beperk documenttoegang zodat alleen relevante gebruikers specifieke documenten kunnen bekijken of goedkeuren.
-1. **Goedkeuringen controleren:** Gebruik het dashboard om alle goedkeuringsverzoeken te zien, filter op items in behandeling en deel gefilterde koppelingen met teamleden om hun aandacht te richten.
-1. **Praktijkvoorbeeld:** Als meerdere documenten in behandeling zijn, filtert Robert de pagina Goedkeuringen, kopieert de gefilterde koppeling en stuurt deze naar het verantwoordelijke team om hun aandacht te richten en vertragingen te voorkomen.
+2. **Werkstromen configureren:** Stel in welke teams kunnen indienen, beoordelen en documenten publiceren. Wijs teams toe voor elke stap en definieer beoordelingsperioden.
+3. **Toegang toewijzen:** Beperk documenttoegang zodat alleen relevante gebruikers specifieke documenten kunnen bekijken of goedkeuren.
+4. **Goedkeuringen controleren:** Gebruik het dashboard om alle goedkeuringsverzoeken te zien, filter op items in behandeling en deel gefilterde koppelingen met teamleden om hun aandacht te richten.
+5. **Praktijkvoorbeeld:** Als meerdere documenten in behandeling zijn, filtert Robert de pagina Goedkeuringen, kopieert de gefilterde koppeling en stuurt deze naar het verantwoordelijke team om hun aandacht te richten en vertragingen te voorkomen.
 
 Deze structuur zorgt ervoor dat elke deelnemer zijn verantwoordelijkheden kent, wat samenwerking stroomlijnt en fouten of vertragingen in het documentgoedkeuringsproces van het project vermindert.
 

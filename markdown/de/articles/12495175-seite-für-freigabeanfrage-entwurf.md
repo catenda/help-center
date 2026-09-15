@@ -24,7 +24,7 @@ Dies ist ein Beispiel für die Freigabenkopfzeile in einer Freigabeanfrage-Entwu
 
 ### 2.1 **Titel**
 
-Der Titel der Freigabeanfrage-Entwurf. Klicken Sie auf das Stiftsymbol, um den Titel zu bearbeiten.
+Der Titel der Genehmigungsanfrage im Entwurf. Klicken Sie auf das Stiftsymbol, um den Titel zu bearbeiten. Der Titel bleibt nach dem Absenden der Genehmigungsanfrage bearbeitbar.
 
 ### 2.2 **Workflow**
 
@@ -32,7 +32,7 @@ Der Workflow, der während der Erstellung dieser Freigabe ausgewählt wurde
 
 ### 2.3 **Beschreibung**
 
-Die Beschreibung der Freigabe Mit dem neuen Freigabe-Workflow ist es nicht möglich, die Beschreibung einer Freigabe nach der Erstellung der Freigabe zu bearbeiten. Die Beschreibung der Freigabe folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+Die Beschreibung der Genehmigung Die Beschreibung bleibt nach dem Absenden der Genehmigungsanfrage bearbeitbar. Die Bearbeitung ist auf die Person beschränkt, die die Genehmigungsanfrage erstellt hat, und auf Projektadministratoren. Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln von Beiträgen](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
 
 ## 3. **Schritt-Multifunktionsleiste**
 

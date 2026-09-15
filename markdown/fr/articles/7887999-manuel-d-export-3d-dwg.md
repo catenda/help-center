@@ -39,21 +39,21 @@ Vous verrez maintenant que vous pouvez sélectionner chaque partie de la famille
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3baydpf4/03-export-menu.png)
 
 1. Numéro de projet
-1. Nom du projet
-1. Enregistré dans - Écrivez le chemin du fichier ou cliquez sur Parcourir pour trouver le dossier dans lequel vous souhaitez enregistrer votre IFC
-1. Sélectionnez les fichiers de dessin que vous souhaitez exporter en IFC
-1. Options
-    1. En-tête - Auteur, Organisation, etc.
-        1. Sélectionnez le schéma IFC à exporter - IFC 2x3 et IFC 4
-    1. Objets - Tous
-    1. Vue - Inclure tous
+2. Nom du projet
+3. Enregistré dans - Écrivez le chemin du fichier ou cliquez sur Parcourir pour trouver le dossier dans lequel vous souhaitez enregistrer votre IFC
+4. Sélectionnez les fichiers de dessin que vous souhaitez exporter en IFC
+5. Options
+   1. En-tête - Auteur, Organisation, etc.
+      1. Sélectionnez le schéma IFC à exporter - IFC 2x3 et IFC 4
+   2. Objets - Tous
+   3. Vue - Inclure tous
 
 > **Remarque :** Ifc 4x1 est retiré par BuildingSMART et par conséquent n'est pas non plus pris en charge par Catenda Hub. Voir [ici](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support) les types de fichiers pris en charge dans Catenda Hub
 
 6\. Ressource et Attribution
 
 1. Ressource - Clic droit pour ajouter une personne et une organisation de ressource
-1. Attribution - Clic droit pour ajouter une personne et une organisation assignées
-1. IfcBuilding - Choisir les propriétés
+2. Attribution - Clic droit pour ajouter une personne et une organisation assignées
+3. IfcBuilding - Choisir les propriétés
 
 Exporter - Cliquez sur ce bouton quand vous êtes prêt à exporter vos fichiers

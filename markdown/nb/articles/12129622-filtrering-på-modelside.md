@@ -18,7 +18,7 @@ Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for 
 
 Klikk på filterknappen øverst til venstre for at et panel skal vises på venstre side. Når et filter brukes, endres URL-adressen som vises i nettleseren. I denne artikkelen vises filtre slik: _Filternavn i meny_ - `Filternavn i URL = Filteralternativ i URL`
 
-_Standardfilter_ Standardfilteret er i utgangspunktet ikke synlig i URL-adressen. Når siden åpnes for første gang, brukes følgende filter. Arbeidsarekkefane - `v=all`
+**Standardfilter** Standardfilteret er i utgangspunktet ikke synlig i URL-adressen. Når siden åpnes for første gang, brukes følgende filter. Arbeidsarekkefane - `v=all`
 
 ### 3.1 **Lagre og dele gjeldende filter**
 

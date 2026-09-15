@@ -69,7 +69,7 @@ BCF Plugin-knappen i Catenda Plugins-menyen på Catenda-fanen åpner Catenda Nav
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/03-bcf-plugin.png)
 
-_Dokking av programtillegget_ Dra tittellinjen i vinduet til en av sidene av appen for å dokke den.
+**Dokking av programtillegget** Dra tittellinjen i vinduet til en av sidene av appen for å dokke den.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/04-bcf-plugin.png)
 
@@ -93,13 +93,13 @@ Hvis påloggingsøkten har utløpt, kan oppdateringsknappen brukes til å oppdat
 
 ### 6.1 **Autentiser**
 
-_Token_ Her vil du se Catenda-autentiseringsjeton etter pålogging.
+**Token** Her vil du se Catenda-autentiseringsjeton etter pålogging.
 
 ### 6.2 **IFCGuid**
 
-_Kategori og egenskap_ Kategori standard: Element Egenskap standard: IfcGUID
+**Kategori og egenskap** Kategori standard: Element Egenskap standard: IfcGUID
 
-_Egenskapskartlegging_ Catenda Navisworks-programtillegget knytter objekter til synspunkter i saker basert på GUID-en til IfcProject i IFC. I Navisworks finnes denne GUID-en i egenskapene til objektet. Her er et eksempel med et valgt objekt:
+**Egenskapskartlegging** Catenda Navisworks-programtillegget knytter objekter til synspunkter i saker basert på GUID-en til IfcProject i IFC. I Navisworks finnes denne GUID-en i egenskapene til objektet. Her er et eksempel med et valgt objekt:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/08-ifcguid.png)
 
@@ -109,11 +109,11 @@ Avhengig av innholdet i IFC-filen din, kan IfcProject GUID-en finnes i en eller 
 
 ### 6.3 **Stier**
 
-_DownloadPath_ Filplasseringen der modeller og dokumenter som lastes ned gjennom programtillegget ender opp.
+**DownloadPath** Filplasseringen der modeller og dokumenter som lastes ned gjennom programtillegget ender opp.
 
 ### 6.4 **Øyeblikksbilder**
 
-_Plassering_ Høyre - standard Øyeblikksbilder vises til høyre
+**Plassering** Høyre - standard Øyeblikksbilder vises til høyre
 
 Nedenfor Øyeblikksbilder vises nedenfor
 
@@ -177,23 +177,23 @@ For å komme i gang med kollisjonsmenyen finner du Clash Detective i båndet:
 
 `Hjem-fanen -> Verktøy-meny -> Clash Detective`
 
-_Testoversikt_ Legg til en ny test. Dette er hvordan testens oversikt kan se ut:
+**Testoversikt** Legg til en ny test. Dette er hvordan testens oversikt kan se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/13-running-a-clash-detective-test.png)
 
-_Regler_ Velg regler eller opprett nye.
+**Regler** Velg regler eller opprett nye.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/14-running-a-clash-detective-test.png)
 
-_Velg_ Velg modeller som du vil sjekke mot hverandre for kollisjoner og kjør testen.
+**Velg** Velg modeller som du vil sjekke mot hverandre for kollisjoner og kjør testen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/15-running-a-clash-detective-test.png)
 
-_Resultater_ Gå gjennom resultatet og gi kollisjonene navn.
+**Resultater** Gå gjennom resultatet og gi kollisjonene navn.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/16-running-a-clash-detective-test.png)
 
-_Kontekstmeny_ Høyreklikk på en kollisjonrad for å åpne følgende kontekstmeny:
+**Kontekstmeny** Høyreklikk på en kollisjonrad for å åpne følgende kontekstmeny:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/17-running-a-clash-detective-test.png)
 
@@ -215,7 +215,7 @@ Vis i kontekst Alt, fil eller hjem.
 
 Elementer Her ser du objektene som er relatert til den valgte kollisjonen.
 
-_Rapport_ Dette er hvordan rapportmenyen kan se ut:
+**Rapport** Dette er hvordan rapportmenyen kan se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/18-running-a-clash-detective-test.png)
 
@@ -237,25 +237,25 @@ Etter at en kollisjontest har kjørt, vises synspunktene i kollisjons-fanen.
 
 Opprett sak ved å velge en eller flere kollisjoner Gi saken en tittel Klikk på Legg til sak.
 
-_Legg til sak-rullegardin_ Saker kan lages på følgende måter:
+**Legg til sak-rullegardin** Saker kan lages på følgende måter:
 
 Opprett en samlet sak
 
 - Opprett en sak fra de valgte kollisjonene
-    - Opprett en sak med et synspunkt for hver kollisjon som er valgt i Navisworks Clash Detective.
+  - Opprett en sak med et synspunkt for hver kollisjon som er valgt i Navisworks Clash Detective.
 - Opprett en sak fra de valgte kollisjonene (Konsolidert synspunkt)
-    - Opprett en sak med et enkelt synspunkt som er zoomet ut for å inkludere alle kollisjoner som er valgt i Navisworks Clash Detective.
+  - Opprett en sak med et enkelt synspunkt som er zoomet ut for å inkludere alle kollisjoner som er valgt i Navisworks Clash Detective.
 
 Opprett flere saker
 
 - Opprett en sak for hver valgt kollisjon
-    - Opprett en sak for hver kollisjon som er valgt i Catenda Navisworks-programtillegget.
+  - Opprett en sak for hver kollisjon som er valgt i Catenda Navisworks-programtillegget.
 - Opprett en sak for hver kollisjongruppe
-    - Opprett en sak for hver kollisjongruppe som er valgt i Catenda Navisworks-programtillegget, med et synspunkt for hver kollisjon i kollisjongruppen.
+  - Opprett en sak for hver kollisjongruppe som er valgt i Catenda Navisworks-programtillegget, med et synspunkt for hver kollisjon i kollisjongruppen.
 - Opprett en sak for hver kollisjongruppe (Konsolidert synspunkt)
-    - Opprett en sak for hver kollisjongruppe som er valgt i Catenda Navisworks-programtillegget, med et enkelt synspunkt som er zoomet ut for å inkludere alle valgte kollisjoner.
+  - Opprett en sak for hver kollisjongruppe som er valgt i Catenda Navisworks-programtillegget, med et enkelt synspunkt som er zoomet ut for å inkludere alle valgte kollisjoner.
 - Opprett en sak for hver ugruppert kollisjon
-    - Opprett en sak for hver ugruppert kollisjon som er valgt i Catenda Navisworks-programtillegget
+  - Opprett en sak for hver ugruppert kollisjon som er valgt i Catenda Navisworks-programtillegget
 
 ### 9.4 **Endre status**
 
@@ -299,15 +299,15 @@ Legg til den/de valgte modellen(e) i gjeldende Navisworks-prosjekt. For å kunne
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/21-catenda-document-library.png)
 
-_Navigasjonspil_ Flytt opp ett nivå i mappestrukturen.
+**Navigasjonspil** Flytt opp ett nivå i mappestrukturen.
 
-_Oppdater_ Oppdater dokumentene i dokumentbiblioteket.
+**Oppdater** Oppdater dokumentene i dokumentbiblioteket.
 
-_Last ned_ Last ned den siste versjonen av det valgte Catenda-dokumentet til systemet ditt.
+**Last ned** Last ned den siste versjonen av det valgte Catenda-dokumentet til systemet ditt.
 
-_Last opp_ Last opp den siste versjonen av det valgte Catenda-dokumentet til systemet ditt.
+**Last opp** Last opp den siste versjonen av det valgte Catenda-dokumentet til systemet ditt.
 
-_Kolonner_ Navigasjon Dobbeltklikk på navigasjonspilen eller hvor som helst på raden i en mappe for å åpne den mappen.
+**Kolonner** Navigasjon Dobbeltklikk på navigasjonspilen eller hvor som helst på raden i en mappe for å åpne den mappen.
 
 Navn Navnet på mappen eller dokumentet
 
@@ -319,21 +319,21 @@ Versjon Versjonsnummeret for dokumentet
 
 ### 10.7 **Kolonner**
 
-_Valgboks_ Valgboksen for modellen
+**Valgboks** Valgboksen for modellen
 
-_Modelikon_ Ikonet for modellen
+**Modelikon** Ikonet for modellen
 
-_Navn_ Navnet på modellen
+**Navn** Navnet på modellen
 
-_Versjon Catenda_ Det siste versjonsnummeret i Catenda-prosjektet
+**Versjon Catenda** Det siste versjonsnummeret i Catenda-prosjektet
 
-_Versjon Navisworks_
+**Versjon Navisworks**
 
-_Last ned_ Klikk på nedlastingsikonet for å laste ned den siste modellversjonen. Når versjonsnummeret vises i kolonnen Versjon Navisworks, er modellen lastet ned.
+**Last ned** Klikk på nedlastingsikonet for å laste ned den siste modellversjonen. Når versjonsnummeret vises i kolonnen Versjon Navisworks, er modellen lastet ned.
 
-_Åpne_ Klikk på åpne-ikonet for å åpne modellen i et nytt Navisworks-prosjekt.
+**Åpne** Klikk på åpne-ikonet for å åpne modellen i et nytt Navisworks-prosjekt.
 
-_Legg til_ Klikk på legg til-ikonet for å legge til modellen i gjeldende Navisworks-prosjekt.
+**Legg til** Klikk på legg til-ikonet for å legge til modellen i gjeldende Navisworks-prosjekt.
 
 ### 10.8 **Last ned modeller fra Catenda Hub**
 

@@ -7,18 +7,20 @@ Cet article s'appuie sur les articles suivants : [Convention de nommage la plus 
 En mettant en place cette [convention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) vous apprendrez tout ce que vous devez savoir sur les [conventions de nommage](https://support.catenda.com/en/articles/7832559-naming-conventions-page) pour pouvoir choisir les [blocs](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) que vous aimez pour votre propre [convention](https://support.catenda.com/en/articles/7832559-naming-conventions-page). Supposons que vous organisiez localement tous vos modèles 3D et vos dessins de construction.
 
 - Vous avez un tiret _( - )_ dans le nom du fichier, donc pour séparer les différents [blocs](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) vous devrez utiliser un trait de soulignement _( \_ )_ comme [séparateur](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=in%20document%20settings-,Separator,-%3A%20The%20character).
+
 - Ces fichiers commencent par la date de création du fichier.
 
-    Cela vous est utile car même si cela est généralement indiqué à différents endroits, c'est simplement plus visuel pour vous d'avoir vos fichiers classés alphabétiquement par date de création.
+  Cela vous est utile car même si cela est généralement indiqué à différents endroits, c'est simplement plus visuel pour vous d'avoir vos fichiers classés alphabétiquement par date de création.
 
 - Après cela, vous aurez le nom du fichier qui peut être de n'importe quelle longueur.
+
 - À la fin du nom du fichier, vous avez un statut pour indiquer la version du fichier que vous avez.
 
-    Cette partie est simplement du texte supplémentaire que vous utilisez pour distinguer vos fichiers localement. Vous ne voulez pas voir cette partie du nom du fichier dans le nom du document Catenda Hub car elle n'est utile que pour vous localement et n'a rien à voir avec les autres personnes du projet.
+  Cette partie est simplement du texte supplémentaire que vous utilisez pour distinguer vos fichiers localement. Vous ne voulez pas voir cette partie du nom du fichier dans le nom du document Catenda Hub car elle n'est utile que pour vous localement et n'a rien à voir avec les autres personnes du projet.
 
 - Finalement, vous avez décidé de vous assurer que vous ne conservez que des types de fichiers spécifiques dans ce dossier.
 
-    Vous limiterez les types de fichiers à IFC, PDF, DWG, SMC, PL et RVT
+  Vous limiterez les types de fichiers à IFC, PDF, DWG, SMC, PL et RVT
 
 ### 1.1 **Configuration initiale**
 

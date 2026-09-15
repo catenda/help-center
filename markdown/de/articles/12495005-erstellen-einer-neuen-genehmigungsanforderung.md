@@ -20,7 +20,7 @@ Mitglieder, die Teil von Absender-Teams sind, die in einem Projekt-Workflow konf
 
 ![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
-_Erforderlicher Zugriff:_ Mitglieder und Administratoren müssen Teil eines Absender-Teams sein, das für einen Workflow konfiguriert ist, um den Workflow auswählen zu können.
+_Erforderlicher Zugriff:_ Mitglieder und Administratoren müssen Teil eines für einen Workflow konfigurierten Submitter-Teams sein, um den Workflow auswählen zu können.
 
 ### 1.2 **Absender-Auswahl**
 
@@ -32,11 +32,11 @@ Wenn die Genehmigungsanforderung erstellt wird, sehen Mitglieder, die Teil des a
 
 ![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/04-submitter-selection.png)
 
-_Erforderlicher Zugriff:_ Mitglieder und Administratoren müssen Teil eines Absender-Teams sein, das für einen Workflow konfiguriert ist, um in dessen Namen eine Genehmigung einreichen zu können.
+_Erforderlicher Zugriff:_ Mitglieder und Administratoren müssen Teil eines für einen Workflow konfigurierten Submitter-Teams sein, um im Namen dieses Submitter-Teams einreichen zu können.
 
 ### 1.3 **Titel**
 
-Der Titel der Genehmigungsanfrage. Eine Genehmigung muss einen Titel haben, um eingereicht zu werden.
+Der Titel der Genehmigungsanfrage. Eine Genehmigung muss einen Titel haben, um eingereicht zu werden. Der Titel kann später korrigiert werden, sowohl während die Anfrage noch ein Entwurf ist, als auch nachdem sie eingereicht wurde.
 
 ## 2. **Genehmigungsanforderungs-Body**
 
@@ -46,7 +46,7 @@ Der neue Validierungs-Workflow ist eine On-Demand-Funktion, die beim Start eines
 
 ### 2.1 **Beschreibung**
 
-Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln von Beiträgen](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/en/articles/8430847-formatting-of-posts). Die Beschreibung kann später korrigiert werden, sowohl während die Anfrage noch ein Entwurf ist, als auch nachdem sie eingereicht wurde.
 
 ### 2.2 **Dokumente hinzufügen**
 
@@ -67,6 +67,8 @@ _Name_ - _Standard_ Der Name des Dokuments, in dem sich die geteilte Überarbeit
 Überarbeitung - _Standard_ Der Name der Dokumentüberarbeitung. Dies ist derselbe wie der ursprüngliche Dateiname der hochgeladenen Datei.
 
 ## 3. - _Standard_
+
+Die Haupt- und Nebenversionsnummer der geteilten Überarbeitung (#0.1, #0.2, #1.1, usw.)
 
 Status - _Standard_ Der Name des gemeinsamen Status, der auf die geteilte Überarbeitung angewendet wird.
 
@@ -96,9 +98,9 @@ Klicken Sie auf "Zur Überprüfung einreichen", um die Genehmigung einzureichen 
 - Ein Team, das im Namen einreicht, muss ausgewählt werden
 - Ein Titel
 - Dokumente
-    - Mindestens 1 Dokument mit einer ausgewählten freigegebenen Revision muss hinzugefügt werden, um die Bearbeitungsanforderung einreichen zu können.
-    - Es können maximal 1000 Dokumentrevisionen mit einer ausgewählten freigegebenen Revision hinzugefügt werden.
-    - Um eine Bearbeitungsanforderung mit mehr als 1000 Dokumentrevisionen zu erstellen, erstellen Sie zunächst einen Entwurf mit bis zu 1000 Revisionen und fügen Sie dann bis zu 1000 Dokumentrevisionen gleichzeitig zum Entwurf hinzu, bevor Sie den Entwurf zur Überprüfung einreichen.
+  - Mindestens 1 Dokument mit einer ausgewählten freigegebenen Revision muss hinzugefügt werden, um die Bearbeitungsanforderung einreichen zu können.
+  - Es können maximal 1000 Dokumentrevisionen mit einer ausgewählten freigegebenen Revision hinzugefügt werden.
+  - Um eine Bearbeitungsanforderung mit mehr als 1000 Dokumentrevisionen zu erstellen, erstellen Sie zunächst einen Entwurf mit bis zu 1000 Revisionen und fügen Sie dann bis zu 1000 Dokumentrevisionen gleichzeitig zum Entwurf hinzu, bevor Sie den Entwurf zur Überprüfung einreichen.
 
 Nach dem Einreichen einer Bearbeitungsanforderung zur Überprüfung mit dem neuen Validierungs-Workflow ist das Einzige, das geändert werden kann, dass freigegebene Revisionsdokumente aus der Anforderung verworfen werden können.
 

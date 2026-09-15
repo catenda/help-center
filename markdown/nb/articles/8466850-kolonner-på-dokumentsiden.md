@@ -26,9 +26,9 @@ For de fleste dokumenter vises filtypeikonet. For bildefiltyper vises bildet i s
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/42c02fpr/01-document-icons.png)
 
-_Modellmerke_ Dokumenter som er knyttet til en modell på modeltsiden vil vise et modellmerke nederst til venstre.
+**Modellmerke** Dokumenter som er knyttet til en modell på modeltsiden vil vise et modellmerke nederst til venstre.
 
-_Mappekonfigurasjon_ Hvis den overordnede mappen for dokumentet har blitt konfigurert i [dokumentinnstillinger](https://support.catenda.com/en/articles/7831371-document-settings) vil du se et grått girmerke nederst til høyre for dokumentikonet.
+**Mappekonfigurasjon** Hvis den overordnede mappen for dokumentet har blitt konfigurert i [dokumentinnstillinger](https://support.catenda.com/en/articles/7831371-document-settings) vil du se et grått girmerke nederst til høyre for dokumentikonet.
 
 ### 3.3 **Mappeikoner**
 
@@ -36,13 +36,13 @@ Avhengig av konfigurasjonen av mappen kan det hende du ser merker som vises i hj
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/42c02fpr/02-folder-icons.png)
 
-_Elementantall_ Hvis det ikke er noen elementer i en mappe (undermapper eller dokumenter) vil det være hvitt.
+**Elementantall** Hvis det ikke er noen elementer i en mappe (undermapper eller dokumenter) vil det være hvitt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/42c02fpr/03-folder-icons.png)
 
 Hvis det er elementer i en mappe (undermapper eller dokumenter) vil det være grønt. Nederst til høyre vil du se antallet elementer som befinner seg i denne mappen.
 
-_Mappekonfigurasjon_ Hvis en mappe har blitt konfigurert i dokumentinnstillinger vil du se et grønt girmerke nederst til høyre. Hvis en overordnet mappe av en mappe har blitt konfigurert vil girfikonen være grå i stedet.
+**Mappekonfigurasjon** Hvis en mappe har blitt konfigurert i dokumentinnstillinger vil du se et grønt girmerke nederst til høyre. Hvis en overordnet mappe av en mappe har blitt konfigurert vil girfikonen være grå i stedet.
 
 ## 4. **Navn** - Standard 1 panel, Standard flerpanel
 
@@ -102,9 +102,9 @@ I denne kolonnen vil du se medlemmet som opprettet den nyeste dokumentrevisjonen
 
 Hvis du har aktivert dokumentstatusarbeidsflyten, vil oppførselen til denne kolonnen være annerledes avhengig av hvilken fane du er i.
 
-_Arbeidsflate-fane_ I arbeidsflate-fanen vil du se medlemmet som opprettet den nyeste revisjonen og datoen og tiden den ble opprettet.
+**Arbeidsflate-fane** I arbeidsflate-fanen vil du se medlemmet som opprettet den nyeste revisjonen og datoen og tiden den ble opprettet.
 
-_Publisert fane_ I den publiserte fanen vil du se medlemmet som publiserte den nyeste publiserte revisjonen og datoen og tiden den ble publisert.
+**Publisert fane** I den publiserte fanen vil du se medlemmet som publiserte den nyeste publiserte revisjonen og datoen og tiden den ble publisert.
 
 > **Merk:** Den nyeste publiserte revisjonen er ikke nødvendigvis den nyeste revisjonen i dokumentet siden delte revisjoner kan ha blitt lastet opp siden den siste publiserte revisjonen.
 

@@ -10,11 +10,11 @@ Med Catenda-skrivebordssamkoblingen kan du planlegge opp- og nedlastinger av de 
 
 Velg en mappe på et lokalt system for å laste opp alt mappeinnhold, inkludert filer i undermapper i den valgte mappen, med Desktop Connector til en angitt mappe på Catenda Hub.
 
-_Vellykkede opplastinger_ Hvis du drar og slipper flere filer eller bruker zip-opplastingsfunksjonen på Catenda Hub, laster du opp ett stort datasett. Jo større opplastingen er, jo lenger må du vente før du kan sende filene dine inn i Catenda Hub-dokumentstrukturen.
+**Vellykkede opplastinger** Hvis du drar og slipper flere filer eller bruker zip-opplastingsfunksjonen på Catenda Hub, laster du opp ett stort datasett. Jo større opplastingen er, jo lenger må du vente før du kan sende filene dine inn i Catenda Hub-dokumentstrukturen.
 
-_Én fil av gangen_ Ved å laste opp filer fra en mappestruktur én fil av gangen med Desktop Connector kan du pause opplastingen og fortsette den senere.
+**Én fil av gangen** Ved å laste opp filer fra en mappestruktur én fil av gangen med Desktop Connector kan du pause opplastingen og fortsette den senere.
 
-_Reduser risikoen for opplastingsfeil_ Jo større opplastingen er, desto høyere er risikoen for at den mislykkes. Kanskje strømmen din går ut, kanskje internettforbindelsen din brytes for et kort øyeblikk. Da må du starte opplastingen på nytt fra starten.
+**Reduser risikoen for opplastingsfeil** Jo større opplastingen er, desto høyere er risikoen for at den mislykkes. Kanskje strømmen din går ut, kanskje internettforbindelsen din brytes for et kort øyeblikk. Da må du starte opplastingen på nytt fra starten.
 
 ### 1.2 **Last ned**
 
@@ -120,9 +120,9 @@ Oppgaven må ha minst en dag valgt for å bli lagret
 
 ### 7.3 **Prosjektplassering**
 
-_Server_ Klikk på Bla gjennom for å velge destinasjonen på Dokumenter-siden i Catenda Hub hvor filer skal synkroniseres til. Klikk [her](#h_4446f1b663) for å lese mer om valg av serverkatalogsti
+**Server** Klikk på Bla gjennom for å velge destinasjonen på Dokumenter-siden i Catenda Hub hvor filer skal synkroniseres til. Klikk [her](#h_4446f1b663) for å lese mer om valg av serverkatalogsti
 
-_Lokal_ Velg plasseringen på det lokale systemet der filene skal synkroniseres fra.
+**Lokal** Velg plasseringen på det lokale systemet der filene skal synkroniseres fra.
 
 ### 7.4 **Øyeblikkelig**
 
@@ -144,9 +144,9 @@ Oppgaven må ha minst en dag valgt for å bli lagret
 
 ### 8.3 **Prosjektplassering**
 
-_Server_ Velg plasseringen på Catenda Hub der dokumenter skal lastes ned fra. Klikk [her](#h_4446f1b663) for å lese mer om valg av serverkatalogsti
+**Server** Velg plasseringen på Catenda Hub der dokumenter skal lastes ned fra. Klikk [her](#h_4446f1b663) for å lese mer om valg av serverkatalogsti
 
-_Lokal_ Velg destinasjonen på det lokale systemet der filer skal lastes ned til.
+**Lokal** Velg destinasjonen på det lokale systemet der filer skal lastes ned til.
 
 ### 8.4 **Øyeblikkelig**
 
@@ -166,21 +166,21 @@ Klikk på Bla gjennom i prosjektplasseringsområdet for en opp- eller nedlasting
 
 Spesielt for nedlastingsoppgaver, hvis det er mange mapper og dokumenter, kan det ta et par minutter før denne prosessen er ferdig. Kontroller at du har nok minne tilgjengelig på det lokale systemet for dette trinnet.
 
-_Dialogstørrelse_ Klikk på Min eller Maks mot øvre høyre hjørne for å minimere eller maksimere dialogen Velg katalogsti.
+**Dialogstørrelse** Klikk på Min eller Maks mot øvre høyre hjørne for å minimere eller maksimere dialogen Velg katalogsti.
 
-_Kataloghandlinger_ Etter at mappene har lastet inn, kan dialogen se slik ut:
+**Kataloghandlinger** Etter at mappene har lastet inn, kan dialogen se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/10-server-location.png)
 
 Klikk på pilen ved siden av en mappe for å utvide den. Dokumenter er bare tilgjengelige i denne visningen for nedlastingsoppgaver.
 
-_Mappevalg_ Klikk på en mappe for å velge den. For nedlastingsoppgaver kan flere mapper velges, mens for opplastingsoppgaver kan bare en mappe velges av gangen.
+**Mappevalg** Klikk på en mappe for å velge den. For nedlastingsoppgaver kan flere mapper velges, mens for opplastingsoppgaver kan bare en mappe velges av gangen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/11-server-location.png)
 
 Etter at en mappe er valgt, vises den som hvit med en hake. Alle undermapper i den valgte mappen vises gjennomstreket, da det bare er mulig å velge mapper på samme nivå. Mot toppen vises antallet av valgte elementer.
 
-_Last ned oppgave_ Hvis det finnes dokumenter i den valgte mappen eller dens undermapper, vil alle mapper i banen mellom den valgte mappen og dokumentet bli opprettet. Dokumentet lastes deretter ned til den mappen. Hvis en undermappe ikke inneholder noen dokumenter, vil undermappen ikke bli opprettet selv om den kan være merket av i denne dialogen. Det er ikke mulig å fjerne merking av en undermappe for ikke å laste ned en del av en mappestruktur. Hvis du bare vil laste ned noen mapper, velger du dem enkeltvis som i bildet nedenfor:
+**Last ned oppgave** Hvis det finnes dokumenter i den valgte mappen eller dens undermapper, vil alle mapper i banen mellom den valgte mappen og dokumentet bli opprettet. Dokumentet lastes deretter ned til den mappen. Hvis en undermappe ikke inneholder noen dokumenter, vil undermappen ikke bli opprettet selv om den kan være merket av i denne dialogen. Det er ikke mulig å fjerne merking av en undermappe for ikke å laste ned en del av en mappestruktur. Hvis du bare vil laste ned noen mapper, velger du dem enkeltvis som i bildet nedenfor:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tfqdkst1/12-server-location.png)
 
@@ -190,7 +190,7 @@ Dokumentvalg Klikk på et dokument for å velge det
 
 Når enkelte dokumenter er valgt, lastes dokumentene ned som en flat liste direkte til den valgte lokale banen uten hierarkiet til mappene som disse dokumentene befinner seg i.
 
-_Last opp oppgave_ Dokumenter lastes opp til den valgte mappen. Hvis mappenavnet samsvarer, lastes dokumenter opp til undermapper i den valgte mappen.
+**Last opp oppgave** Dokumenter lastes opp til den valgte mappen. Hvis mappenavnet samsvarer, lastes dokumenter opp til undermapper i den valgte mappen.
 
 ## 10. **Oppgaveliste**
 

@@ -5,10 +5,10 @@ Si vous sélectionnez un document sur la [page des documents](https://support.ca
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/01-intro.png)
 
 1. La bannière de documents sera décrite dans cet article et s'étend sur la partie supérieure de la page du document
-1. Vous trouverez l'en-tête du document sous la bannière de documents et au-dessus de l'aperçu du document
-1. Sous l'en-tête du document, vous trouverez l'aperçu du document
-1. À gauche de l'en-tête et de l'aperçu du document, vous trouverez la liste des documents
-1. À droite de l'en-tête et de l'aperçu du document, vous trouverez le [menu d'information de droite](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
+2. Vous trouverez l'en-tête du document sous la bannière de documents et au-dessus de l'aperçu du document
+3. Sous l'en-tête du document, vous trouverez l'aperçu du document
+4. À gauche de l'en-tête et de l'aperçu du document, vous trouverez la liste des documents
+5. À droite de l'en-tête et de l'aperçu du document, vous trouverez le [menu d'information de droite](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
 
 La bannière de documents peut ressembler à ceci:
 

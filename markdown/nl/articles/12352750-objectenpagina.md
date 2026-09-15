@@ -85,11 +85,11 @@ Sommige kolommen in de productentabel zijn standaard ingeschakeld, terwijl ander
 Op basis van de geconfigureerde kolom volgorde worden de eerste kolommen weergegeven, terwijl de tabel mogelijk zijwaarts moet worden verschoven om andere ingeschakelde kolommen weer te geven. De standaard volgorde en zichtbaarheidsinstelling van de kolommen op de documentenpagina is als volgt:
 
 - Attributen
-    - Entiteit
-    - GlobalId
-    - LongName
-    - Naam
-    - ObjectType
+  - Entiteit
+  - GlobalId
+  - LongName
+  - Naam
+  - ObjectType
 
 Bovendien kan de productentabel elk aantal kolommen hebben, afhankelijk van het aantal eigenschappen en eigenschappensets in elk van de modellen. Elke reeks kolommen heeft een hoofdcategorie met subcategorieën. De schakelknop kan worden gebruikt om de hele categorie in of uit te schakelen. Categorieën kunnen worden uitgevouwen en elke kolom in de categorie kan afzonderlijk worden in- of uitgeschakeld.
 

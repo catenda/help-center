@@ -10,7 +10,7 @@ Slik kan søk- eller filtermeny se ut på siden for medlemmer og teams:
 
 Klikk på filterknappen øverst til venstre for at et panel skal vises på venstre side. Når et filter brukes, endres nettadressen som er synlig i nettleseren. I denne artikkelen vises filtre slik: _Filternavn i meny_ - `Filter name in URL=Filter option in URL`
 
-_Standardfilter_ Standardfilteret er først ikke synlig i nettadressen. Når siden navigeres til for første gang brukes følgende filter. _Intet filter_ - `status-type=all`
+**Standardfilter** Standardfilteret er først ikke synlig i nettadressen. Når siden navigeres til for første gang brukes følgende filter. _Intet filter_ - `status-type=all`
 
 ### 1.1 **Lagre og del gjeldende filter**
 
@@ -36,13 +36,13 @@ Teamnavn - `memberOfTeams=<GUID> `
 
 _Tekstsøk -_ `search=<Search phrase>` Etter at du har skrevet inn tegn i søk- eller filterfeltet, endres det første foreslåtte filteret til tekstsøk.
 
-_Innhold som kan søkes på_ Medlemskonto navn Medlems e-postadresse Teamnavn
+**Innhold som kan søkes på** Medlemskonto navn Medlems e-postadresse Teamnavn
 
-_Kapitalisering_ Tekstsøket skiller ikke mellom små og store bokstaver.
+**Kapitalisering** Tekstsøket skiller ikke mellom små og store bokstaver.
 
-_Antall tegn_ Hvilket som helst antall tegn Innhold som inneholder den søkte frasen blir funnet.
+**Antall tegn** Hvilket som helst antall tegn Innhold som inneholder den søkte frasen blir funnet.
 
-_Mellomrom_ Mellomromstegn ved starten av en søkefrase fjernes for samsvar ved starten av innholdet. Mellomromstegn er inkludert for samsvar i midten av innholdet.
+**Mellomrom** Mellomromstegn ved starten av en søkefrase fjernes for samsvar ved starten av innholdet. Mellomromstegn er inkludert for samsvar i midten av innholdet.
 
 ## 3. **Sortering**
 

@@ -9,10 +9,10 @@ Un nouveau membre peut être ajouté en allant à :
 « Membres » (menu de gauche)
 
 1. Inviter un membre
-1. entrez leur(s) adresse(s) e-mail
-1. sélectionnez leur rôle dans le projet et l'équipe concernée (facultatif)
-1. +Ajouter
-1. Message facultatif=>Envoyer la/les invitation(s)
+2. entrez leur(s) adresse(s) e-mail
+3. sélectionnez leur rôle dans le projet et l'équipe concernée (facultatif)
+4. +Ajouter
+5. Message facultatif=>Envoyer la/les invitation(s)
 
     <div class="intercom-container intercom-align-center"><img alt="mceclip0.png" src="https://raw.githubusercontent.com/catenda/help-center/main/images/2n4vhvx6/inline-f2a8c555ff22.png"/></div>
 

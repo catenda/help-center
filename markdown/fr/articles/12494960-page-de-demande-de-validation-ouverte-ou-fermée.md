@@ -26,11 +26,13 @@ Voici à quoi peut ressembler l'en-tête de validation dans une validation ouver
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/03-approval-header.png)
 
-Une fois que le créateur de la validation a soumis la validation dans la boîte de dialogue créer une demande de validation ou à partir d'un brouillon, il n'est plus possible de modifier l'en-tête de validation.
+Une fois que le créateur de l'approbation a soumis l'approbation dans la boîte de dialogue de création de demande d'approbation ou à partir d'une demande d'approbation brouillon, le titre et la description peuvent toujours être modifiés. Le flux de travail ne peut plus être modifié.
+
+> **Remarque :** Être membre d'une équipe de soumetteurs permet de créer une demande d'approbation, mais cela ne confère pas le droit de modifier une demande d'approbation créée par un autre membre de cette équipe.
 
 ### 2.1 **Titre**
 
-Le titre de la demande de validation ouverte ou fermée.
+Le titre de la demande d'approbation ouverte ou fermée. Cliquez sur l'icône en forme de crayon pour modifier le titre. _Accès requis :_ La personne qui a créé la demande d'approbation, ou un administrateur de projet.
 
 ### 2.2 Circuit de validation
 
@@ -38,7 +40,7 @@ Le circuit de validation qui est sélectionné lors de la création de cette val
 
 ### 2.3 **Description**
 
-La description de la validation.
+La description de l'approbation. La description de l'approbation suit les [règles générales de formatage des messages](https://support.catenda.com/en/articles/8430847-formatting-of-posts). _Accès requis :_ La personne qui a créé la demande d'approbation, ou un administrateur de projet.
 
 ## 3. **Ruban d'étapes**
 

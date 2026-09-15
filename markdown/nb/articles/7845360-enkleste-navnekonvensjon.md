@@ -18,7 +18,7 @@ _Bruker [navnekonvensjonen](https://support.catenda.com/en/articles/7832559-nami
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c55e7gpw/02-filename-extension.png)
 
-_Informasjonspanel:_ Hvis du velger mappen, vil du også legge merke til en endring i informasjonspanelet på høyre side. Her vil [forhåndsvisningen](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_c2f7e24fbc) av det forventede dokumentnavnet vises under navnet på mappen. Som alltid kan du holde musepekeren over [forhåndsvisningen](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_c2f7e24fbc) for å se informasjon om de forskjellige blokkene.
+**Informasjonspanel:** Hvis du velger mappen, vil du også legge merke til en endring i informasjonspanelet på høyre side. Her vil [forhåndsvisningen](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_c2f7e24fbc) av det forventede dokumentnavnet vises under navnet på mappen. Som alltid kan du holde musepekeren over [forhåndsvisningen](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_c2f7e24fbc) for å se informasjon om de forskjellige blokkene.
 
 ### 1.1 Mapper og konvensjoner
 
@@ -61,6 +61,6 @@ _Dette dokumentet er ikke i samsvar med [navnekonvensjonen](https://support.cate
 Dette kan være av to grunner.
 
 1. Revisjonens filnavn samsvarer ikke med det forventede filnavnet for [navnekonvensjonen](https://support.catenda.com/en/articles/7832559-naming-conventions-page).
-1. Revisjonens filnavn samsvarer ikke med det forventede dokumentresultatet i henhold til [navnekonvensjonen](https://support.catenda.com/en/articles/7832559-naming-conventions-page).
+2. Revisjonens filnavn samsvarer ikke med det forventede dokumentresultatet i henhold til [navnekonvensjonen](https://support.catenda.com/en/articles/7832559-naming-conventions-page).
 
 For å fortsette å lære om [navnekonvensjoner](https://support.catenda.com/en/articles/7832559-naming-conventions-page), sjekk ut disse artiklene: [Medium navnekonvensjon](https://support.catenda.com/en/articles/7936943-medium-naming-convention) [Avansert navnekonvensjon](https://support.catenda.com/en/articles/7936947-advanced-naming-convention)

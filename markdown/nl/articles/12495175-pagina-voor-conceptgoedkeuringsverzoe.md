@@ -24,7 +24,7 @@ Dit is hoe de goedkeuringskop in een conceptgoedkeuringsverzoe eruit kan zien:
 
 ### 2.1 **Titel**
 
-De titel van het conceptgoedkeuringsverzoe. Klik op het potloodpictogram om de titel te bewerken.
+De titel van het conceptgoedkeuringverzoek. Klik op het potloodpictogram om de titel te bewerken. De titel blijft bewerkbaar nadat het goedkeuringverzoek is ingediend.
 
 ### 2.2 **Workflow**
 
@@ -32,7 +32,7 @@ De workflow die tijdens het maken van deze goedkeuring is geselecteerd
 
 ### 2.3 **Omschrijving**
 
-De beschrijving van de goedkeuring. Met de nieuwe goedkeuringworkflow is het niet mogelijk om de beschrijving van een goedkeuring na het maken van de goedkeuring te bewerken. De beschrijving van de goedkeuring volgt de [algemene opmaakregels voor berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+De beschrijving van de goedkeuring. De beschrijving blijft bewerkbaar nadat het goedkeuringverzoek is ingediend. Bewerking is beperkt tot de persoon die het goedkeuringverzoek heeft ingediend en tot projectbeheerders. De beschrijving van de goedkeuring volgt de [algemene opmaakregels van berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
 
 ## 3. **Stapregelaar**
 

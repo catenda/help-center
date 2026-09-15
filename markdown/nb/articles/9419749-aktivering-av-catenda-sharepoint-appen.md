@@ -30,7 +30,7 @@ Vanlige SharePoint-brukere vil kunne be om at Catenda SharePoint-appen aktiveres
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/05-regular-sharepoint-users.png)
 
-_https://\<Tenant>.sharepoint.com/sites/appcatalog/SitePages/Home.aspx_
+**https://\<Tenant>.sharepoint.com/sites/appcatalog/SitePages/Home.aspx**
 
 ## 2. **SharePoint-administratorer**
 
@@ -58,11 +58,11 @@ Uten API-tilgang kan Catenda SharePoint-programmet aktiveres, hvoretter både li
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/09-api-access.png)
 
-_Godkjenn tilgang_ Velg Catenda i listen over ventende forespørsler og klikk på godkjenn øverst. For at Catenda-programmet skal fungere, trenger det tillatelsen: tilgang
+**Godkjenn tilgang** Velg Catenda i listen over ventende forespørsler og klikk på godkjenn øverst. For at Catenda-programmet skal fungere, trenger det tillatelsen: tilgang
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/10-api-access.png)
 
-_Fjern tilgang_ Velg Catenda på siden for API-tilgang og klikk på fjern øverst.
+**Fjern tilgang** Velg Catenda på siden for API-tilgang og klikk på fjern øverst.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kzzzd495/11-api-access.png)
 

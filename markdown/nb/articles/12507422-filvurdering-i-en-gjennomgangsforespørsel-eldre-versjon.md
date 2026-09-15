@@ -80,7 +80,7 @@ Når minimumsmengden av medlemmer som er angitt i gjennomgangen har sendt inn go
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3vfvkbhy/05-validation-preview.png)
 
-_Hold musepekeren_ Hold musepekeren over valideringsforhåndsvisningsboksen for å se hvilken vurderer som er involvert i hvilken handling og om de sendte inn valideringen, når de sendte den.
+**Hold musepekeren** Hold musepekeren over valideringsforhåndsvisningsboksen for å se hvilken vurderer som er involvert i hvilken handling og om de sendte inn valideringen, når de sendte den.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3vfvkbhy/06-validation-preview.png)
 

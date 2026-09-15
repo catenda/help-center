@@ -26,11 +26,13 @@ Dit is hoe de goedkeuringskop in een openstaande goedkeuring eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/03-approval-header.png)
 
-Nadat de maker van de goedkeuring de goedkeuring in het dialoogvenster voor het maken van een goedkeuringsverzoekaanvraag of van een conceptgoedkeuringsverzoekaanvraag heeft ingediend, is het niet meer mogelijk de goedkeuringskop te bewerken.
+Nadat de goedkeuringsaanvrager de goedkeuring heeft ingediend in het dialoogvenster voor het maken van een goedkeuringsaanvraag of vanuit een conceptgoedkeuringsaanvraag kunnen de titel en beschrijving nog steeds worden bewerkt. De Workflow kan niet meer worden gewijzigd.
+
+> **Opmerking:** Het lid zijn van een verzenderteam is wat het mogelijk maakt om een goedkeuringsaanvraag in te dienen, maar het geeft niet het recht om een goedkeuringsaanvraag die door een ander lid van dat team is gemaakt, te bewerken.
 
 ### 2.1 **Titel**
 
-De titel van het openstaande of gesloten goedkeuringsverzoekaanvraag.
+De titel van de open of gesloten goedkeuringsaanvraag. Klik op het potloodpictogram om de titel te bewerken. _Vereiste toegang:_ De persoon die de goedkeuringsaanvraag heeft gemaakt, of een projectbeheerder.
 
 ### 2.2 Werkstroom
 
@@ -38,7 +40,7 @@ De werkstroom die is geselecteerd tijdens het maken van deze goedkeuring _Vereis
 
 ### 2.3 **Beschrijving**
 
-De beschrijving van de goedkeuring.
+De beschrijving van de goedkeuring. De beschrijving van de goedkeuring volgt de [algemene opmaakregels van berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts). _Vereiste toegang:_ De persoon die de goedkeuringsaanvraag heeft gemaakt, of een projectbeheerder.
 
 ## 3. **Staplotlint**
 

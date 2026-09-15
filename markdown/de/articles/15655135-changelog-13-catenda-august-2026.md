@@ -125,8 +125,8 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die ihr mög
 - **Registerkarte "Dokumentversionen-Übersicht"** <br>Die Seite "Genehmigungen" enthält jetzt eine spezielle Registerkarte "Dokumentversionen", die einen vollständigen Tabellenüberblick über alle Dateien bietet, die derzeit alle offenen Genehmigungen überprüft werden. <br>Sie können jetzt einzelne Dokumentversionen nach Team-Zuweisung, Überprüfungsstatus und Fälligkeitsdatum suchen, sortieren und filtern, ohne jedes Genehmigungspaket separat öffnen zu müssen.
 - **Japanische Lokalisierung für Approvals**
 
-    Eine vollständige japanische Lokalisierung wurde in der Approval-Schnittstelle und den Seiten zur Workflow-Konfiguration implementiert.
-    Teams, die auf Japanisch arbeiten, können nun Approval-Karten, Dokumentprüfwerkzeuge und Setup-Menüs mit präziser und konsistenter lokalisierter Terminologie durchsuchen.
+  Eine vollständige japanische Lokalisierung wurde in der Approval-Schnittstelle und den Seiten zur Workflow-Konfiguration implementiert.
+  Teams, die auf Japanisch arbeiten, können nun Approval-Karten, Dokumentprüfwerkzeuge und Setup-Menüs mit präziser und konsistenter lokalisierter Terminologie durchsuchen.
 
 ### 4.3 **Projekteinstellungen**
 

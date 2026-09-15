@@ -18,13 +18,13 @@ Med merkelapp-fanen aktiv, hvis du klikker på "Ny merkelapp"-knappen, vil Legg 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/03-new-label.png)
 
-_Farge_ Velg fargen på den nye merkelappen
+**Farge** Velg fargen på den nye merkelappen
 
-_Gruppe_ Velg gruppen for den nye merkelappen (valgfritt). Hvis gruppen din ikke finnes ennå, kan du skrive ønsket gruppe i rullegardinlisten for merkelappgruppe og klikke på opprett <gruppenavn>. Du kan også opprette og redigere grupper i gruppers-fanen.
+**Gruppe** Velg gruppen for den nye merkelappen (valgfritt). Hvis gruppen din ikke finnes ennå, kan du skrive ønsket gruppe i rullegardinlisten for merkelappgruppe og klikke på opprett <gruppenavn>. Du kan også opprette og redigere grupper i gruppers-fanen.
 
-_Merkelapp_ Velg et merkelappnavn
+**Merkelapp** Velg et merkelappnavn
 
-_Importer flere_ Kopier en tabell med opptil tre kolonner fra Excel. Hver rad tilsvarer merkelappens navn, gruppe og farge.
+**Importer flere** Kopier en tabell med opptil tre kolonner fra Excel. Hver rad tilsvarer merkelappens navn, gruppe og farge.
 
 Eksempel:
 
@@ -78,7 +78,7 @@ Merkelappnavn må være unike. Hvis en merkelapp allerede eksisterer i prosjekte
 
 Opprette nye grupper Hvis gruppene ikke finnes i prosjektet ennå, blir du spurt om du vil opprette de aktuelle nye gruppene eller om du vil forkaste dem.
 
-_Hold åpen ved innsending_ Hvis du merker av for denne avmerkingsboksen, åpnes en ny Legg til merkelapper-meny umiddelbart etter innsending av en merkelapp. Hvis du vil opprette mer enn tre merkelapper manuelt gjennom denne menyen, vil dette alternativet spare deg tid siden du ikke trenger å klikke på Ny merkelapp-knappen hver gang. Hvis du oppretter en eller to merkelapper, er det like raskt å klikke på Ny merkelapp-knappen.
+**Hold åpen ved innsending** Hvis du merker av for denne avmerkingsboksen, åpnes en ny Legg til merkelapper-meny umiddelbart etter innsending av en merkelapp. Hvis du vil opprette mer enn tre merkelapper manuelt gjennom denne menyen, vil dette alternativet spare deg tid siden du ikke trenger å klikke på Ny merkelapp-knappen hver gang. Hvis du oppretter en eller to merkelapper, er det like raskt å klikke på Ny merkelapp-knappen.
 
 ### 1.2 **Ny gruppe**
 
@@ -86,9 +86,9 @@ Med gruppe-fanen aktiv, hvis du klikker på "Ny gruppe"-knappen, vil Legg til me
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/10-new-group.png)
 
-_Merkelappgruppe_ Velg et navn på merkelappgruppen
+**Merkelappgruppe** Velg et navn på merkelappgruppen
 
-_Hold åpen ved innsending_ Hvis du merker av for denne avmerkingsboksen, åpnes en ny Legg til merkelappgruppe-meny umiddelbart etter innsending av en merkelappgruppe. Hvis du vil opprette mer enn tre merkelappgrupper manuelt gjennom denne menyen, vil dette alternativet spare deg tid siden du ikke trenger å klikke på Ny merkelapp-knappen hver gang. Hvis du oppretter en eller to merkelappgrupper, er det like raskt å klikke på Ny gruppe-knappen.
+**Hold åpen ved innsending** Hvis du merker av for denne avmerkingsboksen, åpnes en ny Legg til merkelappgruppe-meny umiddelbart etter innsending av en merkelappgruppe. Hvis du vil opprette mer enn tre merkelappgrupper manuelt gjennom denne menyen, vil dette alternativet spare deg tid siden du ikke trenger å klikke på Ny merkelapp-knappen hver gang. Hvis du oppretter en eller to merkelappgrupper, er det like raskt å klikke på Ny gruppe-knappen.
 
 ## 2. **Endre en merkelapp**
 

@@ -9,10 +9,10 @@ Neu in Catenda Hub ist unsere umfassende Anmerkungsfunktion. Die Funktion bringt
 Das Dokumentbanner wird in diesem Artikel beschrieben und erstreckt sich über die obere Seite der Dokumentseite
 
 1. Das [Dokumentbanner](https://support.catenda.com/en/articles/8461918-document-banner-navigation) wird in diesem Artikel beschrieben und erstreckt sich über die obere Seite der Dokumentseite
-1. Sie finden die Dokumentkopfzeile unterhalb des Dokumentbanners und über der Dokumentvorschau
-1. Unterhalb der Dokumentkopfzeile finden Sie die Dokumentvorschau, die in diesem Artikel erläutert wird.
-1. Links neben der Dokumentkopfzeile und der Vorschau finden Sie die Dokumentliste
-1. Rechts neben der Dokumentkopfzeile und der Vorschau finden Sie das [rechte Informationsmenü](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
+2. Sie finden die Dokumentkopfzeile unterhalb des Dokumentbanners und über der Dokumentvorschau
+3. Unterhalb der Dokumentkopfzeile finden Sie die Dokumentvorschau, die in diesem Artikel erläutert wird.
+4. Links neben der Dokumentkopfzeile und der Vorschau finden Sie die Dokumentliste
+5. Rechts neben der Dokumentkopfzeile und der Vorschau finden Sie das [rechte Informationsmenü](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
 
 ## 1. **Anmerkungssymbolleiste**
 

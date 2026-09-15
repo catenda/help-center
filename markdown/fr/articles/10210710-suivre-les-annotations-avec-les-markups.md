@@ -9,18 +9,14 @@ Le diagramme ci-dessous illustre comment les annotations sont regroupées sous d
 Veuillez noter ce qui suit :
 
 1. Un **Markup** peut **contenir un ou plusieurs ensembles d'annotations.**
-1. Un **Topic** peut **contenir un ou plusieurs Markups** enregistrés comme **Commentaires.**
-1. À l'intérieur d'un **Topic**, un **Markup** est un **ensemble d'annotations** qui **appartient toujours à la même révision.**
-1. **Plusieurs Markups** sur un document peuvent être enregistrés comme **plusieurs topics** OU sous un seul **Topic existant.**
-1. Si un **Markup** contient **plusieurs ensembles d'annotations répartis sur plusieurs pages**, il y aura **un commentaire par ensemble d'annotations sur chaque page**.
-
-Les topics suivants sont décrits dans cet article :
+2. Un **Topic** peut **contenir un ou plusieurs Markups** enregistrés comme **Commentaires.**
+3. À l'intérieur d'un **Topic**, un **Markup** est un **ensemble d'annotations** qui **appartient toujours à la même révision.**
+4. **Plusieurs Markups** sur un document peuvent être enregistrés comme **plusieurs topics** OU sous un seul **Topic existant.**
+5. Si un **Markup** contient **plusieurs ensembles d'annotations répartis sur plusieurs pages**, il y aura **un commentaire par ensemble d'annotations sur chaque page**.
 
 ## 1. **Deux workflows**
 
 Lorsque vous souhaitez signaler quelque chose dans un document, il peut y avoir différentes façons de communiquer cela avec vos pairs.
-
-Les topics suivants sont décrits dans cette section :
 
 ### 1.1 **Un topic par markup**
 
@@ -61,8 +57,6 @@ Supposons que ce markup était destiné à l'Architecte, mais vous souhaitez ég
 ## 4. **Enregistrer les markups**
 
 Une fois que vous avez terminé la modification de vos markups, vous pouvez les [enregistrer](https://support.catenda.com/en/articles/10209740-saving-a-markup#h_8542b82cf8). Lors de l'enregistrement, un commentaire sera créé pour chaque ensemble d'annotations sur la page d'une revision
-
-Les topics suivants sont décrits dans cette section :
 
 ### 4.1 **Enregistrer chaque markup dans son propre topic**
 

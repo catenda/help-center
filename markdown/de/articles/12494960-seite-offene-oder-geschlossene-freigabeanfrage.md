@@ -26,11 +26,13 @@ So kann die Genehmigungskopfzeile in einer offenen Genehmigung aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/03-approval-header.png)
 
-Nachdem der Genehmigungsersteller die Genehmigung im Dialogfeld "Genehmigungsanfrage erstellen" eingereicht hat oder nachdem eine Entwurfsgenehmigungsanfrage eingereicht wurde, ist es nicht mehr möglich, die Genehmigungskopfzeile zu bearbeiten.
+Nachdem der Genehmigungsersteller die Genehmigung im Dialogfeld "Genehmigungsanfrage erstellen" oder aus einer Entwurfsgenehmigungsanfrage eingereicht hat, können Titel und Beschreibung weiterhin bearbeitet werden. Der Workflow kann nicht mehr geändert werden.
+
+> **Hinweis:** Die Mitgliedschaft in einem Submitter-Team ermöglicht die Erstellung einer Genehmigungsanfrage, gewährt jedoch nicht das Recht, eine von einem anderen Mitglied dieses Teams erstellte Genehmigungsanfrage zu bearbeiten.
 
 ### 2.1 **Titel**
 
-Der Titel der offenen oder geschlossenen Genehmigungsanfrage.
+Der Titel der offenen oder geschlossenen Genehmigungsanfrage. Klicken Sie auf das Stiftsymbol, um den Titel zu bearbeiten. _Erforderlicher Zugriff:_ Die Person, die die Genehmigungsanfrage erstellt hat, oder ein Projektadministrator.
 
 ### 2.2 Workflow
 
@@ -38,7 +40,7 @@ Der Workflow, der bei der Erstellung dieser Genehmigung ausgewählt wird _Erford
 
 ### 2.3 **Beschreibung**
 
-Die Beschreibung der Genehmigung.
+Die Beschreibung der Genehmigung. Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/en/articles/8430847-formatting-of-posts). _Erforderlicher Zugriff:_ Die Person, die die Genehmigungsanfrage erstellt hat, oder ein Projektadministrator.
 
 ## 3. **Schrittband**
 

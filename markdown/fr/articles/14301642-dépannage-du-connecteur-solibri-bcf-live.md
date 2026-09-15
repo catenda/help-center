@@ -33,7 +33,7 @@ Pour confirmer si vos modèles partagent le même identificateur, vérifiez les 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ym9bebpy/01-how-to-verify-the-guid-in-solibri.png)
 
 1. Sélectionnez le **modèle** dans l'arborescence du modèle Solibri.
-1. Ouvrez l'**outil Info** ou l'onglet **Identité**.
-1. Localisez le champ **GUID IFCProject**.
+2. Ouvrez l'**outil Info** ou l'onglet **Identité**.
+3. Localisez le champ **GUID IFCProject**.
 
 Si deux modèles affichent la même chaîne de caractères ici, le connecteur les traitera comme le même modèle.

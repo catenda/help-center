@@ -46,13 +46,13 @@ Slik kan innstillingsmenyen for 3D-viseren se ut:
 
 ### 3.1 **Navigasjonsmodus**
 
-_Klem_ Dra to fingre nærmere eller lenger fra hverandre for å klemme. Hvis du klemmer på 3D-viseren, flyttes kameraet forover/bakover.
+**Klem** Dra to fingre nærmere eller lenger fra hverandre for å klemme. Hvis du klemmer på 3D-viseren, flyttes kameraet forover/bakover.
 
-_Panorering_ Dra på 3D-viseren med én finger for å panorere. Navigasjonsmodus påvirker hva som skjer når 3D-viseren panoreres.
+**Panorering** Dra på 3D-viseren med én finger for å panorere. Navigasjonsmodus påvirker hva som skjer når 3D-viseren panoreres.
 
 _Mobil_ - Standard Juster kameravinkel
 
-_Nettbrett_ Når du holder en finger på 3D-viseren, vises et dragankerpunkt under den holdte posisjonen. Når du holder et objekt, vises dragankerpunktet på det objektet. Når du holder det hvite området, vises dragankerpunktet i en fast avstand i retningen fra kameraet til dragposisjonen. Etter at 3D-viseren er dratt, viser dragankerpunktet dragretningen, og kameravinkel og -posisjon begynner å rotere rundt dragankerpunktet. Slipp skjermen for å låse kameraet på sin nye posisjon og vinkel.
+**Nettbrett** Når du holder en finger på 3D-viseren, vises et dragankerpunkt under den holdte posisjonen. Når du holder et objekt, vises dragankerpunktet på det objektet. Når du holder det hvite området, vises dragankerpunktet i en fast avstand i retningen fra kameraet til dragposisjonen. Etter at 3D-viseren er dratt, viser dragankerpunktet dragretningen, og kameravinkel og -posisjon begynner å rotere rundt dragankerpunktet. Slipp skjermen for å låse kameraet på sin nye posisjon og vinkel.
 
 ### 3.2 **Joystick-synlighet**
 
@@ -92,7 +92,7 @@ Etter å ha opprettet et klippeplan vises en glidebryter mot bunnen av skjermen.
 
 Trykk på informasjonsknappen for å åpne informasjonssiden for det berørte objektet.
 
-_Objektinformasjon_ I objektinformasjonen finner du følgende:
+**Objektinformasjon** I objektinformasjonen finner du følgende:
 
 - Navn
 - Enhet
@@ -101,8 +101,8 @@ _Objektinformasjon_ I objektinformasjonen finner du følgende:
 - Type
 - Forhåndsdefinert type
 
-_Egenskaper_ Standard IFC-egenskaper samt ulike egenskapsett for objektet vises her. Her vil du typisk finne informasjon som målinger, mengder, materiale osv.
+**Egenskaper** Standard IFC-egenskaper samt ulike egenskapsett for objektet vises her. Her vil du typisk finne informasjon som målinger, mengder, materiale osv.
 
-_Dokumenter_ Tittel og opprettelsesdato for dokumenter som er koblet til det valgte objektet, vises. Trykk på dokumentet for å åpne dokumentet på dokumentsiden.
+**Dokumenter** Tittel og opprettelsesdato for dokumenter som er koblet til det valgte objektet, vises. Trykk på dokumentet for å åpne dokumentet på dokumentsiden.
 
-_Saker_ Tittel og saknummer for saker som er koblet til det valgte objektet, vises. Trykk på saken for å åpne saken på sakssiden.
+**Saker** Tittel og saknummer for saker som er koblet til det valgte objektet, vises. Trykk på saken for å åpne saken på sakssiden.

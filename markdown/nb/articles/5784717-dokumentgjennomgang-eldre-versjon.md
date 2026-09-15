@@ -9,17 +9,17 @@ Bildet nedenfor beskriver trinnene som er nødvendige for å få prosessen på p
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xan46xhc/01-intro.png)
 
 1. Aktiver [Status arbeidsflyt](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) i [Dokumentbibliotekinnstillingene](https://support.catenda.com/en/articles/7831371-document-settings) dine
-1. [Rediger](https://support.catenda.com/en/articles/7831371-document-settings#h_c580374cfc) de tilgjengelige statusene etter behov
-1. Du kan nå laste opp dokumenter som utkast
-1. Når prosjektet inneholder utkast, kan du velge dem og opprette en ny gjennomgang
+2. [Rediger](https://support.catenda.com/en/articles/7831371-document-settings#h_c580374cfc) de tilgjengelige statusene etter behov
+3. Du kan nå laste opp dokumenter som utkast
+4. Når prosjektet inneholder utkast, kan du velge dem og opprette en ny gjennomgang
 
 ## 1. Gjennomgangsinnstillinger
 
 1. Et viktig trinn er å justere [gjennomgangsinnstillingene](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) på [prosjektinnstillingssiden](https://support.catenda.com/en/articles/4670273-project-settings-page).
-1. En gjennomgangsforespørsel angir en utgiver (person som er ansvarlig for den endelige avgjørelsen om publisering) og en eller flere vurderere som er ansvarlige for å validere (eller ikke) settet med utkast
-1. Hver vurdererer bestemmer om utkastet er Godkjent, Godkjent med kommentar eller Avvist
-1. På slutten av vurderingen velger utgiveren resultatet av gjennomgangen ved å velge dokumentene som skal publiseres.
-1. Fra gjennomgangsinnstillingene kan saker knyttet til dokumentene opprettes for å holde orden på prosessen senere
+2. En gjennomgangsforespørsel angir en utgiver (person som er ansvarlig for den endelige avgjørelsen om publisering) og en eller flere vurderere som er ansvarlige for å validere (eller ikke) settet med utkast
+3. Hver vurdererer bestemmer om utkastet er Godkjent, Godkjent med kommentar eller Avvist
+4. På slutten av vurderingen velger utgiveren resultatet av gjennomgangen ved å velge dokumentene som skal publiseres.
+5. Fra gjennomgangsinnstillingene kan saker knyttet til dokumentene opprettes for å holde orden på prosessen senere
 
 En detaljert demonstrasjon av disse trinnene er vist i følgende opplæring:
 

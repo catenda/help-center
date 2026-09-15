@@ -24,7 +24,7 @@ Slik kan gjennomgangshoden se ut i en utkast til gjennomgangsforespørsel:
 
 ### 2.1 **Tittel**
 
-Tittelen på utkastet til gjennomgangsforespørslen. Klikk på blyantsikonet for å redigere tittelen.
+Tittelen på gjennomgangsforespørselen. Klikk på blyantikonen for å redigere tittelen. Tittelen blir redigerbar etter at gjennomgangsforespørselen er sendt inn.
 
 ### 2.2 **Arbeidsflyt**
 
@@ -32,7 +32,7 @@ Arbeidsflyten som er valgt under opprettelsen av denne gjennomgangen
 
 ### 2.3 **Beskrivelse**
 
-Beskrivelsen av gjennomgangen Med den nye gjennomgangsarbeidsflyten er det ikke mulig å redigere beskrivelsen av en gjennomgang etter at gjennomgangen er opprettet. Beskrivelsen av gjennomgangen følger [generelle formateringsregler for innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+Beskrivelsen av gjennomgangen Beskrivelsen blir redigerbar etter at gjennomgangsforespørselen er sendt inn. Redigering er begrenset til personen som opprettet gjennomgangsforespørselen og til prosjektadministratorer. Beskrivelsen av gjennomgangen følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
 
 ## 3. **Trinnbånd**
 

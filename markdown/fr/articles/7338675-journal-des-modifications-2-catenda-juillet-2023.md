@@ -9,16 +9,23 @@ _Nouveaux articles :_ Catenda Hub [Bimsync est maintenant Catenda Hub](https://s
 **Catenda Hub**
 
 - [Modèles](https://support.catenda.com/en/articles/4670286-models-page) avec des caractères japonais téléchargent maintenant avec le nom correct
+
 - [Métrés](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto) a maintenant des colonnes de fond alternées noires et blanches pour une meilleure lisibilité
+
 - [Import](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) d'enregistrement - Les importations avec de petites erreurs comme une virgule ici, une parenthèse là seront maintenant acceptées même si le fichier est écrit ou exporté avec une petite erreur.
+
 - Le [Panneau d'arborescence](https://support.catenda.com/en/articles/4670290-the-tree-structures-in-the-ifc-models) affiche maintenant toujours le modèle correct d'un objet si cet objet est sélectionné. Auparavant, il y avait des cas où le menu d'arborescence ne se mettait pas toujours à jour vers le modèle correct
+
 - Il est maintenant possible d'enregistrer une sélection avec le menu des sélections dans le panneau d'inspection.
 
-    Une sélection d'objets peut également être colorée. Cette sélection peut être stockée dans une capture ou un signet.
+  Une sélection d'objets peut également être colorée. Cette sélection peut être stockée dans une capture ou un signet.
 
 - Nos serveurs peuvent maintenant gérer l'[import](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) de fichiers avec beaucoup de géométrie qui auraient précédemment dépassé le délai.
+
 - Le [bouton 3D](https://support.catenda.com/en/articles/4670286-models-page#h_82b7400edc) reste actif à nouveau lorsque plusieurs modèles sont chargés
+
 - Les objets sont à nouveau supprimables et peuvent être rendus transparents.
+
 - Les utilisateurs ayant accès aux dossiers de niveau supérieur dans la section des documents pourront maintenant voir leurs dossiers même si aucun accès n'est donné à tous les utilisateurs dans les [paramètres des documents](https://support.catenda.com/en/articles/7831371-document-settings).
 
 ## 3. Modules et intégrations

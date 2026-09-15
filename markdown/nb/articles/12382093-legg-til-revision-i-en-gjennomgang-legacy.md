@@ -14,27 +14,27 @@ Som standard er lastet opp av meg filtrert. På denne måten vises alle draft re
 
 ### 1.1 **Lenker**
 
-_Koblet_ Draft i den gjeldende mappen som er koblet til objekter som for øyeblikket er valgt i 3D-visningen Tallet bak filteret viser antallet dokumenter som er koblet i den gjeldende mappen
+**Koblet** Draft i den gjeldende mappen som er koblet til objekter som for øyeblikket er valgt i 3D-visningen Tallet bak filteret viser antallet dokumenter som er koblet i den gjeldende mappen
 
-_Ikke koblet_ Draft i den gjeldende mappen som ikke er koblet til noen 3D-objekter. Tallet bak filteret viser antallet dokumenter som ikke er koblet
+**Ikke koblet** Draft i den gjeldende mappen som ikke er koblet til noen 3D-objekter. Tallet bak filteret viser antallet dokumenter som ikke er koblet
 
 ### 1.2 **Datumfiltre**
 
-_Publisert_ Selv om datumfilteret er synlig i søkemenyen, er det ikke aktivert og kan ikke brukes.
+**Publisert** Selv om datumfilteret er synlig i søkemenyen, er det ikke aktivert og kan ikke brukes.
 
 ### 1.3 **Merkelapp gruppe**
 
-_Merkelapp navn_ Søk etter drafts ved merkelapper som er brukt på dokumentet som draft revisions er lastet opp til.
+**Merkelapp navn** Søk etter drafts ved merkelapper som er brukt på dokumentet som draft revisions er lastet opp til.
 
 ### 1.4 **Lastet opp av**
 
-_Lastet opp av meg_ Draft lastet opp av medlemmet som sender inn gjennomgangen.
+**Lastet opp av meg** Draft lastet opp av medlemmet som sender inn gjennomgangen.
 
 ### 1.5 **Tekstsøk**
 
-_Søk i dokumenttittel:_ Søk etter dokumenter som har draft revisions.
+**Søk i dokumenttittel:** Søk etter dokumenter som har draft revisions.
 
-_Søk i filnavn:_ Søk etter spesifikke draft revisions.
+**Søk i filnavn:** Søk etter spesifikke draft revisions.
 
 ## 2. **Legg til revision liste**
 

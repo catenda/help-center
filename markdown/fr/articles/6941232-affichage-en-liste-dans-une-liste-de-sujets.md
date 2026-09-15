@@ -9,13 +9,13 @@ L'affichage en liste dans le tableau des sujets sur la [page des sujets](https:/
 Dans l'affichage en liste d'une liste de sujets, il est possible de trier les sujets par :
 
 1. Les plus récents
-1. Les plus anciens
-1. Mises à jour récentes
-1. Mises à jour les moins récentes
-1. Échéance, de la plus récente à la plus ancienne
-1. Échéance, de la plus ancienne à la plus récente
-1. Champ personnalisé, ordre décroissant
-1. Champ personnalisé, ordre croissant
+2. Les plus anciens
+3. Mises à jour récentes
+4. Mises à jour les moins récentes
+5. Échéance, de la plus récente à la plus ancienne
+6. Échéance, de la plus ancienne à la plus récente
+7. Champ personnalisé, ordre décroissant
+8. Champ personnalisé, ordre croissant
 
 ## 2. **Liste des sujets**
 

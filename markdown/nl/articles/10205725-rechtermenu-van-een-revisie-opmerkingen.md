@@ -5,10 +5,10 @@ Als u een document selecteert op de [documentenpagina](https://support.catenda.c
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/01-intro.png)
 
 1. De [documentbanner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) loopt over de bovenkant van de documentenpagina
-1. U vindt de documentkoptekst onder de documentbanner en boven de documentvoorbeeldweergave.
-1. Onder de documentkoptekst vindt u de [documentvoorbeeldweergave](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
-1. Links van de documentkoptekst en voorbeeldweergave vindt u de documentlijst
-1. _Dit artikel:_ Rechts van de documentkoptekst en voorbeeldweergave vindt u het rechtermenu met informatie.
+2. U vindt de documentkoptekst onder de documentbanner en boven de documentvoorbeeldweergave.
+3. Onder de documentkoptekst vindt u de [documentvoorbeeldweergave](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
+4. Links van de documentkoptekst en voorbeeldweergave vindt u de documentlijst
+5. _Dit artikel:_ Rechts van de documentkoptekst en voorbeeldweergave vindt u het rechtermenu met informatie.
 
 Wanneer u een document voor het eerst opent, kan het rechtermenu gesloten zijn. U kunt op de informatieknop rechtsonder in de [documentbanner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) klikken om dit menu uit te vouwen.
 

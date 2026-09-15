@@ -77,12 +77,12 @@ Nach der Anmeldung wird die Hauptansicht des Catenda Hub-Plugins geöffnet. Auf 
 ![Header.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/06-interface.png)
 
 1. Wählen Sie Ihr Catenda Hub-Projekt aus
-1. Wählen Sie ein Themen-Board in diesem Projekt
-1. Erstellen Sie ein neues Thema im aktuell ausgewählten Themen-Board
-1. Sortieren Sie die aktuell angezeigten Themen
-1. Öffnen Sie das Catenda Hub-Add-in-Menü
-1. Suchen und filtern Sie die angezeigten Themen
-1. Die Liste der aktuell gefilterten Themen im Themen-Board
+2. Wählen Sie ein Themen-Board in diesem Projekt
+3. Erstellen Sie ein neues Thema im aktuell ausgewählten Themen-Board
+4. Sortieren Sie die aktuell angezeigten Themen
+5. Öffnen Sie das Catenda Hub-Add-in-Menü
+6. Suchen und filtern Sie die angezeigten Themen
+7. Die Liste der aktuell gefilterten Themen im Themen-Board
 
 ### 4.2 **Projekt- und Themen-Board-Auswahl**
 
@@ -105,14 +105,14 @@ In der Themenliste finden Sie alle Hauptinformationen über ein Thema:
 ![IssueInformation.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/09-topic-selection.png)
 
 1. Der Titel des Themas
-1. Sein Status (Offen, Geschlossen, ...), sein Typ (Info, Fehler, ...) und seine Etiketten
-1. Das Mitglied, das das Thema angefordert hat
-1. Das Mitglied, dem das Thema zugewiesen ist
-1. Das Fälligkeitsdatum des Themas
-1. Wann das Thema zuletzt aktualisiert wurde. Sie können den Mauszeiger über das Datum bewegen, um das vollständige Datum und die Uhrzeit der Aktualisierung anzuzeigen.
-1. Die Anzahl der Kommentare im Thema
-1. Das Bild des ersten Kommentars im Thema
-1. Catenda Hub-Themennummer
+2. Sein Status (Offen, Geschlossen, ...), sein Typ (Info, Fehler, ...) und seine Etiketten
+3. Das Mitglied, das das Thema angefordert hat
+4. Das Mitglied, dem das Thema zugewiesen ist
+5. Das Fälligkeitsdatum des Themas
+6. Wann das Thema zuletzt aktualisiert wurde. Sie können den Mauszeiger über das Datum bewegen, um das vollständige Datum und die Uhrzeit der Aktualisierung anzuzeigen.
+7. Die Anzahl der Kommentare im Thema
+8. Das Bild des ersten Kommentars im Thema
+9. Catenda Hub-Themennummer
 
 Sie können auf ein beliebiges Thema klicken, um zur [Themendetailseite](#h_445d3efa52) zu gehen.
 
@@ -123,11 +123,11 @@ Sie können die angezeigten Themen sortieren, um die relevantesten zuerst anzuze
 ![sort.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/10-sort-topics.png)
 
 1. Bringt das zuletzt erstellte Thema zuerst
-1. Bringt das älteste Thema zuerst
-1. Das zuletzt aktualisierte Thema zuerst anzeigen. Das Aktualisieren eines Themas kann das Ändern beliebiger Eigenschaften wie Titel, Kommentare usw. beinhalten…
-1. Bringt das am wenigsten zuletzt aktualisierte Thema zuerst
-1. Bringt das jüngste Fälligkeitsdatum zuerst
-1. Bringt das älteste Fälligkeitsdatum zuerst
+2. Bringt das älteste Thema zuerst
+3. Das zuletzt aktualisierte Thema zuerst anzeigen. Das Aktualisieren eines Themas kann das Ändern beliebiger Eigenschaften wie Titel, Kommentare usw. beinhalten…
+4. Bringt das am wenigsten zuletzt aktualisierte Thema zuerst
+5. Bringt das jüngste Fälligkeitsdatum zuerst
+6. Bringt das älteste Fälligkeitsdatum zuerst
 
 ### 4.6 **Themen filtern**
 
@@ -162,15 +162,15 @@ In dieser Ansicht können Sie ein bestimmtes Thema überprüfen und bearbeiten.
 ![IssueDetailView.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/13-interface.png)
 
 1. Gehen Sie zurück zur [Themenliste](#h_642fa61854)
-1. Aktualisieren Sie den Inhalt dieses Themas
-1. Navigieren Sie zwischen Themen
-1. Legen Sie den Themenstatus fest (Offen, Geschlossen, ...)
-1. Legen Sie den Thementyp fest (Fehler, Warnung, Info, ...)
-1. Legen Sie das Fälligkeitsdatum des Themas fest
-1. Legen Sie das Mitglied fest, dem das Thema zugewiesen ist. Sie können ein Thema einem einzelnen Benutzer oder einem Team zuweisen.
-1. Legen Sie das Mitglied fest, das dieses Thema anfordert. Sie können einen einzelnen Benutzer oder ein Team festlegen.
-1. Bearbeiten Sie die Thema-Etiketten
-1. Die Liste der Kommentare im Thema
+2. Aktualisieren Sie den Inhalt dieses Themas
+3. Navigieren Sie zwischen Themen
+4. Legen Sie den Themenstatus fest (Offen, Geschlossen, ...)
+5. Legen Sie den Thementyp fest (Fehler, Warnung, Info, ...)
+6. Legen Sie das Fälligkeitsdatum des Themas fest
+7. Legen Sie das Mitglied fest, dem das Thema zugewiesen ist. Sie können ein Thema einem einzelnen Benutzer oder einem Team zuweisen.
+8. Legen Sie das Mitglied fest, das dieses Thema anfordert. Sie können einen einzelnen Benutzer oder ein Team festlegen.
+9. Bearbeiten Sie die Thema-Etiketten
+10. Die Liste der Kommentare im Thema
 
 ### 5.2 **Themeneigenschaften**
 
@@ -195,10 +195,10 @@ Alle Kommentare werden unter dem Thema angezeigt. Ein Kommentar kann Text, ein B
 ![CommentDetail.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/17-comments.png)
 
 1. Der Autor des Kommentars
-1. Wann der Kommentar erstellt wurde. Sie können den Mauszeiger über das Datum bewegen, um das vollständige Datum und die Uhrzeit der Aktualisierung anzuzeigen.
-1. Die [Zoom-Schaltfläche](#h_d873968c27) (siehe Kapitel unten)
-1. Das mit dem Kommentar verknüpfte Bild
-1. Der Text des Kommentars
+2. Wann der Kommentar erstellt wurde. Sie können den Mauszeiger über das Datum bewegen, um das vollständige Datum und die Uhrzeit der Aktualisierung anzuzeigen.
+3. Die [Zoom-Schaltfläche](#h_d873968c27) (siehe Kapitel unten)
+4. Das mit dem Kommentar verknüpfte Bild
+5. Der Text des Kommentars
 
 ### 5.4 **Zoom**
 

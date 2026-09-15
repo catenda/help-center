@@ -12,7 +12,7 @@ BCF Live ConnectorはSolibriにより開発、保守、および所有されて�
 
 ### 1.2 **技術および機能の問題について**
 
-Solibriインターフェース内で特定のエラーメッセージが表示される場合、コネクターが期待通りに応答しない場合、またはコネクターの機能方法に変更が必要な場合は、**[Solibriサポート](https://www.solibri.com/support)**に直接お問い合わせください。コネクターの開発者および所有者として、基盤となるコードを変更したり、内部検証ルールを調整したり、ソフトウェア固有のバグをトラブルシューティングできるのは彼らだけです。
+Solibriインターフェース内で特定のエラーメッセージが表示される場合、コネクターが期待通りに応答しない場合、またはコネクターの機能方法に変更が必要な場合は、\*\*[Solibriサポート](https://www.solibri.com/support)\*\*に直接お問い合わせください。コネクターの開発者および所有者として、基盤となるコードを変更したり、内部検証ルールを調整したり、ソフトウェア固有のバグをトラブルシューティングできるのは彼らだけです。
 
 ## 2. **重複モデル**
 
@@ -33,7 +33,7 @@ CatendaおよびSolibriコネクターは、ファイル名ではなく一意の
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ym9bebpy/01-how-to-verify-the-guid-in-solibri.png)
 
 1. Solibri Model Treeで**Model**を選択します。
-1. **Info Tool**または**Identity**タブを開きます。
-1. **IFCProject GUID**フィールドを見つけます。
+2. **Info Tool**または**Identity**タブを開きます。
+3. **IFCProject GUID**フィールドを見つけます。
 
 モデルがここで同じ文字列を表示している場合、コネクターはそれらを同じモデルとして扱います。

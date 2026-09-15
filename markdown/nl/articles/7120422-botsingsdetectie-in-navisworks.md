@@ -3,26 +3,29 @@
 ## 1. Botsingsdetectie en het maken van BCF viewpoint met behulp van de plugin
 
 1. Stel Clash Detective in en voer een botsingstest uit.
-1. Ga door de botsingingen in NW.
 
-    a. Geef indien nodig namen
+2. Ga door de botsingingen in NW.
 
-    b. Pas viewpoints aan en sla deze op met behulp van **Focus op clash** en **Viewpoint opslaan** opdrachten
+   a. Geef indien nodig namen
 
-    c. Groepeer soortgelijke botsingingen samen
+   b. Pas viewpoints aan en sla deze op met behulp van **Focus op clash** en **Viewpoint opslaan** opdrachten
 
-1. Maak een rapport als viewpoints. Schakel **Resultaatmarkeringen behouden** in
-1. Deze viewpoints verschijnen in het tabblad clashes in de plugin
-1. Maak een issue aan door één of meer clash te selecteren
+   c. Groepeer soortgelijke botsingingen samen
 
-    a. Geef de issue een titel
+3. Maak een rapport als viewpoints. Schakel **Resultaatmarkeringen behouden** in
 
-    b. Klik op issue toevoegen.
+4. Deze viewpoints verschijnen in het tabblad clashes in de plugin
 
-1. Voor een betekenisvolle miniatuur:
+5. Maak een issue aan door één of meer clash te selecteren
 
-    a. Selecteer clash in Clash Detective
+   a. Geef de issue een titel
 
-    b. Selecteer dezelfde clash in het tabblad **Clashes**.
+   b. Klik op issue toevoegen.
 
-    c. Klik op issue toevoegen.
+6. Voor een betekenisvolle miniatuur:
+
+   a. Selecteer clash in Clash Detective
+
+   b. Selecteer dezelfde clash in het tabblad **Clashes**.
+
+   c. Klik op issue toevoegen.

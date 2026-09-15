@@ -47,11 +47,11 @@ Når en saksmal er konfigurert, kan en sak opprettes for hver publisert revisjon
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/eekvwhj0/06-topic-template.png)
 
-_Ikke opprett saker / Ikke lagre merknader_ Som standard er innstillingen satt til ikke opprett saker, som den kan settes tilbake til ved å velge ikke lagre merknader i rullegardinmenyen.
+**Ikke opprett saker / Ikke lagre merknader** Som standard er innstillingen satt til ikke opprett saker, som den kan settes tilbake til ved å velge ikke lagre merknader i rullegardinmenyen.
 
-_Opprett en ny saksmal_ Klikk [her](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template) for å lese mer om opprettelse av en saksmal.
+**Opprett en ny saksmal** Klikk [her](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template) for å lese mer om opprettelse av en saksmal.
 
-_Saksforhåndsvisning_ Hvis en saksmal er valgt, klikker du på øyet ved siden av malen for å se innholdet i den saksmalene.
+**Saksforhåndsvisning** Hvis en saksmal er valgt, klikker du på øyet ved siden av malen for å se innholdet i den saksmalene.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/eekvwhj0/07-topic-template.png)
 

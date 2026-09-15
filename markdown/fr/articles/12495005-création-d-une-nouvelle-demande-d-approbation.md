@@ -20,7 +20,7 @@ Les membres qui font partie des équipes de demandeurs configurées dans un flux
 
 ![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/03-workflow-selection.png)
 
-_Accès requis :_ Les membres et les administrateurs doivent faire partie d'une équipe de demandeurs configurée pour un flux de travail afin de pouvoir sélectionner le flux de travail.
+_Accès requis :_ Les membres et les administrateurs doivent faire partie d'une équipe de soumetteur configurée pour un flux de travail pour pouvoir sélectionner le flux de travail.
 
 ### 1.2 **Sélection du demandeur**
 
@@ -32,11 +32,11 @@ Lorsque la demande d'approbation est créée, les membres qui font partie de l'�
 
 ![Workflow Submitter Title](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/04-submitter-selection.png)
 
-_Accès requis :_ Les membres et les administrateurs doivent faire partie d'une équipe de demandeurs configurée pour un flux de travail afin de pouvoir soumettre au nom de cette équipe de demandeurs.
+_Accès requis :_ Les membres et les administrateurs doivent faire partie d'une équipe de soumetteur configurée pour un flux de travail pour pouvoir soumettre au nom de cette équipe de soumetteur.
 
 ### 1.3 **Titre**
 
-Le titre de la demande d'approbation. Une approbation doit avoir un titre pour être soumise.
+Le titre de la demande d'approbation. Une approbation doit avoir un titre pour être soumise. Le titre peut être corrigé ultérieurement, à la fois pendant que la demande est toujours un brouillon et après qu'elle a été soumise.
 
 ## 2. **Corps de la demande d'approbation**
 
@@ -46,7 +46,7 @@ Le nouveau flux de travail de validation est une fonctionnalité à la demande q
 
 ### 2.1 **Description**
 
-La description de l'approbation suit les [règles générales de formatage des publications](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+La description de l'approbation suit les [règles générales de formatage des publications](https://support.catenda.com/en/articles/8430847-formatting-of-posts). La description peut être corrigée ultérieurement, à la fois pendant que la demande est toujours un brouillon et après qu'elle a été soumise.
 
 ### 2.2 **Ajouter des documents**
 
@@ -67,6 +67,8 @@ _Nom_ - _Par défaut_ Le nom du document dans lequel se trouve la révision part
 Révision - _Par défaut_ Le nom de la révision du document. C'est la même chose que le nom du fichier original du fichier qui a été téléchargé.
 
 ## 3. - _Par défaut_
+
+Le numéro de révision principal et mineur de la révision partagée (#0.1, #0.2, #1.1, etc...)
 
 Statut - _Par défaut_ Le nom du statut partagé appliqué à la révision partagée.
 
@@ -96,9 +98,9 @@ Cliquez sur Soumettre pour examen pour soumettre l'Approbation et démarrer le p
 - Une Équipe de soumissionnaire pour soumettre au nom de doit être sélectionnée
 - Un titre
 - Documents
-    - Un minimum de 1 Document avec une révision partagée sélectionnée doit être ajouté pour pouvoir soumettre l'Approbation.
-    - Un maximum de 1000 révisions de Documents avec une révision partagée sélectionnée peut être ajouté.
-    - Pour créer une demande d'Approbation avec plus de 1000 révisions de Documents, créez d'abord un brouillon avec jusqu'à 1000 révisions, puis ajoutez jusqu'à 1000 révisions de Documents à la fois au brouillon avant de soumettre le brouillon pour examen.
+  - Un minimum de 1 Document avec une révision partagée sélectionnée doit être ajouté pour pouvoir soumettre l'Approbation.
+  - Un maximum de 1000 révisions de Documents avec une révision partagée sélectionnée peut être ajouté.
+  - Pour créer une demande d'Approbation avec plus de 1000 révisions de Documents, créez d'abord un brouillon avec jusqu'à 1000 révisions, puis ajoutez jusqu'à 1000 révisions de Documents à la fois au brouillon avant de soumettre le brouillon pour examen.
 
 Après avoir soumis une demande d'Approbation pour examen avec le nouveau flux de validation, la seule chose qui peut être modifiée est que les Documents de révision partagée peuvent être supprimés de la demande.
 

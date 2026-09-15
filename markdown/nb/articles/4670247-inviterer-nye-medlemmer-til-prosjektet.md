@@ -9,10 +9,10 @@ Et nytt medlem kan legges til ved å gå til:
 "Medlemmer" (venstre meny)
 
 1. Inviter medlem
-1. skriv inn e-postadressen(e) deres
-1. velg deres rolle i prosjektet, og hvilket team (valgfritt)
-1. +Legg til
-1. Valgfritt melding=>Send invitasjon(er)
+2. skriv inn e-postadressen(e) deres
+3. velg deres rolle i prosjektet, og hvilket team (valgfritt)
+4. +Legg til
+5. Valgfritt melding=>Send invitasjon(er)
 
     <div class="intercom-container intercom-align-center"><img alt="mceclip0.png" src="https://raw.githubusercontent.com/catenda/help-center/main/images/2n4vhvx6/inline-f2a8c555ff22.png"/></div>
 

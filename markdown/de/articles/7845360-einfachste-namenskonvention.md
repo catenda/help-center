@@ -61,6 +61,6 @@ _Dieses Dokument entspricht nicht der [Namenskonvention](https://support.catenda
 Dies kann zwei Gründe haben.
 
 1. Der Name der Revisionsdatei stimmt nicht mit dem erwarteten Dateinamen der [Namenskonvention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) überein.
-1. Der Name der Revisionsdatei stimmt nicht mit dem erwarteten Dokumentergebnis gemäß der [Namenskonvention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) überein.
+2. Der Name der Revisionsdatei stimmt nicht mit dem erwarteten Dokumentergebnis gemäß der [Namenskonvention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) überein.
 
 Um mehr über [Namenskonventionen](https://support.catenda.com/en/articles/7832559-naming-conventions-page) zu erfahren, lesen Sie diese Artikel: [Mittlere Namenskonvention](https://support.catenda.com/en/articles/7936943-medium-naming-convention) [Erweiterte Namenskonvention](https://support.catenda.com/en/articles/7936947-advanced-naming-convention)

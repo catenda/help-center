@@ -40,7 +40,7 @@ Når minsteantallet medlemmer som angitt i gjennomgangen har sendt inn godkjent 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zt2p953n/04-validation-preview.png)
 
-_Hold musepekeren_ Hold musepekeren over valideringsforhåndsvisningsboksen for å se hvilken gjennomgangsperson som er involvert i hvilken handling og om de sendte inn valideringen, når de sendte den inn.
+**Hold musepekeren** Hold musepekeren over valideringsforhåndsvisningsboksen for å se hvilken gjennomgangsperson som er involvert i hvilken handling og om de sendte inn valideringen, når de sendte den inn.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zt2p953n/05-validation-preview.png)
 
@@ -62,7 +62,7 @@ Klikk oppfølging for å sende inn en oppfølging sammen med kommentaren som er 
 
 Klikk oppfølging for å sende inn en oppfølging sammen med kommentaren som er skrevet i kommenteringsboksen.
 
-_Godkjenn med kommentar_ Åpne godkjenn-handlingsmenyen og klikk godkjenn med kommentar for å bruke godkjenn med kommentar-status som kan påvirke hvordan dokumentet publiseres. Dette alternativet kan bare velges hvis noe er skrevet i kommenteringsboksen.
+**Godkjenn med kommentar** Åpne godkjenn-handlingsmenyen og klikk godkjenn med kommentar for å bruke godkjenn med kommentar-status som kan påvirke hvordan dokumentet publiseres. Dette alternativet kan bare velges hvis noe er skrevet i kommenteringsboksen.
 
 ## 3. **Filvurderingshistorikk**
 

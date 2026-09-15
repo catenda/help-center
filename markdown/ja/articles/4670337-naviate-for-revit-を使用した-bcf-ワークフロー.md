@@ -2,9 +2,9 @@
 
 **Naviate から Revit を Bimsync へ BCF を送信します。**
 
-Naviate BCF マネージャーを使用して Revit で問題を作成します。
+Naviate BCF マネージャーを使用して Revit で課題を作成します。
 
-問題にしたい要素を選択して、Naviate BCF マネージャーに移動します。バージョン 1.0 または 2.0 のいずれかを選択していることを確認してください。[OK] をクリックします。
+課題にしたい要素を選択して、Naviate BCF マネージャーに移動します。バージョン 1.0 または 2.0 のいずれかを選択していることを確認してください。[OK] をクリックします。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a8twaqnf/01-intro.png)
 
@@ -12,7 +12,7 @@ BCF ファイルを保存をクリックし、bcfzip ファイルとして保存
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a8twaqnf/02-intro.png)
 
-Bimsync の問題に移動し、Revit で作成した BCF をインポートします
+Bimsync の課題に移動し、Revit で作成した BCF をインポートします
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a8twaqnf/03-intro.png)
 
@@ -22,17 +22,17 @@ Bimsync の問題に移動し、Revit で作成した BCF をインポートし�
 
 BCF は現在 Bimsync の問題の下に読み込まれています。
 
-その後、問題をクリックして、問題内の別の設定を変更できます。
+その後、課題をクリックして、課題の別の設定を変更できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a8twaqnf/05-intro.png)
 
 **Bimsync から Revit へ Naviate を使用して BCF を送信します。**
 
-取得したい問題をフィルター処理します。
+取得したい課題をフィルター処理します。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a8twaqnf/06-intro.png)
 
-フィルター処理された問題をエクスポートします。
+フィルター処理された課題をエクスポートします。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a8twaqnf/07-intro.png)
 

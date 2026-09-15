@@ -47,13 +47,13 @@ Op deze pagina vindt u het hoofdmenu om in uw Catenda-project, issue boards en p
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/04-interface.png)
 
 1. Selecteer uw Catenda-project
-1. Selecteer een issue board in dit project
-1. Maak een nieuw probleem in de momenteel geselecteerde issue board
-1. Sorteer momenteel weergegeven problemen
-1. Open het Catenda Hub add-in-menu
-1. Zoek en filter de weergegeven problemen
-1. De lijst met momenteel gefilterde problemen in de issue board
-1. Vernieuw problemen
+2. Selecteer een issue board in dit project
+3. Maak een nieuw probleem in de momenteel geselecteerde issue board
+4. Sorteer momenteel weergegeven problemen
+5. Open het Catenda Hub add-in-menu
+6. Zoek en filter de weergegeven problemen
+7. De lijst met momenteel gefilterde problemen in de issue board
+8. Vernieuw problemen
 
 ### 4.2 **Project- en issue board-selectie**
 
@@ -64,6 +64,6 @@ Het selecteren van een Catenda-project geeft de lijst met issue boards in dit pr
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/05-catenda-hub-add-in-menu.png)
 
 1. Lijst met modellen en revisie
-1. Export-instellingen voor IFC-upload naar Catenda Hub
-1. Versie van Catenda Hub-plugin
-1. Meld u af uit uw Catenda Hub-account
+2. Export-instellingen voor IFC-upload naar Catenda Hub
+3. Versie van Catenda Hub-plugin
+4. Meld u af uit uw Catenda Hub-account

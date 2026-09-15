@@ -4,7 +4,7 @@
 
 > **Tip:** Zoek [stap 5](https://support.catenda.com/en/articles/10576182-step-5-topics) in [aan de slag](https://support.catenda.com/en/collections/2657208-getting-started) in het helpcentrum of in het helpmenu.
 
-## 1. **([Koppelingen downloaden](https://support.catenda.com/en/articles/8396532-catenda-connections))
+## 1. \*\*([Koppelingen downloaden](https://support.catenda.com/en/articles/8396532-catenda-connections))
 
 ## 2. **Desktop Connector**
 

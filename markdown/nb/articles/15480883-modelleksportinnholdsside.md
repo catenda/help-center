@@ -14,19 +14,19 @@ Klikk på nedlastingsknappen øverst til høyre på eksporten for å begynne å 
 
 Eksportinformasjonen kan inneholde følgende informasjon:
 
-_Status_ Status for eksporten har å gjøre med hvor langt den har kommet i forberedelsen.
+**Status** Status for eksporten har å gjøre med hvor langt den har kommet i forberedelsen.
 
-_Filstørrelse_ Dette er filstørrelsen på zip-filen som vil bli lastet ned. Merk at filstørrelsen på innholdet i zip-filen kan øke når den er lastet ned og lokalt ekstrahert.
+**Filstørrelse** Dette er filstørrelsen på zip-filen som vil bli lastet ned. Merk at filstørrelsen på innholdet i zip-filen kan øke når den er lastet ned og lokalt ekstrahert.
 
-_Filformat_ Vanligvis ZIP
+**Filformat** Vanligvis ZIP
 
-_Opprettet_ Klokkeslett og dato for når eksporten ble opprettet.
+**Opprettet** Klokkeslett og dato for når eksporten ble opprettet.
 
-_Opprettet av_ Brukeren som opprettet denne eksporten.
+**Opprettet av** Brukeren som opprettet denne eksporten.
 
-_Deling_ Bare brukeren har tilgang til private eksporter mens alle prosjektbrukere har tilgang til eksporter som deles med prosjektet.
+**Deling** Bare brukeren har tilgang til private eksporter mens alle prosjektbrukere har tilgang til eksporter som deles med prosjektet.
 
-_Kommentar_ Kommentaren som var inkludert med denne eksporten.
+**Kommentar** Kommentaren som var inkludert med denne eksporten.
 
 ## 3. **Revisjoner inkludert i denne eksporten**
 
@@ -40,17 +40,17 @@ Klikk på det inkluderte revisjonskortet for å åpne [siden med inkludert revis
 
 Den inkluderte revisjonsraden kan inneholde følgende informasjon:
 
-_Modellnavn_ Navnet på modellen som revisjonen tilhører.
+**Modellnavn** Navnet på modellen som revisjonen tilhører.
 
-_Revisjonsnummer_ Den n-te revisjonen i modellen
+**Revisjonsnummer** Den n-te revisjonen i modellen
 
-_2D-, 3D- og nedlastingsknapp_ Klikk på 2D-knappen for å laste 2D-visningen av denne revisjonen inn i 2D-viseren. Klikk på 3D-knappen for å laste 3D-viseren for denne revisjonen inn i 3D-viseren. Klikk på nedlastingsknappen for å laste ned bare denne revisjonen.
+**2D-, 3D- og nedlastingsknapp** Klikk på 2D-knappen for å laste 2D-visningen av denne revisjonen inn i 2D-viseren. Klikk på 3D-knappen for å laste 3D-viseren for denne revisjonen inn i 3D-viseren. Klikk på nedlastingsknappen for å laste ned bare denne revisjonen.
 
-_IFC-versjon_ Versjonen av IFC som denne revisjonen er.
+**IFC-versjon** Versjonen av IFC som denne revisjonen er.
 
-_Opprettelsesdato og tidspunkt_ Klokkeslett og dato da revisjonen ble opprettet.
+**Opprettelsesdato og tidspunkt** Klokkeslett og dato da revisjonen ble opprettet.
 
-_Revisjonsoppretter_ Navnet på brukeren som opprettet revisjonen.
+**Revisjonsoppretter** Navnet på brukeren som opprettet revisjonen.
 
 ### 3.1 **Inkludert revisjonsinnholdsside**
 
@@ -60,16 +60,16 @@ Klikk på en inkludert revisjon i listen over inkluderte revisjoner i en eksport
 
 Siden med inkludert revisjonsinnhold kan inneholde følgende informasjon:
 
-_Revisjonsnummer_ Nummeret på revisjonen
+**Revisjonsnummer** Nummeret på revisjonen
 
-_IFC-versjon_ Versjonen av IFC som denne revisjonen er.
+**IFC-versjon** Versjonen av IFC som denne revisjonen er.
 
-_2D-, 3D-, dokument- og nedlastingsknapper._ Klikk på 2D-knappen for å laste 2D-visningen av denne revisjonen inn i 2D-viseren. Klikk på 3D-knappen for å laste 3D-viseren for denne revisjonen inn i 3D-viseren. Klikk på dokumentknappen for å åpne dokumentet som er koblet til denne modellrevisjonen i mappestrukturen på dokumentsiden. Klikk på nedlastingsknappen for å laste ned bare denne revisjonen.
+**2D-, 3D-, dokument- og nedlastingsknapper.** Klikk på 2D-knappen for å laste 2D-visningen av denne revisjonen inn i 2D-viseren. Klikk på 3D-knappen for å laste 3D-viseren for denne revisjonen inn i 3D-viseren. Klikk på dokumentknappen for å åpne dokumentet som er koblet til denne modellrevisjonen i mappestrukturen på dokumentsiden. Klikk på nedlastingsknappen for å laste ned bare denne revisjonen.
 
-_Opprettet_ Datoen og klokkeslettet for når denne revisjonen ble opprettet.
+**Opprettet** Datoen og klokkeslettet for når denne revisjonen ble opprettet.
 
-_Opprettet av_ Brukeren som opprettet denne revisjonen.
+**Opprettet av** Brukeren som opprettet denne revisjonen.
 
-_Modell_ Modellen som denne revisjonen er i.
+**Modell** Modellen som denne revisjonen er i.
 
-_Kommentar_ Kommentaren som følger med denne revisjonen.
+**Kommentar** Kommentaren som følger med denne revisjonen.

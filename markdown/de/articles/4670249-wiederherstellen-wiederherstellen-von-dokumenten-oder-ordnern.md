@@ -6,8 +6,8 @@ Dies setzt voraus, dass Sie sich in der Ansicht "Dokumente" befinden. Sie gelang
 
 1. Klicken Sie auf die Schaltfläche "Filter"
 
-1. Wählen Sie die Option "Gelöscht" in der Filterliste aus (dies könnte je nach Ihrer Spracheinstellung ein anderes Wort sein.)
+2. Wählen Sie die Option "Gelöscht" in der Filterliste aus (dies könnte je nach Ihrer Spracheinstellung ein anderes Wort sein.)
 
-1. Wählen Sie mithilfe der Kontrollkästchen aus, welche Dateien/Ordner Sie wiederherstellen möchten
+3. Wählen Sie mithilfe der Kontrollkästchen aus, welche Dateien/Ordner Sie wiederherstellen möchten
 
-1. Klicken Sie auf die Schaltfläche "Wiederherstellen"
+4. Klicken Sie auf die Schaltfläche "Wiederherstellen"

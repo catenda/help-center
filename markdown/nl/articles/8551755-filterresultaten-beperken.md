@@ -53,31 +53,31 @@ Uw voorkeuren voor het uitbreiden en samenvouwen van filtermenu's op de verschil
 U kunt filters op de volgende pagina's opslaan:
 
 - Startpagina
-    - [Pagina Accountmeldingen](https://support.catenda.com/en/articles/7439223-account-notifications-page)
-    - Organisatietools
-        - [Pagina Gebruikers](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-        - [Pagina Projecten](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-        - [Pagina Projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+  - [Pagina Accountmeldingen](https://support.catenda.com/en/articles/7439223-account-notifications-page)
+  - Organisatietools
+    - [Pagina Gebruikers](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+    - [Pagina Projecten](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+    - [Pagina Projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 - Project
-    - [Onderwerpen tabel](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
-    - Modellen
-        - [Pagina Modellen](https://support.catenda.com/en/articles/4670286-models-page)
-        - [Pagina Opgeslagen weergaven](https://support.catenda.com/en/articles/4670281-bookmarks-page)
-        - [Pagina Objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-    - Documenten
-        - [Pagina Documenten](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-        - [Pagina Verzamelingen](https://support.catenda.com/en/articles/6344318-collections-page)
-        - [Pagina Goedkeuringen](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
-    - Rapporten
-        - Pagina Rapporten
-    - Bibliotheken
-        - [Koppelingenbibliotheek](https://support.catenda.com/en/articles/4670254-links-library)
-        - [Sharepoint-bibliotheek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-        - [Dropbox-bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page)
-        - [Eigenschapwaarde bibliotheek](https://support.catenda.com/en/articles/4670252-property-value-library)
-        - [Classificatiebibliotheek](https://support.catenda.com/en/articles/4670255-classification-library)
-    - [Pagina Projectmeldingen](https://support.catenda.com/en/articles/4670295-project-notifications-page)
-    - Projectinstellingen
-        - [Pagina Aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-        - [Pagina Labels](https://support.catenda.com/en/articles/4670265-labels-page)
-        - [Pagina Leden](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
+  - [Onderwerpen tabel](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
+  - Modellen
+    - [Pagina Modellen](https://support.catenda.com/en/articles/4670286-models-page)
+    - [Pagina Opgeslagen weergaven](https://support.catenda.com/en/articles/4670281-bookmarks-page)
+    - [Pagina Objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+  - Documenten
+    - [Pagina Documenten](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+    - [Pagina Verzamelingen](https://support.catenda.com/en/articles/6344318-collections-page)
+    - [Pagina Goedkeuringen](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+  - Rapporten
+    - Pagina Rapporten
+  - Bibliotheken
+    - [Koppelingenbibliotheek](https://support.catenda.com/en/articles/4670254-links-library)
+    - [Sharepoint-bibliotheek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+    - [Dropbox-bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page)
+    - [Eigenschapwaarde bibliotheek](https://support.catenda.com/en/articles/4670252-property-value-library)
+    - [Classificatiebibliotheek](https://support.catenda.com/en/articles/4670255-classification-library)
+  - [Pagina Projectmeldingen](https://support.catenda.com/en/articles/4670295-project-notifications-page)
+  - Projectinstellingen
+    - [Pagina Aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+    - [Pagina Labels](https://support.catenda.com/en/articles/4670265-labels-page)
+    - [Pagina Leden](https://support.catenda.com/en/articles/4670291-members-and-teams-page)

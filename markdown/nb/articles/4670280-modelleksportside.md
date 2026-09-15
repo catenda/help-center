@@ -19,11 +19,11 @@ Handlingsmenyen for nye elementer finner du øverst til høyre og kan se slik ut
 Klikk på Ny eksport for å opprette en ny eksport med følgende trinn.
 
 1. Formatalternativer
-1. Velg modell(er) og revisjon(er)
-1. Velg fletting
-1. Legg til navn og kommentar for prosjektet
-1. Velg deling
-1. Trykk på eksport-knappen
+2. Velg modell(er) og revisjon(er)
+3. Velg fletting
+4. Legg til navn og kommentar for prosjektet
+5. Velg deling
+6. Trykk på eksport-knappen
 
 Klikk her for å lese mer om hvordan du oppretter en ny eksport.
 
@@ -41,19 +41,19 @@ Klikk på modeleksportkortet for å åpne innholdssiden for modeleksport.
 
 Modeleksportkortet inneholder:
 
-_Eksportnavn_ Navnet på eksporten
+**Eksportnavn** Navnet på eksporten
 
-_Eksportmodeller_ Hver modell som er inkludert i denne eksporten. Bak hver modell er den n-te revisjonen som den angitte revisjonen befinner seg i modellen. Klikk på det n-te revisjonsnummeret for å gå direkte til [inkludert revisjoninnholdsside](#h_d5c85d5359) for den revisjonen.
+**Eksportmodeller** Hver modell som er inkludert i denne eksporten. Bak hver modell er den n-te revisjonen som den angitte revisjonen befinner seg i modellen. Klikk på det n-te revisjonsnummeret for å gå direkte til [inkludert revisjoninnholdsside](#h_d5c85d5359) for den revisjonen.
 
 > **Merk:** Det n-te revisjonsnummeret kan være forskjellig fra hovedrevisjonsnummeret/underrevisjonsnummeret som revisjonen kan ha hvis delte statuser er aktivert.
 
-_Eksportoppretter_ Brukernavnet til eksportoppretteren
+**Eksportoppretter** Brukernavnet til eksportoppretteren
 
-_Dato og tid_ Datoen og tiden for eksportopprettelsen
+**Dato og tid** Datoen og tiden for eksportopprettelsen
 
-_Størrelse_ Størrelsen på zip-filen som lastes ned når du klikker på nedlastingsknappen.
+**Størrelse** Størrelsen på zip-filen som lastes ned når du klikker på nedlastingsknappen.
 
-_Nedlasting_ Klikk på nedlastingsknappen for å laste ned modellene som vises.
+**Nedlasting** Klikk på nedlastingsknappen for å laste ned modellene som vises.
 
 > **Merk:** Settet av modeller i hver eksport kan være forskjellig fra når eksporten ble opprettet, avhengig av om hver av modellene fortsatt finnes i prosjektet eller om noen av revisjonene har blitt trukket tilbake.
 
