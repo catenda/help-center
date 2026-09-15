@@ -9,7 +9,7 @@ Catendaに招待された場合、または初めて登録する場合は、こ�
 - [ステップ 1 - アカウント設定](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9030303-ステップ-1-アカウントの設定.md): アカウントを作成してプロジェクトに招待されましょう
 - [ステップ 2 - インターフェース](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10576075-ステップ-2-インターフェース.md): プロジェクト環境の主要エリアに移動します
 - [ステップ 3 - ドキュメント](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10576100-ステップ-3-ドキュメント.md): プロジェクト ドキュメントのアップロード、ダウンロード、表示、コミュニケーション
-- [ステップ 4 - Model](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10576177-ステップ-4-model.md): フェデレーション model を移動して、オブジェクトを表示および選択できます
+- [ステップ 4 - モデル](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10576177-ステップ-4-model.md): 統合モデルを移動して、オブジェクトを表示および選択できます
 - [ステップ 5 - トピック](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10576182-ステップ-5-トピック.md): BIM を使用して、オーサリング ツール全体でプロジェクト関心事について通信する
 - [ステップ 6 - プラグインと統合](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/10576187-ステップ-6-プラグインと統合.md): Catenda をあなたの好みのツールに接続
 
