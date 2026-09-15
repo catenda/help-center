@@ -1,6 +1,6 @@
 # Design Review and Change Orders on a High-Rise
 
-> Industry: Commercial Construction Persona: Maria, a Project Architect at a large firm.
+> Industry: Commercial Construction. Persona: Maria, a Project Architect at a large firm.
 
 ### **Scenario:**
 

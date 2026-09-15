@@ -304,9 +304,9 @@ Short videos
 
 Some typical Use Cases from the Industry, and how Catenda Hub can support your projects.
 
-- [Design Coordination and Issue Resolution - Hospital](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12320207-digital-design-coordination-and-issue-resolution-for-a-hospital-project.md): Industry: Healthcare Construction / BIM (Building Information Modeling)
+- [Design Coordination and Issue Resolution - Hospital](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12320207-digital-design-coordination-and-issue-resolution-for-a-hospital-project.md): Industry: Healthcare Construction / BIM (Building Information Modeling).
 Persona: David, a BIM Coordinator for a large general contractor.
-- [Design Review and Change Orders on a High-Rise](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12323690-design-review-and-change-orders-in-a-high-rise-construction-project.md): Industry: Commercial Construction
+- [Design Review and Change Orders on a High-Rise](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12323690-design-review-and-change-orders-in-a-high-rise-construction-project.md): Industry: Commercial Construction.
 Persona: Maria, a Project Architect at a large firm.
 - [Document Review in Approval Workflow](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12628468-document-review-in-approval-workflow.md)
 - [Final Approval Decisions Made Easy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12629484-final-approval-decisions-made-easy.md)

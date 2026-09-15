@@ -1,6 +1,6 @@
 # Design Coordination and Issue Resolution - Hospital
 
-> Industry: Healthcare Construction / BIM (Building Information Modeling) Persona: David, a BIM Coordinator for a large general contractor.
+> Industry: Healthcare Construction / BIM (Building Information Modeling). Persona: David, a BIM Coordinator for a large general contractor.
 
 **Scenario:** David is managing the digital construction model for a new hospital wing. This is a highly complex project involving dozens of specialized teams. The architectural, structural, and MEP (Mechanical, Electrical, Plumbing) models are constantly being updated by different consulting firms. David's primary responsibility is to federate (combine) these models in Catenda Hub to identify and resolve clashes _before_ they become expensive problems on the construction site.
 
