@@ -50,7 +50,7 @@ _詳細情報:_ [ダッシュボードページ](https://support.catenda.com/en/
 
 これは Catenda Hub の配信エリアで、目的の場所を選択してドラッグ&ドロップするだけで、あらゆるファイル タイプをアップロードできます (Windows エクスプローラーと同じように)。右上隅のアップロード ボタンからもアップロードできます。
 
-![](https://raw.githubusercontent.com/catenda/help-center/main/images/mdxrvj2r/01-uploading.png)
+![](https://raw.githubusercontent.com/catenda/help-center/main/images/mdxrvj2r/01-uploading.ja.png)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/mdxrvj2r/02-uploading.png)
 
