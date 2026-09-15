@@ -1,6 +1,6 @@
 # Coordination de la conception et résolution des problèmes - Hôpital
 
-> Secteur : Construction de santé / BIM (modélisation des informations du bâtiment) Persona : David, coordonnateur BIM pour un grand entrepreneur général.
+> Secteur : Construction de santé / BIM (Modélisation des informations du bâtiment). Persona : David, coordinateur BIM pour un grand entrepreneur général.
 
 **Scénario :** David gère le modèle de construction numérique pour une nouvelle aile d'hôpital. C'est un projet extrêmement complexe impliquant des dizaines d'équipes spécialisées. Les modèles architecturaux, structurels et MEP (Mécanique, Électricité, Plomberie) sont constamment mis à jour par différents cabinets de conseil. La responsabilité principale de David est de fédérer (combiner) ces modèles dans Catenda Hub pour identifier et résoudre les clashes _avant_ qu'ils ne deviennent des problèmes coûteux sur le chantier.
 

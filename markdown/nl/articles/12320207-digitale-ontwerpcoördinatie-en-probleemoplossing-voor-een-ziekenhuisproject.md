@@ -1,6 +1,6 @@
 # Ontwerpcoördinatie en probleemoplossing - Ziekenhuis
 
-> Branche: Ziekenhuisbouw / BIM (Building Information Modeling) Persona: David, BIM-coördinator voor een grote aannemersbedrijf.
+> Industrie: Gezondheidszorg Bouw / BIM (Building Information Modeling). Persona: David, een BIM-coördinator voor een groot bouwbedrijf.
 
 **Scenario:** David beheert het digitale bouwmodel voor een nieuwe ziekenhuisvleugel. Dit is een zeer complex project met tientallen gespecialiseerde teams. De architectonische, constructieve en MEP-modellen (Mechanisch, Elektrisch, Loodgieterswerk) worden constant bijgewerkt door verschillende ingenieursbureaus. Davids primaire verantwoordelijkheid is het integreren (combineren) van deze modellen in Catenda Hub om clashes te identificeren en op te lossen _voordat_ ze dure problemen op de bouwplaats worden.
 

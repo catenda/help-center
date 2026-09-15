@@ -1,6 +1,6 @@
 # Examen de la conception et commandes de modification sur un immeuble de grande hauteur
 
-> Secteur : Construction commerciale Persona : Maria, architecte de projet dans une grande entreprise.
+> Secteur : Construction commerciale. Persona : Maria, architecte de projet dans un grand cabinet.
 
 ### **Scénario :**
 

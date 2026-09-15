@@ -307,9 +307,9 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [承認ワークフローにおけるドキュメントレビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12628468-承認ワークフローにおけるドキュメントレビュー.md)
 - [最終承認決定を簡単に](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12629484-最終承認決定を簡単に.md)
 - [管理者として承認を管理する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12620829-管理者として承認を管理する.md)
-- [設計調整と課題解決 - 病院](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12320207-病院プロジェクトのデジタル設計調整と問題解決.md): 業界: ヘルスケア建設 / BIM (Building Information Modeling) ペルソナ: David、大規模ゼネコンのBIMコーディネーター。
+- [設計調整と課題解決 - 病院](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12320207-病院プロジェクトのデジタル設計調整と問題解決.md): 業界: 医療建設 / BIM (ビルディング インフォメーション モデリング)。ペルソナ: 大規模ゼネコンのBIMコーディネーター、デイビッド。
 - [週間クラッシュレポート](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/13847707-週間クラッシュレポート.md)
-- [高層ビルの設計レビューと変更指示書](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12323690-高層建築プロジェクトにおける設計レビューと変更注文.md): 業界：商業建設　ペルソナ：大規模事務所のプロジェクト・アーキテクト、マリア。
+- [高層ビルの設計レビューと変更指示書](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12323690-高層建築プロジェクトにおける設計レビューと変更注文.md): 業界: 商業建設。ペルソナ: 大規模事務所のプロジェクトアーキテクト、Maria。
 
 ## よくある質問
 

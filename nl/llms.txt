@@ -302,13 +302,13 @@ Korte video's
 ## Gebruiksvoorbeelden
 
 - [Clash-coördinatie op schaal beheren](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/13845605-clash-coördinatie-op-schaal-beheren.md)
-- [Designreview en wijzigingsorders in een hoogbouw](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12323690-ontwerpbeoordeling-en-wijzigingsorders-in-een-highrise-constructieproject.md): Industrie: Commerciële bouw Persona: Maria, een projectarchitect bij een groot bedrijf.
+- [Designreview en wijzigingsorders in een hoogbouw](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12323690-ontwerpbeoordeling-en-wijzigingsorders-in-een-highrise-constructieproject.md): Industrie: Commerciële Bouw. Persoon: Maria, een projectarchitect bij een groot bedrijf.
 - [Documentbeoordeling in goedkeuringswerkstroom](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12628468-documentbeoordeling-in-goedkeuringswerkstroom.md)
 - [Goedkeuringen beheren als beheerder](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12620829-goedkeuringen-beheren-als-beheerder.md)
 - [Goedkeuringen indienen en beheren: gids voor opstellers](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12627979-goedkeuringen-indienen-en-beheren-gids-voor-opstellers.md)
 - [Goedkeuringsbeslissingen gemakkelijk gemaakt](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12629484-goedkeuringsbeslissingen-gemakkelijk-gemaakt.md)
 - [Naamgeving van revisies - Use Cases](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/15886912-naamgeving-van-revisies-use-cases.md): Verken praktijkvoorbeelden van revisienamen. Leer hoe teams ruimte en leesbaarheid in balans brengen met versiereeksen, statusmapping en compacte YYMMDD- of duidelijke YYYYMMDD-voorvoegsels voor chronologische documentsortering.
-- [Ontwerpcoördinatie en probleemoplossing - Ziekenhuis](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12320207-digitale-ontwerpcoördinatie-en-probleemoplossing-voor-een-ziekenhuisproject.md): Branche: Ziekenhuisbouw / BIM (Building Information Modeling) Persona: David, BIM-coördinator voor een grote aannemersbedrijf.
+- [Ontwerpcoördinatie en probleemoplossing - Ziekenhuis](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12320207-digitale-ontwerpcoördinatie-en-probleemoplossing-voor-een-ziekenhuisproject.md): Industrie: Gezondheidszorg Bouw / BIM (Building Information Modeling). Persona: David, een BIM-coördinator voor een groot bouwbedrijf.
 - [Wekelijkse Clash-rapporten](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/13847707-wekelijkse-clash-rapporten.md)
 
 ## Veelgestelde vragen

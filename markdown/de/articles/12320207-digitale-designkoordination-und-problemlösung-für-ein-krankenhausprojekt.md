@@ -1,6 +1,6 @@
 # Design-Koordination und Problemlösung - Krankenhaus
 
-> Branche: Krankenhausbau / BIM (Building Information Modeling) Persona: David, ein BIM-Koordinator für einen großen Generalunternehmer.
+> Branche: Gesundheitswesen-Konstruktion / BIM (Building Information Modeling). Persona: David, BIM-Koordinator bei einem großen Generalunternehmer.
 
 **Szenario:** David verwaltet das digitale Baumodell für einen neuen Krankenhausflügel. Dies ist ein äußerst komplexes Projekt, an dem Dutzende spezialisierter Teams beteiligt sind. Die architektonischen, statischen und MEP-Modelle (Mechanik, Elektrizität, Sanitär) werden ständig von verschiedenen Beratungsunternehmen aktualisiert. Davids Hauptverantwortung besteht darin, diese Modelle in Catenda Hub zu vereinigen, um Kollisionen zu identifizieren und zu beheben, _bevor_ sie zu teuren Problemen auf der Baustelle werden.
 

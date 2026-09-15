@@ -1,6 +1,6 @@
 # Designkoordinering og problemløsning - Sykehus
 
-> Industri: Helsekonstruksjon / BIM (Building Information Modeling) Persona: David, en BIM-koordinator for en stor generalentreprenør.
+> Industri: Helsebygg / BIM (Building Information Modeling). Persona: David, en BIM-koordinator for en stor totalentreprenør.
 
 **Scenario:** David administrerer den digitale konstruksjonsmodellen for en ny sykehusavdeling. Dette er et svært komplekst prosjekt som involverer dusinvis av spesialiserte team. Arkitektur-, struktur- og MEP-modellene (mekanisk, elektrisk, rørleggearbeid) oppdateres konstant av forskjellige konsulentfirmaer. Davids primære ansvar er å federalisere (kombinere) disse modellene i Catenda Hub for å identifisere og løse clashes _før_ de blir dyre problemer på byggeplassen.
 

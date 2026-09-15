@@ -1,6 +1,6 @@
 # Designüberprüfung und Änderungsaufträge bei einem Hochhaus
 
-> Branche: Gewerblicher Hochbau Persona: Maria, eine Projektarchitektin in einem großen Unternehmen.
+> Branche: Gewerblicher Hochbau. Persona: Maria, eine Projektarchitektin in einem großen Unternehmen.
 
 ### **Szenario:**
 

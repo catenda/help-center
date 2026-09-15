@@ -1,6 +1,6 @@
 # Designvurdering og endringsordrer på en høyhus
 
-> Industri: Kommersiell konstruksjon Persona: Maria, en prosjektarkitekt ved et stort firma.
+> Bransje: Kommersielt byggearbeid. Persona: Maria, en prosjektarkitekt i et stort firma.
 
 ### **Scenario:**
 

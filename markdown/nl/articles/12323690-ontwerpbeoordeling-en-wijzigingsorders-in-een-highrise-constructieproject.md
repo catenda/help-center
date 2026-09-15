@@ -1,6 +1,6 @@
 # Designreview en wijzigingsorders in een hoogbouw
 
-> Industrie: Commerciële bouw Persona: Maria, een projectarchitect bij een groot bedrijf.
+> Industrie: Commerciële Bouw. Persoon: Maria, een projectarchitect bij een groot bedrijf.
 
 ### **Scenario:**
 
