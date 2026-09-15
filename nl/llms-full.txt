@@ -7544,23 +7544,21 @@ _Naam_ - _Standaard_ De naam van het document waarin de gedeelde revisie zich be
 
 Revisie - _Standaard_ De naam van de documentrevisie. Dit is hetzelfde als de originele bestandsnaam van het bestand dat is geüpload.
 
-## 3. - _Standaard_
-
-Het hoofd- en klein revisienummer van de gedeelde revisie (#0.1, #0.2, #1.1, enz...)
+\# - _Standaard_ Het hoofd- en klein revisienummer van de gedeelde revisie (#0.1, #0.2, #1.1, enz...)
 
 Status - _Standaard_ De naam van de gedeelde status die op de gedeelde revisie is toegepast.
 
 Verwijderen - _Standaard_ Klik op de x in de kolom Verwijderen om het document dat moet worden beoordeeld uit de lijst met Documenten voor beoordeling te verwijderen.
 
-## 4. **Opslaan als concept**
+## 3. **Opslaan als concept**
 
 Bewerk de goedkeuringsvraag voordat deze wordt ingediend en vergrendeld.
 
-### 4.1 **Meer dan 1000 Documenten in concepten**
+### 3.1 **Meer dan 1000 Documenten in concepten**
 
 Hoewel het mogelijk is om zoveel Documenten toe te voegen aan het dialoogvenster voor revisie toevoegen aan goedkeuringsvraag, is het alleen mogelijk om het dialoogvenster in te dienen met maximaal 1000 documentrevisies. Om meer dan 1000 documentrevisies toe te voegen met de nieuwe validatiewerkstroom, voegt u eerst maximaal 1000 Documenten toe en slaat u de goedkeuringsvraag op als concept. Voeg vervolgens maximaal 1000 Documenten tegelijk toe aan het conceptgoedkeuringsvraag met de acties Documenten toevoegen op de conceptgoedkeuringsvraagpagina voordat u de goedkeuringsvraag indient.
 
-### 4.2 **Begin beoordelingsduur van stap 1 wanneer u gereed bent**
+### 3.2 **Begin beoordelingsduur van stap 1 wanneer u gereed bent**
 
 Zodra de goedkeuringsvraag wordt ingediend, worden de beoordelingsteams die in de eerste stap van de geselecteerde goedkeuringswerkstroom zijn geconfigureerd, belast met het beoordelen van de revisies in de goedkeuringsvraag gedurende de duur van hun goedkeuringsstap. De Leden in de beoordelingsteams kunnen de revisies beoordelen totdat de werkdagen die voor hun goedkeuringsstap zijn geconfigureerd, voorbij zijn. Sla een goedkeuringsvraag op als concept, zodat deze kan worden ingediend zodra de werkstroom gereed is om te beginnen.
 
@@ -7568,7 +7566,7 @@ Zorg ervoor dat de Teams gereed zijn door te communiceren dat hun beoordelingsst
 
 Zorg ervoor dat de uiteindelijke publicatiedatum van de werkstroom op het juiste moment valt door ervoor te zorgen dat het totale aantal werkdagen in de werkstroom aansluit bij de dagen waarop de werkstroom moet worden ingediend.
 
-## 5. **Indienen voor beoordeling**
+## 4. **Indienen voor beoordeling**
 
 Klik op Indienen voor beoordeling om de goedkeuring in te dienen en het goedkeuringsproces te starten. Het volgende is vereist om de goedkeuringsvraag in te dienen voor beoordeling:
 

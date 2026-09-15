@@ -8505,23 +8505,21 @@ _Name_ - _Standard_ Der Name des Dokuments, in dem sich die geteilte Überarbeit
 
 Überarbeitung - _Standard_ Der Name der Dokumentüberarbeitung. Dies ist derselbe wie der ursprüngliche Dateiname der hochgeladenen Datei.
 
-## 3. - _Standard_
-
-Die Haupt- und Nebenversionsnummer der geteilten Überarbeitung (#0.1, #0.2, #1.1, usw.)
+\# - _Standard_ Die Haupt- und Nebenversionsnummer der geteilten Überarbeitung (#0.1, #0.2, #1.1, usw.)
 
 Status - _Standard_ Der Name des gemeinsamen Status, der auf die geteilte Überarbeitung angewendet wird.
 
 Entfernen - _Standard_ Klicken Sie auf das x in der Spalte "Entfernen", um das zu überprüfende Dokument aus der Liste "Dokumente zur Überprüfung" zu entfernen.
 
-## 4. **Als Entwurf speichern**
+## 3. **Als Entwurf speichern**
 
 Bearbeitungsanforderung bearbeiten, bevor sie eingereicht und gesperrt wird.
 
-### 4.1 **Mehr als 1000 Dokumente in Entwürfen**
+### 3.1 **Mehr als 1000 Dokumente in Entwürfen**
 
 Obwohl es möglich ist, beliebig viele Dokumente zum Dialog "Revision hinzufügen zur Genehmigungsanfrage" hinzuzufügen, ist es nur möglich, den Dialog mit bis zu 1000 Dokumentrevision einzureichen. Um mehr als 1000 Dokumentrevisionen mit dem neuen Validierungs-Workflow hinzuzufügen, fügen Sie zunächst bis zu 1000 Dokumente hinzu und speichern Sie die Genehmigungsanfrage als Entwurf. Fügen Sie dann bis zu 1000 Dokumente auf einmal zum Entwurf der Genehmigungsanfrage mit den Aktionen "Dokumente hinzufügen" auf der Seite des Entwurfs der Genehmigungsanfrage hinzu, bevor Sie die Genehmigungsanfrage einreichen.
 
-### 4.2 **Überprüfungsdauer des ersten Schritts starten, wenn bereit**
+### 3.2 **Überprüfungsdauer des ersten Schritts starten, wenn bereit**
 
 Sobald die Genehmigungsanfrage eingereicht wird, werden die im ersten Schritt des ausgewählten Genehmigungsworkflows konfigurierten Überprüfungs-Teams damit beauftragt, die Revisionen in der Genehmigungsanfrage während der Dauer ihres Genehmigungsschritts zu überprüfen. Die Mitglieder in den Überprüfungs-Teams können die Revisionen überprüfen, bis die für ihren Genehmigungsschritt konfigurierten Arbeitstage vorbei sind. Speichern Sie eine Genehmigungsanfrage als Entwurf, damit sie eingereicht werden kann, sobald der Workflow bereit ist zu beginnen.
 
@@ -8529,7 +8527,7 @@ Stellen Sie sicher, dass die Teams bereit sind, indem Sie kommunizieren, dass ih
 
 Stellen Sie sicher, dass das endgültige Veröffentlichungsdatum des Workflows zum richtigen Zeitpunkt endet, indem Sie die Gesamtanzahl der Arbeitstage im Workflow mit den Tagen abstimmen, an denen der Workflow eingereicht werden soll.
 
-## 5. **Zur Überprüfung einreichen**
+## 4. **Zur Überprüfung einreichen**
 
 Klicken Sie auf "Zur Überprüfung einreichen", um die Genehmigung einzureichen und den Genehmigungsprozess zu starten. Folgende Anforderungen müssen erfüllt sein, um die Genehmigungsanfrage zur Überprüfung einzureichen:
 

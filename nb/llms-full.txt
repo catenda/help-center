@@ -14718,23 +14718,21 @@ _Navn_ - _Standard_ Navnet på dokumentet som den delte revisjonen er i. Dokumen
 
 Revisjon - _Standard_ Navnet på dokumentrevisjonen. Dette er det samme som det opprinnelige filnavnet på filen som ble lastet opp.
 
-## 3. - _Standard_
-
-Hoved- og underrevisjonsnummeret for den delte revisjonen (#0.1, #0.2, #1.1, osv...)
+\# - _Standard_ Hoved- og underrevisjonsnummeret for den delte revisjonen (#0.1, #0.2, #1.1, osv...)
 
 Status - _Standard_ Navnet på den delte statusen som brukes på den delte revisjonen.
 
 Fjern - _Standard_ Klikk på x-en i fjern-kolonnen for å fjerne dokumentet som skal vurderes fra listen for dokumenter for vurdering.
 
-## 4. **Lagre som utkast**
+## 3. **Lagre som utkast**
 
 Rediger gjennomgangsforespørselen før den sendes og låses.
 
-### 4.1 **Mer enn 1000 dokumenter i utkast**
+### 3.1 **Mer enn 1000 dokumenter i utkast**
 
 Selv om det er mulig å legge til så mange dokumenter til dialogen for å legge til revisjon til gjennomgangsforespørsel, er det bare mulig å sende dialogen med opptil 1000 dokumentrevisjoner. For å legge til mer enn 1000 dokumentrevisjoner med den nye valideringsarbeidsflyten, legger du først til opptil 1000 dokumenter og lagrer gjennomgangsforespørselen som utkast. Legg deretter til opptil 1000 dokumenter om gangen til utkast-gjennomgangsforespørselen med handlingene for å legge til dokumenter på siden for utkast-gjennomgangsforespørsel før du sender utkast-gjennomgangsforespørselen.
 
-### 4.2 **Start vurderingsvarighet for trinn 1 når klar**
+### 3.2 **Start vurderingsvarighet for trinn 1 når klar**
 
 Så snart gjennomgangsforespørselen sendes, vil vurderingsteamene som er konfigurert i det første trinnet av den valgte gjennomgangsarbeidsflyten få i oppdrag å vurdere revisjonene i gjennomgangsforespørselen i løpet av varigheten av sitt gjennomgangstrinn. Medlemmene i vurderingsteamene vil kunne vurdere revisjonene til arbeidsdagene som er konfigurert for gjennomgangstrinnet deres, er over. Lagre en gjennomgangsforespørsel som utkast slik at den kan sendes så snart arbeidsflyten er klar til å begynne.
 
@@ -14742,7 +14740,7 @@ Sørg for at teamene er klar ved å kommunisere at deres vurderingstrinn er i fe
 
 Sørg for at den endelige publiseringsdatoen for arbeidsflyten ender på rett tid ved å sørge for at du justerer det totale antallet arbeidsdager i arbeidsflyten med dagene for når arbeidsflyten skal sendes.
 
-## 5. **Send til vurdering**
+## 4. **Send til vurdering**
 
 Klikk på Send til vurdering for å sende gjennomgangen og starte gjennomgangsprosessen. Følgende er påkrevd for å sende gjennomgangsforespørselen til vurdering:
 

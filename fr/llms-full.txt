@@ -6981,23 +6981,21 @@ _Nom_ - _Par défaut_ Le nom du document dans lequel se trouve la révision part
 
 Révision - _Par défaut_ Le nom de la révision du document. C'est la même chose que le nom du fichier original du fichier qui a été téléchargé.
 
-## 3. - _Par défaut_
-
-Le numéro de révision principal et mineur de la révision partagée (#0.1, #0.2, #1.1, etc...)
+\# - _Par défaut_ Le numéro de révision principal et mineur de la révision partagée (#0.1, #0.2, #1.1, etc...)
 
 Statut - _Par défaut_ Le nom du statut partagé appliqué à la révision partagée.
 
 Supprimer - _Par défaut_ Cliquez sur le x dans la colonne Supprimer pour retirer le Document à examiner de la liste Documents à examiner.
 
-## 4. **Enregistrer en tant que brouillon**
+## 3. **Enregistrer en tant que brouillon**
 
 Modifiez la demande d'Approbation avant qu'elle ne soit soumise et verrouillée.
 
-### 4.1 **Plus de 1000 Documents dans les brouillons**
+### 3.1 **Plus de 1000 Documents dans les brouillons**
 
 Bien qu'il soit possible d'ajouter autant de Documents au dialogue d'ajout de révision à la demande d'approbation, il est uniquement possible de soumettre le dialogue avec jusqu'à 1000 révisions de Documents. Pour ajouter plus de 1000 révisions de Documents avec le nouveau flux de validation, ajoutez d'abord jusqu'à 1000 Documents et enregistrez la demande d'Approbation en tant que brouillon. Ensuite, ajoutez jusqu'à 1000 Documents à la fois au brouillon de demande d'Approbation avec les actions d'ajout de Documents sur la page de brouillon de demande d'Approbation avant de soumettre la demande d'Approbation.
 
-### 4.2 **Démarrer la durée d'examen de l'étape 1 quand vous êtes prêt**
+### 3.2 **Démarrer la durée d'examen de l'étape 1 quand vous êtes prêt**
 
 Dès que la demande d'Approbation est soumise, les Équipes d'examinateurs configurées à la première étape du flux d'Approbation sélectionné seront chargées d'examiner les révisions dans la demande d'Approbation pendant la durée de leur étape d'Approbation. Les Membres des Équipes d'examinateurs pourront examiner les révisions jusqu'à ce que les jours ouvrables configurés pour leur étape d'Approbation soient écoulés. Enregistrez une demande d'Approbation en tant que brouillon pour qu'elle puisse être soumise dès que le flux de travail est prêt à commencer.
 
@@ -7005,7 +7003,7 @@ Assurez-vous que les Équipes sont prêtes en communiquant que leur étape d'exa
 
 Assurez-vous que la date de publication finale du flux de travail se termine au bon moment en veillant à aligner le nombre total de jours ouvrables du flux de travail avec les jours auxquels le flux de travail doit être soumis.
 
-## 5. **Soumettre pour examen**
+## 4. **Soumettre pour examen**
 
 Cliquez sur Soumettre pour examen pour soumettre l'Approbation et démarrer le processus d'Approbation. Les éléments suivants sont requis pour soumettre la demande d'Approbation pour examen :
 

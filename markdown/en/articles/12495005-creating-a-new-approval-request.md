@@ -66,18 +66,17 @@ _Name_ - _Default_ The name of the document that the shared revision is in. The 
 
 Revision - _Default_ The name of the document revision. This is the same as the orginal filename of the file that was uploaded.
 
-## 3. - _Default_
-The major and minor revision number of the shared revision (#0.1, #0.2, #1.1, etc...)
+\# - _Default_ The major and minor revision number of the shared revision (#0.1, #0.2, #1.1, etc...)
 
 Status - _Default_ The name of the shared status that is applied to the shared revision.
 
 Remove - _Default_ Click on the x in the remove column to remove the document that is to be reviewed from the documents for review list.
 
-## 4. **Save as draft**
+## 3. **Save as draft**
 
 Edit approval request before it is submitted and locked.
 
-### 4.1 **More than 1000 documents in drafts**
+### 3.1 **More than 1000 documents in drafts**
 
 While it is possible to add as many documents to the add revision to appproval request dialogue, it is only possible to submit the dialogue with up to 1000 document revisions. To add more than 1000 document revisions with the new validation workflow, first add up to 1000 documents and save the approval request as a draft. Then add up to 1000 documents at a time to the draft approval request with the add documents actions on the draft approval request page before submitting the approval request.
 
@@ -89,7 +88,7 @@ Ensure that the teams are ready by communicating that their review step is about
 
 Ensure that the final publishing date of the worklfow ends up at the right time by making sure to align the total amount of working days in the workflow with the days of when the workflow is to be submitted by.
 
-## 5. **Submit for review**
+## 4. **Submit for review**
 
 Click on submit for review to submit the approval and start the approval process. The following are required to submit the approval request for review:
 
