@@ -96,9 +96,9 @@ Klik op Indienen voor beoordeling om de goedkeuring in te dienen en het goedkeur
 - Een indiener-Team waarop u namens wilt indienen moet worden geselecteerd
 - Een titel
 - Documenten
-  - Minimaal 1 Document met een geselecteerde gedeelde revision moet worden toegevoegd om de goedkeuring in te kunnen dienen.
-  - Maximaal 1000 documentrevisies met een geselecteerde gedeelde revision kunnen worden toegevoegd.
-  - Om een goedkeuringsvraag met meer dan 1000 documentrevisies aan te maken, maakt u eerst een concept aan met maximaal 1000 revisies en voegt u vervolgens maximaal 1000 documentrevisies tegelijk toe aan het concept voordat u het concept indient voor beoordeling.
+    - Minimaal 1 Document met een geselecteerde gedeelde revision moet worden toegevoegd om de goedkeuring in te kunnen dienen.
+    - Maximaal 1000 documentrevisies met een geselecteerde gedeelde revision kunnen worden toegevoegd.
+    - Om een goedkeuringsvraag met meer dan 1000 documentrevisies aan te maken, maakt u eerst een concept aan met maximaal 1000 revisies en voegt u vervolgens maximaal 1000 documentrevisies tegelijk toe aan het concept voordat u het concept indient voor beoordeling.
 
 Na het indienen van een goedkeuringsvraag voor beoordeling met de nieuwe validatiewerkstroom is het enige wat kan worden gewijzigd dat gedeelde revisiondocumenten uit de vraag kunnen worden verwijderd.
 

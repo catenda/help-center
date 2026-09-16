@@ -76,7 +76,7 @@ Dankzij uw waardevolle feedback hebben we veel problemen kunnen oplossen die je 
 
 - Het is opnieuw mogelijk om filtermenu's in te klappen.
 - Het laden van de dashboardpagina is nu veel sneller voor projecten met veel modellen.
-  - Het laden van modelinformatie in het inhoudsvenster is nu ongeveer 100 keer sneller.
+    - Het laden van modelinformatie in het inhoudsvenster is nu ongeveer 100 keer sneller.
 - Het is opnieuw mogelijk om eerdere revisies te selecteren wanneer u modellen vergelijkt.
 - Het is opnieuw mogelijk om modellen in de 3D-weergave van opgeslagen views te laden.
 - Het is opnieuw mogelijk om rasters in 3D te verbergen.
@@ -84,9 +84,9 @@ Dankzij uw waardevolle feedback hebben we veel problemen kunnen oplossen die je 
 - Objecten die zijn geselecteerd in de boomweergave, worden opnieuw correct gemarkeerd.
 - Het is opnieuw mogelijk om objecten van eigenschappenbibliotheken en gekoppelde objecten te isoleren.
 - Objectkleur/materiaal
-  - Enkele kleuren die eerder werden weergegeven, worden nu opnieuw correct weergegeven.
-  - Objecten verschijnen niet langer zwart in plaats van hun passende kleur.
-  - Vensters zijn opnieuw transparant.
+    - Enkele kleuren die eerder werden weergegeven, worden nu opnieuw correct weergegeven.
+    - Objecten verschijnen niet langer zwart in plaats van hun passende kleur.
+    - Vensters zijn opnieuw transparant.
 - 2D-weergaven zijn opnieuw verwerkt voor een aantal modellen zodat ze niet langer ontbreken.
 - Het is opnieuw mogelijk om objecteigenschappen in het rechtse informatiepaneel te zien.
 

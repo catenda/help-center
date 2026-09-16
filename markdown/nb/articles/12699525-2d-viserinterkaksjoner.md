@@ -49,8 +49,8 @@ _Venstre klikk_ Hvis det er rom på etasjen av 2D-visningen som er aktivert for 
 - _Legg til markør_<br>Legg til en ny markør. Når du har en sak åpen i innholdspanelet, kan du tilordne den valgte markøren. Denne markøren blir ikke lagret og synlig for andre før den legges til en oppgave.
 - _Opprett en ny sak med markør_<br>Opprett en ny sak med markør. Denne markøren blir ikke lagret og synlig for andre før saken sendes inn.
 - _Opprett spørring_
-  - Kryss rom - Opprett en [spørring](https://support.catenda.com/en/articles/4854514-queries) av alle objekter som krysser det valgte rommet
-  - Kryss etasje - Opprett en [spørring](https://support.catenda.com/en/articles/4854514-queries) av alle objekter som krysser denne etasjen
+    - Kryss rom - Opprett en [spørring](https://support.catenda.com/en/articles/4854514-queries) av alle objekter som krysser det valgte rommet
+    - Kryss etasje - Opprett en [spørring](https://support.catenda.com/en/articles/4854514-queries) av alle objekter som krysser denne etasjen
 
 ### 3.2 **Hold musknapp**
 

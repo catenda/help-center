@@ -24,8 +24,8 @@ Vous pouvez filtrer par :
 
 - Mes sujets
 - Statuts et types
-  - Si un statut ou un type est ajouté au projet ou si le nom d'un statut ou d'un type existant est modifié, les sujets ayant ce statut auront le nom du statut et du type, mais la couleur sera grise.
-  - Il ne sera pas possible de filtrer et de voir la couleur de ces statuts jusqu'à ce que vous retourniez à la [page du projet](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) et rouvriez le projet.
+    - Si un statut ou un type est ajouté au projet ou si le nom d'un statut ou d'un type existant est modifié, les sujets ayant ce statut auront le nom du statut et du type, mais la couleur sera grise.
+    - Il ne sera pas possible de filtrer et de voir la couleur de ces statuts jusqu'à ce que vous retourniez à la [page du projet](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) et rouvriez le projet.
 - [Étiquettes](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - Echéance
 - Localisation <br>

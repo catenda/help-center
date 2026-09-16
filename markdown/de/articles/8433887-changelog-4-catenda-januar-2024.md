@@ -116,10 +116,10 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die du mögl
 ### 3.5 **Allgemeines**
 
 - Das Erstellen neuer Projekte aus Vorlagenprojekten wurde verbessert. Es ist jetzt möglich, folgende Teile eines Projekts in ein neues Projekt zu bringen:
-  - Ordnerstruktur
-  - Dokumentstatuskonfiguration
-  - Dokument- und Themenbrettzugriff
-  - Benutzerdefinierte Felder und Benennungskonventionen
+    - Ordnerstruktur
+    - Dokumentstatuskonfiguration
+    - Dokument- und Themenbrettzugriff
+    - Benutzerdefinierte Felder und Benennungskonventionen
 
 ## 4. **Neue Versionen** - Catenda Site, Plugins und Integrationen
 

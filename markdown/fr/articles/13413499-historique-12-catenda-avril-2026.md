@@ -13,24 +13,24 @@ Les fleurs s'épanouissent et le changement est dans l'air alors que les niveaux
 **Gestion des comptes**
 
 - Organisations
-  - [Configuration de l'organisation](https://support.catenda.com/en/articles/13653794-organization-configuration)
-  - [Types d'organisation](https://support.catenda.com/en/articles/13653807-organization-types)
-  - [Configuration de l'organisation et du projet](https://support.catenda.com/en/articles/13653804-organization-and-project-setup)
+    - [Configuration de l'organisation](https://support.catenda.com/en/articles/13653794-organization-configuration)
+    - [Types d'organisation](https://support.catenda.com/en/articles/13653807-organization-types)
+    - [Configuration de l'organisation et du projet](https://support.catenda.com/en/articles/13653804-organization-and-project-setup)
 
 **Fonctionnalités du produit**
 
 - Sujets
-  - [Page des paramètres du modèle de sujet](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)
+    - [Page des paramètres du modèle de sujet](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)
 - Modèles de sujet
-  - [Appliquer un modèle de sujet général lors de la création d'un sujet](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation)
-  - [Appliquer un modèle de sujet de document lors de la création d'une annotation à partir d'un document](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document)
-  - [Appliquer un modèle de sujet d'approbation à un modèle de flux de travail d'approbation](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
+    - [Appliquer un modèle de sujet général lors de la création d'un sujet](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation)
+    - [Appliquer un modèle de sujet de document lors de la création d'une annotation à partir d'un document](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document)
+    - [Appliquer un modèle de sujet d'approbation à un modèle de flux de travail d'approbation](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
 - Entre catégories
-  - [Action Créer un rapport](https://support.catenda.com/en/articles/13973721-create-report-action)
-  - [Action Copier le lien](https://support.catenda.com/en/articles/14323982-copy-link-action)
+    - [Action Créer un rapport](https://support.catenda.com/en/articles/13973721-create-report-action)
+    - [Action Copier le lien](https://support.catenda.com/en/articles/14323982-copy-link-action)
 - Plug-ins et intégrations Catenda
-  - [Journal des modifications du plug-in Revit Catenda - 1.0.15](https://support.catenda.com/en/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
-  - [Journal des modifications du plug-in Archicad Catenda - 1.0.1.17](https://support.catenda.com/en/articles/13449075-catenda-archicad-plugin-changelog-1-0-1-17)
+    - [Journal des modifications du plug-in Revit Catenda - 1.0.15](https://support.catenda.com/en/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
+    - [Journal des modifications du plug-in Archicad Catenda - 1.0.1.17](https://support.catenda.com/en/articles/13449075-catenda-archicad-plugin-changelog-1-0-1-17)
 
 **Dépannage**
 
@@ -45,9 +45,9 @@ Mises à jour récentes
 **Foire aux questions**
 
 - FAQ Sujets
-  - [Localisation 2D des sujets - Site Catenda](https://support.catenda.com/en/articles/13616245-2d-location-of-topics-catenda-site)
+    - [Localisation 2D des sujets - Site Catenda](https://support.catenda.com/en/articles/13616245-2d-location-of-topics-catenda-site)
 - FAQ Projet
-  - [FAQ Champs personnalisés](https://support.catenda.com/en/articles/11384331-custom-fields-faq)
+    - [FAQ Champs personnalisés](https://support.catenda.com/en/articles/11384331-custom-fields-faq)
 
 ### 1.2 **Articles qui ont changé :**
 
@@ -63,44 +63,44 @@ Mises à jour récentes
 **Fonctionnalités du produit**
 
 - Sujets
-  - [Actions du tableau des sujets](https://support.catenda.com/en/articles/4670284-topics-table-actions)
-  - [Menu droit dans un sujet](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic)
-  - [Boîte à outils de formatage des messages](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) (Formatage précédemment des messages)
-  - [Corps du sujet - Le contenu d'un sujet](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
-  - [Vue tableau dans un tableau de sujets](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board)
-  - [Filtrage sur la page des sujets](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
-  - [En-tête de sujet - L'objet d'un sujet](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
+    - [Actions du tableau des sujets](https://support.catenda.com/en/articles/4670284-topics-table-actions)
+    - [Menu droit dans un sujet](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic)
+    - [Boîte à outils de formatage des messages](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) (Formatage précédemment des messages)
+    - [Corps du sujet - Le contenu d'un sujet](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
+    - [Vue tableau dans un tableau de sujets](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board)
+    - [Filtrage sur la page des sujets](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
+    - [En-tête de sujet - L'objet d'un sujet](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
 - Modèles
-  - [Page Objets](https://support.catenda.com/en/articles/12352750-objects-page)
-  - [Page Modèles](https://support.catenda.com/en/articles/4670286-models-page)
-  - [Filtrage sur la page des modèles](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-  - [Filtrage sur la page des objets](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-  - [Actions de la page des contenus du modèle](https://support.catenda.com/en/articles/9674157-model-contents-page-actions)
-  - [Menu droit sur la page des modèles](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
+    - [Page Objets](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Page Modèles](https://support.catenda.com/en/articles/4670286-models-page)
+    - [Filtrage sur la page des modèles](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
+    - [Filtrage sur la page des objets](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - [Actions de la page des contenus du modèle](https://support.catenda.com/en/articles/9674157-model-contents-page-actions)
+    - [Menu droit sur la page des modèles](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
 - Documents
-  - [Actions du tableau des documents](https://support.catenda.com/en/articles/4670288-documents-table-actions)
-  - [Onglet Documents dans une demande d'approbation](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request)
-  - [Page Documents](https://support.catenda.com/en/articles/8204673-documents-page)
-  - [Filtrage sur la page Collections](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
-  - [Filtrage sur la page des documents](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-  - [Filtrage sur la page des approbations](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-  - [Filtrage sur la page des approbations (Héritage)](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+    - [Actions du tableau des documents](https://support.catenda.com/en/articles/4670288-documents-table-actions)
+    - [Onglet Documents dans une demande d'approbation](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request)
+    - [Page Documents](https://support.catenda.com/en/articles/8204673-documents-page)
+    - [Filtrage sur la page Collections](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
+    - [Filtrage sur la page des documents](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+    - [Filtrage sur la page des approbations](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
+    - [Filtrage sur la page des approbations (Héritage)](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
 - Paramètres
-  - [Page du contenu des champs personnalisés](https://support.catenda.com/en/articles/8445588-custom-field-contents-page)
-  - [Filtrage sur la page Membres et Équipes](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
+    - [Page du contenu des champs personnalisés](https://support.catenda.com/en/articles/8445588-custom-field-contents-page)
+    - [Filtrage sur la page Membres et Équipes](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
 - Panneau Arbres
-  - [Panneau d'arborescence des modèles](https://support.catenda.com/en/articles/4670290-model-tree-panel)
+    - [Panneau d'arborescence des modèles](https://support.catenda.com/en/articles/4670290-model-tree-panel)
 - Visionneuses 2D et 3D
-  - [Visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer)
-  - [Paramètres de la visionneuse 3D](https://support.catenda.com/en/articles/5784718-3d-viewer-settings)
-  - [Visionneuse 2D](https://support.catenda.com/en/articles/4854537-2d-viewer)
-  - [Apparence de la visionneuse 2D](https://support.catenda.com/en/articles/13615984-2d-viewer-appearance)
-  - [Sélecteur de révision](https://support.catenda.com/en/articles/4670279-revision-selector)
-  - [Nuages de points dans Catenda](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
+    - [Visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer)
+    - [Paramètres de la visionneuse 3D](https://support.catenda.com/en/articles/5784718-3d-viewer-settings)
+    - [Visionneuse 2D](https://support.catenda.com/en/articles/4854537-2d-viewer)
+    - [Apparence de la visionneuse 2D](https://support.catenda.com/en/articles/13615984-2d-viewer-appearance)
+    - [Sélecteur de révision](https://support.catenda.com/en/articles/4670279-revision-selector)
+    - [Nuages de points dans Catenda](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
 - Plug-ins et intégrations Catenda
-  - Catenda - En tant qu'application
-    - [Visionneuse 2D - Site Catenda](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site)
-    - [Bâtiments et étages de la visionneuse 2D](https://support.catenda.com/en/articles/10901703-2d-viewer-buildings-and-storeys)
+    - Catenda - En tant qu'application
+        - [Visionneuse 2D - Site Catenda](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site)
+        - [Bâtiments et étages de la visionneuse 2D](https://support.catenda.com/en/articles/10901703-2d-viewer-buildings-and-storeys)
 
 **Dépannage**
 
@@ -121,9 +121,9 @@ Mises à jour récentes
 **Foire aux questions**
 
 - FAQ Fonctionnalités du produit
-  - [Aperçu des types de fichiers sur Catenda Hub](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub)
+    - [Aperçu des types de fichiers sur Catenda Hub](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub)
 - FAQ Sujets
-  - [Localisation 2D des sujets](https://support.catenda.com/en/articles/4854523-2d-location-of-topics)
+    - [Localisation 2D des sujets](https://support.catenda.com/en/articles/4854523-2d-location-of-topics)
 - [Recommandation matérielle](https://support.catenda.com/en/articles/6921941-hardware-recommendation)
 - [Optimisation de la visionneuse 3D](https://support.catenda.com/en/articles/13927321-3d-viewer-optimization)
 - [Recommandation réseau](https://support.catenda.com/en/articles/13927294-network-recommendation)
@@ -131,8 +131,8 @@ Mises à jour récentes
 - [Recommandation logiciel système](https://support.catenda.com/en/articles/13927605-system-software-recommendation)
 - [FAQ Fonctionnalités du produit](https://support.catenda.com/en/articles/8263256-project-security)
 - FAQ Gestion des comptes
-  - [Enregistrement et partage d'un lien de filtre](https://support.catenda.com/en/articles/11401493-saving-and-sharing-a-filter-link)
-  - [Limitation des résultats du filtre](https://support.catenda.com/en/articles/8551755-limiting-filter-results)
+    - [Enregistrement et partage d'un lien de filtre](https://support.catenda.com/en/articles/11401493-saving-and-sharing-a-filter-link)
+    - [Limitation des résultats du filtre](https://support.catenda.com/en/articles/8551755-limiting-filter-results)
 
 ## 2. **Nouvelles vidéos dans les playlists**
 

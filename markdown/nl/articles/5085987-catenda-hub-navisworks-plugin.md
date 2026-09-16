@@ -242,20 +242,20 @@ Maak een Topic door een of meer clashes te selecteren Geef het Topic een titel K
 Maak één gecombineerd Topic
 
 - Maak één Topic van de geselecteerde clashes
-  - Maak een Topic met een gezichtspunt voor elke clash die in Navisworks Clash Detective is geselecteerd.
+    - Maak een Topic met een gezichtspunt voor elke clash die in Navisworks Clash Detective is geselecteerd.
 - Maak één Topic van de geselecteerde clashes (Geconsolideerd gezichtspunt)
-  - Maak een Topic met één gezichtspunt dat is uitgezoomd om alle clashes op te nemen die in Navisworks Clash Detective zijn geselecteerd.
+    - Maak een Topic met één gezichtspunt dat is uitgezoomd om alle clashes op te nemen die in Navisworks Clash Detective zijn geselecteerd.
 
 Meerdere Topics maken
 
 - Maak voor elke geselecteerde clash één Topic
-  - Maak een Topic voor elke clash die is geselecteerd in de Catenda Navisworks-plugin.
+    - Maak een Topic voor elke clash die is geselecteerd in de Catenda Navisworks-plugin.
 - Maak voor elke clash-groep één Topic
-  - Maak een Topic voor elke clash-groep die is geselecteerd in de Catenda Navisworks-plugin, met een gezichtspunt voor elke clash in de clash-groep.
+    - Maak een Topic voor elke clash-groep die is geselecteerd in de Catenda Navisworks-plugin, met een gezichtspunt voor elke clash in de clash-groep.
 - Maak voor elke clash-groep één Topic (Geconsolideerd gezichtspunt)
-  - Maak een Topic voor elke clash-groep die is geselecteerd in de Catenda Navisworks-plugin, met één gezichtspunt dat is uitgezoomd om alle geselecteerde clashes op te nemen.
+    - Maak een Topic voor elke clash-groep die is geselecteerd in de Catenda Navisworks-plugin, met één gezichtspunt dat is uitgezoomd om alle geselecteerde clashes op te nemen.
 - Maak voor elke niet-gegroepeerde clash één Topic
-  - Maak een Topic voor elke niet-gegroepeerde clash die is geselecteerd in de Catenda Navisworks-plugin
+    - Maak een Topic voor elke niet-gegroepeerde clash die is geselecteerd in de Catenda Navisworks-plugin
 
 ### 9.4 **Status wijzigen**
 

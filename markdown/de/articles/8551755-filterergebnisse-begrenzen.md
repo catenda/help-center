@@ -53,31 +53,31 @@ Ihre Einstellungen zum Erweitern und Zurückziehen von Filtermenüs auf verschie
 Sie können Filter auf den folgenden Seiten speichern:
 
 - Hauptseite
-  - [Benachrichtigungsseite Konto](https://support.catenda.com/en/articles/7439223-account-notifications-page)
-  - Organisationstool
-    - [Benutzerseite](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-    - [Projektseite](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-    - [Projektmitgliedschaftsseite](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Benachrichtigungsseite Konto](https://support.catenda.com/en/articles/7439223-account-notifications-page)
+    - Organisationstool
+        - [Benutzerseite](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+        - [Projektseite](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+        - [Projektmitgliedschaftsseite](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 - Projekt
-  - [Thematable](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
-  - Modelle
-    - [Modellseite](https://support.catenda.com/en/articles/4670286-models-page)
-    - [Lesezeichenseite](https://support.catenda.com/en/articles/4670281-bookmarks-page)
-    - [Objektseite](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-  - Dokumente
-    - [Dokumentenseite](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-    - [Sammlungsseite](https://support.catenda.com/en/articles/6344318-collections-page)
-    - [Genehmigungsseite](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
-  - Berichte
-    - Seite Berichte
-  - Bibliotheken
-    - [Links-Bibliothek](https://support.catenda.com/en/articles/4670254-links-library)
-    - [Sharepoint-Bibliothek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-    - [Dropbox-Bibliothek](https://support.catenda.com/en/articles/8065645-libraries-page)
-    - [Eigenschaftswertbibliothek](https://support.catenda.com/en/articles/4670252-property-value-library)
-    - [Klassifikationsbibliothek](https://support.catenda.com/en/articles/4670255-classification-library)
-  - [Projektbenachrichtigungsseite](https://support.catenda.com/en/articles/4670295-project-notifications-page)
-  - Projekteinstellungen
-    - [Seite Benutzerdefinierte Felder](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-    - [Etikettenseite](https://support.catenda.com/en/articles/4670265-labels-page)
-    - [Seite Mitglieder](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
+    - [Thematable](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
+    - Modelle
+        - [Modellseite](https://support.catenda.com/en/articles/4670286-models-page)
+        - [Lesezeichenseite](https://support.catenda.com/en/articles/4670281-bookmarks-page)
+        - [Objektseite](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - Dokumente
+        - [Dokumentenseite](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+        - [Sammlungsseite](https://support.catenda.com/en/articles/6344318-collections-page)
+        - [Genehmigungsseite](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+    - Berichte
+        - Seite Berichte
+    - Bibliotheken
+        - [Links-Bibliothek](https://support.catenda.com/en/articles/4670254-links-library)
+        - [Sharepoint-Bibliothek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+        - [Dropbox-Bibliothek](https://support.catenda.com/en/articles/8065645-libraries-page)
+        - [Eigenschaftswertbibliothek](https://support.catenda.com/en/articles/4670252-property-value-library)
+        - [Klassifikationsbibliothek](https://support.catenda.com/en/articles/4670255-classification-library)
+    - [Projektbenachrichtigungsseite](https://support.catenda.com/en/articles/4670295-project-notifications-page)
+    - Projekteinstellungen
+        - [Seite Benutzerdefinierte Felder](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+        - [Etikettenseite](https://support.catenda.com/en/articles/4670265-labels-page)
+        - [Seite Mitglieder](https://support.catenda.com/en/articles/4670291-members-and-teams-page)

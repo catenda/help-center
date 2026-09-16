@@ -8,7 +8,7 @@ Pour télécharger sur votre appareil local :
 
 - Cliquez sur le bouton de téléchargement pour chaque modèle que vous souhaitez télécharger.
 - Les modèles seront enregistrés dans un nouveau dossier portant le nom du projet sous le chemin de téléchargement spécifié dans l'onglet paramètres.
-  - Par exemple : C:\\...\\Documents\\Nom du projet Catenda
+    - Par exemple : C:\\...\\Documents\\Nom du projet Catenda
 
 ## 2. Créer un fichier .nwf fusionné à partir des IFC de Catenda
 

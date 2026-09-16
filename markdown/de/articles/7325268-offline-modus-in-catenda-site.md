@@ -63,7 +63,7 @@ Die folgenden Informationen können zu einem neuen Thema hinzugefügt werden, da
 - Eine Beschreibung kann geschrieben werden
 
 - Kommentare können hinzugefügt werden.
-  - Bilder von Kamera/Fotos können zu Kommentaren hinzugefügt werden.
+    - Bilder von Kamera/Fotos können zu Kommentaren hinzugefügt werden.
 
     _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Gerät
 

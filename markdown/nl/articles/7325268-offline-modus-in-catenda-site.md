@@ -63,7 +63,7 @@ De volgende informatie kan aan een nieuw onderwerp worden toegevoegd dat zonder 
 - Een beschrijving kan worden geschreven
 
 - Opmerkingen kunnen worden toegevoegd.
-  - Afbeeldingen van Camera/foto's kunnen aan opmerkingen worden toegevoegd.
+    - Afbeeldingen van Camera/foto's kunnen aan opmerkingen worden toegevoegd.
 
     _Vereiste toegang:_ Volledige toegang tot het apparaat
 

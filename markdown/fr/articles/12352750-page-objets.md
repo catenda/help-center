@@ -85,11 +85,11 @@ Certaines colonnes du tableau des produits sont activées par défaut tandis que
 En fonction de l'ordre des colonnes configuré, les premières colonnes sont affichées tandis que le tableau peut devoir être fait défiler latéralement pour afficher les autres colonnes activées. Le paramètre d'ordre par défaut et de visibilité des colonnes sur la page des documents est le suivant :
 
 - Attributs
-  - Entité
-  - GlobalId
-  - LongName
-  - Nom
-  - ObjectType
+    - Entité
+    - GlobalId
+    - LongName
+    - Nom
+    - ObjectType
 
 De plus, le tableau des produits peut avoir un nombre quelconque de colonnes en fonction de la quantité de propriétés et d'ensembles de propriétés dans chacun des modèles. Chaque ensemble de colonnes a une catégorie principale avec des sous-catégories. Le bouton bascule peut être utilisé pour activer ou désactiver toute la catégorie. Les catégories peuvent être développées et chaque colonne de la catégorie peut être activée/désactivée individuellement.
 
