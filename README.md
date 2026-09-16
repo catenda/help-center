@@ -2,9 +2,14 @@
 
 > Documentation for Catenda — the open BIM collaboration platform for the construction industry.
 
-The complete Catenda Help Center as plain Markdown — the same articles you can read on
-the help center, in a form that AI assistants, chatbots and search tools can
-consume directly.
+Every publicly available Catenda Help Center article as plain Markdown — the same pages
+you can read on the help center, in a form that AI assistants, chatbots and
+search tools can consume directly.
+
+A small number of help center articles are written for customers of a specific
+product and are only readable by them once signed in. Those are **not** in this
+repository, and `llms.txt` does not list them. If you have access to one on the
+help center and cannot find it here, that is why.
 
 **Just want to read the documentation?** Go to <https://support.catenda.com>. That is the
 version to search, share and link to. This repository is the machine-readable
@@ -27,8 +32,8 @@ that would rather have a single document than follow links.
 
 | Path | Contents |
 | --- | --- |
-| `llms.txt` | Index of every English article — the entry point |
-| `llms-full.txt` | Every English article inlined in one file |
+| `llms.txt` | Index of every public English article — the entry point |
+| `llms-full.txt` | Every public English article inlined in one file |
 | `<lang>/llms.txt` | The same index for one language |
 | `markdown/<lang>/articles/` | One Markdown file per article |
 | `images/` | Screenshots and diagrams the articles refer to |
