@@ -89,6 +89,7 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [Approval Workflows: Admin Rules](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/16238073-approval-workflows-admin-rules.md): Guide for administrators detailing setup rules, flexible configuration options, post-submission parameter locks, and how project configuration changes impact active approval requests.
 - [Approvals page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/12495047-approvals-page.md)
 - [Approvals page - Legacy](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8349340-approvals-page-legacy.md)
+- [Archive Systems and Project Numbers in the Archiving Portal](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/16968887-7acdfbaf.md): Which external archive system the portal submits to, and which project-numbering scheme it records.
 - [BCF workflow using markup tool in Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670335-bcf-workflow-using-markup-tool-in-archicad.md)
 - [BCF Workflow using Naviate for Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670337-bcf-workflow-using-naviate-for-revit.md)
 - [BCF Workflow using NTI Tools for Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670336-bcf-workflow-using-nti-tools-for-revit.md)
@@ -207,6 +208,7 @@ The basic features of Catenda Hub. Look here if you are looking for help for a s
 - [Project panels](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/13141464-project-panels.md)
 - [Project settings page](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670273-project-settings-page.md)
 - [Project specific notification settings](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670262-project-specific-notification-settings.md)
+- [Projects Page on the Archiving Portal](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/16968870-h1mfgfs5.md): Sign in to the Archiving Portal and open a project. Only projects where you are an administrator are listed.
 - [Property Value Library](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/4670252-property-value-library.md)
 - [QR-Code on PDFs in Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9360508-qr-code-on-pdfs-in-catenda.md)
 - [Quantity Take Off (QTO)](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6673929-quantity-take-off-qto.md)
