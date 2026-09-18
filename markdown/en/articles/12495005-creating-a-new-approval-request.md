@@ -100,6 +100,6 @@ Click on submit for review to submit the approval and start the approval process
     - Maximum 1000 document revisions with a selected shared revision can be added.
     - To create an approval request with more than 1000 document revisions, first create a draft with up to 1000 revisions and then add up to 1000 document revisions at a time to the draft before submitting the draft for review.
 
-After submitting an approval request for review with the new validation workflow the only thing that can be changed is that shared revision documents can be discarded from the request.
+After submitting an approval request for review with the new validation workflow the only thing that can be changed is that shared revision documents can be discarded from the request. Members of the submitter team and members of the final reviewer team can discard document revisions throughout the whole workflow. Members of a team assigned to a review step can do it only while that step is the active one.
 
 _Start review duration of step 1 when ready_ As soon as the approval request is submitted the duration of the first review step that is configured in the approval workflow will begin.

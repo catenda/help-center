@@ -28,7 +28,7 @@ This is what the approval header in an open approval can look like:
 
 After the approval creator has submitted the approval in the create approval request dialogue or from a draft approval request the title and the description can still be edited. The workflow can no longer be changed.
 
-> **Note:** Being a member of a submitter team is what allows an approval request to be created, but it does not carry the right to edit an approval request created by another member of that team.
+> **Note:** Being a member of a submitter team is what allows an approval request to be created, but it does not carry the right to edit the title or the description of an approval request created by another member of that team. Discarding document revisions is a separate right, and submitter team members do have it for the whole workflow.
 
 ### 2.1 **Title**
 

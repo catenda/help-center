@@ -26,7 +26,7 @@ If a document that is part of an approval is deleted it can no longer be found a
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/atct6we8/03-document-not-found.png)
 
-Documents that were added to an approval request and that were later deleted can either be recovered by an administrator or discarded from the approval request.
+Documents that were added to an approval request and that were later deleted can either be recovered by an administrator or discarded from the approval request. Members of the submitter team and members of the final reviewer team can discard document revisions throughout the whole workflow. Members of a team assigned to a review step can do it only while that step is the active one.
 
 ### 3.2 **Withdrawn revision**
 
@@ -34,4 +34,4 @@ If a document revision that is part of an approval is withdrawn the revision num
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/atct6we8/04-withdrawn-revision.png)
 
-Document revisions that were added to an approval request and later withdrawn can be discarded from the approval request.
+Document revisions that were added to an approval request and later withdrawn can be discarded from the approval request. This can be done by members of the submitter team or the final reviewer team at any point in the workflow, and by members of a reviewer team while their own step is the active one.
