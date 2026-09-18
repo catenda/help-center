@@ -63,7 +63,7 @@ Følgende informasjon kan legges til en ny sak som opprettes uten tilkobling til
 - En beskrivelse kan skrives
 
 - Kommentarer kan legges til.
-    - Bilder fra kamera/bilder kan legges til kommentarer.
+  - Bilder fra kamera/bilder kan legges til kommentarer.
 
     _Tilgang påkrevd:_ Full tilgang til enheten
 

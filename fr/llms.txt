@@ -219,6 +219,7 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Page Membres](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/11926821-page-membres.md)
 - [Page Modèles](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670286-modeles.md)
 - [Page Objets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12352750-page-objets.md)
+- [Page Projets du Portail d'Archivage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/16968870-page-projets-du-portail-d-archivage.md): Connectez-vous au Portail d'Archivage et ouvrez un projet. Seuls les projets dont vous êtes administrateur sont listés.
 - [Page Rapports](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/12303098-page-rapports.md)
 - [Page Signets](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670281-page-signets.md)
 - [Page Statistiques](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7575491-page-statistiques.md)
@@ -250,6 +251,7 @@ Les fonctionnalités de base de Catenda Hub. Si vous cherchez de l'aide pour une
 - [Révisions dans la convention de nommage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/9496151-révisions-dans-la-convention-de-nommage.md)
 - [Suivi des informations par liaison](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8294909-suivi-des-informations-par-liaison.md)
 - [Suivre les annotations avec les markups](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/10210710-suivre-les-annotations-avec-les-markups.md)
+- [Systèmes d'archivage et numéros de projet dans le portail d'archivage](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/16968887-systèmes-d-archivage-et-numéros-de-projet-dans-le-portail-d-archivage.md): Quel système d'archivage externe le portail soumet, et quel schéma de numérotation de projet il enregistre.
 - [Sélecteur de révision](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/4670279-sélecteur-de-révision.md)
 - [Sélection et découpage à partir de 2D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/8035360-sélection-et-découpage-à-partir-de-2d.md)
 - [Tableau de bord - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/fr/articles/7213817-tableau-de-bord-catenda-site.md)

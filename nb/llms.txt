@@ -74,6 +74,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [Aktivering av Catenda SharePoint-appen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/9419749-aktivering-av-catenda-sharepoint-appen.md)
 - [Arbeidsflyt Catenda Hub - Solibri](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670339-arbeidsflyt-catenda-hub-solibri.md)
 - [Arbeidsflytsside - Dokumentinnstillinger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/12309903-arbeidsflytsside-dokumentinnstillinger.md)
+- [Arkivsystemer og prosjektnumre i arkiveringsportalen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/16968887-arkivsystemer-og-prosjektnumre-i-arkiveringsportalen.md): Hvilket eksternt arkivsystem portalen sender til, og hvilket prosjektnumreringsskjema det registrerer.
 - [Avansert navnekonvensjon](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/7936947-avansert-navnekonvensjon.md)
 - [BCF-arbeidsflyt ved bruk av merknadsverktøy i Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670335-bcf-arbeidsflyt-ved-bruk-av-merknadsverktøy-i-archicad.md)
 - [BCF-arbeidsflyt ved bruk av Naviate for Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670337-bcf-arbeidsflyt-ved-bruk-av-naviate-for-revit.md)
@@ -213,6 +214,7 @@ Catenda Hub sine basisfunksjoner. Se her om du trenger hjelp med spesifikke funk
 - [PDF Sammenlign](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/8461650-pdf-sammenlign.md)
 - [Prosjektinnstillinger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670273-prosjektinnstillinger.md)
 - [Prosjektpaneler](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/13141464-prosjektpaneler.md)
+- [Prosjektsiden i arkiveringsportalen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/16968870-prosjektsiden-i-arkiveringsportalen.md): Logg inn i arkiveringsportalen og åpne et prosjekt. Bare prosjekter der du er administrator, vises.
 - [Prosjektspesifikke varselinnstillinger](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670262-prosjektspesifikke-varselinnstillinger.md)
 - [Prosjektvarselside](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/4670295-prosjektvarselside.md)
 - [Punktskyer i Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nb/articles/5606625-punktskyer-i-catenda-hub.md): Oppdag hvordan du kan dra nytte av laserskann og LIDAR-teknologier i Catenda Hub.

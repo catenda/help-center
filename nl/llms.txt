@@ -80,6 +80,7 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Acties op de pagina Modellen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9431936-acties-op-de-pagina-modellen.md)
 - [Acties op pagina met modelinhoud](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9674157-acties-op-pagina-met-modelinhoud.md)
 - [Acties voor documentrevision](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/9323521-acties-voor-documentrevision.md)
+- [Archiefsystemen en projectnummers in de archiveringsportal](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/16968887-archiefsystemen-en-projectnummers-in-de-archiveringsportal.md): Welk extern archiefsysteem de portal naar verzendt, en welk projectnummeringssysteem het registreert.
 - [BCF-workflow gebruiken met Naviate voor Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670337-bcf-workflow-gebruiken-met-naviate-voor-revit.md)
 - [BCF-workflow met NTI Tools voor Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670336-bcf-workflow-met-nti-tools-voor-revit.md)
 - [BCF-workflow met opmaaktool in Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670335-bcf-workflow-met-opmaaktool-in-archicad.md)
@@ -218,6 +219,7 @@ De basis functies van Catenda Hub. Kijk hier als u hulp nodig heeft met een spec
 - [Pagina Topics](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670271-pagina-topics.md)
 - [Pagina voor conceptgoedkeuringsverzoe](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/12495175-pagina-voor-conceptgoedkeuringsverzoe.md)
 - [PDF Vergelijk](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/8461650-pdf-vergelijk.md)
+- [Projectenpagina op het Archiving Portal](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/16968870-projectenpagina-op-het-archiving-portal.md): Meld u aan bij het Archiving Portal en open een project. Alleen projecten waarvan u een beheerder bent, worden vermeld.
 - [Projectnotificatiepagina](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670295-projectnotificatiepagina.md)
 - [Projectpanelen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/13141464-projectpanelen.md)
 - [Projectspecifieke notificatie-instellingen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/nl/articles/4670262-projectspecifieke-notificatie-instellingen.md)

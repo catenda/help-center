@@ -8,7 +8,7 @@ Slik laster du ned til den lokale enheten:
 
 - Klikk på nedlastingsknappen for hver modell du vil laste ned.
 - Modellene lagres i en ny mappe med prosjektnavnet under nedlastingsbanen som er angitt i fanen Innstillinger.
-    - Eksempel: C:\\...\\Dokumenter\\Catenda-prosjektnavn
+  - Eksempel: C:\\...\\Dokumenter\\Catenda-prosjektnavn
 
 ## 2. Opprette en sammenslått .nwf-fil ved hjelp av IFC-er fra Catenda
 

@@ -78,6 +78,7 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [Aktionen in der Thementabelle](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670284-aktionen-in-der-thementabelle.md)
 - [Aktivierung der Catenda SharePoint-App](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9419749-aktivierung-der-catenda-sharepoint-app.md)
 - [Anmerkungen mit Markups im Blick behalten](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/10210710-anmerkungen-mit-markups-im-blick-behalten.md)
+- [Archivsysteme und Projektnummern im Archivierungsportal](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/16968887-archivsysteme-und-projektnummern-im-archivierungsportal.md): Welches externe Archivsystem das Portal nutzt und welches Projektnummerierungsschema es erfasst.
 - [Auswahl und Clipping aus 2D](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8035360-auswahl-und-clipping-aus-2d.md)
 - [BCF-Arbeitsablauf mit Markup-Tool in Archicad](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670335-bcf-arbeitsablauf-mit-markup-tool-in-archicad.md)
 - [BCF-Workflow mit Naviate für Revit](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670337-bcf-workflow-mit-naviate-für-revit.md)
@@ -190,6 +191,7 @@ Die grundlegenden Funktionen von Catenda Hub. Schauen Sie hier nach, wenn Sie Hi
 - [PDF-Vergleich](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/8461650-pdf-vergleich.md)
 - [Projektbenachrichtigungsseite](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670295-projektbenachrichtigungsseite.md)
 - [Projektpanels](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/13141464-projektpanels.md)
+- [Projektseite im Archivierungsportal](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/16968870-projektseite-im-archivierungsportal.md): Melden Sie sich beim Archivierungsportal an und öffnen Sie ein Projekt. Nur Projekte, bei denen Sie Administrator sind, werden aufgelistet.
 - [Projektspezifische Benachrichtigungseinstellungen](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/4670262-projektspezifische-benachrichtigungseinstellungen.md)
 - [Punktwolken in Catenda Hub](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/5606625-punktwolke-in-catenda-hub.md): Entdecken Sie, wie Sie von Laserscans und LIDAR-Technologien in Catenda Hub profitieren.
 - [QR-Code auf PDFs in Catenda](https://raw.githubusercontent.com/catenda/help-center/main/markdown/de/articles/9360508-qr-code-auf-pdfs-in-catenda.md)

@@ -2551,8 +2551,8 @@ _Linkermuisklik_ Als er spaties zijn in de verdieping van de 2D-weergave die voo
 - _Markering toevoegen_<br>Een nieuwe markering toevoegen. Met een geopend onderwerp in het inhoudsvenster kunt u de geselecteerde markering toewijzen. Deze markering wordt pas opgeslagen en zichtbaar voor anderen als deze aan een probleem wordt toegevoegd.
 - _Een nieuw onderwerp met markering maken_<br>Een nieuw onderwerp met markering maken. Deze markering wordt pas opgeslagen en zichtbaar voor anderen als het onderwerp wordt verzonden.
 - _Query maken_
-    - Spatie kruisen - Een [query](https://support.catenda.com/en/articles/4854514-queries) van alle objecten die elkaar kruisen met de geselecteerde spatie maken
-    - Verdieping kruisen - Een [query](https://support.catenda.com/en/articles/4854514-queries) van alle objecten die deze verdieping kruisen maken
+  - Spatie kruisen - Een [query](https://support.catenda.com/en/articles/4854514-queries) van alle objecten die elkaar kruisen met de geselecteerde spatie maken
+  - Verdieping kruisen - Een [query](https://support.catenda.com/en/articles/4854514-queries) van alle objecten die deze verdieping kruisen maken
 
 ### 3.2 **Muisknop ingedrukt houden**
 
@@ -4406,6 +4406,32 @@ Klik op het downloadpictogram rechtsboven in het revisiemenu of download in het 
 
 Lees meer over het intrekken van revisies [hier](https://support.catenda.com/en/articles/9711174-withdraw-revision) _Vereiste toegang:_ Volledige toegang tot het document
 
+# Archiefsystemen en projectnummers in de archiveringsportal
+
+> Welk extern archiefsysteem de portal naar verzendt, en welk projectnummeringssysteem het registreert.
+
+De andere artikelen van de Archiving Portal beschrijven het archiefsysteem en het projectnummer in algemene termen, omdat wat erachter zit afhangt van de organisatie. Dit artikel noemt wat de portal momenteel ondersteunt.
+
+## 1. **Het archiefsysteem: WebSak+**
+
+De portal verzendt naar **WebSak+**, het archiefsysteem geleverd door **Acos**.
+
+Een indiening gaat niet direct naar WebSak+. De portal stelt de metagegevens van het item samen als XML en geeft deze aan de inzendingsservice van Acos, die de archivering uitvoert. De referentie die die service retourneert, is wat het tabblad **Gearchiveerd** onder **ACOS Ref** weergeeft, dus citeer deze wanneer u vragen hebt over één specifiek gearchiveerd item.
+
+Dit is ook de reden waarom de foutredenen op het tabblad **Gearchiveerd** worden geformuleerd als limieten van het ontvangende archief: maximaal 50 bestanden en maximaal 2300 MB per indiening.
+
+## 2. **Projectnummering: Agresso**
+
+Het **projectnummer** in **Instellingen** is een **Agresso-projectnummer**, 8 tekens lang.
+
+> **Belangrijk:** Het nummer wordt in de portal ingevoerd omdat het het nummer is dat in WebSak+ tegen het project is geregistreerd. Er is geen verbinding tussen de Archiving Portal en Agresso zelf. Er wordt niets uit Agresso gelezen of ernaar geschreven, en er wordt geen validatie tegenaan uitgevoerd, dus voer het nummer zorgvuldig in. De portal kan u niet zeggen dat het fout is.
+
+## 3. **Al het overige**
+
+De portal is gebouwd voor openBIM-projectgegevens in Catenda Hub, dus de documenten en onderwerpen die deze aanbiedt, komen uit Catenda Hub en nergens anders vandaan.
+
+Voor het op andere manieren uit Catenda Hub halen van projectgegevens, inclusief exports, langetermijnformaten en de bevroren archiefoptie, zie [Al projectgegevens exporteren](https://support.catenda.com/en/articles/7946690-exporting-all-project-data).
+
 # BCF-workflow gebruiken met Naviate voor Revit
 
 **BCF van Revit met Naviate naar Bimsync.**
@@ -5620,20 +5646,20 @@ Maak een Topic door een of meer clashes te selecteren Geef het Topic een titel K
 Maak één gecombineerd Topic
 
 - Maak één Topic van de geselecteerde clashes
-    - Maak een Topic met een gezichtspunt voor elke clash die in Navisworks Clash Detective is geselecteerd.
+  - Maak een Topic met een gezichtspunt voor elke clash die in Navisworks Clash Detective is geselecteerd.
 - Maak één Topic van de geselecteerde clashes (Geconsolideerd gezichtspunt)
-    - Maak een Topic met één gezichtspunt dat is uitgezoomd om alle clashes op te nemen die in Navisworks Clash Detective zijn geselecteerd.
+  - Maak een Topic met één gezichtspunt dat is uitgezoomd om alle clashes op te nemen die in Navisworks Clash Detective zijn geselecteerd.
 
 Meerdere Topics maken
 
 - Maak voor elke geselecteerde clash één Topic
-    - Maak een Topic voor elke clash die is geselecteerd in de Catenda Navisworks-plugin.
+  - Maak een Topic voor elke clash die is geselecteerd in de Catenda Navisworks-plugin.
 - Maak voor elke clash-groep één Topic
-    - Maak een Topic voor elke clash-groep die is geselecteerd in de Catenda Navisworks-plugin, met een gezichtspunt voor elke clash in de clash-groep.
+  - Maak een Topic voor elke clash-groep die is geselecteerd in de Catenda Navisworks-plugin, met een gezichtspunt voor elke clash in de clash-groep.
 - Maak voor elke clash-groep één Topic (Geconsolideerd gezichtspunt)
-    - Maak een Topic voor elke clash-groep die is geselecteerd in de Catenda Navisworks-plugin, met één gezichtspunt dat is uitgezoomd om alle geselecteerde clashes op te nemen.
+  - Maak een Topic voor elke clash-groep die is geselecteerd in de Catenda Navisworks-plugin, met één gezichtspunt dat is uitgezoomd om alle geselecteerde clashes op te nemen.
 - Maak voor elke niet-gegroepeerde clash één Topic
-    - Maak een Topic voor elke niet-gegroepeerde clash die is geselecteerd in de Catenda Navisworks-plugin
+  - Maak een Topic voor elke niet-gegroepeerde clash die is geselecteerd in de Catenda Navisworks-plugin
 
 ### 9.4 **Status wijzigen**
 
@@ -6338,7 +6364,7 @@ Het selecteren van een Catenda-project geeft de lijst met issue boards in dit pr
 
 Met de volgende toepassingen kunt u zich aanmelden met Catenda vanuit het hulpmiddel. Na verbinding vindt u deze toepassingen op uw [toepassingenpagina](https://hub.catenda.com/account/apps).
 
-<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; width: 203px; padding: 8px;"><h1 id="h_b26bc0d247">Catenda</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4c564ea3f"><b>Versie</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_6f3aaeddbf"><b>Koppelingtype</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d2798abab2"><b>Bestandstype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_4878236011"><b>Artikel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_ab0da079df"><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/10741601-add-to-home-screen">Toevoegen aan beginscherm</a></i></h3><p>Computer, Android, iPhone & iPad</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Gelijk aan browserervaring </p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-helpartikel</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/10741601-add-to-home-screen">Artikel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3ec891a7da"><i><a class="intercom-content-link" href="https://apps.apple.com/us/app/catenda-site/id1449579790">Catenda Site</a></i></h3><p>Android</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Apple App Store</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site">Artikel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_81aa6fa006"><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile">Catenda Site</a></i></h3><p>iPhone & iPad</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play Store</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site">Artikel</a></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a8d741acc5">​<i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/utS0DhQGTpDhRDKGZ996qmoflx3pvQV5SVfU0xGv2Mfv">Desktop Connector</a></i></h3><p>Windows</p><p>(Bèta voor gouden afbeeldingen)</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.0.8.0</i><br/>(<i>v1.0.8.0 </i>Bèta)</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling<br/>(Bèta is alleen op aanvraag)</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msix<br/>(.msi Bèta)</p><p>(.exe Bèta)</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/8358861-catenda-desktop-connector">Artikel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_e793164bce">Autodesk</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_31004c63d8"><b>Versie</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5ce0f8be3f"><b>Koppelingtype</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_169dc77881"><b>Bestandstype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8106539230"><b>Artikel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_70b0582208"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/rUVzns3zKHLyShlcMXXGc3xkYslHfJKoShbnWYxhm6cD">Revit-invoegtoepassing</a></i></h3><p>Van: Revit 2022 <br/>Tot: Revit 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.15</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msi</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/4670334-catenda-revit-plugin">Artikel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a9dd339be4"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/W8K8xWt63mGXGLZv1zLIxEIOe1jFi4WtVfC58raH2hEI">Navisworks-invoegtoepassing</a></i></h3><p>Tot Navisworks v.2027</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.7.1</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/5085987-catenda-hub-navisworks-plugin">Artikel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_779ed65172">Nemetschek</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b7e4b38efd"><b>Versie</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c79c8e29ad"><b>Koppelingtype</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_357b652053"><b>Bestandstype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_07b38dbb2b"><b>Artikel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f229803e80"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7JItYFSfZavXxFnUEnhlFlR5fQ19VzOQE0CADd52HvkE">Archicad-invoegtoepassing</a></i></h3><p>Windows-versie, <br/>Van: Archicad 23<br/>Tot: Archicad 29</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin">Artikel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b99682ebca"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SDSxROsDGfAwTSJ0PVsSqZT8NuipjJbcOwfhPhPli4Ny">Archicad-invoegtoepassing</a></i></h3><p>MacOS-versie, <br/>Van: Archicad 23 <br/>Tot: Archicad 29 </p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pkg</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin">Artikel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d780c5e605"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/en/articles/6988148-solibri-models-and-documents-integration">Solibri-integratie</a></i></h3><p>OpenCDE-documenten</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-helpartikel</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6988148-solibri-models-and-documents-integration">Artikel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_daa662000f"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/en/articles/4670340-solibri-issues-integration">Solibri-integratie</a></i></h3><p>BCF Live Connector</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-helpartikel</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/4670340-solibri-issues-integration">Artikel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_f992bd97b3">Trimble</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3891575c63"><b>Versie</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b89832736c"><b>Koppelingtype</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b78b005f74"><b>Bestandstype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa34a2fbef"><b>Artikel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b94a406051"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/nwugQqVTOQoPVpH8JwIPyCulWUn7vqOcajZZBbno9g3g">Tekla-invoegtoepassing</a></i></h2><p>Tekla 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.5.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Artikel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b33a50e5b5"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Og5LKde1lxhOH99ClCFDJmf7hjEdb0Xbd7llaAUBzDm6">Tekla-invoegtoepassing</a></i></h2><p>Tekla 2025</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Artikel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fc9d6fa9b1"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Ej8wr3KjQLJqc0SwzGkYSsJEIv7vIGRmzsgTNuAVVC6s">Tekla-invoegtoepassing</a></i></h2><p>Tekla 2024</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Artikel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0e1f7db784"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SOynwGkPMjXsTvgWtMBPhxDGamcrkYySRqRBJgU8mVJc">Tekla-invoegtoepassing</a></i></h3><p>Tekla 2023</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.4.0</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Artikel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8d634ac8fb"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd">Tekla-invoegtoepassing</a></i></h3><p>Tekla 2022</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Artikel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4832576e8"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL">Tekla-invoegtoepassing</a></i></h3><p>Tekla 2021</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Artikel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_192e680211"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy">Tekla-invoegtoepassing</a></i></h3><p>Tekla 2020</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Artikel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_27fdc5fda6"><b>Microsoft</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_587fa9f51a"><b>Versie</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b320dc47be"><b>Koppelingtype</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_990fcd4d5d"><b>Bestandstype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7188141d98"><b>Artikel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c711a5c74b"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/4io1Pw1ygOMqWjhPnLOboYtmSU783IsOglGAJrhct4vu">PowerBI-connector</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/de/articles/5784721-integration-power-bi">Artikel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fd338df316"><i><a class="intercom-content-link" href="https://appsource.microsoft.com/en-us/product/office/WA200005981">SharePoint-app</a></i></h3></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.1.0.0</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Microsoft Appsource</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina<br/>.pkx</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application">Artikel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_0cd8f009f8">SimpleBIM</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_525aec57f8"><b>Versie</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_a624e9a7f5"><b>Koppelingtype</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_88ed17edf2"><b>Bestandstype</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f78109e44"><b>Artikel</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa79838047"><i><a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">SimpleBIM-invoegtoepassing</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v11.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>SimpleBIM-ondersteuningspagina's</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p><p>-> .exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">Artikel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_74b2d2ca9e"><b>VREX</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_2f4ff908c0"><b>Versie</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c57bb5ecf7"><b>Koppelingtype</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_9401a3f00f"><b>Bestandstype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_33112159d7"><b>Artikel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8c731251bc"><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">VREX</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>VREX-integraties</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">Artikel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ae35fa7bb8"><b>12Build</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0c7d2dcc29"><b>Versie</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_35f44b2f33"><b>Koppelingtype</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c7ea788c95"><b>Bestandstype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5c5c0bdbe3"><b>Artikel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_be5086c82b"><i><a class="intercom-content-link" href="https://12build.com/en/">12Build</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>12Build <br/>Ondersteuningspagina's</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.12build.com/en/">Artikel</a></p></td></tr><tr><td style="background-color: #e3e7fa; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_5d4548e65e"><b>Rebro</b></h1></td><td style="background-color: #e3e7fa; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c37aa3af9f"><b>Versie</b></h2></td><td style="background-color: #e3e7fa; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_3c677abfa0"><b>Koppelingtype</b></h2></td><td style="background-color: #e3e7fa; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_305501cb46"><b>Bestandstype</b></h2></td><td style="background-color: #e3e7fa; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f4735ad593"><b>Artikel</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f2b5a0709"><i><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Rebro</a></i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>NYK Systems <br/>Ondersteuningspagina's</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Artikel</a><br/>​</p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="background-color: #e3e7fa80; width: 203px; padding: 8px;"><h1 id="h_b26bc0d247">Catenda</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4c564ea3f"><b>Versie</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_6f3aaeddbf"><b>Koppelingtype</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d2798abab2"><b>Bestandstype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_4878236011"><b>Artikel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_ab0da079df"><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/10741601-add-to-home-screen">Toevoegen aan beginscherm</a></i></h3><p>Computer, Android, iPhone & iPad</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Gelijk aan browserervaring </p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-helpartikel</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/10741601-add-to-home-screen">Artikel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3ec891a7da"><i><a class="intercom-content-link" href="https://apps.apple.com/us/app/catenda-site/id1449579790">Catenda Site</a></i></h3><p>Android</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Apple App Store</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site">Artikel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_81aa6fa006"><i><a class="intercom-content-link" href="https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile">Catenda Site</a></i></h3><p>iPhone & iPad</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v3.5.1</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Google Play Store</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site">Artikel</a></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a8d741acc5">​<i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/utS0DhQGTpDhRDKGZ996qmoflx3pvQV5SVfU0xGv2Mfv">Desktop Connector</a></i></h3><p>Windows</p><p>(Bèta voor gouden afbeeldingen)</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.0.8.0</i><br/>(<i>v1.0.8.0 </i>Bèta)</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling<br/>(Bèta is alleen op aanvraag)</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msix<br/>(.msi Bèta)</p><p>(.exe Bèta)</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/8358861-catenda-desktop-connector">Artikel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_e793164bce">Autodesk</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_31004c63d8"><b>Versie</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5ce0f8be3f"><b>Koppelingtype</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_169dc77881"><b>Bestandstype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8106539230"><b>Artikel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_70b0582208"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/rUVzns3zKHLyShlcMXXGc3xkYslHfJKoShbnWYxhm6cD">Revit-invoegtoepassing</a></i></h3><p>Van: Revit 2022 <br/>Tot: Revit 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.15</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.msi</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/4670334-catenda-revit-plugin">Artikel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_a9dd339be4"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/W8K8xWt63mGXGLZv1zLIxEIOe1jFi4WtVfC58raH2hEI">Navisworks-invoegtoepassing</a></i></h3><p>Tot Navisworks v.2027</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.7.1</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/5085987-catenda-hub-navisworks-plugin">Artikel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_779ed65172">Nemetschek</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b7e4b38efd"><b>Versie</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c79c8e29ad"><b>Koppelingtype</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_357b652053"><b>Bestandstype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_07b38dbb2b"><b>Artikel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_f229803e80"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7JItYFSfZavXxFnUEnhlFlR5fQ19VzOQE0CADd52HvkE">Archicad-invoegtoepassing</a></i></h3><p>Windows-versie, <br/>Van: Archicad 23<br/>Tot: Archicad 29</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin">Artikel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b99682ebca"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SDSxROsDGfAwTSJ0PVsSqZT8NuipjJbcOwfhPhPli4Ny">Archicad-invoegtoepassing</a></i></h3><p>MacOS-versie, <br/>Van: Archicad 23 <br/>Tot: Archicad 29 </p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>1.0.1.17</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.pkg</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin">Artikel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_d780c5e605"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/en/articles/6988148-solibri-models-and-documents-integration">Solibri-integratie</a></i></h3><p>OpenCDE-documenten</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-helpartikel</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6988148-solibri-models-and-documents-integration">Artikel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_daa662000f"><i><a class="intercom-content-link" href="https://intercom.help/bimsync-arena/en/articles/4670340-solibri-issues-integration">Solibri-integratie</a></i></h3><p>BCF Live Connector</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-helpartikel</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/4670340-solibri-issues-integration">Artikel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_f992bd97b3">Trimble</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_3891575c63"><b>Versie</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b89832736c"><b>Koppelingtype</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b78b005f74"><b>Bestandstype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa34a2fbef"><b>Artikel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b94a406051"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/nwugQqVTOQoPVpH8JwIPyCulWUn7vqOcajZZBbno9g3g">Tekla-invoegtoepassing</a></i></h2><p>Tekla 2026</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.5.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Artikel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_b33a50e5b5"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Og5LKde1lxhOH99ClCFDJmf7hjEdb0Xbd7llaAUBzDm6">Tekla-invoegtoepassing</a></i></h2><p>Tekla 2025</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Artikel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fc9d6fa9b1"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/Ej8wr3KjQLJqc0SwzGkYSsJEIv7vIGRmzsgTNuAVVC6s">Tekla-invoegtoepassing</a></i></h2><p>Tekla 2024</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.4.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Artikel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0e1f7db784"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/SOynwGkPMjXsTvgWtMBPhxDGamcrkYySRqRBJgU8mVJc">Tekla-invoegtoepassing</a></i></h3><p>Tekla 2023</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.4.0</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Artikel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8d634ac8fb"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/9SKe2B04zvBKh3WqqReUdJEd7uMQpkoe5CRvuoX9sFrd">Tekla-invoegtoepassing</a></i></h3><p>Tekla 2022</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Artikel</a></i></p></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b4832576e8"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/7uJsmULDaSm9Ls49bzDQg7DG0SgmawCby9ck8b81BjOL">Tekla-invoegtoepassing</a></i></h3><p>Tekla 2021</p></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Artikel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_192e680211"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/PhAopYVIaST0JwOtUyjn6aAnLSycimkjIDvNgdtUducy">Tekla-invoegtoepassing</a></i></h3><p>Tekla 2020</p></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i>v1.1.2</i></p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://support.catenda.com/en/articles/6549656-catenda-hub-tekla-plugin">Artikel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_27fdc5fda6"><b>Microsoft</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_587fa9f51a"><b>Versie</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_b320dc47be"><b>Koppelingtype</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_990fcd4d5d"><b>Bestandstype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_7188141d98"><b>Artikel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c711a5c74b"><i><a class="intercom-content-link" href="https://hub.catenda.com/share/collections/4io1Pw1ygOMqWjhPnLOboYtmSU783IsOglGAJrhct4vu">PowerBI-connector</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.0.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-verzameling</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>.exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/de/articles/5784721-integration-power-bi">Artikel</a></i></p></td></tr><tr><td style="background-color: #e8e8e880; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fd338df316"><i><a class="intercom-content-link" href="https://appsource.microsoft.com/en-us/product/office/WA200005981">SharePoint-app</a></i></h3></td><td style="background-color: #e8e8e880; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v1.1.0.0</p></td><td style="background-color: #e8e8e880; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Microsoft Appsource</p></td><td style="background-color: #e8e8e880; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina<br/>.pkx</p></td><td style="background-color: #e8e8e880; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application">Artikel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_0cd8f009f8">SimpleBIM</h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_525aec57f8"><b>Versie</b></h2></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_a624e9a7f5"><b>Koppelingtype</b></h2></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_88ed17edf2"><b>Bestandstype</b></h2></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f78109e44"><b>Artikel</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_fa79838047"><i><a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">SimpleBIM-invoegtoepassing</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>v11.0</p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>SimpleBIM-ondersteuningspagina's</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p><p>-> .exe</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i> <a class="intercom-content-link" href="https://support.simplebim.com/download-catenda/">Artikel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_74b2d2ca9e"><b>VREX</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_2f4ff908c0"><b>Versie</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c57bb5ecf7"><b>Koppelingtype</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_9401a3f00f"><b>Bestandstype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_33112159d7"><b>Artikel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_8c731251bc"><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">VREX</a></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>VREX-integraties</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><i><a class="intercom-content-link" href="https://www.vrex.no/integrations/catenda/">Artikel</a></i></p></td></tr><tr><td style="background-color: #e3e7fa80; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ae35fa7bb8"><b>12Build</b></h1></td><td style="background-color: #e3e7fa80; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_0c7d2dcc29"><b>Versie</b></h3></td><td style="background-color: #e3e7fa80; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_35f44b2f33"><b>Koppelingtype</b></h3></td><td style="background-color: #e3e7fa80; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_c7ea788c95"><b>Bestandstype</b></h3></td><td style="background-color: #e3e7fa80; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_5c5c0bdbe3"><b>Artikel</b></h3></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h3 id="h_be5086c82b"><i><a class="intercom-content-link" href="https://12build.com/en/">12Build</a></i></h3></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>12Build <br/>Ondersteuningspagina's</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://support.12build.com/en/">Artikel</a></p></td></tr><tr><td style="background-color: #e3e7fa; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_5d4548e65e"><b>Rebro</b></h1></td><td style="background-color: #e3e7fa; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c37aa3af9f"><b>Versie</b></h2></td><td style="background-color: #e3e7fa; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_3c677abfa0"><b>Koppelingtype</b></h2></td><td style="background-color: #e3e7fa; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_305501cb46"><b>Bestandstype</b></h2></td><td style="background-color: #e3e7fa; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f4735ad593"><b>Artikel</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7f2b5a0709"><i><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Rebro</a></i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>NYK Systems <br/>Ondersteuningspagina's</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p><a class="intercom-content-link" href="https://www.nyk-systems.co.jp/feature/addin/catendahub">Artikel</a><br/>​</p></td></tr><tr><td style="background-color: #e3e7fa; width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h1 id="h_ccbdd3aae0"><b>Acos</b></h1></td><td style="background-color: #e3e7fa; width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_67fc299f3a"><b>Versie</b></h2></td><td style="background-color: #e3e7fa; width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_515dacc105"><b>Koppelingen</b></h2></td><td style="background-color: #e3e7fa; width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_31f1ece2a4"><b>Bestandstype</b></h2></td><td style="background-color: #e3e7fa; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7cde189b1c"><b>Artikel</b></h2></td></tr><tr><td style="width: 203px; border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_c3475691f7"><i>WebSak+</i></h2></td><td style="width: 107px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td><td style="width: 131px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Catenda-helpartikel</p></td><td style="width: 108px; border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Webpagina</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p></p></td></tr></tbody></table></div>
 
 # Checklists binnen Issues
 
@@ -12438,11 +12464,11 @@ Sommige kolommen in de productentabel zijn standaard ingeschakeld, terwijl ander
 Op basis van de geconfigureerde kolom volgorde worden de eerste kolommen weergegeven, terwijl de tabel mogelijk zijwaarts moet worden verschoven om andere ingeschakelde kolommen weer te geven. De standaard volgorde en zichtbaarheidsinstelling van de kolommen op de documentenpagina is als volgt:
 
 - Attributen
-    - Entiteit
-    - GlobalId
-    - LongName
-    - Naam
-    - ObjectType
+  - Entiteit
+  - GlobalId
+  - LongName
+  - Naam
+  - ObjectType
 
 Bovendien kan de productentabel elk aantal kolommen hebben, afhankelijk van het aantal eigenschappen en eigenschappensets in elk van de modellen. Elke reeks kolommen heeft een hoofdcategorie met subcategorieën. De schakelknop kan worden gebruikt om de hele categorie in of uit te schakelen. Categorieën kunnen worden uitgevouwen en elke kolom in de categorie kan afzonderlijk worden in- of uitgeschakeld.
 
@@ -12515,7 +12541,7 @@ De volgende informatie kan aan een nieuw onderwerp worden toegevoegd dat zonder 
 - Een beschrijving kan worden geschreven
 
 - Opmerkingen kunnen worden toegevoegd.
-    - Afbeeldingen van Camera/foto's kunnen aan opmerkingen worden toegevoegd.
+  - Afbeeldingen van Camera/foto's kunnen aan opmerkingen worden toegevoegd.
 
     _Vereiste toegang:_ Volledige toegang tot het apparaat
 
@@ -12728,8 +12754,8 @@ Je kunt filteren op:
 
 - Mijn topics
 - Statussen en typen
-    - Als een status of type aan het project wordt toegevoegd of de naam van een bestaande status of type wordt gewijzigd, zullen topics met deze status de naam van de status en het type hebben, maar de kleur wordt grijs.
-    - Het is niet mogelijk om te filteren en de kleur van deze statussen te zien totdat je teruggaat naar de [projectpagina](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) en het project opnieuw opent.
+  - Als een status of type aan het project wordt toegevoegd of de naam van een bestaande status of type wordt gewijzigd, zullen topics met deze status de naam van de status en het type hebben, maar de kleur wordt grijs.
+  - Het is niet mogelijk om te filteren en de kleur van deze statussen te zien totdat je teruggaat naar de [projectpagina](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) en het project opnieuw opent.
 - [Labels](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
 - Vervaldatum
 - Locatie <br>
@@ -15451,6 +15477,66 @@ Het is mogelijk om annotaties van twee vergeleken pdf-revisies te maken. Deze an
 
 ![Afbeeldingsvoorbeeld](https://raw.githubusercontent.com/catenda/help-center/main/images/67ras162/01-annotations-with-compared-documents.gif)
 
+# Projectenpagina op het Archiving Portal
+
+> Meld u aan bij het Archiving Portal en open een project. Alleen projecten waarvan u een beheerder bent, worden vermeld.
+
+Het Archiving Portal stelt u in staat documenten en Topics van Catenda Hub in het externe archiefsysteem van uw organisatie te archiveren. Het is bedoeld voor degenen die verantwoordelijk zijn voor archivering in een of meer projecten.
+
+Open het portal op [archiving.catenda.com](https://archiving.catenda.com) en klik op **Verbinding maken met Catenda Hub**. Het portal heeft geen eigen wachtwoord, dus u verifieert zich bij Catenda Hub en keert hier terug. Voor het account zelf, zie [Aanmeldingspagina](https://support.catenda.com/en/articles/7891486-sign-in-page).
+
+De projectenpagina kan er ongeveer zo uitzien:
+
+![](https://catenda.github.io/help-center-ops/images/h1mfgfs5/01-intro.png)
+
+## 1. **Hoe archivering werkt**
+
+Archivering verloopt in één richting, van Catenda Hub naar uw archiefsysteem van de organisatie. Het portal is de plaats waar u beslist wat er heen gaat en bevestigt dat het is aangekomen.
+
+### 1.1 **Wat archiveerbaar wordt**
+
+Wat gearchiveerd kan worden, wordt in Catenda Hub bepaald, niet in het portal. Een document wordt archiveerbaar wanneer het zich in een map bevindt met het archiefLabel, dit is het label met de naam `Arkivverdig`, tenzij uw project een eigen label definieert. Topics worden op dezelfde manier archiveerbaar, via hun topic board.
+
+Het portal houdt een eigen kopie van wat zich in Catenda Hub bevindt en vernieuwt deze ongeveer elke 30 minuten, dus iets dat u daar zojuist hebt gewijzigd, duurt even voordat het hier verschijnt.
+
+### 1.2 **Kiezen wat er heen gaat**
+
+Alles wat wacht, wordt vermeld op de eigen pagina van een project, met documenten en Topics op afzonderlijke tabbladen. Voor elk item kiest u of u het wilt archiveren, nu overslaan of nooit archiveren, en u kunt de metagegevens corrigeren of bijlagen toevoegen voordat het heen gaat.
+
+Een projectnummer moet worden ingesteld voordat iets kan worden gearchiveerd, omdat dit het nummer is waaronder het item in het archief wordt geregistreerd. Totdat dit is ingesteld, zegt het portal u dit in plaats van archivering.
+
+### 1.3 **Verzenden en wat terugkomt**
+
+Verzenden geeft het item aan het archiefsysteem door, dat het opslaat en een referentie retourneert. Het portal registreert die referentie tegen het item, dus alles wat is gearchiveerd, kan worden teruggevonden tot de kopie in het archief.
+
+Alles wat mislukt, wordt geregistreerd met de reden waarom het mislukte, en kan opnieuw worden verzonden, hetzij één item tegelijk hetzij voor het hele project tegelijk.
+
+> **Opmerking:** De artikelen die elk van deze stappen in detail beschrijven, zijn alleen beschikbaar voor gebruikers met toegang tot het Archiving Portal. Voor informatie over welk archiefsysteem het portal naar verzendt, raadpleeg [Archiefsystemen en projectnummers in het Archiving Portal](https://support.catenda.com/en/articles/16968887-archive-systems-and-project-numbers-in-the-archiving-portal).
+
+## 2. **Uw projecten**
+
+Na aanmelding komt u terecht op **Uw projecten**.
+
+Alleen projecten waarvoor u beheerdersrechten hebt, worden vermeld. Als een project dat u verwacht ontbreekt, controleert u uw rechten daarop in Catenda Hub in plaats van in het portal.
+
+Elk project wordt vermeld met de eigenaar en een aantal documenten en Topics die momenteel wachten om te worden gearchiveerd.
+
+Klik op **Archief beheren** op een project om dit te openen. Wat de projectpagina u vervolgens toont, wordt beschreven in [Projectinhoudenspagina in het Archiving Portal](https://support.catenda.com/en/articles/16968871-project-content-page-in-the-archiving-portal), die alleen door gebruikers met toegang tot het Archiving Portal kan worden gelezen.
+
+> **Opmerking:** Het portal bepaalt welke projecten moeten worden weergegeven door uw teamlidmaatschappen te controleren. Als die controle mislukt, zegt het u dat sommige projecten mogelijk niet zichtbaar zijn, in plaats van stilzwijgend een korte lijst weer te geven.
+
+## 3. **De besturingselementen rechtsboven**
+
+Drie besturingselementen staan rechtsboven, en deze pagina is de eerste plaats waar u eraan ontmoet. Ze blijven beschikbaar zodra u een project opent.
+
+**Taal** Het portal is beschikbaar in het Engels en Noors Bokmål, en de taalverlener schakelt daartussen.
+
+**Statistieken** **Statistieken weergeven** opent een samenvatting van wat in elk project is gearchiveerd. Het pictogram wordt alleen weergegeven voor eigenaren van organisaties en vervangt het tandwielpictogram dat een projectpagina weergeeft. Die pagina wordt beschreven in [Statistiekenpagina in het Archiving Portal](https://support.catenda.com/en/articles/16968884-statistics-page-in-the-archiving-portal), en de cijfers per project in [Projectinstellingenpagina in het Archiving Portal](https://support.catenda.com/en/articles/16968883-project-settings-page-in-the-archiving-portal). Beide artikelen zijn alleen beschikbaar voor gebruikers met toegang tot het Archiving Portal.
+
+**Afmelden** Meldt u af van het portal.
+
+> **Opmerking:** De taalverlener verandert de interface van het portal zelf. De namen van de labels die u in Catenda Hub instelt, worden niet gewijzigd, maar blijven zoals ze daar zijn geschreven. Zelfs de Engelse interface verwijst naar het archiefLabel bij zijn Noorse naam, `Arkivverdig`.
+
 # Projectnotificatiepagina
 
 U vindt de projectnotificatiepagina als de zesde pagina van het linkernavigatiemenu van een project. Deze pagina maakt deel uit van het contentpaneel.
@@ -16136,7 +16222,7 @@ Voor mappen worden de naam van de map weergegeven, samen met labels die aan de m
 - Grootte van de meest recente revisie
 - Maker van de meest recente revisie
 - Aantal 3D-objecten gekoppeld aan het gerelateerde document
-    - Klik op het objectaantal om het 3D-objectactiemenu te openen.
+  - Klik op het objectaantal om het 3D-objectactiemenu te openen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/07-related-folders-and-documents.png)
 
@@ -17952,7 +18038,7 @@ Downloaden naar uw lokale apparaat:
 
 - Klik op de downloadknop voor elk model dat u wilt downloaden.
 - De modellen worden opgeslagen in een nieuwe map met de projectnaam onder het downloadpad dat is opgegeven onder het tabblad Instellingen.
-    - Bijvoorbeeld: C:\\...\\Documenten\\Catenda-projectnaam
+  - Bijvoorbeeld: C:\\...\\Documenten\\Catenda-projectnaam
 
 ## 2. Een samengevoegd .nwf-bestand maken met behulp van IFC's van Catenda
 
@@ -18533,10 +18619,10 @@ Dit is hoe het menu Status werkstroom er kan uitzien nadat de Status werkstroom 
 Wanneer de Status werkstroom is geactiveerd, zullen de volgende dingen in het project veranderen:
 
 - De fasen Concept en Gepubliceerd zijn beschikbaar.
-    - Gepubliceerd - De Status Gepubliceerd staat standaard in de lijst.
-    - Concept - De statussen Werk in uitvoering en Gedeeld staan standaard in de lijst
+  - Gepubliceerd - De Status Gepubliceerd staat standaard in de lijst.
+  - Concept - De statussen Werk in uitvoering en Gedeeld staan standaard in de lijst
 - Nieuwe informatie ingediend in de conceptfase standaard.
-    - Kan met selectievakje in gepubliceerde fase worden geüpload.
+  - Kan met selectievakje in gepubliceerde fase worden geüpload.
 - De standaardstatus is ingesteld op Geen status.
 - Een goedkeuringenmenu verschijnt in documentinstellingen.
 - Een [goedkeuringen](https://support.catenda.com/en/articles/5784717-document-approval)-subpagina op de documentenpagina verschijnt.
@@ -20644,32 +20730,32 @@ Sharelink - [https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7](https
 - [Inhoud verplaatsen](https://eu.guidde.com/share/playbooks/czZ43xf7ncVH7M18yUZoCC?track_link_name=Guidde%20videos%20article&track_link_id=sPNjuWeRpFvutSEWHksvQH&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [Inhoud downloaden](https://eu.guidde.com/share/playbooks/naxhWxhmKhkt5cYbY6iMMj?track_link_name=Share%20content&track_link_id=mq27rMy4BTGzinas9Bbjzf&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Onderwerpen
-    - [Onderwerpsgeschiedenis weergeven](https://eu.guidde.com/share/playbooks/vc9qXCxWe47hbvtGjtn8rJ?track_link_name=Guidde%20videos%20article&track_link_id=wzvf1tHpX9SS44Uq4rCaNo&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Onderwerpen efficiënt beheren met Kanban-weergave](https://eu.guidde.com/share/playbooks/dxTrffF5HbDCdFW4hvMqbm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+  - [Onderwerpsgeschiedenis weergeven](https://eu.guidde.com/share/playbooks/vc9qXCxWe47hbvtGjtn8rJ?track_link_name=Guidde%20videos%20article&track_link_id=wzvf1tHpX9SS44Uq4rCaNo&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Onderwerpen efficiënt beheren met Kanban-weergave](https://eu.guidde.com/share/playbooks/dxTrffF5HbDCdFW4hvMqbm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
 - Modellen
-    - [3D-objecten opvragen met de objectenquery-module](https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [3D-objecten opvragen met de objectenquery-module](https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Documenten
-    - [Een document annoteren met de opmaakfunctie](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Intercom%20article&track_link_id=ug37DphZYP6C9um2nWmdHU&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Twee versies van een PDF-bestand vergelijken](https://eu.guidde.com/share/playbooks/vbHY4udu2xFrUzXrDdGbce?track_link_name=Guidde%20videos%20article&track_link_id=e8rdz5pRh2dZ1NSirRFvcr&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Een naamconventie instellen](https://eu.guidde.com/share/playbooks/gvmH5vCYdrmxz7gHhosVEr?track_link_name=Guidde%20videos%20article&track_link_id=cmU3oSHd7meH6G99TjUYGm&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Een document visualiseren](https://eu.guidde.com/share/playbooks/g7G5vfKW7K29MhYUzkXdZX?track_link_name=Guidde%20videos%20article&track_link_id=vWReacU3bHqyXZtMVQjpar&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - Goedkeuringen
-        - [Goedkeuringswerkstroom-template](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
-        - [Maak een nieuw goedkeuringsverzoek](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
-        - [Goedkeuringen: Documentzichtbaarheid in open goedkeuringswerkstromen](https://eu.guidde.com/share/playbooks/wWhdRkGbbziaHbnbD9Gj8Y?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-        - [Goedkeuringen: "One-Click" toegang tot documentbeoordelingspagina](https://eu.guidde.com/share/playbooks/6e4dQJDoPfjAY84XU282Xp?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-        - [Goedkeuringen: Zichtbaarheid van individuele reviewer in teams Deel 1](https://eu.guidde.com/share/playbooks/oAoCAVdJVGQzMTBYvNPHtm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-        - [Goedkeuringen: Zichtbaarheid van individuele reviewer in teams Deel 2](https://eu.guidde.com/share/playbooks/7fc2J2cZfisYp4VnUF2szF?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-        - [Teamreview in goedkeuringswerkstromen afdwingen](https://eu.guidde.com/share/playbooks/mnNWejVsSnJoH56aHpft5z?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-    - Goedkeuringen - Legacy
-        - [Validatiewerkstroom (conceptmodus)](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Guidde%20videos%20article&track_link_id=rxFhZqPjPGbL867WAwmBDN&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Een document annoteren met de opmaakfunctie](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Intercom%20article&track_link_id=ug37DphZYP6C9um2nWmdHU&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Twee versies van een PDF-bestand vergelijken](https://eu.guidde.com/share/playbooks/vbHY4udu2xFrUzXrDdGbce?track_link_name=Guidde%20videos%20article&track_link_id=e8rdz5pRh2dZ1NSirRFvcr&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Een naamconventie instellen](https://eu.guidde.com/share/playbooks/gvmH5vCYdrmxz7gHhosVEr?track_link_name=Guidde%20videos%20article&track_link_id=cmU3oSHd7meH6G99TjUYGm&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Een document visualiseren](https://eu.guidde.com/share/playbooks/g7G5vfKW7K29MhYUzkXdZX?track_link_name=Guidde%20videos%20article&track_link_id=vWReacU3bHqyXZtMVQjpar&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - Goedkeuringen
+    - [Goedkeuringswerkstroom-template](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
+    - [Maak een nieuw goedkeuringsverzoek](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
+    - [Goedkeuringen: Documentzichtbaarheid in open goedkeuringswerkstromen](https://eu.guidde.com/share/playbooks/wWhdRkGbbziaHbnbD9Gj8Y?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+    - [Goedkeuringen: "One-Click" toegang tot documentbeoordelingspagina](https://eu.guidde.com/share/playbooks/6e4dQJDoPfjAY84XU282Xp?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+    - [Goedkeuringen: Zichtbaarheid van individuele reviewer in teams Deel 1](https://eu.guidde.com/share/playbooks/oAoCAVdJVGQzMTBYvNPHtm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+    - [Goedkeuringen: Zichtbaarheid van individuele reviewer in teams Deel 2](https://eu.guidde.com/share/playbooks/7fc2J2cZfisYp4VnUF2szF?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+    - [Teamreview in goedkeuringswerkstromen afdwingen](https://eu.guidde.com/share/playbooks/mnNWejVsSnJoH56aHpft5z?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+  - Goedkeuringen - Legacy
+    - [Validatiewerkstroom (conceptmodus)](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Guidde%20videos%20article&track_link_id=rxFhZqPjPGbL867WAwmBDN&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Bibliotheken
-    - [Bibliotheek: CSV-classificatie importeren](https://eu.guidde.com/share/playbooks/4h8YZJnKQ4EG5XPtnpWQX7?track_link_name=Guidde%20videos%20article&track_link_id=sda4i6XCjAbwJ5F55z7gVQ&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Catenda Hub - Classificatiebibliothek, Planningsvoorbeeld](https://eu.guidde.com/share/playbooks/dUC7r9rFyR6ZHXGWSpwATk?track_link_name=Guidde%20videos%20article&track_link_id=wHkKLN6wnPLChid8tL1WnH&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Bibliotheek: CSV-classificatie importeren](https://eu.guidde.com/share/playbooks/4h8YZJnKQ4EG5XPtnpWQX7?track_link_name=Guidde%20videos%20article&track_link_id=sda4i6XCjAbwJ5F55z7gVQ&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Catenda Hub - Classificatiebibliothek, Planningsvoorbeeld](https://eu.guidde.com/share/playbooks/dUC7r9rFyR6ZHXGWSpwATk?track_link_name=Guidde%20videos%20article&track_link_id=wHkKLN6wnPLChid8tL1WnH&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Catenda-plugins en integraties
-    - [Catenda Site - Aan de slag](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Catenda Site - 2D Viewer-interacties](https://eu.guidde.com/share/playbooks/7UhKZmCxU5JtPocarxAVfU?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Catenda SharePoint App (Webpart)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Catenda Site - Aan de slag](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Catenda Site - 2D Viewer-interacties](https://eu.guidde.com/share/playbooks/7UhKZmCxU5JtPocarxAVfU?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Catenda SharePoint App (Webpart)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 
 # Hoeveelheid Uittellen (QTO) - Korte video
 
@@ -22888,34 +22974,34 @@ Uw voorkeuren voor het uitbreiden en samenvouwen van filtermenu's op de verschil
 U kunt filters op de volgende pagina's opslaan:
 
 - Startpagina
-    - [Pagina Accountmeldingen](https://support.catenda.com/en/articles/7439223-account-notifications-page)
-    - Organisatietools
-        - [Pagina Gebruikers](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-        - [Pagina Projecten](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-        - [Pagina Projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+  - [Pagina Accountmeldingen](https://support.catenda.com/en/articles/7439223-account-notifications-page)
+  - Organisatietools
+    - [Pagina Gebruikers](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+    - [Pagina Projecten](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+    - [Pagina Projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 - Project
-    - [Onderwerpen tabel](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
-    - Modellen
-        - [Pagina Modellen](https://support.catenda.com/en/articles/4670286-models-page)
-        - [Pagina Opgeslagen weergaven](https://support.catenda.com/en/articles/4670281-bookmarks-page)
-        - [Pagina Objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-    - Documenten
-        - [Pagina Documenten](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-        - [Pagina Verzamelingen](https://support.catenda.com/en/articles/6344318-collections-page)
-        - [Pagina Goedkeuringen](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
-    - Rapporten
-        - Pagina Rapporten
-    - Bibliotheken
-        - [Koppelingenbibliotheek](https://support.catenda.com/en/articles/4670254-links-library)
-        - [Sharepoint-bibliotheek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-        - [Dropbox-bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page)
-        - [Eigenschapwaarde bibliotheek](https://support.catenda.com/en/articles/4670252-property-value-library)
-        - [Classificatiebibliotheek](https://support.catenda.com/en/articles/4670255-classification-library)
-    - [Pagina Projectmeldingen](https://support.catenda.com/en/articles/4670295-project-notifications-page)
-    - Projectinstellingen
-        - [Pagina Aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-        - [Pagina Labels](https://support.catenda.com/en/articles/4670265-labels-page)
-        - [Pagina Leden](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
+  - [Onderwerpen tabel](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
+  - Modellen
+    - [Pagina Modellen](https://support.catenda.com/en/articles/4670286-models-page)
+    - [Pagina Opgeslagen weergaven](https://support.catenda.com/en/articles/4670281-bookmarks-page)
+    - [Pagina Objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+  - Documenten
+    - [Pagina Documenten](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+    - [Pagina Verzamelingen](https://support.catenda.com/en/articles/6344318-collections-page)
+    - [Pagina Goedkeuringen](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+  - Rapporten
+    - Pagina Rapporten
+  - Bibliotheken
+    - [Koppelingenbibliotheek](https://support.catenda.com/en/articles/4670254-links-library)
+    - [Sharepoint-bibliotheek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+    - [Dropbox-bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page)
+    - [Eigenschapwaarde bibliotheek](https://support.catenda.com/en/articles/4670252-property-value-library)
+    - [Classificatiebibliotheek](https://support.catenda.com/en/articles/4670255-classification-library)
+  - [Pagina Projectmeldingen](https://support.catenda.com/en/articles/4670295-project-notifications-page)
+  - Projectinstellingen
+    - [Pagina Aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+    - [Pagina Labels](https://support.catenda.com/en/articles/4670265-labels-page)
+    - [Pagina Leden](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
 
 # Gebruikersfeedback @ Catenda
 
@@ -24524,52 +24610,52 @@ Wanneer nieuwe functies worden uitgebracht en bugs worden opgelost, worden artik
 **Accountbeheer**
 
 - Accountinstellingen
-    - [Notificatiefiltering en functionaliteit](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
-    - [Accountpagina](https://support.catenda.com/en/articles/6880968-account-page)
+  - [Notificatiefiltering en functionaliteit](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
+  - [Accountpagina](https://support.catenda.com/en/articles/6880968-account-page)
 
 **Productfuncties**
 
 - Dashboard
-    - [Dashboardpagina](https://support.catenda.com/en/articles/8212646-dashboard-page)
+  - [Dashboardpagina](https://support.catenda.com/en/articles/8212646-dashboard-page)
 - Onderwerpen
-    - [Filteren op de pagina met topics](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
-    - [Acties in de Topics-tabel](https://support.catenda.com/en/articles/4670284-topics-table-actions)
-    - [Topics naar PDF exporteren](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
-    - [Topickop - Het onderwerp van een topic](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
-    - [Topics uitwisselen](https://support.catenda.com/en/articles/4670289-exchange-topics)
+  - [Filteren op de pagina met topics](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
+  - [Acties in de Topics-tabel](https://support.catenda.com/en/articles/4670284-topics-table-actions)
+  - [Topics naar PDF exporteren](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
+  - [Topickop - Het onderwerp van een topic](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
+  - [Topics uitwisselen](https://support.catenda.com/en/articles/4670289-exchange-topics)
 - Modellen
-    - [Revisiekiezer](https://support.catenda.com/en/articles/4670279-revision-selector)
-    - [Filteren op de pagina met objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-    - [Filteren op de pagina met modellen](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-    - [Rechtermenu op de pagina met modellen](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
-    - [Vervolgkeuze schuifvlak](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
-    - [Pagina met bladwijzerstartinhoud](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
+  - [Revisiekiezer](https://support.catenda.com/en/articles/4670279-revision-selector)
+  - [Filteren op de pagina met objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+  - [Filteren op de pagina met modellen](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
+  - [Rechtermenu op de pagina met modellen](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
+  - [Vervolgkeuze schuifvlak](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
+  - [Pagina met bladwijzerstartinhoud](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
 - Documenten
-    - [Pagina met overzicht van documenttoegang](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
-    - [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-    - [Toegangsbeheer voor mappen en documenten](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
-    - [Een nieuwe werkstroom maken](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
-    - [Pagina Werkstromen - Documentinstellingen](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
-    - [Gereedschappen voor documentvoorvertoning](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-    - [Een zip-bestand / bestandsstructuur uploaden](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
-    - [Filteren op de pagina met verzamelingen](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
-    - [Filteren op de goedkeuringspagina](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-    - [Filteren op de goedkeuringspagina - Legacy](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+  - [Pagina met overzicht van documenttoegang](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
+  - [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+  - [Toegangsbeheer voor mappen en documenten](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
+  - [Een nieuwe werkstroom maken](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
+  - [Pagina Werkstromen - Documentinstellingen](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
+  - [Gereedschappen voor documentvoorvertoning](https://support.catenda.com/en/articles/11384618-document-preview-tools)
+  - [Een zip-bestand / bestandsstructuur uploaden](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
+  - [Filteren op de pagina met verzamelingen](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
+  - [Filteren op de goedkeuringspagina](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
+  - [Filteren op de goedkeuringspagina - Legacy](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
 - Instellingen
-    - [Filteren op de pagina met leden en teams](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
+  - [Filteren op de pagina met leden en teams](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
 - 2D- en 3D-viewers
-    - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
-    - [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
+  - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
+  - [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
 - Catenda-plugins en integraties
-    - [Revit IFC Export Handboek](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual)
-    - [IFC Export Archicad Handboek](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
-    - [Catenda Navisworks-plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
-    - [Catenda Archicad-plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
-    - [Catenda Revit-plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
-    - [Catenda Power BI-connector](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector)
-    - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
-    - [Catenda Tekla-plugin](https://support.catenda.com/en/articles/6549656-catenda-tekla-plugin)
-    - [Probleemoplossing voor Desktop Connector](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting)
+  - [Revit IFC Export Handboek](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual)
+  - [IFC Export Archicad Handboek](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
+  - [Catenda Navisworks-plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
+  - [Catenda Archicad-plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
+  - [Catenda Revit-plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
+  - [Catenda Power BI-connector](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector)
+  - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
+  - [Catenda Tekla-plugin](https://support.catenda.com/en/articles/6549656-catenda-tekla-plugin)
+  - [Probleemoplossing voor Desktop Connector](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting)
 
 **Probleemoplossing**
 
@@ -24578,10 +24664,10 @@ Wanneer nieuwe functies worden uitgebracht en bugs worden opgelost, worden artik
 **Gebruikszaken**
 
 - Goedkeuringen
-    - [Documentbeoordeling in goedkeuringswerkstroom](https://support.catenda.com/en/articles/12628468-document-review-in-approval-workflow)
-    - [Goedkeuringen indienen en beheren: gids voor redacteurs](https://support.catenda.com/en/articles/12627979-submit-manage-approvals-guide-for-drafters)
-    - [Eindgoedkeuringsbeslissingen gemakkelijk gemaakt](https://support.catenda.com/en/articles/12629484-final-approval-decisions-made-easy)
-    - [Goedkeuringen beheren als beheerder](https://support.catenda.com/en/articles/12620829-managing-approvals-as-administrator)
+  - [Documentbeoordeling in goedkeuringswerkstroom](https://support.catenda.com/en/articles/12628468-document-review-in-approval-workflow)
+  - [Goedkeuringen indienen en beheren: gids voor redacteurs](https://support.catenda.com/en/articles/12627979-submit-manage-approvals-guide-for-drafters)
+  - [Eindgoedkeuringsbeslissingen gemakkelijk gemaakt](https://support.catenda.com/en/articles/12629484-final-approval-decisions-made-easy)
+  - [Goedkeuringen beheren als beheerder](https://support.catenda.com/en/articles/12620829-managing-approvals-as-administrator)
 
 **Veelgestelde vragen**
 
@@ -24612,7 +24698,7 @@ Dankzij je waardevolle feedback hebben we veel topics kunnen oplossen die je al 
 
 - Het is opnieuw mogelijk voor gebruikers met MFA ingeschakeld om de inhoud van projecten via plugins en integraties te openen.
 - Catenda als toepassing
-    - Het is opnieuw mogelijk om zowel de 3D-viewer als de inhoudspanelen tegelijk open te hebben in plaats van één tegelijk op 11-inch iPad's
+  - Het is opnieuw mogelijk om zowel de 3D-viewer als de inhoudspanelen tegelijk open te hebben in plaats van één tegelijk op 11-inch iPad's
 
 ## 3. **Gebruikersstemmen voltooid**
 
@@ -24662,24 +24748,24 @@ Naarmate nieuwe functies uitrollen en bugs worden opgelost, worden artikelen bij
 **Accountbeheer**
 
 - Organisaties
-    - [Organisatieconfiguratie](https://support.catenda.com/en/articles/13653794-organization-configuration)
-    - [Organisatietypen](https://support.catenda.com/en/articles/13653807-organization-types)
-    - [Organisatie- en projectopstelling](https://support.catenda.com/en/articles/13653804-organization-and-project-setup)
+  - [Organisatieconfiguratie](https://support.catenda.com/en/articles/13653794-organization-configuration)
+  - [Organisatietypen](https://support.catenda.com/en/articles/13653807-organization-types)
+  - [Organisatie- en projectopstelling](https://support.catenda.com/en/articles/13653804-organization-and-project-setup)
 
 **Productfuncties**
 
 - Onderwerpen
-    - [Instellingenpagina onderwerpsjabloon](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)
+  - [Instellingenpagina onderwerpsjabloon](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)
 - Onderwerpsjablonen
-    - [Een algemeen onderwerpsjabloon toepassen bij het maken van onderwerpen](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation)
-    - [Een onderwerpsjabloon voor documenten toepassen wanneer u een markering uit een document maakt](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document)
-    - [Een onderwerpsjabloon voor goedkeuring toepassen op een goedkeuringswerkstroomsjabloon](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
+  - [Een algemeen onderwerpsjabloon toepassen bij het maken van onderwerpen](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation)
+  - [Een onderwerpsjabloon voor documenten toepassen wanneer u een markering uit een document maakt](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document)
+  - [Een onderwerpsjabloon voor goedkeuring toepassen op een goedkeuringswerkstroomsjabloon](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
 - Categorieoverschrijdend
-    - [Rapportactie maken](https://support.catenda.com/en/articles/13973721-create-report-action)
-    - [Koppelingsactie kopiëren](https://support.catenda.com/en/articles/14323982-copy-link-action)
+  - [Rapportactie maken](https://support.catenda.com/en/articles/13973721-create-report-action)
+  - [Koppelingsactie kopiëren](https://support.catenda.com/en/articles/14323982-copy-link-action)
 - Catenda-plugins en integraties
-    - [Catenda Revit-plugin changelog - 1.0.15](https://support.catenda.com/en/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
-    - [Catenda Archicad-plugin changelog - 1.0.1.17](https://support.catenda.com/en/articles/13449075-catenda-archicad-plugin-changelog-1-0-1-17)
+  - [Catenda Revit-plugin changelog - 1.0.15](https://support.catenda.com/en/articles/13449051-catenda-revit-plugin-changelog-1-0-15)
+  - [Catenda Archicad-plugin changelog - 1.0.1.17](https://support.catenda.com/en/articles/13449075-catenda-archicad-plugin-changelog-1-0-1-17)
 
 **Probleemoplossing**
 
@@ -24694,9 +24780,9 @@ Recente updates
 **Veelgestelde vragen**
 
 - Veelgestelde vragen over onderwerpen
-    - [2D-locatie van onderwerpen - Catenda-site](https://support.catenda.com/en/articles/13616245-2d-location-of-topics-catenda-site)
+  - [2D-locatie van onderwerpen - Catenda-site](https://support.catenda.com/en/articles/13616245-2d-location-of-topics-catenda-site)
 - Projectveelgestelde vragen
-    - [Veelgestelde vragen over aangepaste velden](https://support.catenda.com/en/articles/11384331-custom-fields-faq)
+  - [Veelgestelde vragen over aangepaste velden](https://support.catenda.com/en/articles/11384331-custom-fields-faq)
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
@@ -24712,44 +24798,44 @@ Recente updates
 **Productfuncties**
 
 - Onderwerpen
-    - [Onderwerpentabel acties](https://support.catenda.com/en/articles/4670284-topics-table-actions)
-    - [Menu aan de rechterkant in een onderwerp](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic)
-    - [Werkbalk voor post-opmaak](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) (Eerder opmaak van berichten)
-    - [Onderwerpstekst - De inhoud van een onderwerp](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
-    - [Tabelweergave in een onderwerpenbord](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board)
-    - [Filteren op de onderwerpenenpagina](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
-    - [Onderwerpkop - Het onderwerp van een onderwerp](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
+  - [Onderwerpentabel acties](https://support.catenda.com/en/articles/4670284-topics-table-actions)
+  - [Menu aan de rechterkant in een onderwerp](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic)
+  - [Werkbalk voor post-opmaak](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) (Eerder opmaak van berichten)
+  - [Onderwerpstekst - De inhoud van een onderwerp](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
+  - [Tabelweergave in een onderwerpenbord](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board)
+  - [Filteren op de onderwerpenenpagina](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
+  - [Onderwerpkop - Het onderwerp van een onderwerp](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
 - Modellen
-    - [Objectenpagina](https://support.catenda.com/en/articles/12352750-objects-page)
-    - [Modelenpagina](https://support.catenda.com/en/articles/4670286-models-page)
-    - [Filteren op de modelenpagina](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-    - [Filteren op de objectenpagina](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-    - [Acties op de modelinhoudfenpagina](https://support.catenda.com/en/articles/9674157-model-contents-page-actions)
-    - [Menu aan de rechterkant op de modelenpagina](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
+  - [Objectenpagina](https://support.catenda.com/en/articles/12352750-objects-page)
+  - [Modelenpagina](https://support.catenda.com/en/articles/4670286-models-page)
+  - [Filteren op de modelenpagina](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
+  - [Filteren op de objectenpagina](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+  - [Acties op de modelinhoudfenpagina](https://support.catenda.com/en/articles/9674157-model-contents-page-actions)
+  - [Menu aan de rechterkant op de modelenpagina](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
 - Documenten
-    - [Documententabel acties](https://support.catenda.com/en/articles/4670288-documents-table-actions)
-    - [Documententabblad in een goedkeuringsverzoek](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request)
-    - [Documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page)
-    - [Filteren op de Collections-pagina](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
-    - [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-    - [Filteren op de pagina Goedkeuringen](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-    - [Filteren op de pagina Goedkeuringen (Verouderd)](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+  - [Documententabel acties](https://support.catenda.com/en/articles/4670288-documents-table-actions)
+  - [Documententabblad in een goedkeuringsverzoek](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request)
+  - [Documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page)
+  - [Filteren op de Collections-pagina](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
+  - [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+  - [Filteren op de pagina Goedkeuringen](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
+  - [Filteren op de pagina Goedkeuringen (Verouderd)](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
 - Instellingen
-    - [Inhoudfenpagina voor aangepaste velden](https://support.catenda.com/en/articles/8445588-custom-field-contents-page)
-    - [Filteren op de pagina Leden en Teams](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
+  - [Inhoudfenpagina voor aangepaste velden](https://support.catenda.com/en/articles/8445588-custom-field-contents-page)
+  - [Filteren op de pagina Leden en Teams](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
 - Boomstructuurpaneel
-    - [Modelboomstructuurpaneel](https://support.catenda.com/en/articles/4670290-model-tree-panel)
+  - [Modelboomstructuurpaneel](https://support.catenda.com/en/articles/4670290-model-tree-panel)
 - 2D- en 3D-viewers
-    - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
-    - [Instellingen 3D-viewer](https://support.catenda.com/en/articles/5784718-3d-viewer-settings)
-    - [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
-    - [Uiterlijk 2D-viewer](https://support.catenda.com/en/articles/13615984-2d-viewer-appearance)
-    - [Revisiekiezer](https://support.catenda.com/en/articles/4670279-revision-selector)
-    - [Puntenwolken in Catenda](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
+  - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
+  - [Instellingen 3D-viewer](https://support.catenda.com/en/articles/5784718-3d-viewer-settings)
+  - [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
+  - [Uiterlijk 2D-viewer](https://support.catenda.com/en/articles/13615984-2d-viewer-appearance)
+  - [Revisiekiezer](https://support.catenda.com/en/articles/4670279-revision-selector)
+  - [Puntenwolken in Catenda](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
 - Catenda-plugins en integraties
-    - Catenda - Als een toepassing
-        - [2D-viewer - Catenda-site](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site)
-        - [2D-viewer gebouwen en verdiepingen](https://support.catenda.com/en/articles/10901703-2d-viewer-buildings-and-storeys)
+  - Catenda - Als een toepassing
+    - [2D-viewer - Catenda-site](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site)
+    - [2D-viewer gebouwen en verdiepingen](https://support.catenda.com/en/articles/10901703-2d-viewer-buildings-and-storeys)
 
 **Probleemoplossing**
 
@@ -24770,9 +24856,9 @@ Recente updates
 **Veelgestelde vragen**
 
 - Veelgestelde vragen over productfuncties
-    - [Bestandstypen weergeven op Catenda Hub](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub)
+  - [Bestandstypen weergeven op Catenda Hub](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub)
 - Veelgestelde vragen over onderwerpen
-    - [2D-locatie van onderwerpen](https://support.catenda.com/en/articles/4854523-2d-location-of-topics)
+  - [2D-locatie van onderwerpen](https://support.catenda.com/en/articles/4854523-2d-location-of-topics)
 - [Hardwareaanbeveling](https://support.catenda.com/en/articles/6921941-hardware-recommendation)
 - [3D-viewer optimalisatie](https://support.catenda.com/en/articles/13927321-3d-viewer-optimization)
 - [Netwerkaanbeveling](https://support.catenda.com/en/articles/13927294-network-recommendation)
@@ -24780,8 +24866,8 @@ Recente updates
 - [Aanbeveling systeemsoft](https://support.catenda.com/en/articles/13927605-system-software-recommendation)
 - [Veelgestelde vragen over productfuncties](https://support.catenda.com/en/articles/8263256-project-security)
 - Veelgestelde vragen over accountbeheer
-    - [Een filterkoppeling opslaan en delen](https://support.catenda.com/en/articles/11401493-saving-and-sharing-a-filter-link)
-    - [Filterresultaten beperken](https://support.catenda.com/en/articles/8551755-limiting-filter-results)
+  - [Een filterkoppeling opslaan en delen](https://support.catenda.com/en/articles/11401493-saving-and-sharing-a-filter-link)
+  - [Filterresultaten beperken](https://support.catenda.com/en/articles/8551755-limiting-filter-results)
 
 ## 2. **Nieuwe video's in afspeellijsten**
 
@@ -25330,7 +25416,7 @@ Dankzij uw waardevolle feedback hebben we veel problemen kunnen oplossen die je 
 
 - Het is opnieuw mogelijk om filtermenu's in te klappen.
 - Het laden van de dashboardpagina is nu veel sneller voor projecten met veel modellen.
-    - Het laden van modelinformatie in het inhoudsvenster is nu ongeveer 100 keer sneller.
+  - Het laden van modelinformatie in het inhoudsvenster is nu ongeveer 100 keer sneller.
 - Het is opnieuw mogelijk om eerdere revisies te selecteren wanneer u modellen vergelijkt.
 - Het is opnieuw mogelijk om modellen in de 3D-weergave van opgeslagen views te laden.
 - Het is opnieuw mogelijk om rasters in 3D te verbergen.
@@ -25338,9 +25424,9 @@ Dankzij uw waardevolle feedback hebben we veel problemen kunnen oplossen die je 
 - Objecten die zijn geselecteerd in de boomweergave, worden opnieuw correct gemarkeerd.
 - Het is opnieuw mogelijk om objecten van eigenschappenbibliotheken en gekoppelde objecten te isoleren.
 - Objectkleur/materiaal
-    - Enkele kleuren die eerder werden weergegeven, worden nu opnieuw correct weergegeven.
-    - Objecten verschijnen niet langer zwart in plaats van hun passende kleur.
-    - Vensters zijn opnieuw transparant.
+  - Enkele kleuren die eerder werden weergegeven, worden nu opnieuw correct weergegeven.
+  - Objecten verschijnen niet langer zwart in plaats van hun passende kleur.
+  - Vensters zijn opnieuw transparant.
 - 2D-weergaven zijn opnieuw verwerkt voor een aantal modellen zodat ze niet langer ontbreken.
 - Het is opnieuw mogelijk om objecteigenschappen in het rechtse informatiepaneel te zien.
 
@@ -25402,33 +25488,33 @@ Terwijl nieuwe functies worden uitgerold en bugs worden opgelost, worden artikel
 **Productfuncties**
 
 - Modellen
-    - [Acties modellenpagina](https://support.catenda.com/en/articles/9431936-models-page-actions)
-    - [Acties modelloversichtpagina](https://support.catenda.com/en/articles/9674157-model-overview-page-actions)
-    - [Hoeveelheid (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
+  - [Acties modellenpagina](https://support.catenda.com/en/articles/9431936-models-page-actions)
+  - [Acties modelloversichtpagina](https://support.catenda.com/en/articles/9674157-model-overview-page-actions)
+  - [Hoeveelheid (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
 - Onderwerpen
-    - [Mijlpagina](https://support.catenda.com/en/articles/4670266-milestones-page)
+  - [Mijlpagina](https://support.catenda.com/en/articles/4670266-milestones-page)
 - Documenten
-    - [Rechtermenu van een revisie - Revisie-informatie](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
-    - [Acties documentstructuur](https://support.catenda.com/en/articles/4670288-document-structure-actions)
-    - [Acties documentrevisie](https://support.catenda.com/en/articles/9323521-document-revision-actions)
-    - [Documentvoorbeeld en aantekeningen](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=4496538&activeContentType=article&editorMode=view&search=document%20preview)
-    - [Kolommen op de documentenpagina](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
-    - [Revisie publiceren - ISO 19650](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650)
-    - [Een zip-/bestandsstructuur uploaden](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
-    - [Verzamelingenpagina](https://support.catenda.com/en/articles/6344318-collections-page)
+  - [Rechtermenu van een revisie - Revisie-informatie](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
+  - [Acties documentstructuur](https://support.catenda.com/en/articles/4670288-document-structure-actions)
+  - [Acties documentrevisie](https://support.catenda.com/en/articles/9323521-document-revision-actions)
+  - [Documentvoorbeeld en aantekeningen](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=4496538&activeContentType=article&editorMode=view&search=document%20preview)
+  - [Kolommen op de documentenpagina](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
+  - [Revisie publiceren - ISO 19650](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650)
+  - [Een zip-/bestandsstructuur uploaden](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
+  - [Verzamelingenpagina](https://support.catenda.com/en/articles/6344318-collections-page)
 - Projectinstellingen
-    - [Projectinstellingenpagina](https://support.catenda.com/en/articles/4670273-project-settings-page)
-    - [Aangepaste veldenpagina](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-    - [Leden pagina](https://support.catenda.com/en/articles/4670291-members-page)
+  - [Projectinstellingenpagina](https://support.catenda.com/en/articles/4670273-project-settings-page)
+  - [Aangepaste veldenpagina](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+  - [Leden pagina](https://support.catenda.com/en/articles/4670291-members-page)
 - 2D & 3D Viewers
-    - [3D-viewer gereedschapsmenu](https://support.catenda.com/en/articles/4670294-3d-viewer-tool-menu)
-    - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
-    - [Revisieselector](https://support.catenda.com/en/articles/4670279-revision-selector)
-    - [Puntenwolken in Catenda Hub](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
+  - [3D-viewer gereedschapsmenu](https://support.catenda.com/en/articles/4670294-3d-viewer-tool-menu)
+  - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
+  - [Revisieselector](https://support.catenda.com/en/articles/4670279-revision-selector)
+  - [Puntenwolken in Catenda Hub](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
 - Catenda-plugins en integraties
-    - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
-    - [Topics-menu - Catenda Site](https://support.catenda.com/en/articles/7734073-topics-menu-catenda-site)
-    - [Solibri Models and Documents-integratie](https://support.catenda.com/en/articles/6988148-solibri-models-and-documents-integration)
+  - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
+  - [Topics-menu - Catenda Site](https://support.catenda.com/en/articles/7734073-topics-menu-catenda-site)
+  - [Solibri Models and Documents-integratie](https://support.catenda.com/en/articles/6988148-solibri-models-and-documents-integration)
 
 **Probleemoplossing** [Aanbeveling voor hardware](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Waarom ontvang ik geen e-mails?](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) [Ondersteuningsknop locatie en functionaliteit](https://support.catenda.com/en/articles/8894066-support-button-location-and-functionality)
 
@@ -25445,14 +25531,14 @@ Dankzij je waardevolle feedback hebben we veel topics kunnen oplossen die je wel
 Prestatievermindering werd opgemerkt op 17-28 april. Dit, nadat we de maand ervoor het platform sneller hadden gemaakt. Het onderzoek resulteerde in een probleemdetectie die alle inkomende verzoeken naar Catenda Hub beïnvloedde. Dit probleem oplossen maakte Catenda Hub sneller om mee te werken, vooral als veel mensen tegelijk veel taken proberen uit te voeren:
 
 - 5x sneller bij minder activiteit
-    - Wanneer: De helft van de tijd tussen 09:00-17:00 CET en 's nachts.
-    - Waargenomen snelheid: Langzamer dan wanneer er geen activiteit is, maar het zou voelen dat het een stukje sneller is dan vroeger, aangezien de lagere activiteit dingen nog steeds langzamer maakt.
+  - Wanneer: De helft van de tijd tussen 09:00-17:00 CET en 's nachts.
+  - Waargenomen snelheid: Langzamer dan wanneer er geen activiteit is, maar het zou voelen dat het een stukje sneller is dan vroeger, aangezien de lagere activiteit dingen nog steeds langzamer maakt.
 - 250x sneller bij normale activiteit
-    - Wanneer: De helft van de tijd tussen 09:00-17:00 CET
-    - Waargenomen snelheid: Langzamer dan wanneer er minder activiteit is, maar merkbaar sneller dan vroeger bij normale activiteit.
+  - Wanneer: De helft van de tijd tussen 09:00-17:00 CET
+  - Waargenomen snelheid: Langzamer dan wanneer er minder activiteit is, maar merkbaar sneller dan vroeger bij normale activiteit.
 - 5000x sneller bij hoge activiteit
-    - Wanneer: In het geval van de meeste hoeveelheid gebruik.
-    - Waargenomen snelheid: Langzamer dan wanneer er normale activiteit is, maar wereld van verschil in vergelijking met hoe het vroeger was bij hoge activiteit.
+  - Wanneer: In het geval van de meeste hoeveelheid gebruik.
+  - Waargenomen snelheid: Langzamer dan wanneer er normale activiteit is, maar wereld van verschil in vergelijking met hoe het vroeger was bij hoge activiteit.
 
 ### 2.2 **Documenten**
 
@@ -25482,40 +25568,40 @@ Prestatievermindering werd opgemerkt op 17-28 april. Dit, nadat we de maand ervo
 ## 3. **Nieuwe video's in afspeellijsten**
 
 - Aan de slag
-    - [Video - Onboarding & ondersteuning van gebruikers](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7?track_link_name=Intercom&track_link_id=vrc3txAqpnzG21ahEDofSs&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Verbinding maken met Catenda Hub](https://eu.guidde.com/share/playbooks/sAJ9zHv65kinzKseJPmNQm?track_link_name=Changelog&track_link_id=nQAaRkkuJwtN2my3y8ZNSK&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Accountinstellingen en meldingen](https://eu.guidde.com/share/playbooks/6cAvR5y6ugZsAShAwPLL6f?track_link_name=Changelog&track_link_id=4PcBgdUq2XeCAyaHp4Surf&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Leden toevoegen en teams maken in Catenda Hub](https://eu.guidde.com/share/playbooks/32n43rhyPM5WkmCNZZ3Smf?track_link_name=Changelog&track_link_id=4nEH9C2PJeTvYuuoXRtEYe&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Neem contact op met ondersteuning en open documentatie](https://eu.guidde.com/share/playbooks/bQFS6LFyFckyhNwY3LnXGJ?track_link_name=Changelog&track_link_id=feEe6eFALATtc4tHkuhKYR&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Video - Projectnavigatie](https://eu.guidde.com/share/playlists/raHoQ3qwoDbNx18S5YZtDv?track_link_name=Intercom&track_link_id=rHg8xpibRQegGuksgmT5nA&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Hub-dashboard](https://eu.guidde.com/share/playbooks/jTzRJEtpD8KZ7BjpKcd1Zw?track_link_name=Changelog&track_link_id=fVJrXGLsuTBxE43RZ3MBs2&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Door projectmappen navigeren](https://eu.guidde.com/share/playbooks/tzd39Q3NFqKTTVHodFQpJr?track_link_name=Changelog&track_link_id=vssrsCNc1tQz49b4J7RqnQ&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [3D-documenten openen](https://Opening%203D%20documents)
-    - [Video - Inhoudsbeheer](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7?track_link_name=Intercom&track_link_id=khM8GzpkYf6nta8Y46UGED&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Inhoud uploaden en modellen van IFC maken](https://eu.guidde.com/share/playbooks/9fgGi4DqpchSDqcy1WEY8n?track_link_name=Changelog&track_link_id=wBvEL6SVQmQgVLAwF1DgAF&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Topics maken, toewijzen en beheren](https://eu.guidde.com/share/playbooks/vRYbidpKvH49HzfhbKh8z6?track_link_name=Changelog&track_link_id=sBPtoFQcnCkfMn8Kd7i4zy&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Topics exporteren](https://eu.guidde.com/share/playbooks/tjNgrqvUfKreqJqXrWKUQw?track_link_name=Changelog&track_link_id=qEVCnwTYQNETuKNF4YF45Q&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Video - Projectinstelling](https://eu.guidde.com/share/playlists/9EG9WZEd2UiGMPZVVQfHuR?track_link_name=Intercom&track_link_id=ouZFRWrWkT82un7JZcNcZD&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Mappen en submappen toevoegen](https://eu.guidde.com/share/playbooks/o7pDsqiQCKPyTGBLifxKgE?track_link_name=Changelog&track_link_id=cV899DSepqVheMCwSroRSt&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Een verzameling maken en delen](https://eu.guidde.com/share/playbooks/rcTnM584AAZPy6APbGyQS9?track_link_name=Changelog&track_link_id=eBp853v7gRvCsu9L2h5Ht2&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Labels maken en toevoegen](https://eu.guidde.com/share/playbooks/ibD5KfuW1XNvGYuDPUFeiT?track_link_name=Changelog&track_link_id=asuMNTs82hbfQhwZCinqZi&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Video - Onboarding & ondersteuning van gebruikers](https://eu.guidde.com/share/playlists/gL4N5E4aGEYqk3nojjPpq7?track_link_name=Intercom&track_link_id=vrc3txAqpnzG21ahEDofSs&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Verbinding maken met Catenda Hub](https://eu.guidde.com/share/playbooks/sAJ9zHv65kinzKseJPmNQm?track_link_name=Changelog&track_link_id=nQAaRkkuJwtN2my3y8ZNSK&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Accountinstellingen en meldingen](https://eu.guidde.com/share/playbooks/6cAvR5y6ugZsAShAwPLL6f?track_link_name=Changelog&track_link_id=4PcBgdUq2XeCAyaHp4Surf&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Leden toevoegen en teams maken in Catenda Hub](https://eu.guidde.com/share/playbooks/32n43rhyPM5WkmCNZZ3Smf?track_link_name=Changelog&track_link_id=4nEH9C2PJeTvYuuoXRtEYe&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Neem contact op met ondersteuning en open documentatie](https://eu.guidde.com/share/playbooks/bQFS6LFyFckyhNwY3LnXGJ?track_link_name=Changelog&track_link_id=feEe6eFALATtc4tHkuhKYR&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Video - Projectnavigatie](https://eu.guidde.com/share/playlists/raHoQ3qwoDbNx18S5YZtDv?track_link_name=Intercom&track_link_id=rHg8xpibRQegGuksgmT5nA&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Hub-dashboard](https://eu.guidde.com/share/playbooks/jTzRJEtpD8KZ7BjpKcd1Zw?track_link_name=Changelog&track_link_id=fVJrXGLsuTBxE43RZ3MBs2&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Door projectmappen navigeren](https://eu.guidde.com/share/playbooks/tzd39Q3NFqKTTVHodFQpJr?track_link_name=Changelog&track_link_id=vssrsCNc1tQz49b4J7RqnQ&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [3D-documenten openen](https://Opening%203D%20documents)
+  - [Video - Inhoudsbeheer](https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7?track_link_name=Intercom&track_link_id=khM8GzpkYf6nta8Y46UGED&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Inhoud uploaden en modellen van IFC maken](https://eu.guidde.com/share/playbooks/9fgGi4DqpchSDqcy1WEY8n?track_link_name=Changelog&track_link_id=wBvEL6SVQmQgVLAwF1DgAF&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Topics maken, toewijzen en beheren](https://eu.guidde.com/share/playbooks/vRYbidpKvH49HzfhbKh8z6?track_link_name=Changelog&track_link_id=sBPtoFQcnCkfMn8Kd7i4zy&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Topics exporteren](https://eu.guidde.com/share/playbooks/tjNgrqvUfKreqJqXrWKUQw?track_link_name=Changelog&track_link_id=qEVCnwTYQNETuKNF4YF45Q&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Video - Projectinstelling](https://eu.guidde.com/share/playlists/9EG9WZEd2UiGMPZVVQfHuR?track_link_name=Intercom&track_link_id=ouZFRWrWkT82un7JZcNcZD&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Mappen en submappen toevoegen](https://eu.guidde.com/share/playbooks/o7pDsqiQCKPyTGBLifxKgE?track_link_name=Changelog&track_link_id=cV899DSepqVheMCwSroRSt&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Een verzameling maken en delen](https://eu.guidde.com/share/playbooks/rcTnM584AAZPy6APbGyQS9?track_link_name=Changelog&track_link_id=eBp853v7gRvCsu9L2h5Ht2&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Labels maken en toevoegen](https://eu.guidde.com/share/playbooks/ibD5KfuW1XNvGYuDPUFeiT?track_link_name=Changelog&track_link_id=asuMNTs82hbfQhwZCinqZi&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Productfuncties
-    - [Link delen](https://eu.guidde.com/share/playbooks/1Z3cf5Rjbvgkv5Lfq2mLex?track_link_name=Changelog&track_link_id=gpwRmqmraYWC9J4maVZZPz&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Inhoud verplaatsen](https://eu.guidde.com/share/playbooks/czZ43xf7ncVH7M18yUZoCC?track_link_name=Changelog&track_link_id=qZUkeSsyHcj98hWGM2Wwd1&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - [Inhoud downloaden](https://eu.guidde.com/share/playbooks/naxhWxhmKhkt5cYbY6iMMj?track_link_name=Changelog&track_link_id=5WE2WuHetNNcjKdaqciDAi&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - Onderwerpen
-        - [Topicgeschiedenis weergeven](https://eu.guidde.com/share/playbooks/vc9qXCxWe47hbvtGjtn8rJ?track_link_name=Changelog&track_link_id=n1Bfij4G5CNWTXGzaLNMcY&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - Documenten
-        - [Een document annoteren met de markeringsfunctie](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Changelog&track_link_id=3GDPP7qo2TJ3hsNM4xi4QP&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Twee revisies van een PDF-bestand vergelijken](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Changelog&track_link_id=3GDPP7qo2TJ3hsNM4xi4QP&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Een naamgevingsconventie instellen](https://eu.guidde.com/share/playbooks/gvmH5vCYdrmxz7gHhosVEr?track_link_name=Guidde%20videos%20article&track_link_id=cmU3oSHd7meH6G99TjUYGm&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Een document visualiseren](https://eu.guidde.com/share/playbooks/g7G5vfKW7K29MhYUzkXdZX?track_link_name=Changelog&track_link_id=wHtAfxXfoVEjWZePMqTfcA&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Validatiewerkstroom (conceptmodus)](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - Bibliotheken
-        - [Bibliotheek: CSV-classificatie importeren](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-        - [Catenda Hub - Classificatiebibliotheek, Planningsvoorbeeld](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-    - Catenda-plugins en integraties
-        - [Catenda Sharepoint App (Webpart)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Link delen](https://eu.guidde.com/share/playbooks/1Z3cf5Rjbvgkv5Lfq2mLex?track_link_name=Changelog&track_link_id=gpwRmqmraYWC9J4maVZZPz&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Inhoud verplaatsen](https://eu.guidde.com/share/playbooks/czZ43xf7ncVH7M18yUZoCC?track_link_name=Changelog&track_link_id=qZUkeSsyHcj98hWGM2Wwd1&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - [Inhoud downloaden](https://eu.guidde.com/share/playbooks/naxhWxhmKhkt5cYbY6iMMj?track_link_name=Changelog&track_link_id=5WE2WuHetNNcjKdaqciDAi&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - Onderwerpen
+    - [Topicgeschiedenis weergeven](https://eu.guidde.com/share/playbooks/vc9qXCxWe47hbvtGjtn8rJ?track_link_name=Changelog&track_link_id=n1Bfij4G5CNWTXGzaLNMcY&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - Documenten
+    - [Een document annoteren met de markeringsfunctie](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Changelog&track_link_id=3GDPP7qo2TJ3hsNM4xi4QP&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Twee revisies van een PDF-bestand vergelijken](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Changelog&track_link_id=3GDPP7qo2TJ3hsNM4xi4QP&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Een naamgevingsconventie instellen](https://eu.guidde.com/share/playbooks/gvmH5vCYdrmxz7gHhosVEr?track_link_name=Guidde%20videos%20article&track_link_id=cmU3oSHd7meH6G99TjUYGm&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Een document visualiseren](https://eu.guidde.com/share/playbooks/g7G5vfKW7K29MhYUzkXdZX?track_link_name=Changelog&track_link_id=wHtAfxXfoVEjWZePMqTfcA&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Validatiewerkstroom (conceptmodus)](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - Bibliotheken
+    - [Bibliotheek: CSV-classificatie importeren](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Catenda Hub - Classificatiebibliotheek, Planningsvoorbeeld](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Changelog&track_link_id=8F4Coqk2VZpzy56xCUZKHa&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+  - Catenda-plugins en integraties
+    - [Catenda Sharepoint App (Webpart)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 
 ## 4. **Gebruikersstemmen afgerond**
 
@@ -26078,10 +26164,10 @@ Nieuwe functies in 1.0.8
 - Teams Filters
 - Aangepaste exportinstellingen zijn opnieuw beschikbaar in de plugin
 - Issue zijpaneel
-    - Binnen een issue is het nu mogelijk het zijpaneel te openen door op gerelateerde items te klikken.
-    - Bekijk Documenten die aan de issue zijn gekoppeld
-    - Selecteer objecten die aan de issue zijn gekoppeld
-    - Bekijk welke issues aan deze issue zijn gerelateerd
+  - Binnen een issue is het nu mogelijk het zijpaneel te openen door op gerelateerde items te klikken.
+  - Bekijk Documenten die aan de issue zijn gekoppeld
+  - Selecteer objecten die aan de issue zijn gekoppeld
+  - Bekijk welke issues aan deze issue zijn gerelateerd
 
 # Revit-wijzigingenlogboek - 1.0.11
 
@@ -26527,8 +26613,8 @@ Dankzij uw waardevol commentaar hebben we veel Topics kunnen oplossen die je mis
 
 - Het alles Topics board toont niet langer de filters van het vorige board waar u op was en toont opnieuw correct de filters van het alles Topics board.
 - Verbeteringen voor Topic-export:
-    - Topic-exports die lang duren, worden nu verondersteld te worden onderbroken.
-    - Tot 10000 afbeeldingen kunnen nu in een PDF-export worden opgenomen.
+  - Topic-exports die lang duren, worden nu verondersteld te worden onderbroken.
+  - Tot 10000 afbeeldingen kunnen nu in een PDF-export worden opgenomen.
 
 ### 2.4 **Projectinstellingen**
 
@@ -26656,10 +26742,10 @@ Dankzij uw waardevolle feedback hebben we veel topics kunnen oplossen die je al 
 ### 3.5 **Algemeen**
 
 - Het maken van nieuwe projecten van sjabloonprojecten is verbeterd. Het is nu mogelijk om de volgende onderdelen van een project naar een nieuw project te brengen:
-    - Mappenstructuur
-    - Documentstatusconfiguratie
-    - Document- en topic-bord toegangscontrole
-    - Aangepaste velden en naamgevingsconventies
+  - Mappenstructuur
+  - Documentstatusconfiguratie
+  - Document- en topic-bord toegangscontrole
+  - Aangepaste velden en naamgevingsconventies
 
 ## 4. **Nieuwe releases** - Catenda Site, Plug-ins en integraties
 

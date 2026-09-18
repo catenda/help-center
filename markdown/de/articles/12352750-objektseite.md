@@ -85,11 +85,11 @@ Einige Spalten in der Produkttabelle sind standardmäßig aktiviert, während an
 Basierend auf der konfigurierten Spaltenreihenfolge werden die ersten Spalten angezeigt, während die Tabelle möglicherweise seitlich gescrollt werden muss, um andere aktivierte Spalten anzuzeigen. Die Standard-Reihenfolge und Sichtbarkeitseinstellung der Spalten auf der Seite "Dokumente" ist wie folgt:
 
 - Attribute
-    - Entität
-    - GlobalId
-    - LongName
-    - Name
-    - ObjectType
+  - Entität
+  - GlobalId
+  - LongName
+  - Name
+  - ObjectType
 
 Darüber hinaus kann die Produkttabelle je nach Anzahl der Eigenschaften und Eigenschaftssätze in jedem der Modelle eine beliebige Anzahl von Spalten haben. Jeder Satz von Spalten hat eine Hauptkategorie mit Unterkategorien. Mit der Umschalttaste können Sie die ganze Kategorie aktivieren oder deaktivieren. Kategorien können erweitert werden und jede Spalte in der Kategorie kann einzeln aktiviert/deaktiviert werden.
 

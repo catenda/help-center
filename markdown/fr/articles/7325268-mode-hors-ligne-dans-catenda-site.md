@@ -63,7 +63,7 @@ Les informations suivantes peuvent être ajoutées à un nouveau sujet créé sa
 - Une description peut être écrite
 
 - Des commentaires peuvent être ajoutés.
-    - Des images de l'appareil photo/photos peuvent être ajoutées aux commentaires.
+  - Des images de l'appareil photo/photos peuvent être ajoutées aux commentaires.
 
     _Accès requis :_ Accès complet à l'appareil
 
