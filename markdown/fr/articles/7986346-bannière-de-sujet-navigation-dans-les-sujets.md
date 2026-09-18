@@ -41,14 +41,13 @@ _Nouveau sujet_ - Créer un [nouveau sujet](https://support.catenda.com/en/artic
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/05-top-buttons.png)
 
 - L'en-tête et la description du sujet cloné seront identiques à ceux du sujet actuel
-
 - _Inclure des documents_
 
-  Les documents liés à ce sujet seront également liés au sujet cloné
+    Les documents liés à ce sujet seront également liés au sujet cloné
 
 - _Inclure les objets liés_
 
-  Les objets liés à ce sujet seront également liés au sujet cloné
+    Les objets liés à ce sujet seront également liés au sujet cloné
 
 > **Note :** Les commentaires ne sont pas clonés
 

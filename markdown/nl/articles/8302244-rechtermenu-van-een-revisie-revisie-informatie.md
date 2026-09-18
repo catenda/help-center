@@ -7,10 +7,10 @@ De documentenpagina kan er ongeveer zo uitzien:
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/01-intro.png)
 
 1. De [documentbanner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) loopt over de bovenkant van de documentenpagina
-2. U vindt de documentkop onder de documentbanner en boven het documentvoorbeeld.
-3. Onder de documentkop vindt u het [documentvoorbeeld](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
-4. Links van de documentkop en het voorbeeld vindt u de documentenlijst
-5. _Dit artikel:_ Rechts van de documentkop en het voorbeeld vindt u het rechtermenu met informatie.
+1. U vindt de documentkop onder de documentbanner en boven het documentvoorbeeld.
+1. Onder de documentkop vindt u het [documentvoorbeeld](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
+1. Links van de documentkop en het voorbeeld vindt u de documentenlijst
+1. _Dit artikel:_ Rechts van de documentkop en het voorbeeld vindt u het rechtermenu met informatie.
 
 Wanneer u een document voor het eerst opent, kan het rechtermenu gesloten zijn. U kunt op de informatieknop rechtsonder in de [documentbanner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) klikken om dit menu uit te vouwen.
 

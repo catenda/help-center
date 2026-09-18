@@ -144,13 +144,13 @@ La configuration et la gestion de Catenda Data Export nécessitent un **Administ
 La configuration des exports de données automatisés implique quatre étapes principales :
 
 1. **Sélectionner la destination**<br>Choisissez un fournisseur de stockage cloud, Amazon Web Services (AWS) S3 ou stockage Microsoft Azure Blob, et configurez l'authentification.
-2. **Définir la portée et les formats de données**
-   - **Types de données**<br>Exportez les documents, les modèles et les sujets. <br>Les données de sujets peuvent être automatiquement converties en rapports de synthèse PDF lisibles ou en fichiers BCF standard lors du transfert.
-   - **Sélection du projet**<br>Choisissez tous les projets, sélectionnez des projets spécifiques ou configurez des règles de correspondance dynamiques utilisant des modèles de noms de projet (glob ou expression régulière / regex) pour inclure automatiquement les nouveaux projets à mesure qu'ils sont créés.
-3. **Sélectionner le mode d'export**
-   - **Mode continu**<br>Envoie les données automatiquement selon un calendrier quotidien. <br>Cette configuration récurrente garantit que les membres du projet qui ne sont pas propriétaires maintiennent une sauvegarde à jour jusqu'à la dernière exécution quotidienne si l'accès au projet se termine de façon inattendue.
-   - **Mode capture**<br>Effectue une exécution unique pour exporter un ensemble de données complet à une étape importante ou à un transfert de projet spécifique.
-4. **Déployer**<br>Finalisez et activez la configuration d'export en sélectionnant Créer.
+1. **Définir la portée et les formats de données**
+    - **Types de données**<br>Exportez les documents, les modèles et les sujets. <br>Les données de sujets peuvent être automatiquement converties en rapports de synthèse PDF lisibles ou en fichiers BCF standard lors du transfert.
+    - **Sélection du projet**<br>Choisissez tous les projets, sélectionnez des projets spécifiques ou configurez des règles de correspondance dynamiques utilisant des modèles de noms de projet (glob ou expression régulière / regex) pour inclure automatiquement les nouveaux projets à mesure qu'ils sont créés.
+1. **Sélectionner le mode d'export**
+    - **Mode continu**<br>Envoie les données automatiquement selon un calendrier quotidien. <br>Cette configuration récurrente garantit que les membres du projet qui ne sont pas propriétaires maintiennent une sauvegarde à jour jusqu'à la dernière exécution quotidienne si l'accès au projet se termine de façon inattendue.
+    - **Mode capture**<br>Effectue une exécution unique pour exporter un ensemble de données complet à une étape importante ou à un transfert de projet spécifique.
+1. **Déployer**<br>Finalisez et activez la configuration d'export en sélectionnant Créer.
 
 ### 3.3 **Contenu extrait et vérification de l'intégrité**
 

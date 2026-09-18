@@ -2,7 +2,7 @@
 
 ## 1. Artikler
 
-**Nye artikler:**
+_Nye artikler:_
 
 [Systemkrav og optimalisering](https://intercom.help/bimsync-arena/en/articles/6921941-system-requirements-and-optimization)
 
@@ -19,7 +19,7 @@
 
 [Listevisning i issue board](https://support.catenda.com/en/articles/6941232-list-view-in-an-issue-board)
 
-**Artikler som har endret seg:**
+_Artikler som har endret seg:_
 
 [3D Viser-innstillinger](https://intercom.help/bimsync-arena/en/articles/5784718-3d-viewer-settings)
 
@@ -29,12 +29,12 @@
 
 ## 2. Løste problemer
 
-**Importproblemer:**
+_Importproblemer:_
 
 - IFC-filer med manglende enheter eksportert fra MagiCAD kan nå importeres enklere.
 - IFC-filer med tegn utenfor unicode i IfcPerson og IfcOrganization vil ikke lenger få rutenettet til å feile
 
-**Viserproblemer:**
+_Viserproblemer:_
 
 - Modeller kan igjen roteres uten problem. (Rotasjonsfeltet var tomt en kort periode)
 - Objekter kan igjen slettes (Modeller ble lastet inn to ganger en kort periode)
@@ -42,7 +42,7 @@
 - Objekter kan nå gjøres gjennomsiktige igjen. (Gjøre gjennomsiktig ville skjule andre i stedet en stund)
 - Paneler som egenskaper forblir nå åpne selv om du klikker på tomt område og tilbake på samme objekt
 
-**Andre problemer:**
+_Andre problemer:_
 
 - Å flytte filer lar deg nå navigere fra rotmappen igjen (Rotmappen viste ikke innhold en kort periode)
 - Etasjekonfigurator lar deg nå plassere tegninger som hadde plasseringer fra før rebranding igjen.

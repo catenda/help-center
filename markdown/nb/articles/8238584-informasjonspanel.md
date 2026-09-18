@@ -42,11 +42,11 @@ _Navn_ - Navn på oppgaven
 
 _Varighet_ - Varigheten av oppgaven
 
-**Start** Startdatoen for oppgaven Dette er når objektet vil vises i 3D. Objektene vil også vises som valgt Mellom startdatoen og sluttdatoen for en oppgave, vil oppgavelinjen være oransje. Klikk på klokke-ikonet ved siden av datoen for å hoppe til dette tidspunktet.
+_Start_ Startdatoen for oppgaven Dette er når objektet vil vises i 3D. Objektene vil også vises som valgt Mellom startdatoen og sluttdatoen for en oppgave, vil oppgavelinjen være oransje. Klikk på klokke-ikonet ved siden av datoen for å hoppe til dette tidspunktet.
 
 Slutt Sluttdatoen for oppgaven - Etter sluttdatoen vil objektene forbli i 3D, men vil være devalgt. Etter denne datoen vil oppgavelinjen være grønn. Klikk på klokke-ikonet ved siden av datoen for å hoppe til dette tidspunktet.
 
-**Produkter** Objektene som er knyttet til denne oppgaven Objektene kan isoleres og velges ved å klikke på isoler og velg.
+_Produkter_ Objektene som er knyttet til denne oppgaven Objektene kan isoleres og velges ved å klikke på isoler og velg.
 
 ### 4.1 **4D-bokmerker**
 

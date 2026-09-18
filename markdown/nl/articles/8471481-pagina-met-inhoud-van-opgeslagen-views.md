@@ -98,11 +98,11 @@ Nadat een opgeslagen view is gemaakt, kunnen nieuwe versies ervan worden geüplo
 
 **Nieuwste versie volgen** De nieuwste gepubliceerde versie van de modellen in de opgeslagen view wordt geladen wanneer deze wordt afgespeeld.
 
-> **Tip:** **Gedeelde versies:** Gedeelde versies worden niet weergegeven omdat deze nog in de werkruimte staan. Als er een gepubliceerde versie in het model van de gedeelde versie is, wordt in plaats daarvan de nieuwste gepubliceerde versie weergegeven.
+> **Gedeelde versies:** Gedeelde versies worden niet weergegeven omdat deze nog in de werkruimte staan. Als er een gepubliceerde versie in het model van de gedeelde versie is, wordt in plaats daarvan de nieuwste gepubliceerde versie weergegeven.
 
 **Vergrendelen op originele versies** De originele versies van de modellen in de opgeslagen view worden geladen wanneer deze wordt afgespeeld.
 
-> **Tip:** **Gedeelde versies:** Met deze optie worden gedeelde versies ook weergegeven.
+> **Gedeelde versies:** Met deze optie worden gedeelde versies ook weergegeven.
 
 Hieronder worden de modellen vermeld met de versie van het model die wordt weergegeven wanneer de opgeslagen view wordt afgespeeld. Zorg ervoor dat u de opgeslagen view bijwerkt als er nieuwe modellen worden toegevoegd.
 

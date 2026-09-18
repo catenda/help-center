@@ -56,11 +56,11 @@ Det anbefales å ha informasjonspanelet og Målemeny åpen mens du foretar måli
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/08-measurement-menu.png)
 
-**Fjern mål** Klikk [her](#h_7b050901dd) for å se hvordan du fjerner mål
+_Fjern mål_ Klikk [her](#h_7b050901dd) for å se hvordan du fjerner mål
 
-**Enheter** Som standard vil du se målenheten konfigurert av administratoren din i prosjektinnstillinger. Velg ulike målenheter: Millimeter, Centimeter og Meter.
+_Enheter_ Som standard vil du se målenheten konfigurert av administratoren din i prosjektinnstillinger. Velg ulike målenheter: Millimeter, Centimeter og Meter.
 
-**Visning** Velg mellom tre ulike måter du vil at målingene skal vises i 3D-visningen. Disse er Lengde, Segment og Avstand.
+_Visning_ Velg mellom tre ulike måter du vil at målingene skal vises i 3D-visningen. Disse er Lengde, Segment og Avstand.
 
 ### 3.3 **Skjule målinger**
 
@@ -74,7 +74,7 @@ Når du bekrefter målingen din ved å klikke, strekker de horisontale og vertik
 
 > **Tips:** Pilene kan være veldig nyttige, spesielt hvis du vil finne målinger mellom vinduer, dører og rekkverk for eksempel.
 
-**Legg til segmenter** Klikk på pilene ved siden av målingen for å utvide målingslinjen din i begge retninger til neste skjærende objekt.
+_Legg til segmenter_ Klikk på pilene ved siden av målingen for å utvide målingslinjen din i begge retninger til neste skjærende objekt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/10-add-or-remove-segments.png)
 
@@ -88,13 +88,13 @@ Måleinformasjon for hver måling vises.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/12-measurement-information.png)
 
-**Segmentinformasjon** Til venstre finner du lengden på hvert segment med det tilsvarende segmentnummeret.
+_Segmentinformasjon_ Til venstre finner du lengden på hvert segment med det tilsvarende segmentnummeret.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/13-measurement-information.png)
 
 > **Merk:** Du kan angi visningen til segment øverst for å finne hvert segment nummerert i 3D-viseren
 
-**Avstandsinformasjon** Til høyre finner du avstanden fra starten av målingslinjen til slutten av hvert segment. Totallengden er avstanden fra starten av målingslinjen til slutten av det siste segmentet som vist i bildet nedenfor.
+_Avstandsinformasjon_ Til høyre finner du avstanden fra starten av målingslinjen til slutten av hvert segment. Totallengden er avstanden fra starten av målingslinjen til slutten av det siste segmentet som vist i bildet nedenfor.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/14-measurement-information.png)
 

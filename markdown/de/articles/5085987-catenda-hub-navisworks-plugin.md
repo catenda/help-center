@@ -242,20 +242,20 @@ Erstellen Sie ein Thema, indem Sie einen oder mehrere Konflikte auswählen. Gebe
 Erstellen Sie ein kombiniertes Thema
 
 - Erstellen Sie ein Thema aus den ausgewählten Konflikten
-  - Erstellen Sie ein Thema mit einem Ansichtspunkt für jeden Konflikt, der in der Navisworks Clash Detective ausgewählt ist.
+    - Erstellen Sie ein Thema mit einem Ansichtspunkt für jeden Konflikt, der in der Navisworks Clash Detective ausgewählt ist.
 - Erstellen Sie ein Thema aus den ausgewählten Konflikten (Konsolidierter Ansichtspunkt)
-  - Erstellen Sie ein Thema mit einem einzelnen Ansichtspunkt, der so vergrößert wird, dass alle Konflikte einbezogen werden, die in der Navisworks Clash Detective ausgewählt sind.
+    - Erstellen Sie ein Thema mit einem einzelnen Ansichtspunkt, der so vergrößert wird, dass alle Konflikte einbezogen werden, die in der Navisworks Clash Detective ausgewählt sind.
 
 Erstellen Sie mehrere Themen
 
 - Erstellen Sie ein Thema für jeden ausgewählten Konflikt
-  - Erstellen Sie ein Thema für jeden Konflikt, der im Catenda Navisworks-Plugin ausgewählt ist.
+    - Erstellen Sie ein Thema für jeden Konflikt, der im Catenda Navisworks-Plugin ausgewählt ist.
 - Erstellen Sie ein Thema für jede Konfliktgruppe
-  - Erstellen Sie ein Thema für jede Konfliktgruppe, das im Catenda Navisworks-Plugin ausgewählt ist, mit einem Ansichtspunkt für jeden Konflikt in der Konfliktgruppe.
+    - Erstellen Sie ein Thema für jede Konfliktgruppe, das im Catenda Navisworks-Plugin ausgewählt ist, mit einem Ansichtspunkt für jeden Konflikt in der Konfliktgruppe.
 - Erstellen Sie ein Thema für jede Konfliktgruppe (Konsolidierter Ansichtspunkt)
-  - Erstellen Sie ein Thema für jede Konfliktgruppe, das im Catenda Navisworks-Plugin ausgewählt ist, mit einem einzelnen Ansichtspunkt, der so vergrößert wird, dass alle ausgewählten Konflikte einbezogen werden.
+    - Erstellen Sie ein Thema für jede Konfliktgruppe, das im Catenda Navisworks-Plugin ausgewählt ist, mit einem einzelnen Ansichtspunkt, der so vergrößert wird, dass alle ausgewählten Konflikte einbezogen werden.
 - Erstellen Sie ein Thema für jeden nicht gruppierten Konflikt
-  - Erstellen Sie ein Thema für jeden nicht gruppierten Konflikt, der im Catenda Navisworks-Plugin ausgewählt ist
+    - Erstellen Sie ein Thema für jeden nicht gruppierten Konflikt, der im Catenda Navisworks-Plugin ausgewählt ist
 
 ### 9.4 **Status ändern**
 

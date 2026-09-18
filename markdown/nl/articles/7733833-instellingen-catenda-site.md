@@ -4,6 +4,8 @@ U kunt uw Catenda Site-instellingen vinden in het [Menu](https://support.catenda
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/an1f6vfe/01-intro.png)
 
+De volgende Topics zijn in dit artikel beschreven:
+
 ## 1. **Instellingen**
 
 Configureer uw instellingen voor uw account.

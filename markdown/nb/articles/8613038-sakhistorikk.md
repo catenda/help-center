@@ -34,7 +34,7 @@ _Frist endret til \<Due date>_ - Se hvilken frist som ble lagt til _Frist endret
 
 _Beskrivelse endret -_ Klikk på denne boksen for å se hvordan den forrige beskrivelsen så ut.
 
-**Beskrivelse angitt** Klikk på denne boksen for å se hva beskrivelsen av saken var da den opprinnelig ble opprettet
+_Beskrivelse angitt_ Klikk på denne boksen for å se hva beskrivelsen av saken var da den opprinnelig ble opprettet
 
 ### 4.2 **Kommentarer**
 
@@ -48,9 +48,9 @@ _Merkelapp lagt til \<Label name>_ - Merkelappen som ble fjernet
 
 ## 6. **Egendefinert felt**
 
-**\<Custom field> angitt til \<Custom field value>** Hvis et egendefinert felt ble tildelt, vil du se det her
+_\<Custom field> angitt til \<Custom field value>_ Hvis et egendefinert felt ble tildelt, vil du se det her
 
-**\<Custom field> endret til \<Custom field value>** Se hva den egendefinerte feltverdien ble endret til
+_\<Custom field> endret til \<Custom field value>_ Se hva den egendefinerte feltverdien ble endret til
 
 ## 7. **Bilde**
 

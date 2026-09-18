@@ -12,127 +12,127 @@ Ettersom nye funksjoner lanseres og feil rettes blir artiklene oppdatert med end
 
 ### 1.1 **Nye artikler:**
 
-**Kontoadministrasjon**
+_Kontoadministrasjon_
 
 - [Filtrering på medlems- og teamside](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
 - [Høyremeny på medlemssiden](https://support.catenda.com/en/articles/11768610-right-menu-on-the-members-page)
 
-**Produktfunksjoner**
+_Produktfunksjoner_
 
 - Modeller
-  - [Filtrering på modellsiden](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-  - [Storey Configurator-handlinger](https://Storey%20configurator%20actions)
-  - [Objektside](https://support.catenda.com/en/articles/12352750-objects-page)
-  - [Filtrering på objektsiden](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - [Filtrering på modellsiden](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
+    - [Storey Configurator-handlinger](https://Storey%20configurator%20actions)
+    - [Objektside](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Filtrering på objektsiden](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
 - Dokumenter
-  - [Dokumentforhåndsvisningsverktøy - Gummistempel](https://support.catenda.com/en/articles/11678493-document-preview-tools-rubber-stamp)
-  - [Høyremeny på samlingssiden](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-page)
-  - [Arbeidsflytside - Dokumentinnstillinger](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
-  - [Mappekonfigrasjon - Dokumentinnstillinger](https://support.catenda.com/en/articles/12302595-folder-configuration-document-settings)
-  - [Opprette ny arbeidsflyt](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
-  - [Utkast gjennomgangsforespørselside](https://support.catenda.com/en/articles/12495175-draft-approval-request-page)
-  - [Åpen eller lukket gjennomgangsforespørselside](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page)
-  - [Gjennomgangsside](https://support.catenda.com/en/articles/12495047-approvals-page)
-  - [Filtrering på gjennomgangssiden](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-  - [Opprette ny gjennomgangsforespørsel](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request)
-  - [Legg til revisjon i gjennomgangsforespørsel](https://support.catenda.com/en/articles/12495012-add-revision-to-approval)
-  - [Trinns bånd i en gjennomgangsforespørsel](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-approval-request)
-  - [Høyremeny for en revisjon - Revisjonsinfo](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
-  - [Status arbeidsflyt - Dokumentinnstillinger](https://support.catenda.com/en/articles/12495583-status-workflow-document-settings)
-  - [Oversiktsfane i en gjennomgangsforespørsel](https://support.catenda.com/en/articles/12495126-overview-tab-in-an-approval-request)
-  - [Dokumentfane i en gjennomgangsforespørsel](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request)
-  - [Høyremeny for gjennomgangsforespørselsdokumenter](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu)
-  - [Filgjennomgang i en gjennomgangsforespørsel](https://support.catenda.com/en/articles/12507002-file-review-in-an-approval-request)
-  - [Høyremeny for gjennomgangsforespørselsfilgjennomgang](https://support.catenda.com/en/articles/12507519-approval-request-file-review-right-menu)
-  - [Gjennomgang feilsøking](https://support.catenda.com/en/articles/12520773-approvals-troubleshooting)
+    - [Dokumentforhåndsvisningsverktøy - Gummistempel](https://support.catenda.com/en/articles/11678493-document-preview-tools-rubber-stamp)
+    - [Høyremeny på samlingssiden](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-page)
+    - [Arbeidsflytside - Dokumentinnstillinger](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
+    - [Mappekonfigrasjon - Dokumentinnstillinger](https://support.catenda.com/en/articles/12302595-folder-configuration-document-settings)
+    - [Opprette ny arbeidsflyt](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
+    - [Utkast gjennomgangsforespørselside](https://support.catenda.com/en/articles/12495175-draft-approval-request-page)
+    - [Åpen eller lukket gjennomgangsforespørselside](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page)
+    - [Gjennomgangsside](https://support.catenda.com/en/articles/12495047-approvals-page)
+    - [Filtrering på gjennomgangssiden](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
+    - [Opprette ny gjennomgangsforespørsel](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request)
+    - [Legg til revisjon i gjennomgangsforespørsel](https://support.catenda.com/en/articles/12495012-add-revision-to-approval)
+    - [Trinns bånd i en gjennomgangsforespørsel](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-approval-request)
+    - [Høyremeny for en revisjon - Revisjonsinfo](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
+    - [Status arbeidsflyt - Dokumentinnstillinger](https://support.catenda.com/en/articles/12495583-status-workflow-document-settings)
+    - [Oversiktsfane i en gjennomgangsforespørsel](https://support.catenda.com/en/articles/12495126-overview-tab-in-an-approval-request)
+    - [Dokumentfane i en gjennomgangsforespørsel](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request)
+    - [Høyremeny for gjennomgangsforespørselsdokumenter](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu)
+    - [Filgjennomgang i en gjennomgangsforespørsel](https://support.catenda.com/en/articles/12507002-file-review-in-an-approval-request)
+    - [Høyremeny for gjennomgangsforespørselsfilgjennomgang](https://support.catenda.com/en/articles/12507519-approval-request-file-review-right-menu)
+    - [Gjennomgang feilsøking](https://support.catenda.com/en/articles/12520773-approvals-troubleshooting)
 - Rapporter
-  - [Rapportside](https://support.catenda.com/en/articles/12303098-reports-page)
+    - [Rapportside](https://support.catenda.com/en/articles/12303098-reports-page)
 - Dokumenter - Eldre
-  - [Opprette ny gjennomgangsforespørsel - Eldre](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request-legacy)
-  - [Legg til revisjon i en gjennomgangsforespørsel - Eldre](https://support.catenda.com/en/articles/12382093-add-revision-to-an-approval-request-legacy)
-  - [Gjennomgangsinnstillingsside - Eldre](https://support.catenda.com/en/articles/12367293-approval-settings-page-legacy)
-  - [Saksmalsideside - Eldre](https://support.catenda.com/en/articles/12367730-topic-templates-page-legacy)
-  - [Opprette ny saksmalsmal - Eldre](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template-legacy)
-  - [Status arbeidsflyt - Dokumentinnstillinger - Eldre](https://support.catenda.com/en/articles/12310173-status-workflow-document-settings-legacy)
-  - [Filgjennomgang i en gjennomgangsforespørsel - Eldre](https://support.catenda.com/en/articles/12507422-file-review-in-an-approval-request-legacy)
-  - [Høyremeny for gjennomgangsforespørselsfilgjennomgang - Eldre](https://support.catenda.com/en/articles/12507914-approval-request-file-review-right-menu-legacy)
+    - [Opprette ny gjennomgangsforespørsel - Eldre](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request-legacy)
+    - [Legg til revisjon i en gjennomgangsforespørsel - Eldre](https://support.catenda.com/en/articles/12382093-add-revision-to-an-approval-request-legacy)
+    - [Gjennomgangsinnstillingsside - Eldre](https://support.catenda.com/en/articles/12367293-approval-settings-page-legacy)
+    - [Saksmalsideside - Eldre](https://support.catenda.com/en/articles/12367730-topic-templates-page-legacy)
+    - [Opprette ny saksmalsmal - Eldre](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template-legacy)
+    - [Status arbeidsflyt - Dokumentinnstillinger - Eldre](https://support.catenda.com/en/articles/12310173-status-workflow-document-settings-legacy)
+    - [Filgjennomgang i en gjennomgangsforespørsel - Eldre](https://support.catenda.com/en/articles/12507422-file-review-in-an-approval-request-legacy)
+    - [Høyremeny for gjennomgangsforespørselsfilgjennomgang - Eldre](https://support.catenda.com/en/articles/12507914-approval-request-file-review-right-menu-legacy)
 
-**Feilsøking**
+_Feilsøking_
 
 - [Catenda Site - Feilsøking](https://support.catenda.com/en/articles/11926914-catenda-site-troubleshooting)
 
-**Veiledninger og vejledninger**
+_Veiledninger og vejledninger_
 
 - [Opprette ny godkjenningsarbeidsflyt - Kort video](https://support.catenda.com/en/articles/12457430-creating-a-new-approval-workflow-short-video)
 - [Opprett ny godkjenningsarbeidsflytsmal - Kort video](https://support.catenda.com/en/articles/12458313-create-a-new-approval-workflow-template-short-video)
 
-**Ofte stilte spørsmål**
+_Ofte stilte spørsmål_
 
 - [Tabeller på Catenda](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
 - [Tilpasset medlemsinformasjon](https://support.catenda.com/en/articles/11769670-custom-member-information)<br>
 
 ### 1.2 **Artikler som har endret:**
 
-**Kontoadministrasjon**
+_Kontoadministrasjon_
 
 - Medlemmer og team
-  - [Medlems- og teamside](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
+    - [Medlems- og teamside](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
 - Catenda Site
-  - [Innstillinger - Catenda Site](https://support.catenda.com/en/articles/7733833-settings-catenda-site)
+    - [Innstillinger - Catenda Site](https://support.catenda.com/en/articles/7733833-settings-catenda-site)
 
-**Produktfunksjoner**
+_Produktfunksjoner_
 
 - Generell produktinformasjon
 - Dashbord
-  - [Dashbord-side](https://support.catenda.com/en/articles/8212646-dashboard-page)
+    - [Dashbord-side](https://support.catenda.com/en/articles/8212646-dashboard-page)
 - Saker
-  - [Sakside](https://support.catenda.com/en/articles/4670271-topics-page)
-  - [Filtrering i et saksstyre](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board)
-  - [Listevisning i et saksstyre](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board)
-  - [Kolonner på sakssiden](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page)
-  - [Saksbordshandlinger](https://support.catenda.com/en/articles/4670284-topics-table-actions)
+    - [Sakside](https://support.catenda.com/en/articles/4670271-topics-page)
+    - [Filtrering i et saksstyre](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board)
+    - [Listevisning i et saksstyre](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board)
+    - [Kolonner på sakssiden](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page)
+    - [Saksbordshandlinger](https://support.catenda.com/en/articles/4670284-topics-table-actions)
 - Modeller
-  - [Modellside](https://support.catenda.com/en/articles/4670286-models-page)
-  - [Høyremeny på modellsiden](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
-  - [Storey Configurator Side](https://support.catenda.com/en/articles/6921756-storey-configurator-page)
+    - [Modellside](https://support.catenda.com/en/articles/4670286-models-page)
+    - [Høyremeny på modellsiden](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
+    - [Storey Configurator Side](https://support.catenda.com/en/articles/6921756-storey-configurator-page)
 - Dokumenter
-  - [Dokumentside](https://support.catenda.com/en/articles/8204673-documents-page)
-  - [Dokumentinnstillingsside](https://support.catenda.com/en/articles/7831371-document-settings-page)
-  - [Kolonner på dokumentsiden](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
-  - [Filtrering på dokumentsiden](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-  - [Dokumentforhåndsvisningsverktøy](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-  - [Dokumenttabellhandlinger](https://support.catenda.com/en/articles/4670288-document-structure-actions)
-  - [Opplasting av ny dokumentrevisjon](https://support.catenda.com/en/articles/4670293-uploading-new-document-revision)
-  - [Samlingside](https://support.catenda.com/en/articles/8999764-collection-page)
-  - [Høyremeny for en revisjon - Revisjonsinfo](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
+    - [Dokumentside](https://support.catenda.com/en/articles/8204673-documents-page)
+    - [Dokumentinnstillingsside](https://support.catenda.com/en/articles/7831371-document-settings-page)
+    - [Kolonner på dokumentsiden](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
+    - [Filtrering på dokumentsiden](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+    - [Dokumentforhåndsvisningsverktøy](https://support.catenda.com/en/articles/11384618-document-preview-tools)
+    - [Dokumenttabellhandlinger](https://support.catenda.com/en/articles/4670288-document-structure-actions)
+    - [Opplasting av ny dokumentrevisjon](https://support.catenda.com/en/articles/4670293-uploading-new-document-revision)
+    - [Samlingside](https://support.catenda.com/en/articles/8999764-collection-page)
+    - [Høyremeny for en revisjon - Revisjonsinfo](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
 - Innstillinger
-  - [Egendefinerte felt-side](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-  - [Merkelappside](https://support.catenda.com/en/articles/4670265-labels-page)
+    - [Egendefinerte felt-side](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+    - [Merkelappside](https://support.catenda.com/en/articles/4670265-labels-page)
 - 2D og 3D-visere
-  - [Punktsky i Catenda Hub](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
-  - [Revisjonsvelger](https://support.catenda.com/en/articles/4670279-revision-selector)
+    - [Punktsky i Catenda Hub](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
+    - [Revisjonsvelger](https://support.catenda.com/en/articles/4670279-revision-selector)
 - Catenda-programtillegg og integrasjoner
-  - [3D-viser - Catenda Site](https://support.catenda.com/en/articles/7744403-3d-viewer-catenda-site)
-  - [Catenda-programtillegg og integrasjoner](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
-  - [IFC export archicad manual](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
-  - [Aktivering av Catenda SharePoint-appen](https://support.catenda.com/en/articles/9419749-enabling-the-catenda-sharepoint-app)
-  - [Legge til og fjerne Catenda SP-appen](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app)
+    - [3D-viser - Catenda Site](https://support.catenda.com/en/articles/7744403-3d-viewer-catenda-site)
+    - [Catenda-programtillegg og integrasjoner](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
+    - [IFC export archicad manual](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
+    - [Aktivering av Catenda SharePoint-appen](https://support.catenda.com/en/articles/9419749-enabling-the-catenda-sharepoint-app)
+    - [Legge til og fjerne Catenda SP-appen](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app)
 - Dokumenter - Eldre
-  - [Gjennomgangsside - Eldre](https://support.catenda.com/en/articles/8349340-approvals-page-legacy)
-  - [Åpen, publisert eller forkastet gjennomgang - Eldre](https://support.catenda.com/en/articles/8349418-open-published-or-discarded-approval-legacy)
-  - [Dokumentgjennomgang - Eldre](https://support.catenda.com/en/articles/5784717-document-approval-legacy)
-  - [Filtrering på godkjenningssiden - Eldre](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+    - [Gjennomgangsside - Eldre](https://support.catenda.com/en/articles/8349340-approvals-page-legacy)
+    - [Åpen, publisert eller forkastet gjennomgang - Eldre](https://support.catenda.com/en/articles/8349418-open-published-or-discarded-approval-legacy)
+    - [Dokumentgjennomgang - Eldre](https://support.catenda.com/en/articles/5784717-document-approval-legacy)
+    - [Filtrering på godkjenningssiden - Eldre](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
 
-**Feilsøking**
+_Feilsøking_
 
 - [Solibri dokumentintegrasjon feilsøking](https://support.catenda.com/en/articles/11431097-solibri-documents-integration-troubleshooting)
 - [Brukerforslag @ Catenda](https://support.catenda.com/en/articles/5925449-user-voice-catenda)
 
-**Veiledninger og vejledninger**
+_Veiledninger og vejledninger_
 
 - [Guidde videoer](https://support.catenda.com/en/articles/11055278-guidde-videos)
 
-**Ofte stilte spørsmål**
+_Ofte stilte spørsmål_
 
 - [Plasseringen og funksjonen til støtte-knappen](https://support.catenda.com/en/articles/8894066-support-button-location-and-functionality)
 - [2D plassering av saker](https://2D%20location%20of%20topics)
@@ -167,13 +167,13 @@ Takk for din verdifulle tilbakemelding har vi kunnet løse mange saker som du ka
 ## 3. **Nye videoer i spillelister**
 
 - Produktfunksjoner
-  - Dokumenter
-    - [Godkjenningsarbeidsflytsmal](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
+    - Dokumenter
+        - [Godkjenningsarbeidsflytsmal](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
 
-      [Opprett ny godkjenningsforespørsel](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
+            [Opprett ny godkjenningsforespørsel](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
 
-  - Catenda-programtillegg og integrasjoner
-    - [Catenda Site - Kom i gang](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - Catenda-programtillegg og integrasjoner
+        - [Catenda Site - Kom i gang](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 
 ## 4. **Brukerforslag fullført**
 
@@ -187,13 +187,13 @@ Takk for din verdifulle tilbakemelding har vi kunnet løse mange saker som du ka
 ### 4.2 **Innstillinger**
 
 - Medlemssideforbetering
-  - Det er nå mulig å søke på medlemssiden
-  - Velg flere medlemmer og skriv inn lagene du vil legge til/fjerne dem til/fra.
-  - Velg flere lag og skriv inn medlemmene du vil legge til/fjerne til/fra laget.
-  - Sorter medlemskolonner
-  - Filtrer medlemmer på lag(ene)
-  - Filtrer lag på medlem(mer)
-  - Kopier medlems-e-post til utklippstavlen ved å klikke på den.
+    - Det er nå mulig å søke på medlemssiden
+    - Velg flere medlemmer og skriv inn lagene du vil legge til/fjerne dem til/fra.
+    - Velg flere lag og skriv inn medlemmene du vil legge til/fjerne til/fra laget.
+    - Sorter medlemskolonner
+    - Filtrer medlemmer på lag(ene)
+    - Filtrer lag på medlem(mer)
+    - Kopier medlems-e-post til utklippstavlen ved å klikke på den.
 
 ### 4.3 **Programtillegg og integrasjoner**
 
@@ -201,8 +201,8 @@ Takk for din verdifulle tilbakemelding har vi kunnet løse mange saker som du ka
 
 ## 5. **Nye utgivelser - Programtillegg og integrasjoner**
 
-**Catenda for Tekla 2025 v1.3.0** Støtte for Tekla 2025
+_Catenda for Tekla 2025 v1.3.0_ Støtte for Tekla 2025
 
-**Catenda for Tekla 2024 v1.2.0** Støtte for Tekla 2024
+_Catenda for Tekla 2024 v1.2.0_ Støtte for Tekla 2024
 
-**PowerBI Connector** API-forespørsler som krever flere sider med informasjon (Ofte når mer enn 1000 elementer blir forespurt) samler nå alle sider. Hvis det er mer enn 100 prosjekter er det nå mulig å få alle dem. Det er nå mulig å få alle dokumenter i prosjektet i stedet for bare de første 1000 Hvis det er mer enn 1000 objekter i en forespørsel er det nå mulig å få informasjon om alle dem.
+_PowerBI Connector_ API-forespørsler som krever flere sider med informasjon (Ofte når mer enn 1000 elementer blir forespurt) samler nå alle sider. Hvis det er mer enn 100 prosjekter er det nå mulig å få alle dem. Det er nå mulig å få alle dokumenter i prosjektet i stedet for bare de første 1000 Hvis det er mer enn 1000 objekter i en forespørsel er det nå mulig å få informasjon om alle dem.

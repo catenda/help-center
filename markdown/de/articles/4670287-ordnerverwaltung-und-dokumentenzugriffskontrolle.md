@@ -7,8 +7,8 @@ Wählen Sie Dokument(e) und/oder Ordner im Dokumentenbereich aus, um das Zugriff
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/01-intro.png)
 
 1. Wählen Sie die Dokument(e) und/oder Ordner aus, die konfiguriert werden sollen.
-2. Öffnen Sie das rechte Informationsmenü
-3. Klicken Sie auf **Zugriff bearbeiten**.
+1. Öffnen Sie das rechte Informationsmenü
+1. Klicken Sie auf **Zugriff bearbeiten**.
 
 > **Wichtig:** **Erforderlicher Zugriff:** Vollständiger Zugriff
 

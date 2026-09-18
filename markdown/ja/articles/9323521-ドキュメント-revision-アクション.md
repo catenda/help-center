@@ -2,6 +2,8 @@
 
 アクセス権に応じて、[ドキュメント revision プレビューページ](https://support.catenda.com/en/articles/8461918-document-banner-navigation)で、ドキュメントおよびその revisions のさまざまなアクションを表示できます。
 
+この記事では、以下のトピックについて説明します。
+
 ## 1. **ドキュメント アクション**
 
 アイコンの右側のアクションメニューは次のようになります。

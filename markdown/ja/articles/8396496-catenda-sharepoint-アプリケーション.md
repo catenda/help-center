@@ -2,10 +2,7 @@
 
 > **注:** プラグインのインストール ファイルは[この記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
 
-Catenda SharePoint アプリケーションが SharePoint サイトに追加されると、SharePoint から Catenda にファイルを公開でき、Catenda ドキュメント構造を SharePoint で表示できます。設定すると、アプリケーションは次のようになります: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/>
-この記事には、このアプリケーションがどのように機能するかについての情報が含まれています
-このアプリケーションが有用な方法の詳細については、[こちら](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq)を参照してください。
-SharePoint アプリケーションをサイトに追加する方法については、[こちら](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app)を参照してください。
+Catenda SharePoint アプリケーションが SharePoint サイトに追加されると、SharePoint から Catenda にファイルを公開でき、Catenda ドキュメント構造を SharePoint で表示できます。設定すると、アプリケーションは次のようになります: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/>この記事には、このアプリケーションがどのように機能するかについての情報が含まれていますこのアプリケーションが有用な方法の詳細については、[こちら](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq)を参照してください。SharePoint アプリケーションをサイトに追加する方法については、[こちら](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app)を参照してください。
 
 ## 1. **リストコマンドを使用したCatendaへの公開**
 
@@ -15,11 +12,11 @@ SharePoint アプリケーションをサイトに追加する方法について
 
 ### 1.1 **リストコマンドの検索**
 
-**1つのファイル** 単一のファイルをCatendaに公開したい場合、最も簡単な方法は、ファイルのハンバーガー メニューで「Catendaに公開」をクリックすることです。
+**1つのファイル**単一のファイルをCatendaに公開したい場合、最も簡単な方法は、ファイルのハンバーガー メニューで「Catendaに公開」をクリックすることです。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/01-finding-the-list-command.png)
 
-**複数のファイル** 複数のファイルをCatendaに公開したい場合は、公開したいファイルを選択する必要があります。SharePointでファイルを選択すると、ユーザーは「Catendaに公開」リストコマンドを表示できます。
+**複数のファイル**複数のファイルをCatendaに公開したい場合は、公開したいファイルを選択する必要があります。SharePointでファイルを選択すると、ユーザーは「Catendaに公開」リストコマンドを表示できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/02-finding-the-list-command.png)
 

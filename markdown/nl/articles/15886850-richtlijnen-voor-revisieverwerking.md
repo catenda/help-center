@@ -19,6 +19,6 @@ Uploadfouten kunnen ook optreden als de tekst in het dynamische blok niet overee
 Om de exacte vereisten van een naamgevingsconventieblok te controleren, kan de regelconfiguratie rechtstreeks vanuit de documentinterface worden beoordeeld:
 
 1. Vouw het rechtermenu met informatie uit voor een bestaand document in de betreffende map.
-2. Controleer de sectie **Naamgevingsconventie-voorbeeld**, die een realtime visuele uitsplitsing biedt van wat de naamgevingsregel verwacht.
-3. Beweeg de muis over het specifieke versie- of statusblok om de configuratieregels ervan weer te geven.
-4. Identificeer het exacte aangepaste veld dat het blok aandrijft om te ontdekken welke specifieke waarden zijn toegestaan, zodat de lokale bestandsnaam kan worden aangepast.
+1. Controleer de sectie **Naamgevingsconventie-voorbeeld**, die een realtime visuele uitsplitsing biedt van wat de naamgevingsregel verwacht.
+1. Beweeg de muis over het specifieke versie- of statusblok om de configuratieregels ervan weer te geven.
+1. Identificeer het exacte aangepaste veld dat het blok aandrijft om te ontdekken welke specifieke waarden zijn toegestaan, zodat de lokale bestandsnaam kan worden aangepast.

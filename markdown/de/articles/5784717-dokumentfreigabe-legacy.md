@@ -9,17 +9,17 @@ Das folgende Bild beschreibt die erforderlichen Schritte, um den Prozess in Ihre
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xan46xhc/01-intro.png)
 
 1. Aktivieren Sie den [Status-Workflow](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) in Ihren [Dokumentbibliothekseinstellungen](https://support.catenda.com/en/articles/7831371-document-settings)
-2. [Bearbeiten](https://support.catenda.com/en/articles/7831371-document-settings#h_c580374cfc) Sie die verfügbaren Status nach Ihren Anforderungen
-3. Sie können jetzt Dokumente als Entwürfe hochladen
-4. Wenn das Projekt Entwürfe enthält, können Sie diese auswählen und eine neue Freigabe erstellen
+1. [Bearbeiten](https://support.catenda.com/en/articles/7831371-document-settings#h_c580374cfc) Sie die verfügbaren Status nach Ihren Anforderungen
+1. Sie können jetzt Dokumente als Entwürfe hochladen
+1. Wenn das Projekt Entwürfe enthält, können Sie diese auswählen und eine neue Freigabe erstellen
 
 ## 1. Freigabeeinstellungen
 
 1. Ein wichtiger Schritt ist die Anpassung der [Freigabeeinstellungen](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) auf der [Projekteinstellungsseite](https://support.catenda.com/en/articles/4670273-project-settings-page).
-2. Eine Freigabeanforderung benennt einen Publisher (Person, die für die endgültige Entscheidung über die Veröffentlichung verantwortlich ist) und einen oder mehrere Prüfer, die für die Validierung (oder Nichtvalidierung) der Entwürfe zuständig sind
-3. Jeder Prüfer entscheidet, ob der Entwurf genehmigt, mit Kommentar genehmigt oder abgelehnt wird
-4. Am Ende der Überprüfung wählt der Publisher das Ergebnis der Freigabe, indem er die zu veröffentlichenden Dokumente auswählt.
-5. Aus den Freigabeeinstellungen können Probleme im Zusammenhang mit den Dokumenten erstellt werden, um den Prozess später nachzuverfolgen
+1. Eine Freigabeanforderung benennt einen Publisher (Person, die für die endgültige Entscheidung über die Veröffentlichung verantwortlich ist) und einen oder mehrere Prüfer, die für die Validierung (oder Nichtvalidierung) der Entwürfe zuständig sind
+1. Jeder Prüfer entscheidet, ob der Entwurf genehmigt, mit Kommentar genehmigt oder abgelehnt wird
+1. Am Ende der Überprüfung wählt der Publisher das Ergebnis der Freigabe, indem er die zu veröffentlichenden Dokumente auswählt.
+1. Aus den Freigabeeinstellungen können Probleme im Zusammenhang mit den Dokumenten erstellt werden, um den Prozess später nachzuverfolgen
 
 Eine ausführliche Demonstration dieser Schritte finden Sie im folgenden Tutorial:
 

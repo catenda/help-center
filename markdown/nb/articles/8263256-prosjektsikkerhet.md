@@ -28,9 +28,9 @@ Filer kan lastes opp som dokumentrevisjoner til dokumenter-delen.
 
 ### 3.1 **Begrensning av nedlasting med tilgangskontroll**
 
-**Dokumenter / modeller** Tilgang til dokumenter kan kontrolleres individuelt. Hvis tilgangen til IFC-dokumentet er begrenset, kan bare personer med tilgang til dokumentet se det. Medlemmer med tilgang til dokumentet kan laste det ned.
+_Dokumenter / modeller_ Tilgang til dokumenter kan kontrolleres individuelt. Hvis tilgangen til IFC-dokumentet er begrenset, kan bare personer med tilgang til dokumentet se det. Medlemmer med tilgang til dokumentet kan laste det ned.
 
-**Saker** Tilgang til saker kan kontrolleres per saksliste. Hvis tilgang til en saksliste er begrenset, kan bare personer med tilgang til saklisten se sakene i listen. Medlemmer med tilgang til saklisten vil kunne eksportere saker til BCF, PDF og Excel.
+_Saker_ Tilgang til saker kan kontrolleres per saksliste. Hvis tilgang til en saksliste er begrenset, kan bare personer med tilgang til saklisten se sakene i listen. Medlemmer med tilgang til saklisten vil kunne eksportere saker til BCF, PDF og Excel.
 
 ### 3.2 **Begrensning av nedlasting ved tilbaketrekking av revisjon**
 
@@ -48,14 +48,14 @@ Hvis dokumentet er et IFC-dokument, kan det kobles til en modell.
 
 _Innenfor prosjektet_ Selv om dokumentet er koblet til en modell, vil bare personer med tilgang til dokumentet se det vises på dashbordet, modellerside og i revisjonsvalgeren.
 
-**Ekstern deling** Hvis en modell deles med en offentlig lenke i et bokmerke, kan modellforhåndsvisningen bare vises og ikke lastes ned.
+_Ekstern deling_ Hvis en modell deles med en offentlig lenke i et bokmerke, kan modellforhåndsvisningen bare vises og ikke lastes ned.
 
 Objektinformasjon er ikke synlig i eksternt delte bokmerker.
 
 ## 4. **Sletting av data**
 
-**Dokumenter/modeller** Medlemmer kan slette dokumenter, men administratorer i et prosjekt vil alltid kunne finne dokumenter ved å søke med "slettet" filter. Husk at dette filteret er språkspesifikt.
+_Dokumenter/modeller_ Medlemmer kan slette dokumenter, men administratorer i et prosjekt vil alltid kunne finne dokumenter ved å søke med "slettet" filter. Husk at dette filteret er språkspesifikt.
 
-**Saker** Før sletting kan saker eksporteres til BCF. Saken for den ID-en vil bli slettet, men hvis du endrer ID-en i BCF, kan saken importeres på nytt. Relasjoner til elementer som dokumenter, objekter og saker vil da gå tapt.
+_Saker_ Før sletting kan saker eksporteres til BCF. Saken for den ID-en vil bli slettet, men hvis du endrer ID-en i BCF, kan saken importeres på nytt. Relasjoner til elementer som dokumenter, objekter og saker vil da gå tapt.
 
-**Milepæler** Medlemmer kan arkivere og gjenopprette milepæler. _Tilgang påkrevd:_ Milepælskaper eller administrator.
+_Milepæler_ Medlemmer kan arkivere og gjenopprette milepæler. _Tilgang påkrevd:_ Milepælskaper eller administrator.

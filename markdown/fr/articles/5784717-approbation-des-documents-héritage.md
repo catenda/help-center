@@ -9,17 +9,17 @@ L'image ci-dessous décrit les étapes nécessaires pour mettre en place le proc
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xan46xhc/01-intro.png)
 
 1. Activez le [flux de statut](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) dans vos [paramètres de bibliothèque de documents](https://support.catenda.com/en/articles/7831371-document-settings)
-2. [Modifiez](https://support.catenda.com/en/articles/7831371-document-settings#h_c580374cfc) les statuts disponibles selon vos besoins
-3. Vous pouvez désormais télécharger des documents en tant que brouillons
-4. Lorsque le projet contient des brouillons, vous pouvez les sélectionner et créer une nouvelle approbation
+1. [Modifiez](https://support.catenda.com/en/articles/7831371-document-settings#h_c580374cfc) les statuts disponibles selon vos besoins
+1. Vous pouvez désormais télécharger des documents en tant que brouillons
+1. Lorsque le projet contient des brouillons, vous pouvez les sélectionner et créer une nouvelle approbation
 
 ## 1. Paramètres d'approbation
 
 1. Une étape importante consiste à ajuster les [paramètres d'approbation](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) sur la [page des paramètres du projet](https://support.catenda.com/en/articles/4670273-project-settings-page).
-2. Une demande d'approbation désigne un éditeur (personne responsable de la décision finale concernant la publication) et un ou plusieurs relecteurs, chargés de valider (ou non) l'ensemble des brouillons
-3. Chaque relecteur décidera si le brouillon est approuvé, approuvé avec commentaire ou rejeté
-4. À la fin de la révision, l'éditeur choisira le résultat de l'approbation en sélectionnant les documents à publier.
-5. À partir des paramètres d'approbation, des problèmes associés aux documents peuvent être créés afin de suivre le processus par la suite
+1. Une demande d'approbation désigne un éditeur (personne responsable de la décision finale concernant la publication) et un ou plusieurs relecteurs, chargés de valider (ou non) l'ensemble des brouillons
+1. Chaque relecteur décidera si le brouillon est approuvé, approuvé avec commentaire ou rejeté
+1. À la fin de la révision, l'éditeur choisira le résultat de l'approbation en sélectionnant les documents à publier.
+1. À partir des paramètres d'approbation, des problèmes associés aux documents peuvent être créés afin de suivre le processus par la suite
 
 Une démonstration détaillée de ces étapes est présentée dans le tutoriel suivant :
 

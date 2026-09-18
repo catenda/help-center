@@ -77,12 +77,12 @@ Après la connexion, la vue principale de l'extension Catenda Hub s'ouvre. Sur c
 ![Header.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/06-interface.png)
 
 1. Sélectionnez votre projet Catenda Hub
-2. Sélectionnez une liste de sujets dans ce projet
-3. Créer un nouveau sujet dans la liste de sujets actuellement sélectionnée
-4. Trier les sujets actuellement affichés
-5. Ouvrir le menu de l'extension Catenda Hub
-6. Rechercher et filtrer les sujets affichés
-7. La liste des sujets actuellement filtrés dans la liste de sujets
+1. Sélectionnez une liste de sujets dans ce projet
+1. Créer un nouveau sujet dans la liste de sujets actuellement sélectionnée
+1. Trier les sujets actuellement affichés
+1. Ouvrir le menu de l'extension Catenda Hub
+1. Rechercher et filtrer les sujets affichés
+1. La liste des sujets actuellement filtrés dans la liste de sujets
 
 ### 4.2 **Sélection du projet et de la liste de sujets**
 
@@ -105,14 +105,14 @@ Dans la liste des sujets, vous trouverez toutes les informations principales sur
 ![IssueInformation.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/09-topic-selection.png)
 
 1. Le titre du sujet
-2. Son statut (Ouvert, Fermé, ...), son type (Info, Erreur, ...) et ses étiquettes
-3. Le membre qui demande le sujet
-4. Le membre auquel le sujet est assigné
-5. La date d'échéance du sujet
-6. Quand le sujet a été mis à jour pour la dernière fois. Vous pouvez survoler la date pour afficher la date et l'heure complètes de la mise à jour.
-7. Le nombre de commentaires dans le sujet
-8. L'image du premier commentaire du sujet
-9. Numéro de sujet Catenda Hub
+1. Son statut (Ouvert, Fermé, ...), son type (Info, Erreur, ...) et ses étiquettes
+1. Le membre qui demande le sujet
+1. Le membre auquel le sujet est assigné
+1. La date d'échéance du sujet
+1. Quand le sujet a été mis à jour pour la dernière fois. Vous pouvez survoler la date pour afficher la date et l'heure complètes de la mise à jour.
+1. Le nombre de commentaires dans le sujet
+1. L'image du premier commentaire du sujet
+1. Numéro de sujet Catenda Hub
 
 Vous pouvez cliquer sur n'importe quel sujet pour accéder à la [page de détails du sujet](#h_445d3efa52).
 
@@ -123,11 +123,11 @@ Vous pouvez trier les sujets affichés pour apporter les plus pertinents en prem
 ![sort.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/10-sort-topics.png)
 
 1. Afficher en premier le sujet créé le plus récemment
-2. Afficher en premier le sujet le plus ancien
-3. Afficher en premier le sujet mis à jour le plus récemment. La mise à jour d'un sujet peut impliquer la modification de l'une de ses propriétés, titre, commentaires, …
-4. Afficher en premier le sujet mis à jour le moins récemment
-5. Afficher en premier la date d'échéance la plus récente
-6. Afficher en premier la date d'échéance la plus ancienne
+1. Afficher en premier le sujet le plus ancien
+1. Afficher en premier le sujet mis à jour le plus récemment. La mise à jour d'un sujet peut impliquer la modification de l'une de ses propriétés, titre, commentaires, …
+1. Afficher en premier le sujet mis à jour le moins récemment
+1. Afficher en premier la date d'échéance la plus récente
+1. Afficher en premier la date d'échéance la plus ancienne
 
 ### 4.6 **Filtrer les sujets**
 
@@ -162,15 +162,15 @@ Dans cette vue, vous pouvez examiner et modifier un sujet spécifique.
 ![IssueDetailView.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/13-interface.png)
 
 1. Retourner à la [Liste des sujets](#h_642fa61854)
-2. Actualiser le contenu de ce sujet
-3. Naviguer entre les sujets
-4. Définir le statut du sujet (Ouvert, Fermé, ...)
-5. Définir le type de sujet (Erreur, Avertissement, Info, ...)
-6. Définir la date d'échéance du sujet
-7. Définir le membre assigné au sujet. Vous pouvez assigner un sujet à un utilisateur individuel ou à une équipe.
-8. Définir le membre qui demande ce sujet. Vous pouvez définir un utilisateur individuel ou une équipe.
-9. Modifier les étiquettes du sujet
-10. La liste des commentaires du sujet
+1. Actualiser le contenu de ce sujet
+1. Naviguer entre les sujets
+1. Définir le statut du sujet (Ouvert, Fermé, ...)
+1. Définir le type de sujet (Erreur, Avertissement, Info, ...)
+1. Définir la date d'échéance du sujet
+1. Définir le membre assigné au sujet. Vous pouvez assigner un sujet à un utilisateur individuel ou à une équipe.
+1. Définir le membre qui demande ce sujet. Vous pouvez définir un utilisateur individuel ou une équipe.
+1. Modifier les étiquettes du sujet
+1. La liste des commentaires du sujet
 
 ### 5.2 **Propriétés du sujet**
 
@@ -195,10 +195,10 @@ Tous les commentaires s'affichent sous le sujet. Un commentaire peut contenir du
 ![CommentDetail.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/17-comments.png)
 
 1. L'auteur du commentaire
-2. Quand le commentaire a été créé. Vous pouvez survoler la date pour afficher la date et l'heure complètes de la mise à jour.
-3. Le [bouton de zoom](#h_d873968c27) (voir le chapitre ci-dessous)
-4. L'image associée au commentaire
-5. Le texte du commentaire
+1. Quand le commentaire a été créé. Vous pouvez survoler la date pour afficher la date et l'heure complètes de la mise à jour.
+1. Le [bouton de zoom](#h_d873968c27) (voir le chapitre ci-dessous)
+1. L'image associée au commentaire
+1. Le texte du commentaire
 
 ### 5.4 **Zoom**
 

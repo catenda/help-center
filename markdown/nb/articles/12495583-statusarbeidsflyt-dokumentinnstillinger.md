@@ -20,7 +20,7 @@ Som standard er det ein delt status med namnet «delt» som er konfigurert. Typi
 - Arbeid pågår - Blå
 - Intern validering - Blå
 
-**Prosjektendringer**
+_Prosjektendringer_
 
 - Informasjon startar med eit minor revisjonstal: 0.1, 0.2, 1.1, osv...
 - Informasjon kan bli publisert for å få eit major revisjonstal: 1.0, 2.0, 3.0, osv...
@@ -32,7 +32,7 @@ Som standard er det ein delt status med namnet «delt» som er konfigurert. Typi
 
 ### 1.2 **Deaktivere delte statusar**
 
-**Prosjektendringer**
+_Prosjektendringer_
 
 - Publiserte statusar - Ny informasjon sendt inn i den publiserte fasen.
 - Standard status er sett til «Ingen status».

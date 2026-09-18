@@ -19,6 +19,6 @@ Upload-Fehler können auch auftreten, wenn der Text im dynamischen Block nicht d
 Um die genauen Anforderungen eines Benennungskonventionsblocks zu überprüfen, kann die Regelkonfiguration direkt aus der Dokumentoberfläche überprüft werden:
 
 1. Erweitern Sie das rechte Informationsmenü für ein vorhandenes Dokument im betroffenen Ordner.
-2. Überprüfen Sie den Abschnitt **Vorschau der Benennungskonvention**, der eine Echtzeitaufschlüsselung dessen bietet, was die Benennungsregel erwartet.
-3. Bewegen Sie die Maus über den spezifischen Versions- oder Statusblock, um die Konfigurationsregeln anzuzeigen.
-4. Identifizieren Sie das genaue benutzerdefinierte Feld, das den Block antreibt, um zu ermitteln, welche spezifischen Werte zulässig sind, und passen Sie den lokalen Dateinamen entsprechend an.
+1. Überprüfen Sie den Abschnitt **Vorschau der Benennungskonvention**, der eine Echtzeitaufschlüsselung dessen bietet, was die Benennungsregel erwartet.
+1. Bewegen Sie die Maus über den spezifischen Versions- oder Statusblock, um die Konfigurationsregeln anzuzeigen.
+1. Identifizieren Sie das genaue benutzerdefinierte Feld, das den Block antreibt, um zu ermitteln, welche spezifischen Werte zulässig sind, und passen Sie den lokalen Dateinamen entsprechend an.

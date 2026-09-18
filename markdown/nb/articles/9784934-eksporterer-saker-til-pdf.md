@@ -56,39 +56,39 @@ Tittelen på saken etterfulgt av nummeret på saken på Catenda.
 
 Følgende hoveder er inkludert:
 
-**Type** Typen av saken
+_Type_ Typen av saken
 
-**Status** Statusen for saken
+_Status_ Statusen for saken
 
-**Tildelt til** Personen som er tildelt saken
+_Tildelt til_ Personen som er tildelt saken
 
-**Opprettet av** Opprettingen av saken
+_Opprettet av_ Opprettingen av saken
 
-**Opprettet** Tiden saken ble opprettet for første gang
+_Opprettet_ Tiden saken ble opprettet for første gang
 
-**Lukket på** Hvis saken er lukket, vises det siste tidspunktet for lukking av saken her.
+_Lukket på_ Hvis saken er lukket, vises det siste tidspunktet for lukking av saken her.
 
-**Frist** Fristen
+_Frist_ Fristen
 
-**Egendefinerte felt fra sakslisten** Hvert egendefinert felt og verdien dersom det finnes noen er inkludert
+_Egendefinerte felt fra sakslisten_ Hvert egendefinert felt og verdien dersom det finnes noen er inkludert
 
-**Merkelapper** Merkelapper er opplistet med navn og farge.
+_Merkelapper_ Merkelapper er opplistet med navn og farge.
 
 ### 3.3 **Ekskluderte sakhoveder**
 
-**Milepæl** Milepæler er ikke inkludert i PDF-eksporten.
+_Milepæl_ Milepæler er ikke inkludert i PDF-eksporten.
 
-**Markør** Klikk [her](https://support.catenda.com/en/articles/4854523-2d-location-of-topics) for å lese mer om eksporteringen av 2D-plassering til PDF.
+_Markør_ Klikk [her](https://support.catenda.com/en/articles/4854523-2d-location-of-topics) for å lese mer om eksporteringen av 2D-plassering til PDF.
 
 ### 3.4 **Sakskoblinger**
 
 Lenker til saksrelasjoner på Catenda er inkludert i PDF-eksporten. De relaterte elementene blir ikke eksportert automatisk, så vurder å eksportere denne informasjonen separat.
 
-**Saker** Hvis saker er koblet til den eksporterte saken, listes hver sak med en lenke til den saken på Catenda.
+_Saker_ Hvis saker er koblet til den eksporterte saken, listes hver sak med en lenke til den saken på Catenda.
 
 > **Merk:** Disse sakene er ikke nødvendigvis inkludert i rapporten da de kan være fra en annen saksliste med andre tilgangsinnstillinger.
 
-**Dokumenter** Hvis det finnes dokumenter som er koblet til saken, vil du se dem opplistet her med lenker til hvert dokument i Catenda.
+_Dokumenter_ Hvis det finnes dokumenter som er koblet til saken, vil du se dem opplistet her med lenker til hvert dokument i Catenda.
 
 ### 3.5 **Beskrivelse**
 

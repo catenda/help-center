@@ -78,15 +78,15 @@ En revisjonsstatus vil bli brukt for hver fil som er ekstrahert fra en zippet fi
 
 ### 3.4 Publiser delte revisjoner
 
-**Flere dokumenter i dokumentstruktur** En publiseringshandling vil være tilgjengelig i elementhandlingsmenyen for ett eller flere valgte dokumenter med delte revisjoner.
+_Flere dokumenter i dokumentstruktur_ En publiseringshandling vil være tilgjengelig i elementhandlingsmenyen for ett eller flere valgte dokumenter med delte revisjoner.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/10-publish-shared-revisions.png)
 
-**Enkelt revidert i dokumentforhåndsvisning eller dokumentstruktur** En publiseringshandling vil være tilgjengelig som et ikon og i handlingsmenyen for revisjonsinformasjonen til en delt revidert i høyre informasjonsmeny.
+_Enkelt revidert i dokumentforhåndsvisning eller dokumentstruktur_ En publiseringshandling vil være tilgjengelig som et ikon og i handlingsmenyen for revisjonsinformasjonen til en delt revidert i høyre informasjonsmeny.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/11-publish-shared-revisions.png)
 
-**Flere modeller** En publiseringshandling vil være tilgjengelig i revisjonsinformasjonen om et dokument med en delt revidert i høyre informasjonsmeny i dokumentstrukturen og i dokumentforhåndsvisningen.
+_Flere modeller_ En publiseringshandling vil være tilgjengelig i revisjonsinformasjonen om et dokument med en delt revidert i høyre informasjonsmeny i dokumentstrukturen og i dokumentforhåndsvisningen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/12-publish-shared-revisions.png)
 
@@ -115,9 +115,9 @@ Delte revisjoner har et mindre revisjonsnummer (f.eks. #0.1, #2.3, #4.1) Publise
 
 I dokumentstrukturen vil du se den nyeste revisjonen du har tilgang til. Klikk på navnet på et dokument for å åpne dokumentforhåndsvisningen av den viste revisjonen.
 
-**Workspace-fanen** Den siste revisjonen i workspace-fanen kan være: Delt revisjon - _Nødvendig tilgang:_ Delte revisjoner Publisert revisjon - _Nødvendig tilgang:_ Les
+_Workspace-fanen_ Den siste revisjonen i workspace-fanen kan være: Delt revisjon - _Nødvendig tilgang:_ Delte revisjoner Publisert revisjon - _Nødvendig tilgang:_ Les
 
-**Publisert fane** Den nyeste revisjonen i den publiserte fanen kan være: Publisert revidert - _Tilgang kreves:_ Lese
+_Publisert fane_ Den nyeste revisjonen i den publiserte fanen kan være: Publisert revidert - _Tilgang kreves:_ Lese
 
 > **Merknad:** Delte revisjoner kan være synlige i revisjonsoversikten av dokumentforhåndsvisningen, selv om du åpnet dokumentet fra den publiserte fanen. _Tilgang kreves:_ Delte revisjoner
 
@@ -138,7 +138,7 @@ Velg ett dokument eller åpne dokumentforhåndsvisningen ved å klikke på dokum
 - Endre en publisert revisjonsstatus til en annen publisert revisjonsstatus.
   _Tilgang kreves:_ Skrivetilgang og publiserte revisjoner
 
-**Revisjonsinformasjonsdialog** Klikk på revisjonsboksen for å se en oversikt over alle revisjonene i dokumentet i [revisjonsinformasjonsdialogen](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision#h_6838c6ad71). En grønn lenke mellom en publisert og en delt revidert indikerer hvilken delt revidert som ble publisert.
+_Revisjonsinformasjonsdialog_ Klikk på revisjonsboksen for å se en oversikt over alle revisjonene i dokumentet i [revisjonsinformasjonsdialogen](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision#h_6838c6ad71). En grønn lenke mellom en publisert og en delt revidert indikerer hvilken delt revidert som ble publisert.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/17-revision-information.png)
 
@@ -152,11 +152,11 @@ Bare publiserte revisjoner er synlige i Catenda Site.
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-868820a898ba.png" width="500"/></div>
 
-2. Dokumentstatus kan deretter [konfigureres](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) fra innstillingene i dokumentseksjonen:
+1. Dokumentstatus kan deretter [konfigureres](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) fra innstillingene i dokumentseksjonen:
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-931418a5fab1.png" width="500"/></div>
 
-3. Til slutt kan disse dokumentstatusene tildeles filtilstandsstatus som er tilgjengelig fra knappen med tre punkter øverst til høyre i [Godkjenningsseksjonen](https://support.catenda.com/en/articles/8349340-approvals-page). Det er også mulig å konfigurere en saksmal her.
+1. Til slutt kan disse dokumentstatusene tildeles filtilstandsstatus som er tilgjengelig fra knappen med tre punkter øverst til høyre i [Godkjenningsseksjonen](https://support.catenda.com/en/articles/8349340-approvals-page). Det er også mulig å konfigurere en saksmal her.
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-3cdbebefca38.png" width="500"/></div>
 
@@ -165,20 +165,20 @@ Bare publiserte revisjoner er synlige i Catenda Site.
 ## 5. **Godkjenningsarbeidsflyt**
 
 1. En godkjenningsarbeidsflyt opprettes av en administrator.
-   1. Innsender-team
-   2. Vurderingsteam (minst ett godkjenningstrinn er påkrevd)
-   3. Sluttverifiseringsteam
-2. Et medlem av et innsender-team sender en godkjenningsforespørsel med et sett med delte revisjoner på godkjenningssiden.
-3. Medlemmer av innsender-teamene som er tildelt trinnet, vurderer dokumentene som er sendt inn i godkjenningen og gir enten en godkjent eller avvist validering.
-4. Når alle trinn er fullført, vurderer et medlem av sluttverifiseringsteamet valideringene som er sendt inn på vegne av de ulike teamene i hvert trinn og gir sin endelige validering av godkjent, godkjent med kommentar eller avvist.
-   1. Sluttvurderer kan ta en endelig, informert beslutning om hvorvidt dette dokumentet skal publiseres (godkjent) eller avvises (være som delt)
+    1. Innsender-team
+    1. Vurderingsteam (minst ett godkjenningstrinn er påkrevd)
+    1. Sluttverifiseringsteam
+1. Et medlem av et innsender-team sender en godkjenningsforespørsel med et sett med delte revisjoner på godkjenningssiden.
+1. Medlemmer av innsender-teamene som er tildelt trinnet, vurderer dokumentene som er sendt inn i godkjenningen og gir enten en godkjent eller avvist validering.
+1. Når alle trinn er fullført, vurderer et medlem av sluttverifiseringsteamet valideringene som er sendt inn på vegne av de ulike teamene i hvert trinn og gir sin endelige validering av godkjent, godkjent med kommentar eller avvist.
+    1. Sluttvurderer kan ta en endelig, informert beslutning om hvorvidt dette dokumentet skal publiseres (godkjent) eller avvises (være som delt)
 
 ### 5.1 **Eldre godkjenningsarbeidsflyt**
 
 1. En godkjenningsforespørsel nominerer en utgiver (person ansvarlig for å ta den endelige avgjørelsen om publisering), og en eller flere vurderere som er ansvarlig for å validere (eller ikke) settet med dokumenter
-2. Hver vurderer vil bestemme om det delte dokumentet er godkjent, godkjent med kommentar eller avvist
-3. På slutten av vurderingen vil utgiveren velge resultatet av godkjenningen ved å velge dokumenter som skal publiseres.
-4. Fra godkjenningsinnstillingene kan saker knyttet til dokumentene opprettes for å holde styr på prosessen senere
+1. Hver vurderer vil bestemme om det delte dokumentet er godkjent, godkjent med kommentar eller avvist
+1. På slutten av vurderingen vil utgiveren velge resultatet av godkjenningen ved å velge dokumenter som skal publiseres.
+1. Fra godkjenningsinnstillingene kan saker knyttet til dokumentene opprettes for å holde styr på prosessen senere
 
 En detaljert demonstrasjon av disse trinnene vises i følgende opplæring:
 

@@ -10,9 +10,13 @@ Prenez votre temps pour reprendre votre routine de travail, assurez-vous de rest
 
 Bienvenue ! ☀️😎🏖️🌊🍦☕
 
+Les topics suivants sont décrits dans cet article :
+
 ## 1. **Articles**
 
 À mesure que de nouvelles fonctionnalités sont déployées et que les bugs sont corrigés, les articles sont mis à jour avec les modifications apportées. Veuillez trouver les articles suivants qui ont été créés et modifiés depuis le dernier changelog.
+
+Les topics suivants sont décrits dans cette section :
 
 ### 1.1 **Nouveaux articles :**
 
@@ -80,6 +84,8 @@ Bienvenue ! ☀️😎🏖️🌊🍦☕
 
 Grâce à vos précieux commentaires, nous avons pu éliminer de nombreux topics que vous ayez remarqué ou non. Voici une liste des petits changements apportés par l'équipe de développement suite à des conversations avec les utilisateurs.
 
+Les topics suivants sont décrits dans cette section :
+
 ### 3.1 **Général**
 
 - **[Projets] Création de projet restaurée**<br>Il est à nouveau possible de créer des projets.
@@ -125,8 +131,8 @@ Grâce à vos précieux commentaires, nous avons pu éliminer de nombreux topics
 - **Onglet Aperçu des révisions de documents** <br>La page des approbations dispose maintenant d'un onglet dédié "Révisions de documents" qui fournit un aperçu complet du tableau de tous les fichiers actuellement en révision dans toutes les approbations ouvertes. <br>Vous pouvez maintenant rechercher, trier et filtrer les révisions de documents individuelles par assignation d'équipe, état d'examen et date d'échéance sans avoir à ouvrir chaque package d'approbation séparément.
 - **Localisation japonaise pour les approbations**
 
-  La localisation complète en japonais a été implémentée dans l'interface d'approbation et les pages de configuration du flux de travail.
-  Les équipes travaillant en japonais peuvent maintenant naviguer dans les cartes d'approbation, les outils d'examen de document et les menus de configuration avec une terminologie localisée précise et cohérente.
+    La localisation complète en japonais a été implémentée dans l'interface d'approbation et les pages de configuration du flux de travail.
+    Les équipes travaillant en japonais peuvent maintenant naviguer dans les cartes d'approbation, les outils d'examen de document et les menus de configuration avec une terminologie localisée précise et cohérente.
 
 ### 4.3 **Paramètres du projet**
 

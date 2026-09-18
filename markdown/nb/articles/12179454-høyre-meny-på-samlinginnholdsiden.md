@@ -24,11 +24,11 @@ Etter fullføring kan alternativene se slik ut:
 
 ### 1.1 **Dokumentrevisjon**
 
-**Følg siste revisjon** hvis du lagrer andre revisjoner av dokumentene, vil samlingen også oppdateres.
+_Følg siste revisjon_ hvis du lagrer andre revisjoner av dokumentene, vil samlingen også oppdateres.
 
-**Blokker revisjon:** Ingen oppdatering når nye revisjoner arkiveres.
+_Blokker revisjon:_ Ingen oppdatering når nye revisjoner arkiveres.
 
-**Del med prosjekt** Ved å dele samlingen
+_Del med prosjekt_ Ved å dele samlingen
 
 - Samlingen vil ikke lenger være privat.
 - Alle medlemmer av prosjektet kan se samlingen.
@@ -40,11 +40,11 @@ Etter fullføring kan alternativene se slik ut:
 
 Hvis et dokument oppdages som infisert med virus, fjernes det fra samlingen.
 
-**Fullført**
+_Fullført_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/07-document-revision.png)
 
-**Når samlingen er delt, kan du "Fullføre" den for å aktivere den offentlige lenken:**
+_Når samlingen er delt, kan du "Fullføre" den for å aktivere den offentlige lenken:_
 
 Ved å fullføre samlingen:
 
@@ -60,19 +60,19 @@ Når samlingen er fullført, kan du:
 
 ### 1.2 **Offentlig URL-deling**
 
-**12. Aktiver den offentlige lenken**
+_12. Aktiver den offentlige lenken_
 
-**13. Angi en utløpsdato for delte lenker**
+_13. Angi en utløpsdato for delte lenker_
 
-**14. Del samlingen eksternt** Dokumentsamlinger som deles eksternt kan lastes ned av alle med lenken. Personer med lenken trenger ikke en Catenda-konto for å laste ned filene fra denne samlingen.
+_14. Del samlingen eksternt_ Dokumentsamlinger som deles eksternt kan lastes ned av alle med lenken. Personer med lenken trenger ikke en Catenda-konto for å laste ned filene fra denne samlingen.
 
 > **Merk:** Det er mulig å be om at den offentlige delingsfunksjonen deaktiveres. Hvis du ønsker at dette alternativet skal være aktivert, kontakt støtten.
 
-**15. Del samlingen internt via e-post**
+_15. Del samlingen internt via e-post_
 
 ### 1.3 **Følgere**
 
-**16. Følgere: du kan legge til eller redigere følgerne av samlingen din.**
+_16. Følgere: du kan legge til eller redigere følgerne av samlingen din._
 
 ## 2. **Historikk**
 
@@ -84,6 +84,6 @@ Historiefanen lar deg få en oversikt over endringene og nedlastingene av samlin
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/10-history.png)
 
-**Samling delt med interne brukere**
+_Samling delt med interne brukere_
 
-**Samling delt med eksterne brukere**
+_Samling delt med eksterne brukere_

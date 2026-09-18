@@ -9,10 +9,10 @@ Catenda Hub propose une nouvelle fonctionnalité complète d'annotation. Cette f
 La bannière du document sera décrite dans cet article et s'étend sur toute la partie supérieure de la page du document
 
 1. La [bannière du document](https://support.catenda.com/en/articles/8461918-document-banner-navigation) sera décrite dans cet article et s'étend sur toute la partie supérieure de la page du document
-2. Vous trouverez l'en-tête du document sous la bannière du document et au-dessus de l'aperçu du document
-3. Sous l'en-tête du document, vous trouverez l'aperçu du document qui sera expliqué dans cet article.
-4. À gauche de l'en-tête et de l'aperçu du document, vous trouverez la liste des documents
-5. À droite de l'en-tête et de l'aperçu du document, vous trouverez le [menu d'informations sur la droite](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
+1. Vous trouverez l'en-tête du document sous la bannière du document et au-dessus de l'aperçu du document
+1. Sous l'en-tête du document, vous trouverez l'aperçu du document qui sera expliqué dans cet article.
+1. À gauche de l'en-tête et de l'aperçu du document, vous trouverez la liste des documents
+1. À droite de l'en-tête et de l'aperçu du document, vous trouverez le [menu d'informations sur la droite](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
 
 ## 1. **Barre d'outils d'annotation**
 

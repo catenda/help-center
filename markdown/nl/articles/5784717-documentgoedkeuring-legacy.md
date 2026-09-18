@@ -9,17 +9,17 @@ De onderstaande afbeelding beschrijft de stappen die nodig zijn om het proces in
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xan46xhc/01-intro.png)
 
 1. Activeer de [Status workflow](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) in uw [Documentbibliotheek-instellingen](https://support.catenda.com/en/articles/7831371-document-settings)
-2. [Bewerk](https://support.catenda.com/en/articles/7831371-document-settings#h_c580374cfc) de beschikbare statussen naar uw wensen
-3. U kunt nu Documenten als Concepten uploaden
-4. Wanneer het project Concepten bevat, kunt u deze selecteren en een nieuwe Goedkeuring maken
+1. [Bewerk](https://support.catenda.com/en/articles/7831371-document-settings#h_c580374cfc) de beschikbare statussen naar uw wensen
+1. U kunt nu Documenten als Concepten uploaden
+1. Wanneer het project Concepten bevat, kunt u deze selecteren en een nieuwe Goedkeuring maken
 
 ## 1. Goedkeuringsinstellingen
 
 1. Een belangrijke stap is het aanpassen van de [goedkeuringsinstellingen](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) op de [pagina met projectinstellingen](https://support.catenda.com/en/articles/4670273-project-settings-page).
-2. Een goedkeuringsverzoek benoemt een Uitgever (persoon die verantwoordelijk is voor het nemen van de uiteindelijke beslissing over de publicatie) en een of meer Revisoren, die verantwoordelijk zijn voor validatie (of niet) van de set concepten
-3. Elke revisor beslist of het concept Goedgekeurd, Goedgekeurd met opmerking of Afgewezen is
-4. Aan het einde van de beoordeling kiest de Uitgever het resultaat van de goedkeuring door de documenten te selecteren die gepubliceerd moeten worden.
-5. Vanuit de goedkeuringsinstellingen kunnen Problemen met betrekking tot de documenten worden aangemaakt om het proces later bij te houden
+1. Een goedkeuringsverzoek benoemt een Uitgever (persoon die verantwoordelijk is voor het nemen van de uiteindelijke beslissing over de publicatie) en een of meer Revisoren, die verantwoordelijk zijn voor validatie (of niet) van de set concepten
+1. Elke revisor beslist of het concept Goedgekeurd, Goedgekeurd met opmerking of Afgewezen is
+1. Aan het einde van de beoordeling kiest de Uitgever het resultaat van de goedkeuring door de documenten te selecteren die gepubliceerd moeten worden.
+1. Vanuit de goedkeuringsinstellingen kunnen Problemen met betrekking tot de documenten worden aangemaakt om het proces later bij te houden
 
 Een gedetailleerde demonstratie van deze stappen wordt weergegeven in de volgende zelfstudie:
 

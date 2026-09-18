@@ -66,11 +66,11 @@ Her vil du bli spurt hva du skal bruke Catenda Hub til. Rullegardinmenyen har tr
 
 Fyll ut tittelen som best beskriver deg i rullegardinmenyen som så vises.
 
-**Bygg / Anlegg** Hvis du valgte Bygg / Anlegg, vennligst spesifiser hvilken bransje/domene du hovedsakelig arbeider innen, størrelsen på bedriften din, navn og telefonnummer.
+_Bygg / Anlegg_ Hvis du valgte Bygg / Anlegg, vennligst spesifiser hvilken bransje/domene du hovedsakelig arbeider innen, størrelsen på bedriften din, navn og telefonnummer.
 
-**Programvareutvikling** Hvis du valgte Programvareutvikling, vennligst spesifiser hvilke industrinsegmenter programvaren din retter seg mot, størrelsen på bedriften din, navn og telefonnummer
+_Programvareutvikling_ Hvis du valgte Programvareutvikling, vennligst spesifiser hvilke industrinsegmenter programvaren din retter seg mot, størrelsen på bedriften din, navn og telefonnummer
 
-**Undervisning** Hvis du valgte Undervisning, vennligst spesifiser hvilken type institusjon du går på. Deretter hva navnet på institusjonen er.
+_Undervisning_ Hvis du valgte Undervisning, vennligst spesifiser hvilken type institusjon du går på. Deretter hva navnet på institusjonen er.
 
 Etter at du har fylt ut spørreskjemaet vil du se at Fortsett-knappen er uthevet med en grønn fyll.
 

@@ -18,21 +18,21 @@ Opprinnelig ble dette løst ved å skrive ned informasjon for hånd med penn og 
 
 Hvordan kan du fortelle hvem som skrev det? Kanskje du kan se en persons håndskrift, men dette kan være forfalsket.
 
-**Kommunikasjonshistorikk** Når ble denne kommunikasjonen registrert? Kanskje du kunne karbon-datere blekket og papiret, men ikke alle har tilgang til denne teknologien. Posten kan også ha blitt endret over tid, noe du kanskje oppdager fra en annen blekk farge eller tekstur på papiraddisjonen, men dette er ingenting å stole på.
+_Kommunikasjonshistorikk_ Når ble denne kommunikasjonen registrert? Kanskje du kunne karbon-datere blekket og papiret, men ikke alle har tilgang til denne teknologien. Posten kan også ha blitt endret over tid, noe du kanskje oppdager fra en annen blekk farge eller tekstur på papiraddisjonen, men dette er ingenting å stole på.
 
-**Søkbarhet** Hvilket stykke papir hadde kommunikasjonen som inneholdt informasjonen du lette etter? Å gjennomsøke kommunikasjonsopptak har også historisk sett vært et problem ettersom disse papirbunkerene begynner å hoper seg opp over tid.
+_Søkbarhet_ Hvilket stykke papir hadde kommunikasjonen som inneholdt informasjonen du lette etter? Å gjennomsøke kommunikasjonsopptak har også historisk sett vært et problem ettersom disse papirbunkerene begynner å hoper seg opp over tid.
 
-**Tilgjengelighet** Hvor er papiret plassert? Dette er ofte et spørsmål om sikkerhet, men også et spørsmål om vedlikehold. Hva nytter det å registrere ting bare for å miste oppgaven på grunn av uaktsomhet ved lagring eller miste tilgang på grunn av at det fysiske dokumentet er langt fra vår plassering?
+_Tilgjengelighet_ Hvor er papiret plassert? Dette er ofte et spørsmål om sikkerhet, men også et spørsmål om vedlikehold. Hva nytter det å registrere ting bare for å miste oppgaven på grunn av uaktsomhet ved lagring eller miste tilgang på grunn av at det fysiske dokumentet er langt fra vår plassering?
 
 ## 2. **Digital kommunikasjon**
 
 Og så har mange av oss gått over til å registrere ting digitalt. Den typiske form for kommunikasjon som mange av oss er vant til i dag er via e-post eller chatmelding. Dette løser allerede en stor del av ulempene ved fysisk papir som du kan forestille deg.
 
-**Oversikt** Privat meldingutveksling som e-post eller chatmeldinger fungerer bra en-til-en, men så snart flere personer blir involvert begynner du å løpe inn i problemer. Tenk deg en gruppechat med alle i byggeprojektet som prater samtidig. Ikke bare ville det være umulig å holde følge med alt, men viktige samtaler kan gå tapt i informasjonsstrømmen.
+_Oversikt_ Privat meldingutveksling som e-post eller chatmeldinger fungerer bra en-til-en, men så snart flere personer blir involvert begynner du å løpe inn i problemer. Tenk deg en gruppechat med alle i byggeprojektet som prater samtidig. Ikke bare ville det være umulig å holde følge med alt, men viktige samtaler kan gå tapt i informasjonsstrømmen.
 
-**Ansvar** Det samme kan observeres for e-postsamtaler. Jeg er sikker på at mange av dere har vært del av en lang e-posttråd med personer som kommer inn og ut og svar på svar på svar med mange personer på cc mens bare to personer trengte å være del av denne samtalen. Ett problem med dette er at når en melding sendes til en gruppe mennesker, føler ingen av mottakerne seg personlig ansvarlig for å svare på denne samtalen.
+_Ansvar_ Det samme kan observeres for e-postsamtaler. Jeg er sikker på at mange av dere har vært del av en lang e-posttråd med personer som kommer inn og ut og svar på svar på svar med mange personer på cc mens bare to personer trengte å være del av denne samtalen. Ett problem med dette er at når en melding sendes til en gruppe mennesker, føler ingen av mottakerne seg personlig ansvarlig for å svare på denne samtalen.
 
-**Informasjonsflyt** Det kan også være ubehagelig å svare ettersom du vil at alle skal ha tilgang til oppgaven over svaret ditt, men du vil ikke nødvendigvis "svare alle" og varsle alle som er del av e-postkjeden.
+_Informasjonsflyt_ Det kan også være ubehagelig å svare ettersom du vil at alle skal ha tilgang til oppgaven over svaret ditt, men du vil ikke nødvendigvis "svare alle" og varsle alle som er del av e-postkjeden.
 
 ## 3. **Hva er en topic?**
 

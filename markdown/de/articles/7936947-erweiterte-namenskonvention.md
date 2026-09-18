@@ -7,20 +7,18 @@ Dieser Artikel baut auf den folgenden Artikeln auf: [Einfachste Namenskonvention
 Durch die Einrichtung dieser [Konvention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) erfahren Sie alles Notwendige über [Namenskonventionen](https://support.catenda.com/en/articles/7832559-naming-conventions-page), sodass Sie die [Blöcke](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) auswählen können, die Sie für Ihre eigene [Konvention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) wünschen. Angenommen, Sie organisieren alle Ihre 3D-Modelle und Konstruktionszeichnungen lokal.
 
 - Sie haben einen Bindestrich _( - )_ im Namen der Datei. Um die verschiedenen [Blöcke](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) zu trennen, müssen Sie einen Unterstrich _( \_ )_ als [Trennzeichen](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=in%20document%20settings-,Separator,-%3A%20The%20character) verwenden.
-
 - Diese Dateien beginnen mit dem Datum der Dateierstellung.
 
-  Dies ist für Sie nützlich, da es visueller ist, wenn Ihre Dateien alphabetisch nach Erstellungsdatum sortiert sind, obwohl dies an verschiedenen Stellen aufgeführt wird.
+    Dies ist für Sie nützlich, da es visueller ist, wenn Ihre Dateien alphabetisch nach Erstellungsdatum sortiert sind, obwohl dies an verschiedenen Stellen aufgeführt wird.
 
 - Danach folgt der Name der Datei, der beliebig lang sein kann.
-
 - Am Ende des Dateinamens haben Sie einen Status, der anzeigt, welche Version der Datei Sie haben.
 
-  Dieser Teil ist nur zusätzlicher Text, den Sie verwenden, um Ihre Dateien lokal auseinander zu halten. Sie möchten diesen Teil des Dateinamens nicht im Dokument "Catenda Hub" sehen, da er nur lokal für Sie nützlich ist und nichts mit anderen Personen im Projekt zu tun hat.
+    Dieser Teil ist nur zusätzlicher Text, den Sie verwenden, um Ihre Dateien lokal auseinander zu halten. Sie möchten diesen Teil des Dateinamens nicht im Dokument "Catenda Hub" sehen, da er nur lokal für Sie nützlich ist und nichts mit anderen Personen im Projekt zu tun hat.
 
 - Abschließend haben Sie beschlossen, sicherzustellen, dass Sie nur bestimmte Dateitypen in diesem Ordner speichern.
 
-  Sie werden die Dateitypen auf IFC, PDF, DWG, SMC, PL und RVT beschränken
+    Sie werden die Dateitypen auf IFC, PDF, DWG, SMC, PL und RVT beschränken
 
 ### 1.1 **Anfangseinrichtung**
 

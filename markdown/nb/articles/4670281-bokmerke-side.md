@@ -46,6 +46,6 @@ Når du holder musen over bildet, vil du se en avspillingsknapp vises. Hvis du k
 
 ### 3.1 **Øverst til venstre-ikon**
 
-**Kopier til mine bokmerker** Hvis bokmerket har blitt delt med prosjektet av noen andre, vil du se et plusstegn øverst til venstre. Klikk denne knappen for å lage en privat kopi av dette bokmerket. Du vil vite at det har lyktes å lage en kopi når ikonet blir til en hake, og du ser en melding nederst på siden der du kan åpne kopien din. Du vil også kunne søke etter kopien din etter å ha oppdatert siden.
+_Kopier til mine bokmerker_ Hvis bokmerket har blitt delt med prosjektet av noen andre, vil du se et plusstegn øverst til venstre. Klikk denne knappen for å lage en privat kopi av dette bokmerket. Du vil vite at det har lyktes å lage en kopi når ikonet blir til en hake, og du ser en melding nederst på siden der du kan åpne kopien din. Du vil også kunne søke etter kopien din etter å ha oppdatert siden.
 
-**Merkte bokmerker** Hvis du eier bokmerket, vil du se at ikonet øverst til venstre har blitt til en stjerne. Når du klikker på denne stjernen, legges en gul stjerne til for dette bokmerket. Merkte bokmerker vises på [dashbordet](https://support.catenda.com/en/articles/8212646-dashboard-page#h_6785d4f10c) ditt.
+_Merkte bokmerker_ Hvis du eier bokmerket, vil du se at ikonet øverst til venstre har blitt til en stjerne. Når du klikker på denne stjernen, legges en gul stjerne til for dette bokmerket. Merkte bokmerker vises på [dashbordet](https://support.catenda.com/en/articles/8212646-dashboard-page#h_6785d4f10c) ditt.

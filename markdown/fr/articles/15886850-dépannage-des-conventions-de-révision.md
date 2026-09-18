@@ -19,6 +19,6 @@ Les échecs de téléchargement peuvent également se produire si le texte dans 
 Pour vérifier les exigences exactes d'un bloc de convention de nommage, la configuration de la règle peut être examinée directement à partir de l'interface de document :
 
 1. Développez le menu d'informations de droite pour un document existant dans le dossier concerné.
-2. Consultez la section **Aperçu de la convention de nommage**, qui fournit une répartition visuelle en temps réel de ce que la règle de nommage attend.
-3. Passez la souris sur le bloc de version spécifique ou de statut pour afficher ses règles de configuration.
-4. Identifiez le champ personnalisé exact alimentant le bloc pour découvrir quelles valeurs spécifiques sont autorisées, ce qui permet d'ajuster le nom de fichier local pour qu'il corresponde.
+1. Consultez la section **Aperçu de la convention de nommage**, qui fournit une répartition visuelle en temps réel de ce que la règle de nommage attend.
+1. Passez la souris sur le bloc de version spécifique ou de statut pour afficher ses règles de configuration.
+1. Identifiez le champ personnalisé exact alimentant le bloc pour découvrir quelles valeurs spécifiques sont autorisées, ce qui permet d'ajuster le nom de fichier local pour qu'il corresponde.

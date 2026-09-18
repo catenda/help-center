@@ -144,13 +144,13 @@ Het instellen en beheren van Catenda Data Export vereist een **Organisatiebeheer
 Het instellen van geautomatiseerde gegevensexports omvat vier belangrijkste stappen:
 
 1. **Bestemming selecteren**<br>Kies een cloudopslagprovider, Amazon Web Services (AWS) S3 of Microsoft Azure Blob Storage, en configureer authenticatie.
-2. **Bereik en gegevensindelingen definiëren**
-   - **Gegevenstypen**<br>Exporteer documenten, modellen en topics. <br>Topicgegevens kunnen tijdens overdracht automatisch worden omgezet in leesbare PDF-samenvattingsrapporten of standaard BCF-bestanden.
-   - **Projectselectie**<br>Kies alle projecten, selecteer specifieke projecten handmatig, of stel dynamische bijpassingsregels in met behulp van projectnaampatronen (glob of reguliere expressie / regex) om automatisch nieuwe projecten op te nemen naarmate deze worden gemaakt.
-3. **Exportmodus selecteren**
-   - **Continue modus**<br>Verzendt gegevens automatisch volgens een dagelijks schema. <br>Deze terugkerende instelling zorgt ervoor dat niet-eigenaar projectleden een bijgewerkte back-up behouden tot aan de laatste dagelijkse uitvoering als projecttoegang onverwacht wordt beëindigd.
-   - **Snapshottmodus**<br>Voert een eenmalige uitvoering uit om een volledige gegevensverzameling op een specifieke mijlpaal of projectoverdracht te exporteren.
-4. **Implementeren**<br>Voltooi en activeer de exportconfiguratie door Maken te selecteren.
+1. **Bereik en gegevensindelingen definiëren**
+    - **Gegevenstypen**<br>Exporteer documenten, modellen en topics. <br>Topicgegevens kunnen tijdens overdracht automatisch worden omgezet in leesbare PDF-samenvattingsrapporten of standaard BCF-bestanden.
+    - **Projectselectie**<br>Kies alle projecten, selecteer specifieke projecten handmatig, of stel dynamische bijpassingsregels in met behulp van projectnaampatronen (glob of reguliere expressie / regex) om automatisch nieuwe projecten op te nemen naarmate deze worden gemaakt.
+1. **Exportmodus selecteren**
+    - **Continue modus**<br>Verzendt gegevens automatisch volgens een dagelijks schema. <br>Deze terugkerende instelling zorgt ervoor dat niet-eigenaar projectleden een bijgewerkte back-up behouden tot aan de laatste dagelijkse uitvoering als projecttoegang onverwacht wordt beëindigd.
+    - **Snapshottmodus**<br>Voert een eenmalige uitvoering uit om een volledige gegevensverzameling op een specifieke mijlpaal of projectoverdracht te exporteren.
+1. **Implementeren**<br>Voltooi en activeer de exportconfiguratie door Maken te selecteren.
 
 ### 3.3 **Geëxtraheerde inhoud en Integriteitsverificatie**
 

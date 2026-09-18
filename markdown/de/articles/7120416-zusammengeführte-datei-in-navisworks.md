@@ -8,7 +8,7 @@ So laden Sie auf Ihr lokales Gerät herunter:
 
 - Klicken Sie auf die Download-Schaltfläche für jedes Modell, das Sie herunterladen möchten.
 - Die Modelle werden in einem neuen Ordner mit dem Projektnamen unter dem in der Registerkarte "Einstellungen" angegebenen Download-Pfad gespeichert.
-  - Beispiel: C:\\...\\Dokumente\\Catenda-Projektname
+    - Beispiel: C:\\...\\Dokumente\\Catenda-Projektname
 
 ## 2. Erstellen einer zusammengeführten .nwf-Datei mit IFCs aus Catenda
 

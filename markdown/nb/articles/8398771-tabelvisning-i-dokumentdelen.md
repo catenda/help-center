@@ -8,27 +8,27 @@
 
 Settet med kolonner er som følger:
 
-**Navn**
+_Navn_
 
-**Revisjon**
+_Revisjon_
 
-**Revisjonsnavn**
+_Revisjonsnavn_
 
-**Modell-navn**
+_Modell-navn_
 
-**Status**
+_Status_
 
-**Størrelse**
+_Størrelse_
 
-**Merkelapper**
+_Merkelapper_
 
-**Publisert**
+_Publisert_
 
-**Lenker**
+_Lenker_
 
-**Viser**
+_Viser_
 
-**Opprettet**
+_Opprettet_
 
 ### 1.1 **Revisjonsnavn**
 
@@ -58,9 +58,9 @@ I øvre høyre hjørne av dokumenttabellen finner du en veldig kraftig ny funksj
 
 ### 2.2 **Kolonneoverskriftsrad**
 
-**Dra kolonner** Du kan dra på kolonneoverskriften i overskriftsraden for å flytte den til venstre og høyre. Hvis du drar overskriften utenfor tabellen vil den bli skjult. For å få overskriften tilbake må du aktivere den igjen i [kolonneavruller](#h_5f5f6862d0).
+_Dra kolonner_ Du kan dra på kolonneoverskriften i overskriftsraden for å flytte den til venstre og høyre. Hvis du drar overskriften utenfor tabellen vil den bli skjult. For å få overskriften tilbake må du aktivere den igjen i [kolonneavruller](#h_5f5f6862d0).
 
-**Auto-tilpassing** Dobbeltklikk skilletegnet mellom kolonner for å automatisk tilpasse til innholdet i kolonnen. Dette er nyttig når du ser lange dokumentnavn. Breddeendringene du gjør vil bare endres for brukeren og ikke for alle brukerne i prosjektet.
+_Auto-tilpassing_ Dobbeltklikk skilletegnet mellom kolonner for å automatisk tilpasse til innholdet i kolonnen. Dette er nyttig når du ser lange dokumentnavn. Breddeendringene du gjør vil bare endres for brukeren og ikke for alle brukerne i prosjektet.
 
 ## 3. **Dynamiske rader**
 

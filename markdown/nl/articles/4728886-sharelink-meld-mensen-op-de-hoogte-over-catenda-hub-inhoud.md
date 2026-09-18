@@ -8,6 +8,8 @@ Zoek de sharelink-knop naar de [bovenkant rechts van de pagina](https://support.
 
 Als u zich op de hoofdpagina bevindt voordat u een project opent, wordt de sharelink-knop grijs weergegeven. Het is alleen mogelijk om pagina's binnen een project te delen.
 
+De volgende topics zijn in dit artikel beschreven:
+
 ## 1. **Gebruikers op de hoogte stellen**
 
 Wilt u een teamlid op de hoogte stellen van een document, enkele Topics of andere inhoud in Catenda Hub, zonder Catenda Hub te verlaten? Of misschien hebben gebruikers hun Catenda Hub-Notificaties uitgeschakeld? Deze functie lost deze problemen op.
@@ -20,18 +22,20 @@ ShareLink stuurt een e-mail vanuit Catenda Hub naar de teamleden die u kiest, me
 
 1. Selecteer eerst maximaal 100 inhoudselementen die u wilt delen.
 
-   Bijvoorbeeld enkele Documenten of Topics.
+    Bijvoorbeeld enkele Documenten of Topics.
 
-   Een sharelink-ontvanger ziet dan alleen deze items.
-   Als de pagina met een sharelink-ontvanger wordt gedeeld, zien zij de volledige pagina, inclusief Filters, op basis van hun toegang in het project.
+    Een sharelink-ontvanger ziet dan alleen deze items.
+    Als de pagina met een sharelink-ontvanger wordt gedeeld, zien zij de volledige pagina, inclusief Filters, op basis van hun toegang in het project.
 
-2. Klik op de ShareLink-knop.<br>
+1. Klik op de ShareLink-knop.<br>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 
 ## 2. **ShareLink-venster**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/03-sharelink-window-br.png)
+
+De volgende topics zijn in deze sectie beschreven:
 
 ### 2.1 **Ontvangers**
 
@@ -69,9 +73,9 @@ Het e-mailbericht kan er als volgt uitzien als u een schermafbeelding hebt toege
 
 1. Klik op deze koppeling, Catenda Hub opent een pagina met de gedeelde items.
 
-   of
+    of
 
-2. Plak deze URL in uw browser.
+1. Plak deze URL in uw browser.
 
 Wanneer u de koppeling volgt, worden alleen de geselecteerde items weergegeven:
 

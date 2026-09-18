@@ -125,8 +125,8 @@ Dankzij jullie waardevol feedback hebben we veel onderwerpen kunnen oplossen die
 - **Tabblad Overzicht documentrevisies** <br>De pagina met goedkeuringen bevat nu een speciaal tabblad "Documentrevisies" dat een volledig tabeloverzicht biedt van alle bestanden die momenteel in alle open goedkeuringen worden beoordeeld. <br>U kunt nu afzonderlijke documentrevisies zoeken, sorteren en filteren op Teams-toewijzing, beoordelingsstatus en einddatum zonder dat u elk goedkeuringspakket afzonderlijk hoeft te openen.
 - **Japanse lokalisatie voor goedkeuringen**
 
-  Volledige Japanse lokalisatie is geïmplementeerd in de goedkeuringingsinterface en werkstroomconfiguratiePages.
-  Teams die in het Japans werken kunnen nu navigeren goedkeuringkaarten, documentreviewhulpmiddelen en instellingsmenu's met nauwkeurige en consistente gelokaliseerde terminologie.
+    Volledige Japanse lokalisatie is geïmplementeerd in de goedkeuringingsinterface en werkstroomconfiguratiePages.
+    Teams die in het Japans werken kunnen nu navigeren goedkeuringkaarten, documentreviewhulpmiddelen en instellingsmenu's met nauwkeurige en consistente gelokaliseerde terminologie.
 
 ### 4.3 **Projectinstellingen**
 

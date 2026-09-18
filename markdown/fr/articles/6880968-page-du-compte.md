@@ -3,7 +3,7 @@
 Vos [paramètres de compte](https://bimsync.com/account/profile) se trouvent à deux endroits :
 
 1. Sur le côté gauche de la **page d'accueil** de Catenda Hub.
-2. Dans le menu déroulant qui apparaît après avoir cliqué sur votre **photo de profil** n'importe où dans Catenda Hub.
+1. Dans le menu déroulant qui apparaît après avoir cliqué sur votre **photo de profil** n'importe où dans Catenda Hub.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/01-intro.png)
 
@@ -57,9 +57,9 @@ Dans [authentification](https://bimsync.com/account/authentication), il est poss
 
 1. Modifier votre mot de passe
 
-   Cliquez [ici](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) pour le dépannage des mots de passe
+    Cliquez [ici](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) pour le dépannage des mots de passe
 
-2. [Activer et désactiver l'AMF.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
+1. [Activer et désactiver l'AMF.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
 
 ![Contrôlez votre connexion](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/07-authentication.png)
 

@@ -38,11 +38,11 @@ Ved å klikke på filterknappen vises et panel på venstre side. Merk av i bokse
 
 Hvis flere av de samme filtrene er valgt, skilles de med `,` eller `%2C` Hvis flere filtre er valgt, skilles de med `&` eller `%26` Ulike filtre og deres URL-ekvivalenter:
 
-**Status** Aktiv - Standard - `status=active` Arkivert - `status=archived `
+_Status_ Aktiv - Standard - `status=active` Arkivert - `status=archived `
 
 > **Merk:** Det er bare mulig å vise enten aktive eller arkiverte arbeidsflyter, ikke begge samtidig
 
-**Søk** Tekstsøk - `search=test` Som standard samsvarer tekstsøket bare med aktive arbeidsflyter. For å søke i arkiverte statuser, filter først på arkivert og bruk deretter tekstsøket.
+_Søk_ Tekstsøk - `search=test` Som standard samsvarer tekstsøket bare med aktive arbeidsflyter. For å søke i arkiverte statuser, filter først på arkivert og bruk deretter tekstsøket.
 
 ## 3. **Arbeidsflytstabel**
 
@@ -54,7 +54,7 @@ Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) 
 
 ### 3.1 **Radinnhold**
 
-**Arbeidsflytrad** Når du åpner innholdet i en arbeitsflytrad, åpnes arbeidsflytsiden for denne arbeidsflyten. Slik kan en arbeitsflytside se ut når den er åpnet.
+_Arbeidsflytrad_ Når du åpner innholdet i en arbeitsflytrad, åpnes arbeidsflytsiden for denne arbeidsflyten. Slik kan en arbeitsflytside se ut når den er åpnet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vnbxxjrb/05-row-content.png)
 

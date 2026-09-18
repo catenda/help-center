@@ -74,11 +74,11 @@ Etter at du har valgt ett eller flere dokument(er) eller mappe(r), vil du se fø
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/04-actions.png)
 
-**Koble/fjern kobling** Hvis du velger et objekt fra en modell i 3D, kan du kople/fjerne koblingen til de valgte elementene.
+_Koble/fjern kobling_ Hvis du velger et objekt fra en modell i 3D, kan du kople/fjerne koblingen til de valgte elementene.
 
-**Forhåndsvisning** Åpne en forhåndsvisning av dokumentet uten å måtte laste inn dokumentsiden. Dette kan være spesielt nyttig i en mappe med mange bilder. Bare synlig når ett enkelt dokument er valgt
+_Forhåndsvisning_ Åpne en forhåndsvisning av dokumentet uten å måtte laste inn dokumentsiden. Dette kan være spesielt nyttig i en mappe med mange bilder. Bare synlig når ett enkelt dokument er valgt
 
-**Last ned** Klikk på last ned for å laste ned det valgte dokumentet. Bare synlig når ett enkelt dokument er valgt
+_Last ned_ Klikk på last ned for å laste ned det valgte dokumentet. Bare synlig når ett enkelt dokument er valgt
 
 ### 5.2 **Navn**
 
@@ -92,11 +92,11 @@ Klikk på nedlastingsknappen i denne kolonnen for å laste ned dokumentet.
 
 Hvis noen objekter har blitt koblet til dokumentene dine, vil du kunne se antall koblede objekter her. Hvis du klikker på dette nummeret, kan du:
 
-**Velg objekter**
+_Velg objekter_
 
-**Isoler objekter**
+_Isoler objekter_
 
-**Last som spørring**
+_Last som spørring_
 
 ## 6. **Høyre informasjonsmeny**
 

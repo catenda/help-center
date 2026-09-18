@@ -76,7 +76,7 @@ Grâce à vos précieux commentaires, nous avons pu résoudre de nombreux probl�
 
 - Il est à nouveau possible de rétracter les menus de filtre.
 - Il est maintenant beaucoup plus rapide pour les projets avec de nombreux modèles de charger la page du tableau de bord.
-  - Le chargement des informations du modèle dans le panneau de contenu est maintenant environ 100 fois plus rapide.
+    - Le chargement des informations du modèle dans le panneau de contenu est maintenant environ 100 fois plus rapide.
 - Il est à nouveau possible de sélectionner les révisions précédentes lors de la comparaison de modèles.
 - Il est à nouveau possible de charger des modèles dans la vue 3D des signets.
 - Il est à nouveau possible de masquer les grilles en 3D.
@@ -84,9 +84,9 @@ Grâce à vos précieux commentaires, nous avons pu résoudre de nombreux probl�
 - Les objets sélectionnés dans l'arborescence sont à nouveau correctement mis en surbrillance.
 - Il est à nouveau possible d'isoler les objets des bibliothèques de propriétés et des objets liés.
 - Couleur/matériau de l'objet
-  - Certaines couleurs qui s'affichaient précédemment s'affichent maintenant à nouveau correctement.
-  - Les objets n'apparaissent plus en noir au lieu de leur couleur appropriée.
-  - Les fenêtres sont à nouveau transparentes.
+    - Certaines couleurs qui s'affichaient précédemment s'affichent maintenant à nouveau correctement.
+    - Les objets n'apparaissent plus en noir au lieu de leur couleur appropriée.
+    - Les fenêtres sont à nouveau transparentes.
 - Les vues 2D ont été traitées à nouveau pour quelques modèles, elles ne manquent donc plus.
 - Il est à nouveau possible de voir les propriétés des objets dans le panneau d'information de droite.
 

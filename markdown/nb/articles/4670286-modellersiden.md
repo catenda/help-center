@@ -59,31 +59,31 @@ Klikk [her](https://support.catenda.com/en/articles/9431936-models-page-actions#
 
 Når tabellen lastes inn første gang vises opptil 100 rader. Hvis det er mer enn 100 rader i tabellen, ruller du ned til bunnen for å laste inn de neste 100 radene. Hver modellrad er knyttet til et dokument på dokumentsiden.
 
-**Tilgang** Modellrader vises basert på tilgangen til dokumentet som er knyttet til modellen. _Tilgang påkrevd -_ Les Åpning av innholdet i en modellrad åpner [modelloversiktssiden](https://support.catenda.com/en/articles/4670270-model-page) for denne modellen.
+_Tilgang_ Modellrader vises basert på tilgangen til dokumentet som er knyttet til modellen. _Tilgang påkrevd -_ Les Åpning av innholdet i en modellrad åpner [modelloversiktssiden](https://support.catenda.com/en/articles/4670270-model-page) for denne modellen.
 
-**2D- og 3D-knapper** For 2D åpnes 3D-panelet og første etasje av den siste revisjonen av modellen lastes inn i 2D-visningen. For 3D åpnes 3D-panelet og den siste revisjonen av modellen lastes inn i 3D.
+_2D- og 3D-knapper_ For 2D åpnes 3D-panelet og første etasje av den siste revisjonen av modellen lastes inn i 2D-visningen. For 3D åpnes 3D-panelet og den siste revisjonen av modellen lastes inn i 3D.
 
 ### 4.3 **Radinnhold med statusarbeidsflyt - Utkast revisjoner**
 
-**Tilgang** Modellrader av modeller med bare utkastrevisjoner har ingen 2D- og 3D-knapper fordi utkastrevisjoner ikke kan lastes inn i 2D eller 3D.
+_Tilgang_ Modellrader av modeller med bare utkastrevisjoner har ingen 2D- og 3D-knapper fordi utkastrevisjoner ikke kan lastes inn i 2D eller 3D.
 
 > **Merknad:** Utkastrevisjoner vises ikke på [modelloversiktssiden](https://support.catenda.com/en/articles/4670270-model-page).
 
-**2D- og 3D-knapper** 2D- og 3D-visningene av den siste publiserte revisjonen åpnes selv om det finnes nyere utkastrevisjoner.
+_2D- og 3D-knapper_ 2D- og 3D-visningene av den siste publiserte revisjonen åpnes selv om det finnes nyere utkastrevisjoner.
 
 ### 4.4 **Radinnhold med statusarbeidsflyt - Arbeidsområde-fane**
 
-**Tilgang** Modellrader vises basert på tilgangen til dokumentet som er knyttet til modellen. Med tilgang til visning av delte revisjoner vises den siste revisjonen. _Tilgang påkrevd_ - Tilgang til visning av delte revisjoner i dokumentet
+_Tilgang_ Modellrader vises basert på tilgangen til dokumentet som er knyttet til modellen. Med tilgang til visning av delte revisjoner vises den siste revisjonen. _Tilgang påkrevd_ - Tilgang til visning av delte revisjoner i dokumentet
 
 Uten tilgang til visning av delte revisjoner vises den siste publiserte revisjonen. Selv om det finnes nyere delte revisjoner. _Tilgang påkrevd -_ Les tilgang til dokumentet
 
-**2D- og 3D-knapper** 2D- og 3D-visningene av den siste revisjonen som brukeren har tilgang til åpnes.
+_2D- og 3D-knapper_ 2D- og 3D-visningene av den siste revisjonen som brukeren har tilgang til åpnes.
 
 ### 4.5 **Radinnhold med statusarbeidsflyt - Publisert-fane**
 
-**Tilgang** Modellrader vises basert på tilgangen til dokumentet som er knyttet til modellen. _Tilgang påkrevd -_ Les
+_Tilgang_ Modellrader vises basert på tilgangen til dokumentet som er knyttet til modellen. _Tilgang påkrevd -_ Les
 
-**2D- og 3D-knapper** 2D- og 3D-visningene av den siste publiserte revisjonen åpnes selv om det finnes nyere delte revisjoner.
+_2D- og 3D-knapper_ 2D- og 3D-visningene av den siste publiserte revisjonen åpnes selv om det finnes nyere delte revisjoner.
 
 ### 4.6 **Kolonner**
 

@@ -24,33 +24,33 @@ Versjonsekvensering brukes til å spore påfølgende fileoppdateringer. Avhengig
 
 ### 2.1 Standard versjonsekvens (`v1`, `v2`, `v3`)
 
-**2.1.1 Teamet** Liam (BIM-leder) og Sophia (Konstruktøringeniør).
+_2.1.1 Teamet_ Liam (BIM-leder) og Sophia (Konstruktøringeniør).
 
-**2.1.2 Arbeidsflyten** Sophia laster jevnlig opp strukturelle modellfiler til plattformen. Liam krever at alle innkommende modeller skal være eksplisitt merket med standard versjonsekvenser som `v1`, `v2` eller `v3`.
+_2.1.2 Arbeidsflyten_ Sophia laster jevnlig opp strukturelle modellfiler til plattformen. Liam krever at alle innkommende modeller skal være eksplisitt merket med standard versjonsekvenser som `v1`, `v2` eller `v3`.
 
-**2.1.3 Atferd og hensyn** Selv om dette oppsettet er enkelt i begynnelsen, kan versjonsspor utvides til doble eller trippeltall (f.eks. `v10` eller `v123`) etter hvert som prosjektet fremskriter. For å imøtekomme denne veksten etableres et tekstfelt med enten uendelig (variabel) lengde eller større fast lengde.
+_2.1.3 Atferd og hensyn_ Selv om dette oppsettet er enkelt i begynnelsen, kan versjonsspor utvides til doble eller trippeltall (f.eks. `v10` eller `v123`) etter hvert som prosjektet fremskriter. For å imøtekomme denne veksten etableres et tekstfelt med enten uendelig (variabel) lengde eller større fast lengde.
 
 En viktig visuell vurdering med denne tilnærmingen er at hvis blokken befinner seg i midten av filnavnet, vil tillegg av et annet eller tredje tegn til sekvensen visuelt forskyve alle påfølgende navneblokker over tegn-plasser. For å forhindre at disse skiftende versjonsetikett­ene oppretter helt separate dokumentbeholdere under hver opplasting, må dokumentidentifikatoren deaktiveres.
 
-**2.1.4 Konfigurasjonen**
+_2.1.4 Konfigurasjonen_
 
 - **Kildekilde:** Egendefinert tekstfelt.
 - **Lengde:** Stå tom for variabel lengde, eller angi en større fast tall.
 - **Dokumentidentifikator:** Av.
 
-**2.1.5 Resultatet** Når Sophia laster opp filer med navn som `Structural_Model_v1.ifc` og `Structural_Model_v10.ifc`, gjenkjenner plattformen de endrede versjonsstengene. Filene stabiles pent som sekvensielle revisjoner under en enkelt, statisk dokumentbeholder med navn `Structural_Model`.
+_2.1.5 Resultatet_ Når Sophia laster opp filer med navn som `Structural_Model_v1.ifc` og `Structural_Model_v10.ifc`, gjenkjenner plattformen de endrede versjonsstengene. Filene stabiles pent som sekvensielle revisjoner under en enkelt, statisk dokumentbeholder med navn `Structural_Model`.
 
 ### 2.2 Alfanumerisk bindestrek-polstret sekvens (`--`, `-a`, `-b`)
 
-**2.2.1 Teamet** Sarah (Lederarkitekt) og Tom (BIM-koordinator).
+_2.2.1 Teamet_ Sarah (Lederarkitekt) og Tom (BIM-koordinator).
 
-**2.2.2 Arbeidsflyten** Sarah utsteder arkitektoniske tegninger som følger en progresjon der den første utgivelsen starter med et dobbelt bindestrek (`--`), fulgt av alfabetisk sporing (`-a`, `-b`) når endringer oppstår. Hun samarbeider med Tom, som administrerer mappeoppsettet.
+_2.2.2 Arbeidsflyten_ Sarah utsteder arkitektoniske tegninger som følger en progresjon der den første utgivelsen starter med et dobbelt bindestrek (`--`), fulgt av alfabetisk sporing (`-a`, `-b`) når endringer oppstår. Hun samarbeider med Tom, som administrerer mappeoppsettet.
 
-**2.2.3 Atferd og hensyn** I motsetning til standard versjonsekvens holder dette bindestrek-polstrete oppsettet blokkens lengde nøyaktig den samme. Når en ny versjonsbokstav introduseres, ofres en plassholder-bindestrek for å opprettholde jevn avstand.
+_2.2.3 Atferd og hensyn_ I motsetning til standard versjonsekvens holder dette bindestrek-polstrete oppsettet blokkens lengde nøyaktig den samme. Når en ny versjonsbokstav introduseres, ofres en plassholder-bindestrek for å opprettholde jevn avstand.
 
 En primær utfordring med denne strategien er at når alle plassholder-bindestrekene innenfor den forhåndsdefinerte lengden er oppbrukt, bryter konvensjonen. Derfor anbefales denne tilnærmingen kun når det er en klar forståelse av grensen for maksimal revisjon for dokumentene.
 
-**2.2.4 Konfigurasjonen:**
+_2.2.4 Konfigurasjonen:_
 
 - **Kildefield**<br>Tekstkustomfelt konfigurert med streng, fast lengde (f.eks. 2 eller 3 tegn) eller et rullegardinvalgfelt som inneholder de eksakte tillatte variasjonene.
 - **Dokumentidentifikator:** Av.
@@ -58,34 +58,34 @@ En primær utfordring med denne strategien er at når alle plassholder-bindestre
 
 ### 2.3 Enkel numerisk sporingssekvens (`01`, `02`, `03`)
 
-**2.3.1 Teamet** David (Konstruksjonstegnmann) og Chloe (Leder konstruktøringeniør).
+_2.3.1 Teamet_ David (Konstruksjonstegnmann) og Chloe (Leder konstruktøringeniør).
 
-**2.3.2 Arbeidsflyten** David oppdaterer tegninger med konstruksjonsdetaljer hyppig og merker dem numerisk på sin datamaskin ved hjelp av sekvensielle indikatorer som `01`, `02` og `03`. Chloe gjennomgår disse detalj­ene og stoler på at plattformen sikrer at David legger inn tall i stedet for tilfeldige tekstbokstaver.
+_2.3.2 Arbeidsflyten_ David oppdaterer tegninger med konstruksjonsdetaljer hyppig og merker dem numerisk på sin datamaskin ved hjelp av sekvensielle indikatorer som `01`, `02` og `03`. Chloe gjennomgår disse detalj­ene og stoler på at plattformen sikrer at David legger inn tall i stedet for tilfeldige tekstbokstaver.
 
-**2.3.3 Atferd og hensyn** En heltall-fokusert regelblokk legges til mappestrukturen for å validere oppføringer. Merk at selv om det sikrer at bare numeriske oppføringer brukes, godtar systemet ethvert gyldig heltall i stedet for å tvinge en streng, trinnvis sekvensiell telling.
+_2.3.3 Atferd og hensyn_ En heltall-fokusert regelblokk legges til mappestrukturen for å validere oppføringer. Merk at selv om det sikrer at bare numeriske oppføringer brukes, godtar systemet ethvert gyldig heltall i stedet for å tvinge en streng, trinnvis sekvensiell telling.
 
-**2.3.4 Konfigurasjonen**
+_2.3.4 Konfigurasjonen_
 
 - **Kildekilde:** Egendefinert heltallsfelt.
 - **Dokumentidentifikator:** Av.
 
-**2.3.5 Resultatet** Når David laster opp `Steel_Detail_01.pdf`, bekrefter heltallsfeltet at blokken inneholder numeriske data og tillater opplastingen. Hvis David gjør en feil og prøver å laste opp en fil som inneholder bokstaver i denne blokken, avviser systemet filen. Chloe kan overvåke filene vel vitende om at selv om plattformen godtar ethvert gyldig heltall og ikke tvinger David til å telle opp i en stiv kronologisk sekvens, garanterer den en ren numerisk tidslinje i filinformasjonsruten.
+_2.3.5 Resultatet_ Når David laster opp `Steel_Detail_01.pdf`, bekrefter heltallsfeltet at blokken inneholder numeriske data og tillater opplastingen. Hvis David gjør en feil og prøver å laste opp en fil som inneholder bokstaver i denne blokken, avviser systemet filen. Chloe kan overvåke filene vel vitende om at selv om plattformen godtar ethvert gyldig heltall og ikke tvinger David til å telle opp i en stiv kronologisk sekvens, garanterer den en ren numerisk tidslinje i filinformasjonsruten.
 
 ## 3. **3. Arbeidsflyter for forkortelsesstatuskartlegging (`W`, `D`, `P`)**
 
-**3.1 Teamet** Elena (HVAC-ingeniør) og Marcus (Prosjektleder).
+_3.1 Teamet_ Elena (HVAC-ingeniør) og Marcus (Prosjektleder).
 
-**3.2 Arbeidsflyten:** Elena bruker et lokalt navnesystem der hun legger til enkeltbokstav-forkortelseskoder for å indikere en tegnings livssyklustatus: `W` for Under utarbeidelse, `D` for Utkast og `P` for Publisert. Marcus, prosjektlederen, må kjenne den nøyaktige statusen for ingeniørarkene hennes med et øyeblikk, men foretrekker fulle, beskrivende ord i stedet for forkortelser.
+_3.2 Arbeidsflyten:_ Elena bruker et lokalt navnesystem der hun legger til enkeltbokstav-forkortelseskoder for å indikere en tegnings livssyklustatus: `W` for Under utarbeidelse, `D` for Utkast og `P` for Publisert. Marcus, prosjektlederen, må kjenne den nøyaktige statusen for ingeniørarkene hennes med et øyeblikk, men foretrekker fulle, beskrivende ord i stedet for forkortelser.
 
-**3.3 Atferd og hensyn** En rullegardinkonfigurasjon brukes på mappen for å bygge bro mellom lokale forkortelseskoder og plattformmetadata-visningstitler.
+_3.3 Atferd og hensyn_ En rullegardinkonfigurasjon brukes på mappen for å bygge bro mellom lokale forkortelseskoder og plattformmetadata-visningstitler.
 
-**3.4 Konfigurasjonen:**
+_3.4 Konfigurasjonen:_
 
 - **Kildekilde:** Egendefinert rullegardinfelt.
 - **Oppsettskartlegging**<br>"Koden" er satt til å samsvare med Elenas lokale filnavnmerker (`W`, `D`, `P`), mens "Navnet" er skrevet ut fullt som visningsverdien (`Work in Progress`, `Draft`, `Published`).
 - **Dokumentidentifikator:** Av.
 
-**3.5 Resultatet** Når Elena laster opp `HVAC_Layout_W.pdf`, samsvarer systemet koden `W` og fyller automatisk metadatavisningen som `Under utarbeidelse`. Når Marcus utvider høyre informasjonsmeny for å gjennomgå filen, forblir dokumentnavnet et rent, statisk `HVAC_Layout`, mens delen **Revisjonsopplysninger** eksplisitt viser «Under utarbeidelse».
+_3.5 Resultatet_ Når Elena laster opp `HVAC_Layout_W.pdf`, samsvarer systemet koden `W` og fyller automatisk metadatavisningen som `Under utarbeidelse`. Når Marcus utvider høyre informasjonsmeny for å gjennomgå filen, forblir dokumentnavnet et rent, statisk `HVAC_Layout`, mens delen **Revisjonsopplysninger** eksplisitt viser «Under utarbeidelse».
 
 ## 4. **4. Numerisk datosporing og kronologisk sortering**
 
@@ -101,12 +101,12 @@ Oliver behandler daglige stedrapporter og må spore nøyaktig når hver rapport 
 
 I denne variasjonen endres datoen med hver ny filopplasting og representerer en ny revisjon av dagloggen. Oliver bruker to siffer for dagen (`01`–`31`), to siffer for måneden (`01`–`12`) og enten et tosifret år (`26`, `27`) eller et firesifret år (`2026`, `2027`). Fordi en navnekonvensjon bare tillater ett primært separatortegn på tvers av blokkene, krever håndtering av et isolert datoformat valg mellom to distinkte konfigurasjonsveier:
 
-**4.3.1 Tre separate heltallsblokker**
+_4.3.1 Tre separate heltallsblokker_
 
 - **Struktur**<br>Hvis en understrek (`_`) er etablert som primærseparator, kan filen formateres som `Daily_Report_09_07_2026.pdf`. <br>Dette bruker tre individuelle heltallskustomfelter: Dag, Måned og År.
 - **Dokumentidentifikatorbegrensninger**<br>Hvis dokumentidentifikatoren er skrudd **På** for disse tre blokkene, er datoen permanent integrert som en del av dokumentnavnet. <br>Dette oppretter en separat dokumentbeholder for hver enkelt revisjon, og datoverdiene forblir permanente fordi dokumentnavn i navnkonvensjonsmapper ikke kan endres. <br>For å tillate at datofeltene varierer og stabel filer som revisjoner under ett statisk dokumentnavn, er det nødvendig å slå dokumentidentifikatoren **Av** for alle tre feltene.
 
-**4.3.2 Enkelt tekstblokk med interne separatorer**
+_4.3.2 Enkelt tekstblokk med interne separatorer_
 
 - **Struktur**<br>For å unngå å bruke flere konvensjonsblokker, kan et alternativt tegn (som en bindestrek) brukes inne i en enkelt tekstfeltblokk, formatert som `Daily_Report_09-07-2026.pdf`.
 - **Valideringsbegrensninger**<br>Det er bare mulig å validere den overordnede tekststrengen innen en individuell blokk. Følgelig er det helt avhengig av manuell brukernøyaktighet under filberedelse å sikre at de sekundære interne separatorene er plassert korrekt.
@@ -117,15 +117,15 @@ I denne variasjonen vil Emma at datoen skal være synlig i dokumentnavnet slik a
 
 For å forhindre dette, plasserer Oliver året først, etterfulgt av måneden og deretter dagen. Ved administrering av dette prefikset er det en balanse mellom å bevare tegenplass og sikre umiddelbar lesbarhet, noe som fører til to implementeringsalternativer:
 
-**4.4.1 To-sifret årprefikser (`YYMMDD`)** Dette alternativet forkorter sorteringsstrengen til en enkelt blokk for å eliminere ekstra separatortegn og reduserer året til to heltall (f.eks. `26`, `27`, `28`). Dette sparer tegenplass, noe som reduserer risikoen for at lange dokumentnavn blir avskåret eller trunkert på slutten av linjen i brukergrensesnittet. Imidlertid oppgir dette alternativet umiddelbar lesbarhet.
+_4.4.1 To-sifret årprefikser (`YYMMDD`)_ Dette alternativet forkorter sorteringsstrengen til en enkelt blokk for å eliminere ekstra separatortegn og reduserer året til to heltall (f.eks. `26`, `27`, `28`). Dette sparer tegenplass, noe som reduserer risikoen for at lange dokumentnavn blir avskåret eller trunkert på slutten av linjen i brukergrensesnittet. Imidlertid oppgir dette alternativet umiddelbar lesbarhet.
 
 En datostreng som `260126` kan lett bli misforstått, da det ikke er umiddelbar klart hvilke tall som representerer året og hvilke som representerer dagen. Et mønster blir først gjenkjennbart etter visning av flere filer, og forskjellen blir bare tydelig når en dag eller årverdi overstiger 31.
 
-**4.4.2 Fire-sifret årprefikser (`YYYYMMDD`)** Dette alternativet bruker et fullstendig firesifret år (f.eks. `2026`, `2027`, `2028`) på begynnelsen av navnet. Denne konfigurasjonen forbedrer klarhet og umiddelbar lesbarhet betydelig, noe som gjør den kronologiske sekvensen åpenbar for alle teammedlemmer. Imidlertid bruker det mer tegenplass på begynnelsen av filnavnet, noe som øker sannsynligheten for at informasjon på slutten av lange dokumentnavn blir trunkert eller skåret av i grensesnittet.
+_4.4.2 Fire-sifret årprefikser (`YYYYMMDD`)_ Dette alternativet bruker et fullstendig firesifret år (f.eks. `2026`, `2027`, `2028`) på begynnelsen av navnet. Denne konfigurasjonen forbedrer klarhet og umiddelbar lesbarhet betydelig, noe som gjør den kronologiske sekvensen åpenbar for alle teammedlemmer. Imidlertid bruker det mer tegenplass på begynnelsen av filnavnet, noe som øker sannsynligheten for at informasjon på slutten av lange dokumentnavn blir trunkert eller skåret av i grensesnittet.
 
-**4.4.3 Konfigurasjon**
+_4.4.3 Konfigurasjon_
 
 - **Kildefield**<br>Et enkelt heltalls- eller tekstkustomfelt plassert helt i begynnelsen av navnkonvensjonen, formatert i en streng `YYMMDD`- eller `YYYYMMDD`-sekvens. <br>For å opprettholde riktig justering og riktig alfanumerisk sortering, må ledende nuller alltid brukes for ensifret måneder eller dager (f.eks. `01` for januar).
 - **Dokumentidentifikator:** På.
 
-**4.4.4 Resultat** Når Oliver laster opp filer som `260115_Report.pdf` og `260201_Report.pdf`, opprettes separate dokumenter fordi dokumentidentifikatoren er aktiv. Fordi året og måneden kommer først og bruker konsistent tosifret polstring, sorterer dokumenttabellen filene i upåklagelig kronologisk rekkefølge.
+_4.4.4 Resultat_ Når Oliver laster opp filer som `260115_Report.pdf` og `260201_Report.pdf`, opprettes separate dokumenter fordi dokumentidentifikatoren er aktiv. Fordi året og måneden kommer først og bruker konsistent tosifret polstring, sorterer dokumenttabellen filene i upåklagelig kronologisk rekkefølge.

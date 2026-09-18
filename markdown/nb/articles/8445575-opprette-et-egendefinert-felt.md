@@ -14,9 +14,9 @@ _Tekst_ - Kan inneholde hvilken som helst tekst
 
 _Heltall_ - Kan bare inneholde hele tall
 
-**Desimaltall** Et desimaltallsfelt vil vise opptil 6 tall etter kommaet. Hvis det er mer enn 6 tall etter kommaet, vil vitenskapelig notasjon bli brukt.
+_Desimaltall_ Et desimaltallsfelt vil vise opptil 6 tall etter kommaet. Hvis det er mer enn 6 tall etter kommaet, vil vitenskapelig notasjon bli brukt.
 
-**Rullegardin** Hvis du oppretter et egendefinert rullegardin-felt, må du [legge til verdier](https://support.catenda.com/en/articles/8445588-custom-field-page#h_45eefa3001) i rullegardinlisten
+_Rullegardin_ Hvis du oppretter et egendefinert rullegardin-felt, må du [legge til verdier](https://support.catenda.com/en/articles/8445588-custom-field-page#h_45eefa3001) i rullegardinlisten
 
 ## 3. **Beskrivelse**
 

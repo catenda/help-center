@@ -33,7 +33,7 @@ Controleer de metagegevens rechtstreeks in Solibri om te bevestigen of uw modell
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ym9bebpy/01-how-to-verify-the-guid-in-solibri.png)
 
 1. Selecteer het **Model** in de Solibri Model Tree.
-2. Open de **Info Tool** of het **Identity** tabblad.
-3. Zoek het veld **IFCProject GUID**.
+1. Open de **Info Tool** of het **Identity** tabblad.
+1. Zoek het veld **IFCProject GUID**.
 
 Als twee modellen hier dezelfde reeks tekens tonen, behandelt de connector ze als hetzelfde model.

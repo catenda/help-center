@@ -103,15 +103,15 @@ Når du eksporterer kan du konfigurere .smc-filen som skal lastes opp.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/10-right-information-menu-upload.png)
 
-**Oppdater dokumentnavn** Når dette alternativet er på, oppdateres navnet på det valgte dokumentet til navnet du har gitt til filen din.
+_Oppdater dokumentnavn_ Når dette alternativet er på, oppdateres navnet på det valgte dokumentet til navnet du har gitt til filen din.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/11-right-information-menu-upload.png)
 
 På denne måten kan du forsikre deg om at du kan fortsette å laste opp revisjoner til et dokument mens du sikrer at det alltid har samme navn som disse revisjonene.
 
-**Velg lignende dokumenter automatisk** Når dette alternativet er på kan du laste opp filen din til et dokument med et lignende navn, selv om det ikke er helt det samme. Merk at den opplastede revisjonen fortsatt vil ha filnavnet du har angitt.
+_Velg lignende dokumenter automatisk_ Når dette alternativet er på kan du laste opp filen din til et dokument med et lignende navn, selv om det ikke er helt det samme. Merk at den opplastede revisjonen fortsatt vil ha filnavnet du har angitt.
 
-**Filnavn** Her vil du se navnet på filen som skal lastes opp til Catenda.
+_Filnavn_ Her vil du se navnet på filen som skal lastes opp til Catenda.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/12-right-information-menu-upload.png)
 
@@ -119,13 +119,13 @@ Som standard vil navnet på .smc-filen som du har lagret på systemet ditt vises
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/13-right-information-menu-upload.png)
 
-**Dokument** Her vil du se navnet på dokumentet på Catenda som skal motta filen.
+_Dokument_ Her vil du se navnet på dokumentet på Catenda som skal motta filen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/14-right-information-menu-upload.png)
 
 Som standard vil det ha samme navn som filnavnet. Hvis det ennå ikke finnes et dokument med det navnet i den gjeldende mappen, vil dette feltet være grønt, noe som indikerer at et nytt dokument blir opprettet. Navnet som dokumentet ditt skal ha kan fortsatt endres på dette tidspunktet. Hvis det finnes andre .smc-dokumenter i denne mappen kan du klikke på dokumentnavnet for å velge noen av de andre dokumentene som du ønsker å laste opp .smc-filen til som en revisjon. Hvis du har valgt et dokument, eller hvis det er et dokument i den gjeldende mappen med samme navn, vil dette feltet være grått. Du vil da se en melding som advarer deg om at et dokument med dette navnet allerede finnes, og at .smc-filen din skal lastes opp som en ny revisjon til det dokumentet.
 
-**Status** Hvis statusarbeidsflyten er aktivert for prosjektet ditt vil du se statusrullemenyen.
+_Status_ Hvis statusarbeidsflyten er aktivert for prosjektet ditt vil du se statusrullemenyen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/15-right-information-menu-upload.png)
 
@@ -201,7 +201,7 @@ Høyreklikk et dokument for å åpne kontekstmenyen. Her kan du konfigurere inns
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/22-context-menu-updates.png)
 
-**Oppdater modeller** Slik kan oppdateringsmodeller-dialogen se ut hvis du har valgt flere dokumenter.
+_Oppdater modeller_ Slik kan oppdateringsmodeller-dialogen se ut hvis du har valgt flere dokumenter.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/23-context-menu-updates.png)
 
@@ -213,7 +213,7 @@ Innstillinger - Klikk på innstillinger for å åpne oppdateringsinnstillingene 
 
 Lenk modeller på nytt - Lenk modeller på nytt fungerer bare hvis du har valgt lokale modeller i denne dialogen og ikke med Catenda-modeller.
 
-**Oppdateringsinnstillinger for modell**
+_Oppdateringsinnstillinger for modell_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/24-context-menu-updates.png)
 

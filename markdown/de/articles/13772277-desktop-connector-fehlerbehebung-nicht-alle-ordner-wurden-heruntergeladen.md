@@ -147,8 +147,8 @@ Wenn der bereitgestellte Ordner doppelgeklickt wird, wird sofort der folgende Fe
 Ordner manuell neu erstellen Wenn der Ordner nach einem Neustart "feststeckt" bleibt:
 
 1. Benennen Sie den problematischen Ordner um (z. B. umbenennen von `ProjektDaten` zu `ProjektDaten_ALT`).
-2. Erstellen Sie einen brandneuen Ordner mit dem ursprünglichen Namen (`ProjektDaten`).
-3. Der Desktop Connector erkennt den frischen, fehlerfreien Ordner und nimmt den normalen Betrieb ohne das Suffix `_restricted` wieder auf.
+1. Erstellen Sie einen brandneuen Ordner mit dem ursprünglichen Namen (`ProjektDaten`).
+1. Der Desktop Connector erkennt den frischen, fehlerfreien Ordner und nimmt den normalen Betrieb ohne das Suffix `_restricted` wieder auf.
 
 **Verbinden Sie Hardware oder Netzwerk erneut** Gehen Sie zu "Dieser PC" und stellen Sie sicher, dass Ihre Netzlaufwerke (wie `Z:`) aktiv sind. Überprüfen Sie, ob externe USB-Laufwerke oder Festplatten ordnungsgemäß angeschlossen sind. Wenn sie ein rotes X haben, doppelklicken Sie darauf, um die Verbindung erneut herzustellen. Wenn das Netzlaufwerk nicht aktiv ist und Sie wissen, mit welchem Netzwerk das Laufwerk verbunden ist, stellen Sie die Verbindung zum Netzwerk erneut her, indem Sie ein Kabel einstecken, sich über WLAN verbinden oder bei Verwendung eines VPN überprüfen, ob das VPN aktiv ist. Wenn das Laufwerk nicht mehr verfügbar ist, wählen Sie im Desktop Connector einen anderen Zielordner aus, der entweder auf dem lokalen Computer oder im Netzwerk verfügbar ist.
 

@@ -64,31 +64,31 @@ Het tweede tabblad biedt u een overzicht van alle documenten die worden gecontro
 De tabel geeft het volgende weer:
 
 1. de naam van de revisie
-2. het revisienummer
-3. de huidige beoordelingsstap
-4. de huidige status van de stap
-5. de einddatum voor de beoordeling van de stap
-6. de teams die het document nog moeten controleren
-7. de naam van de goedkeuringsaanvraag
-8. de indiener (individueel en team)
-9. de indieningsdatum
+1. het revisienummer
+1. de huidige beoordelingsstap
+1. de huidige status van de stap
+1. de einddatum voor de beoordeling van de stap
+1. de teams die het document nog moeten controleren
+1. de naam van de goedkeuringsaanvraag
+1. de indiener (individueel en team)
+1. de indieningsdatum
 
 ### 5.1 Filteren
 
 Met het linkerfilterpaneel kunt u de documenten ook filteren op:
 
 1. Toewijzing: alle teams of specifiek uw team
-2. Documentstatus: In behandeling, Onder controle, Voltooid
-3. Einddatum: alles, komend, verlopen
+1. Documentstatus: In behandeling, Onder controle, Voltooid
+1. Einddatum: alles, komend, verlopen
 
 ### 5.2 Sorteren
 
 Tot slot kunt u sorteren op:
 
 1. Revisienaam
-2. Status
-3. Einddatum
-4. Indieningsdatum
+1. Status
+1. Einddatum
+1. Indieningsdatum
 
 ### 5.3 Zoeken
 

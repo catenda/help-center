@@ -34,9 +34,9 @@ Opprettelse av [dokumentsamlinger](https://support.catenda.com/en/articles/63443
 
 Som med dokumenter kan du bruke [bokmerker](https://support.catenda.com/en/articles/4670281-bookmarks-page) til å opprette et grunnlag for å vise anbudsgivere hvilke 3D-modeller de skal se på. Bokmerker er en fin måte å vise anbudsgivere et visningspunkt av hvilken del av prosjektet i 3D som er ment i dette tilfellet.
 
-**Delt med prosjekt** [Bokmerker](https://support.catenda.com/en/articles/4670281-bookmarks-page) må deles med prosjektet slik at andre prosjektmedlemmer kan se dem. Med [modeller som dokumenter](https://support.catenda.com/en/articles/8064548-models-as-documents) kan tilgang konfigureres slik at anbudsbrukere bare ser modellene de har tilgang til.
+_Delt med prosjekt_ [Bokmerker](https://support.catenda.com/en/articles/4670281-bookmarks-page) må deles med prosjektet slik at andre prosjektmedlemmer kan se dem. Med [modeller som dokumenter](https://support.catenda.com/en/articles/8064548-models-as-documents) kan tilgang konfigureres slik at anbudsbrukere bare ser modellene de har tilgang til.
 
-**Offentlige bokmerker** Offentlige bokmerker er en fin måte å dele 3D-visninger med eksterne parter som del av et anbud. Med et offentlig bokmerke kan du generere en lenke der anbudsgivere vil være i stand til å se en enkel versjon av modellene i bokmerket uten objektegenskapene. Dette er for å sikre at sensitiv mengdeinformasjon som kan være i disse objektene, ikke blir delt ved en ulykke.
+_Offentlige bokmerker_ Offentlige bokmerker er en fin måte å dele 3D-visninger med eksterne parter som del av et anbud. Med et offentlig bokmerke kan du generere en lenke der anbudsgivere vil være i stand til å se en enkel versjon av modellene i bokmerket uten objektegenskapene. Dette er for å sikre at sensitiv mengdeinformasjon som kan være i disse objektene, ikke blir delt ved en ulykke.
 
 ## 4. **Deaktiver offentlig deling**
 

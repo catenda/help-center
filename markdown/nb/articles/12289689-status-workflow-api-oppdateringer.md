@@ -11,7 +11,7 @@ Catenda vil differensiere mellom:
 - **"Delt"** revisjoner (arbeids-/utkastvarsjoner)
 - **"Publisert"** revisjoner (offisielle/godkjente versjoner)
 
-**Umiddelbar handling kreves hvis:**
+_Umiddelbar handling kreves hvis:_
 
 - Appen din er integrert med Catenda Hub
 - Du viser revisjonsinformasjon til brukere
@@ -61,11 +61,11 @@ Tidligere ble alle revisjoner implicit ansett som "offisielle." Nå:
 - Kan vise annen nummerering enn Hub (sekvensiell vs. X.Y-format)
 - Brukere forstår ikke revisjonskontekst uten statussynlighet
 
-**Nødvendig handling for plugin-utviklere:**
+_Nødvendig handling for plugin-utviklere:_
 
 1. Vurder om du viser revisjonsinformasjon
-2. Vurder å legge til brukerveiledning om revisjonstyper
-3. Planlegg for potensiell brukerforrvirring om nummereringsulikheter
+1. Vurder å legge til brukerveiledning om revisjonstyper
+1. Planlegg for potensiell brukerforrvirring om nummereringsulikheter
 
 ### 3.3 Også berørt
 
@@ -103,13 +103,13 @@ Nye ACL-rettigheter påvirker operasjonene dine:
 
 ## 5. Migreringshensyn
 
-**Eksisterende prosjekter:**
+_Eksisterende prosjekter:_
 
 - Alle gjeldende revisjoner vil bli "Publisert" ved migrasjon
 - Versionsnumre blir hovedrevisjonsnumre (f.eks. v3 → 3)
 - Ingen handling nødvendig for historiske data
 
-**Ny oppførsel:**
+_Ny oppførsel:_
 
 - Nye revisjoner opprettet via API = "Delt" som standard
 - Publisering krever manuell handling i Hub
@@ -133,29 +133,29 @@ Nye ACL-rettigheter påvirker operasjonene dine:
 
 ## 7. Kjente begrensninger og løsninger
 
-**For Modeller-API-brukere:**
+_For Modeller-API-brukere:_
 
 - **Begrensning**: Kan ikke få tilgang til revisjonsstatus eller utvidet nummerering
 - **Løsning**: Bruk filtrering for å få bare ønskede revisjonstyper
 - **Brukerpåvirkning**: Potensiell forvirring om revisjonsnummereringsforskjeller
 
-**For Collection API-brukere:**
+_For Collection API-brukere:_
 
 - Bare "Publisert" revisjoner kan legges til i samlinger
 - Dette kan endres basert på tilbakemelding fra kunder
 
 ## 8. Støtteressurser
 
-**Tilgjengelige dokumentasjonsoppdateringer:**
+_Tilgjengelige dokumentasjonsoppdateringer:_
 
 - [Oppdatert API-referanse] - Inkluderer ny `scope`-parameter
 
 ## 9. Vanlige spørsmål
 
-**Sp: Brytes integrasjonen min?** Sv: Ingen API-endringer som bryter, men brukeropplevelsen kan endres betydelig, spesielt for CAD-plugin-moduler.
+_Sp: Brytes integrasjonen min?_ Sv: Ingen API-endringer som bryter, men brukeropplevelsen kan endres betydelig, spesielt for CAD-plugin-moduler.
 
-**Sp: Hvorfor kan jeg ikke se revisjonsstatus i Modeller-API?** Sv: For å opprettholde bakoverkompatibilitet viser Modeller-API Status Workflow-funksjoner minimalt. Bruk filtrering for å kontrollere returnerte revisjoner.
+_Sp: Hvorfor kan jeg ikke se revisjonsstatus i Modeller-API?_ Sv: For å opprettholde bakoverkompatibilitet viser Modeller-API Status Workflow-funksjoner minimalt. Bruk filtrering for å kontrollere returnerte revisjoner.
 
-**Sp: Hvordan vet brukere hvilken type revisjon de oppretter?** Sv: Via API blir alle nye revisjoner "Delt." Brukere må bruke Catenda Hub for å opprette "Publisert" revisjoner.
+_Sp: Hvordan vet brukere hvilken type revisjon de oppretter?_ Sv: Via API blir alle nye revisjoner "Delt." Brukere må bruke Catenda Hub for å opprette "Publisert" revisjoner.
 
-**Sp: Hva hvis vi trenger mer tid til å tilpasse oss?** Sv: Kontakt oss umiddelbart. Status Workflow blir aktivert gradvis, og vi kan diskutere tidsplanalternativer for organisasjonen din.
+_Sp: Hva hvis vi trenger mer tid til å tilpasse oss?_ Sv: Kontakt oss umiddelbart. Status Workflow blir aktivert gradvis, og vi kan diskutere tidsplanalternativer for organisasjonen din.

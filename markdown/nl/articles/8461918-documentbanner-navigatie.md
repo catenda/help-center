@@ -5,10 +5,10 @@ Als u een document selecteert op de [documentenpagina](https://support.catenda.c
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/01-intro.png)
 
 1. De documentbanner wordt in dit artikel beschreven en loopt over de bovenkant van de documentenpagina
-2. U vindt de documentheader onder de documentbanner en boven het documentvoorbeeld
-3. Onder de documentheader vindt u het documentvoorbeeld
-4. Aan de linkerkant van de documentheader en het voorbeeld vindt u de documentenlijst
-5. Aan de rechterkant van de documentheader en het voorbeeld vindt u het [rechtsinformatiemenu](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
+1. U vindt de documentheader onder de documentbanner en boven het documentvoorbeeld
+1. Onder de documentheader vindt u het documentvoorbeeld
+1. Aan de linkerkant van de documentheader en het voorbeeld vindt u de documentenlijst
+1. Aan de rechterkant van de documentheader en het voorbeeld vindt u het [rechtsinformatiemenu](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
 
 De documentbanner kan er als volgt uitzien:
 

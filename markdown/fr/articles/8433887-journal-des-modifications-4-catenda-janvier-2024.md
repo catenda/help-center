@@ -88,16 +88,12 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreux sujets 
 
 - Il est maintenant possible de définir l'ACL par modèle au lieu de pour tous les modèles.
 
-  Cela signifie que vous pouvez masquer les modèles des personnes dans la section modèles.
+    Cela signifie que vous pouvez masquer les modèles des personnes dans la section modèles.
 
 - Avec les modèles en tant que documents, vous pouvez ajouter des étiquettes aux modèles.
-
 - Avec les modèles en tant que documents, vous pouvez structurer les modèles dans des dossiers de la section documents.
-
 - Avec les modèles en tant que documents, vous pouvez voir la taille du fichier du modèle
-
 - Avec les modèles en tant que documents, vous pouvez utiliser la fonction de convention de nommage avec les modèles
-
 - Il est à nouveau possible de voir les révisions précédentes des modèles dans le sélecteur de révision
 
 ### 3.4 **Paramètres du projet**
@@ -116,10 +112,10 @@ Grâce à vos précieux commentaires, nous avons pu corriger de nombreux sujets 
 ### 3.5 **Général**
 
 - La création de nouveaux projets à partir de projets de modèle a été améliorée. Il est maintenant possible d'apporter les parties suivantes d'un projet à un nouveau projet :
-  - Structure des dossiers
-  - Configuration du statut du document
-  - Contrôle d'accès du tableau des documents et des sujets
-  - Champs personnalisés et conventions de nommage
+    - Structure des dossiers
+    - Configuration du statut du document
+    - Contrôle d'accès du tableau des documents et des sujets
+    - Champs personnalisés et conventions de nommage
 
 ## 4. **Nouvelles versions** - Catenda Site, Plugins et intégrations
 

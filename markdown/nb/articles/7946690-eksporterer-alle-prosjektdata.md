@@ -12,11 +12,11 @@ Prosjekteiere og prosjektdeltakere må ofte vedlikeholde lokale kopier av prosje
 
 Prosjektdata kan være nødvendig på ulike prosjektmilepæler:
 
-**Faseskifter** Overganger mellom planlegging, design og konstruksjon krever ofte utvinning av dataspøkelser, spesielt hvis prosjekter settes på hold eller overføres til nye parter.
+_Faseskifter_ Overganger mellom planlegging, design og konstruksjon krever ofte utvinning av dataspøkelser, spesielt hvis prosjekter settes på hold eller overføres til nye parter.
 
-**Offentlige forespørsler** Formelle overføringer til myndigheter kreves ofte under eller etter prosjektets slutt.
+_Offentlige forespørsler_ Formelle overføringer til myndigheter kreves ofte under eller etter prosjektets slutt.
 
-**Anbudsrunde** Forberedelse av dokumentoverføringspakker til anbudsrunder.
+_Anbudsrunde_ Forberedelse av dokumentoverføringspakker til anbudsrunder.
 
 ### 1.2 **Uavhengig datalagring og tilgangsbeskyttelse**
 
@@ -44,62 +44,62 @@ Disse innebygde eksportverktøyene er tilgjengelige direkte innenfor standardgre
 
 Fordi hver modell i Catenda er knyttet til et dokument i dokumentdelen, gjelder standard dokumenteksportalternativer også for modeller. I tillegg er dedikerte eksportalternativer tilgjengelige spesielt for modeller:
 
-**Valgt modellenedlasting** Velg en eller flere modeller på [modellersiden](https://support.catenda.com/en/articles/4670286-models-page) og bruk nedlastingshandlingen til å trekke ut deres nyeste revisjoner.
+_Valgt modellenedlasting_ Velg en eller flere modeller på [modellersiden](https://support.catenda.com/en/articles/4670286-models-page) og bruk nedlastingshandlingen til å trekke ut deres nyeste revisjoner.
 
-**Individuell revisjonsnedlasting** Velg en modell på [modellersiden](https://support.catenda.com/en/articles/4670286-models-page) og bruk nedlastingsknappen ved siden av hver revisjon i høyre informasjonspanel. Dette gir en effektiv måte å laste ned bestemte revisjoner direkte uten å måtte laste hele [modellinnholdssiden](https://support.catenda.com/en/articles/4670270-model-contents-page). Alternativt kan individuelle revisjoner også lastes ned direkte fra innholdssiden for en modell.
+_Individuell revisjonsnedlasting_ Velg en modell på [modellersiden](https://support.catenda.com/en/articles/4670286-models-page) og bruk nedlastingsknappen ved siden av hver revisjon i høyre informasjonspanel. Dette gir en effektiv måte å laste ned bestemte revisjoner direkte uten å måtte laste hele [modellinnholdssiden](https://support.catenda.com/en/articles/4670270-model-contents-page). Alternativt kan individuelle revisjoner også lastes ned direkte fra innholdssiden for en modell.
 
-**Avansert modelleksport** Få tilgang til [modeleksportsiden](https://support.catenda.com/en/articles/4670280-model-export-page) for å pakke valgte revisjoner på tvers av flere modeller til en enkelt nedlastbar ZIP-fil. Denne metoden inkluderer avanserte alternativer for å forbedre de eksporterte modelfilene ved å bake inn merker, brukerdefinerte egenskaper eller biblioteksinformasjon.
+_Avansert modelleksport_ Få tilgang til [modeleksportsiden](https://support.catenda.com/en/articles/4670280-model-export-page) for å pakke valgte revisjoner på tvers av flere modeller til en enkelt nedlastbar ZIP-fil. Denne metoden inkluderer avanserte alternativer for å forbedre de eksporterte modelfilene ved å bake inn merker, brukerdefinerte egenskaper eller biblioteksinformasjon.
 
 ### 2.2 **Eksporterer saker (3 måter)**
 
 Sakdata kan utvinnes ved hjelp av tre primære formater via [utvekslingssaker](https://support.catenda.com/en/articles/4670289-exchange-topics), avhengig av hvordan informasjonen blir sett, analysert eller lagret:
 
-**BCF (BIM Collaboration Format)** En åpen standard utformet for å fange og overføre saksinformasjon som strengt overholder den offisielle BCF-spesifikasjonen, inkludert individuelle saksopprettelsestidsstempler. Dette formatet garanterer bred plattformfellesdrift, noe som gjør det ideelt for å åpne på nytt, redigere eller utveksle saksdata smidig med annen BCF-kompatibel programvare. For generelle langsiktige dokumentoppbevaringsplasser der direkte filforhåndsvisninger trengs, er PDF- eller Excel-formater vanligvis foretrukket.
+_BCF (BIM Collaboration Format)_ En åpen standard utformet for å fange og overføre saksinformasjon som strengt overholder den offisielle BCF-spesifikasjonen, inkludert individuelle saksopprettelsestidsstempler. Dette formatet garanterer bred plattformfellesdrift, noe som gjør det ideelt for å åpne på nytt, redigere eller utveksle saksdata smidig med annen BCF-kompatibel programvare. For generelle langsiktige dokumentoppbevaringsplasser der direkte filforhåndsvisninger trengs, er PDF- eller Excel-formater vanligvis foretrukket.
 
-**Excel** Eksporterer sakparametere til et regnearkformat for filtrering, sortering og datamanipulering. Dette formatet gir strukturerte rader og kolonner som er ideelle for valg og kopiering av data, og Excel-filer kan lett forhåndsvises innenfor de fleste arkiveringsplattformer. For arkiveringsformål foretrekkes PDF-eksporten generelt fremfor Excel fordi den inneholder mer informasjon.
+_Excel_ Eksporterer sakparametere til et regnearkformat for filtrering, sortering og datamanipulering. Dette formatet gir strukturerte rader og kolonner som er ideelle for valg og kopiering av data, og Excel-filer kan lett forhåndsvises innenfor de fleste arkiveringsplattformer. For arkiveringsformål foretrekkes PDF-eksporten generelt fremfor Excel fordi den inneholder mer informasjon.
 
-**PDF** Genererer en ren, lesbar sammendragsrapport i standard PDF-format (v1.4) tilgjengelig uten spesialisert programvare (se [eksporterer saker til PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)). Standard PDF-eksporter inkluderer et konsolidert nedlastingstidsstempel for formell myndighetrapportering og arkivering, med mer informasjon enn en Excel-eksport. Mens basiseksporten genererer en standard PDF (v1.4) fil, som mange arkiveringsystemer automatisk konverterer til PDF/A ved opplasting for langsiktig forhåndsvisning, er direkte eksport til native PDF/A-1, PDF/A-2 og PDF/A-3-formater også tilgjengelig via opt-in [Rapportsiden](https://support.catenda.com/en/articles/12303098-reports-page).
+_PDF_ Genererer en ren, lesbar sammendragsrapport i standard PDF-format (v1.4) tilgjengelig uten spesialisert programvare (se [eksporterer saker til PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)). Standard PDF-eksporter inkluderer et konsolidert nedlastingstidsstempel for formell myndighetrapportering og arkivering, med mer informasjon enn en Excel-eksport. Mens basiseksporten genererer en standard PDF (v1.4) fil, som mange arkiveringsystemer automatisk konverterer til PDF/A ved opplasting for langsiktig forhåndsvisning, er direkte eksport til native PDF/A-1, PDF/A-2 og PDF/A-3-formater også tilgjengelig via opt-in [Rapportsiden](https://support.catenda.com/en/articles/12303098-reports-page).
 
 ### 2.3 **Eksporterer dokumenter og samlinger**
 
-**Sats- og mappenedlastinger** Velg individuelle mapper, bestemte dokumentbatcher eller alle synlige tabeilelementer på en gang for å generere en nedlastbar ZIP-arkiv. Det anbefales å laste ned i håndterbare batcher ved å velge bestemte undermapper eller målrettede filgrupper for jevne overføringer når du arbeider med store datasett.
+_Sats- og mappenedlastinger_ Velg individuelle mapper, bestemte dokumentbatcher eller alle synlige tabeilelementer på en gang for å generere en nedlastbar ZIP-arkiv. Det anbefales å laste ned i håndterbare batcher ved å velge bestemte undermapper eller målrettede filgrupper for jevne overføringer når du arbeider med store datasett.
 
 - **Publisert-fanen**<br>Henter den nyeste publiserte revisjonen for hvert valgt dokument.
 - **Arbeidsområde-fanen**<br>Henter den nyeste delte revisjonen for hvert valgt dokument (krever "Vis delte revisjoner"-tillatelse). Merk at eldre utkastrevisjoner ikke kan lastes ned i batch til en ZIP-arkiv og lastes ned individuelt.
 
-**Individuell revisjonsnedlasting** Velg et dokument på [dokumentersiden](https://support.catenda.com/en/articles/8204673-documents-page) og klikk på nedlastingsknappen ved siden av hver revisjon som vises i høyre informasjonsmeny. Dette er en enklere måte å laste ned individuelle eller historiske revisjoner på fordi dokumentforhåndsvisningssiden ikke trenger å lastes inn, slik at du kan velge et annet dokument i tabellen og laste ned revisjonene i høyremeny uten å måtte åpne en ny forhåndsvisningsside.
+_Individuell revisjonsnedlasting_ Velg et dokument på [dokumentersiden](https://support.catenda.com/en/articles/8204673-documents-page) og klikk på nedlastingsknappen ved siden av hver revisjon som vises i høyre informasjonsmeny. Dette er en enklere måte å laste ned individuelle eller historiske revisjoner på fordi dokumentforhåndsvisningssiden ikke trenger å lastes inn, slik at du kan velge et annet dokument i tabellen og laste ned revisjonene i høyremeny uten å måtte åpne en ny forhåndsvisningsside.
 
-**Offentlige samlinger** Bruk [samlinger](https://support.catenda.com/en/articles/6344318-collections-page) til å opprette offentlige lenker for valgte dokumentdelsett, slik at eksterne parter kan laste ned filer uten å kreve en Catenda-konto. Merk at bare publiserte revisjoner kan legges til samlinger.
+_Offentlige samlinger_ Bruk [samlinger](https://support.catenda.com/en/articles/6344318-collections-page) til å opprette offentlige lenker for valgte dokumentdelsett, slik at eksterne parter kan laste ned filer uten å kreve en Catenda-konto. Merk at bare publiserte revisjoner kan legges til samlinger.
 
-**Slettede filer** Søk etter "slettet" i dokumentsøkelinjen for å finne og eksportere tidligere slettede dokumenter. Husk at dette filteret er språkspesifikt og vil tilsvare begrepet for "slettet" i gjeldende språkinnstillinger.
+_Slettede filer_ Søk etter "slettet" i dokumentsøkelinjen for å finne og eksportere tidligere slettede dokumenter. Husk at dette filteret er språkspesifikt og vil tilsvare begrepet for "slettet" i gjeldende språkinnstillinger.
 
 ### 2.4 **Desktop connector (Automatisert lokal sikkerhetskopi)**
 
 [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) gjør det mulig å bakgrunnssynkronisere for periodisk å laste ned nye dokumentrevisjoner direkte til en lokal stasjon. I motsetning til satseksporten, ankommer nedlastede dokumenter direkte på systemet ditt som rå, ukomprimerte filer uten at det kreves manuell arkivekstraksjon.
 
-**Planlagte og øyeblikkelige sikkerhetskopier** Oppgaver kan planlegges til å kjøre automatisk med regelmessige intervaller eller utføres on-demand, noe som sikrer at prosjektmedlemmer bevarer en oppdatert lokal kopi av dokumenter selv om prosjekttilgangen uventet tilbakekalles.
+_Planlagte og øyeblikkelige sikkerhetskopier_ Oppgaver kan planlegges til å kjøre automatisk med regelmessige intervaller eller utføres on-demand, noe som sikrer at prosjektmedlemmer bevarer en oppdatert lokal kopi av dokumenter selv om prosjekttilgangen uventet tilbakekalles.
 
-**Direkte API-overføringer** Overfører store datasett betydelig raskere enn weblesernedlastinger ved å utnytte direkte API-forbindelser uten leserbegrensninger eller overhead.
+_Direkte API-overføringer_ Overfører store datasett betydelig raskere enn weblesernedlastinger ved å utnytte direkte API-forbindelser uten leserbegrensninger eller overhead.
 
-**Hierarkialternativer** Laster ned valgte mappestrukturer med komplett hierarki intakt, eller trekker ut individuelt valgte filer direkte som en flat liste til den utpekte lokale mappen.
+_Hierarkialternativer_ Laster ned valgte mappestrukturer med komplett hierarki intakt, eller trekker ut individuelt valgte filer direkte som en flat liste til den utpekte lokale mappen.
 
 ### 2.5 **Medlemtilgang og aktivitetslogger**
 
-**Saklister** Dokumentelementbordtilgangstillatelser ved hjelp av to tilgjengelige visninger:
+_Saklister_ Dokumentelementbordtilgangstillatelser ved hjelp av to tilgjengelige visninger:
 
 - **Per-bruker tilgangsvisning**<br>Vis individuelle brukeradgangnivåer direkte fra informasjonsmenyene til høyre på en saksliste eller valgt sak.<br>_Tilgang kreves:_ lesetilgang til sakslist
 - **Fullstendig teamkonfigurasjon**<br>Ta skjermbilder av de komplette tillatelseinnstillingene på teamnivå innenfor tilganginnstillingene for sakslisten.<br>_Tilgang kreves:_ Full tilgang til sakslisten eller prosjektadministrator
 
-**Dokument- og modelltilgang** Eksporter [tilgangsoversikten](https://support.catenda.com/en/articles/6660820-document-access-overview-page) for å registrere tillatelser for medlemmer og team. Tilgang påkrevd: Prosjektadministrator. Fordi hver modell er knyttet til et dokument i dokumentdelen, styres tilgangstillatelser for modeller av de underliggende dokumenttillatelsene og registreres ved hjelp av samme dokumenttilgangsoversikt eller tillatelseamenyer.
+_Dokument- og modelltilgang_ Eksporter [tilgangsoversikten](https://support.catenda.com/en/articles/6660820-document-access-overview-page) for å registrere tillatelser for medlemmer og team. Tilgang påkrevd: Prosjektadministrator. Fordi hver modell er knyttet til et dokument i dokumentdelen, styres tilgangstillatelser for modeller av de underliggende dokumenttillatelsene og registreres ved hjelp av samme dokumenttilgangsoversikt eller tillatelseamenyer.
 
-**Dokument- og modellrevisjonens tilgang** Vis tillatelser fra [høyre meny for en dokumentrevisjon](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info) og fang opp skjermbildet etter behov.
+_Dokument- og modellrevisjonens tilgang_ Vis tillatelser fra [høyre meny for en dokumentrevisjon](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info) og fang opp skjermbildet etter behov.
 
-**Prosjektomfattende handlingstillatelser** Dokumenter prosjektomfattende tillatelser på [prosjektinnstillingssiden](https://support.catenda.com/en/articles/4670273-project-settings-page) (for eksempel oppretting av saklister, invitasjon av nye medlemmer, konfigurering av dokumentstatuser og opprettelse eller fjerning av modeller) ved hjelp av to tilgjengelige visninger:
+_Prosjektomfattende handlingstillatelser_ Dokumenter prosjektomfattende tillatelser på [prosjektinnstillingssiden](https://support.catenda.com/en/articles/4670273-project-settings-page) (for eksempel oppretting av saklister, invitasjon av nye medlemmer, konfigurering av dokumentstatuser og opprettelse eller fjerning av modeller) ved hjelp av to tilgjengelige visninger:
 
 - **Visning per bruker**<br>Prosjektmedlemmer kan utvide hver meny under tilgangskontroll for å se hvilke individuelle brukere som har tillatelse til å utføre hver handling.
 - **Fullstendig konfigurasjon**<br>Administratorer kan åpne dialogboksen for redigering av tilgang for å vise og administrere tillatelseinnstillinger på teamnivå.<br>_Tilgang kreves:_ Prosjektadministrator
 
-**Brukerprofiler og medlemsdetaljer** Informasjon om prosjektmedlemmer og team er tilgjengelig for utvinning eller dokumentasjon, inkludert:
+_Brukerprofiler og medlemsdetaljer_ Informasjon om prosjektmedlemmer og team er tilgjengelig for utvinning eller dokumentasjon, inkludert:
 
 - Brukernavn og e-postadresser (se [egendefinert medlemsinformasjon](https://www.google.com/search?q=https://support.catenda.com/en/articles/11769670-custom-member-information%23h_c15463ee3f)).
 - Teammedlemskap, tildelte saker, opplastede modellrevisjoner og tillatelseinnstillinger (fanget via [medlemssiden](https://www.google.com/search?q=https://support.catenda.com/en/articles/4670291-members-page) eller [teamsiden](https://www.google.com/search?q=https://support.catenda.com/en/articles/4670291-members-page)).
@@ -112,24 +112,24 @@ Konfigurer en dedikert administratorkonto med [prosjektspesifikke varslingsinnst
 
 ### 2.7 **Rapportsiden (Innmeldingsfunksjon)**
 
-**Innmeldings aktivering** Rapportsiden er en innmeldingsfunksjon som kan forespørres som aktiv for aktuelle prosjekter. Selv om ingen ekstra betaling kreves for å bruke dette verktøyet, må prosjekteieren godta å aktivere det på prosjektet, noe som betyr at det ikke er aktivt som standard i mange prosjekter. Merk at nye prosjekter opprettet fra malprosjekter der rapporter er aktivert, aktiverer ikke automatisk denne funksjonen.
+_Innmeldings aktivering_ Rapportsiden er en innmeldingsfunksjon som kan forespørres som aktiv for aktuelle prosjekter. Selv om ingen ekstra betaling kreves for å bruke dette verktøyet, må prosjekteieren godta å aktivere det på prosjektet, noe som betyr at det ikke er aktivt som standard i mange prosjekter. Merk at nye prosjekter opprettet fra malprosjekter der rapporter er aktivert, aktiverer ikke automatisk denne funksjonen.
 
-**Malbasert administrasjon** Når den er aktivert, kan prosjektadministratorer bruke [rapportmalsiden](https://support.catenda.com/en/articles/12380837-report-templates-page) for å konfigurere egendefinerte rapportmaler og generere formaterte eksporter for valgte dokumenter eller saker.
+_Malbasert administrasjon_ Når den er aktivert, kan prosjektadministratorer bruke [rapportmalsiden](https://support.catenda.com/en/articles/12380837-report-templates-page) for å konfigurere egendefinerte rapportmaler og generere formaterte eksporter for valgte dokumenter eller saker.
 
-**Dokumentrapporter** Eksporter dokumentmetadata og revisjondetaljer for alle valgte filer, inkludert dokumentnavn, revisjonsnavn, siste revisjonsnummer, status, egendefinerte felt, oppretter, opplaster og opprettelse/opplastingstidsstempler.
+_Dokumentrapporter_ Eksporter dokumentmetadata og revisjondetaljer for alle valgte filer, inkludert dokumentnavn, revisjonsnavn, siste revisjonsnummer, status, egendefinerte felt, oppretter, opplaster og opprettelse/opplastingstidsstempler.
 
 - **Viktige brukstilfeller**<br>Ideell for å generere formelle sjekklister for dokumentlevering som skal følge en samling, eller for å kompilere strukturerte dokumentlister for dataanalyse.
 - **Modellmetadata og attributter**<br>Selv om det faktiske dokumentfilinnholdet ikke er inkludert, kan modellmetadata eksporteres gjennom dokumentrapporter ettersom modeller opprettholder lenker til dokumentdelen. Egendefinerte skript i maler kan også brukes til å utlede tilleggsattributter, for eksempel å trekke ut filtyper fra dokumentnavn.
 
-**Sakrapporter** Eksporter overordnede saksoverskrifter samt komplette sakskroppdetaljer, inkludert beskrivelser, kommentarer og innebygde kommentarbilder.
+_Sakrapporter_ Eksporter overordnede saksoverskrifter samt komplette sakskroppdetaljer, inkludert beskrivelser, kommentarer og innebygde kommentarbilder.
 
-**Tilgjengelige eksportformater** Rapporter opprettet fra en mal kan eksporteres til flere formater avhengig av arbeidsflytkrav:
+_Tilgjengelige eksportformater_ Rapporter opprettet fra en mal kan eksporteres til flere formater avhengig av arbeidsflytkrav:
 
 - **PDF / PDF/A**<br>Genererer rene formaterte rapporter og støtter direkte opprinnelig PDF/A-samsvar (PDF/A-1, PDF/A-2 og PDF/A-3) for å oppfylle strenge krav til langtidsarkivering og formelle juridiske standarder.
 - **Excel**<br>Eksporterer strukturerte tabellariske data til regnearkrader og -kolonner, noe som gjør det ideelt for datamanipulering og ekstern analyse.
 - **Tilleggsformater**<br>Et bredt spekter av tilleggsfilformater utover PDF og Excel støttes også for eksport; det komplette oversikten finnes i artikkelen [rapportside](https://support.catenda.com/en/articles/12303098-reports-page).
 
-**Sentralisert lagring** Genererte rapporter vises direkte i rapporttabellen og integreres automatisk i hoveddokumenttabellen for enkel administrasjon.
+_Sentralisert lagring_ Genererte rapporter vises direkte i rapporttabellen og integreres automatisk i hoveddokumenttabellen for enkel administrasjon.
 
 ## 3. **Catenda dataeksport**
 
@@ -144,18 +144,18 @@ Oppsettet og administrasjon av Catenda Data Export krever en **organisasjonsadmi
 Oppsettet av automatiserte dataeksporter innebærer fire hovedtrinn:
 
 1. **Velg destinasjon**<br>Velg en skylageringsleverandør, Amazon Web Services (AWS) S3 eller Microsoft Azure Blob-lagring, og konfigurer godkjenning.
-2. **Definer omfang og dataformater**
-   - **Datatyper**<br>Eksporter dokumenter, modeller og saker. <br>Sakdata kan automatisk konverteres til lesbare PDF-sammendragsrapporter eller standard BCF-filer under overføring.
-   - **Prosjektvalg**<br>Velg alle prosjekter, plukk spesifikke prosjekter manuelt, eller opprett dynamiske sammenligningsregler med prosjektnavn-mønstre (glob eller regulært uttrykk / regex) for automatisk å inkludere nye prosjekter når de opprettes.
-3. **Velg eksportmodus**
-   - **Kontinuerlig modus**<br>Sender data automatisk på daglig grunnlag. <br>Dette gjentakende oppsettet sikrer at prosjektmedlemmer som ikke er eiere, opprettholder en oppdatert sikkerhetskopi frem til siste daglige kjøring hvis prosjekttilgangen ender uventet.
-   - **Øyeblikksbilde-modus**<br>Utfører en engangskjøring for å eksportere et komplett datasett på et spesifikt milepæl eller prosjektoverlevering.
-4. **Distribuer**<br>Avslutter og aktiverer eksportkonfigurasjonen ved å velge Opprett.
+1. **Definer omfang og dataformater**
+    - **Datatyper**<br>Eksporter dokumenter, modeller og saker. <br>Sakdata kan automatisk konverteres til lesbare PDF-sammendragsrapporter eller standard BCF-filer under overføring.
+    - **Prosjektvalg**<br>Velg alle prosjekter, plukk spesifikke prosjekter manuelt, eller opprett dynamiske sammenligningsregler med prosjektnavn-mønstre (glob eller regulært uttrykk / regex) for automatisk å inkludere nye prosjekter når de opprettes.
+1. **Velg eksportmodus**
+    - **Kontinuerlig modus**<br>Sender data automatisk på daglig grunnlag. <br>Dette gjentakende oppsettet sikrer at prosjektmedlemmer som ikke er eiere, opprettholder en oppdatert sikkerhetskopi frem til siste daglige kjøring hvis prosjekttilgangen ender uventet.
+    - **Øyeblikksbilde-modus**<br>Utfører en engangskjøring for å eksportere et komplett datasett på et spesifikt milepæl eller prosjektoverlevering.
+1. **Distribuer**<br>Avslutter og aktiverer eksportkonfigurasjonen ved å velge Opprett.
 
 ### 3.3 **Uttrukket innhold og integritetsverifisering**
 
-**Metadata og egendefinerte felt** Egendefinerte felt knyttet til dokumenter og saker eksporteres ved siden av primære filer som strukturerte JSON-filer, noe som sikrer fullstendig attributtbevaring uten manuell rapportgenerering.
+_Metadata og egendefinerte felt_ Egendefinerte felt knyttet til dokumenter og saker eksporteres ved siden av primære filer som strukturerte JSON-filer, noe som sikrer fullstendig attributtbevaring uten manuell rapportgenerering.
 
-**Integritetverifisering** Hver eksportkjøring genererer en kontrollsum-fil for å bekrefte at eksporterte filer samsvarer med kildedataene i Catenda Hub og ble overført fullstendig uten nettverkstap.
+_Integritetverifisering_ Hver eksportkjøring genererer en kontrollsum-fil for å bekrefte at eksporterte filer samsvarer med kildedataene i Catenda Hub og ble overført fullstendig uten nettverkstap.
 
-**Organisert hierarki** Eksporterte filer er automatisk strukturert til mapper organisert etter dato, prosjektnavn og det nøyaktige mappearkitekturhierarkiet opprettholdt i Catenda Hub.
+_Organisert hierarki_ Eksporterte filer er automatisk strukturert til mapper organisert etter dato, prosjektnavn og det nøyaktige mappearkitekturhierarkiet opprettholdt i Catenda Hub.

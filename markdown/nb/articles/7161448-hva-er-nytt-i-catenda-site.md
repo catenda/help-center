@@ -7,10 +7,10 @@ Vi har lansert **Catenda Site, mobilappen 3.0.0.**
 Mens du er offline på stedet, kan du nå:
 
 1. [Åpne prosjekter offline](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Projects%20in%20offline%20mode)
-2. Vise / Filtrere / Søk etter problemstillinger offline
-3. [Opprett ny problemstilling offline](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
-4. [Legg til / Oppdater / Slett kommentarer](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues) med bilder og viewpoints offline
-5. Send alle dine offlineendringer fra [den nye utboksen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)<br>
+1. Vise / Filtrere / Søk etter problemstillinger offline
+1. [Opprett ny problemstilling offline](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
+1. [Legg til / Oppdater / Slett kommentarer](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues) med bilder og viewpoints offline
+1. Send alle dine offlineendringer fra [den nye utboksen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)<br>
 
 ## 2. Dokumentsamlinger
 

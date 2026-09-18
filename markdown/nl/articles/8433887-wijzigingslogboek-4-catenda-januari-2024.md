@@ -88,16 +88,12 @@ Dankzij uw waardevolle feedback hebben we veel topics kunnen oplossen die je al 
 
 - Het is nu mogelijk om de ACL per model in te stellen in plaats van voor alle modellen.
 
-  Dit betekent dat je modellen in de modellengedeelte voor mensen verborgen kunt houden.
+    Dit betekent dat je modellen in de modellengedeelte voor mensen verborgen kunt houden.
 
 - Met modellen als documenten kun je labels aan modellen toevoegen.
-
 - Met modellen als documenten kun je modellen in folders in de documenten-sectie structureren.
-
 - Met modellen als documenten kun je de bestandsgrootte van het model zien
-
 - Met modellen als documenten kun je de naamgevingsconventie-functie met modellen gebruiken
-
 - Het is opnieuw mogelijk om vorige revisies van modellen in de revisie-selector te bekijken
 
 ### 3.4 **Projectinstellingen**
@@ -116,10 +112,10 @@ Dankzij uw waardevolle feedback hebben we veel topics kunnen oplossen die je al 
 ### 3.5 **Algemeen**
 
 - Het maken van nieuwe projecten van sjabloonprojecten is verbeterd. Het is nu mogelijk om de volgende onderdelen van een project naar een nieuw project te brengen:
-  - Mappenstructuur
-  - Documentstatusconfiguratie
-  - Document- en topic-bord toegangscontrole
-  - Aangepaste velden en naamgevingsconventies
+    - Mappenstructuur
+    - Documentstatusconfiguratie
+    - Document- en topic-bord toegangscontrole
+    - Aangepaste velden en naamgevingsconventies
 
 ## 4. **Nieuwe releases** - Catenda Site, Plug-ins en integraties
 

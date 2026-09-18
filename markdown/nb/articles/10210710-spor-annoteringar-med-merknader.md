@@ -9,14 +9,18 @@ Diagrammet nedanfor illustrerer korleis annoteringar er grupperte under ulike me
 Merk følgjande:
 
 1. Ein **merknad** kan **innehalde ein eller fleire sett med annoteringar.**
-2. Ein **topic** kan **innehalde ein eller fleire merknader** lagra som **kommentarar.**
-3. Innanfor ein **topic** er ein **merknad** ein **sett av annoteringar** som alltid **høyrer til same revisjon.**
-4. **Fleire merknader** på eitt dokument kan lagrast som **fleire topics** ELLER under ein **einaste eksisterande topic.**
-5. Dersom ein **merknad** inneheld **fleire sett med annoteringar spreidde på fleire sider**, vil det vere **ein kommentar per sett med annoteringar på kvar side**.
+1. Ein **topic** kan **innehalde ein eller fleire merknader** lagra som **kommentarar.**
+1. Innanfor ein **topic** er ein **merknad** ein **sett av annoteringar** som alltid **høyrer til same revisjon.**
+1. **Fleire merknader** på eitt dokument kan lagrast som **fleire topics** ELLER under ein **einaste eksisterande topic.**
+1. Dersom ein **merknad** inneheld **fleire sett med annoteringar spreidde på fleire sider**, vil det vere **ein kommentar per sett med annoteringar på kvar side**.
+
+Følgjande topics er beskrivne i denne artikkelen:
 
 ## 1. **To arbeidsflyt**
 
 Når du vil påpeika noko i eit dokument, kan det vere ulike måtar å kommunisere dette med kollegaane dine.
+
+Følgjande topics er beskrivne i denne delen:
 
 ### 1.1 **Ein topic per merknad**
 
@@ -57,6 +61,8 @@ La oss seie at denne merknadaren var rettleia mot arkitekten, men du vil og send
 ## 4. **Lagre merknader**
 
 Etter at du er ferdig med å redigere merknadane dine, kan du [lagre dei](https://support.catenda.com/en/articles/10209740-saving-a-markup#h_8542b82cf8). Når du lagrar, vert ein kommentar oppretta for kvar sett av annoteringar på sida til ein revisjon
+
+Følgjande topics er beskrivne i denne delen:
 
 ### 4.1 **Lagre kvar merknad til sin eigen topic**
 

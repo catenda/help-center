@@ -22,11 +22,11 @@ Som standard åpnes innholdssiden og dashbordsiden vises når et prosjekt åpnes
 
 ### 1.2 **Manuelt åpning og lukking av paneler**
 
-**Enheter med større skjermer** Når et panel er åpent, er det uthevet i grønt. Velg et panel som ikke er aktivt ennå for å åpne det side ved side med de andre aktive panelene. Velg et aktivt panel for å deaktivere det. Det må være minst ett panel aktivt om gangen. Som eksempel, for å bytte fra innholdspanelet til 3D-panelet, aktiver 3D-panelet sammen med innholdspanelet først, og deaktiver deretter innholdspanelet for å bare ha 3D-panelet aktivt.
+_Enheter med større skjermer_ Når et panel er åpent, er det uthevet i grønt. Velg et panel som ikke er aktivt ennå for å åpne det side ved side med de andre aktive panelene. Velg et aktivt panel for å deaktivere det. Det må være minst ett panel aktivt om gangen. Som eksempel, for å bytte fra innholdspanelet til 3D-panelet, aktiver 3D-panelet sammen med innholdspanelet først, og deaktiver deretter innholdspanelet for å bare ha 3D-panelet aktivt.
 
 For enkelt å bytte mellom de ulike panelene kan tastatursnarveier brukes. Shift+1 for hovedinnholdspanelet Shift+2 for modellviserpanelet Shift+3 for modelltrepanelet Shift+4 for modellinformasjonspanelet
 
-**Enheter med begrenset skjermplass** Det åpne panelet har en grå bakgrunn. Velg et annet panel for å bytte til det panelet. Med begrenset skjermplass er det bare mulig å ha ett panel åpent om gangen.
+_Enheter med begrenset skjermplass_ Det åpne panelet har en grå bakgrunn. Velg et annet panel for å bytte til det panelet. Med begrenset skjermplass er det bare mulig å ha ett panel åpent om gangen.
 
 ## 2. **Hovedinnholdspanel**
 

@@ -8,7 +8,7 @@ Søke- eller filteralternativet kan ses i den øverste delen av vinduet. Ved å 
 
 Klikk på filterknappen øverst til venstre for at et panel skal vises på venstre side. Når et filter brukes, endres URL-en som vises i nettleseren. I denne artikkelen vises filtre slik: _Filternavn i meny_ - `Filternavn i URL=Filteralternativ i URL`
 
-**Standardfilter** Standardfilteret er ikke synlig i URL-en i utgangspunktet. Når siden navigeres til for første gang, brukes følgende filter. Arbeidsområdefane - `v=all`
+_Standardfilter_ Standardfilteret er ikke synlig i URL-en i utgangspunktet. Når siden navigeres til for første gang, brukes følgende filter. Arbeidsområdefane - `v=all`
 
 ### 1.1 **Lagre og del gjeldende filter**
 

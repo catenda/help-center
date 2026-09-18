@@ -9,32 +9,32 @@ Auf Seiten, auf denen mehrere Elemente angezeigt werden, werden Informationen h�
 In den folgenden Tabellen werden alle Informationen standardmäßig angezeigt
 
 - Inspektionsbereich
-  - [Massenermittlung (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
-  - [Ausrichtungen](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
-  - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
-  - Benennungskonventionen
+    - [Massenermittlung (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
+    - [Ausrichtungen](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
+    - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
+    - Benennungskonventionen
 - Bibliotheken
-  - [Links-Bibliothek](https://support.catenda.com/en/articles/4670254-links-library)
-  - [Sharepoint-Bibliothek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-  - [Dropbox-Bibliothek](https://support.catenda.com/en/articles/8065645-libraries-page)
-  - [Eigenschaftswert-Bibliothek](https://support.catenda.com/en/articles/4670252-property-value-library)
-  - [Klassifikations-Bibliothek](https://support.catenda.com/en/articles/4670255-classification-library)
+    - [Links-Bibliothek](https://support.catenda.com/en/articles/4670254-links-library)
+    - [Sharepoint-Bibliothek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+    - [Dropbox-Bibliothek](https://support.catenda.com/en/articles/8065645-libraries-page)
+    - [Eigenschaftswert-Bibliothek](https://support.catenda.com/en/articles/4670252-property-value-library)
+    - [Klassifikations-Bibliothek](https://support.catenda.com/en/articles/4670255-classification-library)
 - Organisationstool
-  - [Benutzerseite](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-  - [Projektseite](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-  - [Projektmitgliedschaftsseite](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Benutzerseite](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+    - [Projektseite](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+    - [Projektmitgliedschaftsseite](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 
 In den folgenden Tabellen wird eine Standardkonfiguration angezeigt, wenn die Seite geladen wird:
 
 - Modelle
-  - [Objektseite](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Objektseite](https://support.catenda.com/en/articles/12352750-objects-page)
 
 In den folgenden Tabellen werden an der Standardtabellenkonfiguration vorgenommene Änderungen angezeigt, wenn die Seite geladen wird:
 
 - [Themen](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabellenansicht)
 - [Modelle](https://support.catenda.com/en/articles/4670286-models-page) (Grundansicht, Registerkarte "Veröffentlicht", Registerkarte "Arbeitsbereich")
 - [Dokumente](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Grundansicht, Registerkarte "Veröffentlicht", Registerkarte "Arbeitsbereich")
-  - [Dokumentzugriffsübersicht](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+    - [Dokumentzugriffsübersicht](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
 - [Berichte](https://support.catenda.com/en/articles/12303098-reports-page) (Grundansicht, Registerkarte "Veröffentlicht", Registerkarte "Arbeitsbereich")
 - [Etiketten](https://support.catenda.com/en/articles/4670265-labels-page) (Registerkarte "Etiketten", Registerkarte "Gruppe")
 - [Benutzerdefinierte Felder](https://support.catenda.com/en/articles/6550459-custom-fields-page)
@@ -251,25 +251,18 @@ Wenn der Ziehpunkt über einer interaktiven Zeile freigegeben wird, kann sich da
 Es ist möglich, Spalten in den folgenden Tabellen zu verschieben:
 
 - Modelle
-  - [Objektseite](https://support.catenda.com/en/articles/12352750-objects-page)
-
+    - [Objektseite](https://support.catenda.com/en/articles/12352750-objects-page)
 - Organisationswerkzeug
-  - [Projektseite](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-  - [Projektmitgliedschaftsseite](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Projektseite](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+    - [Projektmitgliedschaftsseite](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 
 - [Themen](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabellenansicht)
-
 - [Modelle](https://support.catenda.com/en/articles/4670286-models-page) (Grundansicht, veröffentlichte Registerkarte, Arbeitsbereichs-Registerkarte)
-
 - [Dokumente](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Grundansicht, veröffentlichte Registerkarte, Arbeitsbereichs-Registerkarte)
-  - [Dokumentenzugriffsübersicht](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
-
+    - [Dokumentenzugriffsübersicht](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
 - [Berichte](https://support.catenda.com/en/articles/12303098-reports-page) (Grundansicht, veröffentlichte Registerkarte, Arbeitsbereichs-Registerkarte)
-
 - [Etiketten](https://support.catenda.com/en/articles/4670265-labels-page) (Etiketten-Registerkarte, Gruppen-Registerkarte)
-
 - [Benutzerdefinierte Felder](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-
 - [Mitgliederseite](https://support.catenda.com/en/articles/11926821-members-page) (Mitglieder-Registerkarte, Teams-Registerkarte)
 
 ## 9. Mit Zeilen durch Bewegen der Maus interagieren

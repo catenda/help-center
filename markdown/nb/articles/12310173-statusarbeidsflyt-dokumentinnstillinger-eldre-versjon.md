@@ -9,10 +9,10 @@ Slik kan statusarbeidsflyt-menyen se ut etter at statusarbeidsflytene har blitt 
 Når statusarbeidsflytene blir aktivert, vil følgende endre seg i prosjektet:
 
 - Stadiene Utkast og Publisert gjøres tilgjengelige.
-  - Publisert - Statusen Publisert er i listen som standard.
-  - Utkast - Statusene Under arbeid og Delt er i listen som standard
+    - Publisert - Statusen Publisert er i listen som standard.
+    - Utkast - Statusene Under arbeid og Delt er i listen som standard
 - Ny informasjon som sendes inn i utkasttadiet som standard.
-  - Kan lastes opp i publisert stadie med avmerkingsboks.
+    - Kan lastes opp i publisert stadie med avmerkingsboks.
 - Standardstatus er satt til Ingen status.
 - En gjennomgangsmeny i dokumentinnstillinger vises.
 - En [gjennomgangs](https://support.catenda.com/en/articles/5784717-document-approval) underside til dokumentsiden vises.

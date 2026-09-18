@@ -20,11 +20,11 @@ Hvis ingen sak har blitt navigert til i merknadesnavigasjonen mot toppen av fane
 
 Klikk på rullegardinmenyen for saksnavigering mot toppen av merknader-fanen for å velge en sak.
 
-**Nyeste kommentarer først** Sakkommentarer som er sortert med nyeste først viser menyen for nye merknader mot toppen av kommentardelen.
+_Nyeste kommentarer først_ Sakkommentarer som er sortert med nyeste først viser menyen for nye merknader mot toppen av kommentardelen.
 
-**Eldste kommentarer først** Sakkommentarer som er sortert med eldste først viser menyen for nye merknader mot bunnen av kommentardelenen. I dette tilfellet må du kanskje rulle til bunnen av kommentardelenen for å se menyen for nye merknader.
+_Eldste kommentarer først_ Sakkommentarer som er sortert med eldste først viser menyen for nye merknader mot bunnen av kommentardelenen. I dette tilfellet må du kanskje rulle til bunnen av kommentardelenen for å se menyen for nye merknader.
 
-**Eldste først                                                    Nyeste først** <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/inline-21aee0515492.png" width="310"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/inline-7c851e84a0ca.png" width="310"/>
+_Eldste først                                                    Nyeste først_ <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/inline-21aee0515492.png" width="310"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/inline-7c851e84a0ca.png" width="310"/>
 
 ## 2. **Meny for ulagrede merknader**
 
@@ -58,13 +58,13 @@ Når ingen saker er valgt i rullegardinmenyen for saksnavigering mot toppen av m
 
 Klikk på Lagre som saker for å opprette en sak for hver merknad som har blitt opprettet.
 
-**Tittel** I tittelen `{documentName} - {markupName}` foreslås som standard. Med dette er saker navngitt etter navnet på merknaden og dokumentet det er opprettet på.
+_Tittel_ I tittelen `{documentName} - {markupName}` foreslås som standard. Med dette er saker navngitt etter navnet på merknaden og dokumentet det er opprettet på.
 
-**Sakshode** Feltene som er fyllt ut i sakshodet vil bli brukt på hver merknad-sak som opprettes.
+_Sakshode_ Feltene som er fyllt ut i sakshodet vil bli brukt på hver merknad-sak som opprettes.
 
-**Beskrivelse** Fyll inn en beskrivelse som legges til hver merknad-sak som opprettes.
+_Beskrivelse_ Fyll inn en beskrivelse som legges til hver merknad-sak som opprettes.
 
-**Kommentarer** En kommentar for hvert sett med annotasjoner som tilhører merknaden legges til hver merknad-sak som opprettes.
+_Kommentarer_ En kommentar for hvert sett med annotasjoner som tilhører merknaden legges til hver merknad-sak som opprettes.
 
 ## 5. **Merknadsnavn**
 

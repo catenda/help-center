@@ -152,11 +152,11 @@ Nur veröffentlichte Revisionen sind in Catenda Site sichtbar.
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-868820a898ba.png" width="500"/></div>
 
-2. Der Dokumentstatus kann dann [konfiguriert](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) von den Einstellungen im Dokumente-Abschnitt aus konfiguriert werden:
+1. Der Dokumentstatus kann dann [konfiguriert](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) von den Einstellungen im Dokumente-Abschnitt aus konfiguriert werden:
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-931418a5fab1.png" width="500"/></div>
 
-3. Schließlich kann dieser Dokumentstatus dem Dateiüberprüfungsstatus zugewiesen werden, auf den über die Schaltfläche mit drei Punkten oben rechts im [Genehmigungsabschnitt](https://support.catenda.com/en/articles/8349340-approvals-page) zugegriffen werden kann. Es ist auch möglich, hier eine Topic-Vorlage zu konfigurieren.
+1. Schließlich kann dieser Dokumentstatus dem Dateiüberprüfungsstatus zugewiesen werden, auf den über die Schaltfläche mit drei Punkten oben rechts im [Genehmigungsabschnitt](https://support.catenda.com/en/articles/8349340-approvals-page) zugegriffen werden kann. Es ist auch möglich, hier eine Topic-Vorlage zu konfigurieren.
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-3cdbebefca38.png" width="500"/></div>
 
@@ -165,20 +165,20 @@ Nur veröffentlichte Revisionen sind in Catenda Site sichtbar.
 ## 5. **Genehmigungsworkflow**
 
 1. Ein Genehmigungsworkflow wird von einem Administrator erstellt.
-   1. Einreichungs-Team
-   2. Überprüfungs-Team (mindestens ein Genehmigungsschritt erforderlich)
-   3. Team der endgültigen Überprüfer
-2. Ein Mitglied eines Einreichungsteams reicht einen Genehmigungsantrag mit einer Reihe von freigegebenen Revisionen auf der Genehmigungsseite ein.
-3. Mitglieder der Einreichungsteams, die dem Schritt zugewiesen sind, überprüfen die in der Genehmigung eingereichten Dokumente und geben entweder eine genehmigte oder abgelehnte Validierung ab.
-4. Nachdem alle Schritte abgeschlossen sind, überprüft ein Mitglied des Teams der endgültigen Überprüfer die Validierungen, die im Namen der verschiedenen Teams in jedem Schritt eingereicht wurden, und gibt seine endgültige Validierung von genehmigt, mit Kommentar genehmigt oder abgelehnt ab.
-   1. Der endgültige Genehmiger kann eine endgültige, informierte Entscheidung treffen, ob dieses Dokument veröffentlicht (genehmigt) oder abgelehnt (als freigegeben verbleibend) werden soll
+    1. Einreichungs-Team
+    1. Überprüfungs-Team (mindestens ein Genehmigungsschritt erforderlich)
+    1. Team der endgültigen Überprüfer
+1. Ein Mitglied eines Einreichungsteams reicht einen Genehmigungsantrag mit einer Reihe von freigegebenen Revisionen auf der Genehmigungsseite ein.
+1. Mitglieder der Einreichungsteams, die dem Schritt zugewiesen sind, überprüfen die in der Genehmigung eingereichten Dokumente und geben entweder eine genehmigte oder abgelehnte Validierung ab.
+1. Nachdem alle Schritte abgeschlossen sind, überprüft ein Mitglied des Teams der endgültigen Überprüfer die Validierungen, die im Namen der verschiedenen Teams in jedem Schritt eingereicht wurden, und gibt seine endgültige Validierung von genehmigt, mit Kommentar genehmigt oder abgelehnt ab.
+    1. Der endgültige Genehmiger kann eine endgültige, informierte Entscheidung treffen, ob dieses Dokument veröffentlicht (genehmigt) oder abgelehnt (als freigegeben verbleibend) werden soll
 
 ### 5.1 **Legacy-Genehmigungsworkflow**
 
 1. Ein Genehmigungsantrag benennt einen Verleger (Person, die für die endgültige Entscheidung über die Veröffentlichung zuständig ist) und einen oder mehrere Überprüfer, die für die Validierung (oder nicht) des Dokumentensatzes zuständig sind
-2. Jeder Reviewer entscheidet, ob das freigegebene Dokument genehmigt, mit Kommentar genehmigt oder abgelehnt wird
-3. Am Ende der Überprüfung wählt der Publisher das Ergebnis der Genehmigung aus, indem er die zu veröffentlichenden Dokumente auswählt.
-4. Aus den Genehmigungseinstellungen können Themen im Zusammenhang mit den Dokumenten erstellt werden, um den Prozess später nachverfolgen zu können
+1. Jeder Reviewer entscheidet, ob das freigegebene Dokument genehmigt, mit Kommentar genehmigt oder abgelehnt wird
+1. Am Ende der Überprüfung wählt der Publisher das Ergebnis der Genehmigung aus, indem er die zu veröffentlichenden Dokumente auswählt.
+1. Aus den Genehmigungseinstellungen können Themen im Zusammenhang mit den Dokumenten erstellt werden, um den Prozess später nachverfolgen zu können
 
 Eine detaillierte Demonstration dieser Schritte wird im folgenden Tutorial gezeigt:
 

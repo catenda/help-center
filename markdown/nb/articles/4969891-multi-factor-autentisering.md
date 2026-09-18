@@ -13,8 +13,8 @@ Logg inn på Catenda Hub og gå til **[Konto](https://hub.catenda.com/account/pr
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/01-enabling-mfa.png)
 
 1. Klikk på **[Autentisering](https://hub.catenda.com/account/authentication)**-fanen:
-2. Bla ned til delen for MFA:
-3. Klikk på **Aktiver MFA**
+1. Bla ned til delen for MFA:
+1. Klikk på **Aktiver MFA**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/02-enabling-mfa.png)
 
@@ -28,11 +28,11 @@ For å komme i gang, installer en applikasjon på en mobilenhet som støtter TOT
 
 Teoretisk sett kan enhver applikasjon som støtter MFA / To-faktors autentisering via TOTP-protokollen brukes. Det finnes til og med skrivebordsprogrammer, men disse anbefales ikke fordi skrivebordsprogrammer ofte er alltid tilkoblet samme nettverk, som ofte har flere enheter på det, noe som øker risikoen for at en dårlig aktør får tilgang til koden.
 
-**Apptillatelser** For at du skal kunne skanne QR-koden med kameraet på enheten, må autentiseringsappen ha kameratillatelser for å kunne skanne koden. Applikasjonen kan be om tillatelse til å bruke enhetsens kamera. Tillatelses alternativer kan omfatte: "Kun mens du bruker appen" - Appen har tillatelse mens den er i bruk. "Spør hver gang" - Tillatelse må gis ved hver bruk av appen. "Ikke tillatt" - Tillatelse er ikke gitt eller tilbakekalt fra appen.
+_Apptillatelser_ For at du skal kunne skanne QR-koden med kameraet på enheten, må autentiseringsappen ha kameratillatelser for å kunne skanne koden. Applikasjonen kan be om tillatelse til å bruke enhetsens kamera. Tillatelses alternativer kan omfatte: "Kun mens du bruker appen" - Appen har tillatelse mens den er i bruk. "Spør hver gang" - Tillatelse må gis ved hver bruk av appen. "Ikke tillatt" - Tillatelse er ikke gitt eller tilbakekalt fra appen.
 
-**Google Authenticator** Klikk på plusstegnet nederst til høyre og skann en QR-kode. Her skal du skanne QR-koden som [autentiseringssiden](https://hub.catenda.com/account/authentication) gir deg. Alternativt kan du bruke kameraet ditt til å skanne koden og skrive inn oppsettnøkkelen som du ser i nettadressen som åpnes.
+_Google Authenticator_ Klikk på plusstegnet nederst til høyre og skann en QR-kode. Her skal du skanne QR-koden som [autentiseringssiden](https://hub.catenda.com/account/authentication) gir deg. Alternativt kan du bruke kameraet ditt til å skanne koden og skrive inn oppsettnøkkelen som du ser i nettadressen som åpnes.
 
-**Microsoft Authenticator** Kontroller at du er i Authenticator-menyen nederst.
+_Microsoft Authenticator_ Kontroller at du er i Authenticator-menyen nederst.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/03-authentication-app.png)
 
@@ -52,13 +52,13 @@ Kontonavn: Navnet du gir kontoen din Hemmelig nøkkel: Dette er nøkkelen du vil
 
 ### 1.2 **Suksess eller feil**
 
-**Suksess** Etter at du har aktivert MFA, vil du se denne meldingen.
+_Suksess_ Etter at du har aktivert MFA, vil du se denne meldingen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/05-success-or-fail.png)
 
 Når det er aktivert, må du ha mobilenheten din til stede hver gang du logger på Catenda Hub. MFA kan deaktiveres igjen ved å klikke på Deaktiver MFA.
 
-**Feil kode** Hvis du ikke skrev inn riktig kode, får du meldingen feil kode.
+_Feil kode_ Hvis du ikke skrev inn riktig kode, får du meldingen feil kode.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/06-success-or-fail.png)
 
@@ -68,51 +68,51 @@ Når det er aktivert, må du ha mobilenheten din til stede hver gang du logger p
 
 Etter at du har koblet til en MFA-kode, kan du trygt redigere kontonavnet på koden. Du kan gjøre det på følgende måter:
 
-**Google Authenticator**
+_Google Authenticator_
 
 1. Langtast på koden
-2. Klikk på blyanten øverst til høyre for å endre navnet.
+1. Klikk på blyanten øverst til høyre for å endre navnet.
 
-**Microsoft Authenticator**
+_Microsoft Authenticator_
 
 1. Klikk på koden.
-2. Klikk på tannhjulet øverst til høyre
-3. Klikk på blyanten for å endre navnet
+1. Klikk på tannhjulet øverst til høyre
+1. Klikk på blyanten for å endre navnet
 
 ## 3. **Overføring av MFA**
 
-**Deaktivering og reaktivering** Det er bare mulig å bruke en MFA-apkkodeparring om gangen. Hvis du ønsker å bytte til en annen kodeparring, kanskje fordi din nåværende er kompromittert, følger du disse trinnene: Du bør også bruke denne metoden hvis du ønsker å endre appen du bruker for MFA.
+_Deaktivering og reaktivering_ Det er bare mulig å bruke en MFA-apkkodeparring om gangen. Hvis du ønsker å bytte til en annen kodeparring, kanskje fordi din nåværende er kompromittert, følger du disse trinnene: Du bør også bruke denne metoden hvis du ønsker å endre appen du bruker for MFA.
 
 1. Deaktiver MFA din på [autentiseringssiden](https://hub.catenda.com/account/authentication)
-2. Forbered appen du vil bruke for å gjenopprette MFA-en din
-3. Generer et nytt kodeparpar ved å skanne QR-koden som i [aktiveringsdelen](#h_9e13fd06f5)
+1. Forbered appen du vil bruke for å gjenopprette MFA-en din
+1. Generer et nytt kodeparpar ved å skanne QR-koden som i [aktiveringsdelen](#h_9e13fd06f5)
 
 > **Merk:** Vær forsiktig med denne metoden fordi kontoen din blir midlertidig sårbar mens den er deaktivert, og du vil ikke kunne få tilgang til prosjekter hvor MFA kreves i løpet av denne tiden.
 
-**Overføring via sikkerhetskopi** Hvis du ønsker å begynne å bruke en ny enhet uten at koden blir midlertidig deaktivert, kan du bruke en annen installasjon av samme MFA-app og overføre koden fra den gamle installasjonen til den nye installasjonen.
+_Overføring via sikkerhetskopi_ Hvis du ønsker å begynne å bruke en ny enhet uten at koden blir midlertidig deaktivert, kan du bruke en annen installasjon av samme MFA-app og overføre koden fra den gamle installasjonen til den nye installasjonen.
 
-**Google authenticator** Gammel enhet:
+_Google authenticator_ Gammel enhet:
 
 1. Trykk på hamburger-menyen øverst til høyre
-2. Trykk på Eksporter kontoer
-3. Velg kontiene du ønsker å eksportere
+1. Trykk på Eksporter kontoer
+1. Velg kontiene du ønsker å eksportere
 
 Ny enhet:
 
 1. Trykk på hamburger-menyen øverst til høyre
-2. Trykk på importer kontoer
-3. Trykk på skann QR-kode
-4. Skann QR-koden som vises på den gamle enheten når du gikk gjennom eksportprosessen.
+1. Trykk på importer kontoer
+1. Trykk på skann QR-kode
+1. Skann QR-koden som vises på den gamle enheten når du gikk gjennom eksportprosessen.
 
-**Microsoft authenticator** Gammel enhet:
+_Microsoft authenticator_ Gammel enhet:
 
 1. Trykk på hamburger-menyen øverst til høyre
-2. Slå på sikkerhetskopi
+1. Slå på sikkerhetskopi
 
 Ny enhet:
 
 1. Installer og åpne Microsoft Authenticator-appen på den nye enheten din
-2. Trykk på "Begynn gjenoppretting."
+1. Trykk på "Begynn gjenoppretting."
 
 > **Merk 1:** Ikke konfigurer noen kontoer med Microsoft Authenticator før du har brukt gjenopprettingsverktøyet, fordi det vil overskrive matchende nettstedkontoer.
 
@@ -126,16 +126,16 @@ Etter at du har deaktivert koden på Catenda Hub, vil koden forbli på applikasj
 
 ### 4.1 **Hvordan slette den gamle koden:**
 
-**Google Authenticator**
+_Google Authenticator_
 
 1. Langtast på koden
-2. Klikk på søppelikonen øverst til høyre.
+1. Klikk på søppelikonen øverst til høyre.
 
-**Microsoft Authenticator**
+_Microsoft Authenticator_
 
 1. Klikk på koden.
-2. Klikk på tannhjulet øverst til høyre
-3. Klikk på fjern konto
+1. Klikk på tannhjulet øverst til høyre
+1. Klikk på fjern konto
 
 ## 5. **MFA på enheter uten mobil**
 

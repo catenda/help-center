@@ -4,6 +4,8 @@
 
 Catenda Archicad-plugin er et programtillegg som kan installeres for Nemetschek Archicad. Med dette programtillegget kan du samarbeide om 3D-synspunkter, saker og dokumenter med andre medlemmer av byggeprosjektet.
 
+De følgende sakene er beskrevet i denne artikkelen:
+
 ## 1. **Installasjon**
 
 Når Catenda Archicad-plugin installeres på Windows, vil installasjonsfilene vises i følgende mappe.
@@ -56,11 +58,11 @@ Når du åpner Archicad-programtillegget, ser du listen over prosjektene dine, s
 
 Så snart du har godtatt invitasjonen til et prosjekt, vises prosjektet ditt i listen over prosjektene dine i programtillegget og på [prosjektsiden](https://support.catenda.com/en/articles/8400797-projects-page).
 
-**Handlingsmeny** Klikk på de tre prikkene ved siden av profilbildet ditt for å åpne rullegardinmenyen for handlinger:
+_Handlingsmeny_ Klikk på de tre prikkene ved siden av profilbildet ditt for å åpne rullegardinmenyen for handlinger:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/04-project-list.png)
 
-**Modeller og revisjoner** Dette er hvordan siden for modeller og revisjoner kan se ut. Her kan du se alle modellene du har tilgang til i Catenda-prosjektet ditt.
+_Modeller og revisjoner_ Dette er hvordan siden for modeller og revisjoner kan se ut. Her kan du se alle modellene du har tilgang til i Catenda-prosjektet ditt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/05-project-list.png)
 
@@ -68,27 +70,29 @@ På denne siden kan du laste ned og importere IFC-filer fra Catenda-prosjektet d
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/06-project-list.png)
 
-**Last opp IFC** Last opp en IFC fra gjeldende Archicad-prosjekt Dette er hvordan siden for opplasting av IFC kan se ut:
+_Last opp IFC_ Last opp en IFC fra gjeldende Archicad-prosjekt Dette er hvordan siden for opplasting av IFC kan se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/07-project-list.png)
 
 Som standard vil filnavnet være navnet på Archicad-prosjektet. Dette blir navnet på revisjonen i Catenda. Velg hvilken modell du vil laste opp filen til. Klikk på innstillinger for å åpne dialogboksen for Archicad IFC-eksport. Her kan du konfigurere hvilke innstillinger du vil bruke for å eksportere IFC-en til Catenda. Når du er klar, klikker du på opplastingsknappen for å laste opp en modell.
 
-**Koordinater** Hold musemarkøren over alternativet Koordinater for å utvide menyen Koordinater. Dette er hvordan menyen Koordinater kan se ut:
+_Koordinater_ Hold musemarkøren over alternativet Koordinater for å utvide menyen Koordinater. Dette er hvordan menyen Koordinater kan se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/08-project-list.png)
 
 I menyen Koordinater kan koordinater velges til å være relative til: Grunnpunkt - Standard Prosjektopprinnelse
 
-**Versjon** Versjonsnummeret til programtillegget.
+_Versjon_ Versjonsnummeret til programtillegget.
 
-**Logg ut** Logg ut av Catenda-kontoen din
+_Logg ut_ Logg ut av Catenda-kontoen din
 
 ## 5. **Saksliste**
 
 Når du klikker på et prosjekt for å åpne det, åpnes den første sakslistens i prosjektet. En saksliste kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/09-topic-board.png)
+
+De følgende sakene er beskrevet i denne delen:
 
 ### 5.1 **Søk**
 
@@ -106,23 +110,23 @@ Klikk på knappen Vis filter for å åpne filtermenyen. Dette er hvordan filterm
 
 Avhengig av de konfigurerte innstillingene i sakslistens og sakene som sendes inn, kan det være tilgjengelig ulike filtre:
 
-**Mine saker** Tildelt til meg Etterspurt av meg Opprettet av meg
+_Mine saker_ Tildelt til meg Etterspurt av meg Opprettet av meg
 
-**Status** De ulike statusene i sakslistens er oppført her
+_Status_ De ulike statusene i sakslistens er oppført her
 
-**Type** De ulike typene i sakslistens er oppført her
+_Type_ De ulike typene i sakslistens er oppført her
 
-**Frist** Forfalt Mindre enn en dag Mindre enn en uke Mindre enn to uker Mindre enn en måned Alle med en frist
+_Frist_ Forfalt Mindre enn en dag Mindre enn en uke Mindre enn to uker Mindre enn en måned Alle med en frist
 
-**Tildelt til** Oppføringene som begynner med en `@` er tildelte team som er oppført først. Etter det er tildelte prosjektmedlemmer oppført.
+_Tildelt til_ Oppføringene som begynner med en `@` er tildelte team som er oppført først. Etter det er tildelte prosjektmedlemmer oppført.
 
-**Etterspurt av** Oppføringene som begynner med en `@` er team som etterspør saker som er oppført først. Etter det er prosjektmedlemmer som etterspør saker, oppført.
+_Etterspurt av_ Oppføringene som begynner med en `@` er team som etterspør saker som er oppført først. Etter det er prosjektmedlemmer som etterspør saker, oppført.
 
-**Milepæl** Eventuelle milepæler som brukes på saker, er oppført.
+_Milepæl_ Eventuelle milepæler som brukes på saker, er oppført.
 
-**Merkelapp** Merkelapper brukt på saker er oppført her.
+_Merkelapp_ Merkelapper brukt på saker er oppført her.
 
-**Filtre som ikke er nevnt i filtermenyen** Tekstsøk Tekst kan søkes på ved å skrive i søkefeltet.
+_Filtre som ikke er nevnt i filtermenyen_ Tekstsøk Tekst kan søkes på ved å skrive i søkefeltet.
 
 Innhold som kan søkes på Sakstittel Saksbeskrivelse Sakskommentar
 
@@ -138,11 +142,11 @@ Klikk på Sortering for å åpne sorteringsmenyen. Dette er hvordan sorteringsme
 
 Klikk på et av alternativene for å sortere sakslistens etter: _Nyeste_ - Standard Saker med den nyeste opprettelsesdatoen
 
-**Eldste** Saker med den eldste opprettelsesdatoen
+_Eldste_ Saker med den eldste opprettelsesdatoen
 
-**Nylig oppdatert** Saker som er nylig oppdatert
+_Nylig oppdatert_ Saker som er nylig oppdatert
 
-**Minst nylig oppdatert** Saker som er minst nylig oppdatert
+_Minst nylig oppdatert_ Saker som er minst nylig oppdatert
 
 ## 6. **Sak**
 

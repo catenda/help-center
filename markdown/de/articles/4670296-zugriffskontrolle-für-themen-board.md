@@ -88,7 +88,7 @@ Wenn die Option "Themen schließen" für einen Benutzer deaktiviert ist, kann di
 
 Lassen Sie den Eigentümer sein eigenes Thema schließen, da nur sie am besten wissen, ob alles erledigt wurde oder nicht. Lassen Sie ein Team namens "Team-Leads" oder "Reviewer" die Themen schließen, da nur sie die Befugnis haben, die Themen zu schließen.
 
-## 8. \*\*Schaltfläche "Speichern"ÂŁ
+## 8. **Schaltfläche "Speichern"ÂŁ
 
 > **Hinweis:** Denken Sie daran, auf die Schaltfläche "Speichern" zu klicken und neu zu laden, wenn Sie fertig sind, um die Änderungen zu sehen.
 

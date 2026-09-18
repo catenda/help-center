@@ -24,13 +24,13 @@ For å arbeide med saker og plasseringer åpner du innholdet og 3D-panelene side
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/03-displaying-markers.png)
 
-**Velg modellen for 2D-bakgrunnen din**
+_Velg modellen for 2D-bakgrunnen din_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/04-displaying-markers.png)
 
 Hvis en etasje har blitt konfigurert i etasjekonfiguratoren, åpnes den første etasjen av den første bygningen som standard så snart 3D-panelet åpnes.
 
-**Utvid 2D-visningen**
+_Utvid 2D-visningen_
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/05-displaying-markers.png)
 
@@ -38,9 +38,9 @@ Dra på det øverste venstre hjørnet av 2D-visningen eller dobbeltklikk på tit
 
 ### 1.3 **Finne markører**
 
-**Finne en sak fra en markør på en etasje i 2D-visningen** Hold markøren over en markør i 2D-visningen for å se saksnummeret og tittelen på saken den tilhører. Når en markør i 2D-visningen klikkes, endres innholdspanelet for å vise den valgte saken i dens sakskort på [sakssiden](https://support.catenda.com/en/articles/4670271-topics-page).
+_Finne en sak fra en markør på en etasje i 2D-visningen_ Hold markøren over en markør i 2D-visningen for å se saksnummeret og tittelen på saken den tilhører. Når en markør i 2D-visningen klikkes, endres innholdspanelet for å vise den valgte saken i dens sakskort på [sakssiden](https://support.catenda.com/en/articles/4670271-topics-page).
 
-**Finne en markør i 2D-visningen fra en sak** For å finne hvor markøren for en sak har blitt plassert i 2D-visningen, åpner du saken i dens sakskort og klikker på "Har markør"-teksten i sakshodelinjen.
+_Finne en markør i 2D-visningen fra en sak_ For å finne hvor markøren for en sak har blitt plassert i 2D-visningen, åpner du saken i dens sakskort og klikker på "Har markør"-teksten i sakshodelinjen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/06-finding-markers.png)
 
@@ -54,9 +54,9 @@ Når en enkelt sak er valgt i sakskortene eller når en sak åpnes, er fargen p�
 
 ### 1.4 **Redigering av markører**
 
-**Flytte markører** I 2D-visningen navigerer du til bygningen og etasjen markøren skal plasseres. I en sak med en markør velger du alternativet Velg ny plassering fra Har markør-menyen. Klikk på den nye plasseringen av markøren i 2D-visningen for å flytte markøren til den nye plasseringen.
+_Flytte markører_ I 2D-visningen navigerer du til bygningen og etasjen markøren skal plasseres. I en sak med en markør velger du alternativet Velg ny plassering fra Har markør-menyen. Klikk på den nye plasseringen av markøren i 2D-visningen for å flytte markøren til den nye plasseringen.
 
-**Fjerne markører** Velg alternativet Slett markør i saken.
+_Fjerne markører_ Velg alternativet Slett markør i saken.
 
 ### 1.5 **Markørkonfigurasjon**
 
@@ -66,10 +66,10 @@ Markeringssynlighet kan konfigureres på følgende steder:
 
 1. Vis/skjul markører i 2D-visningen med [2D-visningsinnstillingene](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098). <br>Merk: Markører kan fortsatt ikke være synlige hvis markerlagstilstanden er deaktivert.
 
-   I denne menyen kan markeringsfargemodus også konfigureres.
-   ([Status, Saktype, Frist](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
+    I denne menyen kan markeringsfargemodus også konfigureres.
+    ([Status, Saktype, Frist](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
 
-2. I lagmenyen kan markeringslaget aktiveres/deaktiveres.
+1. I lagmenyen kan markeringslaget aktiveres/deaktiveres.
 
 ## 2. **Saker med nye markører**
 
@@ -83,11 +83,11 @@ Legg merke til at markøren blir til en kryss så snart du holder markøren over
 
 ### 2.2 **Legg til markør fra 2D-visning**
 
-**Legg til markør** Naviger til en sak eller velg en enkelt sak i sakskortene. Høyreklikk i 2D-visningen og velg "Legg til markør" i kontekstdialogren som åpner for å legge til en markør i den valgte eller åpne saken på det stedet.
+_Legg til markør_ Naviger til en sak eller velg en enkelt sak i sakskortene. Høyreklikk i 2D-visningen og velg "Legg til markør" i kontekstdialogren som åpner for å legge til en markør i den valgte eller åpne saken på det stedet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/11-add-marker-from-2d-viewer.png)
 
-**Opprett en ny sak med markør** Naviger først til sakskortene du vil opprett en sak med en markør i. Deretter høyreklikker du i 2D-visningen og velger "Opprett en ny sak med markør" i kontekstdialogren som åpner for å starte [prosessen for oppretting av ny sak](https://support.catenda.com/en/articles/4670268-creating-a-new-topic) med markøren allerede brukt.
+_Opprett en ny sak med markør_ Naviger først til sakskortene du vil opprett en sak med en markør i. Deretter høyreklikker du i 2D-visningen og velger "Opprett en ny sak med markør" i kontekstdialogren som åpner for å starte [prosessen for oppretting av ny sak](https://support.catenda.com/en/articles/4670268-creating-a-new-topic) med markøren allerede brukt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/12-add-marker-from-2d-viewer.png)
 

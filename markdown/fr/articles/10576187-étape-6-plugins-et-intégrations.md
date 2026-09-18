@@ -4,7 +4,7 @@
 
 > **Conseil :** Trouvez l'[étape 5](https://support.catenda.com/en/articles/10576182-step-5-topics) dans [Démarrage](https://support.catenda.com/en/collections/2657208-getting-started) sur le centre d'aide ou dans le menu d'aide.
 
-## 1. \*\*([télécharger les liens](https://support.catenda.com/en/articles/8396532-catenda-connections))
+## 1. **([télécharger les liens](https://support.catenda.com/en/articles/8396532-catenda-connections))
 
 ## 2. **Bureau Connecteur**
 

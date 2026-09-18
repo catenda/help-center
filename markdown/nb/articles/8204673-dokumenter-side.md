@@ -56,15 +56,15 @@ Klikk [her](https://support.catenda.com/en/articles/4670288-document-structure-a
 
 Når tabellen først lastes inn, vises opptil 100 rader. Hvis det er flere enn 100 rader i tabellen, kan du bla ned til bunnen for å laste inn de neste 100 radene.
 
-**Tilgang** Rader på dokumenter-siden vises basert på tilgangen til elementet. _Tilgang påkrevd -_ Les
+_Tilgang_ Rader på dokumenter-siden vises basert på tilgangen til elementet. _Tilgang påkrevd -_ Les
 
-**Mapperah** Når du åpner innholdet i en mapperah, endres tabellen til å vise innholdet i den mappen på dokumenter-siden.
+_Mapperah_ Når du åpner innholdet i en mapperah, endres tabellen til å vise innholdet i den mappen på dokumenter-siden.
 
-**Dokumentrad** Når du åpner innholdet i en dokumentrad, åpnes [dokumentforhåndsvisningen](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) av den nyeste revisjonen av det dokumentet.
+_Dokumentrad_ Når du åpner innholdet i en dokumentrad, åpnes [dokumentforhåndsvisningen](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) av den nyeste revisjonen av det dokumentet.
 
-**Bilde- eller 3D-dokumentikoner** Når du åpner innholdet i et bilde- eller 3D-dokumentikon, åpnes en popup-forhåndsvisningsdialog. I forhåndsvisningsdialogen kan du bla gjennom bilder som for tiden er i tabellen.
+_Bilde- eller 3D-dokumentikoner_ Når du åpner innholdet i et bilde- eller 3D-dokumentikon, åpnes en popup-forhåndsvisningsdialog. I forhåndsvisningsdialogen kan du bla gjennom bilder som for tiden er i tabellen.
 
-**2D- og 3D-knapper** For 2D åpnes 3D-panelet og den første etasjen av den nyeste revisjonen av dokumentet lastes inn i 2D-viseren. For 3D åpnes 3D-panelet og den nyeste revisjonen av dokumentet lastes inn i 3D.
+_2D- og 3D-knapper_ For 2D åpnes 3D-panelet og den første etasjen av den nyeste revisjonen av dokumentet lastes inn i 2D-viseren. For 3D åpnes 3D-panelet og den nyeste revisjonen av dokumentet lastes inn i 3D.
 
 ### 4.3 **Radinnhold med statusarbeidsflyt -** Utkastrevisjoner
 
@@ -74,21 +74,21 @@ Når du åpner innholdet i en dokumentrad med utkast- og publiserte revisjoner, 
 
 ### 4.4 **Radinnhold med statusarbeidsflyt - Arbeidsflate-fane**
 
-**Tilgang** Rader på dokumenter-siden vises basert på tilgangen til elementet. Med tilgang til å vise delte revisjoner, vises den nyeste revisjonen. _Tilgang påkrevd_ - Tilgang til å vise delte revisjoner i dokumentet
+_Tilgang_ Rader på dokumenter-siden vises basert på tilgangen til elementet. Med tilgang til å vise delte revisjoner, vises den nyeste revisjonen. _Tilgang påkrevd_ - Tilgang til å vise delte revisjoner i dokumentet
 
 Uten tilgang til å vise delte revisjoner, vises den nyeste publiserte revisjonen. Selv om det finnes nyere delte revisjoner. _Tilgang påkrevd -_ Lesetilgang til dokumentet
 
-**Dokumentinnhold** Når du åpner innholdet i en dokumentrad i arbeidsflate-fanen, åpnes [dokumentforhåndsvisningen](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) av den nyeste delte revisjonen, selv om revisjoner i dokumentet tidligere ble publisert.
+_Dokumentinnhold_ Når du åpner innholdet i en dokumentrad i arbeidsflate-fanen, åpnes [dokumentforhåndsvisningen](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) av den nyeste delte revisjonen, selv om revisjoner i dokumentet tidligere ble publisert.
 
-**2D- og 3D-knapper for modellokumenter** 2D- og 3D-visningene av den nyeste revisjonen som en bruker har tilgang til, åpnes.
+_2D- og 3D-knapper for modellokumenter_ 2D- og 3D-visningene av den nyeste revisjonen som en bruker har tilgang til, åpnes.
 
 ### 4.5 **Radinnhold med statusarbeidsflyt -** Publisert-fane
 
-**Tilgang** Rader på dokumenter-siden vises basert på tilgangen til elementet. Dokumentrader med minst én publisert revisjon vises. _Tilgang påkrevd -_ Les
+_Tilgang_ Rader på dokumenter-siden vises basert på tilgangen til elementet. Dokumentrader med minst én publisert revisjon vises. _Tilgang påkrevd -_ Les
 
-**Dokumentinnhold** Når du åpner innholdet i en dokumentrad i den publiserte fanen, åpnes [dokumentforhåndsvisningen](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) av den nyeste publiserte revisjonen av dokumentet, selv om det finnes nyere delte revisjoner.
+_Dokumentinnhold_ Når du åpner innholdet i en dokumentrad i den publiserte fanen, åpnes [dokumentforhåndsvisningen](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) av den nyeste publiserte revisjonen av dokumentet, selv om det finnes nyere delte revisjoner.
 
-**2D- og 3D-knapper for modellokumenter** 2D- og 3D-visningene av den nyeste publiserte revisjonen åpnes selv om det finnes nyere delte revisjoner.
+_2D- og 3D-knapper for modellokumenter_ 2D- og 3D-visningene av den nyeste publiserte revisjonen åpnes selv om det finnes nyere delte revisjoner.
 
 ### 4.6 **Kolonner**
 

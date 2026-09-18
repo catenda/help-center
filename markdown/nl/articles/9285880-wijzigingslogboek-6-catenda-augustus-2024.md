@@ -52,18 +52,13 @@ Dankzij jullie waardevolle feedback hebben we veel Topics kunnen aanpakken die j
 ### 2.2 **Modellen**
 
 - Systeemboom - Groepen die aan elkaar gerelateerd zijn, worden nu sneller geladen en verschijnen niet langer ook als hun eigen groep op het hoofdniveau van de systeemboom.
-
 - Het is opnieuw mogelijk om modelrevisies te zien op de overzichtspagina van revisies van een model in pre-modellen als Documenten projecten.
-
 - Het is opnieuw mogelijk om de transformatiehoek van een model te wijzigen en deze na een pagina-hervernieuwing te zien
-
 - De initiële transformatiewaarde bij het maken van een model is gecorrigeerd
-
 - Rotatietransformatie is nu xyz zoals het zou moeten zijn, in plaats van xyy
-
 - Er wordt geen y-coördinaattransformatie meer toegepast bij het toevoegen van rotatie aan een model.
 
-  Als je nu een transformatie met rotatie toepast, de pagina opnieuw laadt en het model opnieuw laadt, wordt het op de juiste plaats weergegeven.
+    Als je nu een transformatie met rotatie toepast, de pagina opnieuw laadt en het model opnieuw laadt, wordt het op de juiste plaats weergegeven.
 
 - 4D-functionaliteit werkt opnieuw.
 

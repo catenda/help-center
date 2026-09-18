@@ -26,7 +26,7 @@ Teammedlemmer vil ha en begrenset mengde arbeidsdager til å vurdere dokumenter 
 
 Tiden som er konfigurert i tidsinnstillinger er tiden for når arbeidsdagen skal begynne og slutte for hver av disse arbeidsdagene. Konfigurer tidsinnstillingene for å samsvare med teammedlemmene hvis team er satt som vurderingsteam for vurderingstrinn i denne arbeidsflyten. Teammedlemmer vil kunne sende inn sin vurdering innenfor det gitte tidsrommet basert på antall arbeidsdager og tiden som er konfigurert i dette feltet.
 
-**Eksempel på hvordan tidsinnstillinger kan vurderes:** Innsendelser kan dateres basert på disse tidspunktene. En innsendelse kl. 02.00 tilhører forrige dag hvis tidsinnstillingen er satt til kl. 06.00.
+_Eksempel på hvordan tidsinnstillinger kan vurderes:_ Innsendelser kan dateres basert på disse tidspunktene. En innsendelse kl. 02.00 tilhører forrige dag hvis tidsinnstillingen er satt til kl. 06.00.
 
 ### 2.1 **Starttid**
 
@@ -60,7 +60,7 @@ Klikk på det valgte tidssone-listeelementet for å åpne tidssone-rullegardinme
 
 Som standard kan et listelement sees for hvert trettisekundet tidssone-offset-intervall som har en aktiv tidssone i tidssone-rullegardinmenyen.
 
-**Beskrivelse av tidssone-listelement** Den første delen av tidssone-listeelementer kan vise:
+_Beskrivelse av tidssone-listelement_ Den første delen av tidssone-listeelementer kan vise:
 
 - En tidssoneforkortelse
 
@@ -70,7 +70,7 @@ Som standard kan et listelement sees for hvert trettisekundet tidssone-offset-in
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/08-selecting-a-list-element-in-the-timezone-dropdown.png)
 
-**Navn på tidssone-listelement** Den andre delen av et tidssone-listelement kan vise:
+_Navn på tidssone-listelement_ Den andre delen av et tidssone-listelement kan vise:
 
 - Et tidssonenavn.<br>For geografiske steder hvor tidssonen er den samme hele året.
 
@@ -80,7 +80,7 @@ Som standard kan et listelement sees for hvert trettisekundet tidssone-offset-in
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/10-selecting-a-list-element-in-the-timezone-dropdown.png)
 
-**Type tidssone-listelement** Den siste delen av tidssone-listeelementer kan vise:
+_Type tidssone-listelement_ Den siste delen av tidssone-listeelementer kan vise:
 
 - En tidssoneforkortelse
 
@@ -90,7 +90,7 @@ Som standard kan et listelement sees for hvert trettisekundet tidssone-offset-in
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/12-selecting-a-list-element-in-the-timezone-dropdown.png)
 
-**Søk i tidssone-rullegardinmenyen** Søk etter en geografisk plassering for å finne alle tidssone-listeelementer for den plasseringen. Hvis det er et samsvar, er plasseringen inkludert. Den er ikke alltid oppført som vist nedenfor.
+_Søk i tidssone-rullegardinmenyen_ Søk etter en geografisk plassering for å finne alle tidssone-listeelementer for den plasseringen. Hvis det er et samsvar, er plasseringen inkludert. Den er ikke alltid oppført som vist nedenfor.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/13-selecting-a-list-element-in-the-timezone-dropdown.png)
 
@@ -120,11 +120,11 @@ Velg hvilke teammedlemmer i sluttgjennomgangsteamet som vil se i listen over tea
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/18-submitters.png)
 
-**Velge et team som arbeidsflytskaper er en del av** Hvis arbeitsflytskaper vil være den som sender inn denne typen arbeitsflyter, er det viktig at et team som arbeitsflytskaper er en del av, blir lagt til som et innsenderstesystem.
+_Velge et team som arbeidsflytskaper er en del av_ Hvis arbeitsflytskaper vil være den som sender inn denne typen arbeitsflyter, er det viktig at et team som arbeitsflytskaper er en del av, blir lagt til som et innsenderstesystem.
 
-**Velge et tomt team** Et tomt team kan velges hvis medlemmene som skal være en del av dette teamet ennå ikke er en del av prosjektet.
+_Velge et tomt team_ Et tomt team kan velges hvis medlemmene som skal være en del av dette teamet ennå ikke er en del av prosjektet.
 
-**Velge et team med ett medlem** Siden det ikke er mulig å legge til individuelle medlemmer, hvis bare ett medlem vil arbeide med denne måten å godkjenne dokumenter på, kan et team med bare ett medlem velges. Etter opprettelse av arbeidsflyten vil det ikke være mulig å redigere den, så selv med ett medlem tillater et team fleksibilitet til å flytte mennesker inn og ut av det teamet.
+_Velge et team med ett medlem_ Siden det ikke er mulig å legge til individuelle medlemmer, hvis bare ett medlem vil arbeide med denne måten å godkjenne dokumenter på, kan et team med bare ett medlem velges. Etter opprettelse av arbeidsflyten vil det ikke være mulig å redigere den, så selv med ett medlem tillater et team fleksibilitet til å flytte mennesker inn og ut av det teamet.
 
 > **Merk:** Det er bare mulig å velge team og ikke individuelle medlemmer
 
@@ -140,19 +140,19 @@ Bygg en flertrinns gjennomgangsprosess. Dette er hva vurderingstrinn-delen av en
 
 ### 4.1 **Trinntall**
 
-**Ingen trinn** Selv om det er mulig å opprette en arbeitsflyt uten trinn ved å slette alle trinn, vil det ikke være mulig å opprette en gjennomgang med denne arbeidsflyten da det må være minst ett trinn for å kunne sende inn en gjennomgang.
+_Ingen trinn_ Selv om det er mulig å opprette en arbeitsflyt uten trinn ved å slette alle trinn, vil det ikke være mulig å opprette en gjennomgang med denne arbeidsflyten da det må være minst ett trinn for å kunne sende inn en gjennomgang.
 
-**Maksimalt antall trinn** Det maksimale antallet trinn som en arbeitsflyt kan ha, er 10.
+_Maksimalt antall trinn_ Det maksimale antallet trinn som en arbeitsflyt kan ha, er 10.
 
 ### 4.2 **Team**
 
 Velg vurderingsteam som vil kunne delta i vurderingstrinn. Det maksimale antallet team som en arbeitsflyt kan ha er 20. Hvert team må sende inn sin vurdering før arbeidsflyten går videre til neste trinn. Hvis automatisk videreføring er merket av, vil arbeidsflyten automatisk gå til neste trinn etter det konfigurerte antallet arbeidsdager.
 
-**Velge et team som arbeitsflytskaper er en del av** Hvis arbeitsflytskaper vil være den som vurderer et trinn, er det viktig at et team som arbeitsflytskaper er en del av, blir lagt til som et vurderingsteam.
+_Velge et team som arbeitsflytskaper er en del av_ Hvis arbeitsflytskaper vil være den som vurderer et trinn, er det viktig at et team som arbeitsflytskaper er en del av, blir lagt til som et vurderingsteam.
 
-**Velge et tomt team** Et tomt team kan velges hvis medlemmene som skal være en del av dette teamet ennå ikke er en del av prosjektet.
+_Velge et tomt team_ Et tomt team kan velges hvis medlemmene som skal være en del av dette teamet ennå ikke er en del av prosjektet.
 
-**Velge et team med ett medlem** Siden det ikke er mulig å legge til individuelle medlemmer, hvis bare ett medlem vil arbeide med denne måten å godkjenne dokumenter på, kan et team med bare ett medlem velges. Etter opprettelse av arbeidsflyten vil det ikke være mulig å redigere den, så selv med ett medlem tillater et team fleksibilitet til å flytte mennesker inn og ut av det teamet.
+_Velge et team med ett medlem_ Siden det ikke er mulig å legge til individuelle medlemmer, hvis bare ett medlem vil arbeide med denne måten å godkjenne dokumenter på, kan et team med bare ett medlem velges. Etter opprettelse av arbeidsflyten vil det ikke være mulig å redigere den, så selv med ett medlem tillater et team fleksibilitet til å flytte mennesker inn og ut av det teamet.
 
 ### 4.3 **Arbeidsdager for vurdering**
 
@@ -201,11 +201,11 @@ Sluttgjennomgang blir gitt manuelt av et enkelt team. Dette er hva sluttgjennomg
 
 Sluttgjennomgangsteamet som vil gi sluttgjennomgangen basert på vurderingene fra hvert av vurderingsteamene.
 
-**Velge et team som arbeitsflytskaper er en del av** Hvis arbeitsflytskaper vil være den som gir den endelige valideringen av gjennomgangen, er det viktig at publiseringsteamet er et team som arbeitsflytskaper er en del av.
+_Velge et team som arbeitsflytskaper er en del av_ Hvis arbeitsflytskaper vil være den som gir den endelige valideringen av gjennomgangen, er det viktig at publiseringsteamet er et team som arbeitsflytskaper er en del av.
 
-**Velge et tomt team** Et tomt team kan velges hvis medlemmene som skal være en del av dette teamet ennå ikke er en del av prosjektet.
+_Velge et tomt team_ Et tomt team kan velges hvis medlemmene som skal være en del av dette teamet ennå ikke er en del av prosjektet.
 
-**Velge et team med ett medlem** Siden det ikke er mulig å legge til individuelle medlemmer, hvis bare ett medlem vil arbeide med denne måten å godkjenne dokumenter på, kan et team med bare ett medlem velges. Etter opprettelse av arbeidsflyten vil det ikke være mulig å redigere den, så selv med ett medlem tillater et team fleksibilitet til å flytte mennesker inn og ut av det teamet.
+_Velge et team med ett medlem_ Siden det ikke er mulig å legge til individuelle medlemmer, hvis bare ett medlem vil arbeide med denne måten å godkjenne dokumenter på, kan et team med bare ett medlem velges. Etter opprettelse av arbeidsflyten vil det ikke være mulig å redigere den, så selv med ett medlem tillater et team fleksibilitet til å flytte mennesker inn og ut av det teamet.
 
 ### 5.2 **Arbeidsdager for godkjenning**
 

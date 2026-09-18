@@ -65,32 +65,26 @@ Peut être utilisé sur les sujets créés à partir de la section Sujet génér
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/05-create-a-new-general-topic-template.png)
 
 1. **Liste de sujets** : La liste de sujets dans laquelle le gabarit de sujet général peut être généré.
-
-2. **Nom du gabarit** : Le nom du gabarit peut être sélectionné dans le menu déroulant lors de la création, ou mise à jour dans les paramètres plus tard si nécessaire.
-
-3. **Titre du sujet** : Le titre du sujet résultant après la création du sujet à partir du modèle de sujet général.<br>Passez votre souris sur l'icône "?" située en haut à droite de la boîte de titre pour voir comment vous pouvez personnaliser le titre de votre modèle de sujet avec la variable disponible : `topicCreator`.<br>
+1. **Nom du gabarit** : Le nom du gabarit peut être sélectionné dans le menu déroulant lors de la création, ou mise à jour dans les paramètres plus tard si nécessaire.
+1. **Titre du sujet** : Le titre du sujet résultant après la création du sujet à partir du modèle de sujet général.<br>Passez votre souris sur l'icône "?" située en haut à droite de la boîte de titre pour voir comment vous pouvez personnaliser le titre de votre modèle de sujet avec la variable disponible : `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="184" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-272165f584d2.png" style="height: auto;" width="300"/></div>
 
-4. **Statut du sujet** : Le statut du sujet résultant après création du sujet à partir du gabarit de sujet général.
-
-5. **Type de sujet** : Le type de sujet résultant après création du sujet à partir du gabarit de sujet général.
-
-6. **Milestone** : Le milestone du sujet résultant après création du sujet à partir du gabarit de sujet général.
-
-7. **Assigné à** : La personne ou l'équipe assignée au sujet (membre du projet ou équipe) résultant de la création du sujet à partir du modèle de sujet général. Vous pouvez utiliser ici la variable `Topic Creator` pour remplir automatiquement ce champ avec le créateur du sujet si nécessaire.<br>
+1. **Statut du sujet** : Le statut du sujet résultant après création du sujet à partir du gabarit de sujet général.
+1. **Type de sujet** : Le type de sujet résultant après création du sujet à partir du gabarit de sujet général.
+1. **Milestone** : Le milestone du sujet résultant après création du sujet à partir du gabarit de sujet général.
+1. **Assigné à** : La personne ou l'équipe assignée au sujet (membre du projet ou équipe) résultant de la création du sujet à partir du modèle de sujet général. Vous pouvez utiliser ici la variable `Topic Creator` pour remplir automatiquement ce champ avec le créateur du sujet si nécessaire.<br>
 
     <div class="intercom-container intercom-align-center"><img height="94" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-c7f3d7220c54.png" style="height: auto;" width="150"/></div>
 
-8. **Demandé par** : Le demandeur du sujet résultant après la création du sujet à partir du modèle de sujet général. Vous pouvez utiliser ici la variable `Topic Creator` pour remplir automatiquement ce champ avec le créateur du sujet si nécessaire.<br>
+1. **Demandé par** : Le demandeur du sujet résultant après la création du sujet à partir du modèle de sujet général. Vous pouvez utiliser ici la variable `Topic Creator` pour remplir automatiquement ce champ avec le créateur du sujet si nécessaire.<br>
 
     <div class="intercom-container intercom-align-center"><img height="93" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-43e4955bfdd8.png" style="height: auto;" width="150"/></div>
 
-9. **Étiquettes** : Les étiquettes du sujet résultant après création du sujet à partir du gabarit de sujet général.
+1. **Étiquettes** : Les étiquettes du sujet résultant après création du sujet à partir du gabarit de sujet général.
+1. **Description** : La description du sujet résultante après la création du sujet à partir du modèle de sujet général. Cette section prend en charge le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle. <br>Passez votre souris sur l'icône "?" situé en haut à droite de la boîte de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et établir des liens vers les sujets existants) et les variables (telles que `topicCreator` dans le cas du modèle de sujet général).
 
-10. **Description** : La description du sujet résultante après la création du sujet à partir du modèle de sujet général. Cette section prend en charge le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle. <br>Passez votre souris sur l'icône "?" situé en haut à droite de la boîte de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et établir des liens vers les sujets existants) et les variables (telles que `topicCreator` dans le cas du modèle de sujet général).
-
-     <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="291" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d2735ca1aec8.png" style="height: auto;" width="300"/></div>
 
 Une fois que vous avez terminé la configuration de votre nouveau gabarit de sujet général, vous pouvez cliquer sur le bouton "Enregistrer" en bas à droite.
 
@@ -101,34 +95,29 @@ Peut être utilisé sur les sujets créés à partir de balisages sur les docume
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/06-new-document-topic-template.png)
 
 1. **Liste de sujets** : La liste de sujets dans laquelle le gabarit de sujet pour les documents peut être généré.
-
-2. **Nom du gabarit** : Le nom du gabarit peut être sélectionné dans le menu déroulant lors de la création d'un balisage, ou mise à jour dans les paramètres plus tard si nécessaire.
-
-3. **Titre du sujet** : Le titre du sujet résultant après la création du sujet à partir du modèle de sujet de document.<br>Passez votre souris sur l'icône "?" située sur le côté droit de la boîte de titre pour voir comment vous pouvez personnaliser le titre de votre modèle de sujet de document avec les variables disponibles : `documentName`, `fileName`, `markupName` et `topicCreator`.<br>
+1. **Nom du gabarit** : Le nom du gabarit peut être sélectionné dans le menu déroulant lors de la création d'un balisage, ou mise à jour dans les paramètres plus tard si nécessaire.
+1. **Titre du sujet** : Le titre du sujet résultant après la création du sujet à partir du modèle de sujet de document.<br>Passez votre souris sur l'icône "?" située sur le côté droit de la boîte de titre pour voir comment vous pouvez personnaliser le titre de votre modèle de sujet de document avec les variables disponibles : `documentName`, `fileName`, `markupName` et `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="231" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-dbe5030f1082.png" style="height: auto;" width="300"/></div>
 
-4. **Statut du sujet** : Le statut du sujet résultant après création du sujet à partir du gabarit de sujet pour les documents.
-
-5. **Type de sujet** : Le type de sujet résultant après création du sujet à partir du gabarit de sujet pour les documents.
-
-6. **Milestone** : Le milestone du sujet résultant après création du sujet à partir du gabarit de sujet pour les documents.
-
-7. **Assigné à** : Le responsable du sujet résultant (membre du projet ou équipe) après création du sujet à partir du gabarit de sujet pour les documents. Différentes variables peuvent être utilisées ici, telles que `Document owner`, `File uploader`, `Markup creator`, `Publisher` et `Topic creator`.
+1. **Statut du sujet** : Le statut du sujet résultant après création du sujet à partir du gabarit de sujet pour les documents.
+1. **Type de sujet** : Le type de sujet résultant après création du sujet à partir du gabarit de sujet pour les documents.
+1. **Milestone** : Le milestone du sujet résultant après création du sujet à partir du gabarit de sujet pour les documents.
+1. **Assigné à** : Le responsable du sujet résultant (membre du projet ou équipe) après création du sujet à partir du gabarit de sujet pour les documents. Différentes variables peuvent être utilisées ici, telles que `Document owner`, `File uploader`, `Markup creator`, `Publisher` et `Topic creator`.
 
     <div class="intercom-container intercom-align-center"><img height="228" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b3156a6c2724.png" style="height: auto;" width="150"/></div>
 
-8. **Demandé par** : Le demandeur du sujet résultant après la création du sujet à partir du modèle de sujet de document. Différentes variables peuvent être utilisées ici, telles que `Document owner`, `File uploader`, `Markup creator`, `Publisher` et `Topic creator`.<br>
+1. **Demandé par** : Le demandeur du sujet résultant après la création du sujet à partir du modèle de sujet de document. Différentes variables peuvent être utilisées ici, telles que `Document owner`, `File uploader`, `Markup creator`, `Publisher` et `Topic creator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="171" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-0c4680dfae06.png" style="height: auto;" width="150"/></div>
 
-9. **Étiquettes** : Les étiquettes de sujet résultantes après la création du sujet à partir du modèle de sujet de document. Notez que vous pouvez récupérer les étiquettes du document à partir duquel vous avez créé le balisage en utilisant la variable `Labels from documents` ci-dessous :<br>
+1. **Étiquettes** : Les étiquettes de sujet résultantes après la création du sujet à partir du modèle de sujet de document. Notez que vous pouvez récupérer les étiquettes du document à partir duquel vous avez créé le balisage en utilisant la variable `Labels from documents` ci-dessous :<br>
 
     <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
 
-10. **Description** : La description du sujet résultante après la création du sujet à partir du modèle de sujet de document. Cette section prend en charge le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle. <br>Passez votre souris sur l'icône "?" situé en haut à droite de la boîte de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et établir des liens vers les sujets existants) et les variables (telles que `documentName`, `fileName`, `markupName` et `topicCreator` dans le cas du modèle de sujet de document).
+1. **Description** : La description du sujet résultante après la création du sujet à partir du modèle de sujet de document. Cette section prend en charge le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle. <br>Passez votre souris sur l'icône "?" situé en haut à droite de la boîte de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et établir des liens vers les sujets existants) et les variables (telles que `documentName`, `fileName`, `markupName` et `topicCreator` dans le cas du modèle de sujet de document).
 
-     <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="349" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b8f3e2dabde9.png" style="height: auto;" width="300"/></div>
 
 Une fois que vous avez terminé la configuration de votre nouveau gabarit de sujet pour les documents, vous pouvez cliquer sur le bouton "Enregistrer" en bas à droite.
 
@@ -143,33 +132,28 @@ Voici les différentes actions que vous devez suivre et les variables que vous p
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/07-new-approval-topic-template.png)
 
 1. **Liste de sujets** : La liste de sujets dans laquelle le gabarit de sujet pour les approbations sera généré après la fermeture d'un circuit d'approbation.
-
-2. **Nom du gabarit** : Le nom du gabarit d'un gabarit de sujet pour les approbations peut être sélectionné dans le menu déroulant d'un modèle de circuit d'approbation, ou mise à jour dans les paramètres plus tard si nécessaire.
-
-3. **Titre du sujet** : Le titre du sujet résultant après la fermeture du flux de travail d'approbation associé.<br>Passez votre souris sur l'icône "?" située sur le côté droit de la boîte de titre pour voir comment vous pouvez personnaliser le titre de votre modèle de sujet d'approbation avec les variables disponibles : `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` et `topicCreator`.<br>
+1. **Nom du gabarit** : Le nom du gabarit d'un gabarit de sujet pour les approbations peut être sélectionné dans le menu déroulant d'un modèle de circuit d'approbation, ou mise à jour dans les paramètres plus tard si nécessaire.
+1. **Titre du sujet** : Le titre du sujet résultant après la fermeture du flux de travail d'approbation associé.<br>Passez votre souris sur l'icône "?" située sur le côté droit de la boîte de titre pour voir comment vous pouvez personnaliser le titre de votre modèle de sujet d'approbation avec les variables disponibles : `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName` et `topicCreator`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="272" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-6038b1d41fed.png" style="height: auto;" width="300"/></div>
 
-4. **Statut du sujet** : Le statut du sujet résultant après la fermeture du circuit d'approbation associé.
-
-5. **Type de sujet** : Le type de sujet résultant après la fermeture du circuit d'approbation associé.
-
-6. **Milestone** : Le milestone du sujet résultant après la fermeture du circuit d'approbation associé.
-
-7. **Assigné à** : Le responsable du sujet résultant (membre du projet ou équipe) lors de la fermeture du circuit d'approbation associé. Différentes variables peuvent être utilisées ici, telles que `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.
+1. **Statut du sujet** : Le statut du sujet résultant après la fermeture du circuit d'approbation associé.
+1. **Type de sujet** : Le type de sujet résultant après la fermeture du circuit d'approbation associé.
+1. **Milestone** : Le milestone du sujet résultant après la fermeture du circuit d'approbation associé.
+1. **Assigné à** : Le responsable du sujet résultant (membre du projet ou équipe) lors de la fermeture du circuit d'approbation associé. Différentes variables peuvent être utilisées ici, telles que `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.
 
     <div class="intercom-container intercom-align-center"><img height="182" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-b012d92ee132.png" style="height: auto;" width="150"/></div>
 
-8. **Demandé par** : Le demandeur du sujet résultant après la fermeture du flux de travail d'approbation associé. Différentes variables peuvent être utilisées ici, telles que `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.<br>
+1. **Demandé par** : Le demandeur du sujet résultant après la fermeture du flux de travail d'approbation associé. Différentes variables peuvent être utilisées ici, telles que `Approval request approver`, `Approval requested approver team`, `Approval request submitter`, `Approval request submitter team`, `Document owner`, `File uploader`, `Markup creator`, `Markup creator team`, `Publisher`.<br>
 
     <div class="intercom-container intercom-align-center"><img height="181" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-d7986adac70c.png" style="height: auto;" width="150"/></div>
 
-9. **Étiquettes** : Les étiquettes de sujet résultantes après la fermeture du flux de travail d'approbation associé. Notez que vous pouvez récupérer les étiquettes du document à partir duquel vous avez créé le balisage en utilisant la variable `Labels from documents` ci-dessous :<br>
+1. **Étiquettes** : Les étiquettes de sujet résultantes après la fermeture du flux de travail d'approbation associé. Notez que vous pouvez récupérer les étiquettes du document à partir duquel vous avez créé le balisage en utilisant la variable `Labels from documents` ci-dessous :<br>
 
     <div class="intercom-container intercom-align-center"><img height="67" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-522016d4b8ae.png" style="height: auto;" width="500"/></div>
 
-10. **Description** : La description du sujet résultante après la fermeture du flux de travail d'approbation associé. Cette section prend en charge le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle. <br>Passez votre souris sur l'icône "?" située en haut à droite de la boîte de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et lier les sujets existants) et les variables (telles que `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) dans le cas du modèle de sujet d'approbation).<br>
+1. **Description** : La description du sujet résultante après la fermeture du flux de travail d'approbation associé. Cette section prend en charge le format Markdown et vous pouvez exploiter tout son potentiel pour formater le texte, créer des en-têtes personnalisés et des listes de contrôle. <br>Passez votre souris sur l'icône "?" située en haut à droite de la boîte de description pour voir comment vous pouvez utiliser toutes les fonctionnalités disponibles (mentionner les coéquipiers et lier les sujets existants) et les variables (telles que `approvalRequestDueDate`, `approvalRequestFileLink`, `approvalRequestLink`, `approvalRequestName`, `approvalRequestNumber`, `documentName`, `fileName`, `markupName`, `topicCreator`) dans le cas du modèle de sujet d'approbation).<br>
 
-     <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
+    <div class="intercom-container intercom-align-center"><img height="449" src="https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/inline-f3f078b5d2af.png" style="height: auto;" width="300"/></div>
 
 Une fois que vous avez terminé la configuration de votre nouveau gabarit de sujet pour les approbations, vous pouvez cliquer sur le bouton "Enregistrer" en bas à droite.

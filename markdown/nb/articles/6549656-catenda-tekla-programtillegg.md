@@ -47,13 +47,13 @@ På denne siden finner du hovedmenyen for navigering i Catenda-prosjektet, issue
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/04-interface.png)
 
 1. Velg Catenda-prosjektet ditt
-2. Velg et issue board i dette prosjektet
-3. Opprett en ny sak i det valgte issue boardet
-4. Sorter saker som vises
-5. Åpne Catenda Hub-tillleggsmeny
-6. Søk og filtrer viste saker
-7. Listen over filtrerte saker i issue boardet
-8. Oppdater saker
+1. Velg et issue board i dette prosjektet
+1. Opprett en ny sak i det valgte issue boardet
+1. Sorter saker som vises
+1. Åpne Catenda Hub-tillleggsmeny
+1. Søk og filtrer viste saker
+1. Listen over filtrerte saker i issue boardet
+1. Oppdater saker
 
 ### 4.2 **Prosjekt- og issue board-valg**
 
@@ -64,6 +64,6 @@ Valg av Catenda-prosjekt viser listen over issue boards i dette prosjektet, slik
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/05-catenda-hub-add-in-menu.png)
 
 1. Liste over modeller og revisjoner
-2. Eksportinnstillinger for IFC-opplasting til Catenda Hub
-3. Versjon av Catenda Hub-plugin
-4. Logg av fra Catenda Hub-kontoen din
+1. Eksportinnstillinger for IFC-opplasting til Catenda Hub
+1. Versjon av Catenda Hub-plugin
+1. Logg av fra Catenda Hub-kontoen din

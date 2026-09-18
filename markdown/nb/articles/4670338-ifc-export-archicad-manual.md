@@ -18,11 +18,11 @@ som standard vil de ulike feltene være tomme. Selv om de er tomme, opprettes en
 
 I noen situasjoner eksporteres flere IFC-filer fra samme Archicad-prosjekt. Eksempler på dette er:
 
-**1.1.1 IFC-filer med objekter fra ulike fagfelt** En MEP-modell med kanaler, en arkitekturmodell med vegger og en konstruksjonsmodell med alle platene.
+_1.1.1 IFC-filer med objekter fra ulike fagfelt_ En MEP-modell med kanaler, en arkitekturmodell med vegger og en konstruksjonsmodell med alle platene.
 
-**1.1.2 Flere bygninger** Noen ganger blir flere bygninger modellert sammen i samme Archicad-fil, og en egen IFC eksporteres for hver av dem.
+_1.1.2 Flere bygninger_ Noen ganger blir flere bygninger modellert sammen i samme Archicad-fil, og en egen IFC eksporteres for hver av dem.
 
-**1.1.3 Ulike designvalg** Når ulike varianter av en bygning modelleres i samme Archicad-fil, eksporteres hver variant ofte til sin egen IFC-fil.
+_1.1.3 Ulike designvalg_ Når ulike varianter av en bygning modelleres i samme Archicad-fil, eksporteres hver variant ofte til sin egen IFC-fil.
 
 ### 1.2 **1.2 Konfigurering av prosjektinformasjonen**
 
@@ -82,19 +82,19 @@ Geometrikonvertering for IFC Export lar deg konvertere geometrien din på ulike 
 
 ### 6.1 Konverteringer av Archicad-elementer
 
-**6.1.1 Eksporter kun geometrier som "deltar i kollisjondeteksjon"** Eksporter bare objekter som krysser hverandre
+_6.1.1 Eksporter kun geometrier som "deltar i kollisjondeteksjon"_ Eksporter bare objekter som krysser hverandre
 
-**6.1.2 Eksporter geometri for IFC-typeprodukter** Typeprodukter inkludert
+_6.1.2 Eksporter geometri for IFC-typeprodukter_ Typeprodukter inkludert
 
-**6.1.3 Eksporter brutto geometri av elementer** Bruttgeometri inkludert
+_6.1.3 Eksporter brutto geometri av elementer_ Bruttgeometri inkludert
 
-**6.1.4 Eksporter all modellelementer geometri som:** _Parametrisk med unntak_ - standard
+_6.1.4 Eksporter all modellelementer geometri som:_ _Parametrisk med unntak_ - standard
 
-**Parametrisk (ekstrudert/rotert)** _BREP_ - Presis geometri - Hvis dette er valgt, vil de to neste alternativene også være BREP
+_Parametrisk (ekstrudert/rotert)_ _BREP_ - Presis geometri - Hvis dette er valgt, vil de to neste alternativene også være BREP
 
-**6.1.5 Elementer i fast elementoperasjoner:** _Ekstrudert/rotert_ - standard _BREP_ - Presis geometri
+_6.1.5 Elementer i fast elementoperasjoner:_ _Ekstrudert/rotert_ - standard _BREP_ - Presis geometri
 
-**6.1.6 Elementer med forbindelser** Noen elementer kan krysse hverandre, noe som kan trimme deler av ekstrusjonen.
+_6.1.6 Elementer med forbindelser_ Noen elementer kan krysse hverandre, noe som kan trimme deler av ekstrusjonen.
 
 Ekstrudert/rotert - Koble hjørner av elementer Dette legger til forbindelser til de ekstruderte elementene dine. Med dette alternativet vil du se at elementer som vegger eller tak, spesielt skråning, kobles fint.
 
@@ -102,7 +102,7 @@ Ekstrudert/rotert uten forbindelser - standard Dette gjør eksporten raskere. Hv
 
 BREP Presis geometri
 
-**6.1.7 Parametriske elementer** Archicad-elementer kan eksporteres som parametrisk geometri, ofte i form av veiledningslinjer som ekstruderes til en avstand. Parametrisk geometri gjør det enkelt å redigere objektet etter at det er opprettet. Selv om dette alternativet beholder redigerbarhet, kan geometrien ofte være noe unøyaktig da definisjonen er en tilnærming av geometrien. Dette alternativet anbefales hvis du har til hensikt å importere IFC-en tilbake til Archicad eller et annet redigeringsprogram for å foreta ytterligere redigeringer.
+_6.1.7 Parametriske elementer_ Archicad-elementer kan eksporteres som parametrisk geometri, ofte i form av veiledningslinjer som ekstruderes til en avstand. Parametrisk geometri gjør det enkelt å redigere objektet etter at det er opprettet. Selv om dette alternativet beholder redigerbarhet, kan geometrien ofte være noe unøyaktig da definisjonen er en tilnærming av geometrien. Dette alternativet anbefales hvis du har til hensikt å importere IFC-en tilbake til Archicad eller et annet redigeringsprogram for å foreta ytterligere redigeringer.
 
 BREP Eksporter geometri som separate BREP-overflater. I stedet for å beskrive objektene ved deres parametere, for eksempel lengde/bredde/høyde med genererte overflater som resultat, beskrives hver overflate som en separat overflate med en plassering i 3D. Objekter kan fortsatt inneholde flere overflater, men disse vil være løse overflater. Etter eksportering må BREP-overflater redigeres individuelt da parametere ikke lenger brukes på overflaten. Med BREP-alternativet eksporteres nøyaktige overflater uten rom for forskjell i tolking av parametere mellom forfatterverktøy. Overflater fargelegges individuelt og vil ha samme farge i Catenda Hub som de har i Archicad. Overflatfarger kan konfigureres i følgende meny:
 
@@ -120,7 +120,7 @@ Gjennomstrålning Hvor mye du kan se gjennom objektet (overstyrer den gjennomsik
 
 Diffus Hvor mørk eller lys overflatfargen er
 
-**6.1.8 Definer IFC modellposisjon etter:** Dette alternativet bestemmer prosjektlokasjon. Det er viktig å bli enig om et felles koordinatpunkt for referanse i prosjektet allerede i begynnelsen. Hvis dette endres, kan det bety at flere rådgivere må flytte objektene sine, noe som ofte ikke er gjennomførbart mot slutten av et prosjekt.
+_6.1.8 Definer IFC modellposisjon etter:_ Dette alternativet bestemmer prosjektlokasjon. Det er viktig å bli enig om et felles koordinatpunkt for referanse i prosjektet allerede i begynnelsen. Hvis dette endres, kan det bety at flere rådgivere må flytte objektene sine, noe som ofte ikke er gjennomførbart mot slutten av et prosjekt.
 
 Undersøkelsespunkt og prosjektopprinnelse - standard Med dette alternativet vil avstanden fra (0,0,0) til modellen din i Archicad være avstanden fra (0,0,0 + koordinater for undersøkelsespunktet ditt) til modellen din i Catenda Hub + hvis du har angitt en prosjektlokasjon, vil modellen din ende opp på disse koordinatene i Catenda Hub
 
@@ -148,11 +148,11 @@ Konverter til enkelt element - standard Behold hierarki
 
 ### 8.1 **8.1 Materialbevaringmodus (kun IFC2x3)**
 
-**8.1.1 Aldri spreng elementer, bevaring er ikke garantert** Med dette alternativet eksporteres hele objektet som ett objekt
+_8.1.1 Aldri spreng elementer, bevaring er ikke garantert_ Med dette alternativet eksporteres hele objektet som ett objekt
 
-**8.1.2 Spreng bare når nødvendig for å bevare materialer - standard** Med dette alternativet eksporterer du kun separate objekter for hvert komposittmateriale hvis nødvendig
+_8.1.2 Spreng bare når nødvendig for å bevare materialer - standard_ Med dette alternativet eksporterer du kun separate objekter for hvert komposittmateriale hvis nødvendig
 
-**8.1.3 Spreng alle elementer i deler, bevar materialer** Med dette alternativet eksporteres alle objekter som separate objekter for hvert materiale. Hvis du har et komposittveggmateriale, betyr det at et separat objekt eksporteres for hvert materiale. Du har ofte en dampsperre som er 1-5 mm som vil resultere i et veldig tynt objekt. Når objekter er så tynne, kan geometrien være unøyaktig. Problematiske veggmaterialer kan se slik ut:
+_8.1.3 Spreng alle elementer i deler, bevar materialer_ Med dette alternativet eksporteres alle objekter som separate objekter for hvert materiale. Hvis du har et komposittveggmateriale, betyr det at et separat objekt eksporteres for hvert materiale. Du har ofte en dampsperre som er 1-5 mm som vil resultere i et veldig tynt objekt. Når objekter er så tynne, kan geometrien være unøyaktig. Problematiske veggmaterialer kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tjawkzdp/11-8-1-material-preservation-mode-ifc2x3-only.png)
 
@@ -160,7 +160,7 @@ Dette kan gjøre det vanskelig for programvare å kutte hull gjennom overflaten 
 
 ## 9. **9. Sammensatte strukturer og komplekse profiler**
 
-**9.1 Splitt komplekse bygningselementer i deler** Her kan du velge for hvilke typer elementer du vil at det sammensatte elementet skal deles opp, og for hvilke du ikke vil det. Hvis du velger dette alternativet, vil du ikke kunne ta et valg for materialbevaringmodus.
+_9.1 Splitt komplekse bygningselementer i deler_ Her kan du velge for hvilke typer elementer du vil at det sammensatte elementet skal deles opp, og for hvilke du ikke vil det. Hvis du velger dette alternativet, vil du ikke kunne ta et valg for materialbevaringmodus.
 
 ## 10. **10. Egenskapskartlegging**
 

@@ -2,15 +2,17 @@
 
 **Catenda Site モバイルアプリ 3.0.0**をリリースしました。
 
+この記事では、以下のトピックについて説明します。
+
 ## 1. オフライン利用可能
 
 現場でオフラインの場合、以下のことができます。
 
 1. [プロジェクトをオフラインで開く](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Projects%20in%20offline%20mode)
-2. 課題をオフラインで表示/フィルター/検索
-3. [新しい課題をオフラインで作成](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
-4. [コメントを追加/更新/削除](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues)（画像とビューポイント付き）をオフラインで作成
-5. [新しいアウトボックス画面](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)からオフラインでのすべての変更を送信<br>
+1. 課題をオフラインで表示/フィルター/検索
+1. [新しい課題をオフラインで作成](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
+1. [コメントを追加/更新/削除](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues)（画像とビューポイント付き）をオフラインで作成
+1. [新しいアウトボックス画面](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue)からオフラインでのすべての変更を送信<br>
 
 ## 2. ドキュメント コレクション
 

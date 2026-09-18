@@ -42,8 +42,8 @@ Her vil du se navnet på brukeren som opprettet milepælen og datoen milepælen 
 
 For hver saksliste der det finnes saker med denne milepælen tildelt, vil du se en statistikk som viser deg hva fremdriften for milepælen i denne listen er.
 
-**Prosent** Her vil du se prosentandelen av saker som har denne milepælen tildelt og er lukket i denne saklisten. Kandidatsaker teller ikke mot denne prosentandelen.
+_Prosent_ Her vil du se prosentandelen av saker som har denne milepælen tildelt og er lukket i denne saklisten. Kandidatsaker teller ikke mot denne prosentandelen.
 
-**Åpne/lukket/kandidat** Her vil du se antallet saker med åpne, lukkede eller kandidat metastatus som denne milepælen er tildelt til. Klikk på ordet åpne, lukket eller kandidat for å se de relaterte sakene i all-saker-listen.
+_Åpne/lukket/kandidat_ Her vil du se antallet saker med åpne, lukkede eller kandidat metastatus som denne milepælen er tildelt til. Klikk på ordet åpne, lukket eller kandidat for å se de relaterte sakene i all-saker-listen.
 
-**Medlemsprofilbilde** Her vil du først se skaperen av milepælen og det utildelte bildet. For hvert profilbilde vil du se et antall saker. For milepælskaperen og utildelt kan dette antallet være 0 og vil da være grønt. Andre brukere vil bare være synlige hvis de har noen åpne saker som denne milepælen er tildelt med et antall åpne saker som de er tildelt i rødt.
+_Medlemsprofilbilde_ Her vil du først se skaperen av milepælen og det utildelte bildet. For hvert profilbilde vil du se et antall saker. For milepælskaperen og utildelt kan dette antallet være 0 og vil da være grønt. Andre brukere vil bare være synlige hvis de har noen åpne saker som denne milepælen er tildelt med et antall åpne saker som de er tildelt i rødt.

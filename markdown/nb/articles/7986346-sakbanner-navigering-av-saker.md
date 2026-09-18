@@ -41,14 +41,13 @@ _Ny sak_ - Opprett en [ny sak](https://support.catenda.com/en/articles/4670268-c
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/05-top-buttons.png)
 
 - Hodet og beskrivelsen i den klonede saken vil være den samme som i den gjeldende saken
-
 - _Inkluder dokumenter_
 
-  Dokumenter som er koblet til denne saken vil også være koblet til den klonede saken
+    Dokumenter som er koblet til denne saken vil også være koblet til den klonede saken
 
 - _Inkludere relaterte objekter_
 
-  Objekter som er koblet til denne saken vil også være koblet til den klonede saken
+    Objekter som er koblet til denne saken vil også være koblet til den klonede saken
 
 > **Merk:** Kommentarer blir ikke klonet
 

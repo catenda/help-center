@@ -92,11 +92,11 @@ Publiser valgte Dokumenter fra Catenda til SharePoint Hvis du klikker denne knap
 
 Øverst i dialogboksen vil du se hvor mange elementer du publiserer.
 
-**Ny lokasjon** Velg «Ny lokasjon» hvis du ønsker å publisere de valgte filene til en ny lokasjon i SharePoint.
+_Ny lokasjon_ Velg «Ny lokasjon» hvis du ønsker å publisere de valgte filene til en ny lokasjon i SharePoint.
 
-**Vis eksisterende mål** Hvis filene allerede ble publisert før og du ønsker å oppdatere tidligere publiserte filer, bør du velge «Vis eksisterende mål».
+_Vis eksisterende mål_ Hvis filene allerede ble publisert før og du ønsker å oppdatere tidligere publiserte filer, bør du velge «Vis eksisterende mål».
 
-**Publiser** Etter å ha konfigurert lokasjonen du vil publisere til, klikker du publiser.
+_Publiser_ Etter å ha konfigurert lokasjonen du vil publisere til, klikker du publiser.
 
 ## 5. **Catenda-tilgang**
 

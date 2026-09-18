@@ -12,17 +12,17 @@ Når nye funksjoner lanseres og feil utbedres, oppdateres artikler med endringen
 
 ### 1.1 **Nye artikler:**
 
-**Kom i gang og FAQ** [Sorteringsrekkefølge av lister](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) [Strukturering av dokumenter](https://support.catenda.com/en/articles/8542598-structuring-documents)
+_Kom i gang og FAQ_ [Sorteringsrekkefølge av lister](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) [Strukturering av dokumenter](https://support.catenda.com/en/articles/8542598-structuring-documents)
 
-**Hovedside** [Organisasjonsside](https://support.catenda.com/en/articles/8281910-organizations-page)
+_Hovedside_ [Organisasjonsside](https://support.catenda.com/en/articles/8281910-organizations-page)
 
-**Saker** [Sakhistorikk](https://support.catenda.com/en/articles/8613038-issue-history)
+_Saker_ [Sakhistorikk](https://support.catenda.com/en/articles/8613038-issue-history)
 
-**Dokumenter** [Dokumenter](https://support.catenda.com/en/articles/8461918-documents) [PDF-sammenligning](https://support.catenda.com/en/articles/8461650-pdf-compare) [Filtrering på gjennomgangssiden](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+_Dokumenter_ [Dokumenter](https://support.catenda.com/en/articles/8461918-documents) [PDF-sammenligning](https://support.catenda.com/en/articles/8461650-pdf-compare) [Filtrering på gjennomgangssiden](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
 
-**Modeller og 3D** [Bokmerke](https://support.catenda.com/en/articles/8471481-bookmark)
+_Modeller og 3D_ [Bokmerke](https://support.catenda.com/en/articles/8471481-bookmark)
 
-**Prosjektinnstillinger** [Opprett egendefinert felt](https://support.catenda.com/en/articles/8445575-creating-a-custom-field) [Side for egendefinert felt](https://support.catenda.com/en/articles/8445588-custom-field-page)
+_Prosjektinnstillinger_ [Opprett egendefinert felt](https://support.catenda.com/en/articles/8445575-creating-a-custom-field) [Side for egendefinert felt](https://support.catenda.com/en/articles/8445588-custom-field-page)
 
 ### 1.2 **Artikler som har endret seg:**
 
@@ -88,16 +88,12 @@ Takk for dine verdifulle tilbakemeldinger har vi kunnet rette mange saker som du
 
 - Det er nå mulig å angi ACL per modell i stedet for for alle modeller.
 
-  Dette betyr at du kan skjule modeller fra personer i modellseksjonen.
+    Dette betyr at du kan skjule modeller fra personer i modellseksjonen.
 
 - Med modeller som dokumenter kan du legge til merkelapper for modeller.
-
 - Med modeller som dokumenter kan du strukturere modeller i mapper i dokumentseksjonen.
-
 - Med modeller som dokumenter kan du se filstørrelsen på modellen
-
 - Med modeller som dokumenter kan du bruke navnkonvensjonfunksjonen med modeller
-
 - Det er igjen mulig å se tidligere revisjoner av modeller i revisionvelgeren
 
 ### 3.4 **Prosjektinnstillinger**
@@ -116,25 +112,25 @@ Takk for dine verdifulle tilbakemeldinger har vi kunnet rette mange saker som du
 ### 3.5 **Generelt**
 
 - Opprettelse av nye prosjekter fra malprosjekter er forbedret. Det er nå mulig å bringe følgende deler av et prosjekt til et nytt prosjekt:
-  - Mappestruktur
-  - Konfigurering av dokumentstatus
-  - Dokument- og saktaveltilgangskontroll
-  - Egendefinerte felt og navnkonvensjoner
+    - Mappestruktur
+    - Konfigurering av dokumentstatus
+    - Dokument- og saktaveltilgangskontroll
+    - Egendefinerte felt og navnkonvensjoner
 
 ## 4. **Nye utgivelser** - Catenda Site, programtillegg og integrasjoner
 
-**Catenda Hub:**
+_Catenda Hub:_
 
 - Modeller som dokumenter er nå blitt fullstendig utgitt.
 - Saker er blitt omdøpt til Saker.
 
 _Catenda Site:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579790) [Play store](https://play.google.com/store/apps/details?id=no.catenda.bimsyncmobile)
 
-**Ny versjon 3.3.1**
+_Ny versjon 3.3.1_
 
 - Feilrettinger
 
-**Ny versjon 3.3.0**
+_Ny versjon 3.3.0_
 
 - _Dyplenking_ - URL-er fra Hub-nettstedet åpnes direkte i Site-appen.
 - _Sakfiltrering_ - Nytt alternativ for filtrering etter milepæl.
@@ -143,11 +139,11 @@ _Catenda Site:_ [App store](https://apps.apple.com/us/app/catenda-site/id1449579
 - _Sentrer 2D-markør_ - Åpning av en markør fra en sak vil sentrere visningen på markørplasseringen.
 - Vietnamesisk språkstøtte. 🇻🇳
 
-**Ny versjon 3.4.0**
+_Ny versjon 3.4.0_
 
 - Saker er blitt omdøpt til saker
 - Feilrettinger
 
-**SharePoint-integrering:**
+_SharePoint-integrering:_
 
 - Du kan nå koble til Catenda-kontoen din via et nettleservindu i stedet for å vente på en e-post.

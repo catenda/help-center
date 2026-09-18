@@ -51,29 +51,29 @@ Lien de partage - [https://eu.guidde.com/share/playlists/v2QNmY2iHDMVZd96ePzVQ7]
 - [Déplacer le contenu](https://eu.guidde.com/share/playbooks/czZ43xf7ncVH7M18yUZoCC?track_link_name=Guidde%20videos%20article&track_link_id=sPNjuWeRpFvutSEWHksvQH&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - [Télécharger le contenu](https://eu.guidde.com/share/playbooks/naxhWxhmKhkt5cYbY6iMMj?track_link_name=Share%20content&track_link_id=mq27rMy4BTGzinas9Bbjzf&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Sujets
-  - [Affichage de l'historique du sujet](https://eu.guidde.com/share/playbooks/vc9qXCxWe47hbvtGjtn8rJ?track_link_name=Guidde%20videos%20article&track_link_id=wzvf1tHpX9SS44Uq4rCaNo&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Gestion efficace des sujets à l'aide de la vue Kanban](https://eu.guidde.com/share/playbooks/dxTrffF5HbDCdFW4hvMqbm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+    - [Affichage de l'historique du sujet](https://eu.guidde.com/share/playbooks/vc9qXCxWe47hbvtGjtn8rJ?track_link_name=Guidde%20videos%20article&track_link_id=wzvf1tHpX9SS44Uq4rCaNo&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Gestion efficace des sujets à l'aide de la vue Kanban](https://eu.guidde.com/share/playbooks/dxTrffF5HbDCdFW4hvMqbm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
 - Modèles
-  - [Interroger les objets 3D à l'aide du module de requête d'objets](https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Interroger les objets 3D à l'aide du module de requête d'objets](https://eu.guidde.com/share/playbooks/hWLFTscMDjB5vtrdRcyxAY?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Documents
-  - [Annoter un document avec la fonction de balisage](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Intercom%20article&track_link_id=ug37DphZYP6C9um2nWmdHU&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Comparer deux versions d'un fichier PDF](https://eu.guidde.com/share/playbooks/vbHY4udu2xFrUzXrDdGbce?track_link_name=Guidde%20videos%20article&track_link_id=e8rdz5pRh2dZ1NSirRFvcr&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Comment configurer une convention de nommage](https://eu.guidde.com/share/playbooks/gvmH5vCYdrmxz7gHhosVEr?track_link_name=Guidde%20videos%20article&track_link_id=cmU3oSHd7meH6G99TjUYGm&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Visualisation d'un document](https://eu.guidde.com/share/playbooks/g7G5vfKW7K29MhYUzkXdZX?track_link_name=Guidde%20videos%20article&track_link_id=vWReacU3bHqyXZtMVQjpar&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - Approbations
-    - [Modèle de flux de travail d'approbation](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
-    - [Créer une nouvelle demande d'approbation](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
-    - [Approbations : visibilité des documents dans les flux de travail d'approbation ouverts](https://eu.guidde.com/share/playbooks/wWhdRkGbbziaHbnbD9Gj8Y?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-    - [Approbations : accès « en un clic » à la page d'examen du document](https://eu.guidde.com/share/playbooks/6e4dQJDoPfjAY84XU282Xp?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-    - [Approbations : visibilité des relecteurs individuels au sein des équipes Pt. 1](https://eu.guidde.com/share/playbooks/oAoCAVdJVGQzMTBYvNPHtm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-    - [Approbations : visibilité des relecteurs individuels au sein des équipes Pt. 2](https://eu.guidde.com/share/playbooks/7fc2J2cZfisYp4VnUF2szF?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-    - [Appliquer l'examen d'équipe dans les flux de travail d'approbation](https://eu.guidde.com/share/playbooks/mnNWejVsSnJoH56aHpft5z?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
-  - Approbations - Héritage
-    - [Flux de travail de validation (mode brouillon)](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Guidde%20videos%20article&track_link_id=rxFhZqPjPGbL867WAwmBDN&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Annoter un document avec la fonction de balisage](https://eu.guidde.com/share/playbooks/oHGeYhjqug4yKLUywvSTMP?track_link_name=Intercom%20article&track_link_id=ug37DphZYP6C9um2nWmdHU&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Comparer deux versions d'un fichier PDF](https://eu.guidde.com/share/playbooks/vbHY4udu2xFrUzXrDdGbce?track_link_name=Guidde%20videos%20article&track_link_id=e8rdz5pRh2dZ1NSirRFvcr&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Comment configurer une convention de nommage](https://eu.guidde.com/share/playbooks/gvmH5vCYdrmxz7gHhosVEr?track_link_name=Guidde%20videos%20article&track_link_id=cmU3oSHd7meH6G99TjUYGm&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Visualisation d'un document](https://eu.guidde.com/share/playbooks/g7G5vfKW7K29MhYUzkXdZX?track_link_name=Guidde%20videos%20article&track_link_id=vWReacU3bHqyXZtMVQjpar&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - Approbations
+        - [Modèle de flux de travail d'approbation](https://eu.guidde.com/playbooks/fUBwAB5gUE7vhCJsnU1kGi)
+        - [Créer une nouvelle demande d'approbation](https://eu.guidde.com/playbooks/pVvhvQyjEqKxAf7HrqeSVv)
+        - [Approbations : visibilité des documents dans les flux de travail d'approbation ouverts](https://eu.guidde.com/share/playbooks/wWhdRkGbbziaHbnbD9Gj8Y?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+        - [Approbations : accès « en un clic » à la page d'examen du document](https://eu.guidde.com/share/playbooks/6e4dQJDoPfjAY84XU282Xp?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+        - [Approbations : visibilité des relecteurs individuels au sein des équipes Pt. 1](https://eu.guidde.com/share/playbooks/oAoCAVdJVGQzMTBYvNPHtm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+        - [Approbations : visibilité des relecteurs individuels au sein des équipes Pt. 2](https://eu.guidde.com/share/playbooks/7fc2J2cZfisYp4VnUF2szF?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+        - [Appliquer l'examen d'équipe dans les flux de travail d'approbation](https://eu.guidde.com/share/playbooks/mnNWejVsSnJoH56aHpft5z?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)
+    - Approbations - Héritage
+        - [Flux de travail de validation (mode brouillon)](https://eu.guidde.com/share/playbooks/kDbhPXwcvGtRRjhdLjUDV1?track_link_name=Guidde%20videos%20article&track_link_id=rxFhZqPjPGbL867WAwmBDN&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Bibliothèques
-  - [Bibliothèque : importer une classification CSV](https://eu.guidde.com/share/playbooks/4h8YZJnKQ4EG5XPtnpWQX7?track_link_name=Guidde%20videos%20article&track_link_id=sda4i6XCjAbwJ5F55z7gVQ&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Catenda Hub - Bibliothèque de classification, exemple de planification](https://eu.guidde.com/share/playbooks/dUC7r9rFyR6ZHXGWSpwATk?track_link_name=Guidde%20videos%20article&track_link_id=wHkKLN6wnPLChid8tL1WnH&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Bibliothèque : importer une classification CSV](https://eu.guidde.com/share/playbooks/4h8YZJnKQ4EG5XPtnpWQX7?track_link_name=Guidde%20videos%20article&track_link_id=sda4i6XCjAbwJ5F55z7gVQ&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Catenda Hub - Bibliothèque de classification, exemple de planification](https://eu.guidde.com/share/playbooks/dUC7r9rFyR6ZHXGWSpwATk?track_link_name=Guidde%20videos%20article&track_link_id=wHkKLN6wnPLChid8tL1WnH&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 - Plug-ins et intégrations Catenda
-  - [Site Catenda - Prise en main](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Site Catenda - Interactions de la visionneuse 2D](https://eu.guidde.com/share/playbooks/7UhKZmCxU5JtPocarxAVfU?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-  - [Application Catenda Sharepoint (Composant Web)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Site Catenda - Prise en main](https://eu.guidde.com/share/playbooks/mKgpzDzqP5jq6FgysPf3ny?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Site Catenda - Interactions de la visionneuse 2D](https://eu.guidde.com/share/playbooks/7UhKZmCxU5JtPocarxAVfU?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
+    - [Application Catenda Sharepoint (Composant Web)](https://eu.guidde.com/share/playbooks/4yFopCgQCynxpKw9fGYqJ5?track_link_name=Guidde%20videos%20article&track_link_id=qPkRg1v5PVS2jwdonBoreg&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)

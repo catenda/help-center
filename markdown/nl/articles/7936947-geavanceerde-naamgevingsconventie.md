@@ -7,20 +7,18 @@ Dit artikel bouwt voort op de volgende artikelen: [Eenvoudigste naamgevingsconve
 Door deze [conventie](https://support.catenda.com/en/articles/7832559-naming-conventions-page) in te stellen, leert u alles wat u moet weten over [naamgevingsconventies](https://support.catenda.com/en/articles/7832559-naming-conventions-page), zodat u de [blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) kunt kiezen die u wilt voor uw eigen [conventie](https://support.catenda.com/en/articles/7832559-naming-conventions-page). Stel dat u al uw 3D-modellen en constructietekeningen lokaal organiseert.
 
 - U hebt een streepje _( - )_ in de bestandsnaam, dus om de verschillende [blokken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) van elkaar te scheiden, moet u een onderstrepingsteken _( \_ )_ gebruiken als [scheidingsteken](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=in%20document%20settings-,Separator,-%3A%20The%20character).
-
 - Deze bestanden beginnen met de datum waarop het bestand is gemaakt.
 
-  Dit is handig voor u omdat, hoewel dit meestal op verschillende plaatsen staat, het visueel beter voor u is om uw bestanden alfabetisch op creatiedatum gesorteerd te hebben.
+    Dit is handig voor u omdat, hoewel dit meestal op verschillende plaatsen staat, het visueel beter voor u is om uw bestanden alfabetisch op creatiedatum gesorteerd te hebben.
 
 - Daarna volgt de naam van het bestand, die elke lengte kan hebben.
-
 - Aan het einde van de bestandsnaam hebt u een bepaalde status om aan te geven welke versie van het bestand u hebt.
 
-  Dit gedeelte is slechts extra tekst die u gebruikt om uw bestanden lokaal uit elkaar te houden. U wilt dit gedeelte van de bestandsnaam niet zien in de Catenda Hub-documentnaam, omdat het alleen lokaal nuttig voor u is en niets te maken heeft met andere mensen in het project.
+    Dit gedeelte is slechts extra tekst die u gebruikt om uw bestanden lokaal uit elkaar te houden. U wilt dit gedeelte van de bestandsnaam niet zien in de Catenda Hub-documentnaam, omdat het alleen lokaal nuttig voor u is en niets te maken heeft met andere mensen in het project.
 
 - Tot slot hebt u besloten ervoor te zorgen dat u alleen bepaalde bestandstypes in deze map bewaart.
 
-  U beperkt de bestandstypen tot IFC, PDF, DWG, SMC, PL en RVT
+    U beperkt de bestandstypen tot IFC, PDF, DWG, SMC, PL en RVT
 
 ### 1.1 **Eerste instellingen**
 
@@ -40,7 +38,7 @@ Er zijn drie verschillende soorten aangepaste velden die handig zijn in [convent
 
 **[Integer aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) in [conventies](https://support.catenda.com/en/articles/7832559-naming-conventions-page)** In de afbeelding hierboven is de bron van het eerste [blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) ingesteld op tekst. Als u ons eerste bestand 230219\_Elevation\_Draft.PDF uploadt, ziet u dat het zonder problemen wordt geüpload. U kunt echter ook zes letters in plaats van nummers uploaden, zoals: aaaaaa\_\_Elevation\_Draft.PDF, en dat zou ook prima zijn. Om dit alleen tot nummers te beperken, maakt u een nieuw [integer aangepast veld](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) met de naam NC\_Date. Het heet zo alleen om het georganiseerd te houden in de [lijst met aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=the%20list%20of%20custom%20fields). Stel dit [aangepaste veld](https://support.catenda.com/en/articles/6550459-custom-fields-setup) vervolgens in als de [bron](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=has%20an%20extension.-,Source,-%3A%20What%20will) van het eerste [blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) door op de vervolgkeuzelijst te klikken waar momenteel 'tekst' staat en het [aangepaste veld](https://support.catenda.com/en/articles/6550459-custom-fields-setup) dat u hebt gemaakt, te selecteren. U ziet nu dat aaaaaa\_\_Elevation\_Draft.PDF niet meer wordt geaccepteerd, terwijl 230219\_Elevation\_Draft.PDF wordt geaccepteerd.
 
-**[Text aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) in [conventies](https://support.catenda.com/en/articles/7832559-naming-conventions-page)** Voor het tweede [blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) kunt u de bron als tekst laten staan, omdat hier elke tekst wordt geaccepteerd. Het wordt echter nog steeds aanbevolen om een ​​text aangepast veld te gebruiken dat NC\_Filename kan worden genoemd voor toekomstige compatibiliteit.
+**[Text aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) in [conventies](https://support.catenda.com/en/articles/7832559-naming-conventions-page)** Voor het tweede [blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541) kunt u de bron als tekst laten staan, omdat hier elke tekst wordt geaccepteerd. Het wordt echter nog steeds aanbevolen om een text aangepast veld te gebruiken dat NC\_Filename kan worden genoemd voor toekomstige compatibiliteit.
 
 De status kan ook elk woord van elke lengte zijn, dus maak een [text aangepast veld](https://support.catenda.com/en/articles/6550459-custom-fields-setup#:~:text=3.%20Click%20on%20%22New%20Custom%20Field%22) met de naam NC\_Status en stel het in als de [bron](https://support.catenda.com/en/articles/7832559-naming-conventions-page#:~:text=has%20an%20extension.-,Source,-%3A%20What%20will) voor het derde [blok](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_efc0be7541).
 

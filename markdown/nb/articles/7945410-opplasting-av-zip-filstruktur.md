@@ -36,9 +36,9 @@ Ulike handlinger kan konfigureres for hvordan utpakningen av zip-filen oppfører
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/05-documents.png)
 
-**Opprett ny revisjon - Standard** Hvis et dokument med samme navn finnes på samme plassering som zip-en forsøker å pakke ut en fil til, opprettes en ny revisjon i det dokumentet.
+_Opprett ny revisjon - Standard_ Hvis et dokument med samme navn finnes på samme plassering som zip-en forsøker å pakke ut en fil til, opprettes en ny revisjon i det dokumentet.
 
-**Hopp over og fortsett** Hvis et dokument med samme navn finnes på samme plassering som zip-en forsøker å pakke ut en fil til, hoppes filen over og ingen ny revisjon opprettes i dokumentet.
+_Hopp over og fortsett_ Hvis et dokument med samme navn finnes på samme plassering som zip-en forsøker å pakke ut en fil til, hoppes filen over og ingen ny revisjon opprettes i dokumentet.
 
 ### 2.3 **Bruk status**
 
@@ -56,7 +56,7 @@ Etter å ha klikket på last opp zip, begynner zip-en å laste opp
 
 Du kan fortsette å arbeide med Catenda i en annen fane mens du venter på at opplastingen skal bli ferdig.
 
-**Påkrevd tilgang:** Skrivetilgang til hver av stedene der mapper og dokumenter skal opprettes Skrivetilgang til dokumentrevisjoner som skal legges til.
+_Påkrevd tilgang:_ Skrivetilgang til hver av stedene der mapper og dokumenter skal opprettes Skrivetilgang til dokumentrevisjoner som skal legges til.
 
 ## 4. **Pakker ut**
 
@@ -92,7 +92,7 @@ Mens zip-en pakkes ut, begynner de pakkede filene å vises som rader i Dokumente
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/10-extracting.png)
 
-**Fullført** Når zip-importen er fullført, pakkes alle filer ut.
+_Fullført_ Når zip-importen er fullført, pakkes alle filer ut.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q3fxr4yj/11-extracting.png)
 

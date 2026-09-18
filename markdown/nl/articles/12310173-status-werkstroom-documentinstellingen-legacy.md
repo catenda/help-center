@@ -9,10 +9,10 @@ Dit is hoe het menu Status werkstroom er kan uitzien nadat de Status werkstroom 
 Wanneer de Status werkstroom is geactiveerd, zullen de volgende dingen in het project veranderen:
 
 - De fasen Concept en Gepubliceerd zijn beschikbaar.
-  - Gepubliceerd - De Status Gepubliceerd staat standaard in de lijst.
-  - Concept - De statussen Werk in uitvoering en Gedeeld staan standaard in de lijst
+    - Gepubliceerd - De Status Gepubliceerd staat standaard in de lijst.
+    - Concept - De statussen Werk in uitvoering en Gedeeld staan standaard in de lijst
 - Nieuwe informatie ingediend in de conceptfase standaard.
-  - Kan met selectievakje in gepubliceerde fase worden geüpload.
+    - Kan met selectievakje in gepubliceerde fase worden geüpload.
 - De standaardstatus is ingesteld op Geen status.
 - Een goedkeuringenmenu verschijnt in documentinstellingen.
 - Een [goedkeuringen](https://support.catenda.com/en/articles/5784717-document-approval)-subpagina op de documentenpagina verschijnt.

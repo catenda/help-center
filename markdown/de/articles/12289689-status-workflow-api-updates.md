@@ -64,8 +64,8 @@ Zuvor wurden alle Revisionen implizit als "offiziell" betrachtet. Nun:
 **Erforderliche Maßnahmen für Plugin-Entwickler:**
 
 1. Bewerten Sie, ob Sie Revisionsinformationen anzeigen
-2. Erwägen Sie, Benutzerleitfäden zu Revisionstypen hinzuzufügen
-3. Planen Sie mögliche Benutzerverwirung über Numerierungsabweichungen
+1. Erwägen Sie, Benutzerleitfäden zu Revisionstypen hinzuzufügen
+1. Planen Sie mögliche Benutzerverwirung über Numerierungsabweichungen
 
 ### 3.3 Auch betroffen
 

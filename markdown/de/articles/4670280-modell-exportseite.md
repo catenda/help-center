@@ -19,11 +19,11 @@ Das neue Elementaktionsmenü finden Sie oben rechts und kann etwa so aussehen:
 Klicken Sie auf "Neuer Export", um einen neuen Export mit den folgenden Schritten zu erstellen.
 
 1. Formatoptionen
-2. Modell(e) und Revision(en) auswählen
-3. Zusammenführungsoptionen
-4. Fügen Sie den Namen und Kommentar des Projekts hinzu
-5. Freigabeoptionen
-6. Klicken Sie auf die Exportschaltfläche
+1. Modell(e) und Revision(en) auswählen
+1. Zusammenführungsoptionen
+1. Fügen Sie den Namen und Kommentar des Projekts hinzu
+1. Freigabeoptionen
+1. Klicken Sie auf die Exportschaltfläche
 
 Klicken Sie hier, um mehr darüber zu erfahren, wie Sie einen neuen Export erstellen.
 

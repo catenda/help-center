@@ -4,11 +4,11 @@ Hvis du har et sett med filtre du bruker mye, er det mulig å lagre dem øverst 
 
 ## 1. **Filterutseende**
 
-**Innrykk** Når filtre er gruppert sammen, vises de ofte under en hovedveksler med alternativer som er innrykket til høyre. Hovedveksleren slår av og på alle filtre av denne typen. For å slå av alle filtre av denne typen, legger du først til eventuelle gjenværende alternativer i filteret slik at alle brukes, og deretter veksler du av hovedfilteret for å slå av alle.
+_Innrykk_ Når filtre er gruppert sammen, vises de ofte under en hovedveksler med alternativer som er innrykket til høyre. Hovedveksleren slår av og på alle filtre av denne typen. For å slå av alle filtre av denne typen, legger du først til eventuelle gjenværende alternativer i filteret slik at alle brukes, og deretter veksler du av hovedfilteret for å slå av alle.
 
-**Vekslere** Merk av for filtervekslerne for å begrense søket. En firkantet veksler betyr at flere filtre av denne typen kan brukes. En rundveksler betyr at bare ett filter av denne typen kan brukes.
+_Vekslere_ Merk av for filtervekslerne for å begrense søket. En firkantet veksler betyr at flere filtre av denne typen kan brukes. En rundveksler betyr at bare ett filter av denne typen kan brukes.
 
-**Ekskluderer andre filtre** Når du holder musen over noen av filtrene i venstre panel, kan "bare" klikkes på høyre side av filteret for å fjerne andre, tidligere brukte filtre.
+_Ekskluderer andre filtre_ Når du holder musen over noen av filtrene i venstre panel, kan "bare" klikkes på høyre side av filteret for å fjerne andre, tidligere brukte filtre.
 
 ## 2. **Skjul tomme filtre**
 
@@ -53,31 +53,31 @@ Dine preferanser for å utvide og trekke sammen filtermenyer på ulike sider vil
 Du vil kunne lagre filtre på følgende sider:
 
 - Startside
-  - [Varselsside for konto](https://support.catenda.com/en/articles/7439223-account-notifications-page)
-  - Organisasjonsverktøy
-    - [Brukerside](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-    - [Prosjektside](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-    - [Prosjektmedlemskapside](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Varselsside for konto](https://support.catenda.com/en/articles/7439223-account-notifications-page)
+    - Organisasjonsverktøy
+        - [Brukerside](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
+        - [Prosjektside](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
+        - [Prosjektmedlemskapside](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 - Prosjekt
-  - [Sakstabell](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
-  - Modeller
-    - [Modellside](https://support.catenda.com/en/articles/4670286-models-page)
-    - [Bokmerkerside](https://support.catenda.com/en/articles/4670281-bookmarks-page)
-    - [Objekterside](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-  - Dokumenter
-    - [Dokumenterside](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-    - [Samlingerside](https://support.catenda.com/en/articles/6344318-collections-page)
-    - [Godkjenningsside](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
-  - Rapporter
-    - Rapportside
-  - Bibliotek
-    - [Lenkebibliotek](https://support.catenda.com/en/articles/4670254-links-library)
-    - [Sharepoint-bibliotek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-    - [Dropbox-bibliotek](https://support.catenda.com/en/articles/8065645-libraries-page)
-    - [Egenskapsverdibibliotek](https://support.catenda.com/en/articles/4670252-property-value-library)
-    - [Klassifikasjonsbibliotek](https://support.catenda.com/en/articles/4670255-classification-library)
-  - [Prosjektvarselsside](https://support.catenda.com/en/articles/4670295-project-notifications-page)
-  - Prosjektinnstillinger
-    - [Tilpasset feltside](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-    - [Etikettside](https://support.catenda.com/en/articles/4670265-labels-page)
-    - [Medlemmerside](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
+    - [Sakstabell](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
+    - Modeller
+        - [Modellside](https://support.catenda.com/en/articles/4670286-models-page)
+        - [Bokmerkerside](https://support.catenda.com/en/articles/4670281-bookmarks-page)
+        - [Objekterside](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - Dokumenter
+        - [Dokumenterside](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+        - [Samlingerside](https://support.catenda.com/en/articles/6344318-collections-page)
+        - [Godkjenningsside](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+    - Rapporter
+        - Rapportside
+    - Bibliotek
+        - [Lenkebibliotek](https://support.catenda.com/en/articles/4670254-links-library)
+        - [Sharepoint-bibliotek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+        - [Dropbox-bibliotek](https://support.catenda.com/en/articles/8065645-libraries-page)
+        - [Egenskapsverdibibliotek](https://support.catenda.com/en/articles/4670252-property-value-library)
+        - [Klassifikasjonsbibliotek](https://support.catenda.com/en/articles/4670255-classification-library)
+    - [Prosjektvarselsside](https://support.catenda.com/en/articles/4670295-project-notifications-page)
+    - Prosjektinnstillinger
+        - [Tilpasset feltside](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+        - [Etikettside](https://support.catenda.com/en/articles/4670265-labels-page)
+        - [Medlemmerside](https://support.catenda.com/en/articles/4670291-members-and-teams-page)

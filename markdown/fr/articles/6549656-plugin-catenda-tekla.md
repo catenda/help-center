@@ -47,13 +47,13 @@ Sur cette page, vous trouverez le menu principal pour naviguer dans votre projet
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/04-interface.png)
 
 1. Sélectionnez votre projet Catenda
-2. Sélectionnez un tableau de problèmes dans ce projet
-3. Créer un nouveau problème dans le tableau de problèmes actuellement sélectionné
-4. Trier les problèmes actuellement affichés
-5. Ouvrir le menu du module complémentaire Catenda Hub
-6. Rechercher et filtrer les problèmes affichés
-7. La liste des problèmes actuellement filtrés dans le tableau de problèmes
-8. Actualiser les problèmes
+1. Sélectionnez un tableau de problèmes dans ce projet
+1. Créer un nouveau problème dans le tableau de problèmes actuellement sélectionné
+1. Trier les problèmes actuellement affichés
+1. Ouvrir le menu du module complémentaire Catenda Hub
+1. Rechercher et filtrer les problèmes affichés
+1. La liste des problèmes actuellement filtrés dans le tableau de problèmes
+1. Actualiser les problèmes
 
 ### 4.2 **Sélection du projet et du tableau de problèmes**
 
@@ -64,6 +64,6 @@ La sélection d'un projet Catenda affichera la liste du tableau de problèmes da
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/05-catenda-hub-add-in-menu.png)
 
 1. Liste des modèles et révisions
-2. Paramètres d'exportation pour le chargement IFC sur Catenda Hub
-3. Version du plugin Catenda Hub
-4. Déconnexion de votre compte Catenda Hub
+1. Paramètres d'exportation pour le chargement IFC sur Catenda Hub
+1. Version du plugin Catenda Hub
+1. Déconnexion de votre compte Catenda Hub
