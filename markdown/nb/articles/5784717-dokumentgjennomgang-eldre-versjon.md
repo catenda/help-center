@@ -16,10 +16,10 @@ Bildet nedenfor beskriver trinnene som er nødvendige for å få prosessen på p
 ## 1. Gjennomgangsinnstillinger
 
 1. Et viktig trinn er å justere [gjennomgangsinnstillingene](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) på [prosjektinnstillingssiden](https://support.catenda.com/en/articles/4670273-project-settings-page).
-1. En gjennomgangsforespørsel angir en utgiver (person som er ansvarlig for den endelige avgjørelsen om publisering) og en eller flere vurderere som er ansvarlige for å validere (eller ikke) settet med utkast
-1. Hver vurdererer bestemmer om utkastet er Godkjent, Godkjent med kommentar eller Avvist
-1. På slutten av vurderingen velger utgiveren resultatet av gjennomgangen ved å velge dokumentene som skal publiseres.
-1. Fra gjennomgangsinnstillingene kan saker knyttet til dokumentene opprettes for å holde orden på prosessen senere
+2. En gjennomgangsforespørsel angir en utgiver (person som er ansvarlig for den endelige avgjørelsen om publisering) og en eller flere vurderere som er ansvarlige for å validere (eller ikke) settet med utkast
+3. Hver vurdererer bestemmer om utkastet er Godkjent, Godkjent med kommentar eller Avvist
+4. På slutten av vurderingen velger utgiveren resultatet av gjennomgangen ved å velge dokumentene som skal publiseres.
+5. Fra gjennomgangsinnstillingene kan saker knyttet til dokumentene opprettes for å holde orden på prosessen senere
 
 En detaljert demonstrasjon av disse trinnene er vist i følgende opplæring:
 

@@ -9,16 +9,23 @@ _Nieuwe artikelen:_ Catenda Hub [Bimsync is nu Catenda Hub](https://support.cate
 **Catenda Hub**
 
 - [Modellen](https://support.catenda.com/en/articles/4670286-models-page) met Japanse tekens worden nu met de juiste naam gedownload
+
 - [Quantity take-off](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto) heeft nu afwisselende zwarte en witte achtergrondkolommen voor beter leesbare informatie
+
 - [Importeren](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) check-in - Importen met kleine fouten, zoals een komma hier, een haakje daar, worden nu geaccepteerd, zelfs als het bestand met een kleine fout is geschreven of geëxporteerd.
+
 - Het [Treepaneel](https://support.catenda.com/en/articles/4670290-the-tree-structures-in-the-ifc-models) toont nu altijd het juiste model van een object als dat object is geselecteerd. Eerder waren er enkele gevallen waarin het treemenu niet altijd naar het juiste model werkte
+
 - Het is nu mogelijk om een selectie op te slaan met het selectiemenu in het inspectpaneel.
 
-    Een selectie van objecten kan ook gekleurd worden. Deze selectie kan worden opgeslagen in een snapshot of opgeslagen view.
+  Een selectie van objecten kan ook gekleurd worden. Deze selectie kan worden opgeslagen in een snapshot of opgeslagen view.
 
 - Onze servers kunnen nu de [import](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) van bestanden met veel geometrie verwerken die eerder time-out zouden hebben veroorzaakt.
+
 - De [3D-knop](https://support.catenda.com/en/articles/4670286-models-page#h_82b7400edc) blijft nu actief wanneer meerdere modellen zijn geladen
+
 - Objecten kunnen nu opnieuw worden verwijderd en getransparant gemaakt.
+
 - Gebruikers met toegang tot mappen op het hoogste niveau in de documentensectie kunnen hun mappen nu zien, zelfs als geen toegang is gegeven aan alle gebruikers in [documentinstellingen](https://support.catenda.com/en/articles/7831371-document-settings).
 
 ## 3. Plugins en integraties

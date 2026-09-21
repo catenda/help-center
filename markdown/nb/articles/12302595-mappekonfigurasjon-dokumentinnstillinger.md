@@ -14,9 +14,9 @@ Mapper kan konfigureres i mappetabellen som kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yhj3v31h/02-configured-folders-filter.png)
 
-_Alle mapper_ Se alle mapper i prosjektet.
+**Alle mapper** Se alle mapper i prosjektet.
 
-_Konfigurerte mapper_ Se hvilke mapper som er konfigurert i prosjektet
+**Konfigurerte mapper** Se hvilke mapper som er konfigurert i prosjektet
 
 ### 1.2 **Mappekolonne**
 
@@ -26,15 +26,15 @@ Her ser du alle mapper i prosjektet. Hvis du klikker på pilen eller et annet st
 
 Dette kan hjelpe mye når du skal se resultatene av den konfigurerte mappen etter at du har konfigurert den.
 
-_Legg til konfigurasjon_ Klikk på +-knappen til høyre for en mappe for å åpne [mappekonfigureringsdialogen](#h_96b6c91fe4). Hvis det er konfigurasjoner i undermapper, kan du ikke lage en konfigurasjon for mappen.
+**Legg til konfigurasjon** Klikk på +-knappen til høyre for en mappe for å åpne [mappekonfigureringsdialogen](#h_96b6c91fe4). Hvis det er konfigurasjoner i undermapper, kan du ikke lage en konfigurasjon for mappen.
 
-_Forhåndsvis konfigurasjon_ Hvis en konfigurasjon er angitt for en mappe, kan du raskt se hvilken konfigurasjon som er angitt ved å klikke på øyeikonet. Forhåndsvisningen av konfigurasjonen kan se slik ut:
+**Forhåndsvis konfigurasjon** Hvis en konfigurasjon er angitt for en mappe, kan du raskt se hvilken konfigurasjon som er angitt ved å klikke på øyeikonet. Forhåndsvisningen av konfigurasjonen kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yhj3v31h/04-folders-column.png)
 
-_Rediger konfigurasjon_ Hvis en konfigurasjon er angitt for en mappe, kan du redigere den ved å klikke på blyant-ikonet.
+**Rediger konfigurasjon** Hvis en konfigurasjon er angitt for en mappe, kan du redigere den ved å klikke på blyant-ikonet.
 
-_Konfigurasjonsarv_ Hvis en konfigurasjon er angitt i en overordnet mappe, arver alle undermappene konfigurasjonen.
+**Konfigurasjonsarv** Hvis en konfigurasjon er angitt i en overordnet mappe, arver alle undermappene konfigurasjonen.
 
 ### 1.3 **Navnekonvensjonskolonne**
 
@@ -66,26 +66,26 @@ Hvis du vil fjerne en navnekonvensjon, trykker du på X.
 
 Med egendefinerte felt kan du tilordne egendefinerte felt til alle dokumenter i denne konfigurasjonen. Egendefinerte felt kan enten angis for hele dokumentet eller for hver revisjon. _Tilgang som kreves for å endre feltet:_ Skriv
 
-_Egendefinerte dokument-felt_
+**Egendefinerte dokument-felt**
 
 - Verdier vil bli lagret på dokumentet
 - Eksempel på egendefinerte felt: "Dokumentbeskrivelse", "Dokumentnotat" osv...
 
-_Egendefinerte revisjons-felt_
+**Egendefinerte revisjons-felt**
 
 - Verdier vil bli lagret på hver revisjon av dokumentet
 - Bare verdier lagret på den nyeste revisjonen vil bli vist sammen med dokumentet.
 - Eksempler på egendefinerte felt: "Revisjonskommentar", "Godkjenningsstatus" osv...
 
-_Navn_ Navnet på det egendefinerte feltet
+**Navn** Navnet på det egendefinerte feltet
 
-_Type_ Typen egendefinert felt. Følgende typer egendefinerte felt kan gjøres tilgjengelige for mapper: Dato Desimal Rullegardin Heltall Tekst
+**Type** Typen egendefinert felt. Følgende typer egendefinerte felt kan gjøres tilgjengelige for mapper: Dato Desimal Rullegardin Heltall Tekst
 
-_Er obligatorisk_ Hvis et felt er obligatorisk, må det alltid ha en verdi.
+**Er obligatorisk** Hvis et felt er obligatorisk, må det alltid ha en verdi.
 
 > **Merk:** En standardverdi må angis fordi dokumentet må ha en verdi ved opplasting.
 
-_Standardverdi_ Hvis en standardverdi er angitt, blir denne verdien satt for feltet for alle dokumenter lastet opp etter at konfigurasjonen er bekreftet, med mindre den endres senere.
+**Standardverdi** Hvis en standardverdi er angitt, blir denne verdien satt for feltet for alle dokumenter lastet opp etter at konfigurasjonen er bekreftet, med mindre den endres senere.
 
 ## 3. **Tilordne QR-kode**
 

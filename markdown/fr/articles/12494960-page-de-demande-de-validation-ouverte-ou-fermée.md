@@ -28,7 +28,7 @@ Voici à quoi peut ressembler l'en-tête de validation dans une validation ouver
 
 Une fois que le créateur de l'approbation a soumis l'approbation dans la boîte de dialogue de création de demande d'approbation ou à partir d'une demande d'approbation brouillon, le titre et la description peuvent toujours être modifiés. Le flux de travail ne peut plus être modifié.
 
-> **Remarque :** Être membre d'une équipe de soumetteurs permet de créer une demande d'approbation, mais cela ne confère pas le droit de modifier une demande d'approbation créée par un autre membre de cette équipe.
+> **Remarque :** Être membre d'une équipe de soumission est ce qui permet de créer une demande d'approbation, mais cela ne confère pas le droit de modifier le titre ou la description d'une demande d'approbation créée par un autre membre de cette équipe. L'abandon des révisions de documents est un droit distinct, et les membres de l'équipe de soumission le possèdent pour l'ensemble du flux de travail.
 
 ### 2.1 **Titre**
 

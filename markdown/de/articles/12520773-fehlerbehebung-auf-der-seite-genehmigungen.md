@@ -26,7 +26,7 @@ Wenn ein Dokument, das Teil einer Genehmigung ist, gelöscht wird, kann es nicht
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/atct6we8/03-document-not-found.png)
 
-Dokumente, die zu einer Genehmigungsanfrage hinzugefügt und später gelöscht wurden, können entweder von einem Administrator wiederhergestellt oder aus der Genehmigungsanfrage verworfen werden.
+Dokumente, die einer Genehmigungsanfrage hinzugefügt und später gelöscht wurden, können entweder von einem Administrator wiederhergestellt oder aus der Genehmigungsanfrage verworfen werden. Mitglieder des Submitter-Teams und Mitglieder des Final-Reviewer-Teams können Document Revisions während des gesamten Workflows verwerfen. Mitglieder eines Teams, das einem Review-Schritt zugewiesen ist, können dies nur tun, während dieser Schritt aktiv ist.
 
 ### 3.2 **Zurückgezogene Revision**
 
@@ -34,4 +34,4 @@ Wenn eine Dokumentrevision, die Teil einer Genehmigung ist, zurückgezogen wird,
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/atct6we8/04-withdrawn-revision.png)
 
-Dokumentrevisionen, die zu einer Genehmigungsanfrage hinzugefügt und später zurückgezogen wurden, können aus der Genehmigungsanfrage verworfen werden.
+Document Revisions, die einer Genehmigungsanfrage hinzugefügt und später zurückgezogen wurden, können aus der Genehmigungsanfrage verworfen werden. Dies kann von Mitgliedern des Submitter-Teams oder des Final-Reviewer-Teams jederzeit im Workflow und von Mitgliedern eines Reviewer-Teams durchgeführt werden, während ihr eigener Schritt aktiv ist.

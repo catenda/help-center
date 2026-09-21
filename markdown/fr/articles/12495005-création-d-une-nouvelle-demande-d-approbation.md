@@ -96,10 +96,10 @@ Cliquez sur Soumettre pour examen pour soumettre l'Approbation et démarrer le p
 - Une Équipe de soumissionnaire pour soumettre au nom de doit être sélectionnée
 - Un titre
 - Documents
-    - Un minimum de 1 Document avec une révision partagée sélectionnée doit être ajouté pour pouvoir soumettre l'Approbation.
-    - Un maximum de 1000 révisions de Documents avec une révision partagée sélectionnée peut être ajouté.
-    - Pour créer une demande d'Approbation avec plus de 1000 révisions de Documents, créez d'abord un brouillon avec jusqu'à 1000 révisions, puis ajoutez jusqu'à 1000 révisions de Documents à la fois au brouillon avant de soumettre le brouillon pour examen.
+  - Un minimum de 1 Document avec une révision partagée sélectionnée doit être ajouté pour pouvoir soumettre l'Approbation.
+  - Un maximum de 1000 révisions de Documents avec une révision partagée sélectionnée peut être ajouté.
+  - Pour créer une demande d'Approbation avec plus de 1000 révisions de Documents, créez d'abord un brouillon avec jusqu'à 1000 révisions, puis ajoutez jusqu'à 1000 révisions de Documents à la fois au brouillon avant de soumettre le brouillon pour examen.
 
-Après avoir soumis une demande d'Approbation pour examen avec le nouveau flux de validation, la seule chose qui peut être modifiée est que les Documents de révision partagée peuvent être supprimés de la demande.
+Après avoir soumis une demande d'approbation pour examen avec le nouveau flux de travail de validation, la seule chose qui peut être modifiée est que les documents de révision partagée peuvent être supprimés de la demande. Les membres de l'équipe de soumission et les membres de l'équipe d'approbation finale peuvent rejeter les révisions de documents tout au long du flux de travail. Les membres d'une équipe assignée à une étape d'examen peuvent le faire uniquement pendant que cette étape est active.
 
 _Démarrer la durée d'examen de l'étape 1 quand vous êtes prêt_ Dès que la demande d'Approbation est soumise, la durée de la première étape d'examen configurée dans le flux d'Approbation commencera.

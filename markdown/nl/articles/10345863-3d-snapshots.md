@@ -92,11 +92,16 @@ In Catenda Hub verplaatst de snapshot de camera naar de juiste plaats in onze vi
 
 ### 3.1 **Snapshot opnieuw maken met meest recente revisies**
 
-Opgeslagen view - Topic commentaar <p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-63d2b110333a.png" width="60"/> - <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a628f96ebc54.png" width="104.55445544554455"/></p> Recreëer de Snapshot met de nieuwste versies van de modellen en documenten die in de Snapshot zijn geconfigureerd. Als nieuwe versies van de modellen of bestanden die deel uitmaken van de Opgeslagen view worden geüpload, kan de resulterende weergave in de 3D-viewer iets anders uitzien dan op de afbeelding. Als de Opgeslagen view gedeelde versies heeft, wordt de laatst gepubliceerde versie weergegeven.
+Opgeslagen view - Topic commentaar <p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-63d2b110333a.png" width="60"/> - <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a628f96ebc54.png" width="104.55445544554455"/></p>
+Recreëer de Snapshot met de nieuwste versies van de modellen en documenten die in de Snapshot zijn geconfigureerd.
+Als nieuwe versies van de modellen of bestanden die deel uitmaken van de Opgeslagen view worden geüpload, kan de resulterende weergave in de 3D-viewer iets anders uitzien dan op de afbeelding.
+Als de Opgeslagen view gedeelde versies heeft, wordt de laatst gepubliceerde versie weergegeven.
 
 ### 3.2 **Snapshot opnieuw maken met originele revisies**
 
-Opgeslagen view - Topic commentaar <p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-127de38bdf57.png" width="60"/> - <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-244412c15b6d.png" width="104.72727272727272"/></p> De Snapshot wordt recreëerd met de model- en documentversies die waren geconfigureerd toen de Snapshot werd gemaakt. Zowel gepubliceerde als gedeelde versies van modellen en documenten worden met deze optie weergegeven.
+Opgeslagen view - Topic commentaar <p class="intercom-align-center no-margin"><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-127de38bdf57.png" width="60"/> - <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-244412c15b6d.png" width="104.72727272727272"/></p>
+De Snapshot wordt recreëerd met de model- en documentversies die waren geconfigureerd toen de Snapshot werd gemaakt.
+Zowel gepubliceerde als gedeelde versies van modellen en documenten worden met deze optie weergegeven.
 
 ## 4. **Snapshots kopiëren en favoriet markeren**
 

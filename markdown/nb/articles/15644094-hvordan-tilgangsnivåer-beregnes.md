@@ -20,11 +20,11 @@ Selv om disse alternativene vises i en lineær sekvens i brukergrensesnittet, ha
 
 ### 2.1 **2.1 Prosjektadministratorer**
 
-_Absolutt myndighet_ Prosjektadministratorer mottar automatisk **Full tilgang** til hver del av et prosjekt. Denne systemregelen omgår og overstyrer alle matriser, teamtildelinger, eierstatus og individuelle restriksjoner.
+**Absolutt myndighet** Prosjektadministratorer mottar automatisk **Full tilgang** til hver del av et prosjekt. Denne systemregelen omgår og overstyrer alle matriser, teamtildelinger, eierstatus og individuelle restriksjoner.
 
 ### 2.2 **2.2 Individuelle brukerinnstillinger (Den absolutte overstyringregelen)**
 
-_Overstyrer alt_ Når en spesifikk individuell bruker tildeles et tillatelseslag direkte, blir denne innstillingen den absolutte endelige myndighet.
+**Overstyrer alt** Når en spesifikk individuell bruker tildeles et tillatelseslag direkte, blir denne innstillingen den absolutte endelige myndighet.
 
 Det kansellerer helt og erstattet alle tillatelser som brukeren ellers ville arvet fra **Alle brukere**-grunnlinjen, deres **Teammedlemskap**, eller deres status som **Gjenstandseier**. Hvis en navngitt individuell innstilling er konfigurert, brukes det nivået nøyaktig som valgt, selv om det nedgraderer tilgangen til **Ingen tilgang**.
 
@@ -32,11 +32,11 @@ Det kansellerer helt og erstattet alle tillatelser som brukeren ellers ville arv
 
 Når en bruker **ikke** har en eksplisitt individuell tildeling konfigurert, evaluerer Catenda Hub alle gjenværende stier de tilhører og gir det maksimale nivået som finnes.
 
-_Alle brukere grunnlaget_ Angir det grunnleggende prosjekttilgangsnivået for hvert medlem. En bruker kan ikke begrenses under dette grunnlinjenivået med mindre en individuell overskrivelse brukes.
+**Alle brukere grunnlaget** Angir det grunnleggende prosjekttilgangsnivået for hvert medlem. En bruker kan ikke begrenses under dette grunnlinjenivået med mindre en individuell overskrivelse brukes.
 
-_Teams innstillinger_ Hvis en bruker tilhører et team (eller flere Teams) med høyere tilgang enn grunnlinjen, øker deres tilgang for å matche det høyeste teamets nivå.
+**Teams innstillinger** Hvis en bruker tilhører et team (eller flere Teams) med høyere tilgang enn grunnlinjen, øker deres tilgang for å matche det høyeste teamets nivå.
 
-_Eier tilgang_ Skaperen eller opplasteren av en gjenstand blir automatisk standardisert til **Full tilgang** for å sikre dataprivacy. Administratorer kan imidlertid konfigurere en eiersetting (f.eks. begrense den til **Skriv** tilgang for å forhindre filsletting). Hvis en eiers Teams innstilling eller det globale grunnlaget gir et høyere nivå enn deres eiersetting, vinner det høyeste nivået.
+**Eier tilgang** Skaperen eller opplasteren av en gjenstand blir automatisk standardisert til **Full tilgang** for å sikre dataprivacy. Administratorer kan imidlertid konfigurere en eiersetting (f.eks. begrense den til **Skriv** tilgang for å forhindre filsletting). Hvis en eiers Teams innstilling eller det globale grunnlaget gir et høyere nivå enn deres eiersetting, vinner det høyeste nivået.
 
 ## 3. **3. Hurtigreferanse matriser**
 

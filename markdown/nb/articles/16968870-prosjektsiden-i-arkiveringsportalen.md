@@ -50,10 +50,10 @@ Klikk **Administrer arkiv** på et prosjekt for å åpne det. Hva prosjektsiden 
 
 Tre kontroller sitter øverst til høyre, og denne siden er det første stedet du møter dem. De forblir tilgjengelige når du åpner et prosjekt.
 
-_Språk_ Portalen er tilgjengelig på engelsk og norsk bokmål, og språkvelgeren bytter mellom dem.
+**Språk** Portalen er tilgjengelig på engelsk og norsk bokmål, og språkvelgeren bytter mellom dem.
 
-_Statistikk_ **Vis statistikk** åpner et sammendrag av hva som har blitt arkivert på tvers av alle prosjekter. Ikonet vises bare for organisasjonseiere, og det tar plassen til tannhjulikonet som en prosjektside viser. Den siden er beskrevet i [Statistikkside i arkiveringsportalen](https://support.catenda.com/en/articles/16968884-statistics-page-in-the-archiving-portal), og tallene per prosjekt i [Prosjektinnstillingsside i arkiveringsportalen](https://support.catenda.com/en/articles/16968883-project-settings-page-in-the-archiving-portal). Begge disse artiklene er bare tilgjengelige for brukere med tilgang til arkiveringsportalen.
+**Statistikk** **Vis statistikk** åpner et sammendrag av hva som har blitt arkivert på tvers av alle prosjekter. Ikonet vises bare for organisasjonseiere, og det tar plassen til tannhjulikonet som en prosjektside viser. Den siden er beskrevet i [Statistikkside i arkiveringsportalen](https://support.catenda.com/en/articles/16968884-statistics-page-in-the-archiving-portal), og tallene per prosjekt i [Prosjektinnstillingsside i arkiveringsportalen](https://support.catenda.com/en/articles/16968883-project-settings-page-in-the-archiving-portal). Begge disse artiklene er bare tilgjengelige for brukere med tilgang til arkiveringsportalen.
 
-_Logg ut_ Logger deg ut av portalen.
+**Logg ut** Logger deg ut av portalen.
 
 > **Merknad:** Språkvelgeren endrer portalens eget grensesnitt. Den endrer ikke navnene på merkelappene du angir i Catenda Hub, som forblir skrevet slik du skrev dem der. Selv det engelske grensesnittet refererer til arkivmerkelappen med sitt norske navn, `Arkivverdig`.

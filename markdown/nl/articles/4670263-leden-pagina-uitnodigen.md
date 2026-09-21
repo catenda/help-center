@@ -33,12 +33,12 @@ Volg de onderstaande stappen om een nieuw lid uit te nodigen.
 Als de groep dezelfde rol zal hebben en onderdeel zal zijn van hetzelfde team, kunt u meer dan één e-mailadres invullen.
 
 1. Voer het e-mailadres in en druk op Enter, doe hetzelfde voor elk nieuw e-mailadres
-    1. U kunt ook een kommagescheiden lijst met e-mailadressen invullen en op Enter drukken om meerdere adressen tegelijk toe te voegen.
-1. Kies de rol/toegang voor de nieuwe leden
-1. Kies de teams waarvan de leden onderdeel zouden moeten zijn.
-1. Klik op de knop Toevoegen
-1. Als er een lid of leden zijn met een ander role of team, is er een nieuwe regel om dat lid of die leden toe te voegen na op de knop <b>(</b>Toevoegen<b>)</b> te klikken.
-1. Klik op de knop uitnodigingen verzenden
+   1. U kunt ook een kommagescheiden lijst met e-mailadressen invullen en op Enter drukken om meerdere adressen tegelijk toe te voegen.
+2. Kies de rol/toegang voor de nieuwe leden
+3. Kies de teams waarvan de leden onderdeel zouden moeten zijn.
+4. Klik op de knop Toevoegen
+5. Als er een lid of leden zijn met een ander role of team, is er een nieuwe regel om dat lid of die leden toe te voegen na op de knop <b>(</b>Toevoegen<b>)</b> te klikken.
+6. Klik op de knop uitnodigingen verzenden
 
 ## 3. **Pagina leden uitnodigen**
 

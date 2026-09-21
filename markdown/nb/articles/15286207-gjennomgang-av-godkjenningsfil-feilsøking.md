@@ -6,7 +6,7 @@ Dokumentrevisjoner som er del av godkjenningsforespørsler kan trekkes tilbake i
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/pew9gsvy/01-withdrawn-document.png)
 
-Dokumentrevisjoner som ble lagt til godkjenningen og senere trukket tilbake kan forkastes fra godkjenningsforespørselen.
+Dokumentrevisjoner som ble lagt til i gjennomgangen og senere trukket tilbake kan forkastes fra gjennomgangsforespørselen. Medlemmer av innsendingsteamet og medlemmer av det endelige vurderingsteamet kan forkaste dokumentrevisjoner gjennom hele arbeidsflyten. Medlemmer av et team som er tildelt et vurderingstrinn kan gjøre det bare mens det trinnet er aktivt.
 
 ## 2. **Slettet dokument**
 
@@ -18,4 +18,4 @@ Etter noen få sekunder vil det vises en feilmelding som kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/pew9gsvy/03-deleted-document.png)
 
-Dokumenter som ble lagt til en godkjenning og senere slettet, kan enten gjenopprettes av en administrator eller forkastes fra godkjenningsforespørselen.
+Dokumenter som ble lagt til i en gjennomgang og senere slettet kan enten gjenopprettes av en administrator eller forkastes fra gjennomgangsforespørselen. Dette kan gjøres av medlemmer av innsendingsteamet eller det endelige vurderingsteamet når som helst i arbeidsflyten, og av medlemmer av et vurderingsteam mens deres eget trinn er aktivt.

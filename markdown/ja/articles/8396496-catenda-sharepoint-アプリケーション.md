@@ -12,11 +12,11 @@ Catenda SharePoint アプリケーションが SharePoint サイトに追加さ�
 
 ### 1.1 **リストコマンドの検索**
 
-**1つのファイル**単一のファイルをCatendaに公開したい場合、最も簡単な方法は、ファイルのハンバーガー メニューで「Catendaに公開」をクリックすることです。
+**1つのファイル** 単一のファイルをCatendaに公開したい場合、最も簡単な方法は、ファイルのハンバーガー メニューで「Catendaに公開」をクリックすることです。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/01-finding-the-list-command.png)
 
-**複数のファイル**複数のファイルをCatendaに公開したい場合は、公開したいファイルを選択する必要があります。SharePointでファイルを選択すると、ユーザーは「Catendaに公開」リストコマンドを表示できます。
+**複数のファイル** 複数のファイルをCatendaに公開したい場合は、公開したいファイルを選択する必要があります。SharePointでファイルを選択すると、ユーザーは「Catendaに公開」リストコマンドを表示できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/02-finding-the-list-command.png)
 

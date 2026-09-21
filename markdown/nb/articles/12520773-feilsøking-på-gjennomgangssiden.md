@@ -26,7 +26,7 @@ Hvis et dokument som er en del av en gjennomgang slettes, kan det ikke lenger fi
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/atct6we8/03-document-not-found.png)
 
-Dokumenter som ble lagt til en gjennomgangsforespørsel og senere slettet, kan enten gjenopprettes av en administrator eller forkastes fra gjennomgangsforespørselen.
+Dokumenter som ble lagt til en gjennomgangsforespørsel og som senere ble slettet, kan enten gjenopprettes av en administrator eller fjernes fra gjennomgangsforespørselen. Medlemmer av innsenderteamet og medlemmer av det endelige vurderingsteamet kan fjerne dokumentrevisjoner gjennom hele arbeidsflyten. Medlemmer av et team som er tildelt et vurderingstrinn, kan gjøre det bare mens trinnet er aktivt.
 
 ### 3.2 **Trukket tilbake revisjon**
 
@@ -34,4 +34,4 @@ Hvis en dokumentrevisjon som er en del av en gjennomgang trekkes tilbake, er rev
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/atct6we8/04-withdrawn-revision.png)
 
-Dokumentrevisjoner som ble lagt til en gjennomgangsforespørsel og senere trukket tilbake, kan forkastes fra gjennomgangsforespørselen.
+Dokumentrevisjoner som ble lagt til en gjennomgangsforespørsel og senere trukket tilbake, kan fjernes fra gjennomgangsforespørselen. Dette kan gjøres av medlemmer av innsenderteamet eller det endelige vurderingsteamet når som helst i arbeidsflyten, og av medlemmer av et vurderingsteam mens deres eget trinn er aktivt.

@@ -4,7 +4,7 @@
 
 Hvis en navnekonvensjon er aktivert på opplastingsmappen eller en overordnet mappe til opplastingsmappen, må det lokale filnavnet følge konvensjonen for at opplastingen skal gjennomføres. Hvis filnavnet ikke følger konvensjonen, vises følgende feil.
 
-_`<Filename> samsvarer ikke med navnekonvensjon`_
+**`<Filename> samsvarer ikke med navnekonvensjon`**
 
 Vennligst last opp filen manuelt via nettleseren for å se hvilke deler av filnavnet som mangler.
 
@@ -106,13 +106,13 @@ Loggfil `<Message number>|<Date/time>|INFO|1|LoggingExtension|start logging`
 
 Oppgaver som er manuelt startet ved å klikke på Last opp/Last ned nå i oppgaven, viser en status for Last opp eller Last ned så lenge oppgaven kjører. For både oppgaver som er manuelt startet og oppgaver som er startet etter tidsplan, kan tilstanden som oppgaver som kjører er i, ses ved å overvåke nettverksutnyttelsen av programmet.
 
-_Innledende oppstartsfase_ En Desktop Connector-oppgave er i innledende oppstartsfase når den bruker mellom 1 kilobyte per sekund og 1 megabyte per sekund. I løpet av denne fasen er nettverksutnyttelsen av oppgaven minimal.
+**Innledende oppstartsfase** En Desktop Connector-oppgave er i innledende oppstartsfase når den bruker mellom 1 kilobyte per sekund og 1 megabyte per sekund. I løpet av denne fasen er nettverksutnyttelsen av oppgaven minimal.
 
 Nedlastingsoppgave Under innledende oppstartsfase sjekkes dokumenter på serverplasseringen mot de lokale filene for å se om det finnes noen serverfiler som har endret seg og som en ny revisjon skal lastes ned for, eller om det finnes nye filer på serversiden som skal lastes ned til det lokale systemet.
 
 Opplastingsoppgave Under innledende oppstartsfase sjekkes dokumenter på serverplasseringen mot de lokale filene for å se om det finnes noen lokale filer som har endret seg og som en ny revisjon skal lastes opp for, eller om det finnes nye lokale filer som skal lastes opp til Catenda.
 
-_Aktiv fase_ En Desktop Connector-oppgave er i aktiv fase når den bruker mer enn 1 megabyte per sekund. I løpet av denne fasen kan nettverksutnyttelsen av oppgaven ha en effekt på resten av systemet.
+**Aktiv fase** En Desktop Connector-oppgave er i aktiv fase når den bruker mer enn 1 megabyte per sekund. I løpet av denne fasen kan nettverksutnyttelsen av oppgaven ha en effekt på resten av systemet.
 
 Nedlastingsoppgave I løpet av den aktive fasen laster Desktop Connector aktivt ned fil for fil fra Catenda til det lokale systemet.
 
@@ -122,15 +122,15 @@ Opplastingsoppgave I løpet av den aktive fasen laster Desktop Connector aktivt 
 
 Oppgaver som kjøres manuelt ved å klikke på Last opp/Last ned nå i oppgaven, viser en statusmelding innenfor oppgaven når oppgaven stoppes hvis enten når oppgaven er ferdig eller når en feil har oppstått.
 
-_Oppgave ferdig_ Den eneste måten å se om oppgaver er ferdig på er å kjøre oppgaven manuelt. Klikk på Last opp/Last ned nå innenfor oppgaven for å gjøre det. Når oppgaven er ferdig, vises en melding om at alle dokumenter er lastet opp eller ned i oppgaven.
+**Oppgave ferdig** Den eneste måten å se om oppgaver er ferdig på er å kjøre oppgaven manuelt. Klikk på Last opp/Last ned nå innenfor oppgaven for å gjøre det. Når oppgaven er ferdig, vises en melding om at alle dokumenter er lastet opp eller ned i oppgaven.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0emrc0xc/03-task-halted.png)
 
 > **Merk:** Det er ingen meldinger i loggfilen for ferdige oppgaver. Den eneste måten å se om oppgaver som er startet etter tidsplan er stoppet på, er ved å sjekke nettverksutnyttelsen av programmet.
 
-_En feil oppstod_ En mer detaljert beskrivelse av feil som har oppstått, kan ses ved å sjekke loggfilen for eventuelle nylige feil.
+**En feil oppstod** En mer detaljert beskrivelse av feil som har oppstått, kan ses ved å sjekke loggfilen for eventuelle nylige feil.
 
-_Nettverksutnyttelse_ Den eneste måten å se om oppgaver som er startet etter tidsplan er stoppet på, er ved å sjekke nettverksutnyttelsen av programmet. Hvis Desktop Connector har brukt mindre enn 1 kilobyte per sekund i over 2 minutter, har oppgaver som kjørte sannsynligvis blitt stoppet og vil ikke starte igjen. For oppgaver som er planlagt å gjentas, startes en ny oppgave hvis Desktop Connector kjører på den neste datoen og klokkeslettet oppgaven er planlagt til å begynne.
+**Nettverksutnyttelse** Den eneste måten å se om oppgaver som er startet etter tidsplan er stoppet på, er ved å sjekke nettverksutnyttelsen av programmet. Hvis Desktop Connector har brukt mindre enn 1 kilobyte per sekund i over 2 minutter, har oppgaver som kjørte sannsynligvis blitt stoppet og vil ikke starte igjen. For oppgaver som er planlagt å gjentas, startes en ny oppgave hvis Desktop Connector kjører på den neste datoen og klokkeslettet oppgaven er planlagt til å begynne.
 
 ## 8. **Tilkobling mellom koblingen og Catenda**
 
@@ -138,23 +138,23 @@ _Nettverksutnyttelse_ Den eneste måten å se om oppgaver som er startet etter t
 
 Hvis det er et problem med internettilkoblingen, startes ikke opplastings- eller nedlastingsoppgaven automatisk på nytt og kjøres igjen til neste planlagte tid. Det kan også startes manuelt ved å gå til oppgaven og klikke på opplastings- eller nedlastingsknappen.
 
-_Ingen tilkobling_ Hvis det ikke finnes internettilkobling når du starter en opplastings- eller nedlastingsoppgave, vises følgende feil i opplastings- eller nedlastingsoppgaven.
+**Ingen tilkobling** Hvis det ikke finnes internettilkobling når du starter en opplastings- eller nedlastingsoppgave, vises følgende feil i opplastings- eller nedlastingsoppgaven.
 
 `Ingen slik vert er kjent`
 
-_Tilkobling tapt under oppgavestart_ Hvis tilkoblingen til internett gikk tapt eller timet ut når du forsøkte å koble til Catenda-serverne, vises følgende feil:
+**Tilkobling tapt under oppgavestart** Hvis tilkoblingen til internett gikk tapt eller timet ut når du forsøkte å koble til Catenda-serverne, vises følgende feil:
 
 `SSL-tilkoblingen kunne ikke etableres`
 
-_Brukt tilkoblingsmetode avhenger av foretrukket metode tilgjengelig ved oppgavestart_ Når en oppgave startes, opprettes en tilkobling med den foretrukne internettilkoblingsmetoden. Hvis for eksempel en kablet tilkobling og en WiFi-tilkobling er tilgjengelig når en oppgave kjøres, foretrekkes vanligvis den kablede tilkoblingen. Hvis bare en WiFi-tilkobling er tilgjengelig når en oppgave startes og en kablet tilkobling kobles til mens den kjører, fortsetter koblingen å bruke den innledende tilkoblingen så lenge den er tilgjengelig og bytter ikke til en foretrukket tilkobling som senere blir tilgjengelig.
+**Brukt tilkoblingsmetode avhenger av foretrukket metode tilgjengelig ved oppgavestart** Når en oppgave startes, opprettes en tilkobling med den foretrukne internettilkoblingsmetoden. Hvis for eksempel en kablet tilkobling og en WiFi-tilkobling er tilgjengelig når en oppgave kjøres, foretrekkes vanligvis den kablede tilkoblingen. Hvis bare en WiFi-tilkobling er tilgjengelig når en oppgave startes og en kablet tilkobling kobles til mens den kjører, fortsetter koblingen å bruke den innledende tilkoblingen så lenge den er tilgjengelig og bytter ikke til en foretrukket tilkobling som senere blir tilgjengelig.
 
 ### 8.2 **Tilkobling under oppgave - Tilkobling til internett**
 
-_Internettilkobling ikke lenger tilgjengelig uten reserve_ Hvis det bare var en tilkobling tilgjengelig da oppgaven begynte, eller hvis det ikke var noen tilkobling tilgjengelig i det hele tatt (f.eks. Flymodus), kan følgende feil oppstå.
+**Internettilkobling ikke lenger tilgjengelig uten reserve** Hvis det bare var en tilkobling tilgjengelig da oppgaven begynte, eller hvis det ikke var noen tilkobling tilgjengelig i det hele tatt (f.eks. Flymodus), kan følgende feil oppstå.
 
 `En feil oppstod under sending av forespørselen.`
 
-_Internettilkobling ikke lenger tilgjengelig med reserve_ Hvis det var flere tilkoblinger tilgjengelig da oppgaven begynte og tilkoblingen som ble brukt gikk tapt, vil koblingen forsøke å bytte til en av de andre tilgjengelige tilkoblingene. Under denne bytting kan følgende feil oppstå:
+**Internettilkobling ikke lenger tilgjengelig med reserve** Hvis det var flere tilkoblinger tilgjengelig da oppgaven begynte og tilkoblingen som ble brukt gikk tapt, vil koblingen forsøke å bytte til en av de andre tilgjengelige tilkoblingene. Under denne bytting kan følgende feil oppstå:
 
 `Feil under kopiering av innhold til en strøm`
 
@@ -172,13 +172,13 @@ Kontakt støtte i denne situasjonen. Det finnes en Beta-versjon tilgjengelig ett
 
 Avhengig av hastigheten på tilkoblingen både på opplastings- eller nedlastingssiden eller på Catenda-siden kan det ta kortere eller lengre tid å laste opp filer. Hvis oppgaven tar for lang tid, kan tilkoblingen timeout.
 
-_Catenda timeout_ Hvis overføringen har tatt for lang tid, vil den timeout og følgende feil vil vises:
+**Catenda timeout** Hvis overføringen har tatt for lang tid, vil den timeout og følgende feil vil vises:
 
 `En tilkoblingsforsøk mislyktes fordi den tilkoblede parten ikke svarte ordentlig etter en tid, eller etablert tilkobling mislyktes fordi tilkoblet vert kunne ikke reagere. (api.bimsync.com:443)`
 
 Kontakt støtte i denne situasjonen. Det finnes en Beta-versjon tilgjengelig etter forespørsel som kan hjelpe med dette.
 
-_Catenda Service utilgjengelig_ Hvis Catenda API midlertidig ikke kan motta forespørsler på brøkdelen av sekundet Desktop Connector forsøker å nå den, vises følgende melding.
+**Catenda Service utilgjengelig** Hvis Catenda API midlertidig ikke kan motta forespørsler på brøkdelen av sekundet Desktop Connector forsøker å nå den, vises følgende melding.
 
 Desktop Connector `HTTP FEIL 503 Service Utilgjengelig`
 
@@ -190,7 +190,7 @@ Loggfil
 
 Dette skyldes ofte at servere er overbelastet og mange brukere forsøker å sende forespørsler samtidig.
 
-_Gateway timeout_ En gateway timeout betyr ofte at Catenda API kjører jevnt og at den innledende forespørselen ble mottatt ordentlig. Tjenesten som skulle håndtere denne forespørselen svarte imidlertid ikke i tide.
+**Gateway timeout** En gateway timeout betyr ofte at Catenda API kjører jevnt og at den innledende forespørselen ble mottatt ordentlig. Tjenesten som skulle håndtere denne forespørselen svarte imidlertid ikke i tide.
 
 Desktop Connector `504 Gateway Time-Out` Loggfil
 
@@ -200,7 +200,7 @@ Desktop Connector `504 Gateway Time-Out` Loggfil
 
 Dette kan indikere at Catenda mottar forespørsler ordentlig, men at serveren som behandler forespørslene midlertidig er utilgjengelig. Dette kan noen ganger skje når ikke nok maskiner er tilgjengelige, hvoretter flere vil starte automatisk, men dette kan ta litt tid.
 
-_Tilgangstoken utløpt_ Catenda-tilgangstokens må oppdateres etter en time. Når Desktop Connector navigeres, er dette vanligvis ikke et problem da tokenet oppdateres automatisk, men når en oppgave startes som tar lengre tid enn en time, kan tilgangstokenet som ble brukt for oppgaven, timeout mens oppgaven pågår. Når dette skjer, vises følgende feil i Desktop Connector. For oppgaver som tar lengre tid enn en time, starter du oppgaven på nytt eller venter på neste planlagte oppgave for å gjøre det gjenstående arbeidet.
+**Tilgangstoken utløpt** Catenda-tilgangstokens må oppdateres etter en time. Når Desktop Connector navigeres, er dette vanligvis ikke et problem da tokenet oppdateres automatisk, men når en oppgave startes som tar lengre tid enn en time, kan tilgangstokenet som ble brukt for oppgaven, timeout mens oppgaven pågår. Når dette skjer, vises følgende feil i Desktop Connector. For oppgaver som tar lengre tid enn en time, starter du oppgaven på nytt eller venter på neste planlagte oppgave for å gjøre det gjenstående arbeidet.
 
 Desktop Connector `Unntak av typen 'BimsyncApp.Exceptions.BimAuthenticatorException' ble kastet.`
 

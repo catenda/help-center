@@ -26,7 +26,7 @@ Als een document dat onderdeel is van een goedkeuring wordt verwijderd, kan het 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/atct6we8/03-document-not-found.png)
 
-Documenten die aan een goedkeuringsverzoek zijn toegevoegd en later zijn verwijderd, kunnen ofwel door een beheerder worden hersteld of uit het goedkeuringsverzoek worden verwijderd.
+Documenten die aan een goedkeuringsverzoek zijn toegevoegd en later zijn verwijderd, kunnen ofwel door een beheerder worden hersteld ofwel uit het goedkeuringsverzoek worden verwijderd. Leden van het indienaarsteam en leden van het eindbeoordelingsteam kunnen documentrevisies gedurende de hele workflow verwijderen. Leden van een team dat aan een beoordelingsstap is toegewezen, kunnen dit alleen doen terwijl die stap actief is.
 
 ### 3.2 **Ingetrokken revision**
 
@@ -34,4 +34,4 @@ Als een documentrevisie die onderdeel is van een goedkeuring wordt ingetrokken, 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/atct6we8/04-withdrawn-revision.png)
 
-Documentrevisies die aan een goedkeuringsverzoek zijn toegevoegd en later zijn ingetrokken, kunnen uit het goedkeuringsverzoek worden verwijderd.
+Documentrevisies die aan een goedkeuringsverzoek zijn toegevoegd en later zijn ingetrokken, kunnen uit het goedkeuringsverzoek worden verwijderd. Dit kan op elk moment in de workflow worden gedaan door leden van het indienaarsteam of het eindbeoordelingsteam, en door leden van een beoordelingsteam terwijl hun eigen stap actief is.

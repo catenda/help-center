@@ -44,9 +44,9 @@ Forholdet mellom antall piksler som visningsvinduet sier at det viser, og antall
 
 > **Merk:** Sørg for at maskinvaren og programvaren som Catenda er åpnet på, er konfigurert [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation) da dette kan påvirke nøyaktigheten av diagonale linjer i viseren.
 
-_Standardkvalitet_ Med standardvisningskvaliteten er piksler som visningsvinduet sier det har, det samme antallet fysiske piksler som viser visningsvinduet på skjermen. For skjermer som tilbyr å vise visningsvinduet over flere fysiske piksler enn visningsvinduet sier det har, kan denne innstillingen få bildet til å virke mindre presist. Denne modusen er raskere og mindre krevende for enheten din.
+**Standardkvalitet** Med standardvisningskvaliteten er piksler som visningsvinduet sier det har, det samme antallet fysiske piksler som viser visningsvinduet på skjermen. For skjermer som tilbyr å vise visningsvinduet over flere fysiske piksler enn visningsvinduet sier det har, kan denne innstillingen få bildet til å virke mindre presist. Denne modusen er raskere og mindre krevende for enheten din.
 
-_Høy kvalitet_ Med høy visningskvalitet vises visningsvinduet over hele mengden fysiske piksler som er tilgjengelige på delen av skjermen som viser visningsvinduet. For skjermer som tillater at visningsvinduet vises over flere piksler enn det sier, gir dette den beste visuelle kvaliteten, men kan være mer krevende for ytelsen.
+**Høy kvalitet** Med høy visningskvalitet vises visningsvinduet over hele mengden fysiske piksler som er tilgjengelige på delen av skjermen som viser visningsvinduet. For skjermer som tillater at visningsvinduet vises over flere piksler enn det sier, gir dette den beste visuelle kvaliteten, men kan være mer krevende for ytelsen.
 
 ### 2.3 **Anti-aliasing**
 
@@ -121,13 +121,13 @@ Slik kan miljømenyen se ut:
 
 De valgte miljøinnstillingene bestemmer hvilken himmel som vises når du ser opp, og hvilken bakke som vises når du ser ned. Merk at horisonten ofte er mer uttalt når perspektivvisningsalternativet er valgt, da horisonten med ortogonal visningsvinkel er uendelig langt borte, så det ses bare når kameraet vender nøyaktig i horisontal retning.
 
-_Klart_ Med den klare innstillingen vises en klar himmel når du ser opp og en gressig bakkeplan når du ser ned i bakgrunnen av visningsvinduet.
+**Klart** Med den klare innstillingen vises en klar himmel når du ser opp og en gressig bakkeplan når du ser ned i bakgrunnen av visningsvinduet.
 
-_Delvis skyet_ Med den delvis skyet innstillingen vises en skyet himmel når du ser opp og en gressig bakkeplan når du ser ned i bakgrunnen av visningsvinduet.
+**Delvis skyet** Med den delvis skyet innstillingen vises en skyet himmel når du ser opp og en gressig bakkeplan når du ser ned i bakgrunnen av visningsvinduet.
 
-_Nøytral_ Med den nøytrale innstillingen vises lysegrå himmel når du ser opp og en mørk grå bakkeplan når du ser ned i bakgrunnen av visningsvinduet. Denne innstillingen er flott for modeller som har lyse farger og er vanskelig å skille fra en lys bakgrunn.
+**Nøytral** Med den nøytrale innstillingen vises lysegrå himmel når du ser opp og en mørk grå bakkeplan når du ser ned i bakgrunnen av visningsvinduet. Denne innstillingen er flott for modeller som har lyse farger og er vanskelig å skille fra en lys bakgrunn.
 
-_Ingen_ Med ingen-innstillingen vises en gradient som går fra en lettgrønn himmel når du ser opp til en hvit bakkeplan når du ser ned i bakgrunnen av visningsvinduet.
+**Ingen** Med ingen-innstillingen vises en gradient som går fra en lettgrønn himmel når du ser opp til en hvit bakkeplan når du ser ned i bakgrunnen av visningsvinduet.
 
 ### 4.2 **Bakkeplan**
 

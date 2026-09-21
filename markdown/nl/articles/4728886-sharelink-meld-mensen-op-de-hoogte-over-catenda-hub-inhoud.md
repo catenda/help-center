@@ -22,12 +22,12 @@ ShareLink stuurt een e-mail vanuit Catenda Hub naar de teamleden die u kiest, me
 
 1. Selecteer eerst maximaal 100 inhoudselementen die u wilt delen.
 
-    Bijvoorbeeld enkele Documenten of Topics.
+   Bijvoorbeeld enkele Documenten of Topics.
 
-    Een sharelink-ontvanger ziet dan alleen deze items.
-    Als de pagina met een sharelink-ontvanger wordt gedeeld, zien zij de volledige pagina, inclusief Filters, op basis van hun toegang in het project.
+   Een sharelink-ontvanger ziet dan alleen deze items.
+   Als de pagina met een sharelink-ontvanger wordt gedeeld, zien zij de volledige pagina, inclusief Filters, op basis van hun toegang in het project.
 
-1. Klik op de ShareLink-knop.<br>
+2. Klik op de ShareLink-knop.<br>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 
@@ -73,9 +73,9 @@ Het e-mailbericht kan er als volgt uitzien als u een schermafbeelding hebt toege
 
 1. Klik op deze koppeling, Catenda Hub opent een pagina met de gedeelde items.
 
-    of
+   of
 
-1. Plak deze URL in uw browser.
+2. Plak deze URL in uw browser.
 
 Wanneer u de koppeling volgt, worden alleen de geselecteerde items weergegeven:
 

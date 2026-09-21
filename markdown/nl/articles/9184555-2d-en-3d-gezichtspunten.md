@@ -95,10 +95,12 @@ Als de 3D-viewer open is, is het modellaadinqmenu beschikbaar
     <div class="intercom-container"><img height="30" src="https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/inline-ff3494b6d9f8.png" style="height: auto;" width="30"/></div>
 
 - Afhankelijk van de zichtbaarheid-instellingen van het object in de snapshot, kunnen toegevoegde modellen volledig verborgen zijn. Zelfs als deze niet zichtbaar zijn, zou u moeten zien dat ze zijn geladen wanneer het topic wordt afgespeeld.
+
 - De modellen die aan zijn wanneer dit menu wordt geopend, weerspiegelen de modellen die momenteel in de 3D-viewer zijn geladen. Om eenvoudig een set modellen toe te voegen of te verwijderen, kunt u een bladwijzer maken, de bladwijzer afspelen, naar de snapshot gaan, op het actiemenu ervan klikken en opslaan in het modellaadinqmenu.
+
 - Als een model in uw snapshot dezelfde IFCPROJECT GUID heeft als een model in de modelssectie, worden de modellen automatisch gekoppeld.
 
-    Hier is een artikel van BuildingSMART waarin wordt beschreven hoe dit in Revit wordt gedaan [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
+  Hier is een artikel van BuildingSMART waarin wordt beschreven hoe dit in Revit wordt gedaan [https://user.buildingsmart.org/knowledge-base/ifcproject/](https://user.buildingsmart.org/knowledge-base/ifcproject/)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/08-model-picker.png)
 

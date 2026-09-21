@@ -50,9 +50,9 @@ Fest den til en milepæl eller la den stå tom. Dette kan hjelpe til med å spor
 
 ### 2.8 Ansvar
 
-_Tildelt til_ Her kan du tildele saken til et spesifikt medlem eller et team. Det anbefales at du angir et medlem som ansvarlig i stedet for et team, da delt ansvar gjør at ingen av teammedlemmene føler seg personlig ansvarlig. Hvis du likevel ønsker å la andre teammedlemmer vite at deres team er ansvarlig, kan du angi medlem@team. Hvis et medlem er angitt som ansvarlig, vil de automatisk [følge](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken. Hvis et team er angitt som ansvarlig, vil teammedlemmene ikke automatisk [følge](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken.
+**Tildelt til** Her kan du tildele saken til et spesifikt medlem eller et team. Det anbefales at du angir et medlem som ansvarlig i stedet for et team, da delt ansvar gjør at ingen av teammedlemmene føler seg personlig ansvarlig. Hvis du likevel ønsker å la andre teammedlemmer vite at deres team er ansvarlig, kan du angi medlem@team. Hvis et medlem er angitt som ansvarlig, vil de automatisk [følge](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken. Hvis et team er angitt som ansvarlig, vil teammedlemmene ikke automatisk [følge](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken.
 
-_Etterspurt av_ Her kan du angi medlemmet eller teamet som etterspør saken. Du er angitt som anmoder som standard, men du kan velge ethvert medlem her. Hvis et medlem er angitt som anmoder, vil de automatisk [følge](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken. Hvis et team er angitt som anmoder, vil teammedlemmene ikke automatisk [følge](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken.
+**Etterspurt av** Her kan du angi medlemmet eller teamet som etterspør saken. Du er angitt som anmoder som standard, men du kan velge ethvert medlem her. Hvis et medlem er angitt som anmoder, vil de automatisk [følge](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken. Hvis et team er angitt som anmoder, vil teammedlemmene ikke automatisk [følge](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken.
 
 ### 2.9 Merkelapper
 
@@ -88,11 +88,11 @@ Tekstboksen ved siden av legg til-knappen er for å skrive en kommentar, nevne p
 
 ### 4.3 Vedlegg
 
-_Legg til-knapp_ Ved å klikke på legg til-knappen kan du legge til et 2D/3D-øyeblikksbilde eller bilde fra harddisken din.
+**Legg til-knapp** Ved å klikke på legg til-knappen kan du legge til et 2D/3D-øyeblikksbilde eller bilde fra harddisken din.
 
 2D/3D-øyeblikksbildet kommer fra den siste kameravinkelen i 3D/2D-viseren. Ved å åpne 3D-knappen i navigeringsviseren. Du kan navigere gjennom modellen til saken det gjelder, og ved å trykke på legg til-knappen velger du 2D/3D-øyeblikksbildet, så vises øyeblikksbildet.
 
-_Øyeblikksbilde_ Hvis du har en 2D-visning av en modell lastet inn, vil et 2D-øyeblikksbilde av gjeldende 2D-visning automatisk legges til. Hvis du har en 3D-visning av en modell lastet inn, vil et 3D-øyeblikksbilde av gjeldende kameraposisjon automatisk legges til. Hvis du har 3D-objekter valgt i 3D-øyeblikksbildet når du sender inn saken, kobles disse objektene til saken. Du kan fjerne, oppdatere eller legge til nye øyeblikksbilder før innsending.
+**Øyeblikksbilde** Hvis du har en 2D-visning av en modell lastet inn, vil et 2D-øyeblikksbilde av gjeldende 2D-visning automatisk legges til. Hvis du har en 3D-visning av en modell lastet inn, vil et 3D-øyeblikksbilde av gjeldende kameraposisjon automatisk legges til. Hvis du har 3D-objekter valgt i 3D-øyeblikksbildet når du sender inn saken, kobles disse objektene til saken. Du kan fjerne, oppdatere eller legge til nye øyeblikksbilder før innsending.
 
 Hvis du venstreklikker på øyeblikksbildet du har tatt, har du muligheten til å legge til merknader på bildet. Under bildet vises det et verktøylinje med verktøy for å tegne det spesifikke punktet for saken mer detaljert.
 
@@ -100,6 +100,6 @@ Hvis du venstreklikker på øyeblikksbildet du har tatt, har du muligheten til �
 
 ### 4.4 Send inn
 
-_Hold åpent for innsending_ Merk denne boksen hvis du planlegger å opprette en annen sak med en gang.
+**Hold åpent for innsending** Merk denne boksen hvis du planlegger å opprette en annen sak med en gang.
 
-_Send inn_ Når du har valgt all relevant informasjon for saken, trykker du send inn i nederste høyre hjørne. Minimumsinformasjonen som kreves for å sende inn en sak er tittelen.
+**Send inn** Når du har valgt all relevant informasjon for saken, trykker du send inn i nederste høyre hjørne. Minimumsinformasjonen som kreves for å sende inn en sak er tittelen.

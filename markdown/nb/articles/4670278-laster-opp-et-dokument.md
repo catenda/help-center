@@ -48,11 +48,11 @@ I denne menyen kan bare enkeltdokumenter lastes opp. For å laste opp en mappe, 
 
 ### 2.4 **Opplastingsgrense**
 
-_Grenser for enkeltfiler:_ Opptil 100 filer kan lastes opp samtidig Opptil 7 GB per fil kan lastes opp samtidig.
+**Grenser for enkeltfiler:** Opptil 100 filer kan lastes opp samtidig Opptil 7 GB per fil kan lastes opp samtidig.
 
-_Grenser for zippede filer:_ For å laste opp flere filer samtidig eller større filer, bruk funksjonen '[last opp zip](https://support.catenda.com/en/articles/7945410-upload-a-zip-folder-structure)'.
+**Grenser for zippede filer:** For å laste opp flere filer samtidig eller større filer, bruk funksjonen '[last opp zip](https://support.catenda.com/en/articles/7945410-upload-a-zip-folder-structure)'.
 
-_Grenser for punktskyer:_ Punktskyer har ofte store filstørrelser, så grensen deres har blitt økt til 25 GB Klikk [her](https://support.catenda.com/en/articles/4670324-is-there-a-size-limit-for-ifc-files) for å se mer om størrelsesgrenser.
+**Grenser for punktskyer:** Punktskyer har ofte store filstørrelser, så grensen deres har blitt økt til 25 GB Klikk [her](https://support.catenda.com/en/articles/4670324-is-there-a-size-limit-for-ifc-files) for å se mer om størrelsesgrenser.
 
 ## 3. **Desktop-tilkobling**
 

@@ -26,7 +26,7 @@ Si un document qui fait partie d'une approbation est supprimé, il ne peut plus 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/atct6we8/03-document-not-found.png)
 
-Les documents qui ont été ajoutés à une demande d'approbation et qui ont été supprimés par la suite peuvent soit être récupérés par un administrateur, soit supprimés de la demande d'approbation.
+Les documents ajoutés à une demande d'approbation et ultérieurement supprimés peuvent être récupérés par un administrateur ou supprimés de la demande d'approbation. Les membres de l'équipe de soumission et les membres de l'équipe d'examinateur final peuvent supprimer les révisions de document tout au long du flux de travail. Les membres d'une équipe assignée à une étape d'examen ne peuvent le faire que pendant que cette étape est active.
 
 ### 3.2 **Révision retirée**
 
@@ -34,4 +34,4 @@ Si une révision de document qui fait partie d'une approbation est retirée, le 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/atct6we8/04-withdrawn-revision.png)
 
-Les révisions de document qui ont été ajoutées à une demande d'approbation et retirées par la suite peuvent être supprimées de la demande d'approbation.
+Les révisions de document ajoutées à une demande d'approbation et ultérieurement retirées peuvent être supprimées de la demande d'approbation. Cela peut être fait par les membres de l'équipe de soumission ou de l'équipe d'examinateur final à tout moment du flux de travail, et par les membres d'une équipe d'examinateur pendant que leur propre étape est active.

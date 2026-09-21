@@ -70,10 +70,10 @@ La visibilité des marqueurs peut être configurée dans les emplacements suivan
 
 1. Afficher/masquer les marqueurs dans la vue 2D avec les [paramètres de la visionneuse 2D](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098). <br>Remarque : Les marqueurs peuvent ne pas être visibles si la couche de marqueurs est désactivée.
 
-    Dans ce menu, le mode de couleur des marqueurs peut également être configuré.
-    ([Statut, Type de topic, Échéance](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
+   Dans ce menu, le mode de couleur des marqueurs peut également être configuré.
+   ([Statut, Type de topic, Échéance](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
 
-1. Dans le menu des couches, la couche de marqueur peut être activée/désactivée.
+2. Dans le menu des couches, la couche de marqueur peut être activée/désactivée.
 
 ## 2. **Topics avec nouveaux marqueurs**
 

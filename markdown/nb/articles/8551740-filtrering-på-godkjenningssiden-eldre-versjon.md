@@ -40,8 +40,8 @@ _Forfalt_ - `due=overdue` _Mindre enn en dag_ - `due=2d` _Mindre enn en uke_ - `
 
 _Tekstsøk -_ `search=<Søkefrase>`
 
-_Innhold som kan søkes i_ Tittel på godkjenningsforespørsel
+**Innhold som kan søkes i** Tittel på godkjenningsforespørsel
 
-_Stor-/små bokstaver_ Tekstsøket skiller ikke mellom store og små bokstaver.
+**Stor-/små bokstaver** Tekstsøket skiller ikke mellom store og små bokstaver.
 
-_Antall tegn_ Hvilket som helst antall tegn Innhold som inneholder søkefrasen er truffet.
+**Antall tegn** Hvilket som helst antall tegn Innhold som inneholder søkefrasen er truffet.

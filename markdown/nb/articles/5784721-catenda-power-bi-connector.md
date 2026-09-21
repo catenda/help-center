@@ -36,33 +36,33 @@ En navigator åpnes der alle prosjekter du har tilgang til er oppført. Velg til
 
 Her kan du velge fra følgende datasett: _Dokumenter_
 
-_Dokumentetiketter_
+**Dokumentetiketter**
 
-_Etikett_
+**Etikett**
 
-_Medlem_
+**Medlem**
 
-_Modell_
+**Modell**
 
-_Modellrevisjon_
+**Modellrevisjon**
 
-_Produkter_
+**Produkter**
 
-_Team_
+**Team**
 
-_Teammedlemmer_
+**Teammedlemmer**
 
-_Token_
+**Token**
 
-_Sak_
+**Sak**
 
-_Saksliste_
+**Saksliste**
 
-_Saketikett_
+**Saketikett**
 
-_Saksstatus_
+**Saksstatus**
 
-_Sakstype_
+**Sakstype**
 
 Etter at du klikker på Last inn, starter PowerBI-koblingen med å hente saksdataene fra API-en.
 

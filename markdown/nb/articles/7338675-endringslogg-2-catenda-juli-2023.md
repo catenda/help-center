@@ -6,19 +6,26 @@ _Nye artikler:_ Catenda Hub [Bimsync er nå Catenda Hub](https://support.catenda
 
 ## 2. Løste problemer
 
-_Catenda Hub_
+**Catenda Hub**
 
 - [Modeller](https://support.catenda.com/en/articles/4670286-models-page) med japanske tegn lastes nå ned med riktig navn
+
 - [Antallsoppgjør](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto) har nå vekslende svart og hvit bakgrunnsspalter for bedre lesbarhet
+
 - [Importering](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) innsjekking - Importeringer med små feil, som et komma her, en parentes der, vil nå bli godtatt selv om filen er skrevet eller eksportert med en liten feil.
+
 - [Tre-panelet](https://support.catenda.com/en/articles/4670290-the-tree-structures-in-the-ifc-models) viser nå alltid den riktige modellen til et objekt hvis det objektet er valgt. Tidligere var det noen tilfeller der tremenyen ikke alltid oppdaterte til riktig modell
+
 - Det er nå mulig å lagre et utvalg med utvalgsmeny i inspeksjonspanelet.
 
-    Et utvalg av objekter kan også farges. Dette utvalget kan lagres i et øyeblikksbilde eller bokmerke.
+  Et utvalg av objekter kan også farges. Dette utvalget kan lagres i et øyeblikksbilde eller bokmerke.
 
 - Serverne våre kan nå håndtere [importering](https://support.catenda.com/en/articles/4670270-model-page#h_04142f81bf) av filer med mye geometri som tidligere ville oppnå tidsavbrudd.
+
 - [3D-knappen](https://support.catenda.com/en/articles/4670286-models-page#h_82b7400edc) forblir aktiv igjen når flere modeller lastes
+
 - Objekt kan igjen slettes og gjøres gjennomsiktige.
+
 - Brukere med tilgang til mapper på toppnivå i dokumentdelen vil nå kunne se mappene sine selv om det ikke er gitt tilgang til alle brukere i [dokumentinnstillinger](https://support.catenda.com/en/articles/7831371-document-settings).
 
 ## 3. Programtillegg og integrasjoner
@@ -35,4 +42,4 @@ _[Tekla-programtillegg](https://support.catenda.com/en/articles/6549656-catenda-
 
 _[Navisworks-programtillegg](https://support.catenda.com/en/articles/5085987-catenda-hub-navisworks-plugin)_ Versjon 1.3.0 nå tilgjengelig. Oppdatering av rebranding
 
-_Desktop connector_ Versjon 1.0.0.0 nå tilgjengelig på forespørsel
+**Desktop connector** Versjon 1.0.0.0 nå tilgjengelig på forespørsel

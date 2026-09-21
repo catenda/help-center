@@ -28,7 +28,7 @@ So kann die Genehmigungskopfzeile in einer offenen Genehmigung aussehen:
 
 Nachdem der Genehmigungsersteller die Genehmigung im Dialogfeld "Genehmigungsanfrage erstellen" oder aus einer Entwurfsgenehmigungsanfrage eingereicht hat, können Titel und Beschreibung weiterhin bearbeitet werden. Der Workflow kann nicht mehr geändert werden.
 
-> **Hinweis:** Die Mitgliedschaft in einem Submitter-Team ermöglicht die Erstellung einer Genehmigungsanfrage, gewährt jedoch nicht das Recht, eine von einem anderen Mitglied dieses Teams erstellte Genehmigungsanfrage zu bearbeiten.
+> **Hinweis:** Ein Mitglied eines Submitter-Teams zu sein, ermöglicht zwar die Erstellung einer Genehmigungsanfrage, gewährt jedoch nicht das Recht, den Titel oder die Beschreibung einer von einem anderen Mitglied desselben Teams erstellten Genehmigungsanfrage zu bearbeiten. Das Verwerfen von Dokumentrevisionen ist ein separates Recht, das Submitter-Team-Mitglieder jedoch für den gesamten Workflow haben.
 
 ### 2.1 **Titel**
 

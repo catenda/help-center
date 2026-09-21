@@ -131,8 +131,8 @@ Les topics suivants sont décrits dans cette section :
 - **Onglet Aperçu des révisions de documents** <br>La page des approbations dispose maintenant d'un onglet dédié "Révisions de documents" qui fournit un aperçu complet du tableau de tous les fichiers actuellement en révision dans toutes les approbations ouvertes. <br>Vous pouvez maintenant rechercher, trier et filtrer les révisions de documents individuelles par assignation d'équipe, état d'examen et date d'échéance sans avoir à ouvrir chaque package d'approbation séparément.
 - **Localisation japonaise pour les approbations**
 
-    La localisation complète en japonais a été implémentée dans l'interface d'approbation et les pages de configuration du flux de travail.
-    Les équipes travaillant en japonais peuvent maintenant naviguer dans les cartes d'approbation, les outils d'examen de document et les menus de configuration avec une terminologie localisée précise et cohérente.
+  La localisation complète en japonais a été implémentée dans l'interface d'approbation et les pages de configuration du flux de travail.
+  Les équipes travaillant en japonais peuvent maintenant naviguer dans les cartes d'approbation, les outils d'examen de document et les menus de configuration avec une terminologie localisée précise et cohérente.
 
 ### 4.3 **Paramètres du projet**
 

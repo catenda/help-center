@@ -28,7 +28,7 @@ Dit is hoe de goedkeuringskop in een openstaande goedkeuring eruit kan zien:
 
 Nadat de goedkeuringsaanvrager de goedkeuring heeft ingediend in het dialoogvenster voor het maken van een goedkeuringsaanvraag of vanuit een conceptgoedkeuringsaanvraag kunnen de titel en beschrijving nog steeds worden bewerkt. De Workflow kan niet meer worden gewijzigd.
 
-> **Opmerking:** Het lid zijn van een verzenderteam is wat het mogelijk maakt om een goedkeuringsaanvraag in te dienen, maar het geeft niet het recht om een goedkeuringsaanvraag die door een ander lid van dat team is gemaakt, te bewerken.
+> **Opmerking:** Het feit dat u lid bent van een verzenderteam stelt u in staat om een goedkeuringsaanvraag in te dienen, maar geeft u niet het recht om de titel of beschrijving van een goedkeuringsaanvraag die door een ander teamlid is ingediend, te bewerken. Het verwijderen van documentrevisies is een afzonderlijk recht, en verzenderteamleden hebben dit recht voor de hele workflow.
 
 ### 2.1 **Titel**
 

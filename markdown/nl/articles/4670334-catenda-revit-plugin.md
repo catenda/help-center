@@ -77,12 +77,12 @@ Na het inloggen wordt de hoofdweergave van de Catenda Hub-plugin geopend. Op dez
 ![Header.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/06-interface.png)
 
 1. Selecteer uw Catenda Hub-project
-1. Selecteer een onderwoordenbord in dit project
-1. Maak een nieuw onderwerp in het geselecteerde onderwoordenbord
-1. Sorteer momenteel weergegeven onderwerpen
-1. Open het Catenda Hub-add-inmenu
-1. Zoek en filter de weergegeven onderwerpen
-1. De lijst met momenteel gefilterde onderwerpen in het onderwoordenbord
+2. Selecteer een onderwoordenbord in dit project
+3. Maak een nieuw onderwerp in het geselecteerde onderwoordenbord
+4. Sorteer momenteel weergegeven onderwerpen
+5. Open het Catenda Hub-add-inmenu
+6. Zoek en filter de weergegeven onderwerpen
+7. De lijst met momenteel gefilterde onderwerpen in het onderwoordenbord
 
 ### 4.2 **Project- en onderwordenbordelectie**
 
@@ -105,14 +105,14 @@ In de onderwerpenlijst vindt u alle belangrijke informatie over een onderwerp:
 ![IssueInformation.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/09-topic-selection.png)
 
 1. De titel van het onderwerp
-1. De status (Open, Gesloten, ...), het type (Info, Fout, ...) en de labels
-1. Het lid dat het onderwerp heeft aangevraagd
-1. Het lid aan wie het onderwerp is toegewezen
-1. De einddatum van het onderwerp
-1. Wanneer het onderwerp voor het laatst is bijgewerkt. U kunt over de datum gaan om de volledige datum en tijd van update weer te geven.
-1. Het aantal opmerkingen in het onderwerp
-1. De afbeelding van de eerste opmerking in het onderwerp
-1. Catenda Hub-onderwerpenummer
+2. De status (Open, Gesloten, ...), het type (Info, Fout, ...) en de labels
+3. Het lid dat het onderwerp heeft aangevraagd
+4. Het lid aan wie het onderwerp is toegewezen
+5. De einddatum van het onderwerp
+6. Wanneer het onderwerp voor het laatst is bijgewerkt. U kunt over de datum gaan om de volledige datum en tijd van update weer te geven.
+7. Het aantal opmerkingen in het onderwerp
+8. De afbeelding van de eerste opmerking in het onderwerp
+9. Catenda Hub-onderwerpenummer
 
 U kunt op elk onderwerp klikken om naar de [onderwerpendetailpagina](#h_445d3efa52) te gaan.
 
@@ -123,11 +123,11 @@ U kunt de weergegeven onderwerpen sorteren zodat de meest relevante voor u het e
 ![sort.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/10-sort-topics.png)
 
 1. Breng het meest recent aangemaakte onderwerp eerst
-1. Breng het oudste onderwerp eerst
-1. Breng het meest recent bijgewerkte onderwerp het eerst. Het bijwerken van een onderwerp kan het wijzigen van een van deze eigenschappen inhouden: titel, opmerkingen, …
-1. Breng het minst recent bijgewerkte onderwerp het eerst
-1. Breng de meest recente einddatum eerst
-1. Breng de oudste einddatum eerst
+2. Breng het oudste onderwerp eerst
+3. Breng het meest recent bijgewerkte onderwerp het eerst. Het bijwerken van een onderwerp kan het wijzigen van een van deze eigenschappen inhouden: titel, opmerkingen, …
+4. Breng het minst recent bijgewerkte onderwerp het eerst
+5. Breng de meest recente einddatum eerst
+6. Breng de oudste einddatum eerst
 
 ### 4.6 **Onderwerpen filteren**
 
@@ -162,15 +162,15 @@ In deze weergave kunt u een specifiek onderwerp bekijken en bewerken.
 ![IssueDetailView.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/13-interface.png)
 
 1. Teruggaan naar de [Onderwerpenlijst](#h_642fa61854)
-1. De inhoud van dit onderwerp vernieuwen
-1. Navigeren tussen onderwerpen
-1. Stel de onderwerpenststatus in (Open, Gesloten, ...)
-1. Stel het onderwerp type in (Fout, Waarschuwing, Info, ...)
-1. Stel de einddatum van het onderwerp in
-1. Stel het lid in dat aan het onderwerp is toegewezen. U kunt een onderwerp toewijzen aan een individuele gebruiker of een team.
-1. Stel het lid in dat dit onderwerp aanvraagt. U kunt een individuele gebruiker of een team instellen.
-1. Bewerk de onderwerpenlabels
-1. De lijst met opmerkingen in het onderwerp
+2. De inhoud van dit onderwerp vernieuwen
+3. Navigeren tussen onderwerpen
+4. Stel de onderwerpenststatus in (Open, Gesloten, ...)
+5. Stel het onderwerp type in (Fout, Waarschuwing, Info, ...)
+6. Stel de einddatum van het onderwerp in
+7. Stel het lid in dat aan het onderwerp is toegewezen. U kunt een onderwerp toewijzen aan een individuele gebruiker of een team.
+8. Stel het lid in dat dit onderwerp aanvraagt. U kunt een individuele gebruiker of een team instellen.
+9. Bewerk de onderwerpenlabels
+10. De lijst met opmerkingen in het onderwerp
 
 ### 5.2 **Onderwerpeigenschappen**
 
@@ -195,10 +195,10 @@ Alle opmerkingen worden onder het onderwerp weergegeven. Een opmerking kan tekst
 ![CommentDetail.png](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/17-comments.png)
 
 1. De auteur van de opmerking
-1. Wanneer de opmerking is gemaakt. U kunt over de datum gaan om de volledige datum en tijd van update weer te geven.
-1. De [zoomknop](#h_d873968c27) (zie onderstaand hoofdstuk)
-1. De afbeelding die aan de opmerking is gekoppeld
-1. De tekst van de opmerking
+2. Wanneer de opmerking is gemaakt. U kunt over de datum gaan om de volledige datum en tijd van update weer te geven.
+3. De [zoomknop](#h_d873968c27) (zie onderstaand hoofdstuk)
+4. De afbeelding die aan de opmerking is gekoppeld
+5. De tekst van de opmerking
 
 ### 5.4 **Zoom**
 

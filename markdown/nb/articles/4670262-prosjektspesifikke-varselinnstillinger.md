@@ -10,7 +10,7 @@ Herfra kan du filtrere hvilke varslinger du ønsker i Catenda Hub, e-post eller 
 
 Denne knappen kan brukes til å slå prosjektvarsler helt av eller på.
 
-_Kunne ikke vise innhold_
+**Kunne ikke vise innhold**
 
 > **Merknad:** Hvis denne knappen er av, vil du ikke få varslinger, selv om noen av alternativene er aktivert.
 
@@ -18,9 +18,9 @@ Siden med prosjektvarselinnstillinger vil ha de samme innstillingene som [kontov
 
 > **Merknad:** Prosjektvarselinnstillinger bestemmer hvilke varsler DU mottar. De er ikke innstillinger for de andre brukerne i prosjektet.
 
-_Annerledes enn kontovarselinnstillinger_ For at disse innstillingene skal overstyre kontovarselinnstillingene dine, må de være annerledes. For eksempel, hvis du ønsker å få et e-postsammendrag for hvert prosjekt individuelt, må innstillingen settes til "Når hendelsen oppstår" i kontovarselinnstillinger slik at den kan overskrives av de prosjektspesifikke varselinnstillingene i hvert prosjekt. Ellers ville du fortsatt motta alle sammendrag i den generelle varselmailen.
+**Annerledes enn kontovarselinnstillinger** For at disse innstillingene skal overstyre kontovarselinnstillingene dine, må de være annerledes. For eksempel, hvis du ønsker å få et e-postsammendrag for hvert prosjekt individuelt, må innstillingen settes til "Når hendelsen oppstår" i kontovarselinnstillinger slik at den kan overskrives av de prosjektspesifikke varselinnstillingene i hvert prosjekt. Ellers ville du fortsatt motta alle sammendrag i den generelle varselmailen.
 
-_Hvilke prosjekter har jeg angitt en preferanse for?_ Etter å ha gjort endringer på denne siden vil du se dette prosjektet som et "prosjekt med egne Catenda-innstillinger" i [kontovarselinnstillingene dine](https://support.catenda.com/en/articles/8272435-notification-settings).
+**Hvilke prosjekter har jeg angitt en preferanse for?** Etter å ha gjort endringer på denne siden vil du se dette prosjektet som et "prosjekt med egne Catenda-innstillinger" i [kontovarselinnstillingene dine](https://support.catenda.com/en/articles/8272435-notification-settings).
 
 ## 2. Tilbakestille til standard
 

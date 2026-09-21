@@ -46,11 +46,11 @@ Du kan eksportere saker ved å velge eksporter saker i [menyen for nytt element]
 
 ### 2.1 **Filteralternativer**
 
-_Alle saker fra gjeldende saksliste_
+**Alle saker fra gjeldende saksliste**
 
-_Gjeldende filter_
+**Gjeldende filter**
 
-_Valgte saker_
+**Valgte saker**
 
 ### 2.2 **BCF-eksport**
 

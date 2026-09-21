@@ -28,7 +28,7 @@ Slik kan gjennomgangshodet i en åpen gjennomgang se ut:
 
 Etter at gjennomgangsoppretteren har sendt inn gjennomgangen i dialogboksen for opprettelse av gjennomgangsforespørsel eller fra en utkastgjennomgang, kan tittel og beskrivelse fortsatt redigeres. Arbeidsflyten kan ikke lenger endres.
 
-> **Merknad:** Det å være medlem av et innsendingsteam er det som tillater opprettelse av en gjennomgangsforespørsel, men det gir ikke rett til å redigere en gjennomgangsforespørsel opprettet av et annet medlem av det samme teamet.
+> **Merknad:** Å være medlem av et innsendelag er det som tillater at en gjennomgang opprettes, men det gir ikke rett til å redigere tittelen eller beskrivelsen av en gjennomgang opprettet av et annet medlem av det laget. Å forkaste dokumentrevisjoner er en separat rett, og medlemmer av innsendelaget har den for hele arbeidsflyten.
 
 ### 2.1 **Tittel**
 

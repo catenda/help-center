@@ -26,10 +26,10 @@ Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for 
 
 Tekstsøk - `search=test`
 
-_Innhold som kan søkes på_ Som standard brukes det åpne filteret når du bruker et tekstsøk, slik at bare åpne godkjenningsforespørsler samsvarer. For å søke på lukkede eller utkaststatus-godkjenningsforespørsler, må du først filtrere på statusen og deretter bruke tekstsøket.
+**Innhold som kan søkes på** Som standard brukes det åpne filteret når du bruker et tekstsøk, slik at bare åpne godkjenningsforespørsler samsvarer. For å søke på lukkede eller utkaststatus-godkjenningsforespørsler, må du først filtrere på statusen og deretter bruke tekstsøket.
 
-_Store/små bokstaver_ Tekstsøket er ikke følsomt for store eller små bokstaver.
+**Store/små bokstaver** Tekstsøket er ikke følsomt for store eller små bokstaver.
 
-_Antall tegn_ Et hvilket som helst antall tegn Innhold som inkluderer den søkte frasen, blir samsvart.
+**Antall tegn** Et hvilket som helst antall tegn Innhold som inkluderer den søkte frasen, blir samsvart.
 
-_Mellomrom_ Mellomromstegn på begynnelsen av en søkefrase fjernes for treff ved begynnelsen av innholdet. Mellomromstegn er inkludert for treff i midten av innholdet.
+**Mellomrom** Mellomromstegn på begynnelsen av en søkefrase fjernes for treff ved begynnelsen av innholdet. Mellomromstegn er inkludert for treff i midten av innholdet.

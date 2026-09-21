@@ -61,6 +61,6 @@ _Dette dokumentet er ikke i samsvar med [navnekonvensjonen](https://support.cate
 Dette kan være av to grunner.
 
 1. Revisjonens filnavn samsvarer ikke med det forventede filnavnet for [navnekonvensjonen](https://support.catenda.com/en/articles/7832559-naming-conventions-page).
-1. Revisjonens filnavn samsvarer ikke med det forventede dokumentresultatet i henhold til [navnekonvensjonen](https://support.catenda.com/en/articles/7832559-naming-conventions-page).
+2. Revisjonens filnavn samsvarer ikke med det forventede dokumentresultatet i henhold til [navnekonvensjonen](https://support.catenda.com/en/articles/7832559-naming-conventions-page).
 
 For å fortsette å lære om [navnekonvensjoner](https://support.catenda.com/en/articles/7832559-naming-conventions-page), sjekk ut disse artiklene: [Medium navnekonvensjon](https://support.catenda.com/en/articles/7936943-medium-naming-convention) [Avansert navnekonvensjon](https://support.catenda.com/en/articles/7936947-advanced-naming-convention)
