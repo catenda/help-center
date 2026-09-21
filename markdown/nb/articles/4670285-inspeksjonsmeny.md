@@ -1,10 +1,10 @@
 # Inspeksjonsmeny
 
-Inspeksjonsmenyen finner du som den første menyen i [informasjonspanelet](https://support.catenda.com/en/articles/8238584-information-panel).
+Inspeksjonsmenyen finner du som den første menyen i [informasjonspanelet](https://support.catenda.com/nb/articles/8238584-information-panel).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/01-intro.png)
 
-Velg et objekt i [3D-visningen](https://support.catenda.com/en/articles/8227211-3d-viewer) eller [trepanelet](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) for å komme i gang. Egenskapene og relatert informasjon vises i inspeksjonsmenyen. Etter at du har valgt et objekt, kan inspeksjonspanelet se slik ut:
+Velg et objekt i [3D-visningen](https://support.catenda.com/nb/articles/8227211-3d-viewer) eller [trepanelet](https://intercom.help/bimsync-arena/nb/articles/4670290-trees-panel) for å komme i gang. Egenskapene og relatert informasjon vises i inspeksjonsmenyen. Etter at du har valgt et objekt, kan inspeksjonspanelet se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/02-intro.png)
 
@@ -32,7 +32,7 @@ GUID-koden for objektet. Denne koden er unik for hvert objekt og kan brukes til 
 
 ### 1.5 **Type**
 
-Typen på objektet. Hver type har sin egen unike GUID. To objekter som ser ut til å ha samme type kan derfor faktisk ha forskjellige typer med forskjellige GUID-er knyttet til dem. Klikk på typen for å velge alle objekter av den typen. Når du gjør det, aktiveres typetræet i [trepanelet](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) hvor du kan se typen du har valgt i listen over typer for den modellen.
+Typen på objektet. Hver type har sin egen unike GUID. To objekter som ser ut til å ha samme type kan derfor faktisk ha forskjellige typer med forskjellige GUID-er knyttet til dem. Klikk på typen for å velge alle objekter av den typen. Når du gjør det, aktiveres typetræet i [trepanelet](https://intercom.help/bimsync-arena/nb/articles/4670290-trees-panel) hvor du kan se typen du har valgt i listen over typer for den modellen.
 
 ### 1.6 **Forhåndsdefinert type**
 
@@ -40,7 +40,7 @@ Den forhåndsdefinerte typen forteller deg hva slags type du har med å gjøre
 
 ### 1.7 **Omslutning**
 
-Hvis objektet ditt er del av et hierarki, vil du se den overordnede noden i hierarkiet her. Klikk på den overordnede noden for å velge alle objekter som er inneholdt av den overordnede noden. Når du gjør det, aktiveres omslutningstreet i [trepanelet](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) hvor du kan se omslutningsnoden i hierarkiet for objektene i modellen din.
+Hvis objektet ditt er del av et hierarki, vil du se den overordnede noden i hierarkiet her. Klikk på den overordnede noden for å velge alle objekter som er inneholdt av den overordnede noden. Når du gjør det, aktiveres omslutningstreet i [trepanelet](https://intercom.help/bimsync-arena/nb/articles/4670290-trees-panel) hvor du kan se omslutningsnoden i hierarkiet for objektene i modellen din.
 
 ## 2. **Linjeføringer**
 
@@ -52,11 +52,11 @@ Slik kan tabellen for linjeføringer se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/04-alignments.png)
 
-Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) for å lese mer om tabeller på Catenda
+Klikk [her](https://support.catenda.com/nb/articles/11748020-tables-on-catenda) for å lese mer om tabeller på Catenda
 
 ## 3. **Saker**
 
-I sakesmenyen kan du se om det er noen åpne eller lukkede saker som er [knyttet til](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_758f17abbc) de valgte objektene. Sakesmenyen kan se slik ut:
+I sakesmenyen kan du se om det er noen åpne eller lukkede saker som er [knyttet til](https://support.catenda.com/nb/articles/8053299-right-menu-in-a-topic#h_758f17abbc) de valgte objektene. Sakesmenyen kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/05-topics.png)
 
@@ -124,7 +124,7 @@ Her finner du materialene som de valgte objektene har felles
 
 ## 5. **Bibliotek**
 
-Hvis de valgte objektene er [koblet til noen dokumenter](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document#h_d0769e55eb) eller bibliotekelementer, vil du kunne se dem her. Biblioteksmenyen kan se slik ut:
+Hvis de valgte objektene er [koblet til noen dokumenter](https://support.catenda.com/nb/articles/8302244-right-menu-in-a-document#h_d0769e55eb) eller bibliotekelementer, vil du kunne se dem her. Biblioteksmenyen kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/10-libraries.png)
 

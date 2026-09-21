@@ -1,6 +1,6 @@
 # Messebene
 
-Das Tool zum Erstellen einer Messebene finden Sie im 3D-Viewer [Tool-Dropdown](https://support.catenda.com/en/articles/8227211-3d-viewer#h_003a4c0a62), das ist die dritte Schaltfläche oben rechts im [3D-Viewer](https://support.catenda.com/en/articles/8227211-3d-viewer).
+Das Tool zum Erstellen einer Messebene finden Sie im 3D-Viewer [Tool-Dropdown](https://support.catenda.com/de/articles/8227211-3d-viewer#h_003a4c0a62), das ist die dritte Schaltfläche oben rechts im [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer).
 
 ## 1. **Messebene erstellen**
 

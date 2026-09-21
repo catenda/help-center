@@ -1,6 +1,6 @@
 # Last opp en zip / filstruktur
 
-Sammenlignet med å laste opp en vanlig zip-fil, vil funksjonen for opplasting av zip pakke ut en zip. På denne måten kan du importere en filstruktur til [dokumentsiden](https://support.catenda.com/en/articles/8204673-documents-page#h_28610e1d21) uten å måtte opprette mapper manuelt.
+Sammenlignet med å laste opp en vanlig zip-fil, vil funksjonen for opplasting av zip pakke ut en zip. På denne måten kan du importere en filstruktur til [dokumentsiden](https://support.catenda.com/nb/articles/8204673-documents-page#h_28610e1d21) uten å måtte opprette mapper manuelt.
 
 Funksjonen Last opp zip finnes i handlingsmenyen til høyre for den grønne + knappen øverst til høyre på Dokumenter-siden.
 
@@ -108,4 +108,4 @@ Slik kan høyremeny for zip-importsiden for en fullført zip-import se ut:
 
 ## 7. **Skrivebordskontakt**
 
-Med [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) kan du automatisk, med jevne mellomrom, laste opp de nyeste versjonene av dokumenter fra det lokale systemet ditt til Catenda Hub. Desktop Connector er både raskere enn den vanlige opplastingsprosessen og minimerer risikoen for feil ved å laste opp dokumenter fil for fil i stedet for i en stor drag-and-drop eller zip-opplastingsbatch.
+Med [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) kan du automatisk, med jevne mellomrom, laste opp de nyeste versjonene av dokumenter fra det lokale systemet ditt til Catenda Hub. Desktop Connector er både raskere enn den vanlige opplastingsprosessen og minimerer risikoen for feil ved å laste opp dokumenter fil for fil i stedet for i en stor drag-and-drop eller zip-opplastingsbatch.

@@ -61,7 +61,7 @@ We raden u aan deze nieuwe domeinnaam te gebruiken. U zou geen problemen moeten 
   - Tekla-plugin
     - [`https://tekla.plugins.catenda.com`](https://tekla.plugins.catenda.com)
     - [`https://tekla.plugins.bimsync.com`](https://tekla.plugins.bimsync.com)
-- Voor gebruik van plugins en integraties die topics gebruiken die [hier](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) worden vermeld
+- Voor gebruik van plugins en integraties die topics gebruiken die [hier](https://support.catenda.com/nl/articles/8396532-catenda-plugins-and-integrations) worden vermeld
   - [`https://bcf.bimsync.com/`](https://bcf.bimsync.com/)
   - [`https://opencde.bimsync.com/`](https://opencde.bimsync.com/)
 

@@ -1,6 +1,6 @@
 # Dokumentvorschau-Tools - Gummistempel
 
-Das Gummistempel-Tool befindet sich im [Menü "Einfügen"](https://support.catenda.com/en/articles/11384618-document-preview-tools#h_34b84f09b9) der Symbolleiste der Dokumentvorschau und kann etwa so aussehen:
+Das Gummistempel-Tool befindet sich im [Menü "Einfügen"](https://support.catenda.com/de/articles/11384618-document-preview-tools#h_34b84f09b9) der Symbolleiste der Dokumentvorschau und kann etwa so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bp0tzcba/01-intro.png)
 

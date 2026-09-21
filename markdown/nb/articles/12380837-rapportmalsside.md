@@ -2,7 +2,7 @@
 
 > **Notat 1:** Rapportsiden er en valgfri funksjon som kan aktiveres for pågående prosjekter. **Notat 2:** Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert.
 
-Rapportmalsiden finnes som en underside av [rapportsiden](https://support.catenda.com/en/articles/12303098-reports-page) i den venstre navigasjonsmenyen. På rapportmalsiden kan dokument- og sakskmaler som er tilgjengelige for prosjektet administreres. _Nødvendig tilgang:_ Administrator
+Rapportmalsiden finnes som en underside av [rapportsiden](https://support.catenda.com/nb/articles/12303098-reports-page) i den venstre navigasjonsmenyen. På rapportmalsiden kan dokument- og sakskmaler som er tilgjengelige for prosjektet administreres. _Nødvendig tilgang:_ Administrator
 
 Dette er hvordan rapportmalsiden kan se ut:
 
@@ -36,7 +36,7 @@ Så snart en rapportmal opprettes, vises den som en rad i rapportmaltabellen. De
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/04-report-templates-table.png)
 
-Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda.
+Klikk [her](https://support.catenda.com/nb/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda.
 
 ### 3.1 **Radinnhold**
 

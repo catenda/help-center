@@ -45,7 +45,7 @@ In [voorkeuren](https://bimsync.com/account/preferences) kunt u:
 
 ### 2.1 **Taal**
 
-[Wijzig de taal](https://support.catenda.com/en/articles/4670248-changing-to-your-preferred-language) van Catenda Hub
+[Wijzig de taal](https://support.catenda.com/nl/articles/4670248-changing-to-your-preferred-language) van Catenda Hub
 
 ### 2.2 **Datum en tijd**
 
@@ -57,9 +57,9 @@ In [authenticatie](https://bimsync.com/account/authentication) kunt u:
 
 1. Uw wachtwoord wijzigen
 
-   Klik [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) voor probleemoplossing bij wachtwoorden
+   Klik [hier](https://support.catenda.com/nl/articles/10798891-sign-in-and-passwords) voor probleemoplossing bij wachtwoorden
 
-2. [MFA inschakelen en uitschakelen.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
+2. [MFA inschakelen en uitschakelen.](https://support.catenda.com/nl/articles/4969891-multi-factor-authentication)
 
 ![Bepaal hoe u inlogt](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/07-authentication.png)
 
@@ -83,6 +83,6 @@ Elke API-applicatie is verbonden met een Catenda-account. De configuratie van de
 
 ### 4.2 **Applicaties met toegang tot uw account**
 
-Applicaties waaraan toegang tot het account is verleend, worden weergegeven. Klik [hier](https://support.catenda.com/en/articles/8396532-catenda-connections) om te zien welke applicaties kunnen worden verbonden.
+Applicaties waaraan toegang tot het account is verleend, worden weergegeven. Klik [hier](https://support.catenda.com/nl/articles/8396532-catenda-connections) om te zien welke applicaties kunnen worden verbonden.
 
 **Toegang intrekken** Klik op Toegang intrekken om de toegang die aan die applicatie is verleend, in te trekken. Daarna moet de toegang opnieuw worden verleend om die applicatie met dit account te blijven gebruiken. Afhankelijk van de applicatie kan deze de gebruiker vragen opnieuw toegang te verlenen of kan deze een fout geven en niet om nieuwe toegang vragen. Afmelden en opnieuw aanmelden helpt in dit geval vaak de verbinding opnieuw in te stellen.

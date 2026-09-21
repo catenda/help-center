@@ -1,6 +1,6 @@
 # Gebruikerspagina - Organisatietool
 
-U kunt de gebruikerspagina vinden als een subpagina van uw [organisatieprofiel](https://support.catenda.com/en/articles/8497478-organization-profile-page). _Vereiste toegang:_ Organisatieeigenaar
+U kunt de gebruikerspagina vinden als een subpagina van uw [organisatieprofiel](https://support.catenda.com/nl/articles/8497478-organization-profile-page). _Vereiste toegang:_ Organisatieeigenaar
 
 Hier ziet u een overzicht van alle gebruikers die deel uitmaken van deze organisatie.
 
@@ -84,7 +84,7 @@ Verwijder de geselecteerde leden uit de organisatie
 
 Hier ziet u een lijst met gebruikers die deel uitmaken van uw organisatie.
 
-> **Opmerking:** dit zijn niet alle gebruikers die deel uitmaken van projecten die tot uw organisatie behoren. Gebruikers die deel uitmaken van projecten vindt u op de [pagina voor projectlidmaatschap](https://support.catenda.com/en/articles/9003642-members-page-in-organization-tool).
+> **Opmerking:** dit zijn niet alle gebruikers die deel uitmaken van projecten die tot uw organisatie behoren. Gebruikers die deel uitmaken van projecten vindt u op de [pagina voor projectlidmaatschap](https://support.catenda.com/nl/articles/9003642-members-page-in-organization-tool).
 
 ### 5.1 **Selectievakje**
 

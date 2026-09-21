@@ -1,14 +1,14 @@
 # Corps du sujet - Le contenu d'un sujet
 
-Sélectionnez un sujet dans une [Liste de sujets](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) pour ouvrir la page du sujet. Voici ce que la [bannière du sujet](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) sur la page du sujet peut ressembler :
+Sélectionnez un sujet dans une [Liste de sujets](https://support.catenda.com/fr/articles/4670271-issues-page#h_6a5895256b) pour ouvrir la page du sujet. Voici ce que la [bannière du sujet](https://support.catenda.com/fr/articles/7986346-topic-banner-navigating-topics) sur la page du sujet peut ressembler :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/01-intro.png)
 
-Voici ce que l'[en-tête du sujet](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) peut ressembler :
+Voici ce que l'[en-tête du sujet](https://support.catenda.com/fr/articles/8400566-topic-header-the-subject-of-a-topic) peut ressembler :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/02-intro.png)
 
-Décrit dans cet article, le corps du sujet avec la description et les commentaires se trouve sous l'en-tête du sujet. Cliquez sur l'icône d'information vers la droite dans la bannière du sujet pour afficher le [menu des éléments associés](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic) vers la droite de l'en-tête et du corps.
+Décrit dans cet article, le corps du sujet avec la description et les commentaires se trouve sous l'en-tête du sujet. Cliquez sur l'icône d'information vers la droite dans la bannière du sujet pour afficher le [menu des éléments associés](https://support.catenda.com/fr/articles/8053299-right-menu-in-a-topic) vers la droite de l'en-tête et du corps.
 
 Le corps du sujet décrit dans cet article se trouve sous l'en-tête et à gauche du panneau d'informations de droite :
 
@@ -22,11 +22,11 @@ La barre de progression apparaît vers le haut du corps du sujet si des cases à
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/04-progress-bar.png)
 
-La barre de progression affiche la progression des cases à cocher cochées et des sujets résolus dans la description du sujet. Pour un court tutoriel vidéo sur les listes de contrôle, consultez [ici](https://support.catenda.com/en/articles/5036461-check-lists-within-issues)
+La barre de progression affiche la progression des cases à cocher cochées et des sujets résolus dans la description du sujet. Pour un court tutoriel vidéo sur les listes de contrôle, consultez [ici](https://support.catenda.com/fr/articles/5036461-check-lists-within-issues)
 
 ## 2. **Description**
 
-La description du sujet suit les [règles générales de formatage des publications](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+La description du sujet suit les [règles générales de formatage des publications](https://support.catenda.com/fr/articles/8430847-formatting-of-posts).
 
 ### 2.1 **Modifier la description**
 
@@ -40,7 +40,7 @@ Voici ce qu'une description peut ressembler lorsqu'elle est en cours de modifica
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/06-edit-description.png)
 
-Pour plus d'informations sur les options de formatage, modifiez la description et cliquez sur le point d'interrogation. Les descriptions suivent les règles générales de [formatage des publications](https://support.catenda.com/en/articles/8430847-formatting-of-posts) sur Catenda.
+Pour plus d'informations sur les options de formatage, modifiez la description et cliquez sur le point d'interrogation. Les descriptions suivent les règles générales de [formatage des publications](https://support.catenda.com/fr/articles/8430847-formatting-of-posts) sur Catenda.
 
 ## 3. **Informations sur le sujet**
 
@@ -50,11 +50,11 @@ Les informations sur le sujet se trouvent sous la description. Voici ce que les 
 
 ### 3.1 **Créé par**
 
-Le créateur du sujet et l'heure de sa création. Pour obtenir une heure plus spécifique, accédez aux [paramètres du compte](https://support.catenda.com/en/articles/6880968-account-page#h_4aa257b72f).
+Le créateur du sujet et l'heure de sa création. Pour obtenir une heure plus spécifique, accédez aux [paramètres du compte](https://support.catenda.com/fr/articles/6880968-account-page#h_4aa257b72f).
 
 ### 3.2 **Afficher l'historique**
 
-L'historique du sujet peut être consulté en cliquant sur le bouton afficher l'historique vers le bas à droite de la description du sujet. Consultez [cet article](https://support.catenda.com/en/articles/8613038-topic-history) pour voir quel historique de sujet est possible de voir sur Catenda Hub.
+L'historique du sujet peut être consulté en cliquant sur le bouton afficher l'historique vers le bas à droite de la description du sujet. Consultez [cet article](https://support.catenda.com/fr/articles/8613038-topic-history) pour voir quel historique de sujet est possible de voir sur Catenda Hub.
 
 ### 3.3 **Tri**
 
@@ -90,7 +90,7 @@ Cliquez sur Masquer les modifications vers le bas à droite pour masquer à nouv
 
 ### 4.2 **Commentaire**
 
-Le texte des commentaires suit les [règles générales de formatage des publications](https://support.catenda.com/en/articles/8430847-formatting-of-posts) avec une légère différence en ce qui concerne les listes de contrôle.
+Le texte des commentaires suit les [règles générales de formatage des publications](https://support.catenda.com/fr/articles/8430847-formatting-of-posts) avec une légère différence en ce qui concerne les listes de contrôle.
 
 **Fenêtre contextuelle de pièce jointe** Cliquez avec le bouton gauche sur l'image d'une pièce jointe pour ouvrir la fenêtre contextuelle de l'image.
 
@@ -122,7 +122,7 @@ Cliquez sur le bouton plus à côté du champ de commentaire pour ajouter une Ca
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/13-2d-or-3d-snapshots.png)
 
-Les Captures 2D ont les mêmes boutons mais avec une image de la Visionneuse 2D jointe. Cliquez [ici](https://support.catenda.com/en/articles/10345863-snapshots) pour en savoir plus sur la configuration de la Capture
+Les Captures 2D ont les mêmes boutons mais avec une image de la Visionneuse 2D jointe. Cliquez [ici](https://support.catenda.com/fr/articles/10345863-snapshots) pour en savoir plus sur la configuration de la Capture
 
 ### 4.5 **Annotation**
 
@@ -130,9 +130,9 @@ Suivez les annotations sur les documents en créant une Annotation. Lorsqu'une A
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/14-markup.png)
 
-Lorsqu'une Annotation est ajoutée à un sujet, le document sur lequel les annotations ont été créées est automatiquement lié dans les [documents associés](https://support.catenda.com/en/articles/7986346-issue-content#h_be2f2bcf3b).
+Lorsqu'une Annotation est ajoutée à un sujet, le document sur lequel les annotations ont été créées est automatiquement lié dans les [documents associés](https://support.catenda.com/fr/articles/7986346-issue-content#h_be2f2bcf3b).
 
-**Commentaire d'Annotation** Le commentaire d'annotation suit les [règles générales de formatage des publications](https://support.catenda.com/en/articles/8430847-formatting-of-posts) avec une légère différence en ce qui concerne les listes de contrôle.
+**Commentaire d'Annotation** Le commentaire d'annotation suit les [règles générales de formatage des publications](https://support.catenda.com/fr/articles/8430847-formatting-of-posts) avec une légère différence en ce qui concerne les listes de contrôle.
 
 **Capture d'Annotation** Les informations suivantes peuvent être vues dans une Capture d'Annotation : Une capture d'écran de la zone du document où les annotations ont été créées. _Accès requis :_ Accès en lecture à la Liste de sujets
 
@@ -159,7 +159,7 @@ Voici ce qu'un brouillon d'un nouveau commentaire peut ressembler avant la soumi
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/15-new-comment.png)
 
-**Boîte de texte** Écrivez un commentaire dans la boîte de texte à côté du bouton plus. Mentionnez les Membres en tapant @name ou créez un lien vers d'autres Sujets en tapant #link. Le texte soumis dans la boîte de texte d'un commentaire suit les [règles générales de formatage des publications](https://support.catenda.com/en/articles/8430847-formatting-of-posts) sur Catenda. Collez à la fois du texte et des images à partir du presse-papiers pour les joindre au nouveau commentaire.
+**Boîte de texte** Écrivez un commentaire dans la boîte de texte à côté du bouton plus. Mentionnez les Membres en tapant @name ou créez un lien vers d'autres Sujets en tapant #link. Le texte soumis dans la boîte de texte d'un commentaire suit les [règles générales de formatage des publications](https://support.catenda.com/fr/articles/8430847-formatting-of-posts) sur Catenda. Collez à la fois du texte et des images à partir du presse-papiers pour les joindre au nouveau commentaire.
 
 **Bouton plus** Cliquez sur le bouton plus pour ajouter une Capture 3D, une Capture 2D ou une image au brouillon d'un nouveau commentaire.
 

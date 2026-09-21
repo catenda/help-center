@@ -1,6 +1,6 @@
 # Revisie toevoegen aan beoordelingsaanvraag
 
-Beoordelingsaanvragen zijn zichtbaar in projecten waar gedeelde revisies na 2 oktober 2025 zijn ingeschakeld. Wanneer gedeelde revisies zijn ingeschakeld, worden alle nieuwe revisies geüpload als gedeelde revisies. Gedeelde revisies kunnen aan een beoordelingsaanvraag worden toegevoegd door op de knop revisie toevoegen te klikken in de [beoordelingsaanvraag maken dialoog](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) en door op de knop revisie toevoegen in een concept-beoordeling te klikken. Dit is hoe de dialoog revisie toevoegen aan beoordelingsaanvraag die wordt geopend er kan uitzien voor projecten die gedeelde revisies na hebben ingeschakeld
+Beoordelingsaanvragen zijn zichtbaar in projecten waar gedeelde revisies na 2 oktober 2025 zijn ingeschakeld. Wanneer gedeelde revisies zijn ingeschakeld, worden alle nieuwe revisies geüpload als gedeelde revisies. Gedeelde revisies kunnen aan een beoordelingsaanvraag worden toegevoegd door op de knop revisie toevoegen te klikken in de [beoordelingsaanvraag maken dialoog](https://support.catenda.com/nl/articles/12360159-creating-a-new-approval-request) en door op de knop revisie toevoegen in een concept-beoordeling te klikken. Dit is hoe de dialoog revisie toevoegen aan beoordelingsaanvraag die wordt geopend er kan uitzien voor projecten die gedeelde revisies na hebben ingeschakeld
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qk34ake7/01-intro.png)
 
@@ -18,7 +18,7 @@ Door op de filterknop te klikken verschijnt een paneel aan de linkerkant. Vink d
 
 ### 1.2 Opgeslagen filters
 
-Klik [hier](https://support.catenda.com/en/articles/8551755-saving-filters) om meer te weten te komen over het opslaan van een reeks filters
+Klik [hier](https://support.catenda.com/nl/articles/8551755-saving-filters) om meer te weten te komen over het opslaan van een reeks filters
 
 ### 1.3 Filters
 
@@ -44,7 +44,7 @@ Is geen model Gedeelde revisies in documenten in de huidige map en submappen die
 
 **Revisie gemaakt door** Gedeelde revisies in documenten in de huidige map en submappen gemaakt door \<username>. Het getal achter het filter geeft het aantal gedeelde revisies in documenten in de huidige map en submappen per gebruiker aan.
 
-**Datumfilters** Klik op datums selecteren om datums te selecteren waartussen u wilt zoeken Klik [hier](https://support.catenda.com/en/articles/6511685-date-filter) om meer te weten te komen over het datumfilter.
+**Datumfilters** Klik op datums selecteren om datums te selecteren waartussen u wilt zoeken Klik [hier](https://support.catenda.com/nl/articles/6511685-date-filter) om meer te weten te komen over het datumfilter.
 
 **Labelgroep** Documenten met gedeelde revisies met labels op labelnaam binnen een labelgroep. Het getal achter het filter geeft het aantal documenten met gedeelde revisies in documenten waar het label in de huidige map en submappen wordt toegepast.
 
@@ -60,7 +60,7 @@ Dit is hoe de revisiestabel toevoegen er kan uitzien
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qk34ake7/03-add-revision-table.png)
 
-Klik [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) om meer te weten te komen over het werken met tabellen in Catenda.
+Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) om meer te weten te komen over het werken met tabellen in Catenda.
 
 ### 2.1 Rij inhoud
 

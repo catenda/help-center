@@ -4,7 +4,7 @@ Dans le titre de cet article, il peut sembler y avoir une faute de frappe avec u
 
 ## 1. **Listes de lecture**
 
-Cliquez [ici](https://support.catenda.com/en/articles/11059986-interacting-with-guide-playlists) pour en savoir plus sur la façon d'interagir avec les listes de lecture de guide sur Guidde et comment regarder la vidéo dans la langue de votre choix.
+Cliquez [ici](https://support.catenda.com/fr/articles/11059986-interacting-with-guide-playlists) pour en savoir plus sur la façon d'interagir avec les listes de lecture de guide sur Guidde et comment regarder la vidéo dans la langue de votre choix.
 
 ### 1.1 **Tutoriels Catenda Hub - [Liste de lecture](https://eu.guidde.com/playbooks/playlist/qicnEaFjpt2gUXmNcAxWcU?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 

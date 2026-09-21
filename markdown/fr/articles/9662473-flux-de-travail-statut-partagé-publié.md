@@ -48,4 +48,4 @@ Les droits d'accès peuvent être définis lors de la publication des révisions
 
 > **Remarque :** Veuillez informer les membres de votre projet de ces modifications lorsque vous activez cette fonctionnalité sur les projets existants.
 
-Cliquez [ici](https://support.catenda.com/en/articles/12289689-status-workflow-api-updates) pour en savoir plus sur les modifications de l'API
+Cliquez [ici](https://support.catenda.com/fr/articles/12289689-status-workflow-api-updates) pour en savoir plus sur les modifications de l'API

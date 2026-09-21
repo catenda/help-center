@@ -2,9 +2,9 @@
 
 > Connectez Catenda à votre outil préféré
 
-> **Conseil :** Trouvez l'[étape 5](https://support.catenda.com/en/articles/10576182-step-5-topics) dans [Démarrage](https://support.catenda.com/en/collections/2657208-getting-started) sur le centre d'aide ou dans le menu d'aide.
+> **Conseil :** Trouvez l'[étape 5](https://support.catenda.com/fr/articles/10576182-step-5-topics) dans [Démarrage](https://support.catenda.com/fr/collections/2657208-getting-started) sur le centre d'aide ou dans le menu d'aide.
 
-## 1. **([télécharger les liens](https://support.catenda.com/en/articles/8396532-catenda-connections))
+## 1. **([télécharger les liens](https://support.catenda.com/fr/articles/8396532-catenda-connections))
 
 ## 2. **Bureau Connecteur**
 
@@ -32,6 +32,6 @@
 - Localisez les objets clash dans Revit
 - Créer des sujets BCF (2D et 3D) dans Revit
 
-_Lectures complémentaires :_ [Catenda Connections](https://support.catenda.com/en/articles/8396532-catenda-connections), [Bureau Connecteur](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/en/articles/5085987-catenda-hub-navisworks-plugin), [Revit](https://support.catenda.com/en/articles/4670334-catenda-hub-revit-plugin)
+_Lectures complémentaires :_ [Catenda Connections](https://support.catenda.com/fr/articles/8396532-catenda-connections), [Bureau Connecteur](https://support.catenda.com/fr/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/fr/articles/5085987-catenda-hub-navisworks-plugin), [Revit](https://support.catenda.com/fr/articles/4670334-catenda-hub-revit-plugin)
 
-> **Remarque :** Trouvez la [première étape](https://support.catenda.com/en/articles/9030303-step-1-account-setup) dans [Démarrage](https://support.catenda.com/en/collections/2657208-getting-started) sur le centre d'aide ou dans le menu d'aide.
+> **Remarque :** Trouvez la [première étape](https://support.catenda.com/fr/articles/9030303-step-1-account-setup) dans [Démarrage](https://support.catenda.com/fr/collections/2657208-getting-started) sur le centre d'aide ou dans le menu d'aide.

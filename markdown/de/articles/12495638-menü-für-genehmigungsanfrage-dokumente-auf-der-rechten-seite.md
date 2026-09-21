@@ -1,6 +1,6 @@
 # Menü für Genehmigungsanfrage-Dokumente auf der rechten Seite
 
-Dieser Artikel enthält Informationen zu den folgenden Themen: _[Wird überprüft](#h_b398f04f49) - [Schrittsübersicht](#h_be2d5b96e1)_ Das rechte Menü kann durch Auswahl von Dokumenten in der [Registerkarte Dokumente](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request) auf einer Genehmigungsanfrage-Seite geöffnet werden. Je nachdem, ob Sie ein Dokument oder mehrere Dokumente auswählen, sieht das Menü unterschiedlich aus.
+Dieser Artikel enthält Informationen zu den folgenden Themen: _[Wird überprüft](#h_b398f04f49) - [Schrittsübersicht](#h_be2d5b96e1)_ Das rechte Menü kann durch Auswahl von Dokumenten in der [Registerkarte Dokumente](https://support.catenda.com/de/articles/12495130-documents-tab-in-an-approval-request) auf einer Genehmigungsanfrage-Seite geöffnet werden. Je nachdem, ob Sie ein Dokument oder mehrere Dokumente auswählen, sieht das Menü unterschiedlich aus.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dmdyh23e/01-intro.png)
 

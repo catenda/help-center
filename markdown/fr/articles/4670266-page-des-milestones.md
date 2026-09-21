@@ -1,6 +1,6 @@
 # Page des milestones
 
-La page des milestones se trouve en tant que sous-page de la [page des topics](https://support.catenda.com/en/articles/4670271-topics-page). Sur la page des milestones, vous pourrez voir quels milestones sont disponibles dans le projet.
+La page des milestones se trouve en tant que sous-page de la [page des topics](https://support.catenda.com/fr/articles/4670271-topics-page). Sur la page des milestones, vous pourrez voir quels milestones sont disponibles dans le projet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/01-intro.png)
 

@@ -12,7 +12,7 @@ Visning av en gjennomgangsforespørsel og interaksjon med dens innhold finner st
 
 ### 1.1 **1.1 Gjennomgangsside (listevisning)**
 
-Viser oversiktslisten over gjennomgangsforespørselskort. Detaljerte regler for forespørselsynlighet på denne siden styres av teamrolleoppdrag som forklart i artikkelen [Gjennomgangsside Synlighet og Teamroller](https://support.catenda.com/en/articles/12495047-approvals-page).
+Viser oversiktslisten over gjennomgangsforespørselskort. Detaljerte regler for forespørselsynlighet på denne siden styres av teamrolleoppdrag som forklart i artikkelen [Gjennomgangsside Synlighet og Teamroller](https://support.catenda.com/nb/articles/12495047-approvals-page).
 
 ### 1.2 **1.2 Gjennomgangsinnholdside**
 

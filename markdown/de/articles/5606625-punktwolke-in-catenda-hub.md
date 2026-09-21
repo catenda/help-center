@@ -4,7 +4,7 @@
 
 > **Hinweis:** Laden Sie eine Beispieldatei von [hier](https://drive.google.com/file/d/1G8U916oihDl5qHrTfQaVHxDeLsbq1ulG/view?usp=sharing) herunter.
 
-Punktwolkendatensätze (PC) können in Catenda Hub visualisiert werden. Einzelne PC können im Dokumentbereich in der Vorschau angezeigt werden. Mehrere PC können in den [3D-Viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) geladen werden. Im 3D-Viewer können PC zusammen mit anderen 3D-Dokumentformaten wie IFC-Modellen und GML-Dateien angezeigt werden.
+Punktwolkendatensätze (PC) können in Catenda Hub visualisiert werden. Einzelne PC können im Dokumentbereich in der Vorschau angezeigt werden. Mehrere PC können in den [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer) geladen werden. Im 3D-Viewer können PC zusammen mit anderen 3D-Dokumentformaten wie IFC-Modellen und GML-Dateien angezeigt werden.
 
 Nachfolgend finden Sie verschiedene Einstellungen zur Anzeige Ihrer Daten:
 
@@ -21,7 +21,7 @@ PC kann wie jedes andere Dokument im Dokumentbereich hochgeladen werden. Für di
 
 ### 1.1 **Hochladen von PC-Daten**
 
-Es wird empfohlen, den [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) zu verwenden oder Ihre PC-Datei in einen gezippten Ordner zu komprimieren und den [zip-Import](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) zum Hochladen Ihrer PC zu verwenden. Diese Methoden sparen Ihnen Zeit, da die Uploaddateigröße kleiner wird und das Risiko eines Netzwerkfehlers minimiert wird, da die Datei schneller hochgeladen wird
+Es wird empfohlen, den [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) zu verwenden oder Ihre PC-Datei in einen gezippten Ordner zu komprimieren und den [zip-Import](https://support.catenda.com/de/articles/7945410-upload-a-zip-file-structure) zum Hochladen Ihrer PC zu verwenden. Diese Methoden sparen Ihnen Zeit, da die Uploaddateigröße kleiner wird und das Risiko eines Netzwerkfehlers minimiert wird, da die Datei schneller hochgeladen wird
 
 Nachdem Sie eine PC in den Dokumentbereich hochgeladen haben, wird die Dokumentvorschau verarbeitet. Während die Vorschau verarbeitet wird, sehen Sie einen grauen Balken am oberen Rand Ihrer Dokumentvorschau.
 
@@ -35,7 +35,7 @@ Nachdem die Vorschau verarbeitet wurde, klicken Sie auf das Dokument, um Ihre PC
 
 ### 1.2 **Gemeinsame PC-Revisionen**
 
-Wenn die [Revisionsveröffentlichung](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650) für das Projekt aktiviert wurde, wurde die Punktwolke als gemeinsame revision hochgeladen. Gemeinsame PC-Revisionen können nur im Dokumentbereich in der Vorschau angezeigt werden. Um Ihre PC im 3D-Viewer laden zu können, muss die revision veröffentlicht werden. Einzelne gemeinsame Revisionen können mit der Veröffentlichungsaktion im rechten Menü der Dokumentvorschau veröffentlicht werden. Mehrere gemeinsame Revisionen können mit der Aktion "Ausgewählte Elemente" in der Dokumentstruktur veröffentlicht werden. Wenn Sie eine revision veröffentlichen, wird die Vorschau für die veröffentlichte revision verarbeitet.
+Wenn die [Revisionsveröffentlichung](https://support.catenda.com/de/articles/9874698-revision-publishing-iso-19650) für das Projekt aktiviert wurde, wurde die Punktwolke als gemeinsame revision hochgeladen. Gemeinsame PC-Revisionen können nur im Dokumentbereich in der Vorschau angezeigt werden. Um Ihre PC im 3D-Viewer laden zu können, muss die revision veröffentlicht werden. Einzelne gemeinsame Revisionen können mit der Veröffentlichungsaktion im rechten Menü der Dokumentvorschau veröffentlicht werden. Mehrere gemeinsame Revisionen können mit der Aktion "Ausgewählte Elemente" in der Dokumentstruktur veröffentlicht werden. Wenn Sie eine revision veröffentlichen, wird die Vorschau für die veröffentlichte revision verarbeitet.
 
 ### 1.3 **Veröffentlichte PC-Überarbeitungen**
 
@@ -71,13 +71,13 @@ Nach einigen Anpassungen mit Zoom und Positionierung kann die PC-Vorschau etwa s
 
 In diesem Abschnitt werden die Einstellungen in Catenda Hub beschrieben, mit denen Sie die beste Erfahrung mit Ihrer PC erhalten.
 
-> **Hinweis:** Bevor Sie den 3D-Viewer konfigurieren, stellen Sie bitte sicher, dass die Anwendung Catenda auf der Anwendung [wie empfohlen](https://support.catenda.com/en/articles/6921941-hardware-recommendation) konfiguriert ist.
+> **Hinweis:** Bevor Sie den 3D-Viewer konfigurieren, stellen Sie bitte sicher, dass die Anwendung Catenda auf der Anwendung [wie empfohlen](https://support.catenda.com/de/articles/6921941-hardware-recommendation) konfiguriert ist.
 
 Einstellungen, die zum Konfigurieren von Punktwolken verwendet werden können, befinden sich an zwei Orten.
 
 ### 3.1 **1. Punktbudget:**
 
-Das Punktbudget kann in den [3D-Viewer-Einstellungen](https://support.catenda.com/en/articles/5784718-3d-viewer-settings) konfiguriert werden, die sich in dem Zahnradsymbol oben rechts des 3D-Viewers befinden.
+Das Punktbudget kann in den [3D-Viewer-Einstellungen](https://support.catenda.com/de/articles/5784718-3d-viewer-settings) konfiguriert werden, die sich in dem Zahnradsymbol oben rechts des 3D-Viewers befinden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/08-1-point-budget.png)
 
@@ -95,11 +95,11 @@ Im 3D-Viewer-Einstellungsmenü kann das Punktbudget von 100.000 bis 10.000.000 a
 
 ### 3.2 **2. Überarbeitungsauswahl und individuelle PC-Einstellungen:**
 
-Oben links im 3D-Viewer finden Sie die [Überarbeitungsauswahl](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project).
+Oben links im 3D-Viewer finden Sie die [Überarbeitungsauswahl](https://support.catenda.com/de/articles/4670246-accepting-an-invitation-to-join-a-project).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/12-2-revision-selector-and-individual-pc-settings.png)
 
-Im [Modellmenü](https://support.catenda.com/en/articles/4670279-revision-selector#h_180a64490d) können Sie die einzelnen [3D-Dokumente](https://support.catenda.com/en/articles/4670279-revision-selector#h_fce60074ef) finden, die Sie in den 3D-Viewer geladen haben.
+Im [Modellmenü](https://support.catenda.com/de/articles/4670279-revision-selector#h_180a64490d) können Sie die einzelnen [3D-Dokumente](https://support.catenda.com/de/articles/4670279-revision-selector#h_fce60074ef) finden, die Sie in den 3D-Viewer geladen haben.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/13-2-revision-selector-and-individual-pc-settings.png)
 
@@ -119,7 +119,7 @@ _Attribut Intensität_ Die Intensitätsoption kann verwendet werden, wenn die Pu
 
 _Punktgröße_ _Adaptiv_ - Standard Je näher ein Punkt an der Kamera ist, desto größer ist er. Punkte, die in der Ansicht sichtbar sind, werden in den Speicher geladen. Punkte, die aus der Ansicht verschwinden, werden aus dem Speicher entladen.
 
-> **Hinweis:** Stellen Sie sicher, dass die Hardware und Software, auf denen Catenda geöffnet ist, [wie empfohlen](https://support.catenda.com/en/articles/6921941-hardware-recommendation) konfiguriert sind, da dies Auswirkungen auf die Art des Ladens der Punktgröße haben kann, die Ihr Gerät bewältigen kann.
+> **Hinweis:** Stellen Sie sicher, dass die Hardware und Software, auf denen Catenda geöffnet ist, [wie empfohlen](https://support.catenda.com/de/articles/6921941-hardware-recommendation) konfiguriert sind, da dies Auswirkungen auf die Art des Ladens der Punktgröße haben kann, die Ihr Gerät bewältigen kann.
 
 **Punktgröße Feste Größe** Mit dieser Option werden Punkte, die geladen wurden, im Speicher behalten. Bei vielen Punkten werden Sie feststellen, dass die Drehung verzögert werden kann und die Bewegung verlangsamt wird, wenn Sie sich der Anzahl der Punkte nähern, die Ihr System verarbeiten kann. Sie können auch feststellen, dass es immer länger dauert, neue Punkte zu laden, wenn Sie sich dem Limit Ihres Geräts nähern. Punkte werden zuerst am nächsten zur Kamera geladen. Bevor Sie die Punktwolke aus dem Dokumentbereich laden, positionieren Sie die Kamera an der Stelle, an die Sie die Punkte laden möchten. Wenn dies eine Kameraposition ist, die Sie häufiger mit dieser Punktwolke verwenden möchten, erwägen Sie, ein Lesezeichen oder einen Schnappschuss in einem Thema zu erstellen, das Sie abspielen können, um zu dieser Position zurückzukehren.
 

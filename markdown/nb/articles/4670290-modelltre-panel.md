@@ -1,6 +1,6 @@
 # Modelltre-panel
 
-Modelltre-panelet finnes som ett av fire [prosjektpaneler](https://support.catenda.com/en/articles/13141464-project-panels) som kan åpnes øverst til høyre på skjermen.
+Modelltre-panelet finnes som ett av fire [prosjektpaneler](https://support.catenda.com/nb/articles/13141464-project-panels) som kan åpnes øverst til høyre på skjermen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5dr5qz8m/01-intro.png)
 
@@ -8,7 +8,7 @@ Modelltre-panelet finnes som ett av fire [prosjektpaneler](https://support.caten
 
 Modelltre-panelet kan åpnes side ved side med noen av de andre panelene.
 
-_Åpne_ modelltre _panel:_ Klikk på treikon eller trykk [shift+3](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=row%20of%20objects-,Shift%20%2B%203,-Control%20%2B%20left%20click)
+_Åpne_ modelltre _panel:_ Klikk på treikon eller trykk [shift+3](https://support.catenda.com/nb/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=row%20of%20objects-,Shift%20%2B%203,-Control%20%2B%20left%20click)
 
 _Isolere_ modelltre _panel:_ Åpne treepanelet Lukk alle andre åpne paneler ved å klikke på dem.
 

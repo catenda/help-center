@@ -1,6 +1,6 @@
 # 2D-Viewer - Catenda Site
 
-Den 2D-Viewer von Catenda Site finden Sie auf der [2D-/3D-Seite](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site)
+Den 2D-Viewer von Catenda Site finden Sie auf der [2D-/3D-Seite](https://support.catenda.com/de/articles/7734138-2d-3d-catenda-site)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/01-intro.png)
 
@@ -20,11 +20,11 @@ Sowohl Geschosse aus verschiedenen IFC-Modellen im Projekt als auch Geschosse au
 
 ### 1.2 **2D-Viewer-Erscheinungsbild**
 
-Mit [aktivierten Markern](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098) werden alle Themen angezeigt, die einen angegebenen Ort auf dem Geschoss eines IFC oder eines konfigurierten Gebäudes haben. Tippen Sie auf einen Marker, um ihn auszuwählen. So kann ein ausgewählter Marker auf der Catenda Site aussehen.
+Mit [aktivierten Markern](https://support.catenda.com/de/articles/4854537-2d-viewer#h_381a9d4098) werden alle Themen angezeigt, die einen angegebenen Ort auf dem Geschoss eines IFC oder eines konfigurierten Gebäudes haben. Tippen Sie auf einen Marker, um ihn auszuwählen. So kann ein ausgewählter Marker auf der Catenda Site aussehen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/04-2d-viewer-appearance.png)
 
-Wenn ausgewählt, werden die Themennummer und der Titel angezeigt. Tippen Sie auf den Pfeil, um das Thema im Themenmenü zu öffnen. Klicken Sie [hier](https://support.catenda.com/en/articles/4854523-2d-location-of-issues), um mehr über die 2D-Lage von Themen zu erfahren.
+Wenn ausgewählt, werden die Themennummer und der Titel angezeigt. Tippen Sie auf den Pfeil, um das Thema im Themenmenü zu öffnen. Klicken Sie [hier](https://support.catenda.com/de/articles/4854523-2d-location-of-issues), um mehr über die 2D-Lage von Themen zu erfahren.
 
 > **Warnung 1:** Wenn das Themenmenü geöffnet wird, werden Marker aus den ersten 250 Themen im Ergebnis aktualisiert und gespeichert. Wenn der 2D-Viewer geöffnet wird, werden Marker von zuvor aktualisierten Themen angezeigt, die dem Ergebnis im Themenmenü entsprechen. Beachten Sie, dass Marker von Themen über andere Geschosse als das aktive Geschoss verteilt sein können. **Warnung 2:** Wenn sich 250+ Themen im Themenmenü-Ergebnis befinden, wurden Marker möglicherweise nicht geladen oder sind veraltet. Scrollen Sie in der Liste nach unten, um ihre Marker anzuzeigen/zu aktualisieren. Das Filtern des Boards, damit weniger Themen im Ergebnis enthalten sind, kann auch dazu beitragen, dass Marker, die zu Themen im gefilterten Ergebnis gehören, zusätzlich aktualisiert und angezeigt werden. **Warnung 3:** Wenn Sie sich aus der Anwendung abmelden und sich erneut anmelden, geht der Verlauf darüber, welche Themen geladen wurden, verloren und Themen, die zuvor geladen wurden, müssen möglicherweise erneut geladen werden.
 

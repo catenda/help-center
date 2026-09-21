@@ -1,6 +1,6 @@
 # Filterung auf der Seite „Themen“
 
-Das Filtermenü in einem Themen-Board kann durch Klicken auf die Schaltfläche "Filter" links neben der Suchleiste in einem [Themen-Board](https://support.catenda.com/en/articles/4670271-issues-page) geöffnet werden.
+Das Filtermenü in einem Themen-Board kann durch Klicken auf die Schaltfläche "Filter" links neben der Suchleiste in einem [Themen-Board](https://support.catenda.com/de/articles/4670271-issues-page) geöffnet werden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/01-intro.png)
 
@@ -12,11 +12,11 @@ Klicken Sie oben links auf die Filterschaltfläche, um ein Bedienfeld auf der li
 
 ### 1.1 **Aktuellen Filter speichern und freigeben**
 
-Gehen Sie zur URL einer gefilterten Seite, um diese Seite mit dem angewendeten Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/en/articles/11401493-saving-a-filter-link), um mehr darüber zu erfahren, wie Sie Filter speichern und freigeben
+Gehen Sie zur URL einer gefilterten Seite, um diese Seite mit dem angewendeten Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/de/articles/11401493-saving-a-filter-link), um mehr darüber zu erfahren, wie Sie Filter speichern und freigeben
 
 ### 1.2 **Leere Filter ausblenden**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/8551755-saving-filters), um mehr über die Begrenzung der Filterergebnisse zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8551755-saving-filters), um mehr über die Begrenzung der Filterergebnisse zu erfahren.
 
 ## 2. **Filterung im Filtermenü**
 
@@ -42,7 +42,7 @@ _Überfällig_ - `due=overdue` _Alle mit Fälligkeitsdatum_ - `due=present` _Kei
 
 ### 2.4 **Aktualisiert**
 
-Mit dem Datumsfilter können Sie einen Zeitraum auswählen, in dem die Themen zuletzt aktualisiert wurden. _Aktualisiert_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Lesen Sie [diesen](https://support.catenda.com/en/articles/6511685-date-filter) Artikel, um zu erfahren, wie Sie auf der Seite einfach Daten auswählen können.
+Mit dem Datumsfilter können Sie einen Zeitraum auswählen, in dem die Themen zuletzt aktualisiert wurden. _Aktualisiert_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Lesen Sie [diesen](https://support.catenda.com/de/articles/6511685-date-filter) Artikel, um zu erfahren, wie Sie auf der Seite einfach Daten auswählen können.
 
 ### 2.5 **Zugewiesen zu / Angefordert von**
 
@@ -96,7 +96,7 @@ Wenn Sie gespeicherte Filter in einem Themen-Board haben, sind diese der erste v
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/03-saved-filters.png)
 
-Klicken Sie auf den Filter, um das Board nach dem gespeicherten Satz von Filtern zu filtern, denen ein Name gegeben wurde. Klicken Sie [hier](https://support.catenda.com/en/articles/8551755-saving-filters), um mehr darüber zu erfahren, wie Sie einen Satz von Filtern speichern.
+Klicken Sie auf den Filter, um das Board nach dem gespeicherten Satz von Filtern zu filtern, denen ein Name gegeben wurde. Klicken Sie [hier](https://support.catenda.com/de/articles/8551755-saving-filters), um mehr darüber zu erfahren, wie Sie einen Satz von Filtern speichern.
 
 ### 3.2 **Text-Suche**
 
@@ -122,7 +122,7 @@ Mitglieds- oder Teamname Suchen Sie nach dem Namen des Mitglieds oder Teams, um 
 
 Erwähntes Mitglied Suchen Sie nach der E-Mail eines Mitglieds, um alle reinen Textvorkommen dieser Mitglieds-E-Mail zu finden. Dies umfasst auch die Stellen, an denen es erwähnt wurde. Suchen Sie nach `#[<Email of member>]`, um nur die Vorkommen zu finden, an denen dieses Mitglied erwähnt wird.
 
-Erwähntes Team Erwähnte Teams können durch Suche nach der GUID dieses Teams durchsucht werden. Um die GUID eines Teams zu finden, gehen Sie zur [Seite des Teams](https://support.catenda.com/en/articles/7891755-team-page), indem Sie auf dessen Namen auf der [Registerkarte Teams der Seite Mitglieder und Teams](https://support.catenda.com/en/articles/4670291-members-and-teams-page) klicken. Die URL sollte etwa so aussehen: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
+Erwähntes Team Erwähnte Teams können durch Suche nach der GUID dieses Teams durchsucht werden. Um die GUID eines Teams zu finden, gehen Sie zur [Seite des Teams](https://support.catenda.com/de/articles/7891755-team-page), indem Sie auf dessen Namen auf der [Registerkarte Teams der Seite Mitglieder und Teams](https://support.catenda.com/de/articles/4670291-members-and-teams-page) klicken. Die URL sollte etwa so aussehen: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 

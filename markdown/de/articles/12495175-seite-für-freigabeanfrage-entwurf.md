@@ -1,6 +1,6 @@
 # Seite für Freigabeanfrage-Entwurf
 
-Freigabeanfrage-Entwürfe können durch Anklicken einer Freigabeanfrage-Entwurfskarte auf der [Seite "Freigaben"](https://support.catenda.com/en/articles/8349340-approvals-page) geöffnet werden. _Erforderlicher Zugriff:_ Ersteller der Freigabeanfrage
+Freigabeanfrage-Entwürfe können durch Anklicken einer Freigabeanfrage-Entwurfskarte auf der [Seite "Freigaben"](https://support.catenda.com/de/articles/8349340-approvals-page) geöffnet werden. _Erforderlicher Zugriff:_ Ersteller der Freigabeanfrage
 
 Dies ist ein Beispiel für die Seite einer Freigabeanfrage-Entwurf:
 
@@ -14,7 +14,7 @@ Dies ist ein Beispiel für die Aktionen auf der Freigabenseite:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/02-new-item-actions.png)
 
-Verwenden Sie die Aktion "Neue Freigabeanfrage", um eine neue Freigabeanfrage zu erstellen. Klicken Sie [hier](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request?q=draft), um mehr über das Erstellen einer neuen Freigabeanfrage zu erfahren.
+Verwenden Sie die Aktion "Neue Freigabeanfrage", um eine neue Freigabeanfrage zu erstellen. Klicken Sie [hier](https://support.catenda.com/de/articles/12495005-creating-a-new-approval-request?q=draft), um mehr über das Erstellen einer neuen Freigabeanfrage zu erfahren.
 
 ## 2. **Freigabenkopfzeile**
 
@@ -32,7 +32,7 @@ Der Workflow, der während der Erstellung dieser Freigabe ausgewählt wurde
 
 ### 2.3 **Beschreibung**
 
-Die Beschreibung der Genehmigung Die Beschreibung bleibt nach dem Absenden der Genehmigungsanfrage bearbeitbar. Die Bearbeitung ist auf die Person beschränkt, die die Genehmigungsanfrage erstellt hat, und auf Projektadministratoren. Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln von Beiträgen](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+Die Beschreibung der Genehmigung Die Beschreibung bleibt nach dem Absenden der Genehmigungsanfrage bearbeitbar. Die Bearbeitung ist auf die Person beschränkt, die die Genehmigungsanfrage erstellt hat, und auf Projektadministratoren. Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln von Beiträgen](https://support.catenda.com/de/articles/8430847-formatting-of-posts).
 
 ## 3. **Schritt-Multifunktionsleiste**
 
@@ -40,7 +40,7 @@ In der Schritt-Multifunktionsleiste wird eine Vorschau aller Schritte in einer F
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/04-step-ribbon.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-approval-request), um mehr über die Schritt-Multifunktionsleiste zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/12495212-step-ribbon-in-an-approval-request), um mehr über die Schritt-Multifunktionsleiste zu erfahren.
 
 ## 4. **Registerkarte "Dokumente"**
 

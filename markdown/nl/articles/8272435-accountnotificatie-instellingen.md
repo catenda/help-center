@@ -24,7 +24,7 @@ Klik opnieuw op de schakelaar om de notificaties weer in te schakelen.
 
 ## 2. **Selectievakjes voor notificaties**
 
-Voor elke notificatiemethode kunt u kiezen welke notificatietypen u voor die methode wilt ontvangen. Klik [hier](https://support.catenda.com/en/articles/8304417-untitled-article) om te zien wanneer elk type notificatie wordt verzonden.
+Voor elke notificatiemethode kunt u kiezen welke notificatietypen u voor die methode wilt ontvangen. Klik [hier](https://support.catenda.com/nl/articles/8304417-untitled-article) om te zien wanneer elk type notificatie wordt verzonden.
 
 ## 3. **Meldingen in browser**
 
@@ -64,4 +64,4 @@ Kopieer de URL in het veld **"Webhook URL"** hierboven. Zorg ervoor dat de notif
 
 ## 7. **Per projectmeldingen**
 
-Als u projectspecifieke notificaties hebt ingesteld, kunt u deze zien in het linkernavigatiemenu van een project. U kunt op de projectnaam klikken om naar de [projectnotificatie-instellingen](https://support.catenda.com/en/articles/4670262-project-notification-settings) voor dat project te gaan. Deze instellingen zijn specifiek voor u en zijn geen instellingen voor het gehele project.
+Als u projectspecifieke notificaties hebt ingesteld, kunt u deze zien in het linkernavigatiemenu van een project. U kunt op de projectnaam klikken om naar de [projectnotificatie-instellingen](https://support.catenda.com/nl/articles/4670262-project-notification-settings) voor dat project te gaan. Deze instellingen zijn specifiek voor u en zijn geen instellingen voor het gehele project.

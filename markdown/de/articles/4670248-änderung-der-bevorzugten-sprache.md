@@ -1,6 +1,6 @@
 # Änderung der bevorzugten Sprache
 
-Die bevorzugte Sprache kann auf der [Seite Einstellungen](https://support.catenda.com/en/articles/6880968-account-page#h_87963579a7) eines [Kontos](https://support.catenda.com/en/articles/6880968-account-page) geändert werden.
+Die bevorzugte Sprache kann auf der [Seite Einstellungen](https://support.catenda.com/de/articles/6880968-account-page#h_87963579a7) eines [Kontos](https://support.catenda.com/de/articles/6880968-account-page) geändert werden.
 
 [YouTube-Video](https://www.youtube.com/embed/fwQtOwQsTN8?rel=0)
 
@@ -8,7 +8,7 @@ Die bevorzugte Sprache kann auf der [Seite Einstellungen](https://support.catend
 
 `Profil->Konto->Einstellungen`
 
-Die Kontoseite kann immer aufgerufen werden, indem Sie auf das Profilbild oben rechts klicken und im angezeigten Menü auf Konto klicken. Suchen Sie dann im linken Navigationsmenü die [Seite Einstellungen](https://support.catenda.com/en/articles/6880968-account-page#h_87963579a7), auf der Sie die Spracheinstellung finden.
+Die Kontoseite kann immer aufgerufen werden, indem Sie auf das Profilbild oben rechts klicken und im angezeigten Menü auf Konto klicken. Suchen Sie dann im linken Navigationsmenü die [Seite Einstellungen](https://support.catenda.com/de/articles/6880968-account-page#h_87963579a7), auf der Sie die Spracheinstellung finden.
 
 ## 2. **2. Verfügbare Sprachen**
 

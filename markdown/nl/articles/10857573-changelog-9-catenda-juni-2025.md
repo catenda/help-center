@@ -16,52 +16,52 @@ Terwijl nieuwe functies worden uitgerold en bugs worden opgelost, worden artikel
 
 ### 1.1 **Nieuwe artikelen:**
 
-**Productfuncties** [Documentvoorbeeldtools](https://support.catenda.com/en/articles/11384618-document-preview-tools) [Mijlpagina](https://support.catenda.com/en/articles/11376858-milestone-page)
+**Productfuncties** [Documentvoorbeeldtools](https://support.catenda.com/nl/articles/11384618-document-preview-tools) [Mijlpagina](https://support.catenda.com/nl/articles/11376858-milestone-page)
 
-**Probleemoplossing** [Aanmelden en wachtwoorden](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) [Probleemoplossing Desktop Connector](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting) [Probleemoplossing zip-upload](https://support.catenda.com/en/articles/11017391-zip-upload-troubleshooting) [2D-viewer gebouwen en verdiepingen](https://support.catenda.com/en/articles/10901703-2d-viewer-buildings-and-storeys) [Probleemoplossing upload documentdialoogvenster](https://support.catenda.com/en/articles/11070748-upload-document-dialogue-troubleshooting) [Solibri Documents-integratieprobleemoplossing](https://support.catenda.com/en/articles/11431097-solibri-documents-integration-troubleshooting)
+**Probleemoplossing** [Aanmelden en wachtwoorden](https://support.catenda.com/nl/articles/10798891-sign-in-and-passwords) [Probleemoplossing Desktop Connector](https://support.catenda.com/nl/articles/11019637-desktop-connector-troubleshooting) [Probleemoplossing zip-upload](https://support.catenda.com/nl/articles/11017391-zip-upload-troubleshooting) [2D-viewer gebouwen en verdiepingen](https://support.catenda.com/nl/articles/10901703-2d-viewer-buildings-and-storeys) [Probleemoplossing upload documentdialoogvenster](https://support.catenda.com/nl/articles/11070748-upload-document-dialogue-troubleshooting) [Solibri Documents-integratieprobleemoplossing](https://support.catenda.com/nl/articles/11431097-solibri-documents-integration-troubleshooting)
 
-**Handleidingen en gidsen** [Guidde-video's](https://support.catenda.com/en/articles/11055278-guidde-videos)
+**Handleidingen en gidsen** [Guidde-video's](https://support.catenda.com/nl/articles/11055278-guidde-videos)
 
-**Veelgestelde vragen** [Een filterlink opslaan](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) [Veelgestelde vragen Catenda Desktop Connector](https://support.catenda.com/en/articles/11582835-catenda-desktop-connector-faq)
+**Veelgestelde vragen** [Een filterlink opslaan](https://support.catenda.com/nl/articles/11401493-saving-a-filter-link) [Veelgestelde vragen Catenda Desktop Connector](https://support.catenda.com/nl/articles/11582835-catenda-desktop-connector-faq)
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
 **Productfuncties**
 
 - Modellen
-  - [Acties modellenpagina](https://support.catenda.com/en/articles/9431936-models-page-actions)
-  - [Acties modelloversichtpagina](https://support.catenda.com/en/articles/9674157-model-overview-page-actions)
-  - [Hoeveelheid (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
+  - [Acties modellenpagina](https://support.catenda.com/nl/articles/9431936-models-page-actions)
+  - [Acties modelloversichtpagina](https://support.catenda.com/nl/articles/9674157-model-overview-page-actions)
+  - [Hoeveelheid (QTO)](https://support.catenda.com/nl/articles/6673929-quantity-take-off-qto)
 - Onderwerpen
-  - [Mijlpagina](https://support.catenda.com/en/articles/4670266-milestones-page)
+  - [Mijlpagina](https://support.catenda.com/nl/articles/4670266-milestones-page)
 - Documenten
-  - [Rechtermenu van een revisie - Revisie-informatie](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
-  - [Acties documentstructuur](https://support.catenda.com/en/articles/4670288-document-structure-actions)
-  - [Acties documentrevisie](https://support.catenda.com/en/articles/9323521-document-revision-actions)
+  - [Rechtermenu van een revisie - Revisie-informatie](https://support.catenda.com/nl/articles/8302244-right-menu-of-a-revision-revision-info)
+  - [Acties documentstructuur](https://support.catenda.com/nl/articles/4670288-document-structure-actions)
+  - [Acties documentrevisie](https://support.catenda.com/nl/articles/9323521-document-revision-actions)
   - [Documentvoorbeeld en aantekeningen](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=4496538&activeContentType=article&editorMode=view&search=document%20preview)
-  - [Kolommen op de documentenpagina](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
-  - [Revisie publiceren - ISO 19650](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650)
-  - [Een zip-/bestandsstructuur uploaden](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
-  - [Verzamelingenpagina](https://support.catenda.com/en/articles/6344318-collections-page)
+  - [Kolommen op de documentenpagina](https://support.catenda.com/nl/articles/8466850-columns-on-the-documents-page)
+  - [Revisie publiceren - ISO 19650](https://support.catenda.com/nl/articles/9874698-revision-publishing-iso-19650)
+  - [Een zip-/bestandsstructuur uploaden](https://support.catenda.com/nl/articles/7945410-upload-a-zip-file-structure)
+  - [Verzamelingenpagina](https://support.catenda.com/nl/articles/6344318-collections-page)
 - Projectinstellingen
-  - [Projectinstellingenpagina](https://support.catenda.com/en/articles/4670273-project-settings-page)
-  - [Aangepaste veldenpagina](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-  - [Leden pagina](https://support.catenda.com/en/articles/4670291-members-page)
+  - [Projectinstellingenpagina](https://support.catenda.com/nl/articles/4670273-project-settings-page)
+  - [Aangepaste veldenpagina](https://support.catenda.com/nl/articles/6550459-custom-fields-page)
+  - [Leden pagina](https://support.catenda.com/nl/articles/4670291-members-page)
 - 2D & 3D Viewers
-  - [3D-viewer gereedschapsmenu](https://support.catenda.com/en/articles/4670294-3d-viewer-tool-menu)
-  - [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)
-  - [Revisieselector](https://support.catenda.com/en/articles/4670279-revision-selector)
-  - [Puntenwolken in Catenda Hub](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
+  - [3D-viewer gereedschapsmenu](https://support.catenda.com/nl/articles/4670294-3d-viewer-tool-menu)
+  - [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer)
+  - [Revisieselector](https://support.catenda.com/nl/articles/4670279-revision-selector)
+  - [Puntenwolken in Catenda Hub](https://support.catenda.com/nl/articles/5606625-point-clouds-in-catenda-hub)
 - Catenda-plugins en integraties
-  - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
-  - [Topics-menu - Catenda Site](https://support.catenda.com/en/articles/7734073-topics-menu-catenda-site)
-  - [Solibri Models and Documents-integratie](https://support.catenda.com/en/articles/6988148-solibri-models-and-documents-integration)
+  - [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector)
+  - [Topics-menu - Catenda Site](https://support.catenda.com/nl/articles/7734073-topics-menu-catenda-site)
+  - [Solibri Models and Documents-integratie](https://support.catenda.com/nl/articles/6988148-solibri-models-and-documents-integration)
 
-**Probleemoplossing** [Aanbeveling voor hardware](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Waarom ontvang ik geen e-mails?](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) [Ondersteuningsknop locatie en functionaliteit](https://support.catenda.com/en/articles/8894066-support-button-location-and-functionality)
+**Probleemoplossing** [Aanbeveling voor hardware](https://support.catenda.com/nl/articles/6921941-hardware-recommendation) [Waarom ontvang ik geen e-mails?](https://support.catenda.com/nl/articles/8417802-why-am-i-not-receiving-emails) [Ondersteuningsknop locatie en functionaliteit](https://support.catenda.com/nl/articles/8894066-support-button-location-and-functionality)
 
-**Veelgestelde vragen** [Projectbeveiliging](https://support.catenda.com/en/articles/8263256-project-security)
+**Veelgestelde vragen** [Projectbeveiliging](https://support.catenda.com/nl/articles/8263256-project-security)
 
-Recente updates [Modellen als documenten](https://support.catenda.com/en/articles/8064548-models-as-documents)
+Recente updates [Modellen als documenten](https://support.catenda.com/nl/articles/8064548-models-as-documents)
 
 ## 2. **Bugs opgelost**
 

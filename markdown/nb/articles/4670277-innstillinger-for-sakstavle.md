@@ -1,16 +1,16 @@
 # Innstillinger for saksliste
 
-For å åpne siden for innstillinger for saksliste, må du først åpne [saker-siden](https://support.catenda.com/en/articles/4670271-topics-page).
+For å åpne siden for innstillinger for saksliste, må du først åpne [saker-siden](https://support.catenda.com/nb/articles/4670271-topics-page).
 
-Innstillingssiden for en saksliste kan finnes ved å klikke på innstillinger for en saksliste på [tavler-siden](https://support.catenda.com/en/articles/9413644-boards-page), som kan se slik ut:
+Innstillingssiden for en saksliste kan finnes ved å klikke på innstillinger for en saksliste på [tavler-siden](https://support.catenda.com/nb/articles/9413644-boards-page), som kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/01-intro.png)
 
-Innstillingssiden for saksliste for den sist besøkte sakslisten kan også finnes ved å gå til [sak-innstillingssiden](https://support.catenda.com/en/articles/14183429-topic-settings-page) og klikke på innstillinger for saksliste.
+Innstillingssiden for saksliste for den sist besøkte sakslisten kan også finnes ved å gå til [sak-innstillingssiden](https://support.catenda.com/nb/articles/14183429-topic-settings-page) og klikke på innstillinger for saksliste.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/02-intro.png)
 
-Du kan finne innstillingssiden for saksliste som en underside til [saker-siden](https://support.catenda.com/en/articles/4670271-topics-page) eller ved å klikke på innstillinger for den aktuelle sakslisten på [tavler-siden](https://support.catenda.com/en/articles/9413644-boards-page#h_e0fc8beec6). _Påkrevd tilgang:_ Full tilgang til [sakslisten](https://support.catenda.com/en/articles/4670271-topics-page)
+Du kan finne innstillingssiden for saksliste som en underside til [saker-siden](https://support.catenda.com/nb/articles/4670271-topics-page) eller ved å klikke på innstillinger for den aktuelle sakslisten på [tavler-siden](https://support.catenda.com/nb/articles/9413644-boards-page#h_e0fc8beec6). _Påkrevd tilgang:_ Full tilgang til [sakslisten](https://support.catenda.com/nb/articles/4670271-topics-page)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/03-intro.png)
 
@@ -26,15 +26,15 @@ Dette er hvordan handlingsmenyen mot øvre høyre hjørne i en saksliste kan se 
 
 ### 1.1 **Ny sak**
 
-Klikk på den grønne plusknappen eller klikk på handlingen for ny sak i handlingsmenyen for å opprette en [ny sak](https://support.catenda.com/en/articles/4670268-creating-a-new-issue) i den gjeldende sakslisten. _Påkrevd tilgang:_ Lesetilgang til den gjeldende sakslisten.
+Klikk på den grønne plusknappen eller klikk på handlingen for ny sak i handlingsmenyen for å opprette en [ny sak](https://support.catenda.com/nb/articles/4670268-creating-a-new-issue) i den gjeldende sakslisten. _Påkrevd tilgang:_ Lesetilgang til den gjeldende sakslisten.
 
 ### 1.2 **Utveksle saker**
 
-Klikk denne knappen for å [utveksle saker](https://support.catenda.com/en/articles/4670289-exchange-issues)
+Klikk denne knappen for å [utveksle saker](https://support.catenda.com/nb/articles/4670289-exchange-issues)
 
 ### 1.3 **Ny saksliste**
 
-Klikk denne knappen for å lage en [ny saksliste](https://support.catenda.com/en/articles/6379614-topic-board-from-an-existing-topic-board).
+Klikk denne knappen for å lage en [ny saksliste](https://support.catenda.com/nb/articles/6379614-topic-board-from-an-existing-topic-board).
 
 ### 1.4 **Historikk**
 
@@ -42,7 +42,7 @@ _Importhistorikk_ - Se importhistorikken for saker i prosjektet _Eksporthistorik
 
 ### 1.5 **Arkiver saksliste**
 
-Du kan ikke slette en saksliste i Catenda Hub. I stedet kan du "arkivere" den slik at den ikke vises lenger. Lenker til saker i arkiverte sakslister vil ikke være synlige i dokumenter eller objekter. Arkiverte sakslister kan gjenopprettes ved å gå til innstillingene for den arkiverte tavlen på [tavler-siden](https://support.catenda.com/en/articles/9413644-boards-page). Etter gjenoppretting av en tavle vil lenkene være synlige igjen.
+Du kan ikke slette en saksliste i Catenda Hub. I stedet kan du "arkivere" den slik at den ikke vises lenger. Lenker til saker i arkiverte sakslister vil ikke være synlige i dokumenter eller objekter. Arkiverte sakslister kan gjenopprettes ved å gå til innstillingene for den arkiverte tavlen på [tavler-siden](https://support.catenda.com/nb/articles/9413644-boards-page). Etter gjenoppretting av en tavle vil lenkene være synlige igjen.
 
 > **Merk:** Du kan se sakene i en arkivert saksliste ved å klikke på "sakslister". Nederst på denne listen kan du velge "Vis arkivert".
 
@@ -98,7 +98,7 @@ Typer er konfigurert på samme måte som statuser bortsett fra at de ikke har me
 
 ## 4. **Egendefinerte felt**
 
-I denne menyen kan du legge til og endre egendefinerte felt i denne sakslisten. _Påkrevd tilgang:_ Full tilgang til sakslisten Egendefinerte felt kan konfigureres på [siden for egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-setup). _Påkrevd tilgang:_ Prosjektadministrator
+I denne menyen kan du legge til og endre egendefinerte felt i denne sakslisten. _Påkrevd tilgang:_ Full tilgang til sakslisten Egendefinerte felt kan konfigureres på [siden for egendefinerte felt](https://support.catenda.com/nb/articles/6550459-custom-fields-setup). _Påkrevd tilgang:_ Prosjektadministrator
 
 ### 4.1 **Legg til egendefinert felt**
 
@@ -142,7 +142,7 @@ Brukerne vil kunne se en oversikt over hvilke teams og brukere som har hvilken t
 
 ### 5.1 **Rediger tilgang**
 
-Klikk på "rediger tilgang" for å konfigurere tilgangen for denne sakslisten. Du kan lese mer om redigering av tilgang [her](https://support.catenda.com/en/articles/4670296-issue-boards-acl). _Påkrevd tilgang:_ Full tilgang til sakslisten.
+Klikk på "rediger tilgang" for å konfigurere tilgangen for denne sakslisten. Du kan lese mer om redigering av tilgang [her](https://support.catenda.com/nb/articles/4670296-issue-boards-acl). _Påkrevd tilgang:_ Full tilgang til sakslisten.
 
 ## 6. **Ukoblede felter**
 

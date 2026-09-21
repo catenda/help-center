@@ -12,7 +12,7 @@ Durch Klicken auf die Schaltfläche "Neues Element" können Sie eine neue Biblio
 
 ### 1.1 **Dokument-Bibliotheken**
 
-[Dokumente](https://support.catenda.com/en/articles/8204673-documents-page) - Die Dokumentbibliothek im Dokumentbereich [Links-Bibliothek](https://support.catenda.com/en/articles/4670254-links-library) - Verbinden Sie Links mit Objekten und Problemen _Dropbox_ - Verlinken Sie Dateien von Dropbox zu Objekten im BIM
+[Dokumente](https://support.catenda.com/de/articles/8204673-documents-page) - Die Dokumentbibliothek im Dokumentbereich [Links-Bibliothek](https://support.catenda.com/de/articles/4670254-links-library) - Verbinden Sie Links mit Objekten und Problemen _Dropbox_ - Verlinken Sie Dateien von Dropbox zu Objekten im BIM
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7wg8652x/03-document-libraries.png)
 
@@ -20,9 +20,9 @@ Nachdem Sie Ihrer Bibliothek einen Namen gegeben haben, leitet Catenda Sie an Dr
 
 > **Hinweis:** Catenda erhält niemals Zugriff auf Ihr Dropbox-Passwort, da OAuth 2.0 zur Authentifizierung verwendet wird.
 
-_[Sharepoint](https://support.catenda.com/en/articles/5744548-sharepoint-library)_ - Fügen Sie eine Sharepoint-Bibliothek zum Projekt hinzu. Dies ermöglicht Mitgliedern, die Dateien anzuzeigen und sie mit anderen zu verbinden.
+_[Sharepoint](https://support.catenda.com/de/articles/5744548-sharepoint-library)_ - Fügen Sie eine Sharepoint-Bibliothek zum Projekt hinzu. Dies ermöglicht Mitgliedern, die Dateien anzuzeigen und sie mit anderen zu verbinden.
 
-> **Hinweis:** Dies unterscheidet sich von unserer [SharePoint-Anwendung](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application), die es Mitgliedern ermöglicht, Dokumente von SharePoint an Catenda zu posten
+> **Hinweis:** Dies unterscheidet sich von unserer [SharePoint-Anwendung](https://support.catenda.com/de/articles/8396496-catenda-sharepoint-application), die es Mitgliedern ermöglicht, Dokumente von SharePoint an Catenda zu posten
 
 _coBuilder Pro_ - Dokumente - Objekte mit Dokumenten aus coBuilder Pro markieren Diese Bibliothek ist nur in Legacy-Projekten verfügbar.
 
@@ -32,7 +32,7 @@ Geben Sie Ihren coBuilderPRO-Benutzernamen und Ihr Passwort ein, um eine Verbind
 
 ### 1.2 **Generische Bibliotheken**
 
-_[Klassifikation](https://support.catenda.com/en/articles/4670255-classification-library)_ - Markieren Sie Objekte mit benutzerdefinierten Klassifikationen aus einer CSV-Datei _coBuilder Pro_ - Markieren Sie Objekte mit Produktinformationen aus coBuilder Pro _Lookup_ - Fügen Sie eine externe Website als Bibliothek hinzu _[Eigenschaftswerte](https://support.catenda.com/en/articles/4670252-property-value-library)_ - Erstellen Sie Einträge basierend auf Eigenschaftswerten
+_[Klassifikation](https://support.catenda.com/de/articles/4670255-classification-library)_ - Markieren Sie Objekte mit benutzerdefinierten Klassifikationen aus einer CSV-Datei _coBuilder Pro_ - Markieren Sie Objekte mit Produktinformationen aus coBuilder Pro _Lookup_ - Fügen Sie eine externe Website als Bibliothek hinzu _[Eigenschaftswerte](https://support.catenda.com/de/articles/4670252-property-value-library)_ - Erstellen Sie Einträge basierend auf Eigenschaftswerten
 
 ### 1.3 **Vorgeschlagene Bibliotheken**
 

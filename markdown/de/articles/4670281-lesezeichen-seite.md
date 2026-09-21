@@ -1,14 +1,14 @@
 # Lesezeichen-Seite
 
-Sie finden Lesezeichen als Untermenü der [Modellseite](https://support.catenda.com/en/articles/4670286-models-page). Diese Seite ist Teil des Inhaltsbereichs. Wenn Sie ein Lesezeichen abspielen, wird der Zustand des 3D-Viewers wiederhergestellt, der beim Erstellen des Lesezeichens vorhanden war.
+Sie finden Lesezeichen als Untermenü der [Modellseite](https://support.catenda.com/de/articles/4670286-models-page). Diese Seite ist Teil des Inhaltsbereichs. Wenn Sie ein Lesezeichen abspielen, wird der Zustand des 3D-Viewers wiederhergestellt, der beim Erstellen des Lesezeichens vorhanden war.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0ve72xx4/01-intro.png)
 
-Wenn Sie einen bestimmten Satz von Modellen öffnen und damit arbeiten, kann das Klicken auf die 3D-Schaltfläche jedes Modells viel Zeit in Anspruch nehmen. Selbst das Auswählen der richtigen Modelle auf der [Modellseite](https://support.catenda.com/en/articles/4670286-models-page) und das anschließende [Öffnen aller in 3D](https://support.catenda.com/en/articles/4670286-models-page#h_9447efb869) kann zeitaufwändig sein, da die Modelle häufig in einer langen Liste gefunden werden müssen.
+Wenn Sie einen bestimmten Satz von Modellen öffnen und damit arbeiten, kann das Klicken auf die 3D-Schaltfläche jedes Modells viel Zeit in Anspruch nehmen. Selbst das Auswählen der richtigen Modelle auf der [Modellseite](https://support.catenda.com/de/articles/4670286-models-page) und das anschließende [Öffnen aller in 3D](https://support.catenda.com/de/articles/4670286-models-page#h_9447efb869) kann zeitaufwändig sein, da die Modelle häufig in einer langen Liste gefunden werden müssen.
 
 ## 1. **Obere Schaltflächen**
 
-Klicken Sie auf diese Schaltfläche, um ein [neues Lesezeichen](https://support.catenda.com/en/articles/4670269-creating-a-new-bookmark) zu erstellen
+Klicken Sie auf diese Schaltfläche, um ein [neues Lesezeichen](https://support.catenda.com/de/articles/4670269-creating-a-new-bookmark) zu erstellen
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0ve72xx4/02-top-buttons.png)
 
@@ -48,4 +48,4 @@ Wenn Sie die Maus über das Bild bewegen, wird eine Wiedergabeschaltfläche ange
 
 **In meine Lesezeichen kopieren** Wenn das Lesezeichen von jemand anderem mit dem Projekt geteilt wurde, wird oben links ein Plus-Zeichen angezeigt. Klicken Sie auf diese Schaltfläche, um eine private Kopie dieses Lesezeichens zu erstellen. Sie wissen, dass die Kopie erfolgreich erstellt wurde, wenn sich das Symbol in ein Häkchen verwandelt und unten auf der Seite eine Nachricht angezeigt wird, in der Sie Ihre Kopie öffnen können. Sie können auch nach Ihrer Kopie suchen, nachdem Sie die Seite aktualisiert haben.
 
-**Favorisierte Lesezeichen** Wenn Sie das Lesezeichen besitzen, sehen Sie, dass das Symbol oben links zu einem Stern geworden ist. Wenn Sie auf diesen Stern klicken, wird für dieses Lesezeichen ein gelber Stern hinzugefügt. Favorisierte Lesezeichen werden auf Ihrem [Dashboard](https://support.catenda.com/en/articles/8212646-dashboard-page#h_6785d4f10c) angezeigt.
+**Favorisierte Lesezeichen** Wenn Sie das Lesezeichen besitzen, sehen Sie, dass das Symbol oben links zu einem Stern geworden ist. Wenn Sie auf diesen Stern klicken, wird für dieses Lesezeichen ein gelber Stern hinzugefügt. Favorisierte Lesezeichen werden auf Ihrem [Dashboard](https://support.catenda.com/de/articles/8212646-dashboard-page#h_6785d4f10c) angezeigt.

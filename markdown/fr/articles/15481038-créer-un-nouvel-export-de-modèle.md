@@ -1,6 +1,6 @@
 # Créer un nouvel export de modèle
 
-Cliquez sur le bouton plus vert en haut à droite de la [page d'export de modèle](https://support.catenda.com/en/articles/4670280-model-export) pour créer un nouvel export de modèle. Il y a quatre étapes pour créer un nouvel export de modèle. Voici à quoi peut ressembler la première étape du processus de création d'export de modèle :
+Cliquez sur le bouton plus vert en haut à droite de la [page d'export de modèle](https://support.catenda.com/fr/articles/4670280-model-export) pour créer un nouvel export de modèle. Il y a quatre étapes pour créer un nouvel export de modèle. Voici à quoi peut ressembler la première étape du processus de création d'export de modèle :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y8fzd5y5/01-intro.png)
 

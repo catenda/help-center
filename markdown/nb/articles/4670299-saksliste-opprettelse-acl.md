@@ -1,6 +1,6 @@
 # Saksliste-opprettelse ACL
 
-Administratorer vil kunne konfigurere hvem som har tilgang til å opprette saklister i tilgangskontrollseksjonen på [prosjektinnstillingssiden](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3).
+Administratorer vil kunne konfigurere hvem som har tilgang til å opprette saklister i tilgangskontrollseksjonen på [prosjektinnstillingssiden](https://support.catenda.com/nb/articles/4670273-project-settings-page#h_f82a1850f3).
 
 1. Under tilgangskontroll på denne siden har du "Opprett ny saksliste".
 

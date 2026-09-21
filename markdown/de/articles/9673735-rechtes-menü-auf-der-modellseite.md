@@ -1,6 +1,6 @@
 # Rechtes Menü auf der Modellseite
 
-Das rechte Informationsmenü finden Sie, indem Sie ein Modell auf der [Modellseite](https://support.catenda.com/en/articles/4670286-models-page) auswählen oder die [Inhaltsseite](https://support.catenda.com/en/articles/4670270-model-overview-page) eines Modells aufrufen.
+Das rechte Informationsmenü finden Sie, indem Sie ein Modell auf der [Modellseite](https://support.catenda.com/de/articles/4670286-models-page) auswählen oder die [Inhaltsseite](https://support.catenda.com/de/articles/4670270-model-overview-page) eines Modells aufrufen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/01-intro.png)
 
@@ -32,7 +32,7 @@ Laden Sie entweder ein lokales Bild hoch oder fügen Sie einen Schnappschuss dir
 
 _Modellbild im rechten Menü_ Wenn hinzugefügt, wird das Bild oben im rechten Menü eines Modells angezeigt, wenn ein einzelnes Modell ausgewählt ist oder wenn das Menü auf der Modellseite offen ist. Das hinzugefügte Bild wird sowohl im rechten Menü einer Modellrevision angezeigt, wenn ein Modell ausgewählt ist, als auch im Miniaturansicht des Modells in der Namensspalte der Modelltabelle.
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/4670257-creating-a-thumbnail-for-your-model), um mehr darüber zu erfahren, wie Sie ein Bild für ein Modell hinzufügen.
+Klicken Sie [hier](https://support.catenda.com/de/articles/4670257-creating-a-thumbnail-for-your-model), um mehr darüber zu erfahren, wie Sie ein Bild für ein Modell hinzufügen.
 
 **Modellminiaturansicht** Wenn hinzugefügt, wird das Bild als Miniaturansicht für das Modell in der Namensspalte der Modelltabelle auf der Modellseite angezeigt.
 
@@ -62,7 +62,7 @@ Die verschiedenen Mitglieder, die Revisionen hochgeladen haben und damit zum Mod
 
 ## 3. **Modelltransformation**
 
-Mit der Modelltransformation können Modellobjekte so konfiguriert werden, dass sie an einem anderen Ort und einer anderen Ausrichtung im Catenda Hub 3D-Viewer angezeigt werden. Diese Transformation gilt nur für Modelle im 3D-Viewer und nicht für 3D-Dokumente, die in den 3D-Viewer geladen wurden. Klicken Sie [hier](https://support.catenda.com/en/articles/12498975-add-context-to-your-projects-with-freely-accessible-ign-point-clouds-hd-lidar), um mehr über die Transformation von 3D-Dokumenten zu erfahren.
+Mit der Modelltransformation können Modellobjekte so konfiguriert werden, dass sie an einem anderen Ort und einer anderen Ausrichtung im Catenda Hub 3D-Viewer angezeigt werden. Diese Transformation gilt nur für Modelle im 3D-Viewer und nicht für 3D-Dokumente, die in den 3D-Viewer geladen wurden. Klicken Sie [hier](https://support.catenda.com/de/articles/12498975-add-context-to-your-projects-with-freely-accessible-ign-point-clouds-hd-lidar), um mehr über die Transformation von 3D-Dokumenten zu erfahren.
 
 **Modelle mit externen Tools austauschen** Modelle werden häufig aus Catenda heruntergeladen und in einem Drittanbieter-Programm geöffnet. Es ist daher wichtig, vor dem Hochladen die richtigen Koordinaten in der IFC-Datei konfiguriert zu haben, damit die heruntergeladene Datei die richtigen Informationen enthält.
 

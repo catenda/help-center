@@ -1,8 +1,8 @@
 # Enregistrer un markup
 
-Sélectionnez un [outil d'annotation](https://support.catenda.com/en/articles/11384618-document-preview-tools) dans la barre d'outils au-dessus de l'[aperçu du document](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations). Placez l'annotation pour voir le menu des markups non sauvegardés dans l'[onglet markups](https://support.catenda.com/en/articles/10205725-right-menu-of-a-revision-markups) du menu droit d'une revision.
+Sélectionnez un [outil d'annotation](https://support.catenda.com/fr/articles/11384618-document-preview-tools) dans la barre d'outils au-dessus de l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations). Placez l'annotation pour voir le menu des markups non sauvegardés dans l'[onglet markups](https://support.catenda.com/fr/articles/10205725-right-menu-of-a-revision-markups) du menu droit d'une revision.
 
-Lorsqu'un document est ouvert pour la première fois, le menu droit de la revision peut être fermé. Cliquez sur le bouton d'information sur le côté droit de la [bannière du document](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) pour développer ce menu.
+Lorsqu'un document est ouvert pour la première fois, le menu droit de la revision peut être fermé. Cliquez sur le bouton d'information sur le côté droit de la [bannière du document](https://support.catenda.com/fr/articles/8461918-document-banner-actions-navigation) pour développer ce menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/01-intro.png)
 

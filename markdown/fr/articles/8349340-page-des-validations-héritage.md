@@ -1,6 +1,6 @@
 # Page des validations - Héritage
 
-La page des validations se trouve en tant que sous-page de la [page des documents](https://support.catenda.com/en/articles/8204673-documents-page) dans le menu de navigation de gauche. La page des validations est masquée par défaut et sera visible lorsque le workflow de statut aura été activé dans les [paramètres des documents](https://support.catenda.com/en/articles/7831371-document-settings). Si tous les [statuts de brouillon](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) sont archivés et que seuls les statuts publiés sont supprimés, la page disparaîtra à nouveau tant qu'aucune validation n'aura été créée. Vous trouverez ici un aperçu des demandes de validation du projet.
+La page des validations se trouve en tant que sous-page de la [page des documents](https://support.catenda.com/fr/articles/8204673-documents-page) dans le menu de navigation de gauche. La page des validations est masquée par défaut et sera visible lorsque le workflow de statut aura été activé dans les [paramètres des documents](https://support.catenda.com/fr/articles/7831371-document-settings). Si tous les [statuts de brouillon](https://support.catenda.com/fr/articles/7831371-document-settings#h_e6f3ffdbff) sont archivés et que seuls les statuts publiés sont supprimés, la page disparaîtra à nouveau tant qu'aucune validation n'aura été créée. Vous trouverez ici un aperçu des demandes de validation du projet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xc0e4bsa/01-intro.png)
 
@@ -18,15 +18,15 @@ Les nouvelles actions d'élément se trouvent en haut à droite de la page.
 
 ### 1.1 **Nouvelle demande de validation**
 
-Créez une nouvelle demande de validation. Cliquez [ici](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) pour en savoir plus sur la création d'une nouvelle demande de validation.
+Créez une nouvelle demande de validation. Cliquez [ici](https://support.catenda.com/fr/articles/12360159-creating-a-new-approval-request) pour en savoir plus sur la création d'une nouvelle demande de validation.
 
 ### 1.2 **Demande de validation d'un nouveau brouillon**
 
-Créez une nouvelle demande de validation avec des brouillons qui demeurent depuis avant l'activation du nouveau workflow de statut pour un projet. Cliquez [ici](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request#h_e06d6cce0d) pour en savoir plus sur la création d'une nouvelle demande de validation de brouillon.
+Créez une nouvelle demande de validation avec des brouillons qui demeurent depuis avant l'activation du nouveau workflow de statut pour un projet. Cliquez [ici](https://support.catenda.com/fr/articles/12360159-creating-a-new-approval-request#h_e06d6cce0d) pour en savoir plus sur la création d'une nouvelle demande de validation de brouillon.
 
 ### 1.3 **Paramètres de validation**
 
-Configurez comment les sujets sont créés à la suite de la validation d'une approbation. Cliquez [ici](https://support.catenda.com/en/articles/12367293-approval-settings-page) pour en savoir plus sur les paramètres de validation. _Accès requis :_ Administrateur
+Configurez comment les sujets sont créés à la suite de la validation d'une approbation. Cliquez [ici](https://support.catenda.com/fr/articles/12367293-approval-settings-page) pour en savoir plus sur les paramètres de validation. _Accès requis :_ Administrateur
 
 ## 2. **Options de recherche ou de filtrage**
 
@@ -38,13 +38,13 @@ Dans la barre de recherche, vous pouvez rechercher n'importe quelle validation d
 
 ## 3. **Liste des validations**
 
-Les informations de la page des validations sont espacées de manière à être faciles à comprendre en un coup d'œil, même pour quelqu'un qui n'a jamais vu de liste de sujets auparavant. Sous la barre de recherche, vous pouvez trouver une vue en liste de toutes les [validations](https://support.catenda.com/en/articles/8349418-approval-content) qui correspondent au filtre actuel. Voici ce à quoi peut ressembler la liste des validations :
+Les informations de la page des validations sont espacées de manière à être faciles à comprendre en un coup d'œil, même pour quelqu'un qui n'a jamais vu de liste de sujets auparavant. Sous la barre de recherche, vous pouvez trouver une vue en liste de toutes les [validations](https://support.catenda.com/fr/articles/8349418-approval-content) qui correspondent au filtre actuel. Voici ce à quoi peut ressembler la liste des validations :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xc0e4bsa/04-approvals-list.png)
 
 ### 3.1 **Contenu de la ligne**
 
-**Ligne de validation** L'ouverture du contenu d'une ligne de validation ouvre la page de validation pour cette validation. Cliquez [ici](https://support.catenda.com/en/articles/8349418-approval-content) pour en savoir plus sur la page de validation.
+**Ligne de validation** L'ouverture du contenu d'une ligne de validation ouvre la page de validation pour cette validation. Cliquez [ici](https://support.catenda.com/fr/articles/8349418-approval-content) pour en savoir plus sur la page de validation.
 
 ### 3.2 **Cartes**
 
@@ -70,4 +70,4 @@ Seuls les champs qui ont été configurés dans la validation seront affichés s
 
 ## 4. **Lectures complémentaires**
 
-[Cet](https://support.catenda.com/en/articles/5784717-document-approval) article contient plus d'informations sur le fonctionnement du processus de validation.
+[Cet](https://support.catenda.com/fr/articles/5784717-document-approval) article contient plus d'informations sur le fonctionnement du processus de validation.

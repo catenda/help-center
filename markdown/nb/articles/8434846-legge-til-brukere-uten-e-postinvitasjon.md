@@ -4,7 +4,7 @@ Organisasjonseiere vil kunne legge til organisasjonsmedlemmer i prosjekter uten 
 
 ## 1. **Legg til medlem(mer) i organisasjonen**
 
-For å gjøre dette må du først legge til brukeren i organisasjonen din som medlem. Hvis [domenet ditt er registrert](https://support.catenda.com/en/articles/8224886-organization-options#h_8369f64208) hos oss, vil du kunne legge til brukere med eksisterende Catenda-kontoer fra domenet ditt som medlemmer i organisasjonen din. Hvis domenet ditt [ikke er registrert](https://support.catenda.com/en/articles/8224886-organization-options#h_8369f64208) og du ikke ser den grønne "legg til fra domene"-knappen, kontakt oss via chatknappen som er sort ved siden av profilbildet ditt øverst til høyre, eller via [support@catenda.com](mailto:support@catenda.com) hvor vi gjerne vil hjelpe deg.
+For å gjøre dette må du først legge til brukeren i organisasjonen din som medlem. Hvis [domenet ditt er registrert](https://support.catenda.com/nb/articles/8224886-organization-options#h_8369f64208) hos oss, vil du kunne legge til brukere med eksisterende Catenda-kontoer fra domenet ditt som medlemmer i organisasjonen din. Hvis domenet ditt [ikke er registrert](https://support.catenda.com/nb/articles/8224886-organization-options#h_8369f64208) og du ikke ser den grønne "legg til fra domene"-knappen, kontakt oss via chatknappen som er sort ved siden av profilbildet ditt øverst til høyre, eller via [support@catenda.com](mailto:support@catenda.com) hvor vi gjerne vil hjelpe deg.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8g939d5c/01-add-member-s-to-organization.png)
 

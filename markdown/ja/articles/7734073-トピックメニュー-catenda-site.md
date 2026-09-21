@@ -1,6 +1,6 @@
 # トピックメニュー - Catenda Site
 
-トピックメニューは[メニュー](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site)から、またはボトムナビゲーションバーのトピックボタンをタップすることで見つけることができます。
+トピックメニューは[メニュー](https://support.catenda.com/ja/articles/7338516-navigation-menu-catenda-site)から、またはボトムナビゲーションバーのトピックボタンをタップすることで見つけることができます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/68qsmtaz/01-intro.png)
 
@@ -25,8 +25,8 @@
 - 自分のトピック
 - ステータスと種類
   - ステータスまたは種類がプロジェクトに追加されたか、既存のステータスまたは種類の名前が変更された場合、このステータスを持つトピックはステータスと種類の名前を持ちますが、色は灰色になります。
-  - [プロジェクトページ](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site)に戻ってプロジェクトを再度開くまで、これらのステータスをフィルタリングして色を表示することはできません。
-- [ラベル](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
+  - [プロジェクトページ](https://support.catenda.com/ja/articles/7733978-projects-page-catenda-site)に戻ってプロジェクトを再度開くまで、これらのステータスをフィルタリングして色を表示することはできません。
+- [ラベル](https://support.catenda.com/ja/articles/7854138-label-filter-catenda-site)
 - 期日
 - 位置情報 <br>
 

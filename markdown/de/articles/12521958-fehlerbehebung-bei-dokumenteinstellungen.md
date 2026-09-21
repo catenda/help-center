@@ -1,6 +1,6 @@
 # Fehlerbehebung bei Dokumenteinstellungen
 
-In diesem Artikel finden Sie Informationen über die Fehler, die auf der [Seite Dokumenteinstellungen](https://support.catenda.com/en/articles/7831371-document-settings-page) auftreten können.
+In diesem Artikel finden Sie Informationen über die Fehler, die auf der [Seite Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings-page) auftreten können.
 
 ## 1. **Status-Workflow**
 

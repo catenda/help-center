@@ -48,7 +48,7 @@ Op dit moment is er geen officiële manier om vanuit Navisworks naar IFC te expo
    2. Objecten - Alles
    3. Weergave - Alles opnemen
 
-> **Opmerking:** Ifc 4x1 is ingetrokken door BuildingSMART en wordt daarom ook niet ondersteund door Catenda Hub. Zie [hier](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support) welke bestandstypen worden ondersteund in Catenda Hub
+> **Opmerking:** Ifc 4x1 is ingetrokken door BuildingSMART en wordt daarom ook niet ondersteund door Catenda Hub. Zie [hier](https://support.catenda.com/nl/articles/4670320-what-file-types-does-catenda-support) welke bestandstypen worden ondersteund in Catenda Hub
 
 6\. Bron en toewijzing
 

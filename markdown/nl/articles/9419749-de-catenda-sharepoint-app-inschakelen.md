@@ -1,6 +1,6 @@
 # De Catenda SharePoint-app inschakelen
 
-> **Opmerking:** Het installatiebestand voor de invoegtoepassing vindt u in [dit artikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Opmerking:** Het installatiebestand voor de invoegtoepassing vindt u in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/8396532-catenda-plugins-and-integrations).
 
 De Catenda SharePoint-toepassing kan door een systeembeheerder voor een SharePoint-omgeving worden ingeschakeld en vervolgens door een site-eigenaar aan een site worden toegevoegd. Met deze app kunnen SharePoint-gebruikers Documenten in Catenda samen met andere Leden van het bouwproject bekijken, beheren en hieraan samenwerken.
 
@@ -114,4 +114,4 @@ Voordat de app aan Teams kan worden toegevoegd, moet deze eerst aan alle sites w
 
 ## 5. **Verder lezen**
 
-Zie [hier](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application) voor informatie over hoe deze toepassing na de installatie werkt. Zie [hier](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq) voor meer informatie over hoe deze toepassing nuttig kan zijn.
+Zie [hier](https://support.catenda.com/nl/articles/8396496-catenda-sharepoint-application) voor informatie over hoe deze toepassing na de installatie werkt. Zie [hier](https://support.catenda.com/nl/articles/9419678-catenda-sharepoint-faq) voor meer informatie over hoe deze toepassing nuttig kan zijn.

@@ -42,7 +42,7 @@ Klik eenvoudig op uw opgeslagen filter in het filtermenu links om naar een reeks
 
 ## 6. **Opgeslagen filters delen met projectleden**
 
-Zoals eerder vermeld, worden opgeslagen filters alleen voor u opgeslagen. Wanneer u het filter activeert, ziet u de filters in de zoekbalk verschijnen. Wanneer u dit doet, verandert de URL van de pagina ook om de filters op te nemen. Een eenvoudige manier om uw opgeslagen filters met gebruikers te delen, is door de gefilterde pagina via een bericht of via [Sharelink](https://support.catenda.com/en/articles/4728886-sharelink-notify-people-about-catenda-hub-content) te verzenden. Als u wilt dat personen in het project toegang tot deze filters hebben zonder ze naar elk lid afzonderlijk te hoeven verzenden, kunt u een koppeling maken in de [koppelingenbibliotheek](https://support.catenda.com/en/articles/4670254-links-library). Dit is vooral nuttig omdat de koppeling met de filters vervolgens kan worden gekoppeld aan onderwerpen en objecten.
+Zoals eerder vermeld, worden opgeslagen filters alleen voor u opgeslagen. Wanneer u het filter activeert, ziet u de filters in de zoekbalk verschijnen. Wanneer u dit doet, verandert de URL van de pagina ook om de filters op te nemen. Een eenvoudige manier om uw opgeslagen filters met gebruikers te delen, is door de gefilterde pagina via een bericht of via [Sharelink](https://support.catenda.com/nl/articles/4728886-sharelink-notify-people-about-catenda-hub-content) te verzenden. Als u wilt dat personen in het project toegang tot deze filters hebben zonder ze naar elk lid afzonderlijk te hoeven verzenden, kunt u een koppeling maken in de [koppelingenbibliotheek](https://support.catenda.com/nl/articles/4670254-links-library). Dit is vooral nuttig omdat de koppeling met de filters vervolgens kan worden gekoppeld aan onderwerpen en objecten.
 
 ## 7. **Voorkeur voor uitbreiden en samenvouwen van filters**
 
@@ -53,31 +53,31 @@ Uw voorkeuren voor het uitbreiden en samenvouwen van filtermenu's op de verschil
 U kunt filters op de volgende pagina's opslaan:
 
 - Startpagina
-  - [Pagina Accountmeldingen](https://support.catenda.com/en/articles/7439223-account-notifications-page)
+  - [Pagina Accountmeldingen](https://support.catenda.com/nl/articles/7439223-account-notifications-page)
   - Organisatietools
-    - [Pagina Gebruikers](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-    - [Pagina Projecten](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-    - [Pagina Projectlidmaatschap](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Pagina Gebruikers](https://support.catenda.com/nl/articles/8508311-users-page-organization-tool)
+    - [Pagina Projecten](https://support.catenda.com/nl/articles/8505058-projects-page-organization-tool)
+    - [Pagina Projectlidmaatschap](https://support.catenda.com/nl/articles/9003642-project-memberships-organization-tool)
 - Project
-  - [Onderwerpen tabel](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
+  - [Onderwerpen tabel](https://support.catenda.com/nl/articles/8370693-filtering-on-the-issues-page)
   - Modellen
-    - [Pagina Modellen](https://support.catenda.com/en/articles/4670286-models-page)
-    - [Pagina Opgeslagen weergaven](https://support.catenda.com/en/articles/4670281-bookmarks-page)
-    - [Pagina Objecten](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
+    - [Pagina Modellen](https://support.catenda.com/nl/articles/4670286-models-page)
+    - [Pagina Opgeslagen weergaven](https://support.catenda.com/nl/articles/4670281-bookmarks-page)
+    - [Pagina Objecten](https://support.catenda.com/nl/articles/12353642-filtering-on-the-objects-page)
   - Documenten
-    - [Pagina Documenten](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-    - [Pagina Verzamelingen](https://support.catenda.com/en/articles/6344318-collections-page)
-    - [Pagina Goedkeuringen](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+    - [Pagina Documenten](https://support.catenda.com/nl/articles/4670283-filtering-on-the-documents-page)
+    - [Pagina Verzamelingen](https://support.catenda.com/nl/articles/6344318-collections-page)
+    - [Pagina Goedkeuringen](https://support.catenda.com/nl/articles/8551740-filtering-on-the-approvals-page)
   - Rapporten
     - Pagina Rapporten
   - Bibliotheken
-    - [Koppelingenbibliotheek](https://support.catenda.com/en/articles/4670254-links-library)
-    - [Sharepoint-bibliotheek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-    - [Dropbox-bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page)
-    - [Eigenschapwaarde bibliotheek](https://support.catenda.com/en/articles/4670252-property-value-library)
-    - [Classificatiebibliotheek](https://support.catenda.com/en/articles/4670255-classification-library)
-  - [Pagina Projectmeldingen](https://support.catenda.com/en/articles/4670295-project-notifications-page)
+    - [Koppelingenbibliotheek](https://support.catenda.com/nl/articles/4670254-links-library)
+    - [Sharepoint-bibliotheek](https://support.catenda.com/nl/articles/5744548-sharepoint-library)
+    - [Dropbox-bibliotheek](https://support.catenda.com/nl/articles/8065645-libraries-page)
+    - [Eigenschapwaarde bibliotheek](https://support.catenda.com/nl/articles/4670252-property-value-library)
+    - [Classificatiebibliotheek](https://support.catenda.com/nl/articles/4670255-classification-library)
+  - [Pagina Projectmeldingen](https://support.catenda.com/nl/articles/4670295-project-notifications-page)
   - Projectinstellingen
-    - [Pagina Aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-    - [Pagina Labels](https://support.catenda.com/en/articles/4670265-labels-page)
-    - [Pagina Leden](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
+    - [Pagina Aangepaste velden](https://support.catenda.com/nl/articles/6550459-custom-fields-page)
+    - [Pagina Labels](https://support.catenda.com/nl/articles/4670265-labels-page)
+    - [Pagina Leden](https://support.catenda.com/nl/articles/4670291-members-and-teams-page)

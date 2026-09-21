@@ -4,7 +4,7 @@
 
 Bonjour à tous,
 
-cela fait quelques beaux mois depuis le dernier journal des modifications. Nous espérons que vous avez tous passé de bonnes vacances d'hiver ! 🎄🤶🧑‍🎄❄️ Et bienvenue en 2024!🎇 Nous espérons que nous serons en mesure d'apporter de nombreuses modifications et améliorations cette année aussi ! Dans cet article, vous trouverez des mises à jour sur les sujets suivants : [Articles](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [Sujets résolus](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [Nouvelles versions](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)
+cela fait quelques beaux mois depuis le dernier journal des modifications. Nous espérons que vous avez tous passé de bonnes vacances d'hiver ! 🎄🤶🧑‍🎄❄️ Et bienvenue en 2024!🎇 Nous espérons que nous serons en mesure d'apporter de nombreuses modifications et améliorations cette année aussi ! Dans cet article, vous trouverez des mises à jour sur les sujets suivants : [Articles](https://support.catenda.com/fr/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [Sujets résolus](https://support.catenda.com/fr/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [Nouvelles versions](https://support.catenda.com/fr/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)
 
 ## 1. **Articles**
 
@@ -12,31 +12,31 @@ Lorsque de nouvelles fonctionnalités sont déployées et que des bogues sont co
 
 ### 1.1 **Nouveaux articles :**
 
-**Démarrage et FAQ** [Ordre de tri des listes](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) [Structuration des documents](https://support.catenda.com/en/articles/8542598-structuring-documents)
+**Démarrage et FAQ** [Ordre de tri des listes](https://support.catenda.com/fr/articles/8487788-sorting-order-of-lists) [Structuration des documents](https://support.catenda.com/fr/articles/8542598-structuring-documents)
 
-**Page d'accueil** [Page Organisations](https://support.catenda.com/en/articles/8281910-organizations-page)
+**Page d'accueil** [Page Organisations](https://support.catenda.com/fr/articles/8281910-organizations-page)
 
-**Sujets** [Historique du sujet](https://support.catenda.com/en/articles/8613038-issue-history)
+**Sujets** [Historique du sujet](https://support.catenda.com/fr/articles/8613038-issue-history)
 
-**Documents** [Documents](https://support.catenda.com/en/articles/8461918-documents) [Comparaison PDF](https://support.catenda.com/en/articles/8461650-pdf-compare) [Filtrage sur la page des approbations](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+**Documents** [Documents](https://support.catenda.com/fr/articles/8461918-documents) [Comparaison PDF](https://support.catenda.com/fr/articles/8461650-pdf-compare) [Filtrage sur la page des approbations](https://support.catenda.com/fr/articles/8551740-filtering-on-the-approvals-page)
 
-**Modèles et 3D** [Signet](https://support.catenda.com/en/articles/8471481-bookmark)
+**Modèles et 3D** [Signet](https://support.catenda.com/fr/articles/8471481-bookmark)
 
-**Paramètres du projet** [Création d'un champ personnalisé](https://support.catenda.com/en/articles/8445575-creating-a-custom-field) [Page Champ personnalisé](https://support.catenda.com/en/articles/8445588-custom-field-page)
+**Paramètres du projet** [Création d'un champ personnalisé](https://support.catenda.com/fr/articles/8445575-creating-a-custom-field) [Page Champ personnalisé](https://support.catenda.com/fr/articles/8445588-custom-field-page)
 
 ### 1.2 **Articles qui ont changé :**
 
-Démarrage et FAQ [Enregistrement des filtres](https://support.catenda.com/en/articles/8551755-saving-filters)
+Démarrage et FAQ [Enregistrement des filtres](https://support.catenda.com/fr/articles/8551755-saving-filters)
 
-Sujets [ACL des tableaux de sujets](https://support.catenda.com/en/articles/4670296-issue-boards-acl)
+Sujets [ACL des tableaux de sujets](https://support.catenda.com/fr/articles/4670296-issue-boards-acl)
 
-Documents [Page Documents](https://support.catenda.com/en/articles/8204673-documents-page) [Modèles en tant que documents](https://support.catenda.com/en/articles/8064548-models-as-documents) [Filtrage sur la page des documents](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+Documents [Page Documents](https://support.catenda.com/fr/articles/8204673-documents-page) [Modèles en tant que documents](https://support.catenda.com/fr/articles/8064548-models-as-documents) [Filtrage sur la page des documents](https://support.catenda.com/fr/articles/4670283-filtering-on-the-documents-page)
 
-Modèles [Page Signets](https://support.catenda.com/en/articles/4670281-bookmarks-page) [Création d'un nouveau signet](https://support.catenda.com/en/articles/4670269-creating-a-new-bookmark) [Modèles en tant que documents](https://support.catenda.com/en/articles/8064548-models-as-documents)
+Modèles [Page Signets](https://support.catenda.com/fr/articles/4670281-bookmarks-page) [Création d'un nouveau signet](https://support.catenda.com/fr/articles/4670269-creating-a-new-bookmark) [Modèles en tant que documents](https://support.catenda.com/fr/articles/8064548-models-as-documents)
 
 Bibliothèques <a class="intercom-content-link" href="" target="_blank">Bibliothèque de liens</a>
 
-Paramètres [Page Membres](https://support.catenda.com/en/articles/4670291-members-page)
+Paramètres [Page Membres](https://support.catenda.com/fr/articles/4670291-members-page)
 
 ## 2. **Bogues résolus**
 

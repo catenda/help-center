@@ -42,7 +42,7 @@ Karantenebehandling for infiserte filer i eide prosjekter. Hvis et dokument blir
 
 ### 3.3 **Modeller som dokumenter**
 
-Hvis denne funksjonen er aktivert, vil alle nye prosjekter som opprettes i organisasjonen ha [Modeller som dokumenter](https://support.catenda.com/en/articles/8064548-models-as-documents)-funksjonen aktivert.
+Hvis denne funksjonen er aktivert, vil alle nye prosjekter som opprettes i organisasjonen ha [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-models-as-documents)-funksjonen aktivert.
 
 > **Merknad:** 24. november: Denne funksjonen vil bli aktivert for alle nye organisasjoner. Vi vil støtte den gamle visningen i ca. ett år før alle prosjekter blir migrert.
 
@@ -92,10 +92,10 @@ Når det er gjort, må systemadministratoren din komme tilbake til oss med App F
 
 Dette alternativet lar deg deaktivere den offentlige delingsfunksjonen for alle prosjekter i organisasjonen din. Hvis dette alternativet er aktivert, vil det ikke lenger være mulig å:
 
-- [Aktivere offentlige URL-er for bokmerker](https://support.catenda.com/en/articles/6423215-public-bookmarks-short-video).
-- [Aktivere offentlige URL-er for dokumentsamlinger](https://support.catenda.com/en/articles/6344318-collections-page#h_c1e1a2a402).
-- [Dele dokumentsamlinger via e-post](https://support.catenda.com/en/articles/6344318-collections-page#h_c1e1a2a402).
+- [Aktivere offentlige URL-er for bokmerker](https://support.catenda.com/nb/articles/6423215-public-bookmarks-short-video).
+- [Aktivere offentlige URL-er for dokumentsamlinger](https://support.catenda.com/nb/articles/6344318-collections-page#h_c1e1a2a402).
+- [Dele dokumentsamlinger via e-post](https://support.catenda.com/nb/articles/6344318-collections-page#h_c1e1a2a402).
 
 ## 6. **Domener**
 
-Du kan be om at et domene legges til organisasjonen din. Hvis et domene har blitt registrert med organisasjonen din, vil alternativet "legg til fra domene" vises på brukersiden i organisasjonen din i [organisasjonsverktøyet](http://hub.catenda.com/orgs). Dette lar deg legge til brukere fra organisasjonen din til prosjektene dine uten å måtte invitere dem gjennom [e-postinvitasjoner](https://support.catenda.com/en/articles/4670319-how-can-i-invite-new-members-to-a-project). Hvis du ikke finner en bruker fra organisasjonen din, er det mest sannsynlig fordi de ikke har opprettet en Catenda-konto ennå og vi har dem ikke i systemet vårt. Brukere fra domenet ditt som ikke har kontoer ennå, må [inviteres](https://support.catenda.com/en/articles/4670319-how-can-i-invite-new-members-to-a-project) på vanlig måte slik at de kan bli med i prosjektet og lage en konto. Brukere fra domener som ikke har blitt lagt til, må fortsatt inviteres med den vanlige [e-postinvitasjonen](https://support.catenda.com/en/articles/4670319-how-can-i-invite-new-members-to-a-project).
+Du kan be om at et domene legges til organisasjonen din. Hvis et domene har blitt registrert med organisasjonen din, vil alternativet "legg til fra domene" vises på brukersiden i organisasjonen din i [organisasjonsverktøyet](http://hub.catenda.com/orgs). Dette lar deg legge til brukere fra organisasjonen din til prosjektene dine uten å måtte invitere dem gjennom [e-postinvitasjoner](https://support.catenda.com/nb/articles/4670319-how-can-i-invite-new-members-to-a-project). Hvis du ikke finner en bruker fra organisasjonen din, er det mest sannsynlig fordi de ikke har opprettet en Catenda-konto ennå og vi har dem ikke i systemet vårt. Brukere fra domenet ditt som ikke har kontoer ennå, må [inviteres](https://support.catenda.com/nb/articles/4670319-how-can-i-invite-new-members-to-a-project) på vanlig måte slik at de kan bli med i prosjektet og lage en konto. Brukere fra domener som ikke har blitt lagt til, må fortsatt inviteres med den vanlige [e-postinvitasjonen](https://support.catenda.com/nb/articles/4670319-how-can-i-invite-new-members-to-a-project).

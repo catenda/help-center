@@ -40,7 +40,7 @@ In topicopmerkingen is een bijlagegereedschap zichtbaar. Klik op de + knop in ee
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/05-topic-comment-attachment.png)
 
-Klik [hier](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae) voor meer informatie over bijlagen in opmerkingen.
+Klik [hier](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae) voor meer informatie over bijlagen in opmerkingen.
 
 ## 3. **Tekst opmaken**
 
@@ -100,7 +100,7 @@ Om ervoor te zorgen dat de afbeelding correct wordt weergegeven, moet Catenda to
 
 > **Opmerking:** \+ De afbeelding kan aan een beschrijving worden toegevoegd \+ De afbeelding kan met tekst worden gemengd zodat u tekst zowel voor als na de afbeelding in dezelfde opmerkingen of beschrijving kunt hebben. \+ Afbeeldingen kunnen met tabellen en lijsten worden gecombineerd. U kunt bijvoorbeeld een vinkje in het midden van een zin/tabel toevoegen in plaats van het opmaakkeuzevakje, dat alleen aan het begin van een zin werkt \- U kunt niet garanderen dat de koppeling naar de afbeelding in de toekomst beschikbaar blijft.
 
-_Een Catenda-afbeeldingsdocumentkoppeling ophalen_ Als u met de rechtermuisknop op de [downloadactieknop klikt nadat u een document hebt geselecteerd](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) of met de rechtermuisknop op de [downloadactie voor de nieuwste versie klikt nadat u een document hebt geopend](https://support.catenda.com/en/articles/9323521-actions-in-a-document), kunt u de downloadkoppeling van het document kopiëren. Als u deze koppeling in uw topic gebruikt zoals hierboven, kunt u Catenda-documenten in topics gebruiken.
+_Een Catenda-afbeeldingsdocumentkoppeling ophalen_ Als u met de rechtermuisknop op de [downloadactieknop klikt nadat u een document hebt geselecteerd](https://support.catenda.com/nl/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) of met de rechtermuisknop op de [downloadactie voor de nieuwste versie klikt nadat u een document hebt geopend](https://support.catenda.com/nl/articles/9323521-actions-in-a-document), kunt u de downloadkoppeling van het document kopiëren. Als u deze koppeling in uw topic gebruikt zoals hierboven, kunt u Catenda-documenten in topics gebruiken.
 
 > **Opmerking:** \+ Als u een koppeling naar een Catenda-afbeeldingsdocument toevoegt, kunt u afbeeldingen toevoegen die alleen in Catenda worden weergegeven en niet beschikbaar zijn op andere platforms waar het topic mee kan worden uitgewisseld. \+ Door koppelingen naar een Catenda-afbeeldingsdocument toe te voegen, zien alleen mensen met toegang tot het document de afbeelding. \- Als u een koppeling naar een Catenda-afbeeldingsdocument toevoegt, is het niet zichtbaar op andere platforms waarmee het topic is gesynchroniseerd en voor mensen die geen toegang tot het document hebben.
 
@@ -210,7 +210,7 @@ Dit zal zo worden:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/07-checklists.png)
 
-Klik [hier](https://support.catenda.com/en/articles/5036461-check-lists-within-issues) om een korte video te bekijken over hoe controlelijsten in het project kunnen worden gebruikt. Als u schrijft ` - [ ]` of `- [x]` zal het vakje nog steeds ongevinkt en gevinkt verschijnen wanneer de opmerking wordt ingediend of opgeslagen nadat deze is bewerkt.
+Klik [hier](https://support.catenda.com/nl/articles/5036461-check-lists-within-issues) om een korte video te bekijken over hoe controlelijsten in het project kunnen worden gebruikt. Als u schrijft ` - [ ]` of `- [x]` zal het vakje nog steeds ongevinkt en gevinkt verschijnen wanneer de opmerking wordt ingediend of opgeslagen nadat deze is bewerkt.
 
 **Keuzevakjes in opmerkingen** In opmerkingen kunnen keuzevakjes alleen via opmaak worden ingevinkt. Keuzevakjes in opmerkingen kunnen niet worden aangeklikt om deze in te vinken. _Toegang vereist -_ De opmerking creator heeft toegang tot het bewerken van de gemaakte opmerking
 
@@ -262,7 +262,7 @@ Wanneer de beschrijving wordt opgeslagen of de opmerking wordt ingediend, ontvan
 
 **Meldingen over toekomstige topic-gebeurtenissen** Leden van teams die in topicbeschrijvingen en opmerkingen zijn vermeld, ontvangen slechts één melding wanneer de beschrijving wordt opgeslagen of de opmerking wordt ingediend.
 
-Naast de melding dat zij zijn vermeld, worden leden die in berichten zijn vermeld, automatisch ingesteld op [volgen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) van het topic en ontvangen meldingen over topic-gebeurtenissen zoals nieuwe opmerkingen en statuswijzigingen. Dit is een geweldige manier om ervoor te zorgen dat meer dan alleen de [toewijzingsgerechtigde](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) en [aanvrager](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7) meldingen ontvangen over toekomstige wijzigingen in een topic. Als een lid niet langer het topic wil volgen, moet het dit handmatig opvolgen.
+Naast de melding dat zij zijn vermeld, worden leden die in berichten zijn vermeld, automatisch ingesteld op [volgen](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) van het topic en ontvangen meldingen over topic-gebeurtenissen zoals nieuwe opmerkingen en statuswijzigingen. Dit is een geweldige manier om ervoor te zorgen dat meer dan alleen de [toewijzingsgerechtigde](https://support.catenda.com/nl/articles/8400566-issue-header#h_0a91fa8dd9) en [aanvrager](https://support.catenda.com/nl/articles/8400566-issue-header#h_1aea0990a7) meldingen ontvangen over toekomstige wijzigingen in een topic. Als een lid niet langer het topic wil volgen, moet het dit handmatig opvolgen.
 
 ### 5.2 **Vermelding in bericht**
 
@@ -272,7 +272,7 @@ Vermeldingen in berichten kunnen worden geïdentificeerd aan de groene tekstkleu
 
 Op de achtergrond wordt de unieke id van de vermelde projectdeelnemer opgeslagen. Het is de naam van de deelnemer die in deze groene tekst wordt weergegeven. Zelfs als het lid of team van naam verandert, blijven zij in het bericht vermeld, maar onder hun nieuwe naam.
 
-Vermelde leden hebben een aanklikbare koppeling die naar de [ledenpagina](https://support.catenda.com/en/articles/8228836-member-page) van dat lid verwijst. Vermelde teams hebben een aanklikbare koppeling die naar de [teampagina](https://support.catenda.com/en/articles/7891755-team-page) van dat team verwijst.
+Vermelde leden hebben een aanklikbare koppeling die naar de [ledenpagina](https://support.catenda.com/nl/articles/8228836-member-page) van dat lid verwijst. Vermelde teams hebben een aanklikbare koppeling die naar de [teampagina](https://support.catenda.com/nl/articles/7891755-team-page) van dat team verwijst.
 
 **Niet-bestaand lid** Als er geen lid in het project is dat het e-mailadres heeft dat is vermeld, ziet het bericht er als volgt uit:
 
@@ -294,15 +294,15 @@ Zoek in de lijst door met de titel of topicnummer in te typen. Ga met de pijltoe
 
 ### 6.1 **Opslaan of indienen van een getagd topic**
 
-Wanneer de beschrijving wordt opgeslagen of de opmerking wordt ingediend, wordt een topicrelatie gemaakt. Het gekoppelde topic wordt vervolgens toegevoegd aan de lijst met [gekoppelde topics](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [het rechtermenu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) van het topic.
+Wanneer de beschrijving wordt opgeslagen of de opmerking wordt ingediend, wordt een topicrelatie gemaakt. Het gekoppelde topic wordt vervolgens toegevoegd aan de lijst met [gekoppelde topics](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [het rechtermenu](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue) van het topic.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/14-saving-or-submitting-a-tagged-topic.png)
 
-Naast het topic waarin een ander topic is getagd, ontvangt het getagde topic zelf een koppeling terug naar het topic waar het is toegevoegd aan de lijst met [gekoppelde topics](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [het rechtermenu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue).
+Naast het topic waarin een ander topic is getagd, ontvangt het getagde topic zelf een koppeling terug naar het topic waar het is toegevoegd aan de lijst met [gekoppelde topics](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [het rechtermenu](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/15-saving-or-submitting-a-tagged-topic.png)
 
-De topickoppeling kan later worden verwijderd van het topic met het getagde topic in de beschrijving of van het topic dat is getagd door naar elk topic te gaan en de lijst met [gekoppelde topics](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [het rechtermenu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) te bewerken.
+De topickoppeling kan later worden verwijderd van het topic met het getagde topic in de beschrijving of van het topic dat is getagd door naar elk topic te gaan en de lijst met [gekoppelde topics](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [het rechtermenu](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue) te bewerken.
 
 ### 6.2 **Getagd topic in bericht**
 

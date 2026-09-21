@@ -2,7 +2,7 @@
 
 > Tilgangskontrollnivåer for Dokumenter
 
-Velg dokument(er) og/eller mappe(r) i dokumentområdet for å finne tilgangskontrollmenyen i [høyremeny](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page#h_cad792004b). Her kan du se hvilke prosjektmedlemmer som har tilgang til dokumentet. Følg disse trinnene for å redigere tilgangen for de valgte elementene.
+Velg dokument(er) og/eller mappe(r) i dokumentområdet for å finne tilgangskontrollmenyen i [høyremeny](https://support.catenda.com/nb/articles/8345396-right-menu-on-the-documents-page#h_cad792004b). Her kan du se hvilke prosjektmedlemmer som har tilgang til dokumentet. Følg disse trinnene for å redigere tilgangen for de valgte elementene.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/01-intro.png)
 
@@ -24,7 +24,7 @@ Klikk på "Definer tilgang for"-rullegardinmenyen for å velge medlemmer som til
 
 Angi tilgang **per team i stedet for per bruker**. Roller endres ofte, og teambasert tilgang forblir fleksibel: et medlem som legges til et team får riktig tilgang så snart de blir med i prosjektet. Et vanlig mønster er å sette "alle brukere" til ingen tilgang, slik at nye, ikke-tildelte medlemmer ikke kan se sensitiv informasjon. Du gir deretter tilgang til hvert team etter behov.
 
-Klikk [her](https://support.catenda.com/en/articles/15644094-how-catenda-calculates-access-levels) for å lese mer om hvordan de ulike medlemmerrollene oppstiller seg mot hverandre.
+Klikk [her](https://support.catenda.com/nb/articles/15644094-how-catenda-calculates-access-levels) for å lese mer om hvordan de ulike medlemmerrollene oppstiller seg mot hverandre.
 
 ## 2. **2. Hvilken tilgang blir brukt? (3 trinn)**
 
@@ -44,11 +44,11 @@ _Andre_ Kontroller den ulike tilgangen som er konfigurert for en bruker enten vi
 
 Tilgangen med høyest vekt gjelder. Ingen tilgang > Full tilgang > Skriv > Les
 
-Klikk [her](https://support.catenda.com/en/articles/15644094-how-catenda-calculates-access-levels) for å lese mer om hvordan tilgangsnivåer beregnes. Klikk [her](https://support.catenda.com/en/articles/15644249-access-control-deployment-use-cases) for å lese mer om typiske måter tilgang konfigureres på.
+Klikk [her](https://support.catenda.com/nb/articles/15644094-how-catenda-calculates-access-levels) for å lese mer om hvordan tilgangsnivåer beregnes. Klikk [her](https://support.catenda.com/nb/articles/15644249-access-control-deployment-use-cases) for å lese mer om typiske måter tilgang konfigureres på.
 
 ### 2.2 **2.2 Hva kan deltakere gjøre med den tilgangen?**
 
-Klikk [her](https://support.catenda.com/en/articles/15647394-operations-on-document-library-items) for å lese mer om hvilke operasjoner som kan utføres på mapper og Dokumenter.
+Klikk [her](https://support.catenda.com/nb/articles/15647394-operations-on-document-library-items) for å lese mer om hvilke operasjoner som kan utføres på mapper og Dokumenter.
 
 ## 3. **3. Overskrivingsalternativer (omfang brukt ved lagring)**
 

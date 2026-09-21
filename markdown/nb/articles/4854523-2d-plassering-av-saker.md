@@ -2,7 +2,7 @@
 
 > Beskrivelse av 2D-plasseringsmarkører på saker
 
-Plassering kan brukes på saker ved å plassere en markør ved en x, y-koordinat i [2D-visningen](https://support.catenda.com/en/articles/4854537-2d-viewer) på en etasje fra en IFC-modell eller en konfigurert bygning med høyde. Fargede prikker markerer plasseringen av saker i 2D-visningen og gir en umiddelbar visuell forståelse av hvor sakene er, samt deres status og type. Ved å bruke sakplasstringer kan prosjektet ditt oppnå massivt forbedret kontroll over plassering av saker. Denne funksjonen kompletterer funksjonaliteten til mobilapplikasjonen vår, [Catenda Site](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site). Med markører blir prosjekter gitt mulighet til sømløs opprettelse, overvåking og administrasjon av saker som oppstår på stedet, tilbake ved skrivebordet.
+Plassering kan brukes på saker ved å plassere en markør ved en x, y-koordinat i [2D-visningen](https://support.catenda.com/nb/articles/4854537-2d-viewer) på en etasje fra en IFC-modell eller en konfigurert bygning med høyde. Fargede prikker markerer plasseringen av saker i 2D-visningen og gir en umiddelbar visuell forståelse av hvor sakene er, samt deres status og type. Ved å bruke sakplasstringer kan prosjektet ditt oppnå massivt forbedret kontroll over plassering av saker. Denne funksjonen kompletterer funksjonaliteten til mobilapplikasjonen vår, [Catenda Site](https://support.catenda.com/nb/articles/6530821-download-your-mobile-app-catenda-site). Med markører blir prosjekter gitt mulighet til sømløs opprettelse, overvåking og administrasjon av saker som oppstår på stedet, tilbake ved skrivebordet.
 
 Slik kan markører se ut i 2D-visningen:
 
@@ -12,7 +12,7 @@ Slik kan markører se ut i 2D-visningen:
 
 ### 1.1 **Samhandling med markører**
 
-Hold markøren over en [markør i 2D-visningen](https://support.catenda.com/en/articles/4854537-2d-viewer#h_d904cebf2e) i nettleseren for å vise saksnummeret og tittelen på saken som markøren tilhører. Slik kan en markør som holdes over se ut i nettleseren.
+Hold markøren over en [markør i 2D-visningen](https://support.catenda.com/nb/articles/4854537-2d-viewer#h_d904cebf2e) i nettleseren for å vise saksnummeret og tittelen på saken som markøren tilhører. Slik kan en markør som holdes over se ut i nettleseren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/02-interacting-with-markers.png)
 
@@ -38,7 +38,7 @@ Dra på det øverste venstre hjørnet av 2D-visningen eller dobbeltklikk på tit
 
 ### 1.3 **Finne markører**
 
-_Finne en sak fra en markør på en etasje i 2D-visningen_ Hold markøren over en markør i 2D-visningen for å se saksnummeret og tittelen på saken den tilhører. Når en markør i 2D-visningen klikkes, endres innholdspanelet for å vise den valgte saken i dens sakskort på [sakssiden](https://support.catenda.com/en/articles/4670271-topics-page).
+_Finne en sak fra en markør på en etasje i 2D-visningen_ Hold markøren over en markør i 2D-visningen for å se saksnummeret og tittelen på saken den tilhører. Når en markør i 2D-visningen klikkes, endres innholdspanelet for å vise den valgte saken i dens sakskort på [sakssiden](https://support.catenda.com/nb/articles/4670271-topics-page).
 
 _Finne en markør i 2D-visningen fra en sak_ For å finne hvor markøren for en sak har blitt plassert i 2D-visningen, åpner du saken i dens sakskort og klikker på "Har markør"-teksten i sakshodelinjen.
 
@@ -64,10 +64,10 @@ Markeringssynlighet kan konfigureres på følgende steder:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/09-marker-configuration.png)
 
-1. Vis/skjul markører i 2D-visningen med [2D-visningsinnstillingene](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098). <br>Merk: Markører kan fortsatt ikke være synlige hvis markerlagstilstanden er deaktivert.
+1. Vis/skjul markører i 2D-visningen med [2D-visningsinnstillingene](https://support.catenda.com/nb/articles/4854537-2d-viewer#h_381a9d4098). <br>Merk: Markører kan fortsatt ikke være synlige hvis markerlagstilstanden er deaktivert.
 
     I denne menyen kan markeringsfargemodus også konfigureres.
-    ([Status, Saktype, Frist](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098)).
+    ([Status, Saktype, Frist](https://support.catenda.com/nb/articles/4854537-2d-viewer#h_381a9d4098)).
 
 1. I lagmenyen kan markeringslaget aktiveres/deaktiveres.
 
@@ -87,7 +87,7 @@ _Legg til markør_ Naviger til en sak eller velg en enkelt sak i sakskortene. H�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/11-add-marker-from-2d-viewer.png)
 
-_Opprett en ny sak med markør_ Naviger først til sakskortene du vil opprett en sak med en markør i. Deretter høyreklikker du i 2D-visningen og velger "Opprett en ny sak med markør" i kontekstdialogren som åpner for å starte [prosessen for oppretting av ny sak](https://support.catenda.com/en/articles/4670268-creating-a-new-topic) med markøren allerede brukt.
+_Opprett en ny sak med markør_ Naviger først til sakskortene du vil opprett en sak med en markør i. Deretter høyreklikker du i 2D-visningen og velger "Opprett en ny sak med markør" i kontekstdialogren som åpner for å starte [prosessen for oppretting av ny sak](https://support.catenda.com/nb/articles/4670268-creating-a-new-topic) med markøren allerede brukt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/12-add-marker-from-2d-viewer.png)
 

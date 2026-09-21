@@ -12,7 +12,7 @@ Durch Anklicken der Filterschaltfläche wird ein Panel auf der linken Seite ange
 
 ## 2. **Gespeicherte Filter**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/8551755-saving-filters), um mehr darüber zu erfahren, wie Sie eine Reihe von Filtern speichern
+Klicken Sie [hier](https://support.catenda.com/de/articles/8551755-saving-filters), um mehr darüber zu erfahren, wie Sie eine Reihe von Filtern speichern
 
 ## 3. **Filter**
 
@@ -22,11 +22,11 @@ Klicken Sie auf die Filterschaltfläche oben links, um ein Panel auf der linken 
 
 ### 3.1 **Aktuellen Filter speichern und freigeben**
 
-Gehen Sie zur URL einer gefilterten Seite, um diese Seite mit angewendetem Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/en/articles/11401493-saving-a-filter-link), um mehr darüber zu erfahren, wie Sie Filter speichern und freigeben
+Gehen Sie zur URL einer gefilterten Seite, um diese Seite mit angewendetem Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/de/articles/11401493-saving-a-filter-link), um mehr darüber zu erfahren, wie Sie Filter speichern und freigeben
 
 ### 3.2 **Leere Filter ausblenden**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/8551755-saving-filters), um mehr über die Begrenzung von Filterergebnissen zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8551755-saving-filters), um mehr über die Begrenzung von Filterergebnissen zu erfahren.
 
 ### 3.3 **Reiter**
 
@@ -58,7 +58,7 @@ Name des Mitglieds - `publishedBy=<Member GUID>&subFolders=true`
 
 ### 3.10 **Datumfilter**
 
-Veröffentlicht - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klicken Sie auf Daten auswählen, um Daten auszuwählen, zwischen denen Sie suchen möchten Klicken Sie [hier](https://support.catenda.com/en/articles/6511685-date-filter), um mehr über den Datumfilter zu erfahren
+Veröffentlicht - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klicken Sie auf Daten auswählen, um Daten auszuwählen, zwischen denen Sie suchen möchten Klicken Sie [hier](https://support.catenda.com/de/articles/6511685-date-filter), um mehr über den Datumfilter zu erfahren
 
 ### 3.11 **Offene Genehmigungen - Nur Workflow-Status**
 

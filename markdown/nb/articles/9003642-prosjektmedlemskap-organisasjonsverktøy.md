@@ -1,6 +1,6 @@
 # Prosjektmedlemskap - Organisasjonsverktøy
 
-Du finner prosjektsiden som en underside av [organisasjonens profilside](https://support.catenda.com/en/articles/8497478-organization-profile-page). Her kan du se en oversikt over alle medlemmene som er del av prosjekter som tilhører denne organisasjonen.
+Du finner prosjektsiden som en underside av [organisasjonens profilside](https://support.catenda.com/nb/articles/8497478-organization-profile-page). Her kan du se en oversikt over alle medlemmene som er del av prosjekter som tilhører denne organisasjonen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hmv9p08/01-intro.png)
 

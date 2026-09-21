@@ -1,6 +1,6 @@
 # Opprette en ny gjennomgangforespørsel - Eldre versjon
 
-Du kan finne handlingen for ny gjennomgangforespørsel ved å klikke på handlingsmenyen til høyre for den grønne plusskjappen på [gjennomgangssiden](https://support.catenda.com/en/articles/8349340-approvals-page).
+Du kan finne handlingen for ny gjennomgangforespørsel ved å klikke på handlingsmenyen til høyre for den grønne plusskjappen på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-approvals-page).
 
 ## 1. **Gjennomgang Header - Emnet for en gjennomgang**
 
@@ -46,7 +46,7 @@ Slik kan kroppen på en ny gjennomgang se ut:
 
 ### 1.8 **Beskrivelse**
 
-Beskrivelsen av gjennomgangen følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+Beskrivelsen av gjennomgangen følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts).
 
 ### 1.9 **Utkast**
 

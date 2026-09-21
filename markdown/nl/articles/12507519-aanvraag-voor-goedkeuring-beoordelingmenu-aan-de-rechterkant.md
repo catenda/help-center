@@ -1,6 +1,6 @@
 # Aanvraag voor goedkeuring - beoordelingmenu aan de rechterkant
 
-Wanneer de [beoordelingvan een goedkeuringaanvraag](https://support.catenda.com/en/articles/12507002-file-review-in-an-approval-request) voor het eerst wordt geopend, kan het rechtermenu gesloten zijn. Klik op de informatieknop aan de rechterkant om dit menu uit te vouwen.
+Wanneer de [beoordelingvan een goedkeuringaanvraag](https://support.catenda.com/nl/articles/12507002-file-review-in-an-approval-request) voor het eerst wordt geopend, kan het rechtermenu gesloten zijn. Klik op de informatieknop aan de rechterkant om dit menu uit te vouwen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/sb8szdmp/01-intro.png)
 

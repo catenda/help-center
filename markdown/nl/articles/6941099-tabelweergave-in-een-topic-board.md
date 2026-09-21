@@ -1,6 +1,6 @@
 # Tabelweergave in een topic board
 
-Klik op Tabelweergave (**4**) in de rechterbovenhoek van de tabel met topics op de [pagina met topics](https://support.catenda.com/en/articles/4670271-topics-page). Standaard wordt de lijstweergave in de tabel weergegeven. De voorkeur voor tabelweergave van topics is een algemene voorkeur. Zodra de gewenste weergave is geselecteerd, worden tabellen met topics in elk topic board van elk project in die weergave voor de gebruiker weergegeven.
+Klik op Tabelweergave (**4**) in de rechterbovenhoek van de tabel met topics op de [pagina met topics](https://support.catenda.com/nl/articles/4670271-topics-page). Standaard wordt de lijstweergave in de tabel weergegeven. De voorkeur voor tabelweergave van topics is een algemene voorkeur. Zodra de gewenste weergave is geselecteerd, worden tabellen met topics in elk topic board van elk project in die weergave voor de gebruiker weergegeven.
 
 ## 1. **Tabel met topics**
 
@@ -8,7 +8,7 @@ De tabel met topics kan er zo uitzien wanneer de tabelweergave is geconfigureerd
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/01-topics-table.png)
 
-Klik [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) om meer te lezen over het werken met tabellen in Catenda. Zodra een topic is aangemaakt en de tabel is geladen, verschijnt het topic als een rij in de tabel met topics voor de gebruiker. Houd er rekening mee dat het openfilter standaard is ingeschakeld en gesloten topics kunnen verborgen zijn totdat ze worden gefilterd.
+Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) om meer te lezen over het werken met tabellen in Catenda. Zodra een topic is aangemaakt en de tabel is geladen, verschijnt het topic als een rij in de tabel met topics voor de gebruiker. Houd er rekening mee dat het openfilter standaard is ingeschakeld en gesloten topics kunnen verborgen zijn totdat ze worden gefilterd.
 
 ### 1.1 **Wijzigingen die zijn aangebracht bij het weergeven**
 
@@ -20,7 +20,7 @@ Na het selecteren van een topicrij verschijnt het menu voor geselecteerde item-a
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/02-selected-item-actions.png)
 
-Klik [hier](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board) om meer te lezen over het menu voor acties voor geselecteerde items.
+Klik [hier](https://support.catenda.com/nl/articles/4670284-actions-in-a-topic-board) om meer te lezen over het menu voor acties voor geselecteerde items.
 
 ### 1.3 **Rijinhoud**
 
@@ -82,7 +82,7 @@ _Cursorverlaging_ U weet dat u op de juiste plaats beweegt wanneer uw cursor ver
 
 ## 5. **4. Lijstweergave**
 
-Wissel tussen [Lijstweergave](https://support.catenda.com/en/articles/6941232-issue-board-s-list-view) of Tabelweergave
+Wissel tussen [Lijstweergave](https://support.catenda.com/nl/articles/6941232-issue-board-s-list-view) of Tabelweergave
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/08-4-list-view.png)
 
@@ -108,16 +108,16 @@ De volgende pagina's kunnen als subpagina's op de topicpagina worden gevonden: D
 
 ### 8.1 **Boards**
 
-[Boards](https://support.catenda.com/en/articles/9413644-boards-page) - Een overzicht van alle topic boards
+[Boards](https://support.catenda.com/nl/articles/9413644-boards-page) - Een overzicht van alle topic boards
 
 ### 8.2 **Milestones**
 
-[Milestones](https://support.catenda.com/en/articles/4670266-creating-a-new-milestone) - Belangrijke data in het project
+[Milestones](https://support.catenda.com/nl/articles/4670266-creating-a-new-milestone) - Belangrijke data in het project
 
 ### 8.3 **Statistieken**
 
-[Statistieken](https://support.catenda.com/en/articles/7575491-statistics-page) - Bekijk de statistieken van het huidige topic board
+[Statistieken](https://support.catenda.com/nl/articles/7575491-statistics-page) - Bekijk de statistieken van het huidige topic board
 
 ### 8.4 **Instellingen**
 
-Als u op de [instellingenpagina](https://support.catenda.com/en/articles/4670277-issue-board-settings) klikt, wordt de instellingenpagina voor het huidige topic board geopend. _Vereiste toegang:_ Volledige toegang tot het topic board
+Als u op de [instellingenpagina](https://support.catenda.com/nl/articles/4670277-issue-board-settings) klikt, wordt de instellingenpagina voor het huidige topic board geopend. _Vereiste toegang:_ Volledige toegang tot het topic board

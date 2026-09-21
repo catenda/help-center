@@ -16,15 +16,15 @@ Klikk på prosjekt-rullgardinen for å navigere til dashbordet for et annet pros
 
 ### 1.2 **Prosjektpaneler**
 
-Klikk [her](https://support.catenda.com/en/articles/13141464-project-panels) for å lese mer om prosjektpaneler
+Klikk [her](https://support.catenda.com/nb/articles/13141464-project-panels) for å lese mer om prosjektpaneler
 
 ### 1.3 **Kontoknappar**
 
-Klikk [her](https://support.catenda.com/en/articles/4670260-account-buttons) for å lese mer om kontoknappar
+Klikk [her](https://support.catenda.com/nb/articles/4670260-account-buttons) for å lese mer om kontoknappar
 
 ## 2. **Saker**
 
-I [saksdelen](https://support.catenda.com/en/articles/4670271-issues-page) vil du kunne se en oversikt over [alle sakene](https://support.catenda.com/en/articles/4670271-issues-page#h_9bd3bd842b) i prosjektet. Slik kan sakersmenyen se ut:
+I [saksdelen](https://support.catenda.com/nb/articles/4670271-issues-page) vil du kunne se en oversikt over [alle sakene](https://support.catenda.com/nb/articles/4670271-issues-page#h_9bd3bd842b) i prosjektet. Slik kan sakersmenyen se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/03-topics.png)
 
@@ -40,7 +40,7 @@ Her kan det totale antallet åpne saker som medlemmer har tilgang til ses.
 
 ### 2.2 **Saker tilordnet meg**
 
-Antallet saker som har blitt [tildelt til et medlem](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board#h_12a5c945fd) i sakslister de har tilgang til vises.
+Antallet saker som har blitt [tildelt til et medlem](https://support.catenda.com/nb/articles/8370693-filtering-in-a-topic-board#h_12a5c945fd) i sakslister de har tilgang til vises.
 
 ### 2.3 **Saksliste-graf**
 
@@ -54,11 +54,11 @@ For hver saksliste vises en sirkulær graf som den på milepælssiden, med prose
 
 ### 2.4 **Nylig oppdaterte saker**
 
-Klikk på nylig oppdaterte saker for å åpne [alle saker sakslisten](https://support.catenda.com/en/articles/4670271-issues-page#h_9bd3bd842b) sortert etter den oppdaterte kolonnen.
+Klikk på nylig oppdaterte saker for å åpne [alle saker sakslisten](https://support.catenda.com/nb/articles/4670271-issues-page#h_9bd3bd842b) sortert etter den oppdaterte kolonnen.
 
 ### 2.5 **Alle sakslister**
 
-Antallet som vises er antallet brett medlemmet som er logget inn har minst lesetilgang til. Klikk på alle sakslister for å åpne [brett-siden](https://support.catenda.com/en/articles/9413644-boards-page).
+Antallet som vises er antallet brett medlemmet som er logget inn har minst lesetilgang til. Klikk på alle sakslister for å åpne [brett-siden](https://support.catenda.com/nb/articles/9413644-boards-page).
 
 Nye sakslister kan opprettes. _Tilgang påkrevd:_ Opprette sakslister i prosjektinnstillinger Innstillingene for hver saksliste kan nås. _Tilgang påkrevd:_ Full tilgang til sakslisten.
 
@@ -74,7 +74,7 @@ Klikk på saknummeret for å kopiere URL-adressen til denne saken.
 
 ## 3. **Mine bokmerker**
 
-Her vises alle stjernede [bokmerker](https://support.catenda.com/en/articles/4670281-bookmarks) med skjermbilde og tittel.
+Her vises alle stjernede [bokmerker](https://support.catenda.com/nb/articles/4670281-bookmarks) med skjermbilde og tittel.
 
 Slik kan bokmerkermenyen se ut:
 
@@ -98,7 +98,7 @@ Hvis det ennå ikke finnes noen modeller i prosjektet, kan en grønn plussknapp 
 
 Klikk på plussknappen for å opprette en ny modell. _Tilgang påkrevd:_ Tilgang til å opprette modeller på siden med prosjektinnstillinger.
 
-Klikk på navnet på en modell for å gå til [modellinnholdssiden](https://support.catenda.com/en/articles/4670270-model-overview-page) for denne modellen. Knappene 2D/3D lar deg laste modellen i viseren.
+Klikk på navnet på en modell for å gå til [modellinnholdssiden](https://support.catenda.com/nb/articles/4670270-model-overview-page) for denne modellen. Knappene 2D/3D lar deg laste modellen i viseren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/10-models.png)
 
@@ -114,7 +114,7 @@ En grønn plussknapp kan ses mot øvre høyre hjørne av menyen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/09-models.png)
 
-Klikk på plussknappen for å [invitere et nytt medlem](https://support.catenda.com/en/articles/4670247-inviting-new-members-to-the-project) til prosjektet ditt. _Tilgang påkrevd:_ Tilgang til å invitere nye medlemmer på siden med prosjektinnstillinger.
+Klikk på plussknappen for å [invitere et nytt medlem](https://support.catenda.com/nb/articles/4670247-inviting-new-members-to-the-project) til prosjektet ditt. _Tilgang påkrevd:_ Tilgang til å invitere nye medlemmer på siden med prosjektinnstillinger.
 
 Klikk på profilbildet til et medlem for å se medlemmets side.
 
@@ -124,23 +124,23 @@ Gjennomgangsmenyen er ikke synlig for prosjekter der delte revisjoner ble aktive
 
 ### 6.1 **Gjennomganger - Arv**
 
-I prosjekter der den gamle valideringsarbeidsflyten er aktivert, vises gjennomganger på dashbordet. Hvis du klikker på gjennomganger, blir du tatt til [gjennomgangs](https://support.catenda.com/en/articles/5784717-document-approval)-siden.
+I prosjekter der den gamle valideringsarbeidsflyten er aktivert, vises gjennomganger på dashbordet. Hvis du klikker på gjennomganger, blir du tatt til [gjennomgangs](https://support.catenda.com/nb/articles/5784717-document-approval)-siden.
 
 Slik kan gjennomgangsmenyen se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/13-approvals-legacy.png)
 
-**Åpne gjennomganger** Se alle åpne [gjennomganger](https://support.catenda.com/en/articles/5784717-document-approval)
+**Åpne gjennomganger** Se alle åpne [gjennomganger](https://support.catenda.com/nb/articles/5784717-document-approval)
 
-**Opprettet av meg** Se alle åpne [gjennomganger](https://support.catenda.com/en/articles/5784717-document-approval) du har opprettet
+**Opprettet av meg** Se alle åpne [gjennomganger](https://support.catenda.com/nb/articles/5784717-document-approval) du har opprettet
 
-**Jeg er vurderer** Se alle åpne [gjennomganger](https://support.catenda.com/en/articles/8349340-approvals-page) der du er satt som vurderer.
+**Jeg er vurderer** Se alle åpne [gjennomganger](https://support.catenda.com/nb/articles/8349340-approvals-page) der du er satt som vurderer.
 
-**Gjennomgangforespørselskort** Se de 5 nyeste åpne [gjennomganger](https://support.catenda.com/en/articles/5784717-document-approval) i prosjektet. Klikk på en [gjennomgang](https://support.catenda.com/en/articles/5784717-document-approval) for å se innholdet.
+**Gjennomgangforespørselskort** Se de 5 nyeste åpne [gjennomganger](https://support.catenda.com/nb/articles/5784717-document-approval) i prosjektet. Klikk på en [gjennomgang](https://support.catenda.com/nb/articles/5784717-document-approval) for å se innholdet.
 
 ## 7. **Samlinger**
 
-Klikk på samlinger for å gå til [samlingssiden](https://support.catenda.com/en/articles/6344318-collections-page)
+Klikk på samlinger for å gå til [samlingssiden](https://support.catenda.com/nb/articles/6344318-collections-page)
 
 Slik kan samlingmenyen se ut:
 
@@ -148,12 +148,12 @@ Slik kan samlingmenyen se ut:
 
 ### 7.1 **Samlinger under arbeid**
 
-Se hvilke [samlinger](https://support.catenda.com/en/articles/6344318-collections-page) som ennå ikke er fullført. Disse kan brukes til å dele dokumenter med personer innen prosjektet
+Se hvilke [samlinger](https://support.catenda.com/nb/articles/6344318-collections-page) som ennå ikke er fullført. Disse kan brukes til å dele dokumenter med personer innen prosjektet
 
 ### 7.2 **Fullførte samlinger**
 
-Se hvilke [samlinger](https://support.catenda.com/en/articles/6344318-collections-page) som er fullført. Disse kan brukes til å dele dokumenter eksternt.
+Se hvilke [samlinger](https://support.catenda.com/nb/articles/6344318-collections-page) som er fullført. Disse kan brukes til å dele dokumenter eksternt.
 
 ### 7.3 **Samlinger**
 
-Se de 5 nyeste [samlinger](https://support.catenda.com/en/articles/6344318-collections-page) i prosjektet. Klikk på en samling for å se samlingens innholdsside.
+Se de 5 nyeste [samlinger](https://support.catenda.com/nb/articles/6344318-collections-page) i prosjektet. Klikk på en samling for å se samlingens innholdsside.

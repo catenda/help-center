@@ -1,10 +1,10 @@
 # Inspect-Menü
 
-Das Inspect-Menü finden Sie als erstes Menü im [Informationsbereich](https://support.catenda.com/en/articles/8238584-information-panel).
+Das Inspect-Menü finden Sie als erstes Menü im [Informationsbereich](https://support.catenda.com/de/articles/8238584-information-panel).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/01-intro.png)
 
-Wählen Sie ein Objekt im [3D-Viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) oder [Baum-Panel](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) aus, um zu beginnen. Die Eigenschaften und zugehörigen Informationen werden im Inspect-Menü angezeigt. Nach der Auswahl eines Objekts kann das Inspect-Panel etwa so aussehen:
+Wählen Sie ein Objekt im [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer) oder [Baum-Panel](https://intercom.help/bimsync-arena/de/articles/4670290-trees-panel) aus, um zu beginnen. Die Eigenschaften und zugehörigen Informationen werden im Inspect-Menü angezeigt. Nach der Auswahl eines Objekts kann das Inspect-Panel etwa so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/02-intro.png)
 
@@ -32,7 +32,7 @@ Die GUID des Objekts. Dieser Code ist für jedes Objekt eindeutig und kann verwe
 
 ### 1.5 **Typ**
 
-Der Typ des Objekts. Jeder Typ hat seine eigene eindeutige GUID. Zwei Objekte, die den gleichen Typ zu haben scheinen, können daher tatsächlich unterschiedliche Typen mit unterschiedlichen GUIDs haben. Klicken Sie auf den Typ, um alle Objekte dieses Typs auszuwählen. Dadurch wird der Typbaum im [Baum-Panel](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) aktiviert, wo Sie den ausgewählten Typ in der Liste der Typen für dieses Modell sehen können.
+Der Typ des Objekts. Jeder Typ hat seine eigene eindeutige GUID. Zwei Objekte, die den gleichen Typ zu haben scheinen, können daher tatsächlich unterschiedliche Typen mit unterschiedlichen GUIDs haben. Klicken Sie auf den Typ, um alle Objekte dieses Typs auszuwählen. Dadurch wird der Typbaum im [Baum-Panel](https://intercom.help/bimsync-arena/de/articles/4670290-trees-panel) aktiviert, wo Sie den ausgewählten Typ in der Liste der Typen für dieses Modell sehen können.
 
 ### 1.6 **Vordefinierter Typ**
 
@@ -40,7 +40,7 @@ Der vordefinierte Typ gibt Auskunft darüber, mit welcher Art von Typ Sie es zu 
 
 ### 1.7 **Containment**
 
-Wenn Ihr Objekt Teil einer Hierarchie ist, sehen Sie hier den übergeordneten Knoten in der Hierarchie. Klicken Sie auf den übergeordneten Knoten, um alle von diesem übergeordneten Knoten enthaltenen Objekte auszuwählen. Dadurch wird der Containment-Baum im [Baum-Panel](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) aktiviert, wo Sie den Containment-Knoten in der Hierarchie der Objekte in Ihrem Modell sehen können.
+Wenn Ihr Objekt Teil einer Hierarchie ist, sehen Sie hier den übergeordneten Knoten in der Hierarchie. Klicken Sie auf den übergeordneten Knoten, um alle von diesem übergeordneten Knoten enthaltenen Objekte auszuwählen. Dadurch wird der Containment-Baum im [Baum-Panel](https://intercom.help/bimsync-arena/de/articles/4670290-trees-panel) aktiviert, wo Sie den Containment-Knoten in der Hierarchie der Objekte in Ihrem Modell sehen können.
 
 ## 2. **Ausrichtungen**
 
@@ -52,11 +52,11 @@ So kann die Ausrichtungstabelle aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/04-alignments.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda), um mehr über Tabellen auf Catenda zu erfahren
+Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um mehr über Tabellen auf Catenda zu erfahren
 
 ## 3. **Themen**
 
-Im Menü "Themen" können Sie sehen, ob es offene oder geschlossene Themen gibt, die [mit](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_758f17abbc) Ihrem/Ihren ausgewählten Objekt(en) verknüpft sind. Das Menü "Themen" kann so aussehen:
+Im Menü "Themen" können Sie sehen, ob es offene oder geschlossene Themen gibt, die [mit](https://support.catenda.com/de/articles/8053299-right-menu-in-a-topic#h_758f17abbc) Ihrem/Ihren ausgewählten Objekt(en) verknüpft sind. Das Menü "Themen" kann so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/05-topics.png)
 
@@ -124,7 +124,7 @@ Hier finden Sie die Materialien, die die ausgewählten Objekte gemeinsam haben
 
 ## 5. **Bibliotheken**
 
-Wenn Ihre ausgewählten Objekte [mit Dokumenten verknüpft](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document#h_d0769e55eb) sind oder Bibliothekselemente vorhanden sind, können Sie diese hier sehen. Das Menü "Bibliotheken" kann so aussehen:
+Wenn Ihre ausgewählten Objekte [mit Dokumenten verknüpft](https://support.catenda.com/de/articles/8302244-right-menu-in-a-document#h_d0769e55eb) sind oder Bibliothekselemente vorhanden sind, können Sie diese hier sehen. Das Menü "Bibliotheken" kann so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/10-libraries.png)
 

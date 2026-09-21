@@ -46,7 +46,7 @@ OneDrive en SharePoint 400 Unicode-codeunits
 
 **Kleinere zip-bestanden** Als het zip-bestand uit meerdere bestanden bestaat, kan het zip-bestand in kleinere zip-bestanden worden gesplitst. Elk afzonderlijk zip-bestand kan afzonderlijk worden geüpload, maar er zal altijd een risico op een netwerk- of verbindingsfout zijn.
 
-**Afzonderlijke bestanden** De [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) is een veiliger manier om te uploaden omdat documenten bestand voor bestand worden geüpload. Dit is ook sneller omdat de bestanden rechtstreeks naar onze backend worden geüpload in plaats van via de browserinterface. Zelfs als een van de bestanden mislukt, worden de bestanden die tot nu toe zijn geüpload, al weergegeven in Catenda. De resterende bestanden gaan de volgende keer uploaden wanneer de uploadtaak wordt uitgevoerd.
+**Afzonderlijke bestanden** De [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) is een veiliger manier om te uploaden omdat documenten bestand voor bestand worden geüpload. Dit is ook sneller omdat de bestanden rechtstreeks naar onze backend worden geüpload in plaats van via de browserinterface. Zelfs als een van de bestanden mislukt, worden de bestanden die tot nu toe zijn geüpload, al weergegeven in Catenda. De resterende bestanden gaan de volgende keer uploaden wanneer de uploadtaak wordt uitgevoerd.
 
 ## 2. **Zip-uploads met speciale tekens**
 

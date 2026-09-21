@@ -1,6 +1,6 @@
 # Tavler-side
 
-Du finner Sakslistesiden som en underside til [Saker-siden](https://support.catenda.com/en/articles/4670271-topics-page). Sakslistesiden gir deg en oversikt over dine tilgjengelige saklister.
+Du finner Sakslistesiden som en underside til [Saker-siden](https://support.catenda.com/nb/articles/4670271-topics-page). Sakslistesiden gir deg en oversikt over dine tilgjengelige saklister.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zq777cpq/01-intro.png)
 
@@ -16,7 +16,7 @@ Den nye Saksliste-siden kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zq777cpq/03-new-topic-board.png)
 
-Fyll inn navn og beskrivelse og trykk legg til. Klikk [her](https://support.catenda.com/en/articles/6379614-topic-board-from-an-existing-topic-board) for å lese mer om å opprette nye saklister. _Tilgang kreves:_ Skriverettigheter til [opprettelse av nye saklister](https://support.catenda.com/en/articles/4670299-topic-board-creation-acl) i [prosjektinnstillinger](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3).
+Fyll inn navn og beskrivelse og trykk legg til. Klikk [her](https://support.catenda.com/nb/articles/6379614-topic-board-from-an-existing-topic-board) for å lese mer om å opprette nye saklister. _Tilgang kreves:_ Skriverettigheter til [opprettelse av nye saklister](https://support.catenda.com/nb/articles/4670299-topic-board-creation-acl) i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-project-settings-page#h_f82a1850f3).
 
 ## 2. **Saktavelliste**
 
@@ -30,7 +30,7 @@ Ved å klikke på sakliste-navnet kan du hoppe direkte inn i saklisten. _Tilgang
 
 ### 2.2 **Innstillinger**
 
-Klikk på innstillingsknappen for å gå til [innstillingene for den saklisten](https://support.catenda.com/en/articles/4670277-topic-board-settings). Du kan også gå inn i saklisten og velge menyelementet innstillinger i navigasjonsmenyen på venstre side. _Tilgang kreves:_ Fullstendig tilgang til saklisten
+Klikk på innstillingsknappen for å gå til [innstillingene for den saklisten](https://support.catenda.com/nb/articles/4670277-topic-board-settings). Du kan også gå inn i saklisten og velge menyelementet innstillinger i navigasjonsmenyen på venstre side. _Tilgang kreves:_ Fullstendig tilgang til saklisten
 
 ### 2.3 **Statistikk**
 

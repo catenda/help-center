@@ -18,54 +18,54 @@ Terwijl nieuwe functies worden uitgerold en bugs worden opgelost, worden artikel
 
 **Productfuncties**
 
-- [Hoe toegangsniveaus worden berekend](https://support.catenda.com/en/articles/15644094-how-access-levels-are-calculated)
-- [Gebruikssituaties voor inzetgeving van toegangsbeheer](https://support.catenda.com/en/articles/15644249-access-control-deployment-use-cases)
-- [Bewerkingen op bibliotheekitems](https://support.catenda.com/en/articles/15647394-operations-on-document-library-items)
-- [Een nieuwe modelexport maken](https://support.catenda.com/en/articles/15481038-creating-a-new-model-export)
-- [Pagina modelexport](https://support.catenda.com/en/articles/15480883-model-export-content-page)
+- [Hoe toegangsniveaus worden berekend](https://support.catenda.com/nl/articles/15644094-how-access-levels-are-calculated)
+- [Gebruikssituaties voor inzetgeving van toegangsbeheer](https://support.catenda.com/nl/articles/15644249-access-control-deployment-use-cases)
+- [Bewerkingen op bibliotheekitems](https://support.catenda.com/nl/articles/15647394-operations-on-document-library-items)
+- [Een nieuwe modelexport maken](https://support.catenda.com/nl/articles/15481038-creating-a-new-model-export)
+- [Pagina modelexport](https://support.catenda.com/nl/articles/15480883-model-export-content-page)
 
 **Gebruikssituaties**
 
-- [Gebruikssituaties revisienaamgeving](https://support.catenda.com/en/articles/15886912-revision-naming-use-cases)
-- [Revisieblokken in naamgevingsconventies](https://support.catenda.com/en/articles/15886483-revision-blocks-in-naming-conventions)
+- [Gebruikssituaties revisienaamgeving](https://support.catenda.com/nl/articles/15886912-revision-naming-use-cases)
+- [Revisieblokken in naamgevingsconventies](https://support.catenda.com/nl/articles/15886483-revision-blocks-in-naming-conventions)
 
 **Probleemoplossing**
 
-- [Probleemoplossing documentweergave](https://support.catenda.com/en/articles/13962654-document-preview-troubleshooting)
-- [Probleemoplossing goedkeuringbestandweergave](https://support.catenda.com/en/articles/15286207-approval-file-review-troubleshooting)
-- [Probleemoplossing revisieconventie](https://support.catenda.com/en/articles/15886850-revision-convention-troubleshooting)
+- [Probleemoplossing documentweergave](https://support.catenda.com/nl/articles/13962654-document-preview-troubleshooting)
+- [Probleemoplossing goedkeuringbestandweergave](https://support.catenda.com/nl/articles/15286207-approval-file-review-troubleshooting)
+- [Probleemoplossing revisieconventie](https://support.catenda.com/nl/articles/15886850-revision-convention-troubleshooting)
 
 ### 1.2 **Gewijzigde artikelen:**
 
 **Accountbeheer**
 
-- [Een team maken](https://support.catenda.com/en/articles/4670264-creating-a-team)
-- [Organisatietypen](https://support.catenda.com/en/articles/13653807-organization-types)
-- [Aanmelden en wachtwoorden](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords)
+- [Een team maken](https://support.catenda.com/nl/articles/4670264-creating-a-team)
+- [Organisatietypen](https://support.catenda.com/nl/articles/13653807-organization-types)
+- [Aanmelden en wachtwoorden](https://support.catenda.com/nl/articles/10798891-sign-in-and-passwords)
 
 **Productfuncties**
 
-- [Overzicht van de belangrijkste sneltoetsen en basisbesturingselementen](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
-- [Onderwerptekst - De inhoud van een onderwerp](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
-- [Toegangsbeheer voor mappen en documenten](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
-- [Documentweergavehulpmiddelen](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-- [Pagina modelexport](https://support.catenda.com/en/articles/4670280-model-export-page)
-- [Toegangsbeheer onderwerppaneel](https://support.catenda.com/en/articles/4670296-topic-board-access-control)
-- [Pagina inhoud aangepast veld](https://support.catenda.com/en/articles/8445588-custom-field-contents-page)
-- [Meten tot glijdende vlakken](https://support.catenda.com/en/articles/4670298-measuring-to-sliding-planes)
-- [Vervolgkeuzelijst glijdend vlak](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
-- [Acties in de Catenda Revit-invoegtoepassing](https://support.catenda.com/en/articles/13168755-actions-in-the-catenda-revit-plugin)
-- [Rechtermenu in een onderwerppaneel](https://support.catenda.com/en/articles/6941224-right-menu-in-a-topic-board)
-- [Weergave van 2D-viewer](https://support.catenda.com/en/articles/13615984-2d-viewer-appearance)
-- [2D-locatie van onderwerpen](https://support.catenda.com/en/articles/4854523-2d-location-of-topics)
-- [2D-locatie van onderwerpen - Catenda Site](https://support.catenda.com/en/articles/13616245-2d-location-of-topics-catenda-site)
-- [2D-viewer - Catenda Site](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site)
+- [Overzicht van de belangrijkste sneltoetsen en basisbesturingselementen](https://support.catenda.com/nl/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
+- [Onderwerptekst - De inhoud van een onderwerp](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic)
+- [Toegangsbeheer voor mappen en documenten](https://support.catenda.com/nl/articles/4670287-folders-and-documents-access-control)
+- [Documentweergavehulpmiddelen](https://support.catenda.com/nl/articles/11384618-document-preview-tools)
+- [Pagina modelexport](https://support.catenda.com/nl/articles/4670280-model-export-page)
+- [Toegangsbeheer onderwerppaneel](https://support.catenda.com/nl/articles/4670296-topic-board-access-control)
+- [Pagina inhoud aangepast veld](https://support.catenda.com/nl/articles/8445588-custom-field-contents-page)
+- [Meten tot glijdende vlakken](https://support.catenda.com/nl/articles/4670298-measuring-to-sliding-planes)
+- [Vervolgkeuzelijst glijdend vlak](https://support.catenda.com/nl/articles/4670327-sliding-plane-dropdown)
+- [Acties in de Catenda Revit-invoegtoepassing](https://support.catenda.com/nl/articles/13168755-actions-in-the-catenda-revit-plugin)
+- [Rechtermenu in een onderwerppaneel](https://support.catenda.com/nl/articles/6941224-right-menu-in-a-topic-board)
+- [Weergave van 2D-viewer](https://support.catenda.com/nl/articles/13615984-2d-viewer-appearance)
+- [2D-locatie van onderwerpen](https://support.catenda.com/nl/articles/4854523-2d-location-of-topics)
+- [2D-locatie van onderwerpen - Catenda Site](https://support.catenda.com/nl/articles/13616245-2d-location-of-topics-catenda-site)
+- [2D-viewer - Catenda Site](https://support.catenda.com/nl/articles/7748370-2d-viewer-catenda-site)
 
 **Probleemoplossing**
 
-- [Dialoogvenster document uploaden probleemoplossing](https://support.catenda.com/en/articles/11070748-upload-document-dialogue-troubleshooting)
-- [Probleemoplossing Catenda Revit-invoegtoepassing](https://support.catenda.com/en/articles/14301534-catenda-revit-plugin-troubleshooting)
-- [Aanmelden en wachtwoorden](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords)
+- [Dialoogvenster document uploaden probleemoplossing](https://support.catenda.com/nl/articles/11070748-upload-document-dialogue-troubleshooting)
+- [Probleemoplossing Catenda Revit-invoegtoepassing](https://support.catenda.com/nl/articles/14301534-catenda-revit-plugin-troubleshooting)
+- [Aanmelden en wachtwoorden](https://support.catenda.com/nl/articles/10798891-sign-in-and-passwords)
 
 ## 2. **Nieuwe videotutorials**
 

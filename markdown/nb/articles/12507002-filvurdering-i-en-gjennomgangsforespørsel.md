@@ -66,8 +66,8 @@ Vurderingens fullskjermknapp finner du mot øverst til høyre på gjennomgangsfo
 
 ## 6. Dokumentforhåndsvisning
 
-Når du vurderer filvurderingen på vegne av et team, vil alle [dokumentannotasjonsverktøy](https://support.catenda.com/en/articles/11384618-document-preview-tools) være tilgjengelige. Dokumentforhåndsvisningen på gjennomgangsforespørselsvurderingssiden fungerer på samme måte som [dokumentforhåndsvisningen](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) når du åpner et dokument fra dokumenttabellen.
+Når du vurderer filvurderingen på vegne av et team, vil alle [dokumentannotasjonsverktøy](https://support.catenda.com/nb/articles/11384618-document-preview-tools) være tilgjengelige. Dokumentforhåndsvisningen på gjennomgangsforespørselsvurderingssiden fungerer på samme måte som [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-document-preview-and-annotations) når du åpner et dokument fra dokumenttabellen.
 
 ### 6.1 Bare lesing
 
-Når du ser filvurderingen i skrivebeskyttet modus, vil bare [visningsverktøyet](https://support.catenda.com/en/articles/11384618-document-preview-tools#h_27c7badabb) være tilgjengelig i verktøylinjen for dokumentforhåndsvisningen.
+Når du ser filvurderingen i skrivebeskyttet modus, vil bare [visningsverktøyet](https://support.catenda.com/nb/articles/11384618-document-preview-tools#h_27c7badabb) være tilgjengelig i verktøylinjen for dokumentforhåndsvisningen.

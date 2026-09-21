@@ -1,6 +1,6 @@
 # Erstellung von Themen-Board-ACLs
 
-Administratoren können konfigurieren, wer Zugriff auf die Erstellung von Themen-Boards im Abschnitt "Zugriffskontrolle" der [Projekteinstellungsseite](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) hat.
+Administratoren können konfigurieren, wer Zugriff auf die Erstellung von Themen-Boards im Abschnitt "Zugriffskontrolle" der [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-project-settings-page#h_f82a1850f3) hat.
 
 1. Unter der Zugriffskontrolle auf dieser Seite finden Sie "Neues Themen-Board erstellen".
 

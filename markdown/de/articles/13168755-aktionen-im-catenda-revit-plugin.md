@@ -1,8 +1,8 @@
 # Aktionen im Catenda Revit Plugin
 
-> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/de/articles/8396532-catenda-plugins-and-integrations).
 
-Die Aktionen [Catenda Revit Plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin) finden Sie oben rechts im Plugin-Fenster in der Revit-Anwendung.
+Die Aktionen [Catenda Revit Plugin](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin) finden Sie oben rechts im Plugin-Fenster in der Revit-Anwendung.
 
 So kann das Aktionsmenü aussehen:
 
@@ -60,7 +60,7 @@ Klicken Sie auf "Hochladen", um ein IFC hochzuladen. Ein Kommentar muss hinzugef
 
 ## 3. **3. Einstellungen**
 
-Die Einstellungsseite ermöglicht es Ihnen, zu ändern, wie das Plugin eine 3D-Ansicht erstellt, wenn Sie die [Zoom-Funktion](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin#h_36392f671a) verwenden.
+Die Einstellungsseite ermöglicht es Ihnen, zu ändern, wie das Plugin eine 3D-Ansicht erstellt, wenn Sie die [Zoom-Funktion](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin#h_36392f671a) verwenden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/05-3-settings.png)
 
@@ -90,7 +90,7 @@ Mit der Viewpoint-Transformation kann der Viewpoint in Revit so konfiguriert wer
 
 ## 4. **4. Konto**
 
-Öffnen Sie Ihre Catenda Hub-Kontoseite in Ihrem Standardbrowser. Klicken Sie [hier](https://support.catenda.com/en/articles/6880968-account-page), um mehr über die Kontoseite zu erfahren.
+Öffnen Sie Ihre Catenda Hub-Kontoseite in Ihrem Standardbrowser. Klicken Sie [hier](https://support.catenda.com/de/articles/6880968-account-page), um mehr über die Kontoseite zu erfahren.
 
 ## 5. **5. Abmelden**
 
@@ -98,6 +98,6 @@ Klicken Sie auf "Abmelden", um sich aus Catenda Hub im Plugin abzumelden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/06-5-sign-out.png)
 
-Nach dem Abmelden wird die Anmeldungsseite angezeigt, auf der sich das gleiche Konto oder ein anderes Konto mit Benutzername und Passwort anmelden kann. Klicken Sie [hier](https://support.catenda.com/en/articles/7891486-sign-in-page), um mehr über die Anmeldungsseite zu erfahren.
+Nach dem Abmelden wird die Anmeldungsseite angezeigt, auf der sich das gleiche Konto oder ein anderes Konto mit Benutzername und Passwort anmelden kann. Klicken Sie [hier](https://support.catenda.com/de/articles/7891486-sign-in-page), um mehr über die Anmeldungsseite zu erfahren.
 
 Nach erneuter Anmeldung wird das erste Projekt in der Projektliste angezeigt. Wählen Sie erneut ein Projekt in der Projektliste aus, um ein anderes Projekt anzuzeigen.

@@ -1,6 +1,6 @@
 # Desktop Connector - すべてのフォルダがダウンロードされていません
 
-この記事では、[Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)を使用する際に発生する特定のエラーについての情報を見つけることができます。その他の Desktop Connector トラブルシューティング問題については[こちら](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false)をご覧ください。
+この記事では、[Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)を使用する際に発生する特定のエラーについての情報を見つけることができます。その他の Desktop Connector トラブルシューティング問題については[こちら](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false)をご覧ください。
 
 タスク自体では、以下のような情報が表示されます:
 

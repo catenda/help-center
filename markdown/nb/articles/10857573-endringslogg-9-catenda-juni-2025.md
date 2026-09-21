@@ -16,52 +16,52 @@ Ettersom nye funksjoner utgis og feil rettes, oppdateres artikler med endringene
 
 ### 1.1 **Nye artikler:**
 
-_Produktfunksjoner_ [Forhåndsvisningsverktøy for dokumenter](https://support.catenda.com/en/articles/11384618-document-preview-tools) [Milepælside](https://support.catenda.com/en/articles/11376858-milestone-page)
+_Produktfunksjoner_ [Forhåndsvisningsverktøy for dokumenter](https://support.catenda.com/nb/articles/11384618-document-preview-tools) [Milepælside](https://support.catenda.com/nb/articles/11376858-milestone-page)
 
-_Feilsøking_ [Pålogging og passord](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) [Feilsøking for Desktop Connector](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting) [Feilsøking for ZIP-opplasting](https://support.catenda.com/en/articles/11017391-zip-upload-troubleshooting) [2D-viser bygninger og etasjer](https://support.catenda.com/en/articles/10901703-2d-viewer-buildings-and-storeys) [Feilsøking for opplastingsdialog for dokumenter](https://support.catenda.com/en/articles/11070748-upload-document-dialogue-troubleshooting) [Feilsøking for Solibri-dokumentintegrasjon](https://support.catenda.com/en/articles/11431097-solibri-documents-integration-troubleshooting)
+_Feilsøking_ [Pålogging og passord](https://support.catenda.com/nb/articles/10798891-sign-in-and-passwords) [Feilsøking for Desktop Connector](https://support.catenda.com/nb/articles/11019637-desktop-connector-troubleshooting) [Feilsøking for ZIP-opplasting](https://support.catenda.com/nb/articles/11017391-zip-upload-troubleshooting) [2D-viser bygninger og etasjer](https://support.catenda.com/nb/articles/10901703-2d-viewer-buildings-and-storeys) [Feilsøking for opplastingsdialog for dokumenter](https://support.catenda.com/nb/articles/11070748-upload-document-dialogue-troubleshooting) [Feilsøking for Solibri-dokumentintegrasjon](https://support.catenda.com/nb/articles/11431097-solibri-documents-integration-troubleshooting)
 
-_Opplæring og veiledninger_ [Guidde-videoer](https://support.catenda.com/en/articles/11055278-guidde-videos)
+_Opplæring og veiledninger_ [Guidde-videoer](https://support.catenda.com/nb/articles/11055278-guidde-videos)
 
-_Ofte stilte spørsmål_ [Lagring av filterlenke](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) [Vanlige spørsmål om Catenda Desktop Connector](https://support.catenda.com/en/articles/11582835-catenda-desktop-connector-faq)
+_Ofte stilte spørsmål_ [Lagring av filterlenke](https://support.catenda.com/nb/articles/11401493-saving-a-filter-link) [Vanlige spørsmål om Catenda Desktop Connector](https://support.catenda.com/nb/articles/11582835-catenda-desktop-connector-faq)
 
 ### 1.2 **Artikler som har endret seg:**
 
 _Produktfunksjoner_
 
 - Modeller
-    - [Handlinger på modellsiden](https://support.catenda.com/en/articles/9431936-models-page-actions)
-    - [Handlinger på oversiktssiden for modell](https://support.catenda.com/en/articles/9674157-model-overview-page-actions)
-    - [Kvantitetsoversikt (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
+    - [Handlinger på modellsiden](https://support.catenda.com/nb/articles/9431936-models-page-actions)
+    - [Handlinger på oversiktssiden for modell](https://support.catenda.com/nb/articles/9674157-model-overview-page-actions)
+    - [Kvantitetsoversikt (QTO)](https://support.catenda.com/nb/articles/6673929-quantity-take-off-qto)
 - Saker
-    - [Milepælside](https://support.catenda.com/en/articles/4670266-milestones-page)
+    - [Milepælside](https://support.catenda.com/nb/articles/4670266-milestones-page)
 - Dokumenter
-    - [Høyre meny for en revisjon - Revisjonsinfo](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
-    - [Handlinger for dokumentstruktur](https://support.catenda.com/en/articles/4670288-document-structure-actions)
-    - [Handlinger for dokumentrevisjon](https://support.catenda.com/en/articles/9323521-document-revision-actions)
+    - [Høyre meny for en revisjon - Revisjonsinfo](https://support.catenda.com/nb/articles/8302244-right-menu-of-a-revision-revision-info)
+    - [Handlinger for dokumentstruktur](https://support.catenda.com/nb/articles/4670288-document-structure-actions)
+    - [Handlinger for dokumentrevisjon](https://support.catenda.com/nb/articles/9323521-document-revision-actions)
     - [Dokumentforhåndsvisning og merknader](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=4496538&activeContentType=article&editorMode=view&search=document%20preview)
-    - [Kolonner på dokumentsiden](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
-    - [Revisjonsutgivelse - ISO 19650](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650)
-    - [Last opp en ZIP-/filstruktur](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
-    - [Samlingsside](https://support.catenda.com/en/articles/6344318-collections-page)
+    - [Kolonner på dokumentsiden](https://support.catenda.com/nb/articles/8466850-columns-on-the-documents-page)
+    - [Revisjonsutgivelse - ISO 19650](https://support.catenda.com/nb/articles/9874698-revision-publishing-iso-19650)
+    - [Last opp en ZIP-/filstruktur](https://support.catenda.com/nb/articles/7945410-upload-a-zip-file-structure)
+    - [Samlingsside](https://support.catenda.com/nb/articles/6344318-collections-page)
 - Prosjektinnstillinger
-    - [Siden for prosjektinnstillinger](https://support.catenda.com/en/articles/4670273-project-settings-page)
-    - [Side for egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-    - [Medlemsside](https://support.catenda.com/en/articles/4670291-members-page)
+    - [Siden for prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-project-settings-page)
+    - [Side for egendefinerte felt](https://support.catenda.com/nb/articles/6550459-custom-fields-page)
+    - [Medlemsside](https://support.catenda.com/nb/articles/4670291-members-page)
 - 2D- og 3D-visere
-    - [Verktøymeny for 3D-viser](https://support.catenda.com/en/articles/4670294-3d-viewer-tool-menu)
-    - [3D-viser](https://support.catenda.com/en/articles/8227211-3d-viewer)
-    - [Revisjonsvelger](https://support.catenda.com/en/articles/4670279-revision-selector)
-    - [Punktskyer i Catenda Hub](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
+    - [Verktøymeny for 3D-viser](https://support.catenda.com/nb/articles/4670294-3d-viewer-tool-menu)
+    - [3D-viser](https://support.catenda.com/nb/articles/8227211-3d-viewer)
+    - [Revisjonsvelger](https://support.catenda.com/nb/articles/4670279-revision-selector)
+    - [Punktskyer i Catenda Hub](https://support.catenda.com/nb/articles/5606625-point-clouds-in-catenda-hub)
 - Catenda-plugins og integrasjoner
-    - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
-    - [Saksmeny - Catenda Site](https://support.catenda.com/en/articles/7734073-topics-menu-catenda-site)
-    - [Solibri Modeller og Dokumentintegrasjon](https://support.catenda.com/en/articles/6988148-solibri-models-and-documents-integration)
+    - [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector)
+    - [Saksmeny - Catenda Site](https://support.catenda.com/nb/articles/7734073-topics-menu-catenda-site)
+    - [Solibri Modeller og Dokumentintegrasjon](https://support.catenda.com/nb/articles/6988148-solibri-models-and-documents-integration)
 
-_Feilsøking_ [Maskinvareanbefalinger](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Hvorfor mottar jeg ikke e-poster?](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) [Plassering og funksjonalitet for Støtteknapp](https://support.catenda.com/en/articles/8894066-support-button-location-and-functionality)
+_Feilsøking_ [Maskinvareanbefalinger](https://support.catenda.com/nb/articles/6921941-hardware-recommendation) [Hvorfor mottar jeg ikke e-poster?](https://support.catenda.com/nb/articles/8417802-why-am-i-not-receiving-emails) [Plassering og funksjonalitet for Støtteknapp](https://support.catenda.com/nb/articles/8894066-support-button-location-and-functionality)
 
-_Ofte stilte spørsmål_ [Prosjektsikkerhet](https://support.catenda.com/en/articles/8263256-project-security)
+_Ofte stilte spørsmål_ [Prosjektsikkerhet](https://support.catenda.com/nb/articles/8263256-project-security)
 
-Nylige oppdateringer [Modeller som dokumenter](https://support.catenda.com/en/articles/8064548-models-as-documents)
+Nylige oppdateringer [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-models-as-documents)
 
 ## 2. **Løste feil**
 

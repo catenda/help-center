@@ -14,7 +14,7 @@ Elke sectie krijgt een inklapbare subsectie die gebruikers toegang geeft tot sec
 
 ## 2. **Ondersteuning voor IFC 4.3**
 
-Catenda Hub kan nu IFC 4.3-bestanden importeren en weergeven, en gebruikers kunnen al profiteren van nieuwe functies met betrekking tot deze indeling. Zie ons artikel dat hierover meer details bevat: [LINK](https://intercom.help/bimsync-arena/en/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c)
+Catenda Hub kan nu IFC 4.3-bestanden importeren en weergeven, en gebruikers kunnen al profiteren van nieuwe functies met betrekking tot deze indeling. Zie ons artikel dat hierover meer details bevat: [LINK](https://intercom.help/bimsync-arena/nl/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c)
 
 ## 3. **Organisaties: Gebruikers- en projectbeheer - portfoliogereedschapskist**
 
@@ -26,7 +26,7 @@ In de sectie [Organisaties](http://bimsync.com/orgs) van Catenda Hub vind je een
 
 ## 4. **Nieuwe onderwerpen tabelweergave**
 
-We hebben de [Tabelweergave](https://support.catenda.com/en/articles/6941099-table-view-in-an-issue-board) voor Problemen bijgewerkt, gebruikers kunnen meer componenten naar hun behoeften aanpassen, en ook profiteren van een probleemvoorbeeld bij selectie in de lijst.
+We hebben de [Tabelweergave](https://support.catenda.com/nl/articles/6941099-table-view-in-an-issue-board) voor Problemen bijgewerkt, gebruikers kunnen meer componenten naar hun behoeften aanpassen, en ook profiteren van een probleemvoorbeeld bij selectie in de lijst.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jah4q53q/04-new-topics-table-view.png)
 
@@ -42,4 +42,4 @@ De matchingengine geeft een score aan de associatie en stelt het hoogste resulta
 
 ## 6. **Naamgevingsafspraak**
 
-Je zult een nieuwe functie ontdekken die zichtbaar is onder de sectie Documenten, genaamd [Naamgevingsafspraak](https://support.catenda.com/en/articles/7832559-naming-convention). Dit is een werk in uitvoering en zal in Q4 2023 als nieuwe functie worden opgeleverd. Neem contact met ons op voor een demo en eventueel een proefversie, via de Chatknop in Catenda Hub.
+Je zult een nieuwe functie ontdekken die zichtbaar is onder de sectie Documenten, genaamd [Naamgevingsafspraak](https://support.catenda.com/nl/articles/7832559-naming-convention). Dit is een werk in uitvoering en zal in Q4 2023 als nieuwe functie worden opgeleverd. Neem contact met ons op voor een demo en eventueel een proefversie, via de Chatknop in Catenda Hub.

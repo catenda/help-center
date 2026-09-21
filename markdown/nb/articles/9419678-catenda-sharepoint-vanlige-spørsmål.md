@@ -6,7 +6,7 @@ Det finnes to måter å integrere med Catenda.
 
 ### 1.1 **Catenda SharePoint-app**
 
-På SharePoint kan [denne applikasjonen](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-plugin) aktiveres for leietakeren og legges til på et område av området eier. SharePoint-brukere vil da kunne publisere Dokumenter til Catenda. SharePoint-eiere kan også vise Catenda-prosjektets dokumentstruktur på SharePoint.
+På SharePoint kan [denne applikasjonen](https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-plugin) aktiveres for leietakeren og legges til på et område av området eier. SharePoint-brukere vil da kunne publisere Dokumenter til Catenda. SharePoint-eiere kan også vise Catenda-prosjektets dokumentstruktur på SharePoint.
 
 ### 1.2 **Catenda SharePoint-Bibliotek**
 

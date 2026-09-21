@@ -1,6 +1,6 @@
 # Seite mit benutzerdefinierten Feldvorgaben
 
-Sie können die Seite eines benutzerdefinierten Felds aufrufen, indem Sie auf das entsprechende Feld auf der [Seite "Benutzerdefinierte Felder"](https://support.catenda.com/en/articles/6550459-custom-fields-page) klicken, die Sie als Unterseite der [Seite "Projekteinstellungen"](https://support.catenda.com/en/articles/4670273-project-settings-page) finden.
+Sie können die Seite eines benutzerdefinierten Felds aufrufen, indem Sie auf das entsprechende Feld auf der [Seite "Benutzerdefinierte Felder"](https://support.catenda.com/de/articles/6550459-custom-fields-page) klicken, die Sie als Unterseite der [Seite "Projekteinstellungen"](https://support.catenda.com/de/articles/4670273-project-settings-page) finden.
 
 Wenn Sie ein benutzerdefiniertes Feld erstellen, können Sie es zu einem issue board hinzufügen. Issues in diesem Board erhalten dann ein neues Feld in der Kopfzeile. Sie können auch eine Spalte in der issue board-Tabellenansicht sehen und können nach diesen Feldern filtern.
 
@@ -10,7 +10,7 @@ Administratoren finden Aktionsschaltflächen oben rechts auf der Inhaltsseite ei
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/01-new-item-action-menu.png)
 
-_Neues benutzerdefiniertes Feld_ Klicken Sie auf die grüne Plus-Schaltfläche oben rechts oder auf die Aktion "Neues benutzerdefiniertes Feld" im Aktionsmenü, um ein [neues benutzerdefiniertes Feld](https://support.catenda.com/en/articles/8445575-creating-a-custom-field) zu erstellen
+_Neues benutzerdefiniertes Feld_ Klicken Sie auf die grüne Plus-Schaltfläche oben rechts oder auf die Aktion "Neues benutzerdefiniertes Feld" im Aktionsmenü, um ein [neues benutzerdefiniertes Feld](https://support.catenda.com/de/articles/8445575-creating-a-custom-field) zu erstellen
 
 **Archivieren** Öffnen Sie das Aktionsmenü mit den drei Punkten oben rechts, um die Aktion "Archivieren" oben rechts zu finden. Es ist nur möglich, ein benutzerdefiniertes Feld zu archivieren. Es ist nicht möglich, ein benutzerdefiniertes Feld zu löschen.
 
@@ -66,9 +66,9 @@ In der aktiven Liste finden Sie die Dropdown-Optionen, die derzeit aktiv sind.
 
 _Anker_ Administratoren können die Reihenfolge der Optionen konfigurieren, indem sie auf den Anker in der linken Spalte ziehen.
 
-**Name** Hier sehen Benutzer den Namen einer Dropdown-Option. Wenn das Dropdown-Feld [zu einem Themen-Board hinzugefügt](https://support.catenda.com/en/articles/6563368-custom-fields-in-a-topic-board) wurde, sehen Sie diesen Namen als Option in der Liste. Ein Name kann nur einer Option zugewiesen werden.
+**Name** Hier sehen Benutzer den Namen einer Dropdown-Option. Wenn das Dropdown-Feld [zu einem Themen-Board hinzugefügt](https://support.catenda.com/de/articles/6563368-custom-fields-in-a-topic-board) wurde, sehen Sie diesen Namen als Option in der Liste. Ein Name kann nur einer Option zugewiesen werden.
 
-**Code** Hier sehen Benutzer den Code einer Dropdown-Option. Der Code wird verwendet, um [einen Block mit einer Namenskonvention zu identifizieren](https://support.catenda.com/en/articles/7869240-how-to-use-custom-fields-in-naming-convention). Ein Code kann nur einer Option zugewiesen werden.
+**Code** Hier sehen Benutzer den Code einer Dropdown-Option. Der Code wird verwendet, um [einen Block mit einer Namenskonvention zu identifizieren](https://support.catenda.com/de/articles/7869240-how-to-use-custom-fields-in-naming-convention). Ein Code kann nur einer Option zugewiesen werden.
 
 **Bearbeiten und Deaktivieren** Administratoren können den Namen einer Option nach ihrer Erstellung bearbeiten. Wenn das Feld noch keinen Code hat, können Sie einen Code hinzufügen. Klicken Sie nach der Bearbeitung auf "Speichern" oder "Abbrechen", um zu bestätigen.
 
@@ -92,9 +92,9 @@ Nachdem Sie auf "Optionen hinzufügen" geklickt haben, wird das folgende Dialogf
 
 _Name_ Hier können Sie für jede Dropdown-Option einen Namen und einen Code hinzufügen.
 
-**Code** Der Code wird verwendet, um [einen Block mit einer Namenskonvention zu identifizieren](https://support.catenda.com/en/articles/7869240-how-to-use-custom-fields-in-naming-convention). Code ist ein eindeutiger Wert, den Sie für ein Element festlegen können. Das bedeutet, dass Sie denselben Code nicht zweimal hinzufügen können.
+**Code** Der Code wird verwendet, um [einen Block mit einer Namenskonvention zu identifizieren](https://support.catenda.com/de/articles/7869240-how-to-use-custom-fields-in-naming-convention). Code ist ein eindeutiger Wert, den Sie für ein Element festlegen können. Das bedeutet, dass Sie denselben Code nicht zweimal hinzufügen können.
 
-**Fehlerbehebung für Namen und Code** Klicken Sie [hier](https://support.catenda.com/en/articles/13750419-custom-field-content-troubleshooting), um mehr zu erfahren, wenn es Probleme mit dem Namen und Code gibt.
+**Fehlerbehebung für Namen und Code** Klicken Sie [hier](https://support.catenda.com/de/articles/13750419-custom-field-content-troubleshooting), um mehr zu erfahren, wenn es Probleme mit dem Namen und Code gibt.
 
 ### 4.6 **Mehrere Optionen hinzufügen**
 

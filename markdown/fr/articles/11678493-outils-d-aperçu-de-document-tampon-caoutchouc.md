@@ -1,6 +1,6 @@
 # Outils d'aperçu de document - Tampon caoutchouc
 
-L'outil de tampon caoutchouc se trouve dans le [menu insérer](https://support.catenda.com/en/articles/11384618-document-preview-tools#h_34b84f09b9) de la barre d'outils d'aperçu de document et peut ressembler à ceci :
+L'outil de tampon caoutchouc se trouve dans le [menu insérer](https://support.catenda.com/fr/articles/11384618-document-preview-tools#h_34b84f09b9) de la barre d'outils d'aperçu de document et peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bp0tzcba/01-intro.png)
 

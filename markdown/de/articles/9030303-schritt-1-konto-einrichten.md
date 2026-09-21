@@ -8,6 +8,6 @@ Eine Einladung wird Ihnen per E-Mail von Catenda mit einem Link zu den nächsten
 
 Nach Abschluss Ihrer Registrierung können Sie auf Ihre Projekte auf Catenda Hub von jedem Webbrowser aus zugreifen. [https://hub.catenda.com/signin](https://hub.catenda.com/signin)
 
-Weitere Informationen: [Anmeldeseite](https://support.catenda.com/en/articles/7891486-sign-in-page), [Kontoerstellung](https://support.catenda.com/en/articles/8412895-creating-an-account), [Landingpage](https://support.catenda.com/en/articles/4670260-landing-page)
+Weitere Informationen: [Anmeldeseite](https://support.catenda.com/de/articles/7891486-sign-in-page), [Kontoerstellung](https://support.catenda.com/de/articles/8412895-creating-an-account), [Landingpage](https://support.catenda.com/de/articles/4670260-landing-page)
 
-> **Hinweis:** Finden Sie [Schritt 2](https://support.catenda.com/en/articles/10576075-step-2-interface) in [Erste Schritte](https://support.catenda.com/en/collections/2657208-getting-started) im Hilfecenter oder im Hilfemenü.
+> **Hinweis:** Finden Sie [Schritt 2](https://support.catenda.com/de/articles/10576075-step-2-interface) in [Erste Schritte](https://support.catenda.com/de/collections/2657208-getting-started) im Hilfecenter oder im Hilfemenü.

@@ -52,7 +52,7 @@ Als uw project zonder modellen als documenten is gestart, zal een map met de naa
 
 **Een modelrevisie aanmaken** Om nieuwe revisies naar een model te kunnen uploaden, hebt u nu minimaal schrijftoegang tot het documentmodel nodig. Nieuwe revisies van het model kunnen aan het document worden toegevoegd en omgekeerd.
 
-> **Opmerking:** Revisiecommentaar is uitgeschakeld en kan nu optioneel worden ingeschakeld met [aangepaste velden op revisies](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents).
+> **Opmerking:** Revisiecommentaar is uitgeschakeld en kan nu optioneel worden ingeschakeld met [aangepaste velden op revisies](https://support.catenda.com/nl/articles/9531080-custom-fields-on-documents).
 
 **Een modelrevisie downloaden** U hebt minimaal leestoegang tot het documentmodel nodig om het model te kunnen downloaden.
 
@@ -120,10 +120,10 @@ Documentmodellen kunnen nu in de documentensectie worden gevonden zoals elk ande
 
 - Documentmodellen kunnen in mappen worden georganiseerd om het gemakkelijker te maken naar de juiste set modellen te navigeren.
 - Labels kunnen aan documentmodellen worden toegevoegd om alle documentmodellen te vinden die tot één type behoren.
-- [Aangepaste velden kunnen aan mappen worden toegevoegd](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents) waarin documenten worden geüpload om te zoeken op metagegevenswaarden die aan elk documentmodel zijn gerelateerd
-- [Aangepaste velden kunnen aan mappen worden toegevoegd](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents) waarin documenten worden geüpload om informatie aan elke revisie in elk documentmodel toe te kunnen voegen.
+- [Aangepaste velden kunnen aan mappen worden toegevoegd](https://support.catenda.com/nl/articles/9531080-custom-fields-on-documents) waarin documenten worden geüpload om te zoeken op metagegevenswaarden die aan elk documentmodel zijn gerelateerd
+- [Aangepaste velden kunnen aan mappen worden toegevoegd](https://support.catenda.com/nl/articles/9531080-custom-fields-on-documents) waarin documenten worden geüpload om informatie aan elke revisie in elk documentmodel toe te kunnen voegen.
 
-Zie [hier](https://support.catenda.com/en/articles/8542598-structuring-documents#h_7838a63c73) voor suggesties over hoe u uw documentmodellen zo kunt structureren dat ze gemakkelijk te vinden zijn.
+Zie [hier](https://support.catenda.com/nl/articles/8542598-structuring-documents#h_7838a63c73) voor suggesties over hoe u uw documentmodellen zo kunt structureren dat ze gemakkelijk te vinden zijn.
 
 ### 4.6 **Gedeelde IFC-bestanden goedkeuren**
 

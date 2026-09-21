@@ -46,7 +46,7 @@ OneDrive og SharePoint 400 Unicode-kodeenheter
 
 **Mindre zip-filer** Hvis zip-filen består av flere filer, kan zip-filen deles inn i mindre zip-filer. Hver separate zip-fil kan lastes opp individuelt, men det vil alltid være en risiko for nettverks- eller tilkoblingsfeil.
 
-**Individuelle filer** [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) er en sikrere måte å laste opp på, ettersom den laster opp dokumenter fil for fil. Dette er også raskere ettersom filene lastes opp direkte til vår backend i stedet for gjennom nettlesergrensesnittet. Selv om en av filene mislykkes, vil de som ble lastet opp til da allerede vises på Catenda. Resten av filene vil fortsette å lastes opp neste gang opplastingsoppgaven kjøres.
+**Individuelle filer** [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) er en sikrere måte å laste opp på, ettersom den laster opp dokumenter fil for fil. Dette er også raskere ettersom filene lastes opp direkte til vår backend i stedet for gjennom nettlesergrensesnittet. Selv om en av filene mislykkes, vil de som ble lastet opp til da allerede vises på Catenda. Resten av filene vil fortsette å lastes opp neste gang opplastingsoppgaven kjøres.
 
 ## 2. **Zip-opplastinger med spesialtegn**
 

@@ -1,6 +1,6 @@
 # Filteren op de onderwerppagina
 
-Het filtermenu in een onderwerpenboard kan worden geopend door op de filterknop links van de zoekbalk in een [onderwerpenboard](https://support.catenda.com/en/articles/4670271-issues-page) te klikken.
+Het filtermenu in een onderwerpenboard kan worden geopend door op de filterknop links van de zoekbalk in een [onderwerpenboard](https://support.catenda.com/nl/articles/4670271-issues-page) te klikken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/01-intro.png)
 
@@ -12,11 +12,11 @@ Klik op de filterknop linksboven om een paneel aan de linkerkant weer te geven. 
 
 ### 1.1 **Het huidige filter opslaan en delen**
 
-Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen worden opgeslagen aan de bovenkant van het filtermenu. Klik [hier](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) voor meer informatie over het opslaan en delen van filters
+Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen worden opgeslagen aan de bovenkant van het filtermenu. Klik [hier](https://support.catenda.com/nl/articles/11401493-saving-a-filter-link) voor meer informatie over het opslaan en delen van filters
 
 ### 1.2 **Verberg lege filters**
 
-Klik [hier](https://support.catenda.com/en/articles/8551755-saving-filters) voor meer informatie over het beperken van filterresultaten.
+Klik [hier](https://support.catenda.com/nl/articles/8551755-saving-filters) voor meer informatie over het beperken van filterresultaten.
 
 ## 2. **Filteren in het filtermenu**
 
@@ -42,7 +42,7 @@ _Verlopen_ - `due=overdue` _Alles met een vervaldatum_ - `due=present` _Geen ver
 
 ### 2.4 **Bijgewerkt**
 
-Met het datumfilter kunt u een timeframe selecteren voor wanneer de onderwerpen voor het laatst zijn bijgewerkt. _Bijgewerkt_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Lees [dit](https://support.catenda.com/en/articles/6511685-date-filter) artikel om te leren hoe u eenvoudig datums op de pagina kunt selecteren.
+Met het datumfilter kunt u een timeframe selecteren voor wanneer de onderwerpen voor het laatst zijn bijgewerkt. _Bijgewerkt_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Lees [dit](https://support.catenda.com/nl/articles/6511685-date-filter) artikel om te leren hoe u eenvoudig datums op de pagina kunt selecteren.
 
 ### 2.5 **Toegewezen aan / Aangevraagd door**
 
@@ -96,7 +96,7 @@ Als u opgeslagen filters hebt in een onderwerpenboard, zullen deze de eerste bes
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/03-saved-filters.png)
 
-Klik op het filter om het board te openen gefilterd op de opgeslagen set filters die een naam hebben gekregen. Klik [hier](https://support.catenda.com/en/articles/8551755-saving-filters) voor meer informatie over het opslaan van een set filters.
+Klik op het filter om het board te openen gefilterd op de opgeslagen set filters die een naam hebben gekregen. Klik [hier](https://support.catenda.com/nl/articles/8551755-saving-filters) voor meer informatie over het opslaan van een set filters.
 
 ### 3.2 **Tekst zoeken**
 
@@ -122,7 +122,7 @@ Naam lid of team Zoek op de naam van het lid of team om alle platte tekstvoorkom
 
 Vermeld lid Zoek op het e-mailadres van een lid om alle platte tekstvoorkomsten van dat e-mailadres van het lid te vinden. Dit omvat waar zij zijn vermeld. Zoek op `#[<E-mailadres van lid>]` om alleen de voorkomsten te vinden waar dat lid wordt vermeld.
 
-Vermeld team Vermelde teams kunnen worden gezocht door de GUID van dat team te doorzoeken. Als u de GUID van een team wilt vinden, gaat u naar de [inhoudspagina van dat team](https://support.catenda.com/en/articles/7891755-team-page) door op de naam ervan te klikken op het [tabblad Teams van de pagina Leden en teams](https://support.catenda.com/en/articles/4670291-members-and-teams-page). De URL moet er ongeveer zo uitzien: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
+Vermeld team Vermelde teams kunnen worden gezocht door de GUID van dat team te doorzoeken. Als u de GUID van een team wilt vinden, gaat u naar de [inhoudspagina van dat team](https://support.catenda.com/nl/articles/7891755-team-page) door op de naam ervan te klikken op het [tabblad Teams van de pagina Leden en teams](https://support.catenda.com/nl/articles/4670291-members-and-teams-page). De URL moet er ongeveer zo uitzien: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 

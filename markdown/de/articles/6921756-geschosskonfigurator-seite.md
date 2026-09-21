@@ -2,7 +2,7 @@
 
 > So haben Sie eine PDF als Überlagerung in Ihrer 2D-Ansicht
 
-Durch das Konfigurieren von Geschossen können in einem Projekt vorbereitete Ansichten im [2D-Viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) für Projektmitglieder erstellt werden. Die Geschosskonfiguratorseite befindet sich als Unterseite der [Modellseite](https://support.catenda.com/en/articles/4670286-models-page). Die Begriffe Geschoss und Gebäude stammen aus dem IFC-Standard. Während die Begriffe Geschoss und Gebäude in der Sozialinfrastruktur häufiger verwendet werden, ist dieses Tool für physische oder digitale Infrastrukturprojekte ebenso nützlich, wenn nicht sogar nützlicher. _Erforderlicher Zugriff:_ Projektadministrator
+Durch das Konfigurieren von Geschossen können in einem Projekt vorbereitete Ansichten im [2D-Viewer](https://support.catenda.com/de/articles/4854537-2d-viewer) für Projektmitglieder erstellt werden. Die Geschosskonfiguratorseite befindet sich als Unterseite der [Modellseite](https://support.catenda.com/de/articles/4670286-models-page). Die Begriffe Geschoss und Gebäude stammen aus dem IFC-Standard. Während die Begriffe Geschoss und Gebäude in der Sozialinfrastruktur häufiger verwendet werden, ist dieses Tool für physische oder digitale Infrastrukturprojekte ebenso nützlich, wenn nicht sogar nützlicher. _Erforderlicher Zugriff:_ Projektadministrator
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hn8gfwtp/01-intro.png)
 
@@ -24,7 +24,7 @@ Das Aktionsmenü auf der Geschosskonfiguratorseite kann durch Öffnen der drei P
 
 ### 1.1 **Neues Gebäude hinzufügen**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/12291366-storey-configurator-actions), um mehr über das Hinzufügen eines neuen Gebäudes zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/12291366-storey-configurator-actions), um mehr über das Hinzufügen eines neuen Gebäudes zu erfahren.
 
 ### 1.2 **PDF**
 

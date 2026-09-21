@@ -4,7 +4,7 @@ I tittelen på denne artikkelen kan det virke som det er en skrivefeil med en ek
 
 ## 1. **Spillelister**
 
-Klikk [her](https://support.catenda.com/en/articles/11059986-interacting-with-guide-playlists) for å lære mer om hvordan du samhandler med veiledningsspillerlister på guidde og hvordan du viser videoen på ditt foretrukne språk.
+Klikk [her](https://support.catenda.com/nb/articles/11059986-interacting-with-guide-playlists) for å lære mer om hvordan du samhandler med veiledningsspillerlister på guidde og hvordan du viser videoen på ditt foretrukne språk.
 
 ### 1.1 **Catenda Hub-opplæring - [Spiller](https://eu.guidde.com/playbooks/playlist/qicnEaFjpt2gUXmNcAxWcU?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 

@@ -1,6 +1,6 @@
 # 3D-Viewer - Catenda Site
 
-Öffnen Sie die [2D/3D-Seite](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site), um den 3D-Viewer oben auf dem Bildschirm von Catenda Site zu sehen. So kann der 3D-Viewer auf Catenda Site aussehen:
+Öffnen Sie die [2D/3D-Seite](https://support.catenda.com/de/articles/7734138-2d-3d-catenda-site), um den 3D-Viewer oben auf dem Bildschirm von Catenda Site zu sehen. So kann der 3D-Viewer auf Catenda Site aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/01-intro.png)
 

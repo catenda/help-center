@@ -1,6 +1,6 @@
 # Page Membres et équipes
 
-La page des membres se trouve en tant que sous-page de la [page des paramètres du projet](https://support.catenda.com/en/articles/4670273-settings-page).
+La page des membres se trouve en tant que sous-page de la [page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-settings-page).
 
 ![Membres](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/01-intro.png)
 
@@ -12,15 +12,15 @@ Le menu d'action se trouve vers le haut à droite de la page.
 
 ### 1.1 Inviter un membre
 
-Cliquez sur le bouton plus vert ou sur l'action d'invitation de membre dans le menu d'action pour accéder à la [page d'invitation des membres](https://support.catenda.com/en/articles/4670263-invite-members-page). _Accès requis :_ Administrateur ou [accès à l'invitation de membres](https://support.catenda.com/en/articles/4670273-project-settings-page#h_3b98ced32a) dans les paramètres du projet.
+Cliquez sur le bouton plus vert ou sur l'action d'invitation de membre dans le menu d'action pour accéder à la [page d'invitation des membres](https://support.catenda.com/fr/articles/4670263-invite-members-page). _Accès requis :_ Administrateur ou [accès à l'invitation de membres](https://support.catenda.com/fr/articles/4670273-project-settings-page#h_3b98ced32a) dans les paramètres du projet.
 
 ### 1.2 Nouvelle équipe
 
-Avec cette action, vous pourrez créer une [nouvelle équipe](https://support.catenda.com/en/articles/4670264-creating-a-team). _Accès requis :_ Administrateur
+Avec cette action, vous pourrez créer une [nouvelle équipe](https://support.catenda.com/fr/articles/4670264-creating-a-team). _Accès requis :_ Administrateur
 
 ## 2. **Rechercher ou filtrer**
 
-Cliquez [ici](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page) pour savoir comment rechercher ou filtrer au mieux sur la page des membres. Voici à quoi peut ressembler la barre de recherche ou de filtre :
+Cliquez [ici](https://support.catenda.com/fr/articles/11744242-filtering-on-the-members-and-teams-page) pour savoir comment rechercher ou filtrer au mieux sur la page des membres. Voici à quoi peut ressembler la barre de recherche ou de filtre :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/03-search-or-filter.png)
 
@@ -30,7 +30,7 @@ Avec un élément sélectionné, le bouton info du menu de droite s'affichera ve
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/04-right-menu.png)
 
-Cliquez sur cette icône pour ouvrir un menu où les champs des éléments sélectionnés peuvent être modifiés. Cliquez [ici](https://support.catenda.com/en/articles/11768610-right-menu-on-the-members-page) pour en savoir plus sur le menu de droite sur la page des membres.
+Cliquez sur cette icône pour ouvrir un menu où les champs des éléments sélectionnés peuvent être modifiés. Cliquez [ici](https://support.catenda.com/fr/articles/11768610-right-menu-on-the-members-page) pour en savoir plus sur le menu de droite sur la page des membres.
 
 ## 4. **Onglet Membres**
 
@@ -42,11 +42,11 @@ Dans l'onglet des membres, un tableau avec tous les membres qui font partie du p
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/06-members-tab.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda. Dès qu'une invitation au projet est acceptée, le membre qui a accepté l'invitation apparaît dans le tableau des membres.
+Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda. Dès qu'une invitation au projet est acceptée, le membre qui a accepté l'invitation apparaît dans le tableau des membres.
 
 ### 4.1 **Contenu de la ligne**
 
-L'ouverture du contenu d'une ligne de membre ouvre la [page du membre](https://support.catenda.com/en/articles/8228836-member-page) de ce membre.
+L'ouverture du contenu d'une ligne de membre ouvre la [page du membre](https://support.catenda.com/fr/articles/8228836-member-page) de ce membre.
 
 ### 4.2 **Colonnes**
 
@@ -76,7 +76,7 @@ Cliquez ici pour en savoir plus sur la façon de travailler avec les tableaux da
 
 ### 5.1 **Contenu de la ligne**
 
-L'ouverture du contenu d'une ligne d'équipe ouvre la [page de l'équipe](https://support.catenda.com/en/articles/7891755-team-page) de cette équipe.
+L'ouverture du contenu d'une ligne d'équipe ouvre la [page de l'équipe](https://support.catenda.com/fr/articles/7891755-team-page) de cette équipe.
 
 ### 5.2 **Colonnes**
 

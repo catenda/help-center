@@ -4,7 +4,7 @@
 
 Motta sanntidsvarsel fra en Catenda-konto direkte i en Microsoft Teams-kanal ved å konfigurere en Microsoft Teams-arbeidsflyt i Catenda-varselinnstillingene. _Nødvendig tilgang:_ En **Microsoft Teams**-konto med tillatelser for kanaloppretting og Microsoft Teams-arbeidsflytstyrring.
 
-Fanen for Microsoft Teams-varsel finnes mot toppen av [siden for kontovarselinnstillinger](https://support.catenda.com/en/articles/8272435-account-notification-settings) som er en underside til [siden for kontovarslinger](https://support.catenda.com/en/articles/7439223-account-notifications-page):
+Fanen for Microsoft Teams-varsel finnes mot toppen av [siden for kontovarselinnstillinger](https://support.catenda.com/nb/articles/8272435-account-notification-settings) som er en underside til [siden for kontovarslinger](https://support.catenda.com/nb/articles/7439223-account-notifications-page):
 
 ![Catenda Hub Varsel-innstillinger Microsoft Teams-varsel Prosjekter med egne Teams-innstillinger](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/01-intro.png)
 
@@ -93,7 +93,7 @@ Skreddersy informasjonen du mottar for å unngå varslettmøtting. 1\. I samme *
 
 ![Velg hvilke varsel du ønsker å motta Catenda Hub E-post Microsoft Teams-varsel Saker Dokumenter Gjennomganger Samlinger Modeller Brukere En ny sak er opprettet En sak er tildelt til meg En sak nevner meg eller Teams mitt Ny kommentar i en sak tildelt meg nevnt av meg fulgt av meg Status endret i en sak Type endret i saker Jeg er angitt som utgiver i en gjennomgangsforespørsel Et team jeg er medlem av er angitt som utgiver i en gjennomgangsforespørsel En gjennomgangsforespørsel er lukket Et medlem av innsenderlaget En ny gjennomgangsforespørsel er blitt sendt inn Et dokument er kassert En gjennomgangsforespørsel er lukket En ny gjennomgangsforespørsel er blitt sendt inn En ny gjennomgangsforespørsel er tildelt teamet mitt En ny gjennomgangsforespørsel er klar til vurdering av teamet mitt Alle vurderinger er sendt inn av teamet mitt Et dokument er kassert En gjennomgangsforespørsel er lukket Som medlem av vurderingsteamet for den endelige gjennomgangen En ny gjennomgangsforespørsel er blitt sendt inn En ny gjennomgangsforespørsel er tildelt teamet mitt En ny gjennomgangsforespørsel er klar til vurdering av teamet mitt Alle vurderinger er sendt inn av teamet mitt Alle vurderinger er sendt inn av teamet mitt Et vurderingstrinn er fullført Et dokument er kassert En gjennomgangsforespørsel er lukket En ny model er opprettet En ny revision er importert.](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/09-step-4-customize-your-alerts.png)
 
-Nedtonede varselsbokser er deaktivert for Microsoft Teams og er bare tilgjengelige for andre varselmethoder. Varselsbokser for gjennomganger blir tilgjengelige hvis Delte revisjoner er aktivert i [dokumentinnstillinger](https://support.catenda.com/en/articles/7831371-document-settings-page) for et prosjekt.
+Nedtonede varselsbokser er deaktivert for Microsoft Teams og er bare tilgjengelige for andre varselmethoder. Varselsbokser for gjennomganger blir tilgjengelige hvis Delte revisjoner er aktivert i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-document-settings-page) for et prosjekt.
 
 ---
 

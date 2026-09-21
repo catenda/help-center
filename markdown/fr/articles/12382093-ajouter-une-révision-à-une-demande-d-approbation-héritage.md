@@ -1,6 +1,6 @@
 # Ajouter une révision à une demande d'approbation - Héritage
 
-Les révisions de brouillon peuvent être ajoutées à une demande d'approbation en cliquant sur le bouton ajouter un brouillon dans la [dialogue créer une demande d'approbation](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) et en cliquant sur le bouton ajouter un brouillon dans le [corps d'une approbation](https://support.catenda.com/en/articles/8349418-approval-page#h_218ac89189) sur la page d'une approbation existante. Voici à quoi peut ressembler la dialogue ajouter un brouillon à la demande d'approbation :
+Les révisions de brouillon peuvent être ajoutées à une demande d'approbation en cliquant sur le bouton ajouter un brouillon dans la [dialogue créer une demande d'approbation](https://support.catenda.com/fr/articles/12360159-creating-a-new-approval-request) et en cliquant sur le bouton ajouter un brouillon dans le [corps d'une approbation](https://support.catenda.com/fr/articles/8349418-approval-page#h_218ac89189) sur la page d'une approbation existante. Voici à quoi peut ressembler la dialogue ajouter un brouillon à la demande d'approbation :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bzenvg2j/01-intro.png)
 

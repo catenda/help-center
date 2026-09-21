@@ -2,7 +2,7 @@
 
 > Hochladen und herunterladen, anzeigen und kommunizieren Sie über Projektdokumente
 
-> **Tipp:** Finden Sie [Schritt 2](https://support.catenda.com/en/articles/10576075-step-2-interface) in [Erste Schritte](https://support.catenda.com/en/collections/2657208-getting-started) im Hilfezentrum oder im Hilfemenü.
+> **Tipp:** Finden Sie [Schritt 2](https://support.catenda.com/de/articles/10576075-step-2-interface) in [Erste Schritte](https://support.catenda.com/de/collections/2657208-getting-started) im Hilfezentrum oder im Hilfemenü.
 
 ## 1. **Hochladen**
 
@@ -38,6 +38,6 @@ Verwenden Sie die Markup-Tools, um Bereiche zu identifizieren, über die Sie mit
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/mdxrvj2r/06-markups.png)
 
-_Weitere Informationen:_ [Hochladen](https://support.catenda.com/en/articles/4670278-uploading-a-document), [Filterung von Dokumenten](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page), [Dokumentaktionen](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure), [Anzeigen](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub), [Markups](https://support.catenda.com/en/articles/10210710-keep-track-of-annotations-with-markups)
+_Weitere Informationen:_ [Hochladen](https://support.catenda.com/de/articles/4670278-uploading-a-document), [Filterung von Dokumenten](https://support.catenda.com/de/articles/4670283-filtering-on-the-documents-page), [Dokumentaktionen](https://support.catenda.com/de/articles/4670288-actions-in-the-document-structure), [Anzeigen](https://support.catenda.com/de/articles/4670320-previewing-file-types-on-catenda-hub), [Markups](https://support.catenda.com/de/articles/10210710-keep-track-of-annotations-with-markups)
 
-> **Hinweis:** Finden Sie [Schritt 4](https://support.catenda.com/en/articles/10576177-step-4-models) in [Erste Schritte](https://support.catenda.com/en/collections/2657208-getting-started) im Hilfezentrum oder im Hilfemenü.
+> **Hinweis:** Finden Sie [Schritt 4](https://support.catenda.com/de/articles/10576177-step-4-models) in [Erste Schritte](https://support.catenda.com/de/collections/2657208-getting-started) im Hilfezentrum oder im Hilfemenü.

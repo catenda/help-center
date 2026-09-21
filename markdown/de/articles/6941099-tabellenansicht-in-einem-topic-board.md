@@ -1,6 +1,6 @@
 # Tabellenansicht in einem topic board
 
-Klicken Sie auf Tabellenansicht (**4**) oben rechts in der Topics-Tabelle auf der [topics page](https://support.catenda.com/en/articles/4670271-topics-page). Standardmäßig wird die Listenansicht in der Tabelle angezeigt. Die Einstellung für die Tabellenansicht ist eine globale Einstellung. Sobald die bevorzugte Ansicht ausgewählt ist, werden topic-Tabellen in jedem topic board jedes Projekts für den Benutzer in dieser Ansicht angezeigt.
+Klicken Sie auf Tabellenansicht (**4**) oben rechts in der Topics-Tabelle auf der [topics page](https://support.catenda.com/de/articles/4670271-topics-page). Standardmäßig wird die Listenansicht in der Tabelle angezeigt. Die Einstellung für die Tabellenansicht ist eine globale Einstellung. Sobald die bevorzugte Ansicht ausgewählt ist, werden topic-Tabellen in jedem topic board jedes Projekts für den Benutzer in dieser Ansicht angezeigt.
 
 ## 1. **Topics-Tabelle**
 
@@ -8,7 +8,7 @@ Die Topics-Tabelle kann ungefähr so aussehen, wenn die Tabellenansicht konfigur
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/01-topics-table.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda), um mehr über die Arbeit mit Tabellen in Catenda zu erfahren. Sobald ein topic erstellt ist und die Tabelle geladen ist, wird das topic als Zeile in der Topics-Tabelle für den Benutzer angezeigt. Beachten Sie, dass der offene Filter standardmäßig aktiviert ist und geschlossene topics möglicherweise bis zur Filterung ausgeblendet werden.
+Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um mehr über die Arbeit mit Tabellen in Catenda zu erfahren. Sobald ein topic erstellt ist und die Tabelle geladen ist, wird das topic als Zeile in der Topics-Tabelle für den Benutzer angezeigt. Beachten Sie, dass der offene Filter standardmäßig aktiviert ist und geschlossene topics möglicherweise bis zur Filterung ausgeblendet werden.
 
 ### 1.1 **Während der Anzeige vorgenommene Änderungen**
 
@@ -20,7 +20,7 @@ Nach der Auswahl einer topic-Zeile wird das Menü der ausgewählten Elementaktio
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/02-selected-item-actions.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board), um mehr über das Menü der ausgewählten Elementaktionen zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/4670284-actions-in-a-topic-board), um mehr über das Menü der ausgewählten Elementaktionen zu erfahren.
 
 ### 1.3 **Zeileninhalt**
 
@@ -82,7 +82,7 @@ _Cursor-Änderung_ Sie werden wissen, dass Sie über der richtigen Stelle schweb
 
 ## 5. **4. Listenansicht**
 
-Wechseln Sie zwischen [Listenansicht](https://support.catenda.com/en/articles/6941232-issue-board-s-list-view) oder Tabellenansicht
+Wechseln Sie zwischen [Listenansicht](https://support.catenda.com/de/articles/6941232-issue-board-s-list-view) oder Tabellenansicht
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/08-4-list-view.png)
 
@@ -108,16 +108,16 @@ Die folgenden Seiten können als Unterseiten der topics page gefunden werden: Di
 
 ### 8.1 **Boards**
 
-[Boards](https://support.catenda.com/en/articles/9413644-boards-page) - Ein Überblick über alle topic boards
+[Boards](https://support.catenda.com/de/articles/9413644-boards-page) - Ein Überblick über alle topic boards
 
 ### 8.2 **Meilensteine**
 
-[Meilensteine](https://support.catenda.com/en/articles/4670266-creating-a-new-milestone) - Wichtige Termine im Projekt
+[Meilensteine](https://support.catenda.com/de/articles/4670266-creating-a-new-milestone) - Wichtige Termine im Projekt
 
 ### 8.3 **Statistiken**
 
-[Statistiken](https://support.catenda.com/en/articles/7575491-statistics-page) - Sehen Sie die Statistiken des aktuellen topic boards
+[Statistiken](https://support.catenda.com/de/articles/7575491-statistics-page) - Sehen Sie die Statistiken des aktuellen topic boards
 
 ### 8.4 **Einstellungen**
 
-Durch Klicken auf die [Einstellungsseite](https://support.catenda.com/en/articles/4670277-issue-board-settings) wird die Einstellungsseite für das aktuelle topic board geöffnet. _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das topic board
+Durch Klicken auf die [Einstellungsseite](https://support.catenda.com/de/articles/4670277-issue-board-settings) wird die Einstellungsseite für das aktuelle topic board geöffnet. _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das topic board

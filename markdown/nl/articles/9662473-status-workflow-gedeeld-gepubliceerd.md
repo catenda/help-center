@@ -48,4 +48,4 @@ Toegangsrechten kunnen worden ingesteld voor het publiceren van gedeelde revisie
 
 > **Opmerking:** Informeer uw projectleden over deze wijzigingen wanneer u deze functie inschakelt op bestaande projecten.
 
-Klik [hier](https://support.catenda.com/en/articles/12289689-status-workflow-api-updates) om meer te lezen over API-wijzigingen
+Klik [hier](https://support.catenda.com/nl/articles/12289689-status-workflow-api-updates) om meer te lezen over API-wijzigingen

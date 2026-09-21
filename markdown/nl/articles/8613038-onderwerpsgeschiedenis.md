@@ -1,6 +1,6 @@
 # Onderwerpsgeschiedenis
 
-U kunt de knop voor onderwerpsgeschiedenis bovenaan de [topic body](https://support.catenda.com/en/articles/8053352-issue-body) vinden. Door op deze knop te klikken, kunt u de geschiedenis van alle wijzigingen die aan het onderwerp zijn aangebracht, uitvouwen.
+U kunt de knop voor onderwerpsgeschiedenis bovenaan de [topic body](https://support.catenda.com/nl/articles/8053352-issue-body) vinden. Door op deze knop te klikken, kunt u de geschiedenis van alle wijzigingen die aan het onderwerp zijn aangebracht, uitvouwen.
 
 In de onderwerpsgeschiedenis kunt u informatie over de volgende onderwerpen vinden:
 

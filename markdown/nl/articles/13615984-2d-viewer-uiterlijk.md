@@ -24,15 +24,15 @@ Draaiingen van deuren worden gespecificeerd in het IFC-bestand. U kunt zien hoe 
 
 ## 2. **Tekening als ondergrond**
 
-Het is mogelijk om een PDF uit de documentensectie met de [verdiepingconfiguratie](https://support.catenda.com/en/articles/6921756-storey-configurator-page) als ondergrond in te voegen. Dit is met name handig als er objecten boven of onder de hoogte staan waar de 3D-objecten door worden gesneden en die niet in de 2D-viewer worden weergegeven. Voorbeelden hiervan zijn: Kanalen en buizen, Elektra-outlets, Plafondplannen, Weg- en spoorinfrastructuur
+Het is mogelijk om een PDF uit de documentensectie met de [verdiepingconfiguratie](https://support.catenda.com/nl/articles/6921756-storey-configurator-page) als ondergrond in te voegen. Dit is met name handig als er objecten boven of onder de hoogte staan waar de 3D-objecten door worden gesneden en die niet in de 2D-viewer worden weergegeven. Voorbeelden hiervan zijn: Kanalen en buizen, Elektra-outlets, Plafondplannen, Weg- en spoorinfrastructuur
 
 ## 3. **Markers in de 2D-viewer**
 
-Met [markers ingeschakeld](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098) worden onderwerpen met een locatie weergegeven als gekleurde cirkels op een x-y-coördinaat. Dit is wat een 2D-weergave met verschillende markers in de browser kan zien:
+Met [markers ingeschakeld](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_381a9d4098) worden onderwerpen met een locatie weergegeven als gekleurde cirkels op een x-y-coördinaat. Dit is wat een 2D-weergave met verschillende markers in de browser kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3bzb6a32/03-markers-in-the-2d-viewer.png)
 
-Klik [hier](https://support.catenda.com/en/articles/4854523-2d-location-of-issues) om meer te lezen over de 2D-locatie van onderwerpen.
+Klik [hier](https://support.catenda.com/nl/articles/4854523-2d-location-of-issues) om meer te lezen over de 2D-locatie van onderwerpen.
 
 ### 3.1 **Onderwerpen met bestaande markers**
 

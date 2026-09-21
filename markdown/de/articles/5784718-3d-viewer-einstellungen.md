@@ -1,10 +1,10 @@
 # 3D Viewer-Einstellungen
 
-Die 3D Viewer-Einstellungen finden Sie oben rechts im [3D Viewer](https://support.catenda.com/en/articles/8227211-3d-viewer).
+Die 3D Viewer-Einstellungen finden Sie oben rechts im [3D Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/01-intro.png)
 
-> **Hinweis:** Stellen Sie sicher, dass die Hardware und Software, auf denen Catenda geöffnet ist, [wie empfohlen](https://support.catenda.com/en/articles/6921941-hardware-recommendation) konfiguriert sind, da dies Auswirkungen darauf hat, wie der Viewer angezeigt wird.
+> **Hinweis:** Stellen Sie sicher, dass die Hardware und Software, auf denen Catenda geöffnet ist, [wie empfohlen](https://support.catenda.com/de/articles/6921941-hardware-recommendation) konfiguriert sind, da dies Auswirkungen darauf hat, wie der Viewer angezeigt wird.
 
 ## 1. **Aktivierung des 3D Viewers**
 
@@ -32,7 +32,7 @@ So kann das Rendering-Menü aussehen:
 
 ### 2.1 **Räume anzeigen**
 
-_Standardmäßig aus_ - [Räume aktivieren und deaktivieren](https://support.catenda.com/en/articles/4670315-how-can-i-show-spaces-in-catenda-hub). Räume sind im 2D Viewer weiterhin auswählbar, wenn sie sich im Modell befinden.
+_Standardmäßig aus_ - [Räume aktivieren und deaktivieren](https://support.catenda.com/de/articles/4670315-how-can-i-show-spaces-in-catenda-hub). Räume sind im 2D Viewer weiterhin auswählbar, wenn sie sich im Modell befinden.
 
 ### 2.2 **Anzeigequalität**
 
@@ -42,7 +42,7 @@ Das Verhältnis zwischen der Anzahl der Pixel, die der Viewport anzeigt, und der
 - Anzeigetechnologien, die die Pixeldichte beeinflussen, wie Apple Retina.
 - High-DPI-Anzeigen
 
-> **Hinweis:** Stellen Sie sicher, dass die Hardware und Software, auf denen Catenda geöffnet ist, [wie empfohlen](https://support.catenda.com/en/articles/6921941-hardware-recommendation) konfiguriert sind, da dies Auswirkungen auf die Pixelation des Viewers hat.
+> **Hinweis:** Stellen Sie sicher, dass die Hardware und Software, auf denen Catenda geöffnet ist, [wie empfohlen](https://support.catenda.com/de/articles/6921941-hardware-recommendation) konfiguriert sind, da dies Auswirkungen auf die Pixelation des Viewers hat.
 
 **Standardqualität** Bei der Standard-Anzeigequalität entspricht die Anzahl der Pixel, die der Viewport hat, der gleichen Anzahl physischer Pixel, die den Viewport auf dem Bildschirm anzeigen. Für Bildschirme, die den Viewport über mehr physische Pixel anzeigen können als der Viewport angibt, kann diese Einstellung das Bild weniger präzise erscheinen lassen. Dieser Modus ist schneller und weniger anspruchsvoll für Ihr Gerät.
 
@@ -57,7 +57,7 @@ Pixelgenauigkeit beim Glätten von Diagonallinien in der Reihenfolge der Genauig
 - 4x MSAA
 - 8x MSAA
 
-> **Hinweis:** Stellen Sie sicher, dass die Hardware und Software, auf denen Catenda geöffnet ist, [wie empfohlen](https://support.catenda.com/en/articles/6921941-hardware-recommendation) konfiguriert sind, da dies Auswirkungen auf die Genauigkeit von Diagonallinien haben kann.
+> **Hinweis:** Stellen Sie sicher, dass die Hardware und Software, auf denen Catenda geöffnet ist, [wie empfohlen](https://support.catenda.com/de/articles/6921941-hardware-recommendation) konfiguriert sind, da dies Auswirkungen auf die Genauigkeit von Diagonallinien haben kann.
 
 ### 2.4 **Inkrementelles Rendering**
 

@@ -2,11 +2,11 @@
 
 > Cet article décrit comment configurer une connexion à Sharepoint
 
-Pour créer une bibliothèque SharePoint, cliquez sur le [bouton nouvelle bibliothèque](https://support.catenda.com/en/articles/8065645-libraries-page#h_c6d56f227c) en haut à droite de la [page des bibliothèques](https://support.catenda.com/en/articles/8065645-libraries-page). Cette bibliothèque peut être utilisée pour partager des Documents provenant du SharePoint d'un utilisateur avec les autres Membres du projet Catenda. Lorsque la bibliothèque SharePoint est activée, elle peut ressembler à ceci :
+Pour créer une bibliothèque SharePoint, cliquez sur le [bouton nouvelle bibliothèque](https://support.catenda.com/fr/articles/8065645-libraries-page#h_c6d56f227c) en haut à droite de la [page des bibliothèques](https://support.catenda.com/fr/articles/8065645-libraries-page). Cette bibliothèque peut être utilisée pour partager des Documents provenant du SharePoint d'un utilisateur avec les autres Membres du projet Catenda. Lorsque la bibliothèque SharePoint est activée, elle peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/01-intro.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/9800091-sharepoint-library-short-video) pour voir une courte vidéo sur la configuration de la bibliothèque SharePoint.
+Cliquez [ici](https://support.catenda.com/fr/articles/9800091-sharepoint-library-short-video) pour voir une courte vidéo sur la configuration de la bibliothèque SharePoint.
 
 Après avoir donné un nom à la bibliothèque, un nouvel onglet s'ouvrira dans votre navigateur où vous serez invité à vous connecter avec votre compte SharePoint. Après vous être connecté, vous serez redirigé vers la page des paramètres de la bibliothèque de votre bibliothèque SharePoint où vous pouvez configurer le dossier SharePoint que vous souhaitez afficher sur Catenda.
 
@@ -54,7 +54,7 @@ Cliquez sur le bouton Nouvelle bibliothèque pour créer une nouvelle bibliothè
 
 ### 4.1 **Filtres sauvegardés**
 
-Cliquez [ici](https://support.catenda.com/en/articles/8551755-saving-filters) pour en savoir plus sur la façon de sauvegarder un ensemble de Filtres
+Cliquez [ici](https://support.catenda.com/fr/articles/8551755-saving-filters) pour en savoir plus sur la façon de sauvegarder un ensemble de Filtres
 
 ### 4.2 **Non lié -** `link=unlinked`
 
@@ -100,7 +100,7 @@ Si des objets ont été liés à vos Documents, vous pourrez voir le nombre d'ob
 
 ## 6. **Menu d'informations à droite**
 
-Lorsque vous ouvrez d'abord un Document dans la liste des Documents, son menu droit peut être fermé. Vous pouvez cliquer sur le bouton d'information en bas à droite de la [bannière de Document](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) pour développer ce menu.
+Lorsque vous ouvrez d'abord un Document dans la liste des Documents, son menu droit peut être fermé. Vous pouvez cliquer sur le bouton d'information en bas à droite de la [bannière de Document](https://support.catenda.com/fr/articles/8461918-document-banner-actions-navigation) pour développer ce menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/05-right-information-menu.png)
 

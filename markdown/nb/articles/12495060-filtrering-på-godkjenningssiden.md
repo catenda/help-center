@@ -1,6 +1,6 @@
 # Filtrering på godkjenningssiden
 
-Filterpanelet kan åpnes på godkjenningssiden for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025 ved å klikke på filterknappen til venstre for søkefeltet på [godkjenningssiden](https://support.catenda.com/en/articles/8349340-approvals-page). Prosjekter der delte revisjoner ble aktivert før 2. oktober 2025, vil se den gamle filtreringsmenyen for godkjenningssiden i stedet.
+Filterpanelet kan åpnes på godkjenningssiden for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025 ved å klikke på filterknappen til venstre for søkefeltet på [godkjenningssiden](https://support.catenda.com/nb/articles/8349340-approvals-page). Prosjekter der delte revisjoner ble aktivert før 2. oktober 2025, vil se den gamle filtreringsmenyen for godkjenningssiden i stedet.
 
 ## 1. **Filtre**
 
@@ -12,11 +12,11 @@ _Standardfilter_ Standardfilteret er opprinnelig ikke synlig i URL-en. Når side
 
 ### 1.1 **Lagre og del gjeldende filter**
 
-Gå til URL-en på en filtrert side for å laste siden med filteret brukt. De brukte filtrene kan lagres mot toppen av filtermeny. Klikk [her](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre. Merk at i motsetning til i andre filtermenyer er det ikke mulig å lagre personlige filtre mot toppen av filtermenyen på gjennomgangssiden.
+Gå til URL-en på en filtrert side for å laste siden med filteret brukt. De brukte filtrene kan lagres mot toppen av filtermeny. Klikk [her](https://support.catenda.com/nb/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre. Merk at i motsetning til i andre filtermenyer er det ikke mulig å lagre personlige filtre mot toppen av filtermenyen på gjennomgangssiden.
 
 ### 1.2 **Skjul tomme filtre**
 
-Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for å lese mer om begrensingsfiltreresultater.
+Klikk [her](https://support.catenda.com/nb/articles/8551755-saving-filters) for å lese mer om begrensingsfiltreresultater.
 
 ### 1.3 **Status**
 

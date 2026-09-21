@@ -1,6 +1,6 @@
 # Documentvoorbeeldinstrumenten - Rubberstempel
 
-Het rubberstempel-gereedschap is te vinden in het [invoegmenu](https://support.catenda.com/en/articles/11384618-document-preview-tools#h_34b84f09b9) van de Documenten-voorbeeldwerkbalk en kan er ongeveer zo uitzien:
+Het rubberstempel-gereedschap is te vinden in het [invoegmenu](https://support.catenda.com/nl/articles/11384618-document-preview-tools#h_34b84f09b9) van de Documenten-voorbeeldwerkbalk en kan er ongeveer zo uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bp0tzcba/01-intro.png)
 

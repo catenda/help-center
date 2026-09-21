@@ -1,10 +1,10 @@
 # Paramètres de la visionneuse 3D
 
-Les paramètres de la visionneuse 3D se trouvent en haut à droite de la [visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer).
+Les paramètres de la visionneuse 3D se trouvent en haut à droite de la [visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/01-intro.png)
 
-> **Remarque :** Assurez-vous que le matériel et le logiciel sur lequel Catenda est ouvert sont configurés [comme recommandé](https://support.catenda.com/en/articles/6921941-hardware-recommendation), car cela peut affecter l'affichage de la visionneuse.
+> **Remarque :** Assurez-vous que le matériel et le logiciel sur lequel Catenda est ouvert sont configurés [comme recommandé](https://support.catenda.com/fr/articles/6921941-hardware-recommendation), car cela peut affecter l'affichage de la visionneuse.
 
 ## 1. **Activation de la visionneuse 3D**
 
@@ -32,7 +32,7 @@ Voici à quoi peut ressembler le menu de rendu :
 
 ### 2.1 **Afficher les espaces**
 
-_Désactivé par défaut_ - [Activer et désactiver les espaces](https://support.catenda.com/en/articles/4670315-how-can-i-show-spaces-in-catenda-hub). Les espaces restent sélectionnables dans la visionneuse 2D s'ils se trouvent dans le modèle.
+_Désactivé par défaut_ - [Activer et désactiver les espaces](https://support.catenda.com/fr/articles/4670315-how-can-i-show-spaces-in-catenda-hub). Les espaces restent sélectionnables dans la visionneuse 2D s'ils se trouvent dans le modèle.
 
 ### 2.2 **Qualité de l'affichage**
 
@@ -42,7 +42,7 @@ Le rapport entre le nombre de pixels que le port de vue affiche et le nombre de 
 - Technologies d'affichage qui affectent la densité de pixels comme Apple Retina.
 - Affichages haute résolution
 
-> **Remarque :** Assurez-vous que le matériel et le logiciel sur lequel Catenda est ouvert sont configurés [comme recommandé](https://support.catenda.com/en/articles/6921941-hardware-recommendation), car cela peut affecter la précision de la visionneuse.
+> **Remarque :** Assurez-vous que le matériel et le logiciel sur lequel Catenda est ouvert sont configurés [comme recommandé](https://support.catenda.com/fr/articles/6921941-hardware-recommendation), car cela peut affecter la précision de la visionneuse.
 
 **Qualité standard** Avec la qualité d'affichage standard, les pixels que le port de vue indique sont le même nombre de pixels physiques qui affichent le port de vue sur l'écran. Pour les écrans qui offrent d'afficher le port de vue sur plus de pixels physiques que le port de vue n'en indique, ce paramètre peut rendre l'image moins précise. Ce mode est plus rapide et moins exigeant pour votre appareil.
 
@@ -57,7 +57,7 @@ Précision des pixels dans le lissage des lignes diagonales par ordre de précis
 - 4x MSAA
 - 8x MSAA
 
-> **Remarque :** Assurez-vous que le matériel et le logiciel sur lequel Catenda est ouvert sont configurés [comme recommandé](https://support.catenda.com/en/articles/6921941-hardware-recommendation), car cela peut affecter la précision des lignes diagonales.
+> **Remarque :** Assurez-vous que le matériel et le logiciel sur lequel Catenda est ouvert sont configurés [comme recommandé](https://support.catenda.com/fr/articles/6921941-hardware-recommendation), car cela peut affecter la précision des lignes diagonales.
 
 ### 2.4 **Rendu incrémentiel**
 

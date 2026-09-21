@@ -12,10 +12,10 @@ Les dernières notifications pertinentes pour vous apparaîtront ici. Vous pouve
 
 ## 2. Filtrage et fonctionnalités
 
-Vous pouvez en savoir plus sur la façon dont vous pouvez filtrer sur cette page et sur le moment où vous recevez les différentes notifications sur [cette](https://support.catenda.com/en/articles/8304417-filtering-and-functionality-on-notifications-pages) page.
+Vous pouvez en savoir plus sur la façon dont vous pouvez filtrer sur cette page et sur le moment où vous recevez les différentes notifications sur [cette](https://support.catenda.com/fr/articles/8304417-filtering-and-functionality-on-notifications-pages) page.
 
 ## 3. Sous-page
 
 Comme sous-page de la page de notifications de projet, vous trouverez:
 
-- [Paramètres de notification de projet](https://support.catenda.com/en/articles/4670262-project-notification-settings)
+- [Paramètres de notification de projet](https://support.catenda.com/fr/articles/4670262-project-notification-settings)

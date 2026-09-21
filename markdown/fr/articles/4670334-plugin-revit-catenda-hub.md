@@ -1,6 +1,6 @@
 # Extension Catenda Revit
 
-> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://intercom.help/bimsync-arena/fr/articles/8396532-catenda-plugins-and-integrations).
 
 L'extension Catenda Revit est une extension qui peut être installée pour Autodesk Revit. Avec cette extension, vous pourrez collaborer sur des points de vue 3D, des sujets et des documents avec les autres membres du projet de construction
 
@@ -60,13 +60,13 @@ Connectez-vous avec votre adresse e-mail et votre mot de passe Catenda.
 
 <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-703202eeb52b.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-3e163e70c122.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-3b6b4eaa010e.png" width="180"/>
 
-Si l'authentification multifacteur est activée pour votre compte, vous serez invité à entrer votre code MFA. Cliquez [ici](https://support.catenda.com/en/articles/7891486-sign-in-page) pour en savoir plus sur la page de connexion.
+Si l'authentification multifacteur est activée pour votre compte, vous serez invité à entrer votre code MFA. Cliquez [ici](https://support.catenda.com/fr/articles/7891486-sign-in-page) pour en savoir plus sur la page de connexion.
 
 Cliquez sur « Autoriser l'accès » pour permettre à l'extension Revit pour Bimsync Arena d'accéder à votre compte Catenda Hub.
 
 ### 3.1 **Révoquer l'accès**
 
-L'accès à votre compte Catenda Hub peut être révoqué à tout moment en accédant à votre [page d'application](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a) Catenda Hub et en cliquant sur « Révoquer l'accès » à côté de « Extension Revit pour Bimsync Arena ».
+L'accès à votre compte Catenda Hub peut être révoqué à tout moment en accédant à votre [page d'application](https://support.catenda.com/fr/articles/6880968-account-page#h_40e031c49a) Catenda Hub et en cliquant sur « Révoquer l'accès » à côté de « Extension Revit pour Bimsync Arena ».
 
 ## 4. **Liste des sujets**
 
@@ -96,7 +96,7 @@ Les actions de l'extension se trouvent en haut à droite :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/08-actions.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/13168755-actions-in-the-catenda-revit-plugin) pour en savoir plus sur les différentes actions de l'extension Catenda Revit.
+Cliquez [ici](https://support.catenda.com/fr/articles/13168755-actions-in-the-catenda-revit-plugin) pour en savoir plus sur les différentes actions de l'extension Catenda Revit.
 
 ### 4.4 **Sélection de sujet**
 

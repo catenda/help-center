@@ -18,54 +18,54 @@
 
 **製品機能**
 
-- [アクセスレベルの計算方法](https://support.catenda.com/en/articles/15644094-how-access-levels-are-calculated)
-- [アクセス制御展開のユースケース](https://support.catenda.com/en/articles/15644249-access-control-deployment-use-cases)
-- [ドキュメントライブラリアイテムに対する操作](https://support.catenda.com/en/articles/15647394-operations-on-document-library-items)
-- [新しいModel Exportの作成](https://support.catenda.com/en/articles/15481038-creating-a-new-model-export)
-- [Model Export Content Page](https://support.catenda.com/en/articles/15480883-model-export-content-page)
+- [アクセスレベルの計算方法](https://support.catenda.com/ja/articles/15644094-how-access-levels-are-calculated)
+- [アクセス制御展開のユースケース](https://support.catenda.com/ja/articles/15644249-access-control-deployment-use-cases)
+- [ドキュメントライブラリアイテムに対する操作](https://support.catenda.com/ja/articles/15647394-operations-on-document-library-items)
+- [新しいModel Exportの作成](https://support.catenda.com/ja/articles/15481038-creating-a-new-model-export)
+- [Model Export Content Page](https://support.catenda.com/ja/articles/15480883-model-export-content-page)
 
 **ユースケース**
 
-- [リビジョン名前付けのユースケース](https://support.catenda.com/en/articles/15886912-revision-naming-use-cases)
-- [名前付け規則のリビジョンブロック](https://support.catenda.com/en/articles/15886483-revision-blocks-in-naming-conventions)
+- [リビジョン名前付けのユースケース](https://support.catenda.com/ja/articles/15886912-revision-naming-use-cases)
+- [名前付け規則のリビジョンブロック](https://support.catenda.com/ja/articles/15886483-revision-blocks-in-naming-conventions)
 
 **トラブルシューティング**
 
-- [ドキュメントプレビューのトラブルシューティング](https://support.catenda.com/en/articles/13962654-document-preview-troubleshooting)
-- [承認ファイルプレビューのトラブルシューティング](https://support.catenda.com/en/articles/15286207-approval-file-review-troubleshooting)
-- [リビジョン規則のトラブルシューティング](https://support.catenda.com/en/articles/15886850-revision-convention-troubleshooting)
+- [ドキュメントプレビューのトラブルシューティング](https://support.catenda.com/ja/articles/13962654-document-preview-troubleshooting)
+- [承認ファイルプレビューのトラブルシューティング](https://support.catenda.com/ja/articles/15286207-approval-file-review-troubleshooting)
+- [リビジョン規則のトラブルシューティング](https://support.catenda.com/ja/articles/15886850-revision-convention-troubleshooting)
 
 ### 1.2 **変更された記事：**
 
 **アカウント管理**
 
-- [チームの作成](https://support.catenda.com/en/articles/4670264-creating-a-team)
-- [組織タイプ](https://support.catenda.com/en/articles/13653807-organization-types)
-- [サインインとパスワード](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords)
+- [チームの作成](https://support.catenda.com/ja/articles/4670264-creating-a-team)
+- [組織タイプ](https://support.catenda.com/ja/articles/13653807-organization-types)
+- [サインインとパスワード](https://support.catenda.com/ja/articles/10798891-sign-in-and-passwords)
 
 **製品機能**
 
-- [最も重要なショートカットと基本的な操作の概要](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
-- [トピック本文 - トピックの内容](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
-- [フォルダとドキュメントのアクセス制御](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
-- [ドキュメントプレビューツール](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-- [Model Export Page](https://support.catenda.com/en/articles/4670280-model-export-page)
-- [トピックボードのアクセス制御](https://support.catenda.com/en/articles/4670296-topic-board-access-control)
-- [カスタムフィールド内容ページ](https://support.catenda.com/en/articles/8445588-custom-field-contents-page)
-- [スライディングプレーンへの測定](https://support.catenda.com/en/articles/4670298-measuring-to-sliding-planes)
-- [スライディングプレーンドロップダウン](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
-- [Catenda Revitプラグインのアクション](https://support.catenda.com/en/articles/13168755-actions-in-the-catenda-revit-plugin)
-- [トピックボードの右側メニュー](https://support.catenda.com/en/articles/6941224-right-menu-in-a-topic-board)
-- [2Dビューアの外観](https://support.catenda.com/en/articles/13615984-2d-viewer-appearance)
-- [トピックの2D位置](https://support.catenda.com/en/articles/4854523-2d-location-of-topics)
-- [トピックの2D位置 - Catenda Site](https://support.catenda.com/en/articles/13616245-2d-location-of-topics-catenda-site)
-- [2Dビューア - Catenda Site](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site)
+- [最も重要なショートカットと基本的な操作の概要](https://support.catenda.com/ja/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
+- [トピック本文 - トピックの内容](https://support.catenda.com/ja/articles/8053352-topic-body-the-content-of-a-topic)
+- [フォルダとドキュメントのアクセス制御](https://support.catenda.com/ja/articles/4670287-folders-and-documents-access-control)
+- [ドキュメントプレビューツール](https://support.catenda.com/ja/articles/11384618-document-preview-tools)
+- [Model Export Page](https://support.catenda.com/ja/articles/4670280-model-export-page)
+- [トピックボードのアクセス制御](https://support.catenda.com/ja/articles/4670296-topic-board-access-control)
+- [カスタムフィールド内容ページ](https://support.catenda.com/ja/articles/8445588-custom-field-contents-page)
+- [スライディングプレーンへの測定](https://support.catenda.com/ja/articles/4670298-measuring-to-sliding-planes)
+- [スライディングプレーンドロップダウン](https://support.catenda.com/ja/articles/4670327-sliding-plane-dropdown)
+- [Catenda Revitプラグインのアクション](https://support.catenda.com/ja/articles/13168755-actions-in-the-catenda-revit-plugin)
+- [トピックボードの右側メニュー](https://support.catenda.com/ja/articles/6941224-right-menu-in-a-topic-board)
+- [2Dビューアの外観](https://support.catenda.com/ja/articles/13615984-2d-viewer-appearance)
+- [トピックの2D位置](https://support.catenda.com/ja/articles/4854523-2d-location-of-topics)
+- [トピックの2D位置 - Catenda Site](https://support.catenda.com/ja/articles/13616245-2d-location-of-topics-catenda-site)
+- [2Dビューア - Catenda Site](https://support.catenda.com/ja/articles/7748370-2d-viewer-catenda-site)
 
 **トラブルシューティング**
 
-- [ドキュメントアップロードダイアログのトラブルシューティング](https://support.catenda.com/en/articles/11070748-upload-document-dialogue-troubleshooting)
-- [Catenda Revitプラグインのトラブルシューティング](https://support.catenda.com/en/articles/14301534-catenda-revit-plugin-troubleshooting)
-- [サインインとパスワード](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords)
+- [ドキュメントアップロードダイアログのトラブルシューティング](https://support.catenda.com/ja/articles/11070748-upload-document-dialogue-troubleshooting)
+- [Catenda Revitプラグインのトラブルシューティング](https://support.catenda.com/ja/articles/14301534-catenda-revit-plugin-troubleshooting)
+- [サインインとパスワード](https://support.catenda.com/ja/articles/10798891-sign-in-and-passwords)
 
 ## 2. **新しいチュートリアルビデオ**
 

@@ -4,7 +4,7 @@ Il y a plusieurs endroits sur Catenda où vous êtes invité à entrer un mot de
 
 ## 1. **Se connecter**
 
-Sur la [page de connexion](https://support.catenda.com/en/articles/7891486-sign-in-page) vous êtes invité à entrer votre mot de passe. La même page de connexion est utilisée à la fois lors de la connexion via le navigateur et lors de la connexion pour donner accès à votre compte via l'API comme vous le faites avec de nombreux nos plugins. Au cours de ce processus, les défis suivants pourraient survenir :
+Sur la [page de connexion](https://support.catenda.com/fr/articles/7891486-sign-in-page) vous êtes invité à entrer votre mot de passe. La même page de connexion est utilisée à la fois lors de la connexion via le navigateur et lors de la connexion pour donner accès à votre compte via l'API comme vous le faites avec de nombreux nos plugins. Au cours de ce processus, les défis suivants pourraient survenir :
 
 ### 1.1 **Nom d'utilisateur ou mot de passe incorrect**
 
@@ -54,7 +54,7 @@ Lorsque vous entrez votre nouveau mot de passe pour la deuxième fois pour le co
 
 ### 2.4 **L'ancien mot de passe n'est pas valide**
 
-Si vous pouvez vous connecter, vous pouvez aller à la [page d'authentification du compte](https://support.catenda.com/en/articles/6880968-account-page) pour réinitialiser votre mot de passe. Vous devez d'abord entrer votre ancien mot de passe. C'est le mot de passe que vous avez utilisé pour vous connecter à votre compte. Si vous n'entrez pas le bon mot de passe, vous verrez le message suivant :
+Si vous pouvez vous connecter, vous pouvez aller à la [page d'authentification du compte](https://support.catenda.com/fr/articles/6880968-account-page) pour réinitialiser votre mot de passe. Vous devez d'abord entrer votre ancien mot de passe. C'est le mot de passe que vous avez utilisé pour vous connecter à votre compte. Si vous n'entrez pas le bon mot de passe, vous verrez le message suivant :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zw9p4shp/06-old-password-not-valid.png)
 

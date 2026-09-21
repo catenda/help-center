@@ -1,6 +1,6 @@
 # Catenda Navisworks-plugin
 
-> **Opmerking:** Het installatiebestand voor de plugin is te vinden in [dit artikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Opmerking:** Het installatiebestand voor de plugin is te vinden in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/8396532-catenda-plugins-and-integrations).
 
 De Catenda Navisworks-plugin is een plugin die kan worden geïnstalleerd voor Nemetchek Archicad. Met deze plugin kunt u samenwerken aan 3D-gezichtspunten, Topics en documenten met andere leden van het bouwproject.
 
@@ -61,7 +61,7 @@ Dit is hoe het Catenda-tabblad eruit kan zien wanneer het is geselecteerd
 
 ### 5.1 **Catenda**
 
-De knop Catenda in het menu Catenda-plugins van het Catenda-tabblad opent de standaardbrowser met de [aanmeldingspagina](https://support.catenda.com/en/articles/7891486-sign-in-page) van Catenda Hub.
+De knop Catenda in het menu Catenda-plugins van het Catenda-tabblad opent de standaardbrowser met de [aanmeldingspagina](https://support.catenda.com/nl/articles/7891486-sign-in-page) van Catenda Hub.
 
 ### 5.2 **BCF Plugin**
 
@@ -83,7 +83,7 @@ Dit is hoe het instellingenmenu er kan uitzien nadat u op Aanmelden in de linker
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/06-settings.png)
 
-Aan de linkerkant wordt de aanmeldingspagina van Catenda weergegeven. Volg de stappen in het [artikel Aanmelden](https://support.catenda.com/en/articles/7891486-sign-in-page) om u aan te melden.
+Aan de linkerkant wordt de aanmeldingspagina van Catenda weergegeven. Volg de stappen in het [artikel Aanmelden](https://support.catenda.com/nl/articles/7891486-sign-in-page) om u aan te melden.
 
 Dit is hoe het instellingenmenu er kan uitzien nadat u zich succesvol hebt aangemeld.
 

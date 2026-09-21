@@ -1,6 +1,6 @@
 # Points de vue 2D et 3D
 
-Les points de vue 2D et 3D peuvent être ajoutés en tant que [commentaire d'un sujet](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_f76b44d3ca). Les captures sont des moyens polyvalents de communiquer sur les informations 2D et 3D car elles contiennent non seulement des informations visuelles mais peuvent également être utilisées pour décrire un endroit et un moment dans un document ou un modèle. Les informations enregistrées dans les captures vous permettent de collaborer avec des informations 2D et 3D car vous pourrez lire votre capture dans n'importe lequel de vos services compatibles BCF et IFC.
+Les points de vue 2D et 3D peuvent être ajoutés en tant que [commentaire d'un sujet](https://support.catenda.com/fr/articles/8053352-topic-body-the-content-of-a-topic#h_f76b44d3ca). Les captures sont des moyens polyvalents de communiquer sur les informations 2D et 3D car elles contiennent non seulement des informations visuelles mais peuvent également être utilisées pour décrire un endroit et un moment dans un document ou un modèle. Les informations enregistrées dans les captures vous permettent de collaborer avec des informations 2D et 3D car vous pourrez lire votre capture dans n'importe lequel de vos services compatibles BCF et IFC.
 
 Voici à quoi peut ressembler une capture 3D :
 
@@ -10,13 +10,13 @@ La capture ci-dessous avait la configuration suivante au moment de la prise de l
 
 ## 1. **Création d'une capture**
 
-Si vous avez un modèle chargé en 3D, vous pouvez cliquer sur le bouton plus à gauche du champ de commentaire du sujet pour joindre une capture 3D à votre commentaire. Si vous avez la visionneuse 2D ouverte, vous pouvez cliquer sur le bouton plus à gauche du champ de commentaire du sujet pour joindre une capture 2D à votre commentaire. Une capture est automatiquement créée si vous avez chargé quelque chose en 2D ou 3D et que vous créez un nouveau sujet. Cliquez [ici](https://support.catenda.com/en/articles/10345863-snapshots) pour en savoir plus sur les captures.
+Si vous avez un modèle chargé en 3D, vous pouvez cliquer sur le bouton plus à gauche du champ de commentaire du sujet pour joindre une capture 3D à votre commentaire. Si vous avez la visionneuse 2D ouverte, vous pouvez cliquer sur le bouton plus à gauche du champ de commentaire du sujet pour joindre une capture 2D à votre commentaire. Une capture est automatiquement créée si vous avez chargé quelque chose en 2D ou 3D et que vous créez un nouveau sujet. Cliquez [ici](https://support.catenda.com/fr/articles/10345863-snapshots) pour en savoir plus sur les captures.
 
 ## 2. **Images de la visionneuse**
 
 Les captures sont le meilleur moyen de créer des images de haute qualité ou des rendus à partir de la visionneuse Catenda Hub pour les raisons suivantes :
 
-- Les images de capture peuvent être téléchargées depuis l'[aperçu pièce jointe](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8).
+- Les images de capture peuvent être téléchargées depuis l'[aperçu pièce jointe](https://support.catenda.com/fr/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8).
 - Les images de capture peuvent avoir des résolutions plus élevées que simplement prendre une capture d'écran de la visionneuse.
 - Les images de capture ont des arrière-plans transparents. Avec les captures 3D, l'image contient uniquement des pixels là où se trouvent des objets en 3D. Avec les captures 2D, l'image contient uniquement des pixels là où se trouvent des lignes en 2D.
 
@@ -132,7 +132,7 @@ Si vous survolez l'image d'une capture 2D ou 3D, une loupe apparaît. Cela peut 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/12-image-pop-out.png)
 
-Après l'envoi de la capture, l'image qui y est connectée peut être [agrandie](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) pour voir son contenu dans un format plus grand et la télécharger.
+Après l'envoi de la capture, l'image qui y est connectée peut être [agrandie](https://support.catenda.com/fr/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) pour voir son contenu dans un format plus grand et la télécharger.
 
 ## 6. **Suppression d'une capture**
 

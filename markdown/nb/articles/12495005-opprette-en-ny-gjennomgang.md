@@ -1,6 +1,6 @@
 # Opprette en ny gjennomgang
 
-Den nye gjennomgangsforespørsel kan finnes for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. Klikk på handlingsmenyen til høyre for den grønne plusknappen på [gjennomgangssiden](https://support.catenda.com/en/articles/8349340-approvals-page) for å opprette en ny gjennomgangsforespørsel. Klikk på knappen for ny gjennomgangsforespørsel i gjennomgangsmenyen på høyre side av en revisjon på dokumentsiden der den nyeste revisjonen er en delt revisjon for å opprette en ny gjennomgangsforespørsel. Slik kan dialogen for å opprette en ny gjennomgangsforespørsel se ut:
+Den nye gjennomgangsforespørsel kan finnes for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. Klikk på handlingsmenyen til høyre for den grønne plusknappen på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-approvals-page) for å opprette en ny gjennomgangsforespørsel. Klikk på knappen for ny gjennomgangsforespørsel i gjennomgangsmenyen på høyre side av en revisjon på dokumentsiden der den nyeste revisjonen er en delt revisjon for å opprette en ny gjennomgangsforespørsel. Slik kan dialogen for å opprette en ny gjennomgangsforespørsel se ut:
 
 ![Ny godkjenningsforespørsel Arbeidsflyt Innsender Tittel Beskrivelse (valgfritt) Dokumenter til vurdering legg til dokumenter navn revisjon # Revisjonsnummer Status Fjern Avbryt Lagre som utkast Send til vurdering](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
@@ -46,13 +46,13 @@ Den nye valideringsarbeidsflyten er en on-demand-funksjon som kan forespørres a
 
 ### 2.1 **Beskrivelse**
 
-Beskrivelsen av gjennomgangen følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts). Beskrivelsen kan korrigeres senere, både mens forespørselen fortsatt er et utkast og etter at den er sendt inn.
+Beskrivelsen av gjennomgangen følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts). Beskrivelsen kan korrigeres senere, både mens forespørselen fortsatt er et utkast og etter at den er sendt inn.
 
 ### 2.2 **Legg til dokumenter**
 
 ![Beskrivelse (valgfritt) dokumenter til vurdering legg til dokumenter](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/06-add-documents.png)
 
-Klikk [her](https://support.catenda.com/en/articles/12382093-add-revision-to-approval) for å lese mer om å legge til delte revisjoner fra dokumenter til en gjennomgangsforespørsel. Selv om det er mulig å legge til et uendelig antall dokumenter her, er grensen for sending av gjennomgangsforespørselen til vurdering 1000 dokumenter.
+Klikk [her](https://support.catenda.com/nb/articles/12382093-add-revision-to-approval) for å lese mer om å legge til delte revisjoner fra dokumenter til en gjennomgangsforespørsel. Selv om det er mulig å legge til et uendelig antall dokumenter her, er grensen for sending av gjennomgangsforespørselen til vurdering 1000 dokumenter.
 
 ### 2.3 **Dokumenter for vurderingstabell**
 

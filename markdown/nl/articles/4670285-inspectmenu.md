@@ -1,10 +1,10 @@
 # Inspectmenu
 
-Het inspect menu is te vinden als het eerste menu in het [informatiepaneel](https://support.catenda.com/en/articles/8238584-information-panel).
+Het inspect menu is te vinden als het eerste menu in het [informatiepaneel](https://support.catenda.com/nl/articles/8238584-information-panel).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/01-intro.png)
 
-Selecteer een object in de [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) of [structuurpaneel](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) om aan de slag te gaan. De eigenschappen en gerelateerde informatie worden weergegeven in het inspect menu. Na het selecteren van een object kan het inspect paneel er als volgt uitzien:
+Selecteer een object in de [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer) of [structuurpaneel](https://intercom.help/bimsync-arena/nl/articles/4670290-trees-panel) om aan de slag te gaan. De eigenschappen en gerelateerde informatie worden weergegeven in het inspect menu. Na het selecteren van een object kan het inspect paneel er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/02-intro.png)
 
@@ -32,7 +32,7 @@ De GUID van het object. Deze code is uniek voor elk object en kan worden gebruik
 
 ### 1.5 **Type**
 
-Het type object. Elk type heeft zijn eigen unieke GUID. Twee objecten die hetzelfde type lijken te hebben, hebben in feite verschillende types met verschillende gekoppelde GUID's. Klik op het type om alle objecten van dat type te selecteren. Dit activeert de typeboom in het [structuurpaneel](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) waar u het geselecteerde type kunt zien in de lijst met types voor dat model.
+Het type object. Elk type heeft zijn eigen unieke GUID. Twee objecten die hetzelfde type lijken te hebben, hebben in feite verschillende types met verschillende gekoppelde GUID's. Klik op het type om alle objecten van dat type te selecteren. Dit activeert de typeboom in het [structuurpaneel](https://intercom.help/bimsync-arena/nl/articles/4670290-trees-panel) waar u het geselecteerde type kunt zien in de lijst met types voor dat model.
 
 ### 1.6 **Voorgedefinieerd type**
 
@@ -40,7 +40,7 @@ Het voorgedefinieerde type geeft aan wat voor soort type u hebt
 
 ### 1.7 **Inhoud**
 
-Als uw object deel uitmaakt van een hiërarchie, ziet u hier het bovenliggende knooppunt in de hiërarchie. Klik op het bovenliggende knooppunt om alle objecten in dat bovenliggende knooppunt te selecteren. Dit activeert de inhoudsboom in het [structuurpaneel](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) waar u het inhoudsknooppunt kunt zien in de hiërarchie van de objecten in uw model.
+Als uw object deel uitmaakt van een hiërarchie, ziet u hier het bovenliggende knooppunt in de hiërarchie. Klik op het bovenliggende knooppunt om alle objecten in dat bovenliggende knooppunt te selecteren. Dit activeert de inhoudsboom in het [structuurpaneel](https://intercom.help/bimsync-arena/nl/articles/4670290-trees-panel) waar u het inhoudsknooppunt kunt zien in de hiërarchie van de objecten in uw model.
 
 ## 2. **Alignementen**
 
@@ -52,11 +52,11 @@ Dit is wat de alignemententabel eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/04-alignments.png)
 
-Klik [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) voor meer informatie over tabellen op Catenda
+Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) voor meer informatie over tabellen op Catenda
 
 ## 3. **Onderwerpen**
 
-In het onderwerpenmenu kunt u zien of er openstaande of gesloten onderwerpen zijn die [gerelateerd zijn aan](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_758f17abbc) uw geselecteerde object(en). Het onderwerpenmenu kan er als volgt uitzien:
+In het onderwerpenmenu kunt u zien of er openstaande of gesloten onderwerpen zijn die [gerelateerd zijn aan](https://support.catenda.com/nl/articles/8053299-right-menu-in-a-topic#h_758f17abbc) uw geselecteerde object(en). Het onderwerpenmenu kan er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/05-topics.png)
 
@@ -124,7 +124,7 @@ Hier kunt u de materialen vinden die de geselecteerde objecten gemeen hebben
 
 ## 5. **Bibliotheek**
 
-Als uw geselecteerde object(en) zijn [gekoppeld aan documenten](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document#h_d0769e55eb) of bibliotheekitems, kunt u deze hier zien. Het bibliotheekmenu kan er als volgt uitzien:
+Als uw geselecteerde object(en) zijn [gekoppeld aan documenten](https://support.catenda.com/nl/articles/8302244-right-menu-in-a-document#h_d0769e55eb) of bibliotheekitems, kunt u deze hier zien. Het bibliotheekmenu kan er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/10-libraries.png)
 

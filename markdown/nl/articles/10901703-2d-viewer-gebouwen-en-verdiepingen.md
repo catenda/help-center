@@ -12,11 +12,11 @@ De huidige verdieping is altijd zichtbaar
 
 ### 1.2 **Ontgrendeld**
 
-De huidige verdieping is de verdieping die het dichtst bij de hoogte van de camera ligt. Dit is vooral handig in [loopmode](https://support.catenda.com/en/articles/5784718-3d-viewer-settings) waarbij de verdieping verandert naar de volgende verdieping als u bijvoorbeeld de trap oploopt.
+De huidige verdieping is de verdieping die het dichtst bij de hoogte van de camera ligt. Dit is vooral handig in [loopmode](https://support.catenda.com/nl/articles/5784718-3d-viewer-settings) waarbij de verdieping verandert naar de volgende verdieping als u bijvoorbeeld de trap oploopt.
 
 ## 2. **Gebouwmenu**
 
-Als een gebouw is geconfigureerd in de [verdiepingsconfiguratie](https://support.catenda.com/en/articles/6921756-storey-configurator-page), kunt u het gebouwmenu zien. Het gebouwmenu kan er zo uitzien:
+Als een gebouw is geconfigureerd in de [verdiepingsconfiguratie](https://support.catenda.com/nl/articles/6921756-storey-configurator-page), kunt u het gebouwmenu zien. Het gebouwmenu kan er zo uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xw6p1nhs/02-building-menu.png)
 

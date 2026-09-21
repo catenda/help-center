@@ -1,6 +1,6 @@
 # Stegbånd i en gjennomgangsforespørsel
 
-Stegbåndet finner du mot toppen av gjennomgangsforespørselssiden for en [utkast](https://support.catenda.com/en/articles/12495175-draft-approval-request-page), [åpen eller lukket](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page) gjennomgangsforespørsel for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. I stegbåndet vises en forhåndsvisning av alle gjennomgangsvurderingsstegene i en gjennomgang. Slik kan gjennomgangsforespørselsstegbåndet se ut for en gjennomgangsforespørsel der en gjennomgangsarbeidsflyt er valgt med maksimalt antall gjennomgangsforespørselssteg:
+Stegbåndet finner du mot toppen av gjennomgangsforespørselssiden for en [utkast](https://support.catenda.com/nb/articles/12495175-draft-approval-request-page), [åpen eller lukket](https://support.catenda.com/nb/articles/12494960-open-or-closed-approval-request-page) gjennomgangsforespørsel for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. I stegbåndet vises en forhåndsvisning av alle gjennomgangsvurderingsstegene i en gjennomgang. Slik kan gjennomgangsforespørselsstegbåndet se ut for en gjennomgangsforespørsel der en gjennomgangsarbeidsflyt er valgt med maksimalt antall gjennomgangsforespørselssteg:
 
 ![Gjennomgang-trinnet bånd. Trinn 2 Frist Endelig gjennomgang 10 trinn](https://raw.githubusercontent.com/catenda/help-center/main/images/1bshvqk0/01-intro.png)
 

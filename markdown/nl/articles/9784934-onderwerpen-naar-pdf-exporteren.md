@@ -1,6 +1,6 @@
 # Onderwerpen naar PDF exporteren
 
-Onderwerpen kunnen naar PDF worden geëxporteerd door op de PDF-optie in de [Onderwerpen exporteren dialoog](https://support.catenda.com/en/articles/4670289-exchange-topics#h_aa0b8d7789) te klikken. Met de PDF-export kunt u een rapport van uw onderwerpen exporteren. Deze exportoptie is handig om een gemakkelijk leesbare versie van onderwerpen te hebben en kan worden gebruikt voor archiveringsdoeleinden of om aan autoriteiten te rapporteren.
+Onderwerpen kunnen naar PDF worden geëxporteerd door op de PDF-optie in de [Onderwerpen exporteren dialoog](https://support.catenda.com/nl/articles/4670289-exchange-topics#h_aa0b8d7789) te klikken. Met de PDF-export kunt u een rapport van uw onderwerpen exporteren. Deze exportoptie is handig om een gemakkelijk leesbare versie van onderwerpen te hebben en kan worden gebruikt voor archiveringsdoeleinden of om aan autoriteiten te rapporteren.
 
 Deze pagina bevat informatie over de volgende onderwerpen:
 
@@ -10,11 +10,11 @@ Deze instellingen zijn van invloed op alle pagina's van de PDF
 
 ### 1.1 **Logo**
 
-Het logo linksboven op elke pagina van de PDF is standaard het Catenda-logo. Klikken op het logo of op hub.catenda.com in de rechterbovenhoek brengt u naar de projectenpagina. Het is mogelijk om een aangepast logo te uploaden op de [pagina projectinstellingen](https://support.catenda.com/en/articles/4670273-project-settings-page) om uw eigen logo hier weer te geven.
+Het logo linksboven op elke pagina van de PDF is standaard het Catenda-logo. Klikken op het logo of op hub.catenda.com in de rechterbovenhoek brengt u naar de projectenpagina. Het is mogelijk om een aangepast logo te uploaden op de [pagina projectinstellingen](https://support.catenda.com/nl/articles/4670273-project-settings-page) om uw eigen logo hier weer te geven.
 
 ### 1.2 **Taal**
 
-De PDF-export is in de taal die u in uw [accountvoorkeuren](https://support.catenda.com/en/articles/6880968-account-page#h_4aa257b72f) hebt ingesteld.
+De PDF-export is in de taal die u in uw [accountvoorkeuren](https://support.catenda.com/nl/articles/6880968-account-page#h_4aa257b72f) hebt ingesteld.
 
 ### 1.3 **Onderwerpen sorteren**
 
@@ -78,7 +78,7 @@ De volgende headers zijn opgenomen:
 
 **Milestone** Milestones zijn niet opgenomen in de PDF-export.
 
-**Marker** Klik [hier](https://support.catenda.com/en/articles/4854523-2d-location-of-topics) om meer te lezen over het exporteren van 2D-locatie naar PDF.
+**Marker** Klik [hier](https://support.catenda.com/nl/articles/4854523-2d-location-of-topics) om meer te lezen over het exporteren van 2D-locatie naar PDF.
 
 ### 3.4 **Onderwerp relaties**
 
@@ -100,4 +100,4 @@ Als er opmerkingen op het onderwerp zijn geplaatst, ziet u deze hier. Eerst ziet
 
 ## 4. **Rapportenpagina**
 
-Met de rapportenpagina is het mogelijk om aangepaste rapporten te maken, niet alleen over onderwerpen maar ook documenten. De rapportenpagina is een functie op aanvraag die kan worden ingeschakeld voor lopende projecten. Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waar deze functie is ingeschakeld, hebben deze functie niet ingeschakeld. Deze rapporten kunnen vervolgens niet alleen naar Excel en PDF worden geëxporteerd, maar ook naar veel meer bestandsindelingen. Deze rapporten kunnen ook onderwerpen van meerdere onderwerpenboards tegelijk exporteren. Klik [hier](https://support.catenda.com/en/articles/12303098-reports-page) om meer te lezen over de rapportenpagina
+Met de rapportenpagina is het mogelijk om aangepaste rapporten te maken, niet alleen over onderwerpen maar ook documenten. De rapportenpagina is een functie op aanvraag die kan worden ingeschakeld voor lopende projecten. Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waar deze functie is ingeschakeld, hebben deze functie niet ingeschakeld. Deze rapporten kunnen vervolgens niet alleen naar Excel en PDF worden geëxporteerd, maar ook naar veel meer bestandsindelingen. Deze rapporten kunnen ook onderwerpen van meerdere onderwerpenboards tegelijk exporteren. Klik [hier](https://support.catenda.com/nl/articles/12303098-reports-page) om meer te lezen over de rapportenpagina

@@ -1,18 +1,18 @@
 # Menu droit d'une révision - Informations de révision
 
-Si vous sélectionnez un document sur la [page documents](https://support.catenda.com/en/articles/8204673-documents-page) ou dans une Bibliothèque, une nouvelle fenêtre s'ouvrira pour ce document. Vous verrez toujours la dernière révision lorsque vous ouvrez un document.
+Si vous sélectionnez un document sur la [page documents](https://support.catenda.com/fr/articles/8204673-documents-page) ou dans une Bibliothèque, une nouvelle fenêtre s'ouvrira pour ce document. Vous verrez toujours la dernière révision lorsque vous ouvrez un document.
 
 La page du document peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/01-intro.png)
 
-1. La [bannière du document](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) s'étend sur la partie supérieure de la page du document
+1. La [bannière du document](https://support.catenda.com/fr/articles/8461918-document-banner-actions-navigation) s'étend sur la partie supérieure de la page du document
 1. Vous trouverez l'en-tête du document sous la bannière du document et au-dessus de l'aperçu du document.
-1. Sous l'en-tête du document, vous trouverez l'[aperçu du document](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
+1. Sous l'en-tête du document, vous trouverez l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations).
 1. À gauche de l'en-tête et de l'aperçu du document, vous trouverez la liste des documents
 1. _Cet article :_ À droite de l'en-tête et de l'aperçu du document, vous trouverez le menu d'information droit.
 
-Lorsque vous ouvrez d'abord un document, son menu droit peut être fermé. Vous pouvez cliquer sur le bouton d'information en bas à droite de la [bannière du document](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) pour développer ce menu.
+Lorsque vous ouvrez d'abord un document, son menu droit peut être fermé. Vous pouvez cliquer sur le bouton d'information en bas à droite de la [bannière du document](https://support.catenda.com/fr/articles/8461918-document-banner-actions-navigation) pour développer ce menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/02-intro.png)
 
@@ -54,7 +54,7 @@ Voici à quoi peuvent ressembler les champs qui peuvent être remplis pour l'ens
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/06-filling-out-fields.png)
 
-**Étiquettes** Ici, les [étiquettes](https://support.catenda.com/en/articles/4670265-labels-page) existantes ou nouvelles peuvent être ajoutées. Vous pouvez également supprimer toute étiquette qui a été appliquée au dossier ou au document. Il peut être utile d'étiqueter des dossiers au lieu de chaque fichier pour faciliter la recherche d'informations spécifiques dans les recherches ultérieures. Si plusieurs documents et dossiers sont sélectionnés, vous pouvez leur appliquer des étiquettes à tous à la fois.
+**Étiquettes** Ici, les [étiquettes](https://support.catenda.com/fr/articles/4670265-labels-page) existantes ou nouvelles peuvent être ajoutées. Vous pouvez également supprimer toute étiquette qui a été appliquée au dossier ou au document. Il peut être utile d'étiqueter des dossiers au lieu de chaque fichier pour faciliter la recherche d'informations spécifiques dans les recherches ultérieures. Si plusieurs documents et dossiers sont sélectionnés, vous pouvez leur appliquer des étiquettes à tous à la fois.
 
 **Métadonnées via des champs personnalisés** Les champs de métadonnées peuvent être affichés pour les documents créés où l'un des dossiers parents est configuré via la configuration du dossier dans les paramètres du document. Les champs peuvent avoir une valeur par défaut ou être vides. _Accès requis :_ Accès en écriture au document pour modifier les champs du document.
 
@@ -68,7 +68,7 @@ Voici à quoi peuvent ressembler les actions de révision :
 
 ### 3.1 **Comparer**
 
-Si plusieurs révisions PDF sont présentes dans un document, l'action [comparaison PDF](https://support.catenda.com/en/articles/8461650-pdf-compare) est affichée. Cliquez [ici](https://support.catenda.com/en/articles/8461650-pdf-compare) pour en savoir plus sur la comparaison PDF.
+Si plusieurs révisions PDF sont présentes dans un document, l'action [comparaison PDF](https://support.catenda.com/fr/articles/8461650-pdf-compare) est affichée. Cliquez [ici](https://support.catenda.com/fr/articles/8461650-pdf-compare) pour en savoir plus sur la comparaison PDF.
 
 ### 3.2 **Télécharger**
 
@@ -76,7 +76,7 @@ Cliquez sur l'icône de téléchargement en haut à droite du menu de révision 
 
 ### 3.3 **Retirer la révision**
 
-En savoir plus sur le retrait des révisions [ici](https://support.catenda.com/en/articles/9711174-withdraw-revision) _Accès requis :_ Accès complet au document
+En savoir plus sur le retrait des révisions [ici](https://support.catenda.com/fr/articles/9711174-withdraw-revision) _Accès requis :_ Accès complet au document
 
 ## 4. **Informations de révision**
 
@@ -154,29 +154,29 @@ Si le nouveau workflow de statut avec révisions partagées au lieu de révision
 
 ### 6.1 **Télécharger**
 
-Utilisez l'action de téléchargement pour télécharger la révision actuelle. Quel que soit le type de révision, les révisions peuvent également être téléchargées via le menu des révisions ci-dessous. Dans l'[onglet espace de travail](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_cfc9a53600) du [tableau des documents](https://support.catenda.com/en/articles/4670288-documents-table-actions), la dernière révision partagée du document est téléchargée via l'action d'élément existant. Dans l'[onglet publié](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_cfc9a53600) du [tableau des documents](https://support.catenda.com/en/articles/4670288-documents-table-actions), la dernière révision publiée du document est téléchargée via l'action d'élément existant. _Accès requis :_ Accès en lecture au document et case à cocher Afficher les révisions partagées cochée.
+Utilisez l'action de téléchargement pour télécharger la révision actuelle. Quel que soit le type de révision, les révisions peuvent également être téléchargées via le menu des révisions ci-dessous. Dans l'[onglet espace de travail](https://support.catenda.com/fr/articles/4670288-documents-table-actions#h_cfc9a53600) du [tableau des documents](https://support.catenda.com/fr/articles/4670288-documents-table-actions), la dernière révision partagée du document est téléchargée via l'action d'élément existant. Dans l'[onglet publié](https://support.catenda.com/fr/articles/4670288-documents-table-actions#h_cfc9a53600) du [tableau des documents](https://support.catenda.com/fr/articles/4670288-documents-table-actions), la dernière révision publiée du document est téléchargée via l'action d'élément existant. _Accès requis :_ Accès en lecture au document et case à cocher Afficher les révisions partagées cochée.
 
 ### 6.2 **Publier**
 
 Utilisez l'action de publication pour publier la révision partagée actuelle. Accès requis : Case à cocher Peut publier cochée
 
-En savoir plus sur le retrait des révisions [ici](https://support.catenda.com/en/articles/9711174-withdraw-revision) _Accès requis :_ Accès complet au document
+En savoir plus sur le retrait des révisions [ici](https://support.catenda.com/fr/articles/9711174-withdraw-revision) _Accès requis :_ Accès complet au document
 
 ### 6.3 **Comparer**
 
-Si plusieurs révisions PDF sont présentes dans un document, quel que soit leur type de révision, l'action [comparaison PDF](https://support.catenda.com/en/articles/8461650-pdf-compare) est affichée. Cliquez [ici](https://support.catenda.com/en/articles/8461650-pdf-compare) pour en savoir plus sur la comparaison PDF.
+Si plusieurs révisions PDF sont présentes dans un document, quel que soit leur type de révision, l'action [comparaison PDF](https://support.catenda.com/fr/articles/8461650-pdf-compare) est affichée. Cliquez [ici](https://support.catenda.com/fr/articles/8461650-pdf-compare) pour en savoir plus sur la comparaison PDF.
 
 ## 7. **Convention de nomenclature dans le menu droit**
 
-Les documents téléchargés dans un dossier pour lequel une convention de nomenclature est configurée dans la [configuration du dossier](https://support.catenda.com/en/articles/7831371-document-settings-page#h_6672c14d90) dans les [paramètres du document](https://support.catenda.com/en/articles/7831371-document-settings-page) afficheront l'aperçu de la convention de nomenclature.
+Les documents téléchargés dans un dossier pour lequel une convention de nomenclature est configurée dans la [configuration du dossier](https://support.catenda.com/fr/articles/7831371-document-settings-page#h_6672c14d90) dans les [paramètres du document](https://support.catenda.com/fr/articles/7831371-document-settings-page) afficheront l'aperçu de la convention de nomenclature.
 
 ### 7.1 **Aperçu de la convention de nomenclature**
 
-Voici à quoi peut ressembler l'aperçu de la convention de nomenclature lors du survol d'un [bloc](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_2409ff946c) de texte :
+Voici à quoi peut ressembler l'aperçu de la convention de nomenclature lors du survol d'un [bloc](https://support.catenda.com/fr/articles/7832559-naming-conventions-page#h_2409ff946c) de texte :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/14-naming-convention-preview.png)
 
-Voici à quoi peut ressembler l'aperçu de la convention de nomenclature lors du survol d'un [bloc](https://support.catenda.com/en/articles/7832559-naming-conventions-page#h_2409ff946c) de champ personnalisé :
+Voici à quoi peut ressembler l'aperçu de la convention de nomenclature lors du survol d'un [bloc](https://support.catenda.com/fr/articles/7832559-naming-conventions-page#h_2409ff946c) de champ personnalisé :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/15-naming-convention-preview.png)
 
@@ -196,13 +196,13 @@ En fonction de ce qui est reconnu dans le nom du document, un champ est rempli. 
 
 ## 8. **Workflow de statut**
 
-Voici à quoi peuvent ressembler les informations de révision lorsqu'un document est sélectionné dans le tableau des documents après l'activation du [workflow de statut](https://support.catenda.com/en/articles/9662473-status-workflow-shared-published).
+Voici à quoi peuvent ressembler les informations de révision lorsqu'un document est sélectionné dans le tableau des documents après l'activation du [workflow de statut](https://support.catenda.com/fr/articles/9662473-status-workflow-shared-published).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/18-status-workflow.png)
 
 ### 8.1 **Statut de révision publiée**
 
-Le statut affiché est le statut de la dernière révision publiée. Cliquez sur la liste déroulante de statut pour changer le statut en un statut différent dans la liste des [statuts](https://support.catenda.com/en/articles/7831371-document-settings-page#h_e6f3ffdbff) publiés configurée dans les [paramètres du document](https://support.catenda.com/en/articles/7831371-document-settings-page). _Accès requis :_ accès en écriture au document.
+Le statut affiché est le statut de la dernière révision publiée. Cliquez sur la liste déroulante de statut pour changer le statut en un statut différent dans la liste des [statuts](https://support.catenda.com/fr/articles/7831371-document-settings-page#h_e6f3ffdbff) publiés configurée dans les [paramètres du document](https://support.catenda.com/fr/articles/7831371-document-settings-page). _Accès requis :_ accès en écriture au document.
 
 ### 8.2 **Statut de révision partagée**
 
@@ -252,13 +252,13 @@ Un indice sur la présence de nouveaux brouillons est affiché. Le reste des inf
 
 **Afficher la dernière révision** Ouvrez l'aperçu de révision de la dernière révision publiée du document indépendamment de la présence de nouvelles révisions brouillon ou non.
 
-_Nouvelle demande d'approbation_ [Créer une nouvelle demande d'approbation](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) pour cette révision brouillon.
+_Nouvelle demande d'approbation_ [Créer une nouvelle demande d'approbation](https://support.catenda.com/fr/articles/12360159-creating-a-new-approval-request) pour cette révision brouillon.
 
 **Carte d'approbation** Si un brouillon fait partie d'une approbation, la carte d'approbation pour chaque approbation dont le brouillon fait partie est affichée ici :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/26-draft-revision-status-legacy.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/8349340-approvals-page) pour en savoir plus sur ce qui s'affiche sur une carte d'approbation.
+Cliquez [ici](https://support.catenda.com/fr/articles/8349340-approvals-page) pour en savoir plus sur ce qui s'affiche sur une carte d'approbation.
 
 **Statut** Le statut affiché est le statut de la révision brouillon actuelle. Cliquez sur la liste déroulante de statut pour changer le statut en un statut différent dans la liste des statuts de brouillon configurée dans les paramètres du document. _Accès requis :_ accès en écriture au document.
 
@@ -280,11 +280,11 @@ Sur la droite, leur accès actuel au document est affiché. Cet accès est soit 
 
 ### 9.1 **Modifier l'accès**
 
-Cliquez [ici](https://support.catenda.com/en/articles/4670287-folders-and-documents-acl) pour en savoir plus sur le contrôle d'accès dans la section des documents.
+Cliquez [ici](https://support.catenda.com/fr/articles/4670287-folders-and-documents-acl) pour en savoir plus sur le contrôle d'accès dans la section des documents.
 
 ## 10. **Validations**
 
-Le menu des validations est visible pour les projets où le [workflow de statut](https://support.catenda.com/en/articles/9662473-status-workflow-shared-published) est activé dans les [paramètres du document](https://support.catenda.com/en/articles/7831371-document-settings-page).
+Le menu des validations est visible pour les projets où le [workflow de statut](https://support.catenda.com/fr/articles/9662473-status-workflow-shared-published) est activé dans les [paramètres du document](https://support.catenda.com/fr/articles/7831371-document-settings-page).
 
 ### 10.1 **Aucune demande d'approbation ouverte**
 
@@ -314,7 +314,7 @@ Si les statuts partagés ne sont pas désactivés avec le nouveau workflow de st
 
 **Accès requis pour afficher les révisions partagées :** Accès en lecture au document. Case à cocher Afficher les révisions partagées cochée.
 
-**Nouvelle demande d'approbation** Cliquez [ici](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) pour en savoir plus sur la création d'une nouvelle demande d'approbation
+**Nouvelle demande d'approbation** Cliquez [ici](https://support.catenda.com/fr/articles/12360159-creating-a-new-approval-request) pour en savoir plus sur la création d'une nouvelle demande d'approbation
 
 **Aperçu de la demande d'approbation** Avec le nouveau workflow de validation, il est possible de créer un brouillon d'un workflow d'approbation. Les approbations brouillon ne s'affichent pas dans l'aperçu. Dès qu'un workflow d'approbation a été lancé, il est, et reste, affiché dans l'aperçu du workflow d'approbation. N'importe quel nombre de demandes d'approbation de chacune des révisions partagées du document peut avoir été faites, certaines pouvant toujours être ouvertes. Voici à quoi peut ressembler l'aperçu des approbations lorsque l'une des révisions du document fait partie d'une demande d'approbation ouverte avec le nouveau workflow de validation lorsque la dernière révision est toujours en cours de validation :
 
@@ -340,7 +340,7 @@ Notez qu'il n'est possible de télécharger des révisions brouillon et ainsi cr
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/33-new-draft-revision-but-no-approval-request-yet-legacy.png)
 
-**Nouvelle demande d'approbation** Cliquez [ici](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) pour en savoir plus sur la création d'une nouvelle demande d'approbation
+**Nouvelle demande d'approbation** Cliquez [ici](https://support.catenda.com/fr/articles/12360159-creating-a-new-approval-request) pour en savoir plus sur la création d'une nouvelle demande d'approbation
 
 ### 10.4 **Aperçu de la demande d'approbation - Hérité**
 
@@ -358,7 +358,7 @@ Si la révision a été publiée à la suite d'une approbation, cette demande d'
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/35-approval-request-overview-legacy.png)
 
-Que la dernière révision soit publiée ou non, une carte pour chaque révision de document qui fait partie d'une demande d'approbation toujours ouverte est affichée. De cette façon, les approbations qui n'ont pas été fermées peuvent être vérifiées. Cliquez [ici](https://support.catenda.com/en/articles/8349340-approvals-page) pour voir ce qui est décrit dans une carte d'approbation.
+Que la dernière révision soit publiée ou non, une carte pour chaque révision de document qui fait partie d'une demande d'approbation toujours ouverte est affichée. De cette façon, les approbations qui n'ont pas été fermées peuvent être vérifiées. Cliquez [ici](https://support.catenda.com/fr/articles/8349340-approvals-page) pour voir ce qui est décrit dans une carte d'approbation.
 
 ### 10.5 **Archivage de tous les statuts de brouillon - Hérité**
 
@@ -382,7 +382,7 @@ Ici, vous pouvez voir l'historique du document
 
 ## 13. **Collections**
 
-Si votre document fait partie de [collections](https://support.catenda.com/en/articles/6344318-collections-page), elles seront listées ici.
+Si votre document fait partie de [collections](https://support.catenda.com/fr/articles/6344318-collections-page), elles seront listées ici.
 
 ## 14. **Objets liés**
 
@@ -390,4 +390,4 @@ Ici, vous pouvez voir quels objets sont liés au document
 
 ## 15. **Sujets**
 
-Une carte de sujet pour chaque sujet auquel le document a été associé s'affiche ici. Cliquez [ici](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board) pour en savoir plus sur ce qui s'affiche dans une carte de sujet.
+Une carte de sujet pour chaque sujet auquel le document a été associé s'affiche ici. Cliquez [ici](https://support.catenda.com/fr/articles/6941232-list-view-in-a-topic-board) pour en savoir plus sur ce qui s'affiche dans une carte de sujet.

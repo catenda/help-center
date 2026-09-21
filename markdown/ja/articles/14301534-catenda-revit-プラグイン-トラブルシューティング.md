@@ -38,7 +38,7 @@ Revit LT が[サードパーティ アドインまたはプラグイン](https:/
 
 ### 3.2 **バージョン互換性**
 
-最新のソフトウェア アップデートとパフォーマンス向上に合わせるために、統合は定期的に更新されます。Revit アドインと Dynamo パッケージの両方について、現在サポートされている年度版の包括的なリストについては、[プラグインと統合](https://support.catenda.com/en/articles/8396532-catenda-plugins-integrations)の記事を参照してください。
+最新のソフトウェア アップデートとパフォーマンス向上に合わせるために、統合は定期的に更新されます。Revit アドインと Dynamo パッケージの両方について、現在サポートされている年度版の包括的なリストについては、[プラグインと統合](https://support.catenda.com/ja/articles/8396532-catenda-plugins-integrations)の記事を参照してください。
 
 ## 4. Catenda Hub Dynamo パッケージ
 

@@ -165,7 +165,7 @@ Klikk Avbryt hvis du ønsker å avslutte importprosessen.
 
 ## 8. **Gir tilgang til Catenda-kontoen din**
 
-Hvis du ikke allerede er logget inn på Catenda, blir du bedt om å [logge inn](https://support.catenda.com/en/articles/7891486-sign-in-page). Etter å ha åpnet for første gang, etter innlogging, eller hvis du allerede var logget inn, blir du bedt om tillatelse for å få tilgang til Catenda-kontoen din:
+Hvis du ikke allerede er logget inn på Catenda, blir du bedt om å [logge inn](https://support.catenda.com/nb/articles/7891486-sign-in-page). Etter å ha åpnet for første gang, etter innlogging, eller hvis du allerede var logget inn, blir du bedt om tillatelse for å få tilgang til Catenda-kontoen din:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/19-granting-access-to-your-catenda-account.png)
 
@@ -181,7 +181,7 @@ Dokumenter som har blitt lenket fra Catenda i Solibri kan se annerledes ut fra v
 
 ### 9.1 **Navnkolonne**
 
-Modellnavnet kan ta litt tid å oppdatere, men vil til slutt endres for å reflektere antallet revisjoner i dokumentet på Catenda. Hvis organisasjonen din har angitt en innstilling for nedlastingsnavnet på dokumentet ditt, kan du finne et annet navn her. For eksempel er det mulig å be om dokumentnavnet uten revisjonsalternativet. Merk at dette må be om av organisasjonen for alle nedlastede filer i prosjektene deres. Du kan se de forskjellige nedlastingsnavnalternativene for organisasjoner [her](https://support.catenda.com/en/articles/8224886-organization-options).
+Modellnavnet kan ta litt tid å oppdatere, men vil til slutt endres for å reflektere antallet revisjoner i dokumentet på Catenda. Hvis organisasjonen din har angitt en innstilling for nedlastingsnavnet på dokumentet ditt, kan du finne et annet navn her. For eksempel er det mulig å be om dokumentnavnet uten revisjonsalternativet. Merk at dette må be om av organisasjonen for alle nedlastede filer i prosjektene deres. Du kan se de forskjellige nedlastingsnavnalternativene for organisasjoner [her](https://support.catenda.com/nb/articles/8224886-organization-options).
 
 ### 9.2 **Versjonskolonne**
 

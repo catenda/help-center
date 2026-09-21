@@ -165,7 +165,7 @@ Klik op Annuleren als u het importproces wilt beëindigen.
 
 ## 8. **Toegang verlenen tot uw Catenda-account**
 
-Als u nog niet bent aangemeld bij Catenda, wordt u gevraagd [aan te melden](https://support.catenda.com/en/articles/7891486-sign-in-page). Nadat u de eerste keer opent, nadat u zich aanmeldt of als u al bent aangemeld, wordt u gevraagd om toestemming voor toegang tot uw Catenda-account:
+Als u nog niet bent aangemeld bij Catenda, wordt u gevraagd [aan te melden](https://support.catenda.com/nl/articles/7891486-sign-in-page). Nadat u de eerste keer opent, nadat u zich aanmeldt of als u al bent aangemeld, wordt u gevraagd om toestemming voor toegang tot uw Catenda-account:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/19-granting-access-to-your-catenda-account.png)
 
@@ -181,7 +181,7 @@ Documenten die van Catenda in Solibri zijn gekoppeld, kunnen er anders uitzien d
 
 ### 9.1 **Naamkolom**
 
-De naam van het model kan enige tijd duren om bij te werken, maar verandert uiteindelijk in overeenstemming met het aantal revisies in het Document op Catenda. Als uw organisatie een voorkeur voor de downloadnaam van uw Document heeft ingesteld, vindt u hier mogelijk een andere naam. U kunt bijvoorbeeld de Documentnaam zonder de optie revisie aanvragen. Houd er rekening mee dat dit door de organisatie voor alle gedownloade bestanden in hun projecten moet worden aangevraagd. U kunt de verschillende downloadnaamopties voor organisaties [hier](https://support.catenda.com/en/articles/8224886-organization-options) zien.
+De naam van het model kan enige tijd duren om bij te werken, maar verandert uiteindelijk in overeenstemming met het aantal revisies in het Document op Catenda. Als uw organisatie een voorkeur voor de downloadnaam van uw Document heeft ingesteld, vindt u hier mogelijk een andere naam. U kunt bijvoorbeeld de Documentnaam zonder de optie revisie aanvragen. Houd er rekening mee dat dit door de organisatie voor alle gedownloade bestanden in hun projecten moet worden aangevraagd. U kunt de verschillende downloadnaamopties voor organisaties [hier](https://support.catenda.com/nl/articles/8224886-organization-options) zien.
 
 ### 9.2 **Versiekolom**
 

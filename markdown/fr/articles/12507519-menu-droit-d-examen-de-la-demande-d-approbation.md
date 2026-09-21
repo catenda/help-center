@@ -1,6 +1,6 @@
 # Menu droit d'examen de la demande d'approbation
 
-Quand l'[examen du fichier d'une demande d'approbation](https://support.catenda.com/en/articles/12507002-file-review-in-an-approval-request) est d'abord ouvert, son menu droit peut être fermé. Cliquez sur le bouton d'information à droite pour développer ce menu.
+Quand l'[examen du fichier d'une demande d'approbation](https://support.catenda.com/fr/articles/12507002-file-review-in-an-approval-request) est d'abord ouvert, son menu droit peut être fermé. Cliquez sur le bouton d'information à droite pour développer ce menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/sb8szdmp/01-intro.png)
 

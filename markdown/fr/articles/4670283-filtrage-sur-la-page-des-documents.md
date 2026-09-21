@@ -12,11 +12,11 @@ Cliquez sur le bouton de filtrage en haut à gauche pour qu'un panneau apparaiss
 
 ### 1.1 **Enregistrer et partager le filtre actuel**
 
-Accédez à l'URL d'une page filtrée pour charger cette page avec le filtre appliqué. Les filtres appliqués peuvent être enregistrés vers le haut du menu de filtres. Cliquez [ici](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) pour en savoir plus sur la façon d'enregistrer et de partager les filtres. Notez que contrairement aux autres menus de filtres, il n'est pas possible d'enregistrer les filtres personnels vers le haut du menu de filtres sur la page des approbations.
+Accédez à l'URL d'une page filtrée pour charger cette page avec le filtre appliqué. Les filtres appliqués peuvent être enregistrés vers le haut du menu de filtres. Cliquez [ici](https://support.catenda.com/fr/articles/11401493-saving-a-filter-link) pour en savoir plus sur la façon d'enregistrer et de partager les filtres. Notez que contrairement aux autres menus de filtres, il n'est pas possible d'enregistrer les filtres personnels vers le haut du menu de filtres sur la page des approbations.
 
 ### 1.2 **Masquer les filtres vides**
 
-Cliquez [ici](https://support.catenda.com/en/articles/8551755-saving-filters) pour en savoir plus sur la limitation des résultats des filtres.
+Cliquez [ici](https://support.catenda.com/fr/articles/8551755-saving-filters) pour en savoir plus sur la limitation des résultats des filtres.
 
 ### 1.3 **Onglets**
 
@@ -56,7 +56,7 @@ Nom du membre - `publishedBy=<Member GUID>&subFolders=true`
 
 ### 1.11 **Filtres de date**
 
-Publié - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Cliquez sur Sélectionner des dates pour sélectionner les dates entre lesquelles vous souhaitez effectuer une recherche Cliquez [ici](https://support.catenda.com/en/articles/6511685-date-filter) pour en savoir plus sur le filtre de date
+Publié - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Cliquez sur Sélectionner des dates pour sélectionner les dates entre lesquelles vous souhaitez effectuer une recherche Cliquez [ici](https://support.catenda.com/fr/articles/6511685-date-filter) pour en savoir plus sur le filtre de date
 
 ### 1.12 **Approbations ouvertes - Statut flux de travail uniquement**
 
@@ -90,7 +90,7 @@ Nom de la collection - `collections=<GUID>&subFolders=true`
 
 ### 1.17 **Supprimé**
 
-Supprimé - `deleted=deleted&subFolders=true` Voir [ici](https://support.catenda.com/en/articles/4670249-undeleting-restoring-documents-or-folders) comment rechercher les documents supprimés
+Supprimé - `deleted=deleted&subFolders=true` Voir [ici](https://support.catenda.com/fr/articles/4670249-undeleting-restoring-documents-or-folders) comment rechercher les documents supprimés
 
 ## 2. **Recherche textuelle**
 

@@ -12,15 +12,15 @@ Es kann jedoch vorkommen, dass Sie eine begrenzte Leistung feststellen. Dies kan
 
 ## 2. **Eine Abfrage erstellen**
 
-Abfragen können entweder vom [2D-Viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) oder aus einer Eigenschaftsbibliothek erstellt werden. Mit dem [2D-Viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) können Sie leicht einen Bereich im Projekt auswählen, den Sie laden möchten. Mit einer Eigenschaftsbibliothek können Sie leicht Objekte mit einer bestimmten Eigenschaft auswählen, die Sie laden möchten.
+Abfragen können entweder vom [2D-Viewer](https://support.catenda.com/de/articles/4854537-2d-viewer) oder aus einer Eigenschaftsbibliothek erstellt werden. Mit dem [2D-Viewer](https://support.catenda.com/de/articles/4854537-2d-viewer) können Sie leicht einen Bereich im Projekt auswählen, den Sie laden möchten. Mit einer Eigenschaftsbibliothek können Sie leicht Objekte mit einer bestimmten Eigenschaft auswählen, die Sie laden möchten.
 
 ## 3. **2D-Viewer-Abfrage**
 
-Um eine Abfrage vom [2D-Viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) zu erstellen, öffnen Sie die 2D-Ansicht eines Modells:
+Um eine Abfrage vom [2D-Viewer](https://support.catenda.com/de/articles/4854537-2d-viewer) zu erstellen, öffnen Sie die 2D-Ansicht eines Modells:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/01-2d-viewer-query.png)
 
-Dies hilft Ihnen zu verstehen, von welcher Position im Projekt Ihre Objekte ausgewählt werden. Es gibt drei verschiedene Möglichkeiten, Abfragen im 2D-Viewer zu erstellen. Wenn Sie im 2D-Viewer mit der rechten Maustaste klicken, wird das [Menü 2D-Viewer-Interaktionen](https://support.catenda.com/en/articles/4854537-2d-viewer#h_bfa30db456) geöffnet. Hier können Sie die folgenden Abfragen auswählen: [Überschneidender Raum](#h_bade07829c) [Überschneidendes Geschoss](#h_6127f099ac) Die dritte Abfrage kann mit dem [Dropdown-Menü 2D-Viewer-Auswahl](https://support.catenda.com/en/articles/4854537-2d-viewer#h_042dc145fa) erstellt werden. Hier können Sie auswählen: Rechteckige Auswahl, mit der Sie die folgende Abfrage erstellen können: [Rechteckige Auswahl](#h_33afc95ee3)
+Dies hilft Ihnen zu verstehen, von welcher Position im Projekt Ihre Objekte ausgewählt werden. Es gibt drei verschiedene Möglichkeiten, Abfragen im 2D-Viewer zu erstellen. Wenn Sie im 2D-Viewer mit der rechten Maustaste klicken, wird das [Menü 2D-Viewer-Interaktionen](https://support.catenda.com/de/articles/4854537-2d-viewer#h_bfa30db456) geöffnet. Hier können Sie die folgenden Abfragen auswählen: [Überschneidender Raum](#h_bade07829c) [Überschneidendes Geschoss](#h_6127f099ac) Die dritte Abfrage kann mit dem [Dropdown-Menü 2D-Viewer-Auswahl](https://support.catenda.com/de/articles/4854537-2d-viewer#h_042dc145fa) erstellt werden. Hier können Sie auswählen: Rechteckige Auswahl, mit der Sie die folgende Abfrage erstellen können: [Rechteckige Auswahl](#h_33afc95ee3)
 
 ### 3.1 **Überschneidender Raumabfrage**
 
@@ -64,11 +64,11 @@ Dies lädt alle Geometrie innerhalb der oberen und unteren Ebenen des Geschosses
 
 ## 4. **Eigenschaftsbibliotheks-Abfrage**
 
-Wenn Sie Ihre [Eigenschaftswert-Bibliothek](https://support.catenda.com/en/articles/4670252-property-value-library) synchronisiert haben, können Sie auf die Objektanzahl neben dem Eigenschaftswert klicken und auswählen, aus welchem/welchen Modell(en) Sie eine Abfrage von Objekten mit diesem Eigenschaftswert durchführen möchten.
+Wenn Sie Ihre [Eigenschaftswert-Bibliothek](https://support.catenda.com/de/articles/4670252-property-value-library) synchronisiert haben, können Sie auf die Objektanzahl neben dem Eigenschaftswert klicken und auswählen, aus welchem/welchen Modell(en) Sie eine Abfrage von Objekten mit diesem Eigenschaftswert durchführen möchten.
 
 ## 5. **Eine Abfrage bearbeiten**
 
-Abfragen können bearbeitet werden, indem Sie das Abfragemenü in der [Revisions-Auswahl](https://support.catenda.com/en/articles/4670279-revision-selector#h_fcf1c5a080) auswählen.
+Abfragen können bearbeitet werden, indem Sie das Abfragemenü in der [Revisions-Auswahl](https://support.catenda.com/de/articles/4670279-revision-selector#h_fcf1c5a080) auswählen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/08-editing-a-query.png)
 

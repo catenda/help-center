@@ -1,6 +1,6 @@
 # Verdiepingsconfiguratoracties
 
-De actie voor het maken van een nieuw gebouw is te vinden in de rechterbovenhoek van de [verdiepingsconfiguratorpagina](https://support.catenda.com/en/articles/6921756-storey-configurator-page). Dit is waar de acties op de verdiepingsconfiguratorpagina te vinden zijn:
+De actie voor het maken van een nieuw gebouw is te vinden in de rechterbovenhoek van de [verdiepingsconfiguratorpagina](https://support.catenda.com/nl/articles/6921756-storey-configurator-page). Dit is waar de acties op de verdiepingsconfiguratorpagina te vinden zijn:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/43a5z00a/01-intro.png)
 
@@ -20,11 +20,11 @@ In het dialoogvenster Nieuw gebouw aanmaken wordt een initieel model geselecteer
 
 > **Opmerking:** Als u een model wilt kunnen selecteren, moet ten minste één model in het project worden geconfigureerd.
 
-Klik [hier](https://support.catenda.com/en/articles/9431936-models-page-actions#h_4100594482) om meer te lezen over het maken van modellen. Wanneer een model wordt geïmporteerd, wordt een 2D-weergave gegenereerd door een dwarsdoorsnede van de objecten van het model 1,4 meter boven de hoogte van elke verdieping.
+Klik [hier](https://support.catenda.com/nl/articles/9431936-models-page-actions#h_4100594482) om meer te lezen over het maken van modellen. Wanneer een model wordt geïmporteerd, wordt een 2D-weergave gegenereerd door een dwarsdoorsnede van de objecten van het model 1,4 meter boven de hoogte van elke verdieping.
 
 ### 2.1 **Modellen zonder 2D-geometrie**
 
-Als er geen objecten zijn doorsneden, is het niet mogelijk het model te selecteren. U kunt dit herkennen wanneer de [2D-knop](https://support.catenda.com/en/articles/4670279-revision-selector#h_180a64490d) niet wordt geactiveerd wanneer u de 2D-weergave van het model opent.
+Als er geen objecten zijn doorsneden, is het niet mogelijk het model te selecteren. U kunt dit herkennen wanneer de [2D-knop](https://support.catenda.com/nl/articles/4670279-revision-selector#h_180a64490d) niet wordt geactiveerd wanneer u de 2D-weergave van het model opent.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/43a5z00a/04-models-with-no-2d-geometry.png)
 

@@ -34,4 +34,4 @@ Du kan nå fylle inn feltene på dine neste saker!
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tv2vef51/07-intro.gif)
 
-👉 **[Slik konfigurerer du de egendefinerte feltene](https://intercom.help/bimsync-arena/en/articles/6550459-setting-of-custom-fields)**
+👉 **[Slik konfigurerer du de egendefinerte feltene](https://intercom.help/bimsync-arena/nb/articles/6550459-setting-of-custom-fields)**

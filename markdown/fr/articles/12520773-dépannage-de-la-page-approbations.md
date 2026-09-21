@@ -10,7 +10,7 @@ Il est uniquement possible de soumettre la boîte de dialogue de nouvelle demand
 
 ## 2. **Onglet Aperçu - Fermeture d'une demande d'approbation**
 
-Lors de la fermeture d'une approbation, la publication peut échouer. Dans l'[onglet aperçu](https://support.catenda.com/en/articles/12495126-overview-tab-in-an-approval-request) de l'approbation, ce qui suit peut alors être visible :
+Lors de la fermeture d'une approbation, la publication peut échouer. Dans l'[onglet aperçu](https://support.catenda.com/fr/articles/12495126-overview-tab-in-an-approval-request) de l'approbation, ce qui suit peut alors être visible :
 
 ![Échec de la publication 1 document publié. Impossible de mettre à jour 1 document afficher les détails](https://raw.githubusercontent.com/catenda/help-center/main/images/atct6we8/02-overview-tab-closing-an-approval-request.png)
 

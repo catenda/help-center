@@ -1,6 +1,6 @@
 # Milepælside
 
-Milepælsiden finnes som en underside til [saksiden](https://support.catenda.com/en/articles/4670271-topics-page). På milepælsiden vil du kunne se hvilke milepæler som er tilgjengelige i prosjektet.
+Milepælsiden finnes som en underside til [saksiden](https://support.catenda.com/nb/articles/4670271-topics-page). På milepælsiden vil du kunne se hvilke milepæler som er tilgjengelige i prosjektet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/01-intro.png)
 

@@ -1,6 +1,6 @@
 # Contrôle d'accès pour la création de liste de sujets
 
-Les administrateurs pourront configurer qui a accès pour créer des listes de sujets dans la section contrôle d'accès de la [page paramètres du projet](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3).
+Les administrateurs pourront configurer qui a accès pour créer des listes de sujets dans la section contrôle d'accès de la [page paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page#h_f82a1850f3).
 
 1. Sous le contrôle d'accès sur cette page vous avez « Créer une nouvelle liste de sujets ».
 

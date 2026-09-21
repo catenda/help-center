@@ -1,10 +1,10 @@
 # Status-Workflow - Dokumenteinstellungen
 
-So kann das Status-Workflow-Menü auf der Seite [Dokumenteinstellungen](https://support.catenda.com/en/articles/7831371-document-settings-page) für Projekte aussehen, die gemeinsame Überarbeitungen nach dem 2. Oktober 2025 aktiviert haben. In neuen Projekten ist der Status-Workflow standardmäßig deaktiviert. So kann das Status-Workflow-Menü aussehen:
+So kann das Status-Workflow-Menü auf der Seite [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings-page) für Projekte aussehen, die gemeinsame Überarbeitungen nach dem 2. Oktober 2025 aktiviert haben. In neuen Projekten ist der Status-Workflow standardmäßig deaktiviert. So kann das Status-Workflow-Menü aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/01-intro.png)
 
-Projekte, die auf einem [Vorlagenprojekt](https://support.catenda.com/en/articles/4670245-creating-a-new-project#h_5db32e5398) basieren, und Projekte, die gemeinsame Überarbeitungen vor dem 2. Oktober 2025 aktiviert haben, werden das Menü des älteren Status-Workflows sehen.
+Projekte, die auf einem [Vorlagenprojekt](https://support.catenda.com/de/articles/4670245-creating-a-new-project#h_5db32e5398) basieren, und Projekte, die gemeinsame Überarbeitungen vor dem 2. Oktober 2025 aktiviert haben, werden das Menü des älteren Status-Workflows sehen.
 
 ## 1. **Gemeinsame Status**
 
@@ -75,7 +75,7 @@ Archivierte Status können jederzeit wiederhergestellt werden, indem Sie auf "Ar
 
 ## 5. Standardstatus
 
-Der Status, der standardmäßig angezeigt wird, wenn die Veröffentlichungsaktion für eine gemeinsame Überarbeitung verwendet wird. Ein anderer Status kann dennoch vor der Veröffentlichung ausgewählt werden. Gemeinsame Überarbeitungen können auch über [Genehmigungsanfragen](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page) veröffentlicht werden. Abhängig davon, welchen Workflow der Einreichende im Namen ihres Einreichungsteams ausgewählt hat, wenn ein Mitglied eine abschließende Validierung im Namen des endgültigen Validierungsteams durchführt, ändert sich der Status des Dokuments der veröffentlichten Überarbeitung auf der Grundlage der Workflow-Konfiguration.
+Der Status, der standardmäßig angezeigt wird, wenn die Veröffentlichungsaktion für eine gemeinsame Überarbeitung verwendet wird. Ein anderer Status kann dennoch vor der Veröffentlichung ausgewählt werden. Gemeinsame Überarbeitungen können auch über [Genehmigungsanfragen](https://support.catenda.com/de/articles/12494960-open-or-closed-approval-request-page) veröffentlicht werden. Abhängig davon, welchen Workflow der Einreichende im Namen ihres Einreichungsteams ausgewählt hat, wenn ein Mitglied eine abschließende Validierung im Namen des endgültigen Validierungsteams durchführt, ändert sich der Status des Dokuments der veröffentlichten Überarbeitung auf der Grundlage der Workflow-Konfiguration.
 
 ## 6. Upload-Menü
 

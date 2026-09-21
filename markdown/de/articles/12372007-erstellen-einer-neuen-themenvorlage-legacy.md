@@ -1,6 +1,6 @@
 # Erstellen einer neuen Themenvorlage - Legacy
 
-Die Aktion für neue Themenvorlagen finden Sie, indem Sie auf das Aktionsmenü rechts neben der grünen Plus-Schaltfläche auf der Seite [Themenvorlagen](https://support.catenda.com/en/articles/12367730-topic-templates-page) und der Seite [Themenvorlage](https://support.catenda.com/en/articles/12371549-topic-template-page) klicken. Die Aktion finden Sie auch in der Dropdown-Liste Themenvorlagen im Bereich Themenvorlage der Seite [Genehmigungseinstellungen](https://support.catenda.com/en/articles/12367293-approval-settings-page). _Erforderlicher Zugriff:_ Administrator
+Die Aktion für neue Themenvorlagen finden Sie, indem Sie auf das Aktionsmenü rechts neben der grünen Plus-Schaltfläche auf der Seite [Themenvorlagen](https://support.catenda.com/de/articles/12367730-topic-templates-page) und der Seite [Themenvorlage](https://support.catenda.com/de/articles/12371549-topic-template-page) klicken. Die Aktion finden Sie auch in der Dropdown-Liste Themenvorlagen im Bereich Themenvorlage der Seite [Genehmigungseinstellungen](https://support.catenda.com/de/articles/12367293-approval-settings-page). _Erforderlicher Zugriff:_ Administrator
 
 Das Dialogfeld für neue Themenvorlagen kann wie folgt aussehen:
 

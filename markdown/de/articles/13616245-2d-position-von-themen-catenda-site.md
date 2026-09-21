@@ -1,6 +1,6 @@
 # 2D-Position von Themen - Catenda Site
 
-Die Position kann auf Themen angewendet werden, indem ein Marker bei einer x-, y-, z-Koordinate im [2D-Viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) platziert wird. Farbige Punkte markieren die Position von Themen im 2D-Viewer und geben ein unmittelbares visuelles Verständnis dafür, wo sich die Themen befinden, sowie deren Status und Typ. Mit Themenpositionen kann Ihr Projekt die Platzierung von Themen massiv besser kontrollieren. Diese Funktion ergänzt die Funktionalität unserer Browseranwendung [Catenda Hub](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site). Mit Markern werden Projekte mit nahtloser Erstellung, Überwachung und Verwaltung von vor Ort erstellten Themen ausgestattet.
+Die Position kann auf Themen angewendet werden, indem ein Marker bei einer x-, y-, z-Koordinate im [2D-Viewer](https://support.catenda.com/de/articles/4854537-2d-viewer) platziert wird. Farbige Punkte markieren die Position von Themen im 2D-Viewer und geben ein unmittelbares visuelles Verständnis dafür, wo sich die Themen befinden, sowie deren Status und Typ. Mit Themenpositionen kann Ihr Projekt die Platzierung von Themen massiv besser kontrollieren. Diese Funktion ergänzt die Funktionalität unserer Browseranwendung [Catenda Hub](https://support.catenda.com/de/articles/6530821-download-your-mobile-app-catenda-site). Mit Markern werden Projekte mit nahtloser Erstellung, Überwachung und Verwaltung von vor Ort erstellten Themen ausgestattet.
 
 Dies ist ein Beispiel dafür, wie Marker im 2D-Viewer in Catenda Site aussehen können:
 
@@ -62,7 +62,7 @@ Wenn ein Thema in einem Themen-Board geöffnet wird, wird die Farbe dieses Marke
 
 ### 1.5 **Marker-Konfiguration**
 
-Tippen Sie auf das Zahnrad-Symbol im 2D-Viewer, um die Catenda Site 2D-Viewer-[Einstellungen](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site#h_63e1728758) zu öffnen
+Tippen Sie auf das Zahnrad-Symbol im 2D-Viewer, um die Catenda Site 2D-Viewer-[Einstellungen](https://support.catenda.com/de/articles/7748370-2d-viewer-catenda-site#h_63e1728758) zu öffnen
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/10-marker-configuration.png)
 

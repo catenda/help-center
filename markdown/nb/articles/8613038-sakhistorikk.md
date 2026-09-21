@@ -1,6 +1,6 @@
 # Sakhistorikk
 
-Du finner knappen for sakhistorikk mot toppen av [sakskroppen](https://support.catenda.com/en/articles/8053352-issue-body). Ved å klikke på denne knappen utvider du historikken over alle endringer som er gjort på saken i løpet av dens tid i Catenda-prosjektet ditt.
+Du finner knappen for sakhistorikk mot toppen av [sakskroppen](https://support.catenda.com/nb/articles/8053352-issue-body). Ved å klikke på denne knappen utvider du historikken over alle endringer som er gjort på saken i løpet av dens tid i Catenda-prosjektet ditt.
 
 I sakhistorikken kan du finne informasjon om følgende:
 

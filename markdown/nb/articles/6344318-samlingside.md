@@ -2,7 +2,7 @@
 
 > Del dokumenter, last ned dokumenter som ZIP-fil
 
-Du finner dokumentsamlinger som en underside til [dokumentsiden](https://support.catenda.com/en/articles/4670292-documents-page). Se en kort video om dokumentsamlinger [her](https://support.catenda.com/en/articles/6423380-documents-collection-short-video)
+Du finner dokumentsamlinger som en underside til [dokumentsiden](https://support.catenda.com/nb/articles/4670292-documents-page). Se en kort video om dokumentsamlinger [her](https://support.catenda.com/nb/articles/6423380-documents-collection-short-video)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/01-intro.png)
 
@@ -28,7 +28,7 @@ Når du oppretter en ny samling, blir du bedt om å fylle ut følgende dialog.
 
 **Legg til dokumenter** For å legge til dokumenter klikker du på [knappen Legg til dokumenter](#h_b94d108342).
 
-**Send inn** Når du sender inn samlingen din, tas du til samlingenes [samlingside](https://support.catenda.com/en/articles/8999764-collection-page). Samlingen vil være en [privat samling](https://support.catenda.com/en/articles/8999764-collection-page#h_0b76040299) som bare du kan se. Du kan fortsatt redigere denne samlingen før du deler den med resten av prosjektet.
+**Send inn** Når du sender inn samlingen din, tas du til samlingenes [samlingside](https://support.catenda.com/nb/articles/8999764-collection-page). Samlingen vil være en [privat samling](https://support.catenda.com/nb/articles/8999764-collection-page#h_0b76040299) som bare du kan se. Du kan fortsatt redigere denne samlingen før du deler den med resten av prosjektet.
 
 ### 1.2 **Legge til dokumenter i samlinger**
 
@@ -46,7 +46,7 @@ Du kan enten velge dokumentene ett-til-ett eller klikke på avmerkingsboksen øv
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/05-search-and-filter.png)
 
-Klikk [her](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page) for å se hvilke alternativer du har når du filtrerer på samlingssiden.
+Klikk [her](https://support.catenda.com/nb/articles/8999945-filtering-on-the-collections-page) for å se hvilke alternativer du har når du filtrerer på samlingssiden.
 
 ## 3. **Samlingsliste**
 

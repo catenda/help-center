@@ -1,8 +1,8 @@
 # Høyremeny i en saksliste
 
-Høyremenyen på [sakssiden](https://support.catenda.com/en/articles/4670271-topics-page) finner du ved å klikke på infoikonet til høyre for søkelinjen under [saksbanneret](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics). Klikk på ikonet for å åpne en meny som inneholder informasjon om valgte saker og saklister.
+Høyremenyen på [sakssiden](https://support.catenda.com/nb/articles/4670271-topics-page) finner du ved å klikke på infoikonet til høyre for søkelinjen under [saksbanneret](https://support.catenda.com/nb/articles/7986346-topic-banner-navigating-topics). Klikk på ikonet for å åpne en meny som inneholder informasjon om valgte saker og saklister.
 
-Slik kan [saksbanneret](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) se ut:
+Slik kan [saksbanneret](https://support.catenda.com/nb/articles/7986346-topic-banner-navigating-topics) se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/01-intro.png)
 
@@ -42,7 +42,7 @@ Sier "No topics are selected when expanded." når ingen saker er valgt. I denne 
 
 ### 2.2 **1.2 Tilgangsstyring for saksliste**
 
-Når ingen saker er valgt, vises menyen for tilgangsstyring for saksliste bare når du navigerer til en enkelt saksliste. I saklisten med alle saker velger du en sak for å se tilgangsstyringen av saklisten som saken er i. Klikk [her](https://support.catenda.com/en/articles/4670296-topic-board-access-control) for å lese mer om tilgangsstyring for saksliste.
+Når ingen saker er valgt, vises menyen for tilgangsstyring for saksliste bare når du navigerer til en enkelt saksliste. I saklisten med alle saker velger du en sak for å se tilgangsstyringen av saklisten som saken er i. Klikk [her](https://support.catenda.com/nb/articles/4670296-topic-board-access-control) for å lese mer om tilgangsstyring for saksliste.
 
 ## 3. **3. Enkelt sak**
 
@@ -56,27 +56,27 @@ Slik kan høyremenyen se ut når en enkelt sak er valgt:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/07-3-1-update-selected-topic.png)
 
-**3.1.1 Saksheader** Slik kan [saksheaderen](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) se ut:
+**3.1.1 Saksheader** Slik kan [saksheaderen](https://support.catenda.com/nb/articles/8400566-topic-header-the-subject-of-a-topic) se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/08-3-1-update-selected-topic.png)
 
-**3.1.2 Sakstekst** Under saksheaderen finnes saksteksten med beskrivelse og kommentarer. Her kan beskrivelser og kommentarer legges til, og nye kommentarer kan opprettes. Klikk [her](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic) for å lese mer om saksteksten.
+**3.1.2 Sakstekst** Under saksheaderen finnes saksteksten med beskrivelse og kommentarer. Her kan beskrivelser og kommentarer legges til, og nye kommentarer kan opprettes. Klikk [her](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic) for å lese mer om saksteksten.
 
 ### 3.2 **3.2 Dokumenter**
 
-Klikk [her](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_b00b9c5150) for å lese mer om tilknyttede dokumenter.
+Klikk [her](https://support.catenda.com/nb/articles/8053299-right-menu-in-a-topic#h_b00b9c5150) for å lese mer om tilknyttede dokumenter.
 
 ### 3.3 **3.3 Objekter**
 
-Klikk [her](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_758f17abbc) for å lese mer om tilknyttede objekter.
+Klikk [her](https://support.catenda.com/nb/articles/8053299-right-menu-in-a-topic#h_758f17abbc) for å lese mer om tilknyttede objekter.
 
 ### 3.4 **3.4 Saker**
 
-Klikk [her](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_edf2cb07a8) for å lese mer om tilknyttede saker.
+Klikk [her](https://support.catenda.com/nb/articles/8053299-right-menu-in-a-topic#h_edf2cb07a8) for å lese mer om tilknyttede saker.
 
 ### 3.5 **3.5 Tilgangsstyring for saksliste**
 
-Siden en enkelt sak alltid er i en saksliste, viser menyen for tilgangsstyring for saksliste tilgangen til saklisten som den valgte saken er i. Klikk [her](https://support.catenda.com/en/articles/4670296-topic-board-access-control) for å lese mer om tilgangsstyring for saksliste.
+Siden en enkelt sak alltid er i en saksliste, viser menyen for tilgangsstyring for saksliste tilgangen til saklisten som den valgte saken er i. Klikk [her](https://support.catenda.com/nb/articles/4670296-topic-board-access-control) for å lese mer om tilgangsstyring for saksliste.
 
 **Konfigurer tilgang** Klikk Konfigurer tilgang for å redigere tilgangen til saklisten som den valgte saken er i. _Tilgang påkrevd:_ Administrator
 

@@ -1,8 +1,8 @@
 # Filtrage sur la page des notifications
 
-Tant dans vos [paramètres de notification](https://support.catenda.com/en/articles/8272435-notification-settings) que dans vos [paramètres de notification spécifiques au projet](https://support.catenda.com/en/articles/4670262-project-specific-notification-settings), vous pourrez configurer les notifications que vous souhaitez recevoir.
+Tant dans vos [paramètres de notification](https://support.catenda.com/fr/articles/8272435-notification-settings) que dans vos [paramètres de notification spécifiques au projet](https://support.catenda.com/fr/articles/4670262-project-specific-notification-settings), vous pourrez configurer les notifications que vous souhaitez recevoir.
 
-Les situations dans lesquelles une notification est envoyée pour les différents paramètres seront expliquées dans cet article. Une fois la notification envoyée, vous pourrez la retrouver sur la [page des notifications du compte](https://support.catenda.com/en/articles/7439223-account-notifications-page) et la [page des notifications du projet](https://support.catenda.com/en/articles/4670295-project-notifications-page) en ouvrant le bouton du menu de filtres sur la gauche.
+Les situations dans lesquelles une notification est envoyée pour les différents paramètres seront expliquées dans cet article. Une fois la notification envoyée, vous pourrez la retrouver sur la [page des notifications du compte](https://support.catenda.com/fr/articles/7439223-account-notifications-page) et la [page des notifications du projet](https://support.catenda.com/fr/articles/4670295-project-notifications-page) en ouvrant le bouton du menu de filtres sur la gauche.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/810mbm4a/01-intro.png)
 
@@ -22,11 +22,11 @@ Cliquez sur le bouton de filtre en haut à gauche pour qu'un panneau apparaisse 
 
 ### 2.3 **Enregistrer et partager le filtre actuel**
 
-Accédez à l'URL d'une page filtrée pour charger cette page avec le filtre appliqué. Les filtres appliqués peuvent être enregistrés en haut du menu de filtres. Cliquez [ici](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) pour en savoir plus sur la façon d'enregistrer et de partager les filtres
+Accédez à l'URL d'une page filtrée pour charger cette page avec le filtre appliqué. Les filtres appliqués peuvent être enregistrés en haut du menu de filtres. Cliquez [ici](https://support.catenda.com/fr/articles/11401493-saving-a-filter-link) pour en savoir plus sur la façon d'enregistrer et de partager les filtres
 
 ### 2.4 **Masquer les filtres vides**
 
-Cliquez [ici](https://support.catenda.com/en/articles/8551755-saving-filters) pour en savoir plus sur la limitation des résultats de filtre.
+Cliquez [ici](https://support.catenda.com/fr/articles/8551755-saving-filters) pour en savoir plus sur la limitation des résultats de filtre.
 
 ## 3. **Filtres de date**
 
@@ -46,7 +46,7 @@ Notifications de l'année dernière.
 
 ### 3.4 **Choisir une date** - `date-from=<Epoch Unix Timestamp>&date-to=<Epoch Unix Timestamp>`
 
-Lisez [cet](https://support.catenda.com/en/articles/6511685-date-filter) article pour apprendre à sélectionner facilement les dates sur la page.
+Lisez [cet](https://support.catenda.com/fr/articles/6511685-date-filter) article pour apprendre à sélectionner facilement les dates sur la page.
 
 ### 3.5 **Toutes les notifications**
 
@@ -88,15 +88,15 @@ _Exportation réussie_ - `type=export-completed` Lorsque l'exportation de votre 
 
 ### 7.1 **Nouveau sujet** - `type=new-issue`
 
-C'est la seule notification que vous recevez à propos d'un sujet si vous ne [suivez](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) pas le sujet. Les assignés, les demandeurs et les membres mentionnés dans les sujets suivent automatiquement le sujet et recevront les notifications ci-dessous.
+C'est la seule notification que vous recevez à propos d'un sujet si vous ne [suivez](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) pas le sujet. Les assignés, les demandeurs et les membres mentionnés dans les sujets suivent automatiquement le sujet et recevront les notifications ci-dessous.
 
 **Option de paramètre de notification :** Un nouveau sujet est créé
 
 ### 7.2 **Nouveau commentaire** - `type=new-comment`
 
-Si vous n'êtes ni l'assigné ni le demandeur du sujet mais que vous [suivez](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) le sujet, vous recevrez cette notification.
+Si vous n'êtes ni l'assigné ni le demandeur du sujet mais que vous [suivez](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) le sujet, vous recevrez cette notification.
 
-Cela peut se produire si vous avez précédemment été [assigné](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9), [demandeur](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [mentionné](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) ou [suivi manuellement](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) le sujet. Si vous ne souhaitez pas recevoir de futures notifications sur ce sujet, vous pouvez arrêter de suivre le sujet dans son [panneau d'informations à droite](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue). _Option de paramètre de notification : assigné à moi_ Un sujet vous est assigné
+Cela peut se produire si vous avez précédemment été [assigné](https://support.catenda.com/fr/articles/8400566-issue-header#h_0a91fa8dd9), [demandeur](https://support.catenda.com/fr/articles/8400566-issue-header#h_1aea0990a7), [mentionné](https://support.catenda.com/fr/articles/8430847-formatting-of-posts#h_2481ad1c8c) ou [suivi manuellement](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) le sujet. Si vous ne souhaitez pas recevoir de futures notifications sur ce sujet, vous pouvez arrêter de suivre le sujet dans son [panneau d'informations à droite](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue). _Option de paramètre de notification : assigné à moi_ Un sujet vous est assigné
 
 **Option de paramètre de notification : demandé par moi** Un sujet vous est demandé
 
@@ -122,9 +122,9 @@ Lorsqu'une équipe est assignée à un sujet
 
 ### 7.7 **Statut mis à jour** - `type=status-updated`
 
-Si vous n'êtes ni l'assigné ni le demandeur du sujet mais que vous [suivez](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) le sujet, vous recevrez cette notification.
+Si vous n'êtes ni l'assigné ni le demandeur du sujet mais que vous [suivez](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) le sujet, vous recevrez cette notification.
 
-Cela peut se produire si vous avez précédemment été [assigné](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9), [demandeur](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [mentionné](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) ou [suivi manuellement](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) le sujet. Si vous ne souhaitez pas recevoir de futures notifications sur ce sujet, vous pouvez arrêter de suivre le sujet dans son [panneau d'informations à droite](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue). _Option de paramètre de notification : assigné à moi_ Un statut est mis à jour dans un sujet qui vous est assigné
+Cela peut se produire si vous avez précédemment été [assigné](https://support.catenda.com/fr/articles/8400566-issue-header#h_0a91fa8dd9), [demandeur](https://support.catenda.com/fr/articles/8400566-issue-header#h_1aea0990a7), [mentionné](https://support.catenda.com/fr/articles/8430847-formatting-of-posts#h_2481ad1c8c) ou [suivi manuellement](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) le sujet. Si vous ne souhaitez pas recevoir de futures notifications sur ce sujet, vous pouvez arrêter de suivre le sujet dans son [panneau d'informations à droite](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue). _Option de paramètre de notification : assigné à moi_ Un statut est mis à jour dans un sujet qui vous est assigné
 
 **Option de paramètre de notification : demandé par moi** Un statut est mis à jour dans un sujet qui vous est demandé
 
@@ -132,9 +132,9 @@ Cela peut se produire si vous avez précédemment été [assigné](https://suppo
 
 ### 7.8 **Type mis à jour** - `type=type-updated`
 
-Si vous n'êtes ni l'assigné ni le demandeur du sujet mais que vous [suivez](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) le sujet, vous recevrez cette notification.
+Si vous n'êtes ni l'assigné ni le demandeur du sujet mais que vous [suivez](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) le sujet, vous recevrez cette notification.
 
-Cela peut se produire si vous avez précédemment été [assigné](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9), [demandeur](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [mentionné](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) ou [suivi manuellement](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) le sujet. Si vous ne souhaitez pas recevoir de futures notifications sur ce sujet, vous pouvez arrêter de suivre le sujet dans son [panneau d'informations à droite](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue). _Options de paramètre de notification :_
+Cela peut se produire si vous avez précédemment été [assigné](https://support.catenda.com/fr/articles/8400566-issue-header#h_0a91fa8dd9), [demandeur](https://support.catenda.com/fr/articles/8400566-issue-header#h_1aea0990a7), [mentionné](https://support.catenda.com/fr/articles/8430847-formatting-of-posts#h_2481ad1c8c) ou [suivi manuellement](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) le sujet. Si vous ne souhaitez pas recevoir de futures notifications sur ce sujet, vous pouvez arrêter de suivre le sujet dans son [panneau d'informations à droite](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue). _Options de paramètre de notification :_
 
 Assigné à moi - Un type est mis à jour dans un sujet qui vous est assigné
 
@@ -268,7 +268,7 @@ Le nom du zip téléchargé sera _\<Download GUID>.zip_ en contraste avec le nom
 
 ### 10.1 **Nouvelle invitation** - `type=invite`
 
-**Notification envoyée si :** Un autre utilisateur vous envoie une invitation à un projet. La notification décrit qui vous a invité et à quel projet vous avez été invité. Si vous avez reçu cette notification, vous devriez également avoir reçu un e-mail avec un lien d'invitation que vous pouvez cliquer pour accepter l'invitation. Veuillez vérifier [ici](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) pour le dépannage des e-mails.
+**Notification envoyée si :** Un autre utilisateur vous envoie une invitation à un projet. La notification décrit qui vous a invité et à quel projet vous avez été invité. Si vous avez reçu cette notification, vous devriez également avoir reçu un e-mail avec un lien d'invitation que vous pouvez cliquer pour accepter l'invitation. Veuillez vérifier [ici](https://support.catenda.com/fr/articles/8417802-why-am-i-not-receiving-emails) pour le dépannage des e-mails.
 
 > **Remarque :** La notification dans Catenda Hub inclut également le lien d'invitation afin que vous puissiez également cliquer sur la notification pour accepter l'invitation. Si vous n'avez pas encore de compte, vous devrez peut-être en créer un et être invité à nouveau pour pouvoir cliquer sur la notification.
 
@@ -312,4 +312,4 @@ Tout type d'importation ou d'exportation qui s'exécute en arrière-plan produir
 
 ### 14.2 **Envoyé même si toutes les notifications sont désactivées**
 
-Les notifications concernant les liens partagés avec les utilisateurs via la fonction [sharelink](https://support.catenda.com/en/articles/4728886-sharelink-notify-people-about-catenda-hub-content) créeront toujours une notification pour l'utilisateur même si un utilisateur a complètement désactivé les notifications avec le bouton marche/arrêt en haut à droite de la page des paramètres de notification.
+Les notifications concernant les liens partagés avec les utilisateurs via la fonction [sharelink](https://support.catenda.com/fr/articles/4728886-sharelink-notify-people-about-catenda-hub-content) créeront toujours une notification pour l'utilisateur même si un utilisateur a complètement désactivé les notifications avec le bouton marche/arrêt en haut à droite de la page des paramètres de notification.

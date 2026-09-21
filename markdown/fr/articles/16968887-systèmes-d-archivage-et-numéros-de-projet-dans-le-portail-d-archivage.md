@@ -22,4 +22,4 @@ Le **numéro de projet** dans **Paramètres** est un **numéro de projet Agresso
 
 Le portail est construit pour les données de projet openBIM dans Catenda Hub, donc les documents et sujets qu'il propose proviennent de Catenda Hub et nulle part ailleurs.
 
-Pour extraire les données du projet de Catenda Hub d'autres façons, y compris les exportations, les formats à long terme et l'option d'archive gelée, voir [Exportation de toutes les données du projet](https://support.catenda.com/en/articles/7946690-exporting-all-project-data).
+Pour extraire les données du projet de Catenda Hub d'autres façons, y compris les exportations, les formats à long terme et l'option d'archive gelée, voir [Exportation de toutes les données du projet](https://support.catenda.com/fr/articles/7946690-exporting-all-project-data).

@@ -1,8 +1,8 @@
 # Menu droit dans une liste de sujets
 
-Le menu droit sur la [page des sujets](https://support.catenda.com/en/articles/4670271-topics-page) se trouve en cliquant sur l'icône d'information vers la droite de la barre de recherche sous la [bannière de sujet](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics). Cliquez sur l'icône pour ouvrir un menu contenant des informations sur les sujets sélectionnés et les listes de sujets.
+Le menu droit sur la [page des sujets](https://support.catenda.com/fr/articles/4670271-topics-page) se trouve en cliquant sur l'icône d'information vers la droite de la barre de recherche sous la [bannière de sujet](https://support.catenda.com/fr/articles/7986346-topic-banner-navigating-topics). Cliquez sur l'icône pour ouvrir un menu contenant des informations sur les sujets sélectionnés et les listes de sujets.
 
-Voici à quoi peut ressembler la [bannière de sujet](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) :
+Voici à quoi peut ressembler la [bannière de sujet](https://support.catenda.com/fr/articles/7986346-topic-banner-navigating-topics) :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/01-intro.png)
 
@@ -42,7 +42,7 @@ Indique « Aucun sujet n'est sélectionné lorsqu'il est développé. » lorsqu'
 
 ### 2.2 **1.2 Contrôle d'accès pour la liste de sujets**
 
-Lorsqu'aucun sujet n'est sélectionné, le menu de contrôle d'accès pour la liste de sujets n'est affiché que lors de la navigation vers une seule liste de sujets. Dans la liste de tous les sujets, sélectionnez un sujet pour voir le contrôle d'accès de la liste dans laquelle se trouve ce sujet. Cliquez [ici](https://support.catenda.com/en/articles/4670296-topic-board-access-control) pour en savoir plus sur le contrôle d'accès de la liste de sujets.
+Lorsqu'aucun sujet n'est sélectionné, le menu de contrôle d'accès pour la liste de sujets n'est affiché que lors de la navigation vers une seule liste de sujets. Dans la liste de tous les sujets, sélectionnez un sujet pour voir le contrôle d'accès de la liste dans laquelle se trouve ce sujet. Cliquez [ici](https://support.catenda.com/fr/articles/4670296-topic-board-access-control) pour en savoir plus sur le contrôle d'accès de la liste de sujets.
 
 ## 3. **3. Sujet unique**
 
@@ -56,27 +56,27 @@ Voici à quoi peut ressembler le menu droit lorsqu'un seul sujet est sélectionn
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/07-3-1-update-selected-topic.png)
 
-**3.1.1 En-tête du sujet** Voici à quoi peut ressembler l'[en-tête du sujet](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) :
+**3.1.1 En-tête du sujet** Voici à quoi peut ressembler l'[en-tête du sujet](https://support.catenda.com/fr/articles/8400566-topic-header-the-subject-of-a-topic) :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/08-3-1-update-selected-topic.png)
 
-**3.1.2 Corps du sujet** Sous l'en-tête du sujet, le corps du sujet se trouve avec la description et les commentaires. À partir d'ici, des descriptions et des commentaires peuvent être ajoutés et de nouveaux commentaires peuvent être créés. Cliquez [ici](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic) pour en savoir plus sur le corps du sujet.
+**3.1.2 Corps du sujet** Sous l'en-tête du sujet, le corps du sujet se trouve avec la description et les commentaires. À partir d'ici, des descriptions et des commentaires peuvent être ajoutés et de nouveaux commentaires peuvent être créés. Cliquez [ici](https://support.catenda.com/fr/articles/8053352-topic-body-the-content-of-a-topic) pour en savoir plus sur le corps du sujet.
 
 ### 3.2 **3.2 Documents**
 
-Cliquez [ici](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_b00b9c5150) pour en savoir plus sur les documents associés.
+Cliquez [ici](https://support.catenda.com/fr/articles/8053299-right-menu-in-a-topic#h_b00b9c5150) pour en savoir plus sur les documents associés.
 
 ### 3.3 **3.3 Objets**
 
-Cliquez [ici](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_758f17abbc) pour en savoir plus sur les objets associés.
+Cliquez [ici](https://support.catenda.com/fr/articles/8053299-right-menu-in-a-topic#h_758f17abbc) pour en savoir plus sur les objets associés.
 
 ### 3.4 **3.4 Sujets**
 
-Cliquez [ici](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_edf2cb07a8) pour en savoir plus sur les sujets connexes.
+Cliquez [ici](https://support.catenda.com/fr/articles/8053299-right-menu-in-a-topic#h_edf2cb07a8) pour en savoir plus sur les sujets connexes.
 
 ### 3.5 **3.5 Contrôle d'accès pour la liste de sujets**
 
-Puisqu'un seul sujet se trouve toujours dans une liste de sujets, le menu de contrôle d'accès pour la liste de sujets affiche l'accès à la liste de sujets dans laquelle se trouve le sujet sélectionné. Cliquez [ici](https://support.catenda.com/en/articles/4670296-topic-board-access-control) pour en savoir plus sur le contrôle d'accès de la liste de sujets.
+Puisqu'un seul sujet se trouve toujours dans une liste de sujets, le menu de contrôle d'accès pour la liste de sujets affiche l'accès à la liste de sujets dans laquelle se trouve le sujet sélectionné. Cliquez [ici](https://support.catenda.com/fr/articles/4670296-topic-board-access-control) pour en savoir plus sur le contrôle d'accès de la liste de sujets.
 
 **Configurer l'accès** Cliquez sur Configurer l'accès pour modifier l'accès à la liste de sujets dans laquelle se trouve le sujet sélectionné. _Accès requis :_ Administrateur
 

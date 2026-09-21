@@ -1,6 +1,6 @@
 # Pagina Labels
 
-De labelpagina is te vinden als een subpagina van [projectinstellingen](https://support.catenda.com/en/articles/4670273-project-settings-page) in het linkermenu.
+De labelpagina is te vinden als een subpagina van [projectinstellingen](https://support.catenda.com/nl/articles/4670273-project-settings-page) in het linkermenu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/01-intro.png)
 

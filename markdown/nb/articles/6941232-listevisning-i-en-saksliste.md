@@ -1,6 +1,6 @@
 # Listevisning i en saksliste
 
-Listevisningen i sakslinjen på [sakssiden ](https://support.catenda.com/en/articles/4670271-topics-page)sakslisten er aktivert som standard. Hvis tabellvisning er aktivert, kan listevisningen aktiveres igjen [mot toppen](https://support.catenda.com/en/articles/4670271-topics-page#h_6a5895256b) av sakslisten. Listevisningen i sakslinjen på sakssiden kan ofte være god å bruke når mer enn en person følger med på hva som skjer på skjermen. Selv om færre saker enn i tabellvisningen vises samtidig, er informasjonen spredt ut mer, noe som gjør visningen lett å forstå med et blikk, selv for noen som aldri har sett en saksliste før. Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) for å lese generell informasjon om lister på Catenda.
+Listevisningen i sakslinjen på [sakssiden ](https://support.catenda.com/nb/articles/4670271-topics-page)sakslisten er aktivert som standard. Hvis tabellvisning er aktivert, kan listevisningen aktiveres igjen [mot toppen](https://support.catenda.com/nb/articles/4670271-topics-page#h_6a5895256b) av sakslisten. Listevisningen i sakslinjen på sakssiden kan ofte være god å bruke når mer enn en person følger med på hva som skjer på skjermen. Selv om færre saker enn i tabellvisningen vises samtidig, er informasjonen spredt ut mer, noe som gjør visningen lett å forstå med et blikk, selv for noen som aldri har sett en saksliste før. Klikk [her](https://support.catenda.com/nb/articles/11748020-tables-on-catenda) for å lese generell informasjon om lister på Catenda.
 
 ## 1. **Sorteringsrul-lista**
 
@@ -21,7 +21,7 @@ I listevisningen av en saksliste er det mulig å sortere saker etter:
 
 ### 2.1 **Radinnhold**
 
-_Saksrad_ Når du åpner innholdet i en saksrad, åpnes sakssiden for den saken. Klikk [her](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) for å lese mer om sakssiden.
+_Saksrad_ Når du åpner innholdet i en saksrad, åpnes sakssiden for den saken. Klikk [her](https://support.catenda.com/nb/articles/8400566-topic-header-the-subject-of-a-topic) for å lese mer om sakssiden.
 
 ### 2.2 **Kort**
 
@@ -35,7 +35,7 @@ _Saksliste_ Sakslisten som saken er i. Innenfor en saksliste er disse alle de sa
 
 _Statuser_ Saksstatus vises i en boks med en farget sirkel.
 
-_Merkelapper_ Sak [merkelapper](https://support.catenda.com/en/articles/4670265-creating-a-new-label) (tagger) vises i bokser med et merkelapp-ikon.
+_Merkelapper_ Sak [merkelapper](https://support.catenda.com/nb/articles/4670265-creating-a-new-label) (tagger) vises i bokser med et merkelapp-ikon.
 
 _Tildelt til_ Saksansvarlig.
 

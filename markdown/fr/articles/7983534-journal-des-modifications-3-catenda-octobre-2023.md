@@ -12,33 +12,33 @@ Au fur et à mesure que de nouvelles fonctionnalités sont déployées et que le
 
 ### 1.1 **Nouveaux articles :**
 
-**Démarrage et FAQ** [Sécurité des projets](https://support.catenda.com/en/articles/8263256-project-security') [Suivi des informations par liaison](https://support.catenda.com/en/articles/8294909-tracking-information-by-linking) [Pourquoi ne reçois-je pas d'e-mails ?](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) [Formatage des messages](https://support.catenda.com/en/articles/8430847-formatting-of-posts)
+**Démarrage et FAQ** [Sécurité des projets](https://support.catenda.com/fr/articles/8263256-project-security') [Suivi des informations par liaison](https://support.catenda.com/fr/articles/8294909-tracking-information-by-linking) [Pourquoi ne reçois-je pas d'e-mails ?](https://support.catenda.com/fr/articles/8417802-why-am-i-not-receiving-emails) [Formatage des messages](https://support.catenda.com/fr/articles/8430847-formatting-of-posts)
 
-**Page principale** [Options d'organisation](https://support.catenda.com/en/articles/8224886-organization-options) [Page du tableau de bord](https://support.catenda.com/en/articles/8212646-dashboard-page) [Paramètres de notification](https://support.catenda.com/en/articles/8272435-notification-settings) [Fonctionnalité de notification](https://support.catenda.com/en/articles/8304417-notification-functionality) [Créer un compte](https://support.catenda.com/en/articles/8412895-creating-an-account)
+**Page principale** [Options d'organisation](https://support.catenda.com/fr/articles/8224886-organization-options) [Page du tableau de bord](https://support.catenda.com/fr/articles/8212646-dashboard-page) [Paramètres de notification](https://support.catenda.com/fr/articles/8272435-notification-settings) [Fonctionnalité de notification](https://support.catenda.com/fr/articles/8304417-notification-functionality) [Créer un compte](https://support.catenda.com/fr/articles/8412895-creating-an-account)
 
-**Problèmes** [Contenu du problème](https://support.catenda.com/en/articles/7986346-issue-content) [Panneau droit du problème](https://support.catenda.com/en/articles/8053299-issue-right-panel) [Corps du problème](https://support.catenda.com/en/articles/8053352-issue-body) [Filtrage dans un tableau de problèmes](https://support.catenda.com/en/articles/8370693-filtering-in-an-issue-board)
+**Problèmes** [Contenu du problème](https://support.catenda.com/fr/articles/7986346-issue-content) [Panneau droit du problème](https://support.catenda.com/fr/articles/8053299-issue-right-panel) [Corps du problème](https://support.catenda.com/fr/articles/8053352-issue-body) [Filtrage dans un tableau de problèmes](https://support.catenda.com/fr/articles/8370693-filtering-in-an-issue-board)
 
-**Documents** [Donner l'accès à un utilisateur à un seul dossier](https://support.catenda.com/en/articles/8009637-giving-a-user-access-to-a-single-folder) [Page des bibliothèques](https://support.catenda.com/en/articles/8065645-libraries-page) [Télécharger une structure de fichier zip](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) [Panneau droit dans un document](https://support.catenda.com/en/articles/8302244-documents-right-panel) [Panneau droit dans la liste des documents](https://support.catenda.com/en/articles/8345396-right-panel-in-documents-list) [Page des approbations](https://support.catenda.com/en/articles/8349340-approvals-page) [Contenu de l'approbation](https://support.catenda.com/en/articles/8349418-approval-content) [Affichage tableau dans la section des documents](https://support.catenda.com/en/articles/8398771-table-view-in-the-documents-section)
+**Documents** [Donner l'accès à un utilisateur à un seul dossier](https://support.catenda.com/fr/articles/8009637-giving-a-user-access-to-a-single-folder) [Page des bibliothèques](https://support.catenda.com/fr/articles/8065645-libraries-page) [Télécharger une structure de fichier zip](https://support.catenda.com/fr/articles/7945410-upload-a-zip-file-structure) [Panneau droit dans un document](https://support.catenda.com/fr/articles/8302244-documents-right-panel) [Panneau droit dans la liste des documents](https://support.catenda.com/fr/articles/8345396-right-panel-in-documents-list) [Page des approbations](https://support.catenda.com/fr/articles/8349340-approvals-page) [Contenu de l'approbation](https://support.catenda.com/fr/articles/8349418-approval-content) [Affichage tableau dans la section des documents](https://support.catenda.com/fr/articles/8398771-table-view-in-the-documents-section)
 
-**Modèles et 3D** [Sélectionner et découper à partir du 2D](https://support.catenda.com/en/articles/8035360-selecting-and-clipping-from-2d) [Visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer) [Modèles comme documents](https://support.catenda.com/en/articles/8064548-models-as-documents) [Panneau d'informations](https://support.catenda.com/en/articles/8238584-information-panel) [Localisation 3D des modèles](https://support.catenda.com/en/articles/8294750-3d-location-of-models) [Configuration du modèle](https://support.catenda.com/en/articles/8300623-model-configuration) [Plan de mesure](https://support.catenda.com/en/articles/8360838-measure-plane)
+**Modèles et 3D** [Sélectionner et découper à partir du 2D](https://support.catenda.com/fr/articles/8035360-selecting-and-clipping-from-2d) [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer) [Modèles comme documents](https://support.catenda.com/fr/articles/8064548-models-as-documents) [Panneau d'informations](https://support.catenda.com/fr/articles/8238584-information-panel) [Localisation 3D des modèles](https://support.catenda.com/fr/articles/8294750-3d-location-of-models) [Configuration du modèle](https://support.catenda.com/fr/articles/8300623-model-configuration) [Plan de mesure](https://support.catenda.com/fr/articles/8360838-measure-plane)
 
-**Paramètres du projet** [Page des membres](https://support.catenda.com/en/articles/8228836-member-page)
+**Paramètres du projet** [Page des membres](https://support.catenda.com/fr/articles/8228836-member-page)
 
-**Plugins et intégrations** [Intégration Power BI](https://support.catenda.com/en/articles/5784721-integration-power-bi) [Plugin Catenda SharePoint](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-plugin) [Accès Catenda depuis votre environnement](https://support.catenda.com/en/articles/8396532-catenda-access-from-your-environment)
+**Plugins et intégrations** [Intégration Power BI](https://support.catenda.com/fr/articles/5784721-integration-power-bi) [Plugin Catenda SharePoint](https://support.catenda.com/fr/articles/8396496-catenda-sharepoint-plugin) [Accès Catenda depuis votre environnement](https://support.catenda.com/fr/articles/8396532-catenda-access-from-your-environment)
 
 ### 1.2 **Articles qui ont changé :**
 
-Démarrage et FAQ [User Voice @ Catenda](https://support.catenda.com/en/articles/5925449-user-voice-catenda) [Résumé des raccourcis les plus importants et des contrôles de base](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
+Démarrage et FAQ [User Voice @ Catenda](https://support.catenda.com/fr/articles/5925449-user-voice-catenda) [Résumé des raccourcis les plus importants et des contrôles de base](https://support.catenda.com/fr/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
 
-Page principale [Page des notifications](https://support.catenda.com/en/articles/7439223-notifications-page)
+Page principale [Page des notifications](https://support.catenda.com/fr/articles/7439223-notifications-page)
 
-Problèmes [Panneau droit dans un tableau de problèmes](https://support.catenda.com/en/articles/6941224-right-panel-in-an-issue-board) [Paramètres du tableau de problèmes](https://support.catenda.com/en/articles/4670277-issue-board-settings) [Paramètres du tableau de problèmes](https://support.catenda.com/en/articles/4670277-issue-board-settings)
+Problèmes [Panneau droit dans un tableau de problèmes](https://support.catenda.com/fr/articles/6941224-right-panel-in-an-issue-board) [Paramètres du tableau de problèmes](https://support.catenda.com/fr/articles/4670277-issue-board-settings) [Paramètres du tableau de problèmes](https://support.catenda.com/fr/articles/4670277-issue-board-settings)
 
-Documents [Page des documents](https://support.catenda.com/en/articles/8204673-documents-page) [Filtrage sur la page des documents](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+Documents [Page des documents](https://support.catenda.com/fr/articles/8204673-documents-page) [Filtrage sur la page des documents](https://support.catenda.com/fr/articles/4670283-filtering-on-the-documents-page)
 
-Modèles [Visionneuse 2D](https://support.catenda.com/en/articles/4854537-2d-viewer)
+Modèles [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-2d-viewer)
 
-Notifications [Dernières notifications de projet](https://support.catenda.com/en/articles/4670262-project-notification-settings)
+Notifications [Dernières notifications de projet](https://support.catenda.com/fr/articles/4670262-project-notification-settings)
 
 ## 2. **Problèmes Résolus**
 

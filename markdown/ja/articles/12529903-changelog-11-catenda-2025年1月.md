@@ -6,7 +6,7 @@
 
 この記事では、以下の更新を紹介しています：
 
-_[記事](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_a1a4085421) - [バグ](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_43a9641d96) - [ビデオ](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_1ec3df5bf7) - [ユーザーの声](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_4c273d2715) - [新しいリリース](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_fea31925e9) - [機能のステータス](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_76a41f54f2)_
+_[記事](https://support.catenda.com/ja/articles/11582902-changelog-10-catenda-october-2025#h_a1a4085421) - [バグ](https://support.catenda.com/ja/articles/11582902-changelog-10-catenda-october-2025#h_43a9641d96) - [ビデオ](https://support.catenda.com/ja/articles/11582902-changelog-10-catenda-october-2025#h_1ec3df5bf7) - [ユーザーの声](https://support.catenda.com/ja/articles/11582902-changelog-10-catenda-october-2025#h_4c273d2715) - [新しいリリース](https://support.catenda.com/ja/articles/11582902-changelog-10-catenda-october-2025#h_fea31925e9) - [機能のステータス](https://support.catenda.com/ja/articles/11582902-changelog-10-catenda-october-2025#h_76a41f54f2)_
 
 ## 1. **記事**
 
@@ -16,83 +16,83 @@ _[記事](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-
 
 **アカウント管理**
 
-- [アカウントボタン](https://support.catenda.com/en/articles/4670260-account-buttons)
+- [アカウントボタン](https://support.catenda.com/ja/articles/4670260-account-buttons)
 
 **トラブルシューティング**
 
-- [3Dスナップショットのトラブルシューティング](https://support.catenda.com/en/articles/12831346-3d-snapshots-troubleshooting)
-- [ドキュメント設定のトラブルシューティング](https://support.catenda.com/en/articles/12521958-document-settings-troubleshooting)
-- [Navisworksプラグインのトラブルシューティング](https://support.catenda.com/en/articles/12597294-navisworks-plugin-troubleshooting)
+- [3Dスナップショットのトラブルシューティング](https://support.catenda.com/ja/articles/12831346-3d-snapshots-troubleshooting)
+- [ドキュメント設定のトラブルシューティング](https://support.catenda.com/ja/articles/12521958-document-settings-troubleshooting)
+- [Navisworksプラグインのトラブルシューティング](https://support.catenda.com/ja/articles/12597294-navisworks-plugin-troubleshooting)
 
 ### 1.2 **変更された記事:**
 
 **アカウント管理**
 
 - アカウント設定
-  - [通知のフィルタリングと機能](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
-  - [アカウントページ](https://support.catenda.com/en/articles/6880968-account-page)
+  - [通知のフィルタリングと機能](https://support.catenda.com/ja/articles/8304417-notification-filtering-and-functionality)
+  - [アカウントページ](https://support.catenda.com/ja/articles/6880968-account-page)
 
 **製品機能**
 
 - ダッシュボード
-  - [ダッシュボードページ](https://support.catenda.com/en/articles/8212646-dashboard-page)
+  - [ダッシュボードページ](https://support.catenda.com/ja/articles/8212646-dashboard-page)
 - トピック
-  - [トピックページでのフィルタリング](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
-  - [トピックテーブルのアクション](https://support.catenda.com/en/articles/4670284-topics-table-actions)
-  - [トピックをPDFにエクスポート](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
-  - [トピックヘッダー - トピックの件名](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
-  - [トピックを交換](https://support.catenda.com/en/articles/4670289-exchange-topics)
+  - [トピックページでのフィルタリング](https://support.catenda.com/ja/articles/8370693-filtering-on-the-topics-page)
+  - [トピックテーブルのアクション](https://support.catenda.com/ja/articles/4670284-topics-table-actions)
+  - [トピックをPDFにエクスポート](https://support.catenda.com/ja/articles/9784934-exporting-topics-to-pdf)
+  - [トピックヘッダー - トピックの件名](https://support.catenda.com/ja/articles/8400566-topic-header-the-subject-of-a-topic)
+  - [トピックを交換](https://support.catenda.com/ja/articles/4670289-exchange-topics)
 - モデル
-  - [リビジョンセレクター](https://support.catenda.com/en/articles/4670279-revision-selector)
-  - [オブジェクトページでのフィルタリング](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-  - [モデルページでのフィルタリング](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-  - [モデルページの右側メニュー](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
-  - [スライディングプレーンドロップダウン](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
-  - [ブックマーク内容ページ](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
+  - [リビジョンセレクター](https://support.catenda.com/ja/articles/4670279-revision-selector)
+  - [オブジェクトページでのフィルタリング](https://support.catenda.com/ja/articles/12353642-filtering-on-the-objects-page)
+  - [モデルページでのフィルタリング](https://support.catenda.com/ja/articles/12129622-filtering-on-the-models-page)
+  - [モデルページの右側メニュー](https://support.catenda.com/ja/articles/9673735-right-menu-on-the-models-page)
+  - [スライディングプレーンドロップダウン](https://support.catenda.com/ja/articles/4670327-sliding-plane-dropdown)
+  - [ブックマーク内容ページ](https://support.catenda.com/ja/articles/8471481-bookmark-contents-page)
 - ドキュメント
-  - [ドキュメントアクセス概要ページ](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
-  - [ドキュメントページでのフィルタリング](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-  - [フォルダとドキュメントのアクセス制御](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
-  - [新しいワークフローの作成](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
-  - [ワークフローページ - ドキュメント設定](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
-  - [ドキュメントプレビューツール](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-  - [zipファイル/ファイル構造のアップロード](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
-  - [コレクションページでのフィルタリング](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
-  - [承認ページでのフィルタリング](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-  - [承認ページでのフィルタリング - レガシー](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+  - [ドキュメントアクセス概要ページ](https://support.catenda.com/ja/articles/6660820-document-access-overview-page)
+  - [ドキュメントページでのフィルタリング](https://support.catenda.com/ja/articles/4670283-filtering-on-the-documents-page)
+  - [フォルダとドキュメントのアクセス制御](https://support.catenda.com/ja/articles/4670287-folders-and-documents-access-control)
+  - [新しいワークフローの作成](https://support.catenda.com/ja/articles/12313251-creating-a-new-workflow)
+  - [ワークフローページ - ドキュメント設定](https://support.catenda.com/ja/articles/12309903-workflows-page-document-settings)
+  - [ドキュメントプレビューツール](https://support.catenda.com/ja/articles/11384618-document-preview-tools)
+  - [zipファイル/ファイル構造のアップロード](https://support.catenda.com/ja/articles/7945410-upload-a-zip-file-structure)
+  - [コレクションページでのフィルタリング](https://support.catenda.com/ja/articles/8999945-filtering-on-the-collections-page)
+  - [承認ページでのフィルタリング](https://support.catenda.com/ja/articles/12495060-filtering-on-the-approvals-page)
+  - [承認ページでのフィルタリング - レガシー](https://support.catenda.com/ja/articles/8551740-filtering-on-the-approvals-page-legacy)
 - 設定
-  - [メンバーおよびチームページでのフィルタリング](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
+  - [メンバーおよびチームページでのフィルタリング](https://support.catenda.com/ja/articles/11744242-filtering-on-the-members-and-teams-page)
 - 2D & 3Dビューアー
-  - [3Dビューアー](https://support.catenda.com/en/articles/8227211-3d-viewer)
-  - [2Dビューアー](https://support.catenda.com/en/articles/4854537-2d-viewer)
+  - [3Dビューアー](https://support.catenda.com/ja/articles/8227211-3d-viewer)
+  - [2Dビューアー](https://support.catenda.com/ja/articles/4854537-2d-viewer)
 - Catendaプラグイン&統合
-  - [Revit IFCエクスポートマニュアル](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual)
-  - [IFCエクスポート Archicadマニュアル](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
-  - [Catenda Navisworksプラグイン](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
-  - [Catenda Archicadプラグイン](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
-  - [Catenda Revitプラグイン](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
-  - [Catenda Power BIコネクタ](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector)
-  - [Catendaデスクトップコネクタ](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
-  - [Catenda Teklaプラグイン](https://support.catenda.com/en/articles/6549656-catenda-tekla-plugin)
-  - [デスクトップコネクタのトラブルシューティング](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting)
+  - [Revit IFCエクスポートマニュアル](https://support.catenda.com/ja/articles/4670341-revit-ifc-export-manual)
+  - [IFCエクスポート Archicadマニュアル](https://support.catenda.com/ja/articles/4670338-ifc-export-archicad-manual)
+  - [Catenda Navisworksプラグイン](https://support.catenda.com/ja/articles/5085987-catenda-navisworks-plugin)
+  - [Catenda Archicadプラグイン](https://support.catenda.com/ja/articles/5519276-catenda-archicad-plugin)
+  - [Catenda Revitプラグイン](https://support.catenda.com/ja/articles/4670334-catenda-revit-plugin)
+  - [Catenda Power BIコネクタ](https://support.catenda.com/ja/articles/5784721-catenda-power-bi-connector)
+  - [Catendaデスクトップコネクタ](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)
+  - [Catenda Teklaプラグイン](https://support.catenda.com/ja/articles/6549656-catenda-tekla-plugin)
+  - [デスクトップコネクタのトラブルシューティング](https://support.catenda.com/ja/articles/11019637-desktop-connector-troubleshooting)
 
 **トラブルシューティング**
 
-- [Zipアップロードのトラブルシューティング](https://support.catenda.com/en/articles/11017391-zip-upload-troubleshooting)
+- [Zipアップロードのトラブルシューティング](https://support.catenda.com/ja/articles/11017391-zip-upload-troubleshooting)
 
 **ユースケース**
 
 - 承認
-  - [承認ワークフローにおけるドキュメントレビュー](https://support.catenda.com/en/articles/12628468-document-review-in-approval-workflow)
-  - [提出と承認の管理:ドラフター向けガイド](https://support.catenda.com/en/articles/12627979-submit-manage-approvals-guide-for-drafters)
-  - [最終承認の決定を簡単に](https://support.catenda.com/en/articles/12629484-final-approval-decisions-made-easy)
-  - [管理者として承認を管理](https://support.catenda.com/en/articles/12620829-managing-approvals-as-administrator)
+  - [承認ワークフローにおけるドキュメントレビュー](https://support.catenda.com/ja/articles/12628468-document-review-in-approval-workflow)
+  - [提出と承認の管理:ドラフター向けガイド](https://support.catenda.com/ja/articles/12627979-submit-manage-approvals-guide-for-drafters)
+  - [最終承認の決定を簡単に](https://support.catenda.com/ja/articles/12629484-final-approval-decisions-made-easy)
+  - [管理者として承認を管理](https://support.catenda.com/ja/articles/12620829-managing-approvals-as-administrator)
 
 **よくある質問**
 
-- [ドキュメントの構造化](https://support.catenda.com/en/articles/8542598-structuring-documents)
-- [すべてのプロジェクトデータをエクスポート](https://support.catenda.com/en/articles/7946690-exporting-all-project-data)
-- [アップロードできるファイルサイズは?](https://support.catenda.com/en/articles/4670324-what-file-size-can-i-upload)
+- [ドキュメントの構造化](https://support.catenda.com/ja/articles/8542598-structuring-documents)
+- [すべてのプロジェクトデータをエクスポート](https://support.catenda.com/ja/articles/7946690-exporting-all-project-data)
+- [アップロードできるファイルサイズは?](https://support.catenda.com/ja/articles/4670324-what-file-size-can-i-upload)
 
 ## 2. **解決されたバグ**
 

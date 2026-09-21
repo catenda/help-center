@@ -1,6 +1,6 @@
 # 3D-viser - Catenda Site
 
-Åpne [2D/3D-siden](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site) for å se 3D-viseren øverst på skjermen på Catenda Site. Dette er hvordan 3D-viseren på Catenda Site kan se ut:
+Åpne [2D/3D-siden](https://support.catenda.com/nb/articles/7734138-2d-3d-catenda-site) for å se 3D-viseren øverst på skjermen på Catenda Site. Dette er hvordan 3D-viseren på Catenda Site kan se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/01-intro.png)
 

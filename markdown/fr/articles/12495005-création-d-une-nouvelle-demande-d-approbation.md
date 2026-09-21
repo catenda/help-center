@@ -1,6 +1,6 @@
 # Création d'une nouvelle demande d'approbation
 
-La nouvelle action de demande d'approbation se trouve pour les projets qui ont activé les révisions partagées après le 2 octobre 2025. Cliquez sur le menu d'action à droite du bouton plus vert sur la [page des approbations](https://support.catenda.com/en/articles/8349340-approvals-page) pour créer une nouvelle demande d'approbation. Cliquez sur le bouton de nouvelle demande d'approbation dans le menu des approbations du menu de droite d'une révision sur la page des documents où la dernière révision est une révision partagée pour créer une nouvelle demande d'approbation. Voici à quoi peut ressembler le dialogue de création d'une nouvelle demande d'approbation :
+La nouvelle action de demande d'approbation se trouve pour les projets qui ont activé les révisions partagées après le 2 octobre 2025. Cliquez sur le menu d'action à droite du bouton plus vert sur la [page des approbations](https://support.catenda.com/fr/articles/8349340-approvals-page) pour créer une nouvelle demande d'approbation. Cliquez sur le bouton de nouvelle demande d'approbation dans le menu des approbations du menu de droite d'une révision sur la page des documents où la dernière révision est une révision partagée pour créer une nouvelle demande d'approbation. Voici à quoi peut ressembler le dialogue de création d'une nouvelle demande d'approbation :
 
 ![Nouvelle demande d'approbation Workflow Submitter Title Description (optionnel) Documents for review add documents name revision # Revision number Statut Remove Cancel Save as draft Submit for review](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
@@ -46,13 +46,13 @@ Le nouveau flux de travail de validation est une fonctionnalité à la demande q
 
 ### 2.1 **Description**
 
-La description de l'approbation suit les [règles générales de formatage des publications](https://support.catenda.com/en/articles/8430847-formatting-of-posts). La description peut être corrigée ultérieurement, à la fois pendant que la demande est toujours un brouillon et après qu'elle a été soumise.
+La description de l'approbation suit les [règles générales de formatage des publications](https://support.catenda.com/fr/articles/8430847-formatting-of-posts). La description peut être corrigée ultérieurement, à la fois pendant que la demande est toujours un brouillon et après qu'elle a été soumise.
 
 ### 2.2 **Ajouter des documents**
 
 ![Description (optionnel) documents for review add documents](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/06-add-documents.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/12382093-add-revision-to-approval) pour en savoir plus sur l'ajout de révisions partagées de documents à une demande d'approbation. Bien qu'il soit possible d'ajouter un nombre infini de documents ici, la limite pour soumettre la demande d'approbation pour examen est de 1 000 documents.
+Cliquez [ici](https://support.catenda.com/fr/articles/12382093-add-revision-to-approval) pour en savoir plus sur l'ajout de révisions partagées de documents à une demande d'approbation. Bien qu'il soit possible d'ajouter un nombre infini de documents ici, la limite pour soumettre la demande d'approbation pour examen est de 1 000 documents.
 
 ### 2.3 **Tableau des documents à examiner**
 

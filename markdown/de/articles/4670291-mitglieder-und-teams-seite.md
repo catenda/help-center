@@ -1,6 +1,6 @@
 # Mitglieder und Teams-Seite
 
-Die Seite "Mitglieder" finden Sie als Unterseite der [Projekteinstellungsseite](https://support.catenda.com/en/articles/4670273-settings-page).
+Die Seite "Mitglieder" finden Sie als Unterseite der [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-settings-page).
 
 ![Mitglieder](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/01-intro.png)
 
@@ -12,15 +12,15 @@ Das Aktionsmenü befindet sich oben rechts auf der Seite.
 
 ### 1.1 Mitglied einladen
 
-Klicken Sie auf die grüne Schaltfläche mit dem Pluszeichen oder auf die Aktion "Mitglied einladen" im Aktionsmenü, um zur Seite [Mitglieder einladen](https://support.catenda.com/en/articles/4670263-invite-members-page) zu gelangen. _Erforderlicher Zugriff:_ Administrator oder [Zugriff zum Einladen von Mitgliedern](https://support.catenda.com/en/articles/4670273-project-settings-page#h_3b98ced32a) in den Projekteinstellungen.
+Klicken Sie auf die grüne Schaltfläche mit dem Pluszeichen oder auf die Aktion "Mitglied einladen" im Aktionsmenü, um zur Seite [Mitglieder einladen](https://support.catenda.com/de/articles/4670263-invite-members-page) zu gelangen. _Erforderlicher Zugriff:_ Administrator oder [Zugriff zum Einladen von Mitgliedern](https://support.catenda.com/de/articles/4670273-project-settings-page#h_3b98ced32a) in den Projekteinstellungen.
 
 ### 1.2 Neues Team
 
-Mit dieser Aktion können Sie ein [neues Team](https://support.catenda.com/en/articles/4670264-creating-a-team) erstellen. _Erforderlicher Zugriff:_ Administrator
+Mit dieser Aktion können Sie ein [neues Team](https://support.catenda.com/de/articles/4670264-creating-a-team) erstellen. _Erforderlicher Zugriff:_ Administrator
 
 ## 2. **Suchen oder filtern**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page), um zu erfahren, wie Sie auf der Seite "Mitglieder" am besten suchen oder filtern können. So kann die Such- oder Filterleiste aussehen:
+Klicken Sie [hier](https://support.catenda.com/de/articles/11744242-filtering-on-the-members-and-teams-page), um zu erfahren, wie Sie auf der Seite "Mitglieder" am besten suchen oder filtern können. So kann die Such- oder Filterleiste aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/03-search-or-filter.png)
 
@@ -30,7 +30,7 @@ Bei einem ausgewählten Element wird die Infotaste für das rechte Menü rechts 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/04-right-menu.png)
 
-Klicken Sie auf dieses Symbol, um ein Menü zu öffnen, in dem Sie Felder für die ausgewählten Elemente ändern können. Klicken Sie [hier](https://support.catenda.com/en/articles/11768610-right-menu-on-the-members-page), um mehr über das rechte Menü auf der Seite "Mitglieder" zu erfahren.
+Klicken Sie auf dieses Symbol, um ein Menü zu öffnen, in dem Sie Felder für die ausgewählten Elemente ändern können. Klicken Sie [hier](https://support.catenda.com/de/articles/11768610-right-menu-on-the-members-page), um mehr über das rechte Menü auf der Seite "Mitglieder" zu erfahren.
 
 ## 4. **Registerkarte "Mitglieder"**
 
@@ -42,11 +42,11 @@ In der Registerkarte "Mitglieder" wird eine Tabelle mit allen Mitgliedern des Pr
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/06-members-tab.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda), um mehr über die Arbeit mit Tabellen in Catenda zu erfahren. Sobald eine Einladung zum Projekt akzeptiert wird, erscheint das Mitglied, das die Einladung akzeptiert hat, in der Tabelle "Mitglieder".
+Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um mehr über die Arbeit mit Tabellen in Catenda zu erfahren. Sobald eine Einladung zum Projekt akzeptiert wird, erscheint das Mitglied, das die Einladung akzeptiert hat, in der Tabelle "Mitglieder".
 
 ### 4.1 **Zeileninhalt**
 
-Wenn Sie den Inhalt einer Mitglied-Zeile öffnen, wird die [Mitgliedseite](https://support.catenda.com/en/articles/8228836-member-page) des betreffenden Mitglieds geöffnet.
+Wenn Sie den Inhalt einer Mitglied-Zeile öffnen, wird die [Mitgliedseite](https://support.catenda.com/de/articles/8228836-member-page) des betreffenden Mitglieds geöffnet.
 
 ### 4.2 **Spalten**
 
@@ -76,7 +76,7 @@ Klicken Sie hier, um mehr über die Arbeit mit Tabellen in Catenda zu erfahren.
 
 ### 5.1 **Zeileninhalt**
 
-Wenn Sie den Inhalt einer Team-Zeile öffnen, wird die [Team-Seite](https://support.catenda.com/en/articles/7891755-team-page) des betreffenden Teams geöffnet.
+Wenn Sie den Inhalt einer Team-Zeile öffnen, wird die [Team-Seite](https://support.catenda.com/de/articles/7891755-team-page) des betreffenden Teams geöffnet.
 
 ### 5.2 **Spalten**
 

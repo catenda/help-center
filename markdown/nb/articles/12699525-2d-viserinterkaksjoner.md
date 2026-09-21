@@ -2,7 +2,7 @@
 
 > Interaksjon med 2D-viseren
 
-Ulike komponenter i [2D-viseren](https://support.catenda.com/en/articles/4854537-2d-viewer) kan brukes på ulike måter. Hver del av 2D-viseren som kan klikkes på er beskrevet i denne artikkelen. Slik kan 2D-viseren se ut:
+Ulike komponenter i [2D-viseren](https://support.catenda.com/nb/articles/4854537-2d-viewer) kan brukes på ulike måter. Hver del av 2D-viseren som kan klikkes på er beskrevet i denne artikkelen. Slik kan 2D-viseren se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/01-intro.png)
 
@@ -24,7 +24,7 @@ Dra disse to diagonale linjene for å endre størrelse på 2D-viseren på tvers 
 
 ### 2.2 **Tittel**
 
-Tittelen på topplinja vil være navnet på etasjen. Hvis en etasje i en [storey configurator](https://support.catenda.com/en/articles/6921756-storey-configurator-page) bygning er valgt, vil tittelen inneholde navnet på bygningen og navnet på gjeldende etasje. Hvis etasjen i en ikke-konfigurert modell er valgt, vil tittelen inneholde modellens navn.
+Tittelen på topplinja vil være navnet på etasjen. Hvis en etasje i en [storey configurator](https://support.catenda.com/nb/articles/6921756-storey-configurator-page) bygning er valgt, vil tittelen inneholde navnet på bygningen og navnet på gjeldende etasje. Hvis etasjen i en ikke-konfigurert modell er valgt, vil tittelen inneholde modellens navn.
 
 ### 2.3 **Åpning og lukking av 2D-viseren**
 
@@ -49,8 +49,8 @@ _Venstre klikk_ Hvis det er rom på etasjen av 2D-visningen som er aktivert for 
 - _Legg til markør_<br>Legg til en ny markør. Når du har en sak åpen i innholdspanelet, kan du tilordne den valgte markøren. Denne markøren blir ikke lagret og synlig for andre før den legges til en oppgave.
 - _Opprett en ny sak med markør_<br>Opprett en ny sak med markør. Denne markøren blir ikke lagret og synlig for andre før saken sendes inn.
 - _Opprett spørring_
-  - Kryss rom - Opprett en [spørring](https://support.catenda.com/en/articles/4854514-queries) av alle objekter som krysser det valgte rommet
-  - Kryss etasje - Opprett en [spørring](https://support.catenda.com/en/articles/4854514-queries) av alle objekter som krysser denne etasjen
+  - Kryss rom - Opprett en [spørring](https://support.catenda.com/nb/articles/4854514-queries) av alle objekter som krysser det valgte rommet
+  - Kryss etasje - Opprett en [spørring](https://support.catenda.com/nb/articles/4854514-queries) av alle objekter som krysser denne etasjen
 
 ### 3.2 **Hold musknapp**
 
@@ -76,7 +76,7 @@ Zoom ut for å vise alle synlige objekter på en gang
 
 Med rotasjonsknappen kan du rotere 2D-viseren.
 
-**Rotasjonsglider** Den innledende rotasjonen kan konfigureres ved å angi en plassering med rotasjon i [prosjektinnstillinger](https://support.catenda.com/en/articles/4670273-project-settings-page).
+**Rotasjonsglider** Den innledende rotasjonen kan konfigureres ved å angi en plassering med rotasjon i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-project-settings-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/08-rotation.png)
 
@@ -86,7 +86,7 @@ Med rotasjonsknappen kan du rotere 2D-viseren.
 
 **Tilbakestill** Klikk Tilbakestill i øvre høyre hjørne for å tilbakestille glideren til den innledende rotasjonen.
 
-**Underliggende tegningsrotasjon** Bygninger kan konfigureres i [storey configurator](https://support.catenda.com/en/articles/6921756-storey-configurator-page). Hver etasje i en bygning kan ha en tegning som underlag som roteres i forhold til modellene i prosjektet.
+**Underliggende tegningsrotasjon** Bygninger kan konfigureres i [storey configurator](https://support.catenda.com/nb/articles/6921756-storey-configurator-page). Hver etasje i en bygning kan ha en tegning som underlag som roteres i forhold til modellene i prosjektet.
 
 ### 4.3 **Lås kamera**
 
@@ -94,7 +94,7 @@ Hvis en modell er lastet inn i 3D-viseren, kan du låse kameraet til 3D-viserkam
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/09-lock-camera.png)
 
-Med denne funksjonen aktivert, vil visningspunktindikatoren forbli sentrert på lerretet selv om kameraet flyttes i 3D-viseren. Dette er nyttig i kombinasjon med [walk-modus](https://support.catenda.com/en/articles/5784718-3d-viewer-settings#h_1c05dca226).
+Med denne funksjonen aktivert, vil visningspunktindikatoren forbli sentrert på lerretet selv om kameraet flyttes i 3D-viseren. Dette er nyttig i kombinasjon med [walk-modus](https://support.catenda.com/nb/articles/5784718-3d-viewer-settings#h_1c05dca226).
 
 ## 5. **Valg- og innstillingsverktøy**
 
@@ -102,7 +102,7 @@ Valg- og innstillingsverktøyene finnes mot øvre høyre del av 2D-viserlerretet
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/10-selection-tools-and-settings.png)
 
-Klikk [her](https://support.catenda.com/en/articles/8035360-selecting-and-clipping-from-2d) for en detaljert forklaring på hvordan du bruker utsnittverktøy i 2D-viseren.
+Klikk [her](https://support.catenda.com/nb/articles/8035360-selecting-and-clipping-from-2d) for en detaljert forklaring på hvordan du bruker utsnittverktøy i 2D-viseren.
 
 ### 5.1 **Velg**
 
@@ -120,7 +120,7 @@ Opprett 4 til 6 klippeplan ved å dra et rektangel over 2D-lerretet og velge hø
 
 ### 5.4 **Utsnitt: Opprett spørring**
 
-Opprett en [spørring](https://support.catenda.com/en/articles/4854514-queries) ved å dra et rektangel over 2D-lerretet og velge høyden.
+Opprett en [spørring](https://support.catenda.com/nb/articles/4854514-queries) ved å dra et rektangel over 2D-lerretet og velge høyden.
 
 ### 5.5 **Flytt-knapp**
 
@@ -162,6 +162,6 @@ Med lagknappen kan du veksle mellom ulike lag i 2D-viseren.
 
 **Modeller** Med denne knappen kan modeller slås av eller på.
 
-**Tegninger** Du vil se denne knappen hvis en tegning har blitt justert som et underlag for en bygningsetasje i [storey configurator](https://support.catenda.com/en/articles/6921756-storey-configurator-page). Med denne knappen kan de justerte tegningene slås av eller på.
+**Tegninger** Du vil se denne knappen hvis en tegning har blitt justert som et underlag for en bygningsetasje i [storey configurator](https://support.catenda.com/nb/articles/6921756-storey-configurator-page). Med denne knappen kan de justerte tegningene slås av eller på.
 
-**Kart** Du vil se denne knappen hvis en plassering har blitt konfigurert i [prosjektinnstillinger](https://support.catenda.com/en/articles/4670273-project-settings-page). Med denne knappen kan kartet slås av eller på.
+**Kart** Du vil se denne knappen hvis en plassering har blitt konfigurert i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-project-settings-page). Med denne knappen kan kartet slås av eller på.

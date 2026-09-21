@@ -1,8 +1,8 @@
 # Comment puis-je inviter un membre?
 
-Vous pourrez inviter de nouveaux Membres au projet sur la [page d'invitation des Membres](https://support.catenda.com/en/articles/4670263-invite-members-page).
+Vous pourrez inviter de nouveaux Membres au projet sur la [page d'invitation des Membres](https://support.catenda.com/fr/articles/4670263-invite-members-page).
 
-_Accès requis :_ Accès à [l'invitation de nouveaux Membres](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) sur la page des paramètres du projet.
+_Accès requis :_ Accès à [l'invitation de nouveaux Membres](https://support.catenda.com/fr/articles/4670273-project-settings-page#h_f82a1850f3) sur la page des paramètres du projet.
 
 Suivez les étapes ci-dessous pour inviter un nouveau Membre.
 
@@ -28,4 +28,4 @@ _Accès requis :_ Administrateur du projet
 
 8\. Envoyer l'invitation
 
-Cliquez [ici](https://support.catenda.com/en/articles/4670263-invite-members-page) pour en savoir plus sur la page d'invitation des Membres.
+Cliquez [ici](https://support.catenda.com/fr/articles/4670263-invite-members-page) pour en savoir plus sur la page d'invitation des Membres.

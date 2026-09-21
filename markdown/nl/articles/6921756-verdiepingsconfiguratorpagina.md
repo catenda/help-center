@@ -2,7 +2,7 @@
 
 > Een PDF als overlay in uw 2D-weergave
 
-Door verdiepingen in een project in te stellen, kunnen voorbereide weergaven in de [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) voor projectleden worden gemaakt. De pagina Verdiepingsconfigurator is te vinden als subpagina van de [modelspagina](https://support.catenda.com/en/articles/4670286-models-page). De termen Storey en Building op deze pagina zijn afkomstig van de IFC-standaard. Hoewel de termen Storey en Building vaker worden gebruikt voor sociale infrastructuur, is dit hulpmiddel net zo nuttig, zo niet nuttiger, voor fysieke of digitale infrastructuurprojecten. _Vereiste toegang:_ Projectbeheerder
+Door verdiepingen in een project in te stellen, kunnen voorbereide weergaven in de [2D-viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer) voor projectleden worden gemaakt. De pagina Verdiepingsconfigurator is te vinden als subpagina van de [modelspagina](https://support.catenda.com/nl/articles/4670286-models-page). De termen Storey en Building op deze pagina zijn afkomstig van de IFC-standaard. Hoewel de termen Storey en Building vaker worden gebruikt voor sociale infrastructuur, is dit hulpmiddel net zo nuttig, zo niet nuttiger, voor fysieke of digitale infrastructuurprojecten. _Vereiste toegang:_ Projectbeheerder
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hn8gfwtp/01-intro.png)
 
@@ -24,7 +24,7 @@ Het actiemenu op de verdiepingsconfiguratorpagina is te vinden door de drie punt
 
 ### 1.1 **Voeg een nieuw gebouw toe**
 
-Klik [hier](https://support.catenda.com/en/articles/12291366-storey-configurator-actions) voor meer informatie over het toevoegen van een nieuw gebouw.
+Klik [hier](https://support.catenda.com/nl/articles/12291366-storey-configurator-actions) voor meer informatie over het toevoegen van een nieuw gebouw.
 
 ### 1.2 **PDF**
 

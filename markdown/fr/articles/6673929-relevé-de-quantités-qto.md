@@ -1,10 +1,10 @@
 # Relevé de quantités (QTO)
 
-Vous pourrez trouver le menu QTO comme deuxième menu dans le [panneau d'information](https://support.catenda.com/en/articles/8238584-information-panel).
+Vous pourrez trouver le menu QTO comme deuxième menu dans le [panneau d'information](https://support.catenda.com/fr/articles/8238584-information-panel).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8drgvwsx/01-intro.png)
 
-Cette fonctionnalité vous permet de visualiser et d'exporter une liste de propriétés des objets sélectionnés dans la [Visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer) ou le [panneau arborescence](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel). Avec cette liste, vous pourrez facilement obtenir des mesures précises des quantités de différents objets dans votre model. Pour commencer, veuillez sélectionner un objet dans la [Visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer) ou le [panneau arborescence](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) pour afficher ses propriétés et les informations associées dans le menu d'inspection. Après avoir sélectionné certains objets, le menu QTO peut ressembler à ceci :
+Cette fonctionnalité vous permet de visualiser et d'exporter une liste de propriétés des objets sélectionnés dans la [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer) ou le [panneau arborescence](https://intercom.help/bimsync-arena/fr/articles/4670290-trees-panel). Avec cette liste, vous pourrez facilement obtenir des mesures précises des quantités de différents objets dans votre model. Pour commencer, veuillez sélectionner un objet dans la [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer) ou le [panneau arborescence](https://intercom.help/bimsync-arena/fr/articles/4670290-trees-panel) pour afficher ses propriétés et les informations associées dans le menu d'inspection. Après avoir sélectionné certains objets, le menu QTO peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8drgvwsx/02-intro.png)
 
@@ -32,7 +32,7 @@ Dans la deuxième ligne, les noms des propriétés au sein de leurs groupes form
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8drgvwsx/05-header-row.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/11748020-tables-on-catenda) pour en savoir plus sur les tableaux sur Catenda.
+Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour en savoir plus sur les tableaux sur Catenda.
 
 ## 3. **Nombre d'objets**
 
@@ -42,7 +42,7 @@ Jusqu'à 10 000 objets peuvent être affichés dans ce menu, mais seul un nombre
 
 ## 4. **Courte vidéo**
 
-Cliquez [ici](https://support.catenda.com/en/articles/6707924-quantity-take-off-qto-short-video) pour voir une courte vidéo sur le menu QTO.
+Cliquez [ici](https://support.catenda.com/fr/articles/6707924-quantity-take-off-qto-short-video) pour voir une courte vidéo sur le menu QTO.
 
 ## 5. **Page Objets**
 

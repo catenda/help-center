@@ -1,6 +1,6 @@
 # Topic Board aus einem vorhandenen Topic Board
 
-Ein neues Topic Board kann erstellt werden, indem Sie auf die Aktion für das neue Topic Board auf der [Boards-Seite](https://support.catenda.com/en/articles/9413644-boards-page) klicken. Die Aktion finden Sie mit der grünen Schaltfläche oben rechts oder im benachbarten Aktionsmenü. Erforderlicher Zugriff: Schreibzugriff zum Erstellen neuer Topic Boards im Zugriffsmenü auf der [Projekteinstellungsseite](https://support.catenda.com/en/articles/4670273-project-settings-page).
+Ein neues Topic Board kann erstellt werden, indem Sie auf die Aktion für das neue Topic Board auf der [Boards-Seite](https://support.catenda.com/de/articles/9413644-boards-page) klicken. Die Aktion finden Sie mit der grünen Schaltfläche oben rechts oder im benachbarten Aktionsmenü. Erforderlicher Zugriff: Schreibzugriff zum Erstellen neuer Topic Boards im Zugriffsmenü auf der [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-project-settings-page).
 
 Dies ist ein Beispiel für die Seite "Neues Topic Board":
 
@@ -8,13 +8,13 @@ Dies ist ein Beispiel für die Seite "Neues Topic Board":
 
 ## 1. **Name**
 
-Geben Sie dem Topic Board einen Namen als Mindestanforderung zum Hinzufügen des Topic Boards. Die Topic Board-Liste wird nach dem Namen des Topic Boards gemäß der typischen [Sortierreihenfolge von Listen](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) auf Catenda sortiert. Es ist daher oft eine gute Idee, eine Namenskonvention zu verwenden, wenn Sie Topic Boards benennen. Hier ist ein Beispiel dafür, wie Topic Boards genannt werden könnten:
+Geben Sie dem Topic Board einen Namen als Mindestanforderung zum Hinzufügen des Topic Boards. Die Topic Board-Liste wird nach dem Namen des Topic Boards gemäß der typischen [Sortierreihenfolge von Listen](https://support.catenda.com/de/articles/8487788-sorting-order-of-lists) auf Catenda sortiert. Es ist daher oft eine gute Idee, eine Namenskonvention zu verwenden, wenn Sie Topic Boards benennen. Hier ist ein Beispiel dafür, wie Topic Boards genannt werden könnten:
 
 ![Topic board list introduction document review approved approved with comments rejected documents breeam socre coordination cost projects](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/02-name.png)
 
 ## 2. **Beschreibung**
 
-Die Topic Board-Beschreibung ist optional und kann später nur in den Topic Board-Einstellungen von Personen mit vollständigem Zugriff auf das Topic Board angesehen werden. Die Topic Board-Beschreibung folgt den allgemeinen Regeln für die [Formatierung von Beiträgen](https://support.catenda.com/en/articles/8430847-formatting-of-posts) auf Catenda.
+Die Topic Board-Beschreibung ist optional und kann später nur in den Topic Board-Einstellungen von Personen mit vollständigem Zugriff auf das Topic Board angesehen werden. Die Topic Board-Beschreibung folgt den allgemeinen Regeln für die [Formatierung von Beiträgen](https://support.catenda.com/de/articles/8430847-formatting-of-posts) auf Catenda.
 
 ## 3. **Einstellungen aus einem vorhandenen Topic Board kopieren**
 

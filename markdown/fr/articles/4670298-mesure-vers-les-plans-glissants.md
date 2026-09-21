@@ -10,7 +10,7 @@ Suivez ces étapes pour commencer à mesurer vers les plans glissants.
 
 ### 1.1 **Aperçu des plans glissants**
 
-Les plans glissants qui peuvent être mesurés sont définis dans les modèles IFC mis à disposition dans le projet. Si des modèles avec des plans glissants sont disponibles, la [liste déroulante du plan glissant](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown) devient visible dans le coin supérieur droit de la [Visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer) et peut ressembler à ceci :
+Les plans glissants qui peuvent être mesurés sont définis dans les modèles IFC mis à disposition dans le projet. Si des modèles avec des plans glissants sont disponibles, la [liste déroulante du plan glissant](https://support.catenda.com/fr/articles/4670327-sliding-plane-dropdown) devient visible dans le coin supérieur droit de la [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer) et peut ressembler à ceci :
 
 ![Plan de glissement déroulant dans la Visionneuse 3D](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/02-previewing-sliding-planes.png)
 
@@ -26,7 +26,7 @@ Des mesures précises sont essentielles pour éviter les malentendus dans le pro
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/04-recommended-settings-for-measuring.png)
 
-Comme les lignes des plans glissants incluent des lignes d'annotation fines et du texte qui sont souvent sensibles au rendu net dans un environnement 3D, les [paramètres de la Visionneuse 3D](https://support.catenda.com/en/articles/5784718-3d-viewer-settings#h_16d759320b) suivants sont recommandés pour rendre l'expérience de mesure aussi bonne que possible.
+Comme les lignes des plans glissants incluent des lignes d'annotation fines et du texte qui sont souvent sensibles au rendu net dans un environnement 3D, les [paramètres de la Visionneuse 3D](https://support.catenda.com/fr/articles/5784718-3d-viewer-settings#h_16d759320b) suivants sont recommandés pour rendre l'expérience de mesure aussi bonne que possible.
 
 **Paramètres de la Visionneuse 3D - Qualité d'affichage** La qualité standard est recommandée car la qualité élevée modifie le rapport entre les pixels affichés par Catenda et les pixels visibles sur l'écran, ce qui peut avoir un effet négatif sur la précision des mesures.
 
@@ -36,7 +36,7 @@ Comme les lignes des plans glissants incluent des lignes d'annotation fines et d
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/05-recommended-settings-for-measuring.png)
 
-**Recommandation d'application logicielle** Quel que soit l'[échelle de zoom](https://support.catenda.com/en/articles/13927149-application-software-recommendation?q=3d+v) configurée dans le navigateur utilisé pour mesurer dans la Visionneuse 3D, il est recommandé de ne pas modifier l'échelle de zoom du navigateur pendant la mesure, car cela peut contribuer à réduire la précision de la mesure. Réglez le navigateur sur l'échelle de zoom préférée et veillez à actualiser la page après chaque modification de l'échelle de zoom, même si la modification a été effectuée sur un autre onglet ou si elle a été ramenée à sa valeur initiale.
+**Recommandation d'application logicielle** Quel que soit l'[échelle de zoom](https://support.catenda.com/fr/articles/13927149-application-software-recommendation?q=3d+v) configurée dans le navigateur utilisé pour mesurer dans la Visionneuse 3D, il est recommandé de ne pas modifier l'échelle de zoom du navigateur pendant la mesure, car cela peut contribuer à réduire la précision de la mesure. Réglez le navigateur sur l'échelle de zoom préférée et veillez à actualiser la page après chaque modification de l'échelle de zoom, même si la modification a été effectuée sur un autre onglet ou si elle a été ramenée à sa valeur initiale.
 
 ## 2. **Mesure vers les lignes d'annotation des plans glissants**
 

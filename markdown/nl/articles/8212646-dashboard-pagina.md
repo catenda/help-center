@@ -16,15 +16,15 @@ Klik op de project vervolgkeuzelijst om naar het dashboard van een ander project
 
 ### 1.2 **Projectpanelen**
 
-Klik [hier](https://support.catenda.com/en/articles/13141464-project-panels) voor meer informatie over de projectpanelen
+Klik [hier](https://support.catenda.com/nl/articles/13141464-project-panels) voor meer informatie over de projectpanelen
 
 ### 1.3 **Accountknoppen**
 
-Klik [hier](https://support.catenda.com/en/articles/4670260-account-buttons) voor meer informatie over de accountknoppen
+Klik [hier](https://support.catenda.com/nl/articles/4670260-account-buttons) voor meer informatie over de accountknoppen
 
 ## 2. **Onderwerpen**
 
-In de [sectie onderwerpen](https://support.catenda.com/en/articles/4670271-issues-page) kunt u een overzicht zien van [alle onderwerpen](https://support.catenda.com/en/articles/4670271-issues-page#h_9bd3bd842b) in het project. Dit is hoe het menu met onderwerpen eruit kan zien:
+In de [sectie onderwerpen](https://support.catenda.com/nl/articles/4670271-issues-page) kunt u een overzicht zien van [alle onderwerpen](https://support.catenda.com/nl/articles/4670271-issues-page#h_9bd3bd842b) in het project. Dit is hoe het menu met onderwerpen eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/03-topics.png)
 
@@ -40,7 +40,7 @@ Hier is het totale aantal open onderwerpen dat leden toegang hebben zichtbaar.
 
 ### 2.2 **Aan mij toegewezen onderwerpen**
 
-Het aantal onderwerpen dat is [toegewezen aan een lid](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board#h_12a5c945fd) in onderwerpenborden waartoe zij toegang hebben, wordt weergegeven.
+Het aantal onderwerpen dat is [toegewezen aan een lid](https://support.catenda.com/nl/articles/8370693-filtering-in-a-topic-board#h_12a5c945fd) in onderwerpenborden waartoe zij toegang hebben, wordt weergegeven.
 
 ### 2.3 **Onderwerpenbordgrafiek**
 
@@ -54,11 +54,11 @@ Voor elk onderwerpenbord wordt een cirkelvormige grafiek weergegeven die lijkt o
 
 ### 2.4 **Recent bijgewerkte onderwerpen**
 
-Klik op recent bijgewerkte onderwerpen om het [onderwerpenboard met alle onderwerpen](https://support.catenda.com/en/articles/4670271-issues-page#h_9bd3bd842b) geopend te krijgen, gesorteerd op de bijgewerkte kolom.
+Klik op recent bijgewerkte onderwerpen om het [onderwerpenboard met alle onderwerpen](https://support.catenda.com/nl/articles/4670271-issues-page#h_9bd3bd842b) geopend te krijgen, gesorteerd op de bijgewerkte kolom.
 
 ### 2.5 **Alle onderwerpenborden**
 
-Het weergegeven aantal is het aantal borden waarvoor het ingelogde lid minimaal leestoegang heeft. Klik op alle onderwerpenborden om de [bordenpagina](https://support.catenda.com/en/articles/9413644-boards-page) te openen.
+Het weergegeven aantal is het aantal borden waarvoor het ingelogde lid minimaal leestoegang heeft. Klik op alle onderwerpenborden om de [bordenpagina](https://support.catenda.com/nl/articles/9413644-boards-page) te openen.
 
 Nieuwe onderwerpenborden kunnen worden gemaakt. _Vereiste toegang:_ Onderwerpenborden maken in projectinstellingen. De instellingen voor elk onderwerpenbord kunnen worden bereikt. _Vereiste toegang:_ Volledige toegang tot het onderwerpenbord.
 
@@ -74,7 +74,7 @@ Klik op het onderwerpnummer om de URL van dit onderwerp te kopiëren.
 
 ## 3. **Mijn opgeslagen views**
 
-Hier worden alle met een ster gemarkeerde [opgeslagen views](https://support.catenda.com/en/articles/4670281-bookmarks) weergegeven met hun schermafbeelding en titel.
+Hier worden alle met een ster gemarkeerde [opgeslagen views](https://support.catenda.com/nl/articles/4670281-bookmarks) weergegeven met hun schermafbeelding en titel.
 
 Dit is hoe het menu met opgeslagen views eruit kan zien:
 
@@ -98,7 +98,7 @@ Als er nog geen modellen in het project aanwezig zijn, kan bovenaan rechts in he
 
 Klik op de plusknop om een nieuw model te maken. _Vereiste toegang:_ Toegang tot het maken van modellen op de pagina met projectinstellingen.
 
-Klik op de naam van een model om naar de [modelinhoudsapagina](https://support.catenda.com/en/articles/4670270-model-overview-page) van dat model te gaan. Met de 2D/3D-knoppen kunt u het model in de viewer laden.
+Klik op de naam van een model om naar de [modelinhoudsapagina](https://support.catenda.com/nl/articles/4670270-model-overview-page) van dat model te gaan. Met de 2D/3D-knoppen kunt u het model in de viewer laden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/10-models.png)
 
@@ -114,7 +114,7 @@ Een groene plusknop is zichtbaar in de rechterbovenhoek van het menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/09-models.png)
 
-Klik op de plusknop om [een nieuw lid uit te nodigen](https://support.catenda.com/en/articles/4670247-inviting-new-members-to-the-project) voor uw project. _Vereiste toegang:_ Toegang tot het uitnodigen van nieuwe leden op de pagina met projectinstellingen.
+Klik op de plusknop om [een nieuw lid uit te nodigen](https://support.catenda.com/nl/articles/4670247-inviting-new-members-to-the-project) voor uw project. _Vereiste toegang:_ Toegang tot het uitnodigen van nieuwe leden op de pagina met projectinstellingen.
 
 Klik op de profielfoto van een lid om de pagina van dat lid te zien.
 
@@ -124,23 +124,23 @@ Het menu Beoordelingen is niet zichtbaar voor projecten waarin gedeelde revisies
 
 ### 6.1 **Beoordelingen - Verouderd**
 
-In projecten waarin de verouderde validatiewerkstroom is ingeschakeld, worden beoordelingen op het dashboard weergegeven. Als u op Beoordelingen klikt, gaat u naar de pagina [beoordelingen](https://support.catenda.com/en/articles/5784717-document-approval).
+In projecten waarin de verouderde validatiewerkstroom is ingeschakeld, worden beoordelingen op het dashboard weergegeven. Als u op Beoordelingen klikt, gaat u naar de pagina [beoordelingen](https://support.catenda.com/nl/articles/5784717-document-approval).
 
 Dit is hoe het menu met beoordelingen eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/13-approvals-legacy.png)
 
-**Open beoordelingen** Zie alle open [beoordelingen](https://support.catenda.com/en/articles/5784717-document-approval)
+**Open beoordelingen** Zie alle open [beoordelingen](https://support.catenda.com/nl/articles/5784717-document-approval)
 
-**Gemaakt door mij** Zie alle open [beoordelingen](https://support.catenda.com/en/articles/5784717-document-approval) die u hebt gemaakt
+**Gemaakt door mij** Zie alle open [beoordelingen](https://support.catenda.com/nl/articles/5784717-document-approval) die u hebt gemaakt
 
-**Ik ben revisor** Zie alle open [beoordelingen](https://support.catenda.com/en/articles/8349340-approvals-page) waarbij u bent ingesteld als revisor.
+**Ik ben revisor** Zie alle open [beoordelingen](https://support.catenda.com/nl/articles/8349340-approvals-page) waarbij u bent ingesteld als revisor.
 
-**Beoordelingsaanvraagkaarten** Zie de 5 meest recente open [beoordelingen](https://support.catenda.com/en/articles/5784717-document-approval) in het project. Klik op een [beoordeling](https://support.catenda.com/en/articles/5784717-document-approval) om de inhoud ervan weer te geven.
+**Beoordelingsaanvraagkaarten** Zie de 5 meest recente open [beoordelingen](https://support.catenda.com/nl/articles/5784717-document-approval) in het project. Klik op een [beoordeling](https://support.catenda.com/nl/articles/5784717-document-approval) om de inhoud ervan weer te geven.
 
 ## 7. **Bundels**
 
-Klik op Bundels om naar de [pagina met bundels](https://support.catenda.com/en/articles/6344318-collections-page) te gaan
+Klik op Bundels om naar de [pagina met bundels](https://support.catenda.com/nl/articles/6344318-collections-page) te gaan
 
 Dit is hoe het menu met bundels eruit kan zien:
 
@@ -148,12 +148,12 @@ Dit is hoe het menu met bundels eruit kan zien:
 
 ### 7.1 **Bundels in voorbereiding**
 
-Zie welke [bundels](https://support.catenda.com/en/articles/6344318-collections-page) nog niet zijn voltooid. Deze kunnen worden gebruikt voor het delen van documenten met personen binnen het project
+Zie welke [bundels](https://support.catenda.com/nl/articles/6344318-collections-page) nog niet zijn voltooid. Deze kunnen worden gebruikt voor het delen van documenten met personen binnen het project
 
 ### 7.2 **Voltooide bundels**
 
-Zie welke [bundels](https://support.catenda.com/en/articles/6344318-collections-page) zijn voltooid. Deze kunnen worden gebruikt voor het extern delen van documenten.
+Zie welke [bundels](https://support.catenda.com/nl/articles/6344318-collections-page) zijn voltooid. Deze kunnen worden gebruikt voor het extern delen van documenten.
 
 ### 7.3 **Bundels**
 
-Zie de 5 meest recente [bundels](https://support.catenda.com/en/articles/6344318-collections-page) in het project. Klik op een bundel om de pagina met bundel-inhoud van die bundel te zien.
+Zie de 5 meest recente [bundels](https://support.catenda.com/nl/articles/6344318-collections-page) in het project. Klik op een bundel om de pagina met bundel-inhoud van die bundel te zien.

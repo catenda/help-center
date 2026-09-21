@@ -12,33 +12,33 @@ Wanneer nieuwe functies worden uitgebracht en bugs worden opgelost, worden artik
 
 ### 1.1 **Nieuwe artikelen:**
 
-**Aan de slag en veelgestelde vragen** [Projectbeveiliging](https://support.catenda.com/en/articles/8263256-project-security') [Informatie bijhouden via koppelingen](https://support.catenda.com/en/articles/8294909-tracking-information-by-linking) [Waarom ontvang ik geen e-mails?](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) [Opmaak van berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts)
+**Aan de slag en veelgestelde vragen** [Projectbeveiliging](https://support.catenda.com/nl/articles/8263256-project-security') [Informatie bijhouden via koppelingen](https://support.catenda.com/nl/articles/8294909-tracking-information-by-linking) [Waarom ontvang ik geen e-mails?](https://support.catenda.com/nl/articles/8417802-why-am-i-not-receiving-emails) [Opmaak van berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts)
 
-**Hoofdpagina** [Organisatieopties](https://support.catenda.com/en/articles/8224886-organization-options) [Dashboardpagina](https://support.catenda.com/en/articles/8212646-dashboard-page) [Meldingsinstellingen](https://support.catenda.com/en/articles/8272435-notification-settings) [Meldingsfunctionaliteit](https://support.catenda.com/en/articles/8304417-notification-functionality) [Een account aanmaken](https://support.catenda.com/en/articles/8412895-creating-an-account)
+**Hoofdpagina** [Organisatieopties](https://support.catenda.com/nl/articles/8224886-organization-options) [Dashboardpagina](https://support.catenda.com/nl/articles/8212646-dashboard-page) [Meldingsinstellingen](https://support.catenda.com/nl/articles/8272435-notification-settings) [Meldingsfunctionaliteit](https://support.catenda.com/nl/articles/8304417-notification-functionality) [Een account aanmaken](https://support.catenda.com/nl/articles/8412895-creating-an-account)
 
-**Problemen** [Probleeminhoud](https://support.catenda.com/en/articles/7986346-issue-content) [Rechter paneel van probleem](https://support.catenda.com/en/articles/8053299-issue-right-panel) [Probleemhoofdtekst](https://support.catenda.com/en/articles/8053352-issue-body) [Filteren in een probleembord](https://support.catenda.com/en/articles/8370693-filtering-in-an-issue-board)
+**Problemen** [Probleeminhoud](https://support.catenda.com/nl/articles/7986346-issue-content) [Rechter paneel van probleem](https://support.catenda.com/nl/articles/8053299-issue-right-panel) [Probleemhoofdtekst](https://support.catenda.com/nl/articles/8053352-issue-body) [Filteren in een probleembord](https://support.catenda.com/nl/articles/8370693-filtering-in-an-issue-board)
 
-**Documenten** [Een gebruiker toegang geven tot één map](https://support.catenda.com/en/articles/8009637-giving-a-user-access-to-a-single-folder) [Bibliotheekpagina](https://support.catenda.com/en/articles/8065645-libraries-page) [Een zip-bestand / bestandsstructuur uploaden](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) [Rechter paneel in een document](https://support.catenda.com/en/articles/8302244-documents-right-panel) [Rechter paneel in documentenlijst](https://support.catenda.com/en/articles/8345396-right-panel-in-documents-list) [Goedkeuringenpagina](https://support.catenda.com/en/articles/8349340-approvals-page) [Goedkeuringsinhoud](https://support.catenda.com/en/articles/8349418-approval-content) [Tabelweergave in de sectie Documenten](https://support.catenda.com/en/articles/8398771-table-view-in-the-documents-section)
+**Documenten** [Een gebruiker toegang geven tot één map](https://support.catenda.com/nl/articles/8009637-giving-a-user-access-to-a-single-folder) [Bibliotheekpagina](https://support.catenda.com/nl/articles/8065645-libraries-page) [Een zip-bestand / bestandsstructuur uploaden](https://support.catenda.com/nl/articles/7945410-upload-a-zip-file-structure) [Rechter paneel in een document](https://support.catenda.com/nl/articles/8302244-documents-right-panel) [Rechter paneel in documentenlijst](https://support.catenda.com/nl/articles/8345396-right-panel-in-documents-list) [Goedkeuringenpagina](https://support.catenda.com/nl/articles/8349340-approvals-page) [Goedkeuringsinhoud](https://support.catenda.com/nl/articles/8349418-approval-content) [Tabelweergave in de sectie Documenten](https://support.catenda.com/nl/articles/8398771-table-view-in-the-documents-section)
 
-**Modellen en 3D** [Selecteren en knippen vanuit 2D](https://support.catenda.com/en/articles/8035360-selecting-and-clipping-from-2d) [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) [Modellen als documenten](https://support.catenda.com/en/articles/8064548-models-as-documents) [Informatiepaneel](https://support.catenda.com/en/articles/8238584-information-panel) [3D-locatie van modellen](https://support.catenda.com/en/articles/8294750-3d-location-of-models) [Modelconfiguratie](https://support.catenda.com/en/articles/8300623-model-configuration) [Meetvlak](https://support.catenda.com/en/articles/8360838-measure-plane)
+**Modellen en 3D** [Selecteren en knippen vanuit 2D](https://support.catenda.com/nl/articles/8035360-selecting-and-clipping-from-2d) [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer) [Modellen als documenten](https://support.catenda.com/nl/articles/8064548-models-as-documents) [Informatiepaneel](https://support.catenda.com/nl/articles/8238584-information-panel) [3D-locatie van modellen](https://support.catenda.com/nl/articles/8294750-3d-location-of-models) [Modelconfiguratie](https://support.catenda.com/nl/articles/8300623-model-configuration) [Meetvlak](https://support.catenda.com/nl/articles/8360838-measure-plane)
 
-**Projectinstellingen** [Ledenpagina](https://support.catenda.com/en/articles/8228836-member-page)
+**Projectinstellingen** [Ledenpagina](https://support.catenda.com/nl/articles/8228836-member-page)
 
-**Plugins en integraties** [Integratie Power BI](https://support.catenda.com/en/articles/5784721-integration-power-bi) [Catenda SharePoint-plugin](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-plugin) [Catenda-toegang vanuit uw omgeving](https://support.catenda.com/en/articles/8396532-catenda-access-from-your-environment)
+**Plugins en integraties** [Integratie Power BI](https://support.catenda.com/nl/articles/5784721-integration-power-bi) [Catenda SharePoint-plugin](https://support.catenda.com/nl/articles/8396496-catenda-sharepoint-plugin) [Catenda-toegang vanuit uw omgeving](https://support.catenda.com/nl/articles/8396532-catenda-access-from-your-environment)
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
-Aan de slag en veelgestelde vragen [User Voice @ Catenda](https://support.catenda.com/en/articles/5925449-user-voice-catenda) [Overzicht van belangrijkste sneltoetsen en basisbesturingselementen](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
+Aan de slag en veelgestelde vragen [User Voice @ Catenda](https://support.catenda.com/nl/articles/5925449-user-voice-catenda) [Overzicht van belangrijkste sneltoetsen en basisbesturingselementen](https://support.catenda.com/nl/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
 
-Hoofdpagina [Meldingenpagina](https://support.catenda.com/en/articles/7439223-notifications-page)
+Hoofdpagina [Meldingenpagina](https://support.catenda.com/nl/articles/7439223-notifications-page)
 
-Problemen [Rechter paneel in een probleembord](https://support.catenda.com/en/articles/6941224-right-panel-in-an-issue-board) [Instellingen probleembord](https://support.catenda.com/en/articles/4670277-issue-board-settings) [Instellingen probleembord](https://support.catenda.com/en/articles/4670277-issue-board-settings)
+Problemen [Rechter paneel in een probleembord](https://support.catenda.com/nl/articles/6941224-right-panel-in-an-issue-board) [Instellingen probleembord](https://support.catenda.com/nl/articles/4670277-issue-board-settings) [Instellingen probleembord](https://support.catenda.com/nl/articles/4670277-issue-board-settings)
 
-Documenten [Documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page) [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+Documenten [Documentenpagina](https://support.catenda.com/nl/articles/8204673-documents-page) [Filteren op de documentenpagina](https://support.catenda.com/nl/articles/4670283-filtering-on-the-documents-page)
 
-Modellen [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
+Modellen [2D-viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer)
 
-Meldingen [Meest recente projectmeldingen](https://support.catenda.com/en/articles/4670262-project-notification-settings)
+Meldingen [Meest recente projectmeldingen](https://support.catenda.com/nl/articles/4670262-project-notification-settings)
 
 ## 2. **Opgeloste problemen**
 

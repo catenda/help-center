@@ -108,7 +108,7 @@ En annen grunn til at dette kan skje, er hvis det ikke finnes offentlige revisjo
 
 ### 4.4 **Trukket tilbake dokumentrevisjon**
 
-[https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx) En dokumentrevisjon kan være [trukket tilbake](https://support.catenda.com/en/articles/9711174-withdraw-revision) med [handlingen trekk tilbake revisjon](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document). Du vil legge merke til at navnet på den tilbaketrukne revisjonen vil være gjennomstreket.
+[https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx) En dokumentrevisjon kan være [trukket tilbake](https://support.catenda.com/nb/articles/9711174-withdraw-revision) med [handlingen trekk tilbake revisjon](https://support.catenda.com/nb/articles/8302244-right-menu-in-a-document). Du vil legge merke til at navnet på den tilbaketrukne revisjonen vil være gjennomstreket.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/14-withdrawn-document-revision.png)
 
@@ -150,7 +150,7 @@ Dette kan vises når du prøver å følge en lenke til en mappe som ikke lenger 
 
 ### 5.3 **Modellrevisjon trukket tilbake**
 
-Hvis en modellrevisjon har blitt [trukket tilbake](https://support.catenda.com/en/articles/9711174-withdraw-revision), vil du se navnet gjennomstreket. Hvis den nyeste revisjonen har blitt trukket tilbake, vil du se en advarsel på modellsiden.
+Hvis en modellrevisjon har blitt [trukket tilbake](https://support.catenda.com/nb/articles/9711174-withdraw-revision), vil du se navnet gjennomstreket. Hvis den nyeste revisjonen har blitt trukket tilbake, vil du se en advarsel på modellsiden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/20-model-revision-withdrawn.png)
 

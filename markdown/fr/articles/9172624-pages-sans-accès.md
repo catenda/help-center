@@ -108,7 +108,7 @@ Une autre raison pour laquelle cela peut se produire est qu'il n'y a pas de rév
 
 ### 4.4 **Révision de document retirée**
 
-[https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx) Une révision de document peut être [retirée](https://support.catenda.com/en/articles/9711174-withdraw-revision) avec l'[action de retrait de révision](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document). Vous remarquerez que le nom de la révision retirée sera barré.
+[https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx) Une révision de document peut être [retirée](https://support.catenda.com/fr/articles/9711174-withdraw-revision) avec l'[action de retrait de révision](https://support.catenda.com/fr/articles/8302244-right-menu-in-a-document). Vous remarquerez que le nom de la révision retirée sera barré.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/14-withdrawn-document-revision.png)
 
@@ -150,7 +150,7 @@ Cela peut apparaître lorsque vous essayez de suivre un lien vers un dossier qui
 
 ### 5.3 **Révision du modèle retirée**
 
-Si une révision de modèle a été [retirée](https://support.catenda.com/en/articles/9711174-withdraw-revision), vous verrez son nom barré. Si la dernière révision a été retirée, vous verrez un avertissement sur la page des modèles.
+Si une révision de modèle a été [retirée](https://support.catenda.com/fr/articles/9711174-withdraw-revision), vous verrez son nom barré. Si la dernière révision a été retirée, vous verrez un avertissement sur la page des modèles.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/20-model-revision-withdrawn.png)
 

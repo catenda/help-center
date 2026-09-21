@@ -1,12 +1,12 @@
 # Opprette et nytt bokmerke
 
-Nye bokmerker kan opprettes ved å klikke på Nytt bokmerke i [toppknappene](https://support.catenda.com/en/articles/4670281-bookmarks-page#h_e85b08bb62) på [bokmarkersiden](https://support.catenda.com/en/articles/4670281-bookmarks-page) eller på siden for et spesifikt bokmerke.
+Nye bokmerker kan opprettes ved å klikke på Nytt bokmerke i [toppknappene](https://support.catenda.com/nb/articles/4670281-bookmarks-page#h_e85b08bb62) på [bokmarkersiden](https://support.catenda.com/nb/articles/4670281-bookmarks-page) eller på siden for et spesifikt bokmerke.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ba5nvq9c/01-intro.png)
 
 ## 1. Nytt bokmerke
 
-Åpne 3D-viseren fra navigasjonsmenyen. Trykk på [nytt bokmerke](https://support.catenda.com/en/articles/4670281-bookmarks-page#h_e85b08bb62)-knappen øverst til høyre på [bokmarkersiden](https://support.catenda.com/en/articles/4670281-bookmarks-page). Bevegg deg rundt i modellen til du har skjermvisningen du ønsker å opprette et bokmerke av, og når du er klar, klikker du på ta øyeblikksbilde.
+Åpne 3D-viseren fra navigasjonsmenyen. Trykk på [nytt bokmerke](https://support.catenda.com/nb/articles/4670281-bookmarks-page#h_e85b08bb62)-knappen øverst til høyre på [bokmarkersiden](https://support.catenda.com/nb/articles/4670281-bookmarks-page). Bevegg deg rundt i modellen til du har skjermvisningen du ønsker å opprette et bokmerke av, og når du er klar, klikker du på ta øyeblikksbilde.
 
 > **Merk:** Selv om det ikke er mulig å opprette et bokmerke med et spørring, er det mulig å ta et øyeblikksbilde i et problem med et spørring.
 

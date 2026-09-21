@@ -1,6 +1,6 @@
 # Een nieuw topic-sjabloon maken - Legacy
 
-De actie voor een nieuw topic-sjabloon kunt u vinden door op het actiemenu te klikken rechts van de groene plusknop op de [pagina topic-sjablonen](https://support.catenda.com/en/articles/12367730-topic-templates-page) en de [pagina topic-sjabloon](https://support.catenda.com/en/articles/12371549-topic-template-page). De actie kunt u ook vinden in het vervolgkeuzemenu topic-sjablonen in het topic-sjabloongedeelte van de pagina [goedkeuringsinstellingen](https://support.catenda.com/en/articles/12367293-approval-settings-page). _Vereiste toegang:_ Beheerder
+De actie voor een nieuw topic-sjabloon kunt u vinden door op het actiemenu te klikken rechts van de groene plusknop op de [pagina topic-sjablonen](https://support.catenda.com/nl/articles/12367730-topic-templates-page) en de [pagina topic-sjabloon](https://support.catenda.com/nl/articles/12371549-topic-template-page). De actie kunt u ook vinden in het vervolgkeuzemenu topic-sjablonen in het topic-sjabloongedeelte van de pagina [goedkeuringsinstellingen](https://support.catenda.com/nl/articles/12367293-approval-settings-page). _Vereiste toegang:_ Beheerder
 
 Dit is hoe het dialoogvenster voor het nieuwe topic-sjabloon eruit kan zien:
 

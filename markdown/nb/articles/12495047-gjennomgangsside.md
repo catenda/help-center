@@ -1,6 +1,6 @@
 # Gjennomgangsside
 
-Gjennomgangssiden finnes som en underside til [dokumentsiden](https://support.catenda.com/en/articles/8204673-documents-page) i venstre navigasjonsmeny. Her finner du en oversikt over gjennomgangsforespørslene i prosjektet.
+Gjennomgangssiden finnes som en underside til [dokumentsiden](https://support.catenda.com/nb/articles/8204673-documents-page) i venstre navigasjonsmeny. Her finner du en oversikt over gjennomgangsforespørslene i prosjektet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
@@ -14,9 +14,9 @@ På gjennomgangssiden kan følgende gjøres:
 
 ## 1. **Aktiver gjennomgangssiden**
 
-Gjennomgangssiden er skjult som standard. Aktiver delte revisjoner i [dokumentinnstillinger](https://support.catenda.com/en/articles/7831371-document-settings-page) for å avdekke gjennomgangssiden. _Nødvendig tilgang:_ Prosjektadministrator
+Gjennomgangssiden er skjult som standard. Aktiver delte revisjoner i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-document-settings-page) for å avdekke gjennomgangssiden. _Nødvendig tilgang:_ Prosjektadministrator
 
-> **Merknad:** I prosjekter der delte revisjoner ble aktivert før 2. oktober 2025, vises [den gamle gjennomgangssiden](https://support.catenda.com/en/articles/8349340-approvals-page-legacy) i stedet.
+> **Merknad:** I prosjekter der delte revisjoner ble aktivert før 2. oktober 2025, vises [den gamle gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-approvals-page-legacy) i stedet.
 
 ### 1.1 **Aktiver fra malprosjekt**
 
@@ -30,7 +30,7 @@ De nye varhandlingene finnes i øvre høyre hjørne av siden.
 
 ### 2.1 **Ny gjennomgangsforespørsel**
 
-Klikk [her](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request) for å lese mer om hvordan du oppretter en ny gjennomgangsforespørsel.
+Klikk [her](https://support.catenda.com/nb/articles/12495005-creating-a-new-approval-request) for å lese mer om hvordan du oppretter en ny gjennomgangsforespørsel.
 
 _Nødvendig tilgang:_ Et medlem må være del av et innsendingsteam i en konfigurert arbeitsflyt for å kunne sende inn en ny gjennomgangsforespørsel.
 
@@ -38,7 +38,7 @@ _Nødvendig tilgang:_ Et medlem må være del av et innsendingsteam i en konfigu
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
 
-Klikk [her](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page) for å lese mer om filtrering på gjennomgangssiden.
+Klikk [her](https://support.catenda.com/nb/articles/12495060-filtering-on-the-approvals-page) for å lese mer om filtrering på gjennomgangssiden.
 
 ## 4. **Gjennomgangsliste**
 
@@ -98,11 +98,11 @@ Tekststøket lar deg søke etter revisjonsnavn og gjennomgangsforespørselsnavn.
 
 ### 6.1 **Åpen eller lukket gjennomgangsrad**
 
-Åpning av innholdet i en gjennomgangsforespørselrad som er under vurdering eller lukket, åpner [gjennomgangssiden](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page) for den gjennomgangen.
+Åpning av innholdet i en gjennomgangsforespørselrad som er under vurdering eller lukket, åpner [gjennomgangssiden](https://support.catenda.com/nb/articles/12494960-open-or-closed-approval-request-page) for den gjennomgangen.
 
 ### 6.2 **Utkast gjennomgangsrad**
 
-For utkastgjennomganger åpnes [siden for gjennomgangsforespørsel i utkast](https://support.catenda.com/en/articles/12495175-draft-approval-request-page) i stedet.
+For utkastgjennomganger åpnes [siden for gjennomgangsforespørsel i utkast](https://support.catenda.com/nb/articles/12495175-draft-approval-request-page) i stedet.
 
 ## 7. **Gjennomgangsforespørselskort**
 

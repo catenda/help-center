@@ -1,6 +1,6 @@
 # Topic board van een bestaand topic board
 
-Een nieuw topic board kan worden gemaakt door op de actie voor een nieuw topic board op de [boards pagina](https://support.catenda.com/en/articles/9413644-boards-page) te klikken. De actie is te vinden met de groene plus-knop rechtsboven of in het bijbehorende actiemenu. Vereiste toegang: Schrijftoegang om nieuwe topic boards te maken in het toegangsmenu op de [projectinstellingenpagina](https://support.catenda.com/en/articles/4670273-project-settings-page).
+Een nieuw topic board kan worden gemaakt door op de actie voor een nieuw topic board op de [boards pagina](https://support.catenda.com/nl/articles/9413644-boards-page) te klikken. De actie is te vinden met de groene plus-knop rechtsboven of in het bijbehorende actiemenu. Vereiste toegang: Schrijftoegang om nieuwe topic boards te maken in het toegangsmenu op de [projectinstellingenpagina](https://support.catenda.com/nl/articles/4670273-project-settings-page).
 
 Dit is hoe de pagina Nieuw topic board eruit kan zien:
 
@@ -8,13 +8,13 @@ Dit is hoe de pagina Nieuw topic board eruit kan zien:
 
 ## 1. **Naam**
 
-Geef het topic board minimaal een naam om het topic board toe te voegen. De topic board-lijst is gesorteerd op topic board-naam volgens de typische [sorteeringsvolgorde van lijsten](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) op Catenda. Het is daarom vaak een goed idee om een naamconventie te gebruiken bij het benoemen van topic boards. Hier volgt een voorbeeld van hoe topic boards kunnen heten:
+Geef het topic board minimaal een naam om het topic board toe te voegen. De topic board-lijst is gesorteerd op topic board-naam volgens de typische [sorteeringsvolgorde van lijsten](https://support.catenda.com/nl/articles/8487788-sorting-order-of-lists) op Catenda. Het is daarom vaak een goed idee om een naamconventie te gebruiken bij het benoemen van topic boards. Hier volgt een voorbeeld van hoe topic boards kunnen heten:
 
 ![Topicbordlijst introductie documentbeoordeling goedgekeurd goedgekeurd met opmerkingen afgewezen documenten breeam socre coördinatie kosten projecten](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/02-name.png)
 
 ## 2. **Omschrijving**
 
-De omschrijving van het topic board is optioneel en kan later alleen worden weergegeven in de instellingen van het topic board voor degenen met volledige toegang tot het topic board. De omschrijving van het topic board volgt de algemene regels voor [opmaak van berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts) op Catenda.
+De omschrijving van het topic board is optioneel en kan later alleen worden weergegeven in de instellingen van het topic board voor degenen met volledige toegang tot het topic board. De omschrijving van het topic board volgt de algemene regels voor [opmaak van berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts) op Catenda.
 
 ## 3. **Kopieer instellingen van een bestaand topic board**
 

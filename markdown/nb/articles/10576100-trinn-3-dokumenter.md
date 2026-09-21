@@ -2,7 +2,7 @@
 
 > Last opp og ned, vis og kommuniser om prosjektdokumenter
 
-> **Tips:** Finn [trinn 2](https://support.catenda.com/en/articles/10576075-step-2-interface) i [Komme i gang](https://support.catenda.com/en/collections/2657208-getting-started) i hjelpesentralen eller i hjelpemenyen.
+> **Tips:** Finn [trinn 2](https://support.catenda.com/nb/articles/10576075-step-2-interface) i [Komme i gang](https://support.catenda.com/nb/collections/2657208-getting-started) i hjelpesentralen eller i hjelpemenyen.
 
 ## 1. **Laster opp**
 
@@ -38,6 +38,6 @@ Bruk merkningsverktøyene til å identifisere områder du vil kommunisere om med
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/mdxrvj2r/06-markups.png)
 
-_Videre lesing:_ [Laster opp](https://support.catenda.com/en/articles/4670278-uploading-a-document), [Filtrering av dokumenter](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page), [Dokumenthandlinger](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure), [Viser](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub), [Markeringer](https://support.catenda.com/en/articles/10210710-keep-track-of-annotations-with-markups)
+_Videre lesing:_ [Laster opp](https://support.catenda.com/nb/articles/4670278-uploading-a-document), [Filtrering av dokumenter](https://support.catenda.com/nb/articles/4670283-filtering-on-the-documents-page), [Dokumenthandlinger](https://support.catenda.com/nb/articles/4670288-actions-in-the-document-structure), [Viser](https://support.catenda.com/nb/articles/4670320-previewing-file-types-on-catenda-hub), [Markeringer](https://support.catenda.com/nb/articles/10210710-keep-track-of-annotations-with-markups)
 
-> **Merknad:** Finn [trinn 4](https://support.catenda.com/en/articles/10576177-step-4-models) i [Komme i gang](https://support.catenda.com/en/collections/2657208-getting-started) i hjelpesentralen eller i hjelpemenyen.
+> **Merknad:** Finn [trinn 4](https://support.catenda.com/nb/articles/10576177-step-4-models) i [Komme i gang](https://support.catenda.com/nb/collections/2657208-getting-started) i hjelpesentralen eller i hjelpemenyen.

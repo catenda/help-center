@@ -1,6 +1,6 @@
 # Revisions-Selector
 
-Der Revisions-Selector ist ein Dropdown-Menü, das Sie oben links auf dem Bildschirm im [3D Viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)-Bereich finden.
+Der Revisions-Selector ist ein Dropdown-Menü, das Sie oben links auf dem Bildschirm im [3D Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer)-Bereich finden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/01-intro.png)
 
@@ -30,17 +30,17 @@ Eine Teilübereinstimmung von 3 oder mehr römischen Buchstaben kann in der List
 
 **Übereinstimmung nach Trennzeichen** Nach einem Trennzeichen wird die Dreizeichen-Regel zurückgesetzt und es können nur drei oder mehr Zeichen nach einem Trennzeichen übereinstimmen. Die Dreizeichen-Regel wird nach jedem Trennzeichen zurückgesetzt. Trennzeichen können Zeichen wie Unterstriche "`_`" oder Bindestriche "`-`" sein.
 
-**Inhaltsbereich** Um Ihre Suche weiter einzugrenzen, können Sie im Inhaltsbereich suchen. Hier können Sie nach mehr Informationen filtern als nur nach dem Namen des Modells. Im Inhaltsbereich finden Sie alle 3D-Dokumente, die mit einem Modell verknüpft wurden, auf der [Modellseite](https://support.catenda.com/en/articles/4670286-models-page). 3D-Dokumente, die nicht mit einem Dokument verknüpft wurden, finden Sie auf der [Dokumentseite](https://support.catenda.com/en/articles/8204673-documents-page).
+**Inhaltsbereich** Um Ihre Suche weiter einzugrenzen, können Sie im Inhaltsbereich suchen. Hier können Sie nach mehr Informationen filtern als nur nach dem Namen des Modells. Im Inhaltsbereich finden Sie alle 3D-Dokumente, die mit einem Modell verknüpft wurden, auf der [Modellseite](https://support.catenda.com/de/articles/4670286-models-page). 3D-Dokumente, die nicht mit einem Dokument verknüpft wurden, finden Sie auf der [Dokumentseite](https://support.catenda.com/de/articles/8204673-documents-page).
 
 ### 1.2 **3D-Dokumentliste**
 
-Sehen Sie die 10 relevantesten 3D-Dokumente. Die 3D-Dokumentliste wird nach der [typischen Sortierreihenfolge von Listen in Catenda](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) sortiert.
+Sehen Sie die 10 relevantesten 3D-Dokumente. Die 3D-Dokumentliste wird nach der [typischen Sortierreihenfolge von Listen in Catenda](https://support.catenda.com/de/articles/8487788-sorting-order-of-lists) sortiert.
 
-_Modelle -_ Standardmäßig angezeigt Alle [IFC-Dokumente](https://support.catenda.com/en/articles/5658031-ifc-support-in-documents) anzeigen, die mit einem Modell verknüpft wurden. Ihre Liste der verfügbaren Modelle basiert auf der Zugriffsberechtigung des Dokuments, das mit diesem Modell verknüpft ist.
+_Modelle -_ Standardmäßig angezeigt Alle [IFC-Dokumente](https://support.catenda.com/de/articles/5658031-ifc-support-in-documents) anzeigen, die mit einem Modell verknüpft wurden. Ihre Liste der verfügbaren Modelle basiert auf der Zugriffsberechtigung des Dokuments, das mit diesem Modell verknüpft ist.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/05-3d-document-list.png)
 
-_3D-Dokumente -_ Wird angezeigt, wenn geladen Laden Sie 3D-Dokumente von der Dokumentseite, um sie oben in der Liste anzuzeigen. Sehen Sie [hier](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c), welche Dokumentformate im 3D Viewer geladen werden können.
+_3D-Dokumente -_ Wird angezeigt, wenn geladen Laden Sie 3D-Dokumente von der Dokumentseite, um sie oben in der Liste anzuzeigen. Sehen Sie [hier](https://support.catenda.com/de/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c), welche Dokumentformate im 3D Viewer geladen werden können.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/06-3d-document-list.png)
 
@@ -50,11 +50,11 @@ _Mehr laden_ Um mehr Modelle zu laden, klicken Sie auf die Schaltfläche "Mehr l
 
 ### 1.3 **2D-Schaltfläche**
 
-Wenn die 2D-Schaltfläche grün ist, ist die 2D-Ansicht dieses Modells im [2D Viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) sichtbar und in den Speicher geladen. Wenn die Schaltfläche grau ist, ist die 2D-Ansicht dieses Modells nicht sichtbar und nicht in den Speicher geladen.
+Wenn die 2D-Schaltfläche grün ist, ist die 2D-Ansicht dieses Modells im [2D Viewer](https://support.catenda.com/de/articles/4854537-2d-viewer) sichtbar und in den Speicher geladen. Wenn die Schaltfläche grau ist, ist die 2D-Ansicht dieses Modells nicht sichtbar und nicht in den Speicher geladen.
 
 ### 1.4 **3D-Schaltfläche**
 
-Wenn die 3D-Schaltfläche angeklickt wird, wird sie grün. Die 3D-Ansicht dieses Dokuments ist dann im [3D Viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) verfügbar und wird in den Speicher geladen. Während die 3D-Schaltfläche grün ist, sind Modellobjekte, die zu diesem Modell gehören, im 3D Viewer verfügbar.
+Wenn die 3D-Schaltfläche angeklickt wird, wird sie grün. Die 3D-Ansicht dieses Dokuments ist dann im [3D Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer) verfügbar und wird in den Speicher geladen. Während die 3D-Schaltfläche grün ist, sind Modellobjekte, die zu diesem Modell gehören, im 3D Viewer verfügbar.
 
 > **Hinweis:** "Verfügbar" bedeutet nicht "sichtbar", da Objekte ausgeblendet und trotzdem verfügbar sein können.
 
@@ -84,7 +84,7 @@ Das Symbol jedes 3D-Dokumentdateityps. Nur für 3D-Dokumente verfügbar.
 
 ### 1.8 **Name**
 
-Bei Modellen wird der Modellname angezeigt. Bei Dokumenten wird der Dokumentname angezeigt. Die Dokumentenliste folgt der allgemeinen [Sortierreihenfolge von Listen](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) in Catenda.
+Bei Modellen wird der Modellname angezeigt. Bei Dokumenten wird der Dokumentname angezeigt. Die Dokumentenliste folgt der allgemeinen [Sortierreihenfolge von Listen](https://support.catenda.com/de/articles/8487788-sorting-order-of-lists) in Catenda.
 
 ### 1.9 **Modellrevision**
 
@@ -124,7 +124,7 @@ Punktwolken können im Revisions-Selector konfiguriert werden, indem Sie auf das
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/14-point-cloud-settings.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub), um mehr über die verschiedenen Möglichkeiten zur Konfiguration des 3D Viewers zum Anzeigen von Punktwolken zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/5606625-point-clouds-in-catenda-hub), um mehr über die verschiedenen Möglichkeiten zur Konfiguration des 3D Viewers zum Anzeigen von Punktwolken zu erfahren.
 
 ### 1.11 **Dokument entladen**
 
@@ -140,13 +140,13 @@ Es ist nur möglich, Modelle im 3D Viewer von einem Revisions-Selector-Menü auf
 
 ## 2. **Abfragen**
 
-Begrenzen Sie die Objekte, die Sie mit Objektabfragen in den 3D Viewer laden. Dies ermöglicht es Ihnen, Speicher zu sparen, wenn Sie hunderte von Modellen auf einmal laden, und den Objektbaum ordentlich zu halten. Klicken Sie [hier](https://support.catenda.com/en/articles/4854514-queries#h_b7e8a9a086), um mehr über Abfragen zu erfahren.
+Begrenzen Sie die Objekte, die Sie mit Objektabfragen in den 3D Viewer laden. Dies ermöglicht es Ihnen, Speicher zu sparen, wenn Sie hunderte von Modellen auf einmal laden, und den Objektbaum ordentlich zu halten. Klicken Sie [hier](https://support.catenda.com/de/articles/4854514-queries#h_b7e8a9a086), um mehr über Abfragen zu erfahren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/17-queries.png)
 
 ## 3. **Vergleichen**
 
-Im Vergleichsmenü können zwei Modellrevisionen ausgewählt werden, um sie überlagert zu werden. Klicken Sie [hier](https://support.catenda.com/en/articles/4670313-revision-selector-short-video), um sich ein kurzes Video anzusehen, in dem erläutert wird, wie Sie Modellrevisionen vergleichen.
+Im Vergleichsmenü können zwei Modellrevisionen ausgewählt werden, um sie überlagert zu werden. Klicken Sie [hier](https://support.catenda.com/de/articles/4670313-revision-selector-short-video), um sich ein kurzes Video anzusehen, in dem erläutert wird, wie Sie Modellrevisionen vergleichen.
 
 So könnte das Vergleichsmenü aussehen:
 

@@ -1,6 +1,6 @@
 # Aktivering av Catenda SharePoint-appen
 
-> **Merk:** Installfilen for programtillegget finner du i [denne artikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Merk:** Installfilen for programtillegget finner du i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-and-integrations).
 
 Catenda SharePoint-programmet kan aktiveres for et SharePoint-miljø av en systemadministrator og deretter legges til på et område av en områdenavtaler. Med denne appen vil SharePoint-brukere kunne vise, administrere og samarbeide om dokumenter i Catenda sammen med andre medlemmer av byggprosjektet.
 
@@ -114,4 +114,4 @@ For at appen skal legges til i Teams, må den først legges til på alle område
 
 ## 5. **Videre lesning**
 
-Se [her](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application) for informasjon om hvordan dette programmet fungerer etter at det er installert. Se [her](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq) for mer informasjon om hvordan dette programmet kan være nyttig.
+Se [her](https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-application) for informasjon om hvordan dette programmet fungerer etter at det er installert. Se [her](https://support.catenda.com/nb/articles/9419678-catenda-sharepoint-faq) for mer informasjon om hvordan dette programmet kan være nyttig.

@@ -14,7 +14,7 @@ Jeder Abschnitt verfügt über einen ausklappbaren Unterabschnitt, der Benutzern
 
 ## 2. **Unterstützung für IFC 4.3**
 
-Catenda Hub kann nun IFC 4.3-Dateien importieren und anzeigen, und Benutzer können bereits von neuen Funktionen im Zusammenhang mit diesem Format profitieren. Weitere Informationen finden Sie in unserem Artikel: [LINK](https://intercom.help/bimsync-arena/en/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c)
+Catenda Hub kann nun IFC 4.3-Dateien importieren und anzeigen, und Benutzer können bereits von neuen Funktionen im Zusammenhang mit diesem Format profitieren. Weitere Informationen finden Sie in unserem Artikel: [LINK](https://intercom.help/bimsync-arena/de/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c)
 
 ## 3. **Organisationen: Benutzer- und Projektmanagement - Portfolio-Toolset**
 
@@ -26,7 +26,7 @@ Im Abschnitt [Organisationen](http://bimsync.com/orgs) von Catenda Hub finden Si
 
 ## 4. **Neue Themen-Tabellenansicht**
 
-Wir haben die [Tabellenansicht](https://support.catenda.com/en/articles/6941099-table-view-in-an-issue-board) für Probleme aktualisiert. Benutzer können mehr Komponenten nach ihren Anforderungen anpassen und auch von einer Problemvorschau beim Auswählen in der Liste profitieren.
+Wir haben die [Tabellenansicht](https://support.catenda.com/de/articles/6941099-table-view-in-an-issue-board) für Probleme aktualisiert. Benutzer können mehr Komponenten nach ihren Anforderungen anpassen und auch von einer Problemvorschau beim Auswählen in der Liste profitieren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jah4q53q/04-new-topics-table-view.png)
 
@@ -42,4 +42,4 @@ Die Matching-Engine vergibt eine Bewertung für die Zuordnung und schlägt das h
 
 ## 6. **Namenskonvention**
 
-Sie werden eine neue Funktion entdecken, die im Abschnitt Dokumente sichtbar ist und [Namenskonvention](https://support.catenda.com/en/articles/7832559-naming-convention) genannt wird. Dies ist ein Work In Progress und wird als neue Funktion im Q4 2023 bereitgestellt. Bitte kontaktieren Sie uns, um eine Demo und eventuell eine Testversion zu erhalten. Verwenden Sie dazu die Chat-Schaltfläche in Catenda Hub.
+Sie werden eine neue Funktion entdecken, die im Abschnitt Dokumente sichtbar ist und [Namenskonvention](https://support.catenda.com/de/articles/7832559-naming-convention) genannt wird. Dies ist ein Work In Progress und wird als neue Funktion im Q4 2023 bereitgestellt. Bitte kontaktieren Sie uns, um eine Demo und eventuell eine Testversion zu erhalten. Verwenden Sie dazu die Chat-Schaltfläche in Catenda Hub.

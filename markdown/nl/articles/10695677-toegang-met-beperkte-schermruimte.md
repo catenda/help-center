@@ -4,14 +4,14 @@ Bij beperkte schermgrootte kunnen enkele functies op een gebruiksvriendelijke ma
 
 ## 1. **Catenda Site -** Toegankelijk en offline
 
-Op apparaten met beperkte schermgrootte moeten knoppen groter zijn zodat u ziet wat u met uw vinger aanraakt. In deze situatie is onze mobiele app, [Catenda Site](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site), het beste gereedschap voor u.
+Op apparaten met beperkte schermgrootte moeten knoppen groter zijn zodat u ziet wat u met uw vinger aanraakt. In deze situatie is onze mobiele app, [Catenda Site](https://support.catenda.com/nl/articles/6530821-download-your-mobile-app-catenda-site), het beste gereedschap voor u.
 
 - Functionaliteit is beperkt en eenvoudig gehouden zodat u de knoppen die u nodig hebt gemakkelijk kunt aanraken.
 - Inhoud kan worden gedownload en verzonden zonder internetverbinding
 
 ## 2. **Startscherm / Dashboard / Dock -** Volledige functionaliteit
 
-De volledige functionaliteit van Catenda Hub is altijd beschikbaar via de browser. Catenda ondersteunt het [toevoegen aan het startscherm](https://support.catenda.com/en/articles/10741601-add-to-home-screen), Dashboard of dock door het via een browser te installeren. Catenda via een browser installeren in plaats van een snelkoppeling maken, biedt de volgende voordelen:
+De volledige functionaliteit van Catenda Hub is altijd beschikbaar via de browser. Catenda ondersteunt het [toevoegen aan het startscherm](https://support.catenda.com/nl/articles/10741601-add-to-home-screen), Dashboard of dock door het via een browser te installeren. Catenda via een browser installeren in plaats van een snelkoppeling maken, biedt de volgende voordelen:
 
 - Catenda is meer toegankelijk omdat dit vaak de kernmanier is waarop inhoud op mobiele apparaten wordt geopend.
 - Schermruimte wordt bespaard omdat de browserbalk aan de bovenkant verborgen wordt.

@@ -1,6 +1,6 @@
 # Desktop Connector - nicht alle Ordner heruntergeladen
 
-In diesem Artikel finden Sie Informationen zu einem bestimmten Fehler, der bei der Verwendung des [Catenda Desktop Connectors](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) auftreten kann. Weitere Probleme bei der Fehlerbehebung des Desktop Connectors finden Sie [hier](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false).
+In diesem Artikel finden Sie Informationen zu einem bestimmten Fehler, der bei der Verwendung des [Catenda Desktop Connectors](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) auftreten kann. Weitere Probleme bei der Fehlerbehebung des Desktop Connectors finden Sie [hier](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false).
 
 In der Aufgabe selbst kann Folgendes angezeigt werden:
 

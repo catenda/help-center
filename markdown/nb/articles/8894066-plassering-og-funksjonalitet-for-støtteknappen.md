@@ -28,7 +28,7 @@ Klikk her for å begynne å søke gjennom hjelpesidene. Som standard søker det 
 
 ### 1.4 **Anbefalte sider**
 
-Under søkelinjen finner du følgende anbefalte sider: Brukerhåndbøker på ulike språk [Maskinvareanbefalinger](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Sammendrag av viktigste snarveier og grunnleggende kontroller](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls) [Siste endringslogg](https://support.catenda.com/en/collections/2683918-recent-updates)
+Under søkelinjen finner du følgende anbefalte sider: Brukerhåndbøker på ulike språk [Maskinvareanbefalinger](https://support.catenda.com/nb/articles/6921941-hardware-recommendation) [Sammendrag av viktigste snarveier og grunnleggende kontroller](https://support.catenda.com/nb/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls) [Siste endringslogg](https://support.catenda.com/nb/collections/2683918-recent-updates)
 
 ### 1.5 **Status**
 

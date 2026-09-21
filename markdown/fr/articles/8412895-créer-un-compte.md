@@ -4,11 +4,11 @@ Lorsque vous accédez à [hub.catenda.com/signup](http://hub.catenda.com/signup)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/thng6w36/01-intro.png)
 
-Si vous créez un compte, vous ne serez pas automatiquement membre d'un projet. Pour rejoindre le projet de quelqu'un d'autre, vous devrez accepter un [lien d'invitation](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project). Si vous avez suivi un lien d'invitation et qu'on vous a demandé de créer un compte, ce nouveau compte aura automatiquement accepté l'invitation.
+Si vous créez un compte, vous ne serez pas automatiquement membre d'un projet. Pour rejoindre le projet de quelqu'un d'autre, vous devrez accepter un [lien d'invitation](https://support.catenda.com/fr/articles/4670246-accepting-an-invitation-to-join-a-project). Si vous avez suivi un lien d'invitation et qu'on vous a demandé de créer un compte, ce nouveau compte aura automatiquement accepté l'invitation.
 
 ## 1. **Étape 1 sur 4 - Créer un compte gratuit**
 
-Ici, vous pouvez entrer votre adresse e-mail et votre mot de passe pour créer un compte gratuit. Une fois connecté avec succès, vous serez redirigé vers la [page des projets](https://support.catenda.com/en/articles/4670260-projects-page).
+Ici, vous pouvez entrer votre adresse e-mail et votre mot de passe pour créer un compte gratuit. Une fois connecté avec succès, vous serez redirigé vers la [page des projets](https://support.catenda.com/fr/articles/4670260-projects-page).
 
 ### 1.1 **Compte existant**
 
@@ -20,7 +20,7 @@ La [page de vérification des e-mails](https://hub.catenda.com/signup/verify-ema
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/thng6w36/02-step-2-of-4-verify-your-email.png)
 
-Après avoir enregistré votre adresse e-mail auprès de nous, nous tenterons de vous envoyer un e-mail pour vérifier que votre adresse e-mail existe et peut recevoir des e-mails de notre part. Sans vérifier votre adresse e-mail, vous ne recevrez de nous que des e-mails contenant des liens publics, tels que les invitations de projet et les collections ou signets partagés publiquement. Veuillez vérifier votre adresse e-mail pour recevoir toute autre notification. Si vous ne recevez pas l'e-mail de vérification, veuillez consulter [cet](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) article pour connaître les raisons possibles pour lesquelles l'e-mail de vérification n'arrive pas et comment les résoudre.
+Après avoir enregistré votre adresse e-mail auprès de nous, nous tenterons de vous envoyer un e-mail pour vérifier que votre adresse e-mail existe et peut recevoir des e-mails de notre part. Sans vérifier votre adresse e-mail, vous ne recevrez de nous que des e-mails contenant des liens publics, tels que les invitations de projet et les collections ou signets partagés publiquement. Veuillez vérifier votre adresse e-mail pour recevoir toute autre notification. Si vous ne recevez pas l'e-mail de vérification, veuillez consulter [cet](https://support.catenda.com/fr/articles/8417802-why-am-i-not-receiving-emails) article pour connaître les raisons possibles pour lesquelles l'e-mail de vérification n'arrive pas et comment les résoudre.
 
 ### 2.1 **Lien de vérification**
 
@@ -38,11 +38,11 @@ Si un compte avec cette adresse e-mail existe déjà dans notre système, vous s
 
 ### 3.1 **Prénom et nom**
 
-Veuillez remplir les champs prénom et nom. Votre nom d'utilisateur sera votre prénom et votre nom séparés par un espace. Vous pourrez modifier votre nom d'utilisateur ultérieurement dans les [préférences du compte](https://support.catenda.com/en/articles/6880968-account-page).
+Veuillez remplir les champs prénom et nom. Votre nom d'utilisateur sera votre prénom et votre nom séparés par un espace. Vous pourrez modifier votre nom d'utilisateur ultérieurement dans les [préférences du compte](https://support.catenda.com/fr/articles/6880968-account-page).
 
 ### 3.2 **Mot de passe et confirmation du mot de passe**
 
-Champs Mot de passe et Confirmer le mot de passe. Vous pourrez modifier votre mot de passe ultérieurement dans les [paramètres d'authentification](https://support.catenda.com/en/articles/6880968-account-page). Cliquez [ici](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) pour dépanner les problèmes de mot de passe.
+Champs Mot de passe et Confirmer le mot de passe. Vous pourrez modifier votre mot de passe ultérieurement dans les [paramètres d'authentification](https://support.catenda.com/fr/articles/6880968-account-page). Cliquez [ici](https://support.catenda.com/fr/articles/10798891-sign-in-and-passwords) pour dépanner les problèmes de mot de passe.
 
 ### 3.3 **Conditions de service**
 
@@ -76,4 +76,4 @@ Après avoir rempli le questionnaire, vous verrez que le bouton Continuer est mi
 
 > **Remarque :** Les options du questionnaire n'ont aucun effet sur votre expérience Catenda.
 
-Cliquez sur le bouton « Continuer » pour être redirigé vers la [page des projets](https://support.catenda.com/en/articles/8400797-projects-page).
+Cliquez sur le bouton « Continuer » pour être redirigé vers la [page des projets](https://support.catenda.com/fr/articles/8400797-projects-page).

@@ -1,6 +1,6 @@
 # Erstellen einer neuen Genehmigungsanforderung
 
-Die neue Genehmigungsanforderungsaktion ist für Projekte verfügbar, bei denen geteilte Überarbeitungen nach dem 2. Oktober 2025 aktiviert wurden. Klicken Sie auf das Aktionsmenü rechts neben der grünen Schaltfläche "Plus" auf der [Genehmigungsseite](https://support.catenda.com/en/articles/8349340-approvals-page), um eine neue Genehmigungsanforderung zu erstellen. Klicken Sie auf die Schaltfläche "Neue Genehmigungsanforderung" im Genehmigungsmenü des rechten Menüs einer Überarbeitung auf der Dokumentenseite, wenn die neueste Überarbeitung eine geteilte Überarbeitung ist, um eine neue Genehmigungsanforderung zu erstellen. So könnte der Dialog "Neue Genehmigungsanforderung erstellen" aussehen:
+Die neue Genehmigungsanforderungsaktion ist für Projekte verfügbar, bei denen geteilte Überarbeitungen nach dem 2. Oktober 2025 aktiviert wurden. Klicken Sie auf das Aktionsmenü rechts neben der grünen Schaltfläche "Plus" auf der [Genehmigungsseite](https://support.catenda.com/de/articles/8349340-approvals-page), um eine neue Genehmigungsanforderung zu erstellen. Klicken Sie auf die Schaltfläche "Neue Genehmigungsanforderung" im Genehmigungsmenü des rechten Menüs einer Überarbeitung auf der Dokumentenseite, wenn die neueste Überarbeitung eine geteilte Überarbeitung ist, um eine neue Genehmigungsanforderung zu erstellen. So könnte der Dialog "Neue Genehmigungsanforderung erstellen" aussehen:
 
 ![New approval request Workflow Submitter Title Description (optional) Documents for review add documents name revision # Revision number Status Remove Cancel Save as draft Submit for review](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
@@ -46,13 +46,13 @@ Der neue Validierungs-Workflow ist eine On-Demand-Funktion, die beim Start eines
 
 ### 2.1 **Beschreibung**
 
-Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/en/articles/8430847-formatting-of-posts). Die Beschreibung kann später korrigiert werden, sowohl während die Anfrage noch ein Entwurf ist, als auch nachdem sie eingereicht wurde.
+Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/de/articles/8430847-formatting-of-posts). Die Beschreibung kann später korrigiert werden, sowohl während die Anfrage noch ein Entwurf ist, als auch nachdem sie eingereicht wurde.
 
 ### 2.2 **Dokumente hinzufügen**
 
 ![Description (optional) documents for review add documents](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/06-add-documents.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/12382093-add-revision-to-approval), um mehr über das Hinzufügen von geteilten Überarbeitungen aus Dokumenten zu einer Genehmigungsanforderung zu erfahren. Obwohl es möglich ist, hier eine unbegrenzte Anzahl von Dokumenten hinzuzufügen, beträgt die Grenze für die Einreichung der Genehmigungsanforderung zur Überprüfung 1000 Dokumente.
+Klicken Sie [hier](https://support.catenda.com/de/articles/12382093-add-revision-to-approval), um mehr über das Hinzufügen von geteilten Überarbeitungen aus Dokumenten zu einer Genehmigungsanforderung zu erfahren. Obwohl es möglich ist, hier eine unbegrenzte Anzahl von Dokumenten hinzuzufügen, beträgt die Grenze für die Einreichung der Genehmigungsanforderung zur Überprüfung 1000 Dokumente.
 
 ### 2.3 **Tabelle "Dokumente zur Überprüfung"**
 

@@ -1,6 +1,6 @@
 # Pagina met inhoud van aangepast veld
 
-U kunt de pagina van een aangepast veld vinden door op het respectieve veld te klikken op de [pagina met aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page) die u kunt vinden als subpagina van de [projectinstellingenpagina](https://support.catenda.com/en/articles/4670273-project-settings-page).
+U kunt de pagina van een aangepast veld vinden door op het respectieve veld te klikken op de [pagina met aangepaste velden](https://support.catenda.com/nl/articles/6550459-custom-fields-page) die u kunt vinden als subpagina van de [projectinstellingenpagina](https://support.catenda.com/nl/articles/4670273-project-settings-page).
 
 Door een aangepast veld aan te maken kunt u het toevoegen aan een issue board. Problemen op dit bord krijgen dan een nieuw veld in de header. U kunt ook een kolom zien in de tabelweergave van het issue board en u kunt filteren op deze velden.
 
@@ -10,7 +10,7 @@ Beheerders kunnen actiebuttonen vinden in de rechterbovenhoek van de inhouds pag
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/01-new-item-action-menu.png)
 
-_Nieuw aangepast veld_ Klik op de groene plusknop rechtsboven of op de actie Nieuw aangepast veld in het actiemenu om een [nieuw aangepast veld](https://support.catenda.com/en/articles/8445575-creating-a-custom-field) aan te maken
+_Nieuw aangepast veld_ Klik op de groene plusknop rechtsboven of op de actie Nieuw aangepast veld in het actiemenu om een [nieuw aangepast veld](https://support.catenda.com/nl/articles/8445575-creating-a-custom-field) aan te maken
 
 **Archiveren** Open het actiemenu met de drie puntjes rechtsboven om de actie Archiveren rechtsboven te vinden. Het is alleen mogelijk om een aangepast veld te archiveren. Het is niet mogelijk om een aangepast veld te verwijderen.
 
@@ -66,9 +66,9 @@ In de actieve lijst vindt u de dropdownopties die momenteel actief zijn.
 
 _Anker_ Beheerders kunnen de volgorde van de opties configureren door in de meest linkse kolom op het anker te slepen.
 
-**Naam** Hier zien gebruikers de naam van een dropdownoptie. Als het dropdownveld is [toegevoegd aan een topic board](https://support.catenda.com/en/articles/6563368-custom-fields-in-a-topic-board) ziet u deze naam als optie in de lijst. Een naam kan slechts aan één optie worden toegewezen.
+**Naam** Hier zien gebruikers de naam van een dropdownoptie. Als het dropdownveld is [toegevoegd aan een topic board](https://support.catenda.com/nl/articles/6563368-custom-fields-in-a-topic-board) ziet u deze naam als optie in de lijst. Een naam kan slechts aan één optie worden toegewezen.
 
-**Code** Hier zien gebruikers de code van een dropdownoptie. De code wordt gebruikt om [een blok met een naamconventie te identificeren](https://support.catenda.com/en/articles/7869240-how-to-use-custom-fields-in-naming-convention). Een code kan slechts aan één optie worden toegewezen.
+**Code** Hier zien gebruikers de code van een dropdownoptie. De code wordt gebruikt om [een blok met een naamconventie te identificeren](https://support.catenda.com/nl/articles/7869240-how-to-use-custom-fields-in-naming-convention). Een code kan slechts aan één optie worden toegewezen.
 
 **Bewerken en uitschakelen** Beheerders kunnen de naam van een optie na aanmaak bewerken. Als het veld nog geen code heeft, is het mogelijk om een code toe te voegen. Klik na bewerking op opslaan of annuleren om te bevestigen.
 
@@ -92,9 +92,9 @@ Nadat u op opties toevoegen hebt geklikt, ziet u het volgende dialoogvenster:
 
 _Naam_ Hier kunt u voor elke dropdownoptie een naam en een code toevoegen.
 
-**Code** De code wordt gebruikt om [een blok met een naamconventie te identificeren](https://support.catenda.com/en/articles/7869240-how-to-use-custom-fields-in-naming-convention). Code is een unieke waarde die u op een item kunt instellen. Dit betekent dat u dezelfde code niet twee keer kunt toevoegen.
+**Code** De code wordt gebruikt om [een blok met een naamconventie te identificeren](https://support.catenda.com/nl/articles/7869240-how-to-use-custom-fields-in-naming-convention). Code is een unieke waarde die u op een item kunt instellen. Dit betekent dat u dezelfde code niet twee keer kunt toevoegen.
 
-**Probleemoplossing Naam en Code** Klik [hier](https://support.catenda.com/en/articles/13750419-custom-field-content-troubleshooting) voor meer informatie als u problemen ondervindt met de naam en code.
+**Probleemoplossing Naam en Code** Klik [hier](https://support.catenda.com/nl/articles/13750419-custom-field-content-troubleshooting) voor meer informatie als u problemen ondervindt met de naam en code.
 
 ### 4.6 **Meerdere opties toevoegen**
 

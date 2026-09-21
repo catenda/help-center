@@ -4,7 +4,7 @@ Hallo zusammen,
 
 Ich hoffe, ihr bereitet euch alle auf die Winterferien vor. In den letzten paar Monaten haben wir hart gearbeitet, während es draußen immer kälter geworden ist! ❄️⛄☃️🥶🧊🎿⛸️🏒⛷️🏂🏔️🌨️ In diesem Artikel findet ihr Updates zu Folgendem:
 
-_[Artikel](https://support.catenda.com/en/articles/9285880-changelog-6-catenda-august-2024#h_a8cc7b1921) - [Behobene Fehler](https://support.catenda.com/en/articles/9285880-changelog-6-catenda-august-2024#h_58dfb1b852) - [Umgesetzte Nutzeranfragen](https://support.catenda.com/en/articles/9285880-changelog-6-catenda-august-2024#h_5ed2c6f14d) - [Neue Versionen](https://support.catenda.com/en/articles/9285880-changelog-6-catenda-august-2024#h_25203946b2)_
+_[Artikel](https://support.catenda.com/de/articles/9285880-changelog-6-catenda-august-2024#h_a8cc7b1921) - [Behobene Fehler](https://support.catenda.com/de/articles/9285880-changelog-6-catenda-august-2024#h_58dfb1b852) - [Umgesetzte Nutzeranfragen](https://support.catenda.com/de/articles/9285880-changelog-6-catenda-august-2024#h_5ed2c6f14d) - [Neue Versionen](https://support.catenda.com/de/articles/9285880-changelog-6-catenda-august-2024#h_25203946b2)_
 
 ## 1. **Artikel**
 
@@ -12,51 +12,51 @@ Da neue Funktionen eingeführt und Fehler behoben werden, werden Artikel mit den
 
 ### 1.1 **Neue Artikel:**
 
-**Erste Schritte und FAQ** [Dokumentenverwaltung in Catenda Hub](https://support.catenda.com/en/articles/9775623-document-management-in-catenda-hub) [Benutzerhandbuch - Status-Workflow (ISO 19650)](https://support.catenda.com/en/articles/9874698-user-guide-status-workflow-iso-19650) [Anmerkungen mit Markierungen im Blick behalten](https://support.catenda.com/en/articles/10210710-keep-track-of-annotations-with-markups)
+**Erste Schritte und FAQ** [Dokumentenverwaltung in Catenda Hub](https://support.catenda.com/de/articles/9775623-document-management-in-catenda-hub) [Benutzerhandbuch - Status-Workflow (ISO 19650)](https://support.catenda.com/de/articles/9874698-user-guide-status-workflow-iso-19650) [Anmerkungen mit Markierungen im Blick behalten](https://support.catenda.com/de/articles/10210710-keep-track-of-annotations-with-markups)
 
-_Aktuelle Updates_ [Status-Workflow🖥️Freigegeben ->✔️Veröffentlicht](https://support.catenda.com/en/articles/9662473-status-workflow-shared-published)
+_Aktuelle Updates_ [Status-Workflow🖥️Freigegeben ->✔️Veröffentlicht](https://support.catenda.com/de/articles/9662473-status-workflow-shared-published)
 
-**Videotutorials** [Sharepoint-Bibliothek - Kurzvideo](https://support.catenda.com/en/articles/9800091-sharepoint-library-short-video)
+**Videotutorials** [Sharepoint-Bibliothek - Kurzvideo](https://support.catenda.com/de/articles/9800091-sharepoint-library-short-video)
 
-**Themen** [Themen als PDF exportieren](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
+**Themen** [Themen als PDF exportieren](https://support.catenda.com/de/articles/9784934-exporting-topics-to-pdf)
 
-**Dokumente** [Rechtes Menü einer Revision - Markierungen](https://support.catenda.com/en/articles/10205725-right-menu-of-a-revision-markups) [Markierung speichern](https://support.catenda.com/en/articles/10209740-saving-a-markup)
+**Dokumente** [Rechtes Menü einer Revision - Markierungen](https://support.catenda.com/de/articles/10205725-right-menu-of-a-revision-markups) [Markierung speichern](https://support.catenda.com/de/articles/10209740-saving-a-markup)
 
-**Projekteinstellungen** [Neue Etiketten erstellen](https://support.catenda.com/en/articles/8626709-create-new-labels)
+**Projekteinstellungen** [Neue Etiketten erstellen](https://support.catenda.com/de/articles/8626709-create-new-labels)
 
-**Plugins und Integrationen** [Revit-Changelog - 1.0.11](https://support.catenda.com/en/articles/9966204-revit-changelog-1-0-11)
+**Plugins und Integrationen** [Revit-Changelog - 1.0.11](https://support.catenda.com/de/articles/9966204-revit-changelog-1-0-11)
 
 ### 1.2 **Geänderte Artikel:**
 
-**Erste Schritte** [Filter speichern](https://support.catenda.com/en/articles/8551755-saving-filters) [Hardwareempfehlungen](https://support.catenda.com/en/articles/6921941-hardware-recommendation)
+**Erste Schritte** [Filter speichern](https://support.catenda.com/de/articles/8551755-saving-filters) [Hardwareempfehlungen](https://support.catenda.com/de/articles/6921941-hardware-recommendation)
 
-**Häufig gestellte Fragen** [Dateivorschau in Catenda Hub](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub) [Wie kann ich ein Mitglied einladen?](https://support.catenda.com/en/articles/4670319-how-can-i-invite-a-member) [Sortierreihenfolge von Listen](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) [Seiten ohne Zugriff](https://support.catenda.com/en/articles/9172624-no-access-pages)
+**Häufig gestellte Fragen** [Dateivorschau in Catenda Hub](https://support.catenda.com/de/articles/4670320-previewing-file-types-on-catenda-hub) [Wie kann ich ein Mitglied einladen?](https://support.catenda.com/de/articles/4670319-how-can-i-invite-a-member) [Sortierreihenfolge von Listen](https://support.catenda.com/de/articles/8487788-sorting-order-of-lists) [Seiten ohne Zugriff](https://support.catenda.com/de/articles/9172624-no-access-pages)
 
-**Hauptseite** [Multi-Faktor-Authentifizierung](https://support.catenda.com/en/articles/4969891-multi-factor-authentication) [Benachrichtigungsfilterung und Funktionalität](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality) [Landingpage](https://support.catenda.com/en/articles/4670260-landing-page) [Projektseite](https://support.catenda.com/en/articles/8400797-projects-page) [Benutzer ohne E-Mail-Einladung hinzufügen](https://support.catenda.com/en/articles/8434846-adding-users-without-an-email-invitation) [Bevorzugte Sprache ändern](https://support.catenda.com/en/articles/4670248-changing-to-your-preferred-language)
+**Hauptseite** [Multi-Faktor-Authentifizierung](https://support.catenda.com/de/articles/4969891-multi-factor-authentication) [Benachrichtigungsfilterung und Funktionalität](https://support.catenda.com/de/articles/8304417-notification-filtering-and-functionality) [Landingpage](https://support.catenda.com/de/articles/4670260-landing-page) [Projektseite](https://support.catenda.com/de/articles/8400797-projects-page) [Benutzer ohne E-Mail-Einladung hinzufügen](https://support.catenda.com/de/articles/8434846-adding-users-without-an-email-invitation) [Bevorzugte Sprache ändern](https://support.catenda.com/de/articles/4670248-changing-to-your-preferred-language)
 
-**Dashboard** [Dashboard-Seite](https://support.catenda.com/en/articles/8212646-dashboard-page)
+**Dashboard** [Dashboard-Seite](https://support.catenda.com/de/articles/8212646-dashboard-page)
 
-**Modelle** [2D-Viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) [Lesezeichen](https://support.catenda.com/en/articles/4670271-topics-page)
+**Modelle** [2D-Viewer](https://support.catenda.com/de/articles/4854537-2d-viewer) [Lesezeichen](https://support.catenda.com/de/articles/4670271-topics-page)
 
-**Themen** [Rechtes Menü auf einem Themen-Board](https://support.catenda.com/en/articles/6941224-right-menu-in-a-topic-board) [Themenseite](https://support.catenda.com/en/articles/4670271-topics-page) [Aktionen in einem Themen-Board](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board) [Themen austauschen](https://support.catenda.com/en/articles/4670289-exchange-topics) [Themeninhalt - Der Inhalt eines Themas](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
+**Themen** [Rechtes Menü auf einem Themen-Board](https://support.catenda.com/de/articles/6941224-right-menu-in-a-topic-board) [Themenseite](https://support.catenda.com/de/articles/4670271-topics-page) [Aktionen in einem Themen-Board](https://support.catenda.com/de/articles/4670284-actions-in-a-topic-board) [Themen austauschen](https://support.catenda.com/de/articles/4670289-exchange-topics) [Themeninhalt - Der Inhalt eines Themas](https://support.catenda.com/de/articles/8053352-topic-body-the-content-of-a-topic)
 
-**Dokumente** [Dokumentenvorschau und Anmerkungen](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) [Spalten auf der Dokumentenseite](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) [Dokumentenseite](https://support.catenda.com/en/articles/8204673-documents-page) [Dokumente strukturieren](https://support.catenda.com/en/articles/8542598-structuring-documents) [QR-Code auf PDFs in Catenda](https://support.catenda.com/en/articles/9360508-qr-code-on-pdfs-in-catenda) [Rechtes Menü auf der Dokumentenseite](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page) [Rechtes Menü einer Revision](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision) [Ordner und Dokumente ACL](https://support.catenda.com/en/articles/4670287-folders-and-documents-acl) [Sammlungsseite](https://support.catenda.com/en/articles/8999764-collection-page)
+**Dokumente** [Dokumentenvorschau und Anmerkungen](https://support.catenda.com/de/articles/5001165-document-preview-and-annotations) [Spalten auf der Dokumentenseite](https://support.catenda.com/de/articles/8466850-columns-on-the-documents-page) [Dokumentenseite](https://support.catenda.com/de/articles/8204673-documents-page) [Dokumente strukturieren](https://support.catenda.com/de/articles/8542598-structuring-documents) [QR-Code auf PDFs in Catenda](https://support.catenda.com/de/articles/9360508-qr-code-on-pdfs-in-catenda) [Rechtes Menü auf der Dokumentenseite](https://support.catenda.com/de/articles/8345396-right-menu-on-the-documents-page) [Rechtes Menü einer Revision](https://support.catenda.com/de/articles/8302244-right-menu-of-a-revision) [Ordner und Dokumente ACL](https://support.catenda.com/de/articles/4670287-folders-and-documents-acl) [Sammlungsseite](https://support.catenda.com/de/articles/8999764-collection-page)
 
-**Bibliotheken** [Bibliotheksseite](https://support.catenda.com/en/articles/8065645-libraries-page) [Sharepoint-Bibliothek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
+**Bibliotheken** [Bibliotheksseite](https://support.catenda.com/de/articles/8065645-libraries-page) [Sharepoint-Bibliothek](https://support.catenda.com/de/articles/5744548-sharepoint-library)
 
-**Projektbenachrichtigungen** [Projektbenachrichtigungseinstellungen](https://support.catenda.com/en/articles/4670262-project-specific-notification-settings)
+**Projektbenachrichtigungen** [Projektbenachrichtigungseinstellungen](https://support.catenda.com/de/articles/4670262-project-specific-notification-settings)
 
-**Projekteinstellungen** [Seite Mitglieder einladen](https://support.catenda.com/en/articles/4670263-invite-members-page) [Projekteinstellungsseite](https://support.catenda.com/en/articles/4670273-project-settings-page)
+**Projekteinstellungen** [Seite Mitglieder einladen](https://support.catenda.com/de/articles/4670263-invite-members-page) [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-project-settings-page)
 
-**2D- & 3D-Viewer** [Mengenermittlung (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
+**2D- & 3D-Viewer** [Mengenermittlung (QTO)](https://support.catenda.com/de/articles/6673929-quantity-take-off-qto)
 
-_Informationspanel_ [Inspektionsmenü](https://support.catenda.com/en/articles/4670285-inspect-menu) [Informationspanel](https://support.catenda.com/en/articles/8238584-information-panel)
+_Informationspanel_ [Inspektionsmenü](https://support.catenda.com/de/articles/4670285-inspect-menu) [Informationspanel](https://support.catenda.com/de/articles/8238584-information-panel)
 
 **Einstellungen**
 
-**Plugins und Integrationen** [Revit-IFC-Exporthandbuch](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual) [IFC-Exporthandbuch für Archicad](https://IFC%20Export%20Archicad%20Manual)
+**Plugins und Integrationen** [Revit-IFC-Exporthandbuch](https://support.catenda.com/de/articles/4670341-revit-ifc-export-manual) [IFC-Exporthandbuch für Archicad](https://IFC%20Export%20Archicad%20Manual)
 
-**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/nb/articles/9930034-catenda-site-changelog-3-5-0) [Dokumente-Menü - Catenda Site](https://support.catenda.com/en/articles/7774637-documents-menu-catenda-site) [Dateivorschau auf Catenda Site](https://support.catenda.com/en/articles/8975421-previewing-file-types-on-catenda-site)
+**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/de/articles/9930034-catenda-site-changelog-3-5-0) [Dokumente-Menü - Catenda Site](https://support.catenda.com/de/articles/7774637-documents-menu-catenda-site) [Dateivorschau auf Catenda Site](https://support.catenda.com/de/articles/8975421-previewing-file-types-on-catenda-site)
 
 ## 2. **Behobene Fehler**
 
@@ -102,7 +102,7 @@ Dank eures wertvollen Feedbacks konnten wir viele Probleme beheben, die euch vie
 
 - Beim Hinzufügen von Dokumenten zu Sammlungen ist es jetzt möglich, ein Kontrollkästchen oben zu aktivieren, um alle Dokumente in einem Ordner auszuwählen und sie zu einer Sammlung hinzuzufügen.
 - Zusätzlich ist es jetzt auch möglich, auszuwählen, welche Revision eines Dokuments du zu einer Sammlung hinzufügen möchtest, damit die richtige angezeigt wird, wenn du die Sammlung auf Dokumentrevisionen fixierst, anstatt der neuesten Revision zu folgen.
-- Benutzer mit vollständigem Zugriff auf ein Dokument können jetzt eine [Revision](https://support.catenda.com/en/articles/9711174-withdraw-revision) eines Dokuments und damit auch eines Modells zurückziehen, wenn es sich um ein IFC-Dokument handelt.
+- Benutzer mit vollständigem Zugriff auf ein Dokument können jetzt eine [Revision](https://support.catenda.com/de/articles/9711174-withdraw-revision) eines Dokuments und damit auch eines Modells zurückziehen, wenn es sich um ein IFC-Dokument handelt.
 - Es ist nun möglich, ein benutzerdefiniertes Logo zu den Themenberichten hinzuzufügen, die in PDF exportiert werden.<br>Die Logo-Einstellungen finden Sie auf der Projektseite.
 - Du kannst dein Projekt jetzt in einen veröffentlichten Bereich und einen freigegebenen Bereich aufteilen, damit du verschiedenen Personen Zugriff auf einen öffentlichen Teil und einen freigegebenen Teil gewähren kannst, in dem Dokumente noch zur Veröffentlichung vorbereitet werden. (Bitte frage, um dies in deinem Projekt zu aktivieren) Nur die veröffentlichten Dokumente sind in Catenda Site sichtbar
 

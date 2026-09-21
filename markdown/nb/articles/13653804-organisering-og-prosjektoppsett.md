@@ -14,7 +14,7 @@ De som ikke har tilgang til å opprette prosjekter, må be Catenda-kontaktperson
 
 Når en prosjektavtale blir kansellert, blir en utløpsdato konfigurert for prosjektet i henhold til oppsigelsesperioden. Etter avslutningen av den aktive perioden for et prosjekt eller ved utløpet av et prosjekt, påtar Catenda seg ikke noen forpliktelse til å vedlikeholde eller lagre prosjektinformasjon.
 
-For å optimalisere en organisasjons konfigurasjon for aktivt arbeid, kan prosjekter som ikke lenger er aktive, fjernes av eieren. Brukere oppfordres til å sikre kritiske data i sine egne lagringslølninger før et prosjekt slettes. Etter avslutningen av den aktive perioden for et prosjekt, er det ingen forpliktelse til å vedlikeholde eller lagre informasjon på Catenda-servere. Det er organisasjonen eller prosjekteierens ansvar å administrere eventuelle dataeksporter eller sikkerhetskopier de anser som nødvendige før utløpet. Når et prosjekt har nådd sin utløpsdato eller blir slettet, er prosjektinformasjon ikke lenger garantert å bli værende på serverne. Klikk [her](https://support.catenda.com/en/articles/7946690-exporting-all-project-data) for å lese mer om eksportering av all prosjektinformasjon.
+For å optimalisere en organisasjons konfigurasjon for aktivt arbeid, kan prosjekter som ikke lenger er aktive, fjernes av eieren. Brukere oppfordres til å sikre kritiske data i sine egne lagringslølninger før et prosjekt slettes. Etter avslutningen av den aktive perioden for et prosjekt, er det ingen forpliktelse til å vedlikeholde eller lagre informasjon på Catenda-servere. Det er organisasjonen eller prosjekteierens ansvar å administrere eventuelle dataeksporter eller sikkerhetskopier de anser som nødvendige før utløpet. Når et prosjekt har nådd sin utløpsdato eller blir slettet, er prosjektinformasjon ikke lenger garantert å bli værende på serverne. Klikk [her](https://support.catenda.com/nb/articles/7946690-exporting-all-project-data) for å lese mer om eksportering av all prosjektinformasjon.
 
 ### 1.3 **Datahåndtering**
 
@@ -36,7 +36,7 @@ Avhengig av den spesifikke konfigurasjonen av plattformorganisasjonen, kan prosj
 
 ### 2.2 **Prosjekttilgang**
 
-Avhengig av organisasjonens konfigurasjon kan eiere ha muligheten til å administrere prosjekttilgjengelighet og overganger mellom ulike organisasjonstyper. For å optimalisere det aktive arbeidsområdet innenfor en organisasjons konfigurasjon, kan prosjekter som har avsluttet sin primære arbeidsflyt, fjernes. Etter at et prosjekt blir slettet, kan vi ikke lenger garantere at prosjektinformasjonen blir værende på serverne våre. Før du sletter prosjektet, kan dataene sikkerhetskopieres til kundens lagringslølning. Klikk [her](https://support.catenda.com/en/articles/7946690-exporting-all-project-data) for å lese mer om eksportering av all prosjektinformasjon.
+Avhengig av organisasjonens konfigurasjon kan eiere ha muligheten til å administrere prosjekttilgjengelighet og overganger mellom ulike organisasjonstyper. For å optimalisere det aktive arbeidsområdet innenfor en organisasjons konfigurasjon, kan prosjekter som har avsluttet sin primære arbeidsflyt, fjernes. Etter at et prosjekt blir slettet, kan vi ikke lenger garantere at prosjektinformasjonen blir værende på serverne våre. Før du sletter prosjektet, kan dataene sikkerhetskopieres til kundens lagringslølning. Klikk [her](https://support.catenda.com/nb/articles/7946690-exporting-all-project-data) for å lese mer om eksportering av all prosjektinformasjon.
 
 ### 2.3 **Datahåndtering**
 

@@ -1,6 +1,6 @@
 # Documenten menu - Catenda Site
 
-De pagina Documenten is te vinden in het [menu](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) of door op de knop Problemen in de onderste navigatiebalk te tikken. Hier kunt u uw [documenten bekijken en voorvertonen](https://support.catenda.com/en/articles/8975421-previewing-documents-on-catenda-site).
+De pagina Documenten is te vinden in het [menu](https://support.catenda.com/nl/articles/7338516-navigation-menu-catenda-site) of door op de knop Problemen in de onderste navigatiebalk te tikken. Hier kunt u uw [documenten bekijken en voorvertonen](https://support.catenda.com/nl/articles/8975421-previewing-documents-on-catenda-site).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/01-intro.png)
 
@@ -16,7 +16,7 @@ Onder de naam van het project ziet u het documentfiltermenu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/03-document-filters.png)
 
-_Filter:_ Door op de filterknop aan de rechterkant te klikken, kunt u [uw documenten op label filteren](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site).
+_Filter:_ Door op de filterknop aan de rechterkant te klikken, kunt u [uw documenten op label filteren](https://support.catenda.com/nl/articles/7854138-label-filter-catenda-site).
 
 _Zoeken:_ Met de zoekknop kunt u in documenten zoeken.
 
@@ -40,4 +40,4 @@ Tik op een map om de map te openen. Nadat u een map hebt geopend, zult u merken 
 
 ### 2.2 **Documenten openen**
 
-Tik op een document om het document te openen. Nadat u een document hebt geladen, is het beschikbaar voor u, ook als u offline bent, zolang u zich in de map bevindt waarin het document zich bevindt. Lees [hier](https://support.catenda.com/en/articles/8975421-previewing-documents-on-catenda-site) voor meer informatie over documenten op Catenda Site
+Tik op een document om het document te openen. Nadat u een document hebt geladen, is het beschikbaar voor u, ook als u offline bent, zolang u zich in de map bevindt waarin het document zich bevindt. Lees [hier](https://support.catenda.com/nl/articles/8975421-previewing-documents-on-catenda-site) voor meer informatie over documenten op Catenda Site

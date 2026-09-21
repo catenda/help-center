@@ -1,6 +1,6 @@
 # Gjennomgang av fil - høyre meny - Arv
 
-Når [filvurderingen av en gjennomgang](https://support.catenda.com/en/articles/12507422-file-review-in-an-approval-request-legacy) først åpnes, kan høyre meny være lukket. Klikk på informasjonsknappen til høyre for å utvide denne menyen.
+Når [filvurderingen av en gjennomgang](https://support.catenda.com/nb/articles/12507422-file-review-in-an-approval-request-legacy) først åpnes, kan høyre meny være lukket. Klikk på informasjonsknappen til høyre for å utvide denne menyen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zt2p953n/01-intro.png)
 
@@ -48,7 +48,7 @@ _Hold musepekeren_ Hold musepekeren over valideringsforhåndsvisningsboksen for 
 
 ### 2.1 **Kommenteringsboks**
 
-Skriv inn en kommentar for å legge til en kommentar i gjennomgangen av denne filen. Kommentarer følger de generelle reglene for [formatering av innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts) på Catenda. Valideringer kan sendes inn uten å skrive en kommentar.
+Skriv inn en kommentar for å legge til en kommentar i gjennomgangen av denne filen. Kommentarer følger de generelle reglene for [formatering av innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts) på Catenda. Valideringer kan sendes inn uten å skrive en kommentar.
 
 ### 2.2 **Kommenter**
 

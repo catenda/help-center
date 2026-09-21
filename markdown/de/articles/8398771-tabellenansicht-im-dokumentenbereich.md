@@ -1,6 +1,6 @@
 # Tabellenansicht im Dokumentenbereich
 
-Die [Dokumentenseite ](https://support.catenda.com/en/articles/8204673-documents-page)wurde überarbeitet **🎉🎉**
+Die [Dokumentenseite ](https://support.catenda.com/de/articles/8204673-documents-page)wurde überarbeitet **🎉🎉**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3760667x/01-intro.png)
 
@@ -36,11 +36,11 @@ Dies ist der Name der ursprünglichen hochgeladenen Datei. Im Gegensatz zum Doku
 
 ### 1.2 **Name des Modells**
 
-Wenn [Modelle als Dokumente](https://support.catenda.com/en/articles/8064548-models-as-documents) für Ihr Projekt aktiviert wurde, sehen Sie in dieser Spalte den Namen des Modells, das mit einer IFC-Datei verbunden ist
+Wenn [Modelle als Dokumente](https://support.catenda.com/de/articles/8064548-models-as-documents) für Ihr Projekt aktiviert wurde, sehen Sie in dieser Spalte den Namen des Modells, das mit einer IFC-Datei verbunden ist
 
 ### 1.3 **Viewer**
 
-In dieser Spalte können Sie IFC-Dateien und Punktwolken im [3D-Viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) öffnen. Dies existierte zuvor, hat aber jetzt einen Spaltennamen. Wenn [Modelle als Dokumente](https://support.catenda.com/en/articles/8064548-models-as-documents) für Ihr Projekt aktiviert ist, können Sie die [2D-Ansicht](https://support.catenda.com/en/articles/4854537-2d-viewer) oder 3D-Ansicht des Dokument-Modells direkt aus der Listenansicht öffnen und das Modell zentrieren, wenn es in 3D geladen ist
+In dieser Spalte können Sie IFC-Dateien und Punktwolken im [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer) öffnen. Dies existierte zuvor, hat aber jetzt einen Spaltennamen. Wenn [Modelle als Dokumente](https://support.catenda.com/de/articles/8064548-models-as-documents) für Ihr Projekt aktiviert ist, können Sie die [2D-Ansicht](https://support.catenda.com/de/articles/4854537-2d-viewer) oder 3D-Ansicht des Dokument-Modells direkt aus der Listenansicht öffnen und das Modell zentrieren, wenn es in 3D geladen ist
 
 ### 1.4 **Erstellt**
 

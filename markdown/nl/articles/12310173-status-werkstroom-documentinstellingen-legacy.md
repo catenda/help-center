@@ -1,6 +1,6 @@
 # Status werkstroom - Documentinstellingen - Legacy
 
-Het menu Status werkstroom is te vinden op de [pagina documentinstellingen](https://support.catenda.com/en/articles/7831371-document-settings-page). In nieuwe projecten is de Status werkstroom standaard uitgeschakeld. Het is mogelijk om een project te starten met vooraf geconfigureerde statussen als het project is gebaseerd op een [templateproject](https://support.catenda.com/en/articles/4670245-creating-a-new-project#h_5db32e5398).
+Het menu Status werkstroom is te vinden op de [pagina documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings-page). In nieuwe projecten is de Status werkstroom standaard uitgeschakeld. Het is mogelijk om een project te starten met vooraf geconfigureerde statussen als het project is gebaseerd op een [templateproject](https://support.catenda.com/nl/articles/4670245-creating-a-new-project#h_5db32e5398).
 
 Dit is hoe het menu Status werkstroom er kan uitzien nadat de Status werkstroom is geactiveerd.
 
@@ -15,7 +15,7 @@ Wanneer de Status werkstroom is geactiveerd, zullen de volgende dingen in het pr
     - Kan met selectievakje in gepubliceerde fase worden geüpload.
 - De standaardstatus is ingesteld op Geen status.
 - Een goedkeuringenmenu verschijnt in documentinstellingen.
-- Een [goedkeuringen](https://support.catenda.com/en/articles/5784717-document-approval)-subpagina op de documentenpagina verschijnt.
+- Een [goedkeuringen](https://support.catenda.com/nl/articles/5784717-document-approval)-subpagina op de documentenpagina verschijnt.
 
 ## 1. **Status toevoegen**
 
@@ -45,7 +45,7 @@ Gearchiveerde statussen kunnen altijd worden hersteld door op "Gearchiveerde sta
 
 ## 3. **Standaardstatus**
 
-Wanneer een nieuwe gepubliceerde revisie wordt gemaakt door uploaden of door concepten te publiceren als gevolg van een [goedkeuring](https://support.catenda.com/en/articles/5784717-document-approval), kunt u kiezen welke Status deze standaard zal hebben. Deze Status kan nog steeds vóór het publiceren van elk Document worden gewijzigd.
+Wanneer een nieuwe gepubliceerde revisie wordt gemaakt door uploaden of door concepten te publiceren als gevolg van een [goedkeuring](https://support.catenda.com/nl/articles/5784717-document-approval), kunt u kiezen welke Status deze standaard zal hebben. Deze Status kan nog steeds vóór het publiceren van elk Document worden gewijzigd.
 
 ## 4. **Menu Uploaden**
 

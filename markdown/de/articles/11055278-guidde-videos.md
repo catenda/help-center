@@ -4,7 +4,7 @@ Im Titel dieses Artikels mag es wie ein Tippfehler mit einem zusätzlichen d aus
 
 ## 1. **Wiedergabelisten**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/11059986-interacting-with-guide-playlists), um mehr darüber zu erfahren, wie Sie mit Guide-Wiedergabelisten auf Guidde interagieren und das Video in Ihrer bevorzugten Sprache anzeigen können.
+Klicken Sie [hier](https://support.catenda.com/de/articles/11059986-interacting-with-guide-playlists), um mehr darüber zu erfahren, wie Sie mit Guide-Wiedergabelisten auf Guidde interagieren und das Video in Ihrer bevorzugten Sprache anzeigen können.
 
 ### 1.1 **Catenda Hub Tutorials - [Wiedergabeliste](https://eu.guidde.com/playbooks/playlist/qicnEaFjpt2gUXmNcAxWcU?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 

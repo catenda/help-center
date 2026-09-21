@@ -4,7 +4,7 @@ Det finnes flere steder hvor du blir bedt om å skrive inn et passord på Catend
 
 ## 1. **Logg inn**
 
-På [påloggingssiden](https://support.catenda.com/en/articles/7891486-sign-in-page) blir du bedt om å skrive inn passordet ditt. Den samme påloggingssiden brukes både når du logger inn via nettleseren og når du logger inn for å gi tilgang til kontoen din via APIen, som du gjør med mange avPlugInnene våre. Under denne prosessen kan følgende utfordringer oppstå:
+På [påloggingssiden](https://support.catenda.com/nb/articles/7891486-sign-in-page) blir du bedt om å skrive inn passordet ditt. Den samme påloggingssiden brukes både når du logger inn via nettleseren og når du logger inn for å gi tilgang til kontoen din via APIen, som du gjør med mange avPlugInnene våre. Under denne prosessen kan følgende utfordringer oppstå:
 
 ### 1.1 **Feil brukernavn eller passord**
 
@@ -54,7 +54,7 @@ Når du skriver inn det nye passordet ditt for andre gang for å bekrefte det, m
 
 ### 2.4 **Eksisterende passord er feil**
 
-Hvis du kan logge inn, kan du gå til [kontoautentiseringssiden](https://support.catenda.com/en/articles/6880968-account-page) for å tilbakestille passordet ditt. Her blir du først bedt om det gamle passordet ditt. Dette er passordet du brukte til å logge inn på kontoen din. Hvis du ikke skriver inn riktig passord, vil du se følgende melding:
+Hvis du kan logge inn, kan du gå til [kontoautentiseringssiden](https://support.catenda.com/nb/articles/6880968-account-page) for å tilbakestille passordet ditt. Her blir du først bedt om det gamle passordet ditt. Dette er passordet du brukte til å logge inn på kontoen din. Hvis du ikke skriver inn riktig passord, vil du se følgende melding:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zw9p4shp/06-old-password-not-valid.png)
 

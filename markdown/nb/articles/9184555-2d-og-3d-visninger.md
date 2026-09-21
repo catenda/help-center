@@ -1,6 +1,6 @@
 # 2D og 3D-visninger
 
-2D og 3D-visninger kan legges til som en [kommentar i en Sak](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_f76b44d3ca). Øyeblikksbilder er allsidige måter å kommunisere om 2D og 3D-informasjon på, da de ikke bare inneholder visuell informasjon, men kan brukes til å beskrive et sted og et tidspunkt i et dokument eller modell. Informasjonen som lagres i øyeblikksbilder gjør det mulig for deg å samarbeide med 2D og 3D-informasjon, da du vil være i stand til å spille av øyeblikksbilde ditt i en av dine BCF- og IFC-aktiverte tjenester.
+2D og 3D-visninger kan legges til som en [kommentar i en Sak](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic#h_f76b44d3ca). Øyeblikksbilder er allsidige måter å kommunisere om 2D og 3D-informasjon på, da de ikke bare inneholder visuell informasjon, men kan brukes til å beskrive et sted og et tidspunkt i et dokument eller modell. Informasjonen som lagres i øyeblikksbilder gjør det mulig for deg å samarbeide med 2D og 3D-informasjon, da du vil være i stand til å spille av øyeblikksbilde ditt i en av dine BCF- og IFC-aktiverte tjenester.
 
 Dette er hvordan et 3D-øyeblikksbilde kan se ut:
 
@@ -10,13 +10,13 @@ Dette er hvordan et 3D-øyeblikksbilde kan se ut:
 
 ## 1. **Opprette et øyeblikksbilde**
 
-Hvis du har en modell lastet inn i 3D, kan du klikke plussknappen til venstre for Sak-kommentarfeltet for å legge til et 3D-øyeblikksbilde i kommentaren. Hvis du har 2D-visningen åpen, kan du klikke plussknappen til venstre for Sak-kommentarfeltet for å legge til et 2D-øyeblikksbilde i kommentaren. Et øyeblikksbilde opprettes automatisk hvis du har lastet inn noe i 2D eller 3D og oppretter en ny Sak. Klikk [her](https://support.catenda.com/en/articles/10345863-snapshots) for å lese mer om øyeblikksbilder.
+Hvis du har en modell lastet inn i 3D, kan du klikke plussknappen til venstre for Sak-kommentarfeltet for å legge til et 3D-øyeblikksbilde i kommentaren. Hvis du har 2D-visningen åpen, kan du klikke plussknappen til venstre for Sak-kommentarfeltet for å legge til et 2D-øyeblikksbilde i kommentaren. Et øyeblikksbilde opprettes automatisk hvis du har lastet inn noe i 2D eller 3D og oppretter en ny Sak. Klikk [her](https://support.catenda.com/nb/articles/10345863-snapshots) for å lese mer om øyeblikksbilder.
 
 ## 2. **Viserbilder**
 
 Øyeblikksbilder er den beste måten å lage bilder av høy kvalitet eller renderinger fra Catenda Hub-visningen for følgende årsaker:
 
-- Øyeblikksbildebilder kan lastes ned fra [vedleggsutsnittet](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8).
+- Øyeblikksbildebilder kan lastes ned fra [vedleggsutsnittet](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8).
 - Øyeblikksbildebilder kan ha høyere oppløsninger enn bare å ta et skjermbilde fra visningen.
 - Øyeblikksbildebilder har transparente bakgrunner. Med 3D-øyeblikksbilder inneholder bildet bare piksler der det er objekter i 3D. Med 2D-øyeblikksbilder inneholder bildet bare piksler der det er linjer i 2D.
 
@@ -132,7 +132,7 @@ Hvis du holder musepekeren over bildet av et 2D eller 3D-øyeblikksbilde, vil et
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/12-image-pop-out.png)
 
-Etter at øyeblikksbildet er sendt inn, kan bildet som er koblet til det, [poppes ut](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) for å se innholdet dets i et større format og laste det ned.
+Etter at øyeblikksbildet er sendt inn, kan bildet som er koblet til det, [poppes ut](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) for å se innholdet dets i et større format og laste det ned.
 
 ## 6. **Slette et øyeblikksbilde**
 

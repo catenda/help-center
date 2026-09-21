@@ -24,15 +24,15 @@ Dørsvinger er spesifisert i IFC-filen. Du kan se hvordan dette fungerer i følg
 
 ## 2. **Tegning som underlag**
 
-Det er mulig å legge til en PDF fra dokumentdelen med [etaskonfiguratoren](https://support.catenda.com/en/articles/6921756-storey-configurator-page). Dette er spesielt nyttig hvis det finnes objekter over eller under høyden der 3D-objektene skåres gjennom, som ikke vises i 2D-viseren. Eksempler på disse er: Kanaler og rør, Stikkontakter, Takplaner, Vei og jernbane
+Det er mulig å legge til en PDF fra dokumentdelen med [etaskonfiguratoren](https://support.catenda.com/nb/articles/6921756-storey-configurator-page). Dette er spesielt nyttig hvis det finnes objekter over eller under høyden der 3D-objektene skåres gjennom, som ikke vises i 2D-viseren. Eksempler på disse er: Kanaler og rør, Stikkontakter, Takplaner, Vei og jernbane
 
 ## 3. **Markører i 2D-viseren**
 
-Med [markører aktivert](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098) vises saker med plassering som fargede sirkler på en x-y-koordinat. Slik kan en 2D-visning med ulike markører se ut i nettleseren:
+Med [markører aktivert](https://support.catenda.com/nb/articles/4854537-2d-viewer#h_381a9d4098) vises saker med plassering som fargede sirkler på en x-y-koordinat. Slik kan en 2D-visning med ulike markører se ut i nettleseren:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3bzb6a32/03-markers-in-the-2d-viewer.png)
 
-Klikk [her](https://support.catenda.com/en/articles/4854523-2d-location-of-issues) for å lese mer om 2D-plasseringen av saker.
+Klikk [her](https://support.catenda.com/nb/articles/4854523-2d-location-of-issues) for å lese mer om 2D-plasseringen av saker.
 
 ### 3.1 **Saker med eksisterende markører**
 

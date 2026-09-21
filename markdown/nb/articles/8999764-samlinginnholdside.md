@@ -1,6 +1,6 @@
 # Samlinginnholdside
 
-Samlinger kan opprettes på [samlingssiden](https://support.catenda.com/en/articles/6344318-collections-page). Med samlinger kan dokumenter fra ulike mapper samles i én liste. Samlingen kan deretter enten deles med et prosjektmedlem slik at de kan følge de siste versjonene av et sett med dokumenter, eller den kan deles med en ekstern person som trenger tilgang uten å være del av prosjektet.
+Samlinger kan opprettes på [samlingssiden](https://support.catenda.com/nb/articles/6344318-collections-page). Med samlinger kan dokumenter fra ulike mapper samles i én liste. Samlingen kan deretter enten deles med et prosjektmedlem slik at de kan følge de siste versjonene av et sett med dokumenter, eller den kan deles med en ekstern person som trenger tilgang uten å være del av prosjektet.
 
 Slik kan en samlingside se ut:
 
@@ -10,11 +10,11 @@ Slik kan en samlingside se ut:
 
 ### 1.1 **Brødkrummer**
 
-Dokumenter > Samlinger > #Samlingnavn Klikk på Dokumenter for å gå tilbake til [dokumentersiden](https://support.catenda.com/en/articles/8204673-documents-page). Klikk på Samlinger for å gå tilbake til [samlingssiden](https://support.catenda.com/en/articles/6344318-collections-page).
+Dokumenter > Samlinger > #Samlingnavn Klikk på Dokumenter for å gå tilbake til [dokumentersiden](https://support.catenda.com/nb/articles/8204673-documents-page). Klikk på Samlinger for å gå tilbake til [samlingssiden](https://support.catenda.com/nb/articles/6344318-collections-page).
 
 ### 1.2 **Tilbake**
 
-Klikk på Tilbake for å gå tilbake til [samlingssiden](https://support.catenda.com/en/articles/6344318-collections-page).
+Klikk på Tilbake for å gå tilbake til [samlingssiden](https://support.catenda.com/nb/articles/6344318-collections-page).
 
 ### 1.3 **Samlingshandlinger**
 
@@ -34,7 +34,7 @@ Høyre meny finner du øverst til høyre på samlingstoppteksten under handlings
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g39es426/03-right-menu.png)
 
-Klikk [her](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-page) for å lese mer om høyre meny på samlingssiden.
+Klikk [her](https://support.catenda.com/nb/articles/12179454-right-menu-on-the-collection-page) for å lese mer om høyre meny på samlingssiden.
 
 ## 3. **Samlingtype**
 
@@ -46,15 +46,15 @@ Etter at en samling er opprettet, vil den være privat. Dette betyr at bare bruk
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g39es426/04-private-collection.png)
 
-Private samlinger kan enten følge den siste publiserte revisjonen eller være låst til revisjonene av dokumentene som ble lagt til samlingen. Del en privat samling eller gjør den fullført i [høyre meny på en samling](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-content-page) for å dele den med resten av prosjektet.
+Private samlinger kan enten følge den siste publiserte revisjonen eller være låst til revisjonene av dokumentene som ble lagt til samlingen. Del en privat samling eller gjør den fullført i [høyre meny på en samling](https://support.catenda.com/nb/articles/12179454-right-menu-on-the-collection-content-page) for å dele den med resten av prosjektet.
 
 ### 3.2 **Samling delt med prosjekt**
 
-Privat samling kan deles med prosjektet i [høyre meny på en samling](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-content-page). Samlinger som er delt med prosjektet, er synlige for alle medlemmer. På dette tidspunktet kan listen over dokumenter i samlingen fortsatt redigeres. Samlinger som er delt med prosjektet, kan enten følge den siste publiserte revisjonen eller være låst til revisjonene av dokumentene som ble lagt til samlingen.
+Privat samling kan deles med prosjektet i [høyre meny på en samling](https://support.catenda.com/nb/articles/12179454-right-menu-on-the-collection-content-page). Samlinger som er delt med prosjektet, er synlige for alle medlemmer. På dette tidspunktet kan listen over dokumenter i samlingen fortsatt redigeres. Samlinger som er delt med prosjektet, kan enten følge den siste publiserte revisjonen eller være låst til revisjonene av dokumentene som ble lagt til samlingen.
 
 ### 3.3 **Fullført samling**
 
-Fullførte samlinger er låst for redigering. Fullførte samlinger må være låst til revisjoner. Offentlige lenker kan opprettes for fullførte samlinger i [høyre meny på samlingen](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-content-page).
+Fullførte samlinger er låst for redigering. Fullførte samlinger må være låst til revisjoner. Offentlige lenker kan opprettes for fullførte samlinger i [høyre meny på samlingen](https://support.catenda.com/nb/articles/12179454-right-menu-on-the-collection-content-page).
 
 ## 4. **Samlingstabell**
 
@@ -64,7 +64,7 @@ Tabelhandlinger finner du mot øverst til høyre i samlingenes tabell
 
 **Last ned samling** Klikk på Last ned samling for å laste ned en zip-fil med alle dokumentene i samlingen.
 
-**Legg til dokumenter** Klikk på [Legg til dokumenter](https://support.catenda.com/en/articles/6344318-collections-page#h_b94d108342) for å legge til dokumenter i samlingen din. Hvis dokumentet ditt har blitt funnet å være infisert med virus, vil du ikke kunne legge det til samlingen.
+**Legg til dokumenter** Klikk på [Legg til dokumenter](https://support.catenda.com/nb/articles/6344318-collections-page#h_b94d108342) for å legge til dokumenter i samlingen din. Hvis dokumentet ditt har blitt funnet å være infisert med virus, vil du ikke kunne legge det til samlingen.
 
 > **Merk:** Navnet på dokumentet i samlingen vil være navnet på revisjonen som ble lagt til. Dette er noe som ligner på det opprinnelige filnavnet. Dette navnet kan være annerledes enn navnet på dokumentet fordi et dokument kan inneholde flere revisjoner med ulike navn.
 

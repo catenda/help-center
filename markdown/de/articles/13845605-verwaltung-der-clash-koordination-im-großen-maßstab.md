@@ -74,11 +74,11 @@ Systematische Themen-Board-Einrichtung, umfassende Etikettierung und Meilenstein
 
 ## 4. **Weitere Informationen:**
 
-- [Themen-Board-Einstellungsseite](https://support.catenda.com/en/articles/4670277-topic-board-settings-page)
-- [Catenda Archicad-Plug-in](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
-- [Catenda Revit-Plug-in](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
-- [Catenda Navisworks-Plug-in](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
-- [Schritt 5 - Themen](https://support.catenda.com/en/articles/10576182-step-5-topics)
+- [Themen-Board-Einstellungsseite](https://support.catenda.com/de/articles/4670277-topic-board-settings-page)
+- [Catenda Archicad-Plug-in](https://support.catenda.com/de/articles/5519276-catenda-archicad-plugin)
+- [Catenda Revit-Plug-in](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin)
+- [Catenda Navisworks-Plug-in](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin)
+- [Schritt 5 - Themen](https://support.catenda.com/de/articles/10576182-step-5-topics)
 
 ## 5. Eingabeaufforderung
 

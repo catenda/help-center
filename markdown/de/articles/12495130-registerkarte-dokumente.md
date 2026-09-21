@@ -18,7 +18,7 @@ Das rechte Menü kann durch Klicken auf das Infosymbol auf der rechten Seite der
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/03-right-menu.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu), um mehr über das rechte Menü der Registerkarte "Dokumente" zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/12495638-approval-request-documents-right-menu), um mehr über das rechte Menü der Registerkarte "Dokumente" zu erfahren.
 
 > **Hinweis:** Wählen Sie ein Dokument aus (durch Klicken auf den Titel) oder mehrere Ihnen zugewiesene Dokumente, um direkt auf der Registerkarte "Dokumente" mit der Überprüfung zu beginnen.
 

@@ -2,7 +2,7 @@
 
 > Niveaux de contrôle d'accès pour les documents
 
-Sélectionnez le(s) document(s) et/ou dossier(s) dans la zone documents pour trouver le menu de contrôle d'accès dans le [menu d'informations de droite](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page#h_cad792004b). Ici, vous pouvez voir les membres du projet qui ont accès au document. Suivez ces étapes pour modifier l'accès des éléments sélectionnés.
+Sélectionnez le(s) document(s) et/ou dossier(s) dans la zone documents pour trouver le menu de contrôle d'accès dans le [menu d'informations de droite](https://support.catenda.com/fr/articles/8345396-right-menu-on-the-documents-page#h_cad792004b). Ici, vous pouvez voir les membres du projet qui ont accès au document. Suivez ces étapes pour modifier l'accès des éléments sélectionnés.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/01-intro.png)
 
@@ -24,7 +24,7 @@ Cliquez sur la liste déroulante « Définir l'accès pour » pour sélectionner
 
 Définissez l'accès **par équipe plutôt que par utilisateur**. Les rôles changent souvent, et l'accès basé sur les Équipes reste flexible : un Membre ajouté à une Équipe obtient l'accès approprié dès qu'il rejoint le projet. Un modèle courant consiste à définir « tous les utilisateurs » sur aucun accès, afin que les nouveaux Membres non encore assignés ne puissent pas voir les informations sensibles. Vous accordez ensuite l'accès à chaque Équipe selon les besoins.
 
-Cliquez [ici](https://support.catenda.com/en/articles/15644094-how-catenda-calculates-access-levels) pour en savoir plus sur la façon dont les différents rôles de participants se comparent les uns aux autres.
+Cliquez [ici](https://support.catenda.com/fr/articles/15644094-how-catenda-calculates-access-levels) pour en savoir plus sur la façon dont les différents rôles de participants se comparent les uns aux autres.
 
 ## 2. **2. Quel accès est appliqué ? (3 étapes)**
 
@@ -44,11 +44,11 @@ L'accès avec le poids le plus élevé gagne toujours, mais il y a des exception
 
 L'accès avec le poids le plus élevé s'applique. Pas d'accès > Accès complet > Écriture > Lecture
 
-Cliquez [ici](https://support.catenda.com/en/articles/15644094-how-catenda-calculates-access-levels) pour en savoir plus sur la façon dont les niveaux d'accès sont calculés. Cliquez [ici](https://support.catenda.com/en/articles/15644249-access-control-deployment-use-cases) pour en savoir plus sur les façons typiques de configurer l'accès.
+Cliquez [ici](https://support.catenda.com/fr/articles/15644094-how-catenda-calculates-access-levels) pour en savoir plus sur la façon dont les niveaux d'accès sont calculés. Cliquez [ici](https://support.catenda.com/fr/articles/15644249-access-control-deployment-use-cases) pour en savoir plus sur les façons typiques de configurer l'accès.
 
 ### 2.2 **2.2 Que peuvent faire les participants avec cet accès ?**
 
-Cliquez [ici](https://support.catenda.com/en/articles/15647394-operations-on-document-library-items) pour en savoir plus sur les opérations pouvant être effectuées sur les dossiers et les Documents.
+Cliquez [ici](https://support.catenda.com/fr/articles/15647394-operations-on-document-library-items) pour en savoir plus sur les opérations pouvant être effectuées sur les dossiers et les Documents.
 
 ## 3. **3. Options de remplacement (portée appliquée à l'enregistrement)**
 

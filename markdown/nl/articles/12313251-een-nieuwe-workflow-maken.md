@@ -1,6 +1,6 @@
 # Een nieuwe workflow maken
 
-De pagina nieuwe workflow kan worden geopend door op de groene plusknop op [de workflows-pagina](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings) te klikken of door op de actie in het menu nieuwe element-acties op [de pagina goedkeuringen](https://support.catenda.com/en/articles/8349340-approvals-page) te klikken. Het is alleen mogelijk om nieuwe workflows te maken in projecten waar de nieuwe validatieworkflow is aangevraagd om in te schakelen. De nieuwe validatieworkflow is een functie op aanvraag die kan worden aangevraagd om in te schakelen bij het starten van een nieuw project. Het is alleen mogelijk om een project op basis van een sjabloonproject te maken als de nieuwe validatieworkflow niet is ingeschakeld in dat sjabloonproject. Dit is hoe het titeldeel van een nieuwe goedkeuring eruit kan zien:
+De pagina nieuwe workflow kan worden geopend door op de groene plusknop op [de workflows-pagina](https://support.catenda.com/nl/articles/12309903-workflows-page-document-settings) te klikken of door op de actie in het menu nieuwe element-acties op [de pagina goedkeuringen](https://support.catenda.com/nl/articles/8349340-approvals-page) te klikken. Het is alleen mogelijk om nieuwe workflows te maken in projecten waar de nieuwe validatieworkflow is aangevraagd om in te schakelen. De nieuwe validatieworkflow is een functie op aanvraag die kan worden aangevraagd om in te schakelen bij het starten van een nieuw project. Het is alleen mogelijk om een project op basis van een sjabloonproject te maken als de nieuwe validatieworkflow niet is ingeschakeld in dat sjabloonproject. Dit is hoe het titeldeel van een nieuwe goedkeuring eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
 
@@ -225,7 +225,7 @@ In het veld onderwerpsjablonen kunt u de sjabloon kiezen die het systeem gebruik
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/23-br-topic-template.png)
 
-Een sjabloon kiezen is mogelijk uit bestaande onderwerpsjablonen. [Lees meer over onderwerpsjablonen](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)
+Een sjabloon kiezen is mogelijk uit bestaande onderwerpsjablonen. [Lees meer over onderwerpsjablonen](https://support.catenda.com/nl/articles/14076010-topic-template-settings-page)
 
 Als er geen sjabloon is, hebt u de mogelijkheid om er direct in de instellingsweergave een te maken.
 

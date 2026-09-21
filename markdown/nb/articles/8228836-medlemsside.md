@@ -1,6 +1,6 @@
 # Medlemsside
 
-Medlemssiden finnes i medlemsdelen av [medlemssiden](https://support.catenda.com/en/articles/4670291-members-page) ved å klikke på medlemmet du ønsker å se siden for. Slik kan en medlemsside se ut:
+Medlemssiden finnes i medlemsdelen av [medlemssiden](https://support.catenda.com/nb/articles/4670291-members-page) ved å klikke på medlemmet du ønsker å se siden for. Slik kan en medlemsside se ut:
 
 ![Medlemmer-side](https://raw.githubusercontent.com/catenda/help-center/main/images/t0zstfcp/01-intro.png)
 

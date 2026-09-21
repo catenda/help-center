@@ -2,7 +2,7 @@
 
 > Wenden Sie eine allgemeine Themen-Vorlage bei der Themenerstellung an
 
-Allgemeine Themen-Vorlagen können auf der [Seite mit den Themen-Vorlageneinstellungen](https://support.catenda.com/en/articles/14076010-topic-template-settings-page) konfiguriert werden. _Erforderlicher Zugriff:_ Projektadministrator
+Allgemeine Themen-Vorlagen können auf der [Seite mit den Themen-Vorlageneinstellungen](https://support.catenda.com/de/articles/14076010-topic-template-settings-page) konfiguriert werden. _Erforderlicher Zugriff:_ Projektadministrator
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/01-intro.png)
 
@@ -14,7 +14,7 @@ Allgemeine Themen-Vorlagen können auf der [Seite mit den Themen-Vorlageneinstel
 
     <div class="intercom-container intercom-align-center"><img height="549" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-b8fa9d6ab8dc.png" style="height: auto;" width="500"/></div>
 
-4. Wählen Sie die richtige Vorlage aus, die Sie verwenden möchten. <br>Sobald Sie die richtige Vorlage auswählen, wird das neue Thema automatisch mit allen Feldern gefüllt, die in den zugehörigen Themenvorlagen-Einstellungen festgelegt wurden. Diese sind über die [Seite mit den Themenvorlagen-Einstellungen](https://support.catenda.com/en/articles/14076010-topic-template-settings-page) zugänglich.<br>
+4. Wählen Sie die richtige Vorlage aus, die Sie verwenden möchten. <br>Sobald Sie die richtige Vorlage auswählen, wird das neue Thema automatisch mit allen Feldern gefüllt, die in den zugehörigen Themenvorlagen-Einstellungen festgelegt wurden. Diese sind über die [Seite mit den Themenvorlagen-Einstellungen](https://support.catenda.com/de/articles/14076010-topic-template-settings-page) zugänglich.<br>
 
     <div class="intercom-container intercom-align-center"><img height="731" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-23a75554e46a.png" style="height: auto;" width="500"/></div>
 

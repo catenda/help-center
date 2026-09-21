@@ -1,6 +1,6 @@
 # Filtrage sur la page des sujets
 
-Le menu de filtre dans une liste de sujets peut être ouvert en cliquant sur le bouton de filtre à gauche de la barre de recherche dans une [liste de sujets](https://support.catenda.com/en/articles/4670271-issues-page).
+Le menu de filtre dans une liste de sujets peut être ouvert en cliquant sur le bouton de filtre à gauche de la barre de recherche dans une [liste de sujets](https://support.catenda.com/fr/articles/4670271-issues-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/01-intro.png)
 
@@ -12,11 +12,11 @@ Cliquez sur le bouton de filtre en haut à gauche pour que un panneau apparaisse
 
 ### 1.1 **Enregistrer et partager le filtre actuel**
 
-Allez à l'URL d'une page filtrée pour charger cette page avec le filtre appliqué. Les filtres appliqués peuvent être enregistrés vers le haut du menu de filtre. Cliquez [ici](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) pour en savoir plus sur comment enregistrer et partager les filtres
+Allez à l'URL d'une page filtrée pour charger cette page avec le filtre appliqué. Les filtres appliqués peuvent être enregistrés vers le haut du menu de filtre. Cliquez [ici](https://support.catenda.com/fr/articles/11401493-saving-a-filter-link) pour en savoir plus sur comment enregistrer et partager les filtres
 
 ### 1.2 **Masquer les filtres vides**
 
-Cliquez [ici](https://support.catenda.com/en/articles/8551755-saving-filters) pour en savoir plus sur la limitation des résultats de filtre.
+Cliquez [ici](https://support.catenda.com/fr/articles/8551755-saving-filters) pour en savoir plus sur la limitation des résultats de filtre.
 
 ## 2. **Filtrage dans le menu de filtre**
 
@@ -42,7 +42,7 @@ _En retard_ - `due=overdue` _Tous avec une date d'échéance_ - `due=present` _P
 
 ### 2.4 **Mis à jour**
 
-Avec le filtre de date, vous pouvez sélectionner une plage horaire pour le moment où les sujets ont été mis à jour en dernier. _Mis à jour_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Lisez [cet](https://support.catenda.com/en/articles/6511685-date-filter) article pour savoir comment sélectionner facilement les dates sur la page.
+Avec le filtre de date, vous pouvez sélectionner une plage horaire pour le moment où les sujets ont été mis à jour en dernier. _Mis à jour_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Lisez [cet](https://support.catenda.com/fr/articles/6511685-date-filter) article pour savoir comment sélectionner facilement les dates sur la page.
 
 ### 2.5 **Assigné à / Demandé par**
 
@@ -96,7 +96,7 @@ Si vous avez des filtres enregistrés dans une liste de sujets, ceux-ci seront l
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/03-saved-filters.png)
 
-Cliquez sur le filtre pour ouvrir la liste filtrée sur l'ensemble enregistré des filtres qui ont reçu un nom. Cliquez [ici](https://support.catenda.com/en/articles/8551755-saving-filters) pour en savoir plus sur comment enregistrer un ensemble de filtres.
+Cliquez sur le filtre pour ouvrir la liste filtrée sur l'ensemble enregistré des filtres qui ont reçu un nom. Cliquez [ici](https://support.catenda.com/fr/articles/8551755-saving-filters) pour en savoir plus sur comment enregistrer un ensemble de filtres.
 
 ### 3.2 **Recherche de texte**
 
@@ -122,7 +122,7 @@ Nom du membre ou de l'équipe Recherchez le nom du membre ou de l'équipe pour t
 
 Membre mentionné Recherchez sur l'e-mail d'un membre pour trouver toutes les occurrences en texte brut de l'e-mail de ce membre. Cela inclut les endroits où ils ont été mentionnés. Recherchez sur `#[<E-mail du membre>]` pour trouver uniquement les occurrences où ce membre est mentionné.
 
-Équipe mentionnée Les équipes mentionnées peuvent être recherchées en recherchant le GUID de cette équipe. Pour trouver le GUID d'une équipe, allez à la [page de contenu de cette équipe](https://support.catenda.com/en/articles/7891755-team-page) en cliquant sur son nom dans l'[onglet des équipes de la page des membres et des équipes](https://support.catenda.com/en/articles/4670291-members-and-teams-page). L'URL devrait ressembler à ceci : [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
+Équipe mentionnée Les équipes mentionnées peuvent être recherchées en recherchant le GUID de cette équipe. Pour trouver le GUID d'une équipe, allez à la [page de contenu de cette équipe](https://support.catenda.com/fr/articles/7891755-team-page) en cliquant sur son nom dans l'[onglet des équipes de la page des membres et des équipes](https://support.catenda.com/fr/articles/4670291-members-and-teams-page). L'URL devrait ressembler à ceci : [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 

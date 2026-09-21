@@ -20,7 +20,7 @@ Hvis du ikke har en konto ennå, eller selv om du har varsler via e-post helt sl
 
 > **Tips:** "(Navn på inviterende bruker) har invitert deg til (Catenda-prosjektet du er invitert til)."
 
-Se [her](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) for e-postfeilsøking. Du kan godta invitasjonen ved å klikke på varselet hvis du oppretter en konto på [https://hub.catenda.com/signup](https://hub.catenda.com/signup) og blir invitert igjen, men det kan være lurt å se på hvorfor du kanskje ikke mottar e-poster slik at du kan begynne å motta e-postvarsler.
+Se [her](https://support.catenda.com/nb/articles/8417802-why-am-i-not-receiving-emails) for e-postfeilsøking. Du kan godta invitasjonen ved å klikke på varselet hvis du oppretter en konto på [https://hub.catenda.com/signup](https://hub.catenda.com/signup) og blir invitert igjen, men det kan være lurt å se på hvorfor du kanskje ikke mottar e-poster slik at du kan begynne å motta e-postvarsler.
 
 Navnet på den inviterende brukeren og e-postadressen til brukeren vil være synlig i invitasjonse-posten som kan se slik ut:
 
@@ -40,7 +40,7 @@ Når du klikker på invitasjonen, blir du tatt til Catenda Hub hvor du blir bedt
 
 ### 2.1 Opprette en konto
 
-Hvis du ikke allerede har en konto, vil du bli bedt om å registrere deg for en konto på Catenda Hub. Følg [registreringsprosedyren](https://intercom.help/bimsync-arena/en/articles/8412895-creating-an-account).
+Hvis du ikke allerede har en konto, vil du bli bedt om å registrere deg for en konto på Catenda Hub. Følg [registreringsprosedyren](https://intercom.help/bimsync-arena/nb/articles/8412895-creating-an-account).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qn9t3aze/04-creating-an-account.png)
 

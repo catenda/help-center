@@ -40,7 +40,7 @@ In Themenkommentaren ist ein Anhang-Tool sichtbar. Klicken Sie auf die Schaltfl�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/05-topic-comment-attachment.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae), um mehr über Kommentar-Anhänge zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae), um mehr über Kommentar-Anhänge zu erfahren.
 
 ## 3. **Text formatieren**
 
@@ -100,7 +100,7 @@ Damit das Bild ordnungsgemäß angezeigt wird, muss Catenda auf den bereitgestel
 
 > **Hinweis:** \+ Das Bild kann einer Beschreibung hinzugefügt werden \+ Das Bild kann mit Text gemischt werden, sodass Sie Text sowohl vor als auch nach dem Bild in denselben Kommentaren oder Beschreibungen haben können. \+ Bilder wie diese können mit Tabellen und Listen kombiniert werden. Sie können beispielsweise ein Häkchenbild in der Mitte eines Satzes/einer Tabelle hinzufügen, anstatt das Formatierungskontrollkästchen zu verwenden, das nur am Anfang eines Satzes funktioniert \- Sie können nicht garantieren, dass der Link zum Bild in Zukunft verfügbar bleibt.
 
-_Catenda-Bild-Dokumentenlink abrufen_ Wenn Sie mit der rechten Maustaste auf die [Download-Aktionsschaltfläche nach Auswahl eines Dokuments](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) oder mit der rechten Maustaste auf die [Download-Schaltfläche für die neueste Überarbeitung klicken, nachdem Sie ein Dokument geöffnet haben](https://support.catenda.com/en/articles/9323521-actions-in-a-document), können Sie den Download-Link des Dokuments kopieren. Wenn Sie diesen Link in Ihrem Thema wie oben verwenden, können Sie Catenda-Dokumente in Themen verwenden.
+_Catenda-Bild-Dokumentenlink abrufen_ Wenn Sie mit der rechten Maustaste auf die [Download-Aktionsschaltfläche nach Auswahl eines Dokuments](https://support.catenda.com/de/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) oder mit der rechten Maustaste auf die [Download-Schaltfläche für die neueste Überarbeitung klicken, nachdem Sie ein Dokument geöffnet haben](https://support.catenda.com/de/articles/9323521-actions-in-a-document), können Sie den Download-Link des Dokuments kopieren. Wenn Sie diesen Link in Ihrem Thema wie oben verwenden, können Sie Catenda-Dokumente in Themen verwenden.
 
 > **Hinweis:** \+ Wenn Sie einen Link zu einem Catenda-Bilddokument hinzufügen, können Sie Bilder hinzufügen, die nur auf Catenda angezeigt werden und nicht auf anderen Plattformen verfügbar sind, mit denen das Thema möglicherweise ausgetauscht wird. \+ Durch das Hinzufügen von Links zu einem Catenda-Bilddokument können nur Personen mit Zugriff auf das Dokument das Bild sehen. \- Wenn Sie einen Link zu einem Catenda-Bilddokument hinzufügen, ist es auf anderen Plattformen, mit denen das Thema möglicherweise synchronisiert wurde, und für Personen ohne Zugriff auf das Dokument nicht sichtbar.
 
@@ -210,7 +210,7 @@ Wird sich daraus ergeben:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/07-checklists.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/5036461-check-lists-within-issues), um ein kurzes Video darüber zu sehen, wie Checklisten im Projekt verwendet werden können. Wenn Sie `- [ ]` oder `- [x]` schreiben, wird das Kontrollkästchen immer noch als nicht aktiviert und aktiviert angezeigt, wenn der Kommentar eingereicht oder nach der Bearbeitung gespeichert wird.
+Klicken Sie [hier](https://support.catenda.com/de/articles/5036461-check-lists-within-issues), um ein kurzes Video darüber zu sehen, wie Checklisten im Projekt verwendet werden können. Wenn Sie `- [ ]` oder `- [x]` schreiben, wird das Kontrollkästchen immer noch als nicht aktiviert und aktiviert angezeigt, wenn der Kommentar eingereicht oder nach der Bearbeitung gespeichert wird.
 
 **Kontrollkästchen in Kommentaren** In Kommentaren können Kontrollkästchen nur durch Formatierung überprüft werden. Kontrollkästchen in Kommentaren können nicht angeklickt werden, um überprüft zu werden. _Erforderlicher Zugriff -_ Der Kommentarverfasser hat Zugriff auf die Bearbeitung des erstellten Kommentars
 
@@ -262,7 +262,7 @@ Wenn die Beschreibung gespeichert oder der Kommentar eingereicht wird, erhalten 
 
 **Benachrichtigungen über zukünftige Themenereignisse** Mitglieder von Teams, die in Themenbeschreibungen und Kommentaren erwähnt werden, erhalten nur die eine Benachrichtigung nach der gespeicherten Beschreibung oder dem eingereichten Kommentar.
 
-Zusätzlich zu der Benachrichtigung, dass sie erwähnt werden, werden Mitglieder, die in Beiträgen erwähnt werden, automatisch auf [Folgen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) des Themas eingestellt und erhalten Benachrichtigungen über Themenereignisse wie neue Kommentare und Statusänderungen. Dies ist eine großartige Möglichkeit, um sicherzustellen, dass nicht nur der [Bevollmächtigte](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) und [Anfragender](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7) Benachrichtigungen über zukünftige Änderungen an einem Thema erhalten. Wenn ein Mitglied das Thema nicht mehr abonnieren möchte, muss es es manuell abbestellen.
+Zusätzlich zu der Benachrichtigung, dass sie erwähnt werden, werden Mitglieder, die in Beiträgen erwähnt werden, automatisch auf [Folgen](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) des Themas eingestellt und erhalten Benachrichtigungen über Themenereignisse wie neue Kommentare und Statusänderungen. Dies ist eine großartige Möglichkeit, um sicherzustellen, dass nicht nur der [Bevollmächtigte](https://support.catenda.com/de/articles/8400566-issue-header#h_0a91fa8dd9) und [Anfragender](https://support.catenda.com/de/articles/8400566-issue-header#h_1aea0990a7) Benachrichtigungen über zukünftige Änderungen an einem Thema erhalten. Wenn ein Mitglied das Thema nicht mehr abonnieren möchte, muss es es manuell abbestellen.
 
 ### 5.2 **Erwähnung in Beitrag**
 
@@ -272,7 +272,7 @@ Erwähnungen in Beiträgen können an der grünen Textfarbe erkannt werden.
 
 Im Hintergrund wird die eindeutige ID des erwähnten Projektbeteiligten gespeichert. Es ist der Name des Teilnehmers, der in diesem grünen Text angezeigt wird. Auch wenn das Mitglied oder das Team seinen Namen ändert, bleibt es im Beitrag erwähnt, aber unter seinem neuen Namen.
 
-Erwähnte Mitglieder haben einen anklickbaren Link, der zur [Mitgliederseite](https://support.catenda.com/en/articles/8228836-member-page) dieses Mitglieds führt. Erwähnte Teams haben einen anklickbaren Link, der zur [Teamseite](https://support.catenda.com/en/articles/7891755-team-page) dieses Teams führt.
+Erwähnte Mitglieder haben einen anklickbaren Link, der zur [Mitgliederseite](https://support.catenda.com/de/articles/8228836-member-page) dieses Mitglieds führt. Erwähnte Teams haben einen anklickbaren Link, der zur [Teamseite](https://support.catenda.com/de/articles/7891755-team-page) dieses Teams führt.
 
 **Nicht vorhandenes Mitglied** Wenn kein Mitglied im Projekt eine erwähnte E-Mail-Adresse hat, sieht der Beitrag stattdessen so aus:
 
@@ -294,15 +294,15 @@ Durchsuchen Sie die Liste, indem Sie den Titel oder die Themennummer eingeben. N
 
 ### 6.1 **Speichern oder Einreichen eines markierten Themas**
 
-Wenn die Beschreibung gespeichert oder der Kommentar eingereicht wird, wird eine Themenrelation erstellt. Das verknüpfte Thema wird dann zur Liste der [verknüpften Themen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) im [rechten Menü](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) des Themas hinzugefügt.
+Wenn die Beschreibung gespeichert oder der Kommentar eingereicht wird, wird eine Themenrelation erstellt. Das verknüpfte Thema wird dann zur Liste der [verknüpften Themen](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) im [rechten Menü](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue) des Themas hinzugefügt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/14-saving-or-submitting-a-tagged-topic.png)
 
-Zusätzlich zu dem Thema, in dem ein anderes Thema markiert wurde, erhält das markierte Thema selbst einen Link zurück zu dem Thema, in dem es zur Liste der [verknüpften Themen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) im [rechten Menü](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) hinzugefügt wurde.
+Zusätzlich zu dem Thema, in dem ein anderes Thema markiert wurde, erhält das markierte Thema selbst einen Link zurück zu dem Thema, in dem es zur Liste der [verknüpften Themen](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) im [rechten Menü](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue) hinzugefügt wurde.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/15-saving-or-submitting-a-tagged-topic.png)
 
-Der Themen-Link kann später von entweder dem Thema mit dem markierten Thema in der Beschreibung oder vom markierten Thema entfernt werden, indem Sie zu jedem Thema gehen und die Liste der [verknüpften Themen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) im [rechten Menü](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) bearbeiten.
+Der Themen-Link kann später von entweder dem Thema mit dem markierten Thema in der Beschreibung oder vom markierten Thema entfernt werden, indem Sie zu jedem Thema gehen und die Liste der [verknüpften Themen](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) im [rechten Menü](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue) bearbeiten.
 
 ### 6.2 **Markiertes Thema in Beitrag**
 

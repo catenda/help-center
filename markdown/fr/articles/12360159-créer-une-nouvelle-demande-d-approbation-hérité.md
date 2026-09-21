@@ -1,6 +1,6 @@
 # Créer une nouvelle demande d'approbation - Hérité
 
-La nouvelle action de demande d'approbation se trouve en cliquant sur le menu d'action à droite du bouton plus vert sur la [page des approbations](https://support.catenda.com/en/articles/8349340-approvals-page).
+La nouvelle action de demande d'approbation se trouve en cliquant sur le menu d'action à droite du bouton plus vert sur la [page des approbations](https://support.catenda.com/fr/articles/8349340-approvals-page).
 
 ## 1. **En-tête d'approbation - Le sujet d'une approbation**
 
@@ -46,7 +46,7 @@ Voici à quoi peut ressembler le corps d'une nouvelle approbation :
 
 ### 1.8 **Description**
 
-La description de l'approbation suit les [règles générales de formatage des messages](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+La description de l'approbation suit les [règles générales de formatage des messages](https://support.catenda.com/fr/articles/8430847-formatting-of-posts).
 
 ### 1.9 **Brouillons**
 

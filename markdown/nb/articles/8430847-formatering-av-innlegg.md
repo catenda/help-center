@@ -40,7 +40,7 @@ I sakskommentarer er et vedleggverktøy synlig. Klikk på +-knappen i en sak for
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/05-topic-comment-attachment.png)
 
-Klikk [her](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae) for å lese mer om kommentarvedlegg.
+Klikk [her](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae) for å lese mer om kommentarvedlegg.
 
 ## 3. **Formater tekst**
 
@@ -100,7 +100,7 @@ For at bildet skal vises riktig, må Catenda ha tilgang til lenken som er gitt.
 
 > **Merk:** \+ Bildet kan legges til en beskrivelse \+ Bildet kan blandes med tekst slik at du kan ha tekst både før og etter bildet i samme kommentarer eller beskrivelse. \+ Bilder som disse kan kombineres med tabeller og lister. Du kan for eksempel legge til et hakemerke-bilde midt i en setning/tabell i stedet for avkryssingsboksen som bare fungerer på starten av en setning \- Du kan ikke garantere at lenken til bildet forblir tilgjengelig i fremtiden.
 
-_Få en Catenda-bildedokumentlenke_ Hvis du høyreklikker på [nedlastingsknappen etter å ha valgt et dokument](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) eller høyreklikker på [nedlast siste revisjonsknapp etter å ha åpnet et dokument](https://support.catenda.com/en/articles/9323521-actions-in-a-document), kan du kopiere nedlastingslenken til dokumentet. Hvis du bruker denne lenken i saken din som ovenfor, vil du kunne bruke Catenda-dokumenter i saker.
+_Få en Catenda-bildedokumentlenke_ Hvis du høyreklikker på [nedlastingsknappen etter å ha valgt et dokument](https://support.catenda.com/nb/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) eller høyreklikker på [nedlast siste revisjonsknapp etter å ha åpnet et dokument](https://support.catenda.com/nb/articles/9323521-actions-in-a-document), kan du kopiere nedlastingslenken til dokumentet. Hvis du bruker denne lenken i saken din som ovenfor, vil du kunne bruke Catenda-dokumenter i saker.
 
 > **Merk:** \+ Hvis du legger til en lenke til et Catenda-bildedokument, kan du legge til bilder som bare vises på Catenda og som ikke er tilgjengelige på andre plattformer som saken kan utveksles med. \+ Ved å legge til lenker til et Catenda-bildedokument kan bare personer med tilgang til dokumentet se bildet. \- Hvis du legger til en lenke til et Catenda-bildedokument, vil det ikke være synlig på andre plattformer som saken kan ha blitt synkronisert med, og for personer som ikke har tilgang til dokumentet.
 
@@ -210,7 +210,7 @@ Blir til dette:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/07-checklists.png)
 
-Klikk [her](https://support.catenda.com/en/articles/5036461-check-lists-within-issues) for å se en rask video om hvordan sjekklister kan brukes i prosjektet. Hvis du skriver` - [ ]` eller `- [x]` vil boksen fortsatt vises merket av eller ikke merket av når kommentaren sendes inn eller lagres etter redigering.
+Klikk [her](https://support.catenda.com/nb/articles/5036461-check-lists-within-issues) for å se en rask video om hvordan sjekklister kan brukes i prosjektet. Hvis du skriver` - [ ]` eller `- [x]` vil boksen fortsatt vises merket av eller ikke merket av når kommentaren sendes inn eller lagres etter redigering.
 
 **Avkryssingsbokser i kommentarer** I kommentarer kan avkryssingsbokser bare merkes av gjennom formatering. Avkryssingsbokser i kommentarer kan ikke klikkes for å bli merket av. _Tilgang påkrevd -_ Kommentarens skaper har tilgang til redigering av den opprettede kommentaren
 
@@ -262,7 +262,7 @@ Når beskrivelsen lagres eller kommentaren sendes inn, mottar relaterte medlemme
 
 **Varsler om fremtidige saksbegivenheter** Medlemmer av teams som er nevnt i saksbeskrivelser og kommentarer mottar bare det ene varselet ved den lagrede beskrivelsen eller sendt kommentar.
 
-I tillegg til varselet om at de er nevnt, blir medlemmer som er nevnt i innlegg automatisk satt til å [følge](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken og vil få varsler om saksbegivenheter som nye kommentarer og statusendringer. Dette er en fin måte å sikre at mer enn bare [tilordnet](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) og [forespørrer](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7) få varsler om fremtidige endringer i saken. Hvis et medlem ikke lenger ønsker å følge saken, må de manuelt slutte å følge den.
+I tillegg til varselet om at de er nevnt, blir medlemmer som er nevnt i innlegg automatisk satt til å [følge](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken og vil få varsler om saksbegivenheter som nye kommentarer og statusendringer. Dette er en fin måte å sikre at mer enn bare [tilordnet](https://support.catenda.com/nb/articles/8400566-issue-header#h_0a91fa8dd9) og [forespørrer](https://support.catenda.com/nb/articles/8400566-issue-header#h_1aea0990a7) få varsler om fremtidige endringer i saken. Hvis et medlem ikke lenger ønsker å følge saken, må de manuelt slutte å følge den.
 
 ### 5.2 **Nevning i innlegg**
 
@@ -272,7 +272,7 @@ Nevninger i innlegg kan identifiseres ved at de har grønn tekstfarge.
 
 I bakgrunnen lagres den unike ID-en til det nevnte prosjektdeltakeren. Det er deltakerens navn som vises i denne grønne teksten. Selv om medlemmet eller teamet endrer navn, vil de forbli nevnt i innlegget, men under sitt nye navn.
 
-Nevnte medlemmer har en klikkbar lenke som leder til [medlemssiden](https://support.catenda.com/en/articles/8228836-member-page) til det medlemmet. Nevnte teams har en klikkbar lenke som leder til [teamsiden](https://support.catenda.com/en/articles/7891755-team-page) til det teamet.
+Nevnte medlemmer har en klikkbar lenke som leder til [medlemssiden](https://support.catenda.com/nb/articles/8228836-member-page) til det medlemmet. Nevnte teams har en klikkbar lenke som leder til [teamsiden](https://support.catenda.com/nb/articles/7891755-team-page) til det teamet.
 
 **Ikke-eksisterende medlem** Hvis det ikke er noe medlem i prosjektet som har e-postadressen som er nevnt, ser innlegget slik ut i stedet:
 
@@ -294,15 +294,15 @@ Søk gjennom listen ved å begynne å skrive tittelen eller saknummeret. Gå opp
 
 ### 6.1 **Lagre eller sende inn en merket sak**
 
-Når beskrivelsen lagres eller kommentaren sendes inn, opprettes en sakrelasjon. Den merkede saken legges deretter til listen over [linkede saker](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) i [høyre meny](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) til saken.
+Når beskrivelsen lagres eller kommentaren sendes inn, opprettes en sakrelasjon. Den merkede saken legges deretter til listen over [linkede saker](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) i [høyre meny](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue) til saken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/14-saving-or-submitting-a-tagged-topic.png)
 
-I tillegg til saken der en annen sak ble merket, mottar den merkede saken selv en lenke tilbake til saken der den ble lagt til listen over [linkede saker](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) i [høyre meny](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue).
+I tillegg til saken der en annen sak ble merket, mottar den merkede saken selv en lenke tilbake til saken der den ble lagt til listen over [linkede saker](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) i [høyre meny](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/15-saving-or-submitting-a-tagged-topic.png)
 
-Saklenken kan senere fjernes fra enten saken med den merkede saken i beskrivelsen eller fra saken som ble merket ved å gå til hver sak og redigere listen over [linkede saker](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) i [høyre meny](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue).
+Saklenken kan senere fjernes fra enten saken med den merkede saken i beskrivelsen eller fra saken som ble merket ved å gå til hver sak og redigere listen over [linkede saker](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) i [høyre meny](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue).
 
 ### 6.2 **Merket sak i innlegg**
 

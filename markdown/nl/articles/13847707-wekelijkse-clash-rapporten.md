@@ -74,13 +74,13 @@ Clash-groepering maakt batch-topic-creatie mogelijk, filtering maakt gerichte st
 
 ## 5. **Bronnen**
 
-- [Clash-coördinatie op schaal beheren](https://support.catenda.com/en/articles/13845605-managing-clash-coordination-at-scale)
-- [Catenda Navisworks-plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
+- [Clash-coördinatie op schaal beheren](https://support.catenda.com/nl/articles/13845605-managing-clash-coordination-at-scale)
+- [Catenda Navisworks-plugin](https://support.catenda.com/nl/articles/5085987-catenda-navisworks-plugin)
 
 ## 6. **Verder lezen**
 
-- [Clash-coördinatie op schaal beheren](https://support.catenda.com/en/articles/13845605-managing-clash-coordination-at-scale)
-- [Catenda Navisworks-plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
+- [Clash-coördinatie op schaal beheren](https://support.catenda.com/nl/articles/13845605-managing-clash-coordination-at-scale)
+- [Catenda Navisworks-plugin](https://support.catenda.com/nl/articles/5085987-catenda-navisworks-plugin)
 
 ## 7. Prompt
 

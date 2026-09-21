@@ -2,7 +2,7 @@
 
 > Décrit les outils de la visionneuse 3D dans Catenda Hub
 
-Après le chargement d'un modèle 3D dans la [visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer), le [bouton de menu déroulant des outils](https://support.catenda.com/en/articles/8227211-3d-viewer#h_003a4c0a62) se trouve en haut à droite.
+Après le chargement d'un modèle 3D dans la [visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer), le [bouton de menu déroulant des outils](https://support.catenda.com/fr/articles/8227211-3d-viewer#h_003a4c0a62) se trouve en haut à droite.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/01-intro.png)
 
@@ -14,11 +14,11 @@ Lorsque vous ouvrez le menu déroulant des outils, il peut ressembler à ceci :
 
 ## 1. **Sélecteur d'objets - Par défaut**
 
-Avec cet outil, vous pourrez cliquer sur les objets pour les sélectionner. La [touche de raccourci](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Object%20picker-,Space,-Laser%20measure) pour sélectionner cet outil est « espace »
+Avec cet outil, vous pourrez cliquer sur les objets pour les sélectionner. La [touche de raccourci](https://support.catenda.com/fr/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Object%20picker-,Space,-Laser%20measure) pour sélectionner cet outil est « espace »
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/03-object-picker-default.png)
 
-Après avoir sélectionné un objet, maintenez la touche Contrôle pour sélectionner plusieurs objets. Les objets peuvent également être sélectionnés avec une sélection rectangulaire dans la [visionneuse 2D](https://support.catenda.com/en/articles/4854537-2d-viewer#h_042dc145fa).
+Après avoir sélectionné un objet, maintenez la touche Contrôle pour sélectionner plusieurs objets. Les objets peuvent également être sélectionnés avec une sélection rectangulaire dans la [visionneuse 2D](https://support.catenda.com/fr/articles/4854537-2d-viewer#h_042dc145fa).
 
 ## 2. **Plans de coupe**
 
@@ -26,15 +26,15 @@ Pour créer rapidement un plan de coupe, pointez sur un objet et créez un plan 
 
 ### 2.1 **Créer un plan de coupe**
 
-Cliquez ici pour créer un [plan de coupe](https://support.catenda.com/en/articles/4670253-clipping-planes) parallèle à l'objet sur lequel vous pointez.
+Cliquez ici pour créer un [plan de coupe](https://support.catenda.com/fr/articles/4670253-clipping-planes) parallèle à l'objet sur lequel vous pointez.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/04-create-clipping-plane.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/4670253-clipping-planes) pour en savoir plus sur la création de plans de coupe.
+Cliquez [ici](https://support.catenda.com/fr/articles/4670253-clipping-planes) pour en savoir plus sur la création de plans de coupe.
 
 ### 2.2 **Créer un plan de mesure**
 
-Cliquez ici pour créer un [plan de mesure](https://support.catenda.com/en/articles/8360838-measure-plane) parallèle à l'objet sur lequel vous pointez.
+Cliquez ici pour créer un [plan de mesure](https://support.catenda.com/fr/articles/8360838-measure-plane) parallèle à l'objet sur lequel vous pointez.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/05-create-measure-plane.png)
 
@@ -44,7 +44,7 @@ La mesure laser est une fonctionnalité qui trouve les surfaces et les lignes et
 
 ### 3.1 **Mesure laser**
 
-La mesure laser vous permet de mesurer les distances entre les objets. La [touche de raccourci](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Laser%20measure-,m,-Tape%20measure) pour cela est « m »
+La mesure laser vous permet de mesurer les distances entre les objets. La [touche de raccourci](https://support.catenda.com/fr/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Laser%20measure-,m,-Tape%20measure) pour cela est « m »
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/06-laser-measure.png)
 
@@ -100,7 +100,7 @@ Les informations de mesure pour chaque mesure s'affichent.
 
 ### 3.6 Règle
 
-Mesurez les distances entre les points. La [touche de raccourci](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Tape%20measure-,Shift%20%2B%20m,-Point%20measure) pour cela est « maj+m »
+Mesurez les distances entre les points. La [touche de raccourci](https://support.catenda.com/fr/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Tape%20measure-,Shift%20%2B%20m,-Point%20measure) pour cela est « maj+m »
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/15-tape-measure.png)
 
@@ -114,7 +114,7 @@ Comme avec l'outil de mesure laser, vous pouvez cliquer sur les icônes d'œil p
 
 ### 3.7 **Coordonnées**
 
-Mesurer les coordonnées La [touche de raccourci](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Point%20measure-,Ctrl%20%2B%20m,-Content%20panel) pour cela est « ctrl+m »
+Mesurer les coordonnées La [touche de raccourci](https://support.catenda.com/fr/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Point%20measure-,Ctrl%20%2B%20m,-Content%20panel) pour cela est « ctrl+m »
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/18-point-measure.png)
 

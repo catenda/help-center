@@ -1,6 +1,6 @@
 # Rechtermenu op de pagina Leden
 
-Selecteer een element op de [pagina Leden en Teams](https://support.catenda.com/en/articles/4670291-members-and-teams-page) zodat de infoknop wordt weergegeven rechts van de zoek- of filterbalk. Dit is waar de knop op de pagina kan worden gevonden:
+Selecteer een element op de [pagina Leden en Teams](https://support.catenda.com/nl/articles/4670291-members-and-teams-page) zodat de infoknop wordt weergegeven rechts van de zoek- of filterbalk. Dit is waar de knop op de pagina kan worden gevonden:
 
 ![Tabblad Leden van de pagina Leden en Teams. Een pijl wijst naar ](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/01-intro.png)
 

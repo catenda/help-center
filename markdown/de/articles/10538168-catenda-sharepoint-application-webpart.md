@@ -4,7 +4,7 @@ Mit dem Catenda-Webpart können Sie den Dokumentbereich eines Catenda-Projekts i
 
 ## 1. **Webpart hinzufügen**
 
-Bearbeiten Sie eine vorhandene Seite oder erstellen Sie eine neue Seite in SharePoint und bearbeiten Sie diese. Bewegen Sie den Mauszeiger über Ihre Seite im Bearbeitungsmodus, bis Sie eine Linie mit einem Plus `----+-----` sehen. Wenn die [Catenda SharePoint-Anwendung](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application) zu Ihrer Website hinzugefügt wurde, können Sie das Catenda Document Webpart in Ihrer Liste der Webparts finden.
+Bearbeiten Sie eine vorhandene Seite oder erstellen Sie eine neue Seite in SharePoint und bearbeiten Sie diese. Bewegen Sie den Mauszeiger über Ihre Seite im Bearbeitungsmodus, bis Sie eine Linie mit einem Plus `----+-----` sehen. Wenn die [Catenda SharePoint-Anwendung](https://support.catenda.com/de/articles/8396496-catenda-sharepoint-application) zu Ihrer Website hinzugefügt wurde, können Sie das Catenda Document Webpart in Ihrer Liste der Webparts finden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/01-adding-the-webpart.png)
 
@@ -16,7 +16,7 @@ Wenn Sie Ihr Catenda-Konto noch nicht autorisiert haben, sieht das Webpart so au
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/03-adding-the-webpart.png)
 
-Wenn Sie eine Seite mit aktiviertem Catenda-Webpart öffnen und Ihr Konto noch nicht autorisiert haben, werden Sie aufgefordert, dies zu tun. Weitere Informationen zum Autorisieren Ihres Kontos finden Sie [hier](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application#h_788fe15988).
+Wenn Sie eine Seite mit aktiviertem Catenda-Webpart öffnen und Ihr Konto noch nicht autorisiert haben, werden Sie aufgefordert, dies zu tun. Weitere Informationen zum Autorisieren Ihres Kontos finden Sie [hier](https://support.catenda.com/de/articles/8396496-catenda-sharepoint-application#h_788fe15988).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/04-adding-the-webpart.png)
 
@@ -74,7 +74,7 @@ Nach dem Klicken wird ein Dateinavigator geöffnet, und Sie können auswählen, 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/11-upload-file.png)
 
-> **Hinweis:** Wenn Sie einen Ordner ziehen und ablegen, wird dieser als ZIP-Datei veröffentlicht. Wenn Sie eine Ordnerstruktur hochladen möchten, müssen Sie diese von SharePoint herunterladen und über den [ZIP-Upload](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) oder den [Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) in Catenda hochladen.
+> **Hinweis:** Wenn Sie einen Ordner ziehen und ablegen, wird dieser als ZIP-Datei veröffentlicht. Wenn Sie eine Ordnerstruktur hochladen möchten, müssen Sie diese von SharePoint herunterladen und über den [ZIP-Upload](https://support.catenda.com/de/articles/7945410-upload-a-zip-file-structure) oder den [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) in Catenda hochladen.
 
 ### 4.3 **Neu laden**
 

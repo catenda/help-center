@@ -10,12 +10,12 @@ På venstre side av siden for varsel ser du dine nyeste varsel, og på høyre si
 
 ## 1. **Filtrering og funksjonalitet**
 
-Klikk [her](https://support.catenda.com/en/articles/8304417-filtering-and-functionality-on-notifications-pages) for å lese mer om hvordan du filtrerer de ulike problemene og i hvilke tilfeller du får sendt hver type varsel.
+Klikk [her](https://support.catenda.com/nb/articles/8304417-filtering-and-functionality-on-notifications-pages) for å lese mer om hvordan du filtrerer de ulike problemene og i hvilke tilfeller du får sendt hver type varsel.
 
 ## 2. **E-postvarsel**
 
-Hvis du har aktivert e-postvarsel, vil disse varslene også bli sendt til deg enten i en sammendragsmail eller som en separat e-post per varsel. Dette kan konfigureres i [innstillinger for e-postvarsel](https://support.catenda.com/en/articles/8272435-notification-settings#h_75e5db8657). Hvis du ikke mottar e-poster, sjekk [denne](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) artikkelen.
+Hvis du har aktivert e-postvarsel, vil disse varslene også bli sendt til deg enten i en sammendragsmail eller som en separat e-post per varsel. Dette kan konfigureres i [innstillinger for e-postvarsel](https://support.catenda.com/nb/articles/8272435-notification-settings#h_75e5db8657). Hvis du ikke mottar e-poster, sjekk [denne](https://support.catenda.com/nb/articles/8417802-why-am-i-not-receiving-emails) artikkelen.
 
 ## 3. **Varselinnstillinger**
 
-Du finner [innstillinger for varsel](https://support.catenda.com/en/articles/8272435-notification-settings) som en underside til siden for varsel.
+Du finner [innstillinger for varsel](https://support.catenda.com/nb/articles/8272435-notification-settings) som en underside til siden for varsel.

@@ -1,6 +1,6 @@
 # Feilsøking for dokumentinnstillinger
 
-I denne artikkelen finner du informasjon om feilene som kan oppstå på [dokumentinnstillingssiden](https://support.catenda.com/en/articles/7831371-document-settings-page).
+I denne artikkelen finner du informasjon om feilene som kan oppstå på [dokumentinnstillingssiden](https://support.catenda.com/nb/articles/7831371-document-settings-page).
 
 ## 1. **Arbeidsflyt med status**
 

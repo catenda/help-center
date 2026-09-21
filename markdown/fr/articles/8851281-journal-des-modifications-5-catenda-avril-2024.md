@@ -4,7 +4,7 @@ Bonjour à tous,
 
 L'hiver est enfin terminé et le soleil a recommencé à briller. Même ici en Norvège! Maintenant que Pâques est passée, l'été est à nos portes! ☀️😎🏖️ Mais ne partez pas en vacances tout de suite car nous avons apporté des modifications. Dans cet article, vous trouverez des mises à jour sur les sujets suivants :
 
-_[Articles](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [sujets résolus](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [Nouvelles versions](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)_
+_[Articles](https://support.catenda.com/fr/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [sujets résolus](https://support.catenda.com/fr/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [Nouvelles versions](https://support.catenda.com/fr/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)_
 
 ## 1. **Articles**
 
@@ -12,37 +12,37 @@ _[Articles](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-
 
 ### 1.1 **Nouveaux articles:**
 
-**Démarrage et FAQ** [Démarrage sur Catenda Hub](https://support.catenda.com/en/articles/9030303-getting-started-on-catenda-hub) [La bulle de message en bas à droite](http://The%20bottom%20right%20message%20bubble) [Niveaux de contrôle d'accès](https://support.catenda.com/en/articles/8967083-access-control-levels) [Qu'est-ce qu'un sujet dans Catenda?](https://support.catenda.com/en/articles/8979789-what-is-a-topic-in-catenda) [Appels d'offres dans Catenda](https://support.catenda.com/en/articles/9063936-tendering-in-catenda) [Pages sans accès](https://support.catenda.com/en/articles/9172624-no-access-pages)
+**Démarrage et FAQ** [Démarrage sur Catenda Hub](https://support.catenda.com/fr/articles/9030303-getting-started-on-catenda-hub) [La bulle de message en bas à droite](http://The%20bottom%20right%20message%20bubble) [Niveaux de contrôle d'accès](https://support.catenda.com/fr/articles/8967083-access-control-levels) [Qu'est-ce qu'un sujet dans Catenda?](https://support.catenda.com/fr/articles/8979789-what-is-a-topic-in-catenda) [Appels d'offres dans Catenda](https://support.catenda.com/fr/articles/9063936-tendering-in-catenda) [Pages sans accès](https://support.catenda.com/fr/articles/9172624-no-access-pages)
 
-**Page principale** [Page des Membres dans l'outil organisation](https://support.catenda.com/en/articles/9003642-members-page-in-organization-tool)
+**Page principale** [Page des Membres dans l'outil organisation](https://support.catenda.com/fr/articles/9003642-members-page-in-organization-tool)
 
-**Sujets** [Points de vue 2D et 3D](https://support.catenda.com/en/articles/9184555-2d-and-3d-viewpoints)
+**Sujets** [Points de vue 2D et 3D](https://support.catenda.com/fr/articles/9184555-2d-and-3d-viewpoints)
 
-**Documents** [Téléchargement d'un document](https://support.catenda.com/en/articles/4670278-uploading-a-document) [Page de collection](https://support.catenda.com/en/articles/8999764-collection-page)
+**Documents** [Téléchargement d'un document](https://support.catenda.com/fr/articles/4670278-uploading-a-document) [Page de collection](https://support.catenda.com/fr/articles/8999764-collection-page)
 
-**Plugins et intégrations** [Document - Catenda Site](https://support.catenda.com/en/articles/8975421-document-catenda-site)
+**Plugins et intégrations** [Document - Catenda Site](https://support.catenda.com/fr/articles/8975421-document-catenda-site)
 
 ### 1.2 **Articles qui ont changé:**
 
-**Mises à jour récentes** [Modèles comme documents](https://support.catenda.com/en/articles/8064548-models-as-documents)
+**Mises à jour récentes** [Modèles comme documents](https://support.catenda.com/fr/articles/8064548-models-as-documents)
 
-**Page principale** [Page Projets](https://support.catenda.com/en/articles/4670260-projects-page) [Créer un nouveau projet ](https://support.catenda.com/en/articles/4670245-creating-a-new-project) [Page des Utilisateurs dans l'outil organisation](https://support.catenda.com/en/articles/8508311-users-page-in-organization-tool) [Paramètres de notification de compte ](https://support.catenda.com/en/articles/8272435-account-notification-settings)
+**Page principale** [Page Projets](https://support.catenda.com/fr/articles/4670260-projects-page) [Créer un nouveau projet ](https://support.catenda.com/fr/articles/4670245-creating-a-new-project) [Page des Utilisateurs dans l'outil organisation](https://support.catenda.com/fr/articles/8508311-users-page-in-organization-tool) [Paramètres de notification de compte ](https://support.catenda.com/fr/articles/8272435-account-notification-settings)
 
-**Sujets** [Paramètres du tableau des sujets](https://support.catenda.com/en/articles/4670277-topic-board-settings) [Corps du sujet](https://support.catenda.com/en/articles/8053352-issue-body) [Mise en forme des messages](https://support.catenda.com/en/articles/8430847-formatting-of-posts)
+**Sujets** [Paramètres du tableau des sujets](https://support.catenda.com/fr/articles/4670277-topic-board-settings) [Corps du sujet](https://support.catenda.com/fr/articles/8053352-issue-body) [Mise en forme des messages](https://support.catenda.com/fr/articles/8430847-formatting-of-posts)
 
 **Documents**
 
-_[Structurer les documents](https://support.catenda.com/en/articles/8542598-structuring-documents)_ [Annotations sur les documents](https://support.catenda.com/en/articles/5001165-annotations-on-documents) [Page Collections](https://support.catenda.com/en/articles/6344318-collections-page) [Filtrage sur la page des approbations](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page) [Filtrage dans un tableau de sujets](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board)
+_[Structurer les documents](https://support.catenda.com/fr/articles/8542598-structuring-documents)_ [Annotations sur les documents](https://support.catenda.com/fr/articles/5001165-annotations-on-documents) [Page Collections](https://support.catenda.com/fr/articles/6344318-collections-page) [Filtrage sur la page des approbations](https://support.catenda.com/fr/articles/8551740-filtering-on-the-approvals-page) [Filtrage dans un tableau de sujets](https://support.catenda.com/fr/articles/8370693-filtering-in-a-topic-board)
 
-**Modèles** [Visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer) [Visionneuse 2D](https://support.catenda.com/en/articles/4854537-2d-viewer) [Requêtes](https://support.catenda.com/en/articles/4854514-queries)
+**Modèles** [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer) [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-2d-viewer) [Requêtes](https://support.catenda.com/fr/articles/4854514-queries)
 
-**Panneau d'information** [Panneau d'information](https://support.catenda.com/en/articles/8238584-information-panel)
+**Panneau d'information** [Panneau d'information](https://support.catenda.com/fr/articles/8238584-information-panel)
 
-**Paramètres** [Page Étiquettes](https://support.catenda.com/en/articles/4670265-labels-page) [Créer une équipe](https://support.catenda.com/en/articles/4670264-creating-a-team)
+**Paramètres** [Page Étiquettes](https://support.catenda.com/fr/articles/4670265-labels-page) [Créer une équipe](https://support.catenda.com/fr/articles/4670264-creating-a-team)
 
-**Plugins et intégrations** [Connecteur de bureau Catenda](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) [Intégration Power BI](https://support.catenda.com/en/articles/5784721-integration-power-bi) [Manuel IFC Archicad](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual) [Plugin Archicad](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin) [Intégration Solibri Modèles en tant que Documents](https://support.catenda.com/en/articles/6988148-solibri-models-and-documents-integration)
+**Plugins et intégrations** [Connecteur de bureau Catenda](https://support.catenda.com/fr/articles/8358861-catenda-desktop-connector) [Intégration Power BI](https://support.catenda.com/fr/articles/5784721-integration-power-bi) [Manuel IFC Archicad](https://support.catenda.com/fr/articles/4670338-ifc-export-archicad-manual) [Plugin Archicad](https://support.catenda.com/fr/articles/5519276-catenda-archicad-plugin) [Intégration Solibri Modèles en tant que Documents](https://support.catenda.com/fr/articles/6988148-solibri-models-and-documents-integration)
 
-**Catenda Site** [Télécharger votre application mobile Catenda Site](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site)
+**Catenda Site** [Télécharger votre application mobile Catenda Site](https://support.catenda.com/fr/articles/6530821-download-your-mobile-app-catenda-site)
 
 ## 2. **Bogues résolus**
 

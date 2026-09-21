@@ -1,10 +1,10 @@
 # Sakbanner - Navigering av saker
 
-Hvis du velger en sak fra en [saksliste](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) vil et nytt vindu åpnes for den saken. Dette er hvordan et sakvindu kan se ut:
+Hvis du velger en sak fra en [saksliste](https://support.catenda.com/nb/articles/4670271-issues-page#h_6a5895256b) vil et nytt vindu åpnes for den saken. Dette er hvordan et sakvindu kan se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/01-intro.png)
 
-1\. Sakbanneret vil bli beskrevet i denne artikkelen. 2\. Du finner sakbanneret over [Sakhodet](https://support.catenda.com/en/articles/8400566-issue-header). 3\. Til høyre for sakhodet og brødteksten finner du [høyre informasjonspanel](https://support.catenda.com/en/articles/8053299-issue-right-panel). 4\. Under hodet på en sak finner du [sakbrødteksten](https://support.catenda.com/en/articles/8053352-issue-body).
+1\. Sakbanneret vil bli beskrevet i denne artikkelen. 2\. Du finner sakbanneret over [Sakhodet](https://support.catenda.com/nb/articles/8400566-issue-header). 3\. Til høyre for sakhodet og brødteksten finner du [høyre informasjonspanel](https://support.catenda.com/nb/articles/8053299-issue-right-panel). 4\. Under hodet på en sak finner du [sakbrødteksten](https://support.catenda.com/nb/articles/8053352-issue-body).
 
 ## 1. **Brødkrummer**
 
@@ -12,11 +12,11 @@ Hvis du velger en sak fra en [saksliste](https://support.catenda.com/en/articles
 
 ### 1.1 **Saker**
 
-Klikk på saker i brødkrummene for å gå tilbake til den gjeldende [sakslisten](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b).
+Klikk på saker i brødkrummene for å gå tilbake til den gjeldende [sakslisten](https://support.catenda.com/nb/articles/4670271-issues-page#h_6a5895256b).
 
 ### 1.2 **Sak** **listevalg**
 
-Velg en [saksliste](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) i rullegardinmenyen for sakslister i brødkrummene for å gå til denne sakslisten.
+Velg en [saksliste](https://support.catenda.com/nb/articles/4670271-issues-page#h_6a5895256b) i rullegardinmenyen for sakslister i brødkrummene for å gå til denne sakslisten.
 
 ### 1.3 **Saknummer og tittel**
 
@@ -36,7 +36,7 @@ _Forrige- og neste-knapper_ - Gå til forrige eller neste sak i den filtrerte sa
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/04-top-buttons.png)
 
-_Ny sak_ - Opprett en [ny sak](https://support.catenda.com/en/articles/4670268-creating-a-new-issue) _Klon sak_  - Lag en kopi av denne saken Du vil ønske å klone en sak når du vil lage en lignende sak som er litt annerledes enn den gjeldende saken. Det anbefales ikke å lage flere av samme sak og tildele hver til en annen person. I stedet vil du ønske å [nevne](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) de ulike medlemmene du vil legge til saken med @medlem.
+_Ny sak_ - Opprett en [ny sak](https://support.catenda.com/nb/articles/4670268-creating-a-new-issue) _Klon sak_  - Lag en kopi av denne saken Du vil ønske å klone en sak når du vil lage en lignende sak som er litt annerledes enn den gjeldende saken. Det anbefales ikke å lage flere av samme sak og tildele hver til en annen person. I stedet vil du ønske å [nevne](https://support.catenda.com/nb/articles/8430847-formatting-of-posts#h_2481ad1c8c) de ulike medlemmene du vil legge til saken med @medlem.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/05-top-buttons.png)
 
@@ -52,4 +52,4 @@ _Ny sak_ - Opprett en [ny sak](https://support.catenda.com/en/articles/4670268-c
 
 > **Merk:** Kommentarer blir ikke klonet
 
-_Innstillinger_ - Gå til [sakslisteinnstillinger](https://support.catenda.com/en/articles/4670277-issue-board-settings) ved å klikke på denne knappen
+_Innstillinger_ - Gå til [sakslisteinnstillinger](https://support.catenda.com/nb/articles/4670277-issue-board-settings) ved å klikke på denne knappen

@@ -1,6 +1,6 @@
 # Revisiekiezer
 
-De revisiekiezer is een vervolgkeuzemenu dat zich in de linkerbovenhoek van het scherm in het [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)-paneel bevindt.
+De revisiekiezer is een vervolgkeuzemenu dat zich in de linkerbovenhoek van het scherm in het [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer)-paneel bevindt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/01-intro.png)
 
@@ -30,17 +30,17 @@ Een gedeeltelijke overeenkomst van 3 Romeinse letters of meer kan worden gevonde
 
 **Overeenkomst na scheidingsteken** Na een scheidingsteken wordt de drie-tekenregel opnieuw ingesteld en kunnen alleen drie of meer tekens na een scheidingsteken worden gevonden. De drie-tekenregel wordt na elk scheidingsteken opnieuw ingesteld. Scheidingstekens kunnen tekens zijn als onderstrepingstekens "`_`" of streepjes "`-`".
 
-**Inhoudsvenster** Beperk uw zoekopdracht verder door in het inhoudsvenster te zoeken. Hier kunt u op meer informatie filteren dan alleen de naam van het model. In het inhoudsvenster vindt u alle 3D-documenten die aan een model zijn gekoppeld op de [modellenpagina](https://support.catenda.com/en/articles/4670286-models-page). 3D-documenten die niet aan een document zijn gekoppeld, vindt u op de [documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page).
+**Inhoudsvenster** Beperk uw zoekopdracht verder door in het inhoudsvenster te zoeken. Hier kunt u op meer informatie filteren dan alleen de naam van het model. In het inhoudsvenster vindt u alle 3D-documenten die aan een model zijn gekoppeld op de [modellenpagina](https://support.catenda.com/nl/articles/4670286-models-page). 3D-documenten die niet aan een document zijn gekoppeld, vindt u op de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documents-page).
 
 ### 1.2 **3D-documentenlijst**
 
-Zie de 10 meest relevante 3D-documenten. De 3D-documentenlijst wordt gesorteerd volgens de [typische sorteervolgorde van lijsten in Catenda](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists).
+Zie de 10 meest relevante 3D-documenten. De 3D-documentenlijst wordt gesorteerd volgens de [typische sorteervolgorde van lijsten in Catenda](https://support.catenda.com/nl/articles/8487788-sorting-order-of-lists).
 
-_Modellen -_ Standaard weergegeven Zie alle [IFC-documenten](https://support.catenda.com/en/articles/5658031-ifc-support-in-documents) die aan een model zijn gekoppeld. Uw lijst met beschikbare modellen is gebaseerd op de toegangsinstelling van het document dat aan dat model is gekoppeld.
+_Modellen -_ Standaard weergegeven Zie alle [IFC-documenten](https://support.catenda.com/nl/articles/5658031-ifc-support-in-documents) die aan een model zijn gekoppeld. Uw lijst met beschikbare modellen is gebaseerd op de toegangsinstelling van het document dat aan dat model is gekoppeld.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/05-3d-document-list.png)
 
-_3D-documenten -_ Weergegeven wanneer geladen Laad 3D-documenten van de documentenpagina om ze bovenaan de lijst weer te geven. Zie [hier](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c) welke documentindelingen in de 3D-viewer kunnen worden geladen.
+_3D-documenten -_ Weergegeven wanneer geladen Laad 3D-documenten van de documentenpagina om ze bovenaan de lijst weer te geven. Zie [hier](https://support.catenda.com/nl/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c) welke documentindelingen in de 3D-viewer kunnen worden geladen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/06-3d-document-list.png)
 
@@ -50,11 +50,11 @@ _Meer laden_ Klik op de knop Meer laden onder aan de revisiekiezer om meer model
 
 ### 1.3 **2D-knop**
 
-Wanneer de 2D-knop groen is, is de 2D-weergave van dat model zichtbaar in de [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) en in het geheugen geladen. Wanneer de knop grijs is, is de 2D-weergave van dat model niet zichtbaar en niet in het geheugen geladen.
+Wanneer de 2D-knop groen is, is de 2D-weergave van dat model zichtbaar in de [2D-viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer) en in het geheugen geladen. Wanneer de knop grijs is, is de 2D-weergave van dat model niet zichtbaar en niet in het geheugen geladen.
 
 ### 1.4 **3D-knop**
 
-Wanneer op de 3D-knop wordt geklikt, wordt deze groen. De 3D-weergave van dat document is dan beschikbaar in de [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) en in het geheugen geladen. Terwijl de 3D-knop groen is, zijn modelobjecten die bij dat model horen beschikbaar in de 3D-viewer.
+Wanneer op de 3D-knop wordt geklikt, wordt deze groen. De 3D-weergave van dat document is dan beschikbaar in de [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer) en in het geheugen geladen. Terwijl de 3D-knop groen is, zijn modelobjecten die bij dat model horen beschikbaar in de 3D-viewer.
 
 > **Opmerking:** Beschikbaar betekent niet zichtbaar, omdat objecten kunnen worden verborgen en toch beschikbaar kunnen zijn.
 
@@ -84,7 +84,7 @@ Het pictogram van elk 3D-documentbestandstype. Alleen beschikbaar voor 3D-docume
 
 ### 1.8 **Naam**
 
-Voor modellen wordt de modelnaam weergegeven. Voor documenten wordt de documentnaam weergegeven. De documentenlijst volgt de algemene [sorteervolgorde van lijsten](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) in Catenda.
+Voor modellen wordt de modelnaam weergegeven. Voor documenten wordt de documentnaam weergegeven. De documentenlijst volgt de algemene [sorteervolgorde van lijsten](https://support.catenda.com/nl/articles/8487788-sorting-order-of-lists) in Catenda.
 
 ### 1.9 **Modelrevisie**
 
@@ -124,7 +124,7 @@ Puntenwolken kunnen in de revisiekiezer worden geconfigureerd door op het tandwi
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/14-point-cloud-settings.png)
 
-Klik [hier](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub) voor meer informatie over de verschillende manieren waarop u de 3D-viewer voor het bekijken van puntenwolken kunt configureren.
+Klik [hier](https://support.catenda.com/nl/articles/5606625-point-clouds-in-catenda-hub) voor meer informatie over de verschillende manieren waarop u de 3D-viewer voor het bekijken van puntenwolken kunt configureren.
 
 ### 1.11 **Document verwijderen**
 
@@ -140,13 +140,13 @@ Het is alleen mogelijk om modellen in de 3D-viewer van één revisiekiezermenu t
 
 ## 2. **Query's**
 
-Beperk de objecten die u in de 3D-viewer laadt met objectquery's. Hiermee kunt u geheugen besparen bij het laden van honderden modellen tegelijk en ook de objectboom netjes houden. Klik [hier](https://support.catenda.com/en/articles/4854514-queries#h_b7e8a9a086) voor meer informatie over query's.
+Beperk de objecten die u in de 3D-viewer laadt met objectquery's. Hiermee kunt u geheugen besparen bij het laden van honderden modellen tegelijk en ook de objectboom netjes houden. Klik [hier](https://support.catenda.com/nl/articles/4854514-queries#h_b7e8a9a086) voor meer informatie over query's.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/17-queries.png)
 
 ## 3. **Vergelijken**
 
-Met het menu Vergelijken kunnen twee modelrevisies worden geselecteerd om over elkaar heen te leggen. Klik [hier](https://support.catenda.com/en/articles/4670313-revision-selector-short-video) om een korte video te bekijken over het vergelijken van modelrevisies.
+Met het menu Vergelijken kunnen twee modelrevisies worden geselecteerd om over elkaar heen te leggen. Klik [hier](https://support.catenda.com/nl/articles/4670313-revision-selector-short-video) om een korte video te bekijken over het vergelijken van modelrevisies.
 
 Dit is hoe het menu Vergelijken kan eruitzien:
 

@@ -1,8 +1,8 @@
 # Filterung auf der Benachrichtigungsseite
 
-Sowohl in Ihren [Benachrichtigungseinstellungen](https://support.catenda.com/en/articles/8272435-notification-settings) als auch in Ihren [projektspezifischen Benachrichtigungseinstellungen](https://support.catenda.com/en/articles/4670262-project-specific-notification-settings) können Sie konfigurieren, welche Benachrichtigungen Sie erhalten möchten.
+Sowohl in Ihren [Benachrichtigungseinstellungen](https://support.catenda.com/de/articles/8272435-notification-settings) als auch in Ihren [projektspezifischen Benachrichtigungseinstellungen](https://support.catenda.com/de/articles/4670262-project-specific-notification-settings) können Sie konfigurieren, welche Benachrichtigungen Sie erhalten möchten.
 
-In welcher Situation eine Benachrichtigung für die verschiedenen Einstellungen gesendet wird, wird in diesem Artikel erläutert. Nachdem die Benachrichtigung gesendet wurde, kann sie auf der [Seite mit Kontobenachrichtigungen](https://support.catenda.com/en/articles/7439223-account-notifications-page) und der [Seite mit Projektbenachrichtigungen](https://support.catenda.com/en/articles/4670295-project-notifications-page) durch Öffnen des Filtermenüs auf der linken Seite gefunden werden.
+In welcher Situation eine Benachrichtigung für die verschiedenen Einstellungen gesendet wird, wird in diesem Artikel erläutert. Nachdem die Benachrichtigung gesendet wurde, kann sie auf der [Seite mit Kontobenachrichtigungen](https://support.catenda.com/de/articles/7439223-account-notifications-page) und der [Seite mit Projektbenachrichtigungen](https://support.catenda.com/de/articles/4670295-project-notifications-page) durch Öffnen des Filtermenüs auf der linken Seite gefunden werden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/810mbm4a/01-intro.png)
 
@@ -22,11 +22,11 @@ Klicken Sie auf die Filterschaltfläche oben links, um ein Panel auf der linken 
 
 ### 2.3 **Aktuellen Filter speichern und freigeben**
 
-Gehen Sie zur URL einer gefilterten Seite, um diese Seite mit dem angewendeten Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/en/articles/11401493-saving-a-filter-link), um mehr darüber zu erfahren, wie Sie Filter speichern und freigeben
+Gehen Sie zur URL einer gefilterten Seite, um diese Seite mit dem angewendeten Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/de/articles/11401493-saving-a-filter-link), um mehr darüber zu erfahren, wie Sie Filter speichern und freigeben
 
 ### 2.4 **Leere Filter ausblenden**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/8551755-saving-filters), um mehr über die Begrenzung der Filterergebnisse zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8551755-saving-filters), um mehr über die Begrenzung der Filterergebnisse zu erfahren.
 
 ## 3. **Datumsfilter**
 
@@ -46,7 +46,7 @@ Benachrichtigungen des letzten Jahres.
 
 ### 3.4 **Datum auswählen** - `date-from=<Epoch Unix Timestamp>&date-to=<Epoch Unix Timestamp>`
 
-Lesen Sie [diesen](https://support.catenda.com/en/articles/6511685-date-filter) Artikel, um zu erfahren, wie Sie auf der Seite einfach Daten auswählen können.
+Lesen Sie [diesen](https://support.catenda.com/de/articles/6511685-date-filter) Artikel, um zu erfahren, wie Sie auf der Seite einfach Daten auswählen können.
 
 ### 3.5 **Alle Benachrichtigungen**
 
@@ -88,15 +88,15 @@ _Export erfolgreich_ - `type=export-completed` Wenn Ihr Modellexport erfolgreich
 
 ### 7.1 **Neues Thema** - `type=new-issue`
 
-Dies ist die einzige Benachrichtigung, die Sie über ein Thema erhalten, wenn Sie das Thema nicht [verfolgen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e). Beauftragte, Anforderer und Mitglieder, die in Themen erwähnt werden, verfolgen das Thema automatisch und erhalten die folgenden Benachrichtigungen.
+Dies ist die einzige Benachrichtigung, die Sie über ein Thema erhalten, wenn Sie das Thema nicht [verfolgen](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue#h_a97f3b264e). Beauftragte, Anforderer und Mitglieder, die in Themen erwähnt werden, verfolgen das Thema automatisch und erhalten die folgenden Benachrichtigungen.
 
 **Benachrichtigungsoption:** Ein neues Thema wird erstellt
 
 ### 7.2 **Neuer Kommentar** - `type=new-comment`
 
-Wenn Sie weder der Beauftragte noch der Anforderer des Themas sind, aber das Thema [verfolgen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e), erhalten Sie diese Benachrichtigung.
+Wenn Sie weder der Beauftragte noch der Anforderer des Themas sind, aber das Thema [verfolgen](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue#h_a97f3b264e), erhalten Sie diese Benachrichtigung.
 
-Dies kann vorkommen, wenn Sie zuvor [beauftragt](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) waren, [angefordert](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [erwähnt](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) oder [manuell verfolgt](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) das Thema. Wenn Sie keine zukünftigen Benachrichtigungen zu diesem Thema erhalten möchten, können Sie das Thema in seinem [rechten Informationsfeld](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) nicht mehr verfolgen. _Benachrichtigungsoption: mir zugewiesen_ Ein Thema wird Ihnen zugewiesen
+Dies kann vorkommen, wenn Sie zuvor [beauftragt](https://support.catenda.com/de/articles/8400566-issue-header#h_0a91fa8dd9) waren, [angefordert](https://support.catenda.com/de/articles/8400566-issue-header#h_1aea0990a7), [erwähnt](https://support.catenda.com/de/articles/8430847-formatting-of-posts#h_2481ad1c8c) oder [manuell verfolgt](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) das Thema. Wenn Sie keine zukünftigen Benachrichtigungen zu diesem Thema erhalten möchten, können Sie das Thema in seinem [rechten Informationsfeld](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue) nicht mehr verfolgen. _Benachrichtigungsoption: mir zugewiesen_ Ein Thema wird Ihnen zugewiesen
 
 **Benachrichtigungsoption: von mir angefordert** Ein Thema wird von Ihnen angefordert
 
@@ -122,9 +122,9 @@ Wenn ein Team einem Thema zugewiesen wird
 
 ### 7.7 **Status aktualisiert** - `type=status-updated`
 
-Wenn Sie weder der Beauftragte noch der Anforderer des Themas sind, aber das Thema [verfolgen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e), erhalten Sie diese Benachrichtigung.
+Wenn Sie weder der Beauftragte noch der Anforderer des Themas sind, aber das Thema [verfolgen](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue#h_a97f3b264e), erhalten Sie diese Benachrichtigung.
 
-Dies kann vorkommen, wenn Sie zuvor [beauftragt](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) waren, [angefordert](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [erwähnt](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) oder [manuell verfolgt](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) das Thema. Wenn Sie keine zukünftigen Benachrichtigungen zu diesem Thema erhalten möchten, können Sie das Thema in seinem [rechten Informationsfeld](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) nicht mehr verfolgen. _Benachrichtigungsoption: mir zugewiesen_ Ein Status wird in einem Thema aktualisiert, das Ihnen zugewiesen ist
+Dies kann vorkommen, wenn Sie zuvor [beauftragt](https://support.catenda.com/de/articles/8400566-issue-header#h_0a91fa8dd9) waren, [angefordert](https://support.catenda.com/de/articles/8400566-issue-header#h_1aea0990a7), [erwähnt](https://support.catenda.com/de/articles/8430847-formatting-of-posts#h_2481ad1c8c) oder [manuell verfolgt](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) das Thema. Wenn Sie keine zukünftigen Benachrichtigungen zu diesem Thema erhalten möchten, können Sie das Thema in seinem [rechten Informationsfeld](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue) nicht mehr verfolgen. _Benachrichtigungsoption: mir zugewiesen_ Ein Status wird in einem Thema aktualisiert, das Ihnen zugewiesen ist
 
 **Benachrichtigungsoption: von mir angefordert** Ein Status wird in einem Thema aktualisiert, das von Ihnen angefordert wurde
 
@@ -132,9 +132,9 @@ Dies kann vorkommen, wenn Sie zuvor [beauftragt](https://support.catenda.com/en/
 
 ### 7.8 **Typ aktualisiert** - `type=type-updated`
 
-Wenn Sie weder der Beauftragte noch der Anforderer des Themas sind, aber das Thema [verfolgen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e), erhalten Sie diese Benachrichtigung.
+Wenn Sie weder der Beauftragte noch der Anforderer des Themas sind, aber das Thema [verfolgen](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue#h_a97f3b264e), erhalten Sie diese Benachrichtigung.
 
-Dies kann vorkommen, wenn Sie zuvor [beauftragt](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) waren, [angefordert](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [erwähnt](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) oder [manuell verfolgt](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) das Thema. Wenn Sie keine zukünftigen Benachrichtigungen zu diesem Thema erhalten möchten, können Sie das Thema in seinem [rechten Informationsfeld](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) nicht mehr verfolgen. _Benachrichtigungsoptionen:_
+Dies kann vorkommen, wenn Sie zuvor [beauftragt](https://support.catenda.com/de/articles/8400566-issue-header#h_0a91fa8dd9) waren, [angefordert](https://support.catenda.com/de/articles/8400566-issue-header#h_1aea0990a7), [erwähnt](https://support.catenda.com/de/articles/8430847-formatting-of-posts#h_2481ad1c8c) oder [manuell verfolgt](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) das Thema. Wenn Sie keine zukünftigen Benachrichtigungen zu diesem Thema erhalten möchten, können Sie das Thema in seinem [rechten Informationsfeld](https://support.catenda.com/de/articles/8053299-right-panel-in-an-issue) nicht mehr verfolgen. _Benachrichtigungsoptionen:_
 
 Mir zugewiesen - Ein Typ wird in einem Thema aktualisiert, das Ihnen zugewiesen ist
 
@@ -268,7 +268,7 @@ Der Name der heruntergeladenen Zip-Datei lautet _\<Download GUID>.zip_ im Gegens
 
 ### 10.1 **Neue Einladung** - `type=invite`
 
-**Benachrichtigung gesendet, wenn:** Ein anderer Benutzer sendet Ihnen eine Einladung zu einem Projekt. Die Benachrichtigung beschreibt, wer Sie eingeladen hat und zu welchem Projekt Sie eingeladen wurden. Wenn Sie diese Benachrichtigung erhalten haben, sollten Sie auch eine E-Mail mit einem Einladungslink erhalten haben, auf den Sie klicken können, um die Einladung anzunehmen. Bitte überprüfen Sie [hier](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) zur Fehlerbehebung bei E-Mails.
+**Benachrichtigung gesendet, wenn:** Ein anderer Benutzer sendet Ihnen eine Einladung zu einem Projekt. Die Benachrichtigung beschreibt, wer Sie eingeladen hat und zu welchem Projekt Sie eingeladen wurden. Wenn Sie diese Benachrichtigung erhalten haben, sollten Sie auch eine E-Mail mit einem Einladungslink erhalten haben, auf den Sie klicken können, um die Einladung anzunehmen. Bitte überprüfen Sie [hier](https://support.catenda.com/de/articles/8417802-why-am-i-not-receiving-emails) zur Fehlerbehebung bei E-Mails.
 
 > **Hinweis:** Die Benachrichtigung in Catenda Hub enthält auch den Einladungslink, sodass Sie auch auf die Benachrichtigung klicken können, um die Einladung anzunehmen. Wenn Sie noch kein Konto haben, müssen Sie möglicherweise ein Konto erstellen und erneut eingeladen werden, um auf die Benachrichtigung klicken zu können.
 
@@ -312,4 +312,4 @@ Jede Art von Import oder Export, der im Hintergrund verarbeitet wird, erzeugt ei
 
 ### 14.2 **Gesendet, auch wenn alle Benachrichtigungen deaktiviert sind**
 
-Benachrichtigungen zu Links, die über die [Sharelink](https://support.catenda.com/en/articles/4728886-sharelink-notify-people-about-catenda-hub-content)-Funktion mit Benutzern geteilt werden, erstellen immer eine Benachrichtigung für den Benutzer, auch wenn der Benutzer Benachrichtigungen vollständig mit der Ein-/Ausschalt-Taste oben rechts auf der Einstellungsseite für Benachrichtigungen deaktiviert hat.
+Benachrichtigungen zu Links, die über die [Sharelink](https://support.catenda.com/de/articles/4728886-sharelink-notify-people-about-catenda-hub-content)-Funktion mit Benutzern geteilt werden, erstellen immer eine Benachrichtigung für den Benutzer, auch wenn der Benutzer Benachrichtigungen vollständig mit der Ein-/Ausschalt-Taste oben rechts auf der Einstellungsseite für Benachrichtigungen deaktiviert hat.

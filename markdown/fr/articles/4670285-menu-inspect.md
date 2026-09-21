@@ -1,10 +1,10 @@
 # Menu Inspect
 
-Le menu Inspect se trouve comme premier menu dans le [panneau d'informations](https://support.catenda.com/en/articles/8238584-information-panel).
+Le menu Inspect se trouve comme premier menu dans le [panneau d'informations](https://support.catenda.com/fr/articles/8238584-information-panel).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/01-intro.png)
 
-Sélectionnez un objet dans la [Visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer) ou [panneau d'arborescence](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) pour commencer. Les propriétés et les informations connexes sont affichées dans le menu Inspect. Après avoir sélectionné un objet, le panneau Inspect peut ressembler à ceci :
+Sélectionnez un objet dans la [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer) ou [panneau d'arborescence](https://intercom.help/bimsync-arena/fr/articles/4670290-trees-panel) pour commencer. Les propriétés et les informations connexes sont affichées dans le menu Inspect. Après avoir sélectionné un objet, le panneau Inspect peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/02-intro.png)
 
@@ -32,7 +32,7 @@ Le GUID de l'objet. Ce code est unique pour chaque objet et peut être utilisé 
 
 ### 1.5 **Type**
 
-Le type de l'objet. Chaque type a son propre GUID unique. Deux objets qui semblent avoir le même type peuvent en réalité avoir des types différents avec des GUID différents qui leur sont associés. Cliquez sur le type pour sélectionner tous les objets de ce type. Cela activera l'arborescence des types dans le [panneau d'arborescence](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) où vous pouvez voir le type que vous avez sélectionné dans la liste des types pour ce modèle.
+Le type de l'objet. Chaque type a son propre GUID unique. Deux objets qui semblent avoir le même type peuvent en réalité avoir des types différents avec des GUID différents qui leur sont associés. Cliquez sur le type pour sélectionner tous les objets de ce type. Cela activera l'arborescence des types dans le [panneau d'arborescence](https://intercom.help/bimsync-arena/fr/articles/4670290-trees-panel) où vous pouvez voir le type que vous avez sélectionné dans la liste des types pour ce modèle.
 
 ### 1.6 **Type prédéfini**
 
@@ -40,7 +40,7 @@ Le type prédéfini vous indique quel type de type vous traitez
 
 ### 1.7 **Contenant**
 
-Si votre objet fait partie d'une hiérarchie, vous verrez le nœud parent de la hiérarchie ici. Cliquez sur le nœud parent pour sélectionner tous les objets contenus par ce nœud parent. Cela activera l'arborescence de contention dans le [panneau d'arborescence](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) où vous pouvez voir le nœud de contention dans la hiérarchie des objets de votre modèle.
+Si votre objet fait partie d'une hiérarchie, vous verrez le nœud parent de la hiérarchie ici. Cliquez sur le nœud parent pour sélectionner tous les objets contenus par ce nœud parent. Cela activera l'arborescence de contention dans le [panneau d'arborescence](https://intercom.help/bimsync-arena/fr/articles/4670290-trees-panel) où vous pouvez voir le nœud de contention dans la hiérarchie des objets de votre modèle.
 
 ## 2. **Alignements**
 
@@ -52,11 +52,11 @@ Voici à quoi pourrait ressembler le tableau des alignements :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/04-alignments.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/11748020-tables-on-catenda) pour en savoir plus sur les tableaux sur Catenda
+Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour en savoir plus sur les tableaux sur Catenda
 
 ## 3. **Sujets**
 
-Dans le menu Sujets, vous pourrez voir s'il y a des Sujets ouverts ou fermés qui sont [liés à](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_758f17abbc) votre objet sélectionné ou vos objets sélectionnés. Le menu Sujets peut ressembler à ceci :
+Dans le menu Sujets, vous pourrez voir s'il y a des Sujets ouverts ou fermés qui sont [liés à](https://support.catenda.com/fr/articles/8053299-right-menu-in-a-topic#h_758f17abbc) votre objet sélectionné ou vos objets sélectionnés. Le menu Sujets peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/05-topics.png)
 
@@ -124,7 +124,7 @@ Vous pouvez trouver ici les matériaux que les objets sélectionnés ont en comm
 
 ## 5. **Bibliothèques**
 
-Si votre objet sélectionné ou vos objets sélectionnés sont [liés à des documents](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document#h_d0769e55eb) ou des éléments de bibliothèque, vous pourrez les voir ici. Le menu Bibliothèques peut ressembler à ceci :
+Si votre objet sélectionné ou vos objets sélectionnés sont [liés à des documents](https://support.catenda.com/fr/articles/8302244-right-menu-in-a-document#h_d0769e55eb) ou des éléments de bibliothèque, vous pourrez les voir ici. Le menu Bibliothèques peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/10-libraries.png)
 

@@ -54,9 +54,9 @@ Zet het vast aan een mijlpaal of laat het leeg. Dit kan helpen bij het bijhouden
 
 ### 2.8 Verantwoordelijkheid
 
-**Toegewezen aan** Hier kunt u het onderwerp aan een specifiek lid of een team toewijzen. Het wordt aanbevolen dat u een lid als toegewezen persoon instelt in plaats van een team, omdat gedeelde verantwoordelijkheid ervoor zorgt dat geen van de teamleden zich persoonlijk verantwoordelijk voelt. Als u andere teamleden toch op de hoogte wilt stellen dat hun team verantwoordelijk is, kunt u lid@team instellen. Als een lid als toegewezen persoon is ingesteld, volgen zij het onderwerp automatisch [via volgen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e). Als een team als toegewezen persoon is ingesteld, volgen de teamleden het onderwerp niet automatisch [via volgen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e).
+**Toegewezen aan** Hier kunt u het onderwerp aan een specifiek lid of een team toewijzen. Het wordt aanbevolen dat u een lid als toegewezen persoon instelt in plaats van een team, omdat gedeelde verantwoordelijkheid ervoor zorgt dat geen van de teamleden zich persoonlijk verantwoordelijk voelt. Als u andere teamleden toch op de hoogte wilt stellen dat hun team verantwoordelijk is, kunt u lid@team instellen. Als een lid als toegewezen persoon is ingesteld, volgen zij het onderwerp automatisch [via volgen](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_a97f3b264e). Als een team als toegewezen persoon is ingesteld, volgen de teamleden het onderwerp niet automatisch [via volgen](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_a97f3b264e).
 
-**Aangevraagd door** Hier kunt u het lid of team instellen dat het onderwerp aanvraagt. U wordt standaard als aanvrager ingesteld, maar u kunt hier elk lid kiezen. Als een lid als aanvrager is ingesteld, volgen zij het onderwerp automatisch [via volgen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e). Als een team als aanvrager is ingesteld, volgen de teamleden het onderwerp niet automatisch [via volgen](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e).
+**Aangevraagd door** Hier kunt u het lid of team instellen dat het onderwerp aanvraagt. U wordt standaard als aanvrager ingesteld, maar u kunt hier elk lid kiezen. Als een lid als aanvrager is ingesteld, volgen zij het onderwerp automatisch [via volgen](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_a97f3b264e). Als een team als aanvrager is ingesteld, volgen de teamleden het onderwerp niet automatisch [via volgen](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_a97f3b264e).
 
 ### 2.9 Labels
 
@@ -74,7 +74,7 @@ Dit is hoe het informatiepaneel rechts eruit kan zien:
 
 ### 3.1 Documenten
 
-Klik [hier](https://support.catenda.com/en/articles/4670250-linking-a-document-to-an-issue) om te zien hoe u een document aan een onderwerp kunt koppelen.
+Klik [hier](https://support.catenda.com/nl/articles/4670250-linking-a-document-to-an-issue) om te zien hoe u een document aan een onderwerp kunt koppelen.
 
 ## 4. Tekst
 
@@ -86,7 +86,7 @@ De volgende onderwerpen zijn beschreven in deze sectie:
 
 ### 4.1 Omschrijving
 
-Voeg een omschrijving voor het onderwerp toe. Tag personen die in de discussie moeten worden opgenomen met @. In de werkbalk hieronder hebt u enkele opties, bijvoorbeeld: [Controlelijsten in onderwerpen](https://intercom.help/bimsync-arena/en/articles/5036461-check-lists-within-issues)
+Voeg een omschrijving voor het onderwerp toe. Tag personen die in de discussie moeten worden opgenomen met @. In de werkbalk hieronder hebt u enkele opties, bijvoorbeeld: [Controlelijsten in onderwerpen](https://intercom.help/bimsync-arena/nl/articles/5036461-check-lists-within-issues)
 
 ### 4.2 Opmerking
 

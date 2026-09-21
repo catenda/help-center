@@ -2,7 +2,7 @@
 
 > Een documentonderwerpsjabloon toepassen bij het maken van een markering vanuit een document
 
-Documentonderwerpsjablonen kunnen worden geconfigureerd op de [pagina met onderwerpsjabloontinstellingen](https://support.catenda.com/en/articles/14076010-topic-template-settings-page). _Vereiste toegang:_ Projectbeheerder
+Documentonderwerpsjablonen kunnen worden geconfigureerd op de [pagina met onderwerpsjabloontinstellingen](https://support.catenda.com/nl/articles/14076010-topic-template-settings-page). _Vereiste toegang:_ Projectbeheerder
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/01-intro.png)
 
@@ -20,7 +20,7 @@ Documentonderwerpsjablonen kunnen worden geconfigureerd op de [pagina met onderw
 
     <div class="intercom-container intercom-align-center"><img height="540" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-b8fd0218f860.png" style="height: auto;" width="500"/></div>
 
-6. Selecteer het juiste template dat u wilt gebruiken. <br>Zodra u het juiste template selecteert, wordt het nieuwe topic automatisch ingevuld met alle velden die in de gekoppelde template-instellingen voor topics zijn ingesteld, toegankelijk via de [pagina Topic template settings](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).
+6. Selecteer het juiste template dat u wilt gebruiken. <br>Zodra u het juiste template selecteert, wordt het nieuwe topic automatisch ingevuld met alle velden die in de gekoppelde template-instellingen voor topics zijn ingesteld, toegankelijk via de [pagina Topic template settings](https://support.catenda.com/nl/articles/14076010-topic-template-settings-page).
 
     <div class="intercom-container intercom-align-center"><img height="814" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-50d2237a44b3.png" style="height: auto;" width="500"/></div>
 

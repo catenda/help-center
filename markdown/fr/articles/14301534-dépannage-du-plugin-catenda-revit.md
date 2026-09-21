@@ -38,7 +38,7 @@ Il est important de noter que [Revit LT ne prend pas en charge les compléments 
 
 ### 3.2 **Compatibilité des versions**
 
-Pour assurer l'alignement avec les dernières mises à jour logicielles et améliorations de performances, les intégrations sont mises à jour régulièrement. Pour une liste complète des versions d'années actuellement prises en charge pour le complément Revit et le package Dynamo, veuillez consulter l'article [Plugins et Intégrations](https://support.catenda.com/en/articles/8396532-catenda-plugins-integrations).
+Pour assurer l'alignement avec les dernières mises à jour logicielles et améliorations de performances, les intégrations sont mises à jour régulièrement. Pour une liste complète des versions d'années actuellement prises en charge pour le complément Revit et le package Dynamo, veuillez consulter l'article [Plugins et Intégrations](https://support.catenda.com/fr/articles/8396532-catenda-plugins-integrations).
 
 ## 4. Package Dynamo Catenda Hub
 

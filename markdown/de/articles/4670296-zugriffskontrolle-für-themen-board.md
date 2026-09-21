@@ -2,7 +2,7 @@
 
 > Zugriffskontrollebenen auf Themen-Boards
 
-Die Zugriffskontrolle eines Themen-Boards können Sie über [Zugriff bearbeiten](https://support.catenda.com/en/articles/4670277-issue-board-settings#h_82063f7a79) im [Zugriffskontrollmenü](https://support.catenda.com/en/articles/4670277-issue-board-settings#h_7a3aca4c7d) auf der Seite [Themen-Board-Einstellungen](https://support.catenda.com/en/articles/4670277-issue-board-settings) finden. _Erforderliche Berechtigung:_ Vollzugriff auf das Themen-Board
+Die Zugriffskontrolle eines Themen-Boards können Sie über [Zugriff bearbeiten](https://support.catenda.com/de/articles/4670277-issue-board-settings#h_82063f7a79) im [Zugriffskontrollmenü](https://support.catenda.com/de/articles/4670277-issue-board-settings#h_7a3aca4c7d) auf der Seite [Themen-Board-Einstellungen](https://support.catenda.com/de/articles/4670277-issue-board-settings) finden. _Erforderliche Berechtigung:_ Vollzugriff auf das Themen-Board
 
 Der Dialog zum Bearbeiten der Zugriffskontrolle kann etwa so aussehen:
 

@@ -1,6 +1,6 @@
 # Een zip / bestandsstructuur uploaden
 
-In vergelijking met het uploaden van een regulier zipbestand, zal de functie een zip uploaden en uitpakken. Op deze manier kunt u een bestandsstructuur in de [Documenten pagina](https://support.catenda.com/en/articles/8204673-documents-page#h_28610e1d21) importeren zonder handmatig mappen te hoeven maken.
+In vergelijking met het uploaden van een regulier zipbestand, zal de functie een zip uploaden en uitpakken. Op deze manier kunt u een bestandsstructuur in de [Documenten pagina](https://support.catenda.com/nl/articles/8204673-documents-page#h_28610e1d21) importeren zonder handmatig mappen te hoeven maken.
 
 De functie voor het uploaden van een zip bestand is te vinden in het actiemenu aan de rechterkant van de groene + knop in de rechterbovenhoek van de Documenten pagina.
 
@@ -108,4 +108,4 @@ Dit is hoe het rechtermenu van de zip-importpagina van een voltooide zip-import 
 
 ## 7. **Desktopconnector**
 
-Met de [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) kunt u automatisch en periodiek de nieuwste versies van Documenten van uw lokale systeem naar Catenda Hub uploaden. De Desktop Connector is sneller dan het normale uploadproces en minimaliseert het risico op fouten doordat deze Documenten bestand-voor-bestand uploadt in plaats van in één groot drag-and-drop of zip-uploadbatch.
+Met de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) kunt u automatisch en periodiek de nieuwste versies van Documenten van uw lokale systeem naar Catenda Hub uploaden. De Desktop Connector is sneller dan het normale uploadproces en minimaliseert het risico op fouten doordat deze Documenten bestand-voor-bestand uploadt in plaats van in één groot drag-and-drop of zip-uploadbatch.

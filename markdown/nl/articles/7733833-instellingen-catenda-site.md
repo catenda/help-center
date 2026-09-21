@@ -1,6 +1,6 @@
 # Instellingen - Catenda Site
 
-U kunt uw Catenda Site-instellingen vinden in het [Menu](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site). Uw accountvoorkeuren worden onthouden wanneer u volgende keer inlogt op uw account.
+U kunt uw Catenda Site-instellingen vinden in het [Menu](https://support.catenda.com/nl/articles/7338516-navigation-menu-catenda-site). Uw accountvoorkeuren worden onthouden wanneer u volgende keer inlogt op uw account.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/an1f6vfe/01-intro.png)
 

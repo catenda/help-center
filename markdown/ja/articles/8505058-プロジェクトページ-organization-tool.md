@@ -1,6 +1,6 @@
 # プロジェクトページ - Organization tool
 
-プロジェクトページは、[organizations profile page](https://support.catenda.com/en/articles/8497478-organization-profile-page)のサブページとして見つけることができます。
+プロジェクトページは、[organizations profile page](https://support.catenda.com/ja/articles/8497478-organization-profile-page)のサブページとして見つけることができます。
 
 ここでは、このorganizationの一部であるすべてのプロジェクトの概要が表示されます。
 
@@ -64,7 +64,7 @@
 
 プロジェクトリストでは、昇順および降順でソートできる次の列を見つけることができます。
 
-プロジェクトリストのソート順は、Catenda全体の[リストのソート順](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists)に従います。
+プロジェクトリストのソート順は、Catenda全体の[リストのソート順](https://support.catenda.com/ja/articles/8487788-sorting-order-of-lists)に従います。
 
 リストの左上のチェックボックスをクリックして、すべてのプロジェクトを選択します。
 

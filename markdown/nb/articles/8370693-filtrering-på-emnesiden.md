@@ -1,6 +1,6 @@
 # Filtrering på sakssiden
 
-Filtermeny i en saksliste kan åpnes ved å klikke på filterknappen til venstre for søkelinjen i en [saksliste](https://support.catenda.com/en/articles/4670271-issues-page).
+Filtermeny i en saksliste kan åpnes ved å klikke på filterknappen til venstre for søkelinjen i en [saksliste](https://support.catenda.com/nb/articles/4670271-issues-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/01-intro.png)
 
@@ -12,11 +12,11 @@ _Standardfilter_ Standardfilteret er opprinnelig ikke synlig i URLen. Når siden
 
 ### 1.1 **Lagre og del gjeldende filter**
 
-Gå til URLen til en filtrert side for å laste inn siden med filteret brukt. De brukte filtrene kan lagres øverst i filtermeny. Klikk [her](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre
+Gå til URLen til en filtrert side for å laste inn siden med filteret brukt. De brukte filtrene kan lagres øverst i filtermeny. Klikk [her](https://support.catenda.com/nb/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre
 
 ### 1.2 **Skjul tomme filtre**
 
-Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for å lese mer om å begrense filterresultater.
+Klikk [her](https://support.catenda.com/nb/articles/8551755-saving-filters) for å lese mer om å begrense filterresultater.
 
 ## 2. **Filtrering i filtermeny**
 
@@ -42,7 +42,7 @@ _Forfalt_ - `due=overdue` _Alt med frist_ - `due=present` _Ingen frist_ - `due=n
 
 ### 2.4 **Oppdatert**
 
-Med datofilteret kan du velge en tidsramme for når sakene sist ble oppdatert. _Oppdatert_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Les [denne](https://support.catenda.com/en/articles/6511685-date-filter) artikkelen for å lære hvordan du enkelt velger datoer på siden.
+Med datofilteret kan du velge en tidsramme for når sakene sist ble oppdatert. _Oppdatert_ - `updated-from=<Epoch Unix Timestamp>&updated-to=<Epoch Unix Timestamp>` Les [denne](https://support.catenda.com/nb/articles/6511685-date-filter) artikkelen for å lære hvordan du enkelt velger datoer på siden.
 
 ### 2.5 **Tildelt til / Etterspurt av**
 
@@ -96,7 +96,7 @@ Hvis du har noen lagrede filtre i en saksliste, vil disse være det første tilg
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/03-saved-filters.png)
 
-Klikk på filteret for å åpne filteret på brettet på det lagrede settet med filtre som har fått et navn. Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for å lese mer om hvordan du lagrer et sett med filtre.
+Klikk på filteret for å åpne filteret på brettet på det lagrede settet med filtre som har fått et navn. Klikk [her](https://support.catenda.com/nb/articles/8551755-saving-filters) for å lese mer om hvordan du lagrer et sett med filtre.
 
 ### 3.2 **Tekstsøk**
 
@@ -122,7 +122,7 @@ Medlems- eller teamnavn Søk etter navn på medlemmet eller teamet for å finne 
 
 Nevnt medlem Søk etter e-posten til et medlem for å finne alle vanlige tekstforekomster av medlemmets e-post. Dette inkluderer hvor de er nevnt. Søk på `#[<E-post av medlem>]` for å finne bare forekomstene der medlemmet er nevnt.
 
-Nevnt team Nevnte team kan søkes på ved å søke på GUID-en til det teamet. For å finne GUID-en til et team, går du til [innholdssiden for det teamet](https://support.catenda.com/en/articles/7891755-team-page) ved å klikke på navnet på [teamfanen på siden for medlemmer og team](https://support.catenda.com/en/articles/4670291-members-and-teams-page). URLen skal se omtrent slik ut: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
+Nevnt team Nevnte team kan søkes på ved å søke på GUID-en til det teamet. For å finne GUID-en til et team, går du til [innholdssiden for det teamet](https://support.catenda.com/nb/articles/7891755-team-page) ved å klikke på navnet på [teamfanen på siden for medlemmer og team](https://support.catenda.com/nb/articles/4670291-members-and-teams-page). URLen skal se omtrent slik ut: [https://hub.catenda.com/project/\<Project](https://hub.catenda.com/project/<Project) GUID>/members/\<Member GUIID>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xp3dca6w/05-text-search.png)
 

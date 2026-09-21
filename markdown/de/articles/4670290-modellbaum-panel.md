@@ -1,6 +1,6 @@
 # Modellbaum-Panel
 
-Das Modellbaum-Panel befindet sich als eines von vier [Projektpaneln](https://support.catenda.com/en/articles/13141464-project-panels), die oben rechts auf dem Bildschirm geöffnet werden können.
+Das Modellbaum-Panel befindet sich als eines von vier [Projektpaneln](https://support.catenda.com/de/articles/13141464-project-panels), die oben rechts auf dem Bildschirm geöffnet werden können.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5dr5qz8m/01-intro.png)
 
@@ -8,7 +8,7 @@ Das Modellbaum-Panel befindet sich als eines von vier [Projektpaneln](https://su
 
 Das Modellbaum-Panel kann neben einem der anderen Panels geöffnet werden.
 
-_Öffnen des_ Modellbaums _Panels:_ Klicken Sie auf das Baumsymbol oder drücken Sie [Umschalt+3](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=row%20of%20objects-,Shift%20%2B%203,-Control%20%2B%20left%20click)
+_Öffnen des_ Modellbaums _Panels:_ Klicken Sie auf das Baumsymbol oder drücken Sie [Umschalt+3](https://support.catenda.com/de/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=row%20of%20objects-,Shift%20%2B%203,-Control%20%2B%20left%20click)
 
 _Isolieren des_ Modellbaums _Panels:_ Öffnen Sie das Panel des Baums. Schließen Sie alle anderen geöffneten Panels, indem Sie darauf klicken.
 

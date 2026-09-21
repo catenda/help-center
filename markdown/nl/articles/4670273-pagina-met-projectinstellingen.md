@@ -10,7 +10,7 @@ Dit is hoe het menu van de projecteigenaar er uit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/02-project-owner.png)
 
-Er kan slechts één projecteigenaar zijn. Bij de meeste projecten is de eigenaar van het project de organisatie van de klant waarvan het project deel uitmaakt. Organisaties krijgen vaak de naam van de klant gevolgd door het type organisatie. Hoe de organisatie heet, is aan elke organisatie-eigenaar, maar ze worden vaak iets genoemd als "Bedrijf A - Lopende projecten", "Bedrijf B - Archief" of "Bedrijf C - Beheer en templates". Organisaties kunnen eigendom zijn van meerdere personen die dan een overzicht hebben van alle projecten in die organisatie. Organisatie-eigenaren kunnen projecten ook verplaatsen van de [projectpagina in het organisatieprogramma](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool) zonder deel uit te maken van het project.
+Er kan slechts één projecteigenaar zijn. Bij de meeste projecten is de eigenaar van het project de organisatie van de klant waarvan het project deel uitmaakt. Organisaties krijgen vaak de naam van de klant gevolgd door het type organisatie. Hoe de organisatie heet, is aan elke organisatie-eigenaar, maar ze worden vaak iets genoemd als "Bedrijf A - Lopende projecten", "Bedrijf B - Archief" of "Bedrijf C - Beheer en templates". Organisaties kunnen eigendom zijn van meerdere personen die dan een overzicht hebben van alle projecten in die organisatie. Organisatie-eigenaren kunnen projecten ook verplaatsen van de [projectpagina in het organisatieprogramma](https://support.catenda.com/nl/articles/8505058-projects-page-organization-tool) zonder deel uit te maken van het project.
 
 ### 1.1 **Eigenaar wijzigen**
 
@@ -24,7 +24,7 @@ Dit is hoe het menu van het nieuwe project er uit kan zien:
 
 ### 2.1 **Projectdetails**
 
-Hier kunt u een afbeelding van het gebouw of elke gewenste afbeelding toevoegen. Deze afbeelding wordt weergegeven in projectdetails en op de [projectpagina](https://support.catenda.com/en/articles/8400797-projects-page#h_1285a6d343) als u het project als favoriet markeert. _Vereiste toegang:_ Projectbeheerder
+Hier kunt u een afbeelding van het gebouw of elke gewenste afbeelding toevoegen. Deze afbeelding wordt weergegeven in projectdetails en op de [projectpagina](https://support.catenda.com/nl/articles/8400797-projects-page#h_1285a6d343) als u het project als favoriet markeert. _Vereiste toegang:_ Projectbeheerder
 
 ### 2.2 **Projectnaam**
 
@@ -57,7 +57,7 @@ Het menu voor de standaard modelmap kan er ongeveer zo uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/05-default-models-folder.png)
 
-Met [modellen als documenten](https://support.catenda.com/en/articles/8064548-models-as-documents) is elk model gekoppeld aan een document in de documentsectie. Wanneer u een model maakt, wordt u gevraagd waar in de documentstructuur u het document wilt plaatsen. Als u modellen via de API maakt, hebben de documenten die voor elk model worden gekoppeld, een plaats in de documentsectie nodig. Als er geen standaard map is opgegeven, verschijnt een map met de naam "modellen" wanneer een model via de API wordt gemaakt. Standaard hebben alle gebruikers schrijftoegang tot de automatisch gegenereerde map.
+Met [modellen als documenten](https://support.catenda.com/nl/articles/8064548-models-as-documents) is elk model gekoppeld aan een document in de documentsectie. Wanneer u een model maakt, wordt u gevraagd waar in de documentstructuur u het document wilt plaatsen. Als u modellen via de API maakt, hebben de documenten die voor elk model worden gekoppeld, een plaats in de documentsectie nodig. Als er geen standaard map is opgegeven, verschijnt een map met de naam "modellen" wanneer een model via de API wordt gemaakt. Standaard hebben alle gebruikers schrijftoegang tot de automatisch gegenereerde map.
 
 ## 5. **Project verwijderen**
 
@@ -65,7 +65,7 @@ Het menu voor het verwijderen van projecten kan er ongeveer zo uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/06-delete-project.png)
 
-Klik op de knop "Project verwijderen" en voer de exacte naam van het project in om te bevestigen dat u het wilt verwijderen. Organisatie-eigenaren kunnen het project ook verwijderen van de [projectpagina in het organisatieprogramma](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool) zonder deel uit te maken van het project. Als u deze optie niet ziet en uw project wilt verwijderen, kunt u contact opnemen met ondersteuning. _Vereiste toegang:_ Organisatie- of projecteigenaar
+Klik op de knop "Project verwijderen" en voer de exacte naam van het project in om te bevestigen dat u het wilt verwijderen. Organisatie-eigenaren kunnen het project ook verwijderen van de [projectpagina in het organisatieprogramma](https://support.catenda.com/nl/articles/8505058-projects-page-organization-tool) zonder deel uit te maken van het project. Als u deze optie niet ziet en uw project wilt verwijderen, kunt u contact opnemen met ondersteuning. _Vereiste toegang:_ Organisatie- of projecteigenaar
 
 > **Waarschuwing:** **Waarschuwing!** Een verwijderd project kan niet worden hersteld
 
@@ -85,19 +85,19 @@ Nadat u het menu opent, kunnen projectleden zien wie toegang heeft tot het uitvo
 
 ### 6.1 **Nieuwe topic boards aanmaken**
 
-_Standaardtoegang:_ Alle gebruikers - Schrijven [Nieuwe topic boards aanmaken](https://support.catenda.com/en/articles/4670299-issue-board-creation-acl)
+_Standaardtoegang:_ Alle gebruikers - Schrijven [Nieuwe topic boards aanmaken](https://support.catenda.com/nl/articles/4670299-issue-board-creation-acl)
 
 ### 6.2 **Nieuwe gebruikers uitnodigen**
 
-_Standaardtoegang:_ Alle gebruikers - Geen toegang [Nieuwe gebruikers uitnodigen](https://support.catenda.com/en/articles/4670263-invite-members-page)
+_Standaardtoegang:_ Alle gebruikers - Geen toegang [Nieuwe gebruikers uitnodigen](https://support.catenda.com/nl/articles/4670263-invite-members-page)
 
 ### 6.3 **Configuratie documentstatus**
 
-_Standaardtoegang:_ Alle gebruikers - Schrijven [Configuratie documentstatus](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650)
+_Standaardtoegang:_ Alle gebruikers - Schrijven [Configuratie documentstatus](https://support.catenda.com/nl/articles/9874698-revision-publishing-iso-19650)
 
 ### 6.4 **Modellen maken en verwijderen**
 
-_Standaardtoegang:_ Alle gebruikers - Schrijven [Modellen maken en verwijderen](https://support.catenda.com/en/articles/8300623-model-configuration)
+_Standaardtoegang:_ Alle gebruikers - Schrijven [Modellen maken en verwijderen](https://support.catenda.com/nl/articles/8300623-model-configuration)
 
 ## 7. **Geolocatie**
 
@@ -119,7 +119,7 @@ Het configureren van deze instelling plaats de 2D-weergaven van modellen die wor
 
 ### 7.3 **Kaart op projectpagina**
 
-Als een locatie is ingesteld, zien leden een speld voor dit project op hun [kaart op de projectpagina](https://support.catenda.com/en/articles/8400797-projects-page#h_5cf5358c76).
+Als een locatie is ingesteld, zien leden een speld voor dit project op hun [kaart op de projectpagina](https://support.catenda.com/nl/articles/8400797-projects-page#h_5cf5358c76).
 
 ## 8. **Logo**
 
@@ -127,13 +127,13 @@ Het logo-menu kan er ongeveer zo uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/10-logo.png)
 
-Als u hier een logo uploadt, vervangt het het Catenda-logo linksboven op elke pagina van de topic-PDF-export wanneer u [topics naar PDF exporteert](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf#h_77568077c7) van een topic board.
+Als u hier een logo uploadt, vervangt het het Catenda-logo linksboven op elke pagina van de topic-PDF-export wanneer u [topics naar PDF exporteert](https://support.catenda.com/nl/articles/9784934-exporting-topics-to-pdf#h_77568077c7) van een topic board.
 
 ## 9. **Subpagina's**
 
 U vindt de volgende pagina's als subpagina's op deze pagina:
 
-- [Labels](https://support.catenda.com/en/articles/4670265-labels-page)
-- [Aangepaste velden](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-- [Naamconventies](https://support.catenda.com/en/articles/7832559-naming-conventions-page)
-- [Leden](https://support.catenda.com/en/articles/4670291-members-page)
+- [Labels](https://support.catenda.com/nl/articles/4670265-labels-page)
+- [Aangepaste velden](https://support.catenda.com/nl/articles/6550459-custom-fields-page)
+- [Naamconventies](https://support.catenda.com/nl/articles/7832559-naming-conventions-page)
+- [Leden](https://support.catenda.com/nl/articles/4670291-members-page)

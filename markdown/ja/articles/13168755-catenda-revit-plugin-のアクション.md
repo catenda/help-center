@@ -1,8 +1,8 @@
 # Catenda Revit Plugin のアクション
 
-> **注意:** プラグインのインストールファイルは [この記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations) で確認できます。
+> **注意:** プラグインのインストールファイルは [この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-plugins-and-integrations) で確認できます。
 
-[Catenda Revit Plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin) のアクションは、Revit アプリケーション内のプラグイン ウィンドウの右上に表示されます。
+[Catenda Revit Plugin](https://support.catenda.com/ja/articles/4670334-catenda-revit-plugin) のアクションは、Revit アプリケーション内のプラグイン ウィンドウの右上に表示されます。
 
 このアクション メニューは以下のように表示されます：
 
@@ -58,7 +58,7 @@ selectedConfig.Name = "<Catenda Setup>"; selectedConfig.IFCVersion = IFCVersion.
 
 ## 3. **3. 設定**
 
-設定ページでは、[ズーム機能](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin#h_36392f671a) を使用する際に、プラグインが 3D ビューをどのように作成するかを変更できます。
+設定ページでは、[ズーム機能](https://support.catenda.com/ja/articles/4670334-catenda-revit-plugin#h_36392f671a) を使用する際に、プラグインが 3D ビューをどのように作成するかを変更できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/05-3-settings.png)
 
@@ -88,7 +88,7 @@ selectedConfig.Name = "<Catenda Setup>"; selectedConfig.IFCVersion = IFCVersion.
 
 ## 4. **4. アカウント**
 
-デフォルト ブラウザーで Catenda Hub アカウント ページを開きます。[ここ](https://support.catenda.com/en/articles/6880968-account-page) をクリックして、アカウント ページの詳細をご覧ください。
+デフォルト ブラウザーで Catenda Hub アカウント ページを開きます。[ここ](https://support.catenda.com/ja/articles/6880968-account-page) をクリックして、アカウント ページの詳細をご覧ください。
 
 ## 5. **5. サインアウト**
 
@@ -96,6 +96,6 @@ selectedConfig.Name = "<Catenda Setup>"; selectedConfig.IFCVersion = IFCVersion.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/06-5-sign-out.png)
 
-サインアウト後、サインイン ページが表示され、ユーザー名とパスワードを使用して同じアカウントまたは別のアカウントにサインインできます。[ここ](https://support.catenda.com/en/articles/7891486-sign-in-page) をクリックして、サインイン ページの詳細をご覧ください。
+サインアウト後、サインイン ページが表示され、ユーザー名とパスワードを使用して同じアカウントまたは別のアカウントにサインインできます。[ここ](https://support.catenda.com/ja/articles/7891486-sign-in-page) をクリックして、サインイン ページの詳細をご覧ください。
 
 再度サインインすると、プロジェクト リストの最初のプロジェクトが表示されます。異なるプロジェクトに移動するには、プロジェクト リストでプロジェクトを再度選択します。

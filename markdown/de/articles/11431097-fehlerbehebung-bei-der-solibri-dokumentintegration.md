@@ -34,7 +34,7 @@ In dieser Situation bitten Sie bitte einen Projektadministrator, Ihnen mindesten
 
 ### 1.4 **Zugriff auf Ihr Catenda-Konto widerrufen**
 
-Gehen Sie zur Seite "Anwendungen" Ihrer Catenda Hub-[Kontoeinstellungen](https://intercom.help/bimsync-arena/en/articles/6880968-account-settings#:~:text=your%20notification%20settings.-,Applications,-In%20applications%20you), suchen Sie die Solibri-Anwendung und klicken Sie auf "Widerrufen".
+Gehen Sie zur Seite "Anwendungen" Ihrer Catenda Hub-[Kontoeinstellungen](https://intercom.help/bimsync-arena/de/articles/6880968-account-settings#:~:text=your%20notification%20settings.-,Applications,-In%20applications%20you), suchen Sie die Solibri-Anwendung und klicken Sie auf "Widerrufen".
 
 ### 1.5 **Vom Catenda-Server trennen**
 

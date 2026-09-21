@@ -56,7 +56,7 @@ _Information panel_ [Inspect menu](https://support.catenda.com/en/articles/46702
 
 **Plugins and integrations** [Revit IFC Export Manual](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual) [IFC Export Archicad Manual](https://IFC%20Export%20Archicad%20Manual)
 
-**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/nb/articles/9930034-catenda-site-changelog-3-5-0) [Documents menu - Catenda Site](https://support.catenda.com/en/articles/7774637-documents-menu-catenda-site) [Previewing file types on Catenda Site](https://support.catenda.com/en/articles/8975421-previewing-file-types-on-catenda-site)
+**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/en/articles/9930034-catenda-site-changelog-3-5-0) [Documents menu - Catenda Site](https://support.catenda.com/en/articles/7774637-documents-menu-catenda-site) [Previewing file types on Catenda Site](https://support.catenda.com/en/articles/8975421-previewing-file-types-on-catenda-site)
 
 ## 2. **Bugs Resolved**
 

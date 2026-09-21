@@ -1,6 +1,6 @@
 # Een nieuw modelexport maken
 
-Klik op de groene plusknop in de rechterbovenhoek van de [modelexportpagina](https://support.catenda.com/en/articles/4670280-model-export) om een nieuw modelexport te maken. Er zijn vier stappen om een nieuw modelexport te maken. Dit is hoe de eerste stap in het modelexportcreatieproces eruit kan zien:
+Klik op de groene plusknop in de rechterbovenhoek van de [modelexportpagina](https://support.catenda.com/nl/articles/4670280-model-export) om een nieuw modelexport te maken. Er zijn vier stappen om een nieuw modelexport te maken. Dit is hoe de eerste stap in het modelexportcreatieproces eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y8fzd5y5/01-intro.png)
 

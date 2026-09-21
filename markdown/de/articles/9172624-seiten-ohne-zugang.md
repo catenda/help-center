@@ -108,7 +108,7 @@ Ein weiterer Grund dafür kann sein, dass es keine öffentlichen Revisionen im D
 
 ### 4.4 **Zurückgezogene Dokumentrevision**
 
-[https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx) Eine Dokumentrevision kann [zurückgezogen](https://support.catenda.com/en/articles/9711174-withdraw-revision) werden mit der [Aktion "Revision zurückziehen"](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document). Sie werden feststellen, dass der Name der zurückgezogenen Revision durchgestrichen ist.
+[https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx) Eine Dokumentrevision kann [zurückgezogen](https://support.catenda.com/de/articles/9711174-withdraw-revision) werden mit der [Aktion "Revision zurückziehen"](https://support.catenda.com/de/articles/8302244-right-menu-in-a-document). Sie werden feststellen, dass der Name der zurückgezogenen Revision durchgestrichen ist.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/14-withdrawn-document-revision.png)
 
@@ -150,7 +150,7 @@ Dies kann angezeigt werden, wenn Sie versuchen, einem Link zu einem Ordner zu fo
 
 ### 5.3 **Modellrevision zurückgezogen**
 
-Wenn eine Modellrevision [zurückgezogen](https://support.catenda.com/en/articles/9711174-withdraw-revision) wurde, sehen Sie ihren Namen durchgestrichen. Wenn die neueste Revision zurückgezogen wurde, sehen Sie eine Warnung auf der Modellseite.
+Wenn eine Modellrevision [zurückgezogen](https://support.catenda.com/de/articles/9711174-withdraw-revision) wurde, sehen Sie ihren Namen durchgestrichen. Wenn die neueste Revision zurückgezogen wurde, sehen Sie eine Warnung auf der Modellseite.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/20-model-revision-withdrawn.png)
 

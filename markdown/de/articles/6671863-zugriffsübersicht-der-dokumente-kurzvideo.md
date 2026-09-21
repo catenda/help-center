@@ -4,4 +4,4 @@ Diese neue Funktion ermöglicht es Ihnen, einen allgemeinen Überblick über die
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/j53tjkt5/01-intro.gif)
 
-_Erfahren Sie mehr über die Zugriffsübersicht der Dokumente [hier](https://intercom.help/bimsync-arena/en/articles/6660820-document-access-overview) !_
+_Erfahren Sie mehr über die Zugriffsübersicht der Dokumente [hier](https://intercom.help/bimsync-arena/de/articles/6660820-document-access-overview) !_

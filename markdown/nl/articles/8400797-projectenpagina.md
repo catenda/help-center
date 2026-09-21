@@ -1,6 +1,6 @@
 # Projectenpagina
 
-Het projectenscherm is het eerste scherm dat u tegenkomt na het [aanmelden](https://support.catenda.com/en/articles/7891486-sign-in-page) bij Catenda Hub. Op de projectenpagina ziet u een volledige lijst van alle projecten waarvan u lid bent.
+Het projectenscherm is het eerste scherm dat u tegenkomt na het [aanmelden](https://support.catenda.com/nl/articles/7891486-sign-in-page) bij Catenda Hub. Op de projectenpagina ziet u een volledige lijst van alle projecten waarvan u lid bent.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zazjw3t1/01-intro.png)
 
@@ -10,20 +10,20 @@ Dit is hoe de projectenpagina er uit kan zien:
 
 ## 1. **Een project openen**
 
-Klik op de [projectminiatuur](#h_303c7e9962) of het gekozen project in de [projectenlijst](#h_1285a6d343). U wordt vervolgens naar het [Dashboard](https://support.catenda.com/en/articles/8212646-dashboard-page) van het project gebracht.
+Klik op de [projectminiatuur](#h_303c7e9962) of het gekozen project in de [projectenlijst](#h_1285a6d343). U wordt vervolgens naar het [Dashboard](https://support.catenda.com/nl/articles/8212646-dashboard-page) van het project gebracht.
 
 ## 2. **Links navigatiemenu**
 
 In het linkermenu kunt u de volgende menu's zien:
 
 - Projectenpagina - Huidige artikel
-- [Notificaties](https://support.catenda.com/en/articles/7439223-notifications-page)
-- [Account](https://support.catenda.com/en/articles/6880968-account-page)
-- [Organisaties](https://support.catenda.com/en/articles/8281910-organizations-page)
+- [Notificaties](https://support.catenda.com/nl/articles/7439223-notifications-page)
+- [Account](https://support.catenda.com/nl/articles/6880968-account-page)
+- [Organisaties](https://support.catenda.com/nl/articles/8281910-organizations-page)
 
 ## 3. **Nieuwe item-actieknoppen**
 
-Als uw huidige plan en toegang dit toestaan, kunt u [een nieuw project maken](https://support.catenda.com/en/articles/4670245-creating-a-new-project) door op de knop Nieuw project te klikken.
+Als uw huidige plan en toegang dit toestaan, kunt u [een nieuw project maken](https://support.catenda.com/nl/articles/4670245-creating-a-new-project) door op de knop Nieuw project te klikken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zazjw3t1/03-new-item-action-buttons.png)
 
@@ -47,7 +47,7 @@ U kunt het project als favoriet markeren door op de ster naast elk project in de
 
 ### 5.2 **Kaart**
 
-Het tabblad Kaart toont de locatie van alle projecten waarvan u deel uitmaakt op een zoombare wereldkaart. Dit is gebaseerd op de geolocatie voor elk project, zie [Geolocatie](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f869d2bd59).
+Het tabblad Kaart toont de locatie van alle projecten waarvan u deel uitmaakt op een zoombare wereldkaart. Dit is gebaseerd op de geolocatie voor elk project, zie [Geolocatie](https://support.catenda.com/nl/articles/4670273-project-settings-page#h_f869d2bd59).
 
 ## 6. **Projectenlijst**
 
@@ -55,7 +55,7 @@ Na het aanmaken van een nieuw account moet u een projectuitnodiging ontvangen en
 
 **Lid worden van een project** Wanneer een project wordt gemaakt, maakt de maker automatisch deel uit van het project. Wanneer het project via het organisatiewerk wordt gemaakt, zal de organisatie-eigenaar zichzelf nog steeds moeten toevoegen aan het project om het in hun lijst te zien. Sommige organisatie-eigenaren kunnen ook organisatieleden aan projecten toevoegen en verwijderen zonder uitnodiging.
 
-**Alle organisatieprojecten** Organisatie-eigenaren kunnen alle projecten van de organisatie zien op de [projectenpagina van het organisatiewerk](https://support.catenda.com/en/articles/8505058-projects-page-in-organization-tool).
+**Alle organisatieprojecten** Organisatie-eigenaren kunnen alle projecten van de organisatie zien op de [projectenpagina van het organisatiewerk](https://support.catenda.com/nl/articles/8505058-projects-page-in-organization-tool).
 
 ### 6.1 **Ster**
 
@@ -63,7 +63,7 @@ Klik op de ster links van de projectnaam om het project aan favorieten toe te vo
 
 ### 6.2 **Naam**
 
-Klik op de naam van een project om het project te openen. Projecten worden gesorteerd volgens de [typische sorteerorder](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) rond Catenda.
+Klik op de naam van een project om het project te openen. Projecten worden gesorteerd volgens de [typische sorteerorder](https://support.catenda.com/nl/articles/8487788-sorting-order-of-lists) rond Catenda.
 
 ### 6.3 **Laatst bijgewerkt**
 

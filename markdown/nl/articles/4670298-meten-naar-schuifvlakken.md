@@ -10,7 +10,7 @@ Volg deze stappen om aan de slag te gaan met meten naar schuifvlakken.
 
 ### 1.1 **Schuifvlakken bekijken**
 
-Schuifvlakken die kunnen worden gemeten zijn gedefinieerd in de IFC-modellen die beschikbaar zijn gesteld in het project. Als modellen met schuifvlakken beschikbaar zijn, wordt de [vervolgkeuzelijst voor schuifvlakken](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown) zichtbaar in de rechterbovenhoek van de [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) en kan er ongeveer zo uitzien:
+Schuifvlakken die kunnen worden gemeten zijn gedefinieerd in de IFC-modellen die beschikbaar zijn gesteld in het project. Als modellen met schuifvlakken beschikbaar zijn, wordt de [vervolgkeuzelijst voor schuifvlakken](https://support.catenda.com/nl/articles/4670327-sliding-plane-dropdown) zichtbaar in de rechterbovenhoek van de [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer) en kan er ongeveer zo uitzien:
 
 ![Schuifvlak-vervolgkeuzelijst in de 3D-viewer](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/02-previewing-sliding-planes.png)
 
@@ -26,7 +26,7 @@ Nauwkeurige metingen maken is van cruciaal belang om miscommunicatie in het proj
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/04-recommended-settings-for-measuring.png)
 
-Omdat schuifvlaklijn dunne annotatielijnen en tekst bevatten die vaak gevoelig zijn voor schone weergave in een 3D-omgeving, worden de volgende [instellingen voor 3D-viewer](https://support.catenda.com/en/articles/5784718-3d-viewer-settings#h_16d759320b) aanbevolen om de meetervararing zo goed mogelijk te maken.
+Omdat schuifvlaklijn dunne annotatielijnen en tekst bevatten die vaak gevoelig zijn voor schone weergave in een 3D-omgeving, worden de volgende [instellingen voor 3D-viewer](https://support.catenda.com/nl/articles/5784718-3d-viewer-settings#h_16d759320b) aanbevolen om de meetervararing zo goed mogelijk te maken.
 
 **Instellingen voor 3D-viewer - Weergavekwaliteit** Standaardkwaliteit wordt aanbevolen, omdat hoge kwaliteit de verhouding van pixels die door Catenda worden weergegeven ten opzichte van pixels die op het scherm zichtbaar zijn, verandert, wat een negatief effect kan hebben op nauwkeurige metingen.
 
@@ -36,7 +36,7 @@ Omdat schuifvlaklijn dunne annotatielijnen en tekst bevatten die vaak gevoelig z
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/05-recommended-settings-for-measuring.png)
 
-**Aanbeveling voor applicatiesoftware** Ongeacht welke [zoomschaal](https://support.catenda.com/en/articles/13927149-application-software-recommendation?q=3d+v) in de browser is ingesteld die voor meting in de 3D-viewer wordt gebruikt, wordt aanbevolen de zoomschaal van de browser niet te wijzigen terwijl u meet, omdat dit kan bijdragen aan het verminderen van de nauwkeurigheid van de meting. Stel de browser in op de gewenste zoomschaal en wees voorzichtig om de pagina na elke zoomschaalaanpassing te vernieuwen, zelfs als de zoomschaalaanpassing op een ander tabblad is gedaan of als deze is teruggezet naar de oorspronkelijke waarde.
+**Aanbeveling voor applicatiesoftware** Ongeacht welke [zoomschaal](https://support.catenda.com/nl/articles/13927149-application-software-recommendation?q=3d+v) in de browser is ingesteld die voor meting in de 3D-viewer wordt gebruikt, wordt aanbevolen de zoomschaal van de browser niet te wijzigen terwijl u meet, omdat dit kan bijdragen aan het verminderen van de nauwkeurigheid van de meting. Stel de browser in op de gewenste zoomschaal en wees voorzichtig om de pagina na elke zoomschaalaanpassing te vernieuwen, zelfs als de zoomschaalaanpassing op een ander tabblad is gedaan of als deze is teruggezet naar de oorspronkelijke waarde.
 
 ## 2. **Meten naar annotatielijnen van schuifvlakken**
 

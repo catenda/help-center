@@ -16,15 +16,15 @@ Cliquez sur le menu déroulant du projet pour accéder au Tableau de bord d'un p
 
 ### 1.2 **Panneaux de projet**
 
-Cliquez [ici](https://support.catenda.com/en/articles/13141464-project-panels) pour en savoir plus sur les panneaux de projet
+Cliquez [ici](https://support.catenda.com/fr/articles/13141464-project-panels) pour en savoir plus sur les panneaux de projet
 
 ### 1.3 **Boutons de compte**
 
-Cliquez [ici](https://support.catenda.com/en/articles/4670260-account-buttons) pour en savoir plus sur les boutons de compte
+Cliquez [ici](https://support.catenda.com/fr/articles/4670260-account-buttons) pour en savoir plus sur les boutons de compte
 
 ## 2. **Sujets**
 
-Dans la [section Sujets](https://support.catenda.com/en/articles/4670271-issues-page), vous pourrez voir un aperçu de [tous les sujets](https://support.catenda.com/en/articles/4670271-issues-page#h_9bd3bd842b) du projet. Voici à quoi peut ressembler le menu Sujets :
+Dans la [section Sujets](https://support.catenda.com/fr/articles/4670271-issues-page), vous pourrez voir un aperçu de [tous les sujets](https://support.catenda.com/fr/articles/4670271-issues-page#h_9bd3bd842b) du projet. Voici à quoi peut ressembler le menu Sujets :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/03-topics.png)
 
@@ -40,7 +40,7 @@ Ici, le nombre total de sujets ouverts auxquels les Membres ont accès peut êtr
 
 ### 2.2 **Sujets qui m'sont assignés**
 
-Le nombre de sujets qui ont été [assignés à un Membre](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board#h_12a5c945fd) dans les listes de sujets auxquelles ils ont accès est affiché.
+Le nombre de sujets qui ont été [assignés à un Membre](https://support.catenda.com/fr/articles/8370693-filtering-in-a-topic-board#h_12a5c945fd) dans les listes de sujets auxquelles ils ont accès est affiché.
 
 ### 2.3 **Graphique de la liste de sujets**
 
@@ -54,11 +54,11 @@ Pour chaque liste de sujets, un graphique circulaire similaire à celui de la pa
 
 ### 2.4 **Sujets récemment mis à jour**
 
-Cliquez sur les sujets récemment mis à jour pour ouvrir la [liste de sujets tous les sujets](https://support.catenda.com/en/articles/4670271-issues-page#h_9bd3bd842b) triée par la colonne mise à jour.
+Cliquez sur les sujets récemment mis à jour pour ouvrir la [liste de sujets tous les sujets](https://support.catenda.com/fr/articles/4670271-issues-page#h_9bd3bd842b) triée par la colonne mise à jour.
 
 ### 2.5 **Toutes les listes de sujets**
 
-Le nombre affiché est le nombre de listes auxquelles le Membre connecté a au moins un accès en lecture. Cliquez sur toutes les listes de sujets pour ouvrir la [page des listes](https://support.catenda.com/en/articles/9413644-boards-page).
+Le nombre affiché est le nombre de listes auxquelles le Membre connecté a au moins un accès en lecture. Cliquez sur toutes les listes de sujets pour ouvrir la [page des listes](https://support.catenda.com/fr/articles/9413644-boards-page).
 
 De nouvelles listes de sujets peuvent être créées. _Accès requis :_ Créer des listes de sujets dans les paramètres du projet Les paramètres de chaque liste de sujets peuvent être atteints. _Accès requis :_ Accès complet à la liste de sujets.
 
@@ -74,7 +74,7 @@ Cliquez sur le numéro du sujet pour copier l'URL de ce sujet.
 
 ## 3. **Mes signets**
 
-Ici, tous les [signets](https://support.catenda.com/en/articles/4670281-bookmarks) marqués d'une étoile sont affichés avec leur capture d'écran et titre.
+Ici, tous les [signets](https://support.catenda.com/fr/articles/4670281-bookmarks) marqués d'une étoile sont affichés avec leur capture d'écran et titre.
 
 Voici à quoi peut ressembler le menu des signets :
 
@@ -98,7 +98,7 @@ S'il n'y a pas encore de modèles dans le projet, un bouton plus vert peut être
 
 Cliquez sur le bouton plus pour créer un nouveau modèle. _Accès requis :_ Accès à la création de modèles sur la page des paramètres du projet.
 
-Cliquez sur le nom d'un modèle pour accéder à la [page de contenu du modèle](https://support.catenda.com/en/articles/4670270-model-overview-page) de ce modèle. Les boutons 2D/3D vous permettront de charger le modèle dans la Visionneuse.
+Cliquez sur le nom d'un modèle pour accéder à la [page de contenu du modèle](https://support.catenda.com/fr/articles/4670270-model-overview-page) de ce modèle. Les boutons 2D/3D vous permettront de charger le modèle dans la Visionneuse.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/10-models.png)
 
@@ -114,7 +114,7 @@ Un bouton plus vert peut être vu vers le haut à droite du menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/09-models.png)
 
-Cliquez sur le bouton plus pour [inviter un nouveau Membre](https://support.catenda.com/en/articles/4670247-inviting-new-members-to-the-project) à votre projet. _Accès requis :_ Accès à l'invitation de nouveaux Membres sur la page des paramètres du projet.
+Cliquez sur le bouton plus pour [inviter un nouveau Membre](https://support.catenda.com/fr/articles/4670247-inviting-new-members-to-the-project) à votre projet. _Accès requis :_ Accès à l'invitation de nouveaux Membres sur la page des paramètres du projet.
 
 Cliquez sur la photo de profil d'un Membre pour voir la page de ce Membre.
 
@@ -124,23 +124,23 @@ Le menu des validations n'est pas visible pour les projets où les révisions pa
 
 ### 6.1 **Validations - Héritage**
 
-Dans les projets où le flux de travail de validation hérité est activé, les validations apparaissent sur le tableau de bord. Cliquer sur les validations vous mènera à la page des [validations](https://support.catenda.com/en/articles/5784717-document-approval).
+Dans les projets où le flux de travail de validation hérité est activé, les validations apparaissent sur le tableau de bord. Cliquer sur les validations vous mènera à la page des [validations](https://support.catenda.com/fr/articles/5784717-document-approval).
 
 Voici à quoi peut ressembler le menu des validations :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/13-approvals-legacy.png)
 
-**Validations ouvertes** Voir tous les [validations](https://support.catenda.com/en/articles/5784717-document-approval) ouvertes
+**Validations ouvertes** Voir tous les [validations](https://support.catenda.com/fr/articles/5784717-document-approval) ouvertes
 
-**Créées par moi** Voir toutes les [validations](https://support.catenda.com/en/articles/5784717-document-approval) ouvertes que vous avez créées
+**Créées par moi** Voir toutes les [validations](https://support.catenda.com/fr/articles/5784717-document-approval) ouvertes que vous avez créées
 
-**Je suis examinateur** Voir tous les [validations](https://support.catenda.com/en/articles/8349340-approvals-page) ouverts où vous êtes défini comme examinateur.
+**Je suis examinateur** Voir tous les [validations](https://support.catenda.com/fr/articles/8349340-approvals-page) ouverts où vous êtes défini comme examinateur.
 
-**Cartes de demande de validation** Voir les 5 dernières [validations](https://support.catenda.com/en/articles/5784717-document-approval) ouvertes dans le projet. Cliquez sur une [validation](https://support.catenda.com/en/articles/5784717-document-approval) pour voir son contenu.
+**Cartes de demande de validation** Voir les 5 dernières [validations](https://support.catenda.com/fr/articles/5784717-document-approval) ouvertes dans le projet. Cliquez sur une [validation](https://support.catenda.com/fr/articles/5784717-document-approval) pour voir son contenu.
 
 ## 7. **Collections**
 
-Cliquez sur Collections pour accéder à la [page Collections](https://support.catenda.com/en/articles/6344318-collections-page)
+Cliquez sur Collections pour accéder à la [page Collections](https://support.catenda.com/fr/articles/6344318-collections-page)
 
 Voici à quoi peut ressembler le menu Collections :
 
@@ -148,12 +148,12 @@ Voici à quoi peut ressembler le menu Collections :
 
 ### 7.1 **Collections en cours**
 
-Voir quelles [Collections](https://support.catenda.com/en/articles/6344318-collections-page) n'ont pas encore été finalisées. Celles-ci peuvent être utilisées pour partager des Documents avec des personnes au sein du projet
+Voir quelles [Collections](https://support.catenda.com/fr/articles/6344318-collections-page) n'ont pas encore été finalisées. Celles-ci peuvent être utilisées pour partager des Documents avec des personnes au sein du projet
 
 ### 7.2 **Collections finalisées**
 
-Voir quelles [Collections](https://support.catenda.com/en/articles/6344318-collections-page) ont été finalisées. Celles-ci peuvent être utilisées pour partager des Documents en externe.
+Voir quelles [Collections](https://support.catenda.com/fr/articles/6344318-collections-page) ont été finalisées. Celles-ci peuvent être utilisées pour partager des Documents en externe.
 
 ### 7.3 **Collections**
 
-Voir les 5 dernières [Collections](https://support.catenda.com/en/articles/6344318-collections-page) du projet. Cliquez sur une Collection pour voir la page de contenu de la Collection de cette Collection.
+Voir les 5 dernières [Collections](https://support.catenda.com/fr/articles/6344318-collections-page) du projet. Cliquez sur une Collection pour voir la page de contenu de la Collection de cette Collection.

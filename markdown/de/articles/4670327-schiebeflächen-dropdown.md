@@ -1,6 +1,6 @@
 # Schiebeflächen-Dropdown
 
-Wenn das Projekt Modelle mit Gittern enthält, wird das Schiebeflächen-Dropdown oben links im [3D-Viewer](https://support.catenda.com/en/articles/8227211-3d-viewer#h_2eec7c411b) angezeigt.
+Wenn das Projekt Modelle mit Gittern enthält, wird das Schiebeflächen-Dropdown oben links im [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer#h_2eec7c411b) angezeigt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/01-intro.png)
 
@@ -64,7 +64,7 @@ Erweitern Sie das Menü zum Anzeigen von Achsen, um jede Achse besser zu steuern
 
 ## 4. **4. Schiebeflächenbutton**
 
-Nach der Aktivierung erstreckt sich die transparente Schiebeflächenoberfläche von der Anmerkungslinie bis zu den oberen Grenzen des Modells ähnlich einer Schnittflächenoberfläche. Im Gegensatz zu einer Schnittflächenoberfläche, die ähnlich transparent aussieht und bewegt werden kann, ist dies ein transparentes Objekt, das nicht von seiner Anmerkungslinie verschoben werden kann. Anders als Schnittflächenoberflächen ist es auch möglich, bis zu Schiebeflächenoberflächen zu messen. Klicken Sie [hier](https://support.catenda.com/en/articles/4670298-measuring-to-grids), um mehr über das Messen zu verschiedenen Schiebeflächenoberflächen zu erfahren.
+Nach der Aktivierung erstreckt sich die transparente Schiebeflächenoberfläche von der Anmerkungslinie bis zu den oberen Grenzen des Modells ähnlich einer Schnittflächenoberfläche. Im Gegensatz zu einer Schnittflächenoberfläche, die ähnlich transparent aussieht und bewegt werden kann, ist dies ein transparentes Objekt, das nicht von seiner Anmerkungslinie verschoben werden kann. Anders als Schnittflächenoberflächen ist es auch möglich, bis zu Schiebeflächenoberflächen zu messen. Klicken Sie [hier](https://support.catenda.com/de/articles/4670298-measuring-to-grids), um mehr über das Messen zu verschiedenen Schiebeflächenoberflächen zu erfahren.
 
 ### 4.1 **4.1 Gitterachsen-Oberfläche**
 

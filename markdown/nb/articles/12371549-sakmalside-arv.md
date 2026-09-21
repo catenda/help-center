@@ -1,6 +1,6 @@
 # Sakmalside - Arv
 
-Sakmalside finner du ved å klikke på et sakmalkort på [sakmalside](https://support.catenda.com/en/articles/12367730-topic-templates-page). _Tilgang kreves_: Administrator
+Sakmalside finner du ved å klikke på et sakmalkort på [sakmalside](https://support.catenda.com/nb/articles/12367730-topic-templates-page). _Tilgang kreves_: Administrator
 
 Slik kan sakmalside se ut:
 
@@ -14,7 +14,7 @@ Handlinger på sakmalside finner du ved å klikke på handlingsmenyen til høyre
 
 ### 1.1 **Ny sakmal**
 
-Klikk [her](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template) for å lese mer om hvordan du oppretter nye sakmalinger.
+Klikk [her](https://support.catenda.com/nb/articles/12372007-creating-a-new-topic-template) for å lese mer om hvordan du oppretter nye sakmalinger.
 
 ## 2. **Sakmal**
 

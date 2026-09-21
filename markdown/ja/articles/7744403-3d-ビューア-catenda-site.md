@@ -1,6 +1,6 @@
 # 3D ビューア - Catenda Site
 
-[2D/3D ページ](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site)を開いて、Catenda Site の画面上部の 3D ビューアを確認してください。これが Catenda Site の 3D ビューアの外観です：
+[2D/3D ページ](https://support.catenda.com/ja/articles/7734138-2d-3d-catenda-site)を開いて、Catenda Site の画面上部の 3D ビューアを確認してください。これが Catenda Site の 3D ビューアの外観です：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/01-intro.png)
 

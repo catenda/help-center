@@ -14,7 +14,7 @@ Hver seksjon får en sammenleggbar underseksjon som gir brukere tilgang til seku
 
 ## 2. **Støtte for IFC 4.3**
 
-Catenda Hub kan nå importere og vise IFC 4.3-filer, og brukere kan allerede dra nytte av nye funksjoner knyttet til dette formatet. Se vår artikkel som dekker dette mer detaljert: [LENKE](https://intercom.help/bimsync-arena/en/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c)
+Catenda Hub kan nå importere og vise IFC 4.3-filer, og brukere kan allerede dra nytte av nye funksjoner knyttet til dette formatet. Se vår artikkel som dekker dette mer detaljert: [LENKE](https://intercom.help/bimsync-arena/nb/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c)
 
 ## 3. **Organisasjoner: Bruker- og prosjektstyring - porteføljeverktøysett**
 
@@ -26,7 +26,7 @@ I [Organisasjoner](http://bimsync.com/orgs)-seksjonen av Catenda Hub, vil du fin
 
 ## 4. **Ny saker tabellvisning**
 
-Vi har oppdatert [Tabellvisningen](https://support.catenda.com/en/articles/6941099-table-view-in-an-issue-board) for Saker, brukere kan justere flere komponenter etter behov, og også dra nytte av forhåndsvisning av sak når du velger i listen.
+Vi har oppdatert [Tabellvisningen](https://support.catenda.com/nb/articles/6941099-table-view-in-an-issue-board) for Saker, brukere kan justere flere komponenter etter behov, og også dra nytte av forhåndsvisning av sak når du velger i listen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jah4q53q/04-new-topics-table-view.png)
 
@@ -42,4 +42,4 @@ Matchingmotoren gir en poengsum til tilknytningen, og foreslår det høyeste res
 
 ## 6. **Navnekonvensjon**
 
-Du vil oppdage en ny funksjon synlig under Dokumenter-seksjonen, kalt [Navnekonvensjon](https://support.catenda.com/en/articles/7832559-naming-convention). Dette er et arbeid som pågår, og vil bli levert som en ny funksjon i Q4 2023. Vennligst kontakt oss for å få en demo og eventuelt en prøveversjon, ved hjelp av Chat-knappen i Catenda Hub.
+Du vil oppdage en ny funksjon synlig under Dokumenter-seksjonen, kalt [Navnekonvensjon](https://support.catenda.com/nb/articles/7832559-naming-convention). Dette er et arbeid som pågår, og vil bli levert som en ny funksjon i Q4 2023. Vennligst kontakt oss for å få en demo og eventuelt en prøveversjon, ved hjelp av Chat-knappen i Catenda Hub.

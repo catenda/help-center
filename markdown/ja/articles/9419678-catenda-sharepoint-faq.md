@@ -6,7 +6,7 @@ Catenda と統合する方法は 2 つあります。
 
 ### 1.1 **Catenda SharePoint アプリ**
 
-SharePoint では、[このアプリケーション](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-plugin)をテナントに対して有効にし、サイト所有者によってサイトに追加できます。その後、SharePoint ユーザーはドキュメントを Catenda に公開できるようになります。SharePoint 所有者は、Catenda プロジェクトドキュメント構造を SharePoint に表示することもできます。
+SharePoint では、[このアプリケーション](https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-plugin)をテナントに対して有効にし、サイト所有者によってサイトに追加できます。その後、SharePoint ユーザーはドキュメントを Catenda に公開できるようになります。SharePoint 所有者は、Catenda プロジェクトドキュメント構造を SharePoint に表示することもできます。
 
 ### 1.2 **Catenda SharePoint ライブラリ**
 

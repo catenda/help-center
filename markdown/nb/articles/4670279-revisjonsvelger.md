@@ -1,6 +1,6 @@
 # Revisjonsvelger
 
-Revisjonsvelgeren er en rullegardinmeny som finnes øverst til venstre på skjermen i [3D-visningen](https://support.catenda.com/en/articles/8227211-3d-viewer)-panelet.
+Revisjonsvelgeren er en rullegardinmeny som finnes øverst til venstre på skjermen i [3D-visningen](https://support.catenda.com/nb/articles/8227211-3d-viewer)-panelet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/01-intro.png)
 
@@ -30,17 +30,17 @@ En delvis samsvarende tekst på 3 eller flere tegn kan samsvares i listen over 3
 
 **Samsvar etter skilletegn** Etter et skilletegn blir trekarakterregelen tilbakestilt, og bare tre eller flere tegn etter et skilletegn kan samsvares. Trekarakterregelen tilbakestilles etter hvert skilletegn. Skilletegn kan være tegn som understrekinger "`_`" eller bindestreker "`-`".
 
-**Innholdspanel** For å begrense søket ytterligere, bør du vurdere å søke i innholdspanelet. Her kan du filtrere etter mer informasjon enn bare navnet på modellen. I innholdspanelet finner du alle 3D-dokumenter som er koblet til en modell på [modellsiden](https://support.catenda.com/en/articles/4670286-models-page). 3D-dokumenter som ikke er koblet til et dokument finner du på [dokumentsiden](https://support.catenda.com/en/articles/8204673-documents-page).
+**Innholdspanel** For å begrense søket ytterligere, bør du vurdere å søke i innholdspanelet. Her kan du filtrere etter mer informasjon enn bare navnet på modellen. I innholdspanelet finner du alle 3D-dokumenter som er koblet til en modell på [modellsiden](https://support.catenda.com/nb/articles/4670286-models-page). 3D-dokumenter som ikke er koblet til et dokument finner du på [dokumentsiden](https://support.catenda.com/nb/articles/8204673-documents-page).
 
 ### 1.2 **3D-dokumentliste**
 
-Se de 10 mest relevante 3D-dokumentene. 3D-dokumentlisten sorteres etter den [typiske sorteringsrekkefølgen for lister på Catenda](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists).
+Se de 10 mest relevante 3D-dokumentene. 3D-dokumentlisten sorteres etter den [typiske sorteringsrekkefølgen for lister på Catenda](https://support.catenda.com/nb/articles/8487788-sorting-order-of-lists).
 
-_Modeller -_ Vises som standard Se alle [IFC-dokumenter](https://support.catenda.com/en/articles/5658031-ifc-support-in-documents) som er koblet til en modell. Listen over tilgjengelige modeller er basert på tilgangsinnstillingen for dokumentet som er koblet til den modellen.
+_Modeller -_ Vises som standard Se alle [IFC-dokumenter](https://support.catenda.com/nb/articles/5658031-ifc-support-in-documents) som er koblet til en modell. Listen over tilgjengelige modeller er basert på tilgangsinnstillingen for dokumentet som er koblet til den modellen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/05-3d-document-list.png)
 
-_3D-dokumenter -_ Vises når de er lastet inn Last inn 3D-dokumenter fra dokumentsiden for å vise dem øverst på listen. Se [her](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c) hvilke dokumentformater som kan lastes inn i 3D-visningen.
+_3D-dokumenter -_ Vises når de er lastet inn Last inn 3D-dokumenter fra dokumentsiden for å vise dem øverst på listen. Se [her](https://support.catenda.com/nb/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c) hvilke dokumentformater som kan lastes inn i 3D-visningen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/06-3d-document-list.png)
 
@@ -50,11 +50,11 @@ _Last inn flere_ For å laste inn flere modeller klikker du på knappen Last inn
 
 ### 1.3 **2D-knapp**
 
-Når 2D-knappen er grønn, er 2D-visningen av den modellen synlig i [2D-visningen](https://support.catenda.com/en/articles/4854537-2d-viewer) og lastet inn i minnet. Når knappen er grå, vil 2D-visningen av den modellen ikke være synlig og vil ikke lastes inn i minnet.
+Når 2D-knappen er grønn, er 2D-visningen av den modellen synlig i [2D-visningen](https://support.catenda.com/nb/articles/4854537-2d-viewer) og lastet inn i minnet. Når knappen er grå, vil 2D-visningen av den modellen ikke være synlig og vil ikke lastes inn i minnet.
 
 ### 1.4 **3D-knapp**
 
-Når 3D-knappen klikkes, blir den grønn. 3D-visningen av det dokumentet blir deretter tilgjengelig i [3D-visningen](https://support.catenda.com/en/articles/8227211-3d-viewer) og lastet inn i minnet. Mens 3D-knappen er grønn, vil modellobjektene som tilhører den modellen være tilgjengelige i 3D-visningen.
+Når 3D-knappen klikkes, blir den grønn. 3D-visningen av det dokumentet blir deretter tilgjengelig i [3D-visningen](https://support.catenda.com/nb/articles/8227211-3d-viewer) og lastet inn i minnet. Mens 3D-knappen er grønn, vil modellobjektene som tilhører den modellen være tilgjengelige i 3D-visningen.
 
 > **Merknad:** Tilgjengelig betyr ikke synlig, da objekter kan være skjult og fortsatt være tilgjengelige.
 
@@ -84,7 +84,7 @@ Ikonet for hver 3D-dokumentfiltype. Bare tilgjengelig for 3D-dokumenter.
 
 ### 1.8 **Navn**
 
-For modeller vises modellnavnet. For dokumenter vises dokumentnavnet. Dokumentlisten følger den generelle [sorteringsrekkefølgen for lister](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) i Catenda.
+For modeller vises modellnavnet. For dokumenter vises dokumentnavnet. Dokumentlisten følger den generelle [sorteringsrekkefølgen for lister](https://support.catenda.com/nb/articles/8487788-sorting-order-of-lists) i Catenda.
 
 ### 1.9 **Modellrevision**
 
@@ -124,7 +124,7 @@ Punktskyer kan konfigureres i revisjonsvelgeren ved å klikke på girkogikonet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/14-point-cloud-settings.png)
 
-Klikk [her](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub) for å lese mer om de ulike måtene du kan konfigurere 3D-visningen for visning av punktskyer.
+Klikk [her](https://support.catenda.com/nb/articles/5606625-point-clouds-in-catenda-hub) for å lese mer om de ulike måtene du kan konfigurere 3D-visningen for visning av punktskyer.
 
 ### 1.11 **Laste ut dokument**
 
@@ -140,13 +140,13 @@ Det er bare mulig å laste modeller inn i 3D-visningen fra én revisjonsvelgerme
 
 ## 2. **Spørringer**
 
-Begrens objektene du laster inn i 3D-visningen med objektspørringer. Dette gjør at du kan spare minne når du laster inn hundrevis av modeller samtidig, samt holde objekttreet ryddig. Klikk [her](https://support.catenda.com/en/articles/4854514-queries#h_b7e8a9a086) for å lese mer om spørringer.
+Begrens objektene du laster inn i 3D-visningen med objektspørringer. Dette gjør at du kan spare minne når du laster inn hundrevis av modeller samtidig, samt holde objekttreet ryddig. Klikk [her](https://support.catenda.com/nb/articles/4854514-queries#h_b7e8a9a086) for å lese mer om spørringer.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/17-queries.png)
 
 ## 3. **Sammenlign**
 
-Med sammenligningsmenyen kan to modellrevisjoner velges for å overleires. Klikk [her](https://support.catenda.com/en/articles/4670313-revision-selector-short-video) for å se en kort video om hvordan du sammenligner modellrevisjoner.
+Med sammenligningsmenyen kan to modellrevisjoner velges for å overleires. Klikk [her](https://support.catenda.com/nb/articles/4670313-revision-selector-short-video) for å se en kort video om hvordan du sammenligner modellrevisjoner.
 
 Slik kan sammenligningsmenyen se ut:
 

@@ -18,7 +18,7 @@ Bestätigen Sie, ob das Netzwerk die Blockade verursacht. Versuchen Sie, die Pla
 
 ### 1.3 **1.3 Permanente Behebung für Netzwerkadministratoren**
 
-Um dieses Problem dauerhaft zu beheben, muss die Netzwerkkonfiguration aktualisiert werden, um den Catenda-Hintergrundverkehr vollständig zu unterstützen, einschließlich aller Subdomänen und erforderlichen Ports. Klicken Sie [hier](https://support.catenda.com/en/articles/13927294-network-recommendation), um mehr über Whitelist-Anforderungen und Port-Spezifikationen (einschließlich obligatorischer Port-443-TCP/UDP-Konfigurationen) zu erfahren.
+Um dieses Problem dauerhaft zu beheben, muss die Netzwerkkonfiguration aktualisiert werden, um den Catenda-Hintergrundverkehr vollständig zu unterstützen, einschließlich aller Subdomänen und erforderlichen Ports. Klicken Sie [hier](https://support.catenda.com/de/articles/13927294-network-recommendation), um mehr über Whitelist-Anforderungen und Port-Spezifikationen (einschließlich obligatorischer Port-443-TCP/UDP-Konfigurationen) zu erfahren.
 
 ## 2. **2. Fehler beim Laden des Dokuments (Timeout beim Lesen)**
 

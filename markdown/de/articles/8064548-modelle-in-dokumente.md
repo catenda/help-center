@@ -52,7 +52,7 @@ Wenn Ihr Projekt ohne Modelle als Dokumente begonnen hat, ist ein Ordner namens 
 
 **Eine Modell-Revision erstellen** Um neue Revisionen zu einem Modell hochzuladen, benötigen Sie mindestens Schreibzugriff auf das Dokument-Modell. Neue Revisionen des Modells können zum Dokument hinzugefügt werden und umgekehrt.
 
-> **Hinweis:** Revisionskommentare wurden deaktiviert und können jetzt optional mit [benutzerdefinierten Feldern auf Revisionen](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents) aktiviert werden.
+> **Hinweis:** Revisionskommentare wurden deaktiviert und können jetzt optional mit [benutzerdefinierten Feldern auf Revisionen](https://support.catenda.com/de/articles/9531080-custom-fields-on-documents) aktiviert werden.
 
 **Eine Modell-Revision herunterladen** Sie benötigen mindestens Lesezugriff auf das Dokument-Modell, um das Modell herunterladen zu können.
 
@@ -120,10 +120,10 @@ Dokument-Modelle können nun wie jedes andere Dokument im Bereich Dokumente gefu
 
 - Dokument-Modelle können in Ordnern strukturiert werden, um das Navigieren zu einem bestimmten Satz von Modellen zu erleichtern.
 - Etiketten können zu Dokument-Modellen hinzugefügt werden, um alle Dokument-Modelle zu finden, die zu einem bestimmten Typ gehören.
-- [Benutzerdefinierte Felder können zu Ordnern hinzugefügt werden](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents), in denen Dokumente hochgeladen werden, um nach Metadatenwerten zu suchen, die mit jedem Dokument-Modell verknüpft sind
-- [Benutzerdefinierte Felder können zu Ordnern hinzugefügt werden](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents), in denen Dokumente hochgeladen werden, um Informationen zu jeder Revision in jedem Dokument-Modell hinzufügen zu können.
+- [Benutzerdefinierte Felder können zu Ordnern hinzugefügt werden](https://support.catenda.com/de/articles/9531080-custom-fields-on-documents), in denen Dokumente hochgeladen werden, um nach Metadatenwerten zu suchen, die mit jedem Dokument-Modell verknüpft sind
+- [Benutzerdefinierte Felder können zu Ordnern hinzugefügt werden](https://support.catenda.com/de/articles/9531080-custom-fields-on-documents), in denen Dokumente hochgeladen werden, um Informationen zu jeder Revision in jedem Dokument-Modell hinzufügen zu können.
 
-Siehe [hier](https://support.catenda.com/en/articles/8542598-structuring-documents#h_7838a63c73) für Vorschläge, wie Sie Ihre Dokument-Modelle strukturieren können, damit sie leicht zu finden sind.
+Siehe [hier](https://support.catenda.com/de/articles/8542598-structuring-documents#h_7838a63c73) für Vorschläge, wie Sie Ihre Dokument-Modelle strukturieren können, damit sie leicht zu finden sind.
 
 ### 4.6 **Freigegebene IFC-Dateien genehmigen**
 

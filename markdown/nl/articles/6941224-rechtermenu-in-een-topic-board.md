@@ -1,8 +1,8 @@
 # Rechtermenu in een topic board
 
-Het rechtermenu op de [topics pagina](https://support.catenda.com/en/articles/4670271-topics-page) kan worden geopend door op het informatiepictogram rechts van de zoekbalk onder de [topic banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) te klikken. Klik op het pictogram om een menu te openen dat informatie bevat over geselecteerde topics en topic boards.
+Het rechtermenu op de [topics pagina](https://support.catenda.com/nl/articles/4670271-topics-page) kan worden geopend door op het informatiepictogram rechts van de zoekbalk onder de [topic banner](https://support.catenda.com/nl/articles/7986346-topic-banner-navigating-topics) te klikken. Klik op het pictogram om een menu te openen dat informatie bevat over geselecteerde topics en topic boards.
 
-Dit is hoe de [topic banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) eruit kan zien:
+Dit is hoe de [topic banner](https://support.catenda.com/nl/articles/7986346-topic-banner-navigating-topics) eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/01-intro.png)
 
@@ -42,7 +42,7 @@ Zegt "No topics are selected when expanded." wanneer er geen topics zijn geselec
 
 ### 2.2 **1.2 Toegangscontrole voor topic board**
 
-Wanneer er geen topics zijn geselecteerd, wordt het menu voor toegangscontrole voor topic board alleen weergegeven bij navigatie naar een enkel topic board. Selecteer in het all topics board een topic om de toegangscontrole van het board waarin die topic zich bevindt te zien. Klik [hier](https://support.catenda.com/en/articles/4670296-topic-board-access-control) voor meer informatie over topic board toegangscontrole.
+Wanneer er geen topics zijn geselecteerd, wordt het menu voor toegangscontrole voor topic board alleen weergegeven bij navigatie naar een enkel topic board. Selecteer in het all topics board een topic om de toegangscontrole van het board waarin die topic zich bevindt te zien. Klik [hier](https://support.catenda.com/nl/articles/4670296-topic-board-access-control) voor meer informatie over topic board toegangscontrole.
 
 ## 3. **3. Enkele topic**
 
@@ -56,27 +56,27 @@ Dit is hoe het rechtermenu eruit kan zien wanneer een enkele topic is geselectee
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/07-3-1-update-selected-topic.png)
 
-**3.1.1 Topic header** Dit is hoe de [topic header](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) eruit kan zien:
+**3.1.1 Topic header** Dit is hoe de [topic header](https://support.catenda.com/nl/articles/8400566-topic-header-the-subject-of-a-topic) eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/08-3-1-update-selected-topic.png)
 
-**3.1.2 Topic body** Onder de topic header kunt u het topic body vinden met beschrijving en opmerkingen. Van hieruit kunnen beschrijvingen en opmerkingen worden toegevoegd en kunnen nieuwe opmerkingen worden gemaakt. Klik [hier](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic) voor meer informatie over de topic body.
+**3.1.2 Topic body** Onder de topic header kunt u het topic body vinden met beschrijving en opmerkingen. Van hieruit kunnen beschrijvingen en opmerkingen worden toegevoegd en kunnen nieuwe opmerkingen worden gemaakt. Klik [hier](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic) voor meer informatie over de topic body.
 
 ### 3.2 **3.2 Documenten**
 
-Klik [hier](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_b00b9c5150) voor meer informatie over gerelateerde documenten.
+Klik [hier](https://support.catenda.com/nl/articles/8053299-right-menu-in-a-topic#h_b00b9c5150) voor meer informatie over gerelateerde documenten.
 
 ### 3.3 **3.3 Objecten**
 
-Klik [hier](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_758f17abbc) voor meer informatie over gerelateerde objecten.
+Klik [hier](https://support.catenda.com/nl/articles/8053299-right-menu-in-a-topic#h_758f17abbc) voor meer informatie over gerelateerde objecten.
 
 ### 3.4 **3.4 Topics**
 
-Klik [hier](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_edf2cb07a8) voor meer informatie over gerelateerde topics.
+Klik [hier](https://support.catenda.com/nl/articles/8053299-right-menu-in-a-topic#h_edf2cb07a8) voor meer informatie over gerelateerde topics.
 
 ### 3.5 **3.5 Toegangscontrole voor topic board**
 
-Omdat een enkele topic altijd in één topic board zit, toont het menu voor toegangscontrole voor topic board de toegang tot het topic board waarin de geselecteerde topic zich bevindt. Klik [hier](https://support.catenda.com/en/articles/4670296-topic-board-access-control) voor meer informatie over topic board toegangscontrole.
+Omdat een enkele topic altijd in één topic board zit, toont het menu voor toegangscontrole voor topic board de toegang tot het topic board waarin de geselecteerde topic zich bevindt. Klik [hier](https://support.catenda.com/nl/articles/4670296-topic-board-access-control) voor meer informatie over topic board toegangscontrole.
 
 **Toegang configureren** Klik op toegang configureren om de toegang tot het topic board waarin de geselecteerde topic zich bevindt te bewerken. _Vereiste toegang:_ Administrator
 

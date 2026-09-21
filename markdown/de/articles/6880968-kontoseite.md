@@ -45,7 +45,7 @@ In [Einstellungen](https://bimsync.com/account/preferences) können Sie:
 
 ### 2.1 **Sprache**
 
-[Ändern Sie die Sprache](https://support.catenda.com/en/articles/4670248-changing-to-your-preferred-language) von Catenda Hub
+[Ändern Sie die Sprache](https://support.catenda.com/de/articles/4670248-changing-to-your-preferred-language) von Catenda Hub
 
 ### 2.2 **Datum und Uhrzeit**
 
@@ -57,9 +57,9 @@ In [Authentifizierung](https://bimsync.com/account/authentication) können Sie:
 
 1. Passwort ändern
 
-    Klicken Sie [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) zur Fehlerbehebung bei Passwörtern
+    Klicken Sie [hier](https://support.catenda.com/de/articles/10798891-sign-in-and-passwords) zur Fehlerbehebung bei Passwörtern
 
-1. [MFA aktivieren und deaktivieren.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
+1. [MFA aktivieren und deaktivieren.](https://support.catenda.com/de/articles/4969891-multi-factor-authentication)
 
 ![Steuern Sie, wie Sie sich anmelden](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/07-authentication.png)
 
@@ -83,6 +83,6 @@ Jede API-Anwendung ist mit einem Catenda-Konto verbunden. Die Konfiguration der 
 
 ### 4.2 **Anwendungen mit Zugriff auf Ihr Konto**
 
-Anwendungen, denen Zugriff auf das Konto gewährt wurde, werden angezeigt. Klicken Sie [hier](https://support.catenda.com/en/articles/8396532-catenda-connections), um zu sehen, welche Anwendungen verbunden werden können.
+Anwendungen, denen Zugriff auf das Konto gewährt wurde, werden angezeigt. Klicken Sie [hier](https://support.catenda.com/de/articles/8396532-catenda-connections), um zu sehen, welche Anwendungen verbunden werden können.
 
 **Zugriff widerrufen** Klicken Sie auf "Zugriff widerrufen", um den Zugriff zu widerrufen, der dieser Anwendung gewährt wurde. Danach muss der Zugriff erneut gewährt werden, um diese Anwendung weiterhin mit diesem Konto zu nutzen. Je nach Anwendung kann der Benutzer aufgefordert werden, den Zugriff erneut zu gewähren, oder es kann ein Fehler auftreten und kein neuer Zugriff angefordert werden. In diesem Fall hilft es oft, sich abzumelden und wieder anzumelden, um die Verbindung zurückzusetzen.

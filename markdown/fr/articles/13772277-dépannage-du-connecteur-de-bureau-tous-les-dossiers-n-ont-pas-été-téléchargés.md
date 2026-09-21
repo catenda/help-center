@@ -1,6 +1,6 @@
 # Desktop Connector - tous les dossiers n'ont pas été téléchargés
 
-Dans cet article, vous trouverez des informations sur une erreur spécifique qui se produit lors de l'utilisation du [connecteur de bureau Catenda](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector). Voir [ici](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) pour d'autres problèmes de dépannage du connecteur de bureau.
+Dans cet article, vous trouverez des informations sur une erreur spécifique qui se produit lors de l'utilisation du [connecteur de bureau Catenda](https://support.catenda.com/fr/articles/8358861-catenda-desktop-connector). Voir [ici](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) pour d'autres problèmes de dépannage du connecteur de bureau.
 
 Dans la tâche elle-même, on peut voir ce qui suit :
 

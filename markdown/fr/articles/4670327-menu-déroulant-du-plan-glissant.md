@@ -1,6 +1,6 @@
 # Menu déroulant du plan glissant
 
-Si le projet contient des modèles avec des grilles, le menu déroulant du plan glissant apparaîtra vers le haut à gauche de la [Visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer#h_2eec7c411b).
+Si le projet contient des modèles avec des grilles, le menu déroulant du plan glissant apparaîtra vers le haut à gauche de la [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer#h_2eec7c411b).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/01-intro.png)
 
@@ -64,7 +64,7 @@ Développez le menu d'affichage des axes pour un meilleur contrôle de chacun de
 
 ## 4. **4. Bouton de surface du plan glissant**
 
-Une fois activée, la surface du plan glissant transparent s'étend de la ligne d'annotation aux limites supérieures du modèle, similaire à une surface de plan de découpe. Contrairement à une surface de plan de découpe qui semble tout aussi transparente et peut être déplacée, c'est un objet transparent qui ne peut pas être éloigné de sa ligne d'annotation. De plus, contrairement aux surfaces de plans de découpe, il est possible de mesurer les surfaces du plan glissant. Cliquez [ici](https://support.catenda.com/en/articles/4670298-measuring-to-grids) pour en savoir plus sur la mesure sur les différentes surfaces du plan glissant.
+Une fois activée, la surface du plan glissant transparent s'étend de la ligne d'annotation aux limites supérieures du modèle, similaire à une surface de plan de découpe. Contrairement à une surface de plan de découpe qui semble tout aussi transparente et peut être déplacée, c'est un objet transparent qui ne peut pas être éloigné de sa ligne d'annotation. De plus, contrairement aux surfaces de plans de découpe, il est possible de mesurer les surfaces du plan glissant. Cliquez [ici](https://support.catenda.com/fr/articles/4670298-measuring-to-grids) pour en savoir plus sur la mesure sur les différentes surfaces du plan glissant.
 
 ### 4.1 **4.1 Surface de l'axe de la grille**
 

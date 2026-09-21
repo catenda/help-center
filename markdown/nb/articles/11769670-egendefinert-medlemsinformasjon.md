@@ -2,7 +2,7 @@
 
 ## 1. **Lagring av mer medlemsdata**
 
-Hvis du ønsker å lagre mer medlemsdata enn det som finnes på medlemssiden, anbefales det å lage en saksliste med [egendefinerte felt](https://support.catenda.com/en/articles/8445588-custom-field-page) for de ulike kolonnene du ønsker, og deretter lage en sak per bruker. Slik kan en saksliste se ut:
+Hvis du ønsker å lagre mer medlemsdata enn det som finnes på medlemssiden, anbefales det å lage en saksliste med [egendefinerte felt](https://support.catenda.com/nb/articles/8445588-custom-field-page) for de ulike kolonnene du ønsker, og deretter lage en sak per bruker. Slik kan en saksliste se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s4p1rv5j/01-saving-more-member-data.png)
 
@@ -14,7 +14,7 @@ Den eneste måten å eksportere medlemsdata på for øyeblikket er ved å kopier
 
 ### 2.1 **Få alle medlemmers e-postadresser**
 
-Det er et praktisk triks du kan bruke for å enkelt kopiere alle e-postadressene til brukere. For å gjøre dette følger du disse trinnene: 1\. Klikk på [delingslenke](https://support.catenda.com/en/articles/4728886-sharelink-notify-people-about-catenda-hub-content)-knappen øverst til høyre ved siden av profilbildet ditt. 2\. Klikk i mottakerfeltet og velg "Alle brukere" (eller hvilken som helst bruker eller team hvis brukere-e-postadresser du vil kopiere)
+Det er et praktisk triks du kan bruke for å enkelt kopiere alle e-postadressene til brukere. For å gjøre dette følger du disse trinnene: 1\. Klikk på [delingslenke](https://support.catenda.com/nb/articles/4728886-sharelink-notify-people-about-catenda-hub-content)-knappen øverst til høyre ved siden av profilbildet ditt. 2\. Klikk i mottakerfeltet og velg "Alle brukere" (eller hvilken som helst bruker eller team hvis brukere-e-postadresser du vil kopiere)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s4p1rv5j/02-get-all-members-emails.png)
 

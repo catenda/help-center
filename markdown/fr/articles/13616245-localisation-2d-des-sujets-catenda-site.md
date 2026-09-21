@@ -1,6 +1,6 @@
 # Localisation 2D des sujets - Catenda Site
 
-La localisation peut être appliquée aux sujets en plaçant un marqueur à une coordonnée x, y, z dans la [Visionneuse 2D](https://support.catenda.com/en/articles/4854537-2d-viewer). Les points colorés marquent la localisation des sujets dans la Visionneuse 2D en donnant une compréhension visuelle immédiate de l'endroit où se trouvent les sujets ainsi que leur Statut et leur type. En utilisant les localisations des sujets, votre projet peut bénéficier d'un contrôle considérablement amélioré sur le placement des sujets. Cette fonctionnalité complète les fonctionnalités de notre application de navigateur, [Catenda Hub](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site). Avec les marqueurs, les projets sont dotés d'une création, d'un suivi et d'une gestion transparents des sujets créés sur le terrain, de retour au bureau.
+La localisation peut être appliquée aux sujets en plaçant un marqueur à une coordonnée x, y, z dans la [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-2d-viewer). Les points colorés marquent la localisation des sujets dans la Visionneuse 2D en donnant une compréhension visuelle immédiate de l'endroit où se trouvent les sujets ainsi que leur Statut et leur type. En utilisant les localisations des sujets, votre projet peut bénéficier d'un contrôle considérablement amélioré sur le placement des sujets. Cette fonctionnalité complète les fonctionnalités de notre application de navigateur, [Catenda Hub](https://support.catenda.com/fr/articles/6530821-download-your-mobile-app-catenda-site). Avec les marqueurs, les projets sont dotés d'une création, d'un suivi et d'une gestion transparents des sujets créés sur le terrain, de retour au bureau.
 
 Voici à quoi les marqueurs peuvent ressembler dans la Visionneuse 2D de Catenda Site :
 
@@ -62,7 +62,7 @@ Lorsqu'un sujet est ouvert dans un tableau de sujets, la couleur de ce marqueur 
 
 ### 1.5 **Configuration des marqueurs**
 
-Appuyez sur l'icône d'engrenage dans la Visionneuse 2D pour ouvrir les [paramètres](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site#h_63e1728758) de la Visionneuse 2D de Catenda Site
+Appuyez sur l'icône d'engrenage dans la Visionneuse 2D pour ouvrir les [paramètres](https://support.catenda.com/fr/articles/7748370-2d-viewer-catenda-site#h_63e1728758) de la Visionneuse 2D de Catenda Site
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/10-marker-configuration.png)
 

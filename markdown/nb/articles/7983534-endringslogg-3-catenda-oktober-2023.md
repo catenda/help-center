@@ -12,33 +12,33 @@ Når nye funksjoner lanseres og feil fikses, oppdateres artikler med endringene 
 
 ### 1.1 **Nye artikler:**
 
-**Kom i gang og Ofte stilte spørsmål** [Prosjektsikkerhet](https://support.catenda.com/en/articles/8263256-project-security') [Spor informasjon ved lenking](https://support.catenda.com/en/articles/8294909-tracking-information-by-linking) [Hvorfor mottar jeg ikke e-poster?](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) [Formatering av innlegg](https://support.catenda.com/en/articles/8430847-formatting-of-posts)
+**Kom i gang og Ofte stilte spørsmål** [Prosjektsikkerhet](https://support.catenda.com/nb/articles/8263256-project-security') [Spor informasjon ved lenking](https://support.catenda.com/nb/articles/8294909-tracking-information-by-linking) [Hvorfor mottar jeg ikke e-poster?](https://support.catenda.com/nb/articles/8417802-why-am-i-not-receiving-emails) [Formatering av innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts)
 
-**Hovedside** [Organisasjonsalternativer](https://support.catenda.com/en/articles/8224886-organization-options) [Dashbordside](https://support.catenda.com/en/articles/8212646-dashboard-page) [Varselinnstillinger](https://support.catenda.com/en/articles/8272435-notification-settings) [Varsellfunksjonalitet](https://support.catenda.com/en/articles/8304417-notification-functionality) [Opprett en konto](https://support.catenda.com/en/articles/8412895-creating-an-account)
+**Hovedside** [Organisasjonsalternativer](https://support.catenda.com/nb/articles/8224886-organization-options) [Dashbordside](https://support.catenda.com/nb/articles/8212646-dashboard-page) [Varselinnstillinger](https://support.catenda.com/nb/articles/8272435-notification-settings) [Varsellfunksjonalitet](https://support.catenda.com/nb/articles/8304417-notification-functionality) [Opprett en konto](https://support.catenda.com/nb/articles/8412895-creating-an-account)
 
-**Problemer** [Probleminnhold](https://support.catenda.com/en/articles/7986346-issue-content) [Problem høyre panel](https://support.catenda.com/en/articles/8053299-issue-right-panel) [Problemtekst](https://support.catenda.com/en/articles/8053352-issue-body) [Filtrering på et problemstyre](https://support.catenda.com/en/articles/8370693-filtering-in-an-issue-board)
+**Problemer** [Probleminnhold](https://support.catenda.com/nb/articles/7986346-issue-content) [Problem høyre panel](https://support.catenda.com/nb/articles/8053299-issue-right-panel) [Problemtekst](https://support.catenda.com/nb/articles/8053352-issue-body) [Filtrering på et problemstyre](https://support.catenda.com/nb/articles/8370693-filtering-in-an-issue-board)
 
-**Dokumenter** [Gi en bruker tilgang til en enkelt mappe](https://support.catenda.com/en/articles/8009637-giving-a-user-access-to-a-single-folder) [Bibliotekside](https://support.catenda.com/en/articles/8065645-libraries-page) [Last opp en zip / filstruktur](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) [Høyre panel i et dokument](https://support.catenda.com/en/articles/8302244-documents-right-panel) [Høyre panel i dokumentliste](https://support.catenda.com/en/articles/8345396-right-panel-in-documents-list) [Gjennomgangsside](https://support.catenda.com/en/articles/8349340-approvals-page) [Gjennomgangsinnhold](https://support.catenda.com/en/articles/8349418-approval-content) [Tabelvisning i dokumentdelen](https://support.catenda.com/en/articles/8398771-table-view-in-the-documents-section)
+**Dokumenter** [Gi en bruker tilgang til en enkelt mappe](https://support.catenda.com/nb/articles/8009637-giving-a-user-access-to-a-single-folder) [Bibliotekside](https://support.catenda.com/nb/articles/8065645-libraries-page) [Last opp en zip / filstruktur](https://support.catenda.com/nb/articles/7945410-upload-a-zip-file-structure) [Høyre panel i et dokument](https://support.catenda.com/nb/articles/8302244-documents-right-panel) [Høyre panel i dokumentliste](https://support.catenda.com/nb/articles/8345396-right-panel-in-documents-list) [Gjennomgangsside](https://support.catenda.com/nb/articles/8349340-approvals-page) [Gjennomgangsinnhold](https://support.catenda.com/nb/articles/8349418-approval-content) [Tabelvisning i dokumentdelen](https://support.catenda.com/nb/articles/8398771-table-view-in-the-documents-section)
 
-**Modeller og 3D** [Valg og klipping fra 2D](https://support.catenda.com/en/articles/8035360-selecting-and-clipping-from-2d) [3D-viser](https://support.catenda.com/en/articles/8227211-3d-viewer) [Modeller som dokumenter](https://support.catenda.com/en/articles/8064548-models-as-documents) [Informasjonspanel](https://support.catenda.com/en/articles/8238584-information-panel) [3D-plassering av modeller](https://support.catenda.com/en/articles/8294750-3d-location-of-models) [Modellkonfigurasjon](https://support.catenda.com/en/articles/8300623-model-configuration) [Målplan](https://support.catenda.com/en/articles/8360838-measure-plane)
+**Modeller og 3D** [Valg og klipping fra 2D](https://support.catenda.com/nb/articles/8035360-selecting-and-clipping-from-2d) [3D-viser](https://support.catenda.com/nb/articles/8227211-3d-viewer) [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-models-as-documents) [Informasjonspanel](https://support.catenda.com/nb/articles/8238584-information-panel) [3D-plassering av modeller](https://support.catenda.com/nb/articles/8294750-3d-location-of-models) [Modellkonfigurasjon](https://support.catenda.com/nb/articles/8300623-model-configuration) [Målplan](https://support.catenda.com/nb/articles/8360838-measure-plane)
 
-**Prosjektinnstillinger** [Medlemsside](https://support.catenda.com/en/articles/8228836-member-page)
+**Prosjektinnstillinger** [Medlemsside](https://support.catenda.com/nb/articles/8228836-member-page)
 
-**Plugins og integrasjoner** [Integrasjon Power BI](https://support.catenda.com/en/articles/5784721-integration-power-bi) [Catenda SharePoint-plugin](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-plugin) [Catenda Access fra ditt miljø](https://support.catenda.com/en/articles/8396532-catenda-access-from-your-environment)
+**Plugins og integrasjoner** [Integrasjon Power BI](https://support.catenda.com/nb/articles/5784721-integration-power-bi) [Catenda SharePoint-plugin](https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-plugin) [Catenda Access fra ditt miljø](https://support.catenda.com/nb/articles/8396532-catenda-access-from-your-environment)
 
 ### 1.2 **Artikler som har endret seg:**
 
-Kom i gang og Ofte stilte spørsmål [Brukerforslag @ Catenda](https://support.catenda.com/en/articles/5925449-user-voice-catenda) [Oppsummering av viktigste snarveier og grunnleggende kontroller](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
+Kom i gang og Ofte stilte spørsmål [Brukerforslag @ Catenda](https://support.catenda.com/nb/articles/5925449-user-voice-catenda) [Oppsummering av viktigste snarveier og grunnleggende kontroller](https://support.catenda.com/nb/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
 
-Hovedside [Varselside](https://support.catenda.com/en/articles/7439223-notifications-page)
+Hovedside [Varselside](https://support.catenda.com/nb/articles/7439223-notifications-page)
 
-Problemer [Høyre panel i et problemstyre](https://support.catenda.com/en/articles/6941224-right-panel-in-an-issue-board) [Innstillinger for problemstyre](https://support.catenda.com/en/articles/4670277-issue-board-settings) [Innstillinger for problemstyre](https://support.catenda.com/en/articles/4670277-issue-board-settings)
+Problemer [Høyre panel i et problemstyre](https://support.catenda.com/nb/articles/6941224-right-panel-in-an-issue-board) [Innstillinger for problemstyre](https://support.catenda.com/nb/articles/4670277-issue-board-settings) [Innstillinger for problemstyre](https://support.catenda.com/nb/articles/4670277-issue-board-settings)
 
-Dokumenter [Dokumenterside](https://support.catenda.com/en/articles/8204673-documents-page) [Filtrering på dokumentersiden](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+Dokumenter [Dokumenterside](https://support.catenda.com/nb/articles/8204673-documents-page) [Filtrering på dokumentersiden](https://support.catenda.com/nb/articles/4670283-filtering-on-the-documents-page)
 
-Modeller [2D-viser](https://support.catenda.com/en/articles/4854537-2d-viewer)
+Modeller [2D-viser](https://support.catenda.com/nb/articles/4854537-2d-viewer)
 
-Varsler [Siste prosjektvarsler](https://support.catenda.com/en/articles/4670262-project-notification-settings)
+Varsler [Siste prosjektvarsler](https://support.catenda.com/nb/articles/4670262-project-notification-settings)
 
 ## 2. **Løste problemer**
 

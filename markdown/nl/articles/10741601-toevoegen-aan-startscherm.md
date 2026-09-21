@@ -1,6 +1,6 @@
 # Toevoegen aan startscherm
 
-De volledige functionaliteit van Catenda Hub is altijd beschikbaar via de browser. Catenda ondersteunt toevoeging aan het startscherm, Dashboard of dock door installatie via een browser. Dit staat ook bekend als een progressive web app (PWA). Klik [hier](https://support.catenda.com/en/articles/10774300-home-screen-system-browser-support) om te zien welke browsers PWA op uw systeem ondersteunen.
+De volledige functionaliteit van Catenda Hub is altijd beschikbaar via de browser. Catenda ondersteunt toevoeging aan het startscherm, Dashboard of dock door installatie via een browser. Dit staat ook bekend als een progressive web app (PWA). Klik [hier](https://support.catenda.com/nl/articles/10774300-home-screen-system-browser-support) om te zien welke browsers PWA op uw systeem ondersteunen.
 
 ## 1. **Voordelen**
 

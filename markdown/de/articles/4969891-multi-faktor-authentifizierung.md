@@ -2,7 +2,7 @@
 
 > Beschreibt, wie Sie MFA auf Ihrem Konto einrichten
 
-Sie finden die **Multi-Faktor-Authentifizierung** (MFA)-Einstellungen auf der [Authentifizierungsseite](https://support.catenda.com/en/articles/6880968-account-page#h_e04d63351f), die eine Unterseite der [Kontoseite](https://support.catenda.com/en/articles/6880968-account-page) ist.
+Sie finden die **Multi-Faktor-Authentifizierung** (MFA)-Einstellungen auf der [Authentifizierungsseite](https://support.catenda.com/de/articles/6880968-account-page#h_e04d63351f), die eine Unterseite der [Kontoseite](https://support.catenda.com/de/articles/6880968-account-page) ist.
 
 **Multi-Faktor-Authentifizierung** (MFA) erfordert bei der Anmeldung bei Catenda Hub die Eingabe eines Codes, den Sie über Ihr Mobilgerät sowie Ihren Benutzernamen und Ihr Passwort erhalten. Wenn eine Organisation MFA erfordert, wird sie auf Organisationsebene angewendet. Alle Projekte, die dieser Organisation angehören, erfordern dann MFA für den Zugriff. Dies zwingt alle Benutzer, MFA zu aktivieren, um auf Projekte der Organisation zuzugreifen.
 
@@ -145,6 +145,6 @@ Authentifizierungs-Apps sind sicherer als SMS/E-Mail-Codelösungen, da nach der 
 
 ## 6. **Wer kann MFA auf Projekten erzwingen?**
 
-Enterprise-Kunden können anfordern, dass eine [Organisationsoption](https://support.catenda.com/en/articles/8224886-organization-options#h_d6710faf75) aktiviert wird, wodurch alle Benutzer, die Teil ihrer Projekte sind, MFA verwenden müssen, um auf das Projekt zuzugreifen. Um MFA auf den Projekten Ihrer Organisation zu aktivieren, wenden Sie sich an den Catenda-Support. Wenn MFA für die Projekte einer Organisation erforderlich ist, wird diese Meldung angezeigt, wenn Sie versuchen, das Projekt zu öffnen.
+Enterprise-Kunden können anfordern, dass eine [Organisationsoption](https://support.catenda.com/de/articles/8224886-organization-options#h_d6710faf75) aktiviert wird, wodurch alle Benutzer, die Teil ihrer Projekte sind, MFA verwenden müssen, um auf das Projekt zuzugreifen. Um MFA auf den Projekten Ihrer Organisation zu aktivieren, wenden Sie sich an den Catenda-Support. Wenn MFA für die Projekte einer Organisation erforderlich ist, wird diese Meldung angezeigt, wenn Sie versuchen, das Projekt zu öffnen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/07-who-can-enforce-mfa-on-projects.png)

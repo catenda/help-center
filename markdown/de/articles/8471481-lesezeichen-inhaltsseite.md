@@ -1,6 +1,6 @@
 # Lesezeichen-Inhaltsseite
 
-Lesezeichen finden Sie auf der [Seite "Lesezeichen"](https://support.catenda.com/en/articles/4670281-bookmarks-page). So kann ein Lesezeichen aussehen:
+Lesezeichen finden Sie auf der [Seite "Lesezeichen"](https://support.catenda.com/de/articles/4670281-bookmarks-page). So kann ein Lesezeichen aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/01-intro.png)
 
@@ -12,7 +12,7 @@ Das Aktionsmenü befindet sich oben rechts auf der Seite
 
 ### 1.1 **Neues Lesezeichen**
 
-Klicken Sie hier, um ein [neues Lesezeichen](https://support.catenda.com/en/articles/4670269-creating-a-new-bookmark) zu erstellen.
+Klicken Sie hier, um ein [neues Lesezeichen](https://support.catenda.com/de/articles/4670269-creating-a-new-bookmark) zu erstellen.
 
 ### 1.2 **Lesezeichen löschen**
 
@@ -24,11 +24,11 @@ Das Bild des Viewports wurde generiert, als der Schnappschuss zuletzt aktualisie
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/03-snapshot.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/10345863-snapshots), um mehr über Schnappschüsse zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/10345863-snapshots), um mehr über Schnappschüsse zu erfahren.
 
 ## 3. **Titel**
 
-Der Titel des Lesezeichens. Dies kann mit einem Textfilter auf der [Seite "Lesezeichen"](https://support.catenda.com/en/articles/4670281-bookmarks-page) gefiltert werden.
+Der Titel des Lesezeichens. Dies kann mit einem Textfilter auf der [Seite "Lesezeichen"](https://support.catenda.com/de/articles/4670281-bookmarks-page) gefiltert werden.
 
 ### 3.1 **Erstellt von**
 

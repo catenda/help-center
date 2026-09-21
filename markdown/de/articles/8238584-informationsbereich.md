@@ -1,6 +1,6 @@
 # Informationsbereich
 
-Sie finden den Informationsbereich als einen der vier Hauptbereiche, die oben rechts auf Ihrem Bildschirm geöffnet werden können. Sie können entweder auf das i-Symbol klicken, um diesen Bereich zu öffnen, oder Sie können [Umschalt+4](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Inspect%20panel-,Shift%20%2B%204,-Show/hide%20last) drücken.
+Sie finden den Informationsbereich als einen der vier Hauptbereiche, die oben rechts auf Ihrem Bildschirm geöffnet werden können. Sie können entweder auf das i-Symbol klicken, um diesen Bereich zu öffnen, oder Sie können [Umschalt+4](https://support.catenda.com/de/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Inspect%20panel-,Shift%20%2B%204,-Show/hide%20last) drücken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/01-intro.png)
 
@@ -8,7 +8,7 @@ Im Informationsbereich finden Sie die folgenden Abschnitte:
 
 ## 1. **Überprüfung**
 
-Hier können Sie die Informationen zu Ihren ausgewählten Objekten anzeigen. Klicken Sie [hier](https://support.catenda.com/en/articles/4670285-inspect-panel), um mehr über den Überprüfungsbereich zu erfahren.
+Hier können Sie die Informationen zu Ihren ausgewählten Objekten anzeigen. Klicken Sie [hier](https://support.catenda.com/de/articles/4670285-inspect-panel), um mehr über den Überprüfungsbereich zu erfahren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/02-inspect.png)
 
@@ -18,7 +18,7 @@ Damit können Sie eine Liste von Objekten erstellen und exportieren sowie die Su
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/03-quantity-take-off.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto), um mehr über die Massenermittlung zu erfahren
+Klicken Sie [hier](https://support.catenda.com/de/articles/6673929-quantity-take-off-qto), um mehr über die Massenermittlung zu erfahren
 
 ## 3. **4D**
 
@@ -68,7 +68,7 @@ Damit können Sie eine Reihe von Objekten erstellen, die dann gestaltet und kolo
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/08-selections.png)
 
-Oben im Menü "Auswahlmöglichkeiten" sehen Sie, wie viele Elemente Sie derzeit im 3D-Viewer und in der Baumstruktur ausgewählt haben. Auswahlmöglichkeiten können gespeichert werden, indem Sie einen [Schnappschuss](https://support.catenda.com/en/articles/8053352-issue-body#h_1ba7f8873f) oder ein [Lesezeichen](https://support.catenda.com/en/articles/8471481-bookmark) erstellen und später wiedergeben. Da Auswahlmöglichkeiten im Schnappschuss eines Themas gespeichert werden, können sie über BCF in andere Programme importiert und exportiert werden. Ein Beispiel dafür ist, dass Themen mit Auswahlmöglichkeiten aus dem Auswahlkorb, die über den BCF-Live-Connector in Solibri synchronisiert werden, Auswahlmöglichkeiten enthalten, wenn der Schnappschuss wiedergegeben wird.
+Oben im Menü "Auswahlmöglichkeiten" sehen Sie, wie viele Elemente Sie derzeit im 3D-Viewer und in der Baumstruktur ausgewählt haben. Auswahlmöglichkeiten können gespeichert werden, indem Sie einen [Schnappschuss](https://support.catenda.com/de/articles/8053352-issue-body#h_1ba7f8873f) oder ein [Lesezeichen](https://support.catenda.com/de/articles/8471481-bookmark) erstellen und später wiedergeben. Da Auswahlmöglichkeiten im Schnappschuss eines Themas gespeichert werden, können sie über BCF in andere Programme importiert und exportiert werden. Ein Beispiel dafür ist, dass Themen mit Auswahlmöglichkeiten aus dem Auswahlkorb, die über den BCF-Live-Connector in Solibri synchronisiert werden, Auswahlmöglichkeiten enthalten, wenn der Schnappschuss wiedergegeben wird.
 
 ### 5.1 **Neue Auswahlmöglichkeit**
 
@@ -114,4 +114,4 @@ Damit können Sie die Messungen anzeigen, die im 3D-Viewer vorgenommen wurden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/11-measurements.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/4670294-measuring-features), um mehr über Messungen zu erfahren
+Klicken Sie [hier](https://support.catenda.com/de/articles/4670294-measuring-features), um mehr über Messungen zu erfahren

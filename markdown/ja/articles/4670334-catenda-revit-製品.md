@@ -1,6 +1,6 @@
 # Catenda Revitプラグイン
 
-> **注:** プラグインのインストールファイルは[このページ](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
+> **注:** プラグインのインストールファイルは[このページ](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-plugins-and-integrations)にあります。
 
 Catenda Revitプラグインは、Autodesk Revitにインストールできるプラグインです。このプラグインを使用することで、建設プロジェクトの他のメンバーと3Dビューポイント、トピック、ドキュメントについて協力することができます
 
@@ -60,13 +60,13 @@ Catendaのメールアドレスとパスワードでログインしてくださ�
 
 <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-703202eeb52b.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-3e163e70c122.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-3b6b4eaa010e.png" width="180"/>
 
-アカウントのMFAが有効な場合は、MFAコードを入力するよう求められます。[ここ](https://support.catenda.com/en/articles/7891486-sign-in-page)をクリックして、サインインページの詳細をご覧ください。
+アカウントのMFAが有効な場合は、MFAコードを入力するよう求められます。[ここ](https://support.catenda.com/ja/articles/7891486-sign-in-page)をクリックして、サインインページの詳細をご覧ください。
 
 「アクセスを許可」をクリックして、Bimsync Arena用Revitプラグインに対してCatenda Hubアカウントへのアクセスを許可します。
 
 ### 3.1 **アクセスを取り消す**
 
-Catenda Hubアカウントへのアクセスは、Catenda Hub[アプリケーションページ](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a)に移動して、「Bimsync Arena用Revitプラグイン」の近くにある「アクセスを取り消す」をクリックすることで、いつでも取り消すことができます。
+Catenda Hubアカウントへのアクセスは、Catenda Hub[アプリケーションページ](https://support.catenda.com/ja/articles/6880968-account-page#h_40e031c49a)に移動して、「Bimsync Arena用Revitプラグイン」の近くにある「アクセスを取り消す」をクリックすることで、いつでも取り消すことができます。
 
 ## 4. **トピックリスト**
 
@@ -96,7 +96,7 @@ Catenda Hubプロジェクトを選択すると、このプロジェクト内の
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/08-actions.png)
 
-[ここ](https://support.catenda.com/en/articles/13168755-actions-in-the-catenda-revit-plugin)をクリックして、Catenda Revitプラグインのさまざまなアクションについて詳しく読んでください。
+[ここ](https://support.catenda.com/ja/articles/13168755-actions-in-the-catenda-revit-plugin)をクリックして、Catenda Revitプラグインのさまざまなアクションについて詳しく読んでください。
 
 ### 4.4 **トピック選択**
 

@@ -1,6 +1,6 @@
 # Catenda Revit-Plugin
 
-> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/de/articles/8396532-catenda-plugins-and-integrations).
 
 Das Catenda Revit-Plugin ist ein Plugin, das für Autodesk Revit installiert werden kann. Mit diesem Plugin können Sie mit anderen Mitgliedern des Bauprojekts an 3D-Viewpoints, Themen und Dokumenten zusammenarbeiten
 
@@ -60,13 +60,13 @@ Melden Sie sich mit Ihrer Catenda-E-Mail-Adresse und Ihrem Passwort an.
 
 <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-703202eeb52b.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-3e163e70c122.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-3b6b4eaa010e.png" width="180"/>
 
-Wenn MFA für Ihr Konto aktiviert ist, werden Sie aufgefordert, Ihren MFA-Code einzugeben. Klicken Sie [hier](https://support.catenda.com/en/articles/7891486-sign-in-page), um mehr über die Anmeldungsseite zu erfahren.
+Wenn MFA für Ihr Konto aktiviert ist, werden Sie aufgefordert, Ihren MFA-Code einzugeben. Klicken Sie [hier](https://support.catenda.com/de/articles/7891486-sign-in-page), um mehr über die Anmeldungsseite zu erfahren.
 
 Klicken Sie auf "Zugriff zulassen", um dem Revit-Plugin für Bimsync Arena den Zugriff auf Ihr Catenda Hub-Konto zu ermöglichen.
 
 ### 3.1 **Zugriff widerrufen**
 
-Der Zugriff auf Ihr Catenda Hub-Konto kann jederzeit widerrufen werden, indem Sie zur Catenda Hub-[Anwendungsseite](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a) gehen und auf "Zugriff widerrufen" neben "Revit-Plugin für Bimsync Arena" klicken.
+Der Zugriff auf Ihr Catenda Hub-Konto kann jederzeit widerrufen werden, indem Sie zur Catenda Hub-[Anwendungsseite](https://support.catenda.com/de/articles/6880968-account-page#h_40e031c49a) gehen und auf "Zugriff widerrufen" neben "Revit-Plugin für Bimsync Arena" klicken.
 
 ## 4. **Themenliste**
 
@@ -96,7 +96,7 @@ Die Plugin-Aktionen finden Sie oben rechts:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/08-actions.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/13168755-actions-in-the-catenda-revit-plugin), um mehr über die verschiedenen Aktionen im Catenda Revit-Plugin zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/13168755-actions-in-the-catenda-revit-plugin), um mehr über die verschiedenen Aktionen im Catenda Revit-Plugin zu erfahren.
 
 ### 4.4 **Themenauswahl**
 

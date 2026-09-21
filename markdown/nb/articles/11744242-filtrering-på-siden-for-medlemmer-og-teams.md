@@ -14,11 +14,11 @@ _Standardfilter_ Standardfilteret er først ikke synlig i nettadressen. Når sid
 
 ### 1.1 **Lagre og del gjeldende filter**
 
-Gå til nettadressen på en filtrert side for å laste siden med filteret brukt. De brukte filtrene kan lagres øverst på filtermenyen. Klikk [her](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre
+Gå til nettadressen på en filtrert side for å laste siden med filteret brukt. De brukte filtrene kan lagres øverst på filtermenyen. Klikk [her](https://support.catenda.com/nb/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre
 
 ### 1.2 **Skjul tomme filtre**
 
-Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for å lese mer om begrensing av filterresultater.
+Klikk [her](https://support.catenda.com/nb/articles/8551755-saving-filters) for å lese mer om begrensing av filterresultater.
 
 ### 1.3 **Kategorier**
 

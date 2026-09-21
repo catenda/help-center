@@ -10,10 +10,10 @@ For å bruke et Catenda-prosjekt i Catenda Site uten tilkobling til nettverket, 
 
 ## 2. Saker synkroniseres ikke
 
-Hvis endringer er gjort på Catenda Site som ikke vises i andre økter, må de sannsynligvis fremdeles sendes inn i [utboksen](https://support.catenda.com/en/articles/7325268-offline-mode-in-catenda-site#h_ff2a47f221) øverst til høyre på saklisten.
+Hvis endringer er gjort på Catenda Site som ikke vises i andre økter, må de sannsynligvis fremdeles sendes inn i [utboksen](https://support.catenda.com/nb/articles/7325268-offline-mode-in-catenda-site#h_ff2a47f221) øverst til høyre på saklisten.
 
 ## 3. MFA-kode påkrevd
 
-Hvis du ser følgende melding som forteller deg at flerfaktorautentisering er påkrevd når du forsøker å åpne et prosjekt, logger du inn på Catenda-kontoen din via en nettleser og [konfigurerer kodeparing](https://support.catenda.com/en/articles/4969891-multi-factor-authentication) i kontoinnstillingene dine.
+Hvis du ser følgende melding som forteller deg at flerfaktorautentisering er påkrevd når du forsøker å åpne et prosjekt, logger du inn på Catenda-kontoen din via en nettleser og [konfigurerer kodeparing](https://support.catenda.com/nb/articles/4969891-multi-factor-authentication) i kontoinnstillingene dine.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8pwddg4t/02-mfa-code-required.png)

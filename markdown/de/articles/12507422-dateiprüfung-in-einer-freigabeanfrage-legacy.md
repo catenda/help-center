@@ -86,4 +86,4 @@ Wenn die von der Freigabe angegebene Mindestanzahl von Mitgliedern Genehmigungsv
 
 ### 6.3 **Dokumentvorschau**
 
-Die Dokumentvorschau auf der Prüfungsseite der Freigabeanfrage funktioniert genauso wie die [Dokumentvorschau](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) beim Öffnen eines Dokuments aus der Dokumententabelle.
+Die Dokumentvorschau auf der Prüfungsseite der Freigabeanfrage funktioniert genauso wie die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-document-preview-and-annotations) beim Öffnen eines Dokuments aus der Dokumententabelle.

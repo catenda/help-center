@@ -34,9 +34,9 @@ L'information a été utilisée et peut être archivée pour rester disponible s
 
 L'activation et la configuration du workflow de statut partagé sont réservées aux administrateurs de projet.
 
-_Accès requis_ L'accès à la configuration du statut du document dans la [zone de contrôle d'accès](https://support.catenda.com/en/articles/4670273-project-settings-page#h_3b98ced32a) de la [page des paramètres du projet](https://support.catenda.com/en/articles/4670273-project-settings-page). Les membres ayant cet accès n'auront accès qu'au menu de configuration du statut dans les paramètres du document. Ils ne pourront pas voir ou modifier les autres menus dans les paramètres du document.
+_Accès requis_ L'accès à la configuration du statut du document dans la [zone de contrôle d'accès](https://support.catenda.com/fr/articles/4670273-project-settings-page#h_3b98ced32a) de la [page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page). Les membres ayant cet accès n'auront accès qu'au menu de configuration du statut dans les paramètres du document. Ils ne pourront pas voir ou modifier les autres menus dans les paramètres du document.
 
-Sous [paramètres du document](https://support.catenda.com/en/articles/7831371-document-settings), accédez à [Workflow de statut](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) et activez les statuts partagés
+Sous [paramètres du document](https://support.catenda.com/fr/articles/7831371-document-settings), accédez à [Workflow de statut](https://support.catenda.com/fr/articles/7831371-document-settings#h_e6f3ffdbff) et activez les statuts partagés
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/03-configuring-status-workflow.png)
 
@@ -125,7 +125,7 @@ Dans la structure du document, vous verrez la dernière révision à laquelle vo
 
 ### 3.8 **Informations sur la révision**
 
-Sélectionnez un seul document ou ouvrez l'aperçu du document en cliquant sur le document. Les informations sur la révision actuelle seront visibles dans le [menu d'information de droite](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision).
+Sélectionnez un seul document ou ouvrez l'aperçu du document en cliquant sur le document. Les informations sur la révision actuelle seront visibles dans le [menu d'information de droite](https://support.catenda.com/fr/articles/8302244-right-menu-of-a-revision).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/16-revision-information.png)
 
@@ -138,7 +138,7 @@ Sélectionnez un seul document ou ouvrez l'aperçu du document en cliquant sur l
 - Modifiez le statut d'une révision publiée en un statut de révision publiée différent.
   _Accès requis :_ Accès en écriture et révisions publiées
 
-**Boîte de dialogue des informations de révision** Cliquez sur la zone de révision pour voir un aperçu de toutes les révisions du document dans la [boîte de dialogue des informations de révision](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision#h_6838c6ad71). Un lien vert entre une révision publiée et une révision partagée indique quelle révision partagée a été publiée.
+**Boîte de dialogue des informations de révision** Cliquez sur la zone de révision pour voir un aperçu de toutes les révisions du document dans la [boîte de dialogue des informations de révision](https://support.catenda.com/fr/articles/8302244-right-menu-of-a-revision#h_6838c6ad71). Un lien vert entre une révision publiée et une révision partagée indique quelle révision partagée a été publiée.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/17-revision-information.png)
 
@@ -148,15 +148,15 @@ Seules les révisions publiées sont visibles dans Catenda Site.
 
 ## 4. Accès à la configuration du statut
 
-1. L'accès à la configuration du statut du document peut être configuré à partir de la [page des paramètres du projet](https://support.catenda.com/en/articles/4670273-project-settings-page) :
+1. L'accès à la configuration du statut du document peut être configuré à partir de la [page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page) :
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-868820a898ba.png" width="500"/></div>
 
-1. Le statut des documents peut ensuite être [configuré](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) à partir des paramètres dans la section documents :
+1. Le statut des documents peut ensuite être [configuré](https://support.catenda.com/fr/articles/7831371-document-settings#h_e6f3ffdbff) à partir des paramètres dans la section documents :
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-931418a5fab1.png" width="500"/></div>
 
-1. Enfin, ces statuts de document peuvent être assignés au statut de révision de fichier accessible depuis le bouton à trois points en haut à droite dans la [section Approbations](https://support.catenda.com/en/articles/8349340-approvals-page). Il est également possible de configurer ici un modèle de sujet.
+1. Enfin, ces statuts de document peuvent être assignés au statut de révision de fichier accessible depuis le bouton à trois points en haut à droite dans la [section Approbations](https://support.catenda.com/fr/articles/8349340-approvals-page). Il est également possible de configurer ici un modèle de sujet.
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-3cdbebefca38.png" width="500"/></div>
 
@@ -186,7 +186,7 @@ Une démonstration détaillée de ces étapes est présentée dans le tutoriel s
 
 ## 6. **Désactivation du workflow de statut**
 
-Si vous souhaitez désactiver le workflow de statut, vous pouvez le faire en cliquant sur le bouton radio dans les [paramètres du document](https://support.catenda.com/en/articles/7831371-document-settings). Les onglets Publié et Partagé dans la section documents disparaîtront alors. Les documents téléchargés alors que le workflow de statut n'est pas activé seront téléchargés comme publiés et s'afficheront dans l'onglet publié lorsque le workflow de statut sera activé.
+Si vous souhaitez désactiver le workflow de statut, vous pouvez le faire en cliquant sur le bouton radio dans les [paramètres du document](https://support.catenda.com/fr/articles/7831371-document-settings). Les onglets Publié et Partagé dans la section documents disparaîtront alors. Les documents téléchargés alors que le workflow de statut n'est pas activé seront téléchargés comme publiés et s'afficheront dans l'onglet publié lorsque le workflow de statut sera activé.
 
 ## 7. **Avantages de l'utilisation du workflow de statut**
 

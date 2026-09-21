@@ -1,10 +1,10 @@
 # 3D Viser-innstillinger
 
-3D Viser-innstillingene finnes i øverste høyre hjørne av [3D Viser](https://support.catenda.com/en/articles/8227211-3d-viewer).
+3D Viser-innstillingene finnes i øverste høyre hjørne av [3D Viser](https://support.catenda.com/nb/articles/8227211-3d-viewer).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/01-intro.png)
 
-> **Merk:** Sørg for at maskinvaren og programvaren som Catenda er åpnet på, er konfigurert [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation) da dette kan påvirke hvordan viseren vises.
+> **Merk:** Sørg for at maskinvaren og programvaren som Catenda er åpnet på, er konfigurert [som anbefalt](https://support.catenda.com/nb/articles/6921941-hardware-recommendation) da dette kan påvirke hvordan viseren vises.
 
 ## 1. **Aktivering av 3D Viser**
 
@@ -32,7 +32,7 @@ Slik kan gjengivelsesmenyen se ut:
 
 ### 2.1 **Vis rom**
 
-_Av som standard_ - [Aktiver og deaktiver rom](https://support.catenda.com/en/articles/4670315-how-can-i-show-spaces-in-catenda-hub). Rom er fortsatt valgbare i 2D-viseren hvis de er i modellen.
+_Av som standard_ - [Aktiver og deaktiver rom](https://support.catenda.com/nb/articles/4670315-how-can-i-show-spaces-in-catenda-hub). Rom er fortsatt valgbare i 2D-viseren hvis de er i modellen.
 
 ### 2.2 **Visningskvalitet**
 
@@ -42,7 +42,7 @@ Forholdet mellom antall piksler som visningsvinduet sier at det viser, og antall
 - Visteknologier som påvirker pikseltetthet som Apple Retina.
 - Høy DPI-skjermer
 
-> **Merk:** Sørg for at maskinvaren og programvaren som Catenda er åpnet på, er konfigurert [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation) da dette kan påvirke nøyaktigheten av diagonale linjer i viseren.
+> **Merk:** Sørg for at maskinvaren og programvaren som Catenda er åpnet på, er konfigurert [som anbefalt](https://support.catenda.com/nb/articles/6921941-hardware-recommendation) da dette kan påvirke nøyaktigheten av diagonale linjer i viseren.
 
 **Standardkvalitet** Med standardvisningskvaliteten er piksler som visningsvinduet sier det har, det samme antallet fysiske piksler som viser visningsvinduet på skjermen. For skjermer som tilbyr å vise visningsvinduet over flere fysiske piksler enn visningsvinduet sier det har, kan denne innstillingen få bildet til å virke mindre presist. Denne modusen er raskere og mindre krevende for enheten din.
 
@@ -57,7 +57,7 @@ Pikselnøyaktighet i utglattingen av diagonale linjer i rekkefølge etter nøyak
 - 4x MSAA
 - 8x MSAA
 
-> **Merk:** Sørg for at maskinvaren og programvaren som Catenda er åpnet på, er konfigurert [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation) da dette kan påvirke nøyaktigheten av diagonale linjer.
+> **Merk:** Sørg for at maskinvaren og programvaren som Catenda er åpnet på, er konfigurert [som anbefalt](https://support.catenda.com/nb/articles/6921941-hardware-recommendation) da dette kan påvirke nøyaktigheten av diagonale linjer.
 
 ### 2.4 **Inkrementell tegning**
 

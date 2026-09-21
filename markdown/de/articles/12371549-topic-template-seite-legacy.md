@@ -1,6 +1,6 @@
 # Topic-Template-Seite - Legacy
 
-Die Topic-Template-Seite finden Sie, indem Sie auf eine Topic-Template-Karte auf der [Topic-Templates-Seite](https://support.catenda.com/en/articles/12367730-topic-templates-page) klicken. _Erforderlicher Zugriff_: Administrator
+Die Topic-Template-Seite finden Sie, indem Sie auf eine Topic-Template-Karte auf der [Topic-Templates-Seite](https://support.catenda.com/de/articles/12367730-topic-templates-page) klicken. _Erforderlicher Zugriff_: Administrator
 
 So kann die Topics-Template-Seite aussehen:
 
@@ -14,7 +14,7 @@ Die Aktionen der Topics-Templates-Seite finden Sie, indem Sie auf das Aktionsmen
 
 ### 1.1 **Neues Topic-Template**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template), um mehr über das Erstellen neuer Topic-Templates zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/12372007-creating-a-new-topic-template), um mehr über das Erstellen neuer Topic-Templates zu erfahren.
 
 ## 2. **Topic-Template**
 

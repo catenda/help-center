@@ -1,6 +1,6 @@
 # 2D / 3D - Catenda Site
 
-De 2D / 3D-pagina is te vinden in het [menu](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) of door op de knop voor problemen op de onderste navigatiebalk te tikken.
+De 2D / 3D-pagina is te vinden in het [menu](https://support.catenda.com/nl/articles/7338516-navigation-menu-catenda-site) of door op de knop voor problemen op de onderste navigatiebalk te tikken.
 
 ![2D / 3D](https://raw.githubusercontent.com/catenda/help-center/main/images/wy1t8c1t/01-intro.png)
 
@@ -16,11 +16,11 @@ De problemen die uit het filter op de gekozen issue board voortvloeien, zijn de 
 
 ### Bovenste helft
 
-In de bovenste helft van de 2D / 3D-pagina ziet u de [3D viewer](https://support.catenda.com/en/articles/7744403-3d-viewer-catenda-site).
+In de bovenste helft van de 2D / 3D-pagina ziet u de [3D viewer](https://support.catenda.com/nl/articles/7744403-3d-viewer-catenda-site).
 
 ### Onderste helft
 
-In de onderste helft van de 2D / 3D-pagina ziet u de [2D viewer](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site).
+In de onderste helft van de 2D / 3D-pagina ziet u de [2D viewer](https://support.catenda.com/nl/articles/7748370-2d-viewer-catenda-site).
 
 ### Scheidingsbalk
 

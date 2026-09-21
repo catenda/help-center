@@ -28,4 +28,4 @@ Nach dem Öffnen der Playlist finden Sie den Teilen-Button oben rechts. So kann 
 
 Beachten Sie, dass sich Ihre URL ändert, wenn Sie auf die verschiedenen Videos klicken. Wenn Sie die Schaltfläche "Teilen" verwenden, teilen Sie einen Link zu Ihrem aktuellen Video als Teil der Playlist.
 
-## 4. Guide Playlists über Catenda finden Sie hier 👉 [hier](https://support.catenda.com/en/articles/11055278-guide-playlists)
+## 4. Guide Playlists über Catenda finden Sie hier 👉 [hier](https://support.catenda.com/de/articles/11055278-guide-playlists)

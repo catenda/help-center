@@ -2,11 +2,11 @@
 
 > Verwalten Sie Ihre Einstellungen für Themenvorlagen
 
-Die Einstellungsseite für Themenvorlagen finden Sie, indem Sie auf der [Themeneinstellungsseite](https://support.catenda.com/en/articles/14183429-topic-settings-page) auf „Themenvorlagen konfigurieren“ klicken; diese Seite lässt sich über das linke Navigationsmenü öffnen, nachdem Sie die Themenseite geöffnet haben. _Erforderlicher Zugriff:_ Projektadministrator
+Die Einstellungsseite für Themenvorlagen finden Sie, indem Sie auf der [Themeneinstellungsseite](https://support.catenda.com/de/articles/14183429-topic-settings-page) auf „Themenvorlagen konfigurieren“ klicken; diese Seite lässt sich über das linke Navigationsmenü öffnen, nachdem Sie die Themenseite geöffnet haben. _Erforderlicher Zugriff:_ Projektadministrator
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/01-intro.png)
 
-Auf der Seite mit den Themenvorlagen-Einstellungen können Themenvorlagen für jedes der Themen-Boards im Projekt konfiguriert werden. Nach ihrer Erstellung werden Themenvorlagen automatisch verfügbar gemacht, um Text und Felder von Themen bei der Erstellung auszufüllen. Themenvorlagen können so konfiguriert werden, dass sie in den folgenden Themenerstellungsprozessen verfügbar sind: [Verwendung von Themenvorlagen in allgemeinen Themen](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation) [Verwendung von Themenvorlagen in Markup-Themen](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document) [Verwendung von Themenvorlagen mit Genehmigungen](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
+Auf der Seite mit den Themenvorlagen-Einstellungen können Themenvorlagen für jedes der Themen-Boards im Projekt konfiguriert werden. Nach ihrer Erstellung werden Themenvorlagen automatisch verfügbar gemacht, um Text und Felder von Themen bei der Erstellung auszufüllen. Themenvorlagen können so konfiguriert werden, dass sie in den folgenden Themenerstellungsprozessen verfügbar sind: [Verwendung von Themenvorlagen in allgemeinen Themen](https://support.catenda.com/de/articles/14075921-apply-a-general-topic-template-upon-topic-creation) [Verwendung von Themenvorlagen in Markup-Themen](https://support.catenda.com/de/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document) [Verwendung von Themenvorlagen mit Genehmigungen](https://support.catenda.com/de/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
 
 ## 1. **Aktionsmenü**
 
@@ -46,7 +46,7 @@ Wenn Sie zu Ihrer Seite mit den Themenvorlagen-Einstellungen navigieren, können
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/04-templates-table.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten.
+Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten.
 
 ### 3.1 **Zeileninhalt**
 

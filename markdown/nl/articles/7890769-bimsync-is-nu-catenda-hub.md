@@ -18,6 +18,6 @@ Als uw organisatie een firewall of ander middel gebruikt om de toegang tot websi
 
 Hoewel we ons inzetten voor het behoud van bimsync.com, willen we het klantenverkeer na een duidelijk meegedeelde wachttijd doorsturen naar hub.catenda.com. Om deze reden raden we u aan zo snel mogelijk na te gaan of u zich kunt aanmelden bij Catenda Hub op [https://hub.catenda.com](https://hub.catenda.com).
 
-Zie [dit](https://support.catenda.com/en/articles/7891486-sign-in-page) artikel voor meer informatie over het aanmelden. Zie [dit](https://support.catenda.com/en/articles/6921941-system-requirements-and-optimization) artikel voor meer informatie over welk domein u via de firewall moet toestaan.
+Zie [dit](https://support.catenda.com/nl/articles/7891486-sign-in-page) artikel voor meer informatie over het aanmelden. Zie [dit](https://support.catenda.com/nl/articles/6921941-system-requirements-and-optimization) artikel voor meer informatie over welk domein u via de firewall moet toestaan.
 
 Hebt u vragen of opmerkingen over deze wijzigingen, laat het ons dan weten.

@@ -18,7 +18,7 @@ Le menu de droite peut être ouvert en cliquant sur l'icône d'information vers 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/03-right-menu.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu) pour en savoir plus sur le menu de droite de l'onglet Documents.
+Cliquez [ici](https://support.catenda.com/fr/articles/12495638-approval-request-documents-right-menu) pour en savoir plus sur le menu de droite de l'onglet Documents.
 
 > **Remarque :** Sélectionnez un Document (en cliquant sur le titre) ou sélectionnez plusieurs Documents qui vous sont assignés pour commencer directement l'examen à partir de l'onglet Documents.
 

@@ -1,6 +1,6 @@
 # Meilenstein-Inhaltsseite
 
-Die Seite eines Meilensteins kann durch Anklicken eines Meilensteins auf der [Meilensteins-Seite](https://support.catenda.com/en/articles/4670266-milestones-page) geöffnet werden. So kann die Seite eines Meilensteins aussehen:
+Die Seite eines Meilensteins kann durch Anklicken eines Meilensteins auf der [Meilensteins-Seite](https://support.catenda.com/de/articles/4670266-milestones-page) geöffnet werden. So kann die Seite eines Meilensteins aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yx2925b3/01-intro.png)
 
@@ -16,7 +16,7 @@ Klicken Sie auf das grüne + oder auf die Aktion "Neuer Meilenstein" im Aktionsm
 
 ### 1.2 **Archivieren**
 
-Wenn Ihr Meilenstein aktiv ist, können Sie ihn mit dieser Aktion archivieren. _Erforderlicher Zugriff:_ Administrator oder Meilenstein-Ersteller Archivierte Meilensteine können auf der [Meilensteins-Seite](https://support.catenda.com/en/articles/4670266-milestones-page) mit den Aktionen für archivierte Meilensteine gefunden und wiederhergestellt werden.
+Wenn Ihr Meilenstein aktiv ist, können Sie ihn mit dieser Aktion archivieren. _Erforderlicher Zugriff:_ Administrator oder Meilenstein-Ersteller Archivierte Meilensteine können auf der [Meilensteins-Seite](https://support.catenda.com/de/articles/4670266-milestones-page) mit den Aktionen für archivierte Meilensteine gefunden und wiederhergestellt werden.
 
 ## 2. **Wiederherstellen**
 

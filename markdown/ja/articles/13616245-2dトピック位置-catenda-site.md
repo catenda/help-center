@@ -1,6 +1,6 @@
 # 2Dトピック位置 - Catenda Site
 
-位置は[2Dビューア](https://support.catenda.com/en/articles/4854537-2d-viewer)にマーカーをx、y、z座標に配置することでトピックに適用できます。色付きドットは2Dビューアでトピックの位置をマークし、トピックの位置、ステータス、およびタイプの即座の視覚的理解を提供します。トピック位置を使用することで、プロジェクトはトピックの配置に対する大幅に改善された制御を活用できます。この機能は、ブラウザアプリケーション[Catenda Hub](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site)の機能を補完しています。マーカーを使用することで、プロジェクトはフィールドで作成されたトピックの無理のない作成、監視、および管理をデスクから行うことができます。
+位置は[2Dビューア](https://support.catenda.com/ja/articles/4854537-2d-viewer)にマーカーをx、y、z座標に配置することでトピックに適用できます。色付きドットは2Dビューアでトピックの位置をマークし、トピックの位置、ステータス、およびタイプの即座の視覚的理解を提供します。トピック位置を使用することで、プロジェクトはトピックの配置に対する大幅に改善された制御を活用できます。この機能は、ブラウザアプリケーション[Catenda Hub](https://support.catenda.com/ja/articles/6530821-download-your-mobile-app-catenda-site)の機能を補完しています。マーカーを使用することで、プロジェクトはフィールドで作成されたトピックの無理のない作成、監視、および管理をデスクから行うことができます。
 
 これはCatenda Siteの2Dビューアでマーカーがどのように見えるかです：
 
@@ -62,7 +62,7 @@ Catenda Siteのマーカーをタップして、そのマーカーに属する�
 
 ### 1.5 **マーカー設定**
 
-2Dビューアのギアアイコンをタップして、Catenda Site 2Dビューア[設定](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site#h_63e1728758)を開きます
+2Dビューアのギアアイコンをタップして、Catenda Site 2Dビューア[設定](https://support.catenda.com/ja/articles/7748370-2d-viewer-catenda-site#h_63e1728758)を開きます
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/10-marker-configuration.png)
 

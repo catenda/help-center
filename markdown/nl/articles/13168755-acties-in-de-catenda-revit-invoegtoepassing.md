@@ -1,8 +1,8 @@
 # Acties in de Catenda Revit-invoegtoepassing
 
-> **Opmerking:** Het installatiebestand voor de invoegtoepassing is te vinden in [dit artikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Opmerking:** Het installatiebestand voor de invoegtoepassing is te vinden in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/8396532-catenda-plugins-and-integrations).
 
-De acties [Catenda Revit-invoegtoepassing](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin) zijn te vinden rechtsboven in het invoegtoepassing-venster in de Revit-toepassing.
+De acties [Catenda Revit-invoegtoepassing](https://support.catenda.com/nl/articles/4670334-catenda-revit-plugin) zijn te vinden rechtsboven in het invoegtoepassing-venster in de Revit-toepassing.
 
 Dit ziet het actiemenu er als volgt uit:
 
@@ -60,7 +60,7 @@ Klik op Uploaden om een IFC te uploaden. Er moet een opmerking worden toegevoegd
 
 ## 3. **3. Instellingen**
 
-Op de pagina Instellingen kunt u wijzigen hoe de invoegtoepassing een 3D-weergave maakt wanneer u de [Zoomfunctie](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin#h_36392f671a) gebruikt.
+Op de pagina Instellingen kunt u wijzigen hoe de invoegtoepassing een 3D-weergave maakt wanneer u de [Zoomfunctie](https://support.catenda.com/nl/articles/4670334-catenda-revit-plugin#h_36392f671a) gebruikt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/05-3-settings.png)
 
@@ -90,7 +90,7 @@ Met de viewpoint-transformatie kan het viewpoint in Revit worden geconfigureerd 
 
 ## 4. **4. Mijn account**
 
-Open uw Catenda Hub-accountpagina in uw standaardbrowser. Klik [hier](https://support.catenda.com/en/articles/6880968-account-page) voor meer informatie over de accountpagina.
+Open uw Catenda Hub-accountpagina in uw standaardbrowser. Klik [hier](https://support.catenda.com/nl/articles/6880968-account-page) voor meer informatie over de accountpagina.
 
 ## 5. **5. Uitloggen**
 
@@ -98,6 +98,6 @@ Klik op Uitloggen om u af te melden bij Catenda Hub in de invoegtoepassing.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/06-5-sign-out.png)
 
-Na het afmelden wordt de pagina Aanmelden weergegeven, waar u zich met dezelfde account of een ander account kunt aanmelden met gebruikersnaam en wachtwoord. Klik [hier](https://support.catenda.com/en/articles/7891486-sign-in-page) voor meer informatie over de aanmeldingspagina.
+Na het afmelden wordt de pagina Aanmelden weergegeven, waar u zich met dezelfde account of een ander account kunt aanmelden met gebruikersnaam en wachtwoord. Klik [hier](https://support.catenda.com/nl/articles/7891486-sign-in-page) voor meer informatie over de aanmeldingspagina.
 
 Na het opnieuw aanmelden wordt het eerste project in de projectlijst weergegeven. Selecteer opnieuw een project in de projectlijst om naar een ander project te navigeren.

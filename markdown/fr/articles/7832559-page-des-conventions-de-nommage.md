@@ -1,6 +1,6 @@
 # Page des conventions de nommage
 
-Les administrateurs pourront trouver la page des conventions de nommage comme une sous-page des [paramètres du projet](https://support.catenda.com/en/articles/4670273-project-settings-page).
+Les administrateurs pourront trouver la page des conventions de nommage comme une sous-page des [paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/01-intro.png)
 
@@ -82,4 +82,4 @@ Une convention a toujours au moins deux blocs: 1\. Le nom du fichier/Document. 2
 
 ![Annuler Soumettre la convention de nommage](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/11-br-submitting-a-convention.png)
 
-Après soumission d'une convention de nommage, elle peut être [activée par dossier](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90) dans les [paramètres des Documents](https://support.catenda.com/en/articles/7831371-document-settings).
+Après soumission d'une convention de nommage, elle peut être [activée par dossier](https://support.catenda.com/fr/articles/7831371-document-settings#h_6672c14d90) dans les [paramètres des Documents](https://support.catenda.com/fr/articles/7831371-document-settings).

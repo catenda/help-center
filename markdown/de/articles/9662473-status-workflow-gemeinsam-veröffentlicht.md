@@ -48,4 +48,4 @@ Zugriffsrechte können für die Veröffentlichung gemeinsamer Revisionen festgel
 
 > **Hinweis:** Bitte informieren Sie Ihre Projektmitglieder über diese Änderungen, wenn Sie diese Funktion in vorhandenen Projekten aktivieren.
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/12289689-status-workflow-api-updates), um mehr über API-Änderungen zu erfahren
+Klicken Sie [hier](https://support.catenda.com/de/articles/12289689-status-workflow-api-updates), um mehr über API-Änderungen zu erfahren

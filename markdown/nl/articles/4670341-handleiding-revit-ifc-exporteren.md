@@ -148,7 +148,7 @@ Dit is hoe de parameter er in de eigenschappen uit kan zien
 
 ![Eigenschappen OmniClass-nummer](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/15-property-sets.png)
 
-Als u uw ifc met een classificatie hebt geëxporteerd en het als model naar Catenda hebt geïmporteerd, ziet u de classificatie als een [voorgestelde bibliotheek](https://support.catenda.com/en/articles/8065645-libraries-page#h_c03d50a9ca) wanneer u een nieuwe bibliotheek op de [bibliotheekpagina](https://support.catenda.com/en/articles/8065645-libraries-page) aanmaakt. Als een waarde in de eigenschap die u hebt opgegeven, overeenkomt met een waarde in de verstrekte documentatie, wordt deze gevonden en kan deze worden gebruikt om objecten met deze waarde in de classificatiebibliotheken die u hebt gemaakt, te selecteren.
+Als u uw ifc met een classificatie hebt geëxporteerd en het als model naar Catenda hebt geïmporteerd, ziet u de classificatie als een [voorgestelde bibliotheek](https://support.catenda.com/nl/articles/8065645-libraries-page#h_c03d50a9ca) wanneer u een nieuwe bibliotheek op de [bibliotheekpagina](https://support.catenda.com/nl/articles/8065645-libraries-page) aanmaakt. Als een waarde in de eigenschap die u hebt opgegeven, overeenkomt met een waarde in de verstrekte documentatie, wordt deze gevonden en kan deze worden gebruikt om objecten met deze waarde in de classificatiebibliotheken die u hebt gemaakt, te selecteren.
 
 ---
 

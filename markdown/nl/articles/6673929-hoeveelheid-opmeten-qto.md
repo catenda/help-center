@@ -1,10 +1,10 @@
 # Hoeveelheid opmeten (QTO)
 
-U vindt het QTO-menu als het tweede menu in het [informatievenster](https://support.catenda.com/en/articles/8238584-information-panel).
+U vindt het QTO-menu als het tweede menu in het [informatievenster](https://support.catenda.com/nl/articles/8238584-information-panel).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8drgvwsx/01-intro.png)
 
-Met deze functie kunt u een eigenschappenlijst van de objecten die zijn geselecteerd in de [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) of [boomvenster](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) bekijken en exporteren. Met deze lijst kunt u eenvoudig nauwkeurige metingen van de hoeveelheden van verschillende objecten in uw model verkrijgen. Selecteer om te beginnen een object in de [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) of [boomvenster](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) om de eigenschappen en gerelateerde informatie ervan in het inspectie-menu weer te geven. Nadat u enkele objecten hebt geselecteerd, kan het QTO-menu er als volgt uitzien:
+Met deze functie kunt u een eigenschappenlijst van de objecten die zijn geselecteerd in de [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer) of [boomvenster](https://intercom.help/bimsync-arena/nl/articles/4670290-trees-panel) bekijken en exporteren. Met deze lijst kunt u eenvoudig nauwkeurige metingen van de hoeveelheden van verschillende objecten in uw model verkrijgen. Selecteer om te beginnen een object in de [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer) of [boomvenster](https://intercom.help/bimsync-arena/nl/articles/4670290-trees-panel) om de eigenschappen en gerelateerde informatie ervan in het inspectie-menu weer te geven. Nadat u enkele objecten hebt geselecteerd, kan het QTO-menu er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8drgvwsx/02-intro.png)
 
@@ -32,7 +32,7 @@ In de tweede rij vormen de namen van eigenschappen binnen hun groepen de kolomme
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8drgvwsx/05-header-row.png)
 
-Klik [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) om meer informatie over tabellen op Catenda te lezen.
+Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) om meer informatie over tabellen op Catenda te lezen.
 
 ## 3. **Aantal objecten**
 
@@ -42,7 +42,7 @@ Tot 10.000 objecten kunnen in dit menu worden weergegeven, maar slechts een bepe
 
 ## 4. **Korte video**
 
-Klik [hier](https://support.catenda.com/en/articles/6707924-quantity-take-off-qto-short-video) om een korte video over het QTO-menu te bekijken.
+Klik [hier](https://support.catenda.com/nl/articles/6707924-quantity-take-off-qto-short-video) om een korte video over het QTO-menu te bekijken.
 
 ## 5. **Pagina Objecten**
 

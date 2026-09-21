@@ -12,7 +12,7 @@ L'affichage d'une demande d'approbation et l'interaction avec son contenu se pro
 
 ### 1.1 **1.1 Page des approbations (Vue de liste)**
 
-Affiche la liste de vue d'ensemble des cartes de demande d'approbation. Les règles de visibilité détaillées des demandes sur cette page sont régies par les assignations de rôles d'équipe comme expliqué dans l'article [Visibilité de la page des approbations et rôles des Équipes](https://support.catenda.com/en/articles/12495047-approvals-page).
+Affiche la liste de vue d'ensemble des cartes de demande d'approbation. Les règles de visibilité détaillées des demandes sur cette page sont régies par les assignations de rôles d'équipe comme expliqué dans l'article [Visibilité de la page des approbations et rôles des Équipes](https://support.catenda.com/fr/articles/12495047-approvals-page).
 
 ### 1.2 **1.2 Page de contenu de l'approbation**
 

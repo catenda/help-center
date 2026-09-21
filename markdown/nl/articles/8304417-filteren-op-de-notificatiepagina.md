@@ -1,8 +1,8 @@
 # Filteren op de notificatiepagina
 
-Zowel in uw [notificatie-instellingen](https://support.catenda.com/en/articles/8272435-notification-settings) als in uw [projectspecifieke notificatie-instellingen](https://support.catenda.com/en/articles/4670262-project-specific-notification-settings) kunt u configureren welke notificaties u wilt ontvangen.
+Zowel in uw [notificatie-instellingen](https://support.catenda.com/nl/articles/8272435-notification-settings) als in uw [projectspecifieke notificatie-instellingen](https://support.catenda.com/nl/articles/4670262-project-specific-notification-settings) kunt u configureren welke notificaties u wilt ontvangen.
 
-In dit artikel wordt uitgelegd in welke situatie een notificatie wordt verzonden voor de verschillende instellingen. Nadat de notificatie is verzonden, kunt u deze terugvinden op de [accountnotificatiepagina](https://support.catenda.com/en/articles/7439223-account-notifications-page) en de [projectnotificatiepagina](https://support.catenda.com/en/articles/4670295-project-notifications-page) door de filterknoppen aan de linkerkant te openen.
+In dit artikel wordt uitgelegd in welke situatie een notificatie wordt verzonden voor de verschillende instellingen. Nadat de notificatie is verzonden, kunt u deze terugvinden op de [accountnotificatiepagina](https://support.catenda.com/nl/articles/7439223-account-notifications-page) en de [projectnotificatiepagina](https://support.catenda.com/nl/articles/4670295-project-notifications-page) door de filterknoppen aan de linkerkant te openen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/810mbm4a/01-intro.png)
 
@@ -22,11 +22,11 @@ Klik op de filterknop in de linkerbovenhoek om een paneel aan de linkerkant te o
 
 ### 2.3 **Huidig filter opslaan en delen**
 
-Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen boven aan het filtermenu worden opgeslagen. Klik [hier](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) voor meer informatie over het opslaan en delen van filters
+Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen boven aan het filtermenu worden opgeslagen. Klik [hier](https://support.catenda.com/nl/articles/11401493-saving-a-filter-link) voor meer informatie over het opslaan en delen van filters
 
 ### 2.4 **Lege filters verbergen**
 
-Klik [hier](https://support.catenda.com/en/articles/8551755-saving-filters) voor meer informatie over het beperken van filterresultaten.
+Klik [hier](https://support.catenda.com/nl/articles/8551755-saving-filters) voor meer informatie over het beperken van filterresultaten.
 
 ## 3. **Datumfilters**
 
@@ -46,7 +46,7 @@ Notificaties van het afgelopen jaar.
 
 ### 3.4 **Kies een datum** - `date-from=<Epoch Unix Timestamp>&date-to=<Epoch Unix Timestamp>`
 
-Lees [dit](https://support.catenda.com/en/articles/6511685-date-filter) artikel om te leren hoe u eenvoudig datums op de pagina kunt selecteren.
+Lees [dit](https://support.catenda.com/nl/articles/6511685-date-filter) artikel om te leren hoe u eenvoudig datums op de pagina kunt selecteren.
 
 ### 3.5 **Alle notificaties**
 
@@ -88,15 +88,15 @@ _Export voltooid_ - `type=export-completed` Wanneer uw modelexport met succes is
 
 ### 7.1 **Nieuw topic** - `type=new-issue`
 
-Dit is de enige notificatie die u over een topic ontvangt als u het topic niet [volgt](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e). Toegewezen personen, verzoeken en leden die in topics worden vermeld, volgen het topic automatisch en ontvangen de onderstaande notificaties.
+Dit is de enige notificatie die u over een topic ontvangt als u het topic niet [volgt](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_a97f3b264e). Toegewezen personen, verzoeken en leden die in topics worden vermeld, volgen het topic automatisch en ontvangen de onderstaande notificaties.
 
 **Notificatie-instelling:** Er is een nieuw topic gemaakt
 
 ### 7.2 **Nieuwe opmerking** - `type=new-comment`
 
-Als u noch de toegewezen noch de verzoeker van het topic bent, maar het topic [volgt](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e), ontvangt u deze notificatie.
+Als u noch de toegewezen noch de verzoeker van het topic bent, maar het topic [volgt](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_a97f3b264e), ontvangt u deze notificatie.
 
-Dit kan gebeuren als u eerder [toegewezen](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9), [verzoeker](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [vermeld](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) of [handmatig gevolgd](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) bent. Als u geen toekomstige notificaties van dit topic wilt, kunt u het topic niet volgen in het [rechter informatievenster](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue). _Notificatie-instelling: aan mij toegewezen_ Een topic is aan u toegewezen
+Dit kan gebeuren als u eerder [toegewezen](https://support.catenda.com/nl/articles/8400566-issue-header#h_0a91fa8dd9), [verzoeker](https://support.catenda.com/nl/articles/8400566-issue-header#h_1aea0990a7), [vermeld](https://support.catenda.com/nl/articles/8430847-formatting-of-posts#h_2481ad1c8c) of [handmatig gevolgd](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) bent. Als u geen toekomstige notificaties van dit topic wilt, kunt u het topic niet volgen in het [rechter informatievenster](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue). _Notificatie-instelling: aan mij toegewezen_ Een topic is aan u toegewezen
 
 **Notificatie-instelling: door mij aangevraagd** Een topic is door u aangevraagd
 
@@ -122,9 +122,9 @@ Wanneer een team aan een topic wordt toegewezen
 
 ### 7.7 **Status bijgewerkt** - `type=status-updated`
 
-Als u noch de toegewezen noch de verzoeker van het topic bent, maar het topic [volgt](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e), ontvangt u deze notificatie.
+Als u noch de toegewezen noch de verzoeker van het topic bent, maar het topic [volgt](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_a97f3b264e), ontvangt u deze notificatie.
 
-Dit kan gebeuren als u eerder [toegewezen](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9), [verzoeker](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [vermeld](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) of [handmatig gevolgd](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) bent. Als u geen toekomstige notificaties van dit topic wilt, kunt u het topic niet volgen in het [rechter informatievenster](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue). _Notificatie-instelling: aan mij toegewezen_ Een status is bijgewerkt in een topic dat aan u is toegewezen
+Dit kan gebeuren als u eerder [toegewezen](https://support.catenda.com/nl/articles/8400566-issue-header#h_0a91fa8dd9), [verzoeker](https://support.catenda.com/nl/articles/8400566-issue-header#h_1aea0990a7), [vermeld](https://support.catenda.com/nl/articles/8430847-formatting-of-posts#h_2481ad1c8c) of [handmatig gevolgd](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) bent. Als u geen toekomstige notificaties van dit topic wilt, kunt u het topic niet volgen in het [rechter informatievenster](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue). _Notificatie-instelling: aan mij toegewezen_ Een status is bijgewerkt in een topic dat aan u is toegewezen
 
 **Notificatie-instelling: door mij aangevraagd** Een status is bijgewerkt in een topic dat door u is aangevraagd
 
@@ -132,9 +132,9 @@ Dit kan gebeuren als u eerder [toegewezen](https://support.catenda.com/en/articl
 
 ### 7.8 **Type bijgewerkt** - `type=type-updated`
 
-Als u noch de toegewezen noch de verzoeker van het topic bent, maar het topic [volgt](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e), ontvangt u deze notificatie.
+Als u noch de toegewezen noch de verzoeker van het topic bent, maar het topic [volgt](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_a97f3b264e), ontvangt u deze notificatie.
 
-Dit kan gebeuren als u eerder [toegewezen](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9), [verzoeker](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [vermeld](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) of [handmatig gevolgd](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) bent. Als u geen toekomstige notificaties van dit topic wilt, kunt u het topic niet volgen in het [rechter informatievenster](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue). _Notificatie-instellingen:_
+Dit kan gebeuren als u eerder [toegewezen](https://support.catenda.com/nl/articles/8400566-issue-header#h_0a91fa8dd9), [verzoeker](https://support.catenda.com/nl/articles/8400566-issue-header#h_1aea0990a7), [vermeld](https://support.catenda.com/nl/articles/8430847-formatting-of-posts#h_2481ad1c8c) of [handmatig gevolgd](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) bent. Als u geen toekomstige notificaties van dit topic wilt, kunt u het topic niet volgen in het [rechter informatievenster](https://support.catenda.com/nl/articles/8053299-right-panel-in-an-issue). _Notificatie-instellingen:_
 
 Aan mij toegewezen - Een type is bijgewerkt in een topic dat aan u is toegewezen
 
@@ -268,7 +268,7 @@ De naam van het gedownloade zip-bestand is _\<Download GUID>.zip_, in tegenstell
 
 ### 10.1 **Nieuwe uitnodiging** - `type=invite`
 
-**Notificatie verzonden als:** Een ander gebruiker stuurt u een uitnodiging voor een project. De notificatie beschrijft wie u heeft uitgenodigd en voor welk project u bent uitgenodigd. Als u deze notificatie hebt ontvangen, zou u ook een e-mail met een uitnodigingslink moeten hebben ontvangen waarop u kunt klikken om de uitnodiging te accepteren. Controleer [hier](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) voor e-mailprobleemoplossing.
+**Notificatie verzonden als:** Een ander gebruiker stuurt u een uitnodiging voor een project. De notificatie beschrijft wie u heeft uitgenodigd en voor welk project u bent uitgenodigd. Als u deze notificatie hebt ontvangen, zou u ook een e-mail met een uitnodigingslink moeten hebben ontvangen waarop u kunt klikken om de uitnodiging te accepteren. Controleer [hier](https://support.catenda.com/nl/articles/8417802-why-am-i-not-receiving-emails) voor e-mailprobleemoplossing.
 
 > **Opmerking:** De notificatie in Catenda Hub bevat ook de uitnodigingslink, dus u kunt ook op de notificatie klikken om de uitnodiging te accepteren. Als u nog geen account hebt, moet u er mogelijk een maken en opnieuw worden uitgenodigd om op de notificatie te klikken.
 
@@ -312,4 +312,4 @@ Elk type import of export dat op de achtergrond wordt verwerkt, produceert een n
 
 ### 14.2 **Verzonden zelfs als alle notificaties zijn uitgeschakeld**
 
-Notificaties over koppelingen die via de [sharelink](https://support.catenda.com/en/articles/4728886-sharelink-notify-people-about-catenda-hub-content)-functie met gebruikers zijn gedeeld, maken altijd een notificatie voor de gebruiker, zelfs als de gebruiker notificaties volledig heeft uitgeschakeld met de aan-/uitknop in de rechterbovenhoek van de pagina met notificatie-instellingen.
+Notificaties over koppelingen die via de [sharelink](https://support.catenda.com/nl/articles/4728886-sharelink-notify-people-about-catenda-hub-content)-functie met gebruikers zijn gedeeld, maken altijd een notificatie voor de gebruiker, zelfs als de gebruiker notificaties volledig heeft uitgeschakeld met de aan-/uitknop in de rechterbovenhoek van de pagina met notificatie-instellingen.

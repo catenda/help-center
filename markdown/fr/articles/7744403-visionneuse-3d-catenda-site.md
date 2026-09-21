@@ -1,6 +1,6 @@
 # Visionneuse 3D - Catenda Site
 
-Ouvrez la [page 2D/3D](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site) pour voir la visionneuse 3D vers le haut de l'écran sur Catenda Site. Voici à quoi peut ressembler la visionneuse 3D sur Catenda Site :
+Ouvrez la [page 2D/3D](https://support.catenda.com/fr/articles/7734138-2d-3d-catenda-site) pour voir la visionneuse 3D vers le haut de l'écran sur Catenda Site. Voici à quoi peut ressembler la visionneuse 3D sur Catenda Site :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/d7q47dvw/01-intro.png)
 

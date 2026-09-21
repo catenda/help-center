@@ -1,10 +1,10 @@
 # Page Inviter des membres
 
-Cette page peut être trouvée en cliquant sur le bouton inviter des membres en haut à droite de la [page des Membres](https://support.catenda.com/en/articles/4670291-members-page). La page des Membres est un sous-menu de la [page des paramètres du projet](https://support.catenda.com/en/articles/4670273-project-settings-page).
+Cette page peut être trouvée en cliquant sur le bouton inviter des membres en haut à droite de la [page des Membres](https://support.catenda.com/fr/articles/4670291-members-page). La page des Membres est un sous-menu de la [page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bejjtn6g/01-intro.png)
 
-_Accès requis :_ Accès à [l'invitation de nouveaux Membres](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) sur la page des paramètres du projet.
+_Accès requis :_ Accès à [l'invitation de nouveaux Membres](https://support.catenda.com/fr/articles/4670273-project-settings-page#h_f82a1850f3) sur la page des paramètres du projet.
 
 ## 1. **Inviter un Membre**
 
@@ -58,4 +58,4 @@ Si vous ne souhaitez plus que la personne à qui l'invitation a été envoyée r
 
 ## 5. **Ajouter des Membres de l'organisation**
 
-Les propriétaires de l'organisation pourront ajouter des Membres de l'organisation qui ont déjà un compte dans Catenda au projet sans avoir à les inviter par e-mail. De cette façon, vous n'aurez pas à attendre qu'ils acceptent l'invitation. Cliquez [ici](https://support.catenda.com/en/articles/8434846-adding-users-without-an-email-invite) pour en savoir plus sur l'invitation de Membres de l'organisation.
+Les propriétaires de l'organisation pourront ajouter des Membres de l'organisation qui ont déjà un compte dans Catenda au projet sans avoir à les inviter par e-mail. De cette façon, vous n'aurez pas à attendre qu'ils acceptent l'invitation. Cliquez [ici](https://support.catenda.com/fr/articles/8434846-adding-users-without-an-email-invite) pour en savoir plus sur l'invitation de Membres de l'organisation.

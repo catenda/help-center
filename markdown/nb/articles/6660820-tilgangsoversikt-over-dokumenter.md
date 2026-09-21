@@ -2,7 +2,7 @@
 
 > En oversikt over tilgangsrettigheter for brukere og teams
 
-Tilgangsoversikten over dokumenter finner du ved å klikke på knappen for tilgangsoversikt i [tilgangskontrollmenyen](https://support.catenda.com/en/articles/7831371-document-settings-page#h_98a4be4ac9) på [dokumentinnstillingssiden](https://support.catenda.com/en/articles/7831371-document-settings-page). Med tilgangsoversikten over dokumenter kan du få en generell oversikt over tilgangsrettigheter for brukere og teams i dokumenttabellen. _Påkrevd tilgang:_ Administrator
+Tilgangsoversikten over dokumenter finner du ved å klikke på knappen for tilgangsoversikt i [tilgangskontrollmenyen](https://support.catenda.com/nb/articles/7831371-document-settings-page#h_98a4be4ac9) på [dokumentinnstillingssiden](https://support.catenda.com/nb/articles/7831371-document-settings-page). Med tilgangsoversikten over dokumenter kan du få en generell oversikt over tilgangsrettigheter for brukere og teams i dokumenttabellen. _Påkrevd tilgang:_ Administrator
 
 Slik kan tilgangsoversiktssiden se ut:
 
@@ -50,7 +50,7 @@ Klikk på handlingen Regenerer tilgangsoversikt for å få den siste versjonen a
 
 ## 3. **Tilgangsoversikt-tabell**
 
-Det er bare mulig å se tilgangen for mapper i dokumenttreet. For å se tilgangen for et bestemt dokument, velger du dokumentet og viser [tilgangsmenyen](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info#h_8525de97c2) i [høyre meny for en dokumentrevisjon](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info). Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller på Catenda.
+Det er bare mulig å se tilgangen for mapper i dokumenttreet. For å se tilgangen for et bestemt dokument, velger du dokumentet og viser [tilgangsmenyen](https://support.catenda.com/nb/articles/8302244-right-menu-of-a-revision-revision-info#h_8525de97c2) i [høyre meny for en dokumentrevisjon](https://support.catenda.com/nb/articles/8302244-right-menu-of-a-revision-revision-info). Klikk [her](https://support.catenda.com/nb/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller på Catenda.
 
 ### 3.1 **Filtrering i tilgangsoversikt-tabellen**
 

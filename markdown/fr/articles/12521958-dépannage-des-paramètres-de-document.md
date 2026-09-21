@@ -1,6 +1,6 @@
 # Dépannage des paramètres de document
 
-Dans cet article, vous trouverez des informations sur les erreurs qui peuvent se produire sur la [page des paramètres de document](https://support.catenda.com/en/articles/7831371-document-settings-page).
+Dans cet article, vous trouverez des informations sur les erreurs qui peuvent se produire sur la [page des paramètres de document](https://support.catenda.com/fr/articles/7831371-document-settings-page).
 
 ## 1. **Statut du workflow**
 

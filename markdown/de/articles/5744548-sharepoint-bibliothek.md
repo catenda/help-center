@@ -2,11 +2,11 @@
 
 > In diesem Artikel wird beschrieben, wie Sie eine Verbindung zu Sharepoint einrichten
 
-Um eine SharePoint-Bibliothek zu erstellen, klicken Sie auf die [Schaltfläche "Neue Bibliothek"](https://support.catenda.com/en/articles/8065645-libraries-page#h_c6d56f227c) oben rechts auf der [Seite "Bibliotheken"](https://support.catenda.com/en/articles/8065645-libraries-page). Diese Bibliothek kann verwendet werden, um Dokumente aus einer SharePoint-Instanz eines Benutzers mit den anderen Mitgliedern des Catenda-Projekts zu teilen. Wenn die SharePoint-Bibliothek aktiviert ist, kann sie etwa wie folgt aussehen:
+Um eine SharePoint-Bibliothek zu erstellen, klicken Sie auf die [Schaltfläche "Neue Bibliothek"](https://support.catenda.com/de/articles/8065645-libraries-page#h_c6d56f227c) oben rechts auf der [Seite "Bibliotheken"](https://support.catenda.com/de/articles/8065645-libraries-page). Diese Bibliothek kann verwendet werden, um Dokumente aus einer SharePoint-Instanz eines Benutzers mit den anderen Mitgliedern des Catenda-Projekts zu teilen. Wenn die SharePoint-Bibliothek aktiviert ist, kann sie etwa wie folgt aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/01-intro.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/9800091-sharepoint-library-short-video), um ein kurzes Video zur Konfiguration der SharePoint-Bibliothek anzusehen.
+Klicken Sie [hier](https://support.catenda.com/de/articles/9800091-sharepoint-library-short-video), um ein kurzes Video zur Konfiguration der SharePoint-Bibliothek anzusehen.
 
 Nach Eingabe eines Namens für die Bibliothek wird eine neue Registerkarte in Ihrem Browser geöffnet, in der Sie sich mit Ihrem SharePoint-Konto anmelden müssen. Nach der Anmeldung werden Sie zur Seite "Bibliothekseinstellungen" Ihrer SharePoint-Bibliothek weitergeleitet, auf der Sie den SharePoint-Ordner konfigurieren können, den Sie in Catenda anzeigen möchten.
 
@@ -54,7 +54,7 @@ Klicken Sie auf die Schaltfläche "Neue Bibliothek", um eine neue Bibliothek zu 
 
 ### 4.1 **Gespeicherte Filter**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/8551755-saving-filters), um mehr darüber zu erfahren, wie Sie einen Satz von Filtern speichern
+Klicken Sie [hier](https://support.catenda.com/de/articles/8551755-saving-filters), um mehr darüber zu erfahren, wie Sie einen Satz von Filtern speichern
 
 ### 4.2 **Nicht verknüpft -** `link=unlinked`
 
@@ -100,7 +100,7 @@ Wenn Objekte mit Ihren Dokumenten verknüpft wurden, können Sie hier die Anzahl
 
 ## 6. **Recht-Informationsmenü**
 
-Wenn Sie zum ersten Mal ein Dokument in der Dokumentliste öffnen, ist das rechte Menü möglicherweise geschlossen. Sie können auf die Schaltfläche Informationen unten rechts auf dem [Dokumentbanner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) klicken, um dieses Menü zu erweitern.
+Wenn Sie zum ersten Mal ein Dokument in der Dokumentliste öffnen, ist das rechte Menü möglicherweise geschlossen. Sie können auf die Schaltfläche Informationen unten rechts auf dem [Dokumentbanner](https://support.catenda.com/de/articles/8461918-document-banner-actions-navigation) klicken, um dieses Menü zu erweitern.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/05-right-information-menu.png)
 

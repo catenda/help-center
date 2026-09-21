@@ -16,52 +16,52 @@
 
 ### 1.1 **新しいアーティクル:**
 
-**製品機能** [ドキュメントプレビューツール](https://support.catenda.com/en/articles/11384618-document-preview-tools) [マイルストーンページ](https://support.catenda.com/en/articles/11376858-milestone-page)
+**製品機能** [ドキュメントプレビューツール](https://support.catenda.com/ja/articles/11384618-document-preview-tools) [マイルストーンページ](https://support.catenda.com/ja/articles/11376858-milestone-page)
 
-**トラブルシューティング** [サインインとパスワード](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) [Desktop Connectorトラブルシューティング](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting) [Zipアップロードトラブルシューティング](https://support.catenda.com/en/articles/11017391-zip-upload-troubleshooting) [2Dビューア建物と階](https://support.catenda.com/en/articles/10901703-2d-viewer-buildings-and-storeys) [ドキュメントアップロードダイアログトラブルシューティング](https://support.catenda.com/en/articles/11070748-upload-document-dialogue-troubleshooting) [Solibriドキュメント統合トラブルシューティング](https://support.catenda.com/en/articles/11431097-solibri-documents-integration-troubleshooting)
+**トラブルシューティング** [サインインとパスワード](https://support.catenda.com/ja/articles/10798891-sign-in-and-passwords) [Desktop Connectorトラブルシューティング](https://support.catenda.com/ja/articles/11019637-desktop-connector-troubleshooting) [Zipアップロードトラブルシューティング](https://support.catenda.com/ja/articles/11017391-zip-upload-troubleshooting) [2Dビューア建物と階](https://support.catenda.com/ja/articles/10901703-2d-viewer-buildings-and-storeys) [ドキュメントアップロードダイアログトラブルシューティング](https://support.catenda.com/ja/articles/11070748-upload-document-dialogue-troubleshooting) [Solibriドキュメント統合トラブルシューティング](https://support.catenda.com/ja/articles/11431097-solibri-documents-integration-troubleshooting)
 
-**チュートリアルとガイド** [Guiddeビデオ](https://support.catenda.com/en/articles/11055278-guidde-videos)
+**チュートリアルとガイド** [Guiddeビデオ](https://support.catenda.com/ja/articles/11055278-guidde-videos)
 
-**よくある質問** [フィルターリンクの保存](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) [Catenda Desktop Connector FAQ](https://support.catenda.com/en/articles/11582835-catenda-desktop-connector-faq)
+**よくある質問** [フィルターリンクの保存](https://support.catenda.com/ja/articles/11401493-saving-a-filter-link) [Catenda Desktop Connector FAQ](https://support.catenda.com/ja/articles/11582835-catenda-desktop-connector-faq)
 
 ### 1.2 **変更されたアーティクル:**
 
 **製品機能**
 
 - モデル
-  - [モデルページアクション](https://support.catenda.com/en/articles/9431936-models-page-actions)
-  - [モデル概要ページアクション](https://support.catenda.com/en/articles/9674157-model-overview-page-actions)
-  - [数量確認(QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
+  - [モデルページアクション](https://support.catenda.com/ja/articles/9431936-models-page-actions)
+  - [モデル概要ページアクション](https://support.catenda.com/ja/articles/9674157-model-overview-page-actions)
+  - [数量確認(QTO)](https://support.catenda.com/ja/articles/6673929-quantity-take-off-qto)
 - トピック
-  - [マイルストーンページ](https://support.catenda.com/en/articles/4670266-milestones-page)
+  - [マイルストーンページ](https://support.catenda.com/ja/articles/4670266-milestones-page)
 - ドキュメント
-  - [リビジョンの右メニュー - リビジョン情報](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
-  - [ドキュメント構造アクション](https://support.catenda.com/en/articles/4670288-document-structure-actions)
-  - [ドキュメントリビジョンアクション](https://support.catenda.com/en/articles/9323521-document-revision-actions)
+  - [リビジョンの右メニュー - リビジョン情報](https://support.catenda.com/ja/articles/8302244-right-menu-of-a-revision-revision-info)
+  - [ドキュメント構造アクション](https://support.catenda.com/ja/articles/4670288-document-structure-actions)
+  - [ドキュメントリビジョンアクション](https://support.catenda.com/ja/articles/9323521-document-revision-actions)
   - [ドキュメントプレビューとアノテーション](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=4496538&activeContentType=article&editorMode=view&search=document%20preview)
-  - [ドキュメントページの列](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
-  - [リビジョン公開 - ISO 19650](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650)
-  - [zipファイル構造をアップロード](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
-  - [コレクションページ](https://support.catenda.com/en/articles/6344318-collections-page)
+  - [ドキュメントページの列](https://support.catenda.com/ja/articles/8466850-columns-on-the-documents-page)
+  - [リビジョン公開 - ISO 19650](https://support.catenda.com/ja/articles/9874698-revision-publishing-iso-19650)
+  - [zipファイル構造をアップロード](https://support.catenda.com/ja/articles/7945410-upload-a-zip-file-structure)
+  - [コレクションページ](https://support.catenda.com/ja/articles/6344318-collections-page)
 - プロジェクト設定
-  - [プロジェクト設定ページ](https://support.catenda.com/en/articles/4670273-project-settings-page)
-  - [カスタムフィールドページ](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-  - [メンバーページ](https://support.catenda.com/en/articles/4670291-members-page)
+  - [プロジェクト設定ページ](https://support.catenda.com/ja/articles/4670273-project-settings-page)
+  - [カスタムフィールドページ](https://support.catenda.com/ja/articles/6550459-custom-fields-page)
+  - [メンバーページ](https://support.catenda.com/ja/articles/4670291-members-page)
 - 2D & 3D ビューア
-  - [3Dビューアツールメニュー](https://support.catenda.com/en/articles/4670294-3d-viewer-tool-menu)
-  - [3Dビューア](https://support.catenda.com/en/articles/8227211-3d-viewer)
-  - [リビジョンセレクター](https://support.catenda.com/en/articles/4670279-revision-selector)
-  - [Catenda HubのポイントクラウドPDF](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub)
+  - [3Dビューアツールメニュー](https://support.catenda.com/ja/articles/4670294-3d-viewer-tool-menu)
+  - [3Dビューア](https://support.catenda.com/ja/articles/8227211-3d-viewer)
+  - [リビジョンセレクター](https://support.catenda.com/ja/articles/4670279-revision-selector)
+  - [Catenda HubのポイントクラウドPDF](https://support.catenda.com/ja/articles/5606625-point-clouds-in-catenda-hub)
 - Catendaプラグインと統合
-  - [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
-  - [トピックメニュー - Catenda Site](https://support.catenda.com/en/articles/7734073-topics-menu-catenda-site)
-  - [Solibriモデルとドキュメント統合](https://support.catenda.com/en/articles/6988148-solibri-models-and-documents-integration)
+  - [Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)
+  - [トピックメニュー - Catenda Site](https://support.catenda.com/ja/articles/7734073-topics-menu-catenda-site)
+  - [Solibriモデルとドキュメント統合](https://support.catenda.com/ja/articles/6988148-solibri-models-and-documents-integration)
 
-**トラブルシューティング** [ハードウェア推奨事項](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [メールが受信されていませんか?](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) [サポートボタンの位置と機能](https://support.catenda.com/en/articles/8894066-support-button-location-and-functionality)
+**トラブルシューティング** [ハードウェア推奨事項](https://support.catenda.com/ja/articles/6921941-hardware-recommendation) [メールが受信されていませんか?](https://support.catenda.com/ja/articles/8417802-why-am-i-not-receiving-emails) [サポートボタンの位置と機能](https://support.catenda.com/ja/articles/8894066-support-button-location-and-functionality)
 
-**よくある質問** [プロジェクトセキュリティ](https://support.catenda.com/en/articles/8263256-project-security)
+**よくある質問** [プロジェクトセキュリティ](https://support.catenda.com/ja/articles/8263256-project-security)
 
-最近の更新 [ドキュメントとしてのモデル](https://support.catenda.com/en/articles/8064548-models-as-documents)
+最近の更新 [ドキュメントとしてのモデル](https://support.catenda.com/ja/articles/8064548-models-as-documents)
 
 ## 2. **解決されたバグ**
 

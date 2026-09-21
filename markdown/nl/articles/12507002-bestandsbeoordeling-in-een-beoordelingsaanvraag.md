@@ -66,8 +66,8 @@ De knop voor volledig scherm beoordeling kan worden gevonden aan de bovenkant re
 
 ## 6. Documentvoorbeeld
 
-Bij het beoordelen van de bestandsbeoordeling namens een team zijn alle [gereedschappen voor documentannotatie](https://support.catenda.com/en/articles/11384618-document-preview-tools) beschikbaar. Het documentvoorbeeld op de beoordelingsaanvraag beoordelingspagina werkt hetzelfde als het [documentvoorbeeld](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) bij het openen van een document uit de documenttabel.
+Bij het beoordelen van de bestandsbeoordeling namens een team zijn alle [gereedschappen voor documentannotatie](https://support.catenda.com/nl/articles/11384618-document-preview-tools) beschikbaar. Het documentvoorbeeld op de beoordelingsaanvraag beoordelingspagina werkt hetzelfde als het [documentvoorbeeld](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations) bij het openen van een document uit de documenttabel.
 
 ### 6.1 Alleen lezen
 
-Bij het bekijken van de bestandsbeoordeling in de modus alleen-lezen is alleen het [weergavegereedschap](https://support.catenda.com/en/articles/11384618-document-preview-tools#h_27c7badabb) beschikbaar in de werkbalk van het documentvoorbeeld.
+Bij het bekijken van de bestandsbeoordeling in de modus alleen-lezen is alleen het [weergavegereedschap](https://support.catenda.com/nl/articles/11384618-document-preview-tools#h_27c7badabb) beschikbaar in de werkbalk van het documentvoorbeeld.

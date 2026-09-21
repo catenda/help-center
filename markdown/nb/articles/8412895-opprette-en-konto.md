@@ -4,11 +4,11 @@ Når du går til [hub.catenda.com/signup](http://hub.catenda.com/signup) vil du 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/thng6w36/01-intro.png)
 
-Hvis du oppretter en konto vil du ikke automatisk være del av et prosjekt. For å bli med i et prosjekt må du godta en [invitasjonslenke](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project). Hvis du fulgte en invitasjonslenke og ble bedt om å opprette en konto, vil den nye kontoen automatisk ha godtatt invitasjonen.
+Hvis du oppretter en konto vil du ikke automatisk være del av et prosjekt. For å bli med i et prosjekt må du godta en [invitasjonslenke](https://support.catenda.com/nb/articles/4670246-accepting-an-invitation-to-join-a-project). Hvis du fulgte en invitasjonslenke og ble bedt om å opprette en konto, vil den nye kontoen automatisk ha godtatt invitasjonen.
 
 ## 1. **Trinn 1 av 4 - Opprett en gratis konto**
 
-Her kan du skrive inn e-postadressen din og passordet ditt for å registrere deg for en gratis konto. Etter vellykket pålogging vil du bli omdirigert til [prosjektsiden](https://support.catenda.com/en/articles/4670260-projects-page).
+Her kan du skrive inn e-postadressen din og passordet ditt for å registrere deg for en gratis konto. Etter vellykket pålogging vil du bli omdirigert til [prosjektsiden](https://support.catenda.com/nb/articles/4670260-projects-page).
 
 ### 1.1 **Eksisterende konto**
 
@@ -20,7 +20,7 @@ Hvis du allerede har en konto kan du klikke [her](https://hub.catenda.com/signin
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/thng6w36/02-step-2-of-4-verify-your-email.png)
 
-Etter at du har registrert e-postadressen din hos oss, vil vi forsøke å sende deg en e-post for å bekrefte at e-postadressen din finnes og kan motta e-poster fra oss. Uten å bekrefte e-posten din vil du bare motta e-poster med offentlige Lenker fra oss som prosjektinvitasjoner og offentlig delte samlinger eller Bokmerker. Vennligst bekreft e-postadressen din for å motta andre Varsel. Hvis du ikke mottar bekreftelsesmalen, vennligst sjekk [denne](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) artikkelen for mulige grunner til at bekreftelsesmalen ikke kommer fram og hvordan du løser det.
+Etter at du har registrert e-postadressen din hos oss, vil vi forsøke å sende deg en e-post for å bekrefte at e-postadressen din finnes og kan motta e-poster fra oss. Uten å bekrefte e-posten din vil du bare motta e-poster med offentlige Lenker fra oss som prosjektinvitasjoner og offentlig delte samlinger eller Bokmerker. Vennligst bekreft e-postadressen din for å motta andre Varsel. Hvis du ikke mottar bekreftelsesmalen, vennligst sjekk [denne](https://support.catenda.com/nb/articles/8417802-why-am-i-not-receiving-emails) artikkelen for mulige grunner til at bekreftelsesmalen ikke kommer fram og hvordan du løser det.
 
 ### 2.1 **Bekreftelseslenke**
 
@@ -38,11 +38,11 @@ Hvis en konto med denne e-postadressen allerede finnes i systemet vårt, vil du 
 
 ### 3.1 **Fornavn og etternavn**
 
-Vennligst fyll ut feltene for fornavn og etternavn. Brukernavnet ditt vil være fornavnet ditt og etternavnet ditt atskilt med et mellomrom. Du vil senere kunne endre brukernavnet ditt i [kontoinnstillinger](https://support.catenda.com/en/articles/6880968-account-page).
+Vennligst fyll ut feltene for fornavn og etternavn. Brukernavnet ditt vil være fornavnet ditt og etternavnet ditt atskilt med et mellomrom. Du vil senere kunne endre brukernavnet ditt i [kontoinnstillinger](https://support.catenda.com/nb/articles/6880968-account-page).
 
 ### 3.2 **Passord og passordsbekreftelse**
 
-Passord og Bekreft passord-feltene. Du vil senere kunne endre passordet ditt i [autentiseringsinnstillinger](https://support.catenda.com/en/articles/6880968-account-page). Klikk [her](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) for passordtesting.
+Passord og Bekreft passord-feltene. Du vil senere kunne endre passordet ditt i [autentiseringsinnstillinger](https://support.catenda.com/nb/articles/6880968-account-page). Klikk [her](https://support.catenda.com/nb/articles/10798891-sign-in-and-passwords) for passordtesting.
 
 ### 3.3 **Brukervilkår**
 
@@ -76,4 +76,4 @@ Etter at du har fylt ut spørreskjemaet vil du se at Fortsett-knappen er uthevet
 
 > **Merknad:** Alternativene i spørreskjemaet påvirker ikke Catenda-opplevelsen din.
 
-Klikk "Fortsett"-knappen for å bli tatt til [prosjektsiden](https://support.catenda.com/en/articles/8400797-projects-page).
+Klikk "Fortsett"-knappen for å bli tatt til [prosjektsiden](https://support.catenda.com/nb/articles/8400797-projects-page).

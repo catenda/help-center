@@ -10,7 +10,7 @@ Dieser Artikel enthält Informationen zu den folgenden Themen: [Suchen oder Filt
 
 ## 1. **Optionen zum Suchen oder Filtern**
 
-Siehe [hier](https://support.catenda.com/en/articles/4670283-search-and-filter-option), um herauszufinden, wie Sie am besten in der Berichtstabelle suchen oder filtern können
+Siehe [hier](https://support.catenda.com/de/articles/4670283-search-and-filter-option), um herauszufinden, wie Sie am besten in der Berichtstabelle suchen oder filtern können
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/02-search-or-filter-options.png)
 
@@ -32,7 +32,7 @@ Im rechten Menü können Sie Informationen zu folgenden Themen einsehen:
 - Verknüpfte Objekte
 - Themen
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/8345396-right-panel-on-the-documents-page), um mehr über das rechte Menü zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8345396-right-panel-on-the-documents-page), um mehr über das rechte Menü zu erfahren.
 
 ## 3. **Berichtstabelle**
 
@@ -40,7 +40,7 @@ Die Berichtstabelle kann folgendermaßen aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/04-reports-table.png)
 
-Die Berichtstabelle funktioniert genau wie die [Dokumententabelle](https://support.catenda.com/en/articles/8204673-documents-page#h_54e8dfcac2), außer dass nur Berichte angezeigt werden. Klicken Sie [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten. Sobald ein Bericht erstellt wird, wird er als Zeile in der Berichtstabelle für die Person angezeigt. Die Berichte sind auch in der Dokumententabelle sichtbar.
+Die Berichtstabelle funktioniert genau wie die [Dokumententabelle](https://support.catenda.com/de/articles/8204673-documents-page#h_54e8dfcac2), außer dass nur Berichte angezeigt werden. Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten. Sobald ein Bericht erstellt wird, wird er als Zeile in der Berichtstabelle für die Person angezeigt. Die Berichte sind auch in der Dokumententabelle sichtbar.
 
 ### 3.1 **Ausgewählte Elementaktionen**
 
@@ -48,7 +48,7 @@ Nach der Auswahl einer Elementzeile werden ausgewählte Elementaktionen oben in 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/05-selected-item-actions.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/4670288-document-structure-actions), um mehr über die ausgewählten Elementaktionen auf der Berichtsseite zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/4670288-document-structure-actions), um mehr über die ausgewählten Elementaktionen auf der Berichtsseite zu erfahren.
 
 ### 3.2 **Zeileninhalt**
 
@@ -56,11 +56,11 @@ Klicken Sie [hier](https://support.catenda.com/en/articles/4670288-document-stru
 
 **Ordnerzeile** Wenn Sie den Inhalt einer Ordnerzeile öffnen, wird die Tabelle so geändert, dass der Inhalt dieses Ordners in der Berichtstabelle angezeigt wird.
 
-**Berichtszeile** Wenn Sie den Inhalt einer Berichtszeile öffnen, wird die [Dokumentvorschau](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) der neuesten Revision dieses Berichts geöffnet.
+**Berichtszeile** Wenn Sie den Inhalt einer Berichtszeile öffnen, wird die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-document-preview-and-annotations) der neuesten Revision dieses Berichts geöffnet.
 
 ### 3.3 **Zeileninhalt mit Status-Workflow -** Entwurfsrevisionen
 
-Wenn Sie den Inhalt einer Berichtszeile mit nur Entwurfsrevisionen öffnen, wird die [Berichtsvorschau](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) der neuesten Entwurfsrevision des Berichts geöffnet.
+Wenn Sie den Inhalt einer Berichtszeile mit nur Entwurfsrevisionen öffnen, wird die [Berichtsvorschau](https://support.catenda.com/de/articles/5001165-document-preview-and-annotations) der neuesten Entwurfsrevision des Berichts geöffnet.
 
 ### 3.4 **Zeileninhalt mit Status-Workflow - Arbeitsbereich-Registerkarte**
 
@@ -68,13 +68,13 @@ Wenn Sie den Inhalt einer Berichtszeile mit nur Entwurfsrevisionen öffnen, wird
 
 Ohne Zugriff auf die Anzeige gemeinsamer Revisionen wird die neueste veröffentlichte Revision angezeigt. Auch wenn es neuere gemeinsame Revisionen gibt. _Erforderlicher Zugriff -_ Lesezugriff auf den Bericht
 
-**Berichtsinhalt** Wenn Sie den Inhalt einer Berichtszeile auf der Arbeitsbereich-Registerkarte öffnen, wird die [Dokumentvorschau](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) der neuesten gemeinsamen Revision geöffnet, auch wenn Revisionen im Bericht zuvor veröffentlicht wurden.
+**Berichtsinhalt** Wenn Sie den Inhalt einer Berichtszeile auf der Arbeitsbereich-Registerkarte öffnen, wird die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-document-preview-and-annotations) der neuesten gemeinsamen Revision geöffnet, auch wenn Revisionen im Bericht zuvor veröffentlicht wurden.
 
 ### 3.5 **Zeileninhalt mit Status-Workflow -** Registerkarte „Veröffentlicht“
 
 **Zugriff** Zeilen auf der Berichtsseite werden basierend auf dem Zugriff auf das Element angezeigt. Berichtszeilen mit mindestens einer veröffentlichten Revision werden angezeigt. _Erforderlicher Zugriff -_ Lesen
 
-**Berichtsinhalt** Wenn Sie den Inhalt einer Berichtszeile auf der Registerkarte „Veröffentlicht“ öffnen, wird die [Dokumentvorschau](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) der letzten veröffentlichten Revision des Berichts geöffnet, selbst wenn es neuere freigegebene Revisionen gibt.
+**Berichtsinhalt** Wenn Sie den Inhalt einer Berichtszeile auf der Registerkarte „Veröffentlicht“ öffnen, wird die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-document-preview-and-annotations) der letzten veröffentlichten Revision des Berichts geöffnet, selbst wenn es neuere freigegebene Revisionen gibt.
 
 ### 3.6 **Spalten**
 
@@ -96,4 +96,4 @@ Einige Spalten in der Berichtstabelle sind standardmäßig aktiviert, während a
 
 Die folgenden Seiten können als Unterseiten zur Berichtsseite gefunden werden:
 
-- [Vorlagen](https://support.catenda.com/en/articles/12380837-report-templates-page)
+- [Vorlagen](https://support.catenda.com/de/articles/12380837-report-templates-page)

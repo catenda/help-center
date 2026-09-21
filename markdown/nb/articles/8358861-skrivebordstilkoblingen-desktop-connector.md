@@ -1,6 +1,6 @@
 # Catenda Desktop Connector
 
-> **Merknad:** Installasjonsfilen for dette programmet finner du [her](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
+> **Merknad:** Installasjonsfilen for dette programmet finner du [her](https://support.catenda.com/nb/articles/8396532-catenda-plugins-and-integrations)
 
 Med Catenda-skrivebordssamkoblingen kan du planlegge opp- og nedlastinger av de siste versjonene av dokumenter.
 

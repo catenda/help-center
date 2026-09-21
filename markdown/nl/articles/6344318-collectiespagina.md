@@ -2,7 +2,7 @@
 
 > Documenten delen, documenten downloaden als ZIP-bestand
 
-U kunt documentverzamelingen vinden als een subpagina van de [documentenpagina](https://support.catenda.com/en/articles/4670292-documents-page). Bekijk een korte video over documentverzamelingen [hier](https://support.catenda.com/en/articles/6423380-documents-collection-short-video)
+U kunt documentverzamelingen vinden als een subpagina van de [documentenpagina](https://support.catenda.com/nl/articles/4670292-documents-page). Bekijk een korte video over documentverzamelingen [hier](https://support.catenda.com/nl/articles/6423380-documents-collection-short-video)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/01-intro.png)
 
@@ -28,7 +28,7 @@ Wanneer u een nieuwe collectie maakt, wordt u gevraagd het volgende dialoogvenst
 
 **Documenten toevoegen** Als u documenten wilt toevoegen, klikt u op de [knop Documenten toevoegen](#h_b94d108342).
 
-**Verzenden** Wanneer u uw collectie verzendt, wordt u naar de collecties [collectiepagina](https://support.catenda.com/en/articles/8999764-collection-page) gebracht. De collectie wordt een [persoonlijke collectie](https://support.catenda.com/en/articles/8999764-collection-page#h_0b76040299) die alleen u kunt zien. U kunt deze collectie nog steeds bewerken voordat u deze met de rest van het project deelt.
+**Verzenden** Wanneer u uw collectie verzendt, wordt u naar de collecties [collectiepagina](https://support.catenda.com/nl/articles/8999764-collection-page) gebracht. De collectie wordt een [persoonlijke collectie](https://support.catenda.com/nl/articles/8999764-collection-page#h_0b76040299) die alleen u kunt zien. U kunt deze collectie nog steeds bewerken voordat u deze met de rest van het project deelt.
 
 ### 1.2 **Documenten toevoegen aan collecties**
 
@@ -46,7 +46,7 @@ Je kunt de documenten een voor een selecteren of op het selectievakje linksboven
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/05-search-and-filter.png)
 
-Klik [hier](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page) om te zien welke opties u hebt wanneer u op de collectiespagina filtert.
+Klik [hier](https://support.catenda.com/nl/articles/8999945-filtering-on-the-collections-page) om te zien welke opties u hebt wanneer u op de collectiespagina filtert.
 
 ## 3. **Collectielijst**
 

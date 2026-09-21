@@ -1,6 +1,6 @@
 # Dokumentbanner - Navigation
 
-Wenn Sie ein Dokument auf der [Dokumentseite](https://support.catenda.com/en/articles/8204673-documents-page) oder in einer Bibliothek auswählen, wird ein neues Fenster für dieses Dokument angezeigt. Wenn Sie ein Dokument öffnen, sehen Sie immer die neueste Revision. Die Dokumentseite kann etwa so aussehen:
+Wenn Sie ein Dokument auf der [Dokumentseite](https://support.catenda.com/de/articles/8204673-documents-page) oder in einer Bibliothek auswählen, wird ein neues Fenster für dieses Dokument angezeigt. Wenn Sie ein Dokument öffnen, sehen Sie immer die neueste Revision. Die Dokumentseite kann etwa so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/01-intro.png)
 
@@ -8,7 +8,7 @@ Wenn Sie ein Dokument auf der [Dokumentseite](https://support.catenda.com/en/art
 1. Sie finden den Dokumentheader unterhalb des Dokumentbanners und oberhalb der Dokumentvorschau
 1. Unterhalb des Dokumentheaders finden Sie die Dokumentvorschau
 1. Links neben dem Dokumentheader und der Vorschau finden Sie die Dokumentliste
-1. Rechts neben dem Dokumentheader und der Vorschau finden Sie das [rechte Informationsmenü](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
+1. Rechts neben dem Dokumentheader und der Vorschau finden Sie das [rechte Informationsmenü](https://support.catenda.com/de/articles/8302244-right-menu-in-a-document)
 
 Das Dokumentbanner kann etwa so aussehen:
 
@@ -38,11 +38,11 @@ Dokumentaktionen finden Sie oben rechts des Dokuments und können etwa so ausseh
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/03-actions.png)
 
-Weitere Informationen darüber, was die verschiedenen Dokumentaktionen tun, finden Sie [hier](https://support.catenda.com/en/articles/4670288-actions-documents#h_16671d6fc5).
+Weitere Informationen darüber, was die verschiedenen Dokumentaktionen tun, finden Sie [hier](https://support.catenda.com/de/articles/4670288-actions-documents#h_16671d6fc5).
 
 ## 4. **Rechtes Informationsmenü**
 
-Im rechten Informationsmenü können Sie alle Informationen zum Dokument finden. Klicken Sie [hier](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document), um mehr über das rechte Informationsmenü im Dokumentbereich zu erfahren.
+Im rechten Informationsmenü können Sie alle Informationen zum Dokument finden. Klicken Sie [hier](https://support.catenda.com/de/articles/8302244-right-menu-in-a-document), um mehr über das rechte Informationsmenü im Dokumentbereich zu erfahren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/04-right-information-menu.png)
 
@@ -58,13 +58,13 @@ Klicken Sie auf die Vollbildschaltfläche rechts neben der Schaltfläche des rec
 
 Dokumente können mit der Aktionsschaltfläche oben rechts, mit der Download-Schaltfläche im Revisionsmenü des rechten Informationsmenüs, durch Auswahl in der Dokumentliste und Download oder aus dem Vorschaudialog heruntergeladen werden.
 
-**Rechtes Informationsmenü** Sie können die Download-Aktionsschaltfläche im [rechten Informationsmenü](https://support.catenda.com/en/articles/8345396-right-panel-in-documents-table) finden. Das Herunterladen des Dokuments von hier gibt Ihnen immer die ursprünglich hochgeladene Datei. Wenn Sie ein Dokument auswählen, erhalten Sie die neueste Revision als Datei mit dem Revisionsnamen. Wenn Sie mehr als ein Dokument auswählen, erhalten Sie die neuesten Revisionen der ausgewählten Dokumente in einer ZIP-Datei mit dem Dokumentnamen und der Revisionsnummer.
+**Rechtes Informationsmenü** Sie können die Download-Aktionsschaltfläche im [rechten Informationsmenü](https://support.catenda.com/de/articles/8345396-right-panel-in-documents-table) finden. Das Herunterladen des Dokuments von hier gibt Ihnen immer die ursprünglich hochgeladene Datei. Wenn Sie ein Dokument auswählen, erhalten Sie die neueste Revision als Datei mit dem Revisionsnamen. Wenn Sie mehr als ein Dokument auswählen, erhalten Sie die neuesten Revisionen der ausgewählten Dokumente in einer ZIP-Datei mit dem Dokumentnamen und der Revisionsnummer.
 
 **Dokumentvorschau** Wenn Ihr Dokument in der Vorschau angezeigt werden kann, finden Sie die Schaltfläche "Speichern unter" im Hamburger-Menü oben links in der Dokumentvorschau. Mit dem Menü "Speichern unter" können Sie Ihr Dokument mit Anmerkungen und Kommentaren herunterladen.
 
 ### 6.2 **Dokumenteigenschaften**
 
-Sie können mehr über die verschiedenen Spalten lesen, die ein Dokument in der Tabellenansicht der Dokumentseite haben kann [hier](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
+Sie können mehr über die verschiedenen Spalten lesen, die ein Dokument in der Tabellenansicht der Dokumentseite haben kann [hier](https://support.catenda.com/de/articles/8466850-columns-on-the-documents-page)
 
 ### 6.3 **Dokumentrevisionen**
 

@@ -1,6 +1,6 @@
 # Seite „Offene oder geschlossene Freigabeanfrage“
 
-Wenn Shared Revisions in einem Projekt aktiviert sind, wird die [Seite „Freigaben“](https://support.catenda.com/en/articles/12495047-approvals-page) verfügbar. Mitglieder, die Teil von Einreicherteams für Freigabe-Workflows im Projekt sind, können im Namen eines Einreicherteams [eine Freigabeanfrage einreichen](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request). Eingereichte Freigabeanfragen finden Sie auf der Seite mit den Freigabeanfragen oder im Freigabemenü des rechten Menüs eines Dokuments. So kann eine Freigabeseite für Projekte aussehen, in denen Shared Revisions nach dem 2. Oktober 2025 aktiviert wurden:
+Wenn Shared Revisions in einem Projekt aktiviert sind, wird die [Seite „Freigaben“](https://support.catenda.com/de/articles/12495047-approvals-page) verfügbar. Mitglieder, die Teil von Einreicherteams für Freigabe-Workflows im Projekt sind, können im Namen eines Einreicherteams [eine Freigabeanfrage einreichen](https://support.catenda.com/de/articles/12495005-creating-a-new-approval-request). Eingereichte Freigabeanfragen finden Sie auf der Seite mit den Freigabeanfragen oder im Freigabemenü des rechten Menüs eines Dokuments. So kann eine Freigabeseite für Projekte aussehen, in denen Shared Revisions nach dem 2. Oktober 2025 aktiviert wurden:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/01-intro.png)
 
@@ -18,7 +18,7 @@ So können die Aktionen auf der Genehmigungsseite aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/02-new-item-actions.png)
 
-Verwenden Sie die Aktion für neue Genehmigungsanfrage, um eine neue Genehmigungsanfrage zu erstellen. Klicken Sie [hier](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request), um mehr über die Erstellung einer neuen Genehmigungsanfrage zu erfahren.
+Verwenden Sie die Aktion für neue Genehmigungsanfrage, um eine neue Genehmigungsanfrage zu erstellen. Klicken Sie [hier](https://support.catenda.com/de/articles/12495005-creating-a-new-approval-request), um mehr über die Erstellung einer neuen Genehmigungsanfrage zu erfahren.
 
 ## 2. **Genehmigungskopfzeile**
 
@@ -40,7 +40,7 @@ Der Workflow, der bei der Erstellung dieser Genehmigung ausgewählt wird _Erford
 
 ### 2.3 **Beschreibung**
 
-Die Beschreibung der Genehmigung. Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/en/articles/8430847-formatting-of-posts). _Erforderlicher Zugriff:_ Die Person, die die Genehmigungsanfrage erstellt hat, oder ein Projektadministrator.
+Die Beschreibung der Genehmigung. Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/de/articles/8430847-formatting-of-posts). _Erforderlicher Zugriff:_ Die Person, die die Genehmigungsanfrage erstellt hat, oder ein Projektadministrator.
 
 ## 3. **Schrittband**
 
@@ -52,7 +52,7 @@ So kann das Schrittband in einer geschlossenen Genehmigungsanfrage aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/05-step-ribbon.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-approval-request), um mehr über das Schrittband zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/12495212-step-ribbon-in-an-approval-request), um mehr über das Schrittband zu erfahren.
 
 ## 4. **Registerkarte "Überblick"**
 
@@ -60,7 +60,7 @@ Auf der Registerkarte "Überblick" finden Sie eine Schrittvorschau für jeden Sc
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/06-overview-tab.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/12495126-overview-tab-in-an-approval-request), um mehr über die Registerkarte "Überblick" in einer Genehmigung zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/12495126-overview-tab-in-an-approval-request), um mehr über die Registerkarte "Überblick" in einer Genehmigung zu erfahren.
 
 ## 5. **Registerkarte "Dokumente"**
 
@@ -68,4 +68,4 @@ Auf der Registerkarte "Dokumente" einer Genehmigung wird eine Übersicht aller D
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/07-documents-tab.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request), um mehr über die Registerkarte "Dokumente" in einer Genehmigung zu erfahren
+Klicken Sie [hier](https://support.catenda.com/de/articles/12495130-documents-tab-in-an-approval-request), um mehr über die Registerkarte "Dokumente" in einer Genehmigung zu erfahren

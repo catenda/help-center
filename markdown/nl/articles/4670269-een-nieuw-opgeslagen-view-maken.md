@@ -1,12 +1,12 @@
 # Een nieuw opgeslagen view maken
 
-Nieuwe opgeslagen views kunnen worden gemaakt door op Nieuw opgeslagen view te klikken in de [bovenste knoppen](https://support.catenda.com/en/articles/4670281-bookmarks-page#h_e85b08bb62) op de [pagina met opgeslagen views](https://support.catenda.com/en/articles/4670281-bookmarks-page) of op de pagina van een specifiek opgeslagen view.
+Nieuwe opgeslagen views kunnen worden gemaakt door op Nieuw opgeslagen view te klikken in de [bovenste knoppen](https://support.catenda.com/nl/articles/4670281-bookmarks-page#h_e85b08bb62) op de [pagina met opgeslagen views](https://support.catenda.com/nl/articles/4670281-bookmarks-page) of op de pagina van een specifiek opgeslagen view.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ba5nvq9c/01-intro.png)
 
 ## 1. Nieuw opgeslagen view
 
-Open de 3D-viewer in het navigatiemenu. Klik op de knop [nieuw opgeslagen view](https://support.catenda.com/en/articles/4670281-bookmarks-page#h_e85b08bb62) in de rechterbovenhoek van de [pagina met opgeslagen views](https://support.catenda.com/en/articles/4670281-bookmarks-page). Navigeer in het model totdat u de schermweergave hebt die u wilt vastleggen en klik op Snapshot maken wanneer u klaar bent.
+Open de 3D-viewer in het navigatiemenu. Klik op de knop [nieuw opgeslagen view](https://support.catenda.com/nl/articles/4670281-bookmarks-page#h_e85b08bb62) in de rechterbovenhoek van de [pagina met opgeslagen views](https://support.catenda.com/nl/articles/4670281-bookmarks-page). Navigeer in het model totdat u de schermweergave hebt die u wilt vastleggen en klik op Snapshot maken wanneer u klaar bent.
 
 > **Opmerking:** Het is niet mogelijk om een opgeslagen view met een zoekopdracht te maken, maar u kunt wel een snapshot in een issue met een zoekopdracht maken.
 

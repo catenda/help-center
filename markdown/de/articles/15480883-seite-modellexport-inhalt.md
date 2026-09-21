@@ -1,6 +1,6 @@
 # Seite Modellexport-Inhalt
 
-Klicken Sie auf die Karte eines Exports in der Exportliste auf der [Seite Modellexporte](https://support.catenda.com/en/articles/4670280-model-export), um zur Inhaltsseite für diesen Export zu gelangen. So kann die Seite zum Modellexport-Inhalt aussehen:
+Klicken Sie auf die Karte eines Exports in der Exportliste auf der [Seite Modellexporte](https://support.catenda.com/de/articles/4670280-model-export), um zur Inhaltsseite für diesen Export zu gelangen. So kann die Seite zum Modellexport-Inhalt aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3ajw00qp/01-intro.png)
 

@@ -12,11 +12,11 @@ Das aktuelle Geschoss wird immer angezeigt
 
 ### 1.2 **Entsperrt**
 
-Das aktuelle Geschoss ist das Geschoss, das der Kamerahöhe am nächsten kommt. Dies ist besonders nützlich im [Gehenmodus](https://support.catenda.com/en/articles/5784718-3d-viewer-settings), wo das Geschoss wechselt, wenn Sie beispielsweise eine Treppe hinaufgehen.
+Das aktuelle Geschoss ist das Geschoss, das der Kamerahöhe am nächsten kommt. Dies ist besonders nützlich im [Gehenmodus](https://support.catenda.com/de/articles/5784718-3d-viewer-settings), wo das Geschoss wechselt, wenn Sie beispielsweise eine Treppe hinaufgehen.
 
 ## 2. **Gebäudemenü**
 
-Wenn ein Gebäude im [Geschosskonfigurator](https://support.catenda.com/en/articles/6921756-storey-configurator-page) konfiguriert wurde, können Sie das Gebäudemenü sehen. Das Gebäudemenü kann etwa so aussehen:
+Wenn ein Gebäude im [Geschosskonfigurator](https://support.catenda.com/de/articles/6921756-storey-configurator-page) konfiguriert wurde, können Sie das Gebäudemenü sehen. Das Gebäudemenü kann etwa so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xw6p1nhs/02-building-menu.png)
 

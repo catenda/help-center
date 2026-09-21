@@ -1,6 +1,6 @@
 # Filterung auf der Genehmigungsseite
 
-Das Filterfenster kann auf der Genehmigungsseite für Projekte geöffnet werden, bei denen gemeinsame Revisionen nach dem 2. Oktober 2025 aktiviert wurden, indem Sie auf die Filterschaltfläche links neben der Suchleiste auf der [Genehmigungsseite](https://support.catenda.com/en/articles/8349340-approvals-page) klicken. Bei Projekten, bei denen gemeinsame Revisionen vor dem 2. Oktober 2025 aktiviert wurden, wird stattdessen das alte Filterfenster der Genehmigungsseite angezeigt.
+Das Filterfenster kann auf der Genehmigungsseite für Projekte geöffnet werden, bei denen gemeinsame Revisionen nach dem 2. Oktober 2025 aktiviert wurden, indem Sie auf die Filterschaltfläche links neben der Suchleiste auf der [Genehmigungsseite](https://support.catenda.com/de/articles/8349340-approvals-page) klicken. Bei Projekten, bei denen gemeinsame Revisionen vor dem 2. Oktober 2025 aktiviert wurden, wird stattdessen das alte Filterfenster der Genehmigungsseite angezeigt.
 
 ## 1. **Filter**
 
@@ -12,11 +12,11 @@ Klicken Sie auf die Filterschaltfläche oben links, um ein Fenster auf der linke
 
 ### 1.1 **Aktuellen Filter speichern und teilen**
 
-Gehen Sie zur URL einer gefilterten Seite, um diese Seite mit angewendetem Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/en/articles/11401493-saving-a-filter-link), um mehr darüber zu erfahren, wie Sie Filter speichern und freigeben. Beachten Sie, dass im Gegensatz zu anderen Filtermenüs es auf der Genehmigungsseite nicht möglich ist, persönliche Filter oben im Filtermenü zu speichern.
+Gehen Sie zur URL einer gefilterten Seite, um diese Seite mit angewendetem Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/de/articles/11401493-saving-a-filter-link), um mehr darüber zu erfahren, wie Sie Filter speichern und freigeben. Beachten Sie, dass im Gegensatz zu anderen Filtermenüs es auf der Genehmigungsseite nicht möglich ist, persönliche Filter oben im Filtermenü zu speichern.
 
 ### 1.2 **Leere Filter ausblenden**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/8551755-saving-filters), um mehr über die Begrenzung der Filterergebnisse zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8551755-saving-filters), um mehr über die Begrenzung der Filterergebnisse zu erfahren.
 
 ### 1.3 **Status**
 

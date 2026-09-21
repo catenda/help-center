@@ -42,7 +42,7 @@ Quarantäne-Handling für infizierte Dateien in Projekten im Besitz der Organisa
 
 ### 3.3 **Modelle als Dokumente**
 
-Wenn diese Funktion aktiviert ist, haben alle neuen Projekte, die in der Organisation erstellt werden, die Funktion [Modelle als Dokumente](https://support.catenda.com/en/articles/8064548-models-as-documents) aktiviert.
+Wenn diese Funktion aktiviert ist, haben alle neuen Projekte, die in der Organisation erstellt werden, die Funktion [Modelle als Dokumente](https://support.catenda.com/de/articles/8064548-models-as-documents) aktiviert.
 
 > **Hinweis:** 24. November: Diese Funktion wird für alle neuen Organisationen aktiviert. Wir werden die alte Ansicht etwa ein Jahr lang unterstützen, bevor alle Projekte migriert werden.
 
@@ -92,10 +92,10 @@ Wenn das erledigt ist, muss Ihr Systemadministrator uns die App Federation Metad
 
 Mit dieser Option können Sie die öffentliche Sharing-Funktion für alle Projekte in Ihrer Organisation deaktivieren. Wenn diese Option aktiviert ist, ist es nicht mehr möglich:
 
-- [Öffentliche URLs für Lesezeichen aktivieren](https://support.catenda.com/en/articles/6423215-public-bookmarks-short-video).
-- [Öffentliche URLs für Dokumentsammlungen aktivieren](https://support.catenda.com/en/articles/6344318-collections-page#h_c1e1a2a402).
-- [Dokumentsammlungen per E-Mail teilen](https://support.catenda.com/en/articles/6344318-collections-page#h_c1e1a2a402).
+- [Öffentliche URLs für Lesezeichen aktivieren](https://support.catenda.com/de/articles/6423215-public-bookmarks-short-video).
+- [Öffentliche URLs für Dokumentsammlungen aktivieren](https://support.catenda.com/de/articles/6344318-collections-page#h_c1e1a2a402).
+- [Dokumentsammlungen per E-Mail teilen](https://support.catenda.com/de/articles/6344318-collections-page#h_c1e1a2a402).
 
 ## 6. **Domänen**
 
-Sie können anfordern, dass eine Domäne zu Ihrer Organisation hinzugefügt wird. Wenn eine Domäne bei Ihrer Organisation registriert wurde, wird die Option "Aus Domäne hinzufügen" auf der Benutzerseite Ihrer Organisation im [Organisations-Tool](http://hub.catenda.com/orgs) angezeigt. Dies ermöglicht es Ihnen, Benutzer aus Ihrer Organisation zu Ihren Projekten hinzuzufügen, ohne sie über [E-Mail-Einladungen](https://support.catenda.com/en/articles/4670319-how-can-i-invite-new-members-to-a-project) einladen zu müssen. Wenn Sie einen Benutzer aus Ihrer Organisation nicht finden, liegt dies höchstwahrscheinlich daran, dass diese Person noch kein Catenda-Konto erstellt hat und wir diese Person nicht in unserem System haben. Benutzer aus Ihrer Domäne, die noch keine Konten haben, müssen auf reguläre Weise [eingeladen](https://support.catenda.com/en/articles/4670319-how-can-i-invite-new-members-to-a-project) werden, damit sie dem Projekt beitreten und ein Konto erstellen können. Benutzer aus Domänen, die nicht hinzugefügt wurden, müssen immer noch mit der regulären [E-Mail-Einladung](https://support.catenda.com/en/articles/4670319-how-can-i-invite-new-members-to-a-project) eingeladen werden.
+Sie können anfordern, dass eine Domäne zu Ihrer Organisation hinzugefügt wird. Wenn eine Domäne bei Ihrer Organisation registriert wurde, wird die Option "Aus Domäne hinzufügen" auf der Benutzerseite Ihrer Organisation im [Organisations-Tool](http://hub.catenda.com/orgs) angezeigt. Dies ermöglicht es Ihnen, Benutzer aus Ihrer Organisation zu Ihren Projekten hinzuzufügen, ohne sie über [E-Mail-Einladungen](https://support.catenda.com/de/articles/4670319-how-can-i-invite-new-members-to-a-project) einladen zu müssen. Wenn Sie einen Benutzer aus Ihrer Organisation nicht finden, liegt dies höchstwahrscheinlich daran, dass diese Person noch kein Catenda-Konto erstellt hat und wir diese Person nicht in unserem System haben. Benutzer aus Ihrer Domäne, die noch keine Konten haben, müssen auf reguläre Weise [eingeladen](https://support.catenda.com/de/articles/4670319-how-can-i-invite-new-members-to-a-project) werden, damit sie dem Projekt beitreten und ein Konto erstellen können. Benutzer aus Domänen, die nicht hinzugefügt wurden, müssen immer noch mit der regulären [E-Mail-Einladung](https://support.catenda.com/de/articles/4670319-how-can-i-invite-new-members-to-a-project) eingeladen werden.

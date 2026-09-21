@@ -2,7 +2,7 @@
 
 > Toegangsniveaus voor topic boards
 
-U kunt de toegangscontrole van een topic board vinden door op [toegang bewerken](https://support.catenda.com/en/articles/4670277-issue-board-settings#h_82063f7a79) in het [toegangscontrolemenu](https://support.catenda.com/en/articles/4670277-issue-board-settings#h_7a3aca4c7d) op de [topic board-instellingenpagina](https://support.catenda.com/en/articles/4670277-issue-board-settings) te klikken. _Vereiste toegang:_ Volledige toegang tot de topic board
+U kunt de toegangscontrole van een topic board vinden door op [toegang bewerken](https://support.catenda.com/nl/articles/4670277-issue-board-settings#h_82063f7a79) in het [toegangscontrolemenu](https://support.catenda.com/nl/articles/4670277-issue-board-settings#h_7a3aca4c7d) op de [topic board-instellingenpagina](https://support.catenda.com/nl/articles/4670277-issue-board-settings) te klikken. _Vereiste toegang:_ Volledige toegang tot de topic board
 
 Het dialoogvenster voor het bewerken van toegangscontrole kan er ongeveer als volgt uitzien:
 

@@ -1,6 +1,6 @@
 # Dokumentmenü - Catenda Site
 
-Die Seite Dokumente finden Sie im [Menü](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) oder durch Tippen auf die Schaltfläche "Probleme" in der unteren Navigationsleiste. Hier können Sie Ihre Dokumente finden und [in der Vorschau anzeigen](https://support.catenda.com/en/articles/8975421-previewing-documents-on-catenda-site).
+Die Seite Dokumente finden Sie im [Menü](https://support.catenda.com/de/articles/7338516-navigation-menu-catenda-site) oder durch Tippen auf die Schaltfläche "Probleme" in der unteren Navigationsleiste. Hier können Sie Ihre Dokumente finden und [in der Vorschau anzeigen](https://support.catenda.com/de/articles/8975421-previewing-documents-on-catenda-site).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/01-intro.png)
 
@@ -16,7 +16,7 @@ Unter dem Namen des Projekts sehen Sie das Dokumentfiltermenü.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/03-document-filters.png)
 
-_Filter:_ Durch Klicken auf die Filterschaltfläche auf der rechten Seite können Sie [Ihre Dokumente nach Etiketten filtern](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site).
+_Filter:_ Durch Klicken auf die Filterschaltfläche auf der rechten Seite können Sie [Ihre Dokumente nach Etiketten filtern](https://support.catenda.com/de/articles/7854138-label-filter-catenda-site).
 
 _Suche:_ Mit der Suchschaltfläche können Sie in Dokumenten suchen.
 
@@ -40,4 +40,4 @@ Tippen Sie auf einen Ordner, um ihn zu öffnen. Nach dem Öffnen eines Ordners w
 
 ### 2.2 **Öffnen von Dokumenten**
 
-Tippen Sie auf ein Dokument, um es zu öffnen. Nach dem Laden eines Dokuments ist es für Sie verfügbar, auch wenn Sie offline sind, solange Sie sich in dem Ordner befinden, in dem sich das Dokument befindet. Lesen Sie [hier](https://support.catenda.com/en/articles/8975421-previewing-documents-on-catenda-site) für weitere Informationen zu Dokumenten auf Catenda Site
+Tippen Sie auf ein Dokument, um es zu öffnen. Nach dem Laden eines Dokuments ist es für Sie verfügbar, auch wenn Sie offline sind, solange Sie sich in dem Ordner befinden, in dem sich das Dokument befindet. Lesen Sie [hier](https://support.catenda.com/de/articles/8975421-previewing-documents-on-catenda-site) für weitere Informationen zu Dokumenten auf Catenda Site

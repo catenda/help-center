@@ -2,7 +2,7 @@
 
 > **Opmerking 1:** De pagina met rapporten is een opt-in-functie die kan worden aangevraagd voor lopende projecten. **Opmerking 2:** Nieuwe projecten die zijn gemaakt op basis van een sjabloonproject waar deze functie is ingeschakeld, hebben deze functie niet ingeschakeld.
 
-De pagina met rapportsjablonen vindt u als een subpagina van de [pagina met rapporten](https://support.catenda.com/en/articles/12303098-reports-page) in het linker navigatiemenu. Op de pagina met rapportsjablonen kunnen document- en onderwerpsjablonen die beschikbaar zijn voor het project, worden beheerd. _Vereiste toegang:_ Beheerder
+De pagina met rapportsjablonen vindt u als een subpagina van de [pagina met rapporten](https://support.catenda.com/nl/articles/12303098-reports-page) in het linker navigatiemenu. Op de pagina met rapportsjablonen kunnen document- en onderwerpsjablonen die beschikbaar zijn voor het project, worden beheerd. _Vereiste toegang:_ Beheerder
 
 Dit is hoe de pagina met rapportsjablonen er ongeveer uit kan zien:
 
@@ -36,7 +36,7 @@ Zodra een rapportsjabloon is gemaakt, verschijnt deze als een rij in de tabel me
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/04-report-templates-table.png)
 
-Klik [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) voor meer informatie over het werken met tabellen in Catenda.
+Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) voor meer informatie over het werken met tabellen in Catenda.
 
 ### 3.1 **Rijinhoud**
 

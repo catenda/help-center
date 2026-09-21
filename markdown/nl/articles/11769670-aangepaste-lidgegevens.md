@@ -2,7 +2,7 @@
 
 ## 1. **Meer lidgegevens opslaan**
 
-Als u meer lidgegevens wilt opslaan dan beschikbaar op de ledenpagina, wordt aanbevolen om een topic board te maken met [aangepaste velden](https://support.catenda.com/en/articles/8445588-custom-field-page) voor de verschillende kolommen die u wilt en vervolgens één topic per gebruiker te maken. Dit is hoe zo'n topic board er kan uitzien:
+Als u meer lidgegevens wilt opslaan dan beschikbaar op de ledenpagina, wordt aanbevolen om een topic board te maken met [aangepaste velden](https://support.catenda.com/nl/articles/8445588-custom-field-page) voor de verschillende kolommen die u wilt en vervolgens één topic per gebruiker te maken. Dit is hoe zo'n topic board er kan uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s4p1rv5j/01-saving-more-member-data.png)
 
@@ -14,7 +14,7 @@ De enige manier om lidgegevens op dit moment te exporteren, is door deze te kopi
 
 ### 2.1 **Alle e-mailadressen van leden ophalen**
 
-Er is een handige truc die u kunt gebruiken om gemakkelijk alle e-mailadressen van gebruikers te kopiëren. Volg deze stappen: 1\. Klik op de [sharelink](https://support.catenda.com/en/articles/4728886-sharelink-notify-people-about-catenda-hub-content)-knop rechtsboven naast uw profielfoto. 2\. Klik in het vak voor ontvangers en selecteer "Alle gebruikers" (of een specifieke gebruiker of team wiens e-mailadressen u wilt kopiëren)
+Er is een handige truc die u kunt gebruiken om gemakkelijk alle e-mailadressen van gebruikers te kopiëren. Volg deze stappen: 1\. Klik op de [sharelink](https://support.catenda.com/nl/articles/4728886-sharelink-notify-people-about-catenda-hub-content)-knop rechtsboven naast uw profielfoto. 2\. Klik in het vak voor ontvangers en selecteer "Alle gebruikers" (of een specifieke gebruiker of team wiens e-mailadressen u wilt kopiëren)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s4p1rv5j/02-get-all-members-emails.png)
 

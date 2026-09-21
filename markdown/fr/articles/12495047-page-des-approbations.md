@@ -1,6 +1,6 @@
 # Page des approbations
 
-La page des approbations se trouve en tant que sous-page de la [page documents](https://support.catenda.com/en/articles/8204673-documents-page) dans le menu de navigation de gauche. Vous y trouverez un aperçu des demandes d'approbation du projet.
+La page des approbations se trouve en tant que sous-page de la [page documents](https://support.catenda.com/fr/articles/8204673-documents-page) dans le menu de navigation de gauche. Vous y trouverez un aperçu des demandes d'approbation du projet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
@@ -14,9 +14,9 @@ Sur la page des approbations, il est possible de :
 
 ## 1. **Activation de la page des approbations**
 
-La page des approbations est masquée par défaut. Activez les révisions partagées dans les [paramètres de document](https://support.catenda.com/en/articles/7831371-document-settings-page) pour afficher la page des approbations. _Accès requis :_ Administrateur de projet
+La page des approbations est masquée par défaut. Activez les révisions partagées dans les [paramètres de document](https://support.catenda.com/fr/articles/7831371-document-settings-page) pour afficher la page des approbations. _Accès requis :_ Administrateur de projet
 
-> **Remarque :** Dans les projets où les révisions partagées ont été activées avant le 2 octobre 2025, la [page des approbations héritée](https://support.catenda.com/en/articles/8349340-approvals-page-legacy) s'affiche à la place.
+> **Remarque :** Dans les projets où les révisions partagées ont été activées avant le 2 octobre 2025, la [page des approbations héritée](https://support.catenda.com/fr/articles/8349340-approvals-page-legacy) s'affiche à la place.
 
 ### 1.1 **Activation à partir d'un projet modèle**
 
@@ -30,7 +30,7 @@ Les nouvelles actions d'élément se trouvent en haut à droite de la page.
 
 ### 2.1 **Nouvelle demande d'approbation**
 
-Cliquez [ici](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request) pour en savoir plus sur la création d'une nouvelle demande d'approbation.
+Cliquez [ici](https://support.catenda.com/fr/articles/12495005-creating-a-new-approval-request) pour en savoir plus sur la création d'une nouvelle demande d'approbation.
 
 **Accès requis :** Un membre doit être partie d'une équipe de soumission dans un flux de travail configuré pour pouvoir soumettre une nouvelle demande d'approbation.
 
@@ -38,7 +38,7 @@ Cliquez [ici](https://support.catenda.com/en/articles/12495005-creating-a-new-ap
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page) pour en savoir plus sur le filtrage sur la page des approbations.
+Cliquez [ici](https://support.catenda.com/fr/articles/12495060-filtering-on-the-approvals-page) pour en savoir plus sur le filtrage sur la page des approbations.
 
 ## 4. **Liste des approbations**
 
@@ -98,11 +98,11 @@ La recherche textuelle vous permet de rechercher par nom de révision et nom de 
 
 ### 6.1 **Ligne d'approbation ouverte ou fermée**
 
-L'ouverture du contenu d'une ligne de demande d'approbation en cours d'examen ou fermée ouvre la [page d'approbation](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page) pour cette approbation.
+L'ouverture du contenu d'une ligne de demande d'approbation en cours d'examen ou fermée ouvre la [page d'approbation](https://support.catenda.com/fr/articles/12494960-open-or-closed-approval-request-page) pour cette approbation.
 
 ### 6.2 **Ligne de demande d'approbation au brouillon**
 
-Pour les approbations au brouillon, la [page de demande d'approbation au brouillon](https://support.catenda.com/en/articles/12495175-draft-approval-request-page) s'ouvrira à la place.
+Pour les approbations au brouillon, la [page de demande d'approbation au brouillon](https://support.catenda.com/fr/articles/12495175-draft-approval-request-page) s'ouvrira à la place.
 
 ## 7. **Cartes de demande d'approbation**
 

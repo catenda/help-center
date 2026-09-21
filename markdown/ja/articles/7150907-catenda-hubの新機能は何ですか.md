@@ -14,7 +14,7 @@
 
 ## 2. **IFC 4.3のサポート**
 
-Catenda Hubは現在IFC 4.3ファイルのインポートと表示が可能であり、ユーザーはすでにこの形式に関連する新しい機能から利益を得ることができます。この詳細をカバーしている当社の記事を参照してください: [LINK](https://intercom.help/bimsync-arena/en/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c)
+Catenda Hubは現在IFC 4.3ファイルのインポートと表示が可能であり、ユーザーはすでにこの形式に関連する新しい機能から利益を得ることができます。この詳細をカバーしている当社の記事を参照してください: [LINK](https://intercom.help/bimsync-arena/ja/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c)
 
 ## 3. **組織: ユーザーとプロジェクト管理 - ポートフォリオツールセット**
 
@@ -26,7 +26,7 @@ Catenda Hubの[組織](http://bimsync.com/orgs)セクションでは、プロジ
 
 ## 4. **新しいトピックテーブルビュー**
 
-イシューの[テーブルビュー](https://support.catenda.com/en/articles/6941099-table-view-in-an-issue-board)を更新しました。ユーザーはより多くのコンポーネントをニーズに合わせて調整でき、リストから選択するときにイシュープレビューからも利益を得ることができます。
+イシューの[テーブルビュー](https://support.catenda.com/ja/articles/6941099-table-view-in-an-issue-board)を更新しました。ユーザーはより多くのコンポーネントをニーズに合わせて調整でき、リストから選択するときにイシュープレビューからも利益を得ることができます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jah4q53q/04-new-topics-table-view.png)
 
@@ -42,4 +42,4 @@ Catenda Hubに新しいドキュメントをアップロードする際、シス
 
 ## 6. **命名規則**
 
-ドキュメントセクションの下に表示される新しい機能「[命名規則](https://support.catenda.com/en/articles/7832559-naming-convention)」が見つかります。これは進行中の作業であり、2023年第4四半期の新機能として配信される予定です。デモおよび試用版を取得するために、Catenda Hubのチャットボタンを使用して当社にお問い合わせください。
+ドキュメントセクションの下に表示される新しい機能「[命名規則](https://support.catenda.com/ja/articles/7832559-naming-convention)」が見つかります。これは進行中の作業であり、2023年第4四半期の新機能として配信される予定です。デモおよび試用版を取得するために、Catenda Hubのチャットボタンを使用して当社にお問い合わせください。

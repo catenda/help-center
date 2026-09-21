@@ -1,6 +1,6 @@
 # Erstellen eines neuen Modellexports
 
-Klicken Sie auf die grüne Schaltfläche mit dem Pluszeichen oben rechts auf der [Modellexport-Seite](https://support.catenda.com/en/articles/4670280-model-export), um einen neuen Modellexport zu erstellen. Es gibt vier Schritte zum Erstellen eines neuen Modellexports. So kann der erste Schritt im Modellexporterstellungsprozess aussehen:
+Klicken Sie auf die grüne Schaltfläche mit dem Pluszeichen oben rechts auf der [Modellexport-Seite](https://support.catenda.com/de/articles/4670280-model-export), um einen neuen Modellexport zu erstellen. Es gibt vier Schritte zum Erstellen eines neuen Modellexports. So kann der erste Schritt im Modellexporterstellungsprozess aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y8fzd5y5/01-intro.png)
 

@@ -1,6 +1,6 @@
 # Genehmigung offen, veröffentlicht oder verworfen - Veraltet
 
-Klicken Sie auf eine Genehmigung auf der [Genehmigungsseite](https://support.catenda.com/en/articles/8349340-approvals-page#h_f6b835862b), um die Genehmigungsseite der Genehmigung zu öffnen.
+Klicken Sie auf eine Genehmigung auf der [Genehmigungsseite](https://support.catenda.com/de/articles/8349340-approvals-page#h_f6b835862b), um die Genehmigungsseite der Genehmigung zu öffnen.
 
 So kann die Genehmigungsseite aussehen:
 
@@ -18,7 +18,7 @@ Klicken Sie hier, um mehr über die Genehmigungseinstellungen zu erfahren.
 
 ## 2. **Genehmigungsnavigation**
 
-_Zurück zu Genehmigungen-Taste_ - Zurück zur [Genehmigungsseite](https://support.catenda.com/en/articles/8349340-approvals-page). _Oberster Fortschrittsbalken_ - Zeigt die Genehmigungen an, zu denen Sie navigieren können
+_Zurück zu Genehmigungen-Taste_ - Zurück zur [Genehmigungsseite](https://support.catenda.com/de/articles/8349340-approvals-page). _Oberster Fortschrittsbalken_ - Zeigt die Genehmigungen an, zu denen Sie navigieren können
 
 > **Hinweis:** Sie können nur zu so vielen Genehmigungen navigieren, wie Sie auf der Genehmigungsseite geladen haben. Sie können bis zu 100 Genehmigungen auf einmal laden, indem Sie in der Genehmigungslisten-Ansicht nach unten scrollen. Es sei denn, Sie scrollen ganz nach unten auf der Genehmigungsseite oder es gibt weniger als 100 Probleme im Board. Diese Gesamtzahl ist daher nicht aussagekräftig für die Gesamtzahl der Genehmigungen auf der Genehmigungsseite.
 
@@ -78,7 +78,7 @@ Wenn ein Dokument als mit einem Virus infiziert befunden wird, wird es aus der G
 
 ### 5.1 **Beschreibung**
 
-Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln von Beiträgen](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln von Beiträgen](https://support.catenda.com/de/articles/8430847-formatting-of-posts).
 
 ### 5.2 **Aktionen in der Entwurfsgenehmigungstabelle**
 
@@ -106,7 +106,7 @@ _Status_ - Der Entwurfsstatus des Entwurfs
 
 **Dateireviewstatus** Der Dateireviewstatus ist entweder Genehmigung ausstehend, Mit Kommentar genehmigt, Genehmigt oder Abgelehnt
 
-Kommentar Wenn es einen Kommentar in der Genehmigung gibt, wird eine Vorschau des letzten Kommentars neben dem Dateireviewstatus angezeigt. Genehmigungskommentare folgen den [allgemeinen Formatierungsregeln von Beiträgen](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+Kommentar Wenn es einen Kommentar in der Genehmigung gibt, wird eine Vorschau des letzten Kommentars neben dem Dateireviewstatus angezeigt. Genehmigungskommentare folgen den [allgemeinen Formatierungsregeln von Beiträgen](https://support.catenda.com/de/articles/8430847-formatting-of-posts).
 
 **Aktionsmenü** Überprüfung hinzufügen Wenn keine Reviewer festgelegt sind, kann jeder eine Überprüfung hinzufügen. Wenn es Reviewer in der Genehmigungskopfzeile gibt, können nur Reviewer eine Überprüfung hinzufügen. Durch das Hinzufügen einer Überprüfung können Sie jeden Entwurf kommentieren, genehmigen, mit Kommentar genehmigen oder ablehnen.
 

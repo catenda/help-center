@@ -1,6 +1,6 @@
 # Page des paramètres d'approbation - Héritage
 
-La page des paramètres d'approbation se trouve en cliquant sur l'action des paramètres d'approbation dans le menu d'action à droite du bouton plus vert sur la [page des approbations](https://support.catenda.com/en/articles/8349340-approvals-page). _Accès requis_ : Administrateur
+La page des paramètres d'approbation se trouve en cliquant sur l'action des paramètres d'approbation dans le menu d'action à droite du bouton plus vert sur la [page des approbations](https://support.catenda.com/fr/articles/8349340-approvals-page). _Accès requis_ : Administrateur
 
 Voici à quoi peut ressembler la bannière sur la page des paramètres d'approbation :
 
@@ -12,7 +12,7 @@ Les actions de la page des paramètres d'approbation se trouvent en cliquant sur
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/eekvwhj0/02-actions-on-the-approvals-settings-page.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/12367730-topic-templates-page) pour en savoir plus sur la page des modèles de sujet.
+Cliquez [ici](https://support.catenda.com/fr/articles/12367730-topic-templates-page) pour en savoir plus sur la page des modèles de sujet.
 
 ## 2. **Options de publication**
 
@@ -39,7 +39,7 @@ Cliquez sur la liste déroulante du statut du document pour sélectionner un sta
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/eekvwhj0/05-document-status.png)
 
-Pour modifier les statuts du projet, accédez au menu du flux de statut de la [page des paramètres du document](https://support.catenda.com/en/articles/7831371-document-settings-page).
+Pour modifier les statuts du projet, accédez au menu du flux de statut de la [page des paramètres du document](https://support.catenda.com/fr/articles/7831371-document-settings-page).
 
 ### 2.3 **Modèle de sujet**
 
@@ -49,7 +49,7 @@ Lorsqu'un modèle de sujet est configuré, un sujet peut être créé pour chaqu
 
 **Ne pas créer de sujets / Ne pas enregistrer les balisages** Par défaut, le paramètre est défini pour ne pas créer de sujets, ce qui peut être remis à la valeur par défaut en sélectionnant ne pas enregistrer les balisages dans la liste déroulante.
 
-**Créer un nouveau modèle de sujet** Cliquez [ici](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template) pour en savoir plus sur la création d'un modèle de sujet.
+**Créer un nouveau modèle de sujet** Cliquez [ici](https://support.catenda.com/fr/articles/12372007-creating-a-new-topic-template) pour en savoir plus sur la création d'un modèle de sujet.
 
 **Aperçu du sujet** Si un modèle de sujet est sélectionné, cliquez sur l'œil à côté du modèle pour voir le contenu de ce modèle de sujet.
 

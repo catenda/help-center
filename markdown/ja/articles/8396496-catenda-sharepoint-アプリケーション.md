@@ -1,14 +1,14 @@
 # Catenda SharePoint アプリケーション
 
-> **注:** プラグインのインストール ファイルは[この記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
+> **注:** プラグインのインストール ファイルは[この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-plugins-and-integrations)にあります。
 
-Catenda SharePoint アプリケーションが SharePoint サイトに追加されると、SharePoint から Catenda にファイルを公開でき、Catenda ドキュメント構造を SharePoint で表示できます。設定すると、アプリケーションは次のようになります: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/>この記事には、このアプリケーションがどのように機能するかについての情報が含まれていますこのアプリケーションが有用な方法の詳細については、[こちら](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq)を参照してください。SharePoint アプリケーションをサイトに追加する方法については、[こちら](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app)を参照してください。
+Catenda SharePoint アプリケーションが SharePoint サイトに追加されると、SharePoint から Catenda にファイルを公開でき、Catenda ドキュメント構造を SharePoint で表示できます。設定すると、アプリケーションは次のようになります: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/>この記事には、このアプリケーションがどのように機能するかについての情報が含まれていますこのアプリケーションが有用な方法の詳細については、[こちら](https://support.catenda.com/ja/articles/9419678-catenda-sharepoint-faq)を参照してください。SharePoint アプリケーションをサイトに追加する方法については、[こちら](https://support.catenda.com/ja/articles/9453368-adding-and-removing-the-catendasp-app)を参照してください。
 
 ## 1. **リストコマンドを使用したCatendaへの公開**
 
 リストコマンドを使用すると、1つ以上のファイルをCatendaに公開できます。
 
-> **注:** ファイルのみ公開可能です。フォルダ構造はSharePointからダウンロードして、[zip アップロード](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)または[Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)経由でCatendaにアップロードできます。
+> **注:** ファイルのみ公開可能です。フォルダ構造はSharePointからダウンロードして、[zip アップロード](https://support.catenda.com/ja/articles/7945410-upload-a-zip-file-structure)または[Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)経由でCatendaにアップロードできます。
 
 ### 1.1 **リストコマンドの検索**
 
@@ -50,7 +50,7 @@ SharePointのフォルダ構造のビューはCatendaのビューと一致して
 
 ## 2. **Catenda Webpart**
 
-このアプリケーションでは、[Catenda webpart](https://support.catenda.com/en/articles/10538168-catenda-sharepoint-application-webpart)をサイトのページに追加します。ユーザーが読み取りアクセス権を持つ領域をCatendaプロジェクトのドキュメント セクションで閲覧できるようにすることができます。ドキュメント構造の任意の部分に対して書き込みアクセス権を持つ場合、ユーザーはそこにファイルをアップロードできます。
+このアプリケーションでは、[Catenda webpart](https://support.catenda.com/ja/articles/10538168-catenda-sharepoint-application-webpart)をサイトのページに追加します。ユーザーが読み取りアクセス権を持つ領域をCatendaプロジェクトのドキュメント セクションで閲覧できるようにすることができます。ドキュメント構造の任意の部分に対して書き込みアクセス権を持つ場合、ユーザーはそこにファイルをアップロードできます。
 
 構成されたWebpartの例を次に示します：
 
@@ -70,8 +70,8 @@ _アクセス必須:_ アプリケーションをインストールするとき�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/09-authorizing-your-catenda-account.png)
 
-アプリケーションにアカウントへのアクセスを許可することで、[ドキュメント セクション](https://support.catenda.com/en/articles/8204673-documents-page)で書き込みアクセス権を持つCatendaプロジェクト（複数の場合もあります）の任意の部分にSharePointからドキュメントを公開できるようになります。Webpartがサイトのページに追加されている場合は、Webpartを追加した人によって構成されたCatendaプロジェクトで読み取りアクセス権を持つすべてのドキュメントを表示できます。Webpartを使用すると、[ドキュメント セクション](https://support.catenda.com/en/articles/8204673-documents-page)で書き込みアクセス権を持つ構成されたCatendaプロジェクトの任意の部分にシステムからドキュメントを公開できます。
+アプリケーションにアカウントへのアクセスを許可することで、[ドキュメント セクション](https://support.catenda.com/ja/articles/8204673-documents-page)で書き込みアクセス権を持つCatendaプロジェクト（複数の場合もあります）の任意の部分にSharePointからドキュメントを公開できるようになります。Webpartがサイトのページに追加されている場合は、Webpartを追加した人によって構成されたCatendaプロジェクトで読み取りアクセス権を持つすべてのドキュメントを表示できます。Webpartを使用すると、[ドキュメント セクション](https://support.catenda.com/ja/articles/8204673-documents-page)で書き込みアクセス権を持つ構成されたCatendaプロジェクトの任意の部分にシステムからドキュメントを公開できます。
 
 > **注:** CatendaはSharePointドキュメントにアクセスできません。ドキュメントをCatendaに公開する場合、Catendaはそれを一方通行のトランザクションで受け取ります。
 
-アプリケーションにCatendaアカウントへのアクセスを許可したくない場合は、Catendaアカウントの[アプリケーション ページ](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a)でいつでもアクセスを取り消すことができます。
+アプリケーションにCatendaアカウントへのアクセスを許可したくない場合は、Catendaアカウントの[アプリケーション ページ](https://support.catenda.com/ja/articles/6880968-account-page#h_40e031c49a)でいつでもアクセスを取り消すことができます。

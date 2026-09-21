@@ -1,8 +1,8 @@
 # Houd aantekeningen met markeringen bij
 
-De nieuwe functie Markering stelt u in staat aantekeningen opnieuw te groeperen die op verschillende pagina's van een document en over meerdere revisies heen kunnen worden geplaatst. Sets aantekeningen vindt u terug als [opmerkingen over topics](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_f76b44d3ca). In het [tabblad Markeringen](https://support.catenda.com/en/articles/10205725-right-menu-of-a-revision-markups) van het rechtermenu van een document vindt u de sets aantekeningen die in een markering zijn gegroepeerd. Wanneer geactiveerd, kunnen de aantekeningen in een markering [in voorbeeld worden bekeken op een document](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
+De nieuwe functie Markering stelt u in staat aantekeningen opnieuw te groeperen die op verschillende pagina's van een document en over meerdere revisies heen kunnen worden geplaatst. Sets aantekeningen vindt u terug als [opmerkingen over topics](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic#h_f76b44d3ca). In het [tabblad Markeringen](https://support.catenda.com/nl/articles/10205725-right-menu-of-a-revision-markups) van het rechtermenu van een document vindt u de sets aantekeningen die in een markering zijn gegroepeerd. Wanneer geactiveerd, kunnen de aantekeningen in een markering [in voorbeeld worden bekeken op een document](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations).
 
-Het onderstaande diagram illustreert hoe aantekeningen onder verschillende markeringen zijn gegroepeerd, die vervolgens [als opmerking kunnen worden opgeslagen](https://support.catenda.com/en/articles/10209740-saving-a-markup) onder nieuwe of bestaande topics.
+Het onderstaande diagram illustreert hoe aantekeningen onder verschillende markeringen zijn gegroepeerd, die vervolgens [als opmerking kunnen worden opgeslagen](https://support.catenda.com/nl/articles/10209740-saving-a-markup) onder nieuwe of bestaande topics.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/01-intro.png)
 
@@ -40,17 +40,17 @@ Dit kan goed zijn voor markeringen met algemene aantekeningen die allemaal door 
 
 ## 2. **Aantekeningen maken**
 
-Net als eerder kunt u aantekeningen maken door naar het document in de [documenttabel](https://support.catenda.com/en/articles/8204673-documents-page#h_54e8dfcac2) te navigeren en op de naam ervan te klikken om het [documentvoorbeeld](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) te zien. Hier kunt u een aantekeningsprogramma uit de werkbalk kiezen. Klik ergens in het document om de eerste aantekening te maken om uw markering te starten:
+Net als eerder kunt u aantekeningen maken door naar het document in de [documenttabel](https://support.catenda.com/nl/articles/8204673-documents-page#h_54e8dfcac2) te navigeren en op de naam ervan te klikken om het [documentvoorbeeld](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations) te zien. Hier kunt u een aantekeningsprogramma uit de werkbalk kiezen. Klik ergens in het document om de eerste aantekening te maken om uw markering te starten:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/04-creating-annotations.png)
 
 ## 3. **Tabblad Markeringen**
 
-Nadat u enkele aantekeningen hebt gemaakt, ziet u dat u [niet-opgeslagen markeringen](https://support.catenda.com/en/articles/10209740-saving-a-markup) in het [tabblad Markeringen van het rechterkantelpaneel](https://support.catenda.com/en/articles/10205725-right-menu-of-a-revision-markups) hebt.
+Nadat u enkele aantekeningen hebt gemaakt, ziet u dat u [niet-opgeslagen markeringen](https://support.catenda.com/nl/articles/10209740-saving-a-markup) in het [tabblad Markeringen van het rechterkantelpaneel](https://support.catenda.com/nl/articles/10205725-right-menu-of-a-revision-markups) hebt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/05-markups-tab.png)
 
-> **Opmerking:** Wanneer u een document voor het eerst opent, kan het rechtermenu gesloten zijn. U kunt op de informatieknop rechtonder op de [documentbanner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) klikken om dit menu uit te vouwen. <div> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/06-document-banner-information-button.png" width="400" > </div>
+> **Opmerking:** Wanneer u een document voor het eerst opent, kan het rechtermenu gesloten zijn. U kunt op de informatieknop rechtonder op de [documentbanner](https://support.catenda.com/nl/articles/8461918-document-banner-actions-navigation) klikken om dit menu uit te vouwen. <div> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/06-document-banner-information-button.png" width="400" > </div>
 
 ### 3.1 **Meerdere markeringen tegelijk**
 
@@ -60,19 +60,19 @@ Laten we zeggen dat deze markering naar de Architect was gericht, maar u wilt oo
 
 ## 4. **Markeringen opslaan**
 
-Nadat u klaar bent met het bewerken van uw markeringen, kunt u [deze opslaan](https://support.catenda.com/en/articles/10209740-saving-a-markup#h_8542b82cf8). Bij het opslaan wordt voor elke set aantekeningen op de pagina van een revisie een opmerking gemaakt
+Nadat u klaar bent met het bewerken van uw markeringen, kunt u [deze opslaan](https://support.catenda.com/nl/articles/10209740-saving-a-markup#h_8542b82cf8). Bij het opslaan wordt voor elke set aantekeningen op de pagina van een revisie een opmerking gemaakt
 
 De volgende topics zijn in dit gedeelte beschreven:
 
 ### 4.1 **Elke markering in een eigen topic opslaan**
 
-Als u op [Markeringen opslaan](https://support.catenda.com/en/articles/10209740-saving-a-markup#h_8542b82cf8) klikt, maakt u één topic voor elke markering.
+Als u op [Markeringen opslaan](https://support.catenda.com/nl/articles/10209740-saving-a-markup#h_8542b82cf8) klikt, maakt u één topic voor elke markering.
 
 Deze topics kunnen er ongeveer als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/08-save-each-markup-to-its-own-topic.png)
 
-Als er aantekeningen op meerdere pagina's in de documenten zijn, is er een [opmerking](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) met een schermafbeelding van de aantekening voor elke pagina die aantekeningen bevat.
+Als er aantekeningen op meerdere pagina's in de documenten zijn, is er een [opmerking](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) met een schermafbeelding van de aantekening voor elke pagina die aantekeningen bevat.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/09-save-each-markup-to-its-own-topic.png)
 
@@ -84,7 +84,7 @@ Als u liever alle markeringen in één topic hebt, kunt u een topic voorbereiden
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/10-br-save-all-markups-to-one-topic.png)
 
-Hier ziet u topics waar het document [is gekoppeld](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_b00b9c5150) en of er [opmerkingen](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) over deze revisie zijn. Als er aantekeningen op meerdere pagina's in de documenten zijn, is er een [opmerking](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) met een schermafbeelding van de aantekening voor elke pagina met aantekeningen in elke markering.
+Hier ziet u topics waar het document [is gekoppeld](https://support.catenda.com/nl/articles/8053299-right-menu-in-a-topic#h_b00b9c5150) en of er [opmerkingen](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) over deze revisie zijn. Als er aantekeningen op meerdere pagina's in de documenten zijn, is er een [opmerking](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) met een schermafbeelding van de aantekening voor elke pagina met aantekeningen in elke markering.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/11-br-save-all-markups-to-one-topic.png)
 

@@ -34,4 +34,4 @@ Vous pouvez maintenant saisir les champs dans vos prochains topics !
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tv2vef51/07-intro.gif)
 
-👉 **[Comment configurer les champs personnalisés](https://intercom.help/bimsync-arena/en/articles/6550459-setting-of-custom-fields)**
+👉 **[Comment configurer les champs personnalisés](https://intercom.help/bimsync-arena/fr/articles/6550459-setting-of-custom-fields)**

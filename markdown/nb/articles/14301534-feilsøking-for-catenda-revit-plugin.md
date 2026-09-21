@@ -38,7 +38,7 @@ Det er viktig å merke seg at [Revit LT ikke støtter tredjepartstillegg eller p
 
 ### 3.2 **Versjonkompatibilitet**
 
-For å sikre samsvar med de nyeste programvareoppdateringene og ytelsesforbedringer, oppdateres integrasjonene regelmessig. For en omfattende liste over støttede årsversjoner for både Revit-tillegget og Dynamo-pakken, bør det refereres til [Plugins and Integrations](https://support.catenda.com/en/articles/8396532-catenda-plugins-integrations)-artikkelen.
+For å sikre samsvar med de nyeste programvareoppdateringene og ytelsesforbedringer, oppdateres integrasjonene regelmessig. For en omfattende liste over støttede årsversjoner for både Revit-tillegget og Dynamo-pakken, bør det refereres til [Plugins and Integrations](https://support.catenda.com/nb/articles/8396532-catenda-plugins-integrations)-artikkelen.
 
 ## 4. Catenda Hub Dynamo-pakke
 

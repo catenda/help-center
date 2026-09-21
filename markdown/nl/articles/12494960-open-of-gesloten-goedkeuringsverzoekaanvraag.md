@@ -1,6 +1,6 @@
 # Open of gesloten goedkeuringsverzoekaanvraag
 
-Wanneer gedeelde revisies in een project zijn ingeschakeld, wordt de [goedkeuringspagina](https://support.catenda.com/en/articles/12495047-approvals-page) beschikbaar. Leden die onderdeel zijn van indienerteams voor goedkeuringswerkstromen in het project kunnen [een goedkeuringsverzoekaanvraag indienen](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request) namens een indienerteam. Zoek ingediende goedkeuringsverzoekaanvragen op de goedkeuringspagina of in het goedkeuringenmenu van het rechtermenu van een document. Dit is wat een goedkeuringspagina kan zien voor projecten die gedeelde revisies na 2 oktober 2025 hebben ingeschakeld:
+Wanneer gedeelde revisies in een project zijn ingeschakeld, wordt de [goedkeuringspagina](https://support.catenda.com/nl/articles/12495047-approvals-page) beschikbaar. Leden die onderdeel zijn van indienerteams voor goedkeuringswerkstromen in het project kunnen [een goedkeuringsverzoekaanvraag indienen](https://support.catenda.com/nl/articles/12495005-creating-a-new-approval-request) namens een indienerteam. Zoek ingediende goedkeuringsverzoekaanvragen op de goedkeuringspagina of in het goedkeuringenmenu van het rechtermenu van een document. Dit is wat een goedkeuringspagina kan zien voor projecten die gedeelde revisies na 2 oktober 2025 hebben ingeschakeld:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/01-intro.png)
 
@@ -18,7 +18,7 @@ Dit is hoe de acties op de goedkeuringspagina eruit kunnen zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/02-new-item-actions.png)
 
-Gebruik de actie voor een nieuw goedkeuringsverzoekaanvraag om een nieuw goedkeuringsverzoekaanvraag te maken. Klik [hier](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request) voor meer informatie over het maken van een nieuw goedkeuringsverzoekaanvraag.
+Gebruik de actie voor een nieuw goedkeuringsverzoekaanvraag om een nieuw goedkeuringsverzoekaanvraag te maken. Klik [hier](https://support.catenda.com/nl/articles/12495005-creating-a-new-approval-request) voor meer informatie over het maken van een nieuw goedkeuringsverzoekaanvraag.
 
 ## 2. **Goedkeuringskop**
 
@@ -40,7 +40,7 @@ De werkstroom die is geselecteerd tijdens het maken van deze goedkeuring _Vereis
 
 ### 2.3 **Beschrijving**
 
-De beschrijving van de goedkeuring. De beschrijving van de goedkeuring volgt de [algemene opmaakregels van berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts). _Vereiste toegang:_ De persoon die de goedkeuringsaanvraag heeft gemaakt, of een projectbeheerder.
+De beschrijving van de goedkeuring. De beschrijving van de goedkeuring volgt de [algemene opmaakregels van berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts). _Vereiste toegang:_ De persoon die de goedkeuringsaanvraag heeft gemaakt, of een projectbeheerder.
 
 ## 3. **Staplotlint**
 
@@ -52,7 +52,7 @@ Dit is hoe het staplotlint in een gesloten goedkeuringsverzoekaanvraag kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/05-step-ribbon.png)
 
-Klik [hier](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-approval-request) voor meer informatie over het staplotlint.
+Klik [hier](https://support.catenda.com/nl/articles/12495212-step-ribbon-in-an-approval-request) voor meer informatie over het staplotlint.
 
 ## 4. **Tabblad Overzicht**
 
@@ -60,7 +60,7 @@ In het tabblad overzicht is een stapweergave van elke stap beschikbaar in het go
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/06-overview-tab.png)
 
-Klik [hier](https://support.catenda.com/en/articles/12495126-overview-tab-in-an-approval-request) voor meer informatie over het tabblad overzicht in een goedkeuring.
+Klik [hier](https://support.catenda.com/nl/articles/12495126-overview-tab-in-an-approval-request) voor meer informatie over het tabblad overzicht in een goedkeuring.
 
 ## 5. **Tabblad Documenten**
 
@@ -68,4 +68,4 @@ In het tabblad Documenten van een goedkeuring wordt een overzicht weergegeven va
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/07-documents-tab.png)
 
-Klik [hier](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request) voor meer informatie over het tabblad Documenten in een goedkeuring
+Klik [hier](https://support.catenda.com/nl/articles/12495130-documents-tab-in-an-approval-request) voor meer informatie over het tabblad Documenten in een goedkeuring

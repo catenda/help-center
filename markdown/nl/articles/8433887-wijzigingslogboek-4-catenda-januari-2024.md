@@ -4,7 +4,7 @@
 
 Hallo iedereen,
 
-Het is alweer een paar maanden geleden sinds de vorige wijzigingslogboek. Hopelijk hebben jullie allemaal een fijne wintervakantie gehad! 🎄🤶🧑‍🎄❄️ En welkom in 2024!🎇 Hopelijk kunnen we dit jaar ook veel wijzigingen en verbeteringen doorvoeren! In dit artikel vind je updates over het volgende: [Artikelen](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [topics opgelost](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [Nieuwe releases](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)
+Het is alweer een paar maanden geleden sinds de vorige wijzigingslogboek. Hopelijk hebben jullie allemaal een fijne wintervakantie gehad! 🎄🤶🧑‍🎄❄️ En welkom in 2024!🎇 Hopelijk kunnen we dit jaar ook veel wijzigingen en verbeteringen doorvoeren! In dit artikel vind je updates over het volgende: [Artikelen](https://support.catenda.com/nl/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [topics opgelost](https://support.catenda.com/nl/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [Nieuwe releases](https://support.catenda.com/nl/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)
 
 ## 1. **Artikelen**
 
@@ -12,31 +12,31 @@ Wanneer nieuwe functies worden uitgebracht en fouten worden opgelost, worden art
 
 ### 1.1 **Nieuwe artikelen:**
 
-**Aan de slag en FAQ** [Sorteervolgordevan lijsten](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) [Documenten structureren](https://support.catenda.com/en/articles/8542598-structuring-documents)
+**Aan de slag en FAQ** [Sorteervolgordevan lijsten](https://support.catenda.com/nl/articles/8487788-sorting-order-of-lists) [Documenten structureren](https://support.catenda.com/nl/articles/8542598-structuring-documents)
 
-**Startpagina** [Organisatiepagina](https://support.catenda.com/en/articles/8281910-organizations-page)
+**Startpagina** [Organisatiepagina](https://support.catenda.com/nl/articles/8281910-organizations-page)
 
-**Topics** [Topic geschiedenis](https://support.catenda.com/en/articles/8613038-issue-history)
+**Topics** [Topic geschiedenis](https://support.catenda.com/nl/articles/8613038-issue-history)
 
-**Documenten** [Documenten](https://support.catenda.com/en/articles/8461918-documents) [PDF-vergelijking](https://support.catenda.com/en/articles/8461650-pdf-compare) [Filteren op de goedkeuringspagina](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+**Documenten** [Documenten](https://support.catenda.com/nl/articles/8461918-documents) [PDF-vergelijking](https://support.catenda.com/nl/articles/8461650-pdf-compare) [Filteren op de goedkeuringspagina](https://support.catenda.com/nl/articles/8551740-filtering-on-the-approvals-page)
 
-**Modellen en 3D** [Opgeslagen view](https://support.catenda.com/en/articles/8471481-bookmark)
+**Modellen en 3D** [Opgeslagen view](https://support.catenda.com/nl/articles/8471481-bookmark)
 
-**Projectinstellingen** [Een aangepast veld maken](https://support.catenda.com/en/articles/8445575-creating-a-custom-field) [Pagina aangepast veld](https://support.catenda.com/en/articles/8445588-custom-field-page)
+**Projectinstellingen** [Een aangepast veld maken](https://support.catenda.com/nl/articles/8445575-creating-a-custom-field) [Pagina aangepast veld](https://support.catenda.com/nl/articles/8445588-custom-field-page)
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
-Aan de slag en FAQ [Filters opslaan](https://support.catenda.com/en/articles/8551755-saving-filters)
+Aan de slag en FAQ [Filters opslaan](https://support.catenda.com/nl/articles/8551755-saving-filters)
 
-Topics [Topic-borden ACL](https://support.catenda.com/en/articles/4670296-issue-boards-acl)
+Topics [Topic-borden ACL](https://support.catenda.com/nl/articles/4670296-issue-boards-acl)
 
-Documenten [Documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page) [Modellen als documenten](https://support.catenda.com/en/articles/8064548-models-as-documents) [Filteren op de documentenpagina](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
+Documenten [Documentenpagina](https://support.catenda.com/nl/articles/8204673-documents-page) [Modellen als documenten](https://support.catenda.com/nl/articles/8064548-models-as-documents) [Filteren op de documentenpagina](https://support.catenda.com/nl/articles/4670283-filtering-on-the-documents-page)
 
-Modellen [Pagina opgeslagen views](https://support.catenda.com/en/articles/4670281-bookmarks-page) [Een nieuw opgeslagen view maken](https://support.catenda.com/en/articles/4670269-creating-a-new-bookmark) [Modellen als documenten](https://support.catenda.com/en/articles/8064548-models-as-documents)
+Modellen [Pagina opgeslagen views](https://support.catenda.com/nl/articles/4670281-bookmarks-page) [Een nieuw opgeslagen view maken](https://support.catenda.com/nl/articles/4670269-creating-a-new-bookmark) [Modellen als documenten](https://support.catenda.com/nl/articles/8064548-models-as-documents)
 
 Bibliotheek <a class="intercom-content-link" href="" target="_blank">Koppelingen bibliotheek</a>
 
-Instellingen [Ledenpagina](https://support.catenda.com/en/articles/4670291-members-page)
+Instellingen [Ledenpagina](https://support.catenda.com/nl/articles/4670291-members-page)
 
 ## 2. **Fouten opgelost**
 

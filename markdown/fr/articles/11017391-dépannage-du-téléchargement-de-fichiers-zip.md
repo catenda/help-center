@@ -46,7 +46,7 @@ OneDrive et SharePoint 400 unités de code Unicode
 
 **Fichiers ZIP plus petits** Si le fichier ZIP se compose de plusieurs fichiers, le fichier ZIP peut être divisé en fichiers ZIP plus petits. Chaque fichier ZIP séparé peut être téléchargé individuellement, mais il y aura toujours un risque d'erreur réseau ou de connexion.
 
-**Fichiers individuels** Le [connecteur de bureau Catenda](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) est un moyen plus sûr de télécharger car il télécharge des documents fichier par fichier. C'est aussi plus rapide car les fichiers sont téléchargés directement sur notre backend plutôt que par l'interface du navigateur. Même si l'un des fichiers échoue, ceux téléchargés jusqu'à présent apparaîtront déjà sur Catenda. Le reste des fichiers continuera à se télécharger la prochaine fois que la tâche de téléchargement s'exécutera.
+**Fichiers individuels** Le [connecteur de bureau Catenda](https://support.catenda.com/fr/articles/8358861-catenda-desktop-connector) est un moyen plus sûr de télécharger car il télécharge des documents fichier par fichier. C'est aussi plus rapide car les fichiers sont téléchargés directement sur notre backend plutôt que par l'interface du navigateur. Même si l'un des fichiers échoue, ceux téléchargés jusqu'à présent apparaîtront déjà sur Catenda. Le reste des fichiers continuera à se télécharger la prochaine fois que la tâche de téléchargement s'exécutera.
 
 ## 2. **Téléchargements ZIP avec caractères spéciaux**
 

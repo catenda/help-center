@@ -1,6 +1,6 @@
 # Statistiekenpagina
 
-De statistiekenpagina is te vinden als een subpagina van de [onderwerpen pagina](https://support.catenda.com/en/articles/4670271-issues-page).
+De statistiekenpagina is te vinden als een subpagina van de [onderwerpen pagina](https://support.catenda.com/nl/articles/4670271-issues-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2s7g3kx3/01-intro.png)
 

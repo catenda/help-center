@@ -34,9 +34,9 @@ De informatie is gebruikt en kan worden gearchiveerd om indien nodig later besch
 
 Activering en configuratie van de gedeelde statusworkflow zijn voorbehouden aan projectbeheerders.
 
-_Vereiste toegang_ Documentstatusconfiguratie-toegang in het [toegangscontrolebereik](https://support.catenda.com/en/articles/4670273-project-settings-page#h_3b98ced32a) van de [projectinstellingenpagina](https://support.catenda.com/en/articles/4670273-project-settings-page). Leden met deze toegang hebben alleen toegang tot het statusconfiguratiemenu in documentinstellingen. Ze kunnen de andere menu's in documentinstellingen niet zien of wijzigen.
+_Vereiste toegang_ Documentstatusconfiguratie-toegang in het [toegangscontrolebereik](https://support.catenda.com/nl/articles/4670273-project-settings-page#h_3b98ced32a) van de [projectinstellingenpagina](https://support.catenda.com/nl/articles/4670273-project-settings-page). Leden met deze toegang hebben alleen toegang tot het statusconfiguratiemenu in documentinstellingen. Ze kunnen de andere menu's in documentinstellingen niet zien of wijzigen.
 
-Navigeer onder [documentinstellingen](https://support.catenda.com/en/articles/7831371-document-settings) naar [Statusworkflow](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) en schakel gedeelde statussen in
+Navigeer onder [documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings) naar [Statusworkflow](https://support.catenda.com/nl/articles/7831371-document-settings#h_e6f3ffdbff) en schakel gedeelde statussen in
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/03-configuring-status-workflow.png)
 
@@ -125,7 +125,7 @@ In de documentstructuur ziet u de nieuwste revisie waartoe u toegang hebt. Klik 
 
 ### 3.8 **Revisie-informatie**
 
-Selecteer een enkel document of open de documentvoorvertoning door op het document te klikken. Informatie over de huidige revisie is zichtbaar in het [rechtermenu met informatie](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision).
+Selecteer een enkel document of open de documentvoorvertoning door op het document te klikken. Informatie over de huidige revisie is zichtbaar in het [rechtermenu met informatie](https://support.catenda.com/nl/articles/8302244-right-menu-of-a-revision).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/16-revision-information.png)
 
@@ -138,7 +138,7 @@ Selecteer een enkel document of open de documentvoorvertoning door op het docume
 - Wijzig een gepubliceerde revisiestatus in een andere gepubliceerde revisiestatus.
   _Vereiste toegang:_ Schrijftoegang en gepubliceerde revisies
 
-**Dialoogvenster revisie-informatie** Klik op het revisievak om een overzicht van alle revisies in het document in het [dialoogvenster revisie-informatie](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision#h_6838c6ad71) te zien. Een groene verbinding tussen een gepubliceerde en een gedeelde revisie geeft aan welke gedeelde revisie is gepubliceerd.
+**Dialoogvenster revisie-informatie** Klik op het revisievak om een overzicht van alle revisies in het document in het [dialoogvenster revisie-informatie](https://support.catenda.com/nl/articles/8302244-right-menu-of-a-revision#h_6838c6ad71) te zien. Een groene verbinding tussen een gepubliceerde en een gedeelde revisie geeft aan welke gedeelde revisie is gepubliceerd.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/17-revision-information.png)
 
@@ -148,15 +148,15 @@ Alleen gepubliceerde revisies zijn zichtbaar in Catenda Site.
 
 ## 4. Statusconfiguratietoegang
 
-1. Bewerktoegang tot de documentstatusconfiguratie kan worden geconfigureerd op de [projectinstellingenpagina](https://support.catenda.com/en/articles/4670273-project-settings-page):
+1. Bewerktoegang tot de documentstatusconfiguratie kan worden geconfigureerd op de [projectinstellingenpagina](https://support.catenda.com/nl/articles/4670273-project-settings-page):
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-868820a898ba.png" width="500"/></div>
 
-2. Documentstatus kan vervolgens [geconfigureerd](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) worden vanuit de instellingen in de documentsectie:
+2. Documentstatus kan vervolgens [geconfigureerd](https://support.catenda.com/nl/articles/7831371-document-settings#h_e6f3ffdbff) worden vanuit de instellingen in de documentsectie:
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-931418a5fab1.png" width="500"/></div>
 
-3. Ten slotte kunnen deze documentstatussen worden toegewezen aan de status voor bestandsbeoordeling, toegankelijk vanuit de knop met drie punten rechtsboven in de [sectie Goedkeuringen](https://support.catenda.com/en/articles/8349340-approvals-page). Het is ook mogelijk om hier een onderwerpsjabloon te configureren.
+3. Ten slotte kunnen deze documentstatussen worden toegewezen aan de status voor bestandsbeoordeling, toegankelijk vanuit de knop met drie punten rechtsboven in de [sectie Goedkeuringen](https://support.catenda.com/nl/articles/8349340-approvals-page). Het is ook mogelijk om hier een onderwerpsjabloon te configureren.
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-3cdbebefca38.png" width="500"/></div>
 
@@ -186,7 +186,7 @@ Een gedetailleerde demonstratie van deze stappen wordt in de volgende zelfstudie
 
 ## 6. **Statusworkflow uitschakelen**
 
-Als u de statusworkflowstroom wilt uitschakelen, kunt u dit doen door op de keuzerondje in [documentinstellingen](https://support.catenda.com/en/articles/7831371-document-settings) te klikken. De gepubliceerde en gedeelde tabbladen in de documentsectie verdwijnen vervolgens. Documenten die zijn geüpload terwijl de statusworkflow niet is ingeschakeld, worden als gepubliceerd geüpload en verschijnen op het gepubliceerde tabblad wanneer de statusworkflow wordt ingeschakeld.
+Als u de statusworkflowstroom wilt uitschakelen, kunt u dit doen door op de keuzerondje in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings) te klikken. De gepubliceerde en gedeelde tabbladen in de documentsectie verdwijnen vervolgens. Documenten die zijn geüpload terwijl de statusworkflow niet is ingeschakeld, worden als gepubliceerd geüpload en verschijnen op het gepubliceerde tabblad wanneer de statusworkflow wordt ingeschakeld.
 
 ## 7. **Voordelen van het gebruik van de statusworkflow**
 

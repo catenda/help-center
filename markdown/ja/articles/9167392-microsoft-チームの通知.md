@@ -4,7 +4,7 @@
 
 Catenda notification 設定で Microsoft チームワークフローを設定することにより、Catenda アカウントから Microsoft チームチャネルに直接リアルタイム通知を受け取ります。_必要なアクセス権限:_ チャネル作成および Microsoft チームワークフロー管理権限を持つ **Microsoft チーム** アカウント。
 
-Microsoft チーム通知タブは、[account notification settings ページ](https://support.catenda.com/en/articles/8272435-account-notification-settings)の上部近くに見つかります。このページは[account notifications page](https://support.catenda.com/en/articles/7439223-account-notifications-page)のサブページです。
+Microsoft チーム通知タブは、[account notification settings ページ](https://support.catenda.com/ja/articles/8272435-account-notification-settings)の上部近くに見つかります。このページは[account notifications page](https://support.catenda.com/ja/articles/7439223-account-notifications-page)のサブページです。
 
 ![Catenda Hub 通知設定 Microsoft チーム通知 独自のチーム設定を持つプロジェクト](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/01-intro.png)
 
@@ -93,7 +93,7 @@ Microsoft チームワークフローが設定された後、Catenda通知が Mi
 
 ![受け取りたい通知を選択 Catenda Hub メール Microsoft チーム通知 トピック ドキュメント 承認 コレクション モデル ユーザー 新しいトピックが作成されました トピックが自分に割り当てられました トピックが自分またはマイチームに言及されています トピックに割り当てられているコメント 自分が言及している 自分がフォローしているトピックで状態が変更されました トピックでタイプが変更されました 承認リクエストでパブリッシャーとして設定されました 自分が所属するチームが承認リクエストでパブリッシャーとして設定されました 承認リクエストが終了しました 提出チームのメンバー 新しい承認リクエストが提出されました ドキュメントが破棄されました 承認リクエストが終了しました 新しい承認リクエストが提出されました 新しい承認リクエストが自分のチームに割り当てられました 新しい承認リクエストが自分のチームによるレビューの準備ができました 自分のチームによるすべてのレビューが提出されました ドキュメントが破棄されました 承認リクエストが終了しました 最終承認のレビューチームのメンバーとして 新しい承認リクエストが提出されました 新しい承認リクエストが自分のチームに割り当てられました 新しい承認リクエストが自分のチームによるレビューの準備ができました 自分のチームによるすべてのレビューが提出されました 自分のチームによるすべてのレビューが提出されました レビューステップが完了しました ドキュメントが破棄されました 承認リクエストが終了しました 新しいモデルが作成されました 新しいリビジョンがインポートされました](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/09-step-4-customize-your-alerts.png)
 
-グレーアウトされた通知ボックスは Microsoft チーム用に無効になっており、他の通知方法にのみ利用可能です。承認用の通知ボックスは、プロジェクトの[ドキュメント設定](https://support.catenda.com/en/articles/7831371-document-settings-page)で「共有 revision」が有効になっている場合に利用可能になります。
+グレーアウトされた通知ボックスは Microsoft チーム用に無効になっており、他の通知方法にのみ利用可能です。承認用の通知ボックスは、プロジェクトの[ドキュメント設定](https://support.catenda.com/ja/articles/7831371-document-settings-page)で「共有 revision」が有効になっている場合に利用可能になります。
 
 ---
 

@@ -1,6 +1,6 @@
 # Revision zu einer Genehmigungsanfrage hinzufügen - Legacy
 
-Revisions können zu einer Genehmigungsanfrage hinzugefügt werden, indem Sie auf die Schaltfläche "Entwurf hinzufügen" im [Fenster "Genehmigungsanfrage erstellen"](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) klicken und indem Sie auf die Schaltfläche "Entwurf hinzufügen" im [Body einer Genehmigung](https://support.catenda.com/en/articles/8349418-approval-page#h_218ac89189) auf der Seite einer bestehenden Genehmigung klicken. So kann das Fenster "Entwurf zu Genehmigungsanfrage hinzufügen" aussehen:
+Revisions können zu einer Genehmigungsanfrage hinzugefügt werden, indem Sie auf die Schaltfläche "Entwurf hinzufügen" im [Fenster "Genehmigungsanfrage erstellen"](https://support.catenda.com/de/articles/12360159-creating-a-new-approval-request) klicken und indem Sie auf die Schaltfläche "Entwurf hinzufügen" im [Body einer Genehmigung](https://support.catenda.com/de/articles/8349418-approval-page#h_218ac89189) auf der Seite einer bestehenden Genehmigung klicken. So kann das Fenster "Entwurf zu Genehmigungsanfrage hinzufügen" aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bzenvg2j/01-intro.png)
 

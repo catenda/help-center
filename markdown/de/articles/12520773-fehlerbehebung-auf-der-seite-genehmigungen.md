@@ -10,7 +10,7 @@ Es ist nur möglich, den Dialog für neue Genehmigungsanfragen mit bis zu 1000 D
 
 ## 2. **Registerkarte "Übersicht" - Schließen einer Genehmigungsanfrage**
 
-Beim Schließen einer Genehmigung kann die Veröffentlichung fehlschlagen. In der [Registerkarte "Übersicht"](https://support.catenda.com/en/articles/12495126-overview-tab-in-an-approval-request) der Genehmigung kann dann folgendes angezeigt werden:
+Beim Schließen einer Genehmigung kann die Veröffentlichung fehlschlagen. In der [Registerkarte "Übersicht"](https://support.catenda.com/de/articles/12495126-overview-tab-in-an-approval-request) der Genehmigung kann dann folgendes angezeigt werden:
 
 ![Publishing failed Published 1 document. Failed to update 1 document view details](https://raw.githubusercontent.com/catenda/help-center/main/images/atct6we8/02-overview-tab-closing-an-approval-request.png)
 

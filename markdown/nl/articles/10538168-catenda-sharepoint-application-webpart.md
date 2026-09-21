@@ -4,7 +4,7 @@ Met de Catenda webpart kunt u de sectie Documenten van een Catenda-project binne
 
 ## 1. **De webpart toevoegen**
 
-Bewerk een bestaande pagina in SharePoint of maak een nieuwe pagina aan en bewerk deze. Beweeg over uw pagina in bewerkingsmodus totdat u een lijn met een plusteken ziet `----+-----` Als de [Catenda SharePoint-toepassing](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application) aan uw site is toegevoegd, kunt u de Catenda Document Webpart in uw lijst met webparts vinden.
+Bewerk een bestaande pagina in SharePoint of maak een nieuwe pagina aan en bewerk deze. Beweeg over uw pagina in bewerkingsmodus totdat u een lijn met een plusteken ziet `----+-----` Als de [Catenda SharePoint-toepassing](https://support.catenda.com/nl/articles/8396496-catenda-sharepoint-application) aan uw site is toegevoegd, kunt u de Catenda Document Webpart in uw lijst met webparts vinden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/01-adding-the-webpart.png)
 
@@ -16,7 +16,7 @@ Als u uw Catenda-account nog niet hebt geautoriseerd, ziet de webpart er als vol
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/03-adding-the-webpart.png)
 
-Als u een pagina met de ingeschakelde Catenda-webpart opent en u heeft uw account nog niet geautoriseerd, wordt u gevraagd dit te doen. Lees meer over hoe u uw account kunt autoriseren [hier](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application#h_788fe15988).
+Als u een pagina met de ingeschakelde Catenda-webpart opent en u heeft uw account nog niet geautoriseerd, wordt u gevraagd dit te doen. Lees meer over hoe u uw account kunt autoriseren [hier](https://support.catenda.com/nl/articles/8396496-catenda-sharepoint-application#h_788fe15988).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/04-adding-the-webpart.png)
 
@@ -74,7 +74,7 @@ Nadat u hierop klikt, wordt een bestandsbrowser geopend en kunt u selecteren wel
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/11-upload-file.png)
 
-> **Opmerking:** Als u een map sleept en neerzet, wordt deze als een zip-bestand gepubliceerd. Als u een mapstructuur wilt uploaden, moet u deze downloaden van SharePoint en uploaden naar Catenda via de [zip upload](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) of [Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector).
+> **Opmerking:** Als u een map sleept en neerzet, wordt deze als een zip-bestand gepubliceerd. Als u een mapstructuur wilt uploaden, moet u deze downloaden van SharePoint en uploaden naar Catenda via de [zip upload](https://support.catenda.com/nl/articles/7945410-upload-a-zip-file-structure) of [Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector).
 
 ### 4.3 **Herladen**
 

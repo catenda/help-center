@@ -1,6 +1,6 @@
 # Hulpmiddelen voor documentvoorvertoning
 
-Wanneer de [voorbeeldpagina](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) van een [bestandstype dat kan worden bekeken](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub) voor het eerst wordt geopend, wordt de volgende werkbalk bovenaan weergegeven.
+Wanneer de [voorbeeldpagina](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations) van een [bestandstype dat kan worden bekeken](https://support.catenda.com/nl/articles/4670320-previewing-file-types-on-catenda-hub) voor het eerst wordt geopend, wordt de volgende werkbalk bovenaan weergegeven.
 
 ![Weergave Aantekening Vormen Invoegen Meet](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/01-intro.png)
 
@@ -13,7 +13,7 @@ Als de browseromvang op groot is ingesteld of als een klein schermformaat wordt 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/03-intro.png)
 Vormen, tekst en bijschriften kunnen worden toegevoegd, tekst kan worden gemarkeerd, metingen kunnen worden gedaan en u kunt uit de vrije hand tekenen.
 Al dit kan later in topics worden opgeslagen.
-Klik [hier](https://support.catenda.com/en/articles/10209740-saving-a-markup) voor meer informatie over het opslaan van annotaties.
+Klik [hier](https://support.catenda.com/nl/articles/10209740-saving-a-markup) voor meer informatie over het opslaan van annotaties.
 
 ## 1. **Menu**
 
@@ -71,7 +71,7 @@ Thema Lichte modus - Standaard Donkere modus
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/08-settings.png)
 
-Klik op de actieknop voor elke sneltoets om de sneltoets aan een ander toetsaanslag te binden. Raadpleeg de huidige sneltoetsen [hier](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls).
+Klik op de actieknop voor elke sneltoets om de sneltoets aan een ander toetsaanslag te binden. Raadpleeg de huidige sneltoetsen [hier](https://support.catenda.com/nl/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls).
 
 **Geavanceerde instellingen** In het menu Geavanceerde instellingen kunnen verschillende instellingen worden in- en uitgeschakeld. Dit is wat het menu Geavanceerde instellingen eruit kan zien:
 
@@ -191,7 +191,7 @@ Dit is wat de invoegmenugerechtschappen eruit kunnen zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/21-insert-menu.png)
 
-Klik [hier](https://support.catenda.com/en/articles/11678493-document-preview-tools-rubber-stamp) voor meer informatie over het rubberstempelmenu.
+Klik [hier](https://support.catenda.com/nl/articles/11678493-document-preview-tools-rubber-stamp) voor meer informatie over het rubberstempelmenu.
 
 _Afbeelding - Sneltoets:_ (I) Selecteer het afbeeldingsgereedschap en klik ergens in het document om op die locatie een afbeelding toe te voegen.
 

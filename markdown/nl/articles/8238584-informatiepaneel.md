@@ -1,6 +1,6 @@
 # Informatiepaneel
 
-U vindt het Informatiepaneel als een van de vier hoofdpanelen die u aan de bovenkant rechts van uw scherm kunt openen. U kunt het i-pictogram indrukken om dit paneel te openen of u kunt [shift+4](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Inspect%20panel-,Shift%20%2B%204,-Show/hide%20last) indrukken.
+U vindt het Informatiepaneel als een van de vier hoofdpanelen die u aan de bovenkant rechts van uw scherm kunt openen. U kunt het i-pictogram indrukken om dit paneel te openen of u kunt [shift+4](https://support.catenda.com/nl/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Inspect%20panel-,Shift%20%2B%204,-Show/hide%20last) indrukken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/01-intro.png)
 
@@ -8,7 +8,7 @@ In het informatiepaneel kunt u de volgende secties vinden:
 
 ## 1. **Inspect**
 
-Hiermee kunt u de informatie over uw geselecteerde objecten zien. Klik [hier](https://support.catenda.com/en/articles/4670285-inspect-panel) voor meer informatie over het inspectpaneel.
+Hiermee kunt u de informatie over uw geselecteerde objecten zien. Klik [hier](https://support.catenda.com/nl/articles/4670285-inspect-panel) voor meer informatie over het inspectpaneel.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/02-inspect.png)
 
@@ -18,7 +18,7 @@ Hiermee kunt u een lijst met objecten maken en exporteren en de sommen van waard
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/03-quantity-take-off.png)
 
-Klik [hier](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto) voor meer informatie over Quantity Take-Off
+Klik [hier](https://support.catenda.com/nl/articles/6673929-quantity-take-off-qto) voor meer informatie over Quantity Take-Off
 
 ## 3. **4D**
 
@@ -68,7 +68,7 @@ Hiermee kunt u een set objecten maken die vervolgens kunnen worden gestileerd en
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/08-selections.png)
 
-Boven in het menu Selectie ziet u hoeveel items u momenteel hebt geselecteerd in de 3D-viewer en boomstructuurpaneel. Selecties kunnen worden opgeslagen door een [Snapshot](https://support.catenda.com/en/articles/8053352-issue-body#h_1ba7f8873f) of een [opgeslagen view](https://support.catenda.com/en/articles/8471481-bookmark) te maken en deze later af te spelen. Omdat selecties in de Snapshot van een onderwerp worden opgeslagen, kunnen ze naar andere programma's worden geïmporteerd en geëxporteerd via BCF. Een voorbeeld hiervan is dat onderwerpen met selecties uit de selectiemand die via de BCF live connector in Solibri worden gesynchroniseerd, selectiegegevens bevatten wanneer de Snapshot wordt afgespeeld.
+Boven in het menu Selectie ziet u hoeveel items u momenteel hebt geselecteerd in de 3D-viewer en boomstructuurpaneel. Selecties kunnen worden opgeslagen door een [Snapshot](https://support.catenda.com/nl/articles/8053352-issue-body#h_1ba7f8873f) of een [opgeslagen view](https://support.catenda.com/nl/articles/8471481-bookmark) te maken en deze later af te spelen. Omdat selecties in de Snapshot van een onderwerp worden opgeslagen, kunnen ze naar andere programma's worden geïmporteerd en geëxporteerd via BCF. Een voorbeeld hiervan is dat onderwerpen met selecties uit de selectiemand die via de BCF live connector in Solibri worden gesynchroniseerd, selectiegegevens bevatten wanneer de Snapshot wordt afgespeeld.
 
 ### 5.1 **Nieuwe selectie**
 
@@ -114,4 +114,4 @@ Hiermee kunt u zien welke metingen in de 3D-viewer zijn gemaakt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/11-measurements.png)
 
-Klik [hier](https://support.catenda.com/en/articles/4670294-measuring-features) voor meer informatie over metingen
+Klik [hier](https://support.catenda.com/nl/articles/4670294-measuring-features) voor meer informatie over metingen

@@ -16,15 +16,15 @@ Klicken Sie auf das Projekt-Dropdown, um zum Dashboard eines anderen Projekts zu
 
 ### 1.2 **Projektpanels**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/13141464-project-panels), um mehr über die Projektpanels zu erfahren
+Klicken Sie [hier](https://support.catenda.com/de/articles/13141464-project-panels), um mehr über die Projektpanels zu erfahren
 
 ### 1.3 **Kontoschalter**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/4670260-account-buttons), um mehr über die Kontoschalter zu erfahren
+Klicken Sie [hier](https://support.catenda.com/de/articles/4670260-account-buttons), um mehr über die Kontoschalter zu erfahren
 
 ## 2. **Themen**
 
-Im Bereich [Themen](https://support.catenda.com/en/articles/4670271-issues-page) können Sie einen Überblick über [alle Themen](https://support.catenda.com/en/articles/4670271-issues-page#h_9bd3bd842b) in einem Projekt sehen. So kann das Themenmenü aussehen:
+Im Bereich [Themen](https://support.catenda.com/de/articles/4670271-issues-page) können Sie einen Überblick über [alle Themen](https://support.catenda.com/de/articles/4670271-issues-page#h_9bd3bd842b) in einem Projekt sehen. So kann das Themenmenü aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/03-topics.png)
 
@@ -40,7 +40,7 @@ Hier ist die Gesamtzahl der offenen Themen zu sehen, auf die Mitglieder Zugriff 
 
 ### 2.2 **Mir zugewiesene Themen**
 
-Die Anzahl der Themen, die [einem Mitglied zugewiesen](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board#h_12a5c945fd) wurden, in Themen-Boards, auf die sie Zugriff haben, wird angezeigt.
+Die Anzahl der Themen, die [einem Mitglied zugewiesen](https://support.catenda.com/de/articles/8370693-filtering-in-a-topic-board#h_12a5c945fd) wurden, in Themen-Boards, auf die sie Zugriff haben, wird angezeigt.
 
 ### 2.3 **Themen-Board-Grafik**
 
@@ -54,11 +54,11 @@ Für jedes Themen-Board wird ein Kreisdiagramm ähnlich dem auf der Meilenstein-
 
 ### 2.4 **Kürzlich aktualisierte Themen**
 
-Klicken Sie auf kürzlich aktualisierte Themen, um das [Alle Themen Themen-Board](https://support.catenda.com/en/articles/4670271-issues-page#h_9bd3bd842b) nach der aktualisierten Spalte sortiert zu öffnen.
+Klicken Sie auf kürzlich aktualisierte Themen, um das [Alle Themen Themen-Board](https://support.catenda.com/de/articles/4670271-issues-page#h_9bd3bd842b) nach der aktualisierten Spalte sortiert zu öffnen.
 
 ### 2.5 **Alle Themen-Boards**
 
-Die angezeigte Anzahl ist die Anzahl der Boards, auf die das angemeldete Mitglied mindestens Lesezugriff hat. Klicken Sie auf alle Themen-Boards, um die [Boards-Seite](https://support.catenda.com/en/articles/9413644-boards-page) zu öffnen.
+Die angezeigte Anzahl ist die Anzahl der Boards, auf die das angemeldete Mitglied mindestens Lesezugriff hat. Klicken Sie auf alle Themen-Boards, um die [Boards-Seite](https://support.catenda.com/de/articles/9413644-boards-page) zu öffnen.
 
 Neue Themen-Boards können erstellt werden. _Erforderlicher Zugriff:_ Erstellen von Themen-Boards in Projekteinstellungen Die Einstellungen für jedes Themen-Board können erreicht werden. _Erforderlicher Zugriff:_ Vollzugriff auf das Themen-Board.
 
@@ -74,7 +74,7 @@ Klicken Sie auf die Themennummer, um die URL dieses Themas zu kopieren.
 
 ## 3. **Meine Lesezeichen**
 
-Hier werden alle markierten [Lesezeichen](https://support.catenda.com/en/articles/4670281-bookmarks) mit ihrem Screenshot und Titel angezeigt.
+Hier werden alle markierten [Lesezeichen](https://support.catenda.com/de/articles/4670281-bookmarks) mit ihrem Screenshot und Titel angezeigt.
 
 So kann das Lesezeichen-Menü aussehen:
 
@@ -98,7 +98,7 @@ Wenn noch keine Modelle im Projekt vorhanden sind, kann eine grüne Plus-Schaltf
 
 Klicken Sie auf die Plus-Schaltfläche, um ein neues Modell zu erstellen. _Erforderlicher Zugriff:_ Zugriff zum Erstellen von Modellen auf der Seite mit Projekteinstellungen.
 
-Klicken Sie auf den Namen eines Modells, um zur [Modellinhaltseite](https://support.catenda.com/en/articles/4670270-model-overview-page) dieses Modells zu gelangen. Mit den 2D/3D-Schaltflächen können Sie das Modell im Viewer laden.
+Klicken Sie auf den Namen eines Modells, um zur [Modellinhaltseite](https://support.catenda.com/de/articles/4670270-model-overview-page) dieses Modells zu gelangen. Mit den 2D/3D-Schaltflächen können Sie das Modell im Viewer laden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/10-models.png)
 
@@ -114,7 +114,7 @@ Eine grüne Plus-Schaltfläche ist oben rechts im Menü zu sehen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/09-models.png)
 
-Klicken Sie auf die Plus-Schaltfläche, um [ein neues Mitglied einzuladen](https://support.catenda.com/en/articles/4670247-inviting-new-members-to-the-project) zu Ihrem Projekt. _Erforderlicher Zugriff:_ Zugriff zum Einladen neuer Mitglieder auf der Seite mit Projekteinstellungen.
+Klicken Sie auf die Plus-Schaltfläche, um [ein neues Mitglied einzuladen](https://support.catenda.com/de/articles/4670247-inviting-new-members-to-the-project) zu Ihrem Projekt. _Erforderlicher Zugriff:_ Zugriff zum Einladen neuer Mitglieder auf der Seite mit Projekteinstellungen.
 
 Klicken Sie auf das Profilbild eines Mitglieds, um die Seite dieses Mitglieds zu sehen.
 
@@ -124,23 +124,23 @@ Das Freigaben-Menü ist nicht sichtbar für Projekte, bei denen gemeinsame Revis
 
 ### 6.1 **Freigaben - Vorgängerversion**
 
-In Projekten, bei denen der Legacy-Validierungs-Workflow aktiviert ist, werden Freigaben auf dem Dashboard angezeigt. Wenn Sie auf Freigaben klicken, gelangen Sie zur Seite [Freigaben](https://support.catenda.com/en/articles/5784717-document-approval).
+In Projekten, bei denen der Legacy-Validierungs-Workflow aktiviert ist, werden Freigaben auf dem Dashboard angezeigt. Wenn Sie auf Freigaben klicken, gelangen Sie zur Seite [Freigaben](https://support.catenda.com/de/articles/5784717-document-approval).
 
 So kann das Freigaben-Menü aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/13-approvals-legacy.png)
 
-**Offene Freigaben** Sehen Sie alle offenen [Freigaben](https://support.catenda.com/en/articles/5784717-document-approval)
+**Offene Freigaben** Sehen Sie alle offenen [Freigaben](https://support.catenda.com/de/articles/5784717-document-approval)
 
-**Von mir erstellt** Sehen Sie alle offenen [Freigaben](https://support.catenda.com/en/articles/5784717-document-approval), die Sie erstellt haben
+**Von mir erstellt** Sehen Sie alle offenen [Freigaben](https://support.catenda.com/de/articles/5784717-document-approval), die Sie erstellt haben
 
-**Ich bin Prüfer** Sehen Sie alle offenen [Freigaben](https://support.catenda.com/en/articles/8349340-approvals-page), bei denen Sie als Prüfer festgelegt wurden.
+**Ich bin Prüfer** Sehen Sie alle offenen [Freigaben](https://support.catenda.com/de/articles/8349340-approvals-page), bei denen Sie als Prüfer festgelegt wurden.
 
-**Freigabeanforderungskarten** Sehen Sie die 5 neuesten offenen [Freigaben](https://support.catenda.com/en/articles/5784717-document-approval) im Projekt. Klicken Sie auf eine [Freigabe](https://support.catenda.com/en/articles/5784717-document-approval), um den Inhalt anzuzeigen.
+**Freigabeanforderungskarten** Sehen Sie die 5 neuesten offenen [Freigaben](https://support.catenda.com/de/articles/5784717-document-approval) im Projekt. Klicken Sie auf eine [Freigabe](https://support.catenda.com/de/articles/5784717-document-approval), um den Inhalt anzuzeigen.
 
 ## 7. **Sammlungen**
 
-Klicken Sie auf Sammlungen, um zur [Seite Sammlungen](https://support.catenda.com/en/articles/6344318-collections-page) zu gehen
+Klicken Sie auf Sammlungen, um zur [Seite Sammlungen](https://support.catenda.com/de/articles/6344318-collections-page) zu gehen
 
 So kann das Sammlungsmenü aussehen:
 
@@ -148,12 +148,12 @@ So kann das Sammlungsmenü aussehen:
 
 ### 7.1 **Laufende Sammlungen**
 
-Sehen Sie, welche [Sammlungen](https://support.catenda.com/en/articles/6344318-collections-page) noch nicht abgeschlossen wurden. Diese können zum Teilen von Dokumenten mit Personen innerhalb des Projekts verwendet werden
+Sehen Sie, welche [Sammlungen](https://support.catenda.com/de/articles/6344318-collections-page) noch nicht abgeschlossen wurden. Diese können zum Teilen von Dokumenten mit Personen innerhalb des Projekts verwendet werden
 
 ### 7.2 **Abgeschlossene Sammlungen**
 
-Sehen Sie, welche [Sammlungen](https://support.catenda.com/en/articles/6344318-collections-page) abgeschlossen wurden. Diese können zum externen Teilen von Dokumenten verwendet werden.
+Sehen Sie, welche [Sammlungen](https://support.catenda.com/de/articles/6344318-collections-page) abgeschlossen wurden. Diese können zum externen Teilen von Dokumenten verwendet werden.
 
 ### 7.3 **Sammlungen**
 
-Sehen Sie die 5 neuesten [Sammlungen](https://support.catenda.com/en/articles/6344318-collections-page) im Projekt. Klicken Sie auf eine Sammlung, um die Inhaltseite dieser Sammlung anzuzeigen.
+Sehen Sie die 5 neuesten [Sammlungen](https://support.catenda.com/de/articles/6344318-collections-page) im Projekt. Klicken Sie auf eine Sammlung, um die Inhaltseite dieser Sammlung anzuzeigen.

@@ -1,6 +1,6 @@
 # Organisatieconfiguratie
 
-Organisaties worden gemaakt en beheerd door een Catenda-contactpersoon. Neem contact op met Catenda-ondersteuning om wijzigingen in de organisatieconfiguratie aan te brengen. Klik [hier](https://support.catenda.com/en/articles/8224886-organization-options) om meer te lezen over de verschillende beschikbare organisatieopties.
+Organisaties worden gemaakt en beheerd door een Catenda-contactpersoon. Neem contact op met Catenda-ondersteuning om wijzigingen in de organisatieconfiguratie aan te brengen. Klik [hier](https://support.catenda.com/nl/articles/8224886-organization-options) om meer te lezen over de verschillende beschikbare organisatieopties.
 
 Het volgende kan worden geconfigureerd door een Catenda-contactpersoon:
 

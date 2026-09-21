@@ -9,42 +9,42 @@ På sider hvor flere elementer vises, vises informasjon ofte i tabeller. Ulike m
 I følgende tabeller vises all informasjon som standard
 
 - Inspeksjonspanel
-    - [Mengdeberegning (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
-    - [Justeringer](https://support.catenda.com/en/articles/4670285-inspect-menu#h_9f512a0264)
-    - [4D](https://support.catenda.com/en/articles/8238584-information-panel#h_e6adda9c62)
+    - [Mengdeberegning (QTO)](https://support.catenda.com/nb/articles/6673929-quantity-take-off-qto)
+    - [Justeringer](https://support.catenda.com/nb/articles/4670285-inspect-menu#h_9f512a0264)
+    - [4D](https://support.catenda.com/nb/articles/8238584-information-panel#h_e6adda9c62)
     - Navngivningskonvensjoner
 - Bibliotek
-    - [Lenkerbibliotek](https://support.catenda.com/en/articles/4670254-links-library)
-    - [Sharepoint-bibliotek](https://support.catenda.com/en/articles/5744548-sharepoint-library)
-    - [Dropbox-bibliotek](https://support.catenda.com/en/articles/8065645-libraries-page)
-    - [Egenskapsverdi-bibliotek](https://support.catenda.com/en/articles/4670252-property-value-library)
-    - [Klassifikasjonsbibliotek](https://support.catenda.com/en/articles/4670255-classification-library)
+    - [Lenkerbibliotek](https://support.catenda.com/nb/articles/4670254-links-library)
+    - [Sharepoint-bibliotek](https://support.catenda.com/nb/articles/5744548-sharepoint-library)
+    - [Dropbox-bibliotek](https://support.catenda.com/nb/articles/8065645-libraries-page)
+    - [Egenskapsverdi-bibliotek](https://support.catenda.com/nb/articles/4670252-property-value-library)
+    - [Klassifikasjonsbibliotek](https://support.catenda.com/nb/articles/4670255-classification-library)
 - Organisasjonsverktøy
-    - [Brukersiden](https://support.catenda.com/en/articles/8508311-users-page-organization-tool)
-    - [Prosjektsiden](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-    - [Prosjektmedlemskapssiden](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Brukersiden](https://support.catenda.com/nb/articles/8508311-users-page-organization-tool)
+    - [Prosjektsiden](https://support.catenda.com/nb/articles/8505058-projects-page-organization-tool)
+    - [Prosjektmedlemskapssiden](https://support.catenda.com/nb/articles/9003642-project-memberships-organization-tool)
 
 I følgende tabeller vises en standardkonfigurasjon når siden lastes inn:
 
 - Modeller
-    - [Objektsiden](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Objektsiden](https://support.catenda.com/nb/articles/12352750-objects-page)
 
 I følgende tabeller vises endringer som er gjort i standardtabellkonfigurasjonen når siden lastes inn:
 
-- [Saker](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabellvisning)
-- [Modeller](https://support.catenda.com/en/articles/4670286-models-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
-- [Dokumenter](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
-    - [Oversikt over dokumenttilgang](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
-- [Rapporter](https://support.catenda.com/en/articles/12303098-reports-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
-- [Merkelapper](https://support.catenda.com/en/articles/4670265-labels-page) (Merkelapper-fane, Gruppe-fane)
-- [Egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-- [Medlemssiden](https://support.catenda.com/en/articles/11926821-members-page) (Medlemmer-fane, Team-fane)
+- [Saker](https://support.catenda.com/nb/articles/6941099-columns-on-the-topics-page) (Tabellvisning)
+- [Modeller](https://support.catenda.com/nb/articles/4670286-models-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
+- [Dokumenter](https://support.catenda.com/nb/articles/8466850-columns-on-the-documents-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
+    - [Oversikt over dokumenttilgang](https://support.catenda.com/nb/articles/6660820-document-access-overview-acl-dashboard)
+- [Rapporter](https://support.catenda.com/nb/articles/12303098-reports-page) (Grunnvisning, Publisert-fane, Arbeidsrom-fane)
+- [Merkelapper](https://support.catenda.com/nb/articles/4670265-labels-page) (Merkelapper-fane, Gruppe-fane)
+- [Egendefinerte felt](https://support.catenda.com/nb/articles/6550459-custom-fields-page)
+- [Medlemssiden](https://support.catenda.com/nb/articles/11926821-members-page) (Medlemmer-fane, Team-fane)
 
 Endringer i tabellkonfigurasjonen påvirker bare personen som gjør endringen, og ikke alle medlemmer i prosjektet. Når en endring gjøres i en tabell, påvirker endringen hvordan tabellen ser ut i alle prosjekter.
 
 Tabellen nedenfor beskriver innstillinger som kan konfigureres for en tabell.
 
-<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="padding: 8px;"><h1 id="h_aa1a623a85">Innstillinger</h1></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1eedf14b1">Hva</h2></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_691544b252">Hvor</h2></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fa7d3a8228">Kolonneoversikt</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Et fast antall kolonner er aktivert som standard for hver tabell.</p><p>Tabeller med mange kolonner kan inkludere kolonner som er deaktivert som standard.</p><p>Kolonner som er deaktivert som standard, må aktiveres med kolonnelisten for å vises</p><div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;"><p><b>Merk:</b> Egendefinerte kolonner som egendefinerte feltkolonner er alltid skjult når siden lastes inn.</p></div></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolonnelisten</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_ea66b1d6d8">Sortert kolonne og sorteringsretning</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Tabeller kan sorteres etter én kolonne av gangen. Klikk på toppraden i en sorterbar kolonne for å konfigurere hvilken kolonne tabellen sorteres etter og i hvilken retning den sorteres.</p><p>Etter at du har sortert etter en kolonne, vil radene i tabellen omorganiseres i henhold til <a class="intercom-content-link" href="https://support.catenda.com/en/articles/8487788-sorting-order-of-lists">typiske sorteringsregler rundt Catenda</a>.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Toppraden</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_321a81f32f">Kolonneorden</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolonner har en fast rekkefølge som standard.</p><p>Omorganisering av kolonner endrer den konfigurerte kolonneordenen</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolonnelisten og toppraden</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_feb5f7b2ab">Kolonnebredde</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Standard kolonnebredder justeres for å vise viktige deler av kolonneinnholdet.</p><p>Som standard kan kolonner kanskje ikke vise det totale innholdet i en kolonne</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Toppraden</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7a5beb9bd0">Radhøyde</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Radhøyden kan endres med radhøydeknappene øverst til venstre i en tabell.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Tabellsynlighetsinnstillinger</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1fe2adb04">Høyre meny-popover</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Etter at du har valgt en rad og åpnet høyremenyen på en side, vil høyremenyen åpne seg igjen neste gang en rad velges til den lukkes.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Høyre menyknapp</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f502376bea">Enkelt panel eller multi-panel</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Hver tabell har to konfigurasjoner.</p><p>En når tabellen er i det eneste panelet som er åpent, og en når flere paneler er åpne.</p><p><br/>​</p><p></p><p><i>Konfigurasjon for enkelt panel</i></p><p>Hvis en tabell er i innholdspanelet, og innholdspanelet er det eneste panelet som er åpent, vises konfigurasjonen for enkelt panel.</p><p><br/>​</p><p></p><p><i>Konfigurasjon for multi-panel</i></p><p>Hvis en tabell er i innholdspanelet og et annet panel som 3D- eller informasjonspanelet åpnes samtidig, vises multi-panel-konfigurasjonen.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Panelknapp</p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="padding: 8px;"><h1 id="h_aa1a623a85">Innstillinger</h1></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1eedf14b1">Hva</h2></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_691544b252">Hvor</h2></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fa7d3a8228">Kolonneoversikt</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Et fast antall kolonner er aktivert som standard for hver tabell.</p><p>Tabeller med mange kolonner kan inkludere kolonner som er deaktivert som standard.</p><p>Kolonner som er deaktivert som standard, må aktiveres med kolonnelisten for å vises</p><div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;"><p><b>Merk:</b> Egendefinerte kolonner som egendefinerte feltkolonner er alltid skjult når siden lastes inn.</p></div></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolonnelisten</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_ea66b1d6d8">Sortert kolonne og sorteringsretning</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Tabeller kan sorteres etter én kolonne av gangen. Klikk på toppraden i en sorterbar kolonne for å konfigurere hvilken kolonne tabellen sorteres etter og i hvilken retning den sorteres.</p><p>Etter at du har sortert etter en kolonne, vil radene i tabellen omorganiseres i henhold til <a class="intercom-content-link" href="https://support.catenda.com/nb/articles/8487788-sorting-order-of-lists">typiske sorteringsregler rundt Catenda</a>.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Toppraden</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_321a81f32f">Kolonneorden</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolonner har en fast rekkefølge som standard.</p><p>Omorganisering av kolonner endrer den konfigurerte kolonneordenen</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolonnelisten og toppraden</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_feb5f7b2ab">Kolonnebredde</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Standard kolonnebredder justeres for å vise viktige deler av kolonneinnholdet.</p><p>Som standard kan kolonner kanskje ikke vise det totale innholdet i en kolonne</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Toppraden</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7a5beb9bd0">Radhøyde</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Radhøyden kan endres med radhøydeknappene øverst til venstre i en tabell.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Tabellsynlighetsinnstillinger</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1fe2adb04">Høyre meny-popover</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Etter at du har valgt en rad og åpnet høyremenyen på en side, vil høyremenyen åpne seg igjen neste gang en rad velges til den lukkes.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Høyre menyknapp</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f502376bea">Enkelt panel eller multi-panel</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Hver tabell har to konfigurasjoner.</p><p>En når tabellen er i det eneste panelet som er åpent, og en når flere paneler er åpne.</p><p><br/>​</p><p></p><p><i>Konfigurasjon for enkelt panel</i></p><p>Hvis en tabell er i innholdspanelet, og innholdspanelet er det eneste panelet som er åpent, vises konfigurasjonen for enkelt panel.</p><p><br/>​</p><p></p><p><i>Konfigurasjon for multi-panel</i></p><p>Hvis en tabell er i innholdspanelet og et annet panel som 3D- eller informasjonspanelet åpnes samtidig, vises multi-panel-konfigurasjonen.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Panelknapp</p></td></tr></tbody></table></div>
 
 ## 2. Valgoversikt
 
@@ -68,9 +68,9 @@ Etter at du har valgt eller åpnet innholdet i en rad i tabellen, kan en handlin
 
 Handlingsmenyen for valgte elementer kan inneholde ulike handlinger avhengig av innholdet i raden og tilgangen til brukeren som foretar valget. Mulige handlinger for hver tabell finner du her:
 
-- [Saksliste valgte varslingshandlinger](https://support.catenda.com/en/articles/4670284-topic-board-actions#h_b5c00c149b)
-- [Valgte elementhandlinger for modellsiden](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed)
-- [Valgte elementhandlinger for dokumentsiden](https://support.catenda.com/en/articles/4670288-document-structure-actions#h_fb4e9ef375)
+- [Saksliste valgte varslingshandlinger](https://support.catenda.com/nb/articles/4670284-topic-board-actions#h_b5c00c149b)
+- [Valgte elementhandlinger for modellsiden](https://support.catenda.com/nb/articles/9431936-models-page-actions#h_9c268c45ed)
+- [Valgte elementhandlinger for dokumentsiden](https://support.catenda.com/nb/articles/4670288-document-structure-actions#h_fb4e9ef375)
 
 ### 2.4 Fjern valget fra alle
 
@@ -180,7 +180,7 @@ _Markørendring_ Markøren vil være en peker.
 
 _Sorteringspiler_ Sorteringspiler kan indikere hvilken kolonne som for øyeblikket er sortert. Sorteringspiler kan vise hvilken retning radene er sortert i.
 
-_Klikk for å sortere_ Klikk på hodecellen i en sorterbar kolonne for å sortere tabellradene i henhold til kolonnen som hodecellen er i. Etter sortering etter en kolonne, vil radene i tabellen bli omordnet i henhold til [typiske sorteringsregler rundt Catenda](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists). Klikk på hodecellen i den sorterte kolonnen igjen for å sortere den i motsatt retning. Sortering av en kolonne oppdaterer sorteringspreferansene for tabellen.
+_Klikk for å sortere_ Klikk på hodecellen i en sorterbar kolonne for å sortere tabellradene i henhold til kolonnen som hodecellen er i. Etter sortering etter en kolonne, vil radene i tabellen bli omordnet i henhold til [typiske sorteringsregler rundt Catenda](https://support.catenda.com/nb/articles/8487788-sorting-order-of-lists). Klikk på hodecellen i den sorterte kolonnen igjen for å sortere den i motsatt retning. Sortering av en kolonne oppdaterer sorteringspreferansene for tabellen.
 
 > **Merk:** Tabeller kan bare sorteres etter én kolonne om gangen
 
@@ -251,19 +251,19 @@ Når dragankeret slippes på toppen av en interaktiv rad, kan flyttedialoggbokse
 Det er mulig å flytte kolonner i følgende tabeller:
 
 - Modeller
-    - [Objekter-side](https://support.catenda.com/en/articles/12352750-objects-page)
+    - [Objekter-side](https://support.catenda.com/nb/articles/12352750-objects-page)
 - Organisasjonsverktøy
-    - [Prosjekter-side](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
-    - [Prosjektmedlemskap-side](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
+    - [Prosjekter-side](https://support.catenda.com/nb/articles/8505058-projects-page-organization-tool)
+    - [Prosjektmedlemskap-side](https://support.catenda.com/nb/articles/9003642-project-memberships-organization-tool)
 
-- [Saker](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Tabelvisning)
-- [Modeller](https://support.catenda.com/en/articles/4670286-models-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
-- [Dokumenter](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
-    - [Dokumenttilgangsoversikt](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
-- [Rapporter](https://support.catenda.com/en/articles/12303098-reports-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
-- [Merkelapper](https://support.catenda.com/en/articles/4670265-labels-page) (Merkelapper-fane, Gruppe-fane)
-- [Egendefinerte felt](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-- [Medlemmer-side](https://support.catenda.com/en/articles/11926821-members-page) (Medlemmer-fane, Teams-fane)
+- [Saker](https://support.catenda.com/nb/articles/6941099-columns-on-the-topics-page) (Tabelvisning)
+- [Modeller](https://support.catenda.com/nb/articles/4670286-models-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
+- [Dokumenter](https://support.catenda.com/nb/articles/8466850-columns-on-the-documents-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
+    - [Dokumenttilgangsoversikt](https://support.catenda.com/nb/articles/6660820-document-access-overview-acl-dashboard)
+- [Rapporter](https://support.catenda.com/nb/articles/12303098-reports-page) (Grunnvisning, Publisert-fane, Arbeidsomrade-fane)
+- [Merkelapper](https://support.catenda.com/nb/articles/4670265-labels-page) (Merkelapper-fane, Gruppe-fane)
+- [Egendefinerte felt](https://support.catenda.com/nb/articles/6550459-custom-fields-page)
+- [Medlemmer-side](https://support.catenda.com/nb/articles/11926821-members-page) (Medlemmer-fane, Teams-fane)
 
 ## 9. Samhandle med rader ved å holde over
 

@@ -12,11 +12,11 @@ _Standardfilter_ Standardfilteret er ikke synlig i URL-en i utgangspunktet. Når
 
 ### 1.1 **Lagre og del gjeldende filter**
 
-Gå til URL-en på en filtrert side for å laste inn siden med det brukte filteret. De brukte filtrene kan lagres øverst i filtremenyen. Klikk [her](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre. Merk at det ikke er mulig å lagre personlige filtre øverst i filtremenyen på gjennomgangssiden, ulikt som i andre filtermenyer.
+Gå til URL-en på en filtrert side for å laste inn siden med det brukte filteret. De brukte filtrene kan lagres øverst i filtremenyen. Klikk [her](https://support.catenda.com/nb/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre. Merk at det ikke er mulig å lagre personlige filtre øverst i filtremenyen på gjennomgangssiden, ulikt som i andre filtermenyer.
 
 ### 1.2 **Skjul tomme filtre**
 
-Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for å lese mer om begrensning av filterresultater.
+Klikk [her](https://support.catenda.com/nb/articles/8551755-saving-filters) for å lese mer om begrensning av filterresultater.
 
 ### 1.3 **Faner**
 
@@ -56,7 +56,7 @@ Medlemsnavn - `publishedBy=<Member GUID>&subFolders=true`
 
 ### 1.11 **Datumfiltre**
 
-Publisert - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klikk på velg datoer for å velge datoer som du vil søke mellom Klikk [her](https://support.catenda.com/en/articles/6511685-date-filter) for å lese mer om datumsilteret
+Publisert - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klikk på velg datoer for å velge datoer som du vil søke mellom Klikk [her](https://support.catenda.com/nb/articles/6511685-date-filter) for å lese mer om datumsilteret
 
 ### 1.12 **Åpne gjennomganger - Kun arbeidsflyt**
 
@@ -90,7 +90,7 @@ Navn på samling - `collections=<GUID>&subFolders=true`
 
 ### 1.17 **Slettet**
 
-Slettet - `deleted=deleted&subFolders=true` Se [her](https://support.catenda.com/en/articles/4670249-undeleting-restoring-documents-or-folders) hvordan du søker etter slettede dokumenter
+Slettet - `deleted=deleted&subFolders=true` Se [her](https://support.catenda.com/nb/articles/4670249-undeleting-restoring-documents-or-folders) hvordan du søker etter slettede dokumenter
 
 ## 2. **Tekstsøk**
 

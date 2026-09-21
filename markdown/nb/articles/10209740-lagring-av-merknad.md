@@ -1,8 +1,8 @@
 # Lagring av merknad
 
-Velg et [annotasjonsverktøy](https://support.catenda.com/en/articles/11384618-document-preview-tools) fra verktøylinjen over [dokumentforhåndsvisningen](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations). Plasser annotasjonen for å se menyen for ulagrede merknader i [merknader-fanen](https://support.catenda.com/en/articles/10205725-right-menu-of-a-revision-markups) i høyre meny for en revisjon.
+Velg et [annotasjonsverktøy](https://support.catenda.com/nb/articles/11384618-document-preview-tools) fra verktøylinjen over [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-document-preview-and-annotations). Plasser annotasjonen for å se menyen for ulagrede merknader i [merknader-fanen](https://support.catenda.com/nb/articles/10205725-right-menu-of-a-revision-markups) i høyre meny for en revisjon.
 
-Når et dokument åpnes for første gang, kan høyre meny for revisjonen være lukket. Klikk på informasjonsknappen på høyre side av [dokumentbanneret](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) for å utvide denne menyen.
+Når et dokument åpnes for første gang, kan høyre meny for revisjonen være lukket. Klikk på informasjonsknappen på høyre side av [dokumentbanneret](https://support.catenda.com/nb/articles/8461918-document-banner-actions-navigation) for å utvide denne menyen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/01-intro.png)
 

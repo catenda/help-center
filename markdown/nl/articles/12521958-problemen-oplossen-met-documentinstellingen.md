@@ -1,6 +1,6 @@
 # Problemen oplossen met documentinstellingen
 
-In dit artikel vindt u informatie over de fouten die kunnen optreden op de [documentinstellingenpagina](https://support.catenda.com/en/articles/7831371-document-settings-page).
+In dit artikel vindt u informatie over de fouten die kunnen optreden op de [documentinstellingenpagina](https://support.catenda.com/nl/articles/7831371-document-settings-page).
 
 ## 1. **Statusworkflow**
 

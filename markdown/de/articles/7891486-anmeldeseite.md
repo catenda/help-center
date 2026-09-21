@@ -27,11 +27,11 @@ Wenn die falsche E-Mail-Adresse eingegeben wurde, ändern Sie einfach die Adress
 
 ## 2. **Passwort**
 
-Hier können Sie das Passwort eingeben, das dem unter der angegebenen E-Mail-Adresse registrierten Konto entspricht. Klicken Sie [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) um Hilfe bei der Passwortverwaltung zu erhalten.
+Hier können Sie das Passwort eingeben, das dem unter der angegebenen E-Mail-Adresse registrierten Konto entspricht. Klicken Sie [hier](https://support.catenda.com/de/articles/10798891-sign-in-and-passwords) um Hilfe bei der Passwortverwaltung zu erhalten.
 
 ## 3. **Anmelden**
 
-Klicken Sie auf "Anmelden", um die eingegebenen Anmeldedaten zu überprüfen. Nach erfolgreichem Abschluss des Verifizierungsprozesses werden Benutzer auf die [Seite "Projekte"](https://support.catenda.com/en/articles/4670260-projects-page) weitergeleitet.
+Klicken Sie auf "Anmelden", um die eingegebenen Anmeldedaten zu überprüfen. Nach erfolgreichem Abschluss des Verifizierungsprozesses werden Benutzer auf die [Seite "Projekte"](https://support.catenda.com/de/articles/4670260-projects-page) weitergeleitet.
 
 ## 4. **MFA**
 

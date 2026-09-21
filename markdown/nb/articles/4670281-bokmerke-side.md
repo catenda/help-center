@@ -1,14 +1,14 @@
 # Bokmerke-side
 
-Du vil kunne finne bokmerker som en undermeny til [modelside](https://support.catenda.com/en/articles/4670286-models-page). Denne siden er en del av innholdspanelet. Når du spiller av et bokmerke, gjenopprettes situasjonen som var i 3D-visningen da bokmerket ble opprettet.
+Du vil kunne finne bokmerker som en undermeny til [modelside](https://support.catenda.com/nb/articles/4670286-models-page). Denne siden er en del av innholdspanelet. Når du spiller av et bokmerke, gjenopprettes situasjonen som var i 3D-visningen da bokmerket ble opprettet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0ve72xx4/01-intro.png)
 
-Hvis det er et bestemt sett med modeller som du åpner og arbeider med, kan det ofte ta tid å klikke 3D-knappen for hver modell. Selv om du velger riktige modeller på [modelside](https://support.catenda.com/en/articles/4670286-models-page) og deretter [åpner dem alle i 3D](https://support.catenda.com/en/articles/4670286-models-page#h_9447efb869), kan det være tidskrevende ettersom modellene ofte må finnes i en lang liste med modeller.
+Hvis det er et bestemt sett med modeller som du åpner og arbeider med, kan det ofte ta tid å klikke 3D-knappen for hver modell. Selv om du velger riktige modeller på [modelside](https://support.catenda.com/nb/articles/4670286-models-page) og deretter [åpner dem alle i 3D](https://support.catenda.com/nb/articles/4670286-models-page#h_9447efb869), kan det være tidskrevende ettersom modellene ofte må finnes i en lang liste med modeller.
 
 ## 1. **Toppknapper**
 
-Klikk denne knappen for å opprette et [nytt bokmerke](https://support.catenda.com/en/articles/4670269-creating-a-new-bookmark)
+Klikk denne knappen for å opprette et [nytt bokmerke](https://support.catenda.com/nb/articles/4670269-creating-a-new-bookmark)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0ve72xx4/02-top-buttons.png)
 
@@ -48,4 +48,4 @@ Når du holder musen over bildet, vil du se en avspillingsknapp vises. Hvis du k
 
 **Kopier til mine bokmerker** Hvis bokmerket har blitt delt med prosjektet av noen andre, vil du se et plusstegn øverst til venstre. Klikk denne knappen for å lage en privat kopi av dette bokmerket. Du vil vite at det har lyktes å lage en kopi når ikonet blir til en hake, og du ser en melding nederst på siden der du kan åpne kopien din. Du vil også kunne søke etter kopien din etter å ha oppdatert siden.
 
-**Merkte bokmerker** Hvis du eier bokmerket, vil du se at ikonet øverst til venstre har blitt til en stjerne. Når du klikker på denne stjernen, legges en gul stjerne til for dette bokmerket. Merkte bokmerker vises på [dashbordet](https://support.catenda.com/en/articles/8212646-dashboard-page#h_6785d4f10c) ditt.
+**Merkte bokmerker** Hvis du eier bokmerket, vil du se at ikonet øverst til venstre har blitt til en stjerne. Når du klikker på denne stjernen, legges en gul stjerne til for dette bokmerket. Merkte bokmerker vises på [dashbordet](https://support.catenda.com/nb/articles/8212646-dashboard-page#h_6785d4f10c) ditt.

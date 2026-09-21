@@ -1,6 +1,6 @@
 # Catenda Desktop Connector
 
-> **注意:** このアプリケーションのインストールファイルは[こちら](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)にあります
+> **注意:** このアプリケーションのインストールファイルは[こちら](https://support.catenda.com/ja/articles/8396532-catenda-plugins-and-integrations)にあります
 
 Catenda Desktop Connectorを使用すると、ドキュメントの最新バージョンのアップロードとダウンロードをスケジュール設定できます。
 

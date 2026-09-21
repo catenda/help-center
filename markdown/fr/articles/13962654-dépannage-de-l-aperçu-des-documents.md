@@ -18,7 +18,7 @@ Confirmez si le réseau cause le blocage, essayez de charger la plateforme ou l'
 
 ### 1.3 **1.3 Correctif permanent pour les administrateurs réseau**
 
-Pour résoudre ce problème de manière permanente, la configuration du réseau doit être mise à jour pour soutenir pleinement le trafic en arrière-plan de Catenda, y compris tous les sous-domaines et les ports requis. Cliquez [ici](https://support.catenda.com/en/articles/13927294-network-recommendation) pour en savoir plus sur les exigences de liste blanche et les spécifications des ports (y compris les configurations obligatoires du port 443 TCP/UDP).
+Pour résoudre ce problème de manière permanente, la configuration du réseau doit être mise à jour pour soutenir pleinement le trafic en arrière-plan de Catenda, y compris tous les sous-domaines et les ports requis. Cliquez [ici](https://support.catenda.com/fr/articles/13927294-network-recommendation) pour en savoir plus sur les exigences de liste blanche et les spécifications des ports (y compris les configurations obligatoires du port 443 TCP/UDP).
 
 ## 2. **2. Erreur lors du chargement du document (Délai d'expiration du délai)**
 

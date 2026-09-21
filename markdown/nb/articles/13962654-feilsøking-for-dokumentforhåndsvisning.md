@@ -18,7 +18,7 @@ Bekreft om nettverket forårsaker blokkeringen, prøv å laste plattformen eller
 
 ### 1.3 **1.3 Permanent løsning for nettverksadministratorer**
 
-For å løse dette problemet permanent må nettverkskonfigurasjonen oppdateres til fullt ut å støtte Catendas bakgrunnstrafikk, inkludert alle underdomener og påkrevde porter. Klikk [her](https://support.catenda.com/en/articles/13927294-network-recommendation) for å lese mer om hvitelisekrav og portspesifikasjoner (inkludert obligatoriske Port 443 TCP/UDP-konfigurasjoner).
+For å løse dette problemet permanent må nettverkskonfigurasjonen oppdateres til fullt ut å støtte Catendas bakgrunnstrafikk, inkludert alle underdomener og påkrevde porter. Klikk [her](https://support.catenda.com/nb/articles/13927294-network-recommendation) for å lese mer om hvitelisekrav og portspesifikasjoner (inkludert obligatoriske Port 443 TCP/UDP-konfigurasjoner).
 
 ## 2. **2. Feil ved lasting av dokument (Les tidsavbrudd)**
 

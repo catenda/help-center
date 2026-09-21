@@ -1,6 +1,6 @@
 # Desktop Connector - ikke alle mapper lastet ned
 
-I denne artikkelen finner du informasjon om en spesifikk feil som oppstår når du bruker [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector). Se [her](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) for andre feilsøkingsproblemer med Desktop Connector.
+I denne artikkelen finner du informasjon om en spesifikk feil som oppstår når du bruker [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector). Se [her](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) for andre feilsøkingsproblemer med Desktop Connector.
 
 I selve oppgaven kan du se følgende:
 

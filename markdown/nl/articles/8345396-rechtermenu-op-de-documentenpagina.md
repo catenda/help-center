@@ -22,11 +22,11 @@ _Vereiste toegang:_ schrijftoegang tot de map.
 
 ### 1.2 **Toegangscontrole**
 
-Lees [hier](https://support.catenda.com/en/articles/4670287-folders-and-documents-acl) voor meer informatie over toegangscontrole in de documentensectie.
+Lees [hier](https://support.catenda.com/nl/articles/4670287-folders-and-documents-acl) voor meer informatie over toegangscontrole in de documentensectie.
 
 ### 1.3 **Bundels**
 
-Als uw document deel uitmaakt van [bundels](https://support.catenda.com/en/articles/6344318-collections-page), worden deze hier weergegeven.
+Als uw document deel uitmaakt van [bundels](https://support.catenda.com/nl/articles/6344318-collections-page), worden deze hier weergegeven.
 
 ## 2. **Eén document**
 
@@ -34,7 +34,7 @@ Dit is hoe het rechtermenu eruit kan zien wanneer één document is geselecteerd
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/04-one-document.png)
 
-Wanneer u één document hebt geselecteerd, wordt informatie over de meest recente openbare revision in dat document weergegeven. Zie [hier](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision) voor welke informatie beschikbaar is.
+Wanneer u één document hebt geselecteerd, wordt informatie over de meest recente openbare revision in dat document weergegeven. Zie [hier](https://support.catenda.com/nl/articles/8302244-right-menu-of-a-revision) voor welke informatie beschikbaar is.
 
 ## 3. **Meerdere map(pen) en/of document(en)**
 
@@ -54,11 +54,11 @@ Met dit menu kunt u waarden voor meerdere map(pen) en/of document(en) tegelijk w
 
 ### 3.2 **Toegangscontrole**
 
-Met dit menu kunt u de toegang van meerdere map(pen) en/of document(en) tegelijk wijzigen. Lees [hier](https://support.catenda.com/en/articles/4670287-folders-and-documents-acl) voor meer informatie over toegangscontrole in de documentensectie.
+Met dit menu kunt u de toegang van meerdere map(pen) en/of document(en) tegelijk wijzigen. Lees [hier](https://support.catenda.com/nl/articles/4670287-folders-and-documents-acl) voor meer informatie over toegangscontrole in de documentensectie.
 
 ### 3.3 **Bundels**
 
-Als uw map(pen) en/of document(en) deel uitmaken van [bundels](https://support.catenda.com/en/articles/6344318-collections-page), worden deze hier weergegeven.
+Als uw map(pen) en/of document(en) deel uitmaken van [bundels](https://support.catenda.com/nl/articles/6344318-collections-page), worden deze hier weergegeven.
 
 ### 3.4 **Gekoppelde objecten**
 

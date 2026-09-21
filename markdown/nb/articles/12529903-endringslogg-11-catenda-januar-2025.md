@@ -6,7 +6,7 @@ takk skal dere ha for at dere er så aktive på plattformen vår i disse vinterm
 
 I denne artikkelen finner du oppdateringer om følgende:
 
-_[Artikler](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_a1a4085421) - [Feil](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_43a9641d96) - [Videoer](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_1ec3df5bf7) - [Brukerønsker](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_4c273d2715) - [Nye utgivelser](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_fea31925e9) - [Funksjonsstatuser](https://support.catenda.com/en/articles/11582902-changelog-10-catenda-october-2025#h_76a41f54f2)_
+_[Artikler](https://support.catenda.com/nb/articles/11582902-changelog-10-catenda-october-2025#h_a1a4085421) - [Feil](https://support.catenda.com/nb/articles/11582902-changelog-10-catenda-october-2025#h_43a9641d96) - [Videoer](https://support.catenda.com/nb/articles/11582902-changelog-10-catenda-october-2025#h_1ec3df5bf7) - [Brukerønsker](https://support.catenda.com/nb/articles/11582902-changelog-10-catenda-october-2025#h_4c273d2715) - [Nye utgivelser](https://support.catenda.com/nb/articles/11582902-changelog-10-catenda-october-2025#h_fea31925e9) - [Funksjonsstatuser](https://support.catenda.com/nb/articles/11582902-changelog-10-catenda-october-2025#h_76a41f54f2)_
 
 ## 1. **Artikler**
 
@@ -16,83 +16,83 @@ Når nye funksjoner lanseres og feil blir fikset, oppdateres artikler med endrin
 
 _Kontoadministrasjon_
 
-- [Kontoknapper](https://support.catenda.com/en/articles/4670260-account-buttons)
+- [Kontoknapper](https://support.catenda.com/nb/articles/4670260-account-buttons)
 
 _Feilsøking_
 
-- [Feilsøking for 3D-øyeblikksbilder](https://support.catenda.com/en/articles/12831346-3d-snapshots-troubleshooting)
-- [Feilsøking for dokumentinnstillinger](https://support.catenda.com/en/articles/12521958-document-settings-troubleshooting)
-- [Feilsøking for Navisworks-plugin](https://support.catenda.com/en/articles/12597294-navisworks-plugin-troubleshooting)
+- [Feilsøking for 3D-øyeblikksbilder](https://support.catenda.com/nb/articles/12831346-3d-snapshots-troubleshooting)
+- [Feilsøking for dokumentinnstillinger](https://support.catenda.com/nb/articles/12521958-document-settings-troubleshooting)
+- [Feilsøking for Navisworks-plugin](https://support.catenda.com/nb/articles/12597294-navisworks-plugin-troubleshooting)
 
 ### 1.2 **Artikler som har endret seg:**
 
 _Kontoadministrasjon_
 
 - Kontoinnstillinger
-    - [Varselfiltrering og funksjonalitet](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
-    - [Kontoside](https://support.catenda.com/en/articles/6880968-account-page)
+    - [Varselfiltrering og funksjonalitet](https://support.catenda.com/nb/articles/8304417-notification-filtering-and-functionality)
+    - [Kontoside](https://support.catenda.com/nb/articles/6880968-account-page)
 
 _Produktfunksjoner_
 
 - Dashbord
-    - [Dashbordside](https://support.catenda.com/en/articles/8212646-dashboard-page)
+    - [Dashbordside](https://support.catenda.com/nb/articles/8212646-dashboard-page)
 - Saker
-    - [Filtrering på sakssiden](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
-    - [Sakshandlinger](https://support.catenda.com/en/articles/4670284-topics-table-actions)
-    - [Eksportere saker til PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)
-    - [Sak header - Emnet for en sak](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic)
-    - [Bytt saker](https://support.catenda.com/en/articles/4670289-exchange-topics)
+    - [Filtrering på sakssiden](https://support.catenda.com/nb/articles/8370693-filtering-on-the-topics-page)
+    - [Sakshandlinger](https://support.catenda.com/nb/articles/4670284-topics-table-actions)
+    - [Eksportere saker til PDF](https://support.catenda.com/nb/articles/9784934-exporting-topics-to-pdf)
+    - [Sak header - Emnet for en sak](https://support.catenda.com/nb/articles/8400566-topic-header-the-subject-of-a-topic)
+    - [Bytt saker](https://support.catenda.com/nb/articles/4670289-exchange-topics)
 - Modeller
-    - [Revisjonsvelger](https://support.catenda.com/en/articles/4670279-revision-selector)
-    - [Filtrering på objektsiden](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
-    - [Filtrering på modelleringssiden](https://support.catenda.com/en/articles/12129622-filtering-on-the-models-page)
-    - [Høyremeny på modelleringssiden](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page)
-    - [Rulleplan rullegardin](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
-    - [Bokmerke innholdsside](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
+    - [Revisjonsvelger](https://support.catenda.com/nb/articles/4670279-revision-selector)
+    - [Filtrering på objektsiden](https://support.catenda.com/nb/articles/12353642-filtering-on-the-objects-page)
+    - [Filtrering på modelleringssiden](https://support.catenda.com/nb/articles/12129622-filtering-on-the-models-page)
+    - [Høyremeny på modelleringssiden](https://support.catenda.com/nb/articles/9673735-right-menu-on-the-models-page)
+    - [Rulleplan rullegardin](https://support.catenda.com/nb/articles/4670327-sliding-plane-dropdown)
+    - [Bokmerke innholdsside](https://support.catenda.com/nb/articles/8471481-bookmark-contents-page)
 - Dokumenter
-    - [Side med dokumenttilgangsoverikt](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
-    - [Filtrering på dokumentsiden](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
-    - [Mapper og dokumenttilgangskontroll](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
-    - [Opprett en ny arbeitsflyt](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
-    - [Workflowside - Dokumentinnstillinger](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
-    - [Verktøy for dokumentforhåndsvisning](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-    - [Last opp en zip/filstruktur](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
-    - [Filtrering på samlingsside](https://support.catenda.com/en/articles/8999945-filtering-on-the-collections-page)
-    - [Filtrering på gjennomgangssiden](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
-    - [Filtrering på gjennomgangssiden - Eldre versjon](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
+    - [Side med dokumenttilgangsoverikt](https://support.catenda.com/nb/articles/6660820-document-access-overview-page)
+    - [Filtrering på dokumentsiden](https://support.catenda.com/nb/articles/4670283-filtering-on-the-documents-page)
+    - [Mapper og dokumenttilgangskontroll](https://support.catenda.com/nb/articles/4670287-folders-and-documents-access-control)
+    - [Opprett en ny arbeitsflyt](https://support.catenda.com/nb/articles/12313251-creating-a-new-workflow)
+    - [Workflowside - Dokumentinnstillinger](https://support.catenda.com/nb/articles/12309903-workflows-page-document-settings)
+    - [Verktøy for dokumentforhåndsvisning](https://support.catenda.com/nb/articles/11384618-document-preview-tools)
+    - [Last opp en zip/filstruktur](https://support.catenda.com/nb/articles/7945410-upload-a-zip-file-structure)
+    - [Filtrering på samlingsside](https://support.catenda.com/nb/articles/8999945-filtering-on-the-collections-page)
+    - [Filtrering på gjennomgangssiden](https://support.catenda.com/nb/articles/12495060-filtering-on-the-approvals-page)
+    - [Filtrering på gjennomgangssiden - Eldre versjon](https://support.catenda.com/nb/articles/8551740-filtering-on-the-approvals-page-legacy)
 - Innstillinger
-    - [Filtrering på medlemmer- og teamsiden](https://support.catenda.com/en/articles/11744242-filtering-on-the-members-and-teams-page)
+    - [Filtrering på medlemmer- og teamsiden](https://support.catenda.com/nb/articles/11744242-filtering-on-the-members-and-teams-page)
 - 2D og 3D-visere
-    - [3D-viser](https://support.catenda.com/en/articles/8227211-3d-viewer)
-    - [2D-viser](https://support.catenda.com/en/articles/4854537-2d-viewer)
+    - [3D-viser](https://support.catenda.com/nb/articles/8227211-3d-viewer)
+    - [2D-viser](https://support.catenda.com/nb/articles/4854537-2d-viewer)
 - Catenda-plugins og integrasjoner
-    - [Manuell for Revit IFC-eksport](https://support.catenda.com/en/articles/4670341-revit-ifc-export-manual)
-    - [Manuell for IFC-eksport fra Archicad](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
-    - [Catenda Navisworks-plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
-    - [Catenda Archicad-plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
-    - [Catenda Revit-plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
-    - [Catenda Power BI-kobling](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector)
-    - [Catenda Desktop-kobling](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
-    - [Catenda Tekla-plugin](https://support.catenda.com/en/articles/6549656-catenda-tekla-plugin)
-    - [Feilsøking for Desktop-kobling](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting)
+    - [Manuell for Revit IFC-eksport](https://support.catenda.com/nb/articles/4670341-revit-ifc-export-manual)
+    - [Manuell for IFC-eksport fra Archicad](https://support.catenda.com/nb/articles/4670338-ifc-export-archicad-manual)
+    - [Catenda Navisworks-plugin](https://support.catenda.com/nb/articles/5085987-catenda-navisworks-plugin)
+    - [Catenda Archicad-plugin](https://support.catenda.com/nb/articles/5519276-catenda-archicad-plugin)
+    - [Catenda Revit-plugin](https://support.catenda.com/nb/articles/4670334-catenda-revit-plugin)
+    - [Catenda Power BI-kobling](https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector)
+    - [Catenda Desktop-kobling](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector)
+    - [Catenda Tekla-plugin](https://support.catenda.com/nb/articles/6549656-catenda-tekla-plugin)
+    - [Feilsøking for Desktop-kobling](https://support.catenda.com/nb/articles/11019637-desktop-connector-troubleshooting)
 
 _Feilsøking_
 
-- [Feilsøking for Zip-opplasting](https://support.catenda.com/en/articles/11017391-zip-upload-troubleshooting)
+- [Feilsøking for Zip-opplasting](https://support.catenda.com/nb/articles/11017391-zip-upload-troubleshooting)
 
 _Brukseksempler_
 
 - Gjennomganger
-    - [Dokumentvurdering i gjennomgangsflyten](https://support.catenda.com/en/articles/12628468-document-review-in-approval-workflow)
-    - [Send inn og håndter gjennomganger: Guide for tegner](https://support.catenda.com/en/articles/12627979-submit-manage-approvals-guide-for-drafters)
-    - [Endelige gjennomgangsbeslutninger gjort enkelt](https://support.catenda.com/en/articles/12629484-final-approval-decisions-made-easy)
-    - [Håndtering av gjennomganger som administrator](https://support.catenda.com/en/articles/12620829-managing-approvals-as-administrator)
+    - [Dokumentvurdering i gjennomgangsflyten](https://support.catenda.com/nb/articles/12628468-document-review-in-approval-workflow)
+    - [Send inn og håndter gjennomganger: Guide for tegner](https://support.catenda.com/nb/articles/12627979-submit-manage-approvals-guide-for-drafters)
+    - [Endelige gjennomgangsbeslutninger gjort enkelt](https://support.catenda.com/nb/articles/12629484-final-approval-decisions-made-easy)
+    - [Håndtering av gjennomganger som administrator](https://support.catenda.com/nb/articles/12620829-managing-approvals-as-administrator)
 
 _Ofte stilte spørsmål_
 
-- [Strukturering av dokumenter](https://support.catenda.com/en/articles/8542598-structuring-documents)
-- [Eksporter alle prosjektdata](https://support.catenda.com/en/articles/7946690-exporting-all-project-data)
-- [Hvilken filstørrelse kan jeg laste opp?](https://support.catenda.com/en/articles/4670324-what-file-size-can-i-upload)
+- [Strukturering av dokumenter](https://support.catenda.com/nb/articles/8542598-structuring-documents)
+- [Eksporter alle prosjektdata](https://support.catenda.com/nb/articles/7946690-exporting-all-project-data)
+- [Hvilken filstørrelse kan jeg laste opp?](https://support.catenda.com/nb/articles/4670324-what-file-size-can-i-upload)
 
 ## 2. **Feil løst**
 

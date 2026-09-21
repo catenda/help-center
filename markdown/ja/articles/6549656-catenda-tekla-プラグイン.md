@@ -2,7 +2,7 @@
 
 > Catenda Hub と Tekla を接続
 
-> **注意:** プラグインのインストール ファイルは、[このナレッジベース記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)で確認できます。
+> **注意:** プラグインのインストール ファイルは、[このナレッジベース記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-plugins-and-integrations)で確認できます。
 
 ## 1. **インストール**
 
@@ -36,7 +36,7 @@ Tekla には Catenda Hub 専用のビューがあり、このビューを使用�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/03-getting-started.png)
 
-Catenda Hub の Web アプリケーション上の Catenda Hub [アカウント ページ](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a)に移動することで、いつでも Catenda Hub アカウントへのアクセスを取り消すことができます。
+Catenda Hub の Web アプリケーション上の Catenda Hub [アカウント ページ](https://support.catenda.com/ja/articles/6880968-account-page#h_40e031c49a)に移動することで、いつでも Catenda Hub アカウントへのアクセスを取り消すことができます。
 
 ## 4. **トピック一覧**
 

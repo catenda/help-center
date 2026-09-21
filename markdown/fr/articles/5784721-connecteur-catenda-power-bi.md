@@ -1,6 +1,6 @@
 # Connecteur Catenda Power BI
 
-> **Remarque :** Le fichier d'installation de cette application se trouve [ici](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
+> **Remarque :** Le fichier d'installation de cette application se trouve [ici](https://support.catenda.com/fr/articles/8396532-catenda-plugins-and-integrations)
 
 Dans cet article, nous expliquerons comment la base de données Catenda HUB peut être liée à PowerBI. En établissant un lien, vous pouvez accéder directement aux données de Catenda HUB dans PowerBI. Ces données peuvent ensuite être utilisées pour évaluer les tâches, les Documents ou, par exemple, les Membres.
 
@@ -30,7 +30,7 @@ Sélectionnez la source cible sous Autre --> Catenda. Utilisez "_Connecter_" pou
 
 ## 3. **Charger les données**
 
-Un navigateur s'ouvre dans lequel tous les projets auxquels vous avez accès sont répertoriés. Sélectionnez le projet correspondant et la table à lier. Dans notre exemple, nous aimerions évaluer les [Sujets](https://support.catenda.com/en/articles/4670271-topics-page) dans PowerBI. Cliquez sur "_Charger_" pour charger l'ensemble de données.
+Un navigateur s'ouvre dans lequel tous les projets auxquels vous avez accès sont répertoriés. Sélectionnez le projet correspondant et la table à lier. Dans notre exemple, nous aimerions évaluer les [Sujets](https://support.catenda.com/fr/articles/4670271-topics-page) dans PowerBI. Cliquez sur "_Charger_" pour charger l'ensemble de données.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/03-load-data.png)
 

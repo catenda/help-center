@@ -38,7 +38,7 @@ Das Inhalts-Panel kann die folgenden Hauptseiten enthalten:
 
 Dashboard Modelle Themen Dokumente Bibliotheken Berichte Benachrichtigungen Einstellungen
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/8212646-dashboard-page), um mehr über das Inhalts-Panel zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8212646-dashboard-page), um mehr über das Inhalts-Panel zu erfahren.
 
 ## 3. **Modell-Viewer-Panel**
 
@@ -50,7 +50,7 @@ Das Modell-Viewer-Panel kann die folgenden Hauptseiten enthalten:
 
 3D-Viewer-Tools 2D-Viewer
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/8227211-3d-viewer), um mehr über das 3D-Panel zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8227211-3d-viewer), um mehr über das 3D-Panel zu erfahren.
 
 ## 4. **Modellbaum-Panel**
 
@@ -62,7 +62,7 @@ Das Baum-Panel kann die folgenden Hauptseiten enthalten:
 
 Containment-Baum Komponenten-Baum Typ-Baum Ebenen-Baum System-Baum
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/4670290-trees-panel), um mehr über das Baum-Panel zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/4670290-trees-panel), um mehr über das Baum-Panel zu erfahren.
 
 ## 5. **Modell-Infos-Panel**
 
@@ -74,4 +74,4 @@ Das Inspect-Panel kann die folgenden Hauptseiten enthalten:
 
 Inspect QTO (Quantity Take-Off) 4D-Auswahl Messen
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/4670285-inspect-menu), um mehr über das Inhalts-Panel zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/4670285-inspect-menu), um mehr über das Inhalts-Panel zu erfahren.

@@ -1,8 +1,8 @@
 # Wie kann ich ein Mitglied einladen?
 
-Sie können neue Mitglieder zum Projekt auf der Seite [Mitglieder einladen](https://support.catenda.com/en/articles/4670263-invite-members-page) hinzufügen.
+Sie können neue Mitglieder zum Projekt auf der Seite [Mitglieder einladen](https://support.catenda.com/de/articles/4670263-invite-members-page) hinzufügen.
 
-_Erforderlicher Zugriff:_ Zugriff auf [neue Mitglieder einladen](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) auf der Seite Projekteinstellungen.
+_Erforderlicher Zugriff:_ Zugriff auf [neue Mitglieder einladen](https://support.catenda.com/de/articles/4670273-project-settings-page#h_f82a1850f3) auf der Seite Projekteinstellungen.
 
 Führen Sie die folgenden Schritte aus, um ein neues Mitglied einzuladen.
 
@@ -28,4 +28,4 @@ _Erforderlicher Zugriff:_ Projektadministrator
 
 8\. Einladung senden
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/4670263-invite-members-page), um mehr über die Seite "Mitglieder einladen" zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/4670263-invite-members-page), um mehr über die Seite "Mitglieder einladen" zu erfahren.

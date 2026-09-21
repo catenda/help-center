@@ -1,6 +1,6 @@
 # Prosjektsside - Organisasjonsverktøy
 
-Du finner prosjektsiden som en underside til din [organisasjonsprofilside](https://support.catenda.com/en/articles/8497478-organization-profile-page).
+Du finner prosjektsiden som en underside til din [organisasjonsprofilside](https://support.catenda.com/nb/articles/8497478-organization-profile-page).
 
 Her vil du se en oversikt over alle prosjektene som er en del av denne organisasjonen.
 
@@ -64,7 +64,7 @@ Slett de valgte prosjekt(ene)
 
 I prosjektlisten vil du kunne finne følgende kolonner som du kan sortere i stigende og synkende rekkefølge.
 
-Sorteringsrekkefølgen for prosjektlisten følger [sorteringsrekkefølgen for lister](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) rundt Catenda.
+Sorteringsrekkefølgen for prosjektlisten følger [sorteringsrekkefølgen for lister](https://support.catenda.com/nb/articles/8487788-sorting-order-of-lists) rundt Catenda.
 
 Klikk på avhukingsboksen øverst til venstre i listen for å velge alle prosjekter.
 

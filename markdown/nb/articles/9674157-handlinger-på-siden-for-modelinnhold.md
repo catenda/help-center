@@ -4,7 +4,7 @@ Avhengig av tilgangen din kan du se ulike handlinger for den gjeldende modellen 
 
 ## 1. **Modelhandlinger**
 
-Avhengig av modellvalg og tilgangsinnstillinger du har, kan du finne ulike handlingsknapper øverst til høyre på [modeloversiktssiden](https://support.catenda.com/en/articles/4670270-model-overview-page#h_c10dbce6c8). Alle handlingsknapper vises i handlingsmenyer som kan se slik ut:
+Avhengig av modellvalg og tilgangsinnstillinger du har, kan du finne ulike handlingsknapper øverst til høyre på [modeloversiktssiden](https://support.catenda.com/nb/articles/4670270-model-overview-page#h_c10dbce6c8). Alle handlingsknapper vises i handlingsmenyer som kan se slik ut:
 
 ![mceclip0.png](https://raw.githubusercontent.com/catenda/help-center/main/images/5t44cpcq/01-model-actions.png)
 
@@ -22,7 +22,7 @@ Klikk på handlingen for ny revisjon eller dra en fil til modelinnholdslisten fo
 
 ### 1.3 **Eksporter**
 
-Dette tar deg til [modelleksportsiden](https://support.catenda.com/en/articles/4670280-model-export)
+Dette tar deg til [modelleksportsiden](https://support.catenda.com/nb/articles/4670280-model-export)
 
 ### 1.4 **Fjern**
 
@@ -44,7 +44,7 @@ Klikk på handlingen for nedlasting for å laste ned denne revisjonen
 
 ### 2.2 Publiser
 
-Hvis delte revisjoner er aktivert i [statusarbeidsflytmenyen](https://support.catenda.com/en/articles/12495583-status-workflow-document-settings) for dokumentinnstillinger i prosjektet, starter enhver ny revisjon som opprettes som en delt revisjon som senere kan publiseres.
+Hvis delte revisjoner er aktivert i [statusarbeidsflytmenyen](https://support.catenda.com/nb/articles/12495583-status-workflow-document-settings) for dokumentinnstillinger i prosjektet, starter enhver ny revisjon som opprettes som en delt revisjon som senere kan publiseres.
 
 Delte revisjoner vil ha et mindre revisjonsnummer. (0.1, 0.2, 1.1, osv...) Handlingen for publisering kan være tilgjengelig for delte revisjoner i modellen. Bare delte revisjoner etter den siste publiserte revisjonen kan publiseres. Publiserte revisjoner vil ha et større revisjonsnummer. (1.0, 2.0, 3.0 osv...) _Tilgang påkrevd:_ Kan publisere i innstillinger for dokumentmodelltilgang
 

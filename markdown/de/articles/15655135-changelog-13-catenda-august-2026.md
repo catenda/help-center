@@ -18,54 +18,54 @@ Wenn neue Funktionen bereitgestellt werden und Fehler behoben werden, werden die
 
 **Produktfunktionen**
 
-- [Wie Zugriffsebenen berechnet werden](https://support.catenda.com/en/articles/15644094-how-access-levels-are-calculated)
-- [Anwendungsfälle für die Zugriffskontrollbereitstellung](https://support.catenda.com/en/articles/15644249-access-control-deployment-use-cases)
-- [Operationen auf Dokumentbibliothekselementen](https://support.catenda.com/en/articles/15647394-operations-on-document-library-items)
-- [Erstellen eines neuen Modellexports](https://support.catenda.com/en/articles/15481038-creating-a-new-model-export)
-- [Modellexport-Inhaltsseite](https://support.catenda.com/en/articles/15480883-model-export-content-page)
+- [Wie Zugriffsebenen berechnet werden](https://support.catenda.com/de/articles/15644094-how-access-levels-are-calculated)
+- [Anwendungsfälle für die Zugriffskontrollbereitstellung](https://support.catenda.com/de/articles/15644249-access-control-deployment-use-cases)
+- [Operationen auf Dokumentbibliothekselementen](https://support.catenda.com/de/articles/15647394-operations-on-document-library-items)
+- [Erstellen eines neuen Modellexports](https://support.catenda.com/de/articles/15481038-creating-a-new-model-export)
+- [Modellexport-Inhaltsseite](https://support.catenda.com/de/articles/15480883-model-export-content-page)
 
 **Anwendungsfälle**
 
-- [Anwendungsfälle für die Revisionsnamengebung](https://support.catenda.com/en/articles/15886912-revision-naming-use-cases)
-- [Revisionsblöcke in Namenskonventionen](https://support.catenda.com/en/articles/15886483-revision-blocks-in-naming-conventions)
+- [Anwendungsfälle für die Revisionsnamengebung](https://support.catenda.com/de/articles/15886912-revision-naming-use-cases)
+- [Revisionsblöcke in Namenskonventionen](https://support.catenda.com/de/articles/15886483-revision-blocks-in-naming-conventions)
 
 **Fehlerbehebung**
 
-- [Fehlerbehebung bei der Dokumentvorschau](https://support.catenda.com/en/articles/13962654-document-preview-troubleshooting)
-- [Fehlerbehebung bei der Approval-Dateivorschau](https://support.catenda.com/en/articles/15286207-approval-file-review-troubleshooting)
-- [Fehlerbehebung bei Revisionskonventionen](https://support.catenda.com/en/articles/15886850-revision-convention-troubleshooting)
+- [Fehlerbehebung bei der Dokumentvorschau](https://support.catenda.com/de/articles/13962654-document-preview-troubleshooting)
+- [Fehlerbehebung bei der Approval-Dateivorschau](https://support.catenda.com/de/articles/15286207-approval-file-review-troubleshooting)
+- [Fehlerbehebung bei Revisionskonventionen](https://support.catenda.com/de/articles/15886850-revision-convention-troubleshooting)
 
 ### 1.2 **Geänderte Artikel:**
 
 **Kontoverwaltung**
 
-- [Ein Team erstellen](https://support.catenda.com/en/articles/4670264-creating-a-team)
-- [Organisationstypen](https://support.catenda.com/en/articles/13653807-organization-types)
-- [Anmeldung und Passwörter](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords)
+- [Ein Team erstellen](https://support.catenda.com/de/articles/4670264-creating-a-team)
+- [Organisationstypen](https://support.catenda.com/de/articles/13653807-organization-types)
+- [Anmeldung und Passwörter](https://support.catenda.com/de/articles/10798891-sign-in-and-passwords)
 
 **Produktfunktionen**
 
-- [Zusammenfassung der wichtigsten Tastenkombinationen und grundlegenden Steuerelemente](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
-- [Topic-Text - Der Inhalt eines Topics](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
-- [Zugriffskontrolle für Ordner und Dokumente](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
-- [Dokumentvorschau-Werkzeuge](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-- [Modellexport-Seite](https://support.catenda.com/en/articles/4670280-model-export-page)
-- [Topic-Board-Zugriffskontrolle](https://support.catenda.com/en/articles/4670296-topic-board-access-control)
-- [Inhaltsseite für benutzerdefinierte Felder](https://support.catenda.com/en/articles/8445588-custom-field-contents-page)
-- [Messung zu verschobenen Ebenen](https://support.catenda.com/en/articles/4670298-measuring-to-sliding-planes)
-- [Dropdown für verschobene Ebenen](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown)
-- [Aktionen im Catenda Revit-Plugin](https://support.catenda.com/en/articles/13168755-actions-in-the-catenda-revit-plugin)
-- [Rechtes Menü in einem Topic-Board](https://support.catenda.com/en/articles/6941224-right-menu-in-a-topic-board)
-- [Appearance des 2D-Viewers](https://support.catenda.com/en/articles/13615984-2d-viewer-appearance)
-- [2D-Position von Topics](https://support.catenda.com/en/articles/4854523-2d-location-of-topics)
-- [2D-Position von Topics - Catenda Site](https://support.catenda.com/en/articles/13616245-2d-location-of-topics-catenda-site)
-- [2D-Viewer - Catenda Site](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site)
+- [Zusammenfassung der wichtigsten Tastenkombinationen und grundlegenden Steuerelemente](https://support.catenda.com/de/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
+- [Topic-Text - Der Inhalt eines Topics](https://support.catenda.com/de/articles/8053352-topic-body-the-content-of-a-topic)
+- [Zugriffskontrolle für Ordner und Dokumente](https://support.catenda.com/de/articles/4670287-folders-and-documents-access-control)
+- [Dokumentvorschau-Werkzeuge](https://support.catenda.com/de/articles/11384618-document-preview-tools)
+- [Modellexport-Seite](https://support.catenda.com/de/articles/4670280-model-export-page)
+- [Topic-Board-Zugriffskontrolle](https://support.catenda.com/de/articles/4670296-topic-board-access-control)
+- [Inhaltsseite für benutzerdefinierte Felder](https://support.catenda.com/de/articles/8445588-custom-field-contents-page)
+- [Messung zu verschobenen Ebenen](https://support.catenda.com/de/articles/4670298-measuring-to-sliding-planes)
+- [Dropdown für verschobene Ebenen](https://support.catenda.com/de/articles/4670327-sliding-plane-dropdown)
+- [Aktionen im Catenda Revit-Plugin](https://support.catenda.com/de/articles/13168755-actions-in-the-catenda-revit-plugin)
+- [Rechtes Menü in einem Topic-Board](https://support.catenda.com/de/articles/6941224-right-menu-in-a-topic-board)
+- [Appearance des 2D-Viewers](https://support.catenda.com/de/articles/13615984-2d-viewer-appearance)
+- [2D-Position von Topics](https://support.catenda.com/de/articles/4854523-2d-location-of-topics)
+- [2D-Position von Topics - Catenda Site](https://support.catenda.com/de/articles/13616245-2d-location-of-topics-catenda-site)
+- [2D-Viewer - Catenda Site](https://support.catenda.com/de/articles/7748370-2d-viewer-catenda-site)
 
 **Fehlerbehebung**
 
-- [Fehlerbehebung beim Hochladen von Dokumenten](https://support.catenda.com/en/articles/11070748-upload-document-dialogue-troubleshooting)
-- [Fehlerbehebung für Catenda Revit-Plugin](https://support.catenda.com/en/articles/14301534-catenda-revit-plugin-troubleshooting)
-- [Anmeldung und Passwörter](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords)
+- [Fehlerbehebung beim Hochladen von Dokumenten](https://support.catenda.com/de/articles/11070748-upload-document-dialogue-troubleshooting)
+- [Fehlerbehebung für Catenda Revit-Plugin](https://support.catenda.com/de/articles/14301534-catenda-revit-plugin-troubleshooting)
+- [Anmeldung und Passwörter](https://support.catenda.com/de/articles/10798891-sign-in-and-passwords)
 
 ## 2. **Neue Tutorial-Videos**
 

@@ -4,7 +4,7 @@ Er zijn verschillende locaties op Catenda waar u wordt gevraagd om een wachtwoor
 
 ## 1. **Inloggen**
 
-Op de [inlogpagina](https://support.catenda.com/en/articles/7891486-sign-in-page) wordt u gevraagd uw wachtwoord in te voeren. Dezelfde inlogpagina wordt gebruikt zowel bij inloggen via de browser als bij inloggen om toegang tot uw account via de API te geven, wat u doet met veel van onze plugins. Tijdens dit proces kunnen de volgende uitdagingen ontstaan:
+Op de [inlogpagina](https://support.catenda.com/nl/articles/7891486-sign-in-page) wordt u gevraagd uw wachtwoord in te voeren. Dezelfde inlogpagina wordt gebruikt zowel bij inloggen via de browser als bij inloggen om toegang tot uw account via de API te geven, wat u doet met veel van onze plugins. Tijdens dit proces kunnen de volgende uitdagingen ontstaan:
 
 ### 1.1 **Foutieve gebruikersnaam of wachtwoord**
 
@@ -54,7 +54,7 @@ Zorg er bij het tweede keer invoeren van uw nieuwe wachtwoord voor ter bevestigi
 
 ### 2.4 **Oud wachtwoord niet geldig**
 
-Als u kunt inloggen, kunt u naar de [accountauthenticatiepagina](https://support.catenda.com/en/articles/6880968-account-page) gaan om uw wachtwoord opnieuw in te stellen. Hier wordt u eerst gevraagd naar uw oude wachtwoord. Dit is het wachtwoord dat u hebt gebruikt om in te loggen op uw account. Als u het juiste wachtwoord niet invoert, ziet u het volgende bericht:
+Als u kunt inloggen, kunt u naar de [accountauthenticatiepagina](https://support.catenda.com/nl/articles/6880968-account-page) gaan om uw wachtwoord opnieuw in te stellen. Hier wordt u eerst gevraagd naar uw oude wachtwoord. Dit is het wachtwoord dat u hebt gebruikt om in te loggen op uw account. Als u het juiste wachtwoord niet invoert, ziet u het volgende bericht:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zw9p4shp/06-old-password-not-valid.png)
 

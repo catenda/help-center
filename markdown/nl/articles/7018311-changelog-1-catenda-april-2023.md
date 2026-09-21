@@ -4,28 +4,28 @@
 
 **Nieuwe artikelen:**
 
-[Systeemvereisten en optimalisatie](https://intercom.help/bimsync-arena/en/articles/6921941-system-requirements-and-optimization)
+[Systeemvereisten en optimalisatie](https://intercom.help/bimsync-arena/nl/articles/6921941-system-requirements-and-optimization)
 
-[Solibri-modellen en Documenten-integratie](https://intercom.help/bimsync-arena/en/articles/6988148-solibri-models-and-documents-integration)
+[Solibri-modellen en Documenten-integratie](https://intercom.help/bimsync-arena/nl/articles/6988148-solibri-models-and-documents-integration)
 
-[2D-overlay](https://intercom.help/bimsync-arena/en/articles/6921756-2d-overlay)
+[2D-overlay](https://intercom.help/bimsync-arena/nl/articles/6921756-2d-overlay)
 
-[Accountinstellingen](https://intercom.help/bimsync-arena/en/articles/6880968-account-settings)
+[Accountinstellingen](https://intercom.help/bimsync-arena/nl/articles/6880968-account-settings)
 
-[Kolommen vergroten/verkleinen](https://intercom.help/bimsync-arena/en/articles/6887350-resizing-of-columns) [IFC-ondersteuning in Documenten](https://intercom.help/bimsync-arena/en/articles/5658031-ifc-support-in-documents) [Wat is nieuw in Catenda Hub?](https://intercom.help/bimsync-arena/en/articles/7150907-what-s-new-in-catenda-hub) [Wat is nieuw in Catenda Site?](https://intercom.help/bimsync-arena/en/articles/7161448-what-s-new-in-catenda-site)
+[Kolommen vergroten/verkleinen](https://intercom.help/bimsync-arena/nl/articles/6887350-resizing-of-columns) [IFC-ondersteuning in Documenten](https://intercom.help/bimsync-arena/nl/articles/5658031-ifc-support-in-documents) [Wat is nieuw in Catenda Hub?](https://intercom.help/bimsync-arena/nl/articles/7150907-what-s-new-in-catenda-hub) [Wat is nieuw in Catenda Site?](https://intercom.help/bimsync-arena/nl/articles/7161448-what-s-new-in-catenda-site)
 
 <a class="intercom-content-link" href="" target="_blank">Projectinstellingen</a>
-[Tabelweergave in een issue board](https://support.catenda.com/en/articles/6941099-table-view-in-an-issue-board)
+[Tabelweergave in een issue board](https://support.catenda.com/nl/articles/6941099-table-view-in-an-issue-board)
 
-[Lijstweergave in een issue board](https://support.catenda.com/en/articles/6941232-list-view-in-an-issue-board)
+[Lijstweergave in een issue board](https://support.catenda.com/nl/articles/6941232-list-view-in-an-issue-board)
 
 **Artikelen die zijn gewijzigd:**
 
-[3D Viewer-instellingen](https://intercom.help/bimsync-arena/en/articles/5784718-3d-viewer-settings)
+[3D Viewer-instellingen](https://intercom.help/bimsync-arena/nl/articles/5784718-3d-viewer-settings)
 
-[Document goedkeuren](https://support.catenda.com/en/articles/5784717-document-approval)
+[Document goedkeuren](https://support.catenda.com/nl/articles/5784717-document-approval)
 
-[Multi-Factor Authentication](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
+[Multi-Factor Authentication](https://support.catenda.com/nl/articles/4969891-multi-factor-authentication)
 
 ## 2. Opgeloste problemen
 

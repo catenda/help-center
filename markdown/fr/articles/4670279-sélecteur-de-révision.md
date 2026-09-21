@@ -1,6 +1,6 @@
 # Sélecteur de révision
 
-Le sélecteur de révision est un menu déroulant qui se trouve en haut à gauche de l'écran dans le panneau [Visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer).
+Le sélecteur de révision est un menu déroulant qui se trouve en haut à gauche de l'écran dans le panneau [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/01-intro.png)
 
@@ -30,17 +30,17 @@ Une correspondance partielle de 3 caractères romains ou plus peut être trouvé
 
 **Correspondance après séparateur** Après un séparateur, la règle des trois caractères est réinitialisée et seuls trois caractères ou plus après un séparateur peuvent être mis en correspondance. La règle des trois caractères est réinitialisée après chaque séparateur. Les séparateurs peuvent être des caractères comme les traits de soulignement "`_`" ou les tirets "`-`".
 
-**Panneau de contenu** Pour affiner votre recherche, envisagez de rechercher dans le panneau de contenu. Vous pouvez filtrer sur plus d'informations que simplement le nom du modèle. Dans le panneau de contenu, tous les documents 3D qui ont été liés à un modèle se trouvent sur la [page des modèles](https://support.catenda.com/en/articles/4670286-models-page). Les documents 3D qui n'ont pas été liés à un document se trouvent sur la [page des documents](https://support.catenda.com/en/articles/8204673-documents-page).
+**Panneau de contenu** Pour affiner votre recherche, envisagez de rechercher dans le panneau de contenu. Vous pouvez filtrer sur plus d'informations que simplement le nom du modèle. Dans le panneau de contenu, tous les documents 3D qui ont été liés à un modèle se trouvent sur la [page des modèles](https://support.catenda.com/fr/articles/4670286-models-page). Les documents 3D qui n'ont pas été liés à un document se trouvent sur la [page des documents](https://support.catenda.com/fr/articles/8204673-documents-page).
 
 ### 1.2 **Liste des documents 3D**
 
-Consultez les 10 documents 3D les plus pertinents. La liste des documents 3D est triée selon l'[ordre de tri typique des listes sur Catenda](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists).
+Consultez les 10 documents 3D les plus pertinents. La liste des documents 3D est triée selon l'[ordre de tri typique des listes sur Catenda](https://support.catenda.com/fr/articles/8487788-sorting-order-of-lists).
 
-_Modèles -_ Affichés par défaut Voir tous les [documents Ifc](https://support.catenda.com/en/articles/5658031-ifc-support-in-documents) qui ont été liés à un modèle. Votre liste des modèles disponibles est basée sur le paramètre d'accès du document lié à ce modèle.
+_Modèles -_ Affichés par défaut Voir tous les [documents Ifc](https://support.catenda.com/fr/articles/5658031-ifc-support-in-documents) qui ont été liés à un modèle. Votre liste des modèles disponibles est basée sur le paramètre d'accès du document lié à ce modèle.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/05-3d-document-list.png)
 
-_Documents 3D -_ Affichés lors du chargement Chargez les documents 3D à partir de la page des documents pour les afficher vers le haut de la liste. Consultez [ici](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c) les formats de documents qui peuvent être chargés dans la visionneuse 3D.
+_Documents 3D -_ Affichés lors du chargement Chargez les documents 3D à partir de la page des documents pour les afficher vers le haut de la liste. Consultez [ici](https://support.catenda.com/fr/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c) les formats de documents qui peuvent être chargés dans la visionneuse 3D.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/06-3d-document-list.png)
 
@@ -50,11 +50,11 @@ _Charger plus_ Pour charger plus de modèles, cliquez sur le bouton charger plus
 
 ### 1.3 **Bouton 2D**
 
-Lorsque le bouton 2D est vert, la vue 2D de ce modèle est visible dans la [visionneuse 2D](https://support.catenda.com/en/articles/4854537-2d-viewer) et chargée en mémoire. Lorsque le bouton est gris, la vue 2D de ce modèle ne sera pas visible et ne sera pas chargée en mémoire.
+Lorsque le bouton 2D est vert, la vue 2D de ce modèle est visible dans la [visionneuse 2D](https://support.catenda.com/fr/articles/4854537-2d-viewer) et chargée en mémoire. Lorsque le bouton est gris, la vue 2D de ce modèle ne sera pas visible et ne sera pas chargée en mémoire.
 
 ### 1.4 **Bouton 3D**
 
-Lorsque le bouton 3D est cliqué, il devient vert. La vue 3D de ce document sera alors disponible dans la [visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer) et chargée en mémoire. Tant que le bouton 3D est vert, les objets du modèle qui appartiennent à ce modèle seront disponibles dans la visionneuse 3D.
+Lorsque le bouton 3D est cliqué, il devient vert. La vue 3D de ce document sera alors disponible dans la [visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer) et chargée en mémoire. Tant que le bouton 3D est vert, les objets du modèle qui appartiennent à ce modèle seront disponibles dans la visionneuse 3D.
 
 > **Remarque :** Disponible ne signifie pas visible car les objets peuvent être masqués et rester disponibles.
 
@@ -84,7 +84,7 @@ L'icône de chaque type de fichier de document 3D. Disponible uniquement pour le
 
 ### 1.8 **Nom**
 
-Pour les modèles, le nom du modèle s'affiche. Pour les documents, le nom du document s'affiche. La liste des documents suit l'[ordre de tri général des listes](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) dans Catenda.
+Pour les modèles, le nom du modèle s'affiche. Pour les documents, le nom du document s'affiche. La liste des documents suit l'[ordre de tri général des listes](https://support.catenda.com/fr/articles/8487788-sorting-order-of-lists) dans Catenda.
 
 ### 1.9 **Révision du model**
 
@@ -124,7 +124,7 @@ Les nuages de points peuvent être configurés dans le sélecteur de révision e
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/14-point-cloud-settings.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/5606625-point-clouds-in-catenda-hub) pour en savoir plus sur les différentes façons de configurer la visionneuse 3D pour visualiser les nuages de points.
+Cliquez [ici](https://support.catenda.com/fr/articles/5606625-point-clouds-in-catenda-hub) pour en savoir plus sur les différentes façons de configurer la visionneuse 3D pour visualiser les nuages de points.
 
 ### 1.11 **Décharger le document**
 
@@ -140,13 +140,13 @@ Il n'est possible de charger les modèles dans la visionneuse 3D que depuis un m
 
 ## 2. **Requêtes**
 
-Limitez les objets que vous chargez dans la visionneuse 3D avec les requêtes d'objets. Cela vous permet d'économiser de la mémoire lors du chargement de centaines de modèles à la fois et de garder l'arborescence des objets rangée. Cliquez [ici](https://support.catenda.com/en/articles/4854514-queries#h_b7e8a9a086) pour en savoir plus sur les requêtes.
+Limitez les objets que vous chargez dans la visionneuse 3D avec les requêtes d'objets. Cela vous permet d'économiser de la mémoire lors du chargement de centaines de modèles à la fois et de garder l'arborescence des objets rangée. Cliquez [ici](https://support.catenda.com/fr/articles/4854514-queries#h_b7e8a9a086) pour en savoir plus sur les requêtes.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/17-queries.png)
 
 ## 3. **Comparer**
 
-Avec le menu de comparaison, deux révisions de modèle peuvent être sélectionnées pour être superposées. Cliquez [ici](https://support.catenda.com/en/articles/4670313-revision-selector-short-video) pour regarder une courte vidéo sur la façon de comparer les révisions des modèles.
+Avec le menu de comparaison, deux révisions de modèle peuvent être sélectionnées pour être superposées. Cliquez [ici](https://support.catenda.com/fr/articles/4670313-revision-selector-short-video) pour regarder une courte vidéo sur la façon de comparer les révisions des modèles.
 
 Voici à quoi le menu Comparer peut ressembler :
 

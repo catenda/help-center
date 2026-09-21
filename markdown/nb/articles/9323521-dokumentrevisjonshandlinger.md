@@ -1,6 +1,6 @@
 # Dokumentrevisjonshandlinger
 
-Avhengig av tilgangen din kan du se ulike handlinger for dokumentet ditt og dets revisjoner på [dokumentrevisjonsforhåndsvisningssiden](https://support.catenda.com/en/articles/8461918-document-banner-navigation).
+Avhengig av tilgangen din kan du se ulike handlinger for dokumentet ditt og dets revisjoner på [dokumentrevisjonsforhåndsvisningssiden](https://support.catenda.com/nb/articles/8461918-document-banner-navigation).
 
 ## 1. **Dokumenthandlinger**
 
@@ -12,30 +12,30 @@ Handlingsmenyen til høyre for ikonene kan se slik ut:
 
 Nedlastingsikonet og hamburgermenyhandlingen på en dokumentside laster ned den nyeste revisjonen av dokumentet. Selv om du ser på en tidligere revisjon, får du den nyeste revisjonen med denne handlingen.
 
-Hvis du vil laste ned tidligere revisjoner av et dokument, kan du gjøre det i [revisjonsmenyen](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document#h_d0769e55eb) til [høyre informasjonsmeny](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document).
+Hvis du vil laste ned tidligere revisjoner av et dokument, kan du gjøre det i [revisjonsmenyen](https://support.catenda.com/nb/articles/8302244-right-menu-in-a-document#h_d0769e55eb) til [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8302244-right-menu-in-a-document).
 
 ### 1.2 Samme handling som i dokumentlisten
 
 Handlinger som har samme oppførsel som i dokumentlisten inkluderer:
 
-- [Ny revisjon](https://support.catenda.com/en/articles/4670293-uploading-new-document-revision)
-- [Link og koble fra](https://support.catenda.com/en/articles/4670288-actions-documents#h_d9a539f267)
-- [Nytt utkast](https://support.catenda.com/en/articles/4670288-actions-documents#h_fb8963d8e5)
-- [Flytt](https://support.catenda.com/en/articles/4670288-actions-documents#h_f80b6a94f2)
-- [Opprett modell](https://support.catenda.com/en/articles/4670288-actions-documents#h_33d57b9d3d)
-- [Fjern modell](https://support.catenda.com/en/articles/4670288-actions-documents#h_33d57b9d3d)
-- [Forhåndsvisning](https://support.catenda.com/en/articles/4670288-actions-documents#h_02cfc15b02)
-- [Slett](https://support.catenda.com/en/articles/4670288-actions-documents#h_fbf2be74c3)
+- [Ny revisjon](https://support.catenda.com/nb/articles/4670293-uploading-new-document-revision)
+- [Link og koble fra](https://support.catenda.com/nb/articles/4670288-actions-documents#h_d9a539f267)
+- [Nytt utkast](https://support.catenda.com/nb/articles/4670288-actions-documents#h_fb8963d8e5)
+- [Flytt](https://support.catenda.com/nb/articles/4670288-actions-documents#h_f80b6a94f2)
+- [Opprett modell](https://support.catenda.com/nb/articles/4670288-actions-documents#h_33d57b9d3d)
+- [Fjern modell](https://support.catenda.com/nb/articles/4670288-actions-documents#h_33d57b9d3d)
+- [Forhåndsvisning](https://support.catenda.com/nb/articles/4670288-actions-documents#h_02cfc15b02)
+- [Slett](https://support.catenda.com/nb/articles/4670288-actions-documents#h_fbf2be74c3)
 
 ## 2. **Dokumentrevisjonshandlinger**
 
-Handlinger for din nåværende revisjon finnes i [høyre meny for en revisjon](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision). Slik kan revisjonshandlingene se ut:
+Handlinger for din nåværende revisjon finnes i [høyre meny for en revisjon](https://support.catenda.com/nb/articles/8302244-right-menu-of-a-revision). Slik kan revisjonshandlingene se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/nxq3vptz/02-document-revision-actions.png)
 
 ### 2.1 **Sammenlign**
 
-Hvis du har flere pdf-revisjoner i et dokument, vil du kunne se handlingen [PDF-sammenligning](https://support.catenda.com/en/articles/8461650-pdf-compare). Klikk [her](https://support.catenda.com/en/articles/8461650-pdf-compare) for å lese mer om pdf-sammenligning.
+Hvis du har flere pdf-revisjoner i et dokument, vil du kunne se handlingen [PDF-sammenligning](https://support.catenda.com/nb/articles/8461650-pdf-compare). Klikk [her](https://support.catenda.com/nb/articles/8461650-pdf-compare) for å lese mer om pdf-sammenligning.
 
 ### 2.2 **Publiser**
 
@@ -49,4 +49,4 @@ Klikk nedlastingsikonet i øverst til høyre på revisjonsmenyen eller last ned 
 
 ### 2.4 **Trekk tilbake revisjon**
 
-Se mer om å trekke tilbake revisjoner [her](https://support.catenda.com/en/articles/9711174-withdraw-revision) _Tilgang påkrevd:_ Full tilgang til dokumentet
+Se mer om å trekke tilbake revisjoner [her](https://support.catenda.com/nb/articles/9711174-withdraw-revision) _Tilgang påkrevd:_ Full tilgang til dokumentet

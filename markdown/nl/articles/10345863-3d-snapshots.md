@@ -2,13 +2,13 @@
 
 Snapshots beschrijven een plaats en moment in 3D. Ze kunnen worden gebruikt om mensen te laten zien wat u bekijkt, zodat zij dezelfde weergaven kunnen recreëren, niet alleen in Catenda Hub maar ook in hun omgeving. Snapshots kunnen worden gerecreëerd door ze af te spelen in zowel Catenda Hub als in onze plug-ins.
 
-Dit is hoe een Snapshot eruit kan zien in het [commentaar van een topic](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) of in een [Opgeslagen view](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e). <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-5a151da0b11e.png" width="272.72727272727275"/> Het topic kan een aantekening boven de afbeelding hebben en de knoppen zien er anders uit. Hoewel Snapshots op verschillende manieren worden gebruikt in topic-opmerkingen en Opgeslagen views, is hun functionaliteit hetzelfde.
+Dit is hoe een Snapshot eruit kan zien in het [commentaar van een topic](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) of in een [Opgeslagen view](https://support.catenda.com/nl/articles/8471481-bookmark#h_5c9944a45e). <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-5a151da0b11e.png" width="272.72727272727275"/> Het topic kan een aantekening boven de afbeelding hebben en de knoppen zien er anders uit. Hoewel Snapshots op verschillende manieren worden gebruikt in topic-opmerkingen en Opgeslagen views, is hun functionaliteit hetzelfde.
 
 ## 1. **Snapshot-afbeelding**
 
 ### 1.1 **Snapshot-afbeelding in opmerking over onderwerp**
 
-Als u ergens op de afbeelding van een snapshot-opmerking klikt, wordt de afbeelding [uitgebreid weergegeven](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8), zodat u de inhoud in een groter formaat kunt zien en deze kunt downloaden nadat deze is ingediend. Na het maken van de snapshot en voordat u deze aan het onderwerp toevoegt, kunt u er aantekeningen aan toevoegen.
+Als u ergens op de afbeelding van een snapshot-opmerking klikt, wordt de afbeelding [uitgebreid weergegeven](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8), zodat u de inhoud in een groter formaat kunt zien en deze kunt downloaden nadat deze is ingediend. Na het maken van de snapshot en voordat u deze aan het onderwerp toevoegt, kunt u er aantekeningen aan toevoegen.
 
 ### 1.2 **Snapshot-afbeelding in opgeslagen view**
 
@@ -20,7 +20,7 @@ De grootte van de afbeelding die is bijgevoegd, is afhankelijk van de grootte va
 
 Snapshots zijn de beste manier om afbeeldingen of renderings van hoge kwaliteit te maken vanuit de Catenda Hub-viewer om de volgende redenen:
 
-- Snapshot-afbeeldingen kunnen worden gedownload uit de [bijlage pop-out](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) in een opmerking over een onderwerp.
+- Snapshot-afbeeldingen kunnen worden gedownload uit de [bijlage pop-out](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) in een opmerking over een onderwerp.
 - Snapshot-afbeeldingen kunnen hogere resoluties hebben dan alleen een schermafbeelding van de viewer.
 
 De grootste afbeelding die we tot nu toe hebben zien genereren, was 6417x11113 pixels. Om een snapshot van deze grootte te maken, zijn de volgende instellingen gebruikt:
@@ -54,7 +54,7 @@ Als minder dan de helft van de objecten in een model zichtbaar zijn, worden obje
 
 Geïsoleerd Alleen de objecten die waren geïsoleerd toen de snapshot werd gemaakt, worden geïsoleerd. Objecten met nieuwe ID's worden weergegeven, maar niet gemarkeerd.
 
-**Selecties** Als [selecties](https://support.catenda.com/en/articles/8238584-information-panel#h_d713a0abb1) zijn aangebracht in het [informatievenster](https://support.catenda.com/en/articles/8238584-information-panel), worden deze onthouden wanneer het weergavepunt wordt afgespeeld. Dit maakt het gemakkelijk om verschillende sets objecten te selecteren. Dit biedt u ook de mogelijkheid om een set objecten een andere kleur te geven dan de standaardkleur van de objecten wanneer u deze normaal opent vanuit de modelsectie.
+**Selecties** Als [selecties](https://support.catenda.com/nl/articles/8238584-information-panel#h_d713a0abb1) zijn aangebracht in het [informatievenster](https://support.catenda.com/nl/articles/8238584-information-panel), worden deze onthouden wanneer het weergavepunt wordt afgespeeld. Dit maakt het gemakkelijk om verschillende sets objecten te selecteren. Dit biedt u ook de mogelijkheid om een set objecten een andere kleur te geven dan de standaardkleur van de objecten wanneer u deze normaal opent vanuit de modelsectie.
 
 _Knop Objecten selecteren_ In een opmerking over een onderwerp ziet u een pictogram dat weergeeft hoeveel objecten zijn geconfigureerd om in een snapshot te worden geselecteerd.
 
@@ -68,23 +68,23 @@ Snijvlakken die in de snapshot zijn geconfigureerd, zijn actief wanneer de snaps
 
 ### 2.3 **Revisieselector**
 
-Welke 2D- en 3D-weergaven zijn in- of uitgeschakeld in de [revisieselector](https://support.catenda.com/en/articles/8227211-3d-viewer#h_6c32b713c9). Instellingen voor puntenwolk worden gereproduceerd.
+Welke 2D- en 3D-weergaven zijn in- of uitgeschakeld in de [revisieselector](https://support.catenda.com/nl/articles/8227211-3d-viewer#h_6c32b713c9). Instellingen voor puntenwolk worden gereproduceerd.
 
 ### 2.4 **Rasterkeuzelijst**
 
-Rasters die zijn ingeschakeld in de [rasterkeuzelijst](https://support.catenda.com/en/articles/8227211-3d-viewer#h_b735587e69) worden weergegeven.
+Rasters die zijn ingeschakeld in de [rasterkeuzelijst](https://support.catenda.com/nl/articles/8227211-3d-viewer#h_b735587e69) worden weergegeven.
 
 ### 2.5 **Zichtbaarheidskeuzelijst**
 
-Opties die zijn geconfigureerd met de [zichtbaarheidskeuzelijst](https://support.catenda.com/en/articles/8227211-3d-viewer#h_376dfb4859) worden gereproduceerd.
+Opties die zijn geconfigureerd met de [zichtbaarheidskeuzelijst](https://support.catenda.com/nl/articles/8227211-3d-viewer#h_376dfb4859) worden gereproduceerd.
 
 ### 2.6 **Camera-opties**
 
-De camera in de 3D-viewer wordt verplaatst naar de locatie en kijkhoek die in de snapshot zijn ingesteld. Het cameratype dat is ingesteld in de [camera-opties](https://support.catenda.com/en/articles/8227211-3d-viewer#h_02072804a5) wordt gereproduceerd. De schaduwopties die zijn ingesteld in de [camera-opties](https://support.catenda.com/en/articles/8227211-3d-viewer#h_02072804a5) worden gereproduceerd.
+De camera in de 3D-viewer wordt verplaatst naar de locatie en kijkhoek die in de snapshot zijn ingesteld. Het cameratype dat is ingesteld in de [camera-opties](https://support.catenda.com/nl/articles/8227211-3d-viewer#h_02072804a5) wordt gereproduceerd. De schaduwopties die zijn ingesteld in de [camera-opties](https://support.catenda.com/nl/articles/8227211-3d-viewer#h_02072804a5) worden gereproduceerd.
 
 ### 2.7 **3D-instellingen**
 
-Instellingen zoals gezichtsveld of incrementeel renderen die zijn ingesteld in de [3D-instellingen](https://support.catenda.com/en/articles/5784718-3d-viewer-settings) worden gereproduceerd.
+Instellingen zoals gezichtsveld of incrementeel renderen die zijn ingesteld in de [3D-instellingen](https://support.catenda.com/nl/articles/5784718-3d-viewer-settings) worden gereproduceerd.
 
 ## 3. **Snapshot opnieuw maken**
 
@@ -111,7 +111,7 @@ Zowel gepubliceerde als gedeelde versies van modellen en documenten worden met d
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/02-copying-and-favoriting-snapshots.png)
 
-Als deze opgeslagen view door een ander lid is aangemaakt, ziet u een +. Hiermee kunt u uw eigen kopie van de opgeslagen view maken die u kunt bewerken en erop filteren. Als u deze opgeslagen view al hebt gekopieerd, wordt deze knop grijs weergegeven en kunt u uw versie [hieronder](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e) openen. Door een opgeslagen view te kopiëren, kunt u bijhouden welke opgeslagen view u hebt gekopieerd.
+Als deze opgeslagen view door een ander lid is aangemaakt, ziet u een +. Hiermee kunt u uw eigen kopie van de opgeslagen view maken die u kunt bewerken en erop filteren. Als u deze opgeslagen view al hebt gekopieerd, wordt deze knop grijs weergegeven en kunt u uw versie [hieronder](https://support.catenda.com/nl/articles/8471481-bookmark#h_5c9944a45e) openen. Door een opgeslagen view te kopiëren, kunt u bijhouden welke opgeslagen view u hebt gekopieerd.
 
 **Opgeslagen view als favoriet markeren**
 
@@ -179,7 +179,7 @@ Leden met leestoegang tot het onderwerpenbord kunnen de snapshot zien. Het PDF-e
 
 ### 7.2 **Opgeslagen views delen**
 
-De [deelconfiguratie](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e) voor de opgeslagen view
+De [deelconfiguratie](https://support.catenda.com/nl/articles/8471481-bookmark#h_5c9944a45e) voor de opgeslagen view
 
 ### 7.3 **Privé**
 
@@ -197,7 +197,7 @@ _Zichtbaarheid van opgeslagen view:_ Alle projectleden, kunnen met externe perso
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/10-public-link-to-bookmark.png)
 
-Als voor deze opgeslagen view een [openbare koppeling](https://support.catenda.com/en/articles/8471481-bookmark#h_b148931acf) is ingeschakeld, kunt u op deze knop klikken om de openbare koppeling op een nieuw tabblad te openen.
+Als voor deze opgeslagen view een [openbare koppeling](https://support.catenda.com/nl/articles/8471481-bookmark#h_b148931acf) is ingeschakeld, kunt u op deze knop klikken om de openbare koppeling op een nieuw tabblad te openen.
 
 ## 9. **Een snapshot verwijderen**
 

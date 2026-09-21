@@ -4,11 +4,11 @@ Wanneer u naar [hub.catenda.com/signup](http://hub.catenda.com/signup) gaat, kri
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/thng6w36/01-intro.png)
 
-Als u een account maakt, bent u niet automatisch onderdeel van een project. Om deel te nemen aan het project van iemand anders, moet u een [uitnodigingslink](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project) accepteren. Als u een uitnodigingslink hebt gevolgd en werd gevraagd om een account aan te maken, accepteert dat nieuwe account de uitnodiging automatisch.
+Als u een account maakt, bent u niet automatisch onderdeel van een project. Om deel te nemen aan het project van iemand anders, moet u een [uitnodigingslink](https://support.catenda.com/nl/articles/4670246-accepting-an-invitation-to-join-a-project) accepteren. Als u een uitnodigingslink hebt gevolgd en werd gevraagd om een account aan te maken, accepteert dat nieuwe account de uitnodiging automatisch.
 
 ## 1. **Stap 1 van 4 - Een gratis account aanmaken**
 
-Hier kunt u uw e-mailadres en wachtwoord invoeren om u aan te melden voor een gratis account. Na succesvol inloggen wordt u omgeleid naar de [projectenpagina](https://support.catenda.com/en/articles/4670260-projects-page).
+Hier kunt u uw e-mailadres en wachtwoord invoeren om u aan te melden voor een gratis account. Na succesvol inloggen wordt u omgeleid naar de [projectenpagina](https://support.catenda.com/nl/articles/4670260-projects-page).
 
 ### 1.1 **Bestaand account**
 
@@ -20,7 +20,7 @@ De [pagina voor e-mailverificatie](https://hub.catenda.com/signup/verify-email) 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/thng6w36/02-step-2-of-4-verify-your-email.png)
 
-Nadat u uw e-mail bij ons hebt geregistreerd, zenden wij u een e-mail om te verifiëren dat uw e-mailadres bestaat en e-mails van ons kan ontvangen. Zonder uw e-mail te verifiëren ontvangt u alleen e-mails met openbare Koppelingen van ons, zoals projectuitnodigingen en openbaar gedeelde verzamelingen of Opgeslagen views. Verifieer uw e-mailadres om andere Notificaties te ontvangen. Als u de verificatie-e-mail niet ontvangt, raadpleegt u [dit](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) artikel voor mogelijke redenen waarom de verificatie-e-mail niet aankomt en hoe u dit kunt oplossen.
+Nadat u uw e-mail bij ons hebt geregistreerd, zenden wij u een e-mail om te verifiëren dat uw e-mailadres bestaat en e-mails van ons kan ontvangen. Zonder uw e-mail te verifiëren ontvangt u alleen e-mails met openbare Koppelingen van ons, zoals projectuitnodigingen en openbaar gedeelde verzamelingen of Opgeslagen views. Verifieer uw e-mailadres om andere Notificaties te ontvangen. Als u de verificatie-e-mail niet ontvangt, raadpleegt u [dit](https://support.catenda.com/nl/articles/8417802-why-am-i-not-receiving-emails) artikel voor mogelijke redenen waarom de verificatie-e-mail niet aankomt en hoe u dit kunt oplossen.
 
 ### 2.1 **Verificatielink**
 
@@ -38,11 +38,11 @@ Als een account met dit e-mailadres al in ons systeem bestaat, wordt u omgeleid 
 
 ### 3.1 **Voor- en achternaam**
 
-Vul de voor- en achternaamvelden in. Uw gebruikersnaam is uw voornaam en uw achternaam gescheiden door een spatie. U kunt uw gebruikersnaam later wijzigen in [accountvoorkeuren](https://support.catenda.com/en/articles/6880968-account-page).
+Vul de voor- en achternaamvelden in. Uw gebruikersnaam is uw voornaam en uw achternaam gescheiden door een spatie. U kunt uw gebruikersnaam later wijzigen in [accountvoorkeuren](https://support.catenda.com/nl/articles/6880968-account-page).
 
 ### 3.2 **Wachtwoord en wachtwoordbevestiging**
 
-Wachtwoord- en bevestigingswachtwoordvelden. U kunt uw wachtwoord later wijzigen in [verificatie-instellingen](https://support.catenda.com/en/articles/6880968-account-page). Klik [hier](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) voor probleemoplossing met wachtwoorden.
+Wachtwoord- en bevestigingswachtwoordvelden. U kunt uw wachtwoord later wijzigen in [verificatie-instellingen](https://support.catenda.com/nl/articles/6880968-account-page). Klik [hier](https://support.catenda.com/nl/articles/10798891-sign-in-and-passwords) voor probleemoplossing met wachtwoorden.
 
 ### 3.3 **Service voorwaarden**
 
@@ -76,4 +76,4 @@ Na het invullen van de vragenlijst ziet u dat de knop Doorgaan met een groene vu
 
 > **Opmerking:** De opties in de vragenlijst hebben geen invloed op uw Catenda-ervaring.
 
-Klik op de knop "Doorgaan" om naar de [projectenpagina](https://support.catenda.com/en/articles/8400797-projects-page) te gaan.
+Klik op de knop "Doorgaan" om naar de [projectenpagina](https://support.catenda.com/nl/articles/8400797-projects-page) te gaan.

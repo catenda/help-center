@@ -45,7 +45,7 @@ I [preferanser](https://bimsync.com/account/preferences) er det mulig å:
 
 ### 2.1 **Språk**
 
-[Endre språket](https://support.catenda.com/en/articles/4670248-changing-to-your-preferred-language) til Catenda Hub
+[Endre språket](https://support.catenda.com/nb/articles/4670248-changing-to-your-preferred-language) til Catenda Hub
 
 ### 2.2 **Dato og tid**
 
@@ -57,9 +57,9 @@ I [autentisering](https://bimsync.com/account/authentication) er det mulig å:
 
 1. Endre passordet ditt
 
-   Klikk [her](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) for feilsøking av passord
+   Klikk [her](https://support.catenda.com/nb/articles/10798891-sign-in-and-passwords) for feilsøking av passord
 
-2. [Aktiver og deaktiver MFA.](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
+2. [Aktiver og deaktiver MFA.](https://support.catenda.com/nb/articles/4969891-multi-factor-authentication)
 
 ![Kontroller hvordan du logger inn](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/07-authentication.png)
 
@@ -83,6 +83,6 @@ Hver API-applikasjon er forbundet med en Catenda-konto. Konfigurasjonen av appli
 
 ### 4.2 **Applikasjoner med tilgang til kontoen din**
 
-Applikasjoner som har fått tilgang til kontoen vises. Klikk [her](https://support.catenda.com/en/articles/8396532-catenda-connections) for å se hvilke applikasjoner som kan kobles til.
+Applikasjoner som har fått tilgang til kontoen vises. Klikk [her](https://support.catenda.com/nb/articles/8396532-catenda-connections) for å se hvilke applikasjoner som kan kobles til.
 
 **Tilbakekall tilgang** Klikk på tilbakekall tilgang for å tilbakekalle tilgangen som ble gitt til den applikasjonen. Etter dette må tilgangen gis igjen for å fortsette å bruke den applikasjonen med denne kontoen. Avhengig av applikasjonen kan den spørre brukeren om å gi tilgang igjen eller den kan gi en feil og ikke spørre om ny tilgang. Det å logge ut og inn igjen tilbakestiller ofte koblingen i dette tilfellet.

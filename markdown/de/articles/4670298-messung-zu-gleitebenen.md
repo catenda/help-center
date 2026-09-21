@@ -10,7 +10,7 @@ Befolgen Sie diese Schritte, um mit der Messung zu Gleitebenen zu beginnen.
 
 ### 1.1 **Gleitebenen in der Vorschau anzeigen**
 
-Gleitebenen, die gemessen werden können, werden in den IFC-Modellen definiert, die im Projekt verfügbar sind. Falls Modelle mit Gleitebenen verfügbar sind, wird die [Gleitebenen-Dropdown](https://support.catenda.com/en/articles/4670327-sliding-plane-dropdown) oben rechts des [3D-Viewers](https://support.catenda.com/en/articles/8227211-3d-viewer) angezeigt und kann etwa so aussehen:
+Gleitebenen, die gemessen werden können, werden in den IFC-Modellen definiert, die im Projekt verfügbar sind. Falls Modelle mit Gleitebenen verfügbar sind, wird die [Gleitebenen-Dropdown](https://support.catenda.com/de/articles/4670327-sliding-plane-dropdown) oben rechts des [3D-Viewers](https://support.catenda.com/de/articles/8227211-3d-viewer) angezeigt und kann etwa so aussehen:
 
 ![Dropdown für Gleitebenen im 3D-Viewer](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/02-previewing-sliding-planes.png)
 
@@ -26,7 +26,7 @@ Genaue Messungen sind wichtig, um Missverständnisse im Projekt zu vermeiden. Es
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/04-recommended-settings-for-measuring.png)
 
-Da Gleitebenenlinien dünne Anmerkungslinien und Text enthalten, die in einer 3D-Umgebung oft anfällig für sauberes Rendering sind, werden die folgenden [3D-Viewer-Einstellungen](https://support.catenda.com/en/articles/5784718-3d-viewer-settings#h_16d759320b) empfohlen, um die Messerfahrung bestmöglich zu gestalten.
+Da Gleitebenenlinien dünne Anmerkungslinien und Text enthalten, die in einer 3D-Umgebung oft anfällig für sauberes Rendering sind, werden die folgenden [3D-Viewer-Einstellungen](https://support.catenda.com/de/articles/5784718-3d-viewer-settings#h_16d759320b) empfohlen, um die Messerfahrung bestmöglich zu gestalten.
 
 **3D-Viewer-Einstellungen – Anzeigequalität** Standardqualität wird empfohlen, da hochwertige Qualität das Verhältnis von Pixeln, die von Catenda angezeigt werden, zu sichtbaren Pixeln auf dem Bildschirm ändert, was sich negativ auf genaue Messungen auswirken kann.
 
@@ -36,7 +36,7 @@ Da Gleitebenenlinien dünne Anmerkungslinien und Text enthalten, die in einer 3D
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ygqcyt9v/05-recommended-settings-for-measuring.png)
 
-**Empfehlung für Anwendungssoftware** Unabhängig davon, welche [Zoomstufe](https://support.catenda.com/en/articles/13927149-application-software-recommendation?q=3d+v) im Browser für die Messung im 3D-Viewer konfiguriert ist, wird empfohlen, die Zoomstufe des Browsers während der Messung nicht zu ändern, da dies die Genauigkeit der Messung beeinträchtigen kann. Stellen Sie den Browser auf die bevorzugte Zoomstufe ein und achten Sie darauf, die Seite nach jeder Zoomstufen-Änderung zu aktualisieren, auch wenn die Zoomstufen-Änderung auf einem anderen Tab durchgeführt wurde oder auf den ursprünglichen Wert zurückgeändert wurde.
+**Empfehlung für Anwendungssoftware** Unabhängig davon, welche [Zoomstufe](https://support.catenda.com/de/articles/13927149-application-software-recommendation?q=3d+v) im Browser für die Messung im 3D-Viewer konfiguriert ist, wird empfohlen, die Zoomstufe des Browsers während der Messung nicht zu ändern, da dies die Genauigkeit der Messung beeinträchtigen kann. Stellen Sie den Browser auf die bevorzugte Zoomstufe ein und achten Sie darauf, die Seite nach jeder Zoomstufen-Änderung zu aktualisieren, auch wenn die Zoomstufen-Änderung auf einem anderen Tab durchgeführt wurde oder auf den ursprünglichen Wert zurückgeändert wurde.
 
 ## 2. **Messung zu Gleitebenen-Anmerkungslinien**
 

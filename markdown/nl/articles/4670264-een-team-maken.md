@@ -2,7 +2,7 @@
 
 In een bouwproject kunnen teams waardevol zijn omdat mensen vaak komen en gaan, rollen veranderen of verschillende werkgroepen verlaten. Het opzetten van teams kan miscommunicatie voorkomen nadat een rolverandering in het project heeft plaatsgevonden.
 
-Maak een team aan door het actiemenu aan de rechterkant van de groene plus-knop op de [leden- en teamspagina](https://support.catenda.com/en/articles/4670291-members-and-teams-page) te openen, ongeacht welk tabblad is geselecteerd.
+Maak een team aan door het actiemenu aan de rechterkant van de groene plus-knop op de [leden- en teamspagina](https://support.catenda.com/nl/articles/4670291-members-and-teams-page) te openen, ongeacht welk tabblad is geselecteerd.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/01-intro.png)
 
@@ -44,4 +44,4 @@ _Lid_ - Standaard hebben leden standaard lees- en schrijftoegang tot de meeste f
 
 ### 2.3 **Aanmaken**
 
-Wanneer het team is aangemaakt, wordt de [teaminhoudspagina](https://support.catenda.com/en/articles/7891755-team-page) geopend. Van daaruit kunnen leden aan het team worden toegevoegd.
+Wanneer het team is aangemaakt, wordt de [teaminhoudspagina](https://support.catenda.com/nl/articles/7891755-team-page) geopend. Van daaruit kunnen leden aan het team worden toegevoegd.

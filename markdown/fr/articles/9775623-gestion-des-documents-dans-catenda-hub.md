@@ -22,7 +22,7 @@ Voici une comparaison des avantages et des inconvénients de ces 2 variantes :
 
 ## 1. **Exemple de structure de dossiers**
 
-Vous pourrez trouver de bonnes suggestions sur la création d'une structure de dossiers dans [cet article](https://support.catenda.com/en/articles/8542598-structuring-documents). Vous pouvez également trouver un exemple de structure de dossiers utilisé par la Direction de la Construction de l'État en Bavière au [lien](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) suivant. Les structures de dossiers peuvent être mises en place de manière très différente. D'une part, cela dépend des exigences du projet et de l'équipe de projet associée, et d'autre part, la structure des dossiers dépend de la clé de plan utilisée.
+Vous pourrez trouver de bonnes suggestions sur la création d'une structure de dossiers dans [cet article](https://support.catenda.com/fr/articles/8542598-structuring-documents). Vous pouvez également trouver un exemple de structure de dossiers utilisé par la Direction de la Construction de l'État en Bavière au [lien](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) suivant. Les structures de dossiers peuvent être mises en place de manière très différente. D'une part, cela dépend des exigences du projet et de l'équipe de projet associée, et d'autre part, la structure des dossiers dépend de la clé de plan utilisée.
 
 ### 1.1 **Exemple -** Séparation des structures par phase
 

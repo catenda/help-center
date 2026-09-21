@@ -2,7 +2,7 @@
 
 > Een algemeen onderwerpssjabloon toepassen bij het maken van een onderwerp
 
-Algemene onderwerpssjablonen kunnen worden geconfigureerd op de [pagina met instellingen voor onderwerpssjablonen](https://support.catenda.com/en/articles/14076010-topic-template-settings-page). _Vereiste toegang:_ Projectbeheerder
+Algemene onderwerpssjablonen kunnen worden geconfigureerd op de [pagina met instellingen voor onderwerpssjablonen](https://support.catenda.com/nl/articles/14076010-topic-template-settings-page). _Vereiste toegang:_ Projectbeheerder
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/01-intro.png)
 
@@ -14,7 +14,7 @@ Algemene onderwerpssjablonen kunnen worden geconfigureerd op de [pagina met inst
 
     <div class="intercom-container intercom-align-center"><img height="549" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-b8fa9d6ab8dc.png" style="height: auto;" width="500"/></div>
 
-4. Selecteer de juiste sjabloon die u wilt gebruiken. <br>Zodra u de juiste sjabloon selecteert, wordt het nieuwe onderwerp automatisch ingevuld met alle velden die in de bijbehorende instellingen voor onderwerpssjablonen waren ingesteld, toegankelijk via de [pagina met instellingen voor onderwerpssjablonen](https://support.catenda.com/en/articles/14076010-topic-template-settings-page).<br>
+4. Selecteer de juiste sjabloon die u wilt gebruiken. <br>Zodra u de juiste sjabloon selecteert, wordt het nieuwe onderwerp automatisch ingevuld met alle velden die in de bijbehorende instellingen voor onderwerpssjablonen waren ingesteld, toegankelijk via de [pagina met instellingen voor onderwerpssjablonen](https://support.catenda.com/nl/articles/14076010-topic-template-settings-page).<br>
 
     <div class="intercom-container intercom-align-center"><img height="731" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-23a75554e46a.png" style="height: auto;" width="500"/></div>
 

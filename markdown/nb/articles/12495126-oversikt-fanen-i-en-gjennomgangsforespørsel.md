@@ -1,6 +1,6 @@
 # Oversikt-fanen i en gjennomgangsforespørsel
 
-Oversikt-fanen for en gjennomgangsforespørsel finner du på gjennomgangsforespørselssiden for [åpne eller lukkede](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page) gjennomganger. I oversikt-fanen finner du en oversikt over et valgt gjennomgangsvaluering-trinn. I trinnet kan du se valideringene som er angitt og sendt inn av et medlem på vegne av hvert innsendings-team som er konfigurert til å vurdere trinnet. For en oversikt over innsendte valideringer for alle trinnene, se [dokumenter-fanen](https://support.catenda.com/en/articles/8349418-approval-page#h_133b2690af).
+Oversikt-fanen for en gjennomgangsforespørsel finner du på gjennomgangsforespørselssiden for [åpne eller lukkede](https://support.catenda.com/nb/articles/12494960-open-or-closed-approval-request-page) gjennomganger. I oversikt-fanen finner du en oversikt over et valgt gjennomgangsvaluering-trinn. I trinnet kan du se valideringene som er angitt og sendt inn av et medlem på vegne av hvert innsendings-team som er konfigurert til å vurdere trinnet. For en oversikt over innsendte valideringer for alle trinnene, se [dokumenter-fanen](https://support.catenda.com/nb/articles/8349418-approval-page#h_133b2690af).
 
 > **Merknad:** **Utseende og funksjonalitet –** Slik kan oversikt-fanen i gjennomgangsinnholdet se ut for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025:
 
@@ -12,7 +12,7 @@ I trinn-båndet kan du se en forhåndsvisning av fremdriften for gjennomgangsfor
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/02-approval-request-step-ribbon.png)
 
-Klikk [her](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-approval-request) for å lese mer om trinn-båndet
+Klikk [her](https://support.catenda.com/nb/articles/12495212-step-ribbon-in-an-approval-request) for å lese mer om trinn-båndet
 
 ## 2. Gjennomgangsforespørsel-trinn rullegardin
 
@@ -76,7 +76,7 @@ Resultatet av gjennomgangen vises under trinn-oversikten:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/09-approval-request-result.png)
 
-Klikk [her](https://support.catenda.com/en/articles/12520773-approvals-troubleshooting) for å lese mer om hvorfor publisering av dokumenter kan mislykkes.
+Klikk [her](https://support.catenda.com/nb/articles/12520773-approvals-troubleshooting) for å lese mer om hvorfor publisering av dokumenter kan mislykkes.
 
 ### 5.1 Se detaljer
 

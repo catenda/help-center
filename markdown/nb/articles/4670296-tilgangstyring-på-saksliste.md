@@ -2,7 +2,7 @@
 
 > Tilgangskontrollnivåer på sakslister
 
-Du kan finne tilgangsstyringen for en saksliste ved å klikke på [rediger tilgang](https://support.catenda.com/en/articles/4670277-issue-board-settings#h_82063f7a79) i [tilgangskontrollmenyen](https://support.catenda.com/en/articles/4670277-issue-board-settings#h_7a3aca4c7d) på siden for [saksliste-innstillinger](https://support.catenda.com/en/articles/4670277-issue-board-settings). _Tilgang kreves:_ Full tilgang til sakslisten
+Du kan finne tilgangsstyringen for en saksliste ved å klikke på [rediger tilgang](https://support.catenda.com/nb/articles/4670277-issue-board-settings#h_82063f7a79) i [tilgangskontrollmenyen](https://support.catenda.com/nb/articles/4670277-issue-board-settings#h_7a3aca4c7d) på siden for [saksliste-innstillinger](https://support.catenda.com/nb/articles/4670277-issue-board-settings). _Tilgang kreves:_ Full tilgang til sakslisten
 
 Dialogboksen for redigering av tilgangskontroll kan se slik ut:
 

@@ -1,6 +1,6 @@
 # Benutzerseite - Organisationsverwaltungstool
 
-Sie finden die Benutzerseite als Unterseite Ihrer [Organisationsprofilseite](https://support.catenda.com/en/articles/8497478-organization-profile-page). _Erforderlicher Zugriff:_ Organisationseigentümer
+Sie finden die Benutzerseite als Unterseite Ihrer [Organisationsprofilseite](https://support.catenda.com/de/articles/8497478-organization-profile-page). _Erforderlicher Zugriff:_ Organisationseigentümer
 
 Hier sehen Sie einen Überblick über alle Benutzer, die Teil dieser Organisation sind.
 
@@ -84,7 +84,7 @@ Entfernen Sie die ausgewählten Mitglieder aus der Organisation
 
 Hier sehen Sie eine Liste der Benutzer, die Teil Ihrer Organisation sind.
 
-> **Hinweis:** Dies sind nicht alle Benutzer, die Teil von Projekten Ihrer Organisation sind. Benutzer, die Teil von Projekten sind, finden Sie auf der [Projektmitgliedschaftsseite](https://support.catenda.com/en/articles/9003642-members-page-in-organization-tool).
+> **Hinweis:** Dies sind nicht alle Benutzer, die Teil von Projekten Ihrer Organisation sind. Benutzer, die Teil von Projekten sind, finden Sie auf der [Projektmitgliedschaftsseite](https://support.catenda.com/de/articles/9003642-members-page-in-organization-tool).
 
 ### 5.1 **Kontrollkästchen**
 

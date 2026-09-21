@@ -4,7 +4,7 @@ Organisatie-eigenaren kunnen organisatieleden aan projecten toevoegen zonder hen
 
 ## 1. **Leden aan organisatie toevoegen**
 
-Voeg eerst de gebruiker als lid aan uw organisatie toe. Als uw [domein bij ons is geregistreerd](https://support.catenda.com/en/articles/8224886-organization-options#h_8369f64208), kunt u gebruikers met bestaande Catenda-accounts uit uw domein als leden aan uw organisatie toevoegen. Als uw domein [niet is geregistreerd](https://support.catenda.com/en/articles/8224886-organization-options#h_8369f64208) en u de groene knop "toevoegen vanuit domein" niet ziet, neem dan contact op met ondersteuning via de zwarte chatknop naast uw profielfoto rechtsboven of via [support@catenda.com](mailto:support@catenda.com). We helpen u graag verder.
+Voeg eerst de gebruiker als lid aan uw organisatie toe. Als uw [domein bij ons is geregistreerd](https://support.catenda.com/nl/articles/8224886-organization-options#h_8369f64208), kunt u gebruikers met bestaande Catenda-accounts uit uw domein als leden aan uw organisatie toevoegen. Als uw domein [niet is geregistreerd](https://support.catenda.com/nl/articles/8224886-organization-options#h_8369f64208) en u de groene knop "toevoegen vanuit domein" niet ziet, neem dan contact op met ondersteuning via de zwarte chatknop naast uw profielfoto rechtsboven of via [support@catenda.com](mailto:support@catenda.com). We helpen u graag verder.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8g939d5c/01-add-member-s-to-organization.png)
 

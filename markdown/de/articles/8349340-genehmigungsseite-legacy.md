@@ -1,6 +1,6 @@
 # Genehmigungsseite - Legacy
 
-Die Genehmigungsseite finden Sie als Unterseite der [Dokumentenseite](https://support.catenda.com/en/articles/8204673-documents-page) im linken Navigationsmenü. Die Genehmigungsseite ist standardmäßig ausgeblendet und wird sichtbar, wenn der Status-Workflow in den [Dokumenteneinstellungen](https://support.catenda.com/en/articles/7831371-document-settings) aktiviert wurde. Wenn alle [Entwurfsstatus](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) archiviert und nur veröffentlichte Status entfernt wurden, verschwindet die Seite wieder, solange keine Genehmigungen erstellt wurden. Hier finden Sie einen Überblick über die Genehmigungsanfragen im Projekt.
+Die Genehmigungsseite finden Sie als Unterseite der [Dokumentenseite](https://support.catenda.com/de/articles/8204673-documents-page) im linken Navigationsmenü. Die Genehmigungsseite ist standardmäßig ausgeblendet und wird sichtbar, wenn der Status-Workflow in den [Dokumenteneinstellungen](https://support.catenda.com/de/articles/7831371-document-settings) aktiviert wurde. Wenn alle [Entwurfsstatus](https://support.catenda.com/de/articles/7831371-document-settings#h_e6f3ffdbff) archiviert und nur veröffentlichte Status entfernt wurden, verschwindet die Seite wieder, solange keine Genehmigungen erstellt wurden. Hier finden Sie einen Überblick über die Genehmigungsanfragen im Projekt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xc0e4bsa/01-intro.png)
 
@@ -18,15 +18,15 @@ Die neuen Elementaktionen finden Sie oben rechts auf der Seite.
 
 ### 1.1 **Neue Genehmigungsanfrage**
 
-Erstellen Sie eine neue Genehmigungsanfrage. Klicken Sie [hier](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request), um mehr über die Erstellung einer neuen Genehmigungsanfrage zu erfahren.
+Erstellen Sie eine neue Genehmigungsanfrage. Klicken Sie [hier](https://support.catenda.com/de/articles/12360159-creating-a-new-approval-request), um mehr über die Erstellung einer neuen Genehmigungsanfrage zu erfahren.
 
 ### 1.2 **Neuer Entwurf einer Genehmigungsanfrage**
 
-Erstellen Sie eine neue Genehmigungsanfrage mit Entwürfen, die aus der Zeit vor der Aktivierungsanforderung des neuen Status-Workflows für ein Projekt verbleiben. Klicken Sie [hier](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request#h_e06d6cce0d), um mehr über die Erstellung eines neuen Entwurfs einer Genehmigungsanfrage zu erfahren.
+Erstellen Sie eine neue Genehmigungsanfrage mit Entwürfen, die aus der Zeit vor der Aktivierungsanforderung des neuen Status-Workflows für ein Projekt verbleiben. Klicken Sie [hier](https://support.catenda.com/de/articles/12360159-creating-a-new-approval-request#h_e06d6cce0d), um mehr über die Erstellung eines neuen Entwurfs einer Genehmigungsanfrage zu erfahren.
 
 ### 1.3 **Genehmigungseinstellungen**
 
-Konfigurieren Sie, wie Themen als Ergebnis der Genehmigungsvalidierung erstellt werden. Klicken Sie [hier](https://support.catenda.com/en/articles/12367293-approval-settings-page), um mehr über Genehmigungseinstellungen zu erfahren. _Erforderliche Berechtigung:_ Administrator
+Konfigurieren Sie, wie Themen als Ergebnis der Genehmigungsvalidierung erstellt werden. Klicken Sie [hier](https://support.catenda.com/de/articles/12367293-approval-settings-page), um mehr über Genehmigungseinstellungen zu erfahren. _Erforderliche Berechtigung:_ Administrator
 
 ## 2. **Such- oder Filteroptionen**
 
@@ -38,13 +38,13 @@ In der Suchleiste kann nach jeder Genehmigung gesucht werden, die auf der Genehm
 
 ## 3. **Genehmigungsliste**
 
-Die Informationen auf der Genehmigungsseite sind so angeordnet, dass sie auf einen Blick leicht verständlich sind, selbst für jemanden, der noch nie ein Themen-Board gesehen hat. Unter der Suchleiste befindet sich eine Listenansicht aller [Genehmigungen](https://support.catenda.com/en/articles/8349418-approval-content), die dem aktuellen Filter entsprechen. So kann die Genehmigungsliste aussehen:
+Die Informationen auf der Genehmigungsseite sind so angeordnet, dass sie auf einen Blick leicht verständlich sind, selbst für jemanden, der noch nie ein Themen-Board gesehen hat. Unter der Suchleiste befindet sich eine Listenansicht aller [Genehmigungen](https://support.catenda.com/de/articles/8349418-approval-content), die dem aktuellen Filter entsprechen. So kann die Genehmigungsliste aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xc0e4bsa/04-approvals-list.png)
 
 ### 3.1 **Zeileninhalt**
 
-**Genehmigungszeile** Das Öffnen des Inhalts einer Genehmigungszeile öffnet die Genehmigungsseite für diese Genehmigung. Klicken Sie [hier](https://support.catenda.com/en/articles/8349418-approval-content), um mehr über die Genehmigungsseite zu erfahren.
+**Genehmigungszeile** Das Öffnen des Inhalts einer Genehmigungszeile öffnet die Genehmigungsseite für diese Genehmigung. Klicken Sie [hier](https://support.catenda.com/de/articles/8349418-approval-content), um mehr über die Genehmigungsseite zu erfahren.
 
 ### 3.2 **Karten**
 
@@ -70,4 +70,4 @@ Nur Felder, die in der Genehmigung konfiguriert wurden, werden in ihrer Karte an
 
 ## 4. **Weitere Informationen**
 
-[Dieser](https://support.catenda.com/en/articles/5784717-document-approval) Artikel enthält weitere Informationen darüber, wie der Genehmigungsprozess funktioniert.
+[Dieser](https://support.catenda.com/de/articles/5784717-document-approval) Artikel enthält weitere Informationen darüber, wie der Genehmigungsprozess funktioniert.

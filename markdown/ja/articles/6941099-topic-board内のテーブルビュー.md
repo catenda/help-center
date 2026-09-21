@@ -8,7 +8,7 @@ topics tableの右上にあるテーブルビュー(**4**)をクリックしま�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/01-topics-table.png)
 
-[ここをクリック](https://support.catenda.com/en/articles/11748020-tables-on-catenda)してCatendaのテーブルの操作方法を詳しく確認してください。topicが作成されてtableが読み込まれるとすぐに、そのtopicはtopics tableの行として表示されます。デフォルトでオープンフィルターが有効になっており、クローズドtopicはフィルターされるまで非表示になる場合があることに注意してください。
+[ここをクリック](https://support.catenda.com/ja/articles/11748020-tables-on-catenda)してCatendaのテーブルの操作方法を詳しく確認してください。topicが作成されてtableが読み込まれるとすぐに、そのtopicはtopics tableの行として表示されます。デフォルトでオープンフィルターが有効になっており、クローズドtopicはフィルターされるまで非表示になる場合があることに注意してください。
 
 ### 1.1 **表示中に行われた変更**
 
@@ -20,7 +20,7 @@ topicの行を選択すると、topics tableの上部に選択されたアイテ
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/02-selected-item-actions.png)
 
-[ここをクリック](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board)して、選択されたアイテムアクションメニューについて詳しく確認してください。
+[ここをクリック](https://support.catenda.com/ja/articles/4670284-actions-in-a-topic-board)して、選択されたアイテムアクションメニューについて詳しく確認してください。
 
 ### 1.3 **行の内容**
 
@@ -82,7 +82,7 @@ _カーソルの変更_ 適切な場所の上に移動するとカーソルが�
 
 ## 5. **4. リストビュー**
 
-[リストビュー](https://support.catenda.com/en/articles/6941232-issue-board-s-list-view)またはテーブルビューを切り替えます
+[リストビュー](https://support.catenda.com/ja/articles/6941232-issue-board-s-list-view)またはテーブルビューを切り替えます
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/08-4-list-view.png)
 
@@ -108,16 +108,16 @@ topicsページのサブページとして見つけることができるペー�
 
 ### 8.1 **Boards**
 
-[Boards](https://support.catenda.com/en/articles/9413644-boards-page) - すべてのtopic boardの概要
+[Boards](https://support.catenda.com/ja/articles/9413644-boards-page) - すべてのtopic boardの概要
 
 ### 8.2 **Milestones**
 
-[Milestones](https://support.catenda.com/en/articles/4670266-creating-a-new-milestone) - プロジェクトの重要な日付
+[Milestones](https://support.catenda.com/ja/articles/4670266-creating-a-new-milestone) - プロジェクトの重要な日付
 
 ### 8.3 **Statistics**
 
-[Statistics](https://support.catenda.com/en/articles/7575491-statistics-page) - 現在のtopic boardの統計を表示します
+[Statistics](https://support.catenda.com/ja/articles/7575491-statistics-page) - 現在のtopic boardの統計を表示します
 
 ### 8.4 **Settings**
 
-[設定ページ](https://support.catenda.com/en/articles/4670277-issue-board-settings)をクリックすると、現在のtopic boardの設定ページが開きます。_必要なアクセス:_topic boardへのフルアクセス
+[設定ページ](https://support.catenda.com/ja/articles/4670277-issue-board-settings)をクリックすると、現在のtopic boardの設定ページが開きます。_必要なアクセス:_topic boardへのフルアクセス

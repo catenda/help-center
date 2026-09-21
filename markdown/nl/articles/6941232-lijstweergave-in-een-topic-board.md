@@ -1,6 +1,6 @@
 # Lijstweergave in een topic board
 
-De lijstweergave in de topicstabel op de [topicspagina](https://support.catenda.com/en/articles/4670271-topics-page) topic board is standaard ingeschakeld. Als de tabelweergave is ingeschakeld, kan de lijstweergave opnieuw worden ingeschakeld [aan de bovenkant](https://support.catenda.com/en/articles/4670271-topics-page#h_6a5895256b) van de topic board. De lijstweergave in de topicstabel van de topicspagina kan vaak goed worden gebruikt wanneer meer dan één persoon volgt wat er op het scherm gebeurt. Hoewel er tegelijk minder topics worden weergegeven dan in de tabelweergave, is de informatie beter verdeeld, waardoor de weergave gemakkelijk in één oogopslag te begrijpen is, zelfs voor iemand die nog nooit een topic board heeft gezien. Klik [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) voor algemene informatie over lijsten op Catenda.
+De lijstweergave in de topicstabel op de [topicspagina](https://support.catenda.com/nl/articles/4670271-topics-page) topic board is standaard ingeschakeld. Als de tabelweergave is ingeschakeld, kan de lijstweergave opnieuw worden ingeschakeld [aan de bovenkant](https://support.catenda.com/nl/articles/4670271-topics-page#h_6a5895256b) van de topic board. De lijstweergave in de topicstabel van de topicspagina kan vaak goed worden gebruikt wanneer meer dan één persoon volgt wat er op het scherm gebeurt. Hoewel er tegelijk minder topics worden weergegeven dan in de tabelweergave, is de informatie beter verdeeld, waardoor de weergave gemakkelijk in één oogopslag te begrijpen is, zelfs voor iemand die nog nooit een topic board heeft gezien. Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) voor algemene informatie over lijsten op Catenda.
 
 ## 1. **Sorteren dropdown**
 
@@ -21,7 +21,7 @@ In de lijstweergave van een topic board is het mogelijk om topics te sorteren op
 
 ### 2.1 **Rijinhoud**
 
-**Topic-rij** Het openen van de inhoud van een topic-rij opent de topicpagina voor dat topic. Klik [hier](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic) voor meer informatie over de topicpagina.
+**Topic-rij** Het openen van de inhoud van een topic-rij opent de topicpagina voor dat topic. Klik [hier](https://support.catenda.com/nl/articles/8400566-topic-header-the-subject-of-a-topic) voor meer informatie over de topicpagina.
 
 ### 2.2 **Kaarten**
 
@@ -35,7 +35,7 @@ Titel Topic-titel
 
 **Statussen** Topicstatus wordt weergegeven in een vak met een gekleurde cirkel.
 
-**Labels** Topic [labels](https://support.catenda.com/en/articles/4670265-creating-a-new-label) (tags) worden weergegeven in vakken met een labelicoon.
+**Labels** Topic [labels](https://support.catenda.com/nl/articles/4670265-creating-a-new-label) (tags) worden weergegeven in vakken met een labelicoon.
 
 **Toegewezen aan** Toegewezene van het topic.
 

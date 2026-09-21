@@ -48,4 +48,4 @@ _Endringer i revisjonsnummer_ Revisjonsnumre vil være inkonsistente med revisjo
 
 > **Merknad:** Vennligst informer prosjektmedlemmene dine om disse endringene når du aktiverer denne funksjonen på eksisterende prosjekter.
 
-Klikk [her](https://support.catenda.com/en/articles/12289689-status-workflow-api-updates) for å lese mer om API-endringer
+Klikk [her](https://support.catenda.com/nb/articles/12289689-status-workflow-api-updates) for å lese mer om API-endringer

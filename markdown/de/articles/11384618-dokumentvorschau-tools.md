@@ -1,6 +1,6 @@
 # Dokumentvorschau-Tools
 
-Wenn die [Vorschauseite](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) eines [Dateityps, der in der Vorschau angezeigt werden kann](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub) zum ersten Mal geöffnet wird, wird die folgende Symbolleiste oben angezeigt.
+Wenn die [Vorschauseite](https://support.catenda.com/de/articles/5001165-document-preview-and-annotations) eines [Dateityps, der in der Vorschau angezeigt werden kann](https://support.catenda.com/de/articles/4670320-previewing-file-types-on-catenda-hub) zum ersten Mal geöffnet wird, wird die folgende Symbolleiste oben angezeigt.
 
 ![Ansicht Kommentieren Formen Einfügen Messen](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/01-intro.png)
 
@@ -13,7 +13,7 @@ Wenn die Browserskalierung auf eine große Größe eingestellt ist oder eine kle
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/03-intro.png)
 Formen, Text und Beschriftungen können hinzugefügt werden, Text kann hervorgehoben werden, Messungen können durchgeführt werden und Sie können freihand zeichnen.
 All dies kann später in Themen gespeichert werden.
-Klicken Sie [hier](https://support.catenda.com/en/articles/10209740-saving-a-markup), um mehr über das Speichern von Anmerkungen zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/10209740-saving-a-markup), um mehr über das Speichern von Anmerkungen zu erfahren.
 
 ## 1. **Menü**
 
@@ -71,7 +71,7 @@ Design Hellmodus - Standard Dunkelmodus
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/08-settings.png)
 
-Klicken Sie auf die Aktionsschaltfläche für jede Verknüpfung, um die Verknüpfung an einen anderen Tastenanschlag zu binden. Bitte finden Sie die aktuellen Verknüpfungen [hier](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls).
+Klicken Sie auf die Aktionsschaltfläche für jede Verknüpfung, um die Verknüpfung an einen anderen Tastenanschlag zu binden. Bitte finden Sie die aktuellen Verknüpfungen [hier](https://support.catenda.com/de/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls).
 
 **Erweiterte Einstellungen** Im Menü Erweiterte Einstellungen können verschiedene Einstellungen aktiviert und deaktiviert werden. So kann das Menü Erweiterte Einstellungen aussehen:
 
@@ -191,7 +191,7 @@ So können die Einfügungsmenü-Tools aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/21-insert-menu.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/11678493-document-preview-tools-rubber-stamp), um mehr über das Gummistempel-Menü zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/11678493-document-preview-tools-rubber-stamp), um mehr über das Gummistempel-Menü zu erfahren.
 
 _Bild - Tastaturkürzel:_ (I) Wählen Sie das Bildwerkzeug aus und klicken Sie überall im Dokument an, um an dieser Stelle ein Bild hinzuzufügen.
 

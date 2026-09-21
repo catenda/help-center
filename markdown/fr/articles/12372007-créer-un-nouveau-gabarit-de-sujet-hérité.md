@@ -1,6 +1,6 @@
 # Créer un nouveau gabarit de sujet - Hérité
 
-La nouvelle action de gabarit de sujet se trouve en cliquant sur le menu d'action à droite du bouton plus vert sur la [page des gabarits de sujets](https://support.catenda.com/en/articles/12367730-topic-templates-page) et la [page du gabarit de sujet](https://support.catenda.com/en/articles/12371549-topic-template-page). L'action se trouve également dans la liste déroulante des gabarits de sujets dans la zone de gabarit de sujet de la page [paramètres d'approbation](https://support.catenda.com/en/articles/12367293-approval-settings-page). _Accès requis:_ Administrateur
+La nouvelle action de gabarit de sujet se trouve en cliquant sur le menu d'action à droite du bouton plus vert sur la [page des gabarits de sujets](https://support.catenda.com/fr/articles/12367730-topic-templates-page) et la [page du gabarit de sujet](https://support.catenda.com/fr/articles/12371549-topic-template-page). L'action se trouve également dans la liste déroulante des gabarits de sujets dans la zone de gabarit de sujet de la page [paramètres d'approbation](https://support.catenda.com/fr/articles/12367293-approval-settings-page). _Accès requis:_ Administrateur
 
 Voici à quoi peut ressembler la nouvelle boîte de dialogue du gabarit de sujet:
 

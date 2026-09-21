@@ -34,9 +34,9 @@ Informasjonen har blitt brukt og kan arkiveres for å holdes tilgjengelig ved be
 
 Aktivering og konfigurering av den delte statusarbeidsflyten er reservert for prosjektadministratorer.
 
-_Tilgang kreves_ Tilgang til dokumentstatuskonfigurasjon i [tilgangskontrollområdet](https://support.catenda.com/en/articles/4670273-project-settings-page#h_3b98ced32a) på [prosjektinnstillingssiden](https://support.catenda.com/en/articles/4670273-project-settings-page). Medlemmer med denne tilgangen vil bare ha tilgang til statuskonfigurasjonsmenyen i dokumentinnstillinger. De vil ikke kunne se eller endre de andre menyene i dokumentinnstillinger.
+_Tilgang kreves_ Tilgang til dokumentstatuskonfigurasjon i [tilgangskontrollområdet](https://support.catenda.com/nb/articles/4670273-project-settings-page#h_3b98ced32a) på [prosjektinnstillingssiden](https://support.catenda.com/nb/articles/4670273-project-settings-page). Medlemmer med denne tilgangen vil bare ha tilgang til statuskonfigurasjonsmenyen i dokumentinnstillinger. De vil ikke kunne se eller endre de andre menyene i dokumentinnstillinger.
 
-Under [dokumentinnstillinger](https://support.catenda.com/en/articles/7831371-document-settings) navigerer du til [Statusarbeidsflyt](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) og aktiverer delte statuser
+Under [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-document-settings) navigerer du til [Statusarbeidsflyt](https://support.catenda.com/nb/articles/7831371-document-settings#h_e6f3ffdbff) og aktiverer delte statuser
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/03-configuring-status-workflow.png)
 
@@ -125,7 +125,7 @@ I dokumentstrukturen vil du se den nyeste revisjonen du har tilgang til. Klikk p
 
 ### 3.8 **Revisjonsinformasjon**
 
-Velg ett dokument eller åpne dokumentforhåndsvisningen ved å klikke på dokumentet. Informasjon om gjeldende revidert vil være synlig i [høyre informasjonsmeny](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision).
+Velg ett dokument eller åpne dokumentforhåndsvisningen ved å klikke på dokumentet. Informasjon om gjeldende revidert vil være synlig i [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8302244-right-menu-of-a-revision).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/16-revision-information.png)
 
@@ -138,7 +138,7 @@ Velg ett dokument eller åpne dokumentforhåndsvisningen ved å klikke på dokum
 - Endre en publisert revisjonsstatus til en annen publisert revisjonsstatus.
   _Tilgang kreves:_ Skrivetilgang og publiserte revisjoner
 
-**Revisjonsinformasjonsdialog** Klikk på revisjonsboksen for å se en oversikt over alle revisjonene i dokumentet i [revisjonsinformasjonsdialogen](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision#h_6838c6ad71). En grønn lenke mellom en publisert og en delt revidert indikerer hvilken delt revidert som ble publisert.
+**Revisjonsinformasjonsdialog** Klikk på revisjonsboksen for å se en oversikt over alle revisjonene i dokumentet i [revisjonsinformasjonsdialogen](https://support.catenda.com/nb/articles/8302244-right-menu-of-a-revision#h_6838c6ad71). En grønn lenke mellom en publisert og en delt revidert indikerer hvilken delt revidert som ble publisert.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/17-revision-information.png)
 
@@ -148,15 +148,15 @@ Bare publiserte revisjoner er synlige i Catenda Site.
 
 ## 4. Statuskonfigurasjonstilgang
 
-1. Rediger tilgang til dokumentstatuskonfigurasjonen kan konfigureres fra [prosjektinnstillingssiden](https://support.catenda.com/en/articles/4670273-project-settings-page):
+1. Rediger tilgang til dokumentstatuskonfigurasjonen kan konfigureres fra [prosjektinnstillingssiden](https://support.catenda.com/nb/articles/4670273-project-settings-page):
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-868820a898ba.png" width="500"/></div>
 
-2. Dokumentstatus kan deretter [konfigureres](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) fra innstillingene i dokumentseksjonen:
+2. Dokumentstatus kan deretter [konfigureres](https://support.catenda.com/nb/articles/7831371-document-settings#h_e6f3ffdbff) fra innstillingene i dokumentseksjonen:
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-931418a5fab1.png" width="500"/></div>
 
-3. Til slutt kan disse dokumentstatusene tildeles filtilstandsstatus som er tilgjengelig fra knappen med tre punkter øverst til høyre i [Godkjenningsseksjonen](https://support.catenda.com/en/articles/8349340-approvals-page). Det er også mulig å konfigurere en saksmal her.
+3. Til slutt kan disse dokumentstatusene tildeles filtilstandsstatus som er tilgjengelig fra knappen med tre punkter øverst til høyre i [Godkjenningsseksjonen](https://support.catenda.com/nb/articles/8349340-approvals-page). Det er også mulig å konfigurere en saksmal her.
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-3cdbebefca38.png" width="500"/></div>
 
@@ -186,7 +186,7 @@ En detaljert demonstrasjon av disse trinnene vises i følgende opplæring:
 
 ## 6. **Deaktivering av statusarbeidsflyt**
 
-Hvis du vil slå av statusarbeidsflytstrømmen, kan du gjøre det ved å klikke på radioknappen i [dokumentinnstillinger](https://support.catenda.com/en/articles/7831371-document-settings). De publiserte og delte fanene i dokumentseksjonen vil da forsvinne. Dokumenter som lastes opp mens statusarbeidsflyten ikke er aktivert, lastes opp som publisert og vil vises i den publiserte fanen når statusarbeidsflyten aktiveres.
+Hvis du vil slå av statusarbeidsflytstrømmen, kan du gjøre det ved å klikke på radioknappen i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-document-settings). De publiserte og delte fanene i dokumentseksjonen vil da forsvinne. Dokumenter som lastes opp mens statusarbeidsflyten ikke er aktivert, lastes opp som publisert og vil vises i den publiserte fanen når statusarbeidsflyten aktiveres.
 
 ## 7. **Fordeler ved å bruke statusarbeidsflyten**
 

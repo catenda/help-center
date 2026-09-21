@@ -12,7 +12,7 @@ Ved å klikke på filterknappen vises en panel på venstre side. Merk av i bokse
 
 ## 2. **Lagrede filtre**
 
-Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for å lese mer om hvordan du lagrer et sett med filtre
+Klikk [her](https://support.catenda.com/nb/articles/8551755-saving-filters) for å lese mer om hvordan du lagrer et sett med filtre
 
 ## 3. **Filtre**
 
@@ -22,11 +22,11 @@ _Standardfilter_ Standardfilteret er i utgangspunktet ikke synlig i URL-adressen
 
 ### 3.1 **Lagre og dele gjeldende filter**
 
-Gå til URL-adressen for en filtrert side for å laste inn siden med filteret brukt. De brukte filtrene kan lagres øverst i filtermenyen. Klikk [her](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre
+Gå til URL-adressen for en filtrert side for å laste inn siden med filteret brukt. De brukte filtrene kan lagres øverst i filtermenyen. Klikk [her](https://support.catenda.com/nb/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre
 
 ### 3.2 **Skjul tomme filtre**
 
-Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for å lese mer om begrensning av filterresultater.
+Klikk [her](https://support.catenda.com/nb/articles/8551755-saving-filters) for å lese mer om begrensning av filterresultater.
 
 ### 3.3 **Kategorier**
 
@@ -58,7 +58,7 @@ Medlemsnavn - `publishedBy=<Member GUID>&subFolders=true`
 
 ### 3.10 **Datofiltre**
 
-Publisert - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klikk på velg datoer for å velge datoer mellom hvilke du vil søke Klikk [her](https://support.catenda.com/en/articles/6511685-date-filter) for å lese mer om datofilteret
+Publisert - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klikk på velg datoer for å velge datoer mellom hvilke du vil søke Klikk [her](https://support.catenda.com/nb/articles/6511685-date-filter) for å lese mer om datofilteret
 
 ### 3.11 **Åpne gjennomganger - Status bare arbeidsflyt**
 

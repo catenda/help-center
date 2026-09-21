@@ -24,15 +24,15 @@ Türöffnungen werden in der IFC-Datei angegeben. Sie können sehen, wie dies in
 
 ## 2. **Zeichnung als Untergrund**
 
-Es ist möglich, ein PDF aus dem Dokumentenbereich mit dem [Geschosskonfigurator](https://support.catenda.com/en/articles/6921756-storey-configurator-page) zu unterlegen. Dies ist besonders hilfreich, wenn sich Objekte über oder unter der Höhe befinden, in der die 3D-Objekte geschnitten werden und im 2D-Viewer nicht angezeigt werden. Beispiele hierfür sind: Kanäle und Rohre, Elektrische Steckdosen, Deckenzeichnungen, Straßen und Schienen
+Es ist möglich, ein PDF aus dem Dokumentenbereich mit dem [Geschosskonfigurator](https://support.catenda.com/de/articles/6921756-storey-configurator-page) zu unterlegen. Dies ist besonders hilfreich, wenn sich Objekte über oder unter der Höhe befinden, in der die 3D-Objekte geschnitten werden und im 2D-Viewer nicht angezeigt werden. Beispiele hierfür sind: Kanäle und Rohre, Elektrische Steckdosen, Deckenzeichnungen, Straßen und Schienen
 
 ## 3. **Marker im 2D-Viewer**
 
-Mit [aktivierten Markern](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098) werden Themen mit Ort als farbige Kreise bei einer x-y-Koordinate angezeigt. So könnte eine 2D-Ansicht mit verschiedenen Markern im Browser aussehen:
+Mit [aktivierten Markern](https://support.catenda.com/de/articles/4854537-2d-viewer#h_381a9d4098) werden Themen mit Ort als farbige Kreise bei einer x-y-Koordinate angezeigt. So könnte eine 2D-Ansicht mit verschiedenen Markern im Browser aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3bzb6a32/03-markers-in-the-2d-viewer.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/4854523-2d-location-of-issues), um mehr über den 2D-Ort von Themen zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/4854523-2d-location-of-issues), um mehr über den 2D-Ort von Themen zu erfahren.
 
 ### 3.1 **Themen mit vorhandenen Markern**
 

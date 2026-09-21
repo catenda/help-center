@@ -1,6 +1,6 @@
 # Page Utilisateurs - Outil d'organisation
 
-Vous pourrez trouver la page utilisateurs en tant que sous-page de votre [page de profil d'organisation](https://support.catenda.com/en/articles/8497478-organization-profile-page). _Accès requis :_ Propriétaire d'organisation
+Vous pourrez trouver la page utilisateurs en tant que sous-page de votre [page de profil d'organisation](https://support.catenda.com/fr/articles/8497478-organization-profile-page). _Accès requis :_ Propriétaire d'organisation
 
 Ici, vous verrez un aperçu de tous les utilisateurs qui font partie de cette organisation.
 
@@ -84,7 +84,7 @@ Supprimez les Membres sélectionnés de l'organisation
 
 Ici, vous verrez une liste des utilisateurs qui font partie de votre organisation.
 
-> **Remarque :** il ne s'agit pas de tous les utilisateurs qui font partie des projets appartenant à votre organisation. Les utilisateurs qui font partie des projets se trouvent sur la [page d'adhésion aux projets](https://support.catenda.com/en/articles/9003642-members-page-in-organization-tool).
+> **Remarque :** il ne s'agit pas de tous les utilisateurs qui font partie des projets appartenant à votre organisation. Les utilisateurs qui font partie des projets se trouvent sur la [page d'adhésion aux projets](https://support.catenda.com/fr/articles/9003642-members-page-in-organization-tool).
 
 ### 5.1 **Case à cocher**
 

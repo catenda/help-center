@@ -46,7 +46,7 @@ OneDrive und SharePoint 400 Unicode-Codeeinheiten
 
 **Kleinere Zips** Wenn die Zip-Datei aus mehreren Dateien besteht, kann die Zip-Datei in kleinere Zips aufgeteilt werden. Jede separate Zip-Datei kann einzeln hochgeladen werden, aber es wird immer ein Risiko für einen Netzwerk- oder Verbindungsfehler geben.
 
-**Einzelne Dateien** Der [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) ist eine sicherere Methode zum Hochladen, da er Dokumente Datei für Datei hochlädt. Dies ist auch schneller, da die Dateien direkt zu unserem Backend hochgeladen werden, anstatt über die Browseroberfläche. Selbst wenn eine der Dateien fehlschlägt, werden die bis dahin hochgeladenen bereits in Catenda angezeigt. Die restlichen Dateien werden beim nächsten Ausführen der Upload-Aufgabe weiterhin hochgeladen.
+**Einzelne Dateien** Der [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) ist eine sicherere Methode zum Hochladen, da er Dokumente Datei für Datei hochlädt. Dies ist auch schneller, da die Dateien direkt zu unserem Backend hochgeladen werden, anstatt über die Browseroberfläche. Selbst wenn eine der Dateien fehlschlägt, werden die bis dahin hochgeladenen bereits in Catenda angezeigt. Die restlichen Dateien werden beim nächsten Ausführen der Upload-Aufgabe weiterhin hochgeladen.
 
 ## 2. **Zip-Uploads mit Sonderzeichen**
 

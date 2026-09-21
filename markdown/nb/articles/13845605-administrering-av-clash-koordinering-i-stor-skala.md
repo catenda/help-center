@@ -74,11 +74,11 @@ Systematisk saksliste-oppsett, omfattende merking og milepælsintegrasjon skaper
 
 ## 4. **Videre lesing:**
 
-- [Saksliste-innstillingerside](https://support.catenda.com/en/articles/4670277-topic-board-settings-page)
-- [Catenda Archicad-plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
-- [Catenda Revit-plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
-- [Catenda Navisworks-plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
-- [Trinn 5 – Saker](https://support.catenda.com/en/articles/10576182-step-5-topics)
+- [Saksliste-innstillingerside](https://support.catenda.com/nb/articles/4670277-topic-board-settings-page)
+- [Catenda Archicad-plugin](https://support.catenda.com/nb/articles/5519276-catenda-archicad-plugin)
+- [Catenda Revit-plugin](https://support.catenda.com/nb/articles/4670334-catenda-revit-plugin)
+- [Catenda Navisworks-plugin](https://support.catenda.com/nb/articles/5085987-catenda-navisworks-plugin)
+- [Trinn 5 – Saker](https://support.catenda.com/nb/articles/10576182-step-5-topics)
 
 ## 5. Ledetekst
 

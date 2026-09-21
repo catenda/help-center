@@ -2,11 +2,11 @@
 
 > I denne artikkelen beskriver vi hvordan du trekker tilbake en revisjon.
 
-Revisjoner kan trekkes tilbake med trekk tilbake-handlingen i handlingsmenyen for en revisjon. Velg et enkelt dokument i [dokumenttabellen](https://support.catenda.com/en/articles/8204673-documents-page#h_54e8dfcac2) eller åpne [dokumentforhåndsvisningen](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) av en revisjon for å finne revisjonshandlingsmenyen i [høyre meny for revisjonen](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info#h_508f911117).
+Revisjoner kan trekkes tilbake med trekk tilbake-handlingen i handlingsmenyen for en revisjon. Velg et enkelt dokument i [dokumenttabellen](https://support.catenda.com/nb/articles/8204673-documents-page#h_54e8dfcac2) eller åpne [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-document-preview-and-annotations) av en revisjon for å finne revisjonshandlingsmenyen i [høyre meny for revisjonen](https://support.catenda.com/nb/articles/8302244-right-menu-of-a-revision-revision-info#h_508f911117).
 
 Under dataoverføring gjøres det noen ganger enkle feil ved å laste opp feil fil eller oppdatere et eksisterende dokument med feil revisjon. Det er en ny løsning for dette i Catenda HUB. _Tilgang påkrevd:_ Full tilgang til dokumentet
 
-Du vil være i stand til å finne alternativet i [høyre meny for en revisjon](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document) og det kan se slik ut:
+Du vil være i stand til å finne alternativet i [høyre meny for en revisjon](https://support.catenda.com/nb/articles/8302244-right-menu-in-a-document) og det kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hhtwytcy/01-intro.png)
 

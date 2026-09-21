@@ -86,4 +86,4 @@ Wanneer het minimale aantal leden dat in de beoordeling is opgegeven validaties 
 
 ### 6.3 **Documentvoorbeeld**
 
-Het documentvoorbeeld op de beoordelingspagina van het beoordelingsverzoek werkt hetzelfde als het [documentvoorbeeld](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) wanneer u een document opent uit de documenttabel.
+Het documentvoorbeeld op de beoordelingspagina van het beoordelingsverzoek werkt hetzelfde als het [documentvoorbeeld](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations) wanneer u een document opent uit de documenttabel.

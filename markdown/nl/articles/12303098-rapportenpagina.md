@@ -10,7 +10,7 @@ Dit artikel bevat informatie over de volgende onderwerpen: [Zoeken of filteren](
 
 ## 1. **Zoek- of filteropties**
 
-Zie [hier](https://support.catenda.com/en/articles/4670283-search-and-filter-option) voor informatie over de beste manier om in de rapportentabel te zoeken of te filteren
+Zie [hier](https://support.catenda.com/nl/articles/4670283-search-and-filter-option) voor informatie over de beste manier om in de rapportentabel te zoeken of te filteren
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/02-search-or-filter-options.png)
 
@@ -32,7 +32,7 @@ In het rechtermenu kunt u informatie zien over:
 - Gekoppelde objecten
 - Onderwerpen
 
-Klik [hier](https://support.catenda.com/en/articles/8345396-right-panel-on-the-documents-page) voor meer informatie over het rechtermenu.
+Klik [hier](https://support.catenda.com/nl/articles/8345396-right-panel-on-the-documents-page) voor meer informatie over het rechtermenu.
 
 ## 3. **Rapportentabel**
 
@@ -40,7 +40,7 @@ De rapportentabel kan er ongeveer zo uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/04-reports-table.png)
 
-De rapportentabel werkt op exact dezelfde manier als de [documententabel](https://support.catenda.com/en/articles/8204673-documents-page#h_54e8dfcac2), behalve dat alleen rapporten worden weergegeven. Klik [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda) voor meer informatie over het werken met tabellen in Catenda. Zodra een rapport is aangemaakt, verschijnt het als een rij in de rapportentabel voor die persoon. De rapporten zijn ook zichtbaar in de documententabel.
+De rapportentabel werkt op exact dezelfde manier als de [documententabel](https://support.catenda.com/nl/articles/8204673-documents-page#h_54e8dfcac2), behalve dat alleen rapporten worden weergegeven. Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) voor meer informatie over het werken met tabellen in Catenda. Zodra een rapport is aangemaakt, verschijnt het als een rij in de rapportentabel voor die persoon. De rapporten zijn ook zichtbaar in de documententabel.
 
 ### 3.1 **Acties voor geselecteerde items**
 
@@ -48,7 +48,7 @@ Nadat u een element rij selecteert, verschijnen acties voor geselecteerde items 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/05-selected-item-actions.png)
 
-Klik [hier](https://support.catenda.com/en/articles/4670288-document-structure-actions) voor meer informatie over de acties voor geselecteerde items op de rapportenpagina.
+Klik [hier](https://support.catenda.com/nl/articles/4670288-document-structure-actions) voor meer informatie over de acties voor geselecteerde items op de rapportenpagina.
 
 ### 3.2 **Rijinhoud**
 
@@ -56,11 +56,11 @@ Klik [hier](https://support.catenda.com/en/articles/4670288-document-structure-a
 
 **Mappenrij** Als u de inhoud van een mappenrij opent, verandert de tabel zodat deze de inhoud van die map in de rapportentabel weergeeft.
 
-**Rapportrij** Als u de inhoud van een rapportrij opent, wordt het [documentvoorbeeld](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) van de meest recente revisie van dat rapport geopend.
+**Rapportrij** Als u de inhoud van een rapportrij opent, wordt het [documentvoorbeeld](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations) van de meest recente revisie van dat rapport geopend.
 
 ### 3.3 **Rijinhoud met statuswerkstroom -** Conceptrevisies
 
-Als u de inhoud van een rapportrij met alleen conceptrevisies opent, wordt het [rapportvoorbeeld](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) van de meest recente conceptrevisie van het rapport geopend.
+Als u de inhoud van een rapportrij met alleen conceptrevisies opent, wordt het [rapportvoorbeeld](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations) van de meest recente conceptrevisie van het rapport geopend.
 
 ### 3.4 **Rijinhoud met statuswerkstroom - Werkruimte-tabblad**
 
@@ -68,13 +68,13 @@ Als u de inhoud van een rapportrij met alleen conceptrevisies opent, wordt het [
 
 Zonder toegang tot het bekijken van gedeelde revisies wordt de meest recente gepubliceerde revisie weergegeven. Ook als er meer recente gedeelde revisies zijn. _Vereiste toegang -_ Leestoegang tot het rapport
 
-**Rapportinhoud** Als u de inhoud van een rapportrij in het werkruimte-tabblad opent, wordt het [documentvoorbeeld](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) van de meest recente gedeelde revisie geopend, zelfs als revisies in het rapport eerder zijn gepubliceerd.
+**Rapportinhoud** Als u de inhoud van een rapportrij in het werkruimte-tabblad opent, wordt het [documentvoorbeeld](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations) van de meest recente gedeelde revisie geopend, zelfs als revisies in het rapport eerder zijn gepubliceerd.
 
 ### 3.5 **Rijinhoud met statuswerkstroom -** Tabblad Gepubliceerd
 
 **Toegang** Rijen op de rapportenpagina worden weergegeven op basis van de toegang tot het element. Rapportrijen met minstens één gepubliceerde revisie worden weergegeven. _Vereiste toegang -_ Lezen
 
-**Rapportinhoud** Als u de inhoud van een rapportrij in het gepubliceerde tabblad opent, wordt het [documentvoorbeeld](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) van de meest recente gepubliceerde revisie van het rapport geopend, zelfs als er nieuwere gedeelde revisies zijn.
+**Rapportinhoud** Als u de inhoud van een rapportrij in het gepubliceerde tabblad opent, wordt het [documentvoorbeeld](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations) van de meest recente gepubliceerde revisie van het rapport geopend, zelfs als er nieuwere gedeelde revisies zijn.
 
 ### 3.6 **Kolommen**
 
@@ -96,4 +96,4 @@ Sommige kolommen in de rapportentabel zijn standaard ingeschakeld, terwijl ander
 
 De volgende pagina's zijn te vinden als subpagina's op de rapportenpagina:
 
-- [Sjablonen](https://support.catenda.com/en/articles/12380837-report-templates-page)
+- [Sjablonen](https://support.catenda.com/nl/articles/12380837-report-templates-page)

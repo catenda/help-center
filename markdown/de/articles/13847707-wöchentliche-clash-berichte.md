@@ -74,13 +74,13 @@ Clash-Gruppierung ermöglicht Batch-Topic-Erstellung, Filterung ermöglicht foku
 
 ## 5. **Quellen**
 
-- [Clash-Koordination im großen Maßstab verwalten](https://support.catenda.com/en/articles/13845605-managing-clash-coordination-at-scale)
-- [Catenda Navisworks Plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
+- [Clash-Koordination im großen Maßstab verwalten](https://support.catenda.com/de/articles/13845605-managing-clash-coordination-at-scale)
+- [Catenda Navisworks Plugin](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin)
 
 ## 6. **Weitere Informationen**
 
-- [Clash-Koordination im großen Maßstab verwalten](https://support.catenda.com/en/articles/13845605-managing-clash-coordination-at-scale)
-- [Catenda Navisworks Plugin](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
+- [Clash-Koordination im großen Maßstab verwalten](https://support.catenda.com/de/articles/13845605-managing-clash-coordination-at-scale)
+- [Catenda Navisworks Plugin](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin)
 
 ## 7. Eingabeaufforderung
 

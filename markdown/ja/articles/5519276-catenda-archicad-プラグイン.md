@@ -1,6 +1,6 @@
 # Catenda Archicadプラグイン
 
-> **注意:** プラグインのインストールファイルは[この記事](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations)にあります。
+> **注意:** プラグインのインストールファイルは[この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-plugins-and-integrations)にあります。
 
 Catenda ArchicadプラグインはNemetchek Archicadにインストール可能なプラグインです。このプラグインを使用すれば、建設プロジェクトの他のメンバーとともに3D viewpoint、トピック、ドキュメントについて協業できます。
 
@@ -36,7 +36,7 @@ Catendaパレットを開くと、最初に表示されるのはサインイン�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/01-sign-in.png)
 
-Catendaアカウントがない場合は、右上の「無料でサインアップ」をクリックしてサインアップできます。既にCatendaアカウントをお持ちの場合は、メールアドレスとパスワードを入力し、サインインをクリックしてください。サインイン後、Catendaアカウントへのアクセスを許可するよう求められます。このアクセスを許可すると、ArchicadプラグインはCatendaアカウントの[アプリケーションページ](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a)に表示されます。必要に応じていつでもこのアクセスを取り消すことができます。
+Catendaアカウントがない場合は、右上の「無料でサインアップ」をクリックしてサインアップできます。既にCatendaアカウントをお持ちの場合は、メールアドレスとパスワードを入力し、サインインをクリックしてください。サインイン後、Catendaアカウントへのアクセスを許可するよう求められます。このアクセスを許可すると、ArchicadプラグインはCatendaアカウントの[アプリケーションページ](https://support.catenda.com/ja/articles/6880968-account-page#h_40e031c49a)に表示されます。必要に応じていつでもこのアクセスを取り消すことができます。
 
 ### 3.1 **パスワードのリセット**
 
@@ -54,7 +54,7 @@ Archicadプラグインを開くと、プロジェクトのリストが表示さ
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/03-project-list.png)
 
-プロジェクトへの招待を受け入れると、プラグイン内のプロジェクトリストと[プロジェクトページ](https://support.catenda.com/en/articles/8400797-projects-page)にプロジェクトが表示されます。
+プロジェクトへの招待を受け入れると、プラグイン内のプロジェクトリストと[プロジェクトページ](https://support.catenda.com/ja/articles/8400797-projects-page)にプロジェクトが表示されます。
 
 **アクションメニュー** プロフィール画像の横にある3つのドットをクリックして、アクションメニュードロップダウンを開きます：
 

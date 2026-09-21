@@ -48,7 +48,7 @@ For øyeblikket finnes det ingen offisiell måte å eksportere til IFC fra Navis
    2. Objekter - Alle
    3. Visning - Inkluder alle
 
-> **Merk:** IFC 4x1 er trukket tilbake av BuildingSMART og støttes derfor heller ikke av Catenda Hub. Se [her](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support) hvilke filtyper som støttes i Catenda Hub
+> **Merk:** IFC 4x1 er trukket tilbake av BuildingSMART og støttes derfor heller ikke av Catenda Hub. Se [her](https://support.catenda.com/nb/articles/4670320-what-file-types-does-catenda-support) hvilke filtyper som støttes i Catenda Hub
 
 6. Ressurs og Tildeling
 

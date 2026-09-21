@@ -12,7 +12,7 @@ En cliquant sur le bouton de filtre, un panneau s'affiche sur le côté gauche. 
 
 ## 2. **Filtres enregistrés**
 
-Cliquez [ici](https://support.catenda.com/en/articles/8551755-saving-filters) pour en savoir plus sur la façon d'enregistrer un ensemble de filtres
+Cliquez [ici](https://support.catenda.com/fr/articles/8551755-saving-filters) pour en savoir plus sur la façon d'enregistrer un ensemble de filtres
 
 ## 3. **Filtres**
 
@@ -22,11 +22,11 @@ Cliquez sur le bouton de filtre en haut à gauche pour qu'un panneau s'affiche s
 
 ### 3.1 **Enregistrer et partager le filtre actuel**
 
-Accédez à l'URL d'une page filtrée pour charger cette page avec le filtre appliqué. Les filtres appliqués peuvent être enregistrés en haut du menu de filtre. Cliquez [ici](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) pour en savoir plus sur la façon d'enregistrer et de partager des filtres
+Accédez à l'URL d'une page filtrée pour charger cette page avec le filtre appliqué. Les filtres appliqués peuvent être enregistrés en haut du menu de filtre. Cliquez [ici](https://support.catenda.com/fr/articles/11401493-saving-a-filter-link) pour en savoir plus sur la façon d'enregistrer et de partager des filtres
 
 ### 3.2 **Masquer les filtres vides**
 
-Cliquez [ici](https://support.catenda.com/en/articles/8551755-saving-filters) pour en savoir plus sur la limitation des résultats de filtre.
+Cliquez [ici](https://support.catenda.com/fr/articles/8551755-saving-filters) pour en savoir plus sur la limitation des résultats de filtre.
 
 ### 3.3 **Onglets**
 
@@ -58,7 +58,7 @@ Nom du membre - `publishedBy=<Member GUID>&subFolders=true`
 
 ### 3.10 **Filtres de date**
 
-Publié - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Cliquez sur Sélectionner les dates pour sélectionner les dates entre lesquelles vous souhaitez effectuer une recherche. Cliquez [ici](https://support.catenda.com/en/articles/6511685-date-filter) pour en savoir plus sur le filtre de date
+Publié - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Cliquez sur Sélectionner les dates pour sélectionner les dates entre lesquelles vous souhaitez effectuer une recherche. Cliquez [ici](https://support.catenda.com/fr/articles/6511685-date-filter) pour en savoir plus sur le filtre de date
 
 ### 3.11 **Approbations ouvertes - Statut flux de travail uniquement**
 

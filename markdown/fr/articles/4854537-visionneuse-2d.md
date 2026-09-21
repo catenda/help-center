@@ -2,7 +2,7 @@
 
 > Décrit les différents outils de la barre d'outils 2D
 
-Pour ouvrir la visionneuse 2D, cliquez sur le bouton 2D à droite dans le [panneau 3D](https://support.catenda.com/en/articles/8227211-3d-viewer).
+Pour ouvrir la visionneuse 2D, cliquez sur le bouton 2D à droite dans le [panneau 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5pdj535/01-intro.png)
 
@@ -16,7 +16,7 @@ Dans la visionneuse 2D, une coupe à travers les objets 3D d'un modèle est affi
 
 Si aucune vue 2D n'a été précédemment sélectionnée et qu'il y a des modèles sur la page des modèles du projet, l'étage du modèle par défaut s'affiche. L'étage par défaut est l'étage de la dernière révision de l'un des modèles qui possède le plus d'objets d'intérêt. Les objets d'intérêt incluent des objets tels que les murs, les portes et les fenêtres.
 
-**Configuration de l'étage par défaut** Si un bâtiment a été configuré dans [le configurateur d'étages](https://support.catenda.com/en/articles/6921756-storey-configurator-page), le premier étage du premier bâtiment créé s'affiche à la place de l'étage par défaut sélectionné en fonction des objets d'intérêt. Vérifiez à nouveau les configurations du projet si l'étage préconfigué ne s'affiche pas comme prévu, et revisitez les paramètres dans le configurateur d'étages si nécessaire.
+**Configuration de l'étage par défaut** Si un bâtiment a été configuré dans [le configurateur d'étages](https://support.catenda.com/fr/articles/6921756-storey-configurator-page), le premier étage du premier bâtiment créé s'affiche à la place de l'étage par défaut sélectionné en fonction des objets d'intérêt. Vérifiez à nouveau les configurations du projet si l'étage préconfigué ne s'affiche pas comme prévu, et revisitez les paramètres dans le configurateur d'étages si nécessaire.
 
 ### 1.2 **Étages disponibles**
 
@@ -24,11 +24,11 @@ Chargez des vues 2D de différents étages dans les modèles dans la visionneuse
 
 **Bouton 2D** Cliquez sur le bouton 2D pour un modèle. Les boutons 2D pour les modèles peuvent être trouvés à plusieurs endroits :
 
-- [Sélecteur de révision](https://support.catenda.com/en/articles/4670279-revision-selector) vers le haut à droite de la visionneuse 3D
-- [Tableau des modèles](https://support.catenda.com/en/articles/4670286-models-page#h_bbc42c56bb) sur la [page des modèles](https://support.catenda.com/en/articles/4670286-models-page)
-- Colonne Visionneuse dans le [tableau des documents](https://support.catenda.com/en/articles/8204673-documents-page#h_54e8dfcac2) sur la [page des documents](https://support.catenda.com/en/articles/8204673-documents-page)
+- [Sélecteur de révision](https://support.catenda.com/fr/articles/4670279-revision-selector) vers le haut à droite de la visionneuse 3D
+- [Tableau des modèles](https://support.catenda.com/fr/articles/4670286-models-page#h_bbc42c56bb) sur la [page des modèles](https://support.catenda.com/fr/articles/4670286-models-page)
+- Colonne Visionneuse dans le [tableau des documents](https://support.catenda.com/fr/articles/8204673-documents-page#h_54e8dfcac2) sur la [page des documents](https://support.catenda.com/fr/articles/8204673-documents-page)
 
-**Lecture d'une capture** Lisez [une capture 2D ou 3D](https://support.catenda.com/en/articles/9184555-2d-and-3d-viewpoints) à partir d'un sujet ou lisez une [capture](https://support.catenda.com/en/articles/10345863-snapshots) à partir d'un [signet](https://support.catenda.com/en/articles/8471481-bookmark) pour charger les modèles 2D qui étaient activés au moment où la capture a été créée.
+**Lecture d'une capture** Lisez [une capture 2D ou 3D](https://support.catenda.com/fr/articles/9184555-2d-and-3d-viewpoints) à partir d'un sujet ou lisez une [capture](https://support.catenda.com/fr/articles/10345863-snapshots) à partir d'un [signet](https://support.catenda.com/fr/articles/8471481-bookmark) pour charger les modèles 2D qui étaient activés au moment où la capture a été créée.
 
 **Marqueur d'affichage sur 2D** Un marqueur, d'un sujet avec un marqueur qui est placé sur un étage, peut être cliqué pour sélectionner la lecture sur 2D. Cliquez sur ce bouton pour mettre à disposition les étages des modèles qui étaient activés quand le marqueur a été créé dans la visionneuse 2D. _Accès requis :_ Accès en lecture au document connecté à chacun des modèles.
 
@@ -40,7 +40,7 @@ Quand des vues 2D de plusieurs modèles ont été activées en même temps, elle
 
 **Charger les vues 2D de plusieurs modèles à la fois** Pour charger les vues 2D de plusieurs modèles à la fois, sélectionnez les modèles sur la page des modèles et cliquez sur le bouton 2D vers le haut de la page des modèles.
 
-**Étages configurés** Sélectionnez un étage d'un bâtiment qui est configuré dans [le configurateur d'étages](https://support.catenda.com/en/articles/6921756-storey-configurator-page) pour charger automatiquement les vues 2D de tous les modèles configurés pour cet étage dans la visionneuse 2D.
+**Étages configurés** Sélectionnez un étage d'un bâtiment qui est configuré dans [le configurateur d'étages](https://support.catenda.com/fr/articles/6921756-storey-configurator-page) pour charger automatiquement les vues 2D de tous les modèles configurés pour cet étage dans la visionneuse 2D.
 
 ## 2. **Apparence de la visionneuse 2D**
 
@@ -51,7 +51,7 @@ Les éléments de la visionneuse 2D tels que :
 - Marqueurs
 - Étiquettes de pièce
 
-Peuvent être configurés pour s'afficher selon les besoins des utilisateurs. Cliquez [ici](https://support.catenda.com/en/articles/13615984-2d-viewer-appearance#h_73338e8c67) pour en savoir plus sur l'apparence des éléments de la visionneuse 2D.
+Peuvent être configurés pour s'afficher selon les besoins des utilisateurs. Cliquez [ici](https://support.catenda.com/fr/articles/13615984-2d-viewer-appearance#h_73338e8c67) pour en savoir plus sur l'apparence des éléments de la visionneuse 2D.
 
 ## 3. **Interactions de la visionneuse 2D**
 
@@ -63,8 +63,8 @@ Les boutons et zones suivants peuvent être cliqués pour effectuer différentes
 - Outils de sélection et paramètres
 - Barre inférieure
 
-Cliquez [ici](https://support.catenda.com/en/articles/12699525-2d-viewer-interactions) pour en savoir plus sur ces différentes actions.
+Cliquez [ici](https://support.catenda.com/fr/articles/12699525-2d-viewer-interactions) pour en savoir plus sur ces différentes actions.
 
 ## 4. **Export d'une image**
 
-Un bon moyen d'exporter une image de la visionneuse 2D est de faire une [capture 2D](https://support.catenda.com/en/articles/8227211-3d-viewer#h_a1594324c8) dans un sujet. Les images de lignes vectorielles sous forme de fichiers `.svg` peuvent être extraites de l'élément de la page en inspectant la page avec les outils de développement du navigateur dans l'onglet éléments.
+Un bon moyen d'exporter une image de la visionneuse 2D est de faire une [capture 2D](https://support.catenda.com/fr/articles/8227211-3d-viewer#h_a1594324c8) dans un sujet. Les images de lignes vectorielles sous forme de fichiers `.svg` peuvent être extraites de l'élément de la page en inspectant la page avec les outils de développement du navigateur dans l'onglet éléments.

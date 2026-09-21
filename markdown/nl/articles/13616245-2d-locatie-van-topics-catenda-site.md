@@ -1,6 +1,6 @@
 # 2D locatie van topics - Catenda Site
 
-Locatie kan worden toegepast op topics door een markering te plaatsen op een x, y, z coördinaat in de [2D viewer](https://support.catenda.com/en/articles/4854537-2d-viewer). Gekleurde stippen markeren de locatie van topics in de 2D viewer, wat een onmiddellijk visueel begrip geeft van waar topics zich bevinden, evenals hun status en type. Door topic-locaties te gebruiken kan uw project aanzienlijk verbeterde controle over de plaatsing van topics bereiken. Deze functie completeert de functionaliteit van onze browsertoepassing, [Catenda Hub](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site). Met markeringen kunnen projecten gebruikmaken van naadloos creëren, monitoren en beheren van topics die in het veld zijn gemaakt, terug achter het bureau.
+Locatie kan worden toegepast op topics door een markering te plaatsen op een x, y, z coördinaat in de [2D viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer). Gekleurde stippen markeren de locatie van topics in de 2D viewer, wat een onmiddellijk visueel begrip geeft van waar topics zich bevinden, evenals hun status en type. Door topic-locaties te gebruiken kan uw project aanzienlijk verbeterde controle over de plaatsing van topics bereiken. Deze functie completeert de functionaliteit van onze browsertoepassing, [Catenda Hub](https://support.catenda.com/nl/articles/6530821-download-your-mobile-app-catenda-site). Met markeringen kunnen projecten gebruikmaken van naadloos creëren, monitoren en beheren van topics die in het veld zijn gemaakt, terug achter het bureau.
 
 Dit is hoe markeringen er uit kunnen zien in de 2D viewer op Catenda Site:
 
@@ -62,7 +62,7 @@ Wanneer een topic in een topic board wordt geopend, wordt de kleur van die marke
 
 ### 1.5 **Markeringsconfiguratie**
 
-Tik op het tandwielpictogram in de 2D viewer om de Catenda Site 2D viewer [instellingen](https://support.catenda.com/en/articles/7748370-2d-viewer-catenda-site#h_63e1728758) te openen
+Tik op het tandwielpictogram in de 2D viewer om de Catenda Site 2D viewer [instellingen](https://support.catenda.com/nl/articles/7748370-2d-viewer-catenda-site#h_63e1728758) te openen
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/10-marker-configuration.png)
 

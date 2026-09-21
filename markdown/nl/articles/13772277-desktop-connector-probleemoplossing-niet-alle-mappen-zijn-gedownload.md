@@ -1,6 +1,6 @@
 # Desktop Connector - niet alle mappen gedownload
 
-In dit artikel vindt u informatie over een specifieke fout die optreedt bij het gebruik van de [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector). Zie [hier](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) voor andere Desktop Connector-probleemoplossingen.
+In dit artikel vindt u informatie over een specifieke fout die optreedt bij het gebruik van de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector). Zie [hier](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=11844906&activeContentType=article&editorMode=view&native_content=false) voor andere Desktop Connector-probleemoplossingen.
 
 In de taak zelf kunt u het volgende zien:
 

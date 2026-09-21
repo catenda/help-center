@@ -1,6 +1,6 @@
 # Menu droit sur la page Membres
 
-Sélectionnez un élément sur la [page des Membres et Équipes](https://support.catenda.com/en/articles/4670291-members-and-teams-page) pour que le bouton d'information s'affiche à droite de la barre de recherche ou de Filtres. Voici où le bouton peut être trouvé sur la page :
+Sélectionnez un élément sur la [page des Membres et Équipes](https://support.catenda.com/fr/articles/4670291-members-and-teams-page) pour que le bouton d'information s'affiche à droite de la barre de recherche ou de Filtres. Voici où le bouton peut être trouvé sur la page :
 
 ![Onglet Membres de la page Membres et Équipes. Une flèche pointe vers le ](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/01-intro.png)
 

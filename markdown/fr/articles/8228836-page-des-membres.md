@@ -1,6 +1,6 @@
 # Page des membres
 
-La page des membres se trouve dans la section Membres de la [page des membres](https://support.catenda.com/en/articles/4670291-members-page) en cliquant sur le membre dont vous souhaitez voir la page. Voici à quoi peut ressembler une page de membre :
+La page des membres se trouve dans la section Membres de la [page des membres](https://support.catenda.com/fr/articles/4670291-members-page) en cliquant sur le membre dont vous souhaitez voir la page. Voici à quoi peut ressembler une page de membre :
 
 ![Page Membres](https://raw.githubusercontent.com/catenda/help-center/main/images/t0zstfcp/01-intro.png)
 

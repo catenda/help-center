@@ -1,6 +1,6 @@
 # Filterung auf der Genehmigungsseite - Erbschaft
 
-Das Filterpanel kann auf der Genehmigungsseite geöffnet werden, indem Sie auf die Filterschaltfläche links neben der Suchleiste auf der [Genehmigungsseite](https://support.catenda.com/en/articles/8349340-approvals-page) klicken.
+Das Filterpanel kann auf der Genehmigungsseite geöffnet werden, indem Sie auf die Filterschaltfläche links neben der Suchleiste auf der [Genehmigungsseite](https://support.catenda.com/de/articles/8349340-approvals-page) klicken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vcqjvqcc/01-intro.png)
 
@@ -14,11 +14,11 @@ Klicken Sie auf die Filterschaltfläche oben links, um ein Panel auf der linken 
 
 ### 1.1 **Aktuellen Filter speichern und freigeben**
 
-Navigieren Sie zur URL einer gefilterten Seite, um diese Seite mit angewendetem Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/en/articles/11401493-saving-a-filter-link), um mehr darüber zu erfahren, wie Sie Filter speichern und freigeben können
+Navigieren Sie zur URL einer gefilterten Seite, um diese Seite mit angewendetem Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/de/articles/11401493-saving-a-filter-link), um mehr darüber zu erfahren, wie Sie Filter speichern und freigeben können
 
 ### 1.2 **Leere Filter ausblenden**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/8551755-saving-filters), um mehr über die Einschränkung von Filterergebnissen zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8551755-saving-filters), um mehr über die Einschränkung von Filterergebnissen zu erfahren.
 
 ### 1.3 **Meine Genehmigungen**
 

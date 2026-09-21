@@ -38,7 +38,7 @@ Innholdspanelet kan inneholde følgende hovedsider:
 
 Dashbord Modeller Saker Dokumenter Bibliotek Rapporter Varsel Innstillinger
 
-Klikk [her](https://support.catenda.com/en/articles/8212646-dashboard-page) for å lese mer om innholdspanelet.
+Klikk [her](https://support.catenda.com/nb/articles/8212646-dashboard-page) for å lese mer om innholdspanelet.
 
 ## 3. **Modellviserpanel**
 
@@ -50,7 +50,7 @@ Modellviserpanelet kan inneholde følgende hovedsider:
 
 3D-viserverktøy 2D-viser
 
-Klikk [her](https://support.catenda.com/en/articles/8227211-3d-viewer) for å lese mer om 3D-panelet.
+Klikk [her](https://support.catenda.com/nb/articles/8227211-3d-viewer) for å lese mer om 3D-panelet.
 
 ## 4. **Modelltrepanel**
 
@@ -62,7 +62,7 @@ Trepanelet kan inneholde følgende hovedsider:
 
 Inneholdelsesspree Komponenttre Typetre Lagtre Systemtre
 
-Klikk [her](https://support.catenda.com/en/articles/4670290-trees-panel) for å lese mer om trepanelet.
+Klikk [her](https://support.catenda.com/nb/articles/4670290-trees-panel) for å lese mer om trepanelet.
 
 ## 5. **Modellinformasjonspanel**
 
@@ -74,4 +74,4 @@ Inspeksjonspanelet kan inneholde følgende hovedsider:
 
 Inspeksjon QTO (Mengdeoverslag) 4D-valg Måling
 
-Klikk [her](https://support.catenda.com/en/articles/4670285-inspect-menu) for å lese mer om innholdspanelet.
+Klikk [her](https://support.catenda.com/nb/articles/4670285-inspect-menu) for å lese mer om innholdspanelet.

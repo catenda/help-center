@@ -1,6 +1,6 @@
 # Page de contenu des signets
 
-Les signets se trouvent sur la [page des signets](https://support.catenda.com/en/articles/4670281-bookmarks-page). Voici à quoi peut ressembler un signet :
+Les signets se trouvent sur la [page des signets](https://support.catenda.com/fr/articles/4670281-bookmarks-page). Voici à quoi peut ressembler un signet :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/01-intro.png)
 
@@ -12,7 +12,7 @@ Le menu d'action se trouve en haut à droite de la page
 
 ### 1.1 **Nouveau signet**
 
-Cliquez ici pour créer un [nouveau signet](https://support.catenda.com/en/articles/4670269-creating-a-new-bookmark).
+Cliquez ici pour créer un [nouveau signet](https://support.catenda.com/fr/articles/4670269-creating-a-new-bookmark).
 
 ### 1.2 **Supprimer le signet**
 
@@ -24,11 +24,11 @@ L'image de la fenêtre d'affichage a été générée lors de la dernière mise 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/03-snapshot.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/10345863-snapshots) pour en savoir plus sur les captures.
+Cliquez [ici](https://support.catenda.com/fr/articles/10345863-snapshots) pour en savoir plus sur les captures.
 
 ## 3. **Titre**
 
-Le titre du signet. Il peut être filtré avec un filtre de texte sur la [page des signets](https://support.catenda.com/en/articles/4670281-bookmarks-page).
+Le titre du signet. Il peut être filtré avec un filtre de texte sur la [page des signets](https://support.catenda.com/fr/articles/4670281-bookmarks-page).
 
 ### 3.1 **Créé par**
 

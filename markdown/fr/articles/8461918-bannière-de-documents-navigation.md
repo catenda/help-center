@@ -1,6 +1,6 @@
 # Bannière de documents - Navigation
 
-Si vous sélectionnez un document sur la [page des documents](https://support.catenda.com/en/articles/8204673-documents-page) ou dans une bibliothèque, une nouvelle fenêtre s'ouvrira pour ce document. Vous verrez toujours la dernière révision lors de l'ouverture d'un document. La page du document peut ressembler à ceci:
+Si vous sélectionnez un document sur la [page des documents](https://support.catenda.com/fr/articles/8204673-documents-page) ou dans une bibliothèque, une nouvelle fenêtre s'ouvrira pour ce document. Vous verrez toujours la dernière révision lors de l'ouverture d'un document. La page du document peut ressembler à ceci:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/01-intro.png)
 
@@ -8,7 +8,7 @@ Si vous sélectionnez un document sur la [page des documents](https://support.ca
 1. Vous trouverez l'en-tête du document sous la bannière de documents et au-dessus de l'aperçu du document
 1. Sous l'en-tête du document, vous trouverez l'aperçu du document
 1. À gauche de l'en-tête et de l'aperçu du document, vous trouverez la liste des documents
-1. À droite de l'en-tête et de l'aperçu du document, vous trouverez le [menu d'information de droite](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
+1. À droite de l'en-tête et de l'aperçu du document, vous trouverez le [menu d'information de droite](https://support.catenda.com/fr/articles/8302244-right-menu-in-a-document)
 
 La bannière de documents peut ressembler à ceci:
 
@@ -38,11 +38,11 @@ Les actions de document se trouvent vers le haut à droite du document et peuven
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/03-actions.png)
 
-En savoir plus sur ce que font les différentes actions de document [ici](https://support.catenda.com/en/articles/4670288-actions-documents#h_16671d6fc5).
+En savoir plus sur ce que font les différentes actions de document [ici](https://support.catenda.com/fr/articles/4670288-actions-documents#h_16671d6fc5).
 
 ## 4. **Menu d'information de droite**
 
-Dans le menu d'information de droite, vous pourrez trouver toutes les informations sur le document. Cliquez [ici](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document) pour en savoir plus sur le menu d'information de droite dans la section des documents.
+Dans le menu d'information de droite, vous pourrez trouver toutes les informations sur le document. Cliquez [ici](https://support.catenda.com/fr/articles/8302244-right-menu-in-a-document) pour en savoir plus sur le menu d'information de droite dans la section des documents.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/04-right-information-menu.png)
 
@@ -58,13 +58,13 @@ Cliquez sur le bouton plein écran à droite du bouton du menu d'information de 
 
 Les documents peuvent être téléchargés avec le bouton d'action en haut à droite, avec le bouton de téléchargement dans le menu des révisions du menu d'information de droite, en le sélectionnant dans la liste des documents et en le téléchargeant ou à partir de la boîte de dialogue d'aperçu.
 
-**Menu d'information de droite** Vous pourrez trouver le bouton d'action de téléchargement dans le [menu d'information de droite](https://support.catenda.com/en/articles/8345396-right-panel-in-documents-table). Le téléchargement du document à partir d'ici vous donnera toujours le fichier téléchargé à l'origine. Si vous sélectionnez un document, vous obtiendrez la dernière révision en tant que fichier portant le nom de la révision. Si vous sélectionnez plus d'un document, vous obtiendrez les dernières révisions des documents sélectionnés dans un fichier zip portant le nom du document et le numéro de révision.
+**Menu d'information de droite** Vous pourrez trouver le bouton d'action de téléchargement dans le [menu d'information de droite](https://support.catenda.com/fr/articles/8345396-right-panel-in-documents-table). Le téléchargement du document à partir d'ici vous donnera toujours le fichier téléchargé à l'origine. Si vous sélectionnez un document, vous obtiendrez la dernière révision en tant que fichier portant le nom de la révision. Si vous sélectionnez plus d'un document, vous obtiendrez les dernières révisions des documents sélectionnés dans un fichier zip portant le nom du document et le numéro de révision.
 
 **Aperçu du document** Si votre document peut être affiché, vous pourrez trouver le bouton Enregistrer sous dans le menu hamburger en haut à gauche de l'aperçu des documents. Avec le menu Enregistrer sous, vous pourrez télécharger votre document avec des annotations et des commentaires.
 
 ### 6.2 **Propriétés du document**
 
-Vous pouvez en savoir plus sur les différentes colonnes qu'un document peut avoir dans la vue de tableau de la page des documents [ici](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
+Vous pouvez en savoir plus sur les différentes colonnes qu'un document peut avoir dans la vue de tableau de la page des documents [ici](https://support.catenda.com/fr/articles/8466850-columns-on-the-documents-page)
 
 ### 6.3 **Révisions de documents**
 

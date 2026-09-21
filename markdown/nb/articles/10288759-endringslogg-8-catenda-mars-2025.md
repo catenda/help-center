@@ -4,7 +4,7 @@ Hallo alle sammen, Forhåpentlig har dere alle klart å overleve de kalde vinter
 
 I denne artikkelen finner dere oppdateringer om følgende:
 
-_[Artikler](https://support.catenda.com/en/articles/9285880-changelog-6-catenda-august-2024#h_a8cc7b1921) - [Feil løst](https://support.catenda.com/en/articles/9285880-changelog-6-catenda-august-2024#h_58dfb1b852) - [Nye utgaver](https://support.catenda.com/en/articles/9285880-changelog-6-catenda-august-2024#h_25203946b2)_
+_[Artikler](https://support.catenda.com/nb/articles/9285880-changelog-6-catenda-august-2024#h_a8cc7b1921) - [Feil løst](https://support.catenda.com/nb/articles/9285880-changelog-6-catenda-august-2024#h_58dfb1b852) - [Nye utgaver](https://support.catenda.com/nb/articles/9285880-changelog-6-catenda-august-2024#h_25203946b2)_
 
 ## 1. **Artikler**
 
@@ -12,25 +12,25 @@ Når nye funksjoner blir lansert og feil blir fikset, blir artikler oppdatert me
 
 ### 1.1 **Nye artikler:**
 
-_Kom i gang og FAQ_ [Vanlige spørsmål om organisasjonsverktøy](https://support.catenda.com/en/articles/10475849-organization-tool-faq)
+_Kom i gang og FAQ_ [Vanlige spørsmål om organisasjonsverktøy](https://support.catenda.com/nb/articles/10475849-organization-tool-faq)
 
-_Saker_ [Saksliste - tilgangskontroll](https://support.catenda.com/en/articles/4670296-topic-board-access-control) [Innstillinger for saksliste](https://support.catenda.com/en/articles/4670277-topic-board-settings)
+_Saker_ [Saksliste - tilgangskontroll](https://support.catenda.com/nb/articles/4670296-topic-board-access-control) [Innstillinger for saksliste](https://support.catenda.com/nb/articles/4670277-topic-board-settings)
 
-_Plugin-moduler og integrasjoner_ [Catenda SharePoint-program - WebPart](https://support.catenda.com/en/articles/10538168-catenda-sharepoint-application-webpart) [Catenda som program](https://support.catenda.com/en/articles/10695677-catenda-as-an-application) [Legg til startskjerm](https://support.catenda.com/en/articles/10741601-add-to-home-screen) [Systemleser for startskjerm](https://Home-screen%20system-browser%20support)
+_Plugin-moduler og integrasjoner_ [Catenda SharePoint-program - WebPart](https://support.catenda.com/nb/articles/10538168-catenda-sharepoint-application-webpart) [Catenda som program](https://support.catenda.com/nb/articles/10695677-catenda-as-an-application) [Legg til startskjerm](https://support.catenda.com/nb/articles/10741601-add-to-home-screen) [Systemleser for startskjerm](https://Home-screen%20system-browser%20support)
 
 ### 1.2 **Artikler som har blitt endret:**
 
-_Kom i gang_ [Kom i gang på Catenda Hub](https://support.catenda.com/en/articles/9030303-getting-started-on-catenda-hub) [Øyeblikksbilder](https://support.catenda.com/en/articles/10345863-snapshots) [Anbefalinger for maskinvare](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Varselfiltrering og funksjonalitet](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality) [Godta en invitasjon til å bli med i et prosjekt](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project) [Opprette en konto](https://support.catenda.com/en/articles/8412895-creating-an-account)
+_Kom i gang_ [Kom i gang på Catenda Hub](https://support.catenda.com/nb/articles/9030303-getting-started-on-catenda-hub) [Øyeblikksbilder](https://support.catenda.com/nb/articles/10345863-snapshots) [Anbefalinger for maskinvare](https://support.catenda.com/nb/articles/6921941-hardware-recommendation) [Varselfiltrering og funksjonalitet](https://support.catenda.com/nb/articles/8304417-notification-filtering-and-functionality) [Godta en invitasjon til å bli med i et prosjekt](https://support.catenda.com/nb/articles/4670246-accepting-an-invitation-to-join-a-project) [Opprette en konto](https://support.catenda.com/nb/articles/8412895-creating-an-account)
 
-_Ofte stilte spørsmål_ [Er det en størrelsesgrense for IFC-filer?](https://support.catenda.com/en/articles/4670324-is-there-a-size-limit-for-ifc-files)
+_Ofte stilte spørsmål_ [Er det en størrelsesgrense for IFC-filer?](https://support.catenda.com/nb/articles/4670324-is-there-a-size-limit-for-ifc-files)
 
-_Hovedside_ [Brukerside - Organisasjonsverktøy](https://support.catenda.com/en/articles/8508311-users-page-organization-tool) [Plasseringen og funksjonaliteten for Støtt-boblen](https://Support%20button%20location%20and%20functionality)
+_Hovedside_ [Brukerside - Organisasjonsverktøy](https://support.catenda.com/nb/articles/8508311-users-page-organization-tool) [Plasseringen og funksjonaliteten for Støtt-boblen](https://Support%20button%20location%20and%20functionality)
 
-_Saker_ [Listevisning i saksliste](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board) [Tabelvisning i saksliste](https://support.catenda.com/en/articles/6941099-table-view-in-an-topic-board) [Saksinnhold - Innholdet i en sak](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
+_Saker_ [Listevisning i saksliste](https://support.catenda.com/nb/articles/6941232-list-view-in-a-topic-board) [Tabelvisning i saksliste](https://support.catenda.com/nb/articles/6941099-table-view-in-an-topic-board) [Saksinnhold - Innholdet i en sak](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic)
 
-_Dokumenter_ [Handlinger i et dokument](https://support.catenda.com/en/articles/9323521-actions-in-a-document) [QR-koder på PDF-er i Catenda](https://support.catenda.com/en/articles/9360508-qr-code-on-pdfs-in-catenda)
+_Dokumenter_ [Handlinger i et dokument](https://support.catenda.com/nb/articles/9323521-actions-in-a-document) [QR-koder på PDF-er i Catenda](https://support.catenda.com/nb/articles/9360508-qr-code-on-pdfs-in-catenda)
 
-_Plugin-moduler og integrasjoner_ [Catenda Plugin-moduler og integrasjoner](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) [Catenda SharePoint-program](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application)
+_Plugin-moduler og integrasjoner_ [Catenda Plugin-moduler og integrasjoner](https://support.catenda.com/nb/articles/8396532-catenda-plugins-and-integrations) [Catenda SharePoint-program](https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-application)
 
 ## 2. **Feil løst**
 

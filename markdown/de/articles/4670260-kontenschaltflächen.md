@@ -14,17 +14,17 @@ Wenn neue Benachrichtigungen vorhanden sind, wird auf der Benachrichtigungsschal
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/03-notifications-button.png)
 
-Das Dropdown zeigt die letzten 5 Benachrichtigungen mit allen neuen Informationen zu den Projekten, an denen Sie beteiligt sind. Sie können diese Schaltfläche immer oben rechts auf dem Bildschirm sehen. Wenn Sie auf Alle Benachrichtigungen anzeigen klicken, gelangen Sie zu Ihrer [Kontenseite für Benachrichtigungen](https://support.catenda.com/en/articles/7439223-account-notifications-page)
+Das Dropdown zeigt die letzten 5 Benachrichtigungen mit allen neuen Informationen zu den Projekten, an denen Sie beteiligt sind. Sie können diese Schaltfläche immer oben rechts auf dem Bildschirm sehen. Wenn Sie auf Alle Benachrichtigungen anzeigen klicken, gelangen Sie zu Ihrer [Kontenseite für Benachrichtigungen](https://support.catenda.com/de/articles/7439223-account-notifications-page)
 
 > **Hinweis:** Wenn Sie auf diese Weise zur Kontenseite für Benachrichtigungen navigieren, wird sie standardmäßig nach Benachrichtigungen des letzten Monats gefiltert. Entfernen Sie den Filter dateFrom=last-month aus der URL, um Benachrichtigungen von vor mehr als einem Monat zu sehen.
 
 ## 2. **Sharelink-Schaltfläche**
 
-Die [Sharelink](https://support.catenda.com/en/articles/4728886-sharelink-notify-people-about-catenda-hub-content)-Funktion ist nur innerhalb eines Projekts verfügbar und wird daher auf der Projektseite ausgegraut.
+Die [Sharelink](https://support.catenda.com/de/articles/4728886-sharelink-notify-people-about-catenda-hub-content)-Funktion ist nur innerhalb eines Projekts verfügbar und wird daher auf der Projektseite ausgegraut.
 
 ## 3. **Support-Schaltfläche**
 
-Klicken Sie auf die schwarze Chat-Blasenschaltfläche, um das Support-Menü zu öffnen. Klicken Sie [hier](https://support.catenda.com/en/articles/8894066-support-button-location-and-functionality), um mehr über das Support-Menü zu erfahren.
+Klicken Sie auf die schwarze Chat-Blasenschaltfläche, um das Support-Menü zu öffnen. Klicken Sie [hier](https://support.catenda.com/de/articles/8894066-support-button-location-and-functionality), um mehr über das Support-Menü zu erfahren.
 
 ## 4. **Kontenschaltfläche**
 
@@ -34,7 +34,7 @@ Die Kontenschaltfläche zeigt Ihr Profilbild oder die Initialen Ihres Benutzerna
 
 ### 4.1 **Konto**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/6880968-account-page), um mehr über die [Kontoseite](https://hub.catenda.com/account/profile) zu erfahren. Dies öffnet dieselbe Seite wie die Kontenschaltfläche im linken Navigationsmenü. Der Unterschied besteht darin, dass diese Kontenschaltfläche überall auf Catenda Hub verfügbar ist, während sich das linke Navigationsmenü je nach Seite ändern kann.
+Klicken Sie [hier](https://support.catenda.com/de/articles/6880968-account-page), um mehr über die [Kontoseite](https://hub.catenda.com/account/profile) zu erfahren. Dies öffnet dieselbe Seite wie die Kontenschaltfläche im linken Navigationsmenü. Der Unterschied besteht darin, dass diese Kontenschaltfläche überall auf Catenda Hub verfügbar ist, während sich das linke Navigationsmenü je nach Seite ändern kann.
 
 ### 4.2 **Abmelden**
 

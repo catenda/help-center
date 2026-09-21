@@ -38,7 +38,7 @@ Het inhouds panel kan de volgende hoofdpagina's bevatten:
 
 Dashboard Modellen Onderwerpen Documenten Bibliotheek Rapporten Notificaties Instellingen
 
-Klik [hier](https://support.catenda.com/en/articles/8212646-dashboard-page) om meer te lezen over het inhouds panel.
+Klik [hier](https://support.catenda.com/nl/articles/8212646-dashboard-page) om meer te lezen over het inhouds panel.
 
 ## 3. **Modelweergavepanel**
 
@@ -50,7 +50,7 @@ Het modelweergavepanel kan de volgende hoofdpagina's bevatten:
 
 3D-weergavehulpmiddelen 2D-weergave
 
-Klik [hier](https://support.catenda.com/en/articles/8227211-3d-viewer) om meer te lezen over het 3D-panel.
+Klik [hier](https://support.catenda.com/nl/articles/8227211-3d-viewer) om meer te lezen over het 3D-panel.
 
 ## 4. **Modelboom panel**
 
@@ -62,7 +62,7 @@ Het boompanel kan de volgende hoofdpagina's bevatten:
 
 Indeling boom Component boom Type boom Laag boom Systeem boom
 
-Klik [hier](https://support.catenda.com/en/articles/4670290-trees-panel) om meer te lezen over het boompanel.
+Klik [hier](https://support.catenda.com/nl/articles/4670290-trees-panel) om meer te lezen over het boompanel.
 
 ## 5. **Modelinformatiepanel**
 
@@ -74,4 +74,4 @@ Het inspectie panel kan de volgende hoofdpagina's bevatten:
 
 Inspectie QTO (Quantity Take-Off) 4D-selectie Meten
 
-Klik [hier](https://support.catenda.com/en/articles/4670285-inspect-menu) om meer te lezen over het inhouds panel.
+Klik [hier](https://support.catenda.com/nl/articles/4670285-inspect-menu) om meer te lezen over het inhouds panel.

@@ -2,7 +2,7 @@
 
 > Interaktion mit dem 2D-Viewer
 
-Verschiedene Komponenten des [2D-Viewers](https://support.catenda.com/en/articles/4854537-2d-viewer) können auf unterschiedliche Weise interaktiv verwendet werden. Jeder Teil des 2D-Viewers, der angeklickt werden kann, wird in diesem Artikel beschrieben. So kann der 2D-Viewer aussehen:
+Verschiedene Komponenten des [2D-Viewers](https://support.catenda.com/de/articles/4854537-2d-viewer) können auf unterschiedliche Weise interaktiv verwendet werden. Jeder Teil des 2D-Viewers, der angeklickt werden kann, wird in diesem Artikel beschrieben. So kann der 2D-Viewer aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/01-intro.png)
 
@@ -24,7 +24,7 @@ Ziehen Sie diese beiden diagonalen Linien, um die Größe des 2D-Viewers über e
 
 ### 2.2 **Titel**
 
-Der Titel der oberen Leiste ist der Name des Geschosses. Wenn ein Geschoss eines [Geschoss-Konfigurators](https://support.catenda.com/en/articles/6921756-storey-configurator-page) Gebäudes ausgewählt ist, enthält der Titel den Namen des Gebäudes und den Namen des aktuellen Geschosses. Wenn das Geschoss eines nicht konfigurierten Modells ausgewählt ist, enthält der Titel den Namen des Modells.
+Der Titel der oberen Leiste ist der Name des Geschosses. Wenn ein Geschoss eines [Geschoss-Konfigurators](https://support.catenda.com/de/articles/6921756-storey-configurator-page) Gebäudes ausgewählt ist, enthält der Titel den Namen des Gebäudes und den Namen des aktuellen Geschosses. Wenn das Geschoss eines nicht konfigurierten Modells ausgewählt ist, enthält der Titel den Namen des Modells.
 
 ### 2.3 **Öffnen und Schließen des 2D-Viewers**
 
@@ -49,8 +49,8 @@ _Linksklick_ Wenn sich Räume im Geschoss der 2D-Ansicht befinden, die für ein 
 - _Marker hinzufügen_<br>Einen neuen Marker hinzufügen. Wenn ein Thema im Inhaltsbereich offen ist, können Sie den ausgewählten Marker zuweisen. Dieser Marker wird erst gespeichert und für andere sichtbar, wenn er einem Problem hinzugefügt wird.
 - _Neues Thema mit Marker erstellen_<br>Ein neues Thema mit Marker erstellen. Dieser Marker wird erst gespeichert und für andere sichtbar, wenn das Thema eingereicht wird.
 - _Abfrage erstellen_
-    - Raum schneiden - Erstellen Sie eine [Abfrage](https://support.catenda.com/en/articles/4854514-queries) aller Objekte, die den ausgewählten Raum schneiden
-    - Geschoss schneiden - Erstellen Sie eine [Abfrage](https://support.catenda.com/en/articles/4854514-queries) aller Objekte, die dieses Geschoss schneiden
+    - Raum schneiden - Erstellen Sie eine [Abfrage](https://support.catenda.com/de/articles/4854514-queries) aller Objekte, die den ausgewählten Raum schneiden
+    - Geschoss schneiden - Erstellen Sie eine [Abfrage](https://support.catenda.com/de/articles/4854514-queries) aller Objekte, die dieses Geschoss schneiden
 
 ### 3.2 **Maustaste halten**
 
@@ -76,7 +76,7 @@ Zoomen Sie aus, um alle sichtbaren Objekte auf einmal anzuzeigen
 
 Mit der Rotationsschaltfläche können Sie den 2D-Viewer drehen.
 
-**Rotationsschieber** Die anfängliche Rotation kann durch Festlegen eines Standorts mit Rotation in den [Projekteinstellungen](https://support.catenda.com/en/articles/4670273-project-settings-page) konfiguriert werden.
+**Rotationsschieber** Die anfängliche Rotation kann durch Festlegen eines Standorts mit Rotation in den [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-project-settings-page) konfiguriert werden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/08-rotation.png)
 
@@ -86,7 +86,7 @@ Mit der Rotationsschaltfläche können Sie den 2D-Viewer drehen.
 
 **Zurücksetzen** Klicken Sie oben rechts auf "Zurücksetzen", um den Schieberegler auf die anfängliche Rotation zurückzusetzen.
 
-**Unterliegende Zeichnungsrotation** Gebäude können im [Geschoss-Konfigurator](https://support.catenda.com/en/articles/6921756-storey-configurator-page) konfiguriert werden. Jedes Geschoss in einem Gebäude kann eine Zeichnung als Untergrund haben, die relativ zu den Modellen im Projekt gedreht ist.
+**Unterliegende Zeichnungsrotation** Gebäude können im [Geschoss-Konfigurator](https://support.catenda.com/de/articles/6921756-storey-configurator-page) konfiguriert werden. Jedes Geschoss in einem Gebäude kann eine Zeichnung als Untergrund haben, die relativ zu den Modellen im Projekt gedreht ist.
 
 ### 4.3 **Kamera sperren**
 
@@ -94,7 +94,7 @@ Wenn ein Modell im 3D-Viewer geladen ist, können Sie die Kamera auf die 3D-View
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/09-lock-camera.png)
 
-Wenn diese Funktion aktiviert ist, bleibt der Ansichtspunkt-Indikator auf der Leinwand zentriert, auch wenn die Kamera im 3D-Viewer bewegt wird. Dies ist nützlich in Kombination mit dem [Gehmodus](https://support.catenda.com/en/articles/5784718-3d-viewer-settings#h_1c05dca226).
+Wenn diese Funktion aktiviert ist, bleibt der Ansichtspunkt-Indikator auf der Leinwand zentriert, auch wenn die Kamera im 3D-Viewer bewegt wird. Dies ist nützlich in Kombination mit dem [Gehmodus](https://support.catenda.com/de/articles/5784718-3d-viewer-settings#h_1c05dca226).
 
 ## 5. **Auswahlwerkzeuge und Einstellungen**
 
@@ -102,7 +102,7 @@ Die Auswahlwerkzeuge und Einstellungen befinden sich oben rechts auf der Leinwan
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/10-selection-tools-and-settings.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/8035360-selecting-and-clipping-from-2d), um eine detaillierte Erklärung zur Verwendung von Schnittwerkzeugen im 2D-Viewer zu erhalten.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8035360-selecting-and-clipping-from-2d), um eine detaillierte Erklärung zur Verwendung von Schnittwerkzeugen im 2D-Viewer zu erhalten.
 
 ### 5.1 **Auswählen**
 
@@ -120,7 +120,7 @@ Erstellen Sie 4 bis 6 Schnittebenen, indem Sie ein Rechteck über die 2D-Leinwan
 
 ### 5.4 **Abschnitt: Abfrage erstellen**
 
-Erstellen Sie eine [Abfrage](https://support.catenda.com/en/articles/4854514-queries), indem Sie ein Rechteck über die 2D-Leinwand ziehen und die Höhe auswählen.
+Erstellen Sie eine [Abfrage](https://support.catenda.com/de/articles/4854514-queries), indem Sie ein Rechteck über die 2D-Leinwand ziehen und die Höhe auswählen.
 
 ### 5.5 **Schaltfläche verschieben**
 
@@ -162,6 +162,6 @@ Mit der Ebenen-Schaltfläche können Sie verschiedene Ebenen im 2D-Viewer umscha
 
 **Modelle** Mit dieser Schaltfläche können Modelle ein- oder ausgeschaltet werden.
 
-**Zeichnungen** Sie sehen diese Schaltfläche, wenn eine Zeichnung als Untergrund für ein Gebäudegeschoss im [Geschoss-Konfigurator](https://support.catenda.com/en/articles/6921756-storey-configurator-page) ausgerichtet wurde. Mit dieser Schaltfläche können die ausgerichteten Zeichnungen ein- oder ausgeschaltet werden.
+**Zeichnungen** Sie sehen diese Schaltfläche, wenn eine Zeichnung als Untergrund für ein Gebäudegeschoss im [Geschoss-Konfigurator](https://support.catenda.com/de/articles/6921756-storey-configurator-page) ausgerichtet wurde. Mit dieser Schaltfläche können die ausgerichteten Zeichnungen ein- oder ausgeschaltet werden.
 
-**Karte** Sie sehen diese Schaltfläche, wenn ein Standort in den [Projekteinstellungen](https://support.catenda.com/en/articles/4670273-project-settings-page) konfiguriert wurde. Mit dieser Schaltfläche kann die Karte ein- oder ausgeschaltet werden.
+**Karte** Sie sehen diese Schaltfläche, wenn ein Standort in den [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-project-settings-page) konfiguriert wurde. Mit dieser Schaltfläche kann die Karte ein- oder ausgeschaltet werden.

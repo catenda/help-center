@@ -44,21 +44,21 @@ Diese integrierten Exporttools stehen direkt innerhalb der Standardoberfläche f
 
 Da jedes Modell in Catenda mit einem Dokument im Dokumentenbereich verknüpft ist, gelten die Standard-Dokumentexportfunktionen auch für Modelle. Darüber hinaus stehen dedizierte Exportoptionen speziell für Modelle zur Verfügung:
 
-**Download ausgewählter Modelle** Wählen Sie ein oder mehrere Modelle auf der [Modellseite](https://support.catenda.com/en/articles/4670286-models-page) aus und verwenden Sie die Download-Aktion, um ihre neuesten Überarbeitungen zu extrahieren.
+**Download ausgewählter Modelle** Wählen Sie ein oder mehrere Modelle auf der [Modellseite](https://support.catenda.com/de/articles/4670286-models-page) aus und verwenden Sie die Download-Aktion, um ihre neuesten Überarbeitungen zu extrahieren.
 
-**Download einzelner Überarbeitungen** Wählen Sie ein Modell auf der [Modellseite](https://support.catenda.com/en/articles/4670286-models-page) aus und verwenden Sie die Download-Schaltfläche neben jeder Überarbeitung im rechten Informationsbereich. Dies bietet eine effiziente Möglichkeit, bestimmte Überarbeitungen direkt herunterzuladen, ohne die vollständige [Modellinhaltseite](https://support.catenda.com/en/articles/4670270-model-contents-page) laden zu müssen. Alternativ können einzelne Überarbeitungen auch direkt von der Inhaltsseite eines Modells heruntergeladen werden.
+**Download einzelner Überarbeitungen** Wählen Sie ein Modell auf der [Modellseite](https://support.catenda.com/de/articles/4670286-models-page) aus und verwenden Sie die Download-Schaltfläche neben jeder Überarbeitung im rechten Informationsbereich. Dies bietet eine effiziente Möglichkeit, bestimmte Überarbeitungen direkt herunterzuladen, ohne die vollständige [Modellinhaltseite](https://support.catenda.com/de/articles/4670270-model-contents-page) laden zu müssen. Alternativ können einzelne Überarbeitungen auch direkt von der Inhaltsseite eines Modells heruntergeladen werden.
 
-**Erweiterter Modellexport** Greifen Sie auf die [Modellexportseite](https://support.catenda.com/en/articles/4670280-model-export-page) zu, um ausgewählte Überarbeitungen über mehrere Modelle hinweg in einer einzigen herunterladbaren ZIP-Datei zu packen. Diese Methode beinhaltet erweiterte Optionen zur Verbesserung der exportierten Modelldateien durch Einbindung von Tags, benutzerdefinierten Eigenschaften oder Bibliotheksinformationen.
+**Erweiterter Modellexport** Greifen Sie auf die [Modellexportseite](https://support.catenda.com/de/articles/4670280-model-export-page) zu, um ausgewählte Überarbeitungen über mehrere Modelle hinweg in einer einzigen herunterladbaren ZIP-Datei zu packen. Diese Methode beinhaltet erweiterte Optionen zur Verbesserung der exportierten Modelldateien durch Einbindung von Tags, benutzerdefinierten Eigenschaften oder Bibliotheksinformationen.
 
 ### 2.2 **Themen exportieren (3 Wege)**
 
-Themendaten können über [Exchange Topics](https://support.catenda.com/en/articles/4670289-exchange-topics) in drei Primärformaten extrahiert werden, je nachdem wie die Informationen angezeigt, analysiert oder gespeichert werden:
+Themendaten können über [Exchange Topics](https://support.catenda.com/de/articles/4670289-exchange-topics) in drei Primärformaten extrahiert werden, je nachdem wie die Informationen angezeigt, analysiert oder gespeichert werden:
 
 **BCF (BIM Collaboration Format)** Ein offener Standard, der zur Erfassung und Übertragung von Themeninformationen entwickelt wurde und sich streng an die offizielle BCF-Spezifikation hält, einschließlich einzelner Themenerstellungs-Zeitstempel. Dieses Format garantiert eine breite plattformübergreifende Interoperabilität und eignet sich ideal für die nahtlose Wiederöffnung, Bearbeitung oder Verwendung von Themendaten mit anderer BCF-kompatibler Software. Für allgemeine langfristige Dokumentrepositories, bei denen direkte Dateivorschauen erforderlich sind, werden in der Regel PDF- oder Excel-Formate bevorzugt.
 
 **Excel** Exportiert Themenparameter in ein Tabellenformat für Filterung, Sortierung und Datenmanipulation. Dieses Format bietet strukturierte Zeilen und Spalten, die sich ideal für die Auswahl und das Kopieren von Daten eignen, und Excel-Dateien können in den meisten Archivierungsplattformen leicht vorhergesehen werden. Für Archivierungszwecke wird der PDF-Export in der Regel dem Excel-Export vorgezogen, da er mehr Informationen enthält.
 
-**PDF** Generiert einen sauberen, lesbaren Zusammenfassungsbericht im PDF-Standardformat (v1.4), das ohne spezialisierte Software zugänglich ist (siehe [Exporting topics to PDF](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf)). Standard-PDF-Exporte enthalten einen konsolidierten Download-Zeitstempel für formelle Behördenmeldungen und Archivierung und bieten mehr Informationen als ein Excel-Export. Während der Basis-Export eine Standard-PDF-Datei (v1.4) erzeugt, die viele Archivierungssysteme beim Upload automatisch in PDF/A konvertieren, ist der direkte Export in native PDF/A-1-, PDF/A-2- und PDF/A-3-Formate auch über die Opt-in [Reports Page](https://support.catenda.com/en/articles/12303098-reports-page) verfügbar.
+**PDF** Generiert einen sauberen, lesbaren Zusammenfassungsbericht im PDF-Standardformat (v1.4), das ohne spezialisierte Software zugänglich ist (siehe [Exporting topics to PDF](https://support.catenda.com/de/articles/9784934-exporting-topics-to-pdf)). Standard-PDF-Exporte enthalten einen konsolidierten Download-Zeitstempel für formelle Behördenmeldungen und Archivierung und bieten mehr Informationen als ein Excel-Export. Während der Basis-Export eine Standard-PDF-Datei (v1.4) erzeugt, die viele Archivierungssysteme beim Upload automatisch in PDF/A konvertieren, ist der direkte Export in native PDF/A-1-, PDF/A-2- und PDF/A-3-Formate auch über die Opt-in [Reports Page](https://support.catenda.com/de/articles/12303098-reports-page) verfügbar.
 
 ### 2.3 **Dokumente und Sammlungen exportieren**
 
@@ -67,15 +67,15 @@ Themendaten können über [Exchange Topics](https://support.catenda.com/en/artic
 - **Registerkarte „Veröffentlicht“**<br>Extrahiert die letzte veröffentlichte Revision für jedes ausgewählte Dokument.
 - **Registerkarte "Arbeitsbereich"<br>Extrahiert die neueste gemeinsam genutzte Version für jedes ausgewählte Dokument (erfordert die Berechtigung "Gemeinsam genutzte Versionen anzeigen"). Beachten Sie, dass Legacy-Entwurfversionen nicht in einem ZIP-Archiv per Batch heruntergeladen werden können und einzeln heruntergeladen werden.
 
-**Download einzelner Überarbeitungen** Wählen Sie ein Dokument auf der [Dokumentenseite](https://support.catenda.com/en/articles/8204673-documents-page) aus und klicken Sie auf die Download-Schaltfläche neben jeder im rechten Informationsmenü aufgelisteten Überarbeitung. Dies ist eine einfachere Möglichkeit, individuelle oder historische Überarbeitungen herunterzuladen, da die Dokumentvorschauseite nicht geladen werden muss, so dass Sie ein anderes Dokument in der Tabelle auswählen und seine Überarbeitungen im rechten Menü herunterladen können, ohne eine neue Vorschauseite öffnen zu müssen.
+**Download einzelner Überarbeitungen** Wählen Sie ein Dokument auf der [Dokumentenseite](https://support.catenda.com/de/articles/8204673-documents-page) aus und klicken Sie auf die Download-Schaltfläche neben jeder im rechten Informationsmenü aufgelisteten Überarbeitung. Dies ist eine einfachere Möglichkeit, individuelle oder historische Überarbeitungen herunterzuladen, da die Dokumentvorschauseite nicht geladen werden muss, so dass Sie ein anderes Dokument in der Tabelle auswählen und seine Überarbeitungen im rechten Menü herunterladen können, ohne eine neue Vorschauseite öffnen zu müssen.
 
-**Öffentliche Sammlungen** Verwenden Sie [Sammlungen](https://support.catenda.com/en/articles/6344318-collections-page), um öffentliche Links für ausgewählte Dokumentuntergruppen zu erstellen, damit externe Parteien Dateien herunterladen können, ohne ein Catenda-Konto zu benötigen. Beachten Sie, dass nur veröffentlichte Überarbeitungen zu Sammlungen hinzugefügt werden können.
+**Öffentliche Sammlungen** Verwenden Sie [Sammlungen](https://support.catenda.com/de/articles/6344318-collections-page), um öffentliche Links für ausgewählte Dokumentuntergruppen zu erstellen, damit externe Parteien Dateien herunterladen können, ohne ein Catenda-Konto zu benötigen. Beachten Sie, dass nur veröffentlichte Überarbeitungen zu Sammlungen hinzugefügt werden können.
 
 **Gelöschte Dateien** Suchen Sie nach "gelöscht" in der Dokumentsuchleiste, um zuvor gelöschte Dokumente zu lokalisieren und zu exportieren. Beachten Sie, dass dieser Filter sprachspezifisch ist und dem Begriff für "gelöscht" in Ihren aktuellen Spracheinstellungen entspricht.
 
 ### 2.4 **Desktop Connector (Automatisierte lokale Sicherung)**
 
-Der [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) ermöglicht eine Hintergrundsynchronisierung, um regelmäßig neue Dokumentüberarbeitungen direkt auf ein lokales Laufwerk herunterzuladen. Im Gegensatz zu Batch-Web-Exporten werden heruntergeladene Dokumente direkt auf Ihrem System als rohe, entpackte Dateien ohne manuelle Archivextraktion angezeigt.
+Der [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) ermöglicht eine Hintergrundsynchronisierung, um regelmäßig neue Dokumentüberarbeitungen direkt auf ein lokales Laufwerk herunterzuladen. Im Gegensatz zu Batch-Web-Exporten werden heruntergeladene Dokumente direkt auf Ihrem System als rohe, entpackte Dateien ohne manuelle Archivextraktion angezeigt.
 
 **Geplante & sofortige Sicherungen** Aufgaben können so geplant werden, dass sie automatisch in regelmäßigen Abständen ausgeführt werden, oder bei Bedarf ausgeführt werden, um sicherzustellen, dass Projektmitglieder eine aktuelle lokale Kopie von Dokumenten speichern, auch wenn der Projektaccess unerwartet widerrufen wird.
 
@@ -90,31 +90,31 @@ Der [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-
 - **Zugriff pro Benutzer**<br>Zeigen Sie die Zugriffsstufen einzelner Benutzer direkt aus dem Informationsmenü auf der rechten Seite eines Themen-Boards oder eines ausgewählten Themas an.<br>_Erforderlicher Zugriff:_ Lesezugriff auf das Themen-Board
 - **Vollständige Team-Konfiguration**<br>Erstellen Sie Screenshots der kompletten Berechtigungseinstellungen auf Team-Ebene in den Zugriffseinstellungen des Themen-Boards.<br>_Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Themen-Board oder Projektadministrator
 
-**Dokument- & Modellzugriff** Exportieren Sie die [Accessübersicht](https://support.catenda.com/en/articles/6660820-document-access-overview-page), um Berechtigungen für Mitglieder und Teams zu dokumentieren. Access erforderlich: Projektadministrator. Da jedes Modell mit einem Dokument im Dokumentenbereich verknüpft ist, werden die Accessberechtigungen für Modelle durch die zugrunde liegenden Dokumentberechtigungen geregelt und mit denselben Dokumentaccessübersichten oder Berechtigungsmenüs dokumentiert.
+**Dokument- & Modellzugriff** Exportieren Sie die [Accessübersicht](https://support.catenda.com/de/articles/6660820-document-access-overview-page), um Berechtigungen für Mitglieder und Teams zu dokumentieren. Access erforderlich: Projektadministrator. Da jedes Modell mit einem Dokument im Dokumentenbereich verknüpft ist, werden die Accessberechtigungen für Modelle durch die zugrunde liegenden Dokumentberechtigungen geregelt und mit denselben Dokumentaccessübersichten oder Berechtigungsmenüs dokumentiert.
 
-**Dokument- & Modellüberarbeitungszugriff** Zeigen Sie Berechtigungen aus dem [rechten Menü einer Dokumentüberarbeitung](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info) an und machen Sie Screenshots nach Bedarf.
+**Dokument- & Modellüberarbeitungszugriff** Zeigen Sie Berechtigungen aus dem [rechten Menü einer Dokumentüberarbeitung](https://support.catenda.com/de/articles/8302244-right-menu-of-a-revision-revision-info) an und machen Sie Screenshots nach Bedarf.
 
-**Projektweite Aktionsberechtigungen** Dokumentieren Sie projektweite Berechtigungen auf der [Projekteinstellungsseite](https://support.catenda.com/en/articles/4670273-project-settings-page) (z. B. Erstellen von Themen-Boards, Einladen neuer Mitglieder, Konfigurieren von Dokumentstatus und Erstellen oder Entfernen von Modellen) mit zwei verfügbaren Ansichten:
+**Projektweite Aktionsberechtigungen** Dokumentieren Sie projektweite Berechtigungen auf der [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-project-settings-page) (z. B. Erstellen von Themen-Boards, Einladen neuer Mitglieder, Konfigurieren von Dokumentstatus und Erstellen oder Entfernen von Modellen) mit zwei verfügbaren Ansichten:
 
 - **Pro-Benutzer-Zugriffssicht<br>Projektmitglieder können jedes Menü unter der Zugriffskontrolle erweitern, um zu sehen, welche einzelnen Benutzer berechtigt sind, jede Aktion auszuführen.
 - **Vollständige Konfiguration**<br>Administratoren können den Dialog zum Bearbeiten des Zugriffs öffnen, um Berechtigungskonfigurationen auf Team-Ebene anzuzeigen und zu verwalten.<br>_Erforderlicher Zugriff:_ Projektadministrator
 
 **Benutzerprofile & Mitgliederdetails** Informationen zu Projektmitgliedern und Teams sind zum Extrahieren oder Dokumentieren verfügbar, einschließlich:
 
-- Benutzernamen und E-Mail-Adressen (siehe [Benutzerdefinierte Mitgliederinformation](https://www.google.com/search?q=https://support.catenda.com/en/articles/11769670-custom-member-information%23h_c15463ee3f)).
-- Teamzugehörigkeiten, zugewiesene Themen, hochgeladene Modellüberarbeitungen und Berechtigungseinstellungen (erfasst über die [Mitgliedseite](https://www.google.com/search?q=https://support.catenda.com/en/articles/4670291-members-page) oder [Teamseite](https://www.google.com/search?q=https://support.catenda.com/en/articles/4670291-members-page)).
+- Benutzernamen und E-Mail-Adressen (siehe [Benutzerdefinierte Mitgliederinformation](https://www.google.com/search?q=https://support.catenda.com/de/articles/11769670-custom-member-information%23h_c15463ee3f)).
+- Teamzugehörigkeiten, zugewiesene Themen, hochgeladene Modellüberarbeitungen und Berechtigungseinstellungen (erfasst über die [Mitgliedseite](https://www.google.com/search?q=https://support.catenda.com/de/articles/4670291-members-page) oder [Teamseite](https://www.google.com/search?q=https://support.catenda.com/de/articles/4670291-members-page)).
 
 ### 2.6 **Benachrichtigungen**
 
-Erfassen Sie Benachrichtigungsseiten über Screenshots von der [Projektbenachrichtigungsseite](https://support.catenda.com/en/articles/4670295-project-notifications-page), wobei Sie den [Limit-Filter](https://support.catenda.com/en/articles/8304417-filtering-on-the-notifications-page) verwenden, um sichtbare Elemente pro Seite zu maximieren.
+Erfassen Sie Benachrichtigungsseiten über Screenshots von der [Projektbenachrichtigungsseite](https://support.catenda.com/de/articles/4670295-project-notifications-page), wobei Sie den [Limit-Filter](https://support.catenda.com/de/articles/8304417-filtering-on-the-notifications-page) verwenden, um sichtbare Elemente pro Seite zu maximieren.
 
-Konfigurieren Sie ein spezielles Administratorkonto mit [projektspezifischen Benachrichtigungseinstellungen](https://support.catenda.com/en/articles/4670262-project-specific-notification-settings), die für E-Mail-Zusammenfassungen aktiviert sind, um durchsuchbare Benachrichtigungsprotokolle zu speichern.
+Konfigurieren Sie ein spezielles Administratorkonto mit [projektspezifischen Benachrichtigungseinstellungen](https://support.catenda.com/de/articles/4670262-project-specific-notification-settings), die für E-Mail-Zusammenfassungen aktiviert sind, um durchsuchbare Benachrichtigungsprotokolle zu speichern.
 
 ### 2.7 **Reports Page (Opt-In-Feature)**
 
 **Opt-in-Aktivierung** Die Reports Page ist eine Opt-in-Funktion, die für laufende Projekte aktiviert werden kann. Obwohl die Verwendung dieses Tools keine zusätzliche Zahlung erforderlich ist, muss der Projekteigentümer zustimmen, es für das Projekt zu aktivieren, was bedeutet, dass es in vielen Projekten nicht standardmäßig aktiv ist. Beachten Sie, dass neue Projekte, die aus Vorlagenprojekten erstellt werden, in denen Reports aktiviert sind, diese Funktion nicht automatisch aktiviert haben.
 
-**Vorlagenbasierte Verwaltung** Wenn aktiviert, können Projektadministratoren die [Berichtsvorlagenseite](https://support.catenda.com/en/articles/12380837-report-templates-page) verwenden, um benutzerdefinierte Berichtsvorlagen zu konfigurieren und formatierte Exporte für ausgewählte Dokumente oder Themen zu generieren.
+**Vorlagenbasierte Verwaltung** Wenn aktiviert, können Projektadministratoren die [Berichtsvorlagenseite](https://support.catenda.com/de/articles/12380837-report-templates-page) verwenden, um benutzerdefinierte Berichtsvorlagen zu konfigurieren und formatierte Exporte für ausgewählte Dokumente oder Themen zu generieren.
 
 **Dokumentberichte** Exportieren Sie Dokumentmetadaten und Überarbeitungsdetails für alle ausgewählten Dateien, einschließlich Dokumentname, Überarbeitungsname, neueste Überarbeitungsnummer, Status, benutzerdefinierte Felder, Ersteller, Uploader und Erstellungs-/Hochlade-Zeitstempel.
 
@@ -127,7 +127,7 @@ Konfigurieren Sie ein spezielles Administratorkonto mit [projektspezifischen Ben
 
 - **PDF / PDF/A<br>Generiert sauber formatierte Berichte und unterstützt direkt die native PDF/A-Konformität (PDF/A-1, PDF/A-2 und PDF/A-3), um strenge Standards für die Langzeitarchivierung und formale juristische Standards zu erfüllen.
 - **Excel<br>Exportiert strukturierte Tabellendaten in Tabellenkalkulationszeilen und -spalten, was sich ideal für Datenbearbeitung und externe Analyse eignet.
-- **Zusätzliche Formate<br>Eine breite Palette zusätzlicher Dateiformate neben PDF und Excel werden ebenfalls zum Exportieren unterstützt. Die vollständige Übersicht finden Sie im [Artikel zur Seite "Berichte"](https://support.catenda.com/en/articles/12303098-reports-page).
+- **Zusätzliche Formate<br>Eine breite Palette zusätzlicher Dateiformate neben PDF und Excel werden ebenfalls zum Exportieren unterstützt. Die vollständige Übersicht finden Sie im [Artikel zur Seite "Berichte"](https://support.catenda.com/de/articles/12303098-reports-page).
 
 **Zentralisierte Speicherung** Generierte Berichte werden direkt in der Berichtstabelle aufgelistet und automatisch in die Hauptdokumenttabelle integriert, um eine einfache Verwaltung zu ermöglichen.
 

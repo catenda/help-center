@@ -1,6 +1,6 @@
 # Bordenpagina
 
-U kunt de bordenpagina vinden als subpagina van de [onderwerpenpagina](https://support.catenda.com/en/articles/4670271-topics-page). De bordenpagina geeft u een overzicht van uw beschikbare onderwerpenbordes.
+U kunt de bordenpagina vinden als subpagina van de [onderwerpenpagina](https://support.catenda.com/nl/articles/4670271-topics-page). De bordenpagina geeft u een overzicht van uw beschikbare onderwerpenbordes.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zq777cpq/01-intro.png)
 
@@ -16,7 +16,7 @@ De pagina voor een nieuw onderwerpenboard kan er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zq777cpq/03-new-topic-board.png)
 
-Vul de naam en beschrijving in en druk op toevoegen. Klik [hier](https://support.catenda.com/en/articles/6379614-topic-board-from-an-existing-topic-board) voor meer informatie over het maken van nieuwe onderwerpenbordes. _Vereiste toegang:_ Schrijftoegang tot [het maken van nieuwe onderwerpenbordes](https://support.catenda.com/en/articles/4670299-topic-board-creation-acl) in [projectinstellingen](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3).
+Vul de naam en beschrijving in en druk op toevoegen. Klik [hier](https://support.catenda.com/nl/articles/6379614-topic-board-from-an-existing-topic-board) voor meer informatie over het maken van nieuwe onderwerpenbordes. _Vereiste toegang:_ Schrijftoegang tot [het maken van nieuwe onderwerpenbordes](https://support.catenda.com/nl/articles/4670299-topic-board-creation-acl) in [projectinstellingen](https://support.catenda.com/nl/articles/4670273-project-settings-page#h_f82a1850f3).
 
 ## 2. **Onderwerpenbordenlijst**
 
@@ -30,7 +30,7 @@ Door op de naam van het onderwerpenboard te klikken, kunt u rechtstreeks naar he
 
 ### 2.2 **Instellingen**
 
-Klik op de knop instellingen om naar de [instellingen van dat board](https://support.catenda.com/en/articles/4670277-topic-board-settings) te gaan. U kunt het board ook openen en het menu-item instellingen selecteren in het linkermenu. _Vereiste toegang:_ Volledige toegang tot het onderwerpenboard
+Klik op de knop instellingen om naar de [instellingen van dat board](https://support.catenda.com/nl/articles/4670277-topic-board-settings) te gaan. U kunt het board ook openen en het menu-item instellingen selecteren in het linkermenu. _Vereiste toegang:_ Volledige toegang tot het onderwerpenboard
 
 ### 2.3 **Statistieken**
 

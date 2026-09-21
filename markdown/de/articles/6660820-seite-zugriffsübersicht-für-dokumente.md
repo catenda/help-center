@@ -2,7 +2,7 @@
 
 > Eine Übersicht der Zugriffsrechte von Benutzern und Teams
 
-Die Zugriffsübersicht für Dokumente finden Sie, indem Sie auf die Schaltfläche "Zugriffsübersicht" im [Menü "Zugriffskontrolle"](https://support.catenda.com/en/articles/7831371-document-settings-page#h_98a4be4ac9) der [Seite "Dokumenteneinstellungen"](https://support.catenda.com/en/articles/7831371-document-settings-page) klicken. Mit der Zugriffsübersicht für Dokumente können Sie einen allgemeinen Überblick über die Zugriffsrechte von Benutzern und Teams in der Dokumenttabelle erhalten. _Erforderlicher Zugriff:_ Administrator
+Die Zugriffsübersicht für Dokumente finden Sie, indem Sie auf die Schaltfläche "Zugriffsübersicht" im [Menü "Zugriffskontrolle"](https://support.catenda.com/de/articles/7831371-document-settings-page#h_98a4be4ac9) der [Seite "Dokumenteneinstellungen"](https://support.catenda.com/de/articles/7831371-document-settings-page) klicken. Mit der Zugriffsübersicht für Dokumente können Sie einen allgemeinen Überblick über die Zugriffsrechte von Benutzern und Teams in der Dokumenttabelle erhalten. _Erforderlicher Zugriff:_ Administrator
 
 So könnte die Seite "Zugriffsübersicht" aussehen:
 
@@ -50,7 +50,7 @@ Klicken Sie auf die Aktion "Zugriffsübersicht neu generieren", um die neueste V
 
 ## 3. **Zugriffsübersichtstabelle**
 
-Es ist nur möglich, den Zugriff auf Ordner in der Dokumentstruktur anzuzeigen. Um den Zugriff auf ein bestimmtes Dokument anzuzeigen, wählen Sie das Dokument aus und rufen Sie das [Zugriffsmenü](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info#h_8525de97c2) im [rechten Menü einer Dokumentrevision](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info) auf. Klicken Sie [hier](https://support.catenda.com/en/articles/11748020-tables-on-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten.
+Es ist nur möglich, den Zugriff auf Ordner in der Dokumentstruktur anzuzeigen. Um den Zugriff auf ein bestimmtes Dokument anzuzeigen, wählen Sie das Dokument aus und rufen Sie das [Zugriffsmenü](https://support.catenda.com/de/articles/8302244-right-menu-of-a-revision-revision-info#h_8525de97c2) im [rechten Menü einer Dokumentrevision](https://support.catenda.com/de/articles/8302244-right-menu-of-a-revision-revision-info) auf. Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten.
 
 ### 3.1 **Filterung in der Zugriffsübersichtstabelle**
 

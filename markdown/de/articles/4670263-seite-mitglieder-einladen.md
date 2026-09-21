@@ -1,10 +1,10 @@
 # Seite „Mitglieder einladen“
 
-Diese Seite finden Sie, indem Sie auf die Schaltfläche „Mitglieder einladen“ oben rechts auf der [Mitgliederseite](https://support.catenda.com/en/articles/4670291-members-page) klicken. Die Mitgliederseite ist ein Untermenü der [Projekteinstellungsseite](https://support.catenda.com/en/articles/4670273-project-settings-page).
+Diese Seite finden Sie, indem Sie auf die Schaltfläche „Mitglieder einladen“ oben rechts auf der [Mitgliederseite](https://support.catenda.com/de/articles/4670291-members-page) klicken. Die Mitgliederseite ist ein Untermenü der [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-project-settings-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bejjtn6g/01-intro.png)
 
-_Erforderlicher Zugriff:_ Zugriff auf [Einladung neuer Mitglieder](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) auf der Seite "Projekteinstellungen".
+_Erforderlicher Zugriff:_ Zugriff auf [Einladung neuer Mitglieder](https://support.catenda.com/de/articles/4670273-project-settings-page#h_f82a1850f3) auf der Seite "Projekteinstellungen".
 
 ## 1. **Ein Mitglied einladen**
 
@@ -58,4 +58,4 @@ Wenn Sie nicht möchten, dass die Person, an die die Einladung versendet wurde, 
 
 ## 5. **Organisationsmitglieder hinzufügen**
 
-Organisationseigentümer können Organisationsmitglieder, die bereits über ein Konto in Catenda verfügen, dem Projekt hinzufügen, ohne sie per E-Mail einladen zu müssen. Auf diese Weise müssen Sie nicht warten, bis sie die Einladung annehmen. Klicken Sie [hier](https://support.catenda.com/en/articles/8434846-adding-users-without-an-email-invite), um mehr über die Einladung von Organisationsmitgliedern zu erfahren.
+Organisationseigentümer können Organisationsmitglieder, die bereits über ein Konto in Catenda verfügen, dem Projekt hinzufügen, ohne sie per E-Mail einladen zu müssen. Auf diese Weise müssen Sie nicht warten, bis sie die Einladung annehmen. Klicken Sie [hier](https://support.catenda.com/de/articles/8434846-adding-users-without-an-email-invite), um mehr über die Einladung von Organisationsmitgliedern zu erfahren.

@@ -1,8 +1,8 @@
 # Een opmerking opslaan
 
-Selecteer een [annotatietool](https://support.catenda.com/en/articles/11384618-document-preview-tools) uit de werkbalk boven het [documentoverzicht](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations). Plaats de aantekening om het menu met niet-bewaarde opmerkingen in het [tabblad Opmerkingen](https://support.catenda.com/en/articles/10205725-right-menu-of-a-revision-markups) van het rechtermenu van een revisie te zien.
+Selecteer een [annotatietool](https://support.catenda.com/nl/articles/11384618-document-preview-tools) uit de werkbalk boven het [documentoverzicht](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations). Plaats de aantekening om het menu met niet-bewaarde opmerkingen in het [tabblad Opmerkingen](https://support.catenda.com/nl/articles/10205725-right-menu-of-a-revision-markups) van het rechtermenu van een revisie te zien.
 
-Wanneer een document voor het eerst wordt geopend, kan het rechtermenu van de revisie gesloten zijn. Klik op de informatieknop aan de rechterkant van de [documentbanner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) om dit menu uit te vouwen.
+Wanneer een document voor het eerst wordt geopend, kan het rechtermenu van de revisie gesloten zijn. Klik op de informatieknop aan de rechterkant van de [documentbanner](https://support.catenda.com/nl/articles/8461918-document-banner-actions-navigation) om dit menu uit te vouwen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/01-intro.png)
 

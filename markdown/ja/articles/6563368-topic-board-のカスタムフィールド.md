@@ -34,4 +34,4 @@
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tv2vef51/07-intro.gif)
 
-👉 **[カスタムフィールドの設定方法](https://intercom.help/bimsync-arena/en/articles/6550459-setting-of-custom-fields)**
+👉 **[カスタムフィールドの設定方法](https://intercom.help/bimsync-arena/ja/articles/6550459-setting-of-custom-fields)**

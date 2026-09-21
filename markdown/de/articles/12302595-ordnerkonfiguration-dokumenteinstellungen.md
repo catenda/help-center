@@ -1,6 +1,6 @@
 # Ordnerkonfiguration – Dokumenteinstellungen
 
-Das Menü zur Ordnerkonfiguration finden Sie auf der [Seite Dokumenteinstellungen](https://support.catenda.com/en/articles/7831371-document-settings-page). Durch die Einrichtung eines konfigurierten Ordners können Sie die Art und Weise, wie Dokumente in diesem Workflow verwaltet werden, verbessern.
+Das Menü zur Ordnerkonfiguration finden Sie auf der [Seite Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings-page). Durch die Einrichtung eines konfigurierten Ordners können Sie die Art und Weise, wie Dokumente in diesem Workflow verwaltet werden, verbessern.
 
 ## 1. **Ordnertabelle**
 
@@ -52,7 +52,7 @@ Der Ordnerkonfigurationsdialog kann etwa so aussehen:
 
 ### 2.1 **Namenskonvention**
 
-Wenn Sie auf der [Seite Namenskonvention](https://support.catenda.com/en/articles/7832559-naming-conventions-page) in den [Projekteinstellungen](https://support.catenda.com/en/articles/4670273-project-settings-page) Namenskonventionen eingerichtet haben, können Sie hier auswählen, auf welchen Ordner die Namenskonvention angewendet werden soll. Beim Anwenden einer Konvention müssen alle neuen Dokumente im Ordner und in den Unterordnern:
+Wenn Sie auf der [Seite Namenskonvention](https://support.catenda.com/de/articles/7832559-naming-conventions-page) in den [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-project-settings-page) Namenskonventionen eingerichtet haben, können Sie hier auswählen, auf welchen Ordner die Namenskonvention angewendet werden soll. Beim Anwenden einer Konvention müssen alle neuen Dokumente im Ordner und in den Unterordnern:
 
 - Nach der Namenskonvention benannt werden
 - Einen Dokumentnamen haben, der nicht bearbeitet werden kann, während die Konvention aktiv ist
@@ -89,4 +89,4 @@ Mit benutzerdefinierten Feldern können Sie benutzerdefinierte Felder allen Doku
 
 ## 3. **QR-Code zuweisen**
 
-Mit [QR-Code-Stempelung](https://support.catenda.com/en/articles/9360508-qr-code-on-pdfs-in-catenda) können Sie hier auswählen, ob diese Funktion für einen Ordner aktiviert werden soll.
+Mit [QR-Code-Stempelung](https://support.catenda.com/de/articles/9360508-qr-code-on-pdfs-in-catenda) können Sie hier auswählen, ob diese Funktion für einen Ordner aktiviert werden soll.

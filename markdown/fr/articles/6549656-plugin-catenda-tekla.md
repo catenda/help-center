@@ -2,7 +2,7 @@
 
 > Connecter Catenda Hub et Tekla
 
-> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://intercom.help/bimsync-arena/fr/articles/8396532-catenda-plugins-and-integrations).
 
 ## 1. **Installation**
 
@@ -36,7 +36,7 @@ Cliquez sur « Autoriser l'accès » pour permettre au plugin Tekla d'accéder �
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kvtgs8k1/03-getting-started.png)
 
-Vous pouvez révoquer l'accès à votre compte Catenda Hub à tout moment en accédant à votre [page d'application](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a) Catenda Hub sur l'application web Catenda Hub.
+Vous pouvez révoquer l'accès à votre compte Catenda Hub à tout moment en accédant à votre [page d'application](https://support.catenda.com/fr/articles/6880968-account-page#h_40e031c49a) Catenda Hub sur l'application web Catenda Hub.
 
 ## 4. **Liste des sujets**
 

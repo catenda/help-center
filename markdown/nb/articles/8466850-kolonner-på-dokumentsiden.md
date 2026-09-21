@@ -1,6 +1,6 @@
 # Kolonner på dokumentsiden
 
-I [dokumenttabellen](https://support.catenda.com/en/articles/8204673-documents-page#h_54e8dfcac2) på [dokumentsiden](https://support.catenda.com/en/articles/8204673-documents-page) vil du kunne se flere kolonner i headerraden som kan omorganiseres og slås på/av med [kolonnemenyen](https://support.catenda.com/en/articles/8204673-documents-page#h_9022dce579).
+I [dokumenttabellen](https://support.catenda.com/nb/articles/8204673-documents-page#h_54e8dfcac2) på [dokumentsiden](https://support.catenda.com/nb/articles/8204673-documents-page) vil du kunne se flere kolonner i headerraden som kan omorganiseres og slås på/av med [kolonnemenyen](https://support.catenda.com/nb/articles/8204673-documents-page#h_9022dce579).
 
 ## 1. **Kolonnerekkefølje**
 
@@ -10,7 +10,7 @@ Det er en standard kolonnerekkefølje hvis du bare har ett panel åpent, samt en
 
 ## 2. **Avkryssingsboks** - Standard 1 panel
 
-Velg avkryssingsboksen på toppraden for å velge alle dokumenter i denne mappen. Du kan også velge dokumenter en og en ved å velge avkryssingsboksen på venstre side. Se [her](https://support.catenda.com/en/articles/8204673-documents-page#h_61be2cfecf) for flere valg alternativer.
+Velg avkryssingsboksen på toppraden for å velge alle dokumenter i denne mappen. Du kan også velge dokumenter en og en ved å velge avkryssingsboksen på venstre side. Se [her](https://support.catenda.com/nb/articles/8204673-documents-page#h_61be2cfecf) for flere valg alternativer.
 
 ## 3. **Ikonkolonne** - Standard 1 panel, Standard flerpanel
 
@@ -28,7 +28,7 @@ For de fleste dokumenter vises filtypeikonet. For bildefiltyper vises bildet i s
 
 **Modellmerke** Dokumenter som er knyttet til en modell på modeltsiden vil vise et modellmerke nederst til venstre.
 
-**Mappekonfigurasjon** Hvis den overordnede mappen for dokumentet har blitt konfigurert i [dokumentinnstillinger](https://support.catenda.com/en/articles/7831371-document-settings) vil du se et grått girmerke nederst til høyre for dokumentikonet.
+**Mappekonfigurasjon** Hvis den overordnede mappen for dokumentet har blitt konfigurert i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-document-settings) vil du se et grått girmerke nederst til høyre for dokumentikonet.
 
 ### 3.3 **Mappeikoner**
 
@@ -52,7 +52,7 @@ Navnet på dokumentet som det vises i dokumentdelen. Klikk på bokstavene i navn
 
 ### 4.1 **Endre dokumentnavn**
 
-Hvis du har valgt et dokument eller en mappe, vil du kunne endre navnet ved å klikke på blyanten ved siden av dokumentnavnet i [høyre informasjonsmeny](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page). _Tilgang påkrevd:_ Full tilgang til dokumentet eller skriverettigheter til mappen
+Hvis du har valgt et dokument eller en mappe, vil du kunne endre navnet ved å klikke på blyanten ved siden av dokumentnavnet i [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8345396-right-menu-on-the-documents-page). _Tilgang påkrevd:_ Full tilgang til dokumentet eller skriverettigheter til mappen
 
 ### 4.2 **Radanker**
 
@@ -80,7 +80,7 @@ Hvis dokumentet er knyttet til en modell, vil du se navnet på modellen her. Det
 
 ## 7. **Status** - Standard 1 panel - Kun dokumentstatuser
 
-Dokumentstatuser kan slås på i [dokumentinnstillinger](https://support.catenda.com/en/articles/7831371-document-settings). Hvis statusarbeidsflyten har blitt aktivert, kan dokumentrevisjoner ha blitt tildelt en status. Separate statuslister kan brukes avhengig av om revisjonen er publisert eller et utkast. I denne kolonnen kan du se statusen for den nyeste publiserte revisjonen i dokumentet.
+Dokumentstatuser kan slås på i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-document-settings). Hvis statusarbeidsflyten har blitt aktivert, kan dokumentrevisjoner ha blitt tildelt en status. Separate statuslister kan brukes avhengig av om revisjonen er publisert eller et utkast. I denne kolonnen kan du se statusen for den nyeste publiserte revisjonen i dokumentet.
 
 ## 8. **Størrelse** - Standard 1 panel
 
@@ -110,7 +110,7 @@ Hvis du har aktivert dokumentstatusarbeidsflyten, vil oppførselen til denne kol
 
 ## 12. **Lenker** - Standard 1 panel, Standard flerpanel
 
-Viser antallet objekter som er [koblet til dette dokumentet](https://support.catenda.com/en/articles/4670322-how-can-i-link-a-document-to-an-object-in-catenda-hub). Hvis du klikker på dette, vil du kunne gjøre følgende:
+Viser antallet objekter som er [koblet til dette dokumentet](https://support.catenda.com/nb/articles/4670322-how-can-i-link-a-document-to-an-object-in-catenda-hub). Hvis du klikker på dette, vil du kunne gjøre følgende:
 
 - Velg objekter
 - Isoler objekter
@@ -118,10 +118,10 @@ Viser antallet objekter som er [koblet til dette dokumentet](https://support.cat
 
 ## 13. **Viser** - Standard 1 panel
 
-For IFC-dokumenter som har blitt koblet til modeller, Point Clouds og GML-dokumenter vil du se en 2D-, 3D- og zoom til utstrekning-knapp i denne kolonnen. Disse knappene kan brukes til å åpne [2D-visning](https://support.catenda.com/en/articles/4854537-2d-viewer) eller [3D-visning](https://support.catenda.com/en/articles/8227211-3d-viewer) av et dokument-modell fra dokumentstrukturen. For 3D kan flere dokument-modeller velges og 3D-handlingen kan brukes til å åpne dem alle samtidig. Midtknappen lar deg sentrere deg på denne modellen hvis den er lastet inn i 3D. Dette er hva et IFC-dokument som er koblet til en modell kan se ut som:
+For IFC-dokumenter som har blitt koblet til modeller, Point Clouds og GML-dokumenter vil du se en 2D-, 3D- og zoom til utstrekning-knapp i denne kolonnen. Disse knappene kan brukes til å åpne [2D-visning](https://support.catenda.com/nb/articles/4854537-2d-viewer) eller [3D-visning](https://support.catenda.com/nb/articles/8227211-3d-viewer) av et dokument-modell fra dokumentstrukturen. For 3D kan flere dokument-modeller velges og 3D-handlingen kan brukes til å åpne dem alle samtidig. Midtknappen lar deg sentrere deg på denne modellen hvis den er lastet inn i 3D. Dette er hva et IFC-dokument som er koblet til en modell kan se ut som:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/42c02fpr/05-viewer-default-1-panel.png)
 
 ## 14. **Egendefinerte felt**
 
-En kolonne per egendefinert felt som er lagt til den konfigurerte overordnede mappen, se [dokumentinnstillinger](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90)
+En kolonne per egendefinert felt som er lagt til den konfigurerte overordnede mappen, se [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-document-settings#h_6672c14d90)

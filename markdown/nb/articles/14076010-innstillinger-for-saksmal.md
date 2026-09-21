@@ -2,11 +2,11 @@
 
 > Administrer innstillingene for saksmal
 
-Siden for innstillinger for saksmal finner du ved å klikke på Konfigurer saksmal på [siden for saksinnstillinger](https://support.catenda.com/en/articles/14183429-topic-settings-page) som kan åpnes fra venstre navigasjonsmeny etter at du har åpnet siden for saker. _Tilgang kreves:_ Prosjektadministrator
+Siden for innstillinger for saksmal finner du ved å klikke på Konfigurer saksmal på [siden for saksinnstillinger](https://support.catenda.com/nb/articles/14183429-topic-settings-page) som kan åpnes fra venstre navigasjonsmeny etter at du har åpnet siden for saker. _Tilgang kreves:_ Prosjektadministrator
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/01-intro.png)
 
-På siden for innstillinger for saksmal kan saksmaler for hver av saklistene i prosjektet konfigureres. Etter opprettelsen gjøres saksmaler automatisk tilgjengelige for å fylle ut tekst og felt for saker ved opprettelse. Saksmaler kan konfigureres til å være tilgjengelige i følgende prosesser for saksopprettelse: [Hvordan bruke saksmaler i generelle saker](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation) [Hvordan bruke saksmaler i merknadsaker](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document) [Hvordan bruke saksmaler med gjennomganger](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
+På siden for innstillinger for saksmal kan saksmaler for hver av saklistene i prosjektet konfigureres. Etter opprettelsen gjøres saksmaler automatisk tilgjengelige for å fylle ut tekst og felt for saker ved opprettelse. Saksmaler kan konfigureres til å være tilgjengelige i følgende prosesser for saksopprettelse: [Hvordan bruke saksmaler i generelle saker](https://support.catenda.com/nb/articles/14075921-apply-a-general-topic-template-upon-topic-creation) [Hvordan bruke saksmaler i merknadsaker](https://support.catenda.com/nb/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document) [Hvordan bruke saksmaler med gjennomganger](https://support.catenda.com/nb/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
 
 ## 1. **Handlingsmeny**
 
@@ -46,7 +46,7 @@ Når du navigerer til siden for innstillinger for saksmal, kan du se en oversikt
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/04-templates-table.png)
 
-Klikk [her](https://support.catenda.com/en/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda.
+Klikk [her](https://support.catenda.com/nb/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda.
 
 ### 3.1 **Radinnhold**
 

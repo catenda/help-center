@@ -20,7 +20,7 @@ Als u nog geen account hebt, of zelfs als u uw e-mailnotificaties helemaal hebt 
 
 > **Tip:** "(Naam van uitnodigende gebruiker) heeft u uitgenodigd voor (Catenda-project waarvoor u uitgenodigd bent)."
 
-Zie [hier](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) voor probleemoplossing via e-mail. U kunt de uitnodiging accepteren door op de notificatie te klikken als u een account maakt op [https://hub.catenda.com/signup](https://hub.catenda.com/signup) en opnieuw wordt uitgenodigd, maar het kan goed zijn om onderzoek te doen waarom u mogelijk geen e-mails ontvangt, zodat u e-mailnotificaties kunt ontvangen.
+Zie [hier](https://support.catenda.com/nl/articles/8417802-why-am-i-not-receiving-emails) voor probleemoplossing via e-mail. U kunt de uitnodiging accepteren door op de notificatie te klikken als u een account maakt op [https://hub.catenda.com/signup](https://hub.catenda.com/signup) en opnieuw wordt uitgenodigd, maar het kan goed zijn om onderzoek te doen waarom u mogelijk geen e-mails ontvangt, zodat u e-mailnotificaties kunt ontvangen.
 
 De naam van de uitnodigende gebruiker en het e-mailadres van de gebruiker zijn zichtbaar in de uitnodigings-e-mail, die er als volgt uit kan zien:
 
@@ -40,7 +40,7 @@ Als u op de uitnodiging klikt, gaat u naar Catenda Hub waar u wordt gevraagd om 
 
 ### 2.1 Een account aanmaken
 
-Als u nog geen account hebt, wordt u gevraagd een account bij Catenda Hub aan te maken. Volg de [registratieprocedure](https://intercom.help/bimsync-arena/en/articles/8412895-creating-an-account).
+Als u nog geen account hebt, wordt u gevraagd een account bij Catenda Hub aan te maken. Volg de [registratieprocedure](https://intercom.help/bimsync-arena/nl/articles/8412895-creating-an-account).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qn9t3aze/04-creating-an-account.png)
 

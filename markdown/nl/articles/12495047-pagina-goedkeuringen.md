@@ -1,6 +1,6 @@
 # Pagina Goedkeuringen
 
-De pagina Goedkeuringen is te vinden als een subpagina van de [pagina Documenten](https://support.catenda.com/en/articles/8204673-documents-page) in het linkernavigatiemenu. Hier vindt u een overzicht van de goedkeuringsaanvragen in het project.
+De pagina Goedkeuringen is te vinden als een subpagina van de [pagina Documenten](https://support.catenda.com/nl/articles/8204673-documents-page) in het linkernavigatiemenu. Hier vindt u een overzicht van de goedkeuringsaanvragen in het project.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
@@ -14,9 +14,9 @@ Op de pagina Goedkeuringen kan het volgende worden gedaan:
 
 ## 1. **De pagina Goedkeuringen inschakelen**
 
-De pagina Goedkeuringen is standaard verborgen. Schakel gedeelde revisies in in [documentinstellingen](https://support.catenda.com/en/articles/7831371-document-settings-page) om de pagina Goedkeuringen zichtbaar te maken. _Vereiste toegang:_ Projectbeheerder
+De pagina Goedkeuringen is standaard verborgen. Schakel gedeelde revisies in in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings-page) om de pagina Goedkeuringen zichtbaar te maken. _Vereiste toegang:_ Projectbeheerder
 
-> **Opmerking:** In projecten waar gedeelde revisies vóór 2 oktober 2025 werden ingeschakeld, wordt in plaats daarvan de [verouderde goedkeuringenpagina](https://support.catenda.com/en/articles/8349340-approvals-page-legacy) weergegeven.
+> **Opmerking:** In projecten waar gedeelde revisies vóór 2 oktober 2025 werden ingeschakeld, wordt in plaats daarvan de [verouderde goedkeuringenpagina](https://support.catenda.com/nl/articles/8349340-approvals-page-legacy) weergegeven.
 
 ### 1.1 **Inschakelen vanuit sjabloonproject**
 
@@ -30,7 +30,7 @@ De nieuwe item-acties zijn te vinden in de rechterbovenhoek van de pagina.
 
 ### 2.1 **Nieuwe goedkeuringsaanvraag**
 
-Klik [hier](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request) voor meer informatie over het aanmaken van een nieuwe goedkeuringsaanvraag.
+Klik [hier](https://support.catenda.com/nl/articles/12495005-creating-a-new-approval-request) voor meer informatie over het aanmaken van een nieuwe goedkeuringsaanvraag.
 
 **Vereiste toegang:** Een lid moet deel uitmaken van een indienerteam in een geconfigureerde werkstroom om een nieuwe goedkeuringsaanvraag in te kunnen dienen.
 
@@ -38,7 +38,7 @@ Klik [hier](https://support.catenda.com/en/articles/12495005-creating-a-new-appr
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
 
-Klik [hier](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page) voor meer informatie over het filteren op de pagina Goedkeuringen.
+Klik [hier](https://support.catenda.com/nl/articles/12495060-filtering-on-the-approvals-page) voor meer informatie over het filteren op de pagina Goedkeuringen.
 
 ## 4. **Goedkeuringenlijst**
 
@@ -98,11 +98,11 @@ Met de tekstzoekopdracht kunt u zoeken op revisienaam en naam van de goedkeuring
 
 ### 6.1 **Open of gesloten goedkeuringrij**
 
-Het openen van de inhoud van een goedkeuringrij die onder controle is of gesloten, opent de [goedkeuringspagina](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page) voor die goedkeuring.
+Het openen van de inhoud van een goedkeuringrij die onder controle is of gesloten, opent de [goedkeuringspagina](https://support.catenda.com/nl/articles/12494960-open-or-closed-approval-request-page) voor die goedkeuring.
 
 ### 6.2 **Concept-goedkeuringrij**
 
-Voor conceptgoedkeuringen wordt in plaats daarvan de [pagina voor conceptgoedkeuringsaanvraag](https://support.catenda.com/en/articles/12495175-draft-approval-request-page) geopend.
+Voor conceptgoedkeuringen wordt in plaats daarvan de [pagina voor conceptgoedkeuringsaanvraag](https://support.catenda.com/nl/articles/12495175-draft-approval-request-page) geopend.
 
 ## 7. **Goedkeuringsaanvraagkaarten**
 

@@ -1,6 +1,6 @@
 # Catenda の PDF 上の QR コード
 
-QR コードは、[ドキュメント設定](https://support.catenda.com/en/articles/7831371-document-settings)の[フォルダ設定](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90)でフォルダごとに設定できます。
+QR コードは、[ドキュメント設定](https://support.catenda.com/ja/articles/7831371-document-settings)の[フォルダ設定](https://support.catenda.com/ja/articles/7831371-document-settings#h_6672c14d90)でフォルダごとに設定できます。
 
 この機能により、Catenda のユーザーは PDF に印刷された QR コードをスキャンして、使用しているドキュメントが最新バージョンであるかどうかを確認できます。
 
@@ -46,11 +46,11 @@ _Archicad_ QR コードを配置する際は、以下を使用してください
 
 ### 2.3 Catenda ドキュメント上に QR コードを配置する
 
-ドキュメントが既に Catenda にある場合は、QR プレースホルダーを追加し、新しいリビジョンをアップロードする必要があります。PDF 編集プログラムへのアクセス権がない場合は、[画像スタンプアノテーション ツール](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations#h_6e3ac983b6)を使用してドキュメントに QR プレースホルダーを追加できます。
+ドキュメントが既に Catenda にある場合は、QR プレースホルダーを追加し、新しいリビジョンをアップロードする必要があります。PDF 編集プログラムへのアクセス権がない場合は、[画像スタンプアノテーション ツール](https://support.catenda.com/ja/articles/5001165-document-preview-and-annotations#h_6e3ac983b6)を使用してドキュメントに QR プレースホルダーを追加できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/04-placing-the-qr-code-a-catenda-document.png)
 
-ドキュメント プレビューの左上にある[プリント ボタン](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations#h_709cb0ed70)でドキュメントを印刷して、QR プレースホルダーが認識されるようにドキュメントを保存します。
+ドキュメント プレビューの左上にある[プリント ボタン](https://support.catenda.com/ja/articles/5001165-document-preview-and-annotations#h_709cb0ed70)でドキュメントを印刷して、QR プレースホルダーが認識されるようにドキュメントを保存します。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/05-placing-the-qr-code-a-catenda-document.png)
 
@@ -82,7 +82,7 @@ _Archicad_ QR コードを配置する際は、以下を使用してください
 
 ### 3.1 **ドキュメント履歴**
 
-プレースホルダー QR コード付きのドキュメントをアップロードした後、[右側情報メニュー](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision)のドキュメント履歴で、正常に処理されたことを確認できます。
+プレースホルダー QR コード付きのドキュメントをアップロードした後、[右側情報メニュー](https://support.catenda.com/ja/articles/8302244-right-menu-of-a-revision)のドキュメント履歴で、正常に処理されたことを確認できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/10-document-history.png)
 

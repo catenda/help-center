@@ -50,9 +50,9 @@ Si vous le savez, définissez une échéance ou laissez-la vide. Il est recomman
 
 ### 2.8 Responsabilité
 
-**Assigné à** Ici, vous pouvez assigner le sujet à un Membre spécifique ou à une Équipe. Il est recommandé que vous définissiez un Membre comme assignataire au lieu d'une Équipe, car la responsabilité partagée fait qu'aucun des Membres de l'équipe ne se sent personnellement responsable. Si vous souhaitez toujours informer les autres Membres de l'équipe que leur équipe est responsable, vous pouvez définir Membre@équipe. Si un Membre est défini comme assignataire, il [suivra](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) automatiquement le sujet. Si une Équipe est définie comme assignataire, les Membres de l'équipe ne [suivront](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) pas automatiquement le sujet.
+**Assigné à** Ici, vous pouvez assigner le sujet à un Membre spécifique ou à une Équipe. Il est recommandé que vous définissiez un Membre comme assignataire au lieu d'une Équipe, car la responsabilité partagée fait qu'aucun des Membres de l'équipe ne se sent personnellement responsable. Si vous souhaitez toujours informer les autres Membres de l'équipe que leur équipe est responsable, vous pouvez définir Membre@équipe. Si un Membre est défini comme assignataire, il [suivra](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) automatiquement le sujet. Si une Équipe est définie comme assignataire, les Membres de l'équipe ne [suivront](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) pas automatiquement le sujet.
 
-**Demandé par** Ici, vous pouvez définir le Membre ou l'Équipe qui demande le sujet. Vous serez défini comme demandeur par défaut, mais vous pouvez choisir n'importe quel Membre ici. Si un Membre est défini comme demandé, il [suivra](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) automatiquement le sujet. Si une Équipe est définie comme demandée, les Membres de l'équipe ne [suivront](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) pas automatiquement le sujet.
+**Demandé par** Ici, vous pouvez définir le Membre ou l'Équipe qui demande le sujet. Vous serez défini comme demandeur par défaut, mais vous pouvez choisir n'importe quel Membre ici. Si un Membre est défini comme demandé, il [suivra](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) automatiquement le sujet. Si une Équipe est définie comme demandée, les Membres de l'équipe ne [suivront](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) pas automatiquement le sujet.
 
 ### 2.9 Étiquettes
 
@@ -70,7 +70,7 @@ Voici à quoi peut ressembler le panneau d'information de droite :
 
 ### 3.1 Documents
 
-Cliquez [ici](https://support.catenda.com/en/articles/4670250-linking-a-document-to-an-issue) pour voir comment lier un document à un sujet.
+Cliquez [ici](https://support.catenda.com/fr/articles/4670250-linking-a-document-to-an-issue) pour voir comment lier un document à un sujet.
 
 ## 4. Corps
 
@@ -80,7 +80,7 @@ Voici à quoi peut ressembler le corps d'un sujet :
 
 ### 4.1 Description
 
-Ajoutez une description pour le sujet. Identifiez les personnes qui doivent être incluses dans la discussion avec @. Dans la barre d'outils ci-dessous, vous avez plusieurs options, par exemple : [Listes de contrôle dans les sujets](https://intercom.help/bimsync-arena/en/articles/5036461-check-lists-within-issues)
+Ajoutez une description pour le sujet. Identifiez les personnes qui doivent être incluses dans la discussion avec @. Dans la barre d'outils ci-dessous, vous avez plusieurs options, par exemple : [Listes de contrôle dans les sujets](https://intercom.help/bimsync-arena/fr/articles/5036461-check-lists-within-issues)
 
 ### 4.2 Commentaire
 

@@ -18,7 +18,7 @@ Bevestig of het netwerk de blokkade veroorzaakt, probeer het platform of documen
 
 ### 1.3 **1.3 Permanente oplossing voor netwerkbeheerders**
 
-Om dit probleem permanent op te lossen, moet de netwerkconfiguratie worden bijgewerkt om het achtergrondverkeer van Catenda volledig te ondersteunen, inclusief alle subdomeinen en vereiste poorten. Klik [hier](https://support.catenda.com/en/articles/13927294-network-recommendation) voor meer informatie over whitelisting-vereisten en portspecificaties (inclusief verplichte Port 443 TCP/UDP-configuraties).
+Om dit probleem permanent op te lossen, moet de netwerkconfiguratie worden bijgewerkt om het achtergrondverkeer van Catenda volledig te ondersteunen, inclusief alle subdomeinen en vereiste poorten. Klik [hier](https://support.catenda.com/nl/articles/13927294-network-recommendation) voor meer informatie over whitelisting-vereisten en portspecificaties (inclusief verplichte Port 443 TCP/UDP-configuraties).
 
 ## 2. **2. Fout bij het laden van document (Time-out gelezen)**
 

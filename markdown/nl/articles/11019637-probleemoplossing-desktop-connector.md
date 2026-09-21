@@ -72,7 +72,7 @@ In de taak zelf kan het volgende worden gezien:
 
 `Niet alle mappen zijn gedownload, klik om fouten weer te geven.`
 
-Klik [hier](https://support.catenda.com/en/articles/13772277-desktop-connector-troubleshooting-not-all-folders-have-been-downloaded) om meer te lezen over wat het probleem met deze fout kan zijn.
+Klik [hier](https://support.catenda.com/nl/articles/13772277-desktop-connector-troubleshooting-not-all-folders-have-been-downloaded) om meer te lezen over wat het probleem met deze fout kan zijn.
 
 ## 5. **Nieuwste versie ingetrokken**
 

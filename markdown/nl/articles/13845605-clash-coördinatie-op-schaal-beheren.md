@@ -74,11 +74,11 @@ Systematische Topic board-setup, uitgebreide labeling en milestone-integratie cr
 
 ## 4. **Verder lezen:**
 
-- [Instellingenpagina Topic board](https://support.catenda.com/en/articles/4670277-topic-board-settings-page)
-- [Catenda Archicad-invoegtoepassing](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin)
-- [Catenda Revit-invoegtoepassing](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin)
-- [Catenda Navisworks-invoegtoepassing](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)
-- [Stap 5 - Topics](https://support.catenda.com/en/articles/10576182-step-5-topics)
+- [Instellingenpagina Topic board](https://support.catenda.com/nl/articles/4670277-topic-board-settings-page)
+- [Catenda Archicad-invoegtoepassing](https://support.catenda.com/nl/articles/5519276-catenda-archicad-plugin)
+- [Catenda Revit-invoegtoepassing](https://support.catenda.com/nl/articles/4670334-catenda-revit-plugin)
+- [Catenda Navisworks-invoegtoepassing](https://support.catenda.com/nl/articles/5085987-catenda-navisworks-plugin)
+- [Stap 5 - Topics](https://support.catenda.com/nl/articles/10576182-step-5-topics)
 
 ## 5. Prompt
 

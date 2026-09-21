@@ -28,7 +28,7 @@ Cliquez ici pour commencer à rechercher les pages d'aide. Par défaut, il effec
 
 ### 1.4 **Pages recommandées**
 
-Sous la barre de recherche, vous trouverez les pages recommandées suivantes : Manuels d'utilisation dans diverses langues [Recommandations matérielles](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Résumé des raccourcis les plus importants et des contrôles de base](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls) [Le dernier journal des modifications](https://support.catenda.com/en/collections/2683918-recent-updates)
+Sous la barre de recherche, vous trouverez les pages recommandées suivantes : Manuels d'utilisation dans diverses langues [Recommandations matérielles](https://support.catenda.com/fr/articles/6921941-hardware-recommendation) [Résumé des raccourcis les plus importants et des contrôles de base](https://support.catenda.com/fr/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls) [Le dernier journal des modifications](https://support.catenda.com/fr/collections/2683918-recent-updates)
 
 ### 1.5 **Statut**
 

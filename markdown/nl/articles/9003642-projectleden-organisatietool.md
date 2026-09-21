@@ -1,6 +1,6 @@
 # Projectleden - Organisatietool
 
-U kunt de projectpagina vinden als een subpagina van uw [organisatieprofiel](https://support.catenda.com/en/articles/8497478-organization-profile-page). Hier ziet u een overzicht van alle leden die deel uitmaken van projecten die tot deze organisatie behoren.
+U kunt de projectpagina vinden als een subpagina van uw [organisatieprofiel](https://support.catenda.com/nl/articles/8497478-organization-profile-page). Hier ziet u een overzicht van alle leden die deel uitmaken van projecten die tot deze organisatie behoren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hmv9p08/01-intro.png)
 

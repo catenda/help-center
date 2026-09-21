@@ -1,6 +1,6 @@
 # Verschuifvlak-vervolgkeuze
 
-Als er modellen in het project aanwezig zijn die rasters bevatten, verschijnt de verschuifvlak-vervolgkeuze in de linkerbovenhoek van de [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer#h_2eec7c411b).
+Als er modellen in het project aanwezig zijn die rasters bevatten, verschijnt de verschuifvlak-vervolgkeuze in de linkerbovenhoek van de [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer#h_2eec7c411b).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/01-intro.png)
 
@@ -64,7 +64,7 @@ Vouw het menu voor assen weergeven uit voor betere controle van elk van de assen
 
 ## 4. **4. Knop voor verschuifvlak-oppervlak**
 
-Nadat het is ingeschakeld, strekt het transparante verschuifvlak-oppervlak zich uit van de annotatielijn tot aan de bovenste grenzen van het model, vergelijkbaar met een knipvlak-oppervlak. In tegenstelling tot een knipvlak-oppervlak dat er op dezelfde manier transparant uitziet en kan worden verplaatst, is dit een transparant object dat niet van zijn annotatielijn kan worden verplaatst. Ook in tegenstelling tot knipvlak-oppervlakken is het mogelijk om naar verschuifvlak-oppervlakken te meten. Klik [hier](https://support.catenda.com/en/articles/4670298-measuring-to-grids) om meer informatie te lezen over meting naar verschillende verschuifvlak-oppervlakken.
+Nadat het is ingeschakeld, strekt het transparante verschuifvlak-oppervlak zich uit van de annotatielijn tot aan de bovenste grenzen van het model, vergelijkbaar met een knipvlak-oppervlak. In tegenstelling tot een knipvlak-oppervlak dat er op dezelfde manier transparant uitziet en kan worden verplaatst, is dit een transparant object dat niet van zijn annotatielijn kan worden verplaatst. Ook in tegenstelling tot knipvlak-oppervlakken is het mogelijk om naar verschuifvlak-oppervlakken te meten. Klik [hier](https://support.catenda.com/nl/articles/4670298-measuring-to-grids) om meer informatie te lezen over meting naar verschillende verschuifvlak-oppervlakken.
 
 ### 4.1 **4.1 Rasteras-oppervlak**
 

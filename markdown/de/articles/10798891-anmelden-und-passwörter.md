@@ -4,7 +4,7 @@ Es gibt mehrere Orte auf Catenda, an denen Sie aufgefordert werden, ein Passwort
 
 ## 1. **Anmelden**
 
-Auf der [Anmeldungsseite](https://support.catenda.com/en/articles/7891486-sign-in-page) werden Sie aufgefordert, Ihr Passwort einzugeben. Dieselbe Anmeldungsseite wird sowohl beim Anmelden über den Browser als auch beim Anmelden verwendet, um Ihrem Konto über die API Zugriff zu gewähren, wie Sie es bei vielen unserer Plugins tun. Während dieses Prozesses können folgende Herausforderungen auftreten:
+Auf der [Anmeldungsseite](https://support.catenda.com/de/articles/7891486-sign-in-page) werden Sie aufgefordert, Ihr Passwort einzugeben. Dieselbe Anmeldungsseite wird sowohl beim Anmelden über den Browser als auch beim Anmelden verwendet, um Ihrem Konto über die API Zugriff zu gewähren, wie Sie es bei vielen unserer Plugins tun. Während dieses Prozesses können folgende Herausforderungen auftreten:
 
 ### 1.1 **Benutzername oder Passwort falsch**
 
@@ -54,7 +54,7 @@ Wenn Sie Ihr neues Passwort zum zweiten Mal eingeben, um es zu bestätigen, stel
 
 ### 2.4 **Altes Passwort ungültig**
 
-Wenn Sie sich anmelden können, können Sie zur [Seite für die Kontoauthentifizierung](https://support.catenda.com/en/articles/6880968-account-page) gehen, um Ihr Passwort zurückzusetzen. Dort werden Sie zunächst nach Ihrem alten Passwort gefragt. Dies ist das Passwort, das Sie zum Anmelden bei Ihrem Konto verwendet haben. Wenn Sie nicht das richtige Passwort eingeben, sehen Sie die folgende Meldung:
+Wenn Sie sich anmelden können, können Sie zur [Seite für die Kontoauthentifizierung](https://support.catenda.com/de/articles/6880968-account-page) gehen, um Ihr Passwort zurückzusetzen. Dort werden Sie zunächst nach Ihrem alten Passwort gefragt. Dies ist das Passwort, das Sie zum Anmelden bei Ihrem Konto verwendet haben. Wenn Sie nicht das richtige Passwort eingeben, sehen Sie die folgende Meldung:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zw9p4shp/06-old-password-not-valid.png)
 

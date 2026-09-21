@@ -4,7 +4,7 @@
 
 Le Portail d'Archivage vous permet d'archiver des Documents et des Sujets de Catenda Hub vers le système d'archive externe de votre organisation. C'est pour quiconque est responsable de l'archivage dans un ou plusieurs projets.
 
-Ouvrez le portail à [archiving.catenda.com](https://archiving.catenda.com) et cliquez sur **Connecter à Catenda Hub**. Le portail n'a pas de mot de passe propre, vous vous authentifiez donc sur Catenda Hub et êtes renvoyé ici. Pour le compte lui-même, consultez [Page de connexion](https://support.catenda.com/en/articles/7891486-sign-in-page).
+Ouvrez le portail à [archiving.catenda.com](https://archiving.catenda.com) et cliquez sur **Connecter à Catenda Hub**. Le portail n'a pas de mot de passe propre, vous vous authentifiez donc sur Catenda Hub et êtes renvoyé ici. Pour le compte lui-même, consultez [Page de connexion](https://support.catenda.com/fr/articles/7891486-sign-in-page).
 
 La page des projets peut ressembler à ceci :
 
@@ -32,7 +32,7 @@ L'envoi remet l'élément au système d'archive, qui l'enregistre et renvoie une
 
 Tout ce qui échoue est enregistré avec la raison de l'échec, et peut être renvoyé à nouveau, soit un élément à la fois, soit pour tout le projet à la fois.
 
-> **Remarque :** Les articles décrivant chacune de ces étapes en détail ne sont disponibles que pour les utilisateurs ayant accès au Portail d'Archivage. Pour savoir quel système d'archive le portail soumet, consultez [Systèmes d'Archive et Numéros de Projet dans le Portail d'Archivage](https://support.catenda.com/en/articles/16968887-archive-systems-and-project-numbers-in-the-archiving-portal).
+> **Remarque :** Les articles décrivant chacune de ces étapes en détail ne sont disponibles que pour les utilisateurs ayant accès au Portail d'Archivage. Pour savoir quel système d'archive le portail soumet, consultez [Systèmes d'Archive et Numéros de Projet dans le Portail d'Archivage](https://support.catenda.com/fr/articles/16968887-archive-systems-and-project-numbers-in-the-archiving-portal).
 
 ## 2. **Vos projets**
 
@@ -42,7 +42,7 @@ Seuls les projets dont vous détenez les droits d'administrateur sont listés. S
 
 Chaque projet est listé avec son propriétaire et un compte des Documents et Sujets actuellement en attente d'archivage.
 
-Cliquez sur **Gérer l'Archive** sur un projet pour l'ouvrir. Ce que la page du projet vous montre à partir de là est décrit dans [Page de Contenu du Projet dans le Portail d'Archivage](https://support.catenda.com/en/articles/16968871-project-content-page-in-the-archiving-portal), que seuls les utilisateurs ayant accès au Portail d'Archivage peuvent lire.
+Cliquez sur **Gérer l'Archive** sur un projet pour l'ouvrir. Ce que la page du projet vous montre à partir de là est décrit dans [Page de Contenu du Projet dans le Portail d'Archivage](https://support.catenda.com/fr/articles/16968871-project-content-page-in-the-archiving-portal), que seuls les utilisateurs ayant accès au Portail d'Archivage peuvent lire.
 
 > **Remarque :** Le portail détermine les projets à afficher en vérifiant vos appartenances aux Équipes. Si cette vérification échoue, il vous indique que certains projets peuvent ne pas être visibles, plutôt que d'afficher discrètement une liste courte.
 
@@ -52,7 +52,7 @@ Trois commandes se trouvent en haut à droite, et cette page est le premier endr
 
 **Langue** Le portail est disponible en anglais et en norvégien Bokmål, et le sélecteur de langue bascule entre les deux.
 
-**Statistiques** **Afficher les Statistiques** ouvre un résumé de ce qui a été archivé dans tous les projets. L'icône n'est affichée que pour les propriétaires d'organisation, et elle prend la place de l'icône d'engrenage que montre une page de projet. Cette page est décrite dans [Page des Statistiques du Portail d'Archivage](https://support.catenda.com/en/articles/16968884-statistics-page-in-the-archiving-portal), et les chiffres par projet dans [Page des Paramètres du Projet dans le Portail d'Archivage](https://support.catenda.com/en/articles/16968883-project-settings-page-in-the-archiving-portal). Ces deux articles ne sont disponibles que pour les utilisateurs ayant accès au Portail d'Archivage.
+**Statistiques** **Afficher les Statistiques** ouvre un résumé de ce qui a été archivé dans tous les projets. L'icône n'est affichée que pour les propriétaires d'organisation, et elle prend la place de l'icône d'engrenage que montre une page de projet. Cette page est décrite dans [Page des Statistiques du Portail d'Archivage](https://support.catenda.com/fr/articles/16968884-statistics-page-in-the-archiving-portal), et les chiffres par projet dans [Page des Paramètres du Projet dans le Portail d'Archivage](https://support.catenda.com/fr/articles/16968883-project-settings-page-in-the-archiving-portal). Ces deux articles ne sont disponibles que pour les utilisateurs ayant accès au Portail d'Archivage.
 
 **Déconnexion** Vous déconnecte du portail.
 

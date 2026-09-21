@@ -28,7 +28,7 @@ Klik hier om te beginnen met zoeken in de hulppagina's. Standaard wordt gezocht 
 
 ### 1.4 **Aanbevolen pagina's**
 
-Onder de zoekbalk vindt u de volgende aanbevolen pagina's: Gebruikershandleidingen in verschillende talen [Hardware-aanbeveling](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Samenvatting van de belangrijkste sneltoetsen en basisbesturingselementen](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls) [De laatste wijzigingslog](https://support.catenda.com/en/collections/2683918-recent-updates)
+Onder de zoekbalk vindt u de volgende aanbevolen pagina's: Gebruikershandleidingen in verschillende talen [Hardware-aanbeveling](https://support.catenda.com/nl/articles/6921941-hardware-recommendation) [Samenvatting van de belangrijkste sneltoetsen en basisbesturingselementen](https://support.catenda.com/nl/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls) [De laatste wijzigingslog](https://support.catenda.com/nl/collections/2683918-recent-updates)
 
 ### 1.5 **Status**
 

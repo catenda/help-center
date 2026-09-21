@@ -1,6 +1,6 @@
 # Plan de mesure
 
-Vous pouvez trouver l'outil de création de plan de mesure dans la [liste déroulante des outils](https://support.catenda.com/en/articles/8227211-3d-viewer#h_003a4c0a62) de la Visionneuse 3D, qui est le troisième bouton en haut à droite de la [Visionneuse 3D](https://support.catenda.com/en/articles/8227211-3d-viewer).
+Vous pouvez trouver l'outil de création de plan de mesure dans la [liste déroulante des outils](https://support.catenda.com/fr/articles/8227211-3d-viewer#h_003a4c0a62) de la Visionneuse 3D, qui est le troisième bouton en haut à droite de la [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer).
 
 ## 1. **Création d'un plan de mesure**
 

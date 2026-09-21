@@ -1,6 +1,6 @@
 # Meetvlak
 
-U kunt het gereedschap voor het maken van een meetvlak vinden in de 3D viewer [tool dropdown](https://support.catenda.com/en/articles/8227211-3d-viewer#h_003a4c0a62), de derde knop rechtsboven in de [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer).
+U kunt het gereedschap voor het maken van een meetvlak vinden in de 3D viewer [tool dropdown](https://support.catenda.com/nl/articles/8227211-3d-viewer#h_003a4c0a62), de derde knop rechtsboven in de [3D viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer).
 
 ## 1. **Meetvlak maken**
 

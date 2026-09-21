@@ -2,13 +2,13 @@
 
 Schnappschüsse beschreiben einen Ort und einen Zeitpunkt in 3D. Sie können verwendet werden, um Menschen zu zeigen, was Sie betrachten, da sie in der Lage sein werden, dieselben Ansichten nicht nur in Catenda Hub, sondern auch in ihrer Umgebung zu rekonstruieren. Schnappschüsse können durch Wiedergabe in Catenda Hub und in unseren Plugins rekonstruiert werden.
 
-So kann ein Schnappschuss in einem [Kommentar zu einem Thema](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) oder in einem [Lesezeichen](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e) aussehen. <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-5a151da0b11e.png" width="272.72727272727275"/> Das Thema kann eine Anmerkung oben auf dem Bild haben und die Schaltflächen sehen anders aus. Obwohl Schnappschüsse in Themenkommentaren und Lesezeichen unterschiedlich verwendet werden, ist ihre Funktionalität gleich.
+So kann ein Schnappschuss in einem [Kommentar zu einem Thema](https://support.catenda.com/de/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) oder in einem [Lesezeichen](https://support.catenda.com/de/articles/8471481-bookmark#h_5c9944a45e) aussehen. <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-5a151da0b11e.png" width="272.72727272727275"/> Das Thema kann eine Anmerkung oben auf dem Bild haben und die Schaltflächen sehen anders aus. Obwohl Schnappschüsse in Themenkommentaren und Lesezeichen unterschiedlich verwendet werden, ist ihre Funktionalität gleich.
 
 ## 1. **Schnappschussbild**
 
 ### 1.1 **Schnappschussbild in Themakommentar**
 
-Wenn Sie auf eine beliebige Stelle des Bildes eines Kommentar-Schnappschusses klicken, wird das Bild [aufgeklappt](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) und Sie können seinen Inhalt in einem größeren Format anzeigen und nach dem Absenden herunterladen. Nach dem Erstellen des Schnappschusses und vor dem Hinzufügen zum Thema können Sie Anmerkungen hinzufügen.
+Wenn Sie auf eine beliebige Stelle des Bildes eines Kommentar-Schnappschusses klicken, wird das Bild [aufgeklappt](https://support.catenda.com/de/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) und Sie können seinen Inhalt in einem größeren Format anzeigen und nach dem Absenden herunterladen. Nach dem Erstellen des Schnappschusses und vor dem Hinzufügen zum Thema können Sie Anmerkungen hinzufügen.
 
 ### 1.2 **Schnappschussbild im Lesezeichen**
 
@@ -20,7 +20,7 @@ Die Größe des angehängten Bildes ist abhängig von der Größe des Viewers un
 
 Schnappschüsse sind die beste Möglichkeit, hochwertige Bilder oder Renderings aus dem Catenda Hub Viewer aus den folgenden Gründen zu erstellen:
 
-- Schnappschussbilder können aus dem [Anlagen-Pop-out](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) in einem Themakommentar heruntergeladen werden.
+- Schnappschussbilder können aus dem [Anlagen-Pop-out](https://support.catenda.com/de/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) in einem Themakommentar heruntergeladen werden.
 - Schnappschussbilder können höhere Auflösungen haben als einfach ein Screenshot aus dem Viewer zu machen.
 
 Das größte Bild, das wir bislang generiert haben, hatte eine Größe von 6417×11113 Pixeln. Um einen Schnappschuss dieser Größe zu erstellen, wurden die folgenden Einstellungen verwendet:
@@ -54,7 +54,7 @@ Wenn weniger als die Hälfte der Objekte in einem Modell sichtbar ist, werden Ob
 
 Isoliert: Nur die Objekte, die bei der Schnappschusserstellung isoliert wurden, werden isoliert. Objekte mit neuen IDs werden angezeigt, aber nicht hervorgehoben.
 
-**Auswahlmöglichkeiten** Falls [Auswahlmöglichkeiten](https://support.catenda.com/en/articles/8238584-information-panel#h_d713a0abb1) im [Informationsfeld](https://support.catenda.com/en/articles/8238584-information-panel) vorgenommen wurden, werden diese gespeichert, wenn die Ansicht wiedergegeben wird. Dies macht es einfach, verschiedene Objektsätze auszuwählen. Dies ermöglicht es Ihnen auch, einem Objektsatz eine andere Farbe als die Standardfarbe zu geben, wenn Sie sie normalerweise aus dem Modellbereich öffnen.
+**Auswahlmöglichkeiten** Falls [Auswahlmöglichkeiten](https://support.catenda.com/de/articles/8238584-information-panel#h_d713a0abb1) im [Informationsfeld](https://support.catenda.com/de/articles/8238584-information-panel) vorgenommen wurden, werden diese gespeichert, wenn die Ansicht wiedergegeben wird. Dies macht es einfach, verschiedene Objektsätze auszuwählen. Dies ermöglicht es Ihnen auch, einem Objektsatz eine andere Farbe als die Standardfarbe zu geben, wenn Sie sie normalerweise aus dem Modellbereich öffnen.
 
 _Schaltfläche "Objekte auswählen"_ In einem Themakommentar sehen Sie ein Symbol, das anzeigt, wie viele Objekte konfiguriert sind, um in einem Schnappschuss ausgewählt zu werden.
 
@@ -68,23 +68,23 @@ Schnittebenen, die im Schnappschuss konfiguriert sind, werden aktiv sein, wenn d
 
 ### 2.3 **Revisionswähler**
 
-Welche 2D- und 3D-Ansichten im [Revisionswähler](https://support.catenda.com/en/articles/8227211-3d-viewer#h_6c32b713c9) ein- oder ausgeschaltet wurden. Punktwolkeneinstellungen werden reproduziert.
+Welche 2D- und 3D-Ansichten im [Revisionswähler](https://support.catenda.com/de/articles/8227211-3d-viewer#h_6c32b713c9) ein- oder ausgeschaltet wurden. Punktwolkeneinstellungen werden reproduziert.
 
 ### 2.4 **Gitternetz-Dropdown**
 
-Gitternetze, die im [Gitternetz-Dropdown](https://support.catenda.com/en/articles/8227211-3d-viewer#h_b735587e69) eingeschaltet wurden, werden angezeigt.
+Gitternetze, die im [Gitternetz-Dropdown](https://support.catenda.com/de/articles/8227211-3d-viewer#h_b735587e69) eingeschaltet wurden, werden angezeigt.
 
 ### 2.5 **Sichtbarkeits-Dropdown**
 
-Optionen, die mit dem [Sichtbarkeits-Dropdown](https://support.catenda.com/en/articles/8227211-3d-viewer#h_376dfb4859) konfiguriert wurden, werden reproduziert.
+Optionen, die mit dem [Sichtbarkeits-Dropdown](https://support.catenda.com/de/articles/8227211-3d-viewer#h_376dfb4859) konfiguriert wurden, werden reproduziert.
 
 ### 2.6 **Kameraoptionen**
 
-Die Kamera im 3D-Viewer wird an den Ort und den Betrachtungswinkel bewegt, die im Schnappschuss eingestellt sind. Der im [Kameraoptionen](https://support.catenda.com/en/articles/8227211-3d-viewer#h_02072804a5) eingestellte Kameratyp wird reproduziert. Die im [Kameraoptionen](https://support.catenda.com/en/articles/8227211-3d-viewer#h_02072804a5) eingestellten Schattierungsoptionen werden reproduziert.
+Die Kamera im 3D-Viewer wird an den Ort und den Betrachtungswinkel bewegt, die im Schnappschuss eingestellt sind. Der im [Kameraoptionen](https://support.catenda.com/de/articles/8227211-3d-viewer#h_02072804a5) eingestellte Kameratyp wird reproduziert. Die im [Kameraoptionen](https://support.catenda.com/de/articles/8227211-3d-viewer#h_02072804a5) eingestellten Schattierungsoptionen werden reproduziert.
 
 ### 2.7 **3D-Einstellungen**
 
-Einstellungen wie Sichtfeld oder inkrementelles Rendering, die in den [3D-Einstellungen](https://support.catenda.com/en/articles/5784718-3d-viewer-settings) eingestellt sind, werden reproduziert.
+Einstellungen wie Sichtfeld oder inkrementelles Rendering, die in den [3D-Einstellungen](https://support.catenda.com/de/articles/5784718-3d-viewer-settings) eingestellt sind, werden reproduziert.
 
 ## 3. **Schnappschuss wiederherstellen**
 
@@ -106,7 +106,7 @@ Lesezeichen - Themenkommentar <p class="intercom-align-center no-margin"><img al
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/02-copying-and-favoriting-snapshots.png)
 
-Wenn dieses Lesezeichen von einem anderen Mitglied erstellt wurde, sehen Sie ein +. Dies ermöglicht es Ihnen, Ihre eigene Kopie des Lesezeichens zu erstellen, die Sie bearbeiten und filtern können. Falls Sie dieses Lesezeichen bereits kopiert haben, wird diese Schaltfläche grau und Sie können Ihre Version [unten](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e) öffnen. Durch das Kopieren eines Lesezeichens können Sie nachverfolgbar, welches Lesezeichen Sie kopiert haben.
+Wenn dieses Lesezeichen von einem anderen Mitglied erstellt wurde, sehen Sie ein +. Dies ermöglicht es Ihnen, Ihre eigene Kopie des Lesezeichens zu erstellen, die Sie bearbeiten und filtern können. Falls Sie dieses Lesezeichen bereits kopiert haben, wird diese Schaltfläche grau und Sie können Ihre Version [unten](https://support.catenda.com/de/articles/8471481-bookmark#h_5c9944a45e) öffnen. Durch das Kopieren eines Lesezeichens können Sie nachverfolgbar, welches Lesezeichen Sie kopiert haben.
 
 **Lesezeichen als Favorit**
 
@@ -174,7 +174,7 @@ Mitglieder mit Lesezugriff auf das Themenbrett können den Schnappschuss sehen. 
 
 ### 7.2 **Lesezeichen-Freigabe**
 
-Die [Freigabe](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e)-Konfiguration für das Lesezeichen
+Die [Freigabe](https://support.catenda.com/de/articles/8471481-bookmark#h_5c9944a45e)-Konfiguration für das Lesezeichen
 
 ### 7.3 **Privat**
 
@@ -192,7 +192,7 @@ _Lesezeichen-Sichtbarkeit:_ Alle Projektmitglieder, können mit externen Persone
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/10-public-link-to-bookmark.png)
 
-Wenn ein [öffentlicher Link](https://support.catenda.com/en/articles/8471481-bookmark#h_b148931acf) für dieses Lesezeichen aktiviert wurde, können Sie auf diese Schaltfläche klicken, um den öffentlichen Link in einem neuen Tab zu öffnen.
+Wenn ein [öffentlicher Link](https://support.catenda.com/de/articles/8471481-bookmark#h_b148931acf) für dieses Lesezeichen aktiviert wurde, können Sie auf diese Schaltfläche klicken, um den öffentlichen Link in einem neuen Tab zu öffnen.
 
 ## 9. **Schnappschuss löschen**
 

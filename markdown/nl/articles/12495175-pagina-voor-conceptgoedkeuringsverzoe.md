@@ -1,6 +1,6 @@
 # Pagina voor conceptgoedkeuringsverzoe
 
-Conceptgoedkeuringen kunnen worden geopend door op een conceptgoedkeuringkaart te klikken op de [goedkeuringspagina](https://support.catenda.com/en/articles/8349340-approvals-page). _Vereiste toegang:_ Maker van conceptgoedkeuringsverzoe
+Conceptgoedkeuringen kunnen worden geopend door op een conceptgoedkeuringkaart te klikken op de [goedkeuringspagina](https://support.catenda.com/nl/articles/8349340-approvals-page). _Vereiste toegang:_ Maker van conceptgoedkeuringsverzoe
 
 Dit is hoe de pagina voor conceptgoedkeuringsverzoe eruit kan zien:
 
@@ -14,7 +14,7 @@ Dit is hoe de acties op de goedkeuringspagina eruit kunnen zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/02-new-item-actions.png)
 
-Gebruik de nieuwe goedkeuringsverzoekaactie om een nieuw goedkeuringsverzoe te maken. Klik [hier](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request?q=draft) om meer te lezen over het maken van een nieuw goedkeuringsverzoe.
+Gebruik de nieuwe goedkeuringsverzoekaactie om een nieuw goedkeuringsverzoe te maken. Klik [hier](https://support.catenda.com/nl/articles/12495005-creating-a-new-approval-request?q=draft) om meer te lezen over het maken van een nieuw goedkeuringsverzoe.
 
 ## 2. **Goedkeuringskop**
 
@@ -32,7 +32,7 @@ De workflow die tijdens het maken van deze goedkeuring is geselecteerd
 
 ### 2.3 **Omschrijving**
 
-De beschrijving van de goedkeuring. De beschrijving blijft bewerkbaar nadat het goedkeuringverzoek is ingediend. Bewerking is beperkt tot de persoon die het goedkeuringverzoek heeft ingediend en tot projectbeheerders. De beschrijving van de goedkeuring volgt de [algemene opmaakregels van berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+De beschrijving van de goedkeuring. De beschrijving blijft bewerkbaar nadat het goedkeuringverzoek is ingediend. Bewerking is beperkt tot de persoon die het goedkeuringverzoek heeft ingediend en tot projectbeheerders. De beschrijving van de goedkeuring volgt de [algemene opmaakregels van berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts).
 
 ## 3. **Stapregelaar**
 
@@ -40,7 +40,7 @@ In de stapregelaar wordt een voorbeeld van alle stappen in een goedkeuring weerg
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/04-step-ribbon.png)
 
-Klik [hier](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-approval-request) om meer te lezen over de stapregelaar.
+Klik [hier](https://support.catenda.com/nl/articles/12495212-step-ribbon-in-an-approval-request) om meer te lezen over de stapregelaar.
 
 ## 4. **Documenten-tabblad**
 

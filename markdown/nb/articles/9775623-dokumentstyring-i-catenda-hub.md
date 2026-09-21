@@ -22,7 +22,7 @@ Her er en sammenligning av fordelene og ulempene ved disse 2 variantene:
 
 ## 1. **Eksempel mappestruktur**
 
-Du vil kunne finne gode forslag om hvordan du oppretter en mappestruktur i [denne artikkelen](https://support.catenda.com/en/articles/8542598-structuring-documents). Du kan også finne et eksempel på en mappestruktur som brukes av Statens Byggedirekasjon i Bayern på følgende [lenke](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) Mappestrukturer kan settes opp veldig annerledes. Dette avhenger på den ene siden av kravene til prosjektet og det tilhørende prosjektteamet, og på den andre siden avhenger mappestrukturen av eventuell brukt plannøkkel.
+Du vil kunne finne gode forslag om hvordan du oppretter en mappestruktur i [denne artikkelen](https://support.catenda.com/nb/articles/8542598-structuring-documents). Du kan også finne et eksempel på en mappestruktur som brukes av Statens Byggedirekasjon i Bayern på følgende [lenke](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) Mappestrukturer kan settes opp veldig annerledes. Dette avhenger på den ene siden av kravene til prosjektet og det tilhørende prosjektteamet, og på den andre siden avhenger mappestrukturen av eventuell brukt plannøkkel.
 
 ### 1.1 **Eksempel -** Separering av strukturer etter fase
 

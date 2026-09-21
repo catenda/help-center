@@ -1,22 +1,22 @@
 # Menu droit d'une révision - Markups
 
-Si vous sélectionnez un document sur la [page des documents](https://support.catenda.com/en/articles/8204673-documents-page) ou dans une bibliothèque, une nouvelle fenêtre s'ouvrira pour ce document. Vous verrez toujours la dernière révision lorsque vous ouvrez un document. La page du document peut ressembler à ceci :
+Si vous sélectionnez un document sur la [page des documents](https://support.catenda.com/fr/articles/8204673-documents-page) ou dans une bibliothèque, une nouvelle fenêtre s'ouvrira pour ce document. Vous verrez toujours la dernière révision lorsque vous ouvrez un document. La page du document peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/01-intro.png)
 
-1. La [bannière du document](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) s'étend sur toute la largeur de la page du document
+1. La [bannière du document](https://support.catenda.com/fr/articles/8461918-document-banner-actions-navigation) s'étend sur toute la largeur de la page du document
 1. Vous trouverez l'en-tête du document sous la bannière du document et au-dessus de l'aperçu du document.
-1. Sous l'en-tête du document, vous trouverez l'[aperçu du document](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
+1. Sous l'en-tête du document, vous trouverez l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations).
 1. À gauche de l'en-tête et de l'aperçu du document, vous trouverez la liste des documents
 1. _Cet article :_ À droite de l'en-tête et de l'aperçu du document, vous trouverez le menu d'informations droit.
 
-Lorsque vous ouvrez un document pour la première fois, son menu droit peut être fermé. Vous pouvez cliquer sur le bouton d'informations en bas à droite de la [bannière du document](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) pour développer ce menu.
+Lorsque vous ouvrez un document pour la première fois, son menu droit peut être fermé. Vous pouvez cliquer sur le bouton d'informations en bas à droite de la [bannière du document](https://support.catenda.com/fr/articles/8461918-document-banner-actions-navigation) pour développer ce menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/02-intro.png)
 
 ## 1. **Onglets Informations fichier et Markups**
 
-Vers le haut du menu, vous verrez les onglets Informations fichier et Markups. Par défaut, lorsque vous ouvrez le menu droit, l'onglet Informations fichier sera actif. Lorsque vous créez une annotation dans l'aperçu du document, ce menu bascule automatiquement vers l'onglet markup. Cet article décrit l'onglet Markup. Si vous recherchez des informations sur l'onglet Informations fichier, cliquez [ici](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision).
+Vers le haut du menu, vous verrez les onglets Informations fichier et Markups. Par défaut, lorsque vous ouvrez le menu droit, l'onglet Informations fichier sera actif. Lorsque vous créez une annotation dans l'aperçu du document, ce menu bascule automatiquement vers l'onglet markup. Cet article décrit l'onglet Markup. Si vous recherchez des informations sur l'onglet Informations fichier, cliquez [ici](https://support.catenda.com/fr/articles/8302244-right-menu-of-a-revision).
 
 ## 2. **Qu'est-ce qu'un markup**
 
@@ -36,7 +36,7 @@ Si des markups sur votre révision actuelle ont été ajoutés à des sujets, vo
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/03-markup-tab.png)
 
-Pour ajouter un markup, sélectionnez un outil dans la [barre d'outils](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations#h_6e3ac983b6) au-dessus de l'aperçu du document et créez une annotation.
+Pour ajouter un markup, sélectionnez un outil dans la [barre d'outils](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations#h_6e3ac983b6) au-dessus de l'aperçu du document et créez une annotation.
 
 ### 2.2 **Liste déroulante de sélection de sujet**
 
@@ -64,7 +64,7 @@ Si des markups sur votre révision actuelle ont été ajoutés à un sujet, vous
 
 ### 3.1 **Markups non enregistrés**
 
-Pour en savoir plus sur la façon d'enregistrer de nouveaux markups sans avoir sélectionné de sujet, cliquez [ici](https://support.catenda.com/en/articles/10209740-saving-a-markup#h_8542b82cf8).
+Pour en savoir plus sur la façon d'enregistrer de nouveaux markups sans avoir sélectionné de sujet, cliquez [ici](https://support.catenda.com/fr/articles/10209740-saving-a-markup#h_8542b82cf8).
 
 ### 3.2 **Options d'affichage du sujet**
 
@@ -98,7 +98,7 @@ _En-tête du sujet_ Vers le haut, vous verrez le titre et le numéro du sujet. C
 
 Sous le titre du sujet, vous verrez le statut et le type du sujet. Vous pourrez modifier le statut de ce sujet dans cette vue en cliquant dessus et en sélectionnant un statut différent. Cela peut être utile lorsque tous les markups du sujet ont été traités et que le sujet peut être fermé. _Accès requis :_ Accès en écriture à la liste de sujets dans laquelle se trouve le sujet.
 
-**Markups de révision de document dans les commentaires du sujet** Chaque markup a une capture qui lui est associée. Cette capture est une image de toutes les annotations qui se trouvent dans le markup actuel. Vous pouvez cliquer sur la capture pour ouvrir la boîte de dialogue de capture comme [dans un sujet](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f). Là, vous pourrez voir l'image en grand sur l'écran et pouvoir la télécharger.
+**Markups de révision de document dans les commentaires du sujet** Chaque markup a une capture qui lui est associée. Cette capture est une image de toutes les annotations qui se trouvent dans le markup actuel. Vous pouvez cliquer sur la capture pour ouvrir la boîte de dialogue de capture comme [dans un sujet](https://support.catenda.com/fr/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f). Là, vous pourrez voir l'image en grand sur l'écran et pouvoir la télécharger.
 
 S'il y a des markups, sur la révision du document spécifié sous l'image, dans plusieurs commentaires du sujet, vous verrez des flèches à gauche et à droite de l'image. Ces flèches peuvent être utilisées pour parcourir les différents markups du sujet.
 
@@ -116,4 +116,4 @@ Cliquez sur le bouton Retour à gauche de la liste déroulante pour retourner à
 
 ### 4.1 **Enregistrement de nouveaux markups sur des sujets sélectionnés**
 
-Pour en savoir plus sur la façon d'enregistrer de nouveaux markups sur un sujet sélectionné, cliquez [ici](https://support.catenda.com/en/articles/10209740-saving-a-markup#h_17e389a6b7).
+Pour en savoir plus sur la façon d'enregistrer de nouveaux markups sur un sujet sélectionné, cliquez [ici](https://support.catenda.com/fr/articles/10209740-saving-a-markup#h_17e389a6b7).

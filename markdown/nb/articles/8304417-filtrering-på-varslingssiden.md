@@ -1,8 +1,8 @@
 # Filtrering på varslingssiden
 
-Både i [innstillingene for varsel](https://support.catenda.com/en/articles/8272435-notification-settings) og i [prosjektspesifikke innstillingene for varsel](https://support.catenda.com/en/articles/4670262-project-specific-notification-settings) vil du kunne konfigurere hvilke varslinger du ønsker å motta.
+Både i [innstillingene for varsel](https://support.catenda.com/nb/articles/8272435-notification-settings) og i [prosjektspesifikke innstillingene for varsel](https://support.catenda.com/nb/articles/4670262-project-specific-notification-settings) vil du kunne konfigurere hvilke varslinger du ønsker å motta.
 
-I denne artikkelen vil vi forklare i hvilke situasjoner varslinger sendes for de forskjellige innstillingene. Etter at et varsel er sendt, kan det finnes igjen på [siden for kontovarsler](https://support.catenda.com/en/articles/7439223-account-notifications-page) og [siden for prosjektvarsler](https://support.catenda.com/en/articles/4670295-project-notifications-page) ved å åpne filtermenyen på venstre side.
+I denne artikkelen vil vi forklare i hvilke situasjoner varslinger sendes for de forskjellige innstillingene. Etter at et varsel er sendt, kan det finnes igjen på [siden for kontovarsler](https://support.catenda.com/nb/articles/7439223-account-notifications-page) og [siden for prosjektvarsler](https://support.catenda.com/nb/articles/4670295-project-notifications-page) ved å åpne filtermenyen på venstre side.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/810mbm4a/01-intro.png)
 
@@ -22,11 +22,11 @@ Klikk på filterknappen øverst til venstre for å få et panel til å vises på
 
 ### 2.3 **Lagre og del gjeldende filter**
 
-Gå til nettadressen til en filtrert side for å laste inn siden med filteret brukt. De brukte filtrene kan lagres mot toppen av filtermenyen. Klikk [her](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre
+Gå til nettadressen til en filtrert side for å laste inn siden med filteret brukt. De brukte filtrene kan lagres mot toppen av filtermenyen. Klikk [her](https://support.catenda.com/nb/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre
 
 ### 2.4 **Skjul tomme filtre**
 
-Klikk [her](https://support.catenda.com/en/articles/8551755-saving-filters) for å lese mer om å begrense filterresultater.
+Klikk [her](https://support.catenda.com/nb/articles/8551755-saving-filters) for å lese mer om å begrense filterresultater.
 
 ## 3. **Datofiltre**
 
@@ -46,7 +46,7 @@ Varsler fra det siste året.
 
 ### 3.4 **Velg en dato** - `date-from=<Epoch Unix Timestamp>&date-to=<Epoch Unix Timestamp>`
 
-Les [denne](https://support.catenda.com/en/articles/6511685-date-filter) artikkelen for å lære hvordan du enkelt velger datoer på siden.
+Les [denne](https://support.catenda.com/nb/articles/6511685-date-filter) artikkelen for å lære hvordan du enkelt velger datoer på siden.
 
 ### 3.5 **Alle varsler**
 
@@ -88,15 +88,15 @@ _Eksport vellykket_ - `type=export-completed` Når modelleksporten har fullført
 
 ### 7.1 **Ny sak** - `type=new-issue`
 
-Dette er det eneste varselet du får om en sak hvis du ikke [følger](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken. Tildelte personer, forespørrere og medlemmer som er nevnt i saker, følger automatisk saken og vil få varslene nedenfor.
+Dette er det eneste varselet du får om en sak hvis du ikke [følger](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken. Tildelte personer, forespørrere og medlemmer som er nevnt i saker, følger automatisk saken og vil få varslene nedenfor.
 
 **Varselinnstillingsalternativ:** En ny sak opprettes
 
 ### 7.2 **Ny kommentar** - `type=new-comment`
 
-Hvis du verken er tildelt eller forespørrer av saken, men [følger](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken, vil du få dette varselet.
+Hvis du verken er tildelt eller forespørrer av saken, men [følger](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken, vil du få dette varselet.
 
-Dette kan skje hvis du tidligere var [tildelt](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9), [forespørrer](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [nevnt](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) eller [manuelt fulgt](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken. Hvis du ikke vil ha fremtidige varsler om denne saken, kan du slutte å følge saken i dens [høyre informasjonspanel](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue). _Varselinnstillingsalternativ: tildelt til meg_ En sak er tildelt deg
+Dette kan skje hvis du tidligere var [tildelt](https://support.catenda.com/nb/articles/8400566-issue-header#h_0a91fa8dd9), [forespørrer](https://support.catenda.com/nb/articles/8400566-issue-header#h_1aea0990a7), [nevnt](https://support.catenda.com/nb/articles/8430847-formatting-of-posts#h_2481ad1c8c) eller [manuelt fulgt](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken. Hvis du ikke vil ha fremtidige varsler om denne saken, kan du slutte å følge saken i dens [høyre informasjonspanel](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue). _Varselinnstillingsalternativ: tildelt til meg_ En sak er tildelt deg
 
 **Varselinnstillingsalternativ: forespurt av meg** En sak er forespurt av deg
 
@@ -122,9 +122,9 @@ Når et team er tildelt en sak
 
 ### 7.7 **Status oppdatert** - `type=status-updated`
 
-Hvis du verken er tildelt eller forespørrer av saken, men [følger](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken, vil du få dette varselet.
+Hvis du verken er tildelt eller forespørrer av saken, men [følger](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken, vil du få dette varselet.
 
-Dette kan skje hvis du tidligere var [tildelt](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9), [forespørrer](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [nevnt](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) eller [manuelt fulgt](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken. Hvis du ikke vil ha fremtidige varsler om denne saken, kan du slutte å følge saken i dens [høyre informasjonspanel](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue). _Varselinnstillingsalternativ: tildelt til meg_ En status oppdateres i en sak tildelt deg
+Dette kan skje hvis du tidligere var [tildelt](https://support.catenda.com/nb/articles/8400566-issue-header#h_0a91fa8dd9), [forespørrer](https://support.catenda.com/nb/articles/8400566-issue-header#h_1aea0990a7), [nevnt](https://support.catenda.com/nb/articles/8430847-formatting-of-posts#h_2481ad1c8c) eller [manuelt fulgt](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken. Hvis du ikke vil ha fremtidige varsler om denne saken, kan du slutte å følge saken i dens [høyre informasjonspanel](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue). _Varselinnstillingsalternativ: tildelt til meg_ En status oppdateres i en sak tildelt deg
 
 **Varselinnstillingsalternativ: forespurt av meg** En status oppdateres i en sak forespurt av deg
 
@@ -132,9 +132,9 @@ Dette kan skje hvis du tidligere var [tildelt](https://support.catenda.com/en/ar
 
 ### 7.8 **Type oppdatert** - `type=type-updated`
 
-Hvis du verken er tildelt eller forespørrer av saken, men [følger](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken, vil du få dette varselet.
+Hvis du verken er tildelt eller forespørrer av saken, men [følger](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken, vil du få dette varselet.
 
-Dette kan skje hvis du tidligere var [tildelt](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9), [forespørrer](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [nevnt](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) eller [manuelt fulgt](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken. Hvis du ikke vil ha fremtidige varsler om denne saken, kan du slutte å følge saken i dens [høyre informasjonspanel](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue). _Varselinnstillingsalternativer:_
+Dette kan skje hvis du tidligere var [tildelt](https://support.catenda.com/nb/articles/8400566-issue-header#h_0a91fa8dd9), [forespørrer](https://support.catenda.com/nb/articles/8400566-issue-header#h_1aea0990a7), [nevnt](https://support.catenda.com/nb/articles/8430847-formatting-of-posts#h_2481ad1c8c) eller [manuelt fulgt](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken. Hvis du ikke vil ha fremtidige varsler om denne saken, kan du slutte å følge saken i dens [høyre informasjonspanel](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue). _Varselinnstillingsalternativer:_
 
 Tildelt til meg - En type oppdateres i en sak tildelt deg
 
@@ -268,7 +268,7 @@ Navnet på den nedlastede zip-en vil være _\<Download GUID>.zip_ i motsetning t
 
 ### 10.1 **Ny invitasjon** - `type=invite`
 
-**Varsel sendt hvis:** En annen bruker sender deg en invitasjon til et prosjekt. Varselet beskriver hvem som inviterte deg og til hvilket prosjekt du ble invitert. Hvis du mottok dette varselet, bør du også ha mottatt en e-post med en invitasjonslenke som du kan klikke på for å godta invitasjonen. Kontroller [her](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) for feilsøking av e-post.
+**Varsel sendt hvis:** En annen bruker sender deg en invitasjon til et prosjekt. Varselet beskriver hvem som inviterte deg og til hvilket prosjekt du ble invitert. Hvis du mottok dette varselet, bør du også ha mottatt en e-post med en invitasjonslenke som du kan klikke på for å godta invitasjonen. Kontroller [her](https://support.catenda.com/nb/articles/8417802-why-am-i-not-receiving-emails) for feilsøking av e-post.
 
 > **Merknad:** Varselet på Catenda Hub inneholder også invitasjonslenken slik at du også kan klikke på varselet for å godta invitasjonen. Hvis du ikke har en konto ennå, må du kanskje opprette en og bli invitert på nytt for å kunne klikke på varselet.
 
@@ -312,4 +312,4 @@ Enhver type import eller eksport som behandles i bakgrunnen, vil produsere et va
 
 ### 14.2 **Sendt selv om alle varsler er deaktivert**
 
-Varsler om lenker delt med brukere via [sharelink](https://support.catenda.com/en/articles/4728886-sharelink-notify-people-about-catenda-hub-content)-funksjonen vil alltid opprette varsel for brukeren selv om en bruker har slått av varsler helt med på/av-knappen øverst til høyre på siden med varselinnstillinger.
+Varsler om lenker delt med brukere via [sharelink](https://support.catenda.com/nb/articles/4728886-sharelink-notify-people-about-catenda-hub-content)-funksjonen vil alltid opprette varsel for brukeren selv om en bruker har slått av varsler helt med på/av-knappen øverst til høyre på siden med varselinnstillinger.

@@ -12,11 +12,11 @@ Klik op de filterknop links bovenin om een paneel aan de linkerkant weer te geve
 
 ### 1.1 **Actueel filter opslaan en delen**
 
-Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen worden opgeslagen aan de bovenkant van het filtermenu. Klik [hier](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) voor meer informatie over het opslaan en delen van filters. Let op: in tegenstelling tot andere filtermenu's is het niet mogelijk om persoonlijke filters aan de bovenkant van het filtermenu op de goedkeuringspagina op te slaan.
+Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen worden opgeslagen aan de bovenkant van het filtermenu. Klik [hier](https://support.catenda.com/nl/articles/11401493-saving-a-filter-link) voor meer informatie over het opslaan en delen van filters. Let op: in tegenstelling tot andere filtermenu's is het niet mogelijk om persoonlijke filters aan de bovenkant van het filtermenu op de goedkeuringspagina op te slaan.
 
 ### 1.2 **Lege filters verbergen**
 
-Klik [hier](https://support.catenda.com/en/articles/8551755-saving-filters) om meer te lezen over het beperken van filterresultaten.
+Klik [hier](https://support.catenda.com/nl/articles/8551755-saving-filters) om meer te lezen over het beperken van filterresultaten.
 
 ### 1.3 **Tabbladen**
 
@@ -56,7 +56,7 @@ Lidnaam - `publishedBy=<Member GUID>&subFolders=true`
 
 ### 1.11 **Datumfilters**
 
-Gepubliceerd - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klik op datums selecteren om datums te selecteren waartussen u wilt zoeken Klik [hier](https://support.catenda.com/en/articles/6511685-date-filter) om meer te lezen over het datumfilter
+Gepubliceerd - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klik op datums selecteren om datums te selecteren waartussen u wilt zoeken Klik [hier](https://support.catenda.com/nl/articles/6511685-date-filter) om meer te lezen over het datumfilter
 
 ### 1.12 **Open goedkeuringen - Status alleen werkstroom**
 
@@ -90,7 +90,7 @@ Verzamelingsnaam - `collections=<GUID>&subFolders=true`
 
 ### 1.17 **Verwijderd**
 
-Verwijderd - `deleted=deleted&subFolders=true` Zie [hier](https://support.catenda.com/en/articles/4670249-undeleting-restoring-documents-or-folders) hoe u kunt zoeken naar verwijderde documenten
+Verwijderd - `deleted=deleted&subFolders=true` Zie [hier](https://support.catenda.com/nl/articles/4670249-undeleting-restoring-documents-or-folders) hoe u kunt zoeken naar verwijderde documenten
 
 ## 2. **Tekstzoekopdracht**
 

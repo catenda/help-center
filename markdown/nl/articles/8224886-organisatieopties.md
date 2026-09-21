@@ -42,7 +42,7 @@ Quarantaineafhandeling voor geïnfecteerde bestanden in eigendomprojjecten. Als 
 
 ### 3.3 **Modellen als Documenten**
 
-Als deze functie is ingeschakeld, hebben alle nieuwe projecten die in de organisatie worden gemaakt, de functie [Modellen als Documenten](https://support.catenda.com/en/articles/8064548-models-as-documents) ingeschakeld.
+Als deze functie is ingeschakeld, hebben alle nieuwe projecten die in de organisatie worden gemaakt, de functie [Modellen als Documenten](https://support.catenda.com/nl/articles/8064548-models-as-documents) ingeschakeld.
 
 > **Opmerking:** 24 november: Deze functie wordt ingeschakeld voor alle nieuwe organisaties. We zullen de oude weergave ongeveer een jaar ondersteunen voordat alle projecten worden gemigreerd.
 
@@ -92,10 +92,10 @@ Als dat klaar is, moet uw systeembeheerder contact met ons opnemen met de App Fe
 
 Met deze optie kunt u de functie voor openbaar delen voor alle projecten in uw organisatie uitschakelen. Als deze optie is ingeschakeld, is het niet langer mogelijk om:
 
-- [Openbare URL's voor Opgeslagen views inschakelen](https://support.catenda.com/en/articles/6423215-public-bookmarks-short-video).
-- [Openbare URL's voor Documentverzamelingen inschakelen](https://support.catenda.com/en/articles/6344318-collections-page#h_c1e1a2a402).
-- [Documentverzamelingen per e-mail delen](https://support.catenda.com/en/articles/6344318-collections-page#h_c1e1a2a402).
+- [Openbare URL's voor Opgeslagen views inschakelen](https://support.catenda.com/nl/articles/6423215-public-bookmarks-short-video).
+- [Openbare URL's voor Documentverzamelingen inschakelen](https://support.catenda.com/nl/articles/6344318-collections-page#h_c1e1a2a402).
+- [Documentverzamelingen per e-mail delen](https://support.catenda.com/nl/articles/6344318-collections-page#h_c1e1a2a402).
 
 ## 6. **Domeinen**
 
-U kunt aanvragen dat een domein aan uw organisatie wordt toegevoegd. Als een domein bij uw organisatie is geregistreerd, wordt de optie "toevoegen van domein" weergegeven op de gebruikerspagina van uw organisatie in het [organisatiegebruikersvenster](http://hub.catenda.com/orgs). Hiermee kunt u gebruikers van uw organisatie aan uw projecten toevoegen zonder hen via [e-mailuitnodigingen](https://support.catenda.com/en/articles/4670319-how-can-i-invite-new-members-to-a-project) uit te nodigen. Als u een gebruiker van uw organisatie niet kunt vinden, is dit waarschijnlijk omdat ze nog geen Catenda-account hebben gemaakt en we ze niet in ons systeem hebben. Gebruikers van uw domein die nog geen account hebben, zullen op de [normale manier](https://support.catenda.com/en/articles/4670319-how-can-i-invite-new-members-to-a-project) moeten worden uitgenodigd, zodat zij het project kunnen verlaten en een account kunnen maken. Gebruikers van domeinen die niet zijn toegevoegd, moeten nog steeds met de reguliere [e-mailuitnodiging](https://support.catenda.com/en/articles/4670319-how-can-i-invite-new-members-to-a-project) worden uitgenodigd.
+U kunt aanvragen dat een domein aan uw organisatie wordt toegevoegd. Als een domein bij uw organisatie is geregistreerd, wordt de optie "toevoegen van domein" weergegeven op de gebruikerspagina van uw organisatie in het [organisatiegebruikersvenster](http://hub.catenda.com/orgs). Hiermee kunt u gebruikers van uw organisatie aan uw projecten toevoegen zonder hen via [e-mailuitnodigingen](https://support.catenda.com/nl/articles/4670319-how-can-i-invite-new-members-to-a-project) uit te nodigen. Als u een gebruiker van uw organisatie niet kunt vinden, is dit waarschijnlijk omdat ze nog geen Catenda-account hebben gemaakt en we ze niet in ons systeem hebben. Gebruikers van uw domein die nog geen account hebben, zullen op de [normale manier](https://support.catenda.com/nl/articles/4670319-how-can-i-invite-new-members-to-a-project) moeten worden uitgenodigd, zodat zij het project kunnen verlaten en een account kunnen maken. Gebruikers van domeinen die niet zijn toegevoegd, moeten nog steeds met de reguliere [e-mailuitnodiging](https://support.catenda.com/nl/articles/4670319-how-can-i-invite-new-members-to-a-project) worden uitgenodigd.

@@ -28,4 +28,4 @@ Etter å ha åpnet avspillingen vil du kunne finne delingsknappen øverst til h�
 
 Legg merke til at URL-en din endres når du klikker på de ulike videoene. Når du deler med delingsknappen, vil du dele en lenke til gjeldende video som en del av avspillingen.
 
-## 4. Veiledningsavspillinger om Catenda finnes 👉 [her](https://support.catenda.com/en/articles/11055278-guide-playlists)
+## 4. Veiledningsavspillinger om Catenda finnes 👉 [her](https://support.catenda.com/nb/articles/11055278-guide-playlists)

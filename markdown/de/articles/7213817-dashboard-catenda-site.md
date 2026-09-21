@@ -1,6 +1,6 @@
 # Dashboard - Catenda Site
 
-Nach Auswahl des Projekts auf der [Projektseite](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) werden Sie zum Topics-Dashboard Ihres Projekts weitergeleitet.
+Nach Auswahl des Projekts auf der [Projektseite](https://support.catenda.com/de/articles/7733978-projects-page-catenda-site) werden Sie zum Topics-Dashboard Ihres Projekts weitergeleitet.
 
 Auf dieser Seite können Sie den Status Ihrer Topics anzeigen, auswählen oder ändern, welche Issue Boards angezeigt werden sollen, und Topics filtern.
 
@@ -19,4 +19,4 @@ Auf dieser Seite können Sie den Status Ihrer Topics anzeigen, auswählen oder �
 
 Sie haben auch mehrere Registerkarten, zu denen Sie navigieren können:
 
-A. [Menü](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) B. [Topics](https://support.catenda.com/en/articles/7734073-issues-page-catenda-site) C. [2D/3D](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site) D. [Dokumente](https://support.catenda.com/en/articles/7774637-documents-catenda-site)
+A. [Menü](https://support.catenda.com/de/articles/7338516-navigation-menu-catenda-site) B. [Topics](https://support.catenda.com/de/articles/7734073-issues-page-catenda-site) C. [2D/3D](https://support.catenda.com/de/articles/7734138-2d-3d-catenda-site) D. [Dokumente](https://support.catenda.com/de/articles/7774637-documents-catenda-site)

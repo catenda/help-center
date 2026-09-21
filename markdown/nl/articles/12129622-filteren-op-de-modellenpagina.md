@@ -12,7 +12,7 @@ Klik op de filterknop om een paneel aan de linkerkant weer te geven. Schakel de 
 
 ## 2. **Opgeslagen filters**
 
-Klik [hier](https://support.catenda.com/en/articles/8551755-saving-filters) voor meer informatie over hoe u een reeks filters kunt opslaan
+Klik [hier](https://support.catenda.com/nl/articles/8551755-saving-filters) voor meer informatie over hoe u een reeks filters kunt opslaan
 
 ## 3. **Filters**
 
@@ -22,11 +22,11 @@ Klik op de filterknop in de linkerbovenhoek om een paneel aan de linkerkant weer
 
 ### 3.1 **Huidig filter opslaan en delen**
 
-Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen bovenaan het filtermenu worden opgeslagen. Klik [hier](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) voor meer informatie over hoe u filters kunt opslaan en delen
+Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen bovenaan het filtermenu worden opgeslagen. Klik [hier](https://support.catenda.com/nl/articles/11401493-saving-a-filter-link) voor meer informatie over hoe u filters kunt opslaan en delen
 
 ### 3.2 **Lege filters verbergen**
 
-Klik [hier](https://support.catenda.com/en/articles/8551755-saving-filters) voor meer informatie over het beperken van filterresultaten.
+Klik [hier](https://support.catenda.com/nl/articles/8551755-saving-filters) voor meer informatie over het beperken van filterresultaten.
 
 ### 3.3 **Tabbladen**
 
@@ -58,7 +58,7 @@ Ledennaam - `publishedBy=<Member GUID>&subFolders=true`
 
 ### 3.10 **Datumfilters**
 
-Gepubliceerd - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klik op datums selecteren om datums te selecteren waartussen u wilt zoeken Klik [hier](https://support.catenda.com/en/articles/6511685-date-filter) voor meer informatie over het datumfilter
+Gepubliceerd - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klik op datums selecteren om datums te selecteren waartussen u wilt zoeken Klik [hier](https://support.catenda.com/nl/articles/6511685-date-filter) voor meer informatie over het datumfilter
 
 ### 3.11 **Openstaande goedkeuringen - Status alleen workflow**
 

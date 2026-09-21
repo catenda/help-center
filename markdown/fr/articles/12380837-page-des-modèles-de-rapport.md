@@ -2,7 +2,7 @@
 
 > **Remarque 1 :** La page des rapports est une fonctionnalité optionnelle qui peut être activée pour les projets en cours. **Remarque 2 :** Les nouveaux projets créés à partir d'un projet de gabarit pour lequel cette fonctionnalité est activée n'ont pas cette fonctionnalité activée.
 
-La page des gabarits de rapports se trouve comme sous-page de la [page des rapports](https://support.catenda.com/en/articles/12303098-reports-page) dans le menu de navigation de gauche. Sur la page des gabarits de rapports, les gabarits de documents et de Sujets disponibles pour le projet peuvent être gérés. _Accès requis :_ Administrateur
+La page des gabarits de rapports se trouve comme sous-page de la [page des rapports](https://support.catenda.com/fr/articles/12303098-reports-page) dans le menu de navigation de gauche. Sur la page des gabarits de rapports, les gabarits de documents et de Sujets disponibles pour le projet peuvent être gérés. _Accès requis :_ Administrateur
 
 Voici à quoi la page des gabarits de rapports peut ressembler :
 
@@ -36,7 +36,7 @@ Dès qu'un gabarit de rapport est créé, il s'affiche sous forme de ligne dans 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/04-report-templates-table.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda.
+Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda.
 
 ### 3.1 **Contenu des lignes**
 

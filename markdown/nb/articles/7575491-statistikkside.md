@@ -1,6 +1,6 @@
 # Statistikkside
 
-Statistikksiden finner du som en underside til [saksiden](https://support.catenda.com/en/articles/4670271-issues-page).
+Statistikksiden finner du som en underside til [saksiden](https://support.catenda.com/nb/articles/4670271-issues-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2s7g3kx3/01-intro.png)
 

@@ -1,8 +1,8 @@
 # Handlinger i Catenda Revit-pluginen
 
-> **Merk:** Installasjonfilen for pluginen finner du i [denne artikkelen](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Merk:** Installasjonfilen for pluginen finner du i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-and-integrations).
 
-Handlingene [Catenda Revit-plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin) finnes øverst til høyre i plugin-vinduet i Revit-appen.
+Handlingene [Catenda Revit-plugin](https://support.catenda.com/nb/articles/4670334-catenda-revit-plugin) finnes øverst til høyre i plugin-vinduet i Revit-appen.
 
 Slik kan handlingsmenyen se ut:
 
@@ -60,7 +60,7 @@ Klikk på Last opp for å laste opp en IFC. En kommentar må legges til for å k
 
 ## 3. **3. Innstillinger**
 
-Siden Innstillinger lar deg endre hvordan pluginen skal opprette 3D-visning når du bruker [Zoom-funksjonen](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin#h_36392f671a).
+Siden Innstillinger lar deg endre hvordan pluginen skal opprette 3D-visning når du bruker [Zoom-funksjonen](https://support.catenda.com/nb/articles/4670334-catenda-revit-plugin#h_36392f671a).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/05-3-settings.png)
 
@@ -90,7 +90,7 @@ Med viewpoint-transformasjonen kan viewpoint i Revit konfigureres til å bli for
 
 ## 4. **4. Min konto**
 
-Åpne siden Catenda Hub-kontoen din i standardnettleseren din. Klikk [her](https://support.catenda.com/en/articles/6880968-account-page) for å lese mer om kontosiden.
+Åpne siden Catenda Hub-kontoen din i standardnettleseren din. Klikk [her](https://support.catenda.com/nb/articles/6880968-account-page) for å lese mer om kontosiden.
 
 ## 5. **5. Logg ut**
 
@@ -98,6 +98,6 @@ Klikk på Logg ut for å logge ut av Catenda Hub i pluginen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/06-5-sign-out.png)
 
-Etter at du har logget ut, vises påloggingssiden der du kan logge inn med samme konto eller en annen konto med brukernavn og passord. Klikk [her](https://support.catenda.com/en/articles/7891486-sign-in-page) for å lese mer om påloggingssiden.
+Etter at du har logget ut, vises påloggingssiden der du kan logge inn med samme konto eller en annen konto med brukernavn og passord. Klikk [her](https://support.catenda.com/nb/articles/7891486-sign-in-page) for å lese mer om påloggingssiden.
 
 Etter at du logger inn igjen, vises det første prosjektet i prosjektlisten. Velg et prosjekt i prosjektlisten igjen for å navigere til et annet prosjekt.

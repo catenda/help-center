@@ -8,7 +8,7 @@ Filer kan lastes opp på fire ulike måter. Filen vil ende opp i mappen du er i 
 
 ### 1.1 **1. Last opp-knapp**
 
-For å laste opp et nytt dokument eller revisjon, trykk på [+-knappen](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_7c8e07223e) øverst til høyre. Dette vil åpne [last opp dokument-menyen](#h_00fa77db3e).
+For å laste opp et nytt dokument eller revisjon, trykk på [+-knappen](https://support.catenda.com/nb/articles/4670288-actions-in-the-document-structure#h_7c8e07223e) øverst til høyre. Dette vil åpne [last opp dokument-menyen](#h_00fa77db3e).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y90qfgry/01-1-upload-button.png)
 
@@ -16,7 +16,7 @@ Når du laster opp en fil på denne måten, kan du velge om du vil ha en ny revi
 
 ### 1.2 **2. Ny revisjon-knapp**
 
-Med et dokument valgt i dokumentstrukturen, kan [handlingen ny revisjon](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_5785139ce3) finnes i [hamburgermenyen for valgte element](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_fb4e9ef375) mot toppen av dokumenttabellen. I en dokumentforhåndsvisning kan [handlingen ny revisjon](https://support.catenda.com/en/articles/9323521-actions-in-a-document#h_c18a9b8abf) i [hamburgermenyen for eksisterende element](https://support.catenda.com/en/articles/9323521-actions-in-a-document) mot øverst til høyre på siden brukes. Når du laster opp en fil på denne måten, vil det opprettes en ny revisjon og ikke et nytt dokument.
+Med et dokument valgt i dokumentstrukturen, kan [handlingen ny revisjon](https://support.catenda.com/nb/articles/4670288-actions-in-the-document-structure#h_5785139ce3) finnes i [hamburgermenyen for valgte element](https://support.catenda.com/nb/articles/4670288-actions-in-the-document-structure#h_fb4e9ef375) mot toppen av dokumenttabellen. I en dokumentforhåndsvisning kan [handlingen ny revisjon](https://support.catenda.com/nb/articles/9323521-actions-in-a-document#h_c18a9b8abf) i [hamburgermenyen for eksisterende element](https://support.catenda.com/nb/articles/9323521-actions-in-a-document) mot øverst til høyre på siden brukes. Når du laster opp en fil på denne måten, vil det opprettes en ny revisjon og ikke et nytt dokument.
 
 ### 1.3 **3. Dra og slip**
 
@@ -44,23 +44,23 @@ Opptil 100 filer kan dras og slippes, [hver opp til 7GB\*](#h_09bc8fbe94), fra f
 
 ### 2.3 **Mapper**
 
-I denne menyen kan bare enkeltdokumenter lastes opp. For å laste opp en mappe, må den zippes og lastes opp på en annen måte. Se [Last opp zip](https://support.catenda.com/en/articles/7945410-upload-a-zip-folder-structure)-artikkelen.
+I denne menyen kan bare enkeltdokumenter lastes opp. For å laste opp en mappe, må den zippes og lastes opp på en annen måte. Se [Last opp zip](https://support.catenda.com/nb/articles/7945410-upload-a-zip-folder-structure)-artikkelen.
 
 ### 2.4 **Opplastingsgrense**
 
 **Grenser for enkeltfiler:** Opptil 100 filer kan lastes opp samtidig Opptil 7 GB per fil kan lastes opp samtidig.
 
-**Grenser for zippede filer:** For å laste opp flere filer samtidig eller større filer, bruk funksjonen '[last opp zip](https://support.catenda.com/en/articles/7945410-upload-a-zip-folder-structure)'.
+**Grenser for zippede filer:** For å laste opp flere filer samtidig eller større filer, bruk funksjonen '[last opp zip](https://support.catenda.com/nb/articles/7945410-upload-a-zip-folder-structure)'.
 
-**Grenser for punktskyer:** Punktskyer har ofte store filstørrelser, så grensen deres har blitt økt til 25 GB Klikk [her](https://support.catenda.com/en/articles/4670324-is-there-a-size-limit-for-ifc-files) for å se mer om størrelsesgrenser.
+**Grenser for punktskyer:** Punktskyer har ofte store filstørrelser, så grensen deres har blitt økt til 25 GB Klikk [her](https://support.catenda.com/nb/articles/4670324-is-there-a-size-limit-for-ifc-files) for å se mer om størrelsesgrenser.
 
 ## 3. **Desktop-tilkobling**
 
-Med [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) kan de siste versjonene av dokumenter automatisk, med jevne mellomrom, lastes opp fra et lokalt system til Catenda Hub. Desktop Connector er både raskere enn den vanlige opplastingsprosessen og minimerer risikoen for feil ved å laste opp dokumenter fil-for-fil i stedet for i en stor dra og slip- eller zip-opplastingsbatch.
+Med [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) kan de siste versjonene av dokumenter automatisk, med jevne mellomrom, lastes opp fra et lokalt system til Catenda Hub. Desktop Connector er både raskere enn den vanlige opplastingsprosessen og minimerer risikoen for feil ved å laste opp dokumenter fil-for-fil i stedet for i en stor dra og slip- eller zip-opplastingsbatch.
 
 ## 4. **Dokumentforhåndsvisning**
 
-For å se om du vil kunne se innholdet i filtypen din på Catenda, klikk [her](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support).
+For å se om du vil kunne se innholdet i filtypen din på Catenda, klikk [her](https://support.catenda.com/nb/articles/4670320-what-file-types-does-catenda-support).
 
 ## 5. **Virussjekk**
 

@@ -1,6 +1,6 @@
 # Modelboom-paneel
 
-Het modelboom-paneel is te vinden als één van de vier [projectpanelen](https://support.catenda.com/en/articles/13141464-project-panels) die rechtsboven op het scherm kunnen worden geopend.
+Het modelboom-paneel is te vinden als één van de vier [projectpanelen](https://support.catenda.com/nl/articles/13141464-project-panels) die rechtsboven op het scherm kunnen worden geopend.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5dr5qz8m/01-intro.png)
 
@@ -8,7 +8,7 @@ Het modelboom-paneel is te vinden als één van de vier [projectpanelen](https:/
 
 Het modelboom-paneel kan naast elk ander paneel worden geopend.
 
-_Het modelboom-paneel openen:_ Klik op het boomicoon of druk op [shift+3](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=row%20of%20objects-,Shift%20%2B%203,-Control%20%2B%20left%20click)
+_Het modelboom-paneel openen:_ Klik op het boomicoon of druk op [shift+3](https://support.catenda.com/nl/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=row%20of%20objects-,Shift%20%2B%203,-Control%20%2B%20left%20click)
 
 _Het modelboom-paneel isoleren:_ Open het boompaneel Sluit alle andere openstaande panelen door erop te klikken.
 

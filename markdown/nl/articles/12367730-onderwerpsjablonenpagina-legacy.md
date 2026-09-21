@@ -1,6 +1,6 @@
 # Onderwerpsjablonenpagina - Legacy
 
-U kunt de onderwerpsjablonenpagina vinden door in het actiemenu rechtsboven op de [onderwerpsinstellingenpagina](https://support.catenda.com/en/articles/12367293-approval-settings-page#h_320e990d50) op de actie onderwerpsjablonen te klikken. _Vereiste toegang_: Beheerder
+U kunt de onderwerpsjablonenpagina vinden door in het actiemenu rechtsboven op de [onderwerpsinstellingenpagina](https://support.catenda.com/nl/articles/12367293-approval-settings-page#h_320e990d50) op de actie onderwerpsjablonen te klikken. _Vereiste toegang_: Beheerder
 
 Dit is wat de onderwerpsjablonenpagina kan uitzien:
 
@@ -18,7 +18,7 @@ Dit is wat de acties op de onderwerpsjablonenpagina kunnen uitzien wanneer u gea
 
 ### 1.1 **Nieuw onderwerpsjabloon**
 
-Klik op de actie Nieuw onderwerpsjabloon om een nieuw onderwerpsjabloon te maken. Klik [hier](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template) voor meer informatie over het maken van nieuwe onderwerpsjablonen.
+Klik op de actie Nieuw onderwerpsjabloon om een nieuw onderwerpsjabloon te maken. Klik [hier](https://support.catenda.com/nl/articles/12372007-creating-a-new-topic-template) voor meer informatie over het maken van nieuwe onderwerpsjablonen.
 
 ### 1.2 **Onderwerpsjablonen / Gearchiveerde onderwerpsjablonen**
 
@@ -26,7 +26,7 @@ Klik op de acties onderwerpsjablonen en gearchiveerde onderwerpsjablonen om te s
 
 ## 2. **Onderwerpsjabloonkaart**
 
-Nadat een onderwerpsjabloon is gemaakt, verschijnt een kaart voor het onderwerpsjabloon op deze pagina. Klik op een onderwerpsjabloonkaart om de [onderwerpsjabloonpagina](https://support.catenda.com/en/articles/12371549-topic-template-page) van dat onderwerpsjabloon te openen. Dit is wat een onderwerpsjabloonkaart kan uitzien:
+Nadat een onderwerpsjabloon is gemaakt, verschijnt een kaart voor het onderwerpsjabloon op deze pagina. Klik op een onderwerpsjabloonkaart om de [onderwerpsjabloonpagina](https://support.catenda.com/nl/articles/12371549-topic-template-page) van dat onderwerpsjabloon te openen. Dit is wat een onderwerpsjabloonkaart kan uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/04-topic-template-card.png)
 

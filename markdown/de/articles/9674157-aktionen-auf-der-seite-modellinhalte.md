@@ -4,7 +4,7 @@ Je nach Ihrem Zugriff können verschiedene Aktionen für Ihr aktuelles Modell un
 
 ## 1. **Modellaktionen**
 
-Je nach Modellauswahl und je nach Zugriffseinstellungen können verschiedene Aktionsschaltflächen oben rechts auf der [Modellübersichtsseite](https://support.catenda.com/en/articles/4670270-model-overview-page#h_c10dbce6c8) gefunden werden. Alle Aktionsschaltflächen werden in ihren Aktionsmenüs aufgelistet, die etwa so aussehen können:
+Je nach Modellauswahl und je nach Zugriffseinstellungen können verschiedene Aktionsschaltflächen oben rechts auf der [Modellübersichtsseite](https://support.catenda.com/de/articles/4670270-model-overview-page#h_c10dbce6c8) gefunden werden. Alle Aktionsschaltflächen werden in ihren Aktionsmenüs aufgelistet, die etwa so aussehen können:
 
 ![mceclip0.png](https://raw.githubusercontent.com/catenda/help-center/main/images/5t44cpcq/01-model-actions.png)
 
@@ -22,7 +22,7 @@ Klicken Sie auf die Aktion "Neue Revision" oder ziehen Sie eine Datei in die Mod
 
 ### 1.3 **Exporte**
 
-Dies führt Sie zur [Modellexportseite](https://support.catenda.com/en/articles/4670280-model-export)
+Dies führt Sie zur [Modellexportseite](https://support.catenda.com/de/articles/4670280-model-export)
 
 ### 1.4 **Entfernen**
 
@@ -44,7 +44,7 @@ Klicken Sie auf die Aktion "Herunterladen", um diese Revision herunterzuladen
 
 ### 2.2 Veröffentlichen
 
-Wenn gemeinsame Revisionen im [Statusworkflow-Menü](https://support.catenda.com/en/articles/12495583-status-workflow-document-settings) der Dokumenteinstellungen im Projekt aktiviert sind, beginnt jede neue Revision als gemeinsame Revision, die später veröffentlicht werden kann.
+Wenn gemeinsame Revisionen im [Statusworkflow-Menü](https://support.catenda.com/de/articles/12495583-status-workflow-document-settings) der Dokumenteinstellungen im Projekt aktiviert sind, beginnt jede neue Revision als gemeinsame Revision, die später veröffentlicht werden kann.
 
 Gemeinsame Revisionen haben eine Nebenversionsnummer. (0.1, 0.2, 1.1 usw.) Die Veröffentlichungsaktion kann für gemeinsame Revisionen im Modell verfügbar sein. Nur gemeinsame Revisionen nach der neuesten veröffentlichten Revision können veröffentlicht werden. Veröffentlichte Revisionen haben eine Nebenversionsnummer. (1.0, 2.0, 3.0 usw.) _Erforderlicher Zugriff:_ Kann im Zugriff auf das Dokument-Modell veröffentlichen
 

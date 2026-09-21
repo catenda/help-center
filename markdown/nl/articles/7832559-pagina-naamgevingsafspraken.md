@@ -1,6 +1,6 @@
 # Pagina naamgevingsafspraken
 
-Administrators kunnen de pagina Naamgevingsafspraken vinden als een subpagina van [projectinstellingen](https://support.catenda.com/en/articles/4670273-project-settings-page).
+Administrators kunnen de pagina Naamgevingsafspraken vinden als een subpagina van [projectinstellingen](https://support.catenda.com/nl/articles/4670273-project-settings-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/01-intro.png)
 
@@ -82,4 +82,4 @@ Een afspraak heeft altijd minimaal twee blokken: 1\. De naam van het bestand/doc
 
 ![Annuleren Naamgevingsconventie verzenden](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/11-br-submitting-a-convention.png)
 
-Na het indienen van een naamgevingsafspraak kan deze [per map worden ingeschakeld](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90) in [documentinstellingen](https://support.catenda.com/en/articles/7831371-document-settings).
+Na het indienen van een naamgevingsafspraak kan deze [per map worden ingeschakeld](https://support.catenda.com/nl/articles/7831371-document-settings#h_6672c14d90) in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings).

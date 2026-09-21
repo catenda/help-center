@@ -1,10 +1,10 @@
 # Topicbanner - Navigeren door topics
 
-Als u een topic selecteert op een [topicbord](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) verschijnt er een nieuw venster voor dat topic. Dit is hoe een topicvenster er kan uitzien:
+Als u een topic selecteert op een [topicbord](https://support.catenda.com/nl/articles/4670271-issues-page#h_6a5895256b) verschijnt er een nieuw venster voor dat topic. Dit is hoe een topicvenster er kan uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/01-intro.png)
 
-1\. De topicbanner wordt in dit artikel beschreven. 2\. U vindt de topicbanner boven de [Topicheader](https://support.catenda.com/en/articles/8400566-issue-header). 3\. Rechts van de topicheader en body vindt u het [rechter informatievenster](https://support.catenda.com/en/articles/8053299-issue-right-panel). 4\. Onder de header van een topic vindt u de [topicbody](https://support.catenda.com/en/articles/8053352-issue-body).
+1\. De topicbanner wordt in dit artikel beschreven. 2\. U vindt de topicbanner boven de [Topicheader](https://support.catenda.com/nl/articles/8400566-issue-header). 3\. Rechts van de topicheader en body vindt u het [rechter informatievenster](https://support.catenda.com/nl/articles/8053299-issue-right-panel). 4\. Onder de header van een topic vindt u de [topicbody](https://support.catenda.com/nl/articles/8053352-issue-body).
 
 ## 1. **Broodkruimels**
 
@@ -12,11 +12,11 @@ Als u een topic selecteert op een [topicbord](https://support.catenda.com/en/art
 
 ### 1.1 **Onderwerpen**
 
-Klik op topics in de broodkruimels om terug te keren naar het huidige [topicbord](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b).
+Klik op topics in de broodkruimels om terug te keren naar het huidige [topicbord](https://support.catenda.com/nl/articles/4670271-issues-page#h_6a5895256b).
 
 ### 1.2 **Topic** **borddropdown**
 
-Selecteer een [topicbord](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) in de topicborden dropdown in de broodkruimels om naar dat topicbord te gaan.
+Selecteer een [topicbord](https://support.catenda.com/nl/articles/4670271-issues-page#h_6a5895256b) in de topicborden dropdown in de broodkruimels om naar dat topicbord te gaan.
 
 ### 1.3 **Topicnummer en titel**
 
@@ -36,7 +36,7 @@ _Vorige en volgende knoppen_ - Ga naar het vorige of volgende topic in het gefil
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/04-top-buttons.png)
 
-_Nieuw topic_ - Een [nieuw topic](https://support.catenda.com/en/articles/4670268-creating-a-new-issue) maken _Topic klonen_  - Maak een kopie van dit topic. U wilt een topic klonen als u een vergelijkbaar topic wilt maken dat enigszins afwijkt van het huidige topic. Het is niet aanbevolen om meerdere dezelfde topics te maken en elk aan een ander persoon toe te wijzen. In plaats daarvan wilt u de verschillende leden die u aan het topic wilt toevoegen [vermelden](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) met @member.
+_Nieuw topic_ - Een [nieuw topic](https://support.catenda.com/nl/articles/4670268-creating-a-new-issue) maken _Topic klonen_  - Maak een kopie van dit topic. U wilt een topic klonen als u een vergelijkbaar topic wilt maken dat enigszins afwijkt van het huidige topic. Het is niet aanbevolen om meerdere dezelfde topics te maken en elk aan een ander persoon toe te wijzen. In plaats daarvan wilt u de verschillende leden die u aan het topic wilt toevoegen [vermelden](https://support.catenda.com/nl/articles/8430847-formatting-of-posts#h_2481ad1c8c) met @member.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/05-top-buttons.png)
 
@@ -52,4 +52,4 @@ _Nieuw topic_ - Een [nieuw topic](https://support.catenda.com/en/articles/467026
 
 > **Opmerking:** Opmerkingen worden niet gekloond
 
-_Instellingen_ - Ga naar [topicbordinstellingen](https://support.catenda.com/en/articles/4670277-issue-board-settings) door op deze knop te klikken
+_Instellingen_ - Ga naar [topicbordinstellingen](https://support.catenda.com/nl/articles/4670277-issue-board-settings) door op deze knop te klikken

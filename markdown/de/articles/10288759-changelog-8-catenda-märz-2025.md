@@ -4,7 +4,7 @@ Hallo zusammen, hoffentlich habt ihr alle die kalten Wintermonate überstanden. 
 
 In diesem Artikel finden Sie Updates zu folgenden Themen:
 
-_[Artikel](https://support.catenda.com/en/articles/9285880-changelog-6-catenda-august-2024#h_a8cc7b1921) - [Behobene Fehler](https://support.catenda.com/en/articles/9285880-changelog-6-catenda-august-2024#h_58dfb1b852) - [Neue Versionen](https://support.catenda.com/en/articles/9285880-changelog-6-catenda-august-2024#h_25203946b2)_
+_[Artikel](https://support.catenda.com/de/articles/9285880-changelog-6-catenda-august-2024#h_a8cc7b1921) - [Behobene Fehler](https://support.catenda.com/de/articles/9285880-changelog-6-catenda-august-2024#h_58dfb1b852) - [Neue Versionen](https://support.catenda.com/de/articles/9285880-changelog-6-catenda-august-2024#h_25203946b2)_
 
 ## 1. **Artikel**
 
@@ -12,25 +12,25 @@ Wenn neue Funktionen veröffentlicht und Fehler behoben werden, werden die Artik
 
 ### 1.1 **Neue Artikel:**
 
-**Erste Schritte und FAQ** [Häufig gestellte Fragen zum Organisationswerkzeug](https://support.catenda.com/en/articles/10475849-organization-tool-faq)
+**Erste Schritte und FAQ** [Häufig gestellte Fragen zum Organisationswerkzeug](https://support.catenda.com/de/articles/10475849-organization-tool-faq)
 
-**Themen** [Zugriffskontrolle Themen-Board](https://support.catenda.com/en/articles/4670296-topic-board-access-control) [Einstellungen Themen-Board](https://support.catenda.com/en/articles/4670277-topic-board-settings)
+**Themen** [Zugriffskontrolle Themen-Board](https://support.catenda.com/de/articles/4670296-topic-board-access-control) [Einstellungen Themen-Board](https://support.catenda.com/de/articles/4670277-topic-board-settings)
 
-**Plugins und Integrationen** [Catenda SharePoint-Anwendung - WebPart](https://support.catenda.com/en/articles/10538168-catenda-sharepoint-application-webpart) [Catenda als Anwendung](https://support.catenda.com/en/articles/10695677-catenda-as-an-application) [Zum Startbildschirm hinzufügen](https://support.catenda.com/en/articles/10741601-add-to-home-screen) [Systemweiter Browser-Support für den Startbildschirm](https://Home-screen%20system-browser%20support)
+**Plugins und Integrationen** [Catenda SharePoint-Anwendung - WebPart](https://support.catenda.com/de/articles/10538168-catenda-sharepoint-application-webpart) [Catenda als Anwendung](https://support.catenda.com/de/articles/10695677-catenda-as-an-application) [Zum Startbildschirm hinzufügen](https://support.catenda.com/de/articles/10741601-add-to-home-screen) [Systemweiter Browser-Support für den Startbildschirm](https://Home-screen%20system-browser%20support)
 
 ### 1.2 **Geänderte Artikel:**
 
-**Erste Schritte** [Erste Schritte im Catenda Hub](https://support.catenda.com/en/articles/9030303-getting-started-on-catenda-hub) [Snapshots](https://support.catenda.com/en/articles/10345863-snapshots) [Hardwareempfehlung](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Benachrichtigungsfilterung und Funktionalität](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality) [Einladung zur Teilnahme an einem Projekt akzeptieren](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project) [Ein Konto erstellen](https://support.catenda.com/en/articles/8412895-creating-an-account)
+**Erste Schritte** [Erste Schritte im Catenda Hub](https://support.catenda.com/de/articles/9030303-getting-started-on-catenda-hub) [Snapshots](https://support.catenda.com/de/articles/10345863-snapshots) [Hardwareempfehlung](https://support.catenda.com/de/articles/6921941-hardware-recommendation) [Benachrichtigungsfilterung und Funktionalität](https://support.catenda.com/de/articles/8304417-notification-filtering-and-functionality) [Einladung zur Teilnahme an einem Projekt akzeptieren](https://support.catenda.com/de/articles/4670246-accepting-an-invitation-to-join-a-project) [Ein Konto erstellen](https://support.catenda.com/de/articles/8412895-creating-an-account)
 
-**Häufig gestellte Fragen** [Gibt es eine Größenbeschränkung für IFC-Dateien?](https://support.catenda.com/en/articles/4670324-is-there-a-size-limit-for-ifc-files)
+**Häufig gestellte Fragen** [Gibt es eine Größenbeschränkung für IFC-Dateien?](https://support.catenda.com/de/articles/4670324-is-there-a-size-limit-for-ifc-files)
 
-**Hauptseite** [Benutzerseite - Organisationswerkzeug](https://support.catenda.com/en/articles/8508311-users-page-organization-tool) [Speicherort und Funktionalität der Support-Blase](https://Support%20button%20location%20and%20functionality)
+**Hauptseite** [Benutzerseite - Organisationswerkzeug](https://support.catenda.com/de/articles/8508311-users-page-organization-tool) [Speicherort und Funktionalität der Support-Blase](https://Support%20button%20location%20and%20functionality)
 
-**Themen** [Listenansicht in einem Themen-Board](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board) [Tabellenansicht in einem Themen-Board](https://support.catenda.com/en/articles/6941099-table-view-in-an-topic-board) [Themenkörper - Der Inhalt eines Themas](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
+**Themen** [Listenansicht in einem Themen-Board](https://support.catenda.com/de/articles/6941232-list-view-in-a-topic-board) [Tabellenansicht in einem Themen-Board](https://support.catenda.com/de/articles/6941099-table-view-in-an-topic-board) [Themenkörper - Der Inhalt eines Themas](https://support.catenda.com/de/articles/8053352-topic-body-the-content-of-a-topic)
 
-**Dokumente** [Aktionen in einem Dokument](https://support.catenda.com/en/articles/9323521-actions-in-a-document) [QR-Codes auf PDFs in Catenda](https://support.catenda.com/en/articles/9360508-qr-code-on-pdfs-in-catenda)
+**Dokumente** [Aktionen in einem Dokument](https://support.catenda.com/de/articles/9323521-actions-in-a-document) [QR-Codes auf PDFs in Catenda](https://support.catenda.com/de/articles/9360508-qr-code-on-pdfs-in-catenda)
 
-**Plugins und Integrationen** [Catenda Plugins und Integrationen](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) [Catenda SharePoint-Anwendung](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application)
+**Plugins und Integrationen** [Catenda Plugins und Integrationen](https://support.catenda.com/de/articles/8396532-catenda-plugins-and-integrations) [Catenda SharePoint-Anwendung](https://support.catenda.com/de/articles/8396496-catenda-sharepoint-application)
 
 ## 2. **Behobene Fehler**
 

@@ -1,6 +1,6 @@
 # Zip-Datei / Dateistruktur hochladen
 
-Im Gegensatz zum Hochladen einer regulären Zip-Datei entpackt die Funktion "Zip hochladen" eine Zip-Datei. Auf diese Weise können Sie eine Dateistruktur in die [Seite "Dokumente"](https://support.catenda.com/en/articles/8204673-documents-page#h_28610e1d21) importieren, ohne Ordner manuell erstellen zu müssen.
+Im Gegensatz zum Hochladen einer regulären Zip-Datei entpackt die Funktion "Zip hochladen" eine Zip-Datei. Auf diese Weise können Sie eine Dateistruktur in die [Seite "Dokumente"](https://support.catenda.com/de/articles/8204673-documents-page#h_28610e1d21) importieren, ohne Ordner manuell erstellen zu müssen.
 
 Die Funktion "Zip hochladen" finden Sie im Aktionsmenü rechts neben der grünen Schaltfläche + oben rechts auf der Seite "Dokumente".
 
@@ -108,4 +108,4 @@ Dies ist ein Beispiel für das rechte Menü der Zip-Importseite eines abgeschlos
 
 ## 7. **Desktop Connector**
 
-Mit dem [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) können Sie automatisch und regelmäßig die neuesten Versionen von Dokumenten von Ihrem lokalen System zu Catenda Hub hochladen. Der Desktop Connector ist schneller als der reguläre Upload-Prozess und minimiert das Ausfallrisiko, da Dokumente dateiweise statt in einem großen Drag-and-Drop- oder Zip-Upload-Batch hochgeladen werden.
+Mit dem [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector) können Sie automatisch und regelmäßig die neuesten Versionen von Dokumenten von Ihrem lokalen System zu Catenda Hub hochladen. Der Desktop Connector ist schneller als der reguläre Upload-Prozess und minimiert das Ausfallrisiko, da Dokumente dateiweise statt in einem großen Drag-and-Drop- oder Zip-Upload-Batch hochgeladen werden.

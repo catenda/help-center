@@ -1,6 +1,6 @@
 # Spalten auf der Dokumentseite
 
-In der [Dokumenttabelle](https://support.catenda.com/en/articles/8204673-documents-page#h_54e8dfcac2) auf der [Dokumentseite](https://support.catenda.com/en/articles/8204673-documents-page) können Sie mehrere Spalten in der Kopfzeile sehen, die mit dem [Spaltendropdown](https://support.catenda.com/en/articles/8204673-documents-page#h_9022dce579) neu angeordnet und ein- oder ausgeschaltet werden können.
+In der [Dokumenttabelle](https://support.catenda.com/de/articles/8204673-documents-page#h_54e8dfcac2) auf der [Dokumentseite](https://support.catenda.com/de/articles/8204673-documents-page) können Sie mehrere Spalten in der Kopfzeile sehen, die mit dem [Spaltendropdown](https://support.catenda.com/de/articles/8204673-documents-page#h_9022dce579) neu angeordnet und ein- oder ausgeschaltet werden können.
 
 ## 1. **Spaltenreihenfolge**
 
@@ -10,7 +10,7 @@ Es gibt eine standardmäßige Spaltenreihenfolge, wenn Sie nur einen Bereich off
 
 ## 2. **Kontrollkästchen** - Standard 1 Bereich
 
-Wählen Sie das Kontrollkästchen in der oberen Zeile aus, um alle Dokumente in diesem Ordner auszuwählen. Sie können Dokumente auch einzeln auswählen, indem Sie das Kontrollkästchen auf der linken Seite aktivieren. Weitere Auswahloptionen finden Sie [hier](https://support.catenda.com/en/articles/8204673-documents-page#h_61be2cfecf).
+Wählen Sie das Kontrollkästchen in der oberen Zeile aus, um alle Dokumente in diesem Ordner auszuwählen. Sie können Dokumente auch einzeln auswählen, indem Sie das Kontrollkästchen auf der linken Seite aktivieren. Weitere Auswahloptionen finden Sie [hier](https://support.catenda.com/de/articles/8204673-documents-page#h_61be2cfecf).
 
 ## 3. **Symbolspalte** - Standard 1 Bereich, Standard Mehrbereich
 
@@ -28,7 +28,7 @@ Für die meisten Dokumente wird das Dateitypsymbol angezeigt. Für Bilddateitype
 
 **Modellabzeichen** Dokumente, die mit einem Modell auf der Modellseite verknüpft sind, zeigen ein Modellabzeichen unten links an.
 
-**Ordnerkonfiguration** Wenn der übergeordnete Ordner des Dokuments in den [Dokumenteinstellungen](https://support.catenda.com/en/articles/7831371-document-settings) konfiguriert wurde, wird ein graugelbes Zahnradabzeichen unten rechts des Dokumentsymbols angezeigt.
+**Ordnerkonfiguration** Wenn der übergeordnete Ordner des Dokuments in den [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings) konfiguriert wurde, wird ein graugelbes Zahnradabzeichen unten rechts des Dokumentsymbols angezeigt.
 
 ### 3.3 **Ordnersymbole**
 
@@ -52,7 +52,7 @@ Der Name des Dokuments, wie er im Dokumentbereich angezeigt wird. Klicken Sie au
 
 ### 4.1 **Dokumentnamen ändern**
 
-Wenn Sie ein Dokument oder einen Ordner ausgewählt haben, können Sie den Namen ändern, indem Sie auf den Stift neben dem Dokumentnamen im [Menü "Rechtsinformationen"](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page) klicken. _Erforderlicher Zugriff:_ Vollzugriff auf das Dokument oder Schreibzugriff auf den Ordner
+Wenn Sie ein Dokument oder einen Ordner ausgewählt haben, können Sie den Namen ändern, indem Sie auf den Stift neben dem Dokumentnamen im [Menü "Rechtsinformationen"](https://support.catenda.com/de/articles/8345396-right-menu-on-the-documents-page) klicken. _Erforderlicher Zugriff:_ Vollzugriff auf das Dokument oder Schreibzugriff auf den Ordner
 
 ### 4.2 **Zeilennamenanker**
 
@@ -80,7 +80,7 @@ Wenn das Dokument mit einem Modell verknüpft ist, wird hier der Name des Modell
 
 ## 7. **Status** - Standard 1 Bereich - Nur Dokumentstatus
 
-Dokumentstatus können in den [Dokumenteinstellungen](https://support.catenda.com/en/articles/7831371-document-settings) aktiviert werden. Wenn der Status-Workflow aktiviert wurde, wurde Dokumentrevisionen möglicherweise ein Status zugewiesen. Je nachdem, ob die Revision veröffentlicht oder ein Entwurf ist, können separate Listen mit Status angewendet werden. In dieser Spalte können Sie den Status der neuesten veröffentlichten Revision im Dokument sehen.
+Dokumentstatus können in den [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings) aktiviert werden. Wenn der Status-Workflow aktiviert wurde, wurde Dokumentrevisionen möglicherweise ein Status zugewiesen. Je nachdem, ob die Revision veröffentlicht oder ein Entwurf ist, können separate Listen mit Status angewendet werden. In dieser Spalte können Sie den Status der neuesten veröffentlichten Revision im Dokument sehen.
 
 ## 8. **Größe** - Standard 1 Bereich
 
@@ -110,7 +110,7 @@ Wenn Sie den Dokumentstatus-Workflow aktiviert haben, unterscheidet sich das Ver
 
 ## 12. **Links** - Standard 1 Bereich, Standard Mehrbereich
 
-Zeigt die Anzahl der Objekte an, die [mit diesem Dokument verknüpft sind](https://support.catenda.com/en/articles/4670322-how-can-i-link-a-document-to-an-object-in-catenda-hub). Wenn Sie darauf klicken, können Sie Folgendes tun:
+Zeigt die Anzahl der Objekte an, die [mit diesem Dokument verknüpft sind](https://support.catenda.com/de/articles/4670322-how-can-i-link-a-document-to-an-object-in-catenda-hub). Wenn Sie darauf klicken, können Sie Folgendes tun:
 
 - Objekte auswählen
 - Objekte isolieren
@@ -118,10 +118,10 @@ Zeigt die Anzahl der Objekte an, die [mit diesem Dokument verknüpft sind](https
 
 ## 13. **Viewer** - Standard 1 Bereich
 
-Für IFC-Dokumente, die mit Modellen, Point Clouds und GML-Dokumenten verknüpft wurden, werden in dieser Spalte eine 2D-, 3D- und Zoom-auf-Ausmaße-Schaltfläche angezeigt. Mit diesen Schaltflächen können Sie die [2D-Ansicht](https://support.catenda.com/en/articles/4854537-2d-viewer) oder [3D-Ansicht](https://support.catenda.com/en/articles/8227211-3d-viewer) eines Dokument-Modells aus der Dokumentstruktur öffnen. Für 3D können mehrere Dokument-Modelle ausgewählt werden und die 3D-Aktion kann verwendet werden, um sie alle auf einmal zu öffnen. Mit der mittleren Schaltfläche können Sie dieses Modell zentrieren, wenn es in 3D geladen ist. So kann ein IFC-Dokument aussehen, das mit einem Modell verbunden ist:
+Für IFC-Dokumente, die mit Modellen, Point Clouds und GML-Dokumenten verknüpft wurden, werden in dieser Spalte eine 2D-, 3D- und Zoom-auf-Ausmaße-Schaltfläche angezeigt. Mit diesen Schaltflächen können Sie die [2D-Ansicht](https://support.catenda.com/de/articles/4854537-2d-viewer) oder [3D-Ansicht](https://support.catenda.com/de/articles/8227211-3d-viewer) eines Dokument-Modells aus der Dokumentstruktur öffnen. Für 3D können mehrere Dokument-Modelle ausgewählt werden und die 3D-Aktion kann verwendet werden, um sie alle auf einmal zu öffnen. Mit der mittleren Schaltfläche können Sie dieses Modell zentrieren, wenn es in 3D geladen ist. So kann ein IFC-Dokument aussehen, das mit einem Modell verbunden ist:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/42c02fpr/05-viewer-default-1-panel.png)
 
 ## 14. **Benutzerdefinierte Felder**
 
-Eine Spalte pro benutzerdefiniertem Feld, das dem konfigurierten übergeordneten Ordner hinzugefügt wird. Siehe [Dokumenteinstellungen](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90)
+Eine Spalte pro benutzerdefiniertem Feld, das dem konfigurierten übergeordneten Ordner hinzugefügt wird. Siehe [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings#h_6672c14d90)

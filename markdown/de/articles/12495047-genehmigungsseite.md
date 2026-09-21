@@ -1,6 +1,6 @@
 # Genehmigungsseite
 
-Die Genehmigungsseite befindet sich als Unterseite der [Dokumentseite](https://support.catenda.com/en/articles/8204673-documents-page) im linken Navigationsmenü. Hier finden Sie einen Überblick über die Genehmigungsanfragen im Projekt.
+Die Genehmigungsseite befindet sich als Unterseite der [Dokumentseite](https://support.catenda.com/de/articles/8204673-documents-page) im linken Navigationsmenü. Hier finden Sie einen Überblick über die Genehmigungsanfragen im Projekt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/01-intro.png)
 
@@ -14,9 +14,9 @@ Auf der Genehmigungsseite können folgende Aktionen ausgeführt werden:
 
 ## 1. **Aktivieren der Genehmigungsseite**
 
-Die Genehmigungsseite ist standardmäßig ausgeblendet. Aktivieren Sie gemeinsame Überarbeitungen in [Dokumenteinstellungen](https://support.catenda.com/en/articles/7831371-document-settings-page), um die Genehmigungsseite anzuzeigen. _Erforderlicher Zugriff:_ Projektadministrator
+Die Genehmigungsseite ist standardmäßig ausgeblendet. Aktivieren Sie gemeinsame Überarbeitungen in [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings-page), um die Genehmigungsseite anzuzeigen. _Erforderlicher Zugriff:_ Projektadministrator
 
-> **Hinweis:** In Projekten, in denen gemeinsame Überarbeitungen vor dem 2. Oktober 2025 aktiviert wurden, wird stattdessen die [Legacy-Genehmigungsseite](https://support.catenda.com/en/articles/8349340-approvals-page-legacy) angezeigt.
+> **Hinweis:** In Projekten, in denen gemeinsame Überarbeitungen vor dem 2. Oktober 2025 aktiviert wurden, wird stattdessen die [Legacy-Genehmigungsseite](https://support.catenda.com/de/articles/8349340-approvals-page-legacy) angezeigt.
 
 ### 1.1 **Aktivierung aus Vorlagenprojekt**
 
@@ -30,7 +30,7 @@ Die neuen Elementaktionen befinden sich oben rechts auf der Seite.
 
 ### 2.1 **Neue Genehmigungsanfrage**
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request), um mehr über die Erstellung einer neuen Genehmigungsanfrage zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/12495005-creating-a-new-approval-request), um mehr über die Erstellung einer neuen Genehmigungsanfrage zu erfahren.
 
 **Erforderlicher Zugriff:** Ein Mitglied muss Teil eines Absenderteams in einem konfigurierten Workflow sein, um eine neue Genehmigungsanfrage einreichen zu können.
 
@@ -38,7 +38,7 @@ Klicken Sie [hier](https://support.catenda.com/en/articles/12495005-creating-a-n
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bnf404c/03-search-or-filter-options.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page), um mehr über das Filtern auf der Genehmigungsseite zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/12495060-filtering-on-the-approvals-page), um mehr über das Filtern auf der Genehmigungsseite zu erfahren.
 
 ## 4. **Genehmigungsliste**
 
@@ -98,11 +98,11 @@ Die Textsuche ermöglicht es Ihnen, nach Revisionsname und Genehmigungsanfragena
 
 ### 6.1 **Offene oder geschlossene Genehmigungszeile**
 
-Wenn Sie den Inhalt einer Genehmigungsanfragungszeile öffnen, die sich in Überprüfung oder geschlossen befindet, wird die [Genehmigungsseite](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page) für diese Genehmigung geöffnet.
+Wenn Sie den Inhalt einer Genehmigungsanfragungszeile öffnen, die sich in Überprüfung oder geschlossen befindet, wird die [Genehmigungsseite](https://support.catenda.com/de/articles/12494960-open-or-closed-approval-request-page) für diese Genehmigung geöffnet.
 
 ### 6.2 **Entwurf-Genehmigungszeile**
 
-Für Entwurfsgenehmigungen wird stattdessen die [Seite "Entwurf Genehmigungsanfrage"](https://support.catenda.com/en/articles/12495175-draft-approval-request-page) geöffnet.
+Für Entwurfsgenehmigungen wird stattdessen die [Seite "Entwurf Genehmigungsanfrage"](https://support.catenda.com/de/articles/12495175-draft-approval-request-page) geöffnet.
 
 ## 7. **Genehmigungsanfragekarten**
 

@@ -1,6 +1,6 @@
 # Échanger des sujets
 
-Vous pourrez trouver l'action d'échange de sujets dans le [menu d'action pour nouvel élément](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_8c642e051a) en haut à droite d'une liste de sujets. Le menu d'échange de sujets peut ressembler à ceci :
+Vous pourrez trouver l'action d'échange de sujets dans le [menu d'action pour nouvel élément](https://support.catenda.com/fr/articles/4670284-actions-in-a-topic-board#h_8c642e051a) en haut à droite d'une liste de sujets. Le menu d'échange de sujets peut ressembler à ceci :
 
 ![Échange basé sur les fichiers nouveau topic échange topics historique importer bcf exporter topics se connecter à un client bcf synchroniser les topics directement avec n'importe quel client compatible BCF en utilisant l'URL ci-dessous](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/01-intro.png)
 
@@ -34,11 +34,11 @@ _Liaison de plusieurs statuts/types à la fois_ S'il y a des statuts/types disso
 
 ![Topics il y a des champs non liés dans ce topic board cliquez ici pour lier](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/03-generate-new-types-and-statuses-from-the-bcf-file.png)
 
-Cliquer sur le lien vous mènera à la zone [champs dissociés](https://support.catenda.com/en/articles/4670277-topic-board-settings#h_3bd7e3e759) des [paramètres de la liste de sujets](https://support.catenda.com/en/articles/4670277-topic-board-settings) où vous pouvez lier tous les champs d'un type à une valeur existante en une seule fois.
+Cliquer sur le lien vous mènera à la zone [champs dissociés](https://support.catenda.com/fr/articles/4670277-topic-board-settings#h_3bd7e3e759) des [paramètres de la liste de sujets](https://support.catenda.com/fr/articles/4670277-topic-board-settings) où vous pouvez lier tous les champs d'un type à une valeur existante en une seule fois.
 
 ## 2. **Exporter des sujets**
 
-Vous pourrez exporter les sujets soit en choisissant exporter les sujets dans le [menu d'action pour nouvel élément](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_8c642e051a) en haut à droite d'une liste de sujets, soit en sélectionnant un sujet dans la liste de sujets et en choisissant l'option d'exportation dans le [menu d'action pour élément sélectionné](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_b5c00c149b) au-dessus de la liste de sujets. La fenêtre d'exportation de sujets peut ressembler à ceci :
+Vous pourrez exporter les sujets soit en choisissant exporter les sujets dans le [menu d'action pour nouvel élément](https://support.catenda.com/fr/articles/4670284-actions-in-a-topic-board#h_8c642e051a) en haut à droite d'une liste de sujets, soit en sélectionnant un sujet dans la liste de sujets et en choisissant l'option d'exportation dans le [menu d'action pour élément sélectionné](https://support.catenda.com/fr/articles/4670284-actions-in-a-topic-board#h_b5c00c149b) au-dessus de la liste de sujets. La fenêtre d'exportation de sujets peut ressembler à ceci :
 
 ![Exporter topics tous les topics du topic board actuel filtre actuel topics sélectionnés bcf excel pdf v3.0](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/04-export-topics.png)
 
@@ -58,17 +58,17 @@ Selon la version de BCF que vous choisissez, vous pouvez obtenir différents typ
 
 ### 2.3 **Exportation Excel**
 
-Il est possible d'exporter les sujets vers Excel. Il y aura une ligne par sujet et une colonne par colonne dans la vue de tableau de la liste de sujets. L'ordre des colonnes sera le même que l'ordre des colonnes par défaut de la [vue de tableau](https://support.catenda.com/en/articles/6941099-table-view-in-an-topic-board#h_3102328063) de la liste de sujets.
+Il est possible d'exporter les sujets vers Excel. Il y aura une ligne par sujet et une colonne par colonne dans la vue de tableau de la liste de sujets. L'ordre des colonnes sera le même que l'ordre des colonnes par défaut de la [vue de tableau](https://support.catenda.com/fr/articles/6941099-table-view-in-an-topic-board#h_3102328063) de la liste de sujets.
 
 > **Note:** Aucune image et seulement le dernier commentaire d'un sujet seront exportés.
 
 ### 2.4 **Exportation PDF**
 
-Cliquez [ici](https://support.catenda.com/en/articles/9784934-exporting-topics-to-pdf) pour en savoir plus sur l'exportation de sujets au format PDF
+Cliquez [ici](https://support.catenda.com/fr/articles/9784934-exporting-topics-to-pdf) pour en savoir plus sur l'exportation de sujets au format PDF
 
 ## 3. **Page des rapports**
 
-Avec la page des rapports, il est possible de créer des rapports personnalisés non seulement sur les sujets mais aussi sur les documents. La page des rapports est une fonctionnalité à la demande qui peut être demandée pour être activée pour les projets en cours. Les nouveaux projets créés en fonction d'un projet modèle pour lequel cette fonctionnalité est activée n'ont pas cette fonctionnalité activée. Ces rapports peuvent ensuite être exportés non seulement vers Excel et PDF, mais aussi vers de nombreux autres formats de fichier. Cliquez [ici](https://support.catenda.com/en/articles/12303098-reports-page) pour en savoir plus sur la page des rapports
+Avec la page des rapports, il est possible de créer des rapports personnalisés non seulement sur les sujets mais aussi sur les documents. La page des rapports est une fonctionnalité à la demande qui peut être demandée pour être activée pour les projets en cours. Les nouveaux projets créés en fonction d'un projet modèle pour lequel cette fonctionnalité est activée n'ont pas cette fonctionnalité activée. Ces rapports peuvent ensuite être exportés non seulement vers Excel et PDF, mais aussi vers de nombreux autres formats de fichier. Cliquez [ici](https://support.catenda.com/fr/articles/12303098-reports-page) pour en savoir plus sur la page des rapports
 
 ## 4. **Se connecter à un client BCF**
 

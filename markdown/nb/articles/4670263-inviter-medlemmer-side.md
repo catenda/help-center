@@ -1,10 +1,10 @@
 # Inviter medlemmer-side
 
-Denne siden finner du ved å klikke på Inviter medlemmer-knappen øverst til høyre på [medlemmer-siden](https://support.catenda.com/en/articles/4670291-members-page). Medlemmer-siden er en undermeny på [prosjektinnstillinger-siden](https://support.catenda.com/en/articles/4670273-project-settings-page).
+Denne siden finner du ved å klikke på Inviter medlemmer-knappen øverst til høyre på [medlemmer-siden](https://support.catenda.com/nb/articles/4670291-members-page). Medlemmer-siden er en undermeny på [prosjektinnstillinger-siden](https://support.catenda.com/nb/articles/4670273-project-settings-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bejjtn6g/01-intro.png)
 
-_Påkrevd tilgang:_ Tilgang til [invitere nye medlemmer](https://support.catenda.com/en/articles/4670273-project-settings-page#h_f82a1850f3) på prosjektinnstillinger-siden.
+_Påkrevd tilgang:_ Tilgang til [invitere nye medlemmer](https://support.catenda.com/nb/articles/4670273-project-settings-page#h_f82a1850f3) på prosjektinnstillinger-siden.
 
 ## 1. **Invitere ett medlem**
 
@@ -58,4 +58,4 @@ Hvis du ikke lenger ønsker at personen som invitasjonen ble sendt til blir med 
 
 ## 5. **Legge til organisasjonsmedlemmer**
 
-Organisasjonseiere kan legge til organisasjonsmedlemmer som allerede har en konto i Catenda i prosjektet uten å måtte invitere dem via e-post. På denne måten trenger du ikke å vente på at de godtar invitasjonen. Klikk [her](https://support.catenda.com/en/articles/8434846-adding-users-without-an-email-invite) for å lese mer om invitasjon av organisasjonsmedlemmer.
+Organisasjonseiere kan legge til organisasjonsmedlemmer som allerede har en konto i Catenda i prosjektet uten å måtte invitere dem via e-post. På denne måten trenger du ikke å vente på at de godtar invitasjonen. Klikk [her](https://support.catenda.com/nb/articles/8434846-adding-users-without-an-email-invite) for å lese mer om invitasjon av organisasjonsmedlemmer.

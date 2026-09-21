@@ -1,6 +1,6 @@
 # Goedkeuringsaanvraag documenten rechts menu
 
-Dit artikel bevat informatie over de volgende onderwerpen: _[Onder beoordeling](#h_b398f04f49) - [Stappenoverzicht](#h_be2d5b96e1)_Het rechtermenu kan worden geopend door Documenten te selecteren in het [tabblad Documenten](https://support.catenda.com/en/articles/12495130-documents-tab-in-an-approval-request) op een goedkeuringsaanvraagpagina. Afhankelijk van of u één document of meerdere documenten selecteert, ziet het menu er anders uit.
+Dit artikel bevat informatie over de volgende onderwerpen: _[Onder beoordeling](#h_b398f04f49) - [Stappenoverzicht](#h_be2d5b96e1)_Het rechtermenu kan worden geopend door Documenten te selecteren in het [tabblad Documenten](https://support.catenda.com/nl/articles/12495130-documents-tab-in-an-approval-request) op een goedkeuringsaanvraagpagina. Afhankelijk van of u één document of meerdere documenten selecteert, ziet het menu er anders uit.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dmdyh23e/01-intro.png)
 

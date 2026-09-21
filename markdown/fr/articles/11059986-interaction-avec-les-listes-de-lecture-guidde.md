@@ -30,4 +30,4 @@ Après avoir ouvert la liste de lecture, vous pourrez trouver le bouton de parta
 
 Remarquez que votre URL change lorsque vous cliquez sur les différentes vidéos. Lorsque vous partagez avec le bouton de partage, vous partagerez un Lien vers votre vidéo actuelle dans le contexte de la liste de lecture.
 
-## 4. Les listes de lecture de guides sur Catenda peuvent être trouvées 👉 [ici](https://support.catenda.com/en/articles/11055278-guide-playlists)
+## 4. Les listes de lecture de guides sur Catenda peuvent être trouvées 👉 [ici](https://support.catenda.com/fr/articles/11055278-guide-playlists)

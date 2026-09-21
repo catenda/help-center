@@ -4,7 +4,7 @@
 
 > **Merk:** Last ned en eksempelfil fra [her](https://drive.google.com/file/d/1G8U916oihDl5qHrTfQaVHxDeLsbq1ulG/view?usp=sharing).
 
-Punktskydataset (PC) kan visualiseres inne i Catenda Hub Individuelle PC kan forhåndsvises inne i dokumentområdet. Flere PC kan lastes inn i [3D-viseren](https://support.catenda.com/en/articles/8227211-3d-viewer). I 3D-viseren kan PC vises sammen med andre 3D-dokumentformater som IFC-modeller og GML-filer.
+Punktskydataset (PC) kan visualiseres inne i Catenda Hub Individuelle PC kan forhåndsvises inne i dokumentområdet. Flere PC kan lastes inn i [3D-viseren](https://support.catenda.com/nb/articles/8227211-3d-viewer). I 3D-viseren kan PC vises sammen med andre 3D-dokumentformater som IFC-modeller og GML-filer.
 
 Se nedenfor forskjellige innstillinger for å vise dataene dine:
 
@@ -21,7 +21,7 @@ PC kan lastes opp som ethvert annet dokument i dokumentseksjonen. For disse to f
 
 ### 1.1 **Opplasting av PC-data**
 
-Det anbefales å bruke [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) eller komprimere PC-filen til en zippet mappe og bruke [zip-import](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) for å laste opp PC-en din. Disse metodene vil hjelpe deg å spare tid ettersom opplastingsfilstørrelsen vil være mindre og minimere risikoen for en nettverksfeil da filen lastes opp raskere
+Det anbefales å bruke [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) eller komprimere PC-filen til en zippet mappe og bruke [zip-import](https://support.catenda.com/nb/articles/7945410-upload-a-zip-file-structure) for å laste opp PC-en din. Disse metodene vil hjelpe deg å spare tid ettersom opplastingsfilstørrelsen vil være mindre og minimere risikoen for en nettverksfeil da filen lastes opp raskere
 
 Etter at du laster opp en PC til dokumentseksjonen, starter dokumentforhåndsvisningen å behandle. Mens forhåndsvisningen behandles, vil du se en grå stolpe øverst i dokumentforhåndsvisningen din.
 
@@ -35,7 +35,7 @@ Når forhåndsvisningen er ferdig behandlet, klikker du på dokumentet for å vi
 
 ### 1.2 **Delte PC-revisjoner**
 
-Hvis [revisjonspublisering](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650) er aktivert for prosjektet, har punktskyen blitt lastet opp som en delt revisjon. Delte PC-revisjoner kan bare forhåndsvises i dokumentseksjonen. For å kunne laste PC-en inn i 3D-viseren, må revisjonen publiseres. Individuelle delte revisjoner kan publiseres med publiseringshandlingen i høyremenyen for dokumentforhåndsvisningen. Flere delte revisjoner kan publiseres med handlingen for valgte elementer i dokumentstrukturen. Når du publiserer en revisjon, starter forhåndsvisningen for den publiserte revisjonen å behandle.
+Hvis [revisjonspublisering](https://support.catenda.com/nb/articles/9874698-revision-publishing-iso-19650) er aktivert for prosjektet, har punktskyen blitt lastet opp som en delt revisjon. Delte PC-revisjoner kan bare forhåndsvises i dokumentseksjonen. For å kunne laste PC-en inn i 3D-viseren, må revisjonen publiseres. Individuelle delte revisjoner kan publiseres med publiseringshandlingen i høyremenyen for dokumentforhåndsvisningen. Flere delte revisjoner kan publiseres med handlingen for valgte elementer i dokumentstrukturen. Når du publiserer en revisjon, starter forhåndsvisningen for den publiserte revisjonen å behandle.
 
 ### 1.3 **Publiserte PC-revisjoner**
 
@@ -71,13 +71,13 @@ Og etter noen justeringer med zoom og posisjonsering kan PC-forhåndsvisningen s
 
 I denne seksjonen skal vi se på innstillingene inne i Catenda Hub som lar deg få den beste opplevelsen med PC-en din.
 
-> **Merk:** Før du konfigurerer 3D-viseren, må du sørge for at programmet Catenda er åpent i er konfigurert [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation).
+> **Merk:** Før du konfigurerer 3D-viseren, må du sørge for at programmet Catenda er åpent i er konfigurert [som anbefalt](https://support.catenda.com/nb/articles/6921941-hardware-recommendation).
 
 Innstillinger som kan brukes til å konfigurere punktskyer er plassert på to steder.
 
 ### 3.1 **1. Punktbudsjett:**
 
-Punktbudsjettet kan konfigureres i [3D-viserinnstillingene](https://support.catenda.com/en/articles/5784718-3d-viewer-settings) som finnes i tannhjulikonet øverst til høyre i 3D-viseren.
+Punktbudsjettet kan konfigureres i [3D-viserinnstillingene](https://support.catenda.com/nb/articles/5784718-3d-viewer-settings) som finnes i tannhjulikonet øverst til høyre i 3D-viseren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/08-1-point-budget.png)
 
@@ -95,11 +95,11 @@ I 3D-viserinnstillingsmenyen kan punktbudsjettet justeres fra 100 000 opp til 10
 
 ### 3.2 **2. Revisjonvelger og individuelle PC-innstillinger:**
 
-Øverst til venstre i 3D-viseren finner du [Revisjonvelgeren](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project).
+Øverst til venstre i 3D-viseren finner du [Revisjonvelgeren](https://support.catenda.com/nb/articles/4670246-accepting-an-invitation-to-join-a-project).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/12-2-revision-selector-and-individual-pc-settings.png)
 
-I [modellmenyen](https://support.catenda.com/en/articles/4670279-revision-selector#h_180a64490d) kan du finne de individuelle [3D-dokumentene](https://support.catenda.com/en/articles/4670279-revision-selector#h_fce60074ef) som du har lastet inn i 3D-viseren.
+I [modellmenyen](https://support.catenda.com/nb/articles/4670279-revision-selector#h_180a64490d) kan du finne de individuelle [3D-dokumentene](https://support.catenda.com/nb/articles/4670279-revision-selector#h_fce60074ef) som du har lastet inn i 3D-viseren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/13-2-revision-selector-and-individual-pc-settings.png)
 
@@ -119,7 +119,7 @@ _Dekkevne_ Når modeller vises sammen med punktskyer, kan det være nødvendig �
 
 _Punktstørrelse_ _Adaptiv_ - Standard Jo nærmere et punkt er kameraet, jo større er det. Punkter som er i visningen lastes inn i minnet. Punkter som beveger seg ut av visningen, lastes ut av minnet.
 
-> **Merk:** Sørg for at maskinvaren og programvaren Catenda er åpnet på er konfigurert [som anbefalt](https://support.catenda.com/en/articles/6921941-hardware-recommendation) da dette kan ha en effekt på typen punktstørrelseslasting enheten din kan håndtere.
+> **Merk:** Sørg for at maskinvaren og programvaren Catenda er åpnet på er konfigurert [som anbefalt](https://support.catenda.com/nb/articles/6921941-hardware-recommendation) da dette kan ha en effekt på typen punktstørrelseslasting enheten din kan håndtere.
 
 _Punktstørrelse Fastsatt størrelse_ Punkter som er blitt lastet, vil forbli i minnet med dette alternativet. Med mange punkter vil du legge merke til at rotasjon kan bli forsinket og bevegelse kan bli bremset ned når du begynner å komme nær mengden punkter som systemet ditt kan håndtere. Du kan også legge merke til at det tar lengre og lengre tid å laste inn nye punkter når du kommer nærmere grensen for enheten din. Punkter lastes nærmest kameraet først. Før du laster inn punktskyen fra dokumentseksjonen, må du posisjonere kameraet til der du vil at punktene skal lastes. Hvis dette er en kameraposisjon du planlegger å bruke oftere med denne punktskyen, bør du vurdere å lage et bokmerke eller et øyeblikksbilde i en sak som du kan spille av for å gå tilbake til denne posisjonen.
 

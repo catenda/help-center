@@ -1,6 +1,6 @@
 # Documentbanner - Navigatie
 
-Als u een document selecteert op de [documentenpagina](https://support.catenda.com/en/articles/8204673-documents-page) of in een bibliotheek verschijnt er een nieuw venster voor dat document. U ziet altijd de nieuwste revision wanneer u een document opent. De documentenpagina kan er als volgt uitzien:
+Als u een document selecteert op de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documents-page) of in een bibliotheek verschijnt er een nieuw venster voor dat document. U ziet altijd de nieuwste revision wanneer u een document opent. De documentenpagina kan er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/01-intro.png)
 
@@ -8,7 +8,7 @@ Als u een document selecteert op de [documentenpagina](https://support.catenda.c
 1. U vindt de documentheader onder de documentbanner en boven het documentvoorbeeld
 1. Onder de documentheader vindt u het documentvoorbeeld
 1. Aan de linkerkant van de documentheader en het voorbeeld vindt u de documentenlijst
-1. Aan de rechterkant van de documentheader en het voorbeeld vindt u het [rechtsinformatiemenu](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
+1. Aan de rechterkant van de documentheader en het voorbeeld vindt u het [rechtsinformatiemenu](https://support.catenda.com/nl/articles/8302244-right-menu-in-a-document)
 
 De documentbanner kan er als volgt uitzien:
 
@@ -38,11 +38,11 @@ Documentacties vindt u rechtsboven het document en kunnen er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/03-actions.png)
 
-Lees meer over wat de verschillende documentacties doen [hier](https://support.catenda.com/en/articles/4670288-actions-documents#h_16671d6fc5).
+Lees meer over wat de verschillende documentacties doen [hier](https://support.catenda.com/nl/articles/4670288-actions-documents#h_16671d6fc5).
 
 ## 4. **Rechtsinformatiemenu**
 
-In het rechtsinformatiemenu kunt u alle informatie over het document vinden. Klik [hier](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document) voor meer informatie over het rechtsinformatiemenu in de documentensectie.
+In het rechtsinformatiemenu kunt u alle informatie over het document vinden. Klik [hier](https://support.catenda.com/nl/articles/8302244-right-menu-in-a-document) voor meer informatie over het rechtsinformatiemenu in de documentensectie.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/04-right-information-menu.png)
 
@@ -58,13 +58,13 @@ Klik op de knop volledig scherm rechts van de knop rechtsinformatiemenu om het d
 
 Documenten kunnen worden gedownload met de actiknop rechtsboven, met de downloadknop in het revisie-menu van het rechtsinformatiemenu, door deze in de documentenlijst te selecteren en te downloaden of vanuit het voorbeelddialoogvenster.
 
-**Rechtsinformatiemenu** U kunt de downloadactiknop vinden in het [rechtsinformatiemenu](https://support.catenda.com/en/articles/8345396-right-panel-in-documents-table). Als u het document van hier downloadt, krijgt u altijd het oorspronkelijk geüploade bestand. Als u één document selecteert, krijgt u de nieuwste revision als een bestand met de revisienaam. Als u meer dan één document selecteert, krijgt u de nieuwste revisies van de geselecteerde Documenten in een zip-bestand met de documentnaam en het revisienummer.
+**Rechtsinformatiemenu** U kunt de downloadactiknop vinden in het [rechtsinformatiemenu](https://support.catenda.com/nl/articles/8345396-right-panel-in-documents-table). Als u het document van hier downloadt, krijgt u altijd het oorspronkelijk geüploade bestand. Als u één document selecteert, krijgt u de nieuwste revision als een bestand met de revisienaam. Als u meer dan één document selecteert, krijgt u de nieuwste revisies van de geselecteerde Documenten in een zip-bestand met de documentnaam en het revisienummer.
 
 **Documentvoorbeeld** Als uw document kan worden weergegeven, kunt u de knop Opslaan als in het hamburgermenu linksboven in het documentvoorbeeldvenster vinden. Met het menu Opslaan als kunt u uw document met aantekeningen en opmerkingen downloaden.
 
 ### 6.2 **Documenteigenschappen**
 
-U kunt meer lezen over de verschillende kolommen die een document kan hebben in de tabelweergave van de documentenpagina [hier](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
+U kunt meer lezen over de verschillende kolommen die een document kan hebben in de tabelweergave van de documentenpagina [hier](https://support.catenda.com/nl/articles/8466850-columns-on-the-documents-page)
 
 ### 6.3 **Documentrevisies**
 

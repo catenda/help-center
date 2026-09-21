@@ -1,6 +1,6 @@
 # Créer un nouveau projet
 
-Si votre plan actuel et votre accès le permettent, vous pouvez créer un nouveau projet en vous connectant et en cliquant sur le bouton « Nouveau projet » sur la [page projet](https://support.catenda.com/en/articles/4670260-projects-page) ou en accédant à la [page nouveau projet](https://hub.catenda.com/new-project).
+Si votre plan actuel et votre accès le permettent, vous pouvez créer un nouveau projet en vous connectant et en cliquant sur le bouton « Nouveau projet » sur la [page projet](https://support.catenda.com/fr/articles/4670260-projects-page) ou en accédant à la [page nouveau projet](https://hub.catenda.com/new-project).
 
 Sinon, pour créer un nouveau projet, contactez l'assistance Catenda à [support@catenda.com](mailto:support@catenda.com) ou via le bouton de chat. Le bouton de chat noir se trouve en haut à droite dans Catenda Hub ou en bas à droite sur nos pages d'aide/accueil pour mettre à niveau votre plan. Nous vous guiderons dans sa création.
 
@@ -38,7 +38,7 @@ Chaque organisation dispose d'un paramètre de téléchargement de document.
 
 ### 3.1 **Par défaut**
 
-Le paramètre de téléchargement de document qu'un projet créé reçoit est basé sur le paramètre de téléchargement de document pour les nouveaux projets dans l'organisation dans laquelle il est créé. Les nouvelles organisations ont l'option « Nom de fichier de révision » activée par défaut. Les documents téléchargés dans les projets créés dans les nouvelles organisations obtiennent donc le nom de révision de la révision téléchargée dans le titre du fichier. Cliquez [ici](https://support.catenda.com/en/articles/8224886-organization-options#h_5564d6602f) pour voir les autres options disponibles pour les organisations.
+Le paramètre de téléchargement de document qu'un projet créé reçoit est basé sur le paramètre de téléchargement de document pour les nouveaux projets dans l'organisation dans laquelle il est créé. Les nouvelles organisations ont l'option « Nom de fichier de révision » activée par défaut. Les documents téléchargés dans les projets créés dans les nouvelles organisations obtiennent donc le nom de révision de la révision téléchargée dans le titre du fichier. Cliquez [ici](https://support.catenda.com/fr/articles/8224886-organization-options#h_5564d6602f) pour voir les autres options disponibles pour les organisations.
 
 ### 3.2 **Nouveaux projets dans les organisations configurées**
 
@@ -48,7 +48,7 @@ Lorsque l'option de téléchargement de document pour les nouveaux projets dans 
 
 Lorsqu'un nouveau projet est créé, les fonctionnalités optionnelles ne sont pas activées par défaut. Il est possible de demander que les fonctionnalités suivantes soient activées après la création d'un projet :
 
-[Page Objets](https://support.catenda.com/en/articles/12352750-objects-page) [Page Rapports](https://support.catenda.com/en/articles/12303098-reports-page)
+[Page Objets](https://support.catenda.com/fr/articles/12352750-objects-page) [Page Rapports](https://support.catenda.com/fr/articles/12303098-reports-page)
 
 ## 5. **Sélectionner un projet à utiliser comme modèle**
 

@@ -1,6 +1,6 @@
 # Catenda Revit-plugin
 
-> **Opmerking:** Het installatiebestand voor de plugin is te vinden in [dit artikel](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Opmerking:** Het installatiebestand voor de plugin is te vinden in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/8396532-catenda-plugins-and-integrations).
 
 De Catenda Revit-plugin is een plugin die kan worden geïnstalleerd voor Autodesk Revit. Met deze plugin kunt u samenwerken aan 3D-gezichtspunten, onderwerpen en documenten met andere leden van het bouwproject
 
@@ -60,13 +60,13 @@ Meld u aan met uw Catenda-e-mailadres en wachtwoord.
 
 <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-703202eeb52b.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-3e163e70c122.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-3b6b4eaa010e.png" width="180"/>
 
-Als MFA is ingeschakeld voor uw account, wordt u gevraagd uw MFA-code in te voeren. Klik [hier](https://support.catenda.com/en/articles/7891486-sign-in-page) voor meer informatie over de aanmeldingspagina.
+Als MFA is ingeschakeld voor uw account, wordt u gevraagd uw MFA-code in te voeren. Klik [hier](https://support.catenda.com/nl/articles/7891486-sign-in-page) voor meer informatie over de aanmeldingspagina.
 
 Klik op "Toegang toestaan" om de Revit-plugin voor Bimsync Arena toegang tot uw Catenda Hub-account te geven.
 
 ### 3.1 **Trek toegang terug**
 
-De toegang tot uw Catenda Hub-account kan op elk moment worden ingetrokken door naar uw Catenda Hub-[toepassingspagina](https://support.catenda.com/en/articles/6880968-account-page#h_40e031c49a) te gaan en op "Trek toegang terug" naast "Revit-plugin voor Bimsync Arena" te klikken.
+De toegang tot uw Catenda Hub-account kan op elk moment worden ingetrokken door naar uw Catenda Hub-[toepassingspagina](https://support.catenda.com/nl/articles/6880968-account-page#h_40e031c49a) te gaan en op "Trek toegang terug" naast "Revit-plugin voor Bimsync Arena" te klikken.
 
 ## 4. **Onderwerpenlijst**
 
@@ -96,7 +96,7 @@ De pluginacties zijn bovenaan rechts te vinden:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/08-actions.png)
 
-Klik [hier](https://support.catenda.com/en/articles/13168755-actions-in-the-catenda-revit-plugin) voor meer informatie over de verschillende acties in de Catenda Revit-plugin.
+Klik [hier](https://support.catenda.com/nl/articles/13168755-actions-in-the-catenda-revit-plugin) voor meer informatie over de verschillende acties in de Catenda Revit-plugin.
 
 ### 4.4 **Onderwerpselectie**
 

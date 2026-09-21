@@ -1,6 +1,6 @@
 # Approbation ouverte, publiée ou rejetée - Historique
 
-Cliquez sur une approbation sur la [page des approbations](https://support.catenda.com/en/articles/8349340-approvals-page#h_f6b835862b) pour ouvrir la page d'approbation de l'approbation.
+Cliquez sur une approbation sur la [page des approbations](https://support.catenda.com/fr/articles/8349340-approvals-page#h_f6b835862b) pour ouvrir la page d'approbation de l'approbation.
 
 Voici ce que la page des approbations peut ressembler :
 
@@ -18,7 +18,7 @@ Cliquez ici pour en savoir plus sur les paramètres d'approbations.
 
 ## 2. **Navigation d'approbation**
 
-_Bouton Retour aux approbations_ - Vous êtes ramené à la [page des approbations](https://support.catenda.com/en/articles/8349340-approvals-page). _Barre de progression supérieure_ - Affiche les approbations auxquelles vous pouvez naviguer
+_Bouton Retour aux approbations_ - Vous êtes ramené à la [page des approbations](https://support.catenda.com/fr/articles/8349340-approvals-page). _Barre de progression supérieure_ - Affiche les approbations auxquelles vous pouvez naviguer
 
 > **Remarque :** Vous ne pouvez naviguer que autant d'approbations que vous aviez chargées sur la page d'approbation. Vous pouvez charger 100 approbations à la fois en faisant défiler la liste des approbations. À moins que vous fassiez défiler jusqu'au bas de la page d'approbation ou qu'il y ait moins de 100 problèmes sur le tableau. Ce nombre total n'est donc pas indicatif du nombre total d'approbations sur la page des approbations.
 
@@ -78,7 +78,7 @@ Si un document a été trouvé infecté par un virus, il sera supprimé de l'app
 
 ### 5.1 **Description**
 
-La description de l'approbation suit les [règles générales de formatage des publications](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+La description de l'approbation suit les [règles générales de formatage des publications](https://support.catenda.com/fr/articles/8430847-formatting-of-posts).
 
 ### 5.2 **Actions dans le tableau d'approbation**
 
@@ -106,7 +106,7 @@ _Statut_ - Le statut du brouillon
 
 **Statut de l'examen du fichier** Le statut de l'examen du fichier peut être En attente d'approbation, Approuvé avec commentaire, Approuvé ou Rejeté
 
-Commentaire S'il y a un commentaire dans l'approbation, vous verrez un aperçu du dernier commentaire à côté du statut de l'examen du fichier. Les commentaires d'approbation suivent les [règles générales de formatage des publications](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+Commentaire S'il y a un commentaire dans l'approbation, vous verrez un aperçu du dernier commentaire à côté du statut de l'examen du fichier. Les commentaires d'approbation suivent les [règles générales de formatage des publications](https://support.catenda.com/fr/articles/8430847-formatting-of-posts).
 
 **Menu d'action** Ajouter un examen Si aucun examinateur n'est défini, n'importe qui peut ajouter un examen S'il y a des examinateurs dans l'en-tête d'approbation, seuls les examinateurs peuvent ajouter un examen En ajoutant un examen, vous pouvez commenter, approuver, approuver avec commentaire ou rejeter chaque brouillon.
 

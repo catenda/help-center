@@ -1,6 +1,6 @@
 # Saksmeny - Catenda Site
 
-Saksmenyen finner du i [menyen](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) eller ved å trykke på saksknappen på navigasjonsbaren nederst.
+Saksmenyen finner du i [menyen](https://support.catenda.com/nb/articles/7338516-navigation-menu-catenda-site) eller ved å trykke på saksknappen på navigasjonsbaren nederst.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/68qsmtaz/01-intro.png)
 
@@ -25,8 +25,8 @@ Du kan filtrere etter:
 - Mine saker
 - Statuser og typer
   - Hvis en status eller type legges til i prosjektet, eller hvis navnet på en eksisterende status eller type endres, vil saker med denne statusen ha navnet på status og type, men fargen vil være grå.
-  - Det vil ikke være mulig å filtrere og se fargen på disse statusene før du går tilbake til [prosjektsiden](https://support.catenda.com/en/articles/7733978-projects-page-catenda-site) og åpner prosjektet på nytt.
-- [Merkelapper](https://support.catenda.com/en/articles/7854138-label-filter-catenda-site)
+  - Det vil ikke være mulig å filtrere og se fargen på disse statusene før du går tilbake til [prosjektsiden](https://support.catenda.com/nb/articles/7733978-projects-page-catenda-site) og åpner prosjektet på nytt.
+- [Merkelapper](https://support.catenda.com/nb/articles/7854138-label-filter-catenda-site)
 - Frist
 - Plassering <br>
 

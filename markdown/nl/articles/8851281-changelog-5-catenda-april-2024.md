@@ -4,7 +4,7 @@ Hallo allemaal,
 
 De winter is eindelijk voorbij en de zon schijnt weer. Zelfs hier in Noorwegen! Nu Pasen voorbij is, staat de zomer voor de deur! ☀️😎🏖️ Maar ga nog niet op vakantie, want we hebben enkele wijzigingen aangebracht. In dit artikel vind je updates over het volgende:
 
-_[Artikelen](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [onderwerpen opgelost](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [Nieuwe releases](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)_
+_[Artikelen](https://support.catenda.com/nl/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [onderwerpen opgelost](https://support.catenda.com/nl/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [Nieuwe releases](https://support.catenda.com/nl/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)_
 
 ## 1. **Artikelen**
 
@@ -12,37 +12,37 @@ Naarmate nieuwe functies worden uitgerold en bugs worden opgelost, worden artike
 
 ### 1.1 **Nieuwe artikelen:**
 
-**Aan de slag en veelgestelde vragen** [Aan de slag op Catenda Hub](https://support.catenda.com/en/articles/9030303-getting-started-on-catenda-hub) [Het berichtvenster rechtsonder](http://The%20bottom%20right%20message%20bubble) [Toegangsniveaus](https://support.catenda.com/en/articles/8967083-access-control-levels) [Wat is een onderwerp in Catenda?](https://support.catenda.com/en/articles/8979789-what-is-a-topic-in-catenda) [Inschrijvingen in Catenda](https://support.catenda.com/en/articles/9063936-tendering-in-catenda) [Geen toegangspagina's](https://support.catenda.com/en/articles/9172624-no-access-pages)
+**Aan de slag en veelgestelde vragen** [Aan de slag op Catenda Hub](https://support.catenda.com/nl/articles/9030303-getting-started-on-catenda-hub) [Het berichtvenster rechtsonder](http://The%20bottom%20right%20message%20bubble) [Toegangsniveaus](https://support.catenda.com/nl/articles/8967083-access-control-levels) [Wat is een onderwerp in Catenda?](https://support.catenda.com/nl/articles/8979789-what-is-a-topic-in-catenda) [Inschrijvingen in Catenda](https://support.catenda.com/nl/articles/9063936-tendering-in-catenda) [Geen toegangspagina's](https://support.catenda.com/nl/articles/9172624-no-access-pages)
 
-**Startpagina** [Leden pagina in organisatietool](https://support.catenda.com/en/articles/9003642-members-page-in-organization-tool)
+**Startpagina** [Leden pagina in organisatietool](https://support.catenda.com/nl/articles/9003642-members-page-in-organization-tool)
 
-**Onderwerpen** [2D en 3D-gezichtspunten](https://support.catenda.com/en/articles/9184555-2d-and-3d-viewpoints)
+**Onderwerpen** [2D en 3D-gezichtspunten](https://support.catenda.com/nl/articles/9184555-2d-and-3d-viewpoints)
 
-**Documenten** [Een document uploaden](https://support.catenda.com/en/articles/4670278-uploading-a-document) [Verzamelingspagina](https://support.catenda.com/en/articles/8999764-collection-page)
+**Documenten** [Een document uploaden](https://support.catenda.com/nl/articles/4670278-uploading-a-document) [Verzamelingspagina](https://support.catenda.com/nl/articles/8999764-collection-page)
 
-**Plugins en integraties** [Document - Catenda Site](https://support.catenda.com/en/articles/8975421-document-catenda-site)
+**Plugins en integraties** [Document - Catenda Site](https://support.catenda.com/nl/articles/8975421-document-catenda-site)
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
-**Recente updates** [Modellen als documenten](https://support.catenda.com/en/articles/8064548-models-as-documents)
+**Recente updates** [Modellen als documenten](https://support.catenda.com/nl/articles/8064548-models-as-documents)
 
-**Startpagina** [Projectpagina](https://support.catenda.com/en/articles/4670260-projects-page) [Een nieuw project maken](https://support.catenda.com/en/articles/4670245-creating-a-new-project) [Pagina Gebruikers in organisatietool](https://support.catenda.com/en/articles/8508311-users-page-in-organization-tool) [Accountmeldingsinstellingen](https://support.catenda.com/en/articles/8272435-account-notification-settings)
+**Startpagina** [Projectpagina](https://support.catenda.com/nl/articles/4670260-projects-page) [Een nieuw project maken](https://support.catenda.com/nl/articles/4670245-creating-a-new-project) [Pagina Gebruikers in organisatietool](https://support.catenda.com/nl/articles/8508311-users-page-in-organization-tool) [Accountmeldingsinstellingen](https://support.catenda.com/nl/articles/8272435-account-notification-settings)
 
-**Onderwerpen** [Instellingen onderwerpenboard](https://support.catenda.com/en/articles/4670277-topic-board-settings) [Lichaam van onderwerp](https://support.catenda.com/en/articles/8053352-issue-body) [Opmaak van berichten](https://support.catenda.com/en/articles/8430847-formatting-of-posts)
+**Onderwerpen** [Instellingen onderwerpenboard](https://support.catenda.com/nl/articles/4670277-topic-board-settings) [Lichaam van onderwerp](https://support.catenda.com/nl/articles/8053352-issue-body) [Opmaak van berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts)
 
 **Documenten**
 
-_[Documenten structureren](https://support.catenda.com/en/articles/8542598-structuring-documents)_ [Aantekeningen op documenten](https://support.catenda.com/en/articles/5001165-annotations-on-documents) [Verzamelingspagina](https://support.catenda.com/en/articles/6344318-collections-page) [Filteren op de goedkeuringspagina](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page) [Filteren in een onderwerpenboard](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board)
+_[Documenten structureren](https://support.catenda.com/nl/articles/8542598-structuring-documents)_ [Aantekeningen op documenten](https://support.catenda.com/nl/articles/5001165-annotations-on-documents) [Verzamelingspagina](https://support.catenda.com/nl/articles/6344318-collections-page) [Filteren op de goedkeuringspagina](https://support.catenda.com/nl/articles/8551740-filtering-on-the-approvals-page) [Filteren in een onderwerpenboard](https://support.catenda.com/nl/articles/8370693-filtering-in-a-topic-board)
 
-**Modellen** [3D-viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) [2D-viewer](https://support.catenda.com/en/articles/4854537-2d-viewer) [Query's](https://support.catenda.com/en/articles/4854514-queries)
+**Modellen** [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer) [2D-viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer) [Query's](https://support.catenda.com/nl/articles/4854514-queries)
 
-**Informatiepaneel** [Informatiepaneel](https://support.catenda.com/en/articles/8238584-information-panel)
+**Informatiepaneel** [Informatiepaneel](https://support.catenda.com/nl/articles/8238584-information-panel)
 
-**Instellingen** [Labels pagina](https://support.catenda.com/en/articles/4670265-labels-page) [Een team maken](https://support.catenda.com/en/articles/4670264-creating-a-team)
+**Instellingen** [Labels pagina](https://support.catenda.com/nl/articles/4670265-labels-page) [Een team maken](https://support.catenda.com/nl/articles/4670264-creating-a-team)
 
-**Plugins en integraties** [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector) [Integratie Power BI](https://support.catenda.com/en/articles/5784721-integration-power-bi) [IFC Archicad Handleiding](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual) [Archicad-plugin](https://support.catenda.com/en/articles/5519276-catenda-archicad-plugin) [Solibri Modellen als documenten integratie](https://support.catenda.com/en/articles/6988148-solibri-models-and-documents-integration)
+**Plugins en integraties** [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) [Integratie Power BI](https://support.catenda.com/nl/articles/5784721-integration-power-bi) [IFC Archicad Handleiding](https://support.catenda.com/nl/articles/4670338-ifc-export-archicad-manual) [Archicad-plugin](https://support.catenda.com/nl/articles/5519276-catenda-archicad-plugin) [Solibri Modellen als documenten integratie](https://support.catenda.com/nl/articles/6988148-solibri-models-and-documents-integration)
 
-**Catenda Site** [Download je mobiele app Catenda Site](https://support.catenda.com/en/articles/6530821-download-your-mobile-app-catenda-site)
+**Catenda Site** [Download je mobiele app Catenda Site](https://support.catenda.com/nl/articles/6530821-download-your-mobile-app-catenda-site)
 
 ## 2. **Bugs opgelost**
 

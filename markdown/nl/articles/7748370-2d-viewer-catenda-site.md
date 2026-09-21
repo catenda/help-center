@@ -1,6 +1,6 @@
 # 2D viewer - Catenda Site
 
-U kunt de 2D viewer van Catenda Site vinden op de [2D / 3D pagina](https://support.catenda.com/en/articles/7734138-2d-3d-catenda-site)
+U kunt de 2D viewer van Catenda Site vinden op de [2D / 3D pagina](https://support.catenda.com/nl/articles/7734138-2d-3d-catenda-site)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/01-intro.png)
 
@@ -20,11 +20,11 @@ Zowel verdiepingen uit de verschillende IFC-modellen in het project als verdiepi
 
 ### 1.2 **2D viewer uiterlijk**
 
-Met [markers ingeschakeld](https://support.catenda.com/en/articles/4854537-2d-viewer#h_381a9d4098) worden alle Topics die een opgegeven locatie op de verdieping van een IFC of een geconfigureerd gebouw hebben, weergegeven. Tik op een marker om deze te selecteren. Dit is hoe een geselecteerde marker op Catenda Site eruit kan zien.
+Met [markers ingeschakeld](https://support.catenda.com/nl/articles/4854537-2d-viewer#h_381a9d4098) worden alle Topics die een opgegeven locatie op de verdieping van een IFC of een geconfigureerd gebouw hebben, weergegeven. Tik op een marker om deze te selecteren. Dit is hoe een geselecteerde marker op Catenda Site eruit kan zien.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/04-2d-viewer-appearance.png)
 
-Wanneer geselecteerd, worden het onderwerpcijfer en de titel weergegeven. Tik op de pijl om het onderwerp in het menu Topics te openen. Klik [hier](https://support.catenda.com/en/articles/4854523-2d-location-of-issues) voor meer informatie over de 2D-locatie van Topics.
+Wanneer geselecteerd, worden het onderwerpcijfer en de titel weergegeven. Tik op de pijl om het onderwerp in het menu Topics te openen. Klik [hier](https://support.catenda.com/nl/articles/4854523-2d-location-of-issues) voor meer informatie over de 2D-locatie van Topics.
 
 > **Waarschuwing 1:** Wanneer het Topics-menu wordt geopend, worden markers van de eerste 250 Topics in het resultaat bijgewerkt en opgeslagen. Wanneer de 2D viewer wordt geopend, worden markers van eerder bijgewerkte Topics die overeenkomen met het resultaat in het Topics-menu, weergegeven. Opmerking: markers van Topics kunnen verspreid zijn over verdiepingen anders dan de actieve verdieping. **Waarschuwing 2:** Wanneer er 250+ Topics in het Topics-menu resultaat voorkomen, kunnen markers niet zijn geladen of kunnen zij verouderd zijn. Blader omlaag in de lijst om hun markers ook weer te geven/bij te werken. Het filteren van het bord zodat er minder Topics in het resultaat voorkomen, kan er ook voor zorgen dat markers die bij Topics in het gefilterde resultaat horen, extra worden bijgewerkt en weergegeven. **Waarschuwing 3:** Wanneer u zich afmeldt bij de toepassing en zich opnieuw aanmeldt, gaat de geschiedenis verloren van welke Topics zijn geladen en moeten Topics die eerder zijn geladen mogelijk opnieuw worden geladen.
 

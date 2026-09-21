@@ -1,6 +1,6 @@
 # Projectpagina - Organisatietool
 
-U kunt de projectpagina vinden als een subpagina van uw [organisatieprofiel](https://support.catenda.com/en/articles/8497478-organization-profile-page).
+U kunt de projectpagina vinden als een subpagina van uw [organisatieprofiel](https://support.catenda.com/nl/articles/8497478-organization-profile-page).
 
 Hier ziet u een overzicht van alle projecten die deel uitmaken van deze organisatie.
 
@@ -64,7 +64,7 @@ Verwijder het/de geselecteerde project(en)
 
 In de projectlijst kunt u de volgende kolommen vinden die u in oplopende en aflopende volgorde kunt sorteren.
 
-De sorteervolgordenvan de projectlijst volgt de [sorteervolgordenvan lijsten](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists) rond Catenda.
+De sorteervolgordenvan de projectlijst volgt de [sorteervolgordenvan lijsten](https://support.catenda.com/nl/articles/8487788-sorting-order-of-lists) rond Catenda.
 
 Klik op het selectievakje linksboven in de lijst om alle projecten te selecteren.
 

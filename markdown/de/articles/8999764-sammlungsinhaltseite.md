@@ -1,6 +1,6 @@
 # Sammlungsinhaltseite
 
-Sammlungen können auf der [Sammlungsseite](https://support.catenda.com/en/articles/6344318-collections-page) erstellt werden. Mit Sammlungen können Dokumente aus verschiedenen Ordnern in einer Liste zusammengefasst werden. Die Sammlung kann dann entweder mit einem Projektmitglied geteilt werden, damit dieses die neuesten Versionen einer Reihe von Dokumenten verfolgen kann, oder mit einer externen Person, die Zugriff benötigt, ohne Teil des Projekts zu sein.
+Sammlungen können auf der [Sammlungsseite](https://support.catenda.com/de/articles/6344318-collections-page) erstellt werden. Mit Sammlungen können Dokumente aus verschiedenen Ordnern in einer Liste zusammengefasst werden. Die Sammlung kann dann entweder mit einem Projektmitglied geteilt werden, damit dieses die neuesten Versionen einer Reihe von Dokumenten verfolgen kann, oder mit einer externen Person, die Zugriff benötigt, ohne Teil des Projekts zu sein.
 
 So kann eine Sammlungsseite aussehen:
 
@@ -10,11 +10,11 @@ So kann eine Sammlungsseite aussehen:
 
 ### 1.1 **Breadcrumbs**
 
-Dokumente > Sammlungen > #Sammlungsname Klicken Sie auf Dokumente, um zur [Dokumentenseite](https://support.catenda.com/en/articles/8204673-documents-page) zurückzukehren. Klicken Sie auf Sammlungen, um zur [Sammlungsseite](https://support.catenda.com/en/articles/6344318-collections-page) zurückzukehren.
+Dokumente > Sammlungen > #Sammlungsname Klicken Sie auf Dokumente, um zur [Dokumentenseite](https://support.catenda.com/de/articles/8204673-documents-page) zurückzukehren. Klicken Sie auf Sammlungen, um zur [Sammlungsseite](https://support.catenda.com/de/articles/6344318-collections-page) zurückzukehren.
 
 ### 1.2 **Zurück**
 
-Klicken Sie auf Zurück, um zur [Sammlungsseite](https://support.catenda.com/en/articles/6344318-collections-page) zurückzukehren.
+Klicken Sie auf Zurück, um zur [Sammlungsseite](https://support.catenda.com/de/articles/6344318-collections-page) zurückzukehren.
 
 ### 1.3 **Sammlungsaktionen**
 
@@ -34,7 +34,7 @@ Das rechte Menü befindet sich oben rechts des Sammlungsbanners unter dem Aktion
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g39es426/03-right-menu.png)
 
-Klicken Sie [hier](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-page), um mehr über das rechte Menü auf der Sammlungsseite zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/12179454-right-menu-on-the-collection-page), um mehr über das rechte Menü auf der Sammlungsseite zu erfahren.
 
 ## 3. **Sammlungstyp**
 
@@ -46,15 +46,15 @@ Nachdem eine Sammlung erstellt wurde, ist sie privat. Dies bedeutet, dass nur de
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g39es426/04-private-collection.png)
 
-Private Sammlungen können entweder der neuesten veröffentlichten Überarbeitung folgen oder auf die Überarbeitungen der in die Sammlung aufgenommenen Dokumente gesperrt werden. Teilen Sie eine private Sammlung oder schließen Sie sie im [rechten Menü einer Sammlung](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-content-page) ab, um sie mit dem Rest des Projekts zu teilen.
+Private Sammlungen können entweder der neuesten veröffentlichten Überarbeitung folgen oder auf die Überarbeitungen der in die Sammlung aufgenommenen Dokumente gesperrt werden. Teilen Sie eine private Sammlung oder schließen Sie sie im [rechten Menü einer Sammlung](https://support.catenda.com/de/articles/12179454-right-menu-on-the-collection-content-page) ab, um sie mit dem Rest des Projekts zu teilen.
 
 ### 3.2 **Mit Projekt geteilte Sammlung**
 
-Eine private Sammlung kann im [rechten Menü einer Sammlung](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-content-page) mit dem Projekt geteilt werden. Sammlungen, die mit dem Projekt geteilt werden, sind für alle Mitglieder sichtbar. An diesem Punkt kann die Liste der Dokumente in der Sammlung noch bearbeitet werden. Sammlungen, die mit dem Projekt geteilt werden, können entweder der neuesten veröffentlichten Überarbeitung folgen oder auf die Überarbeitungen der in die Sammlung aufgenommenen Dokumente gesperrt werden.
+Eine private Sammlung kann im [rechten Menü einer Sammlung](https://support.catenda.com/de/articles/12179454-right-menu-on-the-collection-content-page) mit dem Projekt geteilt werden. Sammlungen, die mit dem Projekt geteilt werden, sind für alle Mitglieder sichtbar. An diesem Punkt kann die Liste der Dokumente in der Sammlung noch bearbeitet werden. Sammlungen, die mit dem Projekt geteilt werden, können entweder der neuesten veröffentlichten Überarbeitung folgen oder auf die Überarbeitungen der in die Sammlung aufgenommenen Dokumente gesperrt werden.
 
 ### 3.3 **Abgeschlossene Sammlung**
 
-Abgeschlossene Sammlungen sind für die Bearbeitung gesperrt. Abgeschlossene Sammlungen müssen auf Überarbeitungen gesperrt sein. Öffentliche Links können für abgeschlossene Sammlungen im [rechten Menü der Sammlung](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-content-page) erstellt werden.
+Abgeschlossene Sammlungen sind für die Bearbeitung gesperrt. Abgeschlossene Sammlungen müssen auf Überarbeitungen gesperrt sein. Öffentliche Links können für abgeschlossene Sammlungen im [rechten Menü der Sammlung](https://support.catenda.com/de/articles/12179454-right-menu-on-the-collection-content-page) erstellt werden.
 
 ## 4. **Sammlungstabelle**
 
@@ -64,7 +64,7 @@ Tabellenaktionen befinden sich oben rechts der Sammlungstabelle
 
 **Sammlung herunterladen** Klicken Sie auf "Sammlung herunterladen", um eine ZIP-Datei mit allen Dokumenten in der Sammlung herunterzuladen.
 
-**Dokumente hinzufügen** Klicken Sie auf [Dokumente hinzufügen](https://support.catenda.com/en/articles/6344318-collections-page#h_b94d108342), um Dokumente zu Ihrer Sammlung hinzuzufügen. Wenn Ihr Dokument als mit einem Virus infiziert befunden wurde, können Sie es nicht zur Sammlung hinzufügen.
+**Dokumente hinzufügen** Klicken Sie auf [Dokumente hinzufügen](https://support.catenda.com/de/articles/6344318-collections-page#h_b94d108342), um Dokumente zu Ihrer Sammlung hinzuzufügen. Wenn Ihr Dokument als mit einem Virus infiziert befunden wurde, können Sie es nicht zur Sammlung hinzufügen.
 
 > **Hinweis:** Der Name des Dokuments in der Sammlung ist der Name der Überarbeitung, die hinzugefügt wurde. Dies ähnelt dem ursprünglichen Dateinamen. Dieser Name kann sich vom Namen des Dokuments unterscheiden, da ein Dokument mehrere Überarbeitungen mit unterschiedlichen Namen enthalten kann.
 

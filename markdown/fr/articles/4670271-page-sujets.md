@@ -18,7 +18,7 @@ S'il y a plus d'une liste de sujets dans le projet, vous verrez l'option Toutes 
 
 ## 2. **Nouvelles actions d'élément**
 
-Les nouvelles actions d'élément se trouvent dans le menu hamburger à côté du bouton plus en haut à droite de la page. Voir [ici](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board) pour savoir ce que font les différentes actions.
+Les nouvelles actions d'élément se trouvent dans le menu hamburger à côté du bouton plus en haut à droite de la page. Voir [ici](https://support.catenda.com/fr/articles/4670284-actions-in-a-topic-board) pour savoir ce que font les différentes actions.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/03-new-item-actions.png)
 
@@ -28,7 +28,7 @@ S'il y a des statuts/types non liés dans une liste de sujets, vous verrez un me
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/04-unlinked-fields.png)
 
-En cliquant sur le lien, vous serez dirigé vers la zone [champs non liés](https://support.catenda.com/en/articles/4670277-topic-board-settings#h_3bd7e3e759) des [paramètres de la liste de sujets](https://support.catenda.com/en/articles/4670277-topic-board-settings) où vous pouvez lier tous les champs d'un type à une valeur existante en une seule fois.
+En cliquant sur le lien, vous serez dirigé vers la zone [champs non liés](https://support.catenda.com/fr/articles/4670277-topic-board-settings#h_3bd7e3e759) des [paramètres de la liste de sujets](https://support.catenda.com/fr/articles/4670277-topic-board-settings) où vous pouvez lier tous les champs d'un type à une valeur existante en une seule fois.
 
 ## 4. **Recherche, filtre et menu de droite**
 
@@ -40,7 +40,7 @@ Un statut peut être ouvert, fermé ou candidat, bien qu'ils puissent être nomm
 
 ### 4.1 **Recherche**
 
-Si tous les statuts ouverts, fermés ou candidats sont affichés, ils seront combinés dans une seule boîte de filtre. Cliquez sur le menu déroulant à côté de la boîte de filtre combinée pour voir quels statuts sont combinés. Appuyez sur le x à droite pour supprimer tous les filtres. Cliquez [ici](https://support.catenda.com/en/articles/8370693-filtering-in-an-issue-board) pour en savoir plus sur la recherche de Sujets.
+Si tous les statuts ouverts, fermés ou candidats sont affichés, ils seront combinés dans une seule boîte de filtre. Cliquez sur le menu déroulant à côté de la boîte de filtre combinée pour voir quels statuts sont combinés. Appuyez sur le x à droite pour supprimer tous les filtres. Cliquez [ici](https://support.catenda.com/fr/articles/8370693-filtering-in-an-issue-board) pour en savoir plus sur la recherche de Sujets.
 
 ### 4.2 **Menu Filtre**
 
@@ -48,11 +48,11 @@ Si vous cliquez sur le bouton filtre Sujets à gauche de la barre de recherche o
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/06-filter-menu.png)
 
-Un menu filtre s'ouvrira sur la gauche. Ici, vous pouvez spécifier les filtres que vous souhaitez utiliser pour affiner votre recherche. Cliquez [ici](https://support.catenda.com/en/articles/8370693-filtering-in-an-issue-board) pour en savoir plus sur le filtrage des Sujets.
+Un menu filtre s'ouvrira sur la gauche. Ici, vous pouvez spécifier les filtres que vous souhaitez utiliser pour affiner votre recherche. Cliquez [ici](https://support.catenda.com/fr/articles/8370693-filtering-in-an-issue-board) pour en savoir plus sur le filtrage des Sujets.
 
 ### 4.3 **Menu de droite**
 
-Dans le [menu de droite de la liste de sujets](https://support.catenda.com/en/articles/6941224-right-panel-in-an-issue-board), vous pouvez voir les informations sur les Sujets sélectionnés et modifier plusieurs Sujets à la fois.
+Dans le [menu de droite de la liste de sujets](https://support.catenda.com/fr/articles/6941224-right-panel-in-an-issue-board), vous pouvez voir les informations sur les Sujets sélectionnés et modifier plusieurs Sujets à la fois.
 
 ## 5. **Liste de sujets**
 
@@ -64,7 +64,7 @@ Après la sélection d'un Sujet, les actions d'élément sélectionné apparaiss
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/07-selected-item-actions.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board) pour voir comment chaque action peut être utilisée :
+Cliquez [ici](https://support.catenda.com/fr/articles/4670284-actions-in-a-topic-board) pour voir comment chaque action peut être utilisée :
 
 ### 5.2 **Colonnes**
 
@@ -88,7 +88,7 @@ Certaines colonnes du tableau des Sujets sont activées par défaut tandis que d
 - Nombre de documents
 - Champs personnalisés - Par défaut
 
-Cliquez [ici](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) pour en savoir plus sur les colonnes disponibles sur la page Sujets.
+Cliquez [ici](https://support.catenda.com/fr/articles/6941099-columns-on-the-topics-page) pour en savoir plus sur les colonnes disponibles sur la page Sujets.
 
 ### 5.3 **Vue liste - Par défaut**
 
@@ -100,7 +100,7 @@ Voici ce que la liste de sujets ressemble en vue liste.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/09-list-view-default.png)
 
-Cliquez [ici](https://support.catenda.com/en/articles/6941232-list-view-in-an-issue-board) pour en savoir plus sur la vue liste dans une liste de sujets. Cliquez [ici](https://support.catenda.com/en/articles/11748020-tables-on-catenda) pour lire les informations générales sur les listes sur Catenda.
+Cliquez [ici](https://support.catenda.com/fr/articles/6941232-list-view-in-an-issue-board) pour en savoir plus sur la vue liste dans une liste de sujets. Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour lire les informations générales sur les listes sur Catenda.
 
 ### 5.4 **Vue tableau**
 
@@ -112,7 +112,7 @@ Voici ce que la liste de sujets ressemble en vue tableau.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/11-table-view.png)
 
-Ici, vous pouvez voir de nombreux Sujets à la fois. En cliquant sur toute information dans la fenêtre Sujets, vous serez dirigé vers une sous-page avec l'ensemble des informations. Cliquez [ici](https://support.catenda.com/en/articles/11748020-tables-on-catenda) pour lire les informations générales sur les tableaux sur Catenda.
+Ici, vous pouvez voir de nombreux Sujets à la fois. En cliquant sur toute information dans la fenêtre Sujets, vous serez dirigé vers une sous-page avec l'ensemble des informations. Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour lire les informations générales sur les tableaux sur Catenda.
 
 ## 6. **Sous-pages**
 
@@ -120,16 +120,16 @@ Les sous-pages de la page Sujets se trouvent dans le menu de navigation de gauch
 
 ### 6.1 **Listes de sujets**
 
-[Listes de sujets](https://support.catenda.com/en/articles/9413644-boards-page) - Un aperçu de toutes les listes de sujets
+[Listes de sujets](https://support.catenda.com/fr/articles/9413644-boards-page) - Un aperçu de toutes les listes de sujets
 
 ### 6.2 **Jalons**
 
-[Jalons](https://support.catenda.com/en/articles/4670266-creating-a-new-milestone) - Dates importantes du projet
+[Jalons](https://support.catenda.com/fr/articles/4670266-creating-a-new-milestone) - Dates importantes du projet
 
 ### 6.3 **Statistiques**
 
-[Statistiques](https://support.catenda.com/en/articles/7575491-statistics-page) - Voir les statistiques de la liste de sujets actuelle
+[Statistiques](https://support.catenda.com/fr/articles/7575491-statistics-page) - Voir les statistiques de la liste de sujets actuelle
 
 ### 6.4 **Paramètres**
 
-En cliquant sur la [page des paramètres](https://support.catenda.com/en/articles/4670277-issue-board-settings), ouvre la page des paramètres de la liste de sujets actuelle. _Accès requis :_ Accès complet à la liste de sujets
+En cliquant sur la [page des paramètres](https://support.catenda.com/fr/articles/4670277-issue-board-settings), ouvre la page des paramètres de la liste de sujets actuelle. _Accès requis :_ Accès complet à la liste de sujets

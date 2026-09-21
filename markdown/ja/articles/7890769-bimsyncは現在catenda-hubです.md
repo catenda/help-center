@@ -18,6 +18,6 @@ Catenda Hubは引き続き[https://bimsync.com](https://bimsync.com)で利用可
 
 bimsync.comの稼働継続に取り組んでいますが、明確に伝達される通知期間の後、カスタマートラフィックをhub.catenda.comにリダイレクトする予定です。このため、[https://hub.catenda.com](https://hub.catenda.com)でCatenda Hubにサインインできることを、できるだけ早く確認することをお勧めします。
 
-サインイン方法の詳細については、[こちら](https://support.catenda.com/en/articles/7891486-sign-in-page)の記事を参照してください。ファイアウォールを通じて許可するドメインの詳細については、[こちら](https://support.catenda.com/en/articles/6921941-system-requirements-and-optimization)の記事を参照してください。
+サインイン方法の詳細については、[こちら](https://support.catenda.com/ja/articles/7891486-sign-in-page)の記事を参照してください。ファイアウォールを通じて許可するドメインの詳細については、[こちら](https://support.catenda.com/ja/articles/6921941-system-requirements-and-optimization)の記事を参照してください。
 
 これらの変更についてご不明な点やご懸念事項がある場合は、お知らせください。
