@@ -18,7 +18,7 @@ Høyre meny kan åpnes ved å klikke på info-ikonet til høyre for dokumenter-f
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/03-right-menu.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/12495638-approval-request-documents-right-menu) for å lese mer om høyre meny for dokumenter-fanen.
+Klikk [her](https://support.catenda.com/nb/articles/12495638-gjennomgangsforesporsel-dokumenter-hoyre-meny) for å lese mer om høyre meny for dokumenter-fanen.
 
 > **Merk:** Velg ett dokument (ved å klikke på tittel) eller velg flere dokumenter som er tildelt deg for å direkte starte vurdering fra dokumenter-fanen.
 

@@ -22,11 +22,11 @@ _Tilgang kreves:_ skrivetilgang til mappen.
 
 ### 1.2 **Tilgangsstyring**
 
-Hvis du vil ha mer informasjon om tilgangsstyring i dokumentseksjonen, les [her](https://support.catenda.com/nb/articles/4670287-folders-and-documents-acl).
+Hvis du vil ha mer informasjon om tilgangsstyring i dokumentseksjonen, les [her](https://support.catenda.com/nb/articles/4670287-mapper-og-dokumenter-tilgangstyring).
 
 ### 1.3 **Samlinger**
 
-Hvis dokumentet ditt er en del av noen [samlinger](https://support.catenda.com/nb/articles/6344318-collections-page), vil de bli listet opp her.
+Hvis dokumentet ditt er en del av noen [samlinger](https://support.catenda.com/nb/articles/6344318-samlingside), vil de bli listet opp her.
 
 ## 2. **Ett dokument**
 
@@ -34,7 +34,7 @@ Slik kan høyremenyen se ut når ett dokument er valgt:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/04-one-document.png)
 
-Når du har ett dokument valgt, vises informasjon om den nyeste offentlige revisjonen i det dokumentet. Se [her](https://support.catenda.com/nb/articles/8302244-right-menu-of-a-revision) for hvilken informasjon som er tilgjengelig.
+Når du har ett dokument valgt, vises informasjon om den nyeste offentlige revisjonen i det dokumentet. Se [her](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon) for hvilken informasjon som er tilgjengelig.
 
 ## 3. **Flere mappe(r) og/eller dokument(er)**
 
@@ -54,11 +54,11 @@ Med denne menyen kan du endre verdier for flere mappe(r) og/eller dokument(er) s
 
 ### 3.2 **Tilgangsstyring**
 
-Med denne menyen kan du endre tilgangen for flere mappe(r) og/eller dokument(er) samtidig. Hvis du vil ha mer informasjon om tilgangsstyring i dokumentseksjonen, les [her](https://support.catenda.com/nb/articles/4670287-folders-and-documents-acl).
+Med denne menyen kan du endre tilgangen for flere mappe(r) og/eller dokument(er) samtidig. Hvis du vil ha mer informasjon om tilgangsstyring i dokumentseksjonen, les [her](https://support.catenda.com/nb/articles/4670287-mapper-og-dokumenter-tilgangstyring).
 
 ### 3.3 **Samlinger**
 
-Hvis mappen(e) dine og/eller dokumentet(ene) ditt er en del av noen [samlinger](https://support.catenda.com/nb/articles/6344318-collections-page), vil de bli listet opp her.
+Hvis mappen(e) dine og/eller dokumentet(ene) ditt er en del av noen [samlinger](https://support.catenda.com/nb/articles/6344318-samlingside), vil de bli listet opp her.
 
 ### 3.4 **Koblede objekter**
 

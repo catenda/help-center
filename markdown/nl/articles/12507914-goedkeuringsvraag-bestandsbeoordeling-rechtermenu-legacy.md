@@ -1,6 +1,6 @@
 # Goedkeuringsvraag bestandsbeoordeling rechtermenu - Legacy
 
-Wanneer de [bestandsbeoordeling van een goedkeuringsvraag](https://support.catenda.com/nl/articles/12507422-file-review-in-an-approval-request-legacy) voor het eerst wordt geopend, kan het rechtermenu gesloten zijn. Klik op de informatieknop aan de rechterkant om dit menu uit te vouwen.
+Wanneer de [bestandsbeoordeling van een goedkeuringsvraag](https://support.catenda.com/nl/articles/12507422-bestandsbeoordeling-in-een-beoordelingsverzoek-legacy) voor het eerst wordt geopend, kan het rechtermenu gesloten zijn. Klik op de informatieknop aan de rechterkant om dit menu uit te vouwen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zt2p953n/01-intro.png)
 
@@ -48,7 +48,7 @@ Wanneer het minimumaantal leden dat is opgegeven in de goedkeuringsvraag goedkeu
 
 ### 2.1 **Opmerking vak**
 
-Voer een opmerking in om een opmerking toe te voegen aan de beoordeling van dit bestand. Opmerkingen volgen de algemene regels van [opmaak van berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts) op Catenda. Validaties kunnen worden ingediend zonder een opmerking in te voeren.
+Voer een opmerking in om een opmerking toe te voegen aan de beoordeling van dit bestand. Opmerkingen volgen de algemene regels van [opmaak van berichten](https://support.catenda.com/nl/articles/8430847-werkbalk-voor-berichtopmaak) op Catenda. Validaties kunnen worden ingediend zonder een opmerking in te voeren.
 
 ### 2.2 **Opmerking**
 

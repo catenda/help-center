@@ -1,6 +1,6 @@
 # Mapconfiguratie - Documentinstellingen
 
-Het mapconfiguratiemenu is te vinden op de [pagina documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings-page). Door een geconfigureerde map in te stellen kunt u verbeteren hoe documenten in die workflow worden verwerkt.
+Het mapconfiguratiemenu is te vinden op de [pagina documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen). Door een geconfigureerde map in te stellen kunt u verbeteren hoe documenten in die workflow worden verwerkt.
 
 ## 1. **Mappentabel**
 
@@ -52,7 +52,7 @@ Het mapconfiguratie-dialoogvenster kan er als volgt uitzien:
 
 ### 2.1 **Naamgevingsconventie**
 
-Als u naamgevingsconventies hebt ingesteld op de [pagina naamgevingsconventie](https://support.catenda.com/nl/articles/7832559-naming-conventions-page) in [projectinstellingen](https://support.catenda.com/nl/articles/4670273-project-settings-page), kunt u hier kiezen welke map de naamgevingsconventie krijgt toegepast. Bij het toepassen van een afspraak moet gelden voor alle nieuwe Documenten in de map en submappen:
+Als u naamgevingsconventies hebt ingesteld op de [pagina naamgevingsconventie](https://support.catenda.com/nl/articles/7832559-pagina-naamgevingsafspraken) in [projectinstellingen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen), kunt u hier kiezen welke map de naamgevingsconventie krijgt toegepast. Bij het toepassen van een afspraak moet gelden voor alle nieuwe Documenten in de map en submappen:
 
 - Moet volgens de naamgevingsconventie worden benoemd
 - Moet een Documentnaam hebben die niet kan worden bewerkt zolang de afspraak actief is
@@ -89,4 +89,4 @@ Met metadata kunt u metadata toewijzen aan alle Documenten in deze configuratie.
 
 ## 3. **QR-code toewijzen**
 
-Met [QR-codestempel](https://support.catenda.com/nl/articles/9360508-qr-code-on-pdfs-in-catenda) kunt u hier selecteren of u deze functie voor een map wilt inschakelen.
+Met [QR-codestempel](https://support.catenda.com/nl/articles/9360508-qr-code-op-pdf-s-in-catenda) kunt u hier selecteren of u deze functie voor een map wilt inschakelen.

@@ -12,15 +12,15 @@ Likevel kan det oppstå en situasjon der du opplever at ytelsen er begrenset. De
 
 ## 2. **Opprette en spørring**
 
-Spørringer kan enten opprettes fra [2D-viseren](https://support.catenda.com/nb/articles/4854537-2d-viewer) eller fra et egenskapsbibliotek. Med [2D-viseren](https://support.catenda.com/nb/articles/4854537-2d-viewer) kan du enkelt velge et område i prosjektet som du vil laste. Med et egenskapsbibliotek kan du enkelt velge objekter med en bestemt egenskap som du vil laste.
+Spørringer kan enten opprettes fra [2D-viseren](https://support.catenda.com/nb/articles/4854537-2d-viser) eller fra et egenskapsbibliotek. Med [2D-viseren](https://support.catenda.com/nb/articles/4854537-2d-viser) kan du enkelt velge et område i prosjektet som du vil laste. Med et egenskapsbibliotek kan du enkelt velge objekter med en bestemt egenskap som du vil laste.
 
 ## 3. **2D-viser-spørring**
 
-For å opprette en spørring fra [2D-viseren](https://support.catenda.com/nb/articles/4854537-2d-viewer), åpner du 2D-visningen av en modell:
+For å opprette en spørring fra [2D-viseren](https://support.catenda.com/nb/articles/4854537-2d-viser), åpner du 2D-visningen av en modell:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/01-2d-viewer-query.png)
 
-Dette vil hjelpe deg med å forstå fra hvilken plassering i prosjektet objektene dine vil bli valgt. Det er tre forskjellige måter å lage spørringer i 2D-viseren på. Hvis du høyreklikker i 2D-viseren, åpnes [menyen 2D-viser-interaksjoner](https://support.catenda.com/nb/articles/4854537-2d-viewer#h_bfa30db456). Her kan du velge fra følgende spørringer: [Kryssende rom](#h_bade07829c) [Kryssende etasje](#h_6127f099ac) Den tredje spørringen kan opprettes med [rullegardinmenyen for 2D-viservalg](https://support.catenda.com/nb/articles/4854537-2d-viewer#h_042dc145fa) Her kan du velge: rektangelvalg som lar deg opprette følgende spørring: [Rektangelvalg](#h_33afc95ee3)
+Dette vil hjelpe deg med å forstå fra hvilken plassering i prosjektet objektene dine vil bli valgt. Det er tre forskjellige måter å lage spørringer i 2D-viseren på. Hvis du høyreklikker i 2D-viseren, åpnes [menyen 2D-viser-interaksjoner](https://support.catenda.com/nb/articles/4854537-2d-viser#h_bfa30db456). Her kan du velge fra følgende spørringer: [Kryssende rom](#h_bade07829c) [Kryssende etasje](#h_6127f099ac) Den tredje spørringen kan opprettes med [rullegardinmenyen for 2D-viservalg](https://support.catenda.com/nb/articles/4854537-2d-viser#h_042dc145fa) Her kan du velge: rektangelvalg som lar deg opprette følgende spørring: [Rektangelvalg](#h_33afc95ee3)
 
 ### 3.1 **Kryssende rom-spørring**
 
@@ -64,11 +64,11 @@ Dette vil laste all geometri inne i topp- og bunnplanene til etasjen.
 
 ## 4. **Egenskapsbibliotek-spørring**
 
-Når du har synkronisert ditt [egenskapsverdibibliotek](https://support.catenda.com/nb/articles/4670252-property-value-library), kan du klikke på objektantallet ved siden av egenskapsverdien og velge fra hvilken(e) modell(er) du ønsker å lage en spørring om objekter med denne egenskapsverdien.
+Når du har synkronisert ditt [egenskapsverdibibliotek](https://support.catenda.com/nb/articles/4670252-egenskapsverdi-bibliotek), kan du klikke på objektantallet ved siden av egenskapsverdien og velge fra hvilken(e) modell(er) du ønsker å lage en spørring om objekter med denne egenskapsverdien.
 
 ## 5. **Redigere en spørring**
 
-Spørringer kan redigeres ved å velge spøringsmenyen i [revisjonsvalgeren](https://support.catenda.com/nb/articles/4670279-revision-selector#h_fcf1c5a080).
+Spørringer kan redigeres ved å velge spøringsmenyen i [revisjonsvalgeren](https://support.catenda.com/nb/articles/4670279-revisjonsvelger#h_fcf1c5a080).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/08-editing-a-query.png)
 

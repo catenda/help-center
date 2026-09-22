@@ -1,6 +1,6 @@
 # Saksliste fra en eksisterende saksliste
 
-Du kan opprette en ny saksliste ved å klikke på handlingen for ny saksliste på [sakliste-siden](https://support.catenda.com/nb/articles/9413644-boards-page). Handlingen finner du med den grønne plusskjermen øverst til høyre eller i dens tilstøtende handlingsmeny. Tilgang som kreves: Skrivetilgang for å opprette nye saklister i tilgangsmeny på [prosjektinnstillingssiden](https://support.catenda.com/nb/articles/4670273-project-settings-page).
+Du kan opprette en ny saksliste ved å klikke på handlingen for ny saksliste på [sakliste-siden](https://support.catenda.com/nb/articles/9413644-tavler-side). Handlingen finner du med den grønne plusskjermen øverst til høyre eller i dens tilstøtende handlingsmeny. Tilgang som kreves: Skrivetilgang for å opprette nye saklister i tilgangsmeny på [prosjektinnstillingssiden](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger).
 
 Slik kan den nye sakliste-siden se ut:
 
@@ -8,13 +8,13 @@ Slik kan den nye sakliste-siden se ut:
 
 ## 1. **Navn**
 
-Gi saklisten et navn som minimumsforutsetning for å legge til saklisten. Sakliste-listen sorteres etter sakliste-navn i henhold til den typiske [sorteringsrekkefølgen for lister](https://support.catenda.com/nb/articles/8487788-sorting-order-of-lists) på Catenda. Det er derfor ofte en god idé å bruke en navnekonvensjon når du navngir saklister. Her er et eksempel på hva saklister kunne hete:
+Gi saklisten et navn som minimumsforutsetning for å legge til saklisten. Sakliste-listen sorteres etter sakliste-navn i henhold til den typiske [sorteringsrekkefølgen for lister](https://support.catenda.com/nb/articles/8487788-sorteringsrekkefolge-for-lister) på Catenda. Det er derfor ofte en god idé å bruke en navnekonvensjon når du navngir saklister. Her er et eksempel på hva saklister kunne hete:
 
 ![Saksliste introduksjon Dokumenter vurdering Viderefør Viderefør med kommentarer Til oppfølging Dokumenter breeam socre koordinering kostnad prosjekter](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/02-name.png)
 
 ## 2. **Beskrivelse**
 
-Beskrivelsen av saklisten er valgfri og kan senere bare sees i sakliste-innstillinger av de med full tilgang til saklisten. Beskrivelsen av saklisten følger de generelle reglene for [formatering av innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts) på Catenda.
+Beskrivelsen av saklisten er valgfri og kan senere bare sees i sakliste-innstillinger av de med full tilgang til saklisten. Beskrivelsen av saklisten følger de generelle reglene for [formatering av innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg) på Catenda.
 
 ## 3. **Kopier innstillinger fra en eksisterende saksliste**
 

@@ -1,6 +1,6 @@
 # Listenansicht in einem Themen-Board
 
-Die Listenansicht in der Thematabelle auf der [Themenseite ](https://support.catenda.com/de/articles/4670271-topics-page)Themen-Board ist standardmäßig aktiviert. Wenn die Tabellenansicht aktiviert wurde, kann die Listenansicht [oben](https://support.catenda.com/de/articles/4670271-topics-page#h_6a5895256b) im Themen-Board erneut aktiviert werden. Die Listenansicht in der Thematabelle der Themenseite kann oft sinnvoll sein, wenn mehr als eine Person verfolgt, was auf dem Bildschirm passiert. Obwohl in der Listenansicht weniger Themen auf einmal angezeigt werden, ist die Information besser verteilt, was die Ansicht auf einen Blick verständlich macht, auch für jemanden, der noch nie ein Themen-Board gesehen hat. Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um allgemeine Informationen zu Listen auf Catenda zu lesen.
+Die Listenansicht in der Thematabelle auf der [Themenseite ](https://support.catenda.com/de/articles/4670271-themen-seite)Themen-Board ist standardmäßig aktiviert. Wenn die Tabellenansicht aktiviert wurde, kann die Listenansicht [oben](https://support.catenda.com/de/articles/4670271-themen-seite#h_6a5895256b) im Themen-Board erneut aktiviert werden. Die Listenansicht in der Thematabelle der Themenseite kann oft sinnvoll sein, wenn mehr als eine Person verfolgt, was auf dem Bildschirm passiert. Obwohl in der Listenansicht weniger Themen auf einmal angezeigt werden, ist die Information besser verteilt, was die Ansicht auf einen Blick verständlich macht, auch für jemanden, der noch nie ein Themen-Board gesehen hat. Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tabellen-in-catenda), um allgemeine Informationen zu Listen auf Catenda zu lesen.
 
 ## 1. **Sortierliste**
 
@@ -21,7 +21,7 @@ In der Listenansicht eines Themen-Boards ist es möglich, Themen nach folgenden 
 
 ### 2.1 **Zeileninhalt**
 
-**Themenzeile** Das Öffnen des Inhalts einer Themenzeile öffnet die Themenseite für dieses Thema. Klicken Sie [hier](https://support.catenda.com/de/articles/8400566-topic-header-the-subject-of-a-topic), um mehr über die Themenseite zu erfahren.
+**Themenzeile** Das Öffnen des Inhalts einer Themenzeile öffnet die Themenseite für dieses Thema. Klicken Sie [hier](https://support.catenda.com/de/articles/8400566-themen-header-das-thema-eines-themas), um mehr über die Themenseite zu erfahren.
 
 ### 2.2 **Karten**
 
@@ -35,7 +35,7 @@ Titel Thementitel
 
 **Status** Der Themenstatus wird in einem Feld mit einem farbigen Kreis angezeigt.
 
-**Etiketten** Themen-[Etiketten](https://support.catenda.com/de/articles/4670265-creating-a-new-label) (Tags) werden in Feldern mit einem Tag-Symbol angezeigt.
+**Etiketten** Themen-[Etiketten](https://support.catenda.com/de/articles/4670265-etikettenseite) (Tags) werden in Feldern mit einem Tag-Symbol angezeigt.
 
 **Zugewiesen an** Thema zugewiesen zu.
 

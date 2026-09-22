@@ -2,11 +2,11 @@
 
 > Gérez vos paramètres de gabarits de sujet
 
-La page des paramètres des gabarits de sujet se trouve en cliquant sur Configurer les gabarits de sujet sur la [page des paramètres de sujet](https://support.catenda.com/fr/articles/14183429-topic-settings-page) qui peut être ouverte à partir du menu de navigation de gauche après l'ouverture de la page des sujets. _Accès requis :_ Administrateur du projet
+La page des paramètres des gabarits de sujet se trouve en cliquant sur Configurer les gabarits de sujet sur la [page des paramètres de sujet](https://support.catenda.com/fr/articles/14183429-parametres-de-sujet-page) qui peut être ouverte à partir du menu de navigation de gauche après l'ouverture de la page des sujets. _Accès requis :_ Administrateur du projet
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/01-intro.png)
 
-Sur la page des paramètres des gabarits de sujet, les gabarits de sujet pour chacune des listes de sujets du projet peuvent être configurés. Après leur création, les gabarits de sujet sont mis à disposition pour remplir automatiquement le texte et les champs des sujets lors de leur création. Les gabarits de sujet peuvent être configurés pour être disponibles dans les processus de création de sujet suivants : [Comment utiliser les gabarits de sujet dans les sujets généraux](https://support.catenda.com/fr/articles/14075921-apply-a-general-topic-template-upon-topic-creation) [Comment utiliser les gabarits de sujet dans les sujets de balisage](https://support.catenda.com/fr/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document) [Comment utiliser les gabarits de sujet avec les approbations](https://support.catenda.com/fr/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
+Sur la page des paramètres des gabarits de sujet, les gabarits de sujet pour chacune des listes de sujets du projet peuvent être configurés. Après leur création, les gabarits de sujet sont mis à disposition pour remplir automatiquement le texte et les champs des sujets lors de leur création. Les gabarits de sujet peuvent être configurés pour être disponibles dans les processus de création de sujet suivants : [Comment utiliser les gabarits de sujet dans les sujets généraux](https://support.catenda.com/fr/articles/14075921-utilisation-des-modeles-de-sujets-dans-une-liste-de-sujets) [Comment utiliser les gabarits de sujet dans les sujets de balisage](https://support.catenda.com/fr/articles/14078352-utilisation-de-modeles-de-sujets-lors-de-l-enregistrement-de-sujets-de-balisage) [Comment utiliser les gabarits de sujet avec les approbations](https://support.catenda.com/fr/articles/14078683-utilisation-de-modeles-de-sujets-avec-les-approbations)
 
 ## 1. **Menu d'action**
 
@@ -46,7 +46,7 @@ Une fois que vous accédez à votre page de paramètres des gabarits de sujet, u
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/04-templates-table.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda.
+Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tableaux-sur-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda.
 
 ### 3.1 **Contenu des lignes**
 

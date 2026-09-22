@@ -1,6 +1,6 @@
 # Connecteur Catenda Desktop
 
-> **Remarque :** Le fichier d'installation de cette application se trouve [ici](https://support.catenda.com/fr/articles/8396532-catenda-plugins-and-integrations)
+> **Remarque :** Le fichier d'installation de cette application se trouve [ici](https://support.catenda.com/fr/articles/8396532-plugins-et-integrations-catenda)
 
 Avec le connecteur Catenda Desktop, vous pouvez planifier les téléchargements et les téléversements des dernières versions des Documents.
 

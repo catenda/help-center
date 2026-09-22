@@ -26,7 +26,7 @@ In the [Organizations](http://bimsync.com/orgs) section of Catenda Hub, you will
 
 ## 4. **New topics table view**
 
-We have updated the [Table view](https://support.catenda.com/en/articles/6941099-table-view-in-an-issue-board) for Issues, users can adjust more components to their needs, and also benefit from an issue preview when selecting in the list.
+We have updated the [Table view](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board) for Issues, users can adjust more components to their needs, and also benefit from an issue preview when selecting in the list.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jah4q53q/04-new-topics-table-view.png)
 
@@ -42,4 +42,4 @@ Matching engine gives a score to the association, and suggests the highest resul
 
 ## 6. **Naming convention**
 
-You will discover a new feature visible under the Documents section, called [Naming Convention](https://support.catenda.com/en/articles/7832559-naming-convention). This is a Work In Progress, and will be delivered as a new feature in Q4 2023. Please get in touch with us in order to have a demo and eventually a trial version, using the Chat button in Catenda Hub.
+You will discover a new feature visible under the Documents section, called [Naming Convention](https://support.catenda.com/en/articles/7832559-naming-conventions-page). This is a Work In Progress, and will be delivered as a new feature in Q4 2023. Please get in touch with us in order to have a demo and eventually a trial version, using the Chat button in Catenda Hub.

@@ -1,6 +1,6 @@
 # Page Projets - Outil Organisation
 
-Vous pourrez trouver la page des projets comme sous-page de votre [page de profil d'organisation](https://support.catenda.com/fr/articles/8497478-organization-profile-page).
+Vous pourrez trouver la page des projets comme sous-page de votre [page de profil d'organisation](https://support.catenda.com/fr/articles/8497478-page-de-profil-de-l-organisation).
 
 Ici, vous verrez un aperçu de tous les projets qui font partie de cette organisation.
 
@@ -64,7 +64,7 @@ Supprimer les projets sélectionnés
 
 Dans la liste des projets, vous pourrez trouver les colonnes suivantes que vous pouvez trier en ordre croissant et décroissant.
 
-L'ordre de tri de la liste des projets suit l'[ordre de tri des listes](https://support.catenda.com/fr/articles/8487788-sorting-order-of-lists) autour de Catenda.
+L'ordre de tri de la liste des projets suit l'[ordre de tri des listes](https://support.catenda.com/fr/articles/8487788-ordre-de-tri-des-listes) autour de Catenda.
 
 Cliquez sur la case à cocher en haut à gauche de la liste pour sélectionner tous les projets.
 

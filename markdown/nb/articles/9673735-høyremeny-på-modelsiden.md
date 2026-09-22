@@ -1,6 +1,6 @@
 # Høyremeny på modelsiden
 
-Høyremenyen med informasjon finner du ved å velge en modell på [modellsiden](https://support.catenda.com/nb/articles/4670286-models-page) eller ved å gå inn på [innholdssiden](https://support.catenda.com/nb/articles/4670270-model-overview-page) til en modell.
+Høyremenyen med informasjon finner du ved å velge en modell på [modellsiden](https://support.catenda.com/nb/articles/4670286-modellside) eller ved å gå inn på [innholdssiden](https://support.catenda.com/nb/articles/4670270-modellinnholdsside) til en modell.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/01-intro.png)
 
@@ -32,7 +32,7 @@ Enten laster du opp et lokalt bilde eller legger til et øyeblikksbilde direkte 
 
 _Modellbilde i høyremeny_ Når det er lagt til, vises bildet øverst i høyremenyen til en modell når en enkelt modell er valgt eller når menyen er åpen på modellinnholdssiden. Det opploadede bildet vises både i høyremenyen til en modellrevisjon når én modell er valgt, og i miniatyrbildet av modellen i navnekolonnen i modelltabellen.
 
-Klikk [her](https://support.catenda.com/nb/articles/4670257-creating-a-thumbnail-for-your-model) for å lese mer om hvordan du legger til et bilde for en modell.
+Klikk [her](https://support.catenda.com/nb/articles/4670257-opprett-miniatyrbilde-for-modellen-din) for å lese mer om hvordan du legger til et bilde for en modell.
 
 _Modellminiatyr_ Når det er lagt til, vises bildet som et miniatyr for modellen i navnekolonnen i modelltabellen på modellsiden.
 
@@ -62,7 +62,7 @@ De ulike medlemmene som har lastet opp revisjoner og dermed bidratt til modellen
 
 ## 3. **Modelltransformasjon**
 
-Med modelltransformasjon kan modellelementer konfigureres til å vises på en annen plassering og orientering i Catenda Hub 3D-visningen. Denne transformasjonen gjelder kun for modeller i 3D-visningen og ikke 3D-dokumenter som er lastet inn i 3D-visningen. Klikk [her](https://support.catenda.com/nb/articles/12498975-add-context-to-your-projects-with-freely-accessible-ign-point-clouds-hd-lidar) for å lese mer om transformasjonen av 3D-dokumenter.
+Med modelltransformasjon kan modellelementer konfigureres til å vises på en annen plassering og orientering i Catenda Hub 3D-visningen. Denne transformasjonen gjelder kun for modeller i 3D-visningen og ikke 3D-dokumenter som er lastet inn i 3D-visningen. Klikk [her](https://support.catenda.com/nb/articles/12498975-legg-til-gratis-ign-punktskyer-hd-lidar-i-et-prosjekt) for å lese mer om transformasjonen av 3D-dokumenter.
 
 _Utbytte av modeller med eksterne verktøy_ Modeller lastes ofte ned fra Catenda og åpnes i et tredjepartsprogram. Det er derfor fortsatt viktig å ha de riktige koordinatene konfigurert i IFC-filen før opplasting, slik at den nedlastede filen inneholder riktig informasjon.
 

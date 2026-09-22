@@ -1,6 +1,6 @@
 # Catenda Revit-plugin
 
-> **Merk:** Installasjonfilen for plugin-en finner du i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-and-integrations).
+> **Merk:** Installasjonfilen for plugin-en finner du i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-og-integrasjoner).
 
 Catenda Revit-plugin er en plugin som kan installeres for Autodesk Revit. Med denne plugin-en kan du samarbeide om 3D-visningspunkter, saker og dokumenter med andre medlemmer av byggprosjektet
 
@@ -60,13 +60,13 @@ Logg inn med din Catenda-e-postadresse og passord.
 
 <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-703202eeb52b.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-3e163e70c122.png" width="180"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/inline-3b6b4eaa010e.png" width="180"/>
 
-Hvis du har MFA aktivert for kontoen din, blir du bedt om å fylle inn MFA-koden din. Klikk [her](https://support.catenda.com/nb/articles/7891486-sign-in-page) for å lese mer om påloggingssiden.
+Hvis du har MFA aktivert for kontoen din, blir du bedt om å fylle inn MFA-koden din. Klikk [her](https://support.catenda.com/nb/articles/7891486-paloggingsside) for å lese mer om påloggingssiden.
 
 Klikk på "Tillat tilgang" for å tillate Revit-plugin for Bimsync Arena å få tilgang til Catenda Hub-kontoen din.
 
 ### 3.1 **Opphev tilgang**
 
-Tilgang til Catenda Hub-kontoen din kan oppheves når som helst ved å gå til Catenda Hub [programside](https://support.catenda.com/nb/articles/6880968-account-page#h_40e031c49a) og klikke på "Opphev tilgang" ved siden av "Revit-plugin for Bimsync Arena".
+Tilgang til Catenda Hub-kontoen din kan oppheves når som helst ved å gå til Catenda Hub [programside](https://support.catenda.com/nb/articles/6880968-kontosida#h_40e031c49a) og klikke på "Opphev tilgang" ved siden av "Revit-plugin for Bimsync Arena".
 
 ## 4. **Saksliste**
 
@@ -96,7 +96,7 @@ Plugin-handlingene finner du øverst til høyre:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xjh922f7/08-actions.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/13168755-actions-in-the-catenda-revit-plugin) for å lese mer om de ulike handlingene i Catenda Revit-plugin.
+Klikk [her](https://support.catenda.com/nb/articles/13168755-handlinger-i-catenda-revit-pluginen) for å lese mer om de ulike handlingene i Catenda Revit-plugin.
 
 ### 4.4 **Saksvalg**
 

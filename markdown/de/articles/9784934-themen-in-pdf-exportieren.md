@@ -1,6 +1,6 @@
 # Themen in PDF exportieren
 
-Themen können in PDF exportiert werden, indem Sie auf die PDF-Option im [Dialog "Themen exportieren"](https://support.catenda.com/de/articles/4670289-exchange-topics#h_aa0b8d7789) klicken. Der PDF-Export ermöglicht es Ihnen, einen Bericht über Ihre Themen zu exportieren. Diese Exportoption ist nützlich, um eine leicht lesbare Version von Themen zu erhalten und kann für Archivierungszwecke oder zur Meldung an Behörden verwendet werden.
+Themen können in PDF exportiert werden, indem Sie auf die PDF-Option im [Dialog "Themen exportieren"](https://support.catenda.com/de/articles/4670289-themen-austausch#h_aa0b8d7789) klicken. Der PDF-Export ermöglicht es Ihnen, einen Bericht über Ihre Themen zu exportieren. Diese Exportoption ist nützlich, um eine leicht lesbare Version von Themen zu erhalten und kann für Archivierungszwecke oder zur Meldung an Behörden verwendet werden.
 
 Diese Seite enthält Informationen zu den folgenden Themen:
 
@@ -10,11 +10,11 @@ Diese Einstellungen beeinflussen alle Seiten des PDF
 
 ### 1.1 **Logo**
 
-Das Logo oben links auf jeder Seite des PDF ist standardmäßig das Catenda-Logo. Wenn Sie auf das Logo oder auf hub.catenda.com oben rechts klicken, gelangen Sie zur Projektseite. Sie können ein benutzerdefiniertes Logo auf der [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-project-settings-page) hochladen, um Ihr eigenes Logo hier anzeigen zu lassen.
+Das Logo oben links auf jeder Seite des PDF ist standardmäßig das Catenda-Logo. Wenn Sie auf das Logo oder auf hub.catenda.com oben rechts klicken, gelangen Sie zur Projektseite. Sie können ein benutzerdefiniertes Logo auf der [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen) hochladen, um Ihr eigenes Logo hier anzeigen zu lassen.
 
 ### 1.2 **Sprache**
 
-Der PDF-Export erfolgt in der Sprache, die Sie in Ihren [Kontoeinstellungen](https://support.catenda.com/de/articles/6880968-account-page#h_4aa257b72f) konfiguriert haben.
+Der PDF-Export erfolgt in der Sprache, die Sie in Ihren [Kontoeinstellungen](https://support.catenda.com/de/articles/6880968-kontoseite#h_4aa257b72f) konfiguriert haben.
 
 ### 1.3 **Themenreihenfolge**
 
@@ -78,7 +78,7 @@ Die folgenden Header sind enthalten:
 
 **Meilenstein** Meilensteine sind nicht im PDF-Export enthalten.
 
-**Marker** Klicken Sie [hier](https://support.catenda.com/de/articles/4854523-2d-location-of-topics), um mehr über den Export von 2D-Speicherort in PDF zu erfahren.
+**Marker** Klicken Sie [hier](https://support.catenda.com/de/articles/4854523-2d-position-von-themen), um mehr über den Export von 2D-Speicherort in PDF zu erfahren.
 
 ### 3.4 **Themenbezüge**
 
@@ -100,4 +100,4 @@ Wenn Kommentare zum Thema eingefügt wurden, werden Sie hier angezeigt. Zuerst s
 
 ## 4. **Berichtseite**
 
-Über die Berichtseite ist es möglich, benutzerdefinierte Berichte nicht nur zu Themen, sondern auch zu Dokumenten zu erstellen. Die Berichtseite ist eine On-Demand-Funktion, die für laufende Projekte aktiviert werden kann. Neue Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt wurden, bei dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert. Diese Berichte können dann nicht nur in Excel und PDF, sondern auch in vielen anderen Dateiformaten exportiert werden. Diese Berichte können auch Themen von mehreren Themen-Boards gleichzeitig exportieren. Klicken Sie [hier](https://support.catenda.com/de/articles/12303098-reports-page), um mehr über die Berichtseite zu erfahren
+Über die Berichtseite ist es möglich, benutzerdefinierte Berichte nicht nur zu Themen, sondern auch zu Dokumenten zu erstellen. Die Berichtseite ist eine On-Demand-Funktion, die für laufende Projekte aktiviert werden kann. Neue Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt wurden, bei dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert. Diese Berichte können dann nicht nur in Excel und PDF, sondern auch in vielen anderen Dateiformaten exportiert werden. Diese Berichte können auch Themen von mehreren Themen-Boards gleichzeitig exportieren. Klicken Sie [hier](https://support.catenda.com/de/articles/12303098-berichterstattungsseite), um mehr über die Berichtseite zu erfahren

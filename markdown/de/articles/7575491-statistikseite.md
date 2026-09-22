@@ -1,6 +1,6 @@
 # Statistikseite
 
-Die Statistikseite finden Sie als Unterseite der [Themen-Seite](https://support.catenda.com/de/articles/4670271-issues-page).
+Die Statistikseite finden Sie als Unterseite der [Themen-Seite](https://support.catenda.com/de/articles/4670271-themen-seite).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2s7g3kx3/01-intro.png)
 

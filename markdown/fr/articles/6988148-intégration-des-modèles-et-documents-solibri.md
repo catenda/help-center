@@ -165,7 +165,7 @@ Appuyez sur Annuler si vous souhaitez terminer le processus d'importation.
 
 ## 8. **Octroyer l'accès à votre compte Catenda**
 
-Si vous n'êtes pas encore connecté à Catenda, vous serez invité à [vous connecter](https://support.catenda.com/fr/articles/7891486-sign-in-page). Après l'ouverture pour la première fois, après vous être connecté ou si vous étiez déjà connecté, vous serez invité à autoriser l'accès à votre compte Catenda :
+Si vous n'êtes pas encore connecté à Catenda, vous serez invité à [vous connecter](https://support.catenda.com/fr/articles/7891486-page-de-connexion). Après l'ouverture pour la première fois, après vous être connecté ou si vous étiez déjà connecté, vous serez invité à autoriser l'accès à votre compte Catenda :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/19-granting-access-to-your-catenda-account.png)
 
@@ -181,7 +181,7 @@ Les documents qui ont été liés depuis Catenda dans Solibri peuvent différer 
 
 ### 9.1 **Colonne Nom**
 
-Le nom du modèle peut prendre du temps à se mettre à jour, mais finira par changer pour refléter le nombre de révisions du document sur Catenda. Si votre organisation a défini une préférence pour le nom de téléchargement de votre document, vous pourriez trouver un nom différent ici. Par exemple, il est possible de demander le nom du document sans l'option de révision. Notez que cela doit être demandé par l'organisation pour tous les fichiers téléchargés dans leurs projets. Vous pouvez voir les différentes options de nom de téléchargement pour les organisations [ici](https://support.catenda.com/fr/articles/8224886-organization-options).
+Le nom du modèle peut prendre du temps à se mettre à jour, mais finira par changer pour refléter le nombre de révisions du document sur Catenda. Si votre organisation a défini une préférence pour le nom de téléchargement de votre document, vous pourriez trouver un nom différent ici. Par exemple, il est possible de demander le nom du document sans l'option de révision. Notez que cela doit être demandé par l'organisation pour tous les fichiers téléchargés dans leurs projets. Vous pouvez voir les différentes options de nom de téléchargement pour les organisations [ici](https://support.catenda.com/fr/articles/8224886-options-d-organisation).
 
 ### 9.2 **Colonne Version**
 

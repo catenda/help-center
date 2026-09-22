@@ -9,42 +9,42 @@ Op pagina's waar meerdere elementen worden weergegeven, wordt informatie vaak in
 In de volgende tabellen wordt alle informatie standaard weergegeven
 
 - Inspectpaneel
-  - [Hoeveelheid opname (QTO)](https://support.catenda.com/nl/articles/6673929-quantity-take-off-qto)
-  - [Uitlijningen](https://support.catenda.com/nl/articles/4670285-inspect-menu#h_9f512a0264)
-  - [4D](https://support.catenda.com/nl/articles/8238584-information-panel#h_e6adda9c62)
+  - [Hoeveelheid opname (QTO)](https://support.catenda.com/nl/articles/6673929-hoeveelheid-opmeten-qto)
+  - [Uitlijningen](https://support.catenda.com/nl/articles/4670285-inspectmenu#h_9f512a0264)
+  - [4D](https://support.catenda.com/nl/articles/8238584-informatiepaneel#h_e6adda9c62)
   - Naamgevingsconventies
 - Bibliotheken
-  - [Koppelingenbibliotheek](https://support.catenda.com/nl/articles/4670254-links-library)
-  - [Sharepoint-bibliotheek](https://support.catenda.com/nl/articles/5744548-sharepoint-library)
-  - [Dropbox-bibliotheek](https://support.catenda.com/nl/articles/8065645-libraries-page)
-  - [Bibliotheek eigenschapswaarde](https://support.catenda.com/nl/articles/4670252-property-value-library)
-  - [Classificatiebibliotheek](https://support.catenda.com/nl/articles/4670255-classification-library)
+  - [Koppelingenbibliotheek](https://support.catenda.com/nl/articles/4670254-koppelingen-bibliotheek)
+  - [Sharepoint-bibliotheek](https://support.catenda.com/nl/articles/5744548-sharepoint-bibliotheek)
+  - [Dropbox-bibliotheek](https://support.catenda.com/nl/articles/8065645-bibliotheek-pagina)
+  - [Bibliotheek eigenschapswaarde](https://support.catenda.com/nl/articles/4670252-bibliotheek-eigenschapwaarde)
+  - [Classificatiebibliotheek](https://support.catenda.com/nl/articles/4670255-classificatiebibliotheek)
 - Organisatiegereedschap
-  - [Gebruikerspagina](https://support.catenda.com/nl/articles/8508311-users-page-organization-tool)
-  - [Projectenpagina](https://support.catenda.com/nl/articles/8505058-projects-page-organization-tool)
-  - [Pagina projectlidmaatschap](https://support.catenda.com/nl/articles/9003642-project-memberships-organization-tool)
+  - [Gebruikerspagina](https://support.catenda.com/nl/articles/8508311-gebruikerspagina-organisatietool)
+  - [Projectenpagina](https://support.catenda.com/nl/articles/8505058-projectpagina-organisatietool)
+  - [Pagina projectlidmaatschap](https://support.catenda.com/nl/articles/9003642-projectleden-organisatietool)
 
 In de volgende tabellen wordt een standaardconfiguratie weergegeven wanneer de pagina wordt geladen:
 
 - Modellen
-  - [Objectenpagina](https://support.catenda.com/nl/articles/12352750-objects-page)
+  - [Objectenpagina](https://support.catenda.com/nl/articles/12352750-objectenpagina)
 
 In de volgende tabellen worden wijzigingen aan de standaardtabelconfiguratie weergegeven wanneer de pagina wordt geladen:
 
-- [Onderwerpen](https://support.catenda.com/nl/articles/6941099-columns-on-the-topics-page) (Tabelweergave)
-- [Modellen](https://support.catenda.com/nl/articles/4670286-models-page) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
-- [Documenten](https://support.catenda.com/nl/articles/8466850-columns-on-the-documents-page) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
-  - [Overzicht documenttoegang](https://support.catenda.com/nl/articles/6660820-document-access-overview-acl-dashboard)
-- [Rapporten](https://support.catenda.com/nl/articles/12303098-reports-page) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
-- [Labels](https://support.catenda.com/nl/articles/4670265-labels-page) (Tab Labels, Tab Groep)
-- [Aangepaste velden](https://support.catenda.com/nl/articles/6550459-custom-fields-page)
-- [Ledenpagina](https://support.catenda.com/nl/articles/11926821-members-page) (Tab Leden, Tab Teams)
+- [Onderwerpen](https://support.catenda.com/nl/articles/6941099-tabelweergave-in-een-topic-board) (Tabelweergave)
+- [Modellen](https://support.catenda.com/nl/articles/4670286-modellapagina) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
+- [Documenten](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
+  - [Overzicht documenttoegang](https://support.catenda.com/nl/articles/6660820-pagina-document-toegangsoverzicht)
+- [Rapporten](https://support.catenda.com/nl/articles/12303098-rapportenpagina) (Basisweergave, Tab Gepubliceerd, Tab Werkruimte)
+- [Labels](https://support.catenda.com/nl/articles/4670265-pagina-labels) (Tab Labels, Tab Groep)
+- [Aangepaste velden](https://support.catenda.com/nl/articles/6550459-pagina-eigen-velden)
+- [Ledenpagina](https://support.catenda.com/nl/articles/11926821-pagina-leden) (Tab Leden, Tab Teams)
 
 Wijzigingen in de tabelconfiguratie worden alleen toegepast op de persoon die de wijziging aanbrengt en niet voor alle leden in het project. Wanneer een wijziging in een tabel wordt aangebracht, heeft de wijziging invloed op de weergave van die tabel in alle projecten.
 
 De onderstaande tabel beschrijft instellingen die kunnen worden geconfigureerd voor een tabel.
 
-<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="padding: 8px;"><h1 id="h_aa1a623a85">Voorkeuren</h1></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1eedf14b1">Wat</h2></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_691544b252">Waar</h2></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fa7d3a8228">Kolomvoorbeeld</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Voor elke tabel is standaard een bepaald aantal kolommen ingeschakeld.</p><p>Tabellen met veel kolommen kunnen kolommen bevatten die standaard zijn uitgeschakeld.</p><p>Kolommen die standaard zijn uitgeschakeld, moeten met de kolomkeuzelijst worden ingeschakeld om te worden weergegeven</p><div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;"><p><b>Opmerking:</b> Aangepaste kolommen, zoals kolommen voor aangepaste velden, zijn altijd verborgen wanneer de pagina wordt geladen.</p></div></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolomkeuzelijst</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_ea66b1d6d8">Gesorteerde kolom en sorteerrichting</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Tabellen kunnen tegelijk op één kolom worden gesorteerd. Klik op de koptekstrij van een sorteerbare kolom om te configureren op welke kolom de tabel wordt gesorteerd en in welke richting.</p><p>Nadat u op een kolom hebt gesorteerd, worden de rijen in de tabel opnieuw geordend volgens de <a class="intercom-content-link" href="https://support.catenda.com/nl/articles/8487788-sorting-order-of-lists">typische sorteerregels op Catenda</a>.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Koptekstrij</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_321a81f32f">Kolomvolgorde</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolommen hebben standaard een vaste volgorde.</p><p>Het wijzigen van de volgorde van kolommen wijzigt de geconfigureerde kolomvolgorde</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolomkeuzelijst en koptekstrij</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_feb5f7b2ab">Kolombreedte</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Standaard kolombreedte wordt aangepast om vitale delen van de kolominhoud weer te geven.</p><p>Standaard geven kolommen daarom mogelijk niet de volledige inhoud van een kolom weer</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Koptekstrij</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7a5beb9bd0">Rijhoogte</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>De rijhoogte kan worden gewijzigd met de rijhoogknoppen in de linkerbovenhoek van een tabel.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Tabelzichtbaarheidinstellingen</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1fe2adb04">Pop-over rechtermenu</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nadat u een rij hebt geselecteerd en het rechtermenu op een pagina hebt geopend, wordt het rechtermenu de volgende keer dat u een rij selecteert, opnieuw geopend totdat het is gesloten.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Knop rechtermenu</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f502376bea">Enkel paneel of meerpaneel</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Elke tabel heeft twee configuraties.</p><p>Eén wanneer de tabel het enige geopende paneel is en één wanneer meerdere panelen zijn geopend.</p><p><br/>​</p><p></p><p><i>Configuratie met één paneel</i></p><p>Als een tabel zich in het inhoudbereik bevindt en het inhoudbereik het enige geopende paneel is, wordt de configuratie met één paneel weergegeven.</p><p><br/>​</p><p></p><p><i>Configuratie met meerdere panelen</i></p><p>Als een tabel zich in het inhoudbereik bevindt en tegelijkertijd een ander paneel, zoals het 3D- of informatievenster, is geopend, wordt de configuratie met meerdere panelen weergegeven.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Paneelknop</p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="padding: 8px;"><h1 id="h_aa1a623a85">Voorkeuren</h1></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1eedf14b1">Wat</h2></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_691544b252">Waar</h2></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fa7d3a8228">Kolomvoorbeeld</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Voor elke tabel is standaard een bepaald aantal kolommen ingeschakeld.</p><p>Tabellen met veel kolommen kunnen kolommen bevatten die standaard zijn uitgeschakeld.</p><p>Kolommen die standaard zijn uitgeschakeld, moeten met de kolomkeuzelijst worden ingeschakeld om te worden weergegeven</p><div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;"><p><b>Opmerking:</b> Aangepaste kolommen, zoals kolommen voor aangepaste velden, zijn altijd verborgen wanneer de pagina wordt geladen.</p></div></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolomkeuzelijst</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_ea66b1d6d8">Gesorteerde kolom en sorteerrichting</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Tabellen kunnen tegelijk op één kolom worden gesorteerd. Klik op de koptekstrij van een sorteerbare kolom om te configureren op welke kolom de tabel wordt gesorteerd en in welke richting.</p><p>Nadat u op een kolom hebt gesorteerd, worden de rijen in de tabel opnieuw geordend volgens de <a class="intercom-content-link" href="https://support.catenda.com/nl/articles/8487788-sortingsvolgorde-van-lijsten">typische sorteerregels op Catenda</a>.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Koptekstrij</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_321a81f32f">Kolomvolgorde</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolommen hebben standaard een vaste volgorde.</p><p>Het wijzigen van de volgorde van kolommen wijzigt de geconfigureerde kolomvolgorde</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Kolomkeuzelijst en koptekstrij</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_feb5f7b2ab">Kolombreedte</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Standaard kolombreedte wordt aangepast om vitale delen van de kolominhoud weer te geven.</p><p>Standaard geven kolommen daarom mogelijk niet de volledige inhoud van een kolom weer</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Koptekstrij</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7a5beb9bd0">Rijhoogte</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>De rijhoogte kan worden gewijzigd met de rijhoogknoppen in de linkerbovenhoek van een tabel.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Tabelzichtbaarheidinstellingen</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1fe2adb04">Pop-over rechtermenu</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Nadat u een rij hebt geselecteerd en het rechtermenu op een pagina hebt geopend, wordt het rechtermenu de volgende keer dat u een rij selecteert, opnieuw geopend totdat het is gesloten.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Knop rechtermenu</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f502376bea">Enkel paneel of meerpaneel</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Elke tabel heeft twee configuraties.</p><p>Eén wanneer de tabel het enige geopende paneel is en één wanneer meerdere panelen zijn geopend.</p><p><br/>​</p><p></p><p><i>Configuratie met één paneel</i></p><p>Als een tabel zich in het inhoudbereik bevindt en het inhoudbereik het enige geopende paneel is, wordt de configuratie met één paneel weergegeven.</p><p><br/>​</p><p></p><p><i>Configuratie met meerdere panelen</i></p><p>Als een tabel zich in het inhoudbereik bevindt en tegelijkertijd een ander paneel, zoals het 3D- of informatievenster, is geopend, wordt de configuratie met meerdere panelen weergegeven.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Paneelknop</p></td></tr></tbody></table></div>
 
 ## 2. Selectie-overzicht
 
@@ -68,9 +68,9 @@ Nadat u een rij in de tabel hebt geselecteerd of de inhoud van een rij hebt geop
 
 Het menu met geselecteerde itemacties kan verschillende acties bevatten, afhankelijk van de inhoud van de rij en de toegang van de gebruiker die selecteert. De mogelijke acties voor elke tabel zijn hier te vinden:
 
-- [Geselecteerde itemacties onderwerpenboard](https://support.catenda.com/nl/articles/4670284-topic-board-actions#h_b5c00c149b)
-- [Geselecteerde itemacties modelenpagina](https://support.catenda.com/nl/articles/9431936-models-page-actions#h_9c268c45ed)
-- [Geselecteerde itemacties documentenpagina](https://support.catenda.com/nl/articles/4670288-document-structure-actions#h_fb4e9ef375)
+- [Geselecteerde itemacties onderwerpenboard](https://support.catenda.com/nl/articles/4670284-tabel-acties-onderwerpen#h_b5c00c149b)
+- [Geselecteerde itemacties modelenpagina](https://support.catenda.com/nl/articles/9431936-acties-op-de-pagina-modellen#h_9c268c45ed)
+- [Geselecteerde itemacties documentenpagina](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_fb4e9ef375)
 
 ### 2.4 Alles deselecteren
 
@@ -180,7 +180,7 @@ Als een kolom kan worden gesorteerd, kan er een pijl omhoog/omlaag aan de rechte
 
 **Sorteerpijlen** Sorteerpijlen kunnen aangeven welke kolom momenteel wordt gesorteerd. Sorteerpijlen kunnen aangeven in welke richting de rijen worden gesorteerd.
 
-**Klikken om te sorteren** Klik op de kopcel van een sorteerbare kolom om de tabelrijen volgens die kolom te sorteren. Nadat u een kolom hebt gesorteerd, worden de rijen in de tabel opnieuw gerangschikt volgens de [standaard sorteervolgorde in Catenda](https://support.catenda.com/nl/articles/8487788-sorting-order-of-lists). Klik opnieuw op de kopcel van de gesorteerde kolom om deze in de tegengestelde richting te sorteren. Het sorteren van een kolom werkt de sorteervoorkeur voor de tabel bij.
+**Klikken om te sorteren** Klik op de kopcel van een sorteerbare kolom om de tabelrijen volgens die kolom te sorteren. Nadat u een kolom hebt gesorteerd, worden de rijen in de tabel opnieuw gerangschikt volgens de [standaard sorteervolgorde in Catenda](https://support.catenda.com/nl/articles/8487788-sortingsvolgorde-van-lijsten). Klik opnieuw op de kopcel van de gesorteerde kolom om deze in de tegengestelde richting te sorteren. Het sorteren van een kolom werkt de sorteervoorkeur voor de tabel bij.
 
 > **Opmerking:** Tabellen kunnen slechts op één kolom tegelijk worden gesorteerd
 
@@ -251,26 +251,26 @@ Wanneer het sleepankerpunt op een interactieve rij wordt vrijgegeven, kan het di
 Het is mogelijk om kolommen in de volgende tabellen te verplaatsen:
 
 - Modellen
-  - [Objecten pagina](https://support.catenda.com/nl/articles/12352750-objects-page)
+  - [Objecten pagina](https://support.catenda.com/nl/articles/12352750-objectenpagina)
 
 - Organisatietools
-  - [Projectpagina](https://support.catenda.com/nl/articles/8505058-projects-page-organization-tool)
-  - [Pagina projectlidmaatschap](https://support.catenda.com/nl/articles/9003642-project-memberships-organization-tool)
+  - [Projectpagina](https://support.catenda.com/nl/articles/8505058-projectpagina-organisatietool)
+  - [Pagina projectlidmaatschap](https://support.catenda.com/nl/articles/9003642-projectleden-organisatietool)
 
-- [Onderwerpen](https://support.catenda.com/nl/articles/6941099-columns-on-the-topics-page) (Tabelweergave)
+- [Onderwerpen](https://support.catenda.com/nl/articles/6941099-tabelweergave-in-een-topic-board) (Tabelweergave)
 
-- [Modellen](https://support.catenda.com/nl/articles/4670286-models-page) (Basisweergave, Publicatie tab, Werkruimte tab)
+- [Modellen](https://support.catenda.com/nl/articles/4670286-modellapagina) (Basisweergave, Publicatie tab, Werkruimte tab)
 
-- [Documenten](https://support.catenda.com/nl/articles/8466850-columns-on-the-documents-page) (Basisweergave, Publicatie tab, Werkruimte tab)
-  - [Documenttoegangenoverzicht](https://support.catenda.com/nl/articles/6660820-document-access-overview-acl-dashboard)
+- [Documenten](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina) (Basisweergave, Publicatie tab, Werkruimte tab)
+  - [Documenttoegangenoverzicht](https://support.catenda.com/nl/articles/6660820-pagina-document-toegangsoverzicht)
 
-- [Rapporten](https://support.catenda.com/nl/articles/12303098-reports-page) (Basisweergave, Publicatie tab, Werkruimte tab)
+- [Rapporten](https://support.catenda.com/nl/articles/12303098-rapportenpagina) (Basisweergave, Publicatie tab, Werkruimte tab)
 
-- [Labels](https://support.catenda.com/nl/articles/4670265-labels-page) (Labels tab, Groep tab)
+- [Labels](https://support.catenda.com/nl/articles/4670265-pagina-labels) (Labels tab, Groep tab)
 
-- [Aangepaste velden](https://support.catenda.com/nl/articles/6550459-custom-fields-page)
+- [Aangepaste velden](https://support.catenda.com/nl/articles/6550459-pagina-eigen-velden)
 
-- [Ledenpagina](https://support.catenda.com/nl/articles/11926821-members-page) (Leden tab, Teams tab)
+- [Ledenpagina](https://support.catenda.com/nl/articles/11926821-pagina-leden) (Leden tab, Teams tab)
 
 ## 9. Interactie met rijen door aanwijzen
 

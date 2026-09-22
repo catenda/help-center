@@ -1,6 +1,6 @@
 # Page des modèles de topic - Legacy
 
-La page des modèles de topic se trouve en cliquant sur l'action modèles de topic dans le menu d'actions en haut à droite de la [page paramètres de topic](https://support.catenda.com/fr/articles/12367293-approval-settings-page#h_320e990d50). _Accès requis_ : Administrateur
+La page des modèles de topic se trouve en cliquant sur l'action modèles de topic dans le menu d'actions en haut à droite de la [page paramètres de topic](https://support.catenda.com/fr/articles/12367293-page-des-parametres-d-approbation-heritage#h_320e990d50). _Accès requis_ : Administrateur
 
 Voici à quoi peut ressembler la page des modèles de topics :
 
@@ -20,7 +20,7 @@ Voici à quoi peuvent ressembler les actions de la page des modèles de topics l
 
 ### 1.1 **Nouveau modèle de topic**
 
-Cliquez sur l'action nouveau modèle de topic pour créer un nouveau modèle de topic. Cliquez [ici](https://support.catenda.com/fr/articles/12372007-creating-a-new-topic-template) pour en savoir plus sur la création de nouveaux modèles de topics.
+Cliquez sur l'action nouveau modèle de topic pour créer un nouveau modèle de topic. Cliquez [ici](https://support.catenda.com/fr/articles/12372007-creer-un-nouveau-gabarit-de-sujet-herite) pour en savoir plus sur la création de nouveaux modèles de topics.
 
 ### 1.2 **Modèles de topics / Modèles de topics archivés**
 
@@ -28,7 +28,7 @@ Cliquez sur les actions modèles de topics et modèles de topics archivés pour 
 
 ## 2. **Carte de modèle de topic**
 
-Une fois qu'un modèle de topic est créé, une carte pour le modèle de topic apparaît sur cette page. Cliquez sur une carte de modèle de topic pour ouvrir la [page du modèle de topic](https://support.catenda.com/fr/articles/12371549-topic-template-page) de ce modèle de topic. Voici à quoi peut ressembler une carte de modèle de topic :
+Une fois qu'un modèle de topic est créé, une carte pour le modèle de topic apparaît sur cette page. Cliquez sur une carte de modèle de topic pour ouvrir la [page du modèle de topic](https://support.catenda.com/fr/articles/12371549-page-de-template-topic-herite) de ce modèle de topic. Voici à quoi peut ressembler une carte de modèle de topic :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/04-topic-template-card.png)
 

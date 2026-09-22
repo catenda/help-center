@@ -1,10 +1,10 @@
 # Flux de travail des statuts - Paramètres des documents
 
-Voici à quoi peut ressembler le menu de flux de travail des statuts sur la [page des paramètres des documents](https://support.catenda.com/fr/articles/7831371-document-settings-page) pour les projets qui ont activé les révisions partagées après le 2 octobre 2025. Dans les nouveaux projets, le flux de travail des statuts est désactivé par défaut. Voici à quoi peut ressembler le menu de flux de travail des statuts :
+Voici à quoi peut ressembler le menu de flux de travail des statuts sur la [page des paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document) pour les projets qui ont activé les révisions partagées après le 2 octobre 2025. Dans les nouveaux projets, le flux de travail des statuts est désactivé par défaut. Voici à quoi peut ressembler le menu de flux de travail des statuts :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/01-intro.png)
 
-Les projets créés sur la base d'un [projet modèle](https://support.catenda.com/fr/articles/4670245-creating-a-new-project#h_5db32e5398) et les projets qui ont activé les révisions partagées avant le 2 octobre 2025 verront le menu de flux de travail des statuts hérité.
+Les projets créés sur la base d'un [projet modèle](https://support.catenda.com/fr/articles/4670245-creer-un-nouveau-projet#h_5db32e5398) et les projets qui ont activé les révisions partagées avant le 2 octobre 2025 verront le menu de flux de travail des statuts hérité.
 
 ## 1. **Statuts partagés**
 
@@ -75,7 +75,7 @@ Les statuts archivés peuvent toujours être restaurés en cliquant sur "Affiche
 
 ## 5. Statut par défaut
 
-Le statut qui est listé par défaut lors de l'utilisation de l'action de publication pour une révision partagée. Un statut différent peut toujours être sélectionné avant la publication. Les révisions partagées peuvent également être publiées via [les demandes d'approbation](https://support.catenda.com/fr/articles/12494960-open-or-closed-approval-request-page). Selon le flux de travail que le demandeur a sélectionné au nom de son équipe de demandeurs, lorsqu'un membre effectue une validation finale au nom de l'équipe de validation finale, la révision publiée, le statut du document changera en fonction de la configuration du flux de travail.
+Le statut qui est listé par défaut lors de l'utilisation de l'action de publication pour une révision partagée. Un statut différent peut toujours être sélectionné avant la publication. Les révisions partagées peuvent également être publiées via [les demandes d'approbation](https://support.catenda.com/fr/articles/12494960-page-de-demande-de-validation-ouverte-ou-fermee). Selon le flux de travail que le demandeur a sélectionné au nom de son équipe de demandeurs, lorsqu'un membre effectue une validation finale au nom de l'équipe de validation finale, la révision publiée, le statut du document changera en fonction de la configuration du flux de travail.
 
 ## 6. Menu de téléchargement
 

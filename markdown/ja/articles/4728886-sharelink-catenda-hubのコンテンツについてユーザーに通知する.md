@@ -2,7 +2,7 @@
 
 > 必要で重要な場合はユーザーに手動で通知します。
 
-プロフィール写真の横にある[ページの右上](https://support.catenda.com/ja/articles/4670260-landing-page#h_7e60f1b700)のShareLinkボタンを見つけてください。
+プロフィール写真の横にある[ページの右上](https://support.catenda.com/ja/articles/4670260-アカウントボタン#h_7e60f1b700)のShareLinkボタンを見つけてください。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/01-intro.png)
 

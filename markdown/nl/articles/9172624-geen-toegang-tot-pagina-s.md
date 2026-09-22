@@ -108,7 +108,7 @@ Een ander reden hiervoor kan zijn dat er geen openbare revisies in het document 
 
 ### 4.4 **Ingetrokken documentrevisie**
 
-[https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx) Een documentrevisie kan [worden ingetrokken](https://support.catenda.com/nl/articles/9711174-withdraw-revision) met de [revisieactie intrekken](https://support.catenda.com/nl/articles/8302244-right-menu-in-a-document). U zult opmerken dat de naam van de ingetrokken revisie doorgestreept wordt.
+[https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx) Een documentrevisie kan [worden ingetrokken](https://support.catenda.com/nl/articles/9711174-revisie-intrekken) met de [revisieactie intrekken](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie). U zult opmerken dat de naam van de ingetrokken revisie doorgestreept wordt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/14-withdrawn-document-revision.png)
 
@@ -150,7 +150,7 @@ Dit kan verschijnen wanneer u probeert een link naar een map te volgen die niet 
 
 ### 5.3 **Modelrevisie ingetrokken**
 
-Als een modelrevisie is [ingetrokken](https://support.catenda.com/nl/articles/9711174-withdraw-revision), ziet u de naam ervan doorgestreept. Als de nieuwste revisie is ingetrokken, ziet u een waarschuwing op de modelspagina.
+Als een modelrevisie is [ingetrokken](https://support.catenda.com/nl/articles/9711174-revisie-intrekken), ziet u de naam ervan doorgestreept. Als de nieuwste revisie is ingetrokken, ziet u een waarschuwing op de modelspagina.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/20-model-revision-withdrawn.png)
 

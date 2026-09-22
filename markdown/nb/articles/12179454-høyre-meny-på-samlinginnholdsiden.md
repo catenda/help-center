@@ -1,6 +1,6 @@
 # Høyre meny på samlinginnholdsiden
 
-Høyre meny finner du øverst til høyre på samlingbanneret under handlingsmenyen på [samlinginnholdsiden](https://support.catenda.com/nb/articles/8999764-collection-content-page). Klikk på "i"-ikonet øverst til høyre for å åpne høyre meny for en samling. _Tilgang kreves:_ Samlingoppretter eller administrator
+Høyre meny finner du øverst til høyre på samlingbanneret under handlingsmenyen på [samlinginnholdsiden](https://support.catenda.com/nb/articles/8999764-samlinginnholdside). Klikk på "i"-ikonet øverst til høyre for å åpne høyre meny for en samling. _Tilgang kreves:_ Samlingoppretter eller administrator
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/01-intro.png)
 

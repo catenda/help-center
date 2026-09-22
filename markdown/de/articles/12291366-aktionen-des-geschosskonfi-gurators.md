@@ -1,6 +1,6 @@
 # Aktionen des Geschosskonfi gurators
 
-Die Aktion zum Erstellen eines neuen Gebäudes befindet sich oben rechts auf der [Geschosskonfiguratorseite](https://support.catenda.com/de/articles/6921756-storey-configurator-page). Dies ist der Ort, an dem sich die Aktionen auf der Geschosskonfiguratorseite befinden:
+Die Aktion zum Erstellen eines neuen Gebäudes befindet sich oben rechts auf der [Geschosskonfiguratorseite](https://support.catenda.com/de/articles/6921756-geschosskonfigurator-seite). Dies ist der Ort, an dem sich die Aktionen auf der Geschosskonfiguratorseite befinden:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/43a5z00a/01-intro.png)
 
@@ -20,11 +20,11 @@ Im Dialogfeld "Neues Gebäude erstellen" wird ein Initialmodell ausgewählt.
 
 > **Hinweis:** Um ein Modell auswählen zu können, muss mindestens ein Modell im Projekt konfiguriert sein.
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/9431936-models-page-actions#h_4100594482), um mehr über die Erstellung von Modellen zu erfahren. Wenn ein Modell importiert wird, wird eine 2D-Ansicht erzeugt, indem die Objekte des Modells 1,4 Meter über der Höhe jedes Geschosses durchschnitten werden.
+Klicken Sie [hier](https://support.catenda.com/de/articles/9431936-aktionen-auf-der-seite-modelle#h_4100594482), um mehr über die Erstellung von Modellen zu erfahren. Wenn ein Modell importiert wird, wird eine 2D-Ansicht erzeugt, indem die Objekte des Modells 1,4 Meter über der Höhe jedes Geschosses durchschnitten werden.
 
 ### 2.1 **Modelle ohne 2D-Geometrie**
 
-Wenn keine Objekte durchschnitten wurden, ist es nicht möglich, das Modell auszuwählen. Sie können erkennen, dass dies der Fall ist, wenn die [2D-Schaltfläche](https://support.catenda.com/de/articles/4670279-revision-selector#h_180a64490d) beim Öffnen der 2D-Ansicht des Modells nicht aktiviert wird.
+Wenn keine Objekte durchschnitten wurden, ist es nicht möglich, das Modell auszuwählen. Sie können erkennen, dass dies der Fall ist, wenn die [2D-Schaltfläche](https://support.catenda.com/de/articles/4670279-revisions-selector#h_180a64490d) beim Öffnen der 2D-Ansicht des Modells nicht aktiviert wird.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/43a5z00a/04-models-with-no-2d-geometry.png)
 

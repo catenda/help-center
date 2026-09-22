@@ -4,4 +4,4 @@ Met deze nieuwe functie kunt u een algemeen overzicht krijgen van de toegangsrec
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/j53tjkt5/01-intro.gif)
 
-_Meer informatie over het document toegangsoverzicht vindt u [hier](https://intercom.help/bimsync-arena/nl/articles/6660820-document-access-overview) !_
+_Meer informatie over het document toegangsoverzicht vindt u [hier](https://intercom.help/bimsync-arena/nl/articles/6660820-pagina-document-toegangsoverzicht) !_

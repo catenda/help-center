@@ -14,23 +14,23 @@ As new features roll out and bugs are fixed articles are updated with the change
 
 **Getting started and FAQ** [Organization tool FAQ](https://support.catenda.com/en/articles/10475849-organization-tool-faq)
 
-**Topics** [Topic board access control](https://support.catenda.com/en/articles/4670296-topic-board-access-control) [Topic board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings)
+**Topics** [Topic board access control](https://support.catenda.com/en/articles/4670296-topic-board-access-control) [Topic board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings-page)
 
-**Plugins and integrations** [Catenda SharePoint Application - WebPart](https://support.catenda.com/en/articles/10538168-catenda-sharepoint-application-webpart) [Catenda as an application](https://support.catenda.com/en/articles/10695677-catenda-as-an-application) [Add to home screen](https://support.catenda.com/en/articles/10741601-add-to-home-screen) [Home screen system-browser support](https://Home-screen%20system-browser%20support)
+**Plugins and integrations** [Catenda SharePoint Application - WebPart](https://support.catenda.com/en/articles/10538168-catenda-sharepoint-application-webpart) [Catenda as an application](https://support.catenda.com/en/articles/10695677-access-with-limited-screen-space) [Add to home screen](https://support.catenda.com/en/articles/10741601-add-to-home-screen) [Home screen system-browser support](https://Home-screen%20system-browser%20support)
 
 ### 1.2 **Articles that have changed:**
 
-**Getting started** [Getting started on Catenda Hub](https://support.catenda.com/en/articles/9030303-getting-started-on-catenda-hub) [Snapshots](https://support.catenda.com/en/articles/10345863-snapshots) [Hardware recommendation](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Notification filtering and functionality](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality) [Accepting an invitation to join a project](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project) [Creating an account](https://support.catenda.com/en/articles/8412895-creating-an-account)
+**Getting started** [Getting started on Catenda Hub](https://support.catenda.com/en/articles/9030303-step-1-account-setup) [Snapshots](https://support.catenda.com/en/articles/10345863-3d-snapshots) [Hardware recommendation](https://support.catenda.com/en/articles/6921941-hardware-recommendation) [Notification filtering and functionality](https://support.catenda.com/en/articles/8304417-filtering-on-the-notifications-page) [Accepting an invitation to join a project](https://support.catenda.com/en/articles/4670246-accepting-an-invitation-to-join-a-project) [Creating an account](https://support.catenda.com/en/articles/8412895-creating-an-account)
 
-**Frequently asked Questions** [Is there a size limit for IFC files?](https://support.catenda.com/en/articles/4670324-is-there-a-size-limit-for-ifc-files)
+**Frequently asked Questions** [Is there a size limit for IFC files?](https://support.catenda.com/en/articles/4670324-what-file-size-can-i-upload)
 
 **Main page** [Users page - Organization tool](https://support.catenda.com/en/articles/8508311-users-page-organization-tool) [Support bubble location and functionality](https://Support%20button%20location%20and%20functionality)
 
-**Topics** [List view in a topic board](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board) [Table view in a topic board](https://support.catenda.com/en/articles/6941099-table-view-in-an-topic-board) [Topic body - The content of a topic](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
+**Topics** [List view in a topic board](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board) [Table view in a topic board](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board) [Topic body - The content of a topic](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic)
 
-**Documents** [Actions in a document](https://support.catenda.com/en/articles/9323521-actions-in-a-document) [QR-Codes on PDFs in Catenda](https://support.catenda.com/en/articles/9360508-qr-code-on-pdfs-in-catenda)
+**Documents** [Actions in a document](https://support.catenda.com/en/articles/9323521-document-revision-actions) [QR-Codes on PDFs in Catenda](https://support.catenda.com/en/articles/9360508-qr-code-on-pdfs-in-catenda)
 
-**Plugins and integrations** [Catenda Plugins and Integrations](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations) [Catenda SharePoint Application](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application)
+**Plugins and integrations** [Catenda Plugins and Integrations](https://support.catenda.com/en/articles/8396532-catenda-plugins-integrations) [Catenda SharePoint Application](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application)
 
 ## 2. **Bugs Resolved**
 

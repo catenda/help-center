@@ -10,12 +10,12 @@ Aan de linkerkant van de notificatiepagina ziet u uw meest recente notificaties 
 
 ## 1. **Filteren en functionaliteit**
 
-Klik [hier](https://support.catenda.com/nl/articles/8304417-filtering-and-functionality-on-notifications-pages) voor meer informatie over het filteren op verschillende problemen en in welke gevallen u welk type notificatie ontvangt.
+Klik [hier](https://support.catenda.com/nl/articles/8304417-filteren-op-de-notificatiepagina) voor meer informatie over het filteren op verschillende problemen en in welke gevallen u welk type notificatie ontvangt.
 
 ## 2. **E-mailnotificaties**
 
-Als u e-mailnotificaties hebt ingeschakeld, worden deze notificaties naar u verzonden als samenvattingse-mail of als afzonderlijke e-mail per notificatie. Dit kan worden ingesteld in [e-mailnotificatie-instellingen](https://support.catenda.com/nl/articles/8272435-notification-settings#h_75e5db8657). Als u geen e-mails ontvangt, kunt u [dit](https://support.catenda.com/nl/articles/8417802-why-am-i-not-receiving-emails) artikel raadplegen.
+Als u e-mailnotificaties hebt ingeschakeld, worden deze notificaties naar u verzonden als samenvattingse-mail of als afzonderlijke e-mail per notificatie. Dit kan worden ingesteld in [e-mailnotificatie-instellingen](https://support.catenda.com/nl/articles/8272435-accountnotificatie-instellingen#h_75e5db8657). Als u geen e-mails ontvangt, kunt u [dit](https://support.catenda.com/nl/articles/8417802-waarom-ontvang-ik-geen-e-mails) artikel raadplegen.
 
 ## 3. **Notificatie-instellingen**
 
-U kunt [notificatie-instellingen](https://support.catenda.com/nl/articles/8272435-notification-settings) vinden als een subpagina van de notificatiepagina.
+U kunt [notificatie-instellingen](https://support.catenda.com/nl/articles/8272435-accountnotificatie-instellingen) vinden als een subpagina van de notificatiepagina.

@@ -1,6 +1,6 @@
 # Seite Namenskonventionen
 
-Administratoren finden die Seite Namenskonventionen als Unterseite unter [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-project-settings-page).
+Administratoren finden die Seite Namenskonventionen als Unterseite unter [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/01-intro.png)
 
@@ -82,4 +82,4 @@ Eine Konvention hat immer mindestens zwei Blöcke: 1\. Der Name der Datei/des Do
 
 ![Abbrechen Benennungskonvention einreichen](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/11-br-submitting-a-convention.png)
 
-Nach dem Absenden einer Namenskonvention kann diese [pro Ordner aktiviert werden](https://support.catenda.com/de/articles/7831371-document-settings#h_6672c14d90) in [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings).
+Nach dem Absenden einer Namenskonvention kann diese [pro Ordner aktiviert werden](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen#h_6672c14d90) in [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen).

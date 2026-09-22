@@ -12,7 +12,7 @@ Ved å klikke på knappen for nytt element vil du kunne legge til et nytt biblio
 
 ### 1.1 **Dokumentbibliotek**
 
-[Dokumenter](https://support.catenda.com/nb/articles/8204673-documents-page) - Dokumentbiblioteket i dokumentdelen [Lenkerbibliotek](https://support.catenda.com/nb/articles/4670254-links-library) - Koble lenker til objekter og problemer _Dropbox_ - Koble filer fra Dropbox til objekter i BIM
+[Dokumenter](https://support.catenda.com/nb/articles/8204673-dokumenter-side) - Dokumentbiblioteket i dokumentdelen [Lenkerbibliotek](https://support.catenda.com/nb/articles/4670254-lenker-bibliotek) - Koble lenker til objekter og problemer _Dropbox_ - Koble filer fra Dropbox til objekter i BIM
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7wg8652x/03-document-libraries.png)
 
@@ -20,9 +20,9 @@ Etter at du har gitt biblioteket et navn, vil Catenda omdirigere deg til Dropbox
 
 > **Merk:** Catenda vil aldri få tilgang til Dropbox-passordet ditt da OAuth 2.0 brukes for autentisering.
 
-_[Sharepoint](https://support.catenda.com/nb/articles/5744548-sharepoint-library)_ - legg til et Sharepoint-bibliotek i prosjektet. Dette vil tillate medlemmer å vise filene og koble dem til andre.
+_[Sharepoint](https://support.catenda.com/nb/articles/5744548-sharepoint-bibliotek)_ - legg til et Sharepoint-bibliotek i prosjektet. Dette vil tillate medlemmer å vise filene og koble dem til andre.
 
-> **Merk:** Dette er annerledes enn vår [SharePoint-applikasjon](https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-application) som lar medlemmer legge ut dokumenter fra SharePoint til Catenda
+> **Merk:** Dette er annerledes enn vår [SharePoint-applikasjon](https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-applikasjon) som lar medlemmer legge ut dokumenter fra SharePoint til Catenda
 
 _coBuilder Pro_ - Dokumenter - Merk objekter med dokumenter fra coBuilder Pro Dette biblioteket er bare tilgjengelig i eldre prosjekter.
 
@@ -32,7 +32,7 @@ Skriv inn brukernavn og passord for coBuilderPRO for å koble til.
 
 ### 1.2 **Generelle bibliotek**
 
-_[Klassifikasjon](https://support.catenda.com/nb/articles/4670255-classification-library)_ - Merk objekter med egendefinerte klassifikasjoner fra en CSV-fil _coBuilder Pro_ - merk objekter med produktinformasjon fra coBuilder Pro _Oppslag_ - Inkluder et eksternt nettsted som et bibliotek _[Egenskaper](https://support.catenda.com/nb/articles/4670252-property-value-library)_ - Opprett oppføringer basert på egenskapsverdier
+_[Klassifikasjon](https://support.catenda.com/nb/articles/4670255-klassifikasjonsbibliotek)_ - Merk objekter med egendefinerte klassifikasjoner fra en CSV-fil _coBuilder Pro_ - merk objekter med produktinformasjon fra coBuilder Pro _Oppslag_ - Inkluder et eksternt nettsted som et bibliotek _[Egenskaper](https://support.catenda.com/nb/articles/4670252-egenskapsverdi-bibliotek)_ - Opprett oppføringer basert på egenskapsverdier
 
 ### 1.3 **Foreslåtte bibliotek**
 

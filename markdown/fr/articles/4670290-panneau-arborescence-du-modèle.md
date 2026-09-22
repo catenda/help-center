@@ -1,6 +1,6 @@
 # Panneau arborescence du modèle
 
-Le panneau arborescence du modèle se trouve dans l'un des quatre [panneaux de projet](https://support.catenda.com/fr/articles/13141464-project-panels) qui peuvent être ouverts en haut à droite de l'écran.
+Le panneau arborescence du modèle se trouve dans l'un des quatre [panneaux de projet](https://support.catenda.com/fr/articles/13141464-panneaux-de-projet) qui peuvent être ouverts en haut à droite de l'écran.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5dr5qz8m/01-intro.png)
 
@@ -8,7 +8,7 @@ Le panneau arborescence du modèle se trouve dans l'un des quatre [panneaux de p
 
 Le panneau arborescence du modèle peut être ouvert côte à côte avec l'un des autres panneaux.
 
-_Ouverture du_ panneau arborescence du modèle _:_ Cliquez sur l'icône arborescence ou appuyez sur [maj+3](https://support.catenda.com/fr/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=row%20of%20objects-,Shift%20%2B%203,-Control%20%2B%20left%20click)
+_Ouverture du_ panneau arborescence du modèle _:_ Cliquez sur l'icône arborescence ou appuyez sur [maj+3](https://support.catenda.com/fr/articles/4670267-resume-des-raccourcis-et-commandes-de-base-les-plus-importants#:~:text=row%20of%20objects-,Shift%20%2B%203,-Control%20%2B%20left%20click)
 
 _Isolation du_ panneau arborescence du modèle _:_ Ouvrez le panneau arborescence Fermez tous les autres panneaux ouverts en cliquant sur ceux-ci.
 

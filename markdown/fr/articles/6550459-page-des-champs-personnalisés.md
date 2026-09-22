@@ -2,7 +2,7 @@
 
 > Personnalisez les listes de sujets et les conventions de nommage
 
-Vous trouverez la page des champs personnalisés comme sous-page de la [page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page). Les champs personnalisés vous permettent de personnaliser vos sujets et vos conventions de nommage en ajoutant des champs de texte, des nombres et des listes de valeurs.
+Vous trouverez la page des champs personnalisés comme sous-page de la [page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet). Les champs personnalisés vous permettent de personnaliser vos sujets et vos conventions de nommage en ajoutant des champs de texte, des nombres et des listes de valeurs.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7c3te8t3/01-intro.png)
 
@@ -14,7 +14,7 @@ Les nouvelles actions d'élément se trouvent en haut à droite de la page.
 
 ### 1.1 **Nouveau champ personnalisé**
 
-Les administrateurs pourront voir un bouton vert « Nouveaux champs personnalisés » ici. Consultez [ici](https://support.catenda.com/fr/articles/8445575-creating-a-custom-field) comment créer un nouveau champ personnalisé
+Les administrateurs pourront voir un bouton vert « Nouveaux champs personnalisés » ici. Consultez [ici](https://support.catenda.com/fr/articles/8445575-creation-d-un-champ-personnalise) comment créer un nouveau champ personnalisé
 
 ### 1.2 **Champs personnalisés archivés**
 
@@ -46,11 +46,11 @@ Dès qu'un champ personnalisé est créé, il s'affiche sous la forme d'une lign
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7c3te8t3/04-custom-field-table.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda.
+Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tableaux-sur-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda.
 
 ### 3.1 **Contenu des lignes**
 
-Une fois qu'un champ personnalisé est créé, il n'est pas possible de modifier son type. Cliquez sur n'importe quel champ pour accéder à la [page du champ personnalisé](https://support.catenda.com/fr/articles/8445588-custom-field-page) de ce champ personnalisé.
+Une fois qu'un champ personnalisé est créé, il n'est pas possible de modifier son type. Cliquez sur n'importe quel champ pour accéder à la [page du champ personnalisé](https://support.catenda.com/fr/articles/8445588-page-de-contenu-des-champs-personnalises) de ce champ personnalisé.
 
 ### 3.2 **Colonnes**
 
@@ -58,4 +58,4 @@ Nom - Le nom du champ personnalisé Type - Le type du champ personnalisé Descri
 
 ## 4. **Activation d'un champ personnalisé**
 
-Après avoir créé un champ personnalisé, le champ peut être ajouté aux [sujets dans une liste de sujets](https://support.catenda.com/fr/articles/6563368-how-to-use-custom-fields-at-my-issues) ou comme valeurs dans une [convention de nommage](https://support.catenda.com/fr/articles/7869240-how-to-use-custom-fields-in-naming-convention).
+Après avoir créé un champ personnalisé, le champ peut être ajouté aux [sujets dans une liste de sujets](https://support.catenda.com/fr/articles/6563368-champs-personnalises-dans-un-topic-board) ou comme valeurs dans une [convention de nommage](https://support.catenda.com/fr/articles/7869240-comment-utiliser-les-champs-personnalises-dans-la-convention-de-nommage).

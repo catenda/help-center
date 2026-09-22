@@ -4,7 +4,7 @@ The inspect menu can be found as the first menu in the [information panel](https
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/01-intro.png)
 
-Select an object in the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) or [tree panel](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) to get started. The properties and related information are displayed in the inspect menu. After selecting an object, the inspect panel can look something like this:
+Select an object in the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) or [tree panel](https://intercom.help/bimsync-arena/en/articles/4670290-model-tree-panel) to get started. The properties and related information are displayed in the inspect menu. After selecting an object, the inspect panel can look something like this:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/02-intro.png)
 
@@ -32,7 +32,7 @@ The GUID of the object. This code is unique for each object and can be used to i
 
 ### 1.5 **Type**
 
-The type of the object. Each type has its own unique GUID. Two objects that look like they have the same type might therefore actually have different types with different GUIDs connected to them. Click the type to select all objects of that type. Doing so will activate the type tree in the [trees panel](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) where you can see the type you have selected in the list of types for that model.
+The type of the object. Each type has its own unique GUID. Two objects that look like they have the same type might therefore actually have different types with different GUIDs connected to them. Click the type to select all objects of that type. Doing so will activate the type tree in the [trees panel](https://intercom.help/bimsync-arena/en/articles/4670290-model-tree-panel) where you can see the type you have selected in the list of types for that model.
 
 ### 1.6 **Predefined type**
 
@@ -40,7 +40,7 @@ The predefined type tells you about what kind of type you are dealing with
 
 ### 1.7 **Containment**
 
-If your object is part of a hierarchy you will see the parent node in the hierarchy here. Click on the parent node to select all objects contained by that parent node. Doing so will activate the containment tree in the [trees panel](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) where you can see the containment node in the hierarchy of the objects in your model.
+If your object is part of a hierarchy you will see the parent node in the hierarchy here. Click on the parent node to select all objects contained by that parent node. Doing so will activate the containment tree in the [trees panel](https://intercom.help/bimsync-arena/en/articles/4670290-model-tree-panel) where you can see the containment node in the hierarchy of the objects in your model.
 
 ## 2. **Alignments**
 
@@ -124,7 +124,7 @@ Here you can find the materials the selected objects have in common
 
 ## 5. **Libraries**
 
-If your selected object(s) are [linked to any documents](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document#h_d0769e55eb) or library items you will be able to see them here. The libraries menu can look something like this:
+If your selected object(s) are [linked to any documents](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info#h_d0769e55eb) or library items you will be able to see them here. The libraries menu can look something like this:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s5wpkh4e/10-libraries.png)
 

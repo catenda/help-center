@@ -1,6 +1,6 @@
 # Wissel topics uit
 
-Je kunt de actie voor het uitwisselen van topics vinden in het [menu voor nieuwe item-acties](https://support.catenda.com/nl/articles/4670284-actions-in-a-topic-board#h_8c642e051a) rechtsboven in een topic board. Het menu voor het uitwisselen van topics kan er zo uitzien:
+Je kunt de actie voor het uitwisselen van topics vinden in het [menu voor nieuwe item-acties](https://support.catenda.com/nl/articles/4670284-tabel-acties-onderwerpen#h_8c642e051a) rechtsboven in een topic board. Het menu voor het uitwisselen van topics kan er zo uitzien:
 
 ![Bestandsgebaseerde uitwisseling nieuw topic exchange topics geschiedenis import bcf export topics verbind met een bcf client synchroniseer topics rechtstreeks met elke BCF-compatibele client met behulp van de onderstaande URL](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/01-intro.png)
 
@@ -34,11 +34,11 @@ _Meerdere statussen/typen tegelijk koppelen_ Als er losgekoppelde statussen/type
 
 ![Topics there are unlinked fields in this topic board click here to link](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/03-generate-new-types-and-statuses-from-the-bcf-file.png)
 
-Door op de koppeling te klikken, gaat u naar het gebied [losgekoppelde velden](https://support.catenda.com/nl/articles/4670277-topic-board-settings#h_3bd7e3e759) van de [instellingen van het topic board](https://support.catenda.com/nl/articles/4670277-topic-board-settings) waar u alle velden van één soort tegelijk aan een bestaande waarde kunt koppelen.
+Door op de koppeling te klikken, gaat u naar het gebied [losgekoppelde velden](https://support.catenda.com/nl/articles/4670277-pagina-instellingen-topic-board#h_3bd7e3e759) van de [instellingen van het topic board](https://support.catenda.com/nl/articles/4670277-pagina-instellingen-topic-board) waar u alle velden van één soort tegelijk aan een bestaande waarde kunt koppelen.
 
 ## 2. **Exporteer topics**
 
-U kunt topics exporteren door in het [menu voor nieuwe item-acties](https://support.catenda.com/nl/articles/4670284-actions-in-a-topic-board#h_8c642e051a) rechtsboven in een topic board de optie topics exporteren te kiezen, of door een topic in de topicslijst te selecteren en de exportoptie in het [menu voor geselecteerde item-acties](https://support.catenda.com/nl/articles/4670284-actions-in-a-topic-board#h_b5c00c149b) boven het topic board te kiezen. De dialoog voor het exporteren van topics kan er zo uitzien:
+U kunt topics exporteren door in het [menu voor nieuwe item-acties](https://support.catenda.com/nl/articles/4670284-tabel-acties-onderwerpen#h_8c642e051a) rechtsboven in een topic board de optie topics exporteren te kiezen, of door een topic in de topicslijst te selecteren en de exportoptie in het [menu voor geselecteerde item-acties](https://support.catenda.com/nl/articles/4670284-tabel-acties-onderwerpen#h_b5c00c149b) boven het topic board te kiezen. De dialoog voor het exporteren van topics kan er zo uitzien:
 
 ![Export topics all topics from the current topic board current filter selected topics bcf excel pdf v3.0](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/04-export-topics.png)
 
@@ -58,17 +58,17 @@ Afhankelijk van welke versie van BCF u kiest, kunt u verschillende bestandstypen
 
 ### 2.3 **Excel exporteren**
 
-Het is mogelijk om topics naar Excel te exporteren. Er is één rij per topic en één kolom per kolom in de tabelweergave van het topic board. De volgorde van de kolommen zal hetzelfde zijn als de standaardkolomvolgorde van het topic board [tabelweergave](https://support.catenda.com/nl/articles/6941099-table-view-in-an-topic-board#h_3102328063).
+Het is mogelijk om topics naar Excel te exporteren. Er is één rij per topic en één kolom per kolom in de tabelweergave van het topic board. De volgorde van de kolommen zal hetzelfde zijn als de standaardkolomvolgorde van het topic board [tabelweergave](https://support.catenda.com/nl/articles/6941099-tabelweergave-in-een-topic-board#h_3102328063).
 
 > **Opmerking:** Geen afbeeldingen en alleen het laatste opmerking in een topic worden geëxporteerd.
 
 ### 2.4 **PDF exporteren**
 
-Klik [hier](https://support.catenda.com/nl/articles/9784934-exporting-topics-to-pdf) om meer te lezen over het exporteren van topics naar PDF
+Klik [hier](https://support.catenda.com/nl/articles/9784934-onderwerpen-naar-pdf-exporteren) om meer te lezen over het exporteren van topics naar PDF
 
 ## 3. **Rapportenpagina**
 
-Met de rapportenpagina is het mogelijk om aangepaste rapporten te maken, niet alleen over topics maar ook over documenten. De rapportenpagina is een on-demand-functie die voor lopende projecten kan worden ingeschakeld. Nieuwe projecten die zijn gemaakt op basis van een templateproject waarvan deze functie is ingeschakeld, hebben deze functie niet ingeschakeld. Deze rapporten kunnen vervolgens niet alleen naar Excel en PDF, maar ook naar veel meer bestandsformaten worden geëxporteerd. Klik [hier](https://support.catenda.com/nl/articles/12303098-reports-page) om meer te lezen over de rapportenpagina
+Met de rapportenpagina is het mogelijk om aangepaste rapporten te maken, niet alleen over topics maar ook over documenten. De rapportenpagina is een on-demand-functie die voor lopende projecten kan worden ingeschakeld. Nieuwe projecten die zijn gemaakt op basis van een templateproject waarvan deze functie is ingeschakeld, hebben deze functie niet ingeschakeld. Deze rapporten kunnen vervolgens niet alleen naar Excel en PDF, maar ook naar veel meer bestandsformaten worden geëxporteerd. Klik [hier](https://support.catenda.com/nl/articles/12303098-rapportenpagina) om meer te lezen over de rapportenpagina
 
 ## 4. **Verbind met een BCF-client**
 

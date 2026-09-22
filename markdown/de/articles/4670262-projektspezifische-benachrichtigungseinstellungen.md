@@ -1,6 +1,6 @@
 # Projektspezifische Benachrichtigungseinstellungen
 
-Die Projektbenachrichtigungseinstellungen finden Sie als Unterseite auf der Seite [Projektbenachrichtigungen](https://support.catenda.com/de/articles/4670295-project-notifications-page)
+Die Projektbenachrichtigungseinstellungen finden Sie als Unterseite auf der Seite [Projektbenachrichtigungen](https://support.catenda.com/de/articles/4670295-projektbenachrichtigungsseite)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vv27tr09/01-intro.png)
 
@@ -14,13 +14,13 @@ Diese Schaltfläche kann verwendet werden, um Projektbenachrichtigungen vollstä
 
 > **Hinweis:** Wenn diese Schaltfläche ausgeschaltet ist, erhalten Sie keine Benachrichtigungen, auch wenn einige der Optionen aktiviert sind.
 
-Die Seite mit den Projektbenachrichtigungseinstellungen hat die gleichen Einstellungen wie Ihre [Kontobenachrichtigungseinstellungen](https://support.catenda.com/de/articles/8272435-account-notification-settings), bis Sie eine Voreinstellung für dieses Projekt festlegen. Ab dann überschreiben diese Einstellungen Ihre Kontobenachrichtigungseinstellungen und ändern sich nicht, wenn Sie Ihre Kontobenachrichtigungseinstellungen ändern.
+Die Seite mit den Projektbenachrichtigungseinstellungen hat die gleichen Einstellungen wie Ihre [Kontobenachrichtigungseinstellungen](https://support.catenda.com/de/articles/8272435-kontobenachrichtigungseinstellungen), bis Sie eine Voreinstellung für dieses Projekt festlegen. Ab dann überschreiben diese Einstellungen Ihre Kontobenachrichtigungseinstellungen und ändern sich nicht, wenn Sie Ihre Kontobenachrichtigungseinstellungen ändern.
 
 > **Hinweis:** Projektbenachrichtigungseinstellungen bestimmen, welche Benachrichtigungen SIE erhalten. Dies sind keine Einstellungen für andere Benutzer in dem Projekt.
 
 **Unterschied zu Kontobenachrichtigungseinstellungen** Damit diese Einstellungen Ihre Kontobenachrichtigungseinstellungen überschreiben, müssen sie unterschiedlich sein. Wenn Sie beispielsweise für jedes Projekt einzeln eine E-Mail-Zusammenfassung erhalten möchten, muss die Einstellung in den Kontobenachrichtigungseinstellungen auf "Bei Auftreten des Ereignisses" gesetzt werden, damit sie durch die projektspezifischen Benachrichtigungseinstellungen in jedem Projekt überschrieben werden kann. Andernfalls würden Sie alle Zusammenfassungen weiterhin in der allgemeinen Benachrichtigungs-E-Mail erhalten.
 
-**Für welche Projekte habe ich eine Voreinstellung festgelegt?** Nachdem Sie Änderungen auf dieser Seite vorgenommen haben, wird dieses Projekt in Ihren [Kontobenachrichtigungseinstellungen](https://support.catenda.com/de/articles/8272435-notification-settings) als "Projekt mit eigenen Catenda-Einstellungen" angezeigt.
+**Für welche Projekte habe ich eine Voreinstellung festgelegt?** Nachdem Sie Änderungen auf dieser Seite vorgenommen haben, wird dieses Projekt in Ihren [Kontobenachrichtigungseinstellungen](https://support.catenda.com/de/articles/8272435-kontobenachrichtigungseinstellungen) als "Projekt mit eigenen Catenda-Einstellungen" angezeigt.
 
 ## 2. Zurücksetzen auf Standard
 

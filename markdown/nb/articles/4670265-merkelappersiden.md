@@ -1,6 +1,6 @@
 # Merkelappersiden
 
-Merkelappersiden finner du som en underside til [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-project-settings-page) i navigeringsmenyen til venstre.
+Merkelappersiden finner du som en underside til [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger) i navigeringsmenyen til venstre.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/01-intro.png)
 

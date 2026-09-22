@@ -4,7 +4,7 @@ Het is mogelijk om toegang tot veel verschillende plaatsen in Catenda Hub in te 
 
 ## 1. **Organisatietool**
 
-De hoogste toegang in Catenda is organisatietoegang. Dit wordt meestal verleend aan één of enkele vertrouwde personen in ondernemingsorganisaties of organisaties met archieven. Leden met organisatietoegang hebben toegang tot de [organisatietool](https://support.catenda.com/nl/collections/5831081-organizations). Dit stelt hen in staat om alle leden van alle projecten die onderdeel van de organisatie zijn te zien zonder zelf onderdeel van de projecten te hoeven zijn.
+De hoogste toegang in Catenda is organisatietoegang. Dit wordt meestal verleend aan één of enkele vertrouwde personen in ondernemingsorganisaties of organisaties met archieven. Leden met organisatietoegang hebben toegang tot de [organisatietool](https://support.catenda.com/nl/collections/5831081-organizaties). Dit stelt hen in staat om alle leden van alle projecten die onderdeel van de organisatie zijn te zien zonder zelf onderdeel van de projecten te hoeven zijn.
 
 ## 2. **Beheerderstoegang**
 
@@ -44,16 +44,16 @@ Leden die onderdeel zijn van teams krijgen altijd de hoogste toegang in [verschi
 
 ## 4. **Toegangsoverzicht**
 
-Documenttoegang kan snel ingewikkeld worden en u kunt het overzicht verliezen over wie toegang tot welke map heeft. Leden met [volledige toegang tot de documentroot](https://support.catenda.com/nl/articles/4670292-root-folder-acl) kunnen daarom kijken naar het [toegangsoverzicht](https://support.catenda.com/nl/articles/6660820-document-access-overview-acl-dashboard) om te zien wie toegang tot wat heeft.
+Documenttoegang kan snel ingewikkeld worden en u kunt het overzicht verliezen over wie toegang tot welke map heeft. Leden met [volledige toegang tot de documentroot](https://support.catenda.com/nl/articles/4670292-hoofdmap-acl) kunnen daarom kijken naar het [toegangsoverzicht](https://support.catenda.com/nl/articles/6660820-pagina-document-toegangsoverzicht) om te zien wie toegang tot wat heeft.
 
 ## 5. **Projectgebieden waar toegang kan worden ingesteld**
 
 ### 5.1 **Ledentoegang**
 
 <a class="intercom-content-link" href="" target="_blank">Issue board ACL</a>
-[Document ACL](https://support.catenda.com/nl/articles/4670287-folders-and-documents-acl) <a class="intercom-content-link" href="" target="_blank">Project setting ACL</a>
-[Models ACL](https://support.catenda.com/nl/articles/8064548-models-as-documents#h_c2ab781496) is dezelfde als Documenten ACL met modellen als documenten
+[Document ACL](https://support.catenda.com/nl/articles/4670287-mappen-en-documenten-toegangscontrole) <a class="intercom-content-link" href="" target="_blank">Project setting ACL</a>
+[Models ACL](https://support.catenda.com/nl/articles/8064548-modellen-als-documenten#h_c2ab781496) is dezelfde als Documenten ACL met modellen als documenten
 
 ### 5.2 **Beheerderstoegang**
 
-[Aangepaste velden maken](https://support.catenda.com/nl/articles/8445575-creating-a-custom-field) [Naamgevingsconventies maken](https://support.catenda.com/nl/articles/7832559-naming-conventions-page) [Storey-configurator](https://support.catenda.com/nl/articles/6921756-storey-configurator-page)
+[Aangepaste velden maken](https://support.catenda.com/nl/articles/8445575-een-aangepast-veld-maken) [Naamgevingsconventies maken](https://support.catenda.com/nl/articles/7832559-pagina-naamgevingsafspraken) [Storey-configurator](https://support.catenda.com/nl/articles/6921756-verdiepingsconfiguratorpagina)

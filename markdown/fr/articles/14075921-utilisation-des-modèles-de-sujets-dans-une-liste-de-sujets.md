@@ -2,7 +2,7 @@
 
 > Appliquer un modèle de sujet général lors de la création d'un sujet
 
-Les modèles de sujets généraux peuvent être configurés sur la [page des paramètres des modèles de sujets](https://support.catenda.com/fr/articles/14076010-topic-template-settings-page). _Accès requis :_ Administrateur de projet
+Les modèles de sujets généraux peuvent être configurés sur la [page des paramètres des modèles de sujets](https://support.catenda.com/fr/articles/14076010-page-des-parametres-des-gabarits-de-sujet). _Accès requis :_ Administrateur de projet
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/01-intro.png)
 
@@ -14,7 +14,7 @@ Les modèles de sujets généraux peuvent être configurés sur la [page des par
 
     <div class="intercom-container intercom-align-center"><img height="549" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-b8fa9d6ab8dc.png" style="height: auto;" width="500"/></div>
 
-4. Sélectionnez le modèle approprié que vous souhaitez utiliser. <br>Dès que vous sélectionnez le modèle approprié, le nouveau sujet sera automatiquement rempli avec tous les champs qui ont été définis dans les paramètres de modèle de sujet associés, accessibles à partir de la [page des paramètres de modèle de sujet](https://support.catenda.com/fr/articles/14076010-topic-template-settings-page).<br>
+4. Sélectionnez le modèle approprié que vous souhaitez utiliser. <br>Dès que vous sélectionnez le modèle approprié, le nouveau sujet sera automatiquement rempli avec tous les champs qui ont été définis dans les paramètres de modèle de sujet associés, accessibles à partir de la [page des paramètres de modèle de sujet](https://support.catenda.com/fr/articles/14076010-page-des-parametres-des-gabarits-de-sujet).<br>
 
     <div class="intercom-container intercom-align-center"><img height="731" src="https://raw.githubusercontent.com/catenda/help-center/main/images/be4v7emn/inline-23a75554e46a.png" style="height: auto;" width="500"/></div>
 

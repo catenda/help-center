@@ -17,11 +17,11 @@ Klik op de filterknop linksboven om een paneel aan de linkerkant te laten versch
 
 ### 1.1 **Huidige filter opslaan en delen**
 
-Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen bovenaan het filtermenu worden opgeslagen. Klik [hier](https://support.catenda.com/nl/articles/11401493-saving-a-filter-link) voor meer informatie over het opslaan en delen van filters
+Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen bovenaan het filtermenu worden opgeslagen. Klik [hier](https://support.catenda.com/nl/articles/11401493-een-filterlink-opslaan-en-delen) voor meer informatie over het opslaan en delen van filters
 
 ### 1.2 **Lege filters verbergen**
 
-Klik [hier](https://support.catenda.com/nl/articles/8551755-saving-filters) voor meer informatie over het beperken van filterresultaten.
+Klik [hier](https://support.catenda.com/nl/articles/8551755-filterresultaten-beperken) voor meer informatie over het beperken van filterresultaten.
 
 ### 1.3 **Modellen**
 

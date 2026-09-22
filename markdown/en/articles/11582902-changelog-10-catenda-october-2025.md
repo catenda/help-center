@@ -26,7 +26,7 @@ As new features roll out and bugs are fixed articles are updated with the change
     - [Filtering on the objects page](https://support.catenda.com/en/articles/12353642-filtering-on-the-objects-page)
 - Documents
     - [Document preview tools - Rubber stamp](https://support.catenda.com/en/articles/11678493-document-preview-tools-rubber-stamp)
-    - [Right menu on the collections page](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-page)
+    - [Right menu on the collections page](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-content-page)
     - [Workflows page - Document settings](https://support.catenda.com/en/articles/12309903-workflows-page-document-settings)
     - [Folder configuration - Document settings](https://support.catenda.com/en/articles/12302595-folder-configuration-document-settings)
     - [Creating a new workflow](https://support.catenda.com/en/articles/12313251-creating-a-new-workflow)
@@ -35,7 +35,7 @@ As new features roll out and bugs are fixed articles are updated with the change
     - [Approvals page](https://support.catenda.com/en/articles/12495047-approvals-page)
     - [Filtering on the approvals page](https://support.catenda.com/en/articles/12495060-filtering-on-the-approvals-page)
     - [Creating a new approval request](https://support.catenda.com/en/articles/12495005-creating-a-new-approval-request)
-    - [Add revision to approval request](https://support.catenda.com/en/articles/12495012-add-revision-to-approval)
+    - [Add revision to approval request](https://support.catenda.com/en/articles/12495012-add-revision-to-an-approval-request)
     - [Step ribbon in an approval request](https://support.catenda.com/en/articles/12495212-step-ribbon-in-an-approval-request)
     - [Right menu of a revision - Revision info](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
     - [Status workflow - Document settings](https://support.catenda.com/en/articles/12495583-status-workflow-document-settings)
@@ -44,7 +44,7 @@ As new features roll out and bugs are fixed articles are updated with the change
     - [Approval request documents right menu](https://support.catenda.com/en/articles/12495638-approval-request-documents-right-menu)
     - [File review in an approval request](https://support.catenda.com/en/articles/12507002-file-review-in-an-approval-request)
     - [Approval request file review right menu](https://support.catenda.com/en/articles/12507519-approval-request-file-review-right-menu)
-    - [Approvals troubleshooting](https://support.catenda.com/en/articles/12520773-approvals-troubleshooting)
+    - [Approvals troubleshooting](https://support.catenda.com/en/articles/12520773-approvals-page-troubleshooting)
 - Reports
     - [Reports page](https://support.catenda.com/en/articles/12303098-reports-page)
 - Documents - Legacy
@@ -87,9 +87,9 @@ As new features roll out and bugs are fixed articles are updated with the change
     - [Dashboard page](https://support.catenda.com/en/articles/8212646-dashboard-page)
 - Topics
     - [Topics page](https://support.catenda.com/en/articles/4670271-topics-page)
-    - [Filtering in a topic board](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board)
+    - [Filtering in a topic board](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
     - [List view in a topic board](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board)
-    - [Columns on the topics page](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page)
+    - [Columns on the topics page](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board)
     - [Topics table actions](https://support.catenda.com/en/articles/4670284-topics-table-actions)
 - Models
     - [Models page](https://support.catenda.com/en/articles/4670286-models-page)
@@ -101,9 +101,9 @@ As new features roll out and bugs are fixed articles are updated with the change
     - [Columns on the documents page](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
     - [Filtering on the documents page](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
     - [Document preview tools](https://support.catenda.com/en/articles/11384618-document-preview-tools)
-    - [Documents table actions](https://support.catenda.com/en/articles/4670288-document-structure-actions)
+    - [Documents table actions](https://support.catenda.com/en/articles/4670288-documents-table-actions)
     - [Uploading a new document revision](https://support.catenda.com/en/articles/4670293-uploading-new-document-revision)
-    - [Collections page](https://support.catenda.com/en/articles/8999764-collection-page)
+    - [Collections page](https://support.catenda.com/en/articles/8999764-collection-content-page)
     - [Right menu of a revision - Revision info](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
 - Settings
     - [Custom fields page](https://support.catenda.com/en/articles/6550459-custom-fields-page)
@@ -113,7 +113,7 @@ As new features roll out and bugs are fixed articles are updated with the change
     - [Revision selector](https://support.catenda.com/en/articles/4670279-revision-selector)
 - Catenda Plugins & Integrations
     - [3D viewer - Catenda Site](https://support.catenda.com/en/articles/7744403-3d-viewer-catenda-site)
-    - [Catenda Plugins & Integrations](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
+    - [Catenda Plugins & Integrations](https://support.catenda.com/en/articles/8396532-catenda-plugins-integrations)
     - [IFC export archicad manual](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
     - [Enabling the Catenda SharePoint app](https://support.catenda.com/en/articles/9419749-enabling-the-catenda-sharepoint-app)
     - [Adding and removing the Catenda SP app](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app)

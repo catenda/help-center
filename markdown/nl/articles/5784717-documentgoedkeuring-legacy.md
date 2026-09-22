@@ -8,14 +8,14 @@ De onderstaande afbeelding beschrijft de stappen die nodig zijn om het proces in
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xan46xhc/01-intro.png)
 
-1. Activeer de [Status workflow](https://support.catenda.com/nl/articles/7831371-document-settings#h_e6f3ffdbff) in uw [Documentbibliotheek-instellingen](https://support.catenda.com/nl/articles/7831371-document-settings)
-1. [Bewerk](https://support.catenda.com/nl/articles/7831371-document-settings#h_c580374cfc) de beschikbare statussen naar uw wensen
+1. Activeer de [Status workflow](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen#h_e6f3ffdbff) in uw [Documentbibliotheek-instellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen)
+1. [Bewerk](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen#h_c580374cfc) de beschikbare statussen naar uw wensen
 1. U kunt nu Documenten als Concepten uploaden
 1. Wanneer het project Concepten bevat, kunt u deze selecteren en een nieuwe Goedkeuring maken
 
 ## 1. Goedkeuringsinstellingen
 
-1. Een belangrijke stap is het aanpassen van de [goedkeuringsinstellingen](https://support.catenda.com/nl/articles/4670273-project-settings-page#h_f82a1850f3) op de [pagina met projectinstellingen](https://support.catenda.com/nl/articles/4670273-project-settings-page).
+1. Een belangrijke stap is het aanpassen van de [goedkeuringsinstellingen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_f82a1850f3) op de [pagina met projectinstellingen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen).
 2. Een goedkeuringsverzoek benoemt een Uitgever (persoon die verantwoordelijk is voor het nemen van de uiteindelijke beslissing over de publicatie) en een of meer Revisoren, die verantwoordelijk zijn voor validatie (of niet) van de set concepten
 3. Elke revisor beslist of het concept Goedgekeurd, Goedgekeurd met opmerking of Afgewezen is
 4. Aan het einde van de beoordeling kiest de Uitgever het resultaat van de goedkeuring door de documenten te selecteren die gepubliceerd moeten worden.
@@ -27,4 +27,4 @@ Een gedetailleerde demonstratie van deze stappen wordt weergegeven in de volgend
 
 ## 2. Alleen openbare documentstatussen gebruiken door concepten uit te schakelen
 
-Toegang kan worden verleend en beperkt tot het [uploaden van concepten.](https://support.catenda.com/nl/articles/4670273-project-settings-page) Ook voor gebruikers die geen normale bestanden mogen uploaden! Als u de goedkeuringsstroom volledig wilt uitschakelen, kunt u dit doen door [alle conceptstatussen te archiveren](https://support.catenda.com/nl/articles/7831371-document-settings#h_21da15bf47) in de [documentbibliotheek-instellingen](https://support.catenda.com/nl/articles/7831371-document-settings). De optie om als concept te uploaden in het documentuploademenu verdwijnt dan ook. Het is mogelijk om gepubliceerde statussen te behouden, zelfs als er geen conceptstatussen in het project zijn.
+Toegang kan worden verleend en beperkt tot het [uploaden van concepten.](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen) Ook voor gebruikers die geen normale bestanden mogen uploaden! Als u de goedkeuringsstroom volledig wilt uitschakelen, kunt u dit doen door [alle conceptstatussen te archiveren](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen#h_21da15bf47) in de [documentbibliotheek-instellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen). De optie om als concept te uploaden in het documentuploademenu verdwijnt dan ook. Het is mogelijk om gepubliceerde statussen te behouden, zelfs als er geen conceptstatussen in het project zijn.

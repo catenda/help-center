@@ -1,6 +1,6 @@
 # Prosjektsiden - Catenda Site
 
-Etter [nedlasting, installasjon og innlogging](https://support.catenda.com/nb/articles/6530821-download-your-mobile-app-catenda-site) til Catenda Site vil du se prosjektsiden. Du finner prosjektsiden ved å trykke på navnet på prosjektet ditt i [menyen](https://support.catenda.com/nb/articles/7338516-navigation-menu-catenda-site).
+Etter [nedlasting, installasjon og innlogging](https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site) til Catenda Site vil du se prosjektsiden. Du finner prosjektsiden ved å trykke på navnet på prosjektet ditt i [menyen](https://support.catenda.com/nb/articles/7338516-navigasjonsmeny-catenda-site).
 
 ![Velg et prosjekt](https://raw.githubusercontent.com/catenda/help-center/main/images/2g7dc990/01-intro.png)
 

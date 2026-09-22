@@ -14,17 +14,17 @@ Als er nieuwe notificaties zijn, wordt een rode notificatie-indicator weergegeve
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/03-notifications-button.png)
 
-Het veld toont de laatste 5 notificaties met alle nieuwe informatie over de projecten waar u aan deelneemt. U kunt deze knop altijd in de rechterbovenhoek van het scherm zien. Als u op Alle notificaties weergeven klikt, gaat u naar uw [notificatiepagina van account](https://support.catenda.com/nl/articles/7439223-account-notifications-page)
+Het veld toont de laatste 5 notificaties met alle nieuwe informatie over de projecten waar u aan deelneemt. U kunt deze knop altijd in de rechterbovenhoek van het scherm zien. Als u op Alle notificaties weergeven klikt, gaat u naar uw [notificatiepagina van account](https://support.catenda.com/nl/articles/7439223-pagina-accountnotificaties)
 
 > **Opmerking:** Als u op deze manier naar de notificatiepagina van account gaat, wordt deze standaard gefilterd op notificaties van de afgelopen maand. Verwijder het filter dateFrom=last-month uit de URL om notificaties van langer dan een maand geleden te zien.
 
 ## 2. **Sharelink-knop**
 
-De [sharelink](https://support.catenda.com/nl/articles/4728886-sharelink-notify-people-about-catenda-hub-content)-functie is alleen beschikbaar vanuit een project en is daarom grijs op de projectenpagina.
+De [sharelink](https://support.catenda.com/nl/articles/4728886-sharelink-meld-mensen-op-de-hoogte-over-catenda-hub-inhoud)-functie is alleen beschikbaar vanuit een project en is daarom grijs op de projectenpagina.
 
 ## 3. **Ondersteuningsknop**
 
-Klik op de zwarte chatbubbelknop om het ondersteuningsmenu te openen. Klik [hier](https://support.catenda.com/nl/articles/8894066-support-button-location-and-functionality) voor meer informatie over het ondersteuningsmenu.
+Klik op de zwarte chatbubbelknop om het ondersteuningsmenu te openen. Klik [hier](https://support.catenda.com/nl/articles/8894066-locatie-en-functionaliteit-van-de-ondersteuningsknop) voor meer informatie over het ondersteuningsmenu.
 
 ## 4. **Accountknop**
 
@@ -34,7 +34,7 @@ De accountknop toont uw profielfoto of de initialen van uw gebruikersnaam. Als u
 
 ### 4.1 **Mijn account**
 
-Klik [hier](https://support.catenda.com/nl/articles/6880968-account-page) voor meer informatie over de [accountpagina](https://hub.catenda.com/account/profile). Dit opent dezelfde pagina als de accountknop in het linkernavigatiemenu. Het verschil is dat deze accountknop overal op Catenda Hub beschikbaar is, terwijl het linkernavigatiemenu kan veranderen afhankelijk van waar u bent op de pagina.
+Klik [hier](https://support.catenda.com/nl/articles/6880968-accountpagina) voor meer informatie over de [accountpagina](https://hub.catenda.com/account/profile). Dit opent dezelfde pagina als de accountknop in het linkernavigatiemenu. Het verschil is dat deze accountknop overal op Catenda Hub beschikbaar is, terwijl het linkernavigatiemenu kan veranderen afhankelijk van waar u bent op de pagina.
 
 ### 4.2 **Uitloggen**
 

@@ -1,6 +1,6 @@
 # 2D / 3D - Catenda Site
 
-2D / 3D-siden finnes i [menyen](https://support.catenda.com/nb/articles/7338516-navigation-menu-catenda-site) eller ved å trykke på saker-knappen i navigasjonslinjen nederst.
+2D / 3D-siden finnes i [menyen](https://support.catenda.com/nb/articles/7338516-navigasjonsmeny-catenda-site) eller ved å trykke på saker-knappen i navigasjonslinjen nederst.
 
 ![2D / 3D](https://raw.githubusercontent.com/catenda/help-center/main/images/wy1t8c1t/01-intro.png)
 
@@ -16,11 +16,11 @@ Problemene som resulterer fra filteret på den valgte issue board er problemene 
 
 ### Øvre halvdel
 
-I den øvre halvdelen av 2D / 3D-siden vil du se [3D-viseren](https://support.catenda.com/nb/articles/7744403-3d-viewer-catenda-site).
+I den øvre halvdelen av 2D / 3D-siden vil du se [3D-viseren](https://support.catenda.com/nb/articles/7744403-3d-viser-catenda-site).
 
 ### Nedre halvdel
 
-I den nedre halvdelen av 2D / 3D-siden vil du se [2D-viseren](https://support.catenda.com/nb/articles/7748370-2d-viewer-catenda-site).
+I den nedre halvdelen av 2D / 3D-siden vil du se [2D-viseren](https://support.catenda.com/nb/articles/7748370-2d-viser-catenda-site).
 
 ### Delingslinje
 

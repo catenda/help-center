@@ -2,7 +2,7 @@
 
 > **Hinweis 1:** Die Seite Berichte ist eine Opt-in-Funktion, die für laufende Projekte aktiviert werden kann. **Hinweis 2:** Neue Projekte, die auf der Grundlage eines Vorlagenprojekts erstellt werden, in dem diese Funktion aktiviert ist, haben diese Funktion nicht aktiviert.
 
-Die Seite Berichtvorlagen finden Sie als Unterseite der [Seite Berichte](https://support.catenda.com/de/articles/12303098-reports-page) im linken Navigationsmenü. Auf der Seite Berichtvorlagen können Dokument- und Themenvorlagen, die dem Projekt zur Verfügung stehen, verwaltet werden. _Erforderlicher Zugriff:_ Administrator
+Die Seite Berichtvorlagen finden Sie als Unterseite der [Seite Berichte](https://support.catenda.com/de/articles/12303098-berichterstattungsseite) im linken Navigationsmenü. Auf der Seite Berichtvorlagen können Dokument- und Themenvorlagen, die dem Projekt zur Verfügung stehen, verwaltet werden. _Erforderlicher Zugriff:_ Administrator
 
 So kann die Seite Berichtvorlagen aussehen:
 
@@ -36,7 +36,7 @@ Sobald eine Berichtvorlage erstellt wird, erscheint sie als Zeile in der Tabelle
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5aw6t2k2/04-report-templates-table.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten.
+Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tabellen-in-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten.
 
 ### 3.1 **Zeileninhalt**
 

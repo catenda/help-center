@@ -2,7 +2,7 @@
 
 > Appliquer un modèle de sujet de document lors de la création d'un balisage à partir d'un document
 
-Les modèles de sujets de document peuvent être configurés sur la [page de paramètres de modèle de sujet](https://support.catenda.com/fr/articles/14076010-topic-template-settings-page). _Accès requis :_ Administrateur de projet
+Les modèles de sujets de document peuvent être configurés sur la [page de paramètres de modèle de sujet](https://support.catenda.com/fr/articles/14076010-page-des-parametres-des-gabarits-de-sujet). _Accès requis :_ Administrateur de projet
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/01-intro.png)
 
@@ -20,7 +20,7 @@ Les modèles de sujets de document peuvent être configurés sur la [page de par
 
     <div class="intercom-container intercom-align-center"><img height="540" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-b8fd0218f860.png" style="height: auto;" width="500"/></div>
 
-6. Sélectionnez le modèle que vous souhaitez utiliser. <br>Dès que vous sélectionnez le modèle approprié, le nouveau sujet se remplit automatiquement avec tous les champs définis dans les paramètres du modèle de sujet associé, accessibles à partir de la [page des paramètres du modèle de sujet](https://support.catenda.com/fr/articles/14076010-topic-template-settings-page).
+6. Sélectionnez le modèle que vous souhaitez utiliser. <br>Dès que vous sélectionnez le modèle approprié, le nouveau sujet se remplit automatiquement avec tous les champs définis dans les paramètres du modèle de sujet associé, accessibles à partir de la [page des paramètres du modèle de sujet](https://support.catenda.com/fr/articles/14076010-page-des-parametres-des-gabarits-de-sujet).
 
     <div class="intercom-container intercom-align-center"><img height="814" src="https://raw.githubusercontent.com/catenda/help-center/main/images/qwdn8hpc/inline-50d2237a44b3.png" style="height: auto;" width="500"/></div>
 

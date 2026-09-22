@@ -1,6 +1,6 @@
 # Pagina met modelinhoud
 
-Om een overzicht van de revisies in een model te zien, gaat u naar de [modelenpagina](https://support.catenda.com/nl/articles/4670286-models-page) en klikt u op een model. U wordt vervolgens doorgestuurd naar de overzichtspagina die bij dat model hoort. Het overzicht van modelrevisies toont ons de modelrevisies die aanwezig zijn in het project. Door op een modelrevie te klikken, wordt men doorgestuurd naar de revisies-pagina. Vervolgens kunt u op "Importeren" klikken en een nieuwe revisiemodel uploaden.
+Om een overzicht van de revisies in een model te zien, gaat u naar de [modelenpagina](https://support.catenda.com/nl/articles/4670286-modellapagina) en klikt u op een model. U wordt vervolgens doorgestuurd naar de overzichtspagina die bij dat model hoort. Het overzicht van modelrevisies toont ons de modelrevisies die aanwezig zijn in het project. Door op een modelrevie te klikken, wordt men doorgestuurd naar de revisies-pagina. Vervolgens kunt u op "Importeren" klikken en een nieuwe revisiemodel uploaden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/01-intro.png)
 
@@ -14,11 +14,11 @@ De volgende acties zijn beschikbaar voor elke revie.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/03-existing-item-actions.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/9674157-actions-on-the-model-overview-page) voor meer informatie over wat elke actie doet.
+Klik [hier](https://support.catenda.com/nl/articles/9674157-acties-op-pagina-met-modelinhoud) voor meer informatie over wat elke actie doet.
 
 ## 2. **Menu met rechtse informatie**
 
-U kunt informatie over het model vinden in het rechtse informatiemenu. Dit menu is te vinden door op het pictogram "i" in de rechterbovenhoek van de pagina te klikken. Klik [hier](https://support.catenda.com/nl/articles/9673735-right-menu-on-the-models-page) voor meer informatie over welke modelinformatie beschikbaar is.
+U kunt informatie over het model vinden in het rechtse informatiemenu. Dit menu is te vinden door op het pictogram "i" in de rechterbovenhoek van de pagina te klikken. Klik [hier](https://support.catenda.com/nl/articles/9673735-rechtermenu-op-de-modellenpagina) voor meer informatie over welke modelinformatie beschikbaar is.
 
 ## 3. **Modelnaam**
 
@@ -34,7 +34,7 @@ Als er nog geen revisies in uw model staan, kunt u op bladeren klikken om uw eer
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/05-revision-import.png)
 
-U kunt ook slepen en neerzetten gebruiken om een nieuwe revie te importeren of de actie voor nieuwe revisies in het menu met bestaande itemacties gebruiken. _Vereiste toegang:_ het uploaden van modelrevisies vanuit [projectinstellingen](https://support.catenda.com/nl/articles/4670273-project-settings-page#h_f82a1850f3)
+U kunt ook slepen en neerzetten gebruiken om een nieuwe revie te importeren of de actie voor nieuwe revisies in het menu met bestaande itemacties gebruiken. _Vereiste toegang:_ het uploaden van modelrevisies vanuit [projectinstellingen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_f82a1850f3)
 
 Dit doet u door een IFC-bestand van uw harde schijf te kiezen. Hoewel andere bestandstypen kunnen worden gepreviewd in de Documenten-sectie, worden alleen IFC-bestanden geaccepteerd in de modellensectie. Klik "verzenden" om het uploadproces te starten.
 

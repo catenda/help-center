@@ -1,14 +1,14 @@
 # Saksinnhold - Innholdet i en sak
 
-Velg en sak fra en [saksliste](https://support.catenda.com/nb/articles/4670271-issues-page#h_6a5895256b) for å åpne saksiden for saken. Slik kan [saksbanneret](https://support.catenda.com/nb/articles/7986346-topic-banner-navigating-topics) på saksiden se ut:
+Velg en sak fra en [saksliste](https://support.catenda.com/nb/articles/4670271-sakside#h_6a5895256b) for å åpne saksiden for saken. Slik kan [saksbanneret](https://support.catenda.com/nb/articles/7986346-sakbanner-navigering-av-saker) på saksiden se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/01-intro.png)
 
-Slik kan [sakshodet](https://support.catenda.com/nb/articles/8400566-topic-header-the-subject-of-a-topic) se ut:
+Slik kan [sakshodet](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak) se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/02-intro.png)
 
-Beskrevet i denne artikkelen, saksinnholdet med beskrivelse og kommentarer finnes under sakshodet. Klikk på informasjonsikonet mot høyre i saksbanneret for å vise [relaterte elementer-menyen](https://support.catenda.com/nb/articles/8053299-right-menu-in-a-topic) mot høyre for både hodet og innholdet.
+Beskrevet i denne artikkelen, saksinnholdet med beskrivelse og kommentarer finnes under sakshodet. Klikk på informasjonsikonet mot høyre i saksbanneret for å vise [relaterte elementer-menyen](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak) mot høyre for både hodet og innholdet.
 
 Saksinnholdet beskrevet i denne artikkelen er under hodet og til venstre for høyre informasjonspanel:
 
@@ -22,11 +22,11 @@ Fremdriftsindikatoren vises øverst i saksinnholdet hvis avmerkingsbokser eller 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/04-progress-bar.png)
 
-Fremdriftsindikatoren viser fremdriften til merkede avmerkingsbokser og løste saker i saksbeskrivelsen. For en kort videoveiledning om sjekklister, se [her](https://support.catenda.com/nb/articles/5036461-check-lists-within-issues)
+Fremdriftsindikatoren viser fremdriften til merkede avmerkingsbokser og løste saker i saksbeskrivelsen. For en kort videoveiledning om sjekklister, se [her](https://support.catenda.com/nb/articles/5036461-sjekklister-innen-problemer)
 
 ## 2. **Beskrivelse**
 
-Saksbeskrivelsen følger [de generelle formatereringsreglene for innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts).
+Saksbeskrivelsen følger [de generelle formatereringsreglene for innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg).
 
 ### 2.1 **Rediger beskrivelse**
 
@@ -40,7 +40,7 @@ Slik kan en beskrivelse se ut når den redigeres:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/06-edit-description.png)
 
-For mer informasjon om formateringsalternativer rediger beskrivelsen og klikk på spørsmålstegnet. Beskrivelser følger de generelle reglene for [formatering av innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts) på Catenda.
+For mer informasjon om formateringsalternativer rediger beskrivelsen og klikk på spørsmålstegnet. Beskrivelser følger de generelle reglene for [formatering av innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg) på Catenda.
 
 ## 3. **Saksinformasjon**
 
@@ -50,11 +50,11 @@ Saksinformasjonen finnes under beskrivelsen. Slik kan saksinformasjonen se ut:
 
 ### 3.1 **Opprettet av**
 
-Opprettelsen av saken og tidspunktet den ble opprettet. For å få et mer spesifikt tidspunkt, gå til [kontoinnstillinger](https://support.catenda.com/nb/articles/6880968-account-page#h_4aa257b72f).
+Opprettelsen av saken og tidspunktet den ble opprettet. For å få et mer spesifikt tidspunkt, gå til [kontoinnstillinger](https://support.catenda.com/nb/articles/6880968-kontosida#h_4aa257b72f).
 
 ### 3.2 **Vis historikk**
 
-Historikken til saken kan sees ved å klikke på vis historikk-knappen nederst til høyre i saksbeskrivelsen. Se [denne artikkelen](https://support.catenda.com/nb/articles/8613038-topic-history) for hvilken sakhistorikk som er mulig å se på Catenda Hub.
+Historikken til saken kan sees ved å klikke på vis historikk-knappen nederst til høyre i saksbeskrivelsen. Se [denne artikkelen](https://support.catenda.com/nb/articles/8613038-sakhistorikk) for hvilken sakhistorikk som er mulig å se på Catenda Hub.
 
 ### 3.3 **Sortering**
 
@@ -90,7 +90,7 @@ Klikk på Skjul endringer nederst til høyre for å skjule endringene igjen.
 
 ### 4.2 **Kommentar**
 
-Tekst i kommentarer følger [de generelle reglene for formatering av innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts) med en mindre forskjell når det gjelder sjekklister.
+Tekst i kommentarer følger [de generelle reglene for formatering av innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg) med en mindre forskjell når det gjelder sjekklister.
 
 **Vedlegget pop-out** Venstreklikk på bildet av et vedlegg for å åpne bildet pop-out.
 
@@ -122,7 +122,7 @@ Klikk på plussknappen ved siden av kommentarfeltet for å legge til et 2D eller
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/13-2d-or-3d-snapshots.png)
 
-2D øyeblikksbilder har de samme knappene, men med et bilde av 2D-viseren vedlagt. Klikk [her](https://support.catenda.com/nb/articles/10345863-snapshots) for å lese mer om konfigurering av øyeblikksbilder
+2D øyeblikksbilder har de samme knappene, men med et bilde av 2D-viseren vedlagt. Klikk [her](https://support.catenda.com/nb/articles/10345863-3d-oyeblikkbilder) for å lese mer om konfigurering av øyeblikksbilder
 
 ### 4.5 **Merknad**
 
@@ -130,9 +130,9 @@ Hold orden på merknader på dokumenter ved å opprette en merknad. Når en merk
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/14-markup.png)
 
-Når en merknad legges til en sak, blir dokumentet som merknadene ble opprettet på, automatisk koblet i [relaterte dokumenter](https://support.catenda.com/nb/articles/7986346-issue-content#h_be2f2bcf3b).
+Når en merknad legges til en sak, blir dokumentet som merknadene ble opprettet på, automatisk koblet i [relaterte dokumenter](https://support.catenda.com/nb/articles/7986346-sakbanner-navigering-av-saker#h_be2f2bcf3b).
 
-**Merknadkommentar** Merknadkommentaren følger [de generelle reglene for formatering av innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts) med en mindre forskjell når det gjelder sjekklister.
+**Merknadkommentar** Merknadkommentaren følger [de generelle reglene for formatering av innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg) med en mindre forskjell når det gjelder sjekklister.
 
 **Merknad øyeblikksbilde** Følgende informasjon kan sees i et merknad øyeblikksbilde: Et skjermbilde av området i dokumentet der merknadene ble opprettet. _Påkrevd tilgang:_ Lesetilgang til sakslisten
 
@@ -159,7 +159,7 @@ Slik kan et utkast av en ny kommentar se ut før kommentaren sendes inn
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/15-new-comment.png)
 
-**Tekstboks** Skriv en kommentar i tekstboksen ved siden av plussknappen. Nevn medlemmer ved å skrive @navn eller lenke til andre saker ved å skrive #lenke. Tekst sendt inn i tekstboksen i en kommentar følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts) på Catenda. Lim inn både tekst og bilder fra utklippstavlen for å legge dem til den nye kommentaren.
+**Tekstboks** Skriv en kommentar i tekstboksen ved siden av plussknappen. Nevn medlemmer ved å skrive @navn eller lenke til andre saker ved å skrive #lenke. Tekst sendt inn i tekstboksen i en kommentar følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg) på Catenda. Lim inn både tekst og bilder fra utklippstavlen for å legge dem til den nye kommentaren.
 
 **Plussknapp** Klikk på plussknappen for å legge til et 3D øyeblikksbilde, et 2D øyeblikksbilde eller et bilde til utkastet av en ny kommentar.
 

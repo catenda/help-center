@@ -4,7 +4,7 @@
 
 Hallo zusammen,
 
-es ist schon ein paar Monate her seit dem letzten Changelog. Hoffentlich hattet ihr alle einen schönen Winterurlaub! 🎄🤶🧑‍🎄❄️ Und willkommen zu 2024!🎇 Hoffentlich werden wir auch dieses Jahr viele Änderungen und Verbesserungen vornehmen können! In diesem Artikel findest du Updates zu folgenden Themen: [Artikel](https://support.catenda.com/de/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [Behobene Probleme](https://support.catenda.com/de/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [Neue Versionen](https://support.catenda.com/de/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)
+es ist schon ein paar Monate her seit dem letzten Changelog. Hoffentlich hattet ihr alle einen schönen Winterurlaub! 🎄🤶🧑‍🎄❄️ Und willkommen zu 2024!🎇 Hoffentlich werden wir auch dieses Jahr viele Änderungen und Verbesserungen vornehmen können! In diesem Artikel findest du Updates zu folgenden Themen: [Artikel](https://support.catenda.com/de/articles/7983534-changelog-3-catenda-oktober-2023#h_5be2a02999) - [Behobene Probleme](https://support.catenda.com/de/articles/7983534-changelog-3-catenda-oktober-2023#h_d238d9111d) - [Neue Versionen](https://support.catenda.com/de/articles/7983534-changelog-3-catenda-oktober-2023#h_d238d9111d)
 
 ## 1. **Artikel**
 
@@ -12,31 +12,31 @@ Mit dem Rollout neuer Funktionen und dem Beheben von Fehlern werden Artikel mit 
 
 ### 1.1 **Neue Artikel:**
 
-**Erste Schritte und FAQ** [Sortierreihenfolge von Listen](https://support.catenda.com/de/articles/8487788-sorting-order-of-lists) [Strukturierung von Dokumenten](https://support.catenda.com/de/articles/8542598-structuring-documents)
+**Erste Schritte und FAQ** [Sortierreihenfolge von Listen](https://support.catenda.com/de/articles/8487788-sortierreihenfolge-von-listen) [Strukturierung von Dokumenten](https://support.catenda.com/de/articles/8542598-dokumente-strukturieren)
 
-**Hauptseite** [Organisationsseite](https://support.catenda.com/de/articles/8281910-organizations-page)
+**Hauptseite** [Organisationsseite](https://support.catenda.com/de/articles/8281910-organisationsseite)
 
-**Themen** [Themenverlauf](https://support.catenda.com/de/articles/8613038-issue-history)
+**Themen** [Themenverlauf](https://support.catenda.com/de/articles/8613038-themenverlauf)
 
-**Dokumente** [Dokumente](https://support.catenda.com/de/articles/8461918-documents) [PDF-Vergleich](https://support.catenda.com/de/articles/8461650-pdf-compare) [Filterung auf der Genehmigungsseite](https://support.catenda.com/de/articles/8551740-filtering-on-the-approvals-page)
+**Dokumente** [Dokumente](https://support.catenda.com/de/articles/8461918-dokumentbanner-navigation) [PDF-Vergleich](https://support.catenda.com/de/articles/8461650-pdf-vergleich) [Filterung auf der Genehmigungsseite](https://support.catenda.com/de/articles/8551740-filterung-auf-der-genehmigungsseite-erbschaft)
 
-**Modelle und 3D** [Lesezeichen](https://support.catenda.com/de/articles/8471481-bookmark)
+**Modelle und 3D** [Lesezeichen](https://support.catenda.com/de/articles/8471481-lesezeichen-inhaltsseite)
 
-**Projekteinstellungen** [Erstellen eines benutzerdefinierten Felds](https://support.catenda.com/de/articles/8445575-creating-a-custom-field) [Seite "Benutzerdefiniertes Feld"](https://support.catenda.com/de/articles/8445588-custom-field-page)
+**Projekteinstellungen** [Erstellen eines benutzerdefinierten Felds](https://support.catenda.com/de/articles/8445575-erstellen-eines-benutzerdefinierten-felds) [Seite "Benutzerdefiniertes Feld"](https://support.catenda.com/de/articles/8445588-seite-mit-benutzerdefinierten-feldvorgaben)
 
 ### 1.2 **Artikel, die sich geändert haben:**
 
-Erste Schritte und FAQ [Filter speichern](https://support.catenda.com/de/articles/8551755-saving-filters)
+Erste Schritte und FAQ [Filter speichern](https://support.catenda.com/de/articles/8551755-filterergebnisse-begrenzen)
 
-Themen [Themenboards ACL](https://support.catenda.com/de/articles/4670296-issue-boards-acl)
+Themen [Themenboards ACL](https://support.catenda.com/de/articles/4670296-zugriffskontrolle-fur-themen-board)
 
-Dokumente [Dokumentenseite](https://support.catenda.com/de/articles/8204673-documents-page) [Modelle als Dokumente](https://support.catenda.com/de/articles/8064548-models-as-documents) [Filterung auf der Dokumentenseite](https://support.catenda.com/de/articles/4670283-filtering-on-the-documents-page)
+Dokumente [Dokumentenseite](https://support.catenda.com/de/articles/8204673-dokumentenseite) [Modelle als Dokumente](https://support.catenda.com/de/articles/8064548-modelle-als-dokumente) [Filterung auf der Dokumentenseite](https://support.catenda.com/de/articles/4670283-filterung-auf-der-dokumentseite)
 
-Modelle [Seite "Lesezeichen"](https://support.catenda.com/de/articles/4670281-bookmarks-page) [Erstellen eines neuen Lesezeichens](https://support.catenda.com/de/articles/4670269-creating-a-new-bookmark) [Modelle als Dokumente](https://support.catenda.com/de/articles/8064548-models-as-documents)
+Modelle [Seite "Lesezeichen"](https://support.catenda.com/de/articles/4670281-lesezeichen-seite) [Erstellen eines neuen Lesezeichens](https://support.catenda.com/de/articles/4670269-ein-neues-lesezeichen-erstellen) [Modelle als Dokumente](https://support.catenda.com/de/articles/8064548-modelle-als-dokumente)
 
 Bibliotheken <a class="intercom-content-link" href="" target="_blank">Links-Bibliothek</a>
 
-Einstellungen [Mitgliedersseite](https://support.catenda.com/de/articles/4670291-members-page)
+Einstellungen [Mitgliedersseite](https://support.catenda.com/de/articles/4670291-mitglieder-und-teams-seite)
 
 ## 2. **Behobene Probleme**
 

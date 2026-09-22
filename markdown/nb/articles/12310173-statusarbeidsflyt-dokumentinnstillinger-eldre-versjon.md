@@ -1,6 +1,6 @@
 # Statusarbeidsflyt - Dokumentinnstillinger - Eldre versjon
 
-Statusarbeidsflyt-menyen finner du på [dokumentinnstillingssiden](https://support.catenda.com/nb/articles/7831371-document-settings-page). I nye prosjekter er statusarbeidsflytene deaktivert som standard. Det er mulig å starte et prosjekt med forhåndskonfigurerte statuser hvis prosjektet er basert på en [malprosjekt](https://support.catenda.com/nb/articles/4670245-creating-a-new-project#h_5db32e5398).
+Statusarbeidsflyt-menyen finner du på [dokumentinnstillingssiden](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger). I nye prosjekter er statusarbeidsflytene deaktivert som standard. Det er mulig å starte et prosjekt med forhåndskonfigurerte statuser hvis prosjektet er basert på en [malprosjekt](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt#h_5db32e5398).
 
 Slik kan statusarbeidsflyt-menyen se ut etter at statusarbeidsflytene har blitt aktivert.
 
@@ -15,7 +15,7 @@ Når statusarbeidsflytene blir aktivert, vil følgende endre seg i prosjektet:
     - Kan lastes opp i publisert stadie med avmerkingsboks.
 - Standardstatus er satt til Ingen status.
 - En gjennomgangsmeny i dokumentinnstillinger vises.
-- En [gjennomgangs](https://support.catenda.com/nb/articles/5784717-document-approval) underside til dokumentsiden vises.
+- En [gjennomgangs](https://support.catenda.com/nb/articles/5784717-dokumentgjennomgang-eldre-versjon) underside til dokumentsiden vises.
 
 ## 1. **Legg til status**
 
@@ -45,7 +45,7 @@ Arkiverte statuser kan alltid gjenopprettes ved å klikke på "Vis arkiverte sta
 
 ## 3. **Standardstatus**
 
-Når en ny publisert revisjon gjøres enten ved opplasting eller ved publisering av utkast som resultat av en [gjennomgang](https://support.catenda.com/nb/articles/5784717-document-approval) kan du velge hvilken status den skal ha som standard. Denne statusen kan fortsatt endres før hvert dokument publiseres.
+Når en ny publisert revisjon gjøres enten ved opplasting eller ved publisering av utkast som resultat av en [gjennomgang](https://support.catenda.com/nb/articles/5784717-dokumentgjennomgang-eldre-versjon) kan du velge hvilken status den skal ha som standard. Denne statusen kan fortsatt endres før hvert dokument publiseres.
 
 ## 4. **Opplastingsmeny**
 

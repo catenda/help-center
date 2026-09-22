@@ -72,7 +72,7 @@ Dans la tâche elle-même, les éléments suivants peuvent être visibles :
 
 `Tous les dossiers n'ont pas été téléchargés, cliquez pour afficher les erreurs.`
 
-Cliquez [ici](https://support.catenda.com/fr/articles/13772277-desktop-connector-troubleshooting-not-all-folders-have-been-downloaded) pour en savoir plus sur le problème possible de cette erreur.
+Cliquez [ici](https://support.catenda.com/fr/articles/13772277-desktop-connector-tous-les-dossiers-n-ont-pas-ete-telecharges) pour en savoir plus sur le problème possible de cette erreur.
 
 ## 5. **Dernière révision retirée**
 

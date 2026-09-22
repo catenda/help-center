@@ -4,26 +4,26 @@
 
 **New articles:**
 
-[System requirements and optimization](https://intercom.help/bimsync-arena/en/articles/6921941-system-requirements-and-optimization)
+[System requirements and optimization](https://intercom.help/bimsync-arena/en/articles/6921941-hardware-recommendation)
 
 [Solibri Models and Documents Integration](https://intercom.help/bimsync-arena/en/articles/6988148-solibri-models-and-documents-integration)
 
-[2D Overlay](https://intercom.help/bimsync-arena/en/articles/6921756-2d-overlay)
+[2D Overlay](https://intercom.help/bimsync-arena/en/articles/6921756-storey-configurator-page)
 
-[Account settings](https://intercom.help/bimsync-arena/en/articles/6880968-account-settings)
+[Account settings](https://intercom.help/bimsync-arena/en/articles/6880968-account-page)
 
-[Resizing of columns](https://intercom.help/bimsync-arena/en/articles/6887350-resizing-of-columns) [IFC support in Documents](https://intercom.help/bimsync-arena/en/articles/5658031-ifc-support-in-documents) [What's new in Catenda Hub?](https://intercom.help/bimsync-arena/en/articles/7150907-what-s-new-in-catenda-hub) [What's new in Catenda Site?](https://intercom.help/bimsync-arena/en/articles/7161448-what-s-new-in-catenda-site)
+[Resizing of columns](https://intercom.help/bimsync-arena/en/articles/6887350-resizing-of-columns) [IFC support in Documents](https://intercom.help/bimsync-arena/en/articles/5658031-3d-preview-of-documents) [What's new in Catenda Hub?](https://intercom.help/bimsync-arena/en/articles/7150907-what-s-new-in-catenda-hub) [What's new in Catenda Site?](https://intercom.help/bimsync-arena/en/articles/7161448-what-s-new-in-catenda-site)
 
 <a class="intercom-content-link" href="" target="_blank">Project settings</a>
-[Table view in an issue board](https://support.catenda.com/en/articles/6941099-table-view-in-an-issue-board)
+[Table view in an issue board](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board)
 
-[List view in an issue board](https://support.catenda.com/en/articles/6941232-list-view-in-an-issue-board)
+[List view in an issue board](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board)
 
 **Articles that have changed:**
 
 [3D Viewer Settings](https://intercom.help/bimsync-arena/en/articles/5784718-3d-viewer-settings)
 
-[Document Approval](https://support.catenda.com/en/articles/5784717-document-approval)
+[Document Approval](https://support.catenda.com/en/articles/5784717-document-approval-legacy)
 
 [Multi Factor Authentication](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
 

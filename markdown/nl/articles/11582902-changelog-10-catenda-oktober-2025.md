@@ -14,129 +14,129 @@ Als nieuwe functies worden uitgerold en bugs worden opgelost, worden artikelen b
 
 **Accountbeheer**
 
-- [Filteren op de pagina leden en teams](https://support.catenda.com/nl/articles/11744242-filtering-on-the-members-and-teams-page)
-- [Rechts menu op de ledenenpagina](https://support.catenda.com/nl/articles/11768610-right-menu-on-the-members-page)
+- [Filteren op de pagina leden en teams](https://support.catenda.com/nl/articles/11744242-filteren-op-de-pagina-leden-en-teams)
+- [Rechts menu op de ledenenpagina](https://support.catenda.com/nl/articles/11768610-rechtermenu-op-de-pagina-leden)
 
 **Productfuncties**
 
 - Modellen
-  - [Filteren op de pagina modellen](https://support.catenda.com/nl/articles/12129622-filtering-on-the-models-page)
+  - [Filteren op de pagina modellen](https://support.catenda.com/nl/articles/12129622-filteren-op-de-modellenpagina)
   - [Verdieping Configurator Acties](https://Storey%20configurator%20actions)
-  - [Objectenpagina](https://support.catenda.com/nl/articles/12352750-objects-page)
-  - [Filteren op de pagina objecten](https://support.catenda.com/nl/articles/12353642-filtering-on-the-objects-page)
+  - [Objectenpagina](https://support.catenda.com/nl/articles/12352750-objectenpagina)
+  - [Filteren op de pagina objecten](https://support.catenda.com/nl/articles/12353642-filteren-op-de-objectenpagina)
 - Documenten
-  - [Documentvoorbeeldtools - Rubberstempel](https://support.catenda.com/nl/articles/11678493-document-preview-tools-rubber-stamp)
-  - [Rechts menu op de verzamelingenpagina](https://support.catenda.com/nl/articles/12179454-right-menu-on-the-collection-page)
-  - [Werkstroomenpagina - Documentinstellingen](https://support.catenda.com/nl/articles/12309903-workflows-page-document-settings)
-  - [Mapconfiguratie - Documentinstellingen](https://support.catenda.com/nl/articles/12302595-folder-configuration-document-settings)
-  - [Een nieuwe werkstroom maken](https://support.catenda.com/nl/articles/12313251-creating-a-new-workflow)
-  - [Concept goedkeuringsverzoekpagina](https://support.catenda.com/nl/articles/12495175-draft-approval-request-page)
-  - [Open of gesloten goedkeuringsverzoekpagina](https://support.catenda.com/nl/articles/12494960-open-or-closed-approval-request-page)
-  - [Goedkeuringenpagina](https://support.catenda.com/nl/articles/12495047-approvals-page)
-  - [Filteren op de goedkeuringenpagina](https://support.catenda.com/nl/articles/12495060-filtering-on-the-approvals-page)
-  - [Een nieuw goedkeuringsverzoek maken](https://support.catenda.com/nl/articles/12495005-creating-a-new-approval-request)
-  - [Versie toevoegen aan goedkeuringsverzoek](https://support.catenda.com/nl/articles/12495012-add-revision-to-approval)
-  - [Staplint in een goedkeuringsverzoek](https://support.catenda.com/nl/articles/12495212-step-ribbon-in-an-approval-request)
-  - [Rechts menu van een versie - Versie-informatie](https://support.catenda.com/nl/articles/8302244-right-menu-of-a-revision-revision-info)
-  - [Statuswerkstroom - Documentinstellingen](https://support.catenda.com/nl/articles/12495583-status-workflow-document-settings)
-  - [Overzichtstabblad in een goedkeuringsverzoek](https://support.catenda.com/nl/articles/12495126-overview-tab-in-an-approval-request)
-  - [Documenttabblad in een goedkeuringsverzoek](https://support.catenda.com/nl/articles/12495130-documents-tab-in-an-approval-request)
-  - [Rechts menu documenten goedkeuringsverzoek](https://support.catenda.com/nl/articles/12495638-approval-request-documents-right-menu)
-  - [Bestandsbeoordeling in een goedkeuringsverzoek](https://support.catenda.com/nl/articles/12507002-file-review-in-an-approval-request)
-  - [Rechts menu bestandsbeoordeling goedkeuringsverzoek](https://support.catenda.com/nl/articles/12507519-approval-request-file-review-right-menu)
-  - [Probleemoplossing bij goedkeuringen](https://support.catenda.com/nl/articles/12520773-approvals-troubleshooting)
+  - [Documentvoorbeeldtools - Rubberstempel](https://support.catenda.com/nl/articles/11678493-documentvoorbeeldinstrumenten-rubberstempel)
+  - [Rechts menu op de verzamelingenpagina](https://support.catenda.com/nl/articles/12179454-rechtermenu-op-de-verzamelinginhoudspagina)
+  - [Werkstroomenpagina - Documentinstellingen](https://support.catenda.com/nl/articles/12309903-workflowpagina-documentinstellingen)
+  - [Mapconfiguratie - Documentinstellingen](https://support.catenda.com/nl/articles/12302595-mapconfiguratie-documentinstellingen)
+  - [Een nieuwe werkstroom maken](https://support.catenda.com/nl/articles/12313251-een-nieuwe-workflow-maken)
+  - [Concept goedkeuringsverzoekpagina](https://support.catenda.com/nl/articles/12495175-pagina-voor-conceptgoedkeuringsverzoe)
+  - [Open of gesloten goedkeuringsverzoekpagina](https://support.catenda.com/nl/articles/12494960-open-of-gesloten-goedkeuringsverzoekaanvraag)
+  - [Goedkeuringenpagina](https://support.catenda.com/nl/articles/12495047-pagina-goedkeuringen)
+  - [Filteren op de goedkeuringenpagina](https://support.catenda.com/nl/articles/12495060-filteren-op-de-goedkeuringspagina)
+  - [Een nieuw goedkeuringsverzoek maken](https://support.catenda.com/nl/articles/12495005-een-nieuw-goedkeuringsverzoek-maken)
+  - [Versie toevoegen aan goedkeuringsverzoek](https://support.catenda.com/nl/articles/12495012-revisie-toevoegen-aan-beoordelingsaanvraag)
+  - [Staplint in een goedkeuringsverzoek](https://support.catenda.com/nl/articles/12495212-staplint-in-een-beoordelingsverzoek)
+  - [Rechts menu van een versie - Versie-informatie](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie)
+  - [Statuswerkstroom - Documentinstellingen](https://support.catenda.com/nl/articles/12495583-statuswerkstroom-documenten-instellingen)
+  - [Overzichtstabblad in een goedkeuringsverzoek](https://support.catenda.com/nl/articles/12495126-overzichtstabblad-in-een-beoordelingsverzoek)
+  - [Documenttabblad in een goedkeuringsverzoek](https://support.catenda.com/nl/articles/12495130-tabblad-documenten-in-een-beoordelingsverzoek)
+  - [Rechts menu documenten goedkeuringsverzoek](https://support.catenda.com/nl/articles/12495638-goedkeuringsaanvraag-documenten-rechts-menu)
+  - [Bestandsbeoordeling in een goedkeuringsverzoek](https://support.catenda.com/nl/articles/12507002-bestandsbeoordeling-in-een-beoordelingsaanvraag)
+  - [Rechts menu bestandsbeoordeling goedkeuringsverzoek](https://support.catenda.com/nl/articles/12507519-aanvraag-voor-goedkeuring-beoordelingmenu-aan-de-rechterkant)
+  - [Probleemoplossing bij goedkeuringen](https://support.catenda.com/nl/articles/12520773-probleemoplossing-goedkeuringspagina)
 - Rapporten
-  - [Rapportenpagina](https://support.catenda.com/nl/articles/12303098-reports-page)
+  - [Rapportenpagina](https://support.catenda.com/nl/articles/12303098-rapportenpagina)
 - Documenten - Legacy
-  - [Een nieuw goedkeuringsverzoek maken - Legacy](https://support.catenda.com/nl/articles/12360159-creating-a-new-approval-request-legacy)
-  - [Versie toevoegen aan een goedkeuringsverzoek - Legacy](https://support.catenda.com/nl/articles/12382093-add-revision-to-an-approval-request-legacy)
-  - [Goedkeuringsinstellingenpagina - Legacy](https://support.catenda.com/nl/articles/12367293-approval-settings-page-legacy)
-  - [Pagina onderwerpsjablonen - Legacy](https://support.catenda.com/nl/articles/12367730-topic-templates-page-legacy)
-  - [Een nieuw onderwerpsjabloon maken - Legacy](https://support.catenda.com/nl/articles/12372007-creating-a-new-topic-template-legacy)
-  - [Statuswerkstroom - Documentinstellingen - Legacy](https://support.catenda.com/nl/articles/12310173-status-workflow-document-settings-legacy)
-  - [Bestandsbeoordeling in een goedkeuringsverzoek - Legacy](https://support.catenda.com/nl/articles/12507422-file-review-in-an-approval-request-legacy)
-  - [Rechts menu bestandsbeoordeling goedkeuringsverzoek - Legacy](https://support.catenda.com/nl/articles/12507914-approval-request-file-review-right-menu-legacy)
+  - [Een nieuw goedkeuringsverzoek maken - Legacy](https://support.catenda.com/nl/articles/12360159-een-nieuw-goedkeuringsverzoek-maken-legacy)
+  - [Versie toevoegen aan een goedkeuringsverzoek - Legacy](https://support.catenda.com/nl/articles/12382093-revision-toevoegen-aan-een-goedkeuringsverzoek-legacy)
+  - [Goedkeuringsinstellingenpagina - Legacy](https://support.catenda.com/nl/articles/12367293-goedkeuringsinstellingenpagina-verouderd)
+  - [Pagina onderwerpsjablonen - Legacy](https://support.catenda.com/nl/articles/12367730-onderwerpsjablonenpagina-legacy)
+  - [Een nieuw onderwerpsjabloon maken - Legacy](https://support.catenda.com/nl/articles/12372007-een-nieuw-topic-sjabloon-maken-legacy)
+  - [Statuswerkstroom - Documentinstellingen - Legacy](https://support.catenda.com/nl/articles/12310173-status-werkstroom-documentinstellingen-legacy)
+  - [Bestandsbeoordeling in een goedkeuringsverzoek - Legacy](https://support.catenda.com/nl/articles/12507422-bestandsbeoordeling-in-een-beoordelingsverzoek-legacy)
+  - [Rechts menu bestandsbeoordeling goedkeuringsverzoek - Legacy](https://support.catenda.com/nl/articles/12507914-goedkeuringsvraag-bestandsbeoordeling-rechtermenu-legacy)
 
 **Probleemoplossing**
 
-- [Catenda Site - Probleemoplossing](https://support.catenda.com/nl/articles/11926914-catenda-site-troubleshooting)
+- [Catenda Site - Probleemoplossing](https://support.catenda.com/nl/articles/11926914-catenda-site-probleemoplossing)
 
 **Zelfstudies en handleidingen**
 
-- [Een nieuwe goedkeuringswerkstroom maken - Korte video](https://support.catenda.com/nl/articles/12457430-creating-a-new-approval-workflow-short-video)
-- [Maak een nieuwe goedkeuringswerkstroomsjabloon - Korte video](https://support.catenda.com/nl/articles/12458313-create-a-new-approval-workflow-template-short-video)
+- [Een nieuwe goedkeuringswerkstroom maken - Korte video](https://support.catenda.com/nl/articles/12457430-een-nieuwe-goedkeuringswerkstroom-maken-korte-video)
+- [Maak een nieuwe goedkeuringswerkstroomsjabloon - Korte video](https://support.catenda.com/nl/articles/12458313-maak-een-nieuwe-goedkeuringswerkstroomsjabloon-korte-video)
 
 **Veelgestelde vragen**
 
-- [Tabellen op Catenda](https://support.catenda.com/nl/articles/11748020-tables-on-catenda)
-- [Aangepaste ledeninformatie](https://support.catenda.com/nl/articles/11769670-custom-member-information)<br>
+- [Tabellen op Catenda](https://support.catenda.com/nl/articles/11748020-tabellen-op-catenda)
+- [Aangepaste ledeninformatie](https://support.catenda.com/nl/articles/11769670-aangepaste-lidgegevens)<br>
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
 **Accountbeheer**
 
 - Leden en teams
-  - [Pagina Leden en teams](https://support.catenda.com/nl/articles/4670291-members-and-teams-page)
+  - [Pagina Leden en teams](https://support.catenda.com/nl/articles/4670291-pagina-leden-en-teams)
 - Catenda Site
-  - [Instellingen - Catenda Site](https://support.catenda.com/nl/articles/7733833-settings-catenda-site)
+  - [Instellingen - Catenda Site](https://support.catenda.com/nl/articles/7733833-instellingen-catenda-site)
 
 **Productfuncties**
 
 - Algemene productinformatie
 - Dashboard
-  - [Dashboard-pagina](https://support.catenda.com/nl/articles/8212646-dashboard-page)
+  - [Dashboard-pagina](https://support.catenda.com/nl/articles/8212646-dashboard-pagina)
 - Onderwerpen
-  - [Onderwerppagina](https://support.catenda.com/nl/articles/4670271-topics-page)
-  - [Filteren in een onderwerpbord](https://support.catenda.com/nl/articles/8370693-filtering-in-a-topic-board)
-  - [Lijstweergave in een onderwerpbord](https://support.catenda.com/nl/articles/6941232-list-view-in-a-topic-board)
-  - [Kolommen op de onderwerppagina](https://support.catenda.com/nl/articles/6941099-columns-on-the-topics-page)
-  - [Acties tabel onderwerpen](https://support.catenda.com/nl/articles/4670284-topics-table-actions)
+  - [Onderwerppagina](https://support.catenda.com/nl/articles/4670271-pagina-topics)
+  - [Filteren in een onderwerpbord](https://support.catenda.com/nl/articles/8370693-filteren-op-de-onderwerppagina)
+  - [Lijstweergave in een onderwerpbord](https://support.catenda.com/nl/articles/6941232-lijstweergave-in-een-topic-board)
+  - [Kolommen op de onderwerppagina](https://support.catenda.com/nl/articles/6941099-tabelweergave-in-een-topic-board)
+  - [Acties tabel onderwerpen](https://support.catenda.com/nl/articles/4670284-tabel-acties-onderwerpen)
 - Modellen
-  - [Modelenpagina](https://support.catenda.com/nl/articles/4670286-models-page)
-  - [Rechts menu op de modelenpagina](https://support.catenda.com/nl/articles/9673735-right-menu-on-the-models-page)
-  - [Verdieping Configurator-pagina](https://support.catenda.com/nl/articles/6921756-storey-configurator-page)
+  - [Modelenpagina](https://support.catenda.com/nl/articles/4670286-modellapagina)
+  - [Rechts menu op de modelenpagina](https://support.catenda.com/nl/articles/9673735-rechtermenu-op-de-modellenpagina)
+  - [Verdieping Configurator-pagina](https://support.catenda.com/nl/articles/6921756-verdiepingsconfiguratorpagina)
 - Documenten
-  - [Documentenpagina](https://support.catenda.com/nl/articles/8204673-documents-page)
-  - [Pagina documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings-page)
-  - [Kolommen op de documentenpagina](https://support.catenda.com/nl/articles/8466850-columns-on-the-documents-page)
-  - [Filteren op de documentenpagina](https://support.catenda.com/nl/articles/4670283-filtering-on-the-documents-page)
-  - [Documentvoorbeeldtools](https://support.catenda.com/nl/articles/11384618-document-preview-tools)
-  - [Acties tabel documenten](https://support.catenda.com/nl/articles/4670288-document-structure-actions)
-  - [Een nieuwe documentversie uploaden](https://support.catenda.com/nl/articles/4670293-uploading-new-document-revision)
-  - [Verzamelingenpagina](https://support.catenda.com/nl/articles/8999764-collection-page)
-  - [Rechts menu van een versie - Versie-informatie](https://support.catenda.com/nl/articles/8302244-right-menu-of-a-revision-revision-info)
+  - [Documentenpagina](https://support.catenda.com/nl/articles/8204673-documentenpagina)
+  - [Pagina documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen)
+  - [Kolommen op de documentenpagina](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina)
+  - [Filteren op de documentenpagina](https://support.catenda.com/nl/articles/4670283-filteren-op-de-documentenpagina)
+  - [Documentvoorbeeldtools](https://support.catenda.com/nl/articles/11384618-hulpmiddelen-voor-documentvoorvertoning)
+  - [Acties tabel documenten](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel)
+  - [Een nieuwe documentversie uploaden](https://support.catenda.com/nl/articles/4670293-een-nieuwe-documentrevisie-uploaden)
+  - [Verzamelingenpagina](https://support.catenda.com/nl/articles/8999764-verzamelinhoud-pagina)
+  - [Rechts menu van een versie - Versie-informatie](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie)
 - Instellingen
-  - [Pagina aangepaste velden](https://support.catenda.com/nl/articles/6550459-custom-fields-page)
-  - [Pagina labels](https://support.catenda.com/nl/articles/4670265-labels-page)
+  - [Pagina aangepaste velden](https://support.catenda.com/nl/articles/6550459-pagina-eigen-velden)
+  - [Pagina labels](https://support.catenda.com/nl/articles/4670265-pagina-labels)
 - 2D- en 3D-viewers
-  - [Puntenwolken in Catenda Hub](https://support.catenda.com/nl/articles/5606625-point-clouds-in-catenda-hub)
-  - [Versiekiezer](https://support.catenda.com/nl/articles/4670279-revision-selector)
+  - [Puntenwolken in Catenda Hub](https://support.catenda.com/nl/articles/5606625-puntenwolken-in-catenda-hub)
+  - [Versiekiezer](https://support.catenda.com/nl/articles/4670279-revisiekiezer)
 - Catenda Plugins & Integraties
   - [3D-viewer - Catenda Site](https://support.catenda.com/nl/articles/7744403-3d-viewer-catenda-site)
-  - [Catenda Plugins & Integraties](https://support.catenda.com/nl/articles/8396532-catenda-plugins-and-integrations)
-  - [IFC export archicad handleiding](https://support.catenda.com/nl/articles/4670338-ifc-export-archicad-manual)
-  - [Catenda SharePoint-app inschakelen](https://support.catenda.com/nl/articles/9419749-enabling-the-catenda-sharepoint-app)
-  - [Catenda SP-app toevoegen en verwijderen](https://support.catenda.com/nl/articles/9453368-adding-and-removing-the-catendasp-app)
+  - [Catenda Plugins & Integraties](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties)
+  - [IFC export archicad handleiding](https://support.catenda.com/nl/articles/4670338-ifc-export-archicad-handboek)
+  - [Catenda SharePoint-app inschakelen](https://support.catenda.com/nl/articles/9419749-de-catenda-sharepoint-app-inschakelen)
+  - [Catenda SP-app toevoegen en verwijderen](https://support.catenda.com/nl/articles/9453368-de-catendasp-app-toevoegen-en-verwijderen)
 - Documenten - Legacy
-  - [Goedkeuringenpagina - Legacy](https://support.catenda.com/nl/articles/8349340-approvals-page-legacy)
-  - [Open, gepubliceerd of verworpen goedkeuring - Legacy](https://support.catenda.com/nl/articles/8349418-open-published-or-discarded-approval-legacy)
-  - [Documentgoedkeuring - Legacy](https://support.catenda.com/nl/articles/5784717-document-approval-legacy)
-  - [Filteren op de goedkeuringspagina - Legacy](https://support.catenda.com/nl/articles/8551740-filtering-on-the-approvals-page-legacy)
+  - [Goedkeuringenpagina - Legacy](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy)
+  - [Open, gepubliceerd of verworpen goedkeuring - Legacy](https://support.catenda.com/nl/articles/8349418-goedkeuring-geopend-gepubliceerd-of-verwijderd-legacy)
+  - [Documentgoedkeuring - Legacy](https://support.catenda.com/nl/articles/5784717-documentgoedkeuring-legacy)
+  - [Filteren op de goedkeuringspagina - Legacy](https://support.catenda.com/nl/articles/8551740-filteren-op-de-pagina-goedkeuringen-legacy)
 
 **Probleemoplossing**
 
-- [Solibri-documentintegratie probleemoplossing](https://support.catenda.com/nl/articles/11431097-solibri-documents-integration-troubleshooting)
-- [Gebruikersstem @ Catenda](https://support.catenda.com/nl/articles/5925449-user-voice-catenda)
+- [Solibri-documentintegratie probleemoplossing](https://support.catenda.com/nl/articles/11431097-solibri-documenten-integratieprobleemoplossing)
+- [Gebruikersstem @ Catenda](https://support.catenda.com/nl/articles/5925449-gebruikersfeedback-catenda)
 
 **Zelfstudies en handleidingen**
 
-- [Guidde-video's](https://support.catenda.com/nl/articles/11055278-guidde-videos)
+- [Guidde-video's](https://support.catenda.com/nl/articles/11055278-guidde-video-s)
 
 **Veelgestelde vragen**
 
-- [Locatie en functionaliteit van de ondersteuningsknop](https://support.catenda.com/nl/articles/8894066-support-button-location-and-functionality)
+- [Locatie en functionaliteit van de ondersteuningsknop](https://support.catenda.com/nl/articles/8894066-locatie-en-functionaliteit-van-de-ondersteuningsknop)
 - [2D locatie van onderwerpen](https://2D%20location%20of%20topics)
-- [Bestandstypen weergeven op Catenda Hub](https://support.catenda.com/nl/articles/4670320-previewing-file-types-on-catenda-hub)
+- [Bestandstypen weergeven op Catenda Hub](https://support.catenda.com/nl/articles/4670320-bestandstypen-bekijken-op-catenda-hub)
 
 ## 2. **Opgeloste bugs**
 

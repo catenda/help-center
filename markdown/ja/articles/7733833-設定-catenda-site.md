@@ -1,6 +1,6 @@
 # 設定 - Catenda Site
 
-Catenda Site の設定は[メニュー](https://support.catenda.com/ja/articles/7338516-navigation-menu-catenda-site)にあります。アカウント設定は次回ログイン時に復元されます。
+Catenda Site の設定は[メニュー](https://support.catenda.com/ja/articles/7338516-ナビゲーションメニュー-catenda-site)にあります。アカウント設定は次回ログイン時に復元されます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/an1f6vfe/01-intro.png)
 

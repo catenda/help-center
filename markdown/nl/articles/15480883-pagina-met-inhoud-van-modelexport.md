@@ -1,6 +1,6 @@
 # Pagina met inhoud van modelexport
 
-Klik op de kaart van een export in de exportlijst op de [pagina met modelexports](https://support.catenda.com/nl/articles/4670280-model-export) om naar de inhoudspagina voor die export te gaan. Dit is hoe de inhoudspagina van de modelexport eruit kan zien:
+Klik op de kaart van een export in de exportlijst op de [pagina met modelexports](https://support.catenda.com/nl/articles/4670280-pagina-model-export) om naar de inhoudspagina voor die export te gaan. Dit is hoe de inhoudspagina van de modelexport eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3ajw00qp/01-intro.png)
 

@@ -1,16 +1,16 @@
 # Einstellungsseite für Topic Board
 
-Um die Einstellungsseite für Topic Board zu öffnen, öffnen Sie zunächst die [Seite "Topics"](https://support.catenda.com/de/articles/4670271-topics-page).
+Um die Einstellungsseite für Topic Board zu öffnen, öffnen Sie zunächst die [Seite "Topics"](https://support.catenda.com/de/articles/4670271-themen-seite).
 
-Die Einstellungsseite eines Topic Board können Sie finden, indem Sie auf der [Boards-Seite](https://support.catenda.com/de/articles/9413644-boards-page) auf die Einstellungen eines Topic Board klicken, das etwa so aussehen kann:
+Die Einstellungsseite eines Topic Board können Sie finden, indem Sie auf der [Boards-Seite](https://support.catenda.com/de/articles/9413644-boards-seite) auf die Einstellungen eines Topic Board klicken, das etwa so aussehen kann:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/01-intro.png)
 
-Die Einstellungsseite des zuletzt besuchten Topic Board finden Sie auch, indem Sie zur [Seite "Topic-Einstellungen"](https://support.catenda.com/de/articles/14183429-topic-settings-page) gehen und auf die Einstellungen des Topic Board klicken.
+Die Einstellungsseite des zuletzt besuchten Topic Board finden Sie auch, indem Sie zur [Seite "Topic-Einstellungen"](https://support.catenda.com/de/articles/14183429-themeneinstellungen) gehen und auf die Einstellungen des Topic Board klicken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/02-intro.png)
 
-Sie finden die Einstellungsseite des Topic Board als Unterseite der [Seite "Topics"](https://support.catenda.com/de/articles/4670271-topics-page) oder indem Sie auf der [Boards-Seite](https://support.catenda.com/de/articles/9413644-boards-page#h_e0fc8beec6) auf die Einstellungen des entsprechenden Topic Board klicken. _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das [Topic Board](https://support.catenda.com/de/articles/4670271-topics-page)
+Sie finden die Einstellungsseite des Topic Board als Unterseite der [Seite "Topics"](https://support.catenda.com/de/articles/4670271-themen-seite) oder indem Sie auf der [Boards-Seite](https://support.catenda.com/de/articles/9413644-boards-seite#h_e0fc8beec6) auf die Einstellungen des entsprechenden Topic Board klicken. _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das [Topic Board](https://support.catenda.com/de/articles/4670271-themen-seite)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/03-intro.png)
 
@@ -26,15 +26,15 @@ So kann das Aktionsmenü oben rechts in einem Topic Board aussehen:
 
 ### 1.1 **Neuer Topic**
 
-Klicken Sie auf die grüne Schaltfläche Plus oder klicken Sie auf die Aktion "Neuer Topic" im Aktionsmenü, um einen [neuen Topic](https://support.catenda.com/de/articles/4670268-creating-a-new-issue) im aktuellen Topic Board zu erstellen. _Erforderlicher Zugriff:_ Lesezugriff auf das aktuelle Topic Board.
+Klicken Sie auf die grüne Schaltfläche Plus oder klicken Sie auf die Aktion "Neuer Topic" im Aktionsmenü, um einen [neuen Topic](https://support.catenda.com/de/articles/4670268-ein-neues-thema-erstellen) im aktuellen Topic Board zu erstellen. _Erforderlicher Zugriff:_ Lesezugriff auf das aktuelle Topic Board.
 
 ### 1.2 **Topics austauschen**
 
-Klicken Sie auf diese Schaltfläche, um [Topics auszutauschen](https://support.catenda.com/de/articles/4670289-exchange-issues)
+Klicken Sie auf diese Schaltfläche, um [Topics auszutauschen](https://support.catenda.com/de/articles/4670289-themen-austausch)
 
 ### 1.3 **Neues Topic Board**
 
-Klicken Sie auf diese Schaltfläche, um ein [neues Topic Board](https://support.catenda.com/de/articles/6379614-topic-board-from-an-existing-topic-board) zu erstellen.
+Klicken Sie auf diese Schaltfläche, um ein [neues Topic Board](https://support.catenda.com/de/articles/6379614-topic-board-aus-einem-vorhandenen-topic-board) zu erstellen.
 
 ### 1.4 **Historie**
 
@@ -42,7 +42,7 @@ _Importhistorie_ - Siehe die Topic-Importhistorie des Projekts _Exporthistorie_ 
 
 ### 1.5 **Topic Board archivieren**
 
-Sie können ein Topic Board in Catenda Hub nicht löschen. Stattdessen können Sie es "archivieren", so dass es nicht mehr angezeigt wird. Links zu Topics in archivierten Topic Boards sind in Dokumenten oder Objekten nicht sichtbar. Archivierte Topic Boards können wiederhergestellt werden, indem Sie auf der [Boards-Seite](https://support.catenda.com/de/articles/9413644-boards-page) zu den Einstellungen des archivierten Boards gehen. Nach der Wiederherstellung eines Boards sind die Links wieder sichtbar.
+Sie können ein Topic Board in Catenda Hub nicht löschen. Stattdessen können Sie es "archivieren", so dass es nicht mehr angezeigt wird. Links zu Topics in archivierten Topic Boards sind in Dokumenten oder Objekten nicht sichtbar. Archivierte Topic Boards können wiederhergestellt werden, indem Sie auf der [Boards-Seite](https://support.catenda.com/de/articles/9413644-boards-seite) zu den Einstellungen des archivierten Boards gehen. Nach der Wiederherstellung eines Boards sind die Links wieder sichtbar.
 
 > **Hinweis:** Sie können die Topics in einem archivierten Topic Board sehen, indem Sie auf "Topic Boards" klicken. Am unteren Ende dieser Liste können Sie "Archivierte anzeigen" auswählen.
 
@@ -98,7 +98,7 @@ Typen werden ähnlich wie Status konfiguriert, außer dass sie keine Meta-Status
 
 ## 4. **Benutzerdefinierte Felder**
 
-In diesem Menü können Sie benutzerdefinierte Felder in diesem Topic Board hinzufügen und ändern. _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Topic Board. Benutzerdefinierte Felder können auf der [Seite "Benutzerdefinierte Felder"](https://support.catenda.com/de/articles/6550459-custom-fields-setup) konfiguriert werden. _Erforderlicher Zugriff:_ Projektadministrator
+In diesem Menü können Sie benutzerdefinierte Felder in diesem Topic Board hinzufügen und ändern. _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Topic Board. Benutzerdefinierte Felder können auf der [Seite "Benutzerdefinierte Felder"](https://support.catenda.com/de/articles/6550459-seite-benutzerdefinierte-felder) konfiguriert werden. _Erforderlicher Zugriff:_ Projektadministrator
 
 ### 4.1 **Benutzerdefiniertes Feld hinzufügen**
 
@@ -142,7 +142,7 @@ Benutzer können einen Überblick darüber sehen, welche Teams und Benutzer Zugr
 
 ### 5.1 **Zugriff bearbeiten**
 
-Klicken Sie auf "Zugriff bearbeiten", um den Zugriff auf dieses Topic Board zu konfigurieren. Weitere Informationen zum Bearbeiten des Zugriffs finden Sie [hier](https://support.catenda.com/de/articles/4670296-issue-boards-acl). _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Topic Board.
+Klicken Sie auf "Zugriff bearbeiten", um den Zugriff auf dieses Topic Board zu konfigurieren. Weitere Informationen zum Bearbeiten des Zugriffs finden Sie [hier](https://support.catenda.com/de/articles/4670296-zugriffskontrolle-fur-themen-board). _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Topic Board.
 
 ## 6. **Nicht verknüpfte Felder**
 

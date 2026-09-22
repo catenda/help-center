@@ -1,6 +1,6 @@
 # Topic templates page - Legacy
 
-The topic templates page can be found by clicking the topic templates action in the action menu to the top right right of the [topic settings page](https://support.catenda.com/en/articles/12367293-approval-settings-page#h_320e990d50). _Access required_: Administrator
+The topic templates page can be found by clicking the topic templates action in the action menu to the top right right of the [topic settings page](https://support.catenda.com/en/articles/12367293-approval-settings-page-legacy#h_320e990d50). _Access required_: Administrator
 
 This is what the topics templates page can look like:
 
@@ -18,7 +18,7 @@ This is what the topics templates page actions can look like when looking at arc
 
 ### 1.1 **New topic template**
 
-Click on the new topic template action to create a new topic template. Click [here](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template) to read more about creating new topic templates.
+Click on the new topic template action to create a new topic template. Click [here](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template-legacy) to read more about creating new topic templates.
 
 ### 1.2 **Topic templates / Archived topic tempates**
 
@@ -26,7 +26,7 @@ Click on the topic templates and archived topic templates actions switch bteween
 
 ## 2. **Topic template card**
 
-After a topic template is created a card for the topic template appears on this page. Click on a topic template card to open the [topic template page](https://support.catenda.com/en/articles/12371549-topic-template-page) of that topic template. This is what a topic template card can look like:
+After a topic template is created a card for the topic template appears on this page. Click on a topic template card to open the [topic template page](https://support.catenda.com/en/articles/12371549-topic-template-page-legacy) of that topic template. This is what a topic template card can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/04-topic-template-card.png)
 

@@ -2,7 +2,7 @@
 
 ## 1. **Saving more member data**
 
-If you wish to save more member data than supplied on the members page it is recommended to make an topic board with [custom fields](https://support.catenda.com/en/articles/8445588-custom-field-page) for the different columns you want and then make an topic per user. This is what such an topic board can look like:
+If you wish to save more member data than supplied on the members page it is recommended to make an topic board with [custom fields](https://support.catenda.com/en/articles/8445588-custom-field-contents-page) for the different columns you want and then make an topic per user. This is what such an topic board can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s4p1rv5j/01-saving-more-member-data.png)
 

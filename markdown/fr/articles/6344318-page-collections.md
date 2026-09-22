@@ -2,7 +2,7 @@
 
 > Partager des documents, télécharger des documents en fichier ZIP
 
-Vous pourrez trouver les collections de documents en tant que sous-page de la [page documents](https://support.catenda.com/fr/articles/4670292-documents-page). Consultez une courte vidéo sur les collections de documents [ici](https://support.catenda.com/fr/articles/6423380-documents-collection-short-video)
+Vous pourrez trouver les collections de documents en tant que sous-page de la [page documents](https://support.catenda.com/fr/articles/4670292-acl-du-repertoire-racine). Consultez une courte vidéo sur les collections de documents [ici](https://support.catenda.com/fr/articles/6423380-collection-de-documents-video-courte)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/01-intro.png)
 
@@ -28,7 +28,7 @@ Lorsque vous créez une nouvelle collection, vous serez invité à remplir le di
 
 **Ajouter des Documents** Pour ajouter des Documents, cliquez sur le [bouton ajouter des Documents](#h_b94d108342).
 
-**Envoyer** Lorsque vous envoyez votre collection, vous serez redirigé vers la [page collection](https://support.catenda.com/fr/articles/8999764-collection-page) des collections. La collection sera une [collection privée](https://support.catenda.com/fr/articles/8999764-collection-page#h_0b76040299) que seul vous pouvez voir. Vous pourrez toujours modifier cette collection avant de la partager avec le reste du projet.
+**Envoyer** Lorsque vous envoyez votre collection, vous serez redirigé vers la [page collection](https://support.catenda.com/fr/articles/8999764-page-de-contenu-de-la-collection) des collections. La collection sera une [collection privée](https://support.catenda.com/fr/articles/8999764-page-de-contenu-de-la-collection#h_0b76040299) que seul vous pouvez voir. Vous pourrez toujours modifier cette collection avant de la partager avec le reste du projet.
 
 ### 1.2 **Ajout de Documents aux collections**
 
@@ -46,7 +46,7 @@ vous pouvez soit sélectionner les Documents un par un, soit cliquer sur la case
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/05-search-and-filter.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/8999945-filtering-on-the-collections-page) pour voir les options disponibles lors du filtrage sur la page des collections.
+Cliquez [ici](https://support.catenda.com/fr/articles/8999945-filtrage-sur-la-page-des-collections) pour voir les options disponibles lors du filtrage sur la page des collections.
 
 ## 3. **Liste des collections**
 

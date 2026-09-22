@@ -1,8 +1,8 @@
 # Suivre les annotations avec les markups
 
-La nouvelle fonctionnalité Markup permet de regrouper les annotations qui peuvent être placées sur différentes pages d'un document et sur plusieurs révisions. Les ensembles d'annotations peuvent être trouvés sous forme de [commentaires sur les topics](https://support.catenda.com/fr/articles/8053352-topic-body-the-content-of-a-topic#h_f76b44d3ca). Dans l'[onglet markups](https://support.catenda.com/fr/articles/10205725-right-menu-of-a-revision-markups) du menu d'informations de droite d'un document, vous trouverez les ensembles d'annotations regroupés dans un markup. Lorsqu'il est activé, les annotations dans un markup peuvent être [prévisualisées sur un document](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations).
+La nouvelle fonctionnalité Markup permet de regrouper les annotations qui peuvent être placées sur différentes pages d'un document et sur plusieurs révisions. Les ensembles d'annotations peuvent être trouvés sous forme de [commentaires sur les topics](https://support.catenda.com/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet#h_f76b44d3ca). Dans l'[onglet markups](https://support.catenda.com/fr/articles/10205725-menu-droit-d-une-revision-markups) du menu d'informations de droite d'un document, vous trouverez les ensembles d'annotations regroupés dans un markup. Lorsqu'il est activé, les annotations dans un markup peuvent être [prévisualisées sur un document](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations).
 
-Le diagramme ci-dessous illustre comment les annotations sont regroupées sous différents markups qui peuvent ensuite être [enregistrés comme commentaire](https://support.catenda.com/fr/articles/10209740-saving-a-markup) sous des topics nouveaux ou existants.
+Le diagramme ci-dessous illustre comment les annotations sont regroupées sous différents markups qui peuvent ensuite être [enregistrés comme commentaire](https://support.catenda.com/fr/articles/10209740-enregistrer-un-markup) sous des topics nouveaux ou existants.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/01-intro.png)
 
@@ -40,17 +40,17 @@ Cela peut être bon pour les markups avec des annotations générales qui seront
 
 ## 2. **Créer des annotations**
 
-Comme avant, vous pouvez créer des annotations en accédant au document dans le [tableau des documents](https://support.catenda.com/fr/articles/8204673-documents-page#h_54e8dfcac2) et en cliquant sur son nom pour voir l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations). Ici, vous pouvez choisir un outil d'annotation dans la barre d'outils. Cliquez n'importe où dans le document pour créer la première annotation afin de commencer votre markup :
+Comme avant, vous pouvez créer des annotations en accédant au document dans le [tableau des documents](https://support.catenda.com/fr/articles/8204673-page-documents#h_54e8dfcac2) et en cliquant sur son nom pour voir l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations). Ici, vous pouvez choisir un outil d'annotation dans la barre d'outils. Cliquez n'importe où dans le document pour créer la première annotation afin de commencer votre markup :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/04-creating-annotations.png)
 
 ## 3. **Onglet Markups**
 
-Après avoir créé des annotations, vous verrez que vous avez des [markups non enregistrés](https://support.catenda.com/fr/articles/10209740-saving-a-markup) dans l'[onglet markups du panneau d'informations de droite](https://support.catenda.com/fr/articles/10205725-right-menu-of-a-revision-markups).
+Après avoir créé des annotations, vous verrez que vous avez des [markups non enregistrés](https://support.catenda.com/fr/articles/10209740-enregistrer-un-markup) dans l'[onglet markups du panneau d'informations de droite](https://support.catenda.com/fr/articles/10205725-menu-droit-d-une-revision-markups).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/05-markups-tab.png)
 
-> **Remarque :** Lorsque vous ouvrez d'abord un document, son menu de droite peut être fermé. Vous pouvez cliquer sur le bouton d'information en bas à droite de la [bannière du document](https://support.catenda.com/fr/articles/8461918-document-banner-actions-navigation) pour développer ce menu. <div> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/06-document-banner-information-button.png" width="400" > </div>
+> **Remarque :** Lorsque vous ouvrez d'abord un document, son menu de droite peut être fermé. Vous pouvez cliquer sur le bouton d'information en bas à droite de la [bannière du document](https://support.catenda.com/fr/articles/8461918-banniere-de-documents-navigation) pour développer ce menu. <div> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/06-document-banner-information-button.png" width="400" > </div>
 
 ### 3.1 **Plusieurs markups à la fois**
 
@@ -60,19 +60,19 @@ Supposons que ce markup était destiné à l'Architecte, mais vous souhaitez ég
 
 ## 4. **Enregistrer les markups**
 
-Une fois que vous avez terminé la modification de vos markups, vous pouvez les [enregistrer](https://support.catenda.com/fr/articles/10209740-saving-a-markup#h_8542b82cf8). Lors de l'enregistrement, un commentaire sera créé pour chaque ensemble d'annotations sur la page d'une revision
+Une fois que vous avez terminé la modification de vos markups, vous pouvez les [enregistrer](https://support.catenda.com/fr/articles/10209740-enregistrer-un-markup#h_8542b82cf8). Lors de l'enregistrement, un commentaire sera créé pour chaque ensemble d'annotations sur la page d'une revision
 
 Les topics suivants sont décrits dans cette section :
 
 ### 4.1 **Enregistrer chaque markup dans son propre topic**
 
-Si vous cliquez sur [Enregistrer les markups](https://support.catenda.com/fr/articles/10209740-saving-a-markup#h_8542b82cf8), vous créerez un topic pour chaque markup.
+Si vous cliquez sur [Enregistrer les markups](https://support.catenda.com/fr/articles/10209740-enregistrer-un-markup#h_8542b82cf8), vous créerez un topic pour chaque markup.
 
 Ces topics peuvent ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/08-save-each-markup-to-its-own-topic.png)
 
-S'il y a des annotations sur plusieurs pages dans les documents, il y aura un [commentaire](https://support.catenda.com/fr/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) avec une capture d'écran de l'annotation pour chaque page contenant des annotations.
+S'il y a des annotations sur plusieurs pages dans les documents, il y aura un [commentaire](https://support.catenda.com/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet#h_e98c0964d4) avec une capture d'écran de l'annotation pour chaque page contenant des annotations.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/09-save-each-markup-to-its-own-topic.png)
 
@@ -84,7 +84,7 @@ Si vous préférez avoir tous les markups dans un topic, vous pouvez préparer u
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/10-br-save-all-markups-to-one-topic.png)
 
-Ici, vous verrez les topics où le document [a été lié](https://support.catenda.com/fr/articles/8053299-right-menu-in-a-topic#h_b00b9c5150) et s'il y a des [commentaires](https://support.catenda.com/fr/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) sur cette révision. S'il y a des annotations sur plusieurs pages dans les documents, il y aura un [commentaire](https://support.catenda.com/fr/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) avec une capture d'écran de l'annotation pour chaque page avec des annotations dans chaque markup.
+Ici, vous verrez les topics où le document [a été lié](https://support.catenda.com/fr/articles/8053299-menu-de-droite-dans-un-sujet#h_b00b9c5150) et s'il y a des [commentaires](https://support.catenda.com/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet#h_e98c0964d4) sur cette révision. S'il y a des annotations sur plusieurs pages dans les documents, il y aura un [commentaire](https://support.catenda.com/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet#h_e98c0964d4) avec une capture d'écran de l'annotation pour chaque page avec des annotations dans chaque markup.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/11-br-save-all-markups-to-one-topic.png)
 

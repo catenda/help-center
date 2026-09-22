@@ -4,7 +4,7 @@ Pour éviter les notifications indésirées et assurer un lancement en douceur, 
 
 Cet article contient des informations sur les Sujets suivants :
 
-_[Activation des fonctionnalités à la demande](https://support.catenda.com/fr/articles/13905373-feature-statuses-q3-2025#h_f72a02b8b6)_
+_[Activation des fonctionnalités à la demande](https://support.catenda.com/fr/articles/13905373-statuts-des-fonctionnalites-q3-2025#h_f72a02b8b6)_
 
 ## 1. **Activation des fonctionnalités à la demande**
 

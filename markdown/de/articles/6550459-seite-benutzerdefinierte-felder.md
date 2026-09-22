@@ -2,7 +2,7 @@
 
 > Themen-Boards und Benennungskonventionen anpassen
 
-Sie finden die Seite "Benutzerdefinierte Felder" als Unterseite der [Seite "Projekteinstellungen"](https://support.catenda.com/de/articles/4670273-project-settings-page). Mit benutzerdefinierten Feldern können Sie Ihre Themen und Benennungskonventionen durch Hinzufügen von Textfeldern, Zahlen und Wertlisten anpassen.
+Sie finden die Seite "Benutzerdefinierte Felder" als Unterseite der [Seite "Projekteinstellungen"](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen). Mit benutzerdefinierten Feldern können Sie Ihre Themen und Benennungskonventionen durch Hinzufügen von Textfeldern, Zahlen und Wertlisten anpassen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7c3te8t3/01-intro.png)
 
@@ -14,7 +14,7 @@ Die neuen Elementaktionen finden Sie oben rechts auf der Seite.
 
 ### 1.1 **Neues benutzerdefiniertes Feld**
 
-Administratoren können hier eine grüne Schaltfläche "Neue benutzerdefinierte Felder" sehen. Siehe [hier](https://support.catenda.com/de/articles/8445575-creating-a-custom-field), wie Sie ein neues benutzerdefiniertes Feld erstellen
+Administratoren können hier eine grüne Schaltfläche "Neue benutzerdefinierte Felder" sehen. Siehe [hier](https://support.catenda.com/de/articles/8445575-erstellen-eines-benutzerdefinierten-felds), wie Sie ein neues benutzerdefiniertes Feld erstellen
 
 ### 1.2 **Archivierte benutzerdefinierte Felder**
 
@@ -46,11 +46,11 @@ Sobald ein benutzerdefiniertes Feld erstellt wird, wird es als Zeile in der Tabe
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7c3te8t3/04-custom-field-table.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten.
+Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tabellen-in-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten.
 
 ### 3.1 **Zeileninhalt**
 
-Nachdem ein benutzerdefiniertes Feld erstellt wurde, kann dessen Typ nicht mehr geändert werden. Klicken Sie auf eines der Felder, um zur [Seite des benutzerdefinierten Felds](https://support.catenda.com/de/articles/8445588-custom-field-page) dieses benutzerdefinierten Felds zu gelangen.
+Nachdem ein benutzerdefiniertes Feld erstellt wurde, kann dessen Typ nicht mehr geändert werden. Klicken Sie auf eines der Felder, um zur [Seite des benutzerdefinierten Felds](https://support.catenda.com/de/articles/8445588-seite-mit-benutzerdefinierten-feldvorgaben) dieses benutzerdefinierten Felds zu gelangen.
 
 ### 3.2 **Spalten**
 
@@ -58,4 +58,4 @@ Name - Der Name des benutzerdefinierten Felds Typ - Der Typ des benutzerdefinier
 
 ## 4. **Aktivieren eines benutzerdefinierten Felds**
 
-Nach dem Erstellen eines benutzerdefinierten Felds kann das Feld zu [Themen in einem Themen-Board](https://support.catenda.com/de/articles/6563368-how-to-use-custom-fields-at-my-issues) oder als Werte in einer [Benennungskonvention](https://support.catenda.com/de/articles/7869240-how-to-use-custom-fields-in-naming-convention) hinzugefügt werden.
+Nach dem Erstellen eines benutzerdefinierten Felds kann das Feld zu [Themen in einem Themen-Board](https://support.catenda.com/de/articles/6563368-benutzerdefinierte-felder-in-einem-topic-board) oder als Werte in einer [Benennungskonvention](https://support.catenda.com/de/articles/7869240-verwendung-von-benutzerdefinierten-feldern-in-namenskonventionen) hinzugefügt werden.

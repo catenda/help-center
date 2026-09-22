@@ -14,11 +14,11 @@ Klik op de filterknop linksboven om een paneel aan de linkerkant te laten versch
 
 ### 1.1 **Het huidige filter opslaan en delen**
 
-Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen opgeslagen worden boven in het filtermenu. Klik [hier](https://support.catenda.com/nl/articles/11401493-saving-a-filter-link) om meer te lezen over hoe u filters opslaat en deelt
+Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen opgeslagen worden boven in het filtermenu. Klik [hier](https://support.catenda.com/nl/articles/11401493-een-filterlink-opslaan-en-delen) om meer te lezen over hoe u filters opslaat en deelt
 
 ### 1.2 **Lege filters verbergen**
 
-Klik [hier](https://support.catenda.com/nl/articles/8551755-saving-filters) om meer te lezen over het beperken van filterresultaten.
+Klik [hier](https://support.catenda.com/nl/articles/8551755-filterresultaten-beperken) om meer te lezen over het beperken van filterresultaten.
 
 ### 1.3 **Tabbladen**
 

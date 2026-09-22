@@ -12,11 +12,11 @@ Gjeldende etasje vil alltid være synlig
 
 ### 1.2 **Ulåst**
 
-Gjeldende etasje vil være etasjen som er nærmest i høyde til kamerahøyden. Dette er spesielt nyttig i [gangsmode](https://support.catenda.com/nb/articles/5784718-3d-viewer-settings) der etasjen vil endres til neste etasje hvis du for eksempel går opp trappene.
+Gjeldende etasje vil være etasjen som er nærmest i høyde til kamerahøyden. Dette er spesielt nyttig i [gangsmode](https://support.catenda.com/nb/articles/5784718-3d-viser-innstillinger) der etasjen vil endres til neste etasje hvis du for eksempel går opp trappene.
 
 ## 2. **Bygningmeny**
 
-Hvis en bygning har blitt konfigurert i [etasjen konfigurerer](https://support.catenda.com/nb/articles/6921756-storey-configurator-page), vil du kunne se bygningsmenyen. Bygningsmenyen kan se slik ut:
+Hvis en bygning har blitt konfigurert i [etasjen konfigurerer](https://support.catenda.com/nb/articles/6921756-storey-configurator-side), vil du kunne se bygningsmenyen. Bygningsmenyen kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xw6p1nhs/02-building-menu.png)
 

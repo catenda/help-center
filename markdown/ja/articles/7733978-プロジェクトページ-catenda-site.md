@@ -1,6 +1,6 @@
 # プロジェクトページ - Catenda Site
 
-Catenda Siteに[ダウンロード、インストール、ログイン](https://support.catenda.com/ja/articles/6530821-download-your-mobile-app-catenda-site)すると、プロジェクトページが表示されます。プロジェクトページは、[メニュー](https://support.catenda.com/ja/articles/7338516-navigation-menu-catenda-site)でプロジェクト名をタップすることで見つけることができます。
+Catenda Siteに[ダウンロード、インストール、ログイン](https://support.catenda.com/ja/articles/6530821-モバイルアプリ-catenda-site-をダウンロード)すると、プロジェクトページが表示されます。プロジェクトページは、[メニュー](https://support.catenda.com/ja/articles/7338516-ナビゲーションメニュー-catenda-site)でプロジェクト名をタップすることで見つけることができます。
 
 ![プロジェクトを選択](https://raw.githubusercontent.com/catenda/help-center/main/images/2g7dc990/01-intro.png)
 

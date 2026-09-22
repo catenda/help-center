@@ -1,6 +1,6 @@
 # Informasjonspanel
 
-Du vil kunne finne Informasjonspanelet som ett av de fire hovedpanelene som kan åpnes øverst til høyre på skjermen din. Du kan enten trykke på i-ikonet for å åpne dette panelet, eller du kan trykke [shift+4](https://support.catenda.com/nb/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Inspect%20panel-,Shift%20%2B%204,-Show/hide%20last).
+Du vil kunne finne Informasjonspanelet som ett av de fire hovedpanelene som kan åpnes øverst til høyre på skjermen din. Du kan enten trykke på i-ikonet for å åpne dette panelet, eller du kan trykke [shift+4](https://support.catenda.com/nb/articles/4670267-sammendrag-av-de-viktigste-snarveiene-og-grunnleggende-kontroller#:~:text=Inspect%20panel-,Shift%20%2B%204,-Show/hide%20last).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/01-intro.png)
 
@@ -8,7 +8,7 @@ I informasjonspanelet vil du kunne finne følgende seksjoner:
 
 ## 1. **Inspiser**
 
-Dette lar deg se informasjonen om valgte objekter. Klikk [her](https://support.catenda.com/nb/articles/4670285-inspect-panel) for å lese mer om inspiseringspanelet.
+Dette lar deg se informasjonen om valgte objekter. Klikk [her](https://support.catenda.com/nb/articles/4670285-inspeksjonsmeny) for å lese mer om inspiseringspanelet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/02-inspect.png)
 
@@ -18,7 +18,7 @@ Dette lar deg lage og eksportere en liste over objekter og beregne summene av ve
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/03-quantity-take-off.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/6673929-quantity-take-off-qto) for å lese mer om Mengdeberegning
+Klikk [her](https://support.catenda.com/nb/articles/6673929-mengdetaking-qto) for å lese mer om Mengdeberegning
 
 ## 3. **4D**
 
@@ -68,7 +68,7 @@ Dette lar deg lage et sett med objekter som deretter kan stiliseres og farges.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/08-selections.png)
 
-Mot toppen av Utvalgsmenyen vil du se hvor mange elementer du har valgt i 3D-viseren og treepanelet. Utvalg kan lagres ved å lage et [øyeblikksbilde](https://support.catenda.com/nb/articles/8053352-issue-body#h_1ba7f8873f) eller et [bokmerke](https://support.catenda.com/nb/articles/8471481-bookmark) og spille det av senere. Fordi utvalg lagres i øyeblikksbildet av en sak, kan de importeres og eksporteres til andre programmer gjennom BCF. Et eksempel på dette er at saker med utvalg fra utvalgskurven som synkroniseres gjennom BCF live connector i Solibri, vil inneholde utvalgsdata når øyeblikksbildet spilles av.
+Mot toppen av Utvalgsmenyen vil du se hvor mange elementer du har valgt i 3D-viseren og treepanelet. Utvalg kan lagres ved å lage et [øyeblikksbilde](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_1ba7f8873f) eller et [bokmerke](https://support.catenda.com/nb/articles/8471481-bokmerkeside-for-innhold) og spille det av senere. Fordi utvalg lagres i øyeblikksbildet av en sak, kan de importeres og eksporteres til andre programmer gjennom BCF. Et eksempel på dette er at saker med utvalg fra utvalgskurven som synkroniseres gjennom BCF live connector i Solibri, vil inneholde utvalgsdata når øyeblikksbildet spilles av.
 
 ### 5.1 **Nytt utvalg**
 
@@ -114,4 +114,4 @@ Dette lar deg se hvilke målinger som har blitt gjort i 3D-viseren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/11-measurements.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/4670294-measuring-features) for å lese mer om målinger
+Klikk [her](https://support.catenda.com/nb/articles/4670294-3d-viser-verktoymeny) for å lese mer om målinger

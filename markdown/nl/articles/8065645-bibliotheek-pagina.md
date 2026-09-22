@@ -12,7 +12,7 @@ Door op de knop nieuw item te klikken kunt u een nieuwe bibliotheek toevoegen.
 
 ### 1.1 **Document bibliotheken**
 
-[Documenten](https://support.catenda.com/nl/articles/8204673-documents-page) - De document bibliotheek in de documenten sectie [Koppelingen bibliotheek](https://support.catenda.com/nl/articles/4670254-links-library) - Koppel koppelingen aan objecten en problemen _Dropbox_ - Koppel bestanden van Dropbox aan objecten in de BIM
+[Documenten](https://support.catenda.com/nl/articles/8204673-documentenpagina) - De document bibliotheek in de documenten sectie [Koppelingen bibliotheek](https://support.catenda.com/nl/articles/4670254-koppelingen-bibliotheek) - Koppel koppelingen aan objecten en problemen _Dropbox_ - Koppel bestanden van Dropbox aan objecten in de BIM
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7wg8652x/03-document-libraries.png)
 
@@ -20,9 +20,9 @@ Nadat u uw bibliotheek een naam hebt gegeven, stuurt Catenda u door naar Dropbox
 
 > **Opmerking:** Catenda krijgt nooit toegang tot uw Dropbox-wachtwoord omdat OAuth 2.0 voor authenticatie wordt gebruikt.
 
-_[Sharepoint](https://support.catenda.com/nl/articles/5744548-sharepoint-library)_ - voeg een Sharepoint bibliotheek toe aan het project. Dit stelt leden in staat om de bestanden weer te geven en deze aan anderen te koppelen.
+_[Sharepoint](https://support.catenda.com/nl/articles/5744548-sharepoint-bibliotheek)_ - voeg een Sharepoint bibliotheek toe aan het project. Dit stelt leden in staat om de bestanden weer te geven en deze aan anderen te koppelen.
 
-> **Opmerking:** Dit verschilt van onze [SharePoint-toepassing](https://support.catenda.com/nl/articles/8396496-catenda-sharepoint-application) waarmee leden documenten van SharePoint naar Catenda kunnen posten
+> **Opmerking:** Dit verschilt van onze [SharePoint-toepassing](https://support.catenda.com/nl/articles/8396496-catenda-sharepoint-toepassing) waarmee leden documenten van SharePoint naar Catenda kunnen posten
 
 _coBuilder Pro_ - Documenten - Tag objecten met documenten van coBuilder Pro Deze bibliotheek is alleen beschikbaar in oude projecten.
 
@@ -32,7 +32,7 @@ Voer uw coBuilderPRO-gebruikersnaam en -wachtwoord in om verbinding te maken.
 
 ### 1.2 **Algemene bibliotheken**
 
-_[Classificatie](https://support.catenda.com/nl/articles/4670255-classification-library)_ - Tag objecten met aangepaste classificaties uit een CSV-bestand _coBuilder Pro_ - tag objecten met productinformatie van coBuilder Pro _Lookup_ - Neem een externe website op als bibliotheek _[Eigenschapwaarden](https://support.catenda.com/nl/articles/4670252-property-value-library)_ - Maak vermeldingen op basis van eigenschapwaarden
+_[Classificatie](https://support.catenda.com/nl/articles/4670255-classificatiebibliotheek)_ - Tag objecten met aangepaste classificaties uit een CSV-bestand _coBuilder Pro_ - tag objecten met productinformatie van coBuilder Pro _Lookup_ - Neem een externe website op als bibliotheek _[Eigenschapwaarden](https://support.catenda.com/nl/articles/4670252-bibliotheek-eigenschapwaarde)_ - Maak vermeldingen op basis van eigenschapwaarden
 
 ### 1.3 **Voorgestelde bibliotheken**
 

@@ -82,4 +82,4 @@ A convention always has at least two blocks: 1\. The name of the file/document. 
 
 ![Cancel Submit naming convention](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/11-br-submitting-a-convention.png)
 
-After submitting a naming convention it can be [enabled per folder](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90) in [document settings](https://support.catenda.com/en/articles/7831371-document-settings).
+After submitting a naming convention it can be [enabled per folder](https://support.catenda.com/en/articles/7831371-document-settings-page#h_6672c14d90) in [document settings](https://support.catenda.com/en/articles/7831371-document-settings-page).

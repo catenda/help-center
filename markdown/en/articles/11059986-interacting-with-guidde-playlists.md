@@ -28,4 +28,4 @@ After opening the playlist you will be able to find the share button on the top 
 
 Notice that your URL changes when you click on the different videos. When you share with the share button, you will share a link to your current video as part of the playlist.
 
-## 4. Guide Playlists about Catenda can be found 👉 [here](https://support.catenda.com/en/articles/11055278-guide-playlists)
+## 4. Guide Playlists about Catenda can be found 👉 [here](https://support.catenda.com/en/articles/11055278-guidde-videos)

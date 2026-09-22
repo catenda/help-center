@@ -1,6 +1,6 @@
 # Registerkarte "Übersicht" in einer Freigabeanfrage
 
-Die Registerkarte "Übersicht" einer Freigabeanfrage finden Sie auf der Seite der Freigabeanfrage von [offenen oder geschlossenen](https://support.catenda.com/de/articles/12494960-open-or-closed-approval-request-page) Freigaben. In der Registerkarte "Übersicht" finden Sie eine Übersicht eines ausgewählten Freigabeprüfschritts. In dem Schritt können die Validierungen eingesehen werden, die von einem Mitglied im Namen jedes zur Prüfung des Schritts konfigurierten Sender-Teams angegeben und eingereicht werden. Eine Übersicht der Validierungseinreichungen für alle Schritte finden Sie auf der [Registerkarte "Dokumente"](https://support.catenda.com/de/articles/8349418-approval-page#h_133b2690af).
+Die Registerkarte "Übersicht" einer Freigabeanfrage finden Sie auf der Seite der Freigabeanfrage von [offenen oder geschlossenen](https://support.catenda.com/de/articles/12494960-seite-offene-oder-geschlossene-freigabeanfrage) Freigaben. In der Registerkarte "Übersicht" finden Sie eine Übersicht eines ausgewählten Freigabeprüfschritts. In dem Schritt können die Validierungen eingesehen werden, die von einem Mitglied im Namen jedes zur Prüfung des Schritts konfigurierten Sender-Teams angegeben und eingereicht werden. Eine Übersicht der Validierungseinreichungen für alle Schritte finden Sie auf der [Registerkarte "Dokumente"](https://support.catenda.com/de/articles/8349418-genehmigung-offen-veroffentlicht-oder-verworfen-veraltet#h_133b2690af).
 
 > **Hinweis:** **Look and Feel -** Dies ist eine mögliche Darstellung der Registerkarte "Übersicht" im Genehmigungsinhalt für Projekte, bei denen gemeinsame Überarbeitungen nach dem 2. Oktober 2025 aktiviert wurden:
 
@@ -12,7 +12,7 @@ Im Schritt-Menüband kann eine Vorschau des Fortschritts der Freigabeanfrage ein
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/02-approval-request-step-ribbon.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/12495212-step-ribbon-in-an-approval-request), um mehr über das Schritt-Menüband zu erfahren
+Klicken Sie [hier](https://support.catenda.com/de/articles/12495212-schrittband-in-einer-freigabeanfrage), um mehr über das Schritt-Menüband zu erfahren
 
 ## 2. Dropdown Freigabeschritt
 
@@ -76,7 +76,7 @@ Das Ergebnis der Genehmigung wird unter der Schritt-Übersicht angezeigt:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/09-approval-request-result.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/12520773-approvals-troubleshooting), um mehr darüber zu erfahren, warum die Veröffentlichung von Dokumenten fehlschlagen kann.
+Klicken Sie [hier](https://support.catenda.com/de/articles/12520773-fehlerbehebung-auf-der-seite-genehmigungen), um mehr darüber zu erfahren, warum die Veröffentlichung von Dokumenten fehlschlagen kann.
 
 ### 5.1 Details anzeigen
 

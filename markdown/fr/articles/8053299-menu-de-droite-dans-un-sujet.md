@@ -1,6 +1,6 @@
 # Menu de droite dans un sujet
 
-Le menu de droite dans un sujet se trouve en cliquant sur le bouton d'information à droite dans la [bannière de sujet](https://support.catenda.com/fr/articles/7986346-topic-banner-navigating-topics) vers le haut de la page après avoir ouvert un sujet.
+Le menu de droite dans un sujet se trouve en cliquant sur le bouton d'information à droite dans la [bannière de sujet](https://support.catenda.com/fr/articles/7986346-banniere-de-sujet-navigation-dans-les-sujets) vers le haut de la page après avoir ouvert un sujet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/01-intro.png)
 

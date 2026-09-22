@@ -1,6 +1,6 @@
 # Status-Workflow – Dokumenteinstellungen – Legacy
 
-Das Menü für den Status-Workflow finden Sie auf der [Seite Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings-page). In neuen Projekten ist der Status-Workflow standardmäßig deaktiviert. Es ist möglich, ein Projekt mit vorkonfigurierten Status zu starten, wenn das Projekt auf einem [Vorlagenprojekt](https://support.catenda.com/de/articles/4670245-creating-a-new-project#h_5db32e5398) basiert.
+Das Menü für den Status-Workflow finden Sie auf der [Seite Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen). In neuen Projekten ist der Status-Workflow standardmäßig deaktiviert. Es ist möglich, ein Projekt mit vorkonfigurierten Status zu starten, wenn das Projekt auf einem [Vorlagenprojekt](https://support.catenda.com/de/articles/4670245-ein-neues-projekt-erstellen#h_5db32e5398) basiert.
 
 So kann das Menü für den Status-Workflow nach der Aktivierung des Status-Workflows aussehen.
 
@@ -15,7 +15,7 @@ Wenn der Status-Workflow aktiviert wird, ändern sich die folgenden Dinge im Pro
     - Kann mit Kontrollkästchen in der veröffentlichten Phase hochgeladen werden.
 - Der Standardstatus ist auf Kein Status festgelegt.
 - Ein Genehmigungsmenü in den Dokumenteinstellungen wird angezeigt.
-- Eine [Genehmigungen](https://support.catenda.com/de/articles/5784717-document-approval)-Unterseite auf der Seite Dokumente wird angezeigt.
+- Eine [Genehmigungen](https://support.catenda.com/de/articles/5784717-dokumentfreigabe-legacy)-Unterseite auf der Seite Dokumente wird angezeigt.
 
 ## 1. **Status hinzufügen**
 
@@ -45,7 +45,7 @@ Archivierte Status können immer wiederhergestellt werden, indem Sie auf "Archiv
 
 ## 3. **Standardstatus**
 
-Wenn eine neue veröffentlichte Version entweder durch Hochladen oder durch Veröffentlichung von Entwürfen als Ergebnis einer [Genehmigung](https://support.catenda.com/de/articles/5784717-document-approval) erstellt wird, können Sie auswählen, welcher Status sie standardmäßig hat. Dieser Status kann immer noch vor der Veröffentlichung jedes Dokuments geändert werden.
+Wenn eine neue veröffentlichte Version entweder durch Hochladen oder durch Veröffentlichung von Entwürfen als Ergebnis einer [Genehmigung](https://support.catenda.com/de/articles/5784717-dokumentfreigabe-legacy) erstellt wird, können Sie auswählen, welcher Status sie standardmäßig hat. Dieser Status kann immer noch vor der Veröffentlichung jedes Dokuments geändert werden.
 
 ## 4. **Hochladen-Menü**
 

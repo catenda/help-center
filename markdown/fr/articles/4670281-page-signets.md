@@ -1,14 +1,14 @@
 # Page Signets
 
-Vous pourrez trouver les signets comme sous-menu de la [page des modèles](https://support.catenda.com/fr/articles/4670286-models-page). Cette page fait partie du panneau de contenu. La lecture d'un signet recréera la situation qui était dans la Visionneuse 3D lorsque le signet a été créé.
+Vous pourrez trouver les signets comme sous-menu de la [page des modèles](https://support.catenda.com/fr/articles/4670286-page-modeles). Cette page fait partie du panneau de contenu. La lecture d'un signet recréera la situation qui était dans la Visionneuse 3D lorsque le signet a été créé.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0ve72xx4/01-intro.png)
 
-S'il y a un ensemble spécifique de modèles que vous ouvrez et avec lesquels vous travaillez, cela peut souvent prendre du temps de cliquer sur le bouton 3D de chaque modèle. Même la sélection des bons modèles sur la [page des modèles](https://support.catenda.com/fr/articles/4670286-models-page) et ensuite [l'ouverture de tous en 3D](https://support.catenda.com/fr/articles/4670286-models-page#h_9447efb869) peut être long car les modèles doivent souvent être trouvés dans une longue liste de modèles.
+S'il y a un ensemble spécifique de modèles que vous ouvrez et avec lesquels vous travaillez, cela peut souvent prendre du temps de cliquer sur le bouton 3D de chaque modèle. Même la sélection des bons modèles sur la [page des modèles](https://support.catenda.com/fr/articles/4670286-page-modeles) et ensuite [l'ouverture de tous en 3D](https://support.catenda.com/fr/articles/4670286-page-modeles#h_9447efb869) peut être long car les modèles doivent souvent être trouvés dans une longue liste de modèles.
 
 ## 1. **Boutons supérieurs**
 
-Cliquez sur ce bouton pour créer un [nouveau signet](https://support.catenda.com/fr/articles/4670269-creating-a-new-bookmark)
+Cliquez sur ce bouton pour créer un [nouveau signet](https://support.catenda.com/fr/articles/4670269-creer-un-nouveau-signet)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0ve72xx4/02-top-buttons.png)
 
@@ -48,4 +48,4 @@ Lorsque vous survolez l'image, vous verrez apparaître un bouton de lecture. Si 
 
 **Copier vers mes signets** Si le signet a été partagé avec le projet par quelqu'un d'autre, vous verrez un plus en haut à gauche. Cliquez sur ce bouton pour faire une copie privée de ce signet. Vous saurez si vous avez réussi à en faire une copie lorsque l'icône se transforme en coche et que vous voyez un message en bas de la page où vous pouvez ouvrir votre copie. Vous pourrez également rechercher votre copie après actualisation de la page.
 
-**Signets en vedette** Si vous possédez le signet, vous verrez que l'icône en haut à gauche est devenue une étoile. En cliquant sur cette étoile, vous ajouterez une étoile jaune pour ce signet. Les signets en vedette apparaîtront sur votre [tableau de bord](https://support.catenda.com/fr/articles/8212646-dashboard-page#h_6785d4f10c).
+**Signets en vedette** Si vous possédez le signet, vous verrez que l'icône en haut à gauche est devenue une étoile. En cliquant sur cette étoile, vous ajouterez une étoile jaune pour ce signet. Les signets en vedette apparaîtront sur votre [tableau de bord](https://support.catenda.com/fr/articles/8212646-page-tableau-de-bord#h_6785d4f10c).

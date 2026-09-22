@@ -26,11 +26,11 @@ This is what the action menu towards the top righ in a topic board can look like
 
 ### 1.1 **New topic**
 
-Click on the green plus button or click on the new topic action in the action menu to createa a [new topic](https://support.catenda.com/en/articles/4670268-creating-a-new-issue) in the current topic board. _Access required:_ Read access to the current topic board.
+Click on the green plus button or click on the new topic action in the action menu to createa a [new topic](https://support.catenda.com/en/articles/4670268-creating-a-new-topic) in the current topic board. _Access required:_ Read access to the current topic board.
 
 ### 1.2 **Exchange topics**
 
-Click this button to [exchange topics](https://support.catenda.com/en/articles/4670289-exchange-issues)
+Click this button to [exchange topics](https://support.catenda.com/en/articles/4670289-exchange-topics)
 
 ### 1.3 **New topic board**
 
@@ -98,7 +98,7 @@ Types are configured similarly to statuses except they do not have meta-statuses
 
 ## 4. **Custom Fields**
 
-In this menu you will be able to add and modify custom fields in this topic board. _Access required:_ Full access to the topic board Custom fields can be configured on the [custom fields page](https://support.catenda.com/en/articles/6550459-custom-fields-setup). _Access required:_ Project administrator
+In this menu you will be able to add and modify custom fields in this topic board. _Access required:_ Full access to the topic board Custom fields can be configured on the [custom fields page](https://support.catenda.com/en/articles/6550459-custom-fields-page). _Access required:_ Project administrator
 
 ### 4.1 **Add custom field**
 
@@ -142,7 +142,7 @@ Users will be able to see an overview of what teams and users have which access 
 
 ### 5.1 **Edit access**
 
-Click on "edit access" to configure access the access for this topic board. You can read more about editing access [here](https://support.catenda.com/en/articles/4670296-issue-boards-acl). _Access required:_ Full access to the topic board.
+Click on "edit access" to configure access the access for this topic board. You can read more about editing access [here](https://support.catenda.com/en/articles/4670296-topic-board-access-control). _Access required:_ Full access to the topic board.
 
 ## 6. **Unlinked fields**
 

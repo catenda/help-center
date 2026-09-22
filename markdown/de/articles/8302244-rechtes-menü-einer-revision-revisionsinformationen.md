@@ -1,18 +1,18 @@
 # Rechtes Menü einer Revision - Revisionsinformationen
 
-Wenn Sie ein Dokument auf der [Dokumentseite](https://support.catenda.com/de/articles/8204673-documents-page) oder in einer Bibliothek auswählen, wird ein neues Fenster für dieses Dokument angezeigt. Beim Öffnen eines Dokuments wird immer die neueste Revision angezeigt.
+Wenn Sie ein Dokument auf der [Dokumentseite](https://support.catenda.com/de/articles/8204673-dokumentenseite) oder in einer Bibliothek auswählen, wird ein neues Fenster für dieses Dokument angezeigt. Beim Öffnen eines Dokuments wird immer die neueste Revision angezeigt.
 
 Die Dokumentseite kann etwa so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/01-intro.png)
 
-1. Das [Dokumentbanner](https://support.catenda.com/de/articles/8461918-document-banner-actions-navigation) erstreckt sich über die gesamte Breite der Dokumentseite
+1. Das [Dokumentbanner](https://support.catenda.com/de/articles/8461918-dokumentbanner-navigation) erstreckt sich über die gesamte Breite der Dokumentseite
 1. Sie finden den Dokumentkopf unter dem Dokumentbanner und über der Dokumentvorschau.
-1. Unter dem Dokumentkopf finden Sie die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-document-preview-and-annotations).
+1. Unter dem Dokumentkopf finden Sie die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen).
 1. Links neben dem Dokumentkopf und der Vorschau finden Sie die Dokumentliste
 1. _Dieser Artikel:_ Rechts neben dem Dokumentkopf und der Vorschau finden Sie das rechte Informationsmenü.
 
-Wenn Sie ein Dokument zum ersten Mal öffnen, kann sein rechtes Menü geschlossen sein. Sie können auf die Informationsschaltfläche unten rechts im [Dokumentbanner](https://support.catenda.com/de/articles/8461918-document-banner-actions-navigation) klicken, um dieses Menü zu erweitern.
+Wenn Sie ein Dokument zum ersten Mal öffnen, kann sein rechtes Menü geschlossen sein. Sie können auf die Informationsschaltfläche unten rechts im [Dokumentbanner](https://support.catenda.com/de/articles/8461918-dokumentbanner-navigation) klicken, um dieses Menü zu erweitern.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/02-intro.png)
 
@@ -58,7 +58,7 @@ So können die Felder aussehen, die für das gesamte Dokument ausgefüllt werden
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/06-filling-out-fields.png)
 
-**Etiketten** Hier können vorhandene oder neue [Etiketten](https://support.catenda.com/de/articles/4670265-labels-page) hinzugefügt werden. Sie können auch alle Etiketten entfernen, die auf den Ordner oder das Dokument angewendet wurden. Es kann sinnvoll sein, Ordner statt einzelne Dateien mit Etiketten zu versehen, um später spezifische Informationen leichter zu finden. Wenn mehrere Dokumente und Ordner ausgewählt sind, können Sie Etiketten auf alle gleichzeitig anwenden.
+**Etiketten** Hier können vorhandene oder neue [Etiketten](https://support.catenda.com/de/articles/4670265-etikettenseite) hinzugefügt werden. Sie können auch alle Etiketten entfernen, die auf den Ordner oder das Dokument angewendet wurden. Es kann sinnvoll sein, Ordner statt einzelne Dateien mit Etiketten zu versehen, um später spezifische Informationen leichter zu finden. Wenn mehrere Dokumente und Ordner ausgewählt sind, können Sie Etiketten auf alle gleichzeitig anwenden.
 
 **Metadaten durch benutzerdefinierte Felder** Metadatenfelder können für Dokumente angezeigt werden, die in einem Ordner erstellt werden, für den eine Ordnerkonfiguration durch die Ordnerkonfiguration in den Dokumenteinstellungen konfiguriert ist. Die Felder können einen Standardwert haben oder leer sein. _Erforderlicher Zugriff:_ Schreibzugriff auf das Dokument, um Felder für das Dokument zu ändern.
 
@@ -72,7 +72,7 @@ So können die Revisionsaktionen aussehen:
 
 ### 3.1 **Vergleichen**
 
-Wenn mehrere PDF-Revisionen in einem Dokument vorhanden sind, wird die Aktion [PDF-Vergleich](https://support.catenda.com/de/articles/8461650-pdf-compare) angezeigt. Klicken Sie [hier](https://support.catenda.com/de/articles/8461650-pdf-compare), um mehr über den PDF-Vergleich zu erfahren.
+Wenn mehrere PDF-Revisionen in einem Dokument vorhanden sind, wird die Aktion [PDF-Vergleich](https://support.catenda.com/de/articles/8461650-pdf-vergleich) angezeigt. Klicken Sie [hier](https://support.catenda.com/de/articles/8461650-pdf-vergleich), um mehr über den PDF-Vergleich zu erfahren.
 
 ### 3.2 **Herunterladen**
 
@@ -80,7 +80,7 @@ Klicken Sie auf das Download-Symbol oben rechts im Revisionsmenü oder auf "Heru
 
 ### 3.3 **Revision zurückziehen**
 
-Weitere Informationen zum Zurückziehen von Revisionen finden Sie [hier](https://support.catenda.com/de/articles/9711174-withdraw-revision) _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Dokument
+Weitere Informationen zum Zurückziehen von Revisionen finden Sie [hier](https://support.catenda.com/de/articles/9711174-revision-zuruckziehen) _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Dokument
 
 ## 4. **Revisionsinformationen**
 
@@ -158,29 +158,29 @@ Wenn der neue Status-Workflow mit gemeinsam genutzten Revisionen statt Draft-Rev
 
 ### 6.1 **Herunterladen**
 
-Verwenden Sie die Download-Aktion, um die aktuelle Revision herunterzuladen. Unabhängig vom Revisionstyp können Revisionen auch über das unten aufgeführte Revisionsmenü heruntergeladen werden. In der [Arbeitsbereich-Registerkarte](https://support.catenda.com/de/articles/4670288-documents-table-actions#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-documents-table-actions) wird die letzte gemeinsam genutzte Revision im Dokument über die vorhandene Elementaktion heruntergeladen. In der [Veröffentlicht-Registerkarte](https://support.catenda.com/de/articles/4670288-documents-table-actions#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-documents-table-actions) wird die letzte veröffentlichte Revision im Dokument über die vorhandene Elementaktion heruntergeladen. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument und das Kontrollkästchen "Gemeinsam genutzte Revisionen anzeigen" ist aktiviert.
+Verwenden Sie die Download-Aktion, um die aktuelle Revision herunterzuladen. Unabhängig vom Revisionstyp können Revisionen auch über das unten aufgeführte Revisionsmenü heruntergeladen werden. In der [Arbeitsbereich-Registerkarte](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) wird die letzte gemeinsam genutzte Revision im Dokument über die vorhandene Elementaktion heruntergeladen. In der [Veröffentlicht-Registerkarte](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_cfc9a53600) der [Dokumenttabelle](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen) wird die letzte veröffentlichte Revision im Dokument über die vorhandene Elementaktion heruntergeladen. _Erforderlicher Zugriff:_ Lesezugriff auf das Dokument und das Kontrollkästchen "Gemeinsam genutzte Revisionen anzeigen" ist aktiviert.
 
 ### 6.2 **Veröffentlichen**
 
 Verwenden Sie die Aktion "Veröffentlichen", um die aktuelle gemeinsam genutzte Revision zu veröffentlichen. Erforderlicher Zugriff: Kontrollkästchen "Veröffentlichung möglich" aktiviert
 
-Weitere Informationen zum Zurückziehen von Revisionen finden Sie [hier](https://support.catenda.com/de/articles/9711174-withdraw-revision) _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Dokument
+Weitere Informationen zum Zurückziehen von Revisionen finden Sie [hier](https://support.catenda.com/de/articles/9711174-revision-zuruckziehen) _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Dokument
 
 ### 6.3 **Vergleichen**
 
-Wenn mehrere PDF-Revisionen in einem Dokument vorhanden sind, unabhängig von ihrem Revisionstyp, wird die Aktion [PDF-Vergleich](https://support.catenda.com/de/articles/8461650-pdf-compare) angezeigt. Klicken Sie [hier](https://support.catenda.com/de/articles/8461650-pdf-compare), um mehr über den PDF-Vergleich zu erfahren.
+Wenn mehrere PDF-Revisionen in einem Dokument vorhanden sind, unabhängig von ihrem Revisionstyp, wird die Aktion [PDF-Vergleich](https://support.catenda.com/de/articles/8461650-pdf-vergleich) angezeigt. Klicken Sie [hier](https://support.catenda.com/de/articles/8461650-pdf-vergleich), um mehr über den PDF-Vergleich zu erfahren.
 
 ## 7. **Namenskonvention im rechten Menü**
 
-Dokumente, die in einen Ordner hochgeladen werden, für den eine Namenskonvention in der [Ordnerkonfiguration](https://support.catenda.com/de/articles/7831371-document-settings-page#h_6672c14d90) in [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings-page) konfiguriert ist, zeigen die Vorschau der Namenskonvention an.
+Dokumente, die in einen Ordner hochgeladen werden, für den eine Namenskonvention in der [Ordnerkonfiguration](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen#h_6672c14d90) in [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) konfiguriert ist, zeigen die Vorschau der Namenskonvention an.
 
 ### 7.1 **Vorschau der Namenskonvention**
 
-So kann die Vorschau der Namenskonvention aussehen, wenn Sie mit der Maus über einen Text [Block](https://support.catenda.com/de/articles/7832559-naming-conventions-page#h_2409ff946c) fahren:
+So kann die Vorschau der Namenskonvention aussehen, wenn Sie mit der Maus über einen Text [Block](https://support.catenda.com/de/articles/7832559-seite-namenskonventionen#h_2409ff946c) fahren:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/14-naming-convention-preview.png)
 
-So kann die Vorschau der Namenskonvention aussehen, wenn Sie mit der Maus über einen benutzerdefinierten Feld [Block](https://support.catenda.com/de/articles/7832559-naming-conventions-page#h_2409ff946c) fahren:
+So kann die Vorschau der Namenskonvention aussehen, wenn Sie mit der Maus über einen benutzerdefinierten Feld [Block](https://support.catenda.com/de/articles/7832559-seite-namenskonventionen#h_2409ff946c) fahren:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/15-naming-convention-preview.png)
 
@@ -200,13 +200,13 @@ Basierend auf dem, was im Dokumentnamen erkannt wird, wird ein Feld ausgefüllt.
 
 ## 8. **Status-Workflow**
 
-So können die Revisionsinformationen aussehen, wenn ein Dokument in der Dokumenttabelle ausgewählt wird, nachdem der [Status-Workflow](https://support.catenda.com/de/articles/9662473-status-workflow-shared-published) aktiviert wurde.
+So können die Revisionsinformationen aussehen, wenn ein Dokument in der Dokumenttabelle ausgewählt wird, nachdem der [Status-Workflow](https://support.catenda.com/de/articles/9662473-status-workflow-gemeinsam-veroffentlicht) aktiviert wurde.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/18-status-workflow.png)
 
 ### 8.1 **Status veröffentlichter Revisionen**
 
-Der angezeigte Status ist der Status der neuesten veröffentlichten Revision. Klicken Sie auf das Status-Dropdown, um den Status in einen anderen Status in der Liste der veröffentlichten [Statuse](https://support.catenda.com/de/articles/7831371-document-settings-page#h_e6f3ffdbff) zu ändern, die in [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings-page) konfiguriert sind. _Erforderlicher Zugriff:_ Schreibzugriff auf das Dokument.
+Der angezeigte Status ist der Status der neuesten veröffentlichten Revision. Klicken Sie auf das Status-Dropdown, um den Status in einen anderen Status in der Liste der veröffentlichten [Statuse](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen#h_e6f3ffdbff) zu ändern, die in [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) konfiguriert sind. _Erforderlicher Zugriff:_ Schreibzugriff auf das Dokument.
 
 ### 8.2 **Status gemeinsam genutzter Revisionen**
 
@@ -256,13 +256,13 @@ Es wird ein Hinweis angezeigt, dass es neue Entwürfe gibt. Die übrigen Informa
 
 **Letzte Revision anzeigen** Öffnen Sie die Revisionsvorschau der neuesten veröffentlichten Revision im Dokument, unabhängig davon, ob es neuere Draft-Revisionen gibt oder nicht.
 
-_Neue Genehmigungsanfrage_ [Erstellen Sie eine neue Genehmigungsanfrage](https://support.catenda.com/de/articles/12360159-creating-a-new-approval-request) für diese Draft-Revision.
+_Neue Genehmigungsanfrage_ [Erstellen Sie eine neue Genehmigungsanfrage](https://support.catenda.com/de/articles/12360159-erstellen-einer-neuen-genehmigungsanfrage-legacy) für diese Draft-Revision.
 
 **Genehmigungskarte** Wenn ein Entwurf Teil einer Genehmigung ist, wird die Genehmigungskarte für jede Genehmigung, zu der der Entwurf gehört, hier angezeigt:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/26-draft-revision-status-legacy.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/8349340-approvals-page), um mehr über das auf einer Genehmigungskarte angezeigte Material zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy), um mehr über das auf einer Genehmigungskarte angezeigte Material zu erfahren.
 
 **Status** Der angezeigte Status ist der Status der aktuellen Draft-Revision. Klicken Sie auf das Status-Dropdown, um den Status in einen anderen Status in der Liste der Draft-Statuse zu ändern, die in den Dokumenteinstellungen konfiguriert sind. _Erforderlicher Zugriff:_ Schreibzugriff auf das Dokument.
 
@@ -284,11 +284,11 @@ Auf der rechten Seite wird ihr aktueller Zugriff auf das Dokument angezeigt. Die
 
 ### 9.1 **Zugriff bearbeiten**
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/4670287-folders-and-documents-acl), um mehr über die Zugriffskontrolle im Bereich "Dokumente" zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/4670287-ordnerverwaltung-und-dokumentenzugriffskontrolle), um mehr über die Zugriffskontrolle im Bereich "Dokumente" zu erfahren.
 
 ## 10. **Genehmigungen**
 
-Das Menü "Genehmigungen" ist für Projekte sichtbar, für die der [Status-Workflow](https://support.catenda.com/de/articles/9662473-status-workflow-shared-published) in [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings-page) aktiviert ist.
+Das Menü "Genehmigungen" ist für Projekte sichtbar, für die der [Status-Workflow](https://support.catenda.com/de/articles/9662473-status-workflow-gemeinsam-veroffentlicht) in [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) aktiviert ist.
 
 ### 10.1 **Keine offenen Genehmigungsanfragen**
 
@@ -318,7 +318,7 @@ Wenn gemeinsam genutzte Statuse im neuen Status-Workflow in Dokumenteinstellunge
 
 **Erforderlicher Zugriff zum Anzeigen gemeinsam genutzter Revisionen:** Lesezugriff auf das Dokument. Kontrollkästchen zum Anzeigen gemeinsam genutzter Revisionen aktiviert.
 
-**Neue Genehmigungsanfrage** Klicken Sie [hier](https://support.catenda.com/de/articles/12360159-creating-a-new-approval-request), um mehr über das Erstellen einer neuen Genehmigungsanfrage zu erfahren
+**Neue Genehmigungsanfrage** Klicken Sie [hier](https://support.catenda.com/de/articles/12360159-erstellen-einer-neuen-genehmigungsanfrage-legacy), um mehr über das Erstellen einer neuen Genehmigungsanfrage zu erfahren
 
 **Übersicht der Genehmigungsanfrage** Mit dem neuen Validierungsworkflow ist es möglich, einen Entwurf eines Genehmigungsworkflows zu erstellen. Genehmigungsentwürfe werden in der Übersicht nicht angezeigt. Sobald ein Genehmigungsworkflow gestartet wurde, wird dieser in der Übersicht des Genehmigungsworkflows angezeigt und bleibt dort. Es können beliebig viele Anfragen gestellt werden, um jede der gemeinsam genutzten Revisionen im Dokument genehmigen zu lassen, von denen einige möglicherweise noch offen sind. So kann die Genehmigungsübersicht aussehen, wenn einer der Revisionen im Dokument Teil einer offenen Genehmigungsanfrage mit dem neuen Validierungsworkflow ist, wenn die neueste Revision noch validiert wird:
 
@@ -344,7 +344,7 @@ Beachten Sie, dass es nur möglich ist, Draft-Revisionen hochzuladen und dadurch
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/33-new-draft-revision-but-no-approval-request-yet-legacy.png)
 
-**Neue Genehmigungsanfrage** Klicken Sie [hier](https://support.catenda.com/de/articles/12360159-creating-a-new-approval-request), um mehr über das Erstellen einer neuen Genehmigungsanfrage zu erfahren
+**Neue Genehmigungsanfrage** Klicken Sie [hier](https://support.catenda.com/de/articles/12360159-erstellen-einer-neuen-genehmigungsanfrage-legacy), um mehr über das Erstellen einer neuen Genehmigungsanfrage zu erfahren
 
 ### 10.4 **Übersicht der Genehmigungsanfrage - Legacy**
 
@@ -362,7 +362,7 @@ Wenn die Revision als Ergebnis einer Genehmigung veröffentlicht wurde, wird die
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/35-approval-request-overview-legacy.png)
 
-Unabhängig davon, ob die neueste Revision veröffentlicht wird oder nicht, wird eine Karte für jede Dokumentrevision angezeigt, die Teil einer noch offenen Genehmigungsanfrage ist. Auf diese Weise können die nicht geschlossenen Genehmigungen überprüft werden. Klicken Sie [hier](https://support.catenda.com/de/articles/8349340-approvals-page), um zu sehen, was auf einer Genehmigungskarte beschrieben ist.
+Unabhängig davon, ob die neueste Revision veröffentlicht wird oder nicht, wird eine Karte für jede Dokumentrevision angezeigt, die Teil einer noch offenen Genehmigungsanfrage ist. Auf diese Weise können die nicht geschlossenen Genehmigungen überprüft werden. Klicken Sie [hier](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy), um zu sehen, was auf einer Genehmigungskarte beschrieben ist.
 
 ### 10.5 **Alle Draft-Statuse archivieren - Legacy**
 
@@ -386,7 +386,7 @@ Hier können Sie die Historie des Dokuments einsehen
 
 ## 13. **Sammlungen**
 
-Wenn Ihr Dokument Teil von [Sammlungen](https://support.catenda.com/de/articles/6344318-collections-page) ist, werden diese hier aufgelistet.
+Wenn Ihr Dokument Teil von [Sammlungen](https://support.catenda.com/de/articles/6344318-sammlungsseite) ist, werden diese hier aufgelistet.
 
 ## 14. **Verknüpfte Objekte**
 
@@ -394,4 +394,4 @@ Hier können Sie sehen, welche Objekte mit dem Dokument verknüpft sind
 
 ## 15. **Themen**
 
-Für jedes Thema, dem das Dokument zugeordnet wurde, wird hier eine Themenkarte angezeigt. Klicken Sie [hier](https://support.catenda.com/de/articles/6941232-list-view-in-a-topic-board), um mehr über das auf einer Themenkarte angezeigte Material zu erfahren.
+Für jedes Thema, dem das Dokument zugeordnet wurde, wird hier eine Themenkarte angezeigt. Klicken Sie [hier](https://support.catenda.com/de/articles/6941232-listenansicht-in-einem-themen-board), um mehr über das auf einer Themenkarte angezeigte Material zu erfahren.

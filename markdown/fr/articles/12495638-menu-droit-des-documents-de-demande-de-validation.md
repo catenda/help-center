@@ -1,6 +1,6 @@
 # Menu droit des documents de demande de validation
 
-Cet article contient des informations sur les sujets suivants : _[Sous examen](#h_b398f04f49) - [Aperçu des étapes](#h_be2d5b96e1)_Le menu droit peut être ouvert en sélectionnant des Documents dans l'[onglet Documents](https://support.catenda.com/fr/articles/12495130-documents-tab-in-an-approval-request) sur une page de demande de validation. Selon que vous sélectionnez un Document ou plusieurs, le menu s'affiche différemment.
+Cet article contient des informations sur les sujets suivants : _[Sous examen](#h_b398f04f49) - [Aperçu des étapes](#h_be2d5b96e1)_Le menu droit peut être ouvert en sélectionnant des Documents dans l'[onglet Documents](https://support.catenda.com/fr/articles/12495130-onglet-documents-dans-une-demande-de-validation) sur une page de demande de validation. Selon que vous sélectionnez un Document ou plusieurs, le menu s'affiche différemment.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dmdyh23e/01-intro.png)
 

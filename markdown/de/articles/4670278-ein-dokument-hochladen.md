@@ -8,7 +8,7 @@ Dateien können auf vier verschiedene Arten hochgeladen werden. Die Datei landet
 
 ### 1.1 **1. Upload-Schaltfläche**
 
-Um ein neues Dokument oder eine neue Version hochzuladen, drücken Sie die [Schaltfläche +](https://support.catenda.com/de/articles/4670288-actions-in-the-document-structure#h_7c8e07223e) oben rechts. Dies öffnet das [Upload-Dokumentmenü](#h_00fa77db3e).
+Um ein neues Dokument oder eine neue Version hochzuladen, drücken Sie die [Schaltfläche +](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_7c8e07223e) oben rechts. Dies öffnet das [Upload-Dokumentmenü](#h_00fa77db3e).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y90qfgry/01-1-upload-button.png)
 
@@ -16,7 +16,7 @@ Wenn Sie eine Datei auf diese Weise hochladen, können Sie wählen, ob Sie eine 
 
 ### 1.2 **2. Schaltfläche "Neue Version"**
 
-Mit einem ausgewählten Dokument in der Dokumentstruktur kann die Aktion [neue Version](https://support.catenda.com/de/articles/4670288-actions-in-the-document-structure#h_5785139ce3) im [ausgewählten Element-Hamburger-Menü](https://support.catenda.com/de/articles/4670288-actions-in-the-document-structure#h_fb4e9ef375) oben in der Dokumente-Tabelle gefunden werden. In einer Dokumentvorschau kann die Aktion [neue Version](https://support.catenda.com/de/articles/9323521-actions-in-a-document#h_c18a9b8abf) im [vorhandenen Element-Hamburger-Menü](https://support.catenda.com/de/articles/9323521-actions-in-a-document) oben rechts auf der Seite verwendet werden. Das Hochladen einer Datei auf diese Weise erstellt eine neue Version und kein neues Dokument.
+Mit einem ausgewählten Dokument in der Dokumentstruktur kann die Aktion [neue Version](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_5785139ce3) im [ausgewählten Element-Hamburger-Menü](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_fb4e9ef375) oben in der Dokumente-Tabelle gefunden werden. In einer Dokumentvorschau kann die Aktion [neue Version](https://support.catenda.com/de/articles/9323521-dokumentrevisions-aktionen#h_c18a9b8abf) im [vorhandenen Element-Hamburger-Menü](https://support.catenda.com/de/articles/9323521-dokumentrevisions-aktionen) oben rechts auf der Seite verwendet werden. Das Hochladen einer Datei auf diese Weise erstellt eine neue Version und kein neues Dokument.
 
 ### 1.3 **3. Drag-and-Drop**
 
@@ -44,15 +44,15 @@ Bis zu 100 Dateien können per Drag & Drop ([jeweils bis zu 7GB\*](#h_09bc8fbe94
 
 ### 2.3 **Ordner**
 
-In diesem Menü können nur einzelne Dokumente hochgeladen werden. Um einen Ordner hochzuladen, muss dieser gezippt und auf andere Weise hochgeladen werden. Siehe den Artikel [Upload ZIP](https://support.catenda.com/de/articles/7945410-upload-a-zip-folder-structure).
+In diesem Menü können nur einzelne Dokumente hochgeladen werden. Um einen Ordner hochzuladen, muss dieser gezippt und auf andere Weise hochgeladen werden. Siehe den Artikel [Upload ZIP](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen).
 
 ### 2.4 **Upload-Limit**
 
 **Limits für einzelne Dateien:** Bis zu 100 Dateien können auf einmal hochgeladen werden. Bis zu 7 GB pro Datei können auf einmal hochgeladen werden.
 
-**Limits für gezippte Dateien:** Um mehr Dateien auf einmal oder größere Dateien hochzuladen, verwenden Sie bitte die Funktion "[Upload ZIP](https://support.catenda.com/de/articles/7945410-upload-a-zip-folder-structure)".
+**Limits für gezippte Dateien:** Um mehr Dateien auf einmal oder größere Dateien hochzuladen, verwenden Sie bitte die Funktion "[Upload ZIP](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen)".
 
-**Limits für Punktwolken:** Punktwolken haben oft große Dateigrößen, daher wurde ihr Limit auf 25 GB erhöht. Klicken Sie [hier](https://support.catenda.com/de/articles/4670324-is-there-a-size-limit-for-ifc-files), um mehr über Größenlimits zu erfahren.
+**Limits für Punktwolken:** Punktwolken haben oft große Dateigrößen, daher wurde ihr Limit auf 25 GB erhöht. Klicken Sie [hier](https://support.catenda.com/de/articles/4670324-welche-dateigrosse-kann-ich-hochladen), um mehr über Größenlimits zu erfahren.
 
 ## 3. **Desktop Connector**
 
@@ -60,7 +60,7 @@ Mit dem [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358
 
 ## 4. **Dokumentvorschau**
 
-Um zu sehen, ob Sie den Inhalt Ihres Dateityps in Catenda anzeigen können, klicken Sie [hier](https://support.catenda.com/de/articles/4670320-what-file-types-does-catenda-support).
+Um zu sehen, ob Sie den Inhalt Ihres Dateityps in Catenda anzeigen können, klicken Sie [hier](https://support.catenda.com/de/articles/4670320-vorschau-von-dateitypen-auf-catenda-hub).
 
 ## 5. **Virenprüfung**
 

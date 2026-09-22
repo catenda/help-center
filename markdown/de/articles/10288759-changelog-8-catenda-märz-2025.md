@@ -12,25 +12,25 @@ Wenn neue Funktionen veröffentlicht und Fehler behoben werden, werden die Artik
 
 ### 1.1 **Neue Artikel:**
 
-**Erste Schritte und FAQ** [Häufig gestellte Fragen zum Organisationswerkzeug](https://support.catenda.com/de/articles/10475849-organization-tool-faq)
+**Erste Schritte und FAQ** [Häufig gestellte Fragen zum Organisationswerkzeug](https://support.catenda.com/de/articles/10475849-organisationswerkzeug-haufig-gestellte-fragen)
 
-**Themen** [Zugriffskontrolle Themen-Board](https://support.catenda.com/de/articles/4670296-topic-board-access-control) [Einstellungen Themen-Board](https://support.catenda.com/de/articles/4670277-topic-board-settings)
+**Themen** [Zugriffskontrolle Themen-Board](https://support.catenda.com/de/articles/4670296-zugriffskontrolle-fur-themen-board) [Einstellungen Themen-Board](https://support.catenda.com/de/articles/4670277-einstellungsseite-fur-topic-board)
 
-**Plugins und Integrationen** [Catenda SharePoint-Anwendung - WebPart](https://support.catenda.com/de/articles/10538168-catenda-sharepoint-application-webpart) [Catenda als Anwendung](https://support.catenda.com/de/articles/10695677-catenda-as-an-application) [Zum Startbildschirm hinzufügen](https://support.catenda.com/de/articles/10741601-add-to-home-screen) [Systemweiter Browser-Support für den Startbildschirm](https://Home-screen%20system-browser%20support)
+**Plugins und Integrationen** [Catenda SharePoint-Anwendung - WebPart](https://support.catenda.com/de/articles/10538168-catenda-sharepoint-application-webpart) [Catenda als Anwendung](https://support.catenda.com/de/articles/10695677-zugriff-mit-begrenztem-bildschirmplatz) [Zum Startbildschirm hinzufügen](https://support.catenda.com/de/articles/10741601-zum-startbildschirm-hinzufugen) [Systemweiter Browser-Support für den Startbildschirm](https://Home-screen%20system-browser%20support)
 
 ### 1.2 **Geänderte Artikel:**
 
-**Erste Schritte** [Erste Schritte im Catenda Hub](https://support.catenda.com/de/articles/9030303-getting-started-on-catenda-hub) [Snapshots](https://support.catenda.com/de/articles/10345863-snapshots) [Hardwareempfehlung](https://support.catenda.com/de/articles/6921941-hardware-recommendation) [Benachrichtigungsfilterung und Funktionalität](https://support.catenda.com/de/articles/8304417-notification-filtering-and-functionality) [Einladung zur Teilnahme an einem Projekt akzeptieren](https://support.catenda.com/de/articles/4670246-accepting-an-invitation-to-join-a-project) [Ein Konto erstellen](https://support.catenda.com/de/articles/8412895-creating-an-account)
+**Erste Schritte** [Erste Schritte im Catenda Hub](https://support.catenda.com/de/articles/9030303-schritt-1-kontoeinrichtung) [Snapshots](https://support.catenda.com/de/articles/10345863-3d-schnappschusse) [Hardwareempfehlung](https://support.catenda.com/de/articles/6921941-hardwareempfehlung) [Benachrichtigungsfilterung und Funktionalität](https://support.catenda.com/de/articles/8304417-filterung-auf-der-benachrichtigungsseite) [Einladung zur Teilnahme an einem Projekt akzeptieren](https://support.catenda.com/de/articles/4670246-einladung-zum-beitreten-zu-einem-projekt-annehmen) [Ein Konto erstellen](https://support.catenda.com/de/articles/8412895-ein-konto-erstellen)
 
-**Häufig gestellte Fragen** [Gibt es eine Größenbeschränkung für IFC-Dateien?](https://support.catenda.com/de/articles/4670324-is-there-a-size-limit-for-ifc-files)
+**Häufig gestellte Fragen** [Gibt es eine Größenbeschränkung für IFC-Dateien?](https://support.catenda.com/de/articles/4670324-welche-dateigrosse-kann-ich-hochladen)
 
-**Hauptseite** [Benutzerseite - Organisationswerkzeug](https://support.catenda.com/de/articles/8508311-users-page-organization-tool) [Speicherort und Funktionalität der Support-Blase](https://Support%20button%20location%20and%20functionality)
+**Hauptseite** [Benutzerseite - Organisationswerkzeug](https://support.catenda.com/de/articles/8508311-benutzerseite-organisationsverwaltungstool) [Speicherort und Funktionalität der Support-Blase](https://Support%20button%20location%20and%20functionality)
 
-**Themen** [Listenansicht in einem Themen-Board](https://support.catenda.com/de/articles/6941232-list-view-in-a-topic-board) [Tabellenansicht in einem Themen-Board](https://support.catenda.com/de/articles/6941099-table-view-in-an-topic-board) [Themenkörper - Der Inhalt eines Themas](https://support.catenda.com/de/articles/8053352-topic-body-the-content-of-a-topic)
+**Themen** [Listenansicht in einem Themen-Board](https://support.catenda.com/de/articles/6941232-listenansicht-in-einem-themen-board) [Tabellenansicht in einem Themen-Board](https://support.catenda.com/de/articles/6941099-tabellenansicht-in-einem-topic-board) [Themenkörper - Der Inhalt eines Themas](https://support.catenda.com/de/articles/8053352-themen-text-der-inhalt-eines-themas)
 
-**Dokumente** [Aktionen in einem Dokument](https://support.catenda.com/de/articles/9323521-actions-in-a-document) [QR-Codes auf PDFs in Catenda](https://support.catenda.com/de/articles/9360508-qr-code-on-pdfs-in-catenda)
+**Dokumente** [Aktionen in einem Dokument](https://support.catenda.com/de/articles/9323521-dokumentrevisions-aktionen) [QR-Codes auf PDFs in Catenda](https://support.catenda.com/de/articles/9360508-qr-code-auf-pdfs-in-catenda)
 
-**Plugins und Integrationen** [Catenda Plugins und Integrationen](https://support.catenda.com/de/articles/8396532-catenda-plugins-and-integrations) [Catenda SharePoint-Anwendung](https://support.catenda.com/de/articles/8396496-catenda-sharepoint-application)
+**Plugins und Integrationen** [Catenda Plugins und Integrationen](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen) [Catenda SharePoint-Anwendung](https://support.catenda.com/de/articles/8396496-catenda-sharepoint-anwendung)
 
 ## 2. **Behobene Fehler**
 

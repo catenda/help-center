@@ -10,7 +10,7 @@ Voici à quoi peut ressembler le menu de recherche ou de filtrage sur la page de
 
 ![Rechercher ou filtrer Sélectionner Plus Modèles Sélectionné Recherche textuelle](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/02-search-or-filter.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/12353642-filtering-on-the-objects-page) pour en savoir plus sur le filtrage sur la page des objets.
+Cliquez [ici](https://support.catenda.com/fr/articles/12353642-filtrage-sur-la-page-des-objets) pour en savoir plus sur le filtrage sur la page des objets.
 
 ## 2. **Tableau des produits**
 
@@ -18,7 +18,7 @@ Le tableau des produits peut ressembler à ceci :
 
 ![Sélectionné Menu d'action 3D télécharger paramètres colonne entité colonne GlobalId colonne LongName IfcProject IfcBuildingelementProxy une ligne est sélectionnée dans le tableau](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/03-products-table.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda.
+Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tableaux-sur-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda.
 
 ### 2.1 **Qu'est-ce qu'un produit ?**
 
@@ -56,7 +56,7 @@ Cliquez sur le bouton de téléchargement en haut du tableau des produits pour l
 
 Lignes Il n'est possible d'obtenir que toutes les lignes des modèles activés. La sélection de lignes ne limite pas les lignes dans les fichiers exportés. Le seul filtre qui peut limiter le nombre de lignes est le filtre des modèles. Bien que les lignes puissent sembler limitées dans le tableau, le fichier exporté comprendra toutes les lignes des modèles disponibles.
 
-Colonnes Une colonne pour chaque colonne activée dans le tableau des produits est exportée vers le fichier. Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de gérer les colonnes du tableau.
+Colonnes Une colonne pour chaque colonne activée dans le tableau des produits est exportée vers le fichier. Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tableaux-sur-catenda) pour en savoir plus sur la façon de gérer les colonnes du tableau.
 
 **Exporter les objets** Choisissez d'exporter vers Excel ou CSV dans le menu d'exportation des objets :
 

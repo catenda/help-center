@@ -1,6 +1,6 @@
 # QR-Code auf PDFs in Catenda
 
-QR-Codes können pro Ordner in der [Ordnerkonfiguration](https://support.catenda.com/de/articles/7831371-document-settings#h_6672c14d90) der [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings) konfiguriert werden.
+QR-Codes können pro Ordner in der [Ordnerkonfiguration](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen#h_6672c14d90) der [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) konfiguriert werden.
 
 Diese Funktion bietet Catenda-Benutzern die Möglichkeit zu überprüfen, ob es sich bei dem verwendeten Dokument um die neueste Version handelt, indem der auf dem PDF gedruckte QR-Code gescannt wird.
 
@@ -46,11 +46,11 @@ Wenn Sie ein Dokument haben, das Sie nicht erstellt haben, und Sie den QR-Platzh
 
 ### 2.3 Platzierung des QR-Codes auf einem Catenda-Dokument
 
-Wenn Ihr Dokument bereits auf Catenda vorhanden ist, müssen Sie den QR-Platzhalter hinzufügen und eine neue Fassung hochladen. Wenn Sie keinen Zugriff auf ein PDF-Bearbeitungsprogramm haben, können Sie das [Werkzeug für die Bildstempelanmerkung](https://support.catenda.com/de/articles/5001165-document-preview-and-annotations#h_6e3ac983b6) verwenden, um den QR-Platzhalter zu Ihrem Dokument hinzuzufügen.
+Wenn Ihr Dokument bereits auf Catenda vorhanden ist, müssen Sie den QR-Platzhalter hinzufügen und eine neue Fassung hochladen. Wenn Sie keinen Zugriff auf ein PDF-Bearbeitungsprogramm haben, können Sie das [Werkzeug für die Bildstempelanmerkung](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen#h_6e3ac983b6) verwenden, um den QR-Platzhalter zu Ihrem Dokument hinzuzufügen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/04-placing-the-qr-code-a-catenda-document.png)
 
-Um das Dokument zu speichern, damit der QR-Platzhalter erkannt wird, drucken Sie das Dokument mit [der Schaltfläche "Drucken"](https://support.catenda.com/de/articles/5001165-document-preview-and-annotations#h_709cb0ed70), die sich oben links in der Dokumentvorschau befindet.
+Um das Dokument zu speichern, damit der QR-Platzhalter erkannt wird, drucken Sie das Dokument mit [der Schaltfläche "Drucken"](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen#h_709cb0ed70), die sich oben links in der Dokumentvorschau befindet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/05-placing-the-qr-code-a-catenda-document.png)
 
@@ -82,7 +82,7 @@ Hier ist ein Beispiel für die Platzierung des QR-Code-Platzhalters und das Erge
 
 ### 3.1 **Dokumenthistorie**
 
-Nach dem Hochladen eines Dokuments mit QR-Code-Platzhalter können Sie in der Dokumenthistorie des [Informationsmenüs auf der rechten Seite](https://support.catenda.com/de/articles/8302244-right-menu-of-a-revision) sehen, dass es erfolgreich verarbeitet wurde.
+Nach dem Hochladen eines Dokuments mit QR-Code-Platzhalter können Sie in der Dokumenthistorie des [Informationsmenüs auf der rechten Seite](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen) sehen, dass es erfolgreich verarbeitet wurde.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/10-document-history.png)
 

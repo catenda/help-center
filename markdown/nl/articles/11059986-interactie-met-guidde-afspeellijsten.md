@@ -28,4 +28,4 @@ Nadat u de afspeellijst hebt geopend, kunt u de knop delen in de rechterbovenhoe
 
 Merk op dat uw URL verandert wanneer u op de verschillende video's klikt. Wanneer u deelt met de deelknop, deelt u een Koppelingen naar uw huidige video als onderdeel van de afspeellijst.
 
-## 4. Gidsen afspeellijsten over Catenda kunnen hier 👉 [worden gevonden](https://support.catenda.com/nl/articles/11055278-guide-playlists)
+## 4. Gidsen afspeellijsten over Catenda kunnen hier 👉 [worden gevonden](https://support.catenda.com/nl/articles/11055278-guidde-video-s)

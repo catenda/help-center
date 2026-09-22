@@ -2,7 +2,7 @@
 
 > Hvordan ha en PDF som overlegg i 2D-visningen
 
-Ved å konfigurere etasjer i et prosjekt kan forberedte visninger i [2D-visningen](https://support.catenda.com/nb/articles/4854537-2d-viewer) opprettes for medlemmer i prosjektet. Siden Storey Configurator finner du som en delside av [modellsiden](https://support.catenda.com/nb/articles/4670286-models-page). Navnene Storey og Building som brukes her, stammer fra IFC-standarden. Selv om begrepene Storey og Building ofte brukes mer innen sosial infrastruktur, er dette verktøyet like nyttig, om ikke mer nyttig, for fysiske eller digitale infrastrukturprosjekter. _Tilgangskrav:_ Prosjektadministrator
+Ved å konfigurere etasjer i et prosjekt kan forberedte visninger i [2D-visningen](https://support.catenda.com/nb/articles/4854537-2d-viser) opprettes for medlemmer i prosjektet. Siden Storey Configurator finner du som en delside av [modellsiden](https://support.catenda.com/nb/articles/4670286-modellside). Navnene Storey og Building som brukes her, stammer fra IFC-standarden. Selv om begrepene Storey og Building ofte brukes mer innen sosial infrastruktur, er dette verktøyet like nyttig, om ikke mer nyttig, for fysiske eller digitale infrastrukturprosjekter. _Tilgangskrav:_ Prosjektadministrator
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hn8gfwtp/01-intro.png)
 
@@ -24,7 +24,7 @@ Handlingsmenyen på siden for storey configurator finner du ved å åpne de tre 
 
 ### 1.1 **Legg til ny bygning**
 
-Klikk [her](https://support.catenda.com/nb/articles/12291366-storey-configurator-actions) for å lese mer om hvordan du legger til en ny bygning.
+Klikk [her](https://support.catenda.com/nb/articles/12291366-etasjekonfikgurator-handlinger) for å lese mer om hvordan du legger til en ny bygning.
 
 ### 1.2 **PDF**
 

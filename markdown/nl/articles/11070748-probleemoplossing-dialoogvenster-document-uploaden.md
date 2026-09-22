@@ -14,7 +14,7 @@ Wanneer een bestand een mogelijk schadelijk bestandstype heeft, wordt het niet g
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qn4yk3x7/02-executable-and-script-filetypes.png)
 
-De volgende bestandstypen die mogelijk schadelijk kunnen zijn, zijn niet toegestaan. Zie welke bestandstypen niet kunnen worden geüpload in [dit](https://support.catenda.com/nl/articles/4670320-previewing-file-types-on-catenda-hub) artikel.
+De volgende bestandstypen die mogelijk schadelijk kunnen zijn, zijn niet toegestaan. Zie welke bestandstypen niet kunnen worden geüpload in [dit](https://support.catenda.com/nl/articles/4670320-bestandstypen-bekijken-op-catenda-hub) artikel.
 
 ## 3. **Bestandsnaam afgekapt**
 

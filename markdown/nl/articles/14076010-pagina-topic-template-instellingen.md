@@ -2,11 +2,11 @@
 
 > Beheer uw Topic template-instellingen
 
-De pagina Topic template-instellingen kunt u vinden door op Configureer topic templates te klikken op de [topic-instellingenpagina](https://support.catenda.com/nl/articles/14183429-topic-settings-page) die u kunt openen vanuit het linkernavigatiemenu na het openen van de topics-pagina. _Vereiste toegang:_ Projectbeheerder
+De pagina Topic template-instellingen kunt u vinden door op Configureer topic templates te klikken op de [topic-instellingenpagina](https://support.catenda.com/nl/articles/14183429-pagina-topic-instellingen) die u kunt openen vanuit het linkernavigatiemenu na het openen van de topics-pagina. _Vereiste toegang:_ Projectbeheerder
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/01-intro.png)
 
-Op de pagina Topic template-instellingen kunnen topic templates voor elk van de topic boards in het project worden geconfigureerd. Na het maken worden topic templates automatisch beschikbaar gesteld om tekst en velden van topics in te vullen bij het maken. Topic templates kunnen worden geconfigureerd om beschikbaar te zijn in de volgende processen voor topic-aanmaak: [Topic templates gebruiken in algemene topics](https://support.catenda.com/nl/articles/14075921-apply-a-general-topic-template-upon-topic-creation) [Topic templates in markup-topics gebruiken](https://support.catenda.com/nl/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document) [Topic templates gebruiken met goedkeuringen](https://support.catenda.com/nl/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
+Op de pagina Topic template-instellingen kunnen topic templates voor elk van de topic boards in het project worden geconfigureerd. Na het maken worden topic templates automatisch beschikbaar gesteld om tekst en velden van topics in te vullen bij het maken. Topic templates kunnen worden geconfigureerd om beschikbaar te zijn in de volgende processen voor topic-aanmaak: [Topic templates gebruiken in algemene topics](https://support.catenda.com/nl/articles/14075921-onderwerpssjablonen-in-een-onderwerpsboard-gebruiken) [Topic templates in markup-topics gebruiken](https://support.catenda.com/nl/articles/14078352-onderwerpsjablonen-gebruiken-bij-het-opslaan-van-markeringsonderwerpen) [Topic templates gebruiken met goedkeuringen](https://support.catenda.com/nl/articles/14078683-topic-templates-gebruiken-met-goedkeuringen)
 
 ## 1. **Actiemenu**
 
@@ -46,7 +46,7 @@ Nadat u naar uw pagina Topic template-instellingen bent genavigeerd, ziet u een 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/04-templates-table.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) om meer te lezen over hoe u met tabellen in Catenda werkt.
+Klik [hier](https://support.catenda.com/nl/articles/11748020-tabellen-op-catenda) om meer te lezen over hoe u met tabellen in Catenda werkt.
 
 ### 3.1 **Rijinhoud**
 

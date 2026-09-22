@@ -1,6 +1,6 @@
 # Modellinhaltseite
 
-Um einen Überblick über die Revisionen in einem Modell zu erhalten, gehen Sie zur [Modellseite](https://support.catenda.com/de/articles/4670286-models-page) und klicken Sie auf ein Modell. Sie werden dann zur Übersichtsseite dieses Modells weitergeleitet. Die Modellrevisions-Übersicht zeigt uns die im Projekt vorhandenen Modellrevisionen. Wenn Sie auf eine Modellrevision klicken, werden Sie zur Revisionsseite weitergeleitet. Anschließend können Sie auf "Importieren" klicken und ein neues Revisionsmodell hochladen.
+Um einen Überblick über die Revisionen in einem Modell zu erhalten, gehen Sie zur [Modellseite](https://support.catenda.com/de/articles/4670286-modellseite) und klicken Sie auf ein Modell. Sie werden dann zur Übersichtsseite dieses Modells weitergeleitet. Die Modellrevisions-Übersicht zeigt uns die im Projekt vorhandenen Modellrevisionen. Wenn Sie auf eine Modellrevision klicken, werden Sie zur Revisionsseite weitergeleitet. Anschließend können Sie auf "Importieren" klicken und ein neues Revisionsmodell hochladen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/01-intro.png)
 
@@ -14,11 +14,11 @@ Die folgenden Aktionen sind für jede Revision verfügbar.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/03-existing-item-actions.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/9674157-actions-on-the-model-overview-page), um mehr darüber zu lesen, was jede Aktion bewirkt.
+Klicken Sie [hier](https://support.catenda.com/de/articles/9674157-aktionen-auf-der-seite-modellinhalte), um mehr darüber zu lesen, was jede Aktion bewirkt.
 
 ## 2. **Rechtes Informationsmenü**
 
-Sie können Informationen über das Modell in seinem rechten Informationsmenü finden. Dieses Menü kann durch Klicken auf das Symbol "i" oben rechts auf der Seite aufgerufen werden. Klicken Sie [hier](https://support.catenda.com/de/articles/9673735-right-menu-on-the-models-page), um mehr über die verfügbaren Modellinformationen zu erfahren.
+Sie können Informationen über das Modell in seinem rechten Informationsmenü finden. Dieses Menü kann durch Klicken auf das Symbol "i" oben rechts auf der Seite aufgerufen werden. Klicken Sie [hier](https://support.catenda.com/de/articles/9673735-rechtes-menu-auf-der-modellseite), um mehr über die verfügbaren Modellinformationen zu erfahren.
 
 ## 3. **Modellname**
 
@@ -34,7 +34,7 @@ Wenn sich noch keine Revisionen in Ihrem Modell befinden, können Sie auf "Durch
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/05-revision-import.png)
 
-Sie können auch Drag & Drop verwenden, um eine neue Revision zu importieren, oder die neue Revisionsaktionen im Menü "Vorhandene Elementaktionen" verwenden. _Erforderlich:_ Hochladen von Modellrevisionen aus den [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-project-settings-page#h_f82a1850f3)
+Sie können auch Drag & Drop verwenden, um eine neue Revision zu importieren, oder die neue Revisionsaktionen im Menü "Vorhandene Elementaktionen" verwenden. _Erforderlich:_ Hochladen von Modellrevisionen aus den [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen#h_f82a1850f3)
 
 Dies geschieht durch Auswahl einer IFC-Datei von Ihrer Festplatte. Obwohl andere Dateitypen in der Rubrik "Dokumente" angezeigt werden können, werden nur IFC-Dateien in der Rubrik "Modelle" akzeptiert. Klicken Sie auf "Senden", um den Upload-Vorgang zu starten.
 

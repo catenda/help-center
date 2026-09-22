@@ -1,6 +1,6 @@
 # Dokumentermeny - Catenda Site
 
-Dokumentsiden finner du i [menyen](https://support.catenda.com/nb/articles/7338516-navigation-menu-catenda-site) eller ved å trykke på saksknapppen på navigasjonsmeny nederst. Her kan du finne og [forhåndsvise dokumentene dine](https://support.catenda.com/nb/articles/8975421-previewing-documents-on-catenda-site).
+Dokumentsiden finner du i [menyen](https://support.catenda.com/nb/articles/7338516-navigasjonsmeny-catenda-site) eller ved å trykke på saksknapppen på navigasjonsmeny nederst. Her kan du finne og [forhåndsvise dokumentene dine](https://support.catenda.com/nb/articles/8975421-forhandsvisning-av-filtyper-pa-catenda-site).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/01-intro.png)
 
@@ -16,7 +16,7 @@ Under navnet på prosjektet vil du se filtreringsmeny for dokumenter.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/03-document-filters.png)
 
-_Filtrer:_ Ved å klikke på filterknappen på høyre side kan du [filtrere dokumentene dine etter merkelapp](https://support.catenda.com/nb/articles/7854138-label-filter-catenda-site).
+_Filtrer:_ Ved å klikke på filterknappen på høyre side kan du [filtrere dokumentene dine etter merkelapp](https://support.catenda.com/nb/articles/7854138-merkelappfilter-catenda-site).
 
 _Søk:_ Søkeknappen lar deg søke i dokumenter.
 
@@ -40,4 +40,4 @@ Trykk på en mappe for å åpne mappen. Etter at du har åpnet en mappe, vil du 
 
 ### 2.2 **Åpning av dokumenter**
 
-Trykk på et dokument for å åpne dokumentet. Etter at du har lastet inn et dokument, er det tilgjengelig for deg, også hvis du er frakoblet, så lenge du er i mappen som dokumentet befinner seg i. Les [her](https://support.catenda.com/nb/articles/8975421-previewing-documents-on-catenda-site) for mer informasjon om dokumenter på Catenda Site
+Trykk på et dokument for å åpne dokumentet. Etter at du har lastet inn et dokument, er det tilgjengelig for deg, også hvis du er frakoblet, så lenge du er i mappen som dokumentet befinner seg i. Les [her](https://support.catenda.com/nb/articles/8975421-forhandsvisning-av-filtyper-pa-catenda-site) for mer informasjon om dokumenter på Catenda Site

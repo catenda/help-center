@@ -14,7 +14,7 @@ The following actions can be found for each revision.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/03-existing-item-actions.png)
 
-Click [here](https://support.catenda.com/en/articles/9674157-actions-on-the-model-overview-page) to read more about what each action does.
+Click [here](https://support.catenda.com/en/articles/9674157-model-contents-page-actions) to read more about what each action does.
 
 ## 2. **Right information menu**
 

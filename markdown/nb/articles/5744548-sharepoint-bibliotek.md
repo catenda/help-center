@@ -2,7 +2,7 @@
 
 > Denne artikkelen beskriver hvordan du setter opp en tilkobling til Sharepoint
 
-For å opprette et SharePoint-bibliotek klikker du på [knappen for nytt bibliotek](https://support.catenda.com/nb/articles/8065645-libraries-page#h_c6d56f227c) øverst til høyre på [bibliotekssiden](https://support.catenda.com/nb/articles/8065645-libraries-page). Dette biblioteket kan brukes til å dele dokumenter fra en brukers SharePoint med andre medlemmer av Catenda-prosjektet. Når SharePoint-biblioteket er aktivert, kan det se slik ut:
+For å opprette et SharePoint-bibliotek klikker du på [knappen for nytt bibliotek](https://support.catenda.com/nb/articles/8065645-biblioteksside#h_c6d56f227c) øverst til høyre på [bibliotekssiden](https://support.catenda.com/nb/articles/8065645-biblioteksside). Dette biblioteket kan brukes til å dele dokumenter fra en brukers SharePoint med andre medlemmer av Catenda-prosjektet. Når SharePoint-biblioteket er aktivert, kan det se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/01-intro.png)
 
@@ -54,7 +54,7 @@ Klikk på knappen Nytt bibliotek for å opprette et nytt bibliotek
 
 ### 4.1 **Lagrede filtre**
 
-Klikk [her](https://support.catenda.com/nb/articles/8551755-saving-filters) for å lese mer om hvordan du lagrer et sett med filtre
+Klikk [her](https://support.catenda.com/nb/articles/8551755-begrenser-filterresultater) for å lese mer om hvordan du lagrer et sett med filtre
 
 ### 4.2 **Ikke koblet –** `link=unlinked`
 
@@ -100,7 +100,7 @@ Hvis noen objekter har blitt koblet til dokumentene dine, vil du kunne se antall
 
 ## 6. **Høyre informasjonsmeny**
 
-Når du først åpner og velger et dokument i dokumentlisten, kan høyre meny være lukket. Du kan klikke på informasjonsknappen nederst til høyre på [dokumentbanneret](https://support.catenda.com/nb/articles/8461918-document-banner-actions-navigation) for å utvide denne menyen.
+Når du først åpner og velger et dokument i dokumentlisten, kan høyre meny være lukket. Du kan klikke på informasjonsknappen nederst til høyre på [dokumentbanneret](https://support.catenda.com/nb/articles/8461918-dokumentbanner-navigasjon) for å utvide denne menyen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/05-right-information-menu.png)
 

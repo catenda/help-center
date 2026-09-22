@@ -1,10 +1,10 @@
 # Themen-Banner - Navigation durch Themen
 
-Wenn Sie ein Thema aus einem [Themen-Board](https://support.catenda.com/de/articles/4670271-issues-page#h_6a5895256b) auswählen, wird ein neues Fenster für dieses Thema angezeigt. So könnte ein Themen-Fenster aussehen:
+Wenn Sie ein Thema aus einem [Themen-Board](https://support.catenda.com/de/articles/4670271-themen-seite#h_6a5895256b) auswählen, wird ein neues Fenster für dieses Thema angezeigt. So könnte ein Themen-Fenster aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/01-intro.png)
 
-1\. Das Themen-Banner wird in diesem Artikel beschrieben. 2\. Sie finden das Themen-Banner über dem [Themen-Header](https://support.catenda.com/de/articles/8400566-issue-header). 3\. Rechts neben dem Themen-Header und -Text finden Sie das [rechte Informationsfenster](https://support.catenda.com/de/articles/8053299-issue-right-panel). 4\. Unter dem Header eines Themas finden Sie den [Themen-Body](https://support.catenda.com/de/articles/8053352-issue-body).
+1\. Das Themen-Banner wird in diesem Artikel beschrieben. 2\. Sie finden das Themen-Banner über dem [Themen-Header](https://support.catenda.com/de/articles/8400566-themen-header-das-thema-eines-themas). 3\. Rechts neben dem Themen-Header und -Text finden Sie das [rechte Informationsfenster](https://support.catenda.com/de/articles/8053299-rechtes-menu-in-einem-thema). 4\. Unter dem Header eines Themas finden Sie den [Themen-Body](https://support.catenda.com/de/articles/8053352-themen-text-der-inhalt-eines-themas).
 
 ## 1. **Breadcrumbs**
 
@@ -12,11 +12,11 @@ Wenn Sie ein Thema aus einem [Themen-Board](https://support.catenda.com/de/artic
 
 ### 1.1 **Themen**
 
-Klicken Sie auf Themen in den Breadcrumbs, um zum aktuellen [Themen-Board](https://support.catenda.com/de/articles/4670271-issues-page#h_6a5895256b) zurückzukehren.
+Klicken Sie auf Themen in den Breadcrumbs, um zum aktuellen [Themen-Board](https://support.catenda.com/de/articles/4670271-themen-seite#h_6a5895256b) zurückzukehren.
 
 ### 1.2 **Themen-Board-Dropdown**
 
-Wählen Sie ein [Themen-Board](https://support.catenda.com/de/articles/4670271-issues-page#h_6a5895256b) im Dropdown des Themen-Boards in den Breadcrumbs aus, um zu diesem Themen-Board zu gelangen.
+Wählen Sie ein [Themen-Board](https://support.catenda.com/de/articles/4670271-themen-seite#h_6a5895256b) im Dropdown des Themen-Boards in den Breadcrumbs aus, um zu diesem Themen-Board zu gelangen.
 
 ### 1.3 **Themen-Nummer und Titel**
 
@@ -36,7 +36,7 @@ _Vorherige und nächste Schaltflächen_ - Gehen Sie zum vorherigen oder nächste
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/04-top-buttons.png)
 
-_Neues Thema_ - Erstellen Sie ein [neues Thema](https://support.catenda.com/de/articles/4670268-creating-a-new-issue) _Thema klonen_  - Erstellen Sie eine Kopie dieses Themas Sie möchten ein Thema klonen, wenn Sie ein ähnliches Thema erstellen möchten, das sich leicht vom aktuellen Thema unterscheidet. Es wird nicht empfohlen, mehrere identische Themen zu erstellen und jeweils einer anderen Person zuzuweisen. Stattdessen möchten Sie die verschiedenen Mitglieder, die Sie zum Thema hinzufügen möchten, mit [erwähnen](https://support.catenda.com/de/articles/8430847-formatting-of-posts#h_2481ad1c8c) @Mitglied.
+_Neues Thema_ - Erstellen Sie ein [neues Thema](https://support.catenda.com/de/articles/4670268-ein-neues-thema-erstellen) _Thema klonen_  - Erstellen Sie eine Kopie dieses Themas Sie möchten ein Thema klonen, wenn Sie ein ähnliches Thema erstellen möchten, das sich leicht vom aktuellen Thema unterscheidet. Es wird nicht empfohlen, mehrere identische Themen zu erstellen und jeweils einer anderen Person zuzuweisen. Stattdessen möchten Sie die verschiedenen Mitglieder, die Sie zum Thema hinzufügen möchten, mit [erwähnen](https://support.catenda.com/de/articles/8430847-toolbox-fur-beitragformatierung#h_2481ad1c8c) @Mitglied.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/05-top-buttons.png)
 
@@ -51,4 +51,4 @@ _Neues Thema_ - Erstellen Sie ein [neues Thema](https://support.catenda.com/de/a
 
 > **Hinweis:** Kommentare werden nicht geklont
 
-_Einstellungen_ - Navigieren Sie zu den [Themen-Board-Einstellungen](https://support.catenda.com/de/articles/4670277-issue-board-settings), indem Sie auf diese Schaltfläche klicken
+_Einstellungen_ - Navigieren Sie zu den [Themen-Board-Einstellungen](https://support.catenda.com/de/articles/4670277-einstellungsseite-fur-topic-board), indem Sie auf diese Schaltfläche klicken

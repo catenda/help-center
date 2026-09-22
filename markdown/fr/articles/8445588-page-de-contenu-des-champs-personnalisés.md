@@ -1,6 +1,6 @@
 # Page de contenu des champs personnalisés
 
-Vous pourrez trouver la page d'un champ personnalisé en cliquant sur le champ correspondant sur la [page des champs personnalisés](https://support.catenda.com/fr/articles/6550459-custom-fields-page) que vous trouverez en tant que sous-page de la [page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page).
+Vous pourrez trouver la page d'un champ personnalisé en cliquant sur le champ correspondant sur la [page des champs personnalisés](https://support.catenda.com/fr/articles/6550459-page-des-champs-personnalises) que vous trouverez en tant que sous-page de la [page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet).
 
 La création d'un champ personnalisé vous permettra de l'ajouter à un tableau de problèmes. Les problèmes dans ce tableau auront alors un nouveau champ dans l'en-tête. Vous pourrez également voir une colonne dans la vue tableau du tableau de problèmes et vous pourrez filtrer ces champs.
 
@@ -10,7 +10,7 @@ Les administrateurs pourront trouver les boutons d'action en haut à droite de l
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/01-new-item-action-menu.png)
 
-_Nouveau champ personnalisé_ Cliquez sur le bouton plus vert en haut à droite ou sur l'action Nouveau champ personnalisé dans le menu d'action pour créer un [nouveau champ personnalisé](https://support.catenda.com/fr/articles/8445575-creating-a-custom-field)
+_Nouveau champ personnalisé_ Cliquez sur le bouton plus vert en haut à droite ou sur l'action Nouveau champ personnalisé dans le menu d'action pour créer un [nouveau champ personnalisé](https://support.catenda.com/fr/articles/8445575-creation-d-un-champ-personnalise)
 
 **Archive** Ouvrez le menu d'action avec les trois points en haut à droite pour trouver l'action Archive en haut à droite. Il n'est possible que d'archiver un champ personnalisé. Il n'est pas possible de supprimer un champ personnalisé.
 
@@ -66,9 +66,9 @@ Dans la liste active, vous pourrez trouver les options de liste déroulante actu
 
 _Ancre_ Les administrateurs pourront configurer l'ordre des options en faisant glisser l'ancre dans la colonne la plus à gauche.
 
-**Nom** Ici, les utilisateurs verront le nom d'une option de liste déroulante. Si le champ de liste déroulante a été [ajouté à une liste de sujets](https://support.catenda.com/fr/articles/6563368-custom-fields-in-a-topic-board), vous verrez ce nom comme une option dans la liste. Un nom ne peut être assigné qu'à une seule option.
+**Nom** Ici, les utilisateurs verront le nom d'une option de liste déroulante. Si le champ de liste déroulante a été [ajouté à une liste de sujets](https://support.catenda.com/fr/articles/6563368-champs-personnalises-dans-un-topic-board), vous verrez ce nom comme une option dans la liste. Un nom ne peut être assigné qu'à une seule option.
 
-**Code** Ici, les utilisateurs verront le code d'une option de liste déroulante. Le code est utilisé pour [identifier un bloc avec une convention de nommage](https://support.catenda.com/fr/articles/7869240-how-to-use-custom-fields-in-naming-convention). Un code ne peut être assigné qu'à une seule option.
+**Code** Ici, les utilisateurs verront le code d'une option de liste déroulante. Le code est utilisé pour [identifier un bloc avec une convention de nommage](https://support.catenda.com/fr/articles/7869240-comment-utiliser-les-champs-personnalises-dans-la-convention-de-nommage). Un code ne peut être assigné qu'à une seule option.
 
 **Éditer et désactiver** Les administrateurs pourront modifier le nom d'une option après sa création. Si le champ n'a pas encore de code, il est possible d'ajouter un code. Après modification, cliquez sur enregistrer ou annuler pour confirmer.
 
@@ -92,9 +92,9 @@ Après avoir cliqué sur ajouter des options, vous verrez le dialogue suivant :
 
 _Nom_ Ici, vous pouvez ajouter un nom et un code pour chaque option de liste déroulante.
 
-**Code** Le code est utilisé pour [identifier un bloc avec une convention de nommage](https://support.catenda.com/fr/articles/7869240-how-to-use-custom-fields-in-naming-convention). Le code est une valeur unique que vous pouvez définir sur un élément. Cela signifie que vous ne pouvez pas ajouter le même code deux fois.
+**Code** Le code est utilisé pour [identifier un bloc avec une convention de nommage](https://support.catenda.com/fr/articles/7869240-comment-utiliser-les-champs-personnalises-dans-la-convention-de-nommage). Le code est une valeur unique que vous pouvez définir sur un élément. Cela signifie que vous ne pouvez pas ajouter le même code deux fois.
 
-**Dépannage des noms et codes** Cliquez [ici](https://support.catenda.com/fr/articles/13750419-custom-field-content-troubleshooting) pour en savoir plus s'il y a des défis avec le nom et le code.
+**Dépannage des noms et codes** Cliquez [ici](https://support.catenda.com/fr/articles/13750419-depannage-du-contenu-des-champs-personnalises) pour en savoir plus s'il y a des défis avec le nom et le code.
 
 ### 4.6 **Ajout de plusieurs options**
 

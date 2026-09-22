@@ -24,7 +24,7 @@ With the new model button on the models page you will be asked to select a folde
 
 **Keep open on submit** If you are creating a couple of models you can select the keep open on submit option. This way you do not have to click on new model each time as the menu will stay open. If you are creating many models at once it is recommended to upload them to the documents section and use the create model selected item action instead.
 
-**Create** After clicking on create you will be taken to the [model overview page](https://support.catenda.com/en/articles/4670270-model-overview-page) of the newly created model.
+**Create** After clicking on create you will be taken to the [model overview page](https://support.catenda.com/en/articles/4670270-model-contents-page) of the newly created model.
 
 _Access required:_ Creating and deleting models in project settings and write access to a location in the documents section.
 
@@ -32,7 +32,7 @@ _Access required:_ Creating and deleting models in project settings and write ac
 
 ### 1.2 **Exports**
 
-This action will take you to the [model export page](https://support.catenda.com/en/articles/4670280-model-export) where you will be able to create a zip file with a chosen revision for each of the models you have access to. _Access required:_ Access to at least one document-model in the models section.
+This action will take you to the [model export page](https://support.catenda.com/en/articles/4670280-model-export-page) where you will be able to create a zip file with a chosen revision for each of the models you have access to. _Access required:_ Access to at least one document-model in the models section.
 
 ## 2. **Selected item actions**
 
@@ -56,11 +56,11 @@ If shared revisions are enabled in the [status workflow menu](https://support.ca
 
 In the workspace tab row elements show the latest shared revision for each model. In the published tab row elements show the latest published revision for each model. Shared revisions can be differentieated from published revisions by the icon in the revision column and the fact that they have a minor revision number (0.1, 0.2, 1.1, etc...) _Access required:_ View shared revisions in document-model access settings Select one ore more models where the latest revision is a shared revision to see the publish action in the action menu. _Access required:_ Can publish in document-model access settings
 
-With the publish action the latest shared revision can be published. Previous shared revisions that were uploaded after the latest published revision can be published from the [model overview page](https://support.catenda.com/en/articles/4670270-model-overview-page). After publishing a new published revision with a major number (1.0, 2.0, 3.0 etc...) is added. This published revision will be visible both in the workspace and published tabs.
+With the publish action the latest shared revision can be published. Previous shared revisions that were uploaded after the latest published revision can be published from the [model overview page](https://support.catenda.com/en/articles/4670270-model-contents-page). After publishing a new published revision with a major number (1.0, 2.0, 3.0 etc...) is added. This published revision will be visible both in the workspace and published tabs.
 
 ### 2.4 **Download latest revision**
 
-If you have access to downloading models you can click on the download button. This will let you download the latest revision of a model as an ifc file. If you are looking for a previous revision of this model please to the its [model page](https://support.catenda.com/en/articles/4670270-model-page) _Access required:_ Access to at least one document-model in the models section.
+If you have access to downloading models you can click on the download button. This will let you download the latest revision of a model as an ifc file. If you are looking for a previous revision of this model please to the its [model page](https://support.catenda.com/en/articles/4670270-model-contents-page) _Access required:_ Access to at least one document-model in the models section.
 
 ### 2.5 **New revision**
 

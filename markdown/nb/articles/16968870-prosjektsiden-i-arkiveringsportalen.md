@@ -4,7 +4,7 @@
 
 Arkiveringsportalen lar deg arkivere dokumenter og saker fra Catenda Hub til organisasjonens eksterne arkivsystem. Den er for den som er ansvarlig for arkivering i ett eller flere prosjekter.
 
-Åpne portalen på [archiving.catenda.com](https://archiving.catenda.com) og klikk **Koble til Catenda Hub**. Portalen har ikke sitt eget passord, så du autentiserer deg i Catenda Hub og blir sendt tilbake hit. For kontoen selv, se [Påloggingsside](https://support.catenda.com/nb/articles/7891486-sign-in-page).
+Åpne portalen på [archiving.catenda.com](https://archiving.catenda.com) og klikk **Koble til Catenda Hub**. Portalen har ikke sitt eget passord, så du autentiserer deg i Catenda Hub og blir sendt tilbake hit. For kontoen selv, se [Påloggingsside](https://support.catenda.com/nb/articles/7891486-paloggingsside).
 
 Prosjektsiden kan se omtrent slik ut:
 
@@ -32,7 +32,7 @@ Sending overfører enheten til arkivsystemet, som arkiverer den og returnerer en
 
 Alt som mislykkes, registreres med grunnen til at det mislyktes, og kan sendes på nytt, enten én enhet om gangen eller for hele prosjektet på én gang.
 
-> **Merknad:** Artiklene som beskriver hver av disse trinnene i detalj, er bare tilgjengelige for brukere med tilgang til arkiveringsportalen. Se [Arkivsystemer og prosjektnumre i arkiveringsportalen](https://support.catenda.com/nb/articles/16968887-archive-systems-and-project-numbers-in-the-archiving-portal) for å se hvilket arkivsystem portalen sender til.
+> **Merknad:** Artiklene som beskriver hver av disse trinnene i detalj, er bare tilgjengelige for brukere med tilgang til arkiveringsportalen. Se [Arkivsystemer og prosjektnumre i arkiveringsportalen](https://support.catenda.com/nb/articles/16968887-arkivsystemer-og-prosjektnumre-i-arkiveringsportalen) for å se hvilket arkivsystem portalen sender til.
 
 ## 2. **Dine prosjekter**
 
@@ -42,7 +42,7 @@ Bare prosjekter der du har administratorrettigheter, vises. Hvis et prosjekt du 
 
 Hvert prosjekt vises med eieren og en opptelling av dokumentene og sakene som venter på å bli arkivert.
 
-Klikk **Administrer arkiv** på et prosjekt for å åpne det. Hva prosjektsiden viser deg derfra, er beskrevet i [Prosjektinnholdsside i arkiveringsportalen](https://support.catenda.com/nb/articles/16968871-project-content-page-in-the-archiving-portal), som bare brukere med tilgang til arkiveringsportalen kan lese.
+Klikk **Administrer arkiv** på et prosjekt for å åpne det. Hva prosjektsiden viser deg derfra, er beskrevet i [Prosjektinnholdsside i arkiveringsportalen](https://support.catenda.com/nb/articles/16968871-prosjektinnholdsside-i-arkiveringsportalen), som bare brukere med tilgang til arkiveringsportalen kan lese.
 
 > **Merknad:** Portalen finner ut hvilke prosjekter som skal vises, ved å kontrollere teammedlemskapene dine. Hvis denne kontrollen mislykkes, forteller den deg at noen prosjekter kanskje ikke er synlige, i stedet for å vise en kort liste i all stillhet.
 
@@ -52,7 +52,7 @@ Tre kontroller sitter øverst til høyre, og denne siden er det første stedet d
 
 **Språk** Portalen er tilgjengelig på engelsk og norsk bokmål, og språkvelgeren bytter mellom dem.
 
-**Statistikk** **Vis statistikk** åpner et sammendrag av hva som har blitt arkivert på tvers av alle prosjekter. Ikonet vises bare for organisasjonseiere, og det tar plassen til tannhjulikonet som en prosjektside viser. Den siden er beskrevet i [Statistikkside i arkiveringsportalen](https://support.catenda.com/nb/articles/16968884-statistics-page-in-the-archiving-portal), og tallene per prosjekt i [Prosjektinnstillingsside i arkiveringsportalen](https://support.catenda.com/nb/articles/16968883-project-settings-page-in-the-archiving-portal). Begge disse artiklene er bare tilgjengelige for brukere med tilgang til arkiveringsportalen.
+**Statistikk** **Vis statistikk** åpner et sammendrag av hva som har blitt arkivert på tvers av alle prosjekter. Ikonet vises bare for organisasjonseiere, og det tar plassen til tannhjulikonet som en prosjektside viser. Den siden er beskrevet i [Statistikkside i arkiveringsportalen](https://support.catenda.com/nb/articles/16968884-statistikkside-i-arkiveringsportalen), og tallene per prosjekt i [Prosjektinnstillingsside i arkiveringsportalen](https://support.catenda.com/nb/articles/16968883-prosjektinnstillinger-i-arkiveringsportalen). Begge disse artiklene er bare tilgjengelige for brukere med tilgang til arkiveringsportalen.
 
 **Logg ut** Logger deg ut av portalen.
 

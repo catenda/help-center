@@ -34,4 +34,4 @@ Sie können die Felder jetzt bei Ihren nächsten topics eingeben!
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tv2vef51/07-intro.gif)
 
-👉 **[Einrichtung der benutzerdefinierten Felder](https://intercom.help/bimsync-arena/de/articles/6550459-setting-of-custom-fields)**
+👉 **[Einrichtung der benutzerdefinierten Felder](https://intercom.help/bimsync-arena/de/articles/6550459-seite-benutzerdefinierte-felder)**

@@ -8,7 +8,7 @@ If you select a document on the [documents page](https://support.catenda.com/en/
 1. You will find the document header below the document banner and above the document preview
 1. Below the document header you will find the document preview
 1. To the left of the document header and preview you will find the document list
-1. To the right of the document header and preview you will find the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
+1. To the right of the document header and preview you will find the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
 
 The document banner can look something like this:
 
@@ -38,11 +38,11 @@ Document actions can be found towards the top right of the document and can look
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/03-actions.png)
 
-Read more about what the different document actions do [here](https://support.catenda.com/en/articles/4670288-actions-documents#h_16671d6fc5).
+Read more about what the different document actions do [here](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_16671d6fc5).
 
 ## 4. **Right information menu**
 
-In the right information menu you will be able to find all information about the document. Click [here](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document) to read more about the right information menu in the documents section.
+In the right information menu you will be able to find all information about the document. Click [here](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info) to read more about the right information menu in the documents section.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/04-right-information-menu.png)
 
@@ -58,7 +58,7 @@ Click the fullscreen button to the right of the right information menu button to
 
 Documents can be downloaded with the action button on the top right, with the download button in the revisions menu of the right information menu, by selecting it in the documents list and downloading it or from the preview dialogue.
 
-**Right information menu** You will be able to find the download action button in the [right information menu](https://support.catenda.com/en/articles/8345396-right-panel-in-documents-table). Downloading the document from here will always give you the originally uploaded file. If you select one document you will get the latest revision as a file with the revision name. If you select more than one document you will get the latest revisions of the selected documents in a zip file with the document name and the revision number.
+**Right information menu** You will be able to find the download action button in the [right information menu](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page). Downloading the document from here will always give you the originally uploaded file. If you select one document you will get the latest revision as a file with the revision name. If you select more than one document you will get the latest revisions of the selected documents in a zip file with the document name and the revision number.
 
 **Document preview** If your document can be previewed you will be able to find the save as button in the hamburger menu on the top left of the documents preview. With the save as menu you will be able to download your document with annotations and comments.
 

@@ -1,6 +1,6 @@
 # Modelleksportinnholdsside
 
-Klikk på kortet for en eksport i eksportlisten på [modelleksportsiden](https://support.catenda.com/nb/articles/4670280-model-export) for å gå til innholdssiden for den eksporten. Dette er hvordan modelleksportinnholdssiden kan se ut:
+Klikk på kortet for en eksport i eksportlisten på [modelleksportsiden](https://support.catenda.com/nb/articles/4670280-modelleksportside) for å gå til innholdssiden for den eksporten. Dette er hvordan modelleksportinnholdssiden kan se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3ajw00qp/01-intro.png)
 

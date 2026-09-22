@@ -10,12 +10,12 @@ Auf der linken Seite der Benachrichtigungsseite sehen Sie Ihre neuesten Benachri
 
 ## 1. **Filterung und Funktionalität**
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/8304417-filtering-and-functionality-on-notifications-pages), um mehr über das Filtern nach verschiedenen Problemen zu erfahren und in welchen Fällen Sie jeweils welchen Benachrichtigungstyp erhalten.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8304417-filterung-auf-der-benachrichtigungsseite), um mehr über das Filtern nach verschiedenen Problemen zu erfahren und in welchen Fällen Sie jeweils welchen Benachrichtigungstyp erhalten.
 
 ## 2. **E-Mail-Benachrichtigungen**
 
-Wenn Sie E-Mail-Benachrichtigungen aktiviert haben, werden diese Benachrichtigungen Ihnen entweder in einer Zusammenfassungs-E-Mail oder als separate E-Mail pro Benachrichtigung zugesendet. Dies kann in den [E-Mail-Benachrichtigungseinstellungen](https://support.catenda.com/de/articles/8272435-notification-settings#h_75e5db8657) konfiguriert werden. Wenn Sie keine E-Mails erhalten, überprüfen Sie bitte [diesen](https://support.catenda.com/de/articles/8417802-why-am-i-not-receiving-emails) Artikel.
+Wenn Sie E-Mail-Benachrichtigungen aktiviert haben, werden diese Benachrichtigungen Ihnen entweder in einer Zusammenfassungs-E-Mail oder als separate E-Mail pro Benachrichtigung zugesendet. Dies kann in den [E-Mail-Benachrichtigungseinstellungen](https://support.catenda.com/de/articles/8272435-kontobenachrichtigungseinstellungen#h_75e5db8657) konfiguriert werden. Wenn Sie keine E-Mails erhalten, überprüfen Sie bitte [diesen](https://support.catenda.com/de/articles/8417802-warum-erhalte-ich-keine-e-mails) Artikel.
 
 ## 3. **Benachrichtigungseinstellungen**
 
-Sie finden die [Benachrichtigungseinstellungen](https://support.catenda.com/de/articles/8272435-notification-settings) als Unterseite der Benachrichtigungsseite.
+Sie finden die [Benachrichtigungseinstellungen](https://support.catenda.com/de/articles/8272435-kontobenachrichtigungseinstellungen) als Unterseite der Benachrichtigungsseite.

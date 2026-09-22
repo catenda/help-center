@@ -12,7 +12,7 @@ Door op de filterknop te klikken verschijnt een paneel aan de linkerkant. Door d
 
 ## 2. **Opgeslagen filters**
 
-Klik [hier](https://support.catenda.com/nl/articles/8551755-saving-filters) voor meer informatie over het opslaan van een set filters
+Klik [hier](https://support.catenda.com/nl/articles/8551755-filterresultaten-beperken) voor meer informatie over het opslaan van een set filters
 
 ## 3. **Filters**
 
@@ -22,11 +22,11 @@ Klik op de filterknop linksboven om een paneel aan de linkerkant te laten versch
 
 ### 3.1 **Huidig filter opslaan en delen**
 
-Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen boven aan het filtermenu worden opgeslagen. Klik [hier](https://support.catenda.com/nl/articles/11401493-saving-a-filter-link) voor meer informatie over het opslaan en delen van filters
+Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen boven aan het filtermenu worden opgeslagen. Klik [hier](https://support.catenda.com/nl/articles/11401493-een-filterlink-opslaan-en-delen) voor meer informatie over het opslaan en delen van filters
 
 ### 3.2 **Lege filters verbergen**
 
-Klik [hier](https://support.catenda.com/nl/articles/8551755-saving-filters) voor meer informatie over het beperken van filterresultaten.
+Klik [hier](https://support.catenda.com/nl/articles/8551755-filterresultaten-beperken) voor meer informatie over het beperken van filterresultaten.
 
 ### 3.3 **Verzamelingen die ik volg**
 
@@ -56,7 +56,7 @@ Niet extern gedeeld - `sharedBy=not-shared`
 
 ### 3.7 **Datumfilters**
 
-Gepubliceerd - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klik op datums selecteren om datums te selecteren waartussen u wilt zoeken Klik [hier](https://support.catenda.com/nl/articles/6511685-date-filter) voor meer informatie over het datumfilter
+Gepubliceerd - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klik op datums selecteren om datums te selecteren waartussen u wilt zoeken Klik [hier](https://support.catenda.com/nl/articles/6511685-datumfilter) voor meer informatie over het datumfilter
 
 ## 4. **Tekst zoeken**
 

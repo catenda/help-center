@@ -2,7 +2,7 @@
 
 > Een overzicht van de toegangsrechten van gebruikers en teams
 
-Het document toegangsoverzicht kan worden gevonden door te klikken op de knop toegangsoverzicht in het [toegangsbeheersmenu](https://support.catenda.com/nl/articles/7831371-document-settings-page#h_98a4be4ac9) van de [pagina document-instellingen](https://support.catenda.com/nl/articles/7831371-document-settings-page). Met het document toegangsoverzicht kan een algemeen overzicht van de toegangsrechten van gebruikers en teams in de documenttabel worden gevonden. _Vereiste toegang:_ Beheerder
+Het document toegangsoverzicht kan worden gevonden door te klikken op de knop toegangsoverzicht in het [toegangsbeheersmenu](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen#h_98a4be4ac9) van de [pagina document-instellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen). Met het document toegangsoverzicht kan een algemeen overzicht van de toegangsrechten van gebruikers en teams in de documenttabel worden gevonden. _Vereiste toegang:_ Beheerder
 
 Dit is hoe de pagina toegangsoverzicht eruit kan zien:
 
@@ -50,7 +50,7 @@ Klik op de actie toegangsoverzicht opnieuw aanmaken om de nieuwste versie van de
 
 ## 3. **Tabel toegangsoverzicht**
 
-Het is alleen mogelijk om de toegang voor mappen in de documentstructuur te zien. Om de toegang voor een specifiek document te zien, selecteert u het document en bekijkt u het [toegangsmenu](https://support.catenda.com/nl/articles/8302244-right-menu-of-a-revision-revision-info#h_8525de97c2) in het [rechtermenu van een documentrevisie](https://support.catenda.com/nl/articles/8302244-right-menu-of-a-revision-revision-info). Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) voor meer informatie over hoe u met tabellen in Catenda werkt.
+Het is alleen mogelijk om de toegang voor mappen in de documentstructuur te zien. Om de toegang voor een specifiek document te zien, selecteert u het document en bekijkt u het [toegangsmenu](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie#h_8525de97c2) in het [rechtermenu van een documentrevisie](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie). Klik [hier](https://support.catenda.com/nl/articles/11748020-tabellen-op-catenda) voor meer informatie over hoe u met tabellen in Catenda werkt.
 
 ### 3.1 **Filteren in de tabel toegangsoverzicht**
 

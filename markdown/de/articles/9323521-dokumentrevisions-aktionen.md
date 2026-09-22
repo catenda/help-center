@@ -1,6 +1,6 @@
 # Dokumentrevisions-Aktionen
 
-Je nach Ihren Zugriffsberechtigung können Sie verschiedene Aktionen für Ihr Dokument und seine Revisionen auf der [Dokumentrevisions-Vorschauseite](https://support.catenda.com/de/articles/8461918-document-banner-navigation) sehen.
+Je nach Ihren Zugriffsberechtigung können Sie verschiedene Aktionen für Ihr Dokument und seine Revisionen auf der [Dokumentrevisions-Vorschauseite](https://support.catenda.com/de/articles/8461918-dokumentbanner-navigation) sehen.
 
 ## 1. **Dokumentaktionen**
 
@@ -12,30 +12,30 @@ Das Aktionsmenü rechts neben den Symbolen kann etwa so aussehen:
 
 Das Downloadsymbol und die Hamburger-Menü-Aktion auf einer Dokumentseite laden die neueste Revision des Dokuments herunter. Auch wenn Sie sich eine frühere Revision ansehen, erhalten Sie mit dieser Aktion die neueste Revision.
 
-Wenn Sie frühere Revisionen eines Dokuments herunterladen möchten, können Sie dies im [Revisionsmenü](https://support.catenda.com/de/articles/8302244-right-menu-in-a-document#h_d0769e55eb) des [rechten Informationsmenüs](https://support.catenda.com/de/articles/8302244-right-menu-in-a-document) tun.
+Wenn Sie frühere Revisionen eines Dokuments herunterladen möchten, können Sie dies im [Revisionsmenü](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen#h_d0769e55eb) des [rechten Informationsmenüs](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen) tun.
 
 ### 1.2 Gleiche Aktion wie in der Dokumentliste
 
 Aktionen, die sich gleich wie in der Dokumentliste verhalten, umfassen:
 
-- [Neue Revision](https://support.catenda.com/de/articles/4670293-uploading-new-document-revision)
-- [Verknüpfen und Verknüpfung aufheben](https://support.catenda.com/de/articles/4670288-actions-documents#h_d9a539f267)
-- [Neuer Entwurf](https://support.catenda.com/de/articles/4670288-actions-documents#h_fb8963d8e5)
-- [Verschieben](https://support.catenda.com/de/articles/4670288-actions-documents#h_f80b6a94f2)
-- [Modell erstellen](https://support.catenda.com/de/articles/4670288-actions-documents#h_33d57b9d3d)
-- [Modell entfernen](https://support.catenda.com/de/articles/4670288-actions-documents#h_33d57b9d3d)
-- [Vorschau](https://support.catenda.com/de/articles/4670288-actions-documents#h_02cfc15b02)
-- [Löschen](https://support.catenda.com/de/articles/4670288-actions-documents#h_fbf2be74c3)
+- [Neue Revision](https://support.catenda.com/de/articles/4670293-neue-dokumentenrevision-hochladen)
+- [Verknüpfen und Verknüpfung aufheben](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_d9a539f267)
+- [Neuer Entwurf](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_fb8963d8e5)
+- [Verschieben](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_f80b6a94f2)
+- [Modell erstellen](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_33d57b9d3d)
+- [Modell entfernen](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_33d57b9d3d)
+- [Vorschau](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_02cfc15b02)
+- [Löschen](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen#h_fbf2be74c3)
 
 ## 2. **Dokumentrevisions-Aktionen**
 
-Aktionen für Ihre aktuelle Revision finden Sie im [rechten Menü einer Revision](https://support.catenda.com/de/articles/8302244-right-menu-of-a-revision). So können die Revisionsaktionen aussehen:
+Aktionen für Ihre aktuelle Revision finden Sie im [rechten Menü einer Revision](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen). So können die Revisionsaktionen aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/nxq3vptz/02-document-revision-actions.png)
 
 ### 2.1 **Vergleichen**
 
-Wenn Sie mehrere PDF-Revisionen in einem Dokument haben, können Sie die Aktion [PDF-Vergleich](https://support.catenda.com/de/articles/8461650-pdf-compare) sehen. Klicken Sie [hier](https://support.catenda.com/de/articles/8461650-pdf-compare), um mehr über PDF-Vergleich zu erfahren.
+Wenn Sie mehrere PDF-Revisionen in einem Dokument haben, können Sie die Aktion [PDF-Vergleich](https://support.catenda.com/de/articles/8461650-pdf-vergleich) sehen. Klicken Sie [hier](https://support.catenda.com/de/articles/8461650-pdf-vergleich), um mehr über PDF-Vergleich zu erfahren.
 
 ### 2.2 **Veröffentlichen**
 
@@ -49,4 +49,4 @@ Klicken Sie auf das Downloadsymbol oben rechts im Revisionsmenü oder laden Sie 
 
 ### 2.4 **Revision zurückziehen**
 
-Weitere Informationen zum Zurückziehen von Revisionen finden Sie [hier](https://support.catenda.com/de/articles/9711174-withdraw-revision) _Erforderlicher Zugriff:_ Vollzugriff auf das Dokument
+Weitere Informationen zum Zurückziehen von Revisionen finden Sie [hier](https://support.catenda.com/de/articles/9711174-revision-zuruckziehen) _Erforderlicher Zugriff:_ Vollzugriff auf das Dokument

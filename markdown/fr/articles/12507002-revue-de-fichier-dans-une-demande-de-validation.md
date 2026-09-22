@@ -66,8 +66,8 @@ Le bouton plein écran de revue se trouve vers le haut à droite de la page de r
 
 ## 6. Aperçu du document
 
-Lors de la revue de la revue de fichier au nom d'une équipe, tous les [outils d'annotation de document](https://support.catenda.com/fr/articles/11384618-document-preview-tools) seront disponibles. L'aperçu du document sur la page de revue de demande de validation fonctionne de la même manière que l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations) lors de l'ouverture d'un document à partir du tableau des documents.
+Lors de la revue de la revue de fichier au nom d'une équipe, tous les [outils d'annotation de document](https://support.catenda.com/fr/articles/11384618-outils-d-apercu-de-document) seront disponibles. L'aperçu du document sur la page de revue de demande de validation fonctionne de la même manière que l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations) lors de l'ouverture d'un document à partir du tableau des documents.
 
 ### 6.1 Lecture seule
 
-Lors de la consultation de la revue de fichier en mode lecture seule, seul l'[outil d'affichage](https://support.catenda.com/fr/articles/11384618-document-preview-tools#h_27c7badabb) sera disponible dans la barre d'outils de l'aperçu du document.
+Lors de la consultation de la revue de fichier en mode lecture seule, seul l'[outil d'affichage](https://support.catenda.com/fr/articles/11384618-outils-d-apercu-de-document#h_27c7badabb) sera disponible dans la barre d'outils de l'aperçu du document.

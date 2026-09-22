@@ -28,7 +28,7 @@ Klicken Sie hier, um mit der Suche in den Hilfeseiten zu beginnen. Standardmäß
 
 ### 1.4 **Empfohlene Seiten**
 
-Unterhalb der Suchleiste finden Sie die folgenden empfohlenen Seiten: Benutzerhandbücher in verschiedenen Sprachen [Hardwareempfehlung](https://support.catenda.com/de/articles/6921941-hardware-recommendation) [Zusammenfassung der wichtigsten Tastenkombinationen und grundlegenden Steuerelemente](https://support.catenda.com/de/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls) [Das neueste Änderungsprotokoll](https://support.catenda.com/de/collections/2683918-recent-updates)
+Unterhalb der Suchleiste finden Sie die folgenden empfohlenen Seiten: Benutzerhandbücher in verschiedenen Sprachen [Hardwareempfehlung](https://support.catenda.com/de/articles/6921941-hardwareempfehlung) [Zusammenfassung der wichtigsten Tastenkombinationen und grundlegenden Steuerelemente](https://support.catenda.com/de/articles/4670267-zusammenfassung-der-wichtigsten-tastenkombinationen-und-grundlegenden-steuerelemente) [Das neueste Änderungsprotokoll](https://support.catenda.com/de/collections/2683918-neueste-updates)
 
 ### 1.5 **Status**
 

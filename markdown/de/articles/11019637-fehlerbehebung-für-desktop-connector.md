@@ -72,7 +72,7 @@ In der Task selbst kann Folgendes angezeigt werden:
 
 `Nicht alle Ordner wurden heruntergeladen, klicken Sie hier, um Fehler anzuzeigen.`
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/13772277-desktop-connector-troubleshooting-not-all-folders-have-been-downloaded), um mehr über mögliche Probleme mit diesem Fehler zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/13772277-desktop-connector-nicht-alle-ordner-heruntergeladen), um mehr über mögliche Probleme mit diesem Fehler zu erfahren.
 
 ## 5. **Neueste Revision zurückgezogen**
 

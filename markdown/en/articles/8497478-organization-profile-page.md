@@ -18,8 +18,8 @@ Profile picture of the organization
 
 ## 3. **Sub pages**
 
-_Users_ - Here you can find owners and regular users on the [organizations user page](https://support.catenda.com/en/articles/8508311-users-page-in-organization-tool).
+_Users_ - Here you can find owners and regular users on the [organizations user page](https://support.catenda.com/en/articles/8508311-users-page-organization-tool).
 
-**Projects** Shows all projects that are part of this organization on the [organizations project page](https://support.catenda.com/en/articles/8505058-projects-page-in-organization-tool).
+**Projects** Shows all projects that are part of this organization on the [organizations project page](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool).
 
-_Project memberships_ - [Members that are part of the projects](https://support.catenda.com/en/articles/9003642-members-page-in-organization-tool) in this organization
+_Project memberships_ - [Members that are part of the projects](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool) in this organization

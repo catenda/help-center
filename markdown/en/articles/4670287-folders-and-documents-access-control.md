@@ -24,7 +24,7 @@ Click the "Define access for" dropdown to select participants for which access s
 
 Set access **per team rather than per user**. Roles change often, and team-based access stays flexible: a member added to a team gets the right access as soon as they join the project. A common pattern is to set "all users" to no access, so new, not-yet-assigned members can't see sensitive information. You then grant access to each team as needed.
 
-Click [here](https://support.catenda.com/en/articles/15644094-how-catenda-calculates-access-levels) to read more about how the different participant roles stack up against eachother.
+Click [here](https://support.catenda.com/en/articles/15644094-how-access-levels-are-calculated) to read more about how the different participant roles stack up against eachother.
 
 ## 2. **2. What access is applied? (3 steps)**
 
@@ -44,7 +44,7 @@ The access with the highest weight always wins, but there are exceptions. Restri
 
 The access with the highest weight applies. No access > Full access > Write > Read
 
-Click [here](https://support.catenda.com/en/articles/15644094-how-catenda-calculates-access-levels) to read more about how access levels are calculated. Click [here](https://support.catenda.com/en/articles/15644249-access-control-deployment-use-cases) to read more about typical ways access is configured.
+Click [here](https://support.catenda.com/en/articles/15644094-how-access-levels-are-calculated) to read more about how access levels are calculated. Click [here](https://support.catenda.com/en/articles/15644249-access-control-deployment-use-cases) to read more about typical ways access is configured.
 
 ### 2.2 **2.2 What can paritcipants do with that access?**
 

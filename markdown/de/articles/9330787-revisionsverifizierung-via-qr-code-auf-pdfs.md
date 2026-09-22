@@ -2,19 +2,19 @@
 
 Drucken Sie Dokumentrevisionen mit generierten QR-Codes auf Papier, damit Projektmitglieder überprüfen können, ob das Papier, das sie in den Händen halten, noch aktuell ist.
 
-Konfigurierte Ordner können anhand des Zahnradsymbols auf dem [Ordnersymbol](https://support.catenda.com/de/articles/8466850-columns-on-the-documents-page#h_6af15c36b3) identifiziert werden. So kann eine Revision mit einem generierten QR-Code aussehen:
+Konfigurierte Ordner können anhand des Zahnradsymbols auf dem [Ordnersymbol](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite#h_6af15c36b3) identifiziert werden. So kann eine Revision mit einem generierten QR-Code aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/01-intro.png)
 
 ## 1. **Ordnerkonfiguration**
 
-QR-Code-Stempelung kann [für konfigurierte Ordner](https://support.catenda.com/de/articles/7831371-document-settings#h_166a269870) auf der Dokumentenseite aktiviert werden. _Erforderlicher Zugriff:_ Administrator
+QR-Code-Stempelung kann [für konfigurierte Ordner](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen#h_166a269870) auf der Dokumentenseite aktiviert werden. _Erforderlicher Zugriff:_ Administrator
 
 In konfigurierten Ordnern werden neue PDF-Revisionen in hochgeladenen Dokumenten verarbeitet. Catenda scannt das Dokument nach dem unten angegebenen QR-Code-Platzhalter. Wenn der Platzhalter erfolgreich erkannt wird, wird ein QR-Code für die Revision generiert. _Erforderlicher Zugriff:_ Schreibzugriff auf das Dokument
 
 ### 1.1 **QR-Code zuweisen**
 
-Um QR-Code-Stempelung einem Ordner zuzuweisen, gehen Sie zu [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings), die Sie auf der [Dokumentenseite](https://support.catenda.com/de/articles/8204673-documents-page) finden. Erweitern Sie in den Dokumenteinstellungen das [Ordnerkonfigurationsmenü](https://support.catenda.com/de/articles/7831371-document-settings#h_6672c14d90). So kann das Ordnerkonfigurationsmenü aussehen:
+Um QR-Code-Stempelung einem Ordner zuzuweisen, gehen Sie zu [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen), die Sie auf der [Dokumentenseite](https://support.catenda.com/de/articles/8204673-dokumentenseite) finden. Erweitern Sie in den Dokumenteinstellungen das [Ordnerkonfigurationsmenü](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen#h_6672c14d90). So kann das Ordnerkonfigurationsmenü aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/02-assign-qr-code.png)
 
@@ -32,7 +32,7 @@ Klicken Sie [hier](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H
 
 > **Warnung:** Kopieren/Einfügen oder Speichern Sie dieses Bild nicht. Das Bild sieht auf der Zeichnung möglicherweise gleich aus, wird aber nicht erkannt.
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/9360508-qr-code-on-pdfs-in-catenda), um mehr darüber zu erfahren, wie Sie den Platzhalter auf einem PDF platzieren. So kann der Platzhalter aussehen, wenn er in einem Titelblock einer Zeichnung platziert wird:
+Klicken Sie [hier](https://support.catenda.com/de/articles/9360508-qr-code-auf-pdfs-in-catenda), um mehr darüber zu erfahren, wie Sie den Platzhalter auf einem PDF platzieren. So kann der Platzhalter aussehen, wenn er in einem Titelblock einer Zeichnung platziert wird:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/03-qr-code-placeholder-placement.png)
 

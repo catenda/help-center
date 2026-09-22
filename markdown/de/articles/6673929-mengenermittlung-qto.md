@@ -1,10 +1,10 @@
 # Mengenermittlung (QTO)
 
-Das QTO-Menü finden Sie als zweites Menü im [Informationsfenster](https://support.catenda.com/de/articles/8238584-information-panel).
+Das QTO-Menü finden Sie als zweites Menü im [Informationsfenster](https://support.catenda.com/de/articles/8238584-informationsbereich).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8drgvwsx/01-intro.png)
 
-Mit dieser Funktion können Sie eine Eigenschaftenliste der Objekte anzeigen und exportieren, die im [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer) oder im [Baum-Panel](https://intercom.help/bimsync-arena/de/articles/4670290-trees-panel) ausgewählt sind. Mit dieser Liste können Sie einfach genaue Messungen der Mengen verschiedener Objekte in Ihrem Modell erhalten. Um zu beginnen, wählen Sie bitte ein Objekt im [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer) oder im [Baum-Panel](https://intercom.help/bimsync-arena/de/articles/4670290-trees-panel) aus, um seine Eigenschaften und zugehörige Informationen im Inspektionsmenü anzuzeigen. Nachdem Sie einige Objekte ausgewählt haben, kann das QTO-Menü ungefähr so aussehen:
+Mit dieser Funktion können Sie eine Eigenschaftenliste der Objekte anzeigen und exportieren, die im [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer) oder im [Baum-Panel](https://intercom.help/bimsync-arena/de/articles/4670290-modellbaum-panel) ausgewählt sind. Mit dieser Liste können Sie einfach genaue Messungen der Mengen verschiedener Objekte in Ihrem Modell erhalten. Um zu beginnen, wählen Sie bitte ein Objekt im [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer) oder im [Baum-Panel](https://intercom.help/bimsync-arena/de/articles/4670290-modellbaum-panel) aus, um seine Eigenschaften und zugehörige Informationen im Inspektionsmenü anzuzeigen. Nachdem Sie einige Objekte ausgewählt haben, kann das QTO-Menü ungefähr so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8drgvwsx/02-intro.png)
 
@@ -32,7 +32,7 @@ In der zweiten Zeile bilden die Namen von Eigenschaften innerhalb ihrer Gruppen 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8drgvwsx/05-header-row.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um mehr über Tabellen in Catenda zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tabellen-in-catenda), um mehr über Tabellen in Catenda zu erfahren.
 
 ## 3. **Objektanzahl**
 
@@ -42,7 +42,7 @@ Bis zu 10 000 Objekte können in diesem Menü angezeigt werden, aber es kann nur
 
 ## 4. **Kurzvideo**
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/6707924-quantity-take-off-qto-short-video), um ein Kurzvideo zum QTO-Menü anzusehen.
+Klicken Sie [hier](https://support.catenda.com/de/articles/6707924-mengenaufmass-qto-kurzvideo), um ein Kurzvideo zum QTO-Menü anzusehen.
 
 ## 5. **Objektseite**
 

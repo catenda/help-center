@@ -4,7 +4,7 @@ De 3D Viewer-instellingen zijn te vinden in de rechterbovenhoek van de [3D Viewe
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/32hqb8n2/01-intro.png)
 
-> **Opmerking:** Zorg ervoor dat de hardware en software waarop Catenda is geopend [volgens aanbeveling](https://support.catenda.com/nl/articles/6921941-hardware-recommendation) zijn geconfigureerd, omdat dit van invloed kan zijn op hoe de Viewer wordt weergegeven.
+> **Opmerking:** Zorg ervoor dat de hardware en software waarop Catenda is geopend [volgens aanbeveling](https://support.catenda.com/nl/articles/6921941-hardwareaanbeveling) zijn geconfigureerd, omdat dit van invloed kan zijn op hoe de Viewer wordt weergegeven.
 
 ## 1. **De 3D Viewer inschakelen**
 
@@ -32,7 +32,7 @@ Dit is wat het renderingmenu eruit kan zien:
 
 ### 2.1 **Ruimten tonen**
 
-_Standaard uit_ - [Ruimten inschakelen en uitschakelen](https://support.catenda.com/nl/articles/4670315-how-can-i-show-spaces-in-catenda-hub). Ruimten kunnen nog steeds worden geselecteerd in de 2D Viewer als deze in het model voorkomen.
+_Standaard uit_ - [Ruimten inschakelen en uitschakelen](https://support.catenda.com/nl/articles/4670315-hoe-kan-ik-spaties-in-catenda-hub-weergeven). Ruimten kunnen nog steeds worden geselecteerd in de 2D Viewer als deze in het model voorkomen.
 
 ### 2.2 **Weergavekwaliteit**
 
@@ -42,7 +42,7 @@ De verhouding tussen het aantal pixels dat de viewport zegt weer te geven en het
 - Weergavetechnologieën die de pixeldichtheid beïnvloeden, zoals Apple Retina.
 - Displays met hoge DPI
 
-> **Opmerking:** Zorg ervoor dat de hardware en software waarop Catenda is geopend [volgens aanbeveling](https://support.catenda.com/nl/articles/6921941-hardware-recommendation) zijn geconfigureerd, omdat dit van invloed kan zijn op de pixelafzetting van de Viewer.
+> **Opmerking:** Zorg ervoor dat de hardware en software waarop Catenda is geopend [volgens aanbeveling](https://support.catenda.com/nl/articles/6921941-hardwareaanbeveling) zijn geconfigureerd, omdat dit van invloed kan zijn op de pixelafzetting van de Viewer.
 
 **Standaardkwaliteit** Met de standaard weergavekwaliteit zijn de pixels die de viewport heeft hetzelfde aantal fysieke pixels dat de viewport op het scherm weergeeft. Voor schermen die de mogelijkheid bieden om de viewport over meer fysieke pixels weer te geven dan de viewport zegt dat het heeft, kan deze instelling ertoe leiden dat de afbeelding minder nauwkeurig lijkt. Deze modus is sneller en minder veeleisend voor uw apparaat.
 
@@ -57,7 +57,7 @@ Pixelnauwkeurigheid bij het afvlakken van diagonale lijnen in volgorde van nauwk
 - 4x MSAA
 - 8x MSAA
 
-> **Opmerking:** Zorg ervoor dat de hardware en software waarop Catenda is geopend [volgens aanbeveling](https://support.catenda.com/nl/articles/6921941-hardware-recommendation) zijn geconfigureerd, omdat dit van invloed kan zijn op de nauwkeurigheid van diagonale lijnen.
+> **Opmerking:** Zorg ervoor dat de hardware en software waarop Catenda is geopend [volgens aanbeveling](https://support.catenda.com/nl/articles/6921941-hardwareaanbeveling) zijn geconfigureerd, omdat dit van invloed kan zijn op de nauwkeurigheid van diagonale lijnen.
 
 ### 2.4 **Stapsgewijze rendering**
 

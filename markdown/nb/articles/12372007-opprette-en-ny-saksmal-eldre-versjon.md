@@ -1,6 +1,6 @@
 # Opprette en ny saksmal - Eldre versjon
 
-Den nye saksmalhandlingen finnes ved å klikke på handlingsmenyen til høyre for den grønne plusknappen på [saksmalsiden](https://support.catenda.com/nb/articles/12367730-topic-templates-page) og [saksmalsiden](https://support.catenda.com/nb/articles/12371549-topic-template-page). Handlingen finnes også i saksmaldropdown-menyen i saksmalområdet på [godkjenningssettingssiden](https://support.catenda.com/nb/articles/12367293-approval-settings-page). _Påkrevd tilgang:_ Administrator
+Den nye saksmalhandlingen finnes ved å klikke på handlingsmenyen til høyre for den grønne plusknappen på [saksmalsiden](https://support.catenda.com/nb/articles/12367730-sakmalside-eldre-system) og [saksmalsiden](https://support.catenda.com/nb/articles/12371549-sakmalside-arv). Handlingen finnes også i saksmaldropdown-menyen i saksmalområdet på [godkjenningssettingssiden](https://support.catenda.com/nb/articles/12367293-gjennomgangsinnstillinger-eldre-versjon). _Påkrevd tilgang:_ Administrator
 
 Slik kan den nye saksmaldialogren se ut:
 

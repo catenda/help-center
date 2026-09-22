@@ -2,7 +2,7 @@
 
 > Beskriver hvordan du konfigurerer MFA på kontoen din
 
-Du finner **Flerfaktor-autentisering** (MFA)-innstillingene på [autentiseringssiden](https://support.catenda.com/nb/articles/6880968-account-page#h_e04d63351f), som er en underside til [kontosiden](https://support.catenda.com/nb/articles/6880968-account-page).
+Du finner **Flerfaktor-autentisering** (MFA)-innstillingene på [autentiseringssiden](https://support.catenda.com/nb/articles/6880968-kontosida#h_e04d63351f), som er en underside til [kontosiden](https://support.catenda.com/nb/articles/6880968-kontosida).
 
 **Flerfaktor-autentisering** (MFA) krever at du angir en kode mottatt via mobilenheten din i tillegg til brukernavn og passord når du logger på Catenda Hub. Når en organisasjon krever MFA, brukes det på organisasjonsnivå. Alle prosjekter som tilhører den organisasjonen, vil da kreve MFA for å få tilgang til prosjektene. Dette tvinger alle brukere til å aktivere MFA for å få tilgang til prosjekter som tilhører den organisasjonen.
 
@@ -145,6 +145,6 @@ Autentiseringsapper er sikrere enn SMS/E-post-koderesolninger fordi det ikke fin
 
 ## 6. **Hvem kan håndheve MFA på prosjekter?**
 
-Enterprise-kunder kan be om et [organisasjonsalternativ](https://support.catenda.com/nb/articles/8224886-organization-options#h_d6710faf75) som skal slås på, som gjør at alle brukere som er del av prosjektene deres må bruke MFA for å gå inn i prosjektet. For å aktivere MFA på organisasjonens prosjekter, ta kontakt med Catenda-støtte. Når MFA kreves på organisasjonens prosjekter, vil du se denne meldingen når du forsøker å åpne prosjektet.
+Enterprise-kunder kan be om et [organisasjonsalternativ](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_d6710faf75) som skal slås på, som gjør at alle brukere som er del av prosjektene deres må bruke MFA for å gå inn i prosjektet. For å aktivere MFA på organisasjonens prosjekter, ta kontakt med Catenda-støtte. Når MFA kreves på organisasjonens prosjekter, vil du se denne meldingen når du forsøker å åpne prosjektet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/07-who-can-enforce-mfa-on-projects.png)

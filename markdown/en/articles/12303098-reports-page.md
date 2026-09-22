@@ -10,7 +10,7 @@ This article contains information about the following topics: [Search or filter]
 
 ## 1. **Search or filter options**
 
-See [here](https://support.catenda.com/en/articles/4670283-search-and-filter-option) to find out how best to search or filter in the reports table
+See [here](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page) to find out how best to search or filter in the reports table
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/02-search-or-filter-options.png)
 
@@ -32,7 +32,7 @@ In the right menu you will be able to see information about:
 - Linked objects
 - Topics
 
-Click [here](https://support.catenda.com/en/articles/8345396-right-panel-on-the-documents-page) to read more about the right menu.
+Click [here](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page) to read more about the right menu.
 
 ## 3. **Reports table**
 
@@ -48,7 +48,7 @@ After selecting an element row selected item actions appear towards the top of t
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/05-selected-item-actions.png)
 
-Click [here](https://support.catenda.com/en/articles/4670288-document-structure-actions) to read more about the selected item actions on the reports page.
+Click [here](https://support.catenda.com/en/articles/4670288-documents-table-actions) to read more about the selected item actions on the reports page.
 
 ### 3.2 **Row content**
 

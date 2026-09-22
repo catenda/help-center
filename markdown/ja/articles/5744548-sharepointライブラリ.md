@@ -2,11 +2,11 @@
 
 > この記事では、SharePointへの接続を設定する方法について説明します
 
-SharePointライブラリを作成するには、[ライブラリページ](https://support.catenda.com/ja/articles/8065645-libraries-page)の右上にある[新しいライブラリボタン](https://support.catenda.com/ja/articles/8065645-libraries-page#h_c6d56f227c)をクリックします。このライブラリは、ユーザーのSharePointのドキュメントをCatendaプロジェクトの他のメンバーと共有するために使用できます。SharePointライブラリが有効化されると、次のように表示されます：
+SharePointライブラリを作成するには、[ライブラリページ](https://support.catenda.com/ja/articles/8065645-ライブラリページ)の右上にある[新しいライブラリボタン](https://support.catenda.com/ja/articles/8065645-ライブラリページ#h_c6d56f227c)をクリックします。このライブラリは、ユーザーのSharePointのドキュメントをCatendaプロジェクトの他のメンバーと共有するために使用できます。SharePointライブラリが有効化されると、次のように表示されます：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/01-intro.png)
 
-[ここ](https://support.catenda.com/ja/articles/9800091-sharepoint-library-short-video)をクリックして、SharePointライブラリを設定する方法に関する短いビデオをご覧ください。
+[ここ](https://support.catenda.com/ja/articles/9800091-sharepoint-ライブラリ-ショート-ビデオ)をクリックして、SharePointライブラリを設定する方法に関する短いビデオをご覧ください。
 
 ライブラリに名前を付けた後、ブラウザーに新しいタブが開き、SharePointアカウントでログインするよう求められます。ログイン後、SharePointライブラリのライブラリ設定ページに移動し、Catendaに表示するSharePointフォルダを設定できます。
 
@@ -54,7 +54,7 @@ SharePointライブラリを作成するには、[ライブラリページ](http
 
 ### 4.1 **保存済みフィルタ**
 
-[ここ](https://support.catenda.com/ja/articles/8551755-saving-filters)をクリックして、フィルタセットを保存する方法の詳細をご覧ください
+[ここ](https://support.catenda.com/ja/articles/8551755-フィルター結果の制限)をクリックして、フィルタセットを保存する方法の詳細をご覧ください
 
 ### 4.2 **リンクなし -** `link=unlinked`
 
@@ -100,7 +100,7 @@ SharePointライブラリを作成するには、[ライブラリページ](http
 
 ## 6. **右側の情報メニュー**
 
-ドキュメントをドキュメントリストで最初に開いて選択すると、右側のメニューが閉じている場合があります。[ドキュメントバナー](https://support.catenda.com/ja/articles/8461918-document-banner-actions-navigation)の右下にある情報ボタンをクリックして、このメニューを展開できます。
+ドキュメントをドキュメントリストで最初に開いて選択すると、右側のメニューが閉じている場合があります。[ドキュメントバナー](https://support.catenda.com/ja/articles/8461918-ドキュメントバナー-ナビゲーション)の右下にある情報ボタンをクリックして、このメニューを展開できます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/05-right-information-menu.png)
 

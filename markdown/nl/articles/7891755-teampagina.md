@@ -1,6 +1,6 @@
 # Teampagina
 
-U kunt de pagina van een team aan de rechterkant van de [Leden-pagina](https://support.catenda.com/nl/articles/4670291-members-page) vinden.
+U kunt de pagina van een team aan de rechterkant van de [Leden-pagina](https://support.catenda.com/nl/articles/4670291-pagina-leden-en-teams) vinden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bvhrpsv2/01-intro.png)
 

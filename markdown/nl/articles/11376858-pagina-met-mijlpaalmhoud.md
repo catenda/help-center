@@ -1,6 +1,6 @@
 # Pagina met mijlpaalmhoud
 
-De pagina van een mijlpaal kan worden geopend door op een mijlpaal te klikken op de [pagina Mijlpalen](https://support.catenda.com/nl/articles/4670266-milestones-page). Dit is hoe de pagina van een mijlpaal eruit kan zien:
+De pagina van een mijlpaal kan worden geopend door op een mijlpaal te klikken op de [pagina Mijlpalen](https://support.catenda.com/nl/articles/4670266-pagina-milestones). Dit is hoe de pagina van een mijlpaal eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yx2925b3/01-intro.png)
 
@@ -16,7 +16,7 @@ Klik op de groene + of op de actie Nieuwe mijlpaal in het actiemenu om een nieuw
 
 ### 1.2 **Archief**
 
-Als uw mijlpaal actief is, kunt u deze met deze actie archiveren. _Vereiste toegang:_ Beheerder of Maker van mijlpaal Gearchiveerde mijlpalen kunnen worden gevonden en hersteld met de gearchiveerde mijlpalen acties op de [pagina Mijlpalen](https://support.catenda.com/nl/articles/4670266-milestones-page).
+Als uw mijlpaal actief is, kunt u deze met deze actie archiveren. _Vereiste toegang:_ Beheerder of Maker van mijlpaal Gearchiveerde mijlpalen kunnen worden gevonden en hersteld met de gearchiveerde mijlpalen acties op de [pagina Mijlpalen](https://support.catenda.com/nl/articles/4670266-pagina-milestones).
 
 ## 2. **Herstellen**
 

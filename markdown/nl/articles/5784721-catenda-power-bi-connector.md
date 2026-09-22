@@ -1,6 +1,6 @@
 # Catenda Power BI Connector
 
-> **Opmerking:** Het installatiebestand voor deze applicatie is te vinden [hier](https://support.catenda.com/nl/articles/8396532-catenda-plugins-and-integrations)
+> **Opmerking:** Het installatiebestand voor deze applicatie is te vinden [hier](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties)
 
 In dit artikel leggen we uit hoe de Catenda HUB-database kan worden gekoppeld met PowerBI. Door te koppelen kan directe toegang tot de gegevens op Catenda HUB worden verkregen in PowerBI. Deze gegevens kunnen vervolgens worden gebruikt om taken, Documenten of bijvoorbeeld Leden te evalueren.
 
@@ -30,7 +30,7 @@ Selecteer de doelbron onder Overig --> Catenda. Gebruik "_Verbinden_" om de verb
 
 ## 3. **Gegevens laden**
 
-Een navigator wordt geopend waarin alle projecten waartoe u toegang hebt, worden weergegeven. Selecteer het overeenkomstige project en de tabel die moet worden gekoppeld. In ons voorbeeld willen we [Topics](https://support.catenda.com/nl/articles/4670271-topics-page) in PowerBI evalueren. Klik op "_Laden_" om de gegevensset te laden.
+Een navigator wordt geopend waarin alle projecten waartoe u toegang hebt, worden weergegeven. Selecteer het overeenkomstige project en de tabel die moet worden gekoppeld. In ons voorbeeld willen we [Topics](https://support.catenda.com/nl/articles/4670271-pagina-topics) in PowerBI evalueren. Klik op "_Laden_" om de gegevensset te laden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/03-load-data.png)
 

@@ -1,6 +1,6 @@
 # Verzamelinhoud pagina
 
-Verzamelingen kunnen worden aangemaakt op de [verzamelingenpagina](https://support.catenda.com/nl/articles/6344318-collections-page). Met verzamelingen kunnen documenten uit verschillende mappen in één lijst worden verzameld. De verzameling kan vervolgens worden gedeeld met een projectlid zodat zij de nieuwste versies van een reeks documenten kunnen volgen, of deze kan worden gedeeld met een externe persoon die toegang nodig heeft zonder deel uit te maken van het project.
+Verzamelingen kunnen worden aangemaakt op de [verzamelingenpagina](https://support.catenda.com/nl/articles/6344318-collectiespagina). Met verzamelingen kunnen documenten uit verschillende mappen in één lijst worden verzameld. De verzameling kan vervolgens worden gedeeld met een projectlid zodat zij de nieuwste versies van een reeks documenten kunnen volgen, of deze kan worden gedeeld met een externe persoon die toegang nodig heeft zonder deel uit te maken van het project.
 
 Dit is hoe een verzamelingspagina eruit kan zien:
 
@@ -10,11 +10,11 @@ Dit is hoe een verzamelingspagina eruit kan zien:
 
 ### 1.1 **Broodkruimels**
 
-Documenten > Verzamelingen > #Verzamelingsnaam Klik op documenten om terug te gaan naar de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documents-page). Klik op verzamelingen om terug te gaan naar de [verzamelingenpagina](https://support.catenda.com/nl/articles/6344318-collections-page).
+Documenten > Verzamelingen > #Verzamelingsnaam Klik op documenten om terug te gaan naar de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documentenpagina). Klik op verzamelingen om terug te gaan naar de [verzamelingenpagina](https://support.catenda.com/nl/articles/6344318-collectiespagina).
 
 ### 1.2 **Terug**
 
-Klik op terug om terug te gaan naar de [verzamelingenpagina](https://support.catenda.com/nl/articles/6344318-collections-page).
+Klik op terug om terug te gaan naar de [verzamelingenpagina](https://support.catenda.com/nl/articles/6344318-collectiespagina).
 
 ### 1.3 **Verzamelingsacties**
 
@@ -34,7 +34,7 @@ Het rechtermenu vindt u rechtsboven op de verzameling banner onder het actiemenu
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g39es426/03-right-menu.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/12179454-right-menu-on-the-collection-page) om meer te lezen over het rechtermenu op de verzamelingspagina.
+Klik [hier](https://support.catenda.com/nl/articles/12179454-rechtermenu-op-de-verzamelinginhoudspagina) om meer te lezen over het rechtermenu op de verzamelingspagina.
 
 ## 3. **Verzamelingtype**
 
@@ -46,15 +46,15 @@ Nadat een verzameling is aangemaakt, is deze privé. Dit betekent dat alleen de 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g39es426/04-private-collection.png)
 
-Privé verzamelingen kunnen ofwel de nieuwste gepubliceerde revisie volgen ofwel de revisies van de documenten die aan de verzameling zijn toegevoegd, vergrendeld zijn. Deel een privé verzameling of finaliseer deze in het [rechtermenu van een verzameling](https://support.catenda.com/nl/articles/12179454-right-menu-on-the-collection-content-page) om deze met de rest van het project te delen.
+Privé verzamelingen kunnen ofwel de nieuwste gepubliceerde revisie volgen ofwel de revisies van de documenten die aan de verzameling zijn toegevoegd, vergrendeld zijn. Deel een privé verzameling of finaliseer deze in het [rechtermenu van een verzameling](https://support.catenda.com/nl/articles/12179454-rechtermenu-op-de-verzamelinginhoudspagina) om deze met de rest van het project te delen.
 
 ### 3.2 **Verzameling gedeeld met project**
 
-Privé verzameling kan worden gedeeld met het project in het [rechtermenu van een verzameling](https://support.catenda.com/nl/articles/12179454-right-menu-on-the-collection-content-page). Verzamelingen die met het project worden gedeeld, zijn zichtbaar voor alle leden. Op dit moment kan de lijst met documenten in de verzameling nog steeds worden bewerkt. Verzamelingen die met het project worden gedeeld, kunnen ofwel de nieuwste gepubliceerde revisie volgen ofwel de revisies van de documenten die aan de verzameling zijn toegevoegd, vergrendeld zijn.
+Privé verzameling kan worden gedeeld met het project in het [rechtermenu van een verzameling](https://support.catenda.com/nl/articles/12179454-rechtermenu-op-de-verzamelinginhoudspagina). Verzamelingen die met het project worden gedeeld, zijn zichtbaar voor alle leden. Op dit moment kan de lijst met documenten in de verzameling nog steeds worden bewerkt. Verzamelingen die met het project worden gedeeld, kunnen ofwel de nieuwste gepubliceerde revisie volgen ofwel de revisies van de documenten die aan de verzameling zijn toegevoegd, vergrendeld zijn.
 
 ### 3.3 **Afgeronde verzameling**
 
-Afgeronde verzamelingen zijn vergrendeld voor bewerking. Afgeronde verzamelingen moeten worden vergrendeld voor revisies. Openbare koppelingen kunnen voor afgeronde verzamelingen in het [rechtermenu van de verzameling](https://support.catenda.com/nl/articles/12179454-right-menu-on-the-collection-content-page) worden aangemaakt.
+Afgeronde verzamelingen zijn vergrendeld voor bewerking. Afgeronde verzamelingen moeten worden vergrendeld voor revisies. Openbare koppelingen kunnen voor afgeronde verzamelingen in het [rechtermenu van de verzameling](https://support.catenda.com/nl/articles/12179454-rechtermenu-op-de-verzamelinginhoudspagina) worden aangemaakt.
 
 ## 4. **Verzamelingstabel**
 
@@ -64,7 +64,7 @@ Tabelacties vindt u rechtsboven in de verzamelingstabel
 
 **Verzameling downloaden** Klik op verzameling downloaden om een zipbestand met alle documenten in de verzameling te downloaden.
 
-**Documenten toevoegen** Klik op [Documenten toevoegen](https://support.catenda.com/nl/articles/6344318-collections-page#h_b94d108342) om documenten aan uw verzameling toe te voegen. Als uw document als virussen besmet is aangemerkt, kunt u het niet aan de verzameling toevoegen.
+**Documenten toevoegen** Klik op [Documenten toevoegen](https://support.catenda.com/nl/articles/6344318-collectiespagina#h_b94d108342) om documenten aan uw verzameling toe te voegen. Als uw document als virussen besmet is aangemerkt, kunt u het niet aan de verzameling toevoegen.
 
 > **Opmerking:** De naam van het document in de verzameling is de naam van de revisie die is toegevoegd. Dit lijkt enigszins op de originele bestandsnaam. Deze naam kan verschillen van de naam van het document, omdat een document meerdere revisies met verschillende namen kan bevatten.
 

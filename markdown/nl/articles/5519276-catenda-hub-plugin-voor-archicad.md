@@ -1,6 +1,6 @@
 # Catenda Archicad-plugin
 
-> **Opmerking:** Het installatiebestand voor de plugin is te vinden in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/8396532-catenda-plugins-and-integrations).
+> **Opmerking:** Het installatiebestand voor de plugin is te vinden in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/8396532-catenda-invoegtoepassingen-integraties).
 
 De Catenda Archicad-plugin is een plugin die kan worden geïnstalleerd voor Nemetschek Archicad. Met deze plugin kunt u samenwerken aan 3D-gezichtspunten, Topics en Documenten met andere Leden van het bouwproject.
 
@@ -36,7 +36,7 @@ Wanneer u de Catenda-palette opent, ziet u eerst de aanmeldingspagina. De aanmel
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/01-sign-in.png)
 
-Als u geen Catenda-account hebt, kunt u zich gratis registreren in de rechterbovenhoek. Als u al een Catenda-account hebt, kunt u uw e-mailadres en wachtwoord invoeren en op aanmelden klikken. Na aanmelding wordt u gevraagd om toegang tot uw Catenda-account toe te kennen. Nadat u deze toegang hebt verleend, wordt de Archicad-plugin als toepassing weergegeven op de [applicatiespagina](https://support.catenda.com/nl/articles/6880968-account-page#h_40e031c49a) van uw Catenda-account. Hier kunt u de toegang altijd intrekken als u deze niet langer wilt verlenen.
+Als u geen Catenda-account hebt, kunt u zich gratis registreren in de rechterbovenhoek. Als u al een Catenda-account hebt, kunt u uw e-mailadres en wachtwoord invoeren en op aanmelden klikken. Na aanmelding wordt u gevraagd om toegang tot uw Catenda-account toe te kennen. Nadat u deze toegang hebt verleend, wordt de Archicad-plugin als toepassing weergegeven op de [applicatiespagina](https://support.catenda.com/nl/articles/6880968-accountpagina#h_40e031c49a) van uw Catenda-account. Hier kunt u de toegang altijd intrekken als u deze niet langer wilt verlenen.
 
 ### 3.1 **Wachtwoord opnieuw instellen**
 
@@ -54,7 +54,7 @@ Wanneer u de Archicad-plugin opent, ziet u uw projectlijst die er als volgt kan 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/03-project-list.png)
 
-Zodra u de uitnodiging voor een project hebt geaccepteerd, ziet u uw project verschijnen in de lijst met uw projecten in de plugin en op de [projectspagina](https://support.catenda.com/nl/articles/8400797-projects-page).
+Zodra u de uitnodiging voor een project hebt geaccepteerd, ziet u uw project verschijnen in de lijst met uw projecten in de plugin en op de [projectspagina](https://support.catenda.com/nl/articles/8400797-projectenpagina).
 
 **Actiemenu** Klik op de drie puntjes naast uw profielfoto om het actiemenuvak te openen:
 

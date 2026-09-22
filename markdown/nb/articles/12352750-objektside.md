@@ -10,7 +10,7 @@ Slik kan søke- eller filtermenyen se ut på objektsiden
 
 ![Søk eller filtrer Velg Plus Modeller Valgt Tekstsøk](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/02-search-or-filter.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/12353642-filtering-on-the-objects-page) for å lese mer om filtrering på objektsiden.
+Klikk [her](https://support.catenda.com/nb/articles/12353642-filtrering-pa-objektsiden) for å lese mer om filtrering på objektsiden.
 
 ## 2. **Produkttabell**
 
@@ -18,7 +18,7 @@ Produkttabellen kan se slik ut:
 
 ![Valgt 3D handlingsmeny nedlasting innstillinger enhetskolonne GlobalId-kolonne LongName-kolonne IfcProject IfcBuildingelementProxy én rad er valgt i tabell](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/03-products-table.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda.
+Klikk [her](https://support.catenda.com/nb/articles/11748020-tabeller-pa-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda.
 
 ### 2.1 **Hva er et produkt?**
 
@@ -56,7 +56,7 @@ Klikk på nedlastingsknappen mot toppen av produkttabellen for å eksportere den
 
 Rader Det er bare mulig å få alle rader fra de aktiverte modellene. Valg av rader begrenser ikke radene i de eksporterte filene. Det eneste filteret som kan begrense antall rader er modellefilteret. Selv om rader kan se begrenset ut i tabellen, vil den eksporterte filen inkludere alle rader for modellene som er tilgjengelige.
 
-Kolonner En kolonne for hver kolonne som er aktivert i produkttabellen eksporteres til filen. Klikk [her](https://support.catenda.com/nb/articles/11748020-tables-on-catenda) for å lese mer om hvordan du administrerer tabellkolonner.
+Kolonner En kolonne for hver kolonne som er aktivert i produkttabellen eksporteres til filen. Klikk [her](https://support.catenda.com/nb/articles/11748020-tabeller-pa-catenda) for å lese mer om hvordan du administrerer tabellkolonner.
 
 **Eksportobjekter** Velg å eksportere til Excel eller CSV i eksportobjekter-menyen:
 

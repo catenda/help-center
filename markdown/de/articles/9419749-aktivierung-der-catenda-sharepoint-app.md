@@ -1,6 +1,6 @@
 # Aktivierung der Catenda SharePoint-App
 
-> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/de/articles/8396532-catenda-plugins-and-integrations).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/de/articles/8396532-catenda-plugins-integrationen).
 
 Die Catenda SharePoint-Anwendung kann von einem Systemadministrator für eine SharePoint-Umgebung aktiviert und dann von einem Websitebesitzer zu einer Website hinzugefügt werden. Mit dieser App können SharePoint-Benutzer Dokumente in Catenda zusammen mit anderen Mitgliedern des Bauprojekts anzeigen, verwalten und daran zusammenarbeiten.
 
@@ -114,4 +114,4 @@ Damit die App zu Teams hinzugefügt werden kann, muss sie zunächst zu allen Web
 
 ## 5. **Weitere Informationen**
 
-Weitere Informationen zur Funktionsweise dieser Anwendung nach der Installation finden Sie [hier](https://support.catenda.com/de/articles/8396496-catenda-sharepoint-application). Weitere Informationen zur Nützlichkeit dieser Anwendung finden Sie [hier](https://support.catenda.com/de/articles/9419678-catenda-sharepoint-faq).
+Weitere Informationen zur Funktionsweise dieser Anwendung nach der Installation finden Sie [hier](https://support.catenda.com/de/articles/8396496-catenda-sharepoint-anwendung). Weitere Informationen zur Nützlichkeit dieser Anwendung finden Sie [hier](https://support.catenda.com/de/articles/9419678-catenda-sharepoint-haufig-gestellte-fragen).

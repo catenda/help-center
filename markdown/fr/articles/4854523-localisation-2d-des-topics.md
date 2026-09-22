@@ -2,7 +2,7 @@
 
 > Description des marqueurs de localisation 2D sur les topics
 
-Une localisation peut être appliquée aux topics en plaçant un marqueur à une coordonnée x, y dans la [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-2d-viewer) sur un étage d'un modèle IFC ou d'un bâtiment configuré avec une hauteur. Des points colorés marquent la localisation des topics dans la Visionneuse 2D, donnant une compréhension visuelle immédiate de l'endroit où se trouvent les topics ainsi que leur statut et type. En utilisant les localisations des topics, votre projet peut bénéficier d'un contrôle considérablement amélioré du placement des topics. Cette fonctionnalité complète la fonctionnalité de notre application mobile, [Catenda Site](https://support.catenda.com/fr/articles/6530821-download-your-mobile-app-catenda-site). Avec les marqueurs, les projets sont dotés d'une création, d'une surveillance et d'une gestion fluides des topics créés sur le terrain, de retour au bureau.
+Une localisation peut être appliquée aux topics en plaçant un marqueur à une coordonnée x, y dans la [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-visionneuse-2d) sur un étage d'un modèle IFC ou d'un bâtiment configuré avec une hauteur. Des points colorés marquent la localisation des topics dans la Visionneuse 2D, donnant une compréhension visuelle immédiate de l'endroit où se trouvent les topics ainsi que leur statut et type. En utilisant les localisations des topics, votre projet peut bénéficier d'un contrôle considérablement amélioré du placement des topics. Cette fonctionnalité complète la fonctionnalité de notre application mobile, [Catenda Site](https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site). Avec les marqueurs, les projets sont dotés d'une création, d'une surveillance et d'une gestion fluides des topics créés sur le terrain, de retour au bureau.
 
 Voici comment les marqueurs peuvent apparaître dans la Visionneuse 2D :
 
@@ -16,7 +16,7 @@ Les topics suivants sont décrits dans cette section :
 
 ### 1.1 **Interaction avec les marqueurs**
 
-Survolez un [marqueur dans la Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-2d-viewer#h_d904cebf2e) dans le navigateur pour afficher le numéro du topic et le titre du topic auquel appartient ce marqueur. Voici comment un marqueur survolé peut apparaître dans le navigateur.
+Survolez un [marqueur dans la Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-visionneuse-2d#h_d904cebf2e) dans le navigateur pour afficher le numéro du topic et le titre du topic auquel appartient ce marqueur. Voici comment un marqueur survolé peut apparaître dans le navigateur.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/02-interacting-with-markers.png)
 
@@ -42,7 +42,7 @@ Faites glisser le coin supérieur gauche de la vue 2D ou double-cliquez sur le t
 
 ### 1.3 **Recherche de marqueurs**
 
-**Recherche d'un topic à partir d'un marqueur sur un étage dans la vue 2D** Survolez un marqueur dans la vue 2D pour voir le numéro du topic et le titre du topic auquel il appartient. Lorsqu'un marqueur dans la vue 2D est cliqué, le panneau de contenu change pour afficher le topic sélectionné dans son tableau de topics sur la [page des topics](https://support.catenda.com/fr/articles/4670271-topics-page).
+**Recherche d'un topic à partir d'un marqueur sur un étage dans la vue 2D** Survolez un marqueur dans la vue 2D pour voir le numéro du topic et le titre du topic auquel il appartient. Lorsqu'un marqueur dans la vue 2D est cliqué, le panneau de contenu change pour afficher le topic sélectionné dans son tableau de topics sur la [page des topics](https://support.catenda.com/fr/articles/4670271-page-sujets).
 
 **Recherche d'un marqueur dans la Visionneuse 2D à partir d'un topic** Pour trouver où le marqueur d'un topic a été placé dans la Visionneuse 2D, ouvrez le topic dans son tableau de topics et cliquez sur le texte "A un marqueur" dans l'en-tête du topic.
 
@@ -68,10 +68,10 @@ La visibilité des marqueurs peut être configurée dans les emplacements suivan
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/09-marker-configuration.png)
 
-1. Afficher/masquer les marqueurs dans la vue 2D avec les [paramètres de la visionneuse 2D](https://support.catenda.com/fr/articles/4854537-2d-viewer#h_381a9d4098). <br>Remarque : Les marqueurs peuvent ne pas être visibles si la couche de marqueurs est désactivée.
+1. Afficher/masquer les marqueurs dans la vue 2D avec les [paramètres de la visionneuse 2D](https://support.catenda.com/fr/articles/4854537-visionneuse-2d#h_381a9d4098). <br>Remarque : Les marqueurs peuvent ne pas être visibles si la couche de marqueurs est désactivée.
 
    Dans ce menu, le mode de couleur des marqueurs peut également être configuré.
-   ([Statut, Type de topic, Échéance](https://support.catenda.com/fr/articles/4854537-2d-viewer#h_381a9d4098)).
+   ([Statut, Type de topic, Échéance](https://support.catenda.com/fr/articles/4854537-visionneuse-2d#h_381a9d4098)).
 
 2. Dans le menu des couches, la couche de marqueur peut être activée/désactivée.
 
@@ -93,7 +93,7 @@ Notez que le curseur se transforme en réticule dès que vous survolez la Vision
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/11-add-marker-from-2d-viewer.png)
 
-**Créer un nouveau topic avec marqueur** Commencez par accéder au tableau de topics dans lequel vous souhaitez créer un topic avec un marqueur. Ensuite, faites un clic droit dans la Visionneuse 2D et choisissez "Créer un nouveau topic avec marqueur" dans le dialogue contextuel qui s'ouvre pour lancer le [processus de création d'un nouveau topic](https://support.catenda.com/fr/articles/4670268-creating-a-new-topic) avec le marqueur déjà appliqué.
+**Créer un nouveau topic avec marqueur** Commencez par accéder au tableau de topics dans lequel vous souhaitez créer un topic avec un marqueur. Ensuite, faites un clic droit dans la Visionneuse 2D et choisissez "Créer un nouveau topic avec marqueur" dans le dialogue contextuel qui s'ouvre pour lancer le [processus de création d'un nouveau topic](https://support.catenda.com/fr/articles/4670268-creer-un-nouveau-sujet) avec le marqueur déjà appliqué.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/12-add-marker-from-2d-viewer.png)
 

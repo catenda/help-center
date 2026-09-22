@@ -1,6 +1,6 @@
 # Opprette en ny modeleksport
 
-Klikk på den grønne plusknappen øverst til høyre på [modeleksportsiden](https://support.catenda.com/nb/articles/4670280-model-export) for å opprette en ny modeleksport. Det er fire trinn for å opprette en ny modeleksport. Slik kan det første trinnet i modeleksportprosessen se ut:
+Klikk på den grønne plusknappen øverst til høyre på [modeleksportsiden](https://support.catenda.com/nb/articles/4670280-modelleksportside) for å opprette en ny modeleksport. Det er fire trinn for å opprette en ny modeleksport. Slik kan det første trinnet i modeleksportprosessen se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y8fzd5y5/01-intro.png)
 

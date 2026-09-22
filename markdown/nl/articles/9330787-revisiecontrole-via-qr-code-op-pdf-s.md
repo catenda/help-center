@@ -2,19 +2,19 @@
 
 Druk documentrevisies af met gegenereerde QR-codes op papier, zodat projectleden kunnen verifiëren of het papier dat ze in handen hebben nog actueel is.
 
-Geconfigureerde mappen kunnen worden geïdentificeerd aan de hand van het tandwielpictogram op het [mappictogram](https://support.catenda.com/nl/articles/8466850-columns-on-the-documents-page#h_6af15c36b3). Dit is hoe een revisie met een gegenereerde QR-code er uit kan zien:
+Geconfigureerde mappen kunnen worden geïdentificeerd aan de hand van het tandwielpictogram op het [mappictogram](https://support.catenda.com/nl/articles/8466850-kolommen-op-de-documentenpagina#h_6af15c36b3). Dit is hoe een revisie met een gegenereerde QR-code er uit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/01-intro.png)
 
 ## 1. **Mapconfiguratie**
 
-QR-code-stempeling kan [worden ingeschakeld voor geconfigureerde mappen](https://support.catenda.com/nl/articles/7831371-document-settings#h_166a269870) op de documentenpagina. _Vereiste toegang:_ Beheerder
+QR-code-stempeling kan [worden ingeschakeld voor geconfigureerde mappen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen#h_166a269870) op de documentenpagina. _Vereiste toegang:_ Beheerder
 
 In geconfigureerde mappen worden nieuwe PDF-revisies die in documenten worden geüpload, verwerkt. Catenda scant het document naar de QR-code-aanduidingsafbeelding die hieronder is te vinden. Als de aanduiding met succes wordt geïdentificeerd, wordt een QR-code voor de revisie gegenereerd. _Vereiste toegang:_ Schrijftoegang tot het document
 
 ### 1.1 **QR-code toewijzen**
 
-Om QR-code-stempeling aan een map toe te wijzen, gaat u naar [documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings), die kunnen worden gevonden als een subpagina van de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documents-page). Vouw in de documentinstellingen het [mapconfiguratiemenu](https://support.catenda.com/nl/articles/7831371-document-settings#h_6672c14d90) uit. Dit is hoe het mapconfiguratiemenu er uit kan zien:
+Om QR-code-stempeling aan een map toe te wijzen, gaat u naar [documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen), die kunnen worden gevonden als een subpagina van de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documentenpagina). Vouw in de documentinstellingen het [mapconfiguratiemenu](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen#h_6672c14d90) uit. Dit is hoe het mapconfiguratiemenu er uit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/02-assign-qr-code.png)
 
@@ -32,7 +32,7 @@ Klik [hier](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xsp6
 
 > **Waarschuwing:** Kopieer/plak deze afbeelding niet en sla deze niet op als. De afbeelding kan er op de tekening hetzelfde uitzien, maar wordt niet herkend.
 
-Klik [hier](https://support.catenda.com/nl/articles/9360508-qr-code-on-pdfs-in-catenda) voor meer informatie over het plaatsen van de aanduiding op een PDF. Dit is hoe de aanduiding er uit kan zien wanneer deze in het titelblok van een tekening is geplaatst:
+Klik [hier](https://support.catenda.com/nl/articles/9360508-qr-code-op-pdf-s-in-catenda) voor meer informatie over het plaatsen van de aanduiding op een PDF. Dit is hoe de aanduiding er uit kan zien wanneer deze in het titelblok van een tekening is geplaatst:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/03-qr-code-placeholder-placement.png)
 

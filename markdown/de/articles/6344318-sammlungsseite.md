@@ -2,7 +2,7 @@
 
 > Dokumente freigeben, Dokumente als ZIP-Datei herunterladen
 
-Dokumentsammlungen finden Sie auf der Unterseite [Dokumentenseite](https://support.catenda.com/de/articles/4670292-documents-page). Ein kurzes Video über Dokumentsammlungen finden Sie [hier](https://support.catenda.com/de/articles/6423380-documents-collection-short-video)
+Dokumentsammlungen finden Sie auf der Unterseite [Dokumentenseite](https://support.catenda.com/de/articles/4670292-stammordner-acl). Ein kurzes Video über Dokumentsammlungen finden Sie [hier](https://support.catenda.com/de/articles/6423380-dokumente-sammlung-kurzvideo)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/01-intro.png)
 
@@ -28,7 +28,7 @@ Wenn Sie eine neue Sammlung erstellen, werden Sie aufgefordert, den folgenden Di
 
 **Dokumente hinzufügen** Um Dokumente hinzuzufügen, klicken Sie auf die Schaltfläche [Dokumente hinzufügen](#h_b94d108342).
 
-**Absenden** Wenn Sie Ihre Sammlung absenden, werden Sie zur [Sammlungsseite](https://support.catenda.com/de/articles/8999764-collection-page) weitergeleitet. Die Sammlung ist eine [private Sammlung](https://support.catenda.com/de/articles/8999764-collection-page#h_0b76040299), die nur Sie sehen können. Sie können diese Sammlung vor dem Freigeben für den Rest des Projekts noch bearbeiten.
+**Absenden** Wenn Sie Ihre Sammlung absenden, werden Sie zur [Sammlungsseite](https://support.catenda.com/de/articles/8999764-sammlungsinhaltseite) weitergeleitet. Die Sammlung ist eine [private Sammlung](https://support.catenda.com/de/articles/8999764-sammlungsinhaltseite#h_0b76040299), die nur Sie sehen können. Sie können diese Sammlung vor dem Freigeben für den Rest des Projekts noch bearbeiten.
 
 ### 1.2 **Dokumente zu Sammlungen hinzufügen**
 
@@ -46,7 +46,7 @@ Sie können die Dokumente einzeln auswählen oder auf das Kontrollkästchen oben
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/05-search-and-filter.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/8999945-filtering-on-the-collections-page), um zu sehen, welche Optionen Sie beim Filtern auf der Sammlungsseite haben.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8999945-filterung-auf-der-sammlungsseite), um zu sehen, welche Optionen Sie beim Filtern auf der Sammlungsseite haben.
 
 ## 3. **Sammlungsliste**
 

@@ -12,10 +12,10 @@ Here the latest notifications relevant for you will appear. You may click on the
 
 ## 2. Filtering and functionality
 
-You can read more about how you can filter on this page and when you get sent the different notifications on [this](https://support.catenda.com/en/articles/8304417-filtering-and-functionality-on-notifications-pages) page.
+You can read more about how you can filter on this page and when you get sent the different notifications on [this](https://support.catenda.com/en/articles/8304417-filtering-on-the-notifications-page) page.
 
 ## 3. Sub page
 
 As a sub page to the project notifications page you will find:
 
-- [Project notification settings](https://support.catenda.com/en/articles/4670262-project-notification-settings)
+- [Project notification settings](https://support.catenda.com/en/articles/4670262-project-specific-notification-settings)

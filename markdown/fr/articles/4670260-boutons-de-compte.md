@@ -14,17 +14,17 @@ S'il y a des notifications, un indicateur de notification rouge s'affiche sur le
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0d8f638p/03-notifications-button.png)
 
-La liste déroulante affiche les 5 dernières notifications contenant toutes les nouvelles informations concernant les projets auxquels vous participez. Vous pouvez toujours voir ce bouton en haut à droite de l'écran. En cliquant sur Afficher toutes les notifications, vous accéderez à votre [page des notifications de compte](https://support.catenda.com/fr/articles/7439223-account-notifications-page)
+La liste déroulante affiche les 5 dernières notifications contenant toutes les nouvelles informations concernant les projets auxquels vous participez. Vous pouvez toujours voir ce bouton en haut à droite de l'écran. En cliquant sur Afficher toutes les notifications, vous accéderez à votre [page des notifications de compte](https://support.catenda.com/fr/articles/7439223-page-des-notifications-de-compte)
 
 > **Remarque :** Si vous accédez à la page des notifications de compte de cette manière, elle sera filtrée par défaut selon les notifications du mois dernier. Supprimez le filtre dateFrom=last-month de l'URL pour voir les notifications datant de plus d'un mois.
 
 ## 2. **Bouton Sharelink**
 
-La fonction [sharelink](https://support.catenda.com/fr/articles/4728886-sharelink-notify-people-about-catenda-hub-content) n'est disponible que depuis un projet et sera donc grisée sur la page des projets.
+La fonction [sharelink](https://support.catenda.com/fr/articles/4728886-sharelink-notifier-les-personnes-a-propos-du-contenu-catenda-hub) n'est disponible que depuis un projet et sera donc grisée sur la page des projets.
 
 ## 3. **Bouton Support**
 
-Cliquez sur le bouton bulle de discussion noir pour ouvrir le menu Support. Cliquez [ici](https://support.catenda.com/fr/articles/8894066-support-button-location-and-functionality) pour en savoir plus sur le menu Support.
+Cliquez sur le bouton bulle de discussion noir pour ouvrir le menu Support. Cliquez [ici](https://support.catenda.com/fr/articles/8894066-localisation-et-fonctionnalite-du-bouton-de-support) pour en savoir plus sur le menu Support.
 
 ## 4. **Bouton Compte**
 
@@ -34,7 +34,7 @@ Le bouton Compte affiche votre photo de profil ou les initiales de votre nom d'u
 
 ### 4.1 **Compte**
 
-Cliquez [ici](https://support.catenda.com/fr/articles/6880968-account-page) pour en savoir plus sur la [page de compte](https://hub.catenda.com/account/profile). Cette action ouvre la même page que le bouton Compte du menu de navigation de gauche. La différence est que ce bouton Compte est disponible n'importe où sur Catenda Hub, tandis que le menu de navigation de gauche peut changer en fonction de l'endroit où se trouve la page.
+Cliquez [ici](https://support.catenda.com/fr/articles/6880968-page-du-compte) pour en savoir plus sur la [page de compte](https://hub.catenda.com/account/profile). Cette action ouvre la même page que le bouton Compte du menu de navigation de gauche. La différence est que ce bouton Compte est disponible n'importe où sur Catenda Hub, tandis que le menu de navigation de gauche peut changer en fonction de l'endroit où se trouve la page.
 
 ### 4.2 **Se déconnecter**
 

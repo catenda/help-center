@@ -74,12 +74,12 @@ Clash-gruppering muliggjør satsvis saksopprettelse, filtrering tillater fokuser
 
 ## 5. **Kilder**
 
-- [Administrering av clash-koordinering i stor skala](https://support.catenda.com/nb/articles/13845605-managing-clash-coordination-at-scale)
+- [Administrering av clash-koordinering i stor skala](https://support.catenda.com/nb/articles/13845605-administrering-av-clash-koordinering-i-stor-skala)
 - [Catenda Navisworks-plugin](https://support.catenda.com/nb/articles/5085987-catenda-navisworks-plugin)
 
 ## 6. **Videre lesing**
 
-- [Administrering av clash-koordinering i stor skala](https://support.catenda.com/nb/articles/13845605-managing-clash-coordination-at-scale)
+- [Administrering av clash-koordinering i stor skala](https://support.catenda.com/nb/articles/13845605-administrering-av-clash-koordinering-i-stor-skala)
 - [Catenda Navisworks-plugin](https://support.catenda.com/nb/articles/5085987-catenda-navisworks-plugin)
 
 ## 7. Oppfordring

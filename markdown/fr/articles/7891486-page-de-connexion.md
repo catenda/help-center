@@ -27,11 +27,11 @@ Si une mauvaise adresse e-mail a été saisie, modifiez simplement l'adresse et 
 
 ## 2. **Mot de passe**
 
-Entrez ici le mot de passe correspondant au compte enregistré sous l'adresse e-mail fournie. Cliquez [ici](https://support.catenda.com/fr/articles/10798891-sign-in-and-passwords) pour obtenir de l'aide sur les mots de passe.
+Entrez ici le mot de passe correspondant au compte enregistré sous l'adresse e-mail fournie. Cliquez [ici](https://support.catenda.com/fr/articles/10798891-connexion-et-mots-de-passe) pour obtenir de l'aide sur les mots de passe.
 
 ## 3. **Se connecter**
 
-Cliquez sur Se connecter pour vérifier les identifiants saisis. Une fois le processus de vérification terminé avec succès, les utilisateurs sont redirigés vers la [page des projets](https://support.catenda.com/fr/articles/4670260-projects-page).
+Cliquez sur Se connecter pour vérifier les identifiants saisis. Une fois le processus de vérification terminé avec succès, les utilisateurs sont redirigés vers la [page des projets](https://support.catenda.com/fr/articles/4670260-boutons-de-compte).
 
 ## 4. **Authentification multifacteur**
 

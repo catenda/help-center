@@ -18,6 +18,6 @@ Falls Ihre Organisation eine Firewall oder andere Methoden zur Beschränkung des
 
 Obwohl wir uns zum Betrieb von bimsync.com verpflichtet haben, beabsichtigen wir, den Datenverkehr der Kunden nach einer klar kommunizierten Frist zu hub.catenda.com umzuleiten. Aus diesem Grund empfehlen wir Ihnen, so bald wie möglich sicherzustellen, dass Sie sich bei Catenda Hub unter [https://hub.catenda.com](https://hub.catenda.com) anmelden können.
 
-Weitere Informationen zum Anmelden finden Sie in [diesem](https://support.catenda.com/de/articles/7891486-sign-in-page) Artikel. Weitere Informationen darüber, welche Domain Sie durch die Firewall zulassen müssen, finden Sie in [diesem](https://support.catenda.com/de/articles/6921941-system-requirements-and-optimization) Artikel.
+Weitere Informationen zum Anmelden finden Sie in [diesem](https://support.catenda.com/de/articles/7891486-anmeldeseite) Artikel. Weitere Informationen darüber, welche Domain Sie durch die Firewall zulassen müssen, finden Sie in [diesem](https://support.catenda.com/de/articles/6921941-hardwareempfehlung) Artikel.
 
 Wenn Sie Fragen oder Bedenken zu einer dieser Änderungen haben, teilen Sie uns dies bitte mit.

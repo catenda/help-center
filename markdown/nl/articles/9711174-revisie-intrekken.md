@@ -2,11 +2,11 @@
 
 > In dit artikel beschrijven we je hoe je een revision kunt intrekken.
 
-Revisions kunnen worden ingetrokken met de actie revision intrekken in het actiemenu van een revision. Selecteer één document in de [documenttabel](https://support.catenda.com/nl/articles/8204673-documents-page#h_54e8dfcac2) of ga naar het [documentvoorbeeld](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations) van een revision om het actiemenu van revision te vinden in het [rechtermenu van de revision](https://support.catenda.com/nl/articles/8302244-right-menu-of-a-revision-revision-info#h_508f911117).
+Revisions kunnen worden ingetrokken met de actie revision intrekken in het actiemenu van een revision. Selecteer één document in de [documenttabel](https://support.catenda.com/nl/articles/8204673-documentenpagina#h_54e8dfcac2) of ga naar het [documentvoorbeeld](https://support.catenda.com/nl/articles/5001165-documentvoorbeeld-en-aantekeningen) van een revision om het actiemenu van revision te vinden in het [rechtermenu van de revision](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie#h_508f911117).
 
 Bij het overdragen van gegevens worden soms eenvoudige fouten gemaakt door het verkeerde bestand te uploaden of een bestaand document met de verkeerde revision bij te werken. Voor dit probleem is er nu een oplossing in Catenda HUB. _Vereiste toegang:_ Volledige toegang tot het document
 
-Je kunt de optie vinden in het [rechtermenu van een revision](https://support.catenda.com/nl/articles/8302244-right-menu-in-a-document) en het ziet er ongeveer als volgt uit:
+Je kunt de optie vinden in het [rechtermenu van een revision](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie) en het ziet er ongeveer als volgt uit:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hhtwytcy/01-intro.png)
 

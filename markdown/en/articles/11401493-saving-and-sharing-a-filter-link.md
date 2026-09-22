@@ -12,7 +12,7 @@ Since the URL reflects page navivation and the currently applied filteres it can
 
 ## 3. **Saving personal filters**
 
-A set of filters can be [saved in the filter menu](https://support.catenda.com/en/articles/8551755-saving-filters). The filters are only saved for each user individually. By using saved filters you can easily find the filter again next time you want to share it with a project member.
+A set of filters can be [saved in the filter menu](https://support.catenda.com/en/articles/8551755-limiting-filter-results). The filters are only saved for each user individually. By using saved filters you can easily find the filter again next time you want to share it with a project member.
 
 ## 4. **Saving project filters**
 

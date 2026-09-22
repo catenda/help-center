@@ -1,6 +1,6 @@
 # Utveksle saker
 
-Du finner handlingen for utveksling av saker i [menyen for ny element](https://support.catenda.com/nb/articles/4670284-actions-in-a-topic-board#h_8c642e051a) øverst til høyre i en saksliste. Menyen for utveksling av saker kan se slik ut:
+Du finner handlingen for utveksling av saker i [menyen for ny element](https://support.catenda.com/nb/articles/4670284-handlinger-i-saksrelatert-tabell#h_8c642e051a) øverst til høyre i en saksliste. Menyen for utveksling av saker kan se slik ut:
 
 ![Filbasert utveksling nytt element utveksle saker historikk importer bcf eksporter saker koble til bcf-klient synkroniser saker direkte med hvilken som helst BCF-kompatibel klient ved å bruke URL-en nedenfor](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/01-intro.png)
 
@@ -34,11 +34,11 @@ _Koble flere statuser/typer samtidig_ Hvis det finnes frakoblede statuser/typer 
 
 ![Saker det er frakoblede felt i denne saklisten klikk her for å koble](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/03-generate-new-types-and-statuses-from-the-bcf-file.png)
 
-Hvis du klikker på lenken, går du til [frakoblede felt](https://support.catenda.com/nb/articles/4670277-topic-board-settings#h_3bd7e3e759)-området i [sakliste-innstillingene](https://support.catenda.com/nb/articles/4670277-topic-board-settings) der du kan koble alle felt av én type til en eksisterende verdi på én gang.
+Hvis du klikker på lenken, går du til [frakoblede felt](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste#h_3bd7e3e759)-området i [sakliste-innstillingene](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste) der du kan koble alle felt av én type til en eksisterende verdi på én gang.
 
 ## 2. **Eksporter saker**
 
-Du kan eksportere saker ved å velge eksporter saker i [menyen for nytt element](https://support.catenda.com/nb/articles/4670284-actions-in-a-topic-board#h_8c642e051a) øverst til høyre i en saksliste, eller ved å velge en sak i sakslisten og velge eksportalternativet i [menyen for valgt element](https://support.catenda.com/nb/articles/4670284-actions-in-a-topic-board#h_b5c00c149b) over saklisten. Eksporter saker-dialogen kan se slik ut:
+Du kan eksportere saker ved å velge eksporter saker i [menyen for nytt element](https://support.catenda.com/nb/articles/4670284-handlinger-i-saksrelatert-tabell#h_8c642e051a) øverst til høyre i en saksliste, eller ved å velge en sak i sakslisten og velge eksportalternativet i [menyen for valgt element](https://support.catenda.com/nb/articles/4670284-handlinger-i-saksrelatert-tabell#h_b5c00c149b) over saklisten. Eksporter saker-dialogen kan se slik ut:
 
 ![Eksporter topics alle topics fra gjeldende topic board gjeldende filter valgte topics bcf excel pdf v3.0](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/04-export-topics.png)
 
@@ -58,17 +58,17 @@ Avhengig av hvilken versjon av BCF du velger, kan du få ulike filtyper. BCF v3.
 
 ### 2.3 **Excel-eksport**
 
-Det er mulig å eksportere saker til Excel. Det vil være én rad per sak og én kolonne per kolonne i tabellvisningen av saklisten. Rekkefølgen på kolonnene vil være den samme som standard sakliste [tabellvisning](https://support.catenda.com/nb/articles/6941099-table-view-in-an-topic-board#h_3102328063) kolonneorden.
+Det er mulig å eksportere saker til Excel. Det vil være én rad per sak og én kolonne per kolonne i tabellvisningen av saklisten. Rekkefølgen på kolonnene vil være den samme som standard sakliste [tabellvisning](https://support.catenda.com/nb/articles/6941099-tabellvisning-i-et-emn#h_3102328063) kolonneorden.
 
 > **Merknad:** Ingen bilder og bare siste kommentar i en sak vil bli eksportert.
 
 ### 2.4 **PDF-eksport**
 
-Klikk [her](https://support.catenda.com/nb/articles/9784934-exporting-topics-to-pdf) for å lese mer om eksportering av saker til PDF
+Klikk [her](https://support.catenda.com/nb/articles/9784934-eksporterer-saker-til-pdf) for å lese mer om eksportering av saker til PDF
 
 ## 3. **Rapportside**
 
-Med rapportsiden er det mulig å lage egendefinerte rapporter ikke bare om saker, men også dokumenter. Rapportsiden er en etterspørselsfunksjon som kan forespørres aktivert for pågående prosjekter. Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert. Disse rapportene kan deretter eksporteres ikke bare til Excel og PDF, men også mange flere filformater. Klikk [her](https://support.catenda.com/nb/articles/12303098-reports-page) for å lese mer om rapportsiden
+Med rapportsiden er det mulig å lage egendefinerte rapporter ikke bare om saker, men også dokumenter. Rapportsiden er en etterspørselsfunksjon som kan forespørres aktivert for pågående prosjekter. Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert. Disse rapportene kan deretter eksporteres ikke bare til Excel og PDF, men også mange flere filformater. Klikk [her](https://support.catenda.com/nb/articles/12303098-rapportsside) for å lese mer om rapportsiden
 
 ## 4. **Koble til en BCF-klient**
 

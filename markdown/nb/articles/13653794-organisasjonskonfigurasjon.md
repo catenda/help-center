@@ -1,6 +1,6 @@
 # Organisasjonskonfigurasjon
 
-Organisasjoner opprettes og administreres av en Catenda-kontaktperson. Kontakt Catenda-støtte for å gjøre endringer i organisasjonskonfigurasjonen. Klikk [her](https://support.catenda.com/nb/articles/8224886-organization-options) for å lese mer om de ulike organisasjonsalternativene som finnes.
+Organisasjoner opprettes og administreres av en Catenda-kontaktperson. Kontakt Catenda-støtte for å gjøre endringer i organisasjonskonfigurasjonen. Klikk [her](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer) for å lese mer om de ulike organisasjonsalternativene som finnes.
 
 Følgende kan konfigureres av en Catenda-kontaktperson:
 

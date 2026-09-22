@@ -4,7 +4,7 @@ Hello everyone
 
 ついに冬が終わり、太陽が再び輝き始めました。ここノルウェーでも!イースターが過ぎ、夏はもうすぐです!☀️😎🏖️ただし、私たちはいくつかの変更を加えているため、まだバケーションに行かないでください。この記事では、以下の更新を見つけることができます：
 
-_[記事](https://support.catenda.com/ja/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [トピック解決](https://support.catenda.com/ja/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [新しいリリース](https://support.catenda.com/ja/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)_
+_[記事](https://support.catenda.com/ja/articles/7983534-changelog-3-catenda-2023年10月#h_5be2a02999) - [トピック解決](https://support.catenda.com/ja/articles/7983534-changelog-3-catenda-2023年10月#h_d238d9111d) - [新しいリリース](https://support.catenda.com/ja/articles/7983534-changelog-3-catenda-2023年10月#h_d238d9111d)_
 
 ## 1. **記事**
 
@@ -12,37 +12,37 @@ _[記事](https://support.catenda.com/ja/articles/7983534-changelog-3-catenda-up
 
 ### 1.1 **新しい記事:**
 
-**はじめに、よくあるご質問** [Catenda Hubの使い始め](https://support.catenda.com/ja/articles/9030303-getting-started-on-catenda-hub) [右下のメッセージバブル](http://The%20bottom%20right%20message%20bubble) [アクセス制御レベル](https://support.catenda.com/ja/articles/8967083-access-control-levels) [Catendaのトピックとは?](https://support.catenda.com/ja/articles/8979789-what-is-a-topic-in-catenda) [Catendaでの入札](https://support.catenda.com/ja/articles/9063936-tendering-in-catenda) [アクセスなしページ](https://support.catenda.com/ja/articles/9172624-no-access-pages)
+**はじめに、よくあるご質問** [Catenda Hubの使い始め](https://support.catenda.com/ja/articles/9030303-ステップ-1-アカウント設定) [右下のメッセージバブル](http://The%20bottom%20right%20message%20bubble) [アクセス制御レベル](https://support.catenda.com/ja/articles/8967083-アクセス制御レベル) [Catendaのトピックとは?](https://support.catenda.com/ja/articles/8979789-catendaのトピックとは) [Catendaでの入札](https://support.catenda.com/ja/articles/9063936-catendaでの入札) [アクセスなしページ](https://support.catenda.com/ja/articles/9172624-アクセス不可ページ)
 
-**メインページ** [組織ツールのメンバーページ](https://support.catenda.com/ja/articles/9003642-members-page-in-organization-tool)
+**メインページ** [組織ツールのメンバーページ](https://support.catenda.com/ja/articles/9003642-プロジェクトメンバー-組織ツール)
 
-**トピック** [2Dおよび3Dビューポイント](https://support.catenda.com/ja/articles/9184555-2d-and-3d-viewpoints)
+**トピック** [2Dおよび3Dビューポイント](https://support.catenda.com/ja/articles/9184555-2dおよび3dビューポイント)
 
-**ドキュメント** [ドキュメントをアップロードする](https://support.catenda.com/ja/articles/4670278-uploading-a-document) [コレクションページ](https://support.catenda.com/ja/articles/8999764-collection-page)
+**ドキュメント** [ドキュメントをアップロードする](https://support.catenda.com/ja/articles/4670278-ドキュメントをアップロード) [コレクションページ](https://support.catenda.com/ja/articles/8999764-コレクションコンテンツページ)
 
-**プラグインおよび統合** [ドキュメント - Catenda Site](https://support.catenda.com/ja/articles/8975421-document-catenda-site)
+**プラグインおよび統合** [ドキュメント - Catenda Site](https://support.catenda.com/ja/articles/8975421-catenda-siteのファイルタイプのプレビュー)
 
 ### 1.2 **変更された記事:**
 
-**最近の更新** [ドキュメントとしてのモデル](https://support.catenda.com/ja/articles/8064548-models-as-documents)
+**最近の更新** [ドキュメントとしてのモデル](https://support.catenda.com/ja/articles/8064548-モデルとドキュメント)
 
-**メインページ** [プロジェクトページ](https://support.catenda.com/ja/articles/4670260-projects-page) [新しいプロジェクトを作成する](https://support.catenda.com/ja/articles/4670245-creating-a-new-project) [組織ツールのユーザーページ](https://support.catenda.com/ja/articles/8508311-users-page-in-organization-tool) [アカウント通知設定](https://support.catenda.com/ja/articles/8272435-account-notification-settings)
+**メインページ** [プロジェクトページ](https://support.catenda.com/ja/articles/4670260-アカウントボタン) [新しいプロジェクトを作成する](https://support.catenda.com/ja/articles/4670245-新しいプロジェクトを作成する) [組織ツールのユーザーページ](https://support.catenda.com/ja/articles/8508311-ユーザーページ-組織ツール) [アカウント通知設定](https://support.catenda.com/ja/articles/8272435-アカウント通知設定)
 
-**トピック** [トピックリスト設定](https://support.catenda.com/ja/articles/4670277-topic-board-settings) [トピック本文](https://support.catenda.com/ja/articles/8053352-issue-body) [投稿のフォーマット](https://support.catenda.com/ja/articles/8430847-formatting-of-posts)
+**トピック** [トピックリスト設定](https://support.catenda.com/ja/articles/4670277-トピックリスト設定ページ) [トピック本文](https://support.catenda.com/ja/articles/8053352-トピック本体-トピックのコンテンツ) [投稿のフォーマット](https://support.catenda.com/ja/articles/8430847-投稿フォーマットツールボックス)
 
 **ドキュメント**
 
-_[ドキュメントの構成](https://support.catenda.com/ja/articles/8542598-structuring-documents)_ [ドキュメント上の注釈](https://support.catenda.com/ja/articles/5001165-annotations-on-documents) [コレクションページ](https://support.catenda.com/ja/articles/6344318-collections-page) [承認ページのフィルタリング](https://support.catenda.com/ja/articles/8551740-filtering-on-the-approvals-page) [トピックリストでのフィルタリング](https://support.catenda.com/ja/articles/8370693-filtering-in-a-topic-board)
+_[ドキュメントの構成](https://support.catenda.com/ja/articles/8542598-ドキュメントの構成)_ [ドキュメント上の注釈](https://support.catenda.com/ja/articles/5001165-ドキュメントのプレビューと注釈) [コレクションページ](https://support.catenda.com/ja/articles/6344318-コレクションページ) [承認ページのフィルタリング](https://support.catenda.com/ja/articles/8551740-承認ページのフィルタリング-レガシー) [トピックリストでのフィルタリング](https://support.catenda.com/ja/articles/8370693-トピックページでのフィルタリング)
 
-**モデル** [3Dビューア](https://support.catenda.com/ja/articles/8227211-3d-viewer) [2Dビューア](https://support.catenda.com/ja/articles/4854537-2d-viewer) [クエリ](https://support.catenda.com/ja/articles/4854514-queries)
+**モデル** [3Dビューア](https://support.catenda.com/ja/articles/8227211-3dビューア) [2Dビューア](https://support.catenda.com/ja/articles/4854537-2dビューア) [クエリ](https://support.catenda.com/ja/articles/4854514-クエリ)
 
-**情報パネル** [Information panel](https://support.catenda.com/ja/articles/8238584-information-panel)
+**情報パネル** [Information panel](https://support.catenda.com/ja/articles/8238584-情報パネル)
 
-**設定** [ラベルページ](https://support.catenda.com/ja/articles/4670265-labels-page) [チームを作成する](https://support.catenda.com/ja/articles/4670264-creating-a-team)
+**設定** [ラベルページ](https://support.catenda.com/ja/articles/4670265-ラベルページ) [チームを作成する](https://support.catenda.com/ja/articles/4670264-チームの作成)
 
-**プラグインおよび統合** [Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector) [Power BI統合](https://support.catenda.com/ja/articles/5784721-integration-power-bi) [IFC Archicadマニュアル](https://support.catenda.com/ja/articles/4670338-ifc-export-archicad-manual) [Archicadプラグイン](https://support.catenda.com/ja/articles/5519276-catenda-archicad-plugin) [Solibriドキュメント統合としてのモデル](https://support.catenda.com/ja/articles/6988148-solibri-models-and-documents-integration)
+**プラグインおよび統合** [Catenda Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector) [Power BI統合](https://support.catenda.com/ja/articles/5784721-catenda-power-bi-コネクタ) [IFC Archicadマニュアル](https://support.catenda.com/ja/articles/4670338-ifcエクスポート-archicadマニュアル) [Archicadプラグイン](https://support.catenda.com/ja/articles/5519276-catenda-archicadプラグイン) [Solibriドキュメント統合としてのモデル](https://support.catenda.com/ja/articles/6988148-solibriモデルとドキュメント統合)
 
-**Catenda Site** [モバイルアプリCatenda Siteをダウンロード](https://support.catenda.com/ja/articles/6530821-download-your-mobile-app-catenda-site)
+**Catenda Site** [モバイルアプリCatenda Siteをダウンロード](https://support.catenda.com/ja/articles/6530821-モバイルアプリ-catenda-site-をダウンロード)
 
 ## 2. **バグ修正**
 

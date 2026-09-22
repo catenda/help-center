@@ -1,6 +1,6 @@
 # Einstellungen - Catenda Site
 
-Sie finden Ihre Catenda Site-Einstellungen im [Menü](https://support.catenda.com/de/articles/7338516-navigation-menu-catenda-site). Ihre Kontoeinstellungen werden beim nächsten Anmelden in Ihr Konto beibehalten.
+Sie finden Ihre Catenda Site-Einstellungen im [Menü](https://support.catenda.com/de/articles/7338516-navigationsmenu-catenda-site). Ihre Kontoeinstellungen werden beim nächsten Anmelden in Ihr Konto beibehalten.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/an1f6vfe/01-intro.png)
 

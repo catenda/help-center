@@ -2,9 +2,9 @@
 
 > Verbinden Sie Catenda mit Ihrem Lieblingswerkzeug
 
-> **Tipp:** Finden Sie [Schritt 5](https://support.catenda.com/de/articles/10576182-step-5-topics) unter [Erste Schritte](https://support.catenda.com/de/collections/2657208-getting-started) im Hilfecenter oder im Hilfemenü.
+> **Tipp:** Finden Sie [Schritt 5](https://support.catenda.com/de/articles/10576182-schritt-5-themen) unter [Erste Schritte](https://support.catenda.com/de/collections/2657208-erste-schritte) im Hilfecenter oder im Hilfemenü.
 
-## 1. \*\*([Download-Links](https://support.catenda.com/de/articles/8396532-catenda-connections))
+## 1. \*\*([Download-Links](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen))
 
 ## 2. **Desktop Connector**
 
@@ -32,6 +32,6 @@
 - Lokalisieren Sie Clash-Objekte in Revit
 - Erstellen Sie BCF-Themen (2D und 3D) in Revit
 
-_Weitere Informationen:_ [Catenda Connections](https://support.catenda.com/de/articles/8396532-catenda-connections), [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/de/articles/5085987-catenda-hub-navisworks-plugin), [Revit](https://support.catenda.com/de/articles/4670334-catenda-hub-revit-plugin)
+_Weitere Informationen:_ [Catenda Connections](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen), [Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin), [Revit](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin)
 
-> **Hinweis:** Finden Sie [den ersten Schritt](https://support.catenda.com/de/articles/9030303-step-1-account-setup) unter [Erste Schritte](https://support.catenda.com/de/collections/2657208-getting-started) im Hilfecenter oder im Hilfemenü.
+> **Hinweis:** Finden Sie [den ersten Schritt](https://support.catenda.com/de/articles/9030303-schritt-1-kontoeinrichtung) unter [Erste Schritte](https://support.catenda.com/de/collections/2657208-erste-schritte) im Hilfecenter oder im Hilfemenü.

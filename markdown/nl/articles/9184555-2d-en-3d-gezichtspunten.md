@@ -1,6 +1,6 @@
 # 2D- en 3D-gezichtspunten
 
-2D- en 3D-gezichtspunten kunnen worden toegevoegd als een [opmerking van een topic](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic#h_f76b44d3ca). Snapshots zijn veelzijdige communicatiemiddelen voor 2D- en 3D-informatie omdat ze niet alleen visuele informatie bevatten maar ook kunnen worden gebruikt om een plaats en een moment in een document of model te beschrijven. De informatie die in snapshots wordt opgeslagen, stelt u in staat om samen te werken met 2D- en 3D-informatie, omdat u uw snapshot in elk van uw BCF- en IFC-compatibele services kunt afspelen.
+2D- en 3D-gezichtspunten kunnen worden toegevoegd als een [opmerking van een topic](https://support.catenda.com/nl/articles/8053352-onderwerplichaam-de-inhoud-van-een-onderwerp#h_f76b44d3ca). Snapshots zijn veelzijdige communicatiemiddelen voor 2D- en 3D-informatie omdat ze niet alleen visuele informatie bevatten maar ook kunnen worden gebruikt om een plaats en een moment in een document of model te beschrijven. De informatie die in snapshots wordt opgeslagen, stelt u in staat om samen te werken met 2D- en 3D-informatie, omdat u uw snapshot in elk van uw BCF- en IFC-compatibele services kunt afspelen.
 
 Dit is hoe een 3D-snapshot eruit kan zien:
 
@@ -10,13 +10,13 @@ De onderstaande snapshot had de volgende instellingen toen de snapshot werd gema
 
 ## 1. **Een snapshot maken**
 
-Als u een model in 3D hebt geladen, kunt u op de plus-knop links van het opmerkingsveld voor het topic klikken om een 3D-snapshot aan uw opmerking toe te voegen. Als u de 2D-viewer hebt geopend, kunt u op de plus-knop links van het opmerkingsveld voor het topic klikken om een 2D-snapshot aan uw opmerking toe te voegen. Een snapshot wordt automatisch gemaakt als u iets in 2D of 3D hebt geladen en u een nieuw topic maakt. Klik [hier](https://support.catenda.com/nl/articles/10345863-snapshots) voor meer informatie over snapshots.
+Als u een model in 3D hebt geladen, kunt u op de plus-knop links van het opmerkingsveld voor het topic klikken om een 3D-snapshot aan uw opmerking toe te voegen. Als u de 2D-viewer hebt geopend, kunt u op de plus-knop links van het opmerkingsveld voor het topic klikken om een 2D-snapshot aan uw opmerking toe te voegen. Een snapshot wordt automatisch gemaakt als u iets in 2D of 3D hebt geladen en u een nieuw topic maakt. Klik [hier](https://support.catenda.com/nl/articles/10345863-3d-snapshots) voor meer informatie over snapshots.
 
 ## 2. **Viewer-afbeeldingen**
 
 Snapshots zijn de beste manier om hoogwaardige afbeeldingen of renderings te maken vanuit de Catenda Hub-viewer om de volgende redenen:
 
-- Snapshotafbeeldingen kunnen worden gedownload uit het [pop-out voor bijlagen](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8).
+- Snapshotafbeeldingen kunnen worden gedownload uit het [pop-out voor bijlagen](https://support.catenda.com/nl/articles/8053352-onderwerplichaam-de-inhoud-van-een-onderwerp#h_e36d14edc8).
 - Snapshotafbeeldingen kunnen hogere resoluties hebben dan alleen een schermafbeelding uit de viewer.
 - Snapshotafbeeldingen hebben transparante achtergronden. Bij 3D-snapshots bevat de afbeelding alleen pixels waar objecten in 3D zijn. Bij 2D-snapshots bevat de afbeelding alleen pixels waar lijnen in 2D zijn.
 
@@ -134,7 +134,7 @@ Als u met uw muis over de afbeelding van een 2D- of 3D-snapshot beweegt, verschi
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/12-image-pop-out.png)
 
-Nadat de snapshot is ingediend, kan de afbeelding die eraan is gekoppeld [worden uitgeklapt](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) om de inhoud in een groter formaat te zien en te downloaden.
+Nadat de snapshot is ingediend, kan de afbeelding die eraan is gekoppeld [worden uitgeklapt](https://support.catenda.com/nl/articles/8053352-onderwerplichaam-de-inhoud-van-een-onderwerp#h_e36d14edc8) om de inhoud in een groter formaat te zien en te downloaden.
 
 ## 6. **Een snapshot verwijderen**
 

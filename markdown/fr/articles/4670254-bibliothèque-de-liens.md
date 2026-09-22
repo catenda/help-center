@@ -1,6 +1,6 @@
 # Bibliothèque de Liens
 
-Vous trouverez la bibliothèque de Liens comme deuxième bibliothèque sur la [page des Bibliothèques](https://support.catenda.com/fr/articles/8065645-libraries-page). Ici, vous pourrez cliquer sur l'étoile à gauche pour toujours afficher la bibliothèque de Liens dans votre menu de navigation gauche du projet.
+Vous trouverez la bibliothèque de Liens comme deuxième bibliothèque sur la [page des Bibliothèques](https://support.catenda.com/fr/articles/8065645-page-bibliotheques). Ici, vous pourrez cliquer sur l'étoile à gauche pour toujours afficher la bibliothèque de Liens dans votre menu de navigation gauche du projet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/f29gh2kf/01-intro.png)
 
@@ -32,4 +32,4 @@ Cliquez sur le bouton Filtre pour voir les différents filtres possibles. Dans l
 
 _Case à cocher_ - vous permet de sélectionner le Lien qui affichera le panneau d'informations de droite. _Nom_ - Le nom du Lien _URL_ - Vous donne un bouton sur lequel cliquer pour accéder à l'URL du Lien
 
-**Liens** Si des objets ont été liés à ce Lien, vous verrez ici le nombre d'objets liés à ce Lien. Cliquer sur ce nombre vous permettra de : Sélectionner les objets liés dans la [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer) Isoler les objets liés dans la [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer) Charger les objets liés comme une [requête](https://support.catenda.com/fr/articles/4854514-queries) dans la [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer)
+**Liens** Si des objets ont été liés à ce Lien, vous verrez ici le nombre d'objets liés à ce Lien. Cliquer sur ce nombre vous permettra de : Sélectionner les objets liés dans la [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-visionneuse-3d) Isoler les objets liés dans la [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-visionneuse-3d) Charger les objets liés comme une [requête](https://support.catenda.com/fr/articles/4854514-requetes) dans la [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-visionneuse-3d)

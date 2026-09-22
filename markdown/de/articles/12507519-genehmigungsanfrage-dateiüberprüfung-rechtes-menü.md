@@ -1,6 +1,6 @@
 # Genehmigungsanfrage-Dateiüberprüfung rechtes Menü
 
-Wenn die [Dateiüberprüfung einer Genehmigung](https://support.catenda.com/de/articles/12507002-file-review-in-an-approval-request) zunächst geöffnet wird, kann das rechte Menü geschlossen sein. Klicken Sie auf die Informationsschaltfläche rechts, um dieses Menü zu erweitern.
+Wenn die [Dateiüberprüfung einer Genehmigung](https://support.catenda.com/de/articles/12507002-dateiprufung-in-einer-freigabeanfrage) zunächst geöffnet wird, kann das rechte Menü geschlossen sein. Klicken Sie auf die Informationsschaltfläche rechts, um dieses Menü zu erweitern.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/sb8szdmp/01-intro.png)
 

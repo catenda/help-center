@@ -4,7 +4,7 @@ Hallo iedereen, hopelijk hebben jullie allemaal de koude wintermaanden kunnen do
 
 In dit artikel vindt u updates over het volgende:
 
-_[Artikelen](https://support.catenda.com/nl/articles/9285880-changelog-6-catenda-august-2024#h_a8cc7b1921) - [Opgeloste bugs](https://support.catenda.com/nl/articles/9285880-changelog-6-catenda-august-2024#h_58dfb1b852) - [Nieuwe releases](https://support.catenda.com/nl/articles/9285880-changelog-6-catenda-august-2024#h_25203946b2)_
+_[Artikelen](https://support.catenda.com/nl/articles/9285880-wijzigingslogboek-6-catenda-augustus-2024#h_a8cc7b1921) - [Opgeloste bugs](https://support.catenda.com/nl/articles/9285880-wijzigingslogboek-6-catenda-augustus-2024#h_58dfb1b852) - [Nieuwe releases](https://support.catenda.com/nl/articles/9285880-wijzigingslogboek-6-catenda-augustus-2024#h_25203946b2)_
 
 ## 1. **Artikelen**
 
@@ -12,25 +12,25 @@ Wanneer nieuwe functies uitkomen en bugs worden opgelost, worden artikelen bijge
 
 ### 1.1 **Nieuwe artikelen:**
 
-**Aan de slag en veelgestelde vragen** [Veelgestelde vragen over organisatiehulpmiddel](https://support.catenda.com/nl/articles/10475849-organization-tool-faq)
+**Aan de slag en veelgestelde vragen** [Veelgestelde vragen over organisatiehulpmiddel](https://support.catenda.com/nl/articles/10475849-veelgestelde-vragen-organisatietool)
 
-**Topics** [Topic board toegangsbeheer](https://support.catenda.com/nl/articles/4670296-topic-board-access-control) [Instellingen van Topic board](https://support.catenda.com/nl/articles/4670277-topic-board-settings)
+**Topics** [Topic board toegangsbeheer](https://support.catenda.com/nl/articles/4670296-toegangscontrole-topic-board) [Instellingen van Topic board](https://support.catenda.com/nl/articles/4670277-pagina-instellingen-topic-board)
 
-**Plugins en integraties** [Catenda SharePoint Application - WebPart](https://support.catenda.com/nl/articles/10538168-catenda-sharepoint-application-webpart) [Catenda als een applicatie](https://support.catenda.com/nl/articles/10695677-catenda-as-an-application) [Toevoegen aan startscherm](https://support.catenda.com/nl/articles/10741601-add-to-home-screen) [Ondersteuning startscherm-systeembrowser](https://Home-screen%20system-browser%20support)
+**Plugins en integraties** [Catenda SharePoint Application - WebPart](https://support.catenda.com/nl/articles/10538168-catenda-sharepoint-application-webpart) [Catenda als een applicatie](https://support.catenda.com/nl/articles/10695677-toegang-met-beperkte-schermruimte) [Toevoegen aan startscherm](https://support.catenda.com/nl/articles/10741601-toevoegen-aan-startscherm) [Ondersteuning startscherm-systeembrowser](https://Home-screen%20system-browser%20support)
 
 ### 1.2 **Artikelen die zijn gewijzigd:**
 
-**Aan de slag** [Aan de slag op Catenda Hub](https://support.catenda.com/nl/articles/9030303-getting-started-on-catenda-hub) [Momentopnamen](https://support.catenda.com/nl/articles/10345863-snapshots) [Hardwareaanbevelingen](https://support.catenda.com/nl/articles/6921941-hardware-recommendation) [Notificatiefiltering en functionaliteit](https://support.catenda.com/nl/articles/8304417-notification-filtering-and-functionality) [Een uitnodiging accepteren om lid te worden van een project](https://support.catenda.com/nl/articles/4670246-accepting-an-invitation-to-join-a-project) [Een account maken](https://support.catenda.com/nl/articles/8412895-creating-an-account)
+**Aan de slag** [Aan de slag op Catenda Hub](https://support.catenda.com/nl/articles/9030303-stap-1-accountinstellingen) [Momentopnamen](https://support.catenda.com/nl/articles/10345863-3d-snapshots) [Hardwareaanbevelingen](https://support.catenda.com/nl/articles/6921941-hardwareaanbeveling) [Notificatiefiltering en functionaliteit](https://support.catenda.com/nl/articles/8304417-filteren-op-de-notificatiepagina) [Een uitnodiging accepteren om lid te worden van een project](https://support.catenda.com/nl/articles/4670246-een-uitnodiging-accepteren-om-deel-te-nemen-aan-een-project) [Een account maken](https://support.catenda.com/nl/articles/8412895-een-account-maken)
 
-**Veelgestelde vragen** [Is er een maximale grootte voor IFC-bestanden?](https://support.catenda.com/nl/articles/4670324-is-there-a-size-limit-for-ifc-files)
+**Veelgestelde vragen** [Is er een maximale grootte voor IFC-bestanden?](https://support.catenda.com/nl/articles/4670324-welke-bestandsgrootte-kan-ik-uploaden)
 
-**Hoofdpagina** [Pagina Gebruikers - Organisatiehulpmiddel](https://support.catenda.com/nl/articles/8508311-users-page-organization-tool) [Locatie en functionaliteit van ondersteuningsballon](https://Support%20button%20location%20and%20functionality)
+**Hoofdpagina** [Pagina Gebruikers - Organisatiehulpmiddel](https://support.catenda.com/nl/articles/8508311-gebruikerspagina-organisatietool) [Locatie en functionaliteit van ondersteuningsballon](https://Support%20button%20location%20and%20functionality)
 
-**Topics** [Lijstweergave in een Topic board](https://support.catenda.com/nl/articles/6941232-list-view-in-a-topic-board) [Tabelweergave in een Topic board](https://support.catenda.com/nl/articles/6941099-table-view-in-an-topic-board) [Topic body - De inhoud van een Topic](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic)
+**Topics** [Lijstweergave in een Topic board](https://support.catenda.com/nl/articles/6941232-lijstweergave-in-een-topic-board) [Tabelweergave in een Topic board](https://support.catenda.com/nl/articles/6941099-tabelweergave-in-een-topic-board) [Topic body - De inhoud van een Topic](https://support.catenda.com/nl/articles/8053352-onderwerplichaam-de-inhoud-van-een-onderwerp)
 
-**Documenten** [Acties in een document](https://support.catenda.com/nl/articles/9323521-actions-in-a-document) [QR-codes op PDF's in Catenda](https://support.catenda.com/nl/articles/9360508-qr-code-on-pdfs-in-catenda)
+**Documenten** [Acties in een document](https://support.catenda.com/nl/articles/9323521-acties-voor-documentrevision) [QR-codes op PDF's in Catenda](https://support.catenda.com/nl/articles/9360508-qr-code-op-pdf-s-in-catenda)
 
-**Plugins en integraties** [Catenda Plugins en integraties](https://support.catenda.com/nl/articles/8396532-catenda-plugins-and-integrations) [Catenda SharePoint-toepassing](https://support.catenda.com/nl/articles/8396496-catenda-sharepoint-application)
+**Plugins en integraties** [Catenda Plugins en integraties](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties) [Catenda SharePoint-toepassing](https://support.catenda.com/nl/articles/8396496-catenda-sharepoint-toepassing)
 
 ## 2. **Opgeloste bugs**
 

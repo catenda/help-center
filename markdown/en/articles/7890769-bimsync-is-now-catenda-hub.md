@@ -18,6 +18,6 @@ If your organization uses a firewall or other means of restricting access to web
 
 Whilst we’re committed to keeping bimsync.com running, we intend to redirect customer traffic to hub.catenda.com after a clearly communicated notice period. For this reason, we recommend that you ensure you’re able to sign into Catenda Hub at [https://hub.catenda.com](https://hub.catenda.com) as soon as possible.
 
-For more information on how to sign in see [this](https://support.catenda.com/en/articles/7891486-sign-in-page) article. For more information about what domain to allow though the firewall see [this](https://support.catenda.com/en/articles/6921941-system-requirements-and-optimization) article.
+For more information on how to sign in see [this](https://support.catenda.com/en/articles/7891486-sign-in-page) article. For more information about what domain to allow though the firewall see [this](https://support.catenda.com/en/articles/6921941-hardware-recommendation) article.
 
 If you have any questions or concerns about any of these changes, please let us know.

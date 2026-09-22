@@ -1,6 +1,6 @@
 # Filtering on the approvals page - Legacy
 
-The filter panel can be opened on the approvals page by clicking on the filter button to the left of the search bar on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page).
+The filter panel can be opened on the approvals page by clicking on the filter button to the left of the search bar on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vcqjvqcc/01-intro.png)
 
@@ -14,11 +14,11 @@ Click the filter button on the top left for a panel to appear on the left side. 
 
 ### 1.1 **Save and share the current filter**
 
-Go to the URL of a filtered page to load that page with the filter applied. The applied filters can be saved towards the top of the filter menu. Click [here](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) to read more about how to save and share filters
+Go to the URL of a filtered page to load that page with the filter applied. The applied filters can be saved towards the top of the filter menu. Click [here](https://support.catenda.com/en/articles/11401493-saving-and-sharing-a-filter-link) to read more about how to save and share filters
 
 ### 1.2 **Hide empty filters**
 
-Click [here](https://support.catenda.com/en/articles/8551755-saving-filters) to read more about limiting filter results.
+Click [here](https://support.catenda.com/en/articles/8551755-limiting-filter-results) to read more about limiting filter results.
 
 ### 1.3 **My approvals**
 

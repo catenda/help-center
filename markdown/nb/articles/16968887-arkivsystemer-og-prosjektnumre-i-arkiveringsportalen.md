@@ -22,4 +22,4 @@ Dette er også hvorfor feilårsakene på **Arkivert**-fanen er formulert som gre
 
 Portalen er bygd for openBIM-prosjektdata i Catenda Hub, så dokumentene og sakene den tilbyr kommer fra Catenda Hub og ingen andre steder.
 
-For å få prosjektdata ut av Catenda Hub på andre måter, inkludert eksporter, langvarige formater og det fryste arkivalternativet, se [Eksporterer alle prosjektdata](https://support.catenda.com/nb/articles/7946690-exporting-all-project-data).
+For å få prosjektdata ut av Catenda Hub på andre måter, inkludert eksporter, langvarige formater og det fryste arkivalternativet, se [Eksporterer alle prosjektdata](https://support.catenda.com/nb/articles/7946690-eksporterer-alle-prosjektdata).

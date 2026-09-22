@@ -36,7 +36,7 @@ Activating and configuring the shared status workflow are reserved for project a
 
 _Access required_ Document status configuration access in the [access control area](https://support.catenda.com/en/articles/4670273-project-settings-page#h_3b98ced32a) of the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page). Members with this access will only have access to the status configuration menu in document settings. They will not be able to see or change the other menus in document settings.
 
-Under [document settings](https://support.catenda.com/en/articles/7831371-document-settings) navigate to [Status Workflow](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) and enable shared statuses
+Under [document settings](https://support.catenda.com/en/articles/7831371-document-settings-page) navigate to [Status Workflow](https://support.catenda.com/en/articles/7831371-document-settings-page#h_e6f3ffdbff) and enable shared statuses
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/03-configuring-status-workflow.png)
 
@@ -125,7 +125,7 @@ In the document structure you will see the latest revision you have access to. C
 
 ### 3.8 **Revision information**
 
-Select a single document or open the document preview by clicking the document. Information about the current revision will be visible in the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision).
+Select a single document or open the document preview by clicking the document. Information about the current revision will be visible in the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/16-revision-information.png)
 
@@ -138,7 +138,7 @@ _Access required:_ Read access and shared revisions
 - Change a published revision status to a different published revision status.
 _Access required:_ Write access and published revisions
 
-**Revision information dialogue** Click on the revision box to see an overview of all the revisions in the document in the [revision information dialogue](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision#h_6838c6ad71). A green link between a published and a shared revision indicates which shared revision was published.
+**Revision information dialogue** Click on the revision box to see an overview of all the revisions in the document in the [revision information dialogue](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info#h_6838c6ad71). A green link between a published and a shared revision indicates which shared revision was published.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/17-revision-information.png)
 
@@ -152,11 +152,11 @@ Only published revisions are visible in Catenda Site.
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-868820a898ba.png" width="500"/></div>
 
-1. Documents status can be then [configured](https://support.catenda.com/en/articles/7831371-document-settings#h_e6f3ffdbff) from the settings in the documents section:
+1. Documents status can be then [configured](https://support.catenda.com/en/articles/7831371-document-settings-page#h_e6f3ffdbff) from the settings in the documents section:
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-931418a5fab1.png" width="500"/></div>
 
-1. Finally, these document status can be assigned to file review status accessible from the top-right three dots button in the [Approvals section](https://support.catenda.com/en/articles/8349340-approvals-page). It is also possible to configure here a Topic template.
+1. Finally, these document status can be assigned to file review status accessible from the top-right three dots button in the [Approvals section](https://support.catenda.com/en/articles/8349340-approvals-page-legacy). It is also possible to configure here a Topic template.
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-3cdbebefca38.png" width="500"/></div>
 
@@ -186,7 +186,7 @@ A detailed demonstration of those steps are shown in the following tutorial:
 
 ## 6. **Disabling status workflow**
 
-If you want to turn status workflow flow off you can do so by clicking on the radio button in [document settings](https://support.catenda.com/en/articles/7831371-document-settings). The published and shared tabs in the document section will then disappear. Documents uploaded while the status workflow is not enabled will be uploaded as published and will show in the published tab when the status workflow gets enabled.
+If you want to turn status workflow flow off you can do so by clicking on the radio button in [document settings](https://support.catenda.com/en/articles/7831371-document-settings-page). The published and shared tabs in the document section will then disappear. Documents uploaded while the status workflow is not enabled will be uploaded as published and will show in the published tab when the status workflow gets enabled.
 
 ## 7. **Advantages of using the status workflow**
 

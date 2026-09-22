@@ -1,10 +1,10 @@
 # Mengdetaking (QTO)
 
-Du finner QTO-menyen som den andre menyen i [informasjonspanelet](https://support.catenda.com/nb/articles/8238584-information-panel).
+Du finner QTO-menyen som den andre menyen i [informasjonspanelet](https://support.catenda.com/nb/articles/8238584-informasjonspanel).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8drgvwsx/01-intro.png)
 
-Denne funksjonen lar deg vise og eksportere en egenskapsliste over objektene som er valgt i [3D-visningen](https://support.catenda.com/nb/articles/8227211-3d-viewer) eller [treepanelet](https://intercom.help/bimsync-arena/nb/articles/4670290-trees-panel). Med denne listen vil du enkelt kunne få nøyaktige målinger av mengdene av ulike objekter i modellen din. For å komme i gang, velg et objekt i [3D-visningen](https://support.catenda.com/nb/articles/8227211-3d-viewer) eller [treepanelet](https://intercom.help/bimsync-arena/nb/articles/4670290-trees-panel) for å vise dets egenskaper og relatert informasjon i inspeksjonsmenyen. Etter at du har valgt noen objekter, kan QTO-menyen se slik ut:
+Denne funksjonen lar deg vise og eksportere en egenskapsliste over objektene som er valgt i [3D-visningen](https://support.catenda.com/nb/articles/8227211-3d-viser) eller [treepanelet](https://intercom.help/bimsync-arena/nb/articles/4670290-modelltre-panel). Med denne listen vil du enkelt kunne få nøyaktige målinger av mengdene av ulike objekter i modellen din. For å komme i gang, velg et objekt i [3D-visningen](https://support.catenda.com/nb/articles/8227211-3d-viser) eller [treepanelet](https://intercom.help/bimsync-arena/nb/articles/4670290-modelltre-panel) for å vise dets egenskaper og relatert informasjon i inspeksjonsmenyen. Etter at du har valgt noen objekter, kan QTO-menyen se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8drgvwsx/02-intro.png)
 
@@ -32,7 +32,7 @@ I den andre raden danner navn på egenskaper innenfor gruppene deres kolonnene s
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8drgvwsx/05-header-row.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/11748020-tables-on-catenda) for å lese mer om tabeller på Catenda.
+Klikk [her](https://support.catenda.com/nb/articles/11748020-tabeller-pa-catenda) for å lese mer om tabeller på Catenda.
 
 ## 3. **Objekttelling**
 
@@ -42,7 +42,7 @@ Opptil 10 000 objekter kan vises i denne menyen, men bare en begrenset mengde ce
 
 ## 4. **Kort video**
 
-Klikk [her](https://support.catenda.com/nb/articles/6707924-quantity-take-off-qto-short-video) for å se en kort video om QTO-menyen.
+Klikk [her](https://support.catenda.com/nb/articles/6707924-quantity-take-off-qto-kort-video) for å se en kort video om QTO-menyen.
 
 ## 5. **Objektside**
 

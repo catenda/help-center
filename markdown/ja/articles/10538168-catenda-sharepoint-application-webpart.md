@@ -4,7 +4,7 @@ Catenda webpartを使用すると、SharePointページ内でCatendaプロジェ
 
 ## 1. **webpartの追加**
 
-SharePointで既存のページを編集するか、新しいページを作成して編集します。編集モードでページにカーソルを合わせると、プラス記号`----+-----`の線が表示されるまで待ちます。[Catenda SharePointアプリケーション](https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-application)がサイトに追加されている場合、webpartのリスト内でCatendaドキュメントWebpartを見つけることができます。
+SharePointで既存のページを編集するか、新しいページを作成して編集します。編集モードでページにカーソルを合わせると、プラス記号`----+-----`の線が表示されるまで待ちます。[Catenda SharePointアプリケーション](https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-アプリケーション)がサイトに追加されている場合、webpartのリスト内でCatendaドキュメントWebpartを見つけることができます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/01-adding-the-webpart.png)
 
@@ -16,7 +16,7 @@ SharePointで既存のページを編集するか、新しいページを作成�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/03-adding-the-webpart.png)
 
-Catenda webpartが有効になったページを開き、まだアカウントを認可していない場合は、認可するよう求められます。アカウントの認可方法について詳しくは、[こちら](https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-application#h_788fe15988)を参照してください。
+Catenda webpartが有効になったページを開き、まだアカウントを認可していない場合は、認可するよう求められます。アカウントの認可方法について詳しくは、[こちら](https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-アプリケーション#h_788fe15988)を参照してください。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/04-adding-the-webpart.png)
 
@@ -74,7 +74,7 @@ Webpartの左上に、以下のアクションがあります：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/11-upload-file.png)
 
-> **注:** フォルダをドラッグアンドドロップすると、zipファイルとして公開されます。フォルダ構造をアップロードする場合は、SharePointからダウンロードして、[zipアップロード](https://support.catenda.com/ja/articles/7945410-upload-a-zip-file-structure)または[Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)経由でCatendaにアップロードする必要があります。
+> **注:** フォルダをドラッグアンドドロップすると、zipファイルとして公開されます。フォルダ構造をアップロードする場合は、SharePointからダウンロードして、[zipアップロード](https://support.catenda.com/ja/articles/7945410-zipファイル-ファイル構造をアップロード)または[Desktop Connector](https://support.catenda.com/ja/articles/8358861-catenda-desktop-connector)経由でCatendaにアップロードする必要があります。
 
 ### 4.3 **再読み込み**
 

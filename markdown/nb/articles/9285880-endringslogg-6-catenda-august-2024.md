@@ -10,33 +10,33 @@ Når nye funksjoner lanseres og feil blir rettet, oppdateres artikler med endrin
 
 ### 1.1 **Nye artikler:**
 
-_Kom i gang og FAQ_ [Catenda SharePoint Vanlige spørsmål](https://support.catenda.com/nb/articles/9419678-catenda-sharepoint-faq) [Revisjoner i navnekonvensjon](https://support.catenda.com/nb/articles/9496151-revisions-in-namingconvention) [Egendefinerte felt på dokumenter](https://support.catenda.com/nb/articles/9531080-custom-fields-on-documents) [Overtar for et annet medlem](https://support.catenda.com/nb/articles/9520447-taking-over-for-another-member)
+_Kom i gang og FAQ_ [Catenda SharePoint Vanlige spørsmål](https://support.catenda.com/nb/articles/9419678-catenda-sharepoint-vanlige-sporsmal) [Revisjoner i navnekonvensjon](https://support.catenda.com/nb/articles/9496151-revisjoner-i-navnekonvensjon) [Egendefinerte felt på dokumenter](https://support.catenda.com/nb/articles/9531080-egendefinerte-felt-pa-dokumenter) [Overtar for et annet medlem](https://support.catenda.com/nb/articles/9520447-overtake-for-et-annet-medlem)
 
-_Modeller_ [Handlinger på modellsiden](https://support.catenda.com/nb/articles/9431936-actions-on-the-models-page) [Høyre meny på modellsiden](https://support.catenda.com/nb/articles/9673735-right-menu-on-the-models-page) [Handlinger på modelloversiktssiden](https://support.catenda.com/nb/articles/9674157-actions-on-the-model-overview-page)
+_Modeller_ [Handlinger på modellsiden](https://support.catenda.com/nb/articles/9431936-modellsideoversiktshandlinger) [Høyre meny på modellsiden](https://support.catenda.com/nb/articles/9673735-hoyremeny-pa-modelsiden) [Handlinger på modelloversiktssiden](https://support.catenda.com/nb/articles/9674157-handlinger-pa-siden-for-modelinnhold)
 
-_Saker_ [Tavler-siden](https://support.catenda.com/nb/articles/9413644-boards-page) [Handlinger i en saksliste](https://support.catenda.com/nb/articles/4670284-actions-in-a-topic-board)
+_Saker_ [Tavler-siden](https://support.catenda.com/nb/articles/9413644-tavler-side) [Handlinger i en saksliste](https://support.catenda.com/nb/articles/4670284-handlinger-i-saksrelatert-tabell)
 
-_Dokumenter_ [Handlinger i et dokument](https://support.catenda.com/nb/articles/9323521-actions-in-a-document)
+_Dokumenter_ [Handlinger i et dokument](https://support.catenda.com/nb/articles/9323521-dokumentrevisjonshandlinger)
 
-_Programtillegg og integrasjoner_ [Microsoft Teams-varslinger](https://support.catenda.com/nb/articles/9167392-microsoft-teams-notifications) [Aktivering av Catenda SharePoint-appen](https://support.catenda.com/nb/articles/9419749-enabling-the-catenda-sharepoint-app) [Legge til og fjerne CatendaSP-appen](https://support.catenda.com/nb/articles/9453368-adding-and-removing-the-catendasp-app) [Navisworks endringslogg - 1.4.0](https://support.catenda.com/nb/articles/9440035-navisworks-changelog-1-4-0)
+_Programtillegg og integrasjoner_ [Microsoft Teams-varslinger](https://support.catenda.com/nb/articles/9167392-microsoft-teams-varsel) [Aktivering av Catenda SharePoint-appen](https://support.catenda.com/nb/articles/9419749-aktivering-av-catenda-sharepoint-appen) [Legge til og fjerne CatendaSP-appen](https://support.catenda.com/nb/articles/9453368-legge-til-og-fjerne-catendasp-appen) [Navisworks endringslogg - 1.4.0](https://support.catenda.com/nb/articles/9440035-navisworks-endringslogg-1-4-0)
 
 ### 1.2 **Artikler som har endret seg:**
 
-_Ofte stilte spørsmål_ [Forhåndsvisning av filtyper på Catenda Hub](https://support.catenda.com/nb/articles/4670320-previewing-file-types-on-catenda-hub) [Sider uten tilgang](https://support.catenda.com/nb/articles/9172624-no-access-pages)
+_Ofte stilte spørsmål_ [Forhåndsvisning av filtyper på Catenda Hub](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub) [Sider uten tilgang](https://support.catenda.com/nb/articles/9172624-ingen-tilgangssider)
 
-_Hovedside_ [Prosjektsiden - Organisasjonsverktøy](https://support.catenda.com/nb/articles/8505058-projects-page-organization-tool) [Brukersiden - Organisasjonsverktøy ](https://support.catenda.com/nb/articles/8508311-users-page-organization-tool) [Prosjektmedlemskap - Organisasjonsverktøy](https://support.catenda.com/nb/articles/9003642-project-memberships-organization-tool) [Multi-faktor-autentisering](https://support.catenda.com/nb/articles/4969891-multi-factor-authentication)
+_Hovedside_ [Prosjektsiden - Organisasjonsverktøy](https://support.catenda.com/nb/articles/8505058-prosjektsside-organisasjonsverktoy) [Brukersiden - Organisasjonsverktøy ](https://support.catenda.com/nb/articles/8508311-brukersiden-organisasjonsverktoy) [Prosjektmedlemskap - Organisasjonsverktøy](https://support.catenda.com/nb/articles/9003642-prosjektmedlemskap-organisasjonsverktoy) [Multi-faktor-autentisering](https://support.catenda.com/nb/articles/4969891-flerfaktor-autentisering)
 
-_Modeller_ [Modellsiden](https://support.catenda.com/nb/articles/4670286-models-page) [Modelloversiktssiden](https://support.catenda.com/nb/articles/4670270-model-overview-page)
+_Modeller_ [Modellsiden](https://support.catenda.com/nb/articles/4670286-modellside) [Modelloversiktssiden](https://support.catenda.com/nb/articles/4670270-modellinnholdsside)
 
-_Saker_ [Høyre meny i en sak](https://support.catenda.com/nb/articles/8053299-right-menu-in-a-topic) [Tabellvisning i en saksliste](https://support.catenda.com/nb/articles/6941099-table-view-in-an-topic-board) [Listevisning i en saksliste](https://support.catenda.com/nb/articles/6941232-list-view-in-a-topic-board) [Sakersiden](https://support.catenda.com/nb/articles/4670271-topics-page)
+_Saker_ [Høyre meny i en sak](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak) [Tabellvisning i en saksliste](https://support.catenda.com/nb/articles/6941099-tabellvisning-i-et-emn) [Listevisning i en saksliste](https://support.catenda.com/nb/articles/6941232-listevisning-i-en-saksliste) [Sakersiden](https://support.catenda.com/nb/articles/4670271-sakside)
 
-_Dokumenter_ [Last opp en zip / filstruktur](https://support.catenda.com/nb/articles/7945410-upload-a-zip-file-structure) [Handlinger i dokumentstrukturen](https://support.catenda.com/nb/articles/4670288-actions-in-the-document-structure) [Dokumentsiden](https://support.catenda.com/nb/articles/8204673-documents-page) [Dokumentbanner - Navigasjon](https://support.catenda.com/nb/articles/8461918-document-banner-navigation) [Høyre meny i et dokument](https://support.catenda.com/nb/articles/8302244-right-menu-in-a-document) [QR-koder på PDF-er i Catenda](https://support.catenda.com/nb/articles/9360508-qr-code-on-pdfs-in-catenda) [Dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-document-settings) [Høyre meny på dokumentsiden](https://support.catenda.com/nb/articles/8345396-right-menu-on-the-documents-page)
+_Dokumenter_ [Last opp en zip / filstruktur](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) [Handlinger i dokumentstrukturen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen) [Dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) [Dokumentbanner - Navigasjon](https://support.catenda.com/nb/articles/8461918-dokumentbanner-navigasjon) [Høyre meny i et dokument](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon) [QR-koder på PDF-er i Catenda](https://support.catenda.com/nb/articles/9360508-qr-kode-pa-pdf-er-i-catenda) [Dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) [Høyre meny på dokumentsiden](https://support.catenda.com/nb/articles/8345396-hoyremeny-pa-dokumentsiden)
 
-_Innstillinger_ [Egendefinert feltside](https://support.catenda.com/nb/articles/8445588-custom-field-page) [Egendefinerte feltsider](https://support.catenda.com/nb/articles/6550459-custom-fields-page)
+_Innstillinger_ [Egendefinert feltside](https://support.catenda.com/nb/articles/8445588-egendefinert-felt-innholdsside) [Egendefinerte feltsider](https://support.catenda.com/nb/articles/6550459-siden-for-egendefinerte-felt)
 
-_Plugins og integrasjoner_ [Catenda SharePoint-program](https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-application) [IFC-eksport Archicad-manual](https://support.catenda.com/nb/articles/4670338-ifc-export-archicad-manual)
+_Plugins og integrasjoner_ [Catenda SharePoint-program](https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-applikasjon) [IFC-eksport Archicad-manual](https://support.catenda.com/nb/articles/4670338-ifc-export-archicad-manual)
 
-_Catenda Site_ [Forhåndsvisning av dokumenter på Catenda Site](https://support.catenda.com/nb/articles/8975421-previewing-documents-on-catenda-site)
+_Catenda Site_ [Forhåndsvisning av dokumenter på Catenda Site](https://support.catenda.com/nb/articles/8975421-forhandsvisning-av-filtyper-pa-catenda-site)
 
 ## 2. **Feil løst**
 
@@ -78,4 +78,4 @@ _Catenda Site v3.4.2:_ [App Store](https://apps.apple.com/us/app/catenda-site/id
 
 _Desktop Connector:_ [Catenda Desktop Connector v1.0.5.0](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector)
 
-Navisworks: [Navisworks-plugin v1.4.0](https://support.catenda.com/nb/articles/5085987-catenda-hub-navisworks-plugin)
+Navisworks: [Navisworks-plugin v1.4.0](https://support.catenda.com/nb/articles/5085987-catenda-navisworks-plugin)

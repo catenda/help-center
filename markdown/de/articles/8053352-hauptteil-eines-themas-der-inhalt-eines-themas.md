@@ -1,14 +1,14 @@
 # Themen-Text – Der Inhalt eines Themas
 
-Wählen Sie ein Thema aus einem [Themen-Board](https://support.catenda.com/de/articles/4670271-issues-page#h_6a5895256b) aus, um die Themenseite des Themas zu öffnen. So kann das [Themen-Banner](https://support.catenda.com/de/articles/7986346-topic-banner-navigating-topics) auf der Themenseite aussehen:
+Wählen Sie ein Thema aus einem [Themen-Board](https://support.catenda.com/de/articles/4670271-themen-seite#h_6a5895256b) aus, um die Themenseite des Themas zu öffnen. So kann das [Themen-Banner](https://support.catenda.com/de/articles/7986346-themen-banner-navigation-durch-themen) auf der Themenseite aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/01-intro.png)
 
-So kann der [Themen-Header](https://support.catenda.com/de/articles/8400566-topic-header-the-subject-of-a-topic) aussehen:
+So kann der [Themen-Header](https://support.catenda.com/de/articles/8400566-themen-header-das-thema-eines-themas) aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/02-intro.png)
 
-Der in diesem Artikel beschriebene Themen-Text mit Beschreibung und Kommentaren befindet sich unterhalb des Themen-Headers. Klicken Sie auf das Informationssymbol oben rechts im Themen-Banner, um das [Menü der zugehörigen Elemente](https://support.catenda.com/de/articles/8053299-right-menu-in-a-topic) rechts neben sowohl dem Header als auch dem Text anzuzeigen.
+Der in diesem Artikel beschriebene Themen-Text mit Beschreibung und Kommentaren befindet sich unterhalb des Themen-Headers. Klicken Sie auf das Informationssymbol oben rechts im Themen-Banner, um das [Menü der zugehörigen Elemente](https://support.catenda.com/de/articles/8053299-rechtes-menu-in-einem-thema) rechts neben sowohl dem Header als auch dem Text anzuzeigen.
 
 Der in diesem Artikel beschriebene Themen-Text befindet sich unter dem Header und links neben dem rechten Informationsbereich:
 
@@ -22,11 +22,11 @@ Der Fortschrittsbalken wird oben im Themen-Text angezeigt, wenn Kontrollkästche
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/04-progress-bar.png)
 
-Der Fortschrittsbalken zeigt den Fortschritt der aktivierten Kontrollkästchen und der gelösten Themen in der Beschreibung des Themas. Ein kurzes Videotutorial zu Checklisten finden Sie [hier](https://support.catenda.com/de/articles/5036461-check-lists-within-issues)
+Der Fortschrittsbalken zeigt den Fortschritt der aktivierten Kontrollkästchen und der gelösten Themen in der Beschreibung des Themas. Ein kurzes Videotutorial zu Checklisten finden Sie [hier](https://support.catenda.com/de/articles/5036461-checklisten-innerhalb-von-problemen)
 
 ## 2. **Beschreibung**
 
-Die Themenbeschreibung folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/de/articles/8430847-formatting-of-posts).
+Die Themenbeschreibung folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/de/articles/8430847-toolbox-fur-beitragformatierung).
 
 ### 2.1 **Beschreibung bearbeiten**
 
@@ -40,7 +40,7 @@ So kann eine Beschreibung aussehen, wenn sie bearbeitet wird:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/06-edit-description.png)
 
-Weitere Informationen zu Formatierungsoptionen finden Sie in der Beschreibung und klicken Sie auf das Fragezeichen. Beschreibungen folgen den allgemeinen Regeln der [Formatierung von Beiträgen](https://support.catenda.com/de/articles/8430847-formatting-of-posts) auf Catenda.
+Weitere Informationen zu Formatierungsoptionen finden Sie in der Beschreibung und klicken Sie auf das Fragezeichen. Beschreibungen folgen den allgemeinen Regeln der [Formatierung von Beiträgen](https://support.catenda.com/de/articles/8430847-toolbox-fur-beitragformatierung) auf Catenda.
 
 ## 3. **Themen-Informationen**
 
@@ -50,11 +50,11 @@ Die Themen-Informationen finden Sie unter der Beschreibung. So können die Theme
 
 ### 3.1 **Erstellt von**
 
-Der Ersteller des Themas und der Zeitpunkt seiner Erstellung. Um eine genauere Zeit zu erhalten, gehen Sie zu [Kontoeinstellungen](https://support.catenda.com/de/articles/6880968-account-page#h_4aa257b72f).
+Der Ersteller des Themas und der Zeitpunkt seiner Erstellung. Um eine genauere Zeit zu erhalten, gehen Sie zu [Kontoeinstellungen](https://support.catenda.com/de/articles/6880968-kontoseite#h_4aa257b72f).
 
 ### 3.2 **Historie anzeigen**
 
-Die Verlaufsgeschichte des Themas kann angezeigt werden, indem Sie auf die Schaltfläche "Historie anzeigen" oben rechts der Themenbeschreibung klicken. Unter [diesem Artikel](https://support.catenda.com/de/articles/8613038-topic-history) finden Sie Informationen darüber, welche Themenverlaufsgeschichte in Catenda Hub angezeigt werden kann.
+Die Verlaufsgeschichte des Themas kann angezeigt werden, indem Sie auf die Schaltfläche "Historie anzeigen" oben rechts der Themenbeschreibung klicken. Unter [diesem Artikel](https://support.catenda.com/de/articles/8613038-themenverlauf) finden Sie Informationen darüber, welche Themenverlaufsgeschichte in Catenda Hub angezeigt werden kann.
 
 ### 3.3 **Sortieren**
 
@@ -90,7 +90,7 @@ Klicken Sie auf "Änderungen ausblenden" oben rechts, um die Änderungen erneut 
 
 ### 4.2 **Kommentar**
 
-Text in Kommentaren folgt den [allgemeinen Regeln für die Formatierung von Beiträgen](https://support.catenda.com/de/articles/8430847-formatting-of-posts) mit einem geringfügigen Unterschied bei Checklisten.
+Text in Kommentaren folgt den [allgemeinen Regeln für die Formatierung von Beiträgen](https://support.catenda.com/de/articles/8430847-toolbox-fur-beitragformatierung) mit einem geringfügigen Unterschied bei Checklisten.
 
 **Anhang-Pop-out** Klicken Sie mit der linken Maustaste auf das Bild eines Anhangs, um das Bild-Pop-out zu öffnen.
 
@@ -122,7 +122,7 @@ Klicken Sie auf die Plus-Schaltfläche neben dem Kommentarfeld, um einen 2D- ode
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/13-2d-or-3d-snapshots.png)
 
-2D-Schnappschüsse haben die gleichen Schaltflächen, aber mit einem Bild des 2D-Viewers angehängt. Klicken Sie [hier](https://support.catenda.com/de/articles/10345863-snapshots), um mehr über die Schnappschuss-Konfiguration zu erfahren
+2D-Schnappschüsse haben die gleichen Schaltflächen, aber mit einem Bild des 2D-Viewers angehängt. Klicken Sie [hier](https://support.catenda.com/de/articles/10345863-3d-schnappschusse), um mehr über die Schnappschuss-Konfiguration zu erfahren
 
 ### 4.5 **Markup**
 
@@ -130,9 +130,9 @@ Verfolgen Sie Anmerkungen in Dokumenten, indem Sie ein Markup erstellen. Wenn ei
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/14-markup.png)
 
-Wenn ein Markup zu einem Thema hinzugefügt wird, wird das Dokument, auf dem die Anmerkungen erstellt wurden, automatisch in den [zugehörigen Dokumenten](https://support.catenda.com/de/articles/7986346-issue-content#h_be2f2bcf3b) verknüpft.
+Wenn ein Markup zu einem Thema hinzugefügt wird, wird das Dokument, auf dem die Anmerkungen erstellt wurden, automatisch in den [zugehörigen Dokumenten](https://support.catenda.com/de/articles/7986346-themen-banner-navigation-durch-themen#h_be2f2bcf3b) verknüpft.
 
-**Markup-Kommentar** Der Anmerkungskommentar folgt den [allgemeinen Regeln für die Formatierung von Beiträgen](https://support.catenda.com/de/articles/8430847-formatting-of-posts) mit einem geringfügigen Unterschied bei Checklisten.
+**Markup-Kommentar** Der Anmerkungskommentar folgt den [allgemeinen Regeln für die Formatierung von Beiträgen](https://support.catenda.com/de/articles/8430847-toolbox-fur-beitragformatierung) mit einem geringfügigen Unterschied bei Checklisten.
 
 **Markup-Schnappschuss** Die folgenden Informationen sind in einem Markup-Schnappschuss zu sehen: Ein Screenshot des Bereichs des Dokuments, in dem die Anmerkungen erstellt wurden. _Erforderlicher Zugriff:_ Lesezugriff auf das Themen-Board
 
@@ -159,7 +159,7 @@ So kann ein Entwurf eines neuen Kommentars aussehen, bevor der Kommentar eingere
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/15-new-comment.png)
 
-**Textfeld** Schreiben Sie einen Kommentar in das Textfeld neben der Plus-Schaltfläche. Erwähnen Sie Mitglieder, indem Sie @name eingeben, oder verknüpfen Sie andere Themen, indem Sie #link eingeben. Der im Textfeld eines Kommentars eingereichte Text folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/de/articles/8430847-formatting-of-posts) auf Catenda. Fügen Sie sowohl Text als auch Bilder aus der Zwischenablage ein, um sie zum neuen Kommentar hinzuzufügen.
+**Textfeld** Schreiben Sie einen Kommentar in das Textfeld neben der Plus-Schaltfläche. Erwähnen Sie Mitglieder, indem Sie @name eingeben, oder verknüpfen Sie andere Themen, indem Sie #link eingeben. Der im Textfeld eines Kommentars eingereichte Text folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/de/articles/8430847-toolbox-fur-beitragformatierung) auf Catenda. Fügen Sie sowohl Text als auch Bilder aus der Zwischenablage ein, um sie zum neuen Kommentar hinzuzufügen.
 
 **Plus-Schaltfläche** Klicken Sie auf die Plus-Schaltfläche, um einen 3D-Schnappschuss, einen 2D-Schnappschuss oder ein Bild zum Entwurf eines neuen Kommentars hinzuzufügen.
 

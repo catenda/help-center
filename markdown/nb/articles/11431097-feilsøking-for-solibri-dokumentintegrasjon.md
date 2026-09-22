@@ -34,7 +34,7 @@ I denne situasjonen ber du om at en prosjektadministrator gir deg minst skriveat
 
 ### 1.4 **Tilbakekall tilgang til Catenda-kontoen din**
 
-Gå til programmers side i Catenda Hub [kontoinnstillinger](https://intercom.help/bimsync-arena/nb/articles/6880968-account-settings#:~:text=your%20notification%20settings.-,Applications,-In%20applications%20you), finn Solibri-programmet og klikk på tilbakekall.
+Gå til programmers side i Catenda Hub [kontoinnstillinger](https://intercom.help/bimsync-arena/nb/articles/6880968-kontosida#:~:text=your%20notification%20settings.-,Applications,-In%20applications%20you), finn Solibri-programmet og klikk på tilbakekall.
 
 ### 1.5 **Koble fra Catenda-serveren**
 

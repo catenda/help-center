@@ -1,10 +1,10 @@
 # Topic Banner - Navigating topics
 
-If you select an topic from an [topic board](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) a new window will appear for that topic. This is what an topic window can look like:
+If you select an topic from an [topic board](https://support.catenda.com/en/articles/4670271-topics-page#h_6a5895256b) a new window will appear for that topic. This is what an topic window can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/01-intro.png)
 
-1\. The topic banner will be described in this article. 2\. You will find the topic banner above the [Topic header](https://support.catenda.com/en/articles/8400566-issue-header). 3\. To the right of the topic header and body you will find the [right information panel](https://support.catenda.com/en/articles/8053299-issue-right-panel). 4\. Below the header of an topic you will find the [topic body](https://support.catenda.com/en/articles/8053352-issue-body).
+1\. The topic banner will be described in this article. 2\. You will find the topic banner above the [Topic header](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic). 3\. To the right of the topic header and body you will find the [right information panel](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic). 4\. Below the header of an topic you will find the [topic body](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic).
 
 ## 1. **Breadcrumbs**
 
@@ -12,11 +12,11 @@ If you select an topic from an [topic board](https://support.catenda.com/en/arti
 
 ### 1.1 **Topics**
 
-Click on topics in the breadcrumbs to be taken back to the current [topic board](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b).
+Click on topics in the breadcrumbs to be taken back to the current [topic board](https://support.catenda.com/en/articles/4670271-topics-page#h_6a5895256b).
 
 ### 1.2 **Topic** **board dropdown**
 
-Select an [topic board](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) in the topic boards dropdown in the breadcrumbs to be taken to that topic board.
+Select an [topic board](https://support.catenda.com/en/articles/4670271-topics-page#h_6a5895256b) in the topic boards dropdown in the breadcrumbs to be taken to that topic board.
 
 ### 1.3 **Topic number and title**
 
@@ -36,7 +36,7 @@ _Previous and next buttons_ - Go to the previous or next topic in the filtered t
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/04-top-buttons.png)
 
-_New topic_ - Create a [new topic](https://support.catenda.com/en/articles/4670268-creating-a-new-issue) _Clone topic_  - Make a copy of this topic You will want to clone an topic when you want to make a similar topic that is slightly different to the current topic. It is not recommended to make multiple of the same topic and assign each to a different person. Instead you will want to [mention](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) the different members you want to add to the topic with @member.
+_New topic_ - Create a [new topic](https://support.catenda.com/en/articles/4670268-creating-a-new-topic) _Clone topic_  - Make a copy of this topic You will want to clone an topic when you want to make a similar topic that is slightly different to the current topic. It is not recommended to make multiple of the same topic and assign each to a different person. Instead you will want to [mention](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox#h_2481ad1c8c) the different members you want to add to the topic with @member.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/05-top-buttons.png)
 
@@ -51,4 +51,4 @@ _New topic_ - Create a [new topic](https://support.catenda.com/en/articles/46702
 
 > **Note:** Comments do not get cloned
 
-_Settings_ - Get taken to [topic board settings](https://support.catenda.com/en/articles/4670277-issue-board-settings) by clicking this button
+_Settings_ - Get taken to [topic board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings-page) by clicking this button

@@ -1,6 +1,6 @@
 # Créer un nouveau flux de travail
 
-La page du nouveau flux de travail peut être ouverte en cliquant sur le bouton plus vert sur [la page des flux de travail](https://support.catenda.com/fr/articles/12309903-workflows-page-document-settings) ou en cliquant sur l'action dans le menu d'action du nouvel élément sur [la page des approbations](https://support.catenda.com/fr/articles/8349340-approvals-page). Il est uniquement possible de créer de nouveaux flux de travail dans les projets où le nouveau flux de travail de validation a été demandé à être activé. Le nouveau flux de travail de validation est une fonctionnalité à la demande qui peut être demandée à être activée au démarrage d'un nouveau projet. Il est uniquement possible de créer un projet basé sur un projet modèle lorsque le nouveau flux de travail de validation n'est pas activé dans ce projet modèle. Voici à quoi peut ressembler la partie titre d'une nouvelle approbation :
+La page du nouveau flux de travail peut être ouverte en cliquant sur le bouton plus vert sur [la page des flux de travail](https://support.catenda.com/fr/articles/12309903-page-workflows-parametres-des-documents) ou en cliquant sur l'action dans le menu d'action du nouvel élément sur [la page des approbations](https://support.catenda.com/fr/articles/8349340-page-des-validations-heritage). Il est uniquement possible de créer de nouveaux flux de travail dans les projets où le nouveau flux de travail de validation a été demandé à être activé. Le nouveau flux de travail de validation est une fonctionnalité à la demande qui peut être demandée à être activée au démarrage d'un nouveau projet. Il est uniquement possible de créer un projet basé sur un projet modèle lorsque le nouveau flux de travail de validation n'est pas activé dans ce projet modèle. Voici à quoi peut ressembler la partie titre d'une nouvelle approbation :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
 
@@ -217,7 +217,7 @@ Dans le champ modèles de sujet, vous pouvez choisir le modèle que le système 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/23-br-topic-template.png)
 
-Il est possible de choisir un modèle parmi les modèles de sujet existants. [En savoir plus sur les modèles de sujet](https://support.catenda.com/fr/articles/14076010-topic-template-settings-page)
+Il est possible de choisir un modèle parmi les modèles de sujet existants. [En savoir plus sur les modèles de sujet](https://support.catenda.com/fr/articles/14076010-page-des-parametres-des-gabarits-de-sujet)
 
 Lorsqu'il n'y a pas de modèle, vous avez la possibilité d'en créer un directement dans la vue des paramètres.
 

@@ -4,7 +4,7 @@
 
 Das Archivierungsportal ermöglicht es Ihnen, Dokumente und Themen aus Catenda Hub in das externe Archivierungssystem Ihrer Organisation zu archivieren. Es ist für denjenigen gedacht, der in einem oder mehreren Projekten für die Archivierung verantwortlich ist.
 
-Öffnen Sie das Portal unter [archiving.catenda.com](https://archiving.catenda.com) und klicken Sie auf **Mit Catenda Hub verbinden**. Das Portal hat sein eigenes Passwort nicht, daher authentifizieren Sie sich bei Catenda Hub und werden hierher zurückgebracht. Für das Konto selbst siehe [Anmeldeseite](https://support.catenda.com/de/articles/7891486-sign-in-page).
+Öffnen Sie das Portal unter [archiving.catenda.com](https://archiving.catenda.com) und klicken Sie auf **Mit Catenda Hub verbinden**. Das Portal hat sein eigenes Passwort nicht, daher authentifizieren Sie sich bei Catenda Hub und werden hierher zurückgebracht. Für das Konto selbst siehe [Anmeldeseite](https://support.catenda.com/de/articles/7891486-anmeldeseite).
 
 Die Projektseite kann ungefähr so aussehen:
 
@@ -32,7 +32,7 @@ Beim Versenden wird das Element an das Archivierungssystem übergeben, das es ab
 
 Alles, das fehlschlägt, wird mit dem Grund des Fehlschlags aufgezeichnet und kann erneut versendet werden, entweder einzeln oder für das gesamte Projekt auf einmal.
 
-> **Hinweis:** Die Artikel, die diese Schritte im Detail beschreiben, sind nur für Benutzer mit Zugriff auf das Archivierungsportal verfügbar. Welches Archivierungssystem das Portal nutzt, siehe [Archivierungssysteme und Projektnummern im Archivierungsportal](https://support.catenda.com/de/articles/16968887-archive-systems-and-project-numbers-in-the-archiving-portal).
+> **Hinweis:** Die Artikel, die diese Schritte im Detail beschreiben, sind nur für Benutzer mit Zugriff auf das Archivierungsportal verfügbar. Welches Archivierungssystem das Portal nutzt, siehe [Archivierungssysteme und Projektnummern im Archivierungsportal](https://support.catenda.com/de/articles/16968887-archivsysteme-und-projektnummern-im-archivierungsportal).
 
 ## 2. **Ihre Projekte**
 
@@ -42,7 +42,7 @@ Nur Projekte, bei denen Sie Administratorrechte haben, werden aufgelistet. Wenn 
 
 Jedes Projekt wird mit seinem Besitzer und einer Anzahl der Dokumente und Themen aufgelistet, die derzeit archiviert werden sollen.
 
-Klicken Sie auf **Archiv verwalten** für ein Projekt, um es zu öffnen. Was die Projektseite von dort aus zeigt, wird in [Projektinhaltsseite im Archivierungsportal](https://support.catenda.com/de/articles/16968871-project-content-page-in-the-archiving-portal) beschrieben, die nur Benutzer mit Zugriff auf das Archivierungsportal lesen können.
+Klicken Sie auf **Archiv verwalten** für ein Projekt, um es zu öffnen. Was die Projektseite von dort aus zeigt, wird in [Projektinhaltsseite im Archivierungsportal](https://support.catenda.com/de/articles/16968871-projektinhaltsseite-im-archivierungsportal) beschrieben, die nur Benutzer mit Zugriff auf das Archivierungsportal lesen können.
 
 > **Hinweis:** Das Portal bestimmt, welche Projekte angezeigt werden, indem es Ihre Teammitgliedschaften überprüft. Wenn diese Überprüfung fehlschlägt, wird Ihnen mitgeteilt, dass einige Projekte möglicherweise nicht sichtbar sind, anstatt stillschweigend eine kurze Liste anzuzeigen.
 
@@ -52,7 +52,7 @@ Drei Steuerelemente befinden sich oben rechts, und diese Seite ist der erste Ort
 
 **Sprache** Das Portal ist in Englisch und Norwegisch Bokmål verfügbar, und der Sprachwahlschalter wechselt zwischen ihnen.
 
-**Statistiken** **Statistiken anzeigen** öffnet eine Zusammenfassung dessen, was über alle Projekte hinweg archiviert wurde. Das Symbol wird nur Organisationseigentümern angezeigt und ersetzt das Zahnradsymbol, das eine Projektseite anzeigt. Diese Seite wird in [Statistikseite im Archivierungsportal](https://support.catenda.com/de/articles/16968884-statistics-page-in-the-archiving-portal) beschrieben, und die projektspezifischen Zahlen in [Projekteinstellungsseite im Archivierungsportal](https://support.catenda.com/de/articles/16968883-project-settings-page-in-the-archiving-portal). Beide Artikel sind nur für Benutzer mit Zugriff auf das Archivierungsportal verfügbar.
+**Statistiken** **Statistiken anzeigen** öffnet eine Zusammenfassung dessen, was über alle Projekte hinweg archiviert wurde. Das Symbol wird nur Organisationseigentümern angezeigt und ersetzt das Zahnradsymbol, das eine Projektseite anzeigt. Diese Seite wird in [Statistikseite im Archivierungsportal](https://support.catenda.com/de/articles/16968884-statistikseite-im-archivierungsportal) beschrieben, und die projektspezifischen Zahlen in [Projekteinstellungsseite im Archivierungsportal](https://support.catenda.com/de/articles/16968883-projekteinstellungsseite-im-archivierungsportal). Beide Artikel sind nur für Benutzer mit Zugriff auf das Archivierungsportal verfügbar.
 
 **Abmelden** Meldet Sie vom Portal ab.
 

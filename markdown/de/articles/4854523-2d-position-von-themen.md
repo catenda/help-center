@@ -2,7 +2,7 @@
 
 > Beschreibung der 2D-Standortmarkierungen für Themen
 
-Ein Standort kann auf Themen angewendet werden, indem eine Markierung mit einer x-, y-Koordinate im [2D-Viewer](https://support.catenda.com/de/articles/4854537-2d-viewer) auf einer Etage aus einem IFC-Modell oder einem konfigurierten Gebäude mit einer Höhe platziert wird. Farbige Punkte markieren den Standort von Themen im 2D-Viewer und bieten ein sofortiges visuelles Verständnis darüber, wo sich Themen befinden sowie deren Status und Typ. Mit Themenstandorten kann Ihr Projekt eine massiv verbesserte Kontrolle über die Platzierung von Themen nutzen. Diese Funktion ergänzt die Funktionalität unserer mobilen Anwendung, [Catenda Site](https://support.catenda.com/de/articles/6530821-download-your-mobile-app-catenda-site). Mit Markierungen verfügen Projekte über eine nahtlose Erstellung, Überwachung und Verwaltung von Themen, die vor Ort erstellt und am Schreibtisch verwaltet werden.
+Ein Standort kann auf Themen angewendet werden, indem eine Markierung mit einer x-, y-Koordinate im [2D-Viewer](https://support.catenda.com/de/articles/4854537-2d-viewer) auf einer Etage aus einem IFC-Modell oder einem konfigurierten Gebäude mit einer Höhe platziert wird. Farbige Punkte markieren den Standort von Themen im 2D-Viewer und bieten ein sofortiges visuelles Verständnis darüber, wo sich Themen befinden sowie deren Status und Typ. Mit Themenstandorten kann Ihr Projekt eine massiv verbesserte Kontrolle über die Platzierung von Themen nutzen. Diese Funktion ergänzt die Funktionalität unserer mobilen Anwendung, [Catenda Site](https://support.catenda.com/de/articles/6530821-laden-sie-ihre-mobile-app-catenda-site-herunter). Mit Markierungen verfügen Projekte über eine nahtlose Erstellung, Überwachung und Verwaltung von Themen, die vor Ort erstellt und am Schreibtisch verwaltet werden.
 
 So können Markierungen im 2D-Viewer aussehen:
 
@@ -38,7 +38,7 @@ Ziehen Sie die 2D-Ansicht in der oberen linken Ecke oder doppelklicken Sie auf d
 
 ### 1.3 **Markierungen suchen**
 
-**Ein Thema von einer Markierung auf einer Etage in der 2D-Ansicht suchen** Fahren Sie mit der Maus über eine Markierung in der 2D-Ansicht, um die Themennummer und den Titel des Themas anzuzeigen, zu dem sie gehört. Wenn auf eine Markierung in der 2D-Ansicht geklickt wird, ändert sich der Inhaltsbereich, um das ausgewählte Thema auf seinem Themen-Board auf der [Seite Themen](https://support.catenda.com/de/articles/4670271-topics-page) anzuzeigen.
+**Ein Thema von einer Markierung auf einer Etage in der 2D-Ansicht suchen** Fahren Sie mit der Maus über eine Markierung in der 2D-Ansicht, um die Themennummer und den Titel des Themas anzuzeigen, zu dem sie gehört. Wenn auf eine Markierung in der 2D-Ansicht geklickt wird, ändert sich der Inhaltsbereich, um das ausgewählte Thema auf seinem Themen-Board auf der [Seite Themen](https://support.catenda.com/de/articles/4670271-themen-seite) anzuzeigen.
 
 **Eine Markierung im 2D-Viewer von einem Thema aus suchen** Um zu sehen, wo die Markierung eines Themas im 2D-Viewer platziert wurde, öffnen Sie das Thema in seinem Themen-Board und klicken Sie auf den Text "Hat Markierung" in der Themenkopfzeile.
 
@@ -87,7 +87,7 @@ Beachten Sie, dass sich der Cursor in ein Fadenkreuz verwandelt, sobald Sie übe
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/11-add-marker-from-2d-viewer.png)
 
-**Neues Thema mit Markierung erstellen** Navigieren Sie zunächst zu dem Themen-Board, in dem Sie ein Thema mit einer Markierung erstellen möchten. Klicken Sie anschließend mit der rechten Maustaste im 2D-Viewer und wählen Sie "Neues Thema mit Markierung erstellen" in dem Dialog, der sich öffnet, um den [Prozess zur Erstellung neuer Themen](https://support.catenda.com/de/articles/4670268-creating-a-new-topic) mit bereits angewendeter Markierung zu initiieren.
+**Neues Thema mit Markierung erstellen** Navigieren Sie zunächst zu dem Themen-Board, in dem Sie ein Thema mit einer Markierung erstellen möchten. Klicken Sie anschließend mit der rechten Maustaste im 2D-Viewer und wählen Sie "Neues Thema mit Markierung erstellen" in dem Dialog, der sich öffnet, um den [Prozess zur Erstellung neuer Themen](https://support.catenda.com/de/articles/4670268-ein-neues-thema-erstellen) mit bereits angewendeter Markierung zu initiieren.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/12-add-marker-from-2d-viewer.png)
 

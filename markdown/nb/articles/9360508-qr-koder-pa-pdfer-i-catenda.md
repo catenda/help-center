@@ -1,6 +1,6 @@
 # QR-kode på PDF-er i Catenda
 
-QR-koder kan konfigureres per mappe i [mappe-konfigurasjonen](https://support.catenda.com/nb/articles/7831371-document-settings#h_6672c14d90) for [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-document-settings).
+QR-koder kan konfigureres per mappe i [mappe-konfigurasjonen](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger#h_6672c14d90) for [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger).
 
 Denne funksjonen gir Catenda-brukere muligheten til å sjekke om dokumentet de bruker er den siste versjonen, ved å skanne QR-koden som er skrevet ut på PDF-en.
 
@@ -46,11 +46,11 @@ Hvis du har et dokument som du ikke opprettet, og du vil legge til QR-plassholdi
 
 ### 2.3 Plassering av QR-kode på Catenda-dokument
 
-Hvis dokumentet ditt allerede er på Catenda, må du legge til QR-plassholdingen og laste opp en ny revisjon. Hvis du ikke har tilgang til et PDF-redigeringsprogram, kan du bruke [bildemerkeannotasjonsverktøy](https://support.catenda.com/nb/articles/5001165-document-preview-and-annotations#h_6e3ac983b6) for å legge til QR-plassholdingen i dokumentet ditt.
+Hvis dokumentet ditt allerede er på Catenda, må du legge til QR-plassholdingen og laste opp en ny revisjon. Hvis du ikke har tilgang til et PDF-redigeringsprogram, kan du bruke [bildemerkeannotasjonsverktøy](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader#h_6e3ac983b6) for å legge til QR-plassholdingen i dokumentet ditt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/04-placing-the-qr-code-a-catenda-document.png)
 
-For å lagre dokumentet slik at QR-plassholdingen blir gjenkjent, skriver du ut dokumentet med [utskriftsknappen](https://support.catenda.com/nb/articles/5001165-document-preview-and-annotations#h_709cb0ed70) som finnes i øvre venstre hjørne av dokumentforhåndsvisningen din.
+For å lagre dokumentet slik at QR-plassholdingen blir gjenkjent, skriver du ut dokumentet med [utskriftsknappen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader#h_709cb0ed70) som finnes i øvre venstre hjørne av dokumentforhåndsvisningen din.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/05-placing-the-qr-code-a-catenda-document.png)
 
@@ -82,7 +82,7 @@ Her er et eksempel på plasseringen av QR-kodens plassholder og resultatene ette
 
 ### 3.1 **Dokumenthistorikk**
 
-Etter at du har lastet opp et dokument med en QR-kode-plassholder, kan du se at det har blitt behandlet i dokumenthistorikken til [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8302244-right-menu-of-a-revision).
+Etter at du har lastet opp et dokument med en QR-kode-plassholder, kan du se at det har blitt behandlet i dokumenthistorikken til [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/10-document-history.png)
 

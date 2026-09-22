@@ -1,6 +1,6 @@
 # Outils d'aperçu de document
 
-Lorsque la [page d'aperçu](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations) d'un [type de fichier pouvant être aperçu](https://support.catenda.com/fr/articles/4670320-previewing-file-types-on-catenda-hub) est d'abord ouvert, la barre d'outils suivante s'affiche en haut.
+Lorsque la [page d'aperçu](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations) d'un [type de fichier pouvant être aperçu](https://support.catenda.com/fr/articles/4670320-apercu-des-types-de-fichiers-sur-catenda-hub) est d'abord ouvert, la barre d'outils suivante s'affiche en haut.
 
 ![Vue Annoter Formes Insérer Mesurer](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/01-intro.png)
 
@@ -13,7 +13,7 @@ Si l'échelle du navigateur est définie sur une grande taille ou si une petite 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/03-intro.png)
 Les formes, le texte et les légendes peuvent être ajoutés, le texte peut être mis en surbrillance, des mesures peuvent être prises et vous pouvez dessiner à main levée.
 Tout cela peut être enregistré ultérieurement dans les sujets.
-Cliquez [ici](https://support.catenda.com/fr/articles/10209740-saving-a-markup) pour en savoir plus sur l'enregistrement des annotations.
+Cliquez [ici](https://support.catenda.com/fr/articles/10209740-enregistrer-un-markup) pour en savoir plus sur l'enregistrement des annotations.
 
 ## 1. **Menu**
 
@@ -71,7 +71,7 @@ Thème Mode clair - Défaut Mode sombre
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/08-settings.png)
 
-Cliquez sur le bouton d'action pour chaque raccourci pour lier le raccourci à une autre touche. Veuillez trouver les raccourcis actuels [ici](https://support.catenda.com/fr/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls).
+Cliquez sur le bouton d'action pour chaque raccourci pour lier le raccourci à une autre touche. Veuillez trouver les raccourcis actuels [ici](https://support.catenda.com/fr/articles/4670267-resume-des-raccourcis-et-commandes-de-base-les-plus-importants).
 
 **Paramètres avancés** Dans le menu Paramètres avancés, différents paramètres peuvent être activés et désactivés. Voici à quoi peut ressembler le menu des paramètres avancés:
 
@@ -191,7 +191,7 @@ Voici à quoi peuvent ressembler les outils du menu Insérer:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/21-insert-menu.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/11678493-document-preview-tools-rubber-stamp) pour en savoir plus sur le menu des tampons en caoutchouc.
+Cliquez [ici](https://support.catenda.com/fr/articles/11678493-outils-d-apercu-de-document-tampon-caoutchouc) pour en savoir plus sur le menu des tampons en caoutchouc.
 
 _Image - Raccourci:_ (I) Sélectionnez l'outil Image et cliquez n'importe où dans le document pour ajouter une image à cet emplacement.
 

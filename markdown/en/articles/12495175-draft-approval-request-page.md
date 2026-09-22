@@ -1,6 +1,6 @@
 # Draft approval request page
 
-Draft approvals can be opened by clicking on a draft approval card on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page). _Access required:_ Draft approval request creator
+Draft approvals can be opened by clicking on a draft approval card on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy). _Access required:_ Draft approval request creator
 
 This is what the draft approval request page can look like:
 
@@ -32,7 +32,7 @@ The workflow that is selected during the creation of this approval
 
 ### 2.3 **Description**
 
-The description of the approval The description stays editable after the approval request has been submitted. Editing is limited to the person who created the approval request and to project administrators. The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+The description of the approval The description stays editable after the approval request has been submitted. Editing is limited to the person who created the approval request and to project administrators. The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox).
 
 ## 3. **Step ribbon**
 

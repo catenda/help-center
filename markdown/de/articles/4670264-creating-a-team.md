@@ -2,7 +2,7 @@
 
 In einem Bauprojekt können Teams wertvoll sein, da Personen häufig hinzukommen, die Rollen wechseln oder verschiedene Arbeitsgruppen verlassen. Die Einrichtung von Teams kann Missverständnisse nach einem Rollenwechsel im Projekt verhindern.
 
-Erstellen Sie ein Team, indem Sie das Aktionsmenü rechts neben der grünen Plus-Schaltfläche auf der Seite [Mitglieder und Teams](https://support.catenda.com/de/articles/4670291-members-and-teams-page) öffnen, unabhängig davon, welche Registerkarte ausgewählt ist.
+Erstellen Sie ein Team, indem Sie das Aktionsmenü rechts neben der grünen Plus-Schaltfläche auf der Seite [Mitglieder und Teams](https://support.catenda.com/de/articles/4670291-mitglieder-und-teams-seite) öffnen, unabhängig davon, welche Registerkarte ausgewählt ist.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/01-intro.png)
 
@@ -44,4 +44,4 @@ _Mitglied_ - Standardmitglieder haben standardmäßig Lese- und Schreibzugriff a
 
 ### 2.3 **Erstellen**
 
-Wenn das Team erstellt wird, wird die Seite [Team-Inhalte](https://support.catenda.com/de/articles/7891755-team-page) geöffnet. Von dort aus können Mitglieder zum Team hinzugefügt werden.
+Wenn das Team erstellt wird, wird die Seite [Team-Inhalte](https://support.catenda.com/de/articles/7891755-teamseite) geöffnet. Von dort aus können Mitglieder zum Team hinzugefügt werden.

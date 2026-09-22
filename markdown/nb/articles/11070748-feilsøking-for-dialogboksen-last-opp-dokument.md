@@ -14,7 +14,7 @@ Når en fil har en potensielt skadelig filtype, vil den ikke bli lastet opp. Det
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qn4yk3x7/02-executable-and-script-filetypes.png)
 
-Følgende filtyper som kan være potensielt skadelige er ikke tillatt. Se hvilke filtyper som ikke kan lastes opp i [denne](https://support.catenda.com/nb/articles/4670320-previewing-file-types-on-catenda-hub) artikkelen.
+Følgende filtyper som kan være potensielt skadelige er ikke tillatt. Se hvilke filtyper som ikke kan lastes opp i [denne](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub) artikkelen.
 
 ## 3. **Filnavn avkortet**
 

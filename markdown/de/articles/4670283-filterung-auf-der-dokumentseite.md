@@ -12,11 +12,11 @@ Klicken Sie auf die Filterschaltfläche oben links, um ein Panel auf der linken 
 
 ### 1.1 **Aktuellen Filter speichern und teilen**
 
-Gehen Sie zur URL einer gefilterten Seite, um diese Seite mit dem angewendeten Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/de/articles/11401493-saving-a-filter-link), um mehr darüber zu erfahren, wie Sie Filter speichern und freigeben. Beachten Sie, dass es im Gegensatz zu anderen Filtermenüs nicht möglich ist, persönliche Filter oben im Filtermenü auf der Seite "Genehmigungen" zu speichern.
+Gehen Sie zur URL einer gefilterten Seite, um diese Seite mit dem angewendeten Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/de/articles/11401493-speichern-und-freigeben-eines-filterlinks), um mehr darüber zu erfahren, wie Sie Filter speichern und freigeben. Beachten Sie, dass es im Gegensatz zu anderen Filtermenüs nicht möglich ist, persönliche Filter oben im Filtermenü auf der Seite "Genehmigungen" zu speichern.
 
 ### 1.2 **Leere Filter ausblenden**
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/8551755-saving-filters), um mehr über die Begrenzung von Filterergebnissen zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8551755-filterergebnisse-begrenzen), um mehr über die Begrenzung von Filterergebnissen zu erfahren.
 
 ### 1.3 **Registerkarten**
 
@@ -56,7 +56,7 @@ Mitgliedername - `publishedBy=<Member GUID>&subFolders=true`
 
 ### 1.11 **Datumsfilter**
 
-Veröffentlicht - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klicken Sie auf Daten auswählen, um die Daten auszuwählen, in deren Bereich Sie suchen möchten. Klicken Sie [hier](https://support.catenda.com/de/articles/6511685-date-filter), um mehr über den Datumsfilter zu erfahren.
+Veröffentlicht - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klicken Sie auf Daten auswählen, um die Daten auszuwählen, in deren Bereich Sie suchen möchten. Klicken Sie [hier](https://support.catenda.com/de/articles/6511685-datum-filter), um mehr über den Datumsfilter zu erfahren.
 
 ### 1.12 **Genehmigungen offen - Status nur Workflow**
 
@@ -90,7 +90,7 @@ Name der Sammlung - `collections=<GUID>&subFolders=true`
 
 ### 1.17 **Gelöscht**
 
-Gelöscht - `deleted=deleted&subFolders=true` Siehe [hier](https://support.catenda.com/de/articles/4670249-undeleting-restoring-documents-or-folders), wie Sie nach gelöschten Dokumenten suchen
+Gelöscht - `deleted=deleted&subFolders=true` Siehe [hier](https://support.catenda.com/de/articles/4670249-wiederherstellen-wiederherstellen-von-dokumenten-oder-ordnern), wie Sie nach gelöschten Dokumenten suchen
 
 ## 2. **Textsuche**
 

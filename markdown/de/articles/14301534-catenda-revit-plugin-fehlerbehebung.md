@@ -38,7 +38,7 @@ Es ist wichtig zu beachten, dass [Revit LT Third-Party Add-ins oder Plugins nich
 
 ### 3.2 **Versionskompatibilität**
 
-Um die Ausrichtung auf die neuesten Software-Updates und Leistungsverbesserungen zu gewährleisten, werden die Integrationen regelmäßig aktualisiert. Um eine umfassende Liste der derzeit unterstützten Jahresversionen für sowohl das Revit Add-in als auch das Dynamo-Paket zu erhalten, lesen Sie bitte den Artikel [Plugins und Integrationen](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrations).
+Um die Ausrichtung auf die neuesten Software-Updates und Leistungsverbesserungen zu gewährleisten, werden die Integrationen regelmäßig aktualisiert. Um eine umfassende Liste der derzeit unterstützten Jahresversionen für sowohl das Revit Add-in als auch das Dynamo-Paket zu erhalten, lesen Sie bitte den Artikel [Plugins und Integrationen](https://support.catenda.com/de/articles/8396532-catenda-plugins-integrationen).
 
 ## 4. Catenda Hub Dynamo Package
 

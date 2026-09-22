@@ -14,7 +14,7 @@ Lorsqu'un fichier a un type de fichier potentiellement nuisible, il ne sera pas 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qn4yk3x7/02-executable-and-script-filetypes.png)
 
-Les types de fichiers suivants, qui peuvent potentiellement être nuisibles, ne sont pas autorisés. Consultez les types de fichiers qui ne peuvent pas être téléchargés dans [cet](https://support.catenda.com/fr/articles/4670320-previewing-file-types-on-catenda-hub) article.
+Les types de fichiers suivants, qui peuvent potentiellement être nuisibles, ne sont pas autorisés. Consultez les types de fichiers qui ne peuvent pas être téléchargés dans [cet](https://support.catenda.com/fr/articles/4670320-apercu-des-types-de-fichiers-sur-catenda-hub) article.
 
 ## 3. **Nom de fichier tronqué**
 

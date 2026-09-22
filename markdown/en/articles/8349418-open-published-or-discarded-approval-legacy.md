@@ -1,6 +1,6 @@
 # Open, published or discarded approval - Legacy
 
-Click on an approval on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page#h_f6b835862b) to open the approval page of the approval.
+Click on an approval on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy#h_f6b835862b) to open the approval page of the approval.
 
 This is what the approvals page can look like:
 
@@ -18,7 +18,7 @@ Click here to read more about approvals settings.
 
 ## 2. **Approval navigation**
 
-_Back to approvals button_ - Get taken back to the [Approvals page](https://support.catenda.com/en/articles/8349340-approvals-page). _Top progress bar_ - Shows the approvals you can navigate to
+_Back to approvals button_ - Get taken back to the [Approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy). _Top progress bar_ - Shows the approvals you can navigate to
 
 > **Note:** You can only navigate as many approvals as you had loaded on the approval page. You can load 100 approvals at a time by scrolling down the approval list view. Unless you scroll all the way down on the approval page or there are less than 100 issues in the board. This total number is therefore not indicative of the total approvals on the approvals page.
 
@@ -78,7 +78,7 @@ If a document has been found to be infected with a virus it will be removed from
 
 ### 5.1 **Description**
 
-The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox).
 
 ### 5.2 **Actions in the draft for approval table**
 
@@ -106,7 +106,7 @@ _Status_ - The draft status of the draft
 
 **File review status** The file review status either be Pending approval, Approved with comment, Approved or Rejected
 
-Comment If there is a comment in the approval you will see a preview of the last comment next to the file review status. Approval comments follow the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+Comment If there is a comment in the approval you will see a preview of the last comment next to the file review status. Approval comments follow the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox).
 
 **Action menu** Add review If no reviewers are set anyone can add a review If there are reviewers in the approval header only reviewers can add a review By adding a review you can either comment, approve, approve with comment or reject each draft.
 

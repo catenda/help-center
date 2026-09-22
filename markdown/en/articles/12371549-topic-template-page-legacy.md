@@ -1,6 +1,6 @@
 # Topic template page - Legacy
 
-The topic template page can be found by clicking on a topic template card on the [topic templates page](https://support.catenda.com/en/articles/12367730-topic-templates-page). _Access required_: Administrator
+The topic template page can be found by clicking on a topic template card on the [topic templates page](https://support.catenda.com/en/articles/12367730-topic-templates-page-legacy). _Access required_: Administrator
 
 This is what the topics template page can look like:
 
@@ -14,7 +14,7 @@ The topics templates page actions can be found by clicking on the action menu to
 
 ### 1.1 **New topic template**
 
-Click [here](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template) to read more about creating new topic templates.
+Click [here](https://support.catenda.com/en/articles/12372007-creating-a-new-topic-template-legacy) to read more about creating new topic templates.
 
 ## 2. **Topic template**
 

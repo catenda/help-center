@@ -2,7 +2,7 @@
 
 > Beschrijving van de 2D-locatiemarkeringen op onderwerpen
 
-Locatie kan worden toegepast op onderwerpen door een marker op een x, y-coördinaat in de [2D-viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer) op een verdieping van een IFC-model of een geconfigureerd gebouw met een hoogte te plaatsen. Gekleurde puntjes markeren de locatie van onderwerpen in de 2D-viewer, wat onmiddellijk inzicht geeft in waar onderwerpen zich bevinden en wat hun status en type zijn. Met behulp van onderwerplocaties kan uw project profiteren van aanzienlijk verbeterde controle over de plaatsing van onderwerpen. Deze functie completeert de functionaliteit van onze mobiele applicatie, [Catenda Site](https://support.catenda.com/nl/articles/6530821-download-your-mobile-app-catenda-site). Met markeringen kunnen projecten profiteren van naadloze creatie, bewaking en beheer van onderwerpen die in het veld zijn gemaakt, terug bij het bureau.
+Locatie kan worden toegepast op onderwerpen door een marker op een x, y-coördinaat in de [2D-viewer](https://support.catenda.com/nl/articles/4854537-2d-viewer) op een verdieping van een IFC-model of een geconfigureerd gebouw met een hoogte te plaatsen. Gekleurde puntjes markeren de locatie van onderwerpen in de 2D-viewer, wat onmiddellijk inzicht geeft in waar onderwerpen zich bevinden en wat hun status en type zijn. Met behulp van onderwerplocaties kan uw project profiteren van aanzienlijk verbeterde controle over de plaatsing van onderwerpen. Deze functie completeert de functionaliteit van onze mobiele applicatie, [Catenda Site](https://support.catenda.com/nl/articles/6530821-download-je-mobiele-app-catenda-site). Met markeringen kunnen projecten profiteren van naadloze creatie, bewaking en beheer van onderwerpen die in het veld zijn gemaakt, terug bij het bureau.
 
 Dit is hoe markeringen eruit kunnen zien in de 2D-viewer:
 
@@ -38,7 +38,7 @@ Sleep op de linkerbovenhoek van de 2D-weergave of dubbelklik op de titel van de 
 
 ### 1.3 **Markeringen zoeken**
 
-**Een onderwerp van een markering op een verdieping in de 2D-weergave zoeken** Beweeg over een markering in de 2D-weergave om het onderwerpnummer en de titel van het onderwerp waarvan het deel uitmaakt, te zien. Wanneer op een markering in de 2D-weergave wordt geklikt, verandert het inhoudspaneel om het geselecteerde onderwerp in het bijbehorende onderwerpbord op de [onderwerppagina](https://support.catenda.com/nl/articles/4670271-topics-page) weer te geven.
+**Een onderwerp van een markering op een verdieping in de 2D-weergave zoeken** Beweeg over een markering in de 2D-weergave om het onderwerpnummer en de titel van het onderwerp waarvan het deel uitmaakt, te zien. Wanneer op een markering in de 2D-weergave wordt geklikt, verandert het inhoudspaneel om het geselecteerde onderwerp in het bijbehorende onderwerpbord op de [onderwerppagina](https://support.catenda.com/nl/articles/4670271-pagina-topics) weer te geven.
 
 **Een markering in de 2D-viewer van een onderwerp zoeken** Om te zoeken waar de markering van een onderwerp in de 2D-viewer is geplaatst, opent u het onderwerp in het bijbehorende onderwerpbord en klikt u op de tekst "Heeft markering" in de onderwerpheader.
 
@@ -87,7 +87,7 @@ Merk op dat de cursor in een kruisdraden verandert zodra u over de 2D-viewer bew
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/11-add-marker-from-2d-viewer.png)
 
-**Nieuw onderwerp met markering maken** Navigeer eerst naar het onderwerpbord waarin u een onderwerp met een markering wilt maken. Rechtsklik vervolgens in de 2D-viewer en kies "Nieuw onderwerp met markering maken" in het contextmenu dat opens om het [nieuw onderwerpcreatieproces](https://support.catenda.com/nl/articles/4670268-creating-a-new-topic) in te stellen met de markering al toegepast.
+**Nieuw onderwerp met markering maken** Navigeer eerst naar het onderwerpbord waarin u een onderwerp met een markering wilt maken. Rechtsklik vervolgens in de 2D-viewer en kies "Nieuw onderwerp met markering maken" in het contextmenu dat opens om het [nieuw onderwerpcreatieproces](https://support.catenda.com/nl/articles/4670268-een-nieuw-onderwerp-aanmaken) in te stellen met de markering al toegepast.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qm9hb6bs/12-add-marker-from-2d-viewer.png)
 

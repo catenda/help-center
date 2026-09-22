@@ -14,11 +14,11 @@ Klicken Sie auf die Filter-Schaltfläche oben links, um ein Panel auf der linken
 
 ### 1.1 **Speichern und Freigeben des aktuellen Filters**
 
-Gehen Sie zur URL einer gefilterten Seite, um diese Seite mit dem angewendeten Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/de/articles/11401493-saving-a-filter-link), um mehr über das Speichern und Freigeben von Filtern zu erfahren
+Gehen Sie zur URL einer gefilterten Seite, um diese Seite mit dem angewendeten Filter zu laden. Die angewendeten Filter können oben im Filtermenü gespeichert werden. Klicken Sie [hier](https://support.catenda.com/de/articles/11401493-speichern-und-freigeben-eines-filterlinks), um mehr über das Speichern und Freigeben von Filtern zu erfahren
 
 ### 1.2 **Leere Filter ausblenden**
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/8551755-saving-filters), um mehr über das Einschränken von Filterergebnissen zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8551755-filterergebnisse-begrenzen), um mehr über das Einschränken von Filterergebnissen zu erfahren.
 
 ### 1.3 **Registerkarten**
 

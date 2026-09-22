@@ -1,6 +1,6 @@
 # 2D-plassering av saker - Catenda Site
 
-Plassering kan brukes på saker ved å plassere en markør ved en x, y, z-koordinat i [2D-viseren](https://support.catenda.com/nb/articles/4854537-2d-viewer). Fargede prikker markerer plasseringen av saker i 2D-viseren og gir en øyeblikkelig visuell forståelse av hvor saker befinner seg, samt deres status og type. Ved å bruke sakplasseringer kan prosjektet ditt oppnå massivt forbedret kontroll over plasseringen av saker. Denne funksjonen utfyller funksjonaliteten til vår nettleserapplikasjon, [Catenda Hub](https://support.catenda.com/nb/articles/6530821-download-your-mobile-app-catenda-site). Med markører gis prosjekter muligheten til sømløs opprettelse, overvåking og administrasjon av saker som er opprettet i felten, tilbake ved skrivebordet.
+Plassering kan brukes på saker ved å plassere en markør ved en x, y, z-koordinat i [2D-viseren](https://support.catenda.com/nb/articles/4854537-2d-viser). Fargede prikker markerer plasseringen av saker i 2D-viseren og gir en øyeblikkelig visuell forståelse av hvor saker befinner seg, samt deres status og type. Ved å bruke sakplasseringer kan prosjektet ditt oppnå massivt forbedret kontroll over plasseringen av saker. Denne funksjonen utfyller funksjonaliteten til vår nettleserapplikasjon, [Catenda Hub](https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site). Med markører gis prosjekter muligheten til sømløs opprettelse, overvåking og administrasjon av saker som er opprettet i felten, tilbake ved skrivebordet.
 
 Slik kan markører se ut i 2D-viseren på Catenda Site:
 
@@ -66,7 +66,7 @@ Når en sak åpnes i et sakbrett, utheves fargen på den markøren i grønt med 
 
 ### 1.5 **Markørkonfigurering**
 
-Trykk på tannhjulikonet i 2D-viseren for å åpne Catenda Site 2D-viser [innstillinger](https://support.catenda.com/nb/articles/7748370-2d-viewer-catenda-site#h_63e1728758)
+Trykk på tannhjulikonet i 2D-viseren for å åpne Catenda Site 2D-viser [innstillinger](https://support.catenda.com/nb/articles/7748370-2d-viser-catenda-site#h_63e1728758)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6mjtp9hj/10-marker-configuration.png)
 

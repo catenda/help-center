@@ -24,7 +24,7 @@ Sleep deze twee diagonale lijnen om de grootte van de 2D Viewer over elk gedeelt
 
 ### 2.2 **Titel**
 
-De titel van de bovenbalk is de naam van de verdieping. Als een verdieping van een [verdiepingconfiguratie](https://support.catenda.com/nl/articles/6921756-storey-configurator-page)-gebouw is geselecteerd, bevat de titel de naam van het gebouw en de naam van de huidige verdieping. Als de verdieping van een niet-geconfigureerd model is geselecteerd, bevat de titel de naam van het model.
+De titel van de bovenbalk is de naam van de verdieping. Als een verdieping van een [verdiepingconfiguratie](https://support.catenda.com/nl/articles/6921756-verdiepingsconfiguratorpagina)-gebouw is geselecteerd, bevat de titel de naam van het gebouw en de naam van de huidige verdieping. Als de verdieping van een niet-geconfigureerd model is geselecteerd, bevat de titel de naam van het model.
 
 ### 2.3 **De 2D Viewer openen en sluiten**
 
@@ -49,8 +49,8 @@ _Linkermuisklik_ Als er spaties zijn in de verdieping van de 2D-weergave die voo
 - _Markering toevoegen_<br>Een nieuwe markering toevoegen. Met een geopend onderwerp in het inhoudsvenster kunt u de geselecteerde markering toewijzen. Deze markering wordt pas opgeslagen en zichtbaar voor anderen als deze aan een probleem wordt toegevoegd.
 - _Een nieuw onderwerp met markering maken_<br>Een nieuw onderwerp met markering maken. Deze markering wordt pas opgeslagen en zichtbaar voor anderen als het onderwerp wordt verzonden.
 - _Query maken_
-  - Spatie kruisen - Een [query](https://support.catenda.com/nl/articles/4854514-queries) van alle objecten die elkaar kruisen met de geselecteerde spatie maken
-  - Verdieping kruisen - Een [query](https://support.catenda.com/nl/articles/4854514-queries) van alle objecten die deze verdieping kruisen maken
+  - Spatie kruisen - Een [query](https://support.catenda.com/nl/articles/4854514-query-s) van alle objecten die elkaar kruisen met de geselecteerde spatie maken
+  - Verdieping kruisen - Een [query](https://support.catenda.com/nl/articles/4854514-query-s) van alle objecten die deze verdieping kruisen maken
 
 ### 3.2 **Muisknop ingedrukt houden**
 
@@ -76,7 +76,7 @@ Uitzoomen om alle zichtbare objecten tegelijk weer te geven
 
 Met de rotatieknop kunt u de 2D Viewer roteren.
 
-**Rotatieschuif** De initiële rotatie kan worden geconfigureerd door een locatie met rotatie in te stellen in [projectinstellingen](https://support.catenda.com/nl/articles/4670273-project-settings-page).
+**Rotatieschuif** De initiële rotatie kan worden geconfigureerd door een locatie met rotatie in te stellen in [projectinstellingen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/08-rotation.png)
 
@@ -86,7 +86,7 @@ Met de rotatieknop kunt u de 2D Viewer roteren.
 
 **Herstellen** Klik op Herstellen in de rechterbovenhoek om de schuif terug te stellen op de initiële rotatie.
 
-**Rotatieonderlaag** Gebouwen kunnen worden geconfigureerd in de [verdiepingconfiguratie](https://support.catenda.com/nl/articles/6921756-storey-configurator-page). Elke verdieping in een gebouw kan een tekening als onderlaag hebben die relatief ten opzichte van de modellen in het project is geroteerd.
+**Rotatieonderlaag** Gebouwen kunnen worden geconfigureerd in de [verdiepingconfiguratie](https://support.catenda.com/nl/articles/6921756-verdiepingsconfiguratorpagina). Elke verdieping in een gebouw kan een tekening als onderlaag hebben die relatief ten opzichte van de modellen in het project is geroteerd.
 
 ### 4.3 **Camera vergrendelen**
 
@@ -94,7 +94,7 @@ Als een model in de 3D Viewer wordt geladen, kunt u de camera aan de camera van 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/09-lock-camera.png)
 
-Wanneer deze functie is ingeschakeld, blijft de weergavepuntindicator in het midden van het canvas staan, zelfs als de camera in de 3D Viewer wordt verplaatst. Dit is handig in combinatie met [loopmodus](https://support.catenda.com/nl/articles/5784718-3d-viewer-settings#h_1c05dca226).
+Wanneer deze functie is ingeschakeld, blijft de weergavepuntindicator in het midden van het canvas staan, zelfs als de camera in de 3D Viewer wordt verplaatst. Dit is handig in combinatie met [loopmodus](https://support.catenda.com/nl/articles/5784718-3d-viewer-instellingen#h_1c05dca226).
 
 ## 5. **Selectiewerktuigen en instellingen**
 
@@ -102,7 +102,7 @@ De selectiewerktuigen en instellingen vindt u aan de bovenkant rechts van het 2D
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/10-selection-tools-and-settings.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/8035360-selecting-and-clipping-from-2d) voor een gedetailleerde uitleg over het gebruik van sectiewerktuigen in de 2D Viewer.
+Klik [hier](https://support.catenda.com/nl/articles/8035360-selecteren-en-uitsnijden-vanuit-2d) voor een gedetailleerde uitleg over het gebruik van sectiewerktuigen in de 2D Viewer.
 
 ### 5.1 **Selecteren**
 
@@ -120,7 +120,7 @@ Maak 4 tot 6 knipvlakken door een rechthoek over het 2D-canvas te slepen en de h
 
 ### 5.4 **Sectie: Query maken**
 
-Maak een [query](https://support.catenda.com/nl/articles/4854514-queries) door een rechthoek over het 2D-canvas te slepen en de hoogte te selecteren.
+Maak een [query](https://support.catenda.com/nl/articles/4854514-query-s) door een rechthoek over het 2D-canvas te slepen en de hoogte te selecteren.
 
 ### 5.5 **Knop verplaatsen**
 
@@ -162,6 +162,6 @@ Met de laagknop kunt u verschillende lagen in de 2D Viewer in- en uitschakelen.
 
 **Modellen** Met deze knop kunnen modellen worden in- en uitgeschakeld.
 
-**Tekeningen** Deze knop wordt weergegeven als een tekening is uitgelijnd als onderlaag voor een gebouwverdieping in de [verdiepingconfiguratie](https://support.catenda.com/nl/articles/6921756-storey-configurator-page). Met deze knop kunnen de uitgelijnde tekeningen worden in- en uitgeschakeld.
+**Tekeningen** Deze knop wordt weergegeven als een tekening is uitgelijnd als onderlaag voor een gebouwverdieping in de [verdiepingconfiguratie](https://support.catenda.com/nl/articles/6921756-verdiepingsconfiguratorpagina). Met deze knop kunnen de uitgelijnde tekeningen worden in- en uitgeschakeld.
 
-**Kaart** Deze knop wordt weergegeven als een locatie is geconfigureerd in [projectinstellingen](https://support.catenda.com/nl/articles/4670273-project-settings-page). Met deze knop kunnen de kaarten worden in- en uitgeschakeld.
+**Kaart** Deze knop wordt weergegeven als een locatie is geconfigureerd in [projectinstellingen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen). Met deze knop kunnen de kaarten worden in- en uitgeschakeld.

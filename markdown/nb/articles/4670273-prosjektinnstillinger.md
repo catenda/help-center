@@ -10,7 +10,7 @@ Slik kan prosjekteier-menyen se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/02-project-owner.png)
 
-Det kan bare være én prosjekteier. For de fleste prosjekter er eieren av prosjektet organisasjonen til klienten som prosjektet tilhører. Organisasjoner blir ofte kalt etter navnet på klienten etterfulgt av organisasjonstypen. Hva organisasjonen kalles, bestemmes av hver organisasjoneier, men de blir ofte kalt noe som "Bedrift A - Kjørende prosjekter", "Bedrift B - Arkiv" eller "Bedrift C - Admin og maler" Organisasjoner kan eies av flere personer som da har en oversikt over alle prosjekter i den organisasjonen. Organisasjonseierne kan også flytte prosjekter fra [prosjektsiden i organisasjonsverktøyet](https://support.catenda.com/nb/articles/8505058-projects-page-organization-tool) uten å måtte være del av prosjektet.
+Det kan bare være én prosjekteier. For de fleste prosjekter er eieren av prosjektet organisasjonen til klienten som prosjektet tilhører. Organisasjoner blir ofte kalt etter navnet på klienten etterfulgt av organisasjonstypen. Hva organisasjonen kalles, bestemmes av hver organisasjoneier, men de blir ofte kalt noe som "Bedrift A - Kjørende prosjekter", "Bedrift B - Arkiv" eller "Bedrift C - Admin og maler" Organisasjoner kan eies av flere personer som da har en oversikt over alle prosjekter i den organisasjonen. Organisasjonseierne kan også flytte prosjekter fra [prosjektsiden i organisasjonsverktøyet](https://support.catenda.com/nb/articles/8505058-prosjektsside-organisasjonsverktoy) uten å måtte være del av prosjektet.
 
 ### 1.1 **Endre eier**
 
@@ -24,7 +24,7 @@ Slik kan det nye prosjektmenyen se ut:
 
 ### 2.1 **Prosjektdetaljer**
 
-Her kan du legge til et bilde av bygningen eller et hvilket som helst bilde du ønsker. Dette bildet vises i prosjektdetaljer og på [prosjektsiden](https://support.catenda.com/nb/articles/8400797-projects-page#h_1285a6d343) hvis du merker prosjektet som favoritt. _Tilgang kreves:_ Prosjektadministrator
+Her kan du legge til et bilde av bygningen eller et hvilket som helst bilde du ønsker. Dette bildet vises i prosjektdetaljer og på [prosjektsiden](https://support.catenda.com/nb/articles/8400797-prosjektsiden#h_1285a6d343) hvis du merker prosjektet som favoritt. _Tilgang kreves:_ Prosjektadministrator
 
 ### 2.2 **Prosjektnavn**
 
@@ -57,7 +57,7 @@ Standard modellmappe-menyen kan se omtrent slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/05-default-models-folder.png)
 
-Med [modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-models-as-documents) er hver modell knyttet til et dokument i dokumentseksjonen. Når du oppretter en modell, blir du spurt hvor i dokumentstrukturen du vil at dokumentet skal ende opp. Hvis du oppretter modeller via API-en, trenger dokumentene som skal knyttes til hver modell, et sted i dokumentseksjonen. Hvis ingen standardmappe er angitt, vil en mappe kalt modeller vises hvis en modell opprettes via API-en. Som standard har alle brukere skriverettigheter til den autogenererte mappen.
+Med [modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-modeller-som-dokumenter) er hver modell knyttet til et dokument i dokumentseksjonen. Når du oppretter en modell, blir du spurt hvor i dokumentstrukturen du vil at dokumentet skal ende opp. Hvis du oppretter modeller via API-en, trenger dokumentene som skal knyttes til hver modell, et sted i dokumentseksjonen. Hvis ingen standardmappe er angitt, vil en mappe kalt modeller vises hvis en modell opprettes via API-en. Som standard har alle brukere skriverettigheter til den autogenererte mappen.
 
 ## 5. **Slett prosjekt**
 
@@ -65,7 +65,7 @@ Slett prosjekter-menyen kan se omtrent slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/06-delete-project.png)
 
-Klikk på knappen "slett prosjekt" og skriv inn det eksakte navnet på prosjektet for å bekrefte at du vil slette det. Organisasjonseierne kan også slette prosjektet fra [prosjektsiden i organisasjonsverktøyet](https://support.catenda.com/nb/articles/8505058-projects-page-organization-tool) uten å måtte være del av prosjektet. Hvis du ikke ser dette alternativet og vil slette prosjektet ditt, kontakt brukerstøtte. _Tilgang kreves:_ Organisasjonseier eller prosjekteier
+Klikk på knappen "slett prosjekt" og skriv inn det eksakte navnet på prosjektet for å bekrefte at du vil slette det. Organisasjonseierne kan også slette prosjektet fra [prosjektsiden i organisasjonsverktøyet](https://support.catenda.com/nb/articles/8505058-prosjektsside-organisasjonsverktoy) uten å måtte være del av prosjektet. Hvis du ikke ser dette alternativet og vil slette prosjektet ditt, kontakt brukerstøtte. _Tilgang kreves:_ Organisasjonseier eller prosjekteier
 
 > **Advarsel:** **Advarsel!** Et slettet prosjekt kan ikke gjenopprettes
 
@@ -85,19 +85,19 @@ Etter å ha åpnet menyen, vil prosjektmedlemmer kunne se hvem som har tilgang t
 
 ### 6.1 **Opprett nye sakslister**
 
-_Standard tilgang:_ Alle brukere - Skriv [Opprett nye sakslister](https://support.catenda.com/nb/articles/4670299-issue-board-creation-acl)
+_Standard tilgang:_ Alle brukere - Skriv [Opprett nye sakslister](https://support.catenda.com/nb/articles/4670299-saksliste-opprettelse-acl)
 
 ### 6.2 **Inviter nye medlemmer**
 
-_Standard tilgang:_ Alle brukere - Ingen tilgang [Inviter nye medlemmer](https://support.catenda.com/nb/articles/4670263-invite-members-page)
+_Standard tilgang:_ Alle brukere - Ingen tilgang [Inviter nye medlemmer](https://support.catenda.com/nb/articles/4670263-inviter-medlemmer-side)
 
 ### 6.3 **Dokumentstatus-konfigurasjon**
 
-_Standard tilgang:_ Alle brukere - Skriv [Dokumentstatus-konfigurasjon](https://support.catenda.com/nb/articles/9874698-revision-publishing-iso-19650)
+_Standard tilgang:_ Alle brukere - Skriv [Dokumentstatus-konfigurasjon](https://support.catenda.com/nb/articles/9874698-ny-statusarbeidsflyt-iso-19650)
 
 ### 6.4 **Opprett og fjern modeller**
 
-_Standard tilgang:_ Alle brukere - Skriv [Opprett og fjern modeller](https://support.catenda.com/nb/articles/8300623-model-configuration)
+_Standard tilgang:_ Alle brukere - Skriv [Opprett og fjern modeller](https://support.catenda.com/nb/articles/8300623-modellkonfigurasjon)
 
 ## 7. **Stedsfeste**
 
@@ -119,7 +119,7 @@ Konfigurering av denne innstillingen plasserer 2D-visningene av modeller som gen
 
 ### 7.3 **Prosjektsidekart**
 
-Hvis en plassering er angitt, vil medlemmer se en markør for dette prosjektet på [kartet på prosjektsiden](https://support.catenda.com/nb/articles/8400797-projects-page#h_5cf5358c76).
+Hvis en plassering er angitt, vil medlemmer se en markør for dette prosjektet på [kartet på prosjektsiden](https://support.catenda.com/nb/articles/8400797-prosjektsiden#h_5cf5358c76).
 
 ## 8. **Logo**
 
@@ -127,13 +127,13 @@ Logomenyen kan se omtrent slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/10-logo.png)
 
-Hvis du laster opp en logo her, vil den erstatte Catenda-logoen øverst til venstre på hver sakseksportside med PDF når du [eksporterer saker til PDF](https://support.catenda.com/nb/articles/9784934-exporting-topics-to-pdf#h_77568077c7) fra en saksliste.
+Hvis du laster opp en logo her, vil den erstatte Catenda-logoen øverst til venstre på hver sakseksportside med PDF når du [eksporterer saker til PDF](https://support.catenda.com/nb/articles/9784934-eksporterer-saker-til-pdf#h_77568077c7) fra en saksliste.
 
 ## 9. **Undersider**
 
 Du finner følgende sider som undersider til denne siden:
 
-- [Merkelapper](https://support.catenda.com/nb/articles/4670265-labels-page)
-- [Egendefinerte felt](https://support.catenda.com/nb/articles/6550459-custom-fields-page)
-- [Navnekonvensjoner](https://support.catenda.com/nb/articles/7832559-naming-conventions-page)
-- [Medlemmer](https://support.catenda.com/nb/articles/4670291-members-page)
+- [Merkelapper](https://support.catenda.com/nb/articles/4670265-merkelappersiden)
+- [Egendefinerte felt](https://support.catenda.com/nb/articles/6550459-siden-for-egendefinerte-felt)
+- [Navnekonvensjoner](https://support.catenda.com/nb/articles/7832559-navnekonvensjonsside)
+- [Medlemmer](https://support.catenda.com/nb/articles/4670291-medlemmer-og-teams-side)

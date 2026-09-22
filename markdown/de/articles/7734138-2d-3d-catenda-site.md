@@ -1,6 +1,6 @@
 # 2D / 3D - Catenda Site
 
-Die Seite 2D / 3D finden Sie im [Menü](https://support.catenda.com/de/articles/7338516-navigation-menu-catenda-site) oder durch Tippen auf die Schaltfläche "Probleme" in der unteren Navigationsleiste.
+Die Seite 2D / 3D finden Sie im [Menü](https://support.catenda.com/de/articles/7338516-navigationsmenu-catenda-site) oder durch Tippen auf die Schaltfläche "Probleme" in der unteren Navigationsleiste.
 
 ![2D / 3D](https://raw.githubusercontent.com/catenda/help-center/main/images/wy1t8c1t/01-intro.png)
 

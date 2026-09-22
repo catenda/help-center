@@ -8,15 +8,15 @@ URL-en endres avhengig av innholdet i tabellen og filtrene som er brukt. Klikk p
 
 ## 2. **Deling av filtre slik at mottakeren kan lagre dem**
 
-Siden URL-en gjenspeiler sidenavigering og de brukte filtrene, kan den deles med andre brukere. Vær oppmerksom på at resultatene kan variere avhengig av om personen som åpner lenken er en del av prosjektet eller har tilgang til siden som navigeres til, eller elementene i tabellen. URL-en til den filtrerte siden kan enkelt sendes via [Sharelink](https://support.catenda.com/nb/articles/4728886-sharelink-notify-people-about-catenda-hub-content) eller ved å kopiere den fra URL-linjen i nettleseren og lime den inn i en melding. Dette vil varsle brukeren om et sett med filtre slik at de enkelt kan finne innholdet du ønsker at de skal se. Når et sett med filtre deles mer enn én gang, kan brukere vurdere å lagre filterkombinasjon.
+Siden URL-en gjenspeiler sidenavigering og de brukte filtrene, kan den deles med andre brukere. Vær oppmerksom på at resultatene kan variere avhengig av om personen som åpner lenken er en del av prosjektet eller har tilgang til siden som navigeres til, eller elementene i tabellen. URL-en til den filtrerte siden kan enkelt sendes via [Sharelink](https://support.catenda.com/nb/articles/4728886-sharelink-varsle-personer-om-catenda-hub-innhold) eller ved å kopiere den fra URL-linjen i nettleseren og lime den inn i en melding. Dette vil varsle brukeren om et sett med filtre slik at de enkelt kan finne innholdet du ønsker at de skal se. Når et sett med filtre deles mer enn én gang, kan brukere vurdere å lagre filterkombinasjon.
 
 ## 3. **Lagring av personlige filtre**
 
-Et sett med filtre kan [lagres i filtermenyen](https://support.catenda.com/nb/articles/8551755-saving-filters). Filtrene lagres bare for hver bruker individuelt. Ved å bruke lagrede filtre kan du enkelt finne filteret igjen neste gang du ønsker å dele det med et prosjektmedlem.
+Et sett med filtre kan [lagres i filtermenyen](https://support.catenda.com/nb/articles/8551755-begrenser-filterresultater). Filtrene lagres bare for hver bruker individuelt. Ved å bruke lagrede filtre kan du enkelt finne filteret igjen neste gang du ønsker å dele det med et prosjektmedlem.
 
 ## 4. **Lagring av prosjektfiltre**
 
-Lagre URL-en til et sett med filtre i [lenkebiblioteket](https://support.catenda.com/nb/articles/4670254-links-library) slik at prosjektmedlemmer kan slå opp ulike sett med filtre som har blitt foreslått.
+Lagre URL-en til et sett med filtre i [lenkebiblioteket](https://support.catenda.com/nb/articles/4670254-lenker-bibliotek) slik at prosjektmedlemmer kan slå opp ulike sett med filtre som har blitt foreslått.
 
 ### 4.1 **Et bibliotek over filtre**
 

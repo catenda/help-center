@@ -1,6 +1,6 @@
 # Pagina Leden en teams
 
-De pagina leden is te vinden als subpagina van de [pagina projectinstellingen](https://support.catenda.com/nl/articles/4670273-settings-page).
+De pagina leden is te vinden als subpagina van de [pagina projectinstellingen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen).
 
 ![Leden](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/01-intro.png)
 
@@ -12,15 +12,15 @@ Het actiemenu is te vinden in de rechterbovenhoek van de pagina.
 
 ### 1.1 Gebruiker uitnodigen
 
-Klik op de groene plusknop of op de actie gebruiker uitnodigen in het actiemenu om naar de [pagina gebruikers uitnodigen](https://support.catenda.com/nl/articles/4670263-invite-members-page) te gaan. _Vereiste toegang:_ Beheerder of [toegang tot het uitnodigen van leden](https://support.catenda.com/nl/articles/4670273-project-settings-page#h_3b98ced32a) in projectinstellingen.
+Klik op de groene plusknop of op de actie gebruiker uitnodigen in het actiemenu om naar de [pagina gebruikers uitnodigen](https://support.catenda.com/nl/articles/4670263-leden-pagina-uitnodigen) te gaan. _Vereiste toegang:_ Beheerder of [toegang tot het uitnodigen van leden](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_3b98ced32a) in projectinstellingen.
 
 ### 1.2 Nieuw team
 
-Met deze actie kunt u een [nieuw team](https://support.catenda.com/nl/articles/4670264-creating-a-team) maken. _Vereiste toegang:_ Beheerder
+Met deze actie kunt u een [nieuw team](https://support.catenda.com/nl/articles/4670264-een-team-aanmaken) maken. _Vereiste toegang:_ Beheerder
 
 ## 2. **Zoeken of filteren**
 
-Klik [hier](https://support.catenda.com/nl/articles/11744242-filtering-on-the-members-and-teams-page) om erachter te komen hoe u het best kunt zoeken of filteren op de pagina leden. Dit is hoe de zoek- of filterbalk eruit kan zien:
+Klik [hier](https://support.catenda.com/nl/articles/11744242-filteren-op-de-pagina-leden-en-teams) om erachter te komen hoe u het best kunt zoeken of filteren op de pagina leden. Dit is hoe de zoek- of filterbalk eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/03-search-or-filter.png)
 
@@ -30,7 +30,7 @@ Met een geselecteerd element wordt de infoknop voor het rechtermenu weergegeven 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/04-right-menu.png)
 
-Klik op dit pictogram om een menu te openen waar velden voor de geselecteerde elementen kunnen worden gewijzigd. Klik [hier](https://support.catenda.com/nl/articles/11768610-right-menu-on-the-members-page) om meer informatie over het rechtermenu op de pagina leden te lezen.
+Klik op dit pictogram om een menu te openen waar velden voor de geselecteerde elementen kunnen worden gewijzigd. Klik [hier](https://support.catenda.com/nl/articles/11768610-rechtermenu-op-de-pagina-leden) om meer informatie over het rechtermenu op de pagina leden te lezen.
 
 ## 4. **Tabblad Leden**
 
@@ -42,11 +42,11 @@ Op het tabblad leden wordt een tabel met alle leden die deel uitmaken van het pr
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/06-members-tab.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) om meer informatie over het werken met tabellen in Catenda te lezen. Zodra een uitnodiging voor het project wordt geaccepteerd, verschijnt het lid dat de uitnodiging heeft geaccepteerd in de ledentabel.
+Klik [hier](https://support.catenda.com/nl/articles/11748020-tabellen-op-catenda) om meer informatie over het werken met tabellen in Catenda te lezen. Zodra een uitnodiging voor het project wordt geaccepteerd, verschijnt het lid dat de uitnodiging heeft geaccepteerd in de ledentabel.
 
 ### 4.1 **Rijinhoud**
 
-Als u op de inhoud van een lideningang klikt, wordt de [pagina lid](https://support.catenda.com/nl/articles/8228836-member-page) van dat lid geopend.
+Als u op de inhoud van een lideningang klikt, wordt de [pagina lid](https://support.catenda.com/nl/articles/8228836-ledenpagina) van dat lid geopend.
 
 ### 4.2 **Kolommen**
 
@@ -76,7 +76,7 @@ Klik hier om meer informatie over het werken met tabellen in Catenda te lezen.
 
 ### 5.1 **Rijinhoud**
 
-Als u op de inhoud van een teamingang klikt, wordt de [teampagina](https://support.catenda.com/nl/articles/7891755-team-page) van dat team geopend.
+Als u op de inhoud van een teamingang klikt, wordt de [teampagina](https://support.catenda.com/nl/articles/7891755-teampagina) van dat team geopend.
 
 ### 5.2 **Kolommen**
 

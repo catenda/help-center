@@ -35,7 +35,7 @@ Title Topic title
 
 **Statuses** Topic status is displayed in a box with a colored circle.
 
-**Labels** Topic [labels](https://support.catenda.com/en/articles/4670265-creating-a-new-label) (tags) are displayed in boxes with a tag icon.
+**Labels** Topic [labels](https://support.catenda.com/en/articles/4670265-labels-page) (tags) are displayed in boxes with a tag icon.
 
 **Assigned to** Topic assignee.
 

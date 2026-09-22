@@ -1,6 +1,6 @@
 # Labelfilter - Catenda Site
 
-Het is mogelijk om te filteren op label in [Issues](https://support.catenda.com/nl/articles/7734073-issues-page-catenda-site) en in [Documenten](https://support.catenda.com/nl/articles/7774637-documents-catenda-site).
+Het is mogelijk om te filteren op label in [Issues](https://support.catenda.com/nl/articles/7734073-onderwerpen-menu-catenda-site) en in [Documenten](https://support.catenda.com/nl/articles/7774637-documenten-menu-catenda-site).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ge4vaaph/01-intro.png)
 
@@ -8,7 +8,7 @@ Kies welke labels u wilt filteren en tik Gereed om uw filter toe te passen.
 
 ### Labelwijzigingen van andere apparaten
 
-Om wijzigingen van labels in dit filtermenu te zien die op een ander apparaat zijn aangebracht, gaat u naar de [projectpagina](https://support.catenda.com/nl/articles/7733978-projects-page-catenda-site) en opent u het project opnieuw. Op dezelfde manier kunt u een nieuw extern label pas zien nadat het project opnieuw is geladen.
+Om wijzigingen van labels in dit filtermenu te zien die op een ander apparaat zijn aangebracht, gaat u naar de [projectpagina](https://support.catenda.com/nl/articles/7733978-projectenpagina-catenda-site) en opent u het project opnieuw. Op dezelfde manier kunt u een nieuw extern label pas zien nadat het project opnieuw is geladen.
 
 ### Labelherstellingspictogram
 

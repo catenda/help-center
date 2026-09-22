@@ -31,7 +31,7 @@ Here the password that matches for the account registered under the provided ema
 
 ## 3. **Sign in**
 
-Click on sign in to verify the inserted credentials. After successfully completing the verification process users are redirected to the [projects page](https://support.catenda.com/en/articles/4670260-projects-page).
+Click on sign in to verify the inserted credentials. After successfully completing the verification process users are redirected to the [projects page](https://support.catenda.com/en/articles/4670260-account-buttons).
 
 ## 4. **MFA**
 

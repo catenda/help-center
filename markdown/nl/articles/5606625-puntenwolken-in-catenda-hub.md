@@ -21,7 +21,7 @@ PC kan net als elk ander document in het documentgebied worden geüpload. Voor d
 
 ### 1.1 **PC-gegevens uploaden**
 
-Het is raadzaam om de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) te gebruiken of uw PC-bestand in een gecomprimeerde map te comprimeren en de [zip-import](https://support.catenda.com/nl/articles/7945410-upload-a-zip-file-structure) te gebruiken om uw PC te uploaden. Deze methoden helpen u tijd besparen omdat de uploadbestandsgrootte kleiner is en het risico op een netwerkfout wordt geminimaliseerd, omdat het bestand sneller wordt geüpload
+Het is raadzaam om de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector) te gebruiken of uw PC-bestand in een gecomprimeerde map te comprimeren en de [zip-import](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) te gebruiken om uw PC te uploaden. Deze methoden helpen u tijd besparen omdat de uploadbestandsgrootte kleiner is en het risico op een netwerkfout wordt geminimaliseerd, omdat het bestand sneller wordt geüpload
 
 Nadat u een PC naar het documentgebied hebt geüpload, wordt de documentvoorbeeldverwerking gestart. Terwijl de voorbeeldverwerking plaatsvindt, ziet u een grijze balk aan de bovenkant van uw documentvoorbeeld.
 
@@ -35,7 +35,7 @@ Nadat de preview is verwerkt, klikt u op het document om uw PC in het documentvo
 
 ### 1.2 **Gedeelde PC-revisies**
 
-Als [revisiepublicatie](https://support.catenda.com/nl/articles/9874698-revision-publishing-iso-19650) voor het project is geactiveerd, is de puntenwolk als een gedeelde revisie geüpload. Gedeelde PC-revisies kunnen alleen in het documentgebied worden weergegeven. Om uw PC in de 3D-viewer te kunnen laden, moet de revisie worden gepubliceerd. Individuele gedeelde revisies kunnen worden gepubliceerd met de publicatieactie in het rechtermenu van het documentvoorbeeld. Meerdere gedeelde revisies kunnen worden gepubliceerd met de actie geselecteerde items in de documentstructuur. Wanneer u een revisie publiceert, wordt de preview voor de gepubliceerde revisie verwerkt.
+Als [revisiepublicatie](https://support.catenda.com/nl/articles/9874698-nieuwe-statusworkflow-iso-19650) voor het project is geactiveerd, is de puntenwolk als een gedeelde revisie geüpload. Gedeelde PC-revisies kunnen alleen in het documentgebied worden weergegeven. Om uw PC in de 3D-viewer te kunnen laden, moet de revisie worden gepubliceerd. Individuele gedeelde revisies kunnen worden gepubliceerd met de publicatieactie in het rechtermenu van het documentvoorbeeld. Meerdere gedeelde revisies kunnen worden gepubliceerd met de actie geselecteerde items in de documentstructuur. Wanneer u een revisie publiceert, wordt de preview voor de gepubliceerde revisie verwerkt.
 
 ### 1.3 **Gepubliceerde PC-revisies**
 
@@ -71,13 +71,13 @@ En na enkele aanpassingen met zoomen en positionering kan het PC-voorbeeld er al
 
 In deze sectie kijken we naar de instellingen in Catenda Hub waarmee u de beste ervaring met uw PC kunt krijgen.
 
-> **Opmerking:** Zorg er vóór het configureren van de 3D-viewer voor dat de toepassing Catenda is geopend en is ingesteld [zoals aanbevolen](https://support.catenda.com/nl/articles/6921941-hardware-recommendation).
+> **Opmerking:** Zorg er vóór het configureren van de 3D-viewer voor dat de toepassing Catenda is geopend en is ingesteld [zoals aanbevolen](https://support.catenda.com/nl/articles/6921941-hardwareaanbeveling).
 
 Instellingen die kunnen worden gebruikt voor het configureren van puntenwolken bevinden zich op twee plaatsen.
 
 ### 3.1 **1. Puntbegroting:**
 
-De puntbegroting kan worden ingesteld in de [3D-viewerinstellingen](https://support.catenda.com/nl/articles/5784718-3d-viewer-settings) die u kunt vinden in het tandwielpictogram rechtsboven in de 3D-viewer.
+De puntbegroting kan worden ingesteld in de [3D-viewerinstellingen](https://support.catenda.com/nl/articles/5784718-3d-viewer-instellingen) die u kunt vinden in het tandwielpictogram rechtsboven in de 3D-viewer.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/08-1-point-budget.png)
 
@@ -95,11 +95,11 @@ In het menu 3D-viewerinstellingen kan de puntbegroting van 100.000 tot 10.000.00
 
 ### 3.2 **2. Revisieselector en individuele PC-instellingen:**
 
-Linksbovenaan de 3D-viewer vindt u de [Revisieselector](https://support.catenda.com/nl/articles/4670246-accepting-an-invitation-to-join-a-project).
+Linksbovenaan de 3D-viewer vindt u de [Revisieselector](https://support.catenda.com/nl/articles/4670246-een-uitnodiging-accepteren-om-deel-te-nemen-aan-een-project).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/12-2-revision-selector-and-individual-pc-settings.png)
 
-In [het menu Modellen](https://support.catenda.com/nl/articles/4670279-revision-selector#h_180a64490d) kunt u de individuele [3D-documenten](https://support.catenda.com/nl/articles/4670279-revision-selector#h_fce60074ef) vinden die u in de 3D-viewer hebt geladen.
+In [het menu Modellen](https://support.catenda.com/nl/articles/4670279-revisiekiezer#h_180a64490d) kunt u de individuele [3D-documenten](https://support.catenda.com/nl/articles/4670279-revisiekiezer#h_fce60074ef) vinden die u in de 3D-viewer hebt geladen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yve4vvqf/13-2-revision-selector-and-individual-pc-settings.png)
 
@@ -119,7 +119,7 @@ _Attribuut Intensiteit_ De intensiteitsoptie kan worden gebruikt als de punten g
 
 _Puntgrootte_ _Adaptief_ - Standaard Hoe dichter een punt bij de camera staat, hoe groter het is. Punten die in zicht zijn, worden in het geheugen geladen. Punten die uit het zicht gaan, worden uit het geheugen verwijderd.
 
-> **Opmerking:** Zorg ervoor dat de hardware en software waarop Catenda is geopend, zijn ingesteld [zoals aanbevolen](https://support.catenda.com/nl/articles/6921941-hardware-recommendation), omdat dit van invloed kan zijn op het soort puntgrootte dat uw apparaat kan verwerken.
+> **Opmerking:** Zorg ervoor dat de hardware en software waarop Catenda is geopend, zijn ingesteld [zoals aanbevolen](https://support.catenda.com/nl/articles/6921941-hardwareaanbeveling), omdat dit van invloed kan zijn op het soort puntgrootte dat uw apparaat kan verwerken.
 
 **Puntgrootte Vaste grootte** Punten die zijn geladen, blijven in het geheugen staan met deze optie. Met veel punten merkt u dat rotaties kunnen worden vertraagd en beweging kan worden vertraagd naarmate u dicht bij het aantal punten komt dat uw systeem aankan. U merkt mogelijk ook dat het steeds langer duurt om nieuwe punten in te laden naarmate u dichter bij de limiet van uw apparaat komt. Punten worden eerst dicht bij de camera geladen. Zorg er voordat u de puntenwolk uit het documentgebied laadt voor dat u de camera op de plaats positioneert waar u de punten wilt laden. Als dit een camerastand is die u vaker met deze puntenwolk wilt gebruiken, overweeg dan om een bladwijzer of een snapshot in een topic te maken die u kunt afspelen om naar deze positie terug te keren.
 

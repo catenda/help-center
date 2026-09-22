@@ -18,7 +18,7 @@ Wenn es mehr als ein Themen-Board im Projekt gibt, wird die Option "Alle Themen-
 
 ## 2. **Neue Element-Aktionen**
 
-Die neuen Element-Aktionen befinden sich im Hamburger-Menü neben der Schaltfläche "+" oben rechts auf der Seite. Weitere Informationen zu den verschiedenen Aktionen finden Sie [hier](https://support.catenda.com/de/articles/4670284-actions-in-a-topic-board).
+Die neuen Element-Aktionen befinden sich im Hamburger-Menü neben der Schaltfläche "+" oben rechts auf der Seite. Weitere Informationen zu den verschiedenen Aktionen finden Sie [hier](https://support.catenda.com/de/articles/4670284-aktionen-in-der-thementabelle).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/03-new-item-actions.png)
 
@@ -28,7 +28,7 @@ Wenn es nicht verknüpfte Status/Typen in einem Themen-Board gibt, wird eine ora
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/04-unlinked-fields.png)
 
-Wenn Sie auf den Link klicken, gelangen Sie zum Bereich [nicht verknüpfte Felder](https://support.catenda.com/de/articles/4670277-topic-board-settings#h_3bd7e3e759) der [Themen-Board-Einstellungen](https://support.catenda.com/de/articles/4670277-topic-board-settings), wo Sie alle Felder einer Art auf einmal mit einem vorhandenen Wert verknüpfen können.
+Wenn Sie auf den Link klicken, gelangen Sie zum Bereich [nicht verknüpfte Felder](https://support.catenda.com/de/articles/4670277-einstellungsseite-fur-topic-board#h_3bd7e3e759) der [Themen-Board-Einstellungen](https://support.catenda.com/de/articles/4670277-einstellungsseite-fur-topic-board), wo Sie alle Felder einer Art auf einmal mit einem vorhandenen Wert verknüpfen können.
 
 ## 4. **Suche, Filter und rechtes Menü**
 
@@ -40,7 +40,7 @@ Ein Status kann offen, geschlossen oder Kandidat sein, obwohl er anders benannt 
 
 ### 4.1 **Suche**
 
-Wenn alle offenen, geschlossenen oder Kandidaten-Status angezeigt werden, werden diese in ein einzelnes Filterfeld kombiniert. Klicken Sie auf das Dropdown-Menü neben dem kombinierten Filterfeld, um zu sehen, welche Status kombiniert werden. Drücken Sie das x auf der rechten Seite, um alle Filter zu entfernen. Klicken Sie [hier](https://support.catenda.com/de/articles/8370693-filtering-in-an-issue-board), um mehr über die Suche nach Themen zu erfahren.
+Wenn alle offenen, geschlossenen oder Kandidaten-Status angezeigt werden, werden diese in ein einzelnes Filterfeld kombiniert. Klicken Sie auf das Dropdown-Menü neben dem kombinierten Filterfeld, um zu sehen, welche Status kombiniert werden. Drücken Sie das x auf der rechten Seite, um alle Filter zu entfernen. Klicken Sie [hier](https://support.catenda.com/de/articles/8370693-filterung-auf-der-seite-themen), um mehr über die Suche nach Themen zu erfahren.
 
 ### 4.2 **Filtermenü**
 
@@ -48,11 +48,11 @@ Wenn Sie in einem Themen-Board auf die Schaltfläche "Themen-Filter" links neben
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/06-filter-menu.png)
 
-Ein Filtermenü wird auf der linken Seite geöffnet. Hier können Sie angeben, welche Filter Sie verwenden möchten, um Ihre Suche einzugrenzen. Klicken Sie [hier](https://support.catenda.com/de/articles/8370693-filtering-in-an-issue-board), um mehr über das Filtern von Themen zu erfahren.
+Ein Filtermenü wird auf der linken Seite geöffnet. Hier können Sie angeben, welche Filter Sie verwenden möchten, um Ihre Suche einzugrenzen. Klicken Sie [hier](https://support.catenda.com/de/articles/8370693-filterung-auf-der-seite-themen), um mehr über das Filtern von Themen zu erfahren.
 
 ### 4.3 **Rechtes Menü**
 
-Im [Themen-Board-Menü auf der rechten Seite](https://support.catenda.com/de/articles/6941224-right-panel-in-an-issue-board) können Sie Informationen zu den ausgewählten Themen anzeigen und mehrere Themen gleichzeitig bearbeiten.
+Im [Themen-Board-Menü auf der rechten Seite](https://support.catenda.com/de/articles/6941224-rechtes-menu-in-einem-themen-board) können Sie Informationen zu den ausgewählten Themen anzeigen und mehrere Themen gleichzeitig bearbeiten.
 
 ## 5. **Themen-Board**
 
@@ -64,7 +64,7 @@ Nach Auswahl eines Themas werden ausgewählte Element-Aktionen am oberen Rand de
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/07-selected-item-actions.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/4670284-actions-in-a-topic-board), um zu sehen, wie jede Aktion verwendet werden kann:
+Klicken Sie [hier](https://support.catenda.com/de/articles/4670284-aktionen-in-der-thementabelle), um zu sehen, wie jede Aktion verwendet werden kann:
 
 ### 5.2 **Spalten**
 
@@ -88,7 +88,7 @@ Einige Spalten in der Themen-Tabelle sind standardmäßig aktiviert, während an
 - Anzahl der Dokumente
 - Benutzerdefinierte Felder - Standard
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/6941099-columns-on-the-topics-page), um mehr darüber zu erfahren, welche Spalten auf der Themen-Seite verfügbar sind.
+Klicken Sie [hier](https://support.catenda.com/de/articles/6941099-tabellenansicht-in-einem-topic-board), um mehr darüber zu erfahren, welche Spalten auf der Themen-Seite verfügbar sind.
 
 ### 5.3 **Listenansicht - Standard**
 
@@ -100,7 +100,7 @@ So sieht ein Themen-Board in der Listenansicht aus.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/09-list-view-default.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/6941232-list-view-in-an-issue-board), um mehr über die Listenansicht in einem Themen-Board zu erfahren. Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um allgemeine Informationen über Listen in Catenda zu erhalten.
+Klicken Sie [hier](https://support.catenda.com/de/articles/6941232-listenansicht-in-einem-themen-board), um mehr über die Listenansicht in einem Themen-Board zu erfahren. Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tabellen-in-catenda), um allgemeine Informationen über Listen in Catenda zu erhalten.
 
 ### 5.4 **Tabellenansicht**
 
@@ -112,7 +112,7 @@ So sieht ein Themen-Board in der Tabellenansicht aus.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/11-table-view.png)
 
-Hier können Sie viele Themen auf einmal sehen. Durch Klicken auf eine beliebige Information im Themen-Fenster gelangen Sie zu einer Unterseite mit vollständigen Informationen. Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um allgemeine Informationen über Tabellen in Catenda zu erhalten.
+Hier können Sie viele Themen auf einmal sehen. Durch Klicken auf eine beliebige Information im Themen-Fenster gelangen Sie zu einer Unterseite mit vollständigen Informationen. Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tabellen-in-catenda), um allgemeine Informationen über Tabellen in Catenda zu erhalten.
 
 ## 6. **Unterseiten**
 
@@ -120,16 +120,16 @@ Die Unterseiten zur Themen-Seite finden Sie im linken Navigationsmenü.
 
 ### 6.1 **Boards**
 
-[Boards](https://support.catenda.com/de/articles/9413644-boards-page) - Ein Überblick über alle Themen-Boards
+[Boards](https://support.catenda.com/de/articles/9413644-boards-seite) - Ein Überblick über alle Themen-Boards
 
 ### 6.2 **Meilensteine**
 
-[Meilensteine](https://support.catenda.com/de/articles/4670266-creating-a-new-milestone) - Wichtige Daten im Projekt
+[Meilensteine](https://support.catenda.com/de/articles/4670266-seite-milestones) - Wichtige Daten im Projekt
 
 ### 6.3 **Statistiken**
 
-[Statistiken](https://support.catenda.com/de/articles/7575491-statistics-page) - Siehe die Statistiken des aktuellen Themen-Boards
+[Statistiken](https://support.catenda.com/de/articles/7575491-statistikseite) - Siehe die Statistiken des aktuellen Themen-Boards
 
 ### 6.4 **Einstellungen**
 
-Wenn Sie auf die [Einstellungsseite](https://support.catenda.com/de/articles/4670277-issue-board-settings) klicken, wird die Einstellungsseite für das aktuelle Themen-Board geöffnet. _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Themen-Board
+Wenn Sie auf die [Einstellungsseite](https://support.catenda.com/de/articles/4670277-einstellungsseite-fur-topic-board) klicken, wird die Einstellungsseite für das aktuelle Themen-Board geöffnet. _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Themen-Board

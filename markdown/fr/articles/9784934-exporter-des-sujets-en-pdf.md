@@ -1,6 +1,6 @@
 # Exporter des sujets en PDF
 
-Les sujets peuvent être exportés en PDF en cliquant sur l'option PDF dans le [dialogue d'export de sujets](https://support.catenda.com/fr/articles/4670289-exchange-topics#h_aa0b8d7789). L'export PDF vous permettra d'exporter un rapport de vos sujets. Cette option d'export est utile pour avoir une version facilement lisible des sujets et peut être utilisée à des fins d'archivage ou pour signaler aux autorités.
+Les sujets peuvent être exportés en PDF en cliquant sur l'option PDF dans le [dialogue d'export de sujets](https://support.catenda.com/fr/articles/4670289-echanger-des-sujets#h_aa0b8d7789). L'export PDF vous permettra d'exporter un rapport de vos sujets. Cette option d'export est utile pour avoir une version facilement lisible des sujets et peut être utilisée à des fins d'archivage ou pour signaler aux autorités.
 
 Cette page contient des informations sur les sujets suivants :
 
@@ -10,11 +10,11 @@ Ces paramètres affectent toutes les pages du PDF
 
 ### 1.1 **Logo**
 
-Le logo en haut à gauche de chaque page du PDF sera le logo Catenda par défaut. En cliquant sur le logo ou sur hub.catenda.com en haut à droite, vous serez redirigé vers la page des projets. Il est possible de télécharger un logo personnalisé sur la [page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page) pour afficher votre propre logo ici.
+Le logo en haut à gauche de chaque page du PDF sera le logo Catenda par défaut. En cliquant sur le logo ou sur hub.catenda.com en haut à droite, vous serez redirigé vers la page des projets. Il est possible de télécharger un logo personnalisé sur la [page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet) pour afficher votre propre logo ici.
 
 ### 1.2 **Langue**
 
-L'export PDF sera dans la langue que vous avez configurée dans vos [préférences de compte](https://support.catenda.com/fr/articles/6880968-account-page#h_4aa257b72f).
+L'export PDF sera dans la langue que vous avez configurée dans vos [préférences de compte](https://support.catenda.com/fr/articles/6880968-page-du-compte#h_4aa257b72f).
 
 ### 1.3 **Ordre des sujets**
 
@@ -78,7 +78,7 @@ Les en-têtes suivants sont inclus :
 
 **Étape** Les étapes ne sont pas incluses dans l'export PDF.
 
-**Marqueur** Cliquez [ici](https://support.catenda.com/fr/articles/4854523-2d-location-of-topics) pour en savoir plus sur l'export de la localisation 2D en PDF.
+**Marqueur** Cliquez [ici](https://support.catenda.com/fr/articles/4854523-localisation-2d-des-topics) pour en savoir plus sur l'export de la localisation 2D en PDF.
 
 ### 3.4 **Relations de sujets**
 
@@ -100,4 +100,4 @@ Si des commentaires ont été placés sur le sujet, vous les verrez ici. Vous ve
 
 ## 4. **Page de rapports**
 
-Avec la page de rapports, il est possible de créer des rapports personnalisés non seulement sur les sujets mais aussi sur les documents. La page de rapports est une fonctionnalité à la demande qui peut être demandée pour être activée pour les projets en cours. Les nouveaux projets créés à partir d'un projet de modèle où cette fonctionnalité est activée n'ont pas cette fonctionnalité activée. Ces rapports peuvent ensuite être exportés non seulement vers Excel et PDF, mais aussi vers de nombreux autres formats de fichier. Ces rapports peuvent également exporter des sujets à partir de plusieurs listes de sujets à la fois. Cliquez [ici](https://support.catenda.com/fr/articles/12303098-reports-page) pour en savoir plus sur la page de rapports
+Avec la page de rapports, il est possible de créer des rapports personnalisés non seulement sur les sujets mais aussi sur les documents. La page de rapports est une fonctionnalité à la demande qui peut être demandée pour être activée pour les projets en cours. Les nouveaux projets créés à partir d'un projet de modèle où cette fonctionnalité est activée n'ont pas cette fonctionnalité activée. Ces rapports peuvent ensuite être exportés non seulement vers Excel et PDF, mais aussi vers de nombreux autres formats de fichier. Ces rapports peuvent également exporter des sujets à partir de plusieurs listes de sujets à la fois. Cliquez [ici](https://support.catenda.com/fr/articles/12303098-page-rapports) pour en savoir plus sur la page de rapports

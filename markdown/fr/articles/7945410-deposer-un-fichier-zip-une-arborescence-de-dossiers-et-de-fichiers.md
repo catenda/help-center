@@ -1,6 +1,6 @@
 # Télécharger un fichier zip / structure de fichiers
 
-Comparé à la télécharge d'un fichier zip standard, la fonction de télécharge de fichier zip va décompresser un fichier zip. De cette façon, vous pouvez importer une structure de fichiers dans la [page Documents](https://support.catenda.com/fr/articles/8204673-documents-page#h_28610e1d21) sans avoir à créer manuellement des dossiers.
+Comparé à la télécharge d'un fichier zip standard, la fonction de télécharge de fichier zip va décompresser un fichier zip. De cette façon, vous pouvez importer une structure de fichiers dans la [page Documents](https://support.catenda.com/fr/articles/8204673-page-documents#h_28610e1d21) sans avoir à créer manuellement des dossiers.
 
 La fonction Télécharger un fichier zip se trouve dans le menu d'action à droite du bouton vert + en haut à droite de la page Documents.
 
@@ -108,4 +108,4 @@ Voici à quoi peut ressembler le menu droit de la page d'importation de fichier 
 
 ## 7. **Connecteur de bureau**
 
-Avec le [Connecteur de bureau Catenda](https://support.catenda.com/fr/articles/8358861-catenda-desktop-connector), vous pouvez télécharger automatiquement et périodiquement les dernières versions de documents de votre système local vers Catenda Hub. Le connecteur de bureau est plus rapide pour le faire que le processus de téléchargement standard et minimise le risque d'échec en téléchargeant les documents fichier par fichier au lieu d'un seul grand lot de glisser-déposer ou de téléchargement de fichier zip.
+Avec le [Connecteur de bureau Catenda](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop), vous pouvez télécharger automatiquement et périodiquement les dernières versions de documents de votre système local vers Catenda Hub. Le connecteur de bureau est plus rapide pour le faire que le processus de téléchargement standard et minimise le risque d'échec en téléchargeant les documents fichier par fichier au lieu d'un seul grand lot de glisser-déposer ou de téléchargement de fichier zip.

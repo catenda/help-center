@@ -1,6 +1,6 @@
 # Dokumentbanner - Navigasjon
 
-Hvis du velger et dokument på [dokumentsiden](https://support.catenda.com/nb/articles/8204673-documents-page) eller i et bibliotek, åpnes et nytt vindu for dette dokumentet. Du vil alltid se den siste revisjonen når du åpner et dokument. Dokumentsiden kan se slik ut:
+Hvis du velger et dokument på [dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) eller i et bibliotek, åpnes et nytt vindu for dette dokumentet. Du vil alltid se den siste revisjonen når du åpner et dokument. Dokumentsiden kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/01-intro.png)
 
@@ -8,7 +8,7 @@ Hvis du velger et dokument på [dokumentsiden](https://support.catenda.com/nb/ar
 1. Du finner dokumenthodet under dokumentbanneret og over dokumentforhåndsvisningen
 1. Under dokumenthodet finner du dokumentforhåndsvisningen
 1. Til venstre for dokumenthodet og forhåndsvisningen finner du dokumentlisten
-1. Til høyre for dokumenthodet og forhåndsvisningen finner du [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8302244-right-menu-in-a-document)
+1. Til høyre for dokumenthodet og forhåndsvisningen finner du [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon)
 
 Dokumentbanneret kan se slik ut:
 
@@ -38,11 +38,11 @@ Dokumenthandlinger finnes mot øverst til høyre på dokumentet og kan se slik u
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/03-actions.png)
 
-Les mer om hva de ulike dokumenthandlingene gjør [her](https://support.catenda.com/nb/articles/4670288-actions-documents#h_16671d6fc5).
+Les mer om hva de ulike dokumenthandlingene gjør [her](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen#h_16671d6fc5).
 
 ## 4. **Høyre informasjonsmeny**
 
-I høyre informasjonsmeny finner du all informasjon om dokumentet. Klikk [her](https://support.catenda.com/nb/articles/8302244-right-menu-in-a-document) for å lese mer om høyre informasjonsmeny i dokumentdelen.
+I høyre informasjonsmeny finner du all informasjon om dokumentet. Klikk [her](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon) for å lese mer om høyre informasjonsmeny i dokumentdelen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/56hfkk5y/04-right-information-menu.png)
 
@@ -58,13 +58,13 @@ Klikk fullskjermknappen til høyre for høyre informasjonsmenyknapp for å se do
 
 Dokumenter kan lastes ned med handlingsknappen øverst til høyre, med nedlastingsknappen i revisjonsmenyden i høyre informasjonsmeny, ved å velge det i dokumentlisten og laste det ned, eller fra forhåndsvisningsdialogen.
 
-**Høyre informasjonsmeny** Du finner nedlastingshandlingsknappen i [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8345396-right-panel-in-documents-table). Nedlasting av dokumentet herfra gir deg alltid den opprinnelig opplastede filen. Hvis du velger ett dokument, får du den siste revisjonen som en fil med revisjonsnavnet. Hvis du velger mer enn ett dokument, får du de siste revisjonene av de valgte dokumentene i en zip-fil med dokumentnavnet og revisjonsnummeret.
+**Høyre informasjonsmeny** Du finner nedlastingshandlingsknappen i [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8345396-hoyremeny-pa-dokumentsiden). Nedlasting av dokumentet herfra gir deg alltid den opprinnelig opplastede filen. Hvis du velger ett dokument, får du den siste revisjonen som en fil med revisjonsnavnet. Hvis du velger mer enn ett dokument, får du de siste revisjonene av de valgte dokumentene i en zip-fil med dokumentnavnet og revisjonsnummeret.
 
 **Dokumentforhåndsvisning** Hvis dokumentet ditt kan forhåndsvises, finner du Lagre som-knappen i hamburgermenyen øverst til venstre på dokumentforhåndsvisningen. Med Lagre som-menyen kan du laste ned dokumentet ditt med merknader og kommentarer.
 
 ### 6.2 **Dokumentegenskaper**
 
-Du kan lese om de ulike kolonnene som et dokument kan ha i tabellvisningen på dokumentsiden [her](https://support.catenda.com/nb/articles/8466850-columns-on-the-documents-page)
+Du kan lese om de ulike kolonnene som et dokument kan ha i tabellvisningen på dokumentsiden [her](https://support.catenda.com/nb/articles/8466850-kolonner-pa-dokumentsiden)
 
 ### 6.3 **Dokumentrevisjoner**
 

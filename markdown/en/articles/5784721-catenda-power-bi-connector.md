@@ -1,6 +1,6 @@
 # Catenda Power BI Connector
 
-> **Note:** The installation file for this application can be found [here](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
+> **Note:** The installation file for this application can be found [here](https://support.catenda.com/en/articles/8396532-catenda-plugins-integrations)
 
 In this article we will explain how the Catenda HUB database can be linked with PowerBI. By linking direct access to the data on Catenda HUB can be obtained in PowerBI. This data can then be used to evaluate tasks, documents or, for example, team members.
 

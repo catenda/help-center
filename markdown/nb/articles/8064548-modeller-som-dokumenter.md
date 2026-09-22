@@ -52,7 +52,7 @@ Hvis prosjektet ditt startet uten modeller som dokumenter, vil en mappe kalt "Mo
 
 _Opprett en modellrevisjon_ For å kunne laste opp nye revisjoner til en modell trenger du nå minst skrivetilgang til dokument-modellen. Nye revisjoner til modellen kan legges til dokumentet og omvendt.
 
-> **Merk:** Revisjonskommentarer har blitt deaktivert og kan nå valgfritt aktiveres med [egendefinerte felt på revisjoner](https://support.catenda.com/nb/articles/9531080-custom-fields-on-documents).
+> **Merk:** Revisjonskommentarer har blitt deaktivert og kan nå valgfritt aktiveres med [egendefinerte felt på revisjoner](https://support.catenda.com/nb/articles/9531080-egendefinerte-felt-pa-dokumenter).
 
 _Laste ned en modellrevisjon_ Du trenger minst lesetilgang til dokument-modellen for å kunne laste ned modellen.
 
@@ -120,10 +120,10 @@ Dokument-modeller kan nå finnes i dokumentdelen som ethvert annet dokument.
 
 - Dokument-modeller kan organiseres i mapper for å gjøre det lettere å navigere til riktig sett med modeller.
 - Merkelapper kan legges til dokument-modeller for å finne alle dokument-modeller som tilhører én type.
-- [Egendefinerte felt kan legges til i mapper](https://support.catenda.com/nb/articles/9531080-custom-fields-on-documents) der dokumenter lastes opp for å søke på metadataverdier knyttet til hver dokument-modell
-- [Egendefinerte felt kan legges til i mapper](https://support.catenda.com/nb/articles/9531080-custom-fields-on-documents) der dokumenter lastes opp for å kunne legge til informasjon til hver revisjon i hver dokument-modell.
+- [Egendefinerte felt kan legges til i mapper](https://support.catenda.com/nb/articles/9531080-egendefinerte-felt-pa-dokumenter) der dokumenter lastes opp for å søke på metadataverdier knyttet til hver dokument-modell
+- [Egendefinerte felt kan legges til i mapper](https://support.catenda.com/nb/articles/9531080-egendefinerte-felt-pa-dokumenter) der dokumenter lastes opp for å kunne legge til informasjon til hver revisjon i hver dokument-modell.
 
-Se [her](https://support.catenda.com/nb/articles/8542598-structuring-documents#h_7838a63c73) for forslag på hvordan du kan organisere dokument-modellene dine slik at de er lette å finne.
+Se [her](https://support.catenda.com/nb/articles/8542598-strukturering-av-dokumenter#h_7838a63c73) for forslag på hvordan du kan organisere dokument-modellene dine slik at de er lette å finne.
 
 ### 4.6 **Godkjenn delte IFC-filer**
 

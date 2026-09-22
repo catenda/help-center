@@ -1,6 +1,6 @@
 # Gjennomgang av fil – høyre meny
 
-Når [gjennomgangen av fil i en gjennomgang](https://support.catenda.com/nb/articles/12507002-file-review-in-an-approval-request) åpnes for første gang, kan høyre meny være lukket. Klikk på informasjonsknappen til høyre for å utvide denne menyen.
+Når [gjennomgangen av fil i en gjennomgang](https://support.catenda.com/nb/articles/12507002-filvurdering-i-en-gjennomgangsforesporsel) åpnes for første gang, kan høyre meny være lukket. Klikk på informasjonsknappen til høyre for å utvide denne menyen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/sb8szdmp/01-intro.png)
 

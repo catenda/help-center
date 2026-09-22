@@ -24,7 +24,7 @@ Klicken Sie erneut auf den Schalter, um die Benachrichtigungen wieder einzuschal
 
 ## 2. **Benachrichtigungskontrollkästchen**
 
-Für jede Benachrichtigungsmethode können Sie auswählen, welche Benachrichtigungstypen Sie für diese Methode erhalten möchten. Klicken Sie [hier](https://support.catenda.com/de/articles/8304417-untitled-article), um zu sehen, wann jeder Benachrichtigungstyp gesendet wird.
+Für jede Benachrichtigungsmethode können Sie auswählen, welche Benachrichtigungstypen Sie für diese Methode erhalten möchten. Klicken Sie [hier](https://support.catenda.com/de/articles/8304417-filterung-auf-der-benachrichtigungsseite), um zu sehen, wann jeder Benachrichtigungstyp gesendet wird.
 
 ## 3. **In-Browser-Benachrichtigungen**
 
@@ -64,4 +64,4 @@ Kopieren Sie die URL in die **"Webhook URL"** oben. Stellen Sie sicher, dass die
 
 ## 7. **Pro-Projekt-Benachrichtigungen**
 
-Wenn Sie projektspezifische Benachrichtigungen eingerichtet haben, können Sie diese im linken Navigationsmenü eines Projekts sehen. Sie können auf den Namen des Projekts klicken, um zu den [Projektbenachrichtigungseinstellungen](https://support.catenda.com/de/articles/4670262-project-notification-settings) für dieses Projekt zu gelangen. Diese Einstellungen sind für Sie spezifisch und nicht für das gesamte Projekt.
+Wenn Sie projektspezifische Benachrichtigungen eingerichtet haben, können Sie diese im linken Navigationsmenü eines Projekts sehen. Sie können auf den Namen des Projekts klicken, um zu den [Projektbenachrichtigungseinstellungen](https://support.catenda.com/de/articles/4670262-projektspezifische-benachrichtigungseinstellungen) für dieses Projekt zu gelangen. Diese Einstellungen sind für Sie spezifisch und nicht für das gesamte Projekt.

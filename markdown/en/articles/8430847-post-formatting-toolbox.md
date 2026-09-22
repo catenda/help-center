@@ -100,7 +100,7 @@ In order for the image to properly show up, Catenda has to have access the link 
 
 > **Note:** \+ The image can be added to a description \+ The image can be mixed with text so you can have text both before, and after the image in the same comments or description. \+ Images like these can be combined with tables and lists. For example you could add a checkmark image in the middle of a sentence/table instead of the formatting checkbox which only works at the beginning of a sentence \- You cannot guarantee that the link to the image stays available in the future.
 
-_Getting a Catenda image document link_ If you right click the [download action button after selecting a document](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) or right click the [download latest revision action button after having opened a document](https://support.catenda.com/en/articles/9323521-actions-in-a-document) you can copy the download link of the document. If you use this link in your topic like above, you will be able to use Catenda documents in topics.
+_Getting a Catenda image document link_ If you right click the [download action button after selecting a document](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_133e2bcc57) or right click the [download latest revision action button after having opened a document](https://support.catenda.com/en/articles/9323521-document-revision-actions) you can copy the download link of the document. If you use this link in your topic like above, you will be able to use Catenda documents in topics.
 
 > **Note:** \+ If you add a link to a Catenda image document you can add images that only show on Catenda and are not available in other platforms that the topic may be exchanged with. \+ By adding links to a Catenda image document only people with access to the document will see the image. \- If you add a link to a Catenda image document it will not be visible in other platforms that the topic may have been synchronized with and to people that do not have access to the document.
 
@@ -262,7 +262,7 @@ When the description is saved or the comment is submitted related members with a
 
 **Notifications about future topic events** Members of teams that are mentioned in topic descriptions and comments only receive the one notification upon the saved description or submitted comment.
 
-In addition to the notification that they are mentioned, members that are mentioned in posts are automatically set to [follow](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic and will get notifications about topic events like new comments and status changes. This is a great way to ensure that more than just the [assignee](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9) and [requestee](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7) get notifications about future changes an topic. If a member no longer wishes to follow the topic they have to manualy unfollow it.
+In addition to the notification that they are mentioned, members that are mentioned in posts are automatically set to [follow](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) the topic and will get notifications about topic events like new comments and status changes. This is a great way to ensure that more than just the [assignee](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic#h_0a91fa8dd9) and [requestee](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic#h_1aea0990a7) get notifications about future changes an topic. If a member no longer wishes to follow the topic they have to manualy unfollow it.
 
 ### 5.2 **Mention in post**
 
@@ -294,15 +294,15 @@ Search through the list by starting to type the title or topic number. Go up and
 
 ### 6.1 **Saving or submitting a tagged topic**
 
-When the description is saved or the comment is submitted a topic relation is created. The linked topic is then added to the list of [linked topics](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [the right menu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue) of the topic.
+When the description is saved or the comment is submitted a topic relation is created. The linked topic is then added to the list of [linked topics](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_edf2cb07a8) in [the right menu](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic) of the topic.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/14-saving-or-submitting-a-tagged-topic.png)
 
-In addition to the topic where anohter topic was tagged, the tagged topic itself recevieves a link back to the topic where it was added to the list of [linked topics](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [the right menu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue).
+In addition to the topic where anohter topic was tagged, the tagged topic itself recevieves a link back to the topic where it was added to the list of [linked topics](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_edf2cb07a8) in [the right menu](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/15-saving-or-submitting-a-tagged-topic.png)
 
-The topic link can later be removed from either the topic with the tagged topic in the description or form the topic that was tagged by going to each topic and editing the list of [linked topics](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) in [the right menu](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue).
+The topic link can later be removed from either the topic with the tagged topic in the description or form the topic that was tagged by going to each topic and editing the list of [linked topics](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_edf2cb07a8) in [the right menu](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic).
 
 ### 6.2 **Tagged topic in post**
 

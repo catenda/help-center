@@ -1,6 +1,6 @@
 # Gjennomgangsinnstillinger - Eldre versjon
 
-Gjennomgangsinnstillingssiden finnes ved å klikke på gjennomgangsinnstillingshandlingen i handlingsmenyen til høyre for den grønne plusskappen på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-approvals-page). _Tilgang kreves_: Administrator
+Gjennomgangsinnstillingssiden finnes ved å klikke på gjennomgangsinnstillingshandlingen i handlingsmenyen til høyre for den grønne plusskappen på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon). _Tilgang kreves_: Administrator
 
 Dette er hvordan banneret på gjennomgangsinnstillingssiden kan se ut:
 
@@ -12,7 +12,7 @@ Handlingene for gjennomgangsinnstillingssiden finnes ved å klikke på handlings
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/eekvwhj0/02-actions-on-the-approvals-settings-page.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/12367730-topic-templates-page) for å lese mer om siden med saksmaler.
+Klikk [her](https://support.catenda.com/nb/articles/12367730-sakmalside-eldre-system) for å lese mer om siden med saksmaler.
 
 ## 2. **Publiseringsalternativer**
 
@@ -39,7 +39,7 @@ Klikk på statusrullegardinmenyen for dokumentet for å velge en status fra list
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/eekvwhj0/05-document-status.png)
 
-For å redigere statusene i prosjektet går du til statusarbeidsflytmenyen på [dokumentinnstillingssiden](https://support.catenda.com/nb/articles/7831371-document-settings-page).
+For å redigere statusene i prosjektet går du til statusarbeidsflytmenyen på [dokumentinnstillingssiden](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger).
 
 ### 2.3 **Saksmal**
 
@@ -49,7 +49,7 @@ Når en saksmal er konfigurert, kan en sak opprettes for hver publisert revisjon
 
 **Ikke opprett saker / Ikke lagre merknader** Som standard er innstillingen satt til ikke opprett saker, som den kan settes tilbake til ved å velge ikke lagre merknader i rullegardinmenyen.
 
-**Opprett en ny saksmal** Klikk [her](https://support.catenda.com/nb/articles/12372007-creating-a-new-topic-template) for å lese mer om opprettelse av en saksmal.
+**Opprett en ny saksmal** Klikk [her](https://support.catenda.com/nb/articles/12372007-opprette-en-ny-saksmal-eldre-versjon) for å lese mer om opprettelse av en saksmal.
 
 **Saksforhåndsvisning** Hvis en saksmal er valgt, klikker du på øyet ved siden av malen for å se innholdet i den saksmalene.
 

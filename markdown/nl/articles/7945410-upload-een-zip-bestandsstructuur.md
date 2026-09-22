@@ -1,6 +1,6 @@
 # Een zip / bestandsstructuur uploaden
 
-In vergelijking met het uploaden van een regulier zipbestand, zal de functie een zip uploaden en uitpakken. Op deze manier kunt u een bestandsstructuur in de [Documenten pagina](https://support.catenda.com/nl/articles/8204673-documents-page#h_28610e1d21) importeren zonder handmatig mappen te hoeven maken.
+In vergelijking met het uploaden van een regulier zipbestand, zal de functie een zip uploaden en uitpakken. Op deze manier kunt u een bestandsstructuur in de [Documenten pagina](https://support.catenda.com/nl/articles/8204673-documentenpagina#h_28610e1d21) importeren zonder handmatig mappen te hoeven maken.
 
 De functie voor het uploaden van een zip bestand is te vinden in het actiemenu aan de rechterkant van de groene + knop in de rechterbovenhoek van de Documenten pagina.
 

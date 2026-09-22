@@ -1,6 +1,6 @@
 # Mitgliedseite
 
-Die Mitgliedseite befindet sich im Bereich "Mitglieder" der [Mitgliedseite](https://support.catenda.com/de/articles/4670291-members-page). Klicken Sie auf das Mitglied, dessen Seite Sie anzeigen möchten. So kann eine Mitgliedseite aussehen:
+Die Mitgliedseite befindet sich im Bereich "Mitglieder" der [Mitgliedseite](https://support.catenda.com/de/articles/4670291-mitglieder-und-teams-seite). Klicken Sie auf das Mitglied, dessen Seite Sie anzeigen möchten. So kann eine Mitgliedseite aussehen:
 
 ![Mitgliedertseite](https://raw.githubusercontent.com/catenda/help-center/main/images/t0zstfcp/01-intro.png)
 

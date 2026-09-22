@@ -1,14 +1,14 @@
 # Onderwerplichaam - De inhoud van een onderwerp
 
-Selecteer een onderwerp uit een [onderwerpbord](https://support.catenda.com/nl/articles/4670271-issues-page#h_6a5895256b) om de onderwerppagina van het onderwerp te openen. Dit is hoe de [onderwerp banner](https://support.catenda.com/nl/articles/7986346-topic-banner-navigating-topics) op de onderwerppagina er uit kan zien:
+Selecteer een onderwerp uit een [onderwerpbord](https://support.catenda.com/nl/articles/4670271-pagina-topics#h_6a5895256b) om de onderwerppagina van het onderwerp te openen. Dit is hoe de [onderwerp banner](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics) op de onderwerppagina er uit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/01-intro.png)
 
-Dit is hoe de [onderwerrkop](https://support.catenda.com/nl/articles/8400566-topic-header-the-subject-of-a-topic) er uit kan zien:
+Dit is hoe de [onderwerrkop](https://support.catenda.com/nl/articles/8400566-onderwerp-header-het-onderwerp-van-een-onderwerp) er uit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/02-intro.png)
 
-Beschreven in dit artikel, het onderwerplichaam met beschrijving en opmerkingen kan gevonden worden onder de onderwerkop. Klik op het informatiepictogram naar rechts in de onderwerp banner om het [gerelateerde items menu](https://support.catenda.com/nl/articles/8053299-right-menu-in-a-topic) naar rechts van zowel de kop als het lichaam weer te geven.
+Beschreven in dit artikel, het onderwerplichaam met beschrijving en opmerkingen kan gevonden worden onder de onderwerkop. Klik op het informatiepictogram naar rechts in de onderwerp banner om het [gerelateerde items menu](https://support.catenda.com/nl/articles/8053299-rechtermenu-in-een-topic) naar rechts van zowel de kop als het lichaam weer te geven.
 
 Het onderwerplichaam beschreven in dit artikel bevindt zich onder de kop en links van het rechtse informatievenster:
 
@@ -22,11 +22,11 @@ De voortgangsbalk verschijnt boven aan het onderwerplichaam als selectievakjes o
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/04-progress-bar.png)
 
-De voortgangsbalk toont de voortgang van ingeschakelde selectievakjes en opgeloste onderwerpen in de beschrijving van het onderwerp. Voor een korte videotutorial over controlelijsten zie [hier](https://support.catenda.com/nl/articles/5036461-check-lists-within-issues)
+De voortgangsbalk toont de voortgang van ingeschakelde selectievakjes en opgeloste onderwerpen in de beschrijving van het onderwerp. Voor een korte videotutorial over controlelijsten zie [hier](https://support.catenda.com/nl/articles/5036461-checklists-binnen-issues)
 
 ## 2. **Beschrijving**
 
-De onderwerps beschrijving volgt de [algemene opmaakregels voor berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts).
+De onderwerps beschrijving volgt de [algemene opmaakregels voor berichten](https://support.catenda.com/nl/articles/8430847-werkbalk-voor-berichtopmaak).
 
 ### 2.1 **Beschrijving bewerken**
 
@@ -40,7 +40,7 @@ Dit is hoe een beschrijving er uit kan zien wanneer deze wordt bewerkt:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/06-edit-description.png)
 
-Voor meer informatie over opmaakopties bewerkt u de beschrijving en klikt u op het vraagteken. Beschrijvingen volgen de algemene regels van [opmaak van berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts) op Catenda.
+Voor meer informatie over opmaakopties bewerkt u de beschrijving en klikt u op het vraagteken. Beschrijvingen volgen de algemene regels van [opmaak van berichten](https://support.catenda.com/nl/articles/8430847-werkbalk-voor-berichtopmaak) op Catenda.
 
 ## 3. **Onderwerpinformatie**
 
@@ -50,11 +50,11 @@ De onderwerpinformatie kan gevonden worden onder de beschrijving. Dit is hoe de 
 
 ### 3.1 **Gemaakt door**
 
-De maker van het onderwerp en het moment waarop het werd gemaakt. Voor een specifieker moment ga naar [accountinstellingen](https://support.catenda.com/nl/articles/6880968-account-page#h_4aa257b72f).
+De maker van het onderwerp en het moment waarop het werd gemaakt. Voor een specifieker moment ga naar [accountinstellingen](https://support.catenda.com/nl/articles/6880968-accountpagina#h_4aa257b72f).
 
 ### 3.2 **Geschiedenis weergeven**
 
-De geschiedenis van het onderwerp kan zien door op de knop geschiedenis weergeven rechtsboven in de onderwerpsbeschrijving te klikken. Zie [dit artikel](https://support.catenda.com/nl/articles/8613038-topic-history) voor wat onderwerpgeschiedenis mogelijk is om te zien op Catenda Hub.
+De geschiedenis van het onderwerp kan zien door op de knop geschiedenis weergeven rechtsboven in de onderwerpsbeschrijving te klikken. Zie [dit artikel](https://support.catenda.com/nl/articles/8613038-onderwerpsgeschiedenis) voor wat onderwerpgeschiedenis mogelijk is om te zien op Catenda Hub.
 
 ### 3.3 **Sorteren**
 
@@ -90,7 +90,7 @@ Klik op Wijzigingen verbergen rechtsboven om de wijzigingen weer te verbergen.
 
 ### 4.2 **Opmerking**
 
-Tekst in opmerkingen volgt de [algemene regels voor opmaak van berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts) met een klein verschil als het gaat om controlelijsten.
+Tekst in opmerkingen volgt de [algemene regels voor opmaak van berichten](https://support.catenda.com/nl/articles/8430847-werkbalk-voor-berichtopmaak) met een klein verschil als het gaat om controlelijsten.
 
 **Bijlage pop-out** Klik met de linkermuisknop op de afbeelding van een bijlage om de afbeelding pop-out te openen.
 
@@ -122,7 +122,7 @@ Klik op de plusknop naast het opmerkingsveld om een 2D of 3D snapshot toe te voe
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/13-2d-or-3d-snapshots.png)
 
-2D snapshots hebben dezelfde knoppen maar met een afbeelding van de 2D viewer eraan gekoppeld. Klik [hier](https://support.catenda.com/nl/articles/10345863-snapshots) om meer te lezen over snapshot configuratie
+2D snapshots hebben dezelfde knoppen maar met een afbeelding van de 2D viewer eraan gekoppeld. Klik [hier](https://support.catenda.com/nl/articles/10345863-3d-snapshots) om meer te lezen over snapshot configuratie
 
 ### 4.5 **Annotatie**
 
@@ -130,9 +130,9 @@ Houd aantekeningen op documenten bij door een annotatie te maken. Wanneer een an
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/14-markup.png)
 
-Wanneer een annotatie aan een onderwerp wordt toegevoegd, wordt het document waarop de aantekeningen zijn gemaakt automatisch gekoppeld in de [gerelateerde documenten](https://support.catenda.com/nl/articles/7986346-issue-content#h_be2f2bcf3b).
+Wanneer een annotatie aan een onderwerp wordt toegevoegd, wordt het document waarop de aantekeningen zijn gemaakt automatisch gekoppeld in de [gerelateerde documenten](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics#h_be2f2bcf3b).
 
-**Annotatie opmerking** De annotatie opmerking volgt de [algemene regels voor opmaak van berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts) met een klein verschil als het gaat om controlelijsten.
+**Annotatie opmerking** De annotatie opmerking volgt de [algemene regels voor opmaak van berichten](https://support.catenda.com/nl/articles/8430847-werkbalk-voor-berichtopmaak) met een klein verschil als het gaat om controlelijsten.
 
 **Annotatie snapshot** De volgende informatie kan in een annotatie snapshot gezien worden: Een schermafbeelding van het gebied van het document waar de aantekeningen zijn gemaakt. _Vereiste toegang:_ Leestoegang tot het onderwerpbord
 
@@ -159,7 +159,7 @@ Dit is hoe een concept van een nieuwe opmerking er uit kan zien voor het indiene
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/15-new-comment.png)
 
-**Tekstvak** Schrijf een opmerking in het tekstvak naast de plusknop. Vermeld leden door @naam in te typen of koppel naar andere onderwerpen door #link in te typen. Tekst ingediend in het tekstvak van een opmerking volgt de [algemene opmaakregels voor berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts) op Catenda. Plak zowel tekst als afbeeldingen uit het klembord om deze aan de nieuwe opmerking toe te voegen.
+**Tekstvak** Schrijf een opmerking in het tekstvak naast de plusknop. Vermeld leden door @naam in te typen of koppel naar andere onderwerpen door #link in te typen. Tekst ingediend in het tekstvak van een opmerking volgt de [algemene opmaakregels voor berichten](https://support.catenda.com/nl/articles/8430847-werkbalk-voor-berichtopmaak) op Catenda. Plak zowel tekst als afbeeldingen uit het klembord om deze aan de nieuwe opmerking toe te voegen.
 
 **Plusknop** Klik op de plusknop om een 3D snapshot, een 2D snapshot of een afbeelding aan het concept van een nieuwe opmerking toe te voegen.
 

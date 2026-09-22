@@ -1,6 +1,6 @@
 # Åpen eller lukket gjennomgangsforespørsel
 
-Når delte revisjoner er aktivert i et prosjekt blir [gjennomgangssiden](https://support.catenda.com/nb/articles/12495047-approvals-page) tilgjengelig. Medlemmer som er del av innsendersider for gjennomgangsarbeidsflyter i prosjektet kan [sende inn en gjennomgangsforespørsel](https://support.catenda.com/nb/articles/12495005-creating-a-new-approval-request) på vegne av et innsendersider. Finn innsendte gjennomgangsforespørsler på gjennomgangsforespørselssiden eller i gjennomgangssiden-menyen på høyresiden av et dokument. Slik kan en gjennomgangsside se ut for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025:
+Når delte revisjoner er aktivert i et prosjekt blir [gjennomgangssiden](https://support.catenda.com/nb/articles/12495047-gjennomgangsside) tilgjengelig. Medlemmer som er del av innsendersider for gjennomgangsarbeidsflyter i prosjektet kan [sende inn en gjennomgangsforespørsel](https://support.catenda.com/nb/articles/12495005-opprette-en-ny-gjennomgang) på vegne av et innsendersider. Finn innsendte gjennomgangsforespørsler på gjennomgangsforespørselssiden eller i gjennomgangssiden-menyen på høyresiden av et dokument. Slik kan en gjennomgangsside se ut for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/01-intro.png)
 
@@ -18,7 +18,7 @@ Slik kan handlingene på gjennomgangssiden se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/02-new-item-actions.png)
 
-Bruk handlingen ny gjennomgangsforespørsel til å opprette en ny gjennomgangsforespørsel. Klikk [her](https://support.catenda.com/nb/articles/12495005-creating-a-new-approval-request) for å lese mer om oppretting av en ny gjennomgangsforespørsel.
+Bruk handlingen ny gjennomgangsforespørsel til å opprette en ny gjennomgangsforespørsel. Klikk [her](https://support.catenda.com/nb/articles/12495005-opprette-en-ny-gjennomgang) for å lese mer om oppretting av en ny gjennomgangsforespørsel.
 
 ## 2. **Gjennomgangshode**
 
@@ -40,7 +40,7 @@ Arbeidsflyten som er valgt under oppretting av denne gjennomgangen _Tilgang krev
 
 ### 2.3 **Beskrivelse**
 
-Beskrivelsen av gjennomgangen. Beskrivelsen av gjennomgangen følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts). _Påkrevd tilgang:_ Personen som opprettet gjennomgangsforespørselen, eller en prosjektadministrator.
+Beskrivelsen av gjennomgangen. Beskrivelsen av gjennomgangen følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg). _Påkrevd tilgang:_ Personen som opprettet gjennomgangsforespørselen, eller en prosjektadministrator.
 
 ## 3. **Trinnbånd**
 
@@ -52,7 +52,7 @@ Slik kan trinnbåndet se ut i en lukket gjennomgangsforespørsel:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/05-step-ribbon.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/12495212-step-ribbon-in-an-approval-request) for å lese mer om trinnbåndet.
+Klikk [her](https://support.catenda.com/nb/articles/12495212-stegband-i-en-gjennomgangsforesporsel) for å lese mer om trinnbåndet.
 
 ## 4. **Oversiktsfane**
 
@@ -60,7 +60,7 @@ I oversiktsfanen finner du en trinnforhåndsvisning av hvert trinn i gjennomgang
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/06-overview-tab.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/12495126-overview-tab-in-an-approval-request) for å lese mer om oversiktsfanen i en gjennomgang.
+Klikk [her](https://support.catenda.com/nb/articles/12495126-oversikt-fanen-i-en-gjennomgangsforesporsel) for å lese mer om oversiktsfanen i en gjennomgang.
 
 ## 5. **Dokumenterfane**
 
@@ -68,4 +68,4 @@ I dokumenterfanen for en gjennomgang vises en oversikt over hvert dokument som e
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/fp42emf8/07-documents-tab.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/12495130-documents-tab-in-an-approval-request) for å lese mer om dokumenterfanen i en gjennomgang
+Klikk [her](https://support.catenda.com/nb/articles/12495130-dokumenter-fanen-i-en-gjennomgangsforesporsel) for å lese mer om dokumenterfanen i en gjennomgang

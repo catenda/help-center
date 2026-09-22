@@ -1,6 +1,6 @@
 # Filtering on the notifications page
 
-Both in your [notification settings](https://support.catenda.com/en/articles/8272435-notification-settings) and in your [project notification settings](https://support.catenda.com/en/articles/4670262-project-specific-notification-settings) you will be able to configure which notifications you would like to receive.
+Both in your [notification settings](https://support.catenda.com/en/articles/8272435-account-notification-settings) and in your [project notification settings](https://support.catenda.com/en/articles/4670262-project-specific-notification-settings) you will be able to configure which notifications you would like to receive.
 
 In which situation a notification gets sent for the different settings will be explained in this article. After the notification is sent it can be found again on the [account notifications page](https://support.catenda.com/en/articles/7439223-account-notifications-page) and the [project notifications page](https://support.catenda.com/en/articles/4670295-project-notifications-page) by opening the filter menu button on the left.
 
@@ -22,11 +22,11 @@ Click the filter button on the top left for a panel to appear on the left side. 
 
 ### 2.3 **Save and share the current filter**
 
-Go to the URL of a filtered page to load that page with the filter applied. The applied filters can be saved towards the top of the filter menu. Click [here](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) to read more about how to save and share filters
+Go to the URL of a filtered page to load that page with the filter applied. The applied filters can be saved towards the top of the filter menu. Click [here](https://support.catenda.com/en/articles/11401493-saving-and-sharing-a-filter-link) to read more about how to save and share filters
 
 ### 2.4 **Hide empty filters**
 
-Click [here](https://support.catenda.com/en/articles/8551755-saving-filters) to read more about limiting filter results.
+Click [here](https://support.catenda.com/en/articles/8551755-limiting-filter-results) to read more about limiting filter results.
 
 ## 3. **Date filters**
 
@@ -88,15 +88,15 @@ _Export success_ - `type=export-completed` When you model export has successfull
 
 ### 7.1 **New topic** - `type=new-issue`
 
-This is the only notification you get about a topic if you are not [following](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic. Assignees, requestees and members that are mentioned in topics are automatically following the topic and will get the notifications below.
+This is the only notification you get about a topic if you are not [following](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) the topic. Assignees, requestees and members that are mentioned in topics are automatically following the topic and will get the notifications below.
 
 **Notification setting option:** A new topic is created
 
 ### 7.2 **New comment** - `type=new-comment`
 
-If you are neither the assignee nor the requestee of the topic but are [following](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic you will get this notification.
+If you are neither the assignee nor the requestee of the topic but are [following](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) the topic you will get this notification.
 
-This can happen if you were previously [assigned](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9), [requester](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [mentioned](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) or [manually followed](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic. If you would not like future notifications of this topic you can unfollow the topic in its [right information panel](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue). _Notification setting option: assigned to me_ A topic is assigned to you
+This can happen if you were previously [assigned](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic#h_0a91fa8dd9), [requester](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic#h_1aea0990a7), [mentioned](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox#h_2481ad1c8c) or [manually followed](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) the topic. If you would not like future notifications of this topic you can unfollow the topic in its [right information panel](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic). _Notification setting option: assigned to me_ A topic is assigned to you
 
 **Notification setting option: requested by me** A topic is requested by you
 
@@ -122,9 +122,9 @@ When a team is assigned to a topic
 
 ### 7.7 **Status updated** - `type=status-updated`
 
-If you are neither the assignee nor the requestee of the topic but are [following](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic you will get this notification.
+If you are neither the assignee nor the requestee of the topic but are [following](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) the topic you will get this notification.
 
-This can happen if you were previously [assigned](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9), [requester](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [mentioned](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) or [manually followed](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic. If you would not like future notifications of this topic you can unfollow the topic in its [right information panel](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue). _Notification setting option: assigned to me_ A status is updated in a topic assigned to you
+This can happen if you were previously [assigned](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic#h_0a91fa8dd9), [requester](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic#h_1aea0990a7), [mentioned](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox#h_2481ad1c8c) or [manually followed](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) the topic. If you would not like future notifications of this topic you can unfollow the topic in its [right information panel](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic). _Notification setting option: assigned to me_ A status is updated in a topic assigned to you
 
 **Notification setting option: requested by me** A status is updated in a topic requested by you
 
@@ -132,9 +132,9 @@ This can happen if you were previously [assigned](https://support.catenda.com/en
 
 ### 7.8 **Type updated** - `type=type-updated`
 
-If you are neither the assignee nor the requestee of the topic but are [following](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic you will get this notification.
+If you are neither the assignee nor the requestee of the topic but are [following](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) the topic you will get this notification.
 
-This can happen if you were previously [assigned](https://support.catenda.com/en/articles/8400566-issue-header#h_0a91fa8dd9), [requester](https://support.catenda.com/en/articles/8400566-issue-header#h_1aea0990a7), [mentioned](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) or [manually followed](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic. If you would not like future notifications of this topic you can unfollow the topic in its [right information panel](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue). _Notification setting options:_
+This can happen if you were previously [assigned](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic#h_0a91fa8dd9), [requester](https://support.catenda.com/en/articles/8400566-topic-header-the-subject-of-a-topic#h_1aea0990a7), [mentioned](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox#h_2481ad1c8c) or [manually followed](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) the topic. If you would not like future notifications of this topic you can unfollow the topic in its [right information panel](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic). _Notification setting options:_
 
 Assigned to me - A type is updated in a topic assigned to you
 

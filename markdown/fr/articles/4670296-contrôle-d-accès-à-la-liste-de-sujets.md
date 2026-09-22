@@ -2,7 +2,7 @@
 
 > Niveaux de contrôle d'accès aux listes de sujets
 
-Vous pourrez trouver le contrôle d'accès d'une liste de sujets en cliquant sur [modifier l'accès](https://support.catenda.com/fr/articles/4670277-issue-board-settings#h_82063f7a79) dans le [menu de contrôle d'accès](https://support.catenda.com/fr/articles/4670277-issue-board-settings#h_7a3aca4c7d) sur la page [paramètres de la liste de sujets](https://support.catenda.com/fr/articles/4670277-issue-board-settings). _Accès requis:_ Accès complet à la liste de sujets
+Vous pourrez trouver le contrôle d'accès d'une liste de sujets en cliquant sur [modifier l'accès](https://support.catenda.com/fr/articles/4670277-page-des-parametres-du-tableau-de-bord-des-sujets#h_82063f7a79) dans le [menu de contrôle d'accès](https://support.catenda.com/fr/articles/4670277-page-des-parametres-du-tableau-de-bord-des-sujets#h_7a3aca4c7d) sur la page [paramètres de la liste de sujets](https://support.catenda.com/fr/articles/4670277-page-des-parametres-du-tableau-de-bord-des-sujets). _Accès requis:_ Accès complet à la liste de sujets
 
 La boîte de dialogue de modification du contrôle d'accès peut ressembler à ceci:
 

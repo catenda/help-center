@@ -6,7 +6,7 @@ Revisions can be withdrawn with the withdraw action in action menu of a revision
 
 In the heat of data transfer, simple mistakes are sometimes made by uploading the wrong file or updating an existing document with the wrong revision. There is a new solution for this in Catenda HUB. _Access required:_ Full access to the document
 
-You will be able to find the option in the [right menu of a revision](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document) and can look something like this:
+You will be able to find the option in the [right menu of a revision](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info) and can look something like this:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hhtwytcy/01-intro.png)
 

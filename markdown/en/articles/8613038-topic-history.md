@@ -1,6 +1,6 @@
 # Topic history
 
-You will be able to find the topic history button towards the top of the [topic body](https://support.catenda.com/en/articles/8053352-issue-body). By clicking on this button you will expand the history of any changes made to the topic during its time in your Catenda project.
+You will be able to find the topic history button towards the top of the [topic body](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic). By clicking on this button you will expand the history of any changes made to the topic during its time in your Catenda project.
 
 In the topic history you will be able to find information about the following topics:
 

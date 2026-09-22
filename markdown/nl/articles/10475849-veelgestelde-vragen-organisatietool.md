@@ -8,7 +8,7 @@ In dit artikel vindt u informatie over de volgende onderwerpen: - _[Alle organis
 
 ## 1. Alle organisatieleden toevoegen aan een project
 
-1\. Ga naar de [pagina Gebruikers](https://support.catenda.com/nl/articles/8508311-users-page-organization-tool)
+1\. Ga naar de [pagina Gebruikers](https://support.catenda.com/nl/articles/8508311-gebruikerspagina-organisatietool)
 
 2\. Voeg de organisatieleden toe die u aan uw projecten wilt toevoegen.
 
@@ -20,7 +20,7 @@ In dit artikel vindt u informatie over de volgende onderwerpen: - _[Alle organis
 
 > **Opmerking:** Mogelijk moet u de lijst omlaag schuiven voordat u selecteert als er veel leden zijn.
 
-4\. Gebruik de knop [toevoegen aan projecten](https://support.catenda.com/nl/articles/8508311-users-page-organization-tool#h_8196c5add6).
+4\. Gebruik de knop [toevoegen aan projecten](https://support.catenda.com/nl/articles/8508311-gebruikerspagina-organisatietool#h_8196c5add6).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4fjqfv51/03-add-all-organization-members-to-a-project.png)
 
@@ -30,19 +30,19 @@ In dit artikel vindt u informatie over de volgende onderwerpen: - _[Alle organis
 
 ## 2. Organisatieleden toevoegen aan alle projecten in de organisatie
 
-1\. Ga naar de [pagina Projecten](https://intercom.help/bimsync-arena/nl/articles/8505058-projects-page-organization-tool)
+1\. Ga naar de [pagina Projecten](https://intercom.help/bimsync-arena/nl/articles/8505058-projectpagina-organisatietool)
 
 2\. Selecteer alle projecten met het selectievakje linksboven.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4fjqfv51/05-add-organization-members-to-all-projects-in-the-organization.png)
 
-3\. Gebruik de knop [nieuwe leden toevoegen](https://support.catenda.com/nl/articles/8505058-projects-page-organization-tool#h_c7ebf87db6) en selecteer de organisatieleden die u wilt toevoegen.
+3\. Gebruik de knop [nieuwe leden toevoegen](https://support.catenda.com/nl/articles/8505058-projectpagina-organisatietool#h_c7ebf87db6) en selecteer de organisatieleden die u wilt toevoegen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4fjqfv51/06-add-organization-members-to-all-projects-in-the-organization.png)
 
 ## 3. De rol van projectleden in alle projecten tegelijk wijzigen
 
-1\. Ga naar de [pagina Projectlidmaatschap](https://intercom.help/bimsync-arena/nl/articles/9003642-project-memberships-organization-tool)
+1\. Ga naar de [pagina Projectlidmaatschap](https://intercom.help/bimsync-arena/nl/articles/9003642-projectleden-organisatietool)
 
 2\. Filter de leden waarvan u de rol wilt wijzigen.
 
@@ -52,6 +52,6 @@ U ziet een rij voor elk project waarvan elk gefilterd lid onderdeel is.
 
 3\. Selecteer alle rijen met het selectievakje linksboven
 
-4\. Gebruik de actie [projectrol(len) wijzigen](https://support.catenda.com/nl/articles/9003642-project-memberships-organization-tool#h_678ea5e6dc) om de rollen van de gefilterde leden in alle projecten tegelijk te wijzigen. 5\. Selecteer de rol die u voor de geselecteerde leden wilt instellen en klik op Wijzigen.
+4\. Gebruik de actie [projectrol(len) wijzigen](https://support.catenda.com/nl/articles/9003642-projectleden-organisatietool#h_678ea5e6dc) om de rollen van de gefilterde leden in alle projecten tegelijk te wijzigen. 5\. Selecteer de rol die u voor de geselecteerde leden wilt instellen en klik op Wijzigen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4fjqfv51/08-change-the-role-of-project-members-in-all-projects-at-once.png)

@@ -4,19 +4,19 @@ If you select a document on the [documents page](https://support.catenda.com/en/
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/01-intro.png)
 
-1. The [document banner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) spans across the top of the document page
+1. The [document banner](https://support.catenda.com/en/articles/8461918-document-banner-navigation) spans across the top of the document page
 1. You will find the document header below the document banner and above the document preview.
 1. Below the document header you will find the [document preview](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
 1. To the left of the document header and preview you will find the document list
 1. _This article:_ To the right of the document header and preview you will find the right information menu.
 
-When you first open a document, its right menu might be closed. You can click on the information button on the bottom right of the [document banner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) to expand this menu.
+When you first open a document, its right menu might be closed. You can click on the information button on the bottom right of the [document banner](https://support.catenda.com/en/articles/8461918-document-banner-navigation) to expand this menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/02-intro.png)
 
 ## 1. **File info and Markups tabs**
 
-Towards the top of the menu you will see the File info and the Markups tabs. By default, when you open the right menu, the File info tab will be active. When you create an annotation in the document preview this menu automatically switches to the markup tab. This article describes the Markup tab. If you are looking for information about the File info tab, click [here](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision).
+Towards the top of the menu you will see the File info and the Markups tabs. By default, when you open the right menu, the File info tab will be active. When you create an annotation in the document preview this menu automatically switches to the markup tab. This article describes the Markup tab. If you are looking for information about the File info tab, click [here](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info).
 
 ## 2. **What is a markup**
 

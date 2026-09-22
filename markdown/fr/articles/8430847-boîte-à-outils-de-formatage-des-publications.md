@@ -40,7 +40,7 @@ Dans les commentaires du sujet, un outil de pièce jointe est visible. Cliquez s
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/05-topic-comment-attachment.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/8053352-topic-body-the-content-of-a-topic#h_0e3c0059ae) pour en savoir plus sur les pièces jointes aux commentaires.
+Cliquez [ici](https://support.catenda.com/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet#h_0e3c0059ae) pour en savoir plus sur les pièces jointes aux commentaires.
 
 ## 3. **Formatage du texte**
 
@@ -100,7 +100,7 @@ Pour que l'image s'affiche correctement, Catenda doit avoir accès au lien fourn
 
 > **Remarque :** \+ L'image peut être ajoutée à une description \+ L'image peut être mélangée avec du texte pour que vous ayez du texte avant et après l'image dans les mêmes commentaires ou description. \+ Les images comme celles-ci peuvent être combinées avec des tableaux et des listes. Par exemple, vous pourriez ajouter une image de coche au milieu d'une phrase/tableau au lieu de la case à cocher de formatage qui ne fonctionne qu'au début d'une phrase \- Vous ne pouvez pas garantir que le lien vers l'image restera disponible à l'avenir.
 
-_Obtention d'un lien de document image Catenda_ Si vous cliquez avec le bouton droit sur le [bouton d'action de téléchargement après sélection d'un document](https://support.catenda.com/fr/articles/4670288-actions-in-the-document-structure#h_133e2bcc57) ou cliquez avec le bouton droit sur le [bouton d'action de téléchargement de la dernière révision après ouverture d'un document](https://support.catenda.com/fr/articles/9323521-actions-in-a-document), vous pouvez copier le lien de téléchargement du document. Si vous utilisez ce lien dans votre sujet comme ci-dessus, vous pourrez utiliser des documents Catenda dans les sujets.
+_Obtention d'un lien de document image Catenda_ Si vous cliquez avec le bouton droit sur le [bouton d'action de téléchargement après sélection d'un document](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents#h_133e2bcc57) ou cliquez avec le bouton droit sur le [bouton d'action de téléchargement de la dernière révision après ouverture d'un document](https://support.catenda.com/fr/articles/9323521-actions-de-revision-de-document), vous pouvez copier le lien de téléchargement du document. Si vous utilisez ce lien dans votre sujet comme ci-dessus, vous pourrez utiliser des documents Catenda dans les sujets.
 
 > **Remarque :** \+ Si vous ajoutez un lien à un document image Catenda, vous pouvez ajouter des images qui n'apparaissent que sur Catenda et ne sont pas disponibles sur d'autres plateformes avec lesquelles le sujet peut être échangé. \+ En ajoutant des liens à un document image Catenda, seules les personnes ayant accès au document verront l'image. \- Si vous ajoutez un lien à un document image Catenda, il ne sera pas visible sur d'autres plateformes avec lesquelles le sujet a pu être synchronisé et aux personnes n'ayant pas accès au document.
 
@@ -210,7 +210,7 @@ Se transformera en ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/07-checklists.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/5036461-check-lists-within-issues) pour regarder une courte vidéo sur la façon dont les listes de contrôle peuvent être utilisées dans le projet. Si vous écrivez` - [ ]` ou `- [x]` la case apparaîtra toujours non cochée et cochée lorsque le commentaire est soumis ou enregistré après modification.
+Cliquez [ici](https://support.catenda.com/fr/articles/5036461-listes-de-verification-dans-les-problemes) pour regarder une courte vidéo sur la façon dont les listes de contrôle peuvent être utilisées dans le projet. Si vous écrivez` - [ ]` ou `- [x]` la case apparaîtra toujours non cochée et cochée lorsque le commentaire est soumis ou enregistré après modification.
 
 **Cases à cocher dans les commentaires** Dans les commentaires, les cases à cocher ne peuvent être cochées que par le formatage. Les cases à cocher dans les commentaires ne peuvent pas être cochées. _Accès requis -_ Le créateur du commentaire a accès à la modification du commentaire créé
 
@@ -262,7 +262,7 @@ Lorsque la description est enregistrée ou que le commentaire est soumis, les Me
 
 **Notifications sur les futurs événements de sujet** Les Membres des Équipes mentionnées dans les descriptions de sujets et les commentaires reçoivent uniquement la notification lors de la description enregistrée ou du commentaire soumis.
 
-En plus de la notification indiquant qu'ils sont mentionnés, les Membres mentionnés dans les publications sont automatiquement définis pour [suivre](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) le sujet et recevront des notifications sur les événements de sujet tels que les nouveaux commentaires et les changements de statut. C'est un excellent moyen de s'assurer que plus que le [responsable assigné](https://support.catenda.com/fr/articles/8400566-issue-header#h_0a91fa8dd9) et le [demandeur](https://support.catenda.com/fr/articles/8400566-issue-header#h_1aea0990a7) reçoivent les notifications concernant les futurs changements d'un sujet. Si un Membre ne souhaite plus suivre le sujet, il doit manuellement l'abandonner.
+En plus de la notification indiquant qu'ils sont mentionnés, les Membres mentionnés dans les publications sont automatiquement définis pour [suivre](https://support.catenda.com/fr/articles/8053299-menu-de-droite-dans-un-sujet#h_a97f3b264e) le sujet et recevront des notifications sur les événements de sujet tels que les nouveaux commentaires et les changements de statut. C'est un excellent moyen de s'assurer que plus que le [responsable assigné](https://support.catenda.com/fr/articles/8400566-en-tete-de-sujet-l-objet-d-un-sujet#h_0a91fa8dd9) et le [demandeur](https://support.catenda.com/fr/articles/8400566-en-tete-de-sujet-l-objet-d-un-sujet#h_1aea0990a7) reçoivent les notifications concernant les futurs changements d'un sujet. Si un Membre ne souhaite plus suivre le sujet, il doit manuellement l'abandonner.
 
 ### 5.2 **Mention dans la publication**
 
@@ -272,7 +272,7 @@ Les mentions dans les publications peuvent être identifiées par une couleur de
 
 En arrière-plan, l'ID unique du participant au projet mentionné est enregistré. C'est le nom du participant qui s'affiche dans ce texte vert. Même si le membre ou l'équipe change de nom, il restera mentionné dans la publication mais sous son nouveau nom.
 
-Les Membres mentionnés ont un lien cliquable qui dirige vers la [page du Membre](https://support.catenda.com/fr/articles/8228836-member-page) de ce Membre. Les Équipes mentionnées ont un lien cliquable qui dirige vers la [page de l'Équipe](https://support.catenda.com/fr/articles/7891755-team-page) de cette Équipe.
+Les Membres mentionnés ont un lien cliquable qui dirige vers la [page du Membre](https://support.catenda.com/fr/articles/8228836-page-des-membres) de ce Membre. Les Équipes mentionnées ont un lien cliquable qui dirige vers la [page de l'Équipe](https://support.catenda.com/fr/articles/7891755-page-d-equipe) de cette Équipe.
 
 **Membre inexistant** S'il n'y a pas de Membre dans le projet qui possède l'adresse e-mail mentionnée, la publication ressemble à ceci :
 
@@ -294,15 +294,15 @@ Parcourez la liste en commençant à taper le titre ou le numéro du sujet. Alle
 
 ### 6.1 **Enregistrement ou soumission d'un sujet étiquetée**
 
-Lorsque la description est enregistrée ou que le commentaire est soumis, une relation de sujet est créée. Le sujet lié est ensuite ajouté à la liste des [sujets liés](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) dans [le menu de droite](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue) du sujet.
+Lorsque la description est enregistrée ou que le commentaire est soumis, une relation de sujet est créée. Le sujet lié est ensuite ajouté à la liste des [sujets liés](https://support.catenda.com/fr/articles/8053299-menu-de-droite-dans-un-sujet#h_edf2cb07a8) dans [le menu de droite](https://support.catenda.com/fr/articles/8053299-menu-de-droite-dans-un-sujet) du sujet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/14-saving-or-submitting-a-tagged-topic.png)
 
-En plus du sujet dans lequel un autre sujet a été étiquetée, le sujet étiquetée reçoit lui-même un lien de retour vers le sujet dans lequel il a été ajouté à la liste des [sujets liés](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) dans [le menu de droite](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue).
+En plus du sujet dans lequel un autre sujet a été étiquetée, le sujet étiquetée reçoit lui-même un lien de retour vers le sujet dans lequel il a été ajouté à la liste des [sujets liés](https://support.catenda.com/fr/articles/8053299-menu-de-droite-dans-un-sujet#h_edf2cb07a8) dans [le menu de droite](https://support.catenda.com/fr/articles/8053299-menu-de-droite-dans-un-sujet).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tt9y4c9z/15-saving-or-submitting-a-tagged-topic.png)
 
-Le lien de sujet peut ensuite être supprimé du sujet contenant le sujet étiquetée dans la description ou du sujet qui a été étiquetée en accédant à chaque sujet et en modifiant la liste des [sujets liés](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue#h_edf2cb07a8) dans [le menu de droite](https://support.catenda.com/fr/articles/8053299-right-panel-in-an-issue).
+Le lien de sujet peut ensuite être supprimé du sujet contenant le sujet étiquetée dans la description ou du sujet qui a été étiquetée en accédant à chaque sujet et en modifiant la liste des [sujets liés](https://support.catenda.com/fr/articles/8053299-menu-de-droite-dans-un-sujet#h_edf2cb07a8) dans [le menu de droite](https://support.catenda.com/fr/articles/8053299-menu-de-droite-dans-un-sujet).
 
 ### 6.2 **Sujet étiquetée dans la publication**
 

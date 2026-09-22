@@ -1,6 +1,6 @@
 # Rechtes Menü in einem Thema
 
-Das rechte Menü in einem Thema können Sie finden, indem Sie auf die Informationsschaltfläche auf der rechten Seite im [Themenbanner](https://support.catenda.com/de/articles/7986346-topic-banner-navigating-topics) oben auf der Seite klicken, nachdem Sie ein Thema geöffnet haben.
+Das rechte Menü in einem Thema können Sie finden, indem Sie auf die Informationsschaltfläche auf der rechten Seite im [Themenbanner](https://support.catenda.com/de/articles/7986346-themen-banner-navigation-durch-themen) oben auf der Seite klicken, nachdem Sie ein Thema geöffnet haben.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/01-intro.png)
 

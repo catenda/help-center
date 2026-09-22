@@ -10,7 +10,7 @@ Det er bare mulig å sende inn dialogen for ny gjennomgangsforespørsel med oppt
 
 ## 2. **Oversiktsfanen – Lukking av en gjennomgangsforespørsel**
 
-Når en gjennomgang lukkes, kan publiseringen mislykkes. I [oversiktsfanen](https://support.catenda.com/nb/articles/12495126-overview-tab-in-an-approval-request) for gjennomgangen kan følgende ses:
+Når en gjennomgang lukkes, kan publiseringen mislykkes. I [oversiktsfanen](https://support.catenda.com/nb/articles/12495126-oversikt-fanen-i-en-gjennomgangsforesporsel) for gjennomgangen kan følgende ses:
 
 ![Publisering mislyktes Publiserte 1 dokument. Kunne ikke oppdatere 1 dokument vis detaljer](https://raw.githubusercontent.com/catenda/help-center/main/images/atct6we8/02-overview-tab-closing-an-approval-request.png)
 

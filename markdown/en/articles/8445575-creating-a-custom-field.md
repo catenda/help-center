@@ -16,7 +16,7 @@ _Integer_ - Can only contain whole numbers
 
 **Decimal number** A decimal number field will display up to 6 numbers after the comma. If there are more than 6 numbers after the comma scientific notation will be used.
 
-**Dropdown** If you create a dropdown custom field you will have to [add values](https://support.catenda.com/en/articles/8445588-custom-field-page#h_45eefa3001) to the dropdown list
+**Dropdown** If you create a dropdown custom field you will have to [add values](https://support.catenda.com/en/articles/8445588-custom-field-contents-page#h_45eefa3001) to the dropdown list
 
 ## 3. **Description**
 

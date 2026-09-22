@@ -1,6 +1,6 @@
 # Seite "Projekte" - Organisationstool
 
-Sie finden die Seite "Projekte" als Unterseite auf Ihrer [Organisationsprofilseite](https://support.catenda.com/de/articles/8497478-organization-profile-page).
+Sie finden die Seite "Projekte" als Unterseite auf Ihrer [Organisationsprofilseite](https://support.catenda.com/de/articles/8497478-organisationsprofilseite).
 
 Hier erhalten Sie einen Überblick über alle Projekte, die Teil dieser Organisation sind.
 
@@ -64,7 +64,7 @@ Löschen Sie die ausgewählten Projekt(e)
 
 In der Projektliste können Sie die folgenden Spalten finden, die Sie in auf- und absteigender Reihenfolge sortieren können.
 
-Die Sortierreihenfolge der Projektliste folgt der [Sortierreihenfolge von Listen](https://support.catenda.com/de/articles/8487788-sorting-order-of-lists) bei Catenda.
+Die Sortierreihenfolge der Projektliste folgt der [Sortierreihenfolge von Listen](https://support.catenda.com/de/articles/8487788-sortierreihenfolge-von-listen) bei Catenda.
 
 Klicken Sie auf das Kontrollkästchen oben links in der Liste, um alle Projekte auszuwählen.
 

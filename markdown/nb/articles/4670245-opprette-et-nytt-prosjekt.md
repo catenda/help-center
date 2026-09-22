@@ -1,6 +1,6 @@
 # Opprette et nytt prosjekt
 
-Hvis din gjeldende plan og tilgang tillater det, kan du opprette et nytt prosjekt ved å logge inn og på [prosjektsiden](https://support.catenda.com/nb/articles/4670260-projects-page), klikke på "Nytt prosjekt"-knappen eller gå til [siden for nytt prosjekt](https://hub.catenda.com/new-project).
+Hvis din gjeldende plan og tilgang tillater det, kan du opprette et nytt prosjekt ved å logge inn og på [prosjektsiden](https://support.catenda.com/nb/articles/4670260-kontoknappar), klikke på "Nytt prosjekt"-knappen eller gå til [siden for nytt prosjekt](https://hub.catenda.com/new-project).
 
 Ellers, for å opprette et nytt prosjekt, kontakt Catenda-støtten på [support@catenda.com](mailto:support@catenda.com) eller via chat-knappen. Den sorte chat-knappen finnes øverst til høyre inne i Catenda Hub eller nederst til høyre på hjelpe-/hjemmesidene våre for å oppgradere planen din. Vi vil veilede deg gjennom opprettingen.
 
@@ -38,7 +38,7 @@ Hver organisasjon har en innstilling for dokumentnedlasting.
 
 ### 3.1 **Standard**
 
-Innstillingen for dokumentnedlasting som et opprettet prosjekt mottar, er basert på innstillingen for dokumentnedlasting for nye prosjekter i organisasjonen den opprettes i. Nye organisasjoner har alternativet "Revisjonfilnavn" aktivert som standard. Dokumenter som lastes ned i prosjekter som opprettes i nye organisasjoner, får derfor revisjonsnavnet på den nedlastede revisjonen i filtittelen. Klikk [her](https://support.catenda.com/nb/articles/8224886-organization-options#h_5564d6602f) for å se andre alternativer som er tilgjengelige for organisasjoner.
+Innstillingen for dokumentnedlasting som et opprettet prosjekt mottar, er basert på innstillingen for dokumentnedlasting for nye prosjekter i organisasjonen den opprettes i. Nye organisasjoner har alternativet "Revisjonfilnavn" aktivert som standard. Dokumenter som lastes ned i prosjekter som opprettes i nye organisasjoner, får derfor revisjonsnavnet på den nedlastede revisjonen i filtittelen. Klikk [her](https://support.catenda.com/nb/articles/8224886-organisasjonsalternativer#h_5564d6602f) for å se andre alternativer som er tilgjengelige for organisasjoner.
 
 ### 3.2 **Nye prosjekter i konfigurerte organisasjoner**
 
@@ -48,7 +48,7 @@ Når innstillingen for dokumentnedlasting for nye prosjekter i en organisasjon e
 
 Når et nytt prosjekt opprettes, er opt-in-funksjoner ikke aktivert som standard. Det er mulig å be om at følgende funksjoner aktiveres etter opprettingen av prosjektet:
 
-[Objekter-side](https://support.catenda.com/nb/articles/12352750-objects-page) [Rapporter-side](https://support.catenda.com/nb/articles/12303098-reports-page)
+[Objekter-side](https://support.catenda.com/nb/articles/12352750-objektside) [Rapporter-side](https://support.catenda.com/nb/articles/12303098-rapportsside)
 
 ## 5. **Velg et prosjekt for å bruke som mal**
 

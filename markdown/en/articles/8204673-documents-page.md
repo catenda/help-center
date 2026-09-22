@@ -6,13 +6,13 @@ The documents page can be found as the fourth item in the left navigation menu i
 
 ## 1. **New item actions**
 
-The new item actions can be found on the top right of the page. See [here](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure) for what the different actions do.
+The new item actions can be found on the top right of the page. See [here](https://support.catenda.com/en/articles/4670288-documents-table-actions) for what the different actions do.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/nzhpbg4s/02-new-item-actions.png)
 
 ## 2. **Search or filter options**
 
-See [here](https://support.catenda.com/en/articles/4670283-search-and-filter-option) to find out how best to search or filter in the documents section
+See [here](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page) to find out how best to search or filter in the documents section
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/nzhpbg4s/03-search-or-filter-options.png)
 
@@ -34,7 +34,7 @@ In the right menu you will be able to see information about:
 - Linked objects
 - Topics
 
-Click [here](https://support.catenda.com/en/articles/8345396-right-panel-on-the-documents-page) to read more about the right menu.
+Click [here](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page) to read more about the right menu.
 
 ## 4. **Documents table**
 
@@ -50,7 +50,7 @@ After selecting an element row selected item actions appear towards the top of t
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/nzhpbg4s/06-selected-item-actions.png)
 
-Click [here](https://support.catenda.com/en/articles/4670288-document-structure-actions) to read more about the selected item actions on the documents page.
+Click [here](https://support.catenda.com/en/articles/4670288-documents-table-actions) to read more about the selected item actions on the documents page.
 
 ### 4.2 **Row content**
 
@@ -103,5 +103,5 @@ Click [here](https://support.catenda.com/en/articles/8466850-columns-on-the-docu
 The following pages can be found as sub-pages to the documents page:
 
 - [collections](https://support.catenda.com/en/articles/6344318-collections-page)
-- [approvals](https://support.catenda.com/en/articles/8349340-approvals-page)
-- [settings](https://support.catenda.com/en/articles/7831371-document-settings)
+- [approvals](https://support.catenda.com/en/articles/8349340-approvals-page-legacy)
+- [settings](https://support.catenda.com/en/articles/7831371-document-settings-page)

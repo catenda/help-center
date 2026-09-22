@@ -34,7 +34,7 @@ The right menu can be found on the top right of the collection banner below the 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g39es426/03-right-menu.png)
 
-Click [here](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-page) to read more about the right menu on the collection page.
+Click [here](https://support.catenda.com/en/articles/12179454-right-menu-on-the-collection-content-page) to read more about the right menu on the collection page.
 
 ## 3. **Collection type**
 

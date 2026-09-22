@@ -12,7 +12,7 @@ Die Anzeige einer Genehmigungsanfrage und die Interaktion mit ihren Inhalten erf
 
 ### 1.1 **1.1 Genehmigungsseite (Listenansicht)**
 
-Zeigt die Übersichtsliste der Genehmigungsanfragekarten an. Detaillierte Sichtbarkeitserregeln für Anfragen auf dieser Seite werden durch Teamrollenzuweisungen geregelt, wie in dem Artikel [Sichtbarkeit der Genehmigungsseite und Teamrollen](https://support.catenda.com/de/articles/12495047-approvals-page) erläutert.
+Zeigt die Übersichtsliste der Genehmigungsanfragekarten an. Detaillierte Sichtbarkeitserregeln für Anfragen auf dieser Seite werden durch Teamrollenzuweisungen geregelt, wie in dem Artikel [Sichtbarkeit der Genehmigungsseite und Teamrollen](https://support.catenda.com/de/articles/12495047-genehmigungsseite) erläutert.
 
 ### 1.2 **1.2 Genehmigungsinhaltsseite**
 

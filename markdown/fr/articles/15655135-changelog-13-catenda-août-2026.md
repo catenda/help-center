@@ -22,54 +22,54 @@ Les topics suivants sont décrits dans cette section :
 
 **Fonctionnalités du produit**
 
-- [Comment les niveaux d'accès sont calculés](https://support.catenda.com/fr/articles/15644094-how-access-levels-are-calculated)
-- [Cas d'utilisation du déploiement du contrôle d'accès](https://support.catenda.com/fr/articles/15644249-access-control-deployment-use-cases)
-- [Opérations sur les éléments de la bibliothèque de documents](https://support.catenda.com/fr/articles/15647394-operations-on-document-library-items)
-- [Création d'un nouvel export de modèle](https://support.catenda.com/fr/articles/15481038-creating-a-new-model-export)
-- [Page de contenu de l'export de modèle](https://support.catenda.com/fr/articles/15480883-model-export-content-page)
+- [Comment les niveaux d'accès sont calculés](https://support.catenda.com/fr/articles/15644094-comment-les-niveaux-d-acces-sont-calcules)
+- [Cas d'utilisation du déploiement du contrôle d'accès](https://support.catenda.com/fr/articles/15644249-cas-d-usage-du-deploiement-du-controle-d-acces)
+- [Opérations sur les éléments de la bibliothèque de documents](https://support.catenda.com/fr/articles/15647394-operations-sur-les-elements-de-la-bibliotheque-de-documents)
+- [Création d'un nouvel export de modèle](https://support.catenda.com/fr/articles/15481038-creer-un-nouvel-export-de-modele)
+- [Page de contenu de l'export de modèle](https://support.catenda.com/fr/articles/15480883-page-de-contenu-de-l-export-de-modele)
 
 **Cas d'utilisation**
 
-- [Cas d'utilisation de nommage de révision](https://support.catenda.com/fr/articles/15886912-revision-naming-use-cases)
-- [Blocs de révision dans les conventions de nommage](https://support.catenda.com/fr/articles/15886483-revision-blocks-in-naming-conventions)
+- [Cas d'utilisation de nommage de révision](https://support.catenda.com/fr/articles/15886912-cas-d-usage-de-nommage-de-revision)
+- [Blocs de révision dans les conventions de nommage](https://support.catenda.com/fr/articles/15886483-blocs-de-revision-dans-les-conventions-de-nommage)
 
 **Dépannage**
 
-- [Dépannage de l'aperçu du document](https://support.catenda.com/fr/articles/13962654-document-preview-troubleshooting)
-- [Dépannage de l'aperçu du fichier d'approbation](https://support.catenda.com/fr/articles/15286207-approval-file-review-troubleshooting)
-- [Dépannage de la convention de révision](https://support.catenda.com/fr/articles/15886850-revision-convention-troubleshooting)
+- [Dépannage de l'aperçu du document](https://support.catenda.com/fr/articles/13962654-depannage-de-l-apercu-des-documents)
+- [Dépannage de l'aperçu du fichier d'approbation](https://support.catenda.com/fr/articles/15286207-depannage-de-l-examen-du-fichier-d-approbation)
+- [Dépannage de la convention de révision](https://support.catenda.com/fr/articles/15886850-depannage-des-conventions-de-revision)
 
 ### 1.2 **Articles qui ont changé :**
 
 **Gestion des comptes**
 
-- [Création d'une équipe](https://support.catenda.com/fr/articles/4670264-creating-a-team)
-- [Types d'organisations](https://support.catenda.com/fr/articles/13653807-organization-types)
-- [Connexion et mots de passe](https://support.catenda.com/fr/articles/10798891-sign-in-and-passwords)
+- [Création d'une équipe](https://support.catenda.com/fr/articles/4670264-creer-une-equipe)
+- [Types d'organisations](https://support.catenda.com/fr/articles/13653807-types-d-organisation)
+- [Connexion et mots de passe](https://support.catenda.com/fr/articles/10798891-connexion-et-mots-de-passe)
 
 **Fonctionnalités du produit**
 
-- [Résumé des raccourcis et contrôles les plus importants](https://support.catenda.com/fr/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
-- [Corps du topic - Le contenu d'un topic](https://support.catenda.com/fr/articles/8053352-topic-body-the-content-of-a-topic)
-- [Contrôle d'accès des dossiers et documents](https://support.catenda.com/fr/articles/4670287-folders-and-documents-access-control)
-- [Outils d'aperçu du document](https://support.catenda.com/fr/articles/11384618-document-preview-tools)
-- [Page d'export de modèle](https://support.catenda.com/fr/articles/4670280-model-export-page)
-- [Contrôle d'accès du tableau des topics](https://support.catenda.com/fr/articles/4670296-topic-board-access-control)
-- [Page de contenu du champ personnalisé](https://support.catenda.com/fr/articles/8445588-custom-field-contents-page)
-- [Mesure sur les plans de glissement](https://support.catenda.com/fr/articles/4670298-measuring-to-sliding-planes)
-- [Liste déroulante du plan de glissement](https://support.catenda.com/fr/articles/4670327-sliding-plane-dropdown)
-- [Actions dans le plugin Catenda Revit](https://support.catenda.com/fr/articles/13168755-actions-in-the-catenda-revit-plugin)
-- [Menu droit dans un tableau de topics](https://support.catenda.com/fr/articles/6941224-right-menu-in-a-topic-board)
-- [Apparence de la visionneuse 2D](https://support.catenda.com/fr/articles/13615984-2d-viewer-appearance)
-- [Localisation 2D des topics](https://support.catenda.com/fr/articles/4854523-2d-location-of-topics)
-- [Localisation 2D des topics - Site Catenda](https://support.catenda.com/fr/articles/13616245-2d-location-of-topics-catenda-site)
-- [Visionneuse 2D - Site Catenda](https://support.catenda.com/fr/articles/7748370-2d-viewer-catenda-site)
+- [Résumé des raccourcis et contrôles les plus importants](https://support.catenda.com/fr/articles/4670267-resume-des-raccourcis-et-commandes-de-base-les-plus-importants)
+- [Corps du topic - Le contenu d'un topic](https://support.catenda.com/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet)
+- [Contrôle d'accès des dossiers et documents](https://support.catenda.com/fr/articles/4670287-controle-d-acces-aux-dossiers-et-documents)
+- [Outils d'aperçu du document](https://support.catenda.com/fr/articles/11384618-outils-d-apercu-de-document)
+- [Page d'export de modèle](https://support.catenda.com/fr/articles/4670280-page-d-export-de-modele)
+- [Contrôle d'accès du tableau des topics](https://support.catenda.com/fr/articles/4670296-controle-d-acces-a-la-liste-de-sujets)
+- [Page de contenu du champ personnalisé](https://support.catenda.com/fr/articles/8445588-page-de-contenu-des-champs-personnalises)
+- [Mesure sur les plans de glissement](https://support.catenda.com/fr/articles/4670298-mesure-vers-les-plans-glissants)
+- [Liste déroulante du plan de glissement](https://support.catenda.com/fr/articles/4670327-menu-deroulant-du-plan-glissant)
+- [Actions dans le plugin Catenda Revit](https://support.catenda.com/fr/articles/13168755-actions-dans-le-plug-in-catenda-revit)
+- [Menu droit dans un tableau de topics](https://support.catenda.com/fr/articles/6941224-menu-droit-dans-une-liste-de-sujets)
+- [Apparence de la visionneuse 2D](https://support.catenda.com/fr/articles/13615984-apparence-de-la-visionneuse-2d)
+- [Localisation 2D des topics](https://support.catenda.com/fr/articles/4854523-localisation-2d-des-topics)
+- [Localisation 2D des topics - Site Catenda](https://support.catenda.com/fr/articles/13616245-localisation-2d-des-sujets-catenda-site)
+- [Visionneuse 2D - Site Catenda](https://support.catenda.com/fr/articles/7748370-visionneuse-2d-catenda-site)
 
 **Dépannage**
 
-- [Dépannage de la boîte de dialogue de téléchargement de document](https://support.catenda.com/fr/articles/11070748-upload-document-dialogue-troubleshooting)
-- [Dépannage du plugin Catenda Revit](https://support.catenda.com/fr/articles/14301534-catenda-revit-plugin-troubleshooting)
-- [Connexion et mots de passe](https://support.catenda.com/fr/articles/10798891-sign-in-and-passwords)
+- [Dépannage de la boîte de dialogue de téléchargement de document](https://support.catenda.com/fr/articles/11070748-depannage-de-la-boite-de-dialogue-de-telechargement-de-documents)
+- [Dépannage du plugin Catenda Revit](https://support.catenda.com/fr/articles/14301534-depannage-du-plugin-catenda-revit)
+- [Connexion et mots de passe](https://support.catenda.com/fr/articles/10798891-connexion-et-mots-de-passe)
 
 ## 2. **Nouveaux tutoriels vidéo**
 

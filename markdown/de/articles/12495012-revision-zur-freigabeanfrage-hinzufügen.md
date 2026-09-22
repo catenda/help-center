@@ -1,6 +1,6 @@
 # Revision zur Freigabeanfrage hinzufügen
 
-Freigabeanfragen sind in Projekten sichtbar, in denen freigegebene Revisionen nach dem 2. Oktober 2025 aktiviert wurden. Wenn freigegebene Revisionen aktiviert sind, werden alle neuen Revisionen als freigegebene Revisionen hochgeladen. Freigegebene Revisionen können einer Freigabeanfrage hinzugefügt werden, indem Sie auf die Schaltfläche „Revision hinzufügen“ im [Dialog zum Erstellen einer Genehmigungsanfrage](https://support.catenda.com/de/articles/12360159-creating-a-new-approval-request) oder auf die Schaltfläche „Revision hinzufügen“ in einem Genehmigungsentwurf klicken. So kann der Dialog „Revision zur Genehmigungsanfrage hinzufügen“, der sich öffnet, für Projekte aussehen, in denen freigegebene Revisionen aktiviert wurden:
+Freigabeanfragen sind in Projekten sichtbar, in denen freigegebene Revisionen nach dem 2. Oktober 2025 aktiviert wurden. Wenn freigegebene Revisionen aktiviert sind, werden alle neuen Revisionen als freigegebene Revisionen hochgeladen. Freigegebene Revisionen können einer Freigabeanfrage hinzugefügt werden, indem Sie auf die Schaltfläche „Revision hinzufügen“ im [Dialog zum Erstellen einer Genehmigungsanfrage](https://support.catenda.com/de/articles/12360159-erstellen-einer-neuen-genehmigungsanfrage-legacy) oder auf die Schaltfläche „Revision hinzufügen“ in einem Genehmigungsentwurf klicken. So kann der Dialog „Revision zur Genehmigungsanfrage hinzufügen“, der sich öffnet, für Projekte aussehen, in denen freigegebene Revisionen aktiviert wurden:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qk34ake7/01-intro.png)
 
@@ -18,7 +18,7 @@ Durch Klicken auf die Schaltfläche "Filter" wird ein Bedienfeld auf der linken 
 
 ### 1.2 Gespeicherte Filter
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/8551755-saving-filters), um mehr darüber zu erfahren, wie Sie einen Satz von Filtern speichern
+Klicken Sie [hier](https://support.catenda.com/de/articles/8551755-filterergebnisse-begrenzen), um mehr darüber zu erfahren, wie Sie einen Satz von Filtern speichern
 
 ### 1.3 Filter
 
@@ -44,7 +44,7 @@ Ist kein Modell: Freigegebene Revisionen in Dokumenten im aktuellen Ordner und i
 
 **Revision erstellt von** Freigegebene Revisionen in Dokumenten im aktuellen Ordner und in Unterordnern, die von \<username> erstellt wurden Die Nummer hinter dem Filter zeigt die Anzahl der freigegebenen Revisionen in Dokumenten im aktuellen Ordner und in Unterordnern von jedem Benutzer an
 
-**Datumsfilter** Klicken Sie auf Daten auswählen, um Daten auszuwählen, zwischen denen Sie suchen möchten. Klicken Sie [hier](https://support.catenda.com/de/articles/6511685-date-filter), um mehr über den Datumsfilter zu erfahren.
+**Datumsfilter** Klicken Sie auf Daten auswählen, um Daten auszuwählen, zwischen denen Sie suchen möchten. Klicken Sie [hier](https://support.catenda.com/de/articles/6511685-datum-filter), um mehr über den Datumsfilter zu erfahren.
 
 **Labelgruppe** Dokumente mit freigegebenen Revisionen mit Labels nach Labelnamen innerhalb einer Labelgruppe. Die Nummer hinter dem Filter zeigt die Anzahl der Dokumente mit freigegebenen Revisionen in Dokumenten, auf die das Label im aktuellen Ordner und in Unterordnern angewendet wird.
 
@@ -60,7 +60,7 @@ So könnte die Revisionstabelle hinzufügen aussehen
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qk34ake7/03-add-revision-table.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten.
+Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tabellen-in-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten.
 
 ### 2.1 Zeileninhalt
 

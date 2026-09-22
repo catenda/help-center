@@ -1,6 +1,6 @@
 # Etasjekonfikgurator-handlinger
 
-Handlingen "opprett ny bygning" finnes øverst til høyre på [etasjekonfikgurator-siden](https://support.catenda.com/nb/articles/6921756-storey-configurator-page). Dette er hvor handlingene på etasjekonfikgurator-siden finnes:
+Handlingen "opprett ny bygning" finnes øverst til høyre på [etasjekonfikgurator-siden](https://support.catenda.com/nb/articles/6921756-storey-configurator-side). Dette er hvor handlingene på etasjekonfikgurator-siden finnes:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/43a5z00a/01-intro.png)
 
@@ -20,11 +20,11 @@ I dialogboksen "Opprett en ny bygning" velges en initiell modell.
 
 > **Merknad:** For å kunne velge en modell må minst én modell være konfigurert i prosjektet.
 
-Klikk [her](https://support.catenda.com/nb/articles/9431936-models-page-actions#h_4100594482) for å lese mer om oppretting av modeller. Når en modell importeres, genereres en 2D-visning ved å skjære gjennom objektene i modellen 1,4 meter over høyden på hver etasje.
+Klikk [her](https://support.catenda.com/nb/articles/9431936-modellsideoversiktshandlinger#h_4100594482) for å lese mer om oppretting av modeller. Når en modell importeres, genereres en 2D-visning ved å skjære gjennom objektene i modellen 1,4 meter over høyden på hver etasje.
 
 ### 2.1 **Modeller uten 2D-geometri**
 
-Hvis ingen objekter ble skåret gjennom, vil det ikke være mulig å velge modellen. Det er mulig å se at dette er tilfelle når [2D-knappen](https://support.catenda.com/nb/articles/4670279-revision-selector#h_180a64490d) ikke blir aktivert når du åpner 2D-visningen av modellen.
+Hvis ingen objekter ble skåret gjennom, vil det ikke være mulig å velge modellen. Det er mulig å se at dette er tilfelle når [2D-knappen](https://support.catenda.com/nb/articles/4670279-revisjonsvelger#h_180a64490d) ikke blir aktivert når du åpner 2D-visningen av modellen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/43a5z00a/04-models-with-no-2d-geometry.png)
 

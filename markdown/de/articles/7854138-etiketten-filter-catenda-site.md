@@ -1,6 +1,6 @@
 # Etiketten-Filter - Catenda Site
 
-Es ist möglich, nach Etiketten in [Issues](https://support.catenda.com/de/articles/7734073-issues-page-catenda-site) und in [Dokumente](https://support.catenda.com/de/articles/7774637-documents-catenda-site) zu filtern.
+Es ist möglich, nach Etiketten in [Issues](https://support.catenda.com/de/articles/7734073-themen-menu-catenda-site) und in [Dokumente](https://support.catenda.com/de/articles/7774637-dokumentmenu-catenda-site) zu filtern.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ge4vaaph/01-intro.png)
 
@@ -8,7 +8,7 @@ Wählen Sie die Etiketten, die Sie filtern möchten, und tippen Sie auf "Fertig"
 
 ### Etiketten-Änderungen von anderen Geräten
 
-Um Änderungen der Etiketten in diesem Filtermenü anzuzeigen, die auf einem anderen Gerät vorgenommen wurden, wechseln Sie zur [Projektseite](https://support.catenda.com/de/articles/7733978-projects-page-catenda-site) und öffnen Sie das Projekt erneut. Ebenso können Sie ein neues externes Etikett erst sehen, nachdem das Projekt neu geladen wurde.
+Um Änderungen der Etiketten in diesem Filtermenü anzuzeigen, die auf einem anderen Gerät vorgenommen wurden, wechseln Sie zur [Projektseite](https://support.catenda.com/de/articles/7733978-projektseite-catenda-site) und öffnen Sie das Projekt erneut. Ebenso können Sie ein neues externes Etikett erst sehen, nachdem das Projekt neu geladen wurde.
 
 ### Symbol zum Zurücksetzen von Etiketten
 

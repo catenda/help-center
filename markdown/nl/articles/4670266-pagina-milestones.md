@@ -1,6 +1,6 @@
 # Pagina Milestones
 
-De pagina milestones is te vinden als een subpagina van de [topics pagina](https://support.catenda.com/nl/articles/4670271-topics-page). Op de pagina milestones kunt u zien welke milestones beschikbaar zijn in het project.
+De pagina milestones is te vinden als een subpagina van de [topics pagina](https://support.catenda.com/nl/articles/4670271-pagina-topics). Op de pagina milestones kunt u zien welke milestones beschikbaar zijn in het project.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/01-intro.png)
 

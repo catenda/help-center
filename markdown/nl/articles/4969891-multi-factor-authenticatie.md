@@ -2,7 +2,7 @@
 
 > Beschrijft hoe u MFA op uw account instelt
 
-U vindt de **Multi Factor Authentication** (MFA)-instellingen op de [authenticatiepagina](https://support.catenda.com/nl/articles/6880968-account-page#h_e04d63351f), een subpagina van de [accountpagina](https://support.catenda.com/nl/articles/6880968-account-page).
+U vindt de **Multi Factor Authentication** (MFA)-instellingen op de [authenticatiepagina](https://support.catenda.com/nl/articles/6880968-accountpagina#h_e04d63351f), een subpagina van de [accountpagina](https://support.catenda.com/nl/articles/6880968-accountpagina).
 
 **Multi Factor Authentication** (MFA) vereist dat u bij het aanmelden bij Catenda Hub een code invoert die u via uw mobiele apparaat ontvangt, samen met uw gebruikersnaam en wachtwoord. Wanneer een organisatie MFA vereist, wordt dit op organisatieniveau toegepast. Alle projecten die tot die organisatie behoren, vereisen dan MFA om toegang tot hun projecten te krijgen. Dit zal alle gebruikers dwingen MFA in te schakelen om toegang te krijgen tot projecten die tot die organisatie behoren.
 
@@ -145,6 +145,6 @@ Verificatie-apps zijn veiliger dan SMS/E-mail-codeoplossingen omdat er na de oor
 
 ## 6. **Wie kan MFA op projecten handhaven?**
 
-Enterprise-klanten kunnen verzoeken om een [organisatieoptie](https://support.catenda.com/nl/articles/8224886-organization-options#h_d6710faf75) in te schakelen, waardoor alle gebruikers die deel uitmaken van hun projecten MFA moeten gebruiken om het project in te voeren. Neem contact op met de ondersteuning van Catenda om MFA op de projecten van uw organisatie in te schakelen. Wanneer MFA is vereist op de projecten van een organisatie, ziet u dit bericht wanneer u probeert het project te openen.
+Enterprise-klanten kunnen verzoeken om een [organisatieoptie](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_d6710faf75) in te schakelen, waardoor alle gebruikers die deel uitmaken van hun projecten MFA moeten gebruiken om het project in te voeren. Neem contact op met de ondersteuning van Catenda om MFA op de projecten van uw organisatie in te schakelen. Wanneer MFA is vereist op de projecten van een organisatie, ziet u dit bericht wanneer u probeert het project te openen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q7gf11z1/07-who-can-enforce-mfa-on-projects.png)

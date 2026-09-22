@@ -1,12 +1,12 @@
 # Créer un nouveau signet
 
-De nouveaux signets peuvent être créés en cliquant sur Nouveau signet dans les [boutons du haut](https://support.catenda.com/fr/articles/4670281-bookmarks-page#h_e85b08bb62) de la [page des signets](https://support.catenda.com/fr/articles/4670281-bookmarks-page) ou sur la page d'un signet spécifique.
+De nouveaux signets peuvent être créés en cliquant sur Nouveau signet dans les [boutons du haut](https://support.catenda.com/fr/articles/4670281-page-signets#h_e85b08bb62) de la [page des signets](https://support.catenda.com/fr/articles/4670281-page-signets) ou sur la page d'un signet spécifique.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ba5nvq9c/01-intro.png)
 
 ## 1. Nouveau signet
 
-Ouvrez la visionneuse 3D à partir du menu de navigation. Appuyez sur le bouton [nouveau signet](https://support.catenda.com/fr/articles/4670281-bookmarks-page#h_e85b08bb62) en haut à droite de la [page des signets](https://support.catenda.com/fr/articles/4670281-bookmarks-page). Naviguez dans le modèle jusqu'à obtenir la vue d'écran que vous souhaitez capturer dans un signet, puis cliquez sur Prendre une capture lorsque vous êtes prêt.
+Ouvrez la visionneuse 3D à partir du menu de navigation. Appuyez sur le bouton [nouveau signet](https://support.catenda.com/fr/articles/4670281-page-signets#h_e85b08bb62) en haut à droite de la [page des signets](https://support.catenda.com/fr/articles/4670281-page-signets). Naviguez dans le modèle jusqu'à obtenir la vue d'écran que vous souhaitez capturer dans un signet, puis cliquez sur Prendre une capture lorsque vous êtes prêt.
 
 > **Remarque :** Bien qu'il ne soit pas possible de créer un signet avec une requête, il est possible de faire une capture dans un problème avec une requête.
 

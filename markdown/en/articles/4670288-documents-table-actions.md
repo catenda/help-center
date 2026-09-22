@@ -92,7 +92,7 @@ Click [here](https://support.catenda.com/en/articles/13973721-create-report-acti
 
 ### 2.5 **Publish**
 
-With [revision publishing](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650) enabled the workspace and published tabs can be seen towards the top of the models page.
+With [revision publishing](https://support.catenda.com/en/articles/9874698-new-status-workflow-iso-19650) enabled the workspace and published tabs can be seen towards the top of the models page.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/12-publish.png)
 
@@ -140,10 +140,10 @@ _Object relations_ A deleted document that was linked to an object is unlinked u
 
 ## 3. **Current folder actions**
 
-If you have opened a folder, but not selected anything the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document) will show actions for the folder you are in. The right information menu might be closed and you may have to click on the arrow on the right side to open it. These actions can look something like this:
+If you have opened a folder, but not selected anything the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info) will show actions for the folder you are in. The right information menu might be closed and you may have to click on the arrow on the right side to open it. These actions can look something like this:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/14-current-folder-actions.png)
 
-Because you have not selected anything the selected item actions will not show towards the top of the documents table. Instead you will be able to perform actions on the folder you are in with the icons and hamburger menu in the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document).
+Because you have not selected anything the selected item actions will not show towards the top of the documents table. Instead you will be able to perform actions on the folder you are in with the icons and hamburger menu in the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info).
 
 **Access required:** Download: Read access to the current folder Move: Full access to the current folder and write access to the location you are moving the folder to. Delete: Full access to the current folder and its contents.

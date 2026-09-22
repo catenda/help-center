@@ -1,6 +1,6 @@
 # Tabelvisning i dokumentdelen
 
-[Dokumentsiden](https://support.catenda.com/nb/articles/8204673-documents-page) har gjennomgått en stor oppgradering **🎉🎉**
+[Dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) har gjennomgått en stor oppgradering **🎉🎉**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3760667x/01-intro.png)
 
@@ -36,11 +36,11 @@ Dette er navnet på originalfilen som ble lastet opp. I motsetning til dokumentn
 
 ### 1.2 **Modell-navn**
 
-Hvis [modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-models-as-documents) er aktivert for prosjektet ditt, vil du se navnet på modellen som er knyttet til en IFC-fil i denne kolonnen.
+Hvis [modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-modeller-som-dokumenter) er aktivert for prosjektet ditt, vil du se navnet på modellen som er knyttet til en IFC-fil i denne kolonnen.
 
 ### 1.3 **Viser**
 
-Denne kolonnen lar deg åpne IFC-filer og punktskyer i [3D-viseren](https://support.catenda.com/nb/articles/8227211-3d-viewer). Dette eksisterte før, men har nå et kolonnenavn. Hvis [modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-models-as-documents) er aktivert for prosjektet ditt, kan du direkte åpne [2D-visningen](https://support.catenda.com/nb/articles/4854537-2d-viewer) eller 3D-visningen av dokument-modellen fra listevisningen og sentrere på modellen hvis den er lastet inn i 3D.
+Denne kolonnen lar deg åpne IFC-filer og punktskyer i [3D-viseren](https://support.catenda.com/nb/articles/8227211-3d-viser). Dette eksisterte før, men har nå et kolonnenavn. Hvis [modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-modeller-som-dokumenter) er aktivert for prosjektet ditt, kan du direkte åpne [2D-visningen](https://support.catenda.com/nb/articles/4854537-2d-viser) eller 3D-visningen av dokument-modellen fra listevisningen og sentrere på modellen hvis den er lastet inn i 3D.
 
 ### 1.4 **Opprettet**
 

@@ -1,6 +1,6 @@
 # Rechtes Menü auf der Seite "Mitglieder"
 
-Wählen Sie ein Element auf der [Seite "Mitglieder und Teams"](https://support.catenda.com/de/articles/4670291-members-and-teams-page) aus, damit die Schaltfläche "Info" rechts neben der Such- oder Filterleiste angezeigt wird. Hier können Sie die Schaltfläche auf der Seite finden:
+Wählen Sie ein Element auf der [Seite "Mitglieder und Teams"](https://support.catenda.com/de/articles/4670291-mitglieder-und-teams-seite) aus, damit die Schaltfläche "Info" rechts neben der Such- oder Filterleiste angezeigt wird. Hier können Sie die Schaltfläche auf der Seite finden:
 
 ![Registerkarte „Mitglieder“ der Seite „Mitglieder“. Ein Pfeil zeigt auf die ](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/01-intro.png)
 

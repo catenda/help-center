@@ -10,12 +10,12 @@ Sur la gauche de la page des Notifications vous verrez vos dernières Notificati
 
 ## 1. **Filtrage et fonctionnalité**
 
-Cliquez [ici](https://support.catenda.com/fr/articles/8304417-filtering-and-functionality-on-notifications-pages) pour en savoir plus sur comment filtrer les différents problèmes et dans quels cas vous recevez chaque type de notification.
+Cliquez [ici](https://support.catenda.com/fr/articles/8304417-filtrage-sur-la-page-des-notifications) pour en savoir plus sur comment filtrer les différents problèmes et dans quels cas vous recevez chaque type de notification.
 
 ## 2. **Notifications par email**
 
-Si vous avez activé les Notifications par email, ces Notifications vous seront également envoyées soit dans un email de synthèse, soit comme un email distinct par notification. Cela peut être configuré dans les [paramètres de Notifications par email](https://support.catenda.com/fr/articles/8272435-notification-settings#h_75e5db8657). Si vous ne recevez pas d'emails, veuillez consulter [cet](https://support.catenda.com/fr/articles/8417802-why-am-i-not-receiving-emails) article.
+Si vous avez activé les Notifications par email, ces Notifications vous seront également envoyées soit dans un email de synthèse, soit comme un email distinct par notification. Cela peut être configuré dans les [paramètres de Notifications par email](https://support.catenda.com/fr/articles/8272435-parametres-de-notification-de-compte#h_75e5db8657). Si vous ne recevez pas d'emails, veuillez consulter [cet](https://support.catenda.com/fr/articles/8417802-pourquoi-ne-recois-je-pas-d-e-mails) article.
 
 ## 3. **Paramètres des Notifications**
 
-Vous pourrez trouver les [paramètres des Notifications](https://support.catenda.com/fr/articles/8272435-notification-settings) comme sous-page de la page des Notifications.
+Vous pourrez trouver les [paramètres des Notifications](https://support.catenda.com/fr/articles/8272435-parametres-de-notification-de-compte) comme sous-page de la page des Notifications.

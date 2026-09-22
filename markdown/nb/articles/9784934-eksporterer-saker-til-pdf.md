@@ -1,6 +1,6 @@
 # Eksporterer saker til PDF
 
-Saker kan eksporteres til PDF ved å klikke på PDF-alternativet i [Eksporter saker-dialogen](https://support.catenda.com/nb/articles/4670289-exchange-topics#h_aa0b8d7789). PDF-eksporten lar deg eksportere en rapport over sakene dine. Dette eksportalternativet er nyttig for å få en lett lesbar versjon av saker og kan brukes til arkivering eller rapportering til myndigheter.
+Saker kan eksporteres til PDF ved å klikke på PDF-alternativet i [Eksporter saker-dialogen](https://support.catenda.com/nb/articles/4670289-utveksle-saker#h_aa0b8d7789). PDF-eksporten lar deg eksportere en rapport over sakene dine. Dette eksportalternativet er nyttig for å få en lett lesbar versjon av saker og kan brukes til arkivering eller rapportering til myndigheter.
 
 Denne siden inneholder informasjon om følgende saker:
 
@@ -10,11 +10,11 @@ Disse innstillingene påvirker alle sider av PDF-en
 
 ### 1.1 **Logo**
 
-Logoen øverst til venstre på hver side av PDF-en vil være Catenda-logoen som standard. Hvis du klikker på logoen eller på hub.catenda.com øverst til høyre, tas du til prosjektsiden. Det er mulig å laste opp en egendefinert logo på [prosjektinnstillingssiden](https://support.catenda.com/nb/articles/4670273-project-settings-page) for å få din egen logo til å vises her.
+Logoen øverst til venstre på hver side av PDF-en vil være Catenda-logoen som standard. Hvis du klikker på logoen eller på hub.catenda.com øverst til høyre, tas du til prosjektsiden. Det er mulig å laste opp en egendefinert logo på [prosjektinnstillingssiden](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger) for å få din egen logo til å vises her.
 
 ### 1.2 **Språk**
 
-PDF-eksporten vil være på det språket du har konfigurert i [kontoinformasjonen](https://support.catenda.com/nb/articles/6880968-account-page#h_4aa257b72f).
+PDF-eksporten vil være på det språket du har konfigurert i [kontoinformasjonen](https://support.catenda.com/nb/articles/6880968-kontosida#h_4aa257b72f).
 
 ### 1.3 **Saksordering**
 
@@ -78,7 +78,7 @@ Følgende hoveder er inkludert:
 
 **Milepæl** Milepæler er ikke inkludert i PDF-eksporten.
 
-**Markør** Klikk [her](https://support.catenda.com/nb/articles/4854523-2d-location-of-topics) for å lese mer om eksporteringen av 2D-plassering til PDF.
+**Markør** Klikk [her](https://support.catenda.com/nb/articles/4854523-2d-plassering-av-saker) for å lese mer om eksporteringen av 2D-plassering til PDF.
 
 ### 3.4 **Sakskoblinger**
 
@@ -100,4 +100,4 @@ Hvis noen kommentarer er blitt lagt til saken, vil du se dem her. Først vil du 
 
 ## 4. **Rapportside**
 
-Med rapportsiden er det mulig å lage egendefinerte rapporter om ikke bare saker, men også dokumenter. Rapportsiden er en etterspørselsfunksjon som kan forespørres aktivert for pågående prosjekter. Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert. Disse rapportene kan deretter eksporteres ikke bare til Excel og PDF, men også mange flere filformater. Disse rapportene kan også eksportere saker fra flere sakslister samtidig. Klikk [her](https://support.catenda.com/nb/articles/12303098-reports-page) for å lese mer om rapportsiden
+Med rapportsiden er det mulig å lage egendefinerte rapporter om ikke bare saker, men også dokumenter. Rapportsiden er en etterspørselsfunksjon som kan forespørres aktivert for pågående prosjekter. Nye prosjekter som opprettes basert på et malprosjekt der denne funksjonen er aktivert, har ikke denne funksjonen aktivert. Disse rapportene kan deretter eksporteres ikke bare til Excel og PDF, men også mange flere filformater. Disse rapportene kan også eksportere saker fra flere sakslister samtidig. Klikk [her](https://support.catenda.com/nb/articles/12303098-rapportsside) for å lese mer om rapportsiden

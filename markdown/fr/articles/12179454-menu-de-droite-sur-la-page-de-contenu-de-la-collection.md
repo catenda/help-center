@@ -1,6 +1,6 @@
 # Menu de droite sur la page de contenu de la collection
 
-Le menu de droite se trouve en haut à droite de la bannière de collection sous le menu d'action sur la [page de contenu de la collection](https://support.catenda.com/fr/articles/8999764-collection-content-page). Cliquez sur l'icône "i" en haut à droite pour ouvrir le menu de droite d'une collection. _Accès requis :_ Créateur de collection ou administrateur
+Le menu de droite se trouve en haut à droite de la bannière de collection sous le menu d'action sur la [page de contenu de la collection](https://support.catenda.com/fr/articles/8999764-page-de-contenu-de-la-collection). Cliquez sur l'icône "i" en haut à droite pour ouvrir le menu de droite d'une collection. _Accès requis :_ Créateur de collection ou administrateur
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/01-intro.png)
 

@@ -62,7 +62,7 @@ The trees panel can contain the following main pages:
 
 Containment tree Component tree Type tree Layer tree System tree
 
-Click [here](https://support.catenda.com/en/articles/4670290-trees-panel) to read more about the trees panel.
+Click [here](https://support.catenda.com/en/articles/4670290-model-tree-panel) to read more about the trees panel.
 
 ## 5. **Model info panel**
 

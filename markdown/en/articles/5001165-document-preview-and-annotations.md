@@ -12,7 +12,7 @@ The document banner will be described in this article and spans across the top o
 1. You will find the document header below the document banner and above the document preview
 1. Below the document header you will find the document preview which will be explained in this article.
 1. To the left of the document header and preview you will find the document list
-1. To the right of the document header and preview you will find the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document)
+1. To the right of the document header and preview you will find the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
 
 ## 1. **Annotation toolbar**
 

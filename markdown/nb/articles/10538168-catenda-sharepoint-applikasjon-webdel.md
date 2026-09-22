@@ -4,7 +4,7 @@ Med Catenda-webdelen kan du bla gjennom dokumentdelen av et Catenda-prosjekt på
 
 ## 1. **Legge til webdelen**
 
-Rediger en eksisterende side eller opprett en ny side i SharePoint og rediger den. Hold musepekeren over siden i redigeringsmodus til du ser en linje med et plusstegn `----+-----` Hvis [Catenda SharePoint-applikasjonen](https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-application) er lagt til på nettstedet ditt, vil du kunne finne Catenda-dokumentwebdelen i listen over webdeler.
+Rediger en eksisterende side eller opprett en ny side i SharePoint og rediger den. Hold musepekeren over siden i redigeringsmodus til du ser en linje med et plusstegn `----+-----` Hvis [Catenda SharePoint-applikasjonen](https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-applikasjon) er lagt til på nettstedet ditt, vil du kunne finne Catenda-dokumentwebdelen i listen over webdeler.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/01-adding-the-webpart.png)
 
@@ -16,7 +16,7 @@ Hvis du ikke allerede har godkjent Catenda-kontoen din, vil webdelen se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/03-adding-the-webpart.png)
 
-Hvis du åpner en side med Catenda-webdelen aktivert og du ikke ennå har godkjent kontoen din, blir du bedt om å gjøre det. Les mer om hvordan du godkjenner kontoen din [her](https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-application#h_788fe15988).
+Hvis du åpner en side med Catenda-webdelen aktivert og du ikke ennå har godkjent kontoen din, blir du bedt om å gjøre det. Les mer om hvordan du godkjenner kontoen din [her](https://support.catenda.com/nb/articles/8396496-catenda-sharepoint-applikasjon#h_788fe15988).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/04-adding-the-webpart.png)
 
@@ -74,7 +74,7 @@ Etter å ha klikket på dette åpnes en filnavigator, og du kan velge hvilke dok
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/11-upload-file.png)
 
-> **Merk:** Hvis du drar og slipper en mappe, blir den publisert som en zip-fil. Hvis du ønsker å laste opp en mappestruktur, må du laste den ned fra SharePoint og laste den opp til Catenda enten via [zip-opplastingen](https://support.catenda.com/nb/articles/7945410-upload-a-zip-file-structure) eller [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector).
+> **Merk:** Hvis du drar og slipper en mappe, blir den publisert som en zip-fil. Hvis du ønsker å laste opp en mappestruktur, må du laste den ned fra SharePoint og laste den opp til Catenda enten via [zip-opplastingen](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) eller [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector).
 
 ### 4.3 **Last på nytt**
 

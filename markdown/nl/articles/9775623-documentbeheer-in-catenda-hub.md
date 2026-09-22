@@ -22,7 +22,7 @@ Hier is een vergelijking van de voor- en nadelen van deze 2 varianten:
 
 ## 1. **Voorbeeldmapstructuur**
 
-U kunt goede suggesties voor het maken van een mapstructuur vinden in [dit artikel](https://support.catenda.com/nl/articles/8542598-structuring-documents). U kunt ook een voorbeeld van een mapstructuur gebruikt door de Staatsgebouwdirectie in Beieren vinden via de volgende [link](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) Mapstructuren kunnen zeer verschillend worden opgezet. Dit hangt enerzijds af van de vereisten van het project en het bijbehorende projectteam, en anderzijds hangt de mapstructuur af van eventueel gebruikte plansleutels.
+U kunt goede suggesties voor het maken van een mapstructuur vinden in [dit artikel](https://support.catenda.com/nl/articles/8542598-documenten-structureren). U kunt ook een voorbeeld van een mapstructuur gebruikt door de Staatsgebouwdirectie in Beieren vinden via de volgende [link](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) Mapstructuren kunnen zeer verschillend worden opgezet. Dit hangt enerzijds af van de vereisten van het project en het bijbehorende projectteam, en anderzijds hangt de mapstructuur af van eventueel gebruikte plansleutels.
 
 ### 1.1 **Voorbeeld -** Structuren per fase scheiden
 

@@ -1,6 +1,6 @@
 # Etikettenseite
 
-Die Etikettenseite finden Sie als Unterseite zu [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-project-settings-page) im linken Navigationsmenü.
+Die Etikettenseite finden Sie als Unterseite zu [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen) im linken Navigationsmenü.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/01-intro.png)
 

@@ -50,9 +50,9 @@ Fest den til en milepæl eller la den stå tom. Dette kan hjelpe til med å spor
 
 ### 2.8 Ansvar
 
-**Tildelt til** Her kan du tildele saken til et spesifikt medlem eller et team. Det anbefales at du angir et medlem som ansvarlig i stedet for et team, da delt ansvar gjør at ingen av teammedlemmene føler seg personlig ansvarlig. Hvis du likevel ønsker å la andre teammedlemmer vite at deres team er ansvarlig, kan du angi medlem@team. Hvis et medlem er angitt som ansvarlig, vil de automatisk [følge](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken. Hvis et team er angitt som ansvarlig, vil teammedlemmene ikke automatisk [følge](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken.
+**Tildelt til** Her kan du tildele saken til et spesifikt medlem eller et team. Det anbefales at du angir et medlem som ansvarlig i stedet for et team, da delt ansvar gjør at ingen av teammedlemmene føler seg personlig ansvarlig. Hvis du likevel ønsker å la andre teammedlemmer vite at deres team er ansvarlig, kan du angi medlem@team. Hvis et medlem er angitt som ansvarlig, vil de automatisk [følge](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) saken. Hvis et team er angitt som ansvarlig, vil teammedlemmene ikke automatisk [følge](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) saken.
 
-**Etterspurt av** Her kan du angi medlemmet eller teamet som etterspør saken. Du er angitt som anmoder som standard, men du kan velge ethvert medlem her. Hvis et medlem er angitt som anmoder, vil de automatisk [følge](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken. Hvis et team er angitt som anmoder, vil teammedlemmene ikke automatisk [følge](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken.
+**Etterspurt av** Her kan du angi medlemmet eller teamet som etterspør saken. Du er angitt som anmoder som standard, men du kan velge ethvert medlem her. Hvis et medlem er angitt som anmoder, vil de automatisk [følge](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) saken. Hvis et team er angitt som anmoder, vil teammedlemmene ikke automatisk [følge](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) saken.
 
 ### 2.9 Merkelapper
 
@@ -70,7 +70,7 @@ Slik kan høyre informasjonspanel se ut:
 
 ### 3.1 Dokumenter
 
-Klikk [her](https://support.catenda.com/nb/articles/4670250-linking-a-document-to-an-issue) for å se hvordan du kobler et dokument til en sak.
+Klikk [her](https://support.catenda.com/nb/articles/4670250-lenker-et-dokument-til-en-sak) for å se hvordan du kobler et dokument til en sak.
 
 ## 4. Brødtekst
 
@@ -80,7 +80,7 @@ Slik kan brødteksten i en sak se ut:
 
 ### 4.1 Beskrivelse
 
-Legg til en beskrivelse for saken. Merk personer som bør inkluderes i diskusjonen med @. I verktøylinjen nedenfor har du flere alternativer, for eksempel: [Sjekklister i saker](https://intercom.help/bimsync-arena/nb/articles/5036461-check-lists-within-issues)
+Legg til en beskrivelse for saken. Merk personer som bør inkluderes i diskusjonen med @. I verktøylinjen nedenfor har du flere alternativer, for eksempel: [Sjekklister i saker](https://intercom.help/bimsync-arena/nb/articles/5036461-sjekklister-innen-problemer)
 
 ### 4.2 Kommentar
 

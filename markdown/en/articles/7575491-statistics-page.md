@@ -1,6 +1,6 @@
 # Statistics page
 
-The statistics page can be found as a sub page to the [topics page](https://support.catenda.com/en/articles/4670271-issues-page).
+The statistics page can be found as a sub page to the [topics page](https://support.catenda.com/en/articles/4670271-topics-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2s7g3kx3/01-intro.png)
 

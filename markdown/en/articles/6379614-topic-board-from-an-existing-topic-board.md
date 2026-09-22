@@ -14,7 +14,7 @@ Give the topic board a name as a minimum requirement for adding the topic board.
 
 ## 2. **Description**
 
-The topic board description is optional and can later only be seen in topic baord settings by those with full access to the topic board. The topic board description follows the general rules for [formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda.
+The topic board description is optional and can later only be seen in topic baord settings by those with full access to the topic board. The topic board description follows the general rules for [formatting of posts](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) on Catenda.
 
 ## 3. **Copy settings from an existing topic board**
 

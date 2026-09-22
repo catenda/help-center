@@ -1,6 +1,6 @@
 # Catenda Navisworksプラグイン
 
-> **注釈:** プラグインのインストールファイルは[この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-plugins-and-integrations)にあります。
+> **注釈:** プラグインのインストールファイルは[この記事](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合)にあります。
 
 Catenda Navisworksプラグインは、Nemetchek Archicadにインストールできるプラグインです。このプラグインを使用すると、3Dビューポイント、トピック、およびドキュメントについて、プロジェクトの他のメンバーと協力できます。
 
@@ -61,7 +61,7 @@ Catenda Navisworksプラグインを Windows にインストールすると、�
 
 ### 5.1 **Catenda**
 
-Catendaタブの[Catendaプラグイン]メニューの[Catenda]ボタンをクリックすると、Catenda Hubのデフォルトブラウザが[サインインページ](https://support.catenda.com/ja/articles/7891486-sign-in-page)で開きます。
+Catendaタブの[Catendaプラグイン]メニューの[Catenda]ボタンをクリックすると、Catenda Hubのデフォルトブラウザが[サインインページ](https://support.catenda.com/ja/articles/7891486-サインインページ)で開きます。
 
 ### 5.2 **BCFプラグイン**
 
@@ -83,7 +83,7 @@ Catendaタブの[Catendaプラグイン]メニューの[BCFプラグイン]ボ�
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/06-settings.png)
 
-左側にはCatendaのサインインページが表示されます。[サインイン記事](https://support.catenda.com/ja/articles/7891486-sign-in-page)の説明に従ってサインインしてください。
+左側にはCatendaのサインインページが表示されます。[サインイン記事](https://support.catenda.com/ja/articles/7891486-サインインページ)の説明に従ってサインインしてください。
 
 設定メニューは、正常にログインした後、次のように見える場合があります。
 

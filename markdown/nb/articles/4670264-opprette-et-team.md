@@ -2,7 +2,7 @@
 
 I et byggeprosjekt kan teams være verdifulle fordi folk ofte kommer inn, skifter roller eller forlater ulike arbeidsgrupper. Å opprette teams kan forhindre dårlig kommunikasjon etter at roller har endret seg i prosjektet.
 
-Opprett et team ved å åpne handlingsmenyen til høyre for den grønne plusknappen på [siden Medlemmer og Teams](https://support.catenda.com/nb/articles/4670291-members-and-teams-page) uavhengig av hvilken fane som er valgt.
+Opprett et team ved å åpne handlingsmenyen til høyre for den grønne plusknappen på [siden Medlemmer og Teams](https://support.catenda.com/nb/articles/4670291-medlemmer-og-teams-side) uavhengig av hvilken fane som er valgt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/01-intro.png)
 
@@ -44,4 +44,4 @@ _Medlem_ - Som standard vil medlemmer ha lese- og skrivetilgang til de fleste fu
 
 ### 2.3 **Opprett**
 
-Når teamet er opprettet, åpnes [team-innholdssiden](https://support.catenda.com/nb/articles/7891755-team-page). Derfra kan medlemmer legges til i teamet.
+Når teamet er opprettet, åpnes [team-innholdssiden](https://support.catenda.com/nb/articles/7891755-teamside). Derfra kan medlemmer legges til i teamet.

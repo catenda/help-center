@@ -6,7 +6,7 @@ Beginnen Sie, indem Sie Ihren 2D-Plan wie gewünscht ausrichten, indem Sie das [
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xyh08ptx/01-clipping-in-the-model-from-2d.png)
 
-Sie können nun [move the clipping planes](https://support.catenda.com/de/articles/4670253-clipping-planes#moving-the-clipping-plane) normal verschieben, indem Sie die relevante Ebene im Clipping-Widget (unten links) auswählen oder "Shift" drücken und auf die Ebene im Viewer klicken. Ebenen können [removed](https://support.catenda.com/de/articles/4670253-clipping-planes#remove-clipping-planes) einzeln entfernt werden, indem Sie eine Ebene auswählen und "Del" drücken, oder alle auf einmal, indem Sie im 3D-Viewer mit der rechten Maustaste klicken und "Remove clipping planes" auswählen
+Sie können nun [move the clipping planes](https://support.catenda.com/de/articles/4670253-schnittebenen#moving-the-clipping-plane) normal verschieben, indem Sie die relevante Ebene im Clipping-Widget (unten links) auswählen oder "Shift" drücken und auf die Ebene im Viewer klicken. Ebenen können [removed](https://support.catenda.com/de/articles/4670253-schnittebenen#remove-clipping-planes) einzeln entfernt werden, indem Sie eine Ebene auswählen und "Del" drücken, oder alle auf einmal, indem Sie im 3D-Viewer mit der rechten Maustaste klicken und "Remove clipping planes" auswählen
 
 ### **Auswahl von Objekten aus 2D**
 

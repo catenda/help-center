@@ -1,6 +1,6 @@
 # Prosjektsiden
 
-Prosjektskjermen er den første skjermen du møter etter å ha [logget inn](https://support.catenda.com/nb/articles/7891486-sign-in-page) i Catenda Hub. På prosjektsiden vil du se en fullstendig liste over alle prosjekter du er medlem av.
+Prosjektskjermen er den første skjermen du møter etter å ha [logget inn](https://support.catenda.com/nb/articles/7891486-paloggingsside) i Catenda Hub. På prosjektsiden vil du se en fullstendig liste over alle prosjekter du er medlem av.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zazjw3t1/01-intro.png)
 
@@ -10,20 +10,20 @@ Slik kan prosjektsiden se ut:
 
 ## 1. **Åpne et prosjekt**
 
-Klikk på [prosjektminiatyrbildet](#h_303c7e9962) eller velg prosjekt i [prosjektlisten](#h_1285a6d343). Du blir deretter tatt til [Dashbordet](https://support.catenda.com/nb/articles/8212646-dashboard-page) for prosjektet.
+Klikk på [prosjektminiatyrbildet](#h_303c7e9962) eller velg prosjekt i [prosjektlisten](#h_1285a6d343). Du blir deretter tatt til [Dashbordet](https://support.catenda.com/nb/articles/8212646-dashbord-side) for prosjektet.
 
 ## 2. **Venstremeny**
 
 I venstremenyen vil du kunne se følgende menyer:
 
 - Prosjektsiden - Gjeldende artikkel
-- [Varsel](https://support.catenda.com/nb/articles/7439223-notifications-page)
-- [Konto](https://support.catenda.com/nb/articles/6880968-account-page)
-- [Organisasjoner](https://support.catenda.com/nb/articles/8281910-organizations-page)
+- [Varsel](https://support.catenda.com/nb/articles/7439223-siden-for-kontovarsler)
+- [Konto](https://support.catenda.com/nb/articles/6880968-kontosida)
+- [Organisasjoner](https://support.catenda.com/nb/articles/8281910-organisasjonssiden)
 
 ## 3. **Nye handlingsknapper**
 
-Hvis din gjeldende plan og tilgang tillater det, kan du [opprette et nytt prosjekt](https://support.catenda.com/nb/articles/4670245-creating-a-new-project) ved å klikke på knappen Nytt prosjekt.
+Hvis din gjeldende plan og tilgang tillater det, kan du [opprette et nytt prosjekt](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt) ved å klikke på knappen Nytt prosjekt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zazjw3t1/03-new-item-action-buttons.png)
 
@@ -47,7 +47,7 @@ Du kan merke prosjektet som favoritt ved å klikke på stjernen ved siden av hve
 
 ### 5.2 **Kart**
 
-Kartfanen viser plasseringen av alle prosjekter du er del av på et zoombart verdenskart. Dette er basert på geolokasjonen for hvert prosjekt, se [Geolokalisering](https://support.catenda.com/nb/articles/4670273-project-settings-page#h_f869d2bd59).
+Kartfanen viser plasseringen av alle prosjekter du er del av på et zoombart verdenskart. Dette er basert på geolokasjonen for hvert prosjekt, se [Geolokalisering](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger#h_f869d2bd59).
 
 ## 6. **Prosjektliste**
 
@@ -55,7 +55,7 @@ Etter å ha opprettet en ny konto må en prosjektinvitasjon mottas og godtas for
 
 **Bli del av et prosjekt** Når et prosjekt opprettes, blir skaperen automatisk del av prosjektet. Når prosjektet opprettes via organisasjonsverktøyet, må organisasjonseieren fortsatt gjøre seg selv til del av prosjektet for å se det i listen. Noen organisasjonseiere kan også legge til og fjerne organisasjonsmedlemmer til prosjekter uten invitasjon.
 
-**Alle organisasjonsprosjekter** Organisasjonseiere vil kunne se alle prosjekter i organisasjonen på [prosjektsiden i organisasjonsverktøyet](https://support.catenda.com/nb/articles/8505058-projects-page-in-organization-tool).
+**Alle organisasjonsprosjekter** Organisasjonseiere vil kunne se alle prosjekter i organisasjonen på [prosjektsiden i organisasjonsverktøyet](https://support.catenda.com/nb/articles/8505058-prosjektsside-organisasjonsverktoy).
 
 ### 6.1 **Stjerne**
 
@@ -63,7 +63,7 @@ Klikk på stjernen til venstre for prosjektnavnet for å legge prosjektet til i 
 
 ### 6.2 **Navn**
 
-Klikk på navnet på ethvert prosjekt for å entre prosjektet. Prosjekter sorteres i henhold til [typisk sorteringsrekkefølge](https://support.catenda.com/nb/articles/8487788-sorting-order-of-lists) rundt Catenda.
+Klikk på navnet på ethvert prosjekt for å entre prosjektet. Prosjekter sorteres i henhold til [typisk sorteringsrekkefølge](https://support.catenda.com/nb/articles/8487788-sorteringsrekkefolge-for-lister) rundt Catenda.
 
 ### 6.3 **Sist oppdatert**
 

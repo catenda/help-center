@@ -101,8 +101,8 @@ The [Catenda Desktop Connector](https://support.catenda.com/en/articles/8358861-
 
 **User profiles & member details** Information regarding project members and teams is available to extract or document, including:
 
-- Usernames and email addresses (see [custom member information](https://www.google.com/search?q=https://support.catenda.com/en/articles/11769670-custom-member-information%23h_c15463ee3f)).
-- Team memberships, assigned topics, uploaded model revisions, and permission settings (captured via the [member page](https://www.google.com/search?q=https://support.catenda.com/en/articles/4670291-members-page) or [team page](https://www.google.com/search?q=https://support.catenda.com/en/articles/4670291-members-page)).
+- Usernames and email addresses (see [custom member information](https://www.google.com/search?q=https://support.catenda.com/en/articles/11769670-custom-member-information)).
+- Team memberships, assigned topics, uploaded model revisions, and permission settings (captured via the [member page](https://www.google.com/search?q=https://support.catenda.com/en/articles/4670291-members-and-teams-page) or [team page](https://www.google.com/search?q=https://support.catenda.com/en/articles/4670291-members-and-teams-page)).
 
 ### 2.6 **Notifications**
 

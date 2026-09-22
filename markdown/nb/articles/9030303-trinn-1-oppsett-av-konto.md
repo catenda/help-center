@@ -8,6 +8,6 @@ En invitasjon sendes til deg via e-post fra Catenda med en lenke til neste trinn
 
 Etter at registreringen er fullført, kan du få tilgang til prosjektene dine på Catenda Hub fra en hvilken som helst nettleser. [https://hub.catenda.com/signin](https://hub.catenda.com/signin)
 
-Videre lesing: [Påloggingsside](https://support.catenda.com/nb/articles/7891486-sign-in-page), [Opprette en konto](https://support.catenda.com/nb/articles/8412895-creating-an-account), [Landingsside](https://support.catenda.com/nb/articles/4670260-landing-page)
+Videre lesing: [Påloggingsside](https://support.catenda.com/nb/articles/7891486-paloggingsside), [Opprette en konto](https://support.catenda.com/nb/articles/8412895-opprette-en-konto), [Landingsside](https://support.catenda.com/nb/articles/4670260-kontoknappar)
 
-> **Merknad:** Finn [trinn 2](https://support.catenda.com/nb/articles/10576075-step-2-interface) i [komme i gang](https://support.catenda.com/nb/collections/2657208-getting-started) på hjelpesenteret eller i hjelpemenyen.
+> **Merknad:** Finn [trinn 2](https://support.catenda.com/nb/articles/10576075-trinn-2-grensesnitt) i [komme i gang](https://support.catenda.com/nb/collections/2657208-sette-i-gang) på hjelpesenteret eller i hjelpemenyen.

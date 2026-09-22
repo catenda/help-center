@@ -4,4 +4,4 @@ Denne nye funksjonen lar deg få en generell oversikt over tilgangsrettigheter f
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/j53tjkt5/01-intro.gif)
 
-_Les mer om tilgangsoversikten over dokumenter [her](https://intercom.help/bimsync-arena/nb/articles/6660820-document-access-overview) !_
+_Les mer om tilgangsoversikten over dokumenter [her](https://intercom.help/bimsync-arena/nb/articles/6660820-tilgangsoversikt-over-dokumenter) !_

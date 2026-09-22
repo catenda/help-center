@@ -1,6 +1,6 @@
 # Catenda Desktop Connector
 
-> **Note:** The installation file for this application can be found [here](https://support.catenda.com/en/articles/8396532-catenda-plugins-and-integrations)
+> **Note:** The installation file for this application can be found [here](https://support.catenda.com/en/articles/8396532-catenda-plugins-integrations)
 
 With the Catenda desktop connector you can schedule up- and downloads of the latest versions of documents.
 

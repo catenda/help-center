@@ -1,6 +1,6 @@
 # Topic body - The content of a topic
 
-Select a topic from an [topic board](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) a to open the topic page of the topic. This is what the [topic banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) on the topic page can look like:
+Select a topic from an [topic board](https://support.catenda.com/en/articles/4670271-topics-page#h_6a5895256b) a to open the topic page of the topic. This is what the [topic banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) on the topic page can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/01-intro.png)
 
@@ -26,7 +26,7 @@ The progress bar shows the progress of checked checkboxes and resolved topics in
 
 ## 2. **Description**
 
-The topic description follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+The topic description follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox).
 
 ### 2.1 **Edit description**
 
@@ -40,7 +40,7 @@ This is what a description can look like when it is being edited:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/06-edit-description.png)
 
-For more information about formatting options edit the description and click on the question mark. Descriptions follow the general rules of [formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda.
+For more information about formatting options edit the description and click on the question mark. Descriptions follow the general rules of [formatting of posts](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) on Catenda.
 
 ## 3. **Topic information**
 
@@ -90,7 +90,7 @@ Click on Hide changes towards the bottom right to hide the changes again.
 
 ### 4.2 **Comment**
 
-Text in comments follow the [general rules for formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) with a minor difference when it comes to checklists.
+Text in comments follow the [general rules for formatting of posts](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) with a minor difference when it comes to checklists.
 
 **Attachment pop-out** Left click on the image of an attachment to open the image pop-out.
 
@@ -122,7 +122,7 @@ Click on the plus button next to the comment field to add a 2D or 3D snapshot
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/13-2d-or-3d-snapshots.png)
 
-2D snapshots have the same buttons but with an image of the 2D viewer attached. Click [here](https://support.catenda.com/en/articles/10345863-snapshots) to read more about snapshot configuration
+2D snapshots have the same buttons but with an image of the 2D viewer attached. Click [here](https://support.catenda.com/en/articles/10345863-3d-snapshots) to read more about snapshot configuration
 
 ### 4.5 **Markup**
 
@@ -130,9 +130,9 @@ Keep track of annotations on documents by creating a markup. When a markup is sa
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/14-markup.png)
 
-When a markup is added to a topic the document that the annotations were created on is automatically be linked in the [related documents](https://support.catenda.com/en/articles/7986346-issue-content#h_be2f2bcf3b).
+When a markup is added to a topic the document that the annotations were created on is automatically be linked in the [related documents](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics#h_be2f2bcf3b).
 
-**Markup comment** The annotation comment follows the [general rules for formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) with a minor difference when it comes to checklists.
+**Markup comment** The annotation comment follows the [general rules for formatting of posts](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) with a minor difference when it comes to checklists.
 
 **Markup snapshot** The following information can be seen in a markup snapshot: A screenshot of the area of the document where the annotations were created. _Access required:_ Read access to the topic board
 
@@ -159,7 +159,7 @@ This is what a draft of a new comment can look like before the comment is submit
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/040pbsjh/15-new-comment.png)
 
-**Text box** Write a comment in the text box next to the plus button. Mention members by typing @name or link to other topics by typing #link. Text submitted in the text box of a comment follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda. Paste both text and images from the clipboard to attach them to the new comment.
+**Text box** Write a comment in the text box next to the plus button. Mention members by typing @name or link to other topics by typing #link. Text submitted in the text box of a comment follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) on Catenda. Paste both text and images from the clipboard to attach them to the new comment.
 
 **Plus button** Click on the plus button to add a 3D snapshot, a 2D snapshot or an image to the draft of a new comment.
 

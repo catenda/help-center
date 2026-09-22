@@ -24,7 +24,7 @@ The image of the viewport was generated when the snapshot was last updated.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/03-snapshot.png)
 
-Click [here](https://support.catenda.com/en/articles/10345863-snapshots) to read more about snapshots.
+Click [here](https://support.catenda.com/en/articles/10345863-3d-snapshots) to read more about snapshots.
 
 ## 3. **Title**
 

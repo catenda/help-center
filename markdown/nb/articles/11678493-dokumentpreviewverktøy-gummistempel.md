@@ -1,6 +1,6 @@
 # Dokumentpreviewverktøy - Gummistempel
 
-Gummistempelverktøyet finner du i [innsettingsmenyen](https://support.catenda.com/nb/articles/11384618-document-preview-tools#h_34b84f09b9) i verktøylinjen for dokumentpreview, og det kan se slik ut:
+Gummistempelverktøyet finner du i [innsettingsmenyen](https://support.catenda.com/nb/articles/11384618-verktoy-for-dokumentforhandsvisning#h_34b84f09b9) i verktøylinjen for dokumentpreview, og det kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bp0tzcba/01-intro.png)
 

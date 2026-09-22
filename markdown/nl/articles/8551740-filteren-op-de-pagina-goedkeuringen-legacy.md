@@ -1,6 +1,6 @@
 # Filteren op de pagina goedkeuringen - Legacy
 
-Het filterpaneel kan op de pagina goedkeuringen worden geopend door op de filterknop links van de zoekbalk op de [pagina goedkeuringen](https://support.catenda.com/nl/articles/8349340-approvals-page) te klikken.
+Het filterpaneel kan op de pagina goedkeuringen worden geopend door op de filterknop links van de zoekbalk op de [pagina goedkeuringen](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy) te klikken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vcqjvqcc/01-intro.png)
 
@@ -14,11 +14,11 @@ Klik op de filterknop in de linkerbovenhoek om een paneel aan de linkerkant te l
 
 ### 1.1 **Het huiedig filter opslaan en delen**
 
-Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen worden opgeslagen bovenaan het filtermenu. Klik [hier](https://support.catenda.com/nl/articles/11401493-saving-a-filter-link) voor meer informatie over het opslaan en delen van filters
+Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen worden opgeslagen bovenaan het filtermenu. Klik [hier](https://support.catenda.com/nl/articles/11401493-een-filterlink-opslaan-en-delen) voor meer informatie over het opslaan en delen van filters
 
 ### 1.2 **Lege filters verbergen**
 
-Klik [hier](https://support.catenda.com/nl/articles/8551755-saving-filters) voor meer informatie over het beperken van filterresultaten.
+Klik [hier](https://support.catenda.com/nl/articles/8551755-filterresultaten-beperken) voor meer informatie over het beperken van filterresultaten.
 
 ### 1.3 **Mijn goedkeuringen**
 

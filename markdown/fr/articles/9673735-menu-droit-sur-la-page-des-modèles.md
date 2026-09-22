@@ -1,6 +1,6 @@
 # Menu droit sur la page des modèles
 
-Le menu d'information droit peut être trouvé en sélectionnant un model sur la [page des modèles](https://support.catenda.com/fr/articles/4670286-models-page) ou en accédant à la [page de contenu](https://support.catenda.com/fr/articles/4670270-model-overview-page) d'un model.
+Le menu d'information droit peut être trouvé en sélectionnant un model sur la [page des modèles](https://support.catenda.com/fr/articles/4670286-page-modeles) ou en accédant à la [page de contenu](https://support.catenda.com/fr/articles/4670270-page-de-contenu-du-model) d'un model.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/01-intro.png)
 
@@ -32,7 +32,7 @@ Téléchargez une image locale ou ajoutez une Capture directement à partir de l
 
 _Image du model dans le menu droit_ Lorsqu'elle est ajoutée, l'image est affichée en haut du menu droit d'un model lorsqu'un seul model est sélectionné ou lorsque le menu est ouvert sur la page de contenu du model. L'image ajoutée est affichée à la fois dans le menu droit d'une révision du model lorsqu'un model est sélectionné et dans la miniature du model dans la colonne du nom du tableau des modèles.
 
-Cliquez [ici](https://support.catenda.com/fr/articles/4670257-creating-a-thumbnail-for-your-model) pour en savoir plus sur la façon d'ajouter une image pour un model.
+Cliquez [ici](https://support.catenda.com/fr/articles/4670257-creer-une-miniature-pour-votre-modele) pour en savoir plus sur la façon d'ajouter une image pour un model.
 
 **Miniature du model** Lorsqu'elle est ajoutée, l'image est affichée sous forme de miniature pour le model dans la colonne du nom du tableau des modèles sur la page des modèles.
 
@@ -62,7 +62,7 @@ Les différents Membres qui ont téléchargé des révisions et qui ont ainsi co
 
 ## 3. **Transformation du model**
 
-Avec la transformation du model, les objets du model peuvent être configurés pour être affichés à un emplacement et une orientation différents dans la Visionneuse 3D de Catenda Hub. Cette transformation s'applique uniquement aux modèles dans la Visionneuse 3D et non aux Documents 3D qui ont été chargés dans la Visionneuse 3D. Cliquez [ici](https://support.catenda.com/fr/articles/12498975-add-context-to-your-projects-with-freely-accessible-ign-point-clouds-hd-lidar) pour en savoir plus sur la transformation des Documents 3D.
+Avec la transformation du model, les objets du model peuvent être configurés pour être affichés à un emplacement et une orientation différents dans la Visionneuse 3D de Catenda Hub. Cette transformation s'applique uniquement aux modèles dans la Visionneuse 3D et non aux Documents 3D qui ont été chargés dans la Visionneuse 3D. Cliquez [ici](https://support.catenda.com/fr/articles/12498975-ajouter-des-nuages-de-points-ign-gratuits-hd-lidar-a-un-projet) pour en savoir plus sur la transformation des Documents 3D.
 
 **Échange de modèles avec des outils externes** Les modèles sont souvent téléchargés depuis Catenda et ouverts dans un programme tiers. Il reste donc important d'avoir les bonnes coordonnées configurées dans le fichier IFC avant le téléchargement afin que le fichier téléchargé contienne les bonnes informations.
 

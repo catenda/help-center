@@ -1,6 +1,6 @@
 # Bokmerkeside for innhold
 
-Bokmerker finnes på [bokmerkersiden](https://support.catenda.com/nb/articles/4670281-bookmarks-page). Slik kan et bokmerke se ut:
+Bokmerker finnes på [bokmerkersiden](https://support.catenda.com/nb/articles/4670281-bokmerke-side). Slik kan et bokmerke se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/01-intro.png)
 
@@ -12,7 +12,7 @@ Handlingsmenyen finner du øverst til høyre på siden
 
 ### 1.1 **Nytt bokmerke**
 
-Klikk her for å lage et [nytt bokmerke](https://support.catenda.com/nb/articles/4670269-creating-a-new-bookmark).
+Klikk her for å lage et [nytt bokmerke](https://support.catenda.com/nb/articles/4670269-opprette-et-nytt-bokmerke).
 
 ### 1.2 **Slett bokmerke**
 
@@ -24,11 +24,11 @@ Bildet av visningsvinduet ble generert da øyeblikksbildet sist ble oppdatert.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/03-snapshot.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/10345863-snapshots) for å lese mer om øyeblikksbilder.
+Klikk [her](https://support.catenda.com/nb/articles/10345863-3d-oyeblikkbilder) for å lese mer om øyeblikksbilder.
 
 ## 3. **Tittel**
 
-Tittelen på bokmerket. Dette kan filtreres med et tekstfilter på [bokmerkersiden](https://support.catenda.com/nb/articles/4670281-bookmarks-page).
+Tittelen på bokmerket. Dette kan filtreres med et tekstfilter på [bokmerkersiden](https://support.catenda.com/nb/articles/4670281-bokmerke-side).
 
 ### 3.1 **Opprettet av**
 

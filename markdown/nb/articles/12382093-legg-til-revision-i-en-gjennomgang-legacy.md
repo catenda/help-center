@@ -1,6 +1,6 @@
 # Legg til revision i en gjennomgang - Legacy
 
-Draft revisions kan legges til en gjennomgang ved å klikke på knappen for å legge til draft i [dialogboksen for opprett en gjennomgang](https://support.catenda.com/nb/articles/12360159-creating-a-new-approval-request) og ved å klikke på knappen for å legge til draft i [brødteksten i en gjennomgang](https://support.catenda.com/nb/articles/8349418-approval-page#h_218ac89189) på siden av en eksisterende gjennomgang. Slik kan dialogboksen for å legge til draft i gjennomgang se ut:
+Draft revisions kan legges til en gjennomgang ved å klikke på knappen for å legge til draft i [dialogboksen for opprett en gjennomgang](https://support.catenda.com/nb/articles/12360159-opprette-en-ny-gjennomgangforesporsel-eldre-versjon) og ved å klikke på knappen for å legge til draft i [brødteksten i en gjennomgang](https://support.catenda.com/nb/articles/8349418-apen-publisert-eller-forkastet-gjennomgang-arv#h_218ac89189) på siden av en eksisterende gjennomgang. Slik kan dialogboksen for å legge til draft i gjennomgang se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bzenvg2j/01-intro.png)
 

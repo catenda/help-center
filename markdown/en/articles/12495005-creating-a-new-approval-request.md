@@ -1,6 +1,6 @@
 # Creating a new approval request
 
-The new approval request action can be found for projects that enabled shared revisions after 2 October 2025. Clicking the action menu to the right of the green plus button on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page) to create a new approval requets. Click on the new approval request button in the approvals menu of the right menu of a revision on the documents page where the latest revision is a shared revision to create a new approval request. This is what the create a new approval request dialogue can look like:
+The new approval request action can be found for projects that enabled shared revisions after 2 October 2025. Clicking the action menu to the right of the green plus button on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy) to create a new approval requets. Click on the new approval request button in the approvals menu of the right menu of a revision on the documents page where the latest revision is a shared revision to create a new approval request. This is what the create a new approval request dialogue can look like:
 
 ![New approval request Workflow Submitter Title Description (optional) Documents for review add documents name revision # Revision number Status Remove Cancel Save as draft Submit for review](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
@@ -46,13 +46,13 @@ The new validation workflow is an on-demand feature that can be requested to be 
 
 ### 2.1 **Description**
 
-The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts). The description can be corrected later, both while the request is still a draft and after it has been submitted.
+The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox). The description can be corrected later, both while the request is still a draft and after it has been submitted.
 
 ### 2.2 **Add documents**
 
 ![Description (optional) documents for review add documents](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/06-add-documents.png)
 
-Click [here](https://support.catenda.com/en/articles/12382093-add-revision-to-approval) to read more about adding shared revisions from documents to an approval request. While it is possible to add an infinite amount of documents here, the limit for submitting the approval request for review is 1000 documents.
+Click [here](https://support.catenda.com/en/articles/12382093-add-revision-to-an-approval-request-legacy) to read more about adding shared revisions from documents to an approval request. While it is possible to add an infinite amount of documents here, the limit for submitting the approval request for review is 1000 documents.
 
 ### 2.3 **Documents for review table**
 

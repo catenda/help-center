@@ -1,8 +1,8 @@
 # Hoe kan ik een lid uitnodigen?
 
-U kunt nieuwe leden uitnodigen voor het project op de [pagina leden uitnodigen](https://support.catenda.com/nl/articles/4670263-invite-members-page).
+U kunt nieuwe leden uitnodigen voor het project op de [pagina leden uitnodigen](https://support.catenda.com/nl/articles/4670263-leden-pagina-uitnodigen).
 
-_Vereiste toegang:_ Toegang tot [leden uitnodigen](https://support.catenda.com/nl/articles/4670273-project-settings-page#h_f82a1850f3) op de pagina met projectinstellingen.
+_Vereiste toegang:_ Toegang tot [leden uitnodigen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_f82a1850f3) op de pagina met projectinstellingen.
 
 Volg de onderstaande stappen om een nieuw lid uit te nodigen.
 
@@ -28,4 +28,4 @@ _Vereiste toegang:_ Projectbeheerder
 
 8\. Uitnodiging verzenden
 
-Klik [hier](https://support.catenda.com/nl/articles/4670263-invite-members-page) voor meer informatie over de pagina leden uitnodigen.
+Klik [hier](https://support.catenda.com/nl/articles/4670263-leden-pagina-uitnodigen) voor meer informatie over de pagina leden uitnodigen.

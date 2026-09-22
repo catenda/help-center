@@ -10,13 +10,13 @@ As new features roll out and bugs are fixed articles are updated with the change
 
 ### 1.1 **New articles:**
 
-**Getting started and FAQ** [Catenda SharePoint FAQ](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq) [Revisions in namingconvention](https://support.catenda.com/en/articles/9496151-revisions-in-namingconvention) [Custom fields on documents](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents) [Taking over for another member](https://support.catenda.com/en/articles/9520447-taking-over-for-another-member)
+**Getting started and FAQ** [Catenda SharePoint FAQ](https://support.catenda.com/en/articles/9419678-catenda-sharepoint-faq) [Revisions in namingconvention](https://support.catenda.com/en/articles/9496151-revisions-in-naming-convention) [Custom fields on documents](https://support.catenda.com/en/articles/9531080-custom-fields-on-documents) [Taking over for another member](https://support.catenda.com/en/articles/9520447-taking-over-for-another-member)
 
-**Models** [Actions on the models page](https://support.catenda.com/en/articles/9431936-actions-on-the-models-page) [Right menu on the models page](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page) [Actions on the model overview page](https://support.catenda.com/en/articles/9674157-actions-on-the-model-overview-page)
+**Models** [Actions on the models page](https://support.catenda.com/en/articles/9431936-models-page-actions) [Right menu on the models page](https://support.catenda.com/en/articles/9673735-right-menu-on-the-models-page) [Actions on the model overview page](https://support.catenda.com/en/articles/9674157-model-contents-page-actions)
 
-**Topics** [Boards page](https://support.catenda.com/en/articles/9413644-boards-page) [Actions in a topic board](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board)
+**Topics** [Boards page](https://support.catenda.com/en/articles/9413644-boards-page) [Actions in a topic board](https://support.catenda.com/en/articles/4670284-topics-table-actions)
 
-**Documents** [Actions in a document](https://support.catenda.com/en/articles/9323521-actions-in-a-document)
+**Documents** [Actions in a document](https://support.catenda.com/en/articles/9323521-document-revision-actions)
 
 **Plugins and integrations** [Microsoft Teams notifications](https://support.catenda.com/en/articles/9167392-microsoft-teams-notifications) [Enabling the Catenda SharePoint app](https://support.catenda.com/en/articles/9419749-enabling-the-catenda-sharepoint-app) [Adding and removing the CatendaSP app](https://support.catenda.com/en/articles/9453368-adding-and-removing-the-catendasp-app) [Navisworks Changelog - 1.4.0](https://support.catenda.com/en/articles/9440035-navisworks-changelog-1-4-0)
 
@@ -26,17 +26,17 @@ As new features roll out and bugs are fixed articles are updated with the change
 
 **Main page** [Projects page - Organization tool](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool) [Users page - Organization tool ](https://support.catenda.com/en/articles/8508311-users-page-organization-tool) [Project memberships - Organization tool](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool) [Multi Factor Authentication](https://support.catenda.com/en/articles/4969891-multi-factor-authentication)
 
-**Models** [Models page](https://support.catenda.com/en/articles/4670286-models-page) [Model overview page](https://support.catenda.com/en/articles/4670270-model-overview-page)
+**Models** [Models page](https://support.catenda.com/en/articles/4670286-models-page) [Model overview page](https://support.catenda.com/en/articles/4670270-model-contents-page)
 
-**Topics** [Right menu in a topic](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic) [Table view in a topic board](https://support.catenda.com/en/articles/6941099-table-view-in-an-topic-board) [List view in a topic board](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board) [Topics page](https://support.catenda.com/en/articles/4670271-topics-page)
+**Topics** [Right menu in a topic](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic) [Table view in a topic board](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board) [List view in a topic board](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board) [Topics page](https://support.catenda.com/en/articles/4670271-topics-page)
 
-**Documents** [Upload a zip / file structure](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) [Actions in the document structure](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure) [Documents page](https://support.catenda.com/en/articles/8204673-documents-page) [Documents banner - Navigation](https://support.catenda.com/en/articles/8461918-document-banner-navigation) [Right menu in a document](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document) [QR-Codes on PDFs in Catenda](https://support.catenda.com/en/articles/9360508-qr-code-on-pdfs-in-catenda) [Document settings](https://support.catenda.com/en/articles/7831371-document-settings) [Right menu on the documents page](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page)
+**Documents** [Upload a zip / file structure](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) [Actions in the document structure](https://support.catenda.com/en/articles/4670288-documents-table-actions) [Documents page](https://support.catenda.com/en/articles/8204673-documents-page) [Documents banner - Navigation](https://support.catenda.com/en/articles/8461918-document-banner-navigation) [Right menu in a document](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info) [QR-Codes on PDFs in Catenda](https://support.catenda.com/en/articles/9360508-qr-code-on-pdfs-in-catenda) [Document settings](https://support.catenda.com/en/articles/7831371-document-settings-page) [Right menu on the documents page](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page)
 
-**Settings** [Custom field page](https://support.catenda.com/en/articles/8445588-custom-field-page) [Custom fields page](https://support.catenda.com/en/articles/6550459-custom-fields-page)
+**Settings** [Custom field page](https://support.catenda.com/en/articles/8445588-custom-field-contents-page) [Custom fields page](https://support.catenda.com/en/articles/6550459-custom-fields-page)
 
 **Plugins and integrations** [Catenda Sharepoint Application](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application) [IFC Export Archicad Manual](https://support.catenda.com/en/articles/4670338-ifc-export-archicad-manual)
 
-**Catenda Site** [Previewing documents on Catenda Site](https://support.catenda.com/en/articles/8975421-previewing-documents-on-catenda-site)
+**Catenda Site** [Previewing documents on Catenda Site](https://support.catenda.com/en/articles/8975421-previewing-file-types-on-catenda-site)
 
 ## 2. **Bugs Resolved**
 
@@ -78,4 +78,4 @@ _Catenda Site v3.4.2:_ [App store](https://apps.apple.com/us/app/catenda-site/id
 
 **Desktop Connector:** [Catenda Desktop Connector v1.0.5.0](https://support.catenda.com/en/articles/8358861-catenda-desktop-connector)
 
-Navisworks: [Navisworks plugin v1.4.0](https://support.catenda.com/en/articles/5085987-catenda-hub-navisworks-plugin)
+Navisworks: [Navisworks plugin v1.4.0](https://support.catenda.com/en/articles/5085987-catenda-navisworks-plugin)

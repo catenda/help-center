@@ -12,10 +12,10 @@ Her vises de siste varslinger som er relevante for deg. Du kan klikke på varsli
 
 ## 2. Filtrering og funksjonalitet
 
-Du kan lese mer om hvordan du kan filtrere på denne siden og når du får de ulike varslinger på [denne](https://support.catenda.com/nb/articles/8304417-filtering-and-functionality-on-notifications-pages) siden.
+Du kan lese mer om hvordan du kan filtrere på denne siden og når du får de ulike varslinger på [denne](https://support.catenda.com/nb/articles/8304417-filtrering-pa-varslingssiden) siden.
 
 ## 3. Underside
 
 Som en underside til prosjektvarselssiden finner du:
 
-- [Innstillinger for prosjektvarsel](https://support.catenda.com/nb/articles/4670262-project-notification-settings)
+- [Innstillinger for prosjektvarsel](https://support.catenda.com/nb/articles/4670262-prosjektspesifikke-varselinnstillinger)

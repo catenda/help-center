@@ -14,7 +14,7 @@ Chaque section dispose d'une sous-section pliable donnant aux utilisateurs accè
 
 ## 2. **Support pour IFC 4.3**
 
-Catenda Hub peut maintenant importer et afficher des fichiers IFC 4.3, et les utilisateurs peuvent déjà bénéficier de nouvelles fonctionnalités liées à ce format. Consultez notre article qui couvre cela en plus de détails : [LIEN](https://intercom.help/bimsync-arena/fr/articles/4670320-previewing-file-types-on-catenda-hub#h_2edd1d4e9c)
+Catenda Hub peut maintenant importer et afficher des fichiers IFC 4.3, et les utilisateurs peuvent déjà bénéficier de nouvelles fonctionnalités liées à ce format. Consultez notre article qui couvre cela en plus de détails : [LIEN](https://intercom.help/bimsync-arena/fr/articles/4670320-apercu-des-types-de-fichiers-sur-catenda-hub#h_2edd1d4e9c)
 
 ## 3. **Organisations: Gestion des utilisateurs et des projets - ensemble d'outils de portefeuille**
 
@@ -26,7 +26,7 @@ Dans la section [Organisations](http://bimsync.com/orgs) de Catenda Hub, vous tr
 
 ## 4. **Nouvelle vue de tableau de Sujets**
 
-Nous avons mis à jour la [Vue de tableau](https://support.catenda.com/fr/articles/6941099-table-view-in-an-issue-board) pour les Problèmes, les utilisateurs peuvent ajuster davantage de composants selon leurs besoins, et également bénéficier d'un aperçu des problèmes lors de la sélection dans la liste.
+Nous avons mis à jour la [Vue de tableau](https://support.catenda.com/fr/articles/6941099-affichage-tableau-dans-un-topic-board) pour les Problèmes, les utilisateurs peuvent ajuster davantage de composants selon leurs besoins, et également bénéficier d'un aperçu des problèmes lors de la sélection dans la liste.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jah4q53q/04-new-topics-table-view.png)
 
@@ -42,4 +42,4 @@ Le moteur de correspondance attribue un score à l'association et suggère le r�
 
 ## 6. **Convention de nommage**
 
-Vous découvrirez une nouvelle fonctionnalité visible dans la section Documents, appelée [Convention de nommage](https://support.catenda.com/fr/articles/7832559-naming-convention). C'est un travail en cours, et sera livrée en tant que nouvelle fonctionnalité au Q4 2023. Veuillez nous contacter pour avoir une démonstration et éventuellement une version d'essai, en utilisant le bouton Chat dans Catenda Hub.
+Vous découvrirez une nouvelle fonctionnalité visible dans la section Documents, appelée [Convention de nommage](https://support.catenda.com/fr/articles/7832559-page-des-conventions-de-nommage). C'est un travail en cours, et sera livrée en tant que nouvelle fonctionnalité au Q4 2023. Veuillez nous contacter pour avoir une démonstration et éventuellement une version d'essai, en utilisant le bouton Chat dans Catenda Hub.

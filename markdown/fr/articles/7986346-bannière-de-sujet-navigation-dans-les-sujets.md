@@ -1,10 +1,10 @@
 # Bannière de sujet - Navigation dans les sujets
 
-Si vous sélectionnez un sujet d'une [liste de sujets](https://support.catenda.com/fr/articles/4670271-issues-page#h_6a5895256b) une nouvelle fenêtre s'ouvrira pour ce sujet. Voici à quoi peut ressembler une fenêtre de sujet :
+Si vous sélectionnez un sujet d'une [liste de sujets](https://support.catenda.com/fr/articles/4670271-page-sujets#h_6a5895256b) une nouvelle fenêtre s'ouvrira pour ce sujet. Voici à quoi peut ressembler une fenêtre de sujet :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/01-intro.png)
 
-1\. La bannière de sujet sera décrite dans cet article. 2\. Vous trouverez la bannière de sujet au-dessus de l'[en-tête du sujet](https://support.catenda.com/fr/articles/8400566-issue-header). 3\. À droite de l'en-tête et du corps du sujet, vous trouverez le [panneau d'informations de droite](https://support.catenda.com/fr/articles/8053299-issue-right-panel). 4\. Sous l'en-tête d'un sujet, vous trouverez le [corps du sujet](https://support.catenda.com/fr/articles/8053352-issue-body).
+1\. La bannière de sujet sera décrite dans cet article. 2\. Vous trouverez la bannière de sujet au-dessus de l'[en-tête du sujet](https://support.catenda.com/fr/articles/8400566-en-tete-de-sujet-l-objet-d-un-sujet). 3\. À droite de l'en-tête et du corps du sujet, vous trouverez le [panneau d'informations de droite](https://support.catenda.com/fr/articles/8053299-menu-de-droite-dans-un-sujet). 4\. Sous l'en-tête d'un sujet, vous trouverez le [corps du sujet](https://support.catenda.com/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet).
 
 ## 1. **Fil d'Ariane**
 
@@ -12,11 +12,11 @@ Si vous sélectionnez un sujet d'une [liste de sujets](https://support.catenda.c
 
 ### 1.1 **Sujets**
 
-Cliquez sur les sujets du fil d'Ariane pour revenir à la [liste de sujets](https://support.catenda.com/fr/articles/4670271-issues-page#h_6a5895256b) actuelle.
+Cliquez sur les sujets du fil d'Ariane pour revenir à la [liste de sujets](https://support.catenda.com/fr/articles/4670271-page-sujets#h_6a5895256b) actuelle.
 
 ### 1.2 **Liste de sujets** **déroulante**
 
-Sélectionnez une [liste de sujets](https://support.catenda.com/fr/articles/4670271-issues-page#h_6a5895256b) dans la liste déroulante des listes de sujets du fil d'Ariane pour accéder à cette liste de sujets.
+Sélectionnez une [liste de sujets](https://support.catenda.com/fr/articles/4670271-page-sujets#h_6a5895256b) dans la liste déroulante des listes de sujets du fil d'Ariane pour accéder à cette liste de sujets.
 
 ### 1.3 **Numéro et titre du sujet**
 
@@ -36,7 +36,7 @@ _Boutons Précédent et Suivant_ - Allez au sujet précédent ou suivant dans la
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/04-top-buttons.png)
 
-_Nouveau sujet_ - Créer un [nouveau sujet](https://support.catenda.com/fr/articles/4670268-creating-a-new-issue) _Cloner un sujet_  - Créer une copie de ce sujet Vous voudrez cloner un sujet quand vous voulez créer un sujet similaire qui est légèrement différent du sujet actuel. Il n'est pas recommandé de créer plusieurs copies du même sujet et d'assigner chacune à une personne différente. Au lieu de cela, vous voudrez [mentionner](https://support.catenda.com/fr/articles/8430847-formatting-of-posts#h_2481ad1c8c) les différents membres que vous voulez ajouter au sujet avec @membre.
+_Nouveau sujet_ - Créer un [nouveau sujet](https://support.catenda.com/fr/articles/4670268-creer-un-nouveau-sujet) _Cloner un sujet_  - Créer une copie de ce sujet Vous voudrez cloner un sujet quand vous voulez créer un sujet similaire qui est légèrement différent du sujet actuel. Il n'est pas recommandé de créer plusieurs copies du même sujet et d'assigner chacune à une personne différente. Au lieu de cela, vous voudrez [mentionner](https://support.catenda.com/fr/articles/8430847-boite-a-outils-de-formatage-des-publications#h_2481ad1c8c) les différents membres que vous voulez ajouter au sujet avec @membre.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ptpch9s6/05-top-buttons.png)
 
@@ -51,4 +51,4 @@ _Nouveau sujet_ - Créer un [nouveau sujet](https://support.catenda.com/fr/artic
 
 > **Note :** Les commentaires ne sont pas clonés
 
-_Paramètres_ - Accédez aux [paramètres de la liste de sujets](https://support.catenda.com/fr/articles/4670277-issue-board-settings) en cliquant sur ce bouton
+_Paramètres_ - Accédez aux [paramètres de la liste de sujets](https://support.catenda.com/fr/articles/4670277-page-des-parametres-du-tableau-de-bord-des-sujets) en cliquant sur ce bouton

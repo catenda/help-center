@@ -1,6 +1,6 @@
 # Mappekonfigurasjon - Dokumentinnstillinger
 
-Menyen for mappekonfigurasjon finner du på siden [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-document-settings-page). Ved å konfigurere en mappe kan du forbedre hvordan dokumenter håndteres i den arbeidsflytingen.
+Menyen for mappekonfigurasjon finner du på siden [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger). Ved å konfigurere en mappe kan du forbedre hvordan dokumenter håndteres i den arbeidsflytingen.
 
 ## 1. **Mappetabell**
 
@@ -52,7 +52,7 @@ Mappekonfigureringsdialogen kan se slik ut:
 
 ### 2.1 **Navnekonvensjon**
 
-Hvis du har angitt navnekonvensjoner på siden [navnekonvensjon](https://support.catenda.com/nb/articles/7832559-naming-conventions-page) i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-project-settings-page), kan du velge hvilken mappe navnekonvensjonen skal brukes på her. Når du bruker en konvensjon, må alle nye dokumenter i mappen og undermappene:
+Hvis du har angitt navnekonvensjoner på siden [navnekonvensjon](https://support.catenda.com/nb/articles/7832559-navnekonvensjonsside) i [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger), kan du velge hvilken mappe navnekonvensjonen skal brukes på her. Når du bruker en konvensjon, må alle nye dokumenter i mappen og undermappene:
 
 - Være navngitt i henhold til navnekonvensjonen
 - Ha et dokumentnavn som ikke kan redigeres mens konvensjonen er aktiv
@@ -89,4 +89,4 @@ Med egendefinerte felt kan du tilordne egendefinerte felt til alle dokumenter i 
 
 ## 3. **Tilordne QR-kode**
 
-Med [QR-kodestamping](https://support.catenda.com/nb/articles/9360508-qr-code-on-pdfs-in-catenda) kan du velge om du vil aktivere denne funksjonen for en mappe her.
+Med [QR-kodestamping](https://support.catenda.com/nb/articles/9360508-qr-kode-pa-pdf-er-i-catenda) kan du velge om du vil aktivere denne funksjonen for en mappe her.

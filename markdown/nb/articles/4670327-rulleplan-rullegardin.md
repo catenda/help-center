@@ -1,6 +1,6 @@
 # Rulleplan-rullegardin
 
-Hvis det er modeller i prosjektet som inneholder rutenett, vil rulleplan-rullegardin vises mot øvre venstre hjørne av [3D-viseren](https://support.catenda.com/nb/articles/8227211-3d-viewer#h_2eec7c411b).
+Hvis det er modeller i prosjektet som inneholder rutenett, vil rulleplan-rullegardin vises mot øvre venstre hjørne av [3D-viseren](https://support.catenda.com/nb/articles/8227211-3d-viser#h_2eec7c411b).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y1c9bh9y/01-intro.png)
 
@@ -64,7 +64,7 @@ Utvid vis akser-menyen for bedre kontroll over hver av aksene. Her kan hver akse
 
 ## 4. **4. Rulleplan overflateknapp**
 
-Etter å være aktivert, strekker den transparente rulleplanoverflaten seg fra kommentarlinjen til øvre grenser for modellen på samme måte som en klippeplanoverfplate. I motsetning til en klippeplanoverfplate som ser tilsvarende transparent ut og kan flyttes, er dette et transparent objekt som ikke kan flyttes fra kommentarlinjen. I tillegg til klippeplanoverflatene er det mulig å måle til rulleplanoverflater. Klikk [her](https://support.catenda.com/nb/articles/4670298-measuring-to-grids) for å lese mer om måling til ulike rulleplanoverflater.
+Etter å være aktivert, strekker den transparente rulleplanoverflaten seg fra kommentarlinjen til øvre grenser for modellen på samme måte som en klippeplanoverfplate. I motsetning til en klippeplanoverfplate som ser tilsvarende transparent ut og kan flyttes, er dette et transparent objekt som ikke kan flyttes fra kommentarlinjen. I tillegg til klippeplanoverflatene er det mulig å måle til rulleplanoverflater. Klikk [her](https://support.catenda.com/nb/articles/4670298-maling-til-glideplaner) for å lese mer om måling til ulike rulleplanoverflater.
 
 ### 4.1 **4.1 Rutenettsaksoverflate**
 

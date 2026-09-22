@@ -24,7 +24,7 @@ Click the switch again to turn the notifications back on.
 
 ## 2. **Notification checkboxes**
 
-For each notification method you can choose which notification types you would like to receive for that method. Click [here](https://support.catenda.com/en/articles/8304417-untitled-article) to see when each type of notification get sent.
+For each notification method you can choose which notification types you would like to receive for that method. Click [here](https://support.catenda.com/en/articles/8304417-filtering-on-the-notifications-page) to see when each type of notification get sent.
 
 ## 3. **In-browser notifications**
 
@@ -64,4 +64,4 @@ Copy the URL into the **"Webhook URL"** above. Make sure the notifications are e
 
 ## 7. **Per project notifications**
 
-If you have set any project specific notifications you will be able to see these in the left navigation menu of a project. You can click on the name of the project to get taken to the [project notification settings](https://support.catenda.com/en/articles/4670262-project-notification-settings) for that project. These settings will be specific to you and are not settings for the whole project.
+If you have set any project specific notifications you will be able to see these in the left navigation menu of a project. You can click on the name of the project to get taken to the [project notification settings](https://support.catenda.com/en/articles/4670262-project-specific-notification-settings) for that project. These settings will be specific to you and are not settings for the whole project.

@@ -1,6 +1,6 @@
 # Configuration de l'organisation
 
-Les organisations sont créées et gérées par une personne de contact Catenda. Contactez le support Catenda pour apporter des modifications à la configuration de l'organisation. Cliquez [ici](https://support.catenda.com/fr/articles/8224886-organization-options) pour en savoir plus sur les différentes options d'organisation qui existent.
+Les organisations sont créées et gérées par une personne de contact Catenda. Contactez le support Catenda pour apporter des modifications à la configuration de l'organisation. Cliquez [ici](https://support.catenda.com/fr/articles/8224886-options-d-organisation) pour en savoir plus sur les différentes options d'organisation qui existent.
 
 Les éléments suivants peuvent être configurés par une personne de contact Catenda :
 

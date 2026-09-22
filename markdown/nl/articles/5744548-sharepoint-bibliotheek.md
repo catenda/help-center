@@ -2,11 +2,11 @@
 
 > Dit artikel beschrijft hoe u een verbinding met Sharepoint instelt
 
-Om een SharePoint-bibliotheek te maken, klikt u op de knop [nieuwe bibliotheek](https://support.catenda.com/nl/articles/8065645-libraries-page#h_c6d56f227c) in de rechterbovenhoek van de [pagina Bibliotheek](https://support.catenda.com/nl/articles/8065645-libraries-page). Deze bibliotheek kan worden gebruikt om documenten van een gebruiker SharePoint met de andere leden van het Catenda-project te delen. Wanneer de SharePoint-bibliotheek is geactiveerd, kan deze er als volgt uitzien:
+Om een SharePoint-bibliotheek te maken, klikt u op de knop [nieuwe bibliotheek](https://support.catenda.com/nl/articles/8065645-bibliotheek-pagina#h_c6d56f227c) in de rechterbovenhoek van de [pagina Bibliotheek](https://support.catenda.com/nl/articles/8065645-bibliotheek-pagina). Deze bibliotheek kan worden gebruikt om documenten van een gebruiker SharePoint met de andere leden van het Catenda-project te delen. Wanneer de SharePoint-bibliotheek is geactiveerd, kan deze er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/01-intro.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/9800091-sharepoint-library-short-video) om een korte video te bekijken over hoe u de SharePoint-bibliotheek configureert.
+Klik [hier](https://support.catenda.com/nl/articles/9800091-sharepoint-bibliotheek-korte-video) om een korte video te bekijken over hoe u de SharePoint-bibliotheek configureert.
 
 Nadat u de bibliotheek een naam hebt gegeven, wordt een nieuw tabblad in uw browser geopend waar u wordt gevraagd u aan te melden met uw SharePoint-account. Na aanmelding gaat u naar de pagina Bibliotheek instellingen van uw SharePoint-bibliotheek, waar u de SharePoint-map kunt configureren die u in Catenda wilt weergeven.
 
@@ -54,7 +54,7 @@ Klik op de knop Nieuwe bibliotheek om een nieuwe bibliotheek te maken
 
 ### 4.1 **Opgeslagen filters**
 
-Klik [hier](https://support.catenda.com/nl/articles/8551755-saving-filters) voor meer informatie over hoe u een set filters opslaat
+Klik [hier](https://support.catenda.com/nl/articles/8551755-filterresultaten-beperken) voor meer informatie over hoe u een set filters opslaat
 
 ### 4.2 **Niet gekoppeld -** `link=unlinked`
 
@@ -100,7 +100,7 @@ Als objecten aan uw documenten zijn gekoppeld, kunt u hier het aantal gekoppelde
 
 ## 6. **Rechts informatiemenu**
 
-Als u een document in de documentlijst selecteert, is het rechtermenu mogelijk gesloten. U kunt op de informatieknop rechtonder op de [documentbanner](https://support.catenda.com/nl/articles/8461918-document-banner-actions-navigation) klikken om dit menu uit te vouwen.
+Als u een document in de documentlijst selecteert, is het rechtermenu mogelijk gesloten. U kunt op de informatieknop rechtonder op de [documentbanner](https://support.catenda.com/nl/articles/8461918-documentbanner-navigatie) klikken om dit menu uit te vouwen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/05-right-information-menu.png)
 

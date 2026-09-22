@@ -1,8 +1,8 @@
 # Hvordan kan jeg invitere et medlem?
 
-Du vil kunne invitere nye medlemmer til prosjektet på [siden for invitasjon av medlemmer](https://support.catenda.com/nb/articles/4670263-invite-members-page).
+Du vil kunne invitere nye medlemmer til prosjektet på [siden for invitasjon av medlemmer](https://support.catenda.com/nb/articles/4670263-inviter-medlemmer-side).
 
-_Tilgang kreves:_ Tilgang til [invitasjon av nye medlemmer](https://support.catenda.com/nb/articles/4670273-project-settings-page#h_f82a1850f3) på prosjektinnstillingssiden.
+_Tilgang kreves:_ Tilgang til [invitasjon av nye medlemmer](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger#h_f82a1850f3) på prosjektinnstillingssiden.
 
 Følg trinnene nedenfor for å invitere et nytt medlem.
 
@@ -28,4 +28,4 @@ _Tilgang kreves:_ Prosjektadministrator
 
 8\. Send invitasjon
 
-Klikk [her](https://support.catenda.com/nb/articles/4670263-invite-members-page) for å lese mer om siden for invitasjon av medlemmer.
+Klikk [her](https://support.catenda.com/nb/articles/4670263-inviter-medlemmer-side) for å lese mer om siden for invitasjon av medlemmer.

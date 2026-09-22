@@ -20,7 +20,7 @@ Si vous n'avez pas encore de compte, ou même si vos Notifications par e-mail so
 
 > **Conseil :** "(Nom de l'utilisateur qui invite) vous a invité à (Projet Catenda auquel vous êtes invité)."
 
-Voir [ici](https://support.catenda.com/fr/articles/8417802-why-am-i-not-receiving-emails) pour le dépannage des e-mails. Vous pouvez accepter l'invitation en cliquant sur la Notification si vous créez un compte sur [https://hub.catenda.com/signup](https://hub.catenda.com/signup) et que vous êtes invité à nouveau, mais il peut être utile d'investiguer pourquoi vous ne recevez pas d'e-mails afin que vous puissiez commencer à recevoir les Notifications par e-mail.
+Voir [ici](https://support.catenda.com/fr/articles/8417802-pourquoi-ne-recois-je-pas-d-e-mails) pour le dépannage des e-mails. Vous pouvez accepter l'invitation en cliquant sur la Notification si vous créez un compte sur [https://hub.catenda.com/signup](https://hub.catenda.com/signup) et que vous êtes invité à nouveau, mais il peut être utile d'investiguer pourquoi vous ne recevez pas d'e-mails afin que vous puissiez commencer à recevoir les Notifications par e-mail.
 
 Le nom de l'utilisateur qui invite et l'adresse e-mail de l'utilisateur seront visibles dans l'e-mail d'invitation qui peut ressembler à ceci :
 
@@ -40,7 +40,7 @@ Lorsque vous cliquez sur l'invitation, vous êtes redirigé vers Catenda Hub où
 
 ### 2.1 Créer un compte
 
-Si vous n'avez pas encore de compte, il vous sera demandé de créer un compte sur Catenda Hub. Suivez la [procédure d'inscription](https://intercom.help/bimsync-arena/fr/articles/8412895-creating-an-account).
+Si vous n'avez pas encore de compte, il vous sera demandé de créer un compte sur Catenda Hub. Suivez la [procédure d'inscription](https://intercom.help/bimsync-arena/fr/articles/8412895-creer-un-compte).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qn9t3aze/04-creating-an-account.png)
 

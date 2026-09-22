@@ -1,6 +1,6 @@
 # Filtrering på godkjenningssiden - Eldre versjon
 
-Filterpanelet kan åpnes på godkjenningssiden ved å klikke på filterknappen til venstre for søkefeltet på [godkjenningssiden](https://support.catenda.com/nb/articles/8349340-approvals-page).
+Filterpanelet kan åpnes på godkjenningssiden ved å klikke på filterknappen til venstre for søkefeltet på [godkjenningssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vcqjvqcc/01-intro.png)
 
@@ -14,11 +14,11 @@ _Standardfilter_ Standardfilteret er opprinnelig ikke synlig i nettadressen. Nå
 
 ### 1.1 **Lagre og del gjeldende filter**
 
-Gå til nettadressen for en filtrert side for å laste inn siden med filteret brukt. De brukte filtrene kan lagres øverst i filtermenyen. Klikk [her](https://support.catenda.com/nb/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre
+Gå til nettadressen for en filtrert side for å laste inn siden med filteret brukt. De brukte filtrene kan lagres øverst i filtermenyen. Klikk [her](https://support.catenda.com/nb/articles/11401493-lagring-og-deling-av-filterlenke) for å lese mer om hvordan du lagrer og deler filtre
 
 ### 1.2 **Skjul tomme filtre**
 
-Klikk [her](https://support.catenda.com/nb/articles/8551755-saving-filters) for å lese mer om å begrense filterresultater.
+Klikk [her](https://support.catenda.com/nb/articles/8551755-begrenser-filterresultater) for å lese mer om å begrense filterresultater.
 
 ### 1.3 **Mine godkjenninger**
 

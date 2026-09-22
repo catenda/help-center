@@ -1,6 +1,6 @@
 # Organisationskonfiguration
 
-Organisationen werden von einer Catenda-Kontaktperson erstellt und verwaltet. Wenden Sie sich an den Catenda-Support, um Änderungen an der Organisationskonfiguration vorzunehmen. Klicken Sie [hier](https://support.catenda.com/de/articles/8224886-organization-options), um mehr über die verschiedenen verfügbaren Organisationsoptionen zu erfahren.
+Organisationen werden von einer Catenda-Kontaktperson erstellt und verwaltet. Wenden Sie sich an den Catenda-Support, um Änderungen an der Organisationskonfiguration vorzunehmen. Klicken Sie [hier](https://support.catenda.com/de/articles/8224886-organisationsoptionen), um mehr über die verschiedenen verfügbaren Organisationsoptionen zu erfahren.
 
 Eine Catenda-Kontaktperson kann Folgendes konfigurieren:
 

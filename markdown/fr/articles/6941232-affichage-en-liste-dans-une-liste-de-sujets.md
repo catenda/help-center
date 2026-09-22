@@ -1,6 +1,6 @@
 # Affichage en liste dans une liste de sujets
 
-L'affichage en liste dans le tableau des sujets sur la [page des sujets](https://support.catenda.com/fr/articles/4670271-topics-page) est activé par défaut. Si l'affichage en tableau a été activé, l'affichage en liste peut être réactivé [vers le haut](https://support.catenda.com/fr/articles/4670271-topics-page#h_6a5895256b) de la liste de sujets. L'affichage en liste dans le tableau des sujets de la page des sujets peut souvent être utile lorsque plusieurs personnes suivent ce qui se passe à l'écran. Bien que moins de sujets qu'en affichage en tableau soient affichés à la fois, les informations sont mieux espacées, ce qui rend la vue facile à comprendre en un coup d'œil, même pour quelqu'un qui n'a jamais vu une liste de sujets auparavant. Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour lire des informations générales sur les listes sur Catenda.
+L'affichage en liste dans le tableau des sujets sur la [page des sujets](https://support.catenda.com/fr/articles/4670271-page-sujets) est activé par défaut. Si l'affichage en tableau a été activé, l'affichage en liste peut être réactivé [vers le haut](https://support.catenda.com/fr/articles/4670271-page-sujets#h_6a5895256b) de la liste de sujets. L'affichage en liste dans le tableau des sujets de la page des sujets peut souvent être utile lorsque plusieurs personnes suivent ce qui se passe à l'écran. Bien que moins de sujets qu'en affichage en tableau soient affichés à la fois, les informations sont mieux espacées, ce qui rend la vue facile à comprendre en un coup d'œil, même pour quelqu'un qui n'a jamais vu une liste de sujets auparavant. Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tableaux-sur-catenda) pour lire des informations générales sur les listes sur Catenda.
 
 ## 1. **Trier la liste déroulante**
 
@@ -21,7 +21,7 @@ Dans l'affichage en liste d'une liste de sujets, il est possible de trier les su
 
 ### 2.1 **Contenu des lignes**
 
-**Ligne de sujet** L'ouverture du contenu d'une ligne de sujet ouvre la page du sujet correspondant. Cliquez [ici](https://support.catenda.com/fr/articles/8400566-topic-header-the-subject-of-a-topic) pour en savoir plus sur la page du sujet.
+**Ligne de sujet** L'ouverture du contenu d'une ligne de sujet ouvre la page du sujet correspondant. Cliquez [ici](https://support.catenda.com/fr/articles/8400566-en-tete-de-sujet-l-objet-d-un-sujet) pour en savoir plus sur la page du sujet.
 
 ### 2.2 **Cartes**
 
@@ -35,7 +35,7 @@ Titre Titre du sujet
 
 **Statuts** Le statut du sujet est affiché dans une boîte avec un cercle de couleur.
 
-**Étiquettes** Les [étiquettes](https://support.catenda.com/fr/articles/4670265-creating-a-new-label) (tags) du sujet sont affichées dans des boîtes avec une icône d'étiquette.
+**Étiquettes** Les [étiquettes](https://support.catenda.com/fr/articles/4670265-page-etiquettes) (tags) du sujet sont affichées dans des boîtes avec une icône d'étiquette.
 
 **Assigné à** Personne assignée au sujet.
 

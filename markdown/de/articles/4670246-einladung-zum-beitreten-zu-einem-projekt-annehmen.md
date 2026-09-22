@@ -20,7 +20,7 @@ Wenn Sie noch kein Konto haben oder selbst wenn Sie Ihre E-Mail-Benachrichtigung
 
 > **Tipp:** "(Name des einladenden Benutzers) hat Sie zu (Catenda-Projekt, zu dem Sie eingeladen werden) eingeladen."
 
-[Hier](https://support.catenda.com/de/articles/8417802-why-am-i-not-receiving-emails) finden Sie Informationen zur Behebung von E-Mail-Problemen. Sie können die Einladung annehmen, indem Sie auf die Benachrichtigung klicken, wenn Sie ein Konto unter [https://hub.catenda.com/signup](https://hub.catenda.com/signup) erstellen und erneut eingeladen werden. Es kann jedoch hilfreich sein zu überprüfen, warum Sie möglicherweise keine E-Mails erhalten, damit Sie E-Mail-Benachrichtigungen erhalten können.
+[Hier](https://support.catenda.com/de/articles/8417802-warum-erhalte-ich-keine-e-mails) finden Sie Informationen zur Behebung von E-Mail-Problemen. Sie können die Einladung annehmen, indem Sie auf die Benachrichtigung klicken, wenn Sie ein Konto unter [https://hub.catenda.com/signup](https://hub.catenda.com/signup) erstellen und erneut eingeladen werden. Es kann jedoch hilfreich sein zu überprüfen, warum Sie möglicherweise keine E-Mails erhalten, damit Sie E-Mail-Benachrichtigungen erhalten können.
 
 Der Name des einladenden Benutzers und die E-Mail-Adresse des Benutzers werden in der Einladungs-E-Mail angezeigt, die wie folgt aussehen kann:
 
@@ -40,7 +40,7 @@ Wenn Sie auf die Einladung klicken, werden Sie zu Catenda Hub weitergeleitet, wo
 
 ### 2.1 Konto erstellen
 
-Wenn Sie noch kein Konto haben, werden Sie aufgefordert, ein Konto bei Catenda Hub zu erstellen. Befolgen Sie die [Registrierungsprozedur](https://intercom.help/bimsync-arena/de/articles/8412895-creating-an-account).
+Wenn Sie noch kein Konto haben, werden Sie aufgefordert, ein Konto bei Catenda Hub zu erstellen. Befolgen Sie die [Registrierungsprozedur](https://intercom.help/bimsync-arena/de/articles/8412895-ein-konto-erstellen).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qn9t3aze/04-creating-an-account.png)
 

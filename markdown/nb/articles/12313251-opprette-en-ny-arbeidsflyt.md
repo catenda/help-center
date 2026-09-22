@@ -1,6 +1,6 @@
 # Opprette en ny arbeidsflyt
 
-Den nye arbeidsflytsiden kan åpnes ved å klikke på den grønne plussknappen på [arbeidsflytsiden](https://support.catenda.com/nb/articles/12309903-workflows-page-document-settings) eller ved å klikke på handlingen i menyen for nye elementer på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-approvals-page). Det er bare mulig å opprette nye arbeidsflyter i prosjekter der den nye valideringsarbeidsflyten har blitt forespurt aktivert. Den nye valideringsarbeidsflyten er en on-demand-funksjon som kan forespørres aktivert når du starter et nytt prosjekt. Det er bare mulig å opprette et prosjekt basert på et malprosjekt når den nye valideringsarbeidsflyten ikke er aktivert i det malprosjektet. Dette er hva titteldelen av en ny gjennomgang kan se ut som:
+Den nye arbeidsflytsiden kan åpnes ved å klikke på den grønne plussknappen på [arbeidsflytsiden](https://support.catenda.com/nb/articles/12309903-arbeidsflytsside-dokumentinnstillinger) eller ved å klikke på handlingen i menyen for nye elementer på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon). Det er bare mulig å opprette nye arbeidsflyter i prosjekter der den nye valideringsarbeidsflyten har blitt forespurt aktivert. Den nye valideringsarbeidsflyten er en on-demand-funksjon som kan forespørres aktivert når du starter et nytt prosjekt. Det er bare mulig å opprette et prosjekt basert på et malprosjekt når den nye valideringsarbeidsflyten ikke er aktivert i det malprosjektet. Dette er hva titteldelen av en ny gjennomgang kan se ut som:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
 
@@ -217,7 +217,7 @@ I feltet saksmaler kan du velge malen som systemet bruker for å opprette en sak
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/23-br-topic-template.png)
 
-Valg av mal er mulig fra eksisterende saksmaler. [Les mer om saksmaler](https://support.catenda.com/nb/articles/14076010-topic-template-settings-page)
+Valg av mal er mulig fra eksisterende saksmaler. [Les mer om saksmaler](https://support.catenda.com/nb/articles/14076010-innstillinger-for-saksmal)
 
 Når det ikke er mal, har du mulighet til å opprette en direkte i innstillingsvisningen.
 

@@ -1,12 +1,12 @@
 # Verwendung von benutzerdefinierten Feldern in Namenskonventionen
 
-Um die Namenskonvention mit benutzerdefinierten Feldern zu verwenden, müssen benutzerdefinierte Felder zunächst auf der [Seite für benutzerdefinierte Felder](https://support.catenda.com/de/articles/6550459-custom-fields-page) verfügbar gemacht werden, damit sie in der Konfiguration der Namenskonvention ausgewählt werden können. _Erforderlicher Zugriff:_ Projektadministrator
+Um die Namenskonvention mit benutzerdefinierten Feldern zu verwenden, müssen benutzerdefinierte Felder zunächst auf der [Seite für benutzerdefinierte Felder](https://support.catenda.com/de/articles/6550459-seite-benutzerdefinierte-felder) verfügbar gemacht werden, damit sie in der Konfiguration der Namenskonvention ausgewählt werden können. _Erforderlicher Zugriff:_ Projektadministrator
 
 Um ein benutzerdefiniertes Feld in einer Namenskonvention zu verwenden, führen Sie diese Schritte aus:
 
 ## 1. **Zur Seite mit Namenskonventionen wechseln**
 
-Klicken Sie im linken Navigationsmenü auf [Einstellungen](https://support.catenda.com/de/articles/4670273-project-settings-page), um die Unterseiten zu den Projekteinstellungen zu finden. Klicken Sie auf Namenskonvention, das jetzt als Unterseite zu den Einstellungen angezeigt wird, um die [Seite für Namenskonventionen](https://support.catenda.com/de/articles/7832559-naming-conventions-page) zu öffnen. Klicken Sie auf eine der Namenskonventionen, um die Seite mit dem Inhalt der Namenskonvention zu öffnen.
+Klicken Sie im linken Navigationsmenü auf [Einstellungen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen), um die Unterseiten zu den Projekteinstellungen zu finden. Klicken Sie auf Namenskonvention, das jetzt als Unterseite zu den Einstellungen angezeigt wird, um die [Seite für Namenskonventionen](https://support.catenda.com/de/articles/7832559-seite-namenskonventionen) zu öffnen. Klicken Sie auf eine der Namenskonventionen, um die Seite mit dem Inhalt der Namenskonvention zu öffnen.
 
 ![Wählen Sie Benennungskonventionen zum Anpassen](https://raw.githubusercontent.com/catenda/help-center/main/images/s9hns6p2/01-go-to-the-naming-convention-content-page.png)
 
@@ -30,6 +30,6 @@ Dokumente, die in einen Ordner hochgeladen werden, für den diese Namenskonventi
 
 ## 4. **Weitere Informationen**
 
-### 4.1 👉 **[Wie richte ich meine benutzerdefinierten Felder ein?](https://intercom.help/bimsync-arena/de/articles/6550459-custom-fields-setup)**
+### 4.1 👉 **[Wie richte ich meine benutzerdefinierten Felder ein?](https://intercom.help/bimsync-arena/de/articles/6550459-seite-benutzerdefinierte-felder)**
 
-### 4.2 👉 **[Wie richte ich meine Namenskonvention ein?](https://support.catenda.com/de/articles/7832559-naming-conventions-page)**
+### 4.2 👉 **[Wie richte ich meine Namenskonvention ein?](https://support.catenda.com/de/articles/7832559-seite-namenskonventionen)**

@@ -4,7 +4,7 @@
 
 Ontvang real-time notificaties van een Catenda-account rechtstreeks in een Microsoft Teams-kanaal door een Microsoft Teams-workflow te configureren in de Catenda-notificatie-instellingen. _Vereiste toegang:_ Een **Microsoft Teams**-account met machtigingen voor kanaalcreatie en Microsoft Teams-workflowbeheer.
 
-Het tabblad Microsoft Teams-notificaties vindt u bovenaan de [pagina met accountnotificatie-instellingen](https://support.catenda.com/nl/articles/8272435-account-notification-settings) die een subpagina is van de [pagina Accountnotificaties](https://support.catenda.com/nl/articles/7439223-account-notifications-page):
+Het tabblad Microsoft Teams-notificaties vindt u bovenaan de [pagina met accountnotificatie-instellingen](https://support.catenda.com/nl/articles/8272435-accountnotificatie-instellingen) die een subpagina is van de [pagina Accountnotificaties](https://support.catenda.com/nl/articles/7439223-pagina-accountnotificaties):
 
 ![Catenda Hub Notification settings Microsoft Teams notificaitons Projects with own Teams settings](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/01-intro.png)
 
@@ -93,7 +93,7 @@ Pas de informatie die u ontvangt aan om meldingsoversaturation te voorkomen. 1\.
 
 ![Choose which notificaitons you would like to receive Catenda Hub Email Microsoft Teams notifications Tropics Documents Approvals Collections Models Users A new topic is created aA topic is assigned to me A topic is mentioning me or my Teams New comment in a topic assigned to me mentioned by me followed by me Status changed in a topic Type changed in a topics I am set as the publisher in an approval request A team I am member of is set as the publisher in an approval request An approval request is closed A member of the submitter team A new approval request has been submitted A document has been discarded An approval request is closed A new approval request has been submitted A new approval request has been assigned to my team A new approval request is ready for review by my team All reviews have been submitted by my team aA document has been discarded An approval request is closed As member of the review team for the final approval A new approval requesthas been submitted A new approval request has been assigned to my team A new approval reqeust is ready for review by my team All reviews have been submitted by my team All reviews have been submitted by my team A review step has been completed A document has been discarded An approval request is closed A new models is created A new revision is imported.](https://raw.githubusercontent.com/catenda/help-center/main/images/cqcafpvn/09-step-4-customize-your-alerts.png)
 
-Grijze notificatievakken zijn uitgeschakeld voor Microsoft Teams en zijn alleen beschikbaar voor andere notificatiemethoden. Notificatievakken voor goedkeuringen worden beschikbaar als Gedeelde revisies zijn ingeschakeld in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings-page) van een project.
+Grijze notificatievakken zijn uitgeschakeld voor Microsoft Teams en zijn alleen beschikbaar voor andere notificatiemethoden. Notificatievakken voor goedkeuringen worden beschikbaar als Gedeelde revisies zijn ingeschakeld in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen) van een project.
 
 ---
 

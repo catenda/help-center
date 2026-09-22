@@ -1,6 +1,6 @@
 # Dashboard - Catenda Site
 
-Na het selecteren van uw project op de [projectenpagina](https://support.catenda.com/nl/articles/7733978-projects-page-catenda-site) wordt u naar uw projectdashboard met onderwerpen gebracht.
+Na het selecteren van uw project op de [projectenpagina](https://support.catenda.com/nl/articles/7733978-projectenpagina-catenda-site) wordt u naar uw projectdashboard met onderwerpen gebracht.
 
 Op deze pagina kunt u de status van uw onderwerpen bekijken, kiezen of wijzigen welke probleemborden u weergegeven wilt zien en onderwerpen filteren.
 
@@ -19,4 +19,4 @@ Op deze pagina kunt u de status van uw onderwerpen bekijken, kiezen of wijzigen 
 
 U hebt ook verschillende tabbladen waarnaar u kunt navigeren:
 
-A. [Menu](https://support.catenda.com/nl/articles/7338516-navigation-menu-catenda-site) B. [Onderwerpen](https://support.catenda.com/nl/articles/7734073-issues-page-catenda-site) C. [2D/3D](https://support.catenda.com/nl/articles/7734138-2d-3d-catenda-site) D. [Documenten](https://support.catenda.com/nl/articles/7774637-documents-catenda-site)
+A. [Menu](https://support.catenda.com/nl/articles/7338516-navigatiemenu-catenda-site) B. [Onderwerpen](https://support.catenda.com/nl/articles/7734073-onderwerpen-menu-catenda-site) C. [2D/3D](https://support.catenda.com/nl/articles/7734138-2d-3d-catenda-site) D. [Documenten](https://support.catenda.com/nl/articles/7774637-documenten-menu-catenda-site)

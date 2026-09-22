@@ -12,10 +12,10 @@ Hier werden die neuesten für Sie relevanten Benachrichtigungen angezeigt. Sie k
 
 ## 2. Filterung und Funktionalität
 
-Sie können mehr darüber erfahren, wie Sie auf dieser Seite filtern können und wann Sie die verschiedenen Benachrichtigungen erhalten, auf [dieser](https://support.catenda.com/de/articles/8304417-filtering-and-functionality-on-notifications-pages) Seite.
+Sie können mehr darüber erfahren, wie Sie auf dieser Seite filtern können und wann Sie die verschiedenen Benachrichtigungen erhalten, auf [dieser](https://support.catenda.com/de/articles/8304417-filterung-auf-der-benachrichtigungsseite) Seite.
 
 ## 3. Unterseite
 
 Als Unterseite zur Projektbenachrichtigungsseite finden Sie:
 
-- [Projektbenachrichtigungseinstellungen](https://support.catenda.com/de/articles/4670262-project-notification-settings)
+- [Projektbenachrichtigungseinstellungen](https://support.catenda.com/de/articles/4670262-projektspezifische-benachrichtigungseinstellungen)

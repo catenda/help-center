@@ -1,6 +1,6 @@
 # Revision toevoegen aan een goedkeuringsverzoek - Legacy
 
-Conceptrevisies kunnen aan een goedkeuringsverzoek worden toegevoegd door op de knop concept toevoegen te klikken in de [goedkeuringsverzoek maken dialoogvenster](https://support.catenda.com/nl/articles/12360159-creating-a-new-approval-request) en door op de knop concept toevoegen te klikken in de [inhoud van een goedkeuring](https://support.catenda.com/nl/articles/8349418-approval-page#h_218ac89189) op de pagina van een bestaande goedkeuring. Dit is hoe het dialoogvenster concept toevoegen aan goedkeuringsverzoek eruit kan zien:
+Conceptrevisies kunnen aan een goedkeuringsverzoek worden toegevoegd door op de knop concept toevoegen te klikken in de [goedkeuringsverzoek maken dialoogvenster](https://support.catenda.com/nl/articles/12360159-een-nieuw-goedkeuringsverzoek-maken-legacy) en door op de knop concept toevoegen te klikken in de [inhoud van een goedkeuring](https://support.catenda.com/nl/articles/8349418-goedkeuring-geopend-gepubliceerd-of-verwijderd-legacy#h_218ac89189) op de pagina van een bestaande goedkeuring. Dit is hoe het dialoogvenster concept toevoegen aan goedkeuringsverzoek eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bzenvg2j/01-intro.png)
 

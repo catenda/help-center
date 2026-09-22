@@ -2,11 +2,11 @@
 
 > Dans cet article, nous vous décrivons comment retirer une révision.
 
-Les révisions peuvent être retirées avec l'action de retrait dans le menu d'actions d'une révision. Sélectionnez un seul document dans le [tableau des documents](https://support.catenda.com/fr/articles/8204673-documents-page#h_54e8dfcac2) ou entrez l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations) d'une révision pour trouver le menu d'actions de la révision dans le [menu droit de la révision](https://support.catenda.com/fr/articles/8302244-right-menu-of-a-revision-revision-info#h_508f911117).
+Les révisions peuvent être retirées avec l'action de retrait dans le menu d'actions d'une révision. Sélectionnez un seul document dans le [tableau des documents](https://support.catenda.com/fr/articles/8204673-page-documents#h_54e8dfcac2) ou entrez l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations) d'une révision pour trouver le menu d'actions de la révision dans le [menu droit de la révision](https://support.catenda.com/fr/articles/8302244-menu-droit-d-une-revision-informations-de-revision#h_508f911117).
 
 Dans la précipitation du transfert de données, des erreurs simples sont parfois commises en téléchargeant le mauvais fichier ou en mettant à jour un document existant avec la mauvaise révision. Il existe une nouvelle solution pour cela dans Catenda HUB. _Accès requis :_ Accès complet au document
 
-Vous pourrez trouver l'option dans le [menu droit d'une révision](https://support.catenda.com/fr/articles/8302244-right-menu-in-a-document) et cela peut ressembler à ceci :
+Vous pourrez trouver l'option dans le [menu droit d'une révision](https://support.catenda.com/fr/articles/8302244-menu-droit-d-une-revision-informations-de-revision) et cela peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hhtwytcy/01-intro.png)
 

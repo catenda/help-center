@@ -74,11 +74,11 @@ La configuration systématique des listes de sujets, l'étiquetage complet et l'
 
 ## 4. **Lectures complémentaires :**
 
-- [Page des paramètres de la liste de sujets](https://support.catenda.com/fr/articles/4670277-topic-board-settings-page)
-- [Plugin Catenda Archicad](https://support.catenda.com/fr/articles/5519276-catenda-archicad-plugin)
-- [Plugin Catenda Revit](https://support.catenda.com/fr/articles/4670334-catenda-revit-plugin)
-- [Plugin Catenda Navisworks](https://support.catenda.com/fr/articles/5085987-catenda-navisworks-plugin)
-- [Étape 5 - Sujets](https://support.catenda.com/fr/articles/10576182-step-5-topics)
+- [Page des paramètres de la liste de sujets](https://support.catenda.com/fr/articles/4670277-page-des-parametres-du-tableau-de-bord-des-sujets)
+- [Plugin Catenda Archicad](https://support.catenda.com/fr/articles/5519276-plugin-catenda-archicad)
+- [Plugin Catenda Revit](https://support.catenda.com/fr/articles/4670334-extension-catenda-revit)
+- [Plugin Catenda Navisworks](https://support.catenda.com/fr/articles/5085987-plugin-catenda-navisworks)
+- [Étape 5 - Sujets](https://support.catenda.com/fr/articles/10576182-etape-5-sujets)
 
 ## 5. Invite
 

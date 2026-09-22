@@ -1,14 +1,14 @@
 # Sakshode - Emnet for en sak
 
-Velg en sak fra en [saksliste](https://support.catenda.com/nb/articles/4670271-issues-page#h_6a5895256b) for å åpne sakssiden for saken. Dette er hvordan [saksbanneret](https://support.catenda.com/nb/articles/7986346-topic-banner-navigating-topics) på sakssiden kan se ut:
+Velg en sak fra en [saksliste](https://support.catenda.com/nb/articles/4670271-sakside#h_6a5895256b) for å åpne sakssiden for saken. Dette er hvordan [saksbanneret](https://support.catenda.com/nb/articles/7986346-sakbanner-navigering-av-saker) på sakssiden kan se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aczt44d1/01-intro.png)
 
-[Saksoverskriften](https://support.catenda.com/nb/articles/8400566-topic-header-the-subject-of-a-topic) finnes under banneret og blir diskutert i denne artikkelen:
+[Saksoverskriften](https://support.catenda.com/nb/articles/8400566-sakshode-emnet-for-en-sak) finnes under banneret og blir diskutert i denne artikkelen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aczt44d1/02-intro.png)
 
-Under saksoverskriften finnes [saksteksten](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic) med beskrivelse og kommentarer. Til høyre for saksteksten og overskriften finnes [høyre informasjonspanel](https://support.catenda.com/nb/articles/8053299-issue-right-panel). Klikk på informasjonsikonet i saksbanneret for å utvide høyre informasjonspanel.
+Under saksoverskriften finnes [saksteksten](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak) med beskrivelse og kommentarer. Til høyre for saksteksten og overskriften finnes [høyre informasjonspanel](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak). Klikk på informasjonsikonet i saksbanneret for å utvide høyre informasjonspanel.
 
 ## 1. **Tittel**
 
@@ -16,13 +16,13 @@ Under saksoverskriften finnes [saksteksten](https://support.catenda.com/nb/artic
 
 ## 2. **Status og type**
 
-Avhengig av innstillinger som er angitt av brukere med full tilgang til saklisten, kan [statuser og typer](https://support.catenda.com/nb/articles/4670277-issue-board-settings#h_cd4f7bfc44) konfigureres på ulike måter i [innstillingene for saklisten](https://support.catenda.com/nb/articles/4670277-issue-board-settings). Topstatussen eller typen vil alltid være standard og kan endres før innsending av saken. Rekkefølgen på statusene og typene i rullegardinlisten kan også angis av konfigureren.
+Avhengig av innstillinger som er angitt av brukere med full tilgang til saklisten, kan [statuser og typer](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste#h_cd4f7bfc44) konfigureres på ulike måter i [innstillingene for saklisten](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste). Topstatussen eller typen vil alltid være standard og kan endres før innsending av saken. Rekkefølgen på statusene og typene i rullegardinlisten kan også angis av konfigureren.
 
 ### 2.1 **Status**
 
-Her kan du velge gjeldende [status](https://support.catenda.com/nb/articles/4670277-issue-board-settings#status) for saken.
+Her kan du velge gjeldende [status](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste#status) for saken.
 
-Standardstatusene du kan velge mellom er: Aktiv _(Åpen)_ Pågår _(Åpen)_ Løst _(Åpen)_ Godkjent _(Lukket)_ Avslått _(Lukket)_ Du kan redigere disse eller opprette dine egne [statuser](https://support.catenda.com/nb/articles/4670277-issue-board-settings#status).
+Standardstatusene du kan velge mellom er: Aktiv _(Åpen)_ Pågår _(Åpen)_ Løst _(Åpen)_ Godkjent _(Lukket)_ Avslått _(Lukket)_ Du kan redigere disse eller opprette dine egne [statuser](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste#status).
 
 **Når bør hver status brukes?** Typisk mottar nye saker som opprettes statusen åpen. Eventuelt kan en kandidatstatus velges hvis saken som sendes inn faller utenfor den typiske åpen- og lukket-flyten. Et eksempel på dette kan være:
 
@@ -34,7 +34,7 @@ Så når saken har blitt håndtert av den tilordnede brukeren, vil personen som 
 
 ### 2.2 **Type**
 
-Her velger du [type](https://support.catenda.com/nb/articles/4670277-issue-board-settings#types) sak du oppretter. Standardtypene du kan velge mellom er Feil, Advarsel, Info og Ukjent. Du kan også [opprette dine egne typer](https://support.catenda.com/nb/articles/4670277-issue-board-settings#types).
+Her velger du [type](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste#types) sak du oppretter. Standardtypene du kan velge mellom er Feil, Advarsel, Info og Ukjent. Du kan også [opprette dine egne typer](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste#types).
 
 ## 3. **Ansvar**
 
@@ -44,15 +44,15 @@ I feltene Tildelt til og Etterspurt av kan et medlem eller et team velges som an
 
 Det er ofte bedre å tildele en sak til et individuelt medlem i stedet for et team, da medlemmet vil føle seg personlig ansvarlig for oppfølging av saken og kan holdes ansvarlig. Når et team tildeles, vil ingen av teammedlemmene føle seg personlig ansvarlig.
 
-Imidlertid er det ofte mer enn ett medlem som er del av denne samtalen. I denne situasjonen er det bedre å [nevne medlemmene individuelt](https://support.catenda.com/nb/articles/8430847-post-formatting-toolbox#h_2481ad1c8c) med @medlem eller [nevne et team](https://support.catenda.com/nb/articles/8430847-post-formatting-toolbox#h_2481ad1c8c) med @team i enten en kommentar eller beskrivelsen av saken. På denne måten kan riktig person angis som ansvarlig og de andre berørte partene kan varsles ordentlig.
+Imidlertid er det ofte mer enn ett medlem som er del av denne samtalen. I denne situasjonen er det bedre å [nevne medlemmene individuelt](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) med @medlem eller [nevne et team](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) med @team i enten en kommentar eller beskrivelsen av saken. På denne måten kan riktig person angis som ansvarlig og de andre berørte partene kan varsles ordentlig.
 
 Medlemmet som er tilordnet, trenger ikke nødvendigvis å være personen som er ansvarlig for å utføre oppgaver som diskuteres i saken, men bør være den som skal følge opp saken slik at diskusjonen resulterer i en konklusjon.
 
-Når et medlem tildeles, vises saken på [medlemssiden](https://support.catenda.com/nb/articles/8228836-member-page) for medlemmet.
+Når et medlem tildeles, vises saken på [medlemssiden](https://support.catenda.com/nb/articles/8228836-medlemsside) for medlemmet.
 
-**Klargjøring av aktuelt team med medlem@team** Medlemmer er ofte del av ulike team avhengig av de ulike rollene de har i prosjektet. Ved å klargjøre hvilket team som den tilordnede personen er del av at denne saken gjelder, kan saken filtreres bedre i saklisten. Å klargjøre teamet kan både hjelpe medlemmer som er tilordnet mange saker til å skille saker mellom deres ulike roller, samt at det vil hjelpe andre med å finne saker som gjelder dette teamet. Når et medlem@team tildeles, vises saken på [teamsiden](https://support.catenda.com/nb/articles/7891755-team-page) for teamet. Ingen varsling genereres for teammedlemmer når det aktuelle teamet klargjøres.
+**Klargjøring av aktuelt team med medlem@team** Medlemmer er ofte del av ulike team avhengig av de ulike rollene de har i prosjektet. Ved å klargjøre hvilket team som den tilordnede personen er del av at denne saken gjelder, kan saken filtreres bedre i saklisten. Å klargjøre teamet kan både hjelpe medlemmer som er tilordnet mange saker til å skille saker mellom deres ulike roller, samt at det vil hjelpe andre med å finne saker som gjelder dette teamet. Når et medlem@team tildeles, vises saken på [teamsiden](https://support.catenda.com/nb/articles/7891755-teamside) for teamet. Ingen varsling genereres for teammedlemmer når det aktuelle teamet klargjøres.
 
-**Varsling generert** Individuelt tildelte ansvarlige får en varsling om at de er tildelt en sak. I tillegg angis de automatisk som [følger](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) av saken og får dermed varslinger om fremtidige endringer i saken. En ulempe ved å tildele et medlem i stedet for et team er at bare medlemmet får varslinger om saken. Dette kan løses ved å [nevne](https://support.catenda.com/nb/articles/8430847-formatting-of-posts#h_2481ad1c8c) andre medlemmer i beskrivelsen eller kommentaren slik at de automatisk [følger](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken og som følge av det får varslinger om fremtidige endringer i saken.
+**Varsling generert** Individuelt tildelte ansvarlige får en varsling om at de er tildelt en sak. I tillegg angis de automatisk som [følger](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) av saken og får dermed varslinger om fremtidige endringer i saken. En ulempe ved å tildele et medlem i stedet for et team er at bare medlemmet får varslinger om saken. Dette kan løses ved å [nevne](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg#h_2481ad1c8c) andre medlemmer i beskrivelsen eller kommentaren slik at de automatisk [følger](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) saken og som følge av det får varslinger om fremtidige endringer i saken.
 
 ### 3.2 **Tildelt til team**
 
@@ -72,7 +72,7 @@ Hvis ingen medlem eller team er ansvarlig for å følge opp saken, kan feltet Ti
 
 ### 3.4 **Etterspurt av**
 
-Her angir du normalt deg selv som etterspørrer, men du kan velge ethvert medlem her. Du ville angitt noen andre her hvis du opprettet saken for noen andre. Etterspørreren vil automatisk [følge](https://support.catenda.com/nb/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) saken og få dermed varslinger om fremtidige endringer i saken.
+Her angir du normalt deg selv som etterspørrer, men du kan velge ethvert medlem her. Du ville angitt noen andre her hvis du opprettet saken for noen andre. Etterspørreren vil automatisk [følge](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_a97f3b264e) saken og få dermed varslinger om fremtidige endringer i saken.
 
 ### 3.5 **Etterspurt av tomt**
 
@@ -84,14 +84,14 @@ Hvis ingen medlem eller team etterspør saken, kan feltet Etterspurt av stå tom
 
 ### 4.1 **Plassering**
 
-- [Legg til markør](https://support.catenda.com/nb/articles/4854523-2d-location-of-issues#h_684f963ce8) - Åpner 3D-panelet og standardetasjen til 2D-visningen. Her kan du plassere markøren din på etasjen der du ønsker å ha den.
-- [Vis markør i 2D](https://support.catenda.com/nb/articles/4854523-2d-location-of-issues#h_df2cfc4b35) - Åpner 3D-panelet og laster inn 2D-viserkonfigurasjonen som ble konfigurert ved opprettelsen av markøren. Dette betyr at de riktige 2D-visningene lastes inn og riktig etasje velges.
-- [Velg ny plassering](https://support.catenda.com/nb/articles/4854523-2d-location-of-issues#h_684f963ce8)
-- [Slett markør](https://support.catenda.com/nb/articles/4854523-2d-location-of-issues)
+- [Legg til markør](https://support.catenda.com/nb/articles/4854523-2d-plassering-av-saker#h_684f963ce8) - Åpner 3D-panelet og standardetasjen til 2D-visningen. Her kan du plassere markøren din på etasjen der du ønsker å ha den.
+- [Vis markør i 2D](https://support.catenda.com/nb/articles/4854523-2d-plassering-av-saker#h_df2cfc4b35) - Åpner 3D-panelet og laster inn 2D-viserkonfigurasjonen som ble konfigurert ved opprettelsen av markøren. Dette betyr at de riktige 2D-visningene lastes inn og riktig etasje velges.
+- [Velg ny plassering](https://support.catenda.com/nb/articles/4854523-2d-plassering-av-saker#h_684f963ce8)
+- [Slett markør](https://support.catenda.com/nb/articles/4854523-2d-plassering-av-saker)
 
 ### 4.2 **Frist og milepæl**
 
-Frister og milepæler kan hjelpe deg med å spore fremgang på [statistikksiden](https://support.catenda.com/nb/articles/7575491-statistics-page).
+Frister og milepæler kan hjelpe deg med å spore fremgang på [statistikksiden](https://support.catenda.com/nb/articles/7575491-statistikkside).
 
 **Ikonfarge** Ikoner for frister og milepæler kan ha ulike farger avhengig av tid.
 
@@ -125,17 +125,17 @@ Når en sak er lukket, er ikonet for en frist eller milepæl svak grå.
 
 **Frist** Hvis du har en ide om når innholdet i saken forfaller, angir du en frist eller lar den stå tomt. Det er ofte bra å angi en frist selv om det ikke er klart nøyaktig når innholdet i saken forfaller. Fristen kan alltid endres senere. Ved å få i vanen med å angi frister kan planleggingen informeres. Jo mer tidsrammer som spekuleres, jo mer kan prosjektmedlemmer forutse.
 
-**Milepæl** Fest saken til en [milepæl](https://support.catenda.com/nb/articles/4670266-milestones-page) eller la den stå tom. En milepæl i sakerområdet er ofte en prosjektfase eller datoen for en planlagt hendelse innen hvilken saker må leveres.
+**Milepæl** Fest saken til en [milepæl](https://support.catenda.com/nb/articles/4670266-milepaelside) eller la den stå tom. En milepæl i sakerområdet er ofte en prosjektfase eller datoen for en planlagt hendelse innen hvilken saker må leveres.
 
 ## 5. **Merkelapper**
 
-Legg til en eksisterende [merkelapp](https://support.catenda.com/nb/articles/4670265-labels-page) eller skriv inn en ny for å opprette den.
+Legg til en eksisterende [merkelapp](https://support.catenda.com/nb/articles/4670265-merkelappersiden) eller skriv inn en ny for å opprette den.
 
 > **Merk:** Hvis noen fjerner en merkelapp mens du arbeider med saken din, vil du se den gjennomstreket for å indikere at denne merkelappen har blitt fjernet.
 
 ## 6. **Egendefinerte felt**
 
-[Legg til dine egne](https://support.catenda.com/nb/articles/6563368-how-to-use-custom-fields-at-my-issues) [felt](https://support.catenda.com/nb/articles/6550459-custom-fields-setup) i hodene på saker i en saksliste. Disse feltene kan angis som obligatoriske. Egendefinerte felt kan være av type:
+[Legg til dine egne](https://support.catenda.com/nb/articles/6563368-egendefinerte-felt-i-et-saksboard) [felt](https://support.catenda.com/nb/articles/6550459-siden-for-egendefinerte-felt) i hodene på saker i en saksliste. Disse feltene kan angis som obligatoriske. Egendefinerte felt kan være av type:
 
 - Tekst
 - Heltall

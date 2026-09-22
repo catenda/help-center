@@ -24,7 +24,7 @@ Click [here](https://support.catenda.com/en/articles/4670260-account-buttons) to
 
 ## 2. **Topics**
 
-In the [topics section](https://support.catenda.com/en/articles/4670271-issues-page) you will be able to see an overview of [all the topics](https://support.catenda.com/en/articles/4670271-issues-page#h_9bd3bd842b) in a the project. This is what the topics menu can look like:
+In the [topics section](https://support.catenda.com/en/articles/4670271-topics-page) you will be able to see an overview of [all the topics](https://support.catenda.com/en/articles/4670271-topics-page#h_9bd3bd842b) in a the project. This is what the topics menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/03-topics.png)
 
@@ -40,7 +40,7 @@ Here the total amount of open topics that members have access to can be seen.
 
 ### 2.2 **Topics assigned to me**
 
-The amount of topics that have been [assigned to a member](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board#h_12a5c945fd) in topic boards they have access to are displayed.
+The amount of topics that have been [assigned to a member](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page#h_12a5c945fd) in topic boards they have access to are displayed.
 
 ### 2.3 **Topic board graph**
 
@@ -54,7 +54,7 @@ For each topic board a circular graph much like the one on the milestone page is
 
 ### 2.4 **Recently updated topics**
 
-Click on recently updated topics to open the [all topics topic board](https://support.catenda.com/en/articles/4670271-issues-page#h_9bd3bd842b) sorted by the updated column.
+Click on recently updated topics to open the [all topics topic board](https://support.catenda.com/en/articles/4670271-topics-page#h_9bd3bd842b) sorted by the updated column.
 
 ### 2.5 **All topic boards**
 
@@ -74,7 +74,7 @@ Click on the topic number to copy the URL of this topic.
 
 ## 3. **My bookmarks**
 
-Here all starred [bookmarks](https://support.catenda.com/en/articles/4670281-bookmarks) are displayed with their screenshot and title.
+Here all starred [bookmarks](https://support.catenda.com/en/articles/4670281-bookmarks-page) are displayed with their screenshot and title.
 
 This is what the bookmarks menu can look like:
 
@@ -98,7 +98,7 @@ If there are no models in the project yet, a green plus button can be displayed 
 
 Click on the plus buton to create a new model. _Access required:_ Access to creating models on the project settings page.
 
-Click the name of a model to go to the [model content page](https://support.catenda.com/en/articles/4670270-model-overview-page) of that model. The 2D/3D buttons will let you load the model in the viewer.
+Click the name of a model to go to the [model content page](https://support.catenda.com/en/articles/4670270-model-contents-page) of that model. The 2D/3D buttons will let you load the model in the viewer.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/10-models.png)
 
@@ -124,19 +124,19 @@ The approvals menu is not visible for projects where shared revisions were enabl
 
 ### 6.1 **Approvals - Legacy**
 
-In projects wehre the legacy validation workflow is enabled approvals appear on the dashbord. Clicking on approvals will take you to the [approvals](https://support.catenda.com/en/articles/5784717-document-approval) page.
+In projects wehre the legacy validation workflow is enabled approvals appear on the dashbord. Clicking on approvals will take you to the [approvals](https://support.catenda.com/en/articles/5784717-document-approval-legacy) page.
 
 This is what the approvals menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6q02h51x/13-approvals-legacy.png)
 
-**Open approvals** See all open [approvals](https://support.catenda.com/en/articles/5784717-document-approval)
+**Open approvals** See all open [approvals](https://support.catenda.com/en/articles/5784717-document-approval-legacy)
 
-**Created by me** See all open [approvals](https://support.catenda.com/en/articles/5784717-document-approval) you have created
+**Created by me** See all open [approvals](https://support.catenda.com/en/articles/5784717-document-approval-legacy) you have created
 
-**I am reviewer** See all open [approvals](https://support.catenda.com/en/articles/8349340-approvals-page) where you are been set as reviewer.
+**I am reviewer** See all open [approvals](https://support.catenda.com/en/articles/8349340-approvals-page-legacy) where you are been set as reviewer.
 
-**Approval request cards** See the 5 latest open [approvals](https://support.catenda.com/en/articles/5784717-document-approval) in the project. Click on an [approval](https://support.catenda.com/en/articles/5784717-document-approval) to view its contents.
+**Approval request cards** See the 5 latest open [approvals](https://support.catenda.com/en/articles/5784717-document-approval-legacy) in the project. Click on an [approval](https://support.catenda.com/en/articles/5784717-document-approval-legacy) to view its contents.
 
 ## 7. **Collections**
 

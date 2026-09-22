@@ -74,13 +74,13 @@ Le groupement des interférences permet la création par lots de sujets, le filt
 
 ## 5. **Sources**
 
-- [Gestion de la coordination des interférences à l'échelle](https://support.catenda.com/fr/articles/13845605-managing-clash-coordination-at-scale)
-- [Plugin Catenda Navisworks](https://support.catenda.com/fr/articles/5085987-catenda-navisworks-plugin)
+- [Gestion de la coordination des interférences à l'échelle](https://support.catenda.com/fr/articles/13845605-gestion-de-la-coordination-des-clashs-a-grande-echelle)
+- [Plugin Catenda Navisworks](https://support.catenda.com/fr/articles/5085987-plugin-catenda-navisworks)
 
 ## 6. **Lectures complémentaires**
 
-- [Gestion de la coordination des interférences à l'échelle](https://support.catenda.com/fr/articles/13845605-managing-clash-coordination-at-scale)
-- [Plugin Catenda Navisworks](https://support.catenda.com/fr/articles/5085987-catenda-navisworks-plugin)
+- [Gestion de la coordination des interférences à l'échelle](https://support.catenda.com/fr/articles/13845605-gestion-de-la-coordination-des-clashs-a-grande-echelle)
+- [Plugin Catenda Navisworks](https://support.catenda.com/fr/articles/5085987-plugin-catenda-navisworks)
 
 ## 7. Invite
 

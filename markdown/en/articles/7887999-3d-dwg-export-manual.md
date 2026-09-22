@@ -48,7 +48,7 @@ At the moment there is no official way to export to IFC from Navisworks. It is p
     1. Objects - All
     1. View - Include all
 
-> **Note:** Ifc 4x1 is with drawn by BuildingSMART and therefore also not supported by Catenda Hub. See [here](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support) what file types are supported in Catenda Hub
+> **Note:** Ifc 4x1 is with drawn by BuildingSMART and therefore also not supported by Catenda Hub. See [here](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub) what file types are supported in Catenda Hub
 
 6\. Resource and Assignment
 

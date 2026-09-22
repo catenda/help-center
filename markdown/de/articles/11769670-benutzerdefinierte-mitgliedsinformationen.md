@@ -2,7 +2,7 @@
 
 ## 1. **Speichern weiterer Mitgliedsdaten**
 
-Wenn Sie mehr Mitgliedsdaten speichern möchten, als auf der Seite "Mitglieder" verfügbar sind, wird empfohlen, ein Themen-Board mit [benutzerdefinierten Feldern](https://support.catenda.com/de/articles/8445588-custom-field-page) für die verschiedenen Spalten zu erstellen und dann ein Thema pro Benutzer zu erstellen. So kann ein solches Themen-Board aussehen:
+Wenn Sie mehr Mitgliedsdaten speichern möchten, als auf der Seite "Mitglieder" verfügbar sind, wird empfohlen, ein Themen-Board mit [benutzerdefinierten Feldern](https://support.catenda.com/de/articles/8445588-seite-mit-benutzerdefinierten-feldvorgaben) für die verschiedenen Spalten zu erstellen und dann ein Thema pro Benutzer zu erstellen. So kann ein solches Themen-Board aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s4p1rv5j/01-saving-more-member-data.png)
 
@@ -14,7 +14,7 @@ Die einzige Möglichkeit, Mitgliedsdaten derzeit zu exportieren, besteht darin, 
 
 ### 2.1 **Alle E-Mails der Mitglieder abrufen**
 
-Es gibt einen einfachen Trick, mit dem Sie alle E-Mail-Adressen von Benutzern einfach kopieren können. Gehen Sie dazu folgendermaßen vor: 1\. Klicken Sie auf die Schaltfläche [Sharelink](https://support.catenda.com/de/articles/4728886-sharelink-notify-people-about-catenda-hub-content) oben rechts neben Ihrem Profilbild. 2\. Klicken Sie in das Feld "Empfänger" und wählen Sie "Alle Benutzer" (oder einen beliebigen Benutzer oder ein Team, dessen Benutzer-E-Mails Sie kopieren möchten)
+Es gibt einen einfachen Trick, mit dem Sie alle E-Mail-Adressen von Benutzern einfach kopieren können. Gehen Sie dazu folgendermaßen vor: 1\. Klicken Sie auf die Schaltfläche [Sharelink](https://support.catenda.com/de/articles/4728886-sharelink-benutzer-uber-catenda-hub-inhalte-benachrichtigen) oben rechts neben Ihrem Profilbild. 2\. Klicken Sie in das Feld "Empfänger" und wählen Sie "Alle Benutzer" (oder einen beliebigen Benutzer oder ein Team, dessen Benutzer-E-Mails Sie kopieren möchten)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s4p1rv5j/02-get-all-members-emails.png)
 

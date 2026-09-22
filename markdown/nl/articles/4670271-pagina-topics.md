@@ -18,7 +18,7 @@ Als er meer dan één Topic board in het project is, ziet u de optie Alle Topic 
 
 ## 2. **Nieuwe item acties**
 
-De nieuwe item acties zijn te vinden in het hamburgermenu naast de plusknop rechtsboven op de pagina. Zie [hier](https://support.catenda.com/nl/articles/4670284-actions-in-a-topic-board) voor wat de verschillende acties doen.
+De nieuwe item acties zijn te vinden in het hamburgermenu naast de plusknop rechtsboven op de pagina. Zie [hier](https://support.catenda.com/nl/articles/4670284-tabel-acties-onderwerpen) voor wat de verschillende acties doen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/03-new-item-actions.png)
 
@@ -28,7 +28,7 @@ Als er niet gekoppelde statussen/typen in een Topic board zijn, ziet u een oranj
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/04-unlinked-fields.png)
 
-Als u op de link klikt, gaat u naar het gebied [Niet gekoppelde velden](https://support.catenda.com/nl/articles/4670277-topic-board-settings#h_3bd7e3e759) van de [Topic board instellingen](https://support.catenda.com/nl/articles/4670277-topic-board-settings) waar u alle velden van één soort in één keer kunt koppelen aan een bestaande waarde.
+Als u op de link klikt, gaat u naar het gebied [Niet gekoppelde velden](https://support.catenda.com/nl/articles/4670277-pagina-instellingen-topic-board#h_3bd7e3e759) van de [Topic board instellingen](https://support.catenda.com/nl/articles/4670277-pagina-instellingen-topic-board) waar u alle velden van één soort in één keer kunt koppelen aan een bestaande waarde.
 
 ## 4. **Zoeken, filteren en rechtermenu**
 
@@ -40,7 +40,7 @@ Een status kan open, gesloten of kandidaat zijn, hoewel ze anders kunnen heten. 
 
 ### 4.1 **Zoeken**
 
-Als alle open, gesloten of kandidaat-statussen worden weergegeven, worden ze gecombineerd in één filtervak. Klik op de vervolgkeuzelijst naast het gecombineerde filtervak om te zien welke statussen worden gecombineerd. Druk op de x aan de rechterkant om alle filters te verwijderen. Klik [hier](https://support.catenda.com/nl/articles/8370693-filtering-in-an-issue-board) voor meer informatie over het zoeken naar Topics.
+Als alle open, gesloten of kandidaat-statussen worden weergegeven, worden ze gecombineerd in één filtervak. Klik op de vervolgkeuzelijst naast het gecombineerde filtervak om te zien welke statussen worden gecombineerd. Druk op de x aan de rechterkant om alle filters te verwijderen. Klik [hier](https://support.catenda.com/nl/articles/8370693-filteren-op-de-onderwerppagina) voor meer informatie over het zoeken naar Topics.
 
 ### 4.2 **Filtermenu**
 
@@ -48,11 +48,11 @@ Als u op de Topic filterknop links van de zoek- of filterbalk in een Topic board
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/06-filter-menu.png)
 
-Een filtermenu wordt geopend aan de linkerkant. Hier kunt u opgeven welke filters u wilt gebruiken om uw zoekopdracht in te perken. Klik [hier](https://support.catenda.com/nl/articles/8370693-filtering-in-an-issue-board) voor meer informatie over het filteren van Topics.
+Een filtermenu wordt geopend aan de linkerkant. Hier kunt u opgeven welke filters u wilt gebruiken om uw zoekopdracht in te perken. Klik [hier](https://support.catenda.com/nl/articles/8370693-filteren-op-de-onderwerppagina) voor meer informatie over het filteren van Topics.
 
 ### 4.3 **Rechtermenu**
 
-In het [Topic board rechtermenu](https://support.catenda.com/nl/articles/6941224-right-panel-in-an-issue-board) kunt u informatie over de geselecteerde Topics zien en meerdere Topics tegelijk bewerken.
+In het [Topic board rechtermenu](https://support.catenda.com/nl/articles/6941224-rechtermenu-in-een-topic-board) kunt u informatie over de geselecteerde Topics zien en meerdere Topics tegelijk bewerken.
 
 ## 5. **Onderwerpenboard**
 
@@ -64,7 +64,7 @@ Na het selecteren van een Topic verschijnen de geselecteerde item acties boven a
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/07-selected-item-actions.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/4670284-actions-in-a-topic-board) om te zien hoe elke actie kan worden gebruikt:
+Klik [hier](https://support.catenda.com/nl/articles/4670284-tabel-acties-onderwerpen) om te zien hoe elke actie kan worden gebruikt:
 
 ### 5.2 **Kolommen**
 
@@ -88,7 +88,7 @@ Sommige kolommen in de Topics-tabel zijn standaard ingeschakeld, terwijl anderen
 - Aantal documenten
 - Aangepaste velden - Standaard
 
-Klik [hier](https://support.catenda.com/nl/articles/6941099-columns-on-the-topics-page) voor meer informatie over welke kolommen beschikbaar zijn op de Topics-pagina.
+Klik [hier](https://support.catenda.com/nl/articles/6941099-tabelweergave-in-een-topic-board) voor meer informatie over welke kolommen beschikbaar zijn op de Topics-pagina.
 
 ### 5.3 **Lijstweergave - Standaard**
 
@@ -100,7 +100,7 @@ Dit is hoe een Topic board eruit ziet in de lijstweergave.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/09-list-view-default.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/6941232-list-view-in-an-issue-board) voor meer informatie over de lijstweergave in een Topic board. Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) voor algemene informatie over lijsten op Catenda.
+Klik [hier](https://support.catenda.com/nl/articles/6941232-lijstweergave-in-een-topic-board) voor meer informatie over de lijstweergave in een Topic board. Klik [hier](https://support.catenda.com/nl/articles/11748020-tabellen-op-catenda) voor algemene informatie over lijsten op Catenda.
 
 ### 5.4 **Tabelweergave**
 
@@ -112,7 +112,7 @@ Dit is hoe een Topic board eruit ziet in de tabelweergave.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/11-table-view.png)
 
-Hier kunt u veel Topics tegelijk zien. Door op informatie in het Topic venster te klikken, gaat u naar een subpagina met volledige informatie. Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) voor algemene informatie over tabellen op Catenda.
+Hier kunt u veel Topics tegelijk zien. Door op informatie in het Topic venster te klikken, gaat u naar een subpagina met volledige informatie. Klik [hier](https://support.catenda.com/nl/articles/11748020-tabellen-op-catenda) voor algemene informatie over tabellen op Catenda.
 
 ## 6. **Subpagina's**
 
@@ -120,16 +120,16 @@ De subpagina's naar de Topics-pagina vindt u in het linkermenu van navigatie.
 
 ### 6.1 **Boards**
 
-[Boards](https://support.catenda.com/nl/articles/9413644-boards-page) - Een overzicht van alle Topic boards
+[Boards](https://support.catenda.com/nl/articles/9413644-bordenpagina) - Een overzicht van alle Topic boards
 
 ### 6.2 **Mijlpalen**
 
-[Mijlpalen](https://support.catenda.com/nl/articles/4670266-creating-a-new-milestone) - Belangrijke datums in het project
+[Mijlpalen](https://support.catenda.com/nl/articles/4670266-pagina-milestones) - Belangrijke datums in het project
 
 ### 6.3 **Statistieken**
 
-[Statistieken](https://support.catenda.com/nl/articles/7575491-statistics-page) - Zie de statistieken van het huidige Topic board
+[Statistieken](https://support.catenda.com/nl/articles/7575491-statistiekenpagina) - Zie de statistieken van het huidige Topic board
 
 ### 6.4 **Instellingen**
 
-Klikken op de [instellingenpagina](https://support.catenda.com/nl/articles/4670277-issue-board-settings) opent de instellingenpagina voor het huidige Topic board. _Vereiste toegang:_ Volledige toegang tot het Topic board
+Klikken op de [instellingenpagina](https://support.catenda.com/nl/articles/4670277-pagina-instellingen-topic-board) opent de instellingenpagina voor het huidige Topic board. _Vereiste toegang:_ Volledige toegang tot het Topic board

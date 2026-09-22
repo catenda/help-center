@@ -4,4 +4,4 @@ Cette nouvelle fonctionnalité vous permet d'avoir un aperçu général des droi
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/j53tjkt5/01-intro.gif)
 
-_En savoir plus sur l'aperçu des accès aux documents [ici](https://intercom.help/bimsync-arena/fr/articles/6660820-document-access-overview) !_
+_En savoir plus sur l'aperçu des accès aux documents [ici](https://intercom.help/bimsync-arena/fr/articles/6660820-page-d-apercu-des-acces-aux-documents) !_

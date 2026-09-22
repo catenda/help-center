@@ -1,6 +1,6 @@
 # Zip-Datei / Dateistruktur hochladen
 
-Im Gegensatz zum Hochladen einer regulären Zip-Datei entpackt die Funktion "Zip hochladen" eine Zip-Datei. Auf diese Weise können Sie eine Dateistruktur in die [Seite "Dokumente"](https://support.catenda.com/de/articles/8204673-documents-page#h_28610e1d21) importieren, ohne Ordner manuell erstellen zu müssen.
+Im Gegensatz zum Hochladen einer regulären Zip-Datei entpackt die Funktion "Zip hochladen" eine Zip-Datei. Auf diese Weise können Sie eine Dateistruktur in die [Seite "Dokumente"](https://support.catenda.com/de/articles/8204673-dokumentenseite#h_28610e1d21) importieren, ohne Ordner manuell erstellen zu müssen.
 
 Die Funktion "Zip hochladen" finden Sie im Aktionsmenü rechts neben der grünen Schaltfläche + oben rechts auf der Seite "Dokumente".
 

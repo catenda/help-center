@@ -2,7 +2,7 @@
 
 > Télécharger et télécharger, afficher et communiquer sur les Documents du projet
 
-> **Conseil :** Trouvez [l'étape 2](https://support.catenda.com/fr/articles/10576075-step-2-interface) dans [Démarrage](https://support.catenda.com/fr/collections/2657208-getting-started) sur le centre d'aide ou dans le menu d'aide.
+> **Conseil :** Trouvez [l'étape 2](https://support.catenda.com/fr/articles/10576075-etape-2-interface) dans [Démarrage](https://support.catenda.com/fr/collections/2657208-pour-commencer) sur le centre d'aide ou dans le menu d'aide.
 
 ## 1. **Téléchargement**
 
@@ -38,6 +38,6 @@ Utilisez les outils d'annotation pour identifier les zones avec lesquelles vous 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/mdxrvj2r/06-markups.png)
 
-_Lecture complémentaire :_ [Téléchargement](https://support.catenda.com/fr/articles/4670278-uploading-a-document), [Filtrage des Documents](https://support.catenda.com/fr/articles/4670283-filtering-on-the-documents-page), [Actions de Document](https://support.catenda.com/fr/articles/4670288-actions-in-the-document-structure), [Affichage](https://support.catenda.com/fr/articles/4670320-previewing-file-types-on-catenda-hub), [Annotations](https://support.catenda.com/fr/articles/10210710-keep-track-of-annotations-with-markups)
+_Lecture complémentaire :_ [Téléchargement](https://support.catenda.com/fr/articles/4670278-telecharger-un-document), [Filtrage des Documents](https://support.catenda.com/fr/articles/4670283-filtrage-sur-la-page-des-documents), [Actions de Document](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents), [Affichage](https://support.catenda.com/fr/articles/4670320-apercu-des-types-de-fichiers-sur-catenda-hub), [Annotations](https://support.catenda.com/fr/articles/10210710-suivre-les-annotations-avec-les-markups)
 
-> **Remarque :** Trouvez [l'étape 4](https://support.catenda.com/fr/articles/10576177-step-4-models) dans [Démarrage](https://support.catenda.com/fr/collections/2657208-getting-started) sur le centre d'aide ou dans le menu d'aide.
+> **Remarque :** Trouvez [l'étape 4](https://support.catenda.com/fr/articles/10576177-etape-4-modeles) dans [Démarrage](https://support.catenda.com/fr/collections/2657208-pour-commencer) sur le centre d'aide ou dans le menu d'aide.

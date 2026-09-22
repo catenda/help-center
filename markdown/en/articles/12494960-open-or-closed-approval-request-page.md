@@ -40,7 +40,7 @@ The workflow that is selected during the creation of this approval _Access requi
 
 ### 2.3 **Description**
 
-The description of the approval. The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts). _Access required:_ The person who created the approval request, or a project administrator.
+The description of the approval. The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox). _Access required:_ The person who created the approval request, or a project administrator.
 
 ## 3. **Step ribbon**
 

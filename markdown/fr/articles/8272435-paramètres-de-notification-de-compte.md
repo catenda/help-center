@@ -24,7 +24,7 @@ Cliquez à nouveau sur le commutateur pour réactiver les notifications.
 
 ## 2. **Cases à cocher de notification**
 
-Pour chaque méthode de notification, vous pouvez choisir les types de notifications que vous souhaitez recevoir pour cette méthode. Cliquez [ici](https://support.catenda.com/fr/articles/8304417-untitled-article) pour voir quand chaque type de notification est envoyé.
+Pour chaque méthode de notification, vous pouvez choisir les types de notifications que vous souhaitez recevoir pour cette méthode. Cliquez [ici](https://support.catenda.com/fr/articles/8304417-filtrage-sur-la-page-des-notifications) pour voir quand chaque type de notification est envoyé.
 
 ## 3. **Notifications dans le navigateur**
 
@@ -64,4 +64,4 @@ Copiez l'URL dans **"URL webhook"** ci-dessus. Assurez-vous que les notification
 
 ## 7. **Notifications par projet**
 
-Si vous avez défini des notifications spécifiques au projet, vous pourrez les voir dans le menu de navigation de gauche d'un projet. Vous pouvez cliquer sur le nom du projet pour accéder aux [paramètres de notification du projet](https://support.catenda.com/fr/articles/4670262-project-notification-settings) de ce projet. Ces paramètres vous seront spécifiques et ne sont pas des paramètres pour l'ensemble du projet.
+Si vous avez défini des notifications spécifiques au projet, vous pourrez les voir dans le menu de navigation de gauche d'un projet. Vous pouvez cliquer sur le nom du projet pour accéder aux [paramètres de notification du projet](https://support.catenda.com/fr/articles/4670262-parametres-de-notifications-specifiques-au-projet) de ce projet. Ces paramètres vous seront spécifiques et ne sont pas des paramètres pour l'ensemble du projet.

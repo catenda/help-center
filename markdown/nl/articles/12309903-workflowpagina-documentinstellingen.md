@@ -1,6 +1,6 @@
 # Workflowpagina - Documentinstellingen
 
-De workflowpagina is te vinden door op de knop Workflows configureren in het goedkeuringenmenu van de [pagina met documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings-page) in projecten waar de nieuwe validatiewerkflow is aangevraagd om in te schakelen en gedeelde statussen zijn ingeschakeld in het statusworkflowmenu van [documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings-page). De nieuwe validatiewerkflow is een functiie op aanvraag die kan worden aangevraagd om in te schakelen bij het starten van een nieuw project. Het is alleen mogelijk om een project op basis van een templateproject te maken wanneer de nieuwe validatiewerkflow niet is ingeschakeld in dat templateproject. Op de workflowpagina kunnen workflows voor verschillende goedkeuringsconfiguraties worden geconfigureerd. _Vereiste toegang:_ Beheerder
+De workflowpagina is te vinden door op de knop Workflows configureren in het goedkeuringenmenu van de [pagina met documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen) in projecten waar de nieuwe validatiewerkflow is aangevraagd om in te schakelen en gedeelde statussen zijn ingeschakeld in het statusworkflowmenu van [documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen). De nieuwe validatiewerkflow is een functiie op aanvraag die kan worden aangevraagd om in te schakelen bij het starten van een nieuw project. Het is alleen mogelijk om een project op basis van een templateproject te maken wanneer de nieuwe validatiewerkflow niet is ingeschakeld in dat templateproject. Op de workflowpagina kunnen workflows voor verschillende goedkeuringsconfiguraties worden geconfigureerd. _Vereiste toegang:_ Beheerder
 
 De workflowpagina kan er als volgt uitzien:
 
@@ -8,7 +8,7 @@ De workflowpagina kan er als volgt uitzien:
 
 De volgende onderwerpen worden in dit artikel beschreven:
 
-_[Nieuwe itemacties](https://support.catenda.com/nl/articles/8204673-documents-page#h_d0f4a44fb7) - [Zoeken of filteren](https://support.catenda.com/nl/articles/8204673-documents-page#h_bbf4dcad58) - [Rechtermenu](https://support.catenda.com/nl/articles/8204673-documents-page#h_fc89aaa1fe) - [Tabel](https://support.catenda.com/nl/articles/8204673-documents-page#h_54e8dfcac2) - [Subpagina's](https://support.catenda.com/nl/articles/8204673-documents-page#h_5751ccd2b7)_
+_[Nieuwe itemacties](https://support.catenda.com/nl/articles/8204673-documentenpagina#h_d0f4a44fb7) - [Zoeken of filteren](https://support.catenda.com/nl/articles/8204673-documentenpagina#h_bbf4dcad58) - [Rechtermenu](https://support.catenda.com/nl/articles/8204673-documentenpagina#h_fc89aaa1fe) - [Tabel](https://support.catenda.com/nl/articles/8204673-documentenpagina#h_54e8dfcac2) - [Subpagina's](https://support.catenda.com/nl/articles/8204673-documentenpagina#h_5751ccd2b7)_
 
 Hoewel de workflowpagina een subpagina van de goedkeuringenpagina is, wat duidelijk wordt uit het feit dat de goedkeuringenpagina is gemarkeerd en de broodkruimels bovenaan staan, is de pagina alleen toegankelijk via het goedkeuringenmenu in de documentinstellingen.
 
@@ -50,7 +50,7 @@ De workflowstabel kan er als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vnbxxjrb/04-workflows-table.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) voor meer informatie over het werken met tabellen in Catenda. Zodra een workflow is gemaakt, verschijnt deze als een rij in de workflowstabel.
+Klik [hier](https://support.catenda.com/nl/articles/11748020-tabellen-op-catenda) voor meer informatie over het werken met tabellen in Catenda. Zodra een workflow is gemaakt, verschijnt deze als een rij in de workflowstabel.
 
 ### 3.1 **Rijinhoud**
 

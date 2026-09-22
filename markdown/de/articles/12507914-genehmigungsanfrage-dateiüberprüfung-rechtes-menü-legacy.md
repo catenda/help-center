@@ -1,6 +1,6 @@
 # Genehmigungsanfrage-Dateiüberprüfung rechtes Menü - Legacy
 
-Wenn die [Dateiüberprüfung einer Genehmigungsanfrage](https://support.catenda.com/de/articles/12507422-file-review-in-an-approval-request-legacy) zum ersten Mal geöffnet wird, kann das rechte Menü geschlossen sein. Klicken Sie auf die Informationsschaltfläche rechts, um dieses Menü zu erweitern.
+Wenn die [Dateiüberprüfung einer Genehmigungsanfrage](https://support.catenda.com/de/articles/12507422-dateiprufung-in-einer-freigabeanfrage-legacy) zum ersten Mal geöffnet wird, kann das rechte Menü geschlossen sein. Klicken Sie auf die Informationsschaltfläche rechts, um dieses Menü zu erweitern.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zt2p953n/01-intro.png)
 
@@ -48,7 +48,7 @@ Wenn die Mindestanzahl von Mitgliedern, wie in der Genehmigung angegeben, Genehm
 
 ### 2.1 **Kommentarfeld**
 
-Geben Sie einen Kommentar ein, um einen Kommentar zur Überprüfung dieser Datei hinzuzufügen. Kommentare folgen den allgemeinen Regeln der [Formatierung von Beiträgen](https://support.catenda.com/de/articles/8430847-formatting-of-posts) auf Catenda. Validierungen können eingereicht werden, ohne einen Kommentar einzugeben.
+Geben Sie einen Kommentar ein, um einen Kommentar zur Überprüfung dieser Datei hinzuzufügen. Kommentare folgen den allgemeinen Regeln der [Formatierung von Beiträgen](https://support.catenda.com/de/articles/8430847-toolbox-fur-beitragformatierung) auf Catenda. Validierungen können eingereicht werden, ohne einen Kommentar einzugeben.
 
 ### 2.2 **Kommentar**
 

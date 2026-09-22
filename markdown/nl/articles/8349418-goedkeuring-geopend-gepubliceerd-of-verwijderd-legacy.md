@@ -1,6 +1,6 @@
 # Goedkeuring geopend, gepubliceerd of verwijderd - Legacy
 
-Klik op een goedkeuring op de [pagina met goedkeuringen](https://support.catenda.com/nl/articles/8349340-approvals-page#h_f6b835862b) om de pagina met goedkeuringen van de goedkeuring te openen.
+Klik op een goedkeuring op de [pagina met goedkeuringen](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy#h_f6b835862b) om de pagina met goedkeuringen van de goedkeuring te openen.
 
 Dit is hoe de pagina met goedkeuringen er kan uitzien:
 
@@ -18,7 +18,7 @@ Klik hier voor meer informatie over instellingen voor goedkeuringen.
 
 ## 2. **Navigatie van goedkeuring**
 
-_Knop Terug naar goedkeuringen_ - Ga terug naar de [pagina met goedkeuringen](https://support.catenda.com/nl/articles/8349340-approvals-page). _Voortgangsbalk boven_ - Toont de goedkeuringen waarnaar u kunt navigeren
+_Knop Terug naar goedkeuringen_ - Ga terug naar de [pagina met goedkeuringen](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy). _Voortgangsbalk boven_ - Toont de goedkeuringen waarnaar u kunt navigeren
 
 > **Opmerking:** U kunt slechts naar zoveel goedkeuringen navigeren als u op de pagina met goedkeuringen hebt geladen. U kunt op een gegeven moment 100 goedkeuringen laden door omlaag te schuiven in de lijstweergave met goedkeuringen. Tenzij u helemaal omlaag schuift op de pagina met goedkeuringen of er minder dan 100 problemen op het bord staan. Dit totaalaantal is daarom niet indicatief voor het totaal aantal goedkeuringen op de pagina met goedkeuringen.
 
@@ -78,7 +78,7 @@ Als een document is besmet met een virus, wordt het uit de goedkeuring verwijder
 
 ### 5.1 **Beschrijving**
 
-De beschrijving van de goedkeuring volgt de [algemene opmaakregels voor berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts).
+De beschrijving van de goedkeuring volgt de [algemene opmaakregels voor berichten](https://support.catenda.com/nl/articles/8430847-werkbalk-voor-berichtopmaak).
 
 ### 5.2 **Acties in de concepttabel voor goedkeuring**
 
@@ -106,7 +106,7 @@ _Status_ - De conceptstatus van het concept
 
 **Status van bestandsonderzoek** De status van het bestandsonderzoek kan In afwachting van goedkeuring, Goedgekeurd met opmerking, Goedgekeurd of Afgewezen zijn
 
-Opmerking Als er een opmerking in de goedkeuring staat, ziet u een voorbeeld van de laatste opmerking naast de status van het bestandsonderzoek. Goedkeuringsopmerkingen volgen de [algemene opmaakregels voor berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts).
+Opmerking Als er een opmerking in de goedkeuring staat, ziet u een voorbeeld van de laatste opmerking naast de status van het bestandsonderzoek. Goedkeuringsopmerkingen volgen de [algemene opmaakregels voor berichten](https://support.catenda.com/nl/articles/8430847-werkbalk-voor-berichtopmaak).
 
 **Actiemenu** Beoordeling toevoegen Als geen revisoren zijn ingesteld, kan iedereen een beoordeling toevoegen Als revisoren in de goedkeuringskop zijn ingesteld, kunnen alleen revisoren een beoordeling toevoegen Door een beoordeling toe te voegen, kunt u elk concept voorzien van opmerkingen, goedkeuren, goedkeuren met opmerkingen of afwijzen.
 

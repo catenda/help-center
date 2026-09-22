@@ -22,7 +22,7 @@ Hier ist ein Vergleich der Vor- und Nachteile dieser 2 Varianten:
 
 ## 1. **Beispielordnerstruktur**
 
-Gute Vorschläge zur Erstellung einer Ordnerstruktur finden Sie in [diesem Artikel](https://support.catenda.com/de/articles/8542598-structuring-documents). Sie können auch ein Beispiel einer Ordnerstruktur finden, die von der Staatlichen Bauleitung Bayern unter dem folgenden [Link](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) verwendet wird. Ordnerstrukturen können sehr unterschiedlich aufgebaut werden. Dies hängt einerseits von den Anforderungen des Projekts und des zugehörigen Projektteams ab und andererseits von einem verwendeten Planschlüssel.
+Gute Vorschläge zur Erstellung einer Ordnerstruktur finden Sie in [diesem Artikel](https://support.catenda.com/de/articles/8542598-dokumente-strukturieren). Sie können auch ein Beispiel einer Ordnerstruktur finden, die von der Staatlichen Bauleitung Bayern unter dem folgenden [Link](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX) verwendet wird. Ordnerstrukturen können sehr unterschiedlich aufgebaut werden. Dies hängt einerseits von den Anforderungen des Projekts und des zugehörigen Projektteams ab und andererseits von einem verwendeten Planschlüssel.
 
 ### 1.1 **Beispiel -** Strukturen nach Phase trennen
 

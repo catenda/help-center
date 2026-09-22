@@ -1,6 +1,6 @@
 # Acties voor documentrevision
 
-Afhankelijk van uw toegang kunnen verschillende acties voor uw document en de bijbehorende revisies worden weergegeven op de [pagina voor documentrevisionpreview](https://support.catenda.com/nl/articles/8461918-document-banner-navigation).
+Afhankelijk van uw toegang kunnen verschillende acties voor uw document en de bijbehorende revisies worden weergegeven op de [pagina voor documentrevisionpreview](https://support.catenda.com/nl/articles/8461918-documentbanner-navigatie).
 
 ## 1. **Documentacties**
 
@@ -12,30 +12,30 @@ Het actiemenu rechts van de pictogrammen kan er ongeveer als volgt uitzien:
 
 Het downloadpictogram en de hamburgermenu-actie op een documentpagina downloaden de nieuwste revision van het document. Zelfs als u een vorige revision bekijkt, krijgt u de nieuwste revision met deze actie.
 
-Als u eerdere revisies van een document wilt downloaden, kunt u dit doen in het [revisiesmenu](https://support.catenda.com/nl/articles/8302244-right-menu-in-a-document#h_d0769e55eb) van het [menu met rechtsinformatie](https://support.catenda.com/nl/articles/8302244-right-menu-in-a-document).
+Als u eerdere revisies van een document wilt downloaden, kunt u dit doen in het [revisiesmenu](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie#h_d0769e55eb) van het [menu met rechtsinformatie](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie).
 
 ### 1.2 Dezelfde actie als in de documentlijst
 
 Acties met hetzelfde gedrag als in de documentlijst zijn onder meer:
 
-- [Nieuwe revision](https://support.catenda.com/nl/articles/4670293-uploading-new-document-revision)
-- [Koppeling en ontkoppeling](https://support.catenda.com/nl/articles/4670288-actions-documents#h_d9a539f267)
-- [Nieuwe concept](https://support.catenda.com/nl/articles/4670288-actions-documents#h_fb8963d8e5)
-- [Verplaatsen](https://support.catenda.com/nl/articles/4670288-actions-documents#h_f80b6a94f2)
-- [Model maken](https://support.catenda.com/nl/articles/4670288-actions-documents#h_33d57b9d3d)
-- [Model verwijderen](https://support.catenda.com/nl/articles/4670288-actions-documents#h_33d57b9d3d)
-- [Voorbeeld](https://support.catenda.com/nl/articles/4670288-actions-documents#h_02cfc15b02)
-- [Verwijderen](https://support.catenda.com/nl/articles/4670288-actions-documents#h_fbf2be74c3)
+- [Nieuwe revision](https://support.catenda.com/nl/articles/4670293-een-nieuwe-documentrevisie-uploaden)
+- [Koppeling en ontkoppeling](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_d9a539f267)
+- [Nieuwe concept](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_fb8963d8e5)
+- [Verplaatsen](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_f80b6a94f2)
+- [Model maken](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_33d57b9d3d)
+- [Model verwijderen](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_33d57b9d3d)
+- [Voorbeeld](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_02cfc15b02)
+- [Verwijderen](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_fbf2be74c3)
 
 ## 2. **Acties voor documentrevision**
 
-Acties voor uw huidige revision vindt u in het [rechtermenu van een revision](https://support.catenda.com/nl/articles/8302244-right-menu-of-a-revision). Dit is wat de revisionacties kunnen lijken:
+Acties voor uw huidige revision vindt u in het [rechtermenu van een revision](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie). Dit is wat de revisionacties kunnen lijken:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/nxq3vptz/02-document-revision-actions.png)
 
 ### 2.1 **Vergelijken**
 
-Als u meerdere PDF-revisies in een document hebt, kunt u de actie [PDF vergelijken](https://support.catenda.com/nl/articles/8461650-pdf-compare) zien. Klik [hier](https://support.catenda.com/nl/articles/8461650-pdf-compare) voor meer informatie over PDF vergelijken.
+Als u meerdere PDF-revisies in een document hebt, kunt u de actie [PDF vergelijken](https://support.catenda.com/nl/articles/8461650-pdf-vergelijk) zien. Klik [hier](https://support.catenda.com/nl/articles/8461650-pdf-vergelijk) voor meer informatie over PDF vergelijken.
 
 ### 2.2 **Publiceren**
 
@@ -49,4 +49,4 @@ Klik op het downloadpictogram rechtsboven in het revisiemenu of download in het 
 
 ### 2.4 **Revision intrekken**
 
-Lees meer over het intrekken van revisies [hier](https://support.catenda.com/nl/articles/9711174-withdraw-revision) _Vereiste toegang:_ Volledige toegang tot het document
+Lees meer over het intrekken van revisies [hier](https://support.catenda.com/nl/articles/9711174-revisie-intrekken) _Vereiste toegang:_ Volledige toegang tot het document

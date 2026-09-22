@@ -64,7 +64,7 @@ Vouw het menu voor assen weergeven uit voor betere controle van elk van de assen
 
 ## 4. **4. Knop voor verschuifvlak-oppervlak**
 
-Nadat het is ingeschakeld, strekt het transparante verschuifvlak-oppervlak zich uit van de annotatielijn tot aan de bovenste grenzen van het model, vergelijkbaar met een knipvlak-oppervlak. In tegenstelling tot een knipvlak-oppervlak dat er op dezelfde manier transparant uitziet en kan worden verplaatst, is dit een transparant object dat niet van zijn annotatielijn kan worden verplaatst. Ook in tegenstelling tot knipvlak-oppervlakken is het mogelijk om naar verschuifvlak-oppervlakken te meten. Klik [hier](https://support.catenda.com/nl/articles/4670298-measuring-to-grids) om meer informatie te lezen over meting naar verschillende verschuifvlak-oppervlakken.
+Nadat het is ingeschakeld, strekt het transparante verschuifvlak-oppervlak zich uit van de annotatielijn tot aan de bovenste grenzen van het model, vergelijkbaar met een knipvlak-oppervlak. In tegenstelling tot een knipvlak-oppervlak dat er op dezelfde manier transparant uitziet en kan worden verplaatst, is dit een transparant object dat niet van zijn annotatielijn kan worden verplaatst. Ook in tegenstelling tot knipvlak-oppervlakken is het mogelijk om naar verschuifvlak-oppervlakken te meten. Klik [hier](https://support.catenda.com/nl/articles/4670298-meten-naar-schuifvlakken) om meer informatie te lezen over meting naar verschillende verschuifvlak-oppervlakken.
 
 ### 4.1 **4.1 Rasteras-oppervlak**
 

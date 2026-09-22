@@ -1,6 +1,6 @@
 # Page des tableaux
 
-Vous pourrez trouver la page des tableaux comme sous-page de la [page des topics](https://support.catenda.com/fr/articles/4670271-topics-page). La page des tableaux vous donnera un aperçu de vos tableaux de topics disponibles.
+Vous pourrez trouver la page des tableaux comme sous-page de la [page des topics](https://support.catenda.com/fr/articles/4670271-page-sujets). La page des tableaux vous donnera un aperçu de vos tableaux de topics disponibles.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zq777cpq/01-intro.png)
 
@@ -18,7 +18,7 @@ La page du nouveau tableau de topics peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zq777cpq/03-new-topic-board.png)
 
-Remplissez le nom et la description et appuyez sur ajouter. Cliquez [ici](https://support.catenda.com/fr/articles/6379614-topic-board-from-an-existing-topic-board) pour en savoir plus sur la création de nouveaux tableaux de topics. _Accès requis :_ Accès en écriture à la [création de nouveaux tableaux de topics](https://support.catenda.com/fr/articles/4670299-topic-board-creation-acl) dans les [paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page#h_f82a1850f3).
+Remplissez le nom et la description et appuyez sur ajouter. Cliquez [ici](https://support.catenda.com/fr/articles/6379614-liste-de-sujets-a-partir-d-une-liste-de-sujets-existante) pour en savoir plus sur la création de nouveaux tableaux de topics. _Accès requis :_ Accès en écriture à la [création de nouveaux tableaux de topics](https://support.catenda.com/fr/articles/4670299-controle-d-acces-pour-la-creation-de-liste-de-sujets) dans les [paramètres du projet](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet#h_f82a1850f3).
 
 ## 2. **Liste des tableaux de topics**
 
@@ -32,7 +32,7 @@ En cliquant sur le nom du tableau de topics, vous pouvez accéder directement au
 
 ### 2.2 **Paramètres**
 
-Cliquez sur le bouton paramètres pour accéder aux [paramètres de ce tableau](https://support.catenda.com/fr/articles/4670277-topic-board-settings). Vous pouvez également accéder au tableau et sélectionner l'élément de menu Paramètres dans le menu de navigation de gauche. _Accès requis :_ Accès complet au tableau de topics
+Cliquez sur le bouton paramètres pour accéder aux [paramètres de ce tableau](https://support.catenda.com/fr/articles/4670277-page-des-parametres-du-tableau-de-bord-des-sujets). Vous pouvez également accéder au tableau et sélectionner l'élément de menu Paramètres dans le menu de navigation de gauche. _Accès requis :_ Accès complet au tableau de topics
 
 ### 2.3 **Statistiques**
 

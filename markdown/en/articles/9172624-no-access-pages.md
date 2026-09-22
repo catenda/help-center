@@ -108,7 +108,7 @@ Another reason this can happen is if there are no public revisions in the docume
 
 ### 4.4 **Withdrawn document revision**
 
-[https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx) A document revision can be [withdrawn](https://support.catenda.com/en/articles/9711174-withdraw-revision) with the [withdraw revision action](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document). You will notice that the name of the withdrawn revision will be struck trough.
+[https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://hub.catenda.com/project/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/libraries/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/items/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx) A document revision can be [withdrawn](https://support.catenda.com/en/articles/9711174-withdraw-revision) with the [withdraw revision action](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info). You will notice that the name of the withdrawn revision will be struck trough.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qewb0f5x/14-withdrawn-document-revision.png)
 

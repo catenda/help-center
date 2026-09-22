@@ -8,7 +8,7 @@ Bestanden kunnen op vier verschillende manieren worden geüpload. Het bestand ko
 
 ### 1.1 **1. Uploadknop**
 
-Als u een nieuw document of revisie wilt uploaden, drukt u op de [+ knop](https://support.catenda.com/nl/articles/4670288-actions-in-the-document-structure#h_7c8e07223e) rechtsboven. Dit opent het [menu voor uploaden van documenten](#h_00fa77db3e).
+Als u een nieuw document of revisie wilt uploaden, drukt u op de [+ knop](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_7c8e07223e) rechtsboven. Dit opent het [menu voor uploaden van documenten](#h_00fa77db3e).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y90qfgry/01-1-upload-button.png)
 
@@ -16,7 +16,7 @@ Als u op deze manier een bestand uploadt, kunt u kiezen of u een nieuwe revisie 
 
 ### 1.2 **2. Knop Nieuwe revisie**
 
-Wanneer een document is geselecteerd in de documentstructuur, kan de [actie Nieuwe revisie](https://support.catenda.com/nl/articles/4670288-actions-in-the-document-structure#h_5785139ce3) worden gevonden in het [menu met geselecteerde item-hamburgermenu](https://support.catenda.com/nl/articles/4670288-actions-in-the-document-structure#h_fb4e9ef375) boven aan de documenttabel. In een documentvoorbeeld kan de [actie Nieuwe revisie](https://support.catenda.com/nl/articles/9323521-actions-in-a-document#h_c18a9b8abf) in het [bestaande hamburgermenu van items](https://support.catenda.com/nl/articles/9323521-actions-in-a-document) rechtsboven op de pagina worden gebruikt. Als u op deze manier een bestand uploadt, wordt een nieuwe revisie gemaakt en geen nieuw document.
+Wanneer een document is geselecteerd in de documentstructuur, kan de [actie Nieuwe revisie](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_5785139ce3) worden gevonden in het [menu met geselecteerde item-hamburgermenu](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_fb4e9ef375) boven aan de documenttabel. In een documentvoorbeeld kan de [actie Nieuwe revisie](https://support.catenda.com/nl/articles/9323521-acties-voor-documentrevision#h_c18a9b8abf) in het [bestaande hamburgermenu van items](https://support.catenda.com/nl/articles/9323521-acties-voor-documentrevision) rechtsboven op de pagina worden gebruikt. Als u op deze manier een bestand uploadt, wordt een nieuwe revisie gemaakt en geen nieuw document.
 
 ### 1.3 **3. Slepen en neerzetten**
 
@@ -44,15 +44,15 @@ Tot 100 bestanden kunnen worden gesleept en neergezet, [elk tot 7GB\*](#h_09bc8f
 
 ### 2.3 **Mappen**
 
-In dit menu kunnen alleen afzonderlijke Documenten worden geüpload. Als u een map wilt uploaden, moet deze in een zip-bestand worden geconverteerd en op een ander manier worden geüpload. Zie het artikel [Upload zip](https://support.catenda.com/nl/articles/7945410-upload-a-zip-folder-structure).
+In dit menu kunnen alleen afzonderlijke Documenten worden geüpload. Als u een map wilt uploaden, moet deze in een zip-bestand worden geconverteerd en op een ander manier worden geüpload. Zie het artikel [Upload zip](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden).
 
 ### 2.4 **Uploadlimiet**
 
 **Limieten voor afzonderlijke bestanden:** Tot 100 bestanden kunnen tegelijk worden geüpload Tot 7 GB per bestand kunnen tegelijk worden geüpload.
 
-**Limieten voor gecomprimeerde bestanden:** Als u meer bestanden tegelijk of grotere bestanden wilt uploaden, kunt u de functie '[upload zip](https://support.catenda.com/nl/articles/7945410-upload-a-zip-folder-structure)' gebruiken.
+**Limieten voor gecomprimeerde bestanden:** Als u meer bestanden tegelijk of grotere bestanden wilt uploaden, kunt u de functie '[upload zip](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden)' gebruiken.
 
-**Limieten voor puntenwolken:** Puntenwolken hebben vaak grote bestandsgroottes, dus hun limiet is verhoogd tot 25 GB Klik [hier](https://support.catenda.com/nl/articles/4670324-is-there-a-size-limit-for-ifc-files) voor meer informatie over groottelimieten.
+**Limieten voor puntenwolken:** Puntenwolken hebben vaak grote bestandsgroottes, dus hun limiet is verhoogd tot 25 GB Klik [hier](https://support.catenda.com/nl/articles/4670324-welke-bestandsgrootte-kan-ik-uploaden) voor meer informatie over groottelimieten.
 
 ## 3. **Desktopconnector**
 
@@ -60,7 +60,7 @@ Met de [Catenda Desktop Connector](https://support.catenda.com/nl/articles/83588
 
 ## 4. **Documentvoorbeeld**
 
-Als u wilt zien of u de inhoud van uw bestandstype in Catenda kunt zien, klikt u [hier](https://support.catenda.com/nl/articles/4670320-what-file-types-does-catenda-support).
+Als u wilt zien of u de inhoud van uw bestandstype in Catenda kunt zien, klikt u [hier](https://support.catenda.com/nl/articles/4670320-bestandstypen-bekijken-op-catenda-hub).
 
 ## 5. **Viruscontrole**
 

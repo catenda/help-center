@@ -1,6 +1,6 @@
 # Milepælinnholdsside
 
-Siden til en milepæl kan åpnes ved å klikke på en milepæl på [milepælsiden](https://support.catenda.com/nb/articles/4670266-milestones-page). Slik kan siden til en milepæl se ut:
+Siden til en milepæl kan åpnes ved å klikke på en milepæl på [milepælsiden](https://support.catenda.com/nb/articles/4670266-milepaelside). Slik kan siden til en milepæl se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yx2925b3/01-intro.png)
 
@@ -16,7 +16,7 @@ Klikk på det grønne + eller på handlingen Ny milepæl i handlingsmenyen for �
 
 ### 1.2 **Arkiver**
 
-Hvis milepælen din er aktiv, vil du kunne arkivere den med denne handlingen. _Tilgang kreves:_ Administrator eller Milepælskapende. Arkiverte milepæler kan finnes og gjenopprettes med de arkiverte milepælshandlingene på [milepælsiden](https://support.catenda.com/nb/articles/4670266-milestones-page).
+Hvis milepælen din er aktiv, vil du kunne arkivere den med denne handlingen. _Tilgang kreves:_ Administrator eller Milepælskapende. Arkiverte milepæler kan finnes og gjenopprettes med de arkiverte milepælshandlingene på [milepælsiden](https://support.catenda.com/nb/articles/4670266-milepaelside).
 
 ## 2. **Gjenopprett**
 

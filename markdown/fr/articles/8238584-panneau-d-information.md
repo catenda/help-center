@@ -1,6 +1,6 @@
 # Panneau d'information
 
-Vous pourrez trouver le panneau d'information comme l'un des quatre panneaux principaux qui peuvent être ouverts en haut à droite de votre écran. Vous pouvez soit appuyer sur l'icône i pour ouvrir ce panneau, soit appuyer sur [shift+4](https://support.catenda.com/fr/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Inspect%20panel-,Shift%20%2B%204,-Show/hide%20last).
+Vous pourrez trouver le panneau d'information comme l'un des quatre panneaux principaux qui peuvent être ouverts en haut à droite de votre écran. Vous pouvez soit appuyer sur l'icône i pour ouvrir ce panneau, soit appuyer sur [shift+4](https://support.catenda.com/fr/articles/4670267-resume-des-raccourcis-et-commandes-de-base-les-plus-importants#:~:text=Inspect%20panel-,Shift%20%2B%204,-Show/hide%20last).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/01-intro.png)
 
@@ -8,7 +8,7 @@ Dans le panneau d'information, vous pourrez trouver les sections suivantes :
 
 ## 1. **Inspection**
 
-Cela vous permet de voir les informations sur les objets que vous avez sélectionnés. Cliquez [ici](https://support.catenda.com/fr/articles/4670285-inspect-panel) pour en savoir plus sur le panneau d'inspection.
+Cela vous permet de voir les informations sur les objets que vous avez sélectionnés. Cliquez [ici](https://support.catenda.com/fr/articles/4670285-menu-inspect) pour en savoir plus sur le panneau d'inspection.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/02-inspect.png)
 
@@ -18,7 +18,7 @@ Cela vous permet de créer et d'exporter une liste d'objets et de calculer les s
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/03-quantity-take-off.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/6673929-quantity-take-off-qto) pour en savoir plus sur le Quantitatif
+Cliquez [ici](https://support.catenda.com/fr/articles/6673929-releve-de-quantites-qto) pour en savoir plus sur le Quantitatif
 
 ## 3. **4D**
 
@@ -68,7 +68,7 @@ Cela vous permet de créer un ensemble d'objets qui peuvent ensuite être stylis
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/08-selections.png)
 
-En haut du menu Sélection, vous verrez combien d'éléments vous avez actuellement sélectionnés dans la Visionneuse 3D et le panneau d'arborescence. Les sélections peuvent être enregistrées en créant une [Capture](https://support.catenda.com/fr/articles/8053352-issue-body#h_1ba7f8873f) ou un [Signet](https://support.catenda.com/fr/articles/8471481-bookmark) et en le relisant plus tard. Parce que les sélections sont stockées dans la Capture d'une rubrique, elles peuvent être importées et exportées vers d'autres programmes via BCF. Un exemple est que les rubriques avec des sélections du panier de sélection qui sont synchronisées via le connecteur BCF en direct dans Solibri contiendront des données de sélection lors de la lecture de la Capture.
+En haut du menu Sélection, vous verrez combien d'éléments vous avez actuellement sélectionnés dans la Visionneuse 3D et le panneau d'arborescence. Les sélections peuvent être enregistrées en créant une [Capture](https://support.catenda.com/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet#h_1ba7f8873f) ou un [Signet](https://support.catenda.com/fr/articles/8471481-page-de-contenu-des-signets) et en le relisant plus tard. Parce que les sélections sont stockées dans la Capture d'une rubrique, elles peuvent être importées et exportées vers d'autres programmes via BCF. Un exemple est que les rubriques avec des sélections du panier de sélection qui sont synchronisées via le connecteur BCF en direct dans Solibri contiendront des données de sélection lors de la lecture de la Capture.
 
 ### 5.1 **Nouvelle sélection**
 
@@ -114,4 +114,4 @@ Cela vous permet de voir les mesures qui ont été créées dans la Visionneuse 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/11-measurements.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/4670294-measuring-features) pour en savoir plus sur les mesures
+Cliquez [ici](https://support.catenda.com/fr/articles/4670294-menu-des-outils-de-la-visionneuse-3d) pour en savoir plus sur les mesures

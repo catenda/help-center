@@ -70,7 +70,7 @@ So kann das rechte Informationsfeld aussehen:
 
 ### 3.1 Dokumente
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/4670250-linking-a-document-to-an-issue), um zu erfahren, wie Sie ein Dokument mit einem Thema verknüpfen.
+Klicken Sie [hier](https://support.catenda.com/de/articles/4670250-verknupfung-eines-dokuments-mit-einem-thema), um zu erfahren, wie Sie ein Dokument mit einem Thema verknüpfen.
 
 ## 4. Text
 
@@ -80,7 +80,7 @@ So kann der Textkörper eines Themas aussehen:
 
 ### 4.1 Beschreibung
 
-Fügen Sie eine Beschreibung für das Thema hinzu. Kennzeichnen Sie Personen, die in die Diskussion einbezogen werden sollen, mit @. In der Symbolleiste darunter finden Sie verschiedene Optionen, zum Beispiel: [Checklisten in Themen](https://intercom.help/bimsync-arena/de/articles/5036461-check-lists-within-issues)
+Fügen Sie eine Beschreibung für das Thema hinzu. Kennzeichnen Sie Personen, die in die Diskussion einbezogen werden sollen, mit @. In der Symbolleiste darunter finden Sie verschiedene Optionen, zum Beispiel: [Checklisten in Themen](https://intercom.help/bimsync-arena/de/articles/5036461-checklisten-innerhalb-von-problemen)
 
 ### 4.2 Kommentar
 

@@ -1,6 +1,6 @@
 # Gjennomgangsforespørsel dokumenter høyre meny
 
-Denne artikkelen inneholder informasjon om følgende saker: _[Under vurdering](#h_b398f04f49) - [Trinnvis oversikt](#h_be2d5b96e1)_Høyre meny kan åpnes ved å velge Dokumenter i [dokumentfanen](https://support.catenda.com/nb/articles/12495130-documents-tab-in-an-approval-request) på en gjennomgangsforespørselside. Avhengig av om du velger ett dokument eller flere vil menyen se annerledes ut.
+Denne artikkelen inneholder informasjon om følgende saker: _[Under vurdering](#h_b398f04f49) - [Trinnvis oversikt](#h_be2d5b96e1)_Høyre meny kan åpnes ved å velge Dokumenter i [dokumentfanen](https://support.catenda.com/nb/articles/12495130-dokumenter-fanen-i-en-gjennomgangsforesporsel) på en gjennomgangsforespørselside. Avhengig av om du velger ett dokument eller flere vil menyen se annerledes ut.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dmdyh23e/01-intro.png)
 

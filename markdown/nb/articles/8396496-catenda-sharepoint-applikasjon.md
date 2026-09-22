@@ -1,14 +1,14 @@
 # Catenda SharePoint-applikasjon
 
-> **Merknad:** Installeringsfilen for programtillegget finnes i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-and-integrations).
+> **Merknad:** Installeringsfilen for programtillegget finnes i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-og-integrasjoner).
 
-Hvis Catenda SharePoint Application legges til på et SharePoint-nettsted, kan filer publiseres fra SharePoint til Catenda og Catenda-dokumentstrukturen kan vises i SharePoint. Når den er konfigurert, kan applikasjonen se slik ut: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/> Denne artikkelen inneholder informasjon om hvordan denne applikasjonen fungerer Se [her](https://support.catenda.com/nb/articles/9419678-catenda-sharepoint-faq) for mer informasjon om hvordan denne applikasjonen kan være nyttig. Se [her](https://support.catenda.com/nb/articles/9453368-adding-and-removing-the-catendasp-app) for hvordan du legger til SharePoint-applikasjonen på et nettsted.
+Hvis Catenda SharePoint Application legges til på et SharePoint-nettsted, kan filer publiseres fra SharePoint til Catenda og Catenda-dokumentstrukturen kan vises i SharePoint. Når den er konfigurert, kan applikasjonen se slik ut: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/> Denne artikkelen inneholder informasjon om hvordan denne applikasjonen fungerer Se [her](https://support.catenda.com/nb/articles/9419678-catenda-sharepoint-vanlige-sporsmal) for mer informasjon om hvordan denne applikasjonen kan være nyttig. Se [her](https://support.catenda.com/nb/articles/9453368-legge-til-og-fjerne-catendasp-appen) for hvordan du legger til SharePoint-applikasjonen på et nettsted.
 
 ## 1. **Publisering til Catenda med listkommandoen**
 
 Med listkommandoen er det mulig å publisere én eller flere filer til Catenda.
 
-> **Merknad:** Det er bare mulig å publisere filer. Mappestrukturer kan lastes ned fra SharePoint og lastes opp til Catenda via [zip-opplasting](https://support.catenda.com/nb/articles/7945410-upload-a-zip-file-structure) eller [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector).
+> **Merknad:** Det er bare mulig å publisere filer. Mappestrukturer kan lastes ned fra SharePoint og lastes opp til Catenda via [zip-opplasting](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur) eller [Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector).
 
 ### 1.1 **Finne listkommandoen**
 
@@ -50,7 +50,7 @@ Etter at en fil er publisert, kan brukere flytte, gi nytt navn og slette filen. 
 
 ## 2. **Catenda Webpart**
 
-Med denne applikasjonen legger du til [Catenda webpart](https://support.catenda.com/nb/articles/10538168-catenda-sharepoint-application-webpart) på en side på nettstedet ditt. Du kan la brukere bla gjennom områdene som de har lesebeskyttelse til i dokumentdelen av et Catenda-prosjekt. Hvis de har skrivetilgang til noen del av dokumentstrukturen, kan de også laste opp filer der.
+Med denne applikasjonen legger du til [Catenda webpart](https://support.catenda.com/nb/articles/10538168-catenda-sharepoint-applikasjon-webdel) på en side på nettstedet ditt. Du kan la brukere bla gjennom områdene som de har lesebeskyttelse til i dokumentdelen av et Catenda-prosjekt. Hvis de har skrivetilgang til noen del av dokumentstrukturen, kan de også laste opp filer der.
 
 Slik kan en konfigurert webpart se ut:
 
@@ -70,8 +70,8 @@ Autentiseringsvinduet kan se ut som dette:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/09-authorizing-your-catenda-account.png)
 
-Ved å tillate appen tilgang til kontoen din kan du publisere dokumenter fra SharePoint til hvilken som helst del av Catenda-prosjektet(ene) ditt som du har skrivetilgang til i [dokumentdelen](https://support.catenda.com/nb/articles/8204673-documents-page). Hvis en webpart er lagt til på en side på nettstedet ditt, kan du også se alle dokumenter som du har lesebeskyttelse til i Catenda-prosjektet som ble konfigurert av personen som la til webparten. Med webparten kan du også publisere dokumenter fra systemet ditt til hvilken som helst del av det konfigurerte Catenda-prosjektet som du har skrivetilgang til i [dokumentdelen](https://support.catenda.com/nb/articles/8204673-documents-page).
+Ved å tillate appen tilgang til kontoen din kan du publisere dokumenter fra SharePoint til hvilken som helst del av Catenda-prosjektet(ene) ditt som du har skrivetilgang til i [dokumentdelen](https://support.catenda.com/nb/articles/8204673-dokumenter-side). Hvis en webpart er lagt til på en side på nettstedet ditt, kan du også se alle dokumenter som du har lesebeskyttelse til i Catenda-prosjektet som ble konfigurert av personen som la til webparten. Med webparten kan du også publisere dokumenter fra systemet ditt til hvilken som helst del av det konfigurerte Catenda-prosjektet som du har skrivetilgang til i [dokumentdelen](https://support.catenda.com/nb/articles/8204673-dokumenter-side).
 
 > **Merknad:** Catenda vil ikke ha tilgang til SharePoint-dokumentene dine. Hvis du publiserer et dokument til Catenda, mottar Catenda det i en enveistransaksjon.
 
-Hvis du ikke lenger ønsker å gi appen tilgang til Catenda-kontoen din, kan du alltid tilbakekalle tilgangen på [applikasjonssiden](https://support.catenda.com/nb/articles/6880968-account-page#h_40e031c49a) på Catenda-kontoen din.
+Hvis du ikke lenger ønsker å gi appen tilgang til Catenda-kontoen din, kan du alltid tilbakekalle tilgangen på [applikasjonssiden](https://support.catenda.com/nb/articles/6880968-kontosida#h_40e031c49a) på Catenda-kontoen din.

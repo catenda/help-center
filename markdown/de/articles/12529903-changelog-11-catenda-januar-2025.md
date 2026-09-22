@@ -6,7 +6,7 @@ vielen Dank, dass ihr alle in diesen Wintermonaten so aktiv auf unserer Plattfor
 
 In diesem Artikel finden Sie Aktualisierungen zu folgendem:
 
-_[Artikel](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-october-2025#h_a1a4085421) - [Fehler](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-october-2025#h_43a9641d96) - [Videos](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-october-2025#h_1ec3df5bf7) - [Benutzer-Feedback](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-october-2025#h_4c273d2715) - [Neue Versionen](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-october-2025#h_fea31925e9) - [Funktionsstatus](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-october-2025#h_76a41f54f2)_
+_[Artikel](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_a1a4085421) - [Fehler](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_43a9641d96) - [Videos](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_1ec3df5bf7) - [Benutzer-Feedback](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_4c273d2715) - [Neue Versionen](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_fea31925e9) - [Funktionsstatus](https://support.catenda.com/de/articles/11582902-changelog-10-catenda-oktober-2025#h_76a41f54f2)_
 
 ## 1. **Artikel**
 
@@ -16,83 +16,83 @@ Wenn neue Funktionen veröffentlicht werden und Fehler behoben werden, werden Ar
 
 **Kontoverwaltung**
 
-- [Kontotasten](https://support.catenda.com/de/articles/4670260-account-buttons)
+- [Kontotasten](https://support.catenda.com/de/articles/4670260-kontenschaltflachen)
 
 **Fehlerbehebung**
 
-- [Fehlerbehebung für 3D-Snapshots](https://support.catenda.com/de/articles/12831346-3d-snapshots-troubleshooting)
-- [Fehlerbehebung für Dokumenteinstellungen](https://support.catenda.com/de/articles/12521958-document-settings-troubleshooting)
-- [Fehlerbehebung für Navisworks-Plugin](https://support.catenda.com/de/articles/12597294-navisworks-plugin-troubleshooting)
+- [Fehlerbehebung für 3D-Snapshots](https://support.catenda.com/de/articles/12831346-3d-schnappschusse-fehlerbehebung)
+- [Fehlerbehebung für Dokumenteinstellungen](https://support.catenda.com/de/articles/12521958-fehlerbehebung-bei-dokumenteinstellungen)
+- [Fehlerbehebung für Navisworks-Plugin](https://support.catenda.com/de/articles/12597294-fehlerbehebung-fur-das-navisworks-plugin)
 
 ### 1.2 **Artikel, die sich geändert haben:**
 
 **Kontoverwaltung**
 
 - Kontoeinstellungen
-    - [Benachrichtigungsfilterung und -funktionalität](https://support.catenda.com/de/articles/8304417-notification-filtering-and-functionality)
-    - [Kontoseite](https://support.catenda.com/de/articles/6880968-account-page)
+    - [Benachrichtigungsfilterung und -funktionalität](https://support.catenda.com/de/articles/8304417-filterung-auf-der-benachrichtigungsseite)
+    - [Kontoseite](https://support.catenda.com/de/articles/6880968-kontoseite)
 
 **Produktfunktionen**
 
 - Dashboard
-    - [Dashboard-Seite](https://support.catenda.com/de/articles/8212646-dashboard-page)
+    - [Dashboard-Seite](https://support.catenda.com/de/articles/8212646-dashboard-seite)
 - Themen
-    - [Filterung auf der Seite "Themen"](https://support.catenda.com/de/articles/8370693-filtering-on-the-topics-page)
-    - [Aktionen in der Themenliste](https://support.catenda.com/de/articles/4670284-topics-table-actions)
-    - [Themen als PDF exportieren](https://support.catenda.com/de/articles/9784934-exporting-topics-to-pdf)
-    - [Themenkopfzeile - Das Thema eines Themas](https://support.catenda.com/de/articles/8400566-topic-header-the-subject-of-a-topic)
-    - [Themen austauschen](https://support.catenda.com/de/articles/4670289-exchange-topics)
+    - [Filterung auf der Seite "Themen"](https://support.catenda.com/de/articles/8370693-filterung-auf-der-seite-themen)
+    - [Aktionen in der Themenliste](https://support.catenda.com/de/articles/4670284-aktionen-in-der-thementabelle)
+    - [Themen als PDF exportieren](https://support.catenda.com/de/articles/9784934-themen-in-pdf-exportieren)
+    - [Themenkopfzeile - Das Thema eines Themas](https://support.catenda.com/de/articles/8400566-themen-header-das-thema-eines-themas)
+    - [Themen austauschen](https://support.catenda.com/de/articles/4670289-themen-austausch)
 - Modelle
-    - [Revisions-Selector](https://support.catenda.com/de/articles/4670279-revision-selector)
-    - [Filterung auf der Objektseite](https://support.catenda.com/de/articles/12353642-filtering-on-the-objects-page)
-    - [Filterung auf der Seite "Modelle"](https://support.catenda.com/de/articles/12129622-filtering-on-the-models-page)
-    - [Rechtes Menü auf der Seite "Modelle"](https://support.catenda.com/de/articles/9673735-right-menu-on-the-models-page)
-    - [Gleitende Ebenen-Dropdown](https://support.catenda.com/de/articles/4670327-sliding-plane-dropdown)
-    - [Lesezeichen Inhaltsseite](https://support.catenda.com/de/articles/8471481-bookmark-contents-page)
+    - [Revisions-Selector](https://support.catenda.com/de/articles/4670279-revisions-selector)
+    - [Filterung auf der Objektseite](https://support.catenda.com/de/articles/12353642-filterung-auf-der-objektseite)
+    - [Filterung auf der Seite "Modelle"](https://support.catenda.com/de/articles/12129622-filterung-auf-der-modellseite)
+    - [Rechtes Menü auf der Seite "Modelle"](https://support.catenda.com/de/articles/9673735-rechtes-menu-auf-der-modellseite)
+    - [Gleitende Ebenen-Dropdown](https://support.catenda.com/de/articles/4670327-schiebeflachen-dropdown)
+    - [Lesezeichen Inhaltsseite](https://support.catenda.com/de/articles/8471481-lesezeichen-inhaltsseite)
 - Dokumente
-    - [Übersichtsseite zum Dokumentzugriff](https://support.catenda.com/de/articles/6660820-document-access-overview-page)
-    - [Filterung auf der Dokumentseite](https://support.catenda.com/de/articles/4670283-filtering-on-the-documents-page)
-    - [Zugriffskontrolle für Ordner und Dokumente](https://support.catenda.com/de/articles/4670287-folders-and-documents-access-control)
-    - [Neuen Workflow erstellen](https://support.catenda.com/de/articles/12313251-creating-a-new-workflow)
-    - [Workflow-Seite - Dokumenteinstellungen](https://support.catenda.com/de/articles/12309903-workflows-page-document-settings)
-    - [Dokumentvorschau-Tools](https://support.catenda.com/de/articles/11384618-document-preview-tools)
-    - [ZIP-Datei/Dateistruktur hochladen](https://support.catenda.com/de/articles/7945410-upload-a-zip-file-structure)
-    - [Filterung auf der Seite "Sammlungen"](https://support.catenda.com/de/articles/8999945-filtering-on-the-collections-page)
-    - [Filterung auf der Genehmigungsseite](https://support.catenda.com/de/articles/12495060-filtering-on-the-approvals-page)
-    - [Filterung auf der Genehmigungsseite - Legacy](https://support.catenda.com/de/articles/8551740-filtering-on-the-approvals-page-legacy)
+    - [Übersichtsseite zum Dokumentzugriff](https://support.catenda.com/de/articles/6660820-seite-zugriffsubersicht-fur-dokumente)
+    - [Filterung auf der Dokumentseite](https://support.catenda.com/de/articles/4670283-filterung-auf-der-dokumentseite)
+    - [Zugriffskontrolle für Ordner und Dokumente](https://support.catenda.com/de/articles/4670287-ordnerverwaltung-und-dokumentenzugriffskontrolle)
+    - [Neuen Workflow erstellen](https://support.catenda.com/de/articles/12313251-erstellen-eines-neuen-workflows)
+    - [Workflow-Seite - Dokumenteinstellungen](https://support.catenda.com/de/articles/12309903-workflows-seite-dokumenteinstellungen)
+    - [Dokumentvorschau-Tools](https://support.catenda.com/de/articles/11384618-dokumentvorschau-tools)
+    - [ZIP-Datei/Dateistruktur hochladen](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen)
+    - [Filterung auf der Seite "Sammlungen"](https://support.catenda.com/de/articles/8999945-filterung-auf-der-sammlungsseite)
+    - [Filterung auf der Genehmigungsseite](https://support.catenda.com/de/articles/12495060-filterung-auf-der-genehmigungsseite)
+    - [Filterung auf der Genehmigungsseite - Legacy](https://support.catenda.com/de/articles/8551740-filterung-auf-der-genehmigungsseite-erbschaft)
 - Einstellungen
-    - [Filterung auf der Seite "Mitglieder und Teams"](https://support.catenda.com/de/articles/11744242-filtering-on-the-members-and-teams-page)
+    - [Filterung auf der Seite "Mitglieder und Teams"](https://support.catenda.com/de/articles/11744242-filterung-auf-der-seite-mitglieder-und-teams)
 - 2D & 3D-Viewer
     - [3D-Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer)
     - [2D-Viewer](https://support.catenda.com/de/articles/4854537-2d-viewer)
 - Catenda Plugins & Integrationen
-    - [Revit IFC Export Handbuch](https://support.catenda.com/de/articles/4670341-revit-ifc-export-manual)
-    - [IFC Export Archicad Handbuch](https://support.catenda.com/de/articles/4670338-ifc-export-archicad-manual)
+    - [Revit IFC Export Handbuch](https://support.catenda.com/de/articles/4670341-revit-ifc-export-handbuch)
+    - [IFC Export Archicad Handbuch](https://support.catenda.com/de/articles/4670338-ifc-export-archicad-handbuch)
     - [Catenda Navisworks Plugin](https://support.catenda.com/de/articles/5085987-catenda-navisworks-plugin)
     - [Catenda Archicad Plugin](https://support.catenda.com/de/articles/5519276-catenda-archicad-plugin)
     - [Catenda Revit Plugin](https://support.catenda.com/de/articles/4670334-catenda-revit-plugin)
     - [Catenda Power BI Connector](https://support.catenda.com/de/articles/5784721-catenda-power-bi-connector)
     - [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector)
     - [Catenda Tekla Plugin](https://support.catenda.com/de/articles/6549656-catenda-tekla-plugin)
-    - [Desktop Connector Fehlerbehebung](https://support.catenda.com/de/articles/11019637-desktop-connector-troubleshooting)
+    - [Desktop Connector Fehlerbehebung](https://support.catenda.com/de/articles/11019637-fehlerbehebung-fur-desktop-connector)
 
 **Fehlerbehebung**
 
-- [Fehlerbehebung für ZIP-Upload](https://support.catenda.com/de/articles/11017391-zip-upload-troubleshooting)
+- [Fehlerbehebung für ZIP-Upload](https://support.catenda.com/de/articles/11017391-fehlerbehebung-beim-zip-upload)
 
 **Anwendungsfälle**
 
 - Genehmigungen
-    - [Dokumentprüfung im Genehmigungsablauf](https://support.catenda.com/de/articles/12628468-document-review-in-approval-workflow)
-    - [Genehmigungen einreichen und verwalten: Leitfaden für Verfasser](https://support.catenda.com/de/articles/12627979-submit-manage-approvals-guide-for-drafters)
-    - [Endgültige Genehmigungsentscheidungen leicht gemacht](https://support.catenda.com/de/articles/12629484-final-approval-decisions-made-easy)
-    - [Genehmigungen als Administrator verwalten](https://support.catenda.com/de/articles/12620829-managing-approvals-as-administrator)
+    - [Dokumentprüfung im Genehmigungsablauf](https://support.catenda.com/de/articles/12628468-dokumentprufung-im-genehmigungsworkflow)
+    - [Genehmigungen einreichen und verwalten: Leitfaden für Verfasser](https://support.catenda.com/de/articles/12627979-genehmigungen-einreichen-und-verwalten-leitfaden-fur-verfasser)
+    - [Endgültige Genehmigungsentscheidungen leicht gemacht](https://support.catenda.com/de/articles/12629484-endgultige-freigabeentscheidungen-leicht-gemacht)
+    - [Genehmigungen als Administrator verwalten](https://support.catenda.com/de/articles/12620829-genehmigungen-als-administrator-verwalten)
 
 **Häufig gestellte Fragen**
 
-- [Strukturierung von Dokumenten](https://support.catenda.com/de/articles/8542598-structuring-documents)
-- [Alle Projektdaten exportieren](https://support.catenda.com/de/articles/7946690-exporting-all-project-data)
-- [Welche Dateigröße kann ich hochladen?](https://support.catenda.com/de/articles/4670324-what-file-size-can-i-upload)
+- [Strukturierung von Dokumenten](https://support.catenda.com/de/articles/8542598-dokumente-strukturieren)
+- [Alle Projektdaten exportieren](https://support.catenda.com/de/articles/7946690-exportieren-aller-projektdaten)
+- [Welche Dateigröße kann ich hochladen?](https://support.catenda.com/de/articles/4670324-welche-dateigrosse-kann-ich-hochladen)
 
 ## 2. **Behobene Fehler**
 

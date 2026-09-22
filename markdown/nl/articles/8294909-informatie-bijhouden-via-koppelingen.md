@@ -4,21 +4,21 @@ Er zijn verschillende manieren om delen van Catenda Hub aan andere delen van Cat
 
 ## 1. **Onderwerpen koppelen**
 
-U kunt zien waarmee een onderwerp is gekoppeld in het [rechter paneel](https://support.catenda.com/nl/articles/8053299-issue-right-panel) van een onderwerp
+U kunt zien waarmee een onderwerp is gekoppeld in het [rechter paneel](https://support.catenda.com/nl/articles/8053299-rechtermenu-in-een-topic) van een onderwerp
 
 ### 1.1 **Objecten aan onderwerpen koppelen**
 
-**Handmatig** Klik [hier](https://support.catenda.com/nl/articles/8053299-issue-right-panel#h_758f17abbc) om te zien hoe u onderwerpen aan objecten koppelt
+**Handmatig** Klik [hier](https://support.catenda.com/nl/articles/8053299-rechtermenu-in-een-topic#h_758f17abbc) om te zien hoe u onderwerpen aan objecten koppelt
 
 **Automatisch** Als u 3D-objecten hebt geselecteerd in de 3D-snapshot wanneer u het onderwerp indient, worden deze objecten aan het onderwerp gekoppeld.
 
 ### 1.2 **Documenten aan onderwerpen koppelen**
 
-**Handmatig** Klik [hier](https://support.catenda.com/nl/articles/4670250-linking-a-document-to-an-issue) om te zien hoe u documenten aan onderwerpen koppelt
+**Handmatig** Klik [hier](https://support.catenda.com/nl/articles/4670250-een-document-aan-een-onderwerp-koppelen) om te zien hoe u documenten aan onderwerpen koppelt
 
 ### 1.3 **Onderwerpen aan andere onderwerpen koppelen**
 
-**Handmatig** Klik [hier](https://support.catenda.com/nl/articles/8053299-issue-right-panel#h_edf2cb07a8) om te zien hoe u een onderwerp aan een ander onderwerp koppelt
+**Handmatig** Klik [hier](https://support.catenda.com/nl/articles/8053299-rechtermenu-in-een-topic#h_edf2cb07a8) om te zien hoe u een onderwerp aan een ander onderwerp koppelt
 
 **Automatisch** Als u # gebruikt om naar een onderwerp in het commentaar of een beschrijving van een onderwerp te verwijzen, wordt dit onderwerp aan dat onderwerp gekoppeld en wordt dat onderwerp aan dit onderwerp gekoppeld. Deze koppeling kan later worden bewerkt.
 
@@ -26,19 +26,19 @@ U kunt zien waarmee een onderwerp is gekoppeld in het [rechter paneel](https://s
 
 ### 2.1 **Onderwerpen aan documenten koppelen**
 
-**Handmatig** Als u een onderwerp maakt vanuit het [tabblad aantekeningen](https://support.catenda.com/nl/articles/5001165-annotations-on-documents) in het juiste informatiepaneel van een document en het indient, wordt het document aan dat onderwerp gekoppeld.
+**Handmatig** Als u een onderwerp maakt vanuit het [tabblad aantekeningen](https://support.catenda.com/nl/articles/5001165-documentvoorbeeld-en-aantekeningen) in het juiste informatiepaneel van een document en het indient, wordt het document aan dat onderwerp gekoppeld.
 
-**Automatisch** Als u een [aantekening](https://support.catenda.com/nl/articles/5001165-annotations-on-documents) maakt en deze aan een onderwerp toevoegt, wordt het document automatisch aan dat onderwerp gekoppeld.
+**Automatisch** Als u een [aantekening](https://support.catenda.com/nl/articles/5001165-documentvoorbeeld-en-aantekeningen) maakt en deze aan een onderwerp toevoegt, wordt het document automatisch aan dat onderwerp gekoppeld.
 
 ### 2.2 **Objecten aan documenten koppelen**
 
-**Handmatig** Klik [hier](https://support.catenda.com/nl/articles/4670297-linking-documents-to-objects) om te zien hoe u documenten aan objecten koppelt.
+**Handmatig** Klik [hier](https://support.catenda.com/nl/articles/4670297-documenten-aan-objecten-koppelen) om te zien hoe u documenten aan objecten koppelt.
 
 ## 3. **Objecten koppelen**
 
 ### 3.1 **Onderwerp aan objecten koppelen**
 
-**Handmatig** Klik [hier](https://support.catenda.com/nl/articles/4670285-inspect-panel#h_8550da1056) om te zien hoe u objecten aan onderwerpen koppelt
+**Handmatig** Klik [hier](https://support.catenda.com/nl/articles/4670285-inspectmenu#h_8550da1056) om te zien hoe u objecten aan onderwerpen koppelt
 
 **Automatisch**
 
@@ -46,7 +46,7 @@ U kunt zien waarmee een onderwerp is gekoppeld in het [rechter paneel](https://s
 
 2. Of
 
-   Klik op de plusknop in de [section Onderwerpen](https://support.catenda.com/nl/articles/4670285-inspect-panel#h_8550da1056) van de inspectiesectie van het informatiepaneel.
+   Klik op de plusknop in de [section Onderwerpen](https://support.catenda.com/nl/articles/4670285-inspectmenu#h_8550da1056) van de inspectiesectie van het informatiepaneel.
 
    of
 

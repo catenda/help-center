@@ -2,9 +2,9 @@
 
 > Verbind Catenda met je favoriete tool
 
-> **Tip:** Zoek [stap 5](https://support.catenda.com/nl/articles/10576182-step-5-topics) in [aan de slag](https://support.catenda.com/nl/collections/2657208-getting-started) in het helpcentrum of in het helpmenu.
+> **Tip:** Zoek [stap 5](https://support.catenda.com/nl/articles/10576182-stap-5-onderwerpen) in [aan de slag](https://support.catenda.com/nl/collections/2657208-aan-de-slag) in het helpcentrum of in het helpmenu.
 
-## 1. \*\*([Koppelingen downloaden](https://support.catenda.com/nl/articles/8396532-catenda-connections))
+## 1. \*\*([Koppelingen downloaden](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties))
 
 ## 2. **Desktop Connector**
 
@@ -32,6 +32,6 @@
 - Zoek clash-objecten in Revit
 - Maak BCF-topics (2D en 3D) in Revit
 
-_Verder lezen:_ [Catenda Connections](https://support.catenda.com/nl/articles/8396532-catenda-connections), [Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/nl/articles/5085987-catenda-hub-navisworks-plugin), [Revit](https://support.catenda.com/nl/articles/4670334-catenda-hub-revit-plugin)
+_Verder lezen:_ [Catenda Connections](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties), [Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector), [Navisworks](https://support.catenda.com/nl/articles/5085987-catenda-navisworks-plugin), [Revit](https://support.catenda.com/nl/articles/4670334-catenda-revit-plugin)
 
-> **Opmerking:** Zoek [de eerste stap](https://support.catenda.com/nl/articles/9030303-step-1-account-setup) in [aan de slag](https://support.catenda.com/nl/collections/2657208-getting-started) in het helpcentrum of in het helpmenu.
+> **Opmerking:** Zoek [de eerste stap](https://support.catenda.com/nl/articles/9030303-stap-1-accountinstellingen) in [aan de slag](https://support.catenda.com/nl/collections/2657208-aan-de-slag) in het helpcentrum of in het helpmenu.

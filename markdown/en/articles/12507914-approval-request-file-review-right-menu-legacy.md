@@ -48,7 +48,7 @@ When the minimum amount of members as specified in the approval have submitted a
 
 ### 2.1 **Comment box**
 
-Enter a comment to add a comment to the review of this file. Comments follow the general rules of [formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts) on Catenda. Validations can be submitted without entering a comment.
+Enter a comment to add a comment to the review of this file. Comments follow the general rules of [formatting of posts](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox) on Catenda. Validations can be submitted without entering a comment.
 
 ### 2.2 **Comment**
 

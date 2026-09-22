@@ -1,6 +1,6 @@
 # Creating a new approval request - Legacy
 
-The new approval request action can be found by clicking on the action menu to the right of the green plus button on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page).
+The new approval request action can be found by clicking on the action menu to the right of the green plus button on the [approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy).
 
 ## 1. **Approval Header - The subject of an approval**
 
@@ -46,7 +46,7 @@ This is what the body of a new approval can look like:
 
 ### 1.8 **Description**
 
-The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts).
+The description of the approval follows the [general formatting rules of posts](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox).
 
 ### 1.9 **Drafts**
 

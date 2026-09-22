@@ -1,6 +1,6 @@
 # Schrittband in einer Freigabeanfrage
 
-Das Schrittband befindet sich oben auf der Seite einer [Entwurfs-](https://support.catenda.com/de/articles/12495175-draft-approval-request-page), [offenen oder geschlossenen](https://support.catenda.com/de/articles/12494960-open-or-closed-approval-request-page) Freigabeanfrage für Projekte, die Shared Revisions nach dem 2. Oktober 2025 aktiviert haben. Im Schrittband wird eine Vorschau aller Freigabeverifikationsschritte einer Freigabe angezeigt. So kann das Freigabeanfrage-Schrittband für eine Freigabeanfrage aussehen, bei der ein Freigabe-Workflow mit der maximalen Anzahl von Freigabeanfrage-Schritten ausgewählt ist:
+Das Schrittband befindet sich oben auf der Seite einer [Entwurfs-](https://support.catenda.com/de/articles/12495175-seite-fur-freigabeanfrage-entwurf), [offenen oder geschlossenen](https://support.catenda.com/de/articles/12494960-seite-offene-oder-geschlossene-freigabeanfrage) Freigabeanfrage für Projekte, die Shared Revisions nach dem 2. Oktober 2025 aktiviert haben. Im Schrittband wird eine Vorschau aller Freigabeverifikationsschritte einer Freigabe angezeigt. So kann das Freigabeanfrage-Schrittband für eine Freigabeanfrage aussehen, bei der ein Freigabe-Workflow mit der maximalen Anzahl von Freigabeanfrage-Schritten ausgewählt ist:
 
 ![Genehmigungsschrittband. Schritt 2 Fälligkeit Endgültige Genehmigung 10 Schritte](https://raw.githubusercontent.com/catenda/help-center/main/images/1bshvqk0/01-intro.png)
 

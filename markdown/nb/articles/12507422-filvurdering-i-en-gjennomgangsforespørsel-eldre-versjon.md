@@ -86,4 +86,4 @@ _Hold musepekeren_ Hold musepekeren over valideringsforhåndsvisningsboksen for 
 
 ### 6.3 **Dokumentforhåndsvisning**
 
-Dokumentforhåndsvisningen på gjennomgangsforespørselsvurderingssiden fungerer på samme måte som [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-document-preview-and-annotations) når du åpner et dokument fra dokumenttabellen.
+Dokumentforhåndsvisningen på gjennomgangsforespørselsvurderingssiden fungerer på samme måte som [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) når du åpner et dokument fra dokumenttabellen.

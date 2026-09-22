@@ -1,8 +1,8 @@
 # Rechtes Menü in einem Themen-Board
 
-Das rechte Menü auf der [Seite "Themen"](https://support.catenda.com/de/articles/4670271-topics-page) können Sie öffnen, indem Sie auf das Info-Symbol rechts neben der Suchleiste unterhalb des [Themen-Banners](https://support.catenda.com/de/articles/7986346-topic-banner-navigating-topics) klicken. Klicken Sie auf das Symbol, um ein Menü zu öffnen, das Informationen über ausgewählte Themen und Themen-Boards enthält.
+Das rechte Menü auf der [Seite "Themen"](https://support.catenda.com/de/articles/4670271-themen-seite) können Sie öffnen, indem Sie auf das Info-Symbol rechts neben der Suchleiste unterhalb des [Themen-Banners](https://support.catenda.com/de/articles/7986346-themen-banner-navigation-durch-themen) klicken. Klicken Sie auf das Symbol, um ein Menü zu öffnen, das Informationen über ausgewählte Themen und Themen-Boards enthält.
 
-So kann das [Themen-Banner](https://support.catenda.com/de/articles/7986346-topic-banner-navigating-topics) aussehen:
+So kann das [Themen-Banner](https://support.catenda.com/de/articles/7986346-themen-banner-navigation-durch-themen) aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/01-intro.png)
 
@@ -42,7 +42,7 @@ Zeigt "Keine Themen ausgewählt" an, wenn erweitert, wenn keine Themen ausgewäh
 
 ### 2.2 **1.2 Zugriffskontrolle für das Themen-Board**
 
-Wenn keine Themen ausgewählt sind, wird das Menü "Zugriffskontrolle für Themen-Board" nur angezeigt, wenn Sie zu einem einzelnen Themen-Board navigieren. Wählen Sie auf dem Board "Alle Themen" ein Thema aus, um die Zugriffskontrolle des Boards zu sehen, in dem sich dieses Thema befindet. Klicken Sie [hier](https://support.catenda.com/de/articles/4670296-topic-board-access-control), um mehr über die Zugriffskontrolle für Themen-Boards zu erfahren.
+Wenn keine Themen ausgewählt sind, wird das Menü "Zugriffskontrolle für Themen-Board" nur angezeigt, wenn Sie zu einem einzelnen Themen-Board navigieren. Wählen Sie auf dem Board "Alle Themen" ein Thema aus, um die Zugriffskontrolle des Boards zu sehen, in dem sich dieses Thema befindet. Klicken Sie [hier](https://support.catenda.com/de/articles/4670296-zugriffskontrolle-fur-themen-board), um mehr über die Zugriffskontrolle für Themen-Boards zu erfahren.
 
 ## 3. **3. Ein einzelnes Thema**
 
@@ -56,27 +56,27 @@ So kann das rechte Menü aussehen, wenn ein einzelnes Thema ausgewählt ist:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/07-3-1-update-selected-topic.png)
 
-**3.1.1 Themen-Header** So kann der [Themen-Header](https://support.catenda.com/de/articles/8400566-topic-header-the-subject-of-a-topic) aussehen:
+**3.1.1 Themen-Header** So kann der [Themen-Header](https://support.catenda.com/de/articles/8400566-themen-header-das-thema-eines-themas) aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/azwgqsc0/08-3-1-update-selected-topic.png)
 
-**3.1.2 Themen-Text** Unterhalb des Themen-Headers befindet sich der Themen-Text mit Beschreibung und Kommentaren. Von hier aus können Beschreibungen und Kommentare hinzugefügt und neue Kommentare erstellt werden. Klicken Sie [hier](https://support.catenda.com/de/articles/8053352-topic-body-the-content-of-a-topic), um mehr über den Themen-Text zu erfahren.
+**3.1.2 Themen-Text** Unterhalb des Themen-Headers befindet sich der Themen-Text mit Beschreibung und Kommentaren. Von hier aus können Beschreibungen und Kommentare hinzugefügt und neue Kommentare erstellt werden. Klicken Sie [hier](https://support.catenda.com/de/articles/8053352-themen-text-der-inhalt-eines-themas), um mehr über den Themen-Text zu erfahren.
 
 ### 3.2 **3.2 Dokumente**
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/8053299-right-menu-in-a-topic#h_b00b9c5150), um mehr über zugehörige Dokumente zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8053299-rechtes-menu-in-einem-thema#h_b00b9c5150), um mehr über zugehörige Dokumente zu erfahren.
 
 ### 3.3 **3.3 Objekte**
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/8053299-right-menu-in-a-topic#h_758f17abbc), um mehr über zugehörige Objekte zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8053299-rechtes-menu-in-einem-thema#h_758f17abbc), um mehr über zugehörige Objekte zu erfahren.
 
 ### 3.4 **3.4 Themen**
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/8053299-right-menu-in-a-topic#h_edf2cb07a8), um mehr über zugehörige Themen zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8053299-rechtes-menu-in-einem-thema#h_edf2cb07a8), um mehr über zugehörige Themen zu erfahren.
 
 ### 3.5 **3.5 Zugriffskontrolle für Themen-Board**
 
-Da ein einzelnes Thema sich immer in einem Themen-Board befindet, zeigt das Menü "Zugriffskontrolle für Themen-Board" den Zugriff auf das Themen-Board an, in dem sich das ausgewählte Thema befindet. Klicken Sie [hier](https://support.catenda.com/de/articles/4670296-topic-board-access-control), um mehr über die Zugriffskontrolle für Themen-Boards zu erfahren.
+Da ein einzelnes Thema sich immer in einem Themen-Board befindet, zeigt das Menü "Zugriffskontrolle für Themen-Board" den Zugriff auf das Themen-Board an, in dem sich das ausgewählte Thema befindet. Klicken Sie [hier](https://support.catenda.com/de/articles/4670296-zugriffskontrolle-fur-themen-board), um mehr über die Zugriffskontrolle für Themen-Boards zu erfahren.
 
 **Zugriff konfigurieren** Klicken Sie auf "Zugriff konfigurieren", um den Zugriff auf das Themen-Board zu bearbeiten, in dem sich das ausgewählte Thema befindet. _Erforderlicher Zugriff:_ Administrator
 

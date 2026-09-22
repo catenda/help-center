@@ -1,6 +1,6 @@
 # Catenda Desktop Connector
 
-> **Opmerking:** Het installatiebestand voor deze toepassing is [hier](https://support.catenda.com/nl/articles/8396532-catenda-plugins-and-integrations) te vinden
+> **Opmerking:** Het installatiebestand voor deze toepassing is [hier](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties) te vinden
 
 Met de Catenda Desktop Connector kunt u uploads en downloads van de nieuwste versies van Documenten plannen.
 

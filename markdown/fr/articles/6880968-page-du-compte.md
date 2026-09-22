@@ -45,7 +45,7 @@ Dans [préférences](https://bimsync.com/account/preferences), il est possible d
 
 ### 2.1 **Langue**
 
-[Changer la langue](https://support.catenda.com/fr/articles/4670248-changing-to-your-preferred-language) de Catenda Hub
+[Changer la langue](https://support.catenda.com/fr/articles/4670248-modification-de-la-langue-preferee) de Catenda Hub
 
 ### 2.2 **Date et heure**
 
@@ -57,9 +57,9 @@ Dans [authentification](https://bimsync.com/account/authentication), il est poss
 
 1. Modifier votre mot de passe
 
-    Cliquez [ici](https://support.catenda.com/fr/articles/10798891-sign-in-and-passwords) pour le dépannage des mots de passe
+    Cliquez [ici](https://support.catenda.com/fr/articles/10798891-connexion-et-mots-de-passe) pour le dépannage des mots de passe
 
-1. [Activer et désactiver l'AMF.](https://support.catenda.com/fr/articles/4969891-multi-factor-authentication)
+1. [Activer et désactiver l'AMF.](https://support.catenda.com/fr/articles/4969891-authentification-multi-facteurs)
 
 ![Contrôlez votre connexion](https://raw.githubusercontent.com/catenda/help-center/main/images/e4w10q5d/07-authentication.png)
 
@@ -83,6 +83,6 @@ Chaque application API est connectée à un compte Catenda. La configuration de 
 
 ### 4.2 **Applications ayant accès à votre compte**
 
-Les applications auxquelles l'accès au compte a été accordé sont affichées. Cliquez [ici](https://support.catenda.com/fr/articles/8396532-catenda-connections) pour voir quelles applications peuvent être connectées.
+Les applications auxquelles l'accès au compte a été accordé sont affichées. Cliquez [ici](https://support.catenda.com/fr/articles/8396532-plugins-et-integrations-catenda) pour voir quelles applications peuvent être connectées.
 
 **Révoquer l'accès** Cliquez sur révoquer l'accès pour révoquer l'accès qui a été accordé à cette application. Après cela, l'accès devra être accordé à nouveau pour continuer à utiliser cette application avec ce compte. Selon l'application, elle peut demander à l'utilisateur d'accorder à nouveau l'accès ou elle peut donner une erreur et ne pas demander un nouvel accès. Se déconnecter et se reconnecter réinitialise souvent la connexion dans ce cas.

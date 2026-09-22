@@ -1,6 +1,6 @@
 # Page de contenu de l'export de modèle
 
-Cliquez sur la carte d'un export dans la liste des exports sur la [page des exports de modèles](https://support.catenda.com/fr/articles/4670280-model-export) pour accéder à la page de contenu de cet export. Voici à quoi peut ressembler la page de contenu de l'export de modèle :
+Cliquez sur la carte d'un export dans la liste des exports sur la [page des exports de modèles](https://support.catenda.com/fr/articles/4670280-page-d-export-de-modele) pour accéder à la page de contenu de cet export. Voici à quoi peut ressembler la page de contenu de l'export de modèle :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3ajw00qp/01-intro.png)
 

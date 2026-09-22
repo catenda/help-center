@@ -6,7 +6,7 @@ Begin met het uitlijnen van uw 2D-plan op de gewenste manier met behulp van de [
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xyh08ptx/01-clipping-in-the-model-from-2d.png)
 
-U kunt nu [de uitsnijdingsvlakken verplaatsen](https://support.catenda.com/nl/articles/4670253-clipping-planes#moving-the-clipping-plane) op de normale manier door het relevante vlak in de clipping widget (linksonder) te selecteren, of door "Shift" ingedrukt te houden en op het vlak in de viewer te klikken. Vlakken kunnen [verwijderd](https://support.catenda.com/nl/articles/4670253-clipping-planes#remove-clipping-planes) worden afzonderlijk door een vlak te selecteren en "Del" in te drukken, of allemaal tegelijk door ergens in de 3D-viewer met de rechtermuisknop te klikken en "Remove clipping planes" te selecteren
+U kunt nu [de uitsnijdingsvlakken verplaatsen](https://support.catenda.com/nl/articles/4670253-doorsnede-vlakken#moving-the-clipping-plane) op de normale manier door het relevante vlak in de clipping widget (linksonder) te selecteren, of door "Shift" ingedrukt te houden en op het vlak in de viewer te klikken. Vlakken kunnen [verwijderd](https://support.catenda.com/nl/articles/4670253-doorsnede-vlakken#remove-clipping-planes) worden afzonderlijk door een vlak te selecteren en "Del" in te drukken, of allemaal tegelijk door ergens in de 3D-viewer met de rechtermuisknop te klikken en "Remove clipping planes" te selecteren
 
 ### **Objecten selecteren vanuit 2D**
 

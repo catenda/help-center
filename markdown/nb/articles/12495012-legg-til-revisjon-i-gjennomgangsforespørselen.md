@@ -1,6 +1,6 @@
 # Legg til revisjon i gjennomgangsforespørselen
 
-Gjennomgangsforespørsler kan ses i prosjekter der delte revisjoner ble aktivert etter 2. oktober 2025. Når delte revisjoner er aktivert, lastes alle nye revisjoner opp som delte revisjoner. Delte revisjoner kan legges til en gjennomgangsforespørsel ved å klikke på knappen legg til revisjon i [dialogboksen opprett gjennomgangsforespørsel](https://support.catenda.com/nb/articles/12360159-creating-a-new-approval-request) og ved å klikke på knappen legg til revisjon i et utkast til gjennomgang. Dette er hvordan dialogboksen legg til revisjon i gjennomgangsforespørsel som åpnes kan se ut for prosjekter som aktiverte delte revisjoner etter
+Gjennomgangsforespørsler kan ses i prosjekter der delte revisjoner ble aktivert etter 2. oktober 2025. Når delte revisjoner er aktivert, lastes alle nye revisjoner opp som delte revisjoner. Delte revisjoner kan legges til en gjennomgangsforespørsel ved å klikke på knappen legg til revisjon i [dialogboksen opprett gjennomgangsforespørsel](https://support.catenda.com/nb/articles/12360159-opprette-en-ny-gjennomgangforesporsel-eldre-versjon) og ved å klikke på knappen legg til revisjon i et utkast til gjennomgang. Dette er hvordan dialogboksen legg til revisjon i gjennomgangsforespørsel som åpnes kan se ut for prosjekter som aktiverte delte revisjoner etter
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qk34ake7/01-intro.png)
 
@@ -18,7 +18,7 @@ Ved å klikke på filterknappen vil et panel dukke opp på venstre side. Merk av
 
 ### 1.2 Lagrede filtre
 
-Klikk [her](https://support.catenda.com/nb/articles/8551755-saving-filters) for å lese mer om hvordan du lagrer et sett med filtre
+Klikk [her](https://support.catenda.com/nb/articles/8551755-begrenser-filterresultater) for å lese mer om hvordan du lagrer et sett med filtre
 
 ### 1.3 Filtre
 
@@ -44,7 +44,7 @@ Er ikke modell Delte revisjoner i dokumenter i gjeldende mappe og undermapper so
 
 **Revisjon opprettet av** Delte revisjoner i dokumenter i gjeldende mappe og undermapper opprettet av <username>. Tallet bak filteret viser antallet delte revisjoner i dokumenter i gjeldende mappe og undermapper av hver bruker.
 
-**Datumfiltre** Klikk på velg datoer for å velge datoer mellom som du vil søke. Klikk [her](https://support.catenda.com/nb/articles/6511685-date-filter) for å lese mer om datumfilteret.
+**Datumfiltre** Klikk på velg datoer for å velge datoer mellom som du vil søke. Klikk [her](https://support.catenda.com/nb/articles/6511685-datofilter) for å lese mer om datumfilteret.
 
 **Merkelappgruppe** Dokumenter med delte revisjoner med merkelapper etter merkelappnavn innenfor en merkelappgruppe. Tallet bak filteret viser antallet dokumenter med delte revisjoner i dokumenter der merkelappen brukes i gjeldende mappe og undermapper.
 
@@ -60,7 +60,7 @@ Dette er hvordan tabellen legg til revisjon kan se ut
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qk34ake7/03-add-revision-table.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda.
+Klikk [her](https://support.catenda.com/nb/articles/11748020-tabeller-pa-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda.
 
 ### 2.1 Radinnhold
 

@@ -1,6 +1,6 @@
 # Visionneuse 3D
 
-Vous pourrez trouver la visionneuse 3D comme l'un des quatre panneaux principaux qui peuvent être ouverts en haut à droite de votre écran. Vous pouvez soit appuyer sur l'icône 3D pour ouvrir ce panneau, soit appuyer sur [shift+2](https://support.catenda.com/fr/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=3D%20viewer-,Shift%20%2B%202,-Trees%20panel).
+Vous pourrez trouver la visionneuse 3D comme l'un des quatre panneaux principaux qui peuvent être ouverts en haut à droite de votre écran. Vous pouvez soit appuyer sur l'icône 3D pour ouvrir ce panneau, soit appuyer sur [shift+2](https://support.catenda.com/fr/articles/4670267-resume-des-raccourcis-et-commandes-de-base-les-plus-importants#:~:text=3D%20viewer-,Shift%20%2B%202,-Trees%20panel).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/01-intro.png)
 
@@ -14,13 +14,13 @@ Les modèles peuvent être chargés dans la visionneuse 3D de plusieurs manière
 
 ### 1.1 **Sélecteur de révision**
 
-Si vous n'avez pas encore chargé de modèles, vous pourrez charger et décharger des modèles en ouvrant la liste déroulante du sélecteur de révision. Cliquez [ici](https://support.catenda.com/fr/articles/4670279-revision-selector) pour en savoir plus sur le sélecteur de révision
+Si vous n'avez pas encore chargé de modèles, vous pourrez charger et décharger des modèles en ouvrant la liste déroulante du sélecteur de révision. Cliquez [ici](https://support.catenda.com/fr/articles/4670279-selecteur-de-revision) pour en savoir plus sur le sélecteur de révision
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/03-revision-selector.png)
 
 ### 1.2 **Liste déroulante de grille**
 
-S'il y a des modèles dans vos projets qui contiennent des grilles, vous pourrez les charger dans la visionneuse avec cette liste déroulante. Cliquez [ici](https://support.catenda.com/fr/articles/4670327-showing-grids) pour en savoir plus sur les grilles dans la visionneuse 3D.
+S'il y a des modèles dans vos projets qui contiennent des grilles, vous pourrez les charger dans la visionneuse avec cette liste déroulante. Cliquez [ici](https://support.catenda.com/fr/articles/4670327-menu-deroulant-du-plan-glissant) pour en savoir plus sur les grilles dans la visionneuse 3D.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/04-grid-dropdown.png)
 
@@ -100,7 +100,7 @@ Voici à quoi peut ressembler le menu des vues :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/10-view.png)
 
-> **Remarque :** Assurez-vous que le matériel et les logiciels sur lesquels Catenda est ouvert sont configurés [selon les recommandations](https://support.catenda.com/fr/articles/6921941-hardware-recommendation) car cela peut affecter l'affichage de la visionneuse.
+> **Remarque :** Assurez-vous que le matériel et les logiciels sur lesquels Catenda est ouvert sont configurés [selon les recommandations](https://support.catenda.com/fr/articles/6921941-recommandation-materielle) car cela peut affecter l'affichage de la visionneuse.
 
 **Régulier** Par défaut, la vue régulière est sélectionnée. Lignes fines d'affichage d'objets précis. Excellent pour les mesures.
 
@@ -110,11 +110,11 @@ Puisqu'il n'y a pas de soleil ou de lumière artificielle dans la visionneuse Ca
 
 **Contour** Le cell shading transforme les lignes sur les coins avec des angles s'éloignant de vous en lignes plus épaisses tandis que les lignes sur les coins se tournant vers vous deviennent des lignes plus fines. Cela crée une couche supplémentaire de profondeur, mais les lignes épaisses pourraient couvrir les mesures précises. Contour est une excellente vue pour exporter des images.
 
-> **Remarque :** Assurez-vous que le matériel et les logiciels sur lesquels Catenda est ouvert sont configurés [selon les recommandations](https://support.catenda.com/fr/articles/6921941-hardware-recommendation) car cela peut affecter la netteté des lignes.
+> **Remarque :** Assurez-vous que le matériel et les logiciels sur lesquels Catenda est ouvert sont configurés [selon les recommandations](https://support.catenda.com/fr/articles/6921941-recommandation-materielle) car cela peut affecter la netteté des lignes.
 
 **Esquisse** Idéal pour les réunions avec des parties externes qui ont besoin d'un affichage simple du modèle. Les objets sans couleur spécifiée dans l'IFC seront colorés avec des tons de gris et une texture pour que les surfaces ne paraissent pas aussi parfaitement plates. Les fenêtres resteront leur couleur bleue habituelle transparente.
 
-> **Remarque :** Assurez-vous que le matériel et les logiciels sur lesquels Catenda est ouvert sont configurés [selon les recommandations](https://support.catenda.com/fr/articles/6921941-hardware-recommendation) car cela peut affecter la netteté des lignes.
+> **Remarque :** Assurez-vous que le matériel et les logiciels sur lesquels Catenda est ouvert sont configurés [selon les recommandations](https://support.catenda.com/fr/articles/6921941-recommandation-materielle) car cela peut affecter la netteté des lignes.
 
 ## 4. **Liste déroulante d'outils**
 
@@ -128,7 +128,7 @@ La liste déroulante d'outils peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/12-tool-dropdown.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/4670294-measuring-features) pour en savoir plus sur la liste déroulante des outils.
+Cliquez [ici](https://support.catenda.com/fr/articles/4670294-menu-des-outils-de-la-visionneuse-3d) pour en savoir plus sur la liste déroulante des outils.
 
 ## 5. **Joystick**
 
@@ -150,13 +150,13 @@ Avec la liste déroulante à côté du joystick, vous pouvez configurer l'emplac
 
 ## 6. **Paramètres de la visionneuse 3D**
 
-Cliquez sur ce bouton pour ouvrir la liste déroulante des [paramètres de la visionneuse 3D](https://support.catenda.com/fr/articles/5784718-3d-viewer-settings)
+Cliquez sur ce bouton pour ouvrir la liste déroulante des [paramètres de la visionneuse 3D](https://support.catenda.com/fr/articles/5784718-parametres-de-la-visionneuse-3d)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/15-br-3d-viewer-settings.png)
 
 ## 7. **Bouton 2D**
 
-Cliquez sur ce bouton pour ouvrir la [visionneuse 2D](https://support.catenda.com/fr/articles/4854537-2d-viewer)
+Cliquez sur ce bouton pour ouvrir la [visionneuse 2D](https://support.catenda.com/fr/articles/4854537-visionneuse-2d)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gkxpq62p/16-2d-button.png)
 
@@ -204,8 +204,8 @@ Si vous avez choisi de fermer le pied de page d'information, vous pouvez le rouv
 
 ## 9. **Menu des options**
 
-Si vous cliquez avec le bouton droit dans la visionneuse 3D, le [menu des options](https://support.catenda.com/fr/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Double%20click-,Options%20menu,-Show%20all) s'affichera.
+Si vous cliquez avec le bouton droit dans la visionneuse 3D, le [menu des options](https://support.catenda.com/fr/articles/4670267-resume-des-raccourcis-et-commandes-de-base-les-plus-importants#:~:text=Double%20click-,Options%20menu,-Show%20all) s'affichera.
 
 ## 10. **Exporter une image**
 
-Le meilleur moyen d'exporter une image à partir de la visionneuse 3D est de faire une [capture 3D](https://support.catenda.com/fr/articles/8053352-issue-body#h_1ba7f8873f).
+Le meilleur moyen d'exporter une image à partir de la visionneuse 3D est de faire une [capture 3D](https://support.catenda.com/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet#h_1ba7f8873f).

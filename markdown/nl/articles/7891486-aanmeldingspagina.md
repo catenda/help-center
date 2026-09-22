@@ -27,11 +27,11 @@ Als het verkeerde e-mailadres is ingevoerd, wijzigt u eenvoudig het adres en wor
 
 ## 2. **Wachtwoord**
 
-Hier kan het wachtwoord dat overeenkomt met het account dat onder het opgegeven e-mailadres is geregistreerd, worden ingevoerd. Klik [hier](https://support.catenda.com/nl/articles/10798891-sign-in-and-passwords) voor het oplossen van wachtwoordproblemen.
+Hier kan het wachtwoord dat overeenkomt met het account dat onder het opgegeven e-mailadres is geregistreerd, worden ingevoerd. Klik [hier](https://support.catenda.com/nl/articles/10798891-inloggen-en-wachtwoorden) voor het oplossen van wachtwoordproblemen.
 
 ## 3. **Aanmelden**
 
-Klik op Aanmelden om de ingevoerde gegevens te verifiëren. Na het succesvol voltooien van het verificatieproces worden gebruikers omgeleid naar de [projectenpagina](https://support.catenda.com/nl/articles/4670260-projects-page).
+Klik op Aanmelden om de ingevoerde gegevens te verifiëren. Na het succesvol voltooien van het verificatieproces worden gebruikers omgeleid naar de [projectenpagina](https://support.catenda.com/nl/articles/4670260-accountknoppen).
 
 ## 4. **MFA**
 

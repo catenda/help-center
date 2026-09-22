@@ -1,8 +1,8 @@
 # Catenda SharePoint-toepassing
 
-> **Opmerking:** Het installatiebestand voor de plugin is te vinden in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/8396532-catenda-plugins-and-integrations).
+> **Opmerking:** Het installatiebestand voor de plugin is te vinden in [dit artikel](https://intercom.help/bimsync-arena/nl/articles/8396532-catenda-invoegtoepassingen-integraties).
 
-Als de Catenda SharePoint-toepassing aan een SharePoint-site is toegevoegd, kunnen bestanden van SharePoint naar Catenda worden gepubliceerd en kan de Catenda-documentstructuur in SharePoint worden weergegeven. Wanneer geconfigureerd, kan de toepassing er als volgt uitzien: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/> Dit artikel bevat informatie over hoe deze toepassing werkt Zie [hier](https://support.catenda.com/nl/articles/9419678-catenda-sharepoint-faq) voor meer informatie over hoe deze toepassing nuttig kan zijn. Zie [hier](https://support.catenda.com/nl/articles/9453368-adding-and-removing-the-catendasp-app) voor het toevoegen van de SharePoint-toepassing aan een site.
+Als de Catenda SharePoint-toepassing aan een SharePoint-site is toegevoegd, kunnen bestanden van SharePoint naar Catenda worden gepubliceerd en kan de Catenda-documentstructuur in SharePoint worden weergegeven. Wanneer geconfigureerd, kan de toepassing er als volgt uitzien: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/> Dit artikel bevat informatie over hoe deze toepassing werkt Zie [hier](https://support.catenda.com/nl/articles/9419678-catenda-sharepoint-veelgestelde-vragen) voor meer informatie over hoe deze toepassing nuttig kan zijn. Zie [hier](https://support.catenda.com/nl/articles/9453368-de-catendasp-app-toevoegen-en-verwijderen) voor het toevoegen van de SharePoint-toepassing aan een site.
 
 De volgende topics zijn beschreven in dit artikel:
 
@@ -10,7 +10,7 @@ De volgende topics zijn beschreven in dit artikel:
 
 Met het lijstcommando is het mogelijk om een of meer bestanden naar Catenda te publiceren.
 
-> **Opmerking:** Het is alleen mogelijk om bestanden te publiceren. Mapstructuren kunnen worden gedownload van SharePoint en naar Catenda worden geüpload via [zip-upload](https://support.catenda.com/nl/articles/7945410-upload-a-zip-file-structure) of [Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector).
+> **Opmerking:** Het is alleen mogelijk om bestanden te publiceren. Mapstructuren kunnen worden gedownload van SharePoint en naar Catenda worden geüpload via [zip-upload](https://support.catenda.com/nl/articles/7945410-een-zip-bestandsstructuur-uploaden) of [Desktop Connector](https://support.catenda.com/nl/articles/8358861-catenda-desktop-connector).
 
 De volgende topics zijn beschreven in deze sectie:
 
@@ -74,8 +74,8 @@ Het verificatievenster kan er ongeveer als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/09-authorizing-your-catenda-account.png)
 
-Door de app toegang tot uw account te geven, kunt u documenten van SharePoint naar elk deel van uw Catenda-project(en) publiceren waartoe u schrijftoegang hebt in de [documentsectie](https://support.catenda.com/nl/articles/8204673-documents-page). Als een webpart aan een pagina op uw site is toegevoegd, kunt u ook alle documenten zien waartoe u leestoegang hebt in het Catenda-project dat is geconfigureerd door de persoon die de webpart heeft toegevoegd. Met de webpart kunt u ook documenten van uw systeem naar elk deel van het geconfigureerde Catenda-project publiceren waartoe u schrijftoegang hebt in de [documentsectie](https://support.catenda.com/nl/articles/8204673-documents-page).
+Door de app toegang tot uw account te geven, kunt u documenten van SharePoint naar elk deel van uw Catenda-project(en) publiceren waartoe u schrijftoegang hebt in de [documentsectie](https://support.catenda.com/nl/articles/8204673-documentenpagina). Als een webpart aan een pagina op uw site is toegevoegd, kunt u ook alle documenten zien waartoe u leestoegang hebt in het Catenda-project dat is geconfigureerd door de persoon die de webpart heeft toegevoegd. Met de webpart kunt u ook documenten van uw systeem naar elk deel van het geconfigureerde Catenda-project publiceren waartoe u schrijftoegang hebt in de [documentsectie](https://support.catenda.com/nl/articles/8204673-documentenpagina).
 
 > **Opmerking:** Catenda heeft geen toegang tot uw SharePoint-documenten. Als u een document naar Catenda publiceert, ontvangt Catenda het in een eenrichtingstransactie.
 
-Als u de app niet langer toegang tot uw Catenda-account wilt geven, kunt u de toegang altijd intrekken op de [toepassingenpagina](https://support.catenda.com/nl/articles/6880968-account-page#h_40e031c49a) van uw Catenda-account.
+Als u de app niet langer toegang tot uw Catenda-account wilt geven, kunt u de toegang altijd intrekken op de [toepassingenpagina](https://support.catenda.com/nl/articles/6880968-accountpagina#h_40e031c49a) van uw Catenda-account.

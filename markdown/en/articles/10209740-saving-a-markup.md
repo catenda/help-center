@@ -2,7 +2,7 @@
 
 Select an [annotation tool](https://support.catenda.com/en/articles/11384618-document-preview-tools) from the toolbar above the [document preview](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations). Place the annotation to see the unsaved markups menu in the [markups tab](https://support.catenda.com/en/articles/10205725-right-menu-of-a-revision-markups) of the right menu of a revision.
 
-Whan a document is first opened the right menu of the revision might be closed. Click on the information button on the right side of the [document banner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) to expand this menu.
+Whan a document is first opened the right menu of the revision might be closed. Click on the information button on the right side of the [document banner](https://support.catenda.com/en/articles/8461918-document-banner-navigation) to expand this menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/01-intro.png)
 

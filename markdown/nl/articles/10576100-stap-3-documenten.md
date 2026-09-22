@@ -2,7 +2,7 @@
 
 > Upload en download, bekijk en communiceer over projectdocumenten
 
-> **Tip:** Vind [stap 2](https://support.catenda.com/nl/articles/10576075-step-2-interface) in [aan de slag](https://support.catenda.com/nl/collections/2657208-getting-started) in het helpcentrum of in het helpmenu.
+> **Tip:** Vind [stap 2](https://support.catenda.com/nl/articles/10576075-stap-2-interface) in [aan de slag](https://support.catenda.com/nl/collections/2657208-aan-de-slag) in het helpcentrum of in het helpmenu.
 
 ## 1. **Uploaden**
 
@@ -38,6 +38,6 @@ Gebruik de annotatiehulpmiddelen om gebieden te identificeren waarmee u met ande
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/mdxrvj2r/06-markups.png)
 
-_Verder lezen:_ [Uploaden](https://support.catenda.com/nl/articles/4670278-uploading-a-document), [Documenten filteren](https://support.catenda.com/nl/articles/4670283-filtering-on-the-documents-page), [Documentacties](https://support.catenda.com/nl/articles/4670288-actions-in-the-document-structure), [Weergeven](https://support.catenda.com/nl/articles/4670320-previewing-file-types-on-catenda-hub), [Annotaties](https://support.catenda.com/nl/articles/10210710-keep-track-of-annotations-with-markups)
+_Verder lezen:_ [Uploaden](https://support.catenda.com/nl/articles/4670278-een-document-uploaden), [Documenten filteren](https://support.catenda.com/nl/articles/4670283-filteren-op-de-documentenpagina), [Documentacties](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel), [Weergeven](https://support.catenda.com/nl/articles/4670320-bestandstypen-bekijken-op-catenda-hub), [Annotaties](https://support.catenda.com/nl/articles/10210710-houd-aantekeningen-met-markeringen-bij)
 
-> **Opmerking:** Vind [stap 4](https://support.catenda.com/nl/articles/10576177-step-4-models) in [aan de slag](https://support.catenda.com/nl/collections/2657208-getting-started) in het helpcentrum of in het helpmenu.
+> **Opmerking:** Vind [stap 4](https://support.catenda.com/nl/articles/10576177-stap-4-modellen) in [aan de slag](https://support.catenda.com/nl/collections/2657208-aan-de-slag) in het helpcentrum of in het helpmenu.

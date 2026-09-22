@@ -10,7 +10,7 @@ Het is alleen mogelijk om het dialoogvenster voor een nieuw goedkeuringsverzoek 
 
 ## 2. **Tabblad Overzicht - Een goedkeuringsverzoek sluiten**
 
-Bij het sluiten van een goedkeuring kan het publiceren mislukken. Op het [tabblad overzicht](https://support.catenda.com/nl/articles/12495126-overview-tab-in-an-approval-request) van de goedkeuring kunt u het volgende zien:
+Bij het sluiten van een goedkeuring kan het publiceren mislukken. Op het [tabblad overzicht](https://support.catenda.com/nl/articles/12495126-overzichtstabblad-in-een-beoordelingsverzoek) van de goedkeuring kunt u het volgende zien:
 
 ![Publishing failed Published 1 document. Failed to update 1 document view details](https://raw.githubusercontent.com/catenda/help-center/main/images/atct6we8/02-overview-tab-closing-an-approval-request.png)
 

@@ -72,7 +72,7 @@ In the task itself the following can be seen:
 
 `Not all folders have been downloaded, click to view errors.`
 
-Click [here](https://support.catenda.com/en/articles/13772277-desktop-connector-troubleshooting-not-all-folders-have-been-downloaded) to read more about what the problem could be with this error.
+Click [here](https://support.catenda.com/en/articles/13772277-desktop-connector-not-all-folders-downloaded) to read more about what the problem could be with this error.
 
 ## 5. **Latest revision withdrawn**
 

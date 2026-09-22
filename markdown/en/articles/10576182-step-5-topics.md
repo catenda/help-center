@@ -8,6 +8,6 @@ Topics is where you have your communication channels in the form of topic boards
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xq3fys5n/01-intro.png)
 
-_Further reading:_ [List view](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board), [Table view](https://support.catenda.com/en/articles/6941099-table-view-in-an-topic-board), [Topic board actions](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board), [Topic board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings)
+_Further reading:_ [List view](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board), [Table view](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board), [Topic board actions](https://support.catenda.com/en/articles/4670284-topics-table-actions), [Topic board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings-page)
 
 > **Note:** Find [step 6](https://support.catenda.com/en/articles/10576187-step-6-plugins-and-integrations) in [getting started](https://support.catenda.com/en/collections/2657208-getting-started) on the help center or in the help menu.

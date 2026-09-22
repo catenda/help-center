@@ -16,52 +16,52 @@ Wenn neue Funktionen veröffentlicht werden und Fehler behoben werden, werden Ar
 
 ### 1.1 **Neue Artikel:**
 
-**Produktfunktionen** [Dokumentvorschau-Tools](https://support.catenda.com/de/articles/11384618-document-preview-tools) [Meilenstein-Seite](https://support.catenda.com/de/articles/11376858-milestone-page)
+**Produktfunktionen** [Dokumentvorschau-Tools](https://support.catenda.com/de/articles/11384618-dokumentvorschau-tools) [Meilenstein-Seite](https://support.catenda.com/de/articles/11376858-meilenstein-inhaltsseite)
 
-**Fehlerbehebung** [Anmeldung und Passwörter](https://support.catenda.com/de/articles/10798891-sign-in-and-passwords) [Desktop Connector Fehlerbehebung](https://support.catenda.com/de/articles/11019637-desktop-connector-troubleshooting) [ZIP-Upload-Fehlerbehebung](https://support.catenda.com/de/articles/11017391-zip-upload-troubleshooting) [2D-Viewer Gebäude und Geschosse](https://support.catenda.com/de/articles/10901703-2d-viewer-buildings-and-storeys) [Fehlerbehebung beim Dokument-Upload-Dialog](https://support.catenda.com/de/articles/11070748-upload-document-dialogue-troubleshooting) [Solibri-Dokumente-Integrations-Fehlerbehebung](https://support.catenda.com/de/articles/11431097-solibri-documents-integration-troubleshooting)
+**Fehlerbehebung** [Anmeldung und Passwörter](https://support.catenda.com/de/articles/10798891-anmelden-und-passworter) [Desktop Connector Fehlerbehebung](https://support.catenda.com/de/articles/11019637-fehlerbehebung-fur-desktop-connector) [ZIP-Upload-Fehlerbehebung](https://support.catenda.com/de/articles/11017391-fehlerbehebung-beim-zip-upload) [2D-Viewer Gebäude und Geschosse](https://support.catenda.com/de/articles/10901703-2d-viewer-gebaude-und-geschosse) [Fehlerbehebung beim Dokument-Upload-Dialog](https://support.catenda.com/de/articles/11070748-fehlerbehebung-im-upload-dokument-dialog) [Solibri-Dokumente-Integrations-Fehlerbehebung](https://support.catenda.com/de/articles/11431097-fehlerbehebung-bei-der-solibri-dokumentintegration)
 
 **Tutorials und Leitfäden** [Guidde-Videos](https://support.catenda.com/de/articles/11055278-guidde-videos)
 
-**Häufig gestellte Fragen** [Einen Filter-Link speichern](https://support.catenda.com/de/articles/11401493-saving-a-filter-link) [Catenda Desktop Connector FAQ](https://support.catenda.com/de/articles/11582835-catenda-desktop-connector-faq)
+**Häufig gestellte Fragen** [Einen Filter-Link speichern](https://support.catenda.com/de/articles/11401493-speichern-und-freigeben-eines-filterlinks) [Catenda Desktop Connector FAQ](https://support.catenda.com/de/articles/11582835-catenda-desktop-connector-faq)
 
 ### 1.2 **Artikel, die sich geändert haben:**
 
 **Produktfunktionen**
 
 - Modelle
-    - [Modellseiten-Aktionen](https://support.catenda.com/de/articles/9431936-models-page-actions)
-    - [Modell-Übersichtsseiten-Aktionen](https://support.catenda.com/de/articles/9674157-model-overview-page-actions)
-    - [Mengenabrechnung (QTO)](https://support.catenda.com/de/articles/6673929-quantity-take-off-qto)
+    - [Modellseiten-Aktionen](https://support.catenda.com/de/articles/9431936-aktionen-auf-der-seite-modelle)
+    - [Modell-Übersichtsseiten-Aktionen](https://support.catenda.com/de/articles/9674157-aktionen-auf-der-seite-modellinhalte)
+    - [Mengenabrechnung (QTO)](https://support.catenda.com/de/articles/6673929-mengenermittlung-qto)
 - Themen
-    - [Meilenstein-Seite](https://support.catenda.com/de/articles/4670266-milestones-page)
+    - [Meilenstein-Seite](https://support.catenda.com/de/articles/4670266-seite-milestones)
 - Dokumente
-    - [Rechtes Menü einer Version - Versionsinformationen](https://support.catenda.com/de/articles/8302244-right-menu-of-a-revision-revision-info)
-    - [Dokumentstruktur-Aktionen](https://support.catenda.com/de/articles/4670288-document-structure-actions)
-    - [Dokumentversions-Aktionen](https://support.catenda.com/de/articles/9323521-document-revision-actions)
+    - [Rechtes Menü einer Version - Versionsinformationen](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen)
+    - [Dokumentstruktur-Aktionen](https://support.catenda.com/de/articles/4670288-dokumenttabellen-aktionen)
+    - [Dokumentversions-Aktionen](https://support.catenda.com/de/articles/9323521-dokumentrevisions-aktionen)
     - [Dokumentvorschau und Anmerkungen](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=4496538&activeContentType=article&editorMode=view&search=document%20preview)
-    - [Spalten auf der Dokumentenseite](https://support.catenda.com/de/articles/8466850-columns-on-the-documents-page)
-    - [Versionspublikation - ISO 19650](https://support.catenda.com/de/articles/9874698-revision-publishing-iso-19650)
-    - [ZIP-/Dateistruktur hochladen](https://support.catenda.com/de/articles/7945410-upload-a-zip-file-structure)
-    - [Sammlungsseite](https://support.catenda.com/de/articles/6344318-collections-page)
+    - [Spalten auf der Dokumentenseite](https://support.catenda.com/de/articles/8466850-spalten-auf-der-dokumentseite)
+    - [Versionspublikation - ISO 19650](https://support.catenda.com/de/articles/9874698-neuer-status-workflow-iso-19650)
+    - [ZIP-/Dateistruktur hochladen](https://support.catenda.com/de/articles/7945410-zip-datei-dateistruktur-hochladen)
+    - [Sammlungsseite](https://support.catenda.com/de/articles/6344318-sammlungsseite)
 - Projekteinstellungen
-    - [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-project-settings-page)
-    - [Benutzerdefinierte Felder-Seite](https://support.catenda.com/de/articles/6550459-custom-fields-page)
-    - [Mitglieder-Seite](https://support.catenda.com/de/articles/4670291-members-page)
+    - [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen)
+    - [Benutzerdefinierte Felder-Seite](https://support.catenda.com/de/articles/6550459-seite-benutzerdefinierte-felder)
+    - [Mitglieder-Seite](https://support.catenda.com/de/articles/4670291-mitglieder-und-teams-seite)
 - 2D- und 3D-Viewer
-    - [3D Viewer-Werkzeugmenü](https://support.catenda.com/de/articles/4670294-3d-viewer-tool-menu)
+    - [3D Viewer-Werkzeugmenü](https://support.catenda.com/de/articles/4670294-3d-viewer-werkzeugmenu)
     - [3D Viewer](https://support.catenda.com/de/articles/8227211-3d-viewer)
-    - [Versionsauswahl](https://support.catenda.com/de/articles/4670279-revision-selector)
-    - [Punktwolken in Catenda Hub](https://support.catenda.com/de/articles/5606625-point-clouds-in-catenda-hub)
+    - [Versionsauswahl](https://support.catenda.com/de/articles/4670279-revisions-selector)
+    - [Punktwolken in Catenda Hub](https://support.catenda.com/de/articles/5606625-punktwolken-in-catenda-hub)
 - Catenda Plugins und Integrationen
     - [Catenda Desktop Connector](https://support.catenda.com/de/articles/8358861-catenda-desktop-connector)
-    - [Themenmenü - Catenda Site](https://support.catenda.com/de/articles/7734073-topics-menu-catenda-site)
-    - [Solibri Modelle und Dokumente Integration](https://support.catenda.com/de/articles/6988148-solibri-models-and-documents-integration)
+    - [Themenmenü - Catenda Site](https://support.catenda.com/de/articles/7734073-themen-menu-catenda-site)
+    - [Solibri Modelle und Dokumente Integration](https://support.catenda.com/de/articles/6988148-solibri-modelle-und-dokumentenintegration)
 
-**Fehlerbehebung** [Hardwareempfehlung](https://support.catenda.com/de/articles/6921941-hardware-recommendation) [Warum erhalte ich keine E-Mails?](https://support.catenda.com/de/articles/8417802-why-am-i-not-receiving-emails) [Supportschaltfläche Ort und Funktionalität](https://support.catenda.com/de/articles/8894066-support-button-location-and-functionality)
+**Fehlerbehebung** [Hardwareempfehlung](https://support.catenda.com/de/articles/6921941-hardwareempfehlung) [Warum erhalte ich keine E-Mails?](https://support.catenda.com/de/articles/8417802-warum-erhalte-ich-keine-e-mails) [Supportschaltfläche Ort und Funktionalität](https://support.catenda.com/de/articles/8894066-standort-und-funktionalitat-der-support-schaltflache)
 
-**Häufig gestellte Fragen** [Projektsicherheit](https://support.catenda.com/de/articles/8263256-project-security)
+**Häufig gestellte Fragen** [Projektsicherheit](https://support.catenda.com/de/articles/8263256-projektdatenschutz)
 
-Kürzliche Aktualisierungen [Modelle als Dokumente](https://support.catenda.com/de/articles/8064548-models-as-documents)
+Kürzliche Aktualisierungen [Modelle als Dokumente](https://support.catenda.com/de/articles/8064548-modelle-als-dokumente)
 
 ## 2. **Behobene Fehler**
 

@@ -1,6 +1,6 @@
 # Brukersiden - Organisasjonsverktøy
 
-Du finner brukersiden som en underside på [organisasjonens profilside](https://support.catenda.com/nb/articles/8497478-organization-profile-page). _Tilgang påkrevd:_ Organisasjonseier
+Du finner brukersiden som en underside på [organisasjonens profilside](https://support.catenda.com/nb/articles/8497478-organisasjonsprofil). _Tilgang påkrevd:_ Organisasjonseier
 
 Her vil du se en oversikt over alle brukerne som er en del av denne organisasjonen.
 
@@ -84,7 +84,7 @@ Fjern de valgte medlemmene fra organisasjonen
 
 Her vil du se en liste over brukere som er en del av organisasjonen din.
 
-> **Merk:** Dette er ikke alle brukere som er en del av prosjekter som tilhører organisasjonen din. Brukere som er en del av prosjekter kan finnes på [prosjektmedlemssiden](https://support.catenda.com/nb/articles/9003642-members-page-in-organization-tool).
+> **Merk:** Dette er ikke alle brukere som er en del av prosjekter som tilhører organisasjonen din. Brukere som er en del av prosjekter kan finnes på [prosjektmedlemssiden](https://support.catenda.com/nb/articles/9003642-prosjektmedlemskap-organisasjonsverktoy).
 
 ### 5.1 **Avmerkingsboks**
 

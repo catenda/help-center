@@ -1,6 +1,6 @@
 # ドキュメントメニュー - Catenda Site
 
-ドキュメントページは[メニュー](https://support.catenda.com/ja/articles/7338516-navigation-menu-catenda-site)から、またはボトムナビゲーションバーの問題ボタンをタップして見つけることができます。ここでは、ドキュメントを見つけたり、[ドキュメントをプレビュー](https://support.catenda.com/ja/articles/8975421-previewing-documents-on-catenda-site)したりできます。
+ドキュメントページは[メニュー](https://support.catenda.com/ja/articles/7338516-ナビゲーションメニュー-catenda-site)から、またはボトムナビゲーションバーの問題ボタンをタップして見つけることができます。ここでは、ドキュメントを見つけたり、[ドキュメントをプレビュー](https://support.catenda.com/ja/articles/8975421-catenda-siteのファイルタイプのプレビュー)したりできます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/01-intro.png)
 
@@ -16,7 +16,7 @@
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/03-document-filters.png)
 
-_フィルター:_ 右のフィルターボタンをクリックすると、[ドキュメントをラベルでフィルタリング](https://support.catenda.com/ja/articles/7854138-label-filter-catenda-site)できます。
+_フィルター:_ 右のフィルターボタンをクリックすると、[ドキュメントをラベルでフィルタリング](https://support.catenda.com/ja/articles/7854138-ラベル-フィルター-catenda-site)できます。
 
 _検索:_ 検索ボタンを使用すると、ドキュメント内を検索できます。
 
@@ -40,4 +40,4 @@ _ドキュメントドロップダウン:_ ドロップダウンメニューを�
 
 ### 2.2 **ドキュメントを開く**
 
-ドキュメントをタップしてドキュメントを開きます。ドキュメントをロードすると、オフラインの場合でも、ドキュメントが置かれているフォルダー内にいる限り、そのドキュメントを使用できます。Catenda Siteのドキュメントの詳細については、[ここ](https://support.catenda.com/ja/articles/8975421-previewing-documents-on-catenda-site)をお読みください。
+ドキュメントをタップしてドキュメントを開きます。ドキュメントをロードすると、オフラインの場合でも、ドキュメントが置かれているフォルダー内にいる限り、そのドキュメントを使用できます。Catenda Siteのドキュメントの詳細については、[ここ](https://support.catenda.com/ja/articles/8975421-catenda-siteのファイルタイプのプレビュー)をお読みください。

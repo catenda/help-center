@@ -24,7 +24,7 @@ Klikk på bryteren igjen for å slå varslene på igjen.
 
 ## 2. **Varsler-avmerkingsbokser**
 
-For hver varslingsmetode kan du velge hvilke varslingstyper du vil motta for den metoden. Klikk [her](https://support.catenda.com/nb/articles/8304417-untitled-article) for å se når hver type varsel sendes.
+For hver varslingsmetode kan du velge hvilke varslingstyper du vil motta for den metoden. Klikk [her](https://support.catenda.com/nb/articles/8304417-filtrering-pa-varslingssiden) for å se når hver type varsel sendes.
 
 ## 3. **Varsler i nettleseren**
 
@@ -64,4 +64,4 @@ Kopier URL-en til **"Webhook URL"** ovenfor. Kontroller at varslene er aktivert 
 
 ## 7. **Varsler per prosjekt**
 
-Hvis du har angitt varsler som er spesifikke for prosjekter, kan du se disse i navigasjonsmenyen til venstre i et prosjekt. Du kan klikke på navnet på prosjektet for å gå til [innstillinger for prosjektvarsler](https://support.catenda.com/nb/articles/4670262-project-notification-settings) for det prosjektet. Disse innstillingene gjelder spesielt for deg og er ikke innstillinger for hele prosjektet.
+Hvis du har angitt varsler som er spesifikke for prosjekter, kan du se disse i navigasjonsmenyen til venstre i et prosjekt. Du kan klikke på navnet på prosjektet for å gå til [innstillinger for prosjektvarsler](https://support.catenda.com/nb/articles/4670262-prosjektspesifikke-varselinnstillinger) for det prosjektet. Disse innstillingene gjelder spesielt for deg og er ikke innstillinger for hele prosjektet.

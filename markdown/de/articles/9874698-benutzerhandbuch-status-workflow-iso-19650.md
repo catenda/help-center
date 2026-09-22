@@ -34,9 +34,9 @@ Die Informationen wurden verwendet und können archiviert werden, um bei Bedarf 
 
 Die Aktivierung und Konfiguration des freigegebenen Status-Workflows sind für Projektadministratoren reserviert.
 
-_Zugriff erforderlich_ Konfigurationszugriff für den Dokumentstatus im [Zugriffssteuerungsbereich](https://support.catenda.com/de/articles/4670273-project-settings-page#h_3b98ced32a) der [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-project-settings-page). Mitglieder mit diesem Zugriff haben nur Zugriff auf das Status-Konfigurationsmenü in den Dokumenteinstellungen. Sie können die anderen Menüs in den Dokumenteinstellungen nicht sehen oder ändern.
+_Zugriff erforderlich_ Konfigurationszugriff für den Dokumentstatus im [Zugriffssteuerungsbereich](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen#h_3b98ced32a) der [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen). Mitglieder mit diesem Zugriff haben nur Zugriff auf das Status-Konfigurationsmenü in den Dokumenteinstellungen. Sie können die anderen Menüs in den Dokumenteinstellungen nicht sehen oder ändern.
 
-Navigieren Sie unter [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings) zu [Status-Workflow](https://support.catenda.com/de/articles/7831371-document-settings#h_e6f3ffdbff) und aktivieren Sie freigegebene Status
+Navigieren Sie unter [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) zu [Status-Workflow](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen#h_e6f3ffdbff) und aktivieren Sie freigegebene Status
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/03-configuring-status-workflow.png)
 
@@ -125,7 +125,7 @@ In der Dokumentstruktur wird die neueste Revision angezeigt, auf die Sie Zugriff
 
 ### 3.8 **Revisionsinformationen**
 
-Wählen Sie ein einzelnes Dokument aus oder öffnen Sie die Dokumentvorschau, indem Sie auf das Dokument klicken. Informationen zur aktuellen Revision werden im [rechten Informationsmenü](https://support.catenda.com/de/articles/8302244-right-menu-of-a-revision) angezeigt.
+Wählen Sie ein einzelnes Dokument aus oder öffnen Sie die Dokumentvorschau, indem Sie auf das Dokument klicken. Informationen zur aktuellen Revision werden im [rechten Informationsmenü](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen) angezeigt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/16-revision-information.png)
 
@@ -138,7 +138,7 @@ Wählen Sie ein einzelnes Dokument aus oder öffnen Sie die Dokumentvorschau, in
 - Ändern Sie einen veröffentlichten Revisionsstatus in einen anderen veröffentlichten Revisionsstatus.
   _Zugriff erforderlich:_ Schreibzugriff und veröffentlichte Revisionen
 
-**Revisionsinformations-Dialogfeld** Klicken Sie auf das Revisionsfeld, um eine Übersicht aller Revisionen des Dokuments in der [Revisionsinformations-Dialogfeld](https://support.catenda.com/de/articles/8302244-right-menu-of-a-revision#h_6838c6ad71) anzuzeigen. Ein grüner Link zwischen einer veröffentlichten und einer freigegebenen Revision zeigt an, welche freigegebene Revision veröffentlicht wurde.
+**Revisionsinformations-Dialogfeld** Klicken Sie auf das Revisionsfeld, um eine Übersicht aller Revisionen des Dokuments in der [Revisionsinformations-Dialogfeld](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen#h_6838c6ad71) anzuzeigen. Ein grüner Link zwischen einer veröffentlichten und einer freigegebenen Revision zeigt an, welche freigegebene Revision veröffentlicht wurde.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/17-revision-information.png)
 
@@ -148,15 +148,15 @@ Nur veröffentlichte Revisionen sind in Catenda Site sichtbar.
 
 ## 4. Status-Konfigurationszugriff
 
-1. Der Bearbeitungszugriff auf die Dokumentstatus-Konfiguration kann auf der [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-project-settings-page) konfiguriert werden:
+1. Der Bearbeitungszugriff auf die Dokumentstatus-Konfiguration kann auf der [Projekteinstellungsseite](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen) konfiguriert werden:
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-868820a898ba.png" width="500"/></div>
 
-1. Der Dokumentstatus kann dann [konfiguriert](https://support.catenda.com/de/articles/7831371-document-settings#h_e6f3ffdbff) von den Einstellungen im Dokumente-Abschnitt aus konfiguriert werden:
+1. Der Dokumentstatus kann dann [konfiguriert](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen#h_e6f3ffdbff) von den Einstellungen im Dokumente-Abschnitt aus konfiguriert werden:
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-931418a5fab1.png" width="500"/></div>
 
-1. Schließlich kann dieser Dokumentstatus dem Dateiüberprüfungsstatus zugewiesen werden, auf den über die Schaltfläche mit drei Punkten oben rechts im [Genehmigungsabschnitt](https://support.catenda.com/de/articles/8349340-approvals-page) zugegriffen werden kann. Es ist auch möglich, hier eine Topic-Vorlage zu konfigurieren.
+1. Schließlich kann dieser Dokumentstatus dem Dateiüberprüfungsstatus zugewiesen werden, auf den über die Schaltfläche mit drei Punkten oben rechts im [Genehmigungsabschnitt](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy) zugegriffen werden kann. Es ist auch möglich, hier eine Topic-Vorlage zu konfigurieren.
 
     <div class="intercom-container intercom-align-center"><img src="https://raw.githubusercontent.com/catenda/help-center/main/images/1csjjnv9/inline-3cdbebefca38.png" width="500"/></div>
 
@@ -186,7 +186,7 @@ Eine detaillierte Demonstration dieser Schritte wird im folgenden Tutorial gezei
 
 ## 6. **Status-Workflow deaktivieren**
 
-Wenn Sie den Status-Workflow ausschalten möchten, können Sie dies tun, indem Sie auf das Optionsfeld in den [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-document-settings) klicken. Die veröffentlichten und freigegebenen Registerkarten im Dokumentabschnitt werden dann verschwinden. Dokumente, die hochgeladen werden, während der Status-Workflow nicht aktiviert ist, werden als veröffentlicht hochgeladen und werden auf der Registerkarte "Veröffentlicht" angezeigt, wenn der Status-Workflow aktiviert wird.
+Wenn Sie den Status-Workflow ausschalten möchten, können Sie dies tun, indem Sie auf das Optionsfeld in den [Dokumenteinstellungen](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen) klicken. Die veröffentlichten und freigegebenen Registerkarten im Dokumentabschnitt werden dann verschwinden. Dokumente, die hochgeladen werden, während der Status-Workflow nicht aktiviert ist, werden als veröffentlicht hochgeladen und werden auf der Registerkarte "Veröffentlicht" angezeigt, wenn der Status-Workflow aktiviert wird.
 
 ## 7. **Vorteile der Verwendung des Status-Workflows**
 

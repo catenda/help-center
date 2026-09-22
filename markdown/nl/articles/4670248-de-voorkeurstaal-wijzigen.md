@@ -1,6 +1,6 @@
 # De voorkeurstaal wijzigen
 
-De voorkeurstaal kan worden gewijzigd op de [pagina met voorkeuren](https://support.catenda.com/nl/articles/6880968-account-page#h_87963579a7) van een [account](https://support.catenda.com/nl/articles/6880968-account-page).
+De voorkeurstaal kan worden gewijzigd op de [pagina met voorkeuren](https://support.catenda.com/nl/articles/6880968-accountpagina#h_87963579a7) van een [account](https://support.catenda.com/nl/articles/6880968-accountpagina).
 
 [YouTube-video](https://www.youtube.com/embed/fwQtOwQsTN8?rel=0)
 
@@ -10,7 +10,7 @@ De volgende onderwerpen worden beschreven in dit artikel:
 
 `Profiel->Account->Voorkeuren`
 
-De accountpagina kunt u altijd vinden door op uw profielfoto in de rechterbovenhoek te klikken en vervolgens op account te klikken in het menu dat verschijnt. Zoek vervolgens in het linkernavigatiemenu de [pagina met voorkeuren](https://support.catenda.com/nl/articles/6880968-account-page#h_87963579a7) waar u de taalinstelling kunt vinden.
+De accountpagina kunt u altijd vinden door op uw profielfoto in de rechterbovenhoek te klikken en vervolgens op account te klikken in het menu dat verschijnt. Zoek vervolgens in het linkernavigatiemenu de [pagina met voorkeuren](https://support.catenda.com/nl/articles/6880968-accountpagina#h_87963579a7) waar u de taalinstelling kunt vinden.
 
 ## 2. **2. Beschikbare talen**
 

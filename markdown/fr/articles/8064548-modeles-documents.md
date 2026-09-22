@@ -52,7 +52,7 @@ Si votre projet a commencé sans modèles en tant que documents, un dossier appe
 
 **Création d'une révision de modèle** Pour pouvoir télécharger de nouvelles révisions vers un modèle, vous devez maintenant disposer d'au moins un accès en écriture au modèle de document. De nouvelles révisions du modèle peuvent être ajoutées au document et vice versa.
 
-> **Remarque :** Les commentaires de révision ont été désactivés et peuvent maintenant éventuellement être activés avec [des champs personnalisés sur les révisions](https://support.catenda.com/fr/articles/9531080-custom-fields-on-documents).
+> **Remarque :** Les commentaires de révision ont été désactivés et peuvent maintenant éventuellement être activés avec [des champs personnalisés sur les révisions](https://support.catenda.com/fr/articles/9531080-champs-personnalises-sur-les-documents).
 
 **Téléchargement d'une révision de modèle** Vous devez disposer d'au moins un accès en lecture au modèle-document pour pouvoir télécharger le modèle.
 
@@ -120,10 +120,10 @@ Les documents-modèles peuvent maintenant être trouvés dans la section documen
 
 - Les documents-modèles peuvent être structurés dans des dossiers pour faciliter la navigation vers le bon ensemble de modèles.
 - Des étiquettes peuvent être ajoutées aux documents-modèles pour trouver tous les documents-modèles qui appartiennent à un type.
-- [Des champs personnalisés peuvent être ajoutés aux dossiers](https://support.catenda.com/fr/articles/9531080-custom-fields-on-documents) où les documents sont téléchargés pour rechercher des valeurs de métadonnées liées à chaque document-modèle
-- [Des champs personnalisés peuvent être ajoutés aux dossiers](https://support.catenda.com/fr/articles/9531080-custom-fields-on-documents) où les documents sont téléchargés pour pouvoir ajouter des informations à chaque révision dans chaque modèle de document.
+- [Des champs personnalisés peuvent être ajoutés aux dossiers](https://support.catenda.com/fr/articles/9531080-champs-personnalises-sur-les-documents) où les documents sont téléchargés pour rechercher des valeurs de métadonnées liées à chaque document-modèle
+- [Des champs personnalisés peuvent être ajoutés aux dossiers](https://support.catenda.com/fr/articles/9531080-champs-personnalises-sur-les-documents) où les documents sont téléchargés pour pouvoir ajouter des informations à chaque révision dans chaque modèle de document.
 
-Consultez [ici](https://support.catenda.com/fr/articles/8542598-structuring-documents#h_7838a63c73) pour des suggestions sur la façon de structurer vos documents-modèles afin qu'ils soient faciles à trouver.
+Consultez [ici](https://support.catenda.com/fr/articles/8542598-structuration-des-documents#h_7838a63c73) pour des suggestions sur la façon de structurer vos documents-modèles afin qu'ils soient faciles à trouver.
 
 ### 4.6 **Approuver les fichiers IFC partagés**
 

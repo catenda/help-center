@@ -4,7 +4,7 @@ For å forhindre varsler og sikre en smidig lansering kan ny atferd eller endrin
 
 Denne artikkelen inneholder informasjon om følgende saker:
 
-_[Aktivering av on-demand-funksjoner](https://support.catenda.com/nb/articles/13905373-feature-statuses-q3-2025#h_f72a02b8b6)_
+_[Aktivering av on-demand-funksjoner](https://support.catenda.com/nb/articles/13905373-funksjonsstatuser-q3-2025#h_f72a02b8b6)_
 
 ## 1. **Aktivering av on-demand-funksjoner**
 

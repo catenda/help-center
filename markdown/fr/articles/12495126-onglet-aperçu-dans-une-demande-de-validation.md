@@ -1,6 +1,6 @@
 # Onglet Aperçu dans une demande de validation
 
-L'onglet Aperçu d'une demande de validation se trouve sur la page de demande de validation des approbations [ouvertes ou fermées](https://support.catenda.com/fr/articles/12494960-open-or-closed-approval-request-page). Dans l'onglet Aperçu, vous pouvez voir un aperçu d'une étape d'examen de validation sélectionnée. À cette étape, les validations indiquées et soumises par un membre au nom de chaque équipe de soumetteur configurée pour examiner l'étape peuvent être vues. Pour un aperçu des soumissions de validations pour toutes les étapes, consultez l'[onglet Documents](https://support.catenda.com/fr/articles/8349418-approval-page#h_133b2690af).
+L'onglet Aperçu d'une demande de validation se trouve sur la page de demande de validation des approbations [ouvertes ou fermées](https://support.catenda.com/fr/articles/12494960-page-de-demande-de-validation-ouverte-ou-fermee). Dans l'onglet Aperçu, vous pouvez voir un aperçu d'une étape d'examen de validation sélectionnée. À cette étape, les validations indiquées et soumises par un membre au nom de chaque équipe de soumetteur configurée pour examiner l'étape peuvent être vues. Pour un aperçu des soumissions de validations pour toutes les étapes, consultez l'[onglet Documents](https://support.catenda.com/fr/articles/8349418-approbation-ouverte-publiee-ou-rejetee-historique#h_133b2690af).
 
 > **Remarque :** **Apparence -** Voici à quoi peut ressembler l'onglet Aperçu dans le contenu de validation pour les projets qui ont activé les révisions partagées après le 2 octobre 2025 :
 
@@ -12,7 +12,7 @@ Dans le ruban d'étape, un aperçu de la progression de la demande de validation
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/02-approval-request-step-ribbon.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/12495212-step-ribbon-in-an-approval-request) pour en savoir plus sur le ruban d'étape
+Cliquez [ici](https://support.catenda.com/fr/articles/12495212-ruban-d-etapes-dans-une-demande-de-validation) pour en savoir plus sur le ruban d'étape
 
 ## 2. Menu déroulant d'étape de validation
 
@@ -76,7 +76,7 @@ Le résultat de la validation est affiché sous l'aperçu des étapes :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/09-approval-request-result.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/12520773-approvals-troubleshooting) pour en savoir plus sur les raisons pour lesquelles la publication des documents peut échouer.
+Cliquez [ici](https://support.catenda.com/fr/articles/12520773-depannage-de-la-page-approbations) pour en savoir plus sur les raisons pour lesquelles la publication des documents peut échouer.
 
 ### 5.1 Voir les détails
 

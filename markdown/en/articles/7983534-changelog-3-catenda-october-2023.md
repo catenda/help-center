@@ -12,33 +12,33 @@ As new features roll out and bugs are fixed articles are updated with the change
 
 ### 1.1 **New articles:**
 
-**Getting started and FAQ** [Project Security](https://support.catenda.com/en/articles/8263256-project-security') [Tracking information by linking](https://support.catenda.com/en/articles/8294909-tracking-information-by-linking) [Why am I not receiving emails?](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) [Formatting of posts](https://support.catenda.com/en/articles/8430847-formatting-of-posts)
+**Getting started and FAQ** [Project Security](https://support.catenda.com/en/articles/8263256-project-security') [Tracking information by linking](https://support.catenda.com/en/articles/8294909-tracking-information-by-linking) [Why am I not receiving emails?](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) [Formatting of posts](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox)
 
-**Main page** [Organization options](https://support.catenda.com/en/articles/8224886-organization-options) [Dashboard page](https://support.catenda.com/en/articles/8212646-dashboard-page) [Notification settings](https://support.catenda.com/en/articles/8272435-notification-settings) [Notification functionality](https://support.catenda.com/en/articles/8304417-notification-functionality) [Create an account](https://support.catenda.com/en/articles/8412895-creating-an-account)
+**Main page** [Organization options](https://support.catenda.com/en/articles/8224886-organization-options) [Dashboard page](https://support.catenda.com/en/articles/8212646-dashboard-page) [Notification settings](https://support.catenda.com/en/articles/8272435-account-notification-settings) [Notification functionality](https://support.catenda.com/en/articles/8304417-filtering-on-the-notifications-page) [Create an account](https://support.catenda.com/en/articles/8412895-creating-an-account)
 
-**Issues** [Issue content](https://support.catenda.com/en/articles/7986346-issue-content) [Issue right panel](https://support.catenda.com/en/articles/8053299-issue-right-panel) [Issue body](https://support.catenda.com/en/articles/8053352-issue-body) [Filtering in an issue board](https://support.catenda.com/en/articles/8370693-filtering-in-an-issue-board)
+**Issues** [Issue content](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) [Issue right panel](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic) [Issue body](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic) [Filtering in an issue board](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
 
-**Documents** [Giving a user access to a single folder](https://support.catenda.com/en/articles/8009637-giving-a-user-access-to-a-single-folder) [Libraries page](https://support.catenda.com/en/articles/8065645-libraries-page) [Upload a zip / file structure](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) [Right panel in a document](https://support.catenda.com/en/articles/8302244-documents-right-panel) [Right panel in documents list](https://support.catenda.com/en/articles/8345396-right-panel-in-documents-list) [Approvals page](https://support.catenda.com/en/articles/8349340-approvals-page) [Approval content](https://support.catenda.com/en/articles/8349418-approval-content) [Table view in the documents section](https://support.catenda.com/en/articles/8398771-table-view-in-the-documents-section)
+**Documents** [Giving a user access to a single folder](https://support.catenda.com/en/articles/8009637-giving-a-user-access-to-a-single-folder) [Libraries page](https://support.catenda.com/en/articles/8065645-libraries-page) [Upload a zip / file structure](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) [Right panel in a document](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info) [Right panel in documents list](https://support.catenda.com/en/articles/8345396-right-menu-on-the-documents-page) [Approvals page](https://support.catenda.com/en/articles/8349340-approvals-page-legacy) [Approval content](https://support.catenda.com/en/articles/8349418-open-published-or-discarded-approval-legacy) [Table view in the documents section](https://support.catenda.com/en/articles/8398771-table-view-in-the-documents-section)
 
 **Models and 3D** [Selecting and clipping from 2D](https://support.catenda.com/en/articles/8035360-selecting-and-clipping-from-2d) [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) [Models as documents](https://support.catenda.com/en/articles/8064548-models-as-documents) [Information panel](https://support.catenda.com/en/articles/8238584-information-panel) [3D location of models](https://support.catenda.com/en/articles/8294750-3d-location-of-models) [Model configuration](https://support.catenda.com/en/articles/8300623-model-configuration) [Measure plane](https://support.catenda.com/en/articles/8360838-measure-plane)
 
 **Project settings** [Member page](https://support.catenda.com/en/articles/8228836-member-page)
 
-**Plugins and integrations** [Integration Power BI](https://support.catenda.com/en/articles/5784721-integration-power-bi) [Catenda SharePoint Plugin](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-plugin) [Catenda Access from your environment](https://support.catenda.com/en/articles/8396532-catenda-access-from-your-environment)
+**Plugins and integrations** [Integration Power BI](https://support.catenda.com/en/articles/5784721-catenda-power-bi-connector) [Catenda SharePoint Plugin](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application) [Catenda Access from your environment](https://support.catenda.com/en/articles/8396532-catenda-plugins-integrations)
 
 ### 1.2 **Articles that have changed:**
 
 Getting started and FAQ [User Voice @ Catenda](https://support.catenda.com/en/articles/5925449-user-voice-catenda) [Summary of most important shortcuts and basic controls](https://support.catenda.com/en/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
 
-Main page [Notifications page](https://support.catenda.com/en/articles/7439223-notifications-page)
+Main page [Notifications page](https://support.catenda.com/en/articles/7439223-account-notifications-page)
 
-Issues [Right panel in an issue board](https://support.catenda.com/en/articles/6941224-right-panel-in-an-issue-board) [Issue boards settings](https://support.catenda.com/en/articles/4670277-issue-board-settings) [Issue board settings](https://support.catenda.com/en/articles/4670277-issue-board-settings)
+Issues [Right panel in an issue board](https://support.catenda.com/en/articles/6941224-right-menu-in-a-topic-board) [Issue boards settings](https://support.catenda.com/en/articles/4670277-topic-board-settings-page) [Issue board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings-page)
 
 Documents [Documents page](https://support.catenda.com/en/articles/8204673-documents-page) [Filtering on the documents page](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
 
 Models [2D Viewer](https://support.catenda.com/en/articles/4854537-2d-viewer)
 
-Notifications [Latest project notifications](https://support.catenda.com/en/articles/4670262-project-notification-settings)
+Notifications [Latest project notifications](https://support.catenda.com/en/articles/4670262-project-specific-notification-settings)
 
 ## 2. **Issues Resolved**
 

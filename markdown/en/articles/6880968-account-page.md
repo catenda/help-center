@@ -45,7 +45,7 @@ In [preferences](https://bimsync.com/account/preferences) it is possible to:
 
 ### 2.1 **Language**
 
-[Change the language](https://support.catenda.com/en/articles/4670248-changing-to-your-preferred-language) of Catenda Hub
+[Change the language](https://support.catenda.com/en/articles/4670248-changing-the-preferred-language) of Catenda Hub
 
 ### 2.2 **Date and time**
 
@@ -83,6 +83,6 @@ Every API appication is connected to a Catenda account. The configuration of the
 
 ### 4.2 **Applications with access to your account**
 
-Applications that have been granted access to the account are displayed. Click [here](https://support.catenda.com/en/articles/8396532-catenda-connections) to see which applications that can be connected to.
+Applications that have been granted access to the account are displayed. Click [here](https://support.catenda.com/en/articles/8396532-catenda-plugins-integrations) to see which applications that can be connected to.
 
 **Revoke access** Click on revoke access to revoke the access that was granted to that application. After doing so access will have to be granted again to continue using that applicaiton with this account. Depending on the application it may ask the user to grant access again or it might give an error and not ask for new access. Loggin out and back in often resets the connection in this case.

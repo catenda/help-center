@@ -1,6 +1,6 @@
 # Seite Milestones
 
-Die Seite Milestones finden Sie als Unterseite der [Seite Themen](https://support.catenda.com/de/articles/4670271-topics-page). Auf der Seite Milestones können Sie sehen, welche Milestones im Projekt verfügbar sind.
+Die Seite Milestones finden Sie als Unterseite der [Seite Themen](https://support.catenda.com/de/articles/4670271-themen-seite). Auf der Seite Milestones können Sie sehen, welche Milestones im Projekt verfügbar sind.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5tw3m693/01-intro.png)
 

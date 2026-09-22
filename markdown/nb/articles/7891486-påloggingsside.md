@@ -27,11 +27,11 @@ Hvis feil e-postadresse ble skrevet inn, kan du ganske enkelt endre adressen og 
 
 ## 2. **Passord**
 
-Her kan du skrive inn passordet som passer for kontoen som er registrert under den oppgitte e-postadressen. Klikk [her](https://support.catenda.com/nb/articles/10798891-sign-in-and-passwords) for passordfelssøking.
+Her kan du skrive inn passordet som passer for kontoen som er registrert under den oppgitte e-postadressen. Klikk [her](https://support.catenda.com/nb/articles/10798891-palogging-og-passord) for passordfelssøking.
 
 ## 3. **Logg inn**
 
-Klikk på logg inn for å verifisere de oppgitte legitimasjonene. Etter at verifiseringsprosessen er gjennomført med hell, blir brukere omdirigert til [prosjektsiden](https://support.catenda.com/nb/articles/4670260-projects-page).
+Klikk på logg inn for å verifisere de oppgitte legitimasjonene. Etter at verifiseringsprosessen er gjennomført med hell, blir brukere omdirigert til [prosjektsiden](https://support.catenda.com/nb/articles/4670260-kontoknappar).
 
 ## 4. **MFA**
 

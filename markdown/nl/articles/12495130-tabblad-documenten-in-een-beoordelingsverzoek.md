@@ -18,7 +18,7 @@ Het rechtermenu kan worden geopend door op het informatiepictogram aan de rechte
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/svn39yd6/03-right-menu.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/12495638-approval-request-documents-right-menu) voor meer informatie over het rechtermenu van het tabblad Documenten.
+Klik [hier](https://support.catenda.com/nl/articles/12495638-goedkeuringsaanvraag-documenten-rechts-menu) voor meer informatie over het rechtermenu van het tabblad Documenten.
 
 > **Opmerking:** Selecteer één document (door op de titel te klikken) of selecteer meerdere documenten die aan u zijn toegewezen om direct te beginnen met beoordelen vanuit het tabblad Documenten.
 

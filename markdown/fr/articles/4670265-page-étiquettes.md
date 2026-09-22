@@ -1,6 +1,6 @@
 # Page Étiquettes
 
-La page des étiquettes se trouve comme sous-page des [paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page) dans le menu de navigation de gauche.
+La page des étiquettes se trouve comme sous-page des [paramètres du projet](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet) dans le menu de navigation de gauche.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/exzgaw41/01-intro.png)
 

@@ -34,7 +34,7 @@ In deze situatie kunt u een projectbeheerder vragen om u minstens schrijftoegang
 
 ### 1.4 **Toegang tot uw Catenda-account intrekken**
 
-Ga naar de toepassingenpagina van uw Catenda Hub [accountinstellingen](https://intercom.help/bimsync-arena/nl/articles/6880968-account-settings#:~:text=your%20notification%20settings.-,Applications,-In%20applications%20you), zoek de Solibri-toepassing en klik op intrekken.
+Ga naar de toepassingenpagina van uw Catenda Hub [accountinstellingen](https://intercom.help/bimsync-arena/nl/articles/6880968-accountpagina#:~:text=your%20notification%20settings.-,Applications,-In%20applications%20you), zoek de Solibri-toepassing en klik op intrekken.
 
 ### 1.5 **Verbreken met de Catenda-server**
 

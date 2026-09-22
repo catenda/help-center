@@ -38,7 +38,7 @@ Das Inhalts-Panel kann die folgenden Hauptseiten enthalten:
 
 Dashboard Modelle Themen Dokumente Bibliotheken Berichte Benachrichtigungen Einstellungen
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/8212646-dashboard-page), um mehr über das Inhalts-Panel zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/8212646-dashboard-seite), um mehr über das Inhalts-Panel zu erfahren.
 
 ## 3. **Modell-Viewer-Panel**
 
@@ -62,7 +62,7 @@ Das Baum-Panel kann die folgenden Hauptseiten enthalten:
 
 Containment-Baum Komponenten-Baum Typ-Baum Ebenen-Baum System-Baum
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/4670290-trees-panel), um mehr über das Baum-Panel zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/4670290-modellbaum-panel), um mehr über das Baum-Panel zu erfahren.
 
 ## 5. **Modell-Infos-Panel**
 

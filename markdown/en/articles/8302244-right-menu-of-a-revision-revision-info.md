@@ -6,13 +6,13 @@ The document page can look something like this:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/01-intro.png)
 
-1. The [document banner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) spans across the top of the document page
+1. The [document banner](https://support.catenda.com/en/articles/8461918-document-banner-navigation) spans across the top of the document page
 1. You will find the document header below the document banner and above the document preview.
 1. Below the document header you will find the [document preview](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations).
 1. To the left of the document header and preview you will find the document list
 1. _This article:_ To the right of the document header and preview you will find the right information menu.
 
-When you first open a document, its right menu might be closed. You can click on the information button on the bottom right of the [document banner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) to expand this menu.
+When you first open a document, its right menu might be closed. You can click on the information button on the bottom right of the [document banner](https://support.catenda.com/en/articles/8461918-document-banner-navigation) to expand this menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/02-intro.png)
 
@@ -252,13 +252,13 @@ A hint about there being new drafts is displayed. The rest of the information st
 
 **Show last revision** Open the revision preview of the latest published revision in the document regardless of if there are newer draft revisions or not.
 
-_New approval request_ [Create a new approval request](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) for this draft revision.
+_New approval request_ [Create a new approval request](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request-legacy) for this draft revision.
 
 **Approval card** If a draft is part of an approval the approval card for each approval that the draft is part of is displayed here:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/26-draft-revision-status-legacy.png)
 
-Click [here](https://support.catenda.com/en/articles/8349340-approvals-page) to read more about what is displayed on an approval card.
+Click [here](https://support.catenda.com/en/articles/8349340-approvals-page-legacy) to read more about what is displayed on an approval card.
 
 **Status** The status that is displayed is the status of the current draft revision. Click on the status dropdown to change the status to a different status in the list of draft statuses configured in document settings. _Access required:_ write access to the document.
 
@@ -280,7 +280,7 @@ Towards the right their current access to the document is displayed. This access
 
 ### 9.1 **Edit access**
 
-Click [here](https://support.catenda.com/en/articles/4670287-folders-and-documents-acl) to read more about access control in the documents section.
+Click [here](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control) to read more about access control in the documents section.
 
 ## 10. **Approvals**
 
@@ -314,7 +314,7 @@ If Shared statuses are not disabled with the new status workflow in document set
 
 **Access required to view shared revisions:** Read access to the document. Checkbox for viewing shared revisions checked.
 
-**New approval request** Click [here](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) to read more about creating a new approval request
+**New approval request** Click [here](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request-legacy) to read more about creating a new approval request
 
 **Approval request overview** With the new validation workflow it is possible to create a draft of an approval workflow. Draft approvals do not show up in the overview. As soon as an approval workflow has started it is, and stays, displayed in the approval workflow overview. Any number of requests to approve each of the shared revisions in the document can have been made, some of which might still be open. This is what the approval overview can look like when one of the revisions in the document is part of an open approval request with the new validation workflow when the latest revision is still being validated:
 
@@ -340,7 +340,7 @@ Note that it is only possible to upload draft revisions and thereby create appro
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/33-new-draft-revision-but-no-approval-request-yet-legacy.png)
 
-**New approval request** Click [here](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) to read more about creating a new approval request
+**New approval request** Click [here](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request-legacy) to read more about creating a new approval request
 
 ### 10.4 **Approval request overview - Legacy**
 
@@ -358,7 +358,7 @@ If the revision was published as a result of an approval, that approval request 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/35-approval-request-overview-legacy.png)
 
-Whether the latest revision is published or not, a card for each document revision that is part of an approval request that is still open is displayed. This way the approvals that have not been closed can be reviewed. Click [here](https://support.catenda.com/en/articles/8349340-approvals-page) to see what is described in an approval card.
+Whether the latest revision is published or not, a card for each document revision that is part of an approval request that is still open is displayed. This way the approvals that have not been closed can be reviewed. Click [here](https://support.catenda.com/en/articles/8349340-approvals-page-legacy) to see what is described in an approval card.
 
 ### 10.5 **Archiving all draft statuses - Legacy**
 

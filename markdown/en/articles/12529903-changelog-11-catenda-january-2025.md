@@ -29,7 +29,7 @@ As new features roll out and bugs are fixed articles are updated with the change
 **Account management**
 
 - Account setttings
-    - [Notification Filtering and functionality](https://support.catenda.com/en/articles/8304417-notification-filtering-and-functionality)
+    - [Notification Filtering and functionality](https://support.catenda.com/en/articles/8304417-filtering-on-the-notifications-page)
     - [Account page](https://support.catenda.com/en/articles/6880968-account-page)
 
 **Product Features**

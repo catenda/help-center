@@ -1,6 +1,6 @@
 # Innstillinger - Catenda Site
 
-Du finner dine Catenda Site-innstillinger i [Menyen](https://support.catenda.com/nb/articles/7338516-navigation-menu-catenda-site). Dine kontopreferanser lagres til neste gang du logger inn på kontoen din.
+Du finner dine Catenda Site-innstillinger i [Menyen](https://support.catenda.com/nb/articles/7338516-navigasjonsmeny-catenda-site). Dine kontopreferanser lagres til neste gang du logger inn på kontoen din.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/an1f6vfe/01-intro.png)
 

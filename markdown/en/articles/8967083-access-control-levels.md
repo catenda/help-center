@@ -44,14 +44,14 @@ Members that are part of teams always get the highest access in [different parts
 
 ## 4. **Access overview**
 
-Document access can quickly become complicated and you can loose overview over who has access to which folder. Members with [full access to the document root](https://support.catenda.com/en/articles/4670292-root-folder-acl) can therefore look at the [access overview](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard) to see who has access to what.
+Document access can quickly become complicated and you can loose overview over who has access to which folder. Members with [full access to the document root](https://support.catenda.com/en/articles/4670292-root-folder-acl) can therefore look at the [access overview](https://support.catenda.com/en/articles/6660820-document-access-overview-page) to see who has access to what.
 
 ## 5. **Project areas where access can be configured**
 
 ### 5.1 **Member access**
 
 <a class="intercom-content-link" href="" target="_blank">Issue board ACL</a>
-[Document ACL](https://support.catenda.com/en/articles/4670287-folders-and-documents-acl)
+[Document ACL](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control)
 <a class="intercom-content-link" href="" target="_blank">Project setting ACL</a>
 [Models ACL](https://support.catenda.com/en/articles/8064548-models-as-documents#h_c2ab781496) is the same as documents ACL with models as documents
 

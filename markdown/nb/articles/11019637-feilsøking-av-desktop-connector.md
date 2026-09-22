@@ -72,7 +72,7 @@ I selve oppgaven kan du se følgende:
 
 `Ikke alle mapper er nedlastet, klikk for å vise feil.`
 
-Klikk [her](https://support.catenda.com/nb/articles/13772277-desktop-connector-troubleshooting-not-all-folders-have-been-downloaded) for å lese mer om hva problemet kunne være med denne feilen.
+Klikk [her](https://support.catenda.com/nb/articles/13772277-desktop-connector-ikke-alle-mapper-lastet-ned) for å lese mer om hva problemet kunne være med denne feilen.
 
 ## 5. **Siste revisjon trukket tilbake**
 

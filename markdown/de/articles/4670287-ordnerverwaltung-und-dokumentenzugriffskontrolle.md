@@ -2,7 +2,7 @@
 
 > Zugriffskontrollebenen für Dokumente
 
-Wählen Sie Dokument(e) und/oder Ordner im Dokumentenbereich aus, um das Zugriffskontrollmenü im [rechten Informationsmenü](https://support.catenda.com/de/articles/8345396-right-menu-on-the-documents-page#h_cad792004b) zu finden. Hier können Sie die Projektmitglieder sehen, die Zugriff auf das Dokument haben. Befolgen Sie diese Schritte, um den Zugriff auf die ausgewählten Elemente zu bearbeiten.
+Wählen Sie Dokument(e) und/oder Ordner im Dokumentenbereich aus, um das Zugriffskontrollmenü im [rechten Informationsmenü](https://support.catenda.com/de/articles/8345396-rechtes-menu-auf-der-dokumentseite#h_cad792004b) zu finden. Hier können Sie die Projektmitglieder sehen, die Zugriff auf das Dokument haben. Befolgen Sie diese Schritte, um den Zugriff auf die ausgewählten Elemente zu bearbeiten.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/01-intro.png)
 
@@ -24,7 +24,7 @@ Klicken Sie auf das Dropdown-Menü "Zugriff definieren für", um Beteiligte ausz
 
 Legen Sie den Zugriff **pro Team statt pro Benutzer** fest. Rollen ändern sich häufig, und teambasierter Zugriff bleibt flexibel: Ein Mitglied, das einem Team hinzugefügt wird, erhält sofort den richtigen Zugriff, wenn es dem Projekt beitritt. Ein gängiges Muster ist es, "alle Benutzer" auf keinen Zugriff zu setzen, damit neue, noch nicht zugewiesene Mitglieder keine vertraulichen Informationen sehen können. Sie gewähren dann Zugriff auf jedes Team nach Bedarf.
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/15644094-how-catenda-calculates-access-levels), um mehr darüber zu erfahren, wie sich die verschiedenen Rollen der Beteiligten gegenseitig beeinflussen.
+Klicken Sie [hier](https://support.catenda.com/de/articles/15644094-berechnung-der-zugriffsstufen), um mehr darüber zu erfahren, wie sich die verschiedenen Rollen der Beteiligten gegenseitig beeinflussen.
 
 ## 2. **2. Welcher Zugriff wird angewendet? (3 Schritte)**
 
@@ -44,11 +44,11 @@ Der Zugriff mit dem höchsten Gewicht gewinnt immer, aber es gibt Ausnahmen. Res
 
 Der Zugriff mit dem höchsten Gewicht gilt. Kein Zugriff > Vollständiger Zugriff > Schreiben > Lesen
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/15644094-how-catenda-calculates-access-levels), um mehr darüber zu erfahren, wie Zugriffsstufen berechnet werden. Klicken Sie [hier](https://support.catenda.com/de/articles/15644249-access-control-deployment-use-cases), um mehr über typische Möglichkeiten zur Konfiguration des Zugriffs zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/15644094-berechnung-der-zugriffsstufen), um mehr darüber zu erfahren, wie Zugriffsstufen berechnet werden. Klicken Sie [hier](https://support.catenda.com/de/articles/15644249-zugriffskontroll-bereitstellungs-anwendungsfalle), um mehr über typische Möglichkeiten zur Konfiguration des Zugriffs zu erfahren.
 
 ### 2.2 **2.2 Was können Beteiligte mit diesem Zugriff tun?**
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/15647394-operations-on-document-library-items), um mehr über die Operationen zu erfahren, die auf Ordnern und Dokumenten ausgeführt werden können.
+Klicken Sie [hier](https://support.catenda.com/de/articles/15647394-operationen-auf-dokumentbibliothekselementen), um mehr über die Operationen zu erfahren, die auf Ordnern und Dokumenten ausgeführt werden können.
 
 ## 3. **3. Überschreibungsoptionen (Umfang beim Speichern angewendet)**
 

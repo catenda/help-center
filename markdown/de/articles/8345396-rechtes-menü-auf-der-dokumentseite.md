@@ -22,11 +22,11 @@ _Erforderlicher Zugriff:_ Schreibzugriff auf den Ordner.
 
 ### 1.2 **Zugangskontrolle**
 
-Weitere Informationen zur Zugangskontrolle im Bereich Dokumente finden Sie [hier](https://support.catenda.com/de/articles/4670287-folders-and-documents-acl).
+Weitere Informationen zur Zugangskontrolle im Bereich Dokumente finden Sie [hier](https://support.catenda.com/de/articles/4670287-ordnerverwaltung-und-dokumentenzugriffskontrolle).
 
 ### 1.3 **Sammlungen**
 
-Wenn Ihr Dokument Teil von [Sammlungen](https://support.catenda.com/de/articles/6344318-collections-page) ist, werden diese hier aufgelistet.
+Wenn Ihr Dokument Teil von [Sammlungen](https://support.catenda.com/de/articles/6344318-sammlungsseite) ist, werden diese hier aufgelistet.
 
 ## 2. **Ein Dokument**
 
@@ -34,7 +34,7 @@ So könnte das rechte Menü aussehen, wenn ein Dokument ausgewählt ist:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/04-one-document.png)
 
-Wenn Sie ein Dokument ausgewählt haben, werden Informationen zur neuesten öffentlichen Version in diesem Dokument angezeigt. Siehe [hier](https://support.catenda.com/de/articles/8302244-right-menu-of-a-revision), welche Informationen verfügbar sind.
+Wenn Sie ein Dokument ausgewählt haben, werden Informationen zur neuesten öffentlichen Version in diesem Dokument angezeigt. Siehe [hier](https://support.catenda.com/de/articles/8302244-rechtes-menu-einer-revision-revisionsinformationen), welche Informationen verfügbar sind.
 
 ## 3. **Mehrere Ordner (und/oder Dokumente)**
 
@@ -54,11 +54,11 @@ Mit diesem Menü können Sie Werte für mehrere Ordner (und/oder Dokumente) glei
 
 ### 3.2 **Zugangskontrolle**
 
-Mit diesem Menü können Sie den Zugriff auf mehrere Ordner (und/oder Dokumente) gleichzeitig ändern. Weitere Informationen zur Zugangskontrolle im Bereich Dokumente finden Sie [hier](https://support.catenda.com/de/articles/4670287-folders-and-documents-acl).
+Mit diesem Menü können Sie den Zugriff auf mehrere Ordner (und/oder Dokumente) gleichzeitig ändern. Weitere Informationen zur Zugangskontrolle im Bereich Dokumente finden Sie [hier](https://support.catenda.com/de/articles/4670287-ordnerverwaltung-und-dokumentenzugriffskontrolle).
 
 ### 3.3 **Sammlungen**
 
-Wenn Ihr Ordner (und/oder Dokument) Teil von [Sammlungen](https://support.catenda.com/de/articles/6344318-collections-page) ist, werden diese hier aufgelistet.
+Wenn Ihr Ordner (und/oder Dokument) Teil von [Sammlungen](https://support.catenda.com/de/articles/6344318-sammlungsseite) ist, werden diese hier aufgelistet.
 
 ### 3.4 **Verknüpfte Objekte**
 

@@ -1,18 +1,18 @@
 # Rechtermenu van een revisie - Revisie-informatie
 
-Als u een document selecteert op de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documents-page) of in een bibliotheek verschijnt er een nieuw venster voor dat document. U ziet altijd de nieuwste revisie wanneer u een document opent.
+Als u een document selecteert op de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documentenpagina) of in een bibliotheek verschijnt er een nieuw venster voor dat document. U ziet altijd de nieuwste revisie wanneer u een document opent.
 
 De documentenpagina kan er ongeveer zo uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/01-intro.png)
 
-1. De [documentbanner](https://support.catenda.com/nl/articles/8461918-document-banner-actions-navigation) loopt over de bovenkant van de documentenpagina
+1. De [documentbanner](https://support.catenda.com/nl/articles/8461918-documentbanner-navigatie) loopt over de bovenkant van de documentenpagina
 1. U vindt de documentkop onder de documentbanner en boven het documentvoorbeeld.
-1. Onder de documentkop vindt u het [documentvoorbeeld](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations).
+1. Onder de documentkop vindt u het [documentvoorbeeld](https://support.catenda.com/nl/articles/5001165-documentvoorbeeld-en-aantekeningen).
 1. Links van de documentkop en het voorbeeld vindt u de documentenlijst
 1. _Dit artikel:_ Rechts van de documentkop en het voorbeeld vindt u het rechtermenu met informatie.
 
-Wanneer u een document voor het eerst opent, kan het rechtermenu gesloten zijn. U kunt op de informatieknop rechtsonder in de [documentbanner](https://support.catenda.com/nl/articles/8461918-document-banner-actions-navigation) klikken om dit menu uit te vouwen.
+Wanneer u een document voor het eerst opent, kan het rechtermenu gesloten zijn. U kunt op de informatieknop rechtsonder in de [documentbanner](https://support.catenda.com/nl/articles/8461918-documentbanner-navigatie) klikken om dit menu uit te vouwen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/02-intro.png)
 
@@ -54,7 +54,7 @@ Dit is hoe de velden die voor het hele document kunnen worden ingevuld eruit kun
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/06-filling-out-fields.png)
 
-**Labels** Hier kunnen bestaande of nieuwe [labels](https://support.catenda.com/nl/articles/4670265-labels-page) worden toegevoegd. U kunt ook labels verwijderen die op de map of het document zijn toegepast. Het kan handig zijn om mappen van labels te voorzien in plaats van elk afzonderlijk bestand om het later gemakkelijker te maken om specifieke informatie in zoekopdrachten te vinden. Als meerdere documenten en mappen zijn geselecteerd, kunt u labels tegelijk op alle mappen toepassen.
+**Labels** Hier kunnen bestaande of nieuwe [labels](https://support.catenda.com/nl/articles/4670265-pagina-labels) worden toegevoegd. U kunt ook labels verwijderen die op de map of het document zijn toegepast. Het kan handig zijn om mappen van labels te voorzien in plaats van elk afzonderlijk bestand om het later gemakkelijker te maken om specifieke informatie in zoekopdrachten te vinden. Als meerdere documenten en mappen zijn geselecteerd, kunt u labels tegelijk op alle mappen toepassen.
 
 **Metadata via aangepaste velden** Metagegevensvelden kunnen worden weergegeven voor documenten die worden gemaakt waarbij een van de bovenliggende mappen via mapconfiguratie in documentinstellingen is geconfigureerd. De velden kunnen een standaardwaarde hebben of leeg zijn. _Vereiste toegang:_ Schrijftoegang tot het document om velden voor het document te wijzigen.
 
@@ -68,7 +68,7 @@ Dit is hoe de revisieacties eruit kunnen zien:
 
 ### 3.1 **Vergelijken**
 
-Als er meerdere pdf-revisies in een document aanwezig zijn, wordt de [PDF-vergelijking](https://support.catenda.com/nl/articles/8461650-pdf-compare) actie weergegeven. Klik [hier](https://support.catenda.com/nl/articles/8461650-pdf-compare) voor meer informatie over pdf-vergelijking.
+Als er meerdere pdf-revisies in een document aanwezig zijn, wordt de [PDF-vergelijking](https://support.catenda.com/nl/articles/8461650-pdf-vergelijk) actie weergegeven. Klik [hier](https://support.catenda.com/nl/articles/8461650-pdf-vergelijk) voor meer informatie over pdf-vergelijking.
 
 ### 3.2 **Download**
 
@@ -76,7 +76,7 @@ Klik op het downloadpictogram rechtsboven in het revisiemenu of download in het 
 
 ### 3.3 **Revisie intrekken**
 
-Lees meer over het intrekken van revisies [hier](https://support.catenda.com/nl/articles/9711174-withdraw-revision) _Vereiste toegang:_ Volledige toegang tot het document
+Lees meer over het intrekken van revisies [hier](https://support.catenda.com/nl/articles/9711174-revisie-intrekken) _Vereiste toegang:_ Volledige toegang tot het document
 
 ## 4. **Revisie-informatie**
 
@@ -154,29 +154,29 @@ Als de nieuwe statusworkflow met gedeelde revisies in plaats van conceptrevisies
 
 ### 6.1 **Download**
 
-Gebruik de downloadactie om de huidige revisie te downloaden. Ongeacht het revisieType kunnen revisies ook via het revisiemenu hieronder worden gedownload. In het [werkruimtetabblad](https://support.catenda.com/nl/articles/4670288-documents-table-actions#h_cfc9a53600) van de [documenttabel](https://support.catenda.com/nl/articles/4670288-documents-table-actions) wordt de nieuwste gedeelde revisie in het document via de bestaande elementactie gedownload. In het [gepubliceerde tabblad](https://support.catenda.com/nl/articles/4670288-documents-table-actions#h_cfc9a53600) van de [documenttabel](https://support.catenda.com/nl/articles/4670288-documents-table-actions) wordt de nieuwste gepubliceerde revisie in het document via de bestaande elementactie gedownload. _Vereiste toegang:_ Leestoegang tot het document en selectievakje Gedeelde revisies weergeven is ingeschakeld.
+Gebruik de downloadactie om de huidige revisie te downloaden. Ongeacht het revisieType kunnen revisies ook via het revisiemenu hieronder worden gedownload. In het [werkruimtetabblad](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_cfc9a53600) van de [documenttabel](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel) wordt de nieuwste gedeelde revisie in het document via de bestaande elementactie gedownload. In het [gepubliceerde tabblad](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel#h_cfc9a53600) van de [documenttabel](https://support.catenda.com/nl/articles/4670288-acties-in-de-documententabel) wordt de nieuwste gepubliceerde revisie in het document via de bestaande elementactie gedownload. _Vereiste toegang:_ Leestoegang tot het document en selectievakje Gedeelde revisies weergeven is ingeschakeld.
 
 ### 6.2 **Publiceren**
 
 Gebruik de publicatieactie om de huidige gedeelde revisie te publiceren. Vereiste toegang: Selectievakje Kan publiceren is ingeschakeld
 
-Lees meer over het intrekken van revisies [hier](https://support.catenda.com/nl/articles/9711174-withdraw-revision) _Vereiste toegang:_ Volledige toegang tot het document
+Lees meer over het intrekken van revisies [hier](https://support.catenda.com/nl/articles/9711174-revisie-intrekken) _Vereiste toegang:_ Volledige toegang tot het document
 
 ### 6.3 **Vergelijken**
 
-Als er meerdere pdf-revisies in een document aanwezig zijn, ongeacht hun revisietype, wordt de [PDF-vergelijking](https://support.catenda.com/nl/articles/8461650-pdf-compare) actie weergegeven. Klik [hier](https://support.catenda.com/nl/articles/8461650-pdf-compare) voor meer informatie over pdf-vergelijking.
+Als er meerdere pdf-revisies in een document aanwezig zijn, ongeacht hun revisietype, wordt de [PDF-vergelijking](https://support.catenda.com/nl/articles/8461650-pdf-vergelijk) actie weergegeven. Klik [hier](https://support.catenda.com/nl/articles/8461650-pdf-vergelijk) voor meer informatie over pdf-vergelijking.
 
 ## 7. **Naamgevingsconventie in het rechtermenu**
 
-Documenten die naar een map worden geüpload waarvoor een naamgevingsconventie is geconfigureerd in de [mapconfiguratie](https://support.catenda.com/nl/articles/7831371-document-settings-page#h_6672c14d90) in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings-page) tonen het voorbeeld van de naamgevingsconventie.
+Documenten die naar een map worden geüpload waarvoor een naamgevingsconventie is geconfigureerd in de [mapconfiguratie](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen#h_6672c14d90) in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen) tonen het voorbeeld van de naamgevingsconventie.
 
 ### 7.1 **Voorbeeld van naamgevingsconventie**
 
-Dit is hoe het voorbeeld van de naamgevingsconventie eruit kan zien wanneer u de muis over een tekstblok [beweegt](https://support.catenda.com/nl/articles/7832559-naming-conventions-page#h_2409ff946c):
+Dit is hoe het voorbeeld van de naamgevingsconventie eruit kan zien wanneer u de muis over een tekstblok [beweegt](https://support.catenda.com/nl/articles/7832559-pagina-naamgevingsafspraken#h_2409ff946c):
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/14-naming-convention-preview.png)
 
-Dit is hoe het voorbeeld van de naamgevingsconventie eruit kan zien wanneer u de muis over een aangepast veldblok [beweegt](https://support.catenda.com/nl/articles/7832559-naming-conventions-page#h_2409ff946c):
+Dit is hoe het voorbeeld van de naamgevingsconventie eruit kan zien wanneer u de muis over een aangepast veldblok [beweegt](https://support.catenda.com/nl/articles/7832559-pagina-naamgevingsafspraken#h_2409ff946c):
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/15-naming-convention-preview.png)
 
@@ -196,13 +196,13 @@ Op basis van wat in de documentnaam wordt herkend, wordt een veld ingevuld. Veld
 
 ## 8. **Statusworkflow**
 
-Dit is hoe de revisie-informatie eruit kan zien wanneer een document in de documenttabel is geselecteerd na activering van de [statusworkflow](https://support.catenda.com/nl/articles/9662473-status-workflow-shared-published).
+Dit is hoe de revisie-informatie eruit kan zien wanneer een document in de documenttabel is geselecteerd na activering van de [statusworkflow](https://support.catenda.com/nl/articles/9662473-status-workflow-gedeeld-gepubliceerd).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/18-status-workflow.png)
 
 ### 8.1 **Status van gepubliceerde revisie**
 
-De status die wordt weergegeven, is de status van de meest recent gepubliceerde revisie. Klik op de statusvervolgkeuzelijst om de status in de lijst met gepubliceerde [statussen](https://support.catenda.com/nl/articles/7831371-document-settings-page#h_e6f3ffdbff) die in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings-page) zijn geconfigureerd, te wijzigen. _Vereiste toegang:_ Schrijftoegang tot het document.
+De status die wordt weergegeven, is de status van de meest recent gepubliceerde revisie. Klik op de statusvervolgkeuzelijst om de status in de lijst met gepubliceerde [statussen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen#h_e6f3ffdbff) die in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen) zijn geconfigureerd, te wijzigen. _Vereiste toegang:_ Schrijftoegang tot het document.
 
 ### 8.2 **Status van gedeelde revisie**
 
@@ -252,13 +252,13 @@ Een hint over het bestaan van nieuwe concepten wordt weergegeven. De rest van de
 
 **Toon vorige revisie** Open het revisievoorbeeld van de meest recent gepubliceerde revisie in het document, ongeacht of er nieuwere conceptrevisies zijn of niet.
 
-_Nieuw goedkeuringsverzoek_ [Maak een nieuw goedkeuringsverzoek](https://support.catenda.com/nl/articles/12360159-creating-a-new-approval-request) voor deze conceptrevisie.
+_Nieuw goedkeuringsverzoek_ [Maak een nieuw goedkeuringsverzoek](https://support.catenda.com/nl/articles/12360159-een-nieuw-goedkeuringsverzoek-maken-legacy) voor deze conceptrevisie.
 
 **Goedkeuringskaart** Als een concept onderdeel uitmaakt van een goedkeuring, wordt de goedkeuringskaart voor elke goedkeuring waarvan het concept onderdeel uitmaakt, hier weergegeven:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/26-draft-revision-status-legacy.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/8349340-approvals-page) voor meer informatie over wat op een goedkeuringskaart wordt weergegeven.
+Klik [hier](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy) voor meer informatie over wat op een goedkeuringskaart wordt weergegeven.
 
 **Status** De status die wordt weergegeven, is de status van de huidige conceptrevisie. Klik op de statusvervolgkeuzelijst om de status in de lijst met conceptstatussen die in documentinstellingen zijn geconfigureerd, te wijzigen. _Vereiste toegang:_ Schrijftoegang tot het document.
 
@@ -280,11 +280,11 @@ Rechts wordt hun huidige toegang tot het document weergegeven. Deze toegang is o
 
 ### 9.1 **Toegang bewerken**
 
-Klik [hier](https://support.catenda.com/nl/articles/4670287-folders-and-documents-acl) voor meer informatie over toegangscontrole in de documentensectie.
+Klik [hier](https://support.catenda.com/nl/articles/4670287-mappen-en-documenten-toegangscontrole) voor meer informatie over toegangscontrole in de documentensectie.
 
 ## 10. **Goedkeuringen**
 
-Het goedkeuringenmenu is zichtbaar voor projecten waar de [statusworkflow](https://support.catenda.com/nl/articles/9662473-status-workflow-shared-published) is ingeschakeld in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings-page).
+Het goedkeuringenmenu is zichtbaar voor projecten waar de [statusworkflow](https://support.catenda.com/nl/articles/9662473-status-workflow-gedeeld-gepubliceerd) is ingeschakeld in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen).
 
 ### 10.1 **Geen open goedkeuringsverzoeken**
 
@@ -314,7 +314,7 @@ Als gedeelde statussen niet zijn uitgeschakeld met de nieuwe statusworkflow in d
 
 **Vereiste toegang om gedeelde revisies te bekijken:** Leestoegang tot het document. Selectievakje voor het weergeven van gedeelde revisies is ingeschakeld.
 
-**Nieuw goedkeuringsverzoek** Klik [hier](https://support.catenda.com/nl/articles/12360159-creating-a-new-approval-request) voor meer informatie over het maken van een nieuw goedkeuringsverzoek
+**Nieuw goedkeuringsverzoek** Klik [hier](https://support.catenda.com/nl/articles/12360159-een-nieuw-goedkeuringsverzoek-maken-legacy) voor meer informatie over het maken van een nieuw goedkeuringsverzoek
 
 **Overzicht goedkeuringsverzoek** Met de nieuwe validatiewerkflow is het mogelijk om een concept van een goedkeuringswerkflow te maken. Concept-goedkeuringen verschijnen niet in het overzicht. Zodra een goedkeuringswerkflow is gestart, wordt deze weergegeven en blijft deze in het overzicht van de goedkeuringswerkflow. Er kunnen meerdere verzoeken zijn gedaan om elk van de gedeelde revisies in het document goed te keuren, waarvan sommige mogelijk nog steeds open zijn. Dit is hoe het goedkeuringsoverzicht eruit kan zien wanneer een van de revisies in het document onderdeel uitmaakt van een open goedkeuringsverzoek met de nieuwe validatiewerkflow wanneer de nieuwste revisie nog wordt gevalideerd:
 
@@ -340,7 +340,7 @@ Opmerking: het is alleen mogelijk om conceptrevisies te uploaden en dus goedkeur
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/33-new-draft-revision-but-no-approval-request-yet-legacy.png)
 
-**Nieuw goedkeuringsverzoek** Klik [hier](https://support.catenda.com/nl/articles/12360159-creating-a-new-approval-request) voor meer informatie over het maken van een nieuw goedkeuringsverzoek
+**Nieuw goedkeuringsverzoek** Klik [hier](https://support.catenda.com/nl/articles/12360159-een-nieuw-goedkeuringsverzoek-maken-legacy) voor meer informatie over het maken van een nieuw goedkeuringsverzoek
 
 ### 10.4 **Overzicht goedkeuringsverzoek - Legacy**
 
@@ -358,7 +358,7 @@ Als de revisie is gepubliceerd als gevolg van een goedkeuring, wordt dat goedkeu
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/35-approval-request-overview-legacy.png)
 
-Of de meest recente revisie nu is gepubliceerd of niet, er wordt een kaart weergegeven voor elke documentrevisie die onderdeel uitmaakt van een goedkeuringsverzoek dat nog steeds open is. Op deze manier kunnen de goedkeuringen die niet zijn gesloten, worden herzien. Klik [hier](https://support.catenda.com/nl/articles/8349340-approvals-page) om te zien wat in een goedkeuringskaart wordt beschreven.
+Of de meest recente revisie nu is gepubliceerd of niet, er wordt een kaart weergegeven voor elke documentrevisie die onderdeel uitmaakt van een goedkeuringsverzoek dat nog steeds open is. Op deze manier kunnen de goedkeuringen die niet zijn gesloten, worden herzien. Klik [hier](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy) om te zien wat in een goedkeuringskaart wordt beschreven.
 
 ### 10.5 **Alle conceptstatussen archiveren - Legacy**
 
@@ -382,7 +382,7 @@ Hier kunt u de geschiedenis van het document zien
 
 ## 13. **Bundels**
 
-Als uw document onderdeel uitmaakt van [bundels](https://support.catenda.com/nl/articles/6344318-collections-page), worden deze hier vermeld.
+Als uw document onderdeel uitmaakt van [bundels](https://support.catenda.com/nl/articles/6344318-collectiespagina), worden deze hier vermeld.
 
 ## 14. **Gekoppelde objecten**
 
@@ -390,4 +390,4 @@ Hier kunt u zien welke objecten aan het document zijn gekoppeld
 
 ## 15. **Onderwerpen**
 
-Voor elk onderwerp waaraan het document is gekoppeld, wordt hier een onderwerpkaart weergegeven. Klik [hier](https://support.catenda.com/nl/articles/6941232-list-view-in-a-topic-board) voor meer informatie over wat in een onderwerpkaart wordt weergegeven.
+Voor elk onderwerp waaraan het document is gekoppeld, wordt hier een onderwerpkaart weergegeven. Klik [hier](https://support.catenda.com/nl/articles/6941232-lijstweergave-in-een-topic-board) voor meer informatie over wat in een onderwerpkaart wordt weergegeven.

@@ -1,22 +1,22 @@
 # Rechtermenu van een revisie - Opmerkingen
 
-Als u een document selecteert op de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documents-page) of in een bibliotheek, verschijnt er een nieuw venster voor dat document. U ziet altijd de meest recente revisie wanneer u een document opent. De documentenpagina kan er ongeveer als volgt uitzien:
+Als u een document selecteert op de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documentenpagina) of in een bibliotheek, verschijnt er een nieuw venster voor dat document. U ziet altijd de meest recente revisie wanneer u een document opent. De documentenpagina kan er ongeveer als volgt uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/01-intro.png)
 
-1. De [documentbanner](https://support.catenda.com/nl/articles/8461918-document-banner-actions-navigation) loopt over de bovenkant van de documentenpagina
+1. De [documentbanner](https://support.catenda.com/nl/articles/8461918-documentbanner-navigatie) loopt over de bovenkant van de documentenpagina
 1. U vindt de documentkoptekst onder de documentbanner en boven de documentvoorbeeldweergave.
-1. Onder de documentkoptekst vindt u de [documentvoorbeeldweergave](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations).
+1. Onder de documentkoptekst vindt u de [documentvoorbeeldweergave](https://support.catenda.com/nl/articles/5001165-documentvoorbeeld-en-aantekeningen).
 1. Links van de documentkoptekst en voorbeeldweergave vindt u de documentlijst
 1. _Dit artikel:_ Rechts van de documentkoptekst en voorbeeldweergave vindt u het rechtermenu met informatie.
 
-Wanneer u een document voor het eerst opent, kan het rechtermenu gesloten zijn. U kunt op de informatieknop rechtsonder in de [documentbanner](https://support.catenda.com/nl/articles/8461918-document-banner-actions-navigation) klikken om dit menu uit te vouwen.
+Wanneer u een document voor het eerst opent, kan het rechtermenu gesloten zijn. U kunt op de informatieknop rechtsonder in de [documentbanner](https://support.catenda.com/nl/articles/8461918-documentbanner-navigatie) klikken om dit menu uit te vouwen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/02-intro.png)
 
 ## 1. **Tabblad Bestandsinfo en Opmerkingen**
 
-Bovenaan het menu ziet u het tabblad Bestandsinfo en het tabblad Opmerkingen. Standaard is het tabblad Bestandsinfo actief wanneer u het rechtermenu opent. Wanneer u een aantekening in de documentvoorbeeldweergave maakt, schakelt dit menu automatisch naar het opmerkingentabblad. Dit artikel beschrijft het tabblad Opmerking. Als u op zoek bent naar informatie over het tabblad Bestandsinfo, klik dan [hier](https://support.catenda.com/nl/articles/8302244-right-menu-of-a-revision).
+Bovenaan het menu ziet u het tabblad Bestandsinfo en het tabblad Opmerkingen. Standaard is het tabblad Bestandsinfo actief wanneer u het rechtermenu opent. Wanneer u een aantekening in de documentvoorbeeldweergave maakt, schakelt dit menu automatisch naar het opmerkingentabblad. Dit artikel beschrijft het tabblad Opmerking. Als u op zoek bent naar informatie over het tabblad Bestandsinfo, klik dan [hier](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie).
 
 ## 2. **Wat is een opmerking**
 
@@ -36,7 +36,7 @@ Als er opmerkingen op uw huidige revisie aan topics zijn toegevoegd, ziet u een 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/03-markup-tab.png)
 
-Als u een opmerking wilt toevoegen, selecteert u een hulpmiddel in de [werkbalk](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations#h_6e3ac983b6) boven de documentvoorbeeldweergave en maakt u een aantekening.
+Als u een opmerking wilt toevoegen, selecteert u een hulpmiddel in de [werkbalk](https://support.catenda.com/nl/articles/5001165-documentvoorbeeld-en-aantekeningen#h_6e3ac983b6) boven de documentvoorbeeldweergave en maakt u een aantekening.
 
 ### 2.2 **Dropdown Topic-selectie**
 
@@ -64,7 +64,7 @@ Als er opmerkingen op uw huidige revisie aan een topic zijn toegevoegd, ziet u d
 
 ### 3.1 **Niet bewaarde opmerkingen**
 
-Klik [hier](https://support.catenda.com/nl/articles/10209740-saving-a-markup#h_8542b82cf8) voor informatie over het opslaan van nieuwe opmerkingen zonder dat u een topic hebt geselecteerd.
+Klik [hier](https://support.catenda.com/nl/articles/10209740-een-opmerking-opslaan#h_8542b82cf8) voor informatie over het opslaan van nieuwe opmerkingen zonder dat u een topic hebt geselecteerd.
 
 ### 3.2 **Weergaveopties voor topics**
 
@@ -98,7 +98,7 @@ _Topickoptekst_ Bovenaan ziet u de titel en het nummer van de topic. Klik op de 
 
 Onder de topictitel ziet u de status en het type van de topic. U kunt de status van deze topic in deze weergave wijzigen door erop te klikken en een ander status te selecteren. Dit kan handig zijn wanneer alle opmerkingen in de topic zijn opgelost en de topic kan worden gesloten. _Vereiste toegang:_ Schrijftoegang tot het topicbord waarin de topic zich bevindt.
 
-**Opmerkingen van documentrevisies in topicopmerkingen** Elke opmerking heeft een snapshot eraan gekoppeld. Deze snapshot is een afbeelding van alle aantekeningen in de huidige opmerking. U kunt op de snapshot klikken om het snapshotdialoogvenster te openen, net als [in een topic](https://support.catenda.com/nl/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f). Daar kunt u de afbeelding groot op het scherm zien en deze downloaden.
+**Opmerkingen van documentrevisies in topicopmerkingen** Elke opmerking heeft een snapshot eraan gekoppeld. Deze snapshot is een afbeelding van alle aantekeningen in de huidige opmerking. U kunt op de snapshot klikken om het snapshotdialoogvenster te openen, net als [in een topic](https://support.catenda.com/nl/articles/8053352-onderwerplichaam-de-inhoud-van-een-onderwerp#h_1ba7f8873f). Daar kunt u de afbeelding groot op het scherm zien en deze downloaden.
 
 Als er opmerkingen op de hieronder opgegeven revisie van het document in meerdere opmerkingen van de topic staan, ziet u pijlen links en rechts van de afbeelding. Deze pijlen kunnen worden gebruikt om door de verschillende opmerkingen van de topic te bladeren.
 
@@ -116,4 +116,4 @@ Klik op de knop Terug links van de dropdown om terug te gaan naar het topicoverz
 
 ### 4.1 **Nieuwe opmerkingen opslaan voor een geselecteerde topic**
 
-Klik [hier](https://support.catenda.com/nl/articles/10209740-saving-a-markup#h_17e389a6b7) voor informatie over het opslaan van nieuwe opmerkingen voor een geselecteerde topic.
+Klik [hier](https://support.catenda.com/nl/articles/10209740-een-opmerking-opslaan#h_17e389a6b7) voor informatie over het opslaan van nieuwe opmerkingen voor een geselecteerde topic.

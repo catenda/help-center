@@ -12,24 +12,24 @@ The action menu to the right of the icons can look something like this:
 
 The download icon and hamburger menu action on a document page download the latest revision of the document, even if you are looking at a previous revision you will get the latest revision with this action.
 
-If you want to download previous revisions of a document you can do so in the [revisions menu](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document#h_d0769e55eb) of the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-in-a-document).
+If you want to download previous revisions of a document you can do so in the [revisions menu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info#h_d0769e55eb) of the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info).
 
 ### 1.2 Same action as in the documents list
 
 Actions that have the same behavior as in the documents list include:
 
 - [New revision](https://support.catenda.com/en/articles/4670293-uploading-new-document-revision)
-- [Link and unlink](https://support.catenda.com/en/articles/4670288-actions-documents#h_d9a539f267)
-- [New draft](https://support.catenda.com/en/articles/4670288-actions-documents#h_fb8963d8e5)
-- [Move](https://support.catenda.com/en/articles/4670288-actions-documents#h_f80b6a94f2)
-- [Create model](https://support.catenda.com/en/articles/4670288-actions-documents#h_33d57b9d3d)
-- [Remove model](https://support.catenda.com/en/articles/4670288-actions-documents#h_33d57b9d3d)
-- [Preview](https://support.catenda.com/en/articles/4670288-actions-documents#h_02cfc15b02)
-- [Delete](https://support.catenda.com/en/articles/4670288-actions-documents#h_fbf2be74c3)
+- [Link and unlink](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_d9a539f267)
+- [New draft](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_fb8963d8e5)
+- [Move](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_f80b6a94f2)
+- [Create model](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_33d57b9d3d)
+- [Remove model](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_33d57b9d3d)
+- [Preview](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_02cfc15b02)
+- [Delete](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_fbf2be74c3)
 
 ## 2. **Document revision actions**
 
-Actions for your current revision can be found in the [right menu of a revision](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision). This is what the revision actions can look like:
+Actions for your current revision can be found in the [right menu of a revision](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info). This is what the revision actions can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/nxq3vptz/02-document-revision-actions.png)
 

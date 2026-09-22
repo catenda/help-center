@@ -8,7 +8,7 @@ Files can be uploaded in four different ways. The file will end up in the folder
 
 ### 1.1 **1. Upload button**
 
-To upload a new document or revision press the [+ button](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_7c8e07223e) on the top right. This will open the [upload document menu](#h_00fa77db3e).
+To upload a new document or revision press the [+ button](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_7c8e07223e) on the top right. This will open the [upload document menu](#h_00fa77db3e).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y90qfgry/01-1-upload-button.png)
 
@@ -16,7 +16,7 @@ Uploading a file like this will let you choose if you want a new revision or a n
 
 ### 1.2 **2. New revision button**
 
-With a document selected in the document structure the [new revision action](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_5785139ce3) can be found in the [selected item hamburger menu](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure#h_fb4e9ef375) towards the top of the documents table. In a document preview the [new revision action](https://support.catenda.com/en/articles/9323521-actions-in-a-document#h_c18a9b8abf) in the [existing item hamburger menu](https://support.catenda.com/en/articles/9323521-actions-in-a-document) towards the top right of the page can be used. Uploading a file like this will create a new revision and not a new document.
+With a document selected in the document structure the [new revision action](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_5785139ce3) can be found in the [selected item hamburger menu](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_fb4e9ef375) towards the top of the documents table. In a document preview the [new revision action](https://support.catenda.com/en/articles/9323521-document-revision-actions#h_c18a9b8abf) in the [existing item hamburger menu](https://support.catenda.com/en/articles/9323521-document-revision-actions) towards the top right of the page can be used. Uploading a file like this will create a new revision and not a new document.
 
 ### 1.3 **3. Drag and drop**
 
@@ -44,15 +44,15 @@ Up to 100 files can be drag & dropped, [each up to 7GB\*](#h_09bc8fbe94), from t
 
 ### 2.3 **Folders**
 
-In this menu only single documents can be uploaded. To upload a folder it has to be zipped and uploaded in a different way. See the [Upload zip](https://support.catenda.com/en/articles/7945410-upload-a-zip-folder-structure) article.
+In this menu only single documents can be uploaded. To upload a folder it has to be zipped and uploaded in a different way. See the [Upload zip](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure) article.
 
 ### 2.4 **Upload limit**
 
 **Limits for single files:** Up to 100 files can be uploaded at a time Up to 7 GB per file can be uploaded at a time.
 
-**Limits for zipped files:** To upload more files at a time or larger size files, please use the '[upload zip](https://support.catenda.com/en/articles/7945410-upload-a-zip-folder-structure)' function.
+**Limits for zipped files:** To upload more files at a time or larger size files, please use the '[upload zip](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)' function.
 
-**Limits for point clouds:** Point clouds often have large file sizes so their limit has been increased to 25 GB Click [here](https://support.catenda.com/en/articles/4670324-is-there-a-size-limit-for-ifc-files) to see more about size limits.
+**Limits for point clouds:** Point clouds often have large file sizes so their limit has been increased to 25 GB Click [here](https://support.catenda.com/en/articles/4670324-what-file-size-can-i-upload) to see more about size limits.
 
 ## 3. **Desktop connector**
 
@@ -60,7 +60,7 @@ With the [Catenda Desktop Connector](https://support.catenda.com/en/articles/835
 
 ## 4. **Document preview**
 
-To see if you will be able to see the contents of your filetype on Catenda click [here](https://support.catenda.com/en/articles/4670320-what-file-types-does-catenda-support).
+To see if you will be able to see the contents of your filetype on Catenda click [here](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub).
 
 ## 5. **Virus check**
 

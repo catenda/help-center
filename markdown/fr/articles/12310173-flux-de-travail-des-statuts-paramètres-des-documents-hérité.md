@@ -1,6 +1,6 @@
 # Flux de travail des statuts - Paramètres des documents - Hérité
 
-Le menu du flux de travail des statuts se trouve sur la [page des paramètres des documents](https://support.catenda.com/fr/articles/7831371-document-settings-page). Dans les nouveaux projets, le flux de travail des statuts est désactivé par défaut. Il est possible de démarrer un projet avec des statuts préconfigurés si le projet est basé sur un [projet modèle](https://support.catenda.com/fr/articles/4670245-creating-a-new-project#h_5db32e5398).
+Le menu du flux de travail des statuts se trouve sur la [page des paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document). Dans les nouveaux projets, le flux de travail des statuts est désactivé par défaut. Il est possible de démarrer un projet avec des statuts préconfigurés si le projet est basé sur un [projet modèle](https://support.catenda.com/fr/articles/4670245-creer-un-nouveau-projet#h_5db32e5398).
 
 Voici à quoi le menu du flux de travail des statuts peut ressembler après l'activation du flux de travail des statuts.
 
@@ -15,7 +15,7 @@ Lorsque le flux de travail des statuts est activé, les éléments suivants chan
     - Peut être téléchargé à la phase de publication avec une case à cocher.
 - Le statut par défaut est défini sur Aucun statut.
 - Un menu d'approbations dans les paramètres des documents apparaît.
-- Une sous-page [approbations](https://support.catenda.com/fr/articles/5784717-document-approval) de la page des documents apparaît.
+- Une sous-page [approbations](https://support.catenda.com/fr/articles/5784717-approbation-des-documents-heritage) de la page des documents apparaît.
 
 ## 1. **Ajouter un statut**
 
@@ -45,7 +45,7 @@ Les statuts archivés peuvent toujours être restaurés en cliquant sur "Affiche
 
 ## 3. **Statut par défaut**
 
-Lorsqu'une nouvelle révision publiée est effectuée soit par téléchargement, soit par publication de brouillons suite à une [approbation](https://support.catenda.com/fr/articles/5784717-document-approval), vous pouvez choisir le statut qu'elle aura par défaut. Ce statut peut toujours être modifié avant chaque publication de document.
+Lorsqu'une nouvelle révision publiée est effectuée soit par téléchargement, soit par publication de brouillons suite à une [approbation](https://support.catenda.com/fr/articles/5784717-approbation-des-documents-heritage), vous pouvez choisir le statut qu'elle aura par défaut. Ce statut peut toujours être modifié avant chaque publication de document.
 
 ## 4. **Menu de téléchargement**
 

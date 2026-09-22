@@ -4,7 +4,7 @@
 
 Hallo alle sammen,
 
-det har vært et par fine måneder siden siste endringslogg. Håpet dere alle hadde en fin vinterferien! 🎄🤶🧑‍🎄❄️ Og velkommen til 2024!🎇 Håpet vi kan gjøre mange endringer og forbedringer i år også! I denne artikkelen finner du oppdateringer om følgende: [Artikler](https://support.catenda.com/nb/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [saker løst](https://support.catenda.com/nb/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [Nye utgivelser](https://support.catenda.com/nb/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)
+det har vært et par fine måneder siden siste endringslogg. Håpet dere alle hadde en fin vinterferien! 🎄🤶🧑‍🎄❄️ Og velkommen til 2024!🎇 Håpet vi kan gjøre mange endringer og forbedringer i år også! I denne artikkelen finner du oppdateringer om følgende: [Artikler](https://support.catenda.com/nb/articles/7983534-endringslogg-3-catenda-oktober-2023#h_5be2a02999) - [saker løst](https://support.catenda.com/nb/articles/7983534-endringslogg-3-catenda-oktober-2023#h_d238d9111d) - [Nye utgivelser](https://support.catenda.com/nb/articles/7983534-endringslogg-3-catenda-oktober-2023#h_d238d9111d)
 
 ## 1. **Artikler**
 
@@ -12,31 +12,31 @@ Når nye funksjoner lanseres og feil utbedres, oppdateres artikler med endringen
 
 ### 1.1 **Nye artikler:**
 
-**Kom i gang og FAQ** [Sorteringsrekkefølge av lister](https://support.catenda.com/nb/articles/8487788-sorting-order-of-lists) [Strukturering av dokumenter](https://support.catenda.com/nb/articles/8542598-structuring-documents)
+**Kom i gang og FAQ** [Sorteringsrekkefølge av lister](https://support.catenda.com/nb/articles/8487788-sorteringsrekkefolge-for-lister) [Strukturering av dokumenter](https://support.catenda.com/nb/articles/8542598-strukturering-av-dokumenter)
 
-**Hovedside** [Organisasjonsside](https://support.catenda.com/nb/articles/8281910-organizations-page)
+**Hovedside** [Organisasjonsside](https://support.catenda.com/nb/articles/8281910-organisasjonssiden)
 
-**Saker** [Sakhistorikk](https://support.catenda.com/nb/articles/8613038-issue-history)
+**Saker** [Sakhistorikk](https://support.catenda.com/nb/articles/8613038-sakhistorikk)
 
-**Dokumenter** [Dokumenter](https://support.catenda.com/nb/articles/8461918-documents) [PDF-sammenligning](https://support.catenda.com/nb/articles/8461650-pdf-compare) [Filtrering på gjennomgangssiden](https://support.catenda.com/nb/articles/8551740-filtering-on-the-approvals-page)
+**Dokumenter** [Dokumenter](https://support.catenda.com/nb/articles/8461918-dokumentbanner-navigasjon) [PDF-sammenligning](https://support.catenda.com/nb/articles/8461650-pdf-sammenlign) [Filtrering på gjennomgangssiden](https://support.catenda.com/nb/articles/8551740-filtrering-pa-godkjenningssiden-eldre-versjon)
 
-**Modeller og 3D** [Bokmerke](https://support.catenda.com/nb/articles/8471481-bookmark)
+**Modeller og 3D** [Bokmerke](https://support.catenda.com/nb/articles/8471481-bokmerkeside-for-innhold)
 
-**Prosjektinnstillinger** [Opprett egendefinert felt](https://support.catenda.com/nb/articles/8445575-creating-a-custom-field) [Side for egendefinert felt](https://support.catenda.com/nb/articles/8445588-custom-field-page)
+**Prosjektinnstillinger** [Opprett egendefinert felt](https://support.catenda.com/nb/articles/8445575-opprette-et-egendefinert-felt) [Side for egendefinert felt](https://support.catenda.com/nb/articles/8445588-egendefinert-felt-innholdsside)
 
 ### 1.2 **Artikler som har endret seg:**
 
-Kom i gang og FAQ [Lagre filtre](https://support.catenda.com/nb/articles/8551755-saving-filters)
+Kom i gang og FAQ [Lagre filtre](https://support.catenda.com/nb/articles/8551755-begrenser-filterresultater)
 
-Saker [Saksliste ACL](https://support.catenda.com/nb/articles/4670296-issue-boards-acl)
+Saker [Saksliste ACL](https://support.catenda.com/nb/articles/4670296-tilgangstyring-pa-saksliste)
 
-Dokumenter [Dokumentside](https://support.catenda.com/nb/articles/8204673-documents-page) [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-models-as-documents) [Filtrering på dokumentsiden](https://support.catenda.com/nb/articles/4670283-filtering-on-the-documents-page)
+Dokumenter [Dokumentside](https://support.catenda.com/nb/articles/8204673-dokumenter-side) [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-modeller-som-dokumenter) [Filtrering på dokumentsiden](https://support.catenda.com/nb/articles/4670283-filtrering-pa-dokumentsiden)
 
-Modeller [Bokmerker-side](https://support.catenda.com/nb/articles/4670281-bookmarks-page) [Opprett nytt bokmerke](https://support.catenda.com/nb/articles/4670269-creating-a-new-bookmark) [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-models-as-documents)
+Modeller [Bokmerker-side](https://support.catenda.com/nb/articles/4670281-bokmerke-side) [Opprett nytt bokmerke](https://support.catenda.com/nb/articles/4670269-opprette-et-nytt-bokmerke) [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-modeller-som-dokumenter)
 
 Bibliotek <a class="intercom-content-link" href="" target="_blank">Lenkekatalog</a>
 
-Innstillinger [Medlemsside](https://support.catenda.com/nb/articles/4670291-members-page)
+Innstillinger [Medlemsside](https://support.catenda.com/nb/articles/4670291-medlemmer-og-teams-side)
 
 ## 2. **Feil løst**
 

@@ -6,7 +6,7 @@ There are two ways to integrate with Catenda.
 
 ### 1.1 **Catenda SharePoint App**
 
-On SharePoint [this application](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-plugin) can be enabled for the tenant and added to a site the owner. SharePoint users will then be able to publish documents to Catenda. SharePoint owners can then also display the Catenda project document structure on SharePoint.
+On SharePoint [this application](https://support.catenda.com/en/articles/8396496-catenda-sharepoint-application) can be enabled for the tenant and added to a site the owner. SharePoint users will then be able to publish documents to Catenda. SharePoint owners can then also display the Catenda project document structure on SharePoint.
 
 ### 1.2 **Catenda SharePoint Library**
 

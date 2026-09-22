@@ -10,7 +10,7 @@ Cet article contient des informations sur les sujets suivants : [Rechercher ou f
 
 ## 1. **Options de recherche ou de filtrage**
 
-Consultez [ici](https://support.catenda.com/fr/articles/4670283-search-and-filter-option) pour découvrir comment rechercher ou filtrer au mieux dans le tableau des rapports
+Consultez [ici](https://support.catenda.com/fr/articles/4670283-filtrage-sur-la-page-des-documents) pour découvrir comment rechercher ou filtrer au mieux dans le tableau des rapports
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/02-search-or-filter-options.png)
 
@@ -32,7 +32,7 @@ Dans le menu de droite, vous pourrez voir des informations sur :
 - Objets liés
 - Sujets
 
-Cliquez [ici](https://support.catenda.com/fr/articles/8345396-right-panel-on-the-documents-page) pour en savoir plus sur le menu de droite.
+Cliquez [ici](https://support.catenda.com/fr/articles/8345396-menu-de-droite-sur-la-page-documents) pour en savoir plus sur le menu de droite.
 
 ## 3. **Tableau des rapports**
 
@@ -40,7 +40,7 @@ Le tableau des rapports peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/04-reports-table.png)
 
-Le tableau des rapports fonctionne exactement de la même manière que le [tableau des Documents](https://support.catenda.com/fr/articles/8204673-documents-page#h_54e8dfcac2), sauf que seuls les rapports seront affichés. Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda. Dès qu'un rapport est créé, il s'affichera sous forme de ligne dans le tableau des rapports pour la personne. Les rapports sont également visibles dans le tableau des Documents.
+Le tableau des rapports fonctionne exactement de la même manière que le [tableau des Documents](https://support.catenda.com/fr/articles/8204673-page-documents#h_54e8dfcac2), sauf que seuls les rapports seront affichés. Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tableaux-sur-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda. Dès qu'un rapport est créé, il s'affichera sous forme de ligne dans le tableau des rapports pour la personne. Les rapports sont également visibles dans le tableau des Documents.
 
 ### 3.1 **Actions d'élément sélectionné**
 
@@ -48,7 +48,7 @@ Après avoir sélectionné une ligne d'élément, les actions d'élément sélec
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yn04n2d1/05-selected-item-actions.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/4670288-document-structure-actions) pour en savoir plus sur les actions d'élément sélectionné sur la page Rapports.
+Cliquez [ici](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents) pour en savoir plus sur les actions d'élément sélectionné sur la page Rapports.
 
 ### 3.2 **Contenu de la ligne**
 
@@ -56,11 +56,11 @@ Cliquez [ici](https://support.catenda.com/fr/articles/4670288-document-structure
 
 **Ligne de dossier** L'ouverture du contenu d'une ligne de dossier change le tableau pour afficher le contenu de ce dossier dans le tableau des rapports.
 
-**Ligne de rapport** L'ouverture du contenu d'une ligne de rapports ouvre l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations) de la révision la plus récente de ce rapport.
+**Ligne de rapport** L'ouverture du contenu d'une ligne de rapports ouvre l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations) de la révision la plus récente de ce rapport.
 
 ### 3.3 **Contenu de la ligne avec flux de statut -** Révisions de brouillon
 
-L'ouverture du contenu d'une ligne de rapport avec uniquement des révisions de brouillon ouvre l'[aperçu du rapport](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations) de la révision de brouillon la plus récente du rapport.
+L'ouverture du contenu d'une ligne de rapport avec uniquement des révisions de brouillon ouvre l'[aperçu du rapport](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations) de la révision de brouillon la plus récente du rapport.
 
 ### 3.4 **Contenu de la ligne avec flux de statut - Onglet Espace de travail**
 
@@ -68,13 +68,13 @@ L'ouverture du contenu d'une ligne de rapport avec uniquement des révisions de 
 
 Sans accès à l'affichage des révisions partagées, la révision publiée la plus récente est affichée. Même s'il y a des révisions partagées plus récentes. _Accès requis -_ Accès en lecture au rapport
 
-**Contenu du rapport** L'ouverture du contenu d'une ligne de rapport dans l'onglet Espace de travail ouvre l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations) de la révision partagée la plus récente, même si les révisions du rapport ont été précédemment publiées.
+**Contenu du rapport** L'ouverture du contenu d'une ligne de rapport dans l'onglet Espace de travail ouvre l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations) de la révision partagée la plus récente, même si les révisions du rapport ont été précédemment publiées.
 
 ### 3.5 **Contenu de la ligne avec flux de statut -** Onglet Publié
 
 **Accès** Les lignes de la page Rapports sont affichées en fonction de l'accès à l'élément. Les lignes de rapport avec au moins une révision publiée sont affichées. _Accès requis -_ Lecture
 
-**Contenu du rapport** L'ouverture du contenu d'une ligne de rapport dans l'onglet publié ouvre l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations) de la révision publiée la plus récente du rapport, même s'il y a des révisions partagées plus récentes.
+**Contenu du rapport** L'ouverture du contenu d'une ligne de rapport dans l'onglet publié ouvre l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations) de la révision publiée la plus récente du rapport, même s'il y a des révisions partagées plus récentes.
 
 ### 3.6 **Colonnes**
 
@@ -96,4 +96,4 @@ Certaines colonnes du tableau des rapports sont activées par défaut, tandis qu
 
 Les pages suivantes se trouvent comme sous-pages de la page Rapports :
 
-- [Modèles](https://support.catenda.com/fr/articles/12380837-report-templates-page)
+- [Modèles](https://support.catenda.com/fr/articles/12380837-page-des-gabarits-de-rapports)

@@ -1,6 +1,6 @@
 # Rechtermenu op de verzamelinginhoudspagina
 
-Het rechtermenu bevindt zich in de rechterbovenhoek van de verzamelingbanner onder het actiemenu op de [verzamelinginhoudspagina](https://support.catenda.com/nl/articles/8999764-collection-content-page). Klik op het "i"-pictogram in de rechterbovenhoek om het rechtermenu van een verzameling te openen. _Vereiste toegang:_ Verzamelingsmaker of beheerder
+Het rechtermenu bevindt zich in de rechterbovenhoek van de verzamelingbanner onder het actiemenu op de [verzamelinginhoudspagina](https://support.catenda.com/nl/articles/8999764-verzamelinhoud-pagina). Klik op het "i"-pictogram in de rechterbovenhoek om het rechtermenu van een verzameling te openen. _Vereiste toegang:_ Verzamelingsmaker of beheerder
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/01-intro.png)
 

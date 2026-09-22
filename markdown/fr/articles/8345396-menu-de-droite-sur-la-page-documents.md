@@ -22,11 +22,11 @@ _Accès requis :_ accès en écriture au dossier.
 
 ### 1.2 **Contrôle d'accès**
 
-Pour plus d'informations sur le contrôle d'accès dans la section Documents, lisez [ici](https://support.catenda.com/fr/articles/4670287-folders-and-documents-acl).
+Pour plus d'informations sur le contrôle d'accès dans la section Documents, lisez [ici](https://support.catenda.com/fr/articles/4670287-controle-d-acces-aux-dossiers-et-documents).
 
 ### 1.3 **Collections**
 
-Si votre Document fait partie de [Collections](https://support.catenda.com/fr/articles/6344318-collections-page), ils seront listés ici.
+Si votre Document fait partie de [Collections](https://support.catenda.com/fr/articles/6344318-page-collections), ils seront listés ici.
 
 ## 2. **Un Document**
 
@@ -34,7 +34,7 @@ Voici à quoi peut ressembler le menu de droite quand un Document est sélection
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/04-one-document.png)
 
-Lorsque vous avez un Document sélectionné, les informations concernant la dernière révision publique de ce Document sont affichées. Consultez [ici](https://support.catenda.com/fr/articles/8302244-right-menu-of-a-revision) pour voir quelles informations sont disponibles.
+Lorsque vous avez un Document sélectionné, les informations concernant la dernière révision publique de ce Document sont affichées. Consultez [ici](https://support.catenda.com/fr/articles/8302244-menu-droit-d-une-revision-informations-de-revision) pour voir quelles informations sont disponibles.
 
 ## 3. **Plusieurs dossier(s) et/ou Document(s)**
 
@@ -54,11 +54,11 @@ Avec ce menu, vous pouvez modifier les valeurs de plusieurs dossier(s) et/ou Doc
 
 ### 3.2 **Contrôle d'accès**
 
-Avec ce menu, vous pouvez modifier l'accès de plusieurs dossier(s) et/ou Document(s) à la fois. Pour plus d'informations sur le contrôle d'accès dans la section Documents, lisez [ici](https://support.catenda.com/fr/articles/4670287-folders-and-documents-acl).
+Avec ce menu, vous pouvez modifier l'accès de plusieurs dossier(s) et/ou Document(s) à la fois. Pour plus d'informations sur le contrôle d'accès dans la section Documents, lisez [ici](https://support.catenda.com/fr/articles/4670287-controle-d-acces-aux-dossiers-et-documents).
 
 ### 3.3 **Collections**
 
-Si votre ou vos dossier(s) et/ou Document(s) font partie de [Collections](https://support.catenda.com/fr/articles/6344318-collections-page), ils seront listés ici.
+Si votre ou vos dossier(s) et/ou Document(s) font partie de [Collections](https://support.catenda.com/fr/articles/6344318-page-collections), ils seront listés ici.
 
 ### 3.4 **Objets liés**
 

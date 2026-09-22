@@ -1,6 +1,6 @@
 # Erstellen eines neuen Workflows
 
-Die neue Workflow-Seite kann durch Klicken auf die grüne Schaltfläche auf [der Workflows-Seite](https://support.catenda.com/de/articles/12309903-workflows-page-document-settings) oder durch Klicken auf die Aktion im Aktionsmenü des neuen Elements auf [der Freigabenseite](https://support.catenda.com/de/articles/8349340-approvals-page) geöffnet werden. Es ist nur möglich, neue Workflows in Projekten zu erstellen, in denen der neue Validierungs-Workflow aktiviert werden kann. Der neue Validierungs-Workflow ist eine On-Demand-Funktion, die beim Start eines neuen Projekts aktiviert werden kann. Es ist nur möglich, ein Projekt basierend auf einem Template-Projekt zu erstellen, wenn der neue Validierungs-Workflow in diesem Template-Projekt nicht aktiviert ist. So könnte der Titelteil einer neuen Freigabe aussehen:
+Die neue Workflow-Seite kann durch Klicken auf die grüne Schaltfläche auf [der Workflows-Seite](https://support.catenda.com/de/articles/12309903-workflows-seite-dokumenteinstellungen) oder durch Klicken auf die Aktion im Aktionsmenü des neuen Elements auf [der Freigabenseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy) geöffnet werden. Es ist nur möglich, neue Workflows in Projekten zu erstellen, in denen der neue Validierungs-Workflow aktiviert werden kann. Der neue Validierungs-Workflow ist eine On-Demand-Funktion, die beim Start eines neuen Projekts aktiviert werden kann. Es ist nur möglich, ein Projekt basierend auf einem Template-Projekt zu erstellen, wenn der neue Validierungs-Workflow in diesem Template-Projekt nicht aktiviert ist. So könnte der Titelteil einer neuen Freigabe aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/01-intro.png)
 
@@ -217,7 +217,7 @@ Im Feld Themenvorlagen können Sie die Vorlage auswählen, die das System verwen
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/m7h7atyc/23-br-topic-template.png)
 
-Die Auswahl einer Vorlage ist aus vorhandenen Themenvorlagen möglich. [Mehr über Themenvorlagen erfahren](https://support.catenda.com/de/articles/14076010-topic-template-settings-page)
+Die Auswahl einer Vorlage ist aus vorhandenen Themenvorlagen möglich. [Mehr über Themenvorlagen erfahren](https://support.catenda.com/de/articles/14076010-einstellungsseite-fur-themenvorlagen)
 
 Wenn keine Vorlage vorhanden ist, können Sie direkt in der Einstellungsansicht eine erstellen.
 

@@ -8,7 +8,7 @@ If you make an account you will not automatically be part of a project. To join 
 
 ## **Step 1 of 4 - Create a free account**
 
-Here you can insert your email address and and password to sign up for a free account. After successfully signing in you will be redirected to the [projects page](https://support.catenda.com/en/articles/4670260-projects-page).
+Here you can insert your email address and and password to sign up for a free account. After successfully signing in you will be redirected to the [projects page](https://support.catenda.com/en/articles/4670260-account-buttons).
 
 ### **Existing account**
 

@@ -24,15 +24,15 @@ Les ouvertures de portes sont spécifiées dans le fichier IFC. Vous pouvez voir
 
 ## 2. **Dessin en arrière-plan**
 
-Il est possible de placer un PDF de la section documents en arrière-plan avec le [configurateur d'étages](https://support.catenda.com/fr/articles/6921756-storey-configurator-page). Cela est particulièrement utile s'il y a des objets au-dessus ou au-dessous de la hauteur où les objets 3D sont traversés et qui n'apparaissent pas dans la visionneuse 2D. Voici des exemples : Conduits et tuyaux, Points de sortie électriques, Plans de plafond, Routes et voies ferrées
+Il est possible de placer un PDF de la section documents en arrière-plan avec le [configurateur d'étages](https://support.catenda.com/fr/articles/6921756-page-configurateur-d-etage). Cela est particulièrement utile s'il y a des objets au-dessus ou au-dessous de la hauteur où les objets 3D sont traversés et qui n'apparaissent pas dans la visionneuse 2D. Voici des exemples : Conduits et tuyaux, Points de sortie électriques, Plans de plafond, Routes et voies ferrées
 
 ## 3. **Marqueurs dans la visionneuse 2D**
 
-Avec [marqueurs activés](https://support.catenda.com/fr/articles/4854537-2d-viewer#h_381a9d4098), les rubriques avec localisation sont affichées sous forme de cercles colorés à une coordonnée x-y. Voici à quoi peut ressembler une vue 2D avec différents marqueurs dans le navigateur :
+Avec [marqueurs activés](https://support.catenda.com/fr/articles/4854537-visionneuse-2d#h_381a9d4098), les rubriques avec localisation sont affichées sous forme de cercles colorés à une coordonnée x-y. Voici à quoi peut ressembler une vue 2D avec différents marqueurs dans le navigateur :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3bzb6a32/03-markers-in-the-2d-viewer.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/4854523-2d-location-of-issues) pour en savoir plus sur la localisation 2D des rubriques.
+Cliquez [ici](https://support.catenda.com/fr/articles/4854523-localisation-2d-des-topics) pour en savoir plus sur la localisation 2D des rubriques.
 
 ### 3.1 **Rubriques avec marqueurs existants**
 

@@ -2,7 +2,7 @@
 
 > Un aperçu des droits d'accès des utilisateurs et des équipes
 
-L'aperçu des accès aux documents se trouve en cliquant sur le bouton d'aperçu des accès dans le [menu de contrôle d'accès](https://support.catenda.com/fr/articles/7831371-document-settings-page#h_98a4be4ac9) de la [page des paramètres des documents](https://support.catenda.com/fr/articles/7831371-document-settings-page). Avec l'aperçu des accès aux documents, un aperçu général des droits d'accès des utilisateurs et des équipes dans le tableau des documents peut être trouvé. _Accès requis:_ Administrateur
+L'aperçu des accès aux documents se trouve en cliquant sur le bouton d'aperçu des accès dans le [menu de contrôle d'accès](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document#h_98a4be4ac9) de la [page des paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document). Avec l'aperçu des accès aux documents, un aperçu général des droits d'accès des utilisateurs et des équipes dans le tableau des documents peut être trouvé. _Accès requis:_ Administrateur
 
 Voici à quoi peut ressembler la page d'aperçu des accès:
 
@@ -50,7 +50,7 @@ Cliquez sur l'action de régénération de l'aperçu des accès pour obtenir la 
 
 ## 3. **Tableau d'aperçu des accès**
 
-Il n'est possible de voir l'accès que pour les dossiers dans l'arborescence des documents. Pour voir l'accès à un document spécifique, sélectionnez le document et consultez le [menu d'accès](https://support.catenda.com/fr/articles/8302244-right-menu-of-a-revision-revision-info#h_8525de97c2) dans le [menu droit d'une révision de document](https://support.catenda.com/fr/articles/8302244-right-menu-of-a-revision-revision-info). Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux sur Catenda.
+Il n'est possible de voir l'accès que pour les dossiers dans l'arborescence des documents. Pour voir l'accès à un document spécifique, sélectionnez le document et consultez le [menu d'accès](https://support.catenda.com/fr/articles/8302244-menu-droit-d-une-revision-informations-de-revision#h_8525de97c2) dans le [menu droit d'une révision de document](https://support.catenda.com/fr/articles/8302244-menu-droit-d-une-revision-informations-de-revision). Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tableaux-sur-catenda) pour en savoir plus sur la façon de travailler avec les tableaux sur Catenda.
 
 ### 3.1 **Filtrage dans le tableau d'aperçu des accès**
 

@@ -1,6 +1,6 @@
 # Boards-Seite
 
-Sie finden die Boards-Seite als Unterseite der [Themen-Seite](https://support.catenda.com/de/articles/4670271-topics-page). Die Boards-Seite gibt Ihnen einen Überblick über Ihre verfügbaren topic boards.
+Sie finden die Boards-Seite als Unterseite der [Themen-Seite](https://support.catenda.com/de/articles/4670271-themen-seite). Die Boards-Seite gibt Ihnen einen Überblick über Ihre verfügbaren topic boards.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zq777cpq/01-intro.png)
 
@@ -16,7 +16,7 @@ Die neue Topic-Board-Seite könnte etwa so aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zq777cpq/03-new-topic-board.png)
 
-Geben Sie den Namen und die Beschreibung ein und klicken Sie auf "Hinzufügen". Klicken Sie [hier](https://support.catenda.com/de/articles/6379614-topic-board-from-an-existing-topic-board), um mehr über das Erstellen neuer Topic Boards zu erfahren. _Erforderlicher Zugriff:_ Schreibzugriff zum [Erstellen neuer Topic Boards](https://support.catenda.com/de/articles/4670299-topic-board-creation-acl) in [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-project-settings-page#h_f82a1850f3).
+Geben Sie den Namen und die Beschreibung ein und klicken Sie auf "Hinzufügen". Klicken Sie [hier](https://support.catenda.com/de/articles/6379614-topic-board-aus-einem-vorhandenen-topic-board), um mehr über das Erstellen neuer Topic Boards zu erfahren. _Erforderlicher Zugriff:_ Schreibzugriff zum [Erstellen neuer Topic Boards](https://support.catenda.com/de/articles/4670299-erstellung-von-themen-board-acls) in [Projekteinstellungen](https://support.catenda.com/de/articles/4670273-seite-projekteinstellungen#h_f82a1850f3).
 
 ## 2. **Topic Board-Liste**
 
@@ -30,7 +30,7 @@ Durch Anklicken des Topic Board-Namens können Sie direkt zum Topic Board spring
 
 ### 2.2 **Einstellungen**
 
-Klicken Sie auf die Schaltfläche "Einstellungen", um zu den [Einstellungen dieses Boards](https://support.catenda.com/de/articles/4670277-topic-board-settings) zu wechseln. Sie können auch das Board öffnen und das Einstellungsmenü im linken Navigationsmenü auswählen. _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Topic Board
+Klicken Sie auf die Schaltfläche "Einstellungen", um zu den [Einstellungen dieses Boards](https://support.catenda.com/de/articles/4670277-einstellungsseite-fur-topic-board) zu wechseln. Sie können auch das Board öffnen und das Einstellungsmenü im linken Navigationsmenü auswählen. _Erforderlicher Zugriff:_ Vollständiger Zugriff auf das Topic Board
 
 ### 2.3 **Statistiken**
 

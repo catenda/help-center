@@ -9,42 +9,42 @@ Sur les pages où plusieurs éléments sont affichés, les informations sont sou
 Dans les tableaux suivants, toutes les informations sont affichées par défaut
 
 - Panneau d'inspection
-    - [Quantitatif (QTO](https://support.catenda.com/fr/articles/6673929-quantity-take-off-qto))
-    - [Alignements](https://support.catenda.com/fr/articles/4670285-inspect-menu#h_9f512a0264)
-    - [4D](https://support.catenda.com/fr/articles/8238584-information-panel#h_e6adda9c62)
+    - [Quantitatif (QTO](https://support.catenda.com/fr/articles/6673929-releve-de-quantites-qto))
+    - [Alignements](https://support.catenda.com/fr/articles/4670285-menu-inspect#h_9f512a0264)
+    - [4D](https://support.catenda.com/fr/articles/8238584-panneau-d-information#h_e6adda9c62)
     - Conventions de dénomination
 - Bibliothèques
-    - [Bibliothèque de liens](https://support.catenda.com/fr/articles/4670254-links-library)
-    - [Bibliothèque Sharepoint](https://support.catenda.com/fr/articles/5744548-sharepoint-library)
-    - [Bibliothèque Dropbox](https://support.catenda.com/fr/articles/8065645-libraries-page)
-    - [Bibliothèque de valeur de propriété](https://support.catenda.com/fr/articles/4670252-property-value-library)
-    - [Bibliothèque de classification](https://support.catenda.com/fr/articles/4670255-classification-library)
+    - [Bibliothèque de liens](https://support.catenda.com/fr/articles/4670254-bibliotheque-de-liens)
+    - [Bibliothèque Sharepoint](https://support.catenda.com/fr/articles/5744548-bibliotheque-sharepoint)
+    - [Bibliothèque Dropbox](https://support.catenda.com/fr/articles/8065645-page-bibliotheques)
+    - [Bibliothèque de valeur de propriété](https://support.catenda.com/fr/articles/4670252-bibliotheque-de-valeurs-de-propriete)
+    - [Bibliothèque de classification](https://support.catenda.com/fr/articles/4670255-bibliotheque-de-classification)
 - Outil d'organisation
-    - [Page Utilisateurs](https://support.catenda.com/fr/articles/8508311-users-page-organization-tool)
-    - [Page Projets](https://support.catenda.com/fr/articles/8505058-projects-page-organization-tool)
-    - [Page Appartenances de projets](https://support.catenda.com/fr/articles/9003642-project-memberships-organization-tool)
+    - [Page Utilisateurs](https://support.catenda.com/fr/articles/8508311-page-utilisateurs-outil-d-organisation)
+    - [Page Projets](https://support.catenda.com/fr/articles/8505058-page-projets-outil-organisation)
+    - [Page Appartenances de projets](https://support.catenda.com/fr/articles/9003642-adhesions-au-projet-outil-d-organisation)
 
 Dans les tableaux suivants, une configuration par défaut est affichée au chargement de la page :
 
 - Modèles
-    - [Page Objets](https://support.catenda.com/fr/articles/12352750-objects-page)
+    - [Page Objets](https://support.catenda.com/fr/articles/12352750-page-objets)
 
 Dans les tableaux suivants, les modifications apportées à la configuration de tableau par défaut sont affichées au chargement de la page :
 
-- [Sujets](https://support.catenda.com/fr/articles/6941099-columns-on-the-topics-page) (Vue tableau)
-- [Modèles](https://support.catenda.com/fr/articles/4670286-models-page) (Vue de base, Onglet Publié, Onglet Espace de travail)
-- [Documents](https://support.catenda.com/fr/articles/8466850-columns-on-the-documents-page) (Vue de base, Onglet Publié, Onglet Espace de travail)
-    - [Aperçu d'accès au document](https://support.catenda.com/fr/articles/6660820-document-access-overview-acl-dashboard)
-- [Rapports](https://support.catenda.com/fr/articles/12303098-reports-page) (Vue de base, Onglet Publié, Onglet Espace de travail)
-- [Étiquettes](https://support.catenda.com/fr/articles/4670265-labels-page) (Onglet Étiquettes, Onglet Groupe)
-- [Champs personnalisés](https://support.catenda.com/fr/articles/6550459-custom-fields-page)
-- [Page Membres](https://support.catenda.com/fr/articles/11926821-members-page) (Onglet Membres, Onglet Équipes)
+- [Sujets](https://support.catenda.com/fr/articles/6941099-affichage-tableau-dans-un-topic-board) (Vue tableau)
+- [Modèles](https://support.catenda.com/fr/articles/4670286-page-modeles) (Vue de base, Onglet Publié, Onglet Espace de travail)
+- [Documents](https://support.catenda.com/fr/articles/8466850-colonnes-sur-la-page-des-documents) (Vue de base, Onglet Publié, Onglet Espace de travail)
+    - [Aperçu d'accès au document](https://support.catenda.com/fr/articles/6660820-page-d-apercu-des-acces-aux-documents)
+- [Rapports](https://support.catenda.com/fr/articles/12303098-page-rapports) (Vue de base, Onglet Publié, Onglet Espace de travail)
+- [Étiquettes](https://support.catenda.com/fr/articles/4670265-page-etiquettes) (Onglet Étiquettes, Onglet Groupe)
+- [Champs personnalisés](https://support.catenda.com/fr/articles/6550459-page-des-champs-personnalises)
+- [Page Membres](https://support.catenda.com/fr/articles/11926821-page-membres) (Onglet Membres, Onglet Équipes)
 
 Les modifications apportées à la configuration du tableau ne s'appliquent qu'à la personne qui effectue la modification et non à tous les Membres du projet. Lorsqu'une modification est apportée à un tableau, la modification affecte la façon dont ce tableau s'affiche dans tous les projets.
 
 Le tableau ci-dessous décrit les paramètres qui peuvent être configurés pour un tableau.
 
-<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="padding: 8px;"><h1 id="h_aa1a623a85">Préférences</h1></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1eedf14b1">Quoi</h2></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_691544b252">Où</h2></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fa7d3a8228">Aperçu des colonnes</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Un certain nombre de colonnes sont activées par défaut pour chaque tableau.</p><p>Les tableaux avec de nombreuses colonnes peuvent inclure des colonnes qui sont désactivées par défaut.</p><p>Les colonnes désactivées par défaut doivent être activées avec le menu déroulant des colonnes pour être affichées</p><div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;"><p><b>Remarque :</b> Les colonnes personnalisées comme les colonnes de champs personnalisés sont toujours masquées au chargement de la page.</p></div></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Menu déroulant des colonnes</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_ea66b1d6d8">Colonne triée et direction de tri</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les tableaux peuvent être triés par une colonne à la fois. Cliquez sur la ligne d'en-tête d'une colonne triable pour configurer la colonne par laquelle le tableau est trié et la direction du tri.</p><p>Après avoir trié par une colonne, les lignes du tableau seront réorganisées selon les <a class="intercom-content-link" href="https://support.catenda.com/fr/articles/8487788-sorting-order-of-lists">règles de tri typiques autour de Catenda</a>.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Ligne d'en-tête</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_321a81f32f">Ordre des colonnes</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les colonnes ont un ordre défini par défaut.</p><p>La réorganisation des colonnes change l'ordre des colonnes configuré</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Menu déroulant des colonnes et ligne d'en-tête</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_feb5f7b2ab">Largeur de colonne</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les largeurs de colonne par défaut sont ajustées pour afficher les parties essentielles du contenu de la colonne.</p><p>Par défaut, les colonnes peuvent ne pas afficher le contenu total d'une colonne</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Ligne d'en-tête</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7a5beb9bd0">Hauteur de ligne</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>La hauteur de ligne peut être modifiée avec les boutons de hauteur de ligne vers le haut à gauche du tableau.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Paramètres de visibilité du tableau</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1fe2adb04">Survol du menu de droite</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Après avoir sélectionné une ligne et ouvert le menu de droite sur une page, le menu de droite s'ouvrira à nouveau la prochaine fois qu'une ligne est sélectionnée jusqu'à ce qu'il soit fermé.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Bouton du menu de droite</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f502376bea">Panneau unique ou multi-panneau</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Chaque tableau a deux configurations.</p><p>Un lorsque le tableau est dans le seul panneau qui est ouvert et un lorsque plusieurs panneaux sont ouverts.</p><p><br/>​</p><p></p><p><i>Configuration de panneau unique</i></p><p>Si un tableau est dans le panneau de contenu et que le panneau de contenu est le seul panneau ouvert, la configuration de panneau unique est affichée.</p><p><br/>​</p><p></p><p><i>Configuration multi-panneau</i></p><p>Si un tableau est dans le panneau de contenu et qu'un autre panneau comme le panneau 3D ou d'information est ouvert en même temps, la configuration multi-panneau est affichée.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Bouton de panneau</p></td></tr></tbody></table></div>
+<div class="intercom-interblocks-table-container"><table role="presentation" style="border: 1px solid #c6c9c0; border-radius: 6px; border-collapse: separate; border-spacing: 0;"><tbody><tr><td style="padding: 8px;"><h1 id="h_aa1a623a85">Préférences</h1></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1eedf14b1">Quoi</h2></td><td style="border-left: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_691544b252">Où</h2></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_fa7d3a8228">Aperçu des colonnes</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Un certain nombre de colonnes sont activées par défaut pour chaque tableau.</p><p>Les tableaux avec de nombreuses colonnes peuvent inclure des colonnes qui sont désactivées par défaut.</p><p>Les colonnes désactivées par défaut doivent être activées avec le menu déroulant des colonnes pour être affichées</p><div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;"><p><b>Remarque :</b> Les colonnes personnalisées comme les colonnes de champs personnalisés sont toujours masquées au chargement de la page.</p></div></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Menu déroulant des colonnes</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_ea66b1d6d8">Colonne triée et direction de tri</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les tableaux peuvent être triés par une colonne à la fois. Cliquez sur la ligne d'en-tête d'une colonne triable pour configurer la colonne par laquelle le tableau est trié et la direction du tri.</p><p>Après avoir trié par une colonne, les lignes du tableau seront réorganisées selon les <a class="intercom-content-link" href="https://support.catenda.com/fr/articles/8487788-ordre-de-tri-des-listes">règles de tri typiques autour de Catenda</a>.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Ligne d'en-tête</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_321a81f32f">Ordre des colonnes</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les colonnes ont un ordre défini par défaut.</p><p>La réorganisation des colonnes change l'ordre des colonnes configuré</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Menu déroulant des colonnes et ligne d'en-tête</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_feb5f7b2ab">Largeur de colonne</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Les largeurs de colonne par défaut sont ajustées pour afficher les parties essentielles du contenu de la colonne.</p><p>Par défaut, les colonnes peuvent ne pas afficher le contenu total d'une colonne</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Ligne d'en-tête</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_7a5beb9bd0">Hauteur de ligne</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>La hauteur de ligne peut être modifiée avec les boutons de hauteur de ligne vers le haut à gauche du tableau.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Paramètres de visibilité du tableau</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_e1fe2adb04">Survol du menu de droite</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Après avoir sélectionné une ligne et ouvert le menu de droite sur une page, le menu de droite s'ouvrira à nouveau la prochaine fois qu'une ligne est sélectionnée jusqu'à ce qu'il soit fermé.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Bouton du menu de droite</p></td></tr><tr><td style="border-top: 1px solid #c6c9c0; padding: 8px;"><h2 id="h_f502376bea">Panneau unique ou multi-panneau</h2></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Chaque tableau a deux configurations.</p><p>Un lorsque le tableau est dans le seul panneau qui est ouvert et un lorsque plusieurs panneaux sont ouverts.</p><p><br/>​</p><p></p><p><i>Configuration de panneau unique</i></p><p>Si un tableau est dans le panneau de contenu et que le panneau de contenu est le seul panneau ouvert, la configuration de panneau unique est affichée.</p><p><br/>​</p><p></p><p><i>Configuration multi-panneau</i></p><p>Si un tableau est dans le panneau de contenu et qu'un autre panneau comme le panneau 3D ou d'information est ouvert en même temps, la configuration multi-panneau est affichée.</p></td><td style="border-left: 1px solid #c6c9c0; border-top: 1px solid #c6c9c0; padding: 8px;"><p>Bouton de panneau</p></td></tr></tbody></table></div>
 
 ## 2. Aperçu de la sélection
 
@@ -68,9 +68,9 @@ Après avoir sélectionné ou ouvert le contenu d'une ligne du tableau, un menu 
 
 Le menu d'action d'élément sélectionné peut inclure différentes actions en fonction du contenu de la ligne et de l'accès de l'utilisateur sélectionnant. Les actions possibles pour chaque tableau peuvent être trouvées ici :
 
-- [Actions d'élément sélectionné du sujet](https://support.catenda.com/fr/articles/4670284-topic-board-actions#h_b5c00c149b)
-- [Actions d'élément sélectionné de la page Modèles](https://support.catenda.com/fr/articles/9431936-models-page-actions#h_9c268c45ed)
-- [Actions d'élément sélectionné de la page Documents](https://support.catenda.com/fr/articles/4670288-document-structure-actions#h_fb4e9ef375)
+- [Actions d'élément sélectionné du sujet](https://support.catenda.com/fr/articles/4670284-actions-du-tableau-des-sujets#h_b5c00c149b)
+- [Actions d'élément sélectionné de la page Modèles](https://support.catenda.com/fr/articles/9431936-actions-de-la-page-modeles#h_9c268c45ed)
+- [Actions d'élément sélectionné de la page Documents](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents#h_fb4e9ef375)
 
 ### 2.4 Désélectionner tout
 
@@ -180,7 +180,7 @@ Si une colonne peut être triée, une flèche vers le haut/bas peut être visibl
 
 **Flèches de tri** Les flèches de tri peuvent indiquer quelle colonne est actuellement triée. Les flèches de tri peuvent montrer dans quelle direction les lignes sont triées.
 
-**Cliquer pour trier** Cliquez sur la cellule d'en-tête d'une colonne triable pour trier les lignes du tableau selon la colonne que cette cellule d'en-tête occupe. Après avoir trié par une colonne, les lignes du tableau seront réorganisées selon les [règles de tri typiques autour de Catenda](https://support.catenda.com/fr/articles/8487788-sorting-order-of-lists). Cliquez à nouveau sur la cellule d'en-tête de la colonne triée pour la trier dans le sens inverse. Le tri d'une colonne met à jour les préférences de tri pour le tableau.
+**Cliquer pour trier** Cliquez sur la cellule d'en-tête d'une colonne triable pour trier les lignes du tableau selon la colonne que cette cellule d'en-tête occupe. Après avoir trié par une colonne, les lignes du tableau seront réorganisées selon les [règles de tri typiques autour de Catenda](https://support.catenda.com/fr/articles/8487788-ordre-de-tri-des-listes). Cliquez à nouveau sur la cellule d'en-tête de la colonne triée pour la trier dans le sens inverse. Le tri d'une colonne met à jour les préférences de tri pour le tableau.
 
 > **Note :** Les tableaux ne peuvent être triés que par une seule colonne à la fois
 
@@ -251,19 +251,19 @@ Lorsque l'ancre de glisser est relâchée au-dessus d'une ligne interactable, la
 Il est possible de déplacer des colonnes dans les tableaux suivants :
 
 - Modèles
-    - [Page des objets](https://support.catenda.com/fr/articles/12352750-objects-page)
+    - [Page des objets](https://support.catenda.com/fr/articles/12352750-page-objets)
 - Outil d'organisation
-    - [Page des projets](https://support.catenda.com/fr/articles/8505058-projects-page-organization-tool)
-    - [Page des memberships de projet](https://support.catenda.com/fr/articles/9003642-project-memberships-organization-tool)
+    - [Page des projets](https://support.catenda.com/fr/articles/8505058-page-projets-outil-organisation)
+    - [Page des memberships de projet](https://support.catenda.com/fr/articles/9003642-adhesions-au-projet-outil-d-organisation)
 
-- [Rubriques](https://support.catenda.com/fr/articles/6941099-columns-on-the-topics-page) (Vue Tableau)
-- [Modèles](https://support.catenda.com/fr/articles/4670286-models-page) (Vue basique, Onglet Publié, Onglet Espace de travail)
-- [Documents](https://support.catenda.com/fr/articles/8466850-columns-on-the-documents-page) (Vue basique, Onglet Publié, Onglet Espace de travail)
-    - [Aperçu de l'accès aux documents](https://support.catenda.com/fr/articles/6660820-document-access-overview-acl-dashboard)
-- [Rapports](https://support.catenda.com/fr/articles/12303098-reports-page) (Vue basique, Onglet Publié, Onglet Espace de travail)
-- [Étiquettes](https://support.catenda.com/fr/articles/4670265-labels-page) (Onglet Étiquettes, Onglet Groupe)
-- [Champs personnalisés](https://support.catenda.com/fr/articles/6550459-custom-fields-page)
-- [Page Membres](https://support.catenda.com/fr/articles/11926821-members-page) (Onglet Membres, Onglet Équipes)
+- [Rubriques](https://support.catenda.com/fr/articles/6941099-affichage-tableau-dans-un-topic-board) (Vue Tableau)
+- [Modèles](https://support.catenda.com/fr/articles/4670286-page-modeles) (Vue basique, Onglet Publié, Onglet Espace de travail)
+- [Documents](https://support.catenda.com/fr/articles/8466850-colonnes-sur-la-page-des-documents) (Vue basique, Onglet Publié, Onglet Espace de travail)
+    - [Aperçu de l'accès aux documents](https://support.catenda.com/fr/articles/6660820-page-d-apercu-des-acces-aux-documents)
+- [Rapports](https://support.catenda.com/fr/articles/12303098-page-rapports) (Vue basique, Onglet Publié, Onglet Espace de travail)
+- [Étiquettes](https://support.catenda.com/fr/articles/4670265-page-etiquettes) (Onglet Étiquettes, Onglet Groupe)
+- [Champs personnalisés](https://support.catenda.com/fr/articles/6550459-page-des-champs-personnalises)
+- [Page Membres](https://support.catenda.com/fr/articles/11926821-page-membres) (Onglet Membres, Onglet Équipes)
 
 ## 9. Interaction avec des lignes en survolant
 

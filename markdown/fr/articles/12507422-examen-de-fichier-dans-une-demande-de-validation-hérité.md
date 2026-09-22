@@ -86,4 +86,4 @@ Lorsque le nombre minimum de membres spécifiés dans la validation ont soumis l
 
 ### 6.3 **Aperçu du document**
 
-L'aperçu du document sur la page d'examen de la demande de validation fonctionne de la même manière que l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations) lors de l'ouverture d'un document à partir du tableau des documents.
+L'aperçu du document sur la page d'examen de la demande de validation fonctionne de la même manière que l'[aperçu du document](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations) lors de l'ouverture d'un document à partir du tableau des documents.

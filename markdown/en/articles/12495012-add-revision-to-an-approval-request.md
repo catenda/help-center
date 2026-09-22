@@ -1,6 +1,6 @@
 # Add revision to an approval request
 
-Approval requests can be seen in projects where shared revisions were enabled after 2 October 2025. When shared revisions are enabled all new revisions are uploaded as shared revisions. Shared revisions can be added to an approval request by clicking on the add revision button in the [create an approval request dialogue](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request) and by clicking on the add revision button in a draft approval. This is what the add revision to aproval request dialogue that opens up can look like for projects that enabled shared revisions after
+Approval requests can be seen in projects where shared revisions were enabled after 2 October 2025. When shared revisions are enabled all new revisions are uploaded as shared revisions. Shared revisions can be added to an approval request by clicking on the add revision button in the [create an approval request dialogue](https://support.catenda.com/en/articles/12360159-creating-a-new-approval-request-legacy) and by clicking on the add revision button in a draft approval. This is what the add revision to aproval request dialogue that opens up can look like for projects that enabled shared revisions after
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qk34ake7/01-intro.png)
 
@@ -18,7 +18,7 @@ By clicking the filter button a panel will appear on the left side. Check the bo
 
 ### 1.2 Saved filters
 
-Click [here](https://support.catenda.com/en/articles/8551755-saving-filters) to read more about how to save a set of filters
+Click [here](https://support.catenda.com/en/articles/8551755-limiting-filter-results) to read more about how to save a set of filters
 
 ### 1.3 Filters
 

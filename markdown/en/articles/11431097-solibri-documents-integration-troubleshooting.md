@@ -34,7 +34,7 @@ In this situation please ask a project administrator if they can give you at lea
 
 ### 1.4 **Revoke access to your Catenda account**
 
-Go to the applications page of our your Catenda Hub [account settings](https://intercom.help/bimsync-arena/en/articles/6880968-account-settings#:~:text=your%20notification%20settings.-,Applications,-In%20applications%20you), find the Solibri application and click on revoke.
+Go to the applications page of our your Catenda Hub [account settings](https://intercom.help/bimsync-arena/en/articles/6880968-account-page#:~:text=your%20notification%20settings.-,Applications,-In%20applications%20you), find the Solibri application and click on revoke.
 
 ### 1.5 **Disconnect from the Catenda Server**
 

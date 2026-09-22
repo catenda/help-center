@@ -35,7 +35,7 @@ Once the preview has finished processing, click on the document to view your PC 
 
 ### 1.2 **Shared PC revisions**
 
-If [revision publishing](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650) has been activated for the project the point cloud will have been uploaded as a shared revision. Shared PC revisions can only be previewed in the documents section. To be able to load your PC in the 3D viewer the revision has to be published. Individual shared revisions can be published with the publish action in the right menu of the document preview. Multiple shared revisions can be published with the selected items action in the document structure. When you publish a revision, the preview for the published revision will start processing.
+If [revision publishing](https://support.catenda.com/en/articles/9874698-new-status-workflow-iso-19650) has been activated for the project the point cloud will have been uploaded as a shared revision. Shared PC revisions can only be previewed in the documents section. To be able to load your PC in the 3D viewer the revision has to be published. Individual shared revisions can be published with the publish action in the right menu of the document preview. Multiple shared revisions can be published with the selected items action in the document structure. When you publish a revision, the preview for the published revision will start processing.
 
 ### 1.3 **Published PC revisions**
 

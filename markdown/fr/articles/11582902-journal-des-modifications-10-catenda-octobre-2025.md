@@ -14,129 +14,129 @@ Il en va de même pour Catenda. Les modifications peuvent se produire soudaineme
 
 **Gestion des comptes**
 
-- [Filtrage sur la page des membres et des équipes](https://support.catenda.com/fr/articles/11744242-filtering-on-the-members-and-teams-page)
-- [Menu droit sur la page des membres](https://support.catenda.com/fr/articles/11768610-right-menu-on-the-members-page)
+- [Filtrage sur la page des membres et des équipes](https://support.catenda.com/fr/articles/11744242-filtrage-sur-la-page-des-membres-et-equipes)
+- [Menu droit sur la page des membres](https://support.catenda.com/fr/articles/11768610-menu-droit-sur-la-page-membres)
 
 **Caractéristiques du produit**
 
 - Modèles
-  - [Filtrage sur la page des modèles](https://support.catenda.com/fr/articles/12129622-filtering-on-the-models-page)
+  - [Filtrage sur la page des modèles](https://support.catenda.com/fr/articles/12129622-filtrage-sur-la-page-des-modeles)
   - [Actions du configurateur d'étage](https://Storey%20configurator%20actions)
-  - [Page Objets](https://support.catenda.com/fr/articles/12352750-objects-page)
-  - [Filtrage sur la page des objets](https://support.catenda.com/fr/articles/12353642-filtering-on-the-objects-page)
+  - [Page Objets](https://support.catenda.com/fr/articles/12352750-page-objets)
+  - [Filtrage sur la page des objets](https://support.catenda.com/fr/articles/12353642-filtrage-sur-la-page-des-objets)
 - Documents
-  - [Outils d'aperçu des documents - Tampon en caoutchouc](https://support.catenda.com/fr/articles/11678493-document-preview-tools-rubber-stamp)
-  - [Menu droit sur la page des collections](https://support.catenda.com/fr/articles/12179454-right-menu-on-the-collection-page)
-  - [Page Flux de travail - Paramètres des documents](https://support.catenda.com/fr/articles/12309903-workflows-page-document-settings)
-  - [Configuration des dossiers - Paramètres des documents](https://support.catenda.com/fr/articles/12302595-folder-configuration-document-settings)
-  - [Création d'un nouveau flux de travail](https://support.catenda.com/fr/articles/12313251-creating-a-new-workflow)
-  - [Page de demande d'approbation de brouillon](https://support.catenda.com/fr/articles/12495175-draft-approval-request-page)
-  - [Page de demande d'approbation ouverte ou fermée](https://support.catenda.com/fr/articles/12494960-open-or-closed-approval-request-page)
-  - [Page Approbations](https://support.catenda.com/fr/articles/12495047-approvals-page)
-  - [Filtrage sur la page des approbations](https://support.catenda.com/fr/articles/12495060-filtering-on-the-approvals-page)
-  - [Création d'une nouvelle demande d'approbation](https://support.catenda.com/fr/articles/12495005-creating-a-new-approval-request)
-  - [Ajouter une révision à la demande d'approbation](https://support.catenda.com/fr/articles/12495012-add-revision-to-approval)
-  - [Ruban d'étape dans une demande d'approbation](https://support.catenda.com/fr/articles/12495212-step-ribbon-in-an-approval-request)
-  - [Menu droit d'une révision - Informations de révision](https://support.catenda.com/fr/articles/8302244-right-menu-of-a-revision-revision-info)
-  - [Flux de travail du statut - Paramètres des documents](https://support.catenda.com/fr/articles/12495583-status-workflow-document-settings)
-  - [Onglet Aperçu dans une demande d'approbation](https://support.catenda.com/fr/articles/12495126-overview-tab-in-an-approval-request)
-  - [Onglet Documents dans une demande d'approbation](https://support.catenda.com/fr/articles/12495130-documents-tab-in-an-approval-request)
-  - [Menu droit des documents de demande d'approbation](https://support.catenda.com/fr/articles/12495638-approval-request-documents-right-menu)
-  - [Révision de fichier dans une demande d'approbation](https://support.catenda.com/fr/articles/12507002-file-review-in-an-approval-request)
-  - [Menu droit de révision de fichier de demande d'approbation](https://support.catenda.com/fr/articles/12507519-approval-request-file-review-right-menu)
-  - [Dépannage des approbations](https://support.catenda.com/fr/articles/12520773-approvals-troubleshooting)
+  - [Outils d'aperçu des documents - Tampon en caoutchouc](https://support.catenda.com/fr/articles/11678493-outils-d-apercu-de-document-tampon-caoutchouc)
+  - [Menu droit sur la page des collections](https://support.catenda.com/fr/articles/12179454-menu-de-droite-sur-la-page-de-contenu-de-la-collection)
+  - [Page Flux de travail - Paramètres des documents](https://support.catenda.com/fr/articles/12309903-page-workflows-parametres-des-documents)
+  - [Configuration des dossiers - Paramètres des documents](https://support.catenda.com/fr/articles/12302595-configuration-des-dossiers-parametres-des-documents)
+  - [Création d'un nouveau flux de travail](https://support.catenda.com/fr/articles/12313251-creer-un-nouveau-flux-de-travail)
+  - [Page de demande d'approbation de brouillon](https://support.catenda.com/fr/articles/12495175-page-de-demande-de-validation-de-brouillon)
+  - [Page de demande d'approbation ouverte ou fermée](https://support.catenda.com/fr/articles/12494960-page-de-demande-de-validation-ouverte-ou-fermee)
+  - [Page Approbations](https://support.catenda.com/fr/articles/12495047-page-des-approbations)
+  - [Filtrage sur la page des approbations](https://support.catenda.com/fr/articles/12495060-filtrage-sur-la-page-des-approbations)
+  - [Création d'une nouvelle demande d'approbation](https://support.catenda.com/fr/articles/12495005-creation-d-une-nouvelle-demande-d-approbation)
+  - [Ajouter une révision à la demande d'approbation](https://support.catenda.com/fr/articles/12495012-ajouter-une-revision-a-la-demande-de-validation)
+  - [Ruban d'étape dans une demande d'approbation](https://support.catenda.com/fr/articles/12495212-ruban-d-etapes-dans-une-demande-de-validation)
+  - [Menu droit d'une révision - Informations de révision](https://support.catenda.com/fr/articles/8302244-menu-droit-d-une-revision-informations-de-revision)
+  - [Flux de travail du statut - Paramètres des documents](https://support.catenda.com/fr/articles/12495583-flux-de-travail-des-statuts-parametres-des-documents)
+  - [Onglet Aperçu dans une demande d'approbation](https://support.catenda.com/fr/articles/12495126-onglet-apercu-dans-une-demande-de-validation)
+  - [Onglet Documents dans une demande d'approbation](https://support.catenda.com/fr/articles/12495130-onglet-documents-dans-une-demande-de-validation)
+  - [Menu droit des documents de demande d'approbation](https://support.catenda.com/fr/articles/12495638-menu-droit-des-documents-de-demande-de-validation)
+  - [Révision de fichier dans une demande d'approbation](https://support.catenda.com/fr/articles/12507002-revue-de-fichier-dans-une-demande-de-validation)
+  - [Menu droit de révision de fichier de demande d'approbation](https://support.catenda.com/fr/articles/12507519-menu-droit-d-examen-de-la-demande-d-approbation)
+  - [Dépannage des approbations](https://support.catenda.com/fr/articles/12520773-depannage-de-la-page-approbations)
 - Rapports
-  - [Page Rapports](https://support.catenda.com/fr/articles/12303098-reports-page)
+  - [Page Rapports](https://support.catenda.com/fr/articles/12303098-page-rapports)
 - Documents - Héritage
-  - [Création d'une nouvelle demande d'approbation - Héritage](https://support.catenda.com/fr/articles/12360159-creating-a-new-approval-request-legacy)
-  - [Ajouter une révision à une demande d'approbation - Héritage](https://support.catenda.com/fr/articles/12382093-add-revision-to-an-approval-request-legacy)
-  - [Page des paramètres d'approbation - Héritage](https://support.catenda.com/fr/articles/12367293-approval-settings-page-legacy)
-  - [Page des modèles de rubriques - Héritage](https://support.catenda.com/fr/articles/12367730-topic-templates-page-legacy)
-  - [Création d'un nouveau modèle de rubrique - Héritage](https://support.catenda.com/fr/articles/12372007-creating-a-new-topic-template-legacy)
-  - [Flux de travail du statut - Paramètres des documents - Héritage](https://support.catenda.com/fr/articles/12310173-status-workflow-document-settings-legacy)
-  - [Révision de fichier dans une demande d'approbation - Héritage](https://support.catenda.com/fr/articles/12507422-file-review-in-an-approval-request-legacy)
-  - [Menu droit de révision de fichier de demande d'approbation - Héritage](https://support.catenda.com/fr/articles/12507914-approval-request-file-review-right-menu-legacy)
+  - [Création d'une nouvelle demande d'approbation - Héritage](https://support.catenda.com/fr/articles/12360159-creer-une-nouvelle-demande-d-approbation-herite)
+  - [Ajouter une révision à une demande d'approbation - Héritage](https://support.catenda.com/fr/articles/12382093-ajouter-une-revision-a-une-demande-d-approbation-heritage)
+  - [Page des paramètres d'approbation - Héritage](https://support.catenda.com/fr/articles/12367293-page-des-parametres-d-approbation-heritage)
+  - [Page des modèles de rubriques - Héritage](https://support.catenda.com/fr/articles/12367730-page-des-modeles-de-topic-legacy)
+  - [Création d'un nouveau modèle de rubrique - Héritage](https://support.catenda.com/fr/articles/12372007-creer-un-nouveau-gabarit-de-sujet-herite)
+  - [Flux de travail du statut - Paramètres des documents - Héritage](https://support.catenda.com/fr/articles/12310173-flux-de-travail-des-statuts-parametres-des-documents-herite)
+  - [Révision de fichier dans une demande d'approbation - Héritage](https://support.catenda.com/fr/articles/12507422-examen-de-fichier-dans-une-demande-de-validation-herite)
+  - [Menu droit de révision de fichier de demande d'approbation - Héritage](https://support.catenda.com/fr/articles/12507914-menu-de-droite-de-revision-de-fichier-de-demande-d-approbation-herite)
 
 **Dépannage**
 
-- [Site Catenda - Dépannage](https://support.catenda.com/fr/articles/11926914-catenda-site-troubleshooting)
+- [Site Catenda - Dépannage](https://support.catenda.com/fr/articles/11926914-catenda-site-depannage)
 
 **Tutoriels et guides**
 
-- [Création d'un nouveau flux de travail d'approbation - Courte vidéo](https://support.catenda.com/fr/articles/12457430-creating-a-new-approval-workflow-short-video)
-- [Créer un nouveau modèle de flux de travail d'approbation - Courte vidéo](https://support.catenda.com/fr/articles/12458313-create-a-new-approval-workflow-template-short-video)
+- [Création d'un nouveau flux de travail d'approbation - Courte vidéo](https://support.catenda.com/fr/articles/12457430-creation-d-un-nouveau-flux-de-travail-d-approbation-courte-video)
+- [Créer un nouveau modèle de flux de travail d'approbation - Courte vidéo](https://support.catenda.com/fr/articles/12458313-creer-un-nouveau-modele-de-workflow-d-approbation-video-courte)
 
 **Questions fréquemment posées**
 
-- [Tableaux sur Catenda](https://support.catenda.com/fr/articles/11748020-tables-on-catenda)
-- [Informations personnalisées des membres](https://support.catenda.com/fr/articles/11769670-custom-member-information)<br>
+- [Tableaux sur Catenda](https://support.catenda.com/fr/articles/11748020-tableaux-sur-catenda)
+- [Informations personnalisées des membres](https://support.catenda.com/fr/articles/11769670-informations-personnalisees-des-membres)<br>
 
 ### 1.2 **Articles qui ont changé :**
 
 **Gestion des comptes**
 
 - Membres et équipes
-  - [Page Membres et équipes](https://support.catenda.com/fr/articles/4670291-members-and-teams-page)
+  - [Page Membres et équipes](https://support.catenda.com/fr/articles/4670291-page-membres-et-equipes)
 - Site Catenda
-  - [Paramètres - Site Catenda](https://support.catenda.com/fr/articles/7733833-settings-catenda-site)
+  - [Paramètres - Site Catenda](https://support.catenda.com/fr/articles/7733833-parametres-catenda-site)
 
 **Caractéristiques du produit**
 
 - Informations générales sur les produits
 - Tableau de bord
-  - [Page Tableau de bord](https://support.catenda.com/fr/articles/8212646-dashboard-page)
+  - [Page Tableau de bord](https://support.catenda.com/fr/articles/8212646-page-tableau-de-bord)
 - Rubriques
-  - [Page Rubriques](https://support.catenda.com/fr/articles/4670271-topics-page)
-  - [Filtrage dans un tableau de rubriques](https://support.catenda.com/fr/articles/8370693-filtering-in-a-topic-board)
-  - [Affichage de liste dans un tableau de rubriques](https://support.catenda.com/fr/articles/6941232-list-view-in-a-topic-board)
-  - [Colonnes sur la page des rubriques](https://support.catenda.com/fr/articles/6941099-columns-on-the-topics-page)
-  - [Actions du tableau de rubriques](https://support.catenda.com/fr/articles/4670284-topics-table-actions)
+  - [Page Rubriques](https://support.catenda.com/fr/articles/4670271-page-sujets)
+  - [Filtrage dans un tableau de rubriques](https://support.catenda.com/fr/articles/8370693-filtrage-sur-la-page-des-sujets)
+  - [Affichage de liste dans un tableau de rubriques](https://support.catenda.com/fr/articles/6941232-affichage-en-liste-dans-une-liste-de-sujets)
+  - [Colonnes sur la page des rubriques](https://support.catenda.com/fr/articles/6941099-affichage-tableau-dans-un-topic-board)
+  - [Actions du tableau de rubriques](https://support.catenda.com/fr/articles/4670284-actions-du-tableau-des-sujets)
 - Modèles
-  - [Page Modèles](https://support.catenda.com/fr/articles/4670286-models-page)
-  - [Menu droit sur la page des modèles](https://support.catenda.com/fr/articles/9673735-right-menu-on-the-models-page)
-  - [Page du configurateur d'étage](https://support.catenda.com/fr/articles/6921756-storey-configurator-page)
+  - [Page Modèles](https://support.catenda.com/fr/articles/4670286-page-modeles)
+  - [Menu droit sur la page des modèles](https://support.catenda.com/fr/articles/9673735-menu-droit-sur-la-page-des-modeles)
+  - [Page du configurateur d'étage](https://support.catenda.com/fr/articles/6921756-page-configurateur-d-etage)
 - Documents
-  - [Page Documents](https://support.catenda.com/fr/articles/8204673-documents-page)
-  - [Page des paramètres des documents](https://support.catenda.com/fr/articles/7831371-document-settings-page)
-  - [Colonnes sur la page des documents](https://support.catenda.com/fr/articles/8466850-columns-on-the-documents-page)
-  - [Filtrage sur la page des documents](https://support.catenda.com/fr/articles/4670283-filtering-on-the-documents-page)
-  - [Outils d'aperçu des documents](https://support.catenda.com/fr/articles/11384618-document-preview-tools)
-  - [Actions du tableau des documents](https://support.catenda.com/fr/articles/4670288-document-structure-actions)
-  - [Téléchargement d'une nouvelle révision de document](https://support.catenda.com/fr/articles/4670293-uploading-new-document-revision)
-  - [Page Collections](https://support.catenda.com/fr/articles/8999764-collection-page)
-  - [Menu droit d'une révision - Informations de révision](https://support.catenda.com/fr/articles/8302244-right-menu-of-a-revision-revision-info)
+  - [Page Documents](https://support.catenda.com/fr/articles/8204673-page-documents)
+  - [Page des paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document)
+  - [Colonnes sur la page des documents](https://support.catenda.com/fr/articles/8466850-colonnes-sur-la-page-des-documents)
+  - [Filtrage sur la page des documents](https://support.catenda.com/fr/articles/4670283-filtrage-sur-la-page-des-documents)
+  - [Outils d'aperçu des documents](https://support.catenda.com/fr/articles/11384618-outils-d-apercu-de-document)
+  - [Actions du tableau des documents](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents)
+  - [Téléchargement d'une nouvelle révision de document](https://support.catenda.com/fr/articles/4670293-telechargement-d-une-nouvelle-revision-de-document)
+  - [Page Collections](https://support.catenda.com/fr/articles/8999764-page-de-contenu-de-la-collection)
+  - [Menu droit d'une révision - Informations de révision](https://support.catenda.com/fr/articles/8302244-menu-droit-d-une-revision-informations-de-revision)
 - Paramètres
-  - [Page Champs personnalisés](https://support.catenda.com/fr/articles/6550459-custom-fields-page)
-  - [Page Étiquettes](https://support.catenda.com/fr/articles/4670265-labels-page)
+  - [Page Champs personnalisés](https://support.catenda.com/fr/articles/6550459-page-des-champs-personnalises)
+  - [Page Étiquettes](https://support.catenda.com/fr/articles/4670265-page-etiquettes)
 - Visionneuses 2D et 3D
-  - [Nuages de points dans Catenda Hub](https://support.catenda.com/fr/articles/5606625-point-clouds-in-catenda-hub)
-  - [Sélecteur de révision](https://support.catenda.com/fr/articles/4670279-revision-selector)
+  - [Nuages de points dans Catenda Hub](https://support.catenda.com/fr/articles/5606625-nuages-de-points-dans-catenda-hub)
+  - [Sélecteur de révision](https://support.catenda.com/fr/articles/4670279-selecteur-de-revision)
 - Catenda Plugins & Intégrations
-  - [Visionneuse 3D - Site Catenda](https://support.catenda.com/fr/articles/7744403-3d-viewer-catenda-site)
-  - [Catenda Plugins & Intégrations](https://support.catenda.com/fr/articles/8396532-catenda-plugins-and-integrations)
-  - [Manuel d'export IFC archicad](https://support.catenda.com/fr/articles/4670338-ifc-export-archicad-manual)
-  - [Activation de l'application Catenda SharePoint](https://support.catenda.com/fr/articles/9419749-enabling-the-catenda-sharepoint-app)
-  - [Ajout et suppression de l'application Catenda SP](https://support.catenda.com/fr/articles/9453368-adding-and-removing-the-catendasp-app)
+  - [Visionneuse 3D - Site Catenda](https://support.catenda.com/fr/articles/7744403-visionneuse-3d-catenda-site)
+  - [Catenda Plugins & Intégrations](https://support.catenda.com/fr/articles/8396532-plugins-et-integrations-catenda)
+  - [Manuel d'export IFC archicad](https://support.catenda.com/fr/articles/4670338-manuel-d-exportation-ifc-pour-archicad)
+  - [Activation de l'application Catenda SharePoint](https://support.catenda.com/fr/articles/9419749-activation-de-l-application-catenda-sharepoint)
+  - [Ajout et suppression de l'application Catenda SP](https://support.catenda.com/fr/articles/9453368-ajout-et-suppression-de-l-application-catendasp)
 - Documents - Héritage
-  - [Page Approbations - Héritage](https://support.catenda.com/fr/articles/8349340-approvals-page-legacy)
-  - [Approbation ouverte, publiée ou rejetée - Héritage](https://support.catenda.com/fr/articles/8349418-open-published-or-discarded-approval-legacy)
-  - [Approbation des documents - Héritage](https://support.catenda.com/fr/articles/5784717-document-approval-legacy)
-  - [Filtrage sur la page d'approbation - Héritage](https://support.catenda.com/fr/articles/8551740-filtering-on-the-approvals-page-legacy)
+  - [Page Approbations - Héritage](https://support.catenda.com/fr/articles/8349340-page-des-validations-heritage)
+  - [Approbation ouverte, publiée ou rejetée - Héritage](https://support.catenda.com/fr/articles/8349418-approbation-ouverte-publiee-ou-rejetee-historique)
+  - [Approbation des documents - Héritage](https://support.catenda.com/fr/articles/5784717-approbation-des-documents-heritage)
+  - [Filtrage sur la page d'approbation - Héritage](https://support.catenda.com/fr/articles/8551740-filtrage-sur-la-page-des-approbations-legacy)
 
 **Dépannage**
 
-- [Dépannage de l'intégration des documents Solibri](https://support.catenda.com/fr/articles/11431097-solibri-documents-integration-troubleshooting)
+- [Dépannage de l'intégration des documents Solibri](https://support.catenda.com/fr/articles/11431097-depannage-de-l-integration-des-documents-solibri)
 - [Voix de l'utilisateur @ Catenda](https://support.catenda.com/fr/articles/5925449-user-voice-catenda)
 
 **Tutoriels et guides**
 
-- [Vidéos Guidde](https://support.catenda.com/fr/articles/11055278-guidde-videos)
+- [Vidéos Guidde](https://support.catenda.com/fr/articles/11055278-videos-guidde)
 
 **Questions fréquemment posées**
 
-- [Localisation et fonctionnalité du bouton d'assistance](https://support.catenda.com/fr/articles/8894066-support-button-location-and-functionality)
+- [Localisation et fonctionnalité du bouton d'assistance](https://support.catenda.com/fr/articles/8894066-localisation-et-fonctionnalite-du-bouton-de-support)
 - [Emplacement 2D des rubriques](https://2D%20location%20of%20topics)
-- [Aperçu des types de fichiers sur Catenda Hub](https://support.catenda.com/fr/articles/4670320-previewing-file-types-on-catenda-hub)
+- [Aperçu des types de fichiers sur Catenda Hub](https://support.catenda.com/fr/articles/4670320-apercu-des-types-de-fichiers-sur-catenda-hub)
 
 ## 2. **Bogues résolus**
 

@@ -1,10 +1,10 @@
 # Leden pagina uitnodigen
 
-Deze pagina kan worden gevonden door op de knop leden uitnodigen te klikken in de rechterbovenhoek van de [ledenenpagina](https://support.catenda.com/nl/articles/4670291-members-page). De ledenenpagina is een submenu van de [projectinstellingenpagina](https://support.catenda.com/nl/articles/4670273-project-settings-page).
+Deze pagina kan worden gevonden door op de knop leden uitnodigen te klikken in de rechterbovenhoek van de [ledenenpagina](https://support.catenda.com/nl/articles/4670291-pagina-leden-en-teams). De ledenenpagina is een submenu van de [projectinstellingenpagina](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bejjtn6g/01-intro.png)
 
-_Vereiste toegang:_ Toegang tot [nieuwe leden uitnodigen](https://support.catenda.com/nl/articles/4670273-project-settings-page#h_f82a1850f3) op de projectinstellingenpagina.
+_Vereiste toegang:_ Toegang tot [nieuwe leden uitnodigen](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen#h_f82a1850f3) op de projectinstellingenpagina.
 
 ## 1. **Eén lid uitnodigen**
 
@@ -58,4 +58,4 @@ Als u niet langer wilt dat de persoon aan wie de uitnodiging is verzonden zich b
 
 ## 5. **Organisatieleden toevoegen**
 
-Organisatiebeheerders kunnen organisatieleden die al een account in Catenda hebben aan het project toevoegen zonder hen via e-mail uit te hoeven nodigen. Op deze manier hoeft u niet op hen te wachten totdat zij de uitnodiging accepteren. Klik [hier](https://support.catenda.com/nl/articles/8434846-adding-users-without-an-email-invite) voor meer informatie over het uitnodigen van organisatieleden.
+Organisatiebeheerders kunnen organisatieleden die al een account in Catenda hebben aan het project toevoegen zonder hen via e-mail uit te hoeven nodigen. Op deze manier hoeft u niet op hen te wachten totdat zij de uitnodiging accepteren. Klik [hier](https://support.catenda.com/nl/articles/8434846-gebruikers-toevoegen-zonder-e-mailuitnodiging) voor meer informatie over het uitnodigen van organisatieleden.

@@ -4,7 +4,7 @@
 
 Het Archiving Portal stelt u in staat documenten en Topics van Catenda Hub in het externe archiefsysteem van uw organisatie te archiveren. Het is bedoeld voor degenen die verantwoordelijk zijn voor archivering in een of meer projecten.
 
-Open het portal op [archiving.catenda.com](https://archiving.catenda.com) en klik op **Verbinding maken met Catenda Hub**. Het portal heeft geen eigen wachtwoord, dus u verifieert zich bij Catenda Hub en keert hier terug. Voor het account zelf, zie [Aanmeldingspagina](https://support.catenda.com/nl/articles/7891486-sign-in-page).
+Open het portal op [archiving.catenda.com](https://archiving.catenda.com) en klik op **Verbinding maken met Catenda Hub**. Het portal heeft geen eigen wachtwoord, dus u verifieert zich bij Catenda Hub en keert hier terug. Voor het account zelf, zie [Aanmeldingspagina](https://support.catenda.com/nl/articles/7891486-aanmeldingspagina).
 
 De projectenpagina kan er ongeveer zo uitzien:
 
@@ -32,7 +32,7 @@ Verzenden geeft het item aan het archiefsysteem door, dat het opslaat en een ref
 
 Alles wat mislukt, wordt geregistreerd met de reden waarom het mislukte, en kan opnieuw worden verzonden, hetzij één item tegelijk hetzij voor het hele project tegelijk.
 
-> **Opmerking:** De artikelen die elk van deze stappen in detail beschrijven, zijn alleen beschikbaar voor gebruikers met toegang tot het Archiving Portal. Voor informatie over welk archiefsysteem het portal naar verzendt, raadpleeg [Archiefsystemen en projectnummers in het Archiving Portal](https://support.catenda.com/nl/articles/16968887-archive-systems-and-project-numbers-in-the-archiving-portal).
+> **Opmerking:** De artikelen die elk van deze stappen in detail beschrijven, zijn alleen beschikbaar voor gebruikers met toegang tot het Archiving Portal. Voor informatie over welk archiefsysteem het portal naar verzendt, raadpleeg [Archiefsystemen en projectnummers in het Archiving Portal](https://support.catenda.com/nl/articles/16968887-archiefsystemen-en-projectnummers-in-de-archiveringsportal).
 
 ## 2. **Uw projecten**
 
@@ -42,7 +42,7 @@ Alleen projecten waarvoor u beheerdersrechten hebt, worden vermeld. Als een proj
 
 Elk project wordt vermeld met de eigenaar en een aantal documenten en Topics die momenteel wachten om te worden gearchiveerd.
 
-Klik op **Archief beheren** op een project om dit te openen. Wat de projectpagina u vervolgens toont, wordt beschreven in [Projectinhoudenspagina in het Archiving Portal](https://support.catenda.com/nl/articles/16968871-project-content-page-in-the-archiving-portal), die alleen door gebruikers met toegang tot het Archiving Portal kan worden gelezen.
+Klik op **Archief beheren** op een project om dit te openen. Wat de projectpagina u vervolgens toont, wordt beschreven in [Projectinhoudenspagina in het Archiving Portal](https://support.catenda.com/nl/articles/16968871-projectcontentpagina-in-de-archief-portal), die alleen door gebruikers met toegang tot het Archiving Portal kan worden gelezen.
 
 > **Opmerking:** Het portal bepaalt welke projecten moeten worden weergegeven door uw teamlidmaatschappen te controleren. Als die controle mislukt, zegt het u dat sommige projecten mogelijk niet zichtbaar zijn, in plaats van stilzwijgend een korte lijst weer te geven.
 
@@ -52,7 +52,7 @@ Drie besturingselementen staan rechtsboven, en deze pagina is de eerste plaats w
 
 **Taal** Het portal is beschikbaar in het Engels en Noors Bokmål, en de taalverlener schakelt daartussen.
 
-**Statistieken** **Statistieken weergeven** opent een samenvatting van wat in elk project is gearchiveerd. Het pictogram wordt alleen weergegeven voor eigenaren van organisaties en vervangt het tandwielpictogram dat een projectpagina weergeeft. Die pagina wordt beschreven in [Statistiekenpagina in het Archiving Portal](https://support.catenda.com/nl/articles/16968884-statistics-page-in-the-archiving-portal), en de cijfers per project in [Projectinstellingenpagina in het Archiving Portal](https://support.catenda.com/nl/articles/16968883-project-settings-page-in-the-archiving-portal). Beide artikelen zijn alleen beschikbaar voor gebruikers met toegang tot het Archiving Portal.
+**Statistieken** **Statistieken weergeven** opent een samenvatting van wat in elk project is gearchiveerd. Het pictogram wordt alleen weergegeven voor eigenaren van organisaties en vervangt het tandwielpictogram dat een projectpagina weergeeft. Die pagina wordt beschreven in [Statistiekenpagina in het Archiving Portal](https://support.catenda.com/nl/articles/16968884-statistiekenpagina-in-het-archivering-portal), en de cijfers per project in [Projectinstellingenpagina in het Archiving Portal](https://support.catenda.com/nl/articles/16968883-projectinstellingenpagina-in-de-archiveringsportal). Beide artikelen zijn alleen beschikbaar voor gebruikers met toegang tot het Archiving Portal.
 
 **Afmelden** Meldt u af van het portal.
 

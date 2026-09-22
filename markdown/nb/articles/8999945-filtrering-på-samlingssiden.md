@@ -12,7 +12,7 @@ Ved å klikke på filterknappen vises et panel på venstre side. Ved å merke av
 
 ## 2. **Lagrede filtre**
 
-Klikk [her](https://support.catenda.com/nb/articles/8551755-saving-filters) for å lese mer om hvordan du lagrer et sett med filtre
+Klikk [her](https://support.catenda.com/nb/articles/8551755-begrenser-filterresultater) for å lese mer om hvordan du lagrer et sett med filtre
 
 ## 3. **Filter**
 
@@ -22,11 +22,11 @@ _Standardfilter_ Standardfilteret er opprinnelig ikke synlig i URL-en. Når side
 
 ### 3.1 **Lagre og del gjeldende filter**
 
-Gå til URL-en på en filtrert side for å laste siden med filteret brukt. De brukte filtrene kan lagres øverst i filtrermenyen. Klikk [her](https://support.catenda.com/nb/articles/11401493-saving-a-filter-link) for å lese mer om hvordan du lagrer og deler filtre
+Gå til URL-en på en filtrert side for å laste siden med filteret brukt. De brukte filtrene kan lagres øverst i filtrermenyen. Klikk [her](https://support.catenda.com/nb/articles/11401493-lagring-og-deling-av-filterlenke) for å lese mer om hvordan du lagrer og deler filtre
 
 ### 3.2 **Skjul tomme filtre**
 
-Klikk [her](https://support.catenda.com/nb/articles/8551755-saving-filters) for å lese mer om å begrense filterresultatene.
+Klikk [her](https://support.catenda.com/nb/articles/8551755-begrenser-filterresultater) for å lese mer om å begrense filterresultatene.
 
 ### 3.3 **Samlinger jeg følger**
 
@@ -56,7 +56,7 @@ Ikke delt eksternt - `sharedBy=not-shared`
 
 ### 3.7 **Datofilter**
 
-Publisert - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klikk på velg datoer for å velge datoer mellom hvilke du vil søke. Klikk [her](https://support.catenda.com/nb/articles/6511685-date-filter) for å lese mer om datofilter
+Publisert - `publishedAtFrom=<UTC timestamp>&publishedAtTo=<UTC timestamp>` Klikk på velg datoer for å velge datoer mellom hvilke du vil søke. Klikk [her](https://support.catenda.com/nb/articles/6511685-datofilter) for å lese mer om datofilter
 
 ## 4. **Tekstsøk**
 

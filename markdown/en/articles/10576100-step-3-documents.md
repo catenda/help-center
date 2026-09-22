@@ -38,6 +38,6 @@ Use the markup tools to identify areas you would like to communicate with other 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/mdxrvj2r/06-markups.png)
 
-_Further reading:_ [Uploading](https://support.catenda.com/en/articles/4670278-uploading-a-document), [Filtering documents](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page), [Document actions](https://support.catenda.com/en/articles/4670288-actions-in-the-document-structure), [Viewing](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub), [Markups](https://support.catenda.com/en/articles/10210710-keep-track-of-annotations-with-markups)
+_Further reading:_ [Uploading](https://support.catenda.com/en/articles/4670278-uploading-a-document), [Filtering documents](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page), [Document actions](https://support.catenda.com/en/articles/4670288-documents-table-actions), [Viewing](https://support.catenda.com/en/articles/4670320-previewing-file-types-on-catenda-hub), [Markups](https://support.catenda.com/en/articles/10210710-keep-track-of-annotations-with-markups)
 
 > **Note:** Find [step 4](https://support.catenda.com/en/articles/10576177-step-4-models) in [getting started](https://support.catenda.com/en/collections/2657208-getting-started) on the help center or in the help menu.

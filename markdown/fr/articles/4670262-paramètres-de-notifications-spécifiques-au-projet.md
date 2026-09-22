@@ -1,6 +1,6 @@
 # Paramètres de notifications spécifiques au projet
 
-Vous pouvez trouver les paramètres de notifications du projet en tant que sous-page de la [page des notifications du projet](https://support.catenda.com/fr/articles/4670295-project-notifications-page)
+Vous pouvez trouver les paramètres de notifications du projet en tant que sous-page de la [page des notifications du projet](https://support.catenda.com/fr/articles/4670295-page-de-notifications-de-projet)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vv27tr09/01-intro.png)
 
@@ -14,13 +14,13 @@ Ce bouton peut être utilisé pour activer ou désactiver complètement les noti
 
 > **Remarque :** Si ce bouton est désactivé, vous ne recevrez aucune notification, même si certaines options sont activées.
 
-La page des paramètres de notifications du projet aura les mêmes paramètres que vos [paramètres de notifications du compte](https://support.catenda.com/fr/articles/8272435-account-notification-settings) jusqu'à ce que vous spécifiiez une préférence pour ce projet. À partir de là, ces paramètres remplaceront vos paramètres de notifications du compte et ne changeront pas si vous modifiez vos paramètres de notifications du compte.
+La page des paramètres de notifications du projet aura les mêmes paramètres que vos [paramètres de notifications du compte](https://support.catenda.com/fr/articles/8272435-parametres-de-notification-de-compte) jusqu'à ce que vous spécifiiez une préférence pour ce projet. À partir de là, ces paramètres remplaceront vos paramètres de notifications du compte et ne changeront pas si vous modifiez vos paramètres de notifications du compte.
 
 > **Remarque :** Les paramètres de notifications du projet déterminent les notifications que VOUS recevez. Ce ne sont pas des paramètres pour les autres utilisateurs du projet.
 
 **Différent des paramètres de notifications du compte** Pour que ces paramètres remplacent vos paramètres de notifications du compte, ils doivent être différents. Par exemple, si vous souhaitez recevoir un résumé par email pour chaque projet individuellement, le paramètre doit être défini sur "Lorsque l'événement se produit" dans les paramètres de notifications du compte afin qu'il puisse être remplacé par les paramètres de notifications spécifiques au projet dans chaque projet. Sinon, vous recevriez toujours tous les résumés dans le mail de notification général.
 
-**Pour quels projets ai-je spécifié une préférence ?** Après avoir apporté des modifications sur cette page, vous verrez ce projet comme un "projet avec ses propres paramètres Catenda" dans vos [paramètres de notifications du compte](https://support.catenda.com/fr/articles/8272435-notification-settings).
+**Pour quels projets ai-je spécifié une préférence ?** Après avoir apporté des modifications sur cette page, vous verrez ce projet comme un "projet avec ses propres paramètres Catenda" dans vos [paramètres de notifications du compte](https://support.catenda.com/fr/articles/8272435-parametres-de-notification-de-compte).
 
 ## 2. Réinitialiser par défaut
 

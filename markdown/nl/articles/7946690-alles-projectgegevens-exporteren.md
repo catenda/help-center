@@ -44,21 +44,21 @@ Deze ingebouwde exportgereedschappen zijn rechtstreeks beschikbaar in de standaa
 
 Omdat elk model in Catenda is gekoppeld aan een document in de documentensectie, gelden de standaard documentexportmogelijkheden ook voor modellen. Daarnaast zijn speciale exportopties beschikbaar die speciaal voor modellen bedoeld zijn:
 
-**Geselecteerde modeldownload** Selecteer een of meer modellen op de [modelenpagina](https://support.catenda.com/nl/articles/4670286-models-page) en gebruik de downloadactie om de nieuwste revisies uit te pakken.
+**Geselecteerde modeldownload** Selecteer een of meer modellen op de [modelenpagina](https://support.catenda.com/nl/articles/4670286-modellapagina) en gebruik de downloadactie om de nieuwste revisies uit te pakken.
 
-**Afzonderlijke revisiedownload** Selecteer een model op de [modelenpagina](https://support.catenda.com/nl/articles/4670286-models-page) en klik op de downloadknop naast elke revisie in het informatiedeelvenster aan de rechterkant. Dit biedt een efficiënte manier om specifieke revisies rechtstreeks te downloaden zonder dat u de volledige [modelinhoudsenpagina](https://support.catenda.com/nl/articles/4670270-model-contents-page) hoeft in te laden. U kunt afzonderlijke revisies ook rechtstreeks downloaden van de inhoudspagina van een model.
+**Afzonderlijke revisiedownload** Selecteer een model op de [modelenpagina](https://support.catenda.com/nl/articles/4670286-modellapagina) en klik op de downloadknop naast elke revisie in het informatiedeelvenster aan de rechterkant. Dit biedt een efficiënte manier om specifieke revisies rechtstreeks te downloaden zonder dat u de volledige [modelinhoudsenpagina](https://support.catenda.com/nl/articles/4670270-pagina-met-modelinhoud) hoeft in te laden. U kunt afzonderlijke revisies ook rechtstreeks downloaden van de inhoudspagina van een model.
 
-**Geavanceerde modelexport** Open de [modelexportpagina](https://support.catenda.com/nl/articles/4670280-model-export-page) om geselecteerde revisies van meerdere modellen in één downloadbare ZIP-bestand in te pakken. Deze methode bevat geavanceerde opties om de geëxporteerde modelbestanden te verbeteren door tags, door de gebruiker gedefinieerde eigenschappen of bibliotheekgegevens in te bakken.
+**Geavanceerde modelexport** Open de [modelexportpagina](https://support.catenda.com/nl/articles/4670280-pagina-model-export) om geselecteerde revisies van meerdere modellen in één downloadbare ZIP-bestand in te pakken. Deze methode bevat geavanceerde opties om de geëxporteerde modelbestanden te verbeteren door tags, door de gebruiker gedefinieerde eigenschappen of bibliotheekgegevens in te bakken.
 
 ### 2.2 **Topics exporteren (3 manieren)**
 
-Topicgegevens kunnen in drie primaire formaten worden geëxtraheerd via [topics uitwisselen](https://support.catenda.com/nl/articles/4670289-exchange-topics), afhankelijk van hoe de informatie zal worden bekeken, geanalyseerd of opgeslagen:
+Topicgegevens kunnen in drie primaire formaten worden geëxtraheerd via [topics uitwisselen](https://support.catenda.com/nl/articles/4670289-wissel-topics-uit), afhankelijk van hoe de informatie zal worden bekeken, geanalyseerd of opgeslagen:
 
 **BCF (BIM Collaboration Format)** Een open standaard die is ontworpen om topicgegevens vast te leggen en over te dragen, strikt in overeenstemming met de officiële BCF-specificatie, inclusief individuele topicaanmaaktijdstempels. Dit formaat garandeert brede platformonafhankelijke interoperabiliteit, wat ideaal is voor het opnieuw openen, bewerken of naadloos uitwisselen van topicgegevens met andere BCF-compatibele software. Voor algemene langetermijn-documentopslagruimten waar directe bestandsvoorbeelden nodig zijn, hebben PDF- of Excel-formaten meestal de voorkeur.
 
 **Excel** Exporteert topicparameters naar een spreadsheetindeling voor filteren, sorteren en gegevensmanipulatie. Dit formaat biedt gestructureerde rijen en kolommen die ideaal zijn voor het selecteren en kopiëren van gegevens. Excel-bestanden kunnen eenvoudig worden bekeken in de meeste archiveringsplatforms. Voor archiveringsdoeleinden heeft de PDF-export meestal de voorkeur boven Excel omdat deze meer informatie bevat.
 
-**PDF** Genereert een schoon, leesbaar samenvattingsrapport in standaard PDF-indeling (v1.4) die zonder speciale software toegankelijk is (zie [topics naar PDF exporteren](https://support.catenda.com/nl/articles/9784934-exporting-topics-to-pdf)). Standaard PDF-exports bevatten een geconsolideerde downloadtijdstempel voor officiële overheidsrapportage en archivering, met meer informatie dan een Excel-export. Terwijl de basisexport een standaard PDF-bestand (v1.4) genereert, dat veel archiveringssystemen automatisch naar PDF/A omzetten bij upload voor langdurige voorbeelden, is directe export naar native PDF/A-1, PDF/A-2 en PDF/A-3-indeling ook beschikbaar via de opt-in [Rapportenpagina](https://support.catenda.com/nl/articles/12303098-reports-page).
+**PDF** Genereert een schoon, leesbaar samenvattingsrapport in standaard PDF-indeling (v1.4) die zonder speciale software toegankelijk is (zie [topics naar PDF exporteren](https://support.catenda.com/nl/articles/9784934-onderwerpen-naar-pdf-exporteren)). Standaard PDF-exports bevatten een geconsolideerde downloadtijdstempel voor officiële overheidsrapportage en archivering, met meer informatie dan een Excel-export. Terwijl de basisexport een standaard PDF-bestand (v1.4) genereert, dat veel archiveringssystemen automatisch naar PDF/A omzetten bij upload voor langdurige voorbeelden, is directe export naar native PDF/A-1, PDF/A-2 en PDF/A-3-indeling ook beschikbaar via de opt-in [Rapportenpagina](https://support.catenda.com/nl/articles/12303098-rapportenpagina).
 
 ### 2.3 **Documenten en bundels exporteren**
 
@@ -67,9 +67,9 @@ Topicgegevens kunnen in drie primaire formaten worden geëxtraheerd via [topics 
 - **Gepubliceerd tabblad**<br>Haalt de meest recente gepubliceerde revision voor elk geselecteerd document op.
 - **Workspace-tabblad**<br>Haalt de meest recente gedeelde revision voor elk geselecteerd document op (vereist de machtiging "Gedeelde revisies weergeven"). Let op: legacy conceptrevisies kunnen niet in bulk naar een ZIP-archief worden gedownload en worden afzonderlijk gedownload.
 
-**Afzonderlijke revisiedownload** Selecteer een document op de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documents-page) en klik op de downloadknop naast elke revisie in het informatiedeelvenster aan de rechterkant. Dit is een gemakkelijkere manier om afzonderlijke of historische revisies te downloaden omdat de documentvoorbeeldpagina niet hoeft te worden geladen, zodat u een ander document in de tabel kunt selecteren en de revisies in het deelvenster aan de rechterkant kunt downloaden zonder een nieuwe voorbeeldpagina te openen.
+**Afzonderlijke revisiedownload** Selecteer een document op de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documentenpagina) en klik op de downloadknop naast elke revisie in het informatiedeelvenster aan de rechterkant. Dit is een gemakkelijkere manier om afzonderlijke of historische revisies te downloaden omdat de documentvoorbeeldpagina niet hoeft te worden geladen, zodat u een ander document in de tabel kunt selecteren en de revisies in het deelvenster aan de rechterkant kunt downloaden zonder een nieuwe voorbeeldpagina te openen.
 
-**Openbare bundels** Gebruik [bundels](https://support.catenda.com/nl/articles/6344318-collections-page) om openbare koppelingen te maken voor geselecteerde documentsubsets, zodat externe partijen bestanden kunnen downloaden zonder een Catenda-account nodig te hebben. Houd er rekening mee dat alleen gepubliceerde revisies aan bundels kunnen worden toegevoegd.
+**Openbare bundels** Gebruik [bundels](https://support.catenda.com/nl/articles/6344318-collectiespagina) om openbare koppelingen te maken voor geselecteerde documentsubsets, zodat externe partijen bestanden kunnen downloaden zonder een Catenda-account nodig te hebben. Houd er rekening mee dat alleen gepubliceerde revisies aan bundels kunnen worden toegevoegd.
 
 **Verwijderde bestanden** Zoek naar "verwijderd" in de documentzoekbalk om eerder verwijderde documenten te zoeken en exporteren. Houd er rekening mee dat dit filter taalspecifiek is en overeenkomt met de term voor "verwijderd" in uw huidige taalinstellingen.
 
@@ -90,31 +90,31 @@ De [Catenda Desktop Connector](https://support.catenda.com/nl/articles/8358861-c
 - **Per-gebruiker toegangsweergave**<br>Bekijk individuele toegangsniveaus van gebruikers rechtstreeks vanuit het informatief menu aan de rechterkant van een topic board of geselecteerde topic.<br>_Vereiste toegang:_ leesbevoegdheid voor de topic board
 - **Volledige teamconfiguratie**<br>Maak schermafbeeldingen van de volledige teamwerkingsniveauinstellingen voor toestemmingen in de instellingen voor topic board-toegang.<br>_Vereiste toegang:_ Volledige toegang tot de topic board of projectbeheerder
 
-**Document- en Modeltoegang** Exporteer het [toegangsoverzicht](https://support.catenda.com/nl/articles/6660820-document-access-overview-page) om machtigingen voor leden en teams vast te leggen. Vereiste toegang: Projectbeheerder. Omdat elk model is gekoppeld aan een document in de documentensectie, worden toegangsmachtigingen voor modellen bepaald door de onderliggende documentmachtigingen en worden ze vastgelegd met behulp van hetzelfde documenttoegangsoverzicht of machtigingsmenu's.
+**Document- en Modeltoegang** Exporteer het [toegangsoverzicht](https://support.catenda.com/nl/articles/6660820-pagina-document-toegangsoverzicht) om machtigingen voor leden en teams vast te leggen. Vereiste toegang: Projectbeheerder. Omdat elk model is gekoppeld aan een document in de documentensectie, worden toegangsmachtigingen voor modellen bepaald door de onderliggende documentmachtigingen en worden ze vastgelegd met behulp van hetzelfde documenttoegangsoverzicht of machtigingsmenu's.
 
-**Document- en Modelrevisietoegang** Bekijk machtigingen vanuit het [deelvenster aan de rechterkant van een documentrevisie](https://support.catenda.com/nl/articles/8302244-right-menu-of-a-revision-revision-info) en maak indien nodig schermfoto's.
+**Document- en Modelrevisietoegang** Bekijk machtigingen vanuit het [deelvenster aan de rechterkant van een documentrevisie](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie) en maak indien nodig schermfoto's.
 
-**Projectbrede actiemachtigingen** Documenteer projectbrede machtigingen op de [projectinstellingenpagina](https://support.catenda.com/nl/articles/4670273-project-settings-page) (zoals het maken van topicborden, het uitnodigen van nieuwe leden, het configureren van documentstatussen en het maken of verwijderen van modellen) met behulp van twee beschikbare weergaven:
+**Projectbrede actiemachtigingen** Documenteer projectbrede machtigingen op de [projectinstellingenpagina](https://support.catenda.com/nl/articles/4670273-pagina-met-projectinstellingen) (zoals het maken van topicborden, het uitnodigen van nieuwe leden, het configureren van documentstatussen en het maken of verwijderen van modellen) met behulp van twee beschikbare weergaven:
 
 - **Weergave per gebruiker**<br>Projectleden kunnen elk menu onder toegangsbeheer uitvouwen om te zien welke individuele gebruikers toestemming hebben om elke actie uit te voeren.
 - **Volledige configuratie**<br>Beheerders kunnen het dialoogvenster voor toegangbewerking openen om teamwerkingsniveaupermissieconfiguraties in te zien en te beheren.<br>_Vereiste toegang:_ Projectbeheerder
 
 **Gebruikersprofielen en liddetails** Informatie over projectleden en teams is beschikbaar om te extraheren of te documenteren, inclusief:
 
-- Gebruikersnamen en e-mailadressen (zie [aangepaste lidinformatie](https://www.google.com/search?q=https://support.catenda.com/nl/articles/11769670-custom-member-information%23h_c15463ee3f)).
-- Teamlidmaatschappen, toegewezen topics, geüploade modelrevisies en machtigingsinstellingen (vastgelegd via de [lidpagina](https://www.google.com/search?q=https://support.catenda.com/nl/articles/4670291-members-page) of [teampagina](https://www.google.com/search?q=https://support.catenda.com/nl/articles/4670291-members-page)).
+- Gebruikersnamen en e-mailadressen (zie [aangepaste lidinformatie](https://www.google.com/search?q=https://support.catenda.com/nl/articles/11769670-aangepaste-lidgegevens)).
+- Teamlidmaatschappen, toegewezen topics, geüploade modelrevisies en machtigingsinstellingen (vastgelegd via de [lidpagina](https://www.google.com/search?q=https://support.catenda.com/nl/articles/4670291-pagina-leden-en-teams) of [teampagina](https://www.google.com/search?q=https://support.catenda.com/nl/articles/4670291-pagina-leden-en-teams)).
 
 ### 2.6 **Meldingen**
 
-Legfoto's van meldingspagina's vast vanuit de [projectmeldingenpagina](https://support.catenda.com/nl/articles/4670295-project-notifications-page), met behulp van het [limietfilter](https://support.catenda.com/nl/articles/8304417-filtering-on-the-notifications-page) om het aantal zichtbare items per pagina te maximaliseren.
+Legfoto's van meldingspagina's vast vanuit de [projectmeldingenpagina](https://support.catenda.com/nl/articles/4670295-projectnotificatiepagina), met behulp van het [limietfilter](https://support.catenda.com/nl/articles/8304417-filteren-op-de-notificatiepagina) om het aantal zichtbare items per pagina te maximaliseren.
 
-Configureer een speciaal beheerdersaccount met [projectspecifieke meldingsinstellingen](https://support.catenda.com/nl/articles/4670262-project-specific-notification-settings) ingeschakeld voor e-mailoverzichten om doorzoekbare meldingslogboeken te onderhouden.
+Configureer een speciaal beheerdersaccount met [projectspecifieke meldingsinstellingen](https://support.catenda.com/nl/articles/4670262-projectspecifieke-notificatie-instellingen) ingeschakeld voor e-mailoverzichten om doorzoekbare meldingslogboeken te onderhouden.
 
 ### 2.7 **Rapportenpagina (Opt-in-functie)**
 
 **Opt-in-activering** De rapportenpagina is een opt-in-functie die kan worden aangevraagd om voor lopende projecten in te schakelen. Hoewel er geen extra betaling nodig is om dit hulpmiddel te gebruiken, moet de projecteigenaar ermee instemmen dat dit op het project wordt ingeschakeld. Dit betekent dat het in veel projecten niet standaard actief is. Houd er rekening mee dat nieuwe projecten die zijn gemaakt op basis van sjabloonprojecten waarop rapporten zijn ingeschakeld, deze functie niet automatisch hebben ingeschakeld.
 
-**Op sjablonen gebaseerd beheer** Wanneer dit is ingeschakeld, kunnen projectbeheerders de [rapportsjabloonenpagina](https://support.catenda.com/nl/articles/12380837-report-templates-page) gebruiken om aangepaste rapportsjablonen te configureren en geformatteerde exports voor geselecteerde documenten of topics te genereren.
+**Op sjablonen gebaseerd beheer** Wanneer dit is ingeschakeld, kunnen projectbeheerders de [rapportsjabloonenpagina](https://support.catenda.com/nl/articles/12380837-pagina-met-rapportsjablonen) gebruiken om aangepaste rapportsjablonen te configureren en geformatteerde exports voor geselecteerde documenten of topics te genereren.
 
 **Documentrapporten** Exporteer documentmetagegevens en revisiedetails voor alle geselecteerde bestanden, inclusief documentnaam, revisienaam, meest recente revisienummer, status, aangepaste velden, maker, uploader en aanmaak-/uploadtijdstempels.
 
@@ -127,7 +127,7 @@ Configureer een speciaal beheerdersaccount met [projectspecifieke meldingsinstel
 
 - **PDF / PDF/A**<br>Genereert schoon opgemaakte rapporten en ondersteunt rechtstreeks native PDF/A-naleving (PDF/A-1, PDF/A-2 en PDF/A-3) om te voldoen aan strikte standaarden voor langdurige archivering en formeel-juridische normen.
 - **Excel**<br>Exporteert gestructureerde tabellarische gegevens naar rijen en kolommen in een spreadsheet, wat ideaal is voor gegevensmanipulatie en externe analyse.
-- **Aanvullende indelingen**<br>Een groot aantal aanvullende bestandsindelingen naast PDF en Excel worden ook ondersteund voor export; het volledige overzicht is te vinden in het artikel [rapportenpagina](https://support.catenda.com/nl/articles/12303098-reports-page).
+- **Aanvullende indelingen**<br>Een groot aantal aanvullende bestandsindelingen naast PDF en Excel worden ook ondersteund voor export; het volledige overzicht is te vinden in het artikel [rapportenpagina](https://support.catenda.com/nl/articles/12303098-rapportenpagina).
 
 **Gecentraliseerde opslag** Gegenereerde rapporten staan rechtstreeks in de rapportentabel en worden automatisch geïntegreerd in de hoofddocumenttabel voor eenvoudig beheer.
 

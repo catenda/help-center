@@ -2,7 +2,7 @@
 
 > Share documents, download documents in ZIP file
 
-You will be able to find documents collections as a sub page to the [documents page](https://support.catenda.com/en/articles/4670292-documents-page). See a short video about documents collections [here](https://support.catenda.com/en/articles/6423380-documents-collection-short-video)
+You will be able to find documents collections as a sub page to the [documents page](https://support.catenda.com/en/articles/4670292-root-folder-acl). See a short video about documents collections [here](https://support.catenda.com/en/articles/6423380-documents-collection-short-video)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wbzxhwe9/01-intro.png)
 
@@ -28,7 +28,7 @@ When you make a new collection you will be asked to fill out the following dialo
 
 **Add documents** To add documents click on the [add documents button](#h_b94d108342).
 
-**Submit** When you submit your collection you will be taken to the collections [collection page](https://support.catenda.com/en/articles/8999764-collection-page). The collection will be a [private collection](https://support.catenda.com/en/articles/8999764-collection-page#h_0b76040299) that only you can see. You will still be able to edit this collection before sharing it with the rest of the project.
+**Submit** When you submit your collection you will be taken to the collections [collection page](https://support.catenda.com/en/articles/8999764-collection-content-page). The collection will be a [private collection](https://support.catenda.com/en/articles/8999764-collection-content-page#h_0b76040299) that only you can see. You will still be able to edit this collection before sharing it with the rest of the project.
 
 ### 1.2 **Adding documents to collections**
 

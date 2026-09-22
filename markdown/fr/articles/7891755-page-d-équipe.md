@@ -1,6 +1,6 @@
 # Page d'équipe
 
-Il est possible de trouver la page d'une équipe sur le côté droit de la [page des Membres](https://support.catenda.com/fr/articles/4670291-members-page).
+Il est possible de trouver la page d'une équipe sur le côté droit de la [page des Membres](https://support.catenda.com/fr/articles/4670291-page-membres-et-equipes).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bvhrpsv2/01-intro.png)
 

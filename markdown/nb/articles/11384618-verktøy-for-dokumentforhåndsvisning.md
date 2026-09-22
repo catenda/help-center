@@ -1,6 +1,6 @@
 # Verktøy for dokumentforhåndsvisning
 
-Når [forhåndsvisningssiden](https://support.catenda.com/nb/articles/5001165-document-preview-and-annotations) for en [filtype som kan forhåndsvises](https://support.catenda.com/nb/articles/4670320-previewing-file-types-on-catenda-hub) åpnes først, vises følgende verktøylinje øverst.
+Når [forhåndsvisningssiden](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) for en [filtype som kan forhåndsvises](https://support.catenda.com/nb/articles/4670320-forhandsvisning-av-filtyper-pa-catenda-hub) åpnes først, vises følgende verktøylinje øverst.
 
 ![Vis Annøter Former Sett inn Mål](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/01-intro.png)
 
@@ -13,7 +13,7 @@ Hvis nettleserens skala er satt til stor størrelse eller hvis en liten skjermst
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/03-intro.png)
 Former, tekst og bildetexter kan legges til, tekst kan utheves, målinger kan tas og du kan tegne fritthånds.
 Alt dette kan senere lagres i saker.
-Klikk [her](https://support.catenda.com/nb/articles/10209740-saving-a-markup) for å lese mer om å lagre antegninger.
+Klikk [her](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad) for å lese mer om å lagre antegninger.
 
 ## 1. **Meny**
 
@@ -71,7 +71,7 @@ _Tastatursnarveier_ I menyen Tastatursnarveier finner du en oversikt over de til
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/08-settings.png)
 
-Klikk på handlingsknappen for hver snarvei for å binde snarveien til et annet tastetrykk. Finn de gjeldende snarveienes [her](https://support.catenda.com/nb/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls).
+Klikk på handlingsknappen for hver snarvei for å binde snarveien til et annet tastetrykk. Finn de gjeldende snarveienes [her](https://support.catenda.com/nb/articles/4670267-sammendrag-av-de-viktigste-snarveiene-og-grunnleggende-kontroller).
 
 _Avanserte innstillinger_ I menyen Avanserte innstillinger kan du aktivere og deaktivere forskellige innstillinger. Slik kan menyen Avanserte innstillinger se ut:
 
@@ -191,7 +191,7 @@ _Gummistempel_ Slik ser menyen Gummistempel-forhåndsvisning ut som standard:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wvb4pp2v/21-insert-menu.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/11678493-document-preview-tools-rubber-stamp) for å lese mer om menyen Gummistempel.
+Klikk [her](https://support.catenda.com/nb/articles/11678493-dokumentpreviewverktoy-gummistempel) for å lese mer om menyen Gummistempel.
 
 _Bilde – Snarvei:_ (I) Velg bildeoverføringen og klikk hvor som helst i dokumentet for å legge til et bilde på den plasseringen.
 

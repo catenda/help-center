@@ -1,6 +1,6 @@
 # Member page
 
-The member page can be found in the members section of the [members page](https://support.catenda.com/en/articles/4670291-members-page) by clicking on the member of which you want to see the page. This is what a member page can look like:
+The member page can be found in the members section of the [members page](https://support.catenda.com/en/articles/4670291-members-and-teams-page) by clicking on the member of which you want to see the page. This is what a member page can look like:
 
 ![Members page](https://raw.githubusercontent.com/catenda/help-center/main/images/t0zstfcp/01-intro.png)
 

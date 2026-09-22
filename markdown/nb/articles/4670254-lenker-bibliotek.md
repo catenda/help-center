@@ -1,6 +1,6 @@
 # Lenker-bibliotek
 
-Du finner lenker-biblioteket som det andre biblioteket på [bibliotek-siden](https://support.catenda.com/nb/articles/8065645-libraries-page). Her kan du klikke på stjernen til venstre for alltid å vise lenker-biblioteket i venstre navigasjonsmeny i prosjektet.
+Du finner lenker-biblioteket som det andre biblioteket på [bibliotek-siden](https://support.catenda.com/nb/articles/8065645-biblioteksside). Her kan du klikke på stjernen til venstre for alltid å vise lenker-biblioteket i venstre navigasjonsmeny i prosjektet.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/f29gh2kf/01-intro.png)
 
@@ -32,4 +32,4 @@ Klikk på filterknappen for å se de ulike mulige filtrene. I lenker-biblioteket
 
 _Avmerkingsboks_ - lar deg velge lenken som gjør at den høyre informasjonspanelet vises. _Navn_ - Navn på lenken _URL_ - Gir deg en knapp du kan klikke på for å gå til URL-en for lenken
 
-_Lenker_ Hvis noen objekter har blitt koblet til denne lenken, vil du se antall objekter koblet til denne lenken her. Hvis du klikker på dette tallet, kan du: Velge de koblede objektene i [3D-viseren](https://support.catenda.com/nb/articles/8227211-3d-viewer) Isolere de koblede objektene i [3D-viseren](https://support.catenda.com/nb/articles/8227211-3d-viewer) Laste de koblede objektene som en [spørring](https://support.catenda.com/nb/articles/4854514-queries) i [3D-viseren](https://support.catenda.com/nb/articles/8227211-3d-viewer)
+_Lenker_ Hvis noen objekter har blitt koblet til denne lenken, vil du se antall objekter koblet til denne lenken her. Hvis du klikker på dette tallet, kan du: Velge de koblede objektene i [3D-viseren](https://support.catenda.com/nb/articles/8227211-3d-viser) Isolere de koblede objektene i [3D-viseren](https://support.catenda.com/nb/articles/8227211-3d-viser) Laste de koblede objektene som en [spørring](https://support.catenda.com/nb/articles/4854514-sporringer) i [3D-viseren](https://support.catenda.com/nb/articles/8227211-3d-viser)

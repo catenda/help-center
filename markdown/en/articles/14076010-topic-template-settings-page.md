@@ -6,7 +6,7 @@ The topic template settings page can be found by clicking on Configure topic tem
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rf9vjf2t/01-intro.png)
 
-On the topic template settings page topic templates for each of the topic boards in the project can be configured. After their creation, topic templates are made available automatically fill out text and fields of topics upon creation. Topic templates can be configured to be made available in the following topic creation processes: [How to use topic templates in general topics](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation) [How to use topic templates in markup topics](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document) [How to use topic templates with approvals](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
+On the topic template settings page topic templates for each of the topic boards in the project can be configured. After their creation, topic templates are made available automatically fill out text and fields of topics upon creation. Topic templates can be configured to be made available in the following topic creation processes: [How to use topic templates in general topics](https://support.catenda.com/en/articles/14075921-using-topic-templates-in-a-topic-board) [How to use topic templates in markup topics](https://support.catenda.com/en/articles/14078352-using-topic-templates-when-saving-markup-topics) [How to use topic templates with approvals](https://support.catenda.com/en/articles/14078683-using-topic-templates-with-approvals)
 
 ## 1. **Action menu**
 

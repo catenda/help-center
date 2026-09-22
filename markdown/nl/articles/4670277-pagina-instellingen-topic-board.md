@@ -1,16 +1,16 @@
 # Pagina instellingen topic board
 
-Open eerst de [pagina topics](https://support.catenda.com/nl/articles/4670271-topics-page) om de pagina instellingen topic board te openen.
+Open eerst de [pagina topics](https://support.catenda.com/nl/articles/4670271-pagina-topics) om de pagina instellingen topic board te openen.
 
-De instellingenpagina van een topic board kan worden gevonden door op instellingen van een topic board op de [pagina boards](https://support.catenda.com/nl/articles/9413644-boards-page) te klikken, wat er ongeveer zo uit kan zien:
+De instellingenpagina van een topic board kan worden gevonden door op instellingen van een topic board op de [pagina boards](https://support.catenda.com/nl/articles/9413644-bordenpagina) te klikken, wat er ongeveer zo uit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/01-intro.png)
 
-De instellingenpagina van het topic board dat het laatst is bezocht, kan ook worden gevonden door naar de [pagina topic-instellingen](https://support.catenda.com/nl/articles/14183429-topic-settings-page) te gaan en op topic board-instellingen te klikken.
+De instellingenpagina van het topic board dat het laatst is bezocht, kan ook worden gevonden door naar de [pagina topic-instellingen](https://support.catenda.com/nl/articles/14183429-pagina-topic-instellingen) te gaan en op topic board-instellingen te klikken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/02-intro.png)
 
-U kunt de instellingenpagina van het topic board als een subpagina van de [pagina topics](https://support.catenda.com/nl/articles/4670271-topics-page) vinden of door op instellingen voor het respectieve topic board op de [pagina boards](https://support.catenda.com/nl/articles/9413644-boards-page#h_e0fc8beec6) te klikken. _Vereiste toegang:_ Volledige toegang tot het [topic board](https://support.catenda.com/nl/articles/4670271-topics-page)
+U kunt de instellingenpagina van het topic board als een subpagina van de [pagina topics](https://support.catenda.com/nl/articles/4670271-pagina-topics) vinden of door op instellingen voor het respectieve topic board op de [pagina boards](https://support.catenda.com/nl/articles/9413644-bordenpagina#h_e0fc8beec6) te klikken. _Vereiste toegang:_ Volledige toegang tot het [topic board](https://support.catenda.com/nl/articles/4670271-pagina-topics)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/03-intro.png)
 
@@ -26,15 +26,15 @@ Dit is wat het actiemenu in de buurt van de rechterkant in een topic board eruit
 
 ### 1.1 **Nieuw topic**
 
-Klik op de groene plusknop of klik op de actie Nieuw topic in het actiemenu om een [nieuw topic](https://support.catenda.com/nl/articles/4670268-creating-a-new-issue) in het huidige topic board te maken. _Vereiste toegang:_ Leestoegang tot het huidige topic board.
+Klik op de groene plusknop of klik op de actie Nieuw topic in het actiemenu om een [nieuw topic](https://support.catenda.com/nl/articles/4670268-een-nieuw-onderwerp-aanmaken) in het huidige topic board te maken. _Vereiste toegang:_ Leestoegang tot het huidige topic board.
 
 ### 1.2 **Topics uitwisselen**
 
-Klik op deze knop om [topics uit te wisselen](https://support.catenda.com/nl/articles/4670289-exchange-issues)
+Klik op deze knop om [topics uit te wisselen](https://support.catenda.com/nl/articles/4670289-wissel-topics-uit)
 
 ### 1.3 **Nieuw topic board**
 
-Klik op deze knop om een [nieuw topic board](https://support.catenda.com/nl/articles/6379614-topic-board-from-an-existing-topic-board) te maken.
+Klik op deze knop om een [nieuw topic board](https://support.catenda.com/nl/articles/6379614-topic-board-van-een-bestaand-topic-board) te maken.
 
 ### 1.4 **Geschiedenis**
 
@@ -42,7 +42,7 @@ _Geschiedenis importeren_ - Zie de importgeschiedenis van topics van het project
 
 ### 1.5 **Topic board archiveren**
 
-U kunt geen topic board in Catenda Hub verwijderen. In plaats daarvan kunt u het "archiveren" zodat het niet meer wordt weergegeven. Koppelingen naar topics in gearchiveerde topic boards zijn niet zichtbaar in Documenten of objecten. Gearchiveerde topic boards kunnen worden hersteld door naar de instellingen van het gearchiveerde board op de [pagina boards](https://support.catenda.com/nl/articles/9413644-boards-page) te gaan. Na het herstellen van een board zijn de koppelingen weer zichtbaar.
+U kunt geen topic board in Catenda Hub verwijderen. In plaats daarvan kunt u het "archiveren" zodat het niet meer wordt weergegeven. Koppelingen naar topics in gearchiveerde topic boards zijn niet zichtbaar in Documenten of objecten. Gearchiveerde topic boards kunnen worden hersteld door naar de instellingen van het gearchiveerde board op de [pagina boards](https://support.catenda.com/nl/articles/9413644-bordenpagina) te gaan. Na het herstellen van een board zijn de koppelingen weer zichtbaar.
 
 > **Opmerking:** U kunt de topics in een gearchiveerd topic board zien door op "topic boards" te klikken. Onderaan die lijst kunt u "Gearchiveerde weergeven" selecteren.
 
@@ -98,7 +98,7 @@ Typen worden op dezelfde manier geconfigureerd als statussen, behalve dat ze gee
 
 ## 4. **Aangepaste velden**
 
-In dit menu kunt u aangepaste velden in dit topic board toevoegen en wijzigen. _Vereiste toegang:_ Volledige toegang tot het topic board Aangepaste velden kunnen worden geconfigureerd op de [pagina aangepaste velden](https://support.catenda.com/nl/articles/6550459-custom-fields-setup). _Vereiste toegang:_ Projectbeheerder
+In dit menu kunt u aangepaste velden in dit topic board toevoegen en wijzigen. _Vereiste toegang:_ Volledige toegang tot het topic board Aangepaste velden kunnen worden geconfigureerd op de [pagina aangepaste velden](https://support.catenda.com/nl/articles/6550459-pagina-eigen-velden). _Vereiste toegang:_ Projectbeheerder
 
 ### 4.1 **Aangepast veld toevoegen**
 
@@ -142,7 +142,7 @@ Gebruikers kunnen een overzicht zien van welke Teams en gebruikers welke toegang
 
 ### 5.1 **Toegang bewerken**
 
-Klik op "toegang bewerken" om de toegang voor dit topic board in te stellen. U kunt meer lezen over het bewerken van toegang [hier](https://support.catenda.com/nl/articles/4670296-issue-boards-acl). _Vereiste toegang:_ Volledige toegang tot het topic board.
+Klik op "toegang bewerken" om de toegang voor dit topic board in te stellen. U kunt meer lezen over het bewerken van toegang [hier](https://support.catenda.com/nl/articles/4670296-toegangscontrole-topic-board). _Vereiste toegang:_ Volledige toegang tot het topic board.
 
 ## 6. **Niet-gekoppelde velden**
 

@@ -1,6 +1,6 @@
 # Een nieuw goedkeuringsverzoek maken
 
-De actie voor het nieuwe goedkeuringsverzoek is beschikbaar voor projecten waarvoor gedeelde revisies zijn ingeschakeld na 2 oktober 2025. Klik op het actiemenu rechts van de groene plusknop op de [goedkeuringspagina](https://support.catenda.com/nl/articles/8349340-approvals-page) om een nieuw goedkeuringsverzoek te maken. Klik op de knop voor het nieuwe goedkeuringsverzoek in het goedkeuringenmenu van het rechtermenu van een revisie op de Documenten-pagina waar de nieuwste revisie een gedeelde revisie is, om een nieuw goedkeuringsverzoek te maken. Dit is hoe de dialoogvenster voor het maken van een nieuw goedkeuringsverzoek eruit kan zien:
+De actie voor het nieuwe goedkeuringsverzoek is beschikbaar voor projecten waarvoor gedeelde revisies zijn ingeschakeld na 2 oktober 2025. Klik op het actiemenu rechts van de groene plusknop op de [goedkeuringspagina](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy) om een nieuw goedkeuringsverzoek te maken. Klik op de knop voor het nieuwe goedkeuringsverzoek in het goedkeuringenmenu van het rechtermenu van een revisie op de Documenten-pagina waar de nieuwste revisie een gedeelde revisie is, om een nieuw goedkeuringsverzoek te maken. Dit is hoe de dialoogvenster voor het maken van een nieuw goedkeuringsverzoek eruit kan zien:
 
 ![Nieuw goedkeuringverzoek Workflow Indiener Titel Beschrijving (optioneel) Documenten ter beoordeling documenten toevoegen naam revision # Revisienummer Status Verwijderen Annuleren Opslaan als concept Verzenden voor beoordeling](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/01-intro.png)
 
@@ -46,13 +46,13 @@ De nieuwe validatieworkflow is een op aanvraag beschikbare functie die kan worde
 
 ### 2.1 **Beschrijving**
 
-De beschrijving van de goedkeuring volgt de [algemene opmaakregels van berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts). De beschrijving kan later worden gecorrigeerd, zowel terwijl de aanvraag nog een concept is als nadat deze is ingediend.
+De beschrijving van de goedkeuring volgt de [algemene opmaakregels van berichten](https://support.catenda.com/nl/articles/8430847-werkbalk-voor-berichtopmaak). De beschrijving kan later worden gecorrigeerd, zowel terwijl de aanvraag nog een concept is als nadat deze is ingediend.
 
 ### 2.2 **Documenten toevoegen**
 
 ![Beschrijving (optioneel) documenten ter beoordeling documenten toevoegen](https://raw.githubusercontent.com/catenda/help-center/main/images/4e7kgq0a/06-add-documents.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/12382093-add-revision-to-approval) voor meer informatie over het toevoegen van gedeelde revisies van documenten aan een goedkeuringsverzoek. Hoewel het mogelijk is om hier een onbeperkt aantal documenten toe te voegen, is de limiet voor het indienen van het goedkeuringsverzoek ter controle 1000 documenten.
+Klik [hier](https://support.catenda.com/nl/articles/12382093-revision-toevoegen-aan-een-goedkeuringsverzoek-legacy) voor meer informatie over het toevoegen van gedeelde revisies van documenten aan een goedkeuringsverzoek. Hoewel het mogelijk is om hier een onbeperkt aantal documenten toe te voegen, is de limiet voor het indienen van het goedkeuringsverzoek ter controle 1000 documenten.
 
 ### 2.3 **Documenten ter controle-tabel**
 

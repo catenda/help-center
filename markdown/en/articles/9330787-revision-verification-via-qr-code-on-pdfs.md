@@ -8,13 +8,13 @@ Configured folders can be identified by the gear badge on the [folder icon](http
 
 ## 1. **Folder configuration**
 
-QR-Code stamping can be [enabled for configured folders](https://support.catenda.com/en/articles/7831371-document-settings#h_166a269870) on the documents page. _Access required:_ Administrator
+QR-Code stamping can be [enabled for configured folders](https://support.catenda.com/en/articles/7831371-document-settings-page#h_166a269870) on the documents page. _Access required:_ Administrator
 
 In configured folders, new PDF revisions in documents are uploaded are processed. Catenda scans the the document for the QR-Code placeholder image found below. If the placeholder is succesfully identified, a QR-Code is generated for the revision. _Access required:_ Write access to the document
 
 ### 1.1 **Assign QR-Code**
 
-To assign QR-Code stamping to a folder, go to [document settings](https://support.catenda.com/en/articles/7831371-document-settings) which can be found as a sub-page of the [documents page](https://support.catenda.com/en/articles/8204673-documents-page). In document settings, expand the [folder configuration menu](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90). This is what the folder configuration menu can look like:
+To assign QR-Code stamping to a folder, go to [document settings](https://support.catenda.com/en/articles/7831371-document-settings-page) which can be found as a sub-page of the [documents page](https://support.catenda.com/en/articles/8204673-documents-page). In document settings, expand the [folder configuration menu](https://support.catenda.com/en/articles/7831371-document-settings-page#h_6672c14d90). This is what the folder configuration menu can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/02-assign-qr-code.png)
 

@@ -1,6 +1,6 @@
 # Ajouter à l'écran d'accueil
 
-La fonctionnalité complète de Catenda Hub est toujours disponible via le navigateur. Catenda peut être ajouté à l'écran d'accueil, au tableau de bord ou au dock en l'installant via un navigateur. C'est ce qu'on appelle une application web progressive (PWA). Cliquez [ici](https://support.catenda.com/fr/articles/10774300-home-screen-system-browser-support) pour voir les navigateurs qui supportent PWA sur votre système.
+La fonctionnalité complète de Catenda Hub est toujours disponible via le navigateur. Catenda peut être ajouté à l'écran d'accueil, au tableau de bord ou au dock en l'installant via un navigateur. C'est ce qu'on appelle une application web progressive (PWA). Cliquez [ici](https://support.catenda.com/fr/articles/10774300-support-du-systeme-navigateur-pour-l-ecran-d-accueil) pour voir les navigateurs qui supportent PWA sur votre système.
 
 ## 1. **Avantages**
 

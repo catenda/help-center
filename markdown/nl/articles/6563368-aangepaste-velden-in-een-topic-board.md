@@ -34,4 +34,4 @@ U kunt de velden nu invoeren in uw volgende topics!
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tv2vef51/07-intro.gif)
 
-👉 **[Aangepaste velden instellen](https://intercom.help/bimsync-arena/nl/articles/6550459-setting-of-custom-fields)**
+👉 **[Aangepaste velden instellen](https://intercom.help/bimsync-arena/nl/articles/6550459-pagina-eigen-velden)**

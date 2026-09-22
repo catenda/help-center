@@ -1,6 +1,6 @@
 # Høyremeny på medlemssiden
 
-Velg et element på [siden for medlemmer og teams](https://support.catenda.com/nb/articles/4670291-members-and-teams-page) for at infoknapppen skal vises til høyre for søke- eller filterfeltet. Her finner du knappen på siden:
+Velg et element på [siden for medlemmer og teams](https://support.catenda.com/nb/articles/4670291-medlemmer-og-teams-side) for at infoknapppen skal vises til høyre for søke- eller filterfeltet. Her finner du knappen på siden:
 
 ![Medlemmer-fanen på medlemmer- og team-siden. En pil peker på ](https://raw.githubusercontent.com/catenda/help-center/main/images/kjpvqc84/01-intro.png)
 

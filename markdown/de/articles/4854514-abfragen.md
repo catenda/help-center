@@ -64,11 +64,11 @@ Dies lädt alle Geometrie innerhalb der oberen und unteren Ebenen des Geschosses
 
 ## 4. **Eigenschaftsbibliotheks-Abfrage**
 
-Wenn Sie Ihre [Eigenschaftswert-Bibliothek](https://support.catenda.com/de/articles/4670252-property-value-library) synchronisiert haben, können Sie auf die Objektanzahl neben dem Eigenschaftswert klicken und auswählen, aus welchem/welchen Modell(en) Sie eine Abfrage von Objekten mit diesem Eigenschaftswert durchführen möchten.
+Wenn Sie Ihre [Eigenschaftswert-Bibliothek](https://support.catenda.com/de/articles/4670252-eigenschaftswert-bibliothek) synchronisiert haben, können Sie auf die Objektanzahl neben dem Eigenschaftswert klicken und auswählen, aus welchem/welchen Modell(en) Sie eine Abfrage von Objekten mit diesem Eigenschaftswert durchführen möchten.
 
 ## 5. **Eine Abfrage bearbeiten**
 
-Abfragen können bearbeitet werden, indem Sie das Abfragemenü in der [Revisions-Auswahl](https://support.catenda.com/de/articles/4670279-revision-selector#h_fcf1c5a080) auswählen.
+Abfragen können bearbeitet werden, indem Sie das Abfragemenü in der [Revisions-Auswahl](https://support.catenda.com/de/articles/4670279-revisions-selector#h_fcf1c5a080) auswählen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/58rq5x2c/08-editing-a-query.png)
 

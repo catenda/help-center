@@ -2,7 +2,7 @@
 
 > Benutzer manuell benachrichtigen, wenn nötig und wichtig.
 
-Suchen Sie die ShareLink-Schaltfläche in der [oben rechts auf der Seite](https://support.catenda.com/de/articles/4670260-landing-page#h_7e60f1b700) neben Ihrem Profilbild.
+Suchen Sie die ShareLink-Schaltfläche in der [oben rechts auf der Seite](https://support.catenda.com/de/articles/4670260-kontenschaltflachen#h_7e60f1b700) neben Ihrem Profilbild.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/01-intro.png)
 

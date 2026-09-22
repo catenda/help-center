@@ -4,7 +4,7 @@ Organisationseigentümer können Organisationsmitglieder zu Projekten hinzufüge
 
 ## 1. **Mitglied(er) zur Organisation hinzufügen**
 
-Fügen Sie zunächst den Benutzer als Mitglied zu Ihrer Organisation hinzu. Wenn Ihre [Domain bei uns registriert wurde](https://support.catenda.com/de/articles/8224886-organization-options#h_8369f64208), können Sie Benutzer mit vorhandenen Catenda-Konten aus Ihrer Domain als Mitglieder zu Ihrer Organisation hinzufügen. Wenn Ihre Domain [nicht registriert wurde](https://support.catenda.com/de/articles/8224886-organization-options#h_8369f64208) und Sie die grüne Schaltfläche "aus Domain hinzufügen" nicht sehen, wenden Sie sich bitte über den schwarzen Chat-Button neben Ihrem Profilbild oben rechts oder per [support@catenda.com](mailto:support@catenda.com) an den Support – wir helfen Ihnen gerne weiter.
+Fügen Sie zunächst den Benutzer als Mitglied zu Ihrer Organisation hinzu. Wenn Ihre [Domain bei uns registriert wurde](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_8369f64208), können Sie Benutzer mit vorhandenen Catenda-Konten aus Ihrer Domain als Mitglieder zu Ihrer Organisation hinzufügen. Wenn Ihre Domain [nicht registriert wurde](https://support.catenda.com/de/articles/8224886-organisationsoptionen#h_8369f64208) und Sie die grüne Schaltfläche "aus Domain hinzufügen" nicht sehen, wenden Sie sich bitte über den schwarzen Chat-Button neben Ihrem Profilbild oben rechts oder per [support@catenda.com](mailto:support@catenda.com) an den Support – wir helfen Ihnen gerne weiter.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8g939d5c/01-add-member-s-to-organization.png)
 

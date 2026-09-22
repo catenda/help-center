@@ -1,6 +1,6 @@
 # Catenda Navisworks-plugin
 
-> **Merk:** Installasjonfilen for programtillegget finnes i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-and-integrations).
+> **Merk:** Installasjonfilen for programtillegget finnes i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-og-integrasjoner).
 
 Catenda Navisworks plugin er et programtillegg som kan installeres for Nemetchek Archicad. Med dette programtillegget kan du samarbeide om 3D-synspunkter, saker og dokumenter med andre medlemmer av byggeprosjektet.
 
@@ -61,7 +61,7 @@ Dette er hvordan Catenda-fanen kan se ut når den er valgt
 
 ### 5.1 **Catenda**
 
-Catenda-knappen i Catenda Plugins-menyen på Catenda-fanen åpner standardnettleseren med [påloggingssiden](https://support.catenda.com/nb/articles/7891486-sign-in-page) for Catenda Hub.
+Catenda-knappen i Catenda Plugins-menyen på Catenda-fanen åpner standardnettleseren med [påloggingssiden](https://support.catenda.com/nb/articles/7891486-paloggingsside) for Catenda Hub.
 
 ### 5.2 **BCF Plugin**
 
@@ -83,7 +83,7 @@ Dette er hvordan innstillingsmenyen kan se ut etter at du har klikket på Logg i
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/06-settings.png)
 
-På venstre side vises påloggingssiden for Catenda. Følg trinnene som er beskrevet i [påloggingsartikkelen](https://support.catenda.com/nb/articles/7891486-sign-in-page) for å logge inn.
+På venstre side vises påloggingssiden for Catenda. Følg trinnene som er beskrevet i [påloggingsartikkelen](https://support.catenda.com/nb/articles/7891486-paloggingsside) for å logge inn.
 
 Dette er hvordan innstillingsmenyen kan se ut etter at du har logget inn.
 

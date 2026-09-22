@@ -1,6 +1,6 @@
 # Catenda Archicad Plugin
 
-> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/de/articles/8396532-catenda-plugins-and-integrations).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/de/articles/8396532-catenda-plugins-integrationen).
 
 Das Catenda Archicad Plugin ist ein Plugin, das für Nemetschek Archicad installiert werden kann. Mit diesem Plugin können Sie mit anderen Mitgliedern des Bauprojekts an 3D-Ansichtspunkten, Themen und Dokumenten zusammenarbeiten.
 
@@ -36,7 +36,7 @@ Wenn Sie die Catenda-Palette öffnen, sehen Sie zuerst die Anmeldeseite. Die Anm
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/01-sign-in.png)
 
-Wenn Sie noch kein Catenda-Konto haben, können Sie sich oben rechts kostenlos anmelden. Wenn Sie bereits ein Catenda-Konto haben, können Sie Ihre E-Mail und Ihr Passwort eingeben und auf Anmelden klicken. Nach der Anmeldung werden Sie aufgefordert, Zugriff auf Ihr Catenda-Konto zu gewähren. Nach Gewährung dieses Zugriffs wird das Archicad Plugin auf der [Seite "Anwendungen"](https://support.catenda.com/de/articles/6880968-account-page#h_40e031c49a) Ihres Catenda-Kontos als Anwendung angezeigt. Hier können Sie den Zugriff jederzeit widerrufen, wenn Sie ihn nicht mehr gewähren möchten.
+Wenn Sie noch kein Catenda-Konto haben, können Sie sich oben rechts kostenlos anmelden. Wenn Sie bereits ein Catenda-Konto haben, können Sie Ihre E-Mail und Ihr Passwort eingeben und auf Anmelden klicken. Nach der Anmeldung werden Sie aufgefordert, Zugriff auf Ihr Catenda-Konto zu gewähren. Nach Gewährung dieses Zugriffs wird das Archicad Plugin auf der [Seite "Anwendungen"](https://support.catenda.com/de/articles/6880968-kontoseite#h_40e031c49a) Ihres Catenda-Kontos als Anwendung angezeigt. Hier können Sie den Zugriff jederzeit widerrufen, wenn Sie ihn nicht mehr gewähren möchten.
 
 ### 3.1 **Passwort zurücksetzen**
 
@@ -54,7 +54,7 @@ Wenn Sie das Archicad Plugin öffnen, sehen Sie Ihre Projektliste, die so ausseh
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/03-project-list.png)
 
-Sobald Sie die Einladung zu einem Projekt akzeptieren, wird Ihr Projekt in der Liste Ihrer Projekte im Plugin und auf der [Projektseite](https://support.catenda.com/de/articles/8400797-projects-page) angezeigt.
+Sobald Sie die Einladung zu einem Projekt akzeptieren, wird Ihr Projekt in der Liste Ihrer Projekte im Plugin und auf der [Projektseite](https://support.catenda.com/de/articles/8400797-projektseite) angezeigt.
 
 **Aktionsmenü** Klicken Sie auf die drei Punkte neben Ihrem Profilbild, um das Dropdown-Menü zu öffnen:
 

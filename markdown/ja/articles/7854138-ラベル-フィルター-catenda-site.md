@@ -1,6 +1,6 @@
 # ラベル フィルター - Catenda Site
 
-[Issues](https://support.catenda.com/ja/articles/7734073-issues-page-catenda-site) および [ドキュメント](https://support.catenda.com/ja/articles/7774637-documents-catenda-site) でラベルでフィルタリングすることが可能です。
+[Issues](https://support.catenda.com/ja/articles/7734073-トピックメニュー-catenda-site) および [ドキュメント](https://support.catenda.com/ja/articles/7774637-ドキュメントメニュー-catenda-site) でラベルでフィルタリングすることが可能です。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ge4vaaph/01-intro.png)
 
@@ -8,7 +8,7 @@
 
 ### 他のデバイスからのラベル変更
 
-別のデバイスで行われたこのフィルターメニューのラベル変更を確認するには、[プロジェクトページ](https://support.catenda.com/ja/articles/7733978-projects-page-catenda-site)に移動してプロジェクトを再度開いてください。同様に、プロジェクトをリロードするまで新しい外部ラベルを表示することができません。
+別のデバイスで行われたこのフィルターメニューのラベル変更を確認するには、[プロジェクトページ](https://support.catenda.com/ja/articles/7733978-プロジェクトページ-catenda-site)に移動してプロジェクトを再度開いてください。同様に、プロジェクトをリロードするまで新しい外部ラベルを表示することができません。
 
 ### ラベルアイコンのリセット
 

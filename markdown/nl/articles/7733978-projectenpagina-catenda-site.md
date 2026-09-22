@@ -1,6 +1,6 @@
 # Projectenpagina - Catenda Site
 
-Na [het downloaden, installeren en inloggen](https://support.catenda.com/nl/articles/6530821-download-your-mobile-app-catenda-site) bij Catenda Site wordt u naar de projectenpagina geleid. U kunt de projectenpagina vinden door in het [menu](https://support.catenda.com/nl/articles/7338516-navigation-menu-catenda-site) op de naam van uw project te tikken.
+Na [het downloaden, installeren en inloggen](https://support.catenda.com/nl/articles/6530821-download-je-mobiele-app-catenda-site) bij Catenda Site wordt u naar de projectenpagina geleid. U kunt de projectenpagina vinden door in het [menu](https://support.catenda.com/nl/articles/7338516-navigatiemenu-catenda-site) op de naam van uw project te tikken.
 
 ![Kies een project](https://raw.githubusercontent.com/catenda/help-center/main/images/2g7dc990/01-intro.png)
 

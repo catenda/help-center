@@ -1,6 +1,6 @@
 # Invite members page
 
-This page can be found by clicking on the invite members button on the top right of the [members page](https://support.catenda.com/en/articles/4670291-members-page). The members page is a sub menu of the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page).
+This page can be found by clicking on the invite members button on the top right of the [members page](https://support.catenda.com/en/articles/4670291-members-and-teams-page). The members page is a sub menu of the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bejjtn6g/01-intro.png)
 
@@ -58,4 +58,4 @@ If you no longer wish that the person to whom the invitation was sent joins the 
 
 ## 5. **Adding organization members**
 
-Organization owners will be able to add organization members that already have an account in Catenda to the project without having to invite them via email. This way you do not have to wait for them to accept the invitation. Click [here](https://support.catenda.com/en/articles/8434846-adding-users-without-an-email-invite) to read more about inviting organization members.
+Organization owners will be able to add organization members that already have an account in Catenda to the project without having to invite them via email. This way you do not have to wait for them to accept the invitation. Click [here](https://support.catenda.com/en/articles/8434846-adding-users-without-an-email-invitation) to read more about inviting organization members.

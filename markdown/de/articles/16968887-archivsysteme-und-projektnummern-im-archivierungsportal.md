@@ -22,4 +22,4 @@ Die **Projektnummer** in **Einstellungen** ist eine **Agresso-Projektnummer** mi
 
 Das Portal ist für openBIM-Projektdaten in Catenda Hub konzipiert. Die Dokumente und Themen, die es bereitstellt, stammen aus Catenda Hub und von nirgendwo sonst.
 
-Informationen zum Exportieren von Projektdaten aus Catenda Hub auf andere Weise, einschließlich Exporte, Langzeitformate und die Option des eingefrorenen Archivs, finden Sie unter [Exportieren aller Projektdaten](https://support.catenda.com/de/articles/7946690-exporting-all-project-data).
+Informationen zum Exportieren von Projektdaten aus Catenda Hub auf andere Weise, einschließlich Exporte, Langzeitformate und die Option des eingefrorenen Archivs, finden Sie unter [Exportieren aller Projektdaten](https://support.catenda.com/de/articles/7946690-exportieren-aller-projektdaten).

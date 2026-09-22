@@ -1,10 +1,10 @@
 # Statuswerkstroom - Documenten instellingen
 
-Dit is hoe het statuswerkstroommenu op de [pagina met documenten instellingen](https://support.catenda.com/nl/articles/7831371-document-settings-page) er kan uitzien voor projecten die gedeelde herzieningen na 2 oktober 2025 hebben ingeschakeld. In nieuwe projecten is de statuswerkstroom standaard uitgeschakeld. Dit is hoe het statuswerkstroommenu er kan uitzien:
+Dit is hoe het statuswerkstroommenu op de [pagina met documenten instellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen) er kan uitzien voor projecten die gedeelde herzieningen na 2 oktober 2025 hebben ingeschakeld. In nieuwe projecten is de statuswerkstroom standaard uitgeschakeld. Dit is hoe het statuswerkstroommenu er kan uitzien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/01-intro.png)
 
-Projecten die zijn gemaakt op basis van een [sjabloonproject](https://support.catenda.com/nl/articles/4670245-creating-a-new-project#h_5db32e5398) en projecten die gedeelde herzieningen voor 2 oktober 2025 hebben ingeschakeld, zien het verouderde statuswerkstroommenu.
+Projecten die zijn gemaakt op basis van een [sjabloonproject](https://support.catenda.com/nl/articles/4670245-een-nieuw-project-maken#h_5db32e5398) en projecten die gedeelde herzieningen voor 2 oktober 2025 hebben ingeschakeld, zien het verouderde statuswerkstroommenu.
 
 ## 1. **Gedeelde statussen**
 
@@ -75,7 +75,7 @@ Gearchiveerde statussen kunnen altijd worden teruggezet door op "Gearchiveerde s
 
 ## 5. Standaardstatus
 
-De status die standaard wordt weergegeven wanneer de publicatieactie wordt gebruikt voor een gedeelde herziening. Een ander status kan nog steeds worden geselecteerd voordat u publiceert. Gedeelde herzieningen kunnen ook worden gepubliceerd via [goedkeuringsaanvragen](https://support.catenda.com/nl/articles/12494960-open-or-closed-approval-request-page). Afhankelijk van welke werkstroom de indiener namens hun indienerstenteam heeft geselecteerd, wanneer een lid een definitieve validatie namens het uiteindelijke validatieteam uitvoert, zal de status van het document van de gepubliceerde herziening veranderen op basis van de werkstroomconfiguratie.
+De status die standaard wordt weergegeven wanneer de publicatieactie wordt gebruikt voor een gedeelde herziening. Een ander status kan nog steeds worden geselecteerd voordat u publiceert. Gedeelde herzieningen kunnen ook worden gepubliceerd via [goedkeuringsaanvragen](https://support.catenda.com/nl/articles/12494960-open-of-gesloten-goedkeuringsverzoekaanvraag). Afhankelijk van welke werkstroom de indiener namens hun indienerstenteam heeft geselecteerd, wanneer een lid een definitieve validatie namens het uiteindelijke validatieteam uitvoert, zal de status van het document van de gepubliceerde herziening veranderen op basis van de werkstroomconfiguratie.
 
 ## 6. Menu uploaden
 

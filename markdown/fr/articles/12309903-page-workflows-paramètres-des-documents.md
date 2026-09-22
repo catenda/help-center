@@ -1,6 +1,6 @@
 # Page Workflows - Paramètres des documents
 
-La page workflows se trouve en cliquant sur le bouton configurer les workflows dans le menu approbations de la [page paramètres des documents](https://support.catenda.com/fr/articles/7831371-document-settings-page) dans les projets où le nouveau circuit de validation a été demandé à être activé et les statuts partagés sont activés dans le menu circuit de statut des [paramètres des documents](https://support.catenda.com/fr/articles/7831371-document-settings-page). Le nouveau circuit de validation est une fonctionnalité à la demande qui peut être demandée à être activée lors du démarrage d'un nouveau projet. Il est uniquement possible de créer un projet basé sur un projet de modèle lorsque le nouveau circuit de validation n'est pas activé dans ce projet de modèle. Sur la page workflows, les workflows pour différentes configurations d'approbation peuvent être configurés. _Accès requis:_ Administrateur
+La page workflows se trouve en cliquant sur le bouton configurer les workflows dans le menu approbations de la [page paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document) dans les projets où le nouveau circuit de validation a été demandé à être activé et les statuts partagés sont activés dans le menu circuit de statut des [paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document). Le nouveau circuit de validation est une fonctionnalité à la demande qui peut être demandée à être activée lors du démarrage d'un nouveau projet. Il est uniquement possible de créer un projet basé sur un projet de modèle lorsque le nouveau circuit de validation n'est pas activé dans ce projet de modèle. Sur la page workflows, les workflows pour différentes configurations d'approbation peuvent être configurés. _Accès requis:_ Administrateur
 
 La page workflows peut ressembler à ceci :
 
@@ -8,7 +8,7 @@ La page workflows peut ressembler à ceci :
 
 Les sujets suivants seront décrits dans cet article :
 
-_[Nouvelles actions d'élément](https://support.catenda.com/fr/articles/8204673-documents-page#h_d0f4a44fb7) - [Rechercher ou filtrer](https://support.catenda.com/fr/articles/8204673-documents-page#h_bbf4dcad58) - [Menu droit](https://support.catenda.com/fr/articles/8204673-documents-page#h_fc89aaa1fe) - [Tableau](https://support.catenda.com/fr/articles/8204673-documents-page#h_54e8dfcac2) - [Sous-pages](https://support.catenda.com/fr/articles/8204673-documents-page#h_5751ccd2b7)_
+_[Nouvelles actions d'élément](https://support.catenda.com/fr/articles/8204673-page-documents#h_d0f4a44fb7) - [Rechercher ou filtrer](https://support.catenda.com/fr/articles/8204673-page-documents#h_bbf4dcad58) - [Menu droit](https://support.catenda.com/fr/articles/8204673-page-documents#h_fc89aaa1fe) - [Tableau](https://support.catenda.com/fr/articles/8204673-page-documents#h_54e8dfcac2) - [Sous-pages](https://support.catenda.com/fr/articles/8204673-page-documents#h_5751ccd2b7)_
 
 Bien que la page workflows soit une sous-page de la page approbations comme c'est apparent par la page approbations étant mise en évidence et les fils d'Ariane vers le haut, la page n'est accessible que depuis le menu approbations dans les paramètres des documents.
 
@@ -50,7 +50,7 @@ Le tableau workflows peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vnbxxjrb/04-workflows-table.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda. Dès qu'un workflow est créé, il apparaît sous forme de ligne dans le tableau workflows.
+Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tableaux-sur-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda. Dès qu'un workflow est créé, il apparaît sous forme de ligne dans le tableau workflows.
 
 ### 3.1 **Contenu de la ligne**
 

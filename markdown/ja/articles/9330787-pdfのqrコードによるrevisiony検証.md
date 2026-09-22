@@ -2,19 +2,19 @@
 
 生成されたQRコードを含むドキュメント revisionを物理的な紙に印刷して、プロジェクトメンバーが手に持っている紙がまだ最新版であるかどうかを確認できるようにします。
 
-設定されたフォルダは、[フォルダアイコン](https://support.catenda.com/ja/articles/8466850-columns-on-the-documents-page#h_6af15c36b3)の歯車バッジで識別できます。これは、生成されたQRコードを含むrevisionがどのように見えるかの例です：
+設定されたフォルダは、[フォルダアイコン](https://support.catenda.com/ja/articles/8466850-ドキュメントページのカラム#h_6af15c36b3)の歯車バッジで識別できます。これは、生成されたQRコードを含むrevisionがどのように見えるかの例です：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/01-intro.png)
 
 ## 1. **フォルダ設定**
 
-QRコードスタンプは、ドキュメントページで[設定されたフォルダに対して有効にできます](https://support.catenda.com/ja/articles/7831371-document-settings#h_166a269870)。_必要なアクセス権:_ 管理者
+QRコードスタンプは、ドキュメントページで[設定されたフォルダに対して有効にできます](https://support.catenda.com/ja/articles/7831371-ドキュメント設定ページ#h_166a269870)。_必要なアクセス権:_ 管理者
 
 設定されたフォルダでは、アップロードされたドキュメント内の新しいPDF revisionが処理されます。Catendaはドキュメントをスキャンして、以下に記載されているQRコードプレースホルダ画像を探します。プレースホルダが正常に識別されると、revisionのQRコードが生成されます。_必要なアクセス権:_ ドキュメントへの書き込みアクセス
 
 ### 1.1 **QRコードを割り当てる**
 
-フォルダにQRコードスタンプを割り当てるには、[ドキュメントページ](https://support.catenda.com/ja/articles/8204673-documents-page)のサブページとして見つけることができる[ドキュメント設定](https://support.catenda.com/ja/articles/7831371-document-settings)に移動します。ドキュメント設定で、[フォルダ設定メニュー](https://support.catenda.com/ja/articles/7831371-document-settings#h_6672c14d90)を展開します。これはフォルダ設定メニューがどのように見えるかの例です：
+フォルダにQRコードスタンプを割り当てるには、[ドキュメントページ](https://support.catenda.com/ja/articles/8204673-ドキュメントページ)のサブページとして見つけることができる[ドキュメント設定](https://support.catenda.com/ja/articles/7831371-ドキュメント設定ページ)に移動します。ドキュメント設定で、[フォルダ設定メニュー](https://support.catenda.com/ja/articles/7831371-ドキュメント設定ページ#h_6672c14d90)を展開します。これはフォルダ設定メニューがどのように見えるかの例です：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/02-assign-qr-code.png)
 
@@ -32,7 +32,7 @@ QRコードプレースホルダをダウンロードするには、[ここを�
 
 > **警告:** この画像をコピー/ペーストしたり、名前を付けて保存したりしないでください。画像は図面上では同じに見えるかもしれませんが、認識されません。
 
-プレースホルダをPDFに配置する方法について詳しく知るには、[ここをクリック](https://support.catenda.com/ja/articles/9360508-qr-code-on-pdfs-in-catenda)してください。これはプレースホルダが図面のタイトルブロックに配置されたときにどのように見えるかの例です：
+プレースホルダをPDFに配置する方法について詳しく知るには、[ここをクリック](https://support.catenda.com/ja/articles/9360508-catenda-の-pdf-上の-qr-コード)してください。これはプレースホルダが図面のタイトルブロックに配置されたときにどのように見えるかの例です：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/03-qr-code-placeholder-placement.png)
 

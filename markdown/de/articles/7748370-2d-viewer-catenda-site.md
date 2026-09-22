@@ -24,7 +24,7 @@ Mit [aktivierten Markern](https://support.catenda.com/de/articles/4854537-2d-vie
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/t22xrf09/04-2d-viewer-appearance.png)
 
-Wenn ausgewählt, werden die Themennummer und der Titel angezeigt. Tippen Sie auf den Pfeil, um das Thema im Themenmenü zu öffnen. Klicken Sie [hier](https://support.catenda.com/de/articles/4854523-2d-location-of-issues), um mehr über die 2D-Lage von Themen zu erfahren.
+Wenn ausgewählt, werden die Themennummer und der Titel angezeigt. Tippen Sie auf den Pfeil, um das Thema im Themenmenü zu öffnen. Klicken Sie [hier](https://support.catenda.com/de/articles/4854523-2d-position-von-themen), um mehr über die 2D-Lage von Themen zu erfahren.
 
 > **Warnung 1:** Wenn das Themenmenü geöffnet wird, werden Marker aus den ersten 250 Themen im Ergebnis aktualisiert und gespeichert. Wenn der 2D-Viewer geöffnet wird, werden Marker von zuvor aktualisierten Themen angezeigt, die dem Ergebnis im Themenmenü entsprechen. Beachten Sie, dass Marker von Themen über andere Geschosse als das aktive Geschoss verteilt sein können. **Warnung 2:** Wenn sich 250+ Themen im Themenmenü-Ergebnis befinden, wurden Marker möglicherweise nicht geladen oder sind veraltet. Scrollen Sie in der Liste nach unten, um ihre Marker anzuzeigen/zu aktualisieren. Das Filtern des Boards, damit weniger Themen im Ergebnis enthalten sind, kann auch dazu beitragen, dass Marker, die zu Themen im gefilterten Ergebnis gehören, zusätzlich aktualisiert und angezeigt werden. **Warnung 3:** Wenn Sie sich aus der Anwendung abmelden und sich erneut anmelden, geht der Verlauf darüber, welche Themen geladen wurden, verloren und Themen, die zuvor geladen wurden, müssen möglicherweise erneut geladen werden.
 

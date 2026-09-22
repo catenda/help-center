@@ -1,6 +1,6 @@
 # Pagina met inhoud van opgeslagen views
 
-Opgeslagen views zijn te vinden op de [pagina met opgeslagen views](https://support.catenda.com/nl/articles/4670281-bookmarks-page). Dit is hoe een opgeslagen view eruit kan zien:
+Opgeslagen views zijn te vinden op de [pagina met opgeslagen views](https://support.catenda.com/nl/articles/4670281-pagina-opgeslagen-views). Dit is hoe een opgeslagen view eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/01-intro.png)
 
@@ -12,7 +12,7 @@ Het actiemenu is te vinden in de rechterbovenhoek van de pagina
 
 ### 1.1 **Nieuwe opgeslagen view**
 
-Klik hier om een [nieuwe opgeslagen view](https://support.catenda.com/nl/articles/4670269-creating-a-new-bookmark) te maken.
+Klik hier om een [nieuwe opgeslagen view](https://support.catenda.com/nl/articles/4670269-een-nieuw-opgeslagen-view-maken) te maken.
 
 ### 1.2 **Opgeslagen view verwijderen**
 
@@ -24,11 +24,11 @@ De afbeelding van het viewport is gegenereerd toen de snapshot voor het laatst w
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/w2a94gw0/03-snapshot.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/10345863-snapshots) voor meer informatie over snapshots.
+Klik [hier](https://support.catenda.com/nl/articles/10345863-3d-snapshots) voor meer informatie over snapshots.
 
 ## 3. **Titel**
 
-De titel van de opgeslagen view. Dit kan gefilterd worden met een tekstfilter op de [pagina met opgeslagen views](https://support.catenda.com/nl/articles/4670281-bookmarks-page).
+De titel van de opgeslagen view. Dit kan gefilterd worden met een tekstfilter op de [pagina met opgeslagen views](https://support.catenda.com/nl/articles/4670281-pagina-opgeslagen-views).
 
 ### 3.1 **Gemaakt door**
 

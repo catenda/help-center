@@ -1,16 +1,16 @@
 # Page des paramètres du tableau de bord des sujets
 
-Pour ouvrir la page des paramètres du tableau de bord des sujets, ouvrez d'abord la [page des sujets](https://support.catenda.com/fr/articles/4670271-topics-page).
+Pour ouvrir la page des paramètres du tableau de bord des sujets, ouvrez d'abord la [page des sujets](https://support.catenda.com/fr/articles/4670271-page-sujets).
 
-La page des paramètres d'un tableau de bord des sujets peut être trouvée en cliquant sur les paramètres d'un tableau de bord des sujets sur la [page des tableaux de bord](https://support.catenda.com/fr/articles/9413644-boards-page) qui peut ressembler à ceci :
+La page des paramètres d'un tableau de bord des sujets peut être trouvée en cliquant sur les paramètres d'un tableau de bord des sujets sur la [page des tableaux de bord](https://support.catenda.com/fr/articles/9413644-page-des-tableaux) qui peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/01-intro.png)
 
-La page des paramètres du tableau de bord des sujets du dernier tableau de bord des sujets visité peut également être trouvée en allant à la [page des paramètres des sujets](https://support.catenda.com/fr/articles/14183429-topic-settings-page) et en cliquant sur les paramètres du tableau de bord des sujets.
+La page des paramètres du tableau de bord des sujets du dernier tableau de bord des sujets visité peut également être trouvée en allant à la [page des paramètres des sujets](https://support.catenda.com/fr/articles/14183429-parametres-de-sujet-page) et en cliquant sur les paramètres du tableau de bord des sujets.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/02-intro.png)
 
-Vous pouvez trouver la page des paramètres du tableau de bord des sujets en tant que sous-page de la [page des sujets](https://support.catenda.com/fr/articles/4670271-topics-page) ou en cliquant sur les paramètres du tableau de bord des sujets respectif sur la [page des tableaux de bord](https://support.catenda.com/fr/articles/9413644-boards-page#h_e0fc8beec6). _Accès requis :_ Accès complet au [tableau de bord des sujets](https://support.catenda.com/fr/articles/4670271-topics-page)
+Vous pouvez trouver la page des paramètres du tableau de bord des sujets en tant que sous-page de la [page des sujets](https://support.catenda.com/fr/articles/4670271-page-sujets) ou en cliquant sur les paramètres du tableau de bord des sujets respectif sur la [page des tableaux de bord](https://support.catenda.com/fr/articles/9413644-page-des-tableaux#h_e0fc8beec6). _Accès requis :_ Accès complet au [tableau de bord des sujets](https://support.catenda.com/fr/articles/4670271-page-sujets)
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/s0bzqka3/03-intro.png)
 
@@ -26,15 +26,15 @@ Voici à quoi pourrait ressembler le menu d'action vers le haut à droite dans u
 
 ### 1.1 **Nouveau sujet**
 
-Cliquez sur le bouton plus vert ou cliquez sur l'action nouveau sujet dans le menu d'action pour créer un [nouveau sujet](https://support.catenda.com/fr/articles/4670268-creating-a-new-issue) dans le tableau de bord des sujets actuel. _Accès requis :_ Accès en lecture au tableau de bord des sujets actuel.
+Cliquez sur le bouton plus vert ou cliquez sur l'action nouveau sujet dans le menu d'action pour créer un [nouveau sujet](https://support.catenda.com/fr/articles/4670268-creer-un-nouveau-sujet) dans le tableau de bord des sujets actuel. _Accès requis :_ Accès en lecture au tableau de bord des sujets actuel.
 
 ### 1.2 **Échanger les sujets**
 
-Cliquez sur ce bouton pour [échanger les sujets](https://support.catenda.com/fr/articles/4670289-exchange-issues)
+Cliquez sur ce bouton pour [échanger les sujets](https://support.catenda.com/fr/articles/4670289-echanger-des-sujets)
 
 ### 1.3 **Nouveau tableau de bord des sujets**
 
-Cliquez sur ce bouton pour créer un [nouveau tableau de bord des sujets](https://support.catenda.com/fr/articles/6379614-topic-board-from-an-existing-topic-board).
+Cliquez sur ce bouton pour créer un [nouveau tableau de bord des sujets](https://support.catenda.com/fr/articles/6379614-liste-de-sujets-a-partir-d-une-liste-de-sujets-existante).
 
 ### 1.4 **Historique**
 
@@ -42,7 +42,7 @@ _Historique d'importation_ - Consultez l'historique d'importation des sujets du 
 
 ### 1.5 **Archiver le tableau de bord des sujets**
 
-Vous ne pouvez pas supprimer un tableau de bord des sujets dans Catenda Hub. Au lieu de cela, vous pouvez l'"archiver" pour qu'il ne s'affiche plus. Les liens vers les sujets dans les tableaux de bord des sujets archivés ne seront pas visibles dans les Documents ou les objets. Les tableaux de bord des sujets archivés peuvent être restaurés en allant aux paramètres du tableau de bord archivé sur la [page des tableaux de bord](https://support.catenda.com/fr/articles/9413644-boards-page). Après la restauration d'un tableau de bord, les liens seront à nouveau visibles.
+Vous ne pouvez pas supprimer un tableau de bord des sujets dans Catenda Hub. Au lieu de cela, vous pouvez l'"archiver" pour qu'il ne s'affiche plus. Les liens vers les sujets dans les tableaux de bord des sujets archivés ne seront pas visibles dans les Documents ou les objets. Les tableaux de bord des sujets archivés peuvent être restaurés en allant aux paramètres du tableau de bord archivé sur la [page des tableaux de bord](https://support.catenda.com/fr/articles/9413644-page-des-tableaux). Après la restauration d'un tableau de bord, les liens seront à nouveau visibles.
 
 > **Remarque :** Vous pouvez voir les sujets dans un tableau de bord des sujets archivé en cliquant sur "tableaux de bord des sujets". En bas de cette liste, vous pouvez sélectionner "Voir archivé".
 
@@ -98,7 +98,7 @@ Les types sont configurés de la même manière que les statuts sauf qu'ils n'on
 
 ## 4. **Champs personnalisés**
 
-Dans ce menu, vous pourrez ajouter et modifier des champs personnalisés dans ce tableau de bord des sujets. _Accès requis :_ Accès complet au tableau de bord des sujets Les champs personnalisés peuvent être configurés sur la [page des champs personnalisés](https://support.catenda.com/fr/articles/6550459-custom-fields-setup). _Accès requis :_ Administrateur de projet
+Dans ce menu, vous pourrez ajouter et modifier des champs personnalisés dans ce tableau de bord des sujets. _Accès requis :_ Accès complet au tableau de bord des sujets Les champs personnalisés peuvent être configurés sur la [page des champs personnalisés](https://support.catenda.com/fr/articles/6550459-page-des-champs-personnalises). _Accès requis :_ Administrateur de projet
 
 ### 4.1 **Ajouter un champ personnalisé**
 
@@ -142,7 +142,7 @@ Les utilisateurs pourront voir un aperçu des équipes et des utilisateurs qui o
 
 ### 5.1 **Modifier l'accès**
 
-Cliquez sur "modifier l'accès" pour configurer l'accès à ce tableau de bord des sujets. Vous pouvez en savoir plus sur la modification de l'accès [ici](https://support.catenda.com/fr/articles/4670296-issue-boards-acl). _Accès requis :_ Accès complet au tableau de bord des sujets.
+Cliquez sur "modifier l'accès" pour configurer l'accès à ce tableau de bord des sujets. Vous pouvez en savoir plus sur la modification de l'accès [ici](https://support.catenda.com/fr/articles/4670296-controle-d-acces-a-la-liste-de-sujets). _Accès requis :_ Accès complet au tableau de bord des sujets.
 
 ## 6. **Champs non liés**
 

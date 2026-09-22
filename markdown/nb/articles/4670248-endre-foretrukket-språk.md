@@ -1,6 +1,6 @@
 # Endre foretrukket språk
 
-Foretrukket språk kan endres på [innstillingssiden](https://support.catenda.com/nb/articles/6880968-account-page#h_87963579a7) for en [konto](https://support.catenda.com/nb/articles/6880968-account-page).
+Foretrukket språk kan endres på [innstillingssiden](https://support.catenda.com/nb/articles/6880968-kontosida#h_87963579a7) for en [konto](https://support.catenda.com/nb/articles/6880968-kontosida).
 
 [YouTube-video](https://www.youtube.com/embed/fwQtOwQsTN8?rel=0)
 
@@ -8,7 +8,7 @@ Foretrukket språk kan endres på [innstillingssiden](https://support.catenda.co
 
 `Profil->Konto->Innstillinger`
 
-Kontosiden kan alltid finnes ved å klikke på profilbildet øverst til høyre og deretter klikke på konto i menyen som åpnes. Deretter, i navigasjonsmenyen til venstre, finner du [innstillingssiden](https://support.catenda.com/nb/articles/6880968-account-page#h_87963579a7) der språkinnstillingen kan finnes.
+Kontosiden kan alltid finnes ved å klikke på profilbildet øverst til høyre og deretter klikke på konto i menyen som åpnes. Deretter, i navigasjonsmenyen til venstre, finner du [innstillingssiden](https://support.catenda.com/nb/articles/6880968-kontosida#h_87963579a7) der språkinnstillingen kan finnes.
 
 ## 2. **2. Tilgjengelige språk**
 

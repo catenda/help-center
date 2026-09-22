@@ -1,6 +1,6 @@
 # Projektmitgliedschaften - Organisationswerkzeug
 
-Sie können die Projektseite als Unterseite auf Ihrer [Organisationsprofilseite](https://support.catenda.com/de/articles/8497478-organization-profile-page) finden. Hier sehen Sie einen Überblick über alle Mitglieder, die Teil von Projekten sind, die zu dieser Organisation gehören.
+Sie können die Projektseite als Unterseite auf Ihrer [Organisationsprofilseite](https://support.catenda.com/de/articles/8497478-organisationsprofilseite) finden. Hier sehen Sie einen Überblick über alle Mitglieder, die Teil von Projekten sind, die zu dieser Organisation gehören.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hmv9p08/01-intro.png)
 

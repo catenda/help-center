@@ -12,33 +12,33 @@
 
 ### 1.1 **新記事:**
 
-**はじめに、よくあるご質問** [プロジェクトセキュリティ](https://support.catenda.com/ja/articles/8263256-project-security') [リンクによる情報の追跡](https://support.catenda.com/ja/articles/8294909-tracking-information-by-linking) [メールが受信できない理由](https://support.catenda.com/ja/articles/8417802-why-am-i-not-receiving-emails) [投稿のフォーマット](https://support.catenda.com/ja/articles/8430847-formatting-of-posts)
+**はじめに、よくあるご質問** [プロジェクトセキュリティ](https://support.catenda.com/ja/articles/8263256-プロジェクトセキュリティ') [リンクによる情報の追跡](https://support.catenda.com/ja/articles/8294909-リンクによる情報の追跡) [メールが受信できない理由](https://support.catenda.com/ja/articles/8417802-メールを受け取れていないのはなぜですか) [投稿のフォーマット](https://support.catenda.com/ja/articles/8430847-投稿フォーマットツールボックス)
 
-**メインページ** [組織オプション](https://support.catenda.com/ja/articles/8224886-organization-options) [ダッシュボードページ](https://support.catenda.com/ja/articles/8212646-dashboard-page) [通知設定](https://support.catenda.com/ja/articles/8272435-notification-settings) [通知機能](https://support.catenda.com/ja/articles/8304417-notification-functionality) [アカウントを作成](https://support.catenda.com/ja/articles/8412895-creating-an-account)
+**メインページ** [組織オプション](https://support.catenda.com/ja/articles/8224886-組織オプション) [ダッシュボードページ](https://support.catenda.com/ja/articles/8212646-ダッシュボードページ) [通知設定](https://support.catenda.com/ja/articles/8272435-アカウント通知設定) [通知機能](https://support.catenda.com/ja/articles/8304417-通知ページでのフィルタリング) [アカウントを作成](https://support.catenda.com/ja/articles/8412895-アカウント作成)
 
-**問題** [問題コンテンツ](https://support.catenda.com/ja/articles/7986346-issue-content) [問題右パネル](https://support.catenda.com/ja/articles/8053299-issue-right-panel) [問題本文](https://support.catenda.com/ja/articles/8053352-issue-body) [イシューボードのフィルタリング](https://support.catenda.com/ja/articles/8370693-filtering-in-an-issue-board)
+**問題** [問題コンテンツ](https://support.catenda.com/ja/articles/7986346-トピックバナー-トピック間のナビゲーション) [問題右パネル](https://support.catenda.com/ja/articles/8053299-トピックの右メニュー) [問題本文](https://support.catenda.com/ja/articles/8053352-トピック本体-トピックのコンテンツ) [イシューボードのフィルタリング](https://support.catenda.com/ja/articles/8370693-トピックページでのフィルタリング)
 
-**ドキュメント** [ユーザーに単一フォルダへのアクセス権を付与](https://support.catenda.com/ja/articles/8009637-giving-a-user-access-to-a-single-folder) [ライブラリページ](https://support.catenda.com/ja/articles/8065645-libraries-page) [zipファイル/ファイル構造をアップロード](https://support.catenda.com/ja/articles/7945410-upload-a-zip-file-structure) [ドキュメント内の右パネル](https://support.catenda.com/ja/articles/8302244-documents-right-panel) [ドキュメントリスト内の右パネル](https://support.catenda.com/ja/articles/8345396-right-panel-in-documents-list) [承認ページ](https://support.catenda.com/ja/articles/8349340-approvals-page) [承認コンテンツ](https://support.catenda.com/ja/articles/8349418-approval-content) [ドキュメントセクション内のテーブルビュー](https://support.catenda.com/ja/articles/8398771-table-view-in-the-documents-section)
+**ドキュメント** [ユーザーに単一フォルダへのアクセス権を付与](https://support.catenda.com/ja/articles/8009637-ユーザーに単一フォルダへのアクセス権を付与する) [ライブラリページ](https://support.catenda.com/ja/articles/8065645-ライブラリページ) [zipファイル/ファイル構造をアップロード](https://support.catenda.com/ja/articles/7945410-zipファイル-ファイル構造をアップロード) [ドキュメント内の右パネル](https://support.catenda.com/ja/articles/8302244-リビジョンの右メニュー-リビジョン情報) [ドキュメントリスト内の右パネル](https://support.catenda.com/ja/articles/8345396-ドキュメントページの右側メニュー) [承認ページ](https://support.catenda.com/ja/articles/8349340-承認ページ-レガシー) [承認コンテンツ](https://support.catenda.com/ja/articles/8349418-オープン-公開-または破棄された承認-レガシー) [ドキュメントセクション内のテーブルビュー](https://support.catenda.com/ja/articles/8398771-ドキュメントセクションのテーブルビュー)
 
-**モデルと3D** [2Dからの選択とクリッピング](https://support.catenda.com/ja/articles/8035360-selecting-and-clipping-from-2d) [3Dビューア](https://support.catenda.com/ja/articles/8227211-3d-viewer) [ドキュメントとしてのモデル](https://support.catenda.com/ja/articles/8064548-models-as-documents) [情報パネル](https://support.catenda.com/ja/articles/8238584-information-panel) [モデルの3D位置](https://support.catenda.com/ja/articles/8294750-3d-location-of-models) [モデル構成](https://support.catenda.com/ja/articles/8300623-model-configuration) [測定面](https://support.catenda.com/ja/articles/8360838-measure-plane)
+**モデルと3D** [2Dからの選択とクリッピング](https://support.catenda.com/ja/articles/8035360-2dからの選択とクリッピング) [3Dビューア](https://support.catenda.com/ja/articles/8227211-3dビューア) [ドキュメントとしてのモデル](https://support.catenda.com/ja/articles/8064548-モデルとドキュメント) [情報パネル](https://support.catenda.com/ja/articles/8238584-情報パネル) [モデルの3D位置](https://support.catenda.com/ja/articles/8294750-モデルの3d位置) [モデル構成](https://support.catenda.com/ja/articles/8300623-model設定) [測定面](https://support.catenda.com/ja/articles/8360838-測定面)
 
-**プロジェクト設定** [メンバーページ](https://support.catenda.com/ja/articles/8228836-member-page)
+**プロジェクト設定** [メンバーページ](https://support.catenda.com/ja/articles/8228836-メンバーページ)
 
-**プラグインと統合** [Power BI統合](https://support.catenda.com/ja/articles/5784721-integration-power-bi) [Catenda SharePointプラグイン](https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-plugin) [お使いの環境からCatendaにアクセス](https://support.catenda.com/ja/articles/8396532-catenda-access-from-your-environment)
+**プラグインと統合** [Power BI統合](https://support.catenda.com/ja/articles/5784721-catenda-power-bi-コネクタ) [Catenda SharePointプラグイン](https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-アプリケーション) [お使いの環境からCatendaにアクセス](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)
 
 ### 1.2 **変更された記事:**
 
-はじめに、よくあるご質問 [Catendaのユーザーボイス](https://support.catenda.com/ja/articles/5925449-user-voice-catenda) [最も重要なショートカットと基本的な操作の概要](https://support.catenda.com/ja/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
+はじめに、よくあるご質問 [Catendaのユーザーボイス](https://support.catenda.com/ja/articles/5925449-ユーザーボイス-catenda) [最も重要なショートカットと基本的な操作の概要](https://support.catenda.com/ja/articles/4670267-最も重要なショートカットと基本的なコントロールの概要)
 
-メインページ [通知ページ](https://support.catenda.com/ja/articles/7439223-notifications-page)
+メインページ [通知ページ](https://support.catenda.com/ja/articles/7439223-アカウント通知ページ)
 
-問題 [イシューボード内の右パネル](https://support.catenda.com/ja/articles/6941224-right-panel-in-an-issue-board) [イシューボード設定](https://support.catenda.com/ja/articles/4670277-issue-board-settings) [イシューボード設定](https://support.catenda.com/ja/articles/4670277-issue-board-settings)
+問題 [イシューボード内の右パネル](https://support.catenda.com/ja/articles/6941224-トピックリスト内の右メニュー) [イシューボード設定](https://support.catenda.com/ja/articles/4670277-トピックリスト設定ページ) [イシューボード設定](https://support.catenda.com/ja/articles/4670277-トピックリスト設定ページ)
 
-ドキュメント [ドキュメントページ](https://support.catenda.com/ja/articles/8204673-documents-page) [ドキュメントページのフィルタリング](https://support.catenda.com/ja/articles/4670283-filtering-on-the-documents-page)
+ドキュメント [ドキュメントページ](https://support.catenda.com/ja/articles/8204673-ドキュメントページ) [ドキュメントページのフィルタリング](https://support.catenda.com/ja/articles/4670283-ドキュメントページのフィルタリング)
 
-モデル [2Dビューア](https://support.catenda.com/ja/articles/4854537-2d-viewer)
+モデル [2Dビューア](https://support.catenda.com/ja/articles/4854537-2dビューア)
 
-通知 [最新プロジェクト通知](https://support.catenda.com/ja/articles/4670262-project-notification-settings)
+通知 [最新プロジェクト通知](https://support.catenda.com/ja/articles/4670262-プロジェクト固有の通知設定)
 
 ## 2. **解決済みの問題**
 

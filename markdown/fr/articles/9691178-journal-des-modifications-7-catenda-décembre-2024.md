@@ -4,7 +4,7 @@ Bonjour à tous,
 
 J'espère que vous vous préparez tous pour les vacances d'hiver. Au cours des deux derniers mois, nous avons été occupés au travail alors qu'il faisait de plus en plus froid dehors ! ❄️⛄☃️🥶🧊🎿⛸️🏒⛷️🏂🏔️🌨️ Dans cet article, vous trouverez des mises à jour sur les sujets suivants :
 
-_[Articles](https://support.catenda.com/fr/articles/9285880-changelog-6-catenda-august-2024#h_a8cc7b1921) - [Bogues résolus](https://support.catenda.com/fr/articles/9285880-changelog-6-catenda-august-2024#h_58dfb1b852) - [Demandes des utilisateurs publiées](https://support.catenda.com/fr/articles/9285880-changelog-6-catenda-august-2024#h_5ed2c6f14d) - [Nouvelles versions](https://support.catenda.com/fr/articles/9285880-changelog-6-catenda-august-2024#h_25203946b2)_
+_[Articles](https://support.catenda.com/fr/articles/9285880-journal-des-modifications-6-catenda-aout-2024#h_a8cc7b1921) - [Bogues résolus](https://support.catenda.com/fr/articles/9285880-journal-des-modifications-6-catenda-aout-2024#h_58dfb1b852) - [Demandes des utilisateurs publiées](https://support.catenda.com/fr/articles/9285880-journal-des-modifications-6-catenda-aout-2024#h_5ed2c6f14d) - [Nouvelles versions](https://support.catenda.com/fr/articles/9285880-journal-des-modifications-6-catenda-aout-2024#h_25203946b2)_
 
 ## 1. **Articles**
 
@@ -12,51 +12,51 @@ Lorsque de nouvelles fonctionnalités sont déployées et que des bogues sont co
 
 ### 1.1 **Nouveaux articles :**
 
-**Prise en main et FAQ** [Gestion des documents dans Catenda Hub](https://support.catenda.com/fr/articles/9775623-document-management-in-catenda-hub) [Guide de l'utilisateur - Flux de statut (ISO 19650)](https://support.catenda.com/fr/articles/9874698-user-guide-status-workflow-iso-19650) [Suivre les annotations avec les balises](https://support.catenda.com/fr/articles/10210710-keep-track-of-annotations-with-markups)
+**Prise en main et FAQ** [Gestion des documents dans Catenda Hub](https://support.catenda.com/fr/articles/9775623-gestion-des-documents-dans-catenda-hub) [Guide de l'utilisateur - Flux de statut (ISO 19650)](https://support.catenda.com/fr/articles/9874698-nouveau-workflow-de-statut-iso-19650) [Suivre les annotations avec les balises](https://support.catenda.com/fr/articles/10210710-suivre-les-annotations-avec-les-markups)
 
-_Mises à jour récentes_ [Flux de statut 🖥️ Partagé -> ✔️ Publié](https://support.catenda.com/fr/articles/9662473-status-workflow-shared-published)
+_Mises à jour récentes_ [Flux de statut 🖥️ Partagé -> ✔️ Publié](https://support.catenda.com/fr/articles/9662473-flux-de-travail-statut-partage-publie)
 
-**Tutoriels vidéo** [Bibliothèque SharePoint - Courte vidéo](https://support.catenda.com/fr/articles/9800091-sharepoint-library-short-video)
+**Tutoriels vidéo** [Bibliothèque SharePoint - Courte vidéo](https://support.catenda.com/fr/articles/9800091-bibliotheque-sharepoint-courte-video)
 
-**Sujets** [Exporter les sujets en PDF](https://support.catenda.com/fr/articles/9784934-exporting-topics-to-pdf)
+**Sujets** [Exporter les sujets en PDF](https://support.catenda.com/fr/articles/9784934-exporter-des-sujets-en-pdf)
 
-**Documents** [Menu de droite d'une révision - Balises](https://support.catenda.com/fr/articles/10205725-right-menu-of-a-revision-markups) [Enregistrement d'une balise](https://support.catenda.com/fr/articles/10209740-saving-a-markup)
+**Documents** [Menu de droite d'une révision - Balises](https://support.catenda.com/fr/articles/10205725-menu-droit-d-une-revision-markups) [Enregistrement d'une balise](https://support.catenda.com/fr/articles/10209740-enregistrer-un-markup)
 
-**Paramètres du projet** [Créer de nouvelles étiquettes](https://support.catenda.com/fr/articles/8626709-create-new-labels)
+**Paramètres du projet** [Créer de nouvelles étiquettes](https://support.catenda.com/fr/articles/8626709-creer-de-nouvelles-etiquettes)
 
-**Modules et intégrations** [Journal des modifications de Revit - 1.0.11](https://support.catenda.com/fr/articles/9966204-revit-changelog-1-0-11)
+**Modules et intégrations** [Journal des modifications de Revit - 1.0.11](https://support.catenda.com/fr/articles/9966204-journal-des-modifications-revit-1-0-11)
 
 ### 1.2 **Articles qui ont changé :**
 
-**Prise en main** [Sauvegarde des filtres](https://support.catenda.com/fr/articles/8551755-saving-filters) [Recommandation matérielle](https://support.catenda.com/fr/articles/6921941-hardware-recommendation)
+**Prise en main** [Sauvegarde des filtres](https://support.catenda.com/fr/articles/8551755-limitation-des-resultats-de-filtrage) [Recommandation matérielle](https://support.catenda.com/fr/articles/6921941-recommandation-materielle)
 
-**Questions fréquemment posées** [Prévisualiser les types de fichiers sur Catenda Hub](https://support.catenda.com/fr/articles/4670320-previewing-file-types-on-catenda-hub) [Comment puis-je inviter un membre ?](https://support.catenda.com/fr/articles/4670319-how-can-i-invite-a-member) [Ordre de tri des listes](https://support.catenda.com/fr/articles/8487788-sorting-order-of-lists) [Pages sans accès](https://support.catenda.com/fr/articles/9172624-no-access-pages)
+**Questions fréquemment posées** [Prévisualiser les types de fichiers sur Catenda Hub](https://support.catenda.com/fr/articles/4670320-apercu-des-types-de-fichiers-sur-catenda-hub) [Comment puis-je inviter un membre ?](https://support.catenda.com/fr/articles/4670319-comment-puis-je-inviter-un-membre) [Ordre de tri des listes](https://support.catenda.com/fr/articles/8487788-ordre-de-tri-des-listes) [Pages sans accès](https://support.catenda.com/fr/articles/9172624-pages-sans-acces)
 
-**Page principale** [Authentification multifacteur](https://support.catenda.com/fr/articles/4969891-multi-factor-authentication) [Filtrage des notifications et fonctionnalité](https://support.catenda.com/fr/articles/8304417-notification-filtering-and-functionality) [Page d'accueil](https://support.catenda.com/fr/articles/4670260-landing-page) [Page Projets](https://support.catenda.com/fr/articles/8400797-projects-page) [Ajout d'utilisateurs sans invitation par courrier électronique](https://support.catenda.com/fr/articles/8434846-adding-users-without-an-email-invitation) [Modification de votre langue préférée](https://support.catenda.com/fr/articles/4670248-changing-to-your-preferred-language)
+**Page principale** [Authentification multifacteur](https://support.catenda.com/fr/articles/4969891-authentification-multi-facteurs) [Filtrage des notifications et fonctionnalité](https://support.catenda.com/fr/articles/8304417-filtrage-sur-la-page-des-notifications) [Page d'accueil](https://support.catenda.com/fr/articles/4670260-boutons-de-compte) [Page Projets](https://support.catenda.com/fr/articles/8400797-page-projets) [Ajout d'utilisateurs sans invitation par courrier électronique](https://support.catenda.com/fr/articles/8434846-ajout-d-utilisateurs-sans-invitation-par-e-mail) [Modification de votre langue préférée](https://support.catenda.com/fr/articles/4670248-modification-de-la-langue-preferee)
 
-**Tableau de bord** [Page du tableau de bord](https://support.catenda.com/fr/articles/8212646-dashboard-page)
+**Tableau de bord** [Page du tableau de bord](https://support.catenda.com/fr/articles/8212646-page-tableau-de-bord)
 
-**Modèles** [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-2d-viewer) [Signet](https://support.catenda.com/fr/articles/4670271-topics-page)
+**Modèles** [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-visionneuse-2d) [Signet](https://support.catenda.com/fr/articles/4670271-page-sujets)
 
-**Sujets** [Menu de droite dans une liste de sujets](https://support.catenda.com/fr/articles/6941224-right-menu-in-a-topic-board) [Page des sujets](https://support.catenda.com/fr/articles/4670271-topics-page) [Actions dans une liste de sujets](https://support.catenda.com/fr/articles/4670284-actions-in-a-topic-board) [Échanger des sujets](https://support.catenda.com/fr/articles/4670289-exchange-topics) [Corps du sujet - Contenu d'un sujet](https://support.catenda.com/fr/articles/8053352-topic-body-the-content-of-a-topic)
+**Sujets** [Menu de droite dans une liste de sujets](https://support.catenda.com/fr/articles/6941224-menu-droit-dans-une-liste-de-sujets) [Page des sujets](https://support.catenda.com/fr/articles/4670271-page-sujets) [Actions dans une liste de sujets](https://support.catenda.com/fr/articles/4670284-actions-du-tableau-des-sujets) [Échanger des sujets](https://support.catenda.com/fr/articles/4670289-echanger-des-sujets) [Corps du sujet - Contenu d'un sujet](https://support.catenda.com/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet)
 
-**Documents** [Aperçu du document et annotations](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations) [Colonnes de la page des documents](https://support.catenda.com/fr/articles/8466850-columns-on-the-documents-page) [Page des documents](https://support.catenda.com/fr/articles/8204673-documents-page) [Structuration des documents](https://support.catenda.com/fr/articles/8542598-structuring-documents) [Code QR sur les PDF dans Catenda](https://support.catenda.com/fr/articles/9360508-qr-code-on-pdfs-in-catenda) [Menu de droite de la page des documents](https://support.catenda.com/fr/articles/8345396-right-menu-on-the-documents-page) [Menu de droite d'une révision](https://support.catenda.com/fr/articles/8302244-right-menu-of-a-revision) [ACL des dossiers et documents](https://support.catenda.com/fr/articles/4670287-folders-and-documents-acl) [Page de collection](https://support.catenda.com/fr/articles/8999764-collection-page)
+**Documents** [Aperçu du document et annotations](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations) [Colonnes de la page des documents](https://support.catenda.com/fr/articles/8466850-colonnes-sur-la-page-des-documents) [Page des documents](https://support.catenda.com/fr/articles/8204673-page-documents) [Structuration des documents](https://support.catenda.com/fr/articles/8542598-structuration-des-documents) [Code QR sur les PDF dans Catenda](https://support.catenda.com/fr/articles/9360508-code-qr-sur-les-pdf-dans-catenda) [Menu de droite de la page des documents](https://support.catenda.com/fr/articles/8345396-menu-de-droite-sur-la-page-documents) [Menu de droite d'une révision](https://support.catenda.com/fr/articles/8302244-menu-droit-d-une-revision-informations-de-revision) [ACL des dossiers et documents](https://support.catenda.com/fr/articles/4670287-controle-d-acces-aux-dossiers-et-documents) [Page de collection](https://support.catenda.com/fr/articles/8999764-page-de-contenu-de-la-collection)
 
-**Bibliothèques** [Page des bibliothèques](https://support.catenda.com/fr/articles/8065645-libraries-page) [Bibliothèque SharePoint](https://support.catenda.com/fr/articles/5744548-sharepoint-library)
+**Bibliothèques** [Page des bibliothèques](https://support.catenda.com/fr/articles/8065645-page-bibliotheques) [Bibliothèque SharePoint](https://support.catenda.com/fr/articles/5744548-bibliotheque-sharepoint)
 
-**Notifications du projet** [Paramètres de notification du projet](https://support.catenda.com/fr/articles/4670262-project-specific-notification-settings)
+**Notifications du projet** [Paramètres de notification du projet](https://support.catenda.com/fr/articles/4670262-parametres-de-notifications-specifiques-au-projet)
 
-**Paramètres du projet** [Page d'invitation des membres](https://support.catenda.com/fr/articles/4670263-invite-members-page) [Page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page)
+**Paramètres du projet** [Page d'invitation des membres](https://support.catenda.com/fr/articles/4670263-page-inviter-des-membres) [Page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet)
 
-**Visionneurs 2D et 3D** [Quantitatif (QTO)](https://support.catenda.com/fr/articles/6673929-quantity-take-off-qto)
+**Visionneurs 2D et 3D** [Quantitatif (QTO)](https://support.catenda.com/fr/articles/6673929-releve-de-quantites-qto)
 
-_Panneau d'information_ [Menu Inspecter](https://support.catenda.com/fr/articles/4670285-inspect-menu) [Panneau d'information](https://support.catenda.com/fr/articles/8238584-information-panel)
+_Panneau d'information_ [Menu Inspecter](https://support.catenda.com/fr/articles/4670285-menu-inspect) [Panneau d'information](https://support.catenda.com/fr/articles/8238584-panneau-d-information)
 
 **Paramètres**
 
-**Modules et intégrations** [Manuel d'exportation IFC Revit](https://support.catenda.com/fr/articles/4670341-revit-ifc-export-manual) [Manuel d'exportation IFC Archicad](https://IFC%20Export%20Archicad%20Manual)
+**Modules et intégrations** [Manuel d'exportation IFC Revit](https://support.catenda.com/fr/articles/4670341-manuel-d-exportation-ifc-revit) [Manuel d'exportation IFC Archicad](https://IFC%20Export%20Archicad%20Manual)
 
-**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/fr/articles/9930034-catenda-site-changelog-3-5-0) [Documents menu - Catenda Site](https://support.catenda.com/fr/articles/7774637-documents-menu-catenda-site) [Aperçu des types de fichiers sur Catenda Site](https://support.catenda.com/fr/articles/8975421-previewing-file-types-on-catenda-site)
+**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/fr/articles/9930034-journal-des-modifications-de-catenda-site-3-5-0) [Documents menu - Catenda Site](https://support.catenda.com/fr/articles/7774637-menu-documents-catenda-site) [Aperçu des types de fichiers sur Catenda Site](https://support.catenda.com/fr/articles/8975421-apercu-des-types-de-fichiers-sur-catenda-site)
 
 ## 2. **Bogues résolus**
 
@@ -102,7 +102,7 @@ Grâce à vos précieux commentaires, nous avons pu résoudre de nombreux probl�
 
 - Lors de l'ajout de documents à une collection, il est maintenant possible de cocher une case en haut pour sélectionner tous les documents d'un dossier et les ajouter à une collection.
 - En bonus, il est maintenant également possible de sélectionner la révision d'un document que vous souhaitez ajouter à une collection afin que celle-ci apparaisse lorsque vous verrouillez la collection pour que les révisions des documents ne suivent pas la dernière révision.
-- Les utilisateurs ayant un accès complet à un document pourront maintenant [retirer une révision](https://support.catenda.com/fr/articles/9711174-withdraw-revision) d'un document et donc aussi d'un modèle s'il s'agit d'un document IFC.
+- Les utilisateurs ayant un accès complet à un document pourront maintenant [retirer une révision](https://support.catenda.com/fr/articles/9711174-retirer-la-revision) d'un document et donc aussi d'un modèle s'il s'agit d'un document IFC.
 - Il est maintenant possible d'ajouter un logo personnalisé aux rapports de sujets exportés en PDF.<br>Les paramètres du logo se trouvent sur la page des projets.
 - Vous pouvez maintenant diviser votre projet en une zone publiée et une zone partagée afin que vous puissiez donner à différentes personnes l'accès à une partie publique et à une partie partagée où les documents sont toujours en cours de préparation pour la publication. (Veuillez demander à avoir ceci activé sur votre projet) Seuls les documents publiés seront visibles dans Catenda Site
 

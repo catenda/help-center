@@ -1,6 +1,6 @@
 # Actions du configurateur d'étages
 
-L'action de création d'un nouveau bâtiment se trouve vers le haut à droite de la [page du configurateur d'étages](https://support.catenda.com/fr/articles/6921756-storey-configurator-page). Voici où se trouvent les actions de la page du configurateur d'étages :
+L'action de création d'un nouveau bâtiment se trouve vers le haut à droite de la [page du configurateur d'étages](https://support.catenda.com/fr/articles/6921756-page-configurateur-d-etage). Voici où se trouvent les actions de la page du configurateur d'étages :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/43a5z00a/01-intro.png)
 
@@ -20,11 +20,11 @@ Dans la boîte de dialogue Créer un nouveau bâtiment, un modèle initial est s
 
 > **Remarque :** Pour pouvoir sélectionner un modèle, au moins un modèle doit être configuré dans le projet.
 
-Cliquez [ici](https://support.catenda.com/fr/articles/9431936-models-page-actions#h_4100594482) pour en savoir plus sur la création de modèles. Lorsqu'un modèle est importé, une vue 2D est générée en effectuant une coupe à travers les objets du modèle à 1,4 mètre au-dessus de la hauteur de chaque étage.
+Cliquez [ici](https://support.catenda.com/fr/articles/9431936-actions-de-la-page-modeles#h_4100594482) pour en savoir plus sur la création de modèles. Lorsqu'un modèle est importé, une vue 2D est générée en effectuant une coupe à travers les objets du modèle à 1,4 mètre au-dessus de la hauteur de chaque étage.
 
 ### 2.1 **Modèles sans géométrie 2D**
 
-Si aucun objet n'a été découpé, il ne sera pas possible de sélectionner le modèle. Vous pouvez le vérifier en consultant le [bouton 2D](https://support.catenda.com/fr/articles/4670279-revision-selector#h_180a64490d) qui ne s'active pas à l'ouverture de la vue 2D du modèle.
+Si aucun objet n'a été découpé, il ne sera pas possible de sélectionner le modèle. Vous pouvez le vérifier en consultant le [bouton 2D](https://support.catenda.com/fr/articles/4670279-selecteur-de-revision#h_180a64490d) qui ne s'active pas à l'ouverture de la vue 2D du modèle.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/43a5z00a/04-models-with-no-2d-geometry.png)
 

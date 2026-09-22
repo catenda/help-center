@@ -22,7 +22,7 @@ _Access required:_ write access to the folder.
 
 ### 1.2 **Access control**
 
-To find more information about access control in the documents section read [here](https://support.catenda.com/en/articles/4670287-folders-and-documents-acl).
+To find more information about access control in the documents section read [here](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control).
 
 ### 1.3 **Collections**
 
@@ -34,7 +34,7 @@ This is what the right menu can look like when one document is selected:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/55dfymdy/04-one-document.png)
 
-When you have one document selected information about the latest public revision in that document is displayed. See [here](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision) for which information is available.
+When you have one document selected information about the latest public revision in that document is displayed. See [here](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info) for which information is available.
 
 ## 3. **Multiple folder(s) and/or document(s)**
 
@@ -54,7 +54,7 @@ With this menu you can change values for several folder(s) and/or document(s) at
 
 ### 3.2 **Access control**
 
-With this menu you can change the access of multiple folder(s) and/or document(s) at a time. To find more information about access control in the documents section read [here](https://support.catenda.com/en/articles/4670287-folders-and-documents-acl).
+With this menu you can change the access of multiple folder(s) and/or document(s) at a time. To find more information about access control in the documents section read [here](https://support.catenda.com/en/articles/4670287-folders-and-documents-access-control).
 
 ### 3.3 **Collections**
 

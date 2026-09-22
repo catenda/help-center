@@ -1,6 +1,6 @@
 # Genehmigungseinstellungsseite - Legacy
 
-Die Genehmigungseinstellungsseite kann durch Klicken auf die Genehmigungseinstellungsaktion im Aktionsmenü rechts neben der grünen Schaltfläche Plus auf der [Genehmigungsseite](https://support.catenda.com/de/articles/8349340-approvals-page) aufgerufen werden. _Erforderlicher Zugriff_: Administrator
+Die Genehmigungseinstellungsseite kann durch Klicken auf die Genehmigungseinstellungsaktion im Aktionsmenü rechts neben der grünen Schaltfläche Plus auf der [Genehmigungsseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy) aufgerufen werden. _Erforderlicher Zugriff_: Administrator
 
 Das Banner auf der Genehmigungseinstellungsseite könnte etwa so aussehen:
 
@@ -12,7 +12,7 @@ Die Aktionen der Genehmigungseinstellungsseite können durch Klicken auf das Akt
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/eekvwhj0/02-actions-on-the-approvals-settings-page.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/12367730-topic-templates-page), um mehr über die Themenvorlagenseite zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/12367730-topic-vorlagenseite-legacy), um mehr über die Themenvorlagenseite zu erfahren.
 
 ## 2. **Veröffentlichungsoptionen**
 
@@ -39,7 +39,7 @@ Klicken Sie auf das Dropdown-Menü Dokumentstatus, um einen Status aus der Liste
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/eekvwhj0/05-document-status.png)
 
-Um die Status im Projekt zu bearbeiten, gehen Sie zum Status-Workflow-Menü der [Dokumenteinstellungsseite](https://support.catenda.com/de/articles/7831371-document-settings-page).
+Um die Status im Projekt zu bearbeiten, gehen Sie zum Status-Workflow-Menü der [Dokumenteinstellungsseite](https://support.catenda.com/de/articles/7831371-seite-dokumenteinstellungen).
 
 ### 2.3 **Themenvorlage**
 
@@ -49,7 +49,7 @@ Wenn eine Themenvorlage konfiguriert ist, kann ein Thema für jede veröffentlic
 
 **Themen nicht erstellen / Markierungen nicht speichern** Standardmäßig ist die Einstellung auf Themen nicht erstellen gesetzt, die durch Auswahl von Markierungen nicht speichern in der Dropdown-Liste zurückgesetzt werden kann.
 
-**Neue Themenvorlage erstellen** Klicken Sie [hier](https://support.catenda.com/de/articles/12372007-creating-a-new-topic-template), um mehr über das Erstellen einer Themenvorlage zu erfahren.
+**Neue Themenvorlage erstellen** Klicken Sie [hier](https://support.catenda.com/de/articles/12372007-erstellen-einer-neuen-themenvorlage-legacy), um mehr über das Erstellen einer Themenvorlage zu erfahren.
 
 **Themenvorschau** Wenn eine Themenvorlage ausgewählt ist, klicken Sie auf das Auge neben der Vorlage, um den Inhalt dieser Themenvorlage anzuzeigen.
 

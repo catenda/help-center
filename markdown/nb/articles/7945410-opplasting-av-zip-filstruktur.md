@@ -1,6 +1,6 @@
 # Last opp en zip / filstruktur
 
-Sammenlignet med å laste opp en vanlig zip-fil, vil funksjonen for opplasting av zip pakke ut en zip. På denne måten kan du importere en filstruktur til [dokumentsiden](https://support.catenda.com/nb/articles/8204673-documents-page#h_28610e1d21) uten å måtte opprette mapper manuelt.
+Sammenlignet med å laste opp en vanlig zip-fil, vil funksjonen for opplasting av zip pakke ut en zip. På denne måten kan du importere en filstruktur til [dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side#h_28610e1d21) uten å måtte opprette mapper manuelt.
 
 Funksjonen Last opp zip finnes i handlingsmenyen til høyre for den grønne + knappen øverst til høyre på Dokumenter-siden.
 

@@ -18,7 +18,7 @@ If there is more than one topic board in the project you will see the option All
 
 ## 2. **New item actions**
 
-The new item actions can be found in the hamburger menu next to the plus button on the top right of the page. See [here](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board) for what the different actions do.
+The new item actions can be found in the hamburger menu next to the plus button on the top right of the page. See [here](https://support.catenda.com/en/articles/4670284-topics-table-actions) for what the different actions do.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/03-new-item-actions.png)
 
@@ -28,7 +28,7 @@ If there are unlinked statuses/types in a topic board you will see an orange war
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/04-unlinked-fields.png)
 
-Clicking on the link will take you to the [unlinked fields](https://support.catenda.com/en/articles/4670277-topic-board-settings#h_3bd7e3e759) area of the [topic board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings) where you can link all fields of one kind to an existing value in one go.
+Clicking on the link will take you to the [unlinked fields](https://support.catenda.com/en/articles/4670277-topic-board-settings-page#h_3bd7e3e759) area of the [topic board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings-page) where you can link all fields of one kind to an existing value in one go.
 
 ## 4. **Search, filter and right menu**
 
@@ -40,7 +40,7 @@ A status can either be open, closed or candidate although they might be named so
 
 ### 4.1 **Search**
 
-If all open, closed or candidate statuses are shown they will be combined into a single filter box. Click on the dropdown next to the combined filter box to see which statuses are being combined. Press the x to the right to remove all filters. Click [here](https://support.catenda.com/en/articles/8370693-filtering-in-an-issue-board) to read more about searching topics.
+If all open, closed or candidate statuses are shown they will be combined into a single filter box. Click on the dropdown next to the combined filter box to see which statuses are being combined. Press the x to the right to remove all filters. Click [here](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page) to read more about searching topics.
 
 ### 4.2 **Filter menu**
 
@@ -48,11 +48,11 @@ If you click on the topic filter button to the left of the search or filter bar 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/06-filter-menu.png)
 
-A filter menu will open up on the left. Here you can specify what filters you want to use to narrow down your search. Click [here](https://support.catenda.com/en/articles/8370693-filtering-in-an-issue-board) to read more about filtering topics.
+A filter menu will open up on the left. Here you can specify what filters you want to use to narrow down your search. Click [here](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page) to read more about filtering topics.
 
 ### 4.3 **Right menu**
 
-In the [topic board right menu](https://support.catenda.com/en/articles/6941224-right-panel-in-an-issue-board) you can see information about the selected topics and edit multiple topics at a time.
+In the [topic board right menu](https://support.catenda.com/en/articles/6941224-right-menu-in-a-topic-board) you can see information about the selected topics and edit multiple topics at a time.
 
 ## 5. **Topic board**
 
@@ -64,7 +64,7 @@ After selecting a topic selected item actions appear towards the top of the tabl
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/07-selected-item-actions.png)
 
-Click [here](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board) to see how each action can be used:
+Click [here](https://support.catenda.com/en/articles/4670284-topics-table-actions) to see how each action can be used:
 
 ### 5.2 **Columns**
 
@@ -88,7 +88,7 @@ Some columns in the topics table are enabled by default while others can be hidd
 - Document count
 - Custom fields - Default
 
-Click [here](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) to read more about which columns are available on the topics page.
+Click [here](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board) to read more about which columns are available on the topics page.
 
 ### 5.3 **List view - Default**
 
@@ -100,7 +100,7 @@ This is what an topic board looks like in list view.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tk5dvyr2/09-list-view-default.png)
 
-Click [here](https://support.catenda.com/en/articles/6941232-list-view-in-an-issue-board) to read more about the list view in a topic board. Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read general information about lists on Catenda.
+Click [here](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board) to read more about the list view in a topic board. Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda) to read general information about lists on Catenda.
 
 ### 5.4 **Table view**
 
@@ -124,7 +124,7 @@ The sub pages to the topics page can be found in the left navigation menu.
 
 ### 6.2 **Milestones**
 
-[Milestones](https://support.catenda.com/en/articles/4670266-creating-a-new-milestone) - Important dates in the project
+[Milestones](https://support.catenda.com/en/articles/4670266-milestones-page) - Important dates in the project
 
 ### 6.3 **Statistics**
 
@@ -132,4 +132,4 @@ The sub pages to the topics page can be found in the left navigation menu.
 
 ### 6.4 **Settings**
 
-Clicking on the [settings page](https://support.catenda.com/en/articles/4670277-issue-board-settings) opens the settings page for the current topic board. _Access required:_ Full access to the topic board
+Clicking on the [settings page](https://support.catenda.com/en/articles/4670277-topic-board-settings-page) opens the settings page for the current topic board. _Access required:_ Full access to the topic board

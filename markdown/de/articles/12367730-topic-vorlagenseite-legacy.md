@@ -1,6 +1,6 @@
 # Topic-Vorlagenseite - Legacy
 
-Die Topic-Vorlagenseite kann durch Klicken auf die Topic-Vorlagenaction im Actionmenü oben rechts auf der [Topic-Einstellungsseite](https://support.catenda.com/de/articles/12367293-approval-settings-page#h_320e990d50) aufgerufen werden. _Erforderlicher Zugriff_: Administrator
+Die Topic-Vorlagenseite kann durch Klicken auf die Topic-Vorlagenaction im Actionmenü oben rechts auf der [Topic-Einstellungsseite](https://support.catenda.com/de/articles/12367293-genehmigungseinstellungsseite-legacy#h_320e990d50) aufgerufen werden. _Erforderlicher Zugriff_: Administrator
 
 So kann die Topic-Vorlagenseite aussehen:
 
@@ -18,7 +18,7 @@ So können die Actions der Topic-Vorlagenseite aussehen, wenn Sie archivierte To
 
 ### 1.1 **Neue Topic-Vorlage**
 
-Klicken Sie auf die Action "Neue Topic-Vorlage", um eine neue Topic-Vorlage zu erstellen. Klicken Sie [hier](https://support.catenda.com/de/articles/12372007-creating-a-new-topic-template), um mehr über das Erstellen neuer Topic-Vorlagen zu erfahren.
+Klicken Sie auf die Action "Neue Topic-Vorlage", um eine neue Topic-Vorlage zu erstellen. Klicken Sie [hier](https://support.catenda.com/de/articles/12372007-erstellen-einer-neuen-themenvorlage-legacy), um mehr über das Erstellen neuer Topic-Vorlagen zu erfahren.
 
 ### 1.2 **Topic-Vorlagen / Archivierte Topic-Vorlagen**
 
@@ -26,7 +26,7 @@ Klicken Sie auf die Actions "Topic-Vorlagen" und "Archivierte Topic-Vorlagen", u
 
 ## 2. **Topic-Vorlagenkarte**
 
-Nach dem Erstellen einer Topic-Vorlage wird eine Karte für die Topic-Vorlage auf dieser Seite angezeigt. Klicken Sie auf eine Topic-Vorlagenkarte, um die [Topic-Vorlagenseite](https://support.catenda.com/de/articles/12371549-topic-template-page) dieser Topic-Vorlage zu öffnen. So kann eine Topic-Vorlagenkarte aussehen:
+Nach dem Erstellen einer Topic-Vorlage wird eine Karte für die Topic-Vorlage auf dieser Seite angezeigt. Klicken Sie auf eine Topic-Vorlagenkarte, um die [Topic-Vorlagenseite](https://support.catenda.com/de/articles/12371549-topic-template-seite-legacy) dieser Topic-Vorlage zu öffnen. So kann eine Topic-Vorlagenkarte aussehen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/04-topic-template-card.png)
 

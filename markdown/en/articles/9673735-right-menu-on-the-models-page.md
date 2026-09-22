@@ -1,6 +1,6 @@
 # Right menu on the models page
 
-The right information menu can be found by selecting a model on the [models page](https://support.catenda.com/en/articles/4670286-models-page) or by entering the [content page](https://support.catenda.com/en/articles/4670270-model-overview-page) of a model.
+The right information menu can be found by selecting a model on the [models page](https://support.catenda.com/en/articles/4670286-models-page) or by entering the [content page](https://support.catenda.com/en/articles/4670270-model-contents-page) of a model.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/01-intro.png)
 
@@ -62,7 +62,7 @@ The different members that have uploaded revisions and thereby contributed to th
 
 ## 3. **Model transformation**
 
-With model transformation model objects can be configured to be displayed at a diffent location and orientation within the Catenda Hub 3D viewer. This transformation only applies to models in the 3D viewer and not 3D documents that have been loaded in the 3D viewer. Click [here](https://support.catenda.com/en/articles/12498975-add-context-to-your-projects-with-freely-accessible-ign-point-clouds-hd-lidar) to read more about the transformation of 3D documents.
+With model transformation model objects can be configured to be displayed at a diffent location and orientation within the Catenda Hub 3D viewer. This transformation only applies to models in the 3D viewer and not 3D documents that have been loaded in the 3D viewer. Click [here](https://support.catenda.com/en/articles/12498975-add-free-ign-point-clouds-hd-lidar-to-a-project) to read more about the transformation of 3D documents.
 
 **Exchanging models with external tools** Models are often downloaded from Catenda and opened in a third party program. It continues therefore to be important to have the right coordinates configured in the IFC file before upload so the downloaded file contains the right information.
 

@@ -1,6 +1,6 @@
 # Modellinnholdsside
 
-For å se en oversikt over revisjonene i en modell, går du til [modellsiden](https://support.catenda.com/nb/articles/4670286-models-page) og klikker på en modell. Du blir deretter dirigert til oversiktssiden som tilhører denne modellen. Modellrevisjonsoversynet viser oss modellrevisionene som finnes i prosjektet. Ved å klikke på en modellrevisjon blir man dirigert til revisjonssiden. Du kan deretter klikke på "Importer" og laste opp en ny revisjonsmodell.
+For å se en oversikt over revisjonene i en modell, går du til [modellsiden](https://support.catenda.com/nb/articles/4670286-modellside) og klikker på en modell. Du blir deretter dirigert til oversiktssiden som tilhører denne modellen. Modellrevisjonsoversynet viser oss modellrevisionene som finnes i prosjektet. Ved å klikke på en modellrevisjon blir man dirigert til revisjonssiden. Du kan deretter klikke på "Importer" og laste opp en ny revisjonsmodell.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/01-intro.png)
 
@@ -14,11 +14,11 @@ Følgende handlinger kan finnes for hver revisjon.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/03-existing-item-actions.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/9674157-actions-on-the-model-overview-page) for å lese mer om hva hver handling gjør.
+Klikk [her](https://support.catenda.com/nb/articles/9674157-handlinger-pa-siden-for-modelinnhold) for å lese mer om hva hver handling gjør.
 
 ## 2. **Høyre informasjonsmeny**
 
-Du vil kunne finne informasjon om modellen i høyre informasjonsmeny. Denne menyen finner du ved å klikke på "i"-ikonet i øvre høyre hjørne av siden. Klikk [her](https://support.catenda.com/nb/articles/9673735-right-menu-on-the-models-page) for å lese mer om hva slags modellinformasjon som er tilgjengelig.
+Du vil kunne finne informasjon om modellen i høyre informasjonsmeny. Denne menyen finner du ved å klikke på "i"-ikonet i øvre høyre hjørne av siden. Klikk [her](https://support.catenda.com/nb/articles/9673735-hoyremeny-pa-modelsiden) for å lese mer om hva slags modellinformasjon som er tilgjengelig.
 
 ## 3. **Modellnavn**
 
@@ -34,7 +34,7 @@ Hvis det ikke finnes noen revisjoner i modellen din ennå, vil du kunne klikke p
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/05-revision-import.png)
 
-Du kan også dra og slippe for å importere en ny revisjon eller bruk den nye revisjonshandlingen i menyen for eksisterende vareoversiktshandlinger. _Tilgang kreves:_ opplasting av modellrevisjoner fra [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-project-settings-page#h_f82a1850f3)
+Du kan også dra og slippe for å importere en ny revisjon eller bruk den nye revisjonshandlingen i menyen for eksisterende vareoversiktshandlinger. _Tilgang kreves:_ opplasting av modellrevisjoner fra [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger#h_f82a1850f3)
 
 Dette gjøres ved å velge en IFC-fil fra harddisken din. Selv om andre filtyper kan forhåndsvises i delen Dokumenter, godtas bare IFC-filer i modelldelen. Klikk "send" for å starte opplastingsprosessen.
 

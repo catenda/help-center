@@ -2,7 +2,7 @@
 
 Dans un projet de construction, les équipes peuvent être précieuses car les gens arrivent souvent, changent de rôles ou quittent différents groupes de travail. La mise en place d'équipes peut prévenir les malentendus après un changement de rôles dans le projet.
 
-Créez une équipe en ouvrant le menu d'action à droite du bouton vert plus sur la [page Membres et équipes](https://support.catenda.com/fr/articles/4670291-members-and-teams-page) quel que soit l'onglet sélectionné.
+Créez une équipe en ouvrant le menu d'action à droite du bouton vert plus sur la [page Membres et équipes](https://support.catenda.com/fr/articles/4670291-page-membres-et-equipes) quel que soit l'onglet sélectionné.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dwahhbcw/01-intro.png)
 
@@ -44,4 +44,4 @@ _Membre_ - Par défaut, les membres auront par défaut les droits de lecture et 
 
 ### 2.3 **Créer**
 
-Lorsque l'équipe est créée, la [page de contenu de l'équipe](https://support.catenda.com/fr/articles/7891755-team-page) s'ouvrira. À partir de là, les membres peuvent être ajoutés à l'équipe.
+Lorsque l'équipe est créée, la [page de contenu de l'équipe](https://support.catenda.com/fr/articles/7891755-page-d-equipe) s'ouvrira. À partir de là, les membres peuvent être ajoutés à l'équipe.

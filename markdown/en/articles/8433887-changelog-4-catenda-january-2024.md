@@ -4,7 +4,7 @@
 
 Hello everyone,
 
-it has been a nice couple of months since the last changelog. Hopefully you have all had a nice winter vacation! 🎄🤶🧑‍🎄❄️ And welcome to 2024!🎇 Hopefully we will be able to make many changes and improvements this year as well! In this article you will find updates about the following: [Articles](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [topics resolved](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [New releases](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)
+it has been a nice couple of months since the last changelog. Hopefully you have all had a nice winter vacation! 🎄🤶🧑‍🎄❄️ And welcome to 2024!🎇 Hopefully we will be able to make many changes and improvements this year as well! In this article you will find updates about the following: [Articles](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-october-2023#h_5be2a02999) - [topics resolved](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-october-2023#h_d238d9111d) - [New releases](https://support.catenda.com/en/articles/7983534-changelog-3-catenda-october-2023#h_d238d9111d)
 
 ## 1. **Articles**
 
@@ -16,19 +16,19 @@ As new features roll out and bugs are fixed articles are updated with the change
 
 **Main page** [Organizations page](https://support.catenda.com/en/articles/8281910-organizations-page)
 
-**Topics** [Topic history](https://support.catenda.com/en/articles/8613038-issue-history)
+**Topics** [Topic history](https://support.catenda.com/en/articles/8613038-topic-history)
 
-**Documents** [Documents](https://support.catenda.com/en/articles/8461918-documents) [PDF Compare](https://support.catenda.com/en/articles/8461650-pdf-compare) [Filtering on the approvals page](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+**Documents** [Documents](https://support.catenda.com/en/articles/8461918-document-banner-navigation) [PDF Compare](https://support.catenda.com/en/articles/8461650-pdf-compare) [Filtering on the approvals page](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
 
-**Models and 3D** [Bookmark](https://support.catenda.com/en/articles/8471481-bookmark)
+**Models and 3D** [Bookmark](https://support.catenda.com/en/articles/8471481-bookmark-contents-page)
 
-**Project settings** [Creating a custom field](https://support.catenda.com/en/articles/8445575-creating-a-custom-field) [Custom field page](https://support.catenda.com/en/articles/8445588-custom-field-page)
+**Project settings** [Creating a custom field](https://support.catenda.com/en/articles/8445575-creating-a-custom-field) [Custom field page](https://support.catenda.com/en/articles/8445588-custom-field-contents-page)
 
 ### 1.2 **Articles that have changed:**
 
-Getting started and FAQ [Saving filters](https://support.catenda.com/en/articles/8551755-saving-filters)
+Getting started and FAQ [Saving filters](https://support.catenda.com/en/articles/8551755-limiting-filter-results)
 
-Topics [Topic boards ACL](https://support.catenda.com/en/articles/4670296-issue-boards-acl)
+Topics [Topic boards ACL](https://support.catenda.com/en/articles/4670296-topic-board-access-control)
 
 Documents [Documents page](https://support.catenda.com/en/articles/8204673-documents-page) [Models as documents](https://support.catenda.com/en/articles/8064548-models-as-documents) [Filtering on the documents page](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
 
@@ -36,7 +36,7 @@ Models [Bookmarks page](https://support.catenda.com/en/articles/4670281-bookmark
 
 Libraries <a class="intercom-content-link" href="" target="_blank">Links library</a>
 
-Settings [Members page](https://support.catenda.com/en/articles/4670291-members-page)
+Settings [Members page](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
 
 ## 2. **Bugs Resolved**
 

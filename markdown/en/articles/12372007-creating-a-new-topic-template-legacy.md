@@ -1,6 +1,6 @@
 # Creating a new topic template - Legacy
 
-The new topic template action can be found by clicking on the action menu to the right of the green plus button on the [topic templates page](https://support.catenda.com/en/articles/12367730-topic-templates-page) and the [topic template page](https://support.catenda.com/en/articles/12371549-topic-template-page). The action can also be found in the topic templates dropdown in the topic template are of the document [approval settings page](https://support.catenda.com/en/articles/12367293-approval-settings-page). _Access required:_ Administrator
+The new topic template action can be found by clicking on the action menu to the right of the green plus button on the [topic templates page](https://support.catenda.com/en/articles/12367730-topic-templates-page-legacy) and the [topic template page](https://support.catenda.com/en/articles/12371549-topic-template-page-legacy). The action can also be found in the topic templates dropdown in the topic template are of the document [approval settings page](https://support.catenda.com/en/articles/12367293-approval-settings-page-legacy). _Access required:_ Administrator
 
 This is what the new topic template dialogue can look like:
 

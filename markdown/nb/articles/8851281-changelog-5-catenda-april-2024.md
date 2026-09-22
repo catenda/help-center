@@ -4,7 +4,7 @@ Hei alle sammen,
 
 Vinteren er endelig over og solen har begynt å skinne igjen. Ja, selv her i Norge! Nå som påsken har gått er sommeren rett rundt hjørnet! ☀️😎🏖️ Men ikke dra på ferie helt ennå fordi vi har gjort noen endringer. I denne artikkelen finner du oppdateringer om følgende:
 
-_[Artikler](https://support.catenda.com/nb/articles/7983534-changelog-3-catenda-update-october-2023#h_5be2a02999) - [saker løst](https://support.catenda.com/nb/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d) - [Nye versjoner](https://support.catenda.com/nb/articles/7983534-changelog-3-catenda-update-october-2023#h_d238d9111d)_
+_[Artikler](https://support.catenda.com/nb/articles/7983534-endringslogg-3-catenda-oktober-2023#h_5be2a02999) - [saker løst](https://support.catenda.com/nb/articles/7983534-endringslogg-3-catenda-oktober-2023#h_d238d9111d) - [Nye versjoner](https://support.catenda.com/nb/articles/7983534-endringslogg-3-catenda-oktober-2023#h_d238d9111d)_
 
 ## 1. **Artikler**
 
@@ -12,37 +12,37 @@ Etter hvert som nye funksjoner lanseres og feil rettes, oppdateres artikler med 
 
 ### 1.1 **Nye artikler:**
 
-**Kom i gang og vanlige spørsmål** [Kom i gang på Catenda Hub](https://support.catenda.com/nb/articles/9030303-getting-started-on-catenda-hub) [Meldingsboblen i nederste høyre hjørne](http://The%20bottom%20right%20message%20bubble) [Tilgangskontrollnivåer](https://support.catenda.com/nb/articles/8967083-access-control-levels) [Hva er en sak i Catenda?](https://support.catenda.com/nb/articles/8979789-what-is-a-topic-in-catenda) [Anbudsgivning i Catenda](https://support.catenda.com/nb/articles/9063936-tendering-in-catenda) [Ingen tilgangssider](https://support.catenda.com/nb/articles/9172624-no-access-pages)
+**Kom i gang og vanlige spørsmål** [Kom i gang på Catenda Hub](https://support.catenda.com/nb/articles/9030303-trinn-1-kontokonfigurering) [Meldingsboblen i nederste høyre hjørne](http://The%20bottom%20right%20message%20bubble) [Tilgangskontrollnivåer](https://support.catenda.com/nb/articles/8967083-tilgangskontrollnivaer) [Hva er en sak i Catenda?](https://support.catenda.com/nb/articles/8979789-hva-er-en-topic-i-catenda) [Anbudsgivning i Catenda](https://support.catenda.com/nb/articles/9063936-anbudsinnhenting-i-catenda) [Ingen tilgangssider](https://support.catenda.com/nb/articles/9172624-ingen-tilgangssider)
 
-**Hovedside** [Medlemmerside i organisasjonsverktøy](https://support.catenda.com/nb/articles/9003642-members-page-in-organization-tool)
+**Hovedside** [Medlemmerside i organisasjonsverktøy](https://support.catenda.com/nb/articles/9003642-prosjektmedlemskap-organisasjonsverktoy)
 
-**Saker** [2D og 3D-visninger](https://support.catenda.com/nb/articles/9184555-2d-and-3d-viewpoints)
+**Saker** [2D og 3D-visninger](https://support.catenda.com/nb/articles/9184555-2d-og-3d-visninger)
 
-**Dokumenter** [Opplasting av dokument](https://support.catenda.com/nb/articles/4670278-uploading-a-document) [Samlingsside](https://support.catenda.com/nb/articles/8999764-collection-page)
+**Dokumenter** [Opplasting av dokument](https://support.catenda.com/nb/articles/4670278-laster-opp-et-dokument) [Samlingsside](https://support.catenda.com/nb/articles/8999764-samlinginnholdside)
 
-**Plugins og integrasjoner** [Dokument - Catenda Site](https://support.catenda.com/nb/articles/8975421-document-catenda-site)
+**Plugins og integrasjoner** [Dokument - Catenda Site](https://support.catenda.com/nb/articles/8975421-forhandsvisning-av-filtyper-pa-catenda-site)
 
 ### 1.2 **Artikler som har endret seg:**
 
-**Nylige oppdateringer** [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-models-as-documents)
+**Nylige oppdateringer** [Modeller som dokumenter](https://support.catenda.com/nb/articles/8064548-modeller-som-dokumenter)
 
-**Hovedside** [Prosjektside](https://support.catenda.com/nb/articles/4670260-projects-page) [Opprett et nytt prosjekt ](https://support.catenda.com/nb/articles/4670245-creating-a-new-project) [Brukerside i organisasjonsverktøy](https://support.catenda.com/nb/articles/8508311-users-page-in-organization-tool) [Kontovarselinnstillinger ](https://support.catenda.com/nb/articles/8272435-account-notification-settings)
+**Hovedside** [Prosjektside](https://support.catenda.com/nb/articles/4670260-kontoknappar) [Opprett et nytt prosjekt ](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt) [Brukerside i organisasjonsverktøy](https://support.catenda.com/nb/articles/8508311-brukersiden-organisasjonsverktoy) [Kontovarselinnstillinger ](https://support.catenda.com/nb/articles/8272435-innstillinger-for-varsler)
 
-**Saker** [Innstillinger for saksliste](https://support.catenda.com/nb/articles/4670277-topic-board-settings) [Saksbrødtekst](https://support.catenda.com/nb/articles/8053352-issue-body) [Formatering av innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts)
+**Saker** [Innstillinger for saksliste](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste) [Saksbrødtekst](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak) [Formatering av innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg)
 
 **Dokumenter**
 
-_[Strukturering av dokumenter](https://support.catenda.com/nb/articles/8542598-structuring-documents)_ [Merknader på dokumenter](https://support.catenda.com/nb/articles/5001165-annotations-on-documents) [Samlingsside](https://support.catenda.com/nb/articles/6344318-collections-page) [Filtrering på gjennomgangssiden](https://support.catenda.com/nb/articles/8551740-filtering-on-the-approvals-page) [Filtrering i saksliste](https://support.catenda.com/nb/articles/8370693-filtering-in-a-topic-board)
+_[Strukturering av dokumenter](https://support.catenda.com/nb/articles/8542598-strukturering-av-dokumenter)_ [Merknader på dokumenter](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader) [Samlingsside](https://support.catenda.com/nb/articles/6344318-samlingside) [Filtrering på gjennomgangssiden](https://support.catenda.com/nb/articles/8551740-filtrering-pa-godkjenningssiden-eldre-versjon) [Filtrering i saksliste](https://support.catenda.com/nb/articles/8370693-filtrering-pa-sakssiden)
 
-**Modeller** [3D-viser](https://support.catenda.com/nb/articles/8227211-3d-viewer) [2D-viser](https://support.catenda.com/nb/articles/4854537-2d-viewer) [Søk](https://support.catenda.com/nb/articles/4854514-queries)
+**Modeller** [3D-viser](https://support.catenda.com/nb/articles/8227211-3d-viser) [2D-viser](https://support.catenda.com/nb/articles/4854537-2d-viser) [Søk](https://support.catenda.com/nb/articles/4854514-sporringer)
 
-**Informasjonspanel** [Informasjonspanel](https://support.catenda.com/nb/articles/8238584-information-panel)
+**Informasjonspanel** [Informasjonspanel](https://support.catenda.com/nb/articles/8238584-informasjonspanel)
 
-**Innstillinger** [Merkelappersde](https://support.catenda.com/nb/articles/4670265-labels-page) [Opprett et team](https://support.catenda.com/nb/articles/4670264-creating-a-team)
+**Innstillinger** [Merkelappersde](https://support.catenda.com/nb/articles/4670265-merkelappersiden) [Opprett et team](https://support.catenda.com/nb/articles/4670264-opprette-et-team)
 
-**Plugins og integrasjoner** [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) [Integrasjon Power BI](https://support.catenda.com/nb/articles/5784721-integration-power-bi) [IFC Archicad Manual](https://support.catenda.com/nb/articles/4670338-ifc-export-archicad-manual) [Archicad plugin](https://support.catenda.com/nb/articles/5519276-catenda-archicad-plugin) [Solibri Modeller som dokumenter-integrering](https://support.catenda.com/nb/articles/6988148-solibri-models-and-documents-integration)
+**Plugins og integrasjoner** [Catenda Desktop Connector](https://support.catenda.com/nb/articles/8358861-catenda-desktop-connector) [Integrasjon Power BI](https://support.catenda.com/nb/articles/5784721-catenda-power-bi-connector) [IFC Archicad Manual](https://support.catenda.com/nb/articles/4670338-ifc-export-archicad-manual) [Archicad plugin](https://support.catenda.com/nb/articles/5519276-catenda-archicad-plugin) [Solibri Modeller som dokumenter-integrering](https://support.catenda.com/nb/articles/6988148-solibri-modeller-og-dokumentintegrering)
 
-**Catenda Site** [Last ned mobilappen Catenda Site](https://support.catenda.com/nb/articles/6530821-download-your-mobile-app-catenda-site)
+**Catenda Site** [Last ned mobilappen Catenda Site](https://support.catenda.com/nb/articles/6530821-last-ned-mobil-appen-catenda-site)
 
 ## 2. **Feil løst**
 

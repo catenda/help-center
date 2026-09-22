@@ -1,6 +1,6 @@
 # Overview tab in an approval request
 
-The overview tab of an approval request can be found on the approval request page of [open or closed](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page) approvals. In the overview tab an overview of a selected approval review step can be found. In the step the validations that are indicated and submitted by a member on behalf of each submitter team that is configured to review the step can be seen. For an overview of validation submissions for all the steps, see the [documents tab](https://support.catenda.com/en/articles/8349418-approval-page#h_133b2690af).
+The overview tab of an approval request can be found on the approval request page of [open or closed](https://support.catenda.com/en/articles/12494960-open-or-closed-approval-request-page) approvals. In the overview tab an overview of a selected approval review step can be found. In the step the validations that are indicated and submitted by a member on behalf of each submitter team that is configured to review the step can be seen. For an overview of validation submissions for all the steps, see the [documents tab](https://support.catenda.com/en/articles/8349418-open-published-or-discarded-approval-legacy#h_133b2690af).
 
 > **Note:** **Look and feel -** This is what the overview tab in the approval content can look like for projects that enabled shared revisions after 2 October 2025:
 
@@ -76,7 +76,7 @@ The result of the approval is displayed below the step overview:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/09-approval-request-result.png)
 
-Click [here](https://support.catenda.com/en/articles/12520773-approvals-troubleshooting) to read more about why the publishing of documents might fail.
+Click [here](https://support.catenda.com/en/articles/12520773-approvals-page-troubleshooting) to read more about why the publishing of documents might fail.
 
 ### 5.1 View details
 

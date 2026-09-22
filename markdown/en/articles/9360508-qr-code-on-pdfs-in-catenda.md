@@ -1,6 +1,6 @@
 # QR-Code on PDFs in Catenda
 
-QR-Codes can be configured per folder in the [folder configuration](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90) of [document settings](https://support.catenda.com/en/articles/7831371-document-settings).
+QR-Codes can be configured per folder in the [folder configuration](https://support.catenda.com/en/articles/7831371-document-settings-page#h_6672c14d90) of [document settings](https://support.catenda.com/en/articles/7831371-document-settings-page).
 
 This function provides users of Catenda a function to check, if the document they are using is the latest version, by scanning the QR-code printed on the PDF.
 
@@ -82,7 +82,7 @@ Here is an example on the placement of the QR-code placeholder and the results a
 
 ### 3.1 **Document history**
 
-After uploading a document with a placeholder QR code you will be able to see it has successfully been processed in the document history of the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision).
+After uploading a document with a placeholder QR code you will be able to see it has successfully been processed in the document history of the [right information menu](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/10-document-history.png)
 

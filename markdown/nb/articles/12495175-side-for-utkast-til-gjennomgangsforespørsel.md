@@ -1,6 +1,6 @@
 # Side for utkast til gjennomgangsforespørsel
 
-Utkast til gjennomganger kan åpnes ved å klikke på et gjennomgangskort på [siden for gjennomganger](https://support.catenda.com/nb/articles/8349340-approvals-page). _Tilgang kreves:_ Opprettelsesfunksjon for gjennomgangsforespørsel
+Utkast til gjennomganger kan åpnes ved å klikke på et gjennomgangskort på [siden for gjennomganger](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon). _Tilgang kreves:_ Opprettelsesfunksjon for gjennomgangsforespørsel
 
 Slik kan siden for utkast til gjennomgangsforespørsel se ut:
 
@@ -14,7 +14,7 @@ Slik kan handlingene på gjennomgangssiden se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/02-new-item-actions.png)
 
-Bruk handlingen for ny gjennomgangsforespørsel til å opprette en ny gjennomgangsforespørsel. Klikk [her](https://support.catenda.com/nb/articles/12495005-creating-a-new-approval-request?q=draft) for å lese mer om opprettelse av en ny gjennomgangsforespørsel.
+Bruk handlingen for ny gjennomgangsforespørsel til å opprette en ny gjennomgangsforespørsel. Klikk [her](https://support.catenda.com/nb/articles/12495005-opprette-en-ny-gjennomgang?q=draft) for å lese mer om opprettelse av en ny gjennomgangsforespørsel.
 
 ## 2. **Gjennomgangshode**
 
@@ -32,7 +32,7 @@ Arbeidsflyten som er valgt under opprettelsen av denne gjennomgangen
 
 ### 2.3 **Beskrivelse**
 
-Beskrivelsen av gjennomgangen Beskrivelsen blir redigerbar etter at gjennomgangsforespørselen er sendt inn. Redigering er begrenset til personen som opprettet gjennomgangsforespørselen og til prosjektadministratorer. Beskrivelsen av gjennomgangen følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts).
+Beskrivelsen av gjennomgangen Beskrivelsen blir redigerbar etter at gjennomgangsforespørselen er sendt inn. Redigering er begrenset til personen som opprettet gjennomgangsforespørselen og til prosjektadministratorer. Beskrivelsen av gjennomgangen følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg).
 
 ## 3. **Trinnbånd**
 
@@ -40,7 +40,7 @@ I trinnbåndet vises en forhåndsvisning av alle trinnene i en gjennomgang. Slik
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/04-step-ribbon.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/12495212-step-ribbon-in-an-approval-request) for å lese mer om trinnbåndet.
+Klikk [her](https://support.catenda.com/nb/articles/12495212-stegband-i-en-gjennomgangsforesporsel) for å lese mer om trinnbåndet.
 
 ## 4. **Dokumenterfane**
 

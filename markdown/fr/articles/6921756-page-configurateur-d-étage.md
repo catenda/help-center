@@ -2,7 +2,7 @@
 
 > Comment avoir un PDF en tant que superposition dans votre vue 2D
 
-En configurant les étages dans un projet, des vues préparées dans la [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-2d-viewer) peuvent être créées pour les Membres. La page du configurateur d'étage se trouve comme sous-page de la [page des modèles](https://support.catenda.com/fr/articles/4670286-models-page). Les noms Storey et Building utilisés ici proviennent de la norme IFC. Bien que les termes Storey et Building soient souvent davantage utilisés dans les infrastructures sociales, cet outil est tout aussi utile, sinon plus utile, pour les projets d'infrastructures physiques ou numériques. _Accès requis :_ Administrateur de projet
+En configurant les étages dans un projet, des vues préparées dans la [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-visionneuse-2d) peuvent être créées pour les Membres. La page du configurateur d'étage se trouve comme sous-page de la [page des modèles](https://support.catenda.com/fr/articles/4670286-page-modeles). Les noms Storey et Building utilisés ici proviennent de la norme IFC. Bien que les termes Storey et Building soient souvent davantage utilisés dans les infrastructures sociales, cet outil est tout aussi utile, sinon plus utile, pour les projets d'infrastructures physiques ou numériques. _Accès requis :_ Administrateur de projet
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/hn8gfwtp/01-intro.png)
 
@@ -24,7 +24,7 @@ Le menu d'action sur la page du configurateur d'étage se trouve en ouvrant les 
 
 ### 1.1 **Ajouter un nouveau bâtiment**
 
-Cliquez [ici](https://support.catenda.com/fr/articles/12291366-storey-configurator-actions) pour en savoir plus sur l'ajout d'un nouveau bâtiment.
+Cliquez [ici](https://support.catenda.com/fr/articles/12291366-actions-du-configurateur-d-etages) pour en savoir plus sur l'ajout d'un nouveau bâtiment.
 
 ### 1.2 **PDF**
 

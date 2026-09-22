@@ -66,8 +66,8 @@ Die Schaltfläche "Vollbild" für die Überprüfung kann oben rechts auf der Dat
 
 ## 6. Dokumentvorschau
 
-Bei der Überprüfung der Dateiprüfung im Namen eines Teams stehen alle [Anmerkungswerkzeuge für Dokumente](https://support.catenda.com/de/articles/11384618-document-preview-tools) zur Verfügung. Die Dokumentvorschau auf der Dateiprüfungsseite der Genehmigungsanfrage funktioniert genauso wie die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-document-preview-and-annotations) beim Öffnen eines Dokuments aus der Dokumententabelle.
+Bei der Überprüfung der Dateiprüfung im Namen eines Teams stehen alle [Anmerkungswerkzeuge für Dokumente](https://support.catenda.com/de/articles/11384618-dokumentvorschau-tools) zur Verfügung. Die Dokumentvorschau auf der Dateiprüfungsseite der Genehmigungsanfrage funktioniert genauso wie die [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen) beim Öffnen eines Dokuments aus der Dokumententabelle.
 
 ### 6.1 Nur anzeigen
 
-Beim Anzeigen der Dateiprüfung im Modus "Nur anzeigen" steht nur das [Anzeigetool](https://support.catenda.com/de/articles/11384618-document-preview-tools#h_27c7badabb) in der Symbolleiste der Dokumentvorschau zur Verfügung.
+Beim Anzeigen der Dateiprüfung im Modus "Nur anzeigen" steht nur das [Anzeigetool](https://support.catenda.com/de/articles/11384618-dokumentvorschau-tools#h_27c7badabb) in der Symbolleiste der Dokumentvorschau zur Verfügung.

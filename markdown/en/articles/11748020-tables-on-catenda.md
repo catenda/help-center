@@ -31,10 +31,10 @@ In the following tables a default configuration is displayed when the page is lo
 
 In the following tables changes made to the default table configuration are displayed when the page is loaded:
 
-- [Topics](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Table view)
+- [Topics](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board) (Table view)
 - [Models](https://support.catenda.com/en/articles/4670286-models-page) (Basic view, Published tab, Workspace tab)
 - [Documents](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Basic view, Published tab, Workspace tab)
-    - [Document access overview](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+    - [Document access overview](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
 - [Reports](https://support.catenda.com/en/articles/12303098-reports-page) (Basic view, Published tab, Workspace tab)
 - [Labels](https://support.catenda.com/en/articles/4670265-labels-page) (Labels tab, Group tab)
 - [Custom fields](https://support.catenda.com/en/articles/6550459-custom-fields-page)
@@ -68,9 +68,9 @@ After selecting or opening the content of a row in the table a selected item act
 
 The selected item action menu can include different actions depending on the content of the row and the access of the selecting user. The possible actions for each table can be found here:
 
-- [Topic board selected item actions](https://support.catenda.com/en/articles/4670284-topic-board-actions#h_b5c00c149b)
+- [Topic board selected item actions](https://support.catenda.com/en/articles/4670284-topics-table-actions#h_b5c00c149b)
 - [Models page selected item actions](https://support.catenda.com/en/articles/9431936-models-page-actions#h_9c268c45ed)
-- [Documents page selected item actions](https://support.catenda.com/en/articles/4670288-document-structure-actions#h_fb4e9ef375)
+- [Documents page selected item actions](https://support.catenda.com/en/articles/4670288-documents-table-actions#h_fb4e9ef375)
 
 ### 2.4 Deselecting all
 
@@ -256,10 +256,10 @@ It is possible to move columns in the following tables:
     - [Projects page](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
     - [Project membership page](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 
-- [Topics](https://support.catenda.com/en/articles/6941099-columns-on-the-topics-page) (Table view)
+- [Topics](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board) (Table view)
 - [Models](https://support.catenda.com/en/articles/4670286-models-page) (Basic view, Published tab, Workspace tab)
 - [Documents](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page) (Basic view, Published tab, Workspace tab)
-    - [Document access overview](https://support.catenda.com/en/articles/6660820-document-access-overview-acl-dashboard)
+    - [Document access overview](https://support.catenda.com/en/articles/6660820-document-access-overview-page)
 - [Reports](https://support.catenda.com/en/articles/12303098-reports-page) (Basic view, Published tab, Workspace tab)
 - [Labels](https://support.catenda.com/en/articles/4670265-labels-page) (Labels tab, Group tab)
 - [Custom fields](https://support.catenda.com/en/articles/6550459-custom-fields-page)

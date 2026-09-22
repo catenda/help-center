@@ -2,7 +2,7 @@
 
 > Interaction avec la Visionneuse 2D
 
-Différents composants de la [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-2d-viewer) peuvent être utilisés de différentes manières. Chaque partie de la Visionneuse 2D sur laquelle vous pouvez cliquer est décrite dans cet article. Voici à quoi peut ressembler la Visionneuse 2D :
+Différents composants de la [Visionneuse 2D](https://support.catenda.com/fr/articles/4854537-visionneuse-2d) peuvent être utilisés de différentes manières. Chaque partie de la Visionneuse 2D sur laquelle vous pouvez cliquer est décrite dans cet article. Voici à quoi peut ressembler la Visionneuse 2D :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/01-intro.png)
 
@@ -24,7 +24,7 @@ Faites glisser ces deux lignes diagonales pour redimensionner la Visionneuse 2D 
 
 ### 2.2 **Titre**
 
-Le titre de la barre supérieure sera le nom de l'étage. Si un étage d'un bâtiment du [configurateur d'étage](https://support.catenda.com/fr/articles/6921756-storey-configurator-page) est sélectionné, le titre inclura le nom du bâtiment et le nom de l'étage actuel. Si l'étage d'un modèle non configuré est sélectionné, le titre inclura le nom du modèle.
+Le titre de la barre supérieure sera le nom de l'étage. Si un étage d'un bâtiment du [configurateur d'étage](https://support.catenda.com/fr/articles/6921756-page-configurateur-d-etage) est sélectionné, le titre inclura le nom du bâtiment et le nom de l'étage actuel. Si l'étage d'un modèle non configuré est sélectionné, le titre inclura le nom du modèle.
 
 ### 2.3 **Ouverture et fermeture de la Visionneuse 2D**
 
@@ -49,8 +49,8 @@ _Clic gauche_ S'il y a des espaces dans l'étage de la vue 2D qui est activée p
 - _Ajouter un marqueur_<br>Ajouter un nouveau marqueur. Avec un Sujet ouvert dans le panneau de contenu, vous pouvez assigner le marqueur sélectionné. Ce marqueur ne sera pas enregistré et visible pour les autres jusqu'à ce qu'il soit ajouté à un problème.
 - _Créer un nouveau Sujet avec marqueur_<br>Créer un nouveau Sujet avec marqueur. Ce marqueur ne sera pas enregistré et visible pour les autres jusqu'à ce que le Sujet soit envoyé.
 - _Créer une requête_
-    - Intersecter espace - Créer une [requête](https://support.catenda.com/fr/articles/4854514-queries) de tous les objets intersectant avec l'espace sélectionné
-    - Intersecter étage - Créer une [requête](https://support.catenda.com/fr/articles/4854514-queries) de tous les objets intersectant avec cet étage
+    - Intersecter espace - Créer une [requête](https://support.catenda.com/fr/articles/4854514-requetes) de tous les objets intersectant avec l'espace sélectionné
+    - Intersecter étage - Créer une [requête](https://support.catenda.com/fr/articles/4854514-requetes) de tous les objets intersectant avec cet étage
 
 ### 3.2 **Maintenir le bouton souris**
 
@@ -76,7 +76,7 @@ Effectuer un zoom arrière pour afficher tous les objets visibles à la fois
 
 Avec le bouton de rotation, vous pouvez faire pivoter la Visionneuse 2D.
 
-**Curseur de rotation** La rotation initiale peut être configurée en définissant un emplacement avec une rotation dans [les paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page).
+**Curseur de rotation** La rotation initiale peut être configurée en définissant un emplacement avec une rotation dans [les paramètres du projet](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/08-rotation.png)
 
@@ -86,7 +86,7 @@ Avec le bouton de rotation, vous pouvez faire pivoter la Visionneuse 2D.
 
 **Réinitialiser** Cliquez sur Réinitialiser en haut à droite pour réinitialiser le curseur à la rotation initiale.
 
-**Rotation du dessin superposé** Les bâtiments peuvent être configurés dans le [configurateur d'étage](https://support.catenda.com/fr/articles/6921756-storey-configurator-page). Chaque étage d'un bâtiment peut avoir un dessin comme superposition qui est pivoté par rapport aux modèles du projet.
+**Rotation du dessin superposé** Les bâtiments peuvent être configurés dans le [configurateur d'étage](https://support.catenda.com/fr/articles/6921756-page-configurateur-d-etage). Chaque étage d'un bâtiment peut avoir un dessin comme superposition qui est pivoté par rapport aux modèles du projet.
 
 ### 4.3 **Verrouiller la caméra**
 
@@ -94,7 +94,7 @@ Si un modèle est chargé dans la Visionneuse 3D, vous pourrez verrouiller la ca
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/09-lock-camera.png)
 
-Lorsque cette fonction est activée, l'indicateur de point de vue reste centré sur le canevas même si la caméra est déplacée dans la Visionneuse 3D. Cela est utile en combinaison avec le [mode de marche](https://support.catenda.com/fr/articles/5784718-3d-viewer-settings#h_1c05dca226).
+Lorsque cette fonction est activée, l'indicateur de point de vue reste centré sur le canevas même si la caméra est déplacée dans la Visionneuse 3D. Cela est utile en combinaison avec le [mode de marche](https://support.catenda.com/fr/articles/5784718-parametres-de-la-visionneuse-3d#h_1c05dca226).
 
 ## 5. **Outils de sélection et paramètres**
 
@@ -102,7 +102,7 @@ Les outils de sélection et les paramètres se trouvent vers le haut à droite d
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5nvzd52j/10-selection-tools-and-settings.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/8035360-selecting-and-clipping-from-2d) pour une explication détaillée de comment utiliser les outils de section dans la Visionneuse 2D.
+Cliquez [ici](https://support.catenda.com/fr/articles/8035360-selection-et-decoupage-a-partir-de-2d) pour une explication détaillée de comment utiliser les outils de section dans la Visionneuse 2D.
 
 ### 5.1 **Sélectionner**
 
@@ -120,7 +120,7 @@ Créer de 4 à 6 plans de découpe en faisant glisser un rectangle sur le caneva
 
 ### 5.4 **Section : Créer une requête**
 
-Créer une [requête](https://support.catenda.com/fr/articles/4854514-queries) en faisant glisser un rectangle sur le canevas 2D et en sélectionnant la hauteur.
+Créer une [requête](https://support.catenda.com/fr/articles/4854514-requetes) en faisant glisser un rectangle sur le canevas 2D et en sélectionnant la hauteur.
 
 ### 5.5 **Bouton Déplacer**
 
@@ -162,6 +162,6 @@ Avec le bouton de calque, vous pourrez basculer différents calques dans la Visi
 
 **Modèles** Avec ce bouton, les modèles peuvent être activés ou désactivés.
 
-**Dessins** Vous verrez ce bouton si un dessin a été aligné comme superposition pour un étage de bâtiment dans le [configurateur d'étage](https://support.catenda.com/fr/articles/6921756-storey-configurator-page). Avec ce bouton, les dessins alignés peuvent être activés ou désactivés.
+**Dessins** Vous verrez ce bouton si un dessin a été aligné comme superposition pour un étage de bâtiment dans le [configurateur d'étage](https://support.catenda.com/fr/articles/6921756-page-configurateur-d-etage). Avec ce bouton, les dessins alignés peuvent être activés ou désactivés.
 
-**Carte** Vous verrez ce bouton si un emplacement a été configuré dans les [paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page) Avec ce bouton, la carte peut être activée ou désactivée.
+**Carte** Vous verrez ce bouton si un emplacement a été configuré dans les [paramètres du projet](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet) Avec ce bouton, la carte peut être activée ou désactivée.

@@ -4,7 +4,7 @@ Afhankelijk van uw toegang kunnen verschillende acties voor uw huidige model en 
 
 ## 1. **Modelacties**
 
-Afhankelijk van modelselectie en welke toegangsinstellingen u hebt, kunt u verschillende actieknoppen rechtsboven op de [modelsoverzichtspagina](https://support.catenda.com/nl/articles/4670270-model-overview-page#h_c10dbce6c8) vinden. Alle actieknoppen worden weergegeven in hun actiemenu's die er als volgt uit kunnen zien:
+Afhankelijk van modelselectie en welke toegangsinstellingen u hebt, kunt u verschillende actieknoppen rechtsboven op de [modelsoverzichtspagina](https://support.catenda.com/nl/articles/4670270-pagina-met-modelinhoud#h_c10dbce6c8) vinden. Alle actieknoppen worden weergegeven in hun actiemenu's die er als volgt uit kunnen zien:
 
 ![mceclip0.png](https://raw.githubusercontent.com/catenda/help-center/main/images/5t44cpcq/01-model-actions.png)
 
@@ -22,7 +22,7 @@ Klik op de actie nieuwe revisie of sleep een bestand in de modelinhoudslijst om 
 
 ### 1.3 **Exports**
 
-Dit brengt u naar de [modelsexportpagina](https://support.catenda.com/nl/articles/4670280-model-export)
+Dit brengt u naar de [modelsexportpagina](https://support.catenda.com/nl/articles/4670280-pagina-model-export)
 
 ### 1.4 **Verwijderen**
 
@@ -44,7 +44,7 @@ Klik op de downloadactie om deze revisie te downloaden
 
 ### 2.2 Publiceer
 
-Als gedeelde revisies zijn ingeschakeld in het [menu statuswerkstroom](https://support.catenda.com/nl/articles/12495583-status-workflow-document-settings) van documentinstellingen in het project, begint elke nieuwe revisie die is gemaakt als een gedeelde revisie die later kan worden gepubliceerd.
+Als gedeelde revisies zijn ingeschakeld in het [menu statuswerkstroom](https://support.catenda.com/nl/articles/12495583-statuswerkstroom-documenten-instellingen) van documentinstellingen in het project, begint elke nieuwe revisie die is gemaakt als een gedeelde revisie die later kan worden gepubliceerd.
 
 Gedeelde revisies hebben een minorvisionummer. (0.1, 0.2, 1.1, enz.) De publiceeractie kan beschikbaar zijn voor gedeelde revisies in het model. Alleen gedeelde revisies na de laatst gepubliceerde revisie kunnen worden gepubliceerd. Gepubliceerde revisies hebben een minorvisionummer. (1.0, 2.0, 3.0 enz.) _Vereiste toegang:_ Kan publiceren in instellingen voor document-modeltoegang
 

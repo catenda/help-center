@@ -10,7 +10,7 @@ Dit is wat het zoeken of filtermenu op de objectenpagina kan lijken
 
 ![Zoeken of filteren Selecteren Plus Modellen Geselecteerd Tekstzoeken](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/02-search-or-filter.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/12353642-filtering-on-the-objects-page) voor meer informatie over filteren op de objectenpagina.
+Klik [hier](https://support.catenda.com/nl/articles/12353642-filteren-op-de-objectenpagina) voor meer informatie over filteren op de objectenpagina.
 
 ## 2. **Productentabel**
 
@@ -18,7 +18,7 @@ De productentabel kan er ongeveer zo uitzien:
 
 ![Geselecteerd 3D actiemenu downloaden instellingen entiteit kolom GlobalId kolom LongName kolom IfcProject IfcBuildingelementProxy één rij is geselecteerd in tabel](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/03-products-table.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) voor meer informatie over hoe u met tabellen in Catenda werkt.
+Klik [hier](https://support.catenda.com/nl/articles/11748020-tabellen-op-catenda) voor meer informatie over hoe u met tabellen in Catenda werkt.
 
 ### 2.1 **Wat is een product?**
 
@@ -56,7 +56,7 @@ Klik op de downloadknop bovenaan de productentabel om deze te exporteren.
 
 Rijen Het is alleen mogelijk om alle rijen van de ingeschakelde modellen op te halen. Het selecteren van rijen beperkt de rijen in de geëxporteerde bestanden niet. Het enige filter dat het aantal rijen kan beperken, is het modellen-filter. Hoewel rijen in de tabel beperkt kunnen lijken, zal het geëxporteerde bestand alle rijen voor de beschikbare modellen bevatten.
 
-Kolommen Één kolom voor elke kolom die in de productentabel is ingeschakeld, wordt naar het bestand geëxporteerd. Klik [hier](https://support.catenda.com/nl/articles/11748020-tables-on-catenda) voor meer informatie over het beheren van tabelkolommen.
+Kolommen Één kolom voor elke kolom die in de productentabel is ingeschakeld, wordt naar het bestand geëxporteerd. Klik [hier](https://support.catenda.com/nl/articles/11748020-tabellen-op-catenda) voor meer informatie over het beheren van tabelkolommen.
 
 **Export-objecten** Kies in het menu Export-objecten of u naar Excel of CSV wilt exporteren:
 

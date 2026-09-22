@@ -1,6 +1,6 @@
 # ダッシュボード - Catenda Site
 
-[プロジェクトページ](https://support.catenda.com/ja/articles/7733978-projects-page-catenda-site)でプロジェクトを選択すると、プロジェクトのトピックダッシュボードに移動します。
+[プロジェクトページ](https://support.catenda.com/ja/articles/7733978-プロジェクトページ-catenda-site)でプロジェクトを選択すると、プロジェクトのトピックダッシュボードに移動します。
 
 このページでは、トピックのステータスを表示し、どのissue boardを表示するかを選択または変更し、トピックをフィルタリングできます。
 
@@ -19,4 +19,4 @@
 
 また、ナビゲートできるいくつかのタブがあります:
 
-A. [メニュー](https://support.catenda.com/ja/articles/7338516-navigation-menu-catenda-site) B. [トピック](https://support.catenda.com/ja/articles/7734073-issues-page-catenda-site) C. [2D/3D](https://support.catenda.com/ja/articles/7734138-2d-3d-catenda-site) D. [ドキュメント](https://support.catenda.com/ja/articles/7774637-documents-catenda-site)
+A. [メニュー](https://support.catenda.com/ja/articles/7338516-ナビゲーションメニュー-catenda-site) B. [トピック](https://support.catenda.com/ja/articles/7734073-トピックメニュー-catenda-site) C. [2D/3D](https://support.catenda.com/ja/articles/7734138-2d-3d-catenda-site) D. [ドキュメント](https://support.catenda.com/ja/articles/7774637-ドキュメントメニュー-catenda-site)

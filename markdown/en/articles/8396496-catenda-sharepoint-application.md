@@ -1,6 +1,6 @@
 # Catenda SharePoint Application
 
-> **Note:** The install file for the plugin can be found in [this article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Note:** The install file for the plugin can be found in [this article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-integrations).
 
 If the Catenda SharePoint Application is added to a SharePoint site, files can be published from SharePoint to Catenda and the Catenda document structure can be viewed in SharePoint. When configured, the application can look as follows: <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/>
 This article contains information about how this application works

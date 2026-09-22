@@ -50,9 +50,9 @@ Pin it to a milestone or leave it blank. This can help with tracking how many to
 
 ### 2.8 Responsibility
 
-**Assigned to** Here you can assign the topic to a specific member or a team. It is recommended that you set a member as assignee instead of a team as shared responsibility makes it so none of the team members feels personally responsible. If you would still like to let other team members know their team is responsible you can set member@team. If a member is set as assignee they will automatically [follow](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic. If a team is set as assignee the team members will not automatically [follow](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic.
+**Assigned to** Here you can assign the topic to a specific member or a team. It is recommended that you set a member as assignee instead of a team as shared responsibility makes it so none of the team members feels personally responsible. If you would still like to let other team members know their team is responsible you can set member@team. If a member is set as assignee they will automatically [follow](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) the topic. If a team is set as assignee the team members will not automatically [follow](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) the topic.
 
-**Requested by** Here you can set the member or team that is requesting the topic. You will be set as the requester by default, but you can choose any member here. If a member is set as requestee they will automatically [follow](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic. If a team is set as requestee the team members will not automatically [follow](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic.
+**Requested by** Here you can set the member or team that is requesting the topic. You will be set as the requester by default, but you can choose any member here. If a member is set as requestee they will automatically [follow](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) the topic. If a team is set as requestee the team members will not automatically [follow](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) the topic.
 
 ### 2.9 Labels
 
@@ -70,7 +70,7 @@ This is what the right information panel can look like:
 
 ### 3.1 Documents
 
-Click [here](https://support.catenda.com/en/articles/4670250-linking-a-document-to-an-issue) to see how to link a document to an topic.
+Click [here](https://support.catenda.com/en/articles/4670250-linking-a-document-to-a-topic) to see how to link a document to an topic.
 
 ## 4. Body
 

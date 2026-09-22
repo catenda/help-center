@@ -1,6 +1,6 @@
 # Filteren op de goedkeuringspagina
 
-Het filterpaneel kan op de goedkeuringspagina worden geopend voor projecten die gedeelde revisies na 2 oktober 2025 hebben ingeschakeld door op de filterknop links van de zoekbalk op de [goedkeuringspagina](https://support.catenda.com/nl/articles/8349340-approvals-page) te klikken. Projecten waarbij gedeelde revisies voor 2 oktober 2025 waren ingeschakeld, zien in plaats daarvan het verouderde filtermenu voor de goedkeuringspagina.
+Het filterpaneel kan op de goedkeuringspagina worden geopend voor projecten die gedeelde revisies na 2 oktober 2025 hebben ingeschakeld door op de filterknop links van de zoekbalk op de [goedkeuringspagina](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy) te klikken. Projecten waarbij gedeelde revisies voor 2 oktober 2025 waren ingeschakeld, zien in plaats daarvan het verouderde filtermenu voor de goedkeuringspagina.
 
 ## 1. **Filters**
 
@@ -12,11 +12,11 @@ Klik op de filterknop linksboven om een paneel aan de linkerkant te laten versch
 
 ### 1.1 **Het huidige filter opslaan en delen**
 
-Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen naar de bovenkant van het filtermenu worden opgeslagen. Klik [hier](https://support.catenda.com/nl/articles/11401493-saving-a-filter-link) voor meer informatie over het opslaan en delen van filters. Let op: in tegenstelling tot andere filtermenu's is het op de pagina voor goedkeuringen niet mogelijk om persoonlijke filters naar de bovenkant van het filtermenu op te slaan.
+Ga naar de URL van een gefilterde pagina om die pagina met het toegepaste filter te laden. De toegepaste filters kunnen naar de bovenkant van het filtermenu worden opgeslagen. Klik [hier](https://support.catenda.com/nl/articles/11401493-een-filterlink-opslaan-en-delen) voor meer informatie over het opslaan en delen van filters. Let op: in tegenstelling tot andere filtermenu's is het op de pagina voor goedkeuringen niet mogelijk om persoonlijke filters naar de bovenkant van het filtermenu op te slaan.
 
 ### 1.2 **Lege filters verbergen**
 
-Klik [hier](https://support.catenda.com/nl/articles/8551755-saving-filters) om meer te lezen over het beperken van filterresultaten.
+Klik [hier](https://support.catenda.com/nl/articles/8551755-filterresultaten-beperken) om meer te lezen over het beperken van filterresultaten.
 
 ### 1.3 **Status**
 

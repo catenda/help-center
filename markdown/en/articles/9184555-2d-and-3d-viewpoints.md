@@ -10,7 +10,7 @@ The snapshot below had the following setup when the snapshot was taken: The snap
 
 ## 1. **Creating a snapshot**
 
-If you have a model loaded in 3D you can click the plus bottom to the left of the topic comment field to attach a 3D snapshot to your comment. If you have the 2D viewer opened up you can click the plus bottom to the left of the topic comment field to attach a 2D snapshot to your comment. A snapshot is automatically created if you have loaded something in 2D or 3D and you make a new topic. Click [here](https://support.catenda.com/en/articles/10345863-snapshots) to read more about snapshots.
+If you have a model loaded in 3D you can click the plus bottom to the left of the topic comment field to attach a 3D snapshot to your comment. If you have the 2D viewer opened up you can click the plus bottom to the left of the topic comment field to attach a 2D snapshot to your comment. A snapshot is automatically created if you have loaded something in 2D or 3D and you make a new topic. Click [here](https://support.catenda.com/en/articles/10345863-3d-snapshots) to read more about snapshots.
 
 ## 2. **Viewer images**
 

@@ -1,6 +1,6 @@
 # Erstellen einer neuen Genehmigungsanfrage - Legacy
 
-Die neue Genehmigungsanfrage-Aktion finden Sie, indem Sie auf das Aktionsmenü rechts neben der grünen Plus-Schaltfläche auf der [Genehmigungsseite](https://support.catenda.com/de/articles/8349340-approvals-page) klicken.
+Die neue Genehmigungsanfrage-Aktion finden Sie, indem Sie auf das Aktionsmenü rechts neben der grünen Plus-Schaltfläche auf der [Genehmigungsseite](https://support.catenda.com/de/articles/8349340-genehmigungsseite-legacy) klicken.
 
 ## 1. **Genehmigungskopfzeile - Der Betreff einer Genehmigung**
 
@@ -46,7 +46,7 @@ So könnte der Text einer neuen Genehmigung aussehen:
 
 ### 1.8 **Beschreibung**
 
-Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/de/articles/8430847-formatting-of-posts).
+Die Beschreibung der Genehmigung folgt den [allgemeinen Formatierungsregeln für Beiträge](https://support.catenda.com/de/articles/8430847-toolbox-fur-beitragformatierung).
 
 ### 1.9 **Entwürfe**
 

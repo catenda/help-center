@@ -38,7 +38,7 @@ Het is belangrijk op te merken dat [Revit LT geen ondersteuning biedt voor add-i
 
 ### 3.2 **Versiecompatibiliteit**
 
-Om aansluiting met de nieuwste software-updates en prestatieverbeteringen te waarborgen, worden de integraties regelmatig bijgewerkt. Voor een uitgebreide lijst met momenteel ondersteunde jaarversies voor zowel de Revit add-in als het Dynamo-pakket kunt u het best [artikel Plugins en integraties](https://support.catenda.com/nl/articles/8396532-catenda-plugins-integrations) raadplegen.
+Om aansluiting met de nieuwste software-updates en prestatieverbeteringen te waarborgen, worden de integraties regelmatig bijgewerkt. Voor een uitgebreide lijst met momenteel ondersteunde jaarversies voor zowel de Revit add-in als het Dynamo-pakket kunt u het best [artikel Plugins en integraties](https://support.catenda.com/nl/articles/8396532-catenda-invoegtoepassingen-integraties) raadplegen.
 
 ## 4. Catenda Hub Dynamo Package
 

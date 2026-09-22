@@ -1,6 +1,6 @@
 # Høyremeny i en sak
 
-Høyremenyen i en sak finner du ved å klikke informasjonsknappen til høyre i [saksbannerens](https://support.catenda.com/nb/articles/7986346-topic-banner-navigating-topics) øverste del etter at du har åpnet en sak.
+Høyremenyen i en sak finner du ved å klikke informasjonsknappen til høyre i [saksbannerens](https://support.catenda.com/nb/articles/7986346-sakbanner-navigering-av-saker) øverste del etter at du har åpnet en sak.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/01-intro.png)
 

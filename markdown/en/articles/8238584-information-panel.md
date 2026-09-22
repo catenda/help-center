@@ -8,7 +8,7 @@ In the information panel you will be able to find the following sections:
 
 ## 1. **Inspect**
 
-This lets you see the information about you selected objects. Click [here](https://support.catenda.com/en/articles/4670285-inspect-panel) to read more about the inspect panel.
+This lets you see the information about you selected objects. Click [here](https://support.catenda.com/en/articles/4670285-inspect-menu) to read more about the inspect panel.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/02-inspect.png)
 
@@ -68,7 +68,7 @@ This lets you create a set of objects which can then be styled and colorized.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/08-selections.png)
 
-Towards the top of the Selection menu you will see how many items you currently have selected in the 3D viewer and tree panel. Selections can be saved by making a [snapshot](https://support.catenda.com/en/articles/8053352-issue-body#h_1ba7f8873f) or a [bookmark](https://support.catenda.com/en/articles/8471481-bookmark) and playing it later. Because selections are stored in the snapshot of a topic they can be imported and exported to other programs through BCF. An example of this is that topics with selections from the selection basket that are synchronized through the BCF live connector in Solibri will contain selection data when the snapshot is played.
+Towards the top of the Selection menu you will see how many items you currently have selected in the 3D viewer and tree panel. Selections can be saved by making a [snapshot](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) or a [bookmark](https://support.catenda.com/en/articles/8471481-bookmark-contents-page) and playing it later. Because selections are stored in the snapshot of a topic they can be imported and exported to other programs through BCF. An example of this is that topics with selections from the selection basket that are synchronized through the BCF live connector in Solibri will contain selection data when the snapshot is played.
 
 ### 5.1 **New selection**
 
@@ -114,4 +114,4 @@ This lets you see what measurements have been made in the 3D viewer.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n3tcgav1/11-measurements.png)
 
-Click [here](https://support.catenda.com/en/articles/4670294-measuring-features) to read more about measurements
+Click [here](https://support.catenda.com/en/articles/4670294-3d-viewer-tool-menu) to read more about measurements

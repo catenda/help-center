@@ -4,11 +4,11 @@ Wenn Sie zu [hub.catenda.com/signup](http://hub.catenda.com/signup) gehen, wird 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/thng6w36/01-intro.png)
 
-Wenn Sie ein Konto erstellen, sind Sie nicht automatisch Teil eines Projekts. Um an einem Projekt einer anderen Person teilzunehmen, müssen Sie einen [Einladungslink](https://support.catenda.com/de/articles/4670246-accepting-an-invitation-to-join-a-project) akzeptieren. Wenn Sie einen Einladungslink gefolgt sind und aufgefordert wurden, ein Konto zu erstellen, wird dieses neue Konto die Einladung automatisch akzeptieren.
+Wenn Sie ein Konto erstellen, sind Sie nicht automatisch Teil eines Projekts. Um an einem Projekt einer anderen Person teilzunehmen, müssen Sie einen [Einladungslink](https://support.catenda.com/de/articles/4670246-einladung-zum-beitreten-zu-einem-projekt-annehmen) akzeptieren. Wenn Sie einen Einladungslink gefolgt sind und aufgefordert wurden, ein Konto zu erstellen, wird dieses neue Konto die Einladung automatisch akzeptieren.
 
 ## 1. **Schritt 1 von 4 - Kostenloses Konto erstellen**
 
-Hier können Sie Ihre E-Mail-Adresse und Ihr Passwort eingeben, um sich für ein kostenloses Konto anzumelden. Nach erfolgreicher Anmeldung werden Sie zur [Seite "Projekte"](https://support.catenda.com/de/articles/4670260-projects-page) weitergeleitet.
+Hier können Sie Ihre E-Mail-Adresse und Ihr Passwort eingeben, um sich für ein kostenloses Konto anzumelden. Nach erfolgreicher Anmeldung werden Sie zur [Seite "Projekte"](https://support.catenda.com/de/articles/4670260-kontenschaltflachen) weitergeleitet.
 
 ### 1.1 **Bestehendes Konto**
 
@@ -20,7 +20,7 @@ Die [E-Mail-Bestätigungsseite](https://hub.catenda.com/signup/verify-email) kan
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/thng6w36/02-step-2-of-4-verify-your-email.png)
 
-Nach der Registrierung Ihrer E-Mail-Adresse bei uns werden wir versuchen, Ihnen eine E-Mail zu senden, um zu überprüfen, dass Ihre E-Mail-Adresse existiert und E-Mails von uns empfangen kann. Ohne Überprüfung Ihrer E-Mail erhalten Sie von uns nur E-Mails mit öffentlichen Links, z. B. Projekteinladungen und öffentlich freigegebene Sammlungen oder Lesezeichen. Bitte überprüfen Sie Ihre E-Mail-Adresse, um weitere Benachrichtigungen zu erhalten. Wenn Sie die Bestätigungsmail nicht erhalten, lesen Sie bitte [diesen](https://support.catenda.com/de/articles/8417802-why-am-i-not-receiving-emails) Artikel, um mögliche Gründe zu erfahren, warum die Bestätigungsmail nicht ankommt, und wie Sie das Problem beheben können.
+Nach der Registrierung Ihrer E-Mail-Adresse bei uns werden wir versuchen, Ihnen eine E-Mail zu senden, um zu überprüfen, dass Ihre E-Mail-Adresse existiert und E-Mails von uns empfangen kann. Ohne Überprüfung Ihrer E-Mail erhalten Sie von uns nur E-Mails mit öffentlichen Links, z. B. Projekteinladungen und öffentlich freigegebene Sammlungen oder Lesezeichen. Bitte überprüfen Sie Ihre E-Mail-Adresse, um weitere Benachrichtigungen zu erhalten. Wenn Sie die Bestätigungsmail nicht erhalten, lesen Sie bitte [diesen](https://support.catenda.com/de/articles/8417802-warum-erhalte-ich-keine-e-mails) Artikel, um mögliche Gründe zu erfahren, warum die Bestätigungsmail nicht ankommt, und wie Sie das Problem beheben können.
 
 ### 2.1 **Bestätigungslink**
 
@@ -38,11 +38,11 @@ Wenn bereits ein Konto mit dieser E-Mail-Adresse in unserem System existiert, we
 
 ### 3.1 **Vor- und Nachname**
 
-Bitte füllen Sie die Felder "Vorname" und "Nachname" aus. Ihr Benutzername besteht aus Ihrem Vornamen und Ihrem Nachnamen, getrennt durch ein Leerzeichen. Sie können Ihren Benutzernamen später in den [Kontoeinstellungen](https://support.catenda.com/de/articles/6880968-account-page) ändern.
+Bitte füllen Sie die Felder "Vorname" und "Nachname" aus. Ihr Benutzername besteht aus Ihrem Vornamen und Ihrem Nachnamen, getrennt durch ein Leerzeichen. Sie können Ihren Benutzernamen später in den [Kontoeinstellungen](https://support.catenda.com/de/articles/6880968-kontoseite) ändern.
 
 ### 3.2 **Passwort und Passwortbestätigung**
 
-Passwort- und Passwortbestätigungsfelder. Sie können Ihr Passwort später in den [Authentifizierungseinstellungen](https://support.catenda.com/de/articles/6880968-account-page) ändern. Klicken Sie [hier](https://support.catenda.com/de/articles/10798891-sign-in-and-passwords), um Hilfe bei der Passwortfehlersuche zu erhalten.
+Passwort- und Passwortbestätigungsfelder. Sie können Ihr Passwort später in den [Authentifizierungseinstellungen](https://support.catenda.com/de/articles/6880968-kontoseite) ändern. Klicken Sie [hier](https://support.catenda.com/de/articles/10798891-anmelden-und-passworter), um Hilfe bei der Passwortfehlersuche zu erhalten.
 
 ### 3.3 **Nutzungsbedingungen**
 
@@ -76,4 +76,4 @@ Nach dem Ausfüllen des Fragebogens werden Sie sehen, dass die Schaltfläche "We
 
 > **Hinweis:** Die Optionen im Fragebogen haben keinen Einfluss auf Ihr Catenda-Erlebnis.
 
-Klicken Sie auf die Schaltfläche "Weiter", um zur [Seite "Projekte"](https://support.catenda.com/de/articles/8400797-projects-page) zu gelangen.
+Klicken Sie auf die Schaltfläche "Weiter", um zur [Seite "Projekte"](https://support.catenda.com/de/articles/8400797-projektseite) zu gelangen.

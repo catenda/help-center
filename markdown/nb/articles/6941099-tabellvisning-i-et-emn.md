@@ -1,6 +1,6 @@
 # Tabellvisning i et emn
 
-Klikk på Tabelvisning (**4**) øverst til høyre i sakstabellen på [sakssiden](https://support.catenda.com/nb/articles/4670271-topics-page). Listevising vises som standard i tabellen. Preferansen for tabelvisning av saker er en global preferanse. Når den foretrukne visningen er valgt, vises sakstabeller i en hvilken som helst saksliste i et hvilket som helst prosjekt i den visningen for brukeren.
+Klikk på Tabelvisning (**4**) øverst til høyre i sakstabellen på [sakssiden](https://support.catenda.com/nb/articles/4670271-sakside). Listevising vises som standard i tabellen. Preferansen for tabelvisning av saker er en global preferanse. Når den foretrukne visningen er valgt, vises sakstabeller i en hvilken som helst saksliste i et hvilket som helst prosjekt i den visningen for brukeren.
 
 ## 1. **Sakstabeller**
 
@@ -8,7 +8,7 @@ Sakstabellen kan se slik ut når tabelvisningen er konfigurert.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/01-topics-table.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda. Så snart en sak er opprettet og tabellen er lastet inn, vises saken som en rad i sakstabellen for brukeren. Merk at åpent filter er aktivert som standard, og lukkede saker kan være skjult til de filtreres.
+Klikk [her](https://support.catenda.com/nb/articles/11748020-tabeller-pa-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda. Så snart en sak er opprettet og tabellen er lastet inn, vises saken som en rad i sakstabellen for brukeren. Merk at åpent filter er aktivert som standard, og lukkede saker kan være skjult til de filtreres.
 
 ### 1.1 **Endringer gjort under visning**
 
@@ -20,7 +20,7 @@ Etter å ha valgt en sakrad, vises menyen for valgte element-handlinger øverst 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/02-selected-item-actions.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/4670284-actions-in-a-topic-board) for å lese mer om menyen for valgte elementhandlinger.
+Klikk [her](https://support.catenda.com/nb/articles/4670284-handlinger-i-saksrelatert-tabell) for å lese mer om menyen for valgte elementhandlinger.
 
 ### 1.3 **Radinnhold**
 
@@ -82,7 +82,7 @@ _Markørchanging_ Du vil vite at du holder musen over riktig sted når markøren
 
 ## 5. **4. Listevisning**
 
-Bytt mellom [Listevisning](https://support.catenda.com/nb/articles/6941232-issue-board-s-list-view) eller Tabellvisning
+Bytt mellom [Listevisning](https://support.catenda.com/nb/articles/6941232-listevisning-i-en-saksliste) eller Tabellvisning
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/08-4-list-view.png)
 
@@ -108,16 +108,16 @@ Følgende sider kan finnes som undersider på sakssiden: Undersidene på sakssid
 
 ### 8.1 **Lister**
 
-[Lister](https://support.catenda.com/nb/articles/9413644-boards-page) - En oversikt over alle sakslistener
+[Lister](https://support.catenda.com/nb/articles/9413644-tavler-side) - En oversikt over alle sakslistener
 
 ### 8.2 **Milepæler**
 
-[Milepæler](https://support.catenda.com/nb/articles/4670266-creating-a-new-milestone) - Viktige datoer i prosjektet
+[Milepæler](https://support.catenda.com/nb/articles/4670266-milepaelside) - Viktige datoer i prosjektet
 
 ### 8.3 **Statistikk**
 
-[Statistikk](https://support.catenda.com/nb/articles/7575491-statistics-page) - Se statistikken for gjeldende saksliste
+[Statistikk](https://support.catenda.com/nb/articles/7575491-statistikkside) - Se statistikken for gjeldende saksliste
 
 ### 8.4 **Innstillinger**
 
-Klikk på [innstillingssiden](https://support.catenda.com/nb/articles/4670277-issue-board-settings) for å åpne innstillingssiden for gjeldende saksliste. _Tilgang påkrevd:_ Full tilgang til sakslisten
+Klikk på [innstillingssiden](https://support.catenda.com/nb/articles/4670277-innstillinger-for-saksliste) for å åpne innstillingssiden for gjeldende saksliste. _Tilgang påkrevd:_ Full tilgang til sakslisten

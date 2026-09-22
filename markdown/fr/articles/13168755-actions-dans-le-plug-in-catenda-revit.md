@@ -1,8 +1,8 @@
 # Actions dans le plug-in Catenda Revit
 
-> **Remarque :** Le fichier d'installation du plug-in se trouve dans [cet article](https://intercom.help/bimsync-arena/fr/articles/8396532-catenda-plugins-and-integrations).
+> **Remarque :** Le fichier d'installation du plug-in se trouve dans [cet article](https://intercom.help/bimsync-arena/fr/articles/8396532-plugins-et-integrations-catenda).
 
-Les actions [Plug-in Catenda Revit](https://support.catenda.com/fr/articles/4670334-catenda-revit-plugin) se trouvent vers le coin supérieur droit de la fenêtre du plug-in dans l'application Revit.
+Les actions [Plug-in Catenda Revit](https://support.catenda.com/fr/articles/4670334-extension-catenda-revit) se trouvent vers le coin supérieur droit de la fenêtre du plug-in dans l'application Revit.
 
 Voici à quoi le menu d'action peut ressembler :
 
@@ -60,7 +60,7 @@ Cliquez sur Télécharger pour télécharger un IFC. Un commentaire doit être a
 
 ## 3. **3. Paramètres**
 
-La page des paramètres vous permet de modifier la façon dont le plug-in créera une vue 3D lors de l'utilisation de la [fonction Zoom](https://support.catenda.com/fr/articles/4670334-catenda-revit-plugin#h_36392f671a).
+La page des paramètres vous permet de modifier la façon dont le plug-in créera une vue 3D lors de l'utilisation de la [fonction Zoom](https://support.catenda.com/fr/articles/4670334-extension-catenda-revit#h_36392f671a).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/05-3-settings.png)
 
@@ -90,7 +90,7 @@ Avec la transformation du point de vue, le point de vue dans Revit peut être co
 
 ## 4. **4. Compte**
 
-Ouvrez votre page de compte Catenda Hub dans votre navigateur par défaut. Cliquez [ici](https://support.catenda.com/fr/articles/6880968-account-page) pour en savoir plus sur la page de compte.
+Ouvrez votre page de compte Catenda Hub dans votre navigateur par défaut. Cliquez [ici](https://support.catenda.com/fr/articles/6880968-page-du-compte) pour en savoir plus sur la page de compte.
 
 ## 5. **5. Quitter**
 
@@ -98,6 +98,6 @@ Cliquez sur Quitter pour vous déconnecter de Catenda Hub dans le plug-in.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/gjfjfwqg/06-5-sign-out.png)
 
-Après la déconnexion, la page de connexion s'affiche où vous pouvez vous connecter avec le même compte ou un compte différent en utilisant votre nom d'utilisateur et votre mot de passe. Cliquez [ici](https://support.catenda.com/fr/articles/7891486-sign-in-page) pour en savoir plus sur la page de connexion.
+Après la déconnexion, la page de connexion s'affiche où vous pouvez vous connecter avec le même compte ou un compte différent en utilisant votre nom d'utilisateur et votre mot de passe. Cliquez [ici](https://support.catenda.com/fr/articles/7891486-page-de-connexion) pour en savoir plus sur la page de connexion.
 
 Après la reconnexion, le premier projet de la liste des projets s'affiche. Sélectionnez à nouveau un projet dans la liste des projets pour accéder à un projet différent.

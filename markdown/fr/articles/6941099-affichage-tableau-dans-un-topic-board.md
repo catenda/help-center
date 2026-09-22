@@ -1,6 +1,6 @@
 # Affichage Tableau dans un topic board
 
-Cliquez sur Affichage Tableau (**4**) en haut à droite du tableau des topics sur la [page des topics](https://support.catenda.com/fr/articles/4670271-topics-page). Par défaut, l'affichage en liste est affiché dans le tableau. La préférence d'affichage du tableau des topics est une préférence globale. Une fois l'affichage préféré sélectionné, les tableaux de topics dans n'importe quel topic board de n'importe quel projet sont affichés dans cet affichage pour l'utilisateur.
+Cliquez sur Affichage Tableau (**4**) en haut à droite du tableau des topics sur la [page des topics](https://support.catenda.com/fr/articles/4670271-page-sujets). Par défaut, l'affichage en liste est affiché dans le tableau. La préférence d'affichage du tableau des topics est une préférence globale. Une fois l'affichage préféré sélectionné, les tableaux de topics dans n'importe quel topic board de n'importe quel projet sont affichés dans cet affichage pour l'utilisateur.
 
 Les topics suivants sont décrits dans cet article :
 
@@ -10,7 +10,7 @@ Le tableau de topics peut ressembler à ceci lorsque l'affichage du tableau est 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/01-topics-table.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda. Dès qu'un topic est créé et que le tableau est chargé, le topic apparaît sous forme de ligne dans le tableau de topics pour l'utilisateur. Notez que le filtre ouvert est activé par défaut et les topics fermés peuvent être masqués jusqu'à ce qu'ils soient filtrés.
+Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tableaux-sur-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda. Dès qu'un topic est créé et que le tableau est chargé, le topic apparaît sous forme de ligne dans le tableau de topics pour l'utilisateur. Notez que le filtre ouvert est activé par défaut et les topics fermés peuvent être masqués jusqu'à ce qu'ils soient filtrés.
 
 Les topics suivants sont décrits dans cette section :
 
@@ -24,7 +24,7 @@ Après avoir sélectionné une ligne de topic, le menu des actions d'élément s
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/02-selected-item-actions.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/4670284-actions-in-a-topic-board) pour en savoir plus sur le menu des actions d'élément sélectionné.
+Cliquez [ici](https://support.catenda.com/fr/articles/4670284-actions-du-tableau-des-sujets) pour en savoir plus sur le menu des actions d'élément sélectionné.
 
 ### 1.3 **Contenu de la ligne**
 
@@ -88,7 +88,7 @@ _Changement de curseur_ Vous saurez que vous survolez le bon endroit lorsque vot
 
 ## 5. **4. Affichage en liste**
 
-Basculez entre [Affichage en liste](https://support.catenda.com/fr/articles/6941232-issue-board-s-list-view) ou Affichage Tableau
+Basculez entre [Affichage en liste](https://support.catenda.com/fr/articles/6941232-affichage-en-liste-dans-une-liste-de-sujets) ou Affichage Tableau
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/08-4-list-view.png)
 
@@ -114,16 +114,16 @@ Les pages suivantes peuvent être trouvées comme sous-pages de la page des topi
 
 ### 8.1 **Boards**
 
-[Boards](https://support.catenda.com/fr/articles/9413644-boards-page) - Un aperçu de tous les topic boards
+[Boards](https://support.catenda.com/fr/articles/9413644-page-des-tableaux) - Un aperçu de tous les topic boards
 
 ### 8.2 **Étapes**
 
-[Étapes](https://support.catenda.com/fr/articles/4670266-creating-a-new-milestone) - Dates importantes du projet
+[Étapes](https://support.catenda.com/fr/articles/4670266-page-des-milestones) - Dates importantes du projet
 
 ### 8.3 **Statistiques**
 
-[Statistiques](https://support.catenda.com/fr/articles/7575491-statistics-page) - Voir les statistiques du topic board actuel
+[Statistiques](https://support.catenda.com/fr/articles/7575491-page-statistiques) - Voir les statistiques du topic board actuel
 
 ### 8.4 **Paramètres**
 
-Cliquez sur la [page des paramètres](https://support.catenda.com/fr/articles/4670277-issue-board-settings) pour ouvrir la page des paramètres du topic board actuel. _Accès requis :_ Accès complet au topic board
+Cliquez sur la [page des paramètres](https://support.catenda.com/fr/articles/4670277-page-des-parametres-du-tableau-de-bord-des-sujets) pour ouvrir la page des paramètres du topic board actuel. _Accès requis :_ Accès complet au topic board

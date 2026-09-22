@@ -1,6 +1,6 @@
 # Teamside
 
-Du kan finne siden til et team på høyre side av [medlemmer-siden](https://support.catenda.com/nb/articles/4670291-members-page).
+Du kan finne siden til et team på høyre side av [medlemmer-siden](https://support.catenda.com/nb/articles/4670291-medlemmer-og-teams-side).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bvhrpsv2/01-intro.png)
 

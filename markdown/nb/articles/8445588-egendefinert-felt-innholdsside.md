@@ -1,6 +1,6 @@
 # Egendefinert felt - innholdsside
 
-Du vil kunne finne siden for et egendefinert felt ved å klikke på det respektive feltet på [egendefinerte felt-siden](https://support.catenda.com/nb/articles/6550459-custom-fields-page) som du finner som en underside til [prosjektinnstillinger-siden](https://support.catenda.com/nb/articles/4670273-project-settings-page).
+Du vil kunne finne siden for et egendefinert felt ved å klikke på det respektive feltet på [egendefinerte felt-siden](https://support.catenda.com/nb/articles/6550459-siden-for-egendefinerte-felt) som du finner som en underside til [prosjektinnstillinger-siden](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger).
 
 Når du oppretter et egendefinert felt, kan du legge det til på et issue board. Saker på dette boardet vil da få et nytt felt i headeren. Du vil også kunne se en kolonne i tabellvisningen på issue boardet, og du vil kunne filtrere etter disse feltene.
 
@@ -10,7 +10,7 @@ Administratorer vil kunne finne handlingsknapper øverst til høyre på innholds
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dyr0xwtr/01-new-item-action-menu.png)
 
-_Nytt egendefinert felt_ Klikk på den grønne plusskjappen øverst til høyre eller velg Nytt egendefinert felt i valgmenyen for å lage et [nytt egendefinert felt](https://support.catenda.com/nb/articles/8445575-creating-a-custom-field)
+_Nytt egendefinert felt_ Klikk på den grønne plusskjappen øverst til høyre eller velg Nytt egendefinert felt i valgmenyen for å lage et [nytt egendefinert felt](https://support.catenda.com/nb/articles/8445575-opprette-et-egendefinert-felt)
 
 _Arkiver_ Åpne valgmenyen med de tre prikkene øverst til høyre for å finne Arkiver-handlingen øverst til høyre. Det er kun mulig å arkivere et egendefinert felt. Det er ikke mulig å slette et egendefinert felt.
 
@@ -66,9 +66,9 @@ I den aktive listen vil du kunne finne nedtrekksalternativene som er for tiden a
 
 _Anker_ Administratorer vil kunne konfigurere rekkefølgen på alternativene ved å dra på ankeret i kolonnen lengst til venstre.
 
-_Navn_ Her vil brukere se navn og et nedtrekksalternativ. Hvis det egendefinerte nedtrekksfelt har blitt [lagt til på en saksliste](https://support.catenda.com/nb/articles/6563368-custom-fields-in-a-topic-board), vil du se dette navnet som et alternativ i listen. Et navn kan kun tildeles ett alternativ.
+_Navn_ Her vil brukere se navn og et nedtrekksalternativ. Hvis det egendefinerte nedtrekksfelt har blitt [lagt til på en saksliste](https://support.catenda.com/nb/articles/6563368-egendefinerte-felt-i-et-saksboard), vil du se dette navnet som et alternativ i listen. Et navn kan kun tildeles ett alternativ.
 
-_Kode_ Her vil brukere se koden for et nedtrekksalternativ. Koden brukes til å [identifisere en blokk med en navnekonvensjon](https://support.catenda.com/nb/articles/7869240-how-to-use-custom-fields-in-naming-convention). En kode kan kun tildeles ett alternativ.
+_Kode_ Her vil brukere se koden for et nedtrekksalternativ. Koden brukes til å [identifisere en blokk med en navnekonvensjon](https://support.catenda.com/nb/articles/7869240-slik-bruker-du-egendefinerte-felt-i-navnekonvensjon). En kode kan kun tildeles ett alternativ.
 
 _Rediger og deaktiver_ Administratorer vil kunne redigere navnet på et alternativ etter at det har blitt opprettet. Hvis feltet ikke allerede har en kode, er det mulig å legge til en kode. Etter redigering klikker du lagre eller avbryt for å bekrefte.
 
@@ -92,9 +92,9 @@ Etter å ha klikket på "legg til alternativer" vil du se følgende dialog:
 
 _Navn_ Her kan du legge til et navn og en kode for hvert nedtrekksalternativ.
 
-_Kode_ Koden brukes til å [identifisere en blokk med en navnekonvensjon](https://support.catenda.com/nb/articles/7869240-how-to-use-custom-fields-in-naming-convention). Kode er en unik verdi som du kan angi på en gjenstand. Dette betyr at du ikke kan legge til den samme koden to ganger.
+_Kode_ Koden brukes til å [identifisere en blokk med en navnekonvensjon](https://support.catenda.com/nb/articles/7869240-slik-bruker-du-egendefinerte-felt-i-navnekonvensjon). Kode er en unik verdi som du kan angi på en gjenstand. Dette betyr at du ikke kan legge til den samme koden to ganger.
 
-_Navn og kode feilsøking_ Klikk [her](https://support.catenda.com/nb/articles/13750419-custom-field-content-troubleshooting) for å lese mer hvis du har problemer med navn og kode.
+_Navn og kode feilsøking_ Klikk [her](https://support.catenda.com/nb/articles/13750419-feilsoking-av-innhold-i-egendefinert-felt) for å lese mer hvis du har problemer med navn og kode.
 
 ### 4.6 **Legge til flere alternativer**
 

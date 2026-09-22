@@ -1,6 +1,6 @@
 # Modification de la langue préférée
 
-La langue préférée peut être modifiée sur la [page des préférences](https://support.catenda.com/fr/articles/6880968-account-page#h_87963579a7) d'un [compte](https://support.catenda.com/fr/articles/6880968-account-page).
+La langue préférée peut être modifiée sur la [page des préférences](https://support.catenda.com/fr/articles/6880968-page-du-compte#h_87963579a7) d'un [compte](https://support.catenda.com/fr/articles/6880968-page-du-compte).
 
 [Vidéo YouTube](https://www.youtube.com/embed/fwQtOwQsTN8?rel=0)
 
@@ -8,7 +8,7 @@ La langue préférée peut être modifiée sur la [page des préférences](https
 
 `Profil->Compte->Préférences`
 
-La page du compte peut toujours être trouvée en cliquant sur l'image de profil en haut à droite et en cliquant sur le compte dans le menu qui s'ouvre. Ensuite, dans le menu de navigation de gauche, trouvez la [page des préférences](https://support.catenda.com/fr/articles/6880968-account-page#h_87963579a7) où se trouve le paramètre de langue.
+La page du compte peut toujours être trouvée en cliquant sur l'image de profil en haut à droite et en cliquant sur le compte dans le menu qui s'ouvre. Ensuite, dans le menu de navigation de gauche, trouvez la [page des préférences](https://support.catenda.com/fr/articles/6880968-page-du-compte#h_87963579a7) où se trouve le paramètre de langue.
 
 ## 2. **2. Langues disponibles**
 

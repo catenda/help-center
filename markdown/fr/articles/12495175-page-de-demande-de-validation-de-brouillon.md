@@ -1,6 +1,6 @@
 # Page de demande de validation de brouillon
 
-Les demandes de validation de brouillon peuvent être ouvertes en cliquant sur une carte de demande de validation de brouillon sur la [page des validations](https://support.catenda.com/fr/articles/8349340-approvals-page). _Accès requis :_ Créateur de demande de validation de brouillon
+Les demandes de validation de brouillon peuvent être ouvertes en cliquant sur une carte de demande de validation de brouillon sur la [page des validations](https://support.catenda.com/fr/articles/8349340-page-des-validations-heritage). _Accès requis :_ Créateur de demande de validation de brouillon
 
 Voici à quoi peut ressembler la page de demande de validation de brouillon :
 
@@ -14,7 +14,7 @@ Voici à quoi peuvent ressembler les actions sur la page de validation :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/02-new-item-actions.png)
 
-Utilisez la nouvelle action de demande de validation pour créer une nouvelle demande de validation. Cliquez [ici](https://support.catenda.com/fr/articles/12495005-creating-a-new-approval-request?q=draft) pour en savoir plus sur la création d'une nouvelle demande de validation.
+Utilisez la nouvelle action de demande de validation pour créer une nouvelle demande de validation. Cliquez [ici](https://support.catenda.com/fr/articles/12495005-creation-d-une-nouvelle-demande-d-approbation?q=draft) pour en savoir plus sur la création d'une nouvelle demande de validation.
 
 ## 2. **En-tête de validation**
 
@@ -32,7 +32,7 @@ Le circuit de validation qui est sélectionné lors de la création de cette val
 
 ### 2.3 **Description**
 
-La description de l'approbation. La description reste modifiable après la soumission de la demande d'approbation. La modification est limitée à la personne qui a créé la demande d'approbation et aux administrateurs du projet. La description de l'approbation suit les [règles générales de mise en forme des publications](https://support.catenda.com/fr/articles/8430847-formatting-of-posts).
+La description de l'approbation. La description reste modifiable après la soumission de la demande d'approbation. La modification est limitée à la personne qui a créé la demande d'approbation et aux administrateurs du projet. La description de l'approbation suit les [règles générales de mise en forme des publications](https://support.catenda.com/fr/articles/8430847-boite-a-outils-de-formatage-des-publications).
 
 ## 3. **Ruban d'étape**
 
@@ -40,7 +40,7 @@ Dans le ruban d'étape, un aperçu de toutes les étapes d'une validation est af
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/006sen4w/04-step-ribbon.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/12495212-step-ribbon-in-an-approval-request) pour en savoir plus sur le ruban d'étape.
+Cliquez [ici](https://support.catenda.com/fr/articles/12495212-ruban-d-etapes-dans-une-demande-de-validation) pour en savoir plus sur le ruban d'étape.
 
 ## 4. **Onglet Documents**
 

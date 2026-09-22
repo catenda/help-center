@@ -1,6 +1,6 @@
 # Model Export Content Page
 
-Click on the card of an export in the exports list on the [model exports page](https://support.catenda.com/en/articles/4670280-model-export) to go to the content page for that export. This is what the model export content page can look like:
+Click on the card of an export in the exports list on the [model exports page](https://support.catenda.com/en/articles/4670280-model-export-page) to go to the content page for that export. This is what the model export content page can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3ajw00qp/01-intro.png)
 

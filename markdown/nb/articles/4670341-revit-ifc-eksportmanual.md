@@ -148,7 +148,7 @@ Slik kan parameteren se ut i egenskapene
 
 ![Egenskaper OmniClass-nummer](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/15-property-sets.png)
 
-Hvis du har eksportert IFC-en din med en klassifikasjon og importert den som en modell til Catenda, vil du se klassifikasjonen foreslått som et [foreslått bibliotek](https://support.catenda.com/nb/articles/8065645-libraries-page#h_c03d50a9ca) når du oppretter et nytt bibliotek på [biblioteksiden](https://support.catenda.com/nb/articles/8065645-libraries-page). Hvis en verdi i egenskapen du har angitt stemmer overens med en verdi i dokumentasjonen som er gitt, blir den funnet og kan brukes til å velge objekter med denne verdien gjennom klassifikasjonsbiblioteket du opprettet.
+Hvis du har eksportert IFC-en din med en klassifikasjon og importert den som en modell til Catenda, vil du se klassifikasjonen foreslått som et [foreslått bibliotek](https://support.catenda.com/nb/articles/8065645-biblioteksside#h_c03d50a9ca) når du oppretter et nytt bibliotek på [biblioteksiden](https://support.catenda.com/nb/articles/8065645-biblioteksside). Hvis en verdi i egenskapen du har angitt stemmer overens med en verdi i dokumentasjonen som er gitt, blir den funnet og kan brukes til å velge objekter med denne verdien gjennom klassifikasjonsbiblioteket du opprettet.
 
 ---
 

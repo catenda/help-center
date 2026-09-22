@@ -4,7 +4,7 @@ Depending on your access different actions for your current model and each of it
 
 ## 1. **Model actions**
 
-Depending on model selection and on what access settings you have different action buttons can be found on the top right of the [model overview page](https://support.catenda.com/en/articles/4670270-model-overview-page#h_c10dbce6c8) . All action buttons will be listed in their action menus that can look something like this:
+Depending on model selection and on what access settings you have different action buttons can be found on the top right of the [model overview page](https://support.catenda.com/en/articles/4670270-model-contents-page#h_c10dbce6c8) . All action buttons will be listed in their action menus that can look something like this:
 
 ![mceclip0.png](https://raw.githubusercontent.com/catenda/help-center/main/images/5t44cpcq/01-model-actions.png)
 
@@ -22,7 +22,7 @@ Click the new revision action or drop a file in the model content list to upload
 
 ### 1.3 **Exports**
 
-This will take you to the [model export page](https://support.catenda.com/en/articles/4670280-model-export)
+This will take you to the [model export page](https://support.catenda.com/en/articles/4670280-model-export-page)
 
 ### 1.4 **Remove**
 

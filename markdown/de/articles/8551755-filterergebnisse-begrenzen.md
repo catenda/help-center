@@ -42,7 +42,7 @@ Um nach dem Satz gespeicherter Filter zu filtern, klicken Sie einfach auf Ihren 
 
 ## 6. **Austausch gespeicherter Filter mit Projektmitgliedern**
 
-Wie bereits erwähnt, werden gespeicherte Filter nur für Sie gespeichert. Wenn Sie den Filter aktivieren, sehen Sie die Filter in der Suchleiste angezeigt. Wenn Sie dies tun, ändert sich auch die URL der Seite, um die Filter zu enthalten. Eine einfache Möglichkeit, Ihre gespeicherten Filter mit Benutzern zu teilen, ist daher das Versenden der gefilterten Seite in einer Nachricht oder über [Sharelink](https://support.catenda.com/de/articles/4728886-sharelink-notify-people-about-catenda-hub-content). Wenn Sie möchten, dass Personen im Projekt Zugriff auf diese Filter haben, ohne sie einzeln an jedes Mitglied senden zu müssen, können Sie einen Link in der [Links-Bibliothek](https://support.catenda.com/de/articles/4670254-links-library) erstellen. Dies ist besonders nützlich, da der Link mit den Filtern dann mit Themen und Objekten verlinkt werden kann.
+Wie bereits erwähnt, werden gespeicherte Filter nur für Sie gespeichert. Wenn Sie den Filter aktivieren, sehen Sie die Filter in der Suchleiste angezeigt. Wenn Sie dies tun, ändert sich auch die URL der Seite, um die Filter zu enthalten. Eine einfache Möglichkeit, Ihre gespeicherten Filter mit Benutzern zu teilen, ist daher das Versenden der gefilterten Seite in einer Nachricht oder über [Sharelink](https://support.catenda.com/de/articles/4728886-sharelink-benutzer-uber-catenda-hub-inhalte-benachrichtigen). Wenn Sie möchten, dass Personen im Projekt Zugriff auf diese Filter haben, ohne sie einzeln an jedes Mitglied senden zu müssen, können Sie einen Link in der [Links-Bibliothek](https://support.catenda.com/de/articles/4670254-links-bibliothek) erstellen. Dies ist besonders nützlich, da der Link mit den Filtern dann mit Themen und Objekten verlinkt werden kann.
 
 ## 7. **Voreinstellung zum Erweitern und Zurückziehen von Filtern**
 
@@ -53,31 +53,31 @@ Ihre Einstellungen zum Erweitern und Zurückziehen von Filtermenüs auf verschie
 Sie können Filter auf den folgenden Seiten speichern:
 
 - Hauptseite
-    - [Benachrichtigungsseite Konto](https://support.catenda.com/de/articles/7439223-account-notifications-page)
+    - [Benachrichtigungsseite Konto](https://support.catenda.com/de/articles/7439223-seite-kontobenachrichtigungen)
     - Organisationstool
-        - [Benutzerseite](https://support.catenda.com/de/articles/8508311-users-page-organization-tool)
-        - [Projektseite](https://support.catenda.com/de/articles/8505058-projects-page-organization-tool)
-        - [Projektmitgliedschaftsseite](https://support.catenda.com/de/articles/9003642-project-memberships-organization-tool)
+        - [Benutzerseite](https://support.catenda.com/de/articles/8508311-benutzerseite-organisationsverwaltungstool)
+        - [Projektseite](https://support.catenda.com/de/articles/8505058-seite-projekte-organisationstool)
+        - [Projektmitgliedschaftsseite](https://support.catenda.com/de/articles/9003642-projektmitgliedschaften-organisationswerkzeug)
 - Projekt
-    - [Thematable](https://support.catenda.com/de/articles/8370693-filtering-on-the-issues-page)
+    - [Thematable](https://support.catenda.com/de/articles/8370693-filterung-auf-der-seite-themen)
     - Modelle
-        - [Modellseite](https://support.catenda.com/de/articles/4670286-models-page)
-        - [Lesezeichenseite](https://support.catenda.com/de/articles/4670281-bookmarks-page)
-        - [Objektseite](https://support.catenda.com/de/articles/12353642-filtering-on-the-objects-page)
+        - [Modellseite](https://support.catenda.com/de/articles/4670286-modellseite)
+        - [Lesezeichenseite](https://support.catenda.com/de/articles/4670281-lesezeichen-seite)
+        - [Objektseite](https://support.catenda.com/de/articles/12353642-filterung-auf-der-objektseite)
     - Dokumente
-        - [Dokumentenseite](https://support.catenda.com/de/articles/4670283-filtering-on-the-documents-page)
-        - [Sammlungsseite](https://support.catenda.com/de/articles/6344318-collections-page)
-        - [Genehmigungsseite](https://support.catenda.com/de/articles/8551740-filtering-on-the-approvals-page)
+        - [Dokumentenseite](https://support.catenda.com/de/articles/4670283-filterung-auf-der-dokumentseite)
+        - [Sammlungsseite](https://support.catenda.com/de/articles/6344318-sammlungsseite)
+        - [Genehmigungsseite](https://support.catenda.com/de/articles/8551740-filterung-auf-der-genehmigungsseite-erbschaft)
     - Berichte
         - Seite Berichte
     - Bibliotheken
-        - [Links-Bibliothek](https://support.catenda.com/de/articles/4670254-links-library)
-        - [Sharepoint-Bibliothek](https://support.catenda.com/de/articles/5744548-sharepoint-library)
-        - [Dropbox-Bibliothek](https://support.catenda.com/de/articles/8065645-libraries-page)
-        - [Eigenschaftswertbibliothek](https://support.catenda.com/de/articles/4670252-property-value-library)
-        - [Klassifikationsbibliothek](https://support.catenda.com/de/articles/4670255-classification-library)
-    - [Projektbenachrichtigungsseite](https://support.catenda.com/de/articles/4670295-project-notifications-page)
+        - [Links-Bibliothek](https://support.catenda.com/de/articles/4670254-links-bibliothek)
+        - [Sharepoint-Bibliothek](https://support.catenda.com/de/articles/5744548-sharepoint-bibliothek)
+        - [Dropbox-Bibliothek](https://support.catenda.com/de/articles/8065645-seite-bibliotheken)
+        - [Eigenschaftswertbibliothek](https://support.catenda.com/de/articles/4670252-eigenschaftswert-bibliothek)
+        - [Klassifikationsbibliothek](https://support.catenda.com/de/articles/4670255-klassifikationsbibliothek)
+    - [Projektbenachrichtigungsseite](https://support.catenda.com/de/articles/4670295-projektbenachrichtigungsseite)
     - Projekteinstellungen
-        - [Seite Benutzerdefinierte Felder](https://support.catenda.com/de/articles/6550459-custom-fields-page)
-        - [Etikettenseite](https://support.catenda.com/de/articles/4670265-labels-page)
-        - [Seite Mitglieder](https://support.catenda.com/de/articles/4670291-members-and-teams-page)
+        - [Seite Benutzerdefinierte Felder](https://support.catenda.com/de/articles/6550459-seite-benutzerdefinierte-felder)
+        - [Etikettenseite](https://support.catenda.com/de/articles/4670265-etikettenseite)
+        - [Seite Mitglieder](https://support.catenda.com/de/articles/4670291-mitglieder-und-teams-seite)

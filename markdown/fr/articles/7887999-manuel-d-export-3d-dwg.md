@@ -48,7 +48,7 @@ Vous verrez maintenant que vous pouvez sélectionner chaque partie de la famille
    2. Objets - Tous
    3. Vue - Inclure tous
 
-> **Remarque :** Ifc 4x1 est retiré par BuildingSMART et par conséquent n'est pas non plus pris en charge par Catenda Hub. Voir [ici](https://support.catenda.com/fr/articles/4670320-what-file-types-does-catenda-support) les types de fichiers pris en charge dans Catenda Hub
+> **Remarque :** Ifc 4x1 est retiré par BuildingSMART et par conséquent n'est pas non plus pris en charge par Catenda Hub. Voir [ici](https://support.catenda.com/fr/articles/4670320-apercu-des-types-de-fichiers-sur-catenda-hub) les types de fichiers pris en charge dans Catenda Hub
 
 6\. Ressource et Attribution
 

@@ -32,7 +32,7 @@ With [markers enabled](https://support.catenda.com/en/articles/4854537-2d-viewer
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3bzb6a32/03-markers-in-the-2d-viewer.png)
 
-Click [here](https://support.catenda.com/en/articles/4854523-2d-location-of-issues) to read more about the 2D location of topics.
+Click [here](https://support.catenda.com/en/articles/4854523-2d-location-of-topics) to read more about the 2D location of topics.
 
 ### 3.1 **Topics with existing markers**
 

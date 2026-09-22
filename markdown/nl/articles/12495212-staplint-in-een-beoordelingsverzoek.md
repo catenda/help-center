@@ -1,6 +1,6 @@
 # Staplint in een beoordelingsverzoek
 
-Het staplint is te vinden bovenaan een beoordelingspagina van een [concept](https://support.catenda.com/nl/articles/12495175-draft-approval-request-page), [open of gesloten](https://support.catenda.com/nl/articles/12494960-open-or-closed-approval-request-page) beoordelingsverzoek voor projecten die revisies delen hebben ingeschakeld na 2 oktober 2025. In het staplint wordt een overzicht van alle beoordelingsstappen in een beoordeling weergegeven. Dit is hoe het staplint voor beoordelingsverzoeken eruit kan zien voor een beoordelingsverzoek waarbij een beoordelingsworkflow is geselecteerd met het maximale aantal stappen voor beoordelingsverzoeken:
+Het staplint is te vinden bovenaan een beoordelingspagina van een [concept](https://support.catenda.com/nl/articles/12495175-pagina-voor-conceptgoedkeuringsverzoe), [open of gesloten](https://support.catenda.com/nl/articles/12494960-open-of-gesloten-goedkeuringsverzoekaanvraag) beoordelingsverzoek voor projecten die revisies delen hebben ingeschakeld na 2 oktober 2025. In het staplint wordt een overzicht van alle beoordelingsstappen in een beoordeling weergegeven. Dit is hoe het staplint voor beoordelingsverzoeken eruit kan zien voor een beoordelingsverzoek waarbij een beoordelingsworkflow is geselecteerd met het maximale aantal stappen voor beoordelingsverzoeken:
 
 ![Goedkeuringslint stap. Stap 2 Einddatum Eindgoedkeuring 10 stappen](https://raw.githubusercontent.com/catenda/help-center/main/images/1bshvqk0/01-intro.png)
 

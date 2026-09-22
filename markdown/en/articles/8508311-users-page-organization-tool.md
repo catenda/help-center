@@ -84,7 +84,7 @@ Remove the selected members from the organization
 
 Here you will see a list of users that are part of your organization.
 
-> **Note:** these are not all users that are part of projects belonging to your organization. users that are part of projects can be found on the [project membership page](https://support.catenda.com/en/articles/9003642-members-page-in-organization-tool).
+> **Note:** these are not all users that are part of projects belonging to your organization. users that are part of projects can be found on the [project membership page](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool).
 
 ### 5.1 **Checkbox**
 

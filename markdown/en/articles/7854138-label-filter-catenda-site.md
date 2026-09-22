@@ -1,6 +1,6 @@
 # Label filter - Catenda Site
 
-It is possible to filter by label in [Issues](https://support.catenda.com/en/articles/7734073-issues-page-catenda-site) and in [Documents](https://support.catenda.com/en/articles/7774637-documents-catenda-site).
+It is possible to filter by label in [Issues](https://support.catenda.com/en/articles/7734073-topics-menu-catenda-site) and in [Documents](https://support.catenda.com/en/articles/7774637-documents-menu-catenda-site).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/ge4vaaph/01-intro.png)
 

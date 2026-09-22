@@ -1,6 +1,6 @@
 # 2D / 3D - Catenda Site
 
-De 2D / 3D-pagina is te vinden in het [menu](https://support.catenda.com/nl/articles/7338516-navigation-menu-catenda-site) of door op de knop voor problemen op de onderste navigatiebalk te tikken.
+De 2D / 3D-pagina is te vinden in het [menu](https://support.catenda.com/nl/articles/7338516-navigatiemenu-catenda-site) of door op de knop voor problemen op de onderste navigatiebalk te tikken.
 
 ![2D / 3D](https://raw.githubusercontent.com/catenda/help-center/main/images/wy1t8c1t/01-intro.png)
 

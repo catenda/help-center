@@ -20,7 +20,7 @@ The project notification settings page will have the same settings as your [acco
 
 **Different from account notification settings** For these settings to overwrite your account notification settings they have to be different. For example, if you would like to get an email summary for every project individually the setting has to be set to "When the event occurs" in account notification settings so it can be overwritten by the project specific notification settings in each project. Otherwise you would still get all summaries in the general notification mail.
 
-**Which projects have I specified a preference for?** After making changes on this page you will see this project as a "project with own Catenda settings" in your [account notification settings](https://support.catenda.com/en/articles/8272435-notification-settings).
+**Which projects have I specified a preference for?** After making changes on this page you will see this project as a "project with own Catenda settings" in your [account notification settings](https://support.catenda.com/en/articles/8272435-account-notification-settings).
 
 ## 2. Resseting back to default
 

@@ -34,4 +34,4 @@ You can now enter the fields on your next topics !
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/tv2vef51/07-intro.gif)
 
-👉 **[How to setup the custom fields](https://intercom.help/bimsync-arena/en/articles/6550459-setting-of-custom-fields)**
+👉 **[How to setup the custom fields](https://intercom.help/bimsync-arena/en/articles/6550459-custom-fields-page)**

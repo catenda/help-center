@@ -1,6 +1,6 @@
 # Paramètres - Catenda Site
 
-Vous pouvez trouver vos paramètres Catenda Site dans le [Menu](https://support.catenda.com/fr/articles/7338516-navigation-menu-catenda-site). Vos préférences de compte seront mémorisées la prochaine fois que vous vous connecterez à votre compte.
+Vous pouvez trouver vos paramètres Catenda Site dans le [Menu](https://support.catenda.com/fr/articles/7338516-menu-de-navigation-catenda-site). Vos préférences de compte seront mémorisées la prochaine fois que vous vous connecterez à votre compte.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/an1f6vfe/01-intro.png)
 

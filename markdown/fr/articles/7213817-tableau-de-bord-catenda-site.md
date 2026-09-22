@@ -1,6 +1,6 @@
 # Tableau de bord - Catenda Site
 
-Après avoir sélectionné votre projet sur la [page des projets](https://support.catenda.com/fr/articles/7733978-projects-page-catenda-site), vous serez dirigé vers le tableau de bord des topics de votre projet.
+Après avoir sélectionné votre projet sur la [page des projets](https://support.catenda.com/fr/articles/7733978-page-projets-catenda-site), vous serez dirigé vers le tableau de bord des topics de votre projet.
 
 Sur cette page, vous pouvez consulter l'état de vos topics, choisir ou modifier les issue boards que vous souhaitez afficher et filtrer les topics.
 
@@ -19,4 +19,4 @@ Sur cette page, vous pouvez consulter l'état de vos topics, choisir ou modifier
 
 Vous avez également plusieurs onglets auxquels vous pouvez accéder :
 
-A. [Menu](https://support.catenda.com/fr/articles/7338516-navigation-menu-catenda-site) B. [Topics](https://support.catenda.com/fr/articles/7734073-issues-page-catenda-site) C. [2D/3D](https://support.catenda.com/fr/articles/7734138-2d-3d-catenda-site) D. [Documents](https://support.catenda.com/fr/articles/7774637-documents-catenda-site)
+A. [Menu](https://support.catenda.com/fr/articles/7338516-menu-de-navigation-catenda-site) B. [Topics](https://support.catenda.com/fr/articles/7734073-menu-topics-catenda-site) C. [2D/3D](https://support.catenda.com/fr/articles/7734138-2d-3d-catenda-site) D. [Documents](https://support.catenda.com/fr/articles/7774637-menu-documents-catenda-site)

@@ -1,6 +1,6 @@
 # QR-code op PDF's in Catenda
 
-QR-codes kunnen per map worden geconfigureerd in de [mapconfiguratie](https://support.catenda.com/nl/articles/7831371-document-settings#h_6672c14d90) van [Documenten-instellingen](https://support.catenda.com/nl/articles/7831371-document-settings).
+QR-codes kunnen per map worden geconfigureerd in de [mapconfiguratie](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen#h_6672c14d90) van [Documenten-instellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen).
 
 Deze functie biedt Catenda-gebruikers een functie om te controleren of het document dat zij gebruiken de nieuwste versie is, door de QR-code op de PDF in te scannen.
 
@@ -46,11 +46,11 @@ Als u een document hebt dat u niet hebt gemaakt en u wilt de QR-code-tijdelijke 
 
 ### 2.3 De QR-code in een Catenda-document plaatsen
 
-Als uw document al in Catenda staat, moet u de QR-code-tijdelijke aanduiding toevoegen en een nieuwe revisie uploaden. Als u geen toegang hebt tot een PDF-bewerkingsprogramma, kunt u de [gereedschap voor afbeeldingsstempel-annotaties](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations#h_6e3ac983b6) gebruiken om de QR-code-tijdelijke aanduiding aan uw document toe te voegen.
+Als uw document al in Catenda staat, moet u de QR-code-tijdelijke aanduiding toevoegen en een nieuwe revisie uploaden. Als u geen toegang hebt tot een PDF-bewerkingsprogramma, kunt u de [gereedschap voor afbeeldingsstempel-annotaties](https://support.catenda.com/nl/articles/5001165-documentvoorbeeld-en-aantekeningen#h_6e3ac983b6) gebruiken om de QR-code-tijdelijke aanduiding aan uw document toe te voegen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/04-placing-the-qr-code-a-catenda-document.png)
 
-Druk het document af met [de afdrukknop](https://support.catenda.com/nl/articles/5001165-document-preview-and-annotations#h_709cb0ed70) die u in de linkerbovenhoek van uw documentvoorvertoning kunt vinden om het document op te slaan zodat de QR-code-tijdelijke aanduiding wordt herkend.
+Druk het document af met [de afdrukknop](https://support.catenda.com/nl/articles/5001165-documentvoorbeeld-en-aantekeningen#h_709cb0ed70) die u in de linkerbovenhoek van uw documentvoorvertoning kunt vinden om het document op te slaan zodat de QR-code-tijdelijke aanduiding wordt herkend.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/05-placing-the-qr-code-a-catenda-document.png)
 
@@ -82,7 +82,7 @@ Hier is een voorbeeld van de plaatsing van de QR-code-tijdelijke aanduiding en d
 
 ### 3.1 **Documentgeschiedenis**
 
-Na het uploaden van een document met een QR-code-tijdelijke aanduiding kunt u zien dat dit succesvol is verwerkt in de Documentgeschiedenis van het [rechtsinformatiemenu](https://support.catenda.com/nl/articles/8302244-right-menu-of-a-revision).
+Na het uploaden van een document met een QR-code-tijdelijke aanduiding kunt u zien dat dit succesvol is verwerkt in de Documentgeschiedenis van het [rechtsinformatiemenu](https://support.catenda.com/nl/articles/8302244-rechtermenu-van-een-revisie-revisie-informatie).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/10-document-history.png)
 

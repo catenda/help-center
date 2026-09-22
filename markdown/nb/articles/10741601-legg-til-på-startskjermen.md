@@ -1,6 +1,6 @@
 # Legg til på startskjermen
 
-Full funksjonalitet for Catenda Hub er alltid tilgjengelig gjennom nettleseren. Catenda støtter å bli lagt til på startskjermen, dashbord eller dock ved å installere det via en nettleser. Dette er ellers kjent som en progressiv nettapp (PWA). Klikk [her](https://support.catenda.com/nb/articles/10774300-home-screen-system-browser-support) for å se hvilke nettlesere som støtter PWA på systemet ditt.
+Full funksjonalitet for Catenda Hub er alltid tilgjengelig gjennom nettleseren. Catenda støtter å bli lagt til på startskjermen, dashbord eller dock ved å installere det via en nettleser. Dette er ellers kjent som en progressiv nettapp (PWA). Klikk [her](https://support.catenda.com/nb/articles/10774300-stotte-for-hjemmeskjerm-system-nettleser) for å se hvilke nettlesere som støtter PWA på systemet ditt.
 
 ## 1. **Fordeler**
 

@@ -2,4 +2,4 @@
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/5s253r9j/01-intro.gif)
 
-Les mer [her](https://support.catenda.com/nb/articles/6563368-custom-fields-in-an-issue-board).
+Les mer [her](https://support.catenda.com/nb/articles/6563368-egendefinerte-felt-i-et-saksboard).

@@ -1,6 +1,6 @@
 # Page Projets - Catenda Site
 
-Après avoir [téléchargé, installé et vous être connecté](https://support.catenda.com/fr/articles/6530821-download-your-mobile-app-catenda-site) à Catenda Site, vous accédez à la page des projets. Vous pouvez accéder à la page des projets en appuyant sur le nom de votre projet dans le [menu](https://support.catenda.com/fr/articles/7338516-navigation-menu-catenda-site).
+Après avoir [téléchargé, installé et vous être connecté](https://support.catenda.com/fr/articles/6530821-telechargez-votre-application-mobile-catenda-site) à Catenda Site, vous accédez à la page des projets. Vous pouvez accéder à la page des projets en appuyant sur le nom de votre projet dans le [menu](https://support.catenda.com/fr/articles/7338516-menu-de-navigation-catenda-site).
 
 ![Choisir un projet](https://raw.githubusercontent.com/catenda/help-center/main/images/2g7dc990/01-intro.png)
 

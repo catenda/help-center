@@ -8,7 +8,7 @@ Les fichiers peuvent être téléchargés de quatre façons différentes. Le fic
 
 ### 1.1 **1. Bouton de téléchargement**
 
-Pour télécharger un nouveau Document ou une révision, appuyez sur le [bouton +](https://support.catenda.com/fr/articles/4670288-actions-in-the-document-structure#h_7c8e07223e) en haut à droite. Cela ouvrira le [menu de téléchargement de Document](#h_00fa77db3e).
+Pour télécharger un nouveau Document ou une révision, appuyez sur le [bouton +](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents#h_7c8e07223e) en haut à droite. Cela ouvrira le [menu de téléchargement de Document](#h_00fa77db3e).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y90qfgry/01-1-upload-button.png)
 
@@ -16,7 +16,7 @@ Le téléchargement d'un fichier de cette manière vous permettra de choisir si 
 
 ### 1.2 **2. Bouton nouvelle révision**
 
-Avec un Document sélectionné dans la structure du Document, l'[action nouvelle révision](https://support.catenda.com/fr/articles/4670288-actions-in-the-document-structure#h_5785139ce3) se trouve dans le [menu hamburger d'élément sélectionné](https://support.catenda.com/fr/articles/4670288-actions-in-the-document-structure#h_fb4e9ef375) vers le haut du tableau des Documents. Dans un aperçu du Document, l'[action nouvelle révision](https://support.catenda.com/fr/articles/9323521-actions-in-a-document#h_c18a9b8abf) dans le [menu hamburger d'élément existant](https://support.catenda.com/fr/articles/9323521-actions-in-a-document) vers le haut à droite de la page peut être utilisée. Le téléchargement d'un fichier de cette manière créera une nouvelle révision et non un nouveau Document.
+Avec un Document sélectionné dans la structure du Document, l'[action nouvelle révision](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents#h_5785139ce3) se trouve dans le [menu hamburger d'élément sélectionné](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents#h_fb4e9ef375) vers le haut du tableau des Documents. Dans un aperçu du Document, l'[action nouvelle révision](https://support.catenda.com/fr/articles/9323521-actions-de-revision-de-document#h_c18a9b8abf) dans le [menu hamburger d'élément existant](https://support.catenda.com/fr/articles/9323521-actions-de-revision-de-document) vers le haut à droite de la page peut être utilisée. Le téléchargement d'un fichier de cette manière créera une nouvelle révision et non un nouveau Document.
 
 ### 1.3 **3. Glisser-déposer**
 
@@ -44,23 +44,23 @@ Jusqu'à 100 fichiers peuvent être glissés et déposés, [chacun jusqu'à 7 GB
 
 ### 2.3 **Dossiers**
 
-Dans ce menu, seuls les Documents uniques peuvent être téléchargés. Pour télécharger un dossier, il doit être compressé et téléchargé d'une autre manière. Consultez l'article [Télécharger un zip](https://support.catenda.com/fr/articles/7945410-upload-a-zip-folder-structure).
+Dans ce menu, seuls les Documents uniques peuvent être téléchargés. Pour télécharger un dossier, il doit être compressé et téléchargé d'une autre manière. Consultez l'article [Télécharger un zip](https://support.catenda.com/fr/articles/7945410-telecharger-un-fichier-zip-structure-de-fichiers).
 
 ### 2.4 **Limite de téléchargement**
 
 **Limites pour les fichiers uniques :** Jusqu'à 100 fichiers peuvent être téléchargés à la fois Jusqu'à 7 GB par fichier peuvent être téléchargés à la fois.
 
-**Limites pour les fichiers compressés :** Pour télécharger plus de fichiers à la fois ou des fichiers de plus grande taille, veuillez utiliser la fonction « [télécharger un zip](https://support.catenda.com/fr/articles/7945410-upload-a-zip-folder-structure) ».
+**Limites pour les fichiers compressés :** Pour télécharger plus de fichiers à la fois ou des fichiers de plus grande taille, veuillez utiliser la fonction « [télécharger un zip](https://support.catenda.com/fr/articles/7945410-telecharger-un-fichier-zip-structure-de-fichiers) ».
 
-**Limites pour les nuages de points :** Les nuages de points ont souvent des tailles de fichiers importantes, leur limite a donc été augmentée à 25 GB Cliquez [ici](https://support.catenda.com/fr/articles/4670324-is-there-a-size-limit-for-ifc-files) pour en savoir plus sur les limites de taille.
+**Limites pour les nuages de points :** Les nuages de points ont souvent des tailles de fichiers importantes, leur limite a donc été augmentée à 25 GB Cliquez [ici](https://support.catenda.com/fr/articles/4670324-quelle-taille-de-fichier-puis-je-telecharger) pour en savoir plus sur les limites de taille.
 
 ## 3. **Connecteur de bureau**
 
-Avec le [Connecteur de bureau Catenda](https://support.catenda.com/fr/articles/8358861-catenda-desktop-connector), les dernières versions des Documents peuvent être téléchargées automatiquement et périodiquement d'un système local vers Catenda Hub. Le Connecteur de bureau est à la fois plus rapide que le processus de téléchargement régulier et minimise le risque d'échec car il télécharge les Documents fichier par fichier au lieu d'un grand lot de glisser-déposer ou de téléchargement de zip.
+Avec le [Connecteur de bureau Catenda](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop), les dernières versions des Documents peuvent être téléchargées automatiquement et périodiquement d'un système local vers Catenda Hub. Le Connecteur de bureau est à la fois plus rapide que le processus de téléchargement régulier et minimise le risque d'échec car il télécharge les Documents fichier par fichier au lieu d'un grand lot de glisser-déposer ou de téléchargement de zip.
 
 ## 4. **Aperçu du Document**
 
-Pour voir si vous pourrez visualiser le contenu de votre type de fichier sur Catenda, cliquez [ici](https://support.catenda.com/fr/articles/4670320-what-file-types-does-catenda-support).
+Pour voir si vous pourrez visualiser le contenu de votre type de fichier sur Catenda, cliquez [ici](https://support.catenda.com/fr/articles/4670320-apercu-des-types-de-fichiers-sur-catenda-hub).
 
 ## 5. **Vérification des virus**
 

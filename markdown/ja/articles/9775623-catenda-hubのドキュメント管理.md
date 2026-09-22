@@ -22,7 +22,7 @@ Common Data Environment Catenda HUBの重要な部分はドキュメント領域
 
 ## 1. **フォルダ構造の例**
 
-フォルダ構造を作成する方法についての良い提案は、[この記事](https://support.catenda.com/ja/articles/8542598-structuring-documents)に記載されています。バイエルン州建設局が使用しているフォルダ構造の例は、以下の[リンク](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX)に記載されています。フォルダ構造は非常に異なる方法で設定できます。一方、これはプロジェクトの要件と関連するプロジェクトチームに依存し、他方、フォルダ構造は使用される計画キーに依存します。
+フォルダ構造を作成する方法についての良い提案は、[この記事](https://support.catenda.com/ja/articles/8542598-ドキュメントの構成)に記載されています。バイエルン州建設局が使用しているフォルダ構造の例は、以下の[リンク](https://hub.catenda.com/share/collections/RK9H1539QrmllSeLAx3H7cQE5rrFvDbEZeFaiudISkqX)に記載されています。フォルダ構造は非常に異なる方法で設定できます。一方、これはプロジェクトの要件と関連するプロジェクトチームに依存し、他方、フォルダ構造は使用される計画キーに依存します。
 
 ### 1.1 **例** - フェーズ別の構造の分離
 

@@ -1,6 +1,6 @@
 # Members and teams page
 
-The members page can be found as a sub page to the [project settings page](https://support.catenda.com/en/articles/4670273-settings-page).
+The members page can be found as a sub page to the [project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page).
 
 ![Members](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/01-intro.png)
 

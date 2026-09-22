@@ -16,7 +16,7 @@ Filter by topics assigned to the user, select all and change the assigned user t
 
 ### 1.3 **Follow topic by topic**
 
-You can also manually follow a topic by selecting one topic at a time and using the [follow action](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_1b91729715). If a user has commented on, or been mentioned in a comment or description they would also be following the topic. To find all topics a user has commented on or been mentioned in can be a little complicated. You can read about how to filter for the GUID of a user [here](https://support.catenda.com/en/articles/8370693-filtering-in-a-topic-board#h_7fc30a16f0). After searching on the users GUID in a topic board you can follow each topic with the follow action.
+You can also manually follow a topic by selecting one topic at a time and using the [follow action](https://support.catenda.com/en/articles/4670284-topics-table-actions#h_1b91729715). If a user has commented on, or been mentioned in a comment or description they would also be following the topic. To find all topics a user has commented on or been mentioned in can be a little complicated. You can read about how to filter for the GUID of a user [here](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page#h_7fc30a16f0). After searching on the users GUID in a topic board you can follow each topic with the follow action.
 
 If you follow all the topics the old user was following you will get the same notifications about them as that user.
 

@@ -12,11 +12,11 @@ L'étage actuel sera toujours visible
 
 ### 1.2 **Déverrouillé**
 
-L'étage actuel sera l'étage le plus proche en hauteur de celle de la caméra. Ceci est particulièrement utile en [mode marche](https://support.catenda.com/fr/articles/5784718-3d-viewer-settings) où l'étage changera vers l'étage suivant si vous montez les escaliers par exemple.
+L'étage actuel sera l'étage le plus proche en hauteur de celle de la caméra. Ceci est particulièrement utile en [mode marche](https://support.catenda.com/fr/articles/5784718-parametres-de-la-visionneuse-3d) où l'étage changera vers l'étage suivant si vous montez les escaliers par exemple.
 
 ## 2. **Menu bâtiment**
 
-Si un bâtiment a été configuré dans le [configurateur d'étage](https://support.catenda.com/fr/articles/6921756-storey-configurator-page), vous pourrez voir le menu bâtiment. Le menu bâtiment peut ressembler à ceci :
+Si un bâtiment a été configuré dans le [configurateur d'étage](https://support.catenda.com/fr/articles/6921756-page-configurateur-d-etage), vous pourrez voir le menu bâtiment. Le menu bâtiment peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xw6p1nhs/02-building-menu.png)
 

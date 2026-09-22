@@ -59,7 +59,7 @@ You will be able to save filters on the following pages:
         - [Projects page](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool)
         - [Project membership page](https://support.catenda.com/en/articles/9003642-project-memberships-organization-tool)
 - Project
-    - [Topics table](https://support.catenda.com/en/articles/8370693-filtering-on-the-issues-page)
+    - [Topics table](https://support.catenda.com/en/articles/8370693-filtering-on-the-topics-page)
     - Models
         - [Models page](https://support.catenda.com/en/articles/4670286-models-page)
         - [Bookmarks page](https://support.catenda.com/en/articles/4670281-bookmarks-page)
@@ -67,7 +67,7 @@ You will be able to save filters on the following pages:
     - Documents
         - [Documents page](https://support.catenda.com/en/articles/4670283-filtering-on-the-documents-page)
         - [Collections page](https://support.catenda.com/en/articles/6344318-collections-page)
-        - [Approvals page](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page)
+        - [Approvals page](https://support.catenda.com/en/articles/8551740-filtering-on-the-approvals-page-legacy)
     - Reports
         - Reports page
     - Libraries

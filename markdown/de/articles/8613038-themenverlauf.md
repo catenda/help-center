@@ -1,6 +1,6 @@
 # Themenverlauf
 
-Sie können die Schaltfläche für den Themenverlauf oben in der [Themenseite](https://support.catenda.com/de/articles/8053352-issue-body) finden. Durch Anklicken dieser Schaltfläche werden alle Änderungen angezeigt, die am Thema während seiner Zeit in Ihrem Catenda-Projekt vorgenommen wurden.
+Sie können die Schaltfläche für den Themenverlauf oben in der [Themenseite](https://support.catenda.com/de/articles/8053352-themen-text-der-inhalt-eines-themas) finden. Durch Anklicken dieser Schaltfläche werden alle Änderungen angezeigt, die am Thema während seiner Zeit in Ihrem Catenda-Projekt vorgenommen wurden.
 
 Im Themenverlauf können Sie Informationen zu den folgenden Themen finden:
 

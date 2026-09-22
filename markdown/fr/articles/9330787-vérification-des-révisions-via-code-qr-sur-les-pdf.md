@@ -2,19 +2,19 @@
 
 Imprimez les révisions de documents avec des codes QR générés sur papier physique afin que les membres du projet puissent vérifier si le document qu'ils ont en main est toujours à jour.
 
-Les dossiers configurés peuvent être identifiés par le badge d'engrenage sur l'[icône de dossier](https://support.catenda.com/fr/articles/8466850-columns-on-the-documents-page#h_6af15c36b3). Voici à quoi peut ressembler une révision avec un code QR généré :
+Les dossiers configurés peuvent être identifiés par le badge d'engrenage sur l'[icône de dossier](https://support.catenda.com/fr/articles/8466850-colonnes-sur-la-page-des-documents#h_6af15c36b3). Voici à quoi peut ressembler une révision avec un code QR généré :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/01-intro.png)
 
 ## 1. **Configuration du dossier**
 
-L'estampillage du code QR peut être [activé pour les dossiers configurés](https://support.catenda.com/fr/articles/7831371-document-settings#h_166a269870) sur la page des documents. _Accès requis :_ Administrateur
+L'estampillage du code QR peut être [activé pour les dossiers configurés](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document#h_166a269870) sur la page des documents. _Accès requis :_ Administrateur
 
 Dans les dossiers configurés, les nouvelles révisions PDF dans les documents sont traitées lors du téléchargement. Catenda analyse le document pour trouver l'image placeholder du code QR ci-dessous. Si le placeholder est correctement identifié, un code QR est généré pour la révision. _Accès requis :_ Accès en écriture au document
 
 ### 1.1 **Attribuer un code QR**
 
-Pour attribuer l'estampillage du code QR à un dossier, accédez aux [paramètres du document](https://support.catenda.com/fr/articles/7831371-document-settings) qui se trouvent en tant que sous-page de la [page des documents](https://support.catenda.com/fr/articles/8204673-documents-page). Dans les paramètres du document, développez le [menu de configuration du dossier](https://support.catenda.com/fr/articles/7831371-document-settings#h_6672c14d90). Voici à quoi peut ressembler le menu de configuration du dossier :
+Pour attribuer l'estampillage du code QR à un dossier, accédez aux [paramètres du document](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document) qui se trouvent en tant que sous-page de la [page des documents](https://support.catenda.com/fr/articles/8204673-page-documents). Dans les paramètres du document, développez le [menu de configuration du dossier](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document#h_6672c14d90). Voici à quoi peut ressembler le menu de configuration du dossier :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/02-assign-qr-code.png)
 
@@ -32,7 +32,7 @@ Cliquez [ici](https://hub.catenda.com/share/collections/cZcmrt4ZYV9iatVmd5H0j9Xs
 
 > **Avertissement :** Ne copiez/collez pas cette image et ne l'enregistrez pas. L'image peut sembler identique sur le dessin mais ne sera pas reconnue.
 
-Cliquez [ici](https://support.catenda.com/fr/articles/9360508-qr-code-on-pdfs-in-catenda) pour en savoir plus sur comment placer le placeholder sur un PDF. Voici à quoi peut ressembler le placeholder lorsqu'il est placé dans le cartouche d'un dessin :
+Cliquez [ici](https://support.catenda.com/fr/articles/9360508-code-qr-sur-les-pdf-dans-catenda) pour en savoir plus sur comment placer le placeholder sur un PDF. Voici à quoi peut ressembler le placeholder lorsqu'il est placé dans le cartouche d'un dessin :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/03-qr-code-placeholder-placement.png)
 

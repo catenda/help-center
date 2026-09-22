@@ -22,9 +22,9 @@ As new features roll out and bugs are fixed articles are updated with the change
 - Topics
     - [Topic template settings page](https://support.catenda.com/en/articles/14076010-topic-template-settings-page)
 - Topic templates
-    - [Apply a general topic template upon topic creation](https://support.catenda.com/en/articles/14075921-apply-a-general-topic-template-upon-topic-creation)
-    - [Apply a document topic template when creating a markup from a document](https://support.catenda.com/en/articles/14078352-apply-a-document-topic-template-when-creating-a-markup-from-a-document)
-    - [Apply an approval topic template to an approval workflow template](https://support.catenda.com/en/articles/14078683-apply-an-approval-topic-template-to-an-approval-workflow-template)
+    - [Apply a general topic template upon topic creation](https://support.catenda.com/en/articles/14075921-using-topic-templates-in-a-topic-board)
+    - [Apply a document topic template when creating a markup from a document](https://support.catenda.com/en/articles/14078352-using-topic-templates-when-saving-markup-topics)
+    - [Apply an approval topic template to an approval workflow template](https://support.catenda.com/en/articles/14078683-using-topic-templates-with-approvals)
 - Cross-category
     - [Create report action](https://support.catenda.com/en/articles/13973721-create-report-action)
     - [Copy-link action](https://support.catenda.com/en/articles/14323982-copy-link-action)
@@ -35,7 +35,7 @@ As new features roll out and bugs are fixed articles are updated with the change
 **Troubleshooting**
 
 - [Zip download troubleshooting](https://support.catenda.com/en/articles/13399638-zip-download-troubleshooting)
-- [Desktop Connector - not all folders downloaded](https://support.catenda.com/en/articles/13772277-desktop-connector-troubleshooting-not-all-folders-have-been-downloaded)
+- [Desktop Connector - not all folders downloaded](https://support.catenda.com/en/articles/13772277-desktop-connector-not-all-folders-downloaded)
 - [Catenda Revit Plugin Troubleshooting](https://support.catenda.com/en/articles/14301534-catenda-revit-plugin-troubleshooting)
 
 Recent updates

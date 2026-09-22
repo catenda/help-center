@@ -1,6 +1,6 @@
 # CatendaSP-App hinzufügen und entfernen
 
-> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/de/articles/8396532-catenda-plugins-and-integrations).
+> **Hinweis:** Die Installationsdatei für das Plugin finden Sie in [diesem Artikel](https://intercom.help/bimsync-arena/de/articles/8396532-catenda-plugins-integrationen).
 
 Die Catenda SharePoint-Anwendung kann von einem Website-Besitzer zu einer SharePoint-Umgebung hinzugefügt werden, wenn die App vom SharePoint-Administrator für den Mandanten aktiviert wurde. Mit dieser App können SharePoint-Benutzer Dokumente in Catenda zusammen mit anderen Mitgliedern des Bauprojekts anzeigen, verwalten und gemeinsam bearbeiten.
 

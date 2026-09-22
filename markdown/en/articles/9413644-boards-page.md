@@ -30,7 +30,7 @@ By clicking on the topic board name you can jump straight into the topic board. 
 
 ### 2.2 **Settings**
 
-Click the settings button to go to the [settings of that board](https://support.catenda.com/en/articles/4670277-topic-board-settings). You can also enter the board and select the settings menu item in the left navigation menu. _Access required:_ Full access to the topic board
+Click the settings button to go to the [settings of that board](https://support.catenda.com/en/articles/4670277-topic-board-settings-page). You can also enter the board and select the settings menu item in the left navigation menu. _Access required:_ Full access to the topic board
 
 ### 2.3 **Statistics**
 

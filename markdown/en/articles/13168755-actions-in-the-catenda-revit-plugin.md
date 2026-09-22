@@ -1,6 +1,6 @@
 # Actions in the Catenda Revit Plugin
 
-> **Note:** The install file for the plugin can be found in [this article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Note:** The install file for the plugin can be found in [this article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-integrations).
 
 The actions [Catenda Revit Plugin](https://support.catenda.com/en/articles/4670334-catenda-revit-plugin) can be found towards the top right of the plugin window within the Revit application.
 

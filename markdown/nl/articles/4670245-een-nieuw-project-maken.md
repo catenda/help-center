@@ -1,6 +1,6 @@
 # Een nieuw project maken
 
-Als uw huidige plan en toegang dit toestaan, kunt u een nieuw project maken door in te loggen en op de [projectpagina](https://support.catenda.com/nl/articles/4670260-projects-page) op de knop "Nieuw Project" te klikken of naar de [pagina Nieuw project](https://hub.catenda.com/new-project) te gaan.
+Als uw huidige plan en toegang dit toestaan, kunt u een nieuw project maken door in te loggen en op de [projectpagina](https://support.catenda.com/nl/articles/4670260-accountknoppen) op de knop "Nieuw Project" te klikken of naar de [pagina Nieuw project](https://hub.catenda.com/new-project) te gaan.
 
 Neem anders contact op met Catenda-ondersteuning op [support@catenda.com](mailto:support@catenda.com) of via de chatknop om een nieuw project aan te maken. De zwarte chatknop vindt u rechtsbovenin Catenda Hub of rechtsonder op onze hulp-/startpagina's om uw plan bij te werken. Wij begeleiden u bij het maken ervan.
 
@@ -40,7 +40,7 @@ Elke organisatie heeft een instelling voor het downloaden van documenten.
 
 ### 3.1 **Standaard**
 
-De instelling voor het downloaden van documenten die een aangemaakt project ontvangt, is gebaseerd op de instelling voor het downloaden van documenten voor nieuwe projecten in de organisatie waarin het wordt aangemaakt. Nieuwe organisaties hebben standaard de optie 'Revisiebestandsnaam' ingeschakeld. Documenten die zijn gedownload in projecten die zijn aangemaakt in nieuwe organisaties, krijgen daarom de revisienaam van de gedownloade revisie in de bestandstitel. Klik [hier](https://support.catenda.com/nl/articles/8224886-organization-options#h_5564d6602f) om andere opties te zien die beschikbaar zijn voor organisaties.
+De instelling voor het downloaden van documenten die een aangemaakt project ontvangt, is gebaseerd op de instelling voor het downloaden van documenten voor nieuwe projecten in de organisatie waarin het wordt aangemaakt. Nieuwe organisaties hebben standaard de optie 'Revisiebestandsnaam' ingeschakeld. Documenten die zijn gedownload in projecten die zijn aangemaakt in nieuwe organisaties, krijgen daarom de revisienaam van de gedownloade revisie in de bestandstitel. Klik [hier](https://support.catenda.com/nl/articles/8224886-organisatieopties#h_5564d6602f) om andere opties te zien die beschikbaar zijn voor organisaties.
 
 ### 3.2 **Nieuwe projecten in geconfigureerde organisaties**
 
@@ -50,7 +50,7 @@ Wanneer de optie voor het downloaden van documenten voor nieuwe projecten in een
 
 Wanneer een nieuw project wordt aangemaakt, zijn opt-in functies standaard niet ingeschakeld. Het is mogelijk de volgende functies na het maken van een project in te schakelen:
 
-[Pagina Objecten](https://support.catenda.com/nl/articles/12352750-objects-page) [Pagina Rapporten](https://support.catenda.com/nl/articles/12303098-reports-page)
+[Pagina Objecten](https://support.catenda.com/nl/articles/12352750-objectenpagina) [Pagina Rapporten](https://support.catenda.com/nl/articles/12303098-rapportenpagina)
 
 ## 5. **Een project selecteren om als template te gebruiken**
 

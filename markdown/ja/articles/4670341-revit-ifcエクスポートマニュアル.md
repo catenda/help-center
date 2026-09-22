@@ -148,7 +148,7 @@ _ファイル ヘッダー情報... プロジェクト アドレス..._ これ�
 
 ![プロパティ OmniClass番号](https://raw.githubusercontent.com/catenda/help-center/main/images/k2nekg1n/15-property-sets.png)
 
-分類を使用してIFCをエクスポートし、Catendaにモデルとしてインポートした場合、分類は[提案されたライブラリ](https://support.catenda.com/ja/articles/8065645-libraries-page#h_c03d50a9ca)として表示されます。[ライブラリ ページ](https://support.catenda.com/ja/articles/8065645-libraries-page)で新しいライブラリを作成する場合。指定したプロパティ内の値が提供されたドキュメント内の値と一致する場合、その値が見つかり、作成した分類ライブラリを通じてこの値を持つオブジェクトを選択するために使用できます。
+分類を使用してIFCをエクスポートし、Catendaにモデルとしてインポートした場合、分類は[提案されたライブラリ](https://support.catenda.com/ja/articles/8065645-ライブラリページ#h_c03d50a9ca)として表示されます。[ライブラリ ページ](https://support.catenda.com/ja/articles/8065645-ライブラリページ)で新しいライブラリを作成する場合。指定したプロパティ内の値が提供されたドキュメント内の値と一致する場合、その値が見つかり、作成した分類ライブラリを通じてこの値を持つオブジェクトを選択するために使用できます。
 
 ---
 

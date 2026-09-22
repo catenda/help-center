@@ -6,28 +6,28 @@
 
 **新しい記事:**
 
-[システム要件と最適化](https://intercom.help/bimsync-arena/ja/articles/6921941-system-requirements-and-optimization)
+[システム要件と最適化](https://intercom.help/bimsync-arena/ja/articles/6921941-ハードウェア推奨仕様)
 
-[Solibri モデルとドキュメント統合](https://intercom.help/bimsync-arena/ja/articles/6988148-solibri-models-and-documents-integration)
+[Solibri モデルとドキュメント統合](https://intercom.help/bimsync-arena/ja/articles/6988148-solibriモデルとドキュメント統合)
 
-[2D オーバーレイ](https://intercom.help/bimsync-arena/ja/articles/6921756-2d-overlay)
+[2D オーバーレイ](https://intercom.help/bimsync-arena/ja/articles/6921756-フロア設定ページ)
 
-[アカウント設定](https://intercom.help/bimsync-arena/ja/articles/6880968-account-settings)
+[アカウント設定](https://intercom.help/bimsync-arena/ja/articles/6880968-アカウントページ)
 
-[列のサイズ変更](https://intercom.help/bimsync-arena/ja/articles/6887350-resizing-of-columns) [ドキュメントの IFC サポート](https://intercom.help/bimsync-arena/ja/articles/5658031-ifc-support-in-documents) [Catenda Hub の新機能](https://intercom.help/bimsync-arena/ja/articles/7150907-what-s-new-in-catenda-hub) [Catenda Site の新機能](https://intercom.help/bimsync-arena/ja/articles/7161448-what-s-new-in-catenda-site)
+[列のサイズ変更](https://intercom.help/bimsync-arena/ja/articles/6887350-列のサイズ変更) [ドキュメントの IFC サポート](https://intercom.help/bimsync-arena/ja/articles/5658031-ドキュメントの3dプレビュー) [Catenda Hub の新機能](https://intercom.help/bimsync-arena/ja/articles/7150907-catenda-hubの新機能は何ですか) [Catenda Site の新機能](https://intercom.help/bimsync-arena/ja/articles/7161448-catenda-siteの新機能は)
 
 <a class="intercom-content-link" href="" target="_blank">プロジェクト設定</a>
-[Issue board のテーブルビュー](https://support.catenda.com/ja/articles/6941099-table-view-in-an-issue-board)
+[Issue board のテーブルビュー](https://support.catenda.com/ja/articles/6941099-topic-board内のテーブルビュー)
 
-[Issue board のリストビュー](https://support.catenda.com/ja/articles/6941232-list-view-in-an-issue-board)
+[Issue board のリストビュー](https://support.catenda.com/ja/articles/6941232-トピックリストのリストビュー)
 
 **変更された記事:**
 
-[3D ビューア設定](https://intercom.help/bimsync-arena/ja/articles/5784718-3d-viewer-settings)
+[3D ビューア設定](https://intercom.help/bimsync-arena/ja/articles/5784718-3d-ビューア設定)
 
-[ドキュメント承認](https://support.catenda.com/ja/articles/5784717-document-approval)
+[ドキュメント承認](https://support.catenda.com/ja/articles/5784717-ドキュメント承認-レガシー)
 
-[多要素認証](https://support.catenda.com/ja/articles/4969891-multi-factor-authentication)
+[多要素認証](https://support.catenda.com/ja/articles/4969891-多要素認証)
 
 ## 2. 解決された課題
 

@@ -1,6 +1,6 @@
 # Adhésions au projet - Outil d'organisation
 
-Vous pourrez trouver la page des projets en tant que sous-page de votre [page de profil d'organisation](https://support.catenda.com/fr/articles/8497478-organization-profile-page). Ici, vous verrez un aperçu de tous les Membres qui font partie des projets appartenant à cette organisation.
+Vous pourrez trouver la page des projets en tant que sous-page de votre [page de profil d'organisation](https://support.catenda.com/fr/articles/8497478-page-de-profil-de-l-organisation). Ici, vous verrez un aperçu de tous les Membres qui font partie des projets appartenant à cette organisation.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hmv9p08/01-intro.png)
 

@@ -4,7 +4,7 @@ Avec le webpart Catenda, vous pouvez parcourir la section Documents d'un projet 
 
 ## 1. **Ajout du webpart**
 
-Modifiez une page existante ou créez une nouvelle page dans SharePoint et modifiez-la. Survolez votre page en mode édition jusqu'à ce que vous voyiez une ligne avec un plus `----+-----` Si l'[application Catenda SharePoint](https://support.catenda.com/fr/articles/8396496-catenda-sharepoint-application) est ajoutée à votre site, vous pourrez trouver le webpart Catenda Document dans votre liste de webparts.
+Modifiez une page existante ou créez une nouvelle page dans SharePoint et modifiez-la. Survolez votre page en mode édition jusqu'à ce que vous voyiez une ligne avec un plus `----+-----` Si l'[application Catenda SharePoint](https://support.catenda.com/fr/articles/8396496-application-catenda-sharepoint) est ajoutée à votre site, vous pourrez trouver le webpart Catenda Document dans votre liste de webparts.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/01-adding-the-webpart.png)
 
@@ -16,7 +16,7 @@ Si vous n'avez pas encore autorisé votre compte Catenda, le webpart ressemblera
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/03-adding-the-webpart.png)
 
-Si vous ouvrez une page avec le webpart Catenda activé et que vous n'avez pas encore autorisé votre compte, vous serez invité à le faire. En savoir plus sur la façon d'autoriser votre compte [ici](https://support.catenda.com/fr/articles/8396496-catenda-sharepoint-application#h_788fe15988).
+Si vous ouvrez une page avec le webpart Catenda activé et que vous n'avez pas encore autorisé votre compte, vous serez invité à le faire. En savoir plus sur la façon d'autoriser votre compte [ici](https://support.catenda.com/fr/articles/8396496-application-catenda-sharepoint#h_788fe15988).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/04-adding-the-webpart.png)
 
@@ -74,7 +74,7 @@ Après avoir cliqué, un navigateur de fichiers s'ouvrira et vous pourrez sélec
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aq5swdfr/11-upload-file.png)
 
-> **Remarque :** Si vous glissez-déposez un dossier, il sera publié en tant que fichier zip. Si vous souhaitez télécharger une structure de dossiers, vous devrez la télécharger depuis SharePoint et la télécharger vers Catenda soit via l'[upload zip](https://support.catenda.com/fr/articles/7945410-upload-a-zip-file-structure) soit via le [connecteur de bureau](https://support.catenda.com/fr/articles/8358861-catenda-desktop-connector).
+> **Remarque :** Si vous glissez-déposez un dossier, il sera publié en tant que fichier zip. Si vous souhaitez télécharger une structure de dossiers, vous devrez la télécharger depuis SharePoint et la télécharger vers Catenda soit via l'[upload zip](https://support.catenda.com/fr/articles/7945410-telecharger-un-fichier-zip-structure-de-fichiers) soit via le [connecteur de bureau](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop).
 
 ### 4.3 **Recharger**
 

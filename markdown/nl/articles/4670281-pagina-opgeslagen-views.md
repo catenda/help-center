@@ -1,14 +1,14 @@
 # Pagina Opgeslagen views
 
-U kunt opgeslagen views vinden als een submenu van de [modelspagina](https://support.catenda.com/nl/articles/4670286-models-page). Deze pagina maakt deel uit van het inhoudspaneel. Het afspelen van een opgeslagen view zal de situatie in de 3D-viewer recreëren die aanwezig was toen de opgeslagen view werd gemaakt.
+U kunt opgeslagen views vinden als een submenu van de [modelspagina](https://support.catenda.com/nl/articles/4670286-modellapagina). Deze pagina maakt deel uit van het inhoudspaneel. Het afspelen van een opgeslagen view zal de situatie in de 3D-viewer recreëren die aanwezig was toen de opgeslagen view werd gemaakt.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0ve72xx4/01-intro.png)
 
-Als u een specifieke set modellen opent en ermee werkt, kan het vaak veel tijd kosten om op de 3D-knop van elk model te klikken. Zelfs het selecteren van de juiste modellen op de [modelspagina](https://support.catenda.com/nl/articles/4670286-models-page) en het vervolgens [openen in 3D](https://support.catenda.com/nl/articles/4670286-models-page#h_9447efb869) kan veel tijd in beslag nemen omdat modellen vaak in een lange lijst moeten worden gevonden.
+Als u een specifieke set modellen opent en ermee werkt, kan het vaak veel tijd kosten om op de 3D-knop van elk model te klikken. Zelfs het selecteren van de juiste modellen op de [modelspagina](https://support.catenda.com/nl/articles/4670286-modellapagina) en het vervolgens [openen in 3D](https://support.catenda.com/nl/articles/4670286-modellapagina#h_9447efb869) kan veel tijd in beslag nemen omdat modellen vaak in een lange lijst moeten worden gevonden.
 
 ## 1. **Bovenste knoppen**
 
-Klik op deze knop om een [nieuwe opgeslagen view](https://support.catenda.com/nl/articles/4670269-creating-a-new-bookmark) te maken
+Klik op deze knop om een [nieuwe opgeslagen view](https://support.catenda.com/nl/articles/4670269-een-nieuw-opgeslagen-view-maken) te maken
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0ve72xx4/02-top-buttons.png)
 
@@ -48,4 +48,4 @@ Wanneer u de muis over de afbeelding beweegt, ziet u een afspeelknop verschijnen
 
 **Kopiëren naar mijn opgeslagen views** Als de opgeslagen view door iemand anders met het project is gedeeld, ziet u een plusteken linksboven. Klik op deze knop om een privékopie van deze opgeslagen view te maken. U weet dat u een kopie hebt gemaakt wanneer het pictogram verandert in een vinkje en u een bericht onderaan de pagina ziet waar u uw kopie kunt openen. U kunt ook naar uw kopie zoeken nadat u de pagina hebt vernieuwd.
 
-**Gesterreerde opgeslagen views** Als u eigenaar bent van de opgeslagen view, ziet u dat het pictogram linksboven een ster is geworden. Als u op deze ster klikt, wordt een gele ster voor deze opgeslagen view toegevoegd. Gesterreerde opgeslagen views worden op uw [dashboard](https://support.catenda.com/nl/articles/8212646-dashboard-page#h_6785d4f10c) weergegeven.
+**Gesterreerde opgeslagen views** Als u eigenaar bent van de opgeslagen view, ziet u dat het pictogram linksboven een ster is geworden. Als u op deze ster klikt, wordt een gele ster voor deze opgeslagen view toegevoegd. Gesterreerde opgeslagen views worden op uw [dashboard](https://support.catenda.com/nl/articles/8212646-dashboard-pagina#h_6785d4f10c) weergegeven.

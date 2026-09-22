@@ -1,6 +1,6 @@
 # Affichage en tableau dans la section Documents
 
-La [page Documents ](https://support.catenda.com/fr/articles/8204673-documents-page)a reçu une refonte **🎉🎉**
+La [page Documents ](https://support.catenda.com/fr/articles/8204673-page-documents)a reçu une refonte **🎉🎉**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3760667x/01-intro.png)
 
@@ -36,11 +36,11 @@ Il s'agit du nom du fichier original qui a été téléchargé. Contrairement au
 
 ### 1.2 **Nom du modèle**
 
-Si [les modèles en tant que documents](https://support.catenda.com/fr/articles/8064548-models-as-documents) ont été activés pour votre projet, vous verrez le nom du modèle connecté à un fichier IFC dans cette colonne.
+Si [les modèles en tant que documents](https://support.catenda.com/fr/articles/8064548-modeles-en-tant-que-documents) ont été activés pour votre projet, vous verrez le nom du modèle connecté à un fichier IFC dans cette colonne.
 
 ### 1.3 **Visionneuse**
 
-Cette colonne vous permettra d'ouvrir les fichiers IFC et les nuages de points dans la [visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer). Cela existait avant mais porte maintenant un nom de colonne. Si [les modèles en tant que documents](https://support.catenda.com/fr/articles/8064548-models-as-documents) sont activés pour votre projet, vous pouvez directement ouvrir l'[affichage 2D](https://support.catenda.com/fr/articles/4854537-2d-viewer) ou la vue 3D du modèle-document à partir de l'affichage en liste et centrer sur le modèle s'il est chargé en 3D
+Cette colonne vous permettra d'ouvrir les fichiers IFC et les nuages de points dans la [visionneuse 3D](https://support.catenda.com/fr/articles/8227211-visionneuse-3d). Cela existait avant mais porte maintenant un nom de colonne. Si [les modèles en tant que documents](https://support.catenda.com/fr/articles/8064548-modeles-en-tant-que-documents) sont activés pour votre projet, vous pouvez directement ouvrir l'[affichage 2D](https://support.catenda.com/fr/articles/4854537-visionneuse-2d) ou la vue 3D du modèle-document à partir de l'affichage en liste et centrer sur le modèle s'il est chargé en 3D
 
 ### 1.4 **Créé**
 

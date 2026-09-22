@@ -1,6 +1,6 @@
 # Page de contenu du milestone
 
-La page d'un milestone peut être ouverte en cliquant sur un milestone sur la [page des milestones](https://support.catenda.com/fr/articles/4670266-milestones-page). Voici à quoi peut ressembler la page d'un milestone:
+La page d'un milestone peut être ouverte en cliquant sur un milestone sur la [page des milestones](https://support.catenda.com/fr/articles/4670266-page-des-milestones). Voici à quoi peut ressembler la page d'un milestone:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yx2925b3/01-intro.png)
 
@@ -16,7 +16,7 @@ Cliquez sur le + vert ou sur l'action Nouveau milestone dans le menu d'actions p
 
 ### 1.2 **Archiver**
 
-Si votre milestone est actif, vous pourrez l'archiver avec cette action. _Accès requis:_ Administrateur ou Créateur du milestone Les milestones archivés peuvent être trouvés et rétablis avec les actions des milestones archivés sur la [page des milestones](https://support.catenda.com/fr/articles/4670266-milestones-page).
+Si votre milestone est actif, vous pourrez l'archiver avec cette action. _Accès requis:_ Administrateur ou Créateur du milestone Les milestones archivés peuvent être trouvés et rétablis avec les actions des milestones archivés sur la [page des milestones](https://support.catenda.com/fr/articles/4670266-page-des-milestones).
 
 ## 2. **Rétablir**
 

@@ -1,6 +1,6 @@
 # Exchange topics
 
-You will be able to find the exchange topics action in the [new item action menu](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_8c642e051a) to the top right in a topic board. The exchange topics menu can look something like this:
+You will be able to find the exchange topics action in the [new item action menu](https://support.catenda.com/en/articles/4670284-topics-table-actions#h_8c642e051a) to the top right in a topic board. The exchange topics menu can look something like this:
 
 ![File based exchange new topic exchange topics history import bcf export topics connect to a bcf client synchronize topics directly with any BCF-compatible client by using the URL below](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/01-intro.png)
 
@@ -34,11 +34,11 @@ _Linking multiple statuses/types at once_ If there are unlinked statuses/types i
 
 ![Topics there are unlinked fields in this topic board click here to link](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/03-generate-new-types-and-statuses-from-the-bcf-file.png)
 
-Clicking on the link will take you to the [unlinked fields](https://support.catenda.com/en/articles/4670277-topic-board-settings#h_3bd7e3e759) area of the [topic board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings) where you can link all fields of one kind to an existing value in one go.
+Clicking on the link will take you to the [unlinked fields](https://support.catenda.com/en/articles/4670277-topic-board-settings-page#h_3bd7e3e759) area of the [topic board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings-page) where you can link all fields of one kind to an existing value in one go.
 
 ## 2. **Export topics**
 
-You will either be able to export topics by choosing export topics in the [new item action menu](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_8c642e051a) to the top right in a topic board or by selecting a topic in the topics list and choosing the export option in the [selected item action menu](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board#h_b5c00c149b) above the topic board. The export topics dialogue can look something like this:
+You will either be able to export topics by choosing export topics in the [new item action menu](https://support.catenda.com/en/articles/4670284-topics-table-actions#h_8c642e051a) to the top right in a topic board or by selecting a topic in the topics list and choosing the export option in the [selected item action menu](https://support.catenda.com/en/articles/4670284-topics-table-actions#h_b5c00c149b) above the topic board. The export topics dialogue can look something like this:
 
 ![Export topics all topics from the current topic board current filter selected topics bcf excel pdf v3.0](https://raw.githubusercontent.com/catenda/help-center/main/images/8qf7d3yv/04-export-topics.png)
 
@@ -58,7 +58,7 @@ Depending on which version of BCF you choose you can get different file types. B
 
 ### 2.3 **Excel export**
 
-It is possible to export topics to excel. There will one row per topic and one column per column int he topic board table view. The order of the columns will be the same as the default topic board [table view](https://support.catenda.com/en/articles/6941099-table-view-in-an-topic-board#h_3102328063) column order.
+It is possible to export topics to excel. There will one row per topic and one column per column int he topic board table view. The order of the columns will be the same as the default topic board [table view](https://support.catenda.com/en/articles/6941099-table-view-in-a-topic-board#h_3102328063) column order.
 
 > **Note:** No images and only the last comment in an topic will be exported.
 

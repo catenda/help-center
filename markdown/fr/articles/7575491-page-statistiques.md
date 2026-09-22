@@ -1,6 +1,6 @@
 # Page Statistiques
 
-La page statistiques se trouve comme sous-page de la [page topics](https://support.catenda.com/fr/articles/4670271-issues-page).
+La page statistiques se trouve comme sous-page de la [page topics](https://support.catenda.com/fr/articles/4670271-page-sujets).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/2s7g3kx3/01-intro.png)
 

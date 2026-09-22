@@ -1,6 +1,6 @@
 # Historique des sujets
 
-Vous pourrez trouver le bouton d'historique des sujets vers le haut du [corps du sujet](https://support.catenda.com/fr/articles/8053352-issue-body). En cliquant sur ce bouton, vous développerez l'historique de tous les changements apportés au sujet pendant sa durée dans votre projet Catenda.
+Vous pourrez trouver le bouton d'historique des sujets vers le haut du [corps du sujet](https://support.catenda.com/fr/articles/8053352-corps-du-sujet-le-contenu-d-un-sujet). En cliquant sur ce bouton, vous développerez l'historique de tous les changements apportés au sujet pendant sa durée dans votre projet Catenda.
 
 Dans l'historique des sujets, vous pourrez trouver des informations sur les sujets suivants :
 

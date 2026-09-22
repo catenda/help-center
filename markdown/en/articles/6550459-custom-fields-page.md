@@ -50,7 +50,7 @@ Click [here](https://support.catenda.com/en/articles/11748020-tables-on-catenda)
 
 ### 3.1 **Row content**
 
-Once a custom field is made it is not possible to change its type. Click on any of the fields to be taken to the [custom field page](https://support.catenda.com/en/articles/8445588-custom-field-page) of that custom field.
+Once a custom field is made it is not possible to change its type. Click on any of the fields to be taken to the [custom field page](https://support.catenda.com/en/articles/8445588-custom-field-contents-page) of that custom field.
 
 ### 3.2 **Columns**
 
@@ -58,4 +58,4 @@ Name - The name of the custom field Type - The type of the custom field Descript
 
 ## 4. **Enabling a custom field**
 
-After making a custom field the field can be added to [topics in a topic board](https://support.catenda.com/en/articles/6563368-how-to-use-custom-fields-at-my-issues) or as values in a [naming convention](https://support.catenda.com/en/articles/7869240-how-to-use-custom-fields-in-naming-convention).
+After making a custom field the field can be added to [topics in a topic board](https://support.catenda.com/en/articles/6563368-custom-fields-in-a-topic-board) or as values in a [naming convention](https://support.catenda.com/en/articles/7869240-how-to-use-custom-fields-in-naming-convention).

@@ -1,6 +1,6 @@
 # Configuration des dossiers - Paramètres des documents
 
-Le menu de configuration des dossiers se trouve sur la [page des paramètres des documents](https://support.catenda.com/fr/articles/7831371-document-settings-page). En configurant un dossier, vous pouvez améliorer la façon dont les Documents sont traités dans ce flux de travail.
+Le menu de configuration des dossiers se trouve sur la [page des paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document). En configurant un dossier, vous pouvez améliorer la façon dont les Documents sont traités dans ce flux de travail.
 
 ## 1. **Tableau des dossiers**
 
@@ -52,7 +52,7 @@ Le dialogue de configuration des dossiers peut ressembler à ceci :
 
 ### 2.1 **Convention de nommage**
 
-Si vous avez des conventions de nommage configurées sur la [page de convention de nommage](https://support.catenda.com/fr/articles/7832559-naming-conventions-page) dans les [paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page), vous pourrez choisir quel dossier la convention de nommage s'applique ici. Lors de l'application d'une convention, tous les nouveaux Documents du dossier et des sous-dossiers doivent :
+Si vous avez des conventions de nommage configurées sur la [page de convention de nommage](https://support.catenda.com/fr/articles/7832559-page-des-conventions-de-nommage) dans les [paramètres du projet](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet), vous pourrez choisir quel dossier la convention de nommage s'applique ici. Lors de l'application d'une convention, tous les nouveaux Documents du dossier et des sous-dossiers doivent :
 
 - Être nommés selon la convention de nommage
 - Avoir un nom de document qui ne peut pas être modifié alors que la convention est active
@@ -89,4 +89,4 @@ Avec les champs personnalisés, vous pourrez attribuer des champs personnalisés
 
 ## 3. **Attribuer un code QR**
 
-Avec [l'estampage de code QR](https://support.catenda.com/fr/articles/9360508-qr-code-on-pdfs-in-catenda), vous pourrez sélectionner si vous souhaitez que cette fonction soit activée pour un dossier ici.
+Avec [l'estampage de code QR](https://support.catenda.com/fr/articles/9360508-code-qr-sur-les-pdf-dans-catenda), vous pourrez sélectionner si vous souhaitez que cette fonction soit activée pour un dossier ici.

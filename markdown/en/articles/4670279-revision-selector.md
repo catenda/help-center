@@ -36,7 +36,7 @@ A partial match of 3 roman letters or more can be matched in the list of 3D docu
 
 See the 10 most relevant 3D documents. The 3D document list is sorted after the [typical sorting order of lists on Catenda](https://support.catenda.com/en/articles/8487788-sorting-order-of-lists).
 
-_Models -_ Displayed by default See all the [Ifc documents](https://support.catenda.com/en/articles/5658031-ifc-support-in-documents) that have been linked to a model. Your list of available models is based on the access setting of the document that is linked to that model.
+_Models -_ Displayed by default See all the [Ifc documents](https://support.catenda.com/en/articles/5658031-3d-preview-of-documents) that have been linked to a model. Your list of available models is based on the access setting of the document that is linked to that model.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vh710sy2/05-3d-document-list.png)
 

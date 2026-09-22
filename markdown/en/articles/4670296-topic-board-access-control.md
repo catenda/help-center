@@ -2,7 +2,7 @@
 
 > Access Control Levels on Topic Boards
 
-You will be able to find the access control of a topic board by clicking on [edit access](https://support.catenda.com/en/articles/4670277-issue-board-settings#h_82063f7a79) in the [access control menu](https://support.catenda.com/en/articles/4670277-issue-board-settings#h_7a3aca4c7d) on the [topic board settings](https://support.catenda.com/en/articles/4670277-issue-board-settings) page. _Access required:_ Full access to the topic board
+You will be able to find the access control of a topic board by clicking on [edit access](https://support.catenda.com/en/articles/4670277-topic-board-settings-page#h_82063f7a79) in the [access control menu](https://support.catenda.com/en/articles/4670277-topic-board-settings-page#h_7a3aca4c7d) on the [topic board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings-page) page. _Access required:_ Full access to the topic board
 
 The edit access control dialogue can look something like this:
 

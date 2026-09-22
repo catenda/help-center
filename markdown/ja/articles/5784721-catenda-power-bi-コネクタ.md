@@ -1,6 +1,6 @@
 # Catenda Power BI コネクタ
 
-> **注:** このアプリケーションのインストールファイルは[こちら](https://support.catenda.com/ja/articles/8396532-catenda-plugins-and-integrations)にあります
+> **注:** このアプリケーションのインストールファイルは[こちら](https://support.catenda.com/ja/articles/8396532-catenda-プラグイン-統合)にあります
 
 この記事では、Catenda HUBデータベースをPowerBIとリンクする方法について説明します。リンクすることで、Catenda HUB上のデータへの直接アクセスをPowerBIで取得できます。このデータは、タスク、ドキュメント、またはメンバーなどを評価するために使用できます。
 
@@ -30,7 +30,7 @@ PowerBIからCatenda HUBデータベースへの接続を作成するには、�
 
 ## 3. **データを読み込む**
 
-アクセス権のあるすべてのプロジェクトが一覧表示されるナビゲータが開きます。対応するプロジェクトとリンクするテーブルを選択します。この例では、PowerBIで[トピック](https://support.catenda.com/ja/articles/4670271-topics-page)を評価したいと思います。"_読み込む_"をクリックしてデータセットを読み込みます。
+アクセス権のあるすべてのプロジェクトが一覧表示されるナビゲータが開きます。対応するプロジェクトとリンクするテーブルを選択します。この例では、PowerBIで[トピック](https://support.catenda.com/ja/articles/4670271-トピックページ)を評価したいと思います。"_読み込む_"をクリックしてデータセットを読み込みます。
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/wajxs2mg/03-load-data.png)
 

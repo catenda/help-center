@@ -17,7 +17,7 @@ Click on the [project thumbnail](#h_303c7e9962) or chosen project in the [projec
 In the left menu you will be able see the following menus:
 
 - Projects page - Current article
-- [Notifications](https://support.catenda.com/en/articles/7439223-notifications-page)
+- [Notifications](https://support.catenda.com/en/articles/7439223-account-notifications-page)
 - [Account](https://support.catenda.com/en/articles/6880968-account-page)
 - [Organizations](https://support.catenda.com/en/articles/8281910-organizations-page)
 
@@ -55,7 +55,7 @@ After creating a new account a project invite has to be received and accepted to
 
 **Becoming part of a project** When a project is created the creator is automatically part of the project. When the project is created via the organization tool the organization owner will still have to make themselves part of the project to see it in their list. Some organization owner can also add and remove organization members to projects without invitation.
 
-**All organization projects** Organization owners will be able to see all projects of the organization on the [projects page of the organization tool](https://support.catenda.com/en/articles/8505058-projects-page-in-organization-tool).
+**All organization projects** Organization owners will be able to see all projects of the organization on the [projects page of the organization tool](https://support.catenda.com/en/articles/8505058-projects-page-organization-tool).
 
 ### 6.1 **Star**
 

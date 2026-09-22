@@ -8,15 +8,15 @@ Die URL ändert sich je nach Inhalt der Tabelle und den angewendeten Filtern. Kl
 
 ## 2. **Filter freigeben, damit der Empfänger sie speichern kann**
 
-Da die URL die Seitennavigation und die aktuell angewendeten Filter widerspiegelt, kann sie mit anderen Benutzern geteilt werden. Beachten Sie, dass die Ergebnisse je nachdem variieren können, ob die Person, die den Link öffnet, Teil des Projekts ist oder Zugriff auf die Seite hat, zu der navigiert wird, oder auf die Elemente in der Tabelle. Die URL zur gefilterten Seite kann leicht über [Sharelink](https://support.catenda.com/de/articles/4728886-sharelink-notify-people-about-catenda-hub-content) versendet oder aus der URL-Leiste des Browsers kopiert und in einer Nachricht eingefügt werden. Dies benachrichtigt den Benutzer über eine Reihe von Filtern, damit er den gewünschten Inhalt leicht finden kann. Wenn eine Reihe von Filtern mehr als einmal geteilt wird, sollten Benutzer erwägen, die Filterkombination zu speichern.
+Da die URL die Seitennavigation und die aktuell angewendeten Filter widerspiegelt, kann sie mit anderen Benutzern geteilt werden. Beachten Sie, dass die Ergebnisse je nachdem variieren können, ob die Person, die den Link öffnet, Teil des Projekts ist oder Zugriff auf die Seite hat, zu der navigiert wird, oder auf die Elemente in der Tabelle. Die URL zur gefilterten Seite kann leicht über [Sharelink](https://support.catenda.com/de/articles/4728886-sharelink-benutzer-uber-catenda-hub-inhalte-benachrichtigen) versendet oder aus der URL-Leiste des Browsers kopiert und in einer Nachricht eingefügt werden. Dies benachrichtigt den Benutzer über eine Reihe von Filtern, damit er den gewünschten Inhalt leicht finden kann. Wenn eine Reihe von Filtern mehr als einmal geteilt wird, sollten Benutzer erwägen, die Filterkombination zu speichern.
 
 ## 3. **Persönliche Filter speichern**
 
-Eine Reihe von Filtern kann [im Filtermenü gespeichert werden](https://support.catenda.com/de/articles/8551755-saving-filters). Die Filter werden nur für jeden Benutzer einzeln gespeichert. Durch die Verwendung gespeicherter Filter können Sie den Filter beim nächsten Mal leicht wieder finden, wenn Sie ihn mit einem Projektmitglied teilen möchten.
+Eine Reihe von Filtern kann [im Filtermenü gespeichert werden](https://support.catenda.com/de/articles/8551755-filterergebnisse-begrenzen). Die Filter werden nur für jeden Benutzer einzeln gespeichert. Durch die Verwendung gespeicherter Filter können Sie den Filter beim nächsten Mal leicht wieder finden, wenn Sie ihn mit einem Projektmitglied teilen möchten.
 
 ## 4. **Projektfilter speichern**
 
-Speichern Sie die URL einer Reihe von Filtern in der [Links-Bibliothek](https://support.catenda.com/de/articles/4670254-links-library), damit Projektmitglieder verschiedene Filtersätze nachschlagen können, die vorgeschlagen wurden.
+Speichern Sie die URL einer Reihe von Filtern in der [Links-Bibliothek](https://support.catenda.com/de/articles/4670254-links-bibliothek), damit Projektmitglieder verschiedene Filtersätze nachschlagen können, die vorgeschlagen wurden.
 
 ### 4.1 **Eine Bibliothek von Filtern**
 

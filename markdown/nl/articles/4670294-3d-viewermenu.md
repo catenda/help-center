@@ -14,7 +14,7 @@ Wanneer u de tool dropdown opent, kan het er ongeveer zo uitzien:
 
 ## 1. **Object picker - Standaard**
 
-Met dit gereedschap kunt u op objecten klikken om ze te selecteren. De [toetscombinatie](https://support.catenda.com/nl/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Object%20picker-,Space,-Laser%20measure) om dit gereedschap te selecteren is "spatiebalk"
+Met dit gereedschap kunt u op objecten klikken om ze te selecteren. De [toetscombinatie](https://support.catenda.com/nl/articles/4670267-samenvatting-van-de-belangrijkste-sneltoetsen-en-basisbesturingselementen#:~:text=Object%20picker-,Space,-Laser%20measure) om dit gereedschap te selecteren is "spatiebalk"
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/03-object-picker-default.png)
 
@@ -26,15 +26,15 @@ Om snel een doorsnede te maken, wijst u naar een object en maakt u een doorsnede
 
 ### 2.1 **Maak een doorsnede aan**
 
-Klik hier om een [doorsnede](https://support.catenda.com/nl/articles/4670253-clipping-planes) te maken die parallel is met het object waarover u zweeft.
+Klik hier om een [doorsnede](https://support.catenda.com/nl/articles/4670253-doorsnede-vlakken) te maken die parallel is met het object waarover u zweeft.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/04-create-clipping-plane.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/4670253-clipping-planes) voor meer informatie over het maken van doorsnedes.
+Klik [hier](https://support.catenda.com/nl/articles/4670253-doorsnede-vlakken) voor meer informatie over het maken van doorsnedes.
 
 ### 2.2 **Maak een meetvlak aan**
 
-Klik hier om een [meetvlak](https://support.catenda.com/nl/articles/8360838-measure-plane) te maken dat parallel is met het object waarover u zweeft.
+Klik hier om een [meetvlak](https://support.catenda.com/nl/articles/8360838-meetvlak) te maken dat parallel is met het object waarover u zweeft.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/05-create-measure-plane.png)
 
@@ -44,7 +44,7 @@ Laser meten is een functie die oppervlakken en lijnen vindt en u automatisch de 
 
 ### 3.1 **Lasermeting**
 
-Met de lasermeting kunt u de afstanden tussen objecten meten. De [toetscombinatie](https://support.catenda.com/nl/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Laser%20measure-,m,-Tape%20measure) hiervoor is "m"
+Met de lasermeting kunt u de afstanden tussen objecten meten. De [toetscombinatie](https://support.catenda.com/nl/articles/4670267-samenvatting-van-de-belangrijkste-sneltoetsen-en-basisbesturingselementen#:~:text=Laser%20measure-,m,-Tape%20measure) hiervoor is "m"
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/06-laser-measure.png)
 
@@ -100,7 +100,7 @@ Meetinformatie voor elke meting wordt weergegeven.
 
 ### 3.6 Rolmaat meten
 
-Metafstanden tussen punten meten. De [toetscombinatie](https://support.catenda.com/nl/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Tape%20measure-,Shift%20%2B%20m,-Point%20measure) hiervoor is "shift+m"
+Metafstanden tussen punten meten. De [toetscombinatie](https://support.catenda.com/nl/articles/4670267-samenvatting-van-de-belangrijkste-sneltoetsen-en-basisbesturingselementen#:~:text=Tape%20measure-,Shift%20%2B%20m,-Point%20measure) hiervoor is "shift+m"
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/15-tape-measure.png)
 
@@ -114,7 +114,7 @@ Zoals bij het lasermeetgereedschap kunt u op de oogpictogrammen klikken om de ve
 
 ### 3.7 **Puntmeting**
 
-Coördinaten meten De [toetscombinatie](https://support.catenda.com/nl/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Point%20measure-,Ctrl%20%2B%20m,-Content%20panel) hiervoor is "ctrl+m"
+Coördinaten meten De [toetscombinatie](https://support.catenda.com/nl/articles/4670267-samenvatting-van-de-belangrijkste-sneltoetsen-en-basisbesturingselementen#:~:text=Point%20measure-,Ctrl%20%2B%20m,-Content%20panel) hiervoor is "ctrl+m"
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/18-point-measure.png)
 

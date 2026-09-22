@@ -1,6 +1,6 @@
 # Catenda SharePoint アプリを有効にする
 
-> **注:** プラグインのインストール ファイルは[このアーティクル](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-plugins-and-integrations)で見つけることができます。
+> **注:** プラグインのインストール ファイルは[このアーティクル](https://intercom.help/bimsync-arena/ja/articles/8396532-catenda-プラグイン-統合)で見つけることができます。
 
 Catenda SharePoint アプリケーションは、システム管理者が SharePoint 環境に対して有効にすることができ、その後、サイト所有者がサイトに追加できます。このアプリを使用すると、SharePoint ユーザーは建設プロジェクトの他のメンバーと一緒に、Catenda 内のドキュメントを表示、管理、および共同作業することができます。
 
@@ -114,4 +114,4 @@ Catenda アプリケーションが有効になっている可能性がありま
 
 ## 5. **参考資料**
 
-インストール後のこのアプリケーションの動作方法については、[こちら](https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-application)を参照してください。このアプリケーションがどのように役立つかについての詳細情報は、[こちら](https://support.catenda.com/ja/articles/9419678-catenda-sharepoint-faq)を参照してください。
+インストール後のこのアプリケーションの動作方法については、[こちら](https://support.catenda.com/ja/articles/8396496-catenda-sharepoint-アプリケーション)を参照してください。このアプリケーションがどのように役立つかについての詳細情報は、[こちら](https://support.catenda.com/ja/articles/9419678-catenda-sharepoint-faq)を参照してください。

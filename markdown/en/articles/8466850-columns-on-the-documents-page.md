@@ -28,7 +28,7 @@ For most documents the filetype icon will be displayed. For image filetypes the 
 
 **Model badge** Documents that are linked to a model on the models page will show a models badge on the bottom left.
 
-**Folder configuration** If the parent folder of the document has been configured in [document settings](https://support.catenda.com/en/articles/7831371-document-settings) you will see a gray gear badge on the bottom right of the document icon.
+**Folder configuration** If the parent folder of the document has been configured in [document settings](https://support.catenda.com/en/articles/7831371-document-settings-page) you will see a gray gear badge on the bottom right of the document icon.
 
 ### 3.3 **Folder icons**
 
@@ -80,7 +80,7 @@ If the document is linked to a model you will see the name of the model here. Th
 
 ## 7. **Status** - Default 1 panel - Document statuses only
 
-Document statuses can be turned on in [document settings](https://support.catenda.com/en/articles/7831371-document-settings). If the status workflow has been enabled, document revisions might have been assigned a status. Separate lists of statuses can be applied depending on if the revision is published or a draft. In this column can see the status of the latest published revision in the document.
+Document statuses can be turned on in [document settings](https://support.catenda.com/en/articles/7831371-document-settings-page). If the status workflow has been enabled, document revisions might have been assigned a status. Separate lists of statuses can be applied depending on if the revision is published or a draft. In this column can see the status of the latest published revision in the document.
 
 ## 8. **Size** - Default 1 panel
 
@@ -124,4 +124,4 @@ For IFC documents that have been linked to models, Point Clouds and GML document
 
 ## 14. **Custom fields**
 
-One column per custom field that is added to the configured parent folder see [document settings](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90)
+One column per custom field that is added to the configured parent folder see [document settings](https://support.catenda.com/en/articles/7831371-document-settings-page#h_6672c14d90)

@@ -14,7 +14,7 @@ Wenn eine Datei einen potenziell schädlichen Dateityp hat, wird sie nicht hochg
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qn4yk3x7/02-executable-and-script-filetypes.png)
 
-Die folgenden Dateitypen, die möglicherweise schädlich sind, sind nicht zulässig. Sehen Sie in [diesem](https://support.catenda.com/de/articles/4670320-previewing-file-types-on-catenda-hub) Artikel nach, welche Dateitypen nicht hochgeladen werden können.
+Die folgenden Dateitypen, die möglicherweise schädlich sind, sind nicht zulässig. Sehen Sie in [diesem](https://support.catenda.com/de/articles/4670320-vorschau-von-dateitypen-auf-catenda-hub) Artikel nach, welche Dateitypen nicht hochgeladen werden können.
 
 ## 3. **Dateiname abgeschnitten**
 

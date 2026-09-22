@@ -2,7 +2,7 @@
 
 > Toegangsniveaus voor documenten
 
-Selecteer document(en) en/of map(pen) in het documentengebied om het menu voor toegangscontrole te vinden in het [rechterinformatiemenu](https://support.catenda.com/nl/articles/8345396-right-menu-on-the-documents-page#h_cad792004b). Hier kunt u zien welke projectleden toegang tot het document hebben. Volg deze stappen om de toegang tot de geselecteerde items te bewerken.
+Selecteer document(en) en/of map(pen) in het documentengebied om het menu voor toegangscontrole te vinden in het [rechterinformatiemenu](https://support.catenda.com/nl/articles/8345396-rechtermenu-op-de-documentenpagina#h_cad792004b). Hier kunt u zien welke projectleden toegang tot het document hebben. Volg deze stappen om de toegang tot de geselecteerde items te bewerken.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/rzxv5j3a/01-intro.png)
 
@@ -24,7 +24,7 @@ Klik op de vervolgkeuzelijst "Toegang definiëren voor" om deelnemers te selecte
 
 Stel toegang in **per team in plaats van per gebruiker**. Rollen veranderen vaak, en toegang op teambasis blijft flexibel: een lid dat aan een team wordt toegevoegd, krijgt de juiste toegang zodra het lid aan het project deelneemt. Een veelgebruikt patroon is om "alle gebruikers" op geen toegang in te stellen, zodat nieuwe, nog niet toegewezen leden gevoelige informatie niet kunnen zien. Vervolgens verleent u toegang aan elk team naar behoefte.
 
-Klik [hier](https://support.catenda.com/nl/articles/15644094-how-catenda-calculates-access-levels) om meer te lezen over hoe de verschillende deelnemersrollen zich tegenover elkaar verhouden.
+Klik [hier](https://support.catenda.com/nl/articles/15644094-hoe-toegangsniveaus-worden-berekend) om meer te lezen over hoe de verschillende deelnemersrollen zich tegenover elkaar verhouden.
 
 ## 2. **2. Welke toegang wordt toegepast? (3 stappen)**
 
@@ -44,11 +44,11 @@ De toegang met het hoogste gewicht wint altijd, maar er zijn uitzonderingen. Bep
 
 De toegang met het hoogste gewicht is van toepassing. Geen toegang > Volledige toegang > Schrijven > Lezen
 
-Klik [hier](https://support.catenda.com/nl/articles/15644094-how-catenda-calculates-access-levels) om meer te lezen over hoe toegangsniveaus worden berekend. Klik [hier](https://support.catenda.com/nl/articles/15644249-access-control-deployment-use-cases) om meer te lezen over typische manieren waarop toegang is geconfigureerd.
+Klik [hier](https://support.catenda.com/nl/articles/15644094-hoe-toegangsniveaus-worden-berekend) om meer te lezen over hoe toegangsniveaus worden berekend. Klik [hier](https://support.catenda.com/nl/articles/15644249-implementatie-van-toegangsbeheer-gebruiksscenario-s) om meer te lezen over typische manieren waarop toegang is geconfigureerd.
 
 ### 2.2 **2.2 Wat kunnen deelnemers doen met die toegang?**
 
-Klik [hier](https://support.catenda.com/nl/articles/15647394-operations-on-document-library-items) om meer te lezen over welke bewerkingen op mappen en documenten kunnen worden uitgevoerd.
+Klik [hier](https://support.catenda.com/nl/articles/15647394-bewerkingen-op-documenten-in-de-bibliotheek) om meer te lezen over welke bewerkingen op mappen en documenten kunnen worden uitgevoerd.
 
 ## 3. **3. Overschrijvingsopties (bereik toegepast bij opslaan)**
 

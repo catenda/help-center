@@ -1,6 +1,6 @@
 # Menu de droite de révision de fichier de demande d'approbation - Hérité
 
-Quand la [révision de fichier d'une approbation](https://support.catenda.com/fr/articles/12507422-file-review-in-an-approval-request-legacy) est d'abord ouverte, son menu de droite peut être fermé. Cliquez sur le bouton d'information à droite pour développer ce menu.
+Quand la [révision de fichier d'une approbation](https://support.catenda.com/fr/articles/12507422-examen-de-fichier-dans-une-demande-de-validation-herite) est d'abord ouverte, son menu de droite peut être fermé. Cliquez sur le bouton d'information à droite pour développer ce menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/zt2p953n/01-intro.png)
 
@@ -48,7 +48,7 @@ Quand le nombre minimum de membres spécifiés dans l'approbation ont soumis les
 
 ### 2.1 **Zone de commentaire**
 
-Entrez un commentaire pour ajouter un commentaire à la révision de ce fichier. Les commentaires suivent les règles générales de [formatage des messages](https://support.catenda.com/fr/articles/8430847-formatting-of-posts) sur Catenda. Les validations peuvent être soumises sans entrer de commentaire.
+Entrez un commentaire pour ajouter un commentaire à la révision de ce fichier. Les commentaires suivent les règles générales de [formatage des messages](https://support.catenda.com/fr/articles/8430847-boite-a-outils-de-formatage-des-publications) sur Catenda. Les validations peuvent être soumises sans entrer de commentaire.
 
 ### 2.2 **Commentaire**
 

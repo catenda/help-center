@@ -1,6 +1,6 @@
 # Een nieuw goedkeuringsverzoek maken - Legacy
 
-De actie voor een nieuw goedkeuringsverzoek kan worden gevonden door op het actiemenu rechts van de groene plusknop op de [goedkeuringspagina](https://support.catenda.com/nl/articles/8349340-approvals-page) te klikken.
+De actie voor een nieuw goedkeuringsverzoek kan worden gevonden door op het actiemenu rechts van de groene plusknop op de [goedkeuringspagina](https://support.catenda.com/nl/articles/8349340-goedkeuringspagina-legacy) te klikken.
 
 ## 1. **Goedkeuringskop - Het onderwerp van een goedkeuring**
 
@@ -46,7 +46,7 @@ Dit is hoe de body van een nieuwe goedkeuring er uit kan zien:
 
 ### 1.8 **Beschrijving**
 
-De beschrijving van de goedkeuring volgt de [algemene opmaakregels van berichten](https://support.catenda.com/nl/articles/8430847-formatting-of-posts).
+De beschrijving van de goedkeuring volgt de [algemene opmaakregels van berichten](https://support.catenda.com/nl/articles/8430847-werkbalk-voor-berichtopmaak).
 
 ### 1.9 **Concepten**
 

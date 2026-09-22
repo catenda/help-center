@@ -10,7 +10,7 @@ Voici à quoi le menu propriétaire du projet peut ressembler:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/02-project-owner.png)
 
-Il ne peut y avoir qu'un seul propriétaire de projet. Pour la plupart des projets, le propriétaire du projet est l'organisation du client auquel le projet appartient. Les organisations sont souvent nommées par le nom du client suivi du type d'organisation. Le nom donné à l'organisation dépend de chaque propriétaire d'organisation, mais ils seront souvent appelés quelque chose comme "Business A - Projets en cours", "Business B - Archive" ou "Business C - Admin et modèles". Les organisations peuvent être possédées par plusieurs personnes qui ont alors une vue d'ensemble de tous les projets de cette organisation. Les propriétaires d'organisation peuvent également déplacer des projets à partir de la [page des projets dans l'outil d'organisation](https://support.catenda.com/fr/articles/8505058-projects-page-organization-tool) sans avoir à faire partie du projet.
+Il ne peut y avoir qu'un seul propriétaire de projet. Pour la plupart des projets, le propriétaire du projet est l'organisation du client auquel le projet appartient. Les organisations sont souvent nommées par le nom du client suivi du type d'organisation. Le nom donné à l'organisation dépend de chaque propriétaire d'organisation, mais ils seront souvent appelés quelque chose comme "Business A - Projets en cours", "Business B - Archive" ou "Business C - Admin et modèles". Les organisations peuvent être possédées par plusieurs personnes qui ont alors une vue d'ensemble de tous les projets de cette organisation. Les propriétaires d'organisation peuvent également déplacer des projets à partir de la [page des projets dans l'outil d'organisation](https://support.catenda.com/fr/articles/8505058-page-projets-outil-organisation) sans avoir à faire partie du projet.
 
 ### 1.1 **Changer le propriétaire**
 
@@ -24,7 +24,7 @@ Voici à quoi le nouveau menu projet peut ressembler:
 
 ### 2.1 **Détails du projet**
 
-Ici, vous pouvez ajouter une photo du bâtiment ou toute autre photo que vous souhaitez. Cette photo sera affichée dans les détails du projet et sur la [page du projet](https://support.catenda.com/fr/articles/8400797-projects-page#h_1285a6d343) si vous marquez le projet comme favori. _Accès requis:_ Administrateur du projet
+Ici, vous pouvez ajouter une photo du bâtiment ou toute autre photo que vous souhaitez. Cette photo sera affichée dans les détails du projet et sur la [page du projet](https://support.catenda.com/fr/articles/8400797-page-projets#h_1285a6d343) si vous marquez le projet comme favori. _Accès requis:_ Administrateur du projet
 
 ### 2.2 **Nom du projet**
 
@@ -57,7 +57,7 @@ Le menu du dossier des modèles par défaut peut ressembler à ceci:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/05-default-models-folder.png)
 
-Avec [modèles en tant que documents](https://support.catenda.com/fr/articles/8064548-models-as-documents), chaque modèle est lié à un document dans la section des documents. Lorsque vous créez un modèle, on vous demande où, dans la structure des documents, vous souhaitez que le document se termine. Si vous créez des modèles via l'API, les documents qui seront liés pour chaque modèle auront besoin d'une place dans la section des documents. Si aucun dossier par défaut n'est spécifié, un dossier appelé modèles apparaîtra si un modèle est créé via l'API. Par défaut, tous les utilisateurs auront un accès en écriture au dossier généré automatiquement.
+Avec [modèles en tant que documents](https://support.catenda.com/fr/articles/8064548-modeles-en-tant-que-documents), chaque modèle est lié à un document dans la section des documents. Lorsque vous créez un modèle, on vous demande où, dans la structure des documents, vous souhaitez que le document se termine. Si vous créez des modèles via l'API, les documents qui seront liés pour chaque modèle auront besoin d'une place dans la section des documents. Si aucun dossier par défaut n'est spécifié, un dossier appelé modèles apparaîtra si un modèle est créé via l'API. Par défaut, tous les utilisateurs auront un accès en écriture au dossier généré automatiquement.
 
 ## 5. **Supprimer le projet**
 
@@ -65,7 +65,7 @@ Le menu de suppression de projets peut ressembler à ceci:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/06-delete-project.png)
 
-Cliquez sur le bouton de suppression de projet et écrivez le nom exact du projet pour confirmer que vous souhaitez le supprimer. Les propriétaires d'organisation peuvent également supprimer le projet à partir de la [page des projets dans l'outil d'organisation](https://support.catenda.com/fr/articles/8505058-projects-page-organization-tool) sans avoir à faire partie du projet. Si vous ne voyez pas cette option et souhaitez supprimer votre projet, veuillez contacter le support. _Accès requis:_ Propriétaire de l'organisation ou du projet
+Cliquez sur le bouton de suppression de projet et écrivez le nom exact du projet pour confirmer que vous souhaitez le supprimer. Les propriétaires d'organisation peuvent également supprimer le projet à partir de la [page des projets dans l'outil d'organisation](https://support.catenda.com/fr/articles/8505058-page-projets-outil-organisation) sans avoir à faire partie du projet. Si vous ne voyez pas cette option et souhaitez supprimer votre projet, veuillez contacter le support. _Accès requis:_ Propriétaire de l'organisation ou du projet
 
 > **Avertissement:** **Avertissement!** Un projet supprimé ne peut pas être restauré
 
@@ -85,19 +85,19 @@ Après avoir ouvert le menu, les membres du projet pourront voir qui a accès à
 
 ### 6.1 **Créer une nouvelle liste de sujets**
 
-_Accès par défaut:_ Tous les utilisateurs - Écriture [Créer une nouvelle liste de sujets](https://support.catenda.com/fr/articles/4670299-issue-board-creation-acl)
+_Accès par défaut:_ Tous les utilisateurs - Écriture [Créer une nouvelle liste de sujets](https://support.catenda.com/fr/articles/4670299-controle-d-acces-pour-la-creation-de-liste-de-sujets)
 
 ### 6.2 **Inviter de nouveaux membres**
 
-_Accès par défaut:_ Tous les utilisateurs - Aucun accès [Inviter de nouveaux membres](https://support.catenda.com/fr/articles/4670263-invite-members-page)
+_Accès par défaut:_ Tous les utilisateurs - Aucun accès [Inviter de nouveaux membres](https://support.catenda.com/fr/articles/4670263-page-inviter-des-membres)
 
 ### 6.3 **Configuration des statuts des documents**
 
-_Accès par défaut:_ Tous les utilisateurs - Écriture [Configuration des statuts des documents](https://support.catenda.com/fr/articles/9874698-revision-publishing-iso-19650)
+_Accès par défaut:_ Tous les utilisateurs - Écriture [Configuration des statuts des documents](https://support.catenda.com/fr/articles/9874698-nouveau-workflow-de-statut-iso-19650)
 
 ### 6.4 **Créer et supprimer des modèles**
 
-_Accès par défaut:_ Tous les utilisateurs - Écriture [Créer et supprimer des modèles](https://support.catenda.com/fr/articles/8300623-model-configuration)
+_Accès par défaut:_ Tous les utilisateurs - Écriture [Créer et supprimer des modèles](https://support.catenda.com/fr/articles/8300623-configuration-du-model)
 
 ## 7. **Géolocalisation**
 
@@ -119,7 +119,7 @@ La configuration de ce paramètre place les vues 2D des modèles qui sont géné
 
 ### 7.3 **Carte de la page des projets**
 
-Si un emplacement a été défini, les membres verront une épingle pour ce projet sur leur [carte sur la page des projets](https://support.catenda.com/fr/articles/8400797-projects-page#h_5cf5358c76).
+Si un emplacement a été défini, les membres verront une épingle pour ce projet sur leur [carte sur la page des projets](https://support.catenda.com/fr/articles/8400797-page-projets#h_5cf5358c76).
 
 ## 8. **Logo**
 
@@ -127,13 +127,13 @@ Le menu logo peut ressembler à ceci:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4hamkb6q/10-logo.png)
 
-Si vous téléchargez un logo ici, il remplacera le logo Catenda en haut à gauche de chaque page d'export PDF de sujet quand vous [exportez les sujets en PDF](https://support.catenda.com/fr/articles/9784934-exporting-topics-to-pdf#h_77568077c7) à partir d'une liste de sujets.
+Si vous téléchargez un logo ici, il remplacera le logo Catenda en haut à gauche de chaque page d'export PDF de sujet quand vous [exportez les sujets en PDF](https://support.catenda.com/fr/articles/9784934-exporter-des-sujets-en-pdf#h_77568077c7) à partir d'une liste de sujets.
 
 ## 9. **Sous-pages**
 
 Vous pouvez trouver les pages suivantes en tant que sous-pages de cette page:
 
-- [Étiquettes](https://support.catenda.com/fr/articles/4670265-labels-page)
-- [Champs personnalisés](https://support.catenda.com/fr/articles/6550459-custom-fields-page)
-- [Conventions de nommage](https://support.catenda.com/fr/articles/7832559-naming-conventions-page)
-- [Membres](https://support.catenda.com/fr/articles/4670291-members-page)
+- [Étiquettes](https://support.catenda.com/fr/articles/4670265-page-etiquettes)
+- [Champs personnalisés](https://support.catenda.com/fr/articles/6550459-page-des-champs-personnalises)
+- [Conventions de nommage](https://support.catenda.com/fr/articles/7832559-page-des-conventions-de-nommage)
+- [Membres](https://support.catenda.com/fr/articles/4670291-page-membres-et-equipes)

@@ -1,6 +1,6 @@
 # Filtrage sur la page des approbations - Legacy
 
-Le panneau de filtrage peut être ouvert sur la page des approbations en cliquant sur le bouton de filtre à gauche de la barre de recherche sur la [page des approbations](https://support.catenda.com/fr/articles/8349340-approvals-page).
+Le panneau de filtrage peut être ouvert sur la page des approbations en cliquant sur le bouton de filtre à gauche de la barre de recherche sur la [page des approbations](https://support.catenda.com/fr/articles/8349340-page-des-validations-heritage).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vcqjvqcc/01-intro.png)
 
@@ -14,11 +14,11 @@ Cliquez sur le bouton de filtre en haut à gauche pour qu'un panneau apparaisse 
 
 ### 1.1 **Enregistrer et partager le filtre actuel**
 
-Accédez à l'URL d'une page filtrée pour charger cette page avec le filtre appliqué. Les filtres appliqués peuvent être enregistrés vers le haut du menu de filtrage. Cliquez [ici](https://support.catenda.com/fr/articles/11401493-saving-a-filter-link) pour en savoir plus sur la façon d'enregistrer et de partager les filtres
+Accédez à l'URL d'une page filtrée pour charger cette page avec le filtre appliqué. Les filtres appliqués peuvent être enregistrés vers le haut du menu de filtrage. Cliquez [ici](https://support.catenda.com/fr/articles/11401493-enregistrement-et-partage-d-un-lien-de-filtre) pour en savoir plus sur la façon d'enregistrer et de partager les filtres
 
 ### 1.2 **Masquer les filtres vides**
 
-Cliquez [ici](https://support.catenda.com/fr/articles/8551755-saving-filters) pour en savoir plus sur la limitation des résultats de filtrage.
+Cliquez [ici](https://support.catenda.com/fr/articles/8551755-limitation-des-resultats-de-filtrage) pour en savoir plus sur la limitation des résultats de filtrage.
 
 ### 1.3 **Mes approbations**
 

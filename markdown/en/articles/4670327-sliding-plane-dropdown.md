@@ -64,7 +64,7 @@ Expand the show axes menu for better control of each of the axes. Here each axis
 
 ## 4. **4. Sliding plane surface button**
 
-After being enabled, the transparent sliding plane surface extends from the annotation line to the upper bounds of the model similar to a clipping plane surface. Unlike a clipping plane surface which looks similarly transparent and can be moved this is a transparent object that cannot be moved from its annotation line. Also unlike clipping plane surfaces it is possible to measure to sliding plane surfaces. Click [here](https://support.catenda.com/en/articles/4670298-measuring-to-grids) to read more about measuring to different sliding plane surfaces.
+After being enabled, the transparent sliding plane surface extends from the annotation line to the upper bounds of the model similar to a clipping plane surface. Unlike a clipping plane surface which looks similarly transparent and can be moved this is a transparent object that cannot be moved from its annotation line. Also unlike clipping plane surfaces it is possible to measure to sliding plane surfaces. Click [here](https://support.catenda.com/en/articles/4670298-measuring-to-sliding-planes) to read more about measuring to different sliding plane surfaces.
 
 ### 4.1 **4.1 Grid axis surface**
 

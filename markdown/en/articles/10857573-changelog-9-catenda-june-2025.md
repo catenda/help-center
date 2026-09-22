@@ -16,13 +16,13 @@ As new features roll out and bugs are fixed articles are updated with the change
 
 ### 1.1 **New articles:**
 
-**Product Features** [Document preview tools](https://support.catenda.com/en/articles/11384618-document-preview-tools) [Milestone page](https://support.catenda.com/en/articles/11376858-milestone-page)
+**Product Features** [Document preview tools](https://support.catenda.com/en/articles/11384618-document-preview-tools) [Milestone page](https://support.catenda.com/en/articles/11376858-milestone-content-page)
 
 **Troubleshooting** [Sign-in and Passwords](https://support.catenda.com/en/articles/10798891-sign-in-and-passwords) [Desktop Connector Troubleshooting](https://support.catenda.com/en/articles/11019637-desktop-connector-troubleshooting) [Zip upload troubleshooting](https://support.catenda.com/en/articles/11017391-zip-upload-troubleshooting) [2D viewer buildings and storeys](https://support.catenda.com/en/articles/10901703-2d-viewer-buildings-and-storeys) [Upload document dialogue troubleshooting](https://support.catenda.com/en/articles/11070748-upload-document-dialogue-troubleshooting) [Solibri Documents Integration Troubleshooting](https://support.catenda.com/en/articles/11431097-solibri-documents-integration-troubleshooting)
 
 **Tutorials and guides** [Guidde videos](https://support.catenda.com/en/articles/11055278-guidde-videos)
 
-**Frequently Asked Questions** [Saving a filter link](https://support.catenda.com/en/articles/11401493-saving-a-filter-link) [Catenda Desktop Connector FAQ](https://support.catenda.com/en/articles/11582835-catenda-desktop-connector-faq)
+**Frequently Asked Questions** [Saving a filter link](https://support.catenda.com/en/articles/11401493-saving-and-sharing-a-filter-link) [Catenda Desktop Connector FAQ](https://support.catenda.com/en/articles/11582835-catenda-desktop-connector-faq)
 
 ### 1.2 **Articles that have changed:**
 
@@ -30,23 +30,23 @@ As new features roll out and bugs are fixed articles are updated with the change
 
 - Models
     - [Models page actions](https://support.catenda.com/en/articles/9431936-models-page-actions)
-    - [Model overview page actions](https://support.catenda.com/en/articles/9674157-model-overview-page-actions)
+    - [Model overview page actions](https://support.catenda.com/en/articles/9674157-model-contents-page-actions)
     - [Quanitity Take Off (QTO)](https://support.catenda.com/en/articles/6673929-quantity-take-off-qto)
 - Topics
     - [Milestones page](https://support.catenda.com/en/articles/4670266-milestones-page)
 - Documents
     - [Right menu of a revision - Revision info](https://support.catenda.com/en/articles/8302244-right-menu-of-a-revision-revision-info)
-    - [Document structure actions](https://support.catenda.com/en/articles/4670288-document-structure-actions)
+    - [Document structure actions](https://support.catenda.com/en/articles/4670288-documents-table-actions)
     - [Document revision actions](https://support.catenda.com/en/articles/9323521-document-revision-actions)
     - [Document preview and annotations](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=4496538&activeContentType=article&editorMode=view&search=document%20preview)
     - [Columns on the documents page](https://support.catenda.com/en/articles/8466850-columns-on-the-documents-page)
-    - [Revision publishing - ISO 19650](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650)
+    - [Revision publishing - ISO 19650](https://support.catenda.com/en/articles/9874698-new-status-workflow-iso-19650)
     - [Upload a zip/file structure](https://support.catenda.com/en/articles/7945410-upload-a-zip-file-structure)
     - [Collections page](https://support.catenda.com/en/articles/6344318-collections-page)
 - Project setings
     - [Project settings page](https://support.catenda.com/en/articles/4670273-project-settings-page)
     - [Custom fields page](https://support.catenda.com/en/articles/6550459-custom-fields-page)
-    - [Members page](https://support.catenda.com/en/articles/4670291-members-page)
+    - [Members page](https://support.catenda.com/en/articles/4670291-members-and-teams-page)
 - 2D & 3D Viewers
     - [3D viewer tool menu](https://support.catenda.com/en/articles/4670294-3d-viewer-tool-menu)
     - [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer)

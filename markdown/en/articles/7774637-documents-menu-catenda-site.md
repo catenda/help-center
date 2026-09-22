@@ -1,6 +1,6 @@
 # Documents menu - Catenda Site
 
-The Documents page can be found in the [menu](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) or by tapping the issues button on the bottom navigation bar. Here you will be able to find and [preview your documents](https://support.catenda.com/en/articles/8975421-previewing-documents-on-catenda-site).
+The Documents page can be found in the [menu](https://support.catenda.com/en/articles/7338516-navigation-menu-catenda-site) or by tapping the issues button on the bottom navigation bar. Here you will be able to find and [preview your documents](https://support.catenda.com/en/articles/8975421-previewing-file-types-on-catenda-site).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/y3wk741n/01-intro.png)
 
@@ -40,4 +40,4 @@ Tap on a folder to open the folder. After opening a folder you will notice that 
 
 ### 2.2 **Opening documents**
 
-Tap on a document to open the document. After you have loaded in a document it is available to you, also if you are offline, as long as you are within the folder that the document is in. Read [here](https://support.catenda.com/en/articles/8975421-previewing-documents-on-catenda-site) for more information about documents on Catenda Site
+Tap on a document to open the document. After you have loaded in a document it is available to you, also if you are offline, as long as you are within the folder that the document is in. Read [here](https://support.catenda.com/en/articles/8975421-previewing-file-types-on-catenda-site) for more information about documents on Catenda Site

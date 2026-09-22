@@ -1,6 +1,6 @@
 # Medlemmer og teams-side
 
-Medlemmer-siden finnes som en underside til [prosjektinnstillingssiden](https://support.catenda.com/nb/articles/4670273-settings-page).
+Medlemmer-siden finnes som en underside til [prosjektinnstillingssiden](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger).
 
 ![Medlemmer](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/01-intro.png)
 
@@ -12,15 +12,15 @@ Handlingsmenyen finnes øverst til høyre på siden.
 
 ### 1.1 Inviter medlem
 
-Klikk på den grønne pluss-knappen eller handlingen "inviter medlem" i handlingsmenyen for å gå til [siden for å invitere medlemmer](https://support.catenda.com/nb/articles/4670263-invite-members-page). _Nødvendig tilgang:_ Administrator eller [tilgang til å invitere medlemmer](https://support.catenda.com/nb/articles/4670273-project-settings-page#h_3b98ced32a) i prosjektinnstillinger.
+Klikk på den grønne pluss-knappen eller handlingen "inviter medlem" i handlingsmenyen for å gå til [siden for å invitere medlemmer](https://support.catenda.com/nb/articles/4670263-inviter-medlemmer-side). _Nødvendig tilgang:_ Administrator eller [tilgang til å invitere medlemmer](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger#h_3b98ced32a) i prosjektinnstillinger.
 
 ### 1.2 Nytt team
 
-Med denne handlingen kan du opprette et [nytt team](https://support.catenda.com/nb/articles/4670264-creating-a-team). _Nødvendig tilgang:_ Administrator
+Med denne handlingen kan du opprette et [nytt team](https://support.catenda.com/nb/articles/4670264-opprette-et-team). _Nødvendig tilgang:_ Administrator
 
 ## 2. **Søk eller filtrer**
 
-Klikk [her](https://support.catenda.com/nb/articles/11744242-filtering-on-the-members-and-teams-page) for å finne ut hvordan du best søker eller filtrerer på medlemmersiden. Søk- eller filterlinjen kan se slik ut:
+Klikk [her](https://support.catenda.com/nb/articles/11744242-filtrering-pa-siden-for-medlemmer-og-teams) for å finne ut hvordan du best søker eller filtrerer på medlemmersiden. Søk- eller filterlinjen kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/03-search-or-filter.png)
 
@@ -30,7 +30,7 @@ Med et valgt element vil info-knappen for høyre meny vises mot høyre for søk-
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/04-right-menu.png)
 
-Klikk på dette ikonet for å åpne en meny der felt for de valgte elementene kan endres. Klikk [her](https://support.catenda.com/nb/articles/11768610-right-menu-on-the-members-page) for å lese mer om høyre meny på medlemmersiden.
+Klikk på dette ikonet for å åpne en meny der felt for de valgte elementene kan endres. Klikk [her](https://support.catenda.com/nb/articles/11768610-hoyremeny-pa-medlemssiden) for å lese mer om høyre meny på medlemmersiden.
 
 ## 4. **Medlemmer-fanen**
 
@@ -42,11 +42,11 @@ I medlemmer-fanen vises en tabell med alle medlemmer som er en del av prosjektet
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/89wt70pn/06-members-tab.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/11748020-tables-on-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda. Så snart en invitasjon til prosjektet godtas, vil medlemmet som godtok invitasjonen vises i medlemmertabellen.
+Klikk [her](https://support.catenda.com/nb/articles/11748020-tabeller-pa-catenda) for å lese mer om hvordan du arbeider med tabeller i Catenda. Så snart en invitasjon til prosjektet godtas, vil medlemmet som godtok invitasjonen vises i medlemmertabellen.
 
 ### 4.1 **Radinnhold**
 
-Når du åpner innholdet i en medlemmerrad, åpnes [medlemmersiden](https://support.catenda.com/nb/articles/8228836-member-page) for det medlemmet.
+Når du åpner innholdet i en medlemmerrad, åpnes [medlemmersiden](https://support.catenda.com/nb/articles/8228836-medlemsside) for det medlemmet.
 
 ### 4.2 **Kolonner**
 
@@ -76,7 +76,7 @@ Klikk her for å lese mer om hvordan du arbeider med tabeller i Catenda.
 
 ### 5.1 **Radinnhold**
 
-Når du åpner innholdet i en team-rad, åpnes [teamsiden](https://support.catenda.com/nb/articles/7891755-team-page) for det teamet.
+Når du åpner innholdet i en team-rad, åpnes [teamsiden](https://support.catenda.com/nb/articles/7891755-teamside) for det teamet.
 
 ### 5.2 **Kolonner**
 

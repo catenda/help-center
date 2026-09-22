@@ -1,6 +1,6 @@
 # Page de contenu de la collection
 
-Les collections peuvent être créées sur la [page des collections](https://support.catenda.com/fr/articles/6344318-collections-page). Avec les collections, les Documents de différents dossiers peuvent être rassemblés dans une seule liste. La collection peut ensuite soit être partagée avec un Membre du projet pour qu'il puisse suivre les dernières versions d'un ensemble de Documents, soit être partagée avec une personne externe qui a besoin d'accès sans faire partie du projet.
+Les collections peuvent être créées sur la [page des collections](https://support.catenda.com/fr/articles/6344318-page-collections). Avec les collections, les Documents de différents dossiers peuvent être rassemblés dans une seule liste. La collection peut ensuite soit être partagée avec un Membre du projet pour qu'il puisse suivre les dernières versions d'un ensemble de Documents, soit être partagée avec une personne externe qui a besoin d'accès sans faire partie du projet.
 
 Voici à quoi peut ressembler une page de collection :
 
@@ -10,11 +10,11 @@ Voici à quoi peut ressembler une page de collection :
 
 ### 1.1 **Fil d'ariane**
 
-Documents > Collections > #Nom de la collection Cliquez sur Documents pour revenir à la [page des Documents](https://support.catenda.com/fr/articles/8204673-documents-page). Cliquez sur Collections pour revenir à la [page des collections](https://support.catenda.com/fr/articles/6344318-collections-page).
+Documents > Collections > #Nom de la collection Cliquez sur Documents pour revenir à la [page des Documents](https://support.catenda.com/fr/articles/8204673-page-documents). Cliquez sur Collections pour revenir à la [page des collections](https://support.catenda.com/fr/articles/6344318-page-collections).
 
 ### 1.2 **Retour**
 
-Cliquez sur Retour pour revenir à la [page des collections](https://support.catenda.com/fr/articles/6344318-collections-page).
+Cliquez sur Retour pour revenir à la [page des collections](https://support.catenda.com/fr/articles/6344318-page-collections).
 
 ### 1.3 **Actions de collection**
 
@@ -34,7 +34,7 @@ Le menu de droite se trouve en haut à droite du banneau de collection, sous le 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g39es426/03-right-menu.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/12179454-right-menu-on-the-collection-page) pour en savoir plus sur le menu de droite sur la page de collection.
+Cliquez [ici](https://support.catenda.com/fr/articles/12179454-menu-de-droite-sur-la-page-de-contenu-de-la-collection) pour en savoir plus sur le menu de droite sur la page de collection.
 
 ## 3. **Type de collection**
 
@@ -46,15 +46,15 @@ Après la création d'une collection, elle sera privée. Cela signifie que seul 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g39es426/04-private-collection.png)
 
-Les collections privées peuvent soit suivre la dernière revision publiée, soit être verrouillées aux revisions des Documents qui ont été ajoutés à la collection. Partagez une collection privée ou finalisez-la dans le [menu de droite d'une collection](https://support.catenda.com/fr/articles/12179454-right-menu-on-the-collection-content-page) pour la partager avec le reste du projet.
+Les collections privées peuvent soit suivre la dernière revision publiée, soit être verrouillées aux revisions des Documents qui ont été ajoutés à la collection. Partagez une collection privée ou finalisez-la dans le [menu de droite d'une collection](https://support.catenda.com/fr/articles/12179454-menu-de-droite-sur-la-page-de-contenu-de-la-collection) pour la partager avec le reste du projet.
 
 ### 3.2 **Collection partagée avec le projet**
 
-Une collection privée peut être partagée avec le projet dans le [menu de droite d'une collection](https://support.catenda.com/fr/articles/12179454-right-menu-on-the-collection-content-page). Les collections qui sont partagées avec le projet sont visibles par tous les Membres. À ce stade, la liste des Documents de la collection peut toujours être modifiée. Les collections partagées avec le projet peuvent soit suivre la dernière revision publiée, soit être verrouillées aux revisions des Documents qui ont été ajoutés à la collection.
+Une collection privée peut être partagée avec le projet dans le [menu de droite d'une collection](https://support.catenda.com/fr/articles/12179454-menu-de-droite-sur-la-page-de-contenu-de-la-collection). Les collections qui sont partagées avec le projet sont visibles par tous les Membres. À ce stade, la liste des Documents de la collection peut toujours être modifiée. Les collections partagées avec le projet peuvent soit suivre la dernière revision publiée, soit être verrouillées aux revisions des Documents qui ont été ajoutés à la collection.
 
 ### 3.3 **Collection finalisée**
 
-Les collections finalisées sont verrouillées pour la modification. Les collections finalisées doivent être verrouillées aux revisions. Des Liens publics peuvent être créés pour les collections finalisées dans le [menu de droite de la collection](https://support.catenda.com/fr/articles/12179454-right-menu-on-the-collection-content-page).
+Les collections finalisées sont verrouillées pour la modification. Les collections finalisées doivent être verrouillées aux revisions. Des Liens publics peuvent être créés pour les collections finalisées dans le [menu de droite de la collection](https://support.catenda.com/fr/articles/12179454-menu-de-droite-sur-la-page-de-contenu-de-la-collection).
 
 ## 4. **Tableau de collection**
 
@@ -64,7 +64,7 @@ Les actions du tableau se trouvent vers le haut à droite du tableau des collect
 
 **Télécharger la collection** Cliquez sur Télécharger la collection pour télécharger un fichier zip contenant tous les Documents de la collection.
 
-**Ajouter des Documents** Cliquez sur [Ajouter des Documents](https://support.catenda.com/fr/articles/6344318-collections-page#h_b94d108342) pour ajouter des Documents à votre collection. Si votre Document a été trouvé infecté par un virus, vous ne pourrez pas l'ajouter à la collection.
+**Ajouter des Documents** Cliquez sur [Ajouter des Documents](https://support.catenda.com/fr/articles/6344318-page-collections#h_b94d108342) pour ajouter des Documents à votre collection. Si votre Document a été trouvé infecté par un virus, vous ne pourrez pas l'ajouter à la collection.
 
 > **Remarque :** Le nom du Document dans la collection sera le nom de la revision qui a été ajoutée. Ceci est un peu comme le nom de fichier d'origine. Ce nom peut être différent du nom du Document car un Document peut contenir plusieurs revisions avec des noms différents.
 

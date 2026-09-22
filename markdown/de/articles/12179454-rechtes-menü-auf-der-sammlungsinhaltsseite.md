@@ -1,6 +1,6 @@
 # Rechtes Menü auf der Sammlungsinhaltsseite
 
-Das rechte Menü befindet sich oben rechts des Sammlungsbanners unter dem Aktionsmenü auf der [Sammlungsinhaltsseite](https://support.catenda.com/de/articles/8999764-collection-content-page). Klicken Sie auf das "i"-Symbol oben rechts, um das rechte Menü einer Sammlung zu öffnen. _Erforderlicher Zugriff:_ Sammlungsersteller oder Administrator
+Das rechte Menü befindet sich oben rechts des Sammlungsbanners unter dem Aktionsmenü auf der [Sammlungsinhaltsseite](https://support.catenda.com/de/articles/8999764-sammlungsinhaltseite). Klicken Sie auf das "i"-Symbol oben rechts, um das rechte Menü einer Sammlung zu öffnen. _Erforderlicher Zugriff:_ Sammlungsersteller oder Administrator
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8zqv0z0m/01-intro.png)
 

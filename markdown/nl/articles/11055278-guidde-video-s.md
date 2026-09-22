@@ -4,7 +4,7 @@ In de titel van dit artikel lijkt het misschien alsof er een typefout is met een
 
 ## 1. **Afspeellijsten**
 
-Klik [hier](https://support.catenda.com/nl/articles/11059986-interacting-with-guide-playlists) voor meer informatie over hoe u met afspeellijsten op Guidde kunt werken en hoe u de video in uw voorkeurstaal bekijkt.
+Klik [hier](https://support.catenda.com/nl/articles/11059986-interactie-met-guidde-afspeellijsten) voor meer informatie over hoe u met afspeellijsten op Guidde kunt werken en hoe u de video in uw voorkeurstaal bekijkt.
 
 ### 1.1 **Catenda Hub Tutorials - [Afspeellijst](https://eu.guidde.com/playbooks/playlist/qicnEaFjpt2gUXmNcAxWcU?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 

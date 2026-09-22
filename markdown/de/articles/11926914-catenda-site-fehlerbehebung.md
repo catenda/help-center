@@ -10,10 +10,10 @@ Um ein Catenda-Projekt in Catenda Site ohne Verbindung zum Netzwerk zu verwenden
 
 ## 2. Themen werden nicht synchronisiert
 
-Falls Änderungen in Catenda Site vorgenommen wurden, die in anderen Sitzungen nicht sichtbar sind, müssen diese wahrscheinlich noch in [dem Postausgang](https://support.catenda.com/de/articles/7325268-offline-mode-in-catenda-site#h_ff2a47f221) oben rechts im Thema-Board eingereicht werden.
+Falls Änderungen in Catenda Site vorgenommen wurden, die in anderen Sitzungen nicht sichtbar sind, müssen diese wahrscheinlich noch in [dem Postausgang](https://support.catenda.com/de/articles/7325268-offline-modus-in-catenda-site#h_ff2a47f221) oben rechts im Thema-Board eingereicht werden.
 
 ## 3. MFA-Code erforderlich
 
-Wenn Sie eine Meldung sehen, die Ihnen mitteilt, dass Multi-Faktor-Authentifizierung erforderlich ist, wenn Sie versuchen, ein Projekt zu öffnen, melden Sie sich bitte über einen Browser bei Ihrem Catenda-Konto an und [konfigurieren Sie ein Code-Pairing](https://support.catenda.com/de/articles/4969891-multi-factor-authentication) in Ihren Kontoeinstellungen.
+Wenn Sie eine Meldung sehen, die Ihnen mitteilt, dass Multi-Faktor-Authentifizierung erforderlich ist, wenn Sie versuchen, ein Projekt zu öffnen, melden Sie sich bitte über einen Browser bei Ihrem Catenda-Konto an und [konfigurieren Sie ein Code-Pairing](https://support.catenda.com/de/articles/4969891-multi-faktor-authentifizierung) in Ihren Kontoeinstellungen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8pwddg4t/02-mfa-code-required.png)

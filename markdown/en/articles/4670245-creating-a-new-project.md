@@ -1,6 +1,6 @@
 # Creating a new project
 
-If your current plan and access allows for it, you can create a new project by signing in and on the [project page](https://support.catenda.com/en/articles/4670260-projects-page), click the "New Project" button or by going to the [new project page](https://hub.catenda.com/new-project).
+If your current plan and access allows for it, you can create a new project by signing in and on the [project page](https://support.catenda.com/en/articles/4670260-account-buttons), click the "New Project" button or by going to the [new project page](https://hub.catenda.com/new-project).
 
 Otherwise, to create a new project contact Catenda support at [support@catenda.com](mailto:support@catenda.com) or via the chat button. The black chat button can be found on the top right inside of Catenda Hub or to the bottom right on our help/home pages to upgrade your plan. We will guide you through creating it.
 

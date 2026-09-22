@@ -54,7 +54,7 @@ Click the New library button to create a new library
 
 ### 4.1 **Saved filters**
 
-Click [here](https://support.catenda.com/en/articles/8551755-saving-filters) to read more about how to save a set of filters
+Click [here](https://support.catenda.com/en/articles/8551755-limiting-filter-results) to read more about how to save a set of filters
 
 ### 4.2 **Unlinked -** `link=unlinked`
 
@@ -100,7 +100,7 @@ If any objects have been linked to your documents you will be able to see the am
 
 ## 6. **Right information menu**
 
-When you first open select a document in the document list, its right menu might be closed. You can click on the information button on the bottom right of the [document banner](https://support.catenda.com/en/articles/8461918-document-banner-actions-navigation) to expand this menu.
+When you first open select a document in the document list, its right menu might be closed. You can click on the information button on the bottom right of the [document banner](https://support.catenda.com/en/articles/8461918-document-banner-navigation) to expand this menu.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xt4043w9/05-right-information-menu.png)
 

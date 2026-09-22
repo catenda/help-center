@@ -1,6 +1,6 @@
 # Ledenpagina
 
-De ledenpagina is te vinden in de ledensectie van de [ledenpagina](https://support.catenda.com/nl/articles/4670291-members-page) door op het lid te klikken waarvan u de pagina wilt zien. Dit is hoe een ledenpagina eruit kan zien:
+De ledenpagina is te vinden in de ledensectie van de [ledenpagina](https://support.catenda.com/nl/articles/4670291-pagina-leden-en-teams) door op het lid te klikken waarvan u de pagina wilt zien. Dit is hoe een ledenpagina eruit kan zien:
 
 ![Ledenpagina](https://raw.githubusercontent.com/catenda/help-center/main/images/t0zstfcp/01-intro.png)
 

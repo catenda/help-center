@@ -4,7 +4,7 @@ This article builds upon the [simplest naming convention](https://support.catend
 
 ## 1. A001-Filename.extension
 
-Say you have a code for your local files that has the first letter of the project and some number that looks like A001, A002, A003, M001, M002 etc. To keep your [documents section](https://support.catenda.com/en/articles/4670292-documents-page) organized you want to make sure that all your files have this code. It does not matter to you that multiple files have the same code as long as they have the code. This can make your [documents section](https://support.catenda.com/en/articles/4670292-documents-page) more clear and organized so you do not get lost in the massive amounts of files that we generate nowadays.
+Say you have a code for your local files that has the first letter of the project and some number that looks like A001, A002, A003, M001, M002 etc. To keep your [documents section](https://support.catenda.com/en/articles/4670292-root-folder-acl) organized you want to make sure that all your files have this code. It does not matter to you that multiple files have the same code as long as they have the code. This can make your [documents section](https://support.catenda.com/en/articles/4670292-root-folder-acl) more clear and organized so you do not get lost in the massive amounts of files that we generate nowadays.
 
 ### 1.1 **Initial setup**
 
@@ -12,7 +12,7 @@ This is the first step into specifying preference for file naming. For this exam
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/getb0xqv/01-initial-setup.png)
 
-Now let us [assign the convention](https://support.catenda.com/en/articles/7831371-document-settings#h_6672c14d90) to a folder and try to upload a file with the name text.txt to see what happens.
+Now let us [assign the convention](https://support.catenda.com/en/articles/7831371-document-settings-page#h_6672c14d90) to a folder and try to upload a file with the name text.txt to see what happens.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/getb0xqv/02-initial-setup.png)
 

@@ -1,6 +1,6 @@
 # Overzichtstabblad in een beoordelingsverzoek
 
-Het overzichtstabblad van een beoordelingsverzoek is te vinden op de pagina met beoordelingsverzoeken van [open of gesloten](https://support.catenda.com/nl/articles/12494960-open-or-closed-approval-request-page) beoordelingen. In het overzichtstabblad is een overzicht van een geselecteerde beoordelingsstap te vinden. In de stap zijn de validaties die zijn aangegeven en ingediend door een lid namens elk beoordelingsteam dat is geconfigureerd om de stap te beoordelen, zichtbaar. Voor een overzicht van validatieindieningenen voor alle stappen, zie het [tabblad Documenten](https://support.catenda.com/nl/articles/8349418-approval-page#h_133b2690af).
+Het overzichtstabblad van een beoordelingsverzoek is te vinden op de pagina met beoordelingsverzoeken van [open of gesloten](https://support.catenda.com/nl/articles/12494960-open-of-gesloten-goedkeuringsverzoekaanvraag) beoordelingen. In het overzichtstabblad is een overzicht van een geselecteerde beoordelingsstap te vinden. In de stap zijn de validaties die zijn aangegeven en ingediend door een lid namens elk beoordelingsteam dat is geconfigureerd om de stap te beoordelen, zichtbaar. Voor een overzicht van validatieindieningenen voor alle stappen, zie het [tabblad Documenten](https://support.catenda.com/nl/articles/8349418-goedkeuring-geopend-gepubliceerd-of-verwijderd-legacy#h_133b2690af).
 
 > **Opmerking:** **Look and feel -** Dit is hoe het overzichtstabblad in de beoordelingsinhoud eruit kan zien voor projecten die gedeelde revisies hebben ingeschakeld na 2 oktober 2025:
 
@@ -12,7 +12,7 @@ In het staplint is een voorbeeld van de voortgang van het beoordelingsverzoek zi
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/02-approval-request-step-ribbon.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/12495212-step-ribbon-in-an-approval-request) voor meer informatie over het staplint
+Klik [hier](https://support.catenda.com/nl/articles/12495212-staplint-in-een-beoordelingsverzoek) voor meer informatie over het staplint
 
 ## 2. Vervolgkeuze beoordelingsstap
 
@@ -76,7 +76,7 @@ Het resultaat van de beoordeling wordt onder het stappenoverzicht weergegeven:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0se83h1m/09-approval-request-result.png)
 
-Klik [hier](https://support.catenda.com/nl/articles/12520773-approvals-troubleshooting) voor meer informatie over waarom het publiceren van documenten kan mislukken.
+Klik [hier](https://support.catenda.com/nl/articles/12520773-probleemoplossing-goedkeuringspagina) voor meer informatie over waarom het publiceren van documenten kan mislukken.
 
 ### 5.1 Details weergeven
 

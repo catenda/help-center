@@ -14,7 +14,7 @@ Wenn Sie das Werkzeug-Dropdown öffnen, kann es ungefähr so aussehen:
 
 ## 1. **Objektwähler - Standard**
 
-Mit diesem Werkzeug können Sie auf Objekte klicken, um sie auszuwählen. Die [Tastenkombination](https://support.catenda.com/de/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Object%20picker-,Space,-Laser%20measure) zum Auswählen dieses Werkzeugs ist "Leertaste"
+Mit diesem Werkzeug können Sie auf Objekte klicken, um sie auszuwählen. Die [Tastenkombination](https://support.catenda.com/de/articles/4670267-zusammenfassung-der-wichtigsten-tastenkombinationen-und-grundlegenden-steuerelemente#:~:text=Object%20picker-,Space,-Laser%20measure) zum Auswählen dieses Werkzeugs ist "Leertaste"
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/03-object-picker-default.png)
 
@@ -26,15 +26,15 @@ Um schnell eine Schnittebene zu erstellen, zeigen Sie auf ein Objekt und erstell
 
 ### 2.1 **Schnittebene erstellen**
 
-Klicken Sie hier, um eine [Schnittebene](https://support.catenda.com/de/articles/4670253-clipping-planes) zu erstellen, die parallel zu dem Objekt verläuft, auf das Sie zeigen.
+Klicken Sie hier, um eine [Schnittebene](https://support.catenda.com/de/articles/4670253-schnittebenen) zu erstellen, die parallel zu dem Objekt verläuft, auf das Sie zeigen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/04-create-clipping-plane.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/4670253-clipping-planes), um mehr darüber zu erfahren, wie Sie Schnittebenen erstellen.
+Klicken Sie [hier](https://support.catenda.com/de/articles/4670253-schnittebenen), um mehr darüber zu erfahren, wie Sie Schnittebenen erstellen.
 
 ### 2.2 **Messebene erstellen**
 
-Klicken Sie hier, um eine [Messebene](https://support.catenda.com/de/articles/8360838-measure-plane) zu erstellen, die parallel zu dem Objekt verläuft, auf das Sie zeigen.
+Klicken Sie hier, um eine [Messebene](https://support.catenda.com/de/articles/8360838-messebene) zu erstellen, die parallel zu dem Objekt verläuft, auf das Sie zeigen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/05-create-measure-plane.png)
 
@@ -44,7 +44,7 @@ Das Lasermaß ist eine Funktion, die Oberflächen und Linien findet und automati
 
 ### 3.1 **Lasermaß**
 
-Mit dem Lasermaß können Sie die Abstände zwischen Objekten messen. Die [Tastenkombination](https://support.catenda.com/de/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Laser%20measure-,m,-Tape%20measure) dafür ist "m"
+Mit dem Lasermaß können Sie die Abstände zwischen Objekten messen. Die [Tastenkombination](https://support.catenda.com/de/articles/4670267-zusammenfassung-der-wichtigsten-tastenkombinationen-und-grundlegenden-steuerelemente#:~:text=Laser%20measure-,m,-Tape%20measure) dafür ist "m"
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/06-laser-measure.png)
 
@@ -100,7 +100,7 @@ Messinformationen für jede Messung werden angezeigt.
 
 ### 3.6 Maßband
 
-Messen Sie Abstände zwischen Punkten. Die [Tastenkombination](https://support.catenda.com/de/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Tape%20measure-,Shift%20%2B%20m,-Point%20measure) dafür ist "Umschalt+M"
+Messen Sie Abstände zwischen Punkten. Die [Tastenkombination](https://support.catenda.com/de/articles/4670267-zusammenfassung-der-wichtigsten-tastenkombinationen-und-grundlegenden-steuerelemente#:~:text=Tape%20measure-,Shift%20%2B%20m,-Point%20measure) dafür ist "Umschalt+M"
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/15-tape-measure.png)
 
@@ -114,7 +114,7 @@ Wie beim Laser-Messwerkzeug können Sie auf die Augensymbole klicken, um die ver
 
 ### 3.7 **Punktmessung**
 
-Messen Sie Koordinaten. Die [Tastenkombination](https://support.catenda.com/de/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Point%20measure-,Ctrl%20%2B%20m,-Content%20panel) dafür ist "Strg+M"
+Messen Sie Koordinaten. Die [Tastenkombination](https://support.catenda.com/de/articles/4670267-zusammenfassung-der-wichtigsten-tastenkombinationen-und-grundlegenden-steuerelemente#:~:text=Point%20measure-,Ctrl%20%2B%20m,-Content%20panel) dafür ist "Strg+M"
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/18-point-measure.png)
 

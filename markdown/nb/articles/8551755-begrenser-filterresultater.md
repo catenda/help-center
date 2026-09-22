@@ -42,7 +42,7 @@ For å filtrere etter settet med lagrede filtre, klikker du bare på ditt lagred
 
 ## 6. **Deling av lagrede filtre med prosjektmedlemmer**
 
-Som nevnt før, blir lagrede filtre bare lagret for deg. Når du aktiverer filteret, vil du se filtrene vises i søkelinjen. Når du gjør dette, endres også URL-en på siden for å inneholde filtrene. En enkel måte å dele dine lagrede filtre med brukere på er derfor ved å sende den filtrerte siden i en melding eller via [Sharelink](https://support.catenda.com/nb/articles/4728886-sharelink-notify-people-about-catenda-hub-content). Hvis du vil at personer i prosjektet skal ha tilgang til disse filtrene uten å måtte sende dem til hvert medlem individuelt, kan du opprette en lenke i [lenkebibiloteket](https://support.catenda.com/nb/articles/4670254-links-library). Dette er spesielt nyttig fordi lenken med filtrene deretter kan kobles til saker og objekter.
+Som nevnt før, blir lagrede filtre bare lagret for deg. Når du aktiverer filteret, vil du se filtrene vises i søkelinjen. Når du gjør dette, endres også URL-en på siden for å inneholde filtrene. En enkel måte å dele dine lagrede filtre med brukere på er derfor ved å sende den filtrerte siden i en melding eller via [Sharelink](https://support.catenda.com/nb/articles/4728886-sharelink-varsle-personer-om-catenda-hub-innhold). Hvis du vil at personer i prosjektet skal ha tilgang til disse filtrene uten å måtte sende dem til hvert medlem individuelt, kan du opprette en lenke i [lenkebibiloteket](https://support.catenda.com/nb/articles/4670254-lenker-bibliotek). Dette er spesielt nyttig fordi lenken med filtrene deretter kan kobles til saker og objekter.
 
 ## 7. **Preferanse for å utvide og trekke sammen filtre**
 
@@ -53,31 +53,31 @@ Dine preferanser for å utvide og trekke sammen filtermenyer på ulike sider vil
 Du vil kunne lagre filtre på følgende sider:
 
 - Startside
-  - [Varselsside for konto](https://support.catenda.com/nb/articles/7439223-account-notifications-page)
+  - [Varselsside for konto](https://support.catenda.com/nb/articles/7439223-siden-for-kontovarsler)
   - Organisasjonsverktøy
-    - [Brukerside](https://support.catenda.com/nb/articles/8508311-users-page-organization-tool)
-    - [Prosjektside](https://support.catenda.com/nb/articles/8505058-projects-page-organization-tool)
-    - [Prosjektmedlemskapside](https://support.catenda.com/nb/articles/9003642-project-memberships-organization-tool)
+    - [Brukerside](https://support.catenda.com/nb/articles/8508311-brukersiden-organisasjonsverktoy)
+    - [Prosjektside](https://support.catenda.com/nb/articles/8505058-prosjektsside-organisasjonsverktoy)
+    - [Prosjektmedlemskapside](https://support.catenda.com/nb/articles/9003642-prosjektmedlemskap-organisasjonsverktoy)
 - Prosjekt
-  - [Sakstabell](https://support.catenda.com/nb/articles/8370693-filtering-on-the-issues-page)
+  - [Sakstabell](https://support.catenda.com/nb/articles/8370693-filtrering-pa-sakssiden)
   - Modeller
-    - [Modellside](https://support.catenda.com/nb/articles/4670286-models-page)
-    - [Bokmerkerside](https://support.catenda.com/nb/articles/4670281-bookmarks-page)
-    - [Objekterside](https://support.catenda.com/nb/articles/12353642-filtering-on-the-objects-page)
+    - [Modellside](https://support.catenda.com/nb/articles/4670286-modellside)
+    - [Bokmerkerside](https://support.catenda.com/nb/articles/4670281-bokmerke-side)
+    - [Objekterside](https://support.catenda.com/nb/articles/12353642-filtrering-pa-objektsiden)
   - Dokumenter
-    - [Dokumenterside](https://support.catenda.com/nb/articles/4670283-filtering-on-the-documents-page)
-    - [Samlingerside](https://support.catenda.com/nb/articles/6344318-collections-page)
-    - [Godkjenningsside](https://support.catenda.com/nb/articles/8551740-filtering-on-the-approvals-page)
+    - [Dokumenterside](https://support.catenda.com/nb/articles/4670283-filtrering-pa-dokumentsiden)
+    - [Samlingerside](https://support.catenda.com/nb/articles/6344318-samlingside)
+    - [Godkjenningsside](https://support.catenda.com/nb/articles/8551740-filtrering-pa-godkjenningssiden-eldre-versjon)
   - Rapporter
     - Rapportside
   - Bibliotek
-    - [Lenkebibliotek](https://support.catenda.com/nb/articles/4670254-links-library)
-    - [Sharepoint-bibliotek](https://support.catenda.com/nb/articles/5744548-sharepoint-library)
-    - [Dropbox-bibliotek](https://support.catenda.com/nb/articles/8065645-libraries-page)
-    - [Egenskapsverdibibliotek](https://support.catenda.com/nb/articles/4670252-property-value-library)
-    - [Klassifikasjonsbibliotek](https://support.catenda.com/nb/articles/4670255-classification-library)
-  - [Prosjektvarselsside](https://support.catenda.com/nb/articles/4670295-project-notifications-page)
+    - [Lenkebibliotek](https://support.catenda.com/nb/articles/4670254-lenker-bibliotek)
+    - [Sharepoint-bibliotek](https://support.catenda.com/nb/articles/5744548-sharepoint-bibliotek)
+    - [Dropbox-bibliotek](https://support.catenda.com/nb/articles/8065645-biblioteksside)
+    - [Egenskapsverdibibliotek](https://support.catenda.com/nb/articles/4670252-egenskapsverdi-bibliotek)
+    - [Klassifikasjonsbibliotek](https://support.catenda.com/nb/articles/4670255-klassifikasjonsbibliotek)
+  - [Prosjektvarselsside](https://support.catenda.com/nb/articles/4670295-prosjektvarselside)
   - Prosjektinnstillinger
-    - [Tilpasset feltside](https://support.catenda.com/nb/articles/6550459-custom-fields-page)
-    - [Etikettside](https://support.catenda.com/nb/articles/4670265-labels-page)
-    - [Medlemmerside](https://support.catenda.com/nb/articles/4670291-members-and-teams-page)
+    - [Tilpasset feltside](https://support.catenda.com/nb/articles/6550459-siden-for-egendefinerte-felt)
+    - [Etikettside](https://support.catenda.com/nb/articles/4670265-merkelappersiden)
+    - [Medlemmerside](https://support.catenda.com/nb/articles/4670291-medlemmer-og-teams-side)

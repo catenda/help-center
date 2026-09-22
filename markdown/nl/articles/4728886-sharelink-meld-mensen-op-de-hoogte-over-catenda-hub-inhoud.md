@@ -2,7 +2,7 @@
 
 > Meld gebruikers handmatig op de hoogte wanneer dit nodig en belangrijk is.
 
-Zoek de sharelink-knop naar de [bovenkant rechts van de pagina](https://support.catenda.com/nl/articles/4670260-landing-page#h_7e60f1b700) naast uw profielfoto.
+Zoek de sharelink-knop naar de [bovenkant rechts van de pagina](https://support.catenda.com/nl/articles/4670260-accountknoppen#h_7e60f1b700) naast uw profielfoto.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/01-intro.png)
 

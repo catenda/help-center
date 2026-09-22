@@ -1,6 +1,6 @@
 # 2D- und 3D-Ansichtspunkte
 
-2D- und 3D-Ansichtspunkte können als [Kommentar eines Themas](https://support.catenda.com/de/articles/8053352-topic-body-the-content-of-a-topic#h_f76b44d3ca) hinzugefügt werden. Schnappschüsse sind vielseitige Möglichkeiten, um über 2D- und 3D-Informationen zu kommunizieren, da sie nicht nur visuelle Informationen enthalten, sondern auch dazu verwendet werden können, um einen Ort und einen Zeitpunkt in einem Dokument oder Modell zu beschreiben. Die in Schnappschüssen gespeicherten Informationen ermöglichen es Ihnen, mit 2D- und 3D-Informationen zusammenzuarbeiten, da Sie Ihren Schnappschuss in einem beliebigen BCF- und IFC-aktivierten Service wiedergeben können.
+2D- und 3D-Ansichtspunkte können als [Kommentar eines Themas](https://support.catenda.com/de/articles/8053352-themen-text-der-inhalt-eines-themas#h_f76b44d3ca) hinzugefügt werden. Schnappschüsse sind vielseitige Möglichkeiten, um über 2D- und 3D-Informationen zu kommunizieren, da sie nicht nur visuelle Informationen enthalten, sondern auch dazu verwendet werden können, um einen Ort und einen Zeitpunkt in einem Dokument oder Modell zu beschreiben. Die in Schnappschüssen gespeicherten Informationen ermöglichen es Ihnen, mit 2D- und 3D-Informationen zusammenzuarbeiten, da Sie Ihren Schnappschuss in einem beliebigen BCF- und IFC-aktivierten Service wiedergeben können.
 
 So kann ein 3D-Schnappschuss aussehen:
 
@@ -10,13 +10,13 @@ Der untenstehende Schnappschuss hatte das folgende Setup, als der Schnappschuss 
 
 ## 1. **Einen Schnappschuss erstellen**
 
-Wenn Sie ein Modell in 3D geladen haben, können Sie auf die Plus-Schaltfläche links neben dem Themenkommentarfeld klicken, um einen 3D-Schnappschuss an Ihren Kommentar anzuhängen. Wenn Sie den 2D-Viewer geöffnet haben, können Sie auf die Plus-Schaltfläche links neben dem Themenkommentarfeld klicken, um einen 2D-Schnappschuss an Ihren Kommentar anzuhängen. Ein Schnappschuss wird automatisch erstellt, wenn Sie etwas in 2D oder 3D geladen haben und ein neues Thema erstellen. Klicken Sie [hier](https://support.catenda.com/de/articles/10345863-snapshots), um mehr über Schnappschüsse zu erfahren.
+Wenn Sie ein Modell in 3D geladen haben, können Sie auf die Plus-Schaltfläche links neben dem Themenkommentarfeld klicken, um einen 3D-Schnappschuss an Ihren Kommentar anzuhängen. Wenn Sie den 2D-Viewer geöffnet haben, können Sie auf die Plus-Schaltfläche links neben dem Themenkommentarfeld klicken, um einen 2D-Schnappschuss an Ihren Kommentar anzuhängen. Ein Schnappschuss wird automatisch erstellt, wenn Sie etwas in 2D oder 3D geladen haben und ein neues Thema erstellen. Klicken Sie [hier](https://support.catenda.com/de/articles/10345863-3d-schnappschusse), um mehr über Schnappschüsse zu erfahren.
 
 ## 2. **Viewer-Bilder**
 
 Schnappschüsse sind die beste Möglichkeit, hochwertige Bilder oder Renderings aus dem Catenda Hub Viewer aus den folgenden Gründen zu erstellen:
 
-- Schnappschussbilder können aus dem [Anhang-Pop-out](https://support.catenda.com/de/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) heruntergeladen werden.
+- Schnappschussbilder können aus dem [Anhang-Pop-out](https://support.catenda.com/de/articles/8053352-themen-text-der-inhalt-eines-themas#h_e36d14edc8) heruntergeladen werden.
 - Schnappschussbilder können eine höhere Auflösung haben als nur ein Screenshot aus dem Viewer.
 - Schnappschussbilder haben transparente Hintergründe. Bei 3D-Schnappschüssen enthält das Bild nur Pixel, wo es Objekte in 3D gibt. Bei 2D-Schnappschüssen enthält das Bild nur Pixel, wo es Linien in 2D gibt.
 
@@ -132,7 +132,7 @@ Wenn Sie über das Bild eines 2D- oder 3D-Schnappschusses fahren, wird eine Lupe
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/avkn9zqg/12-image-pop-out.png)
 
-Nachdem der Schnappschuss eingereicht wurde, kann das damit verbundene Bild [herausspringend](https://support.catenda.com/de/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) angezeigt werden, um seinen Inhalt in einem größeren Format anzuzeigen und ihn herunterzuladen.
+Nachdem der Schnappschuss eingereicht wurde, kann das damit verbundene Bild [herausspringend](https://support.catenda.com/de/articles/8053352-themen-text-der-inhalt-eines-themas#h_e36d14edc8) angezeigt werden, um seinen Inhalt in einem größeren Format anzuzeigen und ihn herunterzuladen.
 
 ## 6. **Schnappschuss löschen**
 

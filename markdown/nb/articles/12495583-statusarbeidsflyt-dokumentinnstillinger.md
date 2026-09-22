@@ -1,10 +1,10 @@
 # Statusarbeidsflyt - Dokumentinnstillinger
 
-Dette er hvordan statusarbeidsflytmenyen på [dokumentinnstillingssiden](https://support.catenda.com/nb/articles/7831371-document-settings-page) kan se ut for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. I nye prosjekter er statusarbeidsflyten deaktivert som standard. Dette er hvordan statusarbeidsflytmenyen kan se ut:
+Dette er hvordan statusarbeidsflytmenyen på [dokumentinnstillingssiden](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) kan se ut for prosjekter som aktiverte delte revisjoner etter 2. oktober 2025. I nye prosjekter er statusarbeidsflyten deaktivert som standard. Dette er hvordan statusarbeidsflytmenyen kan se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g7ntz7r8/01-intro.png)
 
-Prosjekter som er opprettet basert på et [malprosjekt](https://support.catenda.com/nb/articles/4670245-creating-a-new-project#h_5db32e5398) og prosjekter som aktiverte delte revisjoner før 2. oktober 2025 vil se den gamle statusarbeidsflytmenyen.
+Prosjekter som er opprettet basert på et [malprosjekt](https://support.catenda.com/nb/articles/4670245-opprette-et-nytt-prosjekt#h_5db32e5398) og prosjekter som aktiverte delte revisjoner før 2. oktober 2025 vil se den gamle statusarbeidsflytmenyen.
 
 ## 1. **Delte statusar**
 
@@ -75,7 +75,7 @@ Arkiverte statusar kan alltid bli henta tilbake ved å klikka på "Vis arkiverte
 
 ## 5. Standard status
 
-Statusen som blir vist som standard når publiseringshandlinga blir brukt for ein delt revisjon. Ein annan status kan framleis bli vald før publisering. Delte revisjoner kan òg bli publisert via [gjennomgangsførespurnader](https://support.catenda.com/nb/articles/12494960-open-or-closed-approval-request-page). Avhengig av kva arbeidsflyt innsendar valde på vegne av sitt innsendar-team, når eit medlem gjer ein endelg validering på vegne av det endelege valideringsteamet vil statusen på det publiserte dokumentet endast basert på korleis arbeidsflytoppsettet er konfigurert.
+Statusen som blir vist som standard når publiseringshandlinga blir brukt for ein delt revisjon. Ein annan status kan framleis bli vald før publisering. Delte revisjoner kan òg bli publisert via [gjennomgangsførespurnader](https://support.catenda.com/nb/articles/12494960-apen-eller-lukket-gjennomgangsforesporsel). Avhengig av kva arbeidsflyt innsendar valde på vegne av sitt innsendar-team, når eit medlem gjer ein endelg validering på vegne av det endelege valideringsteamet vil statusen på det publiserte dokumentet endast basert på korleis arbeidsflytoppsettet er konfigurert.
 
 ## 6. Opplastingsmeny
 

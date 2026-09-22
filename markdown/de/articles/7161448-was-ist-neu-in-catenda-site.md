@@ -6,11 +6,11 @@ Wir haben **Catenda Site, die mobile App 3.0.0,** gestartet.
 
 Während Sie offline auf der Baustelle sind, können Sie von nun an:
 
-1. [Projekte offline öffnen](https://support.catenda.com/de/articles/7325268-offline-mode-in-catenda-site#:~:text=Projects%20in%20offline%20mode)
+1. [Projekte offline öffnen](https://support.catenda.com/de/articles/7325268-offline-modus-in-catenda-site#:~:text=Projects%20in%20offline%20mode)
 1. Probleme offline anzeigen / Filtern / Suchen
-1. [Neue Probleme offline erstellen](https://support.catenda.com/de/articles/7325268-offline-mode-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
-1. [Kommentare hinzufügen / Aktualisieren / Löschen](https://support.catenda.com/de/articles/7325268-offline-mode-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues) mit Bildern und Ansichtspunkten offline
-1. Reichen Sie alle Ihre Offline-Änderungen über [den neuen Ausgangsbildschirm](https://support.catenda.com/de/articles/7325268-offline-mode-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue) ein<br>
+1. [Neue Probleme offline erstellen](https://support.catenda.com/de/articles/7325268-offline-modus-in-catenda-site#:~:text=to%20the%20network.-,New%20issues,-When%20you%20loose)
+1. [Kommentare hinzufügen / Aktualisieren / Löschen](https://support.catenda.com/de/articles/7325268-offline-modus-in-catenda-site#:~:text=Comments%20on%20previously%20loaded%20issues) mit Bildern und Ansichtspunkten offline
+1. Reichen Sie alle Ihre Offline-Änderungen über [den neuen Ausgangsbildschirm](https://support.catenda.com/de/articles/7325268-offline-modus-in-catenda-site#:~:text=the%20outbox%20yet-,Outbox,-In%20an%20issue) ein<br>
 
 ## 2. Dokumentensammlungen
 

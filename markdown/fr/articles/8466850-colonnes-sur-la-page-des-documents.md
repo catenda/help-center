@@ -1,6 +1,6 @@
 # Colonnes sur la page des documents
 
-Dans le [tableau des documents](https://support.catenda.com/fr/articles/8204673-documents-page#h_54e8dfcac2) sur la [page des documents](https://support.catenda.com/fr/articles/8204673-documents-page), vous pourrez voir plusieurs colonnes dans la ligne d'en-tête qui peuvent être réorganisées et activées/désactivées avec le [menu déroulant des colonnes](https://support.catenda.com/fr/articles/8204673-documents-page#h_9022dce579).
+Dans le [tableau des documents](https://support.catenda.com/fr/articles/8204673-page-documents#h_54e8dfcac2) sur la [page des documents](https://support.catenda.com/fr/articles/8204673-page-documents), vous pourrez voir plusieurs colonnes dans la ligne d'en-tête qui peuvent être réorganisées et activées/désactivées avec le [menu déroulant des colonnes](https://support.catenda.com/fr/articles/8204673-page-documents#h_9022dce579).
 
 ## 1. **Ordre des colonnes**
 
@@ -10,7 +10,7 @@ Il existe un ordre de colonnes par défaut si vous n'avez qu'un seul panneau ouv
 
 ## 2. **Case à cocher** - Par défaut 1 panneau
 
-Sélectionnez la case à cocher de la première ligne pour sélectionner tous les documents de ce dossier. Vous pouvez également sélectionner les documents un par un en sélectionnant la case à cocher sur le côté gauche. Voir [ici](https://support.catenda.com/fr/articles/8204673-documents-page#h_61be2cfecf) pour plus d'options de sélection.
+Sélectionnez la case à cocher de la première ligne pour sélectionner tous les documents de ce dossier. Vous pouvez également sélectionner les documents un par un en sélectionnant la case à cocher sur le côté gauche. Voir [ici](https://support.catenda.com/fr/articles/8204673-page-documents#h_61be2cfecf) pour plus d'options de sélection.
 
 ## 3. **Colonne d'icône** - Par défaut 1 panneau, Multipanneau par défaut
 
@@ -28,7 +28,7 @@ Pour la plupart des documents, l'icône du type de fichier s'affichera. Pour les
 
 **Badge de modèle** Les documents liés à un modèle sur la page des modèles affichent un badge de modèles en bas à gauche.
 
-**Configuration du dossier** Si le dossier parent du document a été configuré dans [paramètres de document](https://support.catenda.com/fr/articles/7831371-document-settings), vous verrez un badge d'engrenage gris en bas à droite de l'icône du document.
+**Configuration du dossier** Si le dossier parent du document a été configuré dans [paramètres de document](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document), vous verrez un badge d'engrenage gris en bas à droite de l'icône du document.
 
 ### 3.3 **Icônes de dossier**
 
@@ -52,7 +52,7 @@ Le nom du document tel qu'il apparaît dans la section des documents. Cliquez su
 
 ### 4.1 **Modification du nom du document**
 
-Si vous avez sélectionné un document ou un dossier, vous pouvez modifier le nom en cliquant sur le crayon à côté du nom du document dans le [menu d'informations de droite](https://support.catenda.com/fr/articles/8345396-right-menu-on-the-documents-page). _Accès requis :_ Accès complet au document ou accès en écriture au dossier
+Si vous avez sélectionné un document ou un dossier, vous pouvez modifier le nom en cliquant sur le crayon à côté du nom du document dans le [menu d'informations de droite](https://support.catenda.com/fr/articles/8345396-menu-de-droite-sur-la-page-documents). _Accès requis :_ Accès complet au document ou accès en écriture au dossier
 
 ### 4.2 **Ancre de ligne**
 
@@ -80,7 +80,7 @@ Si le document est lié à un modèle, vous verrez le nom du modèle ici. Ce nom
 
 ## 7. **Statut** - Par défaut 1 panneau - Statuts de document uniquement
 
-Les statuts de document peuvent être activés dans [paramètres de document](https://support.catenda.com/fr/articles/7831371-document-settings). Si le flux de travail du statut a été activé, des statuts peuvent avoir été attribués aux révisions du document. Des listes de statuts distinctes peuvent être appliquées selon que la révision est publiée ou qu'il s'agisse d'un brouillon. Dans cette colonne, vous pouvez voir le statut de la dernière révision publiée dans le document.
+Les statuts de document peuvent être activés dans [paramètres de document](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document). Si le flux de travail du statut a été activé, des statuts peuvent avoir été attribués aux révisions du document. Des listes de statuts distinctes peuvent être appliquées selon que la révision est publiée ou qu'il s'agisse d'un brouillon. Dans cette colonne, vous pouvez voir le statut de la dernière révision publiée dans le document.
 
 ## 8. **Taille** - Par défaut 1 panneau
 
@@ -110,7 +110,7 @@ Si vous avez activé le flux de travail du statut du document, le comportement d
 
 ## 12. **Liens** - Par défaut 1 panneau, Multipanneau par défaut
 
-Affiche le nombre d'objets qui sont [liés à ce document](https://support.catenda.com/fr/articles/4670322-how-can-i-link-a-document-to-an-object-in-catenda-hub) Si vous cliquez dessus, vous pouvez faire ce qui suit :
+Affiche le nombre d'objets qui sont [liés à ce document](https://support.catenda.com/fr/articles/4670322-comment-puis-je-lier-un-document-a-un-objet-dans-catenda-hub) Si vous cliquez dessus, vous pouvez faire ce qui suit :
 
 - Sélectionner des objets
 - Isoler les objets
@@ -118,10 +118,10 @@ Affiche le nombre d'objets qui sont [liés à ce document](https://support.caten
 
 ## 13. **Visionneuse** - Par défaut 1 panneau
 
-Pour les documents IFC qui ont été liés aux modèles, aux nuages de points et aux documents GML, vous verrez un bouton 2D, 3D et zoom sur l'étendue dans cette colonne. Ces boutons peuvent être utilisés pour ouvrir la [vue 2D](https://support.catenda.com/fr/articles/4854537-2d-viewer) ou la [vue 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer) d'un modèle de document à partir de la structure du document. Pour la 3D, plusieurs modèles de documents peuvent être sélectionnés et l'action 3D peut être utilisée pour les ouvrir tous à la fois. Le bouton central vous permettra de vous centrer sur ce modèle s'il est chargé en 3D. Voici à quoi peut ressembler un document ifc connecté à un modèle :
+Pour les documents IFC qui ont été liés aux modèles, aux nuages de points et aux documents GML, vous verrez un bouton 2D, 3D et zoom sur l'étendue dans cette colonne. Ces boutons peuvent être utilisés pour ouvrir la [vue 2D](https://support.catenda.com/fr/articles/4854537-visionneuse-2d) ou la [vue 3D](https://support.catenda.com/fr/articles/8227211-visionneuse-3d) d'un modèle de document à partir de la structure du document. Pour la 3D, plusieurs modèles de documents peuvent être sélectionnés et l'action 3D peut être utilisée pour les ouvrir tous à la fois. Le bouton central vous permettra de vous centrer sur ce modèle s'il est chargé en 3D. Voici à quoi peut ressembler un document ifc connecté à un modèle :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/42c02fpr/05-viewer-default-1-panel.png)
 
 ## 14. **Champs personnalisés**
 
-Une colonne par champ personnalisé qui est ajouté au dossier parent configuré, voir [paramètres de document](https://support.catenda.com/fr/articles/7831371-document-settings#h_6672c14d90)
+Une colonne par champ personnalisé qui est ajouté au dossier parent configuré, voir [paramètres de document](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document#h_6672c14d90)

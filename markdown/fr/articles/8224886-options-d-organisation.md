@@ -42,7 +42,7 @@ Gestion de la mise en quarantaine des fichiers infectés dans les projets possé
 
 ### 3.3 **Modèles en tant que documents**
 
-Si cette fonctionnalité est activée, tous les nouveaux projets créés dans l'organisation auront la fonctionnalité [Modèles en tant que documents](https://support.catenda.com/fr/articles/8064548-models-as-documents) activée.
+Si cette fonctionnalité est activée, tous les nouveaux projets créés dans l'organisation auront la fonctionnalité [Modèles en tant que documents](https://support.catenda.com/fr/articles/8064548-modeles-en-tant-que-documents) activée.
 
 > **Remarque :** 24 novembre : Cette fonctionnalité sera activée pour toutes les nouvelles organisations. Nous supporterons l'ancienne vue pendant environ un an avant que tous les projets ne soient migrés.
 
@@ -92,10 +92,10 @@ Quand c'est fait, votre administrateur système devra nous recontacter avec l'UR
 
 Cette option vous permet de désactiver la fonctionnalité de partage public pour tous les projets de votre organisation. Si cette option est activée, il ne sera plus possible de :
 
-- [Activer les URL publiques pour les Signets](https://support.catenda.com/fr/articles/6423215-public-bookmarks-short-video).
-- [Activer les URL publiques pour les collections de documents](https://support.catenda.com/fr/articles/6344318-collections-page#h_c1e1a2a402).
-- [Partager les collections de documents par email](https://support.catenda.com/fr/articles/6344318-collections-page#h_c1e1a2a402).
+- [Activer les URL publiques pour les Signets](https://support.catenda.com/fr/articles/6423215-signets-publics-courte-video).
+- [Activer les URL publiques pour les collections de documents](https://support.catenda.com/fr/articles/6344318-page-collections#h_c1e1a2a402).
+- [Partager les collections de documents par email](https://support.catenda.com/fr/articles/6344318-page-collections#h_c1e1a2a402).
 
 ## 6. **Domaines**
 
-Vous pouvez demander qu'un domaine soit ajouté à votre organisation. Si un domaine a été enregistré auprès de votre organisation, l'option "ajouter à partir du domaine" apparaîtra sur la page des utilisateurs de votre organisation dans l'[outil d'organisation](http://hub.catenda.com/orgs). Cela vous permettra d'ajouter des utilisateurs de votre organisation à vos projets sans avoir à les inviter via des [invitations par email](https://support.catenda.com/fr/articles/4670319-how-can-i-invite-new-members-to-a-project). Si vous ne trouvez pas un utilisateur de votre organisation, c'est très probablement parce qu'il n'a pas encore créé de compte Catenda et nous ne l'avons pas dans notre système. Les utilisateurs de votre domaine qui n'ont pas encore de compte devront être [invités](https://support.catenda.com/fr/articles/4670319-how-can-i-invite-new-members-to-a-project) de la manière habituelle afin qu'ils puissent rejoindre le projet et créer un compte. Les utilisateurs des domaines qui n'ont pas été ajoutés devront toujours être invités avec l'[invitation par email](https://support.catenda.com/fr/articles/4670319-how-can-i-invite-new-members-to-a-project) habituelle.
+Vous pouvez demander qu'un domaine soit ajouté à votre organisation. Si un domaine a été enregistré auprès de votre organisation, l'option "ajouter à partir du domaine" apparaîtra sur la page des utilisateurs de votre organisation dans l'[outil d'organisation](http://hub.catenda.com/orgs). Cela vous permettra d'ajouter des utilisateurs de votre organisation à vos projets sans avoir à les inviter via des [invitations par email](https://support.catenda.com/fr/articles/4670319-comment-puis-je-inviter-un-membre). Si vous ne trouvez pas un utilisateur de votre organisation, c'est très probablement parce qu'il n'a pas encore créé de compte Catenda et nous ne l'avons pas dans notre système. Les utilisateurs de votre domaine qui n'ont pas encore de compte devront être [invités](https://support.catenda.com/fr/articles/4670319-comment-puis-je-inviter-un-membre) de la manière habituelle afin qu'ils puissent rejoindre le projet et créer un compte. Les utilisateurs des domaines qui n'ont pas été ajoutés devront toujours être invités avec l'[invitation par email](https://support.catenda.com/fr/articles/4670319-comment-puis-je-inviter-un-membre) habituelle.

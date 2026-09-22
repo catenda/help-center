@@ -1,6 +1,6 @@
 # Rechtermenu op de modellenpagina
 
-Het rechtermenu met informatie is te vinden door een model op de [modellenpagina](https://support.catenda.com/nl/articles/4670286-models-page) te selecteren of door de [inhoudspagina](https://support.catenda.com/nl/articles/4670270-model-overview-page) van een model te openen.
+Het rechtermenu met informatie is te vinden door een model op de [modellenpagina](https://support.catenda.com/nl/articles/4670286-modellapagina) te selecteren of door de [inhoudspagina](https://support.catenda.com/nl/articles/4670270-pagina-met-modelinhoud) van een model te openen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/dcxbjfs1/01-intro.png)
 
@@ -32,7 +32,7 @@ Upload een lokale afbeelding of voeg rechtstreeks een snapshot van de 3D-viewer 
 
 _Modelafbeelding in rechtermenu_ Wanneer toegevoegd, wordt de afbeelding bovenaan het rechtermenu van een model weergegeven wanneer een enkel model is geselecteerd of wanneer het menu open is op de modelinhoudspagina. De toegevoegde afbeelding wordt weergegeven in het rechtermenu van een modelrevisie wanneer één model is geselecteerd, evenals in de miniatuur van het model in de naamkolom van de modelstabel.
 
-Klik [hier](https://support.catenda.com/nl/articles/4670257-creating-a-thumbnail-for-your-model) voor meer informatie over het toevoegen van een afbeelding voor een model.
+Klik [hier](https://support.catenda.com/nl/articles/4670257-een-miniatuur-voor-uw-model-maken) voor meer informatie over het toevoegen van een afbeelding voor een model.
 
 **Modelminiatuur** Wanneer toegevoegd, wordt de afbeelding als miniatuur voor het model weergegeven in de naamkolom van de modelstabel op de modellenpagina.
 
@@ -62,7 +62,7 @@ De verschillende teamleden die revisies hebben geupload en zodoende aan het mode
 
 ## 3. **Modeltransformatie**
 
-Met modeltransformatie kunnen modelobjecten op een ander locatie en oriëntatie binnen de Catenda Hub 3D-viewer worden weergegeven. Deze transformatie is alleen van toepassing op modellen in de 3D-viewer en niet op 3D-documenten die in de 3D-viewer zijn geladen. Klik [hier](https://support.catenda.com/nl/articles/12498975-add-context-to-your-projects-with-freely-accessible-ign-point-clouds-hd-lidar) voor meer informatie over de transformatie van 3D-documenten.
+Met modeltransformatie kunnen modelobjecten op een ander locatie en oriëntatie binnen de Catenda Hub 3D-viewer worden weergegeven. Deze transformatie is alleen van toepassing op modellen in de 3D-viewer en niet op 3D-documenten die in de 3D-viewer zijn geladen. Klik [hier](https://support.catenda.com/nl/articles/12498975-gratis-ign-puntenwolken-hd-lidar-toevoegen-aan-een-project) voor meer informatie over de transformatie van 3D-documenten.
 
 **Modellen uitwisselen met externe tools** Modellen worden vaak van Catenda gedownload en in een third-party programma geopend. Het blijft daarom belangrijk om de juiste coördinaten in het IFC-bestand te configureren voordat u uploadt, zodat het gedownloade bestand de juiste informatie bevat.
 

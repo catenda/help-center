@@ -1,6 +1,6 @@
 # Handlinger i dokumenttabellen
 
-Avhengig av din tilgang og valg kan du se ulike handlinger for dokumentene og mappene dine på [dokumentsiden](https://support.catenda.com/nb/articles/8204673-documents-page).
+Avhengig av din tilgang og valg kan du se ulike handlinger for dokumentene og mappene dine på [dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side).
 
 _Denne artikkelen inneholder informasjon om følgende saker:_
 
@@ -14,7 +14,7 @@ Handlingene du finner her omhandler alle opprettelse av ny informasjon. [Valgte 
 
 ### 1.1 **Last opp**
 
-Både plus-knappen og Last opp-handlingen åpner en "Last opp et dokument"-meny. Klikk [her](https://support.catenda.com/nb/articles/4670278-uploading-a-document#h_00fa77db3e) for å se hvordan Last opp-dialogboksen fungerer. _Nødvendig tilgang:_ Skrivetilgang til mappen du er i eller til dokumentet(ene) eller mappen(e) i mappen du er i. Tilgang til [lasting av utkastrevisjoner med skrivebeskyttet tilgang](https://support.catenda.com/nb/articles/4670273-project-settings-page#h_f82a1850f3) kan også gis i prosjektinnstillinger.
+Både plus-knappen og Last opp-handlingen åpner en "Last opp et dokument"-meny. Klikk [her](https://support.catenda.com/nb/articles/4670278-laster-opp-et-dokument#h_00fa77db3e) for å se hvordan Last opp-dialogboksen fungerer. _Nødvendig tilgang:_ Skrivetilgang til mappen du er i eller til dokumentet(ene) eller mappen(e) i mappen du er i. Tilgang til [lasting av utkastrevisjoner med skrivebeskyttet tilgang](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger#h_f82a1850f3) kan også gis i prosjektinnstillinger.
 
 ### 1.2 **Ny mappe**
 
@@ -26,7 +26,7 @@ Når du oppretter en dokumentstruktur eller må lage mange mapper på en gang, k
 
 ### 1.3 **Last opp zip**
 
-Handlingen Last opp zip lar deg pakke ut innholdet i en zip-fil i dokumentstrukturen. Det er også mulig å laste opp et zip-dokument med knappen Last opp-handling, men da får du det bare som en zippet fil og du ser ikke innholdet i zip-filen. Klikk [her](https://support.catenda.com/nb/articles/7945410-upload-a-zip-file-structure#h_54ace27f24) for å lese mer om hvordan du laster opp en zip til Catenda.
+Handlingen Last opp zip lar deg pakke ut innholdet i en zip-fil i dokumentstrukturen. Det er også mulig å laste opp et zip-dokument med knappen Last opp-handling, men da får du det bare som en zippet fil og du ser ikke innholdet i zip-filen. Klikk [her](https://support.catenda.com/nb/articles/7945410-last-opp-en-zip-filstruktur#h_54ace27f24) for å lese mer om hvordan du laster opp en zip til Catenda.
 
 **Nødvendig tilgang:** Skrivetilgang til mappen du er i nå. Hvis du bruker alternativet Opprett nytt utkast: Skrivetilgang til mappene med samme navn og strukturplassering som mapper i zipen i forhold til hvor du laster opp zipen Skrivetilgang til dokumentene du kanskje legger til revisjoner for.
 
@@ -88,21 +88,21 @@ Rapporteringsverktøyet kan forespørres aktivert på per-prosjekt-basis. Med Ra
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/11-report.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/13973721-create-report-action) for å lese mer om Rapport-handlingen. _Nødvendig tilgang:_ Lesetilgang til dokumentet
+Klikk [her](https://support.catenda.com/nb/articles/13973721-opprett-rapporthandling) for å lese mer om Rapport-handlingen. _Nødvendig tilgang:_ Lesetilgang til dokumentet
 
 ### 2.5 **Publiser**
 
-Med [revisjonpublisering](https://support.catenda.com/nb/articles/9874698-revision-publishing-iso-19650) aktivert kan arbeidsarealet og publiserte faner ses øverst på modellsiden.
+Med [revisjonpublisering](https://support.catenda.com/nb/articles/9874698-ny-statusarbeidsflyt-iso-19650) aktivert kan arbeidsarealet og publiserte faner ses øverst på modellsiden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/12-publish.png)
 
-I arbeidsarealet-fanen kan delte revisjoner ses. Du kan skille delte revisjoner fra publiserte revisjoner ved ikonet i revisjonskolonnen og det faktum at de har et mindre revisjonsnummer (0.1, 0.2, 1.1, osv...) _Nødvendig tilgang:_ Vis delte revisjoner i dokument-modell-tilgangsinnstillinger Etter å ha aktivert statusarbeidsflyten vil hver ny revisjon i et dokument starte som en delt revisjon som kan publiseres. Velg ett eller flere dokumenter der den siste revisjonen er en delt revisjon for å se Publiser-handlingen i handlingsmenyen. _Nødvendig tilgang:_ Kan publisere i dokument-tilgangsinnstillinger Med Publiser-handlingen kan du publisere den siste delte revisjonen. Hvis du ønsker å publisere en tidligere delt revisjon, kan du publisere den fra [revisjonsforhåndsvisningen](https://support.catenda.com/nb/articles/9323521-document-revision-actions).
+I arbeidsarealet-fanen kan delte revisjoner ses. Du kan skille delte revisjoner fra publiserte revisjoner ved ikonet i revisjonskolonnen og det faktum at de har et mindre revisjonsnummer (0.1, 0.2, 1.1, osv...) _Nødvendig tilgang:_ Vis delte revisjoner i dokument-modell-tilgangsinnstillinger Etter å ha aktivert statusarbeidsflyten vil hver ny revisjon i et dokument starte som en delt revisjon som kan publiseres. Velg ett eller flere dokumenter der den siste revisjonen er en delt revisjon for å se Publiser-handlingen i handlingsmenyen. _Nødvendig tilgang:_ Kan publisere i dokument-tilgangsinnstillinger Med Publiser-handlingen kan du publisere den siste delte revisjonen. Hvis du ønsker å publisere en tidligere delt revisjon, kan du publisere den fra [revisjonsforhåndsvisningen](https://support.catenda.com/nb/articles/9323521-dokumentrevisjonshandlinger).
 
 ### 2.6 **Forhåndsvisning**
 
 For å forhåndsvise ditt valgte dokument eller dine valgte dokumenter kan du enten klikke på Forhåndsvisning-handlingsknappen i hamburger-menyen eller klikke på ikonet for dokumentet i dokumentlisten. Du vil da få en forhåndsvisningsdialogboks som du kan bruke til å enkelt forhåndsvise de ulike dokumentene uten å måtte åpne siden for hvert dokument. Dette er spesielt fint hvis du prøver å forhåndsvise mange bilder, men kan også være nyttig hvis du trenger å se to dokumenter side ved side da du kan feste forhåndsvisningen slik at den forblir åpen. _Nødvendig tilgang:_ Lesetilgang
 
-> **Merk:** Mapper og utkastdokumenter kan ikke forhåndsvises i forhåndsvisningsdialogboksen. Utkastdokumenter kan fortsatt forhåndsvises på [dokumentsiden deres](https://support.catenda.com/nb/articles/8461918-document-banner-navigation).
+> **Merk:** Mapper og utkastdokumenter kan ikke forhåndsvises i forhåndsvisningsdialogboksen. Utkastdokumenter kan fortsatt forhåndsvises på [dokumentsiden deres](https://support.catenda.com/nb/articles/8461918-dokumentbanner-navigasjon).
 
 ### 2.7 **3D-modeller**
 
@@ -114,17 +114,17 @@ Hvis du har valgt ett dokument, kan du laste opp en ny revisjon ved å klikke p�
 
 ### 2.9 **Opprett og fjern modell**
 
-**Opprett modell** Et valgt dokument med utvidelsen `.ifc` eller `.ifczip` kan lenkes til en modell i modellseksjonen med Opprett modell-handlingen. Første gang en modell-lenke opprettes for et dokument, vil modellen som vises på modellsiden ha samme navn som dokumentet den ble opprettet fra. Både navnet på modellen på modellsiden og navnet på dokumentet kan senere endres. Et dokument som tidligere hadde en modell-lenke vil huske hvilket navn modellen hadde og bruke det tidligere navnet som den fjernede modellen hadde når en ny modell-lenke opprettes, selv om det gjeldende dokumentnavnet er annerledes. _Nødvendig tilgang:_ Skrivetilgang til [opprett og fjern modeller](https://support.catenda.com/nb/articles/4670273-project-settings-page#h_f82a1850f3) i prosjektinnstillinger
+**Opprett modell** Et valgt dokument med utvidelsen `.ifc` eller `.ifczip` kan lenkes til en modell i modellseksjonen med Opprett modell-handlingen. Første gang en modell-lenke opprettes for et dokument, vil modellen som vises på modellsiden ha samme navn som dokumentet den ble opprettet fra. Både navnet på modellen på modellsiden og navnet på dokumentet kan senere endres. Et dokument som tidligere hadde en modell-lenke vil huske hvilket navn modellen hadde og bruke det tidligere navnet som den fjernede modellen hadde når en ny modell-lenke opprettes, selv om det gjeldende dokumentnavnet er annerledes. _Nødvendig tilgang:_ Skrivetilgang til [opprett og fjern modeller](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger#h_f82a1850f3) i prosjektinnstillinger
 
 **Fjern modell** Lenken til et dokument som er lenket til en modell kan fjernes med Fjern modell-handlingen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/13-create-and-remove-model.png)
 
-Når modell-lenken fjernes, forsvinner modellen fra modellseksjonen mens dokumentet forblir i dokumentseksjonen. En modell-lenke kan senere opprettes fra samme dokument igjen. _Nødvendig tilgang:_ Skrivetilgang til [opprett og fjern modeller](https://support.catenda.com/nb/articles/4670273-project-settings-page#h_f82a1850f3) i prosjektinnstillinger
+Når modell-lenken fjernes, forsvinner modellen fra modellseksjonen mens dokumentet forblir i dokumentseksjonen. En modell-lenke kan senere opprettes fra samme dokument igjen. _Nødvendig tilgang:_ Skrivetilgang til [opprett og fjern modeller](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger#h_f82a1850f3) i prosjektinnstillinger
 
 ### 2.10 **Kopier lenke**
 
-Med Kopier lenke-handlingen kan en lenke som viser bare de valgte tabellradene kopieres. Klikk [her](https://support.catenda.com/nb/articles/14323982-copy-link-action) for å lere mer om kopiering av lenker.
+Med Kopier lenke-handlingen kan en lenke som viser bare de valgte tabellradene kopieres. Klikk [her](https://support.catenda.com/nb/articles/14323982-kopier-lenkeslipp) for å lere mer om kopiering av lenker.
 
 ### 2.11 **Sletting og gjenoppretting**
 
@@ -140,10 +140,10 @@ _Objektrelasjoner_ Et slettet dokument som ble lenket til en gjenstand, fjernes 
 
 ## 3. **Handlinger for gjeldende mappe**
 
-Hvis du har åpnet en mappe, men ikke valgt noe, vil [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8302244-right-menu-in-a-document) vise handlinger for mappen du er i. Den høyre informasjonsmenyen kan være lukket, og du må kanskje klikke på pilen på høyre side for å åpne den. Disse handlingene kan se omtrent slik ut:
+Hvis du har åpnet en mappe, men ikke valgt noe, vil [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon) vise handlinger for mappen du er i. Den høyre informasjonsmenyen kan være lukket, og du må kanskje klikke på pilen på høyre side for å åpne den. Disse handlingene kan se omtrent slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/yvm5kp30/14-current-folder-actions.png)
 
-Fordi du ikke har valgt noe, vil de valgte vareopplastingene ikke vises øverst i dokumenttabellen. I stedet vil du kunne utføre handlinger på mappen du er i med ikonene og hamburger-menyen i [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8302244-right-menu-in-a-document).
+Fordi du ikke har valgt noe, vil de valgte vareopplastingene ikke vises øverst i dokumenttabellen. I stedet vil du kunne utføre handlinger på mappen du er i med ikonene og hamburger-menyen i [høyre informasjonsmeny](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon).
 
 **Nødvendig tilgang:** Last ned: Lesetilgang til gjeldende mappe Flytt: Full tilgang til gjeldende mappe og skrivetilgang til plasseringen du flytter mappen til. Slett: Full tilgang til gjeldende mappe og dens innhold.

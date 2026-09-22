@@ -2,7 +2,7 @@
 
 > Beskriver 3D-viserverktøyene i Catenda Hub
 
-Etter lasting av en 3D-modell i [3D-viseren](https://support.catenda.com/nb/articles/8227211-3d-viewer), finner du [verktøy-rullegardinknappen](https://support.catenda.com/nb/articles/8227211-3d-viewer#h_003a4c0a62) øverst til høyre.
+Etter lasting av en 3D-modell i [3D-viseren](https://support.catenda.com/nb/articles/8227211-3d-viser), finner du [verktøy-rullegardinknappen](https://support.catenda.com/nb/articles/8227211-3d-viser#h_003a4c0a62) øverst til høyre.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/01-intro.png)
 
@@ -14,11 +14,11 @@ Når du åpner verktøy-rullegardinmenyen, kan den se omtrent slik ut:
 
 ## 1. **Objektvelger – Standard**
 
-Med dette verktøyet kan du klikke på objekter for å velge dem. [Tastatursnarvei](https://support.catenda.com/nb/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Object%20picker-,Space,-Laser%20measure) for å velge dette verktøyet er "mellomrom"
+Med dette verktøyet kan du klikke på objekter for å velge dem. [Tastatursnarvei](https://support.catenda.com/nb/articles/4670267-sammendrag-av-de-viktigste-snarveiene-og-grunnleggende-kontroller#:~:text=Object%20picker-,Space,-Laser%20measure) for å velge dette verktøyet er "mellomrom"
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/03-object-picker-default.png)
 
-Etter at du har valgt et objekt, holder du Ctrl nede for å velge flere objekter. Objekter kan også velges med rektangulært utvalg i [2D-viseren](https://support.catenda.com/nb/articles/4854537-2d-viewer#h_042dc145fa).
+Etter at du har valgt et objekt, holder du Ctrl nede for å velge flere objekter. Objekter kan også velges med rektangulært utvalg i [2D-viseren](https://support.catenda.com/nb/articles/4854537-2d-viser#h_042dc145fa).
 
 ## 2. **Klippeplaner**
 
@@ -26,15 +26,15 @@ For raskt å opprette en klippe-plan, peker du på et objekt og oppretter en kli
 
 ### 2.1 **Opprett klippeplan**
 
-Klikk her for å opprette en [klippe-plan](https://support.catenda.com/nb/articles/4670253-clipping-planes) som er parallell med objektet du holder musen over.
+Klikk her for å opprette en [klippe-plan](https://support.catenda.com/nb/articles/4670253-klippeplaner) som er parallell med objektet du holder musen over.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/04-create-clipping-plane.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/4670253-clipping-planes) for å lære mer om hvordan du lager klippeplaner.
+Klikk [her](https://support.catenda.com/nb/articles/4670253-klippeplaner) for å lære mer om hvordan du lager klippeplaner.
 
 ### 2.2 **Opprett måleplan**
 
-Klikk her for å opprette en [måleplan](https://support.catenda.com/nb/articles/8360838-measure-plane) som er parallell med objektet du holder musen over.
+Klikk her for å opprette en [måleplan](https://support.catenda.com/nb/articles/8360838-maleplan) som er parallell med objektet du holder musen over.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/05-create-measure-plane.png)
 
@@ -44,7 +44,7 @@ Lasermål er en funksjon som finner flater og linjer og gir deg automatisk måli
 
 ### 3.1 **Lasermål**
 
-Lasermåleren lar deg måle avstander mellom objekter. [Tastatursnarvei](https://support.catenda.com/nb/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Laser%20measure-,m,-Tape%20measure) for dette er "m"
+Lasermåleren lar deg måle avstander mellom objekter. [Tastatursnarvei](https://support.catenda.com/nb/articles/4670267-sammendrag-av-de-viktigste-snarveiene-og-grunnleggende-kontroller#:~:text=Laser%20measure-,m,-Tape%20measure) for dette er "m"
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/06-laser-measure.png)
 
@@ -100,7 +100,7 @@ Måleinformasjon for hver måling vises.
 
 ### 3.6 Målebånd
 
-Måle avstander mellom punkter. [Tastatursnarvei](https://support.catenda.com/nb/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Tape%20measure-,Shift%20%2B%20m,-Point%20measure) for dette er "shift+m"
+Måle avstander mellom punkter. [Tastatursnarvei](https://support.catenda.com/nb/articles/4670267-sammendrag-av-de-viktigste-snarveiene-og-grunnleggende-kontroller#:~:text=Tape%20measure-,Shift%20%2B%20m,-Point%20measure) for dette er "shift+m"
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/15-tape-measure.png)
 
@@ -114,7 +114,7 @@ Som med lasermåleverktøyet, kan du klikke på øyenikonene for å skjule de ul
 
 ### 3.7 **Punktmål**
 
-Måle koordinater [Tastatursnarvei](https://support.catenda.com/nb/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls#:~:text=Point%20measure-,Ctrl%20%2B%20m,-Content%20panel) for dette er "ctrl+m"
+Måle koordinater [Tastatursnarvei](https://support.catenda.com/nb/articles/4670267-sammendrag-av-de-viktigste-snarveiene-og-grunnleggende-kontroller#:~:text=Point%20measure-,Ctrl%20%2B%20m,-Content%20panel) for dette er "ctrl+m"
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/10m0pcfa/18-point-measure.png)
 

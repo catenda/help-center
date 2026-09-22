@@ -1,6 +1,6 @@
 # Ajouter une révision à la demande de validation
 
-Les demandes de validation peuvent être visibles dans les projets où les révisions partagées ont été activées après le 2 octobre 2025. Lorsque les révisions partagées sont activées, toutes les nouvelles révisions sont téléchargées en tant que révisions partagées. Les révisions partagées peuvent être ajoutées à une demande de validation en cliquant sur le bouton Ajouter une révision dans la [dialogue de création d'une demande de validation](https://support.catenda.com/fr/articles/12360159-creating-a-new-approval-request) et en cliquant sur le bouton Ajouter une révision dans une demande de validation brouillon. Voici à quoi peut ressembler la dialogue Ajouter une révision à la demande de validation qui s'ouvre pour les projets qui ont activé les révisions partagées après
+Les demandes de validation peuvent être visibles dans les projets où les révisions partagées ont été activées après le 2 octobre 2025. Lorsque les révisions partagées sont activées, toutes les nouvelles révisions sont téléchargées en tant que révisions partagées. Les révisions partagées peuvent être ajoutées à une demande de validation en cliquant sur le bouton Ajouter une révision dans la [dialogue de création d'une demande de validation](https://support.catenda.com/fr/articles/12360159-creer-une-nouvelle-demande-d-approbation-herite) et en cliquant sur le bouton Ajouter une révision dans une demande de validation brouillon. Voici à quoi peut ressembler la dialogue Ajouter une révision à la demande de validation qui s'ouvre pour les projets qui ont activé les révisions partagées après
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qk34ake7/01-intro.png)
 
@@ -18,7 +18,7 @@ En cliquant sur le bouton de filtre, un panneau apparaîtra sur le côté gauche
 
 ### 1.2 Filtres enregistrés
 
-Cliquez [ici](https://support.catenda.com/fr/articles/8551755-saving-filters) pour en savoir plus sur la façon d'enregistrer un ensemble de filtres
+Cliquez [ici](https://support.catenda.com/fr/articles/8551755-limitation-des-resultats-de-filtrage) pour en savoir plus sur la façon d'enregistrer un ensemble de filtres
 
 ### 1.3 Filtres
 
@@ -44,7 +44,7 @@ N'est pas un modèle Les révisions partagées dans les documents du dossier act
 
 **Révision créée par** Les révisions partagées dans les documents du dossier actuel et des sous-dossiers créées par <username>. Le nombre derrière le filtre indique le nombre de révisions partagées dans les documents du dossier actuel et des sous-dossiers par chaque utilisateur.
 
-**Filtres de date** Cliquez sur Sélectionner les dates pour sélectionner les dates entre lesquelles vous souhaitez rechercher. Cliquez [ici](https://support.catenda.com/fr/articles/6511685-date-filter) pour en savoir plus sur le filtre de date.
+**Filtres de date** Cliquez sur Sélectionner les dates pour sélectionner les dates entre lesquelles vous souhaitez rechercher. Cliquez [ici](https://support.catenda.com/fr/articles/6511685-filtre-de-date) pour en savoir plus sur le filtre de date.
 
 **Groupe d'étiquettes** Documents avec des révisions partagées avec des étiquettes par nom d'étiquette au sein d'un groupe d'étiquettes. Le nombre derrière le filtre indique le nombre de documents avec des révisions partagées dans les documents où l'étiquette est appliquée dans le dossier actuel et les sous-dossiers.
 
@@ -60,7 +60,7 @@ Voici à quoi peut ressembler le tableau Ajouter une révision
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/qk34ake7/03-add-revision-table.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tables-on-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda.
+Cliquez [ici](https://support.catenda.com/fr/articles/11748020-tableaux-sur-catenda) pour en savoir plus sur la façon de travailler avec les tableaux dans Catenda.
 
 ### 2.1 Contenu des lignes
 

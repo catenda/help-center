@@ -4,7 +4,7 @@ You will be able to find the QTO menu as the second menu in the [information pan
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8drgvwsx/01-intro.png)
 
-This feature lets you view and export a property list of the objects that are selected in the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) or [tree panel](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel). With this list you will easily be able to get accurate measurements of the quantities of different objects in your model. To get started, please select an object in the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) or [tree panel](https://intercom.help/bimsync-arena/en/articles/4670290-trees-panel) to display its properties and related information in the inspect menu. After having selected some objects, the QTO menu can look something like this:
+This feature lets you view and export a property list of the objects that are selected in the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) or [tree panel](https://intercom.help/bimsync-arena/en/articles/4670290-model-tree-panel). With this list you will easily be able to get accurate measurements of the quantities of different objects in your model. To get started, please select an object in the [3D viewer](https://support.catenda.com/en/articles/8227211-3d-viewer) or [tree panel](https://intercom.help/bimsync-arena/en/articles/4670290-model-tree-panel) to display its properties and related information in the inspect menu. After having selected some objects, the QTO menu can look something like this:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/8drgvwsx/02-intro.png)
 

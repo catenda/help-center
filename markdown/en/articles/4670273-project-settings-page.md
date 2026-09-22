@@ -85,7 +85,7 @@ After opening the menu, project members will be able to see who has access to pe
 
 ### 6.1 **Create new topic boards**
 
-_Default access:_ All users - Write [Create new topic boards](https://support.catenda.com/en/articles/4670299-issue-board-creation-acl)
+_Default access:_ All users - Write [Create new topic boards](https://support.catenda.com/en/articles/4670299-topic-board-creation-acl)
 
 ### 6.2 **Invite new members**
 
@@ -93,7 +93,7 @@ _Default access:_ All users - No access [Invite new members](https://support.cat
 
 ### 6.3 **Document status configuration**
 
-_Default access:_ All users - Write [Document status configuration](https://support.catenda.com/en/articles/9874698-revision-publishing-iso-19650)
+_Default access:_ All users - Write [Document status configuration](https://support.catenda.com/en/articles/9874698-new-status-workflow-iso-19650)
 
 ### 6.4 **Create and remove models**
 
@@ -136,4 +136,4 @@ You will be able to find the following pages as sub pages to this page:
 - [Labels](https://support.catenda.com/en/articles/4670265-labels-page)
 - [Custom fields](https://support.catenda.com/en/articles/6550459-custom-fields-page)
 - [Naming conventions](https://support.catenda.com/en/articles/7832559-naming-conventions-page)
-- [Members](https://support.catenda.com/en/articles/4670291-members-page)
+- [Members](https://support.catenda.com/en/articles/4670291-members-and-teams-page)

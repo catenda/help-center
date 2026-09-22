@@ -2,7 +2,7 @@
 
 > Notifiez manuellement les utilisateurs si nécessaire et important.
 
-Trouvez le bouton sharelink vers le [haut à droite de la page](https://support.catenda.com/fr/articles/4670260-landing-page#h_7e60f1b700) à côté de votre photo de profil.
+Trouvez le bouton sharelink vers le [haut à droite de la page](https://support.catenda.com/fr/articles/4670260-boutons-de-compte#h_7e60f1b700) à côté de votre photo de profil.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/01-intro.png)
 

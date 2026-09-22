@@ -1,6 +1,6 @@
 # Plugin Catenda Archicad
 
-> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://intercom.help/bimsync-arena/fr/articles/8396532-catenda-plugins-and-integrations).
+> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://intercom.help/bimsync-arena/fr/articles/8396532-plugins-et-integrations-catenda).
 
 Le plugin Catenda Archicad est un plugin qui peut être installé pour Nemetchek Archicad. Avec ce plugin, vous pourrez collaborer sur les points de vue 3D, les Sujets et les Documents avec les autres Membres du projet de construction.
 
@@ -36,7 +36,7 @@ Lorsque vous ouvrez la palette Catenda, la première chose que vous verrez est l
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/01-sign-in.png)
 
-Si vous n'avez pas de compte Catenda, vous pouvez vous inscrire gratuitement en haut à droite. Si vous avez déjà un compte Catenda, vous pouvez entrer votre adresse e-mail et votre mot de passe et cliquer sur se connecter. Après vous être connecté, il vous sera demandé d'accorder l'accès à votre compte Catenda. Après avoir accordé cet accès, le plugin Archicad s'affichera en tant qu'application sur la [page des applications](https://support.catenda.com/fr/articles/6880968-account-page#h_40e031c49a) de votre compte Catenda. Ici, vous pouvez toujours révoquer l'accès si vous ne souhaitez plus l'accorder.
+Si vous n'avez pas de compte Catenda, vous pouvez vous inscrire gratuitement en haut à droite. Si vous avez déjà un compte Catenda, vous pouvez entrer votre adresse e-mail et votre mot de passe et cliquer sur se connecter. Après vous être connecté, il vous sera demandé d'accorder l'accès à votre compte Catenda. Après avoir accordé cet accès, le plugin Archicad s'affichera en tant qu'application sur la [page des applications](https://support.catenda.com/fr/articles/6880968-page-du-compte#h_40e031c49a) de votre compte Catenda. Ici, vous pouvez toujours révoquer l'accès si vous ne souhaitez plus l'accorder.
 
 ### 3.1 **Réinitialisation du mot de passe**
 
@@ -54,7 +54,7 @@ Lorsque vous ouvrez le plugin Archicad, vous verrez votre liste de projets qui p
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/03-project-list.png)
 
-Dès que vous avez accepté l'invitation à un projet, votre projet s'affichera dans la liste de vos projets dans le plugin et sur la [page des projets](https://support.catenda.com/fr/articles/8400797-projects-page).
+Dès que vous avez accepté l'invitation à un projet, votre projet s'affichera dans la liste de vos projets dans le plugin et sur la [page des projets](https://support.catenda.com/fr/articles/8400797-page-projets).
 
 **Menu d'action** Cliquez sur les trois points à côté de votre photo de profil pour ouvrir la liste déroulante du menu d'action :
 

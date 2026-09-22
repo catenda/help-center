@@ -4,21 +4,21 @@ There are several ways to link parts of Catenda Hub to other parts of Catenda Hu
 
 ## 1. **Linking topics**
 
-You can find out what a topic is linked to in the [right panel](https://support.catenda.com/en/articles/8053299-issue-right-panel) of a topic
+You can find out what a topic is linked to in the [right panel](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic) of a topic
 
 ### 1.1 **Linking objects to topics**
 
-**Manual** Click [here](https://support.catenda.com/en/articles/8053299-issue-right-panel#h_758f17abbc) to find out how to link topics to objects
+**Manual** Click [here](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_758f17abbc) to find out how to link topics to objects
 
 **Automatic** If you have 3D objects selected in the 3D snapshot when you submit the topic, these objects will be linked to the topic.
 
 ### 1.2 **Linking documents to topics**
 
-**Manual** Click [here](https://support.catenda.com/en/articles/4670250-linking-a-document-to-an-issue) to find out how to link documents to topics
+**Manual** Click [here](https://support.catenda.com/en/articles/4670250-linking-a-document-to-a-topic) to find out how to link documents to topics
 
 ### 1.3 **Link topics to other topics**
 
-**Manual** Click [here](https://support.catenda.com/en/articles/8053299-issue-right-panel#h_edf2cb07a8) to find out how to link a topic to another topic
+**Manual** Click [here](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_edf2cb07a8) to find out how to link a topic to another topic
 
 **Automatic** If you use # to point to a topic in the comment or a description of a topic this topic will be linked to that topic and that topic will be linked to this topic. This link can later be edited.
 
@@ -26,9 +26,9 @@ You can find out what a topic is linked to in the [right panel](https://support.
 
 ### 2.1 **Linking topics to documents**
 
-**Manual** If you make a topic from the [annotations tab](https://support.catenda.com/en/articles/5001165-annotations-on-documents) in the right information panel of a document and send it in the document will be linked to that topic.
+**Manual** If you make a topic from the [annotations tab](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) in the right information panel of a document and send it in the document will be linked to that topic.
 
-**Automatic** If you make an [annotation](https://support.catenda.com/en/articles/5001165-annotations-on-documents) and add it to an topic the document will automatically be linked to that topic.
+**Automatic** If you make an [annotation](https://support.catenda.com/en/articles/5001165-document-preview-and-annotations) and add it to an topic the document will automatically be linked to that topic.
 
 ### 2.2 **Linking objects to documents**
 
@@ -38,14 +38,14 @@ You can find out what a topic is linked to in the [right panel](https://support.
 
 ### 3.1 **Linking topic to objects**
 
-**Manual** Click [here](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) to find out how to link objects to topics
+**Manual** Click [here](https://support.catenda.com/en/articles/4670285-inspect-menu#h_8550da1056) to find out how to link objects to topics
 
 **Automatic**
 
 1. Load a model in 3D and select an object.
 1. Either
 
-    Click the plus button in the [topics section](https://support.catenda.com/en/articles/4670285-inspect-panel#h_8550da1056) of the inspect section of the information panel.
+    Click the plus button in the [topics section](https://support.catenda.com/en/articles/4670285-inspect-menu#h_8550da1056) of the inspect section of the information panel.
 
     or
 

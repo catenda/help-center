@@ -48,7 +48,7 @@ Derzeit gibt es keine offizielle Möglichkeit, aus Navisworks zu IFC zu exportie
    2. Objekte – Alle
    3. Ansicht – Alle einschließen
 
-> **Hinweis:** IFC 4x1 wird von BuildingSMART eingestellt und wird daher auch von Catenda Hub nicht unterstützt. Siehe [hier](https://support.catenda.com/de/articles/4670320-what-file-types-does-catenda-support), welche Dateitypen in Catenda Hub unterstützt werden
+> **Hinweis:** IFC 4x1 wird von BuildingSMART eingestellt und wird daher auch von Catenda Hub nicht unterstützt. Siehe [hier](https://support.catenda.com/de/articles/4670320-vorschau-von-dateitypen-auf-catenda-hub), welche Dateitypen in Catenda Hub unterstützt werden
 
 6. Ressource und Zuweisung
 

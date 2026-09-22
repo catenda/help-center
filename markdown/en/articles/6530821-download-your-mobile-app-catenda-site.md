@@ -1,6 +1,6 @@
 # Download your mobile app Catenda Site 📲
 
-> **Note:** The install file for the application can be found in [this article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-and-integrations).
+> **Note:** The install file for the application can be found in [this article](https://intercom.help/bimsync-arena/en/articles/8396532-catenda-plugins-integrations).
 
 [Book a demo](https://catenda.com/bim-solutions-open-standards/catenda-site-bim-on-site/) on our website
 
@@ -12,7 +12,7 @@ Catenda supports you in your construction and infrastructure projects. With Cate
 
 ### 1.1 **Topic management**
 
-[Manage your topics](https://support.catenda.com/en/articles/7734073-topics-page-catenda-site) from anywhere: create, organize and collaborate through topics.
+[Manage your topics](https://support.catenda.com/en/articles/7734073-topics-menu-catenda-site) from anywhere: create, organize and collaborate through topics.
 
 ### 1.2 **2D and 3D views**
 
@@ -24,7 +24,7 @@ Explore both [2D drawings](https://support.catenda.com/en/articles/7748370-2d-vi
 
 ### 1.4 **Document library access**
 
-View project documents: [access your document library](https://support.catenda.com/en/articles/7774637-documents-catenda-site) and have all information at hand.
+View project documents: [access your document library](https://support.catenda.com/en/articles/7774637-documents-menu-catenda-site) and have all information at hand.
 
 ### 1.5 **Location-based navigation**
 

@@ -1,6 +1,6 @@
 # Sakmalside - Eldre system
 
-Saksmalmsiden finner du ved å klikke på saksmalmene-handlingen i handlingsmenyen øverst til høyre på [saksinnstillingssiden](https://support.catenda.com/nb/articles/12367293-approval-settings-page#h_320e990d50). _Nødvendig tilgang_: Administrator
+Saksmalmsiden finner du ved å klikke på saksmalmene-handlingen i handlingsmenyen øverst til høyre på [saksinnstillingssiden](https://support.catenda.com/nb/articles/12367293-gjennomgangsinnstillinger-eldre-versjon#h_320e990d50). _Nødvendig tilgang_: Administrator
 
 Slik kan saksmalsiden se ut:
 
@@ -18,7 +18,7 @@ Slik kan handlingene på saksmalmsiden se ut når du ser på arkiverte saksmaler
 
 ### 1.1 **Ny saksmal**
 
-Klikk på handlingen ny saksmal for å opprette en ny saksmal. Klikk [her](https://support.catenda.com/nb/articles/12372007-creating-a-new-topic-template) for å lese mer om hvordan du oppretter nye saksmaler.
+Klikk på handlingen ny saksmal for å opprette en ny saksmal. Klikk [her](https://support.catenda.com/nb/articles/12372007-opprette-en-ny-saksmal-eldre-versjon) for å lese mer om hvordan du oppretter nye saksmaler.
 
 ### 1.2 **Saksmaler / Arkiverte saksmaler**
 
@@ -26,7 +26,7 @@ Klikk på handlingene saksmaler og arkiverte saksmaler for å bytte mellom å vi
 
 ## 2. **Saksmalskort**
 
-Etter at en saksmal er opprettet, vises et kort for saksmalen på denne siden. Klikk på et saksmalskort for å åpne [saksmalssiden](https://support.catenda.com/nb/articles/12371549-topic-template-page) for denne saksmalen. Slik kan et saksmalskort se ut:
+Etter at en saksmal er opprettet, vises et kort for saksmalen på denne siden. Klikk på et saksmalskort for å åpne [saksmalssiden](https://support.catenda.com/nb/articles/12371549-sakmalside-arv) for denne saksmalen. Slik kan et saksmalskort se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/n5z47ntk/04-topic-template-card.png)
 

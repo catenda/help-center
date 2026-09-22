@@ -12,10 +12,10 @@ Hier verschijnen de meest recente notificaties die voor u relevant zijn. U kunt 
 
 ## 2. Filteren en functionaliteit
 
-U kunt meer lezen over hoe u kunt filteren op deze pagina en wanneer u de verschillende notificaties ontvangt op [deze](https://support.catenda.com/nl/articles/8304417-filtering-and-functionality-on-notifications-pages) pagina.
+U kunt meer lezen over hoe u kunt filteren op deze pagina en wanneer u de verschillende notificaties ontvangt op [deze](https://support.catenda.com/nl/articles/8304417-filteren-op-de-notificatiepagina) pagina.
 
 ## 3. Subpagina
 
 Als subpagina van de projectnotificatiepagina vindt u:
 
-- [Projectnotificatie-instellingen](https://support.catenda.com/nl/articles/4670262-project-notification-settings)
+- [Projectnotificatie-instellingen](https://support.catenda.com/nl/articles/4670262-projectspecifieke-notificatie-instellingen)

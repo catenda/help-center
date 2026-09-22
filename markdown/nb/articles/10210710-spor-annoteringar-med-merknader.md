@@ -1,8 +1,8 @@
 # Spor annoteringar med merknader
 
-Den nye Markup-funksjonen lar deg gruppere annoteringar på nytt som kan vere plassert på ulike sider av eit dokument og på tvers av fleire revisjoner. Sett med annoteringar kan finnast som [kommentarar på topics](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic#h_f76b44d3ca). I [merknader-fanen](https://support.catenda.com/nb/articles/10205725-right-menu-of-a-revision-markups) i høgre informasjonsmeny i eit dokument vil du finne setta av annoteringar som er grupperte saman i ei merknad. Når dei er aktiverte, kan annoteringar i ei merknad vere [førehandsvisne på eit dokument](https://support.catenda.com/nb/articles/5001165-document-preview-and-annotations).
+Den nye Markup-funksjonen lar deg gruppere annoteringar på nytt som kan vere plassert på ulike sider av eit dokument og på tvers av fleire revisjoner. Sett med annoteringar kan finnast som [kommentarar på topics](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_f76b44d3ca). I [merknader-fanen](https://support.catenda.com/nb/articles/10205725-hoyremeny-for-en-revisjon-merknader) i høgre informasjonsmeny i eit dokument vil du finne setta av annoteringar som er grupperte saman i ei merknad. Når dei er aktiverte, kan annoteringar i ei merknad vere [førehandsvisne på eit dokument](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader).
 
-Diagrammet nedanfor illustrerer korleis annoteringar er grupperte under ulike merknader som kan [lagrast som kommentar](https://support.catenda.com/nb/articles/10209740-saving-a-markup) under nye eller eksisterande topics.
+Diagrammet nedanfor illustrerer korleis annoteringar er grupperte under ulike merknader som kan [lagrast som kommentar](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad) under nye eller eksisterande topics.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/01-intro.png)
 
@@ -40,17 +40,17 @@ Dette kan vere bra for merknader med generelle annoteringar som alle vil bli fø
 
 ## 2. **Opprette annoteringar**
 
-Som før kan du opprette annoteringar ved å navigere til dokumentet i [dokumenttabellen](https://support.catenda.com/nb/articles/8204673-documents-page#h_54e8dfcac2) og klikke på namnet for å sjå [dokumentvisinga](https://support.catenda.com/nb/articles/5001165-document-preview-and-annotations). Her kan du velje eit annoteringsverktøy frå verktøyraden. Klikk overalt i dokumentet for å opprette den første annoteringa og starte merknadaren din:
+Som før kan du opprette annoteringar ved å navigere til dokumentet i [dokumenttabellen](https://support.catenda.com/nb/articles/8204673-dokumenter-side#h_54e8dfcac2) og klikke på namnet for å sjå [dokumentvisinga](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader). Her kan du velje eit annoteringsverktøy frå verktøyraden. Klikk overalt i dokumentet for å opprette den første annoteringa og starte merknadaren din:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/04-creating-annotations.png)
 
 ## 3. **Merknader-fane**
 
-Etter at du har opprettet nokre annoteringar, vil du sjå at du har [ulagra merknader](https://support.catenda.com/nb/articles/10209740-saving-a-markup) i [merknader-fanen i høgre informasjonspanel](https://support.catenda.com/nb/articles/10205725-right-menu-of-a-revision-markups).
+Etter at du har opprettet nokre annoteringar, vil du sjå at du har [ulagra merknader](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad) i [merknader-fanen i høgre informasjonspanel](https://support.catenda.com/nb/articles/10205725-hoyremeny-for-en-revisjon-merknader).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/05-markups-tab.png)
 
-> **Merknad:** Når du først åpner et dokument, kan høyre meny være lukket. Du kan klikke på informasjonsknappen nederst til høyre på [dokumentbanneret](https://support.catenda.com/nb/articles/8461918-document-banner-actions-navigation) for å utvide denne menyen. <div> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/06-document-banner-information-button.png" width="400" > </div>
+> **Merknad:** Når du først åpner et dokument, kan høyre meny være lukket. Du kan klikke på informasjonsknappen nederst til høyre på [dokumentbanneret](https://support.catenda.com/nb/articles/8461918-dokumentbanner-navigasjon) for å utvide denne menyen. <div> <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/06-document-banner-information-button.png" width="400" > </div>
 
 ### 3.1 **Fleire merknader på ein gong**
 
@@ -60,19 +60,19 @@ La oss seie at denne merknadaren var rettleia mot arkitekten, men du vil og send
 
 ## 4. **Lagre merknader**
 
-Etter at du er ferdig med å redigere merknadane dine, kan du [lagre dei](https://support.catenda.com/nb/articles/10209740-saving-a-markup#h_8542b82cf8). Når du lagrar, vert ein kommentar oppretta for kvar sett av annoteringar på sida til ein revisjon
+Etter at du er ferdig med å redigere merknadane dine, kan du [lagre dei](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad#h_8542b82cf8). Når du lagrar, vert ein kommentar oppretta for kvar sett av annoteringar på sida til ein revisjon
 
 Følgjande topics er beskrivne i denne delen:
 
 ### 4.1 **Lagre kvar merknad til sin eigen topic**
 
-Dersom du klikkar [Lagre merknader](https://support.catenda.com/nb/articles/10209740-saving-a-markup#h_8542b82cf8), vil du opprette ein topic for kvar merknad.
+Dersom du klikkar [Lagre merknader](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad#h_8542b82cf8), vil du opprette ein topic for kvar merknad.
 
 Desse topicsa kan sjå noko sånn ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/08-save-each-markup-to-its-own-topic.png)
 
-Dersom det er annoteringar på fleire sider i dokumenta, vil det vere ein [kommentar](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) med eit skjermbilete av annoteringa for kvar side som inneheld annoteringar.
+Dersom det er annoteringar på fleire sider i dokumenta, vil det vere ein [kommentar](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_e98c0964d4) med eit skjermbilete av annoteringa for kvar side som inneheld annoteringar.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/09-save-each-markup-to-its-own-topic.png)
 
@@ -84,7 +84,7 @@ Dersom du heller vil ha alle merknader i ein topic, kan du førebu ein topic og 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/10-br-save-all-markups-to-one-topic.png)
 
-Her vil du sjå topics der dokumentet [er blitt kopla](https://support.catenda.com/nb/articles/8053299-right-menu-in-a-topic#h_b00b9c5150) og dersom det er nokre [kommentarar](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) om denne revisjonen. Dersom det er annoteringar på fleire sider i dokumenta, vil det vere ein [kommentar](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic#h_e98c0964d4) med eit skjermbilete av annoteringa for kvar side med annoteringar i kvar merknad.
+Her vil du sjå topics der dokumentet [er blitt kopla](https://support.catenda.com/nb/articles/8053299-hoyremeny-i-en-sak#h_b00b9c5150) og dersom det er nokre [kommentarar](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_e98c0964d4) om denne revisjonen. Dersom det er annoteringar på fleire sider i dokumenta, vil det vere ein [kommentar](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_e98c0964d4) med eit skjermbilete av annoteringa for kvar side med annoteringar i kvar merknad.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/6jfe897w/11-br-save-all-markups-to-one-topic.png)
 

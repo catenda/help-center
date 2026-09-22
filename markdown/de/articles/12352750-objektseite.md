@@ -10,7 +10,7 @@ So könnte das Menü zum Suchen oder Filtern auf der Objektseite aussehen
 
 ![Ausgewählt Suche oder Filter Auswählen Plus Modelle Ausgewählt Textsuche](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/02-search-or-filter.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/12353642-filtering-on-the-objects-page), um mehr über das Filtern auf der Objektseite zu erfahren.
+Klicken Sie [hier](https://support.catenda.com/de/articles/12353642-filterung-auf-der-objektseite), um mehr über das Filtern auf der Objektseite zu erfahren.
 
 ## 2. **Produkttabelle**
 
@@ -18,7 +18,7 @@ Die Produkttabelle könnte ungefähr so aussehen:
 
 ![Ausgewählt 3D Aktionsmenü Herunterladen Einstellungen Entität Spalte GlobalId Spalte LongName Spalte IfcProject IfcBuildingElementProxy eine Zeile ist in der Tabelle ausgewählt](https://raw.githubusercontent.com/catenda/help-center/main/images/ahnhn26k/03-products-table.png)
 
-Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten.
+Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tabellen-in-catenda), um mehr darüber zu erfahren, wie Sie mit Tabellen in Catenda arbeiten.
 
 ### 2.1 **Was ist ein Produkt?**
 
@@ -56,7 +56,7 @@ Klicken Sie auf die Download-Schaltfläche oben in der Produkttabelle, um sie zu
 
 Zeilen Es ist nur möglich, alle Zeilen der aktivierten Modelle zu erhalten. Die Auswahl von Zeilen beschränkt die Zeilen in den exportierten Dateien nicht. Der einzige Filter, der die Anzahl der Zeilen begrenzen kann, ist der Modellfilter. Obwohl Zeilen in der Tabelle begrenzt aussehen könnten, enthält die exportierte Datei alle Zeilen für die verfügbaren Modelle.
 
-Spalten Für jede in der Produkttabelle aktivierte Spalte wird eine Spalte in die Datei exportiert. Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tables-on-catenda), um mehr darüber zu erfahren, wie Sie Tabellenspalten verwalten.
+Spalten Für jede in der Produkttabelle aktivierte Spalte wird eine Spalte in die Datei exportiert. Klicken Sie [hier](https://support.catenda.com/de/articles/11748020-tabellen-in-catenda), um mehr darüber zu erfahren, wie Sie Tabellenspalten verwalten.
 
 **Objekte exportieren** Wählen Sie im Menü "Objekte exportieren" die Option zum Exportieren in Excel oder CSV:
 

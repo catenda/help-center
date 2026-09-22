@@ -1,5 +1,5 @@
 # Ny funksjon! Point Clouds !!🎉🎉
 
-Oppdag alle detaljer i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/5606625-point-clouds-in-bimsync). Lær hvordan du bruker den fra denne veiledningen:
+Oppdag alle detaljer i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/5606625-punktskyer-i-catenda-hub). Lær hvordan du bruker den fra denne veiledningen:
 
 [YouTube-video](https://www.youtube.com/embed/n9pztkRPxoc?rel=0)

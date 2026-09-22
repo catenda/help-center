@@ -1,6 +1,6 @@
 # Legge til og fjerne CatendaSP-appen
 
-> **Merk:** Installasjonfilen for plugin-en finner du i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-and-integrations).
+> **Merk:** Installasjonfilen for plugin-en finner du i [denne artikkelen](https://intercom.help/bimsync-arena/nb/articles/8396532-catenda-plugins-og-integrasjoner).
 
 Catenda SharePoint-programmet kan legges til i et SharePoint-miljø av en områdeeier hvis appen har blitt aktivert for tenanten av SharePoint-administratoren. Med denne appen vil SharePoint-brukere kunne vise, administrere og samarbeide om dokumenter i Catenda sammen med andre medlemmer av byggekskprosjektet.
 

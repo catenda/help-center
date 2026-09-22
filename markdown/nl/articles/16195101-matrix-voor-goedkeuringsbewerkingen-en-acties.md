@@ -12,7 +12,7 @@ Het weergeven van een goedkeuringsverzoek en interactie met de inhoud ervan vind
 
 ### 1.1 **1.1 Pagina Goedkeuringen (Lijstweergave)**
 
-Geeft de overzichtslijst van goedkeuringsverzoekkaarten weer. Gedetailleerde zichtbaarheidsregels voor verzoeken op deze pagina worden beheerst door teamroltoewij zingen, zoals uitgelegd in het artikel [Zichtbaarheid pagina Goedkeuringen en teamrollen](https://support.catenda.com/nl/articles/12495047-approvals-page).
+Geeft de overzichtslijst van goedkeuringsverzoekkaarten weer. Gedetailleerde zichtbaarheidsregels voor verzoeken op deze pagina worden beheerst door teamroltoewij zingen, zoals uitgelegd in het artikel [Zichtbaarheid pagina Goedkeuringen en teamrollen](https://support.catenda.com/nl/articles/12495047-pagina-goedkeuringen).
 
 ### 1.2 **1.2 Goedkeuringsinhouds pagina**
 

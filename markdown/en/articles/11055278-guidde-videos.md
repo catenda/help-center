@@ -4,7 +4,7 @@ In the title of this article it may seem like there is a type-o with an extra d 
 
 ## 1. **Playlists**
 
-Click [here](https://support.catenda.com/en/articles/11059986-interacting-with-guide-playlists) to learn more about how to interact with guide playlists on guidde and how view the video in your preferred language.
+Click [here](https://support.catenda.com/en/articles/11059986-interacting-with-guidde-playlists) to learn more about how to interact with guide playlists on guidde and how view the video in your preferred language.
 
 ### 1.1 **Catenda Hub Tutorials - [Playlist](https://eu.guidde.com/playbooks/playlist/qicnEaFjpt2gUXmNcAxWcU?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)**
 

@@ -4,7 +4,7 @@ Um Benachrichtigungsspam zu vermeiden und einen reibungslosen Start zu gewährle
 
 Dieser Artikel enthält Informationen zu den folgenden Themen:
 
-_[On-Demand-Funktionen aktivieren](https://support.catenda.com/de/articles/13905373-feature-statuses-q3-2025#h_f72a02b8b6)_
+_[On-Demand-Funktionen aktivieren](https://support.catenda.com/de/articles/13905373-feature-status-q3-2025#h_f72a02b8b6)_
 
 ## 1. **On-Demand-Funktionen aktivieren**
 

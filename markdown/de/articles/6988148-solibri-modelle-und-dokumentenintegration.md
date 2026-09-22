@@ -165,7 +165,7 @@ Klicken Sie auf "Abbrechen", wenn Sie den Importvorgang beenden möchten.
 
 ## 8. **Zugriff auf Ihr Catenda-Konto gewähren**
 
-Wenn Sie nicht bereits bei Catenda angemeldet sind, werden Sie aufgefordert, sich [anzumelden](https://support.catenda.com/de/articles/7891486-sign-in-page). Nach dem ersten Öffnen, nach der Anmeldung oder wenn Sie bereits angemeldet waren, werden Sie aufgefordert, die Berechtigung für den Zugriff auf Ihr Catenda-Konto zu erteilen:
+Wenn Sie nicht bereits bei Catenda angemeldet sind, werden Sie aufgefordert, sich [anzumelden](https://support.catenda.com/de/articles/7891486-anmeldeseite). Nach dem ersten Öffnen, nach der Anmeldung oder wenn Sie bereits angemeldet waren, werden Sie aufgefordert, die Berechtigung für den Zugriff auf Ihr Catenda-Konto zu erteilen:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/vjtcq1e9/19-granting-access-to-your-catenda-account.png)
 
@@ -181,7 +181,7 @@ Dokumente, die von Catenda in Solibri verlinkt wurden, können sich von regulär
 
 ### 9.1 **Namensspalte**
 
-Der Name des Modells kann einige Zeit zum Aktualisieren benötigen, ändert sich aber schließlich, um die Anzahl der Revisionen im Dokument auf Catenda widerzuspiegeln. Wenn Ihre Organisation eine Voreinstellung für den Download-Namen Ihres Dokuments festgelegt hat, könnten Sie hier einen anderen Namen finden. Zum Beispiel ist es möglich, den Dokumentnamen ohne die Revisionsoption anzufordern. Beachten Sie, dass dies von der Organisation für alle heruntergeladenen Dateien in ihren Projekten angefordert werden muss. Sie können die verschiedenen Download-Namenoptionen für Organisationen [hier](https://support.catenda.com/de/articles/8224886-organization-options) sehen.
+Der Name des Modells kann einige Zeit zum Aktualisieren benötigen, ändert sich aber schließlich, um die Anzahl der Revisionen im Dokument auf Catenda widerzuspiegeln. Wenn Ihre Organisation eine Voreinstellung für den Download-Namen Ihres Dokuments festgelegt hat, könnten Sie hier einen anderen Namen finden. Zum Beispiel ist es möglich, den Dokumentnamen ohne die Revisionsoption anzufordern. Beachten Sie, dass dies von der Organisation für alle heruntergeladenen Dateien in ihren Projekten angefordert werden muss. Sie können die verschiedenen Download-Namenoptionen für Organisationen [hier](https://support.catenda.com/de/articles/8224886-organisationsoptionen) sehen.
 
 ### 9.2 **Versionsspalte**
 

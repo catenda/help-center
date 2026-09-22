@@ -18,6 +18,6 @@ Hvis organisasjonen din bruker en brannmur eller andre måter å begrense tilgan
 
 Selv om vi er forpliktet til å holde bimsync.com i drift, har vi til hensikt å omdirigere kundetrafikk til hub.catenda.com etter en tydelig kommunisert varselperiode. Av denne grunn anbefaler vi at du sørger for at du kan logge på Catenda Hub på [https://hub.catenda.com](https://hub.catenda.com) så snart som mulig.
 
-For mer informasjon om hvordan du logger på, se [denne](https://support.catenda.com/nb/articles/7891486-sign-in-page) artikkelen. For mer informasjon om hvilket domene som skal tillates gjennom brannmuren, se [denne](https://support.catenda.com/nb/articles/6921941-system-requirements-and-optimization) artikkelen.
+For mer informasjon om hvordan du logger på, se [denne](https://support.catenda.com/nb/articles/7891486-paloggingsside) artikkelen. For mer informasjon om hvilket domene som skal tillates gjennom brannmuren, se [denne](https://support.catenda.com/nb/articles/6921941-maskinvareanbefalinger) artikkelen.
 
 Hvis du har spørsmål eller bekymringer om noen av disse endringene, ber vi om at du gir oss beskjed.

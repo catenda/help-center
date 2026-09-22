@@ -1,14 +1,14 @@
 # Application Catenda SharePoint
 
-> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://intercom.help/bimsync-arena/fr/articles/8396532-catenda-plugins-and-integrations).
+> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://intercom.help/bimsync-arena/fr/articles/8396532-plugins-et-integrations-catenda).
 
-Si l'application Catenda SharePoint est ajoutée à un site SharePoint, les fichiers peuvent être publiés de SharePoint vers Catenda et la structure des documents Catenda peut être affichée dans SharePoint. Une fois configurée, l'application peut ressembler à ceci : <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/> Cet article contient des informations sur le fonctionnement de cette application Voir [ici](https://support.catenda.com/fr/articles/9419678-catenda-sharepoint-faq) pour plus d'informations sur la façon dont cette application peut être utile. Voir [ici](https://support.catenda.com/fr/articles/9453368-adding-and-removing-the-catendasp-app) pour savoir comment ajouter l'application SharePoint à un site.
+Si l'application Catenda SharePoint est ajoutée à un site SharePoint, les fichiers peuvent être publiés de SharePoint vers Catenda et la structure des documents Catenda peut être affichée dans SharePoint. Une fois configurée, l'application peut ressembler à ceci : <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-628ad1424b68.png" width="300"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/inline-910393724d2c.png" width="300"/> Cet article contient des informations sur le fonctionnement de cette application Voir [ici](https://support.catenda.com/fr/articles/9419678-faq-catenda-sharepoint) pour plus d'informations sur la façon dont cette application peut être utile. Voir [ici](https://support.catenda.com/fr/articles/9453368-ajout-et-suppression-de-l-application-catendasp) pour savoir comment ajouter l'application SharePoint à un site.
 
 ## 1. **Publication vers Catenda avec la commande de liste**
 
 Avec la commande de liste, il est possible de publier un ou plusieurs fichiers vers Catenda.
 
-> **Remarque :** Il est uniquement possible de publier des fichiers. Les structures de dossiers peuvent être téléchargées depuis SharePoint et chargées vers Catenda via [chargement zip](https://support.catenda.com/fr/articles/7945410-upload-a-zip-file-structure) ou [Connecteur de bureau](https://support.catenda.com/fr/articles/8358861-catenda-desktop-connector).
+> **Remarque :** Il est uniquement possible de publier des fichiers. Les structures de dossiers peuvent être téléchargées depuis SharePoint et chargées vers Catenda via [chargement zip](https://support.catenda.com/fr/articles/7945410-telecharger-un-fichier-zip-structure-de-fichiers) ou [Connecteur de bureau](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop).
 
 ### 1.1 **Recherche de la commande de liste**
 
@@ -50,7 +50,7 @@ Une fois qu'un fichier est publié, les utilisateurs pourront le déplacer, le r
 
 ## 2. **Composant WebPart Catenda**
 
-Avec cette application, vous ajoutez [le composant WebPart Catenda](https://support.catenda.com/fr/articles/10538168-catenda-sharepoint-application-webpart) à une page de votre site. Vous pouvez permettre aux utilisateurs de parcourir les zones auxquelles ils ont accès en lecture dans la section documents d'un projet Catenda. S'ils ont accès en écriture à une partie de la structure des documents, ils pourront également charger des fichiers à cet endroit.
+Avec cette application, vous ajoutez [le composant WebPart Catenda](https://support.catenda.com/fr/articles/10538168-application-webpart-catenda-sharepoint) à une page de votre site. Vous pouvez permettre aux utilisateurs de parcourir les zones auxquelles ils ont accès en lecture dans la section documents d'un projet Catenda. S'ils ont accès en écriture à une partie de la structure des documents, ils pourront également charger des fichiers à cet endroit.
 
 Voici à quoi peut ressembler un composant WebPart configuré :
 
@@ -70,8 +70,8 @@ La fenêtre d'authentification peut ressembler à ceci :
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/09-authorizing-your-catenda-account.png)
 
-En autorisant l'application à accéder à votre compte, vous pourrez publier des documents de SharePoint vers n'importe quelle partie de votre ou vos projet(s) Catenda auquel vous avez accès en écriture dans la [section documents](https://support.catenda.com/fr/articles/8204673-documents-page). Si un composant WebPart a été ajouté à une page de votre site, vous pourrez également voir tous les documents auxquels vous avez accès en lecture dans le projet Catenda configuré par la personne qui a ajouté le composant WebPart. Avec le composant WebPart, vous pourrez également publier des documents de votre système vers n'importe quelle partie du projet Catenda configuré auquel vous avez accès en écriture dans la [section documents](https://support.catenda.com/fr/articles/8204673-documents-page).
+En autorisant l'application à accéder à votre compte, vous pourrez publier des documents de SharePoint vers n'importe quelle partie de votre ou vos projet(s) Catenda auquel vous avez accès en écriture dans la [section documents](https://support.catenda.com/fr/articles/8204673-page-documents). Si un composant WebPart a été ajouté à une page de votre site, vous pourrez également voir tous les documents auxquels vous avez accès en lecture dans le projet Catenda configuré par la personne qui a ajouté le composant WebPart. Avec le composant WebPart, vous pourrez également publier des documents de votre système vers n'importe quelle partie du projet Catenda configuré auquel vous avez accès en écriture dans la [section documents](https://support.catenda.com/fr/articles/8204673-page-documents).
 
 > **Remarque :** Catenda n'aura pas accès à vos documents SharePoint. Si vous publiez un document vers Catenda, Catenda le reçoit en une transaction unidirectionnelle.
 
-Si vous ne souhaitez plus donner à l'application l'accès à votre compte Catenda, vous pouvez toujours révoquer l'accès sur la [page des applications](https://support.catenda.com/fr/articles/6880968-account-page#h_40e031c49a) de votre compte Catenda.
+Si vous ne souhaitez plus donner à l'application l'accès à votre compte Catenda, vous pouvez toujours révoquer l'accès sur la [page des applications](https://support.catenda.com/fr/articles/6880968-page-du-compte#h_40e031c49a) de votre compte Catenda.

@@ -1,18 +1,18 @@
 # Høyre meny for en revisjon - Revisjonsinformasjon
 
-Hvis du velger et dokument på [dokumentsiden](https://support.catenda.com/nb/articles/8204673-documents-page) eller i et bibliotek, vil et nytt vindu åpnes for dette dokumentet. Du vil alltid se den siste revisjonen når du åpner et dokument.
+Hvis du velger et dokument på [dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) eller i et bibliotek, vil et nytt vindu åpnes for dette dokumentet. Du vil alltid se den siste revisjonen når du åpner et dokument.
 
 Dokumentsiden kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/01-intro.png)
 
-1. [Dokumentbanneret](https://support.catenda.com/nb/articles/8461918-document-banner-actions-navigation) strekker seg over toppen av dokumentsiden
+1. [Dokumentbanneret](https://support.catenda.com/nb/articles/8461918-dokumentbanner-navigasjon) strekker seg over toppen av dokumentsiden
 1. Du finner dokumenthodet under dokumentbanneret og over dokumentforhåndsvisningen.
-1. Under dokumenthodet finner du [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-document-preview-and-annotations).
+1. Under dokumenthodet finner du [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader).
 1. Til venstre for dokumenthodet og forhåndsvisningen finner du dokumentlisten
 1. _Denne artikkelen:_ Til høyre for dokumenthodet og forhåndsvisningen finner du høyre informasjonsmeny.
 
-Når du første gang åpner et dokument, kan høyre meny være lukket. Du kan klikke på informasjonsknappen i bunnen til høyre på [dokumentbanneret](https://support.catenda.com/nb/articles/8461918-document-banner-actions-navigation) for å utvide denne menyen.
+Når du første gang åpner et dokument, kan høyre meny være lukket. Du kan klikke på informasjonsknappen i bunnen til høyre på [dokumentbanneret](https://support.catenda.com/nb/articles/8461918-dokumentbanner-navigasjon) for å utvide denne menyen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/02-intro.png)
 
@@ -54,7 +54,7 @@ Slik kan feltene som kan fylles ut for hele dokumentet se ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/06-filling-out-fields.png)
 
-_Merkelapper_ Her kan eksisterende eller nye [merkelapper](https://support.catenda.com/nb/articles/4670265-labels-page) legges til. Du kan også fjerne eventuelle merkelapper som er blitt brukt på mappen eller dokumentet. Det kan være nyttig å merke mapper i stedet for hver enkelt fil for å gjøre det lettere å finne spesifikk informasjon i senere søk. Hvis flere dokumenter og mapper er valgt, kan du bruke merkelapper på dem alle samtidig.
+_Merkelapper_ Her kan eksisterende eller nye [merkelapper](https://support.catenda.com/nb/articles/4670265-merkelappersiden) legges til. Du kan også fjerne eventuelle merkelapper som er blitt brukt på mappen eller dokumentet. Det kan være nyttig å merke mapper i stedet for hver enkelt fil for å gjøre det lettere å finne spesifikk informasjon i senere søk. Hvis flere dokumenter og mapper er valgt, kan du bruke merkelapper på dem alle samtidig.
 
 _Metadata gjennom egendefinerte felt_ Metadatafelt kan vises for dokumenter som er opprettet der en av de overordnede mappene er konfigurert gjennom mappeinnstillinger i dokumentinnstillinger. Feltene kan ha en standardverdi eller være tomme. _Nødvendig tilgang:_ Skriverettighet til dokumentet for å endre felt for dokumentet.
 
@@ -68,7 +68,7 @@ Slik kan revisjonshandlingene se ut:
 
 ### 3.1 **Sammenlign**
 
-Hvis flere PDF-revisjoner finnes i et dokument, vises [PDF-sammenligningshandlingen](https://support.catenda.com/nb/articles/8461650-pdf-compare). Klikk [her](https://support.catenda.com/nb/articles/8461650-pdf-compare) for å lese mer om PDF-sammenligning.
+Hvis flere PDF-revisjoner finnes i et dokument, vises [PDF-sammenligningshandlingen](https://support.catenda.com/nb/articles/8461650-pdf-sammenlign). Klikk [her](https://support.catenda.com/nb/articles/8461650-pdf-sammenlign) for å lese mer om PDF-sammenligning.
 
 ### 3.2 **Last ned**
 
@@ -76,7 +76,7 @@ Klikk på nedlastingsikonet øverst til høyre i revisjonmenyen eller last ned i
 
 ### 3.3 **Trekk tilbake revisjon**
 
-Se mer om tilbaketrekking av revisjoner [her](https://support.catenda.com/nb/articles/9711174-withdraw-revision) _Nødvendig tilgang:_ Full tilgang til dokumentet
+Se mer om tilbaketrekking av revisjoner [her](https://support.catenda.com/nb/articles/9711174-trekk-tilbake-revisjon) _Nødvendig tilgang:_ Full tilgang til dokumentet
 
 ## 4. **Revisjonsinformasjon**
 
@@ -154,29 +154,29 @@ Hvis den nye statusarbeidsflyten med delte revisjoner i stedet for utkastrevisjo
 
 ### 6.1 **Last ned**
 
-Bruk nedlastingshandlingen for å laste ned gjeldende revisjon. Uavhengig av revisjonstype, kan revisjoner også lastes ned via revisjonmenyen nedenfor. I [arbeidsplassfanen](https://support.catenda.com/nb/articles/4670288-documents-table-actions#h_cfc9a53600) i [dokumenttabellen](https://support.catenda.com/nb/articles/4670288-documents-table-actions) lastes den siste delte revisjonen i dokumentet ned via handlingen for eksisterende element. I [publisert fanen](https://support.catenda.com/nb/articles/4670288-documents-table-actions#h_cfc9a53600) i [dokumenttabellen](https://support.catenda.com/nb/articles/4670288-documents-table-actions) lastes den siste publiserte revisjonen i dokumentet ned via handlingen for eksisterende element. _Nødvendig tilgang:_ Lesetilgang til dokumentet og avkrysningsmerkeutsendelse for vising av delte revisjoner.
+Bruk nedlastingshandlingen for å laste ned gjeldende revisjon. Uavhengig av revisjonstype, kan revisjoner også lastes ned via revisjonmenyen nedenfor. I [arbeidsplassfanen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen#h_cfc9a53600) i [dokumenttabellen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen) lastes den siste delte revisjonen i dokumentet ned via handlingen for eksisterende element. I [publisert fanen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen#h_cfc9a53600) i [dokumenttabellen](https://support.catenda.com/nb/articles/4670288-handlinger-i-dokumenttabellen) lastes den siste publiserte revisjonen i dokumentet ned via handlingen for eksisterende element. _Nødvendig tilgang:_ Lesetilgang til dokumentet og avkrysningsmerkeutsendelse for vising av delte revisjoner.
 
 ### 6.2 **Publiser**
 
 Bruk publiseringshandlingen for å publisere gjeldende delte revisjon. Nødvendig tilgang: Avkrysningsmerkeutsendelse for å kunne publisere
 
-Se mer om tilbaketrekking av revisjoner [her](https://support.catenda.com/nb/articles/9711174-withdraw-revision) _Nødvendig tilgang:_ Full tilgang til dokumentet
+Se mer om tilbaketrekking av revisjoner [her](https://support.catenda.com/nb/articles/9711174-trekk-tilbake-revisjon) _Nødvendig tilgang:_ Full tilgang til dokumentet
 
 ### 6.3 **Sammenlign**
 
-Hvis flere PDF-revisjoner i et dokument finnes, uavhengig av revisjonstype, vises [PDF-sammenligningshandlingen](https://support.catenda.com/nb/articles/8461650-pdf-compare). Klikk [her](https://support.catenda.com/nb/articles/8461650-pdf-compare) for å lese mer om PDF-sammenligning.
+Hvis flere PDF-revisjoner i et dokument finnes, uavhengig av revisjonstype, vises [PDF-sammenligningshandlingen](https://support.catenda.com/nb/articles/8461650-pdf-sammenlign). Klikk [her](https://support.catenda.com/nb/articles/8461650-pdf-sammenlign) for å lese mer om PDF-sammenligning.
 
 ## 7. **Navnekonvensjon i høyre meny**
 
-Dokumenter lastet opp til en mappe som har en navnekonvensjon konfigurert i [mappeinnstillingene](https://support.catenda.com/nb/articles/7831371-document-settings-page#h_6672c14d90) i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-document-settings-page) vil vise forhåndsvisningen av navnekonvensjon.
+Dokumenter lastet opp til en mappe som har en navnekonvensjon konfigurert i [mappeinnstillingene](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger#h_6672c14d90) i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger) vil vise forhåndsvisningen av navnekonvensjon.
 
 ### 7.1 **Forhåndsvisning av navnekonvensjon**
 
-Slik kan forhåndsvisningen av navnekonvensjon se ut når du holder over en tekst [blokk](https://support.catenda.com/nb/articles/7832559-naming-conventions-page#h_2409ff946c):
+Slik kan forhåndsvisningen av navnekonvensjon se ut når du holder over en tekst [blokk](https://support.catenda.com/nb/articles/7832559-navnekonvensjonsside#h_2409ff946c):
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/14-naming-convention-preview.png)
 
-Slik kan forhåndsvisningen av navnekonvensjon se ut når du holder over et egendefinert felt [blokk](https://support.catenda.com/nb/articles/7832559-naming-conventions-page#h_2409ff946c):
+Slik kan forhåndsvisningen av navnekonvensjon se ut når du holder over et egendefinert felt [blokk](https://support.catenda.com/nb/articles/7832559-navnekonvensjonsside#h_2409ff946c):
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/15-naming-convention-preview.png)
 
@@ -196,13 +196,13 @@ Basert på hva som gjenkjennes i dokumentnavnet, fylles et felt ut. Felt for blo
 
 ## 8. **Statusarbeidsflyt**
 
-Slik kan revisjonsinformasjonen se ut når et dokument er valgt i dokumenttabellen etter aktivering av [statusarbeidsflyten](https://support.catenda.com/nb/articles/9662473-status-workflow-shared-published).
+Slik kan revisjonsinformasjonen se ut når et dokument er valgt i dokumenttabellen etter aktivering av [statusarbeidsflyten](https://support.catenda.com/nb/articles/9662473-statusarbeidsflyt-delt-publisert).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/18-status-workflow.png)
 
 ### 8.1 **Publisert revisjonsstatus**
 
-Statusen som vises er statusen for den siste publiserte revisjonen. Klikk på statusrullemenyen for å endre statusen til en annen status i listen over publiserte [statuser](https://support.catenda.com/nb/articles/7831371-document-settings-page#h_e6f3ffdbff) konfigurert i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-document-settings-page). _Nødvendig tilgang:_ skriverettighet til dokumentet.
+Statusen som vises er statusen for den siste publiserte revisjonen. Klikk på statusrullemenyen for å endre statusen til en annen status i listen over publiserte [statuser](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger#h_e6f3ffdbff) konfigurert i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger). _Nødvendig tilgang:_ skriverettighet til dokumentet.
 
 ### 8.2 **Delt revisjonsstatus**
 
@@ -252,13 +252,13 @@ En hint om at det finnes nye utkast vises. Resten av informasjonen gjelder forts
 
 _Vis siste revisjon_ Åpne revisjonsforhåndsvisningen av den siste publiserte revisjonen i dokumentet uavhengig av om det finnes nyere utkastrevisjoner eller ikke.
 
-_Ny godkjenningsforespørsel_ [Opprett en ny godkjenningsforespørsel](https://support.catenda.com/nb/articles/12360159-creating-a-new-approval-request) for denne utkastrevisjonen.
+_Ny godkjenningsforespørsel_ [Opprett en ny godkjenningsforespørsel](https://support.catenda.com/nb/articles/12360159-opprette-en-ny-gjennomgangforesporsel-eldre-versjon) for denne utkastrevisjonen.
 
 _Godkjenningskort_ Hvis et utkast er del av en godkjenning, vises godkjenningskortet for hver godkjenning som utkastet er del av her:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/26-draft-revision-status-legacy.png)
 
-Klikk [her](https://support.catenda.com/nb/articles/8349340-approvals-page) for å lese mer om hva som vises på et godkjenningskort.
+Klikk [her](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon) for å lese mer om hva som vises på et godkjenningskort.
 
 _Status_ Statusen som vises er statusen for gjeldende utkastversjon. Klikk på statusrullemenyen for å endre statusen til en annen status i listen over utkaststatuser konfigurert i dokumentinnstillinger. _Nødvendig tilgang:_ skriverettighet til dokumentet.
 
@@ -280,11 +280,11 @@ Mot høyre vises deres gjeldende tilgang til dokumentet. Denne tilgangen er ente
 
 ### 9.1 **Rediger tilgang**
 
-Klikk [her](https://support.catenda.com/nb/articles/4670287-folders-and-documents-acl) for å lese mer om tilgangskontroll i dokumentseksjonen.
+Klikk [her](https://support.catenda.com/nb/articles/4670287-mapper-og-dokumenter-tilgangstyring) for å lese mer om tilgangskontroll i dokumentseksjonen.
 
 ## 10. **Gjennomganger**
 
-Godkjenningsmenyen er synlig for prosjekter der [statusarbeidsflyten](https://support.catenda.com/nb/articles/9662473-status-workflow-shared-published) er aktivert i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-document-settings-page).
+Godkjenningsmenyen er synlig for prosjekter der [statusarbeidsflyten](https://support.catenda.com/nb/articles/9662473-statusarbeidsflyt-delt-publisert) er aktivert i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger).
 
 ### 10.1 **Ingen åpne godkjenningsforespørsler**
 
@@ -314,7 +314,7 @@ Hvis delte statuser ikke er deaktivert med den nye statusarbeidsflyten i dokumen
 
 _Nødvendig tilgang for å vise delte revisjoner:_ Lesetilgang til dokumentet. Avkrysningsmerkeutsendelse for visning av delte revisjoner merket.
 
-_Ny godkjenningsforespørsel_ Klikk [her](https://support.catenda.com/nb/articles/12360159-creating-a-new-approval-request) for å lese mer om opprettelse av en ny godkjenningsforespørsel
+_Ny godkjenningsforespørsel_ Klikk [her](https://support.catenda.com/nb/articles/12360159-opprette-en-ny-gjennomgangforesporsel-eldre-versjon) for å lese mer om opprettelse av en ny godkjenningsforespørsel
 
 _Godkjenningsforespørseloversikt_ Med den nye validerararbeidsflyten er det mulig å lage et utkast av en godkjenningsarbeidsflyt. Utkastgodkjenninger vises ikke i oversikten. Så snart en godkjenningsarbeidsflyt er startet, vises den, og blir værende, i godkjenningsarbeidsflytoversikten. Et hvilket som helst antall forespørsler om godkjenning av hver av de delte revisjonene i dokumentet kan ha blitt gjort, hvorav noen fortsatt kan være åpne. Slik kan godkjenningsoversikten se ut når en av revisjonene i dokumentet er del av en åpen godkjenningsforespørsel med den nye validerararbeidsflyten når den siste revisjonen fortsatt blir validert:
 
@@ -340,7 +340,7 @@ Merk at det bare er mulig å laste opp utkastrevisjoner og derved lage godkjenni
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/33-new-draft-revision-but-no-approval-request-yet-legacy.png)
 
-_Ny godkjenningsforespørsel_ Klikk [her](https://support.catenda.com/nb/articles/12360159-creating-a-new-approval-request) for å lese mer om opprettelse av en ny godkjenningsforespørsel
+_Ny godkjenningsforespørsel_ Klikk [her](https://support.catenda.com/nb/articles/12360159-opprette-en-ny-gjennomgangforesporsel-eldre-versjon) for å lese mer om opprettelse av en ny godkjenningsforespørsel
 
 ### 10.4 **Godkjenningsforespørseloversikt - Arv**
 
@@ -358,7 +358,7 @@ Hvis revisjonen ble publisert som et resultat av en godkjenning, er den godkjenn
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/35-approval-request-overview-legacy.png)
 
-Uavhengig av om den siste revisjonen er publisert eller ikke, vises et kort for hver dokumentrevisjon som er del av en godkjenningsforespørsel som fortsatt er åpen. På denne måten kan godkjenningene som ikke er lukket, gjennomgås. Klikk [her](https://support.catenda.com/nb/articles/8349340-approvals-page) for å se hva som beskrives i et godkjenningskort.
+Uavhengig av om den siste revisjonen er publisert eller ikke, vises et kort for hver dokumentrevisjon som er del av en godkjenningsforespørsel som fortsatt er åpen. På denne måten kan godkjenningene som ikke er lukket, gjennomgås. Klikk [her](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon) for å se hva som beskrives i et godkjenningskort.
 
 ### 10.5 **Arkivering all utkaststatuser - Arv**
 
@@ -382,7 +382,7 @@ Her kan du se historikken til dokumentet
 
 ## 13. **Samlinger**
 
-Hvis dokumentet ditt er del av noen [samlinger](https://support.catenda.com/nb/articles/6344318-collections-page), blir de oppført her.
+Hvis dokumentet ditt er del av noen [samlinger](https://support.catenda.com/nb/articles/6344318-samlingside), blir de oppført her.
 
 ## 14. **Koblede objekter**
 
@@ -390,4 +390,4 @@ Her kan du se hvilke objekter som er koblet til dokumentet
 
 ## 15. **Saker**
 
-Et sakkort for hver sak som dokumentet har blitt relatert til vises her. Klikk [her](https://support.catenda.com/nb/articles/6941232-list-view-in-a-topic-board) for å lese mer om hva som vises i et sakkort.
+Et sakkort for hver sak som dokumentet har blitt relatert til vises her. Klikk [her](https://support.catenda.com/nb/articles/6941232-listevisning-i-en-saksliste) for å lese mer om hva som vises i et sakkort.

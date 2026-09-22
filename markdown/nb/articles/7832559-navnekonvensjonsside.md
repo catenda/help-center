@@ -1,6 +1,6 @@
 # Navnekonvensjonsside
 
-Administratorer vil kunne finne siden Navnekonvensjoner som en underside til [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-project-settings-page).
+Administratorer vil kunne finne siden Navnekonvensjoner som en underside til [prosjektinnstillinger](https://support.catenda.com/nb/articles/4670273-prosjektinnstillinger).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/01-intro.png)
 
@@ -82,4 +82,4 @@ En konvensjon har alltid minst to blokker: 1\. Navne på filen/dokumentet. 2\. N
 
 ![Avbryt Send navnkonvensjon](https://raw.githubusercontent.com/catenda/help-center/main/images/kj97gd0a/11-br-submitting-a-convention.png)
 
-Etter innsending av en navnekonvensjon kan den [aktiveres per mappe](https://support.catenda.com/nb/articles/7831371-document-settings#h_6672c14d90) i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-document-settings).
+Etter innsending av en navnekonvensjon kan den [aktiveres per mappe](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger#h_6672c14d90) i [dokumentinnstillinger](https://support.catenda.com/nb/articles/7831371-dokumentinnstillinger).

@@ -20,7 +20,7 @@ After selecting a topic row the selected item action menu appears towards the to
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/02-selected-item-actions.png)
 
-Click [here](https://support.catenda.com/en/articles/4670284-actions-in-a-topic-board) to read more about the selected item action menu.
+Click [here](https://support.catenda.com/en/articles/4670284-topics-table-actions) to read more about the selected item action menu.
 
 ### 1.3 **Row content**
 
@@ -82,7 +82,7 @@ _Cursor change_ You will know you are hovering over the right place when your cu
 
 ## 5. **4. List view**
 
-Swap between [List view](https://support.catenda.com/en/articles/6941232-issue-board-s-list-view) or Table view
+Swap between [List view](https://support.catenda.com/en/articles/6941232-list-view-in-a-topic-board) or Table view
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/a4h2jb40/08-4-list-view.png)
 
@@ -112,7 +112,7 @@ The following pages can be found as sub-pages to the topics page: The sub pages 
 
 ### 8.2 **Milestones**
 
-[Milestones](https://support.catenda.com/en/articles/4670266-creating-a-new-milestone) - Important dates in the project
+[Milestones](https://support.catenda.com/en/articles/4670266-milestones-page) - Important dates in the project
 
 ### 8.3 **Statistics**
 
@@ -120,4 +120,4 @@ The following pages can be found as sub-pages to the topics page: The sub pages 
 
 ### 8.4 **Settings**
 
-Clicking on the [settings page](https://support.catenda.com/en/articles/4670277-issue-board-settings) opens the settings page for the current topic board. _Access required:_ Full access to the topic board
+Clicking on the [settings page](https://support.catenda.com/en/articles/4670277-topic-board-settings-page) opens the settings page for the current topic board. _Access required:_ Full access to the topic board

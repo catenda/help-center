@@ -2,13 +2,13 @@
 
 Øyeblikkbilder beskriver et sted og tidspunkt i 3D. De kan brukes til å vise mennesker hva du ser, da de vil kunne gjenskape de samme visningene ikke bare innenfor Catenda Hub, men også i deres miljø. Øyeblikkbilder kan gjenskapes ved å spille dem både i Catenda Hub og i våre programtillegg.
 
-Slik kan et Øyeblikksbilde se ut i [kommentaren til en sak](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) eller i et [bokmerke](https://support.catenda.com/nb/articles/8471481-bookmark#h_5c9944a45e). <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-5a151da0b11e.png" width="272.72727272727275"/> Saken kan ha en merknad på toppen av bildet og knappene ser annerledes ut. Skjønt Øyeblikksbilder brukes på forskjellige måter i sakkommentarer og bokmerker, er funksjonaliteten deres den samme.
+Slik kan et Øyeblikksbilde se ut i [kommentaren til en sak](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_1ba7f8873f) eller i et [bokmerke](https://support.catenda.com/nb/articles/8471481-bokmerkeside-for-innhold#h_5c9944a45e). <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-5a151da0b11e.png" width="272.72727272727275"/> Saken kan ha en merknad på toppen av bildet og knappene ser annerledes ut. Skjønt Øyeblikksbilder brukes på forskjellige måter i sakkommentarer og bokmerker, er funksjonaliteten deres den samme.
 
 ## 1. **Øyeblikksbildebilde**
 
 ### 1.1 **Øyeblikksbildebilde for sakkommentar**
 
-Hvis du klikker hvor som helst på bildet av et kommentarøyeblikkbilde, vil det [poppes ut](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) slik at du kan se innholdet i et større format og laste det ned etter at det har blitt sendt. Etter å ha opprettet øyeblikksbildet og før du legger det til i saken, vil du kunne legge til merknader på det.
+Hvis du klikker hvor som helst på bildet av et kommentarøyeblikkbilde, vil det [poppes ut](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_e36d14edc8) slik at du kan se innholdet i et større format og laste det ned etter at det har blitt sendt. Etter å ha opprettet øyeblikksbildet og før du legger det til i saken, vil du kunne legge til merknader på det.
 
 ### 1.2 **Øyeblikksbildebilde for bokmerke**
 
@@ -20,7 +20,7 @@ Størrelsen på bildet som er vedlagt, avhenger av størrelsen på viseren og ne
 
 Øyeblikkbilder er den beste måten å lage høykvalitetsbilder eller renderinger fra Catenda Hub-viseren av følgende årsaker:
 
-- Øyeblikksbildebilder kan lastes ned fra [vedleggspopupen](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic#h_e36d14edc8) i en sakkommentar.
+- Øyeblikksbildebilder kan lastes ned fra [vedleggspopupen](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_e36d14edc8) i en sakkommentar.
 - Øyeblikksbildebilder kan ha høyere oppløsninger enn bare å ta et skjermbilde fra viseren.
 
 Det største bildet vi har sett bli generert så langt er 6417x11113 piksler. For å lage et øyeblikkbilde såpass stort ble følgende innstillinger brukt:
@@ -54,7 +54,7 @@ Hvis mindre enn halvparten av objektene i en modell er synlige, vil objekter med
 
 Isolert Bare objektene som ble isolert da øyblikksbildet ble opprettet, vil bli isolert. Objekter med nye IDer vil bli vist, men ikke uthevet.
 
-**Valg** Hvis [valg](https://support.catenda.com/nb/articles/8238584-information-panel#h_d713a0abb1) har blitt gjort i [informasjonspanelet](https://support.catenda.com/nb/articles/8238584-information-panel), vil disse bli husket når visningspunktet spilles. Dette gjør det enkelt å velge ulike sett med objekter. Dette lar deg også gi et sett med objekter en farge som er annerledes enn standardfargen til objektene når du normalt åpner dem fra modelldelen.
+**Valg** Hvis [valg](https://support.catenda.com/nb/articles/8238584-informasjonspanel#h_d713a0abb1) har blitt gjort i [informasjonspanelet](https://support.catenda.com/nb/articles/8238584-informasjonspanel), vil disse bli husket når visningspunktet spilles. Dette gjør det enkelt å velge ulike sett med objekter. Dette lar deg også gi et sett med objekter en farge som er annerledes enn standardfargen til objektene når du normalt åpner dem fra modelldelen.
 
 _Velg objekter-knapp_ I en sakkommentar vil du se et ikon som viser hvor mange objekter som er konfigurert til å bli valgt i et øyeblikkbilde.
 
@@ -68,23 +68,23 @@ Klippplan som er konfigurert i øyblikksbildet, vil være aktive når øyblikksb
 
 ### 2.3 **Revisjonsvelger**
 
-Hvilke 2D- og 3D-visninger som har blitt slått på eller av i [revisjonsvelgeren](https://support.catenda.com/nb/articles/8227211-3d-viewer#h_6c32b713c9). Innstillingene for punktskyer vil bli gjenskap.
+Hvilke 2D- og 3D-visninger som har blitt slått på eller av i [revisjonsvelgeren](https://support.catenda.com/nb/articles/8227211-3d-viser#h_6c32b713c9). Innstillingene for punktskyer vil bli gjenskap.
 
 ### 2.4 **Rutenetvalgmeny**
 
-Rutenett som har blitt slått på i [rutenetvalgmenyen](https://support.catenda.com/nb/articles/8227211-3d-viewer#h_b735587e69) vil bli vist.
+Rutenett som har blitt slått på i [rutenetvalgmenyen](https://support.catenda.com/nb/articles/8227211-3d-viser#h_b735587e69) vil bli vist.
 
 ### 2.5 **Synlighetsvalgmeny**
 
-Alternativer som er konfigurert med [synlighetsvalgmenyen](https://support.catenda.com/nb/articles/8227211-3d-viewer#h_376dfb4859) vil bli gjenskap.
+Alternativer som er konfigurert med [synlighetsvalgmenyen](https://support.catenda.com/nb/articles/8227211-3d-viser#h_376dfb4859) vil bli gjenskap.
 
 ### 2.6 **Kameraalternativer**
 
-Kameraet i 3D-viseren vil bevege seg til stedet og visningsvinkelen som er angitt i øyblikksbildet. Kameratypen som er angitt i [kameraalternativene](https://support.catenda.com/nb/articles/8227211-3d-viewer#h_02072804a5) vil bli gjenskap. Skyggevalg som er angitt i [kameraalternativene](https://support.catenda.com/nb/articles/8227211-3d-viewer#h_02072804a5) vil bli gjenskap.
+Kameraet i 3D-viseren vil bevege seg til stedet og visningsvinkelen som er angitt i øyblikksbildet. Kameratypen som er angitt i [kameraalternativene](https://support.catenda.com/nb/articles/8227211-3d-viser#h_02072804a5) vil bli gjenskap. Skyggevalg som er angitt i [kameraalternativene](https://support.catenda.com/nb/articles/8227211-3d-viser#h_02072804a5) vil bli gjenskap.
 
 ### 2.7 **3D-innstillinger**
 
-Innstillinger som synsvinkel eller inkrementell gjengivelse som er angitt i [3D-innstillinger](https://support.catenda.com/nb/articles/5784718-3d-viewer-settings) vil bli gjenskap.
+Innstillinger som synsvinkel eller inkrementell gjengivelse som er angitt i [3D-innstillinger](https://support.catenda.com/nb/articles/5784718-3d-viser-innstillinger) vil bli gjenskap.
 
 ## 3. **Gjenskap øyeblikkbilde**
 
@@ -111,7 +111,7 @@ Både publiserte og delte versjoner av modeller og dokumenter vises med dette al
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/02-copying-and-favoriting-snapshots.png)
 
-Hvis dette bokmerket ble opprettet av et annet medlem, vil du se en +. Dette lar deg opprette din egen kopi av bokmerket som du kan redigere og filtrere. Hvis du allerede har kopiert dette bokmerket, vil denne knappen være nedtonet og du vil kunne åpne din versjon [nedenfor](https://support.catenda.com/nb/articles/8471481-bookmark#h_5c9944a45e). Ved å kopiere et bokmerke kan du holde styr på hvilket bokmerke du kopierte.
+Hvis dette bokmerket ble opprettet av et annet medlem, vil du se en +. Dette lar deg opprette din egen kopi av bokmerket som du kan redigere og filtrere. Hvis du allerede har kopiert dette bokmerket, vil denne knappen være nedtonet og du vil kunne åpne din versjon [nedenfor](https://support.catenda.com/nb/articles/8471481-bokmerkeside-for-innhold#h_5c9944a45e). Ved å kopiere et bokmerke kan du holde styr på hvilket bokmerke du kopierte.
 
 **Favoritt-bokmerke**
 
@@ -179,7 +179,7 @@ Medlemmer med lesetilgang til sakslisten vil kunne se øyeblikksbildet. Sakseksp
 
 ### 7.2 **Delingsinstillinger for bokmerker**
 
-[Delingskonfigurasjonen](https://support.catenda.com/nb/articles/8471481-bookmark#h_5c9944a45e) for bokmerket
+[Delingskonfigurasjonen](https://support.catenda.com/nb/articles/8471481-bokmerkeside-for-innhold#h_5c9944a45e) for bokmerket
 
 ### 7.3 **Privat**
 
@@ -197,7 +197,7 @@ _Bokmarksynlighet:_ Alle prosjektmedlemmer, kan deles med eksterne personer via 
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/10-public-link-to-bookmark.png)
 
-Hvis en [offentlig lenke](https://support.catenda.com/nb/articles/8471481-bookmark#h_b148931acf) har blitt aktivert for dette bokmerket, kan du klikke på denne knappen for å åpne den offentlige lenken i en ny fane.
+Hvis en [offentlig lenke](https://support.catenda.com/nb/articles/8471481-bokmerkeside-for-innhold#h_b148931acf) har blitt aktivert for dette bokmerket, kan du klikke på denne knappen for å åpne den offentlige lenken i en ny fane.
 
 ## 9. **Slette et øyeblikkbilde**
 

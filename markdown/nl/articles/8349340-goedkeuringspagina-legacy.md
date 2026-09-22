@@ -1,6 +1,6 @@
 # Goedkeuringspagina - Legacy
 
-De goedkeuringspagina kunt u vinden als subpagina van de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documents-page) in het linkernavigatiemenu. De goedkeuringspagina is standaard verborgen en wordt zichtbaar wanneer de statusworkflow is geactiveerd in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-document-settings). Als alle [conceptstatussen](https://support.catenda.com/nl/articles/7831371-document-settings#h_e6f3ffdbff) zijn gearchiveerd en alleen gepubliceerde statussen worden verwijderd, verdwijnt de pagina opnieuw zolang er geen goedkeuringen zijn gemaakt. Hier vindt u een overzicht van de goedkeuringsverzoeken in het project.
+De goedkeuringspagina kunt u vinden als subpagina van de [documentenpagina](https://support.catenda.com/nl/articles/8204673-documentenpagina) in het linkernavigatiemenu. De goedkeuringspagina is standaard verborgen en wordt zichtbaar wanneer de statusworkflow is geactiveerd in [documentinstellingen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen). Als alle [conceptstatussen](https://support.catenda.com/nl/articles/7831371-pagina-documentinstellingen#h_e6f3ffdbff) zijn gearchiveerd en alleen gepubliceerde statussen worden verwijderd, verdwijnt de pagina opnieuw zolang er geen goedkeuringen zijn gemaakt. Hier vindt u een overzicht van de goedkeuringsverzoeken in het project.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xc0e4bsa/01-intro.png)
 
@@ -18,15 +18,15 @@ De nieuwe item-acties kunt u vinden in de rechterbovenhoek van de pagina.
 
 ### 1.1 **Nieuw goedkeuringsverzoek**
 
-Maak een nieuw goedkeuringsverzoek. Klik [hier](https://support.catenda.com/nl/articles/12360159-creating-a-new-approval-request) voor meer informatie over het maken van een nieuw goedkeuringsverzoek.
+Maak een nieuw goedkeuringsverzoek. Klik [hier](https://support.catenda.com/nl/articles/12360159-een-nieuw-goedkeuringsverzoek-maken-legacy) voor meer informatie over het maken van een nieuw goedkeuringsverzoek.
 
 ### 1.2 **Nieuw conceptgoedkeuringsverzoek**
 
-Maak een nieuw goedkeuringsverzoek met concepten die overblijven van voordat de nieuwe statusworkflow voor een project moest worden geactiveerd. Klik [hier](https://support.catenda.com/nl/articles/12360159-creating-a-new-approval-request#h_e06d6cce0d) voor meer informatie over het maken van een nieuw conceptgoedkeuringsverzoek.
+Maak een nieuw goedkeuringsverzoek met concepten die overblijven van voordat de nieuwe statusworkflow voor een project moest worden geactiveerd. Klik [hier](https://support.catenda.com/nl/articles/12360159-een-nieuw-goedkeuringsverzoek-maken-legacy#h_e06d6cce0d) voor meer informatie over het maken van een nieuw conceptgoedkeuringsverzoek.
 
 ### 1.3 **Goedkeuringsinstellingen**
 
-Configureer hoe onderwerpen als gevolg van goedkeuringsvalidatie worden gemaakt. Klik [hier](https://support.catenda.com/nl/articles/12367293-approval-settings-page) voor meer informatie over goedkeuringsinstellingen. _Vereiste toegang:_ Beheerder
+Configureer hoe onderwerpen als gevolg van goedkeuringsvalidatie worden gemaakt. Klik [hier](https://support.catenda.com/nl/articles/12367293-goedkeuringsinstellingenpagina-verouderd) voor meer informatie over goedkeuringsinstellingen. _Vereiste toegang:_ Beheerder
 
 ## 2. **Zoek- of filteropties**
 
@@ -38,13 +38,13 @@ In de zoekbalk kan naar elke goedkeuring die beschikbaar is op de goedkeuringspa
 
 ## 3. **Goedkeuringenlijst**
 
-De informatie op de goedkeuringspagina is zo ingedeeld dat deze gemakkelijk in één oogopslag te begrijpen is, zelfs voor iemand die nog nooit een topicbord heeft gezien. Onder de zoekbalk vindt u een lijstweergave van alle [goedkeuringen](https://support.catenda.com/nl/articles/8349418-approval-content) die aan het huidige filter voldoen. Dit is hoe de goedkeuringenlijst eruit kan zien:
+De informatie op de goedkeuringspagina is zo ingedeeld dat deze gemakkelijk in één oogopslag te begrijpen is, zelfs voor iemand die nog nooit een topicbord heeft gezien. Onder de zoekbalk vindt u een lijstweergave van alle [goedkeuringen](https://support.catenda.com/nl/articles/8349418-goedkeuring-geopend-gepubliceerd-of-verwijderd-legacy) die aan het huidige filter voldoen. Dit is hoe de goedkeuringenlijst eruit kan zien:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/xc0e4bsa/04-approvals-list.png)
 
 ### 3.1 **Rijinhoud**
 
-**Goedkeuringsrij** Als u de inhoud van een goedkeuringsrij opent, wordt de goedkeuringspagina voor die goedkeuring geopend. Klik [hier](https://support.catenda.com/nl/articles/8349418-approval-content) voor meer informatie over de goedkeuringspagina.
+**Goedkeuringsrij** Als u de inhoud van een goedkeuringsrij opent, wordt de goedkeuringspagina voor die goedkeuring geopend. Klik [hier](https://support.catenda.com/nl/articles/8349418-goedkeuring-geopend-gepubliceerd-of-verwijderd-legacy) voor meer informatie over de goedkeuringspagina.
 
 ### 3.2 **Kaarten**
 
@@ -70,4 +70,4 @@ Alleen velden die in de goedkeuring zijn geconfigureerd, worden in de kaart weer
 
 ## 4. **Verder lezen**
 
-[Dit](https://support.catenda.com/nl/articles/5784717-document-approval) artikel bevat meer informatie over hoe het goedkeuringsproces werkt.
+[Dit](https://support.catenda.com/nl/articles/5784717-documentgoedkeuring-legacy) artikel bevat meer informatie over hoe het goedkeuringsproces werkt.

@@ -1,6 +1,6 @@
 # Page de Template topic - Hérité
 
-La page de Template topic se trouve en cliquant sur une carte de Template topic sur la [page Templates topic](https://support.catenda.com/fr/articles/12367730-topic-templates-page). _Accès requis_ : Administrateur
+La page de Template topic se trouve en cliquant sur une carte de Template topic sur la [page Templates topic](https://support.catenda.com/fr/articles/12367730-page-des-modeles-de-topic-legacy). _Accès requis_ : Administrateur
 
 Voici à quoi la page de Template topic peut ressembler :
 
@@ -16,7 +16,7 @@ Les actions de la page Templates topic se trouvent en cliquant sur le menu d'act
 
 ### 1.1 **Nouveau Template topic**
 
-Cliquez [ici](https://support.catenda.com/fr/articles/12372007-creating-a-new-topic-template) pour en savoir plus sur la création de nouveaux Templates topic.
+Cliquez [ici](https://support.catenda.com/fr/articles/12372007-creer-un-nouveau-gabarit-de-sujet-herite) pour en savoir plus sur la création de nouveaux Templates topic.
 
 ## 2. **Template topic**
 

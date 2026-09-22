@@ -1,6 +1,6 @@
 # Rechtermenu in een topic
 
-Het rechtermenu in een topic kan worden geopend door op de informatieknop rechts in het [topic banner](https://support.catenda.com/nl/articles/7986346-topic-banner-navigating-topics) bovenaan de pagina te klikken nadat je een topic hebt geopend.
+Het rechtermenu in een topic kan worden geopend door op de informatieknop rechts in het [topic banner](https://support.catenda.com/nl/articles/7986346-topicbanner-navigeren-door-topics) bovenaan de pagina te klikken nadat je een topic hebt geopend.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/7pvzrk75/01-intro.png)
 

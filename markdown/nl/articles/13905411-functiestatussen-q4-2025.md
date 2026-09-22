@@ -4,7 +4,7 @@ Om notificatiespam te voorkomen en een soepele lancering te garanderen kunnen ni
 
 Dit artikel bevat informatie over de volgende onderwerpen:
 
-_[On-demand functies inschakelen](https://support.catenda.com/nl/articles/13905373-feature-statuses-q3-2025#h_f72a02b8b6)_
+_[On-demand functies inschakelen](https://support.catenda.com/nl/articles/13905373-functiestatussen-q3-2025#h_f72a02b8b6)_
 
 ## 1. **On-demand functies inschakelen**
 

@@ -334,7 +334,7 @@ Here you find answers to questions that many users run into
 - [Custom fields FAQ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11384331-custom-fields-faq.md)
 - [Custom member information](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/11769670-custom-member-information.md)
 - [Document management in Catenda HUB](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/9775623-document-management-in-catenda-hub.md)
-- [Exporting all project data](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7946690-exporting-all-project-data.md): An overview of export methods for project data, documents, models, and topics in Catenda Hub. 
+- [Exporting all project data](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/7946690-exporting-all-project-data.md): An overview of export methods for project data, documents, models, and topics in Catenda Hub.
 Available options include Desktop Connector sync, PDF/A report creation, access permission auditing, and automated cloud backups to AWS S3 or Azure Blob storage
 - [Giving a user access to a single folder](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/8009637-giving-a-user-access-to-a-single-folder.md)
 - [Hardware recommendation](https://raw.githubusercontent.com/catenda/help-center/main/markdown/en/articles/6921941-hardware-recommendation.md): Find recommended hardware specifications and optimisation tips for the best experience with Catenda Hub.

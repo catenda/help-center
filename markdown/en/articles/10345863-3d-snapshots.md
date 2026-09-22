@@ -2,7 +2,7 @@
 
 Snapshots describe a place and time in 3D. They can be used for showing people what you are looking at as they will be able to recreate the same views not only within Catenda Hub but also within their environment. Snapshots can be recreated by playing them both in Catenda Hub and in our plugins.
 
-This is what a snapshot can look like in the [comment of a topic](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) or in a [bookmark](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e). <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-5a151da0b11e.png" width="272.72727272727275"/>
+This is what a snapshot can look like in the [comment of a topic](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f) or in a [bookmark](https://support.catenda.com/en/articles/8471481-bookmark-contents-page#h_5c9944a45e). <img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-a76bead96c41.png" width="365.48223350253795"/><img alt="" src="https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/inline-5a151da0b11e.png" width="272.72727272727275"/>
 The topic might have an annotation on top of the image and the buttons look different.
 While snapshots are used in different ways in topic comments and bookmarks, their functionality is the same.
 
@@ -113,7 +113,7 @@ Both published and shared revisions of models and documents will be displayed wi
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/02-copying-and-favoriting-snapshots.png)
 
-If this bookmark was created by another member you will see a +. This allows you to create your own copy of the bookmark that you can edit and filter on. If you have already copied this bookmark this button will be grayed out and you will be able to open your version [below](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e). By copying a bookmark you can keep track of which bookmark you copied.
+If this bookmark was created by another member you will see a +. This allows you to create your own copy of the bookmark that you can edit and filter on. If you have already copied this bookmark this button will be grayed out and you will be able to open your version [below](https://support.catenda.com/en/articles/8471481-bookmark-contents-page#h_5c9944a45e). By copying a bookmark you can keep track of which bookmark you copied.
 
 **Favorite bookmark**
 
@@ -181,7 +181,7 @@ Members with read access to the topic board will be able to see the snapshot. To
 
 ### 7.2 **Bookmarks sharing**
 
-The [sharing](https://support.catenda.com/en/articles/8471481-bookmark#h_5c9944a45e) configuration for the bookmark
+The [sharing](https://support.catenda.com/en/articles/8471481-bookmark-contents-page#h_5c9944a45e) configuration for the bookmark
 
 ### 7.3 **Private**
 
@@ -199,7 +199,7 @@ _Bookmark visibility:_ All project members, can be shared with external people v
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/4rm1v3b8/10-public-link-to-bookmark.png)
 
-If a [public link](https://support.catenda.com/en/articles/8471481-bookmark#h_b148931acf) has been enabled for this bookmark you can click this button to open the public link in a new tab.
+If a [public link](https://support.catenda.com/en/articles/8471481-bookmark-contents-page#h_b148931acf) has been enabled for this bookmark you can click this button to open the public link in a new tab.
 
 ## 9. **Deleting a snapshot**
 

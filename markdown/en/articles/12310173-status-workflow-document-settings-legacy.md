@@ -15,7 +15,7 @@ When the status workflow is activated the following things will change in the pr
     - Can be uploaded in published stage with checkbox.
 - The default status is set to No status.
 - An approvals menu in document settings appears.
-- An [approvals](https://support.catenda.com/en/articles/5784717-document-approval) sub-page to the documents page appears.
+- An [approvals](https://support.catenda.com/en/articles/5784717-document-approval-legacy) sub-page to the documents page appears.
 
 ## 1. **Add status**
 
@@ -45,7 +45,7 @@ Archived statuses can always be brought back by clicking on "Show archived statu
 
 ## 3. **Default status**
 
-When a new published revision is made either by upload or by publishing drafts as a result of an [approval](https://support.catenda.com/en/articles/5784717-document-approval) you can choose what status it will have by default. This status can still be changed before each document is published.
+When a new published revision is made either by upload or by publishing drafts as a result of an [approval](https://support.catenda.com/en/articles/5784717-document-approval-legacy) you can choose what status it will have by default. This status can still be changed before each document is published.
 
 ## 4. **Upload menu**
 

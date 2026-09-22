@@ -1,6 +1,6 @@
 # Åpen, publisert eller forkastet gjennomgang - Arv
 
-Klikk på en gjennomgang på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-approvals-page#h_f6b835862b) for å åpne gjennomgangssiden for gjennomgangen.
+Klikk på en gjennomgang på [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon#h_f6b835862b) for å åpne gjennomgangssiden for gjennomgangen.
 
 Slik kan gjennomgangssiden se ut:
 
@@ -18,7 +18,7 @@ Klikk her for å lese mer om innstillinger for gjennomganger.
 
 ## 2. **Navigering i gjennomgang**
 
-_Tilbake til gjennomganger-knapp_ - Gå tilbake til [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-approvals-page). _Fremgangslinje øverst_ - Viser gjennomgangene du kan navigere til
+_Tilbake til gjennomganger-knapp_ - Gå tilbake til [gjennomgangssiden](https://support.catenda.com/nb/articles/8349340-gjennomgangsside-eldre-versjon). _Fremgangslinje øverst_ - Viser gjennomgangene du kan navigere til
 
 > **Merknad:** Du kan bare navigere til like mange gjennomganger som du lastet inn på gjennomgangssiden. Du kan laste inn 100 gjennomganger om gangen ved å rulle ned gjennomgangslisten. Med mindre du ruller hele veien ned på gjennomgangssiden eller det er færre enn 100 saker i styret. Dette totale antallet er derfor ikke nødvendigvis representativt for det totale antallet gjennomganger på gjennomgangssiden.
 
@@ -78,7 +78,7 @@ Hvis et dokument har blitt funnet å være infisert med virus, blir det fjernet 
 
 ### 5.1 **Beskrivelse**
 
-Beskrivelsen av gjennomgangen følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts).
+Beskrivelsen av gjennomgangen følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg).
 
 ### 5.2 **Handlinger i tabellen for utkast til gjennomgang**
 
@@ -106,7 +106,7 @@ _Status_ - Utkastets status
 
 **Status for filvurdering** Statussen for filvurdering kan enten være Venter på godkjenning, Videorefølgt med kommentar, Videorefølgt eller Til oppfølging
 
-Kommentar Hvis det er en kommentar i gjennomgangen, vil du se en forhåndsvisning av den siste kommentaren ved siden av status for filvurdering. Kommentarer til gjennomgang følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/nb/articles/8430847-formatting-of-posts).
+Kommentar Hvis det er en kommentar i gjennomgangen, vil du se en forhåndsvisning av den siste kommentaren ved siden av status for filvurdering. Kommentarer til gjennomgang følger [de generelle formateringsreglene for innlegg](https://support.catenda.com/nb/articles/8430847-verktoy-for-formatering-av-innlegg).
 
 **Handlingsmeny** Legg til vurdering Hvis ingen vurderere er satt, kan hvem som helst legge til en vurdering. Hvis det finnes vurderere i gjennomgangsoverskriften, kan bare vurderere legge til en vurdering. Ved å legge til en vurdering kan du enten kommentere, viderefølge, viderefølge med kommentar eller til oppfølging hver utkast.
 

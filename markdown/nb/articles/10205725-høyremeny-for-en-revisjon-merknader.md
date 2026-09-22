@@ -1,22 +1,22 @@
 # Høyremeny for en revisjon - Merknader
 
-Hvis du velger et dokument på [dokumentsiden](https://support.catenda.com/nb/articles/8204673-documents-page) eller i et bibliotek, vil et nytt vindu åpnes for det dokumentet. Du vil alltid se den siste revisjonen når du åpner et dokument. Dokumentsiden kan se slik ut:
+Hvis du velger et dokument på [dokumentsiden](https://support.catenda.com/nb/articles/8204673-dokumenter-side) eller i et bibliotek, vil et nytt vindu åpnes for det dokumentet. Du vil alltid se den siste revisjonen når du åpner et dokument. Dokumentsiden kan se slik ut:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/01-intro.png)
 
-1. [Dokumentbanneret](https://support.catenda.com/nb/articles/8461918-document-banner-actions-navigation) spenner over toppen av dokumentsiden
+1. [Dokumentbanneret](https://support.catenda.com/nb/articles/8461918-dokumentbanner-navigasjon) spenner over toppen av dokumentsiden
 1. Du vil finne dokumenthodet under dokumentbanneret og over dokumentforhåndsvisningen.
-1. Under dokumenthodet vil du finne [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-document-preview-and-annotations).
+1. Under dokumenthodet vil du finne [dokumentforhåndsvisningen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader).
 1. Til venstre for dokumenthodet og forhåndsvisningen finner du dokumentlisten
 1. _Denne artikkelen:_ Til høyre for dokumenthodet og forhåndsvisningen finner du høyreinformasjonsmeny.
 
-Når du først åpner et dokument, kan høyremenyen være lukket. Du kan klikke på informasjonsknappen nederst til høyre på [dokumentbanneret](https://support.catenda.com/nb/articles/8461918-document-banner-actions-navigation) for å utvide denne menyen.
+Når du først åpner et dokument, kan høyremenyen være lukket. Du kan klikke på informasjonsknappen nederst til høyre på [dokumentbanneret](https://support.catenda.com/nb/articles/8461918-dokumentbanner-navigasjon) for å utvide denne menyen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/02-intro.png)
 
 ## 1. **Filinfo og Merknader-faner**
 
-Mot toppen av menyen vil du se fanene Filinfo og Merknader. Som standard, når du åpner høyremenyen, vil Filinfo-fanen være aktiv. Når du oppretter en merknad i dokumentforhåndsvisningen, bytter denne menyen automatisk til merknad-fanen. Denne artikkelen beskriver Merknad-fanen. Hvis du leter etter informasjon om Filinfo-fanen, klikk [her](https://support.catenda.com/nb/articles/8302244-right-menu-of-a-revision).
+Mot toppen av menyen vil du se fanene Filinfo og Merknader. Som standard, når du åpner høyremenyen, vil Filinfo-fanen være aktiv. Når du oppretter en merknad i dokumentforhåndsvisningen, bytter denne menyen automatisk til merknad-fanen. Denne artikkelen beskriver Merknad-fanen. Hvis du leter etter informasjon om Filinfo-fanen, klikk [her](https://support.catenda.com/nb/articles/8302244-hoyre-meny-for-en-revisjon-revisjonsinformasjon).
 
 ## 2. **Hva er en merknad**
 
@@ -36,7 +36,7 @@ Hvis noen merknader på din nåværende revisjon er lagt til saker, vil du se et
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/q23002me/03-markup-tab.png)
 
-For å legge til en merknad, velg et verktøy fra [verktøylinjen](https://support.catenda.com/nb/articles/5001165-document-preview-and-annotations#h_6e3ac983b6) over dokumentforhåndsvisningen og opprett en merknad.
+For å legge til en merknad, velg et verktøy fra [verktøylinjen](https://support.catenda.com/nb/articles/5001165-dokumentvisning-og-merknader#h_6e3ac983b6) over dokumentforhåndsvisningen og opprett en merknad.
 
 ### 2.2 **Valg av sak-rullegardin**
 
@@ -64,7 +64,7 @@ Hvis noen merknader på din nåværende revisjon er lagt til en sak, vil du se d
 
 ### 3.1 **Ulagrede merknader**
 
-For å lese om hvordan du lagrer nye merknader uten å ha valgt en sak, klikk [her](https://support.catenda.com/nb/articles/10209740-saving-a-markup#h_8542b82cf8).
+For å lese om hvordan du lagrer nye merknader uten å ha valgt en sak, klikk [her](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad#h_8542b82cf8).
 
 ### 3.2 **Alternativer for sakvisning**
 
@@ -98,7 +98,7 @@ _Sakshodet_ Mot toppen vil du se tittel og nummer på saken. Klikk på saktittel
 
 Under saktittelen vil du se status og type for saken. Du vil kunne endre statusen for denne saken i denne visningen ved å klikke på den og velge en annen status. Dette kan være nyttig når merknadene i saken alle er håndtert og saken kan lukkes. _Tilgang kreves:_ Skriverettigheter til saklisten saken er i.
 
-_Dokumentrevisjon merknader i sakkommentarer_ Hver merknad har et øyeblikksbilde koblet til seg. Dette øyeblikksbildet er et bilde av alle merknadene som er i gjeldende merknad. Du kan klikke på øyeblikksbildet for å åpne øyeblikksbilde-dialogen akkurat som [i en sak](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic#h_1ba7f8873f). Der vil du kunne se bildet stort på skjermen og kunne laste det ned.
+_Dokumentrevisjon merknader i sakkommentarer_ Hver merknad har et øyeblikksbilde koblet til seg. Dette øyeblikksbildet er et bilde av alle merknadene som er i gjeldende merknad. Du kan klikke på øyeblikksbildet for å åpne øyeblikksbilde-dialogen akkurat som [i en sak](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak#h_1ba7f8873f). Der vil du kunne se bildet stort på skjermen og kunne laste det ned.
 
 Hvis det finnes merknader, på revisjonen av dokumentet som er angitt under bildet, i flere kommentarer av saken, vil du se piler på venstre og høyre side av bildet. Disse pilene kan brukes til å se gjennom de ulike merknadene i saken.
 
@@ -116,4 +116,4 @@ Klikk tilbake-knappen til venstre for rullegardinen for å gå tilbake til sakso
 
 ### 4.1 **Lagring av nye merknader til en valgt sak**
 
-For å lese om hvordan du lagrer nye merknader til en valgt sak, klikk [her](https://support.catenda.com/nb/articles/10209740-saving-a-markup#h_17e389a6b7).
+For å lese om hvordan du lagrer nye merknader til en valgt sak, klikk [her](https://support.catenda.com/nb/articles/10209740-lagring-av-merknad#h_17e389a6b7).

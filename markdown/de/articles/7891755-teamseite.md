@@ -1,6 +1,6 @@
 # Teamseite
 
-Die Seite eines Teams können Sie auf der rechten Seite der [Mitglieder-Seite](https://support.catenda.com/de/articles/4670291-members-page) finden.
+Die Seite eines Teams können Sie auf der rechten Seite der [Mitglieder-Seite](https://support.catenda.com/de/articles/4670291-mitglieder-und-teams-seite) finden.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/bvhrpsv2/01-intro.png)
 

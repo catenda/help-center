@@ -16,52 +16,52 @@ Cela dit, je vous souhaite à tous d'excellentes vacances et je vous rappelle d'
 
 ### 1.1 **Nouveaux articles :**
 
-**Caractéristiques du produit** [Outils d'aperçu des documents](https://support.catenda.com/fr/articles/11384618-document-preview-tools) [Page Jalons](https://support.catenda.com/fr/articles/11376858-milestone-page)
+**Caractéristiques du produit** [Outils d'aperçu des documents](https://support.catenda.com/fr/articles/11384618-outils-d-apercu-de-document) [Page Jalons](https://support.catenda.com/fr/articles/11376858-page-de-contenu-du-milestone)
 
-**Dépannage** [Connexion et Mots de passe](https://support.catenda.com/fr/articles/10798891-sign-in-and-passwords) [Dépannage du Connecteur Bureau](https://support.catenda.com/fr/articles/11019637-desktop-connector-troubleshooting) [Dépannage du téléchargement de fichiers zip](https://support.catenda.com/fr/articles/11017391-zip-upload-troubleshooting) [Bâtiments et étages de la Visionneuse 2D](https://support.catenda.com/fr/articles/10901703-2d-viewer-buildings-and-storeys) [Dépannage de la boîte de dialogue de téléchargement de documents](https://support.catenda.com/fr/articles/11070748-upload-document-dialogue-troubleshooting) [Dépannage de l'intégration Solibri Documents](https://support.catenda.com/fr/articles/11431097-solibri-documents-integration-troubleshooting)
+**Dépannage** [Connexion et Mots de passe](https://support.catenda.com/fr/articles/10798891-connexion-et-mots-de-passe) [Dépannage du Connecteur Bureau](https://support.catenda.com/fr/articles/11019637-depannage-du-bureau-connector) [Dépannage du téléchargement de fichiers zip](https://support.catenda.com/fr/articles/11017391-depannage-du-telechargement-de-fichiers-zip) [Bâtiments et étages de la Visionneuse 2D](https://support.catenda.com/fr/articles/10901703-visionneuse-2d-batiments-et-etages) [Dépannage de la boîte de dialogue de téléchargement de documents](https://support.catenda.com/fr/articles/11070748-depannage-de-la-boite-de-dialogue-de-telechargement-de-documents) [Dépannage de l'intégration Solibri Documents](https://support.catenda.com/fr/articles/11431097-depannage-de-l-integration-des-documents-solibri)
 
-**Tutoriels et guides** [Vidéos Guidde](https://support.catenda.com/fr/articles/11055278-guidde-videos)
+**Tutoriels et guides** [Vidéos Guidde](https://support.catenda.com/fr/articles/11055278-videos-guidde)
 
-**Questions fréquemment posées** [Enregistrement d'un lien de filtre](https://support.catenda.com/fr/articles/11401493-saving-a-filter-link) [FAQ du Connecteur Bureau Catenda](https://support.catenda.com/fr/articles/11582835-catenda-desktop-connector-faq)
+**Questions fréquemment posées** [Enregistrement d'un lien de filtre](https://support.catenda.com/fr/articles/11401493-enregistrement-et-partage-d-un-lien-de-filtre) [FAQ du Connecteur Bureau Catenda](https://support.catenda.com/fr/articles/11582835-faq-catenda-desktop-connector)
 
 ### 1.2 **Articles qui ont changé :**
 
 **Caractéristiques du produit**
 
 - Modèles
-    - [Actions de la page Modèles](https://support.catenda.com/fr/articles/9431936-models-page-actions)
-    - [Actions de la page de présentation du modèle](https://support.catenda.com/fr/articles/9674157-model-overview-page-actions)
-    - [Quantité à enlever (QTO)](https://support.catenda.com/fr/articles/6673929-quantity-take-off-qto)
+    - [Actions de la page Modèles](https://support.catenda.com/fr/articles/9431936-actions-de-la-page-modeles)
+    - [Actions de la page de présentation du modèle](https://support.catenda.com/fr/articles/9674157-actions-de-la-page-de-contenu-du-modele)
+    - [Quantité à enlever (QTO)](https://support.catenda.com/fr/articles/6673929-releve-de-quantites-qto)
 - Sujets
-    - [Page Jalons](https://support.catenda.com/fr/articles/4670266-milestones-page)
+    - [Page Jalons](https://support.catenda.com/fr/articles/4670266-page-des-milestones)
 - Documents
-    - [Menu droit d'une révision - Informations de révision](https://support.catenda.com/fr/articles/8302244-right-menu-of-a-revision-revision-info)
-    - [Actions de la structure du document](https://support.catenda.com/fr/articles/4670288-document-structure-actions)
-    - [Actions de révision du document](https://support.catenda.com/fr/articles/9323521-document-revision-actions)
+    - [Menu droit d'une révision - Informations de révision](https://support.catenda.com/fr/articles/8302244-menu-droit-d-une-revision-informations-de-revision)
+    - [Actions de la structure du document](https://support.catenda.com/fr/articles/4670288-actions-du-tableau-documents)
+    - [Actions de révision du document](https://support.catenda.com/fr/articles/9323521-actions-de-revision-de-document)
     - [Aperçu du document et annotations](https://app.intercom.com/a/apps/areracg3/knowledge-hub/all-content?activeContentId=4496538&activeContentType=article&editorMode=view&search=document%20preview)
-    - [Colonnes sur la page des documents](https://support.catenda.com/fr/articles/8466850-columns-on-the-documents-page)
-    - [Publication de révision - ISO 19650](https://support.catenda.com/fr/articles/9874698-revision-publishing-iso-19650)
-    - [Télécharger une structure zip/fichier](https://support.catenda.com/fr/articles/7945410-upload-a-zip-file-structure)
-    - [Page Collections](https://support.catenda.com/fr/articles/6344318-collections-page)
+    - [Colonnes sur la page des documents](https://support.catenda.com/fr/articles/8466850-colonnes-sur-la-page-des-documents)
+    - [Publication de révision - ISO 19650](https://support.catenda.com/fr/articles/9874698-nouveau-workflow-de-statut-iso-19650)
+    - [Télécharger une structure zip/fichier](https://support.catenda.com/fr/articles/7945410-telecharger-un-fichier-zip-structure-de-fichiers)
+    - [Page Collections](https://support.catenda.com/fr/articles/6344318-page-collections)
 - Paramètres du projet
-    - [Page Paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page)
-    - [Page Champs personnalisés](https://support.catenda.com/fr/articles/6550459-custom-fields-page)
-    - [Page Membres](https://support.catenda.com/fr/articles/4670291-members-page)
+    - [Page Paramètres du projet](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet)
+    - [Page Champs personnalisés](https://support.catenda.com/fr/articles/6550459-page-des-champs-personnalises)
+    - [Page Membres](https://support.catenda.com/fr/articles/4670291-page-membres-et-equipes)
 - Visionneuses 2D et 3D
-    - [Menu outil Visionneuse 3D](https://support.catenda.com/fr/articles/4670294-3d-viewer-tool-menu)
-    - [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-3d-viewer)
-    - [Sélecteur de révision](https://support.catenda.com/fr/articles/4670279-revision-selector)
-    - [Nuages de points dans Catenda Hub](https://support.catenda.com/fr/articles/5606625-point-clouds-in-catenda-hub)
+    - [Menu outil Visionneuse 3D](https://support.catenda.com/fr/articles/4670294-menu-des-outils-de-la-visionneuse-3d)
+    - [Visionneuse 3D](https://support.catenda.com/fr/articles/8227211-visionneuse-3d)
+    - [Sélecteur de révision](https://support.catenda.com/fr/articles/4670279-selecteur-de-revision)
+    - [Nuages de points dans Catenda Hub](https://support.catenda.com/fr/articles/5606625-nuages-de-points-dans-catenda-hub)
 - Modules complémentaires et intégrations Catenda
-    - [Connecteur Bureau Catenda](https://support.catenda.com/fr/articles/8358861-catenda-desktop-connector)
-    - [Menu Sujets - Site Catenda](https://support.catenda.com/fr/articles/7734073-topics-menu-catenda-site)
-    - [Intégration des modèles et documents Solibri](https://support.catenda.com/fr/articles/6988148-solibri-models-and-documents-integration)
+    - [Connecteur Bureau Catenda](https://support.catenda.com/fr/articles/8358861-connecteur-catenda-desktop)
+    - [Menu Sujets - Site Catenda](https://support.catenda.com/fr/articles/7734073-menu-topics-catenda-site)
+    - [Intégration des modèles et documents Solibri](https://support.catenda.com/fr/articles/6988148-integration-des-modeles-et-documents-solibri)
 
-**Dépannage** [Recommandations matérielles](https://support.catenda.com/fr/articles/6921941-hardware-recommendation) [Pourquoi ne reçois-je pas d'e-mails ?](https://support.catenda.com/fr/articles/8417802-why-am-i-not-receiving-emails) [Emplacement et fonctionnalité du bouton d'aide](https://support.catenda.com/fr/articles/8894066-support-button-location-and-functionality)
+**Dépannage** [Recommandations matérielles](https://support.catenda.com/fr/articles/6921941-recommandation-materielle) [Pourquoi ne reçois-je pas d'e-mails ?](https://support.catenda.com/fr/articles/8417802-pourquoi-ne-recois-je-pas-d-e-mails) [Emplacement et fonctionnalité du bouton d'aide](https://support.catenda.com/fr/articles/8894066-localisation-et-fonctionnalite-du-bouton-de-support)
 
-**Questions fréquemment posées** [Sécurité du projet](https://support.catenda.com/fr/articles/8263256-project-security)
+**Questions fréquemment posées** [Sécurité du projet](https://support.catenda.com/fr/articles/8263256-securite-du-projet)
 
-Mises à jour récentes [Modèles en tant que documents](https://support.catenda.com/fr/articles/8064548-models-as-documents)
+Mises à jour récentes [Modèles en tant que documents](https://support.catenda.com/fr/articles/8064548-modeles-en-tant-que-documents)
 
 ## 2. **Bugs résolus**
 

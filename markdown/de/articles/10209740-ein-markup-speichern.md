@@ -1,8 +1,8 @@
 # Ein Markup speichern
 
-Wählen Sie ein [Annotationswerkzeug](https://support.catenda.com/de/articles/11384618-document-preview-tools) aus der Symbolleiste über der [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-document-preview-and-annotations). Platzieren Sie die Anmerkung, um das Menü der nicht gespeicherten Markups in der [Registerkarte Markups](https://support.catenda.com/de/articles/10205725-right-menu-of-a-revision-markups) des rechten Menüs einer Revision anzuzeigen.
+Wählen Sie ein [Annotationswerkzeug](https://support.catenda.com/de/articles/11384618-dokumentvorschau-tools) aus der Symbolleiste über der [Dokumentvorschau](https://support.catenda.com/de/articles/5001165-dokumentvorschau-und-anmerkungen). Platzieren Sie die Anmerkung, um das Menü der nicht gespeicherten Markups in der [Registerkarte Markups](https://support.catenda.com/de/articles/10205725-rechtes-menu-einer-revision-markups) des rechten Menüs einer Revision anzuzeigen.
 
-Wenn ein Dokument zum ersten Mal geöffnet wird, ist das rechte Menü der Revision möglicherweise geschlossen. Klicken Sie auf die Informationsschaltfläche auf der rechten Seite des [Dokumentbanners](https://support.catenda.com/de/articles/8461918-document-banner-actions-navigation), um dieses Menü zu erweitern.
+Wenn ein Dokument zum ersten Mal geöffnet wird, ist das rechte Menü der Revision möglicherweise geschlossen. Klicken Sie auf die Informationsschaltfläche auf der rechten Seite des [Dokumentbanners](https://support.catenda.com/de/articles/8461918-dokumentbanner-navigation), um dieses Menü zu erweitern.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/g0sj62y4/01-intro.png)
 

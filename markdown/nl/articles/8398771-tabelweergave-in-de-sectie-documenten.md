@@ -1,6 +1,6 @@
 # Tabelweergave in de sectie Documenten
 
-De [pagina Documenten](https://support.catenda.com/nl/articles/8204673-documents-page) heeft een compleet overhaul gekregen **🎉🎉**
+De [pagina Documenten](https://support.catenda.com/nl/articles/8204673-documentenpagina) heeft een compleet overhaul gekregen **🎉🎉**
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/3760667x/01-intro.png)
 
@@ -36,11 +36,11 @@ Dit is de naam van het oorspronkelijke bestand dat is geüpload. In tegenstellin
 
 ### 1.2 **Modelnaam**
 
-Als [modellen als documenten](https://support.catenda.com/nl/articles/8064548-models-as-documents) is ingeschakeld voor uw project, ziet u de naam van het model dat aan een IFC-bestand is gekoppeld in deze kolom.
+Als [modellen als documenten](https://support.catenda.com/nl/articles/8064548-modellen-als-documenten) is ingeschakeld voor uw project, ziet u de naam van het model dat aan een IFC-bestand is gekoppeld in deze kolom.
 
 ### 1.3 **Viewer**
 
-In deze kolom kunt u IFC-bestanden en pointclouds openen in de [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer). Dit bestond al eerder, maar heeft nu een kolomnaam. Als [modellen als documenten](https://support.catenda.com/nl/articles/8064548-models-as-documents) is ingeschakeld voor uw project, kunt u direct de [2D-weergave](https://support.catenda.com/nl/articles/4854537-2d-viewer) of 3D-weergave van het document-model vanuit de lijstweergave openen en het model centreren als het in 3D is geladen
+In deze kolom kunt u IFC-bestanden en pointclouds openen in de [3D-viewer](https://support.catenda.com/nl/articles/8227211-3d-viewer). Dit bestond al eerder, maar heeft nu een kolomnaam. Als [modellen als documenten](https://support.catenda.com/nl/articles/8064548-modellen-als-documenten) is ingeschakeld voor uw project, kunt u direct de [2D-weergave](https://support.catenda.com/nl/articles/4854537-2d-viewer) of 3D-weergave van het document-model vanuit de lijstweergave openen en het model centreren als het in 3D is geladen
 
 ### 1.4 **Aangemaakt**
 

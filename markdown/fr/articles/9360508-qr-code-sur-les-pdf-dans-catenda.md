@@ -1,6 +1,6 @@
 # Code QR sur les PDF dans Catenda
 
-Les codes QR peuvent être configurés par dossier dans la [configuration des dossiers](https://support.catenda.com/fr/articles/7831371-document-settings#h_6672c14d90) des [paramètres des documents](https://support.catenda.com/fr/articles/7831371-document-settings).
+Les codes QR peuvent être configurés par dossier dans la [configuration des dossiers](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document#h_6672c14d90) des [paramètres des documents](https://support.catenda.com/fr/articles/7831371-page-des-parametres-du-document).
 
 Cette fonction fournit aux utilisateurs de Catenda une fonction pour vérifier si le document qu'ils utilisent est la dernière version, en scannant le code QR imprimé sur le PDF.
 
@@ -46,11 +46,11 @@ Si vous avez un document que vous n'avez pas créé et que vous souhaitez ajoute
 
 ### 2.3 Positionnement du code QR sur un document Catenda
 
-Si votre document est déjà sur Catenda, vous devrez ajouter l'espace réservé du code QR et télécharger une nouvelle révision. Si vous n'avez pas accès à un programme d'édition PDF, vous pouvez utiliser l'[outil d'annotation de tampon d'image](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations#h_6e3ac983b6) pour ajouter l'espace réservé du code QR à votre document.
+Si votre document est déjà sur Catenda, vous devrez ajouter l'espace réservé du code QR et télécharger une nouvelle révision. Si vous n'avez pas accès à un programme d'édition PDF, vous pouvez utiliser l'[outil d'annotation de tampon d'image](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations#h_6e3ac983b6) pour ajouter l'espace réservé du code QR à votre document.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/04-placing-the-qr-code-a-catenda-document.png)
 
-Pour enregistrer le document afin que l'espace réservé du code QR soit reconnu, imprimez le document avec [le bouton d'impression](https://support.catenda.com/fr/articles/5001165-document-preview-and-annotations#h_709cb0ed70) qui se trouve en haut à gauche de votre aperçu du document.
+Pour enregistrer le document afin que l'espace réservé du code QR soit reconnu, imprimez le document avec [le bouton d'impression](https://support.catenda.com/fr/articles/5001165-apercu-des-documents-et-annotations#h_709cb0ed70) qui se trouve en haut à gauche de votre aperçu du document.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/05-placing-the-qr-code-a-catenda-document.png)
 
@@ -82,7 +82,7 @@ Voici un exemple du positionnement de l'espace réservé du code QR et des résu
 
 ### 3.1 **Historique des documents**
 
-Après avoir téléchargé un document avec un espace réservé de code QR, vous pourrez voir qu'il a été traité avec succès dans l'historique du document du [menu d'informations de droite](https://support.catenda.com/fr/articles/8302244-right-menu-of-a-revision).
+Après avoir téléchargé un document avec un espace réservé de code QR, vous pourrez voir qu'il a été traité avec succès dans l'historique du document du [menu d'informations de droite](https://support.catenda.com/fr/articles/8302244-menu-droit-d-une-revision-informations-de-revision).
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/c86kfdqw/10-document-history.png)
 

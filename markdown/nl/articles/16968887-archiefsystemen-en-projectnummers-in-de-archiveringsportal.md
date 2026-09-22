@@ -22,4 +22,4 @@ Het **projectnummer** in **Instellingen** is een **Agresso-projectnummer**, 8 te
 
 De portal is gebouwd voor openBIM-projectgegevens in Catenda Hub, dus de documenten en onderwerpen die deze aanbiedt, komen uit Catenda Hub en nergens anders vandaan.
 
-Voor het op andere manieren uit Catenda Hub halen van projectgegevens, inclusief exports, langetermijnformaten en de bevroren archiefoptie, zie [Al projectgegevens exporteren](https://support.catenda.com/nl/articles/7946690-exporting-all-project-data).
+Voor het op andere manieren uit Catenda Hub halen van projectgegevens, inclusief exports, langetermijnformaten en de bevroren archiefoptie, zie [Al projectgegevens exporteren](https://support.catenda.com/nl/articles/7946690-alles-projectgegevens-exporteren).

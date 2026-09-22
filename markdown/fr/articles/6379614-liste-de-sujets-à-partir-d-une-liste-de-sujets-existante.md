@@ -1,6 +1,6 @@
 # Liste de sujets à partir d'une liste de sujets existante
 
-Vous pouvez créer une nouvelle liste de sujets en cliquant sur l'action de nouvelle liste de sujets sur la [page des listes](https://support.catenda.com/fr/articles/9413644-boards-page). L'action se trouve avec le bouton plus vert en haut à droite ou dans le menu d'actions adjacent. Accès requis : accès en écriture pour créer de nouvelles listes de sujets dans le menu d'accès sur la [page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page).
+Vous pouvez créer une nouvelle liste de sujets en cliquant sur l'action de nouvelle liste de sujets sur la [page des listes](https://support.catenda.com/fr/articles/9413644-page-des-tableaux). L'action se trouve avec le bouton plus vert en haut à droite ou dans le menu d'actions adjacent. Accès requis : accès en écriture pour créer de nouvelles listes de sujets dans le menu d'accès sur la [page des paramètres du projet](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet).
 
 Voici à quoi peut ressembler la page Nouvelle liste de sujets :
 
@@ -8,13 +8,13 @@ Voici à quoi peut ressembler la page Nouvelle liste de sujets :
 
 ## 1. **Nom**
 
-Donnez à la liste de sujets un nom comme exigence minimale pour ajouter la liste de sujets. La liste des listes de sujets est triée par nom de liste de sujets selon l'[ordre de tri typique des listes](https://support.catenda.com/fr/articles/8487788-sorting-order-of-lists) sur Catenda. Il est donc souvent judicieux d'utiliser une convention de nommage lors du nommage des listes de sujets. Voici un exemple de ce que les listes de sujets pourraient s'appeler :
+Donnez à la liste de sujets un nom comme exigence minimale pour ajouter la liste de sujets. La liste des listes de sujets est triée par nom de liste de sujets selon l'[ordre de tri typique des listes](https://support.catenda.com/fr/articles/8487788-ordre-de-tri-des-listes) sur Catenda. Il est donc souvent judicieux d'utiliser une convention de nommage lors du nommage des listes de sujets. Voici un exemple de ce que les listes de sujets pourraient s'appeler :
 
 ![Liste des tableaux de bord thématiques introduction examen des documents approuvé approuvé avec commentaires rejeté documents breeam socre coordination coût projets](https://raw.githubusercontent.com/catenda/help-center/main/images/00aszxqg/02-name.png)
 
 ## 2. **Description**
 
-La description de la liste de sujets est facultative et ne peut être vue ultérieurement dans les paramètres de la liste de sujets que par ceux disposant d'un accès complet à la liste de sujets. La description de la liste de sujets suit les règles générales de [mise en forme des messages](https://support.catenda.com/fr/articles/8430847-formatting-of-posts) sur Catenda.
+La description de la liste de sujets est facultative et ne peut être vue ultérieurement dans les paramètres de la liste de sujets que par ceux disposant d'un accès complet à la liste de sujets. La description de la liste de sujets suit les règles générales de [mise en forme des messages](https://support.catenda.com/fr/articles/8430847-boite-a-outils-de-formatage-des-publications) sur Catenda.
 
 ## 3. **Copier les paramètres d'une liste de sujets existante**
 

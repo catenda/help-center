@@ -1,6 +1,6 @@
 # Topic Header - The subject of a topic
 
-Select a topic from an [topic board](https://support.catenda.com/en/articles/4670271-issues-page#h_6a5895256b) a to open the topic page of the topic. This is what the [topic banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) on the topic page can look like:
+Select a topic from an [topic board](https://support.catenda.com/en/articles/4670271-topics-page#h_6a5895256b) a to open the topic page of the topic. This is what the [topic banner](https://support.catenda.com/en/articles/7986346-topic-banner-navigating-topics) on the topic page can look like:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aczt44d1/01-intro.png)
 
@@ -8,7 +8,7 @@ The [topic header](https://support.catenda.com/en/articles/8400566-topic-header-
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/aczt44d1/02-intro.png)
 
-Below the topic header the [topic body](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic) can be found with description and comments. To the right of the topic body and header the [right information panel](https://support.catenda.com/en/articles/8053299-issue-right-panel) can be found. Click on th information icon in the topic banner to expand the right infomraiton panel.
+Below the topic header the [topic body](https://support.catenda.com/en/articles/8053352-topic-body-the-content-of-a-topic) can be found with description and comments. To the right of the topic body and header the [right information panel](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic) can be found. Click on th information icon in the topic banner to expand the right infomraiton panel.
 
 ## 1. **Title**
 
@@ -16,13 +16,13 @@ Highest up in the topic header the title/subject of the topic can be seen. Next 
 
 ## 2. **Status and type**
 
-Depending on the settings that are set by users with full access to the topic board, [statuses and types](https://support.catenda.com/en/articles/4670277-issue-board-settings#h_cd4f7bfc44) can be configured in different ways in the [topic board settings](https://support.catenda.com/en/articles/4670277-issue-board-settings). The top status or type will always be default and can be changed before submitting the topic. The order of the statuses and types in the dropdown list can also be set by the configurator.
+Depending on the settings that are set by users with full access to the topic board, [statuses and types](https://support.catenda.com/en/articles/4670277-topic-board-settings-page#h_cd4f7bfc44) can be configured in different ways in the [topic board settings](https://support.catenda.com/en/articles/4670277-topic-board-settings-page). The top status or type will always be default and can be changed before submitting the topic. The order of the statuses and types in the dropdown list can also be set by the configurator.
 
 ### 2.1 **Status**
 
-Here the current [status](https://support.catenda.com/en/articles/4670277-issue-board-settings#status) of the topic can be chosen.
+Here the current [status](https://support.catenda.com/en/articles/4670277-topic-board-settings-page#status) of the topic can be chosen.
 
-The default statuses that can be choosen between are: Active _(Open)_ In-progress _(Open)_ Resolved _(Open)_ Approved _(Closed)_ Rejected _(Closed)_ You can edit these or create your own [statuses](https://support.catenda.com/en/articles/4670277-issue-board-settings#status).
+The default statuses that can be choosen between are: Active _(Open)_ In-progress _(Open)_ Resolved _(Open)_ Approved _(Closed)_ Rejected _(Closed)_ You can edit these or create your own [statuses](https://support.catenda.com/en/articles/4670277-topic-board-settings-page#status).
 
 **When should each status be applied?** Typically new topics that get created receive the status open. Optionally a candidate status can be chosen if the topic that is submitted falls outside of the typical open and closed flow. An example of this can be:
 
@@ -34,7 +34,7 @@ Then when the topic has been handled by the assigned user the person verifying t
 
 ### 2.2 **Type**
 
-Here you choose the [type](https://support.catenda.com/en/articles/4670277-issue-board-settings#types) of topic you are creating. The default types you can choose between are Error, Warning, Info and Unknown. You can also [create your own types](https://support.catenda.com/en/articles/4670277-issue-board-settings#types).
+Here you choose the [type](https://support.catenda.com/en/articles/4670277-topic-board-settings-page#types) of topic you are creating. The default types you can choose between are Error, Warning, Info and Unknown. You can also [create your own types](https://support.catenda.com/en/articles/4670277-topic-board-settings-page#types).
 
 ## 3. **Responsibility**
 
@@ -52,7 +52,7 @@ When a member is assigned the topic is shown on the [member page](https://suppor
 
 **Clarifying concerned team with member@team** Members are often part of different teams depending on the different roles they have in the project. By clarifying which team that the assignee is part of that this topic concerns the topic can be filtered better in the topic board. Clarifying the team can both help members that are assigned to many topics to separate topics between their different roles as well as that it will help others find topics that concern this team. When a member@team is assigned the topic is displayed on the [team page](https://support.catenda.com/en/articles/7891755-team-page) of that team. No notification is generated for team members when the concerned team is clarified.
 
-**Notification generated** Individually assigned assignees get a notification that they have been assigned to a topic. Additionally, they are automatically set as [follower](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) to the topic and thereby get notifications about future changes in the topic. One drawback with assigning a member instead of a team is that only that member gets notifications about the topic. This can be solved by [mentioning](https://support.catenda.com/en/articles/8430847-formatting-of-posts#h_2481ad1c8c) other members in the description or comment so they automatically [follow](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic and as a result get notifications about future changes in the topic.
+**Notification generated** Individually assigned assignees get a notification that they have been assigned to a topic. Additionally, they are automatically set as [follower](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) to the topic and thereby get notifications about future changes in the topic. One drawback with assigning a member instead of a team is that only that member gets notifications about the topic. This can be solved by [mentioning](https://support.catenda.com/en/articles/8430847-post-formatting-toolbox#h_2481ad1c8c) other members in the description or comment so they automatically [follow](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) the topic and as a result get notifications about future changes in the topic.
 
 ### 3.2 **Assigned to team**
 
@@ -72,7 +72,7 @@ If no member or team is responsible for following up on the topic the assignd to
 
 ### 3.4 **Requested by**
 
-Here you normally set yourself as requester, but you can choose any member here. You would set someone else here if you were making the topic for someone else. The requestee will automatically [follow](https://support.catenda.com/en/articles/8053299-right-panel-in-an-issue#h_a97f3b264e) the topic and thereby get notifications about future changes in the topic.
+Here you normally set yourself as requester, but you can choose any member here. You would set someone else here if you were making the topic for someone else. The requestee will automatically [follow](https://support.catenda.com/en/articles/8053299-right-menu-in-a-topic#h_a97f3b264e) the topic and thereby get notifications about future changes in the topic.
 
 ### 3.5 **Requested by blank**
 
@@ -84,10 +84,10 @@ If no member or team requests the topic the requested by field can be left blank
 
 ### 4.1 **Location**
 
-- [Add marker](https://support.catenda.com/en/articles/4854523-2d-location-of-issues#h_684f963ce8) - Opens up 3D panel and the default storey of the 2D viewer. Here you will be able to place your marker on the storey where you would like to have it.
-- [View marker in 2D](https://support.catenda.com/en/articles/4854523-2d-location-of-issues#h_df2cfc4b35) - Opens up the 3D panel and loads in the 2D viewer configuration that was configured at the time of marker creation. This means the right 2D views are loaded in and the right storey is selected.
-- [Choose new location](https://support.catenda.com/en/articles/4854523-2d-location-of-issues#h_684f963ce8)
-- [Delete marker](https://support.catenda.com/en/articles/4854523-2d-location-of-issues)
+- [Add marker](https://support.catenda.com/en/articles/4854523-2d-location-of-topics#h_684f963ce8) - Opens up 3D panel and the default storey of the 2D viewer. Here you will be able to place your marker on the storey where you would like to have it.
+- [View marker in 2D](https://support.catenda.com/en/articles/4854523-2d-location-of-topics#h_df2cfc4b35) - Opens up the 3D panel and loads in the 2D viewer configuration that was configured at the time of marker creation. This means the right 2D views are loaded in and the right storey is selected.
+- [Choose new location](https://support.catenda.com/en/articles/4854523-2d-location-of-topics#h_684f963ce8)
+- [Delete marker](https://support.catenda.com/en/articles/4854523-2d-location-of-topics)
 
 ### 4.2 **Due date and milestone**
 
@@ -135,7 +135,7 @@ Add an existing [label](https://support.catenda.com/en/articles/4670265-labels-p
 
 ## 6. **Custom fields**
 
-[Add your own](https://support.catenda.com/en/articles/6563368-how-to-use-custom-fields-at-my-issues) [fields](https://support.catenda.com/en/articles/6550459-custom-fields-setup) to the headers of topics in an topic board. These fields can be set as mandatory. Custom fields can be of type:
+[Add your own](https://support.catenda.com/en/articles/6563368-custom-fields-in-a-topic-board) [fields](https://support.catenda.com/en/articles/6550459-custom-fields-page) to the headers of topics in an topic board. These fields can be set as mandatory. Custom fields can be of type:
 
 - Text
 - Integer

@@ -22,54 +22,54 @@ De følgende sakene er beskrevet i denne delen:
 
 **Produktfunksjoner**
 
-- [Hvordan tilgangsnivåer beregnes](https://support.catenda.com/nb/articles/15644094-how-access-levels-are-calculated)
-- [Brukstilfeller for tilgangskontrollutplassering](https://support.catenda.com/nb/articles/15644249-access-control-deployment-use-cases)
-- [Operasjoner på dokumentbibliotekselementer](https://support.catenda.com/nb/articles/15647394-operations-on-document-library-items)
-- [Opprette en ny modeleksport](https://support.catenda.com/nb/articles/15481038-creating-a-new-model-export)
-- [Innholdsside for modeleksport](https://support.catenda.com/nb/articles/15480883-model-export-content-page)
+- [Hvordan tilgangsnivåer beregnes](https://support.catenda.com/nb/articles/15644094-hvordan-tilgangsnivaer-beregnes)
+- [Brukstilfeller for tilgangskontrollutplassering](https://support.catenda.com/nb/articles/15644249-bruk-av-tilgangskontroll-brukstilfeller)
+- [Operasjoner på dokumentbibliotekselementer](https://support.catenda.com/nb/articles/15647394-operasjoner-pa-dokumentbibliotekselementer)
+- [Opprette en ny modeleksport](https://support.catenda.com/nb/articles/15481038-opprette-en-ny-modeleksport)
+- [Innholdsside for modeleksport](https://support.catenda.com/nb/articles/15480883-modelleksportinnholdsside)
 
 **Brukstilfeller**
 
-- [Brukstilfeller for revisjonsnavn](https://support.catenda.com/nb/articles/15886912-revision-naming-use-cases)
-- [Revisjonblokker i navnkonvensjoner](https://support.catenda.com/nb/articles/15886483-revision-blocks-in-naming-conventions)
+- [Brukstilfeller for revisjonsnavn](https://support.catenda.com/nb/articles/15886912-bruk-av-revisjonsnavn)
+- [Revisjonblokker i navnkonvensjoner](https://support.catenda.com/nb/articles/15886483-revisionblokker-i-navngivningskonvensjoner)
 
 **Feilsøking**
 
-- [Feilsøking for dokumentforhåndsvisning](https://support.catenda.com/nb/articles/13962654-document-preview-troubleshooting)
-- [Feilsøking for gjennomgangsfilforhåndsvisning](https://support.catenda.com/nb/articles/15286207-approval-file-review-troubleshooting)
-- [Feilsøking for revisjonkonvensjon](https://support.catenda.com/nb/articles/15886850-revision-convention-troubleshooting)
+- [Feilsøking for dokumentforhåndsvisning](https://support.catenda.com/nb/articles/13962654-feilsoking-for-dokumentforhandsvisning)
+- [Feilsøking for gjennomgangsfilforhåndsvisning](https://support.catenda.com/nb/articles/15286207-gjennomgang-av-godkjenningsfil-feilsoking)
+- [Feilsøking for revisjonkonvensjon](https://support.catenda.com/nb/articles/15886850-revisjonskontroll-for-navnekonvensjon)
 
 ### 1.2 **Artikler som har endret seg:**
 
 **Kontoadministrasjon**
 
-- [Opprette et team](https://support.catenda.com/nb/articles/4670264-creating-a-team)
-- [Organisasjonstyper](https://support.catenda.com/nb/articles/13653807-organization-types)
-- [Pålogging og passord](https://support.catenda.com/nb/articles/10798891-sign-in-and-passwords)
+- [Opprette et team](https://support.catenda.com/nb/articles/4670264-opprette-et-team)
+- [Organisasjonstyper](https://support.catenda.com/nb/articles/13653807-organisasjonstyper)
+- [Pålogging og passord](https://support.catenda.com/nb/articles/10798891-palogging-og-passord)
 
 **Produktfunksjoner**
 
-- [Oversikt over de viktigste hurtigtastene og grunnleggende kontroller](https://support.catenda.com/nb/articles/4670267-summary-of-most-important-shortcuts-and-basic-controls)
-- [Sakekropp - innholdet i en sak](https://support.catenda.com/nb/articles/8053352-topic-body-the-content-of-a-topic)
-- [Mapper og dokumenter - tilgangskontroll](https://support.catenda.com/nb/articles/4670287-folders-and-documents-access-control)
-- [Verktøy for dokumentforhåndsvisning](https://support.catenda.com/nb/articles/11384618-document-preview-tools)
-- [Side for modeleksport](https://support.catenda.com/nb/articles/4670280-model-export-page)
-- [Tilgangskontroll for sakekort](https://support.catenda.com/nb/articles/4670296-topic-board-access-control)
-- [Side for egendefinert felt - innhold](https://support.catenda.com/nb/articles/8445588-custom-field-contents-page)
-- [Måling til glidende plan](https://support.catenda.com/nb/articles/4670298-measuring-to-sliding-planes)
-- [Rullegardin for glidende plan](https://support.catenda.com/nb/articles/4670327-sliding-plane-dropdown)
-- [Handlinger i Catenda Revit Plugin](https://support.catenda.com/nb/articles/13168755-actions-in-the-catenda-revit-plugin)
-- [Høyremeny på sakekort](https://support.catenda.com/nb/articles/6941224-right-menu-in-a-topic-board)
-- [Utseende på 2D-viser](https://support.catenda.com/nb/articles/13615984-2d-viewer-appearance)
-- [2D-plassering av saker](https://support.catenda.com/nb/articles/4854523-2d-location-of-topics)
-- [2D-plassering av saker - Catenda Site](https://support.catenda.com/nb/articles/13616245-2d-location-of-topics-catenda-site)
-- [2D-viser - Catenda Site](https://support.catenda.com/nb/articles/7748370-2d-viewer-catenda-site)
+- [Oversikt over de viktigste hurtigtastene og grunnleggende kontroller](https://support.catenda.com/nb/articles/4670267-sammendrag-av-de-viktigste-snarveiene-og-grunnleggende-kontroller)
+- [Sakekropp - innholdet i en sak](https://support.catenda.com/nb/articles/8053352-saksinnhold-innholdet-i-en-sak)
+- [Mapper og dokumenter - tilgangskontroll](https://support.catenda.com/nb/articles/4670287-mapper-og-dokumenter-tilgangstyring)
+- [Verktøy for dokumentforhåndsvisning](https://support.catenda.com/nb/articles/11384618-verktoy-for-dokumentforhandsvisning)
+- [Side for modeleksport](https://support.catenda.com/nb/articles/4670280-modelleksportside)
+- [Tilgangskontroll for sakekort](https://support.catenda.com/nb/articles/4670296-tilgangstyring-pa-saksliste)
+- [Side for egendefinert felt - innhold](https://support.catenda.com/nb/articles/8445588-egendefinert-felt-innholdsside)
+- [Måling til glidende plan](https://support.catenda.com/nb/articles/4670298-maling-til-glideplaner)
+- [Rullegardin for glidende plan](https://support.catenda.com/nb/articles/4670327-rulleplan-rullegardin)
+- [Handlinger i Catenda Revit Plugin](https://support.catenda.com/nb/articles/13168755-handlinger-i-catenda-revit-pluginen)
+- [Høyremeny på sakekort](https://support.catenda.com/nb/articles/6941224-hoyremeny-i-en-saksliste)
+- [Utseende på 2D-viser](https://support.catenda.com/nb/articles/13615984-2d-viser-utseende)
+- [2D-plassering av saker](https://support.catenda.com/nb/articles/4854523-2d-plassering-av-saker)
+- [2D-plassering av saker - Catenda Site](https://support.catenda.com/nb/articles/13616245-2d-plassering-av-saker-catenda-site)
+- [2D-viser - Catenda Site](https://support.catenda.com/nb/articles/7748370-2d-viser-catenda-site)
 
 **Feilsøking**
 
-- [Feilsøking for opplastingsdialog for dokument](https://support.catenda.com/nb/articles/11070748-upload-document-dialogue-troubleshooting)
-- [Feilsøking for Catenda Revit Plugin](https://support.catenda.com/nb/articles/14301534-catenda-revit-plugin-troubleshooting)
-- [Pålogging og passord](https://support.catenda.com/nb/articles/10798891-sign-in-and-passwords)
+- [Feilsøking for opplastingsdialog for dokument](https://support.catenda.com/nb/articles/11070748-feilsoking-for-dialogboksen-last-opp-dokument)
+- [Feilsøking for Catenda Revit Plugin](https://support.catenda.com/nb/articles/14301534-feilsoking-for-catenda-revit-plugin)
+- [Pålogging og passord](https://support.catenda.com/nb/articles/10798891-palogging-og-passord)
 
 ## 2. **Nye opplæringsvideor**
 

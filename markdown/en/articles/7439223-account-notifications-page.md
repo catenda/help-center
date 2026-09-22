@@ -10,12 +10,12 @@ On the left of the notifications page you will see your latest notifications and
 
 ## 1. **Filtering and functionality**
 
-Click [here](https://support.catenda.com/en/articles/8304417-filtering-and-functionality-on-notifications-pages) to read more about how to filter for the different issue and in what cases you get sent each type of notification.
+Click [here](https://support.catenda.com/en/articles/8304417-filtering-on-the-notifications-page) to read more about how to filter for the different issue and in what cases you get sent each type of notification.
 
 ## 2. **Email notifications**
 
-If you have email notifications turned on these notifications will also be sent to you either in a summary email or as a separate email per notification. This can be configured in [email notification settings](https://support.catenda.com/en/articles/8272435-notification-settings#h_75e5db8657). If you are not getting emails please check [this](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) article.
+If you have email notifications turned on these notifications will also be sent to you either in a summary email or as a separate email per notification. This can be configured in [email notification settings](https://support.catenda.com/en/articles/8272435-account-notification-settings#h_75e5db8657). If you are not getting emails please check [this](https://support.catenda.com/en/articles/8417802-why-am-i-not-receiving-emails) article.
 
 ## 3. **Notification settings**
 
-You will be able to find [notification settings](https://support.catenda.com/en/articles/8272435-notification-settings) as a sub page to the notification page.
+You will be able to find [notification settings](https://support.catenda.com/en/articles/8272435-account-notification-settings) as a sub page to the notification page.

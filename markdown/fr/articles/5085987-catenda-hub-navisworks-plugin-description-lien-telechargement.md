@@ -1,6 +1,6 @@
 # Plugin Catenda Navisworks
 
-> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://intercom.help/bimsync-arena/fr/articles/8396532-catenda-plugins-and-integrations).
+> **Remarque :** Le fichier d'installation du plugin se trouve dans [cet article](https://intercom.help/bimsync-arena/fr/articles/8396532-plugins-et-integrations-catenda).
 
 Le plugin Catenda Navisworks est un plugin qui peut être installé pour Nemetchek Archicad. Avec ce plugin, vous pourrez collaborer sur des viewpoints 3D, des sujets et des documents avec les autres membres du projet de construction.
 
@@ -61,7 +61,7 @@ Voici à quoi peut ressembler l'onglet Catenda lorsqu'il est sélectionné
 
 ### 5.1 **Catenda**
 
-Le bouton Catenda dans le menu Plugins Catenda de l'onglet Catenda ouvrira le navigateur par défaut avec la [page de connexion](https://support.catenda.com/fr/articles/7891486-sign-in-page) de Catenda Hub.
+Le bouton Catenda dans le menu Plugins Catenda de l'onglet Catenda ouvrira le navigateur par défaut avec la [page de connexion](https://support.catenda.com/fr/articles/7891486-page-de-connexion) de Catenda Hub.
 
 ### 5.2 **Plugin BCF**
 
@@ -83,7 +83,7 @@ Voici à quoi le menu des paramètres peut ressembler après avoir cliqué sur C
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cthz4603/06-settings.png)
 
-Sur le côté gauche, la page de connexion de Catenda s'affiche. Suivez les étapes décrites dans l'[article sur la connexion](https://support.catenda.com/fr/articles/7891486-sign-in-page) pour vous connecter.
+Sur le côté gauche, la page de connexion de Catenda s'affiche. Suivez les étapes décrites dans l'[article sur la connexion](https://support.catenda.com/fr/articles/7891486-page-de-connexion) pour vous connecter.
 
 Voici à quoi le menu des paramètres peut ressembler après s'être connecté avec succès.
 

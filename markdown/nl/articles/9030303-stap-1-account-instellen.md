@@ -8,6 +8,6 @@ U ontvangt via e-mail een uitnodiging van Catenda met een koppeling naar de volg
 
 Nadat uw registratie is voltooid, kunt u uw projecten op Catenda Hub vanuit elke webbrowser openen. [https://hub.catenda.com/signin](https://hub.catenda.com/signin)
 
-Verder lezen: [Aanmeldingspagina](https://support.catenda.com/nl/articles/7891486-sign-in-page), [Een account aanmaken](https://support.catenda.com/nl/articles/8412895-creating-an-account), [Landingspagina](https://support.catenda.com/nl/articles/4670260-landing-page)
+Verder lezen: [Aanmeldingspagina](https://support.catenda.com/nl/articles/7891486-aanmeldingspagina), [Een account aanmaken](https://support.catenda.com/nl/articles/8412895-een-account-maken), [Landingspagina](https://support.catenda.com/nl/articles/4670260-accountknoppen)
 
-> **Opmerking:** Zoek [stap 2](https://support.catenda.com/nl/articles/10576075-step-2-interface) in [aan de slag](https://support.catenda.com/nl/collections/2657208-getting-started) op het helpcentrum of in het helpmenu.
+> **Opmerking:** Zoek [stap 2](https://support.catenda.com/nl/articles/10576075-stap-2-interface) in [aan de slag](https://support.catenda.com/nl/collections/2657208-aan-de-slag) op het helpcentrum of in het helpmenu.

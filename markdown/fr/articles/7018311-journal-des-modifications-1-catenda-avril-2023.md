@@ -4,28 +4,28 @@
 
 **Nouveaux articles :**
 
-[Configuration requise du système et optimisation](https://intercom.help/bimsync-arena/fr/articles/6921941-system-requirements-and-optimization)
+[Configuration requise du système et optimisation](https://intercom.help/bimsync-arena/fr/articles/6921941-recommandation-materielle)
 
-[Intégration des modèles et documents Solibri](https://intercom.help/bimsync-arena/fr/articles/6988148-solibri-models-and-documents-integration)
+[Intégration des modèles et documents Solibri](https://intercom.help/bimsync-arena/fr/articles/6988148-integration-des-modeles-et-documents-solibri)
 
-[Superposition 2D](https://intercom.help/bimsync-arena/fr/articles/6921756-2d-overlay)
+[Superposition 2D](https://intercom.help/bimsync-arena/fr/articles/6921756-page-configurateur-d-etage)
 
-[Paramètres du compte](https://intercom.help/bimsync-arena/fr/articles/6880968-account-settings)
+[Paramètres du compte](https://intercom.help/bimsync-arena/fr/articles/6880968-page-du-compte)
 
-[Redimensionnement des colonnes](https://intercom.help/bimsync-arena/fr/articles/6887350-resizing-of-columns) [Support IFC dans Documents](https://intercom.help/bimsync-arena/fr/articles/5658031-ifc-support-in-documents) [Quoi de neuf dans Catenda Hub ?](https://intercom.help/bimsync-arena/fr/articles/7150907-what-s-new-in-catenda-hub) [Quoi de neuf dans Catenda Site ?](https://intercom.help/bimsync-arena/fr/articles/7161448-what-s-new-in-catenda-site)
+[Redimensionnement des colonnes](https://intercom.help/bimsync-arena/fr/articles/6887350-redimensionnement-des-colonnes) [Support IFC dans Documents](https://intercom.help/bimsync-arena/fr/articles/5658031-apercu-3d-des-documents) [Quoi de neuf dans Catenda Hub ?](https://intercom.help/bimsync-arena/fr/articles/7150907-quoi-de-neuf-dans-catenda-hub) [Quoi de neuf dans Catenda Site ?](https://intercom.help/bimsync-arena/fr/articles/7161448-quoi-de-neuf-dans-catenda-site)
 
 <a class="intercom-content-link" href="" target="_blank">Paramètres du projet</a>
-[Affichage tableau dans un issue board](https://support.catenda.com/fr/articles/6941099-table-view-in-an-issue-board)
+[Affichage tableau dans un issue board](https://support.catenda.com/fr/articles/6941099-affichage-tableau-dans-un-topic-board)
 
-[Affichage liste dans un issue board](https://support.catenda.com/fr/articles/6941232-list-view-in-an-issue-board)
+[Affichage liste dans un issue board](https://support.catenda.com/fr/articles/6941232-affichage-en-liste-dans-une-liste-de-sujets)
 
 **Articles qui ont changé :**
 
-[Paramètres de la Visionneuse 3D](https://intercom.help/bimsync-arena/fr/articles/5784718-3d-viewer-settings)
+[Paramètres de la Visionneuse 3D](https://intercom.help/bimsync-arena/fr/articles/5784718-parametres-de-la-visionneuse-3d)
 
-[Approbation de documents](https://support.catenda.com/fr/articles/5784717-document-approval)
+[Approbation de documents](https://support.catenda.com/fr/articles/5784717-approbation-des-documents-heritage)
 
-[Authentification multifactorielle](https://support.catenda.com/fr/articles/4969891-multi-factor-authentication)
+[Authentification multifactorielle](https://support.catenda.com/fr/articles/4969891-authentification-multi-facteurs)
 
 ## 2. Problèmes résolus
 

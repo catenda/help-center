@@ -1,6 +1,6 @@
 # Page de contenu du model
 
-Pour voir un aperçu des revisions dans un model, accédez à la [page des models](https://support.catenda.com/fr/articles/4670286-models-page), et cliquez sur un model. Vous serez alors dirigé vers la page d'aperçu qui appartient à ce model. L'aperçu des revisions du model nous montre les revisions du model présentes dans le projet. En cliquant sur une revision du model, vous serez dirigé vers la page des revisions. Vous pouvez ensuite cliquer sur « Importer » et télécharger une nouvelle revision du model.
+Pour voir un aperçu des revisions dans un model, accédez à la [page des models](https://support.catenda.com/fr/articles/4670286-page-modeles), et cliquez sur un model. Vous serez alors dirigé vers la page d'aperçu qui appartient à ce model. L'aperçu des revisions du model nous montre les revisions du model présentes dans le projet. En cliquant sur une revision du model, vous serez dirigé vers la page des revisions. Vous pouvez ensuite cliquer sur « Importer » et télécharger une nouvelle revision du model.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/01-intro.png)
 
@@ -14,11 +14,11 @@ Les actions suivantes se trouvent pour chaque revision.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/03-existing-item-actions.png)
 
-Cliquez [ici](https://support.catenda.com/fr/articles/9674157-actions-on-the-model-overview-page) pour en savoir plus sur ce que chaque action effectue.
+Cliquez [ici](https://support.catenda.com/fr/articles/9674157-actions-de-la-page-de-contenu-du-modele) pour en savoir plus sur ce que chaque action effectue.
 
 ## 2. **Menu d'information à droite**
 
-Vous pourrez trouver des informations sur le model dans son menu d'information à droite. Ce menu est accessible en cliquant sur l'icône « i » en haut à droite de la page. Cliquez [ici](https://support.catenda.com/fr/articles/9673735-right-menu-on-the-models-page) pour en savoir plus sur le type d'informations sur le model disponibles.
+Vous pourrez trouver des informations sur le model dans son menu d'information à droite. Ce menu est accessible en cliquant sur l'icône « i » en haut à droite de la page. Cliquez [ici](https://support.catenda.com/fr/articles/9673735-menu-droit-sur-la-page-des-modeles) pour en savoir plus sur le type d'informations sur le model disponibles.
 
 ## 3. **Nom du model**
 
@@ -34,7 +34,7 @@ S'il n'y a pas encore de revisions dans votre model, vous pourrez cliquer sur pa
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e4cn8nk3/05-revision-import.png)
 
-Vous pouvez également glisser et déposer pour importer une nouvelle revision ou utiliser l'action de nouvelle revision dans le menu des actions sur les éléments existants. _Accès requis :_ charger des revisions de model à partir de [paramètres du projet](https://support.catenda.com/fr/articles/4670273-project-settings-page#h_f82a1850f3)
+Vous pouvez également glisser et déposer pour importer une nouvelle revision ou utiliser l'action de nouvelle revision dans le menu des actions sur les éléments existants. _Accès requis :_ charger des revisions de model à partir de [paramètres du projet](https://support.catenda.com/fr/articles/4670273-page-des-parametres-du-projet#h_f82a1850f3)
 
 Pour ce faire, choisissez un fichier IFC sur votre disque dur. Bien que d'autres types de fichiers puissent être prévisualisés dans la section Documents, seuls les fichiers IFC sont acceptés dans la section des models. Cliquez sur « envoyer » pour démarrer le processus de téléchargement.
 
