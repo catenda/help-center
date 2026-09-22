@@ -24489,7 +24489,7 @@ _Innstillinger_
 
 _Programtillegg og integrasjoner_ [Revit IFC Export Manual](https://support.catenda.com/nb/articles/4670341-revit-ifc-export-manual) [IFC Export Archicad Manual](https://IFC%20Export%20Archicad%20Manual)
 
-_Catenda Site_ [Catenda Site-endringslogg - 3.5.0](https://support.catenda.com/nb/articles/9930034-catenda-site-changelog-3-5-0) [Dokumentmeny - Catenda Site](https://support.catenda.com/nb/articles/7774637-documents-menu-catenda-site) [Forhåndsvisning av filtyper på Catenda Site](https://support.catenda.com/nb/articles/8975421-previewing-file-types-on-catenda-site)
+_Catenda Site_ [Catenda Site Changelog - 3.5.0](https://support.catenda.com/nb/articles/9930034-catenda-site-changelog-3-5-0) [Dokumenter-meny - Catenda Site](https://support.catenda.com/nb/articles/7774637-documents-menu-catenda-site) [Forhåndsvisning av filtyper på Catenda Site](https://support.catenda.com/nb/articles/8975421-previewing-file-types-on-catenda-site)
 
 ## 2. **Feil løst**
 

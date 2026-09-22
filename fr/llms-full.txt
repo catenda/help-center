@@ -25951,7 +25951,7 @@ _Panneau d'information_ [Menu Inspecter](https://support.catenda.com/fr/articles
 
 **Modules et intégrations** [Manuel d'exportation IFC Revit](https://support.catenda.com/fr/articles/4670341-revit-ifc-export-manual) [Manuel d'exportation IFC Archicad](https://IFC%20Export%20Archicad%20Manual)
 
-**Site Catenda** [Journal des modifications de Catenda Site - 3.5.0](https://support.catenda.com/fr/articles/9930034-catenda-site-changelog-3-5-0) [Menu Documents - Catenda Site](https://support.catenda.com/fr/articles/7774637-documents-menu-catenda-site) [Prévisualiser les types de fichiers sur Catenda Site](https://support.catenda.com/fr/articles/8975421-previewing-file-types-on-catenda-site)
+**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/fr/articles/9930034-catenda-site-changelog-3-5-0) [Documents menu - Catenda Site](https://support.catenda.com/fr/articles/7774637-documents-menu-catenda-site) [Aperçu des types de fichiers sur Catenda Site](https://support.catenda.com/fr/articles/8975421-previewing-file-types-on-catenda-site)
 
 ## 2. **Bogues résolus**
 

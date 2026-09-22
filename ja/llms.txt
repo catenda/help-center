@@ -146,13 +146,13 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [トピックヘッダー - トピックの件名](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8400566-トピックヘッダー-トピックの件名.md)
 - [トピックページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670271-トピックページ.md)
 - [トピックページでのフィルタリング](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8370693-トピックページでのフィルタリング.md)
-- [トピックボードのリストビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6941232-トピックボードのリストビュー.md)
-- [トピックボード内の右メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6941224-トピックボード内の右メニュー.md)
-- [トピックボード設定ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670277-トピックボード設定ページ.md)
 - [トピックメニュー - Catenda Site](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7734073-トピックメニュー-catenda-site.md)
 - [トピックリストでトピックテンプレートを使用する](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/14075921-トピックリストでトピックテンプレートを使用する.md): トピック作成時に一般的なトピックテンプレートを適用する
 - [トピックリストのアクセス制御](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670296-トピックリストのアクセス制御.md): トピックリストのアクセス権レベル
+- [トピックリストのリストビュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6941232-トピックリストのリストビュー.md)
 - [トピックリスト作成ACL](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670299-トピックリスト作成acl.md)
+- [トピックリスト内の右メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6941224-トピックリスト内の右メニュー.md)
+- [トピックリスト設定ページ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670277-トピックリスト設定ページ.md)
 - [トピック履歴](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8613038-トピック履歴.md)
 - [トピック本体 - トピックのコンテンツ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/8053352-トピックの本文-トピックの内容.md)
 - [ドキュメント revision アクション](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/9323521-ドキュメント-revision-アクション.md)
@@ -261,7 +261,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [新しいワークフローの作成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12313251-新しいワークフローの作成.md)
 - [新しい承認リクエストの作成](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12495005-新しい承認リクエストの作成.md)
 - [新しい承認リクエストの作成 - レガシー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12360159-新しい承認リクエストの作成-レガシー.md)
-- [既存のトピックボードからのトピックボード](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6379614-既存のトピックボードからのトピックボード.md)
+- [既存のトピックリストからのトピックリスト](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6379614-既存のトピックリストからのトピックリスト.md)
 - [最もシンプルな命名規則](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/7845360-最もシンプルな命名規則.md)
 - [最も重要なショートカットと基本的なコントロールの概要](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670267-最も重要なショートカットと基本的なコントロールの概要.md): ショートカットとキーバインド
 - [検査メニュー](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/4670285-検査メニュー.md)
@@ -297,7 +297,7 @@ Catenda Hubの基本機能です。特定の機能のヘルプをお探しの場
 - [数量積み上げ (QTO) - ショート動画](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6707924-数量積み上げ-qto-ショート動画.md)
 - [新しい承認ワークフローの作成 - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12457430-新しい承認ワークフローの作成-ショートビデオ.md)
 - [新しい承認ワークフローテンプレートを作成する - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/12458313-新しい承認ワークフローテンプレートを作成する-ショートビデオ.md)
-- [既存のトピックリストからトピックリストを作成する - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423271-既存のトピックボードからトピックボードを作成する-ショートビデオ.md)
+- [既存のトピックリストからトピックリストを作成する - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423271-既存のトピックリストからトピックリストを作成する-ショートビデオ.md)
 - [日付フィルター - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423207-日付フィルター-ショートビデオ.md)
 - [距離を測定する - ショートビデオ](https://raw.githubusercontent.com/catenda/help-center/main/markdown/ja/articles/6423277-距離を測定する-ショートビデオ.md)
 

@@ -28,11 +28,11 @@ _[記事](https://support.catenda.com/ja/articles/7983534-changelog-3-catenda-up
 
 **メインページ** [プロジェクトページ](https://support.catenda.com/ja/articles/4670260-projects-page) [新しいプロジェクトを作成する](https://support.catenda.com/ja/articles/4670245-creating-a-new-project) [組織ツールのユーザーページ](https://support.catenda.com/ja/articles/8508311-users-page-in-organization-tool) [アカウント通知設定](https://support.catenda.com/ja/articles/8272435-account-notification-settings)
 
-**トピック** [トピックボード設定](https://support.catenda.com/ja/articles/4670277-topic-board-settings) [トピック本文](https://support.catenda.com/ja/articles/8053352-issue-body) [投稿のフォーマット](https://support.catenda.com/ja/articles/8430847-formatting-of-posts)
+**トピック** [トピックリスト設定](https://support.catenda.com/ja/articles/4670277-topic-board-settings) [トピック本文](https://support.catenda.com/ja/articles/8053352-issue-body) [投稿のフォーマット](https://support.catenda.com/ja/articles/8430847-formatting-of-posts)
 
 **ドキュメント**
 
-_[ドキュメントの構成](https://support.catenda.com/ja/articles/8542598-structuring-documents)_ [ドキュメント上の注釈](https://support.catenda.com/ja/articles/5001165-annotations-on-documents) [コレクションページ](https://support.catenda.com/ja/articles/6344318-collections-page) [承認ページのフィルタリング](https://support.catenda.com/ja/articles/8551740-filtering-on-the-approvals-page) [トピックボードでのフィルタリング](https://support.catenda.com/ja/articles/8370693-filtering-in-a-topic-board)
+_[ドキュメントの構成](https://support.catenda.com/ja/articles/8542598-structuring-documents)_ [ドキュメント上の注釈](https://support.catenda.com/ja/articles/5001165-annotations-on-documents) [コレクションページ](https://support.catenda.com/ja/articles/6344318-collections-page) [承認ページのフィルタリング](https://support.catenda.com/ja/articles/8551740-filtering-on-the-approvals-page) [トピックリストでのフィルタリング](https://support.catenda.com/ja/articles/8370693-filtering-in-a-topic-board)
 
 **モデル** [3Dビューア](https://support.catenda.com/ja/articles/8227211-3d-viewer) [2Dビューア](https://support.catenda.com/ja/articles/4854537-2d-viewer) [クエリ](https://support.catenda.com/ja/articles/4854514-queries)
 
@@ -50,8 +50,8 @@ _[ドキュメントの構成](https://support.catenda.com/ja/articles/8542598-s
 
 ### 2.1 **トピック**
 
-- トピックボードのカスタムフィールドにデフォルト値を指定した場合、トピックを作成するときにフィールドに自動的に値が入ります。その値を削除してフィールドを空にする場合でも、トピックを作成することが可能になりました。
-- 期日を過ぎたクローズされたトピックは、トピックボードと当該トピック自体の期日アイコンで同じ色になりました。
+- トピックリストのカスタムフィールドにデフォルト値を指定した場合、トピックを作成するときにフィールドに自動的に値が入ります。その値を削除してフィールドを空にする場合でも、トピックを作成することが可能になりました。
+- 期日を過ぎたクローズされたトピックは、トピックリストと当該トピック自体の期日アイコンで同じ色になりました。
 - 「期限超過」フィルタが「期日を過ぎた」に変更されました。これはフィルタが期日に対するトピックのクローズ時期を考慮しないため、より正確です。
 
 ### 2.2 **ドキュメント**

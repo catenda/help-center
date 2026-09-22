@@ -10,7 +10,7 @@ Catenda Site でネットワークに接続していない状態で Catenda プ�
 
 ## 2. トピックが同期されない
 
-Catenda Site で行われた変更が他のセッションで表示されない場合は、トピックボード右上の[送信箱](https://support.catenda.com/ja/articles/7325268-offline-mode-in-catenda-site#h_ff2a47f221)で送信する必要があります。
+Catenda Site で行われた変更が他のセッションで表示されない場合は、トピックリスト右上の[送信箱](https://support.catenda.com/ja/articles/7325268-offline-mode-in-catenda-site#h_ff2a47f221)で送信する必要があります。
 
 ## 3. MFAコードが必要
 

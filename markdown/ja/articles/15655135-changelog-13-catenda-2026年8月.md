@@ -50,12 +50,12 @@
 - [フォルダとドキュメントのアクセス制御](https://support.catenda.com/ja/articles/4670287-folders-and-documents-access-control)
 - [ドキュメントプレビューツール](https://support.catenda.com/ja/articles/11384618-document-preview-tools)
 - [Model Export Page](https://support.catenda.com/ja/articles/4670280-model-export-page)
-- [トピックボードのアクセス制御](https://support.catenda.com/ja/articles/4670296-topic-board-access-control)
+- [トピックリストのアクセス制御](https://support.catenda.com/ja/articles/4670296-topic-board-access-control)
 - [カスタムフィールド内容ページ](https://support.catenda.com/ja/articles/8445588-custom-field-contents-page)
 - [スライディングプレーンへの測定](https://support.catenda.com/ja/articles/4670298-measuring-to-sliding-planes)
 - [スライディングプレーンドロップダウン](https://support.catenda.com/ja/articles/4670327-sliding-plane-dropdown)
 - [Catenda Revitプラグインのアクション](https://support.catenda.com/ja/articles/13168755-actions-in-the-catenda-revit-plugin)
-- [トピックボードの右側メニュー](https://support.catenda.com/ja/articles/6941224-right-menu-in-a-topic-board)
+- [トピックリストの右側メニュー](https://support.catenda.com/ja/articles/6941224-right-menu-in-a-topic-board)
 - [2Dビューアの外観](https://support.catenda.com/ja/articles/13615984-2d-viewer-appearance)
 - [トピックの2D位置](https://support.catenda.com/ja/articles/4854523-2d-location-of-topics)
 - [トピックの2D位置 - Catenda Site](https://support.catenda.com/ja/articles/13616245-2d-location-of-topics-catenda-site)
@@ -121,7 +121,7 @@
 
 - **柔軟な提出者チーム管理** <br>保存後、既存の承認ワークフロー上で提出者チームを追加・削除できるようになりました。 <br>プロジェクト管理者は、ワークフロー全体をテンプレートから再作成することなく、新しい承認リクエストを起動できるユーザーを更新できます。
 - **全チームメンバーからのレビュー要求** <br>承認レビューステップに、レビューチームの全ての個別メンバーが各自の検証結果を提出することを要求する新しい設定が追加されました。<br>単一のメンバーが応答した直後に進むのではなく、割り当てられたチームの全てのメンバーが各自のレビューを完了するまで、ステップは開いたまま保持されます。
-- **承認完了時の自動トピック作成** <br>承認ワークフローはトピックテンプレートとリンクでき、承認リクエストが完了した時にトピックが自動的に作成されるようになりました。 <br>特定の結果の決定に対してトピックテンプレートを選択することで、後続の備考および課題が追跡用のトピックボード内に直ちに記録されることが確保されます。
+- **承認完了時の自動トピック作成** <br>承認ワークフローはトピックテンプレートとリンクでき、承認リクエストが完了した時にトピックが自動的に作成されるようになりました。 <br>特定の結果の決定に対してトピックテンプレートを選択することで、後続の備考および課題が追跡用のトピックリスト内に直ちに記録されることが確保されます。
 - **ドキュメント改訂概要タブ** <br>承認ページは、現在レビュー中の全てのファイルの完全なテーブル概要を提供する専用の「ドキュメント改訂」タブを備えるようになりました。 <br>各承認パッケージを個別に開くことなく、チーム割り当て、レビュー状態、および期日によって個別のドキュメント改訂を検索、ソート、フィルターできるようになりました。
 - **承認のための日本語ローカライゼーション**
 

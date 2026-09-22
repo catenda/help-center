@@ -25461,7 +25461,7 @@ _Informationspanel_ [Inspektionsmenü](https://support.catenda.com/de/articles/4
 
 **Plugins und Integrationen** [Revit-IFC-Exporthandbuch](https://support.catenda.com/de/articles/4670341-revit-ifc-export-manual) [IFC-Exporthandbuch für Archicad](https://IFC%20Export%20Archicad%20Manual)
 
-**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/de/articles/9930034-catenda-site-changelog-3-5-0) [Dokumente-Menü - Catenda Site](https://support.catenda.com/de/articles/7774637-documents-menu-catenda-site) [Dateivorschau auf Catenda Site](https://support.catenda.com/de/articles/8975421-previewing-file-types-on-catenda-site)
+**Catenda Site** [Catenda Site Changelog - 3.5.0](https://support.catenda.com/de/articles/9930034-catenda-site-changelog-3-5-0) [Dokumente-Menü - Catenda Site](https://support.catenda.com/de/articles/7774637-documents-menu-catenda-site) [Vorschau von Dateitypen auf Catenda Site](https://support.catenda.com/de/articles/8975421-previewing-file-types-on-catenda-site)
 
 ## 2. **Behobene Fehler**
 

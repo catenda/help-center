@@ -86,7 +86,7 @@ Archicadプラグインを開くと、プロジェクトのリストが表示さ
 
 ## 5. **トピックリスト**
 
-プロジェクトをクリックして開くと、プロジェクト内の最初のトピックボードが開きます。トピックボードは以下のようになります：
+プロジェクトをクリックして開くと、プロジェクト内の最初のトピックリストが開きます。トピックリストは以下のようになります：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/09-topic-board.png)
 
@@ -104,7 +104,7 @@ Archicadプラグインを開くと、プロジェクトのリストが表示さ
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/11-show-filter.png)
 
-トピックボードで構成された設定とトピックの送信に応じて、利用可能なさまざまなフィルターを指定できます：
+トピックリストで構成された設定とトピックの送信に応じて、利用可能なさまざまなフィルターを指定できます：
 
 **自分のトピック** 私に割り当てられたリクエスト元 作成者
 
@@ -146,6 +146,6 @@ Archicadプラグインを開くと、プロジェクトのリストが表示さ
 
 ## 6. **トピック**
 
-トピックボード内のトピックをクリックして開きます。トピックは以下のようになります：
+トピックリスト内のトピックをクリックして開きます。トピックは以下のようになります：
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/cxr3wm2a/13-topic.png)
