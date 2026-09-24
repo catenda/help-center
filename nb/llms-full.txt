@@ -1062,12 +1062,12 @@ Følg trinnene nedenfor for å invitere et nytt medlem.
 Hvis gruppen skal ha samme rolle og være del av samme team, kan du fylle inn mer enn én e-postadresse.
 
 1. Fyll inn e-postadressen og trykk enter, gjør det samme for hver nye e-postadresse
-    1. Du kan også fylle inn en kommadelt liste med e-postadresser og trykke enter for å legge til flere adresser samtidig.
-1. Velg rollen/tilgangen for de nye medlemmene
-1. Velg teamene medlemmene skal være medlemmer av.
-1. Trykk Legg til-knappen
-1. Hvis det er et medlem(mer) med en annen rolle eller team, finnes det en ny linje for å legge til det/de medlemmet(ene) etter at du trykker Legg til-knappen.
-1. Klikk Send invitasjoner-knappen
+   1. Du kan også fylle inn en kommadelt liste med e-postadresser og trykke enter for å legge til flere adresser samtidig.
+2. Velg rollen/tilgangen for de nye medlemmene
+3. Velg teamene medlemmene skal være medlemmer av.
+4. Trykk Legg til-knappen
+5. Hvis det er et medlem(mer) med en annen rolle eller team, finnes det en ny linje for å legge til det/de medlemmet(ene) etter at du trykker Legg til-knappen.
+6. Klikk Send invitasjoner-knappen
 
 ## 3. **Inviter medlemmer-side**
 
@@ -5651,11 +5651,11 @@ Med listkommandoen er det mulig å publisere én eller flere filer til Catenda.
 
 ### 1.1 **Finne listkommandoen**
 
-_Én fil_ Hvis du vil publisere én fil til Catenda, er den enkleste måten å klikke på Publiser til Catenda i hamburgermenylinjen for filen.
+**Én fil** Hvis du vil publisere én fil til Catenda, er den enkleste måten å klikke på Publiser til Catenda i hamburgermenylinjen for filen.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/01-finding-the-list-command.png)
 
-_Flere filer_ Hvis du vil publisere flere filer til Catenda, må du velge filene du vil publisere. Etter filene dine i SharePoint vil brukerne kunne se en Publiser til Catenda-listkommando.
+**Flere filer** Hvis du vil publisere flere filer til Catenda, må du velge filene du vil publisere. Etter filene dine i SharePoint vil brukerne kunne se en Publiser til Catenda-listkommando.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/02-finding-the-list-command.png)
 
@@ -5673,7 +5673,7 @@ Etter at du klikker på Publiser til Catenda, åpnes følgende meny som kan se s
 
 Hvis du ikke har gitt SharePoint tilgang til Catenda-kontoen din, blir du bedt om å autorisere den. [Se nedenfor](#h_788fe15988) for hvordan du autoriserer kontoen din.
 
-_Velge en mappe_ Hvis du har gitt tilgang til Catenda-kontoen din, kan du velge prosjektet, biblioteket og destinasjonsmappen på Catenda, og publisere.
+**Velge en mappe** Hvis du har gitt tilgang til Catenda-kontoen din, kan du velge prosjektet, biblioteket og destinasjonsmappen på Catenda, og publisere.
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0z59v4sc/05-publishing-the-file.png)
 
@@ -8677,17 +8677,17 @@ Hver rad i gjennomgangslisten inneholder et gjennomgangskort med visuelle tegn p
 
 Bare felt som er konfigurert i gjennomgangen, vises på kortet. Noen kort kan derfor vise flere felt enn andre.
 
-_Tittel_ Gjennomgangsttittel
+**Tittel** Gjennomgangsttittel
 
-_Statuser_ Gjennomgangsstatus vises i en boksbakgrunn og ikon avhengig av statusen.
+**Statuser** Gjennomgangsstatus vises i en boksbakgrunn og ikon avhengig av statusen.
 
-_Utgiver_ Gjennomgangsutgiver Hvis ingen utgiver er angitt, vil det si hvem som helst med skrivtilgang.
+**Utgiver** Gjennomgangsutgiver Hvis ingen utgiver er angitt, vil det si hvem som helst med skrivtilgang.
 
-_Frist_ Fristen for gjennomgangen. Kalenderikon og tekst på gjennomgangen er: Grå - Hvis datoen er mer enn to uker fremover i tid. Oransje - Hvis datoen er mindre enn to uker fremover i tid. Rød - Hvis gjennomgangen har passert sin frist.
+**Frist** Fristen for gjennomgangen. Kalenderikon og tekst på gjennomgangen er: Grå - Hvis datoen er mer enn to uker fremover i tid. Oransje - Hvis datoen er mindre enn to uker fremover i tid. Rød - Hvis gjennomgangen har passert sin frist.
 
-_Opprettet av_ Gjennomgangsoppretter og dato og tid for når gjennomgangen ble opprettet.
+**Opprettet av** Gjennomgangsoppretter og dato og tid for når gjennomgangen ble opprettet.
 
-_Gjennomgangsnummer_ Nummeret på gjennomgangen
+**Gjennomgangsnummer** Nummeret på gjennomgangen
 
 ## 4. **Videre lesing**
 
@@ -9484,7 +9484,7 @@ En tidligere delt revisjon av et dokument:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/0bwessm6/22-shared-revision-status.png)
 
-_Nødvendig tilgang:_ Lesetilgang til dokumentet Avkrysningsmerkeutsendelse for visning av delte revisjoner merket.
+**Nødvendig tilgang:** Lesetilgang til dokumentet Avkrysningsmerkeutsendelse for visning av delte revisjoner merket.
 
 En delt revisjon som er del av en åpen eller lukket godkjenningsforespørsel:
 
@@ -9492,7 +9492,7 @@ En delt revisjon som er del av en åpen eller lukket godkjenningsforespørsel:
 
 > **Merknad:** Det faktum at en revisjon er del av en lukket godkjenningsforespørsel betyr ikke at dette er revisjonen som førte til neste hovedversjon av dokumentet.
 
-_Nødvendig tilgang:_ Lesetilgang til dokumentet. Avkrysningsmerkeutsendelse for visning av delte revisjoner merket. Del av en innleverings-, gjennomganger- eller publisererteam for godkjenningsarbeidsflyten som revisjonen er del av. Administratorer vil ikke se denne boksen hvis de ikke også er del av ett av teamene som er involvert i godkjenningen.
+**Nødvendig tilgang:** Lesetilgang til dokumentet. Avkrysningsmerkeutsendelse for visning av delte revisjoner merket. Del av en innleverings-, gjennomganger- eller publisererteam for godkjenningsarbeidsflyten som revisjonen er del av. Administratorer vil ikke se denne boksen hvis de ikke også er del av ett av teamene som er involvert i godkjenningen.
 
 ### 8.3 **Utkastrevisionsstatus - Arv**
 
@@ -9626,9 +9626,9 @@ Her vil du se de ulike revisjonene i dokumentet. Revisjonmenyen kan se slik ut:
 
 Med nedlastingsknappen på høyre side kan du laste ned hver revisjon. Hvis et virus oppdages, vil du se et varsel i rød tekst under revisjonen. Det anbefales ikke å laste ned en dokumentrevisjon som er infisert. Du vil ikke kunne se innholdet i en revisjon med et virus.
 
-_Tilbaketrukket revisjon_ Dokumentrevisjoner kan bare trekkes tilbake og ikke slettes. En tilbaketrukket revisjon vises som gjennomstreget. Den rette revisjonen kan lastes ned og lastes opp på nytt slik at den blir den siste revisjonen igjen.
+**Tilbaketrukket revisjon** Dokumentrevisjoner kan bare trekkes tilbake og ikke slettes. En tilbaketrukket revisjon vises som gjennomstreget. Den rette revisjonen kan lastes ned og lastes opp på nytt slik at den blir den siste revisjonen igjen.
 
-_Gjenadrening av dokumentet_ For å fjerne revisjonen helt, last ned hver revisjon. Opprett deretter et nytt dokument og last opp hver revisjon i rekkefølge. Gå til hver av de koblede sakene i det gamle dokumentet og kobl det nye dokumentet. Velg 3D-objektene som er koblet til det gamle dokumentet og kople dem til det nye dokumentet. Slett til slutt det gamle dokumentet. Alle tilkoblinger dokumentet kan ha hatt til for eksempel merknader vil gå tapt, sammen med informasjonen om hvem som lastet opp filen og når den ble lastet opp.
+**Gjenadrening av dokumentet** For å fjerne revisjonen helt, last ned hver revisjon. Opprett deretter et nytt dokument og last opp hver revisjon i rekkefølge. Gå til hver av de koblede sakene i det gamle dokumentet og kobl det nye dokumentet. Velg 3D-objektene som er koblet til det gamle dokumentet og kople dem til det nye dokumentet. Slett til slutt det gamle dokumentet. Alle tilkoblinger dokumentet kan ha hatt til for eksempel merknader vil gå tapt, sammen med informasjonen om hvem som lastet opp filen og når den ble lastet opp.
 
 ## 12. **Historikk**
 
@@ -12280,13 +12280,13 @@ Listevisningen i sakslinjen på [sakssiden ](https://support.catenda.com/nb/arti
 I listevisningen av en saksliste er det mulig å sortere saker etter:
 
 1. Nyeste
-1. Eldste
-1. Nylig oppdatert
-1. Minst nylig oppdatert
-1. Frist, nyeste først
-1. Frist, eldste først
-1. Egendefinert felt, synkende
-1. Egendefinert felt, stigende
+2. Eldste
+3. Nylig oppdatert
+4. Minst nylig oppdatert
+5. Frist, nyeste først
+6. Frist, eldste først
+7. Egendefinert felt, synkende
+8. Egendefinert felt, stigende
 
 ## 2. **Sakslisten**
 
@@ -12986,19 +12986,19 @@ Klikk på nedlastingsknappen øverst til høyre på eksporten for å begynne å 
 
 Eksportinformasjonen kan inneholde følgende informasjon:
 
-_Status_ Status for eksporten har å gjøre med hvor langt den har kommet i forberedelsen.
+**Status** Status for eksporten har å gjøre med hvor langt den har kommet i forberedelsen.
 
-_Filstørrelse_ Dette er filstørrelsen på zip-filen som vil bli lastet ned. Merk at filstørrelsen på innholdet i zip-filen kan øke når den er lastet ned og lokalt ekstrahert.
+**Filstørrelse** Dette er filstørrelsen på zip-filen som vil bli lastet ned. Merk at filstørrelsen på innholdet i zip-filen kan øke når den er lastet ned og lokalt ekstrahert.
 
-_Filformat_ Vanligvis ZIP
+**Filformat** Vanligvis ZIP
 
-_Opprettet_ Klokkeslett og dato for når eksporten ble opprettet.
+**Opprettet** Klokkeslett og dato for når eksporten ble opprettet.
 
-_Opprettet av_ Brukeren som opprettet denne eksporten.
+**Opprettet av** Brukeren som opprettet denne eksporten.
 
-_Deling_ Bare brukeren har tilgang til private eksporter mens alle prosjektbrukere har tilgang til eksporter som deles med prosjektet.
+**Deling** Bare brukeren har tilgang til private eksporter mens alle prosjektbrukere har tilgang til eksporter som deles med prosjektet.
 
-_Kommentar_ Kommentaren som var inkludert med denne eksporten.
+**Kommentar** Kommentaren som var inkludert med denne eksporten.
 
 ## 3. **Revisjoner inkludert i denne eksporten**
 
@@ -13012,17 +13012,17 @@ Klikk på det inkluderte revisjonskortet for å åpne [siden med inkludert revis
 
 Den inkluderte revisjonsraden kan inneholde følgende informasjon:
 
-_Modellnavn_ Navnet på modellen som revisjonen tilhører.
+**Modellnavn** Navnet på modellen som revisjonen tilhører.
 
-_Revisjonsnummer_ Den n-te revisjonen i modellen
+**Revisjonsnummer** Den n-te revisjonen i modellen
 
-_2D-, 3D- og nedlastingsknapp_ Klikk på 2D-knappen for å laste 2D-visningen av denne revisjonen inn i 2D-viseren. Klikk på 3D-knappen for å laste 3D-viseren for denne revisjonen inn i 3D-viseren. Klikk på nedlastingsknappen for å laste ned bare denne revisjonen.
+**2D-, 3D- og nedlastingsknapp** Klikk på 2D-knappen for å laste 2D-visningen av denne revisjonen inn i 2D-viseren. Klikk på 3D-knappen for å laste 3D-viseren for denne revisjonen inn i 3D-viseren. Klikk på nedlastingsknappen for å laste ned bare denne revisjonen.
 
-_IFC-versjon_ Versjonen av IFC som denne revisjonen er.
+**IFC-versjon** Versjonen av IFC som denne revisjonen er.
 
-_Opprettelsesdato og tidspunkt_ Klokkeslett og dato da revisjonen ble opprettet.
+**Opprettelsesdato og tidspunkt** Klokkeslett og dato da revisjonen ble opprettet.
 
-_Revisjonsoppretter_ Navnet på brukeren som opprettet revisjonen.
+**Revisjonsoppretter** Navnet på brukeren som opprettet revisjonen.
 
 ### 3.1 **Inkludert revisjonsinnholdsside**
 
@@ -13032,19 +13032,19 @@ Klikk på en inkludert revisjon i listen over inkluderte revisjoner i en eksport
 
 Siden med inkludert revisjonsinnhold kan inneholde følgende informasjon:
 
-_Revisjonsnummer_ Nummeret på revisjonen
+**Revisjonsnummer** Nummeret på revisjonen
 
-_IFC-versjon_ Versjonen av IFC som denne revisjonen er.
+**IFC-versjon** Versjonen av IFC som denne revisjonen er.
 
-_2D-, 3D-, dokument- og nedlastingsknapper._ Klikk på 2D-knappen for å laste 2D-visningen av denne revisjonen inn i 2D-viseren. Klikk på 3D-knappen for å laste 3D-viseren for denne revisjonen inn i 3D-viseren. Klikk på dokumentknappen for å åpne dokumentet som er koblet til denne modellrevisjonen i mappestrukturen på dokumentsiden. Klikk på nedlastingsknappen for å laste ned bare denne revisjonen.
+**2D-, 3D-, dokument- og nedlastingsknapper.** Klikk på 2D-knappen for å laste 2D-visningen av denne revisjonen inn i 2D-viseren. Klikk på 3D-knappen for å laste 3D-viseren for denne revisjonen inn i 3D-viseren. Klikk på dokumentknappen for å åpne dokumentet som er koblet til denne modellrevisjonen i mappestrukturen på dokumentsiden. Klikk på nedlastingsknappen for å laste ned bare denne revisjonen.
 
-_Opprettet_ Datoen og klokkeslettet for når denne revisjonen ble opprettet.
+**Opprettet** Datoen og klokkeslettet for når denne revisjonen ble opprettet.
 
-_Opprettet av_ Brukeren som opprettet denne revisjonen.
+**Opprettet av** Brukeren som opprettet denne revisjonen.
 
-_Modell_ Modellen som denne revisjonen er i.
+**Modell** Modellen som denne revisjonen er i.
 
-_Kommentar_ Kommentaren som følger med denne revisjonen.
+**Kommentar** Kommentaren som følger med denne revisjonen.
 
 # Modelleksportside
 
@@ -13264,17 +13264,17 @@ _2D- og 3D-knapper_ 2D- og 3D-visningene av den siste publiserte revisjonen åpn
 
 ### 4.4 **Radinnhold med statusarbeidsflyt - Arbeidsområde-fane**
 
-_Tilgang_ Modellrader vises basert på tilgangen til dokumentet som er knyttet til modellen. Med tilgang til visning av delte revisjoner vises den siste revisjonen. _Tilgang påkrevd_ - Tilgang til visning av delte revisjoner i dokumentet
+**Tilgang** Modellrader vises basert på tilgangen til dokumentet som er knyttet til modellen. Med tilgang til visning av delte revisjoner vises den siste revisjonen. _Tilgang påkrevd_ - Tilgang til visning av delte revisjoner i dokumentet
 
 Uten tilgang til visning av delte revisjoner vises den siste publiserte revisjonen. Selv om det finnes nyere delte revisjoner. _Tilgang påkrevd -_ Les tilgang til dokumentet
 
-_2D- og 3D-knapper_ 2D- og 3D-visningene av den siste revisjonen som brukeren har tilgang til åpnes.
+**2D- og 3D-knapper** 2D- og 3D-visningene av den siste revisjonen som brukeren har tilgang til åpnes.
 
 ### 4.5 **Radinnhold med statusarbeidsflyt - Publisert-fane**
 
-_Tilgang_ Modellrader vises basert på tilgangen til dokumentet som er knyttet til modellen. _Tilgang påkrevd -_ Les
+**Tilgang** Modellrader vises basert på tilgangen til dokumentet som er knyttet til modellen. _Tilgang påkrevd -_ Les
 
-_2D- og 3D-knapper_ 2D- og 3D-visningene av den siste publiserte revisjonen åpnes selv om det finnes nyere delte revisjoner.
+**2D- og 3D-knapper** 2D- og 3D-visningene av den siste publiserte revisjonen åpnes selv om det finnes nyere delte revisjoner.
 
 ### 4.6 **Kolonner**
 
@@ -15834,7 +15834,7 @@ Klikk [her](https://support.catenda.com/nb/articles/11748020-tabeller-pa-catenda
 
 ### 3.1 **Radinnhold**
 
-_Rapportrad_ Selv om det er mulig å klikke på en rad for å velge den og markere den med grønn farge, er det ingen handlinger som kan utføres ved å velge en rad. Raden velges når handlingsmenyen i den høyre kolonnen velges.
+**Rapportrad** Selv om det er mulig å klikke på en rad for å velge den og markere den med grønn farge, er det ingen handlinger som kan utføres ved å velge en rad. Raden velges når handlingsmenyen i den høyre kolonnen velges.
 
 ### 3.2 **Kolonner**
 
@@ -16089,11 +16089,11 @@ Last opp en ny revisjon av en PDF med plassholdingen til en mappe med QR-kode-ti
 
 Etter at QR-kode plassholdingen er plassert, kan PDF-en lastes opp som en ny revisjon til den konfigurerte mappen. Under opplastingen behandler Catenda bildene i dokumentet.
 
-_Bytekrav_ De riktige bytene som tilhører de svarte og hvite pikslene i Catenda QR-kode plassholdingen må være til stede i riktig rekkefølge.
+**Bytekrav** De riktige bytene som tilhører de svarte og hvite pikslene i Catenda QR-kode plassholdingen må være til stede i riktig rekkefølge.
 
-_Dimensjonskrav_ Bildet må ha en minimumsbredde og -høyde på 2 cm ganger 2 cm.
+**Dimensjonskrav** Bildet må ha en minimumsbredde og -høyde på 2 cm ganger 2 cm.
 
-_Eksempel på generert QR-kode_ Dette er hvordan tittelblokken i eksemplet ovenfor kan se ut etter at PDF-en er behandlet og en QR-kode er lagt til:
+**Eksempel på generert QR-kode** Dette er hvordan tittelblokken i eksemplet ovenfor kan se ut etter at PDF-en er behandlet og en QR-kode er lagt til:
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/jv55kyf8/04-revision-qr-code-generation.png)
 
@@ -16808,7 +16808,7 @@ _Frist endret til \<Due date>_ - Se hvilken frist som ble lagt til _Frist endret
 
 _Beskrivelse endret -_ Klikk på denne boksen for å se hvordan den forrige beskrivelsen så ut.
 
-_Beskrivelse angitt_ Klikk på denne boksen for å se hva beskrivelsen av saken var da den opprinnelig ble opprettet
+**Beskrivelse angitt** Klikk på denne boksen for å se hva beskrivelsen av saken var da den opprinnelig ble opprettet
 
 ### 4.2 **Kommentarer**
 
@@ -16822,9 +16822,9 @@ _Merkelapp lagt til \<Label name>_ - Merkelappen som ble fjernet
 
 ## 6. **Egendefinert felt**
 
-_\<Custom field> angitt til \<Custom field value>_ Hvis et egendefinert felt ble tildelt, vil du se det her
+**\<Custom field> angitt til \<Custom field value>** Hvis et egendefinert felt ble tildelt, vil du se det her
 
-_\<Custom field> endret til \<Custom field value>_ Se hva den egendefinerte feltverdien ble endret til
+**\<Custom field> endret til \<Custom field value>** Se hva den egendefinerte feltverdien ble endret til
 
 ## 7. **Bilde**
 
@@ -17991,11 +17991,11 @@ Tekst - `type=text` Heltall - `type=integer` Desimaltall - `type=double` Rullega
 
 Søk - `search=<Text search>`
 
-_Innhold som kan søkes på_ Tittel på egendefinert felt
+**Innhold som kan søkes på** Tittel på egendefinert felt
 
-_Kapitalisering_ Tekstsøket skiller ikke mellom små og store bokstaver.
+**Kapitalisering** Tekstsøket skiller ikke mellom små og store bokstaver.
 
-_Tegnantumsbeløp_ En eller flere tegn. Innhold som samsvarer med søkefrasen i hvilken som helst del av innholdet, er inkludert i resultatene.
+**Tegnantumsbeløp** En eller flere tegn. Innhold som samsvarer med søkefrasen i hvilken som helst del av innholdet, er inkludert i resultatene.
 
 ## 3. **Tabell for egendefinerte felt**
 
@@ -26661,12 +26661,12 @@ ShareLink sender en e-post fra Catenda Hub til prosjektmedlemmene du velger, med
 
 1. Velg først opptil 100 innholdselementer du vil dele.
 
-    For eksempel noen Dokumenter eller Saker.
+   For eksempel noen Dokumenter eller Saker.
 
-    En ShareLink-mottaker vil da bare se disse elementene.
-    Hvis siden deles med en ShareLink-mottaker, vil de se hele siden, inkludert Filtre, basert på deres tilgang i prosjektet.
+   En ShareLink-mottaker vil da bare se disse elementene.
+   Hvis siden deles med en ShareLink-mottaker, vil de se hele siden, inkludert Filtre, basert på deres tilgang i prosjektet.
 
-1. Klikk på ShareLink-knappen.<br>
+2. Klikk på ShareLink-knappen.<br>
 
 ![](https://raw.githubusercontent.com/catenda/help-center/main/images/e1zqszw1/02-to-use-sharelink.png)
 
@@ -26710,9 +26710,9 @@ E-postmeldingen kan se slik ut hvis du la til et skjermbilde:
 
 1. Klikk på denne Lenken, Catenda Hub vil åpne en side med de delte elementene.
 
-    eller
+   eller
 
-1. Kopier denne URL-en til nettleseren din.
+2. Kopier denne URL-en til nettleseren din.
 
 Når Lenken blir fulgt, vises bare de valgte elementene:
 
@@ -26782,27 +26782,27 @@ Klikk [her](https://support.catenda.com/nb/articles/12289689-status-workflow-api
 
 Settet med kolonner er som følger:
 
-_Navn_
+**Navn**
 
-_Revisjon_
+**Revisjon**
 
-_Revisjonsnavn_
+**Revisjonsnavn**
 
-_Modell-navn_
+**Modell-navn**
 
-_Status_
+**Status**
 
-_Størrelse_
+**Størrelse**
 
-_Merkelapper_
+**Merkelapper**
 
-_Publisert_
+**Publisert**
 
-_Lenker_
+**Lenker**
 
-_Viser_
+**Viser**
 
-_Opprettet_
+**Opprettet**
 
 ### 1.1 **Revisjonsnavn**
 
@@ -26832,9 +26832,9 @@ I øvre høyre hjørne av dokumenttabellen finner du en veldig kraftig ny funksj
 
 ### 2.2 **Kolonneoverskriftsrad**
 
-_Dra kolonner_ Du kan dra på kolonneoverskriften i overskriftsraden for å flytte den til venstre og høyre. Hvis du drar overskriften utenfor tabellen vil den bli skjult. For å få overskriften tilbake må du aktivere den igjen i [kolonneavruller](#h_5f5f6862d0).
+**Dra kolonner** Du kan dra på kolonneoverskriften i overskriftsraden for å flytte den til venstre og høyre. Hvis du drar overskriften utenfor tabellen vil den bli skjult. For å få overskriften tilbake må du aktivere den igjen i [kolonneavruller](#h_5f5f6862d0).
 
-_Auto-tilpassing_ Dobbeltklikk skilletegnet mellom kolonner for å automatisk tilpasse til innholdet i kolonnen. Dette er nyttig når du ser lange dokumentnavn. Breddeendringene du gjør vil bare endres for brukeren og ikke for alle brukerne i prosjektet.
+**Auto-tilpassing** Dobbeltklikk skilletegnet mellom kolonner for å automatisk tilpasse til innholdet i kolonnen. Dette er nyttig når du ser lange dokumentnavn. Breddeendringene du gjør vil bare endres for brukeren og ikke for alle brukerne i prosjektet.
 
 ## 3. **Dynamiske rader**
 

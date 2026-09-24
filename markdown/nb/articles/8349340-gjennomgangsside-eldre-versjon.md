@@ -56,17 +56,17 @@ Hver rad i gjennomgangslisten inneholder et gjennomgangskort med visuelle tegn p
 
 Bare felt som er konfigurert i gjennomgangen, vises på kortet. Noen kort kan derfor vise flere felt enn andre.
 
-_Tittel_ Gjennomgangsttittel
+**Tittel** Gjennomgangsttittel
 
-_Statuser_ Gjennomgangsstatus vises i en boksbakgrunn og ikon avhengig av statusen.
+**Statuser** Gjennomgangsstatus vises i en boksbakgrunn og ikon avhengig av statusen.
 
-_Utgiver_ Gjennomgangsutgiver Hvis ingen utgiver er angitt, vil det si hvem som helst med skrivtilgang.
+**Utgiver** Gjennomgangsutgiver Hvis ingen utgiver er angitt, vil det si hvem som helst med skrivtilgang.
 
-_Frist_ Fristen for gjennomgangen. Kalenderikon og tekst på gjennomgangen er: Grå - Hvis datoen er mer enn to uker fremover i tid. Oransje - Hvis datoen er mindre enn to uker fremover i tid. Rød - Hvis gjennomgangen har passert sin frist.
+**Frist** Fristen for gjennomgangen. Kalenderikon og tekst på gjennomgangen er: Grå - Hvis datoen er mer enn to uker fremover i tid. Oransje - Hvis datoen er mindre enn to uker fremover i tid. Rød - Hvis gjennomgangen har passert sin frist.
 
-_Opprettet av_ Gjennomgangsoppretter og dato og tid for når gjennomgangen ble opprettet.
+**Opprettet av** Gjennomgangsoppretter og dato og tid for når gjennomgangen ble opprettet.
 
-_Gjennomgangsnummer_ Nummeret på gjennomgangen
+**Gjennomgangsnummer** Nummeret på gjennomgangen
 
 ## 4. **Videre lesing**
 

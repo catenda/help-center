@@ -33,14 +33,14 @@ Führen Sie die folgenden Schritte aus, um ein neues Mitglied einzuladen.
 Wenn die Gruppe die gleiche Rolle haben und Teil desselben Teams sein soll, können Sie dann mehr als eine E-Mail-Adresse eingeben.
 
 1. Geben Sie die E-Mail-Adresse ein und drücken Sie die Eingabetaste. Wiederholen Sie dies für jede neue E-Mail-Adresse
-    1. Sie können auch eine durch Kommas getrennte Liste von E-Mail-Adressen eingeben und die Eingabetaste drücken, um mehrere Adressen gleichzeitig hinzuzufügen.
-1. Wählen Sie die Rolle/den Zugriff für die neuen Mitglieder aus
-1. Wählen Sie die Teams aus, denen die Mitglieder angehören sollen.
-1. Klicken Sie auf die Schaltfläche „Hinzufügen"
-1. Wenn es Mitglied(er) mit einer anderen Rolle oder einem anderen Team gibt, wird nach dem Klicken auf die Schaltfläche „Hinzufügen“ eine neue Zeile angezeigt, um diese(s) Mitglied(er) hinzuzufügen.
-1. Klicken Sie auf die Schaltfläche „Einladungen senden"
+   1. Sie können auch eine durch Kommas getrennte Liste von E-Mail-Adressen eingeben und die Eingabetaste drücken, um mehrere Adressen gleichzeitig hinzuzufügen.
+2. Wählen Sie die Rolle/den Zugriff für die neuen Mitglieder aus
+3. Wählen Sie die Teams aus, denen die Mitglieder angehören sollen.
+4. Klicken Sie auf die Schaltfläche „Hinzufügen"
+5. Wenn es Mitglied(er) mit einer anderen Rolle oder einem anderen Team gibt, wird nach dem Klicken auf die Schaltfläche „Hinzufügen“ eine neue Zeile angezeigt, um diese(s) Mitglied(er) hinzuzufügen.
+6. Klicken Sie auf die Schaltfläche „Einladungen senden"
 
-## 3. **Seite „Mitglieder einladen"
+## 3. \*\*Seite „Mitglieder einladen"
 
 Wenn Einladungsempfänger noch kein Konto haben, können sie dem Link in der E-Mail folgen, die ihnen zugesendet wurde. Dies fordert sie auf, ein Konto zu erstellen (keine Sorge, alle Einstellungen können später geändert werden) und sie als Mitglied im Projekt hinzuzufügen. Benutzer mit einem Konto können auch auf die Benachrichtigung klicken, die generiert wurde, als die Einladung versendet wurde, um dem Projekt beizutreten. Wenn der Benutzer die Einladung annimmt, erhalten alle Administratoren eine Benachrichtigung, dass ein Mitglied des Projekts einen Benutzer eingeladen hat.
 

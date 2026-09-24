@@ -9,13 +9,13 @@ Listevisningen i sakslinjen på [sakssiden ](https://support.catenda.com/nb/arti
 I listevisningen av en saksliste er det mulig å sortere saker etter:
 
 1. Nyeste
-1. Eldste
-1. Nylig oppdatert
-1. Minst nylig oppdatert
-1. Frist, nyeste først
-1. Frist, eldste først
-1. Egendefinert felt, synkende
-1. Egendefinert felt, stigende
+2. Eldste
+3. Nylig oppdatert
+4. Minst nylig oppdatert
+5. Frist, nyeste først
+6. Frist, eldste først
+7. Egendefinert felt, synkende
+8. Egendefinert felt, stigende
 
 ## 2. **Sakslisten**
 

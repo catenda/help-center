@@ -73,17 +73,17 @@ _2D- og 3D-knapper_ 2D- og 3D-visningene av den siste publiserte revisjonen åpn
 
 ### 4.4 **Radinnhold med statusarbeidsflyt - Arbeidsområde-fane**
 
-_Tilgang_ Modellrader vises basert på tilgangen til dokumentet som er knyttet til modellen. Med tilgang til visning av delte revisjoner vises den siste revisjonen. _Tilgang påkrevd_ - Tilgang til visning av delte revisjoner i dokumentet
+**Tilgang** Modellrader vises basert på tilgangen til dokumentet som er knyttet til modellen. Med tilgang til visning av delte revisjoner vises den siste revisjonen. _Tilgang påkrevd_ - Tilgang til visning av delte revisjoner i dokumentet
 
 Uten tilgang til visning av delte revisjoner vises den siste publiserte revisjonen. Selv om det finnes nyere delte revisjoner. _Tilgang påkrevd -_ Les tilgang til dokumentet
 
-_2D- og 3D-knapper_ 2D- og 3D-visningene av den siste revisjonen som brukeren har tilgang til åpnes.
+**2D- og 3D-knapper** 2D- og 3D-visningene av den siste revisjonen som brukeren har tilgang til åpnes.
 
 ### 4.5 **Radinnhold med statusarbeidsflyt - Publisert-fane**
 
-_Tilgang_ Modellrader vises basert på tilgangen til dokumentet som er knyttet til modellen. _Tilgang påkrevd -_ Les
+**Tilgang** Modellrader vises basert på tilgangen til dokumentet som er knyttet til modellen. _Tilgang påkrevd -_ Les
 
-_2D- og 3D-knapper_ 2D- og 3D-visningene av den siste publiserte revisjonen åpnes selv om det finnes nyere delte revisjoner.
+**2D- og 3D-knapper** 2D- og 3D-visningene av den siste publiserte revisjonen åpnes selv om det finnes nyere delte revisjoner.
 
 ### 4.6 **Kolonner**
 

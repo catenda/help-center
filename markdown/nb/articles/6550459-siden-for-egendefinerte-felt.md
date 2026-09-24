@@ -34,11 +34,11 @@ Tekst - `type=text` Heltall - `type=integer` Desimaltall - `type=double` Rullega
 
 Søk - `search=<Text search>`
 
-_Innhold som kan søkes på_ Tittel på egendefinert felt
+**Innhold som kan søkes på** Tittel på egendefinert felt
 
-_Kapitalisering_ Tekstsøket skiller ikke mellom små og store bokstaver.
+**Kapitalisering** Tekstsøket skiller ikke mellom små og store bokstaver.
 
-_Tegnantumsbeløp_ En eller flere tegn. Innhold som samsvarer med søkefrasen i hvilken som helst del av innholdet, er inkludert i resultatene.
+**Tegnantumsbeløp** En eller flere tegn. Innhold som samsvarer med søkefrasen i hvilken som helst del av innholdet, er inkludert i resultatene.
 
 ## 3. **Tabell for egendefinerte felt**
 
