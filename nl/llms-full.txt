@@ -25738,6 +25738,10 @@ De tijdelijke aanduiding wordt op de gedeelde revisie geplaatst en de QR-code wo
 
 Een koppeling naar een Figma-, FigJam- of Miro-whiteboard kan in een onderwerp of opmerking worden geplaatst en het whiteboard wordt vervolgens onder de tekst weergegeven. Dit is het whiteboard van de externe service, niet het onderwerpenbord waar het onderwerp zelf op staat. Voeg de koppeling op dezelfde manier toe als elke ander koppeling in de markdown-editor, ofwel als gewone URL ofwel als markdown-opgemaakte koppeling. Het whiteboard verschijnt onder de beschrijving of opmerking zodra het is opgeslagen. Het whiteboard wordt alleen weergegeven voor gebruikers die al bij Figma of Miro zijn aangemeld en die daar toegang tot hebben. Catenda geeft geen toegang; de toegang wordt volledig beheerd in Figma of Miro, dus een gebruiker zonder toegang ziet geen whiteboard-inhoud.
 
+### 1.8 **Documenten-naar-documentenkoppeling**
+
+Verwante Documenten kunnen nu aan elkaar worden gekoppeld, zowel in het documentgebied als in goedkeuringen. Bij het beoordelen van een architectuurtekening bevinden de gekoppelde structuur-, installatie- en afwateringststekeningen zich meteen daar, dus er is geen noodzaak om ze in mappen op te zoeken. 📽️ **[Zelfstudievideo](https://eu.guidde.com/share/playbooks/gULz2n5GJ3SxmEY2qomnVR?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
+
 ## 2. **Bijgewerkte functies**
 
 ### 2.1 **Goedkeuringverbeteringen**
@@ -25746,15 +25750,21 @@ De nieuwe validatiestroom die in Q3 2025 werd uitgebracht, verdiende meer aandac
 
 **👁 [Zichtbaarheid van individuele beoordelaars (3:14):](https://eu.guidde.com/share/playbooks/oAoCAVdJVGQzMTBYvNPHtm?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)** krijg een snel overzicht van de activiteit van elk lid van een team dat is toegewezen aan een goedkeuringsstap, zodat u blokkades snel kunt wegnemen. **[Deel 2 Video (3:26)](https://eu.guidde.com/share/playbooks/7fc2J2cZfisYp4VnUF2szF?origin=7PqdD6oPp9QLchKHNkCwDH3opRS2&mode=videoAndDoc)** **📄 [Documenten in alle openstaande goedkeuringen in één weergave (3:41):](https://eu.guidde.com/share/playbooks/wWhdRkGbbziaHbnbD9Gj8Y?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** zie onmiddellijk de documenten waar u aandacht aan moet besteden, zonder afzonderlijke goedkeuringsaanvragen te openen. **🖱 [Eenklikstoegang tot de beoordelingspagina (2:05):](https://eu.guidde.com/share/playbooks/6e4dQJDoPfjAY84XU282Xp?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** ga rechtstreeks naar de beoordelingspagina en begin met beoordelen. **✅ [Handtekening verplicht van alle teamleden (3:20):](https://eu.guidde.com/share/playbooks/mnNWejVsSnJoH56aHpft5z?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)** zorg ervoor dat elk lid van het beoordelingsteam het document heeft beoordeeld voordat het verder gaat.
 
+**Meerdere documenten tegelijk beoordelen** Meerdere documenten in een goedkeuring kunnen nu in één keer worden beoordeeld en goedgekeurd, in plaats van één voor één. 📽️ **[Zelfstudie-video](https://eu.guidde.com/share/playbooks/acnYCKQCh1WTWzs2i1D2GQ?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
+
 **De titel en beschrijving van een goedkeuring bewerken** De titel en beschrijving van een goedkeuring kunnen nu na indiening worden bewerkt. Eerder waren beide vast ingesteld bij het maken, dus een typfout of een titel die niet meer overeenkwam met de omvang van het verzoek betekende ervan leven voor de hele duur van de goedkeuring, of annuleren en opnieuw beginnen. Bewerking is beperkt tot de persoon die de goedkeuring heeft aangemaakt en tot projectbeheerders. Lid zijn van een indieneringsteam is wat toestaat dat een goedkeuring wordt gemaakt, maar geeft niet het recht om goedkeuringen te bewerken die door andere leden van hetzelfde team zijn aangemaakt. Als een collega het heeft gemaakt, is bewerking niet beschikbaar; de makers of een projectbeheerder moet de wijziging aanbrengen.
 
-**Lange beschrijvingen in het goedkeuringsoverzicht** Lange goedkeuringsbeschrijvingen worden beter verwerkt in het goedkeuringsoverzicht, dus een lange beschrijving duwt de rest van de informatie niet langer uit het zicht.
+**Lange beschrijvingen in het goedkeuringsoverzicht** Lange goedkeuringsbeschrijvingen worden beter afgehandeld in het goedkeuringsoverzicht, zodat een lange beschrijving niet langer de rest van de informatie uit het zicht duwt. Een lange beschrijving wordt ook niet langer afgekapt. Gebruik Meer weergeven en Minder weergeven om dit uit te vouwen en in te vouwen.
 
-**Teamkolom in de tabel documenten-alle-goedkeuringen** De teamkolom in de tabel met documenten in alle openstaande goedkeuringen is verbeterd, waardoor het gemakkelijker is om te zien welk team naar verwachting op elk document moet optreden.
+**Kolom Teams in de tabel met Documenten in alle goedkeuringen** De kolom Teams in de tabel met documenten in alle openstaande goedkeuringen is verbeterd, waardoor het gemakkelijker is te zien welk team naar verwachting op elk document moet reageren. Wanneer een document meerdere beoordelaars-teams heeft, wordt elk teamlabel nu duidelijk weergegeven in de documentlijst.
 
 ### 2.2 **Document vergelijken: tekst vergelijken, niet alleen pixels**
 
 Document vergelijken heeft nu een tekstvergelijking modus naast de bestaande overlaystand. Tekstvergelijking leest de werkelijke tekstinhoud van twee revisies en markeert elke woordwijziging, zodat een specificatie of contract in seconden kan worden gecontroleerd in plaats van regel voor regel te lezen. Overlaystand is ongewijzigd en blijft de juiste keuze voor tekeningen en geometrie, waar een pixelvergelijking nodig is. Beide modi zitten achter dezelfde Vergelijken-actie in de documentviewer, zodat de modus die bij het document past, daar kan worden gekozen. Vergelijken vereist een PDF met minstens twee revisies van hetzelfde document. De knop Vergelijken wordt weergegeven naast de revisiekeuze wanneer aan deze voorwaarden wordt voldaan. Als deze niet zichtbaar is, is het document niet een PDF of heeft slechts één revisie. 📽️ **[Zelfstudie](https://eu.guidde.com/playbooks/9hrXCk2DMw75wrspDCvJDv?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
+
+### 2.3 **Projecttemplates met goedkeuringswerkstromen en Topics-templates**
+
+Nieuwe projecten die zijn gemaakt op basis van een templateproject, bevatten nu de goedkeuringswerkstromen en Topics-templates van de template, dus deze hoeven niet meer in elk nieuw project opnieuw in te stellen. Een goedkeuringswerkstroom of een Topics-template kan ook worden gedupliceerd, zodat een variatie alleen de onderdelen die verschillen hoeft te wijzigen in plaats van helemaal opnieuw te worden opgebouwd. 📽️ **[Zelfstudie-video](https://eu.guidde.com/share/playbooks/gZ36ivayHPwGhubAMgHKQq?origin=6VMUQTF9wwUsoREWtvRVGILBqzz1&mode=videoAndDoc)**
 
 ## 3. **On-demand functies inschakelen**
 
